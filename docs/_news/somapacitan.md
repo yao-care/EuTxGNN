@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthme</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,47 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
+
+### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
+
+---
+
+### [Vitamin D: (K)ein Schutz vor Diabetes? - PTA IN LOVE](https://news.google.com/rss/articles/CBMib0FVX3lxTE45Y25Yal9YbUhXZXhmT1NIbjJpNGxtdnYwbVQ4US1uVlNSeWR5Ry1XOGpYLUtFbGVxODR3ajNENGdLR2lnc2tpN3o3WGZrSmtVZTZtc0ppd2xDbEdpNGNjOGdnalpRQWh1QzhuT1Znbw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMib0FVX3lxTE45Y25Yal9YbUhXZXhmT1NIbjJpNGxtdnYwbVQ4US1uVlNSeWR5Ry1XOGpYLUtFbGVxODR3ajNENGdLR2lnc2tpN3o3WGZrSmtVZTZtc0ppd2xDbEdpNGNjOGdnalpRQWh1QzhuT1Znbw?oc=5)
+
+---
+
+### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+
+---
+
+### [Defekte in Spliceosom-Genen können Diabetes bei Säuglingen auslösen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
+
+---
+
+### [Los neumólogos aconsejan un abordaje continuo del asma: "Tratar solo los síntomas aumenta el riesgo de crisis graves" - Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+
+---
 
 ### [Metabolisches Syndrom: Leberfett und Glukagon rücken in den Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJpMWJGN3VVYlkxZmNSVk1KU0VDV01zY2QxS05hV2Q2VDdmd1dCWlpqU1EtZFcwam1UZmNNZlh5SEUwZWtxdFN2TUFLM09ZRWNyR1Y0RXh2RTItN2VNTEVYanNmQ3NnV3dPcG5GaHF0NUFNZDRiQ2duQU9IcThtZFFvTEVqR1p4TlJNNTFlV05FWEw2bEZGY2kxd1N3cHRZanhjQS1hWTNaMFhMZk9VV0hkVU0?oc=5)
 
@@ -62,11 +102,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Neumólogos insisten en un control continuo del asma: tratar solo los síntomas eleva el riesgo de crisis graves](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQi1ERGpGNUdtWmNURmsxSWpROFcwQkgxaGJJSnJxaTlhb0R2RWpHamdtZmxuRGlKLUNFWldlc3VITkI5SlZMeHAwVGVDWGtYZlJVell5X1hWcjY2SERRMm5WNVhFNHFnNW1lemtNY1ozanFUSmdNaFBGQmdmNVdXc2xteEdoTUVka0dfVkl6WHhHck1Ka0JTejV0ajJYTUdoR0RyQ3ZERVhYNk94d3NKVy1hZmFVM3RtX0ktYTFRZjNnMEdEWC1felFwc0xIdkN5b2JqLThWUXlSTWvSAeABQVVfeXFMUDJSSl9DdzVveUl3QzdUMmV6LTg2MEFBa2JLcnppOXJyRm84eWNQSXdYXzVSMUxVSXZ6QTlYejJkOFBvYjk0S2NKNjBxTFlxTklwbGZPNF90cXR3bHlPZzZGaW41UGtOV0YxZFNKWGNGOWFwUUJmc21seUw4Qm1XRXc4Mi1PMGg0SzQ2bXU2WmhMWFBKUk8zTldOZjhudUdwOGh2ejQ0T1p4RjEtWXMzS2xtYWh0SFVJMU9rMzRSOERVRFN5cXp5di1YOFZhckt6M08xMnYtUHpaSlFsRGlzM1o?oc=5)
+### [Alert to people with asthma using a blue inhaler - 'call your GP' - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
 
-2026-05-05 <span class="news-indication-tag">asma</span>
+2026-05-06 <span class="news-indication-tag">asthma</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQi1ERGpGNUdtWmNURmsxSWpROFcwQkgxaGJJSnJxaTlhb0R2RWpHamdtZmxuRGlKLUNFWldlc3VITkI5SlZMeHAwVGVDWGtYZlJVell5X1hWcjY2SERRMm5WNVhFNHFnNW1lemtNY1ozanFUSmdNaFBGQmdmNVdXc2xteEdoTUVka0dfVkl6WHhHck1Ka0JTejV0ajJYTUdoR0RyQ3ZERVhYNk94d3NKVy1hZmFVM3RtX0ktYTFRZjNnMEdEWC1felFwc0xIdkN5b2JqLThWUXlSTWvSAeABQVVfeXFMUDJSSl9DdzVveUl3QzdUMmV6LTg2MEFBa2JLcnppOXJyRm84eWNQSXdYXzVSMUxVSXZ6QTlYejJkOFBvYjk0S2NKNjBxTFlxTklwbGZPNF90cXR3bHlPZzZGaW41UGtOV0YxZFNKWGNGOWFwUUJmc21seUw4Qm1XRXc4Mi1PMGg0SzQ2bXU2WmhMWFBKUk8zTldOZjhudUdwOGh2ejQ0T1p4RjEtWXMzS2xtYWh0SFVJMU9rMzRSOERVRFN5cXp5di1YOFZhckt6M08xMnYtUHpaSlFsRGlzM1o?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
 
 ---
 
@@ -94,19 +134,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Type 2 diabetes: Blood sugar levels could rise 'too high' if you eat two common fruits - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTkxXT0RaOVMzUVhlVVRTS0x5TklUSVk0M2luMjcwR2FsSTRCRFMzd19JQ3BhaWU4SkNwbFlQa0xsLWo3c2hmUnpqVGNLdVBTNFQ5MlA4X3VDbXNweklVdU92V3lXQ0JoSFZLLXFld1lPVzhZaEo5OVlEcENqQdIBgwFBVV95cUxQWUdWb0liX1hkV3p2ZlBtOUhMaGVKYkdpcFpUTUZjS3E4S2VobHhFTTJUUTVXRkdTbEZfYmJoVVlGTkRkbzhnT05PSlB5TV9JS2l4MTlTaXVBZnlQR2p2ODA3dWVuLW9fem1kNTk2NE5Wa0ZLNUkwTVZISkxHRWpKYW93TQ?oc=5)
+
+2026-05-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTkxXT0RaOVMzUVhlVVRTS0x5TklUSVk0M2luMjcwR2FsSTRCRFMzd19JQ3BhaWU4SkNwbFlQa0xsLWo3c2hmUnpqVGNLdVBTNFQ5MlA4X3VDbXNweklVdU92V3lXQ0JoSFZLLXFld1lPVzhZaEo5OVlEcENqQdIBgwFBVV95cUxQWUdWb0liX1hkV3p2ZlBtOUhMaGVKYkdpcFpUTUZjS3E4S2VobHhFTTJUUTVXRkdTbEZfYmJoVVlGTkRkbzhnT05PSlB5TV9JS2l4MTlTaXVBZnlQR2p2ODA3dWVuLW9fem1kNTk2NE5Wa0ZLNUkwTVZISkxHRWpKYW93TQ?oc=5)
+
+---
+
 ### [Diabète : vous êtes peut-être à risque sans le savoir](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbkI2WnUyUkFWaGVFNUdPYnZmSjJYYVNPRTRFOHRMMWhOaUhGQW56RXFQX080MVZSeHBtUkNOVkc5VlBuTzdraWl0Y2JPMUhEYUxnRHhSOG5zdEpraXMwNktsMWQ?oc=5)
 
 2026-05-05 <span class="news-indication-tag">diabète</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbkI2WnUyUkFWaGVFNUdPYnZmSjJYYVNPRTRFOHRMMWhOaUhGQW56RXFQX080MVZSeHBtUkNOVkc5VlBuTzdraWl0Y2JPMUhEYUxnRHhSOG5zdEpraXMwNktsMWQ?oc=5)
-
----
-
-### [Urgent alert to people with asthma using a blue inhaler - 'call your GP' - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
-
-2026-05-05 <span class="news-indication-tag">asthma</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
 
 ---
 
@@ -131,22 +171,6 @@ permalink: /news/somapacitan/
 2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
----
-
-### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">asthma</span>
-
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
-
----
-
-### [Esta es la inesperada consecuencia en la salud ocular que provocan el asma y los corticoides inhalados - La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaF9fZEhfOWljQUxYblRzLXJTUklNUkpEQ2hGeXRZRnotLW1hOUpZMWZkUjB6dnBsd1pFbFA0a2xoNEZjRVZjeHBKNzJZOUFObzZRVHplTVZIZ1lmWHNiRXJuUnhvd0JpTm1sOUpLRHZSajhEUnVlaC1YbnpQRkMzWXR0QkhtTGpIeXpDM2xwdnF1Tnl5V0R5SWlpQ0tXWkc2eVdCNVBKV3Z6WVNEOTdJeWxiaTZ1a2g5YXlyZFNheDJpcl91aGJEbmstNmNtajJmeWZ2cnFEYVJXaDBqa1VteTlB0gH2AUFVX3lxTE9acW1vaWdrUXdzLTR3RG4xYW9iYWF1LTN0RFJMSFQxYXM1OUstTTNMMi13aU41TDU4UFIybUZxdklFNlBzMlhTak9SVk9DQkkySFYyWDByX0lTMDRPUmdJM0xaLXNET1k0RUZsdHJqbFNWSWQyZDJWNDhsbGg2YVBybC03dll0RVViZF8ydjRGXzBUYV9lS0JncWNMWHBKVThFUzFsbkxteTk2NVJUbWhrZ1VPWE5BZUJHeVJoclVvZDF0dzVNMHZkaG9CMk9mT29KWGZMNGVuOXZfc21kVi1pNUl4eVp0bzZMbU96TnpiOWVKam5rUQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaF9fZEhfOWljQUxYblRzLXJTUklNUkpEQ2hGeXRZRnotLW1hOUpZMWZkUjB6dnBsd1pFbFA0a2xoNEZjRVZjeHBKNzJZOUFObzZRVHplTVZIZ1lmWHNiRXJuUnhvd0JpTm1sOUpLRHZSajhEUnVlaC1YbnpQRkMzWXR0QkhtTGpIeXpDM2xwdnF1Tnl5V0R5SWlpQ0tXWkc2eVdCNVBKV3Z6WVNEOTdJeWxiaTZ1a2g5YXlyZFNheDJpcl91aGJEbmstNmNtajJmeWZ2cnFEYVJXaDBqa1VteTlB0gH2AUFVX3lxTE9acW1vaWdrUXdzLTR3RG4xYW9iYWF1LTN0RFJMSFQxYXM1OUstTTNMMi13aU41TDU4UFIybUZxdklFNlBzMlhTak9SVk9DQkkySFYyWDByX0lTMDRPUmdJM0xaLXNET1k0RUZsdHJqbFNWSWQyZDJWNDhsbGg2YVBybC03dll0RVViZF8ydjRGXzBUYV9lS0JncWNMWHBKVThFUzFsbkxteTk2NVJUbWhrZ1VPWE5BZUJHeVJoclVvZDF0dzVNMHZkaG9CMk9mT29KWGZMNGVuOXZfc21kVi1pNUl4eVp0bzZMbU96TnpiOWVKam5rUQ?oc=5)
 
 ---
 

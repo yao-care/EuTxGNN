@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+
+---
+
+### [Four subtle language shifts that could be early signs of dementia - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+
+2026-05-06 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+
+---
 
 ### [Eating eggs five times a week could cut Alzheimer’s risk - The Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmVZNUxWdFVrVmlDTXpPelFvVncxTlZnM0VxZElWR2lLMkJvU0VvRGtrOEJyV3Zab1kzQlBVOVh4emc2ZW93TzhfVldiWTRYeEViTnlwVDgyZGpBcjk5WE1HRG5KcXNMUnIybFk3VFBJZmZwQzZfclBqUE5UNU80a2VWRExrUmhwRnpMeA?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
+
+---
+
+### [Así afecta la exposición prolongada a la contaminación del aire a la salud](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHR0XzQ1LUJpQjNnZngzYnAwYWpwVF9aQ3pTekNaZml5VjE4Q2VRRDZ5amtGdXMzOHFLVmdsYjFnS2F5dFBLSWZYLVBvcG9TZTNzN3I4a21CQ09BbHBOZ09sQ1MtbWx5emdXR2RLdUt3V19HOVZwODRlZDJPOWQ2UFVZaUhiazYxOTZjQjRjTGxvazRlZnFwdGpBbGZRZVowNWthMno4cmt6OENNM0dLaTQ2QXI5SlY5Z19QbUpzcm9JWGlLMGpKdXJRVlhaMzBjSlQ0eURpN2l0TDR6UzRucWVRSmlkc0hGQWJRcGh4QmtHV01m?oc=5)
+
+2026-05-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHR0XzQ1LUJpQjNnZngzYnAwYWpwVF9aQ3pTekNaZml5VjE4Q2VRRDZ5amtGdXMzOHFLVmdsYjFnS2F5dFBLSWZYLVBvcG9TZTNzN3I4a21CQ09BbHBOZ09sQ1MtbWx5emdXR2RLdUt3V19HOVZwODRlZDJPOWQ2UFVZaUhiazYxOTZjQjRjTGxvazRlZnFwdGpBbGZRZVowNWthMno4cmt6OENNM0dLaTQ2QXI5SlY5Z19QbUpzcm9JWGlLMGpKdXJRVlhaMzBjSlQ0eURpN2l0TDR6UzRucWVRSmlkc0hGQWJRcGh4QmtHV01m?oc=5)
+
+---
 
 ### [Heuschnupfen erhöht offenbar Migränerisiko](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
 

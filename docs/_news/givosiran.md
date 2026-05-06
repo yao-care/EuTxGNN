@@ -54,11 +54,19 @@ permalink: /news/givosiran/
 
 ## 相關新聞（5 則）
 
-### [MSD lanza una campaña de visibilidad de la hipertensión arterial pulmonar - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUZMclRGemt4WEFycW04WVZNb0dNWjZDREdwRTBiTjVEc1dnbVpvbDNwQnF0c3M3VXlQUDNfaFRzQmx1ZzVkQVFLWU1fVTZOZmloM3ZqZ2hIZ0NkcTdrVUs2Z1pzVkN2TXc0SXB5TGxQLXBqbXZhMzI2ekJVODFaRDE4SUVzZHRBcG1lMVlKM1dESUtzUEloM2xiaUtRWUdiNDJUNDdTclQyOUprbmo4U25mdWVLVXVKZkhwcUNWSlBIRlhBRE12akxR0gHKAUFVX3lxTE51dXJpMlhkZTRmOU1XTXhtWXJwTUJXbDdnY2g1QlUwRHBzSTF4SmpnX05FYzVFejZESDRaWTVoR1ZLU2xOVjhmWU1Ta01jUThncVNwSXk1akM0eFRRZmd5ZzVoRHZrSHdHYUE2YXUzTFhMdURJNFpRVkRnQng3N1F5MXZ4cVJyVE44UDlERVZHSlVJWWx4MDIyZVg5alBPYUZyVWEtdHR5R3VMRU5jLUtmRl9lLVFVUHdmZHhNaW9nNTQxMUZrOHlfUkE?oc=5)
+### [Barry hepatitis A cases prompt warning to parents](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sODZDandCb1hfUF9GVktrLUVPTmRDUjRoaXpJRnNoYUJXUmI0WFhUd2t4QUttTm8waHBXLWpWVjFvVkNuZnpRQjViNTBIVHVGNTdXenZzYzZSdUFa?oc=5)
 
-2026-05-05 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUZMclRGemt4WEFycW04WVZNb0dNWjZDREdwRTBiTjVEc1dnbVpvbDNwQnF0c3M3VXlQUDNfaFRzQmx1ZzVkQVFLWU1fVTZOZmloM3ZqZ2hIZ0NkcTdrVUs2Z1pzVkN2TXc0SXB5TGxQLXBqbXZhMzI2ekJVODFaRDE4SUVzZHRBcG1lMVlKM1dESUtzUEloM2xiaUtRWUdiNDJUNDdTclQyOUprbmo4U25mdWVLVXVKZkhwcUNWSlBIRlhBRE12akxR0gHKAUFVX3lxTE51dXJpMlhkZTRmOU1XTXhtWXJwTUJXbDdnY2g1QlUwRHBzSTF4SmpnX05FYzVFejZESDRaWTVoR1ZLU2xOVjhmWU1Ta01jUThncVNwSXk1akM0eFRRZmd5ZzVoRHZrSHdHYUE2YXUzTFhMdURJNFpRVkRnQng3N1F5MXZ4cVJyVE44UDlERVZHSlVJWWx4MDIyZVg5alBPYUZyVWEtdHR5R3VMRU5jLUtmRl9lLVFVUHdmZHhNaW9nNTQxMUZrOHlfUkE?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sODZDandCb1hfUF9GVktrLUVPTmRDUjRoaXpJRnNoYUJXUmI0WFhUd2t4QUttTm8waHBXLWpWVjFvVkNuZnpRQjViNTBIVHVGNTdXenZzYzZSdUFa?oc=5)
+
+---
+
+### [En el marco del Día Mundial de la Hipertensión Pulmonar, SEPAR alerta que el diagnóstico tardío sigue lastrando su pronóstico - Diario Siglo XXI](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTThUcm44czB0RW9USjRHMmN6Y2xKeGFsS0NGUUVGNlY5NmtvbGZ0UjV5RDAwQnMwZmxwQXRRa2tsWUZIX2U0MHBuaVZ3MzFxNVZodTd6eGFpVzEyNVVLLV9NandqRzhPODJyUnFIZWJZOHRoUms2elpOaEhiVWwwOEVhRFdyZmdsODhPa0RiQWJ2OTYycDc4TmIyZXhsRmljNG41MDRSZ0RqaS1UZUVrNncxZTVyQ3VzRzE1TXlaSnQ4RHhBRlhSQ0o2ZzBBd0x5ejhYcG1FbmxoWGgwQ3RxUVQ5OHJKcDRsNVJHYVVFOA?oc=5)
+
+2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTThUcm44czB0RW9USjRHMmN6Y2xKeGFsS0NGUUVGNlY5NmtvbGZ0UjV5RDAwQnMwZmxwQXRRa2tsWUZIX2U0MHBuaVZ3MzFxNVZodTd6eGFpVzEyNVVLLV9NandqRzhPODJyUnFIZWJZOHRoUms2elpOaEhiVWwwOEVhRFdyZmdsODhPa0RiQWJ2OTYycDc4TmIyZXhsRmljNG41MDRSZ0RqaS1UZUVrNncxZTVyQ3VzRzE1TXlaSnQ4RHhBRlhSQ0o2ZzBBd0x5ejhYcG1FbmxoWGgwQ3RxUVQ5OHJKcDRsNVJHYVVFOA?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/givosiran/
 2026-05-04 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
-
----
-
-### [Epatite A a Napoli, le cozze del lago Fusaro di Bacoli saranno trasferite a Nisida](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
-
-2026-05-04 <span class="news-indication-tag">epatite</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
 
 ---
 

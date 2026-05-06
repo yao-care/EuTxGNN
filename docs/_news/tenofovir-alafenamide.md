@@ -54,19 +54,19 @@ permalink: /news/tenofovir-alafenamide/
 
 ## 相關新聞（2 則）
 
+### [Barry hepatitis A cases prompt warning to parents](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sODZDandCb1hfUF9GVktrLUVPTmRDUjRoaXpJRnNoYUJXUmI0WFhUd2t4QUttTm8waHBXLWpWVjFvVkNuZnpRQjViNTBIVHVGNTdXenZzYzZSdUFa?oc=5)
+
+2026-05-06 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sODZDandCb1hfUF9GVktrLUVPTmRDUjRoaXpJRnNoYUJXUmI0WFhUd2t4QUttTm8waHBXLWpWVjFvVkNuZnpRQjViNTBIVHVGNTdXenZzYzZSdUFa?oc=5)
+
+---
+
 ### [WHO warnt: Hepatitis bleibt trotz Fortschritten eine globale Gesundheitsgefahr - Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
 
 2026-05-04 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
-
----
-
-### [Epatite A a Napoli, le cozze del lago Fusaro di Bacoli saranno trasferite a Nisida](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
-
-2026-05-04 <span class="news-indication-tag">epatite</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
 
 ---
 

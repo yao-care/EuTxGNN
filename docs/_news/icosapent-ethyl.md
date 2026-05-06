@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Eight tiny daily habits to lower your heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlczc0ZvTGV3RFhNVzFtb0d3b2t6ZVQ4aktOWEtZekxIVmZUaER0bDl5Nm1UQ0J4MlFjejBfdVlrM1pRUWJmQno0a1hsZENPaFBCNk8yU29vZ2xjUDkyME9IM3hnYzRkVVQ1SFdhS0tKVmZydFNTbjdyeDZiSThadEJOdTFfWU5ZMWZWbXRfWHpmdmd0OEkzMG5vZUp5ZWdYR1VjXw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlczc0ZvTGV3RFhNVzFtb0d3b2t6ZVQ4aktOWEtZekxIVmZUaER0bDl5Nm1UQ0J4MlFjejBfdVlrM1pRUWJmQno0a1hsZENPaFBCNk8yU29vZ2xjUDkyME9IM3hnYzRkVVQ1SFdhS0tKVmZydFNTbjdyeDZiSThadEJOdTFfWU5ZMWZWbXRfWHpmdmd0OEkzMG5vZUp5ZWdYR1VjXw?oc=5)
+
+---
 
 ### [At 23, my shortness of breath and a swollen abdomen were diagnosed as gallbladder issues. They were actually signs of end-stage heart failure - Yahoo Lifestyle Canada](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
 

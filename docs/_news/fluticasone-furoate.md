@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthme</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -54,19 +54,35 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（7 則）
 
+### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+
+---
+
+### [Los neumólogos aconsejan un abordaje continuo del asma: "Tratar solo los síntomas aumenta el riesgo de crisis graves" - Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+
+---
+
+### [Alert to people with asthma using a blue inhaler - 'call your GP' - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asthma</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
+
+---
+
 ### [“Reducir exacerbaciones es uno de los principales objetivos terapéuticos en EPOC; lograrlo indica que estamos impactando en su historia natural”](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXVsN1pGQ2dPSDE4WGN6OS1hb2RoZFJlaGNyVkNteVE4RlN4SGFzVWJvNER2ZWVqdFBaWHlJcl9TaTl1Z184aFgtS2xqRXRKOHZpNjBYWE9DMGJnTGc2QmR6VDNfdmlxRGgzX0tycGxVakVVTjhPZDRsdGVZdkxTNjR3YzZvZk9hNjlwUUgyTkJkVXhPTXpBM1BXcnRpSDVjZGc3bDcwSF9yUzQweG5TRDhTTWhmbUN0aWNiZzdkc2tVZXVWNVE4eXljbzhjQmY5UmYxdWVqdDBEMXZmakNxejU3T0pHODdUdWNhQjVaVnlKZThqVU5KcF9pdWJLYm8?oc=5)
 
 2026-05-05 <span class="news-indication-tag">EPOC</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXVsN1pGQ2dPSDE4WGN6OS1hb2RoZFJlaGNyVkNteVE4RlN4SGFzVWJvNER2ZWVqdFBaWHlJcl9TaTl1Z184aFgtS2xqRXRKOHZpNjBYWE9DMGJnTGc2QmR6VDNfdmlxRGgzX0tycGxVakVVTjhPZDRsdGVZdkxTNjR3YzZvZk9hNjlwUUgyTkJkVXhPTXpBM1BXcnRpSDVjZGc3bDcwSF9yUzQweG5TRDhTTWhmbUN0aWNiZzdkc2tVZXVWNVE4eXljbzhjQmY5UmYxdWVqdDBEMXZmakNxejU3T0pHODdUdWNhQjVaVnlKZThqVU5KcF9pdWJLYm8?oc=5)
-
----
-
-### [Neumólogos insisten en un control continuo del asma: tratar solo los síntomas eleva el riesgo de crisis graves](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQi1ERGpGNUdtWmNURmsxSWpROFcwQkgxaGJJSnJxaTlhb0R2RWpHamdtZmxuRGlKLUNFWldlc3VITkI5SlZMeHAwVGVDWGtYZlJVell5X1hWcjY2SERRMm5WNVhFNHFnNW1lemtNY1ozanFUSmdNaFBGQmdmNVdXc2xteEdoTUVka0dfVkl6WHhHck1Ka0JTejV0ajJYTUdoR0RyQ3ZERVhYNk94d3NKVy1hZmFVM3RtX0ktYTFRZjNnMEdEWC1felFwc0xIdkN5b2JqLThWUXlSTWvSAeABQVVfeXFMUDJSSl9DdzVveUl3QzdUMmV6LTg2MEFBa2JLcnppOXJyRm84eWNQSXdYXzVSMUxVSXZ6QTlYejJkOFBvYjk0S2NKNjBxTFlxTklwbGZPNF90cXR3bHlPZzZGaW41UGtOV0YxZFNKWGNGOWFwUUJmc21seUw4Qm1XRXc4Mi1PMGg0SzQ2bXU2WmhMWFBKUk8zTldOZjhudUdwOGh2ejQ0T1p4RjEtWXMzS2xtYWh0SFVJMU9rMzRSOERVRFN5cXp5di1YOFZhckt6M08xMnYtUHpaSlFsRGlzM1o?oc=5)
-
-2026-05-05 <span class="news-indication-tag">asma</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQi1ERGpGNUdtWmNURmsxSWpROFcwQkgxaGJJSnJxaTlhb0R2RWpHamdtZmxuRGlKLUNFWldlc3VITkI5SlZMeHAwVGVDWGtYZlJVell5X1hWcjY2SERRMm5WNVhFNHFnNW1lemtNY1ozanFUSmdNaFBGQmdmNVdXc2xteEdoTUVka0dfVkl6WHhHck1Ka0JTejV0ajJYTUdoR0RyQ3ZERVhYNk94d3NKVy1hZmFVM3RtX0ktYTFRZjNnMEdEWC1felFwc0xIdkN5b2JqLThWUXlSTWvSAeABQVVfeXFMUDJSSl9DdzVveUl3QzdUMmV6LTg2MEFBa2JLcnppOXJyRm84eWNQSXdYXzVSMUxVSXZ6QTlYejJkOFBvYjk0S2NKNjBxTFlxTklwbGZPNF90cXR3bHlPZzZGaW41UGtOV0YxZFNKWGNGOWFwUUJmc21seUw4Qm1XRXc4Mi1PMGg0SzQ2bXU2WmhMWFBKUk8zTldOZjhudUdwOGh2ejQ0T1p4RjEtWXMzS2xtYWh0SFVJMU9rMzRSOERVRFN5cXp5di1YOFZhckt6M08xMnYtUHpaSlFsRGlzM1o?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### [Urgent alert to people with asthma using a blue inhaler - 'call your GP' - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
-
-2026-05-05 <span class="news-indication-tag">asthma</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
-
----
-
 ### [Asthme sévère : des traitements efficaces... à condition d’avoir le bon diagnostic - Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
 
 2026-05-05 <span class="news-indication-tag">asthme</span>
@@ -94,19 +102,11 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
+### [Un virus aquatique contamine l'Homme pour la première fois : maladie, symptômes… ce que l'on sait de cette découverte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
 
-2026-05-04 <span class="news-indication-tag">asthma</span>
+2026-05-04 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
-
----
-
-### [Esta es la inesperada consecuencia en la salud ocular que provocan el asma y los corticoides inhalados - La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaF9fZEhfOWljQUxYblRzLXJTUklNUkpEQ2hGeXRZRnotLW1hOUpZMWZkUjB6dnBsd1pFbFA0a2xoNEZjRVZjeHBKNzJZOUFObzZRVHplTVZIZ1lmWHNiRXJuUnhvd0JpTm1sOUpLRHZSajhEUnVlaC1YbnpQRkMzWXR0QkhtTGpIeXpDM2xwdnF1Tnl5V0R5SWlpQ0tXWkc2eVdCNVBKV3Z6WVNEOTdJeWxiaTZ1a2g5YXlyZFNheDJpcl91aGJEbmstNmNtajJmeWZ2cnFEYVJXaDBqa1VteTlB0gH2AUFVX3lxTE9acW1vaWdrUXdzLTR3RG4xYW9iYWF1LTN0RFJMSFQxYXM1OUstTTNMMi13aU41TDU4UFIybUZxdklFNlBzMlhTak9SVk9DQkkySFYyWDByX0lTMDRPUmdJM0xaLXNET1k0RUZsdHJqbFNWSWQyZDJWNDhsbGg2YVBybC03dll0RVViZF8ydjRGXzBUYV9lS0JncWNMWHBKVThFUzFsbkxteTk2NVJUbWhrZ1VPWE5BZUJHeVJoclVvZDF0dzVNMHZkaG9CMk9mT29KWGZMNGVuOXZfc21kVi1pNUl4eVp0bzZMbU96TnpiOWVKam5rUQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaF9fZEhfOWljQUxYblRzLXJTUklNUkpEQ2hGeXRZRnotLW1hOUpZMWZkUjB6dnBsd1pFbFA0a2xoNEZjRVZjeHBKNzJZOUFObzZRVHplTVZIZ1lmWHNiRXJuUnhvd0JpTm1sOUpLRHZSajhEUnVlaC1YbnpQRkMzWXR0QkhtTGpIeXpDM2xwdnF1Tnl5V0R5SWlpQ0tXWkc2eVdCNVBKV3Z6WVNEOTdJeWxiaTZ1a2g5YXlyZFNheDJpcl91aGJEbmstNmNtajJmeWZ2cnFEYVJXaDBqa1VteTlB0gH2AUFVX3lxTE9acW1vaWdrUXdzLTR3RG4xYW9iYWF1LTN0RFJMSFQxYXM1OUstTTNMMi13aU41TDU4UFIybUZxdklFNlBzMlhTak9SVk9DQkkySFYyWDByX0lTMDRPUmdJM0xaLXNET1k0RUZsdHJqbFNWSWQyZDJWNDhsbGg2YVBybC03dll0RVViZF8ydjRGXzBUYV9lS0JncWNMWHBKVThFUzFsbkxteTk2NVJUbWhrZ1VPWE5BZUJHeVJoclVvZDF0dzVNMHZkaG9CMk9mT29KWGZMNGVuOXZfc21kVi1pNUl4eVp0bzZMbU96TnpiOWVKam5rUQ?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
 
 ---
 

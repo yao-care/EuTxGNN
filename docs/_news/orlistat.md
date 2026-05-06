@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Fundación MAPFRE elige cuatro proyectos finalistas en sus Premios a la Innovación Social 2026](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
+
+2026-05-06 <span class="news-indication-tag">ictus</span>
+
+來源：[Corresponsables](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
+
+---
+
+### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
+
+---
+
+### [Salud cerebral: MindGuardian, la neurología preventiva y el reto de tecnoproteger nuestro activo más valioso](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
+
+2026-05-06 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+
+來源：[Zonamovilidad.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
+
+---
 
 ### [Black people in England twice as likely to suffer stroke as white counterparts - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3U3Q3hjOWg2LWtaOGRKcWZOQm9YR2NnOTFLejhHbW82X3NPdHV3Q2t3cFZjcjl4c09LNkZzZmFlUHJ2OEItRTV5Zi1Sc09taEFqRkIzUlF1TUQzVXZ0NEZaemxrT3dnOFdXQ20zRy1MaU5TMlNVMnU3R0pUUVVQdXJlRXl0MGdadDl3dmdFVlBTTlc4RVNoeW5IUTdNT2NtX1E?oc=5)
 
@@ -62,27 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Grippe : l’Académie de médecine recommande l’obligation vaccinale pour les soignants - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNjhPbTBLQzhPODhVSUhaNVJEUHdVekJqVDRUMVR0R0FSTTk4TFJpdDh5VHAxTEQ5Z1B3T3JVM0lkaW95V2ZKM0ZIUDdaQlN0YXREZEt4eGF2RkJaYndpa19LeXNWWEg1Tm9TVF9YMkQwaFJ4R0RZNTQydzFyTS1mR2g2RVhhTzlLZ19tbkZrVlBWdkR2bVFfOS1zQUphdFdwVWJrZFo4LXctbXBaUE1jNUR3MXNHM0ctUUVaMXl5OU9iTnJ2Q3U3ZHY4ZWwwOGpIX1JHbXZHSkNycXpQUUpyMjYzdHZlWVJIR0xnekhReUxMRDQ?oc=5)
+### [Así afecta la exposición prolongada a la contaminación del aire a la salud](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHR0XzQ1LUJpQjNnZngzYnAwYWpwVF9aQ3pTekNaZml5VjE4Q2VRRDZ5amtGdXMzOHFLVmdsYjFnS2F5dFBLSWZYLVBvcG9TZTNzN3I4a21CQ09BbHBOZ09sQ1MtbWx5emdXR2RLdUt3V19HOVZwODRlZDJPOWQ2UFVZaUhiazYxOTZjQjRjTGxvazRlZnFwdGpBbGZRZVowNWthMno4cmt6OENNM0dLaTQ2QXI5SlY5Z19QbUpzcm9JWGlLMGpKdXJRVlhaMzBjSlQ0eURpN2l0TDR6UzRucWVRSmlkc0hGQWJRcGh4QmtHV01m?oc=5)
 
-2026-05-05 <span class="news-indication-tag">CVA</span>
+2026-05-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNjhPbTBLQzhPODhVSUhaNVJEUHdVekJqVDRUMVR0R0FSTTk4TFJpdDh5VHAxTEQ5Z1B3T3JVM0lkaW95V2ZKM0ZIUDdaQlN0YXREZEt4eGF2RkJaYndpa19LeXNWWEg1Tm9TVF9YMkQwaFJ4R0RZNTQydzFyTS1mR2g2RVhhTzlLZ19tbkZrVlBWdkR2bVFfOS1zQUphdFdwVWJrZFo4LXctbXBaUE1jNUR3MXNHM0ctUUVaMXl5OU9iTnJ2Q3U3ZHY4ZWwwOGpIX1JHbXZHSkNycXpQUUpyMjYzdHZlWVJIR0xnekhReUxMRDQ?oc=5)
-
----
-
-### [Samsung celebra un año de The Mind Guardian, el proyecto español con el que quiere adelantarse al deterioro cognitivo - Xataka Móvil](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNmh2aHR0R2lfTkNQSlFvSmdxYWRCWWRPYlIwbE5NTVFaRkdvbGFYaG45cGhIWTQ4UzJ5Qk80Y0x2V3VVNVVROGo0NjhqYlE5a3ZsbkJUQmZyaWtCaWctcnEyaDF3dGt2N2RlM3BBZmlhUjJQYzQ2aWRUSHlpQ2c0eWJDSENia3F4dkJneEVrZkdlaGh0ZXUwYVY2RUNsb2hGdUtZTGxoMVlBLVh6SHI0aHhHY0tDMEhQSGJ0UjN4cnctX21TYmk5NFBFNkpyZXdCeUtpYmJhbXczMkd0bjdoY9IB5gFBVV95cUxQQTNqYVZpQnVyWExnWUxDSERGUloyQXN1djJOTDdyWEtSTjk2dHNyVEhWWmJvVUV3YlpDeXpJZnpMekluZXJ2M3RCOTJidE8xOU5YeE9qbVEwamx6RFlnQkhMcGhaOTdSYWlZYXVrVjU3em1CYkRBRGlFOTRuX0V6N0Z6RDNqcGpUeVBCNVUwaHB2UGtSX2J6Tld1a1dWNkpNazQ1SGRRdm1fN0xRTzlrZ0FpekhHdUVweUgySWtjMjVHcFFfYXFWSmdETjFpdkkxV1pjQ29ObGZtTWhaYndDTjUydzI4Zw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Xataka Móvil](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNmh2aHR0R2lfTkNQSlFvSmdxYWRCWWRPYlIwbE5NTVFaRkdvbGFYaG45cGhIWTQ4UzJ5Qk80Y0x2V3VVNVVROGo0NjhqYlE5a3ZsbkJUQmZyaWtCaWctcnEyaDF3dGt2N2RlM3BBZmlhUjJQYzQ2aWRUSHlpQ2c0eWJDSENia3F4dkJneEVrZkdlaGh0ZXUwYVY2RUNsb2hGdUtZTGxoMVlBLVh6SHI0aHhHY0tDMEhQSGJ0UjN4cnctX21TYmk5NFBFNkpyZXdCeUtpYmJhbXczMkd0bjdoY9IB5gFBVV95cUxQQTNqYVZpQnVyWExnWUxDSERGUloyQXN1djJOTDdyWEtSTjk2dHNyVEhWWmJvVUV3YlpDeXpJZnpMekluZXJ2M3RCOTJidE8xOU5YeE9qbVEwamx6RFlnQkhMcGhaOTdSYWlZYXVrVjU3em1CYkRBRGlFOTRuX0V6N0Z6RDNqcGpUeVBCNVUwaHB2UGtSX2J6Tld1a1dWNkpNazQ1SGRRdm1fN0xRTzlrZ0FpekhHdUVweUgySWtjMjVHcFFfYXFWSmdETjFpdkkxV1pjQ29ObGZtTWhaYndDTjUydzI4Zw?oc=5)
-
----
-
-### [Un parche de seda podría ayudar al cerebro a recuperarse tras un ictus](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFByREk1ejBvODd6aXFQZHJYQlBFVmZjaWxQSGpRUWJxamJIVk5CbWQ4TjhrVE1fSjRYZl9NYXBSaU9MaThjVGkwVG9zUTRqX1RaVWVINXl3OFNETGpFam55enRiQTRfb1JDTVAzcHdZeEROc2E2NFhfLUE4SGNHajZkT25QWU5nMWk0OEhWTWtqSUZ4dnc0T2pPeU0tb2hsV1BFeEdMeElnQQ?oc=5)
-
-2026-05-05 <span class="news-indication-tag">ictus</span>
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFByREk1ejBvODd6aXFQZHJYQlBFVmZjaWxQSGpRUWJxamJIVk5CbWQ4TjhrVE1fSjRYZl9NYXBSaU9MaThjVGkwVG9zUTRqX1RaVWVINXl3OFNETGpFam55enRiQTRfb1JDTVAzcHdZeEROc2E2NFhfLUE4SGNHajZkT25QWU5nMWk0OEhWTWtqSUZ4dnc0T2pPeU0tb2hsV1BFeEdMeElnQQ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHR0XzQ1LUJpQjNnZngzYnAwYWpwVF9aQ3pTekNaZml5VjE4Q2VRRDZ5amtGdXMzOHFLVmdsYjFnS2F5dFBLSWZYLVBvcG9TZTNzN3I4a21CQ09BbHBOZ09sQ1MtbWx5emdXR2RLdUt3V19HOVZwODRlZDJPOWQ2UFVZaUhiazYxOTZjQjRjTGxvazRlZnFwdGpBbGZRZVowNWthMno4cmt6OENNM0dLaTQ2QXI5SlY5Z19QbUpzcm9JWGlLMGpKdXJRVlhaMzBjSlQ0eURpN2l0TDR6UzRucWVRSmlkc0hGQWJRcGh4QmtHV01m?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ permalink: /news/orlistat/
 2026-05-05 <span class="news-indication-tag">stroke</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mT0lyV3JNTVlfV24yNmNCX09OQnVnTEJmbWhHYVZBSldyN2hhWnhoUWFzT084N01YeXdtNkVKMVRlUlVqX3JpVkNYeE1xanM2OWs5dWFMN1dGVk10?oc=5)
+
+---
+
+### [Eight tiny daily habits to lower your heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlczc0ZvTGV3RFhNVzFtb0d3b2t6ZVQ4aktOWEtZekxIVmZUaER0bDl5Nm1UQ0J4MlFjejBfdVlrM1pRUWJmQno0a1hsZENPaFBCNk8yU29vZ2xjUDkyME9IM3hnYzRkVVQ1SFdhS0tKVmZydFNTbjdyeDZiSThadEJOdTFfWU5ZMWZWbXRfWHpmdmd0OEkzMG5vZUp5ZWdYR1VjXw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlczc0ZvTGV3RFhNVzFtb0d3b2t6ZVQ4aktOWEtZekxIVmZUaER0bDl5Nm1UQ0J4MlFjejBfdVlrM1pRUWJmQno0a1hsZENPaFBCNk8yU29vZ2xjUDkyME9IM3hnYzRkVVQ1SFdhS0tKVmZydFNTbjdyeDZiSThadEJOdTFfWU5ZMWZWbXRfWHpmdmd0OEkzMG5vZUp5ZWdYR1VjXw?oc=5)
 
 ---
 

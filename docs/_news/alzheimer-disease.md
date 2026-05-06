@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+
+2026-05-06
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+
+---
+
+### [Four subtle language shifts that could be early signs of dementia - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+
+2026-05-06
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+
+---
 
 ### [Eating eggs five times a week could cut Alzheimer’s risk - The Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmVZNUxWdFVrVmlDTXpPelFvVncxTlZnM0VxZElWR2lLMkJvU0VvRGtrOEJyV3Zab1kzQlBVOVh4emc2ZW93TzhfVldiWTRYeEViTnlwVDgyZGpBcjk5WE1HRG5KcXNMUnIybFk3VFBJZmZwQzZfclBqUE5UNU80a2VWRExrUmhwRnpMeA?oc=5)
 
