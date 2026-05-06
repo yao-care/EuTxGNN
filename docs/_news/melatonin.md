@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
 
-2026-05-04 <span class="news-indication-tag">Adipositas</span>
+2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/melatonin/
 2026-05-04 <span class="news-indication-tag">Migräne</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
-
----
-
-### [Braunes Fett als möglicher Gefäßschutz bei Adipositas identifiziert - MedUni Wien](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSy11WW5XVFhBelBGQXlqaTh6Mll6djZWZDc1YkQxZnJzeVY0SWV5TUlCNUhMVEY1S2tLQUUyMkJJR2F2MVJCREVTN2pFcWI0QkduUTRrQzNCQ1RFaVc2ZWFrRXVRQVNSVndMcEFHejZ4cjZCY1p5NnJEY2JLLVI5ZUI2LTRxR1dxRTZmS0o3OFFtSVJHanhUc0YtTTJtNGJFNFV5enFTaHFsZVdyaE9CRjdBOEZQR1AzcVFiNE54WVkxOFdZUllITjdLa3R1OVhnNHlnTW5jWXI?oc=5)
-
-2026-05-04 <span class="news-indication-tag">Adipositas</span>
-
-來源：[MedUni Wien](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSy11WW5XVFhBelBGQXlqaTh6Mll6djZWZDc1YkQxZnJzeVY0SWV5TUlCNUhMVEY1S2tLQUUyMkJJR2F2MVJCREVTN2pFcWI0QkduUTRrQzNCQ1RFaVc2ZWFrRXVRQVNSVndMcEFHejZ4cjZCY1p5NnJEY2JLLVI5ZUI2LTRxR1dxRTZmS0o3OFFtSVJHanhUc0YtTTJtNGJFNFV5enFTaHFsZVdyaE9CRjdBOEZQR1AzcVFiNE54WVkxOFdZUllITjdLa3R1OVhnNHlnTW5jWXI?oc=5)
 
 ---
 

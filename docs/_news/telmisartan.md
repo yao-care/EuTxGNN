@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Black people in England twice as likely to suffer stroke as white counterparts - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3U3Q3hjOWg2LWtaOGRKcWZOQm9YR2NnOTFLejhHbW82X3NPdHV3Q2t3cFZjcjl4c09LNkZzZmFlUHJ2OEItRTV5Zi1Sc09taEFqRkIzUlF1TUQzVXZ0NEZaemxrT3dnOFdXQ20zRy1MaU5TMlNVMnU3R0pUUVVQdXJlRXl0MGdadDl3dmdFVlBTTlc4RVNoeW5IUTdNT2NtX1E?oc=5)
+
+2026-05-05 <span class="news-indication-tag">stroke</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3U3Q3hjOWg2LWtaOGRKcWZOQm9YR2NnOTFLejhHbW82X3NPdHV3Q2t3cFZjcjl4c09LNkZzZmFlUHJ2OEItRTV5Zi1Sc09taEFqRkIzUlF1TUQzVXZ0NEZaemxrT3dnOFdXQ20zRy1MaU5TMlNVMnU3R0pUUVVQdXJlRXl0MGdadDl3dmdFVlBTTlc4RVNoeW5IUTdNT2NtX1E?oc=5)
+
+---
+
+### [Las farmacias catalanas impulsan una campaña para detectar la hipertensión mal controlada - Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
+
+2026-05-05 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
+
+---
 
 ### ['Third of stroke survivors miss out on medication'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mT0lyV3JNTVlfV24yNmNCX09OQnVnTEJmbWhHYVZBSldyN2hhWnhoUWFzT084N01YeXdtNkVKMVRlUlVqX3JpVkNYeE1xanM2OWs5dWFMN1dGVk10?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [At 23, my shortness of breath and a swollen abdomen were diagnosed as gallbladder issues. They were actually signs of end-stage heart failure - Yahoo Lifestyle Canada](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
+### [At 23, my shortness of breath and a swollen abdomen were diagnosed as gallbladder issues. They were actually signs of end-stage heart failure](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
 
 2026-05-04 <span class="news-indication-tag">heart failure</span>
 
-來源：[Yahoo Lifestyle Canada](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
+來源：[ca.style.yahoo.com](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
 
 ---
 

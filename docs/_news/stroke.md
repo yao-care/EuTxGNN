@@ -3,7 +3,7 @@ layout: default
 title: "stroke 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "stroke 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "stroke 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="stroke 有什麼相關新聞？">
-<strong>stroke</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>stroke</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Black people in England twice as likely to suffer stroke as white counterparts - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3U3Q3hjOWg2LWtaOGRKcWZOQm9YR2NnOTFLejhHbW82X3NPdHV3Q2t3cFZjcjl4c09LNkZzZmFlUHJ2OEItRTV5Zi1Sc09taEFqRkIzUlF1TUQzVXZ0NEZaemxrT3dnOFdXQ20zRy1MaU5TMlNVMnU3R0pUUVVQdXJlRXl0MGdadDl3dmdFVlBTTlc4RVNoeW5IUTdNT2NtX1E?oc=5)
+
+2026-05-05
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3U3Q3hjOWg2LWtaOGRKcWZOQm9YR2NnOTFLejhHbW82X3NPdHV3Q2t3cFZjcjl4c09LNkZzZmFlUHJ2OEItRTV5Zi1Sc09taEFqRkIzUlF1TUQzVXZ0NEZaemxrT3dnOFdXQ20zRy1MaU5TMlNVMnU3R0pUUVVQdXJlRXl0MGdadDl3dmdFVlBTTlc4RVNoeW5IUTdNT2NtX1E?oc=5)
+
+---
 
 ### ['Third of stroke survivors miss out on medication'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mT0lyV3JNTVlfV24yNmNCX09OQnVnTEJmbWhHYVZBSldyN2hhWnhoUWFzT084N01YeXdtNkVKMVRlUlVqX3JpVkNYeE1xanM2OWs5dWFMN1dGVk10?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Tadalafil 有什麼相關新聞？">
-<strong>Tadalafil</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tadalafil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tadalafil/
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（20 則）
 
-### [Los tres pasajeros con hantavirus serán evacuados a Países Bajos y Alemania: Sanidad pide que el crucero no pare en Canarias - Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
+### [Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
 
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
+
+---
+
+### [FDA blocked studies finding Covid and shingles vaccines safe, HHS official says - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFZZcjhvZUxuc0ktSzFaelhlRFdBVmRYTjBzRmJVbXhLRURMdkEwdHo5ejg3dF9hdXNmUmVvdnZJcTUxVk1heFFTUlNqSmEyb3BVQUk3SS1ZaTVvR2kxMFNJNEl3cmNNZjF0dlJaYWRNX0w5RzI2TUgya0MwcVEtSWwxd3Yzc3ZfUktB?oc=5)
+
+2026-05-05 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFZZcjhvZUxuc0ktSzFaelhlRFdBVmRYTjBzRmJVbXhLRURMdkEwdHo5ejg3dF9hdXNmUmVvdnZJcTUxVk1heFFTUlNqSmEyb3BVQUk3SS1ZaTVvR2kxMFNJNEl3cmNNZjF0dlJaYWRNX0w5RzI2TUgya0MwcVEtSWwxd3Yzc3ZfUktB?oc=5)
+
+---
+
+### [Lisa Mayr erhält Mannagetta-Förderpreis der Österreichischen Akademie der Wissenschaften - MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
+
+2026-05-05 <span class="news-indication-tag">AF</span>
+
+來源：[MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
 
 ---
 
@@ -70,22 +86,6 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Unwell British crew member to be ‘urgently’ evacuated from cruise ship after hantavirus cases - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk51UUUwWFBJLXFwUHNoamctRWVHWFlrUnRXWkplSGczODJ6bGdOaVoxR3gwb1VRa0lkTVA4VWd2aFY5UHh0Z25jcXN6LXphS2VSVWNybWZPZTNXWmhFUHdiTVctNnd2eW81S2pKR3JheEk3Xzd2ZUpNX1N4WVpJVGl2UmVmdVliaUEySFdDakR0dEdNTzNCUW1ja25zd1JZMTEyNkQyUmlRWUxXOGZWdw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk51UUUwWFBJLXFwUHNoamctRWVHWFlrUnRXWkplSGczODJ6bGdOaVoxR3gwb1VRa0lkTVA4VWd2aFY5UHh0Z25jcXN6LXphS2VSVWNybWZPZTNXWmhFUHdiTVctNnd2eW81S2pKR3JheEk3Xzd2ZUpNX1N4WVpJVGl2UmVmdVliaUEySFdDakR0dEdNTzNCUW1ja25zd1JZMTEyNkQyUmlRWUxXOGZWdw?oc=5)
-
----
-
-### [Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
-
----
-
 ### [Long COVID bei Kindern: Studie zeigt unterschiedliche Krankheitsverläufe - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRGgwLWVWaElSRWZnSEdLRjBiNEh0TEhocVZVVDhibURLRXRWekF1cXhuRzhsUnhfRDByMFpNM3F5YW9pRXkyY2NwNA?oc=5)
 
 2026-05-05 <span class="news-indication-tag">AF</span>
@@ -94,11 +94,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Lisa Mayr erhält Mannagetta-Förderpreis der Österreichischen Akademie der Wissenschaften - MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
+### [Las farmacias catalanas impulsan una campaña para detectar la hipertensión mal controlada - Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
 
-2026-05-05 <span class="news-indication-tag">AF</span>
+2026-05-05 <span class="news-indication-tag">hipertensión</span>
 
-來源：[MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
+來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
 
 ---
 
@@ -126,6 +126,14 @@ permalink: /news/tadalafil/
 
 ---
 
+### [Human heart can regrow muscle after attack, scientists find- - Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
+
+---
+
 ### [Südamerika: Wo die Kartoffel das Erbgut formte - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajBlYW16MXlZU0J3S2FkTUE1UTR2QjVjY0NsRmxvWUc4di1DSmNsY3lfZE1Od3owT3p6M21DemtIaG0tS2VYMTZqZnNOR18wd1UxWVNUYnBBS2k1UnlRS0NtZk10V3U4SHRQMWFLVjJnVkhWRC1ZNkxjbXI4MXhfSFpJQmtvZEhIZUdv?oc=5)
 
 2026-05-04 <span class="news-indication-tag">AF</span>
@@ -142,22 +150,6 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Man made infertile by chemotherapy could now have children - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDd2clJJN1JKS0xIMm5Uc0FuV1R5SVUxSUhYb3B2aThHSk5BTXdrMlVDZVNJcTVpaGNfbVJ3QlhLY212cjFwYlhQTVY0WUF6dC15ejlTZnlLOG5JMUd1MHhqVjFQaFV1MXBwMUdBa1ZnVldkRUxOY0Z4YTNYeGRSNWV4S1RnRmlqNEE2X0NtMA?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDd2clJJN1JKS0xIMm5Uc0FuV1R5SVUxSUhYb3B2aThHSk5BTXdrMlVDZVNJcTVpaGNfbVJ3QlhLY212cjFwYlhQTVY0WUF6dC15ejlTZnlLOG5JMUd1MHhqVjFQaFV1MXBwMUdBa1ZnVldkRUxOY0Z4YTNYeGRSNWV4S1RnRmlqNEE2X0NtMA?oc=5)
-
----
-
-### [Un virus aquatique contamine l'Homme pour la première fois : maladie, symptômes… ce que l'on sait de cette découverte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
-
----
-
 ### [Supernova in NGC 5907 - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxOeXMwSzdzWFBST1hQWkJyQl9RTi10cTRCUTFxdUVWTHNsZlpqUFFRZWsza3dwcS14S2piM1J4YnBkWlFYeURqTHpWQU91QjlRbll6YmlySFlHUENRS2c5WnZrOXBrbW9kUVMyN3l0WnhfOHRRdjE0VGpPVUdCU1d6S2lZY2ZKQQ?oc=5)
 
 2026-05-04 <span class="news-indication-tag">AF</span>
@@ -166,11 +158,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [At 23, my shortness of breath and a swollen abdomen were diagnosed as gallbladder issues. They were actually signs of end-stage heart failure - Yahoo Lifestyle Canada](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
+### [At 23, my shortness of breath and a swollen abdomen were diagnosed as gallbladder issues. They were actually signs of end-stage heart failure](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
 
 2026-05-04 <span class="news-indication-tag">heart failure</span>
 
-來源：[Yahoo Lifestyle Canada](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
+來源：[ca.style.yahoo.com](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
 
 ---
 
@@ -179,22 +171,6 @@ permalink: /news/tadalafil/
 2026-05-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
-
----
-
-### [Baby left brain damaged after hospital waited 30 minutes for vital test despite mum's desperate pleas - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcG0yaE1FXzBXWFNhUFZKQmtUR09oeTZ6NVgxbzdJbDRKeFhzeVRrTkpuaDdNY1NPSjdzVDN6OEhGQWQ3d3FWQVpVQmYwRzhYNWhMM1JnV3ZQWWpsb1VFVldFUl9UcnprX25rYkhjT0VnVXZMQW5aODY4ZmRXODlmcWtn0gGHAUFVX3lxTE9SQndKeFRyWmRxbE5DUFJTSTMySmFsTUN0Qlc1T25PV1ZBVExSeVlYeEQ0dlh5OXRVQy1hWXVoMXlQR055dDZ5ajZKYUlzc0xteXlVSTh2UXF5d2l2UXJCYTdhcHctekRNd1hpRUlpS09Hbjc0a3MwOHhSOW9DaVoxZnV6Ylk5RQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcG0yaE1FXzBXWFNhUFZKQmtUR09oeTZ6NVgxbzdJbDRKeFhzeVRrTkpuaDdNY1NPSjdzVDN6OEhGQWQ3d3FWQVpVQmYwRzhYNWhMM1JnV3ZQWWpsb1VFVldFUl9UcnprX25rYkhjT0VnVXZMQW5aODY4ZmRXODlmcWtn0gGHAUFVX3lxTE9SQndKeFRyWmRxbE5DUFJTSTMySmFsTUN0Qlc1T25PV1ZBVExSeVlYeEQ0dlh5OXRVQy1hWXVoMXlQR055dDZ5ajZKYUlzc0xteXlVSTh2UXF5d2l2UXJCYTdhcHctekRNd1hpRUlpS09Hbjc0a3MwOHhSOW9DaVoxZnV6Ylk5RQ?oc=5)
-
----
-
-### [Ancient Document Confirms “Legendary” African King Actually Existed](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
 
 ---
 
@@ -211,14 +187,6 @@ permalink: /news/tadalafil/
 2026-05-04 <span class="news-indication-tag">Migräne</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
-
----
-
-### [Neue Methode deckt verborgene Veränderungen bei Vitamin B12 auf - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yUHZ2TERrMENMU20yTUZUemk1MWhHLUkzWWc1aFYwbTlYdlJ6bXN3dU02SHJ3UGdNenYzWGlvMHd6UTFQVWxXWWRMNA?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yUHZ2TERrMENMU20yTUZUemk1MWhHLUkzWWc1aFYwbTlYdlJ6bXN3dU02SHJ3UGdNenYzWGlvMHd6UTFQVWxXWWRMNA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/loxapine/
 ---
 
 <p class="key-answer" data-question="Loxapine 有什麼相關新聞？">
-<strong>Loxapine</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Loxapine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/loxapine/
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（22 則）
 
-### [Los tres pasajeros con hantavirus serán evacuados a Países Bajos y Alemania: Sanidad pide que el crucero no pare en Canarias - Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
+### [Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
 
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
 
 ---
 
-### [Casi Hantavirus, Oms: "Su nave possibile trasmissione da uomo a uomo” - Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTFBuc05EQ0pOdUJUZThmeUwwM2tad05GQml6VmRITXY2Q3FsLXkyNkZpT1VDOTZSbnVvZHpjeWR6OEdrNlM2RzJmRkZlU0JoQUF1M0F2ZXd4UnlxU0ZJMWVTbGNZT3YtSFB4YzZpeXdTNllCeWd5S21zcw?oc=5)
+### [Hantavirus, l'Oms: «Possibile contagio uomo-uomo sulla nave da crociera». Madrid: ok sbarco alle Canarie - Il Mattino](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajJ0M1QtRGEwTkg1ZUQyaEpZek9DN180SzBVNjNvbWppYTctR2hFRE5UbmNscm9BTDF1ajd1S0FQM1VHUnY0NHBuQTRZaHlwQWx6NlY4QU1KVnl2eDRZSEVKXzJGQjJCR0VrMUdVRDRkcUhoWVJESk1LQWJPZlZoeVNheHBVM0poWVBmalV5MVI0T2IwZndyV0pGM19OeFVTT0dQMVpnd3o5QdIBpgFBVV95cUxQeTNiaVBxYlBmLU1RbUVHNDV3ZTdQRFJ0aERHS29EU3p1VWhteXl3M2tRTW1sVVo2d1RaNG9FMmhSQ2M3cXFnOU0tMFZ4by1BUDBsXzQ4S0VpWGl3ZFNtMlR1RW9rY3A3NGZHOXh5b3pkakI0a0tMaXJwejZMMjdjY1hSY2luX1JQcElUQ0VzNDdSaHV5NWs0OHhuZXhQV0o3SWM4T2NB?oc=5)
 
 2026-05-05 <span class="news-indication-tag">MS</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTFBuc05EQ0pOdUJUZThmeUwwM2tad05GQml6VmRITXY2Q3FsLXkyNkZpT1VDOTZSbnVvZHpjeWR6OEdrNlM2RzJmRkZlU0JoQUF1M0F2ZXd4UnlxU0ZJMWVTbGNZT3YtSFB4YzZpeXdTNllCeWd5S21zcw?oc=5)
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajJ0M1QtRGEwTkg1ZUQyaEpZek9DN180SzBVNjNvbWppYTctR2hFRE5UbmNscm9BTDF1ajd1S0FQM1VHUnY0NHBuQTRZaHlwQWx6NlY4QU1KVnl2eDRZSEVKXzJGQjJCR0VrMUdVRDRkcUhoWVJESk1LQWJPZlZoeVNheHBVM0poWVBmalV5MVI0T2IwZndyV0pGM19OeFVTT0dQMVpnd3o5QdIBpgFBVV95cUxQeTNiaVBxYlBmLU1RbUVHNDV3ZTdQRFJ0aERHS29EU3p1VWhteXl3M2tRTW1sVVo2d1RaNG9FMmhSQ2M3cXFnOU0tMFZ4by1BUDBsXzQ4S0VpWGl3ZFNtMlR1RW9rY3A3NGZHOXh5b3pkakI0a0tMaXJwejZMMjdjY1hSY2luX1JQcElUQ0VzNDdSaHV5NWs0OHhuZXhQV0o3SWM4T2NB?oc=5)
+
+---
+
+### [FDA blocked studies finding Covid and shingles vaccines safe, HHS official says - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFZZcjhvZUxuc0ktSzFaelhlRFdBVmRYTjBzRmJVbXhLRURMdkEwdHo5ejg3dF9hdXNmUmVvdnZJcTUxVk1heFFTUlNqSmEyb3BVQUk3SS1ZaTVvR2kxMFNJNEl3cmNNZjF0dlJaYWRNX0w5RzI2TUgya0MwcVEtSWwxd3Yzc3ZfUktB?oc=5)
+
+2026-05-05 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFZZcjhvZUxuc0ktSzFaelhlRFdBVmRYTjBzRmJVbXhLRURMdkEwdHo5ejg3dF9hdXNmUmVvdnZJcTUxVk1heFFTUlNqSmEyb3BVQUk3SS1ZaTVvR2kxMFNJNEl3cmNNZjF0dlJaYWRNX0w5RzI2TUgya0MwcVEtSWwxd3Yzc3ZfUktB?oc=5)
+
+---
+
+### [Cruise ship with hantavirus outbreak to sail to Canary Islands](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MmlQcWxyQkl3cmhTMVVaWkkxYzhLd2E0UjdOM1JfYnV1UmJzTDFzRHo2bHZYeVNMNTk5dFZWdm05NC11dHJPY25YU1c0bElCck9rTDd6S3Eza3pq?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MmlQcWxyQkl3cmhTMVVaWkkxYzhLd2E0UjdOM1JfYnV1UmJzTDFzRHo2bHZYeVNMNTk5dFZWdm05NC11dHJPY25YU1c0bElCck9rTDd6S3Eza3pq?oc=5)
+
+---
+
+### [La OMS y Sanidad acuerdan que el crucero con un brote de hantavirus escale en Canarias tras evacuar a los casos graves](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
+
+---
+
+### [Lisa Mayr erhält Mannagetta-Förderpreis der Österreichischen Akademie der Wissenschaften - MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
+
+2026-05-05 <span class="news-indication-tag">AF</span>
+
+來源：[MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
 
 ---
 
@@ -78,22 +110,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [Unwell British crew member to be ‘urgently’ evacuated from cruise ship after hantavirus cases - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk51UUUwWFBJLXFwUHNoamctRWVHWFlrUnRXWkplSGczODJ6bGdOaVoxR3gwb1VRa0lkTVA4VWd2aFY5UHh0Z25jcXN6LXphS2VSVWNybWZPZTNXWmhFUHdiTVctNnd2eW81S2pKR3JheEk3Xzd2ZUpNX1N4WVpJVGl2UmVmdVliaUEySFdDakR0dEdNTzNCUW1ja25zd1JZMTEyNkQyUmlRWUxXOGZWdw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk51UUUwWFBJLXFwUHNoamctRWVHWFlrUnRXWkplSGczODJ6bGdOaVoxR3gwb1VRa0lkTVA4VWd2aFY5UHh0Z25jcXN6LXphS2VSVWNybWZPZTNXWmhFUHdiTVctNnd2eW81S2pKR3JheEk3Xzd2ZUpNX1N4WVpJVGl2UmVmdVliaUEySFdDakR0dEdNTzNCUW1ja25zd1JZMTEyNkQyUmlRWUxXOGZWdw?oc=5)
-
----
-
-### [Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
-
----
-
 ### [Long COVID bei Kindern: Studie zeigt unterschiedliche Krankheitsverläufe - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nRGgwLWVWaElSRWZnSEdLRjBiNEh0TEhocVZVVDhibURLRXRWekF1cXhuRzhsUnhfRDByMFpNM3F5YW9pRXkyY2NwNA?oc=5)
 
 2026-05-05 <span class="news-indication-tag">AF</span>
@@ -102,11 +118,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Lisa Mayr erhält Mannagetta-Förderpreis der Österreichischen Akademie der Wissenschaften - MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
+### [La farmacia hospitalaria se actualiza ante los nuevos retos terapéuticos en neurología - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
 
-2026-05-05 <span class="news-indication-tag">AF</span>
+2026-05-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
 
 ---
 
@@ -142,6 +158,14 @@ permalink: /news/loxapine/
 
 ---
 
+### [Human heart can regrow muscle after attack, scientists find- - Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
+
+---
+
 ### [Südamerika: Wo die Kartoffel das Erbgut formte - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajBlYW16MXlZU0J3S2FkTUE1UTR2QjVjY0NsRmxvWUc4di1DSmNsY3lfZE1Od3owT3p6M21DemtIaG0tS2VYMTZqZnNOR18wd1UxWVNUYnBBS2k1UnlRS0NtZk10V3U4SHRQMWFLVjJnVkhWRC1ZNkxjbXI4MXhfSFpJQmtvZEhIZUdv?oc=5)
 
 2026-05-04 <span class="news-indication-tag">AF</span>
@@ -166,22 +190,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [Man made infertile by chemotherapy could now have children - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDd2clJJN1JKS0xIMm5Uc0FuV1R5SVUxSUhYb3B2aThHSk5BTXdrMlVDZVNJcTVpaGNfbVJ3QlhLY212cjFwYlhQTVY0WUF6dC15ejlTZnlLOG5JMUd1MHhqVjFQaFV1MXBwMUdBa1ZnVldkRUxOY0Z4YTNYeGRSNWV4S1RnRmlqNEE2X0NtMA?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDd2clJJN1JKS0xIMm5Uc0FuV1R5SVUxSUhYb3B2aThHSk5BTXdrMlVDZVNJcTVpaGNfbVJ3QlhLY212cjFwYlhQTVY0WUF6dC15ejlTZnlLOG5JMUd1MHhqVjFQaFV1MXBwMUdBa1ZnVldkRUxOY0Z4YTNYeGRSNWV4S1RnRmlqNEE2X0NtMA?oc=5)
-
----
-
-### [Un virus aquatique contamine l'Homme pour la première fois : maladie, symptômes… ce que l'on sait de cette découverte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
-
----
-
 ### [Supernova in NGC 5907 - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxOeXMwSzdzWFBST1hQWkJyQl9RTi10cTRCUTFxdUVWTHNsZlpqUFFRZWsza3dwcS14S2piM1J4YnBkWlFYeURqTHpWQU91QjlRbll6YmlySFlHUENRS2c5WnZrOXBrbW9kUVMyN3l0WnhfOHRRdjE0VGpPVUdCU1d6S2lZY2ZKQQ?oc=5)
 
 2026-05-04 <span class="news-indication-tag">AF</span>
@@ -190,35 +198,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Baby left brain damaged after hospital waited 30 minutes for vital test despite mum's desperate pleas - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcG0yaE1FXzBXWFNhUFZKQmtUR09oeTZ6NVgxbzdJbDRKeFhzeVRrTkpuaDdNY1NPSjdzVDN6OEhGQWQ3d3FWQVpVQmYwRzhYNWhMM1JnV3ZQWWpsb1VFVldFUl9UcnprX25rYkhjT0VnVXZMQW5aODY4ZmRXODlmcWtn0gGHAUFVX3lxTE9SQndKeFRyWmRxbE5DUFJTSTMySmFsTUN0Qlc1T25PV1ZBVExSeVlYeEQ0dlh5OXRVQy1hWXVoMXlQR055dDZ5ajZKYUlzc0xteXlVSTh2UXF5d2l2UXJCYTdhcHctekRNd1hpRUlpS09Hbjc0a3MwOHhSOW9DaVoxZnV6Ylk5RQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcG0yaE1FXzBXWFNhUFZKQmtUR09oeTZ6NVgxbzdJbDRKeFhzeVRrTkpuaDdNY1NPSjdzVDN6OEhGQWQ3d3FWQVpVQmYwRzhYNWhMM1JnV3ZQWWpsb1VFVldFUl9UcnprX25rYkhjT0VnVXZMQW5aODY4ZmRXODlmcWtn0gGHAUFVX3lxTE9SQndKeFRyWmRxbE5DUFJTSTMySmFsTUN0Qlc1T25PV1ZBVExSeVlYeEQ0dlh5OXRVQy1hWXVoMXlQR055dDZ5ajZKYUlzc0xteXlVSTh2UXF5d2l2UXJCYTdhcHctekRNd1hpRUlpS09Hbjc0a3MwOHhSOW9DaVoxZnV6Ylk5RQ?oc=5)
-
----
-
-### [Ancient Document Confirms “Legendary” African King Actually Existed](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
-
----
-
 ### [Fibrillazione atriale, a Firenze il primo intervento innovativo. Cosa è e come funziona il campo elettrico pulsato - La Nazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVkF6Zk5xNUM0SG9admJCZDFIeEhMNW1JbURSQ3BsVDNfeTZLYnBxdE15Q2tZYmVzUjFSSVZpVWMzZG1vb1NDNTFjeDVqZ1VZeUhhT3M4UkcyZ3ptajUydVVYbHI5Ukc3QXJGRlAwRTZRZ0F1bkhvbU90RGpSSjRJYXZ5SHhPRGhWNktXWjFpMGxidUxxY3VTN0hpUmxfei1lSEZuanZtZnZNdEI1RVhFMjhDaGlNRVdKSjQtQ19QMlpTY0RjNlFRYWM1QnlqeVlQUmx3NEQ5d0Y2bHhqcTNvMTR3aGNtSE8zMlpjazhjNFowRmk4?oc=5)
 
 2026-05-04 <span class="news-indication-tag">AFib</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVkF6Zk5xNUM0SG9admJCZDFIeEhMNW1JbURSQ3BsVDNfeTZLYnBxdE15Q2tZYmVzUjFSSVZpVWMzZG1vb1NDNTFjeDVqZ1VZeUhhT3M4UkcyZ3ptajUydVVYbHI5Ukc3QXJGRlAwRTZRZ0F1bkhvbU90RGpSSjRJYXZ5SHhPRGhWNktXWjFpMGxidUxxY3VTN0hpUmxfei1lSEZuanZtZnZNdEI1RVhFMjhDaGlNRVdKSjQtQ19QMlpTY0RjNlFRYWM1QnlqeVlQUmx3NEQ5d0Y2bHhqcTNvMTR3aGNtSE8zMlpjazhjNFowRmk4?oc=5)
-
----
-
-### [Neue Methode deckt verborgene Veränderungen bei Vitamin B12 auf - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yUHZ2TERrMENMU20yTUZUemk1MWhHLUkzWWc1aFYwbTlYdlJ6bXN3dU02SHJ3UGdNenYzWGlvMHd6UTFQVWxXWWRMNA?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yUHZ2TERrMENMU20yTUZUemk1MWhHLUkzWWc1aFYwbTlYdlJ6bXN3dU02SHJ3UGdNenYzWGlvMHd6UTFQVWxXWWRMNA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="Febuxostat 有什麼相關新聞？">
-<strong>Febuxostat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Febuxostat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/febuxostat/
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Las farmacias catalanas impulsan una campaña para detectar la hipertensión mal controlada - Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
+
+2026-05-05 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
+
+---
 
 
 <div class="disclaimer">

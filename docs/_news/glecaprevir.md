@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Los tres pasajeros con hantavirus serán evacuados a Países Bajos y Alemania: Sanidad pide que el crucero no pare en Canarias - Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
-
----
-
-### [Casi Hantavirus, Oms: "Su nave possibile trasmissione da uomo a uomo” - Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTFBuc05EQ0pOdUJUZThmeUwwM2tad05GQml6VmRITXY2Q3FsLXkyNkZpT1VDOTZSbnVvZHpjeWR6OEdrNlM2RzJmRkZlU0JoQUF1M0F2ZXd4UnlxU0ZJMWVTbGNZT3YtSFB4YzZpeXdTNllCeWd5S21zcw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTFBuc05EQ0pOdUJUZThmeUwwM2tad05GQml6VmRITXY2Q3FsLXkyNkZpT1VDOTZSbnVvZHpjeWR6OEdrNlM2RzJmRkZlU0JoQUF1M0F2ZXd4UnlxU0ZJMWVTbGNZT3YtSFB4YzZpeXdTNllCeWd5S21zcw?oc=5)
-
----
+## 相關新聞（10 則）
 
 ### [Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
 
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
+
+---
+
+### [Hantavirus, l'Oms: «Possibile contagio uomo-uomo sulla nave da crociera». Madrid: ok sbarco alle Canarie - Il Mattino](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajJ0M1QtRGEwTkg1ZUQyaEpZek9DN180SzBVNjNvbWppYTctR2hFRE5UbmNscm9BTDF1ajd1S0FQM1VHUnY0NHBuQTRZaHlwQWx6NlY4QU1KVnl2eDRZSEVKXzJGQjJCR0VrMUdVRDRkcUhoWVJESk1LQWJPZlZoeVNheHBVM0poWVBmalV5MVI0T2IwZndyV0pGM19OeFVTT0dQMVpnd3o5QdIBpgFBVV95cUxQeTNiaVBxYlBmLU1RbUVHNDV3ZTdQRFJ0aERHS29EU3p1VWhteXl3M2tRTW1sVVo2d1RaNG9FMmhSQ2M3cXFnOU0tMFZ4by1BUDBsXzQ4S0VpWGl3ZFNtMlR1RW9rY3A3NGZHOXh5b3pkakI0a0tMaXJwejZMMjdjY1hSY2luX1JQcElUQ0VzNDdSaHV5NWs0OHhuZXhQV0o3SWM4T2NB?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajJ0M1QtRGEwTkg1ZUQyaEpZek9DN180SzBVNjNvbWppYTctR2hFRE5UbmNscm9BTDF1ajd1S0FQM1VHUnY0NHBuQTRZaHlwQWx6NlY4QU1KVnl2eDRZSEVKXzJGQjJCR0VrMUdVRDRkcUhoWVJESk1LQWJPZlZoeVNheHBVM0poWVBmalV5MVI0T2IwZndyV0pGM19OeFVTT0dQMVpnd3o5QdIBpgFBVV95cUxQeTNiaVBxYlBmLU1RbUVHNDV3ZTdQRFJ0aERHS29EU3p1VWhteXl3M2tRTW1sVVo2d1RaNG9FMmhSQ2M3cXFnOU0tMFZ4by1BUDBsXzQ4S0VpWGl3ZFNtMlR1RW9rY3A3NGZHOXh5b3pkakI0a0tMaXJwejZMMjdjY1hSY2luX1JQcElUQ0VzNDdSaHV5NWs0OHhuZXhQV0o3SWM4T2NB?oc=5)
+
+---
+
+### [Cruise ship with hantavirus outbreak to sail to Canary Islands](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MmlQcWxyQkl3cmhTMVVaWkkxYzhLd2E0UjdOM1JfYnV1UmJzTDFzRHo2bHZYeVNMNTk5dFZWdm05NC11dHJPY25YU1c0bElCck9rTDd6S3Eza3pq?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MmlQcWxyQkl3cmhTMVVaWkkxYzhLd2E0UjdOM1JfYnV1UmJzTDFzRHo2bHZYeVNMNTk5dFZWdm05NC11dHJPY25YU1c0bElCck9rTDd6S3Eza3pq?oc=5)
+
+---
+
+### [La OMS y Sanidad acuerdan que el crucero con un brote de hantavirus escale en Canarias tras evacuar a los casos graves](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
+
+---
+
+### [La farmacia hospitalaria se actualiza ante los nuevos retos terapéuticos en neurología - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
+
+2026-05-05 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ permalink: /news/glecaprevir/
 2026-05-05 <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlczc0ZvTGV3RFhNVzFtb0d3b2t6ZVQ4aktOWEtZekxIVmZUaER0bDl5Nm1UQ0J4MlFjejBfdVlrM1pRUWJmQno0a1hsZENPaFBCNk8yU29vZ2xjUDkyME9IM3hnYzRkVVQ1SFdhS0tKVmZydFNTbjdyeDZiSThadEJOdTFfWU5ZMWZWbXRfWHpmdmd0OEkzMG5vZUp5ZWdYR1VjXw?oc=5)
+
+---
+
+### [Human heart can regrow muscle after attack, scientists find- - Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
 
 ---
 
@@ -107,14 +131,6 @@ permalink: /news/glecaprevir/
 2026-05-04 <span class="news-indication-tag">epatite</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
-
----
-
-### [Ancient Document Confirms “Legendary” African King Actually Existed](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/alemtuzumab/
 ---
 
 <p class="key-answer" data-question="Alemtuzumab 有什麼相關新聞？">
-<strong>Alemtuzumab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alemtuzumab</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,61 @@ permalink: /news/alemtuzumab/
 <p><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
-
-### [Los tres pasajeros con hantavirus serán evacuados a Países Bajos y Alemania: Sanidad pide que el crucero no pare en Canarias - Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
-
----
-
-### [Casi Hantavirus, Oms: "Su nave possibile trasmissione da uomo a uomo” - Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTFBuc05EQ0pOdUJUZThmeUwwM2tad05GQml6VmRITXY2Q3FsLXkyNkZpT1VDOTZSbnVvZHpjeWR6OEdrNlM2RzJmRkZlU0JoQUF1M0F2ZXd4UnlxU0ZJMWVTbGNZT3YtSFB4YzZpeXdTNllCeWd5S21zcw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTFBuc05EQ0pOdUJUZThmeUwwM2tad05GQml6VmRITXY2Q3FsLXkyNkZpT1VDOTZSbnVvZHpjeWR6OEdrNlM2RzJmRkZlU0JoQUF1M0F2ZXd4UnlxU0ZJMWVTbGNZT3YtSFB4YzZpeXdTNllCeWd5S21zcw?oc=5)
-
----
+## 相關新聞（29 則）
 
 ### [Krebs: „Die Tumore sind höchstens vier Zentimeter groß, aber so aggressiv, dass man nicht überlebt“](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcUlTN3B4OWFySDRna2JuRGJoa1o5Vl8zOUtLWkxCS1c2U2ZwNFlHYU5NWEh6aFc2SXJYUXpsMkJVRTFXTlpzQlRHU1hnTnNPekdIcGpWMllienlFRHZwQmMwUFRMa2tLLVRxdkNJMWY1WTNQbmZ4UDFxMXE5alh2TUxTV0k5enBmU0p1cmhoVFlYVW1HdFZiX1FFczQzTE9FNm9JZU9xYmp4X0VsdGpVeHVINVNsTEdIdzd5ZEdhV0RkN2U4cHFDbGxjNUIxa1NqVm95VnoxdGE5Xy1hczB1WUR0aUsxLVhYSlpfM0VrYkZ3R2pC?oc=5)
 
-2026-05-05 <span class="news-indication-tag">tumor</span>
+2026-05-06 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcUlTN3B4OWFySDRna2JuRGJoa1o5Vl8zOUtLWkxCS1c2U2ZwNFlHYU5NWEh6aFc2SXJYUXpsMkJVRTFXTlpzQlRHU1hnTnNPekdIcGpWMllienlFRHZwQmMwUFRMa2tLLVRxdkNJMWY1WTNQbmZ4UDFxMXE5alh2TUxTV0k5enBmU0p1cmhoVFlYVW1HdFZiX1FFczQzTE9FNm9JZU9xYmp4X0VsdGpVeHVINVNsTEdIdzd5ZEdhV0RkN2U4cHFDbGxjNUIxa1NqVm95VnoxdGE5Xy1hczB1WUR0aUsxLVhYSlpfM0VrYkZ3R2pC?oc=5)
+
+---
+
+### [Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
+
+---
+
+### [Hantavirus, l'Oms: «Possibile contagio uomo-uomo sulla nave da crociera». Madrid: ok sbarco alle Canarie - Il Mattino](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajJ0M1QtRGEwTkg1ZUQyaEpZek9DN180SzBVNjNvbWppYTctR2hFRE5UbmNscm9BTDF1ajd1S0FQM1VHUnY0NHBuQTRZaHlwQWx6NlY4QU1KVnl2eDRZSEVKXzJGQjJCR0VrMUdVRDRkcUhoWVJESk1LQWJPZlZoeVNheHBVM0poWVBmalV5MVI0T2IwZndyV0pGM19OeFVTT0dQMVpnd3o5QdIBpgFBVV95cUxQeTNiaVBxYlBmLU1RbUVHNDV3ZTdQRFJ0aERHS29EU3p1VWhteXl3M2tRTW1sVVo2d1RaNG9FMmhSQ2M3cXFnOU0tMFZ4by1BUDBsXzQ4S0VpWGl3ZFNtMlR1RW9rY3A3NGZHOXh5b3pkakI0a0tMaXJwejZMMjdjY1hSY2luX1JQcElUQ0VzNDdSaHV5NWs0OHhuZXhQV0o3SWM4T2NB?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajJ0M1QtRGEwTkg1ZUQyaEpZek9DN180SzBVNjNvbWppYTctR2hFRE5UbmNscm9BTDF1ajd1S0FQM1VHUnY0NHBuQTRZaHlwQWx6NlY4QU1KVnl2eDRZSEVKXzJGQjJCR0VrMUdVRDRkcUhoWVJESk1LQWJPZlZoeVNheHBVM0poWVBmalV5MVI0T2IwZndyV0pGM19OeFVTT0dQMVpnd3o5QdIBpgFBVV95cUxQeTNiaVBxYlBmLU1RbUVHNDV3ZTdQRFJ0aERHS29EU3p1VWhteXl3M2tRTW1sVVo2d1RaNG9FMmhSQ2M3cXFnOU0tMFZ4by1BUDBsXzQ4S0VpWGl3ZFNtMlR1RW9rY3A3NGZHOXh5b3pkakI0a0tMaXJwejZMMjdjY1hSY2luX1JQcElUQ0VzNDdSaHV5NWs0OHhuZXhQV0o3SWM4T2NB?oc=5)
+
+---
+
+### [Cruise ship with hantavirus outbreak to sail to Canary Islands](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MmlQcWxyQkl3cmhTMVVaWkkxYzhLd2E0UjdOM1JfYnV1UmJzTDFzRHo2bHZYeVNMNTk5dFZWdm05NC11dHJPY25YU1c0bElCck9rTDd6S3Eza3pq?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3MmlQcWxyQkl3cmhTMVVaWkkxYzhLd2E0UjdOM1JfYnV1UmJzTDFzRHo2bHZYeVNMNTk5dFZWdm05NC11dHJPY25YU1c0bElCck9rTDd6S3Eza3pq?oc=5)
+
+---
+
+### [La OMS y Sanidad acuerdan que el crucero con un brote de hantavirus escale en Canarias tras evacuar a los casos graves](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
+
+---
+
+### [New cancer jab for East Yorkshire and North Lincolnshire patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSQURCRS1vOGViUVphZkd5bk8wTUdvUWhKdWlfRkhYLXkyUi1WWkpsaVAxaVZOdnl0MUptMU5UOTM0REVmTTlmY1RRZUZ1TzVfVXBpbWZGRXl5MUd3?oc=5)
+
+2026-05-05 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSQURCRS1vOGViUVphZkd5bk8wTUdvUWhKdWlfRkhYLXkyUi1WWkpsaVAxaVZOdnl0MUptMU5UOTM0REVmTTlmY1RRZUZ1TzVfVXBpbWZGRXl5MUd3?oc=5)
+
+---
+
+### [Monica, la donna che ha sconfitto quattro volte il cancro - Non Sprecare](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNWJrUDUzVHRDek12dm9YdFlOXzlvbTh0RWRnUXV2NTdZSWhMT2ZjX3BtdUx4dWdtVjZ5cUZnWi1yUWNPalRQR2h3TzdZNW93MTVzM2szMUR1MzJkWldrY2dmdk5xLXBkc3kwUTQ1Wml3dE5PYjBNY0Y4MFNOREdJWGxfMA?oc=5)
+
+2026-05-05 <span class="news-indication-tag">cancro</span>
+
+來源：[Non Sprecare](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNWJrUDUzVHRDek12dm9YdFlOXzlvbTh0RWRnUXV2NTdZSWhMT2ZjX3BtdUx4dWdtVjZ5cUZnWi1yUWNPalRQR2h3TzdZNW93MTVzM2szMUR1MzJkWldrY2dmdk5xLXBkc3kwUTQ1Wml3dE5PYjBNY0Y4MFNOREdJWGxfMA?oc=5)
 
 ---
 
@@ -86,19 +118,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Keytruda: New cancer jab available for patients at three health trusts](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wZlFtYnZPbjJyaUlld1RqQmptMXFjWVhPRy1VNmF2a0haTUpRdlFVclA3Y1NVVE9lMW9kRHhELUhrZGNxVEcxanBiVmdIU1JsZXN2dmJfTVNPZmFF?oc=5)
+### [Il freno nascosto del cancro al seno: cosa ha scoperto la ricerca italiana - Il Tempo](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTgtWXlyb0RjR1V0UERUR1pDU00zeVlqNndFZWVKSFIyTG9fY2FOb1ZNT09sNW1VLU9wbFRVWjJFdkU2blh1dzd5SVFBUmdxSFlNdURzd3dnTmkzUXZpdk9xdXFzODFTamJsM0ZxMzk4SjVwZGZTdVNMb3V2U0ZvX2R0Y1djNkZvVkFZVllrOWN0WG9VV1hNUFJTVVZoRm1NdkQ0NEVDNWlNT25QRGNRdXFVN3V4b0lVXzFmcW5oc9IBxAFBVV95cUxQUkJSWmk5Qzl6Z2lTQ3dXYlAyZmQtTVVLWFVEWVlGUUE2SENod29QaEZvZ01lSmFsWDR5Wk1RalN6SnNpLTc5MjVpc2pQYlNoYlByc2FHWHVseFpYT0J2dU9CV2pZTU9VZFpCSk9rSUpJRnZkSW5zdWVUTXFGalRKN2IxN0p1X0pndUYxVnBESUU4SVdmd0wzR2xxZm5WZzlGNHpGYjlNZUpITzZacUlhT3BIdjlMUkZkdnk2REU1eWY4RVVV?oc=5)
 
-2026-05-05 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span>
+2026-05-05 <span class="news-indication-tag">cancro</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wZlFtYnZPbjJyaUlld1RqQmptMXFjWVhPRy1VNmF2a0haTUpRdlFVclA3Y1NVVE9lMW9kRHhELUhrZGNxVEcxanBiVmdIU1JsZXN2dmJfTVNPZmFF?oc=5)
-
----
-
-### [Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5)
+來源：[Il Tempo](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTgtWXlyb0RjR1V0UERUR1pDU00zeVlqNndFZWVKSFIyTG9fY2FOb1ZNT09sNW1VLU9wbFRVWjJFdkU2blh1dzd5SVFBUmdxSFlNdURzd3dnTmkzUXZpdk9xdXFzODFTamJsM0ZxMzk4SjVwZGZTdVNMb3V2U0ZvX2R0Y1djNkZvVkFZVllrOWN0WG9VV1hNUFJTVVZoRm1NdkQ0NEVDNWlNT25QRGNRdXFVN3V4b0lVXzFmcW5oc9IBxAFBVV95cUxQUkJSWmk5Qzl6Z2lTQ3dXYlAyZmQtTVVLWFVEWVlGUUE2SENod29QaEZvZ01lSmFsWDR5Wk1RalN6SnNpLTc5MjVpc2pQYlNoYlByc2FHWHVseFpYT0J2dU9CV2pZTU9VZFpCSk9rSUpJRnZkSW5zdWVUTXFGalRKN2IxN0p1X0pndUYxVnBESUU4SVdmd0wzR2xxZm5WZzlGNHpGYjlNZUpITzZacUlhT3BIdjlMUkZkdnk2REU1eWY4RVVV?oc=5)
 
 ---
 
@@ -107,6 +131,22 @@ permalink: /news/alemtuzumab/
 2026-05-05 <span class="news-indication-tag">cancer</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYU9YUDVRQk5OUnBOZWJVZWtjZjFFQmNFQUY3ZWpic1B1enBXWGR5V3hSaTJySWdVV3BEczdSZzZBNnRIU0E0R0pqR2Nwb0RuM1Q4Y0VQV01NcGV5OGpmTW1VSXFaQktuVE4tWG4tejNMbTdmRlVHUmhpbTJscjdTbWtUY0x1WUI1cHMyc05TUzZld3M?oc=5)
+
+---
+
+### [Therapie von Kopf-Hals-Krebs: Weniger Nebenwirkungen, bessere Chancen](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjRSOWg5NndBNFNtTFMzSWRtWkYwVElib2x5YWpnTERaTDJUa1VieWdIQjZvaWtlc000TldQUndHSk12X0ZjajlpVjkwQjJPeTA5bjIxUXpTOW00aXp4Mjdld2xfLUdYbUxaWUxLMlJlQXBaRE1tdy1DZFlDOGhmMmhybzE2MTZTcUttdzFYVndhTlpXYVl3c1JlVjRnMXpTdGRIbXZ3?oc=5)
+
+2026-05-05 <span class="news-indication-tag">Krebs</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjRSOWg5NndBNFNtTFMzSWRtWkYwVElib2x5YWpnTERaTDJUa1VieWdIQjZvaWtlc000TldQUndHSk12X0ZjajlpVjkwQjJPeTA5bjIxUXpTOW00aXp4Mjdld2xfLUdYbUxaWUxLMlJlQXBaRE1tdy1DZFlDOGhmMmhybzE2MTZTcUttdzFYVndhTlpXYVl3c1JlVjRnMXpTdGRIbXZ3?oc=5)
+
+---
+
+### [La farmacia hospitalaria se actualiza ante los nuevos retos terapéuticos en neurología - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
+
+2026-05-05 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
 
 ---
 
@@ -150,6 +190,14 @@ permalink: /news/alemtuzumab/
 
 ---
 
+### [Human heart can regrow muscle after attack, scientists find- - Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
+
+---
+
 ### [Updates zu Brustkrebs, Darmkrebs, zu Blasenkrebs und zum Melanom](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVERzbUFCYmlHX0NBQzFZT29Uc0dxR181aE1pVXVWeGFheUJJWXFsUzh4SmgxYWhRQU5KeWhvUXBEcG9IVmNaR3FNeWZ1cmQyV1lLQjhsd2V4R0szQzlsQUV6b1J0OGFYdmREMWRrVEtYOERvWFozS2x2SXZORFFTWkx2U1k4MHo4WDh5MmQxUHI1MWtJNTFNbUdSQzNicTBJajlyR21xTms3eHVfZDJjT0Rwaw?oc=5)
 
 2026-05-05 <span class="news-indication-tag">Krebs</span>
@@ -174,19 +222,19 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Cancro al pancreas, scoperta chiave dei ricercatori: così il tumore diventa resistente alle cure](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGwtQ0NUTGFFSmpNX2JCNlhnRGo2RGI1WHp6NWQwTkhxMnc5c3ZnUDlaZk5LM244YVNncU5yZjlkOEgwcUYzZl9ZanlrV2p4WE1pSnNmWXVnbms1eEtiZ2l5SjRENGRJQllYUkJGeXhjT0hHY0czMEw4cnhESXMtNjVWTnlxNEVqb0hLVEZoc0NUT0JYX0dNa1NWeWRmNHNwTU5ZX3VZN0c1VDBMd0txTUZJRkM5UFpLb2tHQ1BvcWZDWVpmWDlsdHRQZUltWGhFTk10ZHZEQTUzb2s?oc=5)
+### [Man produces sperm from testicular tissue frozen as a child in breakthrough trial - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnJvb2lrZGVJdVVFdkRRcnBvblRTSVJTSDluTWZHbU5WTG54ZXhFNEUteWY3RWV2OTlxbV9EcHhINzJnN2szcjB6SkVUWE9LbDhDRUM3WWRBT0Z3RVRUc2pOVzlUQ2Zib2JSV1V5R2hhMzFhUHBxZzBUN0xMX08tTHRlZ250TWRORUdkX1QxZ1d5X2d6UW55eUYtcDgzbjlsVldwNG42ZWdtUTNrRHlCbG05eTd3dVY5MUtmV3BPWUhMZTVzYV9FUQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnJvb2lrZGVJdVVFdkRRcnBvblRTSVJTSDluTWZHbU5WTG54ZXhFNEUteWY3RWV2OTlxbV9EcHhINzJnN2szcjB6SkVUWE9LbDhDRUM3WWRBT0Z3RVRUc2pOVzlUQ2Zib2JSV1V5R2hhMzFhUHBxZzBUN0xMX08tTHRlZ250TWRORUdkX1QxZ1d5X2d6UW55eUYtcDgzbjlsVldwNG42ZWdtUTNrRHlCbG05eTd3dVY5MUtmV3BPWUhMZTVzYV9FUQ?oc=5)
+
+---
+
+### [Tumore al pancreas, identificato il fattore di resistenza alle nuove terapie molecolari](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGwtQ0NUTGFFSmpNX2JCNlhnRGo2RGI1WHp6NWQwTkhxMnc5c3ZnUDlaZk5LM244YVNncU5yZjlkOEgwcUYzZl9ZanlrV2p4WE1pSnNmWXVnbms1eEtiZ2l5SjRENGRJQllYUkJGeXhjT0hHY0czMEw4cnhESXMtNjVWTnlxNEVqb0hLVEZoc0NUT0JYX0dNa1NWeWRmNHNwTU5ZX3VZN0c1VDBMd0txTUZJRkM5UFpLb2tHQ1BvcWZDWVpmWDlsdHRQZUltWGhFTk10ZHZEQTUzb2s?oc=5)
 
 2026-05-04 <span class="news-indication-tag">tumor</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGwtQ0NUTGFFSmpNX2JCNlhnRGo2RGI1WHp6NWQwTkhxMnc5c3ZnUDlaZk5LM244YVNncU5yZjlkOEgwcUYzZl9ZanlrV2p4WE1pSnNmWXVnbms1eEtiZ2l5SjRENGRJQllYUkJGeXhjT0hHY0czMEw4cnhESXMtNjVWTnlxNEVqb0hLVEZoc0NUT0JYX0dNa1NWeWRmNHNwTU5ZX3VZN0c1VDBMd0txTUZJRkM5UFpLb2tHQ1BvcWZDWVpmWDlsdHRQZUltWGhFTk10ZHZEQTUzb2s?oc=5)
-
----
-
-### [Cette approche développée par deux Toulousaines révolutionne le dépistage d’un type de cancer : le diagnostic est fiable à 91](https://news.google.com/rss/articles/CBMigAJBVV95cUxPT19ZV0dPZzFZWjh1ZVltX1dOTE5YM1BFQzBEc2xBNVdVOW9Hd01QTWM3VDNCNjZ6YTBpZFNyVUtlWmlnZ05hRFBnYldITS16SFNYWkZMYVdESmZrNHM5VVU0aFk3OGhITjQzbDFzakZ5ZDR5cGVKUmZlZXc5UEFRamIxZVpXR0cwaW9PYWJZNk94QjFNMzZGRnNZMVNyT3REdFk5WnQ0Qnh1RGFiX252VnFVbUdpNkFRLW4wdmlUQ1pZZUdMYWtJY0o5RUhxR3d4REJtWUlOejJ6QkdGOXdPc1hybkhEMkhYbDRGN1RMa0hTc1dOZUFUaEZPTUZRc25f?oc=5)
-
-2026-05-04 <span class="news-indication-tag">cancer</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMigAJBVV95cUxPT19ZV0dPZzFZWjh1ZVltX1dOTE5YM1BFQzBEc2xBNVdVOW9Hd01QTWM3VDNCNjZ6YTBpZFNyVUtlWmlnZ05hRFBnYldITS16SFNYWkZMYVdESmZrNHM5VVU0aFk3OGhITjQzbDFzakZ5ZDR5cGVKUmZlZXc5UEFRamIxZVpXR0cwaW9PYWJZNk94QjFNMzZGRnNZMVNyT3REdFk5WnQ0Qnh1RGFiX252VnFVbUdpNkFRLW4wdmlUQ1pZZUdMYWtJY0o5RUhxR3d4REJtWUlOejJ6QkdGOXdPc1hybkhEMkhYbDRGN1RMa0hTc1dOZUFUaEZPTUZRc25f?oc=5)
 
 ---
 
@@ -198,11 +246,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Ancient Document Confirms “Legendary” African King Actually Existed](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
+### [Tumore alla prostata: radioterapia efficace contro le recidive, quando il PSA aumenta dopo l'intervento - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxPSXdmWXIxemZwRGRfdWZlRllINnBuNnQ5eWhCMjVySE1hRVFEUXg1enRhUHQ5dlF3Nm81RGpYS3hMUGRhTzZEZGYyU2cxQTlFMTJRRzc2RXpWSHRNZHlyZGRLUDZiR09mVFdOeHktcXk2UGYtVm84M1NOb2YwTV9iV3J1YnBtaEdEWUpBMUpVTUQzUlpxbkktQk8yNVdCZkFyOFVLLUNjNHJKVXJJQV9sQmRnQV94YjZyRlJFZWtDdVFEdjd6Ymtqdm9PQ2RsTXktd3VmaUFPNk1xcC1OMF81WVJ6c2hmYVNlZFpRNjhMVHBBOE9YM3dnY0l2VWJqaDN4SUp6MGg0OHdSRlg5dmlZdFpLTUlocmllZXpKRUhsZTJqdGxSSWNwQ0NuNU9vUdIBswJBVV95cUxNZ2FYZVRab2hQcW9CcVhid2RWWllBLUxndThBSTJ6RUVoc1g2cmUxbTl2dEhqWWozTXNoa29KdmlfWTg2LXY1YmRfWHk0SEE2NGUwXzluNTFfYk9salhsQmNFMkdoQms0TElqM09KSk5QbllWMTdEdElfWjR0NUtoeDN4Z05ISmt4RkxGMWF1c05UQlJPc2ZuS1ctRDY0RHlhaW1UUmNBRkwxcjFQQU1IQnJCMXlCTjFLLWd2VXNBR2Q4U2FJbWVFd0xTN1VqM2VVTDJRRlBQaVVybjEyX3UyOXV2aDB4c3VhUDM0cDFSUDRBemtnZkJhdzRsaE1weTAtc3hUUUpMMnNIWGd0UGEydXppemRueFFJdVBBbkVaLTZDQzhha01ZRnFsTTFmRUpfRWxZ?oc=5)
 
-2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-04 <span class="news-indication-tag">tumor</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxPSXdmWXIxemZwRGRfdWZlRllINnBuNnQ5eWhCMjVySE1hRVFEUXg1enRhUHQ5dlF3Nm81RGpYS3hMUGRhTzZEZGYyU2cxQTlFMTJRRzc2RXpWSHRNZHlyZGRLUDZiR09mVFdOeHktcXk2UGYtVm84M1NOb2YwTV9iV3J1YnBtaEdEWUpBMUpVTUQzUlpxbkktQk8yNVdCZkFyOFVLLUNjNHJKVXJJQV9sQmRnQV94YjZyRlJFZWtDdVFEdjd6Ymtqdm9PQ2RsTXktd3VmaUFPNk1xcC1OMF81WVJ6c2hmYVNlZFpRNjhMVHBBOE9YM3dnY0l2VWJqaDN4SUp6MGg0OHdSRlg5dmlZdFpLTUlocmllZXpKRUhsZTJqdGxSSWNwQ0NuNU9vUdIBswJBVV95cUxNZ2FYZVRab2hQcW9CcVhid2RWWllBLUxndThBSTJ6RUVoc1g2cmUxbTl2dEhqWWozTXNoa29KdmlfWTg2LXY1YmRfWHk0SEE2NGUwXzluNTFfYk9salhsQmNFMkdoQms0TElqM09KSk5QbllWMTdEdElfWjR0NUtoeDN4Z05ISmt4RkxGMWF1c05UQlJPc2ZuS1ctRDY0RHlhaW1UUmNBRkwxcjFQQU1IQnJCMXlCTjFLLWd2VXNBR2Q4U2FJbWVFd0xTN1VqM2VVTDJRRlBQaVVybjEyX3UyOXV2aDB4c3VhUDM0cDFSUDRBemtnZkJhdzRsaE1weTAtc3hUUUpMMnNIWGd0UGEydXppemRueFFJdVBBbkVaLTZDQzhha01ZRnFsTTFmRUpfRWxZ?oc=5)
 
 ---
 

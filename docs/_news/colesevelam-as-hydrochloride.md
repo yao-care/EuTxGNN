@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Fünf-Punkte-Plan zur Versorgung von ME/CFS-Betroffenen mit Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
 
@@ -94,11 +94,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [At 23, my shortness of breath and a swollen abdomen were diagnosed as gallbladder issues. They were actually signs of end-stage heart failure - Yahoo Lifestyle Canada](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
+### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
+
+---
+
+### [At 23, my shortness of breath and a swollen abdomen were diagnosed as gallbladder issues. They were actually signs of end-stage heart failure](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
 
 2026-05-04 <span class="news-indication-tag">heart failure</span>
 
-來源：[Yahoo Lifestyle Canada](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
+來源：[ca.style.yahoo.com](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3RnbGJVblE1dWFDUzRycjUzYk1Pazk4S2E0LXI1VjA4ODl0RzA1c0VhYVNnVUlmRDRTTXVOOHlJZ0EzY1ZrRWoyYURqaEU4QmpDbHpfd0ozelQwUEU5ZHhYa1VLbDVXTW5pS01CYzRXNDJESXk1NU9wSkJDT1hLVXJwU1BUdjFDTzYxaEFYVGRKSTdQTWt1UExSWndmLVlrMU9VRFJhNFhPVmpXbG9HQV9oU3ZmMW9qdjFJc0RaNnZXazRFOTI5eUhpbzFXbHM3VnZtN3h5ejhibmZncmRwb3RheE1jSUdPdnAtRkEzYlhMLTY2SmVaTV9wcXpZVkxfMm84V1NoNExQTkpWTHc?oc=5)
 
 ---
 

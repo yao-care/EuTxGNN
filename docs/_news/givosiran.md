@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Las farmacias catalanas impulsan una campaña para detectar la hipertensión mal controlada - Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
+
+2026-05-05 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
+
+---
 
 ### [WHO warnt: Hepatitis bleibt trotz Fortschritten eine globale Gesundheitsgefahr - Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
 

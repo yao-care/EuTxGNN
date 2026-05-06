@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
 
 2026-05-04
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
----
-
-### [Braunes Fett als möglicher Gefäßschutz bei Adipositas identifiziert - MedUni Wien](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSy11WW5XVFhBelBGQXlqaTh6Mll6djZWZDc1YkQxZnJzeVY0SWV5TUlCNUhMVEY1S2tLQUUyMkJJR2F2MVJCREVTN2pFcWI0QkduUTRrQzNCQ1RFaVc2ZWFrRXVRQVNSVndMcEFHejZ4cjZCY1p5NnJEY2JLLVI5ZUI2LTRxR1dxRTZmS0o3OFFtSVJHanhUc0YtTTJtNGJFNFV5enFTaHFsZVdyaE9CRjdBOEZQR1AzcVFiNE54WVkxOFdZUllITjdLa3R1OVhnNHlnTW5jWXI?oc=5)
-
-2026-05-04
-
-來源：[MedUni Wien](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSy11WW5XVFhBelBGQXlqaTh6Mll6djZWZDc1YkQxZnJzeVY0SWV5TUlCNUhMVEY1S2tLQUUyMkJJR2F2MVJCREVTN2pFcWI0QkduUTRrQzNCQ1RFaVc2ZWFrRXVRQVNSVndMcEFHejZ4cjZCY1p5NnJEY2JLLVI5ZUI2LTRxR1dxRTZmS0o3OFFtSVJHanhUc0YtTTJtNGJFNFV5enFTaHFsZVdyaE9CRjdBOEZQR1AzcVFiNE54WVkxOFdZUllITjdLa3R1OVhnNHlnTW5jWXI?oc=5)
 
 ---
 
