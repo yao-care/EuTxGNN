@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Bessere kardiovaskuläre Fitness senkt das Risiko für Demenz und Depression](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
+### [Diagnosi della depressione nei pazienti oncologici, l’Aou di Cagliari sviluppa un modello rivoluzionario - La Nuova Sardegna](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN0ozNnpRTGVqYVNBOE1rc1hObW5FRGY3MFZfV0ZOM1FuS1NTWE9YdXdlMUYydkEyaGt4OEEwbWlvUkp4eVBJbmFQeTRDR0dCN0lyTEM5NXZ1OHRla0t1TzlBSGNsVC01WTF0UkhmaWdZREo3OXZCdUpGTHBGWTUzSkZZaURyTWc2QUZZSW1GbkNiMGtOTHgzTDVramVyUnppQk1ZYlNEVjYxSjFMRVBiclZtLTdmMFgtUEpaU3Bwd0d3bHIxX1pKSWFDand5d0hCU1g2RkhzSmtLcV9nTkZpaEVSS1p2YnZtb0VYX2R4QWVfX3k5RjFrbU5wd1JoWnNfSWZ1b21LbkVWNms?oc=5)
 
-2026-05-04 <span class="news-indication-tag">depression</span>
+2026-05-06 <span class="news-indication-tag">depression</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN0ozNnpRTGVqYVNBOE1rc1hObW5FRGY3MFZfV0ZOM1FuS1NTWE9YdXdlMUYydkEyaGt4OEEwbWlvUkp4eVBJbmFQeTRDR0dCN0lyTEM5NXZ1OHRla0t1TzlBSGNsVC01WTF0UkhmaWdZREo3OXZCdUpGTHBGWTUzSkZZaURyTWc2QUZZSW1GbkNiMGtOTHgzTDVramVyUnppQk1ZYlNEVjYxSjFMRVBiclZtLTdmMFgtUEpaU3Bwd0d3bHIxX1pKSWFDand5d0hCU1g2RkhzSmtLcV9nTkZpaEVSS1p2YnZtb0VYX2R4QWVfX3k5RjFrbU5wd1JoWnNfSWZ1b21LbkVWNms?oc=5)
+
+---
+
+### [Dépression : une simple prise de sang pourrait la détecter avant les premiers symptômes - Les Numériques](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRzFLeUF6Q3ItN1dzTmlaNUhLamJVVlN1S0Jwc1JsRFlVcTB4N0lXUUE3UDBScjJoOVFQenJNRFFNOU5RbXg1eW9zWGNPb1FRZU5vbHo1Q2tEODFoWjg2NWM4SmEtaGVxQ2RqSEhPc256OGh2SWREUXBBUzdzbEpBVXk4aFBuZHFQd0lyZUlNY0UzMUJQV3NVZHZhanl5MldwdGdwdHlic1I2Qnp2LTZjaVdORW1KYU5jc0ZINnZuQ25YZGRpOUxZRXRpbWxlaFZxVXcxajl2UjA?oc=5)
+
+2026-05-06 <span class="news-indication-tag">dépression</span>
+
+來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRzFLeUF6Q3ItN1dzTmlaNUhLamJVVlN1S0Jwc1JsRFlVcTB4N0lXUUE3UDBScjJoOVFQenJNRFFNOU5RbXg1eW9zWGNPb1FRZU5vbHo1Q2tEODFoWjg2NWM4SmEtaGVxQ2RqSEhPc256OGh2SWREUXBBUzdzbEpBVXk4aFBuZHFQd0lyZUlNY0UzMUJQV3NVZHZhanl5MldwdGdwdHlic1I2Qnp2LTZjaVdORW1KYU5jc0ZINnZuQ25YZGRpOUxZRXRpbWxlaFZxVXcxajl2UjA?oc=5)
 
 ---
 

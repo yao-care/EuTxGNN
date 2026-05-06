@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
-### ['I don't want my multiple sclerosis to win', Shirley woman says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13ajEzR1J1QkZNUjBQMm1mYkVYVjlzYk8xTi16RTZfaVA1X1JscjY1cnV6dnRnU2xYMmJnSlNQVmtCdTdZVHFQQWx2YXVlYlo4cUFWc1d6Q3o4cjAt?oc=5)
+### [Hantavirus su crociera, ministero Salute allerta uffici di frontiera - Sky TG24](https://news.google.com/rss/articles/CBMikAFBVV95cUxPWDN6bHFVNWVQdl9mZXVCYlhZUGZxV2xGaWFmQkVGd0xqQ3NfbTFJMzlBa0lxRGpXRFNYc0JVcVUtdnFqYmRtcE1JdFktVzNuaWlBMHFabEY1blJWeU5ESnkyNjlaQXhydU00MzJmeU1zU0M0eGI2aHRkV0EtLWt5eEF1eXRnZ0ZENV9udTU3cEQ?oc=5)
 
-2026-05-06 <span class="news-indication-tag">multiple sclerosis</span>
+2026-05-06 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13ajEzR1J1QkZNUjBQMm1mYkVYVjlzYk8xTi16RTZfaVA1X1JscjY1cnV6dnRnU2xYMmJnSlNQVmtCdTdZVHFQQWx2YXVlYlo4cUFWc1d6Q3o4cjAt?oc=5)
-
----
-
-### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMikAFBVV95cUxPWDN6bHFVNWVQdl9mZXVCYlhZUGZxV2xGaWFmQkVGd0xqQ3NfbTFJMzlBa0lxRGpXRFNYc0JVcVUtdnFqYmRtcE1JdFktVzNuaWlBMHFabEY1blJWeU5ESnkyNjlaQXhydU00MzJmeU1zU0M0eGI2aHRkV0EtLWt5eEF1eXRnZ0ZENV9udTU3cEQ?oc=5)
 
 ---
 
-### [En el marco del Día Mundial de la Hipertensión Pulmonar, SEPAR alerta que el diagnóstico tardío sigue lastrando su pronóstico - Diario Siglo XXI](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTThUcm44czB0RW9USjRHMmN6Y2xKeGFsS0NGUUVGNlY5NmtvbGZ0UjV5RDAwQnMwZmxwQXRRa2tsWUZIX2U0MHBuaVZ3MzFxNVZodTd6eGFpVzEyNVVLLV9NandqRzhPODJyUnFIZWJZOHRoUms2elpOaEhiVWwwOEVhRFdyZmdsODhPa0RiQWJ2OTYycDc4TmIyZXhsRmljNG41MDRSZ0RqaS1UZUVrNncxZTVyQ3VzRzE1TXlaSnQ4RHhBRlhSQ0o2ZzBBd0x5ejhYcG1FbmxoWGgwQ3RxUVQ5OHJKcDRsNVJHYVVFOA?oc=5)
+### [FÜR RAFIA](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
 
-2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTThUcm44czB0RW9USjRHMmN6Y2xKeGFsS0NGUUVGNlY5NmtvbGZ0UjV5RDAwQnMwZmxwQXRRa2tsWUZIX2U0MHBuaVZ3MzFxNVZodTd6eGFpVzEyNVVLLV9NandqRzhPODJyUnFIZWJZOHRoUms2elpOaEhiVWwwOEVhRFdyZmdsODhPa0RiQWJ2OTYycDc4TmIyZXhsRmljNG41MDRSZ0RqaS1UZUVrNncxZTVyQ3VzRzE1TXlaSnQ4RHhBRlhSQ0o2ZzBBd0x5ejhYcG1FbmxoWGgwQ3RxUVQ5OHJKcDRsNVJHYVVFOA?oc=5)
+來源：[DKMS](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
+
+---
+
+### [Tick warning as Lyme disease risk hits peak - Donegal Daily](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXFXQ1BXTmVhZXVHbDRldTVjblZyV1E5bVowbFp2UlZTWVJwaEJQQ1dQZFZxQU4teWNqVVFDODRRTlNvSVFVUDc4bmN3RlF6UjNKdFYtUk9rX3pGd1FJYmJhUDZFQ0RXUjZ4cURlc0tPelczR0NOdXhrYXF0YXViVTdMZmY1ZlNHRDlFSw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">MS</span>
+
+來源：[Donegal Daily](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXFXQ1BXTmVhZXVHbDRldTVjblZyV1E5bVowbFp2UlZTWVJwaEJQQ1dQZFZxQU4teWNqVVFDODRRTlNvSVFVUDc4bmN3RlF6UjNKdFYtUk9rX3pGd1FJYmJhUDZFQ0RXUjZ4cURlc0tPelczR0NOdXhrYXF0YXViVTdMZmY1ZlNHRDlFSw?oc=5)
 
 ---
 
@@ -94,6 +94,14 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### ['I don't want my multiple sclerosis to win', Shirley woman says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13ajEzR1J1QkZNUjBQMm1mYkVYVjlzYk8xTi16RTZfaVA1X1JscjY1cnV6dnRnU2xYMmJnSlNQVmtCdTdZVHFQQWx2YXVlYlo4cUFWc1d6Q3o4cjAt?oc=5)
+
+2026-05-06 <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13ajEzR1J1QkZNUjBQMm1mYkVYVjlzYk8xTi16RTZfaVA1X1JscjY1cnV6dnRnU2xYMmJnSlNQVmtCdTdZVHFQQWx2YXVlYlo4cUFWc1d6Q3o4cjAt?oc=5)
+
+---
+
 ### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
 
 2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -102,19 +110,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [La OMS y Sanidad acuerdan que el crucero con un brote de hantavirus escale en Canarias tras evacuar a los casos graves](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
+### [Women Face Much Higher MS Risk. A New Discovery May Help Explain Why.](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXlNMENwdFVXZndlQXBrRlJ4aWk2bDk5MzNUSG9za09qYUNmLVhJeDJjemppUU9jUG52OEZPZV9Ha250RTlrR2hEdGkxbVBJREhQZkVfamc2YXpFTWh0dGFiWVpSd29OZExBNzYxU0ZTcVVhM0lGamNkalU0ck9WZ21teXd3cGVIeHJWQWlpa3QzNkZicGdRS3V4WkQ?oc=5)
 
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">MS</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
-
----
-
-### [Doctor and MSP hopeful, 39, on being brought back to life after heart attack - Edinburgh News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX09scURhSzZBNWdDcnNjRGlGTks0ajRqeDQtSnZrTUVVS00tQW4wYVZZYl9QeEkwMjhUTzlYclNrRzFjeVpaQVpuOHdqdTlxMnZpSDRSWmZseThDblQ4Mk1QdGFGcDdFYTdOYzNSM1ZMYktMdWx4SC1uQUhwQklWWTJwemxacGVnbFd2NFBqeVU3M1pBWjRFMk5OS0FFX0FCMXFsVGZOWHNzMnhPaV81a01zdlBxQVd5MFd2eEE5M1dQYjRPZFlyV1JybmViT3BfRFZhNHhrMTl5WDFzUE5ORkxkbXp5Sk1vdTgxb21KWHo?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Edinburgh News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX09scURhSzZBNWdDcnNjRGlGTks0ajRqeDQtSnZrTUVVS00tQW4wYVZZYl9QeEkwMjhUTzlYclNrRzFjeVpaQVpuOHdqdTlxMnZpSDRSWmZseThDblQ4Mk1QdGFGcDdFYTdOYzNSM1ZMYktMdWx4SC1uQUhwQklWWTJwemxacGVnbFd2NFBqeVU3M1pBWjRFMk5OS0FFX0FCMXFsVGZOWHNzMnhPaV81a01zdlBxQVd5MFd2eEE5M1dQYjRPZFlyV1JybmViT3BfRFZhNHhrMTl5WDFzUE5ORkxkbXp5Sk1vdTgxb21KWHo?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXlNMENwdFVXZndlQXBrRlJ4aWk2bDk5MzNUSG9za09qYUNmLVhJeDJjemppUU9jUG52OEZPZV9Ha250RTlrR2hEdGkxbVBJREhQZkVfamc2YXpFTWh0dGFiWVpSd29OZExBNzYxU0ZTcVVhM0lGamNkalU0ck9WZ21teXd3cGVIeHJWQWlpa3QzNkZicGdRS3V4WkQ?oc=5)
 
 ---
 
@@ -131,22 +131,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
-
----
-
-### [Brain sugar levels act as signal for myelin growth, study finds - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVRBbUw1bHpuTmpPVzVhTDZvaXN1MlBNWnZJNzhEcHp6NjItNF9kamJRSUpYUW5ZVWc1TDJmVnZYRWxxbEdsdkVoTlpsYlRDTkNvVWppcHFKbWpvRFdrbnZtckYxWUFzWVQ1NDBLT0NEQ292c05WSFlyd0s4VWVZVzJaamc3Tnpjei14emRVTkxqM2J0c2p2ZGxsVndTNHk4WU1DTUF3bU8zaGZYVktyc0JDbEdNMTBq?oc=5)
-
-2026-05-04 <span class="news-indication-tag">multiple sclerosis</span>
-
-來源：[Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVRBbUw1bHpuTmpPVzVhTDZvaXN1MlBNWnZJNzhEcHp6NjItNF9kamJRSUpYUW5ZVWc1TDJmVnZYRWxxbEdsdkVoTlpsYlRDTkNvVWppcHFKbWpvRFdrbnZtckYxWUFzWVQ1NDBLT0NEQ292c05WSFlyd0s4VWVZVzJaamc3Tnpjei14emRVTkxqM2J0c2p2ZGxsVndTNHk4WU1DTUF3bU8zaGZYVktyc0JDbEdNMTBq?oc=5)
-
----
-
-### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+### [Alzheimer’s risk ‘can be predicted by at-home test’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
 
-2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
+2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
 
 ---
 
-### [Los neumólogos aconsejan un abordaje continuo del asma: "Tratar solo los síntomas aumenta el riesgo de crisis graves" - Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+### [El asma grave y sus comorbilidades: “Es una enfermedad que rara vez aparece aislada”](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjdTcU5JdzN6RG5meW1yVDZVel8tZWF1Tk1zTFcyUWVCOFV1ZnZmb04xMURBQTd4ZDZqT0pjbDhTeGZ2dkRlLWowUlQ5XzZwREEwQTl4aTczbk1teXUyRkRTWnZHNEtNNDVXVkxmMWswRWxhcFJRZUJBTm5mU3FuaDlQajMxeVRmb19nWDZ2aFNQVzZTZEJxMTBqUHBuWWNBcElSZTJpX3Z4WGtBUUtya01pNmhOWE4wUzcxVw?oc=5)
 
 2026-05-06 <span class="news-indication-tag">asma</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjdTcU5JdzN6RG5meW1yVDZVel8tZWF1Tk1zTFcyUWVCOFV1ZnZmb04xMURBQTd4ZDZqT0pjbDhTeGZ2dkRlLWowUlQ5XzZwREEwQTl4aTczbk1teXUyRkRTWnZHNEtNNDVXVkxmMWswRWxhcFJRZUJBTm5mU3FuaDlQajMxeVRmb19nWDZ2aFNQVzZTZEJxMTBqUHBuWWNBcElSZTJpX3Z4WGtBUUtya01pNmhOWE4wUzcxVw?oc=5)
 
 ---
 
@@ -91,22 +91,6 @@ permalink: /news/sarilumab/
 2026-05-05 <span class="news-indication-tag">asma</span>
 
 來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMERSXzNLOHRDZkhVeVBCUlk0Y3dLRXRLbFdyZFZUUmdpRTI2Y21QSEpBZ0tkRzlrS3VtWDBmOFdnby1hTF84U3lpVmhEaHZyb002VW9QVWw3Zw?oc=5)
-
----
-
-### [Asthme sévère : des traitements efficaces... à condition d’avoir le bon diagnostic - Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
-
-2026-05-05 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
-
----
-
-### [Un virus aquatique contamine l'Homme pour la première fois : maladie, symptômes… ce que l'on sait de cette découverte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
 
 ---
 

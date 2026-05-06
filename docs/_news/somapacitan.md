@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthme</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
 
 ### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
 
@@ -70,14 +70,6 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
-
----
-
 ### [Defekte in Spliceosom-Genen können Diabetes bei Säuglingen auslösen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
 
 2026-05-06 <span class="news-indication-tag">diabetes</span>
@@ -86,11 +78,27 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Los neumólogos aconsejan un abordaje continuo del asma: "Tratar solo los síntomas aumenta el riesgo de crisis graves" - Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+### [Alzheimer’s risk ‘can be predicted by at-home test’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
+
+---
+
+### [Diabete: come si cura oggi in Italia? Le principali complicanze (e i danni del fumo) - Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPcUVlamJNTzVSaURzTmxsRGhfckFzelVoQ2F0WTVzbTdGWGxQMmxHbFB4ejJOZmJuZTBCcG5ibUxVSDRBVjNZUmJIR083TlJHNGNiaHRjZ1pXVlBsWDRMM2VleXVQQjNyaTY2UjU4el82VTVwalphRmcyMndNVkMyejZYVTUzVXgxYkVxUlVGX2psS2xkVTl0UkNpWGFLb2J5VXZJcUwyVVlLd3RzeHh0OFZ3UmRLYkNQNnZNUUMwZnNEY2dBZ2M3VVE2V3ZuYWRMOTZ5NWpzQmZxVVUyVlZURDJ2ejh1dnJPY1BCa0oxSkxwTTVneThTd09QRFViWjd3ZTM5RlhR0gGLAkFVX3lxTFBRUHlodC1yUy1Fd3AyWGtrWno0am82LWI5YVl3X2ZMNXZxRnZJUUFtN3FST0lQQ2tsb2daODVDVzhaOGF4SjA3a2NTdTJjdmlubXM0cEZJRmpXWDZfZHdVajFuRG9reUJPaGlXQ1A1MjN6U3kwdld6NjlxYzkzb2E0S3h4WldSY2U0ZkpFODUwaUwyNDNnZzNIVW1CYjBRdEE3YVNoclhwWUdLbHAxb1R0TzN0QXlHRHRSZE9aMkVZYkRoMl9ocGlJWFZmZHFrdU04T1M5eFB3S2RSX09JMm5pZmdFUm9ESnlldXlDWFpKVmd1UDdhemN0Yng4UkhCQjZ2c2NhRjZ3S2dmbw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabete</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPcUVlamJNTzVSaURzTmxsRGhfckFzelVoQ2F0WTVzbTdGWGxQMmxHbFB4ejJOZmJuZTBCcG5ibUxVSDRBVjNZUmJIR083TlJHNGNiaHRjZ1pXVlBsWDRMM2VleXVQQjNyaTY2UjU4el82VTVwalphRmcyMndNVkMyejZYVTUzVXgxYkVxUlVGX2psS2xkVTl0UkNpWGFLb2J5VXZJcUwyVVlLd3RzeHh0OFZ3UmRLYkNQNnZNUUMwZnNEY2dBZ2M3VVE2V3ZuYWRMOTZ5NWpzQmZxVVUyVlZURDJ2ejh1dnJPY1BCa0oxSkxwTTVneThTd09QRFViWjd3ZTM5RlhR0gGLAkFVX3lxTFBRUHlodC1yUy1Fd3AyWGtrWno0am82LWI5YVl3X2ZMNXZxRnZJUUFtN3FST0lQQ2tsb2daODVDVzhaOGF4SjA3a2NTdTJjdmlubXM0cEZJRmpXWDZfZHdVajFuRG9reUJPaGlXQ1A1MjN6U3kwdld6NjlxYzkzb2E0S3h4WldSY2U0ZkpFODUwaUwyNDNnZzNIVW1CYjBRdEE3YVNoclhwWUdLbHAxb1R0TzN0QXlHRHRSZE9aMkVZYkRoMl9ocGlJWFZmZHFrdU04T1M5eFB3S2RSX09JMm5pZmdFUm9ESnlldXlDWFpKVmd1UDdhemN0Yng4UkhCQjZ2c2NhRjZ3S2dmbw?oc=5)
+
+---
+
+### [El asma grave y sus comorbilidades: “Es una enfermedad que rara vez aparece aislada”](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjdTcU5JdzN6RG5meW1yVDZVel8tZWF1Tk1zTFcyUWVCOFV1ZnZmb04xMURBQTd4ZDZqT0pjbDhTeGZ2dkRlLWowUlQ5XzZwREEwQTl4aTczbk1teXUyRkRTWnZHNEtNNDVXVkxmMWswRWxhcFJRZUJBTm5mU3FuaDlQajMxeVRmb19nWDZ2aFNQVzZTZEJxMTBqUHBuWWNBcElSZTJpX3Z4WGtBUUtya01pNmhOWE4wUzcxVw?oc=5)
 
 2026-05-06 <span class="news-indication-tag">asma</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjdTcU5JdzN6RG5meW1yVDZVel8tZWF1Tk1zTFcyUWVCOFV1ZnZmb04xMURBQTd4ZDZqT0pjbDhTeGZ2dkRlLWowUlQ5XzZwREEwQTl4aTczbk1teXUyRkRTWnZHNEtNNDVXVkxmMWswRWxhcFJRZUJBTm5mU3FuaDlQajMxeVRmb19nWDZ2aFNQVzZTZEJxMTBqUHBuWWNBcElSZTJpX3Z4WGtBUUtya01pNmhOWE4wUzcxVw?oc=5)
 
 ---
 
@@ -155,22 +163,6 @@ permalink: /news/somapacitan/
 2026-05-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[Infosperber](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG9rSDFQM0M1bndLSE1Qd0pPUktIWGtjbUVnRzFJQ2ZkTG05UlZIdGl5dHZvLURkSlZ0Nlpud2Z5UG43Z3hUVXUwRXpPY2VkczRobkVQRF9keVFXMVprajVqelY2WlYxVll4aU9va2lBbWVhTXF6YTY1Q09tUnk0Y29qTEE0bnpxd01hNWtmWGxkM1p3VjBn?oc=5)
-
----
-
-### [Asthme sévère : des traitements efficaces... à condition d’avoir le bon diagnostic - Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
-
-2026-05-05 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
-
----
-
-### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
 
 ---
 

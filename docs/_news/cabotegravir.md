@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
 ### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/cabotegravir/
 2026-05-06 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
+
+---
+
+### [Diabete: come si cura oggi in Italia? Le principali complicanze (e i danni del fumo) - Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPcUVlamJNTzVSaURzTmxsRGhfckFzelVoQ2F0WTVzbTdGWGxQMmxHbFB4ejJOZmJuZTBCcG5ibUxVSDRBVjNZUmJIR083TlJHNGNiaHRjZ1pXVlBsWDRMM2VleXVQQjNyaTY2UjU4el82VTVwalphRmcyMndNVkMyejZYVTUzVXgxYkVxUlVGX2psS2xkVTl0UkNpWGFLb2J5VXZJcUwyVVlLd3RzeHh0OFZ3UmRLYkNQNnZNUUMwZnNEY2dBZ2M3VVE2V3ZuYWRMOTZ5NWpzQmZxVVUyVlZURDJ2ejh1dnJPY1BCa0oxSkxwTTVneThTd09QRFViWjd3ZTM5RlhR0gGLAkFVX3lxTFBRUHlodC1yUy1Fd3AyWGtrWno0am82LWI5YVl3X2ZMNXZxRnZJUUFtN3FST0lQQ2tsb2daODVDVzhaOGF4SjA3a2NTdTJjdmlubXM0cEZJRmpXWDZfZHdVajFuRG9reUJPaGlXQ1A1MjN6U3kwdld6NjlxYzkzb2E0S3h4WldSY2U0ZkpFODUwaUwyNDNnZzNIVW1CYjBRdEE3YVNoclhwWUdLbHAxb1R0TzN0QXlHRHRSZE9aMkVZYkRoMl9ocGlJWFZmZHFrdU04T1M5eFB3S2RSX09JMm5pZmdFUm9ESnlldXlDWFpKVmd1UDdhemN0Yng4UkhCQjZ2c2NhRjZ3S2dmbw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabete</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPcUVlamJNTzVSaURzTmxsRGhfckFzelVoQ2F0WTVzbTdGWGxQMmxHbFB4ejJOZmJuZTBCcG5ibUxVSDRBVjNZUmJIR083TlJHNGNiaHRjZ1pXVlBsWDRMM2VleXVQQjNyaTY2UjU4el82VTVwalphRmcyMndNVkMyejZYVTUzVXgxYkVxUlVGX2psS2xkVTl0UkNpWGFLb2J5VXZJcUwyVVlLd3RzeHh0OFZ3UmRLYkNQNnZNUUMwZnNEY2dBZ2M3VVE2V3ZuYWRMOTZ5NWpzQmZxVVUyVlZURDJ2ejh1dnJPY1BCa0oxSkxwTTVneThTd09QRFViWjd3ZTM5RlhR0gGLAkFVX3lxTFBRUHlodC1yUy1Fd3AyWGtrWno0am82LWI5YVl3X2ZMNXZxRnZJUUFtN3FST0lQQ2tsb2daODVDVzhaOGF4SjA3a2NTdTJjdmlubXM0cEZJRmpXWDZfZHdVajFuRG9reUJPaGlXQ1A1MjN6U3kwdld6NjlxYzkzb2E0S3h4WldSY2U0ZkpFODUwaUwyNDNnZzNIVW1CYjBRdEE3YVNoclhwWUdLbHAxb1R0TzN0QXlHRHRSZE9aMkVZYkRoMl9ocGlJWFZmZHFrdU04T1M5eFB3S2RSX09JMm5pZmdFUm9ESnlldXlDWFpKVmd1UDdhemN0Yng4UkhCQjZ2c2NhRjZ3S2dmbw?oc=5)
 
 ---
 
@@ -131,22 +139,6 @@ permalink: /news/cabotegravir/
 2026-05-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[Infosperber](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG9rSDFQM0M1bndLSE1Qd0pPUktIWGtjbUVnRzFJQ2ZkTG05UlZIdGl5dHZvLURkSlZ0Nlpud2Z5UG43Z3hUVXUwRXpPY2VkczRobkVQRF9keVFXMVprajVqelY2WlYxVll4aU9va2lBbWVhTXF6YTY1Q09tUnk0Y29qTEE0bnpxd01hNWtmWGxkM1p3VjBn?oc=5)
-
----
-
-### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
----
-
-### [Un virus aquatique contamine l'Homme pour la première fois : maladie, symptômes… ce que l'on sait de cette découverte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
 
 ---
 

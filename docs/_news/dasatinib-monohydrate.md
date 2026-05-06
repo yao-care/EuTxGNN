@@ -14,7 +14,7 @@ permalink: /news/dasatinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dasatinib Monohydrate 有什麼相關新聞？">
-<strong>Dasatinib Monohydrate</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dasatinib Monohydrate</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dasatinib-monohydrate/
 <p><a href="{{ '/drugs/dasatinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（30 則）
 
 ### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+### [Cancer du pancréas : l'exploit d'un chimiste pour "éteindre" la toxicité de la radiothérapie (et tripler la survie)](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkdXZEh3Nm1SWE5zcTdIWllxeDdBMUFwczJzM1c2OTVLTUJLODR3TTRMd3JaUEd3UmpnSW5fLVFrMTJZZ0gxMjlNUWlZemlRanEzT2JCNk1rejVHTUp3RWdiWEJ6NWdWZjltRVQ5UlA5Q1ZUMTBTVXlLczh3SHdlMEp5REJsUDdpamJLajFkMDV4OHVEUS1zTzlycmlCWnZpcldDUFpoQTFWQmRmT0sxaVZ6bk5Eei1CaFNaZFgxMThXV3hscVRlbDd3SQ?oc=5)
 
-2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span> <span class="news-indication-tag">MS</span>
+2026-05-06 <span class="news-indication-tag">cancer</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkdXZEh3Nm1SWE5zcTdIWllxeDdBMUFwczJzM1c2OTVLTUJLODR3TTRMd3JaUEd3UmpnSW5fLVFrMTJZZ0gxMjlNUWlZemlRanEzT2JCNk1rejVHTUp3RWdiWEJ6NWdWZjltRVQ5UlA5Q1ZUMTBTVXlLczh3SHdlMEp5REJsUDdpamJLajFkMDV4OHVEUS1zTzlycmlCWnZpcldDUFpoQTFWQmRmT0sxaVZ6bk5Eei1CaFNaZFgxMThXV3hscVRlbDd3SQ?oc=5)
+
+---
+
+### [Krebs wegleuchten: Infrarotlicht aktiviert Nano-Medikament](https://news.google.com/rss/articles/CBMibEFVX3lxTE03LXVqX0M4a1c4MldFTFVQelVoUTZRTnp3X00zSGtFSEx4Sk9kYkpWRTRSSGZuUTg4b1VYdGkwck0tbnBTd1VXcTdRcmd3azREcElCV2szTU5vYUpiYldWYVoyQVZCVUJoaDF2Ug?oc=5)
+
+2026-05-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Swiss-Press.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE03LXVqX0M4a1c4MldFTFVQelVoUTZRTnp3X00zSGtFSEx4Sk9kYkpWRTRSSGZuUTg4b1VYdGkwck0tbnBTd1VXcTdRcmd3azREcElCV2szTU5vYUpiYldWYVoyQVZCVUJoaDF2Ug?oc=5)
 
 ---
 
@@ -75,6 +83,30 @@ permalink: /news/dasatinib-monohydrate/
 2026-05-06 <span class="news-indication-tag">tumor</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFdjUWZIazNZRnpraFFrSWEyN0RFZWM1RnVTaGFRZ2hhUkNxUmM4WFFHcjRyMXhkNFRjY2gzcDJhR3o5VU5EcTNrRkFmTWFmWjlsYlVFb2lZaHRFNGk5QWFXYkxtcDkwenE1UjNtb2JielZXdU1ZYzdYaWVOaDFXR2duN2w3alVBTlE?oc=5)
+
+---
+
+### [Personas investigadoras de Euskadi coordinan el proyecto europeo TITAN para impulsar innovadores tratamientos contra el cáncer](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVU44bm94Y0p3Q1FCTDJmWExyNDR6endJdjNWblM3ZWFGSTBHdWFBWDQwOGhZZDRveGNzb1pVUmhCZG0yNTZZQzY3MlNmM3o3NEtHWHFOQzVGcHo3WVA3Y2dxOG5zUThNZURrZnBIdEhvLTJLS3BZSHBRczZQcWsxYXNYWVV1N1FrTFZfUUxVY0hwR2EtUlJiU0wzazBfX05mbk9JZktPZnNuTks5MEJaaWx4VQ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">tumor</span>
+
+來源：[EHU](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVU44bm94Y0p3Q1FCTDJmWExyNDR6endJdjNWblM3ZWFGSTBHdWFBWDQwOGhZZDRveGNzb1pVUmhCZG0yNTZZQzY3MlNmM3o3NEtHWHFOQzVGcHo3WVA3Y2dxOG5zUThNZURrZnBIdEhvLTJLS3BZSHBRczZQcWsxYXNYWVV1N1FrTFZfUUxVY0hwR2EtUlJiU0wzazBfX05mbk9JZktPZnNuTks5MEJaaWx4VQ?oc=5)
+
+---
+
+### [El diagnóstico precoz, clave de la supervivencia del cáncer de ovario - Diario de Navarra](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMDFfQXZ5bHhJOHQwSVJLV2VJam1LN2FEaEhMOTlRNmVtM3BIcHR1dE9qV09iQjNYc3M4NGpxWGhBS1BLcHVTLVZuQTFwcDhzLXJlLVRGOHVvMjgxVXZiRWJ2SFJMSVVjU2NCZG0xSTc5UERoYS1WVnBXWnp0a3gwWGFwNzQtQjROc1dHbGxZRVRKYS1yS281cVZ1TzZhM1hxUGRaR3BsOWNDMDdGSlFYWE9DSXZGajNudlpnOUpKY05fX2dFUVVpYjhSNmJ4MmJw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMDFfQXZ5bHhJOHQwSVJLV2VJam1LN2FEaEhMOTlRNmVtM3BIcHR1dE9qV09iQjNYc3M4NGpxWGhBS1BLcHVTLVZuQTFwcDhzLXJlLVRGOHVvMjgxVXZiRWJ2SFJMSVVjU2NCZG0xSTc5UERoYS1WVnBXWnp0a3gwWGFwNzQtQjROc1dHbGxZRVRKYS1yS281cVZ1TzZhM1hxUGRaR3BsOWNDMDdGSlFYWE9DSXZGajNudlpnOUpKY05fX2dFUVVpYjhSNmJ4MmJw?oc=5)
+
+---
+
+### [Alzheimer’s risk ‘can be predicted by at-home test’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
 
 ---
 
@@ -118,11 +150,27 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
+### [C’è un collegamento tra apnee notturne e tumori. La scoperta all’ospedale Sant’Andrea di Vercelli - La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
+
+2026-05-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
+
+---
+
 ### [Common cooking oils are now being linked to cancer in recent studies](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2ZQcTY3bVNJQ1FfRmhmWTZMM1VrTW82YkR2TTQwZFZTN3hHNHIya1cwcTdUVDhSUzBlTDBjOURHdmYxZkFfOVZ5UzRaTUNTdHFjSnNZYnRTY2dsZDFiYXBWZDZEd19ScWlrLW5rOTA1OGRXTkRNN3BJTUhjYUIxOEdtdFliZmNsS3I3dDRjUkx4a0JuajNMSXp1SmdzZVljdUFrMmNVRWIyRmtXNUxnbWl3?oc=5)
 
 2026-05-06 <span class="news-indication-tag">cancer</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2ZQcTY3bVNJQ1FfRmhmWTZMM1VrTW82YkR2TTQwZFZTN3hHNHIya1cwcTdUVDhSUzBlTDBjOURHdmYxZkFfOVZ5UzRaTUNTdHFjSnNZYnRTY2dsZDFiYXBWZDZEd19ScWlrLW5rOTA1OGRXTkRNN3BJTUhjYUIxOEdtdFliZmNsS3I3dDRjUkx4a0JuajNMSXp1SmdzZVljdUFrMmNVRWIyRmtXNUxnbWl3?oc=5)
+
+---
+
+### [These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests](https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5)
+
+2026-05-05 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5)
 
 ---
 
@@ -243,46 +291,6 @@ permalink: /news/dasatinib-monohydrate/
 2026-05-05 <span class="news-indication-tag">Krebs</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVERzbUFCYmlHX0NBQzFZT29Uc0dxR181aE1pVXVWeGFheUJJWXFsUzh4SmgxYWhRQU5KeWhvUXBEcG9IVmNaR3FNeWZ1cmQyV1lLQjhsd2V4R0szQzlsQUV6b1J0OGFYdmREMWRrVEtYOERvWFozS2x2SXZORFFTWkx2U1k4MHo4WDh5MmQxUHI1MWtJNTFNbUdSQzNicTBJajlyR21xTms3eHVfZDJjT0Rwaw?oc=5)
-
----
-
-### ['Beautiful, loving' girl, 9, tragically dies within hours of cancer diagnosis - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1EzZUU5ZVZsVWcxeXNadFJZS2o5RXMwdDhWTkpsbE5yejZOYlZ3ckQ4cVhDQ3NNb3owVHVrUmloQl9VMURmbExBUTJpQWl6S1o5YmVxQ3YwMnE4T013Tkp5UVdNaEdISVU5eE5TVFZEUWJVbWNTLVNHRDcyWjNTUk9aYnlQRkIt0gGOAUFVX3lxTE13aERPWTladnRYOFhfMnlsTFluNUZoQlhKdVNFeHhoNmNLSTNnWV9fZnduTXVPdzZnX3dpVzBtcWJwa2I3LXNNUldFcmxuVzNxZWh5UnAzLWJKbmpWYkVtMTVBeWRVaGh6YVdtenVvY3FqX3FMMTVBR1hrdXllRS0tX19YTXVZM1hhU1N2LWc?oc=5)
-
-2026-05-04 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1EzZUU5ZVZsVWcxeXNadFJZS2o5RXMwdDhWTkpsbE5yejZOYlZ3ckQ4cVhDQ3NNb3owVHVrUmloQl9VMURmbExBUTJpQWl6S1o5YmVxQ3YwMnE4T013Tkp5UVdNaEdISVU5eE5TVFZEUWJVbWNTLVNHRDcyWjNTUk9aYnlQRkIt0gGOAUFVX3lxTE13aERPWTladnRYOFhfMnlsTFluNUZoQlhKdVNFeHhoNmNLSTNnWV9fZnduTXVPdzZnX3dpVzBtcWJwa2I3LXNNUldFcmxuVzNxZWh5UnAzLWJKbmpWYkVtMTVBeWRVaGh6YVdtenVvY3FqX3FMMTVBR1hrdXllRS0tX19YTXVZM1hhU1N2LWc?oc=5)
-
----
-
-### [LEO Pharma lanza en España una nueva inmunoterapia para carcinoma nasofaríngeo y epidermoide esofágico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEZxcXdNU2xmY2NtWjhTdFlrdE1oYlVkQmZCc2h4Rm1uMlZsenZmbWZKWkstSjdkR09HdHd4ZnZZNUVLbXctRk52X0RQclZoUVd6T3Z0VzVua3diOEJORFM0WGRWMUh4NGdFVk9iMEgwUThIajM2bVJyazk2QmV2NERmNVBXUmw0TDJvOTlRMFNfNEVCaTU1bF9JMGV2MnZnX0ZxQUVXVU5uT2dhVE1ueU5NZTllTlBJVUl3?oc=5)
-
-2026-05-04 <span class="news-indication-tag">carcinoma</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEZxcXdNU2xmY2NtWjhTdFlrdE1oYlVkQmZCc2h4Rm1uMlZsenZmbWZKWkstSjdkR09HdHd4ZnZZNUVLbXctRk52X0RQclZoUVd6T3Z0VzVua3diOEJORFM0WGRWMUh4NGdFVk9iMEgwUThIajM2bVJyazk2QmV2NERmNVBXUmw0TDJvOTlRMFNfNEVCaTU1bF9JMGV2MnZnX0ZxQUVXVU5uT2dhVE1ueU5NZTllTlBJVUl3?oc=5)
-
----
-
-### [Scientists Identify Two Simple Treatments for Cancer-Related Cognitive Impairment](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlB5UFQ0cUF6NE05dE9RLVBvanhuZ29NRUtHVjlXTnUzcE1fUXp4TVBiQzZvQmNJLWN4cS1RNUxXRkFic19WNWZMR1FUZm1qdTVTdy1wc2hpOHdjUmhKYnQ0aDhhSEd0a1FsVm5UU25xZE9qRjZNY05PSTQyUEh2dWpJN0F1OW5sb2VSRVFpaUZiYzJKOWJmeUlFU0VGQV9ZQzdBN2RhTG02dWs?oc=5)
-
-2026-05-04 <span class="news-indication-tag">cancer</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlB5UFQ0cUF6NE05dE9RLVBvanhuZ29NRUtHVjlXTnUzcE1fUXp4TVBiQzZvQmNJLWN4cS1RNUxXRkFic19WNWZMR1FUZm1qdTVTdy1wc2hpOHdjUmhKYnQ0aDhhSEd0a1FsVm5UU25xZE9qRjZNY05PSTQyUEh2dWpJN0F1OW5sb2VSRVFpaUZiYzJKOWJmeUlFU0VGQV9ZQzdBN2RhTG02dWs?oc=5)
-
----
-
-### [I thought I'd put on weight - it was cancerous tumour that exploded in the BATH - The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBkSDYxa1FPWkZpMkhCZGNZXzE2cG5OU1R1OGxENWM2UWxwRGVrRlJtLWs1ZldGNWR6MFk3TEtobERCVHBGZEttODVLNDJKMEI3Y0I0dVV4elRBdVl3ZWwxcjA3V0hON1hTZzNRWTV6SEpCNjl0d3dKVDlFc0g?oc=5)
-
-2026-05-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBkSDYxa1FPWkZpMkhCZGNZXzE2cG5OU1R1OGxENWM2UWxwRGVrRlJtLWs1ZldGNWR6MFk3TEtobERCVHBGZEttODVLNDJKMEI3Y0I0dVV4elRBdVl3ZWwxcjA3V0hON1hTZzNRWTV6SEpCNjl0d3dKVDlFc0g?oc=5)
-
----
-
-### [Cancro al pancreas, scoperta chiave dei ricercatori: così il tumore diventa resistente alle cure](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGwtQ0NUTGFFSmpNX2JCNlhnRGo2RGI1WHp6NWQwTkhxMnc5c3ZnUDlaZk5LM244YVNncU5yZjlkOEgwcUYzZl9ZanlrV2p4WE1pSnNmWXVnbms1eEtiZ2l5SjRENGRJQllYUkJGeXhjT0hHY0czMEw4cnhESXMtNjVWTnlxNEVqb0hLVEZoc0NUT0JYX0dNa1NWeWRmNHNwTU5ZX3VZN0c1VDBMd0txTUZJRkM5UFpLb2tHQ1BvcWZDWVpmWDlsdHRQZUltWGhFTk10ZHZEQTUzb2s?oc=5)
-
-2026-05-04 <span class="news-indication-tag">tumor</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGwtQ0NUTGFFSmpNX2JCNlhnRGo2RGI1WHp6NWQwTkhxMnc5c3ZnUDlaZk5LM244YVNncU5yZjlkOEgwcUYzZl9ZanlrV2p4WE1pSnNmWXVnbms1eEtiZ2l5SjRENGRJQllYUkJGeXhjT0hHY0czMEw4cnhESXMtNjVWTnlxNEVqb0hLVEZoc0NUT0JYX0dNa1NWeWRmNHNwTU5ZX3VZN0c1VDBMd0txTUZJRkM5UFpLb2tHQ1BvcWZDWVpmWDlsdHRQZUltWGhFTk10ZHZEQTUzb2s?oc=5)
 
 ---
 

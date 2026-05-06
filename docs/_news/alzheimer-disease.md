@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Simple at-home test can help predict Alzheimer's risk, says study - Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+### [Alzheimer’s risk ‘can be predicted by at-home test’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
 
 2026-05-06
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMioAFBVV95cUxONWlLMlZrcEFWZnNTVjVsaVFKR0dBUTJrRnAtYXNsWnN1T3NIUHYwZENaa1Bzai1Lc21GRnlLZTh1NHQ4VjdqRVI0UHVCcmZVcWE4cXZkRFAzMHdpdm5YaklkVlRhOC1WREotU2dhVF9qNjV6SkZxTkJBaVU2cUEySTZuSXQxMjUtNmc3emVhZXpBODBfblNqZ3hCZE5OYk90?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
 
 ---
 
@@ -59,6 +59,14 @@ permalink: /news/alzheimer-disease/
 2026-05-06
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+
+---
+
+### [These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests](https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5)
+
+2026-05-05
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5)
 
 ---
 

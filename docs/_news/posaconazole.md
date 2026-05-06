@@ -14,7 +14,7 @@ permalink: /news/posaconazole/
 ---
 
 <p class="key-answer" data-question="Posaconazole 有什麼相關新聞？">
-<strong>Posaconazole</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Posaconazole</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/posaconazole/
 <p><a href="{{ '/drugs/posaconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（23 則）
+
+### [Hantavirus latest: Virus-hit cruise ship leaves Cape Verde for Canary Islands after patients evacuated](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycEx2WTlOZURmRWpCeGRzU3dvWEkxcU05T2h3WHJ1SWxxSllUbUc0c0d1QTJzRU5fbG5JdVVtUzBXQzQ4TVFIU1BTR1AwcmhBSnBwWmJlUQ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycEx2WTlOZURmRWpCeGRzU3dvWEkxcU05T2h3WHJ1SWxxSllUbUc0c0d1QTJzRU5fbG5JdVVtUzBXQzQ4TVFIU1BTR1AwcmhBSnBwWmJlUQ?oc=5)
+
+---
+
+### [Lacunar strokes caused by widening of arteries in brain, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
+
+2026-05-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
+
+---
+
+### [FÜR RAFIA](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
+
+2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[DKMS](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
+
+---
 
 ### [Barry hepatitis A cases prompt warning to parents](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sODZDandCb1hfUF9GVktrLUVPTmRDUjRoaXpJRnNoYUJXUmI0WFhUd2t4QUttTm8waHBXLWpWVjFvVkNuZnpRQjViNTBIVHVGNTdXenZzYzZSdUFa?oc=5)
 
@@ -62,11 +86,27 @@ permalink: /news/posaconazole/
 
 ---
 
-### [Worktop warning after rise in 'next asbestos' deaths - as cases jump 450% - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWl3ZXdsM1N1dzVYTldndDcwWHB1MjdyQkk2TEhOQWFNRTAwc2RaRlJEU2ZXRVRNaW45US04dXVTOTZQNU5xRllKZEhYaGJBT2lTbGoxVWtFeUcyUlJyQ3lTZm9PTVkzQkRsRmZmMjdvRlEzdEdtRWtfVTZZZ0gwUUZ4cHdUeGlNZVZpemotTEJtUQ?oc=5)
+### [Cuando la alergia de la primavera no se queda en la nariz y su impacto llega hasta los oídos y la garganta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
 
 2026-05-06 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWl3ZXdsM1N1dzVYTldndDcwWHB1MjdyQkk2TEhOQWFNRTAwc2RaRlJEU2ZXRVRNaW45US04dXVTOTZQNU5xRllKZEhYaGJBT2lTbGoxVWtFeUcyUlJyQ3lTZm9PTVkzQkRsRmZmMjdvRlEzdEdtRWtfVTZZZ0gwUUZ4cHdUeGlNZVZpemotTEJtUQ?oc=5)
+來源：[Atresmedia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
+
+---
+
+### [El aire que respiras te hace engordar y perder músculo, según un estudio](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnBKRjBJdHN3YUZzVS1HdVJKcTM3UGVyeGI1TUcwZjB6Q0hMazhtQkVkWkV5cVRsS0lKRU4xekZ6MnItWGdkWTBlUklrdXA3cmRfTWpCQUMwWkRiYVpCeGs5ejBacFhNajJVNFVVa0hCcDhiMUZEbVppbklLRmotT1JmM1EyajI1Uk95Q2VmeHVWaUlMZ0hDY29nRE5YRm55ZFJESGE4OEZHSm9yeHE4YTJ1OTVrdUFmYnUxbDMwQ1F3b3hUMmI1QU84bDhDSzdCLUVrLURvUdIB3AFBVV95cUxQSlpCSi1lNFNRMVFzbHJ0eUtGUk04VjhCb0gxc0dxdFNhYWdCMkFqZDFZcHRndzltQXpseVJwVm11OTZXWlo5SndSWFF3dC1zOFlMWWZMU3YxTEhQdjRBb2pxOGNnNVBaUHV4U2FrMDJpM3RjMDFaWnd6ajN3X2lvWDd4bXVrOVVHTDJvZjR2T0tldWpaTXBKX0N3am1nZWk5THNzZzV0RlUxWF9DeVkzQUlkd2dwZmtHTWp1X04yeXpxNVVmekZkVkhaYmk5Tmd0UHBfS0RDM0J6ODg5?oc=5)
+
+2026-05-06 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnBKRjBJdHN3YUZzVS1HdVJKcTM3UGVyeGI1TUcwZjB6Q0hMazhtQkVkWkV5cVRsS0lKRU4xekZ6MnItWGdkWTBlUklrdXA3cmRfTWpCQUMwWkRiYVpCeGs5ejBacFhNajJVNFVVa0hCcDhiMUZEbVppbklLRmotT1JmM1EyajI1Uk95Q2VmeHVWaUlMZ0hDY29nRE5YRm55ZFJESGE4OEZHSm9yeHE4YTJ1OTVrdUFmYnUxbDMwQ1F3b3hUMmI1QU84bDhDSzdCLUVrLURvUdIB3AFBVV95cUxQSlpCSi1lNFNRMVFzbHJ0eUtGUk04VjhCb0gxc0dxdFNhYWdCMkFqZDFZcHRndzltQXpseVJwVm11OTZXWlo5SndSWFF3dC1zOFlMWWZMU3YxTEhQdjRBb2pxOGNnNVBaUHV4U2FrMDJpM3RjMDFaWnd6ajN3X2lvWDd4bXVrOVVHTDJvZjR2T0tldWpaTXBKX0N3am1nZWk5THNzZzV0RlUxWF9DeVkzQUlkd2dwZmtHTWp1X04yeXpxNVVmekZkVkhaYmk5Tmd0UHBfS0RDM0J6ODg5?oc=5)
+
+---
+
+### [Diagnostic dilemma: A woman turned black and blue weeks after starting a new medication - Live Science](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1BTenVnV2k1QTBVOTFFU2VjemYxSDhUT1VzQXpXQ1V5N1BSaWNmSnYycjBzdEMwZS1YbXpDUUN2SWluTXZfQjhqT2JyZlVreUxoM0EtMkFaRzFkdlE3dHZMXzYyMTBQMVozSEQzbzlXdjQ5dVRLaVJ5aTBoRXdjSXhEZTV4V1hBLWNzVkFjSngxaWt3X1ZScm9aalRLRlZxLVpSeFRQTUo0ZUhKUDJRWEFpNUM5VkV0M0FoSkxOR1Z0Um0zVnZKemNrclQwU3V4cUE?oc=5)
+
+2026-05-06 <span class="news-indication-tag">AF</span>
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1BTenVnV2k1QTBVOTFFU2VjemYxSDhUT1VzQXpXQ1V5N1BSaWNmSnYycjBzdEMwZS1YbXpDUUN2SWluTXZfQjhqT2JyZlVreUxoM0EtMkFaRzFkdlE3dHZMXzYyMTBQMVozSEQzbzlXdjQ5dVRLaVJ5aTBoRXdjSXhEZTV4V1hBLWNzVkFjSngxaWt3X1ZScm9aalRLRlZxLVpSeFRQTUo0ZUhKUDJRWEFpNUM5VkV0M0FoSkxOR1Z0Um0zVnZKemNrclQwU3V4cUE?oc=5)
 
 ---
 
@@ -78,14 +118,6 @@ permalink: /news/posaconazole/
 
 ---
 
-### [En el marco del Día Mundial de la Hipertensión Pulmonar, SEPAR alerta que el diagnóstico tardío sigue lastrando su pronóstico - Diario Siglo XXI](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTThUcm44czB0RW9USjRHMmN6Y2xKeGFsS0NGUUVGNlY5NmtvbGZ0UjV5RDAwQnMwZmxwQXRRa2tsWUZIX2U0MHBuaVZ3MzFxNVZodTd6eGFpVzEyNVVLLV9NandqRzhPODJyUnFIZWJZOHRoUms2elpOaEhiVWwwOEVhRFdyZmdsODhPa0RiQWJ2OTYycDc4TmIyZXhsRmljNG41MDRSZ0RqaS1UZUVrNncxZTVyQ3VzRzE1TXlaSnQ4RHhBRlhSQ0o2ZzBBd0x5ejhYcG1FbmxoWGgwQ3RxUVQ5OHJKcDRsNVJHYVVFOA?oc=5)
-
-2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTThUcm44czB0RW9USjRHMmN6Y2xKeGFsS0NGUUVGNlY5NmtvbGZ0UjV5RDAwQnMwZmxwQXRRa2tsWUZIX2U0MHBuaVZ3MzFxNVZodTd6eGFpVzEyNVVLLV9NandqRzhPODJyUnFIZWJZOHRoUms2elpOaEhiVWwwOEVhRFdyZmdsODhPa0RiQWJ2OTYycDc4TmIyZXhsRmljNG41MDRSZ0RqaS1UZUVrNncxZTVyQ3VzRzE1TXlaSnQ4RHhBRlhSQ0o2ZzBBd0x5ejhYcG1FbmxoWGgwQ3RxUVQ5OHJKcDRsNVJHYVVFOA?oc=5)
-
----
-
 ### [Beruhigungsmittel in der Schwangerschaft nicht mit psychiatrischen Störungen bei Kindern assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkxES0VUU2RaeHloNl81Mlh1RC0zZk9QS1pLUmZFQVFnU283aHVxRDhNazhreUp1V1ZrNlUtQ2V1dG5JSTl1UW5JOXNCYWw2NnBvdzhxOFFCLXhHMTFtV3FZYy1KZFB3clBsTk1NY3BRdlgzbk1WNzJkb0g2bjNmR01ITmlHM0JKX2JXRW4xZ3psOFBWcjl1b3owM1pnNk1jOWdRMWtHRW9YSGtoT09CWW9MSkRPb0thS3g1S2tPbDd0NE9ieS1maQ?oc=5)
 
 2026-05-06 <span class="news-indication-tag">AF</span>
@@ -94,11 +126,27 @@ permalink: /news/posaconazole/
 
 ---
 
+### [Cuore e tecnologia, in Cardiologia l'ablazione diventa più sicura - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2tmYnQwLW9POTNaUFAtVmI1M2FTUV9aaDU5c3Z6WEhGV0c5Z1UwZU9nYm0wSkdGbUxZZnBDOFpwTFNZT0VQQm5sNWtQbW11cmRoSEFBNm5sUldfdFNRUExldDdlZ0pDelg3UXROQXp3YU1QQndJUWNlekk1V2pOdWJWbXdEU2FZMy1ILUFIZ3R6NXZpazhLVUZtZHYwNlpOX3BCMWdVMFhpMi02eUJhUkZIWUhESDZHdFE?oc=5)
+
+2026-05-06 <span class="news-indication-tag">AFib</span>
+
+來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2tmYnQwLW9POTNaUFAtVmI1M2FTUV9aaDU5c3Z6WEhGV0c5Z1UwZU9nYm0wSkdGbUxZZnBDOFpwTFNZT0VQQm5sNWtQbW11cmRoSEFBNm5sUldfdFNRUExldDdlZ0pDelg3UXROQXp3YU1QQndJUWNlekk1V2pOdWJWbXdEU2FZMy1ILUFIZ3R6NXZpazhLVUZtZHYwNlpOX3BCMWdVMFhpMi02eUJhUkZIWUhESDZHdFE?oc=5)
+
+---
+
 ### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
 
 2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
+
+---
+
+### [C’è un collegamento tra apnee notturne e tumori. La scoperta all’ospedale Sant’Andrea di Vercelli - La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
+
+2026-05-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
 
 ---
 
@@ -126,19 +174,19 @@ permalink: /news/posaconazole/
 
 ---
 
-### [La OMS y Sanidad acuerdan que el crucero con un brote de hantavirus escale en Canarias tras evacuar a los casos graves](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3F6QjBUeW1vZDdVTDAzNVJXSlZxU185YW1FOFBOZ2tLUzlRdzkxQlY4NGlKbVRJM1oxWWlSWlRfTEJpUWRpOGY0QVpMTWNrVXo2STAxZlZnM0RkZVYtdHYtXzBnbVZ5SUVWNWk2M21UOUFBV3ZqWC01X0NxN2tGSkRsRdIBiAFBVV95cUxNb0VyUGdRcGNtcENqOUxsN29KemR3RGpubWtqLUkyRGVBRHY3VVhmNE1MMnJQblJaa0toTUw3LTlicUxZNWlsZGZYYVZtUHJWbV9LX3VLdE5yY05qeUg2S2hfX1JYSGcwaDZETTJ3T2hMZEY2ZVpaX1ZTY2lRN0lESnFqNXdJSmtR?oc=5)
-
----
-
 ### [Lisa Mayr erhält Mannagetta-Förderpreis der Österreichischen Akademie der Wissenschaften - MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
 
 2026-05-05 <span class="news-indication-tag">AF</span>
 
 來源：[MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
+
+---
+
+### [Una enfermera de crucero, ante el hantavirus: así es el protocolo a bordo - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd254dDEtdXBZZ3RWVTlrVVRWdDkyS2ZXT2tBQWdiQS1LbVNqWXp6OFR1NTBXM2Z0bWtNajNVUUM1SXlvU3NpMGVwUXVSVUlwX24zbUZjSGU0UHpQLWoxM2hZZlpaTTVJaHp4bnlfMU1HSy1mSzlMRUU0YnpDQUtod3BFa1lJTEN0M19hZnhFYm5faHNQYVl0Tk5nMGZNMTQ4REp3OUUyc0VlY2cyb1BUYUNFZDFWaWttcHdMSnlWWEN4NnVFeFkzMdIByAFBVV95cUxNa1hHUDhvOG9MN3pWS1MtWHk0OVo3dS1CZGRYd2ROdFZLa2d4T29WdktZaXpUTHJ3ZHFYam0yUkhJY2lQSmN0UUZQbGMwY0x1QTAyN25qMHMxYW1wU3FWa3JCeFdCSmI2akF1YlpHYVVndTA0LS1XQk1VODVOYnY0RWRXWFJ5V2dUUkhHUHlWVkdoTjRoZ0Z6VGtMUEtyRHczMTZPWFFMdFR4V1E4S202OHVxVEVGVGgwSVMwMzcwS0M0cDB0QzlqdA?oc=5)
+
+2026-05-05 <span class="news-indication-tag">AF</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd254dDEtdXBZZ3RWVTlrVVRWdDkyS2ZXT2tBQWdiQS1LbVNqWXp6OFR1NTBXM2Z0bWtNajNVUUM1SXlvU3NpMGVwUXVSVUlwX24zbUZjSGU0UHpQLWoxM2hZZlpaTTVJaHp4bnlfMU1HSy1mSzlMRUU0YnpDQUtod3BFa1lJTEN0M19hZnhFYm5faHNQYVl0Tk5nMGZNMTQ4REp3OUUyc0VlY2cyb1BUYUNFZDFWaWttcHdMSnlWWEN4NnVFeFkzMdIByAFBVV95cUxNa1hHUDhvOG9MN3pWS1MtWHk0OVo3dS1CZGRYd2ROdFZLa2d4T29WdktZaXpUTHJ3ZHFYam0yUkhJY2lQSmN0UUZQbGMwY0x1QTAyN25qMHMxYW1wU3FWa3JCeFdCSmI2akF1YlpHYVVndTA0LS1XQk1VODVOYnY0RWRXWFJ5V2dUUkhHUHlWVkdoTjRoZ0Z6VGtMUEtyRHczMTZPWFFMdFR4V1E4S202OHVxVEVGVGgwSVMwMzcwS0M0cDB0QzlqdA?oc=5)
 
 ---
 
@@ -158,38 +206,6 @@ permalink: /news/posaconazole/
 
 ---
 
-### [Así afecta la exposición prolongada a la contaminación del aire a la salud](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHR0XzQ1LUJpQjNnZngzYnAwYWpwVF9aQ3pTekNaZml5VjE4Q2VRRDZ5amtGdXMzOHFLVmdsYjFnS2F5dFBLSWZYLVBvcG9TZTNzN3I4a21CQ09BbHBOZ09sQ1MtbWx5emdXR2RLdUt3V19HOVZwODRlZDJPOWQ2UFVZaUhiazYxOTZjQjRjTGxvazRlZnFwdGpBbGZRZVowNWthMno4cmt6OENNM0dLaTQ2QXI5SlY5Z19QbUpzcm9JWGlLMGpKdXJRVlhaMzBjSlQ0eURpN2l0TDR6UzRucWVRSmlkc0hGQWJRcGh4QmtHV01m?oc=5)
-
-2026-05-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHR0XzQ1LUJpQjNnZngzYnAwYWpwVF9aQ3pTekNaZml5VjE4Q2VRRDZ5amtGdXMzOHFLVmdsYjFnS2F5dFBLSWZYLVBvcG9TZTNzN3I4a21CQ09BbHBOZ09sQ1MtbWx5emdXR2RLdUt3V19HOVZwODRlZDJPOWQ2UFVZaUhiazYxOTZjQjRjTGxvazRlZnFwdGpBbGZRZVowNWthMno4cmt6OENNM0dLaTQ2QXI5SlY5Z19QbUpzcm9JWGlLMGpKdXJRVlhaMzBjSlQ0eURpN2l0TDR6UzRucWVRSmlkc0hGQWJRcGh4QmtHV01m?oc=5)
-
----
-
-### [Doctor and MSP hopeful, 39, on being brought back to life after heart attack - Edinburgh News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX09scURhSzZBNWdDcnNjRGlGTks0ajRqeDQtSnZrTUVVS00tQW4wYVZZYl9QeEkwMjhUTzlYclNrRzFjeVpaQVpuOHdqdTlxMnZpSDRSWmZseThDblQ4Mk1QdGFGcDdFYTdOYzNSM1ZMYktMdWx4SC1uQUhwQklWWTJwemxacGVnbFd2NFBqeVU3M1pBWjRFMk5OS0FFX0FCMXFsVGZOWHNzMnhPaV81a01zdlBxQVd5MFd2eEE5M1dQYjRPZFlyV1JybmViT3BfRFZhNHhrMTl5WDFzUE5ORkxkbXp5Sk1vdTgxb21KWHo?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Edinburgh News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX09scURhSzZBNWdDcnNjRGlGTks0ajRqeDQtSnZrTUVVS00tQW4wYVZZYl9QeEkwMjhUTzlYclNrRzFjeVpaQVpuOHdqdTlxMnZpSDRSWmZseThDblQ4Mk1QdGFGcDdFYTdOYzNSM1ZMYktMdWx4SC1uQUhwQklWWTJwemxacGVnbFd2NFBqeVU3M1pBWjRFMk5OS0FFX0FCMXFsVGZOWHNzMnhPaV81a01zdlBxQVd5MFd2eEE5M1dQYjRPZFlyV1JybmViT3BfRFZhNHhrMTl5WDFzUE5ORkxkbXp5Sk1vdTgxb21KWHo?oc=5)
-
----
-
-### [Fracturas, dependencia y pérdida de calidad de vida: radiografía de la osteoporosis, una "epidemia silenciosa" - Gaceta Médica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3h0Y290cXF4ajZ1OE1WbVlvbGtHT2p5UkVOUVF0WFRFMENQeXByXzhmMVJxcTlaSTJ3TFo4LVJ5SVZTU0EzTmFYbjRGN1VlOHNKWXJOLTJ1QmptNVpOQU9rYWdDUkVDcU1oNEpMRGpmWUk5cjd1WncxcWRESHlyWHJaTE1MRnp4NjdxUnYwSVhXSS1MUWdaU3oyUXBqQTQwaGw5LVlJamhPTTNYbEtCN2ZKNDRlUmwwalY3U0RXR1ZVblNnU1d2Y01tVEZzanRyYWtncElLNG5hWHc?oc=5)
-
-2026-05-05 <span class="news-indication-tag">AF</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3h0Y290cXF4ajZ1OE1WbVlvbGtHT2p5UkVOUVF0WFRFMENQeXByXzhmMVJxcTlaSTJ3TFo4LVJ5SVZTU0EzTmFYbjRGN1VlOHNKWXJOLTJ1QmptNVpOQU9rYWdDUkVDcU1oNEpMRGpmWUk5cjd1WncxcWRESHlyWHJaTE1MRnp4NjdxUnYwSVhXSS1MUWdaU3oyUXBqQTQwaGw5LVlJamhPTTNYbEtCN2ZKNDRlUmwwalY3U0RXR1ZVblNnU1d2Y01tVEZzanRyYWtncElLNG5hWHc?oc=5)
-
----
-
-### [Mum's battle for independence after 'agonising pain' on wedding anniversary - Norwich Evening News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOLW1RSnN4QXhqMlNYNEI0SnVQcHZ4MWVrUWFNMk5SN2pZR2Z1ZjBIWmlka0NoalBETjhvOGZHR2syVk1selNOOVQwV0lTOFU2ejRyeEp1LWtDRHBJMjQwREFHMnRZbFliejdKT0pOQ3B5cFFHMk1pUi0wYUl1YVNzaERLd0hPTmU2WGhSampvNDRPcVBMWVd2Tm5BaFJ4eWs?oc=5)
-
-2026-05-05 <span class="news-indication-tag">AF</span>
-
-來源：[Norwich Evening News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOLW1RSnN4QXhqMlNYNEI0SnVQcHZ4MWVrUWFNMk5SN2pZR2Z1ZjBIWmlka0NoalBETjhvOGZHR2syVk1selNOOVQwV0lTOFU2ejRyeEp1LWtDRHBJMjQwREFHMnRZbFliejdKT0pOQ3B5cFFHMk1pUi0wYUl1YVNzaERLd0hPTmU2WGhSampvNDRPcVBMWVd2Tm5BaFJ4eWs?oc=5)
-
----
-
 ### [« Des poumons qui vont bien avec l’envie de mourir, ça n’a pas de sens » : le Kaftrio, médicament « miracle » contre la mucoviscidose, entraîne des troubles du comportement chez des enfants - Le Monde.fr](https://news.google.com/rss/articles/CBMinwJBVV95cUxNTl9kTVNRUllNd2hqOTRGNUttRkdsMW5OazZ0ZkkwLUd0RTg3bTlDakdFcUg0ajlkTXNZOXpETndQVENtUFZaQXJ0QkxUZU9LSHB5aEZuTUNTVEgzalhGZU1ZdHJDNVNCd0dmWU04bW1pSzRrMnZPMmZPOWpwcWd6OGFLV2t5dVlnd3o1dlVkdEE2VjhRTHFMNDlocUlNdU96Y3BCZnIzb0RNTjFnRWl3UkNYT2Zmc2l3X0lrc01XTnNFYjZya3dMMVptenFPakg1aGJqOEdkNF9nTG1WUndZNG9QSWdqXzNHbnY2YkJJb0FCa1hwS0FlektjLWdxOFgwR0l1MWFlc0VxN3hMRWRXUGZua1phR1UwT0dpMWNhYw?oc=5)
 
 2026-05-05 <span class="news-indication-tag">AF</span>
@@ -206,14 +222,6 @@ permalink: /news/posaconazole/
 
 ---
 
-### [Südamerika: Wo die Kartoffel das Erbgut formte - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajBlYW16MXlZU0J3S2FkTUE1UTR2QjVjY0NsRmxvWUc4di1DSmNsY3lfZE1Od3owT3p6M21DemtIaG0tS2VYMTZqZnNOR18wd1UxWVNUYnBBS2k1UnlRS0NtZk10V3U4SHRQMWFLVjJnVkhWRC1ZNkxjbXI4MXhfSFpJQmtvZEhIZUdv?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajBlYW16MXlZU0J3S2FkTUE1UTR2QjVjY0NsRmxvWUc4di1DSmNsY3lfZE1Od3owT3p6M21DemtIaG0tS2VYMTZqZnNOR18wd1UxWVNUYnBBS2k1UnlRS0NtZk10V3U4SHRQMWFLVjJnVkhWRC1ZNkxjbXI4MXhfSFpJQmtvZEhIZUdv?oc=5)
-
----
-
 ### [Starlinks NRW - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMie0FVX3lxTFBidDdQMkhWTHBYTDh1OEhmQTltTkpBWkR3V3VpNDJnYXYzbEg0T2JUTkhPVlhlOEtOejk5bG52aVc3ZDY5ZkVMeHJlQWQ3bmxzSzFRam4tMUxWTWJHdHN6ZjZZeE9IVExqYnRCaEkyYkgxRlNOcmVVTnpCcw?oc=5)
 
 2026-05-04 <span class="news-indication-tag">AF</span>
@@ -227,22 +235,6 @@ permalink: /news/posaconazole/
 2026-05-04 <span class="news-indication-tag">AF</span>
 
 來源：[Österreichische Akademie der Wissenschaften](https://news.google.com/rss/articles/CBMicEFVX3lxTE8tYWJfUHpSeGRVeFprMkxBRDFqVllpandreWxGUk44TmRGczhoU25fR3Rsb2RubHNlcnBjeVhacGcwYXp3M0NmcTN0cDZGOUVsNnRROFpBQlh4LTJhN2hia2x2SDFVZENycUdxXzJvdHA?oc=5)
-
----
-
-### [Un virus aquatique contamine l'Homme pour la première fois : maladie, symptômes… ce que l'on sait de cette découverte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
-
----
-
-### [I thought I'd put on weight - it was cancerous tumour that exploded in the BATH - The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBkSDYxa1FPWkZpMkhCZGNZXzE2cG5OU1R1OGxENWM2UWxwRGVrRlJtLWs1ZldGNWR6MFk3TEtobERCVHBGZEttODVLNDJKMEI3Y0I0dVV4elRBdVl3ZWwxcjA3V0hON1hTZzNRWTV6SEpCNjl0d3dKVDlFc0g?oc=5)
-
-2026-05-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMifEFVX3lxTFBkSDYxa1FPWkZpMkhCZGNZXzE2cG5OU1R1OGxENWM2UWxwRGVrRlJtLWs1ZldGNWR6MFk3TEtobERCVHBGZEttODVLNDJKMEI3Y0I0dVV4elRBdVl3ZWwxcjA3V0hON1hTZzNRWTV6SEpCNjl0d3dKVDlFc0g?oc=5)
 
 ---
 
