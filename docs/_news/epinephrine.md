@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Su plasma e aspirina l’ex direttore Aifa nega ancora la realtà - La Verità](https://news.google.com/rss/articles/CBMib0FVX3lxTE5obnVMMlpYeVg5ZGFtR0VmQnc4NF9YT0h2VjVuMDZXX2ZFWFZjQVBLZERwNUtlUHVWampaQjVvZ295YnQyY3JETktIRXFpUzNNVzVrUlZKSnB2WEFGbU9HWVd4TEYtSm1FeGxsLTA5SQ?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span>
-
-來源：[La Verità](https://news.google.com/rss/articles/CBMib0FVX3lxTE5obnVMMlpYeVg5ZGFtR0VmQnc4NF9YT0h2VjVuMDZXX2ZFWFZjQVBLZERwNUtlUHVWampaQjVvZ295YnQyY3JETktIRXFpUzNNVzVrUlZKSnB2WEFGbU9HWVd4TEYtSm1FeGxsLTA5SQ?oc=5)
-
----
-
-### [Cuando la alergia de la primavera no se queda en la nariz y su impacto llega hasta los oídos y la garganta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Atresmedia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Los neumólogos aconsejan un abordaje continuo del asma: "Tratar solo los síntomas aumenta el riesgo de crisis graves" - Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
 
@@ -80,17 +64,9 @@ permalink: /news/epinephrine/
 
 ### [Asthma patients urged to 'call GP' as NICE issues salbutamol blue inhaler warning - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
 
-2026-05-06 <span class="news-indication-tag">asthma</span>
+2026-05-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
-
----
-
-### [“Reducir exacerbaciones es uno de los principales objetivos terapéuticos en EPOC; lograrlo indica que estamos impactando en su historia natural”](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXVsN1pGQ2dPSDE4WGN6OS1hb2RoZFJlaGNyVkNteVE4RlN4SGFzVWJvNER2ZWVqdFBaWHlJcl9TaTl1Z184aFgtS2xqRXRKOHZpNjBYWE9DMGJnTGc2QmR6VDNfdmlxRGgzX0tycGxVakVVTjhPZDRsdGVZdkxTNjR3YzZvZk9hNjlwUUgyTkJkVXhPTXpBM1BXcnRpSDVjZGc3bDcwSF9yUzQweG5TRDhTTWhmbUN0aWNiZzdkc2tVZXVWNVE4eXljbzhjQmY5UmYxdWVqdDBEMXZmakNxejU3T0pHODdUdWNhQjVaVnlKZThqVU5KcF9pdWJLYm8?oc=5)
-
-2026-05-05 <span class="news-indication-tag">EPOC</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXVsN1pGQ2dPSDE4WGN6OS1hb2RoZFJlaGNyVkNteVE4RlN4SGFzVWJvNER2ZWVqdFBaWHlJcl9TaTl1Z184aFgtS2xqRXRKOHZpNjBYWE9DMGJnTGc2QmR6VDNfdmlxRGgzX0tycGxVakVVTjhPZDRsdGVZdkxTNjR3YzZvZk9hNjlwUUgyTkJkVXhPTXpBM1BXcnRpSDVjZGc3bDcwSF9yUzQweG5TRDhTTWhmbUN0aWNiZzdkc2tVZXVWNVE4eXljbzhjQmY5UmYxdWVqdDBEMXZmakNxejU3T0pHODdUdWNhQjVaVnlKZThqVU5KcF9pdWJLYm8?oc=5)
 
 ---
 

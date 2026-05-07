@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Screening auf Hepatitis B: Welche Laborwerte Sie bestimmen sollten](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRXZzczOXgzRUJnWW1rUXFRaXlWREFjOXUzOXlyS2hyQW5xSlJMMnpxMmF6ZWdpMERIekZZbWlUd3pwRkpHWHkxd1BmMUo2WmgtTERaOWg1aGd3cklBUi1PdTRiWThQa3lJZkdSNzVid04zTFAyZmw1TXFxWUl4UkJ4ZndLMjUyQzctRkwzdFpteWswNjhEa3gyUUhJUlFsY0Ffam13?oc=5)
+
+2026-05-07
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRXZzczOXgzRUJnWW1rUXFRaXlWREFjOXUzOXlyS2hyQW5xSlJMMnpxMmF6ZWdpMERIekZZbWlUd3pwRkpHWHkxd1BmMUo2WmgtTERaOWg1aGd3cklBUi1PdTRiWThQa3lJZkdSNzVid04zTFAyZmw1TXFxWUl4UkJ4ZndLMjUyQzctRkwzdFpteWswNjhEa3gyUUhJUlFsY0Ffam13?oc=5)
+
+---
 
 ### [Parents told to check children's handwashing after south Wales hepatitis A outbreak - Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
 

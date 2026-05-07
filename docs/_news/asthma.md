@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。5 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>5 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,23 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [Su plasma e aspirina l’ex direttore Aifa nega ancora la realtà - La Verità](https://news.google.com/rss/articles/CBMib0FVX3lxTE5obnVMMlpYeVg5ZGFtR0VmQnc4NF9YT0h2VjVuMDZXX2ZFWFZjQVBLZERwNUtlUHVWampaQjVvZ295YnQyY3JETktIRXFpUzNNVzVrUlZKSnB2WEFGbU9HWVd4TEYtSm1FeGxsLTA5SQ?oc=5)
-
-2026-05-06
-
-來源：[La Verità](https://news.google.com/rss/articles/CBMib0FVX3lxTE5obnVMMlpYeVg5ZGFtR0VmQnc4NF9YT0h2VjVuMDZXX2ZFWFZjQVBLZERwNUtlUHVWampaQjVvZ295YnQyY3JETktIRXFpUzNNVzVrUlZKSnB2WEFGbU9HWVd4TEYtSm1FeGxsLTA5SQ?oc=5)
-
----
-
-### [Cuando la alergia de la primavera no se queda en la nariz y su impacto llega hasta los oídos y la garganta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
-
-2026-05-06
-
-來源：[Atresmedia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Los neumólogos aconsejan un abordaje continuo del asma: "Tratar solo los síntomas aumenta el riesgo de crisis graves" - Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（14 則）
 
-### [Hantavirus: Air ambulance lands in Amsterdam airport](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXpoakVhQmZTMmtCdVF0SkdGMmVDdXlQc1ZVaEJOTzVuemtyMTYtd3JxSGlaRDVXUk1YbXd5YzhsVFpMTVNnVjkxSi1vSEp2REJvSF9CcHFic2ZnMDNIN2FIaEVIZWlUZk5UUENyMXAtWXNoNXNlUl9jRml6THF1bGVjWFlmLUxuTmJjX1AxSWM?oc=5)
+### [Abnehmspirale](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
 
-2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXpoakVhQmZTMmtCdVF0SkdGMmVDdXlQc1ZVaEJOTzVuemtyMTYtd3JxSGlaRDVXUk1YbXd5YzhsVFpMTVNnVjkxSi1vSEp2REJvSF9CcHFic2ZnMDNIN2FIaEVIZWlUZk5UUENyMXAtWXNoNXNlUl9jRml6THF1bGVjWFlmLUxuTmJjX1AxSWM?oc=5)
+來源：[FAZ](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
+
+---
+
+### [MRT zeigt besser als BMI, wann Körperfett gefährlich wird - Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+---
+
+### [Screening auf Hepatitis B: Welche Laborwerte Sie bestimmen sollten](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRXZzczOXgzRUJnWW1rUXFRaXlWREFjOXUzOXlyS2hyQW5xSlJMMnpxMmF6ZWdpMERIekZZbWlUd3pwRkpHWHkxd1BmMUo2WmgtTERaOWg1aGd3cklBUi1PdTRiWThQa3lJZkdSNzVid04zTFAyZmw1TXFxWUl4UkJ4ZndLMjUyQzctRkwzdFpteWswNjhEa3gyUUhJUlFsY0Ffam13?oc=5)
+
+2026-05-07 <span class="news-indication-tag">hepatitis</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRXZzczOXgzRUJnWW1rUXFRaXlWREFjOXUzOXlyS2hyQW5xSlJMMnpxMmF6ZWdpMERIekZZbWlUd3pwRkpHWHkxd1BmMUo2WmgtTERaOWg1aGd3cklBUi1PdTRiWThQa3lJZkdSNzVid04zTFAyZmw1TXFxWUl4UkJ4ZndLMjUyQzctRkwzdFpteWswNjhEa3gyUUhJUlFsY0Ffam13?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/glecaprevir/
 2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[DKMS](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
+
+---
+
+### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
+
+2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
 
 ---
 
@@ -110,6 +134,14 @@ permalink: /news/glecaprevir/
 
 ---
 
+### [Forscher reaktivieren mutierten „Wächter des Genoms“ – neuer Ansatz könnte Millionen Krebspatienten helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSlZ1dUhOOUhxUzN2LS1mYjRzdzZkQXJZR3g1OUN1UFppd3A4elV1eFdEVXdua2FvUWNMWHRrRFNjTjJNeGlZMVRVdmFJOGtIc3p1M0ljajk2TDhfUE1tZDc2NFdEb0R6SVFOMEl3ZGk1NTQ2TVhtNU1KSlZEX3ZnekZJdVg1VTVSQ3NabmNGMU9VVDJNaWR5WGdiQWl0WnRiN1Frc1JsNlNEb0o4S05WRlh5aURSOTBJOGRwUjY5M28tZkZyc2t1RkhQanFScnJESk5hUzFLbTUyWG8?oc=5)
+
+2026-05-06 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSlZ1dUhOOUhxUzN2LS1mYjRzdzZkQXJZR3g1OUN1UFppd3A4elV1eFdEVXdua2FvUWNMWHRrRFNjTjJNeGlZMVRVdmFJOGtIc3p1M0ljajk2TDhfUE1tZDc2NFdEb0R6SVFOMEl3ZGk1NTQ2TVhtNU1KSlZEX3ZnekZJdVg1VTVSQ3NabmNGMU9VVDJNaWR5WGdiQWl0WnRiN1Frc1JsNlNEb0o4S05WRlh5aURSOTBJOGRwUjY5M28tZkZyc2t1RkhQanFScnJESk5hUzFLbTUyWG8?oc=5)
+
+---
+
 ### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
 
 2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -126,11 +158,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Eight tiny daily habits to lower your heart attack risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlczc0ZvTGV3RFhNVzFtb0d3b2t6ZVQ4aktOWEtZekxIVmZUaER0bDl5Nm1UQ0J4MlFjejBfdVlrM1pRUWJmQno0a1hsZENPaFBCNk8yU29vZ2xjUDkyME9IM3hnYzRkVVQ1SFdhS0tKVmZydFNTbjdyeDZiSThadEJOdTFfWU5ZMWZWbXRfWHpmdmd0OEkzMG5vZUp5ZWdYR1VjXw?oc=5)
+### [La farmacia hospitalaria se actualiza ante los nuevos retos terapéuticos en neurología - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
 
-2026-05-05 <span class="news-indication-tag">MS</span>
+2026-05-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlczc0ZvTGV3RFhNVzFtb0d3b2t6ZVQ4aktOWEtZekxIVmZUaER0bDl5Nm1UQ0J4MlFjejBfdVlrM1pRUWJmQno0a1hsZENPaFBCNk8yU29vZ2xjUDkyME9IM3hnYzRkVVQ1SFdhS0tKVmZydFNTbjdyeDZiSThadEJOdTFfWU5ZMWZWbXRfWHpmdmd0OEkzMG5vZUp5ZWdYR1VjXw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
 
 ---
 

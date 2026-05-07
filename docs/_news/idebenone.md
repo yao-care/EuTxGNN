@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="Idebenone 有什麼相關新聞？">
-<strong>Idebenone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idebenone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/idebenone/
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Las farmacias catalanas impulsan una campaña para detectar la hipertensión mal controlada - Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
+### [MRT zeigt besser als BMI, wann Körperfett gefährlich wird - Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+---
+
+### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
+
+2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
+
+---
+
+### [Las farmacias catalanas impulsan la campaña 'Mànigues Amunt' para detectar la hipertensión controlada - El Periódico](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnh2aldlbzZHemlhTzVybmRhdjl4eTVXX2NYX3g3NW43Q3BraG1kOWhQSklqYnhCckhQQkpCNkRfdHpBTFNfWEMtNTdOSEwzc01ZWHpMdGh4NUlEcV9Yd2ZrTzRjU3UwTFRCODE0OTdodUo4T0dBSWhUem8xNDR5U0VPNGJubUh5bWRZNUVOUUtxWTBYWWNObzdBWFIzaTZhYW9JeFZSZWxORFBFN0hiQzk3aDN4UEnSAbcBQVVfeXFMT09JcjhzWTdGaVNRSWdZa1VmRU90MTJta2F3dGlHM0hfZEhzUVRoczNhcUlqOFA1eHhLQk5Bb3g3OHVwbGhselplLXlyY0t1N3JFOS1VSzl6X1RDQzd1MG42OVRKSFNyN183UWZtYmNFUTVkZC1rOVZrYzdyd0xVeGVCUXQ1ZE5XSGY5UVM1UEJZbURmRFI5dDlfUDQySl9FUWtZSUtMRkZmXzAzTlV0NDViUjZ6RTA4?oc=5)
 
 2026-05-05 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWmZuN01Ibmx3cmctVWRyem9aQlEtaW4xa2FUZHI4MzRqeGJOY0NBTnViYVMzcGE5ZHVjQnRHOWhXaktpZzEwbHBsNXBPajdhNEt6N0JOWDNfTE16c1hOa05mZFJaSWFNSnZtMzZYbEpKRTh2SW1ud3RJWnJkSkhTX0lRUWxTMUhRanhwNHNHdEZJRUVyNFROWGhSbzVRS0d0TGJUbXozVkxwSDQyenJ5cnNPNVlUbWF3NVJQeXY1RWlxOTNZcklFR2JfOU5OT3VtWjZYVGhHUXUyQnBCUHo5RWxR0gHiAUFVX3lxTFBuTm9oTE1WU2ZfbUxkaExlT1dwTGN2M09PVkE0NFVwU1d0MGxRUXdKLXA2RUtNbTJCeVVrTW52YzI3R0tic0FiQXdsYlhyZUh3VHlGd1pXRlJsQkRKX1poTmhXWEdXNzM0bnlWWWd5dHJkeG5WQzJJWlZsNDVuMy05Z0tVSVBUTm9NT0J2SnRydE9mOUVfN1dYdDFEZWxvMGlBV1FDUHg5VzY3Nl9DNm1GWnAwcTd1eVpVSXhveVlvck4zWFRWOVFMQmV5VW9SSUVvaGxVN2Q2VFFsWXVNblc3RGc?oc=5)
+來源：[El Periódico](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnh2aldlbzZHemlhTzVybmRhdjl4eTVXX2NYX3g3NW43Q3BraG1kOWhQSklqYnhCckhQQkpCNkRfdHpBTFNfWEMtNTdOSEwzc01ZWHpMdGh4NUlEcV9Yd2ZrTzRjU3UwTFRCODE0OTdodUo4T0dBSWhUem8xNDR5U0VPNGJubUh5bWRZNUVOUUtxWTBYWWNObzdBWFIzaTZhYW9JeFZSZWxORFBFN0hiQzk3aDN4UEnSAbcBQVVfeXFMT09JcjhzWTdGaVNRSWdZa1VmRU90MTJta2F3dGlHM0hfZEhzUVRoczNhcUlqOFA1eHhLQk5Bb3g3OHVwbGhselplLXlyY0t1N3JFOS1VSzl6X1RDQzd1MG42OVRKSFNyN183UWZtYmNFUTVkZC1rOVZrYzdyd0xVeGVCUXQ1ZE5XSGY5UVM1UEJZbURmRFI5dDlfUDQySl9FUWtZSUtMRkZmXzAzTlV0NDViUjZ6RTA4?oc=5)
 
 ---
 

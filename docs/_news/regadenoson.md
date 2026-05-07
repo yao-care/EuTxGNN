@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Su plasma e aspirina l’ex direttore Aifa nega ancora la realtà - La Verità](https://news.google.com/rss/articles/CBMib0FVX3lxTE5obnVMMlpYeVg5ZGFtR0VmQnc4NF9YT0h2VjVuMDZXX2ZFWFZjQVBLZERwNUtlUHVWampaQjVvZ295YnQyY3JETktIRXFpUzNNVzVrUlZKSnB2WEFGbU9HWVd4TEYtSm1FeGxsLTA5SQ?oc=5)
+### [Mal di testa, cosa c’è da sapere. L’esperto: alimenti sconsigliati, stile di vita e farmaci per combattere l’emicrania - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
-2026-05-06 <span class="news-indication-tag">asma</span>
+2026-05-07 <span class="news-indication-tag">emicrania</span>
 
-來源：[La Verità](https://news.google.com/rss/articles/CBMib0FVX3lxTE5obnVMMlpYeVg5ZGFtR0VmQnc4NF9YT0h2VjVuMDZXX2ZFWFZjQVBLZERwNUtlUHVWampaQjVvZ295YnQyY3JETktIRXFpUzNNVzVrUlZKSnB2WEFGbU9HWVd4TEYtSm1FeGxsLTA5SQ?oc=5)
-
----
-
-### [Cuando la alergia de la primavera no se queda en la nariz y su impacto llega hasta los oídos y la garganta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Atresmedia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
+來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
 ---
 
@@ -80,7 +72,7 @@ permalink: /news/regadenoson/
 
 ### [Asthma patients urged to 'call GP' as NICE issues salbutamol blue inhaler warning - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
 
-2026-05-06 <span class="news-indication-tag">asthma</span>
+2026-05-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
 
@@ -91,14 +83,6 @@ permalink: /news/regadenoson/
 2026-05-05 <span class="news-indication-tag">asma</span>
 
 來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMERSXzNLOHRDZkhVeVBCUlk0Y3dLRXRLbFdyZFZUUmdpRTI2Y21QSEpBZ0tkRzlrS3VtWDBmOFdnby1hTF84U3lpVmhEaHZyb002VW9QVWw3Zw?oc=5)
-
----
-
-### [Heuschnupfen erhöht offenbar Migränerisiko](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">Migräne</span>
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
 
 ---
 

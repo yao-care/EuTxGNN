@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Abnehmspirale](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[FAZ](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
+
+---
+
+### [Mal di testa, cosa c’è da sapere. L’esperto: alimenti sconsigliati, stile di vita e farmaci per combattere l’emicrania - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
+
+2026-05-07 <span class="news-indication-tag">emicrania</span>
+
+來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
+
+---
+
+### [MRT zeigt besser als BMI, wann Körperfett gefährlich wird - Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+---
 
 ### [Adipositas-Therapie bei Senioren: Chirurgie schlägt Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
 
 2026-05-06 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
-
----
-
-### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
-
-2026-05-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Heuschnupfen erhöht offenbar Migränerisiko](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
+### [Neue Studie: Kälte, Ernährung und Kreativität gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjRQNjA2OWdHMVRYTDFWeUtubDdOakZobnE2LWpiVWtSOTVTMHdBNXJRVm93eGpVS3FSMmlVZEh2THB3S0d6UWJTcVQ1a3lYWWhWNjBxUDlzRExvQXV4M01mMm5YWVA5MXpqaGpTVmFHZ1lKYkJsVDE5U1NSellmcHRJeXU1WUJpMjBhdGw5ZkpJSW5GLTRLeEs0b2M5Z0Z0Mjdzbjk1My1EQURFVENLanZn?oc=5)
 
-2026-05-05 <span class="news-indication-tag">Migräne</span>
+2026-05-05 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Kurier](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjRQNjA2OWdHMVRYTDFWeUtubDdOakZobnE2LWpiVWtSOTVTMHdBNXJRVm93eGpVS3FSMmlVZEh2THB3S0d6UWJTcVQ1a3lYWWhWNjBxUDlzRExvQXV4M01mMm5YWVA5MXpqaGpTVmFHZ1lKYkJsVDE5U1NSellmcHRJeXU1WUJpMjBhdGw5ZkpJSW5GLTRLeEs0b2M5Z0Z0Mjdzbjk1My1EQURFVENLanZn?oc=5)
 
 ---
 

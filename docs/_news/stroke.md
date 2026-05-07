@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# AVC（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
+<strong>AVC（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -43,17 +43,17 @@ permalink: /news/stroke/
 
 ### [Lacunar strokes caused by widening of arteries in brain, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
 
-2026-05-06
+2026-05-07
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
 
 ---
 
-### [Fundación MAPFRE elige cuatro proyectos finalistas en sus Premios a la Innovación Social 2026](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
+### [« J’ai survécu à un AVC grâce à ce nouveau produit miracle »](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHViWmNGNFJ2Qmlnc3QzZ09PUzJza0liMlFkM2IzUllJV1pEWkZ4bWNvel9zemgxT1ZkUVVocXJvVWZibEEwVmlqYjdCUFV3TEJaY1ZiMUdSWENHTWhWMC1kNTg3bm9lbTJmZWFrU0g2ZW9FSnlKVHBmTjRyZktzclFuY1pkMVRxYWpxZjdsSGliZml0RHpfRC1Ha1FITGUzbWY3OTFGZjRaOTRkbHIyRFlKVXg5WjFrYXFVUGhEdmYyOEliOHpVYUlqWGdrUQ?oc=5)
 
 2026-05-06
 
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHViWmNGNFJ2Qmlnc3QzZ09PUzJza0liMlFkM2IzUllJV1pEWkZ4bWNvel9zemgxT1ZkUVVocXJvVWZibEEwVmlqYjdCUFV3TEJaY1ZiMUdSWENHTWhWMC1kNTg3bm9lbTJmZWFrU0g2ZW9FSnlKVHBmTjRyZktzclFuY1pkMVRxYWpxZjdsSGliZml0RHpfRC1Ha1FITGUzbWY3OTFGZjRaOTRkbHIyRFlKVXg5WjFrYXFVUGhEdmYyOEliOHpVYUlqWGdrUQ?oc=5)
 
 ---
 

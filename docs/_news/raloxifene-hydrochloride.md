@@ -56,17 +56,17 @@ permalink: /news/raloxifene-hydrochloride/
 
 ### [Lacunar strokes caused by widening of arteries in brain, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
 
-2026-05-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
 
 ---
 
-### [Fundación MAPFRE elige cuatro proyectos finalistas en sus Premios a la Innovación Social 2026](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
+### [« J’ai survécu à un AVC grâce à ce nouveau produit miracle »](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHViWmNGNFJ2Qmlnc3QzZ09PUzJza0liMlFkM2IzUllJV1pEWkZ4bWNvel9zemgxT1ZkUVVocXJvVWZibEEwVmlqYjdCUFV3TEJaY1ZiMUdSWENHTWhWMC1kNTg3bm9lbTJmZWFrU0g2ZW9FSnlKVHBmTjRyZktzclFuY1pkMVRxYWpxZjdsSGliZml0RHpfRC1Ha1FITGUzbWY3OTFGZjRaOTRkbHIyRFlKVXg5WjFrYXFVUGhEdmYyOEliOHpVYUlqWGdrUQ?oc=5)
 
-2026-05-06 <span class="news-indication-tag">ictus</span>
+2026-05-06 <span class="news-indication-tag">AVC</span>
 
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHViWmNGNFJ2Qmlnc3QzZ09PUzJza0liMlFkM2IzUllJV1pEWkZ4bWNvel9zemgxT1ZkUVVocXJvVWZibEEwVmlqYjdCUFV3TEJaY1ZiMUdSWENHTWhWMC1kNTg3bm9lbTJmZWFrU0g2ZW9FSnlKVHBmTjRyZktzclFuY1pkMVRxYWpxZjdsSGliZml0RHpfRC1Ha1FITGUzbWY3OTFGZjRaOTRkbHIyRFlKVXg5WjFrYXFVUGhEdmYyOEliOHpVYUlqWGdrUQ?oc=5)
 
 ---
 

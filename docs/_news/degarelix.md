@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="Degarelix 有什麼相關新聞？">
-<strong>Degarelix</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Degarelix</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,69 @@ permalink: /news/degarelix/
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（28 則）
 
-### [Hantavirus: Air ambulance lands in Amsterdam airport](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXpoakVhQmZTMmtCdVF0SkdGMmVDdXlQc1ZVaEJOTzVuemtyMTYtd3JxSGlaRDVXUk1YbXd5YzhsVFpMTVNnVjkxSi1vSEp2REJvSF9CcHFic2ZnMDNIN2FIaEVIZWlUZk5UUENyMXAtWXNoNXNlUl9jRml6THF1bGVjWFlmLUxuTmJjX1AxSWM?oc=5)
+### [Größte Studie zur Genetik von Blutproteinen deckt neue Krankheitsmechanismen und Behandlungsmöglichkeiten auf - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EbndlSzNMc0lCTjMtZ3ZrQWRxZHNYbUw1cUtKU1FMbFBzTjdZT0V1bmRBVE9iXzhNWEgzVGJ4UGlPMHNpUEEyZWRoTQ?oc=5)
 
-2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-indication-tag">AF</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXpoakVhQmZTMmtCdVF0SkdGMmVDdXlQc1ZVaEJOTzVuemtyMTYtd3JxSGlaRDVXUk1YbXd5YzhsVFpMTVNnVjkxSi1vSEp2REJvSF9CcHFic2ZnMDNIN2FIaEVIZWlUZk5UUENyMXAtWXNoNXNlUl9jRml6THF1bGVjWFlmLUxuTmJjX1AxSWM?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EbndlSzNMc0lCTjMtZ3ZrQWRxZHNYbUw1cUtKU1FMbFBzTjdZT0V1bmRBVE9iXzhNWEgzVGJ4UGlPMHNpUEEyZWRoTQ?oc=5)
+
+---
+
+### [Menschliche DNA produziert mehr als 1700 unbekannte Moleküle](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVJWc3BGSE9EY3JlRHhjVi1BcVAzZlo3M1NVRkFRYmo1SDNtN1JQOUxMN2JyRFhRQ2pHc3VwelVjOWxoaFRHYktVY2xMYWswckhQNmNValh0c2tFeEpwazUxbTFyMGUzQ3UtVTB4Q2t1WkUzVWQzQnFtMkp0bTNYcS1ReVFrWGFBMTNySFJMc1lBSzN3V1NHRVA2eVVYOXIyem9ld1BhZjhIQzZ2Q0E?oc=5)
+
+2026-05-07 <span class="news-indication-tag">AF</span>
+
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVJWc3BGSE9EY3JlRHhjVi1BcVAzZlo3M1NVRkFRYmo1SDNtN1JQOUxMN2JyRFhRQ2pHc3VwelVjOWxoaFRHYktVY2xMYWswckhQNmNValh0c2tFeEpwazUxbTFyMGUzQ3UtVTB4Q2t1WkUzVWQzQnFtMkp0bTNYcS1ReVFrWGFBMTNySFJMc1lBSzN3V1NHRVA2eVVYOXIyem9ld1BhZjhIQzZ2Q0E?oc=5)
+
+---
+
+### [Treiber von Entzündung nach leichter Kopfverletzung - Universität Bonn](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR080YlVBOEZTcTN2NWdXMm1LMnJyVUcxZDNCOERueDR1MVNYM0pNc1c4by1aTHdnSzNXSjNzSXJybTc1VFRsRU1abml6ZFBfWE1kVWpqeUZnOHZ5QlZ3elEzSkc1eWtLc1htemVzYWMyTkxCNGY3Ql9HSXRZMV81djVVXzBaTU94VDA3VWZn?oc=5)
+
+2026-05-07 <span class="news-indication-tag">AF</span>
+
+來源：[Universität Bonn](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR080YlVBOEZTcTN2NWdXMm1LMnJyVUcxZDNCOERueDR1MVNYM0pNc1c4by1aTHdnSzNXSjNzSXJybTc1VFRsRU1abml6ZFBfWE1kVWpqeUZnOHZ5QlZ3elEzSkc1eWtLc1htemVzYWMyTkxCNGY3Ql9HSXRZMV81djVVXzBaTU94VDA3VWZn?oc=5)
+
+---
+
+### [Sixteen fall ill with severe diarrhoea & vomiting bug after visiting Scots farm - The Scottish Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmR6Vks4TXFxdUZ6dHcxY1NNNGhmNTM0OHpwbEJDR3ljV0RkQkZwVnA5QWR1YXVkRnNxYlI0UHJkcjdTWkdnQVl6cUlHc1lsdWJmdXRreGduRzJjekg3WjRxVC1SMjZHSkh5Y1g1cjBBdThkNE9JUjZXSjJsbkpQblFoN1ljTnU5bmZIU2pyMy1jNHpF?oc=5)
+
+2026-05-07 <span class="news-indication-tag">AF</span>
+
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmR6Vks4TXFxdUZ6dHcxY1NNNGhmNTM0OHpwbEJDR3ljV0RkQkZwVnA5QWR1YXVkRnNxYlI0UHJkcjdTWkdnQVl6cUlHc1lsdWJmdXRreGduRzJjekg3WjRxVC1SMjZHSkh5Y1g1cjBBdThkNE9JUjZXSjJsbkpQblFoN1ljTnU5bmZIU2pyMy1jNHpF?oc=5)
+
+---
+
+### [Así afecta la alergia primaveral a oído y garganta - Diario Sanitario](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xaXFtd3p6RnBiM2JZOXY3YUhlQlIyNnRSV3hsUGd6QnV2Z1R5aTJ2V3R4amtkbjVQajVtdzB0LU1zSTdzMDVibDBjTHdRcV9pb0xjOTY0WGlqaDA?oc=5)
+
+2026-05-07 <span class="news-indication-tag">AF</span>
+
+來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xaXFtd3p6RnBiM2JZOXY3YUhlQlIyNnRSV3hsUGd6QnV2Z1R5aTJ2V3R4amtkbjVQajVtdzB0LU1zSTdzMDVibDBjTHdRcV9pb0xjOTY0WGlqaDA?oc=5)
+
+---
+
+### [Lungenfunktionstest in der Schwangerschaft: Wie sicher ist die Spirometrie?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV1Q4c2hESlFvMUU1ZHdUdGNxdU9uajh3a0ZPWWk2cUVvY1VHRXZKRU9mTmZTcTNNdndjeW9fRmVQaVk1QVFObFozdzZUdkJ5NWJZVGxEV296LXNfZEpwWEhLeV9mUFlHTXZEUEhMa2Q0V2plOFFJak1xcktXSW5tYnJ4OW81MmRFTmdael80TVZwN2VDLTVwckR5RklYandNQkpobE1hV2hwaW5IVmdXZFJ5WkhtU2cyWGlEaHJaUWQ4OTB5ZXQ1amlVbGExblR2UVE?oc=5)
+
+2026-05-07 <span class="news-indication-tag">AF</span>
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV1Q4c2hESlFvMUU1ZHdUdGNxdU9uajh3a0ZPWWk2cUVvY1VHRXZKRU9mTmZTcTNNdndjeW9fRmVQaVk1QVFObFozdzZUdkJ5NWJZVGxEV296LXNfZEpwWEhLeV9mUFlHTXZEUEhMa2Q0V2plOFFJak1xcktXSW5tYnJ4OW81MmRFTmdael80TVZwN2VDLTVwckR5RklYandNQkpobE1hV2hwaW5IVmdXZFJ5WkhtU2cyWGlEaHJaUWQ4OTB5ZXQ1amlVbGExblR2UVE?oc=5)
+
+---
+
+### [Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTB6ZHRua2VzMlJEOU5pTWRxQmRyNHh4Qjc1M0ZGaEpidnByWVM2ZnVvc3gwT0ZjNlRjV0ZsZlNjUzJueldqTE4tYjJFZlBuVFdBR0V3TURaeEt3M1hpTEl6MDM5QllBbGxxVFBtcjVXSERPTEdZRFJZNUNfSHdpQlpUdkdUdFZUa2hmUDBRbXV2ZVFqSTF5TTBGOWZBYldyTDJjSTV3T0JSdw?oc=5)
+
+2026-05-07 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTB6ZHRua2VzMlJEOU5pTWRxQmRyNHh4Qjc1M0ZGaEpidnByWVM2ZnVvc3gwT0ZjNlRjV0ZsZlNjUzJueldqTE4tYjJFZlBuVFdBR0V3TURaeEt3M1hpTEl6MDM5QllBbGxxVFBtcjVXSERPTEdZRFJZNUNfSHdpQlpUdkdUdFZUa2hmUDBRbXV2ZVFqSTF5TTBGOWZBYldyTDJjSTV3T0JSdw?oc=5)
+
+---
+
+### [Lacunar strokes caused by widening of arteries in brain, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
+
+2026-05-07 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
 
 ---
 
@@ -70,19 +126,11 @@ permalink: /news/degarelix/
 
 ---
 
-### [Sixteen people ill after visiting petting farm in Edinburgh](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0VUIzaEk3dmw3MEJLS1BCOUlGQnhhMlFScmJzaHNLeVZndjNYQWFtZWdxNDJaQk5vdE5ZeVZlNHctWG1qNmJYQjRxS0daTUtvX0g1OUdTNk1mWVRZ?oc=5)
+### [Fibrillazione atriale, all'Asst di Crema una cura innovativa con la forza dei campi magnetici](https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0JIQ0h6V1N0ejJjcVhYRWtXQUplZXZqdU10WUVEX2NvY1lJdm5uX2hoZEFTZGptVzN4aERPNGZDMllaSmZwQ3V4MXVCWUNLcmRuM1gwbjdpSC14MG4tRjBhT01Wd2hQWjcyWnBSeFVQd3hiVnByTjMteWJ1dWRJU3BrTTh6cXBDZTN0c1oxMzYxNzRWc1IyMjdWRjhQemJ2ckxaeFJDYXllTTIxSndLbDNGN3dvd2h0TktZWHFwSQ?oc=5)
 
-2026-05-06 <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">AFib</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0VUIzaEk3dmw3MEJLS1BCOUlGQnhhMlFScmJzaHNLeVZndjNYQWFtZWdxNDJaQk5vdE5ZeVZlNHctWG1qNmJYQjRxS0daTUtvX0g1OUdTNk1mWVRZ?oc=5)
-
----
-
-### [Lacunar strokes caused by widening of arteries in brain, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
-
-2026-05-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
+來源：[Cremaonline](https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0JIQ0h6V1N0ejJjcVhYRWtXQUplZXZqdU10WUVEX2NvY1lJdm5uX2hoZEFTZGptVzN4aERPNGZDMllaSmZwQ3V4MXVCWUNLcmRuM1gwbjdpSC14MG4tRjBhT01Wd2hQWjcyWnBSeFVQd3hiVnByTjMteWJ1dWRJU3BrTTh6cXBDZTN0c1oxMzYxNzRWc1IyMjdWRjhQemJ2ckxaeFJDYXllTTIxSndLbDNGN3dvd2h0TktZWHFwSQ?oc=5)
 
 ---
 
@@ -110,14 +158,6 @@ permalink: /news/degarelix/
 
 ---
 
-### [Cuando la alergia de la primavera no se queda en la nariz y su impacto llega hasta los oídos y la garganta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Atresmedia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
-
----
-
 ### [El aire que respiras te hace engordar y perder músculo, según un estudio](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnBKRjBJdHN3YUZzVS1HdVJKcTM3UGVyeGI1TUcwZjB6Q0hMazhtQkVkWkV5cVRsS0lKRU4xekZ6MnItWGdkWTBlUklrdXA3cmRfTWpCQUMwWkRiYVpCeGs5ejBacFhNajJVNFVVa0hCcDhiMUZEbVppbklLRmotT1JmM1EyajI1Uk95Q2VmeHVWaUlMZ0hDY29nRE5YRm55ZFJESGE4OEZHSm9yeHE4YTJ1OTVrdUFmYnUxbDMwQ1F3b3hUMmI1QU84bDhDSzdCLUVrLURvUdIB3AFBVV95cUxQSlpCSi1lNFNRMVFzbHJ0eUtGUk04VjhCb0gxc0dxdFNhYWdCMkFqZDFZcHRndzltQXpseVJwVm11OTZXWlo5SndSWFF3dC1zOFlMWWZMU3YxTEhQdjRBb2pxOGNnNVBaUHV4U2FrMDJpM3RjMDFaWnd6ajN3X2lvWDd4bXVrOVVHTDJvZjR2T0tldWpaTXBKX0N3am1nZWk5THNzZzV0RlUxWF9DeVkzQUlkd2dwZmtHTWp1X04yeXpxNVVmekZkVkhaYmk5Tmd0UHBfS0RDM0J6ODg5?oc=5)
 
 2026-05-06 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -134,11 +174,11 @@ permalink: /news/degarelix/
 
 ---
 
-### [Jóvenes con cáncer: TikTok como apoyo emocional y social - Revista Perfiles](https://news.google.com/rss/articles/CBMieEFVX3lxTE9PWW5tZGlBemFPcENiYmlKTEhVakRkdDJYOUZ1UW1aLUhCRDdRRVlKSlFNTlZjNUpKTVJ3Q3BRY0t6dG1OczhMR2JOOFBLdkNtR3RwYjBSV1pQQW9Md2NPSzE5N2hHLWZyemIycHc0MG9SSDBlc2w0Rg?oc=5)
+### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
 
-2026-05-06 <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Revista Perfiles](https://news.google.com/rss/articles/CBMieEFVX3lxTE9PWW5tZGlBemFPcENiYmlKTEhVakRkdDJYOUZ1UW1aLUhCRDdRRVlKSlFNTlZjNUpKTVJ3Q3BRY0t6dG1OczhMR2JOOFBLdkNtR3RwYjBSV1pQQW9Md2NPSzE5N2hHLWZyemIycHc0MG9SSDBlc2w0Rg?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
 
 ---
 
@@ -150,11 +190,11 @@ permalink: /news/degarelix/
 
 ---
 
-### [Cuore e tecnologia, in Cardiologia l'ablazione diventa più sicura - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2tmYnQwLW9POTNaUFAtVmI1M2FTUV9aaDU5c3Z6WEhGV0c5Z1UwZU9nYm0wSkdGbUxZZnBDOFpwTFNZT0VQQm5sNWtQbW11cmRoSEFBNm5sUldfdFNRUExldDdlZ0pDelg3UXROQXp3YU1QQndJUWNlekk1V2pOdWJWbXdEU2FZMy1ILUFIZ3R6NXZpazhLVUZtZHYwNlpOX3BCMWdVMFhpMi02eUJhUkZIWUhESDZHdFE?oc=5)
+### [Asthma patients urged to 'call GP' as NICE issues salbutamol blue inhaler warning - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
 
-2026-05-06 <span class="news-indication-tag">AFib</span>
+2026-05-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2tmYnQwLW9POTNaUFAtVmI1M2FTUV9aaDU5c3Z6WEhGV0c5Z1UwZU9nYm0wSkdGbUxZZnBDOFpwTFNZT0VQQm5sNWtQbW11cmRoSEFBNm5sUldfdFNRUExldDdlZ0pDelg3UXROQXp3YU1QQndJUWNlekk1V2pOdWJWbXdEU2FZMy1ILUFIZ3R6NXZpazhLVUZtZHYwNlpOX3BCMWdVMFhpMi02eUJhUkZIWUhESDZHdFE?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
 
 ---
 
@@ -198,6 +238,14 @@ permalink: /news/degarelix/
 
 ---
 
+### [Fernando Simón: "Hace 50 años hantavirus no era un problema, nadie iba a zonas donde circulaba" - La Rioja](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU85dURyNEMtX2YtYXZ0NkJFcDlpVDJESVZBTGd6M3RwODFMUHhpc1dYMlNrbVFRQ2hIcXB4Y2ZTWVlDYkJaRVF2d1F5ZC02MTdwcS1YZTY2OVYxVGNza0JVTzMweHdBUVV3SlBmYU54b2NSbEVrdGJOX29EVmlEbFhKblhHWXQxbk51MExzMFlhNEVrOWVOLVhQaTlOd3BUM0l0aE1HWQ?oc=5)
+
+2026-05-05 <span class="news-indication-tag">AF</span>
+
+來源：[La Rioja](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU85dURyNEMtX2YtYXZ0NkJFcDlpVDJESVZBTGd6M3RwODFMUHhpc1dYMlNrbVFRQ2hIcXB4Y2ZTWVlDYkJaRVF2d1F5ZC02MTdwcS1YZTY2OVYxVGNza0JVTzMweHdBUVV3SlBmYU54b2NSbEVrdGJOX29EVmlEbFhKblhHWXQxbk51MExzMFlhNEVrOWVOLVhQaTlOd3BUM0l0aE1HWQ?oc=5)
+
+---
+
 ### [Lisa Mayr erhält Mannagetta-Förderpreis der Österreichischen Akademie der Wissenschaften - MedUni Wien](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVBuV0s2MUxndXlqcWhnNHJXX2pzaTgxQ2lEQVhfMFp4enktanlmU21RY2x3YUF0YlRfcFhmU1A5MzRDV1oxUnphSXkwTkYyMEZKdDhFRFpqTjNKcmNCUHVZMTdNeDFUMVVvLUtGOElPLTEwN3pmOGpXdXRvODlqNHVkZFlIOEJvdXB0TFFyWG1sY25vanlRa2tMVk81UjdpMlJVSnFybTNpNW1zMnJybUNYRlVCNWlfRVVhMjVJQXJ3Uzh6bllydi12dTlTMHh5MTRleWxieGJwN2d4VjZUWGtIZzVOOWRSQ0VONnh5VmxiX2Fpa0FZ?oc=5)
 
 2026-05-05 <span class="news-indication-tag">AF</span>
@@ -222,19 +270,11 @@ permalink: /news/degarelix/
 
 ---
 
-### [Fracturas, dependencia y pérdida de calidad de vida: radiografía de la osteoporosis, una "epidemia silenciosa" - Gaceta Médica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3h0Y290cXF4ajZ1OE1WbVlvbGtHT2p5UkVOUVF0WFRFMENQeXByXzhmMVJxcTlaSTJ3TFo4LVJ5SVZTU0EzTmFYbjRGN1VlOHNKWXJOLTJ1QmptNVpOQU9rYWdDUkVDcU1oNEpMRGpmWUk5cjd1WncxcWRESHlyWHJaTE1MRnp4NjdxUnYwSVhXSS1MUWdaU3oyUXBqQTQwaGw5LVlJamhPTTNYbEtCN2ZKNDRlUmwwalY3U0RXR1ZVblNnU1d2Y01tVEZzanRyYWtncElLNG5hWHc?oc=5)
+### [Type 2 diabetes: Blood sugar levels could rise 'too high' if you eat two common fruits - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTkxXT0RaOVMzUVhlVVRTS0x5TklUSVk0M2luMjcwR2FsSTRCRFMzd19JQ3BhaWU4SkNwbFlQa0xsLWo3c2hmUnpqVGNLdVBTNFQ5MlA4X3VDbXNweklVdU92V3lXQ0JoSFZLLXFld1lPVzhZaEo5OVlEcENqQdIBgwFBVV95cUxQWUdWb0liX1hkV3p2ZlBtOUhMaGVKYkdpcFpUTUZjS3E4S2VobHhFTTJUUTVXRkdTbEZfYmJoVVlGTkRkbzhnT05PSlB5TV9JS2l4MTlTaXVBZnlQR2p2ODA3dWVuLW9fem1kNTk2NE5Wa0ZLNUkwTVZISkxHRWpKYW93TQ?oc=5)
 
-2026-05-05 <span class="news-indication-tag">AF</span>
+2026-05-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3h0Y290cXF4ajZ1OE1WbVlvbGtHT2p5UkVOUVF0WFRFMENQeXByXzhmMVJxcTlaSTJ3TFo4LVJ5SVZTU0EzTmFYbjRGN1VlOHNKWXJOLTJ1QmptNVpOQU9rYWdDUkVDcU1oNEpMRGpmWUk5cjd1WncxcWRESHlyWHJaTE1MRnp4NjdxUnYwSVhXSS1MUWdaU3oyUXBqQTQwaGw5LVlJamhPTTNYbEtCN2ZKNDRlUmwwalY3U0RXR1ZVblNnU1d2Y01tVEZzanRyYWtncElLNG5hWHc?oc=5)
-
----
-
-### [« Des poumons qui vont bien avec l’envie de mourir, ça n’a pas de sens » : le Kaftrio, médicament « miracle » contre la mucoviscidose, entraîne des troubles du comportement chez des enfants - Le Monde.fr](https://news.google.com/rss/articles/CBMinwJBVV95cUxNTl9kTVNRUllNd2hqOTRGNUttRkdsMW5OazZ0ZkkwLUd0RTg3bTlDakdFcUg0ajlkTXNZOXpETndQVENtUFZaQXJ0QkxUZU9LSHB5aEZuTUNTVEgzalhGZU1ZdHJDNVNCd0dmWU04bW1pSzRrMnZPMmZPOWpwcWd6OGFLV2t5dVlnd3o1dlVkdEE2VjhRTHFMNDlocUlNdU96Y3BCZnIzb0RNTjFnRWl3UkNYT2Zmc2l3X0lrc01XTnNFYjZya3dMMVptenFPakg1aGJqOEdkNF9nTG1WUndZNG9QSWdqXzNHbnY2YkJJb0FCa1hwS0FlektjLWdxOFgwR0l1MWFlc0VxN3hMRWRXUGZua1phR1UwT0dpMWNhYw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">AF</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMinwJBVV95cUxNTl9kTVNRUllNd2hqOTRGNUttRkdsMW5OazZ0ZkkwLUd0RTg3bTlDakdFcUg0ajlkTXNZOXpETndQVENtUFZaQXJ0QkxUZU9LSHB5aEZuTUNTVEgzalhGZU1ZdHJDNVNCd0dmWU04bW1pSzRrMnZPMmZPOWpwcWd6OGFLV2t5dVlnd3o1dlVkdEE2VjhRTHFMNDlocUlNdU96Y3BCZnIzb0RNTjFnRWl3UkNYT2Zmc2l3X0lrc01XTnNFYjZya3dMMVptenFPakg1aGJqOEdkNF9nTG1WUndZNG9QSWdqXzNHbnY2YkJJb0FCa1hwS0FlektjLWdxOFgwR0l1MWFlc0VxN3hMRWRXUGZua1phR1UwT0dpMWNhYw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTkxXT0RaOVMzUVhlVVRTS0x5TklUSVk0M2luMjcwR2FsSTRCRFMzd19JQ3BhaWU4SkNwbFlQa0xsLWo3c2hmUnpqVGNLdVBTNFQ5MlA4X3VDbXNweklVdU92V3lXQ0JoSFZLLXFld1lPVzhZaEo5OVlEcENqQdIBgwFBVV95cUxQWUdWb0liX1hkV3p2ZlBtOUhMaGVKYkdpcFpUTUZjS3E4S2VobHhFTTJUUTVXRkdTbEZfYmJoVVlGTkRkbzhnT05PSlB5TV9JS2l4MTlTaXVBZnlQR2p2ODA3dWVuLW9fem1kNTk2NE5Wa0ZLNUkwTVZISkxHRWpKYW93TQ?oc=5)
 
 ---
 

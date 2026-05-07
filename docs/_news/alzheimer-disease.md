@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。6 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>6 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Your Driving Style Could Predict Risk Of Dementia. Here Are The Early Signs - HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
 
 2026-05-06
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
+
+---
+
+### [Huevos contra el alzhéimer: investigadores confirman cuántos habría que tomar para reducir el riesgo de sufrir demencia - Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
+
+2026-05-06
+
+來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
 
 ---
 

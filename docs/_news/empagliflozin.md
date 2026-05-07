@@ -54,11 +54,27 @@ permalink: /news/empagliflozin/
 
 ## 相關新聞（10 則）
 
-### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
+### [Abnehmspirale](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
 
-2026-05-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
+來源：[FAZ](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
+
+---
+
+### [Wie sich ME/CFS und Diabetes gegenseitig beeinflussen können - Biermann Medizin](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXRaMHVMdWEtZkp0SEtDXzhKODY4Z3QxMFkxN1JLS3JqV2VXSEtISWpES3RkR1dsa2drZG9mbWptZFFVTGh6dGV0MlFzbWNnN2pVbmI3UG5CdGZzWnlfaERtZmNJWGRlSEF2MDZLUFd2eGsxTllNR29YUzdNZ2FBZ29jLUJKQ1FweWJBcG02TGxfcmtf?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXRaMHVMdWEtZkp0SEtDXzhKODY4Z3QxMFkxN1JLS3JqV2VXSEtISWpES3RkR1dsa2drZG9mbWptZFFVTGh6dGV0MlFzbWNnN2pVbmI3UG5CdGZzWnlfaERtZmNJWGRlSEF2MDZLUFd2eGsxTllNR29YUzdNZ2FBZ29jLUJKQ1FweWJBcG02TGxfcmtf?oc=5)
+
+---
+
+### [MRT zeigt besser als BMI, wann Körperfett gefährlich wird - Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
 
 ---
 
@@ -70,19 +86,19 @@ permalink: /news/empagliflozin/
 
 ---
 
-### [Defekte in Spliceosom-Genen können Diabetes bei Säuglingen auslösen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
-
-2026-05-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
-
----
-
 ### [Diabete: come si cura oggi in Italia? Le principali complicanze (e i danni del fumo) - Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPcUVlamJNTzVSaURzTmxsRGhfckFzelVoQ2F0WTVzbTdGWGxQMmxHbFB4ejJOZmJuZTBCcG5ibUxVSDRBVjNZUmJIR083TlJHNGNiaHRjZ1pXVlBsWDRMM2VleXVQQjNyaTY2UjU4el82VTVwalphRmcyMndNVkMyejZYVTUzVXgxYkVxUlVGX2psS2xkVTl0UkNpWGFLb2J5VXZJcUwyVVlLd3RzeHh0OFZ3UmRLYkNQNnZNUUMwZnNEY2dBZ2M3VVE2V3ZuYWRMOTZ5NWpzQmZxVVUyVlZURDJ2ejh1dnJPY1BCa0oxSkxwTTVneThTd09QRFViWjd3ZTM5RlhR0gGLAkFVX3lxTFBRUHlodC1yUy1Fd3AyWGtrWno0am82LWI5YVl3X2ZMNXZxRnZJUUFtN3FST0lQQ2tsb2daODVDVzhaOGF4SjA3a2NTdTJjdmlubXM0cEZJRmpXWDZfZHdVajFuRG9reUJPaGlXQ1A1MjN6U3kwdld6NjlxYzkzb2E0S3h4WldSY2U0ZkpFODUwaUwyNDNnZzNIVW1CYjBRdEE3YVNoclhwWUdLbHAxb1R0TzN0QXlHRHRSZE9aMkVZYkRoMl9ocGlJWFZmZHFrdU04T1M5eFB3S2RSX09JMm5pZmdFUm9ESnlldXlDWFpKVmd1UDdhemN0Yng4UkhCQjZ2c2NhRjZ3S2dmbw?oc=5)
 
 2026-05-06 <span class="news-indication-tag">diabete</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPcUVlamJNTzVSaURzTmxsRGhfckFzelVoQ2F0WTVzbTdGWGxQMmxHbFB4ejJOZmJuZTBCcG5ibUxVSDRBVjNZUmJIR083TlJHNGNiaHRjZ1pXVlBsWDRMM2VleXVQQjNyaTY2UjU4el82VTVwalphRmcyMndNVkMyejZYVTUzVXgxYkVxUlVGX2psS2xkVTl0UkNpWGFLb2J5VXZJcUwyVVlLd3RzeHh0OFZ3UmRLYkNQNnZNUUMwZnNEY2dBZ2M3VVE2V3ZuYWRMOTZ5NWpzQmZxVVUyVlZURDJ2ejh1dnJPY1BCa0oxSkxwTTVneThTd09QRFViWjd3ZTM5RlhR0gGLAkFVX3lxTFBRUHlodC1yUy1Fd3AyWGtrWno0am82LWI5YVl3X2ZMNXZxRnZJUUFtN3FST0lQQ2tsb2daODVDVzhaOGF4SjA3a2NTdTJjdmlubXM0cEZJRmpXWDZfZHdVajFuRG9reUJPaGlXQ1A1MjN6U3kwdld6NjlxYzkzb2E0S3h4WldSY2U0ZkpFODUwaUwyNDNnZzNIVW1CYjBRdEE3YVNoclhwWUdLbHAxb1R0TzN0QXlHRHRSZE9aMkVZYkRoMl9ocGlJWFZmZHFrdU04T1M5eFB3S2RSX09JMm5pZmdFUm9ESnlldXlDWFpKVmd1UDdhemN0Yng4UkhCQjZ2c2NhRjZ3S2dmbw?oc=5)
+
+---
+
+### [Defekte in Spliceosom-Genen können Diabetes bei Säuglingen auslösen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
 
 ---
 
@@ -94,25 +110,9 @@ permalink: /news/empagliflozin/
 
 ---
 
-### [Fünf-Punkte-Plan zur Versorgung von ME/CFS-Betroffenen mit Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
-
-2026-05-05 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
-
----
-
-### [Eating an avocado every day can add years to your life, but this fruit is also surrounded by controversy](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhkeWtBVlB6ZWsyM0QzSXRGeTlfT0RyT3NVMGY4N2tXYnJCWDNuaFU0T0JFMzVhMmlCV3FkZlJGMUhaNGs3Zld0LU1fdFY4NW8tN1VCeFJCU0ZWT0NlN1BKUFhSV0kyN2ppbWp4cVFRN1AtdVV5LUw2SS1xbWFJeG5FcHVqSmFQTUwzOUhFcmRTWEwza0ZpNHFvT1dPV0loZkpIZlhoSTVtbWRDZFVyQWVJNXM?oc=5)
-
-2026-05-05 <span class="news-indication-tag">diabetes</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhkeWtBVlB6ZWsyM0QzSXRGeTlfT0RyT3NVMGY4N2tXYnJCWDNuaFU0T0JFMzVhMmlCV3FkZlJGMUhaNGs3Zld0LU1fdFY4NW8tN1VCeFJCU0ZWT0NlN1BKUFhSV0kyN2ppbWp4cVFRN1AtdVV5LUw2SS1xbWFJeG5FcHVqSmFQTUwzOUhFcmRTWEwza0ZpNHFvT1dPV0loZkpIZlhoSTVtbWRDZFVyQWVJNXM?oc=5)
-
----
-
 ### [Type 2 diabetes: Blood sugar levels could rise 'too high' if you eat two common fruits - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTkxXT0RaOVMzUVhlVVRTS0x5TklUSVk0M2luMjcwR2FsSTRCRFMzd19JQ3BhaWU4SkNwbFlQa0xsLWo3c2hmUnpqVGNLdVBTNFQ5MlA4X3VDbXNweklVdU92V3lXQ0JoSFZLLXFld1lPVzhZaEo5OVlEcENqQdIBgwFBVV95cUxQWUdWb0liX1hkV3p2ZlBtOUhMaGVKYkdpcFpUTUZjS3E4S2VobHhFTTJUUTVXRkdTbEZfYmJoVVlGTkRkbzhnT05PSlB5TV9JS2l4MTlTaXVBZnlQR2p2ODA3dWVuLW9fem1kNTk2NE5Wa0ZLNUkwTVZISkxHRWpKYW93TQ?oc=5)
 
-2026-05-05 <span class="news-indication-tag">diabetes</span>
+2026-05-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTkxXT0RaOVMzUVhlVVRTS0x5TklUSVk0M2luMjcwR2FsSTRCRFMzd19JQ3BhaWU4SkNwbFlQa0xsLWo3c2hmUnpqVGNLdVBTNFQ5MlA4X3VDbXNweklVdU92V3lXQ0JoSFZLLXFld1lPVzhZaEo5OVlEcENqQdIBgwFBVV95cUxQWUdWb0liX1hkV3p2ZlBtOUhMaGVKYkdpcFpUTUZjS3E4S2VobHhFTTJUUTVXRkdTbEZfYmJoVVlGTkRkbzhnT05PSlB5TV9JS2l4MTlTaXVBZnlQR2p2ODA3dWVuLW9fem1kNTk2NE5Wa0ZLNUkwTVZISkxHRWpKYW93TQ?oc=5)
 

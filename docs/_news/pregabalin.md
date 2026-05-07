@@ -54,11 +54,11 @@ permalink: /news/pregabalin/
 
 ## 相關新聞（1 則）
 
-### [Heuschnupfen erhöht offenbar Migränerisiko](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
+### [Mal di testa, cosa c’è da sapere. L’esperto: alimenti sconsigliati, stile di vita e farmaci per combattere l’emicrania - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
-2026-05-05 <span class="news-indication-tag">Migräne</span>
+2026-05-07 <span class="news-indication-tag">emicrania</span>
 
-來源：[Kurier](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
+來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
 ---
 

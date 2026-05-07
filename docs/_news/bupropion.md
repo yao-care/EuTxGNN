@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Abnehmspirale](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[FAZ](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
+
+---
+
+### [MRT zeigt besser als BMI, wann Körperfett gefährlich wird - Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+
+---
 
 ### [Adipositas-Therapie bei Senioren: Chirurgie schlägt Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
 
@@ -62,19 +78,19 @@ permalink: /news/bupropion/
 
 ---
 
-### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
-
-2026-05-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
-
----
-
 ### [El aire que respiras te hace engordar y perder músculo, según un estudio](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnBKRjBJdHN3YUZzVS1HdVJKcTM3UGVyeGI1TUcwZjB6Q0hMazhtQkVkWkV5cVRsS0lKRU4xekZ6MnItWGdkWTBlUklrdXA3cmRfTWpCQUMwWkRiYVpCeGs5ejBacFhNajJVNFVVa0hCcDhiMUZEbVppbklLRmotT1JmM1EyajI1Uk95Q2VmeHVWaUlMZ0hDY29nRE5YRm55ZFJESGE4OEZHSm9yeHE4YTJ1OTVrdUFmYnUxbDMwQ1F3b3hUMmI1QU84bDhDSzdCLUVrLURvUdIB3AFBVV95cUxQSlpCSi1lNFNRMVFzbHJ0eUtGUk04VjhCb0gxc0dxdFNhYWdCMkFqZDFZcHRndzltQXpseVJwVm11OTZXWlo5SndSWFF3dC1zOFlMWWZMU3YxTEhQdjRBb2pxOGNnNVBaUHV4U2FrMDJpM3RjMDFaWnd6ajN3X2lvWDd4bXVrOVVHTDJvZjR2T0tldWpaTXBKX0N3am1nZWk5THNzZzV0RlUxWF9DeVkzQUlkd2dwZmtHTWp1X04yeXpxNVVmekZkVkhaYmk5Tmd0UHBfS0RDM0J6ODg5?oc=5)
 
 2026-05-06 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[COPE](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnBKRjBJdHN3YUZzVS1HdVJKcTM3UGVyeGI1TUcwZjB6Q0hMazhtQkVkWkV5cVRsS0lKRU4xekZ6MnItWGdkWTBlUklrdXA3cmRfTWpCQUMwWkRiYVpCeGs5ejBacFhNajJVNFVVa0hCcDhiMUZEbVppbklLRmotT1JmM1EyajI1Uk95Q2VmeHVWaUlMZ0hDY29nRE5YRm55ZFJESGE4OEZHSm9yeHE4YTJ1OTVrdUFmYnUxbDMwQ1F3b3hUMmI1QU84bDhDSzdCLUVrLURvUdIB3AFBVV95cUxQSlpCSi1lNFNRMVFzbHJ0eUtGUk04VjhCb0gxc0dxdFNhYWdCMkFqZDFZcHRndzltQXpseVJwVm11OTZXWlo5SndSWFF3dC1zOFlMWWZMU3YxTEhQdjRBb2pxOGNnNVBaUHV4U2FrMDJpM3RjMDFaWnd6ajN3X2lvWDd4bXVrOVVHTDJvZjR2T0tldWpaTXBKX0N3am1nZWk5THNzZzV0RlUxWF9DeVkzQUlkd2dwZmtHTWp1X04yeXpxNVVmekZkVkhaYmk5Tmd0UHBfS0RDM0J6ODg5?oc=5)
+
+---
+
+### [Neue Studie: Kälte, Ernährung und Kreativität gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjRQNjA2OWdHMVRYTDFWeUtubDdOakZobnE2LWpiVWtSOTVTMHdBNXJRVm93eGpVS3FSMmlVZEh2THB3S0d6UWJTcVQ1a3lYWWhWNjBxUDlzRExvQXV4M01mMm5YWVA5MXpqaGpTVmFHZ1lKYkJsVDE5U1NSellmcHRJeXU1WUJpMjBhdGw5ZkpJSW5GLTRLeEs0b2M5Z0Z0Mjdzbjk1My1EQURFVENLanZn?oc=5)
+
+2026-05-05 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjRQNjA2OWdHMVRYTDFWeUtubDdOakZobnE2LWpiVWtSOTVTMHdBNXJRVm93eGpVS3FSMmlVZEh2THB3S0d6UWJTcVQ1a3lYWWhWNjBxUDlzRExvQXV4M01mMm5YWVA5MXpqaGpTVmFHZ1lKYkJsVDE5U1NSellmcHRJeXU1WUJpMjBhdGw5ZkpJSW5GLTRLeEs0b2M5Z0Z0Mjdzbjk1My1EQURFVENLanZn?oc=5)
 
 ---
 

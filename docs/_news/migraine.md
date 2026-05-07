@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Migräne（migraine） 相關新聞"
+title: "emicrania（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "emicrania（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# Migräne（migraine） 相關新聞
+# emicrania（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
+<strong>emicrania（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -79,11 +79,11 @@ permalink: /news/migraine/
 
 ## 相關新聞（1 則）
 
-### [Heuschnupfen erhöht offenbar Migränerisiko](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
+### [Mal di testa, cosa c’è da sapere. L’esperto: alimenti sconsigliati, stile di vita e farmaci per combattere l’emicrania - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
-2026-05-05
+2026-05-07
 
-來源：[Kurier](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
+來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
 ---
 

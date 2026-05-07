@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Your Driving Style Could Predict Risk Of Dementia. Here Are The Early Signs - HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
 
 2026-05-06 <span class="news-indication-tag">dementia</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
+
+---
+
+### [Huevos contra el alzhéimer: investigadores confirman cuántos habría que tomar para reducir el riesgo de sufrir demencia - Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
+
+2026-05-06 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
 
 ---
 
