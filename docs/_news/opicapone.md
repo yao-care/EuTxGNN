@@ -54,6 +54,22 @@ permalink: /news/opicapone/
 
 ## 相關新聞（6 則）
 
+### [At-home test could spot Alzheimer's risk early](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
+
+2026-05-07 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
+
+---
+
+### [A dozen things you need to know about your eggs - The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjY2RVNhUXhCbi1FN3VTQ002VWszZ2NwNVBfU1FZNFJOamRVU3EzVWVrbmRTOW9HelQ2aTNtZF80SllZdHZvQzJzc0lJMmhrUldfNkZ3U1hEUzIwdzZxdDdiQmctbUg0enprOVVGMXBjNzJVVUpfUVJuS29RSEZwS3N6N3ZMYkdyWGlBMXJsbTM0b1NlMEFMOUpVVlBUNUxuaHYtV3NLcF9yNU9uUXp5VTd3NE91MGlNdGV6MWRaVzVwMjA3R0VvTw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjY2RVNhUXhCbi1FN3VTQ002VWszZ2NwNVBfU1FZNFJOamRVU3EzVWVrbmRTOW9HelQ2aTNtZF80SllZdHZvQzJzc0lJMmhrUldfNkZ3U1hEUzIwdzZxdDdiQmctbUg0enprOVVGMXBjNzJVVUpfUVJuS29RSEZwS3N6N3ZMYkdyWGlBMXJsbTM0b1NlMEFMOUpVVlBUNUxuaHYtV3NLcF9yNU9uUXp5VTd3NE91MGlNdGV6MWRaVzVwMjA3R0VvTw?oc=5)
+
+---
+
 ### [Your Driving Style Could Predict Risk Of Dementia. Here Are The Early Signs - HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
 
 2026-05-06 <span class="news-indication-tag">dementia</span>
@@ -62,19 +78,11 @@ permalink: /news/opicapone/
 
 ---
 
-### [Huevos contra el alzhéimer: investigadores confirman cuántos habría que tomar para reducir el riesgo de sufrir demencia - Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
+### [Un estudio asegura que si tomas huevos tienes hasta el 27% menos de posibilidades de tener alzhéimer que quienes no los consumen - Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
 
 2026-05-06 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
 來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
-
----
-
-### [Alzheimer’s risk ‘can be predicted by at-home test’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
-
-2026-05-06 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/opicapone/
 2026-05-05 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5)
-
----
-
-### [Eating eggs five times a week could cut Alzheimer’s risk - The Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmVZNUxWdFVrVmlDTXpPelFvVncxTlZnM0VxZElWR2lLMkJvU0VvRGtrOEJyV3Zab1kzQlBVOVh4emc2ZW93TzhfVldiWTRYeEViTnlwVDgyZGpBcjk5WE1HRG5KcXNMUnIybFk3VFBJZmZwQzZfclBqUE5UNU80a2VWRExrUmhwRnpMeA?oc=5)
-
-2026-05-05 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmVZNUxWdFVrVmlDTXpPelFvVncxTlZnM0VxZElWR2lLMkJvU0VvRGtrOEJyV3Zab1kzQlBVOVh4emc2ZW93TzhfVldiWTRYeEViTnlwVDgyZGpBcjk5WE1HRG5KcXNMUnIybFk3VFBJZmZwQzZfclBqUE5UNU80a2VWRExrUmhwRnpMeA?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/bictegravir/
 
 ## 相關新聞（2 則）
 
+### [Parents in Wales urged to ‘be vigilant’ about hand-washing amid hepatitis A outbreak - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+
+2026-05-07 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+
+---
+
 ### [Screening auf Hepatitis B: Welche Laborwerte Sie bestimmen sollten](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRXZzczOXgzRUJnWW1rUXFRaXlWREFjOXUzOXlyS2hyQW5xSlJMMnpxMmF6ZWdpMERIekZZbWlUd3pwRkpHWHkxd1BmMUo2WmgtTERaOWg1aGd3cklBUi1PdTRiWThQa3lJZkdSNzVid04zTFAyZmw1TXFxWUl4UkJ4ZndLMjUyQzctRkwzdFpteWswNjhEa3gyUUhJUlFsY0Ffam13?oc=5)
 
 2026-05-07 <span class="news-indication-tag">hepatitis</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRXZzczOXgzRUJnWW1rUXFRaXlWREFjOXUzOXlyS2hyQW5xSlJMMnpxMmF6ZWdpMERIekZZbWlUd3pwRkpHWHkxd1BmMUo2WmgtTERaOWg1aGd3cklBUi1PdTRiWThQa3lJZkdSNzVid04zTFAyZmw1TXFxWUl4UkJ4ZndLMjUyQzctRkwzdFpteWswNjhEa3gyUUhJUlFsY0Ffam13?oc=5)
-
----
-
-### [Parents told to check children's handwashing after south Wales hepatitis A outbreak - Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
-
-2026-05-06 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
 
 ---
 

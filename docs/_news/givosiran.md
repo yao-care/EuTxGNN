@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [MRT zeigt besser als BMI, wann Körperfett gefährlich wird - Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+### [Parents in Wales urged to ‘be vigilant’ about hand-washing amid hepatitis A outbreak - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+
+2026-05-07 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+
+---
+
+### [Regio: Universitätsklinikum Freiburg: MRT zeigt besser als BMI, wann Körperfett gefährlich wird - MRT-Analyse von Fett- und Muskelverteilung bei mehr als 66.000 Personen liefert präzisere Einschätzung der Gesundheitsrisiken](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+來源：[RegioTrends.de](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Parents told to check children's handwashing after south Wales hepatitis A outbreak - Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
-
-2026-05-06 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
-
----
-
 ### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
 
 2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
-
----
-
-### [Las farmacias catalanas impulsan la campaña 'Mànigues Amunt' para detectar la hipertensión controlada - El Periódico](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnh2aldlbzZHemlhTzVybmRhdjl4eTVXX2NYX3g3NW43Q3BraG1kOWhQSklqYnhCckhQQkpCNkRfdHpBTFNfWEMtNTdOSEwzc01ZWHpMdGh4NUlEcV9Yd2ZrTzRjU3UwTFRCODE0OTdodUo4T0dBSWhUem8xNDR5U0VPNGJubUh5bWRZNUVOUUtxWTBYWWNObzdBWFIzaTZhYW9JeFZSZWxORFBFN0hiQzk3aDN4UEnSAbcBQVVfeXFMT09JcjhzWTdGaVNRSWdZa1VmRU90MTJta2F3dGlHM0hfZEhzUVRoczNhcUlqOFA1eHhLQk5Bb3g3OHVwbGhselplLXlyY0t1N3JFOS1VSzl6X1RDQzd1MG42OVRKSFNyN183UWZtYmNFUTVkZC1rOVZrYzdyd0xVeGVCUXQ1ZE5XSGY5UVM1UEJZbURmRFI5dDlfUDQySl9FUWtZSUtMRkZmXzAzTlV0NDViUjZ6RTA4?oc=5)
-
-2026-05-05 <span class="news-indication-tag">hipertensión</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnh2aldlbzZHemlhTzVybmRhdjl4eTVXX2NYX3g3NW43Q3BraG1kOWhQSklqYnhCckhQQkpCNkRfdHpBTFNfWEMtNTdOSEwzc01ZWHpMdGh4NUlEcV9Yd2ZrTzRjU3UwTFRCODE0OTdodUo4T0dBSWhUem8xNDR5U0VPNGJubUh5bWRZNUVOUUtxWTBYWWNObzdBWFIzaTZhYW9JeFZSZWxORFBFN0hiQzk3aDN4UEnSAbcBQVVfeXFMT09JcjhzWTdGaVNRSWdZa1VmRU90MTJta2F3dGlHM0hfZEhzUVRoczNhcUlqOFA1eHhLQk5Bb3g3OHVwbGhselplLXlyY0t1N3JFOS1VSzl6X1RDQzd1MG42OVRKSFNyN183UWZtYmNFUTVkZC1rOVZrYzdyd0xVeGVCUXQ1ZE5XSGY5UVM1UEJZbURmRFI5dDlfUDQySl9FUWtZSUtMRkZmXzAzTlV0NDViUjZ6RTA4?oc=5)
 
 ---
 

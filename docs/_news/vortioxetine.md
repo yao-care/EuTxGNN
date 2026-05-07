@@ -62,19 +62,19 @@ permalink: /news/vortioxetine/
 
 ---
 
+### [Large study finds a strong link between depression and problem cannabis use - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHFMRmcxelNON3RqM1JPRjF5dHJTQ0UxYkN5Tk83Q19pSEV2dDhYNC0ycVg5dUZFZ3ZzQkVTREFXSy0zc09lMjlZOVNpRUZrclcyWEQ5TzBQNFAtaV8tTjAyZ0VhaDJFTk9INUpjTVEwSkRHMkhHc1BuTUlQSUF6VGtEX1ZBUDVT?oc=5)
+
+2026-05-06 <span class="news-indication-tag">depression</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHFMRmcxelNON3RqM1JPRjF5dHJTQ0UxYkN5Tk83Q19pSEV2dDhYNC0ycVg5dUZFZ3ZzQkVTREFXSy0zc09lMjlZOVNpRUZrclcyWEQ5TzBQNFAtaV8tTjAyZ0VhaDJFTk9INUpjTVEwSkRHMkhHc1BuTUlQSUF6VGtEX1ZBUDVT?oc=5)
+
+---
+
 ### [Dépression : une simple prise de sang pourrait la détecter avant les premiers symptômes - Les Numériques](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRzFLeUF6Q3ItN1dzTmlaNUhLamJVVlN1S0Jwc1JsRFlVcTB4N0lXUUE3UDBScjJoOVFQenJNRFFNOU5RbXg1eW9zWGNPb1FRZU5vbHo1Q2tEODFoWjg2NWM4SmEtaGVxQ2RqSEhPc256OGh2SWREUXBBUzdzbEpBVXk4aFBuZHFQd0lyZUlNY0UzMUJQV3NVZHZhanl5MldwdGdwdHlic1I2Qnp2LTZjaVdORW1KYU5jc0ZINnZuQ25YZGRpOUxZRXRpbWxlaFZxVXcxajl2UjA?oc=5)
 
 2026-05-06 <span class="news-indication-tag">dépression</span>
 
 來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRzFLeUF6Q3ItN1dzTmlaNUhLamJVVlN1S0Jwc1JsRFlVcTB4N0lXUUE3UDBScjJoOVFQenJNRFFNOU5RbXg1eW9zWGNPb1FRZU5vbHo1Q2tEODFoWjg2NWM4SmEtaGVxQ2RqSEhPc256OGh2SWREUXBBUzdzbEpBVXk4aFBuZHFQd0lyZUlNY0UzMUJQV3NVZHZhanl5MldwdGdwdHlic1I2Qnp2LTZjaVdORW1KYU5jc0ZINnZuQ25YZGRpOUxZRXRpbWxlaFZxVXcxajl2UjA?oc=5)
-
----
-
-### [Isère. Obèses, ils ont pratiqué des injections pour faire chuter leur poids : « Je n’étais plus à l’aise avec mon corps » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS21zdHE5Uy0wbzhRMDFLZzQ0Z01FTjY3dUJFZEl0Z01hbTA1RXVDYkFHX0lwVDVTSmdkbklsSWdtQVNSZDFnMzA4UHE4cEgxU2hxQlpqMEZYTHM3Ukw1bFI3bThVSnFRZFQ1UTk4cTRsVXdxQy05bXg5dXF1cm9sck9UbjJPbHZ2YThqX0I5a3cxelhTTENLajhuNld5YnRnUmc2aTRxcWVQenJDaDZFeGthcw?oc=5)
-
-2026-05-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">dépression</span>
-
-來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS21zdHE5Uy0wbzhRMDFLZzQ0Z01FTjY3dUJFZEl0Z01hbTA1RXVDYkFHX0lwVDVTSmdkbklsSWdtQVNSZDFnMzA4UHE4cEgxU2hxQlpqMEZYTHM3Ukw1bFI3bThVSnFRZFQ1UTk4cTRsVXdxQy05bXg5dXF1cm9sck9UbjJPbHZ2YThqX0I5a3cxelhTTENLajhuNld5YnRnUmc2aTRxcWVQenJDaDZFeGthcw?oc=5)
 
 ---
 

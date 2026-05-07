@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
 
-### [Abnehmspirale](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
+### [Faro della Ue sui contagi da hantavirus a bordo: 'Rischio basso per la popolazione ma monitoriamo'](https://news.google.com/rss/articles/CBMiggJBVV95cUxPUU04R255NzBUbU1LdXZ1UXdGeHlrNzhLaVBJalIxcEFVVmNoT2NZSkxKOEtpMUFGVE5lal9DNW5obEFjSmF1ZUZzcW1Lb3MyTXlYb0pnZ3pfQzJEZXh0OHhoR2gySVZyTEJNWnliNUtZOUU0Z3RReDZrUHU4SWp4Ti1xOEgxYUJvSk1fU1lRQ1l0d3lqTWdaeTU2X3dxblN2STZKRjQ2a0NHSkpJdE52QW5vWXRiOFV2cWJJb1M1NUZrZnVWcDdDd3VBbzFzd2lDVlVNcXc2aXVENVZ5dWgta0EtMEJGRWF1aE5oWm1yZ0twSE1yd3hzbHdJMHFJTWNqU2fSAYcCQVVfeXFMTVAxTWdXM2x6Q25TMS0wRTEteEJJdHVpQjVFNXM4cU82aUdMRWtQZlFUcTNBdWxFTGtQRTlhQkFHV0FkUnBrckUzaUp3QkU1bVVXV0hHaTdSeUVueDM2aUdPSFNCbEFDTktUTFRWd3RYdXdaUzJzR09iU0xncUJKLXJwZmtTbVRIN2lscW5kbFlMMHJQWmt0dHNLQjhkcWNwRzAwTnpKWmJDSlE3UmptOWlaLWdXYk94SVVfWndKdEp4eVFVWm14QVpvbi1WeTBQNGlNX1FhNmpwMVROVG1xdno5NDJGTVBXSHQ1RW9waEVvQko2SDlENHllbjItU2tNV2FTbGJzTzg?oc=5)
 
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-05-07 <span class="news-indication-tag">MS</span>
 
-來源：[FAZ](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDNlY0w4R2tQdGZEdnUtUFBqeXdkRzlIVi1hOEdYektmcFRuZm1MYVc0ZG9ESlhCRGFxR1liYzV6T3V1Yl93VTBYdmk1UHFLV0xNSTY0anV4T2g0RW1iSHhQd202RkxXcExiMkhiZGxWT2dxai1DWWR0Vzd4MDdwUEpONTZuT1BndVE?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMiggJBVV95cUxPUU04R255NzBUbU1LdXZ1UXdGeHlrNzhLaVBJalIxcEFVVmNoT2NZSkxKOEtpMUFGVE5lal9DNW5obEFjSmF1ZUZzcW1Lb3MyTXlYb0pnZ3pfQzJEZXh0OHhoR2gySVZyTEJNWnliNUtZOUU0Z3RReDZrUHU4SWp4Ti1xOEgxYUJvSk1fU1lRQ1l0d3lqTWdaeTU2X3dxblN2STZKRjQ2a0NHSkpJdE52QW5vWXRiOFV2cWJJb1M1NUZrZnVWcDdDd3VBbzFzd2lDVlVNcXc2aXVENVZ5dWgta0EtMEJGRWF1aE5oWm1yZ0twSE1yd3hzbHdJMHFJTWNqU2fSAYcCQVVfeXFMTVAxTWdXM2x6Q25TMS0wRTEteEJJdHVpQjVFNXM4cU82aUdMRWtQZlFUcTNBdWxFTGtQRTlhQkFHV0FkUnBrckUzaUp3QkU1bVVXV0hHaTdSeUVueDM2aUdPSFNCbEFDTktUTFRWd3RYdXdaUzJzR09iU0xncUJKLXJwZmtTbVRIN2lscW5kbFlMMHJQWmt0dHNLQjhkcWNwRzAwTnpKWmJDSlE3UmptOWlaLWdXYk94SVVfWndKdEp4eVFVWm14QVpvbi1WeTBQNGlNX1FhNmpwMVROVG1xdno5NDJGTVBXSHQ1RW9waEVvQko2SDlENHllbjItU2tNV2FTbGJzTzg?oc=5)
 
 ---
 
-### [MRT zeigt besser als BMI, wann Körperfett gefährlich wird - Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+
+---
+
+### [Parents in Wales urged to ‘be vigilant’ about hand-washing amid hepatitis A outbreak - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+
+2026-05-07 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+
+---
+
+### [Regio: Universitätsklinikum Freiburg: MRT zeigt besser als BMI, wann Körperfett gefährlich wird - MRT-Analyse von Fett- und Muskelverteilung bei mehr als 66.000 Personen liefert präzisere Einschätzung der Gesundheitsrisiken](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Universitätsklinikum Freiburg](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeURTSktjeGtLUEpfUDNKUlIzUFNwc0x4S2JaVWxEVVZUcDhoc0k1d0lJdWlGQlFaU3lWelRqcG9VbUJuVkYzUkFmSWdiMHFlS1V1b3loeU1acWNJUDYyUUI2RjN4Y29XdzVrWExIenJwSnlRaEV2aFhiTjQ3dDhDbmo5RVdudEItQjlMTGtGclhFQVh2TmhKOEgxQ1J5OTRMaWpIUXRpMDN0a21hOVhTQUZ0dmFFVVBMQTJKd0pJcS1oeU1xWnM1Wm95dEdmNFpRYlZYcDFNX1dDQQ?oc=5)
+來源：[RegioTrends.de](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
+
+---
+
+### [Este virus sudamericano preocupa más a la OMS que el hantavirus - La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlZkc3lZLS0yR2pnN3pOWkNjcGtEUHc1QS1rZkVHelBTSzRPMWtIWlM3NTNCczdWWW5GZzJKYk94dFlYR3Y4LUw2LUxNV3NfcV9OZ2xPYS1Ecld2X0ZxZ3J5ZXNxMTEtMHZhVzQ0MmNKbzkzVkxZTnJvbkI3VE9jSEFvZWVBUG1XVUVFQ0ctU2pmbDQ2ODU5SkVIWVNfcEZHTGRnT1ZyNzgwdWtxd3VDNE40d3Z0SmVSSElhUVNNNVNpQdIB1gFBVV95cUxNcWpzeXdESWl0bFZiVHhmNnJTTWc5M0UtV0VmS0JTdlpJMU5wOC1CSXJTTFI4bHI2bmR6bzU1MTJtRERQMkhQcEJxTDE5NnB3aVZsVzB2emNWT2JPaVVjVHExTFZ4RW4xNWNTTGZucnNURWtWQ3F2dWVxSVBOUzk0NlBXa3N1azZiMXlYNWx1d2gzX3g3WTdVbm9DSTR2WlNEc3J3V0tvaHZFSjV0LU5EOFJGZ014bEN6aFZETU5VTzlaNFZTNk9zVGE4MGxUTHdVLVBnQ2Rn?oc=5)
+
+2026-05-07 <span class="news-indication-tag">MS</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlZkc3lZLS0yR2pnN3pOWkNjcGtEUHc1QS1rZkVHelBTSzRPMWtIWlM3NTNCczdWWW5GZzJKYk94dFlYR3Y4LUw2LUxNV3NfcV9OZ2xPYS1Ecld2X0ZxZ3J5ZXNxMTEtMHZhVzQ0MmNKbzkzVkxZTnJvbkI3VE9jSEFvZWVBUG1XVUVFQ0ctU2pmbDQ2ODU5SkVIWVNfcEZHTGRnT1ZyNzgwdWtxd3VDNE40d3Z0SmVSSElhUVNNNVNpQdIB1gFBVV95cUxNcWpzeXdESWl0bFZiVHhmNnJTTWc5M0UtV0VmS0JTdlpJMU5wOC1CSXJTTFI4bHI2bmR6bzU1MTJtRERQMkhQcEJxTDE5NnB3aVZsVzB2emNWT2JPaVVjVHExTFZ4RW4xNWNTTGZucnNURWtWQ3F2dWVxSVBOUzk0NlBXa3N1azZiMXlYNWx1d2gzX3g3WTdVbm9DSTR2WlNEc3J3V0tvaHZFSjV0LU5EOFJGZ014bEN6aFZETU5VTzlaNFZTNk9zVGE4MGxUTHdVLVBnQ2Rn?oc=5)
 
 ---
 
@@ -78,19 +102,19 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Parents told to check children's handwashing after south Wales hepatitis A outbreak - Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
-
-2026-05-06 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
-
----
-
 ### [FÜR RAFIA](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
 
 2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[DKMS](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
+
+---
+
+### [Il cervello è attivo anche quando siamo incoscienti. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMigwFBVV95cUxOenhtU1lnT0xwdlhUNlFXWDhWTjJGa1hCLURpS25ZNXVPUkxHX2o1RC12TUVUNzVwdVZsaUJXeWstaTlqbHNtWXZ2dzBoSVdsUGJGR2EtQVhpTkFJbEhqOUswVm5Nd0w1TmpPWlVNd1hITXhha0xScFN5TThXNG13WjBGZw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">MS</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMigwFBVV95cUxOenhtU1lnT0xwdlhUNlFXWDhWTjJGa1hCLURpS25ZNXVPUkxHX2o1RC12TUVUNzVwdVZsaUJXeWstaTlqbHNtWXZ2dzBoSVdsUGJGR2EtQVhpTkFJbEhqOUswVm5Nd0w1TmpPWlVNd1hITXhha0xScFN5TThXNG13WjBGZw?oc=5)
 
 ---
 
@@ -134,14 +158,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Forscher reaktivieren mutierten „Wächter des Genoms“ – neuer Ansatz könnte Millionen Krebspatienten helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSlZ1dUhOOUhxUzN2LS1mYjRzdzZkQXJZR3g1OUN1UFppd3A4elV1eFdEVXdua2FvUWNMWHRrRFNjTjJNeGlZMVRVdmFJOGtIc3p1M0ljajk2TDhfUE1tZDc2NFdEb0R6SVFOMEl3ZGk1NTQ2TVhtNU1KSlZEX3ZnekZJdVg1VTVSQ3NabmNGMU9VVDJNaWR5WGdiQWl0WnRiN1Frc1JsNlNEb0o4S05WRlh5aURSOTBJOGRwUjY5M28tZkZyc2t1RkhQanFScnJESk5hUzFLbTUyWG8?oc=5)
-
-2026-05-06 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSlZ1dUhOOUhxUzN2LS1mYjRzdzZkQXJZR3g1OUN1UFppd3A4elV1eFdEVXdua2FvUWNMWHRrRFNjTjJNeGlZMVRVdmFJOGtIc3p1M0ljajk2TDhfUE1tZDc2NFdEb0R6SVFOMEl3ZGk1NTQ2TVhtNU1KSlZEX3ZnekZJdVg1VTVSQ3NabmNGMU9VVDJNaWR5WGdiQWl0WnRiN1Frc1JsNlNEb0o4S05WRlh5aURSOTBJOGRwUjY5M28tZkZyc2t1RkhQanFScnJESk5hUzFLbTUyWG8?oc=5)
-
----
-
 ### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
 
 2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -155,14 +171,6 @@ permalink: /news/ledipasvir/
 2026-05-06 <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXlNMENwdFVXZndlQXBrRlJ4aWk2bDk5MzNUSG9za09qYUNmLVhJeDJjemppUU9jUG52OEZPZV9Ha250RTlrR2hEdGkxbVBJREhQZkVfamc2YXpFTWh0dGFiWVpSd29OZExBNzYxU0ZTcVVhM0lGamNkalU0ck9WZ21teXd3cGVIeHJWQWlpa3QzNkZicGdRS3V4WkQ?oc=5)
-
----
-
-### [La farmacia hospitalaria se actualiza ante los nuevos retos terapéuticos en neurología - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
-
-2026-05-05 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElxYXZNWVkyc3pxR3lyNWx2aWxMRlRwQkdGU29zWDJmWm9oZXJTSkxVVVdWR1p5cFYzVDBsb21EbTYyU2hWdEp2VWRLSl9uUWQ1aTA2a1VxdHVZUVNkaGhBbUM5TG5XX2d5RzhnQ3BXV05hNXZwblBlTFB0d0VncnlyRmZyWXlXT1RBZEdMeXU4VmtBdERELWFEWWw1RFRKck1kc0o4YTBIMVFRRFBpbm9BX1BBYkNYazRjbDhua1N2QdIBvAFBVV95cUxOWW4xWHNiX1RJR1B4ZzZ3Z0UtdHZBYVB1RTc0UDFmMS14Mk9kVk1WOHFHYUk0ZEVpQktva0JiWXNFMVJleHBVZ1BadFZfTEM5N2ZKOC0taUlOcWIybllCbjJMSXc2NlJFZ05hUVF1S0djLWNjS1Y0VUZaZXlaNVFISkdzRHNNUXlRYnFtYzhPMUxfeUEyVWROUW5tN3FOSE1PMkFqNDF3NU8wTGZ2em9nbHdzYmx3NFZvUGotYg?oc=5)
 
 ---
 

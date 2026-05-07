@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [HM Hospitales crea su primera Unidad de Cardiopatías Congénitas en Cataluña - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
+
+---
 
 ### [Mal di testa, cosa c’è da sapere. L’esperto: alimenti sconsigliati, stile di vita e farmaci per combattere l’emicrania - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
 2026-05-07 <span class="news-indication-tag">emicrania</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
+
+---
+
+### [My brain SAGGED and leaked when I stood after 'migraines' - only caffeine helped - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Ezamt6enlfckZ4MjVtTWlqWklDeldSdXFocUxRTWlsV2xqdjNmdzJqWWdGMW5KTzU3WFRMeEI5TWFjc3pSbUNMeFNRVVI4RzVZY1U1SkU2M093eERNdzBjT3ByTnNtRHAycW9HeF94YllzMG41aTdJVW1hamQwUGpXU193bjR5UXF3UURYYnM?oc=5)
+
+2026-05-06 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Ezamt6enlfckZ4MjVtTWlqWklDeldSdXFocUxRTWlsV2xqdjNmdzJqWWdGMW5KTzU3WFRMeEI5TWFjc3pSbUNMeFNRVVI4RzVZY1U1SkU2M093eERNdzBjT3ByTnNtRHAycW9HeF94YllzMG41aTdJVW1hamQwUGpXU193bjR5UXF3UURYYnM?oc=5)
 
 ---
 

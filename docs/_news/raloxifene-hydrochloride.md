@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Lacunar strokes caused by widening of arteries in brain, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
+### [Ruhepuls als Schlüssel zur Schlaganfallprävention](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
 
-2026-05-07 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
+
+---
+
+### [La limitación de cuidados en ictus grave puede no reflejar el pronóstico real, según un estudio](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd3FMbHczbWtqRzhRUTVMSkNDY0Eyd2RXVk9ZM1d4V2JLazFIVDV5cUU5Ry15NUVwa29WVFdlbHVpSUhWaHU0LVduZTh3Sk12bF8ybHphVXBEUmczYURWUW5wOHN2WTNyM0huSzdubkR1RW42dy1saW9uVEszSkVyWnhQYm10Q0pjWjIxMzY2RlFsS3FrRHRxQkZIQV9VRzlfbHBDdkh3MlVUdkFrd3ZHQzF0TTFaR0ZNSV9ocEJleExIcDJIbElQa24xRHdKMEo3TUg3SQ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">ictus</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd3FMbHczbWtqRzhRUTVMSkNDY0Eyd2RXVk9ZM1d4V2JLazFIVDV5cUU5Ry15NUVwa29WVFdlbHVpSUhWaHU0LVduZTh3Sk12bF8ybHphVXBEUmczYURWUW5wOHN2WTNyM0huSzdubkR1RW42dy1saW9uVEszSkVyWnhQYm10Q0pjWjIxMzY2RlFsS3FrRHRxQkZIQV9VRzlfbHBDdkh3MlVUdkFrd3ZHQzF0TTFaR0ZNSV9ocEJleExIcDJIbElQa24xRHdKMEo3TUg3SQ?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/raloxifene-hydrochloride/
 2026-05-06 <span class="news-indication-tag">AVC</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHViWmNGNFJ2Qmlnc3QzZ09PUzJza0liMlFkM2IzUllJV1pEWkZ4bWNvel9zemgxT1ZkUVVocXJvVWZibEEwVmlqYjdCUFV3TEJaY1ZiMUdSWENHTWhWMC1kNTg3bm9lbTJmZWFrU0g2ZW9FSnlKVHBmTjRyZktzclFuY1pkMVRxYWpxZjdsSGliZml0RHpfRC1Ha1FITGUzbWY3OTFGZjRaOTRkbHIyRFlKVXg5WjFrYXFVUGhEdmYyOEliOHpVYUlqWGdrUQ?oc=5)
+
+---
+
+### [Experts discover potential cause for stroke affecting 35,000 people in the UK](https://news.google.com/rss/articles/CBMisgFBVV95cUxPendDTURyaE01SWx3STdvT2EzVjBrSnpyZWxrcEp1QWtrTjllZmNYZ2RPTGJXbDFhank3SU9TR1RtUGROU3k1R0tEQ1R2VzN4dU5UR0pJZDBRTVl2SkpyekVfNW9JXzYzMTc3UzRBNXYxcXdiSHZTQnJDLUJYalRYXzRkVzVjcFViMGVTZ0RtV2tWUG1YM0l0ckFmMWhZM3FVSnRyN1dqYnM0VzN4Z084RTh3?oc=5)
+
+2026-05-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[ITVX](https://news.google.com/rss/articles/CBMisgFBVV95cUxPendDTURyaE01SWx3STdvT2EzVjBrSnpyZWxrcEp1QWtrTjllZmNYZ2RPTGJXbDFhank3SU9TR1RtUGROU3k1R0tEQ1R2VzN4dU5UR0pJZDBRTVl2SkpyekVfNW9JXzYzMTc3UzRBNXYxcXdiSHZTQnJDLUJYalRYXzRkVzVjcFViMGVTZ0RtV2tWUG1YM0l0ckFmMWhZM3FVSnRyN1dqYnM0VzN4Z084RTh3?oc=5)
 
 ---
 
