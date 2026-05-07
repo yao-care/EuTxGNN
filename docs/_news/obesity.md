@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Adipositas-Therapie bei Senioren: Chirurgie schlägt Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
+
+2026-05-06
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
+
+---
 
 ### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
 

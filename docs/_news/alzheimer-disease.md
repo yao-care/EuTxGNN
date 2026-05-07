@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Your Driving Style Could Predict Risk Of Dementia. Here Are The Early Signs - HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
+
+2026-05-06
+
+來源：[HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
+
+---
 
 ### [Alzheimer’s risk ‘can be predicted by at-home test’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
 

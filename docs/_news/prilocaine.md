@@ -54,11 +54,35 @@ permalink: /news/prilocaine/
 
 ## 相關新聞（29 則）
 
-### [Hantavirus latest: Virus-hit cruise ship leaves Cape Verde for Canary Islands after patients evacuated](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycEx2WTlOZURmRWpCeGRzU3dvWEkxcU05T2h3WHJ1SWxxSllUbUc0c0d1QTJzRU5fbG5JdVVtUzBXQzQ4TVFIU1BTR1AwcmhBSnBwWmJlUQ?oc=5)
+### [Hantavirus: Air ambulance lands in Amsterdam airport](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXpoakVhQmZTMmtCdVF0SkdGMmVDdXlQc1ZVaEJOTzVuemtyMTYtd3JxSGlaRDVXUk1YbXd5YzhsVFpMTVNnVjkxSi1vSEp2REJvSF9CcHFic2ZnMDNIN2FIaEVIZWlUZk5UUENyMXAtWXNoNXNlUl9jRml6THF1bGVjWFlmLUxuTmJjX1AxSWM?oc=5)
+
+2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[DW.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXpoakVhQmZTMmtCdVF0SkdGMmVDdXlQc1ZVaEJOTzVuemtyMTYtd3JxSGlaRDVXUk1YbXd5YzhsVFpMTVNnVjkxSi1vSEp2REJvSF9CcHFic2ZnMDNIN2FIaEVIZWlUZk5UUENyMXAtWXNoNXNlUl9jRml6THF1bGVjWFlmLUxuTmJjX1AxSWM?oc=5)
+
+---
+
+### [Su plasma e aspirina l’ex direttore Aifa nega ancora la realtà - La Verità](https://news.google.com/rss/articles/CBMib0FVX3lxTE5obnVMMlpYeVg5ZGFtR0VmQnc4NF9YT0h2VjVuMDZXX2ZFWFZjQVBLZERwNUtlUHVWampaQjVvZ295YnQyY3JETktIRXFpUzNNVzVrUlZKSnB2WEFGbU9HWVd4TEYtSm1FeGxsLTA5SQ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span>
+
+來源：[La Verità](https://news.google.com/rss/articles/CBMib0FVX3lxTE5obnVMMlpYeVg5ZGFtR0VmQnc4NF9YT0h2VjVuMDZXX2ZFWFZjQVBLZERwNUtlUHVWampaQjVvZ295YnQyY3JETktIRXFpUzNNVzVrUlZKSnB2WEFGbU9HWVd4TEYtSm1FeGxsLTA5SQ?oc=5)
+
+---
+
+### [Parents told to check children's handwashing after south Wales hepatitis A outbreak - Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
+
+2026-05-06 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkRwZ3JfazUxOUc0TGRmcUxfNlhUVUtiYU9yTXhLOUpRU0lEeTZxT2R0dllHcG1mZnBZMHpoSHVWY1Fxc0VLTjI2TmdNNzZrX3NCbGMtSWdvRk1xUlA2d2I3X3V1MV9rWHBRT2ZLXzR5NTBzRE1kdHg4OHh3MWs2aWpZUmo4RWcxUU9EQWJJYVo2cElyMDRrV21ncUpsaUU0bFQyNzAtRUlqQmxWbHFGUlphZU1kTlE2d0E?oc=5)
+
+---
+
+### [Sixteen people ill after visiting petting farm in Edinburgh](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0VUIzaEk3dmw3MEJLS1BCOUlGQnhhMlFScmJzaHNLeVZndjNYQWFtZWdxNDJaQk5vdE5ZeVZlNHctWG1qNmJYQjRxS0daTUtvX0g1OUdTNk1mWVRZ?oc=5)
 
 2026-05-06 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ycEx2WTlOZURmRWpCeGRzU3dvWEkxcU05T2h3WHJ1SWxxSllUbUc0c0d1QTJzRU5fbG5JdVVtUzBXQzQ4TVFIU1BTR1AwcmhBSnBwWmJlUQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0VUIzaEk3dmw3MEJLS1BCOUlGQnhhMlFScmJzaHNLeVZndjNYQWFtZWdxNDJaQk5vdE5ZeVZlNHctWG1qNmJYQjRxS0daTUtvX0g1OUdTNk1mWVRZ?oc=5)
 
 ---
 
@@ -70,6 +94,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Biogénesis Bagó suministrará vacunas para luchar contra la fiebre aftosa en Israel - Diario Veterinario](https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWJRZXlyTG03MEdlT21zX3pDOVQ0dHIyZUFOOXE3TkNJcXRucHBOQXJlTDNLcFY2MERMUnpuVzFPWGV0bndBR0JOLWN2Y1BvUElZWHgyOU9tZENjd0pHSEg5TzdMNFc2eXZKeVNET0FzWTJMM1RMdVlJR0p4VWZJb2Q1YklGd1YtT0NJYXAtY1haQi1ORU1nR1ZxZTZIamZHQ0RqOFJiRDVVX1IxTVo4YS1Dd0JWdw?oc=5)
+
+2026-05-06 <span class="news-indication-tag">AF</span>
+
+來源：[Diario Veterinario](https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWJRZXlyTG03MEdlT21zX3pDOVQ0dHIyZUFOOXE3TkNJcXRucHBOQXJlTDNLcFY2MERMUnpuVzFPWGV0bndBR0JOLWN2Y1BvUElZWHgyOU9tZENjd0pHSEg5TzdMNFc2eXZKeVNET0FzWTJMM1RMdVlJR0p4VWZJb2Q1YklGd1YtT0NJYXAtY1haQi1ORU1nR1ZxZTZIamZHQ0RqOFJiRDVVX1IxTVo4YS1Dd0JWdw?oc=5)
+
+---
+
 ### [FÜR RAFIA](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
 
 2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -78,17 +110,17 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Barry hepatitis A cases prompt warning to parents](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sODZDandCb1hfUF9GVktrLUVPTmRDUjRoaXpJRnNoYUJXUmI0WFhUd2t4QUttTm8waHBXLWpWVjFvVkNuZnpRQjViNTBIVHVGNTdXenZzYzZSdUFa?oc=5)
+### [Daniel Paz Corral, ginecólogo, desmitifica la menopausia: “No tiene por qué verse afectada la calidad de vida”](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVjlyMEhjYUpaS3hVa2xEeHBYVk9fSV92ZFloajB4aWFJUjRuMnRoakxxaloxWWF6SWZxOWVLTFRINFU4cy12NWpQVlJiOFpxZTMwUDNiZ3NrVXIzYThuaDB2MEhRamdITDItV3ZoVGV2NF9lbmNqUDFtVWVIbExralVjeFNHeFVTSk9ZLThWQmFsOUxmSE5XUHE2Q3pFLXNLWEhtTEZFVUlMeDBvYjI4TDU0X3hlZGd3cy15V0Z6OHhENnYtQWNLS3hKYzgyYVZoOFJNSWhFeFJzbFdQazduY3UwbGprbmpf0gHuAUFVX3lxTE1zU0xZMlF6YlFXeURMcGhZNkxHTXJJZ2hETGRPdEozeE53T3k4S25ZdE5ZejUyaVZhYlBlc3lFSnBIdDN4czg1ZFdwZ0licUdTNWtpZ2dHZjB6Wmd3SjZ4ajJXTnBrblJRbTJpMkotaUpEV2FZNFYtN0RVRlRYMFRVMWhVLS04aXdNc2lpcldvZGY2T1B2cWZ0VzVRMzJzX2xaRHpZcTRFTkNSaF9lZGRYWC1paXBFNjctTG5SX3N3ejA2TzBqeGVYbzNqNV9DMVg2Y0VQdTdUX21rOWVkVlVERnpnNktPZkJUQW9LWkE?oc=5)
 
-2026-05-06 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sODZDandCb1hfUF9GVktrLUVPTmRDUjRoaXpJRnNoYUJXUmI0WFhUd2t4QUttTm8waHBXLWpWVjFvVkNuZnpRQjViNTBIVHVGNTdXenZzYzZSdUFa?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVjlyMEhjYUpaS3hVa2xEeHBYVk9fSV92ZFloajB4aWFJUjRuMnRoakxxaloxWWF6SWZxOWVLTFRINFU4cy12NWpQVlJiOFpxZTMwUDNiZ3NrVXIzYThuaDB2MEhRamdITDItV3ZoVGV2NF9lbmNqUDFtVWVIbExralVjeFNHeFVTSk9ZLThWQmFsOUxmSE5XUHE2Q3pFLXNLWEhtTEZFVUlMeDBvYjI4TDU0X3hlZGd3cy15V0Z6OHhENnYtQWNLS3hKYzgyYVZoOFJNSWhFeFJzbFdQazduY3UwbGprbmpf0gHuAUFVX3lxTE1zU0xZMlF6YlFXeURMcGhZNkxHTXJJZ2hETGRPdEozeE53T3k4S25ZdE5ZejUyaVZhYlBlc3lFSnBIdDN4czg1ZFdwZ0licUdTNWtpZ2dHZjB6Wmd3SjZ4ajJXTnBrblJRbTJpMkotaUpEV2FZNFYtN0RVRlRYMFRVMWhVLS04aXdNc2lpcldvZGY2T1B2cWZ0VzVRMzJzX2xaRHpZcTRFTkNSaF9lZGRYWC1paXBFNjctTG5SX3N3ejA2TzBqeGVYbzNqNV9DMVg2Y0VQdTdUX21rOWVkVlVERnpnNktPZkJUQW9LWkE?oc=5)
 
 ---
 
 ### [Cuando la alergia de la primavera no se queda en la nariz y su impacto llega hasta los oídos y la garganta](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
 
-2026-05-06 <span class="news-indication-tag">AF</span>
+2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Atresmedia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWFXb1lmYjdXS2dPQXY1MTVJbVRMTy1YLU5MR3dISXlaM1E2T3Jkb3F3Q1Q5emxCNk1IUWFkYWV6eU8wYmZnNUhBMjhPVlRRTklrTTV1WEIyYkJnSlgwM0RRNmQ1elJfdU9zYWpVX01fRDNEVmVrWWxQZDRlaE1iV3o3WGJsVk9kdGF2R1hvUzBQVVlhckhoUDV4cWhoVkZkVnVUS0p5V05GQnY4ZFJva0x2NXJMN0NyMHo4TUZQODJLbkctS1hLMnZIU0NrWENROFY0Q05QSndKQVRlZEM1c1Y5ZEpnWFlRTmYtOW03Yzdhdw?oc=5)
 
@@ -110,19 +142,19 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Alzheimer’s risk ‘can be predicted by at-home test’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">alzheimer disease</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDJndVBtNHBxd0tfRldsZ1BqYW9BR3FqYi1EZ2RSNVZBYVJ1a2hzR0lHMUFrMWp0aXVTT1dMSDVWTzJtTGZGM1hFLUhQYktaWnBJaUdCUG1HRWF0eWxKdEF3VHctN0FCN2JqOG5QX1NLaWZlMWlfLWlvQ3NQZngxc0Y2dzdLODBfbkp3YzJOOXlpNV9Zajc4?oc=5)
-
----
-
 ### [Jóvenes con cáncer: TikTok como apoyo emocional y social - Revista Perfiles](https://news.google.com/rss/articles/CBMieEFVX3lxTE9PWW5tZGlBemFPcENiYmlKTEhVakRkdDJYOUZ1UW1aLUhCRDdRRVlKSlFNTlZjNUpKTVJ3Q3BRY0t6dG1OczhMR2JOOFBLdkNtR3RwYjBSV1pQQW9Md2NPSzE5N2hHLWZyemIycHc0MG9SSDBlc2w0Rg?oc=5)
 
 2026-05-06 <span class="news-indication-tag">AF</span>
 
 來源：[Revista Perfiles](https://news.google.com/rss/articles/CBMieEFVX3lxTE9PWW5tZGlBemFPcENiYmlKTEhVakRkdDJYOUZ1UW1aLUhCRDdRRVlKSlFNTlZjNUpKTVJ3Q3BRY0t6dG1OczhMR2JOOFBLdkNtR3RwYjBSV1pQQW9Md2NPSzE5N2hHLWZyemIycHc0MG9SSDBlc2w0Rg?oc=5)
+
+---
+
+### [Los neumólogos aconsejan un abordaje continuo del asma: "Tratar solo los síntomas aumenta el riesgo de crisis graves" - Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asma</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
 
 ---
 
@@ -134,6 +166,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Asthma patients urged to 'call GP' as NICE issues salbutamol blue inhaler warning - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
+
+2026-05-06 <span class="news-indication-tag">asthma</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
+
+---
+
 ### [Cuore e tecnologia, in Cardiologia l'ablazione diventa più sicura - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2tmYnQwLW9POTNaUFAtVmI1M2FTUV9aaDU5c3Z6WEhGV0c5Z1UwZU9nYm0wSkdGbUxZZnBDOFpwTFNZT0VQQm5sNWtQbW11cmRoSEFBNm5sUldfdFNRUExldDdlZ0pDelg3UXROQXp3YU1QQndJUWNlekk1V2pOdWJWbXdEU2FZMy1ILUFIZ3R6NXZpazhLVUZtZHYwNlpOX3BCMWdVMFhpMi02eUJhUkZIWUhESDZHdFE?oc=5)
 
 2026-05-06 <span class="news-indication-tag">AFib</span>
@@ -142,27 +182,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [El asma grave y sus comorbilidades: “Es una enfermedad que rara vez aparece aislada”](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjdTcU5JdzN6RG5meW1yVDZVel8tZWF1Tk1zTFcyUWVCOFV1ZnZmb04xMURBQTd4ZDZqT0pjbDhTeGZ2dkRlLWowUlQ5XzZwREEwQTl4aTczbk1teXUyRkRTWnZHNEtNNDVXVkxmMWswRWxhcFJRZUJBTm5mU3FuaDlQajMxeVRmb19nWDZ2aFNQVzZTZEJxMTBqUHBuWWNBcElSZTJpX3Z4WGtBUUtya01pNmhOWE4wUzcxVw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjdTcU5JdzN6RG5meW1yVDZVel8tZWF1Tk1zTFcyUWVCOFV1ZnZmb04xMURBQTd4ZDZqT0pjbDhTeGZ2dkRlLWowUlQ5XzZwREEwQTl4aTczbk1teXUyRkRTWnZHNEtNNDVXVkxmMWswRWxhcFJRZUJBTm5mU3FuaDlQajMxeVRmb19nWDZ2aFNQVzZTZEJxMTBqUHBuWWNBcElSZTJpX3Z4WGtBUUtya01pNmhOWE4wUzcxVw?oc=5)
-
----
-
 ### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
 
 2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
----
-
-### [Alert to people with asthma using a blue inhaler - 'call your GP' - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asthma</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBTSDVfZjRWYzEycDdUZUZZUTdrbmowQXhUeVJ3eWJkTi10MC1DWlFBR1puSnlWX2IzWkpXMGFsVEtSM1EtWGxzdXBUWU5yY0hFcnJZN3V6TnQ4QUNhS25PYlk1X0R0ZEk5T3FJVEp6Z29OY3ZSd25zcWpQMUcxMUlVSdIBiAFBVV95cUxPQmtHMzFZeVg1REhyWjBjSjlidUNpMG55bW4wY0EtanliczFsbWNYbWRMSkhpMVJkQnFIcDFVb0RfQ3UwdFpINUhzN0ZSSXh1dTZES002aXBVZlRlLTdMVEhyVUNoamNrRENMWmJfWml6MW9DbV9WdkpIcm52aGJfTUlLdUJjT2ZK?oc=5)
 
 ---
 
@@ -206,14 +230,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Una enfermera de crucero, ante el hantavirus: así es el protocolo a bordo - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd254dDEtdXBZZ3RWVTlrVVRWdDkyS2ZXT2tBQWdiQS1LbVNqWXp6OFR1NTBXM2Z0bWtNajNVUUM1SXlvU3NpMGVwUXVSVUlwX24zbUZjSGU0UHpQLWoxM2hZZlpaTTVJaHp4bnlfMU1HSy1mSzlMRUU0YnpDQUtod3BFa1lJTEN0M19hZnhFYm5faHNQYVl0Tk5nMGZNMTQ4REp3OUUyc0VlY2cyb1BUYUNFZDFWaWttcHdMSnlWWEN4NnVFeFkzMdIByAFBVV95cUxNa1hHUDhvOG9MN3pWS1MtWHk0OVo3dS1CZGRYd2ROdFZLa2d4T29WdktZaXpUTHJ3ZHFYam0yUkhJY2lQSmN0UUZQbGMwY0x1QTAyN25qMHMxYW1wU3FWa3JCeFdCSmI2akF1YlpHYVVndTA0LS1XQk1VODVOYnY0RWRXWFJ5V2dUUkhHUHlWVkdoTjRoZ0Z6VGtMUEtyRHczMTZPWFFMdFR4V1E4S202OHVxVEVGVGgwSVMwMzcwS0M0cDB0QzlqdA?oc=5)
-
-2026-05-05 <span class="news-indication-tag">AF</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd254dDEtdXBZZ3RWVTlrVVRWdDkyS2ZXT2tBQWdiQS1LbVNqWXp6OFR1NTBXM2Z0bWtNajNVUUM1SXlvU3NpMGVwUXVSVUlwX24zbUZjSGU0UHpQLWoxM2hZZlpaTTVJaHp4bnlfMU1HSy1mSzlMRUU0YnpDQUtod3BFa1lJTEN0M19hZnhFYm5faHNQYVl0Tk5nMGZNMTQ4REp3OUUyc0VlY2cyb1BUYUNFZDFWaWttcHdMSnlWWEN4NnVFeFkzMdIByAFBVV95cUxNa1hHUDhvOG9MN3pWS1MtWHk0OVo3dS1CZGRYd2ROdFZLa2d4T29WdktZaXpUTHJ3ZHFYam0yUkhJY2lQSmN0UUZQbGMwY0x1QTAyN25qMHMxYW1wU3FWa3JCeFdCSmI2akF1YlpHYVVndTA0LS1XQk1VODVOYnY0RWRXWFJ5V2dUUkhHUHlWVkdoTjRoZ0Z6VGtMUEtyRHczMTZPWFFMdFR4V1E4S202OHVxVEVGVGgwSVMwMzcwS0M0cDB0QzlqdA?oc=5)
-
----
-
 ### [“Reducir exacerbaciones es uno de los principales objetivos terapéuticos en EPOC; lograrlo indica que estamos impactando en su historia natural”](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXVsN1pGQ2dPSDE4WGN6OS1hb2RoZFJlaGNyVkNteVE4RlN4SGFzVWJvNER2ZWVqdFBaWHlJcl9TaTl1Z184aFgtS2xqRXRKOHZpNjBYWE9DMGJnTGc2QmR6VDNfdmlxRGgzX0tycGxVakVVTjhPZDRsdGVZdkxTNjR3YzZvZk9hNjlwUUgyTkJkVXhPTXpBM1BXcnRpSDVjZGc3bDcwSF9yUzQweG5TRDhTTWhmbUN0aWNiZzdkc2tVZXVWNVE4eXljbzhjQmY5UmYxdWVqdDBEMXZmakNxejU3T0pHODdUdWNhQjVaVnlKZThqVU5KcF9pdWJLYm8?oc=5)
 
 2026-05-05 <span class="news-indication-tag">EPOC</span>
@@ -254,35 +270,19 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Fracturas, dependencia y pérdida de calidad de vida: radiografía de la osteoporosis, una "epidemia silenciosa" - Gaceta Médica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3h0Y290cXF4ajZ1OE1WbVlvbGtHT2p5UkVOUVF0WFRFMENQeXByXzhmMVJxcTlaSTJ3TFo4LVJ5SVZTU0EzTmFYbjRGN1VlOHNKWXJOLTJ1QmptNVpOQU9rYWdDUkVDcU1oNEpMRGpmWUk5cjd1WncxcWRESHlyWHJaTE1MRnp4NjdxUnYwSVhXSS1MUWdaU3oyUXBqQTQwaGw5LVlJamhPTTNYbEtCN2ZKNDRlUmwwalY3U0RXR1ZVblNnU1d2Y01tVEZzanRyYWtncElLNG5hWHc?oc=5)
+
+2026-05-05 <span class="news-indication-tag">AF</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS3h0Y290cXF4ajZ1OE1WbVlvbGtHT2p5UkVOUVF0WFRFMENQeXByXzhmMVJxcTlaSTJ3TFo4LVJ5SVZTU0EzTmFYbjRGN1VlOHNKWXJOLTJ1QmptNVpOQU9rYWdDUkVDcU1oNEpMRGpmWUk5cjd1WncxcWRESHlyWHJaTE1MRnp4NjdxUnYwSVhXSS1MUWdaU3oyUXBqQTQwaGw5LVlJamhPTTNYbEtCN2ZKNDRlUmwwalY3U0RXR1ZVblNnU1d2Y01tVEZzanRyYWtncElLNG5hWHc?oc=5)
+
+---
+
 ### [« Des poumons qui vont bien avec l’envie de mourir, ça n’a pas de sens » : le Kaftrio, médicament « miracle » contre la mucoviscidose, entraîne des troubles du comportement chez des enfants - Le Monde.fr](https://news.google.com/rss/articles/CBMinwJBVV95cUxNTl9kTVNRUllNd2hqOTRGNUttRkdsMW5OazZ0ZkkwLUd0RTg3bTlDakdFcUg0ajlkTXNZOXpETndQVENtUFZaQXJ0QkxUZU9LSHB5aEZuTUNTVEgzalhGZU1ZdHJDNVNCd0dmWU04bW1pSzRrMnZPMmZPOWpwcWd6OGFLV2t5dVlnd3o1dlVkdEE2VjhRTHFMNDlocUlNdU96Y3BCZnIzb0RNTjFnRWl3UkNYT2Zmc2l3X0lrc01XTnNFYjZya3dMMVptenFPakg1aGJqOEdkNF9nTG1WUndZNG9QSWdqXzNHbnY2YkJJb0FCa1hwS0FlektjLWdxOFgwR0l1MWFlc0VxN3hMRWRXUGZua1phR1UwT0dpMWNhYw?oc=5)
 
 2026-05-05 <span class="news-indication-tag">AF</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMinwJBVV95cUxNTl9kTVNRUllNd2hqOTRGNUttRkdsMW5OazZ0ZkkwLUd0RTg3bTlDakdFcUg0ajlkTXNZOXpETndQVENtUFZaQXJ0QkxUZU9LSHB5aEZuTUNTVEgzalhGZU1ZdHJDNVNCd0dmWU04bW1pSzRrMnZPMmZPOWpwcWd6OGFLV2t5dVlnd3o1dlVkdEE2VjhRTHFMNDlocUlNdU96Y3BCZnIzb0RNTjFnRWl3UkNYT2Zmc2l3X0lrc01XTnNFYjZya3dMMVptenFPakg1aGJqOEdkNF9nTG1WUndZNG9QSWdqXzNHbnY2YkJJb0FCa1hwS0FlektjLWdxOFgwR0l1MWFlc0VxN3hMRWRXUGZua1phR1UwT0dpMWNhYw?oc=5)
-
----
-
-### [Human heart regrows muscle cells after attack, world-first study confirms - Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Interesting Engineering](https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbGdobWJfRl9kVThoV09WMndMbkVUOVhTbFZ2eXhsX19sSHptMjE4VXp3YmRWR2x4Z0xpWFNTV2U2SmhpUENUX2dpZ3NrUW16MUFscjVYd05BSEtDS2FVQU9MWmRxZHJSd29wNUljZ1ZOYmFXeWJMRlJlZ0lZdw?oc=5)
-
----
-
-### [Starlinks NRW - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMie0FVX3lxTFBidDdQMkhWTHBYTDh1OEhmQTltTkpBWkR3V3VpNDJnYXYzbEg0T2JUTkhPVlhlOEtOejk5bG52aVc3ZDY5ZkVMeHJlQWQ3bmxzSzFRam4tMUxWTWJHdHN6ZjZZeE9IVExqYnRCaEkyYkgxRlNOcmVVTnpCcw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMie0FVX3lxTFBidDdQMkhWTHBYTDh1OEhmQTltTkpBWkR3V3VpNDJnYXYzbEg0T2JUTkhPVlhlOEtOejk5bG52aVc3ZDY5ZkVMeHJlQWQ3bmxzSzFRam4tMUxWTWJHdHN6ZjZZeE9IVExqYnRCaEkyYkgxRlNOcmVVTnpCcw?oc=5)
-
----
-
-### [Wie Pflanzen nach dem Licht wachsen - Österreichische Akademie der Wissenschaften](https://news.google.com/rss/articles/CBMicEFVX3lxTE8tYWJfUHpSeGRVeFprMkxBRDFqVllpandreWxGUk44TmRGczhoU25fR3Rsb2RubHNlcnBjeVhacGcwYXp3M0NmcTN0cDZGOUVsNnRROFpBQlh4LTJhN2hia2x2SDFVZENycUdxXzJvdHA?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[Österreichische Akademie der Wissenschaften](https://news.google.com/rss/articles/CBMicEFVX3lxTE8tYWJfUHpSeGRVeFprMkxBRDFqVllpandreWxGUk44TmRGczhoU25fR3Rsb2RubHNlcnBjeVhacGcwYXp3M0NmcTN0cDZGOUVsNnRROFpBQlh4LTJhN2hia2x2SDFVZENycUdxXzJvdHA?oc=5)
 
 ---
 

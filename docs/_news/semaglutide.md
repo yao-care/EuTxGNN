@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Semaglutid-Stopp: Das Jo-Jo pendelt sich ein](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWU1EQ05ibllLVmhSU2xSTGtLY3Y2dzc4bEh0ZERVZ2tjaWVpcHBUbTM5a2dWRVJzSkViYmpsNm5pZGdUS3Uwanc1SUVBRHRBT05JVENLeUZGX2FWamNEUXZNbjdOYmxOWXBoZXBIV0JGbVdSMndoRDVNTElOUTYzV1UtS3AxcmJSQ3MwNWxzOXg1bTdvaTk5OQ?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/semaglutide/
 2026-05-06 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJpMWJGN3VVYlkxZmNSVk1KU0VDV01zY2QxS05hV2Q2VDdmd1dCWlpqU1EtZFcwam1UZmNNZlh5SEUwZWtxdFN2TUFLM09ZRWNyR1Y0RXh2RTItN2VNTEVYanNmQ3NnV3dPcG5GaHF0NUFNZDRiQ2duQU9IcThtZFFvTEVqR1p4TlJNNTFlV05FWEw2bEZGY2kxd1N3cHRZanhjQS1hWTNaMFhMZk9VV0hkVU0?oc=5)
-
----
-
-### [Weight-Loss Drugs Like Ozempic May Come With an Unexpected Cost](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXZjU2h5Um9NNHFXdFBpdnBnR0hMNG9FNXpFVVFfS0JQX0xBVzZEcXlSMnlOOHZTYkozSTR1OTdRbVlHcVZpVU5KQnVUdWlwdEtLTnN4SmQxNk1vNXVYaWNobDFoanFPZVdpNTNVTU9RODZJbUhyMGJXcWxLdVdUbGEzTXJqdTJ0djFOSmRUaElCbDg?oc=5)
-
-2026-05-06 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXZjU2h5Um9NNHFXdFBpdnBnR0hMNG9FNXpFVVFfS0JQX0xBVzZEcXlSMnlOOHZTYkozSTR1OTdRbVlHcVZpVU5KQnVUdWlwdEtLTnN4SmQxNk1vNXVYaWNobDFoanFPZVdpNTNVTU9RODZJbUhyMGJXcWxLdVdUbGEzTXJqdTJ0djFOSmRUaElCbDg?oc=5)
 
 ---
 
