@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="Abatacept 有什麼相關新聞？">
-<strong>Abatacept</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abatacept</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/abatacept/
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Un consenso de expertos europeos pide ya tratar los alimentos ultraprocesados como un factor de riesgo cardiovascular](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNG1BcTFCZnZKaHQ2UUc0cWU0bDh5U0VURkRjY0dKQlNZMmZ5dmhBcHBsc1NVbnhUODBITzAxLUU5MWJBLTcwTHhidzd5TnlQSC1XSjJxMmdPU2NPT281QVhFa2taV3hkV1pXVE5BTThkaFFTbEVFTDZSN0pNU25DRkhraHhwODhLUzVyYURoLXdjOWRDaG5KZHRMLTgzZ2Fwd1FDNmZRVVR5T3VrUkxoQUJUTE5FbWV5UkVRRmxzVXZvQlo3YU5VYlRPRlV3bEgwQUY4REZLRVNzc1VSbkdVdDVyQkw5U1hmQk9RSUFsTTR2QQ?oc=5)
-
-2026-05-07 <span class="news-drug-tag">Abatacept</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNG1BcTFCZnZKaHQ2UUc0cWU0bDh5U0VURkRjY0dKQlNZMmZ5dmhBcHBsc1NVbnhUODBITzAxLUU5MWJBLTcwTHhidzd5TnlQSC1XSjJxMmdPU2NPT281QVhFa2taV3hkV1pXVE5BTThkaFFTbEVFTDZSN0pNU25DRkhraHhwODhLUzVyYURoLXdjOWRDaG5KZHRMLTgzZ2Fwd1FDNmZRVVR5T3VrUkxoQUJUTE5FbWV5UkVRRmxzVXZvQlo3YU5VYlRPRlV3bEgwQUY4REZLRVNzc1VSbkdVdDVyQkw5U1hmQk9RSUFsTTR2QQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### ['I'm a GP and lost six stone on Mounjaro - but I wasn't expecting it to cure my endometriosis' - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
 
 2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
-
----
-
-### [Isère. Obèses, ils ont pratiqué des injections pour faire chuter leur poids : « Je n’étais plus à l’aise avec mon corps » - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS21zdHE5Uy0wbzhRMDFLZzQ0Z01FTjY3dUJFZEl0Z01hbTA1RXVDYkFHX0lwVDVTSmdkbklsSWdtQVNSZDFnMzA4UHE4cEgxU2hxQlpqMEZYTHM3Ukw1bFI3bThVSnFRZFQ1UTk4cTRsVXdxQy05bXg5dXF1cm9sck9UbjJPbHZ2YThqX0I5a3cxelhTTENLajhuNld5YnRnUmc2aTRxcWVQenJDaDZFeGthcw?oc=5)
-
-2026-05-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS21zdHE5Uy0wbzhRMDFLZzQ0Z01FTjY3dUJFZEl0Z01hbTA1RXVDYkFHX0lwVDVTSmdkbklsSWdtQVNSZDFnMzA4UHE4cEgxU2hxQlpqMEZYTHM3Ukw1bFI3bThVSnFRZFQ1UTk4cTRsVXdxQy05bXg5dXF1cm9sck9UbjJPbHZ2YThqX0I5a3cxelhTTENLajhuNld5YnRnUmc2aTRxcWVQenJDaDZFeGthcw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Mal di testa, cosa c’è da sapere. L’esperto: alimenti sconsigliati, stile di vita e farmaci per combattere l’emicrania - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
 2026-05-07 <span class="news-indication-tag">emicrania</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
+
+---
+
+### [Los expertos en asma coinciden: estás usando mal el inhalador y aumenta el riesgo de crisis respiratoria](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
+
+2026-05-07 <span class="news-indication-tag">asma</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Los neumólogos aconsejan un abordaje continuo del asma: "Tratar solo los síntomas aumenta el riesgo de crisis graves" - Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asma</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUmRwZXV4LUJITVRyYWxhMXZKQl9FaGJJQmYwa0plOGQtLVB4M0lKYVBRX0owUlU5eHJySl9fbXI3TE05VHFxVXJramgtVmQ0SVdZUm1zd1Rtc2dpOXhVVGwxVVptMV9sNENsckV6aDFONW12TTlJVU9vVUJTYnIyTXFPcXd5WVNEdnZSWXNBRkxBOTl0WHJ1Z09VNVM1cUZiSTRFRTZqd0lIMWdNam1PUDZjVGxwVW1LQ0pmVERuOFpEeVJZNWxqTVpSUXBqOGF5TDZ0WUVNdmZ6ZHZxdXdTaWoxZXRybEtOazdJRTF0ajhWOFk?oc=5)
-
----
-
 ### [Asthma patients urged to 'call GP' as NICE issues salbutamol blue inhaler warning - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
 
 2026-05-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
-
----
-
-### [Fisioterapia respiratoria frente al asma - Diario Sanitario](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMERSXzNLOHRDZkhVeVBCUlk0Y3dLRXRLbFdyZFZUUmdpRTI2Y21QSEpBZ0tkRzlrS3VtWDBmOFdnby1hTF84U3lpVmhEaHZyb002VW9QVWw3Zw?oc=5)
-
-2026-05-05 <span class="news-indication-tag">asma</span>
-
-來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMERSXzNLOHRDZkhVeVBCUlk0Y3dLRXRLbFdyZFZUUmdpRTI2Y21QSEpBZ0tkRzlrS3VtWDBmOFdnby1hTF84U3lpVmhEaHZyb002VW9QVWw3Zw?oc=5)
 
 ---
 

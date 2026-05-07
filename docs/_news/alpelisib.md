@@ -62,19 +62,19 @@ permalink: /news/alpelisib/
 
 ---
 
-### [Regio: Universitätsklinikum Freiburg: MRT zeigt besser als BMI, wann Körperfett gefährlich wird - MRT-Analyse von Fett- und Muskelverteilung bei mehr als 66.000 Personen liefert präzisere Einschätzung der Gesundheitsrisiken](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
-
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[RegioTrends.de](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
-
----
-
 ### [Mal di testa, cosa c’è da sapere. L’esperto: alimenti sconsigliati, stile di vita e farmaci per combattere l’emicrania - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
 2026-05-07 <span class="news-indication-tag">emicrania</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
+
+---
+
+### [Cook more at home to reduce ultra-processed food intake, say cardiologist groups - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 
 ---
 

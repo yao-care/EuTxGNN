@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,19 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 
 ### [Regio: Universitätsklinikum Freiburg: MRT zeigt besser als BMI, wann Körperfett gefährlich wird - MRT-Analyse von Fett- und Muskelverteilung bei mehr als 66.000 Personen liefert präzisere Einschätzung der Gesundheitsrisiken](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
 
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[RegioTrends.de](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
 
@@ -78,7 +78,7 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [« On nous dit “arrêtez de bouffer, vous ne serez pas gros” » : derrière la prévention contre l'obésité, le marketing illégal des labos - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkRuX3NhRnUwY0RPamQtU0RLcXNFQVFIbG9JR2RmVXNEV1A0b1ZscFluZ2hRNVJWc3VEaG5IX2pTaG9ZaThTU1VxNFJOcVBNU2JOekhHb1hpUzZHRzlTOUk0Z0tSTFpncU1uMnVqYmIwVk9LeUdBUERsYURoTHdfU252MHJPMWlmS21UVjYzS1U5dy01XzB4Z2VVUGtwM3FHVnlVeFpVWHI?oc=5)
+### [Traitements « miracles » pour perdre du poids : l'État condamne deux labos... sans agir contre la malbouffe - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkRuX3NhRnUwY0RPamQtU0RLcXNFQVFIbG9JR2RmVXNEV1A0b1ZscFluZ2hRNVJWc3VEaG5IX2pTaG9ZaThTU1VxNFJOcVBNU2JOekhHb1hpUzZHRzlTOUk0Z0tSTFpncU1uMnVqYmIwVk9LeUdBUERsYURoTHdfU252MHJPMWlmS21UVjYzS1U5dy01XzB4Z2VVUGtwM3FHVnlVeFpVWHI?oc=5)
 
 2026-05-07 <span class="news-indication-tag">obésité</span>
 
@@ -107,22 +107,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-05-06 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[COPE](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnBKRjBJdHN3YUZzVS1HdVJKcTM3UGVyeGI1TUcwZjB6Q0hMazhtQkVkWkV5cVRsS0lKRU4xekZ6MnItWGdkWTBlUklrdXA3cmRfTWpCQUMwWkRiYVpCeGs5ejBacFhNajJVNFVVa0hCcDhiMUZEbVppbklLRmotT1JmM1EyajI1Uk95Q2VmeHVWaUlMZ0hDY29nRE5YRm55ZFJESGE4OEZHSm9yeHE4YTJ1OTVrdUFmYnUxbDMwQ1F3b3hUMmI1QU84bDhDSzdCLUVrLURvUdIB3AFBVV95cUxQSlpCSi1lNFNRMVFzbHJ0eUtGUk04VjhCb0gxc0dxdFNhYWdCMkFqZDFZcHRndzltQXpseVJwVm11OTZXWlo5SndSWFF3dC1zOFlMWWZMU3YxTEhQdjRBb2pxOGNnNVBaUHV4U2FrMDJpM3RjMDFaWnd6ajN3X2lvWDd4bXVrOVVHTDJvZjR2T0tldWpaTXBKX0N3am1nZWk5THNzZzV0RlUxWF9DeVkzQUlkd2dwZmtHTWp1X04yeXpxNVVmekZkVkhaYmk5Tmd0UHBfS0RDM0J6ODg5?oc=5)
-
----
-
-### [Cancer colorectal : ce critère double le risque de décès](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYU9YUDVRQk5OUnBOZWJVZWtjZjFFQmNFQUY3ZWpic1B1enBXWGR5V3hSaTJySWdVV3BEczdSZzZBNnRIU0E0R0pqR2Nwb0RuM1Q4Y0VQV01NcGV5OGpmTW1VSXFaQktuVE4tWG4tejNMbTdmRlVHUmhpbTJscjdTbWtUY0x1WUI1cHMyc05TUzZld3M?oc=5)
-
-2026-05-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYU9YUDVRQk5OUnBOZWJVZWtjZjFFQmNFQUY3ZWpic1B1enBXWGR5V3hSaTJySWdVV3BEczdSZzZBNnRIU0E0R0pqR2Nwb0RuM1Q4Y0VQV01NcGV5OGpmTW1VSXFaQktuVE4tWG4tejNMbTdmRlVHUmhpbTJscjdTbWtUY0x1WUI1cHMyc05TUzZld3M?oc=5)
-
----
-
-### [Neue Studie: Kälte, Ernährung und Kreativität gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjRQNjA2OWdHMVRYTDFWeUtubDdOakZobnE2LWpiVWtSOTVTMHdBNXJRVm93eGpVS3FSMmlVZEh2THB3S0d6UWJTcVQ1a3lYWWhWNjBxUDlzRExvQXV4M01mMm5YWVA5MXpqaGpTVmFHZ1lKYkJsVDE5U1NSellmcHRJeXU1WUJpMjBhdGw5ZkpJSW5GLTRLeEs0b2M5Z0Z0Mjdzbjk1My1EQURFVENLanZn?oc=5)
-
-2026-05-05 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjRQNjA2OWdHMVRYTDFWeUtubDdOakZobnE2LWpiVWtSOTVTMHdBNXJRVm93eGpVS3FSMmlVZEh2THB3S0d6UWJTcVQ1a3lYWWhWNjBxUDlzRExvQXV4M01mMm5YWVA5MXpqaGpTVmFHZ1lKYkJsVDE5U1NSellmcHRJeXU1WUJpMjBhdGw5ZkpJSW5GLTRLeEs0b2M5Z0Z0Mjdzbjk1My1EQURFVENLanZn?oc=5)
 
 ---
 

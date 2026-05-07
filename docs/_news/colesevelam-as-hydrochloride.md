@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [All'Ospedale Maggiore utilizzato un nuovo farmaco per il diabete 1 - Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabete</span>
+
+來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
+
+---
 
 ### [HM Hospitales crea su primera Unidad de Cardiopatías Congénitas en Cataluña - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
 
@@ -62,17 +70,17 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 
 ### [Regio: Universitätsklinikum Freiburg: MRT zeigt besser als BMI, wann Körperfett gefährlich wird - MRT-Analyse von Fett- und Muskelverteilung bei mehr als 66.000 Personen liefert präzisere Einschätzung der Gesundheitsrisiken](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
 
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[RegioTrends.de](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
 
@@ -94,11 +102,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Vitamin D: (K)ein Schutz vor Diabetes? - PTA IN LOVE](https://news.google.com/rss/articles/CBMib0FVX3lxTE45Y25Yal9YbUhXZXhmT1NIbjJpNGxtdnYwbVQ4US1uVlNSeWR5Ry1XOGpYLUtFbGVxODR3ajNENGdLR2lnc2tpN3o3WGZrSmtVZTZtc0ppd2xDbEdpNGNjOGdnalpRQWh1QzhuT1Znbw?oc=5)
+### [Vitamin-D-Mangel wegen Sonnencreme? Arzt gibt wichtigen Tipp für den Sommer - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHAybTdkekdCRzduVWdnc1J4c25yZXhyUXRzTEhVNDlBLXU4a2RqQ2U1NEpPbHAyejdJT3EzQUh3Q25oQmpiM1FJOXVGQVl2UWpIQUhzMEJkSVl4ZndZaGdKajhYOTlZdm0tVUJvWkJYU3lkMDFYWDhxd3NmbkFuZGZ6VjdDMkdJZUxGMXdHTk53ZllsTk45dzFjVzk1Y1RfVTNIZHZpTk5CMjlFYVphZ09PTTB0eGlxZzRV?oc=5)
 
-2026-05-06 <span class="news-indication-tag">diabetes</span>
+2026-05-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMib0FVX3lxTE45Y25Yal9YbUhXZXhmT1NIbjJpNGxtdnYwbVQ4US1uVlNSeWR5Ry1XOGpYLUtFbGVxODR3ajNENGdLR2lnc2tpN3o3WGZrSmtVZTZtc0ppd2xDbEdpNGNjOGdnalpRQWh1QzhuT1Znbw?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHAybTdkekdCRzduVWdnc1J4c25yZXhyUXRzTEhVNDlBLXU4a2RqQ2U1NEpPbHAyejdJT3EzQUh3Q25oQmpiM1FJOXVGQVl2UWpIQUhzMEJkSVl4ZndZaGdKajhYOTlZdm0tVUJvWkJYU3lkMDFYWDhxd3NmbkFuZGZ6VjdDMkdJZUxGMXdHTk53ZllsTk45dzFjVzk1Y1RfVTNIZHZpTk5CMjlFYVphZ09PTTB0eGlxZzRV?oc=5)
+
+---
+
+### [Cook more at home to reduce ultra-processed food intake, say cardiologist groups - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 
 ---
 
@@ -110,19 +126,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Metabolisches Syndrom: Leberfett und Glukagon rücken in den Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJpMWJGN3VVYlkxZmNSVk1KU0VDV01zY2QxS05hV2Q2VDdmd1dCWlpqU1EtZFcwam1UZmNNZlh5SEUwZWtxdFN2TUFLM09ZRWNyR1Y0RXh2RTItN2VNTEVYanNmQ3NnV3dPcG5GaHF0NUFNZDRiQ2duQU9IcThtZFFvTEVqR1p4TlJNNTFlV05FWEw2bEZGY2kxd1N3cHRZanhjQS1hWTNaMFhMZk9VV0hkVU0?oc=5)
+### [Gezielte Bewegung reduziert Leberfett signifikant](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTlKdjF3MDVpS04tZ2ljcFVVaWVIdVB6UUQzN09ITGwwMlVpU2ZLcTJsd1ZmN0FJSDR0dk1kN3dhX2p5V1ducVdnVUU4ZWpzUUxtRGpsY2N2bkZ6MnhBYnVXUFhmZkFVWnVYN2Z3cUp0cTRrRGtPaWtnSHdHVk1WSzNZSldQdzJS?oc=5)
 
 2026-05-06 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJpMWJGN3VVYlkxZmNSVk1KU0VDV01zY2QxS05hV2Q2VDdmd1dCWlpqU1EtZFcwam1UZmNNZlh5SEUwZWtxdFN2TUFLM09ZRWNyR1Y0RXh2RTItN2VNTEVYanNmQ3NnV3dPcG5GaHF0NUFNZDRiQ2duQU9IcThtZFFvTEVqR1p4TlJNNTFlV05FWEw2bEZGY2kxd1N3cHRZanhjQS1hWTNaMFhMZk9VV0hkVU0?oc=5)
-
----
-
-### [Type 2 diabetes: Blood sugar levels could rise 'too high' if you eat two common fruits - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTkxXT0RaOVMzUVhlVVRTS0x5TklUSVk0M2luMjcwR2FsSTRCRFMzd19JQ3BhaWU4SkNwbFlQa0xsLWo3c2hmUnpqVGNLdVBTNFQ5MlA4X3VDbXNweklVdU92V3lXQ0JoSFZLLXFld1lPVzhZaEo5OVlEcENqQdIBgwFBVV95cUxQWUdWb0liX1hkV3p2ZlBtOUhMaGVKYkdpcFpUTUZjS3E4S2VobHhFTTJUUTVXRkdTbEZfYmJoVVlGTkRkbzhnT05PSlB5TV9JS2l4MTlTaXVBZnlQR2p2ODA3dWVuLW9fem1kNTk2NE5Wa0ZLNUkwTVZISkxHRWpKYW93TQ?oc=5)
-
-2026-05-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTkxXT0RaOVMzUVhlVVRTS0x5TklUSVk0M2luMjcwR2FsSTRCRFMzd19JQ3BhaWU4SkNwbFlQa0xsLWo3c2hmUnpqVGNLdVBTNFQ5MlA4X3VDbXNweklVdU92V3lXQ0JoSFZLLXFld1lPVzhZaEo5OVlEcENqQdIBgwFBVV95cUxQWUdWb0liX1hkV3p2ZlBtOUhMaGVKYkdpcFpUTUZjS3E4S2VobHhFTTJUUTVXRkdTbEZfYmJoVVlGTkRkbzhnT05PSlB5TV9JS2l4MTlTaXVBZnlQR2p2ODA3dWVuLW9fem1kNTk2NE5Wa0ZLNUkwTVZISkxHRWpKYW93TQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTlKdjF3MDVpS04tZ2ljcFVVaWVIdVB6UUQzN09ITGwwMlVpU2ZLcTJsd1ZmN0FJSDR0dk1kN3dhX2p5V1ducVdnVUU4ZWpzUUxtRGpsY2N2bkZ6MnhBYnVXUFhmZkFVWnVYN2Z3cUp0cTRrRGtPaWtnSHdHVk1WSzNZSldQdzJS?oc=5)
 
 ---
 

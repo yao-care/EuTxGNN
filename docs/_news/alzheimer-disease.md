@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。6 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>6 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,29 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [At-home test could spot Alzheimer's risk early](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
 
 2026-05-07
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
-
----
-
-### [A dozen things you need to know about your eggs - The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjY2RVNhUXhCbi1FN3VTQ002VWszZ2NwNVBfU1FZNFJOamRVU3EzVWVrbmRTOW9HelQ2aTNtZF80SllZdHZvQzJzc0lJMmhrUldfNkZ3U1hEUzIwdzZxdDdiQmctbUg0enprOVVGMXBjNzJVVUpfUVJuS29RSEZwS3N6N3ZMYkdyWGlBMXJsbTM0b1NlMEFMOUpVVlBUNUxuaHYtV3NLcF9yNU9uUXp5VTd3NE91MGlNdGV6MWRaVzVwMjA3R0VvTw?oc=5)
-
-2026-05-06
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjY2RVNhUXhCbi1FN3VTQ002VWszZ2NwNVBfU1FZNFJOamRVU3EzVWVrbmRTOW9HelQ2aTNtZF80SllZdHZvQzJzc0lJMmhrUldfNkZ3U1hEUzIwdzZxdDdiQmctbUg0enprOVVGMXBjNzJVVUpfUVJuS29RSEZwS3N6N3ZMYkdyWGlBMXJsbTM0b1NlMEFMOUpVVlBUNUxuaHYtV3NLcF9yNU9uUXp5VTd3NE91MGlNdGV6MWRaVzVwMjA3R0VvTw?oc=5)
-
----
-
-### [Your Driving Style Could Predict Risk Of Dementia. Here Are The Early Signs - HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
-
-2026-05-06
-
-來源：[HuffPost UK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWc0bHVZLVZCZk52MlhyM0Q3MGlNTDhxQThiaTN2cXZqb0VjdWpFZFBPejExcU0zZ09KM3hxTTlxUWxhQy1RNFJXM3RIY2ZYellxRkNocHNvX2dSazZZdlIyeDRnLS03cHNHakF4aV8tLThsaWI5MTNnSlA0ck90VEhXSTlickx4bWdDaTNLbnRHbDFYVUhzMElqZUFKZ0w0cHRySlpsS0tmQdIBsAFBVV95cUxQVWdxRHp3NnFkT0sxdXhqWHE2NmhaOTJvVWFhT3lIYzNMS29mX0FnQm1Lc3E0QzQ2V2JhSy1FbEtEdE02TWJVTFV6Nk13RlhGeU5VUXdudHYtNHJTNDI3bnIxeU9qbFloU09wdklIOFBFTV8zQUluN0JYX0pxdXJoLXNlU2pFYWVaaTFiS1FROHlWaDZPM0xnMUlvWllSSm9xbTVZOVc1OXNRZWNvQkFVcA?oc=5)
 
 ---
 
@@ -78,11 +62,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Four subtle language shifts that could be early signs of dementia - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+### [As people become more physically fit, their brains become better at reaping the benefits of a single workout](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
 
 2026-05-06
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+來源：[Earth.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
 
 ---
 

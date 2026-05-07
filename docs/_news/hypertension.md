@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Regio: Universitätsklinikum Freiburg: MRT zeigt besser als BMI, wann Körperfett gefährlich wird - MRT-Analyse von Fett- und Muskelverteilung bei mehr als 66.000 Personen liefert präzisere Einschätzung der Gesundheitsrisiken](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
-
-2026-05-07
-
-來源：[RegioTrends.de](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
 

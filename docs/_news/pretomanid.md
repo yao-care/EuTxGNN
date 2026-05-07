@@ -14,7 +14,7 @@ permalink: /news/pretomanid/
 ---
 
 <p class="key-answer" data-question="Pretomanid 有什麼相關新聞？">
-<strong>Pretomanid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pretomanid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/pretomanid/
 <p><a href="{{ '/drugs/pretomanid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [HM Hospitales crea su primera Unidad de Cardiopatías Congénitas en Cataluña - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
+
+---
+
+### [Cook more at home to reduce ultra-processed food intake, say cardiologist groups - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 
 ---
 
