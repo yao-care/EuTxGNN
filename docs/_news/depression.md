@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Höhere kognitive Leistungen könnten Rückfall bei Depressionen vorhersagen](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlETEhSTVNFdVBOXzc0NjlvYTRuMG1uSGdVVUc1ZEgwc3BQZ2RIaGtfYzhVeEZNcDNqenZfMTRqVGVzWWh5T3JEZzRnTTFzRjM2V3AtZkUxZHZjdC1SNzNFY3B1SW8wT2NGMWtpRENWZEZsSXI1M04xZlZVMmFPeGhlYzVsREtBdEptYndfNFRYd1dqcERkZndsMFNvU0tBZHNLdEx6UUZodFFV?oc=5)
+
+2026-05-08
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlETEhSTVNFdVBOXzc0NjlvYTRuMG1uSGdVVUc1ZEgwc3BQZ2RIaGtfYzhVeEZNcDNqenZfMTRqVGVzWWh5T3JEZzRnTTFzRjM2V3AtZkUxZHZjdC1SNzNFY3B1SW8wT2NGMWtpRENWZEZsSXI1M04xZlZVMmFPeGhlYzVsREtBdEptYndfNFRYd1dqcERkZndsMFNvU0tBZHNLdEx6UUZodFFV?oc=5)
+
+---
 
 ### [Por qué te sientes más cansado en primavera y cómo distinguirlo de anemia, hipotiroidismo, o depresión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcV9Gc2c2OEdYZkNoT0RrbE9uQWZjMTl4YUZiaGJTajBZT0NfV1hjc2tuX3VJYjdYeHo1UTl5ejI3WGxURWdNUnB2blBzR1FJeHo4VGxJc3J5UVZOYi1xZmxMYktXNGZiZ2drdWZRUnBkb3p6NEtGV180QzVfNWV3WEoxcGNSeHg0RF8tWjBEMDR4YlMzRDJpSzA4djI2LXJCUVNKTkdvR1d5X195YnJMcFlNTWhKRVBCb0pyal9yTG1SWEw1TzZxblI0a0VoUGFFYTRJRnhVay0yWGt3ZDZid3NLaDJZdw?oc=5)
 

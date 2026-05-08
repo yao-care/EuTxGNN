@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Höhere kognitive Leistungen könnten Rückfall bei Depressionen vorhersagen](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlETEhSTVNFdVBOXzc0NjlvYTRuMG1uSGdVVUc1ZEgwc3BQZ2RIaGtfYzhVeEZNcDNqenZfMTRqVGVzWWh5T3JEZzRnTTFzRjM2V3AtZkUxZHZjdC1SNzNFY3B1SW8wT2NGMWtpRENWZEZsSXI1M04xZlZVMmFPeGhlYzVsREtBdEptYndfNFRYd1dqcERkZndsMFNvU0tBZHNLdEx6UUZodFFV?oc=5)
+
+2026-05-08 <span class="news-indication-tag">depression</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlETEhSTVNFdVBOXzc0NjlvYTRuMG1uSGdVVUc1ZEgwc3BQZ2RIaGtfYzhVeEZNcDNqenZfMTRqVGVzWWh5T3JEZzRnTTFzRjM2V3AtZkUxZHZjdC1SNzNFY3B1SW8wT2NGMWtpRENWZEZsSXI1M04xZlZVMmFPeGhlYzVsREtBdEptYndfNFRYd1dqcERkZndsMFNvU0tBZHNLdEx6UUZodFFV?oc=5)
+
+---
 
 ### [Por qué te sientes más cansado en primavera y cómo distinguirlo de anemia, hipotiroidismo, o depresión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcV9Gc2c2OEdYZkNoT0RrbE9uQWZjMTl4YUZiaGJTajBZT0NfV1hjc2tuX3VJYjdYeHo1UTl5ejI3WGxURWdNUnB2blBzR1FJeHo4VGxJc3J5UVZOYi1xZmxMYktXNGZiZ2drdWZRUnBkb3p6NEtGV180QzVfNWV3WEoxcGNSeHg0RF8tWjBEMDR4YlMzRDJpSzA4djI2LXJCUVNKTkdvR1d5X195YnJMcFlNTWhKRVBCb0pyal9yTG1SWEw1TzZxblI0a0VoUGFFYTRJRnhVay0yWGt3ZDZid3NLaDJZdw?oc=5)
 

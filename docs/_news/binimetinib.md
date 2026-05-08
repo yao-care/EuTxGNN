@@ -14,7 +14,7 @@ permalink: /news/binimetinib/
 ---
 
 <p class="key-answer" data-question="Binimetinib 有什麼相關新聞？">
-<strong>Binimetinib</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Binimetinib</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/binimetinib/
 <p><a href="{{ '/drugs/binimetinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
 
-### [NHS cancer nurses exposed to toxic chemicals linked to miscarriage, due to inadequate PPE - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaldrS1F6ZE80R3lfTjRuUU1uRFdLNDFRVXZ4X1FEdFdOYkRvU2dkMXAxNU9CekhrbnlwU09qbTRfNklZbnBlcmsya2FqQ0dYNkJuaHJtYlAxb3ZyS1JhdWZ0SWZ5WlE3blNadUtQVzJ5b3VkNUJsQkJTYlU4VzVMWFQ0ZWl6TU1WQUQ1NElLdDExTWNOMm54RUM4eWJYcnpYcmFwTkxVTndpRlEtSnQw?oc=5)
+### [Speiseröhrenkrebs – diese Symptome können auf die Erkrankung hindeuten](https://news.google.com/rss/articles/CBMibkFVX3lxTE1lbUJ1S1NQTkVwS1Y3VU5FM1RiTEZiMG9iZFhMY0tQdlF5Rl9sTjU1MnV6Um1ucTJFNk1rQU5NcERjWGlwMjFscjNpemlIM05RWWxvdzhBd2xvT0pwY1FOdnRlTktSVmZhNmk1bEZn?oc=5)
 
-2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-indication-tag">Krebs</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaldrS1F6ZE80R3lfTjRuUU1uRFdLNDFRVXZ4X1FEdFdOYkRvU2dkMXAxNU9CekhrbnlwU09qbTRfNklZbnBlcmsya2FqQ0dYNkJuaHJtYlAxb3ZyS1JhdWZ0SWZ5WlE3blNadUtQVzJ5b3VkNUJsQkJTYlU4VzVMWFQ0ZWl6TU1WQUQ1NElLdDExTWNOMm54RUM4eWJYcnpYcmFwTkxVTndpRlEtSnQw?oc=5)
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMibkFVX3lxTE1lbUJ1S1NQTkVwS1Y3VU5FM1RiTEZiMG9iZFhMY0tQdlF5Rl9sTjU1MnV6Um1ucTJFNk1rQU5NcERjWGlwMjFscjNpemlIM05RWWxvdzhBd2xvT0pwY1FOdnRlTktSVmZhNmk1bEZn?oc=5)
+
+---
+
+### [Co Down man raising awareness of mouth cancer after diagnosis: ‘My only symptom was mild, persistent discomfort’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTEZ1RVptU0VWZmVtSE9WSkFpdjA1ZnJ3a00zTmloVVQwM0dKeG9fVnZlZnA5NXB1Zl9HSDlseXRHTlV2Q2ZKeF9sQnNEam8zcmgxU1BCRlh0aGk3N2RHZndqcmlIbDlWVnhGLVpiZmpWNHV5V1d5ZF9CaUlyLTJDbEhRbkdMa1BfYS1xTHJFVzVwaXhhOXdWRkRBVVdmeUphVm9EMzdZWkJrU0JobFBVQzdJVGJEU0UyZ0NpWExsVXp2WnFLV0FzOWJtY3Z5T2xwTWl1NEhxN1g2b04xRmFadUJpZXFOLU45ek92My04b0NsYUE3eFl2N09kWTZsa1lwN0djajZERk0?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTEZ1RVptU0VWZmVtSE9WSkFpdjA1ZnJ3a00zTmloVVQwM0dKeG9fVnZlZnA5NXB1Zl9HSDlseXRHTlV2Q2ZKeF9sQnNEam8zcmgxU1BCRlh0aGk3N2RHZndqcmlIbDlWVnhGLVpiZmpWNHV5V1d5ZF9CaUlyLTJDbEhRbkdMa1BfYS1xTHJFVzVwaXhhOXdWRkRBVVdmeUphVm9EMzdZWkJrU0JobFBVQzdJVGJEU0UyZ0NpWExsVXp2WnFLV0FzOWJtY3Z5T2xwTWl1NEhxN1g2b04xRmFadUJpZXFOLU45ek92My04b0NsYUE3eFl2N09kWTZsa1lwN0djajZERk0?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/binimetinib/
 2026-05-07 <span class="news-indication-tag">cancer</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMib0FVX3lxTE9GRlhFREJMbUI1YW5TTlZXaDZqOFBaeW9MVnRfUVYwM3BaMkVZdjMwSXVZNVNSUk9zbFlMaHIwY1NzbFdkTHpDcTJKV3Y0T1ZWUTMydGZFOC04RnZGbGw0a1JWODVZUjNxNVBmWlNlTQ?oc=5)
+
+---
+
+### [Tumore al fegato, ambulatori integrati allungano la sopravvivenza e migliorano le cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNElHX0UtNjRVc3NhazJoS1pXenZhX0tuVjBjMGpNM0dHS2hCVV9YNU43MFhJWDh6MnZZNUdET2JCTW5KYzk3a0FYdmVKVC1yRThBSzZXSEFUNlJlLThuejVaYlUySzVIR090a010NmNQYldJZE5KTnpWX1poYnIwRXV3U3g5UHRCek5EYVRtOEg4bnNvZVpQaXhZQVZiSzdkOUZid3JJc0dwa21BbzdxcUZkNUVDSDBsRXh4eHVoUW90el9DN3BQSDRPUmNQYWVZdlExVVRGZVlUTDdMdW1V0gHkAUFVX3lxTE1uT185NHVSbGZmY1BXS1ExN19vZVJmaGg0bGpHaXBhdmdJdXhiUlhxajgxVG5YRnh0RFBiV2w5c1BxVnNGSzVNWFFjbHVlUzNabHk3YlNIT2lQbi1IVTNBaWs4T2tCaUJXb1dwR1Y1UHVPY2tVd01QSzJKd0RfV0xGRU9oQ0poWkdGTnVBQV80YWpuR1FkZDl5Vk1EY01hWXZXcm43b1NxdjE1SEZNcHFLWWV5VmNfQkFObGVxUE56U3Nnd01maFZRQW5TQnprd3g4b211TnV2WS1UOFFoRWl1RzhlWQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">tumor</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNElHX0UtNjRVc3NhazJoS1pXenZhX0tuVjBjMGpNM0dHS2hCVV9YNU43MFhJWDh6MnZZNUdET2JCTW5KYzk3a0FYdmVKVC1yRThBSzZXSEFUNlJlLThuejVaYlUySzVIR090a010NmNQYldJZE5KTnpWX1poYnIwRXV3U3g5UHRCek5EYVRtOEg4bnNvZVpQaXhZQVZiSzdkOUZid3JJc0dwa21BbzdxcUZkNUVDSDBsRXh4eHVoUW90el9DN3BQSDRPUmNQYWVZdlExVVRGZVlUTDdMdW1V0gHkAUFVX3lxTE1uT185NHVSbGZmY1BXS1ExN19vZVJmaGg0bGpHaXBhdmdJdXhiUlhxajgxVG5YRnh0RFBiV2w5c1BxVnNGSzVNWFFjbHVlUzNabHk3YlNIT2lQbi1IVTNBaWs4T2tCaUJXb1dwR1Y1UHVPY2tVd01QSzJKd0RfV0xGRU9oQ0poWkdGTnVBQV80YWpuR1FkZDl5Vk1EY01hWXZXcm43b1NxdjE1SEZNcHFLWWV5VmNfQkFObGVxUE56U3Nnd01maFZRQW5TQnprd3g4b211TnV2WS1UOFFoRWl1RzhlWQ?oc=5)
 
 ---
 
@@ -86,14 +102,6 @@ permalink: /news/binimetinib/
 
 ---
 
-### [Los anticuerpos conjugados cada vez presentan más potencial en cáncer de ovario - El médico interactivo](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGtWVW16WXFyc2dObHZjZFZCbU8wYWlQcm9IOEhVMHNMOHZqZjdCY0U0ZVdNeVlVOFRvMlQ2SDhFS1l0eExWMXBOdzBTLVRLczNjUmJPQVRMMkJJcUZqYUJrSmtTR01BWTlFNUtFV1YyTmxBakJqeWRhcGRSSnkyWDVJbXZKWG9hU0Z2UmxMV2JZbzkzbWNlcEI4M3B5alJCckJ6eXBiM212VTN0cmFyZTFB?oc=5)
-
-2026-05-07 <span class="news-indication-tag">tumor</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGtWVW16WXFyc2dObHZjZFZCbU8wYWlQcm9IOEhVMHNMOHZqZjdCY0U0ZVdNeVlVOFRvMlQ2SDhFS1l0eExWMXBOdzBTLVRLczNjUmJPQVRMMkJJcUZqYUJrSmtTR01BWTlFNUtFV1YyTmxBakJqeWRhcGRSSnkyWDVJbXZKWG9hU0Z2UmxMV2JZbzkzbWNlcEI4M3B5alJCckJ6eXBiM212VTN0cmFyZTFB?oc=5)
-
----
-
 ### [Lungenkrebs bei jungen: gesunde ernährung könnte überraschungsfa... - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkpOMm5CYm9zWGZPVGx1eFd1aUVoOFFJZWNRSWRfQ2JZWmRlWW1pOWRhaW5hSF83dmJMLTRsX05pMS1FYjRhNzF5Nm5CRlNlbUVkbkJNWERtajFFVmFZTDZrM1UzVzZpUzdCMkdfcktDQXBobUJKMnNmSC1keXpZT3N4dF93MkFhYzFZU0h6cU1paTJmcC04OU9BR3g5d0puREQtM2NxUVU?oc=5)
 
 2026-05-07 <span class="news-indication-tag">Krebs</span>
@@ -104,7 +112,7 @@ permalink: /news/binimetinib/
 
 ### [Zusammenhang zwischen Alzheimer und längst vergangenen Infektionen Virusreste können Krebs und Demenz auslösen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
 
-2026-05-07 <span class="news-indication-tag">Krebs</span>
+2026-05-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
 
@@ -118,11 +126,11 @@ permalink: /news/binimetinib/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs: Erstmals eine echte Hoffnung nach Jahrzehnten - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHZfMHFKTlRLNVkySVNuOXlHY19EN0YweDRxOThPNnh3WkdEVjE1ZE56eU5hWmRSVS1Wb0k5X3N4dERjQXNicDBXbFdwa2thUVhsczhEekNqNFRTamFweHhURk1tRTJxS0NfMzkwTU0zS0RzS05lZFlXcXM3SjZBTDJXbVQ3Z0YwQmM4MXZ4Mmx3SWVqTkVtMWF4Z3JMVl83WGJKM0RmTU1VR1BTQnduYnRRaw?oc=5)
+### [Westhoughton mum’s warning after son survives liver cancer - The Bolton News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWYyUEgtdktPSjhzYzVzY1Q3OHJjMmR6SlpocDdBYzNVSFMydS1JanE4aWU1elJ0TktNU3BGZVRHN2VDU1l2bTZteWhhcXN3djJ3YlB6akRtZzFzaWhGTm9CaXJjT01OU2J2cDhXZ0pOSEVTUFo3dmxjcEozR1ZVM3IwVnVyZlpjN2pfVVRGeUFUMEN0VHk4?oc=5)
 
-2026-05-07 <span class="news-indication-tag">Krebs</span>
+2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHZfMHFKTlRLNVkySVNuOXlHY19EN0YweDRxOThPNnh3WkdEVjE1ZE56eU5hWmRSVS1Wb0k5X3N4dERjQXNicDBXbFdwa2thUVhsczhEekNqNFRTamFweHhURk1tRTJxS0NfMzkwTU0zS0RzS05lZFlXcXM3SjZBTDJXbVQ3Z0YwQmM4MXZ4Mmx3SWVqTkVtMWF4Z3JMVl83WGJKM0RmTU1VR1BTQnduYnRRaw?oc=5)
+來源：[The Bolton News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWYyUEgtdktPSjhzYzVzY1Q3OHJjMmR6SlpocDdBYzNVSFMydS1JanE4aWU1elJ0TktNU3BGZVRHN2VDU1l2bTZteWhhcXN3djJ3YlB6akRtZzFzaWhGTm9CaXJjT01OU2J2cDhXZ0pOSEVTUFo3dmxjcEozR1ZVM3IwVnVyZlpjN2pfVVRGeUFUMEN0VHk4?oc=5)
 
 ---
 
@@ -144,7 +152,7 @@ permalink: /news/binimetinib/
 
 ### [CKM-Syndrom: Neue Leitlinien stellen Herz-Kreislauf-Medizin auf den Kopf - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVm1sczJoOE1Rcm9iSjZYM2MxUGt2WDMyZ01OcmR0SmVQNkNpWVVyRkRRMDZyU25NYXpuQ2RhcTdqVzFrUGxLS3FzU0pPUlhtNTNyUkpvbFJfdmxfX3RjOXg1RmZKZjlqYjBoUjVSSHppUDRqd0UtdGt6Z3FBQjFDendmZ053SGlfMVFJcUNIYUtRRDBUb1ZqQUIwbDBTQWhfSVpUUDFwOTY3NjBEdWVsc0k1R2Z4TklHQm9xdw?oc=5)
 
-2026-05-06 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">Krebs</span>
+2026-05-06 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVm1sczJoOE1Rcm9iSjZYM2MxUGt2WDMyZ01OcmR0SmVQNkNpWVVyRkRRMDZyU25NYXpuQ2RhcTdqVzFrUGxLS3FzU0pPUlhtNTNyUkpvbFJfdmxfX3RjOXg1RmZKZjlqYjBoUjVSSHppUDRqd0UtdGt6Z3FBQjFDendmZ053SGlfMVFJcUNIYUtRRDBUb1ZqQUIwbDBTQWhfSVpUUDFwOTY3NjBEdWVsc0k1R2Z4TklHQm9xdw?oc=5)
 
@@ -158,27 +166,11 @@ permalink: /news/binimetinib/
 
 ---
 
-### [Cancer du pancréas : l'exploit d'un chimiste pour "éteindre" la toxicité de la radiothérapie (et tripler la survie)](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkdXZEh3Nm1SWE5zcTdIWllxeDdBMUFwczJzM1c2OTVLTUJLODR3TTRMd3JaUEd3UmpnSW5fLVFrMTJZZ0gxMjlNUWlZemlRanEzT2JCNk1rejVHTUp3RWdiWEJ6NWdWZjltRVQ5UlA5Q1ZUMTBTVXlLczh3SHdlMEp5REJsUDdpamJLajFkMDV4OHVEUS1zTzlycmlCWnZpcldDUFpoQTFWQmRmT0sxaVZ6bk5Eei1CaFNaZFgxMThXV3hscVRlbDd3SQ?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkdXZEh3Nm1SWE5zcTdIWllxeDdBMUFwczJzM1c2OTVLTUJLODR3TTRMd3JaUEd3UmpnSW5fLVFrMTJZZ0gxMjlNUWlZemlRanEzT2JCNk1rejVHTUp3RWdiWEJ6NWdWZjltRVQ5UlA5Q1ZUMTBTVXlLczh3SHdlMEp5REJsUDdpamJLajFkMDV4OHVEUS1zTzlycmlCWnZpcldDUFpoQTFWQmRmT0sxaVZ6bk5Eei1CaFNaZFgxMThXV3hscVRlbDd3SQ?oc=5)
-
----
-
 ### [Krebs wegleuchten: Infrarotlicht aktiviert Nano-Medikament](https://news.google.com/rss/articles/CBMibEFVX3lxTE03LXVqX0M4a1c4MldFTFVQelVoUTZRTnp3X00zSGtFSEx4Sk9kYkpWRTRSSGZuUTg4b1VYdGkwck0tbnBTd1VXcTdRcmd3azREcElCV2szTU5vYUpiYldWYVoyQVZCVUJoaDF2Ug?oc=5)
 
 2026-05-06 <span class="news-indication-tag">tumor</span>
 
 來源：[Swiss-Press.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE03LXVqX0M4a1c4MldFTFVQelVoUTZRTnp3X00zSGtFSEx4Sk9kYkpWRTRSSGZuUTg4b1VYdGkwck0tbnBTd1VXcTdRcmd3azREcElCV2szTU5vYUpiYldWYVoyQVZCVUJoaDF2Ug?oc=5)
-
----
-
-### [Darlington dad with three bowel cancer diagnoses backs Lynch syndrome test roll-out - Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXI2cl9EZm9nN0l0dEsteFYtajhhTlhValRqemVyWk1lUlhXd3Y5SzY1NU1YVC1icGpPVE05cHRYUXY0VWRMMk5Ud0ZqX0JPLUhuc2dVUTZLZVBBQ0M0cWhuNkFKTktjdTRpWlBFaUVIVVc5VTZMTWRkc3RnamtmSjZHdVFhczJnenNNQ1NBMzNHLTdfcl9nV1V3MWnSAaIBQVVfeXFMTlNCNVFuZVFVQkp3ZW1KWDhvdFhlb0JoMV9SU2cyRGF0eV9VZVk4emRDYkJjMGgxdkNDQUFxX0g1d1IwSU9lMTVBTklIYU10QjdLUGNUZ3NSYmUxX1JvWG9hVjZOa3VrWkhtMXBVeDRDRzEtNWhxVmY2UGJhcFBpVnVFNGkxVm9rc2t0MWJVWjl5OFZwVFZ3SHBNY296M2F6WWtR?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span>
-
-來源：[Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXI2cl9EZm9nN0l0dEsteFYtajhhTlhValRqemVyWk1lUlhXd3Y5SzY1NU1YVC1icGpPVE05cHRYUXY0VWRMMk5Ud0ZqX0JPLUhuc2dVUTZLZVBBQ0M0cWhuNkFKTktjdTRpWlBFaUVIVVc5VTZMTWRkc3RnamtmSjZHdVFhczJnenNNQ1NBMzNHLTdfcl9nV1V3MWnSAaIBQVVfeXFMTlNCNVFuZVFVQkp3ZW1KWDhvdFhlb0JoMV9SU2cyRGF0eV9VZVk4emRDYkJjMGgxdkNDQUFxX0g1d1IwSU9lMTVBTklIYU10QjdLUGNUZ3NSYmUxX1JvWG9hVjZOa3VrWkhtMXBVeDRDRzEtNWhxVmY2UGJhcFBpVnVFNGkxVm9rc2t0MWJVWjl5OFZwVFZ3SHBNY296M2F6WWtR?oc=5)
 
 ---
 

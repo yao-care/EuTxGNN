@@ -54,6 +54,14 @@ permalink: /news/insulin-degludec/
 
 ## 相關新聞（8 則）
 
+### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
+
+---
+
 ### [All'Ospedale Maggiore utilizzato un nuovo farmaco per il diabete 1 - Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabete</span>
@@ -70,11 +78,11 @@ permalink: /news/insulin-degludec/
 
 ---
 
-### [Regio: Universitätsklinikum Freiburg: MRT zeigt besser als BMI, wann Körperfett gefährlich wird - MRT-Analyse von Fett- und Muskelverteilung bei mehr als 66.000 Personen liefert präzisere Einschätzung der Gesundheitsrisiken](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
+### [„Nur Sonne wird am Ende des Tages nicht reichen“ - Rheinische Anzeigenblätter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV192X2l3TkZRWF90bW9MYTBRVGZxNVJ6RWw2WGV0Nl9pUTMtMUxfR3lSWXZ2cW95NVBzRDF0eTNCbDFMb3d4ZXNqR0Z4NWNBSGctdUZ1Q2hMNDNFMzhtdmJud0xsRDFzWGkydEc1bDZmanlTQVAzVlVHT25nQmd6SnNMTjNDemh4NUh3RUFDX1lTRkVCZTFfZnNNOVhiRmphUjhwWlNoR3RFQVQ1TmZ2bnJRSDhqZWZMSDlULVZ2b2piZw?oc=5)
 
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[RegioTrends.de](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
+來源：[Rheinische Anzeigenblätter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV192X2l3TkZRWF90bW9MYTBRVGZxNVJ6RWw2WGV0Nl9pUTMtMUxfR3lSWXZ2cW95NVBzRDF0eTNCbDFMb3d4ZXNqR0Z4NWNBSGctdUZ1Q2hMNDNFMzhtdmJud0xsRDFzWGkydEc1bDZmanlTQVAzVlVHT25nQmd6SnNMTjNDemh4NUh3RUFDX1lTRkVCZTFfZnNNOVhiRmphUjhwWlNoR3RFQVQ1TmZ2bnJRSDhqZWZMSDlULVZ2b2piZw?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/insulin-degludec/
 2026-05-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXRaMHVMdWEtZkp0SEtDXzhKODY4Z3QxMFkxN1JLS3JqV2VXSEtISWpES3RkR1dsa2drZG9mbWptZFFVTGh6dGV0MlFzbWNnN2pVbmI3UG5CdGZzWnlfaERtZmNJWGRlSEF2MDZLUFd2eGsxTllNR29YUzdNZ2FBZ29jLUJKQ1FweWJBcG02TGxfcmtf?oc=5)
-
----
-
-### [Vitamin-D-Mangel wegen Sonnencreme? Arzt gibt wichtigen Tipp für den Sommer - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHAybTdkekdCRzduVWdnc1J4c25yZXhyUXRzTEhVNDlBLXU4a2RqQ2U1NEpPbHAyejdJT3EzQUh3Q25oQmpiM1FJOXVGQVl2UWpIQUhzMEJkSVl4ZndZaGdKajhYOTlZdm0tVUJvWkJYU3lkMDFYWDhxd3NmbkFuZGZ6VjdDMkdJZUxGMXdHTk53ZllsTk45dzFjVzk1Y1RfVTNIZHZpTk5CMjlFYVphZ09PTTB0eGlxZzRV?oc=5)
-
-2026-05-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHAybTdkekdCRzduVWdnc1J4c25yZXhyUXRzTEhVNDlBLXU4a2RqQ2U1NEpPbHAyejdJT3EzQUh3Q25oQmpiM1FJOXVGQVl2UWpIQUhzMEJkSVl4ZndZaGdKajhYOTlZdm0tVUJvWkJYU3lkMDFYWDhxd3NmbkFuZGZ6VjdDMkdJZUxGMXdHTk53ZllsTk45dzFjVzk1Y1RfVTNIZHZpTk5CMjlFYVphZ09PTTB0eGlxZzRV?oc=5)
 
 ---
 

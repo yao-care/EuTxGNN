@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
+
+### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
+
+2026-05-07 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
+
+---
 
 ### [Un estudio confirma que usar un fármaco tras la trombectomía mejora la recuperación en ictus grave](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemRvOERGZVZNTHJaNzNNWVFFTWZVb0hGajcyWjRMcDRfazNqMlpmOFJoTmpnQW5pc1VJcWY2LTg5VUJEeXhqQnN0OEMxWC12TmVFU1VUVmk3Rk8yRTN0amtzUGdqTWxHczNKMGZBVTFmTFFWREtwU3J6aEJpalNTdWwyUGVqUUluaXEtMV9ITzRsUnZjZ1JLM1ctOFNnWnZXRVR6U2xYWVBFa0loS0ZJc19yTGVxSk9ZQXdkRWRQcDByRVlFNW1Id1VrRGN4SXg1b3IxbERB?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [HM Hospitales crea su primera Unidad de Cardiopatías Congénitas en Cataluña - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
+### [HM Hospitales estrena en Barcelona su primera Unidad de Cardiopatías Congénitas con técnicas mínimamente invasivas](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0Y4VFd2SnBsVjFWTkU2ZVA3UGN5TWpiQUU2ejFkQjluUEtxWG9KQUJEQlEtanJ4ZjJnczhqSE9rMVBGTkV6ak9HR3JfOUVoemtXaVRseENoM1owUmtma19HM0l1VTVqQVJJTHpwNXJzd2lOcU9YdG1Ha21CTFJrQlRZRnNoczZXSE92VUc4VGdHd1Q3RE8yVlo4RER2NnltR1R6YktpUGZpYVJqMm1FdkNQX184SllvQXc1N0JSNUJIR2otekZYNE5LRVU1RUptVmxabjZFdEg3S2pKc3M1Y09n0gHnAUFVX3lxTFBwandTX0RSVU5TdXc1b2owVFpyZTNTWno4YXJjam5pY281THY5WllUdHg0dDZ6cVJXbDlzQmFiYVNMX2F3Z2JUME1obE1Ed1pUMlcwOThmOFhDTVBvOWNkNElMZkdtMTNHYjh5bjBoaFZ1aVhVVjJlcTZjSFZ1QzlpWUw2RlBCZlVvenB2WElQdzAxQkR6Q0V4OEt6WEhiTGNrMUZ0MU5oUm1PMlh6TEowZU5VYkFyRW9kTU82c1d2a1V6UW8wUnZycl92c2tfT3liNGJuYmxTcWFqalo3ZGtKaWx4UjJtVQ?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0Y4VFd2SnBsVjFWTkU2ZVA3UGN5TWpiQUU2ejFkQjluUEtxWG9KQUJEQlEtanJ4ZjJnczhqSE9rMVBGTkV6ak9HR3JfOUVoemtXaVRseENoM1owUmtma19HM0l1VTVqQVJJTHpwNXJzd2lOcU9YdG1Ha21CTFJrQlRZRnNoczZXSE92VUc4VGdHd1Q3RE8yVlo4RER2NnltR1R6YktpUGZpYVJqMm1FdkNQX184SllvQXc1N0JSNUJIR2otekZYNE5LRVU1RUptVmxabjZFdEg3S2pKc3M1Y09n0gHnAUFVX3lxTFBwandTX0RSVU5TdXc1b2owVFpyZTNTWno4YXJjam5pY281THY5WllUdHg0dDZ6cVJXbDlzQmFiYVNMX2F3Z2JUME1obE1Ed1pUMlcwOThmOFhDTVBvOWNkNElMZkdtMTNHYjh5bjBoaFZ1aVhVVjJlcTZjSFZ1QzlpWUw2RlBCZlVvenB2WElQdzAxQkR6Q0V4OEt6WEhiTGNrMUZ0MU5oUm1PMlh6TEowZU5VYkFyRW9kTU82c1d2a1V6UW8wUnZycl92c2tfT3liNGJuYmxTcWFqalo3ZGtKaWx4UjJtVQ?oc=5)
 
 ---
 
@@ -86,11 +94,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Ruhepuls als Risikofaktor: Zu langsam oder zu schnell erhöht Schlaganfall-Gefahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORDdNVEUzN1RHWF9NSXNUdEZpbEprWGpEVFNyVWNuZVZnbnZXeDVHVDhaNkhOTk13RzZQZHE0cnZqaVhEakx6SlpqRWZQalY0Sjk5Zm1ZQ3o0WFRGVDcxWHVsNW5YaXE5dzYwT2RRZ0RNa1RZUGpCOFZUQ3ExSERoVnE2TzFIYXFKc1dHNkgyVzdRY0Z1N0FsbVpaS2x3QzhJMUE5dDFIbkE2Rk5Mc3c?oc=5)
+### [Herz: Auch ein zu niedriger Pulsschlag erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
 
 2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORDdNVEUzN1RHWF9NSXNUdEZpbEprWGpEVFNyVWNuZVZnbnZXeDVHVDhaNkhOTk13RzZQZHE0cnZqaVhEakx6SlpqRWZQalY0Sjk5Zm1ZQ3o0WFRGVDcxWHVsNW5YaXE5dzYwT2RRZ0RNa1RZUGpCOFZUQ3ExSERoVnE2TzFIYXFKc1dHNkgyVzdRY0Z1N0FsbVpaS2x3QzhJMUE5dDFIbkE2Rk5Mc3c?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
 
 ---
 
@@ -118,14 +126,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Fundación MAPFRE elige cuatro proyectos finalistas en sus Premios a la Innovación Social 2026](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
-
-2026-05-06 <span class="news-indication-tag">ictus</span>
-
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
-
----
-
 ### [Vaccin grippe : les soignants bientôt obligés de se faire vacciner ?](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LSFVyd1pDV3JEdEhaY25iSkI4NTEyS0V1RE9zX2h4UmlrV2RlTTdZVGlaOHFtRHU0ZjkxdFdKQktCVk1FYjB3a1ZLcGtVSE5XbTZvYlRiVXpEMnh5dHhJUV9TUFUzSXhKN3hVN1NFRjlxN204UGc?oc=5)
 
 2026-05-06 <span class="news-indication-tag">CVA</span>
@@ -147,14 +147,6 @@ permalink: /news/telmisartan/
 2026-05-06 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
 
 來源：[Zonamovilidad.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
-
----
-
-### [Both very low and very high heart rates may be linked to higher stroke risk, study says - Live Science](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZElDd2lsQ1pCb1dSeGhEUy1pelVNM2NydTFtTHlzTW5jak9ZNWJ3dUZVU2lwMl80d1hVSGx4N2RtR2RXaE94UE9reDFma294WDhPZFpWLUZDLTBIWGJ4cDNwNWp5cmIwYWxHNmVjaW16TkFMeG5XMlZvVjJVRVljR3BPWDk4bTBJZklKYXgxNVc0LUtwclVBWUJzTHJoQXFMUG9HNF9UMWJrZF9uQXNCMlJZSnUxTl9hNHBvS2QxRjNoVmV3a0VjZW81RWd6UVdicS1oOTdR?oc=5)
-
-2026-05-05 <span class="news-indication-tag">stroke</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZElDd2lsQ1pCb1dSeGhEUy1pelVNM2NydTFtTHlzTW5jak9ZNWJ3dUZVU2lwMl80d1hVSGx4N2RtR2RXaE94UE9reDFma294WDhPZFpWLUZDLTBIWGJ4cDNwNWp5cmIwYWxHNmVjaW16TkFMeG5XMlZvVjJVRVljR3BPWDk4bTBJZklKYXgxNVc0LUtwclVBWUJzTHJoQXFMUG9HNF9UMWJrZF9uQXNCMlJZSnUxTl9hNHBvS2QxRjNoVmV3a0VjZW81RWd6UVdicS1oOTdR?oc=5)
 
 ---
 

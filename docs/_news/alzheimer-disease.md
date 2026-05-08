@@ -62,19 +62,19 @@ permalink: /news/alzheimer-disease/
 
 ---
 
+### [Four subtle language shifts that could be early signs of dementia - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+
+2026-05-06
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDlGSV92MzZYQ3ZqbkxfVzBSLXh0UFI4U2V6cExOR2kybTRZNlJuM19vcmZTajdkYjdpMVlfcFlEX2J0WEFSTmNnQVhrQXdDVk5YRE51akpvM0dqbngwblJkV251bURIdDQ3c0RTcDNHcURxamM1b2pyd1FxSXpPNnRNRm9WNzZGLWhicUdTOXlTRDJsT2lCZ1VtQ2ExYUVOd1VfVE9ReDhUcFlP?oc=5)
+
+---
+
 ### [As people become more physically fit, their brains become better at reaping the benefits of a single workout](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
 
 2026-05-06
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
-
----
-
-### [These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests](https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5)
-
-2026-05-05
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5)
 
 ---
 

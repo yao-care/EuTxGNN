@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Los expertos en asma coinciden: estás usando mal el inhalador y aumenta el riesgo de crisis respiratoria](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
 
 2026-05-07
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
-
----
-
-### [Asthma patients urged to 'call GP' as NICE issues salbutamol blue inhaler warning - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
-
-2026-05-06
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
 
 ---
 

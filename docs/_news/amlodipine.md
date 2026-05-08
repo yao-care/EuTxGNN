@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（36 則）
+## 相關新聞（33 則）
 
-### [NHS cancer nurses exposed to toxic chemicals linked to miscarriage, due to inadequate PPE - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaldrS1F6ZE80R3lfTjRuUU1uRFdLNDFRVXZ4X1FEdFdOYkRvU2dkMXAxNU9CekhrbnlwU09qbTRfNklZbnBlcmsya2FqQ0dYNkJuaHJtYlAxb3ZyS1JhdWZ0SWZ5WlE3blNadUtQVzJ5b3VkNUJsQkJTYlU4VzVMWFQ0ZWl6TU1WQUQ1NElLdDExTWNOMm54RUM4eWJYcnpYcmFwTkxVTndpRlEtSnQw?oc=5)
+### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
-2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaldrS1F6ZE80R3lfTjRuUU1uRFdLNDFRVXZ4X1FEdFdOYkRvU2dkMXAxNU9CekhrbnlwU09qbTRfNklZbnBlcmsya2FqQ0dYNkJuaHJtYlAxb3ZyS1JhdWZ0SWZ5WlE3blNadUtQVzJ5b3VkNUJsQkJTYlU4VzVMWFQ0ZWl6TU1WQUQ1NElLdDExTWNOMm54RUM4eWJYcnpYcmFwTkxVTndpRlEtSnQw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
+
+---
+
+### [Speiseröhrenkrebs – diese Symptome können auf die Erkrankung hindeuten](https://news.google.com/rss/articles/CBMibkFVX3lxTE1lbUJ1S1NQTkVwS1Y3VU5FM1RiTEZiMG9iZFhMY0tQdlF5Rl9sTjU1MnV6Um1ucTJFNk1rQU5NcERjWGlwMjFscjNpemlIM05RWWxvdzhBd2xvT0pwY1FOdnRlTktSVmZhNmk1bEZn?oc=5)
+
+2026-05-07 <span class="news-indication-tag">Krebs</span>
+
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMibkFVX3lxTE1lbUJ1S1NQTkVwS1Y3VU5FM1RiTEZiMG9iZFhMY0tQdlF5Rl9sTjU1MnV6Um1ucTJFNk1rQU5NcERjWGlwMjFscjNpemlIM05RWWxvdzhBd2xvT0pwY1FOdnRlTktSVmZhNmk1bEZn?oc=5)
+
+---
+
+### [Co Down man raising awareness of mouth cancer after diagnosis: ‘My only symptom was mild, persistent discomfort’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTEZ1RVptU0VWZmVtSE9WSkFpdjA1ZnJ3a00zTmloVVQwM0dKeG9fVnZlZnA5NXB1Zl9HSDlseXRHTlV2Q2ZKeF9sQnNEam8zcmgxU1BCRlh0aGk3N2RHZndqcmlIbDlWVnhGLVpiZmpWNHV5V1d5ZF9CaUlyLTJDbEhRbkdMa1BfYS1xTHJFVzVwaXhhOXdWRkRBVVdmeUphVm9EMzdZWkJrU0JobFBVQzdJVGJEU0UyZ0NpWExsVXp2WnFLV0FzOWJtY3Z5T2xwTWl1NEhxN1g2b04xRmFadUJpZXFOLU45ek92My04b0NsYUE3eFl2N09kWTZsa1lwN0djajZERk0?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTEZ1RVptU0VWZmVtSE9WSkFpdjA1ZnJ3a00zTmloVVQwM0dKeG9fVnZlZnA5NXB1Zl9HSDlseXRHTlV2Q2ZKeF9sQnNEam8zcmgxU1BCRlh0aGk3N2RHZndqcmlIbDlWVnhGLVpiZmpWNHV5V1d5ZF9CaUlyLTJDbEhRbkdMa1BfYS1xTHJFVzVwaXhhOXdWRkRBVVdmeUphVm9EMzdZWkJrU0JobFBVQzdJVGJEU0UyZ0NpWExsVXp2WnFLV0FzOWJtY3Z5T2xwTWl1NEhxN1g2b04xRmFadUJpZXFOLU45ek92My04b0NsYUE3eFl2N09kWTZsa1lwN0djajZERk0?oc=5)
 
 ---
 
@@ -86,6 +102,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Tumore al fegato, ambulatori integrati allungano la sopravvivenza e migliorano le cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNElHX0UtNjRVc3NhazJoS1pXenZhX0tuVjBjMGpNM0dHS2hCVV9YNU43MFhJWDh6MnZZNUdET2JCTW5KYzk3a0FYdmVKVC1yRThBSzZXSEFUNlJlLThuejVaYlUySzVIR090a010NmNQYldJZE5KTnpWX1poYnIwRXV3U3g5UHRCek5EYVRtOEg4bnNvZVpQaXhZQVZiSzdkOUZid3JJc0dwa21BbzdxcUZkNUVDSDBsRXh4eHVoUW90el9DN3BQSDRPUmNQYWVZdlExVVRGZVlUTDdMdW1V0gHkAUFVX3lxTE1uT185NHVSbGZmY1BXS1ExN19vZVJmaGg0bGpHaXBhdmdJdXhiUlhxajgxVG5YRnh0RFBiV2w5c1BxVnNGSzVNWFFjbHVlUzNabHk3YlNIT2lQbi1IVTNBaWs4T2tCaUJXb1dwR1Y1UHVPY2tVd01QSzJKd0RfV0xGRU9oQ0poWkdGTnVBQV80YWpuR1FkZDl5Vk1EY01hWXZXcm43b1NxdjE1SEZNcHFLWWV5VmNfQkFObGVxUE56U3Nnd01maFZRQW5TQnprd3g4b211TnV2WS1UOFFoRWl1RzhlWQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">tumor</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNElHX0UtNjRVc3NhazJoS1pXenZhX0tuVjBjMGpNM0dHS2hCVV9YNU43MFhJWDh6MnZZNUdET2JCTW5KYzk3a0FYdmVKVC1yRThBSzZXSEFUNlJlLThuejVaYlUySzVIR090a010NmNQYldJZE5KTnpWX1poYnIwRXV3U3g5UHRCek5EYVRtOEg4bnNvZVpQaXhZQVZiSzdkOUZid3JJc0dwa21BbzdxcUZkNUVDSDBsRXh4eHVoUW90el9DN3BQSDRPUmNQYWVZdlExVVRGZVlUTDdMdW1V0gHkAUFVX3lxTE1uT185NHVSbGZmY1BXS1ExN19vZVJmaGg0bGpHaXBhdmdJdXhiUlhxajgxVG5YRnh0RFBiV2w5c1BxVnNGSzVNWFFjbHVlUzNabHk3YlNIT2lQbi1IVTNBaWs4T2tCaUJXb1dwR1Y1UHVPY2tVd01QSzJKd0RfV0xGRU9oQ0poWkdGTnVBQV80YWpuR1FkZDl5Vk1EY01hWXZXcm43b1NxdjE1SEZNcHFLWWV5VmNfQkFObGVxUE56U3Nnd01maFZRQW5TQnprd3g4b211TnV2WS1UOFFoRWl1RzhlWQ?oc=5)
+
+---
+
 ### [Cancer du sein : ces traitements exposent les femmes à un risque cardiovasculaire](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cancer</span>
@@ -94,11 +118,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [HM Hospitales crea su primera Unidad de Cardiopatías Congénitas en Cataluña - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
+### [HM Hospitales estrena en Barcelona su primera Unidad de Cardiopatías Congénitas con técnicas mínimamente invasivas](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0Y4VFd2SnBsVjFWTkU2ZVA3UGN5TWpiQUU2ejFkQjluUEtxWG9KQUJEQlEtanJ4ZjJnczhqSE9rMVBGTkV6ak9HR3JfOUVoemtXaVRseENoM1owUmtma19HM0l1VTVqQVJJTHpwNXJzd2lOcU9YdG1Ha21CTFJrQlRZRnNoczZXSE92VUc4VGdHd1Q3RE8yVlo4RER2NnltR1R6YktpUGZpYVJqMm1FdkNQX184SllvQXc1N0JSNUJIR2otekZYNE5LRVU1RUptVmxabjZFdEg3S2pKc3M1Y09n0gHnAUFVX3lxTFBwandTX0RSVU5TdXc1b2owVFpyZTNTWno4YXJjam5pY281THY5WllUdHg0dDZ6cVJXbDlzQmFiYVNMX2F3Z2JUME1obE1Ed1pUMlcwOThmOFhDTVBvOWNkNElMZkdtMTNHYjh5bjBoaFZ1aVhVVjJlcTZjSFZ1QzlpWUw2RlBCZlVvenB2WElQdzAxQkR6Q0V4OEt6WEhiTGNrMUZ0MU5oUm1PMlh6TEowZU5VYkFyRW9kTU82c1d2a1V6UW8wUnZycl92c2tfT3liNGJuYmxTcWFqalo3ZGtKaWx4UjJtVQ?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxON05HeDBNaURaUjdBV3FRUG5qR0NTTXFzeXVsRmlHYnZEZ1k0UHFVX1NGU1ZudWYzeHMwRzdhcmFpNXA5ejM1TkEtWGFSQ3l3SGR2bHNVZzJJWGVXQXlwSHJPVFBSS1JCR2JkSk9aVGNzaGF0M2pyeWR1NmRaQmxCLTNyd09kNU14bG00bmJ4UGlEcXlwVkZac0N3cHE1S05mTk9jbzhVOWY4aDVudHJseEVvOHk3TTZDUXVsV1Jndm91dlBMVzVJY1h30gHKAUFVX3lxTE5GQWk1RTJWUGdQcUg3TzZuUUxGR20zY0JZWnJ4dkZYUVRIUnVQem1FZ0FzODRnUTN3MkhzQWdzd1FudGpBbmFzSmJ0YVlVZUVacG1VWUZrYUJmX2N5RU1Na1pRdUd3eDNqUUhJNDM2elNORXVJSDI5LWF3LU5SZEZpOWZXdGZtdUEzQUdpVFlBcTBWOU42bnlMckJaYWZFNm42WDZFbXE3MEdlVlFwMzNYcS1wYUE1N2FacktpM0FuM2ZnaHNMd0ZfMEE?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0Y4VFd2SnBsVjFWTkU2ZVA3UGN5TWpiQUU2ejFkQjluUEtxWG9KQUJEQlEtanJ4ZjJnczhqSE9rMVBGTkV6ak9HR3JfOUVoemtXaVRseENoM1owUmtma19HM0l1VTVqQVJJTHpwNXJzd2lOcU9YdG1Ha21CTFJrQlRZRnNoczZXSE92VUc4VGdHd1Q3RE8yVlo4RER2NnltR1R6YktpUGZpYVJqMm1FdkNQX184SllvQXc1N0JSNUJIR2otekZYNE5LRVU1RUptVmxabjZFdEg3S2pKc3M1Y09n0gHnAUFVX3lxTFBwandTX0RSVU5TdXc1b2owVFpyZTNTWno4YXJjam5pY281THY5WllUdHg0dDZ6cVJXbDlzQmFiYVNMX2F3Z2JUME1obE1Ed1pUMlcwOThmOFhDTVBvOWNkNElMZkdtMTNHYjh5bjBoaFZ1aVhVVjJlcTZjSFZ1QzlpWUw2RlBCZlVvenB2WElQdzAxQkR6Q0V4OEt6WEhiTGNrMUZ0MU5oUm1PMlh6TEowZU5VYkFyRW9kTU82c1d2a1V6UW8wUnZycl92c2tfT3liNGJuYmxTcWFqalo3ZGtKaWx4UjJtVQ?oc=5)
 
 ---
 
@@ -118,22 +142,6 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Los anticuerpos conjugados cada vez presentan más potencial en cáncer de ovario - El médico interactivo](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGtWVW16WXFyc2dObHZjZFZCbU8wYWlQcm9IOEhVMHNMOHZqZjdCY0U0ZVdNeVlVOFRvMlQ2SDhFS1l0eExWMXBOdzBTLVRLczNjUmJPQVRMMkJJcUZqYUJrSmtTR01BWTlFNUtFV1YyTmxBakJqeWRhcGRSSnkyWDVJbXZKWG9hU0Z2UmxMV2JZbzkzbWNlcEI4M3B5alJCckJ6eXBiM212VTN0cmFyZTFB?oc=5)
-
-2026-05-07 <span class="news-indication-tag">tumor</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGtWVW16WXFyc2dObHZjZFZCbU8wYWlQcm9IOEhVMHNMOHZqZjdCY0U0ZVdNeVlVOFRvMlQ2SDhFS1l0eExWMXBOdzBTLVRLczNjUmJPQVRMMkJJcUZqYUJrSmtTR01BWTlFNUtFV1YyTmxBakJqeWRhcGRSSnkyWDVJbXZKWG9hU0Z2UmxMV2JZbzkzbWNlcEI4M3B5alJCckJ6eXBiM212VTN0cmFyZTFB?oc=5)
-
----
-
-### [Ruhepuls als Risikofaktor: Zu langsam oder zu schnell erhöht Schlaganfall-Gefahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORDdNVEUzN1RHWF9NSXNUdEZpbEprWGpEVFNyVWNuZVZnbnZXeDVHVDhaNkhOTk13RzZQZHE0cnZqaVhEakx6SlpqRWZQalY0Sjk5Zm1ZQ3o0WFRGVDcxWHVsNW5YaXE5dzYwT2RRZ0RNa1RZUGpCOFZUQ3ExSERoVnE2TzFIYXFKc1dHNkgyVzdRY0Z1N0FsbVpaS2x3QzhJMUE5dDFIbkE2Rk5Mc3c?oc=5)
-
-2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORDdNVEUzN1RHWF9NSXNUdEZpbEprWGpEVFNyVWNuZVZnbnZXeDVHVDhaNkhOTk13RzZQZHE0cnZqaVhEakx6SlpqRWZQalY0Sjk5Zm1ZQ3o0WFRGVDcxWHVsNW5YaXE5dzYwT2RRZ0RNa1RZUGpCOFZUQ3ExSERoVnE2TzFIYXFKc1dHNkgyVzdRY0Z1N0FsbVpaS2x3QzhJMUE5dDFIbkE2Rk5Mc3c?oc=5)
-
----
-
 ### [Por qué te sientes más cansado en primavera y cómo distinguirlo de anemia, hipotiroidismo, o depresión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcV9Gc2c2OEdYZkNoT0RrbE9uQWZjMTl4YUZiaGJTajBZT0NfV1hjc2tuX3VJYjdYeHo1UTl5ejI3WGxURWdNUnB2blBzR1FJeHo4VGxJc3J5UVZOYi1xZmxMYktXNGZiZ2drdWZRUnBkb3p6NEtGV180QzVfNWV3WEoxcGNSeHg0RF8tWjBEMDR4YlMzRDJpSzA4djI2LXJCUVNKTkdvR1d5X195YnJMcFlNTWhKRVBCb0pyal9yTG1SWEw1TzZxblI0a0VoUGFFYTRJRnhVay0yWGt3ZDZid3NLaDJZdw?oc=5)
 
 2026-05-07 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span>
@@ -150,9 +158,17 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Herz: Auch ein zu niedriger Pulsschlag erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+
+2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+
+---
+
 ### [Zusammenhang zwischen Alzheimer und längst vergangenen Infektionen Virusreste können Krebs und Demenz auslösen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
 
-2026-05-07 <span class="news-indication-tag">Krebs</span>
+2026-05-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
 
@@ -166,11 +182,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs: Erstmals eine echte Hoffnung nach Jahrzehnten - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHZfMHFKTlRLNVkySVNuOXlHY19EN0YweDRxOThPNnh3WkdEVjE1ZE56eU5hWmRSVS1Wb0k5X3N4dERjQXNicDBXbFdwa2thUVhsczhEekNqNFRTamFweHhURk1tRTJxS0NfMzkwTU0zS0RzS05lZFlXcXM3SjZBTDJXbVQ3Z0YwQmM4MXZ4Mmx3SWVqTkVtMWF4Z3JMVl83WGJKM0RmTU1VR1BTQnduYnRRaw?oc=5)
+### [Westhoughton mum’s warning after son survives liver cancer - The Bolton News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWYyUEgtdktPSjhzYzVzY1Q3OHJjMmR6SlpocDdBYzNVSFMydS1JanE4aWU1elJ0TktNU3BGZVRHN2VDU1l2bTZteWhhcXN3djJ3YlB6akRtZzFzaWhGTm9CaXJjT01OU2J2cDhXZ0pOSEVTUFo3dmxjcEozR1ZVM3IwVnVyZlpjN2pfVVRGeUFUMEN0VHk4?oc=5)
 
-2026-05-07 <span class="news-indication-tag">Krebs</span>
+2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHZfMHFKTlRLNVkySVNuOXlHY19EN0YweDRxOThPNnh3WkdEVjE1ZE56eU5hWmRSVS1Wb0k5X3N4dERjQXNicDBXbFdwa2thUVhsczhEekNqNFRTamFweHhURk1tRTJxS0NfMzkwTU0zS0RzS05lZFlXcXM3SjZBTDJXbVQ3Z0YwQmM4MXZ4Mmx3SWVqTkVtMWF4Z3JMVl83WGJKM0RmTU1VR1BTQnduYnRRaw?oc=5)
+來源：[The Bolton News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWYyUEgtdktPSjhzYzVzY1Q3OHJjMmR6SlpocDdBYzNVSFMydS1JanE4aWU1elJ0TktNU3BGZVRHN2VDU1l2bTZteWhhcXN3djJ3YlB6akRtZzFzaWhGTm9CaXJjT01OU2J2cDhXZ0pOSEVTUFo3dmxjcEozR1ZVM3IwVnVyZlpjN2pfVVRGeUFUMEN0VHk4?oc=5)
 
 ---
 
@@ -208,7 +224,7 @@ permalink: /news/amlodipine/
 
 ### [CKM-Syndrom: Neue Leitlinien stellen Herz-Kreislauf-Medizin auf den Kopf - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVm1sczJoOE1Rcm9iSjZYM2MxUGt2WDMyZ01OcmR0SmVQNkNpWVVyRkRRMDZyU25NYXpuQ2RhcTdqVzFrUGxLS3FzU0pPUlhtNTNyUkpvbFJfdmxfX3RjOXg1RmZKZjlqYjBoUjVSSHppUDRqd0UtdGt6Z3FBQjFDendmZ053SGlfMVFJcUNIYUtRRDBUb1ZqQUIwbDBTQWhfSVpUUDFwOTY3NjBEdWVsc0k1R2Z4TklHQm9xdw?oc=5)
 
-2026-05-06 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">Krebs</span>
+2026-05-06 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVm1sczJoOE1Rcm9iSjZYM2MxUGt2WDMyZ01OcmR0SmVQNkNpWVVyRkRRMDZyU25NYXpuQ2RhcTdqVzFrUGxLS3FzU0pPUlhtNTNyUkpvbFJfdmxfX3RjOXg1RmZKZjlqYjBoUjVSSHppUDRqd0UtdGt6Z3FBQjFDendmZ053SGlfMVFJcUNIYUtRRDBUb1ZqQUIwbDBTQWhfSVpUUDFwOTY3NjBEdWVsc0k1R2Z4TklHQm9xdw?oc=5)
 
@@ -230,35 +246,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Cancer du pancréas : l'exploit d'un chimiste pour "éteindre" la toxicité de la radiothérapie (et tripler la survie)](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkdXZEh3Nm1SWE5zcTdIWllxeDdBMUFwczJzM1c2OTVLTUJLODR3TTRMd3JaUEd3UmpnSW5fLVFrMTJZZ0gxMjlNUWlZemlRanEzT2JCNk1rejVHTUp3RWdiWEJ6NWdWZjltRVQ5UlA5Q1ZUMTBTVXlLczh3SHdlMEp5REJsUDdpamJLajFkMDV4OHVEUS1zTzlycmlCWnZpcldDUFpoQTFWQmRmT0sxaVZ6bk5Eei1CaFNaZFgxMThXV3hscVRlbDd3SQ?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkdXZEh3Nm1SWE5zcTdIWllxeDdBMUFwczJzM1c2OTVLTUJLODR3TTRMd3JaUEd3UmpnSW5fLVFrMTJZZ0gxMjlNUWlZemlRanEzT2JCNk1rejVHTUp3RWdiWEJ6NWdWZjltRVQ5UlA5Q1ZUMTBTVXlLczh3SHdlMEp5REJsUDdpamJLajFkMDV4OHVEUS1zTzlycmlCWnZpcldDUFpoQTFWQmRmT0sxaVZ6bk5Eei1CaFNaZFgxMThXV3hscVRlbDd3SQ?oc=5)
-
----
-
 ### [Krebs wegleuchten: Infrarotlicht aktiviert Nano-Medikament](https://news.google.com/rss/articles/CBMibEFVX3lxTE03LXVqX0M4a1c4MldFTFVQelVoUTZRTnp3X00zSGtFSEx4Sk9kYkpWRTRSSGZuUTg4b1VYdGkwck0tbnBTd1VXcTdRcmd3azREcElCV2szTU5vYUpiYldWYVoyQVZCVUJoaDF2Ug?oc=5)
 
 2026-05-06 <span class="news-indication-tag">tumor</span>
 
 來源：[Swiss-Press.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE03LXVqX0M4a1c4MldFTFVQelVoUTZRTnp3X00zSGtFSEx4Sk9kYkpWRTRSSGZuUTg4b1VYdGkwck0tbnBTd1VXcTdRcmd3azREcElCV2szTU5vYUpiYldWYVoyQVZCVUJoaDF2Ug?oc=5)
-
----
-
-### [Fundación MAPFRE elige cuatro proyectos finalistas en sus Premios a la Innovación Social 2026](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
-
-2026-05-06 <span class="news-indication-tag">ictus</span>
-
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0FYeDhzVUp0cE1aV2NDMkF1X3VMTWdzRklPX0hibGtqOGFqMHlaU0VzdllBSWd6S1hTdF9TcVBSRDA1d1FlMDRTNnFuRXhmM1BQak5EQ3NVZ3ZKU1hQbW1WMlg5ektQenYwODlpanVTUmlGN2E5Ny1DcWZmZGZSbU9KNC1JLXdIWGJrMlBoYngtSkxwTXpPZnh1bUJnWHRpU1J3N0tKbTRSbzVnWElscktzVi1fQjBNUGxV?oc=5)
-
----
-
-### [Darlington dad with three bowel cancer diagnoses backs Lynch syndrome test roll-out - Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXI2cl9EZm9nN0l0dEsteFYtajhhTlhValRqemVyWk1lUlhXd3Y5SzY1NU1YVC1icGpPVE05cHRYUXY0VWRMMk5Ud0ZqX0JPLUhuc2dVUTZLZVBBQ0M0cWhuNkFKTktjdTRpWlBFaUVIVVc5VTZMTWRkc3RnamtmSjZHdVFhczJnenNNQ1NBMzNHLTdfcl9nV1V3MWnSAaIBQVVfeXFMTlNCNVFuZVFVQkp3ZW1KWDhvdFhlb0JoMV9SU2cyRGF0eV9VZVk4emRDYkJjMGgxdkNDQUFxX0g1d1IwSU9lMTVBTklIYU10QjdLUGNUZ3NSYmUxX1JvWG9hVjZOa3VrWkhtMXBVeDRDRzEtNWhxVmY2UGJhcFBpVnVFNGkxVm9rc2t0MWJVWjl5OFZwVFZ3SHBNY296M2F6WWtR?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span>
-
-來源：[Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXI2cl9EZm9nN0l0dEsteFYtajhhTlhValRqemVyWk1lUlhXd3Y5SzY1NU1YVC1icGpPVE05cHRYUXY0VWRMMk5Ud0ZqX0JPLUhuc2dVUTZLZVBBQ0M0cWhuNkFKTktjdTRpWlBFaUVIVVc5VTZMTWRkc3RnamtmSjZHdVFhczJnenNNQ1NBMzNHLTdfcl9nV1V3MWnSAaIBQVVfeXFMTlNCNVFuZVFVQkp3ZW1KWDhvdFhlb0JoMV9SU2cyRGF0eV9VZVk4emRDYkJjMGgxdkNDQUFxX0g1d1IwSU9lMTVBTklIYU10QjdLUGNUZ3NSYmUxX1JvWG9hVjZOa3VrWkhtMXBVeDRDRzEtNWhxVmY2UGJhcFBpVnVFNGkxVm9rc2t0MWJVWjl5OFZwVFZ3SHBNY296M2F6WWtR?oc=5)
 
 ---
 
@@ -323,22 +315,6 @@ permalink: /news/amlodipine/
 2026-05-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
-
----
-
-### [Both very low and very high heart rates may be linked to higher stroke risk, study says - Live Science](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZElDd2lsQ1pCb1dSeGhEUy1pelVNM2NydTFtTHlzTW5jak9ZNWJ3dUZVU2lwMl80d1hVSGx4N2RtR2RXaE94UE9reDFma294WDhPZFpWLUZDLTBIWGJ4cDNwNWp5cmIwYWxHNmVjaW16TkFMeG5XMlZvVjJVRVljR3BPWDk4bTBJZklKYXgxNVc0LUtwclVBWUJzTHJoQXFMUG9HNF9UMWJrZF9uQXNCMlJZSnUxTl9hNHBvS2QxRjNoVmV3a0VjZW81RWd6UVdicS1oOTdR?oc=5)
-
-2026-05-05 <span class="news-indication-tag">stroke</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZElDd2lsQ1pCb1dSeGhEUy1pelVNM2NydTFtTHlzTW5jak9ZNWJ3dUZVU2lwMl80d1hVSGx4N2RtR2RXaE94UE9reDFma294WDhPZFpWLUZDLTBIWGJ4cDNwNWp5cmIwYWxHNmVjaW16TkFMeG5XMlZvVjJVRVljR3BPWDk4bTBJZklKYXgxNVc0LUtwclVBWUJzTHJoQXFMUG9HNF9UMWJrZF9uQXNCMlJZSnUxTl9hNHBvS2QxRjNoVmV3a0VjZW81RWd6UVdicS1oOTdR?oc=5)
-
----
-
-### [Un brote mortal de hantavirus confina a cinco catalanes en un crucero en Cabo Verde - El Triangle](https://news.google.com/rss/articles/CBMizgFBVV95cUxPcE1MZnVzdmlZd0lFM21wbndYYVNyLXlYODlrM2dMbTRENS1YaUVxU0I0eE1CM2lFeTJ2cWlPOUtSOHZKNW55emtYLTByODlrTVlGM0VZQWhuUHNmenRpT2dJc0xuZTM4a1RrM0trT2NxVzZHeFJWdHdqRS0tU3BvdmItQ2pTUFJiS1MyMWZUdUZrODBWaVBjUkU2eDNycXljOHFJWWxUVEYxbHBzU2EzeFQtOC1fTFZHQ0FseHB2c0t5XzJMa1FhM2FDYldpUdIB0wFBVV95cUxOMHRHeGVnOHFxMHNydHlfNlh3OEFRWWRvYTJHbVczM3BES0otU2taenV0aU9rOFhnMktITG5fWHlMLTMteGxsLWFzSFN4THo4N1Uzc1BCSlktT0lRNFJrZHJwXzVKRkFhVnhFNzVGbjQ2eTJpc2djeW9BZk9CRFJ3Z2Y4QlpHWU9NLXhoRENVZFpDLUgwM1hZeGNuczd0ZDR1QUpQbzA0QUt3VjJkWEJTODNob3E1b1pWdU56bHNWeGZFMFh6RzY0Z0xGVmZrUm9KeW1j?oc=5)
-
-2026-05-05 <span class="news-drug-tag">Amlodipine</span>
-
-來源：[El Triangle](https://news.google.com/rss/articles/CBMizgFBVV95cUxPcE1MZnVzdmlZd0lFM21wbndYYVNyLXlYODlrM2dMbTRENS1YaUVxU0I0eE1CM2lFeTJ2cWlPOUtSOHZKNW55emtYLTByODlrTVlGM0VZQWhuUHNmenRpT2dJc0xuZTM4a1RrM0trT2NxVzZHeFJWdHdqRS0tU3BvdmItQ2pTUFJiS1MyMWZUdUZrODBWaVBjUkU2eDNycXljOHFJWWxUVEYxbHBzU2EzeFQtOC1fTFZHQ0FseHB2c0t5XzJMa1FhM2FDYldpUdIB0wFBVV95cUxOMHRHeGVnOHFxMHNydHlfNlh3OEFRWWRvYTJHbVczM3BES0otU2taenV0aU9rOFhnMktITG5fWHlMLTMteGxsLWFzSFN4THo4N1Uzc1BCSlktT0lRNFJrZHJwXzVKRkFhVnhFNzVGbjQ2eTJpc2djeW9BZk9CRFJ3Z2Y4QlpHWU9NLXhoRENVZFpDLUgwM1hZeGNuczd0ZDR1QUpQbzA0QUt3VjJkWEJTODNob3E1b1pWdU56bHNWeGZFMFh6RzY0Z0xGVmZrUm9KeW1j?oc=5)
 
 ---
 

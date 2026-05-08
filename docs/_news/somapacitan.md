@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
+
+2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
+
+---
 
 ### [All'Ospedale Maggiore utilizzato un nuovo farmaco per il diabete 1 - Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Regio: Universitätsklinikum Freiburg: MRT zeigt besser als BMI, wann Körperfett gefährlich wird - MRT-Analyse von Fett- und Muskelverteilung bei mehr als 66.000 Personen liefert präzisere Einschätzung der Gesundheitsrisiken](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
+### [„Nur Sonne wird am Ende des Tages nicht reichen“ - Rheinische Anzeigenblätter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV192X2l3TkZRWF90bW9MYTBRVGZxNVJ6RWw2WGV0Nl9pUTMtMUxfR3lSWXZ2cW95NVBzRDF0eTNCbDFMb3d4ZXNqR0Z4NWNBSGctdUZ1Q2hMNDNFMzhtdmJud0xsRDFzWGkydEc1bDZmanlTQVAzVlVHT25nQmd6SnNMTjNDemh4NUh3RUFDX1lTRkVCZTFfZnNNOVhiRmphUjhwWlNoR3RFQVQ1TmZ2bnJRSDhqZWZMSDlULVZ2b2piZw?oc=5)
 
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[RegioTrends.de](https://news.google.com/rss/articles/CBMipANBVV95cUxNRVpVWDRSREVrbzA0VEw2M0xwS3NyZ19PWTh0M0xKLTUwdHNvdGp6aXQzMTk3cnQzUlplTC1HTEpXVDVLaXJ4VUN6TmxmQU0wOXAxRVl2Z2VLWmRtcE1KYnRGRkJZUEozeWlZZVhJcWVocXh4ODFIYnRCSGxjU3hOaW5jZ3FMeHYxNUl6S1hXVS0zLThCSmJaUUJrZUhSdEV3WmJRYzJkTnhyWlp1dUhHQ2s3WTIwODctQ2hxUGQ2SVZocFFCTUVRTWpVZ0JzV2hJb3hMZU80ZkwxSkVvV3RGal8tWGw4VlVmRmtKSlNZbmdPT1hCdkU1RjZYVUlUYkdTUktfOFNuMjRaZk92OEREaWpVMTlrYjMxblRrb2luSi1sSjRVSDVqMzhfaHVOaU1jWTlFNXdEZTNzZ2JYcGNVS2s2NGFSblMxMHNGQkJJNzduMGpheGhJRHR1S3M2TnVmS3lmNTB6aVdlSHRUbExINUtqNndRamZkOFRYaW1IX0dQdllSVm4zZ016VG5haHJ1d1JDRkJIcTBITjdvdHJ6WnktaUI?oc=5)
+來源：[Rheinische Anzeigenblätter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV192X2l3TkZRWF90bW9MYTBRVGZxNVJ6RWw2WGV0Nl9pUTMtMUxfR3lSWXZ2cW95NVBzRDF0eTNCbDFMb3d4ZXNqR0Z4NWNBSGctdUZ1Q2hMNDNFMzhtdmJud0xsRDFzWGkydEc1bDZmanlTQVAzVlVHT25nQmd6SnNMTjNDemh4NUh3RUFDX1lTRkVCZTFfZnNNOVhiRmphUjhwWlNoR3RFQVQ1TmZ2bnJRSDhqZWZMSDlULVZ2b2piZw?oc=5)
 
 ---
 
@@ -94,14 +102,6 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Vitamin-D-Mangel wegen Sonnencreme? Arzt gibt wichtigen Tipp für den Sommer - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHAybTdkekdCRzduVWdnc1J4c25yZXhyUXRzTEhVNDlBLXU4a2RqQ2U1NEpPbHAyejdJT3EzQUh3Q25oQmpiM1FJOXVGQVl2UWpIQUhzMEJkSVl4ZndZaGdKajhYOTlZdm0tVUJvWkJYU3lkMDFYWDhxd3NmbkFuZGZ6VjdDMkdJZUxGMXdHTk53ZllsTk45dzFjVzk1Y1RfVTNIZHZpTk5CMjlFYVphZ09PTTB0eGlxZzRV?oc=5)
-
-2026-05-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHAybTdkekdCRzduVWdnc1J4c25yZXhyUXRzTEhVNDlBLXU4a2RqQ2U1NEpPbHAyejdJT3EzQUh3Q25oQmpiM1FJOXVGQVl2UWpIQUhzMEJkSVl4ZndZaGdKajhYOTlZdm0tVUJvWkJYU3lkMDFYWDhxd3NmbkFuZGZ6VjdDMkdJZUxGMXdHTk53ZllsTk45dzFjVzk1Y1RfVTNIZHZpTk5CMjlFYVphZ09PTTB0eGlxZzRV?oc=5)
-
----
-
 ### [Los expertos en asma coinciden: estás usando mal el inhalador y aumenta el riesgo de crisis respiratoria](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
 
 2026-05-07 <span class="news-indication-tag">asma</span>
@@ -115,14 +115,6 @@ permalink: /news/somapacitan/
 2026-05-06 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
-
----
-
-### [Asthma patients urged to 'call GP' as NICE issues salbutamol blue inhaler warning - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
-
-2026-05-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0JsQm01djNoWWNZVUV4VHhTbTdfOVNycEI0UFFneUpJR2plUjI3SXdWRlFhS0VxS1RfcDlZOWt0RXI5SjZ6M3lpeDF2djgyN0JZTzQ0ak51eW5kLVZRa0JqM05wOTUtcmNkM285dnBwdHlxOUpDVDNoS005RGZBcQ?oc=5)
 
 ---
 

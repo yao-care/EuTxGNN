@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。16 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>16 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,29 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（10 則）
 
-### [Hantavirus, un caso in Svizzera e uno in Olanda. Oms: "Non è pandemia o epidemia". LIVE - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
+### [Hantavirus, caccia a contatti passeggeri. Ue attiva meccanismo protezione civile - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
 
 2026-05-07
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
-
----
-
-### [NHS cancer nurses exposed to toxic chemicals linked to miscarriage, due to inadequate PPE - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaldrS1F6ZE80R3lfTjRuUU1uRFdLNDFRVXZ4X1FEdFdOYkRvU2dkMXAxNU9CekhrbnlwU09qbTRfNklZbnBlcmsya2FqQ0dYNkJuaHJtYlAxb3ZyS1JhdWZ0SWZ5WlE3blNadUtQVzJ5b3VkNUJsQkJTYlU4VzVMWFQ0ZWl6TU1WQUQ1NElLdDExTWNOMm54RUM4eWJYcnpYcmFwTkxVTndpRlEtSnQw?oc=5)
-
-2026-05-07
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaldrS1F6ZE80R3lfTjRuUU1uRFdLNDFRVXZ4X1FEdFdOYkRvU2dkMXAxNU9CekhrbnlwU09qbTRfNklZbnBlcmsya2FqQ0dYNkJuaHJtYlAxb3ZyS1JhdWZ0SWZ5WlE3blNadUtQVzJ5b3VkNUJsQkJTYlU4VzVMWFQ0ZWl6TU1WQUQ1NElLdDExTWNOMm54RUM4eWJYcnpYcmFwTkxVTndpRlEtSnQw?oc=5)
-
----
-
-### [Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xN1gyRkkwMWFuRDB4ZmxhMnpkVjUtMmcyaTNXNHZjckIyYTA2NHRTSWxLeTdSUnN0U29TWHJFZWpTdnp2VTA5c3FyU2hOZjNIbDFGQm5RVFhvMnFG?oc=5)
-
-2026-05-07
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xN1gyRkkwMWFuRDB4ZmxhMnpkVjUtMmcyaTNXNHZjckIyYTA2NHRTSWxLeTdSUnN0U29TWHJFZWpTdnp2VTA5c3FyU2hOZjNIbDFGQm5RVFhvMnFG?oc=5)
 
 ---
 
@@ -96,14 +80,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [First symptoms of 'coke nose' explained as people issued severe warning](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGVBZ1dUREZZZ2tYNEFRSWhQZGp4MXJSd2w2UmN0NnllemctbHdKMlFtcE5lbzlzbnJwNVNYel94enEyLVpKV0R4THJWSkVNdjFiRWxZN0pXOE1zb3FyaF9qaHVoSXVXUTFrZTNWV3pjRkNBVHY0TnZwamJ3WjFPN3psN0Q2WmduRVhZZUlRQUZwX0N2NERFM0ZUU0M3YmRlMy0yZUlPUEs3dw?oc=5)
-
-2026-05-06
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGVBZ1dUREZZZ2tYNEFRSWhQZGp4MXJSd2w2UmN0NnllemctbHdKMlFtcE5lbzlzbnJwNVNYel94enEyLVpKV0R4THJWSkVNdjFiRWxZN0pXOE1zb3FyaF9qaHVoSXVXUTFrZTNWV3pjRkNBVHY0TnZwamJ3WjFPN3psN0Q2WmduRVhZZUlRQUZwX0N2NERFM0ZUU0M3YmRlMy0yZUlPUEs3dw?oc=5)
-
----
-
 ### [FÜR RAFIA](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
 
 2026-05-06
@@ -120,19 +96,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### ['Contact your GP' with two symptoms, Scots health chiefs warn in May alert - Daily Record](https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUVKOWZDTE9VWWF5bklJdkQ1WjUyU1VZbVJBX0dFVDFRR0VPNjA3UDhBUFI0M2ZURU9Wck9YNzNDMHZ2eXMzRFdBelM3dVUyTU5oNzQwOFhGeVB1SzJaVy1HUnV2VV9hOE5tc2xoRVFFVUl0YVF5MlFMMmh5TDZrLXF3N0hWQdIBiwFBVV95cUxNMnpvODBSN3otMVV1TUFVUkFHd25TWC0yaHIwWXNKMC02eERpZklKdFRnX1JudGtQWDl2bGZTeUp2bUtYRmlqLVpVZkwxdGtiVWx5bWlaemNCWngxdXk2M0FYWG9Tb25TVEhkVkp2ZXMwY0k5X3lmMEdnMzAwS200VWZTVVMxRHpwcldV?oc=5)
+
+2026-05-06
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUVKOWZDTE9VWWF5bklJdkQ1WjUyU1VZbVJBX0dFVDFRR0VPNjA3UDhBUFI0M2ZURU9Wck9YNzNDMHZ2eXMzRFdBelM3dVUyTU5oNzQwOFhGeVB1SzJaVy1HUnV2VV9hOE5tc2xoRVFFVUl0YVF5MlFMMmh5TDZrLXF3N0hWQdIBiwFBVV95cUxNMnpvODBSN3otMVV1TUFVUkFHd25TWC0yaHIwWXNKMC02eERpZklKdFRnX1JudGtQWDl2bGZTeUp2bUtYRmlqLVpVZkwxdGtiVWx5bWlaemNCWngxdXk2M0FYWG9Tb25TVEhkVkp2ZXMwY0k5X3lmMEdnMzAwS200VWZTVVMxRHpwcldV?oc=5)
+
+---
+
 ### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
 
 2026-05-06
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
-
----
-
-### [Tick warning as Lyme disease risk hits peak - Donegal Daily](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXFXQ1BXTmVhZXVHbDRldTVjblZyV1E5bVowbFp2UlZTWVJwaEJQQ1dQZFZxQU4teWNqVVFDODRRTlNvSVFVUDc4bmN3RlF6UjNKdFYtUk9rX3pGd1FJYmJhUDZFQ0RXUjZ4cURlc0tPelczR0NOdXhrYXF0YXViVTdMZmY1ZlNHRDlFSw?oc=5)
-
-2026-05-06
-
-來源：[Donegal Daily](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXFXQ1BXTmVhZXVHbDRldTVjblZyV1E5bVowbFp2UlZTWVJwaEJQQ1dQZFZxQU4teWNqVVFDODRRTlNvSVFVUDc4bmN3RlF6UjNKdFYtUk9rX3pGd1FJYmJhUDZFQ0RXUjZ4cURlc0tPelczR0NOdXhrYXF0YXViVTdMZmY1ZlNHRDlFSw?oc=5)
 
 ---
 
@@ -152,35 +128,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Bournemouth triage system aims to reduce patient numbers in A&E](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVXU2bmp2OGxWX3NyM2tjQXlpYXl3TjJoMjNHU0VYZXBOaVlkV1FMOUxMSWhfcVFBTF96cjFxM2VTeW9tOTRFN1FOY1VwQ1ZSX3pFc1o0RVJoVktG?oc=5)
-
-2026-05-06
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVXU2bmp2OGxWX3NyM2tjQXlpYXl3TjJoMjNHU0VYZXBOaVlkV1FMOUxMSWhfcVFBTF96cjFxM2VTeW9tOTRFN1FOY1VwQ1ZSX3pFc1o0RVJoVktG?oc=5)
-
----
-
-### ['I don't want my multiple sclerosis to win', Shirley woman says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13ajEzR1J1QkZNUjBQMm1mYkVYVjlzYk8xTi16RTZfaVA1X1JscjY1cnV6dnRnU2xYMmJnSlNQVmtCdTdZVHFQQWx2YXVlYlo4cUFWc1d6Q3o4cjAt?oc=5)
-
-2026-05-06
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13ajEzR1J1QkZNUjBQMm1mYkVYVjlzYk8xTi16RTZfaVA1X1JscjY1cnV6dnRnU2xYMmJnSlNQVmtCdTdZVHFQQWx2YXVlYlo4cUFWc1d6Q3o4cjAt?oc=5)
-
----
-
 ### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
 
 2026-05-06
 
 來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
----
-
-### [Women Face Much Higher MS Risk. A New Discovery May Help Explain Why.](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXlNMENwdFVXZndlQXBrRlJ4aWk2bDk5MzNUSG9za09qYUNmLVhJeDJjemppUU9jUG52OEZPZV9Ha250RTlrR2hEdGkxbVBJREhQZkVfamc2YXpFTWh0dGFiWVpSd29OZExBNzYxU0ZTcVVhM0lGamNkalU0ck9WZ21teXd3cGVIeHJWQWlpa3QzNkZicGdRS3V4WkQ?oc=5)
-
-2026-05-06
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXlNMENwdFVXZndlQXBrRlJ4aWk2bDk5MzNUSG9za09qYUNmLVhJeDJjemppUU9jUG52OEZPZV9Ha250RTlrR2hEdGkxbVBJREhQZkVfamc2YXpFTWh0dGFiWVpSd29OZExBNzYxU0ZTcVVhM0lGamNkalU0ck9WZ21teXd3cGVIeHJWQWlpa3QzNkZicGdRS3V4WkQ?oc=5)
 
 ---
 
