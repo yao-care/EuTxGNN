@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression（depression） 相關新聞"
+title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# dépression（depression） 相關新聞
+# depression 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depression 有什麼相關新聞？">
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Hirngesundheit: Neue Forschung zeigt, wie wir unser Gehirn schützen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk5HTElDRXJYandoZTVLOFFRckxZSFh0S0c4R2d6S0tMaHh3eW0tU2lCc2VlSUFzVmRROXlWeFRQcDF2YzBGaHBWY3lGM2d5aDhlX0taUzRWaGpPZWVmVTEzUncxaFk1NEpfZkF6djFiOTVIN0hEcEZpb2g5R3BweTRMX2ZNTFhSV2VKeGQ2NVJFN3o5OVl5aEE2NEN3Z3c4SDRDaTRFWWcwWlNLajJiRzhnSlUtdw?oc=5)
+### [Alzheimer beginnt früher als gedacht: Welche Rolle Vitamin D spielt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3liX1F3NUNseG9ySnZGRGxrM25QV19HMDZlTHBIZFpPUVNEMWlrcjctZk9xSFB3ZllnR05JbENSd1pDekZzdlFTeGVvVkFCWEVuVUhzSWtVaVEyWWRRV0h2enNTTHR5RU8xNDVxSHN4UkY0NExTQzZ6RHRsdW96OTYzY096RWZNZ1JZWDl0empoS3dfSnhCLWRfU1pqaVU3SkdRNkZrSTdUSTV5bTRNR1k2UjZBMmVoTms0U0dWa0E3M1F1MUhXN190cGQ0Nk90?oc=5)
 
 2026-05-08
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk5HTElDRXJYandoZTVLOFFRckxZSFh0S0c4R2d6S0tMaHh3eW0tU2lCc2VlSUFzVmRROXlWeFRQcDF2YzBGaHBWY3lGM2d5aDhlX0taUzRWaGpPZWVmVTEzUncxaFk1NEpfZkF6djFiOTVIN0hEcEZpb2g5R3BweTRMX2ZNTFhSV2VKeGQ2NVJFN3o5OVl5aEE2NEN3Z3c4SDRDaTRFWWcwWlNLajJiRzhnSlUtdw?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3liX1F3NUNseG9ySnZGRGxrM25QV19HMDZlTHBIZFpPUVNEMWlrcjctZk9xSFB3ZllnR05JbENSd1pDekZzdlFTeGVvVkFCWEVuVUhzSWtVaVEyWWRRV0h2enNTTHR5RU8xNDVxSHN4UkY0NExTQzZ6RHRsdW96OTYzY096RWZNZ1JZWDl0empoS3dfSnhCLWRfU1pqaVU3SkdRNkZrSTdUSTV5bTRNR1k2UjZBMmVoTms0U0dWa0E3M1F1MUhXN190cGQ0Nk90?oc=5)
 
 ---
 
@@ -50,14 +50,6 @@ permalink: /news/depression/
 2026-05-06
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN0ozNnpRTGVqYVNBOE1rc1hObW5FRGY3MFZfV0ZOM1FuS1NTWE9YdXdlMUYydkEyaGt4OEEwbWlvUkp4eVBJbmFQeTRDR0dCN0lyTEM5NXZ1OHRla0t1TzlBSGNsVC01WTF0UkhmaWdZREo3OXZCdUpGTHBGWTUzSkZZaURyTWc2QUZZSW1GbkNiMGtOTHgzTDVramVyUnppQk1ZYlNEVjYxSjFMRVBiclZtLTdmMFgtUEpaU3Bwd0d3bHIxX1pKSWFDand5d0hCU1g2RkhzSmtLcV9nTkZpaEVSS1p2YnZtb0VYX2R4QWVfX3k5RjFrbU5wd1JoWnNfSWZ1b21LbkVWNms?oc=5)
-
----
-
-### [Dépression : une simple prise de sang pourrait la détecter avant les premiers symptômes - Les Numériques](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRzFLeUF6Q3ItN1dzTmlaNUhLamJVVlN1S0Jwc1JsRFlVcTB4N0lXUUE3UDBScjJoOVFQenJNRFFNOU5RbXg1eW9zWGNPb1FRZU5vbHo1Q2tEODFoWjg2NWM4SmEtaGVxQ2RqSEhPc256OGh2SWREUXBBUzdzbEpBVXk4aFBuZHFQd0lyZUlNY0UzMUJQV3NVZHZhanl5MldwdGdwdHlic1I2Qnp2LTZjaVdORW1KYU5jc0ZINnZuQ25YZGRpOUxZRXRpbWxlaFZxVXcxajl2UjA?oc=5)
-
-2026-05-06
-
-來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRzFLeUF6Q3ItN1dzTmlaNUhLamJVVlN1S0Jwc1JsRFlVcTB4N0lXUUE3UDBScjJoOVFQenJNRFFNOU5RbXg1eW9zWGNPb1FRZU5vbHo1Q2tEODFoWjg2NWM4SmEtaGVxQ2RqSEhPc256OGh2SWREUXBBUzdzbEpBVXk4aFBuZHFQd0lyZUlNY0UzMUJQV3NVZHZhanl5MldwdGdwdHlic1I2Qnp2LTZjaVdORW1KYU5jc0ZINnZuQ25YZGRpOUxZRXRpbWxlaFZxVXcxajl2UjA?oc=5)
 
 ---
 

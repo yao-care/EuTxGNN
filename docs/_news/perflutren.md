@@ -14,7 +14,7 @@ permalink: /news/perflutren/
 ---
 
 <p class="key-answer" data-question="Perflutren 有什麼相關新聞？">
-<strong>Perflutren</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perflutren</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/perflutren/
 <p><a href="{{ '/drugs/perflutren/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [HM Hospitales estrena en Barcelona su primera Unidad de Cardiopatías Congénitas con técnicas mínimamente invasivas](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0Y4VFd2SnBsVjFWTkU2ZVA3UGN5TWpiQUU2ejFkQjluUEtxWG9KQUJEQlEtanJ4ZjJnczhqSE9rMVBGTkV6ak9HR3JfOUVoemtXaVRseENoM1owUmtma19HM0l1VTVqQVJJTHpwNXJzd2lOcU9YdG1Ha21CTFJrQlRZRnNoczZXSE92VUc4VGdHd1Q3RE8yVlo4RER2NnltR1R6YktpUGZpYVJqMm1FdkNQX184SllvQXc1N0JSNUJIR2otekZYNE5LRVU1RUptVmxabjZFdEg3S2pKc3M1Y09n0gHnAUFVX3lxTFBwandTX0RSVU5TdXc1b2owVFpyZTNTWno4YXJjam5pY281THY5WllUdHg0dDZ6cVJXbDlzQmFiYVNMX2F3Z2JUME1obE1Ed1pUMlcwOThmOFhDTVBvOWNkNElMZkdtMTNHYjh5bjBoaFZ1aVhVVjJlcTZjSFZ1QzlpWUw2RlBCZlVvenB2WElQdzAxQkR6Q0V4OEt6WEhiTGNrMUZ0MU5oUm1PMlh6TEowZU5VYkFyRW9kTU82c1d2a1V6UW8wUnZycl92c2tfT3liNGJuYmxTcWFqalo3ZGtKaWx4UjJtVQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0Y4VFd2SnBsVjFWTkU2ZVA3UGN5TWpiQUU2ejFkQjluUEtxWG9KQUJEQlEtanJ4ZjJnczhqSE9rMVBGTkV6ak9HR3JfOUVoemtXaVRseENoM1owUmtma19HM0l1VTVqQVJJTHpwNXJzd2lOcU9YdG1Ha21CTFJrQlRZRnNoczZXSE92VUc4VGdHd1Q3RE8yVlo4RER2NnltR1R6YktpUGZpYVJqMm1FdkNQX184SllvQXc1N0JSNUJIR2otekZYNE5LRVU1RUptVmxabjZFdEg3S2pKc3M1Y09n0gHnAUFVX3lxTFBwandTX0RSVU5TdXc1b2owVFpyZTNTWno4YXJjam5pY281THY5WllUdHg0dDZ6cVJXbDlzQmFiYVNMX2F3Z2JUME1obE1Ed1pUMlcwOThmOFhDTVBvOWNkNElMZkdtMTNHYjh5bjBoaFZ1aVhVVjJlcTZjSFZ1QzlpWUw2RlBCZlVvenB2WElQdzAxQkR6Q0V4OEt6WEhiTGNrMUZ0MU5oUm1PMlh6TEowZU5VYkFyRW9kTU82c1d2a1V6UW8wUnZycl92c2tfT3liNGJuYmxTcWFqalo3ZGtKaWx4UjJtVQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Cook more at home to reduce ultra-processed food intake, say cardiologist groups - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [El Ozempic también tiene riesgos para el pelo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+### [Los expertos coinciden: el uso del Ozempic y peinados como el 'clean look' aumentan el riesgo de alopecia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJVelpab3luRkFsMGRVLURfcEFlRHNRcDNOZmlRa0VhZGlTRWxCclQxUVlLc2pXOHdCeWNvRHkwMUZLam9FQ2NuTFllWm80Vk1pTnMxTWhiZEphSldGeUh0MU4yUzRBdmVIZVpFQ3FxRzB5UVVXVHVUcWp3NlVaRnpRRjNydTBSeXNCNUI4Q0NxZER1SUl6dGNNSDN5NmtmX1d1Z2h4N0JMRjJ5aHdWdzdGR1ktQUFlMEtYYi1TeUs5RkJYYnpUNGNMVkhYeE1pbXZiMzloSjk?oc=5)
 
 2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJVelpab3luRkFsMGRVLURfcEFlRHNRcDNOZmlRa0VhZGlTRWxCclQxUVlLc2pXOHdCeWNvRHkwMUZLam9FQ2NuTFllWm80Vk1pTnMxTWhiZEphSldGeUh0MU4yUzRBdmVIZVpFQ3FxRzB5UVVXVHVUcWp3NlVaRnpRRjNydTBSeXNCNUI4Q0NxZER1SUl6dGNNSDN5NmtmX1d1Z2h4N0JMRjJ5aHdWdzdGR1ktQUFlMEtYYi1TeUs5RkJYYnpUNGNMVkhYeE1pbXZiMzloSjk?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Ce médicament est désormais le plus vendu au monde : ses effets sont impressionnants - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlMzSzVPVTg0bm5KVG9NVEpnRE9seS1XbzJqclEtUk5PTVZRM2ZsWGFscDVYcE45cjRCX3phTHdHZnpSWmo5ZnN2VHdpLWdUZnZpaUE1YjBuMXUxWXdNV0J6a0w2UHhLanVBUWZ2TkFGZ3o4MG1vNngxLXQ4RHMyX1htRnRJTlJKcWtMSF9zR2NYbDhpSWhDYkZZcThURlJVZWctaU04Z1BrX01OV2hzcWdaUUhIQ3ZLRHNKVQ?oc=5)
-
-2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlMzSzVPVTg0bm5KVG9NVEpnRE9seS1XbzJqclEtUk5PTVZRM2ZsWGFscDVYcE45cjRCX3phTHdHZnpSWmo5ZnN2VHdpLWdUZnZpaUE1YjBuMXUxWXdNV0J6a0w2UHhLanVBUWZ2TkFGZ3o4MG1vNngxLXQ4RHMyX1htRnRJTlJKcWtMSF9zR2NYbDhpSWhDYkZZcThURlJVZWctaU04Z1BrX01OV2hzcWdaUUhIQ3ZLRHNKVQ?oc=5)
-
----
-
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 

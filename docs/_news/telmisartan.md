@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（6 則）
 
 ### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
@@ -70,22 +70,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Limitar los cuidados en el ictus hemorrágico: por qué los médicos advierten del riesgo de una "profecía autocumplida" - Gaceta de salud](https://news.google.com/rss/articles/CBMipgJBVV95cUxQRGNIellLSFdsZEJOWkd4cEJNV3phMVJJQUkzOXhFZHphSWlfU0w4UmZWemhwS0tHSXJEM3JQcTZmS2RpLTlHTmxKLVJXNG5TZE5GOTc4enlZbW0xVVZkWmxRVkl4VzNHR1J3OXE3UnZ1U1Q3YmsyWDFiN0VnUlZrM0V5ZHA5aHUxWVFRSnVReHdKNHRXX09yMWJHT2RYWnJmcE9XVUZUazN3WlV0X0syY2R2WGdzek0xYnRWUnZaUnMzQUJiVWIwRXE3blRpcWNROTdnOGc5RmhSZUZLeE9DNDdyNnp6QWRTTjU2MjFIbC15aGRYVzBvMWNSMlJxLXA1Y1cxZGlESzItVDg1QWc0M2VnSjNmSTljUG40RE4xYjlLV2tFVkE?oc=5)
-
-2026-05-07 <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMipgJBVV95cUxQRGNIellLSFdsZEJOWkd4cEJNV3phMVJJQUkzOXhFZHphSWlfU0w4UmZWemhwS0tHSXJEM3JQcTZmS2RpLTlHTmxKLVJXNG5TZE5GOTc4enlZbW0xVVZkWmxRVkl4VzNHR1J3OXE3UnZ1U1Q3YmsyWDFiN0VnUlZrM0V5ZHA5aHUxWVFRSnVReHdKNHRXX09yMWJHT2RYWnJmcE9XVUZUazN3WlV0X0syY2R2WGdzek0xYnRWUnZaUnMzQUJiVWIwRXE3blRpcWNROTdnOGc5RmhSZUZLeE9DNDdyNnp6QWRTTjU2MjFIbC15aGRYVzBvMWNSMlJxLXA1Y1cxZGlESzItVDg1QWc0M2VnSjNmSTljUG40RE4xYjlLV2tFVkE?oc=5)
-
----
-
-### [HM Hospitales estrena en Barcelona su primera Unidad de Cardiopatías Congénitas con técnicas mínimamente invasivas](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0Y4VFd2SnBsVjFWTkU2ZVA3UGN5TWpiQUU2ejFkQjluUEtxWG9KQUJEQlEtanJ4ZjJnczhqSE9rMVBGTkV6ak9HR3JfOUVoemtXaVRseENoM1owUmtma19HM0l1VTVqQVJJTHpwNXJzd2lOcU9YdG1Ha21CTFJrQlRZRnNoczZXSE92VUc4VGdHd1Q3RE8yVlo4RER2NnltR1R6YktpUGZpYVJqMm1FdkNQX184SllvQXc1N0JSNUJIR2otekZYNE5LRVU1RUptVmxabjZFdEg3S2pKc3M1Y09n0gHnAUFVX3lxTFBwandTX0RSVU5TdXc1b2owVFpyZTNTWno4YXJjam5pY281THY5WllUdHg0dDZ6cVJXbDlzQmFiYVNMX2F3Z2JUME1obE1Ed1pUMlcwOThmOFhDTVBvOWNkNElMZkdtMTNHYjh5bjBoaFZ1aVhVVjJlcTZjSFZ1QzlpWUw2RlBCZlVvenB2WElQdzAxQkR6Q0V4OEt6WEhiTGNrMUZ0MU5oUm1PMlh6TEowZU5VYkFyRW9kTU82c1d2a1V6UW8wUnZycl92c2tfT3liNGJuYmxTcWFqalo3ZGtKaWx4UjJtVQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0Y4VFd2SnBsVjFWTkU2ZVA3UGN5TWpiQUU2ejFkQjluUEtxWG9KQUJEQlEtanJ4ZjJnczhqSE9rMVBGTkV6ak9HR3JfOUVoemtXaVRseENoM1owUmtma19HM0l1VTVqQVJJTHpwNXJzd2lOcU9YdG1Ha21CTFJrQlRZRnNoczZXSE92VUc4VGdHd1Q3RE8yVlo4RER2NnltR1R6YktpUGZpYVJqMm1FdkNQX184SllvQXc1N0JSNUJIR2otekZYNE5LRVU1RUptVmxabjZFdEg3S2pKc3M1Y09n0gHnAUFVX3lxTFBwandTX0RSVU5TdXc1b2owVFpyZTNTWno4YXJjam5pY281THY5WllUdHg0dDZ6cVJXbDlzQmFiYVNMX2F3Z2JUME1obE1Ed1pUMlcwOThmOFhDTVBvOWNkNElMZkdtMTNHYjh5bjBoaFZ1aVhVVjJlcTZjSFZ1QzlpWUw2RlBCZlVvenB2WElQdzAxQkR6Q0V4OEt6WEhiTGNrMUZ0MU5oUm1PMlh6TEowZU5VYkFyRW9kTU82c1d2a1V6UW8wUnZycl92c2tfT3liNGJuYmxTcWFqalo3ZGtKaWx4UjJtVQ?oc=5)
-
----
-
 ### [Supplements taken by millions ‘increase heart and stroke risk’ in worrying study - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNazNkUGh4aFRMbWU0bmxJYzN3bEd2ODBTRmdkVmNidWFvRHhxamN5eUQ1ZnJlWnpkWlR3TGUxYklYU3NoekVjVnhsQjFIYjIyVzJFd3ZUTzI4VXZFTXVkN2xVZUZPSTB4YXRua0J2Ql9pRV9tNkVBN00tcUo5Q096VEVfXzMyc29IRDBQcktBWEnSAZYBQVVfeXFMTXN5c2d5M0NQQ2ZianFNTEgwWnB4X3NOLVhUdF95U1kyU1pldGE5UDE4LVhMV19LSkhWOHhXMnR3b3pOMU9zNDJFUGRVT0xzOFMwRS0xZFUzVDdQSDJ3VTFDVmpaQnNVLW1pQW9HUHFmckFCNFZzblNGRWR5OGtMRF9tcUJfbl9uenJESkxRT2poVC1scV9n?oc=5)
 
 2026-05-07 <span class="news-indication-tag">stroke</span>
@@ -94,11 +78,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Auch ein zu niedriger Puls erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+### [Ruhepuls als Schlüssel zur Schlaganfallprävention](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
 
 2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
 
 ---
 
@@ -115,22 +99,6 @@ permalink: /news/telmisartan/
 2026-05-07 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
-
----
-
-### [I'm a Black stroke survivor - we're far more likely than others to suffer](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09yQmwtelZaNTU0UUp3YmxJTl9GM0g3QmM1R2hTMTN2bGhLX0tUblRLRnBGYXZsOXVrTHFXY2FRWFgxX3RHcVdpcTV4SmZUcWlveDhvNk4tdVhSQjFpNXJTeFU1dnJyMzdvLTVYNnlIUVVNV3pVOTJkYk5wRlR1RS1VUm14Zk9Pazlfcm81dUNFeU5PS3lz?oc=5)
-
-2026-05-06 <span class="news-indication-tag">stroke</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09yQmwtelZaNTU0UUp3YmxJTl9GM0g3QmM1R2hTMTN2bGhLX0tUblRLRnBGYXZsOXVrTHFXY2FRWFgxX3RHcVdpcTV4SmZUcWlveDhvNk4tdVhSQjFpNXJTeFU1dnJyMzdvLTVYNnlIUVVNV3pVOTJkYk5wRlR1RS1VUm14Zk9Pazlfcm81dUNFeU5PS3lz?oc=5)
-
----
-
-### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
 
 ---
 

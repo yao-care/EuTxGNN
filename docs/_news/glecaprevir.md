@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
-### [Hantavirus, caccia a contatti passeggeri. Ue attiva meccanismo protezione civile - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
+### [Bundesweite Studie sucht nach den wirksamsten Hygienemaßnahmen - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZIRVh1WTJjRGs3cjdocTg0THV6bUdTUlpIbUpGTnZoU0pETC1Fdk5EMVFSeFF3VEtiaklFLTEtSThhYkFHRkhPczJIMnI2eHNHTWVlTEhPN2VGdVFIV25PVGhiNGxLRFNtZHpUWG9aLWFueXVBVkc3LURrNURiT0wzWjJoaXRBMnBSMzdPTGx4UkNtM3RHSXl3Vkh2U21VQ3MyTkhlOHFlR1k2Wkln?oc=5)
 
 2026-05-08 <span class="news-indication-tag">MS</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZIRVh1WTJjRGs3cjdocTg0THV6bUdTUlpIbUpGTnZoU0pETC1Fdk5EMVFSeFF3VEtiaklFLTEtSThhYkFHRkhPczJIMnI2eHNHTWVlTEhPN2VGdVFIV25PVGhiNGxLRFNtZHpUWG9aLWFueXVBVkc3LURrNURiT0wzWjJoaXRBMnBSMzdPTGx4UkNtM3RHSXl3Vkh2U21VQ3MyTkhlOHFlR1k2Wkln?oc=5)
+
+---
+
+### [Zoonosis o cómo se transmiten los hantavirus de animales a humanos](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2NYLUNlZ1pGaENjdGljYjk3YndqRkIxTEl6OHRnTHVLXzAxYnVJd1A3U3JKNVQ5bE9ObkVxWVAyYngzUlBQenhXOVNScGczT0xEZDFtOHZUQ2FPeTQ2b0hybkxiaFRHQ3hRcTR0R1MtZWZELXY4UUdNUTdEb1FHbGVHVUtKM3RiNm1UbWJfbV9DN0FldGRnMnByNWdzcGRpQjIxSw?oc=5)
+
+2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2NYLUNlZ1pGaENjdGljYjk3YndqRkIxTEl6OHRnTHVLXzAxYnVJd1A3U3JKNVQ5bE9ObkVxWVAyYngzUlBQenhXOVNScGczT0xEZDFtOHZUQ2FPeTQ2b0hybkxiaFRHQ3hRcTR0R1MtZWZELXY4UUdNUTdEb1FHbGVHVUtKM3RiNm1UbWJfbV9DN0FldGRnMnByNWdzcGRpQjIxSw?oc=5)
+
+---
+
+### [El brote del crucero apunta a contagios en espacios cerrados, pero la OMS mantiene que el riesgo es bajo](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFVOb2dESmFZeGZHMlpfX0xpQUJrbm1GWm5renNYQ21fLWtwM2s3enZyV1ZqcnhSUFpWRFUwTnotSUxfV3FvVGVLRlowLVI0QlpTOGUxVUcwaW5QM05TX2gzQnJJOHZvQXVwV0t0TGFLWDNxZWZUWmtyY3RSU3NYbTNVcjhGeENadFJJWnlabll0bDN0SUR4ekM4SlRKZGhhQmfSAacBQVVfeXFMTTZQNkRNcHZzWVQxZDVrakppMzdWbzNzRXVtSlZZRkdoeXFqX2YyQ00ySjcxRmlpLUhmd2p2aGI0Rm5RWUpwdVVrV2h1Nl9tSXh4dnhwSEVCajdteU9VN0swSDJKcmdNZUtwWUQzTTVjRUJJX2dDN0ktM3RQVER0UFU3STBnN1FhXy1NeW5ZOGFGc0p3LTlBa0FOVlhZVTRFR0hvMURpNjA?oc=5)
+
+2026-05-08 <span class="news-indication-tag">MS</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFVOb2dESmFZeGZHMlpfX0xpQUJrbm1GWm5renNYQ21fLWtwM2s3enZyV1ZqcnhSUFpWRFUwTnotSUxfV3FvVGVLRlowLVI0QlpTOGUxVUcwaW5QM05TX2gzQnJJOHZvQXVwV0t0TGFLWDNxZWZUWmtyY3RSU3NYbTNVcjhGeENadFJJWnlabll0bDN0SUR4ekM4SlRKZGhhQmfSAacBQVVfeXFMTTZQNkRNcHZzWVQxZDVrakppMzdWbzNzRXVtSlZZRkdoeXFqX2YyQ00ySjcxRmlpLUhmd2p2aGI0Rm5RWUpwdVVrV2h1Nl9tSXh4dnhwSEVCajdteU9VN0swSDJKcmdNZUtwWUQzTTVjRUJJX2dDN0ktM3RQVER0UFU3STBnN1FhXy1NeW5ZOGFGc0p3LTlBa0FOVlhZVTRFR0hvMURpNjA?oc=5)
 
 ---
 
@@ -90,7 +106,7 @@ permalink: /news/glecaprevir/
 
 2026-05-07 <span class="news-indication-tag">MS</span>
 
-來源：[telecinco.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXZMM2lQYXNKcTdDcFV0TWlWU2xoand2R0JnRGJpVjBHZ3RLc09MWTB1cUJ5YTZJMV95VmF0VVhndGZBOFBGV1VWc21BS2huMEF4NjBOeXVnV0VMZzM0ZWJLY281TTVKVkNSR0F4b0s0S2FTTXpNYWVtTUw1Y3BkZzh0a01FMVhwUWx5TElkYzFabFk0VUNJc0pNQjllNE85Q3NtakgxcEpnbDk0RmpsQzd1R0JYWlBPeTRDbFhTQ25MeFhLYlpMUGlneTZpUEFaME1hM2FWTnIyZlFra0E?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXZMM2lQYXNKcTdDcFV0TWlWU2xoand2R0JnRGJpVjBHZ3RLc09MWTB1cUJ5YTZJMV95VmF0VVhndGZBOFBGV1VWc21BS2huMEF4NjBOeXVnV0VMZzM0ZWJLY281TTVKVkNSR0F4b0s0S2FTTXpNYWVtTUw1Y3BkZzh0a01FMVhwUWx5TElkYzFabFk0VUNJc0pNQjllNE85Q3NtakgxcEpnbDk0RmpsQzd1R0JYWlBPeTRDbFhTQ25MeFhLYlpMUGlneTZpUEFaME1hM2FWTnIyZlFra0E?oc=5)
 
 ---
 
@@ -102,11 +118,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 
@@ -139,30 +155,6 @@ permalink: /news/glecaprevir/
 2026-05-06 <span class="news-indication-tag">MS</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMigwFBVV95cUxOenhtU1lnT0xwdlhUNlFXWDhWTjJGa1hCLURpS25ZNXVPUkxHX2o1RC12TUVUNzVwdVZsaUJXeWstaTlqbHNtWXZ2dzBoSVdsUGJGR2EtQVhpTkFJbEhqOUswVm5Nd0w1TmpPWlVNd1hITXhha0xScFN5TThXNG13WjBGZw?oc=5)
-
----
-
-### ['Contact your GP' with two symptoms, Scots health chiefs warn in May alert - Daily Record](https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUVKOWZDTE9VWWF5bklJdkQ1WjUyU1VZbVJBX0dFVDFRR0VPNjA3UDhBUFI0M2ZURU9Wck9YNzNDMHZ2eXMzRFdBelM3dVUyTU5oNzQwOFhGeVB1SzJaVy1HUnV2VV9hOE5tc2xoRVFFVUl0YVF5MlFMMmh5TDZrLXF3N0hWQdIBiwFBVV95cUxNMnpvODBSN3otMVV1TUFVUkFHd25TWC0yaHIwWXNKMC02eERpZklKdFRnX1JudGtQWDl2bGZTeUp2bUtYRmlqLVpVZkwxdGtiVWx5bWlaemNCWngxdXk2M0FYWG9Tb25TVEhkVkp2ZXMwY0k5X3lmMEdnMzAwS200VWZTVVMxRHpwcldV?oc=5)
-
-2026-05-06 <span class="news-indication-tag">MS</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUVKOWZDTE9VWWF5bklJdkQ1WjUyU1VZbVJBX0dFVDFRR0VPNjA3UDhBUFI0M2ZURU9Wck9YNzNDMHZ2eXMzRFdBelM3dVUyTU5oNzQwOFhGeVB1SzJaVy1HUnV2VV9hOE5tc2xoRVFFVUl0YVF5MlFMMmh5TDZrLXF3N0hWQdIBiwFBVV95cUxNMnpvODBSN3otMVV1TUFVUkFHd25TWC0yaHIwWXNKMC02eERpZklKdFRnX1JudGtQWDl2bGZTeUp2bUtYRmlqLVpVZkwxdGtiVWx5bWlaemNCWngxdXk2M0FYWG9Tb25TVEhkVkp2ZXMwY0k5X3lmMEdnMzAwS200VWZTVVMxRHpwcldV?oc=5)
-
----
-
-### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
-
----
-
-### [As people become more physically fit, their brains become better at reaping the benefits of a single workout](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
-
-2026-05-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
 
 ---
 

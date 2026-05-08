@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Blue asthma inhaler users issued urgent warning to call GP](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
 
@@ -90,6 +90,14 @@ permalink: /news/asthma/
 2026-05-07
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
+
+---
+
+### [Il vaccino? Efficace... un po': quante non risposte da Magrini - La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1BVbkRTYXNrWjNmNkNrcjdvR3Y0N01BYUR5Q2h5WnJuVG11VlBYbm5GTTlLU3A1MGltNkx5ZDhVbTlkUUNJWnBTU25nVl92X1llMzFTVEtkdGJIZWdUSkc5Y2NMTHBVQjl5a1hVeFZjaGE4QjVGVW9fNGVmTXotcDJWWmdmS3c?oc=5)
+
+2026-05-07
+
+來源：[La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1BVbkRTYXNrWjNmNkNrcjdvR3Y0N01BYUR5Q2h5WnJuVG11VlBYbm5GTTlLU3A1MGltNkx5ZDhVbTlkUUNJWnBTU25nVl92X1llMzFTVEtkdGJIZWdUSkc5Y2NMTHBVQjl5a1hVeFZjaGE4QjVGVW9fNGVmTXotcDJWWmdmS3c?oc=5)
 
 ---
 

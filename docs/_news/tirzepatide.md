@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Ce médicament est désormais le plus vendu au monde : ses effets sont impressionnants - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlMzSzVPVTg0bm5KVG9NVEpnRE9seS1XbzJqclEtUk5PTVZRM2ZsWGFscDVYcE45cjRCX3phTHdHZnpSWmo5ZnN2VHdpLWdUZnZpaUE1YjBuMXUxWXdNV0J6a0w2UHhLanVBUWZ2TkFGZ3o4MG1vNngxLXQ4RHMyX1htRnRJTlJKcWtMSF9zR2NYbDhpSWhDYkZZcThURlJVZWctaU04Z1BrX01OV2hzcWdaUUhIQ3ZLRHNKVQ?oc=5)
-
-2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlMzSzVPVTg0bm5KVG9NVEpnRE9seS1XbzJqclEtUk5PTVZRM2ZsWGFscDVYcE45cjRCX3phTHdHZnpSWmo5ZnN2VHdpLWdUZnZpaUE1YjBuMXUxWXdNV0J6a0w2UHhLanVBUWZ2TkFGZ3o4MG1vNngxLXQ4RHMyX1htRnRJTlJKcWtMSF9zR2NYbDhpSWhDYkZZcThURlJVZWctaU04Z1BrX01OV2hzcWdaUUhIQ3ZLRHNKVQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### ['I'm a GP and lost six stone on Mounjaro - but I wasn't expecting it to cure my endometriosis' - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
 

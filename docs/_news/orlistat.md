@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [El Ozempic también tiene riesgos para el pelo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+### [Los expertos coinciden: el uso del Ozempic y peinados como el 'clean look' aumentan el riesgo de alopecia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJVelpab3luRkFsMGRVLURfcEFlRHNRcDNOZmlRa0VhZGlTRWxCclQxUVlLc2pXOHdCeWNvRHkwMUZLam9FQ2NuTFllWm80Vk1pTnMxTWhiZEphSldGeUh0MU4yUzRBdmVIZVpFQ3FxRzB5UVVXVHVUcWp3NlVaRnpRRjNydTBSeXNCNUI4Q0NxZER1SUl6dGNNSDN5NmtmX1d1Z2h4N0JMRjJ5aHdWdzdGR1ktQUFlMEtYYi1TeUs5RkJYYnpUNGNMVkhYeE1pbXZiMzloSjk?oc=5)
 
 2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJVelpab3luRkFsMGRVLURfcEFlRHNRcDNOZmlRa0VhZGlTRWxCclQxUVlLc2pXOHdCeWNvRHkwMUZLam9FQ2NuTFllWm80Vk1pTnMxTWhiZEphSldGeUh0MU4yUzRBdmVIZVpFQ3FxRzB5UVVXVHVUcWp3NlVaRnpRRjNydTBSeXNCNUI4Q0NxZER1SUl6dGNNSDN5NmtmX1d1Z2h4N0JMRjJ5aHdWdzdGR1ktQUFlMEtYYi1TeUs5RkJYYnpUNGNMVkhYeE1pbXZiMzloSjk?oc=5)
 
 ---
 
@@ -78,27 +78,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Limitar los cuidados en el ictus hemorrágico: por qué los médicos advierten del riesgo de una "profecía autocumplida" - Gaceta de salud](https://news.google.com/rss/articles/CBMipgJBVV95cUxQRGNIellLSFdsZEJOWkd4cEJNV3phMVJJQUkzOXhFZHphSWlfU0w4UmZWemhwS0tHSXJEM3JQcTZmS2RpLTlHTmxKLVJXNG5TZE5GOTc4enlZbW0xVVZkWmxRVkl4VzNHR1J3OXE3UnZ1U1Q3YmsyWDFiN0VnUlZrM0V5ZHA5aHUxWVFRSnVReHdKNHRXX09yMWJHT2RYWnJmcE9XVUZUazN3WlV0X0syY2R2WGdzek0xYnRWUnZaUnMzQUJiVWIwRXE3blRpcWNROTdnOGc5RmhSZUZLeE9DNDdyNnp6QWRTTjU2MjFIbC15aGRYVzBvMWNSMlJxLXA1Y1cxZGlESzItVDg1QWc0M2VnSjNmSTljUG40RE4xYjlLV2tFVkE?oc=5)
-
-2026-05-07 <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMipgJBVV95cUxQRGNIellLSFdsZEJOWkd4cEJNV3phMVJJQUkzOXhFZHphSWlfU0w4UmZWemhwS0tHSXJEM3JQcTZmS2RpLTlHTmxKLVJXNG5TZE5GOTc4enlZbW0xVVZkWmxRVkl4VzNHR1J3OXE3UnZ1U1Q3YmsyWDFiN0VnUlZrM0V5ZHA5aHUxWVFRSnVReHdKNHRXX09yMWJHT2RYWnJmcE9XVUZUazN3WlV0X0syY2R2WGdzek0xYnRWUnZaUnMzQUJiVWIwRXE3blRpcWNROTdnOGc5RmhSZUZLeE9DNDdyNnp6QWRTTjU2MjFIbC15aGRYVzBvMWNSMlJxLXA1Y1cxZGlESzItVDg1QWc0M2VnSjNmSTljUG40RE4xYjlLV2tFVkE?oc=5)
-
----
-
-### [Ce médicament est désormais le plus vendu au monde : ses effets sont impressionnants - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlMzSzVPVTg0bm5KVG9NVEpnRE9seS1XbzJqclEtUk5PTVZRM2ZsWGFscDVYcE45cjRCX3phTHdHZnpSWmo5ZnN2VHdpLWdUZnZpaUE1YjBuMXUxWXdNV0J6a0w2UHhLanVBUWZ2TkFGZ3o4MG1vNngxLXQ4RHMyX1htRnRJTlJKcWtMSF9zR2NYbDhpSWhDYkZZcThURlJVZWctaU04Z1BrX01OV2hzcWdaUUhIQ3ZLRHNKVQ?oc=5)
-
-2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlMzSzVPVTg0bm5KVG9NVEpnRE9seS1XbzJqclEtUk5PTVZRM2ZsWGFscDVYcE45cjRCX3phTHdHZnpSWmo5ZnN2VHdpLWdUZnZpaUE1YjBuMXUxWXdNV0J6a0w2UHhLanVBUWZ2TkFGZ3o4MG1vNngxLXQ4RHMyX1htRnRJTlJKcWtMSF9zR2NYbDhpSWhDYkZZcThURlJVZWctaU04Z1BrX01OV2hzcWdaUUhIQ3ZLRHNKVQ?oc=5)
-
----
-
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 
@@ -107,6 +91,14 @@ permalink: /news/orlistat/
 2026-05-07 <span class="news-indication-tag">stroke</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNazNkUGh4aFRMbWU0bmxJYzN3bEd2ODBTRmdkVmNidWFvRHhxamN5eUQ1ZnJlWnpkWlR3TGUxYklYU3NoekVjVnhsQjFIYjIyVzJFd3ZUTzI4VXZFTXVkN2xVZUZPSTB4YXRua0J2Ql9pRV9tNkVBN00tcUo5Q096VEVfXzMyc29IRDBQcktBWEnSAZYBQVVfeXFMTXN5c2d5M0NQQ2ZianFNTEgwWnB4X3NOLVhUdF95U1kyU1pldGE5UDE4LVhMV19LSkhWOHhXMnR3b3pOMU9zNDJFUGRVT0xzOFMwRS0xZFUzVDdQSDJ3VTFDVmpaQnNVLW1pQW9HUHFmckFCNFZzblNGRWR5OGtMRF9tcUJfbl9uenJESkxRT2poVC1scV9n?oc=5)
+
+---
+
+### [Ruhepuls als Schlüssel zur Schlaganfallprävention](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
 
 ---
 
@@ -126,14 +118,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Auch ein zu niedriger Puls erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
-
-2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
-
----
-
 ### [Lacunar strokes caused by widening of arteries in brain, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
 
 2026-05-07 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -147,14 +131,6 @@ permalink: /news/orlistat/
 2026-05-06 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
-
----
-
-### [I'm a Black stroke survivor - we're far more likely than others to suffer](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09yQmwtelZaNTU0UUp3YmxJTl9GM0g3QmM1R2hTMTN2bGhLX0tUblRLRnBGYXZsOXVrTHFXY2FRWFgxX3RHcVdpcTV4SmZUcWlveDhvNk4tdVhSQjFpNXJTeFU1dnJyMzdvLTVYNnlIUVVNV3pVOTJkYk5wRlR1RS1VUm14Zk9Pazlfcm81dUNFeU5PS3lz?oc=5)
-
-2026-05-06 <span class="news-indication-tag">stroke</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09yQmwtelZaNTU0UUp3YmxJTl9GM0g3QmM1R2hTMTN2bGhLX0tUblRLRnBGYXZsOXVrTHFXY2FRWFgxX3RHcVdpcTV4SmZUcWlveDhvNk4tdVhSQjFpNXJTeFU1dnJyMzdvLTVYNnlIUVVNV3pVOTJkYk5wRlR1RS1VUm14Zk9Pazlfcm81dUNFeU5PS3lz?oc=5)
 
 ---
 

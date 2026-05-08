@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Un estudio confirma que usar un fármaco tras la trombectomía mejora la recuperación en ictus grave](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemRvOERGZVZNTHJaNzNNWVFFTWZVb0hGajcyWjRMcDRfazNqMlpmOFJoTmpnQW5pc1VJcWY2LTg5VUJEeXhqQnN0OEMxWC12TmVFU1VUVmk3Rk8yRTN0amtzUGdqTWxHczNKMGZBVTFmTFFWREtwU3J6aEJpalNTdWwyUGVqUUluaXEtMV9ITzRsUnZjZ1JLM1ctOFNnWnZXRVR6U2xYWVBFa0loS0ZJc19yTGVxSk9ZQXdkRWRQcDByRVlFNW1Id1VrRGN4SXg1b3IxbERB?oc=5)
 
 2026-05-07 <span class="news-indication-tag">ictus</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemRvOERGZVZNTHJaNzNNWVFFTWZVb0hGajcyWjRMcDRfazNqMlpmOFJoTmpnQW5pc1VJcWY2LTg5VUJEeXhqQnN0OEMxWC12TmVFU1VUVmk3Rk8yRTN0amtzUGdqTWxHczNKMGZBVTFmTFFWREtwU3J6aEJpalNTdWwyUGVqUUluaXEtMV9ITzRsUnZjZ1JLM1ctOFNnWnZXRVR6U2xYWVBFa0loS0ZJc19yTGVxSk9ZQXdkRWRQcDByRVlFNW1Id1VrRGN4SXg1b3IxbERB?oc=5)
-
----
-
-### [Limitar los cuidados en el ictus hemorrágico: por qué los médicos advierten del riesgo de una "profecía autocumplida" - Gaceta de salud](https://news.google.com/rss/articles/CBMipgJBVV95cUxQRGNIellLSFdsZEJOWkd4cEJNV3phMVJJQUkzOXhFZHphSWlfU0w4UmZWemhwS0tHSXJEM3JQcTZmS2RpLTlHTmxKLVJXNG5TZE5GOTc4enlZbW0xVVZkWmxRVkl4VzNHR1J3OXE3UnZ1U1Q3YmsyWDFiN0VnUlZrM0V5ZHA5aHUxWVFRSnVReHdKNHRXX09yMWJHT2RYWnJmcE9XVUZUazN3WlV0X0syY2R2WGdzek0xYnRWUnZaUnMzQUJiVWIwRXE3blRpcWNROTdnOGc5RmhSZUZLeE9DNDdyNnp6QWRTTjU2MjFIbC15aGRYVzBvMWNSMlJxLXA1Y1cxZGlESzItVDg1QWc0M2VnSjNmSTljUG40RE4xYjlLV2tFVkE?oc=5)
-
-2026-05-07 <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMipgJBVV95cUxQRGNIellLSFdsZEJOWkd4cEJNV3phMVJJQUkzOXhFZHphSWlfU0w4UmZWemhwS0tHSXJEM3JQcTZmS2RpLTlHTmxKLVJXNG5TZE5GOTc4enlZbW0xVVZkWmxRVkl4VzNHR1J3OXE3UnZ1U1Q3YmsyWDFiN0VnUlZrM0V5ZHA5aHUxWVFRSnVReHdKNHRXX09yMWJHT2RYWnJmcE9XVUZUazN3WlV0X0syY2R2WGdzek0xYnRWUnZaUnMzQUJiVWIwRXE3blRpcWNROTdnOGc5RmhSZUZLeE9DNDdyNnp6QWRTTjU2MjFIbC15aGRYVzBvMWNSMlJxLXA1Y1cxZGlESzItVDg1QWc0M2VnSjNmSTljUG40RE4xYjlLV2tFVkE?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [Auch ein zu niedriger Puls erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+### [Ruhepuls als Schlüssel zur Schlaganfallprävention](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
 
 2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
 
 ---
 
@@ -91,14 +83,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-05-07 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzU0bjFibXZ6a21SV3hySUh1Q0VlbVBBbWVDQVFsUnlPSnNFUEx3c1lweThOdHRfdEl3OV8xVmxOdjh4ZV9VMDRGVjY3M3BLcEVTa1hiemVfTFc1MWtZXzlwTldHRGVZZmZrbmVJWGpjdDdKZUk4SlVKcTB5Vi1EcTBUQ0t4RmEtQzNCempqZGs1Y2JVWVJBS3lzMEFQMHVqWHc?oc=5)
-
----
-
-### [I'm a Black stroke survivor - we're far more likely than others to suffer](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09yQmwtelZaNTU0UUp3YmxJTl9GM0g3QmM1R2hTMTN2bGhLX0tUblRLRnBGYXZsOXVrTHFXY2FRWFgxX3RHcVdpcTV4SmZUcWlveDhvNk4tdVhSQjFpNXJTeFU1dnJyMzdvLTVYNnlIUVVNV3pVOTJkYk5wRlR1RS1VUm14Zk9Pazlfcm81dUNFeU5PS3lz?oc=5)
-
-2026-05-06 <span class="news-indication-tag">stroke</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09yQmwtelZaNTU0UUp3YmxJTl9GM0g3QmM1R2hTMTN2bGhLX0tUblRLRnBGYXZsOXVrTHFXY2FRWFgxX3RHcVdpcTV4SmZUcWlveDhvNk4tdVhSQjFpNXJTeFU1dnJyMzdvLTVYNnlIUVVNV3pVOTJkYk5wRlR1RS1VUm14Zk9Pazlfcm81dUNFeU5PS3lz?oc=5)
 
 ---
 
