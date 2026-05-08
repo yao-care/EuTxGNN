@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Detectan carencias en el control de la diabetes postparto - IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
+
+2026-05-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
 
@@ -70,19 +78,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Blue asthma inhaler users issued urgent warning to call GP](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
-
----
-
 ### [All'Ospedale Maggiore utilizzato un nuovo farmaco per il diabete 1 - Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabete</span>
 
 來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
+
+---
+
+### [Blue asthma inhaler users issued urgent warning to call GP](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
 
 ---
 
@@ -115,22 +123,6 @@ permalink: /news/somapacitan/
 2026-05-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXRaMHVMdWEtZkp0SEtDXzhKODY4Z3QxMFkxN1JLS3JqV2VXSEtISWpES3RkR1dsa2drZG9mbWptZFFVTGh6dGV0MlFzbWNnN2pVbmI3UG5CdGZzWnlfaERtZmNJWGRlSEF2MDZLUFd2eGsxTllNR29YUzdNZ2FBZ29jLUJKQ1FweWJBcG02TGxfcmtf?oc=5)
-
----
-
-### [Los expertos en asma coinciden: estás usando mal el inhalador y aumenta el riesgo de crisis respiratoria](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
-
-2026-05-07 <span class="news-indication-tag">asma</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
-
----
-
-### [Il vaccino? Efficace... un po': quante non risposte da Magrini - La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1BVbkRTYXNrWjNmNkNrcjdvR3Y0N01BYUR5Q2h5WnJuVG11VlBYbm5GTTlLU3A1MGltNkx5ZDhVbTlkUUNJWnBTU25nVl92X1llMzFTVEtkdGJIZWdUSkc5Y2NMTHBVQjl5a1hVeFZjaGE4QjVGVW9fNGVmTXotcDJWWmdmS3c?oc=5)
-
-2026-05-07 <span class="news-indication-tag">asma</span>
-
-來源：[La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1BVbkRTYXNrWjNmNkNrcjdvR3Y0N01BYUR5Q2h5WnJuVG11VlBYbm5GTTlLU3A1MGltNkx5ZDhVbTlkUUNJWnBTU25nVl92X1llMzFTVEtkdGJIZWdUSkc5Y2NMTHBVQjl5a1hVeFZjaGE4QjVGVW9fNGVmTXotcDJWWmdmS3c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Los expertos coinciden: el uso del Ozempic y peinados como el 'clean look' aumentan el riesgo de alopecia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJVelpab3luRkFsMGRVLURfcEFlRHNRcDNOZmlRa0VhZGlTRWxCclQxUVlLc2pXOHdCeWNvRHkwMUZLam9FQ2NuTFllWm80Vk1pTnMxTWhiZEphSldGeUh0MU4yUzRBdmVIZVpFQ3FxRzB5UVVXVHVUcWp3NlVaRnpRRjNydTBSeXNCNUI4Q0NxZER1SUl6dGNNSDN5NmtmX1d1Z2h4N0JMRjJ5aHdWdzdGR1ktQUFlMEtYYi1TeUs5RkJYYnpUNGNMVkhYeE1pbXZiMzloSjk?oc=5)
+### [Los dermatólogos coinciden: el uso del Ozempic y peinados como el 'clean look' aumentan el riesgo de alopecia en jóvenes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEV5YkZLRjV3RFNuR1dUUk9NcXBoaDBaVVJSbVdxaFhtLXUtVXBabENMYk84ODhpdFpXVHhhU2tIcUVMUTFmVmF0NXRVejEzd3lmV3J5QnNsQ1ZUczdsdS1wUUVzenRzcHBiTVJ1Ynlld2RReGw5TkpERUJaSGVCRF9LcHhPWU0wcVZHZG9ySGNzbjVlUmxIME14QzlaT1liQW9BaU1fNzloekpHa3lmZ2ZJaTZPeWliZTNSUlh5dzZ0WUNkdUVfTUtnZDhBQjlr?oc=5)
 
 2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJVelpab3luRkFsMGRVLURfcEFlRHNRcDNOZmlRa0VhZGlTRWxCclQxUVlLc2pXOHdCeWNvRHkwMUZLam9FQ2NuTFllWm80Vk1pTnMxTWhiZEphSldGeUh0MU4yUzRBdmVIZVpFQ3FxRzB5UVVXVHVUcWp3NlVaRnpRRjNydTBSeXNCNUI4Q0NxZER1SUl6dGNNSDN5NmtmX1d1Z2h4N0JMRjJ5aHdWdzdGR1ktQUFlMEtYYi1TeUs5RkJYYnpUNGNMVkhYeE1pbXZiMzloSjk?oc=5)
+來源：[heraldo.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEV5YkZLRjV3RFNuR1dUUk9NcXBoaDBaVVJSbVdxaFhtLXUtVXBabENMYk84ODhpdFpXVHhhU2tIcUVMUTFmVmF0NXRVejEzd3lmV3J5QnNsQ1ZUczdsdS1wUUVzenRzcHBiTVJ1Ynlld2RReGw5TkpERUJaSGVCRF9LcHhPWU0wcVZHZG9ySGNzbjVlUmxIME14QzlaT1liQW9BaU1fNzloekpHa3lmZ2ZJaTZPeWliZTNSUlh5dzZ0WUNkdUVfTUtnZDhBQjlr?oc=5)
 
 ---
 
@@ -86,19 +86,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### ['I'm a GP and lost six stone on Mounjaro - but I wasn't expecting it to cure my endometriosis' - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
-
-2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
-
----
-
-### [Adipositas-Therapie bei Senioren: Chirurgie schlägt Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
+### [Chirurgische Eingriffe bei Adipositas: Effektiver als Medikamente für Senioren](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGJiaXliNGlkRGZDX2xfMkJTWVBLNU1uVkJaLUlRTHU3Y1VQaDA1NnViaFhqRXJrcVh0TEkyZTQ3Q1BHQ2F6ci1hSEVyaW5ETFBKaDRmb2hKQnJIdk9BdldFWENsVlEwdExQUkp3RF9DYkt1azVIZVFlQzh5NFYxSVY4MVBWNjBJbTVGTnJFUUNTRVpfcHdHRHg5UkxkS05fUE5KVXdpZzFDbWJwUEtF?oc=5)
 
 2026-05-06 <span class="news-indication-tag">Adipositas</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGJiaXliNGlkRGZDX2xfMkJTWVBLNU1uVkJaLUlRTHU3Y1VQaDA1NnViaFhqRXJrcVh0TEkyZTQ3Q1BHQ2F6ci1hSEVyaW5ETFBKaDRmb2hKQnJIdk9BdldFWENsVlEwdExQUkp3RF9DYkt1azVIZVFlQzh5NFYxSVY4MVBWNjBJbTVGTnJFUUNTRVpfcHdHRHg5UkxkS05fUE5KVXdpZzFDbWJwUEtF?oc=5)
 
 ---
 

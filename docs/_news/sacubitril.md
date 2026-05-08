@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
+
+### [Eleven arthritis remedies that really work (and others to be wary of) - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQUzZENldHVkN6TVEtUndPUnlFU3h2LURITXF4NkVWbnRIVWIyM0xBdWpxbG44SFg4VDVMZS1GZ1VQM1U5S25VbU5jSmMxWlRJZzF2am8tejhFbi1NUUw1dnc1RC1GVDhJT29fWW5QWENtbEZPT1VMU2VVeHExV2l6S2pyamI1d1RYSkg3Ty0xSUloSXcwUGFDalloTmtTZw?oc=5)
+
+2026-05-08 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQUzZENldHVkN6TVEtUndPUnlFU3h2LURITXF4NkVWbnRIVWIyM0xBdWpxbG44SFg4VDVMZS1GZ1VQM1U5S25VbU5jSmMxWlRJZzF2am8tejhFbi1NUUw1dnc1RC1GVDhJT29fWW5QWENtbEZPT1VMU2VVeHExV2l6S2pyamI1d1RYSkg3Ty0xSUloSXcwUGFDalloTmtTZw?oc=5)
+
+---
+
+### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
+
+2026-05-08 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
+
+---
+
+### [Detectan carencias en el control de la diabetes postparto - IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
+
+2026-05-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
 

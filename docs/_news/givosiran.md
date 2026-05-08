@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/givosiran/
 2026-05-07 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
-
----
-
-### [El ECDC advierte de que Europa se desvía de los objetivos de la ONU en VIH y hepatitis](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRzdEZkU3N0RXVKU0kwZlhMQVRwODZSeHNTNTRldE1WRVUydFFkRmZVQTBYZlpSZllsT0VETEdYZWV2a21BUkVoY2dSTk1vNjc4UGFtUDRBOXQ2WkV3bkZhTmllUW9UTTZpSzBuSlhZY2ZTemgyR3BDUDlISzRIQVlMZ2JnTUpweF9NSFNLMDIzTklPSThSQ1YxSTJYd09hVlk2V2FuWDZSTnNFdTBSQ0ZhbU92M3Y1YUVjMW5n?oc=5)
-
-2026-05-07 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRzdEZkU3N0RXVKU0kwZlhMQVRwODZSeHNTNTRldE1WRVUydFFkRmZVQTBYZlpSZllsT0VETEdYZWV2a21BUkVoY2dSTk1vNjc4UGFtUDRBOXQ2WkV3bkZhTmllUW9UTTZpSzBuSlhZY2ZTemgyR3BDUDlISzRIQVlMZ2JnTUpweF9NSFNLMDIzTklPSThSQ1YxSTJYd09hVlk2V2FuWDZSTnNFdTBSQ0ZhbU92M3Y1YUVjMW5n?oc=5)
 
 ---
 

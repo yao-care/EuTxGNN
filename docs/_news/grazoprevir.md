@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
+
+### [Riesgo de propagación de hantavirus a población general es "absolutamente bajo", asevera OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjNfM3ZQSW92a25GM05MSWUtMlVFR25qNDZNNW5Ba1hkaFN1WlZDbVh3T2JZX2psclFoUm5hbHhSNjNDVlFGQVM1bHZkdmdxZjlLZGg5VkRoVXRpN21ySVo2SWkteUVyT19iem12VWR2U0Y0Z0NzVWtnMFd6RnNwYkVMaw?oc=5)
+
+2026-05-08 <span class="news-indication-tag">MS</span>
+
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjNfM3ZQSW92a25GM05MSWUtMlVFR25qNDZNNW5Ba1hkaFN1WlZDbVh3T2JZX2psclFoUm5hbHhSNjNDVlFGQVM1bHZkdmdxZjlLZGg5VkRoVXRpN21ySVo2SWkteUVyT19iem12VWR2U0Y0Z0NzVWtnMFd6RnNwYkVMaw?oc=5)
+
+---
+
+### [Thousands of NHS nurses ‘exposed to toxic chemicals’ after probe into miscarriages - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPamdSOXdPbURfUmFHeWFKeG5vOW5uM3ZoTDdsbERNUjkzMy03X3RDRkxZYklzU2M0VUs2aXlkR3NfQWozTkRuMGNTOWRZeno5RTdPanVLaVZnQXJzemUySG94MVExNlg2MHByam1RVHVDWWhGSVdsVl9LT2thOG5fU01QcXdsRURWXzFhZk14V2hBTDB2c0N4T0lHaw?oc=5)
+
+2026-05-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPamdSOXdPbURfUmFHeWFKeG5vOW5uM3ZoTDdsbERNUjkzMy03X3RDRkxZYklzU2M0VUs2aXlkR3NfQWozTkRuMGNTOWRZeno5RTdPanVLaVZnQXJzemUySG94MVExNlg2MHByam1RVHVDWWhGSVdsVl9LT2thOG5fU01QcXdsRURWXzFhZk14V2hBTDB2c0N4T0lHaw?oc=5)
+
+---
+
+### [Arranca la segunda edición de ‘Mi historia continúa’ en la red de transporte de Madrid y Barcelona](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbllkZnlHNEI0Y1ZKQ29mbmtDSldPZkpsNFVSTTdlazhWLWw4aFppOUg4VURjM2t5ODl2T2dWazZhT1AzVGNLb2c4aDU2Z05ZVFptcGV2RldBZEkwTUk0eUh1TEJkLUo5T3NxTy04NDZSa0JPaUw0ZW1IVC02ZmdtQ2l0OEZ1eG4zWWU1UlRybVBxVTB0SUozWDVvUEJRS2ZmYzJTSFI4TVRHWFhNM001eFpUQ25jMk14WUhz?oc=5)
+
+2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbllkZnlHNEI0Y1ZKQ29mbmtDSldPZkpsNFVSTTdlazhWLWw4aFppOUg4VURjM2t5ODl2T2dWazZhT1AzVGNLb2c4aDU2Z05ZVFptcGV2RldBZEkwTUk0eUh1TEJkLUo5T3NxTy04NDZSa0JPaUw0ZW1IVC02ZmdtQ2l0OEZ1eG4zWWU1UlRybVBxVTB0SUozWDVvUEJRS2ZmYzJTSFI4TVRHWFhNM001eFpUQ25jMk14WUhz?oc=5)
+
+---
 
 ### [Bundesweite Studie sucht nach den wirksamsten Hygienemaßnahmen - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZIRVh1WTJjRGs3cjdocTg0THV6bUdTUlpIbUpGTnZoU0pETC1Fdk5EMVFSeFF3VEtiaklFLTEtSThhYkFHRkhPczJIMnI2eHNHTWVlTEhPN2VGdVFIV25PVGhiNGxLRFNtZHpUWG9aLWFueXVBVkc3LURrNURiT0wzWjJoaXRBMnBSMzdPTGx4UkNtM3RHSXl3Vkh2U21VQ3MyTkhlOHFlR1k2Wkln?oc=5)
 
@@ -62,19 +86,19 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Zoonosis o cómo se transmiten los hantavirus de animales a humanos](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2NYLUNlZ1pGaENjdGljYjk3YndqRkIxTEl6OHRnTHVLXzAxYnVJd1A3U3JKNVQ5bE9ObkVxWVAyYngzUlBQenhXOVNScGczT0xEZDFtOHZUQ2FPeTQ2b0hybkxiaFRHQ3hRcTR0R1MtZWZELXY4UUdNUTdEb1FHbGVHVUtKM3RiNm1UbWJfbV9DN0FldGRnMnByNWdzcGRpQjIxSw?oc=5)
-
-2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2NYLUNlZ1pGaENjdGljYjk3YndqRkIxTEl6OHRnTHVLXzAxYnVJd1A3U3JKNVQ5bE9ObkVxWVAyYngzUlBQenhXOVNScGczT0xEZDFtOHZUQ2FPeTQ2b0hybkxiaFRHQ3hRcTR0R1MtZWZELXY4UUdNUTdEb1FHbGVHVUtKM3RiNm1UbWJfbV9DN0FldGRnMnByNWdzcGRpQjIxSw?oc=5)
-
----
-
-### [El brote del crucero apunta a contagios en espacios cerrados, pero la OMS mantiene que el riesgo es bajo](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFVOb2dESmFZeGZHMlpfX0xpQUJrbm1GWm5renNYQ21fLWtwM2s3enZyV1ZqcnhSUFpWRFUwTnotSUxfV3FvVGVLRlowLVI0QlpTOGUxVUcwaW5QM05TX2gzQnJJOHZvQXVwV0t0TGFLWDNxZWZUWmtyY3RSU3NYbTNVcjhGeENadFJJWnlabll0bDN0SUR4ekM4SlRKZGhhQmfSAacBQVVfeXFMTTZQNkRNcHZzWVQxZDVrakppMzdWbzNzRXVtSlZZRkdoeXFqX2YyQ00ySjcxRmlpLUhmd2p2aGI0Rm5RWUpwdVVrV2h1Nl9tSXh4dnhwSEVCajdteU9VN0swSDJKcmdNZUtwWUQzTTVjRUJJX2dDN0ktM3RQVER0UFU3STBnN1FhXy1NeW5ZOGFGc0p3LTlBa0FOVlhZVTRFR0hvMURpNjA?oc=5)
+### [The six memory symptoms you should never ignore - The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnBRaHpjYmRZeTRteGw0ZWVGQjZmYTBTU0w2LUVvRFNudFhCc2NOb1QzSXdwWDVSeHR6ckhxWkRmM3JuaHIzTEt6Mk1kT3VldnFPRDgzUkxxQVkwSl80Tzc4dTgzSC1qLTA1ZGJPNHRoM3dPOHJpNW9iNkYwYTRKbGhVNlRkM09zRnJGMW5yZVA?oc=5)
 
 2026-05-08 <span class="news-indication-tag">MS</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFVOb2dESmFZeGZHMlpfX0xpQUJrbm1GWm5renNYQ21fLWtwM2s3enZyV1ZqcnhSUFpWRFUwTnotSUxfV3FvVGVLRlowLVI0QlpTOGUxVUcwaW5QM05TX2gzQnJJOHZvQXVwV0t0TGFLWDNxZWZUWmtyY3RSU3NYbTNVcjhGeENadFJJWnlabll0bDN0SUR4ekM4SlRKZGhhQmfSAacBQVVfeXFMTTZQNkRNcHZzWVQxZDVrakppMzdWbzNzRXVtSlZZRkdoeXFqX2YyQ00ySjcxRmlpLUhmd2p2aGI0Rm5RWUpwdVVrV2h1Nl9tSXh4dnhwSEVCajdteU9VN0swSDJKcmdNZUtwWUQzTTVjRUJJX2dDN0ktM3RQVER0UFU3STBnN1FhXy1NeW5ZOGFGc0p3LTlBa0FOVlhZVTRFR0hvMURpNjA?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnBRaHpjYmRZeTRteGw0ZWVGQjZmYTBTU0w2LUVvRFNudFhCc2NOb1QzSXdwWDVSeHR6ckhxWkRmM3JuaHIzTEt6Mk1kT3VldnFPRDgzUkxxQVkwSl80Tzc4dTgzSC1qLTA1ZGJPNHRoM3dPOHJpNW9iNkYwYTRKbGhVNlRkM09zRnJGMW5yZVA?oc=5)
+
+---
+
+### [Dr. Josep Maria Argimon, epidemiólogo: "La preocupación con el hantavirus de los Andes está justificada, pero no estamos ante un escenario comparable al de la covid-19" - Saber Vivir](https://news.google.com/rss/articles/CBMigAJBVV95cUxOV3ZGOVlIQkVVd29uUHItMEpIVDVOcGsxRTlFZUUwZGJSUzRmRXVmbVJTbGlZbVR3VXFjVUFuNFo4YmpRZnNUd0ZneS1uLTBjajgtNHMxNjN1NHVDZ3g3WHlpZ2ctcWtNenJQc1g3NUdkVWNHa0RpaEtjMFJqUExON3BueUpHbjZuSW1SOENjU00weVNHeG1yRUlEQkY2eUhpeElPY3pOOEhxX1pQUm5xWUZwYkxPTEkxaWJSTkJHMUhNR0hINE9MRnNrb2JIOXRpazUtMXNYRXJZQldjMDBMSTdDcURjNFZwQVZXR044U1hQcHo5T2MtMkg5TjNHd2RJ?oc=5)
+
+2026-05-08 <span class="news-indication-tag">MS</span>
+
+來源：[Saber Vivir](https://news.google.com/rss/articles/CBMigAJBVV95cUxOV3ZGOVlIQkVVd29uUHItMEpIVDVOcGsxRTlFZUUwZGJSUzRmRXVmbVJTbGlZbVR3VXFjVUFuNFo4YmpRZnNUd0ZneS1uLTBjajgtNHMxNjN1NHVDZ3g3WHlpZ2ctcWtNenJQc1g3NUdkVWNHa0RpaEtjMFJqUExON3BueUpHbjZuSW1SOENjU00weVNHeG1yRUlEQkY2eUhpeElPY3pOOEhxX1pQUm5xWUZwYkxPTEkxaWJSTkJHMUhNR0hINE9MRnNrb2JIOXRpazUtMXNYRXJZQldjMDBMSTdDcURjNFZwQVZXR044U1hQcHo5T2MtMkg5TjNHd2RJ?oc=5)
 
 ---
 
@@ -102,19 +126,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Los posibles focos de contagio según la OMS: primer y segundo desembarco y el vuelo a Países Bajos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXZMM2lQYXNKcTdDcFV0TWlWU2xoand2R0JnRGJpVjBHZ3RLc09MWTB1cUJ5YTZJMV95VmF0VVhndGZBOFBGV1VWc21BS2huMEF4NjBOeXVnV0VMZzM0ZWJLY281TTVKVkNSR0F4b0s0S2FTTXpNYWVtTUw1Y3BkZzh0a01FMVhwUWx5TElkYzFabFk0VUNJc0pNQjllNE85Q3NtakgxcEpnbDk0RmpsQzd1R0JYWlBPeTRDbFhTQ25MeFhLYlpMUGlneTZpUEFaME1hM2FWTnIyZlFra0E?oc=5)
+### [Este hospital español tuvo el caso de hantavirus más "más documentado de la ciencia" de nuestro país - Gaceta de salud](https://news.google.com/rss/articles/CBMigAJBVV95cUxNU2lvTk5nTjhVeS1rYlpBSzVoSGdFODlLTmNUNV9PbzdvYjdYU3RCbXV0eFRSQk11anNmSWxqcHAyZkpKTkxIc0dpa3BPYzE3T1hWN2hmRk5RLTJqUFM1ZWM5dEUwTWdhMWhFeWpHTEVvMS1SbkdiVDV5UHlWcXAyOHFFek5Yemx4aEE4SjlwR0ZnVUVnU0FKTFpmNHZWVFZtSEN4eXJuMjRPbFB3Q2UzM05yWGhsUDJsNXppMXA3U25JOE5FbnhKNVJYS0tTT2N3V21Xc1FFY1JDeURoVzRfR04tek5wbWVNN0V5MVRkVmpoVnBnX3F5cEppQ1ZxYkxT?oc=5)
 
 2026-05-07 <span class="news-indication-tag">MS</span>
 
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXZMM2lQYXNKcTdDcFV0TWlWU2xoand2R0JnRGJpVjBHZ3RLc09MWTB1cUJ5YTZJMV95VmF0VVhndGZBOFBGV1VWc21BS2huMEF4NjBOeXVnV0VMZzM0ZWJLY281TTVKVkNSR0F4b0s0S2FTTXpNYWVtTUw1Y3BkZzh0a01FMVhwUWx5TElkYzFabFk0VUNJc0pNQjllNE85Q3NtakgxcEpnbDk0RmpsQzd1R0JYWlBPeTRDbFhTQ25MeFhLYlpMUGlneTZpUEFaME1hM2FWTnIyZlFra0E?oc=5)
-
----
-
-### [El ECDC advierte de que Europa se desvía de los objetivos de la ONU en VIH y hepatitis](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRzdEZkU3N0RXVKU0kwZlhMQVRwODZSeHNTNTRldE1WRVUydFFkRmZVQTBYZlpSZllsT0VETEdYZWV2a21BUkVoY2dSTk1vNjc4UGFtUDRBOXQ2WkV3bkZhTmllUW9UTTZpSzBuSlhZY2ZTemgyR3BDUDlISzRIQVlMZ2JnTUpweF9NSFNLMDIzTklPSThSQ1YxSTJYd09hVlk2V2FuWDZSTnNFdTBSQ0ZhbU92M3Y1YUVjMW5n?oc=5)
-
-2026-05-07 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRzdEZkU3N0RXVKU0kwZlhMQVRwODZSeHNTNTRldE1WRVUydFFkRmZVQTBYZlpSZllsT0VETEdYZWV2a21BUkVoY2dSTk1vNjc4UGFtUDRBOXQ2WkV3bkZhTmllUW9UTTZpSzBuSlhZY2ZTemgyR3BDUDlISzRIQVlMZ2JnTUpweF9NSFNLMDIzTklPSThSQ1YxSTJYd09hVlk2V2FuWDZSTnNFdTBSQ0ZhbU92M3Y1YUVjMW5n?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMigAJBVV95cUxNU2lvTk5nTjhVeS1rYlpBSzVoSGdFODlLTmNUNV9PbzdvYjdYU3RCbXV0eFRSQk11anNmSWxqcHAyZkpKTkxIc0dpa3BPYzE3T1hWN2hmRk5RLTJqUFM1ZWM5dEUwTWdhMWhFeWpHTEVvMS1SbkdiVDV5UHlWcXAyOHFFek5Yemx4aEE4SjlwR0ZnVUVnU0FKTFpmNHZWVFZtSEN4eXJuMjRPbFB3Q2UzM05yWGhsUDJsNXppMXA3U25JOE5FbnhKNVJYS0tTT2N3V21Xc1FFY1JDeURoVzRfR04tek5wbWVNN0V5MVRkVmpoVnBnX3F5cEppQ1ZxYkxT?oc=5)
 
 ---
 
@@ -126,35 +142,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Este virus sudamericano preocupa más a la OMS que el hantavirus - La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlZkc3lZLS0yR2pnN3pOWkNjcGtEUHc1QS1rZkVHelBTSzRPMWtIWlM3NTNCczdWWW5GZzJKYk94dFlYR3Y4LUw2LUxNV3NfcV9OZ2xPYS1Ecld2X0ZxZ3J5ZXNxMTEtMHZhVzQ0MmNKbzkzVkxZTnJvbkI3VE9jSEFvZWVBUG1XVUVFQ0ctU2pmbDQ2ODU5SkVIWVNfcEZHTGRnT1ZyNzgwdWtxd3VDNE40d3Z0SmVSSElhUVNNNVNpQdIB1gFBVV95cUxNcWpzeXdESWl0bFZiVHhmNnJTTWc5M0UtV0VmS0JTdlpJMU5wOC1CSXJTTFI4bHI2bmR6bzU1MTJtRERQMkhQcEJxTDE5NnB3aVZsVzB2emNWT2JPaVVjVHExTFZ4RW4xNWNTTGZucnNURWtWQ3F2dWVxSVBOUzk0NlBXa3N1azZiMXlYNWx1d2gzX3g3WTdVbm9DSTR2WlNEc3J3V0tvaHZFSjV0LU5EOFJGZ014bEN6aFZETU5VTzlaNFZTNk9zVGE4MGxUTHdVLVBnQ2Rn?oc=5)
-
-2026-05-07 <span class="news-indication-tag">MS</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlZkc3lZLS0yR2pnN3pOWkNjcGtEUHc1QS1rZkVHelBTSzRPMWtIWlM3NTNCczdWWW5GZzJKYk94dFlYR3Y4LUw2LUxNV3NfcV9OZ2xPYS1Ecld2X0ZxZ3J5ZXNxMTEtMHZhVzQ0MmNKbzkzVkxZTnJvbkI3VE9jSEFvZWVBUG1XVUVFQ0ctU2pmbDQ2ODU5SkVIWVNfcEZHTGRnT1ZyNzgwdWtxd3VDNE40d3Z0SmVSSElhUVNNNVNpQdIB1gFBVV95cUxNcWpzeXdESWl0bFZiVHhmNnJTTWc5M0UtV0VmS0JTdlpJMU5wOC1CSXJTTFI4bHI2bmR6bzU1MTJtRERQMkhQcEJxTDE5NnB3aVZsVzB2emNWT2JPaVVjVHExTFZ4RW4xNWNTTGZucnNURWtWQ3F2dWVxSVBOUzk0NlBXa3N1azZiMXlYNWx1d2gzX3g3WTdVbm9DSTR2WlNEc3J3V0tvaHZFSjV0LU5EOFJGZ014bEN6aFZETU5VTzlaNFZTNk9zVGE4MGxUTHdVLVBnQ2Rn?oc=5)
-
----
-
 ### [Screening auf Hepatitis B: Welche Laborwerte Sie bestimmen sollten](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRXZzczOXgzRUJnWW1rUXFRaXlWREFjOXUzOXlyS2hyQW5xSlJMMnpxMmF6ZWdpMERIekZZbWlUd3pwRkpHWHkxd1BmMUo2WmgtTERaOWg1aGd3cklBUi1PdTRiWThQa3lJZkdSNzVid04zTFAyZmw1TXFxWUl4UkJ4ZndLMjUyQzctRkwzdFpteWswNjhEa3gyUUhJUlFsY0Ffam13?oc=5)
 
 2026-05-07 <span class="news-indication-tag">hepatitis</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRXZzczOXgzRUJnWW1rUXFRaXlWREFjOXUzOXlyS2hyQW5xSlJMMnpxMmF6ZWdpMERIekZZbWlUd3pwRkpHWHkxd1BmMUo2WmgtTERaOWg1aGd3cklBUi1PdTRiWThQa3lJZkdSNzVid04zTFAyZmw1TXFxWUl4UkJ4ZndLMjUyQzctRkwzdFpteWswNjhEa3gyUUhJUlFsY0Ffam13?oc=5)
-
----
-
-### [FÜR RAFIA](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
-
-2026-05-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[DKMS](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01b241YlJJZ2I4UTEyam9wSWZ1YW9yb2ZaTHRNdlQ0WTl0UlIxRlAtYVIyQk9GeGh6NTRmSG8zeWZTTlRLX1BXUXBfQmlLTFBuZnROd1M1dTV3V09OQ2x3YnFKUnM?oc=5)
-
----
-
-### [Il cervello è attivo anche quando siamo incoscienti. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMigwFBVV95cUxOenhtU1lnT0xwdlhUNlFXWDhWTjJGa1hCLURpS25ZNXVPUkxHX2o1RC12TUVUNzVwdVZsaUJXeWstaTlqbHNtWXZ2dzBoSVdsUGJGR2EtQVhpTkFJbEhqOUswVm5Nd0w1TmpPWlVNd1hITXhha0xScFN5TThXNG13WjBGZw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMigwFBVV95cUxOenhtU1lnT0xwdlhUNlFXWDhWTjJGa1hCLURpS25ZNXVPUkxHX2o1RC12TUVUNzVwdVZsaUJXeWstaTlqbHNtWXZ2dzBoSVdsUGJGR2EtQVhpTkFJbEhqOUswVm5Nd0w1TmpPWlVNd1hITXhha0xScFN5TThXNG13WjBGZw?oc=5)
 
 ---
 

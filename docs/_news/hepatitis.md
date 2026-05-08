@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Parents in Wales urged to ‘be vigilant’ about hand-washing amid hepatitis A outbreak - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
 
 2026-05-07
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
-
----
-
-### [El ECDC advierte de que Europa se desvía de los objetivos de la ONU en VIH y hepatitis](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRzdEZkU3N0RXVKU0kwZlhMQVRwODZSeHNTNTRldE1WRVUydFFkRmZVQTBYZlpSZllsT0VETEdYZWV2a21BUkVoY2dSTk1vNjc4UGFtUDRBOXQ2WkV3bkZhTmllUW9UTTZpSzBuSlhZY2ZTemgyR3BDUDlISzRIQVlMZ2JnTUpweF9NSFNLMDIzTklPSThSQ1YxSTJYd09hVlk2V2FuWDZSTnNFdTBSQ0ZhbU92M3Y1YUVjMW5n?oc=5)
-
-2026-05-07
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRzdEZkU3N0RXVKU0kwZlhMQVRwODZSeHNTNTRldE1WRVUydFFkRmZVQTBYZlpSZllsT0VETEdYZWV2a21BUkVoY2dSTk1vNjc4UGFtUDRBOXQ2WkV3bkZhTmllUW9UTTZpSzBuSlhZY2ZTemgyR3BDUDlISzRIQVlMZ2JnTUpweF9NSFNLMDIzTklPSThSQ1YxSTJYd09hVlk2V2FuWDZSTnNFdTBSQ0ZhbU92M3Y1YUVjMW5n?oc=5)
 
 ---
 

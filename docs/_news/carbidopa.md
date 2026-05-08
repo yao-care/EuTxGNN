@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [If you quit drinking coffee for two weeks, this is what happens to your body](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmNjeGxEZThDaUZMdDBYSVRJTDd5amZCX3l6d3hWeVBXWlhKdU9JVl9NVDVsTTgyTnFuWFNFYTRKcmVHZFQ1c20xZktEX1hpeWt4Tzd4OWt3QU9DblUyX0dYOURTR2VLdmxfSnM4XzlxMEwwa3F0dVVUeWZHbWlabVhPQWlYMjB1NDhNVGhnd0RQUG9qeWIxeXliX0dRaTZTVFVBdkF0YU53Zw?oc=5)
+### [Eating Eggs May Lower Alzheimer's Risk, Study Finds](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWVjdVJQV3VVVGNoQmtQSFZlV013Vjd6Nmk0a1lsQzd0Y21XWnBVSHJXRnRic2FKWk9HTVJKR1IyM0RJUm5KY2pIZ053ZmhMVlBNbG93dk90bThzV2hMRjBjbWlfN2pPYXJ0dkNvYmZsdEJwalJ4WDFWVU02ZUVFLXlVSll5RWdVeGtXa1ZWV1U0UnlyMTA4TDNnSjJXX1ZjR0pzZDFfVDI0cWtTMUlXS2t1aGdpcE05MDYteQ?oc=5)
 
-2026-05-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-05-08 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[Earth.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmNjeGxEZThDaUZMdDBYSVRJTDd5amZCX3l6d3hWeVBXWlhKdU9JVl9NVDVsTTgyTnFuWFNFYTRKcmVHZFQ1c20xZktEX1hpeWt4Tzd4OWt3QU9DblUyX0dYOURTR2VLdmxfSnM4XzlxMEwwa3F0dVVUeWZHbWlabVhPQWlYMjB1NDhNVGhnd0RQUG9qeWIxeXliX0dRaTZTVFVBdkF0YU53Zw?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWVjdVJQV3VVVGNoQmtQSFZlV013Vjd6Nmk0a1lsQzd0Y21XWnBVSHJXRnRic2FKWk9HTVJKR1IyM0RJUm5KY2pIZ053ZmhMVlBNbG93dk90bThzV2hMRjBjbWlfN2pPYXJ0dkNvYmZsdEJwalJ4WDFWVU02ZUVFLXlVSll5RWdVeGtXa1ZWV1U0UnlyMTA4TDNnSjJXX1ZjR0pzZDFfVDI0cWtTMUlXS2t1aGdpcE05MDYteQ?oc=5)
 
 ---
 
-### [At-home test could spot Alzheimer's risk early](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
+### [Eating eggs could cut Alzheimer’s risk by 27%](https://news.google.com/rss/articles/CBMib0FVX3lxTE1CVlo5QkVSRmszV0RvMWp1ZVJ3Sjl2Ti0xS3huTFozeUZFT0xzLUZSd2NkU0VYWG03NlozUnZubjBsMVhscDlVNDNuZG1IbGtpT1JGYlF2RExtTXlQUDFxcDkxZnRuWHAzMVVJdVN5OA?oc=5)
 
 2026-05-07 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1CVlo5QkVSRmszV0RvMWp1ZVJ3Sjl2Ti0xS3huTFozeUZFT0xzLUZSd2NkU0VYWG03NlozUnZubjBsMVhscDlVNDNuZG1IbGtpT1JGYlF2RExtTXlQUDFxcDkxZnRuWHAzMVVJdVN5OA?oc=5)
+
+---
+
+### [A Verdict on Low-Dose Lithium for Cognitive Preservation?](https://news.google.com/rss/articles/CBMingFBVV95cUxNTjhMdlRqUDItZ2ZuMzNMNktYeldTOTN6YXVlTTZlSlhsX2VYV0MtdGtzMGxSSjdLTjNFanJQMDI1S1k1TklpYW1EUWhTcUdGRkRIZHhZZ3BUV2ZkMEdvakVjQ3lyZkpzR1pDZGgwMUlGTzFPdHMwRjAySzVyMm92MXZ3ZHVRYUh0Tlp2RGRfanc5YWNOenl1a0ZJSl9QUQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxNTjhMdlRqUDItZ2ZuMzNMNktYeldTOTN6YXVlTTZlSlhsX2VYV0MtdGtzMGxSSjdLTjNFanJQMDI1S1k1TklpYW1EUWhTcUdGRkRIZHhZZ3BUV2ZkMEdvakVjQ3lyZkpzR1pDZGgwMUlGTzFPdHMwRjAySzVyMm92MXZ3ZHVRYUh0Tlp2RGRfanc5YWNOenl1a0ZJSl9QUQ?oc=5)
 
 ---
 
