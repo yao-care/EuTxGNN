@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [At-home test could spot Alzheimer's risk early](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
 
 2026-05-07
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
-
----
-
-### [Un estudio asegura que si tomas huevos tienes hasta el 27% menos de posibilidades de tener alzhéimer que quienes no los consumen - Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
-
-2026-05-06
-
-來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
 
 ---
 

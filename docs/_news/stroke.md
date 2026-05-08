@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。8 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>8 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [Un estudio confirma que usar un fármaco tras la trombectomía mejora la recuperación en ictus grave](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemRvOERGZVZNTHJaNzNNWVFFTWZVb0hGajcyWjRMcDRfazNqMlpmOFJoTmpnQW5pc1VJcWY2LTg5VUJEeXhqQnN0OEMxWC12TmVFU1VUVmk3Rk8yRTN0amtzUGdqTWxHczNKMGZBVTFmTFFWREtwU3J6aEJpalNTdWwyUGVqUUluaXEtMV9ITzRsUnZjZ1JLM1ctOFNnWnZXRVR6U2xYWVBFa0loS0ZJc19yTGVxSk9ZQXdkRWRQcDByRVlFNW1Id1VrRGN4SXg1b3IxbERB?oc=5)
 
@@ -65,7 +65,7 @@ permalink: /news/stroke/
 
 ---
 
-### [Herz: Auch ein zu niedriger Pulsschlag erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+### [Auch ein zu niedriger Puls erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
 
 2026-05-07
 
@@ -86,22 +86,6 @@ permalink: /news/stroke/
 2026-05-06
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09yQmwtelZaNTU0UUp3YmxJTl9GM0g3QmM1R2hTMTN2bGhLX0tUblRLRnBGYXZsOXVrTHFXY2FRWFgxX3RHcVdpcTV4SmZUcWlveDhvNk4tdVhSQjFpNXJTeFU1dnJyMzdvLTVYNnlIUVVNV3pVOTJkYk5wRlR1RS1VUm14Zk9Pazlfcm81dUNFeU5PS3lz?oc=5)
-
----
-
-### [Vaccin grippe : les soignants bientôt obligés de se faire vacciner ?](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LSFVyd1pDV3JEdEhaY25iSkI4NTEyS0V1RE9zX2h4UmlrV2RlTTdZVGlaOHFtRHU0ZjkxdFdKQktCVk1FYjB3a1ZLcGtVSE5XbTZvYlRiVXpEMnh5dHhJUV9TUFUzSXhKN3hVN1NFRjlxN204UGc?oc=5)
-
-2026-05-06
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LSFVyd1pDV3JEdEhaY25iSkI4NTEyS0V1RE9zX2h4UmlrV2RlTTdZVGlaOHFtRHU0ZjkxdFdKQktCVk1FYjB3a1ZLcGtVSE5XbTZvYlRiVXpEMnh5dHhJUV9TUFUzSXhKN3hVN1NFRjlxN204UGc?oc=5)
-
----
-
-### [Salud cerebral: MindGuardian, la neurología preventiva y el reto de tecnoproteger nuestro activo más valioso](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
-
-2026-05-06
-
-來源：[Zonamovilidad.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
 
 ---
 

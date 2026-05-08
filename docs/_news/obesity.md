@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [El Ozempic también tiene riesgos para el pelo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+
+2026-05-08
+
+來源：[ABC](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+
+---
 
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 

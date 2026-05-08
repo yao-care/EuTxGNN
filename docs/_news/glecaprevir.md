@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
 ### [Hantavirus, caccia a contatti passeggeri. Ue attiva meccanismo protezione civile - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
 
-2026-05-07 <span class="news-indication-tag">MS</span>
+2026-05-08 <span class="news-indication-tag">MS</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+---
+
+### [Three Tyneside mothers diagnosed with terminal ovarian cancer after putting symptoms down to the menopause - Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
 
 ---
 
@@ -67,6 +83,14 @@ permalink: /news/glecaprevir/
 2026-05-07 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+
+---
+
+### [Los posibles focos de contagio según la OMS: primer y segundo desembarco y el vuelo a Países Bajos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXZMM2lQYXNKcTdDcFV0TWlWU2xoand2R0JnRGJpVjBHZ3RLc09MWTB1cUJ5YTZJMV95VmF0VVhndGZBOFBGV1VWc21BS2huMEF4NjBOeXVnV0VMZzM0ZWJLY281TTVKVkNSR0F4b0s0S2FTTXpNYWVtTUw1Y3BkZzh0a01FMVhwUWx5TElkYzFabFk0VUNJc0pNQjllNE85Q3NtakgxcEpnbDk0RmpsQzd1R0JYWlBPeTRDbFhTQ25MeFhLYlpMUGlneTZpUEFaME1hM2FWTnIyZlFra0E?oc=5)
+
+2026-05-07 <span class="news-indication-tag">MS</span>
+
+來源：[telecinco.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXZMM2lQYXNKcTdDcFV0TWlWU2xoand2R0JnRGJpVjBHZ3RLc09MWTB1cUJ5YTZJMV95VmF0VVhndGZBOFBGV1VWc21BS2huMEF4NjBOeXVnV0VMZzM0ZWJLY281TTVKVkNSR0F4b0s0S2FTTXpNYWVtTUw1Y3BkZzh0a01FMVhwUWx5TElkYzFabFk0VUNJc0pNQjllNE85Q3NtakgxcEpnbDk0RmpsQzd1R0JYWlBPeTRDbFhTQ25MeFhLYlpMUGlneTZpUEFaME1hM2FWTnIyZlFra0E?oc=5)
 
 ---
 
@@ -139,22 +163,6 @@ permalink: /news/glecaprevir/
 2026-05-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
-
----
-
-### [Salud cerebral: MindGuardian, la neurología preventiva y el reto de tecnoproteger nuestro activo más valioso](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Zonamovilidad.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
-
----
-
-### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
 
 ---
 

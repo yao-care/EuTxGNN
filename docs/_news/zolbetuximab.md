@@ -54,6 +54,14 @@ permalink: /news/zolbetuximab/
 
 ## 相關新聞（8 則）
 
+### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+---
+
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
@@ -107,14 +115,6 @@ permalink: /news/zolbetuximab/
 2026-05-06 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
-
----
-
-### [Gezielte Bewegung reduziert Leberfett signifikant](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTlKdjF3MDVpS04tZ2ljcFVVaWVIdVB6UUQzN09ITGwwMlVpU2ZLcTJsd1ZmN0FJSDR0dk1kN3dhX2p5V1ducVdnVUU4ZWpzUUxtRGpsY2N2bkZ6MnhBYnVXUFhmZkFVWnVYN2Z3cUp0cTRrRGtPaWtnSHdHVk1WSzNZSldQdzJS?oc=5)
-
-2026-05-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTlKdjF3MDVpS04tZ2ljcFVVaWVIdVB6UUQzN09ITGwwMlVpU2ZLcTJsd1ZmN0FJSDR0dk1kN3dhX2p5V1ducVdnVUU4ZWpzUUxtRGpsY2N2bkZ6MnhBYnVXUFhmZkFVWnVYN2Z3cUp0cTRrRGtPaWtnSHdHVk1WSzNZSldQdzJS?oc=5)
 
 ---
 

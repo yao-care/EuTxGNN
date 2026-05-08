@@ -54,6 +54,30 @@ permalink: /news/inebilizumab/
 
 ## 相關新聞（29 則）
 
+### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+---
+
+### [Cáncer de ovario: avanzar en diagnóstico precoz, el gran reto de uno de los tumores más complejos - La Razón](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFJPdUozdFBYMkhkWnNFdEIwQXh5NHpIZXd0cWRPWm1YdTBwXzhJczFFV2RmVXZaSUY0UG02Rks0VjZDOGk1N2cwQndBYzBZYVRFYzRrM0hScXh6UWEyNm1hQVE5cTZGTkNqN2F6MVVndlN4QXVsbm9VdVhhem5RYWtzdDNYelctNjdod3AwTU1WTVNEei1BWFdCR1RvR2hfTVVLNXFzdHpJTURvdHd0dG1oTS1DTW8zd3NlTmFfbFNQTVN2TkZ4N19ENUl5M1d0TURtR2pxT0JjVDZSNjdLRVFHMzBVNmJ2b1JsNTVPcjhwdDFKZzRtUmhkc9IBjwJBVV95cUxNSnUyMWlIbTF2bTFQT1R3ZWtadFVfaDRlNThYamJSWkhLd0FsN25tVmdDTG1tajdSQzFxWE5xWjNmVkFGZFZaeHJMNkgxTy1jaDgyNi1XTWdMMkZTaS1WNjdYUG1BTHducmFjdmJtYXNaNXNFUVhFUUVXR0lqcUp4czNEcGt2RXA0aERuM0p6Ti1hQ3Jlbl81X2NYVDFWWEZ6dFJHcXFZLVlHLU5wR0xyRVZyVi1UdmF5NmpCUkxnVHpaTlBiOG5tX0I5S1k1Zm8zUGQxYnhVT0RlWVBsamVGa2JodWFzNjFNbDhmTi15VFRfVlVxdGVXTkNyVXlIWnJiLW5UbUxiWmhaZE5jZDRR?oc=5)
+
+2026-05-08 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFJPdUozdFBYMkhkWnNFdEIwQXh5NHpIZXd0cWRPWm1YdTBwXzhJczFFV2RmVXZaSUY0UG02Rks0VjZDOGk1N2cwQndBYzBZYVRFYzRrM0hScXh6UWEyNm1hQVE5cTZGTkNqN2F6MVVndlN4QXVsbm9VdVhhem5RYWtzdDNYelctNjdod3AwTU1WTVNEei1BWFdCR1RvR2hfTVVLNXFzdHpJTURvdHd0dG1oTS1DTW8zd3NlTmFfbFNQTVN2TkZ4N19ENUl5M1d0TURtR2pxT0JjVDZSNjdLRVFHMzBVNmJ2b1JsNTVPcjhwdDFKZzRtUmhkc9IBjwJBVV95cUxNSnUyMWlIbTF2bTFQT1R3ZWtadFVfaDRlNThYamJSWkhLd0FsN25tVmdDTG1tajdSQzFxWE5xWjNmVkFGZFZaeHJMNkgxTy1jaDgyNi1XTWdMMkZTaS1WNjdYUG1BTHducmFjdmJtYXNaNXNFUVhFUUVXR0lqcUp4czNEcGt2RXA0aERuM0p6Ti1hQ3Jlbl81X2NYVDFWWEZ6dFJHcXFZLVlHLU5wR0xyRVZyVi1UdmF5NmpCUkxnVHpaTlBiOG5tX0I5S1k1Zm8zUGQxYnhVT0RlWVBsamVGa2JodWFzNjFNbDhmTi15VFRfVlVxdGVXTkNyVXlIWnJiLW5UbUxiWmhaZE5jZDRR?oc=5)
+
+---
+
+### [Three Tyneside mothers diagnosed with terminal ovarian cancer after putting symptoms down to the menopause - Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
+
+---
+
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
@@ -86,6 +110,14 @@ permalink: /news/inebilizumab/
 
 ---
 
+### [Blue asthma inhaler users issued urgent warning to call GP](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
+
+---
+
 ### [Première mondiale : stérile, il recommence à produire du sperme](https://news.google.com/rss/articles/CBMib0FVX3lxTE9GRlhFREJMbUI1YW5TTlZXaDZqOFBaeW9MVnRfUVYwM3BaMkVZdjMwSXVZNVNSUk9zbFlMaHIwY1NzbFdkTHpDcTJKV3Y0T1ZWUTMydGZFOC04RnZGbGw0a1JWODVZUjNxNVBmWlNlTQ?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cancer</span>
@@ -99,14 +131,6 @@ permalink: /news/inebilizumab/
 2026-05-07 <span class="news-indication-tag">tumor</span>
 
 來源：[L'Arena](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNElHX0UtNjRVc3NhazJoS1pXenZhX0tuVjBjMGpNM0dHS2hCVV9YNU43MFhJWDh6MnZZNUdET2JCTW5KYzk3a0FYdmVKVC1yRThBSzZXSEFUNlJlLThuejVaYlUySzVIR090a010NmNQYldJZE5KTnpWX1poYnIwRXV3U3g5UHRCek5EYVRtOEg4bnNvZVpQaXhZQVZiSzdkOUZid3JJc0dwa21BbzdxcUZkNUVDSDBsRXh4eHVoUW90el9DN3BQSDRPUmNQYWVZdlExVVRGZVlUTDdMdW1V0gHkAUFVX3lxTE1uT185NHVSbGZmY1BXS1ExN19vZVJmaGg0bGpHaXBhdmdJdXhiUlhxajgxVG5YRnh0RFBiV2w5c1BxVnNGSzVNWFFjbHVlUzNabHk3YlNIT2lQbi1IVTNBaWs4T2tCaUJXb1dwR1Y1UHVPY2tVd01QSzJKd0RfV0xGRU9oQ0poWkdGTnVBQV80YWpuR1FkZDl5Vk1EY01hWXZXcm43b1NxdjE1SEZNcHFLWWV5VmNfQkFObGVxUE56U3Nnd01maFZRQW5TQnprd3g4b211TnV2WS1UOFFoRWl1RzhlWQ?oc=5)
-
----
-
-### [Cancer du sein : ces traitements exposent les femmes à un risque cardiovasculaire](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
 
 ---
 
@@ -147,6 +171,14 @@ permalink: /news/inebilizumab/
 2026-05-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXRaMHVMdWEtZkp0SEtDXzhKODY4Z3QxMFkxN1JLS3JqV2VXSEtISWpES3RkR1dsa2drZG9mbWptZFFVTGh6dGV0MlFzbWNnN2pVbmI3UG5CdGZzWnlfaERtZmNJWGRlSEF2MDZLUFd2eGsxTllNR29YUzdNZ2FBZ29jLUJKQ1FweWJBcG02TGxfcmtf?oc=5)
+
+---
+
+### [Des traitements contre le cancer du sein exposent les femmes à un risque cardiovasculaire accru](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdlZCQzNQaUdiX3dENDZZRFZRYjBNSURxTDE1cHYydEFMSDBxRTg2WnA3QW44elZrQmNwMEdpVHZpUXpabXA0QUt1ZHRmenUxckhuY1NXS3VHN2k4TlhNQjRtcnZWa3dGYmtkal9kRE9BdkJHT1FCdG9iU2E0TTBSV1JhVnR2a0RvX3RXRUIyY3dCQlFhcnpZbVlOc2NtSFpGX2VzNXQ3emtpNTBHbFhKXzBwN18yRENnTGI2MHpJNFZFM19EUFBIT2V0MGpKZXIxem1BbFphRUhjQWNuYV9NbjkyaTFFVUVaZUZKMXZ4WGJRRnYz?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdlZCQzNQaUdiX3dENDZZRFZRYjBNSURxTDE1cHYydEFMSDBxRTg2WnA3QW44elZrQmNwMEdpVHZpUXpabXA0QUt1ZHRmenUxckhuY1NXS3VHN2k4TlhNQjRtcnZWa3dGYmtkal9kRE9BdkJHT1FCdG9iU2E0TTBSV1JhVnR2a0RvX3RXRUIyY3dCQlFhcnpZbVlOc2NtSFpGX2VzNXQ3emtpNTBHbFhKXzBwN18yRENnTGI2MHpJNFZFM19EUFBIT2V0MGpKZXIxem1BbFphRUhjQWNuYV9NbjkyaTFFVUVaZUZKMXZ4WGJRRnYz?oc=5)
 
 ---
 
@@ -251,38 +283,6 @@ permalink: /news/inebilizumab/
 2026-05-06 <span class="news-indication-tag">Krebs</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSW04bHJEb0xMNnQ2M1lHX0tNeDZreERfcko2T3RoNl9rVURrV1NxUzNtVmRlN0tZWkE3bmtQWmZTS2lOUU8wSWtDc2ZCbzhobmNDZy1wSGNONWFZNnJSWmx4ejN3Ym5PQkdnNS1PV3ctZzE3Zld6dDQ2LWxnb010YTdvVVZWUkRwUnp2UHFIMGVza0E4NDhxcEtSUXhFbGQ1WU11R3pVcm1JZGhq?oc=5)
-
----
-
-### [Gezielte Bewegung reduziert Leberfett signifikant](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTlKdjF3MDVpS04tZ2ljcFVVaWVIdVB6UUQzN09ITGwwMlVpU2ZLcTJsd1ZmN0FJSDR0dk1kN3dhX2p5V1ducVdnVUU4ZWpzUUxtRGpsY2N2bkZ6MnhBYnVXUFhmZkFVWnVYN2Z3cUp0cTRrRGtPaWtnSHdHVk1WSzNZSldQdzJS?oc=5)
-
-2026-05-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTlKdjF3MDVpS04tZ2ljcFVVaWVIdVB6UUQzN09ITGwwMlVpU2ZLcTJsd1ZmN0FJSDR0dk1kN3dhX2p5V1ducVdnVUU4ZWpzUUxtRGpsY2N2bkZ6MnhBYnVXUFhmZkFVWnVYN2Z3cUp0cTRrRGtPaWtnSHdHVk1WSzNZSldQdzJS?oc=5)
-
----
-
-### [Krebs: „Könnte Heilwirkung steigern“ – Forscher knacken erstmals Schutzschild gefährlicher Tumorzellen](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
-
----
-
-### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
----
-
-### [C’è un collegamento tra apnee notturne e tumori. La scoperta all’ospedale Sant’Andrea di Vercelli - La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
 
 ---
 

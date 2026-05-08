@@ -14,7 +14,7 @@ permalink: /news/ceritinib/
 ---
 
 <p class="key-answer" data-question="Ceritinib 有什麼相關新聞？">
-<strong>Ceritinib</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ceritinib</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/ceritinib/
 <p><a href="{{ '/drugs/ceritinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（22 則）
+
+### [Cáncer de ovario: avanzar en diagnóstico precoz, el gran reto de uno de los tumores más complejos - La Razón](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFJPdUozdFBYMkhkWnNFdEIwQXh5NHpIZXd0cWRPWm1YdTBwXzhJczFFV2RmVXZaSUY0UG02Rks0VjZDOGk1N2cwQndBYzBZYVRFYzRrM0hScXh6UWEyNm1hQVE5cTZGTkNqN2F6MVVndlN4QXVsbm9VdVhhem5RYWtzdDNYelctNjdod3AwTU1WTVNEei1BWFdCR1RvR2hfTVVLNXFzdHpJTURvdHd0dG1oTS1DTW8zd3NlTmFfbFNQTVN2TkZ4N19ENUl5M1d0TURtR2pxT0JjVDZSNjdLRVFHMzBVNmJ2b1JsNTVPcjhwdDFKZzRtUmhkc9IBjwJBVV95cUxNSnUyMWlIbTF2bTFQT1R3ZWtadFVfaDRlNThYamJSWkhLd0FsN25tVmdDTG1tajdSQzFxWE5xWjNmVkFGZFZaeHJMNkgxTy1jaDgyNi1XTWdMMkZTaS1WNjdYUG1BTHducmFjdmJtYXNaNXNFUVhFUUVXR0lqcUp4czNEcGt2RXA0aERuM0p6Ti1hQ3Jlbl81X2NYVDFWWEZ6dFJHcXFZLVlHLU5wR0xyRVZyVi1UdmF5NmpCUkxnVHpaTlBiOG5tX0I5S1k1Zm8zUGQxYnhVT0RlWVBsamVGa2JodWFzNjFNbDhmTi15VFRfVlVxdGVXTkNyVXlIWnJiLW5UbUxiWmhaZE5jZDRR?oc=5)
+
+2026-05-08 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFJPdUozdFBYMkhkWnNFdEIwQXh5NHpIZXd0cWRPWm1YdTBwXzhJczFFV2RmVXZaSUY0UG02Rks0VjZDOGk1N2cwQndBYzBZYVRFYzRrM0hScXh6UWEyNm1hQVE5cTZGTkNqN2F6MVVndlN4QXVsbm9VdVhhem5RYWtzdDNYelctNjdod3AwTU1WTVNEei1BWFdCR1RvR2hfTVVLNXFzdHpJTURvdHd0dG1oTS1DTW8zd3NlTmFfbFNQTVN2TkZ4N19ENUl5M1d0TURtR2pxT0JjVDZSNjdLRVFHMzBVNmJ2b1JsNTVPcjhwdDFKZzRtUmhkc9IBjwJBVV95cUxNSnUyMWlIbTF2bTFQT1R3ZWtadFVfaDRlNThYamJSWkhLd0FsN25tVmdDTG1tajdSQzFxWE5xWjNmVkFGZFZaeHJMNkgxTy1jaDgyNi1XTWdMMkZTaS1WNjdYUG1BTHducmFjdmJtYXNaNXNFUVhFUUVXR0lqcUp4czNEcGt2RXA0aERuM0p6Ti1hQ3Jlbl81X2NYVDFWWEZ6dFJHcXFZLVlHLU5wR0xyRVZyVi1UdmF5NmpCUkxnVHpaTlBiOG5tX0I5S1k1Zm8zUGQxYnhVT0RlWVBsamVGa2JodWFzNjFNbDhmTi15VFRfVlVxdGVXTkNyVXlIWnJiLW5UbUxiWmhaZE5jZDRR?oc=5)
+
+---
+
+### [Three Tyneside mothers diagnosed with terminal ovarian cancer after putting symptoms down to the menopause - Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
+
+---
 
 ### [Speiseröhrenkrebs – diese Symptome können auf die Erkrankung hindeuten](https://news.google.com/rss/articles/CBMibkFVX3lxTE1lbUJ1S1NQTkVwS1Y3VU5FM1RiTEZiMG9iZFhMY0tQdlF5Rl9sTjU1MnV6Um1ucTJFNk1rQU5NcERjWGlwMjFscjNpemlIM05RWWxvdzhBd2xvT0pwY1FOdnRlTktSVmZhNmk1bEZn?oc=5)
 
@@ -86,19 +102,19 @@ permalink: /news/ceritinib/
 
 ---
 
-### [Cancer du sein : ces traitements exposent les femmes à un risque cardiovasculaire](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
-
----
-
 ### [Krebs: „Das erste Mal, dass wir sehen, dass das Immunsystem die Tumoren wirklich erkennt“](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQajNDT1puRFljV2FyQjNZQkhlRjE0T2o4V1ViUndNU1RSMmUwNVZNWkhsRWp5eTJnNVdsMUItR19tbW9ZeU9jRkpNV2dqTTl6QUNZcXNWSExtU2hNdmZfbkFWMU9RakV5MmgwVTBFeEc3TTdic2t1TmFRMHBFaFRTVjhxQTJSU0tJSGx1MmpWZVNSZVJjalpMQXlmTm4zeW04djdfazFSdHlvSG9CVFdGVWNZZk5ZclVmTGJGUHdLbS1HdERhNEJXLXdNa2l2Z2ZRZlNLZHZObkdKa2JMcXdrbFF5OA?oc=5)
 
 2026-05-07 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQajNDT1puRFljV2FyQjNZQkhlRjE0T2o4V1ViUndNU1RSMmUwNVZNWkhsRWp5eTJnNVdsMUItR19tbW9ZeU9jRkpNV2dqTTl6QUNZcXNWSExtU2hNdmZfbkFWMU9RakV5MmgwVTBFeEc3TTdic2t1TmFRMHBFaFRTVjhxQTJSU0tJSGx1MmpWZVNSZVJjalpMQXlmTm4zeW04djdfazFSdHlvSG9CVFdGVWNZZk5ZclVmTGJGUHdLbS1HdERhNEJXLXdNa2l2Z2ZRZlNLZHZObkdKa2JMcXdrbFF5OA?oc=5)
+
+---
+
+### [Des traitements contre le cancer du sein exposent les femmes à un risque cardiovasculaire accru](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdlZCQzNQaUdiX3dENDZZRFZRYjBNSURxTDE1cHYydEFMSDBxRTg2WnA3QW44elZrQmNwMEdpVHZpUXpabXA0QUt1ZHRmenUxckhuY1NXS3VHN2k4TlhNQjRtcnZWa3dGYmtkal9kRE9BdkJHT1FCdG9iU2E0TTBSV1JhVnR2a0RvX3RXRUIyY3dCQlFhcnpZbVlOc2NtSFpGX2VzNXQ3emtpNTBHbFhKXzBwN18yRENnTGI2MHpJNFZFM19EUFBIT2V0MGpKZXIxem1BbFphRUhjQWNuYV9NbjkyaTFFVUVaZUZKMXZ4WGJRRnYz?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdlZCQzNQaUdiX3dENDZZRFZRYjBNSURxTDE1cHYydEFMSDBxRTg2WnA3QW44elZrQmNwMEdpVHZpUXpabXA0QUt1ZHRmenUxckhuY1NXS3VHN2k4TlhNQjRtcnZWa3dGYmtkal9kRE9BdkJHT1FCdG9iU2E0TTBSV1JhVnR2a0RvX3RXRUIyY3dCQlFhcnpZbVlOc2NtSFpGX2VzNXQ3emtpNTBHbFhKXzBwN18yRENnTGI2MHpJNFZFM19EUFBIT2V0MGpKZXIxem1BbFphRUhjQWNuYV9NbjkyaTFFVUVaZUZKMXZ4WGJRRnYz?oc=5)
 
 ---
 
@@ -182,14 +198,6 @@ permalink: /news/ceritinib/
 
 ---
 
-### [Un estudio asegura que si tomas huevos tienes hasta el 27% menos de posibilidades de tener alzhéimer que quienes no los consumen - Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
-
-2026-05-06 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
-
----
-
 ### [Tumori, negli Usa una donna in remissione senza terapie - la Repubblica](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXZpbEp2SkVvRnBKbWYtSXhXNjNYZ21TX19EUWZnSGxHaWVfU0J4VnhQX1Ata3hqX2xZWEF5aWxlSHJqdUx5bnI5MWpaQmZsRGhtcHlrZFdyTUotOVdndncyYmNWM1pHTTZUbmJhNHZ2ejNaX0Z3UWpsOXpIdU9MSHZyU1NLMmszckUyR1M1TTlCWThVN0pKZGhDcjYxaVc1MnlV0gGoAUFVX3lxTE9NLXdzY2NuTGJtS1h2b1BxRm1QQmxjVDNMNWhwYWJKN3NnbE1oek5MTHZDMFE1NDdnTkZtbHBuempJeGdBNW9NNXE4R055eXZLYjJkT2tac2p0Um1CWlMtM2VmcDlHaW5KQmJBSTRuYkxLZEY2MTNyUlFVV01Xb3V1QkE1N2ZhZ2F5Y24xS052cHV6cmRBd3paRk9rbXVPTGVzNGZnWmNqcA?oc=5)
 
 2026-05-06 <span class="news-indication-tag">tumor</span>
@@ -219,30 +227,6 @@ permalink: /news/ceritinib/
 2026-05-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
-
----
-
-### [Krebs: „Könnte Heilwirkung steigern“ – Forscher knacken erstmals Schutzschild gefährlicher Tumorzellen](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
-
----
-
-### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
----
-
-### [C’è un collegamento tra apnee notturne e tumori. La scoperta all’ospedale Sant’Andrea di Vercelli - La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
 
 ---
 

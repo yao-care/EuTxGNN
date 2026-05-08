@@ -64,7 +64,7 @@ permalink: /news/tirzepatide/
 
 ### ['I'm a GP and lost six stone on Mounjaro - but I wasn't expecting it to cure my endometriosis' - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
 
-2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
 

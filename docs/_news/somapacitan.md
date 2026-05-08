@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+---
 
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/somapacitan/
 2026-05-07 <span class="news-indication-tag">diabete</span>
 
 來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
+
+---
+
+### [Blue asthma inhaler users issued urgent warning to call GP](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
 
 ---
 
@@ -115,14 +131,6 @@ permalink: /news/somapacitan/
 2026-05-06 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzlOVi02LU1EempFT1hHZkVLVzRZSGxNdGI3U1lrV3RDUzNuZnlXeldIZzVPLXJzVDRrTEJYWXU3Tnprei1qS1RLMmI5bGw5eVN6N05fZE9VMThKUktYbER3SGVaajNzZUJGN3gwMjZjS21fT2FmcTlyVEVrMkp6MHJYa1JRUHBtSTRLcjNPWktTY0QzQVR4dWhTUzAtYXdtM0xhODhVRXVmNC1mbUVaUU1nc1JaVHBMSHROeUUyZVpscHowOGpSMlRFNXppX1NKMWc?oc=5)
-
----
-
-### [Gezielte Bewegung reduziert Leberfett signifikant](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTlKdjF3MDVpS04tZ2ljcFVVaWVIdVB6UUQzN09ITGwwMlVpU2ZLcTJsd1ZmN0FJSDR0dk1kN3dhX2p5V1ducVdnVUU4ZWpzUUxtRGpsY2N2bkZ6MnhBYnVXUFhmZkFVWnVYN2Z3cUp0cTRrRGtPaWtnSHdHVk1WSzNZSldQdzJS?oc=5)
-
-2026-05-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTlKdjF3MDVpS04tZ2ljcFVVaWVIdVB6UUQzN09ITGwwMlVpU2ZLcTJsd1ZmN0FJSDR0dk1kN3dhX2p5V1ducVdnVUU4ZWpzUUxtRGpsY2N2bkZ6MnhBYnVXUFhmZkFVWnVYN2Z3cUp0cTRrRGtPaWtnSHdHVk1WSzNZSldQdzJS?oc=5)
 
 ---
 

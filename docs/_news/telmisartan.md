@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
 ### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
@@ -94,7 +94,7 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Herz: Auch ein zu niedriger Pulsschlag erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+### [Auch ein zu niedriger Puls erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
 
 2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
 
@@ -104,7 +104,7 @@ permalink: /news/telmisartan/
 
 ### [Cook more at home to reduce ultra-processed food intake, say cardiologist groups - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 
-2026-05-07 <span class="news-indication-tag">cardiovascular disease</span>
+2026-05-07 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 
@@ -126,27 +126,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Vaccin grippe : les soignants bientôt obligés de se faire vacciner ?](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LSFVyd1pDV3JEdEhaY25iSkI4NTEyS0V1RE9zX2h4UmlrV2RlTTdZVGlaOHFtRHU0ZjkxdFdKQktCVk1FYjB3a1ZLcGtVSE5XbTZvYlRiVXpEMnh5dHhJUV9TUFUzSXhKN3hVN1NFRjlxN204UGc?oc=5)
-
-2026-05-06 <span class="news-indication-tag">CVA</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LSFVyd1pDV3JEdEhaY25iSkI4NTEyS0V1RE9zX2h4UmlrV2RlTTdZVGlaOHFtRHU0ZjkxdFdKQktCVk1FYjB3a1ZLcGtVSE5XbTZvYlRiVXpEMnh5dHhJUV9TUFUzSXhKN3hVN1NFRjlxN204UGc?oc=5)
-
----
-
 ### [SEPAR alerta del infradiagnóstico de la hipertensión pulmonar pese a los avances terapéuticos - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
 
 2026-05-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmhiT2dyZlBmbzhBU1M0b25QQ1RiTkJnWjdvdjdsVHd4LVViVnZRYXFZbHZfbFVBb2RDdjd2ZzBVV29xaERlSnFSTG1kNGxHYnRrS3ZaTFktdHVCWkNUVjhNaHNaenVxVTB6R05YRUxOOXR4YkhvS1ZIMDhOSGlDejdmQnNwVFZsRU9tcml4aThfX3FVMllnNW12eHprdlBSeTNoeEYycjNES041ejQwOE1OUmZuWVYtdGJlSjVUUGE?oc=5)
-
----
-
-### [Salud cerebral: MindGuardian, la neurología preventiva y el reto de tecnoproteger nuestro activo más valioso](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Zonamovilidad.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
 
 ---
 

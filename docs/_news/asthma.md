@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Blue asthma inhaler users issued urgent warning to call GP](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
+
+2026-05-07
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
+
+---
 
 ### [Los expertos en asma coinciden: estás usando mal el inhalador y aumenta el riesgo de crisis respiratoria](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlMTHJRR1JRRUVmZjFySWZtRzdqM2d0ZDBmOXFsT2M0UHR4cVRNNEVWUkl5MTRDRmU3NXZtUk83V0p6Tmcwc2UxbnMxR1NoRnRFWmhhNXE3aHoxRWkzVFpuaFVrN0R1WDFDbDRZS3cxeDVZWEhUYnJEdC1xT082MGlkZ1JHVWhreFFWcVltMk1JYTFrMzI1YUZHSzlCQjdGZVBFTjkxbEV3V01QMUNqV1FqSmYyM0tfaUlXZmZB0gHDAUFVX3lxTE9VUTVwckVUaFMxZlhNLUF5VnliOGE1bGQ4LWRVeGpmWkRGOXQ2Uk9QWDJoYU5EYkxMZ3l5YkdfUUdXOUFyVEt5aGpHTG9DYUZiZ2s2c05LM0VmR0ZQVTJQTkQwZmZsRFZoaEZPM3NaSHg4X1M2RHp6SFhjU3p4VlBZRHF4cXljRlJZbGdmZy1QOUR2QmctSjl4QVM4NF9QLWJsWElVQlpwb2NRM0JLQmVydjFhcHYyZ3J6RFRPTFkwY01iYw?oc=5)
 

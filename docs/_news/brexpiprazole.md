@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Höhere kognitive Leistungen könnten Rückfall bei Depressionen vorhersagen](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlETEhSTVNFdVBOXzc0NjlvYTRuMG1uSGdVVUc1ZEgwc3BQZ2RIaGtfYzhVeEZNcDNqenZfMTRqVGVzWWh5T3JEZzRnTTFzRjM2V3AtZkUxZHZjdC1SNzNFY3B1SW8wT2NGMWtpRENWZEZsSXI1M04xZlZVMmFPeGhlYzVsREtBdEptYndfNFRYd1dqcERkZndsMFNvU0tBZHNLdEx6UUZodFFV?oc=5)
+### [Hirngesundheit: Neue Forschung zeigt, wie wir unser Gehirn schützen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk5HTElDRXJYandoZTVLOFFRckxZSFh0S0c4R2d6S0tMaHh3eW0tU2lCc2VlSUFzVmRROXlWeFRQcDF2YzBGaHBWY3lGM2d5aDhlX0taUzRWaGpPZWVmVTEzUncxaFk1NEpfZkF6djFiOTVIN0hEcEZpb2g5R3BweTRMX2ZNTFhSV2VKeGQ2NVJFN3o5OVl5aEE2NEN3Z3c4SDRDaTRFWWcwWlNLajJiRzhnSlUtdw?oc=5)
 
 2026-05-08 <span class="news-indication-tag">depression</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlETEhSTVNFdVBOXzc0NjlvYTRuMG1uSGdVVUc1ZEgwc3BQZ2RIaGtfYzhVeEZNcDNqenZfMTRqVGVzWWh5T3JEZzRnTTFzRjM2V3AtZkUxZHZjdC1SNzNFY3B1SW8wT2NGMWtpRENWZEZsSXI1M04xZlZVMmFPeGhlYzVsREtBdEptYndfNFRYd1dqcERkZndsMFNvU0tBZHNLdEx6UUZodFFV?oc=5)
-
----
-
-### [Por qué te sientes más cansado en primavera y cómo distinguirlo de anemia, hipotiroidismo, o depresión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcV9Gc2c2OEdYZkNoT0RrbE9uQWZjMTl4YUZiaGJTajBZT0NfV1hjc2tuX3VJYjdYeHo1UTl5ejI3WGxURWdNUnB2blBzR1FJeHo4VGxJc3J5UVZOYi1xZmxMYktXNGZiZ2drdWZRUnBkb3p6NEtGV180QzVfNWV3WEoxcGNSeHg0RF8tWjBEMDR4YlMzRDJpSzA4djI2LXJCUVNKTkdvR1d5X195YnJMcFlNTWhKRVBCb0pyal9yTG1SWEw1TzZxblI0a0VoUGFFYTRJRnhVay0yWGt3ZDZid3NLaDJZdw?oc=5)
-
-2026-05-07 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcV9Gc2c2OEdYZkNoT0RrbE9uQWZjMTl4YUZiaGJTajBZT0NfV1hjc2tuX3VJYjdYeHo1UTl5ejI3WGxURWdNUnB2blBzR1FJeHo4VGxJc3J5UVZOYi1xZmxMYktXNGZiZ2drdWZRUnBkb3p6NEtGV180QzVfNWV3WEoxcGNSeHg0RF8tWjBEMDR4YlMzRDJpSzA4djI2LXJCUVNKTkdvR1d5X195YnJMcFlNTWhKRVBCb0pyal9yTG1SWEw1TzZxblI0a0VoUGFFYTRJRnhVay0yWGt3ZDZid3NLaDJZdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk5HTElDRXJYandoZTVLOFFRckxZSFh0S0c4R2d6S0tMaHh3eW0tU2lCc2VlSUFzVmRROXlWeFRQcDF2YzBGaHBWY3lGM2d5aDhlX0taUzRWaGpPZWVmVTEzUncxaFk1NEpfZkF6djFiOTVIN0hEcEZpb2g5R3BweTRMX2ZNTFhSV2VKeGQ2NVJFN3o5OVl5aEE2NEN3Z3c4SDRDaTRFWWcwWlNLajJiRzhnSlUtdw?oc=5)
 
 ---
 
@@ -75,14 +67,6 @@ permalink: /news/brexpiprazole/
 2026-05-06 <span class="news-indication-tag">depression</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN0ozNnpRTGVqYVNBOE1rc1hObW5FRGY3MFZfV0ZOM1FuS1NTWE9YdXdlMUYydkEyaGt4OEEwbWlvUkp4eVBJbmFQeTRDR0dCN0lyTEM5NXZ1OHRla0t1TzlBSGNsVC01WTF0UkhmaWdZREo3OXZCdUpGTHBGWTUzSkZZaURyTWc2QUZZSW1GbkNiMGtOTHgzTDVramVyUnppQk1ZYlNEVjYxSjFMRVBiclZtLTdmMFgtUEpaU3Bwd0d3bHIxX1pKSWFDand5d0hCU1g2RkhzSmtLcV9nTkZpaEVSS1p2YnZtb0VYX2R4QWVfX3k5RjFrbU5wd1JoWnNfSWZ1b21LbkVWNms?oc=5)
-
----
-
-### [Large study finds a strong link between depression and problem cannabis use - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHFMRmcxelNON3RqM1JPRjF5dHJTQ0UxYkN5Tk83Q19pSEV2dDhYNC0ycVg5dUZFZ3ZzQkVTREFXSy0zc09lMjlZOVNpRUZrclcyWEQ5TzBQNFAtaV8tTjAyZ0VhaDJFTk9INUpjTVEwSkRHMkhHc1BuTUlQSUF6VGtEX1ZBUDVT?oc=5)
-
-2026-05-06 <span class="news-indication-tag">depression</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHFMRmcxelNON3RqM1JPRjF5dHJTQ0UxYkN5Tk83Q19pSEV2dDhYNC0ycVg5dUZFZ3ZzQkVTREFXSy0zc09lMjlZOVNpRUZrclcyWEQ5TzBQNFAtaV8tTjAyZ0VhaDJFTk9INUpjTVEwSkRHMkhHc1BuTUlQSUF6VGtEX1ZBUDVT?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（8 則）
 
+### [El Ozempic también tiene riesgos para el pelo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+
+2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+
+---
+
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
@@ -86,6 +94,14 @@ permalink: /news/ziconotide/
 
 ---
 
+### ['I'm a GP and lost six stone on Mounjaro - but I wasn't expecting it to cure my endometriosis' - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
+
+2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
+
+---
+
 ### [Mal di testa, cosa c’è da sapere. L’esperto: alimenti sconsigliati, stile di vita e farmaci per combattere l’emicrania - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
 
 2026-05-07 <span class="news-indication-tag">emicrania</span>
@@ -94,27 +110,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### ['I'm a GP and lost six stone on Mounjaro - but I wasn't expecting it to cure my endometriosis' - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
-
-2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
-
----
-
 ### [Adipositas-Therapie bei Senioren: Chirurgie schlägt Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
 
 2026-05-06 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdElrazlldmRCYTg3VURGdTM4ZVd6cHM0U2pidldvakcyWWF4OWhsVVVKTG9CN3QxUXE0LWN4Q1d3T0c2d2ktRlFWVng0MENfTC1RTktmb2FEaHB2OE5mdzVhYUJPTVZmYXZiMUF3MkU2b0dHVTNnRllZbGRlX0Q1c2JIXzJUV1lNcExMZXFEMkNqNFl0Uk80QXl5Ml9TQV9Eb18wOGpFQ3pLY0E0TXhyM013?oc=5)
-
----
-
-### [My brain SAGGED and leaked when I stood after 'migraines' - only caffeine helped - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Ezamt6enlfckZ4MjVtTWlqWklDeldSdXFocUxRTWlsV2xqdjNmdzJqWWdGMW5KTzU3WFRMeEI5TWFjc3pSbUNMeFNRVVI4RzVZY1U1SkU2M093eERNdzBjT3ByTnNtRHAycW9HeF94YllzMG41aTdJVW1hamQwUGpXU193bjR5UXF3UURYYnM?oc=5)
-
-2026-05-06 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Ezamt6enlfckZ4MjVtTWlqWklDeldSdXFocUxRTWlsV2xqdjNmdzJqWWdGMW5KTzU3WFRMeEI5TWFjc3pSbUNMeFNRVVI4RzVZY1U1SkU2M093eERNdzBjT3ByTnNtRHAycW9HeF94YllzMG41aTdJVW1hamQwUGpXU193bjR5UXF3UURYYnM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
+
+### [El Ozempic también tiene riesgos para el pelo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+
+2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+
+---
 
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 
@@ -112,13 +120,13 @@ permalink: /news/orlistat/
 
 ### ['I'm a GP and lost six stone on Mounjaro - but I wasn't expecting it to cure my endometriosis' - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
 
-2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
 
 ---
 
-### [Herz: Auch ein zu niedriger Pulsschlag erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
+### [Auch ein zu niedriger Puls erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
 
 2026-05-07 <span class="news-indication-tag">Schlaganfall</span>
 
@@ -147,22 +155,6 @@ permalink: /news/orlistat/
 2026-05-06 <span class="news-indication-tag">stroke</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR09yQmwtelZaNTU0UUp3YmxJTl9GM0g3QmM1R2hTMTN2bGhLX0tUblRLRnBGYXZsOXVrTHFXY2FRWFgxX3RHcVdpcTV4SmZUcWlveDhvNk4tdVhSQjFpNXJTeFU1dnJyMzdvLTVYNnlIUVVNV3pVOTJkYk5wRlR1RS1VUm14Zk9Pazlfcm81dUNFeU5PS3lz?oc=5)
-
----
-
-### [Vaccin grippe : les soignants bientôt obligés de se faire vacciner ?](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LSFVyd1pDV3JEdEhaY25iSkI4NTEyS0V1RE9zX2h4UmlrV2RlTTdZVGlaOHFtRHU0ZjkxdFdKQktCVk1FYjB3a1ZLcGtVSE5XbTZvYlRiVXpEMnh5dHhJUV9TUFUzSXhKN3hVN1NFRjlxN204UGc?oc=5)
-
-2026-05-06 <span class="news-indication-tag">CVA</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LSFVyd1pDV3JEdEhaY25iSkI4NTEyS0V1RE9zX2h4UmlrV2RlTTdZVGlaOHFtRHU0ZjkxdFdKQktCVk1FYjB3a1ZLcGtVSE5XbTZvYlRiVXpEMnh5dHhJUV9TUFUzSXhKN3hVN1NFRjlxN204UGc?oc=5)
-
----
-
-### [Salud cerebral: MindGuardian, la neurología preventiva y el reto de tecnoproteger nuestro activo más valioso](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Zonamovilidad.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
 
 ---
 

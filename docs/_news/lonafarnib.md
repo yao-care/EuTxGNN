@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 cardiovascular disease</span></li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 heart disease</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -72,7 +72,7 @@ permalink: /news/lonafarnib/
 
 ### [Cook more at home to reduce ultra-processed food intake, say cardiologist groups - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 
-2026-05-07 <span class="news-indication-tag">cardiovascular disease</span>
+2026-05-07 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 

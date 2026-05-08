@@ -56,9 +56,33 @@ permalink: /news/alemtuzumab/
 
 ### [Hantavirus, caccia a contatti passeggeri. Ue attiva meccanismo protezione civile - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
 
-2026-05-07 <span class="news-indication-tag">MS</span>
+2026-05-08 <span class="news-indication-tag">MS</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmowWFlDcVFzc2JhSnJOU2NSaU9pR3N1LURfLWY4NmZtZ0pyQ3VlV183RWZIWUpwdmpMd1lVRDlDaFNZdUpPVl92MVlSMFFuMDlwMF91MU90ZFNDSEZxZnRhWXN5SVlhOFBJY3NJd0otQ1dWbE9OUmN3?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
+
+---
+
+### [Cáncer de ovario: avanzar en diagnóstico precoz, el gran reto de uno de los tumores más complejos - La Razón](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFJPdUozdFBYMkhkWnNFdEIwQXh5NHpIZXd0cWRPWm1YdTBwXzhJczFFV2RmVXZaSUY0UG02Rks0VjZDOGk1N2cwQndBYzBZYVRFYzRrM0hScXh6UWEyNm1hQVE5cTZGTkNqN2F6MVVndlN4QXVsbm9VdVhhem5RYWtzdDNYelctNjdod3AwTU1WTVNEei1BWFdCR1RvR2hfTVVLNXFzdHpJTURvdHd0dG1oTS1DTW8zd3NlTmFfbFNQTVN2TkZ4N19ENUl5M1d0TURtR2pxT0JjVDZSNjdLRVFHMzBVNmJ2b1JsNTVPcjhwdDFKZzRtUmhkc9IBjwJBVV95cUxNSnUyMWlIbTF2bTFQT1R3ZWtadFVfaDRlNThYamJSWkhLd0FsN25tVmdDTG1tajdSQzFxWE5xWjNmVkFGZFZaeHJMNkgxTy1jaDgyNi1XTWdMMkZTaS1WNjdYUG1BTHducmFjdmJtYXNaNXNFUVhFUUVXR0lqcUp4czNEcGt2RXA0aERuM0p6Ti1hQ3Jlbl81X2NYVDFWWEZ6dFJHcXFZLVlHLU5wR0xyRVZyVi1UdmF5NmpCUkxnVHpaTlBiOG5tX0I5S1k1Zm8zUGQxYnhVT0RlWVBsamVGa2JodWFzNjFNbDhmTi15VFRfVlVxdGVXTkNyVXlIWnJiLW5UbUxiWmhaZE5jZDRR?oc=5)
+
+2026-05-08 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaFJPdUozdFBYMkhkWnNFdEIwQXh5NHpIZXd0cWRPWm1YdTBwXzhJczFFV2RmVXZaSUY0UG02Rks0VjZDOGk1N2cwQndBYzBZYVRFYzRrM0hScXh6UWEyNm1hQVE5cTZGTkNqN2F6MVVndlN4QXVsbm9VdVhhem5RYWtzdDNYelctNjdod3AwTU1WTVNEei1BWFdCR1RvR2hfTVVLNXFzdHpJTURvdHd0dG1oTS1DTW8zd3NlTmFfbFNQTVN2TkZ4N19ENUl5M1d0TURtR2pxT0JjVDZSNjdLRVFHMzBVNmJ2b1JsNTVPcjhwdDFKZzRtUmhkc9IBjwJBVV95cUxNSnUyMWlIbTF2bTFQT1R3ZWtadFVfaDRlNThYamJSWkhLd0FsN25tVmdDTG1tajdSQzFxWE5xWjNmVkFGZFZaeHJMNkgxTy1jaDgyNi1XTWdMMkZTaS1WNjdYUG1BTHducmFjdmJtYXNaNXNFUVhFUUVXR0lqcUp4czNEcGt2RXA0aERuM0p6Ti1hQ3Jlbl81X2NYVDFWWEZ6dFJHcXFZLVlHLU5wR0xyRVZyVi1UdmF5NmpCUkxnVHpaTlBiOG5tX0I5S1k1Zm8zUGQxYnhVT0RlWVBsamVGa2JodWFzNjFNbDhmTi15VFRfVlVxdGVXTkNyVXlIWnJiLW5UbUxiWmhaZE5jZDRR?oc=5)
+
+---
+
+### [Three Tyneside mothers diagnosed with terminal ovarian cancer after putting symptoms down to the menopause - Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
 
 ---
 
@@ -67,6 +91,14 @@ permalink: /news/alemtuzumab/
 2026-05-07 <span class="news-indication-tag">Krebs</span>
 
 來源：[FITBOOK](https://news.google.com/rss/articles/CBMibkFVX3lxTE1lbUJ1S1NQTkVwS1Y3VU5FM1RiTEZiMG9iZFhMY0tQdlF5Rl9sTjU1MnV6Um1ucTJFNk1rQU5NcERjWGlwMjFscjNpemlIM05RWWxvdzhBd2xvT0pwY1FOdnRlTktSVmZhNmk1bEZn?oc=5)
+
+---
+
+### [Los posibles focos de contagio según la OMS: primer y segundo desembarco y el vuelo a Países Bajos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXZMM2lQYXNKcTdDcFV0TWlWU2xoand2R0JnRGJpVjBHZ3RLc09MWTB1cUJ5YTZJMV95VmF0VVhndGZBOFBGV1VWc21BS2huMEF4NjBOeXVnV0VMZzM0ZWJLY281TTVKVkNSR0F4b0s0S2FTTXpNYWVtTUw1Y3BkZzh0a01FMVhwUWx5TElkYzFabFk0VUNJc0pNQjllNE85Q3NtakgxcEpnbDk0RmpsQzd1R0JYWlBPeTRDbFhTQ25MeFhLYlpMUGlneTZpUEFaME1hM2FWTnIyZlFra0E?oc=5)
+
+2026-05-07 <span class="news-indication-tag">MS</span>
+
+來源：[telecinco.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXZMM2lQYXNKcTdDcFV0TWlWU2xoand2R0JnRGJpVjBHZ3RLc09MWTB1cUJ5YTZJMV95VmF0VVhndGZBOFBGV1VWc21BS2huMEF4NjBOeXVnV0VMZzM0ZWJLY281TTVKVkNSR0F4b0s0S2FTTXpNYWVtTUw1Y3BkZzh0a01FMVhwUWx5TElkYzFabFk0VUNJc0pNQjllNE85Q3NtakgxcEpnbDk0RmpsQzd1R0JYWlBPeTRDbFhTQ25MeFhLYlpMUGlneTZpUEFaME1hM2FWTnIyZlFra0E?oc=5)
 
 ---
 
@@ -94,14 +126,6 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Cancer du sein : ces traitements exposent les femmes à un risque cardiovasculaire](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
-
----
-
 ### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
@@ -123,6 +147,14 @@ permalink: /news/alemtuzumab/
 2026-05-07 <span class="news-indication-tag">MS</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlZkc3lZLS0yR2pnN3pOWkNjcGtEUHc1QS1rZkVHelBTSzRPMWtIWlM3NTNCczdWWW5GZzJKYk94dFlYR3Y4LUw2LUxNV3NfcV9OZ2xPYS1Ecld2X0ZxZ3J5ZXNxMTEtMHZhVzQ0MmNKbzkzVkxZTnJvbkI3VE9jSEFvZWVBUG1XVUVFQ0ctU2pmbDQ2ODU5SkVIWVNfcEZHTGRnT1ZyNzgwdWtxd3VDNE40d3Z0SmVSSElhUVNNNVNpQdIB1gFBVV95cUxNcWpzeXdESWl0bFZiVHhmNnJTTWc5M0UtV0VmS0JTdlpJMU5wOC1CSXJTTFI4bHI2bmR6bzU1MTJtRERQMkhQcEJxTDE5NnB3aVZsVzB2emNWT2JPaVVjVHExTFZ4RW4xNWNTTGZucnNURWtWQ3F2dWVxSVBOUzk0NlBXa3N1azZiMXlYNWx1d2gzX3g3WTdVbm9DSTR2WlNEc3J3V0tvaHZFSjV0LU5EOFJGZ014bEN6aFZETU5VTzlaNFZTNk9zVGE4MGxUTHdVLVBnQ2Rn?oc=5)
+
+---
+
+### [Des traitements contre le cancer du sein exposent les femmes à un risque cardiovasculaire accru](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdlZCQzNQaUdiX3dENDZZRFZRYjBNSURxTDE1cHYydEFMSDBxRTg2WnA3QW44elZrQmNwMEdpVHZpUXpabXA0QUt1ZHRmenUxckhuY1NXS3VHN2k4TlhNQjRtcnZWa3dGYmtkal9kRE9BdkJHT1FCdG9iU2E0TTBSV1JhVnR2a0RvX3RXRUIyY3dCQlFhcnpZbVlOc2NtSFpGX2VzNXQ3emtpNTBHbFhKXzBwN18yRENnTGI2MHpJNFZFM19EUFBIT2V0MGpKZXIxem1BbFphRUhjQWNuYV9NbjkyaTFFVUVaZUZKMXZ4WGJRRnYz?oc=5)
+
+2026-05-07 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdlZCQzNQaUdiX3dENDZZRFZRYjBNSURxTDE1cHYydEFMSDBxRTg2WnA3QW44elZrQmNwMEdpVHZpUXpabXA0QUt1ZHRmenUxckhuY1NXS3VHN2k4TlhNQjRtcnZWa3dGYmtkal9kRE9BdkJHT1FCdG9iU2E0TTBSV1JhVnR2a0RvX3RXRUIyY3dCQlFhcnpZbVlOc2NtSFpGX2VzNXQ3emtpNTBHbFhKXzBwN18yRENnTGI2MHpJNFZFM19EUFBIT2V0MGpKZXIxem1BbFphRUhjQWNuYV9NbjkyaTFFVUVaZUZKMXZ4WGJRRnYz?oc=5)
 
 ---
 
@@ -251,38 +283,6 @@ permalink: /news/alemtuzumab/
 2026-05-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOenpGWWhSYXFMRGRCcTBHVXQ4ZFI1THZ6Nk12T2Nmck14by1zSDgwaHI0STlQeDJXN3I0dGJZNU8tVEVoZTBkSXhDWVN3RC03cGVsWTkxSS1HcExBZWpteFYzb2U3Qi1wb3k0LVVWTUdCQlRiZk1fVkRTelF5Y203d2VMZXUyQllpRkdxR0FCbUptd21idzM4Y2F6bHo1VFdsTXF2Qg?oc=5)
-
----
-
-### [Salud cerebral: MindGuardian, la neurología preventiva y el reto de tecnoproteger nuestro activo más valioso](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Zonamovilidad.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1haRkpBUHgyRjI1T0xOd1lVelR3azU4ZjRMQVVvLWhXeUZRY0FINUMwTmVJVU9pLVYwVmduNFZNV0Ywcy04T056aTdxZ2hYRTRSdW1zLUFwSnNBY0hjTHIwcnRNaVNkUVd3RmE0NEZlXzZ3a3RSb3Y0b29qdTEyN1FUX1c3cWZOLXN1VUkwbnZFNVpGVVhKSDRnOElQUDZFMi1ZcXZXb3AtdEtheUE?oc=5)
-
----
-
-### [Krebs: „Könnte Heilwirkung steigern“ – Forscher knacken erstmals Schutzschild gefährlicher Tumorzellen](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
-
----
-
-### [Woman who put bloating down to menopause diagnosed with colon cancer - Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVRkQ2hXODdINm5oLVd2QXBhODRGR2h2LTdIWUFDNWdzN05TUlotZlRJY1IydVBlVTljUE1PRjFDSy1qWlU0YnhFY1owQUFRN0N1UUxFOTdrVFRodUZUUEVnN0w2d3pNY3A4cVBfZjFRUkc2MnJHMmoza3prcTZLb25IZUx6ZWF2bXdCcjJmSk5TSDlqRjg4ZHpOXzlOelI3Rl83d2l3?oc=5)
-
----
-
-### [C’è un collegamento tra apnee notturne e tumori. La scoperta all’ospedale Sant’Andrea di Vercelli - La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
-
-2026-05-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0RoRFI4NTRRSEdsNEZKejN5VjZfcDJOV255bXdRcFA2SzhFS3M2M0pKT3pfZjVicUVxRXJjOGQ5WVpMNnRObVhxZTBOTlIteEpFeHlpNHppVGotQ0hYVU03Uk9HOS1qYjZKNzdYRTlyR0I5a2tfZ0wxY3E4U0gtRGY1NkZnY1NnVjlzSE5zQ25vSDdycW9TdUFUVnFhekFJU3fSAacBQVVfeXFMTXVXU0ZIUFNOS2xXb0lVV0tyVU9ndzFqY3V4NmczMWRaSThucGVkRHg0OEhnUnhLM0h3OXlSYlQwUmE4Y3NyZjdEVTRqckpSZHEwTWM4dzRFUGJtMkEyZU1Ea0FwZlU0Z001QUhVUDZyS3E3X1lrYjY1aGVDcUtBNDdlcWtFZXVNRWgzQzY0cm1IbVBFX25nS2wtdkRUOHpsdFRqREtUeUE?oc=5)
 
 ---
 

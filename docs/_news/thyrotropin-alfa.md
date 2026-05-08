@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
@@ -80,17 +80,9 @@ permalink: /news/thyrotropin-alfa/
 
 ### [Cook more at home to reduce ultra-processed food intake, say cardiologist groups - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
 
-2026-05-07 <span class="news-indication-tag">cardiovascular disease</span>
+2026-05-07 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHZ2am9NV0t2RTJ5d2dEdURCYzJ2WEdxMTdydlJqMGlsaHlkYl9DYXJsanpPSW14ODE4Y2ZLZHRnNDA5NTBwVzR0Vzk4NjAyMHhhaGZ0SlpxRVZwd0owa1ZMLWdTS18zcG5Ha1VZLWw0RzJFQlJwQ0oxYlA2eTF1N2lWVmI4MFYydEFNci1yZmNfc3hNSThVLU8ydHh1Z09wQ0ZtV0N6WTNaSEltbi11Y09YOWtSajJ3a1JGTXNQRmxPN1A3c3c?oc=5)
-
----
-
-### [My brain SAGGED and leaked when I stood after 'migraines' - only caffeine helped - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Ezamt6enlfckZ4MjVtTWlqWklDeldSdXFocUxRTWlsV2xqdjNmdzJqWWdGMW5KTzU3WFRMeEI5TWFjc3pSbUNMeFNRVVI4RzVZY1U1SkU2M093eERNdzBjT3ByTnNtRHAycW9HeF94YllzMG41aTdJVW1hamQwUGpXU193bjR5UXF3UURYYnM?oc=5)
-
-2026-05-06 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Ezamt6enlfckZ4MjVtTWlqWklDeldSdXFocUxRTWlsV2xqdjNmdzJqWWdGMW5KTzU3WFRMeEI5TWFjc3pSbUNMeFNRVVI4RzVZY1U1SkU2M093eERNdzBjT3ByTnNtRHAycW9HeF94YllzMG41aTdJVW1hamQwUGpXU193bjR5UXF3UURYYnM?oc=5)
 
 ---
 

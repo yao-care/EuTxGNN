@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [At-home test could spot Alzheimer's risk early](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
 
 2026-05-07 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45YjJJQl9Qc0Jyd2plaXVyeE5sZ1M1Rm8zUk5NaG5wX2JZOUVqelBya1hLSEJLTzQxVFNxSDI0YmhBazZuRUJYcWVuSVNZX3RGWnR4NDdBSTJtaGRX?oc=5)
-
----
-
-### [Un estudio asegura que si tomas huevos tienes hasta el 27% menos de posibilidades de tener alzhéimer que quienes no los consumen - Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
-
-2026-05-06 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenFtclZsdmZaQkU3c0ZhaDZSeU5rZUI0WFlkRzBIZk1HN3V2akNoVGVOS1huS0N4TnhtRkVRQnhBalk2ZWFkb0RaRUlXLVhuWUlJSjJFWUNyaHJwRjktdExqT0ZPTjFSbTZ6YW5zaFN0QkRBd1p6d2xPZHJabHdXU29BdGhIN2ZuclBfb2Y1aFR1X1o1WENzX20zQXBwOEVzdlB3eXF2bUk3cGhvWGZQQU82dFZWVzJVUy03azBYRGNhX01COVNMcVcyVW1VQUw0aTZ2VVJneS3SAd4BQVVfeXFMTjQ4WjBjOW5QanhkQlVYUkpJMDYzc25PN0xnSmFtaUJfMEZORVhCRjFKR1dHcG1WdV84b0pfcjJKN2E1QUFSZ1lVdXNJVmFxLVA3bFpLTU1hQjFDbWZvRUZXaEdqeGo3TU5uTGpCNTMxRFUzSUZ6YzNZX2ZteW5UOVp6N2xZNjF0emxhdnJ4UDdnM3ZTMlh0eExmbHh5a0dyS1hPbl9YT0NkbGd3cGkzVldwQ2tlR2xsQVJiRUpTdERTdkdDMkpIcFJtaWc2a1hVa2p3T0lGQ1YwSlpPUWd3?oc=5)
 
 ---
 

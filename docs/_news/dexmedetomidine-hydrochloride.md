@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/dexmedetomidine-hydrochloride/
 2026-05-07 <span class="news-indication-tag">emicrania</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
-
----
-
-### [My brain SAGGED and leaked when I stood after 'migraines' - only caffeine helped - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Ezamt6enlfckZ4MjVtTWlqWklDeldSdXFocUxRTWlsV2xqdjNmdzJqWWdGMW5KTzU3WFRMeEI5TWFjc3pSbUNMeFNRVVI4RzVZY1U1SkU2M093eERNdzBjT3ByTnNtRHAycW9HeF94YllzMG41aTdJVW1hamQwUGpXU193bjR5UXF3UURYYnM?oc=5)
-
-2026-05-06 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3Ezamt6enlfckZ4MjVtTWlqWklDeldSdXFocUxRTWlsV2xqdjNmdzJqWWdGMW5KTzU3WFRMeEI5TWFjc3pSbUNMeFNRVVI4RzVZY1U1SkU2M093eERNdzBjT3ByTnNtRHAycW9HeF94YllzMG41aTdJVW1hamQwUGpXU193bjR5UXF3UURYYnM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [El Ozempic también tiene riesgos para el pelo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+
+2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2RjWjNfM3ViYk93Q2FHRkhGQUQ4eHg1c1dJQV9Za1pnYnlsOUl0X0hycG4yZkg4M054RkxPc1doT0libUNSYklTOVpVVEMzVERFNFFBdVhma0c3MGJrbndhQWJKTUZYVVZack85N2dKdkc1OUJiZEY0X1RjY1VpNE5ya9IBiAFBVV95cUxPc0M5eXR2cllfOW9zMEYzakNPNmhBQjU2U1lMTno5ekNJNWZCMDhSOUJBWG9VR1Q5WUpNWjBfdDlFajdoNzFhS3I3LVhfTm1vdEo1ZTdzUzhPSzJmVlVpeVhVMVRUWHZiMXdDbUhEa0xUaEw0TFc2YlRWd2RMUEpfYVFzZUU1TmdG?oc=5)
+
+---
 
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 
@@ -88,7 +96,7 @@ permalink: /news/naltrexone/
 
 ### ['I'm a GP and lost six stone on Mounjaro - but I wasn't expecting it to cure my endometriosis' - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
 
-2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRMdXpNRXlwU3BMMkhqNHFMdXp0YnJhb2VraDJuOUhNeG1kX0lYU3ZGRG4tSTh5eTdPUFBub295SU5xOXRTVHVYN3RSTFlseXdMLTcySnlIZmQweHJXZS16SzVRNUFLdEVER19LeEJZbVpFTWZwZDhuRHE3NnNhYmtXRlRsc1hWY21vYTVzSGhWdE0zTUhaZVoxaXJZeElZ?oc=5)
 
