@@ -14,7 +14,7 @@ permalink: /news/concizumab/
 ---
 
 <p class="key-answer" data-question="Concizumab 有什麼相關新聞？">
-<strong>Concizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Concizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/concizumab/
 <p><a href="{{ '/drugs/concizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Detectan carencias en el control de la diabetes postparto - IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
-
-2026-05-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
 
@@ -86,11 +78,11 @@ permalink: /news/concizumab/
 
 ---
 
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 

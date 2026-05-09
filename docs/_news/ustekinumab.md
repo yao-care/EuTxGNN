@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
 
 2026-05-08 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
-
----
-
-### [Detectan carencias en el control de la diabetes postparto - IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
-
-2026-05-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/ustekinumab/
 
 ---
 
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 

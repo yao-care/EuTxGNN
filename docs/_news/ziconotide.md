@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Los dermatólogos coinciden: el uso del Ozempic y peinados como el 'clean look' aumentan el riesgo de alopecia en jóvenes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEV5YkZLRjV3RFNuR1dUUk9NcXBoaDBaVVJSbVdxaFhtLXUtVXBabENMYk84ODhpdFpXVHhhU2tIcUVMUTFmVmF0NXRVejEzd3lmV3J5QnNsQ1ZUczdsdS1wUUVzenRzcHBiTVJ1Ynlld2RReGw5TkpERUJaSGVCRF9LcHhPWU0wcVZHZG9ySGNzbjVlUmxIME14QzlaT1liQW9BaU1fNzloekpHa3lmZ2ZJaTZPeWliZTNSUlh5dzZ0WUNkdUVfTUtnZDhBQjlr?oc=5)
-
-2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[heraldo.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEV5YkZLRjV3RFNuR1dUUk9NcXBoaDBaVVJSbVdxaFhtLXUtVXBabENMYk84ODhpdFpXVHhhU2tIcUVMUTFmVmF0NXRVejEzd3lmV3J5QnNsQ1ZUczdsdS1wUUVzenRzcHBiTVJ1Ynlld2RReGw5TkpERUJaSGVCRF9LcHhPWU0wcVZHZG9ySGNzbjVlUmxIME14QzlaT1liQW9BaU1fNzloekpHa3lmZ2ZJaTZPeWliZTNSUlh5dzZ0WUNkdUVfTUtnZDhBQjlr?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 
@@ -91,14 +83,6 @@ permalink: /news/ziconotide/
 2026-05-07 <span class="news-indication-tag">emicrania</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkpCZFdWUzZkYjNBS1NpTGNVak1kTEZZaDFRb0QwZ3BEck5XUXgtWkp6TGdZb3dPXzU3VS1EWjlxbXp4V3FSbXRCVEJabHBDcm9zYzVmd0ZkWVNHQUh2ajNjVWJaWlAtVmhMU1F3?oc=5)
-
----
-
-### [Chirurgische Eingriffe bei Adipositas: Effektiver als Medikamente für Senioren](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGJiaXliNGlkRGZDX2xfMkJTWVBLNU1uVkJaLUlRTHU3Y1VQaDA1NnViaFhqRXJrcVh0TEkyZTQ3Q1BHQ2F6ci1hSEVyaW5ETFBKaDRmb2hKQnJIdk9BdldFWENsVlEwdExQUkp3RF9DYkt1azVIZVFlQzh5NFYxSVY4MVBWNjBJbTVGTnJFUUNTRVpfcHdHRHg5UkxkS05fUE5KVXdpZzFDbWJwUEtF?oc=5)
-
-2026-05-06 <span class="news-indication-tag">Adipositas</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGJiaXliNGlkRGZDX2xfMkJTWVBLNU1uVkJaLUlRTHU3Y1VQaDA1NnViaFhqRXJrcVh0TEkyZTQ3Q1BHQ2F6ci1hSEVyaW5ETFBKaDRmb2hKQnJIdk9BdldFWENsVlEwdExQUkp3RF9DYkt1azVIZVFlQzh5NFYxSVY4MVBWNjBJbTVGTnJFUUNTRVpfcHdHRHg5UkxkS05fUE5KVXdpZzFDbWJwUEtF?oc=5)
 
 ---
 

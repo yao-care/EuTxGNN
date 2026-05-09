@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Los dermatólogos coinciden: el uso del Ozempic y peinados como el 'clean look' aumentan el riesgo de alopecia en jóvenes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEV5YkZLRjV3RFNuR1dUUk9NcXBoaDBaVVJSbVdxaFhtLXUtVXBabENMYk84ODhpdFpXVHhhU2tIcUVMUTFmVmF0NXRVejEzd3lmV3J5QnNsQ1ZUczdsdS1wUUVzenRzcHBiTVJ1Ynlld2RReGw5TkpERUJaSGVCRF9LcHhPWU0wcVZHZG9ySGNzbjVlUmxIME14QzlaT1liQW9BaU1fNzloekpHa3lmZ2ZJaTZPeWliZTNSUlh5dzZ0WUNkdUVfTUtnZDhBQjlr?oc=5)
-
-2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[heraldo.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEV5YkZLRjV3RFNuR1dUUk9NcXBoaDBaVVJSbVdxaFhtLXUtVXBabENMYk84ODhpdFpXVHhhU2tIcUVMUTFmVmF0NXRVejEzd3lmV3J5QnNsQ1ZUczdsdS1wUUVzenRzcHBiTVJ1Ynlld2RReGw5TkpERUJaSGVCRF9LcHhPWU0wcVZHZG9ySGNzbjVlUmxIME14QzlaT1liQW9BaU1fNzloekpHa3lmZ2ZJaTZPeWliZTNSUlh5dzZ0WUNkdUVfTUtnZDhBQjlr?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/orlistat/
 2026-05-07 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPcUVlamJNTzVSaURzTmxsRGhfckFzelVoQ2F0WTVzbTdGWGxQMmxHbFB4ejJOZmJuZTBCcG5ibUxVSDRBVjNZUmJIR083TlJHNGNiaHRjZ1pXVlBsWDRMM2VleXVQQjNyaTY2UjU4el82VTVwalphRmcyMndNVkMyejZYVTUzVXgxYkVxUlVGX2psS2xkVTl0UkNpWGFLb2J5VXZJcUwyVVlLd3RzeHh0OFZ3UmRLYkNQNnZNUUMwZnNEY2dBZ2M3VVE2V3ZuYWRMOTZ5NWpzQmZxVVUyVlZURDJ2ejh1dnJPY1BCa0oxSkxwTTVneThTd09QRFViWjd3ZTM5RlhR0gGLAkFVX3lxTFBRUHlodC1yUy1Fd3AyWGtrWno0am82LWI5YVl3X2ZMNXZxRnZJUUFtN3FST0lQQ2tsb2daODVDVzhaOGF4SjA3a2NTdTJjdmlubXM0cEZJRmpXWDZfZHdVajFuRG9reUJPaGlXQ1A1MjN6U3kwdld6NjlxYzkzb2E0S3h4WldSY2U0ZkpFODUwaUwyNDNnZzNIVW1CYjBRdEE3YVNoclhwWUdLbHAxb1R0TzN0QXlHRHRSZE9aMkVZYkRoMl9ocGlJWFZmZHFrdU04T1M5eFB3S2RSX09JMm5pZmdFUm9ESnlldXlDWFpKVmd1UDdhemN0Yng4UkhCQjZ2c2NhRjZ3S2dmbw?oc=5)
-
----
-
-### [Chirurgische Eingriffe bei Adipositas: Effektiver als Medikamente für Senioren](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGJiaXliNGlkRGZDX2xfMkJTWVBLNU1uVkJaLUlRTHU3Y1VQaDA1NnViaFhqRXJrcVh0TEkyZTQ3Q1BHQ2F6ci1hSEVyaW5ETFBKaDRmb2hKQnJIdk9BdldFWENsVlEwdExQUkp3RF9DYkt1azVIZVFlQzh5NFYxSVY4MVBWNjBJbTVGTnJFUUNTRVpfcHdHRHg5UkxkS05fUE5KVXdpZzFDbWJwUEtF?oc=5)
-
-2026-05-06 <span class="news-indication-tag">Adipositas</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGJiaXliNGlkRGZDX2xfMkJTWVBLNU1uVkJaLUlRTHU3Y1VQaDA1NnViaFhqRXJrcVh0TEkyZTQ3Q1BHQ2F6ci1hSEVyaW5ETFBKaDRmb2hKQnJIdk9BdldFWENsVlEwdExQUkp3RF9DYkt1azVIZVFlQzh5NFYxSVY4MVBWNjBJbTVGTnJFUUNTRVpfcHdHRHg5UkxkS05fUE5KVXdpZzFDbWJwUEtF?oc=5)
 
 ---
 

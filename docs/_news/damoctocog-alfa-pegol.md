@@ -14,7 +14,7 @@ permalink: /news/damoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Damoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/damoctocog-alfa-pegol/
 <p><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（28 則）
 
 ### [Krebs: „Könnte Heilwirkung steigern“ – Forscher knacken erstmals Schutzschild gefährlicher Tumorzellen](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
 
 2026-05-08 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
+
+---
+
+### [Tumore alla prostata, le nuove terapie mirate «per singolo individuo» riducono il rischio di mortalità - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkZBT0hGbVFaakN5NDFHT3RDV1RxOXFtbHF3SEdUUzRPSFdOd0N3aDNjdFVmWlZyOTJyQmFXTTB3bXFXZW9zb3RaN3h5XzNvNExUdkFiZUxzeFVxTE43S2I1bllTajU2WHN5ZFlpZW9KUUpNclpWNkdsNktRRXhiekR5T2xaMG5LMzFjVkxlZFBwcWYwUnBpN2hjYzhHYmgtcFUyakE1VFpyZ9IBnwFBVV95cUxNV1BHUmg4VFRLR09rTkd0T0pzR3Z6UTdjUHVtdC0xNS1CUThtQzBNNXFCMXhEMGliam5mTlBTVGpOMEFNZlU4XzMxQVlQVldyblA4SnRxUk1HRWxVamF1cUpKallZRWNNLVpHX2c0RUFkVlhTaC1HLURjMEVpTmt0dHprMXpPenpOc05SQ0xCXzBjZ0Jqbnd3dGxNbmdTLWc?oc=5)
+
+2026-05-08 <span class="news-indication-tag">carcinoma</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkZBT0hGbVFaakN5NDFHT3RDV1RxOXFtbHF3SEdUUzRPSFdOd0N3aDNjdFVmWlZyOTJyQmFXTTB3bXFXZW9zb3RaN3h5XzNvNExUdkFiZUxzeFVxTE43S2I1bllTajU2WHN5ZFlpZW9KUUpNclpWNkdsNktRRXhiekR5T2xaMG5LMzFjVkxlZFBwcWYwUnBpN2hjYzhHYmgtcFUyakE1VFpyZ9IBnwFBVV95cUxNV1BHUmg4VFRLR09rTkd0T0pzR3Z6UTdjUHVtdC0xNS1CUThtQzBNNXFCMXhEMGliam5mTlBTVGpOMEFNZlU4XzMxQVlQVldyblA4SnRxUk1HRWxVamF1cUpKallZRWNNLVpHX2c0RUFkVlhTaC1HLURjMEVpTmt0dHprMXpPenpOc05SQ0xCXzBjZ0Jqbnd3dGxNbmdTLWc?oc=5)
 
 ---
 
@@ -102,22 +110,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### ["Un diagnóstico precoz de cáncer de vejiga supone la supervivencia del 80%" - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcjFUWWhtWjRJZmJ5UnNBQXdsV3pxaGd6MkJ5UjJjcUhsdVZsSVdOZ2JtWnVfTHpzUXNjY3B2VWNXMWtCUDlqLVU5NFFxX2NKTXBkOVZwSTNsOVhzWm9YUF9lbGd1RjlMT1dRRWpWeGFRX0ViMDlyZC15Z2dUeFhkeEM2RUc0MkZWQV8ya0QwOHFHRGZJTm4wYlgzTEVwaGUwbEJXb0Nlc0JKOTZYem9vZ3YwUk5jb0RuX3FWX2ttMUR1RG14Q3N2eDhFa9IBywFBVV95cUxNQVhzdV9hM3FyTWdpdXZ4Wjdxc0g2VWNWU0R1ODBIaEt0aWR0aW1haUxnX28wbEpsVjhHOXQtcEIxLUVKcEtPam9NZWN2bmlKbG1XYUhqV0UwQVI1UGd2WHdmRFRtN2w5ZXU4YUYzSEw4S3lsUHEtYkFqTzlVZ3I0c3dNV1VOYzF0Z3k5ZjhKSTJJRzlmWHR3U2dKV0Q1bnVPcEZfZzVnbTI4WVZPT2pvV2tWemFCXzFGcVA5amYzYXFVTmJhVWxFM21Ldw?oc=5)
-
-2026-05-08 <span class="news-indication-tag">tumor</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcjFUWWhtWjRJZmJ5UnNBQXdsV3pxaGd6MkJ5UjJjcUhsdVZsSVdOZ2JtWnVfTHpzUXNjY3B2VWNXMWtCUDlqLVU5NFFxX2NKTXBkOVZwSTNsOVhzWm9YUF9lbGd1RjlMT1dRRWpWeGFRX0ViMDlyZC15Z2dUeFhkeEM2RUc0MkZWQV8ya0QwOHFHRGZJTm4wYlgzTEVwaGUwbEJXb0Nlc0JKOTZYem9vZ3YwUk5jb0RuX3FWX2ttMUR1RG14Q3N2eDhFa9IBywFBVV95cUxNQVhzdV9hM3FyTWdpdXZ4Wjdxc0g2VWNWU0R1ODBIaEt0aWR0aW1haUxnX28wbEpsVjhHOXQtcEIxLUVKcEtPam9NZWN2bmlKbG1XYUhqV0UwQVI1UGd2WHdmRFRtN2w5ZXU4YUYzSEw4S3lsUHEtYkFqTzlVZ3I0c3dNV1VOYzF0Z3k5ZjhKSTJJRzlmWHR3U2dKV0Q1bnVPcEZfZzVnbTI4WVZPT2pvV2tWemFCXzFGcVA5amYzYXFVTmJhVWxFM21Ldw?oc=5)
-
----
-
-### [Detectan carencias en el control de la diabetes postparto - IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
-
-2026-05-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2hDZkVPem5JOWdZbEdkbEpPZ18wWVNBbTZlbjN1a0g4MHZDOTloUHI1bXhfU1p6TEpyVnctSGFfVWo5RnBMU19yU0Y5aGhxNnYwUlhYM0FJaUYxSDczbDhVV3Zobm9NLVhrUUJHUldQX1JXMHo5TFJCM1FMMEYyYkdDalhaQk5qMlNhcmVfc2RDc25fZl9tRENpcWY0UThGTGJRZ1d0Nkh2Mjl0MDZyQ3h30gGsAUFVX3lxTFBPM1puR0ozaEc5V3BEOUNFZWJ0bC1FSngxV256VDF4bjhuQmhQQWRrNXVybmI5RGxCRnZjX1NLOFVUUUFDUVk2TmtESVRHcENmLXdPS2NoSTh2bVVsLVozempXWGcteWNUdUlXTTFtcnZCMlJNMXMwTUdpU0d4UEI1clU3U2I4SVpBal9jY1FUdlNLb3BZbEZmT3dHaUM3UjdqVlo4Y29PWF9lZjY?oc=5)
-
----
-
 ### [Los anticuerpos conjugados dirigidos demuestran un gran potencial en el tratamiento del cáncer de ovario - Salud a Diario](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3dITUNpMjR4aVpqNF9fNDhqTmFYVnJpaUx6YlFPMFB6bUd4WWdldk5RUGNUU0pRY2JaZVBBNDJCMEY3MktxOW82bThTanJpbHUwWGcwTVY4MG1LaFVpS1Z1aGxGT20zY3lMMkFIZ05YZXpxQktmRVM4T2JaVnVVdDY3aDNPYXlYSENfSmw2ZzdzM0h5aXh2cVE2bUtDU0ViOTFhQzdwSWozMENWOFllZ04xdlBsZ0FDVnJRb0M3OXZOZXNmNjc3V2E0bTZVbkNOWDFnWWFPYkVBS0UybHc?oc=5)
 
 2026-05-08 <span class="news-indication-tag">tumor</span>
@@ -150,19 +142,19 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
+### [Neue Ansätze in der Alzheimer-Forschung: Entzündungen im Fokus](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkNUZ0FQN3JIMTRseHFNODBLdDRBWnZNY29JS2ZCdXRSRjJWMzNaTGgyVlFTcllsMFZiUm1WaUhSaEdpZTlfemlmSENlOW1hcl9mbUo5NENrbzFCUjJyd1J0VVFPSUgzMk1XZmY2cm9Ha0F2eUdYbnpQOC1fQi0tOXVqTk1YeVBQY2wzMkdYYzFlQmEtYmU3ems5WQ?oc=5)
+
+2026-05-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkNUZ0FQN3JIMTRseHFNODBLdDRBWnZNY29JS2ZCdXRSRjJWMzNaTGgyVlFTcllsMFZiUm1WaUhSaEdpZTlfemlmSENlOW1hcl9mbUo5NENrbzFCUjJyd1J0VVFPSUgzMk1XZmY2cm9Ha0F2eUdYbnpQOC1fQi0tOXVqTk1YeVBQY2wzMkdYYzFlQmEtYmU3ems5WQ?oc=5)
+
+---
+
 ### [Three Tyneside mothers diagnosed with terminal ovarian cancer after putting symptoms down to the menopause - Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
-
----
-
-### [Alzheimer-Forschung: Entzündungen statt Protein-Klumpen im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pEb3ZmZnQwaC1YZ05MSjc5UlM4a203RWNLYkJOT0xTRGE1eFR1YTU2bFp1SFZYQ0p3SE5zakFIZHFEWkp0R2lhYnF3MzRqQ2FIbXlwakZYWlMzQmU5Z2tfanVrcHZWQl9BNlF5bHlYSkRTNTk1NzJ0dVg5dVdGcEdjdW1xVGxZdFZJTFJ4a1YxcnZjZmU1LWZoZDFtMk5laEpDeGI1bUZUb3pLTVB1Z21JQQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pEb3ZmZnQwaC1YZ05MSjc5UlM4a203RWNLYkJOT0xTRGE1eFR1YTU2bFp1SFZYQ0p3SE5zakFIZHFEWkp0R2lhYnF3MzRqQ2FIbXlwakZYWlMzQmU5Z2tfanVrcHZWQl9BNlF5bHlYSkRTNTk1NzJ0dVg5dVdGcEdjdW1xVGxZdFZJTFJ4a1YxcnZjZmU1LWZoZDFtMk5laEpDeGI1bUZUb3pLTVB1Z21JQQ?oc=5)
 
 ---
 
@@ -182,14 +174,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Il Registro Tumori di Varese compie 50 anni: “Così abbiamo raccontato la salute del territorio”](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1ViY25sQU43endna3FYZ3FDbnlYSHVfenF5bVhSN1JNR05YZHF2WDA0Z0FrVHJqMlJFakhMREE5OVd2UFlvR2NzaWlodi1CemdsT2tVTGFyVzFmSE9md2ZMTU1panVxNlo4a0s5ekplS3czOXlKa2tBMHlqRE5sYVZhc00yVGI5aE1xdjh4N0FsN2haU0VBSVJSYzBBbEU5WlpTM005WUxxbGhFOXNOYTNiVUR3TWRjSjhWalY4TldZbFlMaUtDVE1zeXI1d1dI?oc=5)
-
-2026-05-07 <span class="news-indication-tag">tumor</span>
-
-來源：[VareseNews](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1ViY25sQU43endna3FYZ3FDbnlYSHVfenF5bVhSN1JNR05YZHF2WDA0Z0FrVHJqMlJFakhMREE5OVd2UFlvR2NzaWlodi1CemdsT2tVTGFyVzFmSE9md2ZMTU1panVxNlo4a0s5ekplS3czOXlKa2tBMHlqRE5sYVZhc00yVGI5aE1xdjh4N0FsN2haU0VBSVJSYzBBbEU5WlpTM005WUxxbGhFOXNOYTNiVUR3TWRjSjhWalY4TldZbFlMaUtDVE1zeXI1d1dI?oc=5)
-
----
-
 ### [Co Down man raising awareness of mouth cancer after diagnosis: ‘My only symptom was mild, persistent discomfort’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTEZ1RVptU0VWZmVtSE9WSkFpdjA1ZnJ3a00zTmloVVQwM0dKeG9fVnZlZnA5NXB1Zl9HSDlseXRHTlV2Q2ZKeF9sQnNEam8zcmgxU1BCRlh0aGk3N2RHZndqcmlIbDlWVnhGLVpiZmpWNHV5V1d5ZF9CaUlyLTJDbEhRbkdMa1BfYS1xTHJFVzVwaXhhOXdWRkRBVVdmeUphVm9EMzdZWkJrU0JobFBVQzdJVGJEU0UyZ0NpWExsVXp2WnFLV0FzOWJtY3Z5T2xwTWl1NEhxN1g2b04xRmFadUJpZXFOLU45ek92My04b0NsYUE3eFl2N09kWTZsa1lwN0djajZERk0?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -203,14 +187,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-05-07 <span class="news-indication-tag">diabete</span>
 
 來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
-
----
-
-### [Blue asthma inhaler users issued urgent warning to call GP](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
 
 ---
 
@@ -230,11 +206,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 
@@ -299,30 +275,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Bolton News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWYyUEgtdktPSjhzYzVzY1Q3OHJjMmR6SlpocDdBYzNVSFMydS1JanE4aWU1elJ0TktNU3BGZVRHN2VDU1l2bTZteWhhcXN3djJ3YlB6akRtZzFzaWhGTm9CaXJjT01OU2J2cDhXZ0pOSEVTUFo3dmxjcEozR1ZVM3IwVnVyZlpjN2pfVVRGeUFUMEN0VHk4?oc=5)
-
----
-
-### [Scientists Discover New Way To Make Drug-Resistant Cancer Treatable Again](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkZPX3pLem9fS1RZbGpuTkxuNUVrS2RaanNjSTkwVG9JWnRmc1F3cEtOaXl5VTVJZWpvRXBMd19sUzVDTmhfd3VlN2padVpab1lFUHI1aWdsbHpZcVExTzhIYmdZRjFJejNQWHVXWVg1bDQxWjkwZFQ4NVZ0NGYyWm53bmc3eHA2NDUzd3hpSFVPcEI5VUp0eHROU3pHNk9B?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cancer</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkZPX3pLem9fS1RZbGpuTkxuNUVrS2RaanNjSTkwVG9JWnRmc1F3cEtOaXl5VTVJZWpvRXBMd19sUzVDTmhfd3VlN2padVpab1lFUHI1aWdsbHpZcVExTzhIYmdZRjFJejNQWHVXWVg1bDQxWjkwZFQ4NVZ0NGYyWm53bmc3eHA2NDUzd3hpSFVPcEI5VUp0eHROU3pHNk9B?oc=5)
-
----
-
-### [CKM-Syndrom: Neue Leitlinien stellen Herz-Kreislauf-Medizin auf den Kopf - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVm1sczJoOE1Rcm9iSjZYM2MxUGt2WDMyZ01OcmR0SmVQNkNpWVVyRkRRMDZyU25NYXpuQ2RhcTdqVzFrUGxLS3FzU0pPUlhtNTNyUkpvbFJfdmxfX3RjOXg1RmZKZjlqYjBoUjVSSHppUDRqd0UtdGt6Z3FBQjFDendmZ053SGlfMVFJcUNIYUtRRDBUb1ZqQUIwbDBTQWhfSVpUUDFwOTY3NjBEdWVsc0k1R2Z4TklHQm9xdw?oc=5)
-
-2026-05-06 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVm1sczJoOE1Rcm9iSjZYM2MxUGt2WDMyZ01OcmR0SmVQNkNpWVVyRkRRMDZyU25NYXpuQ2RhcTdqVzFrUGxLS3FzU0pPUlhtNTNyUkpvbFJfdmxfX3RjOXg1RmZKZjlqYjBoUjVSSHppUDRqd0UtdGt6Z3FBQjFDendmZ053SGlfMVFJcUNIYUtRRDBUb1ZqQUIwbDBTQWhfSVpUUDFwOTY3NjBEdWVsc0k1R2Z4TklHQm9xdw?oc=5)
-
----
-
-### [Cancer : des chercheurs découvrent comment redonner de la force aux cellules immunitaires épuisées - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdUp3RGRZNTZiV205OXQxS0xuMHVHM19JV0J6d01tYXRTaEZyY1A3S3hrNG5PcnJhM1gzeFZ5blV5UlZhQTZJamdxYkVkOGlRUXpodl9aMkZIbHFjdWR1T0lIcWFZdVBCTEVYVHE1WEVRVVBqekJTMFhPNEtSWFZ0Q25URER5WVBfNFhuaWlIcG9FLVVGM3JVTC1DXzNVMlJRUWFtWHFkQ3I3RXc5WDdFRnZhSnd4NHJvZkp1eHFCV1p5ZWo3NHlDZjBDdjFfS2NhZlNhMXdIUDVZWUxBWWlwX2o4bEhqQQ?oc=5)
-
-2026-05-06 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdUp3RGRZNTZiV205OXQxS0xuMHVHM19JV0J6d01tYXRTaEZyY1A3S3hrNG5PcnJhM1gzeFZ5blV5UlZhQTZJamdxYkVkOGlRUXpodl9aMkZIbHFjdWR1T0lIcWFZdVBCTEVYVHE1WEVRVVBqekJTMFhPNEtSWFZ0Q25URER5WVBfNFhuaWlIcG9FLVVGM3JVTC1DXzNVMlJRUWFtWHFkQ3I3RXc5WDdFRnZhSnd4NHJvZkp1eHFCV1p5ZWo3NHlDZjBDdjFfS2NhZlNhMXdIUDVZWUxBWWlwX2o4bEhqQQ?oc=5)
 
 ---
 

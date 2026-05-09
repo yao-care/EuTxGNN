@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
 
-### [Riesgo de propagación de hantavirus a población general es "absolutamente bajo", asevera OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjNfM3ZQSW92a25GM05MSWUtMlVFR25qNDZNNW5Ba1hkaFN1WlZDbVh3T2JZX2psclFoUm5hbHhSNjNDVlFGQVM1bHZkdmdxZjlLZGg5VkRoVXRpN21ySVo2SWkteUVyT19iem12VWR2U0Y0Z0NzVWtnMFd6RnNwYkVMaw?oc=5)
+### [Wie Koffein das elektrische Bremssystem des Gehirns beeinflusst](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGZYeERyLXRNTUlQX2hxOWlWYXVqajFrbC0wRXBZNjc2dDRCZEVsVXk4UTlELWQzMmRacFVRTGxSNTMyckVpdXNhS3hjb285bklISGZnUGRBd2RWOGQxdTBWT2VWNFdCb0tiRzJRbThTQmhvaTBhdThHQXJyRVpVODZZQ0x6OUVYNjItTVk0bDVOcldDZWFfNUtVSQ?oc=5)
 
 2026-05-08 <span class="news-indication-tag">MS</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjNfM3ZQSW92a25GM05MSWUtMlVFR25qNDZNNW5Ba1hkaFN1WlZDbVh3T2JZX2psclFoUm5hbHhSNjNDVlFGQVM1bHZkdmdxZjlLZGg5VkRoVXRpN21ySVo2SWkteUVyT19iem12VWR2U0Y0Z0NzVWtnMFd6RnNwYkVMaw?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGZYeERyLXRNTUlQX2hxOWlWYXVqajFrbC0wRXBZNjc2dDRCZEVsVXk4UTlELWQzMmRacFVRTGxSNTMyckVpdXNhS3hjb285bklISGZnUGRBd2RWOGQxdTBWT2VWNFdCb0tiRzJRbThTQmhvaTBhdThHQXJyRVpVODZZQ0x6OUVYNjItTVk0bDVOcldDZWFfNUtVSQ?oc=5)
+
+---
+
+### [Fact Check: Hantavirus infection is not a confirmed side effect of Pfizer’s COVID-19 vaccine](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQjAxUjYtNmQ1TUt6Mm9DTGdlaGt3R3pjcjNWcUtNb3BNVGZNN2tNdGhBY0VCc05lQ05JOGtDSlJOdjhyMGZvNVYzZTVFS0k2N0pTSk55OFo1aEJfOWxXYmFvSEpSaXBVRWJQUlotMExaUTZUSTctdkRQekpYMmlHUll1RUkzejZVdGZ6ZVVJWWUxc2JrZFlrQ3lBdjJYUzUxUVpMZ2RDZjk3MFVRTHM0akZXeTNYcGdkVDY2TlR3?oc=5)
+
+2026-05-08 <span class="news-indication-tag">MS</span>
+
+來源：[Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQjAxUjYtNmQ1TUt6Mm9DTGdlaGt3R3pjcjNWcUtNb3BNVGZNN2tNdGhBY0VCc05lQ05JOGtDSlJOdjhyMGZvNVYzZTVFS0k2N0pTSk55OFo1aEJfOWxXYmFvSEpSaXBVRWJQUlotMExaUTZUSTctdkRQekpYMmlHUll1RUkzejZVdGZ6ZVVJWWUxc2JrZFlrQ3lBdjJYUzUxUVpMZ2RDZjk3MFVRTHM0akZXeTNYcGdkVDY2TlR3?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/glecaprevir/
 2026-05-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPamdSOXdPbURfUmFHeWFKeG5vOW5uM3ZoTDdsbERNUjkzMy03X3RDRkxZYklzU2M0VUs2aXlkR3NfQWozTkRuMGNTOWRZeno5RTdPanVLaVZnQXJzemUySG94MVExNlg2MHByam1RVHVDWWhGSVdsVl9LT2thOG5fU01QcXdsRURWXzFhZk14V2hBTDB2c0N4T0lHaw?oc=5)
-
----
-
-### [Arranca la segunda edición de ‘Mi historia continúa’ en la red de transporte de Madrid y Barcelona](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbllkZnlHNEI0Y1ZKQ29mbmtDSldPZkpsNFVSTTdlazhWLWw4aFppOUg4VURjM2t5ODl2T2dWazZhT1AzVGNLb2c4aDU2Z05ZVFptcGV2RldBZEkwTUk0eUh1TEJkLUo5T3NxTy04NDZSa0JPaUw0ZW1IVC02ZmdtQ2l0OEZ1eG4zWWU1UlRybVBxVTB0SUozWDVvUEJRS2ZmYzJTSFI4TVRHWFhNM001eFpUQ25jMk14WUhz?oc=5)
-
-2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbllkZnlHNEI0Y1ZKQ29mbmtDSldPZkpsNFVSTTdlazhWLWw4aFppOUg4VURjM2t5ODl2T2dWazZhT1AzVGNLb2c4aDU2Z05ZVFptcGV2RldBZEkwTUk0eUh1TEJkLUo5T3NxTy04NDZSa0JPaUw0ZW1IVC02ZmdtQ2l0OEZ1eG4zWWU1UlRybVBxVTB0SUozWDVvUEJRS2ZmYzJTSFI4TVRHWFhNM001eFpUQ25jMk14WUhz?oc=5)
 
 ---
 
@@ -94,14 +94,6 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Dr. Josep Maria Argimon, epidemiólogo: "La preocupación con el hantavirus de los Andes está justificada, pero no estamos ante un escenario comparable al de la covid-19" - Saber Vivir](https://news.google.com/rss/articles/CBMigAJBVV95cUxOV3ZGOVlIQkVVd29uUHItMEpIVDVOcGsxRTlFZUUwZGJSUzRmRXVmbVJTbGlZbVR3VXFjVUFuNFo4YmpRZnNUd0ZneS1uLTBjajgtNHMxNjN1NHVDZ3g3WHlpZ2ctcWtNenJQc1g3NUdkVWNHa0RpaEtjMFJqUExON3BueUpHbjZuSW1SOENjU00weVNHeG1yRUlEQkY2eUhpeElPY3pOOEhxX1pQUm5xWUZwYkxPTEkxaWJSTkJHMUhNR0hINE9MRnNrb2JIOXRpazUtMXNYRXJZQldjMDBMSTdDcURjNFZwQVZXR044U1hQcHo5T2MtMkg5TjNHd2RJ?oc=5)
-
-2026-05-08 <span class="news-indication-tag">MS</span>
-
-來源：[Saber Vivir](https://news.google.com/rss/articles/CBMigAJBVV95cUxOV3ZGOVlIQkVVd29uUHItMEpIVDVOcGsxRTlFZUUwZGJSUzRmRXVmbVJTbGlZbVR3VXFjVUFuNFo4YmpRZnNUd0ZneS1uLTBjajgtNHMxNjN1NHVDZ3g3WHlpZ2ctcWtNenJQc1g3NUdkVWNHa0RpaEtjMFJqUExON3BueUpHbjZuSW1SOENjU00weVNHeG1yRUlEQkY2eUhpeElPY3pOOEhxX1pQUm5xWUZwYkxPTEkxaWJSTkJHMUhNR0hINE9MRnNrb2JIOXRpazUtMXNYRXJZQldjMDBMSTdDcURjNFZwQVZXR044U1hQcHo5T2MtMkg5TjNHd2RJ?oc=5)
-
----
-
 ### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
 
 2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -118,27 +110,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Parents in Wales urged to ‘be vigilant’ about hand-washing amid hepatitis A outbreak - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
-
-2026-05-07 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
-
----
-
-### [Este hospital español tuvo el caso de hantavirus más "más documentado de la ciencia" de nuestro país - Gaceta de salud](https://news.google.com/rss/articles/CBMigAJBVV95cUxNU2lvTk5nTjhVeS1rYlpBSzVoSGdFODlLTmNUNV9PbzdvYjdYU3RCbXV0eFRSQk11anNmSWxqcHAyZkpKTkxIc0dpa3BPYzE3T1hWN2hmRk5RLTJqUFM1ZWM5dEUwTWdhMWhFeWpHTEVvMS1SbkdiVDV5UHlWcXAyOHFFek5Yemx4aEE4SjlwR0ZnVUVnU0FKTFpmNHZWVFZtSEN4eXJuMjRPbFB3Q2UzM05yWGhsUDJsNXppMXA3U25JOE5FbnhKNVJYS0tTT2N3V21Xc1FFY1JDeURoVzRfR04tek5wbWVNN0V5MVRkVmpoVnBnX3F5cEppQ1ZxYkxT?oc=5)
-
-2026-05-07 <span class="news-indication-tag">MS</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMigAJBVV95cUxNU2lvTk5nTjhVeS1rYlpBSzVoSGdFODlLTmNUNV9PbzdvYjdYU3RCbXV0eFRSQk11anNmSWxqcHAyZkpKTkxIc0dpa3BPYzE3T1hWN2hmRk5RLTJqUFM1ZWM5dEUwTWdhMWhFeWpHTEVvMS1SbkdiVDV5UHlWcXAyOHFFek5Yemx4aEE4SjlwR0ZnVUVnU0FKTFpmNHZWVFZtSEN4eXJuMjRPbFB3Q2UzM05yWGhsUDJsNXppMXA3U25JOE5FbnhKNVJYS0tTT2N3V21Xc1FFY1JDeURoVzRfR04tek5wbWVNN0V5MVRkVmpoVnBnX3F5cEppQ1ZxYkxT?oc=5)
-
----
-
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Alzheimer beginnt früher als gedacht: Welche Rolle Vitamin D spielt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3liX1F3NUNseG9ySnZGRGxrM25QV19HMDZlTHBIZFpPUVNEMWlrcjctZk9xSFB3ZllnR05JbENSd1pDekZzdlFTeGVvVkFCWEVuVUhzSWtVaVEyWWRRV0h2enNTTHR5RU8xNDVxSHN4UkY0NExTQzZ6RHRsdW96OTYzY096RWZNZ1JZWDl0empoS3dfSnhCLWRfU1pqaVU3SkdRNkZrSTdUSTV5bTRNR1k2UjZBMmVoTms0U0dWa0E3M1F1MUhXN190cGQ0Nk90?oc=5)
 
 2026-05-08
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3liX1F3NUNseG9ySnZGRGxrM25QV19HMDZlTHBIZFpPUVNEMWlrcjctZk9xSFB3ZllnR05JbENSd1pDekZzdlFTeGVvVkFCWEVuVUhzSWtVaVEyWWRRV0h2enNTTHR5RU8xNDVxSHN4UkY0NExTQzZ6RHRsdW96OTYzY096RWZNZ1JZWDl0empoS3dfSnhCLWRfU1pqaVU3SkdRNkZrSTdUSTV5bTRNR1k2UjZBMmVoTms0U0dWa0E3M1F1MUhXN190cGQ0Nk90?oc=5)
-
----
-
-### [Diagnosi della depressione nei pazienti oncologici, l’Aou di Cagliari sviluppa un modello rivoluzionario - La Nuova Sardegna](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN0ozNnpRTGVqYVNBOE1rc1hObW5FRGY3MFZfV0ZOM1FuS1NTWE9YdXdlMUYydkEyaGt4OEEwbWlvUkp4eVBJbmFQeTRDR0dCN0lyTEM5NXZ1OHRla0t1TzlBSGNsVC01WTF0UkhmaWdZREo3OXZCdUpGTHBGWTUzSkZZaURyTWc2QUZZSW1GbkNiMGtOTHgzTDVramVyUnppQk1ZYlNEVjYxSjFMRVBiclZtLTdmMFgtUEpaU3Bwd0d3bHIxX1pKSWFDand5d0hCU1g2RkhzSmtLcV9nTkZpaEVSS1p2YnZtb0VYX2R4QWVfX3k5RjFrbU5wd1JoWnNfSWZ1b21LbkVWNms?oc=5)
-
-2026-05-06
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN0ozNnpRTGVqYVNBOE1rc1hObW5FRGY3MFZfV0ZOM1FuS1NTWE9YdXdlMUYydkEyaGt4OEEwbWlvUkp4eVBJbmFQeTRDR0dCN0lyTEM5NXZ1OHRla0t1TzlBSGNsVC01WTF0UkhmaWdZREo3OXZCdUpGTHBGWTUzSkZZaURyTWc2QUZZSW1GbkNiMGtOTHgzTDVramVyUnppQk1ZYlNEVjYxSjFMRVBiclZtLTdmMFgtUEpaU3Bwd0d3bHIxX1pKSWFDand5d0hCU1g2RkhzSmtLcV9nTkZpaEVSS1p2YnZtb0VYX2R4QWVfX3k5RjFrbU5wd1JoWnNfSWZ1b21LbkVWNms?oc=5)
 
 ---
 

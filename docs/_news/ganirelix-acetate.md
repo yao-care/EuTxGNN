@@ -54,11 +54,19 @@ permalink: /news/ganirelix-acetate/
 
 ## 相關新聞（27 則）
 
-### [Los dermatólogos coinciden: el uso del Ozempic y peinados como el 'clean look' aumentan el riesgo de alopecia en jóvenes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEV5YkZLRjV3RFNuR1dUUk9NcXBoaDBaVVJSbVdxaFhtLXUtVXBabENMYk84ODhpdFpXVHhhU2tIcUVMUTFmVmF0NXRVejEzd3lmV3J5QnNsQ1ZUczdsdS1wUUVzenRzcHBiTVJ1Ynlld2RReGw5TkpERUJaSGVCRF9LcHhPWU0wcVZHZG9ySGNzbjVlUmxIME14QzlaT1liQW9BaU1fNzloekpHa3lmZ2ZJaTZPeWliZTNSUlh5dzZ0WUNkdUVfTUtnZDhBQjlr?oc=5)
+### [Es falso que Pfizer haya presentado una vacuna de ARNm contra el hantavirus al 8 de mayo de 2026 - AFP Factual](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNTnJNajhsTEdMdzlRbDlIR2lteWJ3SmJtUUhReEFSdE9WVnVjQWFJTjF0UXprOFRRZEVZZ2FDdmpDRFQ3MTBZWE9Odk52cFMzRG5ISGpB?oc=5)
 
-2026-05-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-05-08 <span class="news-indication-tag">AF</span>
 
-來源：[heraldo.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEV5YkZLRjV3RFNuR1dUUk9NcXBoaDBaVVJSbVdxaFhtLXUtVXBabENMYk84ODhpdFpXVHhhU2tIcUVMUTFmVmF0NXRVejEzd3lmV3J5QnNsQ1ZUczdsdS1wUUVzenRzcHBiTVJ1Ynlld2RReGw5TkpERUJaSGVCRF9LcHhPWU0wcVZHZG9ySGNzbjVlUmxIME14QzlaT1liQW9BaU1fNzloekpHa3lmZ2ZJaTZPeWliZTNSUlh5dzZ0WUNkdUVfTUtnZDhBQjlr?oc=5)
+來源：[AFP Factual](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNTnJNajhsTEdMdzlRbDlIR2lteWJ3SmJtUUhReEFSdE9WVnVjQWFJTjF0UXprOFRRZEVZZ2FDdmpDRFQ3MTBZWE9Odk52cFMzRG5ISGpB?oc=5)
+
+---
+
+### [Millionen wetten auf mögliche Hantavirus-Pandemie – Wie weit ist unsere Gesellschaft abgestumpft?](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmFBaDcxcHZnRGIwX0NVbEtuVWpyMnZXdnd4anR3RG9TdHN3ZUx3LUwxMjcwTnRpaHYyZUdPOEZMM2gzY0NuaF9RcmNWa0c4amhVcklCLUlLQUxEbnRvSk5QT2FFdTJseVhzRDhIMUpTbVhmSWFVUkQtdlQ2OUNYa2pUeVhVZWVfdjlDUzJ6ekU2WlY2dWotRU5MUUNVblpHQ2sxeGRkVEhqck0yb181bVhuQWRDOG1Cb3F3VjdobDFFYVlUamVwOUdvSkt5YmRpcXczeTJKQWtSSUl2OXJIREk1YmU4MEk?oc=5)
+
+2026-05-08 <span class="news-indication-tag">AF</span>
+
+來源：[verbraucherschutzforum.berlin](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmFBaDcxcHZnRGIwX0NVbEtuVWpyMnZXdnd4anR3RG9TdHN3ZUx3LUwxMjcwTnRpaHYyZUdPOEZMM2gzY0NuaF9RcmNWa0c4amhVcklCLUlLQUxEbnRvSk5QT2FFdTJseVhzRDhIMUpTbVhmSWFVUkQtdlQ2OUNYa2pUeVhVZWVfdjlDUzJ6ekU2WlY2dWotRU5MUUNVblpHQ2sxeGRkVEhqck0yb181bVhuQWRDOG1Cb3F3VjdobDFFYVlUamVwOUdvSkt5YmRpcXczeTJKQWtSSUl2OXJIREk1YmU4MEk?oc=5)
 
 ---
 
@@ -86,19 +94,19 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Arranca la segunda edición de ‘Mi historia continúa’ en la red de transporte de Madrid y Barcelona](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbllkZnlHNEI0Y1ZKQ29mbmtDSldPZkpsNFVSTTdlazhWLWw4aFppOUg4VURjM2t5ODl2T2dWazZhT1AzVGNLb2c4aDU2Z05ZVFptcGV2RldBZEkwTUk0eUh1TEJkLUo5T3NxTy04NDZSa0JPaUw0ZW1IVC02ZmdtQ2l0OEZ1eG4zWWU1UlRybVBxVTB0SUozWDVvUEJRS2ZmYzJTSFI4TVRHWFhNM001eFpUQ25jMk14WUhz?oc=5)
-
-2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbllkZnlHNEI0Y1ZKQ29mbmtDSldPZkpsNFVSTTdlazhWLWw4aFppOUg4VURjM2t5ODl2T2dWazZhT1AzVGNLb2c4aDU2Z05ZVFptcGV2RldBZEkwTUk0eUh1TEJkLUo5T3NxTy04NDZSa0JPaUw0ZW1IVC02ZmdtQ2l0OEZ1eG4zWWU1UlRybVBxVTB0SUozWDVvUEJRS2ZmYzJTSFI4TVRHWFhNM001eFpUQ25jMk14WUhz?oc=5)
-
----
-
-### [Plumpton horse racing event cancelled due to equine flu, says BHA](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83NG5oLUNiM0pjNVhZMEhHTUw0MkY3WEhyb0dtVnFNMkE0MjduZVJHdmdLcXJ1S29xTzZ3NXhxVHQybHNvUC01aHFGb3V1TjVFZFNqVzRvLVpZa1Nu?oc=5)
+### [South Africa secures Europe-backed $90 million vaccine plant deal amid hantavirus outbreak fears, 7,000 jobs expected - Business Insider Africa](https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0otSkh0V0JpVWJUU3MtVHdCQXo5dmxWb2t3RkZnWEZsdnZVdG4xRk01TXU2UE5jMkQ5Yk5yN0RBRkN6RVk1cmdiYXBncXNXRHhyZDczT0E2QlZrVVhySzl4bFQtMU4zUTg4enYxaEVuZF9JMU9NS09kaGJ3aXZFdHFTRk0tZ1pWRkI1M1FaZnQ5aTZ2X2VLcVFLbFhvelc4QV9QTnlxOGdOekRWWWRiUmdPZUJyNTlLbDBPMVFOVXNXSlZBamhWeWRtaHg?oc=5)
 
 2026-05-08 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83NG5oLUNiM0pjNVhZMEhHTUw0MkY3WEhyb0dtVnFNMkE0MjduZVJHdmdLcXJ1S29xTzZ3NXhxVHQybHNvUC01aHFGb3V1TjVFZFNqVzRvLVpZa1Nu?oc=5)
+來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0otSkh0V0JpVWJUU3MtVHdCQXo5dmxWb2t3RkZnWEZsdnZVdG4xRk01TXU2UE5jMkQ5Yk5yN0RBRkN6RVk1cmdiYXBncXNXRHhyZDczT0E2QlZrVVhySzl4bFQtMU4zUTg4enYxaEVuZF9JMU9NS09kaGJ3aXZFdHFTRk0tZ1pWRkI1M1FaZnQ5aTZ2X2VLcVFLbFhvelc4QV9QTnlxOGdOekRWWWRiUmdPZUJyNTlLbDBPMVFOVXNXSlZBamhWeWRtaHg?oc=5)
+
+---
+
+### [Major race meeting with 71 horses declared to run axed with immediate effect - The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTVZVjJXcGhqZ3gtUWt5cFc4Nk1EdEJOREFZZE5CUGhIZDJtUWNLNVAzOFp6eHB0R3VNLWxDbFNmSWl0bGNDTDVYUHk2dHNTTTExdzEwN3p2aF9wV0ZBYTRRWkM1cmZ5UDR1dzFvbXR0bDMyTWZPUks0UXh3TVRjSg?oc=5)
+
+2026-05-08 <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTVZVjJXcGhqZ3gtUWt5cFc4Nk1EdEJOREFZZE5CUGhIZDJtUWNLNVAzOFp6eHB0R3VNLWxDbFNmSWl0bGNDTDVYUHk2dHNTTTExdzEwN3p2aF9wV0ZBYTRRWkM1cmZ5UDR1dzFvbXR0bDMyTWZPUks0UXh3TVRjSg?oc=5)
 
 ---
 
@@ -118,6 +126,22 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
+### ["I thought mum had food poisoning, she was dead within hours" - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZDdrNW1HS3VYUl80ekNmNzl3d3hKNVhGcjJWbUdLMXJTdmtJUzVnc2kxbC1YV2w3VEJtc2ZNWUpDY0d0WUo3dlNhYU9BSl9iZkEwSFR6YmpDZThGVzQ3eWxxYTM5cy1TNzFaMHFKVEJ0RnJScGhKVlFub0lYZFBiRVJXeldNd0NBYXItWkFzONIBlAFBVV95cUxOUEt1dkJkVE5lX0NFNVdLWmphMzBVNGJNYUNibzluZ0o2cDUtQjRkckRZckdLcG5aTFBWNWF3WXV2NWJLMEE2VWFLNlBHc3NMMk5zWENDbkV4eUZwa3kya1BtRE83UGp5YllyTUNzWDFCNXNqSkNrTUFoQ1p0cWVtWlh5QkhEcEk0TXBaMkNjbXpuZ1pj?oc=5)
+
+2026-05-08 <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZDdrNW1HS3VYUl80ekNmNzl3d3hKNVhGcjJWbUdLMXJTdmtJUzVnc2kxbC1YV2w3VEJtc2ZNWUpDY0d0WUo3dlNhYU9BSl9iZkEwSFR6YmpDZThGVzQ3eWxxYTM5cy1TNzFaMHFKVEJ0RnJScGhKVlFub0lYZFBiRVJXeldNd0NBYXItWkFzONIBlAFBVV95cUxOUEt1dkJkVE5lX0NFNVdLWmphMzBVNGJNYUNibzluZ0o2cDUtQjRkckRZckdLcG5aTFBWNWF3WXV2NWJLMEE2VWFLNlBHc3NMMk5zWENDbkV4eUZwa3kya1BtRE83UGp5YllyTUNzWDFCNXNqSkNrTUFoQ1p0cWVtWlh5QkhEcEk0TXBaMkNjbXpuZ1pj?oc=5)
+
+---
+
+### [Neue Ansätze in der Alzheimer-Forschung: Entzündungen im Fokus](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkNUZ0FQN3JIMTRseHFNODBLdDRBWnZNY29JS2ZCdXRSRjJWMzNaTGgyVlFTcllsMFZiUm1WaUhSaEdpZTlfemlmSENlOW1hcl9mbUo5NENrbzFCUjJyd1J0VVFPSUgzMk1XZmY2cm9Ha0F2eUdYbnpQOC1fQi0tOXVqTk1YeVBQY2wzMkdYYzFlQmEtYmU3ems5WQ?oc=5)
+
+2026-05-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkNUZ0FQN3JIMTRseHFNODBLdDRBWnZNY29JS2ZCdXRSRjJWMzNaTGgyVlFTcllsMFZiUm1WaUhSaEdpZTlfemlmSENlOW1hcl9mbUo5NENrbzFCUjJyd1J0VVFPSUgzMk1XZmY2cm9Ha0F2eUdYbnpQOC1fQi0tOXVqTk1YeVBQY2wzMkdYYzFlQmEtYmU3ems5WQ?oc=5)
+
+---
+
 ### [If you quit drinking coffee for two weeks, this is what happens to your body](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmNjeGxEZThDaUZMdDBYSVRJTDd5amZCX3l6d3hWeVBXWlhKdU9JVl9NVDVsTTgyTnFuWFNFYTRKcmVHZFQ1c20xZktEX1hpeWt4Tzd4OWt3QU9DblUyX0dYOURTR2VLdmxfSnM4XzlxMEwwa3F0dVVUeWZHbWlabVhPQWlYMjB1NDhNVGhnd0RQUG9qeWIxeXliX0dRaTZTVFVBdkF0YU53Zw?oc=5)
 
 2026-05-08 <span class="news-indication-tag">AF</span>
@@ -134,14 +158,6 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Alzheimer-Forschung: Entzündungen statt Protein-Klumpen im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pEb3ZmZnQwaC1YZ05MSjc5UlM4a203RWNLYkJOT0xTRGE1eFR1YTU2bFp1SFZYQ0p3SE5zakFIZHFEWkp0R2lhYnF3MzRqQ2FIbXlwakZYWlMzQmU5Z2tfanVrcHZWQl9BNlF5bHlYSkRTNTk1NzJ0dVg5dVdGcEdjdW1xVGxZdFZJTFJ4a1YxcnZjZmU1LWZoZDFtMk5laEpDeGI1bUZUb3pLTVB1Z21JQQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pEb3ZmZnQwaC1YZ05MSjc5UlM4a203RWNLYkJOT0xTRGE1eFR1YTU2bFp1SFZYQ0p3SE5zakFIZHFEWkp0R2lhYnF3MzRqQ2FIbXlwakZYWlMzQmU5Z2tfanVrcHZWQl9BNlF5bHlYSkRTNTk1NzJ0dVg5dVdGcEdjdW1xVGxZdFZJTFJ4a1YxcnZjZmU1LWZoZDFtMk5laEpDeGI1bUZUb3pLTVB1Z21JQQ?oc=5)
-
----
-
 ### [Schlafapnoe und Alzheimer: Neue Erkenntnisse über Gehirnveränderungen](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXFIcXh5aHN6LWYxSnJtcjRHYlgtRC1zWGptYk4zMU9VR3hHYWdtdFNoSjVibzlhMGNYRzFIdE9XZGpMMHBGWWFCRkRzSEZHV1d2X3p0WVVJd0hzYVZNQnNPWS1XM0dKa3NkQmw1Rzl1cmV2UXR3MFUyMHFXeEF0X2IyREp6X0ZMTmIzaDFaRGVFc2N5bFFOTEpnY0FfZThfYklDMQ?oc=5)
 
 2026-05-07 <span class="news-indication-tag">AF</span>
@@ -150,11 +166,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Parents in Wales urged to ‘be vigilant’ about hand-washing amid hepatitis A outbreak - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+### [A Verdict on Low-Dose Lithium for Cognitive Preservation?](https://news.google.com/rss/articles/CBMingFBVV95cUxNTjhMdlRqUDItZ2ZuMzNMNktYeldTOTN6YXVlTTZlSlhsX2VYV0MtdGtzMGxSSjdLTjNFanJQMDI1S1k1TklpYW1EUWhTcUdGRkRIZHhZZ3BUV2ZkMEdvakVjQ3lyZkpzR1pDZGgwMUlGTzFPdHMwRjAySzVyMm92MXZ3ZHVRYUh0Tlp2RGRfanc5YWNOenl1a0ZJSl9QUQ?oc=5)
 
-2026-05-07 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-05-07 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpSeHQ5MGtpRUxUVmZrNTBMNWVKRlN4YWJrYmdFYWFVdllVR1RjakQwYjhNRkNtMmZWbmkyNGRjNzE3aEd2WVVCdWY4SXNPS0xNem9rbkJqTU5jeGlXU1ZIUlV0SjZnWExaYnFHUlRxenU3MkxKVi1wODZWUlRTUEIzVTZfT2pSOXpOZThB?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxNTjhMdlRqUDItZ2ZuMzNMNktYeldTOTN6YXVlTTZlSlhsX2VYV0MtdGtzMGxSSjdLTjNFanJQMDI1S1k1TklpYW1EUWhTcUdGRkRIZHhZZ3BUV2ZkMEdvakVjQ3lyZkpzR1pDZGgwMUlGTzFPdHMwRjAySzVyMm92MXZ3ZHVRYUh0Tlp2RGRfanc5YWNOenl1a0ZJSl9QUQ?oc=5)
 
 ---
 
@@ -174,14 +190,6 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Sixteen people fall ill after petting farm visit - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbl8zMmRqcnFzSDRrOW9MdVpKaHNmNkFFTTZ4SnU3UFd3MlJTTkJ3TDlRMk43U3ctRXQzYjBodFN2OFl0c3NfQ0UwcWJjcTVUX2J0djE0N3lSQndDa3BKYS1LSDFpODJoSkJNclRtRkxFUG5HbTI3Zk5FMU9MendQM1YxSEx1am9Ec0UzS01GMW1TOUowanhIbEVDbXJNeU1hay12UzlFbw?oc=5)
-
-2026-05-07 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbl8zMmRqcnFzSDRrOW9MdVpKaHNmNkFFTTZ4SnU3UFd3MlJTTkJ3TDlRMk43U3ctRXQzYjBodFN2OFl0c3NfQ0UwcWJjcTVUX2J0djE0N3lSQndDa3BKYS1LSDFpODJoSkJNclRtRkxFUG5HbTI3Zk5FMU9MendQM1YxSEx1am9Ec0UzS01GMW1TOUowanhIbEVDbXJNeU1hay12UzlFbw?oc=5)
-
----
-
 ### [Co Down man raising awareness of mouth cancer after diagnosis: ‘My only symptom was mild, persistent discomfort’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTEZ1RVptU0VWZmVtSE9WSkFpdjA1ZnJ3a00zTmloVVQwM0dKeG9fVnZlZnA5NXB1Zl9HSDlseXRHTlV2Q2ZKeF9sQnNEam8zcmgxU1BCRlh0aGk3N2RHZndqcmlIbDlWVnhGLVpiZmpWNHV5V1d5ZF9CaUlyLTJDbEhRbkdMa1BfYS1xTHJFVzVwaXhhOXdWRkRBVVdmeUphVm9EMzdZWkJrU0JobFBVQzdJVGJEU0UyZ0NpWExsVXp2WnFLV0FzOWJtY3Z5T2xwTWl1NEhxN1g2b04xRmFadUJpZXFOLU45ek92My04b0NsYUE3eFl2N09kWTZsa1lwN0djajZERk0?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -190,19 +198,19 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Blue asthma inhaler users issued urgent warning to call GP](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxQanFmdkdQUGJnMmk1cWVqd2xqMW5QcjFOX3JmQXRqS2p2bjhqUU43VUFYd1I1bGJOa3BEV0pvRDVrNXJMMU1qWjAzRGVDY0xpU0gtckRlOC1LUmdGNVh5N1Rud181bGJ4aXVCb0NITjJYeUJMR0VnSTNlMnprYWNoVnc3b3JyNGZiTTdfOXNnX3ozcTFHR3luZDBidVBtQQ?oc=5)
-
----
-
 ### [Tuberkulose-Risiko: Vielversprechende Ansätze für Screening und Vorhersage - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UTjF4cG5nSjRYZlBfVlF5MGQwbHhwNTZ6LU5EM1F3RG9oenlkcWZvcVNjbGtSbEtCb1VpbE9kTHgyU1Q0Qk5aQ3h1bw?oc=5)
 
 2026-05-07 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UTjF4cG5nSjRYZlBfVlF5MGQwbHhwNTZ6LU5EM1F3RG9oenlkcWZvcVNjbGtSbEtCb1VpbE9kTHgyU1Q0Qk5aQ3h1bw?oc=5)
+
+---
+
+### [Investigation as 16 people fall ill after visiting petting farm - STV News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWJkYmxZWHVlT2h1Z3BuYUgxdU1KS1VrVzFmTXlCMG4zYVBNakhEYlExTDhLcjRBYW1NUWtrZzA1OExldWtXeVYtSVlOQjI4anE4Q2FhcmNHXzNUcXR2RmFtMUFCcDR0TDl6ajhudnZBNWlYcjh5RUE3cHJzUEpxVWcwczQ0NjRVQS1wRGdsM243cHdBVUplcHhfSHRqZ0tkYkhhTFZxb1hqQQ?oc=5)
+
+2026-05-07 <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWJkYmxZWHVlT2h1Z3BuYUgxdU1KS1VrVzFmTXlCMG4zYVBNakhEYlExTDhLcjRBYW1NUWtrZzA1OExldWtXeVYtSVlOQjI4anE4Q2FhcmNHXzNUcXR2RmFtMUFCcDR0TDl6ajhudnZBNWlYcjh5RUE3cHJzUEpxVWcwczQ0NjRVQS1wRGdsM243cHdBVUplcHhfSHRqZ0tkYkhhTFZxb1hqQQ?oc=5)
 
 ---
 
@@ -222,11 +230,19 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Woman, 68, left with black and BLUE skin after reaction to common antibiotic - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHkyei1BazVfNDJJYXZ2S3ZlRGpxOXFwb3NVcTNWcmcyZnZyMzFKTG5GT1NzUUFXa3hFQ2hqWl9xTWx1Mm9qaDBlQy1ueTBhbDk4M0h3WFZTZnpKSERTUTJMY0JOUXRhQmhsRm5OTFR5cnB5OV9pMWNrQVVJQThUQWdUMVZyaTU5YV90cEdJMmZjRHM?oc=5)
+### [Hirnverletzungen: Neue Therapieansätze revolutionieren Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGZ5ZVY1TGRhdHFCdzBWSnBhTmItSC01c0tnTGlQWHdpdk91Y2hhYlJnLXAyR1pETkpRQXJMREdIUFAyOFhUV1g4RlFJRkwzQ2JjVElyNTRIbTZXZmlEQUhJQUlteWdueXZpRnJQZTRSS1VQa29qVU1vSk9mSHpTaGk5OXpOVUxQczFSeGhIZ0VQM2FPRFI2c1BYcDBSbVZsMnVOR002RnN0cTNBQUZzVWIxLXg?oc=5)
 
 2026-05-07 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHkyei1BazVfNDJJYXZ2S3ZlRGpxOXFwb3NVcTNWcmcyZnZyMzFKTG5GT1NzUUFXa3hFQ2hqWl9xTWx1Mm9qaDBlQy1ueTBhbDk4M0h3WFZTZnpKSERTUTJMY0JOUXRhQmhsRm5OTFR5cnB5OV9pMWNrQVVJQThUQWdUMVZyaTU5YV90cEdJMmZjRHM?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGZ5ZVY1TGRhdHFCdzBWSnBhTmItSC01c0tnTGlQWHdpdk91Y2hhYlJnLXAyR1pETkpRQXJMREdIUFAyOFhUV1g4RlFJRkwzQ2JjVElyNTRIbTZXZmlEQUhJQUlteWdueXZpRnJQZTRSS1VQa29qVU1vSk9mSHpTaGk5OXpOVUxQczFSeGhIZ0VQM2FPRFI2c1BYcDBSbVZsMnVOR002RnN0cTNBQUZzVWIxLXg?oc=5)
+
+---
+
+### [Serafín Sánchez, otorrino: “Muchos pacientes consultan por sensación de presión en los oídos durante la primavera sin relacionarlo con la alergia, pero es algo frecuente” - La Vanguardia](https://news.google.com/rss/articles/CBMikgJBVV95cUxQcFpEOTFPcmI3Ti1ldFVKRVJzaW1Jd0UxbTdxbmk1SDVrdmhzWU4xblE1dmtpY2FvSEdMOFNoMGFzMklKTzNldkdfX0d5Ym84S3M0VDc0V05FUjRXLU84MEQ0clA0SXNlZnd0RlEwSXF6bHpzVVNnRTZDUkNqM3AzZVlKX0pVbzN5YVBUQm12b1ZTSl9uZVNMSzVqYlZab0h1OXE2bUxlZnp0UjlEWFZoUHhKSkpTdVVPQzRnNjFDT013bElnT2dFUFB1ZG56YzBoMWZ6NU1tV2xtSUJsQWk4S3VMVUczZzZjSzlrTFZrN1R1Vng0cGRTRnU3Y0VNeDlrNlpuWlVramJsbUoyMVcyWU1R0gGXAkFVX3lxTFBxWmNkbDJTRGZFZWhEaDFmSzFYdl9sVWp2cmhqWjk0UTdMaWJZZzdsck03bzJ1TzcyRVp3R2dDZFdoY3lkZ2diaUt3a0NxWDBBWHk3YXByTFFqMkRwYjRjdTNSdDBaN1laYmpPc1pYWTgxR3VWaWxiYlZqNUtvVHR2bHJjUWk2ZUJ5NEQzbVh1c2ktZy1qbC1ETVVwT2Q3WEFXZXNIWGpDdnltNVIwck1KZXpyeHJkZldjb2tmUEhwUXdreXRWeUk5a0JwVlNieUJpdmFpNGpnLTJhVmVvV29UeG1hNS0tUmY3TnVPOEJ1aVRia0lzbzVLRDFYMmxTaVJBbEtJNGUyUDFuNkxiZTBHdHRyNUEzbw?oc=5)
+
+2026-05-07 <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMikgJBVV95cUxQcFpEOTFPcmI3Ti1ldFVKRVJzaW1Jd0UxbTdxbmk1SDVrdmhzWU4xblE1dmtpY2FvSEdMOFNoMGFzMklKTzNldkdfX0d5Ym84S3M0VDc0V05FUjRXLU84MEQ0clA0SXNlZnd0RlEwSXF6bHpzVVNnRTZDUkNqM3AzZVlKX0pVbzN5YVBUQm12b1ZTSl9uZVNMSzVqYlZab0h1OXE2bUxlZnp0UjlEWFZoUHhKSkpTdVVPQzRnNjFDT013bElnT2dFUFB1ZG56YzBoMWZ6NU1tV2xtSUJsQWk4S3VMVUczZzZjSzlrTFZrN1R1Vng0cGRTRnU3Y0VNeDlrNlpuWlVramJsbUoyMVcyWU1R0gGXAkFVX3lxTFBxWmNkbDJTRGZFZWhEaDFmSzFYdl9sVWp2cmhqWjk0UTdMaWJZZzdsck03bzJ1TzcyRVp3R2dDZFdoY3lkZ2diaUt3a0NxWDBBWHk3YXByTFFqMkRwYjRjdTNSdDBaN1laYmpPc1pYWTgxR3VWaWxiYlZqNUtvVHR2bHJjUWk2ZUJ5NEQzbVh1c2ktZy1qbC1ETVVwT2Q3WEFXZXNIWGpDdnltNVIwck1KZXpyeHJkZldjb2tmUEhwUXdreXRWeUk5a0JwVlNieUJpdmFpNGpnLTJhVmVvV29UeG1hNS0tUmY3TnVPOEJ1aVRia0lzbzVLRDFYMmxTaVJBbEtJNGUyUDFuNkxiZTBHdHRyNUEzbw?oc=5)
 
 ---
 
@@ -235,14 +251,6 @@ permalink: /news/ganirelix-acetate/
 2026-05-07 <span class="news-indication-tag">AF</span>
 
 來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVJWc3BGSE9EY3JlRHhjVi1BcVAzZlo3M1NVRkFRYmo1SDNtN1JQOUxMN2JyRFhRQ2pHc3VwelVjOWxoaFRHYktVY2xMYWswckhQNmNValh0c2tFeEpwazUxbTFyMGUzQ3UtVTB4Q2t1WkUzVWQzQnFtMkp0bTNYcS1ReVFrWGFBMTNySFJMc1lBSzN3V1NHRVA2eVVYOXIyem9ld1BhZjhIQzZ2Q0E?oc=5)
-
----
-
-### [Treiber von Entzündung nach leichter Kopfverletzung - Universität Bonn](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR080YlVBOEZTcTN2NWdXMm1LMnJyVUcxZDNCOERueDR1MVNYM0pNc1c4by1aTHdnSzNXSjNzSXJybTc1VFRsRU1abml6ZFBfWE1kVWpqeUZnOHZ5QlZ3elEzSkc1eWtLc1htemVzYWMyTkxCNGY3Ql9HSXRZMV81djVVXzBaTU94VDA3VWZn?oc=5)
-
-2026-05-07 <span class="news-indication-tag">AF</span>
-
-來源：[Universität Bonn](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR080YlVBOEZTcTN2NWdXMm1LMnJyVUcxZDNCOERueDR1MVNYM0pNc1c4by1aTHdnSzNXSjNzSXJybTc1VFRsRU1abml6ZFBfWE1kVWpqeUZnOHZ5QlZ3elEzSkc1eWtLc1htemVzYWMyTkxCNGY3Ql9HSXRZMV81djVVXzBaTU94VDA3VWZn?oc=5)
 
 ---
 
@@ -259,14 +267,6 @@ permalink: /news/ganirelix-acetate/
 2026-05-07 <span class="news-indication-tag">AF</span>
 
 來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV1Q4c2hESlFvMUU1ZHdUdGNxdU9uajh3a0ZPWWk2cUVvY1VHRXZKRU9mTmZTcTNNdndjeW9fRmVQaVk1QVFObFozdzZUdkJ5NWJZVGxEV296LXNfZEpwWEhLeV9mUFlHTXZEUEhMa2Q0V2plOFFJak1xcktXSW5tYnJ4OW81MmRFTmdael80TVZwN2VDLTVwckR5RklYandNQkpobE1hV2hwaW5IVmdXZFJ5WkhtU2cyWGlEaHJaUWQ4OTB5ZXQ1amlVbGExblR2UVE?oc=5)
-
----
-
-### [Fibrillazione atriale, all'Asst di Crema una cura innovativa con la forza dei campi magnetici](https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0JIQ0h6V1N0ejJjcVhYRWtXQUplZXZqdU10WUVEX2NvY1lJdm5uX2hoZEFTZGptVzN4aERPNGZDMllaSmZwQ3V4MXVCWUNLcmRuM1gwbjdpSC14MG4tRjBhT01Wd2hQWjcyWnBSeFVQd3hiVnByTjMteWJ1dWRJU3BrTTh6cXBDZTN0c1oxMzYxNzRWc1IyMjdWRjhQemJ2ckxaeFJDYXllTTIxSndLbDNGN3dvd2h0TktZWHFwSQ?oc=5)
-
-2026-05-06 <span class="news-indication-tag">AFib</span>
-
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0JIQ0h6V1N0ejJjcVhYRWtXQUplZXZqdU10WUVEX2NvY1lJdm5uX2hoZEFTZGptVzN4aERPNGZDMllaSmZwQ3V4MXVCWUNLcmRuM1gwbjdpSC14MG4tRjBhT01Wd2hQWjcyWnBSeFVQd3hiVnByTjMteWJ1dWRJU3BrTTh6cXBDZTN0c1oxMzYxNzRWc1IyMjdWRjhQemJ2ckxaeFJDYXllTTIxSndLbDNGN3dvd2h0TktZWHFwSQ?oc=5)
 
 ---
 

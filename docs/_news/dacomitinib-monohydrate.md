@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
+
+2026-05-08 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
+
+---
 
 ### [Eleven arthritis remedies that really work (and others to be wary of) - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQUzZENldHVkN6TVEtUndPUnlFU3h2LURITXF4NkVWbnRIVWIyM0xBdWpxbG44SFg4VDVMZS1GZ1VQM1U5S25VbU5jSmMxWlRJZzF2am8tejhFbi1NUUw1dnc1RC1GVDhJT29fWW5QWENtbEZPT1VMU2VVeHExV2l6S2pyamI1d1RYSkg3Ty0xSUloSXcwUGFDalloTmtTZw?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
-### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
+### [Legumi e soia associati a una netta riduzione del rischio di ipertensione, secondo uno studio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
 
-2026-05-08 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-05-08 <span class="news-indication-tag">ipertensione</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
 
 ---
 
