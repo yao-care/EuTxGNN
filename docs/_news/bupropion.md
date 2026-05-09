@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Nuove pillole per dimagrire, studio svela cosa succede nel cervello ﻿](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnlCSGlzSVNpU2JoUnJCNWUwV3M0Y01TY0tiUlJyWm9jaWhJcW1VUjVpV2gydktad1kwTjlURGdxUFlfVDU4V3MtTWt3NGQzQkJlSEFaRlc0aTNReWEyZGxKb09scnV2dENLbmg5Wkl4WE03ZVRMdUduczhiSHdzQ2t4N1drVDE3UUNJSWZXNkI5a04wS1h6eHlSOUNBNDNiVzRLMTgyTG5fMVJJT0Jncg?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/bupropion/
 
 ---
 
-### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
+### [Neue Ansätze in der Gesundheitsbewertung: MRT statt BMI](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWwyc0JqSXczOEVCM1BLaDhpa3Z2VlBWTzM2RVEtWjBKdE5MOS1mdFdqQ1JpWGlkd05HTHBBLWc5eDFGTjl0cm4zLXV3RHZMZzJLazNDcmRNdGlPTmI0MmJkTEF3Smt0QXI5cC1HM21wY3RkZzdyWjhRNFhmRmVIVUZyU1VZN2pZRnV2alNQcVk?oc=5)
 
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
-
----
-
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
-
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWwyc0JqSXczOEVCM1BLaDhpa3Z2VlBWTzM2RVEtWjBKdE5MOS1mdFdqQ1JpWGlkd05HTHBBLWc5eDFGTjl0cm4zLXV3RHZMZzJLazNDcmRNdGlPTmI0MmJkTEF3Smt0QXI5cC1HM21wY3RkZzdyWjhRNFhmRmVIVUZyU1VZN2pZRnV2alNQcVk?oc=5)
 
 ---
 

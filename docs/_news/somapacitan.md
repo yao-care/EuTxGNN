@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [Hantavirus en un crucero rumbo a España: seis casos confirmados, tres muertos y todas las claves](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2swQ0FkajhUd3JzQzl3cTRnOXF4dWhmT2FIQmpIbUhhbDdrT1FlZHhGOWdhVXhjQTZfY1hiMXpjSEROM1R3OUhGSXB5WkVsNXViMFVYNGx2dFM4ekk1dVhidWQ3UWNtOUMyU2Nyb2tYV0xibTBka2JaS3Y5WEhXaHN4eC0yLUkyc3JDTmxxWlpKSmFFbVdIYVdVZ9IBoAFBVV95cUxPYXdULXBOdjY2YnR0Tkw5WUFWd2w1N0pNZDZhOTJia29oYlRoV2duUHJ6TkdFSU5vc29hNXZZcHhGS3BWWmhXNWRtbXUzMlJOY2p0U24xUUtMYUctaHBmTnBXVnRKWklVcGt0a3VfN0doWWV2bVNDZnRCdkJCN2RBYTlBQkpNLVdLNVJkWE4wQUxyaE5lSXpnd0JKRVV0d1R6?oc=5)
+
+2026-05-09 <span class="news-indication-tag">asma</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2swQ0FkajhUd3JzQzl3cTRnOXF4dWhmT2FIQmpIbUhhbDdrT1FlZHhGOWdhVXhjQTZfY1hiMXpjSEROM1R3OUhGSXB5WkVsNXViMFVYNGx2dFM4ekk1dVhidWQ3UWNtOUMyU2Nyb2tYV0xibTBka2JaS3Y5WEhXaHN4eC0yLUkyc3JDTmxxWlpKSmFFbVdIYVdVZ9IBoAFBVV95cUxPYXdULXBOdjY2YnR0Tkw5WUFWd2w1N0pNZDZhOTJia29oYlRoV2duUHJ6TkdFSU5vc29hNXZZcHhGS3BWWmhXNWRtbXUzMlJOY2p0U24xUUtMYUctaHBmTnBXVnRKWklVcGt0a3VfN0doWWV2bVNDZnRCdkJCN2RBYTlBQkpNLVdLNVJkWE4wQUxyaE5lSXpnd0JKRVV0d1R6?oc=5)
+
+---
 
 ### [Nuove pillole per dimagrire, studio svela cosa succede nel cervello ﻿](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnlCSGlzSVNpU2JoUnJCNWUwV3M0Y01TY0tiUlJyWm9jaWhJcW1VUjVpV2gydktad1kwTjlURGdxUFlfVDU4V3MtTWt3NGQzQkJlSEFaRlc0aTNReWEyZGxKb09scnV2dENLbmg5Wkl4WE03ZVRMdUduczhiSHdzQ2t4N1drVDE3UUNJSWZXNkI5a04wS1h6eHlSOUNBNDNiVzRLMTgyTG5fMVJJT0Jncg?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [La OMC llama a la calma y a la confianza ante el brote de hantavirus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+### [Sapevano dall’inizio ma l’hanno nascosto: «Il vaccino? Frena il Covid solo un po’...» - La Verità](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yQ050QjFwcFRvbnh2NDNEMFpWRm5FQV9kNngxNW5TREtaVmFuQzVfSVN2SE5DTW01U3B5cHpYWmpteFFMVHpseFFwOGNUUy10aU1KVDlhLWQ1UHlhYlpEbnZaRU5hOWxjNFpDcC1NclprVEowTjFOaU5n?oc=5)
 
 2026-05-08 <span class="news-indication-tag">asma</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+來源：[La Verità](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yQ050QjFwcFRvbnh2NDNEMFpWRm5FQV9kNngxNW5TREtaVmFuQzVfSVN2SE5DTW01U3B5cHpYWmpteFFMVHpseFFwOGNUUy10aU1KVDlhLWQ1UHlhYlpEbnZaRU5hOWxjNFpDcC1NclprVEowTjFOaU5n?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Neue Fitness-Studien: BMI ist out, MRT-Analyse ist in - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
+### [Neue Ansätze in der Gesundheitsbewertung: MRT statt BMI](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWwyc0JqSXczOEVCM1BLaDhpa3Z2VlBWTzM2RVEtWjBKdE5MOS1mdFdqQ1JpWGlkd05HTHBBLWc5eDFGTjl0cm4zLXV3RHZMZzJLazNDcmRNdGlPTmI0MmJkTEF3Smt0QXI5cC1HM21wY3RkZzdyWjhRNFhmRmVIVUZyU1VZN2pZRnV2alNQcVk?oc=5)
 
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWRpb0ZQdEh6VkhHczFrQnNRUHlteFYxNk5PTTIxMGRLZk9GWkVYcExNZEYtaU14Y1dWOHp6djloOXdHRXp2TkVTRVhhSUtmZjdQaHNOaHdiYjBKdWZXUTJIMDFDSzRCMDM0dzdsWEswTUhYcUlONXF4VUh2Q1Vvd2twanZpVVNEYWtGRW1uYnhLWGNlZjUwbHZPQWduVmFOWGc?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWwyc0JqSXczOEVCM1BLaDhpa3Z2VlBWTzM2RVEtWjBKdE5MOS1mdFdqQ1JpWGlkd05HTHBBLWc5eDFGTjl0cm4zLXV3RHZMZzJLazNDcmRNdGlPTmI0MmJkTEF3Smt0QXI5cC1HM21wY3RkZzdyWjhRNFhmRmVIVUZyU1VZN2pZRnV2alNQcVk?oc=5)
 
 ---
 
@@ -91,30 +99,6 @@ permalink: /news/somapacitan/
 2026-05-07 <span class="news-indication-tag">diabete</span>
 
 來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
-
----
-
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
-
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
-
----
-
-### [„Nur Sonne wird am Ende des Tages nicht reichen“ - Rheinische Anzeigenblätter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV192X2l3TkZRWF90bW9MYTBRVGZxNVJ6RWw2WGV0Nl9pUTMtMUxfR3lSWXZ2cW95NVBzRDF0eTNCbDFMb3d4ZXNqR0Z4NWNBSGctdUZ1Q2hMNDNFMzhtdmJud0xsRDFzWGkydEc1bDZmanlTQVAzVlVHT25nQmd6SnNMTjNDemh4NUh3RUFDX1lTRkVCZTFfZnNNOVhiRmphUjhwWlNoR3RFQVQ1TmZ2bnJRSDhqZWZMSDlULVZ2b2piZw?oc=5)
-
-2026-05-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Rheinische Anzeigenblätter](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV192X2l3TkZRWF90bW9MYTBRVGZxNVJ6RWw2WGV0Nl9pUTMtMUxfR3lSWXZ2cW95NVBzRDF0eTNCbDFMb3d4ZXNqR0Z4NWNBSGctdUZ1Q2hMNDNFMzhtdmJud0xsRDFzWGkydEc1bDZmanlTQVAzVlVHT25nQmd6SnNMTjNDemh4NUh3RUFDX1lTRkVCZTFfZnNNOVhiRmphUjhwWlNoR3RFQVQ1TmZ2bnJRSDhqZWZMSDlULVZ2b2piZw?oc=5)
-
----
-
-### [Wie sich ME/CFS und Diabetes gegenseitig beeinflussen können - Biermann Medizin](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXRaMHVMdWEtZkp0SEtDXzhKODY4Z3QxMFkxN1JLS3JqV2VXSEtISWpES3RkR1dsa2drZG9mbWptZFFVTGh6dGV0MlFzbWNnN2pVbmI3UG5CdGZzWnlfaERtZmNJWGRlSEF2MDZLUFd2eGsxTllNR29YUzdNZ2FBZ29jLUJKQ1FweWJBcG02TGxfcmtf?oc=5)
-
-2026-05-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXRaMHVMdWEtZkp0SEtDXzhKODY4Z3QxMFkxN1JLS3JqV2VXSEtISWpES3RkR1dsa2drZG9mbWptZFFVTGh6dGV0MlFzbWNnN2pVbmI3UG5CdGZzWnlfaERtZmNJWGRlSEF2MDZLUFd2eGsxTllNR29YUzdNZ2FBZ29jLUJKQ1FweWJBcG02TGxfcmtf?oc=5)
 
 ---
 

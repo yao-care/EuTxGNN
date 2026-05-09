@@ -54,19 +54,27 @@ permalink: /news/rotigotine/
 
 ## 相關新聞（10 則）
 
-### [Hantavirus. Dubbi sulle modalità di trasmissione. Nel 2020 uno studio argentino parlava di aerosol - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcnJWV21OSUJta0JWS0VJS25oR2tLaGo1N25lOFlZVXozeTdCTFNaeUFhbHZpY0RKcHJMVlo4blJPUUlxbVF4WTU4US1aeldLUzJ0RmFycXhXZV9ZMngwTWRINkhPY0VSRDkzSDhqeW8wXzNKZTlPVzlEZ2NOeTZVX2lIVmhGUUZWSTZOY0IyM2lQaF9CMmdhZTNhenFqYVpmRER3V0JNOUdPS2YtMVh0UEdmTHRxeDF1alZESWxtQXJrX3ZoSHRrZHJqUjhpQ01zOGsyNUhSd2dKczljWUZ2dA?oc=5)
+### [¿Por qué el hantavirus no representa un peligro para los ratones? - National Geographic España](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE50QXM4WjNLbEo4U2FkOUhtZmlnWHNIUkw0c3BIZkFKSnRHWlJHMmFrOHFTZ08xVXRVRm5MNkd5ek1QY1BmUUo4QW5WOFJSalFKUWItQ1E1QUNxbENUQXc0bVNMWkJlZmtMNFVjaGwwbmhKQ0c1eFBIeVBZeDJDbnBwZnlzMWRLUUxGQU1qck9SUndpaHJjSmxPQTZ1TlgzRlNkSVoyTG5jR25nRjkw?oc=5)
 
-2026-05-08 <span class="news-indication-tag">MS</span>
+2026-05-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcnJWV21OSUJta0JWS0VJS25oR2tLaGo1N25lOFlZVXozeTdCTFNaeUFhbHZpY0RKcHJMVlo4blJPUUlxbVF4WTU4US1aeldLUzJ0RmFycXhXZV9ZMngwTWRINkhPY0VSRDkzSDhqeW8wXzNKZTlPVzlEZ2NOeTZVX2lIVmhGUUZWSTZOY0IyM2lQaF9CMmdhZTNhenFqYVpmRER3V0JNOUdPS2YtMVh0UEdmTHRxeDF1alZESWxtQXJrX3ZoSHRrZHJqUjhpQ01zOGsyNUhSd2dKczljWUZ2dA?oc=5)
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE50QXM4WjNLbEo4U2FkOUhtZmlnWHNIUkw0c3BIZkFKSnRHWlJHMmFrOHFTZ08xVXRVRm5MNkd5ek1QY1BmUUo4QW5WOFJSalFKUWItQ1E1QUNxbENUQXc0bVNMWkJlZmtMNFVjaGwwbmhKQ0c1eFBIeVBZeDJDbnBwZnlzMWRLUUxGQU1qck9SUndpaHJjSmxPQTZ1TlgzRlNkSVoyTG5jR25nRjkw?oc=5)
 
 ---
 
-### [Wie Koffein das elektrische Bremssystem des Gehirns beeinflusst](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGZYeERyLXRNTUlQX2hxOWlWYXVqajFrbC0wRXBZNjc2dDRCZEVsVXk4UTlELWQzMmRacFVRTGxSNTMyckVpdXNhS3hjb285bklISGZnUGRBd2RWOGQxdTBWT2VWNFdCb0tiRzJRbThTQmhvaTBhdThHQXJyRVpVODZZQ0x6OUVYNjItTVk0bDVOcldDZWFfNUtVSQ?oc=5)
+### [Michael Douglas revealed misdiagnosed symptoms before finding out he had cancer caused by oral sex](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbW5ibEZvUHQtaVNQSUlHRU9yQUE2cmkwcGlyV1ZIT1c2RHE0TE92TlJ2VGtFWjNNNmNkaUFONGxfNU9LQ2dIU2c4VEV6SkFYVE1VYzF2UTJObnowQUpQZ19IQzFZb0ROLVZYZDFvVUxqM2otXzNPc1d1Y21WVE9OcjVkeTRqbWs?oc=5)
+
+2026-05-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[UNILAD](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbW5ibEZvUHQtaVNQSUlHRU9yQUE2cmkwcGlyV1ZIT1c2RHE0TE92TlJ2VGtFWjNNNmNkaUFONGxfNU9LQ2dIU2c4VEV6SkFYVE1VYzF2UTJObnowQUpQZ19IQzFZb0ROLVZYZDFvVUxqM2otXzNPc1d1Y21WVE9OcjVkeTRqbWs?oc=5)
+
+---
+
+### [Alzheimer : cette découverte surprenante sur l'intestin pourrait ralentir la progression de la maladie](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY0NDd0dMTTZHQjUxejBPWHpBUURFOTJzUWFqSWotclFUSXZDMzlYcWhPdjJUVC1KaDE3SWdpRnBZMENabWdlZW9aeGY3UFd3TERxZnU3bWpScWpTWkhVTmlwbUdGODVaZXNFT3gxUDAyNlNFcHY4SzliaHNoSG9MQ05VV1F0by1WVDhRQXp1RnlPS253ZVd6c1dwdUp0VGZpNWdtZ3Jxd2JtSVlhRFhsZmQ2d0VnM1ZZSFNsUGctUmRoM2tKQ0VrMTBhY0lpLUpiVzE2Yk1NcGZnYTR0cmhKMHZscTllZw?oc=5)
 
 2026-05-08 <span class="news-indication-tag">MS</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGZYeERyLXRNTUlQX2hxOWlWYXVqajFrbC0wRXBZNjc2dDRCZEVsVXk4UTlELWQzMmRacFVRTGxSNTMyckVpdXNhS3hjb285bklISGZnUGRBd2RWOGQxdTBWT2VWNFdCb0tiRzJRbThTQmhvaTBhdThHQXJyRVpVODZZQ0x6OUVYNjItTVk0bDVOcldDZWFfNUtVSQ?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY0NDd0dMTTZHQjUxejBPWHpBUURFOTJzUWFqSWotclFUSXZDMzlYcWhPdjJUVC1KaDE3SWdpRnBZMENabWdlZW9aeGY3UFd3TERxZnU3bWpScWpTWkhVTmlwbUdGODVaZXNFT3gxUDAyNlNFcHY4SzliaHNoSG9MQ05VV1F0by1WVDhRQXp1RnlPS253ZVd6c1dwdUp0VGZpNWdtZ3Jxd2JtSVlhRFhsZmQ2d0VnM1ZZSFNsUGctUmRoM2tKQ0VrMTBhY0lpLUpiVzE2Yk1NcGZnYTR0cmhKMHZscTllZw?oc=5)
 
 ---
 
@@ -110,11 +118,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### ["Lo primero que hago al levantarme es desayunar": el hábito que Marta Hazas repite cada día analizado por nuestra endocrina](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkpIa0JtajZGSjhIc0dSYWsyd3lvX2VOWGpfd3FDSVJRWkVTVVJwM0l5ZVpPTVNjaUdHWDllWTdzN2NOSEo4TDhsT1VXbmxIUEhGS21nNW1vX0FidEM3aTV2bEptV2tMcnVRSVVfNG5RX0xMS1NsZGNyQzVvVkd4VTk0c2dOcFFVWEVEVGZrSG5YbGRWWkg1SGJkaTNJOW1FR2RiVW5kMEY?oc=5)
+### [If you quit drinking coffee for two weeks, this is what happens to your body](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmNjeGxEZThDaUZMdDBYSVRJTDd5amZCX3l6d3hWeVBXWlhKdU9JVl9NVDVsTTgyTnFuWFNFYTRKcmVHZFQ1c20xZktEX1hpeWt4Tzd4OWt3QU9DblUyX0dYOURTR2VLdmxfSnM4XzlxMEwwa3F0dVVUeWZHbWlabVhPQWlYMjB1NDhNVGhnd0RQUG9qeWIxeXliX0dRaTZTVFVBdkF0YU53Zw?oc=5)
 
-2026-05-08 <span class="news-indication-tag">MS</span>
+2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[HOLA](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkpIa0JtajZGSjhIc0dSYWsyd3lvX2VOWGpfd3FDSVJRWkVTVVJwM0l5ZVpPTVNjaUdHWDllWTdzN2NOSEo4TDhsT1VXbmxIUEhGS21nNW1vX0FidEM3aTV2bEptV2tMcnVRSVVfNG5RX0xMS1NsZGNyQzVvVkd4VTk0c2dOcFFVWEVEVGZrSG5YbGRWWkg1SGJkaTNJOW1FR2RiVW5kMEY?oc=5)
+來源：[Earth.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmNjeGxEZThDaUZMdDBYSVRJTDd5amZCX3l6d3hWeVBXWlhKdU9JVl9NVDVsTTgyTnFuWFNFYTRKcmVHZFQ1c20xZktEX1hpeWt4Tzd4OWt3QU9DblUyX0dYOURTR2VLdmxfSnM4XzlxMEwwa3F0dVVUeWZHbWlabVhPQWlYMjB1NDhNVGhnd0RQUG9qeWIxeXliX0dRaTZTVFVBdkF0YU53Zw?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/rotigotine/
 2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
-
----
-
-### [Adipositas und Diabetes: Fünffach-Attacke auf Fettzellen - apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
-
-2026-05-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGtVY0FBSkhhb1pDcGRIYXVJRm5zakxXYkdSRUdtLTRsSGk2RjBZMGNjTEdrRE5IYm9ydGpKQVRSdWRPMDBpMXdxSmNkVEZfRkFqTm5fTmxmMW1PSTEzWnNvTm5lLVhIQWZPZy13ZFF4WlM4cWZiSFVmaGYtbE1zQ1BwVHhTMFNYeHJoNU1PMC16NHQ2SnhBSmM3aTVmVS1reFFGb1B0ZTF6ajhaMkp6YWFUMFZKZkk?oc=5)
 
 ---
 

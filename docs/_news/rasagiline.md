@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Un huevo al día, cinco días a la semana: así se relaciona este hábito con menor diagnóstico de Alzheimer.](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjVvRF93cXZvR3JfdzA0d2FGdDdHeGQ5cmgxS1lMeGlCb1Z6NlpyV2UxNnNRQnkyMVFLSUduZ0hUMUhJYjJXYVI4Y2JveVMwME5MbjZEb2tFdkc0ckJFbHNqYmt3WXg4TURVd3pEOGEtMEFMWmdnekFWLXNmT1FMWkFKN3ZoaXg1ZDk5ZjRCTGtjdkY4a1BYTTl0bnBpQ2hXTnk4Y0NNdFZKakFLOWFCWUFSc2I5bDVqZ0ROUXliUFVTazJMRWtTZzBTRWE1YmhYMUFaUFg5OXpfMWZxaEh4SUhpZXg?oc=5)
+
+2026-05-09 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjVvRF93cXZvR3JfdzA0d2FGdDdHeGQ5cmgxS1lMeGlCb1Z6NlpyV2UxNnNRQnkyMVFLSUduZ0hUMUhJYjJXYVI4Y2JveVMwME5MbjZEb2tFdkc0ckJFbHNqYmt3WXg4TURVd3pEOGEtMEFMWmdnekFWLXNmT1FMWkFKN3ZoaXg1ZDk5ZjRCTGtjdkY4a1BYTTl0bnBpQ2hXTnk4Y0NNdFZKakFLOWFCWUFSc2I5bDVqZ0ROUXliUFVTazJMRWtTZzBTRWE1YmhYMUFaUFg5OXpfMWZxaEh4SUhpZXg?oc=5)
+
+---
 
 ### [Eating Eggs May Lower Alzheimer's Risk, Study Finds](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWVjdVJQV3VVVGNoQmtQSFZlV013Vjd6Nmk0a1lsQzd0Y21XWnBVSHJXRnRic2FKWk9HTVJKR1IyM0RJUm5KY2pIZ053ZmhMVlBNbG93dk90bThzV2hMRjBjbWlfN2pPYXJ0dkNvYmZsdEJwalJ4WDFWVU02ZUVFLXlVSll5RWdVeGtXa1ZWV1U0UnlyMTA4TDNnSjJXX1ZjR0pzZDFfVDI0cWtTMUlXS2t1aGdpcE05MDYteQ?oc=5)
 

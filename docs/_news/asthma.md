@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [La OMC llama a la calma y a la confianza ante el brote de hantavirus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+### [Hantavirus en un crucero rumbo a España: seis casos confirmados, tres muertos y todas las claves](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2swQ0FkajhUd3JzQzl3cTRnOXF4dWhmT2FIQmpIbUhhbDdrT1FlZHhGOWdhVXhjQTZfY1hiMXpjSEROM1R3OUhGSXB5WkVsNXViMFVYNGx2dFM4ekk1dVhidWQ3UWNtOUMyU2Nyb2tYV0xibTBka2JaS3Y5WEhXaHN4eC0yLUkyc3JDTmxxWlpKSmFFbVdIYVdVZ9IBoAFBVV95cUxPYXdULXBOdjY2YnR0Tkw5WUFWd2w1N0pNZDZhOTJia29oYlRoV2duUHJ6TkdFSU5vc29hNXZZcHhGS3BWWmhXNWRtbXUzMlJOY2p0U24xUUtMYUctaHBmTnBXVnRKWklVcGt0a3VfN0doWWV2bVNDZnRCdkJCN2RBYTlBQkpNLVdLNVJkWE4wQUxyaE5lSXpnd0JKRVV0d1R6?oc=5)
+
+2026-05-09
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2swQ0FkajhUd3JzQzl3cTRnOXF4dWhmT2FIQmpIbUhhbDdrT1FlZHhGOWdhVXhjQTZfY1hiMXpjSEROM1R3OUhGSXB5WkVsNXViMFVYNGx2dFM4ekk1dVhidWQ3UWNtOUMyU2Nyb2tYV0xibTBka2JaS3Y5WEhXaHN4eC0yLUkyc3JDTmxxWlpKSmFFbVdIYVdVZ9IBoAFBVV95cUxPYXdULXBOdjY2YnR0Tkw5WUFWd2w1N0pNZDZhOTJia29oYlRoV2duUHJ6TkdFSU5vc29hNXZZcHhGS3BWWmhXNWRtbXUzMlJOY2p0U24xUUtMYUctaHBmTnBXVnRKWklVcGt0a3VfN0doWWV2bVNDZnRCdkJCN2RBYTlBQkpNLVdLNVJkWE4wQUxyaE5lSXpnd0JKRVV0d1R6?oc=5)
+
+---
+
+### [Sapevano dall’inizio ma l’hanno nascosto: «Il vaccino? Frena il Covid solo un po’...» - La Verità](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yQ050QjFwcFRvbnh2NDNEMFpWRm5FQV9kNngxNW5TREtaVmFuQzVfSVN2SE5DTW01U3B5cHpYWmpteFFMVHpseFFwOGNUUy10aU1KVDlhLWQ1UHlhYlpEbnZaRU5hOWxjNFpDcC1NclprVEowTjFOaU5n?oc=5)
 
 2026-05-08
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+來源：[La Verità](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yQ050QjFwcFRvbnh2NDNEMFpWRm5FQV9kNngxNW5TREtaVmFuQzVfSVN2SE5DTW01U3B5cHpYWmpteFFMVHpseFFwOGNUUy10aU1KVDlhLWQ1UHlhYlpEbnZaRU5hOWxjNFpDcC1NclprVEowTjFOaU5n?oc=5)
 
 ---
 

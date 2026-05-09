@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Un huevo al día, cinco días a la semana: así se relaciona este hábito con menor diagnóstico de Alzheimer.](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjVvRF93cXZvR3JfdzA0d2FGdDdHeGQ5cmgxS1lMeGlCb1Z6NlpyV2UxNnNRQnkyMVFLSUduZ0hUMUhJYjJXYVI4Y2JveVMwME5MbjZEb2tFdkc0ckJFbHNqYmt3WXg4TURVd3pEOGEtMEFMWmdnekFWLXNmT1FMWkFKN3ZoaXg1ZDk5ZjRCTGtjdkY4a1BYTTl0bnBpQ2hXTnk4Y0NNdFZKakFLOWFCWUFSc2I5bDVqZ0ROUXliUFVTazJMRWtTZzBTRWE1YmhYMUFaUFg5OXpfMWZxaEh4SUhpZXg?oc=5)
+
+2026-05-09
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjVvRF93cXZvR3JfdzA0d2FGdDdHeGQ5cmgxS1lMeGlCb1Z6NlpyV2UxNnNRQnkyMVFLSUduZ0hUMUhJYjJXYVI4Y2JveVMwME5MbjZEb2tFdkc0ckJFbHNqYmt3WXg4TURVd3pEOGEtMEFMWmdnekFWLXNmT1FMWkFKN3ZoaXg1ZDk5ZjRCTGtjdkY4a1BYTTl0bnBpQ2hXTnk4Y0NNdFZKakFLOWFCWUFSc2I5bDVqZ0ROUXliUFVTazJMRWtTZzBTRWE1YmhYMUFaUFg5OXpfMWZxaEh4SUhpZXg?oc=5)
+
+---
 
 ### [Eating Eggs May Lower Alzheimer's Risk, Study Finds](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWVjdVJQV3VVVGNoQmtQSFZlV013Vjd6Nmk0a1lsQzd0Y21XWnBVSHJXRnRic2FKWk9HTVJKR1IyM0RJUm5KY2pIZ053ZmhMVlBNbG93dk90bThzV2hMRjBjbWlfN2pPYXJ0dkNvYmZsdEJwalJ4WDFWVU02ZUVFLXlVSll5RWdVeGtXa1ZWV1U0UnlyMTA4TDNnSjJXX1ZjR0pzZDFfVDI0cWtTMUlXS2t1aGdpcE05MDYteQ?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Supplements taken by millions ‘increase heart and stroke risk’ in worrying study - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNazNkUGh4aFRMbWU0bmxJYzN3bEd2ODBTRmdkVmNidWFvRHhxamN5eUQ1ZnJlWnpkWlR3TGUxYklYU3NoekVjVnhsQjFIYjIyVzJFd3ZUTzI4VXZFTXVkN2xVZUZPSTB4YXRua0J2Ql9pRV9tNkVBN00tcUo5Q096VEVfXzMyc29IRDBQcktBWEnSAZYBQVVfeXFMTXN5c2d5M0NQQ2ZianFNTEgwWnB4X3NOLVhUdF95U1kyU1pldGE5UDE4LVhMV19LSkhWOHhXMnR3b3pOMU9zNDJFUGRVT0xzOFMwRS0xZFUzVDdQSDJ3VTFDVmpaQnNVLW1pQW9HUHFmckFCNFZzblNGRWR5OGtMRF9tcUJfbl9uenJESkxRT2poVC1scV9n?oc=5)
+### [Auch ein zu niedriger Puls erhöht Risiko für Schlaganfall signifikant](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
 
-2026-05-07
+2026-05-08
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNazNkUGh4aFRMbWU0bmxJYzN3bEd2ODBTRmdkVmNidWFvRHhxamN5eUQ1ZnJlWnpkWlR3TGUxYklYU3NoekVjVnhsQjFIYjIyVzJFd3ZUTzI4VXZFTXVkN2xVZUZPSTB4YXRua0J2Ql9pRV9tNkVBN00tcUo5Q096VEVfXzMyc29IRDBQcktBWEnSAZYBQVVfeXFMTXN5c2d5M0NQQ2ZianFNTEgwWnB4X3NOLVhUdF95U1kyU1pldGE5UDE4LVhMV19LSkhWOHhXMnR3b3pOMU9zNDJFUGRVT0xzOFMwRS0xZFUzVDdQSDJ3VTFDVmpaQnNVLW1pQW9HUHFmckFCNFZzblNGRWR5OGtMRF9tcUJfbl9uenJESkxRT2poVC1scV9n?oc=5)
-
----
-
-### [Ruhepuls als Schlüssel zur Schlaganfallprävention](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
-
-2026-05-07
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck4yQ00yVno0V3RFaWNLcGxGc0FnVWtScndGUU9hdE9DNElfU0FqYW5EM0dZY0FxR0ViYkhJX3JuSmxfNkJ2dDE2anJOUU1oRVhxODlGZlhGZGxoT0oxVTRXeGxaMzJISlJvT2VxMmNCUFlxLWIxZUZuNDZaRU41dFQtMWVTQXJuYlRJ?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWFJFN1IxUDdZUXVOdTAwOUlWVVVyYlFqT1FTNkc3YTRtS2szbUtGNUZFU1RRRTVEVFNRd1gxcEdNOGFkY0VVU21CRC1YMmRHQW02NHNadFEwZDFNY2txMnZqcDhXQ2o4WEpJSDN5NGVGcGE1MkNFVHBXMFRBX3NpcXg2bGpvM0JTR3VydkFHM1ZrYWhkWU1OcnlHUmxhRm9fLVNVN3FCVjJyUmN4eG95dFp5emdnem96SGQxME1iZWdFQVZQSHRNS0FlOUtKNUhHaXNWTUlyUXVmVW5JZVE3Uk14Rng?oc=5)
 
 ---
 
