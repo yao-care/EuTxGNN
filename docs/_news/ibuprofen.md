@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Rodrigo Morínigo, un menor de 14 años que murió por hantavirus: "Nos mandaron a casa con ibuprofeno" - Antena 3](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQekNkMDZDbHZ4c3lZaTBTbEhrNEpVMF95VEFqbW5GNjNNc3dWSkppbFJaTjZISjdTSWZId3BHTHVOSWh3ZFIzNkMyaDRMT3kzS2d0MC1FcG5XamR5dXdWRmlHWTZCTkx1V2h3NEFrLXdaSzJpVExKcC00M24wa0V5ek4wNEtPUFlsTzRpWnRSMUZFX0pVcUxRM293alRpckZUQVpIaksta1F0Y2Rib05xOFI2VGxsMklSdkVvbWlYQ1FsZTBkT25VbXZidElBSlBsWXpXLURxb3R2U0tOQU0wX0EyY3QxbnRDckQxc2J30gHuAUFVX3lxTE95WEJRVlVmQmFBei1qVFZwN3B3dUFfaUY0UXhHRFFxaGVIREo2dGZXNkRuMmRQNkJPbUxzdmxWeWFaN2hDNGdoLVNoVmlKRXRBZjh0MHZlalRPamZwenVwZGtmNHU0c0plWFZGUVpRTWhZdm56ZlZMcWd6bERqVXVxcUhlR0ozaUt0OVMtODVTZTRZdUxzb241WFhROWlDaV9jOHNVZzg2alQ2WlF2emp1UndtZWZzUERDTW9SeW5reHZhVmR0ZW5qVDBRaXRZYklTVGJCSGRnYXg1b1kzeHlCbWo5cUpKcndJUlE3R2c?oc=5)
+
+2026-05-08 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[Antena 3](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQekNkMDZDbHZ4c3lZaTBTbEhrNEpVMF95VEFqbW5GNjNNc3dWSkppbFJaTjZISjdTSWZId3BHTHVOSWh3ZFIzNkMyaDRMT3kzS2d0MC1FcG5XamR5dXdWRmlHWTZCTkx1V2h3NEFrLXdaSzJpVExKcC00M24wa0V5ek4wNEtPUFlsTzRpWnRSMUZFX0pVcUxRM293alRpckZUQVpIaksta1F0Y2Rib05xOFI2VGxsMklSdkVvbWlYQ1FsZTBkT25VbXZidElBSlBsWXpXLURxb3R2U0tOQU0wX0EyY3QxbnRDckQxc2J30gHuAUFVX3lxTE95WEJRVlVmQmFBei1qVFZwN3B3dUFfaUY0UXhHRFFxaGVIREo2dGZXNkRuMmRQNkJPbUxzdmxWeWFaN2hDNGdoLVNoVmlKRXRBZjh0MHZlalRPamZwenVwZGtmNHU0c0plWFZGUVpRTWhZdm56ZlZMcWd6bERqVXVxcUhlR0ozaUt0OVMtODVTZTRZdUxzb241WFhROWlDaV9jOHNVZzg2alQ2WlF2emp1UndtZWZzUERDTW9SeW5reHZhVmR0ZW5qVDBRaXRZYklTVGJCSGRnYXg1b1kzeHlCbWo5cUpKcndJUlE3R2c?oc=5)
+
+---
 
 ### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
 

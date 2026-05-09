@@ -14,7 +14,7 @@ permalink: /news/voretigene-neparvovec/
 ---
 
 <p class="key-answer" data-question="Voretigene Neparvovec 有什麼相關新聞？">
-<strong>Voretigene Neparvovec</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voretigene Neparvovec</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/voretigene-neparvovec/
 <p><a href="{{ '/drugs/voretigene-neparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Legumi e soia associati a una netta riduzione del rischio di ipertensione, secondo uno studio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
 
 2026-05-08 <span class="news-indication-tag">ipertensione</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
-
----
-
-### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
-
-2026-05-07 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
 ---
 

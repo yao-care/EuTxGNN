@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Deux études révèlent que faire la sieste au-delà de 30 minutes augmente le risque d'obésité et de maladies cardiaques, même chez les personnes en bonne santé - La Provence](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVEE2YnBIUkJMVy1nUTVIOUY1VDVKbmVUck41Wk9NOVlrNEdXTENZZVRUVjQ5UTdWX00wWUkxdkNCb2hwOHRpdW05ZjNqVGp2TGl5R2dyX2x0TXpNSWJLMDQ0QTlEU3F6czNtQlYzTk1manFQMFJKM2lOSTVvaHpoaENoZ0JiVGhwNTU2SjhUQ19Sa1dOeHZaVGFWYTFXV1BlRURSSm5aMWFQN2ozUUhhLWFiazYxRWJnbjRqcDJkdEQybnN3UnpvUGZPQUZkdTBsRl9hR1JoT0w5NWpoM0ZFWWxqSXhxYm5hZkd6QWx0MVZGT254VDBUbVpscnYxSVNLU3Bod21rMzlmM2o2SHVxcm5oRVF2TGNMWko2MDE2cXdsT1hrbHRQaHhwNzNmcmM3NV9XbTZtSzg?oc=5)
+
+2026-05-09 <span class="news-indication-tag">obésité</span>
+
+來源：[La Provence](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVEE2YnBIUkJMVy1nUTVIOUY1VDVKbmVUck41Wk9NOVlrNEdXTENZZVRUVjQ5UTdWX00wWUkxdkNCb2hwOHRpdW05ZjNqVGp2TGl5R2dyX2x0TXpNSWJLMDQ0QTlEU3F6czNtQlYzTk1manFQMFJKM2lOSTVvaHpoaENoZ0JiVGhwNTU2SjhUQ19Sa1dOeHZaVGFWYTFXV1BlRURSSm5aMWFQN2ozUUhhLWFiazYxRWJnbjRqcDJkdEQybnN3UnpvUGZPQUZkdTBsRl9hR1JoT0w5NWpoM0ZFWWxqSXhxYm5hZkd6QWx0MVZGT254VDBUbVpscnYxSVNLU3Bod21rMzlmM2o2SHVxcm5oRVF2TGNMWko2MDE2cXdsT1hrbHRQaHhwNzNmcmM3NV9XbTZtSzg?oc=5)
+
+---
 
 ### [Nuove pillole per dimagrire, studio svela cosa succede nel cervello ﻿](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnlCSGlzSVNpU2JoUnJCNWUwV3M0Y01TY0tiUlJyWm9jaWhJcW1VUjVpV2gydktad1kwTjlURGdxUFlfVDU4V3MtTWt3NGQzQkJlSEFaRlc0aTNReWEyZGxKb09scnV2dENLbmg5Wkl4WE03ZVRMdUduczhiSHdzQ2t4N1drVDE3UUNJSWZXNkI5a04wS1h6eHlSOUNBNDNiVzRLMTgyTG5fMVJJT0Jncg?oc=5)
 

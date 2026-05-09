@@ -78,11 +78,11 @@ permalink: /news/insulin-glulisine/
 
 ---
 
-### [All'Ospedale Maggiore utilizzato un nuovo farmaco per il diabete 1 - Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
+### [Yogurt tutti i giorni: benefici reali per intestino e diabete](https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHJCcG0tT2ZVYmxvMlY5aG1rTDExMkN2ZmZGUGQwVGtlN1pYUUlhOEdNUV9Bbjh4NXliTTlqQ0FnV2hEc01iQVNpWGlmMXFkRFM2dWNvb2tRQU16TUhDM2RZUWhJczRGdzRvSGJrbVg4TGNQOGVRVmY4RUJ3LWZoTXlZY2ZDYVZiWHI2ag?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabete</span>
 
-來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
+來源：[Grazia](https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHJCcG0tT2ZVYmxvMlY5aG1rTDExMkN2ZmZGUGQwVGtlN1pYUUlhOEdNUV9Bbjh4NXliTTlqQ0FnV2hEc01iQVNpWGlmMXFkRFM2dWNvb2tRQU16TUhDM2RZUWhJczRGdzRvSGJrbVg4TGNQOGVRVmY4RUJ3LWZoTXlZY2ZDYVZiWHI2ag?oc=5)
 
 ---
 

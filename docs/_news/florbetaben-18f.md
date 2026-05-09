@@ -54,6 +54,14 @@ permalink: /news/florbetaben-18f/
 
 ## 相關新聞（4 則）
 
+### [Sono duemila i pratesi che soffrono di mal di testa cronico - Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1ptckxfbmtvWWJ5SWQ2YUNueWQtS0U5RnBmOGl2MTdqZ3hWNUFpN0FOWGlaRlVpUXpvNl96LXpnMlZVQzVmU1JseDFhNkc2Z01kR1RMd0dPZGRETFUybGVac0djVUFtelFRWWFtY1ZTZ0E5cWloTEM3ZmMyYmE1d2hsVHFZcXZfeXIxM1NLZXlXcjhFM1NFNnlyU1N0U3RUMDVKQnMwV3ZmTFZlUlVRT0hmbTBDOHcwclNuZUVaUlJ2aV9l?oc=5)
+
+2026-05-09 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1ptckxfbmtvWWJ5SWQ2YUNueWQtS0U5RnBmOGl2MTdqZ3hWNUFpN0FOWGlaRlVpUXpvNl96LXpnMlZVQzVmU1JseDFhNkc2Z01kR1RMd0dPZGRETFUybGVac0djVUFtelFRWWFtY1ZTZ0E5cWloTEM3ZmMyYmE1d2hsVHFZcXZfeXIxM1NLZXlXcjhFM1NFNnlyU1N0U3RUMDVKQnMwV3ZmTFZlUlVRT0hmbTBDOHcwclNuZUVaUlJ2aV9l?oc=5)
+
+---
+
 ### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
 
 2026-05-08 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
@@ -75,14 +83,6 @@ permalink: /news/florbetaben-18f/
 2026-05-08 <span class="news-indication-tag">ipertensione</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
-
----
-
-### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
-
-2026-05-07 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
 ---
 

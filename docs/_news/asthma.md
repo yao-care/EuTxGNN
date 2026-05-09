@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Moderna investiga ya una posible vacuna frente al hantavirus - El Globalfarma](https://news.google.com/rss/articles/CBMib0FVX3lxTE83YXMyNzJPSUFaOS16SnF5MGNONVBLOU1rNVJEUzBLdHY3ZnNMZzVVRU1HVE9uaWJLR0xrdXR2cEVRY25QcDZWUjAwRUI1MG1nbTNQWFF3ZTZPMkVNYmp2WlB1SC1FUnNZa0RIM2Z6aw?oc=5)
+
+2026-05-09
+
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMib0FVX3lxTE83YXMyNzJPSUFaOS16SnF5MGNONVBLOU1rNVJEUzBLdHY3ZnNMZzVVRU1HVE9uaWJLR0xrdXR2cEVRY25QcDZWUjAwRUI1MG1nbTNQWFF3ZTZPMkVNYmp2WlB1SC1FUnNZa0RIM2Z6aw?oc=5)
+
+---
 
 ### [Hantavirus en un crucero rumbo a España: seis casos confirmados, tres muertos y todas las claves](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2swQ0FkajhUd3JzQzl3cTRnOXF4dWhmT2FIQmpIbUhhbDdrT1FlZHhGOWdhVXhjQTZfY1hiMXpjSEROM1R3OUhGSXB5WkVsNXViMFVYNGx2dFM4ekk1dVhidWQ3UWNtOUMyU2Nyb2tYV0xibTBka2JaS3Y5WEhXaHN4eC0yLUkyc3JDTmxxWlpKSmFFbVdIYVdVZ9IBoAFBVV95cUxPYXdULXBOdjY2YnR0Tkw5WUFWd2w1N0pNZDZhOTJia29oYlRoV2duUHJ6TkdFSU5vc29hNXZZcHhGS3BWWmhXNWRtbXUzMlJOY2p0U24xUUtMYUctaHBmTnBXVnRKWklVcGt0a3VfN0doWWV2bVNDZnRCdkJCN2RBYTlBQkpNLVdLNVJkWE4wQUxyaE5lSXpnd0JKRVV0d1R6?oc=5)
 
@@ -85,11 +93,11 @@ permalink: /news/asthma/
 
 ---
 
-### [Sapevano dall’inizio ma l’hanno nascosto: «Il vaccino? Frena il Covid solo un po’...» - La Verità](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yQ050QjFwcFRvbnh2NDNEMFpWRm5FQV9kNngxNW5TREtaVmFuQzVfSVN2SE5DTW01U3B5cHpYWmpteFFMVHpseFFwOGNUUy10aU1KVDlhLWQ1UHlhYlpEbnZaRU5hOWxjNFpDcC1NclprVEowTjFOaU5n?oc=5)
+### [Boom di allergie, parla il botanico: “Il vero rischio è invisibile nell’aria” - La Nazione](https://news.google.com/rss/articles/CBMib0FVX3lxTE1kVnAwMVMyRnRpMFpsYkVXd3lrQXJJX1NYZGNaZmNCMjhIcWsxbWs1eUVFY09Rd2c2dEVrYUFNYVJ6SXpTUDdqNnBOT0RSTE96NDBYODQyZGRtRnNiMzF4bnFGS2g0MFRlU09ZVXFUZw?oc=5)
 
-2026-05-08
+2026-05-07
 
-來源：[La Verità](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yQ050QjFwcFRvbnh2NDNEMFpWRm5FQV9kNngxNW5TREtaVmFuQzVfSVN2SE5DTW01U3B5cHpYWmpteFFMVHpseFFwOGNUUy10aU1KVDlhLWQ1UHlhYlpEbnZaRU5hOWxjNFpDcC1NclprVEowTjFOaU5n?oc=5)
+來源：[La Nazione](https://news.google.com/rss/articles/CBMib0FVX3lxTE1kVnAwMVMyRnRpMFpsYkVXd3lrQXJJX1NYZGNaZmNCMjhIcWsxbWs1eUVFY09Rd2c2dEVrYUFNYVJ6SXpTUDdqNnBOT0RSTE96NDBYODQyZGRtRnNiMzF4bnFGS2g0MFRlU09ZVXFUZw?oc=5)
 
 ---
 

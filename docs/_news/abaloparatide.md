@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Sono duemila i pratesi che soffrono di mal di testa cronico - Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1ptckxfbmtvWWJ5SWQ2YUNueWQtS0U5RnBmOGl2MTdqZ3hWNUFpN0FOWGlaRlVpUXpvNl96LXpnMlZVQzVmU1JseDFhNkc2Z01kR1RMd0dPZGRETFUybGVac0djVUFtelFRWWFtY1ZTZ0E5cWloTEM3ZmMyYmE1d2hsVHFZcXZfeXIxM1NLZXlXcjhFM1NFNnlyU1N0U3RUMDVKQnMwV3ZmTFZlUlVRT0hmbTBDOHcwclNuZUVaUlJ2aV9l?oc=5)
+
+2026-05-09 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1ptckxfbmtvWWJ5SWQ2YUNueWQtS0U5RnBmOGl2MTdqZ3hWNUFpN0FOWGlaRlVpUXpvNl96LXpnMlZVQzVmU1JseDFhNkc2Z01kR1RMd0dPZGRETFUybGVac0djVUFtelFRWWFtY1ZTZ0E5cWloTEM3ZmMyYmE1d2hsVHFZcXZfeXIxM1NLZXlXcjhFM1NFNnlyU1N0U3RUMDVKQnMwV3ZmTFZlUlVRT0hmbTBDOHcwclNuZUVaUlJ2aV9l?oc=5)
+
+---
 
 ### [Nuove pillole per dimagrire, studio svela cosa succede nel cervello ﻿](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnlCSGlzSVNpU2JoUnJCNWUwV3M0Y01TY0tiUlJyWm9jaWhJcW1VUjVpV2gydktad1kwTjlURGdxUFlfVDU4V3MtTWt3NGQzQkJlSEFaRlc0aTNReWEyZGxKb09scnV2dENLbmg5Wkl4WE03ZVRMdUduczhiSHdzQ2t4N1drVDE3UUNJSWZXNkI5a04wS1h6eHlSOUNBNDNiVzRLMTgyTG5fMVJJT0Jncg?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [All'Ospedale Maggiore utilizzato un nuovo farmaco per il diabete 1 - Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
+### [Yogurt tutti i giorni: benefici reali per intestino e diabete](https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHJCcG0tT2ZVYmxvMlY5aG1rTDExMkN2ZmZGUGQwVGtlN1pYUUlhOEdNUV9Bbjh4NXliTTlqQ0FnV2hEc01iQVNpWGlmMXFkRFM2dWNvb2tRQU16TUhDM2RZUWhJczRGdzRvSGJrbVg4TGNQOGVRVmY4RUJ3LWZoTXlZY2ZDYVZiWHI2ag?oc=5)
 
 2026-05-07 <span class="news-indication-tag">diabete</span>
 
-來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDVZTWxjNThRNWZXem9CMF8zNkhEQlVoR3R6Uzc2SDA3X09ZQnNwMTk1Skxvb1lOelFBNGZieE83SzlQeWM1V3E4aHg0VWtUSnFuTHRXQTNLdU9KalNDX0JaODZRVkxpQnFQMjNYdkowQ256dnNGNFJCSnVrUV9xMVlveFc4N1hNWFg1MTN4dUpmaUZWajVOdFlKZUFGU3VvREhKczBfLXFGYkI1ejY0bGJIa3N3THIwUy0zaXNfWVpLdm11VEx5Tg?oc=5)
+來源：[Grazia](https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHJCcG0tT2ZVYmxvMlY5aG1rTDExMkN2ZmZGUGQwVGtlN1pYUUlhOEdNUV9Bbjh4NXliTTlqQ0FnV2hEc01iQVNpWGlmMXFkRFM2dWNvb2tRQU16TUhDM2RZUWhJczRGdzRvSGJrbVg4TGNQOGVRVmY4RUJ3LWZoTXlZY2ZDYVZiWHI2ag?oc=5)
 
 ---
 

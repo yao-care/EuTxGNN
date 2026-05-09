@@ -14,7 +14,7 @@ permalink: /news/zanubrutinib/
 ---
 
 <p class="key-answer" data-question="Zanubrutinib 有什麼相關新聞？">
-<strong>Zanubrutinib</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zanubrutinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/zanubrutinib/
 <p><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（12 則）
 
 ### [Krebs: „Könnte Heilwirkung steigern“ – Forscher knacken erstmals Schutzschild gefährlicher Tumorzellen](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
 
 2026-05-09 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbl9Ka1ItMl84a2dJQmNpYkE3ckJqcndhbWR6OG1XTWRGQk9uY21YSzByVk5Id2pvSVc5Uzg0c2oxV3M1TjBOMWRaRVhoYXd4YWkwQXVSYk5IS2EySERvY3RmdmtLbEZDUEhudUR2NTdWa1U2bTZrR2drZGhqZEIwTnZyb3g5SjVMYlVuT3hnU0djN3duM0tiTFVacm15QkVCZTJ4X1pCYnhCSl9QOFlHRHk2ajhPbTRrNHUwc0lwMTFxcjczd1llTlVPSXNxLU1VSWYxa3dkbVNSRTVTaTBGVlc5cy1oREJBZE5XaDhsUXJjYllxQS1uUkNUcw?oc=5)
-
----
-
-### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVhWM3lkRVp1dDZTempvNV9NNTY4M2dZYmFZZWs2emwyd0swX1pmTHk0SC1UcUxyVlpyUEl4ak53V2NkeUpBWUx5SFFNbXZoY254cW5QTXlVU3JTYjMwSlQxTm5NRWQwQXBCWnJJTW43eGFoVzQzQ3JHTnVyYXlMZ19DVFFHZFNTNTRSTkZjV1paMHNjNmJ4T0F1WEduNUZyS0lPaHVjQjh3cklnV1dJbzVWQmEteDRyd3lkeDdCcw?oc=5)
-
-2026-05-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVhWM3lkRVp1dDZTempvNV9NNTY4M2dZYmFZZWs2emwyd0swX1pmTHk0SC1UcUxyVlpyUEl4ak53V2NkeUpBWUx5SFFNbXZoY254cW5QTXlVU3JTYjMwSlQxTm5NRWQwQXBCWnJJTW43eGFoVzQzQ3JHTnVyYXlMZ19DVFFHZFNTNTRSTkZjV1paMHNjNmJ4T0F1WEduNUZyS0lPaHVjQjh3cklnV1dJbzVWQmEteDRyd3lkeDdCcw?oc=5)
 
 ---
 
@@ -110,27 +102,11 @@ permalink: /news/zanubrutinib/
 
 ---
 
-### [Pazienti cancro ovaio: "In Italia accesso a cure e prevenzione ancora diseguale" - Il Tirreno](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMkN1SFFDOTB1ajdvZndlM0xSUnlycjFQbXZiNTFLN1NVU2UyaTlOakd5RnNQVVlmVnNhbU9yTlpWUEdBem9QcmtXTlVrYklHSkxFMG5fMFFmTzRUUmtLVnZOalNNUTFibXBvaDJCXzdpZng5NncxbzRsUkVKT1JrRlItakVLbVo5RVZ0bzdtaTE5eWVuTmZlbmRGLXpjYVVBWXl2T19ITTQtUWFhMHJ4TkI5ZW1nNk5OdWJOblNQNEU0S0ZYTDNwM3NUU25SVGdTNFd1WVVZVndaaVZxeEpsaE9hZw?oc=5)
+### [Controlli automatici e gratis per chi ha superato il cancro al seno: come funziona il nuovo protocollo della Lombardia - Il Giorno](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEREbnZSWWJ3SmZSQlVrMGVZMjFmbDA4R0I1MDF5d1F3N3ByY25IOXM1eEdkRGxjUW5HTzNSRjVjSzJPMjdlQ3prQ0tvcFQ5QW5sc0ZqNlIwOTBkZUNMcVV4bFhhZlBCcXJ5dDZXRFJuLXRKa3pzeUNDaTQ1QU54WlRnYjVHOWs2a2xyMjJUMFJpOFk?oc=5)
 
 2026-05-08 <span class="news-indication-tag">cancro</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMkN1SFFDOTB1ajdvZndlM0xSUnlycjFQbXZiNTFLN1NVU2UyaTlOakd5RnNQVVlmVnNhbU9yTlpWUEdBem9QcmtXTlVrYklHSkxFMG5fMFFmTzRUUmtLVnZOalNNUTFibXBvaDJCXzdpZng5NncxbzRsUkVKT1JrRlItakVLbVo5RVZ0bzdtaTE5eWVuTmZlbmRGLXpjYVVBWXl2T19ITTQtUWFhMHJ4TkI5ZW1nNk5OdWJOblNQNEU0S0ZYTDNwM3NUU25SVGdTNFd1WVVZVndaaVZxeEpsaE9hZw?oc=5)
-
----
-
-### [Mammografia, la Regione chiama le pazienti - La Provincia di Cremona e Crema](https://news.google.com/rss/articles/CBMingFBVV95cUxNUURxQ3FwUVRyR1ZzY2haeXFhQ29HUkdqUnJCNDdZWWxaSjNLNVJIeURVSTJQYzF6eHk3UmNfWDF3UVJKTHFQZ0I0MzlDYVZ4SDZ6Z1d2QWdYRDRLZzFBN0xidGlGWnhmVHI1MTBkNEc2S2UtN0tERGJ2WUtmcmdUcTdWUm85ZGFBV2lYbHNReUctZ1pwRXItMFBmOWp1dw?oc=5)
-
-2026-05-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Provincia di Cremona e Crema](https://news.google.com/rss/articles/CBMingFBVV95cUxNUURxQ3FwUVRyR1ZzY2haeXFhQ29HUkdqUnJCNDdZWWxaSjNLNVJIeURVSTJQYzF6eHk3UmNfWDF3UVJKTHFQZ0I0MzlDYVZ4SDZ6Z1d2QWdYRDRLZzFBN0xidGlGWnhmVHI1MTBkNEc2S2UtN0tERGJ2WUtmcmdUcTdWUm85ZGFBV2lYbHNReUctZ1pwRXItMFBmOWp1dw?oc=5)
-
----
-
-### [Thousands of NHS nurses ‘exposed to toxic chemicals’ after probe into miscarriages - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPamdSOXdPbURfUmFHeWFKeG5vOW5uM3ZoTDdsbERNUjkzMy03X3RDRkxZYklzU2M0VUs2aXlkR3NfQWozTkRuMGNTOWRZeno5RTdPanVLaVZnQXJzemUySG94MVExNlg2MHByam1RVHVDWWhGSVdsVl9LT2thOG5fU01QcXdsRURWXzFhZk14V2hBTDB2c0N4T0lHaw?oc=5)
-
-2026-05-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPamdSOXdPbURfUmFHeWFKeG5vOW5uM3ZoTDdsbERNUjkzMy03X3RDRkxZYklzU2M0VUs2aXlkR3NfQWozTkRuMGNTOWRZeno5RTdPanVLaVZnQXJzemUySG94MVExNlg2MHByam1RVHVDWWhGSVdsVl9LT2thOG5fU01QcXdsRURWXzFhZk14V2hBTDB2c0N4T0lHaw?oc=5)
+來源：[Il Giorno](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEREbnZSWWJ3SmZSQlVrMGVZMjFmbDA4R0I1MDF5d1F3N3ByY25IOXM1eEdkRGxjUW5HTzNSRjVjSzJPMjdlQ3prQ0tvcFQ5QW5sc0ZqNlIwOTBkZUNMcVV4bFhhZlBCcXJ5dDZXRFJuLXRKa3pzeUNDaTQ1QU54WlRnYjVHOWs2a2xyMjJUMFJpOFk?oc=5)
 
 ---
 
@@ -142,11 +118,11 @@ permalink: /news/zanubrutinib/
 
 ---
 
-### [Los anticuerpos conjugados dirigidos demuestran un gran potencial en el tratamiento del cáncer de ovario - Salud a Diario](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3dITUNpMjR4aVpqNF9fNDhqTmFYVnJpaUx6YlFPMFB6bUd4WWdldk5RUGNUU0pRY2JaZVBBNDJCMEY3MktxOW82bThTanJpbHUwWGcwTVY4MG1LaFVpS1Z1aGxGT20zY3lMMkFIZ05YZXpxQktmRVM4T2JaVnVVdDY3aDNPYXlYSENfSmw2ZzdzM0h5aXh2cVE2bUtDU0ViOTFhQzdwSWozMENWOFllZ04xdlBsZ0FDVnJRb0M3OXZOZXNmNjc3V2E0bTZVbkNOWDFnWWFPYkVBS0UybHc?oc=5)
+### [In menopausa, over 50, con una parente stretta malata: chi rischia di più un tumore all'ovaio (spesso scoperto troppo tardi) - Corriere della Sera](https://news.google.com/rss/articles/CBMixgJBVV95cUxPMGZwX1ZDem84ZENWTDBhNUR1U3pZREVMWk56d0M2RG52V19OdGRhcG1xZU5DODlzVFlMZTd5MmVCZ1VRUjVjWkNYX0xzUEM4UG15eGd0ZF9tTk5sOTl2RHBVWGE4RzhIUGg4QnJPcEJoNmc1NVBIRS1kUDZreUctZ3VaUjVORGRham9tWnpZdGVsN09MX2g0STVsNkZYVzI4dG12RmZaSXdlWU12ZV9VZ1VaRlpzNUZYTFZJdUt4NHdWTDdhaG1xODhFamNtRlItaTgyZzZQTTRZYnlPZmNJVHp4cEVEN3BTZVA2dkxSdDRJaTc1aV93NXFVTUNYLS1JcjY3cGZTSEozc1F2cDFWNzlWS3c4TzM0RnNDcEtRQ2tSSVRjOWh0R3A1NDMtZThZQ3hfZkE1N1h1TzlOS0tPOHJ6MkpFUdIBywJBVV95cUxQYmhwc0lCTFdJRzl6dnVlcDBzTlBXSnFKbE9sM0ZSSFQ3R18zbTFlb0ExYmJZajlWY1paS25CLVQ4dXdnZlk2V0x2dW1IZEk3U0RsMmJPeGhsbFFkN1lDOXNZNTJkWjR4UTM4cHNPNUpDUHViV1JxRWM5UkotMW1LM01hVkZzYzNEcUxIdXdNSG5rZWd4LWpRNlFUWFZBeGFLTFNDUXNKOFlkUGRIcUxFaDFSNWIzU194TG5FWjdrZnY2YWFoSjJLRlBic2xodHQ0Yms5aDI3SmxYeV9UbFgyODdUMlNaTTRjTlItaV83cHdtRmFseEVqMTdCVWQ0S1ZXdS1VZm9leDhkdFBKdy1XSG9TUnRteDdJV1RDeG40Z2lkNTRRcjdoVWZSWjRqYy1pMTNiUmdudFVadU95YlU2U1lrVS0welhSYTBr?oc=5)
 
 2026-05-08 <span class="news-indication-tag">tumor</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3dITUNpMjR4aVpqNF9fNDhqTmFYVnJpaUx6YlFPMFB6bUd4WWdldk5RUGNUU0pRY2JaZVBBNDJCMEY3MktxOW82bThTanJpbHUwWGcwTVY4MG1LaFVpS1Z1aGxGT20zY3lMMkFIZ05YZXpxQktmRVM4T2JaVnVVdDY3aDNPYXlYSENfSmw2ZzdzM0h5aXh2cVE2bUtDU0ViOTFhQzdwSWozMENWOFllZ04xdlBsZ0FDVnJRb0M3OXZOZXNmNjc3V2E0bTZVbkNOWDFnWWFPYkVBS0UybHc?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMixgJBVV95cUxPMGZwX1ZDem84ZENWTDBhNUR1U3pZREVMWk56d0M2RG52V19OdGRhcG1xZU5DODlzVFlMZTd5MmVCZ1VRUjVjWkNYX0xzUEM4UG15eGd0ZF9tTk5sOTl2RHBVWGE4RzhIUGg4QnJPcEJoNmc1NVBIRS1kUDZreUctZ3VaUjVORGRham9tWnpZdGVsN09MX2g0STVsNkZYVzI4dG12RmZaSXdlWU12ZV9VZ1VaRlpzNUZYTFZJdUt4NHdWTDdhaG1xODhFamNtRlItaTgyZzZQTTRZYnlPZmNJVHp4cEVEN3BTZVA2dkxSdDRJaTc1aV93NXFVTUNYLS1JcjY3cGZTSEozc1F2cDFWNzlWS3c4TzM0RnNDcEtRQ2tSSVRjOWh0R3A1NDMtZThZQ3hfZkE1N1h1TzlOS0tPOHJ6MkpFUdIBywJBVV95cUxQYmhwc0lCTFdJRzl6dnVlcDBzTlBXSnFKbE9sM0ZSSFQ3R18zbTFlb0ExYmJZajlWY1paS25CLVQ4dXdnZlk2V0x2dW1IZEk3U0RsMmJPeGhsbFFkN1lDOXNZNTJkWjR4UTM4cHNPNUpDUHViV1JxRWM5UkotMW1LM01hVkZzYzNEcUxIdXdNSG5rZWd4LWpRNlFUWFZBeGFLTFNDUXNKOFlkUGRIcUxFaDFSNWIzU194TG5FWjdrZnY2YWFoSjJLRlBic2xodHQ0Yms5aDI3SmxYeV9UbFgyODdUMlNaTTRjTlItaV83cHdtRmFseEVqMTdCVWQ0S1ZXdS1VZm9leDhkdFBKdy1XSG9TUnRteDdJV1RDeG40Z2lkNTRRcjdoVWZSWjRqYy1pMTNiUmdudFVadU95YlU2U1lrVS0welhSYTBr?oc=5)
 
 ---
 
@@ -158,43 +134,19 @@ permalink: /news/zanubrutinib/
 
 ---
 
-### [Three Tyneside mothers diagnosed with terminal ovarian cancer after putting symptoms down to the menopause - Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
+### [Neue Ansätze in der Alzheimer-Forschung: Entzündungen im Fokus](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkNUZ0FQN3JIMTRseHFNODBLdDRBWnZNY29JS2ZCdXRSRjJWMzNaTGgyVlFTcllsMFZiUm1WaUhSaEdpZTlfemlmSENlOW1hcl9mbUo5NENrbzFCUjJyd1J0VVFPSUgzMk1XZmY2cm9Ha0F2eUdYbnpQOC1fQi0tOXVqTk1YeVBQY2wzMkdYYzFlQmEtYmU3ems5WQ?oc=5)
 
-2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-08 <span class="news-indication-tag">Krebs</span>
 
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
-
----
-
-### [Alzheimer-Forschung: Entzündungen statt Protein-Klumpen im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pEb3ZmZnQwaC1YZ05MSjc5UlM4a203RWNLYkJOT0xTRGE1eFR1YTU2bFp1SFZYQ0p3SE5zakFIZHFEWkp0R2lhYnF3MzRqQ2FIbXlwakZYWlMzQmU5Z2tfanVrcHZWQl9BNlF5bHlYSkRTNTk1NzJ0dVg5dVdGcEdjdW1xVGxZdFZJTFJ4a1YxcnZjZmU1LWZoZDFtMk5laEpDeGI1bUZUb3pLTVB1Z21JQQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pEb3ZmZnQwaC1YZ05MSjc5UlM4a203RWNLYkJOT0xTRGE1eFR1YTU2bFp1SFZYQ0p3SE5zakFIZHFEWkp0R2lhYnF3MzRqQ2FIbXlwakZYWlMzQmU5Z2tfanVrcHZWQl9BNlF5bHlYSkRTNTk1NzJ0dVg5dVdGcEdjdW1xVGxZdFZJTFJ4a1YxcnZjZmU1LWZoZDFtMk5laEpDeGI1bUZUb3pLTVB1Z21JQQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkNUZ0FQN3JIMTRseHFNODBLdDRBWnZNY29JS2ZCdXRSRjJWMzNaTGgyVlFTcllsMFZiUm1WaUhSaEdpZTlfemlmSENlOW1hcl9mbUo5NENrbzFCUjJyd1J0VVFPSUgzMk1XZmY2cm9Ha0F2eUdYbnpQOC1fQi0tOXVqTk1YeVBQY2wzMkdYYzFlQmEtYmU3ems5WQ?oc=5)
 
 ---
 
-### [Première mondiale : stérile, il recommence à produire du sperme](https://news.google.com/rss/articles/CBMib0FVX3lxTE9GRlhFREJMbUI1YW5TTlZXaDZqOFBaeW9MVnRfUVYwM3BaMkVZdjMwSXVZNVNSUk9zbFlMaHIwY1NzbFdkTHpDcTJKV3Y0T1ZWUTMydGZFOC04RnZGbGw0a1JWODVZUjNxNVBmWlNlTQ?oc=5)
+### [New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test - Live Science](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTltSHQ0b2dTMy00QlFnNlUzbDRGa01wWktDS1VsMUFxUTVOSDZiVHJWS2pfVTZzenpRUHJqU0JheUxfb3J1N2xMaE9DWnBkZmFvd21lQ2JLempKXy05V3FTcXh1V3g0NGZQbnpLMFpBQ0tzejlNeXJaUkVqNTJrWXdmTEEta3FIVThrMUJrNmV5WHRoWUJDYWMtQkpTZm9vNjN3N2lSY1hFT3BkalVEYVBPQ3ZZTUNrMDBRc1U2bEloMVNrQUE?oc=5)
 
 2026-05-07 <span class="news-indication-tag">cancer</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMib0FVX3lxTE9GRlhFREJMbUI1YW5TTlZXaDZqOFBaeW9MVnRfUVYwM3BaMkVZdjMwSXVZNVNSUk9zbFlMaHIwY1NzbFdkTHpDcTJKV3Y0T1ZWUTMydGZFOC04RnZGbGw0a1JWODVZUjNxNVBmWlNlTQ?oc=5)
-
----
-
-### [Tumore al fegato, ambulatori integrati allungano la sopravvivenza e migliorano le cure](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNElHX0UtNjRVc3NhazJoS1pXenZhX0tuVjBjMGpNM0dHS2hCVV9YNU43MFhJWDh6MnZZNUdET2JCTW5KYzk3a0FYdmVKVC1yRThBSzZXSEFUNlJlLThuejVaYlUySzVIR090a010NmNQYldJZE5KTnpWX1poYnIwRXV3U3g5UHRCek5EYVRtOEg4bnNvZVpQaXhZQVZiSzdkOUZid3JJc0dwa21BbzdxcUZkNUVDSDBsRXh4eHVoUW90el9DN3BQSDRPUmNQYWVZdlExVVRGZVlUTDdMdW1V0gHkAUFVX3lxTE1uT185NHVSbGZmY1BXS1ExN19vZVJmaGg0bGpHaXBhdmdJdXhiUlhxajgxVG5YRnh0RFBiV2w5c1BxVnNGSzVNWFFjbHVlUzNabHk3YlNIT2lQbi1IVTNBaWs4T2tCaUJXb1dwR1Y1UHVPY2tVd01QSzJKd0RfV0xGRU9oQ0poWkdGTnVBQV80YWpuR1FkZDl5Vk1EY01hWXZXcm43b1NxdjE1SEZNcHFLWWV5VmNfQkFObGVxUE56U3Nnd01maFZRQW5TQnprd3g4b211TnV2WS1UOFFoRWl1RzhlWQ?oc=5)
-
-2026-05-07 <span class="news-indication-tag">tumor</span>
-
-來源：[L'Arena](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNElHX0UtNjRVc3NhazJoS1pXenZhX0tuVjBjMGpNM0dHS2hCVV9YNU43MFhJWDh6MnZZNUdET2JCTW5KYzk3a0FYdmVKVC1yRThBSzZXSEFUNlJlLThuejVaYlUySzVIR090a010NmNQYldJZE5KTnpWX1poYnIwRXV3U3g5UHRCek5EYVRtOEg4bnNvZVpQaXhZQVZiSzdkOUZid3JJc0dwa21BbzdxcUZkNUVDSDBsRXh4eHVoUW90el9DN3BQSDRPUmNQYWVZdlExVVRGZVlUTDdMdW1V0gHkAUFVX3lxTE1uT185NHVSbGZmY1BXS1ExN19vZVJmaGg0bGpHaXBhdmdJdXhiUlhxajgxVG5YRnh0RFBiV2w5c1BxVnNGSzVNWFFjbHVlUzNabHk3YlNIT2lQbi1IVTNBaWs4T2tCaUJXb1dwR1Y1UHVPY2tVd01QSzJKd0RfV0xGRU9oQ0poWkdGTnVBQV80YWpuR1FkZDl5Vk1EY01hWXZXcm43b1NxdjE1SEZNcHFLWWV5VmNfQkFObGVxUE56U3Nnd01maFZRQW5TQnprd3g4b211TnV2WS1UOFFoRWl1RzhlWQ?oc=5)
-
----
-
-### [Cancer du sein : ces traitements exposent les femmes à un risque cardiovasculaire](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUpVM001bjNQVDBvNHJaWk9SSkZoQVRMRmpFODlmeVYycE93azVlQlFfNlQ3RUE2WHRIdE9WazNaOWhHX3JqaVVqR3VFODdFblRzMHFfV3k1bUNRMUJXMWRHQ0tpcko3VC1yV1FIZGxoNWJ6cXdYUDh5a21FYjhiWnUzUFN3VUk?oc=5)
+來源：[Live Science](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTltSHQ0b2dTMy00QlFnNlUzbDRGa01wWktDS1VsMUFxUTVOSDZiVHJWS2pfVTZzenpRUHJqU0JheUxfb3J1N2xMaE9DWnBkZmFvd21lQ2JLempKXy05V3FTcXh1V3g0NGZQbnpLMFpBQ0tzejlNeXJaUkVqNTJrWXdmTEEta3FIVThrMUJrNmV5WHRoWUJDYWMtQkpTZm9vNjN3N2lSY1hFT3BkalVEYVBPQ3ZZTUNrMDBRc1U2bEloMVNrQUE?oc=5)
 
 ---
 

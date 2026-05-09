@@ -54,11 +54,27 @@ permalink: /news/velpatasvir/
 
 ## 相關新聞（10 則）
 
-### [¿Por qué el hantavirus no representa un peligro para los ratones? - National Geographic España](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE50QXM4WjNLbEo4U2FkOUhtZmlnWHNIUkw0c3BIZkFKSnRHWlJHMmFrOHFTZ08xVXRVRm5MNkd5ek1QY1BmUUo4QW5WOFJSalFKUWItQ1E1QUNxbENUQXc0bVNMWkJlZmtMNFVjaGwwbmhKQ0c1eFBIeVBZeDJDbnBwZnlzMWRLUUxGQU1qck9SUndpaHJjSmxPQTZ1TlgzRlNkSVoyTG5jR25nRjkw?oc=5)
+### [Hantavirus, ministero Salute: "In Italia attivata sorveglianza su 4 passeggeri volo Klm" - Sky TG24](https://news.google.com/rss/articles/CBMidkFVX3lxTE9xaTdpbnZSX045SVJvcDA5LS1XLTRQWnFYbkJoSU5tdXd0MkJpV3VZM3FldHgxUVZPTWV6RkZkOWlyMmkwRGRhMlB0N2FKSzA1Wm45OGswXzExZ25xcmRVQXdteUtfWlkzY1hySkRaNG9DUWVJZEE?oc=5)
 
-2026-05-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-09 <span class="news-indication-tag">MS</span>
 
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE50QXM4WjNLbEo4U2FkOUhtZmlnWHNIUkw0c3BIZkFKSnRHWlJHMmFrOHFTZ08xVXRVRm5MNkd5ek1QY1BmUUo4QW5WOFJSalFKUWItQ1E1QUNxbENUQXc0bVNMWkJlZmtMNFVjaGwwbmhKQ0c1eFBIeVBZeDJDbnBwZnlzMWRLUUxGQU1qck9SUndpaHJjSmxPQTZ1TlgzRlNkSVoyTG5jR25nRjkw?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMidkFVX3lxTE9xaTdpbnZSX045SVJvcDA5LS1XLTRQWnFYbkJoSU5tdXd0MkJpV3VZM3FldHgxUVZPTWV6RkZkOWlyMmkwRGRhMlB0N2FKSzA1Wm45OGswXzExZ25xcmRVQXdteUtfWlkzY1hySkRaNG9DUWVJZEE?oc=5)
+
+---
+
+### [One Rare Condition Seems to Protect The Brain From Schizophrenia](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSklPMlRRSXU0VWhRcUwwekh5NXNLeUwyTDJMRUtBTTB1dXMydERoSUt3cVdLeGhlRDdlOHRZVFFzellLMGtsYi1NNFp1a01VSUNQWHMxZEhsX1c0bnhBMDFQN0MzcWx0REN4eFlndXN4TTJ0elFhNEMzeG51dDlwQkV4cUZKM3VWM1dWbk1BdWRsNU83aTVfcA?oc=5)
+
+2026-05-09 <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSklPMlRRSXU0VWhRcUwwekh5NXNLeUwyTDJMRUtBTTB1dXMydERoSUt3cVdLeGhlRDdlOHRZVFFzellLMGtsYi1NNFp1a01VSUNQWHMxZEhsX1c0bnhBMDFQN0MzcWx0REN4eFlndXN4TTJ0elFhNEMzeG51dDlwQkV4cUZKM3VWM1dWbk1BdWRsNU83aTVfcA?oc=5)
+
+---
+
+### [Doctors Are Surprised by What This Vaccine Is Doing to the Heart](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
+
+2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
 ---
 
@@ -86,14 +102,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Thousands of NHS nurses ‘exposed to toxic chemicals’ after probe into miscarriages - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPamdSOXdPbURfUmFHeWFKeG5vOW5uM3ZoTDdsbERNUjkzMy03X3RDRkxZYklzU2M0VUs2aXlkR3NfQWozTkRuMGNTOWRZeno5RTdPanVLaVZnQXJzemUySG94MVExNlg2MHByam1RVHVDWWhGSVdsVl9LT2thOG5fU01QcXdsRURWXzFhZk14V2hBTDB2c0N4T0lHaw?oc=5)
-
-2026-05-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxPamdSOXdPbURfUmFHeWFKeG5vOW5uM3ZoTDdsbERNUjkzMy03X3RDRkxZYklzU2M0VUs2aXlkR3NfQWozTkRuMGNTOWRZeno5RTdPanVLaVZnQXJzemUySG94MVExNlg2MHByam1RVHVDWWhGSVdsVl9LT2thOG5fU01QcXdsRURWXzFhZk14V2hBTDB2c0N4T0lHaw?oc=5)
-
----
-
 ### [Bundesweite Studie sucht nach den wirksamsten Hygienemaßnahmen - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZIRVh1WTJjRGs3cjdocTg0THV6bUdTUlpIbUpGTnZoU0pETC1Fdk5EMVFSeFF3VEtiaklFLTEtSThhYkFHRkhPczJIMnI2eHNHTWVlTEhPN2VGdVFIV25PVGhiNGxLRFNtZHpUWG9aLWFueXVBVkc3LURrNURiT0wzWjJoaXRBMnBSMzdPTGx4UkNtM3RHSXl3Vkh2U21VQ3MyTkhlOHFlR1k2Wkln?oc=5)
 
 2026-05-08 <span class="news-indication-tag">MS</span>
@@ -118,19 +126,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [If you quit drinking coffee for two weeks, this is what happens to your body](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmNjeGxEZThDaUZMdDBYSVRJTDd5amZCX3l6d3hWeVBXWlhKdU9JVl9NVDVsTTgyTnFuWFNFYTRKcmVHZFQ1c20xZktEX1hpeWt4Tzd4OWt3QU9DblUyX0dYOURTR2VLdmxfSnM4XzlxMEwwa3F0dVVUeWZHbWlabVhPQWlYMjB1NDhNVGhnd0RQUG9qeWIxeXliX0dRaTZTVFVBdkF0YU53Zw?oc=5)
+### [Fact Check: Document Does NOT Show Hantavirus As A COVID-19 Vaccine Side Effect -- It Lists Health Conditions To Report IF They Happen](https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1NhTFl3UjJPYmFRalJucHZiZldIWnhyNWotREFENnR1VzBpc3NOMm5TbFNqQ3NiUFdHN0tWZkZKVlowbC1HWk9kWDRiSjY3andkaEU4bmNPV2E0cHQzUkMtd3EzRndCaUU5RTZ1WjZ5Y21BOXVMbFhOeFZPOTZmc1FzT20xdw?oc=5)
 
-2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-08 <span class="news-indication-tag">MS</span>
 
-來源：[Earth.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmNjeGxEZThDaUZMdDBYSVRJTDd5amZCX3l6d3hWeVBXWlhKdU9JVl9NVDVsTTgyTnFuWFNFYTRKcmVHZFQ1c20xZktEX1hpeWt4Tzd4OWt3QU9DblUyX0dYOURTR2VLdmxfSnM4XzlxMEwwa3F0dVVUeWZHbWlabVhPQWlYMjB1NDhNVGhnd0RQUG9qeWIxeXliX0dRaTZTVFVBdkF0YU53Zw?oc=5)
-
----
-
-### [Three Tyneside mothers diagnosed with terminal ovarian cancer after putting symptoms down to the menopause - Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVtQW5VUWx2SlRuVUd3SmFqakdfYndWU1ZDMWxoWUtQYUxMRWQyQV9tcEt2RjNvbkFOejRDaENDRkUwY3o0NGN0WUx6WU5pUlVtYU1PMVp1Y2ZTRmk4WVl3TVhDellvOUs4RERubEU3TWZKYXlFWXZUMGVkb0pWTC0tN2ZGcWRkeWd6anhxYThVRW5qZUdNaXFHNVBMZXRXd0lvR1dR?oc=5)
+來源：[Yahoo](https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1NhTFl3UjJPYmFRalJucHZiZldIWnhyNWotREFENnR1VzBpc3NOMm5TbFNqQ3NiUFdHN0tWZkZKVlowbC1HWk9kWDRiSjY3andkaEU4bmNPV2E0cHQzUkMtd3EzRndCaUU5RTZ1WjZ5Y21BOXVMbFhOeFZPOTZmc1FzT20xdw?oc=5)
 
 ---
 

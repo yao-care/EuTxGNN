@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Diagnose per Bluttest? Wie die DNA-Alterung Depressionen entlarvt - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxONWVxa1pHWjd4XzZ2ZEwtdDA2Zmc4RUlyelpzNG9KN2h6MVlMbFg0bHFiZFVPTHJxbHRSZnNEcldXbEVZN2tTaWE5SEdqbFpuS1N1UmRUUXNVSVdWdk4xT1hhM1FNdVVvNEpsQzgyTjhCanJyYV9wZ2dEaGEwSDVOU3FMYVBEZ0tMc2c4emgwbnJGYmlhZ0ZLa3BjeTNPZmxmOGJwc3FMRlg2Y1VxMlotdmZPSUFNVHRLTlJtVjBpUjZRRHF3VGlF?oc=5)
+
+2026-05-09 <span class="news-indication-tag">depression</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxONWVxa1pHWjd4XzZ2ZEwtdDA2Zmc4RUlyelpzNG9KN2h6MVlMbFg0bHFiZFVPTHJxbHRSZnNEcldXbEVZN2tTaWE5SEdqbFpuS1N1UmRUUXNVSVdWdk4xT1hhM1FNdVVvNEpsQzgyTjhCanJyYV9wZ2dEaGEwSDVOU3FMYVBEZ0tMc2c4emgwbnJGYmlhZ0ZLa3BjeTNPZmxmOGJwc3FMRlg2Y1VxMlotdmZPSUFNVHRLTlJtVjBpUjZRRHF3VGlF?oc=5)
+
+---
+
+### [L'examen qui change tout : ce nouveau test sanguin va détecter votre détresse avant même que vous n'en parliez](https://news.google.com/rss/articles/CBMiygFBVV95cUxQajJhUUFNYk1jODBkX0FsYTAzZmloN01nNExxZlJCY2c0eHk0WTM1NGszcnhZUXpTWlNCTHl1LUZBNEJZTGw1aC1oWEdJNGl1akplZXZwM0dqcVNrZTN6aHJZWnRLNGthSlVmMms2UUl3WGZHQllmcGt4aEVOeklNMkcwcjlkWmpLMDhtOUc5cy1EWG1EQ2oxVE5OeTBTZHFMd0RFOWZRc3llZlVYdTROU0R1MVNRdlJzQXljNk83dmt4ZnFMM3VZYkRR?oc=5)
+
+2026-05-09 <span class="news-indication-tag">dépression</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiygFBVV95cUxQajJhUUFNYk1jODBkX0FsYTAzZmloN01nNExxZlJCY2c0eHk0WTM1NGszcnhZUXpTWlNCTHl1LUZBNEJZTGw1aC1oWEdJNGl1akplZXZwM0dqcVNrZTN6aHJZWnRLNGthSlVmMms2UUl3WGZHQllmcGt4aEVOeklNMkcwcjlkWmpLMDhtOUc5cy1EWG1EQ2oxVE5OeTBTZHFMd0RFOWZRc3llZlVYdTROU0R1MVNRdlJzQXljNk83dmt4ZnFMM3VZYkRR?oc=5)
+
+---
 
 
 <div class="disclaimer">

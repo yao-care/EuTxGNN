@@ -3,7 +3,7 @@ layout: default
 title: "ipertensione（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "ipertensione（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<strong>ipertensione（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Legumi e soia associati a una netta riduzione del rischio di ipertensione, secondo uno studio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
 
 2026-05-08
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
-
----
-
-### [Bluthochdruck: Neue Leitlinien setzen auf sanfte Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
-
-2026-05-07
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdTYV9RcmRCZktmckhqZFBqSkRpMERMaTZnY04zVWlKOThpVnZjdlk4X3dCM3NqWWJGUE9PeVZ2ZF9BTFZHV2FjTXlHbDA1d1A3WXBiOVEtZ0k5OFQ0Y1BZSzd6YU9HV3RpS29VRW5oc2FPTlVJSGlObFprcFJoZlFTZ0FFTmtmbEx0LVktNS16b0lPRHEtQ3hhRWtrUGZ4ZzZINmhKcklOZTA?oc=5)
 
 ---
 
