@@ -14,7 +14,7 @@ permalink: /news/ceftolozane/
 ---
 
 <p class="key-answer" data-question="Ceftolozane 有什麼相關新聞？">
-<strong>Ceftolozane</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ceftolozane</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ceftolozane/
 <p><a href="{{ '/drugs/ceftolozane/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La OMC llama a la calma y a la confianza ante el brote de hantavirus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+
+2026-05-08 <span class="news-indication-tag">asma</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

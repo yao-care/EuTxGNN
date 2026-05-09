@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/budesonide/
 <li>polyp of ureter（99.7%）</li>
 <li>neoplastic polyp（99.7%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.6%）</li>
-<li>asthma（99.5%）</li>
+<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asma</span></li>
 <li>Crohn's colitis（99.3%）</li>
 <li>inflammatory bowel disease（99.2%）</li>
 <li>anus disease（99.0%）</li>
@@ -52,9 +52,23 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Des résidus dans les muscles et le foie… Comment la cocaïne fait perdre le Nord aux saumons et aux requins - Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
+
+2026-05-08 <span class="news-indication-tag">EPOC</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
+
+---
+
+### [La OMC llama a la calma y a la confianza ante el brote de hantavirus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+
+2026-05-08 <span class="news-indication-tag">asma</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

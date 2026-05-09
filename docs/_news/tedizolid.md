@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="Tedizolid 有什麼相關新聞？">
-<strong>Tedizolid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tedizolid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tedizolid/
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Des résidus dans les muscles et le foie… Comment la cocaïne fait perdre le Nord aux saumons et aux requins - Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
+
+2026-05-08 <span class="news-indication-tag">EPOC</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
+
+---
 
 
 <div class="disclaimer">

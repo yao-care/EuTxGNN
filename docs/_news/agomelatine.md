@@ -54,11 +54,11 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（1 則）
 
-### [Alzheimer beginnt früher als gedacht: Welche Rolle Vitamin D spielt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3liX1F3NUNseG9ySnZGRGxrM25QV19HMDZlTHBIZFpPUVNEMWlrcjctZk9xSFB3ZllnR05JbENSd1pDekZzdlFTeGVvVkFCWEVuVUhzSWtVaVEyWWRRV0h2enNTTHR5RU8xNDVxSHN4UkY0NExTQzZ6RHRsdW96OTYzY096RWZNZ1JZWDl0empoS3dfSnhCLWRfU1pqaVU3SkdRNkZrSTdUSTV5bTRNR1k2UjZBMmVoTms0U0dWa0E3M1F1MUhXN190cGQ0Nk90?oc=5)
+### [Hirngesundheit: Neue Forschung zeigt, wie wir unser Gehirn schützen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk5HTElDRXJYandoZTVLOFFRckxZSFh0S0c4R2d6S0tMaHh3eW0tU2lCc2VlSUFzVmRROXlWeFRQcDF2YzBGaHBWY3lGM2d5aDhlX0taUzRWaGpPZWVmVTEzUncxaFk1NEpfZkF6djFiOTVIN0hEcEZpb2g5R3BweTRMX2ZNTFhSV2VKeGQ2NVJFN3o5OVl5aEE2NEN3Z3c4SDRDaTRFWWcwWlNLajJiRzhnSlUtdw?oc=5)
 
 2026-05-08 <span class="news-indication-tag">depression</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3liX1F3NUNseG9ySnZGRGxrM25QV19HMDZlTHBIZFpPUVNEMWlrcjctZk9xSFB3ZllnR05JbENSd1pDekZzdlFTeGVvVkFCWEVuVUhzSWtVaVEyWWRRV0h2enNTTHR5RU8xNDVxSHN4UkY0NExTQzZ6RHRsdW96OTYzY096RWZNZ1JZWDl0empoS3dfSnhCLWRfU1pqaVU3SkdRNkZrSTdUSTV5bTRNR1k2UjZBMmVoTms0U0dWa0E3M1F1MUhXN190cGQ0Nk90?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk5HTElDRXJYandoZTVLOFFRckxZSFh0S0c4R2d6S0tMaHh3eW0tU2lCc2VlSUFzVmRROXlWeFRQcDF2YzBGaHBWY3lGM2d5aDhlX0taUzRWaGpPZWVmVTEzUncxaFk1NEpfZkF6djFiOTVIN0hEcEZpb2g5R3BweTRMX2ZNTFhSV2VKeGQ2NVJFN3o5OVl5aEE2NEN3Z3c4SDRDaTRFWWcwWlNLajJiRzhnSlUtdw?oc=5)
 
 ---
 

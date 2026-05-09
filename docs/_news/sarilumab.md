@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
 ### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
 
 2026-05-08 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
+
+---
+
+### [Des résidus dans les muscles et le foie… Comment la cocaïne fait perdre le Nord aux saumons et aux requins - Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
+
+2026-05-08 <span class="news-indication-tag">EPOC</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
+
+---
+
+### [La OMC llama a la calma y a la confianza ante el brote de hantavirus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
+
+2026-05-08 <span class="news-indication-tag">asma</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDNzSTRvT1d3aEhlNWEyckc1NTdibU1INlZRX1gyaFBvUDV3NWVWa0VCdUtDeDV2c21uNE5wekFaRzRfWXRoeFNpUWw1WjJVNW1vSHZRSkVRNktrS3RXYzBpYzJBSFFUaUFsYXQ3X3VOc3BYU1A3bjNfZUlsLWR6SDlFTnh2RVYtalhjZlZYSG4wNXl4M2J4WV9IUGJMV1Zrd2lnTtIBqgFBVV95cUxOakJkbW1DLS1sQXN1cmloWUdwMTRjTDE2RnIzVnh4NmVtcWFwaWNlS3FGcTR3TzZLMU1HZVdHdmJFY2J0bUI1ZjhobExaX1NJQ05kM0prdm12ekl6YnNBRU5rd2wzemwtVF9IdUxwbVdIbVRuYmJPX0JEcmFpbE42bFZxVDVHcllSVTF3TjZCYnBjVkxVUmk4UGYyR1A2SkVZMXFObVpiT1hRUQ?oc=5)
 
 ---
 
