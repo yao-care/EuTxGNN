@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,23 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Experts reveal the exact number of steps per day you need to boost health - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
+
+2026-05-10
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
+
+---
+
+### [Neue Evidenz zu Finerenon bei Typ-1-Diabetes und CKD - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
+
+2026-05-10
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
+
+---
 
 ### [Glukagon und Fettleber bei Typ-2-Diabetes](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JVcF9Fb1NLV3UwbnNyTE96X1VVcUFsY3M4SEl1V2tRcWgxOUxzU0JDeG92cU1Oc2lSV0x0ZmhyZnExQmJzVEd3aDVQRk9mRzRVc3JBbVozVWJvNVJMMGRZcHRQbVQyckVGRWFBTkp1RjFzUjZzcTcwSVdIbW82dHRIQlpzQklPdjZCWXZGeDFEWjUxZ25LRGVodFFVQ2h5dzM5a015MmliOG8zdjd6WVBGcTlZYWdaZGhWV1JNc1hHbTFV?oc=5)
 
@@ -124,11 +140,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Nuove pillole per dimagrire, studio svela cosa succede nel cervello ﻿](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnlCSGlzSVNpU2JoUnJCNWUwV3M0Y01TY0tiUlJyWm9jaWhJcW1VUjVpV2gydktad1kwTjlURGdxUFlfVDU4V3MtTWt3NGQzQkJlSEFaRlc0aTNReWEyZGxKb09scnV2dENLbmg5Wkl4WE03ZVRMdUduczhiSHdzQ2t4N1drVDE3UUNJSWZXNkI5a04wS1h6eHlSOUNBNDNiVzRLMTgyTG5fMVJJT0Jncg?oc=5)
+### [Ernährung als Medizin: Vier Diäten reduzieren drastisch das Diabetes-Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXQ4N3Y2bEsyNjZHQzhXN0JiZW9sYUFJdF9jMk9IWHZDNjktbm9GV0F4OEhtcWlLYlRuYWpGZURDWVdxWC1IOUVReVU4T09WLUtsTG1PMXRpVkFVTXJQdlRUbWFaaWNOb3gzZHM2TXR2QzRfS19lMkNCc0lzcF8xWGFRV1JLWmIzZWRFTkdrRGgzWE10MlF3QTlER3o2ZGtGNWtSN0dldXIzU3Fs?oc=5)
 
-2026-05-08
+2026-05-09
 
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnlCSGlzSVNpU2JoUnJCNWUwV3M0Y01TY0tiUlJyWm9jaWhJcW1VUjVpV2gydktad1kwTjlURGdxUFlfVDU4V3MtTWt3NGQzQkJlSEFaRlc0aTNReWEyZGxKb09scnV2dENLbmg5Wkl4WE03ZVRMdUduczhiSHdzQ2t4N1drVDE3UUNJSWZXNkI5a04wS1h6eHlSOUNBNDNiVzRLMTgyTG5fMVJJT0Jncg?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXQ4N3Y2bEsyNjZHQzhXN0JiZW9sYUFJdF9jMk9IWHZDNjktbm9GV0F4OEhtcWlLYlRuYWpGZURDWVdxWC1IOUVReVU4T09WLUtsTG1PMXRpVkFVTXJQdlRUbWFaaWNOb3gzZHM2TXR2QzRfS19lMkNCc0lzcF8xWGFRV1JLWmIzZWRFTkdrRGgzWE10MlF3QTlER3o2ZGtGNWtSN0dldXIzU3Fs?oc=5)
 
 ---
 

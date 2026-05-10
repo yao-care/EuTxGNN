@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（9 則）
 
-### [Pharmacies issue urgent 'aspirin and antibiotics warning' - Labour told to tackle crisis - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb01RMzBleE91RTMzUUx0TVhXdG1vZTJwQnJESHBuT3F0VWx3Ul9OSnFDei04N29tc0dEV2MxWThyMS1qcnBtY1NBckhTcUs1YmszdmplOFowbmkyUlY4THVrV2tqYlNRNFNJQjFsZnFiNzlzM3hzNm1zQkwwOW1FSGpJeURPbUtLMTRrSldpYk7SAZYBQVVfeXFMTU03b2JIMGkzZjduejFybTF3Q056bjV5dHpsejlyZ2RpTFFLSWpQOFllNmRpQTh5RmxPVm5oc2UtR3c2S3NvUXc0a01QcG5pUVdMRGhfRE1CamNkMUxtNGRGdmp1UkloOXVDRGpyVXlNY0Zod19PeHNpVk9Tc3FveWR6ajRvWlRDQXZwcml6UXpnVFRwOFBB?oc=5)
+### [Met emails Boheme visitors about measles - Slipped Disc](https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT3JTSGxUYUl6QXczSFcycUdwYVJDYUlqYTRIRnEzSlFGZnpYMTcxNlF6bzdzaHgzVHdXZHZqQXNUSWxiTVpiQmRrV09HSmlWZ2x1OFpUeXpJTVYtOEFETVk1SzNzYzhGOFlCWEFTN0ZvVGJ1QzR5VFFfcTc?oc=5)
 
 2026-05-09 <span class="news-indication-tag">MS</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb01RMzBleE91RTMzUUx0TVhXdG1vZTJwQnJESHBuT3F0VWx3Ul9OSnFDei04N29tc0dEV2MxWThyMS1qcnBtY1NBckhTcUs1YmszdmplOFowbmkyUlY4THVrV2tqYlNRNFNJQjFsZnFiNzlzM3hzNm1zQkwwOW1FSGpJeURPbUtLMTRrSldpYk7SAZYBQVVfeXFMTU03b2JIMGkzZjduejFybTF3Q056bjV5dHpsejlyZ2RpTFFLSWpQOFllNmRpQTh5RmxPVm5oc2UtR3c2S3NvUXc0a01QcG5pUVdMRGhfRE1CamNkMUxtNGRGdmp1UkloOXVDRGpyVXlNY0Zod19PeHNpVk9Tc3FveWR6ajRvWlRDQXZwcml6UXpnVFRwOFBB?oc=5)
+來源：[Slipped Disc](https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT3JTSGxUYUl6QXczSFcycUdwYVJDYUlqYTRIRnEzSlFGZnpYMTcxNlF6bzdzaHgzVHdXZHZqQXNUSWxiTVpiQmRrV09HSmlWZ2x1OFpUeXpJTVYtOEFETVk1SzNzYzhGOFlCWEFTN0ZvVGJ1QzR5VFFfcTc?oc=5)
+
+---
+
+### [Tiny eye injection may restore vision to damaged retinas](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGlPTjF3MVI3eHF0TFdhM0FmMHhnQmVBUFBlV3hNUmJnSGZucnM1SUdURTFFSXozM1ppdW9MTXl6TjM1U2tTMHNadENhOEVyTjNZUWJHcm1nUmZaUzNWWmNnNE5lUWtiX2xXUlQ0bzZ5NnFIelNNZkFVcnBvQ3RQRi0zNnBuOU1PRnpoUg?oc=5)
+
+2026-05-09 <span class="news-indication-tag">MS</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGlPTjF3MVI3eHF0TFdhM0FmMHhnQmVBUFBlV3hNUmJnSGZucnM1SUdURTFFSXozM1ppdW9MTXl6TjM1U2tTMHNadENhOEVyTjNZUWJHcm1nUmZaUzNWWmNnNE5lUWtiX2xXUlQ0bzZ5NnFIelNNZkFVcnBvQ3RQRi0zNnBuOU1PRnpoUg?oc=5)
+
+---
+
+### [From latte to seeds, top products to keep your gut health in tip-top shape - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE1rQkZlajVMRFFkNk5oSi1zcFRzSGRXVTN5ZVJraTNBeERnVnNsc2hFbTU1aERxSl92dTBsMExzeGF3S0dmdkdZZzR6S1pXRFhtcTgyQUhWUm1TRmpZdEZRdTVVZXhyZ1FZdFh3REhrZngtcmFUVEZ3bQ?oc=5)
+
+2026-05-09 <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE1rQkZlajVMRFFkNk5oSi1zcFRzSGRXVTN5ZVJraTNBeERnVnNsc2hFbTU1aERxSl92dTBsMExzeGF3S0dmdkdZZzR6S1pXRFhtcTgyQUhWUm1TRmpZdEZRdTVVZXhyZ1FZdFh3REhrZngtcmFUVEZ3bQ?oc=5)
+
+---
+
+### [Más del 60% de las mujeres con esclerosis múltiple se plantea la maternidad tras el diagnóstico - Somos Pacientes](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakczTG1RRTRxUGdWQ2JNNlpneTJGWFFrTFVkUFpSV0RrSURCV21LTFlLTndHa25tN0VXWTVGb1M1cmJHbC1tRlpFWVJLVjhLTTE1bEs4TmNmOE9leFpFUXp2alZMOTRSR3BWQ3FQb1M1Ny1WcUlFdWs4QU5RYlE4STF6OTZyVE5DVEhDZm1GaTdqWE1TNVNZN3VGS3NSeFpLMmlmaF95N1hjcFliMjBEeXlDNkg3UUprcnRsa3RXSm9ORlJoNnFIekdBQ0doQ1g1QTduVW5KdHZ4cHQ1ZUh2STNFVnhVdi05?oc=5)
+
+2026-05-09 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakczTG1RRTRxUGdWQ2JNNlpneTJGWFFrTFVkUFpSV0RrSURCV21LTFlLTndHa25tN0VXWTVGb1M1cmJHbC1tRlpFWVJLVjhLTTE1bEs4TmNmOE9leFpFUXp2alZMOTRSR3BWQ3FQb1M1Ny1WcUlFdWs4QU5RYlE4STF6OTZyVE5DVEhDZm1GaTdqWE1TNVNZN3VGS3NSeFpLMmlmaF95N1hjcFliMjBEeXlDNkg3UUprcnRsa3RXSm9ORlJoNnFIekdBQ0doQ1g1QTduVW5KdHZ4cHQ1ZUh2STNFVnhVdi05?oc=5)
+
+---
+
+### [Cheshire woman's heart-breaking diagnosis after 'weird and unusual' symptoms - Cheshire Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxQekdpMk03V1l6Vm1hOVJIR2NLQWd6ZlE0OW9tang1QjU2ZVUtbUR3U0M3SDBsT1Jna3hPdTBSVW5ROF9aTnhmd2NIMk5HdGg3WkRkek9MZmlQdG1PUXZCbW84SmpVQmpwcXlLWXI3QnpFZnZxYXJMSXV6eXF5R0dzVjlIQmF1X1FTTUQ5WWozSnNnWDFwekZYNktCUDAwdzYwT1FRN1Z2VGs1Tl850gGyAUFVX3lxTE5nRTJsN29SNFJCcXVUZ1Q4bmlCUEM0bWNDcGRXV1RKMGFMOUhFZ0p3YmR1bzA3bElpMUVwRGROWnJiY014TGdCWGlhUW9FYVlZeHRyOUdGdG1BbHdTbTd1UkZFTHVlT3N2ZVVjZ29ud2s1YkRweGhnUmhOeWh6YnZzbi1oSnp5ZG9ubmhJaFhIU3RPUTM3cXFDSzRYMzd5RzZfQm1zZi04OWltRm4zdkNtTWc?oc=5)
+
+2026-05-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxQekdpMk03V1l6Vm1hOVJIR2NLQWd6ZlE0OW9tang1QjU2ZVUtbUR3U0M3SDBsT1Jna3hPdTBSVW5ROF9aTnhmd2NIMk5HdGg3WkRkek9MZmlQdG1PUXZCbW84SmpVQmpwcXlLWXI3QnpFZnZxYXJMSXV6eXF5R0dzVjlIQmF1X1FTTUQ5WWozSnNnWDFwekZYNktCUDAwdzYwT1FRN1Z2VGs1Tl850gGyAUFVX3lxTE5nRTJsN29SNFJCcXVUZ1Q4bmlCUEM0bWNDcGRXV1RKMGFMOUhFZ0p3YmR1bzA3bElpMUVwRGROWnJiY014TGdCWGlhUW9FYVlZeHRyOUdGdG1BbHdTbTd1UkZFTHVlT3N2ZVVjZ29ud2s1YkRweGhnUmhOeWh6YnZzbi1oSnp5ZG9ubmhJaFhIU3RPUTM3cXFDSzRYMzd5RzZfQm1zZi04OWltRm4zdkNtTWc?oc=5)
 
 ---
 
@@ -67,6 +99,14 @@ permalink: /news/ledipasvir/
 2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
+
+---
+
+### [“Sounds Like 2026”: Disturbing 'The X-Files' Moment Resurfaces as Hantavirus Spreads in US - Bored Panda](https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVlDNUVFaWhSbTFsTWlMSlNwY3F0V1VKdHBPNllfazlzWmRBdVdibzJWQ01rZXpKTWw3b29jY3hodXIyd3dxMXVnVVdQQU5JVjl6Si1xR0JmeWJ4c2FHYzliMFl3bDM0RWY2a3ZVaGljVjJjRmM1My03ejhZdlYxbmFsd2VVMjFqeHRJSy1pWXJELUU0MUxnMA?oc=5)
+
+2026-05-08 <span class="news-indication-tag">MS</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVlDNUVFaWhSbTFsTWlMSlNwY3F0V1VKdHBPNllfazlzWmRBdVdibzJWQ01rZXpKTWw3b29jY3hodXIyd3dxMXVnVVdQQU5JVjl6Si1xR0JmeWJ4c2FHYzliMFl3bDM0RWY2a3ZVaGljVjJjRmM1My03ejhZdlYxbmFsd2VVMjFqeHRJSy1pWXJELUU0MUxnMA?oc=5)
 
 ---
 

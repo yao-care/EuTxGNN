@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "stroke 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "stroke 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# stroke 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="stroke 有什麼相關新聞？">
-<strong>stroke</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「stroke」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Investigadores en Barcelona confirman que combinar un fármaco trombolítico con la trombectomía mejora la evolución del ictus grave, un hallazgo que podría cambiar los tratamientos actuales al aumentar la recuperación de los pacientes a los 90 días](https://news.google.com/rss/articles/CBMiyANBVV95cUxOYVE4NWZpWDVteldKeTVjNktXSVcxVzd6dE1zeDZQVnJVZE1nQXJrUVh0Uk12NXhya1NvSVVaT3FNX1F2MGExd1ZlWWJzd3ZwM01NWDQ4SVZWcENVVktSaVJFM0ctWERMazFEVnBSeW5WWWdDOFFoMnpZaFRPZWxDWFFBZzhpMHFEeEF3UUQzRG9mZXZINXZHU0ZaaHRUNUs4cmM0YVdOZHVEQkpocGpzeWUyLUNZMExPdVdpMHd1UXllMFhNel9DRF90WlZMRHZZNE14SVZLWWtLbk9SMmc0LTBWVFFNT0szSzNneVFCVHhWcjRodzFTcTBzTjlGbm9aeEZ4ZTdDczBqX1p5bVNibG1HMzZWS2pZT2xDNTRuQ2ZLOGNVbjNUUFpnZS14bm90Z29NbmR0bHRTNnhzVDZDNEx2ckRUSU41cTJleXd5ZVMzbUtxQTl0R0lOTl9rX1hwdWI1Ujk5Umo4aU1tX2x0Q1lWUUhPeFp5d0FQdGFLUHYtSk83MU9LSnRyUERPclp4a3JVY1h5ckhtbmFVNmNQQ3pXamt2MTJ2OVd3MktRazJoa2ZYcXJMa3V5R3BDbENINkZEWVo0X0XSAcIDQVVfeXFMT2hDZ042WTNSYUZmTE0tZ2NjbUExRHNjekktT3hxaFBqLW9SQmpFcDZIMlRtVDdCUU9uaGw1U2NfaXlUU2dkYXZJRFJYWUQ1d1A5TzZzeEtqTEJxZ1hoYW9Fd1BaWXZrVzBsNTB4Y2JRWHBmSGtJbHFiRVRHMUd6bVJKT28zVTJJd3UxT0VpQ0VSVl9iVExiWlQ3czlMQVR4VHRleWRsV1F2MG9PQUVvcmZSbHNSXzJ3Qzh4QVBvdnZHampUVk91bWk5SVVLSm5fYjlWTEJXNnlvU3AtdmlMa3piRzF1eDNzZTRoam1HZ2podnRVU19tOGlWVWxxR3ZZcmkwZ0gxakZ5dGpSV0l3dk1jUEd2dVF5N19mNWFGV0czZE1CdlJQUTBmS0ZhOXBjekpNSThCRF9pcU5QbFM0WTRHQUFWV2U4bGFsNTdCaDczYnhDdUN1cUpJbzR0WlF0MWRvdmxoZnh0a0F1aE5sSzRXeEdJZnpiR2pXcXl4ZzFjV3JDcXRUUmVYckhTckRObS1wOGhVWHZXSnFhLWU3cmdJRFdScWZWOXFDeEpWTksxeHUxQklYYUhQYVpZLWRGM2ZB?oc=5)
+
+2026-05-10
+
+來源：[elimparcial-elimparcial-prod.web.arc-cdn.net](https://news.google.com/rss/articles/CBMiyANBVV95cUxOYVE4NWZpWDVteldKeTVjNktXSVcxVzd6dE1zeDZQVnJVZE1nQXJrUVh0Uk12NXhya1NvSVVaT3FNX1F2MGExd1ZlWWJzd3ZwM01NWDQ4SVZWcENVVktSaVJFM0ctWERMazFEVnBSeW5WWWdDOFFoMnpZaFRPZWxDWFFBZzhpMHFEeEF3UUQzRG9mZXZINXZHU0ZaaHRUNUs4cmM0YVdOZHVEQkpocGpzeWUyLUNZMExPdVdpMHd1UXllMFhNel9DRF90WlZMRHZZNE14SVZLWWtLbk9SMmc0LTBWVFFNT0szSzNneVFCVHhWcjRodzFTcTBzTjlGbm9aeEZ4ZTdDczBqX1p5bVNibG1HMzZWS2pZT2xDNTRuQ2ZLOGNVbjNUUFpnZS14bm90Z29NbmR0bHRTNnhzVDZDNEx2ckRUSU41cTJleXd5ZVMzbUtxQTl0R0lOTl9rX1hwdWI1Ujk5Umo4aU1tX2x0Q1lWUUhPeFp5d0FQdGFLUHYtSk83MU9LSnRyUERPclp4a3JVY1h5ckhtbmFVNmNQQ3pXamt2MTJ2OVd3MktRazJoa2ZYcXJMa3V5R3BDbENINkZEWVo0X0XSAcIDQVVfeXFMT2hDZ042WTNSYUZmTE0tZ2NjbUExRHNjekktT3hxaFBqLW9SQmpFcDZIMlRtVDdCUU9uaGw1U2NfaXlUU2dkYXZJRFJYWUQ1d1A5TzZzeEtqTEJxZ1hoYW9Fd1BaWXZrVzBsNTB4Y2JRWHBmSGtJbHFiRVRHMUd6bVJKT28zVTJJd3UxT0VpQ0VSVl9iVExiWlQ3czlMQVR4VHRleWRsV1F2MG9PQUVvcmZSbHNSXzJ3Qzh4QVBvdnZHampUVk91bWk5SVVLSm5fYjlWTEJXNnlvU3AtdmlMa3piRzF1eDNzZTRoam1HZ2podnRVU19tOGlWVWxxR3ZZcmkwZ0gxakZ5dGpSV0l3dk1jUEd2dVF5N19mNWFGV0czZE1CdlJQUTBmS0ZhOXBjekpNSThCRF9pcU5QbFM0WTRHQUFWV2U4bGFsNTdCaDczYnhDdUN1cUpJbzR0WlF0MWRvdmxoZnh0a0F1aE5sSzRXeEdJZnpiR2pXcXl4ZzFjV3JDcXRUUmVYckhTckRObS1wOGhVWHZXSnFhLWU3cmdJRFdScWZWOXFDeEpWTksxeHUxQklYYUhQYVpZLWRGM2ZB?oc=5)
+
+---
 
 ### [Common stroke may actually be caused by widening of brain arteries - Medical News Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFJCZ09veXRHS05LZmpBUUhSNDlobFlJcmktRThrRUlsZjhyby1LX1lKUllzUnVqXy1pTkJLc0hXMm92UFhYdnZnUENMVm5McWRDSGttNFZjcDBhZk54anNScG1MY2p2UHJGbDVVNHFZWE5hUk9HRE5uZUVpTzI0T3NqWC1BTENjOUU5Rm1HMWtqc3lQ?oc=5)
 
