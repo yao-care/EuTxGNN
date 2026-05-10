@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Is it true that eating more eggs could help lower Alzheimer's risk? - Medical News Today](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTJ0UnhxRWwzakxNeTZNcU1ES2hPbjdqTUp6d2FFbVNTdjdKNjhUTGhFSlNYWVctNjRMWUZuQjNtUnR4SEZBdEFNYVZQNTVZeDVmWkcxTmFVTXNIRWJpcWM3dWdRWnhhQ0gya2xQX0NqVWJKbm1ZWFBCd1lrQmdPQ0V1djNaaWU3Z29VTzh1LXJCSElWWXpwV2YyUzI0S045MlE?oc=5)
 
@@ -59,14 +59,6 @@ permalink: /news/alzheimer-disease/
 2026-05-08
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzhfQ1FHTXo1N0RISVlkZkxFd2tmTFhuYmJ2R3IycklSX09zdGh0UzJGdGR3b2FqdmkzZ2g4ZGlvQllqMDJzQ1p2UkVCbzlHc3dOZGdKNmNCWndaUlVYc3hfSUtGMUM5TWdFeGwyYnZGbWtubS14MjloNzVDU21ZTWdXSlg0enYxc1NFSnR2R3R4aUc4VnpMcTA3bHdUUWRC?oc=5)
-
----
-
-### [A Verdict on Low-Dose Lithium for Cognitive Preservation?](https://news.google.com/rss/articles/CBMingFBVV95cUxNTjhMdlRqUDItZ2ZuMzNMNktYeldTOTN6YXVlTTZlSlhsX2VYV0MtdGtzMGxSSjdLTjNFanJQMDI1S1k1TklpYW1EUWhTcUdGRkRIZHhZZ3BUV2ZkMEdvakVjQ3lyZkpzR1pDZGgwMUlGTzFPdHMwRjAySzVyMm92MXZ3ZHVRYUh0Tlp2RGRfanc5YWNOenl1a0ZJSl9QUQ?oc=5)
-
-2026-05-07
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxNTjhMdlRqUDItZ2ZuMzNMNktYeldTOTN6YXVlTTZlSlhsX2VYV0MtdGtzMGxSSjdLTjNFanJQMDI1S1k1TklpYW1EUWhTcUdGRkRIZHhZZ3BUV2ZkMEdvakVjQ3lyZkpzR1pDZGgwMUlGTzFPdHMwRjAySzVyMm92MXZ3ZHVRYUh0Tlp2RGRfanc5YWNOenl1a0ZJSl9QUQ?oc=5)
 
 ---
 

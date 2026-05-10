@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Moderna investiga ya una posible vacuna frente al hantavirus - El Globalfarma](https://news.google.com/rss/articles/CBMib0FVX3lxTE83YXMyNzJPSUFaOS16SnF5MGNONVBLOU1rNVJEUzBLdHY3ZnNMZzVVRU1HVE9uaWJLR0xrdXR2cEVRY25QcDZWUjAwRUI1MG1nbTNQWFF3ZTZPMkVNYmp2WlB1SC1FUnNZa0RIM2Z6aw?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### [Hantavirus en un crucero rumbo a España: seis casos confirmados, tres muertos y todas las claves](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2swQ0FkajhUd3JzQzl3cTRnOXF4dWhmT2FIQmpIbUhhbDdrT1FlZHhGOWdhVXhjQTZfY1hiMXpjSEROM1R3OUhGSXB5WkVsNXViMFVYNGx2dFM4ekk1dVhidWQ3UWNtOUMyU2Nyb2tYV0xibTBka2JaS3Y5WEhXaHN4eC0yLUkyc3JDTmxxWlpKSmFFbVdIYVdVZ9IBoAFBVV95cUxPYXdULXBOdjY2YnR0Tkw5WUFWd2w1N0pNZDZhOTJia29oYlRoV2duUHJ6TkdFSU5vc29hNXZZcHhGS3BWWmhXNWRtbXUzMlJOY2p0U24xUUtMYUctaHBmTnBXVnRKWklVcGt0a3VfN0doWWV2bVNDZnRCdkJCN2RBYTlBQkpNLVdLNVJkWE4wQUxyaE5lSXpnd0JKRVV0d1R6?oc=5)
-
-2026-05-09 <span class="news-indication-tag">asma</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2swQ0FkajhUd3JzQzl3cTRnOXF4dWhmT2FIQmpIbUhhbDdrT1FlZHhGOWdhVXhjQTZfY1hiMXpjSEROM1R3OUhGSXB5WkVsNXViMFVYNGx2dFM4ekk1dVhidWQ3UWNtOUMyU2Nyb2tYV0xibTBka2JaS3Y5WEhXaHN4eC0yLUkyc3JDTmxxWlpKSmFFbVdIYVdVZ9IBoAFBVV95cUxPYXdULXBOdjY2YnR0Tkw5WUFWd2w1N0pNZDZhOTJia29oYlRoV2duUHJ6TkdFSU5vc29hNXZZcHhGS3BWWmhXNWRtbXUzMlJOY2p0U24xUUtMYUctaHBmTnBXVnRKWklVcGt0a3VfN0doWWV2bVNDZnRCdkJCN2RBYTlBQkpNLVdLNVJkWE4wQUxyaE5lSXpnd0JKRVV0d1R6?oc=5)
-
----
-
 ### [Des résidus dans les muscles et le foie… Comment la cocaïne fait perdre le Nord aux saumons et aux requins - Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
 
 2026-05-08 <span class="news-indication-tag">EPOC</span>
 
 來源：[Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
-
----
-
-### [Boom di allergie, parla il botanico: “Il vero rischio è invisibile nell’aria” - La Nazione](https://news.google.com/rss/articles/CBMib0FVX3lxTE1kVnAwMVMyRnRpMFpsYkVXd3lrQXJJX1NYZGNaZmNCMjhIcWsxbWs1eUVFY09Rd2c2dEVrYUFNYVJ6SXpTUDdqNnBOT0RSTE96NDBYODQyZGRtRnNiMzF4bnFGS2g0MFRlU09ZVXFUZw?oc=5)
-
-2026-05-07 <span class="news-indication-tag">asma</span>
-
-來源：[La Nazione](https://news.google.com/rss/articles/CBMib0FVX3lxTE1kVnAwMVMyRnRpMFpsYkVXd3lrQXJJX1NYZGNaZmNCMjhIcWsxbWs1eUVFY09Rd2c2dEVrYUFNYVJ6SXpTUDdqNnBOT0RSTE96NDBYODQyZGRtRnNiMzF4bnFGS2g0MFRlU09ZVXFUZw?oc=5)
 
 ---
 

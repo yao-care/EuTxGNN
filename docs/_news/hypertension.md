@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# ipertensione（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,11 +85,11 @@ permalink: /news/hypertension/
 
 ## 相關新聞（1 則）
 
-### [Legumi e soia associati a una netta riduzione del rischio di ipertensione, secondo uno studio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
+### [Linsen, Bohnen Tofu: Schon kleine Mengen schützen vor Bluthochdruck](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
 
-2026-05-08
+2026-05-09
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
 
 ---
 

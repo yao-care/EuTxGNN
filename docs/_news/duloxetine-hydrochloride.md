@@ -54,11 +54,11 @@ permalink: /news/duloxetine-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [Diagnose per Bluttest? Wie die DNA-Alterung Depressionen entlarvt - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxONWVxa1pHWjd4XzZ2ZEwtdDA2Zmc4RUlyelpzNG9KN2h6MVlMbFg0bHFiZFVPTHJxbHRSZnNEcldXbEVZN2tTaWE5SEdqbFpuS1N1UmRUUXNVSVdWdk4xT1hhM1FNdVVvNEpsQzgyTjhCanJyYV9wZ2dEaGEwSDVOU3FMYVBEZ0tMc2c4emgwbnJGYmlhZ0ZLa3BjeTNPZmxmOGJwc3FMRlg2Y1VxMlotdmZPSUFNVHRLTlJtVjBpUjZRRHF3VGlF?oc=5)
+### [Depression per Bluttest: Neue Biomarker revolutionieren Diagnostik - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWE53bjdmYXZubkhULXJVV2owVGozQVU4bkVTVXRQb2lCWU4wYnpvaEd4MWNIRE8yWjhCQ01YeGZod01GRjlCUUlmUXlIZkl1NDgza19rX0h5RkUyaXpTSklDVTJCdW5uTldTQmt1eWN5ekVIU21qMDZqNUNMNHdEU2Z6elY0WXNra1BSZVgtTFB1UG04cnlyRnphNUVfX09JS25kNTd0LWF5LVphRzNBTmJWTUU?oc=5)
 
 2026-05-09 <span class="news-indication-tag">depression</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxONWVxa1pHWjd4XzZ2ZEwtdDA2Zmc4RUlyelpzNG9KN2h6MVlMbFg0bHFiZFVPTHJxbHRSZnNEcldXbEVZN2tTaWE5SEdqbFpuS1N1UmRUUXNVSVdWdk4xT1hhM1FNdVVvNEpsQzgyTjhCanJyYV9wZ2dEaGEwSDVOU3FMYVBEZ0tMc2c4emgwbnJGYmlhZ0ZLa3BjeTNPZmxmOGJwc3FMRlg2Y1VxMlotdmZPSUFNVHRLTlJtVjBpUjZRRHF3VGlF?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWE53bjdmYXZubkhULXJVV2owVGozQVU4bkVTVXRQb2lCWU4wYnpvaEd4MWNIRE8yWjhCQ01YeGZod01GRjlCUUlmUXlIZkl1NDgza19rX0h5RkUyaXpTSklDVTJCdW5uTldTQmt1eWN5ekVIU21qMDZqNUNMNHdEU2Z6elY0WXNra1BSZVgtTFB1UG04cnlyRnphNUVfX09JS25kNTd0LWF5LVphRzNBTmJWTUU?oc=5)
 
 ---
 

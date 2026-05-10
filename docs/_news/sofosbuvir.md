@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,27 +52,11 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
-
-### [Hantavirus, ministero Salute: "In Italia attivata sorveglianza su 4 passeggeri volo Klm" - Sky TG24](https://news.google.com/rss/articles/CBMidkFVX3lxTE9xaTdpbnZSX045SVJvcDA5LS1XLTRQWnFYbkJoSU5tdXd0MkJpV3VZM3FldHgxUVZPTWV6RkZkOWlyMmkwRGRhMlB0N2FKSzA1Wm45OGswXzExZ25xcmRVQXdteUtfWlkzY1hySkRaNG9DUWVJZEE?oc=5)
-
-2026-05-09 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMidkFVX3lxTE9xaTdpbnZSX045SVJvcDA5LS1XLTRQWnFYbkJoSU5tdXd0MkJpV3VZM3FldHgxUVZPTWV6RkZkOWlyMmkwRGRhMlB0N2FKSzA1Wm45OGswXzExZ25xcmRVQXdteUtfWlkzY1hySkRaNG9DUWVJZEE?oc=5)
-
----
-
-### [One Rare Condition Seems to Protect The Brain From Schizophrenia](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSklPMlRRSXU0VWhRcUwwekh5NXNLeUwyTDJMRUtBTTB1dXMydERoSUt3cVdLeGhlRDdlOHRZVFFzellLMGtsYi1NNFp1a01VSUNQWHMxZEhsX1c0bnhBMDFQN0MzcWx0REN4eFlndXN4TTJ0elFhNEMzeG51dDlwQkV4cUZKM3VWM1dWbk1BdWRsNU83aTVfcA?oc=5)
-
-2026-05-09 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSklPMlRRSXU0VWhRcUwwekh5NXNLeUwyTDJMRUtBTTB1dXMydERoSUt3cVdLeGhlRDdlOHRZVFFzellLMGtsYi1NNFp1a01VSUNQWHMxZEhsX1c0bnhBMDFQN0MzcWx0REN4eFlndXN4TTJ0elFhNEMzeG51dDlwQkV4cUZKM3VWM1dWbk1BdWRsNU83aTVfcA?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Doctors Are Surprised by What This Vaccine Is Doing to the Heart](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
-2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
@@ -107,30 +91,6 @@ permalink: /news/sofosbuvir/
 2026-05-08 <span class="news-indication-tag">MS</span>
 
 來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZIRVh1WTJjRGs3cjdocTg0THV6bUdTUlpIbUpGTnZoU0pETC1Fdk5EMVFSeFF3VEtiaklFLTEtSThhYkFHRkhPczJIMnI2eHNHTWVlTEhPN2VGdVFIV25PVGhiNGxLRFNtZHpUWG9aLWFueXVBVkc3LURrNURiT0wzWjJoaXRBMnBSMzdPTGx4UkNtM3RHSXl3Vkh2U21VQ3MyTkhlOHFlR1k2Wkln?oc=5)
-
----
-
-### [The six memory symptoms you should never ignore - The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnBRaHpjYmRZeTRteGw0ZWVGQjZmYTBTU0w2LUVvRFNudFhCc2NOb1QzSXdwWDVSeHR6ckhxWkRmM3JuaHIzTEt6Mk1kT3VldnFPRDgzUkxxQVkwSl80Tzc4dTgzSC1qLTA1ZGJPNHRoM3dPOHJpNW9iNkYwYTRKbGhVNlRkM09zRnJGMW5yZVA?oc=5)
-
-2026-05-08 <span class="news-indication-tag">MS</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnBRaHpjYmRZeTRteGw0ZWVGQjZmYTBTU0w2LUVvRFNudFhCc2NOb1QzSXdwWDVSeHR6ckhxWkRmM3JuaHIzTEt6Mk1kT3VldnFPRDgzUkxxQVkwSl80Tzc4dTgzSC1qLTA1ZGJPNHRoM3dPOHJpNW9iNkYwYTRKbGhVNlRkM09zRnJGMW5yZVA?oc=5)
-
----
-
-### [Typ-2-Diabetes: Leberfett wichtiger als gedacht - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
-
-2026-05-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ05hWkg2RFBPU19qNVBJRXF6ZElMdnlRV3VQLTM5MlNKbWVQaGNVQm5VT0VPb05tX1pEMVQxdE9EUFlDdGFGUl85Z3hsdGdWRUtrUHdwT1oxQ2NuclI5ckV0VGxWZGNCWDB4elQwUUVFejB4U1dSaTNUWVcyY1BOaS1jY1I?oc=5)
-
----
-
-### [Fact Check: Document Does NOT Show Hantavirus As A COVID-19 Vaccine Side Effect -- It Lists Health Conditions To Report IF They Happen](https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1NhTFl3UjJPYmFRalJucHZiZldIWnhyNWotREFENnR1VzBpc3NOMm5TbFNqQ3NiUFdHN0tWZkZKVlowbC1HWk9kWDRiSjY3andkaEU4bmNPV2E0cHQzUkMtd3EzRndCaUU5RTZ1WjZ5Y21BOXVMbFhOeFZPOTZmc1FzT20xdw?oc=5)
-
-2026-05-08 <span class="news-indication-tag">MS</span>
-
-來源：[Yahoo](https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1NhTFl3UjJPYmFRalJucHZiZldIWnhyNWotREFENnR1VzBpc3NOMm5TbFNqQ3NiUFdHN0tWZkZKVlowbC1HWk9kWDRiSjY3andkaEU4bmNPV2E0cHQzUkMtd3EzRndCaUU5RTZ1WjZ5Y21BOXVMbFhOeFZPOTZmc1FzT20xdw?oc=5)
 
 ---
 

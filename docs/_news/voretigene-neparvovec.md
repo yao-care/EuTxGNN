@@ -54,11 +54,11 @@ permalink: /news/voretigene-neparvovec/
 
 ## 相關新聞（1 則）
 
-### [Legumi e soia associati a una netta riduzione del rischio di ipertensione, secondo uno studio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
+### [Linsen, Bohnen Tofu: Schon kleine Mengen schützen vor Bluthochdruck](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
 
-2026-05-08 <span class="news-indication-tag">ipertensione</span>
+2026-05-09 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
 
 ---
 

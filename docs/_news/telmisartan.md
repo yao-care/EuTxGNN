@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Legumi e soia associati a una netta riduzione del rischio di ipertensione, secondo uno studio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
+### [Linsen, Bohnen Tofu: Schon kleine Mengen schützen vor Bluthochdruck](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
 
-2026-05-08 <span class="news-indication-tag">ipertensione</span>
+2026-05-09 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
+
+---
+
+### [Doctors Are Surprised by What This Vaccine Is Doing to the Heart](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
+
+2026-05-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
 ---
 

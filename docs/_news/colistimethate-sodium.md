@@ -54,6 +54,14 @@ permalink: /news/colistimethate-sodium/
 
 ## 相關新聞（3 則）
 
+### [Linsen, Bohnen Tofu: Schon kleine Mengen schützen vor Bluthochdruck](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
+
+2026-05-09 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
+
+---
+
 ### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
 
 2026-05-08 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
@@ -67,14 +75,6 @@ permalink: /news/colistimethate-sodium/
 2026-05-08 <span class="news-indication-tag">arthritis</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQUzZENldHVkN6TVEtUndPUnlFU3h2LURITXF4NkVWbnRIVWIyM0xBdWpxbG44SFg4VDVMZS1GZ1VQM1U5S25VbU5jSmMxWlRJZzF2am8tejhFbi1NUUw1dnc1RC1GVDhJT29fWW5QWENtbEZPT1VMU2VVeHExV2l6S2pyamI1d1RYSkg3Ty0xSUloSXcwUGFDalloTmtTZw?oc=5)
-
----
-
-### [Legumi e soia associati a una netta riduzione del rischio di ipertensione, secondo uno studio](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
-
-2026-05-08 <span class="news-indication-tag">ipertensione</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2x0Y1Y0ZHBfbFRFZ1lNVjhWakIzeE1rMmdqS2JENDhFNDJkNEF3N0pPUXkzUThHdHZEVTdOWFkxQjM0cXdhYmZ3THBmR3NHVG91WTNkVFBMelVvVXJObWpZTjExVXhWckt3SDlMVDBLUklTUElPdHNtcTVkaUQ1TXNMZnk1S3VsRFV0cGNJcHl0Y2E1ZzhwUVRGb3htY1A3M04xU2IyT3VVSENqZFh4Z0FGd0pPUkFGN3haRElvTXV3WnZJLThxa2dVT09oVlBzTlE?oc=5)
 
 ---
 

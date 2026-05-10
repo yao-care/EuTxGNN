@@ -54,11 +54,11 @@ permalink: /news/orlistat/
 
 ## 相關新聞（3 則）
 
-### [Deux études révèlent que faire la sieste au-delà de 30 minutes augmente le risque d'obésité et de maladies cardiaques, même chez les personnes en bonne santé - La Provence](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVEE2YnBIUkJMVy1nUTVIOUY1VDVKbmVUck41Wk9NOVlrNEdXTENZZVRUVjQ5UTdWX00wWUkxdkNCb2hwOHRpdW05ZjNqVGp2TGl5R2dyX2x0TXpNSWJLMDQ0QTlEU3F6czNtQlYzTk1manFQMFJKM2lOSTVvaHpoaENoZ0JiVGhwNTU2SjhUQ19Sa1dOeHZaVGFWYTFXV1BlRURSSm5aMWFQN2ozUUhhLWFiazYxRWJnbjRqcDJkdEQybnN3UnpvUGZPQUZkdTBsRl9hR1JoT0w5NWpoM0ZFWWxqSXhxYm5hZkd6QWx0MVZGT254VDBUbVpscnYxSVNLU3Bod21rMzlmM2o2SHVxcm5oRVF2TGNMWko2MDE2cXdsT1hrbHRQaHhwNzNmcmM3NV9XbTZtSzg?oc=5)
+### [Doctors Are Surprised by What This Vaccine Is Doing to the Heart](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
-2026-05-09 <span class="news-indication-tag">obésité</span>
+2026-05-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Provence](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVEE2YnBIUkJMVy1nUTVIOUY1VDVKbmVUck41Wk9NOVlrNEdXTENZZVRUVjQ5UTdWX00wWUkxdkNCb2hwOHRpdW05ZjNqVGp2TGl5R2dyX2x0TXpNSWJLMDQ0QTlEU3F6czNtQlYzTk1manFQMFJKM2lOSTVvaHpoaENoZ0JiVGhwNTU2SjhUQ19Sa1dOeHZaVGFWYTFXV1BlRURSSm5aMWFQN2ozUUhhLWFiazYxRWJnbjRqcDJkdEQybnN3UnpvUGZPQUZkdTBsRl9hR1JoT0w5NWpoM0ZFWWxqSXhxYm5hZkd6QWx0MVZGT254VDBUbVpscnYxSVNLU3Bod21rMzlmM2o2SHVxcm5oRVF2TGNMWko2MDE2cXdsT1hrbHRQaHhwNzNmcmM3NV9XbTZtSzg?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
 ---
 
