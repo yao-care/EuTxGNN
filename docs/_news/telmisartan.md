@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Linsen, Bohnen Tofu: Schon kleine Mengen schützen vor Bluthochdruck](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
+### [Common stroke may actually be caused by widening of brain arteries - Medical News Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFJCZ09veXRHS05LZmpBUUhSNDlobFlJcmktRThrRUlsZjhyby1LX1lKUllzUnVqXy1pTkJLc0hXMm92UFhYdnZnUENMVm5McWRDSGttNFZjcDBhZk54anNScG1MY2p2UHJGbDVVNHFZWE5hUk9HRE5uZUVpTzI0T3NqWC1BTENjOUU5Rm1HMWtqc3lQ?oc=5)
 
-2026-05-09 <span class="news-indication-tag">Bluthochdruck</span>
+2026-05-09 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
-
----
-
-### [Doctors Are Surprised by What This Vaccine Is Doing to the Heart](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
-
-2026-05-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFJCZ09veXRHS05LZmpBUUhSNDlobFlJcmktRThrRUlsZjhyby1LX1lKUllzUnVqXy1pTkJLc0hXMm92UFhYdnZnUENMVm5McWRDSGttNFZjcDBhZk54anNScG1MY2p2UHJGbDVVNHFZWE5hUk9HRE5uZUVpTzI0T3NqWC1BTENjOUU5Rm1HMWtqc3lQ?oc=5)
 
 ---
 

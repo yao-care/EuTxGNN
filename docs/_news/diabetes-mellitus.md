@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Glukagon und Fettleber bei Typ-2-Diabetes](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JVcF9Fb1NLV3UwbnNyTE96X1VVcUFsY3M4SEl1V2tRcWgxOUxzU0JDeG92cU1Oc2lSV0x0ZmhyZnExQmJzVEd3aDVQRk9mRzRVc3JBbVozVWJvNVJMMGRZcHRQbVQyckVGRWFBTkp1RjFzUjZzcTcwSVdIbW82dHRIQlpzQklPdjZCWXZGeDFEWjUxZ25LRGVodFFVQ2h5dzM5a015MmliOG8zdjd6WVBGcTlZYWdaZGhWV1JNc1hHbTFV?oc=5)
 
@@ -129,14 +129,6 @@ permalink: /news/diabetes-mellitus/
 2026-05-08
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnlCSGlzSVNpU2JoUnJCNWUwV3M0Y01TY0tiUlJyWm9jaWhJcW1VUjVpV2gydktad1kwTjlURGdxUFlfVDU4V3MtTWt3NGQzQkJlSEFaRlc0aTNReWEyZGxKb09scnV2dENLbmg5Wkl4WE03ZVRMdUduczhiSHdzQ2t4N1drVDE3UUNJSWZXNkI5a04wS1h6eHlSOUNBNDNiVzRLMTgyTG5fMVJJT0Jncg?oc=5)
-
----
-
-### [Neue Ansätze in der Gesundheitsbewertung: MRT statt BMI](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWwyc0JqSXczOEVCM1BLaDhpa3Z2VlBWTzM2RVEtWjBKdE5MOS1mdFdqQ1JpWGlkd05HTHBBLWc5eDFGTjl0cm4zLXV3RHZMZzJLazNDcmRNdGlPTmI0MmJkTEF3Smt0QXI5cC1HM21wY3RkZzdyWjhRNFhmRmVIVUZyU1VZN2pZRnV2alNQcVk?oc=5)
-
-2026-05-08
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWwyc0JqSXczOEVCM1BLaDhpa3Z2VlBWTzM2RVEtWjBKdE5MOS1mdFdqQ1JpWGlkd05HTHBBLWc5eDFGTjl0cm4zLXV3RHZMZzJLazNDcmRNdGlPTmI0MmJkTEF3Smt0QXI5cC1HM21wY3RkZzdyWjhRNFhmRmVIVUZyU1VZN2pZRnV2alNQcVk?oc=5)
 
 ---
 

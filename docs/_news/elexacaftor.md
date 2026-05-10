@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Sono duemila i pratesi che soffrono di mal di testa cronico - Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1ptckxfbmtvWWJ5SWQ2YUNueWQtS0U5RnBmOGl2MTdqZ3hWNUFpN0FOWGlaRlVpUXpvNl96LXpnMlZVQzVmU1JseDFhNkc2Z01kR1RMd0dPZGRETFUybGVac0djVUFtelFRWWFtY1ZTZ0E5cWloTEM3ZmMyYmE1d2hsVHFZcXZfeXIxM1NLZXlXcjhFM1NFNnlyU1N0U3RUMDVKQnMwV3ZmTFZlUlVRT0hmbTBDOHcwclNuZUVaUlJ2aV9l?oc=5)
-
-2026-05-09 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1ptckxfbmtvWWJ5SWQ2YUNueWQtS0U5RnBmOGl2MTdqZ3hWNUFpN0FOWGlaRlVpUXpvNl96LXpnMlZVQzVmU1JseDFhNkc2Z01kR1RMd0dPZGRETFUybGVac0djVUFtelFRWWFtY1ZTZ0E5cWloTEM3ZmMyYmE1d2hsVHFZcXZfeXIxM1NLZXlXcjhFM1NFNnlyU1N0U3RUMDVKQnMwV3ZmTFZlUlVRT0hmbTBDOHcwclNuZUVaUlJ2aV9l?oc=5)
-
----
-
-### [Linsen, Bohnen Tofu: Schon kleine Mengen schützen vor Bluthochdruck](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
-
-2026-05-09 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0cyVm5XNG5vWTI2cnlFY0tuNWlRaVotUjBUTkcxMTdtUmhVZ2NIaDllZnlpeEo0REJMSFIxMU9QVWVrWDdpZDV3d2ZGT0F5SnNBNXFzQ2hpT0RKOVBxV01GZzZTZnFTRU16WWJtOFRpUzVUTTZEaERKczQxcDJUWmpkQ0phY0xWT0t0ZlNoRVNVdzQzSWczZzJ1NjFLd0YwdjNZVg?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
 

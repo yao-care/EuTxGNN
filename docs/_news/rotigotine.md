@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Pharmacies issue urgent 'aspirin and antibiotics warning' - Labour told to tackle crisis - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb01RMzBleE91RTMzUUx0TVhXdG1vZTJwQnJESHBuT3F0VWx3Ul9OSnFDei04N29tc0dEV2MxWThyMS1qcnBtY1NBckhTcUs1YmszdmplOFowbmkyUlY4THVrV2tqYlNRNFNJQjFsZnFiNzlzM3hzNm1zQkwwOW1FSGpJeURPbUtLMTRrSldpYk7SAZYBQVVfeXFMTU03b2JIMGkzZjduejFybTF3Q056bjV5dHpsejlyZ2RpTFFLSWpQOFllNmRpQTh5RmxPVm5oc2UtR3c2S3NvUXc0a01QcG5pUVdMRGhfRE1CamNkMUxtNGRGdmp1UkloOXVDRGpyVXlNY0Zod19PeHNpVk9Tc3FveWR6ajRvWlRDQXZwcml6UXpnVFRwOFBB?oc=5)
+
+2026-05-09 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb01RMzBleE91RTMzUUx0TVhXdG1vZTJwQnJESHBuT3F0VWx3Ul9OSnFDei04N29tc0dEV2MxWThyMS1qcnBtY1NBckhTcUs1YmszdmplOFowbmkyUlY4THVrV2tqYlNRNFNJQjFsZnFiNzlzM3hzNm1zQkwwOW1FSGpJeURPbUtLMTRrSldpYk7SAZYBQVVfeXFMTU03b2JIMGkzZjduejFybTF3Q056bjV5dHpsejlyZ2RpTFFLSWpQOFllNmRpQTh5RmxPVm5oc2UtR3c2S3NvUXc0a01QcG5pUVdMRGhfRE1CamNkMUxtNGRGdmp1UkloOXVDRGpyVXlNY0Zod19PeHNpVk9Tc3FveWR6ajRvWlRDQXZwcml6UXpnVFRwOFBB?oc=5)
+
+---
 
 ### [Doctors Are Surprised by What This Vaccine Is Doing to the Heart](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
-2026-05-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
@@ -70,27 +78,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Alzheimer : cette découverte surprenante sur l'intestin pourrait ralentir la progression de la maladie](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY0NDd0dMTTZHQjUxejBPWHpBUURFOTJzUWFqSWotclFUSXZDMzlYcWhPdjJUVC1KaDE3SWdpRnBZMENabWdlZW9aeGY3UFd3TERxZnU3bWpScWpTWkhVTmlwbUdGODVaZXNFT3gxUDAyNlNFcHY4SzliaHNoSG9MQ05VV1F0by1WVDhRQXp1RnlPS253ZVd6c1dwdUp0VGZpNWdtZ3Jxd2JtSVlhRFhsZmQ2d0VnM1ZZSFNsUGctUmRoM2tKQ0VrMTBhY0lpLUpiVzE2Yk1NcGZnYTR0cmhKMHZscTllZw?oc=5)
-
-2026-05-08 <span class="news-indication-tag">MS</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY0NDd0dMTTZHQjUxejBPWHpBUURFOTJzUWFqSWotclFUSXZDMzlYcWhPdjJUVC1KaDE3SWdpRnBZMENabWdlZW9aeGY3UFd3TERxZnU3bWpScWpTWkhVTmlwbUdGODVaZXNFT3gxUDAyNlNFcHY4SzliaHNoSG9MQ05VV1F0by1WVDhRQXp1RnlPS253ZVd6c1dwdUp0VGZpNWdtZ3Jxd2JtSVlhRFhsZmQ2d0VnM1ZZSFNsUGctUmRoM2tKQ0VrMTBhY0lpLUpiVzE2Yk1NcGZnYTR0cmhKMHZscTllZw?oc=5)
-
----
-
 ### [Why The HRT Conversation Is More Complicated Than Social Media Suggests](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUU9aeE9DSUd0ckxoWDZiY0hOakVBbWN6bXlkS25oVXNWS3o2cUdMSFhVVVdIbzFVbUlDNGNyUTZHbUpRNjBDejNycnpNbExHQmM3N21BSWt3b2NyakRKYkUtT0VBdFBoOTFlYXZydHBHOTdlWUVKdXBuQkxQWHB3cHdIZVV5MFNNc0dGZHRiZzhPeFlLWlh4Z3h5SkVyMk9LbkxTODBYS0N5U0xNbHJCZU8wRDNYUHpuaTgxcmlYdUpuRnM?oc=5)
 
 2026-05-08 <span class="news-indication-tag">MS</span>
 
 來源：[Forbes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUU9aeE9DSUd0ckxoWDZiY0hOakVBbWN6bXlkS25oVXNWS3o2cUdMSFhVVVdIbzFVbUlDNGNyUTZHbUpRNjBDejNycnpNbExHQmM3N21BSWt3b2NyakRKYkUtT0VBdFBoOTFlYXZydHBHOTdlWUVKdXBuQkxQWHB3cHdIZVV5MFNNc0dGZHRiZzhPeFlLWlh4Z3h5SkVyMk9LbkxTODBYS0N5U0xNbHJCZU8wRDNYUHpuaTgxcmlYdUpuRnM?oc=5)
-
----
-
-### [Bundesweite Studie sucht nach den wirksamsten Hygienemaßnahmen - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZIRVh1WTJjRGs3cjdocTg0THV6bUdTUlpIbUpGTnZoU0pETC1Fdk5EMVFSeFF3VEtiaklFLTEtSThhYkFHRkhPczJIMnI2eHNHTWVlTEhPN2VGdVFIV25PVGhiNGxLRFNtZHpUWG9aLWFueXVBVkc3LURrNURiT0wzWjJoaXRBMnBSMzdPTGx4UkNtM3RHSXl3Vkh2U21VQ3MyTkhlOHFlR1k2Wkln?oc=5)
-
-2026-05-08 <span class="news-indication-tag">MS</span>
-
-來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZIRVh1WTJjRGs3cjdocTg0THV6bUdTUlpIbUpGTnZoU0pETC1Fdk5EMVFSeFF3VEtiaklFLTEtSThhYkFHRkhPczJIMnI2eHNHTWVlTEhPN2VGdVFIV25PVGhiNGxLRFNtZHpUWG9aLWFueXVBVkc3LURrNURiT0wzWjJoaXRBMnBSMzdPTGx4UkNtM3RHSXl3Vkh2U21VQ3MyTkhlOHFlR1k2Wkln?oc=5)
 
 ---
 

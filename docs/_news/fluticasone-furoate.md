@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Moderna investiga ya una posible vacuna frente al hantavirus - El Globalfarma](https://news.google.com/rss/articles/CBMib0FVX3lxTE83YXMyNzJPSUFaOS16SnF5MGNONVBLOU1rNVJEUzBLdHY3ZnNMZzVVRU1HVE9uaWJLR0xrdXR2cEVRY25QcDZWUjAwRUI1MG1nbTNQWFF3ZTZPMkVNYmp2WlB1SC1FUnNZa0RIM2Z6aw?oc=5)
 
 2026-05-09 <span class="news-indication-tag">asma</span>
 
 來源：[El Globalfarma](https://news.google.com/rss/articles/CBMib0FVX3lxTE83YXMyNzJPSUFaOS16SnF5MGNONVBLOU1rNVJEUzBLdHY3ZnNMZzVVRU1HVE9uaWJLR0xrdXR2cEVRY25QcDZWUjAwRUI1MG1nbTNQWFF3ZTZPMkVNYmp2WlB1SC1FUnNZa0RIM2Z6aw?oc=5)
-
----
-
-### [Des résidus dans les muscles et le foie… Comment la cocaïne fait perdre le Nord aux saumons et aux requins - Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
-
-2026-05-08 <span class="news-indication-tag">EPOC</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjZOMzZaRGVHME53dEYzQ1lvWXd1SjhPYjdoQjF6QnNTbGlXOEZ0bEE4MGZoaTAxdkZEVUZxRElfOWttdnoyRzZTdVBrUjBoMFVmNHpVUG1wNWkxT19mN3dyWldYT0JBbE9ZTmZzV1k0TmEtYy1OS2RRS09maDA3dEFCbm05WWNBNnBBdkw5SVNPUFUtUnUtVXNoNnVFVHM4bDR2UlZQUFZXVTEyczU2dUdpYXYwSkV6Y3BUc2dqaWtiUTZNM1hDMmFDTUhjalV6bjEzdXIxYWJrR1owMEs2SE03SWZtalkybGc?oc=5)
 
 ---
 

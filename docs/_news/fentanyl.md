@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="Fentanyl 有什麼相關新聞？">
-<strong>Fentanyl</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fentanyl</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,61 @@ permalink: /news/fentanyl/
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（18 則）
+
+### [Zwang zur Anpassung](https://news.google.com/rss/articles/CBMid0FVX3lxTE5qaWYxUVJ6bWN1bWdZR0dKNWMyc3dEMDNKWE9OQTItbVJaTEZEQUJvcTZsdS1USHo0T2NSMElEUjYzcFBLWDNFUjlGZ25vTFlwRFZZSFpOVF9kNmc2ejZFQ1Y5eUhKMDVYUFFfRl9JZ1ROVmItQmFJ?oc=5)
+
+2026-05-10 <span class="news-indication-tag">AF</span>
+
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMid0FVX3lxTE5qaWYxUVJ6bWN1bWdZR0dKNWMyc3dEMDNKWE9OQTItbVJaTEZEQUJvcTZsdS1USHo0T2NSMElEUjYzcFBLWDNFUjlGZ25vTFlwRFZZSFpOVF9kNmc2ejZFQ1Y5eUhKMDVYUFFfRl9JZ1ROVmItQmFJ?oc=5)
+
+---
+
+### [Dieting? Forget 10,000 steps... here’s how many to do to keep weight off - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazg2WXk4UXl5TFhJN0VNU01JdVhxVXJOODA1R1JPMUJNaEdqZ05aZmVOaGFqQ3VrQmxjMHpoNENxTTFhZjJvYmJTNGI0VHhnZ0NYZWpWMjU5Z05KVU5pRzA4N2VWd3BJQ2J3eE1HM0c4T0V4bWZyWmF5SG9OaHNTTlNXY1RtaW1CYUZsaElzNTg3Zw?oc=5)
+
+2026-05-10 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazg2WXk4UXl5TFhJN0VNU01JdVhxVXJOODA1R1JPMUJNaEdqZ05aZmVOaGFqQ3VrQmxjMHpoNENxTTFhZjJvYmJTNGI0VHhnZ0NYZWpWMjU5Z05KVU5pRzA4N2VWd3BJQ2J3eE1HM0c4T0V4bWZyWmF5SG9OaHNTTlNXY1RtaW1CYUZsaElzNTg3Zw?oc=5)
+
+---
+
+### [Gewichtsverlust durch Medikamente: Stigma und gesellschaftliche Wahrnehmung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURMa3hwUXpRY0tHQWV5OW9wY0pKVjBuT2ozWldTRGMtVlR2aU5VTnVjcjBGb2NWeUw1dkxlcFpiN0ljRGZhT3Z2a2ZheEhCR0FINXQ0bVdYNWlOek05MFN6d2pqd2FaVXVrNUYzREZQdTBKNGdWeDlxeGRFRmp0NmozMl9MbFl6NDA0MVJaUS00WkJPcDVReHdQOFVacWhmQ3NyU19zbE9Kdw?oc=5)
+
+2026-05-10 <span class="news-indication-tag">AF</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURMa3hwUXpRY0tHQWV5OW9wY0pKVjBuT2ozWldTRGMtVlR2aU5VTnVjcjBGb2NWeUw1dkxlcFpiN0ljRGZhT3Z2a2ZheEhCR0FINXQ0bVdYNWlOek05MFN6d2pqd2FaVXVrNUYzREZQdTBKNGdWeDlxeGRFRmp0NmozMl9MbFl6NDA0MVJaUS00WkJPcDVReHdQOFVacWhmQ3NyU19zbE9Kdw?oc=5)
+
+---
+
+### [More than 100 cruise ship passengers on Caribbean Princess taken ill with norovirus - Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOay1GSzVTRHI4anM4SlV3c0lSQlRjVmU0NnJXTWFQeW1TLVVLYnR1RkF1TFU1T1pPc0M1UTlBRmV5dUJaVlh0LThsaUpXdTlfXzN4dkhZMWVLMUVDUEh2MER4NDdqR0hOQTZUc0F4ZkF0X05BRlQ0cmdVTGNXWGo2b2xCWlFyOFZCZWJTN0oxdE9jY2VQcXRHU0JhOXI5NkxfTkw5VXVSc2U3VDdMaHdvWXhDTWs5R2pyUHIw?oc=5)
+
+2026-05-09 <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOay1GSzVTRHI4anM4SlV3c0lSQlRjVmU0NnJXTWFQeW1TLVVLYnR1RkF1TFU1T1pPc0M1UTlBRmV5dUJaVlh0LThsaUpXdTlfXzN4dkhZMWVLMUVDUEh2MER4NDdqR0hOQTZUc0F4ZkF0X05BRlQ0cmdVTGNXWGo2b2xCWlFyOFZCZWJTN0oxdE9jY2VQcXRHU0JhOXI5NkxfTkw5VXVSc2U3VDdMaHdvWXhDTWs5R2pyUHIw?oc=5)
+
+---
+
+### [Laut Studie: Dieser einfache Saft soll Ihre Nacht komplett verändern](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlRLNVpzYlFMWWV5SnJCMUc1WjVmenNzSGx6bFVtZ01nMndZRXRGX3U5R2RZdmkxbTV4bUhXODVsNVdCMUFMcUUzczFhbTJuUUJNTjV1RWpDYzlTdmQ0THhfRlhNTzZjcGhXM0Nzc3JKVEpWVUdlR0Z3b1B5eGduZmdhdzhNbmlIclJwOFBHNThSTlh4bnJwTmJwTzFzMHppY1dCUEtuLXQ1cG9N?oc=5)
+
+2026-05-09 <span class="news-indication-tag">AF</span>
+
+來源：[CHIP](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlRLNVpzYlFMWWV5SnJCMUc1WjVmenNzSGx6bFVtZ01nMndZRXRGX3U5R2RZdmkxbTV4bUhXODVsNVdCMUFMcUUzczFhbTJuUUJNTjV1RWpDYzlTdmQ0THhfRlhNTzZjcGhXM0Nzc3JKVEpWVUdlR0Z3b1B5eGduZmdhdzhNbmlIclJwOFBHNThSTlh4bnJwTmJwTzFzMHppY1dCUEtuLXQ1cG9N?oc=5)
+
+---
+
+### [Rappel massif de jouets Sophie la Girafe dans toute la France : les bébés peuvent s'étouffer avec](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlhaZFVHQTBiMDNVcGdJQlpJckI0TVd3TUJEWUhaS3BPRFJQZjJzc2Q5eDNkaFk4NkhHeEJFdEcySmJCWmRsV0VnVmJ2c2FqNEFIbTJSLTFoaUZtVDFwbFBrS1A0OXdkcXdwYWVQYnR3TzhDWlc0X1dPQ1ROZFdWNVBuM09JTzZncmhSSnk2YTAwM3BDTGUxYVRBRlVNeFFuX21rZlRZMFhVdUNMTmpmRS05Uk5ZMHNmTlpxeWk2ZWIyeHRpR0lmZ1NpWnhDdw?oc=5)
+
+2026-05-09 <span class="news-indication-tag">AF</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlhaZFVHQTBiMDNVcGdJQlpJckI0TVd3TUJEWUhaS3BPRFJQZjJzc2Q5eDNkaFk4NkhHeEJFdEcySmJCWmRsV0VnVmJ2c2FqNEFIbTJSLTFoaUZtVDFwbFBrS1A0OXdkcXdwYWVQYnR3TzhDWlc0X1dPQ1ROZFdWNVBuM09JTzZncmhSSnk2YTAwM3BDTGUxYVRBRlVNeFFuX21rZlRZMFhVdUNMTmpmRS05Uk5ZMHNmTlpxeWk2ZWIyeHRpR0lmZ1NpWnhDdw?oc=5)
+
+---
 
 ### [Luzides Träumen: Wie wir im Schlaf trainieren können – oder einfach mehr Spaß haben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUXA4NUZPTHBYXzNhemlTQTdZTExPektvR1hoMFNvMDFWUE9NT0w4VFpOZkRhOWF3S0N6NGZqX0RJbnZQLUw2RDd5S29UWnpvZGNtRjVkcUdGc3BUZklWSUZaQllCRVo0UTF3dG1EbFNIQ3lYamczS29FTHAwd3UydHNnMjY0TXVKY0FoZnN6dEVJd2VOYzlRZFE5b3k1dUt5OEgxYnptWXNEM1oyY2U0eE84c1EtR1NKUGVEdlpPZGJ5Q0IyWTVLT3YyOVNESFdINERCVWpJRGhvQVZncnpUd05jRWxSSU9WMkZaTg?oc=5)
 
 2026-05-09 <span class="news-indication-tag">AF</span>
 
 來源：[Spiegel](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUXA4NUZPTHBYXzNhemlTQTdZTExPektvR1hoMFNvMDFWUE9NT0w4VFpOZkRhOWF3S0N6NGZqX0RJbnZQLUw2RDd5S29UWnpvZGNtRjVkcUdGc3BUZklWSUZaQllCRVo0UTF3dG1EbFNIQ3lYamczS29FTHAwd3UydHNnMjY0TXVKY0FoZnN6dEVJd2VOYzlRZFE5b3k1dUt5OEgxYnptWXNEM1oyY2U0eE84c1EtR1NKUGVEdlpPZGJ5Q0IyWTVLT3YyOVNESFdINERCVWpJRGhvQVZncnpUd05jRWxSSU9WMkZaTg?oc=5)
-
----
-
-### [Zusammenhang zwischen Alzheimer und längst vergangenen Infektionen Virusreste können Krebs und Demenz auslösen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
-
-2026-05-09 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
-
----
-
-### [Sono duemila i pratesi che soffrono di mal di testa cronico - Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1ptckxfbmtvWWJ5SWQ2YUNueWQtS0U5RnBmOGl2MTdqZ3hWNUFpN0FOWGlaRlVpUXpvNl96LXpnMlZVQzVmU1JseDFhNkc2Z01kR1RMd0dPZGRETFUybGVac0djVUFtelFRWWFtY1ZTZ0E5cWloTEM3ZmMyYmE1d2hsVHFZcXZfeXIxM1NLZXlXcjhFM1NFNnlyU1N0U3RUMDVKQnMwV3ZmTFZlUlVRT0hmbTBDOHcwclNuZUVaUlJ2aV9l?oc=5)
-
-2026-05-09 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1ptckxfbmtvWWJ5SWQ2YUNueWQtS0U5RnBmOGl2MTdqZ3hWNUFpN0FOWGlaRlVpUXpvNl96LXpnMlZVQzVmU1JseDFhNkc2Z01kR1RMd0dPZGRETFUybGVac0djVUFtelFRWWFtY1ZTZ0E5cWloTEM3ZmMyYmE1d2hsVHFZcXZfeXIxM1NLZXlXcjhFM1NFNnlyU1N0U3RUMDVKQnMwV3ZmTFZlUlVRT0hmbTBDOHcwclNuZUVaUlJ2aV9l?oc=5)
 
 ---
 
@@ -94,14 +126,6 @@ permalink: /news/fentanyl/
 
 ---
 
-### [El lupus presenta una prevalencia de 210 casos por cada 100.000 habitantes en España](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2tMWV9TVW1QWTBPanZpRENDSlBEb3E1V2pYQV92c1dPc0s3QmlCSHMxMmhfZ3ByZFhjal9na2R0eGhzR2dESXpNVGhzaHBKb1hnNzJFS3MyRnduV1AtNmlVWGdpZGJIWTJCRENZNU5oQzlaR2NPWTNEZFZQejk5bllQc3VNalFvb2g5eDMzcE5qWW4wQ0RaOXFDSkhYRDNuNUhhZll1cHNlQndGSElPTzB0OW45VWJWOXdDONIBwgFBVV95cUxQWXZ5VW9hUElPR3NKa2puODJYZGU4dC1NVk1FYV92dWhjc21UMl81TDdhbWYtQm1NbFRCSHpWM3U2UjluTktyT0RaMU5PaUgxNVpic25yWmNJQllJLXM2VDdVelNKa0FnMm9kVjJGUmlyU1l2X3VKaWd6aGdEVmV0NGNPZFg2R24ybFlJUkJsNmpnS2R2ZlYzSGV2Q29HV2NTZ29HWVRaa21uUDk1djcxdFlpYnNlOVN4UDd4YVRZMHludw?oc=5)
-
-2026-05-09 <span class="news-indication-tag">AF</span>
-
-來源：[BURGOSconecta](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2tMWV9TVW1QWTBPanZpRENDSlBEb3E1V2pYQV92c1dPc0s3QmlCSHMxMmhfZ3ByZFhjal9na2R0eGhzR2dESXpNVGhzaHBKb1hnNzJFS3MyRnduV1AtNmlVWGdpZGJIWTJCRENZNU5oQzlaR2NPWTNEZFZQejk5bllQc3VNalFvb2g5eDMzcE5qWW4wQ0RaOXFDSkhYRDNuNUhhZll1cHNlQndGSElPTzB0OW45VWJWOXdDONIBwgFBVV95cUxQWXZ5VW9hUElPR3NKa2puODJYZGU4dC1NVk1FYV92dWhjc21UMl81TDdhbWYtQm1NbFRCSHpWM3U2UjluTktyT0RaMU5PaUgxNVpic25yWmNJQllJLXM2VDdVelNKa0FnMm9kVjJGUmlyU1l2X3VKaWd6aGdEVmV0NGNPZFg2R24ybFlJUkJsNmpnS2R2ZlYzSGV2Q29HV2NTZ29HWVRaa21uUDk1djcxdFlpYnNlOVN4UDd4YVRZMHludw?oc=5)
-
----
-
 ### [Wissenschaft vs. Astrologie: Dieses Sternzeichen hat statistisch betrachtet die beste Lebenserwartung](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLUlBS29lTVVGMmNIenl3SEowRVJRanlqOTVlVXhpaXdxVjJ6WHNLQ1hmVk5GbkN0UzJYUnlUd3o2aHBZS2lfek1yekRFR1ZtY21vY3IxZldZMmxVWDZwc1BiNGI4WU5uUEZlVW94cjJ5Rko0V2JJRVRZakZEYXBic3hVM0FvUE1SRl8zRnNFUi02eHhzWEx4ZkdEWHd2NDhwVjVEWVY3VmJFQ2xpdy1iOGF6WlVUQ1RPVlRpUzVjMWc0dlNidkVEREtjaVp0M3dFelpnb25PakNLWUlqbDJKeE44Zlk0Q2JMWlNOb3E3dzk1M3RrX1pF?oc=5)
 
 2026-05-09 <span class="news-indication-tag">AF</span>
@@ -110,11 +134,11 @@ permalink: /news/fentanyl/
 
 ---
 
-### [¿Por qué el hantavirus no representa un peligro para los ratones? - National Geographic España](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE50QXM4WjNLbEo4U2FkOUhtZmlnWHNIUkw0c3BIZkFKSnRHWlJHMmFrOHFTZ08xVXRVRm5MNkd5ek1QY1BmUUo4QW5WOFJSalFKUWItQ1E1QUNxbENUQXc0bVNMWkJlZmtMNFVjaGwwbmhKQ0c1eFBIeVBZeDJDbnBwZnlzMWRLUUxGQU1qck9SUndpaHJjSmxPQTZ1TlgzRlNkSVoyTG5jR25nRjkw?oc=5)
+### [Common stroke may actually be caused by widening of brain arteries - Medical News Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFJCZ09veXRHS05LZmpBUUhSNDlobFlJcmktRThrRUlsZjhyby1LX1lKUllzUnVqXy1pTkJLc0hXMm92UFhYdnZnUENMVm5McWRDSGttNFZjcDBhZk54anNScG1MY2p2UHJGbDVVNHFZWE5hUk9HRE5uZUVpTzI0T3NqWC1BTENjOUU5Rm1HMWtqc3lQ?oc=5)
 
-2026-05-09 <span class="news-indication-tag">AF</span>
+2026-05-09 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE50QXM4WjNLbEo4U2FkOUhtZmlnWHNIUkw0c3BIZkFKSnRHWlJHMmFrOHFTZ08xVXRVRm5MNkd5ek1QY1BmUUo4QW5WOFJSalFKUWItQ1E1QUNxbENUQXc0bVNMWkJlZmtMNFVjaGwwbmhKQ0c1eFBIeVBZeDJDbnBwZnlzMWRLUUxGQU1qck9SUndpaHJjSmxPQTZ1TlgzRlNkSVoyTG5jR25nRjkw?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFJCZ09veXRHS05LZmpBUUhSNDlobFlJcmktRThrRUlsZjhyby1LX1lKUllzUnVqXy1pTkJLc0hXMm92UFhYdnZnUENMVm5McWRDSGttNFZjcDBhZk54anNScG1MY2p2UHJGbDVVNHFZWE5hUk9HRE5uZUVpTzI0T3NqWC1BTENjOUU5Rm1HMWtqc3lQ?oc=5)
 
 ---
 
@@ -136,25 +160,9 @@ permalink: /news/fentanyl/
 
 ### [Doctors Are Surprised by What This Vaccine Is Doing to the Heart](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
 
-2026-05-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
-
----
-
-### [Es falso que Pfizer haya presentado una vacuna de ARNm contra el hantavirus al 8 de mayo de 2026 - AFP Factual](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNTnJNajhsTEdMdzlRbDlIR2lteWJ3SmJtUUhReEFSdE9WVnVjQWFJTjF0UXprOFRRZEVZZ2FDdmpDRFQ3MTBZWE9Odk52cFMzRG5ISGpB?oc=5)
-
-2026-05-08 <span class="news-indication-tag">AF</span>
-
-來源：[AFP Factual](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNTnJNajhsTEdMdzlRbDlIR2lteWJ3SmJtUUhReEFSdE9WVnVjQWFJTjF0UXprOFRRZEVZZ2FDdmpDRFQ3MTBZWE9Odk52cFMzRG5ISGpB?oc=5)
-
----
-
-### [Millionen wetten auf mögliche Hantavirus-Pandemie – Wie weit ist unsere Gesellschaft abgestumpft?](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmFBaDcxcHZnRGIwX0NVbEtuVWpyMnZXdnd4anR3RG9TdHN3ZUx3LUwxMjcwTnRpaHYyZUdPOEZMM2gzY0NuaF9RcmNWa0c4amhVcklCLUlLQUxEbnRvSk5QT2FFdTJseVhzRDhIMUpTbVhmSWFVUkQtdlQ2OUNYa2pUeVhVZWVfdjlDUzJ6ekU2WlY2dWotRU5MUUNVblpHQ2sxeGRkVEhqck0yb181bVhuQWRDOG1Cb3F3VjdobDFFYVlUamVwOUdvSkt5YmRpcXczeTJKQWtSSUl2OXJIREk1YmU4MEk?oc=5)
-
-2026-05-08 <span class="news-indication-tag">AF</span>
-
-來源：[verbraucherschutzforum.berlin](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmFBaDcxcHZnRGIwX0NVbEtuVWpyMnZXdnd4anR3RG9TdHN3ZUx3LUwxMjcwTnRpaHYyZUdPOEZMM2gzY0NuaF9RcmNWa0c4amhVcklCLUlLQUxEbnRvSk5QT2FFdTJseVhzRDhIMUpTbVhmSWFVUkQtdlQ2OUNYa2pUeVhVZWVfdjlDUzJ6ekU2WlY2dWotRU5MUUNVblpHQ2sxeGRkVEhqck0yb181bVhuQWRDOG1Cb3F3VjdobDFFYVlUamVwOUdvSkt5YmRpcXczeTJKQWtSSUl2OXJIREk1YmU4MEk?oc=5)
 
 ---
 
@@ -174,14 +182,6 @@ permalink: /news/fentanyl/
 
 ---
 
-### [Woman takes collagen for 30 days to show true impact it has on body](https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1RsZk04OHFNODNTOWVaaS1mNlZXbEFHVXcwZ3ZQbkhYekMzUFlBOVFPSDJOVFFZdWlrVWg4b0dhcG1sUGNOd2hYSV9VTHoyb1E3Y0lFNHRNanBRRjFlT2lWaWt2a1dLTWN3SEFHNXBtd2Q4ekZ3Skd6VmlnUzNFUGFNbW9QckxrbFZHUV9UWlpRR3d3aVEzTjl6bFluZXI3bHNR?oc=5)
-
-2026-05-08 <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1RsZk04OHFNODNTOWVaaS1mNlZXbEFHVXcwZ3ZQbkhYekMzUFlBOVFPSDJOVFFZdWlrVWg4b0dhcG1sUGNOd2hYSV9VTHoyb1E3Y0lFNHRNanBRRjFlT2lWaWt2a1dLTWN3SEFHNXBtd2Q4ekZ3Skd6VmlnUzNFUGFNbW9QckxrbFZHUV9UWlpRR3d3aVEzTjl6bFluZXI3bHNR?oc=5)
-
----
-
 ### ['Like a needle in my head': Ex-Premier League boss caught hantavirus cleaning his house](https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0dSaDNhYUNlclFlNWxPOExmSUZlQkZaOEpoRFlRMXptVFFnalpGLU5OdEQxTE1PWDllUjVOV1NoaEhIWW85VWpiSXZPU0ludWF4aXJCcWk2S1VIZm15bEFzempFdlZPMk5ULWJFTTZGeFhJNVlleEFOYTc4QnM0cERQLW42QXBHSXFGT2xBV1QyV3pGeHZoQWhGcFdhckhDbXNr0gGoAUFVX3lxTE04eDlGSmxxRnZuRHVDMEpUdXFYMG1IT1V1ek54U2NwWUIyelZuSGFXZzVhQlhqalJUbG9maVpNenRLQnhRT0xMaFd6eUJqaXJrd2tQczJtRDdxSEdtc1g1VUZlZmdLT1lYSmZ3RWVBSFhzcFcybUt0UG10MUpiQ0MxQURHMWVJVnRzYklqd3hYM0xkTkNueHlPRDd6dDItenhyUXVLc2pYQg?oc=5)
 
 2026-05-08 <span class="news-indication-tag">AF</span>
@@ -195,22 +195,6 @@ permalink: /news/fentanyl/
 2026-05-08 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83NG5oLUNiM0pjNVhZMEhHTUw0MkY3WEhyb0dtVnFNMkE0MjduZVJHdmdLcXJ1S29xTzZ3NXhxVHQybHNvUC01aHFGb3V1TjVFZFNqVzRvLVpZa1Nu?oc=5)
-
----
-
-### [Malaria-Impfung rettet Leben | Foto: Dai Kurokawa/epa/dpa](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzdEdU00UUZuZ1E1Q2RQdk1EODRnNmJfV29vbURucVEzR01mNnR5YjAzV1BlNXl6NC1MMWFGZzgyd2Z5MUFwQVdLMGxWelBVNW1SWmFOZmFGNmFiUnpPSV9VNTdLbGNfOURBNWNURlVLR2hWSFFGWmJ4Ums3ZURmMVNkcTVFLUdUU3U3V1VQWG1nQ2pDb3h1Qk1jcjFBTkk?oc=5)
-
-2026-05-08 <span class="news-indication-tag">AF</span>
-
-來源：[main-echo.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzdEdU00UUZuZ1E1Q2RQdk1EODRnNmJfV29vbURucVEzR01mNnR5YjAzV1BlNXl6NC1MMWFGZzgyd2Z5MUFwQVdLMGxWelBVNW1SWmFOZmFGNmFiUnpPSV9VNTdLbGNfOURBNWNURlVLR2hWSFFGWmJ4Ums3ZURmMVNkcTVFLUdUU3U3V1VQWG1nQ2pDb3h1Qk1jcjFBTkk?oc=5)
-
----
-
-### [Scottish mum 'died within hours' after thinking she had stomach bug - Edinburgh Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVpaLW5Ta3pRYmZLN2h2TXdaR2cyYjFaMWJGSTRORF9WUEVaYjZ0ZFpBMFJyUzBNZjZhR2VaOG10R0ZQcUdFRmg4UlVxakg2TmhXTVFrMm9hWlFDdDN2SVVBNTVjeWlybzhOc01vTUNRR2pTS0hoS2ZJUUEyc2psRGlqaGR6NlNmeERTbXZtRGw2eldKd2fSAZsBQVVfeXFMT0VxaXFrMkFJMlZuNENnZjM4TWtoTzg4MlpNMWxJNzNGNlFfd2RhZ0lXV21YTVlHNngzVDB2NGphcWN2dVVpN0pGMUxjTGZtQkhxU0oxTWxBTW5rYWY0NzI3eEhoc1U5YWM1OXFqSHZRUTV5Q2N0YzE4a0JYdHJoNk1VcmZwQ3FDa2hfQUE5eHNzZU90U1VtR3lsbG8?oc=5)
-
-2026-05-08 <span class="news-indication-tag">AF</span>
-
-來源：[Edinburgh Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVpaLW5Ta3pRYmZLN2h2TXdaR2cyYjFaMWJGSTRORF9WUEVaYjZ0ZFpBMFJyUzBNZjZhR2VaOG10R0ZQcUdFRmg4UlVxakg2TmhXTVFrMm9hWlFDdDN2SVVBNTVjeWlybzhOc01vTUNRR2pTS0hoS2ZJUUEyc2psRGlqaGR6NlNmeERTbXZtRGw2eldKd2fSAZsBQVVfeXFMT0VxaXFrMkFJMlZuNENnZjM4TWtoTzg4MlpNMWxJNzNGNlFfd2RhZ0lXV21YTVlHNngzVDB2NGphcWN2dVVpN0pGMUxjTGZtQkhxU0oxTWxBTW5rYWY0NzI3eEhoc1U5YWM1OXFqSHZRUTV5Q2N0YzE4a0JYdHJoNk1VcmZwQ3FDa2hfQUE5eHNzZU90U1VtR3lsbG8?oc=5)
 
 ---
 

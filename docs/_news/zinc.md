@@ -14,7 +14,7 @@ permalink: /news/zinc/
 ---
 
 <p class="key-answer" data-question="Zinc 有什麼相關新聞？">
-<strong>Zinc</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zinc</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/zinc/
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [El "virus nuevo", el "experimento encubierto" o el zinc como tratamiento: los bulos que opacan la realidad del hantavirus](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHRtUEs4X1AzRm5UZE5mRWtQWUhZU0pYZHZQZ0lNdTVhLW4yRnNXRU9PNldBX3ZFVFRhZ3ZXRkpDWGtqb3VwNlYtTUdnbEdWUHR5TjRzdXVBZzVfR0hKYmYway1xcm1GNVZQLWZMVkc5aW1mcTV3ekgwM3dEdkNlWDkwSFVDd1RfS0xEbzluYW9jUVdvbmNWbW8xbms0OE5DNlg2TjlISHVtam1nUFJsbFdNZFhybjVCR2tMX1duSk1MT0YtUVZB0gHMAUFVX3lxTFBxd2pnT1JudmNta2JKQnVpUkoxSmw5ekoyT0E1eVRDRkNXOXpQZEEybXRMNzhmTVFmZ3dQR2lzcG5VN2hMa1NZaFFlVjZfb1RZcTJTbGFVcjB4V0YwQ3A5bVJyMTRBaHpGY0duTV9EWnNzanJObHJhYUdkUjhDelJOOE91RnQzdzVvQm13QWxaLWpXakFJSFVzZy1WMnpFNi1GOVpwMTI2YUZQUGNJVlFhbmxjM2tBMHJGX3BxR2FnVlhKdmhxMG9qQTFvTg?oc=5)
+
+2026-05-10 <span class="news-drug-tag">Zinc</span>
+
+來源：[Elplural.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHRtUEs4X1AzRm5UZE5mRWtQWUhZU0pYZHZQZ0lNdTVhLW4yRnNXRU9PNldBX3ZFVFRhZ3ZXRkpDWGtqb3VwNlYtTUdnbEdWUHR5TjRzdXVBZzVfR0hKYmYway1xcm1GNVZQLWZMVkc5aW1mcTV3ekgwM3dEdkNlWDkwSFVDd1RfS0xEbzluYW9jUVdvbmNWbW8xbms0OE5DNlg2TjlISHVtam1nUFJsbFdNZFhybjVCR2tMX1duSk1MT0YtUVZB0gHMAUFVX3lxTFBxd2pnT1JudmNta2JKQnVpUkoxSmw5ekoyT0E1eVRDRkNXOXpQZEEybXRMNzhmTVFmZ3dQR2lzcG5VN2hMa1NZaFFlVjZfb1RZcTJTbGFVcjB4V0YwQ3A5bVJyMTRBaHpGY0duTV9EWnNzanJObHJhYUdkUjhDelJOOE91RnQzdzVvQm13QWxaLWpXakFJSFVzZy1WMnpFNi1GOVpwMTI2YUZQUGNJVlFhbmxjM2tBMHJGX3BxR2FnVlhKdmhxMG9qQTFvTg?oc=5)
+
+---
 
 
 <div class="disclaimer">
