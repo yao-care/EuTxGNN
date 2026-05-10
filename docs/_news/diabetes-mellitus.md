@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,23 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Zehn Minuten nach dem Essen senken Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkNLbGNnbHA5clh6NnloRVdfWjVHRjBveVZhQk9QNkxXUkVGd0tlNTVERHg4RzEwWnFkSnFjRXk4cWxjUkdvXzM3b3U0Ry1aTXljejkwSHV5LTVab1BkSVhvMFhEYi1CbVRhcmhUOEVCcW1Qd1E1ejdjSFRBcHI1Q3BnQVI3MnFWQW9idUNTR1NMa0hLZ0RlaDQ5N3dVWEVf?oc=5)
+
+2026-05-10
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkNLbGNnbHA5clh6NnloRVdfWjVHRjBveVZhQk9QNkxXUkVGd0tlNTVERHg4RzEwWnFkSnFjRXk4cWxjUkdvXzM3b3U0Ry1aTXljejkwSHV5LTVab1BkSVhvMFhEYi1CbVRhcmhUOEVCcW1Qd1E1ejdjSFRBcHI1Q3BnQVI3MnFWQW9idUNTR1NMa0hLZ0RlaDQ5N3dVWEVf?oc=5)
+
+---
+
+### [Creíamos que Ozempic era solo para adelgazar. La ciencia está viendo que puede acabar con el alcoholismo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUtwV0FPX2oxdmZpNl82cGo1S0p0bmN0REp4YVZnanhGc1oyMFAxWkxicTR0UUR4YkEwcFR6TklZVGRhUTdVZS1vdjNTVzBESEFURHByVUtqejFpaFN4cy05bXdtbVFQNDBZMW52MTZ2U2NEaFQ5SHRGZ0U5MHBQeDZ3bER3QXlieWJSNm5TS2NWb3hSZ3FRcmQxOTQtd3hvQ3pYUTJGNGpYM1g3SmR1Q3cta1lBQzR2UUl1S3A1Wi1VdjgyWXpWX1JQNFpKZ9IB0wFBVV95cUxPWERwdU92cl9lc0lRMy1SWl9mNEpibjk5R1FmUVdLLUNPdlAzRmVlS0J6U0ZoM2swb1dxbi1SQmQwQ1poeVZIdzRzSWpHZjJURmJXNGFhcUxiVjlsSDFWYk5UNWQyVDBFZTBRQXFjNXhla1l0SVNET2tPSmE0Y2I5ODM5S1lQcDNJVUNVcnAtcU5aY2lGSDJOcnJnd21Ba192WkVxVk4yb1FsR0c4T0RsZnRqT04xWElsaHo3cTFES2FtYW5yNVpJc2lMczBiWUktYXRR?oc=5)
+
+2026-05-10
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUtwV0FPX2oxdmZpNl82cGo1S0p0bmN0REp4YVZnanhGc1oyMFAxWkxicTR0UUR4YkEwcFR6TklZVGRhUTdVZS1vdjNTVzBESEFURHByVUtqejFpaFN4cy05bXdtbVFQNDBZMW52MTZ2U2NEaFQ5SHRGZ0U5MHBQeDZ3bER3QXlieWJSNm5TS2NWb3hSZ3FRcmQxOTQtd3hvQ3pYUTJGNGpYM1g3SmR1Q3cta1lBQzR2UUl1S3A1Wi1VdjgyWXpWX1JQNFpKZ9IB0wFBVV95cUxPWERwdU92cl9lc0lRMy1SWl9mNEpibjk5R1FmUVdLLUNPdlAzRmVlS0J6U0ZoM2swb1dxbi1SQmQwQ1poeVZIdzRzSWpHZjJURmJXNGFhcUxiVjlsSDFWYk5UNWQyVDBFZTBRQXFjNXhla1l0SVNET2tPSmE0Y2I5ODM5S1lQcDNJVUNVcnAtcU5aY2lGSDJOcnJnd21Ba192WkVxVk4yb1FsR0c4T0RsZnRqT04xWElsaHo3cTFES2FtYW5yNVpJc2lMczBiWUktYXRR?oc=5)
+
+---
 
 ### [Experts reveal the exact number of steps per day you need to boost health - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
 
@@ -140,11 +156,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Ernährung als Medizin: Vier Diäten reduzieren drastisch das Diabetes-Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXQ4N3Y2bEsyNjZHQzhXN0JiZW9sYUFJdF9jMk9IWHZDNjktbm9GV0F4OEhtcWlLYlRuYWpGZURDWVdxWC1IOUVReVU4T09WLUtsTG1PMXRpVkFVTXJQdlRUbWFaaWNOb3gzZHM2TXR2QzRfS19lMkNCc0lzcF8xWGFRV1JLWmIzZWRFTkdrRGgzWE10MlF3QTlER3o2ZGtGNWtSN0dldXIzU3Fs?oc=5)
+### [Prediabete, come scoprirlo ed evitarlo: l'unica cura è agire sullo stile di vita - Corriere della Sera](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTi14Q3Bwb3FqTHMzeENtNlRnRnd5U0NfVndtaUM0Nnh0bU9BVzRlbVNvNFVnN2J5UGhzVDBueHkzTkc2UmRjRDV1WVlXRmsyZmdQMC1BSUhRT3owY3J6NXJmalZCczd1SzZQNVdVX3U2WGVoY3ZNb0lGZjlNWVUzX1BDMmpEeFJ1R3QyZXRTbHNkaEJaOTlNRmlXd3Q1ZjZ0d3Mtbng1UkhSRVluT0ZFdlNxTWFJbXdYVHQzdU1jRl9vZjBsWUhaUmdFMURMb1FsNkgyMWdHa28yTDZ4WFBERUROdWVhamxSZ09PV0R1M0FQTzlqcjNLck1hMnhRMGZNZDUw0gGIAkFVX3lxTE5qT3ZhV2VZeGtZaVFjY1o1TmlxWUxtaTVQRTVCMzg2REJRLXVQUjdmU2JWc2xSV2xXV2gxY0tLR3l5UnBObzdvcEtTZWF3TjhRbDNYMDNUcHpSa0ZSenlsaWVfS3NvY3B6amlyVE41WmY4eF8xcFNHa1RWSng0bmVhYWFOYllzT1pxQnVBc2VfZk5xZDJvLU9oWHZkUjhMaHVacl9FNjhrNWZfWUlVLUlrLXFFVGs5T2pqT3RFYjZtRUllX2FpU0VQTV9jRmktdnlfYmNfODI5dmY4LWtlc1dvZ1ptQXkzREFUSGRhdHhNYlRvdVhkYi1QSUhYbkdLdUl3SUFtc3RUaA?oc=5)
 
 2026-05-09
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXQ4N3Y2bEsyNjZHQzhXN0JiZW9sYUFJdF9jMk9IWHZDNjktbm9GV0F4OEhtcWlLYlRuYWpGZURDWVdxWC1IOUVReVU4T09WLUtsTG1PMXRpVkFVTXJQdlRUbWFaaWNOb3gzZHM2TXR2QzRfS19lMkNCc0lzcF8xWGFRV1JLWmIzZWRFTkdrRGgzWE10MlF3QTlER3o2ZGtGNWtSN0dldXIzU3Fs?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTi14Q3Bwb3FqTHMzeENtNlRnRnd5U0NfVndtaUM0Nnh0bU9BVzRlbVNvNFVnN2J5UGhzVDBueHkzTkc2UmRjRDV1WVlXRmsyZmdQMC1BSUhRT3owY3J6NXJmalZCczd1SzZQNVdVX3U2WGVoY3ZNb0lGZjlNWVUzX1BDMmpEeFJ1R3QyZXRTbHNkaEJaOTlNRmlXd3Q1ZjZ0d3Mtbng1UkhSRVluT0ZFdlNxTWFJbXdYVHQzdU1jRl9vZjBsWUhaUmdFMURMb1FsNkgyMWdHa28yTDZ4WFBERUROdWVhamxSZ09PV0R1M0FQTzlqcjNLck1hMnhRMGZNZDUw0gGIAkFVX3lxTE5qT3ZhV2VZeGtZaVFjY1o1TmlxWUxtaTVQRTVCMzg2REJRLXVQUjdmU2JWc2xSV2xXV2gxY0tLR3l5UnBObzdvcEtTZWF3TjhRbDNYMDNUcHpSa0ZSenlsaWVfS3NvY3B6amlyVE41WmY4eF8xcFNHa1RWSng0bmVhYWFOYllzT1pxQnVBc2VfZk5xZDJvLU9oWHZkUjhMaHVacl9FNjhrNWZfWUlVLUlrLXFFVGs5T2pqT3RFYjZtRUllX2FpU0VQTV9jRmktdnlfYmNfODI5dmY4LWtlc1dvZ1ptQXkzREFUSGRhdHhNYlRvdVhkYi1QSUhYbkdLdUl3SUFtc3RUaA?oc=5)
 
 ---
 

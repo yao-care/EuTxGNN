@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Is it true that eating more eggs could help lower Alzheimer's risk? - Medical News Today](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTJ0UnhxRWwzakxNeTZNcU1ES2hPbjdqTUp6d2FFbVNTdjdKNjhUTGhFSlNYWVctNjRMWUZuQjNtUnR4SEZBdEFNYVZQNTVZeDVmWkcxTmFVTXNIRWJpcWM3dWdRWnhhQ0gya2xQX0NqVWJKbm1ZWFBCd1lrQmdPQ0V1djNaaWU3Z29VTzh1LXJCSElWWXpwV2YyUzI0S045MlE?oc=5)
+### [This breakfast food could cut Alzheimer's risk 'by 27%', study finds - Yorkshire Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcktFV0s4clI3MlF5QXBJNUkwSFh5aFMzeEpES2FNekg1aDh3cDkxS21iTk82X041UFp3SHpEajdHanJZR2pHVnQ4NHE2TjRsLVlmT1dZb1h1b3V1bnpObjZ2NTVDbC03MnoyWW9kZWRMRENrczdoRHNweno4ek5rRFF2WHZ4dFZJVDhLZHpNcS3SAZYBQVVfeXFMTXpTTm04Mml3N1lEcHVPOG1vMkhRZDZsazNCWFBhbUlnLXkwTE9qeXlTaUl0LVZ2MEZkSWpLajlIR3ZNLWtFY1ZWelFDQUVJMVBaaFF2dWdkRjdQa3RpcG96ZDBqN1FLQ3N3T1ZhLW81WnpSVFlFZk42aTVjOGU2akdScE5YRFdmbF9VZzdjZFZhdW5fMENR?oc=5)
 
-2026-05-08
+2026-05-10
 
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTJ0UnhxRWwzakxNeTZNcU1ES2hPbjdqTUp6d2FFbVNTdjdKNjhUTGhFSlNYWVctNjRMWUZuQjNtUnR4SEZBdEFNYVZQNTVZeDVmWkcxTmFVTXNIRWJpcWM3dWdRWnhhQ0gya2xQX0NqVWJKbm1ZWFBCd1lrQmdPQ0V1djNaaWU3Z29VTzh1LXJCSElWWXpwV2YyUzI0S045MlE?oc=5)
-
----
-
-### [Neurology Experts Explain Early Warning Signs of Dementia](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzhfQ1FHTXo1N0RISVlkZkxFd2tmTFhuYmJ2R3IycklSX09zdGh0UzJGdGR3b2FqdmkzZ2g4ZGlvQllqMDJzQ1p2UkVCbzlHc3dOZGdKNmNCWndaUlVYc3hfSUtGMUM5TWdFeGwyYnZGbWtubS14MjloNzVDU21ZTWdXSlg0enYxc1NFSnR2R3R4aUc4VnpMcTA3bHdUUWRC?oc=5)
-
-2026-05-08
-
-來源：[Prevention](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzhfQ1FHTXo1N0RISVlkZkxFd2tmTFhuYmJ2R3IycklSX09zdGh0UzJGdGR3b2FqdmkzZ2g4ZGlvQllqMDJzQ1p2UkVCbzlHc3dOZGdKNmNCWndaUlVYc3hfSUtGMUM5TWdFeGwyYnZGbWtubS14MjloNzVDU21ZTWdXSlg0enYxc1NFSnR2R3R4aUc4VnpMcTA3bHdUUWRC?oc=5)
+來源：[Yorkshire Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcktFV0s4clI3MlF5QXBJNUkwSFh5aFMzeEpES2FNekg1aDh3cDkxS21iTk82X041UFp3SHpEajdHanJZR2pHVnQ4NHE2TjRsLVlmT1dZb1h1b3V1bnpObjZ2NTVDbC03MnoyWW9kZWRMRENrczdoRHNweno4ek5rRFF2WHZ4dFZJVDhLZHpNcS3SAZYBQVVfeXFMTXpTTm04Mml3N1lEcHVPOG1vMkhRZDZsazNCWFBhbUlnLXkwTE9qeXlTaUl0LVZ2MEZkSWpLajlIR3ZNLWtFY1ZWelFDQUVJMVBaaFF2dWdkRjdQa3RpcG96ZDBqN1FLQ3N3T1ZhLW81WnpSVFlFZk42aTVjOGU2akdScE5YRFdmbF9VZzdjZFZhdW5fMENR?oc=5)
 
 ---
 

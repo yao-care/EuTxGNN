@@ -14,7 +14,7 @@ permalink: /news/fulvestrant/
 ---
 
 <p class="key-answer" data-question="Fulvestrant 有什麼相關新聞？">
-<strong>Fulvestrant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fulvestrant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ permalink: /news/fulvestrant/
 <li>brachydactyly-syndactyly syndrome（99.3%）</li>
 <li>hemoglobinopathy（99.3%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.2%）</li>
-<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（99.2%）</li>
 <li>pyropoikilocytosis, hereditary（99.1%）</li>
 <li>beta-thalassemia with other manifestations（99.0%）</li>
 <li>partial deletion of the short arm of chromosome 16（99.0%）</li>
@@ -52,23 +52,9 @@ permalink: /news/fulvestrant/
 <p><a href="{{ '/drugs/fulvestrant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Phase-3-Studie weist auf Wirksamkeit von Guselkumab bei aktiver Psoriasis-Arthritis hin – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
-
-2026-05-08 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPekZtajU3bVc4dTdiU2xBTlVZZnZmRkc0dUdJX3g1V0hVZmhlUUlxUng2WnJNQnk5c3gxZzVkNmhITmRONDFZMkRLd3dEWmdlLVVabHRVVElySEtlN2o1cThYT2hERlFrbXhlTUZOQzdhZU9XY3BkOFBBbEZRVFluT3IxTUpwd01BdnU1SkdtdGdpa1Y0c1dxdGpBdkV3bnpuWHlhaldWVjVzV3FpOHRZOHFweWZxWjZlYjlPa2w1c29RUnNHc1Z6a0RIUUdvaVFvclJLd1YyNmdMM1hjZ0hnalVVMmlFdV9ia2EwcQ?oc=5)
-
----
-
-### [Eleven arthritis remedies that really work (and others to be wary of) - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQUzZENldHVkN6TVEtUndPUnlFU3h2LURITXF4NkVWbnRIVWIyM0xBdWpxbG44SFg4VDVMZS1GZ1VQM1U5S25VbU5jSmMxWlRJZzF2am8tejhFbi1NUUw1dnc1RC1GVDhJT29fWW5QWENtbEZPT1VMU2VVeHExV2l6S2pyamI1d1RYSkg3Ty0xSUloSXcwUGFDalloTmtTZw?oc=5)
-
-2026-05-08 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQUzZENldHVkN6TVEtUndPUnlFU3h2LURITXF4NkVWbnRIVWIyM0xBdWpxbG44SFg4VDVMZS1GZ1VQM1U5S25VbU5jSmMxWlRJZzF2am8tejhFbi1NUUw1dnc1RC1GVDhJT29fWW5QWENtbEZPT1VMU2VVeHExV2l6S2pyamI1d1RYSkg3Ty0xSUloSXcwUGFDalloTmtTZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

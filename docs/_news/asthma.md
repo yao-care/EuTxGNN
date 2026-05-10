@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,29 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [El aviso de la viróloga Margarita del Val sobre el hantavirus y una posible pandemia: «Es bastante más grave que el coronavirus...» - Las Provincias](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlF1cU5GZk1SYzJnVkNpZUkteERyMi1SNVZGXzhxSXBwX0hLR1FER19xZklvVnVWYnRNeVVyRlJBUXFCdGcyUVJ6SzBqandPVWFrcXdTNHpIa2NReE8wbnNqUk5Vd0ZWT09ZMDh6MDJEeHNoV2tSakZXbWdQT1ZGbVplOW1hVXB3TlRVTWpRLW1fc0V6OGFRSmxSQTVfNVdqRmczMU92bTZzUm54R3Z5LTBnRTTSAboBQVVfeXFMTjJ1TFFReXN1QTZyMm9weU8zTXlvZ2V3azVlbTZyZHc1ZC1iWnQzRzJFQTNVV0d4S0gxTGtHcERxWHZsTEw3eVdTU0M2MjlCVVlGOWJVaEVZX3M5UF9XRU1HaURnWE9yNFFYcVZNOS1VVXZ0Mk9TV0RpTHhzTEJlZFY5Ymdhd24xZFFjWXo5TjdGcVRmTkJOVGF5ci1pUW5WME56Q1JFZGxjZmtYcTNvRkhueE9ETnBBVWp3?oc=5)
+
+2026-05-09
+
+來源：[Las Provincias](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlF1cU5GZk1SYzJnVkNpZUkteERyMi1SNVZGXzhxSXBwX0hLR1FER19xZklvVnVWYnRNeVVyRlJBUXFCdGcyUVJ6SzBqandPVWFrcXdTNHpIa2NReE8wbnNqUk5Vd0ZWT09ZMDh6MDJEeHNoV2tSakZXbWdQT1ZGbVplOW1hVXB3TlRVTWpRLW1fc0V6OGFRSmxSQTVfNVdqRmczMU92bTZzUm54R3Z5LTBnRTTSAboBQVVfeXFMTjJ1TFFReXN1QTZyMm9weU8zTXlvZ2V3azVlbTZyZHc1ZC1iWnQzRzJFQTNVV0d4S0gxTGtHcERxWHZsTEw3eVdTU0M2MjlCVVlGOWJVaEVZX3M5UF9XRU1HaURnWE9yNFFYcVZNOS1VVXZ0Mk9TV0RpTHhzTEJlZFY5Ymdhd24xZFFjWXo5TjdGcVRmTkJOVGF5ci1pUW5WME56Q1JFZGxjZmtYcTNvRkhueE9ETnBBVWp3?oc=5)
+
+---
 
 ### [Moderna investiga ya una posible vacuna frente al hantavirus - El Globalfarma](https://news.google.com/rss/articles/CBMib0FVX3lxTE83YXMyNzJPSUFaOS16SnF5MGNONVBLOU1rNVJEUzBLdHY3ZnNMZzVVRU1HVE9uaWJLR0xrdXR2cEVRY25QcDZWUjAwRUI1MG1nbTNQWFF3ZTZPMkVNYmp2WlB1SC1FUnNZa0RIM2Z6aw?oc=5)
 
 2026-05-09
 
 來源：[El Globalfarma](https://news.google.com/rss/articles/CBMib0FVX3lxTE83YXMyNzJPSUFaOS16SnF5MGNONVBLOU1rNVJEUzBLdHY3ZnNMZzVVRU1HVE9uaWJLR0xrdXR2cEVRY25QcDZWUjAwRUI1MG1nbTNQWFF3ZTZPMkVNYmp2WlB1SC1FUnNZa0RIM2Z6aw?oc=5)
+
+---
+
+### [El asma: cómo reconocer sus síntomas y por qué el inhalador no siempre se usa bien - Cadena SER](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODk3bWFmeWRQUmgyeEFiZG4wd3RZLTRkTWVHcjFJRkt6UVVNaVh2SjZjRjBjNXh2VnFMd3RVRTN2RndlMUZUc21NU0JyUEdRM1Z0UmRNVnFPY3VqdGZtTEswRmlxYjhUeUttVGFUZnFlSnpTMWQ1MG1lclItSzB0QWxiaFFPbVJuSVNVOS1rYkJLTEhoYkNoR25tamI2ZmVRMl9Ianp6ekVyOEEzOXo2cmw5a2thcVBSUXRneGdjbzdwUmxQanduSTlGdjJpWi1mMWfSAeYBQVVfeXFMUG9WazB3WWlSeVB6T3lxUFl6NkJicHNQOVVtUi1qbFVLT2EyYkVVdnJlYUpRWlhpWDJhN2J0a0Rock02ajgxckdIRFl5MHNCVjAyV2VXMkFUVHloZGhZbWo4X2JoRzl6eW45R3I4S1pJRy1sSjUzOXdoSmVIckVRYkJyNUpMTDVPNC1PdkUxZzNjZG1wemg5akVsaEEtNWFFUC11bmMzNV9jMHB5SmU5bXNNakJ3UTNHMUN2bWpUa2dEQmV5bzdJZWZHTTZoZ3Z0TUpKYWU3NHNTNUJfSEZWVDdkSERRU3c?oc=5)
+
+2026-05-09
+
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODk3bWFmeWRQUmgyeEFiZG4wd3RZLTRkTWVHcjFJRkt6UVVNaVh2SjZjRjBjNXh2VnFMd3RVRTN2RndlMUZUc21NU0JyUEdRM1Z0UmRNVnFPY3VqdGZtTEswRmlxYjhUeUttVGFUZnFlSnpTMWQ1MG1lclItSzB0QWxiaFFPbVJuSVNVOS1rYkJLTEhoYkNoR25tamI2ZmVRMl9Ianp6ekVyOEEzOXo2cmw5a2thcVBSUXRneGdjbzdwUmxQanduSTlGdjJpWi1mMWfSAeYBQVVfeXFMUG9WazB3WWlSeVB6T3lxUFl6NkJicHNQOVVtUi1qbFVLT2EyYkVVdnJlYUpRWlhpWDJhN2J0a0Rock02ajgxckdIRFl5MHNCVjAyV2VXMkFUVHloZGhZbWo4X2JoRzl6eW45R3I4S1pJRy1sSjUzOXdoSmVIckVRYkJyNUpMTDVPNC1PdkUxZzNjZG1wemg5akVsaEEtNWFFUC11bmMzNV9jMHB5SmU5bXNNakJ3UTNHMUN2bWpUa2dEQmV5bzdJZWZHTTZoZ3Z0TUpKYWU3NHNTNUJfSEZWVDdkSERRU3c?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression（depression） 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# dépression（depression） 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Depression per Bluttest: Neue Biomarker revolutionieren Diagnostik - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWE53bjdmYXZubkhULXJVV2owVGozQVU4bkVTVXRQb2lCWU4wYnpvaEd4MWNIRE8yWjhCQ01YeGZod01GRjlCUUlmUXlIZkl1NDgza19rX0h5RkUyaXpTSklDVTJCdW5uTldTQmt1eWN5ekVIU21qMDZqNUNMNHdEU2Z6elY0WXNra1BSZVgtTFB1UG04cnlyRnphNUVfX09JS25kNTd0LWF5LVphRzNBTmJWTUU?oc=5)
+### [Ejercicio aeróbico: el hábito que puede reducir la depresión y la ansiedad tanto como la terapia o los medicamentos](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYTYwQ2RGSmJrZ29VbGo0R2lFS2pMb0VyVnFPVThvVmpodE1jRUlNczFZMzZzYzVTeFBjT0RuX1JHSlRYbU9wOEw5OEdQZ3d2Y3VUS2VfRV96YUhIaWxvbUsxZUFWSGg2QXAyNEJRNm43SnlSeklFNUZ4MUZzYlhiZDU0NWlNSHc5eHI0TzlveTNSV3M5aGVlcENZcm1aWWs3ZFpNbXQ5TGFqZVBUcDhpR3JaaEVLcFg2X1hCME5RZkVMeEdsRmx1R2tUcC03a0Y5a0Y1dW1OYUdKb2ZjbEhlRGxjTWk4VDF0Q1FletIBhwJBVV95cUxPa0F5VkJUWkVSc2RVdzY5ZzZaTHFYM0pFeU9DU1dnVGF2QkhCV25PWW1LZG9Td3FYek9lNVhtVzQybzdJN0IxaWdnWVQtQ3lqMDY1UEFmVUVjWU90c0QxVjFKVDVRSUY0c1pzS2JXcDFqQ3VuaG9QU182UkhQMVNqc1BxeU16VUxnS0VSeERMdjEzTFNxcHRQZTZGdTdIclBYZ1Y2enZmNFVXejAtdlpscVhPUTZLSDZLVGhwYzZmZGh5MnNTLWdfd0FTQy0yQjNTMDFSSHI1V3E4OHVRQVJ5TExJS2J2Y1NwMlVYUkRxbXZicEFmSmpvbk5KUzcwN1JvX3lDN1BzSQ?oc=5)
 
 2026-05-09
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWE53bjdmYXZubkhULXJVV2owVGozQVU4bkVTVXRQb2lCWU4wYnpvaEd4MWNIRE8yWjhCQ01YeGZod01GRjlCUUlmUXlIZkl1NDgza19rX0h5RkUyaXpTSklDVTJCdW5uTldTQmt1eWN5ekVIU21qMDZqNUNMNHdEU2Z6elY0WXNra1BSZVgtTFB1UG04cnlyRnphNUVfX09JS25kNTd0LWF5LVphRzNBTmJWTUU?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYTYwQ2RGSmJrZ29VbGo0R2lFS2pMb0VyVnFPVThvVmpodE1jRUlNczFZMzZzYzVTeFBjT0RuX1JHSlRYbU9wOEw5OEdQZ3d2Y3VUS2VfRV96YUhIaWxvbUsxZUFWSGg2QXAyNEJRNm43SnlSeklFNUZ4MUZzYlhiZDU0NWlNSHc5eHI0TzlveTNSV3M5aGVlcENZcm1aWWs3ZFpNbXQ5TGFqZVBUcDhpR3JaaEVLcFg2X1hCME5RZkVMeEdsRmx1R2tUcC03a0Y5a0Y1dW1OYUdKb2ZjbEhlRGxjTWk4VDF0Q1FletIBhwJBVV95cUxPa0F5VkJUWkVSc2RVdzY5ZzZaTHFYM0pFeU9DU1dnVGF2QkhCV25PWW1LZG9Td3FYek9lNVhtVzQybzdJN0IxaWdnWVQtQ3lqMDY1UEFmVUVjWU90c0QxVjFKVDVRSUY0c1pzS2JXcDFqQ3VuaG9QU182UkhQMVNqc1BxeU16VUxnS0VSeERMdjEzTFNxcHRQZTZGdTdIclBYZ1Y2enZmNFVXejAtdlpscVhPUTZLSDZLVGhwYzZmZGh5MnNTLWdfd0FTQy0yQjNTMDFSSHI1V3E4OHVRQVJ5TExJS2J2Y1NwMlVYUkRxbXZicEFmSmpvbk5KUzcwN1JvX3lDN1BzSQ?oc=5)
+
+---
+
+### [Diagnose per Bluttest? Wie die DNA-Alterung Depressionen entlarvt - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxONWVxa1pHWjd4XzZ2ZEwtdDA2Zmc4RUlyelpzNG9KN2h6MVlMbFg0bHFiZFVPTHJxbHRSZnNEcldXbEVZN2tTaWE5SEdqbFpuS1N1UmRUUXNVSVdWdk4xT1hhM1FNdVVvNEpsQzgyTjhCanJyYV9wZ2dEaGEwSDVOU3FMYVBEZ0tMc2c4emgwbnJGYmlhZ0ZLa3BjeTNPZmxmOGJwc3FMRlg2Y1VxMlotdmZPSUFNVHRLTlJtVjBpUjZRRHF3VGlF?oc=5)
+
+2026-05-09
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxONWVxa1pHWjd4XzZ2ZEwtdDA2Zmc4RUlyelpzNG9KN2h6MVlMbFg0bHFiZFVPTHJxbHRSZnNEcldXbEVZN2tTaWE5SEdqbFpuS1N1UmRUUXNVSVdWdk4xT1hhM1FNdVVvNEpsQzgyTjhCanJyYV9wZ2dEaGEwSDVOU3FMYVBEZ0tMc2c4emgwbnJGYmlhZ0ZLa3BjeTNPZmxmOGJwc3FMRlg2Y1VxMlotdmZPSUFNVHRLTlJtVjBpUjZRRHF3VGlF?oc=5)
 
 ---
 
