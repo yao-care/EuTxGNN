@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
-### [La Alianza MSD-AstraZeneca pone en marcha la segunda edición de la iniciativa 'Mi historia continúa' - Redacción Médica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNUFocFhDOVUxd3NFUEtsbzFLbHBKUTJOMkJ4cmszRHZ4YjFTc0d6N0l2ZGNoUVVNUGl0VXJaTnM3THc1cWtqT1hRcDJyMnpHR05FaWFUdFNWSFhBcnNqT0tHeHBoS3p4aGJySjR4dFhCYV9WMWtwVFFRdDJiQzUzVlY4bDU1Y2xfc3pFdnd3Q3BZaWljTUdjOFN6MkpVYlNuWmp5bDFfSFZlaFdXVmoyNlljZ1RGNk5wWXBwdlBhVmFhdUp1QlZWMEJrQzNYNUFGZS15ZEdURENHYXdaOUg1OUpUNTZsMG1yclRF0gHrAUFVX3lxTE9OR3BFM3BQUXRMNC1nYVUzYVhxM1d0Q0RTYzNIdzVIbklXeWtCdkhoenNNZy1oaUpURUFLR21IMFdpR20yaUZTc1Nfa1FOZTZGOVN5a3kwaUJkOUZ4TEJWaWM4aTlya2V0T3BOQ1hWT3pGdmtPNlBNMVJfcWZ2djZ2cEplbGs1WDMwQS1oaHZIUUxsY2FSS0NGMTdqeVhZQ2tXOGRYU0VucFZZLVlNblBFRFBENkdnRXBMWXZQM2FPZ1YwN01HTG85YlJXbkd2SXducjJma1V4d0RTUGtieUJvZmkxNGRvSWpFdzA?oc=5)
+### [Pacientes con cáncer de ovario exigen unidades de referencia ante diagnósticos en fases tardías](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmJqb0dnNGQxS0dnamxhcUZOZm1ibHNoLURaZ0dZc0lfVkU5dUt1UFZpS1RWWDNLRFhuVFB6ZzB4QVdDTUI5YmxXZDhkRTRBTXNlaHY3c2tmN3lwcW05NnZScmhDQTZBNFlTUW5Bd3pWUldqSnJuRndsVTVrUGdsMERwNmQ1R1E2ankyZmlkMHctNXJJQ0d5VU44UThEaVB6ZDItNC1Lanp0TE5JT0wwQ2cxZUJLS181ZHlnVHAtckJTNlNwQ1RycdIBzgFBVV95cUxPVmNYb1pLSFEzQlhHRTY0S3JmVGxBYjB1OGJZeDh1emMyLUwyM2pvNGcxMS0ydEZGT05PbG1vR3R5VW00WEFDckdZamhRYmlSMzVhR0V3cXJPcF9VaFZmVDIwMlJScy12Q3c1VDVSVEdTUURCOGd1OGwwMnIxTGJ0VTdacHB5Wng4Q21GcEJLNkJocjd1WWQ2TmVULVdXZnpvT0RfSUhGMzROcHpDbW4wNkxJLXBZbllNa0JSTDBWZTBBQ3Q5d2RVYnl0V1g5dw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmJqb0dnNGQxS0dnamxhcUZOZm1ibHNoLURaZ0dZc0lfVkU5dUt1UFZpS1RWWDNLRFhuVFB6ZzB4QVdDTUI5YmxXZDhkRTRBTXNlaHY3c2tmN3lwcW05NnZScmhDQTZBNFlTUW5Bd3pWUldqSnJuRndsVTVrUGdsMERwNmQ1R1E2ankyZmlkMHctNXJJQ0d5VU44UThEaVB6ZDItNC1Lanp0TE5JT0wwQ2cxZUJLS181ZHlnVHAtckJTNlNwQ1RycdIBzgFBVV95cUxPVmNYb1pLSFEzQlhHRTY0S3JmVGxBYjB1OGJZeDh1emMyLUwyM2pvNGcxMS0ydEZGT05PbG1vR3R5VW00WEFDckdZamhRYmlSMzVhR0V3cXJPcF9VaFZmVDIwMlJScy12Q3c1VDVSVEdTUURCOGd1OGwwMnIxTGJ0VTdacHB5Wng4Q21GcEJLNkJocjd1WWQ2TmVULVdXZnpvT0RfSUhGMzROcHpDbW4wNkxJLXBZbllNa0JSTDBWZTBBQ3Q5d2RVYnl0V1g5dw?oc=5)
+
+---
+
+### [Hospital visiting advice issued as gastro infections spread - Highland Radio](https://news.google.com/rss/articles/CBMingFBVV95cUxPY0tyVEd0U0ZtakVvbmh2ZFl0TnEyVHdsV1JsZjZjc2NfaGRGR2hsN0gwaG1CQjk4VkZ6LUlWQVRKY0dIVFhWTVpJOWh0V0ZBVlpCV3l2UUZNeDllanduY3AwdGdGcHZoV05iSTJYUDN0a3hYQnhCQnRQb2Z2QVlvUFRZYjQ2ZDh6bFB2V2Z5Zi1Ubm9SZnRjdVgxVUFHZw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span>
+
+來源：[Highland Radio](https://news.google.com/rss/articles/CBMingFBVV95cUxPY0tyVEd0U0ZtakVvbmh2ZFl0TnEyVHdsV1JsZjZjc2NfaGRGR2hsN0gwaG1CQjk4VkZ6LUlWQVRKY0dIVFhWTVpJOWh0V0ZBVlpCV3l2UUZNeDllanduY3AwdGdGcHZoV05iSTJYUDN0a3hYQnhCQnRQb2Z2QVlvUFRZYjQ2ZDh6bFB2V2Z5Zi1Ubm9SZnRjdVgxVUFHZw?oc=5)
+
+---
+
+### [Hantavirus no representa riesgo epidémico, pero el sarampión sí mantiene brotes activos: Dra. Flor Pujol - La Web de la Salud](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXM0c1hfRXd0eEgxeHp4Uk1ycTRueTJvTF9MckR5SGg3ZE9HMkFtVlBsTzRIcWpYTVJtYm8tTENOWmZnRGZlczFEMDQzUUdGOWI1UGZ5aFdNUGYtbkh3R2tqU09zTE8ydEJhWUE5RlNNamppdV90ci1vVHhzdC1hQ29vNjVKTnQ4ZW5QV3ZCbDRPM0x1cXlIS1o1aVBCSEZKUmZ1cVNuTHFTQk5qcm5pTnlzcjNEV084MjROejlaaElaTDRNSkZzNQ?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNUFocFhDOVUxd3NFUEtsbzFLbHBKUTJOMkJ4cmszRHZ4YjFTc0d6N0l2ZGNoUVVNUGl0VXJaTnM3THc1cWtqT1hRcDJyMnpHR05FaWFUdFNWSFhBcnNqT0tHeHBoS3p4aGJySjR4dFhCYV9WMWtwVFFRdDJiQzUzVlY4bDU1Y2xfc3pFdnd3Q3BZaWljTUdjOFN6MkpVYlNuWmp5bDFfSFZlaFdXVmoyNlljZ1RGNk5wWXBwdlBhVmFhdUp1QlZWMEJrQzNYNUFGZS15ZEdURENHYXdaOUg1OUpUNTZsMG1yclRF0gHrAUFVX3lxTE9OR3BFM3BQUXRMNC1nYVUzYVhxM1d0Q0RTYzNIdzVIbklXeWtCdkhoenNNZy1oaUpURUFLR21IMFdpR20yaUZTc1Nfa1FOZTZGOVN5a3kwaUJkOUZ4TEJWaWM4aTlya2V0T3BOQ1hWT3pGdmtPNlBNMVJfcWZ2djZ2cEplbGs1WDMwQS1oaHZIUUxsY2FSS0NGMTdqeVhZQ2tXOGRYU0VucFZZLVlNblBFRFBENkdnRXBMWXZQM2FPZ1YwN01HTG85YlJXbkd2SXducjJma1V4d0RTUGtieUJvZmkxNGRvSWpFdzA?oc=5)
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXM0c1hfRXd0eEgxeHp4Uk1ycTRueTJvTF9MckR5SGg3ZE9HMkFtVlBsTzRIcWpYTVJtYm8tTENOWmZnRGZlczFEMDQzUUdGOWI1UGZ5aFdNUGYtbkh3R2tqU09zTE8ydEJhWUE5RlNNamppdV90ci1vVHhzdC1hQ29vNjVKTnQ4ZW5QV3ZCbDRPM0x1cXlIS1o1aVBCSEZKUmZ1cVNuTHFTQk5qcm5pTnlzcjNEV084MjROejlaaElaTDRNSkZzNQ?oc=5)
 
 ---
 
@@ -70,19 +86,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [RNA-Therapie bremst krankhafte Umbauprozesse nach Herzinfarkt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
+### [RNA-Therapie bremst krankhafte Umbauprozesse nach Herzinfarkt - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
-
----
-
-### [El aceite de oliva y el sorprendente efecto en la salud que la ciencia no deja de confirmar](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmlxSXNET0gwY2JXUlEwWVZRTnNEMGt6aF9Bdl83Rm9tSGNmdGpVWFMxSXBOd1Y3YVB3d1hOWmFhZ3h2elM2U3piVENzZ0dRNlNyZzR1anZ5OTB6VXVEZ0k2UU9Ra2xWZG1wM3prcmN2V0RITG52clo2OGdUNnZYRw?oc=5)
-
-2026-05-11 <span class="news-indication-tag">MS</span>
-
-來源：[moncloa.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmlxSXNET0gwY2JXUlEwWVZRTnNEMGt6aF9Bdl83Rm9tSGNmdGpVWFMxSXBOd1Y3YVB3d1hOWmFhZ3h2elM2U3piVENzZ0dRNlNyZzR1anZ5OTB6VXVEZ0k2UU9Ra2xWZG1wM3prcmN2V0RITG52clo2OGdUNnZYRw?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
 
 ---
 
@@ -94,11 +102,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [El nuevo positivo de Hantavirus refuerza la necesidad de una cuarentena de seis semanas](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUpSeXE3ZTVIczZKckRLYXJzTW9QVWE5MnpLQU5uZDVtUDFCODZWUmJiVHhRVEY4ekxmNWs4ZTNQaERhS2VUNktITFVOcUpCTWJZNVRraEU3ZExRamRISVpVUFBidzU2anVOMFloVFQzSk5RVVFja1hncTFaVjh3UExvckRnejFuYWx3T1piV1lURURZTXp0bFptd2ZKcE5fYzRKWmdmUmJiUlNadVVHNVo1dExQZkF5MllZeTdiRC1mM1doLWVHRA?oc=5)
+### ['It's heartbreaking to lose loved ones to dementia'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-11 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUpSeXE3ZTVIczZKckRLYXJzTW9QVWE5MnpLQU5uZDVtUDFCODZWUmJiVHhRVEY4ekxmNWs4ZTNQaERhS2VUNktITFVOcUpCTWJZNVRraEU3ZExRamRISVpVUFBidzU2anVOMFloVFQzSk5RVVFja1hncTFaVjh3UExvckRnejFuYWx3T1piV1lURURZTXp0bFptd2ZKcE5fYzRKWmdmUmJiUlNadVVHNVo1dExQZkF5MllZeTdiRC1mM1doLWVHRA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
+
+---
+
+### [Un superviviente de hantavirus en 2023: “Fue como un infierno en la tierra” - Diario AS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkJJcGJ5dEpIdkl4MWVwc0FQV29MWjBVZUNjOFdiVy1JT1JXYm1RVTJsc0l1eDZiZ0pUSk9NQ0diNzgteDVLeWNxV1daYkVxYk85Z09oLXFLcGs1ZWtDcWZ2Y0hkQWNSZk5pQmtEYUFxalM5eHI3MWpUNkZTV2I2RVB4czlUcnZSUGNaNDliS1kzM3hfeHlEcmdlazB1Q1BoenpiaWZyVEw2WFdpLUVYdjNXWjV1ZHF2LXfSAc4BQVVfeXFMUE1ZSFVrSlN1dndlZnZtWHp1MU83Q1hycU9TUGc4M2I4Qm5zR1E2aXR3N29ZVFROdXRVZElmTGdjRGV5ZkkxOUp4RG1uZ3BFU2NXdXNuTzFDN2tGcHhLam1Pb1RuTmZmaHh2YVMxMGZLZHVaVjBVaGNOMHlRcWUzWlh5NVpmWWdYbm9sS1A4RllXSndhbU1HcTMzbjNXUkIwMzkyV1BPcjUzTF9ObWJaTWZrb2N1WnJPZXc0SXZNUWZOWEhQbHZQcndPalZqSmc?oc=5)
+
+2026-05-10 <span class="news-indication-tag">MS</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkJJcGJ5dEpIdkl4MWVwc0FQV29MWjBVZUNjOFdiVy1JT1JXYm1RVTJsc0l1eDZiZ0pUSk9NQ0diNzgteDVLeWNxV1daYkVxYk85Z09oLXFLcGs1ZWtDcWZ2Y0hkQWNSZk5pQmtEYUFxalM5eHI3MWpUNkZTV2I2RVB4czlUcnZSUGNaNDliS1kzM3hfeHlEcmdlazB1Q1BoenpiaWZyVEw2WFdpLUVYdjNXWjV1ZHF2LXfSAc4BQVVfeXFMUE1ZSFVrSlN1dndlZnZtWHp1MU83Q1hycU9TUGc4M2I4Qm5zR1E2aXR3N29ZVFROdXRVZElmTGdjRGV5ZkkxOUp4RG1uZ3BFU2NXdXNuTzFDN2tGcHhLam1Pb1RuTmZmaHh2YVMxMGZLZHVaVjBVaGNOMHlRcWUzWlh5NVpmWWdYbm9sS1A4RllXSndhbU1HcTMzbjNXUkIwMzkyV1BPcjUzTF9ObWJaTWZrb2N1WnJPZXc0SXZNUWZOWEhQbHZQcndPalZqSmc?oc=5)
 
 ---
 
@@ -123,14 +139,6 @@ permalink: /news/sofosbuvir/
 2026-05-09 <span class="news-indication-tag">MS</span>
 
 來源：[Slipped Disc](https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT3JTSGxUYUl6QXczSFcycUdwYVJDYUlqYTRIRnEzSlFGZnpYMTcxNlF6bzdzaHgzVHdXZHZqQXNUSWxiTVpiQmRrV09HSmlWZ2x1OFpUeXpJTVYtOEFETVk1SzNzYzhGOFlCWEFTN0ZvVGJ1QzR5VFFfcTc?oc=5)
-
----
-
-### [Tiny eye injection may restore vision to damaged retinas](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGlPTjF3MVI3eHF0TFdhM0FmMHhnQmVBUFBlV3hNUmJnSGZucnM1SUdURTFFSXozM1ppdW9MTXl6TjM1U2tTMHNadENhOEVyTjNZUWJHcm1nUmZaUzNWWmNnNE5lUWtiX2xXUlQ0bzZ5NnFIelNNZkFVcnBvQ3RQRi0zNnBuOU1PRnpoUg?oc=5)
-
-2026-05-09 <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGlPTjF3MVI3eHF0TFdhM0FmMHhnQmVBUFBlV3hNUmJnSGZucnM1SUdURTFFSXozM1ppdW9MTXl6TjM1U2tTMHNadENhOEVyTjNZUWJHcm1nUmZaUzNWWmNnNE5lUWtiX2xXUlQ0bzZ5NnFIelNNZkFVcnBvQ3RQRi0zNnBuOU1PRnpoUg?oc=5)
 
 ---
 

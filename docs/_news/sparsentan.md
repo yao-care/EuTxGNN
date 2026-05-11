@@ -14,7 +14,7 @@ permalink: /news/sparsentan/
 ---
 
 <p class="key-answer" data-question="Sparsentan 有什麼相關新聞？">
-<strong>Sparsentan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sparsentan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/sparsentan/
 <p><a href="{{ '/drugs/sparsentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [El SNS financia un fármaco capaz de modificar la historia natural de la nefropatía por IgA: "Es un hito clínico para esta enfermedad"](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRXNMeG9DRnk5dmlwRm10Zl90UVBlTndQMmQ4bWZTU2diX21DdWlIMWlPcmZFZzZiQXRubHNqZkh3S0VXTHNzREE5d0dvQXlkSTZDT0hhRUNCRkRmV0NZZXFtQi14RmdsRzBzSVlIRTVwM0owZDkzYVlVUTQ4Qmd3X1diY0d2ekk5Ri1sQ0tMaEdVek5lek8wU3hWOUNQZWtHTV9xODExZzFIeDFnTEd2TXdFZ0ZtOUdfMy0waXFrZHd1UVoxeGt1b1JmaktRYzNhRUhwRnFRMFRnZ0F3VDB3aUd6V0xsTzBQYzV5WF9B?oc=5)
+
+2026-05-11 <span class="news-drug-tag">Sparsentan</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRXNMeG9DRnk5dmlwRm10Zl90UVBlTndQMmQ4bWZTU2diX21DdWlIMWlPcmZFZzZiQXRubHNqZkh3S0VXTHNzREE5d0dvQXlkSTZDT0hhRUNCRkRmV0NZZXFtQi14RmdsRzBzSVlIRTVwM0owZDkzYVlVUTQ4Qmd3X1diY0d2ekk5Ri1sQ0tMaEdVek5lek8wU3hWOUNQZWtHTV9xODExZzFIeDFnTEd2TXdFZ0ZtOUdfMy0waXFrZHd1UVoxeGt1b1JmaktRYzNhRUhwRnFRMFRnZ0F3VDB3aUd6V0xsTzBQYzV5WF9B?oc=5)
+
+---
 
 
 <div class="disclaimer">

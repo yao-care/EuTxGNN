@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -54,11 +54,19 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（5 則）
 
-### [Moderna no "tiene lista una vacuna de ARN mensajero" contra las infecciones por hantavirus, a 11 de mayo de 2026](https://news.google.com/rss/articles/CBMipwFBVV95cUxONTQ2NldZTGxWRVFUUUV5SzktSFpOVzY3eFlGNXFfamw5bHhkZzBSaWJUa1VMZUhZaGItUmFPYlpzZC13OElFb080SFFUZXdMZEpVSzk4VTF1eGxmY3J0TUlDc05WYlR2U3BkLWJHUDlULUxMb1FONGVFTTdZU2V3OWxzWTVUUUNZWVk1a3A5ZkczenViMkZDS1U2TzJSRmdZdVRNSTB4bw?oc=5)
+### [Leberwerte verraten Diabetes-Risiko früher als gedacht - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVJ0WXBfUmRPR3RyRUV4ZjZLazBrVWhkOUtuNGRORmRCU0V3RGpRMHlmajBVMFdBSi1mNG54blE4T2g4ZXdmenNaSDlEZlVfY0g5VUNiOU4xb2FzUkRwN3hHajFhOVRNMWZVZk9uOFp2Ny1DRENOY3dsdnZ4WTNEak1rQ3JGOExzelpxQ2cxWFhyQXVocjJnUTJJcG1Hc050MnR1VUdDNA?oc=5)
 
-2026-05-11 <span class="news-indication-tag">asma</span>
+2026-05-11 <span class="news-indication-tag">diabetes</span>
 
-來源：[Maldita.es](https://news.google.com/rss/articles/CBMipwFBVV95cUxONTQ2NldZTGxWRVFUUUV5SzktSFpOVzY3eFlGNXFfamw5bHhkZzBSaWJUa1VMZUhZaGItUmFPYlpzZC13OElFb080SFFUZXdMZEpVSzk4VTF1eGxmY3J0TUlDc05WYlR2U3BkLWJHUDlULUxMb1FONGVFTTdZU2V3OWxzWTVUUUNZWVk1a3A5ZkczenViMkZDS1U2TzJSRmdZdVRNSTB4bw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVJ0WXBfUmRPR3RyRUV4ZjZLazBrVWhkOUtuNGRORmRCU0V3RGpRMHlmajBVMFdBSi1mNG54blE4T2g4ZXdmenNaSDlEZlVfY0g5VUNiOU4xb2FzUkRwN3hHajFhOVRNMWZVZk9uOFp2Ny1DRENOY3dsdnZ4WTNEak1rQ3JGOExzelpxQ2cxWFhyQXVocjJnUTJJcG1Hc050MnR1VUdDNA?oc=5)
+
+---
+
+### [L’asthme, cette maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
+
+2026-05-11 <span class="news-indication-tag">asthme</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Erneut bestätigt: Aluminium in Impfstoffen unproblematisch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FfVmhQb1RaTEcxZmlpdEdXVGs1dlhQb1NCdm5FRXQ4d2JCMGJ6bEVFRnh4Q0l1bTcwcDlQVF9kQjRtUzBKZHBUWG1fZXZxZ1d5WFR4NEZWT3plamcza2NiQ3Z3U1pQT29NZG53a3lrdHNiVHhaMjFsbjdhSFVOb3pSZ1BYXzF4TU00TGpjaURNT1BoZUFqM0VJWWs2TWhXeGp2YU8yYVVOUQ?oc=5)
+### [Una farmacéutica ya está desarrollando una vacuna contra el hantavirus con tecnología ARN mensajero](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
 
-2026-05-11 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-05-10 <span class="news-indication-tag">asma</span>
 
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FfVmhQb1RaTEcxZmlpdEdXVGs1dlhQb1NCdm5FRXQ4d2JCMGJ6bEVFRnh4Q0l1bTcwcDlQVF9kQjRtUzBKZHBUWG1fZXZxZ1d5WFR4NEZWT3plamcza2NiQ3Z3U1pQT29NZG53a3lrdHNiVHhaMjFsbjdhSFVOb3pSZ1BYXzF4TU00TGpjaURNT1BoZUFqM0VJWWs2TWhXeGp2YU8yYVVOUQ?oc=5)
+來源：[WIRED](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/somapacitan/
 2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
-
----
-
-### [Neue Evidenz zu Finerenon bei Typ-1-Diabetes und CKD - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
-
-2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
 
 ---
 

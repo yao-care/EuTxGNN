@@ -14,7 +14,7 @@ permalink: /news/cetuximab/
 ---
 
 <p class="key-answer" data-question="Cetuximab 有什麼相關新聞？">
-<strong>Cetuximab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cetuximab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/cetuximab/
 <p><a href="{{ '/drugs/cetuximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
-
-### [Los expertos coinciden en que las barreras de acceso frenan la llegada de la innovación en tumores genitourinarios - Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk4zTlRSS21kQ2UtRV9pbHpXcEx1Z2UtSkR4ZF9ubzN1c3JBX2VjVDBNTTBKOVJMS2lCaTljZ2hMMVdhRktfN3NOZ0lZVVgtWVFDOXk3eHJwbzFLaTl1ckJNMnZzUC1qNVJIX1ZJOXd2dFhnUDU3OHlDVmFKX0ZMSXUyY2dLNDA0cmMyYnNGbzZnOFZQYzRwV0tWZlg5bHpIenFvV29GOFY?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk4zTlRSS21kQ2UtRV9pbHpXcEx1Z2UtSkR4ZF9ubzN1c3JBX2VjVDBNTTBKOVJMS2lCaTljZ2hMMVdhRktfN3NOZ0lZVVgtWVFDOXk3eHJwbzFLaTl1ckJNMnZzUC1qNVJIX1ZJOXd2dFhnUDU3OHlDVmFKX0ZMSXUyY2dLNDA0cmMyYnNGbzZnOFZQYzRwV0tWZlg5bHpIenFvV29GOFY?oc=5)
-
----
+## 相關新聞（11 則）
 
 ### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
 
@@ -70,11 +62,27 @@ permalink: /news/cetuximab/
 
 ---
 
-### [Moderna no "tiene lista una vacuna de ARN mensajero" contra las infecciones por hantavirus, a 11 de mayo de 2026](https://news.google.com/rss/articles/CBMipwFBVV95cUxONTQ2NldZTGxWRVFUUUV5SzktSFpOVzY3eFlGNXFfamw5bHhkZzBSaWJUa1VMZUhZaGItUmFPYlpzZC13OElFb080SFFUZXdMZEpVSzk4VTF1eGxmY3J0TUlDc05WYlR2U3BkLWJHUDlULUxMb1FONGVFTTdZU2V3OWxzWTVUUUNZWVk1a3A5ZkczenViMkZDS1U2TzJSRmdZdVRNSTB4bw?oc=5)
+### [L’asthme, cette maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
-2026-05-11 <span class="news-indication-tag">asma</span>
+2026-05-11 <span class="news-indication-tag">asthme</span>
 
-來源：[Maldita.es](https://news.google.com/rss/articles/CBMipwFBVV95cUxONTQ2NldZTGxWRVFUUUV5SzktSFpOVzY3eFlGNXFfamw5bHhkZzBSaWJUa1VMZUhZaGItUmFPYlpzZC13OElFb080SFFUZXdMZEpVSzk4VTF1eGxmY3J0TUlDc05WYlR2U3BkLWJHUDlULUxMb1FONGVFTTdZU2V3OWxzWTVUUUNZWVk1a3A5ZkczenViMkZDS1U2TzJSRmdZdVRNSTB4bw?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
+
+---
+
+### [El ICO creará en 2027 la primera unidad catalana para tumores raros - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1JYalU3N3F3Sm5rMkVZLWozQ3Jyb0tIQ2tDQnREbk9QRWx4WkZERU5mOERPOVNpMGxLUWtRYmZVLVR0TVhjWGJUcGhnYTkyNElwWXd1T3ZwM2xkOUVUZDdLODJVQ3FNMkNuWllIWnlNRXVzVWp4Q2FOX1BLdVdaaWhuc25aTUYtblAwLXZDYzZ4Zi1weW5fMkk1Y2Ntb1lvSzNvblBxSWxHSDJORGNUdE5PTEFEc0VqaDF5VzRTTG1odlR0NG9VS0RSRdIBywFBVV95cUxNOWpLR2VSWGZsLVI1cUQzbkM3aGRXLVdwVWFXUUgyZFFfNld0NVJmQ2s1Z2RLWmtUZVJ4a0k3WlFaN2ZzLXR1TXNaYzhHYWJ0ZjdZMTRKSWh1M1lBSDY1RnpKS0ZxNjhyeXc3bnFqVkQ5el9tbElvcm45OTFtX0tJVUx5VW41ejgtNTBFekxxcEMxRjZZaTBfVFZGU0drOFM5TW5RQlg5NFlpWl9CMWh0VzBPZUpoSU13Z0dmUjZHT0tBLWxNbG5qbGZucw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">tumor</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1JYalU3N3F3Sm5rMkVZLWozQ3Jyb0tIQ2tDQnREbk9QRWx4WkZERU5mOERPOVNpMGxLUWtRYmZVLVR0TVhjWGJUcGhnYTkyNElwWXd1T3ZwM2xkOUVUZDdLODJVQ3FNMkNuWllIWnlNRXVzVWp4Q2FOX1BLdVdaaWhuc25aTUYtblAwLXZDYzZ4Zi1weW5fMkk1Y2Ntb1lvSzNvblBxSWxHSDJORGNUdE5PTEFEc0VqaDF5VzRTTG1odlR0NG9VS0RSRdIBywFBVV95cUxNOWpLR2VSWGZsLVI1cUQzbkM3aGRXLVdwVWFXUUgyZFFfNld0NVJmQ2s1Z2RLWmtUZVJ4a0k3WlFaN2ZzLXR1TXNaYzhHYWJ0ZjdZMTRKSWh1M1lBSDY1RnpKS0ZxNjhyeXc3bnFqVkQ5el9tbElvcm45OTFtX0tJVUx5VW41ejgtNTBFekxxcEMxRjZZaTBfVFZGU0drOFM5TW5RQlg5NFlpWl9CMWh0VzBPZUpoSU13Z0dmUjZHT0tBLWxNbG5qbGZucw?oc=5)
+
+---
+
+### [‘I didn’t know that the cancer could return after your prostate is gone’ - The Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWlo0T0QtMTdxb3d2UG5sRFVHblAxUFZ5UzVLSFo0dm43cThWek1pRURKdGxtOW1QaUNLMG4tZ1VUZC10cGctaEFpREVxTVZMWlBUMG1ldTlpcE1UZ2ZVTnhOS2dLeVlZcGhIS0Jfam1saUtvbDdKdjNQTmk5TVEzVGVsRTFXNzVBVzRfZDFyZFYzZW5kQ2k4VFo5aXNZcUxrN210NkpRd2JYWDU5UHhMUk9TRjlWdFcweDNpbHAzNXN4dnNaN1ZSNzBrc1duTE84YXVFbQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWlo0T0QtMTdxb3d2UG5sRFVHblAxUFZ5UzVLSFo0dm43cThWek1pRURKdGxtOW1QaUNLMG4tZ1VUZC10cGctaEFpREVxTVZMWlBUMG1ldTlpcE1UZ2ZVTnhOS2dLeVlZcGhIS0Jfam1saUtvbDdKdjNQTmk5TVEzVGVsRTFXNzVBVzRfZDFyZFYzZW5kQ2k4VFo5aXNZcUxrN210NkpRd2JYWDU5UHhMUk9TRjlWdFcweDNpbHAzNXN4dnNaN1ZSNzBrc1duTE84YXVFbQ?oc=5)
 
 ---
 
@@ -110,19 +118,11 @@ permalink: /news/cetuximab/
 
 ---
 
-### [Erneut bestätigt: Aluminium in Impfstoffen unproblematisch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FfVmhQb1RaTEcxZmlpdEdXVGs1dlhQb1NCdm5FRXQ4d2JCMGJ6bEVFRnh4Q0l1bTcwcDlQVF9kQjRtUzBKZHBUWG1fZXZxZ1d5WFR4NEZWT3plamcza2NiQ3Z3U1pQT29NZG53a3lrdHNiVHhaMjFsbjdhSFVOb3pSZ1BYXzF4TU00TGpjaURNT1BoZUFqM0VJWWs2TWhXeGp2YU8yYVVOUQ?oc=5)
+### [Una farmacéutica ya está desarrollando una vacuna contra el hantavirus con tecnología ARN mensajero](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
 
-2026-05-11 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-05-10 <span class="news-indication-tag">asma</span>
 
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FfVmhQb1RaTEcxZmlpdEdXVGs1dlhQb1NCdm5FRXQ4d2JCMGJ6bEVFRnh4Q0l1bTcwcDlQVF9kQjRtUzBKZHBUWG1fZXZxZ1d5WFR4NEZWT3plamcza2NiQ3Z3U1pQT29NZG53a3lrdHNiVHhaMjFsbjdhSFVOb3pSZ1BYXzF4TU00TGpjaURNT1BoZUFqM0VJWWs2TWhXeGp2YU8yYVVOUQ?oc=5)
-
----
-
-### [El tabaco es la principal causa del cáncer de vejiga: "Es una enfermedad en gran parte prevenible" - 65 y más](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dqemVNT1lObHdVSzFMYVJFcTZ2cVQ0U2h4Rmd1NnV2VDFtR3A1MHdaMWdXaFpKcDlWTU1MT0RJelhCYzU5ZDFTdnBCLVRvMmYyRkpTcGl1RGI2U3hFUG8xR2hHRWx1RTNXQXRFVnM5NjZNTmVmcUlvWFN3T3h6bjF0VTVKSWlvQkZv?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dqemVNT1lObHdVSzFMYVJFcTZ2cVQ0U2h4Rmd1NnV2VDFtR3A1MHdaMWdXaFpKcDlWTU1MT0RJelhCYzU5ZDFTdnBCLVRvMmYyRkpTcGl1RGI2U3hFUG8xR2hHRWx1RTNXQXRFVnM5NjZNTmVmcUlvWFN3T3h6bjF0VTVKSWlvQkZv?oc=5)
+來源：[WIRED](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
 
 ---
 
@@ -139,22 +139,6 @@ permalink: /news/cetuximab/
 2026-05-10 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2R5RHNRMUp4TlRSdVhLUDJJU3U1N2tNVk5EbkNTaU8wUFhWX2lKN3g5YUg0LUNpTzJfOHhKY1dNRVhKcU05MTRGbVZTQi15a3ZGSDNJdjd1ZUVhUU16STdqZEJHUmFwVnBCMFc3ZDZWMVp2TlExanJUVjczTmltZjZ2RlkxZw?oc=5)
-
----
-
-### [Patients told they have cancer via NHS app - The Telegraph](https://news.google.com/rss/articles/CBMifkFVX3lxTE0wZllfUU95Z1d1VHB5eUFKeElLRWozcmpFMXlTallWck5idGotak84LUNHSTJIem9WZU1aSGdYcVlEMUd4RTdOTi1sRjd1VmI1QXFLNjRqTW5xU0xiRGh0bWx2MGlZOXVNVHRkMTNWNTRWUU1URFZRVGp6S2ozdw?oc=5)
-
-2026-05-10 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMifkFVX3lxTE0wZllfUU95Z1d1VHB5eUFKeElLRWozcmpFMXlTallWck5idGotak84LUNHSTJIem9WZU1aSGdYcVlEMUd4RTdOTi1sRjd1VmI1QXFLNjRqTW5xU0xiRGh0bWx2MGlZOXVNVHRkMTNWNTRWUU1URFZRVGp6S2ozdw?oc=5)
-
----
-
-### [Zusammenhang zwischen Alzheimer und längst vergangenen Infektionen Virusreste können Krebs und Demenz auslösen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
-
-2026-05-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
 
 ---
 

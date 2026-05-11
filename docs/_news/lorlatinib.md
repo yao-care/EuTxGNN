@@ -54,19 +54,35 @@ permalink: /news/lorlatinib/
 
 ## 相關新聞（13 則）
 
-### [Los expertos coinciden en que las barreras de acceso frenan la llegada de la innovación en tumores genitourinarios - Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk4zTlRSS21kQ2UtRV9pbHpXcEx1Z2UtSkR4ZF9ubzN1c3JBX2VjVDBNTTBKOVJMS2lCaTljZ2hMMVdhRktfN3NOZ0lZVVgtWVFDOXk3eHJwbzFLaTl1ckJNMnZzUC1qNVJIX1ZJOXd2dFhnUDU3OHlDVmFKX0ZMSXUyY2dLNDA0cmMyYnNGbzZnOFZQYzRwV0tWZlg5bHpIenFvV29GOFY?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk4zTlRSS21kQ2UtRV9pbHpXcEx1Z2UtSkR4ZF9ubzN1c3JBX2VjVDBNTTBKOVJMS2lCaTljZ2hMMVdhRktfN3NOZ0lZVVgtWVFDOXk3eHJwbzFLaTl1ckJNMnZzUC1qNVJIX1ZJOXd2dFhnUDU3OHlDVmFKX0ZMSXUyY2dLNDA0cmMyYnNGbzZnOFZQYzRwV0tWZlg5bHpIenFvV29GOFY?oc=5)
-
----
-
 ### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
 
 2026-05-11 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+---
+
+### [El ICO creará en 2027 la primera unidad catalana para tumores raros - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1JYalU3N3F3Sm5rMkVZLWozQ3Jyb0tIQ2tDQnREbk9QRWx4WkZERU5mOERPOVNpMGxLUWtRYmZVLVR0TVhjWGJUcGhnYTkyNElwWXd1T3ZwM2xkOUVUZDdLODJVQ3FNMkNuWllIWnlNRXVzVWp4Q2FOX1BLdVdaaWhuc25aTUYtblAwLXZDYzZ4Zi1weW5fMkk1Y2Ntb1lvSzNvblBxSWxHSDJORGNUdE5PTEFEc0VqaDF5VzRTTG1odlR0NG9VS0RSRdIBywFBVV95cUxNOWpLR2VSWGZsLVI1cUQzbkM3aGRXLVdwVWFXUUgyZFFfNld0NVJmQ2s1Z2RLWmtUZVJ4a0k3WlFaN2ZzLXR1TXNaYzhHYWJ0ZjdZMTRKSWh1M1lBSDY1RnpKS0ZxNjhyeXc3bnFqVkQ5el9tbElvcm45OTFtX0tJVUx5VW41ejgtNTBFekxxcEMxRjZZaTBfVFZGU0drOFM5TW5RQlg5NFlpWl9CMWh0VzBPZUpoSU13Z0dmUjZHT0tBLWxNbG5qbGZucw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">tumor</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1JYalU3N3F3Sm5rMkVZLWozQ3Jyb0tIQ2tDQnREbk9QRWx4WkZERU5mOERPOVNpMGxLUWtRYmZVLVR0TVhjWGJUcGhnYTkyNElwWXd1T3ZwM2xkOUVUZDdLODJVQ3FNMkNuWllIWnlNRXVzVWp4Q2FOX1BLdVdaaWhuc25aTUYtblAwLXZDYzZ4Zi1weW5fMkk1Y2Ntb1lvSzNvblBxSWxHSDJORGNUdE5PTEFEc0VqaDF5VzRTTG1odlR0NG9VS0RSRdIBywFBVV95cUxNOWpLR2VSWGZsLVI1cUQzbkM3aGRXLVdwVWFXUUgyZFFfNld0NVJmQ2s1Z2RLWmtUZVJ4a0k3WlFaN2ZzLXR1TXNaYzhHYWJ0ZjdZMTRKSWh1M1lBSDY1RnpKS0ZxNjhyeXc3bnFqVkQ5el9tbElvcm45OTFtX0tJVUx5VW41ejgtNTBFekxxcEMxRjZZaTBfVFZGU0drOFM5TW5RQlg5NFlpWl9CMWh0VzBPZUpoSU13Z0dmUjZHT0tBLWxNbG5qbGZucw?oc=5)
+
+---
+
+### [Doctor's warning as popular drink classed as a carcinogen with 'no safe' amount - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
+
+2026-05-11 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
+
+---
+
+### [‘I didn’t know that the cancer could return after your prostate is gone’ - The Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWlo0T0QtMTdxb3d2UG5sRFVHblAxUFZ5UzVLSFo0dm43cThWek1pRURKdGxtOW1QaUNLMG4tZ1VUZC10cGctaEFpREVxTVZMWlBUMG1ldTlpcE1UZ2ZVTnhOS2dLeVlZcGhIS0Jfam1saUtvbDdKdjNQTmk5TVEzVGVsRTFXNzVBVzRfZDFyZFYzZW5kQ2k4VFo5aXNZcUxrN210NkpRd2JYWDU5UHhMUk9TRjlWdFcweDNpbHAzNXN4dnNaN1ZSNzBrc1duTE84YXVFbQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWlo0T0QtMTdxb3d2UG5sRFVHblAxUFZ5UzVLSFo0dm43cThWek1pRURKdGxtOW1QaUNLMG4tZ1VUZC10cGctaEFpREVxTVZMWlBUMG1ldTlpcE1UZ2ZVTnhOS2dLeVlZcGhIS0Jfam1saUtvbDdKdjNQTmk5TVEzVGVsRTFXNzVBVzRfZDFyZFYzZW5kQ2k4VFo5aXNZcUxrN210NkpRd2JYWDU5UHhMUk9TRjlWdFcweDNpbHAzNXN4dnNaN1ZSNzBrc1duTE84YXVFbQ?oc=5)
 
 ---
 
@@ -86,6 +102,14 @@ permalink: /news/lorlatinib/
 
 ---
 
+### [Three enjoyable ways to slow your brain's ageing](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1hpWFlNby1JZE10LUFobWM1Rk5FNjVabDZyS1hHbU10R1VjNWdSWTNaSTZKTEljbHlnRFo0LW00OFptZE1yUlljSjR1VHBpNzVwTllKeTY5QVMxR1lfRmJrTzQ5VHg5c2h3NzZrcjJEekNjeWVwY3ZuNmxBd25Jc05BRENZdUtJVmwtak5aZ1UzdXc4RzI5WG1YYXNpQm8?oc=5)
+
+2026-05-11 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1hpWFlNby1JZE10LUFobWM1Rk5FNjVabDZyS1hHbU10R1VjNWdSWTNaSTZKTEljbHlnRFo0LW00OFptZE1yUlljSjR1VHBpNzVwTllKeTY5QVMxR1lfRmJrTzQ5VHg5c2h3NzZrcjJEekNjeWVwY3ZuNmxBd25Jc05BRENZdUtJVmwtak5aZ1UzdXc4RzI5WG1YYXNpQm8?oc=5)
+
+---
+
 ### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 
 2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
@@ -96,7 +120,7 @@ permalink: /news/lorlatinib/
 
 ### ['It's heartbreaking to lose loved ones to dementia'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Alzheimer's</span>
+2026-05-11 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
 
@@ -107,14 +131,6 @@ permalink: /news/lorlatinib/
 2026-05-11 <span class="news-indication-tag">dementia</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05OXVlVnVDOFNmbGpRMzAwUmRsQXFfdTdqNjRKWC1vSi1mcFNJOHh6NHdUdHRYZHZ0czVfSk5LTDZSdWlCcTVJSjFDYXAwZGM3aXRYMXN0OVhRVzVD?oc=5)
-
----
-
-### [El tabaco es la principal causa del cáncer de vejiga: "Es una enfermedad en gran parte prevenible" - 65 y más](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dqemVNT1lObHdVSzFMYVJFcTZ2cVQ0U2h4Rmd1NnV2VDFtR3A1MHdaMWdXaFpKcDlWTU1MT0RJelhCYzU5ZDFTdnBCLVRvMmYyRkpTcGl1RGI2U3hFUG8xR2hHRWx1RTNXQXRFVnM5NjZNTmVmcUlvWFN3T3h6bjF0VTVKSWlvQkZv?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dqemVNT1lObHdVSzFMYVJFcTZ2cVQ0U2h4Rmd1NnV2VDFtR3A1MHdaMWdXaFpKcDlWTU1MT0RJelhCYzU5ZDFTdnBCLVRvMmYyRkpTcGl1RGI2U3hFUG8xR2hHRWx1RTNXQXRFVnM5NjZNTmVmcUlvWFN3T3h6bjF0VTVKSWlvQkZv?oc=5)
 
 ---
 
@@ -134,27 +150,11 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [Patients told they have cancer via NHS app - The Telegraph](https://news.google.com/rss/articles/CBMifkFVX3lxTE0wZllfUU95Z1d1VHB5eUFKeElLRWozcmpFMXlTallWck5idGotak84LUNHSTJIem9WZU1aSGdYcVlEMUd4RTdOTi1sRjd1VmI1QXFLNjRqTW5xU0xiRGh0bWx2MGlZOXVNVHRkMTNWNTRWUU1URFZRVGp6S2ozdw?oc=5)
-
-2026-05-10 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMifkFVX3lxTE0wZllfUU95Z1d1VHB5eUFKeElLRWozcmpFMXlTallWck5idGotak84LUNHSTJIem9WZU1aSGdYcVlEMUd4RTdOTi1sRjd1VmI1QXFLNjRqTW5xU0xiRGh0bWx2MGlZOXVNVHRkMTNWNTRWUU1URFZRVGp6S2ozdw?oc=5)
-
----
-
 ### [This breakfast food could cut Alzheimer's risk 'by 27%', study finds - Yorkshire Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcktFV0s4clI3MlF5QXBJNUkwSFh5aFMzeEpES2FNekg1aDh3cDkxS21iTk82X041UFp3SHpEajdHanJZR2pHVnQ4NHE2TjRsLVlmT1dZb1h1b3V1bnpObjZ2NTVDbC03MnoyWW9kZWRMRENrczdoRHNweno4ek5rRFF2WHZ4dFZJVDhLZHpNcS3SAZYBQVVfeXFMTXpTTm04Mml3N1lEcHVPOG1vMkhRZDZsazNCWFBhbUlnLXkwTE9qeXlTaUl0LVZ2MEZkSWpLajlIR3ZNLWtFY1ZWelFDQUVJMVBaaFF2dWdkRjdQa3RpcG96ZDBqN1FLQ3N3T1ZhLW81WnpSVFlFZk42aTVjOGU2akdScE5YRFdmbF9VZzdjZFZhdW5fMENR?oc=5)
 
 2026-05-10 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Yorkshire Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcktFV0s4clI3MlF5QXBJNUkwSFh5aFMzeEpES2FNekg1aDh3cDkxS21iTk82X041UFp3SHpEajdHanJZR2pHVnQ4NHE2TjRsLVlmT1dZb1h1b3V1bnpObjZ2NTVDbC03MnoyWW9kZWRMRENrczdoRHNweno4ek5rRFF2WHZ4dFZJVDhLZHpNcS3SAZYBQVVfeXFMTXpTTm04Mml3N1lEcHVPOG1vMkhRZDZsazNCWFBhbUlnLXkwTE9qeXlTaUl0LVZ2MEZkSWpLajlIR3ZNLWtFY1ZWelFDQUVJMVBaaFF2dWdkRjdQa3RpcG96ZDBqN1FLQ3N3T1ZhLW81WnpSVFlFZk42aTVjOGU2akdScE5YRFdmbF9VZzdjZFZhdW5fMENR?oc=5)
-
----
-
-### [Zusammenhang zwischen Alzheimer und längst vergangenen Infektionen Virusreste können Krebs und Demenz auslösen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
-
-2026-05-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
 
 ---
 

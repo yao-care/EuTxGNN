@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Getting fat? Blame long hours in the office, say scientists - The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 
 2026-05-11 <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
-
----
-
-### ["El rol del farmacéutico hospitalario en migraña será más clínico" - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUld6OU1KbGpoTkFqdXFjX2xONmc2d3dQS1BJLURTR05SSkxXWkI2Nl9qMlFRUC1EWE9pQ0MyeTZjSElsNkZOc3ZxZXM4aUlTbDQ0SEZBb25NZmtZUmNqZTZOd1ktR1A3NVlLWlZtTDRCMm1NVEJTSC0xaWZFZ3FFTGM3WTVxV2pIbGhnRTJ1Y3dDSFJZaElLMVlQZjFzZDJBQU1wVllxZTl0MHpveTdPMVVsQ3FjaEVOSV9PeVZVMTLSAcABQVVfeXFMTm1abHlxSW9DVVQyVmszQzQ3cXVJeWNrZHBZM192XzcyTWU1MjlmdzBWNE9JWlRhLWFnRzJHdEoyT1drSXlvWTB5bjBzbk05cTM5OGVERm1OaVFESnRrYjZpMTlIMmdaWVlGVEhLZmthTXdmTTFvdEhTRjMzcmw4MFBfcHRQdXp0MVRCUEZvTllEUU8td3llZ01ZZFNvRW4wdkkzVjhzdmlYY1FtNTVHVnYzc2drQl9sY2ZDVFVqWEtM?oc=5)
-
-2026-05-11 <span class="news-indication-tag">migraña</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUld6OU1KbGpoTkFqdXFjX2xONmc2d3dQS1BJLURTR05SSkxXWkI2Nl9qMlFRUC1EWE9pQ0MyeTZjSElsNkZOc3ZxZXM4aUlTbDQ0SEZBb25NZmtZUmNqZTZOd1ktR1A3NVlLWlZtTDRCMm1NVEJTSC0xaWZFZ3FFTGM3WTVxV2pIbGhnRTJ1Y3dDSFJZaElLMVlQZjFzZDJBQU1wVllxZTl0MHpveTdPMVVsQ3FjaEVOSV9PeVZVMTLSAcABQVVfeXFMTm1abHlxSW9DVVQyVmszQzQ3cXVJeWNrZHBZM192XzcyTWU1MjlmdzBWNE9JWlRhLWFnRzJHdEoyT1drSXlvWTB5bjBzbk05cTM5OGVERm1OaVFESnRrYjZpMTlIMmdaWVlGVEhLZmthTXdmTTFvdEhTRjMzcmw4MFBfcHRQdXp0MVRCUEZvTllEUU8td3llZ01ZZFNvRW4wdkkzVjhzdmlYY1FtNTVHVnYzc2drQl9sY2ZDVFVqWEtM?oc=5)
 
 ---
 
