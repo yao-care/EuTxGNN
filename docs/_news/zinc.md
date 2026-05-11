@@ -14,7 +14,7 @@ permalink: /news/zinc/
 ---
 
 <p class="key-answer" data-question="Zinc 有什麼相關新聞？">
-<strong>Zinc</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zinc</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/zinc/
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La conspiración sobre el hantavirus que mezcla una patente aún sin conceder, una vacuna en fase inicial y un tratado ya aprobado](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzdTVkVHeXZLeDlCQ3BndWVLXzgxZkstdlUtNVhoU0otb3BRakZZM09kTmhfUnM2dFEya195NlpscEVTXzR3M1FFWnZYQlpVb3NKOTBtTG9nYngxTTlGd3ExeXNRQXRzcEtCR3VXeFU3dG1IMFA1WGJSakExUFNYOWluZ3p1eTJBZmJqZFhQR1pXd9IBlwFBVV95cUxPQ002MUVWUmRnQ3JCcEFrWEdxVlRLUDJ4RElvU1hsMzdON2VJdjRRRnQ0dFlWZzlMdWpNMzhwc1hmcnNIbHpMbFdRSVluUlVrcjQ1YXRDbWlhcC1XUVZ0eV9nV2djNUJpa01XXzctbzNvaVdFblo5Yy1TYVdUVzlSZVY5cGNtZVJDdWZpOXBIVDhrZmVUMTc4?oc=5)
+
+2026-05-10 <span class="news-drug-tag">Zinc</span>
+
+來源：[Newtral](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzdTVkVHeXZLeDlCQ3BndWVLXzgxZkstdlUtNVhoU0otb3BRakZZM09kTmhfUnM2dFEya195NlpscEVTXzR3M1FFWnZYQlpVb3NKOTBtTG9nYngxTTlGd3ExeXNRQXRzcEtCR3VXeFU3dG1IMFA1WGJSakExUFNYOWluZ3p1eTJBZmJqZFhQR1pXd9IBlwFBVV95cUxPQ002MUVWUmRnQ3JCcEFrWEdxVlRLUDJ4RElvU1hsMzdON2VJdjRRRnQ0dFlWZzlMdWpNMzhwc1hmcnNIbHpMbFdRSVluUlVrcjQ1YXRDbWlhcC1XUVZ0eV9nV2djNUJpa01XXzctbzNvaVdFblo5Yy1TYVdUVzlSZVY5cGNtZVJDdWZpOXBIVDhrZmVUMTc4?oc=5)
+
+---
 
 
 <div class="disclaimer">

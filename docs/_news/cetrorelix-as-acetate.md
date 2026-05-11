@@ -14,7 +14,7 @@ permalink: /news/cetrorelix-as-acetate/
 ---
 
 <p class="key-answer" data-question="Cetrorelix (As Acetate) 有什麼相關新聞？">
-<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/cetrorelix-as-acetate/
 <p><a href="{{ '/drugs/cetrorelix-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（17 則）
 
-### [Gehirnerschütterung: Neue Studie zeigt chronische Entzündungsprozesse - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjJBWXVWbUV3bWg1Q0Y0cjRHM2p2ekJCR0lnXzlMOGNXYnp3M1FaYmo1ZWFtSTRoZXJ5d19XMS0wNnJZQXUxVWFIWmNMUXRnMjhJSnI5OFoxU2J2U241Mkd3MDBDS0g0THExT2RmM1RxZXpCWW4yOWFfckxHRDRpTGFfNUFhZDI3REp3dmgtaGJTOWtQSUhWQjlFWGN1bkZ6OEJoNURsYkQzdVBnU2hHSUxUUDd1SHZvZmY0?oc=5)
+### [Ana Teijeira, experta en sueño: "Cada vez vemos más incidencia de insomnio en nuestra sociedad" - Cadena SER](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1pSaXF4NVNrZzVSN25lZ1o2VHBwWFhCaU15aEEteGdqb0VVenUwX2ljd2tWRlVLZjlFQmNyLW9Bcm5qdmY1QlBLOG5hemQySEp1b184OU9XOFE0TjZWdTN1T3d5VjNxTjNETk9TeVl2Y3ktRmhEN3BkYm9OYzdNSzlwa0VDY2FtNHNubWpQelhKWVVFRkJTRU0wMEx1d2hxd2dKLUxMcTIwdnZNaTR1WF9fdUNIT3lGMTF3LWpRV3d3d2gwS1d2dXpuUmd4dVl1S3o5NDlmVzd1aUFEaVHSAfIBQVVfeXFMTzl1ZW1WdHd1SHNHZGc1dzRUcGFFUWl0eElIYUMwaWhWMXZ4aXFTWk1HZWJESTF6aktSeEVUYURwdWlUSTU3elR5TVN0UTk1eVJhdzFzUmVaUE5aT0pHVmM5aWVZZ1FyNlh0X3hBNkUzYXlnR2daRzFuWDRBd080VEYyZjJIMjNGUFR1c2VPUTdWX2sxYjVaamZ3VVBZM2N2MGJiWUNBLXVNc2lPc0pNcnhqbmY2NHRaUDZwMUlmQldEcE5WX0N2RFdJcXo4eFNVSkhvMWdxSXUxdlRzMmg4aTJQRUxRLXBBT1psUG9NZTJpeVE?oc=5)
 
 2026-05-10 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjJBWXVWbUV3bWg1Q0Y0cjRHM2p2ekJCR0lnXzlMOGNXYnp3M1FaYmo1ZWFtSTRoZXJ5d19XMS0wNnJZQXUxVWFIWmNMUXRnMjhJSnI5OFoxU2J2U241Mkd3MDBDS0g0THExT2RmM1RxZXpCWW4yOWFfckxHRDRpTGFfNUFhZDI3REp3dmgtaGJTOWtQSUhWQjlFWGN1bkZ6OEJoNURsYkQzdVBnU2hHSUxUUDd1SHZvZmY0?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1pSaXF4NVNrZzVSN25lZ1o2VHBwWFhCaU15aEEteGdqb0VVenUwX2ljd2tWRlVLZjlFQmNyLW9Bcm5qdmY1QlBLOG5hemQySEp1b184OU9XOFE0TjZWdTN1T3d5VjNxTjNETk9TeVl2Y3ktRmhEN3BkYm9OYzdNSzlwa0VDY2FtNHNubWpQelhKWVVFRkJTRU0wMEx1d2hxd2dKLUxMcTIwdnZNaTR1WF9fdUNIT3lGMTF3LWpRV3d3d2gwS1d2dXpuUmd4dVl1S3o5NDlmVzd1aUFEaVHSAfIBQVVfeXFMTzl1ZW1WdHd1SHNHZGc1dzRUcGFFUWl0eElIYUMwaWhWMXZ4aXFTWk1HZWJESTF6aktSeEVUYURwdWlUSTU3elR5TVN0UTk1eVJhdzFzUmVaUE5aT0pHVmM5aWVZZ1FyNlh0X3hBNkUzYXlnR2daRzFuWDRBd080VEYyZjJIMjNGUFR1c2VPUTdWX2sxYjVaamZ3VVBZM2N2MGJiWUNBLXVNc2lPc0pNcnhqbmY2NHRaUDZwMUlmQldEcE5WX0N2RFdJcXo4eFNVSkhvMWdxSXUxdlRzMmg4aTJQRUxRLXBBT1psUG9NZTJpeVE?oc=5)
+
+---
+
+### [Dra. Celia García Malo, neuróloga: "Levantarse a las 5:00 AM no es, por sí mismo, un hábito saludable en absoluto. Depende de varios factores" - Saber Vivir](https://news.google.com/rss/articles/CBMijgJBVV95cUxNU21VQ1REcUpMUUl5QjFkUEs1RGxveGY3U09Wd3BzUktWZDRSY0VaM3dLRTBYUEU2ZVJoTHNQY09rRHNtSFJFTGpVVmtWUU5rQ0pHR2xsYkNXUFNkME9PU3FCb1c1ZHJreWN1Tm4weXVEaF9rdXgtNW1CZXpmQWVEandpOFpNVkVDbU1aTk1GLXlFaGhwZVpMNzBPN2c5UUpjRWJ4ZXpWZmRUU2xiQ1NVcDB0Y1FxUmROQnREYklEZFoxRHh1MU9iMWdvaEZJMVJzdGlGVWs2N3RpQmZ0VzZLMTVfVlRjYkFoNHBUSTNBaFhCNlNDdE5Ycm5uNW80NC1aMWtsV1hCOVZoLVFkN1E?oc=5)
+
+2026-05-10 <span class="news-indication-tag">AF</span>
+
+來源：[Saber Vivir](https://news.google.com/rss/articles/CBMijgJBVV95cUxNU21VQ1REcUpMUUl5QjFkUEs1RGxveGY3U09Wd3BzUktWZDRSY0VaM3dLRTBYUEU2ZVJoTHNQY09rRHNtSFJFTGpVVmtWUU5rQ0pHR2xsYkNXUFNkME9PU3FCb1c1ZHJreWN1Tm4weXVEaF9rdXgtNW1CZXpmQWVEandpOFpNVkVDbU1aTk1GLXlFaGhwZVpMNzBPN2c5UUpjRWJ4ZXpWZmRUU2xiQ1NVcDB0Y1FxUmROQnREYklEZFoxRHh1MU9iMWdvaEZJMVJzdGlGVWs2N3RpQmZ0VzZLMTVfVlRjYkFoNHBUSTNBaFhCNlNDdE5Ycm5uNW80NC1aMWtsV1hCOVZoLVFkN1E?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [La mujer del actor Gene Hackman murió de hantavirus en 2025 - Diario AS](https://news.google.com/rss/articles/CBMipgFBVV95cUxONnI1SnlDaUhiYkZ5TFJhWnpYejFaRWxPVEF2Tmcyb2M2SnRKUnBCU1FpZTVaeEJlV05OYzJUV0YwSmIwam8weUpqcHBlcUM3TlVDb1FaVHNKVE5jTGYySVNva0QxOEMtcmJDcXp5ZHZicjhOdXdGNUxYcWNndjFsSFVTQmRWTV9sQ3F2RmhLc2o4enp4UkJOWHIzMFBwMGpEdU5yaUpn?oc=5)
+### [La mujer del actor Gene Hackman murió de hantavirus en 2025 - Diario AS](https://news.google.com/rss/articles/CBMipgFBVV95cUxONnI1SnlDaUhiYkZ5TFJhWnpYejFaRWxPVEF2Tmcyb2M2SnRKUnBCU1FpZTVaeEJlV05OYzJUV0YwSmIwam8weUpqcHBlcUM3TlVDb1FaVHNKVE5jTGYySVNva0QxOEMtcmJDcXp5ZHZicjhOdXdGNUxYcWNndjFsSFVTQmRWTV9sQ3F2RmhLc2o4enp4UkJOWHIzMFBwMGpEdU5yaUpn0gG6AUFVX3lxTFBvdEVkM1RBV01adEpwTkRFdnVMQkktSWJjS2lUM21NZmdrbEU5XzF6UnJTYUJmT2IwLWo1X3hMOUNoREpPUjRVeW1NRG9lYWRWRHRQSjNsWWVrVGtQQVAzZUlORldOT3U1Zk1rN2EydFFBdmFQSHhBdkF0M2hwQVpyUFEzcW9lYTFWMU5ZWnlQSkE3eDMwZkU0TGlMOHJxdmRocG5famJ1NzJKaEVSSjFzMk5hbV94bTRCdw?oc=5)
 
 2026-05-10 <span class="news-indication-tag">AF</span>
 
-來源：[Diario AS](https://news.google.com/rss/articles/CBMipgFBVV95cUxONnI1SnlDaUhiYkZ5TFJhWnpYejFaRWxPVEF2Tmcyb2M2SnRKUnBCU1FpZTVaeEJlV05OYzJUV0YwSmIwam8weUpqcHBlcUM3TlVDb1FaVHNKVE5jTGYySVNva0QxOEMtcmJDcXp5ZHZicjhOdXdGNUxYcWNndjFsSFVTQmRWTV9sQ3F2RmhLc2o4enp4UkJOWHIzMFBwMGpEdU5yaUpn?oc=5)
+來源：[Diario AS](https://news.google.com/rss/articles/CBMipgFBVV95cUxONnI1SnlDaUhiYkZ5TFJhWnpYejFaRWxPVEF2Tmcyb2M2SnRKUnBCU1FpZTVaeEJlV05OYzJUV0YwSmIwam8weUpqcHBlcUM3TlVDb1FaVHNKVE5jTGYySVNva0QxOEMtcmJDcXp5ZHZicjhOdXdGNUxYcWNndjFsSFVTQmRWTV9sQ3F2RmhLc2o4enp4UkJOWHIzMFBwMGpEdU5yaUpn0gG6AUFVX3lxTFBvdEVkM1RBV01adEpwTkRFdnVMQkktSWJjS2lUM21NZmdrbEU5XzF6UnJTYUJmT2IwLWo1X3hMOUNoREpPUjRVeW1NRG9lYWRWRHRQSjNsWWVrVGtQQVAzZUlORldOT3U1Zk1rN2EydFFBdmFQSHhBdkF0M2hwQVpyUFEzcW9lYTFWMU5ZWnlQSkE3eDMwZkU0TGlMOHJxdmRocG5famJ1NzJKaEVSSjFzMk5hbV94bTRCdw?oc=5)
 
 ---
 
@@ -118,14 +126,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [I almost bled to death after 'hormones diagnosis' - it was vitamin deficiency - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFVJQ2pMSHV5akFsa29Tb3V1cnktQTF5NlJ3RFREN0V3emRSc2V3c0pyQ0R4ME5ZQmdJZGtYSVB6M3NSZnRBRDdIOHcwVGJrbkh6eWJra2EwZTVsamxkOFFNNWs0MWd1ZnprNF8taGEtMHlWVGFpTC0xNlI1R0RQUGZwRFdTcjZHOHpzYklKUmdGZTV2NFRqWHJvS3g?oc=5)
-
-2026-05-09 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFVJQ2pMSHV5akFsa29Tb3V1cnktQTF5NlJ3RFREN0V3emRSc2V3c0pyQ0R4ME5ZQmdJZGtYSVB6M3NSZnRBRDdIOHcwVGJrbkh6eWJra2EwZTVsamxkOFFNNWs0MWd1ZnprNF8taGEtMHlWVGFpTC0xNlI1R0RQUGZwRFdTcjZHOHpzYklKUmdGZTV2NFRqWHJvS3g?oc=5)
-
----
-
 ### [Luzides Träumen: Wie wir im Schlaf trainieren können – oder einfach mehr Spaß haben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUXA4NUZPTHBYXzNhemlTQTdZTExPektvR1hoMFNvMDFWUE9NT0w4VFpOZkRhOWF3S0N6NGZqX0RJbnZQLUw2RDd5S29UWnpvZGNtRjVkcUdGc3BUZklWSUZaQllCRVo0UTF3dG1EbFNIQ3lYamczS29FTHAwd3UydHNnMjY0TXVKY0FoZnN6dEVJd2VOYzlRZFE5b3k1dUt5OEgxYnptWXNEM1oyY2U0eE84c1EtR1NKUGVEdlpPZGJ5Q0IyWTVLT3YyOVNESFdINERCVWpJRGhvQVZncnpUd05jRWxSSU9WMkZaTg?oc=5)
 
 2026-05-09 <span class="news-indication-tag">AF</span>
@@ -142,27 +142,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Mum of GMP cadet speaks of daughter's incredible spirit following tragic death - Manchester Evening News](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTlOdjRIc1FodmQ5Zi1uWmFPUGQwYzBlNTRTWXlySDczdmFzdU80eWdlTDdYWTIzUzJNRVFybGMycmQ5dGl1ZE9FSkpPQzFxa3IzTFM4Q0pNeHFiUTh4TmhDeWdoYkU1bG1ydTMxLWNaU2dMZnNEWW9DN1N4bk5WS3puVi1aOWU0X1MzcE90V1FUazdRWFkwd2RpT3NOTVNUdkFqQ0xkclZoMnVX?oc=5)
-
-2026-05-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTlOdjRIc1FodmQ5Zi1uWmFPUGQwYzBlNTRTWXlySDczdmFzdU80eWdlTDdYWTIzUzJNRVFybGMycmQ5dGl1ZE9FSkpPQzFxa3IzTFM4Q0pNeHFiUTh4TmhDeWdoYkU1bG1ydTMxLWNaU2dMZnNEWW9DN1N4bk5WS3puVi1aOWU0X1MzcE90V1FUazdRWFkwd2RpT3NOTVNUdkFqQ0xkclZoMnVX?oc=5)
-
----
-
 ### [Weekend reads: FDA blocked vaccine findings; ‘Frankencitations Ravage the Academic Countryside’; ‘Publish and Perish’ - Retraction Watch](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFVfZlFuMGVQQkRyVGdoUjJndUVHMXc1V3BIdVl6OFJOVUUydW45MFNZMlhYeXVXMTgteXlWSUhkWEtVWUI0ZjhmeEpqZXpOd2I1T0p6RGhFMXpMRmEtT3JqWEJFYjM2RktXS2pBU2VBVlVBb2JQX01CTzZFV3lJeFJYd21kX1gyZS1kNGE3YWVCNTRKVlZHdXlrVEh2REJyZ1F0eVdWRU4zcEswTTBBUW8zbFVwUlBiRl80dHhNZUpMaVRBTEVHN1gxYU41TWVLejBUTEpPZGdxb3VHbkJEbnNSdmo?oc=5)
 
 2026-05-09 <span class="news-indication-tag">AF</span>
 
 來源：[Retraction Watch](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFVfZlFuMGVQQkRyVGdoUjJndUVHMXc1V3BIdVl6OFJOVUUydW45MFNZMlhYeXVXMTgteXlWSUhkWEtVWUI0ZjhmeEpqZXpOd2I1T0p6RGhFMXpMRmEtT3JqWEJFYjM2RktXS2pBU2VBVlVBb2JQX01CTzZFV3lJeFJYd21kX1gyZS1kNGE3YWVCNTRKVlZHdXlrVEh2REJyZ1F0eVdWRU4zcEswTTBBUW8zbFVwUlBiRl80dHhNZUpMaVRBTEVHN1gxYU41TWVLejBUTEpPZGdxb3VHbkJEbnNSdmo?oc=5)
-
----
-
-### [El asma: cómo reconocer sus síntomas y por qué el inhalador no siempre se usa bien - Cadena SER](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODk3bWFmeWRQUmgyeEFiZG4wd3RZLTRkTWVHcjFJRkt6UVVNaVh2SjZjRjBjNXh2VnFMd3RVRTN2RndlMUZUc21NU0JyUEdRM1Z0UmRNVnFPY3VqdGZtTEswRmlxYjhUeUttVGFUZnFlSnpTMWQ1MG1lclItSzB0QWxiaFFPbVJuSVNVOS1rYkJLTEhoYkNoR25tamI2ZmVRMl9Ianp6ekVyOEEzOXo2cmw5a2thcVBSUXRneGdjbzdwUmxQanduSTlGdjJpWi1mMWfSAeYBQVVfeXFMUG9WazB3WWlSeVB6T3lxUFl6NkJicHNQOVVtUi1qbFVLT2EyYkVVdnJlYUpRWlhpWDJhN2J0a0Rock02ajgxckdIRFl5MHNCVjAyV2VXMkFUVHloZGhZbWo4X2JoRzl6eW45R3I4S1pJRy1sSjUzOXdoSmVIckVRYkJyNUpMTDVPNC1PdkUxZzNjZG1wemg5akVsaEEtNWFFUC11bmMzNV9jMHB5SmU5bXNNakJ3UTNHMUN2bWpUa2dEQmV5bzdJZWZHTTZoZ3Z0TUpKYWU3NHNTNUJfSEZWVDdkSERRU3c?oc=5)
-
-2026-05-09 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODk3bWFmeWRQUmgyeEFiZG4wd3RZLTRkTWVHcjFJRkt6UVVNaVh2SjZjRjBjNXh2VnFMd3RVRTN2RndlMUZUc21NU0JyUEdRM1Z0UmRNVnFPY3VqdGZtTEswRmlxYjhUeUttVGFUZnFlSnpTMWQ1MG1lclItSzB0QWxiaFFPbVJuSVNVOS1rYkJLTEhoYkNoR25tamI2ZmVRMl9Ianp6ekVyOEEzOXo2cmw5a2thcVBSUXRneGdjbzdwUmxQanduSTlGdjJpWi1mMWfSAeYBQVVfeXFMUG9WazB3WWlSeVB6T3lxUFl6NkJicHNQOVVtUi1qbFVLT2EyYkVVdnJlYUpRWlhpWDJhN2J0a0Rock02ajgxckdIRFl5MHNCVjAyV2VXMkFUVHloZGhZbWo4X2JoRzl6eW45R3I4S1pJRy1sSjUzOXdoSmVIckVRYkJyNUpMTDVPNC1PdkUxZzNjZG1wemg5akVsaEEtNWFFUC11bmMzNV9jMHB5SmU5bXNNakJ3UTNHMUN2bWpUa2dEQmV5bzdJZWZHTTZoZ3Z0TUpKYWU3NHNTNUJfSEZWVDdkSERRU3c?oc=5)
 
 ---
 
@@ -203,22 +187,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-05-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Cheshire Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxQekdpMk03V1l6Vm1hOVJIR2NLQWd6ZlE0OW9tang1QjU2ZVUtbUR3U0M3SDBsT1Jna3hPdTBSVW5ROF9aTnhmd2NIMk5HdGg3WkRkek9MZmlQdG1PUXZCbW84SmpVQmpwcXlLWXI3QnpFZnZxYXJMSXV6eXF5R0dzVjlIQmF1X1FTTUQ5WWozSnNnWDFwekZYNktCUDAwdzYwT1FRN1Z2VGs1Tl850gGyAUFVX3lxTE5nRTJsN29SNFJCcXVUZ1Q4bmlCUEM0bWNDcGRXV1RKMGFMOUhFZ0p3YmR1bzA3bElpMUVwRGROWnJiY014TGdCWGlhUW9FYVlZeHRyOUdGdG1BbHdTbTd1UkZFTHVlT3N2ZVVjZ29ud2s1YkRweGhnUmhOeWh6YnZzbi1oSnp5ZG9ubmhJaFhIU3RPUTM3cXFDSzRYMzd5RzZfQm1zZi04OWltRm4zdkNtTWc?oc=5)
-
----
-
-### [Doctors Are Surprised by What This Vaccine Is Doing to the Heart](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
-
-2026-05-08 <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZnTHZKZTlranZSbEpmSnB2Y0drN2VHa3U4VmJGbHp3eExkT2F6eTBRVGgwbFZpVXR6dXN3VU1DLW51eS1TZlFUcFlJd0VhSHhMenFickVhTkZNN3FQc2d2LVZEVVpkd2doaGxVR21QU1BycXdyZkU2Y3RmdjhQNEVRd1h2VE9JVEFyZkFyUG55c2tm?oc=5)
-
----
-
-### [Sex pill Viagra could also protect against eye condition that can cause blindness and affects 1million Brits - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3YWM2ZEthS3l6aXRmRTdKX0pYczA3SWFZcURIc3U0a3lJWUlBcHJLbjFyY0x6QjdMMFJSQ0VRQ0d1WjFqbDZUN2tvNkZLUVlRSHQ0S21HVTYzOFZvVWt0S2p2cUI3dmtHRUozR3RGNnRaeElaOHg2UndjZ1NsRVU?oc=5)
-
-2026-05-08 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3YWM2ZEthS3l6aXRmRTdKX0pYczA3SWFZcURIc3U0a3lJWUlBcHJLbjFyY0x6QjdMMFJSQ0VRQ0d1WjFqbDZUN2tvNkZLUVlRSHQ0S21HVTYzOFZvVWt0S2p2cUI3dmtHRUozR3RGNnRaeElaOHg2UndjZ1NsRVU?oc=5)
 
 ---
 
