@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Una farmacéutica ya está desarrollando una vacuna contra el hantavirus con tecnología ARN mensajero](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
+### [Moderna no "tiene lista una vacuna de ARN mensajero" contra las infecciones por hantavirus, a 11 de mayo de 2026](https://news.google.com/rss/articles/CBMipwFBVV95cUxONTQ2NldZTGxWRVFUUUV5SzktSFpOVzY3eFlGNXFfamw5bHhkZzBSaWJUa1VMZUhZaGItUmFPYlpzZC13OElFb080SFFUZXdMZEpVSzk4VTF1eGxmY3J0TUlDc05WYlR2U3BkLWJHUDlULUxMb1FONGVFTTdZU2V3OWxzWTVUUUNZWVk1a3A5ZkczenViMkZDS1U2TzJSRmdZdVRNSTB4bw?oc=5)
 
-2026-05-10 <span class="news-indication-tag">asma</span>
+2026-05-11 <span class="news-indication-tag">asma</span>
 
-來源：[WIRED](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
+來源：[Maldita.es](https://news.google.com/rss/articles/CBMipwFBVV95cUxONTQ2NldZTGxWRVFUUUV5SzktSFpOVzY3eFlGNXFfamw5bHhkZzBSaWJUa1VMZUhZaGItUmFPYlpzZC13OElFb080SFFUZXdMZEpVSzk4VTF1eGxmY3J0TUlDc05WYlR2U3BkLWJHUDlULUxMb1FONGVFTTdZU2V3OWxzWTVUUUNZWVk1a3A5ZkczenViMkZDS1U2TzJSRmdZdVRNSTB4bw?oc=5)
+
+---
+
+### [Wenn die Kinderlunge pfeift - radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">asthma</span>
+
+來源：[radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
+
+---
+
+### [Erneut bestätigt: Aluminium in Impfstoffen unproblematisch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FfVmhQb1RaTEcxZmlpdEdXVGs1dlhQb1NCdm5FRXQ4d2JCMGJ6bEVFRnh4Q0l1bTcwcDlQVF9kQjRtUzBKZHBUWG1fZXZxZ1d5WFR4NEZWT3plamcza2NiQ3Z3U1pQT29NZG53a3lrdHNiVHhaMjFsbjdhSFVOb3pSZ1BYXzF4TU00TGpjaURNT1BoZUFqM0VJWWs2TWhXeGp2YU8yYVVOUQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FfVmhQb1RaTEcxZmlpdEdXVGs1dlhQb1NCdm5FRXQ4d2JCMGJ6bEVFRnh4Q0l1bTcwcDlQVF9kQjRtUzBKZHBUWG1fZXZxZ1d5WFR4NEZWT3plamcza2NiQ3Z3U1pQT29NZG53a3lrdHNiVHhaMjFsbjdhSFVOb3pSZ1BYXzF4TU00TGpjaURNT1BoZUFqM0VJWWs2TWhXeGp2YU8yYVVOUQ?oc=5)
 
 ---
 

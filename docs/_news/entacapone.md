@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### ['It's heartbreaking to lose loved ones to dementia'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/entacapone/
 2026-05-11 <span class="news-indication-tag">dementia</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05OXVlVnVDOFNmbGpRMzAwUmRsQXFfdTdqNjRKWC1vSi1mcFNJOHh6NHdUdHRYZHZ0czVfSk5LTDZSdWlCcTVJSjFDYXAwZGM3aXRYMXN0OVhRVzVD?oc=5)
-
----
-
-### [Parkinson's tech helps man talk to his daughters](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qOHNCSUdxQkUxaFpVdU5qVG93a21XcVNvWGY3SFdDRUp4M05qRjg1VFJjdkFSZDNlNDRFYzh3MDdwQ3dlMll1eTRfb0NNYVYwWjNKZzhWT1BXVk5C?oc=5)
-
-2026-05-11 <span class="news-indication-tag">Parkinson's</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qOHNCSUdxQkUxaFpVdU5qVG93a21XcVNvWGY3SFdDRUp4M05qRjg1VFJjdkFSZDNlNDRFYzh3MDdwQ3dlMll1eTRfb0NNYVYwWjNKZzhWT1BXVk5C?oc=5)
 
 ---
 

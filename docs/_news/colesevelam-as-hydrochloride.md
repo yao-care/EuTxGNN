@@ -54,11 +54,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（3 則）
 
-### [Fettleber stört Blutzucker-Hormone massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 
-2026-05-11 <span class="news-indication-tag">diabetes</span>
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+來源：[Heute](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 
 ---
 

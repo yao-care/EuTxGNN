@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="Tedizolid 有什麼相關新聞？">
-<strong>Tedizolid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tedizolid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tedizolid/
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Le piège de l'adolescence : comment un simple joint double le risque de schizophrénie et de bipolarité à 26 ans](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
+
+2026-05-11 <span class="news-indication-tag">EPOC</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Dr. Enrique Rodilla: «Sólo uno de cada tres hipertensos en España está realmente controlado»](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
+### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
-2026-05-11 <span class="news-indication-tag">hipertensión</span>
+2026-05-11 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
+
+---
+
+### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
+
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Heute](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 
 ---
 

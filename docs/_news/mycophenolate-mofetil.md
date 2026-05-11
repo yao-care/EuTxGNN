@@ -14,7 +14,7 @@ permalink: /news/mycophenolate-mofetil/
 ---
 
 <p class="key-answer" data-question="Mycophenolate Mofetil 有什麼相關新聞？">
-<strong>Mycophenolate Mofetil</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mycophenolate Mofetil</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,125 @@ permalink: /news/mycophenolate-mofetil/
 <p><a href="{{ '/drugs/mycophenolate-mofetil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（30 則）
 
-### [Schwangerschaftsvergiftung: Erstmals therapeutischer Ansatz erprobt - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUJwcm1YVFRKN2dGaVZ5OFZDUVZad0JRVF81LW9uYXJ6VnNNTGc3TV9zZ0wya3VPQ0JlVkFQeUJfUW9KUGxBQmk2Q1NST1lMNElQLWJad2Q5eTdhSXBlVTE3TjNKV2xvY2FwbTZfcWkxbDhoVUNVWXp0a0UwT25FY2ZaMEs1Nlk3NFNpSG5vd2ZGSDNPMEdwSFh1aWx2a2JROEl3YjB2WURfejBvOVZBenJLXzhCWlp5WEpFQUt6Rlkxdw?oc=5)
+### [Blutwäsche gegen Schwangerschaftsvergiftung](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJOZTJReXU3MWZXYlZ6Z1hDZ2p4ZHgyaG0wempTSzNmM1dIN0NNLUd2VGZaelFIX0w5SnVpRWlYYkxTUnNycWx3MXZtUHlvNUhSaW5yNi1VVjJXX2JXQ0h3MHdQTFlQYXRaZ3QzZXZqVVB6bEJlaElfZW1qYzdGak1GWTR6dw?oc=5)
 
 2026-05-11 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUJwcm1YVFRKN2dGaVZ5OFZDUVZad0JRVF81LW9uYXJ6VnNNTGc3TV9zZ0wya3VPQ0JlVkFQeUJfUW9KUGxBQmk2Q1NST1lMNElQLWJad2Q5eTdhSXBlVTE3TjNKV2xvY2FwbTZfcWkxbDhoVUNVWXp0a0UwT25FY2ZaMEs1Nlk3NFNpSG5vd2ZGSDNPMEdwSFh1aWx2a2JROEl3YjB2WURfejBvOVZBenJLXzhCWlp5WEpFQUt6Rlkxdw?oc=5)
+來源：[Oiger](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJOZTJReXU3MWZXYlZ6Z1hDZ2p4ZHgyaG0wempTSzNmM1dIN0NNLUd2VGZaelFIX0w5SnVpRWlYYkxTUnNycWx3MXZtUHlvNUhSaW5yNi1VVjJXX2JXQ0h3MHdQTFlQYXRaZ3QzZXZqVVB6bEJlaElfZW1qYzdGak1GWTR6dw?oc=5)
 
 ---
 
-### ["1 in 10 people will sustain long-term damage to their lungs, & for 1%, the infection can spread to their brain & spinal cord." What you need to know fungus storms - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pVGZDV0lMOUc5OUZpeFhRSzBJSEprQVdFamhfTFJHb0Z6VTJUdTJBb3hhcjA4eGJSRWRGaGpIblhFZm9yVnN6NmdqcU5HTE5OQkdIeFJDSkFUZHdIbnRKY1djZm5CXzd6NTFjTkxXM1g?oc=5)
+### [Therapie bei spontaner Koronararteriendissektion - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tczJacko4S2h6YVV0WkdQZENiUTRORTFSWlNSLThFT011NHBsMno5M0xPU245UWE1N3pCSk1CSEEyVm1LQkdFOVNnWQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tczJacko4S2h6YVV0WkdQZENiUTRORTFSWlNSLThFT011NHBsMno5M0xPU245UWE1N3pCSk1CSEEyVm1LQkdFOVNnWQ?oc=5)
+
+---
+
+### [La Alianza MSD-AstraZeneca pone en marcha la segunda edición de la iniciativa 'Mi historia continúa' - Redacción Médica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNUFocFhDOVUxd3NFUEtsbzFLbHBKUTJOMkJ4cmszRHZ4YjFTc0d6N0l2ZGNoUVVNUGl0VXJaTnM3THc1cWtqT1hRcDJyMnpHR05FaWFUdFNWSFhBcnNqT0tHeHBoS3p4aGJySjR4dFhCYV9WMWtwVFFRdDJiQzUzVlY4bDU1Y2xfc3pFdnd3Q3BZaWljTUdjOFN6MkpVYlNuWmp5bDFfSFZlaFdXVmoyNlljZ1RGNk5wWXBwdlBhVmFhdUp1QlZWMEJrQzNYNUFGZS15ZEdURENHYXdaOUg1OUpUNTZsMG1yclRF0gHrAUFVX3lxTE9OR3BFM3BQUXRMNC1nYVUzYVhxM1d0Q0RTYzNIdzVIbklXeWtCdkhoenNNZy1oaUpURUFLR21IMFdpR20yaUZTc1Nfa1FOZTZGOVN5a3kwaUJkOUZ4TEJWaWM4aTlya2V0T3BOQ1hWT3pGdmtPNlBNMVJfcWZ2djZ2cEplbGs1WDMwQS1oaHZIUUxsY2FSS0NGMTdqeVhZQ2tXOGRYU0VucFZZLVlNblBFRFBENkdnRXBMWXZQM2FPZ1YwN01HTG85YlJXbkd2SXducjJma1V4d0RTUGtieUJvZmkxNGRvSWpFdzA?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNUFocFhDOVUxd3NFUEtsbzFLbHBKUTJOMkJ4cmszRHZ4YjFTc0d6N0l2ZGNoUVVNUGl0VXJaTnM3THc1cWtqT1hRcDJyMnpHR05FaWFUdFNWSFhBcnNqT0tHeHBoS3p4aGJySjR4dFhCYV9WMWtwVFFRdDJiQzUzVlY4bDU1Y2xfc3pFdnd3Q3BZaWljTUdjOFN6MkpVYlNuWmp5bDFfSFZlaFdXVmoyNlljZ1RGNk5wWXBwdlBhVmFhdUp1QlZWMEJrQzNYNUFGZS15ZEdURENHYXdaOUg1OUpUNTZsMG1yclRF0gHrAUFVX3lxTE9OR3BFM3BQUXRMNC1nYVUzYVhxM1d0Q0RTYzNIdzVIbklXeWtCdkhoenNNZy1oaUpURUFLR21IMFdpR20yaUZTc1Nfa1FOZTZGOVN5a3kwaUJkOUZ4TEJWaWM4aTlya2V0T3BOQ1hWT3pGdmtPNlBNMVJfcWZ2djZ2cEplbGs1WDMwQS1oaHZIUUxsY2FSS0NGMTdqeVhZQ2tXOGRYU0VucFZZLVlNblBFRFBENkdnRXBMWXZQM2FPZ1YwN01HTG85YlJXbkd2SXducjJma1V4d0RTUGtieUJvZmkxNGRvSWpFdzA?oc=5)
+
+---
+
+### [RNA-Therapie bremst krankhafte Umbauprozesse nach Herzinfarkt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
+
+---
+
+### [La función oculta del intestino y del hígado en la inflamación de bajo grado y su afección en el cuerpo humano](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOEVOektzYndDQUk1dFNsd2pqcm1RVm53bWNyX0tGU1JiSHFVSXhSYlNHSjJjX1FNTUlmbnhsc3JaX1R5NngwWVd2WkRfNDNrdWJXamFDbWNBUXRxUHlHZFNxQWMxWjhSZFFNSDgtSUt1ZEdEdWVmOE5RRTRIWlNBRU5JSHBWRlBGNEx5eU5nSEYwZ05RRy13VmpZdXZOS0o1ZFRFWFR4blFTNF9EcWtHWl9jVHplRktOZThQWVVpSUgzeXdRQ2lYRHB3YWxxeExyaHFWRk1lZlhaYloyVEdwUGV4dGUyZ1RZa2psYXhOMk5ERzBI0gH0AUFVX3lxTE9GVkxfNjdOM25NM0o0QkROTnB6TkFUbTRaYzBaZjM3UmFpRXZjNGM2UE1LYUdyQWFBd2EwZnJvMTdWRTZSRHM4ZkZYSmo3UlRnN2NGM2tSLUZ6V2JVam5CSGVuUGJTNlVDY3ZqMTVJNWtUaWJPSU5hRDV1dE5xRkZiOWFnZkFxOThmQnFMOVVsOGV3WjRwMVZBN2dMOFNPR2JoX3Z2N0VpaHhHOFBaMFZuSGY3V3VKd2l0V2tlT0pxRk5TNUNOTDFMaHh6UVVUTnhad21kM2dHSFBvWWtxcVE0QUtVQVVmUHRLd1QyWTY2SFFneHI?oc=5)
+
+2026-05-11 <span class="news-indication-tag">AF</span>
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOEVOektzYndDQUk1dFNsd2pqcm1RVm53bWNyX0tGU1JiSHFVSXhSYlNHSjJjX1FNTUlmbnhsc3JaX1R5NngwWVd2WkRfNDNrdWJXamFDbWNBUXRxUHlHZFNxQWMxWjhSZFFNSDgtSUt1ZEdEdWVmOE5RRTRIWlNBRU5JSHBWRlBGNEx5eU5nSEYwZ05RRy13VmpZdXZOS0o1ZFRFWFR4blFTNF9EcWtHWl9jVHplRktOZThQWVVpSUgzeXdRQ2lYRHB3YWxxeExyaHFWRk1lZlhaYloyVEdwUGV4dGUyZ1RZa2psYXhOMk5ERzBI0gH0AUFVX3lxTE9GVkxfNjdOM25NM0o0QkROTnB6TkFUbTRaYzBaZjM3UmFpRXZjNGM2UE1LYUdyQWFBd2EwZnJvMTdWRTZSRHM4ZkZYSmo3UlRnN2NGM2tSLUZ6V2JVam5CSGVuUGJTNlVDY3ZqMTVJNWtUaWJPSU5hRDV1dE5xRkZiOWFnZkFxOThmQnFMOVVsOGV3WjRwMVZBN2dMOFNPR2JoX3Z2N0VpaHhHOFBaMFZuSGY3V3VKd2l0V2tlT0pxRk5TNUNOTDFMaHh6UVVUTnhad21kM2dHSFBvWWtxcVE0QUtVQVVmUHRLd1QyWTY2SFFneHI?oc=5)
+
+---
+
+### [Wenn Schlaf fehlt, kippt die Stimmung: Was im Gehirn von Teenagern passiert - Der Standard](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNU5xTExoMU1aclFIc3FNdGhfcHdPREtMYkZHd0gxYU9kUFZSWmRHUkdyaGVJYUpBS2llSWhydUIyMU9rRlhYaFljSkJPMElhNndQeUNOLXdGNExjOWk4c3M5Wk1Kc0NteGx2SUhHNjFDb2MzbHkzR0dtY2JCVjR4aEVKQWFRMG1LNWh2N2FpY0JXRUE2cGhfaEhaSGxnUGVSakcxazJZbjVUc2lOT1lRWGR6MVBKV0tuVlUxNw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">AF</span>
+
+來源：[Der Standard](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNU5xTExoMU1aclFIc3FNdGhfcHdPREtMYkZHd0gxYU9kUFZSWmRHUkdyaGVJYUpBS2llSWhydUIyMU9rRlhYaFljSkJPMElhNndQeUNOLXdGNExjOWk4c3M5Wk1Kc0NteGx2SUhHNjFDb2MzbHkzR0dtY2JCVjR4aEVKQWFRMG1LNWh2N2FpY0JXRUE2cGhfaEhaSGxnUGVSakcxazJZbjVUc2lOT1lRWGR6MVBKV0tuVlUxNw?oc=5)
+
+---
+
+### [Cómo afecta la ansiedad, el estrés y los trastornos mentales a la salud bucal, según expertos](https://news.google.com/rss/articles/CBMizgFBVV95cUxPaWVzLTQtUVFreW9WSlJYa0pjTWtTTTFYVlpValVqaTdzcTZmcjJTYUdNUG9tMTNfeFl0cW5wbG80M3BYTVhqbmlzUDBub1VVX2ZrM1lLV25IaGFnWHpUbVA5MmJsSF9WbGFNZklCNE5KOUpObE4wVkRLaFYzV0g1WGc3TkNjeGZnaW9GQTRvTm5NbFc2VEkxTHIzY1MtWmEyVUZheFJ5UVd3Wkx2bk05RkwwM0prSlJJcVNzZldLSnlvdVB5TTctcXBNcGFKd9IB6AFBVV95cUxNY05iNkF3aUIzMWxNLVF0Z0JpYjZxdHhMOXFBa3I0dHpsOC02SGM4MGVxbkJiTkZGOGdPNXgwTUU1UEdpWGNRYThxLTR3NWVuZEN3NVZBOUZ3UGZRUXJiVml6eFFZaDlkcTZLQjlnZ0ZBU2h4MXRrQU9aOV9jOTBQQ0NYQ1lfMW5rZFpKUmYyM2owZEJvWjV1VEcxaVNmN3RSMmcwT2x1N2U5MF85RkczTGgxeF9vVEU4bmxfdXFqcFNZOXJCcGRoRFNPeUtMMWFUTkdTNHRvUEZNNzhENUg4ZDdSQmJZOGxo?oc=5)
+
+2026-05-11 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMizgFBVV95cUxPaWVzLTQtUVFreW9WSlJYa0pjTWtTTTFYVlpValVqaTdzcTZmcjJTYUdNUG9tMTNfeFl0cW5wbG80M3BYTVhqbmlzUDBub1VVX2ZrM1lLV25IaGFnWHpUbVA5MmJsSF9WbGFNZklCNE5KOUpObE4wVkRLaFYzV0g1WGc3TkNjeGZnaW9GQTRvTm5NbFc2VEkxTHIzY1MtWmEyVUZheFJ5UVd3Wkx2bk05RkwwM0prSlJJcVNzZldLSnlvdVB5TTctcXBNcGFKd9IB6AFBVV95cUxNY05iNkF3aUIzMWxNLVF0Z0JpYjZxdHhMOXFBa3I0dHpsOC02SGM4MGVxbkJiTkZGOGdPNXgwTUU1UEdpWGNRYThxLTR3NWVuZEN3NVZBOUZ3UGZRUXJiVml6eFFZaDlkcTZLQjlnZ0ZBU2h4MXRrQU9aOV9jOTBQQ0NYQ1lfMW5rZFpKUmYyM2owZEJvWjV1VEcxaVNmN3RSMmcwT2x1N2U5MF85RkczTGgxeF9vVEU4bmxfdXFqcFNZOXJCcGRoRFNPeUtMMWFUTkdTNHRvUEZNNzhENUg4ZDdSQmJZOGxo?oc=5)
+
+---
+
+### [Forschungspreis für Priv.-Doz. Al-Sawaf - Uniklinik Köln](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFpQeTJfTmVqWWNIWG5vd0cyMC1KUF9ORVVmMExQcEp4UEdNTHVqTkdXb2w2NjN6SlU5WGJKSzdOVTl0MThLTEtDS2MzTk15aDVmVTVyRzYzMUJ4TjByRTdpZjJ5Y0JRazBnVHJNN29WeGdKQll4WnVsUXEtRXF3QlctQWIzQkMzcGxOODVybHN2THpyMG1qeTlwVU9VWEo3bndRa093?oc=5)
+
+2026-05-11 <span class="news-indication-tag">AF</span>
+
+來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFpQeTJfTmVqWWNIWG5vd0cyMC1KUF9ORVVmMExQcEp4UEdNTHVqTkdXb2w2NjN6SlU5WGJKSzdOVTl0MThLTEtDS2MzTk15aDVmVTVyRzYzMUJ4TjByRTdpZjJ5Y0JRazBnVHJNN29WeGdKQll4WnVsUXEtRXF3QlctQWIzQkMzcGxOODVybHN2THpyMG1qeTlwVU9VWEo3bndRa093?oc=5)
+
+---
+
+### [El aceite de oliva y el sorprendente efecto en la salud que la ciencia no deja de confirmar](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmlxSXNET0gwY2JXUlEwWVZRTnNEMGt6aF9Bdl83Rm9tSGNmdGpVWFMxSXBOd1Y3YVB3d1hOWmFhZ3h2elM2U3piVENzZ0dRNlNyZzR1anZ5OTB6VXVEZ0k2UU9Ra2xWZG1wM3prcmN2V0RITG52clo2OGdUNnZYRw?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span>
 
-來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pVGZDV0lMOUc5OUZpeFhRSzBJSEprQVdFamhfTFJHb0Z6VTJUdTJBb3hhcjA4eGJSRWRGaGpIblhFZm9yVnN6NmdqcU5HTE5OQkdIeFJDSkFUZHdIbnRKY1djZm5CXzd6NTFjTkxXM1g?oc=5)
+來源：[moncloa.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmlxSXNET0gwY2JXUlEwWVZRTnNEMGt6aF9Bdl83Rm9tSGNmdGpVWFMxSXBOd1Y3YVB3d1hOWmFhZ3h2elM2U3piVENzZ0dRNlNyZzR1anZ5OTB6VXVEZ0k2UU9Ra2xWZG1wM3prcmN2V0RITG52clo2OGdUNnZYRw?oc=5)
 
 ---
 
-### [Gum Health Day 2026 – Bewusstsein für Zahnfleischgesundheit schaffen - ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxPMEVZcmJ1VV9NbkZ2ZUd0dTNNWEYySnlGRmxDbDFlSEhDbjlHY0lMM2xLMnNNN19XTy1yTm5nY0hmaWlBUkI5TDlVRTR4Y2JFckNjdTd5Qlp5Z3FqUkJwczc4V3Z0WExIQ3dqQkg0djVCZG83a2RwbV9lcURxUUJQMDNweFFRbUdZcC1iSFBpV3FNV3RXTXJJSC10RS1pOUMxRjhRX0gwUms4S0MyUjdseFE4QlVRR2NUSEphcDlOWGRCdmdSVWVDY3BOOU4?oc=5)
+### [Horrified woman finds 6inch scissors in STOMACH after having tummy tuck - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3dxa3VOWWNTSS1HclYyajgxTHZUZWJDLU0zV3BEaVQ1UW5TbXNWYnNiazdKRjVIYmU0UGk2MlZaM2o3bGtLaWFlUEdvaE9obTBacGlhQTFUN3FFOTJWMmtKUDVkZ0NwZ2JVQUhuSU9lYVRfaVphR3djNmR1ZEE3Xy1vQ2hQcmd5SW5DaEdn?oc=5)
 
 2026-05-11 <span class="news-indication-tag">AF</span>
 
-來源：[ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxPMEVZcmJ1VV9NbkZ2ZUd0dTNNWEYySnlGRmxDbDFlSEhDbjlHY0lMM2xLMnNNN19XTy1yTm5nY0hmaWlBUkI5TDlVRTR4Y2JFckNjdTd5Qlp5Z3FqUkJwczc4V3Z0WExIQ3dqQkg0djVCZG83a2RwbV9lcURxUUJQMDNweFFRbUdZcC1iSFBpV3FNV3RXTXJJSC10RS1pOUMxRjhRX0gwUms4S0MyUjdseFE4QlVRR2NUSEphcDlOWGRCdmdSVWVDY3BOOU4?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3dxa3VOWWNTSS1HclYyajgxTHZUZWJDLU0zV3BEaVQ1UW5TbXNWYnNiazdKRjVIYmU0UGk2MlZaM2o3bGtLaWFlUEdvaE9obTBacGlhQTFUN3FFOTJWMmtKUDVkZ0NwZ2JVQUhuSU9lYVRfaVphR3djNmR1ZEE3Xy1vQ2hQcmd5SW5DaEdn?oc=5)
+
+---
+
+### [‘The mouth is a gateway into your body’: the fascinating, frightening links between our gums and our health - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1pkSGVkOVBTOFVidzdoVmJ0eng0c1NvX2tNS3ZFOWJsOWJKRHp4cmM4endMM0lGS0RoZmg1UWpRT0FkOV9PU0pEVVpRT1RvczZqYUxhNHUxazdUSm0zcnp1Njh3OE16enB3NXNoLVNEMUZIX0dfS3FXV0pnWHljMnpCN29lX0puZFQ0MHVGS09lVjViTXJ4eW9JQjJZeVFVN09zVjhhbzlOelFfU1JDT0wyVVVIeUU?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1pkSGVkOVBTOFVidzdoVmJ0eng0c1NvX2tNS3ZFOWJsOWJKRHp4cmM4endMM0lGS0RoZmg1UWpRT0FkOV9PU0pEVVpRT1RvczZqYUxhNHUxazdUSm0zcnp1Njh3OE16enB3NXNoLVNEMUZIX0dfS3FXV0pnWHljMnpCN29lX0puZFQ0MHVGS09lVjViTXJ4eW9JQjJZeVFVN09zVjhhbzlOelFfU1JDT0wyVVVIeUU?oc=5)
+
+---
+
+### [Erneut bestätigt: Aluminium in Impfstoffen unproblematisch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FfVmhQb1RaTEcxZmlpdEdXVGs1dlhQb1NCdm5FRXQ4d2JCMGJ6bEVFRnh4Q0l1bTcwcDlQVF9kQjRtUzBKZHBUWG1fZXZxZ1d5WFR4NEZWT3plamcza2NiQ3Z3U1pQT29NZG53a3lrdHNiVHhaMjFsbjdhSFVOb3pSZ1BYXzF4TU00TGpjaURNT1BoZUFqM0VJWWs2TWhXeGp2YU8yYVVOUQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0FfVmhQb1RaTEcxZmlpdEdXVGs1dlhQb1NCdm5FRXQ4d2JCMGJ6bEVFRnh4Q0l1bTcwcDlQVF9kQjRtUzBKZHBUWG1fZXZxZ1d5WFR4NEZWT3plamcza2NiQ3Z3U1pQT29NZG53a3lrdHNiVHhaMjFsbjdhSFVOb3pSZ1BYXzF4TU00TGpjaURNT1BoZUFqM0VJWWs2TWhXeGp2YU8yYVVOUQ?oc=5)
+
+---
+
+### [El nuevo positivo de Hantavirus refuerza la necesidad de una cuarentena de seis semanas](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUpSeXE3ZTVIczZKckRLYXJzTW9QVWE5MnpLQU5uZDVtUDFCODZWUmJiVHhRVEY4ekxmNWs4ZTNQaERhS2VUNktITFVOcUpCTWJZNVRraEU3ZExRamRISVpVUFBidzU2anVOMFloVFQzSk5RVVFja1hncTFaVjh3UExvckRnejFuYWx3T1piV1lURURZTXp0bFptd2ZKcE5fYzRKWmdmUmJiUlNadVVHNVo1dExQZkF5MllZeTdiRC1mM1doLWVHRA?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUpSeXE3ZTVIczZKckRLYXJzTW9QVWE5MnpLQU5uZDVtUDFCODZWUmJiVHhRVEY4ekxmNWs4ZTNQaERhS2VUNktITFVOcUpCTWJZNVRraEU3ZExRamRISVpVUFBidzU2anVOMFloVFQzSk5RVVFja1hncTFaVjh3UExvckRnejFuYWx3T1piV1lURURZTXp0bFptd2ZKcE5fYzRKWmdmUmJiUlNadVVHNVo1dExQZkF5MllZeTdiRC1mM1doLWVHRA?oc=5)
+
+---
+
+### [Killer kitchen dust banned after lung disease deaths of young workers - The i Paper](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVdTYXFabmlxTndfc2tkOGJOWkdHVk5vN3JBQ2xHTHJzbUIxUjcxQ3V2YXpxRFJXNG5EMm1saUNOYnltTDlnNEtQVXF5MzVOZzNENGRyeWFfd0trVlotcGFqOUNBMmQtNEF1Z3lYc2VRZDRrQVlDbTBkM0ZxQWF1aEw1WnNlQQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVdTYXFabmlxTndfc2tkOGJOWkdHVk5vN3JBQ2xHTHJzbUIxUjcxQ3V2YXpxRFJXNG5EMm1saUNOYnltTDlnNEtQVXF5MzVOZzNENGRyeWFfd0trVlotcGFqOUNBMmQtNEF1Z3lYc2VRZDRrQVlDbTBkM0ZxQWF1aEw1WnNlQQ?oc=5)
+
+---
+
+### [Birmingham doctor 'high risk to public' after having sex with patient and 'giving her £900' - Birmingham Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVZXZHhQaTREdk1wSmVrVGVQTnA0S2RSWV9QOW1pc3BObm9LV1RFVUdCalNKejk0MldGSUNwWjZVeUhtVWthamJRNk9FaGFBQnlkY0ZZaUdlSVdKZlJRckRQMzM4bkJuREFlbHJ4MlRIeExhdmNPRUwzalY2d1RUSEhxcTJscFZEb055Q3c1NDFYR3VjOWpvczAxbw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">AF</span>
+
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVZXZHhQaTREdk1wSmVrVGVQTnA0S2RSWV9QOW1pc3BObm9LV1RFVUdCalNKejk0MldGSUNwWjZVeUhtVWthamJRNk9FaGFBQnlkY0ZZaUdlSVdKZlJRckRQMzM4bkJuREFlbHJ4MlRIeExhdmNPRUwzalY2d1RUSEhxcTJscFZEb055Q3c1NDFYR3VjOWpvczAxbw?oc=5)
 
 ---
 
@@ -94,35 +190,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Un brote de hantavirus sorprende a un mundo que sigue debatiendo cómo hacer frente a la próxima pandemia - EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZm5PZzE0SFVjLVlMejZUM3BQYU41TXMtb0Z5Wm1rNFhEQTkwM3pLNjVOVGxLVjZiOW5RRFUzemNQUVRhT3J4TGVERTB6MGNnLUFGMjdpOFlRTGxlb0NncGhsdG1aeVV3eFVMemlvZ2ppdE9qZGZ6Rk01Yk9VSXZ2YXdrcDRFT0pTN0w2RGFUZUtCWUpQOVA1NzAtYWZtMjQxdU8wSG1yZjlFU3lweG5KS0s4NlRESk1haFBydDBCRDY5SnBxbDRhWXR4bkl0VDBZNE9pUDNyV2MyZzNTNGJJVzJvWDluLWp6M2fSAf4BQVVfeXFMTkkxV1ZFY3Q3TVhQWFdNTDZGSlV5SkFZMktpLWVJejlCVlRIQUV0eFJtenc0TjNiakY1eEJBQ3M2VldVNFRrcjVwVnh0dmxSVGY5ZVQtNUp1a2JXQ2pTOTByZV8zVnJ0NnQ4MGdXM2J6b3lmUDJzMy1Na3JDY0Y5cTA3Qm44d21TV19CTVZTUlFyTDJ0M2YtSFpEeklNLUZhZUhJSXNNamszUWtqTnZsaEYwaVlNek5Qcnp1cGxObU5rWFNSb2NoS1haQlZCRV9PUHJtMU5kVzNLa2x0MHI3UWs5R1NDVlMydGltRUt1VnFUMFNWVjVfMk4tbFBqa0E?oc=5)
-
-2026-05-11 <span class="news-indication-tag">AF</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZm5PZzE0SFVjLVlMejZUM3BQYU41TXMtb0Z5Wm1rNFhEQTkwM3pLNjVOVGxLVjZiOW5RRFUzemNQUVRhT3J4TGVERTB6MGNnLUFGMjdpOFlRTGxlb0NncGhsdG1aeVV3eFVMemlvZ2ppdE9qZGZ6Rk01Yk9VSXZ2YXdrcDRFT0pTN0w2RGFUZUtCWUpQOVA1NzAtYWZtMjQxdU8wSG1yZjlFU3lweG5KS0s4NlRESk1haFBydDBCRDY5SnBxbDRhWXR4bkl0VDBZNE9pUDNyV2MyZzNTNGJJVzJvWDluLWp6M2fSAf4BQVVfeXFMTkkxV1ZFY3Q3TVhQWFdNTDZGSlV5SkFZMktpLWVJejlCVlRIQUV0eFJtenc0TjNiakY1eEJBQ3M2VldVNFRrcjVwVnh0dmxSVGY5ZVQtNUp1a2JXQ2pTOTByZV8zVnJ0NnQ4MGdXM2J6b3lmUDJzMy1Na3JDY0Y5cTA3Qm44d21TV19CTVZTUlFyTDJ0M2YtSFpEeklNLUZhZUhJSXNNamszUWtqTnZsaEYwaVlNek5Qcnp1cGxObU5rWFNSb2NoS1haQlZCRV9PUHJtMU5kVzNLa2x0MHI3UWs5R1NDVlMydGltRUt1VnFUMFNWVjVfMk4tbFBqa0E?oc=5)
-
----
-
 ### [Adipositas und Vorhofflimmern: Besteht ein direkter Zusammenhang?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHozYl9rQ25KY1g3c2FHdDY0WG82RFFPeTNPa0xtNzBrZkNKNWl4TGpKY1FrcnNTWW9QaHB2Q2p1U2Q1S1U1cTVHUU8yNFU1ODRFQjlRMk5Hem5QTjUzSl85UW9NUm5NRFpaSjJvZV9sRjJwWjNtYTFZRUUtUXVBXy1aTF9GdUlTMThqUUZkQmY2ZEl5MEExOGZTaERXaXRZSWtHLUZxSG5HYmtBZXgxYUp3?oc=5)
 
 2026-05-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHozYl9rQ25KY1g3c2FHdDY0WG82RFFPeTNPa0xtNzBrZkNKNWl4TGpKY1FrcnNTWW9QaHB2Q2p1U2Q1S1U1cTVHUU8yNFU1ODRFQjlRMk5Hem5QTjUzSl85UW9NUm5NRFpaSjJvZV9sRjJwWjNtYTFZRUUtUXVBXy1aTF9GdUlTMThqUUZkQmY2ZEl5MEExOGZTaERXaXRZSWtHLUZxSG5HYmtBZXgxYUp3?oc=5)
-
----
-
-### [Un superviviente de hantavirus en 2023: “Fue como un infierno en la tierra” - Diario AS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkJJcGJ5dEpIdkl4MWVwc0FQV29MWjBVZUNjOFdiVy1JT1JXYm1RVTJsc0l1eDZiZ0pUSk9NQ0diNzgteDVLeWNxV1daYkVxYk85Z09oLXFLcGs1ZWtDcWZ2Y0hkQWNSZk5pQmtEYUFxalM5eHI3MWpUNkZTV2I2RVB4czlUcnZSUGNaNDliS1kzM3hfeHlEcmdlazB1Q1BoenpiaWZyVEw2WFdpLUVYdjNXWjV1ZHF2LXfSAc4BQVVfeXFMUE1ZSFVrSlN1dndlZnZtWHp1MU83Q1hycU9TUGc4M2I4Qm5zR1E2aXR3N29ZVFROdXRVZElmTGdjRGV5ZkkxOUp4RG1uZ3BFU2NXdXNuTzFDN2tGcHhLam1Pb1RuTmZmaHh2YVMxMGZLZHVaVjBVaGNOMHlRcWUzWlh5NVpmWWdYbm9sS1A4RllXSndhbU1HcTMzbjNXUkIwMzkyV1BPcjUzTF9ObWJaTWZrb2N1WnJPZXc0SXZNUWZOWEhQbHZQcndPalZqSmc?oc=5)
-
-2026-05-10 <span class="news-indication-tag">MS</span>
-
-來源：[Diario AS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkJJcGJ5dEpIdkl4MWVwc0FQV29MWjBVZUNjOFdiVy1JT1JXYm1RVTJsc0l1eDZiZ0pUSk9NQ0diNzgteDVLeWNxV1daYkVxYk85Z09oLXFLcGs1ZWtDcWZ2Y0hkQWNSZk5pQmtEYUFxalM5eHI3MWpUNkZTV2I2RVB4czlUcnZSUGNaNDliS1kzM3hfeHlEcmdlazB1Q1BoenpiaWZyVEw2WFdpLUVYdjNXWjV1ZHF2LXfSAc4BQVVfeXFMUE1ZSFVrSlN1dndlZnZtWHp1MU83Q1hycU9TUGc4M2I4Qm5zR1E2aXR3N29ZVFROdXRVZElmTGdjRGV5ZkkxOUp4RG1uZ3BFU2NXdXNuTzFDN2tGcHhLam1Pb1RuTmZmaHh2YVMxMGZLZHVaVjBVaGNOMHlRcWUzWlh5NVpmWWdYbm9sS1A4RllXSndhbU1HcTMzbjNXUkIwMzkyV1BPcjUzTF9ObWJaTWZrb2N1WnJPZXc0SXZNUWZOWEhQbHZQcndPalZqSmc?oc=5)
-
----
-
-### [Ana Teijeira, experta en sueño: "Cada vez vemos más incidencia de insomnio en nuestra sociedad" - Cadena SER](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1pSaXF4NVNrZzVSN25lZ1o2VHBwWFhCaU15aEEteGdqb0VVenUwX2ljd2tWRlVLZjlFQmNyLW9Bcm5qdmY1QlBLOG5hemQySEp1b184OU9XOFE0TjZWdTN1T3d5VjNxTjNETk9TeVl2Y3ktRmhEN3BkYm9OYzdNSzlwa0VDY2FtNHNubWpQelhKWVVFRkJTRU0wMEx1d2hxd2dKLUxMcTIwdnZNaTR1WF9fdUNIT3lGMTF3LWpRV3d3d2gwS1d2dXpuUmd4dVl1S3o5NDlmVzd1aUFEaVHSAfIBQVVfeXFMTzl1ZW1WdHd1SHNHZGc1dzRUcGFFUWl0eElIYUMwaWhWMXZ4aXFTWk1HZWJESTF6aktSeEVUYURwdWlUSTU3elR5TVN0UTk1eVJhdzFzUmVaUE5aT0pHVmM5aWVZZ1FyNlh0X3hBNkUzYXlnR2daRzFuWDRBd080VEYyZjJIMjNGUFR1c2VPUTdWX2sxYjVaamZ3VVBZM2N2MGJiWUNBLXVNc2lPc0pNcnhqbmY2NHRaUDZwMUlmQldEcE5WX0N2RFdJcXo4eFNVSkhvMWdxSXUxdlRzMmg4aTJQRUxRLXBBT1psUG9NZTJpeVE?oc=5)
-
-2026-05-10 <span class="news-indication-tag">AF</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1pSaXF4NVNrZzVSN25lZ1o2VHBwWFhCaU15aEEteGdqb0VVenUwX2ljd2tWRlVLZjlFQmNyLW9Bcm5qdmY1QlBLOG5hemQySEp1b184OU9XOFE0TjZWdTN1T3d5VjNxTjNETk9TeVl2Y3ktRmhEN3BkYm9OYzdNSzlwa0VDY2FtNHNubWpQelhKWVVFRkJTRU0wMEx1d2hxd2dKLUxMcTIwdnZNaTR1WF9fdUNIT3lGMTF3LWpRV3d3d2gwS1d2dXpuUmd4dVl1S3o5NDlmVzd1aUFEaVHSAfIBQVVfeXFMTzl1ZW1WdHd1SHNHZGc1dzRUcGFFUWl0eElIYUMwaWhWMXZ4aXFTWk1HZWJESTF6aktSeEVUYURwdWlUSTU3elR5TVN0UTk1eVJhdzFzUmVaUE5aT0pHVmM5aWVZZ1FyNlh0X3hBNkUzYXlnR2daRzFuWDRBd080VEYyZjJIMjNGUFR1c2VPUTdWX2sxYjVaamZ3VVBZM2N2MGJiWUNBLXVNc2lPc0pNcnhqbmY2NHRaUDZwMUlmQldEcE5WX0N2RFdJcXo4eFNVSkhvMWdxSXUxdlRzMmg4aTJQRUxRLXBBT1psUG9NZTJpeVE?oc=5)
 
 ---
 
@@ -150,14 +222,6 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Margarita del Val, inmunóloga del CSIC, sobre el hantavirus: "Es bastante más grave que el coronavirus, pero el riesgo está muy lejos"](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOdi11djd0SFpYWVBNcG4zQlZMRE40NXctemhPS1lmN3lyYWZUX25zc0ZZMXJ5N3loOTdkVHkwMnNqbHNYRkZaeUVTZTZsdUp2N3l4YVo0eXRJOXBKSUtNekMtMU5FSlZSWjVFVnY3NkdSNmk4TlNvZThOZWh0TE5CSnRpM2V1Y2ZKTzRSRFk5YWRwZjMyaURzNzA4QmxhNUtPQ2l5TnRxS1gzUDB1MDJZcVlGZENlOWc5aTlhVGZSWERqdXVvTlF0RDFfUXJoMHN3UXA2ODZYZVVoS3E0V1NXTUZNUGFkTm5vWXdxWU5DdFI4by1iYzFPRHQ4RVZ1QnY5M3NpZXVER3AzemdvWms2NThNalIwLUxUdWxFVWN1Xzl0NFFlZnFnbnNB?oc=5)
-
-2026-05-10 <span class="news-indication-tag">MS</span>
-
-來源：[MSN](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOdi11djd0SFpYWVBNcG4zQlZMRE40NXctemhPS1lmN3lyYWZUX25zc0ZZMXJ5N3loOTdkVHkwMnNqbHNYRkZaeUVTZTZsdUp2N3l4YVo0eXRJOXBKSUtNekMtMU5FSlZSWjVFVnY3NkdSNmk4TlNvZThOZWh0TE5CSnRpM2V1Y2ZKTzRSRFk5YWRwZjMyaURzNzA4QmxhNUtPQ2l5TnRxS1gzUDB1MDJZcVlGZENlOWc5aTlhVGZSWERqdXVvTlF0RDFfUXJoMHN3UXA2ODZYZVVoS3E0V1NXTUZNUGFkTm5vWXdxWU5DdFI4by1iYzFPRHQ4RVZ1QnY5M3NpZXVER3AzemdvWms2NThNalIwLUxUdWxFVWN1Xzl0NFFlZnFnbnNB?oc=5)
-
----
-
 ### [Zwang zur Anpassung](https://news.google.com/rss/articles/CBMid0FVX3lxTE5qaWYxUVJ6bWN1bWdZR0dKNWMyc3dEMDNKWE9OQTItbVJaTEZEQUJvcTZsdS1USHo0T2NSMElEUjYzcFBLWDNFUjlGZ25vTFlwRFZZSFpOVF9kNmc2ejZFQ1Y5eUhKMDVYUFFfRl9JZ1ROVmItQmFJ?oc=5)
 
 2026-05-10 <span class="news-indication-tag">AF</span>
@@ -174,11 +238,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Gewichtsverlust durch Medikamente: Stigma und gesellschaftliche Wahrnehmung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURMa3hwUXpRY0tHQWV5OW9wY0pKVjBuT2ozWldTRGMtVlR2aU5VTnVjcjBGb2NWeUw1dkxlcFpiN0ljRGZhT3Z2a2ZheEhCR0FINXQ0bVdYNWlOek05MFN6d2pqd2FaVXVrNUYzREZQdTBKNGdWeDlxeGRFRmp0NmozMl9MbFl6NDA0MVJaUS00WkJPcDVReHdQOFVacWhmQ3NyU19zbE9Kdw?oc=5)
+### [Gewichtsverlust durch Medikamente: Stigma und gesellschaftliche Wahrnehmung - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURMa3hwUXpRY0tHQWV5OW9wY0pKVjBuT2ozWldTRGMtVlR2aU5VTnVjcjBGb2NWeUw1dkxlcFpiN0ljRGZhT3Z2a2ZheEhCR0FINXQ0bVdYNWlOek05MFN6d2pqd2FaVXVrNUYzREZQdTBKNGdWeDlxeGRFRmp0NmozMl9MbFl6NDA0MVJaUS00WkJPcDVReHdQOFVacWhmQ3NyU19zbE9Kdw?oc=5)
 
 2026-05-10 <span class="news-indication-tag">AF</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURMa3hwUXpRY0tHQWV5OW9wY0pKVjBuT2ozWldTRGMtVlR2aU5VTnVjcjBGb2NWeUw1dkxlcFpiN0ljRGZhT3Z2a2ZheEhCR0FINXQ0bVdYNWlOek05MFN6d2pqd2FaVXVrNUYzREZQdTBKNGdWeDlxeGRFRmp0NmozMl9MbFl6NDA0MVJaUS00WkJPcDVReHdQOFVacWhmQ3NyU19zbE9Kdw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMURMa3hwUXpRY0tHQWV5OW9wY0pKVjBuT2ozWldTRGMtVlR2aU5VTnVjcjBGb2NWeUw1dkxlcFpiN0ljRGZhT3Z2a2ZheEhCR0FINXQ0bVdYNWlOek05MFN6d2pqd2FaVXVrNUYzREZQdTBKNGdWeDlxeGRFRmp0NmozMl9MbFl6NDA0MVJaUS00WkJPcDVReHdQOFVacWhmQ3NyU19zbE9Kdw?oc=5)
 
 ---
 
@@ -187,6 +251,22 @@ permalink: /news/mycophenolate-mofetil/
 2026-05-10 <span class="news-indication-tag">AF</span>
 
 來源：[Wired](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHRqMmZmblU5QU14dTFrNktmVWR6U1lzaExpQlVJNkJISG5QVXNRQ1lncnRWd1FmMzBTTHhQeXdUWE5JUmM2MGFhdWR3Rk9GZ3Q0TlRnS3hiU2tOYVhabDJCUTlWdWZUcGVKQTVaeHUyeGZteVBpS0pDR0FadXFtcy1mR2dDbG4xVmhR?oc=5)
+
+---
+
+### [Magnetic Brain Pulses Help Kids With Autism to Communicate, Study Finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxOajI2M21KTDRWc1l6SHhkemlGTS1lX1kyaEdrcmJ0N20xaTREd3R6YUJ2UWhJR2RPNlR5OC1EZlV0MnhTWXh6MzVIV2Zwb2xidHlMM1MxR1l3SFNiYVI5ZEFCazloUEVFdUNvZjlDRUNpN1gxaFRWdFR3c3RVd2N0aW11RkhOODNaYkpYV3hOejU3X0FnMzdfQWV0WWNaVl8t?oc=5)
+
+2026-05-10 <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxOajI2M21KTDRWc1l6SHhkemlGTS1lX1kyaEdrcmJ0N20xaTREd3R6YUJ2UWhJR2RPNlR5OC1EZlV0MnhTWXh6MzVIV2Zwb2xidHlMM1MxR1l3SFNiYVI5ZEFCazloUEVFdUNvZjlDRUNpN1gxaFRWdFR3c3RVd2N0aW11RkhOODNaYkpYV3hOejU3X0FnMzdfQWV0WWNaVl8t?oc=5)
+
+---
+
+### [5 Bodyweight Exercises That Burn More Belly Fat Than Gym Workouts After 50 - Eat This Not That](https://news.google.com/rss/articles/CBMijwFBVV95cUxONEdZUUs4Z056VmJ2bDJjU0htR3FrNTJOVmxLS041ZENWZzQ4NTJ5WXFHTy1xZ1A3MzZ1UkJfdXhITjliU2xYWGoyWHhfR0hwUUc2dk4tbVRoVXdYRGlWT1Mxbjgtdm01Z1d4QlRWM3JjLVk4V3RLcmlUX28xS2hWUHMxNjM3MXdhYWZSNWtpZw?oc=5)
+
+2026-05-10 <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMijwFBVV95cUxONEdZUUs4Z056VmJ2bDJjU0htR3FrNTJOVmxLS041ZENWZzQ4NTJ5WXFHTy1xZ1A3MzZ1UkJfdXhITjliU2xYWGoyWHhfR0hwUUc2dk4tbVRoVXdYRGlWT1Mxbjgtdm01Z1d4QlRWM3JjLVk4V3RLcmlUX28xS2hWUHMxNjM3MXdhYWZSNWtpZw?oc=5)
 
 ---
 
@@ -206,43 +286,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [From latte to seeds, top products to keep your gut health in tip-top shape - The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE1rQkZlajVMRFFkNk5oSi1zcFRzSGRXVTN5ZVJraTNBeERnVnNsc2hFbTU1aERxSl92dTBsMExzeGF3S0dmdkdZZzR6S1pXRFhtcTgyQUhWUm1TRmpZdEZRdTVVZXhyZ1FZdFh3REhrZngtcmFUVEZ3bQ?oc=5)
-
-2026-05-09 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE1rQkZlajVMRFFkNk5oSi1zcFRzSGRXVTN5ZVJraTNBeERnVnNsc2hFbTU1aERxSl92dTBsMExzeGF3S0dmdkdZZzR6S1pXRFhtcTgyQUhWUm1TRmpZdEZRdTVVZXhyZ1FZdFh3REhrZngtcmFUVEZ3bQ?oc=5)
-
----
-
 ### [Luzides Träumen: Wie wir im Schlaf trainieren können – oder einfach mehr Spaß haben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUXA4NUZPTHBYXzNhemlTQTdZTExPektvR1hoMFNvMDFWUE9NT0w4VFpOZkRhOWF3S0N6NGZqX0RJbnZQLUw2RDd5S29UWnpvZGNtRjVkcUdGc3BUZklWSUZaQllCRVo0UTF3dG1EbFNIQ3lYamczS29FTHAwd3UydHNnMjY0TXVKY0FoZnN6dEVJd2VOYzlRZFE5b3k1dUt5OEgxYnptWXNEM1oyY2U0eE84c1EtR1NKUGVEdlpPZGJ5Q0IyWTVLT3YyOVNESFdINERCVWpJRGhvQVZncnpUd05jRWxSSU9WMkZaTg?oc=5)
 
 2026-05-09 <span class="news-indication-tag">AF</span>
 
 來源：[Spiegel](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUXA4NUZPTHBYXzNhemlTQTdZTExPektvR1hoMFNvMDFWUE9NT0w4VFpOZkRhOWF3S0N6NGZqX0RJbnZQLUw2RDd5S29UWnpvZGNtRjVkcUdGc3BUZklWSUZaQllCRVo0UTF3dG1EbFNIQ3lYamczS29FTHAwd3UydHNnMjY0TXVKY0FoZnN6dEVJd2VOYzlRZFE5b3k1dUt5OEgxYnptWXNEM1oyY2U0eE84c1EtR1NKUGVEdlpPZGJ5Q0IyWTVLT3YyOVNESFdINERCVWpJRGhvQVZncnpUd05jRWxSSU9WMkZaTg?oc=5)
-
----
-
-### [My father filled his own tooth because he couldn’t afford a dentist. It led to his death - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUNtTzd2eEdNZTQ2b2FsVm1JOTBaRlFKY3I4TUtmSXFWTU5VSWppNHdqTGNJRTV6VWxnSjBpSndDalM4V3djaFVyZ0Y2dDJKSTAzbGMyMTI0WWo3RGsxSl9fcG9aeTIxeS1jbEVrRS1oSVd2a2toTU9ZeFFNU3dJNEdXU1RHd1k2MUQ5RFYxWkppZTVkV1RfdGpzQ0FXSVZYS0MxNk9rRDg0X0E4aU9RZHJSdw?oc=5)
-
-2026-05-09 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUNtTzd2eEdNZTQ2b2FsVm1JOTBaRlFKY3I4TUtmSXFWTU5VSWppNHdqTGNJRTV6VWxnSjBpSndDalM4V3djaFVyZ0Y2dDJKSTAzbGMyMTI0WWo3RGsxSl9fcG9aeTIxeS1jbEVrRS1oSVd2a2toTU9ZeFFNU3dJNEdXU1RHd1k2MUQ5RFYxWkppZTVkV1RfdGpzQ0FXSVZYS0MxNk9rRDg0X0E4aU9RZHJSdw?oc=5)
-
----
-
-### [Weekend reads: FDA blocked vaccine findings; ‘Frankencitations Ravage the Academic Countryside’; ‘Publish and Perish’ - Retraction Watch](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFVfZlFuMGVQQkRyVGdoUjJndUVHMXc1V3BIdVl6OFJOVUUydW45MFNZMlhYeXVXMTgteXlWSUhkWEtVWUI0ZjhmeEpqZXpOd2I1T0p6RGhFMXpMRmEtT3JqWEJFYjM2RktXS2pBU2VBVlVBb2JQX01CTzZFV3lJeFJYd21kX1gyZS1kNGE3YWVCNTRKVlZHdXlrVEh2REJyZ1F0eVdWRU4zcEswTTBBUW8zbFVwUlBiRl80dHhNZUpMaVRBTEVHN1gxYU41TWVLejBUTEpPZGdxb3VHbkJEbnNSdmo?oc=5)
-
-2026-05-09 <span class="news-indication-tag">AF</span>
-
-來源：[Retraction Watch](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFVfZlFuMGVQQkRyVGdoUjJndUVHMXc1V3BIdVl6OFJOVUUydW45MFNZMlhYeXVXMTgteXlWSUhkWEtVWUI0ZjhmeEpqZXpOd2I1T0p6RGhFMXpMRmEtT3JqWEJFYjM2RktXS2pBU2VBVlVBb2JQX01CTzZFV3lJeFJYd21kX1gyZS1kNGE3YWVCNTRKVlZHdXlrVEh2REJyZ1F0eVdWRU4zcEswTTBBUW8zbFVwUlBiRl80dHhNZUpMaVRBTEVHN1gxYU41TWVLejBUTEpPZGdxb3VHbkJEbnNSdmo?oc=5)
-
----
-
-### [Wissenschaft vs. Astrologie: Dieses Sternzeichen hat statistisch betrachtet die beste Lebenserwartung](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLUlBS29lTVVGMmNIenl3SEowRVJRanlqOTVlVXhpaXdxVjJ6WHNLQ1hmVk5GbkN0UzJYUnlUd3o2aHBZS2lfek1yekRFR1ZtY21vY3IxZldZMmxVWDZwc1BiNGI4WU5uUEZlVW94cjJ5Rko0V2JJRVRZakZEYXBic3hVM0FvUE1SRl8zRnNFUi02eHhzWEx4ZkdEWHd2NDhwVjVEWVY3VmJFQ2xpdy1iOGF6WlVUQ1RPVlRpUzVjMWc0dlNidkVEREtjaVp0M3dFelpnb25PakNLWUlqbDJKeE44Zlk0Q2JMWlNOb3E3dzk1M3RrX1pF?oc=5)
-
-2026-05-09 <span class="news-indication-tag">AF</span>
-
-來源：[familie.de](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLUlBS29lTVVGMmNIenl3SEowRVJRanlqOTVlVXhpaXdxVjJ6WHNLQ1hmVk5GbkN0UzJYUnlUd3o2aHBZS2lfek1yekRFR1ZtY21vY3IxZldZMmxVWDZwc1BiNGI4WU5uUEZlVW94cjJ5Rko0V2JJRVRZakZEYXBic3hVM0FvUE1SRl8zRnNFUi02eHhzWEx4ZkdEWHd2NDhwVjVEWVY3VmJFQ2xpdy1iOGF6WlVUQ1RPVlRpUzVjMWc0dlNidkVEREtjaVp0M3dFelpnb25PakNLWUlqbDJKeE44Zlk0Q2JMWlNOb3E3dzk1M3RrX1pF?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/elvitegravir/
 
 ## 相關新聞（1 則）
 
-### [CRISPR-System hemmt Hepatitis-E-Virus - RUB Newsportal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVpoNFdvclNHY0Y1bjJ0V25MV012MGRnUmtqbkZvNmdPRG0xUlc1SWpWa3VPNXNKRUZ1NmFaSTJNQmRaaENMVHA1em9TOFl3VlNDOG8tMUVKQ0FMZVpFREJ0Z3ROOUI0bm9EenZkZVo1VmQza0NKSFJnMDdaWGx3V01FbTJ3dk84UW5xV2xaY1g5OEVoLUNkQVBQVGQyYW01LXJsYkh5RWUtSkpIeVNaYw?oc=5)
+### [CRISPR-System hemmt Hepatitis-E-Virus - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZWlTMWM4V3dmd05mcTJjdnNHZ204MXlJZ2NUNlV0aVZLTnVnNll4QUxVVjF1OEgxenZ1WjFRYUtvdU0zdnhUSXkwa2QyWTFyaEhEWXJlQm5fTkc4ZlBLeGhXaUR1WlQ0WDVQR3Z1N000bkExZXc?oc=5)
 
 2026-05-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[RUB Newsportal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVpoNFdvclNHY0Y1bjJ0V25MV012MGRnUmtqbkZvNmdPRG0xUlc1SWpWa3VPNXNKRUZ1NmFaSTJNQmRaaENMVHA1em9TOFl3VlNDOG8tMUVKQ0FMZVpFREJ0Z3ROOUI0bm9EenZkZVo1VmQza0NKSFJnMDdaWGx3V01FbTJ3dk84UW5xV2xaY1g5OEVoLUNkQVBQVGQyYW01LXJsYkh5RWUtSkpIeVNaYw?oc=5)
+來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZWlTMWM4V3dmd05mcTJjdnNHZ204MXlJZ2NUNlV0aVZLTnVnNll4QUxVVjF1OEgxenZ1WjFRYUtvdU0zdnhUSXkwa2QyWTFyaEhEWXJlQm5fTkc4ZlBLeGhXaUR1WlQ0WDVQR3Z1N000bkExZXc?oc=5)
 
 ---
 

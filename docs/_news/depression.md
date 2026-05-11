@@ -37,11 +37,11 @@ permalink: /news/depression/
 
 ## 相關新聞（1 則）
 
-### [Depression per Bluttest: Neue Biomarker revolutionieren Diagnostik - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWE53bjdmYXZubkhULXJVV2owVGozQVU4bkVTVXRQb2lCWU4wYnpvaEd4MWNIRE8yWjhCQ01YeGZod01GRjlCUUlmUXlIZkl1NDgza19rX0h5RkUyaXpTSklDVTJCdW5uTldTQmt1eWN5ekVIU21qMDZqNUNMNHdEU2Z6elY0WXNra1BSZVgtTFB1UG04cnlyRnphNUVfX09JS25kNTd0LWF5LVphRzNBTmJWTUU?oc=5)
+### [Epigenetische Marker: Neue Wege in der Depressionsdiagnostik - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzY4TUNhWU16bDI0NmVEQzF3MkJYcDNwUFJrWUxkWHY2bndfUEdBemQ3UWtoSG42eEpRaWV0MC1qV2g2LW5YVVFrUnYxQmlUR01fTWFZQWhWVThaTG1Ea01lMGNtRjByU1F0Qll4MVV2Sk5Xak13TlBpV1RRQ1owNnVDRlZlUEV3amNiNGVqdmpWeDdXQkE?oc=5)
 
 2026-05-09
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWE53bjdmYXZubkhULXJVV2owVGozQVU4bkVTVXRQb2lCWU4wYnpvaEd4MWNIRE8yWjhCQ01YeGZod01GRjlCUUlmUXlIZkl1NDgza19rX0h5RkUyaXpTSklDVTJCdW5uTldTQmt1eWN5ekVIU21qMDZqNUNMNHdEU2Z6elY0WXNra1BSZVgtTFB1UG04cnlyRnphNUVfX09JS25kNTd0LWF5LVphRzNBTmJWTUU?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzY4TUNhWU16bDI0NmVEQzF3MkJYcDNwUFJrWUxkWHY2bndfUEdBemQ3UWtoSG42eEpRaWV0MC1qV2g2LW5YVVFrUnYxQmlUR01fTWFZQWhWVThaTG1Ea01lMGNtRjByU1F0Qll4MVV2Sk5Xak13TlBpV1RRQ1owNnVDRlZlUEV3amNiNGVqdmpWeDdXQkE?oc=5)
 
 ---
 

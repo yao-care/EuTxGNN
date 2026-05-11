@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li>heart disease（97.8%）</li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -54,11 +54,11 @@ permalink: /news/lonafarnib/
 
 ## 相關新聞（1 則）
 
-### [Dr. Enrique Rodilla: «Sólo uno de cada tres hipertensos en España está realmente controlado»](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
+### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 
-2026-05-11 <span class="news-indication-tag">hipertensión</span>
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
+來源：[Heute](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 
 ---
 

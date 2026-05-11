@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
+
+2026-05-11 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
+
+---
 
 ### [Getting fat? Blame long hours in the office, say scientists - The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 

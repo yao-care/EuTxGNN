@@ -14,7 +14,7 @@ permalink: /news/cangrelor/
 ---
 
 <p class="key-answer" data-question="Cangrelor 有什麼相關新聞？">
-<strong>Cangrelor</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cangrelor</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/cangrelor/
 <p><a href="{{ '/drugs/cangrelor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
+
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Heute](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,15 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Fettleber stört Blutzucker-Hormone massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
-
-2026-05-11
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Experts reveal the exact number of steps per day you need to boost health - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
 

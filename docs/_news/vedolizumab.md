@@ -54,11 +54,11 @@ permalink: /news/vedolizumab/
 
 ## 相關新聞（3 則）
 
-### [Fettleber stört Blutzucker-Hormone massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+### [Le piège de l'adolescence : comment un simple joint double le risque de schizophrénie et de bipolarité à 26 ans](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
 
-2026-05-11 <span class="news-indication-tag">diabetes</span>
+2026-05-11 <span class="news-indication-tag">EPOC</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
 
 ---
 

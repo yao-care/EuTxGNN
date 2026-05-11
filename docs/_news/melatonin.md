@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Getting fat? Blame long hours in the office, say scientists - The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/melatonin/
 2026-05-11 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHozYl9rQ25KY1g3c2FHdDY0WG82RFFPeTNPa0xtNzBrZkNKNWl4TGpKY1FrcnNTWW9QaHB2Q2p1U2Q1S1U1cTVHUU8yNFU1ODRFQjlRMk5Hem5QTjUzSl85UW9NUm5NRFpaSjJvZV9sRjJwWjNtYTFZRUUtUXVBXy1aTF9GdUlTMThqUUZkQmY2ZEl5MEExOGZTaERXaXRZSWtHLUZxSG5HYmtBZXgxYUp3?oc=5)
-
----
-
-### [Nos hemos obsesionado con las pastillas "naturales" para dormir. El problema es que no estamos solucionando mucho](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHVDZkFXbzJXWHUzajViR3prWGVxYzY3WnhrQWFMZVNQb0lIc0ZYSmo1U29wSjFDVm9vdFFwbE9QNFU4OG5IT3BtN2J3MVNFVEZ6VE1WWkVGQkZ3enFnaGRqX2pxVmtqalVLampmSkRRS3JBSkdDOVREd1RsRVJUd2RfelN0WjRxWlBnenBRY0lOcVo3SW1VcTVSd1dvcFZTdGhRYlNMTmlJX1Zic0V1NnRiaGJBUTVLWjdPOFh0Q3VlM3B4dUppYWgwTVlRWEJRZlHSAdcBQVVfeXFMUE1RTGRUUFFzQVBjdTlfcTdEc0pZaC1DcEtoekNINFpJTFNhUmlkcFpfS0xTWG9oX2d2SUZER0Fsa0hVcmFGbllReDhHSnNqTkNGNXFnT2t6S0VVQUJpZjczTEo4bWE5UVg4bGxrd0Z2S3MyelpjZjM4NUFfSERrTzhYUVRwYTBncXFXTk1JTngxUjYtOVB2bmVwVXl3WDZXenl1R2U4WGlQNlNQa0czdzBMTENoblBkcTZLVzhkYzl3NHVQYjB3QUljQ0hWODNUWk10STBQN2M?oc=5)
-
-2026-05-09 <span class="news-drug-tag">Melatonin</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHVDZkFXbzJXWHUzajViR3prWGVxYzY3WnhrQWFMZVNQb0lIc0ZYSmo1U29wSjFDVm9vdFFwbE9QNFU4OG5IT3BtN2J3MVNFVEZ6VE1WWkVGQkZ3enFnaGRqX2pxVmtqalVLampmSkRRS3JBSkdDOVREd1RsRVJUd2RfelN0WjRxWlBnenBRY0lOcVo3SW1VcTVSd1dvcFZTdGhRYlNMTmlJX1Zic0V1NnRiaGJBUTVLWjdPOFh0Q3VlM3B4dUppYWgwTVlRWEJRZlHSAdcBQVVfeXFMUE1RTGRUUFFzQVBjdTlfcTdEc0pZaC1DcEtoekNINFpJTFNhUmlkcFpfS0xTWG9oX2d2SUZER0Fsa0hVcmFGbllReDhHSnNqTkNGNXFnT2t6S0VVQUJpZjczTEo4bWE5UVg4bGxrd0Z2S3MyelpjZjM4NUFfSERrTzhYUVRwYTBncXFXTk1JTngxUjYtOVB2bmVwVXl3WDZXenl1R2U4WGlQNlNQa0czdzBMTENoblBkcTZLVzhkYzl3NHVQYjB3QUljQ0hWODNUWk10STBQN2M?oc=5)
 
 ---
 

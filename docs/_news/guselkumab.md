@@ -54,11 +54,11 @@ permalink: /news/guselkumab/
 
 ## 相關新聞（3 則）
 
-### [Fettleber stört Blutzucker-Hormone massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+### [Disponible en España Tremfya, el primer inhibidor de la IL-23 con acción dual para adultos con enfermedad de Crohn y colitis ulcerosa - El Globalfarma](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUWxyZ1ZDeXlORHNPcWVTQ1hHNS1ZaUtUREFQTUZxRWNhbkJTd2JaWk9xWUZvcl9wQXdwWVNfMUNTTHZFTjh1cHdQM3Q4dTZSOHhtVTBGTGpFMlIyUnZCVUZRQ3R3MWc1OHRtampReW5XSVVNQVhWckZHS1V4YkNPQnk4MFdsSGJQT21zUHNJLThZTTRtYnhVN2pGVXpvUUZBY1ZMWnAwdGFDZmNSYkU5OWt5MUJYdFM5aEtRaXRjX05fTWxfOUxSTDRpRTk5eDhpX1gwdm53?oc=5)
 
-2026-05-11 <span class="news-indication-tag">diabetes</span>
+2026-05-11 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">enfermedad de Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUWxyZ1ZDeXlORHNPcWVTQ1hHNS1ZaUtUREFQTUZxRWNhbkJTd2JaWk9xWUZvcl9wQXdwWVNfMUNTTHZFTjh1cHdQM3Q4dTZSOHhtVTBGTGpFMlIyUnZCVUZRQ3R3MWc1OHRtampReW5XSVVNQVhWckZHS1V4YkNPQnk4MFdsSGJQT21zUHNJLThZTTRtYnhVN2pGVXpvUUZBY1ZMWnAwdGFDZmNSYkU5OWt5MUJYdFM5aEtRaXRjX05fTWxfOUxSTDRpRTk5eDhpX1gwdm53?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cinacalcet-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cinacalcet Hydrochloride 有什麼相關新聞？">
-<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/cinacalcet-hydrochloride/
 <p><a href="{{ '/drugs/cinacalcet-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [Dr. Enrique Rodilla: «Sólo uno de cada tres hipertensos en España está realmente controlado»](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
+### [Los expertos coinciden en que las barreras de acceso frenan la llegada de la innovación en tumores genitourinarios - Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk4zTlRSS21kQ2UtRV9pbHpXcEx1Z2UtSkR4ZF9ubzN1c3JBX2VjVDBNTTBKOVJMS2lCaTljZ2hMMVdhRktfN3NOZ0lZVVgtWVFDOXk3eHJwbzFLaTl1ckJNMnZzUC1qNVJIX1ZJOXd2dFhnUDU3OHlDVmFKX0ZMSXUyY2dLNDA0cmMyYnNGbzZnOFZQYzRwV0tWZlg5bHpIenFvV29GOFY?oc=5)
 
-2026-05-11 <span class="news-indication-tag">hipertensión</span>
+2026-05-11 <span class="news-indication-tag">tumor</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk4zTlRSS21kQ2UtRV9pbHpXcEx1Z2UtSkR4ZF9ubzN1c3JBX2VjVDBNTTBKOVJMS2lCaTljZ2hMMVdhRktfN3NOZ0lZVVgtWVFDOXk3eHJwbzFLaTl1ckJNMnZzUC1qNVJIX1ZJOXd2dFhnUDU3OHlDVmFKX0ZMSXUyY2dLNDA0cmMyYnNGbzZnOFZQYzRwV0tWZlg5bHpIenFvV29GOFY?oc=5)
+
+---
+
+### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+2026-05-11 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+---
+
+### [Pflanzenstoffe in der Krebstherapie: Neue Studie zeigt Potenzial - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmdnZkxSQlpYdVVrN005NW9GUlhiWXJvNDhvbVFaNTh4Sm5PU0dNdzVXZE5maTktYW53NW9fME1yWV9aSWlxYldZd0xwaHNkNHJoVEZ6RWxPVkhOZFlZeVdXLWYtN056YzA5eEptUkswR1FETWthSzNsbVdsUmoxRVQ3UmlJUTFoRzdkY2t5VzJ1R3BIanZsdmdMZnY5QllfYllYd3h3MS1LQzlzZHp3R3F3?oc=5)
+
+2026-05-11 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmdnZkxSQlpYdVVrN005NW9GUlhiWXJvNDhvbVFaNTh4Sm5PU0dNdzVXZE5maTktYW53NW9fME1yWV9aSWlxYldZd0xwaHNkNHJoVEZ6RWxPVkhOZFlZeVdXLWYtN056YzA5eEptUkswR1FETWthSzNsbVdsUmoxRVQ3UmlJUTFoRzdkY2t5VzJ1R3BIanZsdmdMZnY5QllfYllYd3h3MS1LQzlzZHp3R3F3?oc=5)
+
+---
+
+### ["Parler entre malades, ça remonte le moral", dans son podcast "Mon côlon, ma bataille", Claudie raconte son combat contre le cancer colorectal - France 3 Régions](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNelJUbnBGbVJzZUhDb1hTVUkzbFI0Rm9xemFtb2FCNXZPZ1Jfd0hxektxY2FnQ0FnbXVsMlZ5cGlYMHE2ZTN0aEtNZVVwcU1EZ3cyRXZfX0FocFNGVGxHTktQRE1mbE1TOEp5cmV1N3o5OXZSZU1mVzVTLTJWRGZUU3dhX0duYVhta0tsN3B2eUotckM3RUVoQ2Z4NmltYXBTdXh0SG03bFZlcUk2Wm9xam82TkdCZThpeVNmSnJPMzUwaXR4azRjdTdSLVFNRVFodUdldVdUU3lRb2g2bzViQUNGVUVBSUFMYVdTRGFGQmJJUnlLYWdBLTZhSzl1WlBZa1hzZ1U2M3lsNTlyd191YlJ2RGxIZFZ6UFR4dkFyQ1pNc2llNU9QU2hsdTh4T0t1WVh4aFFOZ2dTNmpxM0wwQU05eFYzR2dRd2R6MUJ3cG0tcURLVXJCbTFn?oc=5)
+
+2026-05-11 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNelJUbnBGbVJzZUhDb1hTVUkzbFI0Rm9xemFtb2FCNXZPZ1Jfd0hxektxY2FnQ0FnbXVsMlZ5cGlYMHE2ZTN0aEtNZVVwcU1EZ3cyRXZfX0FocFNGVGxHTktQRE1mbE1TOEp5cmV1N3o5OXZSZU1mVzVTLTJWRGZUU3dhX0duYVhta0tsN3B2eUotckM3RUVoQ2Z4NmltYXBTdXh0SG03bFZlcUk2Wm9xam82TkdCZThpeVNmSnJPMzUwaXR4azRjdTdSLVFNRVFodUdldVdUU3lRb2g2bzViQUNGVUVBSUFMYVdTRGFGQmJJUnlLYWdBLTZhSzl1WlBZa1hzZ1U2M3lsNTlyd191YlJ2RGxIZFZ6UFR4dkFyQ1pNc2llNU9QU2hsdTh4T0t1WVh4aFFOZ2dTNmpxM0wwQU05eFYzR2dRd2R6MUJ3cG0tcURLVXJCbTFn?oc=5)
+
+---
+
+### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
+
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Heute](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 
 ---
 
@@ -70,27 +102,19 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [A pain watching TV was the only clue of hidden cancer that stole my EYE... I had no idea I was at risk - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2R5RHNRMUp4TlRSdVhLUDJJU3U1N2tNVk5EbkNTaU8wUFhWX2lKN3g5YUg0LUNpTzJfOHhKY1dNRVhKcU05MTRGbVZTQi15a3ZGSDNJdjd1ZUVhUU16STdqZEJHUmFwVnBCMFc3ZDZWMVp2TlExanJUVjczTmltZjZ2RlkxZw?oc=5)
-
-2026-05-11 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2R5RHNRMUp4TlRSdVhLUDJJU3U1N2tNVk5EbkNTaU8wUFhWX2lKN3g5YUg0LUNpTzJfOHhKY1dNRVhKcU05MTRGbVZTQi15a3ZGSDNJdjd1ZUVhUU16STdqZEJHUmFwVnBCMFc3ZDZWMVp2TlExanJUVjczTmltZjZ2RlkxZw?oc=5)
-
----
-
-### [Tumore alla prostata, il nuovo test che può rivoluzionare la battaglia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb25IOUsyRkJ5eWJQUzNUNjhXajQyWnhla3dscXBqbTB3bjNWWEVJWDNfZXFlTzNMMkxzcEQzakxTbDN3eHFuMnU0OFU5UkFqQVE1dlZtekU2TkVxLXp3bUV2RXZPNS1ab19sckFhMkEzc010S3Q3NE5JdEdVNW1IbmFNMnhzVFMwSlExNHl4QXdEQ1k2eFU5ZVMyZEdSU0JKWm1sOG9nX3ZWczMtbVlabzFqWUtwd9IBugFBVV95cUxPUU5QY2d0NHNPQXR1YUtQeTRFOFZFOXJLVGNhZkpVOW5WM0VJcnA1eklVTUg3NmxkWTlVV3VtbmZZT05XZl80QXJRTFdjMUJrYmxubFpJRGNCT2hZWGJkQWFyWU5sbUc1Vzd3QUd3QmwzMGIweGFqUlFDM2xyY1RyUC11TTRBSDVTWGJVaEREX1V6bTJ4b2JCdVpBQ2hueDhxS0tpLWFyQXF2bUVfNDNHRC1TbU9JeTdxN3c?oc=5)
-
-2026-05-10 <span class="news-indication-tag">carcinoma</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMitgFBVV95cUxNb25IOUsyRkJ5eWJQUzNUNjhXajQyWnhla3dscXBqbTB3bjNWWEVJWDNfZXFlTzNMMkxzcEQzakxTbDN3eHFuMnU0OFU5UkFqQVE1dlZtekU2TkVxLXp3bUV2RXZPNS1ab19sckFhMkEzc010S3Q3NE5JdEdVNW1IbmFNMnhzVFMwSlExNHl4QXdEQ1k2eFU5ZVMyZEdSU0JKWm1sOG9nX3ZWczMtbVlabzFqWUtwd9IBugFBVV95cUxPUU5QY2d0NHNPQXR1YUtQeTRFOFZFOXJLVGNhZkpVOW5WM0VJcnA1eklVTUg3NmxkWTlVV3VtbmZZT05XZl80QXJRTFdjMUJrYmxubFpJRGNCT2hZWGJkQWFyWU5sbUc1Vzd3QUd3QmwzMGIweGFqUlFDM2xyY1RyUC11TTRBSDVTWGJVaEREX1V6bTJ4b2JCdVpBQ2hueDhxS0tpLWFyQXF2bUVfNDNHRC1TbU9JeTdxN3c?oc=5)
-
----
-
 ### [Augentropfen aus Schweinesamen: Neue Hoffnung im Kampf gegen Augenkrebs - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR01vMmV0OVFqSk9kcHRFV3YxVHRsSUVpYlVSX3BpSGREUURTMmRCSlEyeVNHSlVLcFpZa2lNYlRFSFNWdTktNGFFMXo0MllwOWRhOENLVmsyQ3VLSkZDc0d4NGZ2S2RIY3dEUXF1Mng3d2tUNXRvWEI1WnNyNXhNMjdjTjdxR29yZ29LOWh5WEJvMVZYR1FGdndjQkhILUhLVm1KX2N2TXR0SXhPajVLbzdNcW05WDREbVZBZUR0YzRpektrUW8wUGVlTG4yWmc?oc=5)
 
 2026-05-10 <span class="news-indication-tag">Krebs</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR01vMmV0OVFqSk9kcHRFV3YxVHRsSUVpYlVSX3BpSGREUURTMmRCSlEyeVNHSlVLcFpZa2lNYlRFSFNWdTktNGFFMXo0MllwOWRhOENLVmsyQ3VLSkZDc0d4NGZ2S2RIY3dEUXF1Mng3d2tUNXRvWEI1WnNyNXhNMjdjTjdxR29yZ29LOWh5WEJvMVZYR1FGdndjQkhILUhLVm1KX2N2TXR0SXhPajVLbzdNcW05WDREbVZBZUR0YzRpektrUW8wUGVlTG4yWmc?oc=5)
+
+---
+
+### [A pain watching TV was the only clue of hidden cancer that stole my EYE... I had no idea I was at risk - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2R5RHNRMUp4TlRSdVhLUDJJU3U1N2tNVk5EbkNTaU8wUFhWX2lKN3g5YUg0LUNpTzJfOHhKY1dNRVhKcU05MTRGbVZTQi15a3ZGSDNJdjd1ZUVhUU16STdqZEJHUmFwVnBCMFc3ZDZWMVp2TlExanJUVjczTmltZjZ2RlkxZw?oc=5)
+
+2026-05-10 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2R5RHNRMUp4TlRSdVhLUDJJU3U1N2tNVk5EbkNTaU8wUFhWX2lKN3g5YUg0LUNpTzJfOHhKY1dNRVhKcU05MTRGbVZTQi15a3ZGSDNJdjd1ZUVhUU16STdqZEJHUmFwVnBCMFc3ZDZWMVp2TlExanJUVjczTmltZjZ2RlkxZw?oc=5)
 
 ---
 
@@ -102,27 +126,11 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [Faire plus jeune que son âge : un indicateur fiable de votre état de santé réel ? - Sud Ouest](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjY1bExaejlXa0ZjWGhNZXhWV3VhR2hCOXFWcmxraWlZN2dVMWdTenVLbHhZOHNfdkFjY20xZF9tWTZwTmFna3RFY0VqTS0xcWt2eDVWYnlUMnk3MTVFWkRsVzdDSjlIeDFzMVdIejJnZTlIeFFCQmp1Um5pNmJTNjgxcjVSTnZmTHpVdWpFU1FtTU9FdDVEOXVpLUN4NWZ0N2VlRWNiS29MTDV1VGxteU05aDJVaTNpcG5oWjMwSHZBMWR3R3RkQWZhVEltM2xHc0F2am5n?oc=5)
-
-2026-05-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjY1bExaejlXa0ZjWGhNZXhWV3VhR2hCOXFWcmxraWlZN2dVMWdTenVLbHhZOHNfdkFjY20xZF9tWTZwTmFna3RFY0VqTS0xcWt2eDVWYnlUMnk3MTVFWkRsVzdDSjlIeDFzMVdIejJnZTlIeFFCQmp1Um5pNmJTNjgxcjVSTnZmTHpVdWpFU1FtTU9FdDVEOXVpLUN4NWZ0N2VlRWNiS29MTDV1VGxteU05aDJVaTNpcG5oWjMwSHZBMWR3R3RkQWZhVEltM2xHc0F2am5n?oc=5)
-
----
-
 ### [Zusammenhang zwischen Alzheimer und längst vergangenen Infektionen Virusreste können Krebs und Demenz auslösen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
 
 2026-05-09 <span class="news-indication-tag">Krebs</span>
 
 來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWZtbFp4ODdiZXB6SU9sSWhKRGFQck5TSkFQSmExTkV0ajhWQ0ZxZEpSRmpTdWpnWWk2T3JMXzJEeEltQjN1ZzBiWFpqNUlYbWVUaVFQN1VaN2FxU2NTN1Myb3IxQjBqbVBLNlk1X1c4c3I0M1pOYUdjN1ZNVVp0amZycnVTdVprSUI3NEI1ZlkwTTF0RW5pUUZUR0daWHhBM0NySnF6Wm5NMjNpUjZUdnhqSUlWYVFMT2ktN2o0bmxjUzF0bktqMjk4V2F3bHRaUlI2MTAtclNCdVFOX0RCc0djY2NlYXFvSDBmb3lfa3c?oc=5)
-
----
-
-### ["J’ai cru à une simple bosse, c’était une tumeur" : Alastair Munro veut briser le tabou du cancer du pénis](https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1dSNmozVDcweDNTX3lISkdBSVFVR0YxMUFlTU9ldzV5Y0toSlIwS2FVX2NTUkUwZzJENTNMbDMtcXBCZ3F3ak1kMWtMNFNtaGFHel80VUYtQUVWbVhvNURFNWFGeTBaQi0tRVM3Zmw4anhfSUJZX1UtZ2F5dnNxVk1uRnpHazNzaU9BM0xuMmJkN28xWXNvcXdWNzFhckVsZzFqSFB3NUJGYUF5c0hjTTZGd0toZDBVaHFHVlMtTU1oYURfTVpkRXZhYzJjTWJ5RTc3Um5VWHVoQ2ZCMUVLV0QzQXJMaGQ3bV9Ba3NTZEpTcy1CdElfZm5oS0tSZ0RDaE03Y2ktREE1aE5xQXhtZg?oc=5)
-
-2026-05-07 <span class="news-indication-tag">cancer</span>
-
-來源：[Doctissimo](https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1dSNmozVDcweDNTX3lISkdBSVFVR0YxMUFlTU9ldzV5Y0toSlIwS2FVX2NTUkUwZzJENTNMbDMtcXBCZ3F3ak1kMWtMNFNtaGFHel80VUYtQUVWbVhvNURFNWFGeTBaQi0tRVM3Zmw4anhfSUJZX1UtZ2F5dnNxVk1uRnpHazNzaU9BM0xuMmJkN28xWXNvcXdWNzFhckVsZzFqSFB3NUJGYUF5c0hjTTZGd0toZDBVaHFHVlMtTU1oYURfTVpkRXZhYzJjTWJ5RTc3Um5VWHVoQ2ZCMUVLV0QzQXJMaGQ3bV9Ba3NTZEpTcy1CdElfZm5oS0tSZ0RDaE03Y2ktREE1aE5xQXhtZg?oc=5)
 
 ---
 

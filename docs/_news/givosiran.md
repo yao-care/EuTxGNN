@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [CRISPR-System hemmt Hepatitis-E-Virus - RUB Newsportal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVpoNFdvclNHY0Y1bjJ0V25MV012MGRnUmtqbkZvNmdPRG0xUlc1SWpWa3VPNXNKRUZ1NmFaSTJNQmRaaENMVHA1em9TOFl3VlNDOG8tMUVKQ0FMZVpFREJ0Z3ROOUI0bm9EenZkZVo1VmQza0NKSFJnMDdaWGx3V01FbTJ3dk84UW5xV2xaY1g5OEVoLUNkQVBQVGQyYW01LXJsYkh5RWUtSkpIeVNaYw?oc=5)
+### [CRISPR-System hemmt Hepatitis-E-Virus - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZWlTMWM4V3dmd05mcTJjdnNHZ204MXlJZ2NUNlV0aVZLTnVnNll4QUxVVjF1OEgxenZ1WjFRYUtvdU0zdnhUSXkwa2QyWTFyaEhEWXJlQm5fTkc4ZlBLeGhXaUR1WlQ0WDVQR3Z1N000bkExZXc?oc=5)
 
 2026-05-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[RUB Newsportal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVpoNFdvclNHY0Y1bjJ0V25MV012MGRnUmtqbkZvNmdPRG0xUlc1SWpWa3VPNXNKRUZ1NmFaSTJNQmRaaENMVHA1em9TOFl3VlNDOG8tMUVKQ0FMZVpFREJ0Z3ROOUI0bm9EenZkZVo1VmQza0NKSFJnMDdaWGx3V01FbTJ3dk84UW5xV2xaY1g5OEVoLUNkQVBQVGQyYW01LXJsYkh5RWUtSkpIeVNaYw?oc=5)
-
----
-
-### [Dr. Enrique Rodilla: «Sólo uno de cada tres hipertensos en España está realmente controlado»](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
-
-2026-05-11 <span class="news-indication-tag">hipertensión</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
+來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZWlTMWM4V3dmd05mcTJjdnNHZ204MXlJZ2NUNlV0aVZLTnVnNll4QUxVVjF1OEgxenZ1WjFRYUtvdU0zdnhUSXkwa2QyWTFyaEhEWXJlQm5fTkc4ZlBLeGhXaUR1WlQ0WDVQR3Z1N000bkExZXc?oc=5)
 
 ---
 

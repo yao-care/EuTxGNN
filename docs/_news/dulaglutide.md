@@ -14,7 +14,7 @@ permalink: /news/dulaglutide/
 ---
 
 <p class="key-answer" data-question="Dulaglutide 有什麼相關新聞？">
-<strong>Dulaglutide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dulaglutide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/dulaglutide/
 <p><a href="{{ '/drugs/dulaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Fettleber stört Blutzucker-Hormone massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
-
-2026-05-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Experts reveal the exact number of steps per day you need to boost health - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
 
