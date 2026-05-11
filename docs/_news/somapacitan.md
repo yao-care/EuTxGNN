@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### ['Start up' que pueden crear con IA vacunas contra el hantavirus](https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3dGejFVcjVuTktHSFU4c2dVcTlmMlUyMjhDVVVsbXByNkIxdUQ2ZmhIaTUyRzBrS3BFUTd3aGFBc1lwMzdOUldVeUtxY2VWOHZzUkJlOFZhQ25mVjliSzM4bnRkVTJWcEtBbEVYeDNEYlRRbElXSXpQTTBnX3dpbEtxOEhwcjhNTkpGbG5NV1FqaWNLT2pKc3ctcDRmTlNOdnIxWNIBpAFBVV95cUxOTnZIUnktajJXcjVSalM0SUwxSU1ud3dTQzBpWHZGSDFJQ3Itenc0NlJLNnRLM1J5cTVtNWduZ1NKOWs0ZTI5alJJY2RDUFp0QWVWd3lObFZLajNCVFVGT3NJQVROZ2NJR09weWFGRWhhSjVtbWlrUGJGZG5BelJkN3M1SkVybGhrUFBSOEFfYm1YRHd1Q1lCajF6RnVkWmxtTVpzSw?oc=5)
+### [Fettleber stört Blutzucker-Hormone massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+
+2026-05-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+
+---
+
+### [Una farmacéutica ya está desarrollando una vacuna contra el hantavirus con tecnología ARN mensajero](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
 
 2026-05-10 <span class="news-indication-tag">asma</span>
 
-來源：[Expansión](https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3dGejFVcjVuTktHSFU4c2dVcTlmMlUyMjhDVVVsbXByNkIxdUQ2ZmhIaTUyRzBrS3BFUTd3aGFBc1lwMzdOUldVeUtxY2VWOHZzUkJlOFZhQ25mVjliSzM4bnRkVTJWcEtBbEVYeDNEYlRRbElXSXpQTTBnX3dpbEtxOEhwcjhNTkpGbG5NV1FqaWNLT2pKc3ctcDRmTlNOdnIxWNIBpAFBVV95cUxOTnZIUnktajJXcjVSalM0SUwxSU1ud3dTQzBpWHZGSDFJQ3Itenc0NlJLNnRLM1J5cTVtNWduZ1NKOWs0ZTI5alJJY2RDUFp0QWVWd3lObFZLajNCVFVGT3NJQVROZ2NJR09weWFGRWhhSjVtbWlrUGJGZG5BelJkN3M1SkVybGhrUFBSOEFfYm1YRHd1Q1lCajF6RnVkWmxtTVpzSw?oc=5)
+來源：[WIRED](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
 
 ---
 
@@ -75,22 +83,6 @@ permalink: /news/somapacitan/
 2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
-
----
-
-### [Glukagon und Fettleber bei Typ-2-Diabetes](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JVcF9Fb1NLV3UwbnNyTE96X1VVcUFsY3M4SEl1V2tRcWgxOUxzU0JDeG92cU1Oc2lSV0x0ZmhyZnExQmJzVEd3aDVQRk9mRzRVc3JBbVozVWJvNVJMMGRZcHRQbVQyckVGRWFBTkp1RjFzUjZzcTcwSVdIbW82dHRIQlpzQklPdjZCWXZGeDFEWjUxZ25LRGVodFFVQ2h5dzM5a015MmliOG8zdjd6WVBGcTlZYWdaZGhWV1JNc1hHbTFV?oc=5)
-
-2026-05-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[journalmed](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JVcF9Fb1NLV3UwbnNyTE96X1VVcUFsY3M4SEl1V2tRcWgxOUxzU0JDeG92cU1Oc2lSV0x0ZmhyZnExQmJzVEd3aDVQRk9mRzRVc3JBbVozVWJvNVJMMGRZcHRQbVQyckVGRWFBTkp1RjFzUjZzcTcwSVdIbW82dHRIQlpzQklPdjZCWXZGeDFEWjUxZ25LRGVodFFVQ2h5dzM5a015MmliOG8zdjd6WVBGcTlZYWdaZGhWV1JNc1hHbTFV?oc=5)
-
----
-
-### [El asma: cómo reconocer sus síntomas y por qué el inhalador no siempre se usa bien - Cadena SER](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODk3bWFmeWRQUmgyeEFiZG4wd3RZLTRkTWVHcjFJRkt6UVVNaVh2SjZjRjBjNXh2VnFMd3RVRTN2RndlMUZUc21NU0JyUEdRM1Z0UmRNVnFPY3VqdGZtTEswRmlxYjhUeUttVGFUZnFlSnpTMWQ1MG1lclItSzB0QWxiaFFPbVJuSVNVOS1rYkJLTEhoYkNoR25tamI2ZmVRMl9Ianp6ekVyOEEzOXo2cmw5a2thcVBSUXRneGdjbzdwUmxQanduSTlGdjJpWi1mMWfSAeYBQVVfeXFMUG9WazB3WWlSeVB6T3lxUFl6NkJicHNQOVVtUi1qbFVLT2EyYkVVdnJlYUpRWlhpWDJhN2J0a0Rock02ajgxckdIRFl5MHNCVjAyV2VXMkFUVHloZGhZbWo4X2JoRzl6eW45R3I4S1pJRy1sSjUzOXdoSmVIckVRYkJyNUpMTDVPNC1PdkUxZzNjZG1wemg5akVsaEEtNWFFUC11bmMzNV9jMHB5SmU5bXNNakJ3UTNHMUN2bWpUa2dEQmV5bzdJZWZHTTZoZ3Z0TUpKYWU3NHNTNUJfSEZWVDdkSERRU3c?oc=5)
-
-2026-05-09 <span class="news-indication-tag">asma</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODk3bWFmeWRQUmgyeEFiZG4wd3RZLTRkTWVHcjFJRkt6UVVNaVh2SjZjRjBjNXh2VnFMd3RVRTN2RndlMUZUc21NU0JyUEdRM1Z0UmRNVnFPY3VqdGZtTEswRmlxYjhUeUttVGFUZnFlSnpTMWQ1MG1lclItSzB0QWxiaFFPbVJuSVNVOS1rYkJLTEhoYkNoR25tamI2ZmVRMl9Ianp6ekVyOEEzOXo2cmw5a2thcVBSUXRneGdjbzdwUmxQanduSTlGdjJpWi1mMWfSAeYBQVVfeXFMUG9WazB3WWlSeVB6T3lxUFl6NkJicHNQOVVtUi1qbFVLT2EyYkVVdnJlYUpRWlhpWDJhN2J0a0Rock02ajgxckdIRFl5MHNCVjAyV2VXMkFUVHloZGhZbWo4X2JoRzl6eW45R3I4S1pJRy1sSjUzOXdoSmVIckVRYkJyNUpMTDVPNC1PdkUxZzNjZG1wemg5akVsaEEtNWFFUC11bmMzNV9jMHB5SmU5bXNNakJ3UTNHMUN2bWpUa2dEQmV5bzdJZWZHTTZoZ3Z0TUpKYWU3NHNTNUJfSEZWVDdkSERRU3c?oc=5)
 
 ---
 

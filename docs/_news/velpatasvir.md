@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Argentina in spotlight over hantavirus as authorities retrace footsteps of ship’s passengers - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFdPZ0xHdmsxZ2hNYTBSZlRzWTZkN1AtOHJyYzdBUHAwQmFMeUZjWFJPbFhFOS1KT251cExsNUZHVFZPUEpDeVhNdmJfQ0lva29UNTlNNjRSbGI0eVdxSmN6RWFFY1NSRVl4S0hVVlA0LWRIaEpRUUlQQ2YwWV9fNno5Tk5YNjlUVkg1QW5xTFl4czhsWmpuUzFPdnh1eXdZNmM0M3RGdV94RjRSV2hDM0ZzcjFLMUFHdmM4?oc=5)
+### [CRISPR-System hemmt Hepatitis-E-Virus - RUB Newsportal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVpoNFdvclNHY0Y1bjJ0V25MV012MGRnUmtqbkZvNmdPRG0xUlc1SWpWa3VPNXNKRUZ1NmFaSTJNQmRaaENMVHA1em9TOFl3VlNDOG8tMUVKQ0FMZVpFREJ0Z3ROOUI0bm9EenZkZVo1VmQza0NKSFJnMDdaWGx3V01FbTJ3dk84UW5xV2xaY1g5OEVoLUNkQVBQVGQyYW01LXJsYkh5RWUtSkpIeVNaYw?oc=5)
 
-2026-05-10 <span class="news-indication-tag">MS</span>
+2026-05-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFdPZ0xHdmsxZ2hNYTBSZlRzWTZkN1AtOHJyYzdBUHAwQmFMeUZjWFJPbFhFOS1KT251cExsNUZHVFZPUEpDeVhNdmJfQ0lva29UNTlNNjRSbGI0eVdxSmN6RWFFY1NSRVl4S0hVVlA0LWRIaEpRUUlQQ2YwWV9fNno5Tk5YNjlUVkg1QW5xTFl4czhsWmpuUzFPdnh1eXdZNmM0M3RGdV94RjRSV2hDM0ZzcjFLMUFHdmM4?oc=5)
+來源：[RUB Newsportal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVpoNFdvclNHY0Y1bjJ0V25MV012MGRnUmtqbkZvNmdPRG0xUlc1SWpWa3VPNXNKRUZ1NmFaSTJNQmRaaENMVHA1em9TOFl3VlNDOG8tMUVKQ0FMZVpFREJ0Z3ROOUI0bm9EenZkZVo1VmQza0NKSFJnMDdaWGx3V01FbTJ3dk84UW5xV2xaY1g5OEVoLUNkQVBQVGQyYW01LXJsYkh5RWUtSkpIeVNaYw?oc=5)
+
+---
+
+### ["1 in 10 people will sustain long-term damage to their lungs, & for 1%, the infection can spread to their brain & spinal cord." What you need to know fungus storms - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pVGZDV0lMOUc5OUZpeFhRSzBJSEprQVdFamhfTFJHb0Z6VTJUdTJBb3hhcjA4eGJSRWRGaGpIblhFZm9yVnN6NmdqcU5HTE5OQkdIeFJDSkFUZHdIbnRKY1djZm5CXzd6NTFjTkxXM1g?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span>
+
+來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMicEFVX3lxTE1pVGZDV0lMOUc5OUZpeFhRSzBJSEprQVdFamhfTFJHb0Z6VTJUdTJBb3hhcjA4eGJSRWRGaGpIblhFZm9yVnN6NmdqcU5HTE5OQkdIeFJDSkFUZHdIbnRKY1djZm5CXzd6NTFjTkxXM1g?oc=5)
 
 ---
 
@@ -67,6 +75,22 @@ permalink: /news/velpatasvir/
 2026-05-10 <span class="news-indication-tag">MS</span>
 
 來源：[Diario AS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkJJcGJ5dEpIdkl4MWVwc0FQV29MWjBVZUNjOFdiVy1JT1JXYm1RVTJsc0l1eDZiZ0pUSk9NQ0diNzgteDVLeWNxV1daYkVxYk85Z09oLXFLcGs1ZWtDcWZ2Y0hkQWNSZk5pQmtEYUFxalM5eHI3MWpUNkZTV2I2RVB4czlUcnZSUGNaNDliS1kzM3hfeHlEcmdlazB1Q1BoenpiaWZyVEw2WFdpLUVYdjNXWjV1ZHF2LXfSAc4BQVVfeXFMUE1ZSFVrSlN1dndlZnZtWHp1MU83Q1hycU9TUGc4M2I4Qm5zR1E2aXR3N29ZVFROdXRVZElmTGdjRGV5ZkkxOUp4RG1uZ3BFU2NXdXNuTzFDN2tGcHhLam1Pb1RuTmZmaHh2YVMxMGZLZHVaVjBVaGNOMHlRcWUzWlh5NVpmWWdYbm9sS1A4RllXSndhbU1HcTMzbjNXUkIwMzkyV1BPcjUzTF9ObWJaTWZrb2N1WnJPZXc0SXZNUWZOWEhQbHZQcndPalZqSmc?oc=5)
+
+---
+
+### [„Mein Kind galt als gesund, aber ich wusste, dass etwas nicht stimmt“](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTRDblpYT3NZTll5MDQ4U2tNRGJxT1pYQmg2THdJYVRYSjQwMkJjdDVxekV3VndkZkduZU5JYWEwSTFSREw5Zk1xbl9TUUdtRkZ3VHRZeFlsSENHNExTeTVzRndUZGwzT1dFQmUwYVVZYW5hbTdPNW5nTDUxcUVjUzBSa1BIWk1TU0RYUmsyeUZfYWI5SkNNOWl5ODE4eEpvVFhIeWJhRGQxSGx4LU04bEJNRWtfX29qRFgyNnRB?oc=5)
+
+2026-05-10 <span class="news-indication-tag">MS</span>
+
+來源：[MSN](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTRDblpYT3NZTll5MDQ4U2tNRGJxT1pYQmg2THdJYVRYSjQwMkJjdDVxekV3VndkZkduZU5JYWEwSTFSREw5Zk1xbl9TUUdtRkZ3VHRZeFlsSENHNExTeTVzRndUZGwzT1dFQmUwYVVZYW5hbTdPNW5nTDUxcUVjUzBSa1BIWk1TU0RYUmsyeUZfYWI5SkNNOWl5ODE4eEpvVFhIeWJhRGQxSGx4LU04bEJNRWtfX29qRFgyNnRB?oc=5)
+
+---
+
+### [Margarita del Val, inmunóloga del CSIC, sobre el hantavirus: "Es bastante más grave que el coronavirus, pero el riesgo está muy lejos"](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOdi11djd0SFpYWVBNcG4zQlZMRE40NXctemhPS1lmN3lyYWZUX25zc0ZZMXJ5N3loOTdkVHkwMnNqbHNYRkZaeUVTZTZsdUp2N3l4YVo0eXRJOXBKSUtNekMtMU5FSlZSWjVFVnY3NkdSNmk4TlNvZThOZWh0TE5CSnRpM2V1Y2ZKTzRSRFk5YWRwZjMyaURzNzA4QmxhNUtPQ2l5TnRxS1gzUDB1MDJZcVlGZENlOWc5aTlhVGZSWERqdXVvTlF0RDFfUXJoMHN3UXA2ODZYZVVoS3E0V1NXTUZNUGFkTm5vWXdxWU5DdFI4by1iYzFPRHQ4RVZ1QnY5M3NpZXVER3AzemdvWms2NThNalIwLUxUdWxFVWN1Xzl0NFFlZnFnbnNB?oc=5)
+
+2026-05-10 <span class="news-indication-tag">MS</span>
+
+來源：[MSN](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOdi11djd0SFpYWVBNcG4zQlZMRE40NXctemhPS1lmN3lyYWZUX25zc0ZZMXJ5N3loOTdkVHkwMnNqbHNYRkZaeUVTZTZsdUp2N3l4YVo0eXRJOXBKSUtNekMtMU5FSlZSWjVFVnY3NkdSNmk4TlNvZThOZWh0TE5CSnRpM2V1Y2ZKTzRSRFk5YWRwZjMyaURzNzA4QmxhNUtPQ2l5TnRxS1gzUDB1MDJZcVlGZENlOWc5aTlhVGZSWERqdXVvTlF0RDFfUXJoMHN3UXA2ODZYZVVoS3E0V1NXTUZNUGFkTm5vWXdxWU5DdFI4by1iYzFPRHQ4RVZ1QnY5M3NpZXVER3AzemdvWms2NThNalIwLUxUdWxFVWN1Xzl0NFFlZnFnbnNB?oc=5)
 
 ---
 
@@ -91,22 +115,6 @@ permalink: /news/velpatasvir/
 2026-05-09 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMieEFVX3lxTE1rQkZlajVMRFFkNk5oSi1zcFRzSGRXVTN5ZVJraTNBeERnVnNsc2hFbTU1aERxSl92dTBsMExzeGF3S0dmdkdZZzR6S1pXRFhtcTgyQUhWUm1TRmpZdEZRdTVVZXhyZ1FZdFh3REhrZngtcmFUVEZ3bQ?oc=5)
-
----
-
-### [Más del 60% de las mujeres con esclerosis múltiple se plantea la maternidad tras el diagnóstico - Somos Pacientes](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakczTG1RRTRxUGdWQ2JNNlpneTJGWFFrTFVkUFpSV0RrSURCV21LTFlLTndHa25tN0VXWTVGb1M1cmJHbC1tRlpFWVJLVjhLTTE1bEs4TmNmOE9leFpFUXp2alZMOTRSR3BWQ3FQb1M1Ny1WcUlFdWs4QU5RYlE4STF6OTZyVE5DVEhDZm1GaTdqWE1TNVNZN3VGS3NSeFpLMmlmaF95N1hjcFliMjBEeXlDNkg3UUprcnRsa3RXSm9ORlJoNnFIekdBQ0doQ1g1QTduVW5KdHZ4cHQ1ZUh2STNFVnhVdi05?oc=5)
-
-2026-05-09 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakczTG1RRTRxUGdWQ2JNNlpneTJGWFFrTFVkUFpSV0RrSURCV21LTFlLTndHa25tN0VXWTVGb1M1cmJHbC1tRlpFWVJLVjhLTTE1bEs4TmNmOE9leFpFUXp2alZMOTRSR3BWQ3FQb1M1Ny1WcUlFdWs4QU5RYlE4STF6OTZyVE5DVEhDZm1GaTdqWE1TNVNZN3VGS3NSeFpLMmlmaF95N1hjcFliMjBEeXlDNkg3UUprcnRsa3RXSm9ORlJoNnFIekdBQ0doQ1g1QTduVW5KdHZ4cHQ1ZUh2STNFVnhVdi05?oc=5)
-
----
-
-### [Cheshire woman's heart-breaking diagnosis after 'weird and unusual' symptoms - Cheshire Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxQekdpMk03V1l6Vm1hOVJIR2NLQWd6ZlE0OW9tang1QjU2ZVUtbUR3U0M3SDBsT1Jna3hPdTBSVW5ROF9aTnhmd2NIMk5HdGg3WkRkek9MZmlQdG1PUXZCbW84SmpVQmpwcXlLWXI3QnpFZnZxYXJMSXV6eXF5R0dzVjlIQmF1X1FTTUQ5WWozSnNnWDFwekZYNktCUDAwdzYwT1FRN1Z2VGs1Tl850gGyAUFVX3lxTE5nRTJsN29SNFJCcXVUZ1Q4bmlCUEM0bWNDcGRXV1RKMGFMOUhFZ0p3YmR1bzA3bElpMUVwRGROWnJiY014TGdCWGlhUW9FYVlZeHRyOUdGdG1BbHdTbTd1UkZFTHVlT3N2ZVVjZ29ud2s1YkRweGhnUmhOeWh6YnZzbi1oSnp5ZG9ubmhJaFhIU3RPUTM3cXFDSzRYMzd5RzZfQm1zZi04OWltRm4zdkNtTWc?oc=5)
-
-2026-05-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cheshire Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxQekdpMk03V1l6Vm1hOVJIR2NLQWd6ZlE0OW9tang1QjU2ZVUtbUR3U0M3SDBsT1Jna3hPdTBSVW5ROF9aTnhmd2NIMk5HdGg3WkRkek9MZmlQdG1PUXZCbW84SmpVQmpwcXlLWXI3QnpFZnZxYXJMSXV6eXF5R0dzVjlIQmF1X1FTTUQ5WWozSnNnWDFwekZYNktCUDAwdzYwT1FRN1Z2VGs1Tl850gGyAUFVX3lxTE5nRTJsN29SNFJCcXVUZ1Q4bmlCUEM0bWNDcGRXV1RKMGFMOUhFZ0p3YmR1bzA3bElpMUVwRGROWnJiY014TGdCWGlhUW9FYVlZeHRyOUdGdG1BbHdTbTd1UkZFTHVlT3N2ZVVjZ29ud2s1YkRweGhnUmhOeWh6YnZzbi1oSnp5ZG9ubmhJaFhIU3RPUTM3cXFDSzRYMzd5RzZfQm1zZi04OWltRm4zdkNtTWc?oc=5)
 
 ---
 

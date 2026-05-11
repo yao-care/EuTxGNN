@@ -14,7 +14,7 @@ permalink: /news/macitentan/
 ---
 
 <p class="key-answer" data-question="Macitentan 有什麼相關新聞？">
-<strong>Macitentan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macitentan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/macitentan/
 <p><a href="{{ '/drugs/macitentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [La terapia cuádruple en una sola cápsula para la hipertensión incrementará la adherencia al tratamiento en más de un 80%](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYmhqaUNhQ05EVGowWUpiS2hIUmFOWEg1bk5TckluMFdnVGtLNnVYbmd2OUlycW5vOVJUdFA2WGsxdWJpaDJyYmc2eTV0ZGhyWmU2WnhYQTRHRlRlalhiSEs0UWhLdUFVOWdQVTUzQW1rSFNPbV9UdnIzYWEwUmF2R0hfYWJtQWNrVmgwZnRGNEN6eTY2TVlSeEgzaFY0RXl5LUxMUE1aNlFFRW5Kak83d2lKcF9USld2MDhYNVFsR2pmcUxXNmltZ1o1WjZlRHU4ZHk3OHdTVFZCbWFlc0E?oc=5)
+### [Dr. Enrique Rodilla: «Sólo uno de cada tres hipertensos en España está realmente controlado»](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
 
-2026-05-10 <span class="news-indication-tag">hipertensión</span>
+2026-05-11 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYmhqaUNhQ05EVGowWUpiS2hIUmFOWEg1bk5TckluMFdnVGtLNnVYbmd2OUlycW5vOVJUdFA2WGsxdWJpaDJyYmc2eTV0ZGhyWmU2WnhYQTRHRlRlalhiSEs0UWhLdUFVOWdQVTUzQW1rSFNPbV9UdnIzYWEwUmF2R0hfYWJtQWNrVmgwZnRGNEN6eTY2TVlSeEgzaFY0RXl5LUxMUE1aNlFFRW5Kak83d2lKcF9USld2MDhYNVFsR2pmcUxXNmltZ1o1WjZlRHU4ZHk3OHdTVFZCbWFlc0E?oc=5)
-
----
-
-### [Eating 170g of one food every day cuts high blood pressure risk, new study finds - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE84WDIxRXFzSC1idEdhUkdoeUN0anFpMnljZDRaZmNDTGxOWnpYN1NOY2tERnJKUnFXeEdQMUt1ZHh6cU9jQ0cxdk0xSlFfRWp3bld3dnJMMVY0RDAzVkY0WTlWczJrektCSmFsRm5FOUZtZUxYRkdUY3VaTUTSAYIBQVVfeXFMT2pKWmVJRC1yX0loNFNKUmdscl9VeDFvWDhfSkMyNEVSVXc4UUlmd21DenRnTzVFdm4xZDVuRHk1WWEzdzVDb2k1RlE4U3VpTl9IanBxZEF5eHZaSFNZQlYxa2U3cmhhVUNzWFRuQnowdlZ1N0hRdjF2SUxkMkxIcDlEZw?oc=5)
-
-2026-05-10 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE84WDIxRXFzSC1idEdhUkdoeUN0anFpMnljZDRaZmNDTGxOWnpYN1NOY2tERnJKUnFXeEdQMUt1ZHh6cU9jQ0cxdk0xSlFfRWp3bld3dnJMMVY0RDAzVkY0WTlWczJrektCSmFsRm5FOUZtZUxYRkdUY3VaTUTSAYIBQVVfeXFMT2pKWmVJRC1yX0loNFNKUmdscl9VeDFvWDhfSkMyNEVSVXc4UUlmd21DenRnTzVFdm4xZDVuRHk1WWEzdzVDb2k1RlE4U3VpTl9IanBxZEF5eHZaSFNZQlYxa2U3cmhhVUNzWFRuQnowdlZ1N0hRdjF2SUxkMkxIcDlEZw?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
 
 ---
 

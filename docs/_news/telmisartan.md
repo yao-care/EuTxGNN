@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [La terapia cuádruple en una sola cápsula para la hipertensión incrementará la adherencia al tratamiento en más de un 80%](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYmhqaUNhQ05EVGowWUpiS2hIUmFOWEg1bk5TckluMFdnVGtLNnVYbmd2OUlycW5vOVJUdFA2WGsxdWJpaDJyYmc2eTV0ZGhyWmU2WnhYQTRHRlRlalhiSEs0UWhLdUFVOWdQVTUzQW1rSFNPbV9UdnIzYWEwUmF2R0hfYWJtQWNrVmgwZnRGNEN6eTY2TVlSeEgzaFY0RXl5LUxMUE1aNlFFRW5Kak83d2lKcF9USld2MDhYNVFsR2pmcUxXNmltZ1o1WjZlRHU4ZHk3OHdTVFZCbWFlc0E?oc=5)
+### [Dr. Enrique Rodilla: «Sólo uno de cada tres hipertensos en España está realmente controlado»](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
 
-2026-05-10 <span class="news-indication-tag">hipertensión</span>
+2026-05-11 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYmhqaUNhQ05EVGowWUpiS2hIUmFOWEg1bk5TckluMFdnVGtLNnVYbmd2OUlycW5vOVJUdFA2WGsxdWJpaDJyYmc2eTV0ZGhyWmU2WnhYQTRHRlRlalhiSEs0UWhLdUFVOWdQVTUzQW1rSFNPbV9UdnIzYWEwUmF2R0hfYWJtQWNrVmgwZnRGNEN6eTY2TVlSeEgzaFY0RXl5LUxMUE1aNlFFRW5Kak83d2lKcF9USld2MDhYNVFsR2pmcUxXNmltZ1o1WjZlRHU4ZHk3OHdTVFZCbWFlc0E?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhvYVl4dnRycFgtaTR2SVZCZDVXbmFlRFNxeEZ3SW9qNExrMUR5ZG1Qd2xvZEZGYXdlYTZ2UWxhLWIweDYwT3FVbkZNNVFOdGMtR0FKRFZpaVpsWnJyV1hmWTdWR3Znd0VaY1J1d3NldExldHJaclJqU2lNTVVfQzQ4VmJoeXFYQ2x0aTRyMUh4aFkzUHBiblRuQkZQbkxhbUZ1OWxmU3lCRC1ERjk0c2tHV2Rkb0ZmVFHSAb8BQVVfeXFMTmlfWVFXZV9ndUhpWlNMTC11VkR2cW5VVlg2ZndnQks5TFlnSVZ5blRWbHRPa1V3YnV5SG01UDNGeHI2UmtlczFHVFZROUttdjF2cGpKNHVPTGdqV1FoQXUzbWNUb2I3M1RscUczTjRvUnhDYWc1SFlZZU1DeXhDVW96MXZ4VHFCeUh4dlBUSHM4cE1RbDJSSlN3RnpOZUNEcHZjVmlHSEVQY1ZaMVVKeUlfak1rN1pnZnRId0xjejA?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Eating 170g of one food every day cuts high blood pressure risk, new study finds - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE84WDIxRXFzSC1idEdhUkdoeUN0anFpMnljZDRaZmNDTGxOWnpYN1NOY2tERnJKUnFXeEdQMUt1ZHh6cU9jQ0cxdk0xSlFfRWp3bld3dnJMMVY0RDAzVkY0WTlWczJrektCSmFsRm5FOUZtZUxYRkdUY3VaTUTSAYIBQVVfeXFMT2pKWmVJRC1yX0loNFNKUmdscl9VeDFvWDhfSkMyNEVSVXc4UUlmd21DenRnTzVFdm4xZDVuRHk1WWEzdzVDb2k1RlE4U3VpTl9IanBxZEF5eHZaSFNZQlYxa2U3cmhhVUNzWFRuQnowdlZ1N0hRdjF2SUxkMkxIcDlEZw?oc=5)
+### [Un estudio valida en 6,4 millones de personas dos algoritmos que predicen el riesgo cardiovascular - Salud a Diario](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ0JXZUxqeVRYd1YyY2tHRmlxbi1qaWxqci1CaktUNWpXMjdhWlo1a19SWWpsZ0RjT2d5eFUtaWdLaHg0amNPbm50cF9LMHAzWk9HTHYxeHJOSXQ4ejFxYXFoaE9hVDVTa0NUS3BZOTRaNGJCMFVZTHRiTllOSTNOV2J6ZlJTWWRsZ2M5c1lVNVlJSkFoZVZaR0JwZlJsR1RmRmlTR1BDZHMyd3J2TjdwZmJTREhpOTJFdHpHemEyOGk3SmlIRWZiM1dITGJvejNGQTJya3U2dw?oc=5)
 
-2026-05-10 <span class="news-indication-tag">high blood pressure</span>
+2026-05-10 <span class="news-indication-tag">ictus</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE84WDIxRXFzSC1idEdhUkdoeUN0anFpMnljZDRaZmNDTGxOWnpYN1NOY2tERnJKUnFXeEdQMUt1ZHh6cU9jQ0cxdk0xSlFfRWp3bld3dnJMMVY0RDAzVkY0WTlWczJrektCSmFsRm5FOUZtZUxYRkdUY3VaTUTSAYIBQVVfeXFMT2pKWmVJRC1yX0loNFNKUmdscl9VeDFvWDhfSkMyNEVSVXc4UUlmd21DenRnTzVFdm4xZDVuRHk1WWEzdzVDb2k1RlE4U3VpTl9IanBxZEF5eHZaSFNZQlYxa2U3cmhhVUNzWFRuQnowdlZ1N0hRdjF2SUxkMkxIcDlEZw?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ0JXZUxqeVRYd1YyY2tHRmlxbi1qaWxqci1CaktUNWpXMjdhWlo1a19SWWpsZ0RjT2d5eFUtaWdLaHg0amNPbm50cF9LMHAzWk9HTHYxeHJOSXQ4ejFxYXFoaE9hVDVTa0NUS3BZOTRaNGJCMFVZTHRiTllOSTNOV2J6ZlJTWWRsZ2M5c1lVNVlJSkFoZVZaR0JwZlJsR1RmRmlTR1BDZHMyd3J2TjdwZmJTREhpOTJFdHpHemEyOGk3SmlIRWZiM1dITGJvejNGQTJya3U2dw?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/telmisartan/
 2026-05-10 <span class="news-indication-tag">ictus</span>
 
 來源：[elimparcial-elimparcial-prod.web.arc-cdn.net](https://news.google.com/rss/articles/CBMiyANBVV95cUxOYVE4NWZpWDVteldKeTVjNktXSVcxVzd6dE1zeDZQVnJVZE1nQXJrUVh0Uk12NXhya1NvSVVaT3FNX1F2MGExd1ZlWWJzd3ZwM01NWDQ4SVZWcENVVktSaVJFM0ctWERMazFEVnBSeW5WWWdDOFFoMnpZaFRPZWxDWFFBZzhpMHFEeEF3UUQzRG9mZXZINXZHU0ZaaHRUNUs4cmM0YVdOZHVEQkpocGpzeWUyLUNZMExPdVdpMHd1UXllMFhNel9DRF90WlZMRHZZNE14SVZLWWtLbk9SMmc0LTBWVFFNT0szSzNneVFCVHhWcjRodzFTcTBzTjlGbm9aeEZ4ZTdDczBqX1p5bVNibG1HMzZWS2pZT2xDNTRuQ2ZLOGNVbjNUUFpnZS14bm90Z29NbmR0bHRTNnhzVDZDNEx2ckRUSU41cTJleXd5ZVMzbUtxQTl0R0lOTl9rX1hwdWI1Ujk5Umo4aU1tX2x0Q1lWUUhPeFp5d0FQdGFLUHYtSk83MU9LSnRyUERPclp4a3JVY1h5ckhtbmFVNmNQQ3pXamt2MTJ2OVd3MktRazJoa2ZYcXJMa3V5R3BDbENINkZEWVo0X0XSAcIDQVVfeXFMT2hDZ042WTNSYUZmTE0tZ2NjbUExRHNjekktT3hxaFBqLW9SQmpFcDZIMlRtVDdCUU9uaGw1U2NfaXlUU2dkYXZJRFJYWUQ1d1A5TzZzeEtqTEJxZ1hoYW9Fd1BaWXZrVzBsNTB4Y2JRWHBmSGtJbHFiRVRHMUd6bVJKT28zVTJJd3UxT0VpQ0VSVl9iVExiWlQ3czlMQVR4VHRleWRsV1F2MG9PQUVvcmZSbHNSXzJ3Qzh4QVBvdnZHampUVk91bWk5SVVLSm5fYjlWTEJXNnlvU3AtdmlMa3piRzF1eDNzZTRoam1HZ2podnRVU19tOGlWVWxxR3ZZcmkwZ0gxakZ5dGpSV0l3dk1jUEd2dVF5N19mNWFGV0czZE1CdlJQUTBmS0ZhOXBjekpNSThCRF9pcU5QbFM0WTRHQUFWV2U4bGFsNTdCaDczYnhDdUN1cUpJbzR0WlF0MWRvdmxoZnh0a0F1aE5sSzRXeEdJZnpiR2pXcXl4ZzFjV3JDcXRUUmVYckhTckRObS1wOGhVWHZXSnFhLWU3cmdJRFdScWZWOXFDeEpWTksxeHUxQklYYUhQYVpZLWRGM2ZB?oc=5)
-
----
-
-### [Common stroke may actually be caused by widening of brain arteries - Medical News Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFJCZ09veXRHS05LZmpBUUhSNDlobFlJcmktRThrRUlsZjhyby1LX1lKUllzUnVqXy1pTkJLc0hXMm92UFhYdnZnUENMVm5McWRDSGttNFZjcDBhZk54anNScG1MY2p2UHJGbDVVNHFZWE5hUk9HRE5uZUVpTzI0T3NqWC1BTENjOUU5Rm1HMWtqc3lQ?oc=5)
-
-2026-05-09 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFJCZ09veXRHS05LZmpBUUhSNDlobFlJcmktRThrRUlsZjhyby1LX1lKUllzUnVqXy1pTkJLc0hXMm92UFhYdnZnUENMVm5McWRDSGttNFZjcDBhZk54anNScG1MY2p2UHJGbDVVNHFZWE5hUk9HRE5uZUVpTzI0T3NqWC1BTENjOUU5Rm1HMWtqc3lQ?oc=5)
 
 ---
 

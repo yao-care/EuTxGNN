@@ -54,6 +54,14 @@ permalink: /news/denosumab/
 
 ## 相關新聞（3 則）
 
+### [Fettleber stört Blutzucker-Hormone massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+
+2026-05-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlV1b1EyYktsSzUwN2ZGLUFITmtSMV9CQ1NuWWdxX3pULVhzbmpZNXZNVXIxaUtZZDBRODVuMkFOcXo3N3h2Q3dVaW05dUVteWtITXhIelZMOHlVR0UwckRSMWczVEMyUjhYTG5COHFYX2N1b0ZTZjZ6ZDFZSVZ5R05LQTVmTDNKemtCaE5WbDNPeURIYWc?oc=5)
+
+---
+
 ### [Experts reveal the exact number of steps per day you need to boost health - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
 
 2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -67,14 +75,6 @@ permalink: /news/denosumab/
 2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
-
----
-
-### [Glukagon und Fettleber bei Typ-2-Diabetes](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JVcF9Fb1NLV3UwbnNyTE96X1VVcUFsY3M4SEl1V2tRcWgxOUxzU0JDeG92cU1Oc2lSV0x0ZmhyZnExQmJzVEd3aDVQRk9mRzRVc3JBbVozVWJvNVJMMGRZcHRQbVQyckVGRWFBTkp1RjFzUjZzcTcwSVdIbW82dHRIQlpzQklPdjZCWXZGeDFEWjUxZ25LRGVodFFVQ2h5dzM5a015MmliOG8zdjd6WVBGcTlZYWdaZGhWV1JNc1hHbTFV?oc=5)
-
-2026-05-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[journalmed](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3JVcF9Fb1NLV3UwbnNyTE96X1VVcUFsY3M4SEl1V2tRcWgxOUxzU0JDeG92cU1Oc2lSV0x0ZmhyZnExQmJzVEd3aDVQRk9mRzRVc3JBbVozVWJvNVJMMGRZcHRQbVQyckVGRWFBTkp1RjFzUjZzcTcwSVdIbW82dHRIQlpzQklPdjZCWXZGeDFEWjUxZ25LRGVodFFVQ2h5dzM5a015MmliOG8zdjd6WVBGcTlZYWdaZGhWV1JNc1hHbTFV?oc=5)
 
 ---
 

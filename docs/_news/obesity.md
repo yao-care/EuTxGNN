@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,29 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Experts call for UK four-day week as study links long work hours to obesity - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFqd2RWa29malZoU21tRnp5b3FzS0dDV0V3cDZYZlgybi1rSHVCLXM2bGtjbnlTUkp0aE5RSFNWOUVOV09nb3RlVmlUd2ZhdEJCa201WjhyVGcwd28tMzlHcTU4ajZqTXFuVE43WnlnSHhPRFV3ZDNNQkVxRE96SXhCajN0YVBvTXdZbUFjRmFod2RLR0Y2WUtYZFpwa2NwYmtuTFNJWjhwaHZwa3d1N0MxMXR5TUpISnpkTENIQUU?oc=5)
+### [Getting fat? Blame long hours in the office, say scientists - The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 
-2026-05-10
+2026-05-11
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFqd2RWa29malZoU21tRnp5b3FzS0dDV0V3cDZYZlgybi1rSHVCLXM2bGtjbnlTUkp0aE5RSFNWOUVOV09nb3RlVmlUd2ZhdEJCa201WjhyVGcwd28tMzlHcTU4ajZqTXFuVE43WnlnSHhPRFV3ZDNNQkVxRE96SXhCajN0YVBvTXdZbUFjRmFod2RLR0Y2WUtYZFpwa2NwYmtuTFNJWjhwaHZwa3d1N0MxMXR5TUpISnpkTENIQUU?oc=5)
-
----
-
-### [Deux études révèlent que faire la sieste au-delà de 30 minutes augmente le risque d'obésité et de maladies cardiaques, même chez les personnes en bonne santé - La Provence](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVEE2YnBIUkJMVy1nUTVIOUY1VDVKbmVUck41Wk9NOVlrNEdXTENZZVRUVjQ5UTdWX00wWUkxdkNCb2hwOHRpdW05ZjNqVGp2TGl5R2dyX2x0TXpNSWJLMDQ0QTlEU3F6czNtQlYzTk1manFQMFJKM2lOSTVvaHpoaENoZ0JiVGhwNTU2SjhUQ19Sa1dOeHZaVGFWYTFXV1BlRURSSm5aMWFQN2ozUUhhLWFiazYxRWJnbjRqcDJkdEQybnN3UnpvUGZPQUZkdTBsRl9hR1JoT0w5NWpoM0ZFWWxqSXhxYm5hZkd6QWx0MVZGT254VDBUbVpscnYxSVNLU3Bod21rMzlmM2o2SHVxcm5oRVF2TGNMWko2MDE2cXdsT1hrbHRQaHhwNzNmcmM3NV9XbTZtSzg?oc=5)
-
-2026-05-09
-
-來源：[La Provence](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVEE2YnBIUkJMVy1nUTVIOUY1VDVKbmVUck41Wk9NOVlrNEdXTENZZVRUVjQ5UTdWX00wWUkxdkNCb2hwOHRpdW05ZjNqVGp2TGl5R2dyX2x0TXpNSWJLMDQ0QTlEU3F6czNtQlYzTk1manFQMFJKM2lOSTVvaHpoaENoZ0JiVGhwNTU2SjhUQ19Sa1dOeHZaVGFWYTFXV1BlRURSSm5aMWFQN2ozUUhhLWFiazYxRWJnbjRqcDJkdEQybnN3UnpvUGZPQUZkdTBsRl9hR1JoT0w5NWpoM0ZFWWxqSXhxYm5hZkd6QWx0MVZGT254VDBUbVpscnYxSVNLU3Bod21rMzlmM2o2SHVxcm5oRVF2TGNMWko2MDE2cXdsT1hrbHRQaHhwNzNmcmM3NV9XbTZtSzg?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 
 ---
 
-### [Ernährungsmedizin im Umbruch: Neue Leitlinien, Zuckersteuer und Personalisierung - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmU5YnM1b1g2b2NDRElBTk56QUlCZHRrV3FXZU5ud1FuenVpSG9JdkdpUk5JcXpjVl82Z3FYOGRvM25Gb0JJMkhMQlpyNWZwYV83SmJCWHFXdVk4ck1kZjF4RE12NXZsV1RmTk0zYWFIWHVMREF3U0FCMzQ2U2s0aVdpYkFqMzlMYzZTamZFeDd4QmxiaEF1OFF6eUc5dy1YNmNycVo5a1dsRUJRX1lCVQ?oc=5)
+### [Adipositas und Vorhofflimmern: Besteht ein direkter Zusammenhang?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHozYl9rQ25KY1g3c2FHdDY0WG82RFFPeTNPa0xtNzBrZkNKNWl4TGpKY1FrcnNTWW9QaHB2Q2p1U2Q1S1U1cTVHUU8yNFU1ODRFQjlRMk5Hem5QTjUzSl85UW9NUm5NRFpaSjJvZV9sRjJwWjNtYTFZRUUtUXVBXy1aTF9GdUlTMThqUUZkQmY2ZEl5MEExOGZTaERXaXRZSWtHLUZxSG5HYmtBZXgxYUp3?oc=5)
 
-2026-05-09
+2026-05-11
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmU5YnM1b1g2b2NDRElBTk56QUlCZHRrV3FXZU5ud1FuenVpSG9JdkdpUk5JcXpjVl82Z3FYOGRvM25Gb0JJMkhMQlpyNWZwYV83SmJCWHFXdVk4ck1kZjF4RE12NXZsV1RmTk0zYWFIWHVMREF3U0FCMzQ2U2s0aVdpYkFqMzlMYzZTamZFeDd4QmxiaEF1OFF6eUc5dy1YNmNycVo5a1dsRUJRX1lCVQ?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHozYl9rQ25KY1g3c2FHdDY0WG82RFFPeTNPa0xtNzBrZkNKNWl4TGpKY1FrcnNTWW9QaHB2Q2p1U2Q1S1U1cTVHUU8yNFU1ODRFQjlRMk5Hem5QTjUzSl85UW9NUm5NRFpaSjJvZV9sRjJwWjNtYTFZRUUtUXVBXy1aTF9GdUlTMThqUUZkQmY2ZEl5MEExOGZTaERXaXRZSWtHLUZxSG5HYmtBZXgxYUp3?oc=5)
 
 ---
 

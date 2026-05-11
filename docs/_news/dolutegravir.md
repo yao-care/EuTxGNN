@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dolutegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [CRISPR-System hemmt Hepatitis-E-Virus - RUB Newsportal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVpoNFdvclNHY0Y1bjJ0V25MV012MGRnUmtqbkZvNmdPRG0xUlc1SWpWa3VPNXNKRUZ1NmFaSTJNQmRaaENMVHA1em9TOFl3VlNDOG8tMUVKQ0FMZVpFREJ0Z3ROOUI0bm9EenZkZVo1VmQza0NKSFJnMDdaWGx3V01FbTJ3dk84UW5xV2xaY1g5OEVoLUNkQVBQVGQyYW01LXJsYkh5RWUtSkpIeVNaYw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">hepatitis</span>
+
+來源：[RUB Newsportal](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVpoNFdvclNHY0Y1bjJ0V25MV012MGRnUmtqbkZvNmdPRG0xUlc1SWpWa3VPNXNKRUZ1NmFaSTJNQmRaaENMVHA1em9TOFl3VlNDOG8tMUVKQ0FMZVpFREJ0Z3ROOUI0bm9EenZkZVo1VmQza0NKSFJnMDdaWGx3V01FbTJ3dk84UW5xV2xaY1g5OEVoLUNkQVBQVGQyYW01LXJsYkh5RWUtSkpIeVNaYw?oc=5)
+
+---
 
 
 <div class="disclaimer">
