@@ -3,7 +3,7 @@ layout: default
 title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "CKD（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
-<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [HSE says no dry cutting of engineered stone ahead of inspection crackdown - HSE Media Centre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWpSOHdsMXg0TmJHc251THhmM3RqQXRZV3cwR0NsMWNlRWxiVXgza2VCc0JKVVlEMEN0RklnZW1xazBxWTVrNThoWEZROUtva1NSVHUxLUhoanpTa1hzOUNmNlhGUHVvQmVIVVpBcmljdHpyQUY3ZXlWTXduLVNQdktHMXZOQlc5eGVWNDR0b2JENV81QWxOU280TE15cHRfNk05aERIMFY2OTZmWlBF?oc=5)
 
 2026-05-11
 
 來源：[HSE Media Centre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWpSOHdsMXg0TmJHc251THhmM3RqQXRZV3cwR0NsMWNlRWxiVXgza2VCc0JKVVlEMEN0RklnZW1xazBxWTVrNThoWEZROUtva1NSVHUxLUhoanpTa1hzOUNmNlhGUHVvQmVIVVpBcmljdHpyQUY3ZXlWTXduLVNQdktHMXZOQlc5eGVWNDR0b2JENV81QWxOU280TE15cHRfNk05aERIMFY2OTZmWlBF?oc=5)
-
----
-
-### [Neue Evidenz zu Finerenon bei Typ-1-Diabetes und CKD - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
-
-2026-05-10
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
 
 ---
 

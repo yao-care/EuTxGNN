@@ -3,7 +3,7 @@ layout: default
 title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,13 +85,29 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Herzgesundheit: Neue Studien stellen Cholesterin-Dogma infrage - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGE0YUk3R00zNkdNUXRYTTRWUUJ1TUFPS1FwZERZVUJZOHlWazdEMktTNzRCWUxtZkswWTdxaUgwQlVZcUw5UWVNQlp0ekdiZnFjdTZ3bHRqM2U3TzlNRko3MThhUXB2cUU0aGhGdDFUTlB4RmhpUzdRVDBkLWwxUEdGemR6VWFaS1JRNE9HTXdjYjNTelk1ZzVrQ0xMbEszOFAzUFQzSlptMWRSbVZj?oc=5)
+### [Arts and cultural engagement ‘linked to slower pace of biological ageing’ - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
+
+2026-05-12
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
+
+---
+
+### [Olive oil and coffee may slow ageing, study suggests - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHN3am5vOVJrTUNnZVE1c3BxUzAyME1PZVR3SnlaOGt2ZEhyVmNnNnJ6NHNWcWdSOXZpSzZSUGxxVmYtMXpPMjQtS2p0ZGZYQzJOZ2JqcUQ1YkFIX3RwaXczUGpXT2F4ZEw3OUFRNElyM0lfUV9Hb3E0OW4tVGgwRlU5eV9tY0ktc01PTjVxSENrSktXNXVLMXNNdTNGeFBQV1gyczV6SDhWa21GZkE?oc=5)
 
 2026-05-11
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGE0YUk3R00zNkdNUXRYTTRWUUJ1TUFPS1FwZERZVUJZOHlWazdEMktTNzRCWUxtZkswWTdxaUgwQlVZcUw5UWVNQlp0ekdiZnFjdTZ3bHRqM2U3TzlNRko3MThhUXB2cUU0aGhGdDFUTlB4RmhpUzdRVDBkLWwxUEdGemR6VWFaS1JRNE9HTXdjYjNTelk1ZzVrQ0xMbEszOFAzUFQzSlptMWRSbVZj?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHN3am5vOVJrTUNnZVE1c3BxUzAyME1PZVR3SnlaOGt2ZEhyVmNnNnJ6NHNWcWdSOXZpSzZSUGxxVmYtMXpPMjQtS2p0ZGZYQzJOZ2JqcUQ1YkFIX3RwaXczUGpXT2F4ZEw3OUFRNElyM0lfUV9Hb3E0OW4tVGgwRlU5eV9tY0ktc01PTjVxSENrSktXNXVLMXNNdTNGeFBQV1gyczV6SDhWa21GZkE?oc=5)
+
+---
+
+### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
+
+2026-05-11
+
+來源：[Heute](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 
 ---
 

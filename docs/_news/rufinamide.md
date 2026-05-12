@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rufinamide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
+
+### [Brustkrebs-Rückfall trotz Therapie: Warum manche Tumorzellen jahrelang weiterleben - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
+
+2026-05-12 <span class="news-indication-tag">tumor</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
+
+---
+
+### [Arts and cultural engagement ‘linked to slower pace of biological ageing’ - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
+
+2026-05-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
+
+---
+
+### [The midlife protein mistakes that cause muscle loss and weight gain - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlVDazJDRzBaaXJxMVR2RUVDZG8zMktNdFFRLTdVdFRqaVJmM0hPcTJsaEJZSzg3U3QydVBLQU5WYnJaek1nZVN6ZVVVYWloM1R3RXNfV0hheGZWM3JJQ1NiaFZ5MjNucWxqdGhUOVNvYkJoUkdQT1M0YTBYYWxKMUdPT1pZV0lZVkF0czNuVkd1MldtV2FHb05ydUdYMDVEMm9WTW9TMjF4Rm8?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlVDazJDRzBaaXJxMVR2RUVDZG8zMktNdFFRLTdVdFRqaVJmM0hPcTJsaEJZSzg3U3QydVBLQU5WYnJaek1nZVN6ZVVVYWloM1R3RXNfV0hheGZWM3JJQ1NiaFZ5MjNucWxqdGhUOVNvYkJoUkdQT1M0YTBYYWxKMUdPT1pZV0lZVkF0czNuVkd1MldtV2FHb05ydUdYMDVEMm9WTW9TMjF4Rm8?oc=5)
+
+---
+
+### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+2026-05-12 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+---
+
+### [«El protocolo ha sido el adecuado»: epidemiólogos avalan la gestión del brote](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEk0d0o1ZWRBb1lxb1RxZzhCWktGeUpkWVhNN25VMldYOHUxVXdBdmdmQ1cwX2FGOHVqcFFaQXRsazF4ME1aS2tIUzFNN1hOaFpxbzNtMGRkV0M2WG5IOXFxVzFBT2ltOVhFbFpFbjlBVVd2ZW0ybW11VF9JbGdkdHFvQi13ekR3ZlBycFhoTVdFb0hUd1JzaEdnalVWc2czc2hhLUhvNHZNSkxoN2dZR0dqOVBXYUXSAbwBQVVfeXFMT2U5M1V6U0dSalB5cFFuRThmRlN3UUEzMnkzNS01M3lObUxpWG5KWXlFV3F5dXZUcWhaUWE3a21jQnc2NThKRjJkcFN1NXpRWWVfeHFNOXJOazZVQ0RZMWF4eGh4cGg3WEpid29VSlRuNG1fMExYM3duYl9SOXdvWFpCamczVGxnQzhBeEY0czFrRFBwUlkzSlp2cmNzSUlsdU1lc01qeUYzV1g1dE1qVUhLQkQtTUVleloybU4?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[Canarias7](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEk0d0o1ZWRBb1lxb1RxZzhCWktGeUpkWVhNN25VMldYOHUxVXdBdmdmQ1cwX2FGOHVqcFFaQXRsazF4ME1aS2tIUzFNN1hOaFpxbzNtMGRkV0M2WG5IOXFxVzFBT2ltOVhFbFpFbjlBVVd2ZW0ybW11VF9JbGdkdHFvQi13ekR3ZlBycFhoTVdFb0hUd1JzaEdnalVWc2czc2hhLUhvNHZNSkxoN2dZR0dqOVBXYUXSAbwBQVVfeXFMT2U5M1V6U0dSalB5cFFuRThmRlN3UUEzMnkzNS01M3lObUxpWG5KWXlFV3F5dXZUcWhaUWE3a21jQnc2NThKRjJkcFN1NXpRWWVfeHFNOXJOazZVQ0RZMWF4eGh4cGg3WEpid29VSlRuNG1fMExYM3duYl9SOXdvWFpCamczVGxnQzhBeEY0czFrRFBwUlkzSlp2cmNzSUlsdU1lc01qeUYzV1g1dE1qVUhLQkQtTUVleloybU4?oc=5)
+
+---
 
 ### [French woman was told by doctors hantavirus symptoms were just anxiety - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOalo0VU5rbFFVMkV1NklGbHAyUmMwNFJBSExfTU1NMUI0VGVrMmp5TjBFdlRLXzkzQXhHdHhWVG9qU2dnakJMa3FrLWdZRWhESHBSb2RQWkgxSU81Q2hPc0lKNjZnYVNQUnJHOHVoQmNXY2l5cDA0U0tnaW1XR05zaWJ6Rjd5dmdfOVRhYjBxdHJaVlZPclVZSmVvS2k?oc=5)
 
@@ -62,43 +102,27 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+### [Avancées contre le cancer et projets de développement : Marc Ychou, reconduit au poste de directeur général, explique comment l’ICM est devenu incontournable - Midi Libre](https://news.google.com/rss/articles/CBMilAJBVV95cUxON0FaVjFfMDBId0kwOGJ3NzdXYkRBS0V3eG1RYjNKZjQwaDJnSFRvMGtrTmpNT0JXTmJreVU1YVFRcEhwckJJeTQwZWFzZVpZajRzZzhiTWV0b1Y2cmlWV0IwNFAzUG82Tnc1MkFNY01QYzFreThBR3ZLb0F0WWFJOW5CUDktaE0zTGpjcktrX0tzMGI1SnRTU2cwS3RlVHlWNEFmWWtyY2ZlalVpYUxpUURhNmhxUVhsU0lUaGZJd013YW9nUFJKTXQxbG44YUdRT2tVMlE3MGtjOUlpSVlBVU5QWWVrcTNUdWEyTUVDa20wMWlKWHJzMUVjdy11cTV5al9hcV9ZaTB0SVhVQmp5QS1lSmQ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">tumor</span>
+2026-05-11 <span class="news-indication-tag">cancer</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMilAJBVV95cUxON0FaVjFfMDBId0kwOGJ3NzdXYkRBS0V3eG1RYjNKZjQwaDJnSFRvMGtrTmpNT0JXTmJreVU1YVFRcEhwckJJeTQwZWFzZVpZajRzZzhiTWV0b1Y2cmlWV0IwNFAzUG82Tnc1MkFNY01QYzFreThBR3ZLb0F0WWFJOW5CUDktaE0zTGpjcktrX0tzMGI1SnRTU2cwS3RlVHlWNEFmWWtyY2ZlalVpYUxpUURhNmhxUVhsU0lUaGZJd013YW9nUFJKTXQxbG44YUdRT2tVMlE3MGtjOUlpSVlBVU5QWWVrcTNUdWEyTUVDa20wMWlKWHJzMUVjdy11cTV5al9hcV9ZaTB0SVhVQmp5QS1lSmQ?oc=5)
 
 ---
 
-### [Hantavirus, Oms: 7 casi accertati. Nave in viaggio verso i Paesi Bassi. Grave una francese - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE5wYklsd0xEUmk5cndzVlJGcjdGQXZwRWN4WHBhMGtGYzIwT3lnYW1PdXR2NTZfT0xoMEdaODRQamI5bVFqSnE5WHNfdjltbkwzN1NWRTJGQ2pkOFVwbkEzVEp0enJqUEpGWXVuSUw0dk1XdmdsSTdoRXpR?oc=5)
+### [Remarkable discovery finds way for bones to repair themselves, reversing osteoporosis](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0lUX0RRNWxORTB5WlBXbTc2ek5NcFR4cS00YVZGUVVLME92N3F4c0RSS2Mwa1BZOENGUmNKbHoxYkFOUmpGTFlHQWYyVjRoT2xLUWswdFRqNF8ya3FpZzRVM1MtRnJGVkZGeFBlTEJzQ1FmOWVZTjVZU2xpdjQ4cTEwaFE5X25Ka1BVMklVaFVsekhhU1VIdWRhcHFjOFB3UlpVcw?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE5wYklsd0xEUmk5cndzVlJGcjdGQXZwRWN4WHBhMGtGYzIwT3lnYW1PdXR2NTZfT0xoMEdaODRQamI5bVFqSnE5WHNfdjltbkwzN1NWRTJGQ2pkOFVwbkEzVEp0enJqUEpGWXVuSUw0dk1XdmdsSTdoRXpR?oc=5)
+來源：[Earth.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0lUX0RRNWxORTB5WlBXbTc2ek5NcFR4cS00YVZGUVVLME92N3F4c0RSS2Mwa1BZOENGUmNKbHoxYkFOUmpGTFlHQWYyVjRoT2xLUWswdFRqNF8ya3FpZzRVM1MtRnJGVkZGeFBlTEJzQ1FmOWVZTjVZU2xpdjQ4cTEwaFE5X25Ka1BVMklVaFVsekhhU1VIdWRhcHFjOFB3UlpVcw?oc=5)
 
 ---
 
-### [La OMS no excluye que se vean nuevos casos de hantavirus en próximos días o semanas - Diario de Canarias](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkNZRFZEenE5RjFyc3B0U0Qxd3g0bF9jZlE5X1JTNzVLWlJCVXF2N0QzdEtEOEFSMmhsVTdWMHpjVFNST0FiTklXRDdGTzNMYWhvaHdfRGJLWldieG9MUE9ZWXVsOVJjSmU5NHJUWHFDSThxejBJWnJpcFM3WWR3UjRydmFNcUI0QVIyY0hlVEhyTHBISmxOV0xuZ0lpUjVlUFpnTWt2NU1hWlRheDBKc196UXppaXZVamVwX0tZRGNfSWFwMXl1b24wck5odw?oc=5)
+### [Long daytime naps may be an early warning sign in older adults](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
 
-2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-11 <span class="news-indication-tag">MS</span>
 
-來源：[Diario de Canarias](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkNZRFZEenE5RjFyc3B0U0Qxd3g0bF9jZlE5X1JTNzVLWlJCVXF2N0QzdEtEOEFSMmhsVTdWMHpjVFNST0FiTklXRDdGTzNMYWhvaHdfRGJLWldieG9MUE9ZWXVsOVJjSmU5NHJUWHFDSThxejBJWnJpcFM3WWR3UjRydmFNcUI0QVIyY0hlVEhyTHBISmxOV0xuZ0lpUjVlUFpnTWt2NU1hWlRheDBKc196UXppaXZVamVwX0tZRGNfSWFwMXl1b24wck5odw?oc=5)
-
----
-
-### [Herzgesundheit: Neue Studien stellen Cholesterin-Dogma infrage - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGE0YUk3R00zNkdNUXRYTTRWUUJ1TUFPS1FwZERZVUJZOHlWazdEMktTNzRCWUxtZkswWTdxaUgwQlVZcUw5UWVNQlp0ekdiZnFjdTZ3bHRqM2U3TzlNRko3MThhUXB2cUU0aGhGdDFUTlB4RmhpUzdRVDBkLWwxUEdGemR6VWFaS1JRNE9HTXdjYjNTelk1ZzVrQ0xMbEszOFAzUFQzSlptMWRSbVZj?oc=5)
-
-2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGE0YUk3R00zNkdNUXRYTTRWUUJ1TUFPS1FwZERZVUJZOHlWazdEMktTNzRCWUxtZkswWTdxaUgwQlVZcUw5UWVNQlp0ekdiZnFjdTZ3bHRqM2U3TzlNRko3MThhUXB2cUU0aGhGdDFUTlB4RmhpUzdRVDBkLWwxUEdGemR6VWFaS1JRNE9HTXdjYjNTelk1ZzVrQ0xMbEszOFAzUFQzSlptMWRSbVZj?oc=5)
-
----
-
-### [Pacientes con cáncer de ovario exigen unidades de referencia ante diagnósticos en fases tardías](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmJqb0dnNGQxS0dnamxhcUZOZm1ibHNoLURaZ0dZc0lfVkU5dUt1UFZpS1RWWDNLRFhuVFB6ZzB4QVdDTUI5YmxXZDhkRTRBTXNlaHY3c2tmN3lwcW05NnZScmhDQTZBNFlTUW5Bd3pWUldqSnJuRndsVTVrUGdsMERwNmQ1R1E2ankyZmlkMHctNXJJQ0d5VU44UThEaVB6ZDItNC1Lanp0TE5JT0wwQ2cxZUJLS181ZHlnVHAtckJTNlNwQ1RycdIBzgFBVV95cUxPVmNYb1pLSFEzQlhHRTY0S3JmVGxBYjB1OGJZeDh1emMyLUwyM2pvNGcxMS0ydEZGT05PbG1vR3R5VW00WEFDckdZamhRYmlSMzVhR0V3cXJPcF9VaFZmVDIwMlJScy12Q3c1VDVSVEdTUURCOGd1OGwwMnIxTGJ0VTdacHB5Wng4Q21GcEJLNkJocjd1WWQ2TmVULVdXZnpvT0RfSUhGMzROcHpDbW4wNkxJLXBZbllNa0JSTDBWZTBBQ3Q5d2RVYnl0V1g5dw?oc=5)
-
-2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmJqb0dnNGQxS0dnamxhcUZOZm1ibHNoLURaZ0dZc0lfVkU5dUt1UFZpS1RWWDNLRFhuVFB6ZzB4QVdDTUI5YmxXZDhkRTRBTXNlaHY3c2tmN3lwcW05NnZScmhDQTZBNFlTUW5Bd3pWUldqSnJuRndsVTVrUGdsMERwNmQ1R1E2ankyZmlkMHctNXJJQ0d5VU44UThEaVB6ZDItNC1Lanp0TE5JT0wwQ2cxZUJLS181ZHlnVHAtckJTNlNwQ1RycdIBzgFBVV95cUxPVmNYb1pLSFEzQlhHRTY0S3JmVGxBYjB1OGJZeDh1emMyLUwyM2pvNGcxMS0ydEZGT05PbG1vR3R5VW00WEFDckdZamhRYmlSMzVhR0V3cXJPcF9VaFZmVDIwMlJScy12Q3c1VDVSVEdTUURCOGd1OGwwMnIxTGJ0VTdacHB5Wng4Q21GcEJLNkJocjd1WWQ2TmVULVdXZnpvT0RfSUhGMzROcHpDbW4wNkxJLXBZbllNa0JSTDBWZTBBQ3Q5d2RVYnl0V1g5dw?oc=5)
+來源：[Earth.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
 
 ---
 
@@ -126,14 +150,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Rara patologia oncologica, intervento riuscito al Brotzu - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnQzbFF0ZUNfanpiVFRSdUVVSzYxSW9YSHRtN3NzU01LcnZJdVZDZ0dONEt4V1RiMEZDdGJvSm1sQ21HV19EVHN1VkFxVEFLLUZCaXMzT3lHemRhU1RCSms1VkRhcXE3Z0Y3THg2ZUJUQW1oWGUtODg5R0VhazFkcWE0cHZ6NjU5TFlqT0RrWXpOcFpqTHNianRFSFFyb21HSmNwRjhKWnA3MDdaeHdPcWZkUmXSAbwBQVVfeXFMTV9VSVd6eHZCYXROX08zYXduTmVveXpzRnk4aHRGSTNLVGlrMmJBUzZQYW1OZEdaYUlLeEQzdk1saFZjemtRLUZGaHR0RllWa3pkRjlBM1gyOVJiMnMzZ05FRTVhelRzakRtdnVfSGFyTUNocWpIMWZBSEIxcy1LdjVYbVJsNkZOMjZKTy1ka1ZZLUtEUHo2OXlJRlY5aDl1U3FST3V2U0wzNEYyeGVrbjUwMnBkUEVFd1p3VGY?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnQzbFF0ZUNfanpiVFRSdUVVSzYxSW9YSHRtN3NzU01LcnZJdVZDZ0dONEt4V1RiMEZDdGJvSm1sQ21HV19EVHN1VkFxVEFLLUZCaXMzT3lHemRhU1RCSms1VkRhcXE3Z0Y3THg2ZUJUQW1oWGUtODg5R0VhazFkcWE0cHZ6NjU5TFlqT0RrWXpOcFpqTHNianRFSFFyb21HSmNwRjhKWnA3MDdaeHdPcWZkUmXSAbwBQVVfeXFMTV9VSVd6eHZCYXROX08zYXduTmVveXpzRnk4aHRGSTNLVGlrMmJBUzZQYW1OZEdaYUlLeEQzdk1saFZjemtRLUZGaHR0RllWa3pkRjlBM1gyOVJiMnMzZ05FRTVhelRzakRtdnVfSGFyTUNocWpIMWZBSEIxcy1LdjVYbVJsNkZOMjZKTy1ka1ZZLUtEUHo2OXlJRlY5aDl1U3FST3V2U0wzNEYyeGVrbjUwMnBkUEVFd1p3VGY?oc=5)
-
----
-
 ### [Pflanzenstoffe in der Krebstherapie: Neue Studie zeigt Potenzial - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmdnZkxSQlpYdVVrN005NW9GUlhiWXJvNDhvbVFaNTh4Sm5PU0dNdzVXZE5maTktYW53NW9fME1yWV9aSWlxYldZd0xwaHNkNHJoVEZ6RWxPVkhOZFlZeVdXLWYtN056YzA5eEptUkswR1FETWthSzNsbVdsUmoxRVQ3UmlJUTFoRzdkY2t5VzJ1R3BIanZsdmdMZnY5QllfYllYd3h3MS1LQzlzZHp3R3F3?oc=5)
 
 2026-05-11 <span class="news-indication-tag">Krebs</span>
@@ -142,11 +158,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [RNA-Therapie bremst krankhafte Umbauprozesse nach Herzinfarkt - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
+### [RNA-Therapie bremst krankhafte Umbauprozesse nach Herzinfarkt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
 
 ---
 
@@ -174,27 +190,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Tumore al polmone, nuova cura disponibile in Italia per i pazienti in stadio avanzato e con mutazione di Egfr - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTBPNk5lZWtSSmpITndiekZEWTlfU2xWOGt3X1JZWi05b1BFYTRITllBVXdxYnV3TnRpRFItc3B4R2M4WHBvYkszalN1a2JtWVFnT25WdWtYSUxReFRUXzNYbkJOZXFRWE95MjFodDZuUUs5eTIzLUluQXBRZjhMZXRBSEltM1pZS1FsUXlxUGZncy1DME1QM3FkcmRMUUxpaUZfQkhsMDZ5VVdLTGlLTFUtRjFUazNObXI0VmpmSlhvSmJmT3h1dnU1MlpGTUVHVEswRnhnbFphcUJDQUhKeWZWR2t5VHVfNEd2Q29YVm0zSGhIRUdwX2g1dDJDU2hqaC13UE02Z0VtZDl6bEstR2ZNaTRVMFI4SzhCN1RBRi0yQ1ZIc2ViaVc0S3F5MFNXUE1pLWZTMNIBvAJBVV95cUxNV1ozVTBydXZBWEphY1NoUERlVEJSRjhKRVdlamRxVXNPR1dMUmdBc0JZSlNyeU5QVnhVTVBMeU9KQmp1Y0diQTdxOHo5enFnZmprbTdJdVlKNHJKRjhQd0ZVNS1fMWxZckV1b3VGakNkUUpyWXFMY09rN3NPQ1FWX21odEZ2Xy1jX3d5eWoySDFQcW1QLUxzWWF6MERJNHEyd1FaenAyZ0tVcVltSTN1dGV0NkpCanI3ZndjV3lZeGRDSnJsY2FUMlpjWFNVeDM3OFlYZVNaazBOXzZoMXBDOTBKZi01TFpsd2tfa0szUmV2QjEtQTl4UloxMjBQWW5fVUhweHlsVUc2dkdGYTd1R2pBdFVOY015anlPZzNVd1o3aW1nRWdKbUpNbFVvVzZGT1otZ2UtTW9NaXFV?oc=5)
+### ['It's heartbreaking to lose loved ones to dementia'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">tumor</span>
+2026-05-11 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTBPNk5lZWtSSmpITndiekZEWTlfU2xWOGt3X1JZWi05b1BFYTRITllBVXdxYnV3TnRpRFItc3B4R2M4WHBvYkszalN1a2JtWVFnT25WdWtYSUxReFRUXzNYbkJOZXFRWE95MjFodDZuUUs5eTIzLUluQXBRZjhMZXRBSEltM1pZS1FsUXlxUGZncy1DME1QM3FkcmRMUUxpaUZfQkhsMDZ5VVdLTGlLTFUtRjFUazNObXI0VmpmSlhvSmJmT3h1dnU1MlpGTUVHVEswRnhnbFphcUJDQUhKeWZWR2t5VHVfNEd2Q29YVm0zSGhIRUdwX2g1dDJDU2hqaC13UE02Z0VtZDl6bEstR2ZNaTRVMFI4SzhCN1RBRi0yQ1ZIc2ViaVc0S3F5MFNXUE1pLWZTMNIBvAJBVV95cUxNV1ozVTBydXZBWEphY1NoUERlVEJSRjhKRVdlamRxVXNPR1dMUmdBc0JZSlNyeU5QVnhVTVBMeU9KQmp1Y0diQTdxOHo5enFnZmprbTdJdVlKNHJKRjhQd0ZVNS1fMWxZckV1b3VGakNkUUpyWXFMY09rN3NPQ1FWX21odEZ2Xy1jX3d5eWoySDFQcW1QLUxzWWF6MERJNHEyd1FaenAyZ0tVcVltSTN1dGV0NkpCanI3ZndjV3lZeGRDSnJsY2FUMlpjWFNVeDM3OFlYZVNaazBOXzZoMXBDOTBKZi01TFpsd2tfa0szUmV2QjEtQTl4UloxMjBQWW5fVUhweHlsVUc2dkdGYTd1R2pBdFVOY015anlPZzNVd1o3aW1nRWdKbUpNbFVvVzZGT1otZ2UtTW9NaXFV?oc=5)
-
----
-
-### [Nuevo estudio: el azúcar de los zumos y el de los refrescos no tienen el mismo efecto en el organismo - The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejlteUljZS1URFRFWDRleERIV0V1Z2hEU0sxQzRpNTNCV3c0NmhEMjlfdWVnT0ZJYmdmNVp1VzJYSzhxVVl3eGJqUnk1Y2JMVUpqcmFESzhiaDJZU0xndGY3eUtuU1pCOV9oMG5ScC11Ym9aa1ZmZFA4VnJ5WDdLLTZmb2NwR3ZIdmZJcGVZZmxSMVZSQkVyUTgxUHZZQ1NaQk9takJENHp0ejZ0LVZoZTVmdGF4WTNyLVhlT2pJSUdEelYxYXdINk5KTHFiUW0y?oc=5)
-
-2026-05-11 <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejlteUljZS1URFRFWDRleERIV0V1Z2hEU0sxQzRpNTNCV3c0NmhEMjlfdWVnT0ZJYmdmNVp1VzJYSzhxVVl3eGJqUnk1Y2JMVUpqcmFESzhiaDJZU0xndGY3eUtuU1pCOV9oMG5ScC11Ym9aa1ZmZFA4VnJ5WDdLLTZmb2NwR3ZIdmZJcGVZZmxSMVZSQkVyUTgxUHZZQ1NaQk9takJENHp0ejZ0LVZoZTVmdGF4WTNyLVhlT2pJSUdEelYxYXdINk5KTHFiUW0y?oc=5)
-
----
-
-### [« Faire en sorte que tous les habitants des Hauts-de-France soient égaux devant le cancer », espère le directeur du centre Oscar-Lambret - La Voix du Nord](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmNYd083NUllWXRxbWl4MS1GZWpKNlpucDF1RjhrNnB2TnZZNElVVDlfSmxuSjEwYnlhZTcxRlhNcGJTSUszYWx4SmcwTmV6ZlRKb2oxdUluSjg4Zlhwb2gycTFKWXBaRUlXenVzbnBHUUMzMnZGYlBoRmRDb3Z1MnJOZ0M5eEVXWkhPRHlWb0kyNmNPcWxDSzhBMGJPcjVxTWljQk5TX0VtTWJuaDRwTUJybENaYURJcjktc1dDLTFDWVU5SlFodVNvc1lFS1dy?oc=5)
-
-2026-05-10 <span class="news-indication-tag">cancer</span>
-
-來源：[La Voix du Nord](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmNYd083NUllWXRxbWl4MS1GZWpKNlpucDF1RjhrNnB2TnZZNElVVDlfSmxuSjEwYnlhZTcxRlhNcGJTSUszYWx4SmcwTmV6ZlRKb2oxdUluSjg4Zlhwb2gycTFKWXBaRUlXenVzbnBHUUMzMnZGYlBoRmRDb3Z1MnJOZ0M5eEVXWkhPRHlWb0kyNmNPcWxDSzhBMGJPcjVxTWljQk5TX0VtTWJuaDRwTUJybENaYURJcjktc1dDLTFDWVU5SlFodVNvc1lFS1dy?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
 
 ---
 
@@ -203,22 +203,6 @@ permalink: /news/rufinamide/
 2026-05-10 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2R5RHNRMUp4TlRSdVhLUDJJU3U1N2tNVk5EbkNTaU8wUFhWX2lKN3g5YUg0LUNpTzJfOHhKY1dNRVhKcU05MTRGbVZTQi15a3ZGSDNJdjd1ZUVhUU16STdqZEJHUmFwVnBCMFc3ZDZWMVp2TlExanJUVjczTmltZjZ2RlkxZw?oc=5)
-
----
-
-### [„Mein Kind galt als gesund, aber ich wusste, dass etwas nicht stimmt“](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTRDblpYT3NZTll5MDQ4U2tNRGJxT1pYQmg2THdJYVRYSjQwMkJjdDVxekV3VndkZkduZU5JYWEwSTFSREw5Zk1xbl9TUUdtRkZ3VHRZeFlsSENHNExTeTVzRndUZGwzT1dFQmUwYVVZYW5hbTdPNW5nTDUxcUVjUzBSa1BIWk1TU0RYUmsyeUZfYWI5SkNNOWl5ODE4eEpvVFhIeWJhRGQxSGx4LU04bEJNRWtfX29qRFgyNnRB?oc=5)
-
-2026-05-10 <span class="news-indication-tag">MS</span>
-
-來源：[MSN](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTRDblpYT3NZTll5MDQ4U2tNRGJxT1pYQmg2THdJYVRYSjQwMkJjdDVxekV3VndkZkduZU5JYWEwSTFSREw5Zk1xbl9TUUdtRkZ3VHRZeFlsSENHNExTeTVzRndUZGwzT1dFQmUwYVVZYW5hbTdPNW5nTDUxcUVjUzBSa1BIWk1TU0RYUmsyeUZfYWI5SkNNOWl5ODE4eEpvVFhIeWJhRGQxSGx4LU04bEJNRWtfX29qRFgyNnRB?oc=5)
-
----
-
-### [Magnetic Brain Pulses Help Kids With Autism to Communicate, Study Finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxOajI2M21KTDRWc1l6SHhkemlGTS1lX1kyaEdrcmJ0N20xaTREd3R6YUJ2UWhJR2RPNlR5OC1EZlV0MnhTWXh6MzVIV2Zwb2xidHlMM1MxR1l3SFNiYVI5ZEFCazloUEVFdUNvZjlDRUNpN1gxaFRWdFR3c3RVd2N0aW11RkhOODNaYkpYV3hOejU3X0FnMzdfQWV0WWNaVl8t?oc=5)
-
-2026-05-10 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxOajI2M21KTDRWc1l6SHhkemlGTS1lX1kyaEdrcmJ0N20xaTREd3R6YUJ2UWhJR2RPNlR5OC1EZlV0MnhTWXh6MzVIV2Zwb2xidHlMM1MxR1l3SFNiYVI5ZEFCazloUEVFdUNvZjlDRUNpN1gxaFRWdFR3c3RVd2N0aW11RkhOODNaYkpYV3hOejU3X0FnMzdfQWV0WWNaVl8t?oc=5)
 
 ---
 

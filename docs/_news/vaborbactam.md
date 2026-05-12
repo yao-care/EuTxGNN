@@ -14,7 +14,7 @@ permalink: /news/vaborbactam/
 ---
 
 <p class="key-answer" data-question="Vaborbactam 有什麼相關新聞？">
-<strong>Vaborbactam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vaborbactam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/vaborbactam/
 <p><a href="{{ '/drugs/vaborbactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [This Is the Best Type of Exercise for Knee Pain From Arthritis, According to Scientists](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
+
+2026-05-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
+
+---
 
 
 <div class="disclaimer">

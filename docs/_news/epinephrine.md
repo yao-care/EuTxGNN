@@ -54,6 +54,14 @@ permalink: /news/epinephrine/
 
 ## 相關新聞（3 則）
 
+### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
+
+2026-05-11 <span class="news-indication-tag">asthme</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
+
+---
+
 ### [Le piège de l'adolescence : comment un simple joint double le risque de schizophrénie et de bipolarité à 26 ans](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
 
 2026-05-11 <span class="news-indication-tag">EPOC</span>
@@ -67,14 +75,6 @@ permalink: /news/epinephrine/
 2026-05-11 <span class="news-indication-tag">asthma</span>
 
 來源：[radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
-
----
-
-### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
-2026-05-11 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
 ---
 

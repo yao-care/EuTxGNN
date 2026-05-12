@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthme</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,21 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Leberwerte verraten Diabetes-Risiko früher als gedacht - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVJ0WXBfUmRPR3RyRUV4ZjZLazBrVWhkOUtuNGRORmRCU0V3RGpRMHlmajBVMFdBSi1mNG54blE4T2g4ZXdmenNaSDlEZlVfY0g5VUNiOU4xb2FzUkRwN3hHajFhOVRNMWZVZk9uOFp2Ny1DRENOY3dsdnZ4WTNEak1rQ3JGOExzelpxQ2cxWFhyQXVocjJnUTJJcG1Hc050MnR1VUdDNA?oc=5)
+### [Vitamin-C-Mythen und Leberforschung: Neue Wege gegen Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
 
-2026-05-11 <span class="news-indication-tag">diabetes</span>
+2026-05-12 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVJ0WXBfUmRPR3RyRUV4ZjZLazBrVWhkOUtuNGRORmRCU0V3RGpRMHlmajBVMFdBSi1mNG54blE4T2g4ZXdmenNaSDlEZlVfY0g5VUNiOU4xb2FzUkRwN3hHajFhOVRNMWZVZk9uOFp2Ny1DRENOY3dsdnZ4WTNEak1rQ3JGOExzelpxQ2cxWFhyQXVocjJnUTJJcG1Hc050MnR1VUdDNA?oc=5)
-
----
-
-### [Wenn die Kinderlunge pfeift - radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
-
-2026-05-11 <span class="news-indication-tag">asthma</span>
-
-來源：[radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
 
 ---
 
@@ -78,19 +70,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Wenn die Kinderlunge pfeift - radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">asthma</span>
+
+來源：[radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
+
+---
+
 ### [Experts reveal the exact number of steps per day you need to boost health - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
 
 2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
-
----
-
-### [Neue Evidenz zu Finerenon bei Typ-1-Diabetes und CKD - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
-
-2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
 
 ---
 

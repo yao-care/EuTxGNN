@@ -14,7 +14,7 @@ permalink: /news/empagliflozin/
 ---
 
 <p class="key-answer" data-question="Empagliflozin 有什麼相關新聞？">
-<strong>Empagliflozin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Empagliflozin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/empagliflozin/
 <p><a href="{{ '/drugs/empagliflozin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Leberwerte verraten Diabetes-Risiko früher als gedacht - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVJ0WXBfUmRPR3RyRUV4ZjZLazBrVWhkOUtuNGRORmRCU0V3RGpRMHlmajBVMFdBSi1mNG54blE4T2g4ZXdmenNaSDlEZlVfY0g5VUNiOU4xb2FzUkRwN3hHajFhOVRNMWZVZk9uOFp2Ny1DRENOY3dsdnZ4WTNEak1rQ3JGOExzelpxQ2cxWFhyQXVocjJnUTJJcG1Hc050MnR1VUdDNA?oc=5)
+### [Vitamin-C-Mythen und Leberforschung: Neue Wege gegen Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
 
-2026-05-11 <span class="news-indication-tag">diabetes</span>
+2026-05-12 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVJ0WXBfUmRPR3RyRUV4ZjZLazBrVWhkOUtuNGRORmRCU0V3RGpRMHlmajBVMFdBSi1mNG54blE4T2g4ZXdmenNaSDlEZlVfY0g5VUNiOU4xb2FzUkRwN3hHajFhOVRNMWZVZk9uOFp2Ny1DRENOY3dsdnZ4WTNEak1rQ3JGOExzelpxQ2cxWFhyQXVocjJnUTJJcG1Hc050MnR1VUdDNA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/empagliflozin/
 2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
-
----
-
-### [Neue Evidenz zu Finerenon bei Typ-1-Diabetes und CKD - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
-
-2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
 
 ---
 

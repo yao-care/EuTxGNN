@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [More than 6,000 children treated at obesity clinics in England, figures show - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
+
+---
 
 ### [Getting fat? Blame long hours in the office, say scientists - The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 
-2026-05-11 <span class="news-indication-tag">obesity</span>
+2026-05-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 

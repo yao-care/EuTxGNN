@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [New Pill Successfully Lowers Stubborn Blood Pressure and Protects Kidneys in High-Risk Patients - Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
 
 2026-05-11 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+
+---
+
+### [This Is the Best Type of Exercise for Knee Pain From Arthritis, According to Scientists](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
+
+2026-05-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
 
 ---
 

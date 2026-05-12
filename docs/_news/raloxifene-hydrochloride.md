@@ -56,7 +56,7 @@ permalink: /news/raloxifene-hydrochloride/
 
 ### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Schlaganfall</span>
+2026-05-12 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 

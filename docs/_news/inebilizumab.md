@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inebilizumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（13 則）
+
+### [Brustkrebs-Rückfall trotz Therapie: Warum manche Tumorzellen jahrelang weiterleben - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
+
+2026-05-12 <span class="news-indication-tag">tumor</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
+
+---
 
 ### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
 
-2026-05-11 <span class="news-indication-tag">tumor</span>
+2026-05-12 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
 
 ---
 
-### [Leberwerte verraten Diabetes-Risiko früher als gedacht - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVJ0WXBfUmRPR3RyRUV4ZjZLazBrVWhkOUtuNGRORmRCU0V3RGpRMHlmajBVMFdBSi1mNG54blE4T2g4ZXdmenNaSDlEZlVfY0g5VUNiOU4xb2FzUkRwN3hHajFhOVRNMWZVZk9uOFp2Ny1DRENOY3dsdnZ4WTNEak1rQ3JGOExzelpxQ2cxWFhyQXVocjJnUTJJcG1Hc050MnR1VUdDNA?oc=5)
+### [Vitamin-C-Mythen und Leberforschung: Neue Wege gegen Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
 
-2026-05-11 <span class="news-indication-tag">diabetes</span>
+2026-05-12 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVJ0WXBfUmRPR3RyRUV4ZjZLazBrVWhkOUtuNGRORmRCU0V3RGpRMHlmajBVMFdBSi1mNG54blE4T2g4ZXdmenNaSDlEZlVfY0g5VUNiOU4xb2FzUkRwN3hHajFhOVRNMWZVZk9uOFp2Ny1DRENOY3dsdnZ4WTNEak1rQ3JGOExzelpxQ2cxWFhyQXVocjJnUTJJcG1Hc050MnR1VUdDNA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
 
 ---
 
-### [Herzgesundheit: Neue Studien stellen Cholesterin-Dogma infrage - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGE0YUk3R00zNkdNUXRYTTRWUUJ1TUFPS1FwZERZVUJZOHlWazdEMktTNzRCWUxtZkswWTdxaUgwQlVZcUw5UWVNQlp0ekdiZnFjdTZ3bHRqM2U3TzlNRko3MThhUXB2cUU0aGhGdDFUTlB4RmhpUzdRVDBkLWwxUEdGemR6VWFaS1JRNE9HTXdjYjNTelk1ZzVrQ0xMbEszOFAzUFQzSlptMWRSbVZj?oc=5)
+### [Avancées contre le cancer et projets de développement : Marc Ychou, reconduit au poste de directeur général, explique comment l’ICM est devenu incontournable - Midi Libre](https://news.google.com/rss/articles/CBMilAJBVV95cUxON0FaVjFfMDBId0kwOGJ3NzdXYkRBS0V3eG1RYjNKZjQwaDJnSFRvMGtrTmpNT0JXTmJreVU1YVFRcEhwckJJeTQwZWFzZVpZajRzZzhiTWV0b1Y2cmlWV0IwNFAzUG82Tnc1MkFNY01QYzFreThBR3ZLb0F0WWFJOW5CUDktaE0zTGpjcktrX0tzMGI1SnRTU2cwS3RlVHlWNEFmWWtyY2ZlalVpYUxpUURhNmhxUVhsU0lUaGZJd013YW9nUFJKTXQxbG44YUdRT2tVMlE3MGtjOUlpSVlBVU5QWWVrcTNUdWEyTUVDa20wMWlKWHJzMUVjdy11cTV5al9hcV9ZaTB0SVhVQmp5QS1lSmQ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-05-11 <span class="news-indication-tag">cancer</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGE0YUk3R00zNkdNUXRYTTRWUUJ1TUFPS1FwZERZVUJZOHlWazdEMktTNzRCWUxtZkswWTdxaUgwQlVZcUw5UWVNQlp0ekdiZnFjdTZ3bHRqM2U3TzlNRko3MThhUXB2cUU0aGhGdDFUTlB4RmhpUzdRVDBkLWwxUEdGemR6VWFaS1JRNE9HTXdjYjNTelk1ZzVrQ0xMbEszOFAzUFQzSlptMWRSbVZj?oc=5)
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMilAJBVV95cUxON0FaVjFfMDBId0kwOGJ3NzdXYkRBS0V3eG1RYjNKZjQwaDJnSFRvMGtrTmpNT0JXTmJreVU1YVFRcEhwckJJeTQwZWFzZVpZajRzZzhiTWV0b1Y2cmlWV0IwNFAzUG82Tnc1MkFNY01QYzFreThBR3ZLb0F0WWFJOW5CUDktaE0zTGpjcktrX0tzMGI1SnRTU2cwS3RlVHlWNEFmWWtyY2ZlalVpYUxpUURhNmhxUVhsU0lUaGZJd013YW9nUFJKTXQxbG44YUdRT2tVMlE3MGtjOUlpSVlBVU5QWWVrcTNUdWEyTUVDa20wMWlKWHJzMUVjdy11cTV5al9hcV9ZaTB0SVhVQmp5QS1lSmQ?oc=5)
+
+---
+
+### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
+
+2026-05-11 <span class="news-indication-tag">asthme</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/inebilizumab/
 2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWlo0T0QtMTdxb3d2UG5sRFVHblAxUFZ5UzVLSFo0dm43cThWek1pRURKdGxtOW1QaUNLMG4tZ1VUZC10cGctaEFpREVxTVZMWlBUMG1ldTlpcE1UZ2ZVTnhOS2dLeVlZcGhIS0Jfam1saUtvbDdKdjNQTmk5TVEzVGVsRTFXNzVBVzRfZDFyZFYzZW5kQ2k4VFo5aXNZcUxrN210NkpRd2JYWDU5UHhMUk9TRjlWdFcweDNpbHAzNXN4dnNaN1ZSNzBrc1duTE84YXVFbQ?oc=5)
-
----
-
-### [Rara patologia oncologica, intervento riuscito al Brotzu - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnQzbFF0ZUNfanpiVFRSdUVVSzYxSW9YSHRtN3NzU01LcnZJdVZDZ0dONEt4V1RiMEZDdGJvSm1sQ21HV19EVHN1VkFxVEFLLUZCaXMzT3lHemRhU1RCSms1VkRhcXE3Z0Y3THg2ZUJUQW1oWGUtODg5R0VhazFkcWE0cHZ6NjU5TFlqT0RrWXpOcFpqTHNianRFSFFyb21HSmNwRjhKWnA3MDdaeHdPcWZkUmXSAbwBQVVfeXFMTV9VSVd6eHZCYXROX08zYXduTmVveXpzRnk4aHRGSTNLVGlrMmJBUzZQYW1OZEdaYUlLeEQzdk1saFZjemtRLUZGaHR0RllWa3pkRjlBM1gyOVJiMnMzZ05FRTVhelRzakRtdnVfSGFyTUNocWpIMWZBSEIxcy1LdjVYbVJsNkZOMjZKTy1ka1ZZLUtEUHo2OXlJRlY5aDl1U3FST3V2U0wzNEYyeGVrbjUwMnBkUEVFd1p3VGY?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnQzbFF0ZUNfanpiVFRSdUVVSzYxSW9YSHRtN3NzU01LcnZJdVZDZ0dONEt4V1RiMEZDdGJvSm1sQ21HV19EVHN1VkFxVEFLLUZCaXMzT3lHemRhU1RCSms1VkRhcXE3Z0Y3THg2ZUJUQW1oWGUtODg5R0VhazFkcWE0cHZ6NjU5TFlqT0RrWXpOcFpqTHNianRFSFFyb21HSmNwRjhKWnA3MDdaeHdPcWZkUmXSAbwBQVVfeXFMTV9VSVd6eHZCYXROX08zYXduTmVveXpzRnk4aHRGSTNLVGlrMmJBUzZQYW1OZEdaYUlLeEQzdk1saFZjemtRLUZGaHR0RllWa3pkRjlBM1gyOVJiMnMzZ05FRTVhelRzakRtdnVfSGFyTUNocWpIMWZBSEIxcy1LdjVYbVJsNkZOMjZKTy1ka1ZZLUtEUHo2OXlJRlY5aDl1U3FST3V2U0wzNEYyeGVrbjUwMnBkUEVFd1p3VGY?oc=5)
 
 ---
 
@@ -134,30 +142,6 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Tumore al polmone, nuova cura disponibile in Italia per i pazienti in stadio avanzato e con mutazione di Egfr - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTBPNk5lZWtSSmpITndiekZEWTlfU2xWOGt3X1JZWi05b1BFYTRITllBVXdxYnV3TnRpRFItc3B4R2M4WHBvYkszalN1a2JtWVFnT25WdWtYSUxReFRUXzNYbkJOZXFRWE95MjFodDZuUUs5eTIzLUluQXBRZjhMZXRBSEltM1pZS1FsUXlxUGZncy1DME1QM3FkcmRMUUxpaUZfQkhsMDZ5VVdLTGlLTFUtRjFUazNObXI0VmpmSlhvSmJmT3h1dnU1MlpGTUVHVEswRnhnbFphcUJDQUhKeWZWR2t5VHVfNEd2Q29YVm0zSGhIRUdwX2g1dDJDU2hqaC13UE02Z0VtZDl6bEstR2ZNaTRVMFI4SzhCN1RBRi0yQ1ZIc2ViaVc0S3F5MFNXUE1pLWZTMNIBvAJBVV95cUxNV1ozVTBydXZBWEphY1NoUERlVEJSRjhKRVdlamRxVXNPR1dMUmdBc0JZSlNyeU5QVnhVTVBMeU9KQmp1Y0diQTdxOHo5enFnZmprbTdJdVlKNHJKRjhQd0ZVNS1fMWxZckV1b3VGakNkUUpyWXFMY09rN3NPQ1FWX21odEZ2Xy1jX3d5eWoySDFQcW1QLUxzWWF6MERJNHEyd1FaenAyZ0tVcVltSTN1dGV0NkpCanI3ZndjV3lZeGRDSnJsY2FUMlpjWFNVeDM3OFlYZVNaazBOXzZoMXBDOTBKZi01TFpsd2tfa0szUmV2QjEtQTl4UloxMjBQWW5fVUhweHlsVUc2dkdGYTd1R2pBdFVOY015anlPZzNVd1o3aW1nRWdKbUpNbFVvVzZGT1otZ2UtTW9NaXFV?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTBPNk5lZWtSSmpITndiekZEWTlfU2xWOGt3X1JZWi05b1BFYTRITllBVXdxYnV3TnRpRFItc3B4R2M4WHBvYkszalN1a2JtWVFnT25WdWtYSUxReFRUXzNYbkJOZXFRWE95MjFodDZuUUs5eTIzLUluQXBRZjhMZXRBSEltM1pZS1FsUXlxUGZncy1DME1QM3FkcmRMUUxpaUZfQkhsMDZ5VVdLTGlLTFUtRjFUazNObXI0VmpmSlhvSmJmT3h1dnU1MlpGTUVHVEswRnhnbFphcUJDQUhKeWZWR2t5VHVfNEd2Q29YVm0zSGhIRUdwX2g1dDJDU2hqaC13UE02Z0VtZDl6bEstR2ZNaTRVMFI4SzhCN1RBRi0yQ1ZIc2ViaVc0S3F5MFNXUE1pLWZTMNIBvAJBVV95cUxNV1ozVTBydXZBWEphY1NoUERlVEJSRjhKRVdlamRxVXNPR1dMUmdBc0JZSlNyeU5QVnhVTVBMeU9KQmp1Y0diQTdxOHo5enFnZmprbTdJdVlKNHJKRjhQd0ZVNS1fMWxZckV1b3VGakNkUUpyWXFMY09rN3NPQ1FWX21odEZ2Xy1jX3d5eWoySDFQcW1QLUxzWWF6MERJNHEyd1FaenAyZ0tVcVltSTN1dGV0NkpCanI3ZndjV3lZeGRDSnJsY2FUMlpjWFNVeDM3OFlYZVNaazBOXzZoMXBDOTBKZi01TFpsd2tfa0szUmV2QjEtQTl4UloxMjBQWW5fVUhweHlsVUc2dkdGYTd1R2pBdFVOY015anlPZzNVd1o3aW1nRWdKbUpNbFVvVzZGT1otZ2UtTW9NaXFV?oc=5)
-
----
-
-### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
-2026-05-11 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
----
-
-### [« Faire en sorte que tous les habitants des Hauts-de-France soient égaux devant le cancer », espère le directeur du centre Oscar-Lambret - La Voix du Nord](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmNYd083NUllWXRxbWl4MS1GZWpKNlpucDF1RjhrNnB2TnZZNElVVDlfSmxuSjEwYnlhZTcxRlhNcGJTSUszYWx4SmcwTmV6ZlRKb2oxdUluSjg4Zlhwb2gycTFKWXBaRUlXenVzbnBHUUMzMnZGYlBoRmRDb3Z1MnJOZ0M5eEVXWkhPRHlWb0kyNmNPcWxDSzhBMGJPcjVxTWljQk5TX0VtTWJuaDRwTUJybENaYURJcjktc1dDLTFDWVU5SlFodVNvc1lFS1dy?oc=5)
-
-2026-05-10 <span class="news-indication-tag">cancer</span>
-
-來源：[La Voix du Nord](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmNYd083NUllWXRxbWl4MS1GZWpKNlpucDF1RjhrNnB2TnZZNElVVDlfSmxuSjEwYnlhZTcxRlhNcGJTSUszYWx4SmcwTmV6ZlRKb2oxdUluSjg4Zlhwb2gycTFKWXBaRUlXenVzbnBHUUMzMnZGYlBoRmRDb3Z1MnJOZ0M5eEVXWkhPRHlWb0kyNmNPcWxDSzhBMGJPcjVxTWljQk5TX0VtTWJuaDRwTUJybENaYURJcjktc1dDLTFDWVU5SlFodVNvc1lFS1dy?oc=5)
-
----
-
 ### [A pain watching TV was the only clue of hidden cancer that stole my EYE... I had no idea I was at risk - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2R5RHNRMUp4TlRSdVhLUDJJU3U1N2tNVk5EbkNTaU8wUFhWX2lKN3g5YUg0LUNpTzJfOHhKY1dNRVhKcU05MTRGbVZTQi15a3ZGSDNJdjd1ZUVhUU16STdqZEJHUmFwVnBCMFc3ZDZWMVp2TlExanJUVjczTmltZjZ2RlkxZw?oc=5)
 
 2026-05-10 <span class="news-indication-tag">cancer</span>
@@ -171,14 +155,6 @@ permalink: /news/inebilizumab/
 2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
-
----
-
-### [Neue Evidenz zu Finerenon bei Typ-1-Diabetes und CKD - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
-
-2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xCTUJBdXU4NW1WMWotWW9PbG1pZHpGZ1AyWmZyZkhoU1R2dUw1UnB5TVZFb1VNdVl5TEdYUHVNdmN4Vy1rRTlPRVM1TXQ5c3Y3M3ZYRVJuUW9renVSVTVkMVJnSU9NME1TbXpEajBhUEczWU5mdUs1dWhlLXhoNlZpUk4xYVlTY2VCMGFRd1M1U21HZmc?oc=5)
 
 ---
 

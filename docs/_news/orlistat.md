@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,27 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Schlaganfall</span>
+2026-05-12 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
 ---
 
+### [More than 6,000 children treated at obesity clinics in England, figures show - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
+
+---
+
 ### [Getting fat? Blame long hours in the office, say scientists - The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 
-2026-05-11 <span class="news-indication-tag">obesity</span>
+2026-05-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5)
 
