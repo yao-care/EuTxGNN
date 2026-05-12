@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/budesonide/
 <li>polyp of ureter（99.7%）</li>
 <li>neoplastic polyp（99.7%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.6%）</li>
-<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asthme</span></li>
 <li>Crohn's colitis（99.3%）</li>
 <li>inflammatory bowel disease（99.2%）</li>
 <li>anus disease（99.0%）</li>
@@ -52,15 +52,7 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [L’asthme, cette maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
-2026-05-11 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Le piège de l'adolescence : comment un simple joint double le risque de schizophrénie et de bipolarité à 26 ans](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
 
@@ -78,11 +70,11 @@ permalink: /news/budesonide/
 
 ---
 
-### [Una farmacéutica ya está desarrollando una vacuna contra el hantavirus con tecnología ARN mensajero](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
+### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
-2026-05-10 <span class="news-indication-tag">asma</span>
+2026-05-11 <span class="news-indication-tag">asthme</span>
 
-來源：[WIRED](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUlndno4RUJYdlpzTFRMMHhiSDJLdXk4Q2ZwbW5hUE5xVTBzTkIwVzBpTGVaR2VfOWR2Wm0xSTU0bmh5c0VoWnZ2d0hXVWVUOWdXbUtvSGhPSGhNX2lwTmp5MUZ5SXdFV2FJWWtocXBta1FnSjlZSnE4YVF3Ylk1eUluVGwyb3lUR3pTSU5yejY5N3gzcHkxSDlJd0x0QXpJVUl4X0JXblhZMFNwclYwNGhfNVlRT2hfWWQzWU5mREtBMnZGNHZBd25B?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
 ---
 

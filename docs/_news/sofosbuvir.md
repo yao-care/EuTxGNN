@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
 
-### [Pacientes con cáncer de ovario exigen unidades de referencia ante diagnósticos en fases tardías](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmJqb0dnNGQxS0dnamxhcUZOZm1ibHNoLURaZ0dZc0lfVkU5dUt1UFZpS1RWWDNLRFhuVFB6ZzB4QVdDTUI5YmxXZDhkRTRBTXNlaHY3c2tmN3lwcW05NnZScmhDQTZBNFlTUW5Bd3pWUldqSnJuRndsVTVrUGdsMERwNmQ1R1E2ankyZmlkMHctNXJJQ0d5VU44UThEaVB6ZDItNC1Lanp0TE5JT0wwQ2cxZUJLS181ZHlnVHAtckJTNlNwQ1RycdIBzgFBVV95cUxPVmNYb1pLSFEzQlhHRTY0S3JmVGxBYjB1OGJZeDh1emMyLUwyM2pvNGcxMS0ydEZGT05PbG1vR3R5VW00WEFDckdZamhRYmlSMzVhR0V3cXJPcF9VaFZmVDIwMlJScy12Q3c1VDVSVEdTUURCOGd1OGwwMnIxTGJ0VTdacHB5Wng4Q21GcEJLNkJocjd1WWQ2TmVULVdXZnpvT0RfSUhGMzROcHpDbW4wNkxJLXBZbllNa0JSTDBWZTBBQ3Q5d2RVYnl0V1g5dw?oc=5)
+### [French woman was told by doctors hantavirus symptoms were just anxiety - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOalo0VU5rbFFVMkV1NklGbHAyUmMwNFJBSExfTU1NMUI0VGVrMmp5TjBFdlRLXzkzQXhHdHhWVG9qU2dnakJMa3FrLWdZRWhESHBSb2RQWkgxSU81Q2hPc0lKNjZnYVNQUnJHOHVoQmNXY2l5cDA0U0tnaW1XR05zaWJ6Rjd5dmdfOVRhYjBxdHJaVlZPclVZSmVvS2k?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOalo0VU5rbFFVMkV1NklGbHAyUmMwNFJBSExfTU1NMUI0VGVrMmp5TjBFdlRLXzkzQXhHdHhWVG9qU2dnakJMa3FrLWdZRWhESHBSb2RQWkgxSU81Q2hPc0lKNjZnYVNQUnJHOHVoQmNXY2l5cDA0U0tnaW1XR05zaWJ6Rjd5dmdfOVRhYjBxdHJaVlZPclVZSmVvS2k?oc=5)
+
+---
+
+### [Hantavirus, Oms: 7 casi accertati. Nave in viaggio verso i Paesi Bassi. Grave una francese - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE5wYklsd0xEUmk5cndzVlJGcjdGQXZwRWN4WHBhMGtGYzIwT3lnYW1PdXR2NTZfT0xoMEdaODRQamI5bVFqSnE5WHNfdjltbkwzN1NWRTJGQ2pkOFVwbkEzVEp0enJqUEpGWXVuSUw0dk1XdmdsSTdoRXpR?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span>
 
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE5wYklsd0xEUmk5cndzVlJGcjdGQXZwRWN4WHBhMGtGYzIwT3lnYW1PdXR2NTZfT0xoMEdaODRQamI5bVFqSnE5WHNfdjltbkwzN1NWRTJGQ2pkOFVwbkEzVEp0enJqUEpGWXVuSUw0dk1XdmdsSTdoRXpR?oc=5)
+
+---
+
+### [La OMS no excluye que se vean nuevos casos de hantavirus en próximos días o semanas - Diario de Canarias](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkNZRFZEenE5RjFyc3B0U0Qxd3g0bF9jZlE5X1JTNzVLWlJCVXF2N0QzdEtEOEFSMmhsVTdWMHpjVFNST0FiTklXRDdGTzNMYWhvaHdfRGJLWldieG9MUE9ZWXVsOVJjSmU5NHJUWHFDSThxejBJWnJpcFM3WWR3UjRydmFNcUI0QVIyY0hlVEhyTHBISmxOV0xuZ0lpUjVlUFpnTWt2NU1hWlRheDBKc196UXppaXZVamVwX0tZRGNfSWFwMXl1b24wck5odw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Canarias](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkNZRFZEenE5RjFyc3B0U0Qxd3g0bF9jZlE5X1JTNzVLWlJCVXF2N0QzdEtEOEFSMmhsVTdWMHpjVFNST0FiTklXRDdGTzNMYWhvaHdfRGJLWldieG9MUE9ZWXVsOVJjSmU5NHJUWHFDSThxejBJWnJpcFM3WWR3UjRydmFNcUI0QVIyY0hlVEhyTHBISmxOV0xuZ0lpUjVlUFpnTWt2NU1hWlRheDBKc196UXppaXZVamVwX0tZRGNfSWFwMXl1b24wck5odw?oc=5)
+
+---
+
+### [Pacientes con cáncer de ovario exigen unidades de referencia ante diagnósticos en fases tardías](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmJqb0dnNGQxS0dnamxhcUZOZm1ibHNoLURaZ0dZc0lfVkU5dUt1UFZpS1RWWDNLRFhuVFB6ZzB4QVdDTUI5YmxXZDhkRTRBTXNlaHY3c2tmN3lwcW05NnZScmhDQTZBNFlTUW5Bd3pWUldqSnJuRndsVTVrUGdsMERwNmQ1R1E2ankyZmlkMHctNXJJQ0d5VU44UThEaVB6ZDItNC1Lanp0TE5JT0wwQ2cxZUJLS181ZHlnVHAtckJTNlNwQ1RycdIBzgFBVV95cUxPVmNYb1pLSFEzQlhHRTY0S3JmVGxBYjB1OGJZeDh1emMyLUwyM2pvNGcxMS0ydEZGT05PbG1vR3R5VW00WEFDckdZamhRYmlSMzVhR0V3cXJPcF9VaFZmVDIwMlJScy12Q3c1VDVSVEdTUURCOGd1OGwwMnIxTGJ0VTdacHB5Wng4Q21GcEJLNkJocjd1WWQ2TmVULVdXZnpvT0RfSUhGMzROcHpDbW4wNkxJLXBZbllNa0JSTDBWZTBBQ3Q5d2RVYnl0V1g5dw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
 來源：[Demócrata](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmJqb0dnNGQxS0dnamxhcUZOZm1ibHNoLURaZ0dZc0lfVkU5dUt1UFZpS1RWWDNLRFhuVFB6ZzB4QVdDTUI5YmxXZDhkRTRBTXNlaHY3c2tmN3lwcW05NnZScmhDQTZBNFlTUW5Bd3pWUldqSnJuRndsVTVrUGdsMERwNmQ1R1E2ankyZmlkMHctNXJJQ0d5VU44UThEaVB6ZDItNC1Lanp0TE5JT0wwQ2cxZUJLS181ZHlnVHAtckJTNlNwQ1RycdIBzgFBVV95cUxPVmNYb1pLSFEzQlhHRTY0S3JmVGxBYjB1OGJZeDh1emMyLUwyM2pvNGcxMS0ydEZGT05PbG1vR3R5VW00WEFDckdZamhRYmlSMzVhR0V3cXJPcF9VaFZmVDIwMlJScy12Q3c1VDVSVEdTUURCOGd1OGwwMnIxTGJ0VTdacHB5Wng4Q21GcEJLNkJocjd1WWQ2TmVULVdXZnpvT0RfSUhGMzROcHpDbW4wNkxJLXBZbllNa0JSTDBWZTBBQ3Q5d2RVYnl0V1g5dw?oc=5)
+
+---
+
+### [Cancer risk warning as doctor confirms 'no safe' level of popular drink - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
+
+2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
 
 ---
 
@@ -67,14 +99,6 @@ permalink: /news/sofosbuvir/
 2026-05-11 <span class="news-indication-tag">MS</span>
 
 來源：[Highland Radio](https://news.google.com/rss/articles/CBMingFBVV95cUxPY0tyVEd0U0ZtakVvbmh2ZFl0TnEyVHdsV1JsZjZjc2NfaGRGR2hsN0gwaG1CQjk4VkZ6LUlWQVRKY0dIVFhWTVpJOWh0V0ZBVlpCV3l2UUZNeDllanduY3AwdGdGcHZoV05iSTJYUDN0a3hYQnhCQnRQb2Z2QVlvUFRZYjQ2ZDh6bFB2V2Z5Zi1Ubm9SZnRjdVgxVUFHZw?oc=5)
-
----
-
-### [Hantavirus no representa riesgo epidémico, pero el sarampión sí mantiene brotes activos: Dra. Flor Pujol - La Web de la Salud](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXM0c1hfRXd0eEgxeHp4Uk1ycTRueTJvTF9MckR5SGg3ZE9HMkFtVlBsTzRIcWpYTVJtYm8tTENOWmZnRGZlczFEMDQzUUdGOWI1UGZ5aFdNUGYtbkh3R2tqU09zTE8ydEJhWUE5RlNNamppdV90ci1vVHhzdC1hQ29vNjVKTnQ4ZW5QV3ZCbDRPM0x1cXlIS1o1aVBCSEZKUmZ1cVNuTHFTQk5qcm5pTnlzcjNEV084MjROejlaaElaTDRNSkZzNQ?oc=5)
-
-2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXM0c1hfRXd0eEgxeHp4Uk1ycTRueTJvTF9MckR5SGg3ZE9HMkFtVlBsTzRIcWpYTVJtYm8tTENOWmZnRGZlczFEMDQzUUdGOWI1UGZ5aFdNUGYtbkh3R2tqU09zTE8ydEJhWUE5RlNNamppdV90ci1vVHhzdC1hQ29vNjVKTnQ4ZW5QV3ZCbDRPM0x1cXlIS1o1aVBCSEZKUmZ1cVNuTHFTQk5qcm5pTnlzcjNEV084MjROejlaaElaTDRNSkZzNQ?oc=5)
 
 ---
 
@@ -94,6 +118,14 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Gesundheitsamt bietet HPV-Impfungen an - Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
+
+---
+
 ### [‘The mouth is a gateway into your body’: the fascinating, frightening links between our gums and our health - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1pkSGVkOVBTOFVidzdoVmJ0eng0c1NvX2tNS3ZFOWJsOWJKRHp4cmM4endMM0lGS0RoZmg1UWpRT0FkOV9PU0pEVVpRT1RvczZqYUxhNHUxazdUSm0zcnp1Njh3OE16enB3NXNoLVNEMUZIX0dfS3FXV0pnWHljMnpCN29lX0puZFQ0MHVGS09lVjViTXJ4eW9JQjJZeVFVN09zVjhhbzlOelFfU1JDT0wyVVVIeUU?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span>
@@ -102,19 +134,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### ['It's heartbreaking to lose loved ones to dementia'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
+### [Nuevo estudio: el azúcar de los zumos y el de los refrescos no tienen el mismo efecto en el organismo - The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejlteUljZS1URFRFWDRleERIV0V1Z2hEU0sxQzRpNTNCV3c0NmhEMjlfdWVnT0ZJYmdmNVp1VzJYSzhxVVl3eGJqUnk1Y2JMVUpqcmFESzhiaDJZU0xndGY3eUtuU1pCOV9oMG5ScC11Ym9aa1ZmZFA4VnJ5WDdLLTZmb2NwR3ZIdmZJcGVZZmxSMVZSQkVyUTgxUHZZQ1NaQk9takJENHp0ejZ0LVZoZTVmdGF4WTNyLVhlT2pJSUdEelYxYXdINk5KTHFiUW0y?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-05-11 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
-
----
-
-### [Un superviviente de hantavirus en 2023: “Fue como un infierno en la tierra” - Diario AS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkJJcGJ5dEpIdkl4MWVwc0FQV29MWjBVZUNjOFdiVy1JT1JXYm1RVTJsc0l1eDZiZ0pUSk9NQ0diNzgteDVLeWNxV1daYkVxYk85Z09oLXFLcGs1ZWtDcWZ2Y0hkQWNSZk5pQmtEYUFxalM5eHI3MWpUNkZTV2I2RVB4czlUcnZSUGNaNDliS1kzM3hfeHlEcmdlazB1Q1BoenpiaWZyVEw2WFdpLUVYdjNXWjV1ZHF2LXfSAc4BQVVfeXFMUE1ZSFVrSlN1dndlZnZtWHp1MU83Q1hycU9TUGc4M2I4Qm5zR1E2aXR3N29ZVFROdXRVZElmTGdjRGV5ZkkxOUp4RG1uZ3BFU2NXdXNuTzFDN2tGcHhLam1Pb1RuTmZmaHh2YVMxMGZLZHVaVjBVaGNOMHlRcWUzWlh5NVpmWWdYbm9sS1A4RllXSndhbU1HcTMzbjNXUkIwMzkyV1BPcjUzTF9ObWJaTWZrb2N1WnJPZXc0SXZNUWZOWEhQbHZQcndPalZqSmc?oc=5)
-
-2026-05-10 <span class="news-indication-tag">MS</span>
-
-來源：[Diario AS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkJJcGJ5dEpIdkl4MWVwc0FQV29MWjBVZUNjOFdiVy1JT1JXYm1RVTJsc0l1eDZiZ0pUSk9NQ0diNzgteDVLeWNxV1daYkVxYk85Z09oLXFLcGs1ZWtDcWZ2Y0hkQWNSZk5pQmtEYUFxalM5eHI3MWpUNkZTV2I2RVB4czlUcnZSUGNaNDliS1kzM3hfeHlEcmdlazB1Q1BoenpiaWZyVEw2WFdpLUVYdjNXWjV1ZHF2LXfSAc4BQVVfeXFMUE1ZSFVrSlN1dndlZnZtWHp1MU83Q1hycU9TUGc4M2I4Qm5zR1E2aXR3N29ZVFROdXRVZElmTGdjRGV5ZkkxOUp4RG1uZ3BFU2NXdXNuTzFDN2tGcHhLam1Pb1RuTmZmaHh2YVMxMGZLZHVaVjBVaGNOMHlRcWUzWlh5NVpmWWdYbm9sS1A4RllXSndhbU1HcTMzbjNXUkIwMzkyV1BPcjUzTF9ObWJaTWZrb2N1WnJPZXc0SXZNUWZOWEhQbHZQcndPalZqSmc?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejlteUljZS1URFRFWDRleERIV0V1Z2hEU0sxQzRpNTNCV3c0NmhEMjlfdWVnT0ZJYmdmNVp1VzJYSzhxVVl3eGJqUnk1Y2JMVUpqcmFESzhiaDJZU0xndGY3eUtuU1pCOV9oMG5ScC11Ym9aa1ZmZFA4VnJ5WDdLLTZmb2NwR3ZIdmZJcGVZZmxSMVZSQkVyUTgxUHZZQ1NaQk9takJENHp0ejZ0LVZoZTVmdGF4WTNyLVhlT2pJSUdEelYxYXdINk5KTHFiUW0y?oc=5)
 
 ---
 
@@ -131,14 +155,6 @@ permalink: /news/sofosbuvir/
 2026-05-10 <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxOajI2M21KTDRWc1l6SHhkemlGTS1lX1kyaEdrcmJ0N20xaTREd3R6YUJ2UWhJR2RPNlR5OC1EZlV0MnhTWXh6MzVIV2Zwb2xidHlMM1MxR1l3SFNiYVI5ZEFCazloUEVFdUNvZjlDRUNpN1gxaFRWdFR3c3RVd2N0aW11RkhOODNaYkpYV3hOejU3X0FnMzdfQWV0WWNaVl8t?oc=5)
-
----
-
-### [Met emails Boheme visitors about measles - Slipped Disc](https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT3JTSGxUYUl6QXczSFcycUdwYVJDYUlqYTRIRnEzSlFGZnpYMTcxNlF6bzdzaHgzVHdXZHZqQXNUSWxiTVpiQmRrV09HSmlWZ2x1OFpUeXpJTVYtOEFETVk1SzNzYzhGOFlCWEFTN0ZvVGJ1QzR5VFFfcTc?oc=5)
-
-2026-05-09 <span class="news-indication-tag">MS</span>
-
-來源：[Slipped Disc](https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT3JTSGxUYUl6QXczSFcycUdwYVJDYUlqYTRIRnEzSlFGZnpYMTcxNlF6bzdzaHgzVHdXZHZqQXNUSWxiTVpiQmRrV09HSmlWZ2x1OFpUeXpJTVYtOEFETVk1SzNzYzhGOFlCWEFTN0ZvVGJ1QzR5VFFfcTc?oc=5)
 
 ---
 

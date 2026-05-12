@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Epigenetische Marker: Neue Wege in der Depressionsdiagnostik - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzY4TUNhWU16bDI0NmVEQzF3MkJYcDNwUFJrWUxkWHY2bndfUEdBemQ3UWtoSG42eEpRaWV0MC1qV2g2LW5YVVFrUnYxQmlUR01fTWFZQWhWVThaTG1Ea01lMGNtRjByU1F0Qll4MVV2Sk5Xak13TlBpV1RRQ1owNnVDRlZlUEV3amNiNGVqdmpWeDdXQkE?oc=5)
-
-2026-05-09 <span class="news-indication-tag">depression</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzY4TUNhWU16bDI0NmVEQzF3MkJYcDNwUFJrWUxkWHY2bndfUEdBemQ3UWtoSG42eEpRaWV0MC1qV2g2LW5YVVFrUnYxQmlUR01fTWFZQWhWVThaTG1Ea01lMGNtRjByU1F0Qll4MVV2Sk5Xak13TlBpV1RRQ1owNnVDRlZlUEV3amNiNGVqdmpWeDdXQkE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

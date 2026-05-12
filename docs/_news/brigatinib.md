@@ -14,7 +14,7 @@ permalink: /news/brigatinib/
 ---
 
 <p class="key-answer" data-question="Brigatinib 有什麼相關新聞？">
-<strong>Brigatinib</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brigatinib</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/brigatinib/
 <p><a href="{{ '/drugs/brigatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
 ### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
 
@@ -62,19 +62,19 @@ permalink: /news/brigatinib/
 
 ---
 
-### [El ICO creará en 2027 la primera unidad catalana para tumores raros - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1JYalU3N3F3Sm5rMkVZLWozQ3Jyb0tIQ2tDQnREbk9QRWx4WkZERU5mOERPOVNpMGxLUWtRYmZVLVR0TVhjWGJUcGhnYTkyNElwWXd1T3ZwM2xkOUVUZDdLODJVQ3FNMkNuWllIWnlNRXVzVWp4Q2FOX1BLdVdaaWhuc25aTUYtblAwLXZDYzZ4Zi1weW5fMkk1Y2Ntb1lvSzNvblBxSWxHSDJORGNUdE5PTEFEc0VqaDF5VzRTTG1odlR0NG9VS0RSRdIBywFBVV95cUxNOWpLR2VSWGZsLVI1cUQzbkM3aGRXLVdwVWFXUUgyZFFfNld0NVJmQ2s1Z2RLWmtUZVJ4a0k3WlFaN2ZzLXR1TXNaYzhHYWJ0ZjdZMTRKSWh1M1lBSDY1RnpKS0ZxNjhyeXc3bnFqVkQ5el9tbElvcm45OTFtX0tJVUx5VW41ejgtNTBFekxxcEMxRjZZaTBfVFZGU0drOFM5TW5RQlg5NFlpWl9CMWh0VzBPZUpoSU13Z0dmUjZHT0tBLWxNbG5qbGZucw?oc=5)
+### [Herzgesundheit: Neue Studien stellen Cholesterin-Dogma infrage - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGE0YUk3R00zNkdNUXRYTTRWUUJ1TUFPS1FwZERZVUJZOHlWazdEMktTNzRCWUxtZkswWTdxaUgwQlVZcUw5UWVNQlp0ekdiZnFjdTZ3bHRqM2U3TzlNRko3MThhUXB2cUU0aGhGdDFUTlB4RmhpUzdRVDBkLWwxUEdGemR6VWFaS1JRNE9HTXdjYjNTelk1ZzVrQ0xMbEszOFAzUFQzSlptMWRSbVZj?oc=5)
 
-2026-05-11 <span class="news-indication-tag">tumor</span>
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1JYalU3N3F3Sm5rMkVZLWozQ3Jyb0tIQ2tDQnREbk9QRWx4WkZERU5mOERPOVNpMGxLUWtRYmZVLVR0TVhjWGJUcGhnYTkyNElwWXd1T3ZwM2xkOUVUZDdLODJVQ3FNMkNuWllIWnlNRXVzVWp4Q2FOX1BLdVdaaWhuc25aTUYtblAwLXZDYzZ4Zi1weW5fMkk1Y2Ntb1lvSzNvblBxSWxHSDJORGNUdE5PTEFEc0VqaDF5VzRTTG1odlR0NG9VS0RSRdIBywFBVV95cUxNOWpLR2VSWGZsLVI1cUQzbkM3aGRXLVdwVWFXUUgyZFFfNld0NVJmQ2s1Z2RLWmtUZVJ4a0k3WlFaN2ZzLXR1TXNaYzhHYWJ0ZjdZMTRKSWh1M1lBSDY1RnpKS0ZxNjhyeXc3bnFqVkQ5el9tbElvcm45OTFtX0tJVUx5VW41ejgtNTBFekxxcEMxRjZZaTBfVFZGU0drOFM5TW5RQlg5NFlpWl9CMWh0VzBPZUpoSU13Z0dmUjZHT0tBLWxNbG5qbGZucw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGE0YUk3R00zNkdNUXRYTTRWUUJ1TUFPS1FwZERZVUJZOHlWazdEMktTNzRCWUxtZkswWTdxaUgwQlVZcUw5UWVNQlp0ekdiZnFjdTZ3bHRqM2U3TzlNRko3MThhUXB2cUU0aGhGdDFUTlB4RmhpUzdRVDBkLWwxUEdGemR6VWFaS1JRNE9HTXdjYjNTelk1ZzVrQ0xMbEszOFAzUFQzSlptMWRSbVZj?oc=5)
 
 ---
 
-### [Doctor's warning as popular drink classed as a carcinogen with 'no safe' amount - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
+### [Cancer risk warning as doctor confirms 'no safe' level of popular drink - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
 
-2026-05-11 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
+來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
 
 ---
 
@@ -86,11 +86,27 @@ permalink: /news/brigatinib/
 
 ---
 
+### [Rara patologia oncologica, intervento riuscito al Brotzu - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnQzbFF0ZUNfanpiVFRSdUVVSzYxSW9YSHRtN3NzU01LcnZJdVZDZ0dONEt4V1RiMEZDdGJvSm1sQ21HV19EVHN1VkFxVEFLLUZCaXMzT3lHemRhU1RCSms1VkRhcXE3Z0Y3THg2ZUJUQW1oWGUtODg5R0VhazFkcWE0cHZ6NjU5TFlqT0RrWXpOcFpqTHNianRFSFFyb21HSmNwRjhKWnA3MDdaeHdPcWZkUmXSAbwBQVVfeXFMTV9VSVd6eHZCYXROX08zYXduTmVveXpzRnk4aHRGSTNLVGlrMmJBUzZQYW1OZEdaYUlLeEQzdk1saFZjemtRLUZGaHR0RllWa3pkRjlBM1gyOVJiMnMzZ05FRTVhelRzakRtdnVfSGFyTUNocWpIMWZBSEIxcy1LdjVYbVJsNkZOMjZKTy1ka1ZZLUtEUHo2OXlJRlY5aDl1U3FST3V2U0wzNEYyeGVrbjUwMnBkUEVFd1p3VGY?oc=5)
+
+2026-05-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnQzbFF0ZUNfanpiVFRSdUVVSzYxSW9YSHRtN3NzU01LcnZJdVZDZ0dONEt4V1RiMEZDdGJvSm1sQ21HV19EVHN1VkFxVEFLLUZCaXMzT3lHemRhU1RCSms1VkRhcXE3Z0Y3THg2ZUJUQW1oWGUtODg5R0VhazFkcWE0cHZ6NjU5TFlqT0RrWXpOcFpqTHNianRFSFFyb21HSmNwRjhKWnA3MDdaeHdPcWZkUmXSAbwBQVVfeXFMTV9VSVd6eHZCYXROX08zYXduTmVveXpzRnk4aHRGSTNLVGlrMmJBUzZQYW1OZEdaYUlLeEQzdk1saFZjemtRLUZGaHR0RllWa3pkRjlBM1gyOVJiMnMzZ05FRTVhelRzakRtdnVfSGFyTUNocWpIMWZBSEIxcy1LdjVYbVJsNkZOMjZKTy1ka1ZZLUtEUHo2OXlJRlY5aDl1U3FST3V2U0wzNEYyeGVrbjUwMnBkUEVFd1p3VGY?oc=5)
+
+---
+
 ### [Pflanzenstoffe in der Krebstherapie: Neue Studie zeigt Potenzial - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmdnZkxSQlpYdVVrN005NW9GUlhiWXJvNDhvbVFaNTh4Sm5PU0dNdzVXZE5maTktYW53NW9fME1yWV9aSWlxYldZd0xwaHNkNHJoVEZ6RWxPVkhOZFlZeVdXLWYtN056YzA5eEptUkswR1FETWthSzNsbVdsUmoxRVQ3UmlJUTFoRzdkY2t5VzJ1R3BIanZsdmdMZnY5QllfYllYd3h3MS1LQzlzZHp3R3F3?oc=5)
 
 2026-05-11 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmdnZkxSQlpYdVVrN005NW9GUlhiWXJvNDhvbVFaNTh4Sm5PU0dNdzVXZE5maTktYW53NW9fME1yWV9aSWlxYldZd0xwaHNkNHJoVEZ6RWxPVkhOZFlZeVdXLWYtN056YzA5eEptUkswR1FETWthSzNsbVdsUmoxRVQ3UmlJUTFoRzdkY2t5VzJ1R3BIanZsdmdMZnY5QllfYllYd3h3MS1LQzlzZHp3R3F3?oc=5)
+
+---
+
+### [Gesundheitsamt bietet HPV-Impfungen an - Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
 
 ---
 
@@ -110,17 +126,17 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
+### [Tumore al polmone, nuova cura disponibile in Italia per i pazienti in stadio avanzato e con mutazione di Egfr - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTBPNk5lZWtSSmpITndiekZEWTlfU2xWOGt3X1JZWi05b1BFYTRITllBVXdxYnV3TnRpRFItc3B4R2M4WHBvYkszalN1a2JtWVFnT25WdWtYSUxReFRUXzNYbkJOZXFRWE95MjFodDZuUUs5eTIzLUluQXBRZjhMZXRBSEltM1pZS1FsUXlxUGZncy1DME1QM3FkcmRMUUxpaUZfQkhsMDZ5VVdLTGlLTFUtRjFUazNObXI0VmpmSlhvSmJmT3h1dnU1MlpGTUVHVEswRnhnbFphcUJDQUhKeWZWR2t5VHVfNEd2Q29YVm0zSGhIRUdwX2g1dDJDU2hqaC13UE02Z0VtZDl6bEstR2ZNaTRVMFI4SzhCN1RBRi0yQ1ZIc2ViaVc0S3F5MFNXUE1pLWZTMNIBvAJBVV95cUxNV1ozVTBydXZBWEphY1NoUERlVEJSRjhKRVdlamRxVXNPR1dMUmdBc0JZSlNyeU5QVnhVTVBMeU9KQmp1Y0diQTdxOHo5enFnZmprbTdJdVlKNHJKRjhQd0ZVNS1fMWxZckV1b3VGakNkUUpyWXFMY09rN3NPQ1FWX21odEZ2Xy1jX3d5eWoySDFQcW1QLUxzWWF6MERJNHEyd1FaenAyZ0tVcVltSTN1dGV0NkpCanI3ZndjV3lZeGRDSnJsY2FUMlpjWFNVeDM3OFlYZVNaazBOXzZoMXBDOTBKZi01TFpsd2tfa0szUmV2QjEtQTl4UloxMjBQWW5fVUhweHlsVUc2dkdGYTd1R2pBdFVOY015anlPZzNVd1o3aW1nRWdKbUpNbFVvVzZGT1otZ2UtTW9NaXFV?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span>
+2026-05-11 <span class="news-indication-tag">tumor</span>
 
-來源：[Heute](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxOMTBPNk5lZWtSSmpITndiekZEWTlfU2xWOGt3X1JZWi05b1BFYTRITllBVXdxYnV3TnRpRFItc3B4R2M4WHBvYkszalN1a2JtWVFnT25WdWtYSUxReFRUXzNYbkJOZXFRWE95MjFodDZuUUs5eTIzLUluQXBRZjhMZXRBSEltM1pZS1FsUXlxUGZncy1DME1QM3FkcmRMUUxpaUZfQkhsMDZ5VVdLTGlLTFUtRjFUazNObXI0VmpmSlhvSmJmT3h1dnU1MlpGTUVHVEswRnhnbFphcUJDQUhKeWZWR2t5VHVfNEd2Q29YVm0zSGhIRUdwX2g1dDJDU2hqaC13UE02Z0VtZDl6bEstR2ZNaTRVMFI4SzhCN1RBRi0yQ1ZIc2ViaVc0S3F5MFNXUE1pLWZTMNIBvAJBVV95cUxNV1ozVTBydXZBWEphY1NoUERlVEJSRjhKRVdlamRxVXNPR1dMUmdBc0JZSlNyeU5QVnhVTVBMeU9KQmp1Y0diQTdxOHo5enFnZmprbTdJdVlKNHJKRjhQd0ZVNS1fMWxZckV1b3VGakNkUUpyWXFMY09rN3NPQ1FWX21odEZ2Xy1jX3d5eWoySDFQcW1QLUxzWWF6MERJNHEyd1FaenAyZ0tVcVltSTN1dGV0NkpCanI3ZndjV3lZeGRDSnJsY2FUMlpjWFNVeDM3OFlYZVNaazBOXzZoMXBDOTBKZi01TFpsd2tfa0szUmV2QjEtQTl4UloxMjBQWW5fVUhweHlsVUc2dkdGYTd1R2pBdFVOY015anlPZzNVd1o3aW1nRWdKbUpNbFVvVzZGT1otZ2UtTW9NaXFV?oc=5)
 
 ---
 
 ### ['It's heartbreaking to lose loved ones to dementia'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-05-11 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
 
@@ -134,11 +150,11 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Augentropfen aus Schweinesamen: Neue Hoffnung im Kampf gegen Augenkrebs - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR01vMmV0OVFqSk9kcHRFV3YxVHRsSUVpYlVSX3BpSGREUURTMmRCSlEyeVNHSlVLcFpZa2lNYlRFSFNWdTktNGFFMXo0MllwOWRhOENLVmsyQ3VLSkZDc0d4NGZ2S2RIY3dEUXF1Mng3d2tUNXRvWEI1WnNyNXhNMjdjTjdxR29yZ29LOWh5WEJvMVZYR1FGdndjQkhILUhLVm1KX2N2TXR0SXhPajVLbzdNcW05WDREbVZBZUR0YzRpektrUW8wUGVlTG4yWmc?oc=5)
+### [« Faire en sorte que tous les habitants des Hauts-de-France soient égaux devant le cancer », espère le directeur du centre Oscar-Lambret - La Voix du Nord](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmNYd083NUllWXRxbWl4MS1GZWpKNlpucDF1RjhrNnB2TnZZNElVVDlfSmxuSjEwYnlhZTcxRlhNcGJTSUszYWx4SmcwTmV6ZlRKb2oxdUluSjg4Zlhwb2gycTFKWXBaRUlXenVzbnBHUUMzMnZGYlBoRmRDb3Z1MnJOZ0M5eEVXWkhPRHlWb0kyNmNPcWxDSzhBMGJPcjVxTWljQk5TX0VtTWJuaDRwTUJybENaYURJcjktc1dDLTFDWVU5SlFodVNvc1lFS1dy?oc=5)
 
-2026-05-10 <span class="news-indication-tag">Krebs</span>
+2026-05-10 <span class="news-indication-tag">cancer</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR01vMmV0OVFqSk9kcHRFV3YxVHRsSUVpYlVSX3BpSGREUURTMmRCSlEyeVNHSlVLcFpZa2lNYlRFSFNWdTktNGFFMXo0MllwOWRhOENLVmsyQ3VLSkZDc0d4NGZ2S2RIY3dEUXF1Mng3d2tUNXRvWEI1WnNyNXhNMjdjTjdxR29yZ29LOWh5WEJvMVZYR1FGdndjQkhILUhLVm1KX2N2TXR0SXhPajVLbzdNcW05WDREbVZBZUR0YzRpektrUW8wUGVlTG4yWmc?oc=5)
+來源：[La Voix du Nord](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmNYd083NUllWXRxbWl4MS1GZWpKNlpucDF1RjhrNnB2TnZZNElVVDlfSmxuSjEwYnlhZTcxRlhNcGJTSUszYWx4SmcwTmV6ZlRKb2oxdUluSjg4Zlhwb2gycTFKWXBaRUlXenVzbnBHUUMzMnZGYlBoRmRDb3Z1MnJOZ0M5eEVXWkhPRHlWb0kyNmNPcWxDSzhBMGJPcjVxTWljQk5TX0VtTWJuaDRwTUJybENaYURJcjktc1dDLTFDWVU5SlFodVNvc1lFS1dy?oc=5)
 
 ---
 
@@ -147,14 +163,6 @@ permalink: /news/brigatinib/
 2026-05-10 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2R5RHNRMUp4TlRSdVhLUDJJU3U1N2tNVk5EbkNTaU8wUFhWX2lKN3g5YUg0LUNpTzJfOHhKY1dNRVhKcU05MTRGbVZTQi15a3ZGSDNJdjd1ZUVhUU16STdqZEJHUmFwVnBCMFc3ZDZWMVp2TlExanJUVjczTmltZjZ2RlkxZw?oc=5)
-
----
-
-### [This breakfast food could cut Alzheimer's risk 'by 27%', study finds - Yorkshire Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcktFV0s4clI3MlF5QXBJNUkwSFh5aFMzeEpES2FNekg1aDh3cDkxS21iTk82X041UFp3SHpEajdHanJZR2pHVnQ4NHE2TjRsLVlmT1dZb1h1b3V1bnpObjZ2NTVDbC03MnoyWW9kZWRMRENrczdoRHNweno4ek5rRFF2WHZ4dFZJVDhLZHpNcS3SAZYBQVVfeXFMTXpTTm04Mml3N1lEcHVPOG1vMkhRZDZsazNCWFBhbUlnLXkwTE9qeXlTaUl0LVZ2MEZkSWpLajlIR3ZNLWtFY1ZWelFDQUVJMVBaaFF2dWdkRjdQa3RpcG96ZDBqN1FLQ3N3T1ZhLW81WnpSVFlFZk42aTVjOGU2akdScE5YRFdmbF9VZzdjZFZhdW5fMENR?oc=5)
-
-2026-05-10 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Yorkshire Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcktFV0s4clI3MlF5QXBJNUkwSFh5aFMzeEpES2FNekg1aDh3cDkxS21iTk82X041UFp3SHpEajdHanJZR2pHVnQ4NHE2TjRsLVlmT1dZb1h1b3V1bnpObjZ2NTVDbC03MnoyWW9kZWRMRENrczdoRHNweno4ek5rRFF2WHZ4dFZJVDhLZHpNcS3SAZYBQVVfeXFMTXpTTm04Mml3N1lEcHVPOG1vMkhRZDZsazNCWFBhbUlnLXkwTE9qeXlTaUl0LVZ2MEZkSWpLajlIR3ZNLWtFY1ZWelFDQUVJMVBaaFF2dWdkRjdQa3RpcG96ZDBqN1FLQ3N3T1ZhLW81WnpSVFlFZk42aTVjOGU2akdScE5YRFdmbF9VZzdjZFZhdW5fMENR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [New Pill Successfully Lowers Stubborn Blood Pressure and Protects Kidneys in High-Risk Patients - Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+
+2026-05-11 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+
+---
 
 ### [CRISPR-System hemmt Hepatitis-E-Virus - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZWlTMWM4V3dmd05mcTJjdnNHZ204MXlJZ2NUNlV0aVZLTnVnNll4QUxVVjF1OEgxenZ1WjFRYUtvdU0zdnhUSXkwa2QyWTFyaEhEWXJlQm5fTkc4ZlBLeGhXaUR1WlQ0WDVQR3Z1N000bkExZXc?oc=5)
 
