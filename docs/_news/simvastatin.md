@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [« Ça m’a sauvé la vie » : cette Bretonne réapprend à vivre après un AVC à 28 ans et devient coach sportive](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVWtuaVBXUzRIeFduVUdtUUpDczdtVUpCeno2bWRmei1NZFlKM21fYnNXU0E4WTJJZ1VrUDZsVHBOZG1FREVZZXV3dlByYzMwT09fbE12RTBoTHpwbVJOd3BrTFl3Y3U1dFZrdjV6SjAyN1djeW5RMmNuRGhIXzQ1VVB1b3NZRUg3dmdWbFRGTTktc2lYUkFLWEs1YXZtTFBSRFdSdlltMktwQmtEWGh5RTNiMm5NMnh5ZVNmcWJESkxmSUVpZUdFYkJhVGQ2cERGbElaT3ZWSnBjOGZZaDFQZVZPTWozQVN6VGxHbGdMMDN4QTFoZWpXbkdNWnZhWGM?oc=5)
-
-2026-05-10 <span class="news-indication-tag">AVC</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVWtuaVBXUzRIeFduVUdtUUpDczdtVUpCeno2bWRmei1NZFlKM21fYnNXU0E4WTJJZ1VrUDZsVHBOZG1FREVZZXV3dlByYzMwT09fbE12RTBoTHpwbVJOd3BrTFl3Y3U1dFZrdjV6SjAyN1djeW5RMmNuRGhIXzQ1VVB1b3NZRUg3dmdWbFRGTTktc2lYUkFLWEs1YXZtTFBSRFdSdlltMktwQmtEWGh5RTNiMm5NMnh5ZVNmcWJESkxmSUVpZUdFYkJhVGQ2cERGbElaT3ZWSnBjOGZZaDFQZVZPTWozQVN6VGxHbGdMMDN4QTFoZWpXbkdNWnZhWGM?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

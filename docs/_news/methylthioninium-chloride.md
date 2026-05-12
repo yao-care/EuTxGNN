@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Psychoses, bipolarité : un simple joint double les risques chez les ados](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
-
-2026-05-12 <span class="news-indication-tag">EPOC</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [COPD-Leitlinie 2026: Neue Diagnostik & Therapie im Überblick](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
 

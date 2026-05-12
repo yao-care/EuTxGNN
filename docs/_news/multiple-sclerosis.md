@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,37 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（14 則）
-
-### [Hantavirus, nave verso l’Olanda. Oms: “Undici casi”. Sintomatico un calabrese di 25 anni - la Repubblica](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV01JU2RXS1NNdUJQNkEyQ2NhZ0VxVmpTZ3k1ak4zc3hoNFhOcFVkazBUYTUwYnRkN1pERTdNSHNmSjBnSi1HNkhsV2NmU29JaEhPVVRqX19KRkVfWGJOMzZWNXBDN18xcXluS2xHMkJOLTZLTDk1Rk1oQWFYQ043dFVHZWlDRUlrVF8xSW9ndTFhU0NlNjA2bnJ6RGxrYmh2cUJsUw?oc=5)
-
-2026-05-12
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV01JU2RXS1NNdUJQNkEyQ2NhZ0VxVmpTZ3k1ak4zc3hoNFhOcFVkazBUYTUwYnRkN1pERTdNSHNmSjBnSi1HNkhsV2NmU29JaEhPVVRqX19KRkVfWGJOMzZWNXBDN18xcXluS2xHMkJOLTZLTDk1Rk1oQWFYQ043dFVHZWlDRUlrVF8xSW9ndTFhU0NlNjA2bnJ6RGxrYmh2cUJsUw?oc=5)
-
----
-
-### [Hantavirus outbreak latest: Spain confirms one new case amongst evacuees](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVURWQzY0QzJpOTV2cjVoam9sY3R1cGlyTXByajVLQjJuMnZUY2ZiQzQ0OG01UGpRTGVDeXpCM0R3cjM1bWFycHVQWTE1UzdNX2d5Vzd1RVhLTkxhWW95eW93LUFVNEROaHg0TFB4bmNEWmJPYW5MQTlBWGtySmFkWE5MaGZYRDg2ODJyM05rd1Q3V1VPSjhBNEhBZng1VHBiX1hEUllEeXQzU0h2emlGbGl1dEthZER1MnkwZlZRR25ZQm96Q0Jv?oc=5)
-
-2026-05-12
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVURWQzY0QzJpOTV2cjVoam9sY3R1cGlyTXByajVLQjJuMnZUY2ZiQzQ0OG01UGpRTGVDeXpCM0R3cjM1bWFycHVQWTE1UzdNX2d5Vzd1RVhLTkxhWW95eW93LUFVNEROaHg0TFB4bmNEWmJPYW5MQTlBWGtySmFkWE5MaGZYRDg2ODJyM05rd1Q3V1VPSjhBNEhBZng1VHBiX1hEUllEeXQzU0h2emlGbGl1dEthZER1MnkwZlZRR25ZQm96Q0Jv?oc=5)
-
----
-
-### [Hantavirus, 25enne calabrese sintomatico trasferito allo Spallanzani. Oms: nove casi. LIVE - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE9Sb3liYUN4bFZzZWpXTlZqZ09BeE5fT1JXaThLWnQ3endObmlsM1N3NXZmV1FZalJtMmJsR1JDZ2dqR0tvZzBqZ3kzQ3lNOGNTQ092NUM2dllZcGUxUm1MSDRMM0lyeFYyakFCRUpOOGphVzA1dm9EbGFn?oc=5)
-
-2026-05-12
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE9Sb3liYUN4bFZzZWpXTlZqZ09BeE5fT1JXaThLWnQ3endObmlsM1N3NXZmV1FZalJtMmJsR1JDZ2dqR0tvZzBqZ3kzQ3lNOGNTQ092NUM2dllZcGUxUm1MSDRMM0lyeFYyakFCRUpOOGphVzA1dm9EbGFn?oc=5)
-
----
+## 相關新聞（11 則）
 
 ### [Wie gefährlich sind Aluminiumsalze in Impfstoffen? - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
 
 2026-05-12
 
 來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
+
+---
+
+### ["Mascherine? La cosa più importante ora è la sorveglianza" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMihAJBVV95cUxPTkNScklWX0hoUnhpNGRCejU3bDYzS2dwcktwOXEzNzF0RFNzUXhscHhyMHhzZFdPYVBWODJaelpDcnZfYXJyc1NLZEdONFBnVzBLSVJnZEU3OTNUY1J6Mkx0LW91UG1OemJ3OG4tTHY1bm5IcndrOGx2aE5USDdEUXFyRzlabFJYRkJxQTRYOEZnV2JzQWxIcUxMc2VPTXhTN1ZMeGVMc2hqVkRyTVNEa25XMThKM1g4d0lMaFQxZ1hPV19yYzRFZXpzaHYxZFJKOExnMHJoRklBUzRLNU1fUFBKbjFhdkFibkhfZjlxTUdzbHdraXU2NTYxZ2ZvU2hBamcwMw?oc=5)
+
+2026-05-12
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMihAJBVV95cUxPTkNScklWX0hoUnhpNGRCejU3bDYzS2dwcktwOXEzNzF0RFNzUXhscHhyMHhzZFdPYVBWODJaelpDcnZfYXJyc1NLZEdONFBnVzBLSVJnZEU3OTNUY1J6Mkx0LW91UG1OemJ3OG4tTHY1bm5IcndrOGx2aE5USDdEUXFyRzlabFJYRkJxQTRYOEZnV2JzQWxIcUxMc2VPTXhTN1ZMeGVMc2hqVkRyTVNEa25XMThKM1g4d0lMaFQxZ1hPV19yYzRFZXpzaHYxZFJKOExnMHJoRklBUzRLNU1fUFBKbjFhdkFibkhfZjlxTUdzbHdraXU2NTYxZ2ZvU2hBamcwMw?oc=5)
 
 ---
 
@@ -120,22 +104,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Cancer risk warning as doctor confirms 'no safe' level of popular drink - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
-
-2026-05-11
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
-
----
-
-### [Hospital visiting advice issued as gastro infections spread - Highland Radio](https://news.google.com/rss/articles/CBMingFBVV95cUxPY0tyVEd0U0ZtakVvbmh2ZFl0TnEyVHdsV1JsZjZjc2NfaGRGR2hsN0gwaG1CQjk4VkZ6LUlWQVRKY0dIVFhWTVpJOWh0V0ZBVlpCV3l2UUZNeDllanduY3AwdGdGcHZoV05iSTJYUDN0a3hYQnhCQnRQb2Z2QVlvUFRZYjQ2ZDh6bFB2V2Z5Zi1Ubm9SZnRjdVgxVUFHZw?oc=5)
-
-2026-05-11
-
-來源：[Highland Radio](https://news.google.com/rss/articles/CBMingFBVV95cUxPY0tyVEd0U0ZtakVvbmh2ZFl0TnEyVHdsV1JsZjZjc2NfaGRGR2hsN0gwaG1CQjk4VkZ6LUlWQVRKY0dIVFhWTVpJOWh0V0ZBVlpCV3l2UUZNeDllanduY3AwdGdGcHZoV05iSTJYUDN0a3hYQnhCQnRQb2Z2QVlvUFRZYjQ2ZDh6bFB2V2Z5Zi1Ubm9SZnRjdVgxVUFHZw?oc=5)
-
----
-
 ### [RNA-Therapie bremst krankhafte Umbauprozesse nach Herzinfarkt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
 
 2026-05-11
@@ -165,6 +133,14 @@ permalink: /news/multiple-sclerosis/
 2026-05-11
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56aGE5Nk1yODhxMVJ2a19SaURYSTFPNkY5YkV0czd2QW1JZzN3dGcxa1BhTmhpdVRqampCZUlwMWxlZXNKc29pUDVEMDAzcDhUd0EtSDgyaFFMaWtk?oc=5)
+
+---
+
+### [Tourist hotspot at 'end of the world' denies causing hantavirus outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSbXVMc1B2Umx4S2RVbkV5T0xiZm8yUk5GSC1OSEN0SFlUdlYyX01leXU1NjZvNzVLOER3RXZScmphd1I2WHVnLUpGa0U5aGNGUXpiTHdqMHBOaHNr?oc=5)
+
+2026-05-10
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSbXVMc1B2Umx4S2RVbkV5T0xiZm8yUk5GSC1OSEN0SFlUdlYyX01leXU1NjZvNzVLOER3RXZScmphd1I2WHVnLUpGa0U5aGNGUXpiTHdqMHBOaHNr?oc=5)
 
 ---
 

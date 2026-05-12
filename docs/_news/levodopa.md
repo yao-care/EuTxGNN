@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Cancer risk warning as doctor confirms 'no safe' level of popular drink - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
+### [Three enjoyable ways to slow your brain's ageing](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1hpWFlNby1JZE10LUFobWM1Rk5FNjVabDZyS1hHbU10R1VjNWdSWTNaSTZKTEljbHlnRFo0LW00OFptZE1yUlljSjR1VHBpNzVwTllKeTY5QVMxR1lfRmJrTzQ5VHg5c2h3NzZrcjJEekNjeWVwY3ZuNmxBd25Jc05BRENZdUtJVmwtak5aZ1UzdXc4RzI5WG1YYXNpQm8?oc=5)
 
-2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-11 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1hpWFlNby1JZE10LUFobWM1Rk5FNjVabDZyS1hHbU10R1VjNWdSWTNaSTZKTEljbHlnRFo0LW00OFptZE1yUlljSjR1VHBpNzVwTllKeTY5QVMxR1lfRmJrTzQ5VHg5c2h3NzZrcjJEekNjeWVwY3ZuNmxBd25Jc05BRENZdUtJVmwtak5aZ1UzdXc4RzI5WG1YYXNpQm8?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/levodopa/
 2026-05-11 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
-
----
-
-### [Wife joins study to boost dementia carer support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05OXVlVnVDOFNmbGpRMzAwUmRsQXFfdTdqNjRKWC1vSi1mcFNJOHh6NHdUdHRYZHZ0czVfSk5LTDZSdWlCcTVJSjFDYXAwZGM3aXRYMXN0OVhRVzVD?oc=5)
-
-2026-05-11 <span class="news-indication-tag">dementia</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE05OXVlVnVDOFNmbGpRMzAwUmRsQXFfdTdqNjRKWC1vSi1mcFNJOHh6NHdUdHRYZHZ0czVfSk5LTDZSdWlCcTVJSjFDYXAwZGM3aXRYMXN0OVhRVzVD?oc=5)
 
 ---
 

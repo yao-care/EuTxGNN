@@ -54,11 +54,11 @@ permalink: /news/idarucizumab/
 
 ## 相關新聞（3 則）
 
-### [Psychoses, bipolarité : un simple joint double les risques chez les ados](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
+### [Rheumatoide Arthritis: Spezialisiertes Therapiekonzept für Kinderwunsch verkürzte Zeit bis zur Schwangerschaft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
 
-2026-05-12 <span class="news-indication-tag">EPOC</span>
+2026-05-12 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
 
 ---
 

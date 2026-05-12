@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Psychoses, bipolarité : un simple joint double les risques chez les ados](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
-
-2026-05-12 <span class="news-indication-tag">EPOC</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
-
----
-
-### [Vitamin-C-Mythen und Leberforschung: Neue Wege gegen Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
+### [Frühes Essen als Schlüssel: Neue Strategien gegen Diabetes und Stoffwechselkrankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG1FVlZqTmdQejI5N2RfTE9LNmhjOVg2NHEzMkJDMjdCRVlWS242dVVJc3lLdWt6ZTZoUkZDUGtnUFB1clZTcUowalJxUE5lOFdTU2NFczRJc0paMmpsQkVLUFRBT01QTkhlUTNkNHE2Y3VIUlNrQjZJSzdWa0ZwTG1WOTFRa2hLVWlNR0wzV0dpT2RvYWhzR253WUhXam1CYVh1enRwYzZIRG91ZHlJd3B3?oc=5)
 
 2026-05-12 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG1FVlZqTmdQejI5N2RfTE9LNmhjOVg2NHEzMkJDMjdCRVlWS242dVVJc3lLdWt6ZTZoUkZDUGtnUFB1clZTcUowalJxUE5lOFdTU2NFczRJc0paMmpsQkVLUFRBT01QTkhlUTNkNHE2Y3VIUlNrQjZJSzdWa0ZwTG1WOTFRa2hLVWlNR0wzV0dpT2RvYWhzR253WUhXam1CYVh1enRwYzZIRG91ZHlJd3B3?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Spezialisiertes Therapiekonzept für Kinderwunsch verkürzte Zeit bis zur Schwangerschaft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
+
+2026-05-12 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
+
+---
+
+### [Scientists Just Rewrote Biology: “Hidden” Mechanism Could Transform Diabetes Treatment](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGhLenlvdFNRNFptbGEwMk5sdm9NOU5qWFhrNXRXM0pTSlh2ZTJnbHJScDlDV3A0S1hsQkR4OTJKc3dHdVhIR0szc1FoR2N1RVI2a1J4eVZfb3YxS3B6cDFVU1JqaGZpbjhPYWJldVp1SXl6bWlXTDh0c1BWTnlzU2g3NFFaUGczZzJJTkgwemN0VVNYQWM3MVNncmk3Q0ZrQzlLTEhINUxEU0JiaGc?oc=5)
+
+2026-05-12 <span class="news-indication-tag">diabetes</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGhLenlvdFNRNFptbGEwMk5sdm9NOU5qWFhrNXRXM0pTSlh2ZTJnbHJScDlDV3A0S1hsQkR4OTJKc3dHdVhIR0szc1FoR2N1RVI2a1J4eVZfb3YxS3B6cDFVU1JqaGZpbjhPYWJldVp1SXl6bWlXTDh0c1BWTnlzU2g3NFFaUGczZzJJTkgwemN0VVNYQWM3MVNncmk3Q0ZrQzlLTEhINUxEU0JiaGc?oc=5)
 
 ---
 

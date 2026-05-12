@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。1 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>1 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,21 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Vitamin-C-Mythen und Leberforschung: Neue Wege gegen Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
+### [Frühes Essen als Schlüssel: Neue Strategien gegen Diabetes und Stoffwechselkrankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG1FVlZqTmdQejI5N2RfTE9LNmhjOVg2NHEzMkJDMjdCRVlWS242dVVJc3lLdWt6ZTZoUkZDUGtnUFB1clZTcUowalJxUE5lOFdTU2NFczRJc0paMmpsQkVLUFRBT01QTkhlUTNkNHE2Y3VIUlNrQjZJSzdWa0ZwTG1WOTFRa2hLVWlNR0wzV0dpT2RvYWhzR253WUhXam1CYVh1enRwYzZIRG91ZHlJd3B3?oc=5)
 
 2026-05-12
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG1FVlZqTmdQejI5N2RfTE9LNmhjOVg2NHEzMkJDMjdCRVlWS242dVVJc3lLdWt6ZTZoUkZDUGtnUFB1clZTcUowalJxUE5lOFdTU2NFczRJc0paMmpsQkVLUFRBT01QTkhlUTNkNHE2Y3VIUlNrQjZJSzdWa0ZwTG1WOTFRa2hLVWlNR0wzV0dpT2RvYWhzR253WUhXam1CYVh1enRwYzZIRG91ZHlJd3B3?oc=5)
+
+---
+
+### [Scientists Just Rewrote Biology: “Hidden” Mechanism Could Transform Diabetes Treatment](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGhLenlvdFNRNFptbGEwMk5sdm9NOU5qWFhrNXRXM0pTSlh2ZTJnbHJScDlDV3A0S1hsQkR4OTJKc3dHdVhIR0szc1FoR2N1RVI2a1J4eVZfb3YxS3B6cDFVU1JqaGZpbjhPYWJldVp1SXl6bWlXTDh0c1BWTnlzU2g3NFFaUGczZzJJTkgwemN0VVNYQWM3MVNncmk3Q0ZrQzlLTEhINUxEU0JiaGc?oc=5)
+
+2026-05-12
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGhLenlvdFNRNFptbGEwMk5sdm9NOU5qWFhrNXRXM0pTSlh2ZTJnbHJScDlDV3A0S1hsQkR4OTJKc3dHdVhIR0szc1FoR2N1RVI2a1J4eVZfb3YxS3B6cDFVU1JqaGZpbjhPYWJldVp1SXl6bWlXTDh0c1BWTnlzU2g3NFFaUGczZzJJTkgwemN0VVNYQWM3MVNncmk3Q0ZrQzlLTEhINUxEU0JiaGc?oc=5)
 
 ---
 
