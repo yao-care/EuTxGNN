@@ -14,7 +14,7 @@ permalink: /news/cemiplimab/
 ---
 
 <p class="key-answer" data-question="Cemiplimab 有什麼相關新聞？">
-<strong>Cemiplimab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cemiplimab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/cemiplimab/
 <p><a href="{{ '/drugs/cemiplimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Wie Immunzellen Alzheimer beeinflussen: T-Zellen rücken ins Zentrum der Forschung - Deutsches Krebsforschungszentrum](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3RqVDZ2al96T2VTenBkZ1R0aWwtU0xYLXE2VzBVSHozLTlVZlN1VG9laVdaSW1kZk5MdWE0Sk5XUnBBMXNySzRjYTg5U3RrMmZxWXR0M2hMZ1BEMXpvUVc4d0oxVldQTnl1OUdSQW1UWTY1ZUNPQW1VMk11NmJVeGZSYld3S1NyeXZRd2N1M3JkbHRtcmdNTFRaZDcxVXhaVkxrTFZIY19uMFZzdHFCT3ItSzlNS0dWaUNyNUxubC0zWXlaWlRqQ3g0MVZkTXI4YmRj?oc=5)
+
+2026-05-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Krebsforschungszentrum](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3RqVDZ2al96T2VTenBkZ1R0aWwtU0xYLXE2VzBVSHozLTlVZlN1VG9laVdaSW1kZk5MdWE0Sk5XUnBBMXNySzRjYTg5U3RrMmZxWXR0M2hMZ1BEMXpvUVc4d0oxVldQTnl1OUdSQW1UWTY1ZUNPQW1VMk11NmJVeGZSYld3S1NyeXZRd2N1M3JkbHRtcmdNTFRaZDcxVXhaVkxrTFZIY19uMFZzdHFCT3ItSzlNS0dWaUNyNUxubC0zWXlaWlRqQ3g0MVZkTXI4YmRj?oc=5)
+
+---
 
 ### [Brustkrebs-Rückfall trotz Therapie: Warum manche Tumorzellen jahrelang weiterleben - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
 
 2026-05-12 <span class="news-indication-tag">tumor</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
-
----
-
-### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
-
-2026-05-12 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
 
 ---
 
@@ -104,7 +104,7 @@ permalink: /news/cemiplimab/
 
 ### [Gesundheitsamt bietet HPV-Impfungen an - Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
 
@@ -115,6 +115,14 @@ permalink: /news/cemiplimab/
 2026-05-11 <span class="news-indication-tag">cancer</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNelJUbnBGbVJzZUhDb1hTVUkzbFI0Rm9xemFtb2FCNXZPZ1Jfd0hxektxY2FnQ0FnbXVsMlZ5cGlYMHE2ZTN0aEtNZVVwcU1EZ3cyRXZfX0FocFNGVGxHTktQRE1mbE1TOEp5cmV1N3o5OXZSZU1mVzVTLTJWRGZUU3dhX0duYVhta0tsN3B2eUotckM3RUVoQ2Z4NmltYXBTdXh0SG03bFZlcUk2Wm9xam82TkdCZThpeVNmSnJPMzUwaXR4azRjdTdSLVFNRVFodUdldVdUU3lRb2g2bzViQUNGVUVBSUFMYVdTRGFGQmJJUnlLYWdBLTZhSzl1WlBZa1hzZ1U2M3lsNTlyd191YlJ2RGxIZFZ6UFR4dkFyQ1pNc2llNU9QU2hsdTh4T0t1WVh4aFFOZ2dTNmpxM0wwQU05eFYzR2dRd2R6MUJ3cG0tcURLVXJCbTFn?oc=5)
+
+---
+
+### [Kent mum takes on 200km walk after daughter's brain tumour](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNTV4aGVBLUItQV9WOUJvcVFlX2IxRWZlMVpjdjkzbzVtM2wxeGpPYXVKY1UzcTdIWE5SbldCY2ZqTjNGZnBldVJ0bXBpaGhqYmN5ejRlLTRRb3Zq?oc=5)
+
+2026-05-11 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNTV4aGVBLUItQV9WOUJvcVFlX2IxRWZlMVpjdjkzbzVtM2wxeGpPYXVKY1UzcTdIWE5SbldCY2ZqTjNGZnBldVJ0bXBpaGhqYmN5ejRlLTRRb3Zq?oc=5)
 
 ---
 

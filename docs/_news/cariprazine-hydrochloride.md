@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,45 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
-### [Arts and cultural engagement ‘linked to slower pace of biological ageing’ - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
-
-2026-05-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
-
----
-
-### [The midlife protein mistakes that cause muscle loss and weight gain - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlVDazJDRzBaaXJxMVR2RUVDZG8zMktNdFFRLTdVdFRqaVJmM0hPcTJsaEJZSzg3U3QydVBLQU5WYnJaek1nZVN6ZVVVYWloM1R3RXNfV0hheGZWM3JJQ1NiaFZ5MjNucWxqdGhUOVNvYkJoUkdQT1M0YTBYYWxKMUdPT1pZV0lZVkF0czNuVkd1MldtV2FHb05ydUdYMDVEMm9WTW9TMjF4Rm8?oc=5)
+### [Hantavirus, nave verso l’Olanda. Oms: “Undici casi”. Sintomatico un calabrese di 25 anni - la Repubblica](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV01JU2RXS1NNdUJQNkEyQ2NhZ0VxVmpTZ3k1ak4zc3hoNFhOcFVkazBUYTUwYnRkN1pERTdNSHNmSjBnSi1HNkhsV2NmU29JaEhPVVRqX19KRkVfWGJOMzZWNXBDN18xcXluS2xHMkJOLTZLTDk1Rk1oQWFYQ043dFVHZWlDRUlrVF8xSW9ndTFhU0NlNjA2bnJ6RGxrYmh2cUJsUw?oc=5)
 
 2026-05-12 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlVDazJDRzBaaXJxMVR2RUVDZG8zMktNdFFRLTdVdFRqaVJmM0hPcTJsaEJZSzg3U3QydVBLQU5WYnJaek1nZVN6ZVVVYWloM1R3RXNfV0hheGZWM3JJQ1NiaFZ5MjNucWxqdGhUOVNvYkJoUkdQT1M0YTBYYWxKMUdPT1pZV0lZVkF0czNuVkd1MldtV2FHb05ydUdYMDVEMm9WTW9TMjF4Rm8?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV01JU2RXS1NNdUJQNkEyQ2NhZ0VxVmpTZ3k1ak4zc3hoNFhOcFVkazBUYTUwYnRkN1pERTdNSHNmSjBnSi1HNkhsV2NmU29JaEhPVVRqX19KRkVfWGJOMzZWNXBDN18xcXluS2xHMkJOLTZLTDk1Rk1oQWFYQ043dFVHZWlDRUlrVF8xSW9ndTFhU0NlNjA2bnJ6RGxrYmh2cUJsUw?oc=5)
 
 ---
 
-### [«El protocolo ha sido el adecuado»: epidemiólogos avalan la gestión del brote](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEk0d0o1ZWRBb1lxb1RxZzhCWktGeUpkWVhNN25VMldYOHUxVXdBdmdmQ1cwX2FGOHVqcFFaQXRsazF4ME1aS2tIUzFNN1hOaFpxbzNtMGRkV0M2WG5IOXFxVzFBT2ltOVhFbFpFbjlBVVd2ZW0ybW11VF9JbGdkdHFvQi13ekR3ZlBycFhoTVdFb0hUd1JzaEdnalVWc2czc2hhLUhvNHZNSkxoN2dZR0dqOVBXYUXSAbwBQVVfeXFMT2U5M1V6U0dSalB5cFFuRThmRlN3UUEzMnkzNS01M3lObUxpWG5KWXlFV3F5dXZUcWhaUWE3a21jQnc2NThKRjJkcFN1NXpRWWVfeHFNOXJOazZVQ0RZMWF4eGh4cGg3WEpid29VSlRuNG1fMExYM3duYl9SOXdvWFpCamczVGxnQzhBeEY0czFrRFBwUlkzSlp2cmNzSUlsdU1lc01qeUYzV1g1dE1qVUhLQkQtTUVleloybU4?oc=5)
+### [Hantavirus outbreak latest: Spain confirms one new case amongst evacuees](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVURWQzY0QzJpOTV2cjVoam9sY3R1cGlyTXByajVLQjJuMnZUY2ZiQzQ0OG01UGpRTGVDeXpCM0R3cjM1bWFycHVQWTE1UzdNX2d5Vzd1RVhLTkxhWW95eW93LUFVNEROaHg0TFB4bmNEWmJPYW5MQTlBWGtySmFkWE5MaGZYRDg2ODJyM05rd1Q3V1VPSjhBNEhBZng1VHBiX1hEUllEeXQzU0h2emlGbGl1dEthZER1MnkwZlZRR25ZQm96Q0Jv?oc=5)
 
-2026-05-12 <span class="news-indication-tag">MS</span>
+2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Canarias7](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEk0d0o1ZWRBb1lxb1RxZzhCWktGeUpkWVhNN25VMldYOHUxVXdBdmdmQ1cwX2FGOHVqcFFaQXRsazF4ME1aS2tIUzFNN1hOaFpxbzNtMGRkV0M2WG5IOXFxVzFBT2ltOVhFbFpFbjlBVVd2ZW0ybW11VF9JbGdkdHFvQi13ekR3ZlBycFhoTVdFb0hUd1JzaEdnalVWc2czc2hhLUhvNHZNSkxoN2dZR0dqOVBXYUXSAbwBQVVfeXFMT2U5M1V6U0dSalB5cFFuRThmRlN3UUEzMnkzNS01M3lObUxpWG5KWXlFV3F5dXZUcWhaUWE3a21jQnc2NThKRjJkcFN1NXpRWWVfeHFNOXJOazZVQ0RZMWF4eGh4cGg3WEpid29VSlRuNG1fMExYM3duYl9SOXdvWFpCamczVGxnQzhBeEY0czFrRFBwUlkzSlp2cmNzSUlsdU1lc01qeUYzV1g1dE1qVUhLQkQtTUVleloybU4?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVURWQzY0QzJpOTV2cjVoam9sY3R1cGlyTXByajVLQjJuMnZUY2ZiQzQ0OG01UGpRTGVDeXpCM0R3cjM1bWFycHVQWTE1UzdNX2d5Vzd1RVhLTkxhWW95eW93LUFVNEROaHg0TFB4bmNEWmJPYW5MQTlBWGtySmFkWE5MaGZYRDg2ODJyM05rd1Q3V1VPSjhBNEhBZng1VHBiX1hEUllEeXQzU0h2emlGbGl1dEthZER1MnkwZlZRR25ZQm96Q0Jv?oc=5)
 
 ---
 
-### [French woman was told by doctors hantavirus symptoms were just anxiety - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOalo0VU5rbFFVMkV1NklGbHAyUmMwNFJBSExfTU1NMUI0VGVrMmp5TjBFdlRLXzkzQXhHdHhWVG9qU2dnakJMa3FrLWdZRWhESHBSb2RQWkgxSU81Q2hPc0lKNjZnYVNQUnJHOHVoQmNXY2l5cDA0U0tnaW1XR05zaWJ6Rjd5dmdfOVRhYjBxdHJaVlZPclVZSmVvS2k?oc=5)
+### [Hantavirus, 25enne calabrese sintomatico trasferito allo Spallanzani. Oms: nove casi. LIVE - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE9Sb3liYUN4bFZzZWpXTlZqZ09BeE5fT1JXaThLWnQ3endObmlsM1N3NXZmV1FZalJtMmJsR1JDZ2dqR0tvZzBqZ3kzQ3lNOGNTQ092NUM2dllZcGUxUm1MSDRMM0lyeFYyakFCRUpOOGphVzA1dm9EbGFn?oc=5)
 
 2026-05-12 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOalo0VU5rbFFVMkV1NklGbHAyUmMwNFJBSExfTU1NMUI0VGVrMmp5TjBFdlRLXzkzQXhHdHhWVG9qU2dnakJMa3FrLWdZRWhESHBSb2RQWkgxSU81Q2hPc0lKNjZnYVNQUnJHOHVoQmNXY2l5cDA0U0tnaW1XR05zaWJ6Rjd5dmdfOVRhYjBxdHJaVlZPclVZSmVvS2k?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTE9Sb3liYUN4bFZzZWpXTlZqZ09BeE5fT1JXaThLWnQ3endObmlsM1N3NXZmV1FZalJtMmJsR1JDZ2dqR0tvZzBqZ3kzQ3lNOGNTQ092NUM2dllZcGUxUm1MSDRMM0lyeFYyakFCRUpOOGphVzA1dm9EbGFn?oc=5)
+
+---
+
+### [Wie gefährlich sind Aluminiumsalze in Impfstoffen? - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
+
+---
+
+### [Visiting museums and reading ‘slow down ageing’ - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOek02QU5taXgwZ3hxSE9CLUMxbm5GcHVSbkdtdzdYM1VVMkE1bFNYVmpVdzFuSXQ5QlJpVlczTGwtaTFxYU93Wk85cnJMR1c3SjU5QW5HYXBvUUhkc05LU0hYUno5VWVTakIwU3M4Vm9MM1RnTUZfN0FjRFFxbElObDZoX0lfSGhOOU5hcjVlbw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOek02QU5taXgwZ3hxSE9CLUMxbm5GcHVSbkdtdzdYM1VVMkE1bFNYVmpVdzFuSXQ5QlJpVlczTGwtaTFxYU93Wk85cnJMR1c3SjU5QW5HYXBvUUhkc05LU0hYUno5VWVTakIwU3M4Vm9MM1RnTUZfN0FjRFFxbElObDZoX0lfSGhOOU5hcjVlbw?oc=5)
 
 ---
 
@@ -99,6 +107,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-05-11 <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
+
+---
+
+### [‘I’m a doctor - here are 7 simple ways to beat hay fever' - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3MwRjZub1hybjhnSklVNzExWGMwcGFXX3oxemdERkhBbXg3ZUdfQ0o0VzJFQUJGaTl1TUxJc0tKN2VZZjZibG9HSmpSWUVqN2tVWUNGWDh1amRXZ2pqN0xBdnE4S3hKMGE0OFZTR2xHcGVvdzhMV0ZrTXN2eGdpcUhsZUtQVG1tclR2TFI0UGHSAZYBQVVfeXFMT3RqUHItLWxiTGpqaEMtanQzTWFvOFNZaFZmVnkzYkQxQUVaMUtBc2I2SmxNVmVnUzVxNlFuNG4wOXY1c1o5WXZsWWhtajZNWnE5V3pCWDNTaks0Z2pGMF93a0NHVGVUbDhKdTRFRnFndkVXRERlYlVMbDBDT0xuUlAtQUctdDI0RWF4cjRHVVdhaTgwSmR3?oc=5)
+
+2026-05-11 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3MwRjZub1hybjhnSklVNzExWGMwcGFXX3oxemdERkhBbXg3ZUdfQ0o0VzJFQUJGaTl1TUxJc0tKN2VZZjZibG9HSmpSWUVqN2tVWUNGWDh1amRXZ2pqN0xBdnE4S3hKMGE0OFZTR2xHcGVvdzhMV0ZrTXN2eGdpcUhsZUtQVG1tclR2TFI0UGHSAZYBQVVfeXFMT3RqUHItLWxiTGpqaEMtanQzTWFvOFNZaFZmVnkzYkQxQUVaMUtBc2I2SmxNVmVnUzVxNlFuNG4wOXY1c1o5WXZsWWhtajZNWnE5V3pCWDNTaks0Z2pGMF93a0NHVGVUbDhKdTRFRnFndkVXRERlYlVMbDBDT0xuUlAtQUctdDI0RWF4cjRHVVdhaTgwSmR3?oc=5)
 
 ---
 
@@ -126,14 +142,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Gesundheitsamt bietet HPV-Impfungen an - Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
-
-2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
-
----
-
 ### [‘The mouth is a gateway into your body’: the fascinating, frightening links between our gums and our health - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1pkSGVkOVBTOFVidzdoVmJ0eng0c1NvX2tNS3ZFOWJsOWJKRHp4cmM4endMM0lGS0RoZmg1UWpRT0FkOV9PU0pEVVpRT1RvczZqYUxhNHUxazdUSm0zcnp1Njh3OE16enB3NXNoLVNEMUZIX0dfS3FXV0pnWHljMnpCN29lX0puZFQ0MHVGS09lVjViTXJ4eW9JQjJZeVFVN09zVjhhbzlOelFfU1JDT0wyVVVIeUU?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span>
@@ -147,6 +155,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-05-11 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
+
+---
+
+### [Watford General Hospital robot surgery leads to faster recovery](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56aGE5Nk1yODhxMVJ2a19SaURYSTFPNkY5YkV0czd2QW1JZzN3dGcxa1BhTmhpdVRqampCZUlwMWxlZXNKc29pUDVEMDAzcDhUd0EtSDgyaFFMaWtk?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56aGE5Nk1yODhxMVJ2a19SaURYSTFPNkY5YkV0czd2QW1JZzN3dGcxa1BhTmhpdVRqampCZUlwMWxlZXNKc29pUDVEMDAzcDhUd0EtSDgyaFFMaWtk?oc=5)
 
 ---
 

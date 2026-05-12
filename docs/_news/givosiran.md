@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [New Pill Successfully Lowers Stubborn Blood Pressure and Protects Kidneys in High-Risk Patients - Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+### [Los probióticos emergen como una nueva estrategia para mejorar el control de la hipertensión arterial - Canal UGR](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bnNKNUw0cm92dlRuZ0t1ZnZZZ1h4U2U1czFrVUxMMGZHWWdyenRLQkhTd3pKXzVPbS1DbGtpd0FhMEl5OHJGeVRqNk5EdkN2N3hMQ3JsTHBReGdhdFNhcDIwM0k?oc=5)
 
-2026-05-11 <span class="news-indication-tag">high blood pressure</span>
+2026-05-12 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bnNKNUw0cm92dlRuZ0t1ZnZZZ1h4U2U1czFrVUxMMGZHWWdyenRLQkhTd3pKXzVPbS1DbGtpd0FhMEl5OHJGeVRqNk5EdkN2N3hMQ3JsTHBReGdhdFNhcDIwM0k?oc=5)
+
+---
+
+### [Fegatelli richiamati per rischio epatite E: l'allerta del Ministero della Salute. Il lotto interessato](https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2s5Xzd2OXh3dnc5eGxpMm5BSGhsc3NUclhPX3NzVHFtTGtHV2llWHRNcEVTZVExa1dRcVFHWjlLazROSTZ0dGVrX1g5VkFPODJzU3ctV1E5S1VEVEExWGlWRVV2SDY2NGo1eFo3a00xeUFzSHVaemFpVzFkVjJKYU9uTmo0V3Z4U2RmQkhtbWVyaDBYVUk1TkZWaTQydTdwWFpHWndoUllEVjQyNTc0d0MxRjlfclVSUWdkYllXdzEzMlhSNTd6WHZPRV95UQ?oc=5)
+
+2026-05-12 <span class="news-indication-tag">epatite</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2s5Xzd2OXh3dnc5eGxpMm5BSGhsc3NUclhPX3NzVHFtTGtHV2llWHRNcEVTZVExa1dRcVFHWjlLazROSTZ0dGVrX1g5VkFPODJzU3ctV1E5S1VEVEExWGlWRVV2SDY2NGo1eFo3a00xeUFzSHVaemFpVzFkVjJKYU9uTmo0V3Z4U2RmQkhtbWVyaDBYVUk1TkZWaTQydTdwWFpHWndoUllEVjQyNTc0d0MxRjlfclVSUWdkYllXdzEzMlhSNTd6WHZPRV95UQ?oc=5)
 
 ---
 

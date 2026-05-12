@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor（cancer） 相關新聞"
+title: "Krebs（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。9 則新聞、229 個相關藥物。"
+description: "Krebs（cancer） 的相關健康新聞報導。10 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
-# tumor（cancer） 相關新聞
+# Krebs（cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>9 則</strong>相關新聞報導，229 個相關藥物。
+<p class="key-answer" data-question="Krebs（cancer） 有什麼相關新聞？">
+<strong>Krebs（cancer）</strong> 目前有 <strong>10 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「tumor」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Krebs」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -257,21 +257,21 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Wie Immunzellen Alzheimer beeinflussen: T-Zellen rücken ins Zentrum der Forschung - Deutsches Krebsforschungszentrum](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3RqVDZ2al96T2VTenBkZ1R0aWwtU0xYLXE2VzBVSHozLTlVZlN1VG9laVdaSW1kZk5MdWE0Sk5XUnBBMXNySzRjYTg5U3RrMmZxWXR0M2hMZ1BEMXpvUVc4d0oxVldQTnl1OUdSQW1UWTY1ZUNPQW1VMk11NmJVeGZSYld3S1NyeXZRd2N1M3JkbHRtcmdNTFRaZDcxVXhaVkxrTFZIY19uMFZzdHFCT3ItSzlNS0dWaUNyNUxubC0zWXlaWlRqQ3g0MVZkTXI4YmRj?oc=5)
+
+2026-05-12
+
+來源：[Deutsches Krebsforschungszentrum](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3RqVDZ2al96T2VTenBkZ1R0aWwtU0xYLXE2VzBVSHozLTlVZlN1VG9laVdaSW1kZk5MdWE0Sk5XUnBBMXNySzRjYTg5U3RrMmZxWXR0M2hMZ1BEMXpvUVc4d0oxVldQTnl1OUdSQW1UWTY1ZUNPQW1VMk11NmJVeGZSYld3S1NyeXZRd2N1M3JkbHRtcmdNTFRaZDcxVXhaVkxrTFZIY19uMFZzdHFCT3ItSzlNS0dWaUNyNUxubC0zWXlaWlRqQ3g0MVZkTXI4YmRj?oc=5)
+
+---
 
 ### [Brustkrebs-Rückfall trotz Therapie: Warum manche Tumorzellen jahrelang weiterleben - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
 
 2026-05-12
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
-
----
-
-### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
-
-2026-05-12
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
 
 ---
 
@@ -320,6 +320,14 @@ permalink: /news/cancer/
 2026-05-11
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNelJUbnBGbVJzZUhDb1hTVUkzbFI0Rm9xemFtb2FCNXZPZ1Jfd0hxektxY2FnQ0FnbXVsMlZ5cGlYMHE2ZTN0aEtNZVVwcU1EZ3cyRXZfX0FocFNGVGxHTktQRE1mbE1TOEp5cmV1N3o5OXZSZU1mVzVTLTJWRGZUU3dhX0duYVhta0tsN3B2eUotckM3RUVoQ2Z4NmltYXBTdXh0SG03bFZlcUk2Wm9xam82TkdCZThpeVNmSnJPMzUwaXR4azRjdTdSLVFNRVFodUdldVdUU3lRb2g2bzViQUNGVUVBSUFMYVdTRGFGQmJJUnlLYWdBLTZhSzl1WlBZa1hzZ1U2M3lsNTlyd191YlJ2RGxIZFZ6UFR4dkFyQ1pNc2llNU9QU2hsdTh4T0t1WVh4aFFOZ2dTNmpxM0wwQU05eFYzR2dRd2R6MUJ3cG0tcURLVXJCbTFn?oc=5)
+
+---
+
+### [Kent mum takes on 200km walk after daughter's brain tumour](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNTV4aGVBLUItQV9WOUJvcVFlX2IxRWZlMVpjdjkzbzVtM2wxeGpPYXVKY1UzcTdIWE5SbldCY2ZqTjNGZnBldVJ0bXBpaGhqYmN5ejRlLTRRb3Zq?oc=5)
+
+2026-05-11
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNTV4aGVBLUItQV9WOUJvcVFlX2IxRWZlMVpjdjkzbzVtM2wxeGpPYXVKY1UzcTdIWE5SbldCY2ZqTjNGZnBldVJ0bXBpaGhqYmN5ejRlLTRRb3Zq?oc=5)
 
 ---
 

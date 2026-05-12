@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# AVC（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
+<strong>AVC（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,15 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
-
-2026-05-12
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [« Ça m’a sauvé la vie » : cette Bretonne réapprend à vivre après un AVC à 28 ans et devient coach sportive](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVWtuaVBXUzRIeFduVUdtUUpDczdtVUpCeno2bWRmei1NZFlKM21fYnNXU0E4WTJJZ1VrUDZsVHBOZG1FREVZZXV3dlByYzMwT09fbE12RTBoTHpwbVJOd3BrTFl3Y3U1dFZrdjV6SjAyN1djeW5RMmNuRGhIXzQ1VVB1b3NZRUg3dmdWbFRGTTktc2lYUkFLWEs1YXZtTFBSRFdSdlltMktwQmtEWGh5RTNiMm5NMnh5ZVNmcWJESkxmSUVpZUdFYkJhVGQ2cERGbElaT3ZWSnBjOGZZaDFQZVZPTWozQVN6VGxHbGdMMDN4QTFoZWpXbkdNWnZhWGM?oc=5)
 

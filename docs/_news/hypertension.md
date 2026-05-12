@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,11 +85,11 @@ permalink: /news/hypertension/
 
 ## 相關新聞（1 則）
 
-### [New Pill Successfully Lowers Stubborn Blood Pressure and Protects Kidneys in High-Risk Patients - Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+### [Los probióticos emergen como una nueva estrategia para mejorar el control de la hipertensión arterial - Canal UGR](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bnNKNUw0cm92dlRuZ0t1ZnZZZ1h4U2U1czFrVUxMMGZHWWdyenRLQkhTd3pKXzVPbS1DbGtpd0FhMEl5OHJGeVRqNk5EdkN2N3hMQ3JsTHBReGdhdFNhcDIwM0k?oc=5)
 
-2026-05-11
+2026-05-12
 
-來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bnNKNUw0cm92dlRuZ0t1ZnZZZ1h4U2U1czFrVUxMMGZHWWdyenRLQkhTd3pKXzVPbS1DbGtpd0FhMEl5OHJGeVRqNk5EdkN2N3hMQ3JsTHBReGdhdFNhcDIwM0k?oc=5)
 
 ---
 

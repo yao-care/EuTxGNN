@@ -14,7 +14,7 @@ permalink: /news/florbetapir-18f/
 ---
 
 <p class="key-answer" data-question="Florbetapir (18F) 有什麼相關新聞？">
-<strong>Florbetapir (18F)</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetapir (18F)</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/florbetapir-18f/
 <p><a href="{{ '/drugs/florbetapir-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [Wie Immunzellen Alzheimer beeinflussen: T-Zellen rücken ins Zentrum der Forschung - Deutsches Krebsforschungszentrum](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3RqVDZ2al96T2VTenBkZ1R0aWwtU0xYLXE2VzBVSHozLTlVZlN1VG9laVdaSW1kZk5MdWE0Sk5XUnBBMXNySzRjYTg5U3RrMmZxWXR0M2hMZ1BEMXpvUVc4d0oxVldQTnl1OUdSQW1UWTY1ZUNPQW1VMk11NmJVeGZSYld3S1NyeXZRd2N1M3JkbHRtcmdNTFRaZDcxVXhaVkxrTFZIY19uMFZzdHFCT3ItSzlNS0dWaUNyNUxubC0zWXlaWlRqQ3g0MVZkTXI4YmRj?oc=5)
+
+2026-05-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Krebsforschungszentrum](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3RqVDZ2al96T2VTenBkZ1R0aWwtU0xYLXE2VzBVSHozLTlVZlN1VG9laVdaSW1kZk5MdWE0Sk5XUnBBMXNySzRjYTg5U3RrMmZxWXR0M2hMZ1BEMXpvUVc4d0oxVldQTnl1OUdSQW1UWTY1ZUNPQW1VMk11NmJVeGZSYld3S1NyeXZRd2N1M3JkbHRtcmdNTFRaZDcxVXhaVkxrTFZIY19uMFZzdHFCT3ItSzlNS0dWaUNyNUxubC0zWXlaWlRqQ3g0MVZkTXI4YmRj?oc=5)
+
+---
+
+### [Psychoses, bipolarité : un simple joint double les risques chez les ados](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">EPOC</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
+
+---
 
 ### [Brustkrebs-Rückfall trotz Therapie: Warum manche Tumorzellen jahrelang weiterleben - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
 
 2026-05-12 <span class="news-indication-tag">tumor</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
-
----
-
-### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
-
-2026-05-12 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
 
 ---
 
@@ -110,17 +118,9 @@ permalink: /news/florbetapir-18f/
 
 ---
 
-### [Le piège de l'adolescence : comment un simple joint double le risque de schizophrénie et de bipolarité à 26 ans](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
-
-2026-05-11 <span class="news-indication-tag">EPOC</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
-
----
-
 ### [Gesundheitsamt bietet HPV-Impfungen an - Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-05-11 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Landkreis Harburg](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlCZ2RUMThyMndaN0VIaURwRTVqLXEzdUdWTHViWUpHV0pvVFc4WVdRNFRJc0NBZG5CSjhrN19nVGV4eXd6Rk12T1dlQlJ2WWFQalF4bDV0WDM1LXU5RWZ6Zm5SYjNEX3YwUDVMZmpjcE1NZm5XU0Rwdlp3ekdndWhYMW9xaVF6YTBtQUpleDlxc0RJNFJkMmZKazV2anpIRU04T0IyS1hkZUNPSFp6WlVFUEcwOXQ2a2t2N2JpWkx3QQ?oc=5)
 
@@ -131,6 +131,22 @@ permalink: /news/florbetapir-18f/
 2026-05-11 <span class="news-indication-tag">cancer</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNelJUbnBGbVJzZUhDb1hTVUkzbFI0Rm9xemFtb2FCNXZPZ1Jfd0hxektxY2FnQ0FnbXVsMlZ5cGlYMHE2ZTN0aEtNZVVwcU1EZ3cyRXZfX0FocFNGVGxHTktQRE1mbE1TOEp5cmV1N3o5OXZSZU1mVzVTLTJWRGZUU3dhX0duYVhta0tsN3B2eUotckM3RUVoQ2Z4NmltYXBTdXh0SG03bFZlcUk2Wm9xam82TkdCZThpeVNmSnJPMzUwaXR4azRjdTdSLVFNRVFodUdldVdUU3lRb2g2bzViQUNGVUVBSUFMYVdTRGFGQmJJUnlLYWdBLTZhSzl1WlBZa1hzZ1U2M3lsNTlyd191YlJ2RGxIZFZ6UFR4dkFyQ1pNc2llNU9QU2hsdTh4T0t1WVh4aFFOZ2dTNmpxM0wwQU05eFYzR2dRd2R6MUJ3cG0tcURLVXJCbTFn?oc=5)
+
+---
+
+### [COPD-Leitlinie 2026: Neue Diagnostik & Therapie im Überblick](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">copd</span>
+
+來源：[esanum](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
+
+---
+
+### [Kent mum takes on 200km walk after daughter's brain tumour](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNTV4aGVBLUItQV9WOUJvcVFlX2IxRWZlMVpjdjkzbzVtM2wxeGpPYXVKY1UzcTdIWE5SbldCY2ZqTjNGZnBldVJ0bXBpaGhqYmN5ejRlLTRRb3Zq?oc=5)
+
+2026-05-11 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNTV4aGVBLUItQV9WOUJvcVFlX2IxRWZlMVpjdjkzbzVtM2wxeGpPYXVKY1UzcTdIWE5SbldCY2ZqTjNGZnBldVJ0bXBpaGhqYmN5ejRlLTRRb3Zq?oc=5)
 
 ---
 

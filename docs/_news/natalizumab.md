@@ -54,6 +54,14 @@ permalink: /news/natalizumab/
 
 ## 相關新聞（3 則）
 
+### [Psychoses, bipolarité : un simple joint double les risques chez les ados](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">EPOC</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
+
+---
+
 ### [Vitamin-C-Mythen und Leberforschung: Neue Wege gegen Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGxoSjduNTQ3OWRoRmwxX1RGcDBNd1M3YUNJdkZlNjkwTlBMem1zVTJ4RW9YR2ZXd2ZGcnU4NHVXaFllYV9xZlJkb1FmckZGZDJwWTdSc1RkWndoVUk5Y1RUWXN4RWFUakNFVlJYNUZYUlN3SThxVDRIdVJqeTloM0lJSDNyRm01UmF5ZkwxdWlMZ0dXOFdVWHhlLUtJVFRDdDItTW1BNTVNSGtlaXc?oc=5)
 
 2026-05-12 <span class="news-indication-tag">diabetes</span>
@@ -62,19 +70,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Le piège de l'adolescence : comment un simple joint double le risque de schizophrénie et de bipolarité à 26 ans](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
+### [COPD-Leitlinie 2026: Neue Diagnostik & Therapie im Überblick](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
 
-2026-05-11 <span class="news-indication-tag">EPOC</span>
+2026-05-11 <span class="news-indication-tag">copd</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
-
----
-
-### [Experts reveal the exact number of steps per day you need to boost health - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
-
-2026-05-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzFzMmQ3czA4aVJUM0doNjNET0tqcE00cnRxbnZNd1VLa3o4ZGdHZDEySFJVV0p0dzJkcjFyb0xGaU1DSnRFMTd2TGRJSDJhNEE0eXJBbE92YVRDeENDbjR3VmhjV3BtVFp0MzdZd0IzSzBnQlFYT25rLWZ5RHRTTVEwQ1BRUTVoaHI0MVA2dkExQnRrT0YtV0s5cHZhU1BJb2VnSUFR?oc=5)
+來源：[esanum](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
 
 ---
 

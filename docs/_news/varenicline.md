@@ -54,11 +54,11 @@ permalink: /news/varenicline/
 
 ## 相關新聞（1 則）
 
-### [New Pill Successfully Lowers Stubborn Blood Pressure and Protects Kidneys in High-Risk Patients - Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+### [Los probióticos emergen como una nueva estrategia para mejorar el control de la hipertensión arterial - Canal UGR](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bnNKNUw0cm92dlRuZ0t1ZnZZZ1h4U2U1czFrVUxMMGZHWWdyenRLQkhTd3pKXzVPbS1DbGtpd0FhMEl5OHJGeVRqNk5EdkN2N3hMQ3JsTHBReGdhdFNhcDIwM0k?oc=5)
 
-2026-05-11 <span class="news-indication-tag">high blood pressure</span>
+2026-05-12 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bnNKNUw0cm92dlRuZ0t1ZnZZZ1h4U2U1czFrVUxMMGZHWWdyenRLQkhTd3pKXzVPbS1DbGtpd0FhMEl5OHJGeVRqNk5EdkN2N3hMQ3JsTHBReGdhdFNhcDIwM0k?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Arts and cultural engagement ‘linked to slower pace of biological ageing’ - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
+### [Los probióticos emergen como una nueva estrategia para mejorar el control de la hipertensión arterial - Canal UGR](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bnNKNUw0cm92dlRuZ0t1ZnZZZ1h4U2U1czFrVUxMMGZHWWdyenRLQkhTd3pKXzVPbS1DbGtpd0FhMEl5OHJGeVRqNk5EdkN2N3hMQ3JsTHBReGdhdFNhcDIwM0k?oc=5)
 
-2026-05-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-05-12 <span class="news-indication-tag">hipertensión</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bnNKNUw0cm92dlRuZ0t1ZnZZZ1h4U2U1czFrVUxMMGZHWWdyenRLQkhTd3pKXzVPbS1DbGtpd0FhMEl5OHJGeVRqNk5EdkN2N3hMQ3JsTHBReGdhdFNhcDIwM0k?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/erdafitinib/
 2026-05-11 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHN3am5vOVJrTUNnZVE1c3BxUzAyME1PZVR3SnlaOGt2ZEhyVmNnNnJ6NHNWcWdSOXZpSzZSUGxxVmYtMXpPMjQtS2p0ZGZYQzJOZ2JqcUQ1YkFIX3RwaXczUGpXT2F4ZEw3OUFRNElyM0lfUV9Hb3E0OW4tVGgwRlU5eV9tY0ktc01PTjVxSENrSktXNXVLMXNNdTNGeFBQV1gyczV6SDhWa21GZkE?oc=5)
-
----
-
-### [New Pill Successfully Lowers Stubborn Blood Pressure and Protects Kidneys in High-Risk Patients - Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
-
-2026-05-11 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZjF6S0xTOEROVlkxVm9wVWRmVGlYOV9MTTBfUkZwLTYydlV2bENYN1dHSjZkY29xMVBHN1p3amVlai1RRTNtekV1VDhQOF9nZExCdjNKSDZ2QWlEZ01kRWkwMWxGbjFONjNJUHdLcEdNUldDRDdubmdjdGc?oc=5)
 
 ---
 

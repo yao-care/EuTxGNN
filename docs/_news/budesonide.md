@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Psychoses, bipolarité : un simple joint double les risques chez les ados](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">EPOC</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMigAFBVV95cUxOazhiNFBQNktRcW9WOXBialJWZ0tReEpVNGdHb2NjbHVJTHY0YVZBUmhMQ3pKajNJcGJXdG82UnBVbGI5VTBqV0NlMVhfVWZLaEZ1Tkw2WV9yckhpeWhOcE11SFlueERua0VOS1BrVHk0cFhLdHpnbVl0R0pQeElucw?oc=5)
+
+---
 
 ### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/budesonide/
 
 ---
 
-### [Le piège de l'adolescence : comment un simple joint double le risque de schizophrénie et de bipolarité à 26 ans](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
+### [‘I’m a doctor - here are 7 simple ways to beat hay fever' - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3MwRjZub1hybjhnSklVNzExWGMwcGFXX3oxemdERkhBbXg3ZUdfQ0o0VzJFQUJGaTl1TUxJc0tKN2VZZjZibG9HSmpSWUVqN2tVWUNGWDh1amRXZ2pqN0xBdnE4S3hKMGE0OFZTR2xHcGVvdzhMV0ZrTXN2eGdpcUhsZUtQVG1tclR2TFI0UGHSAZYBQVVfeXFMT3RqUHItLWxiTGpqaEMtanQzTWFvOFNZaFZmVnkzYkQxQUVaMUtBc2I2SmxNVmVnUzVxNlFuNG4wOXY1c1o5WXZsWWhtajZNWnE5V3pCWDNTaks0Z2pGMF93a0NHVGVUbDhKdTRFRnFndkVXRERlYlVMbDBDT0xuUlAtQUctdDI0RWF4cjRHVVdhaTgwSmR3?oc=5)
 
-2026-05-11 <span class="news-indication-tag">EPOC</span>
+2026-05-11 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDRRWk9FRFRlWXVqSkEwU0JYODRPdl94VzFaQ3V6dUhBRTdubFppWFJ3VTAyTk50VFNmMW5oc2I5NE9XaWxsQjdnaWNzR2R0V2VKX3lEak9aZzZWVDFicU9YQk5wSDJlNlR1YlQ4ZWZyZ2lqUlI0ZWN1N0RPR0FVRndzZ01mQ052RXpvZzl3RHA5elJGaE5HYzVHaElwbWFocmZ5NXcyaWN0Nk1LaDFMaTBVN3BWRFl1Y29xT2NvLUFKc2NLb0NBY2ppU1I?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3MwRjZub1hybjhnSklVNzExWGMwcGFXX3oxemdERkhBbXg3ZUdfQ0o0VzJFQUJGaTl1TUxJc0tKN2VZZjZibG9HSmpSWUVqN2tVWUNGWDh1amRXZ2pqN0xBdnE4S3hKMGE0OFZTR2xHcGVvdzhMV0ZrTXN2eGdpcUhsZUtQVG1tclR2TFI0UGHSAZYBQVVfeXFMT3RqUHItLWxiTGpqaEMtanQzTWFvOFNZaFZmVnkzYkQxQUVaMUtBc2I2SmxNVmVnUzVxNlFuNG4wOXY1c1o5WXZsWWhtajZNWnE5V3pCWDNTaks0Z2pGMF93a0NHVGVUbDhKdTRFRnFndkVXRERlYlVMbDBDT0xuUlAtQUctdDI0RWF4cjRHVVdhaTgwSmR3?oc=5)
+
+---
+
+### [COPD-Leitlinie 2026: Neue Diagnostik & Therapie im Überblick](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
+
+2026-05-11 <span class="news-indication-tag">copd</span>
+
+來源：[esanum](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
 
 ---
 
