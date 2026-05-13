@@ -54,11 +54,11 @@ permalink: /news/aclidinium-bromide/
 
 ## 相關新聞（1 則）
 
-### [Erhöht Migräne das Demenzrisiko? Neue Studie mit verblüffendem Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+### [Migräne erhöht Demenzrisiko deutlich – besonders bei Frauen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxORkxEYmFXaUhRR19EUjJEN1VvU3JnRlRVbnM5b2E4dkhUczlIUi1OUzB6TzVBOTc1WW9MRnY0MkNkTFJYOTlZb0JUc1ppV2RVX3ZnSGZKMk1xLUpadDVaNzgzaDRmWW5kWkZwQmdFdDRCeGlVMkJ3amFPMms4cXFsRFZ4ZzIxaTliQTY5UlhTQ0JvV2VnaDdIRE9iaGI2M3hnR1U4cDdTSFdCdERF?oc=5)
 
 2026-05-13 <span class="news-indication-tag">Migräne</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxORkxEYmFXaUhRR19EUjJEN1VvU3JnRlRVbnM5b2E4dkhUczlIUi1OUzB6TzVBOTc1WW9MRnY0MkNkTFJYOTlZb0JUc1ppV2RVX3ZnSGZKMk1xLUpadDVaNzgzaDRmWW5kWkZwQmdFdDRCeGlVMkJ3amFPMms4cXFsRFZ4ZzIxaTliQTY5UlhTQ0JvV2VnaDdIRE9iaGI2M3hnR1U4cDdTSFdCdERF?oc=5)
 
 ---
 

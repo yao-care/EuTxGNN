@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
+### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
 
-2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-05-13 <span class="news-indication-tag">arthritis</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+---
+
+### [Typ-2-Diabetes erfordert besonderen Schutz für Niere und Herz](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
+
+2026-05-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
 
 ---
 
@@ -94,27 +102,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Typ 2 Diabetes – von Beginn an leitliniengerecht behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lfbDItUXlyZ0k3emhpLUkzeC12TGdVWGFtR2NCbDUzLTJZSnFUZ3pQcXg5cTFnN0Zod2JtZ0lDUkwxRV9jTHROWkpaSXdKYkxLZXRkRFR3ZkJrMVF6MlNnTFVOSVFLNDhJM0lNekQ2WXNlQVktc21rU3Z1UWx6OXRDa0puYXdyanNCbUZpY1ZMQ2RoSGdxR2tEUG8?oc=5)
-
-2026-05-12 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lfbDItUXlyZ0k3emhpLUkzeC12TGdVWGFtR2NCbDUzLTJZSnFUZ3pQcXg5cTFnN0Zod2JtZ0lDUkwxRV9jTHROWkpaSXdKYkxLZXRkRFR3ZkJrMVF6MlNnTFVOSVFLNDhJM0lNekQ2WXNlQVktc21rU3Z1UWx6OXRDa0puYXdyanNCbUZpY1ZMQ2RoSGdxR2tEUG8?oc=5)
-
----
-
 ### [This Is the Best Type of Exercise for Knee Pain From Arthritis, According to Scientists](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
 
 2026-05-11 <span class="news-indication-tag">arthritis</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
-
----
-
-### [COPD-Leitlinie 2026: Neue Diagnostik & Therapie im Überblick](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
-
-2026-05-11 <span class="news-indication-tag">copd</span>
-
-來源：[esanum](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Ascensori troppo pieni e carichi sottostimati: lo studio europeo che lancia l'allarme obesità](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obesità</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+
+---
 
 ### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [How your cortisol levels are affecting your weight gain – and what you can do about it - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
+### [Citadelle-Krankenhaus: Neue Spezialstation für Schlaganfall-Patienten - BRF Nachrichten](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzV3NDYWpZSW9hN1ZseGx1ZWpCNmZnY3d2anNIdGo4NEhrUU9YMDZva09pUTM5R3dWdUVGQllwS1BpcEl4ek93?oc=5)
 
-2026-05-12 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-05-12 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
+來源：[BRF Nachrichten](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzV3NDYWpZSW9hN1ZseGx1ZWpCNmZnY3d2anNIdGo4NEhrUU9YMDZva09pUTM5R3dWdUVGQllwS1BpcEl4ek93?oc=5)
 
 ---
 
@@ -86,19 +94,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [I lost 1.5 stone after switching to a four-day week - The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
+
+---
+
 ### [Hidden Heart Risk Found in 1 in 5 People, Study Warns](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
 
 2026-05-12 <span class="news-indication-tag">stroke</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
-
----
-
-### [People urged to get tested for high blood pressure](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
-
-2026-05-11 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
-
-來源：[RTE.ie](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
 
 ---
 

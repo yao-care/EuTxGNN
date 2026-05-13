@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Erhöht Migräne das Demenzrisiko? Neue Studie mit verblüffendem Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+### [Ascensori troppo pieni e carichi sottostimati: lo studio europeo che lancia l'allarme obesità](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obesità</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+
+---
+
+### [Migräne erhöht Demenzrisiko deutlich – besonders bei Frauen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxORkxEYmFXaUhRR19EUjJEN1VvU3JnRlRVbnM5b2E4dkhUczlIUi1OUzB6TzVBOTc1WW9MRnY0MkNkTFJYOTlZb0JUc1ppV2RVX3ZnSGZKMk1xLUpadDVaNzgzaDRmWW5kWkZwQmdFdDRCeGlVMkJ3amFPMms4cXFsRFZ4ZzIxaTliQTY5UlhTQ0JvV2VnaDdIRE9iaGI2M3hnR1U4cDdTSFdCdERF?oc=5)
 
 2026-05-13 <span class="news-indication-tag">Migräne</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxORkxEYmFXaUhRR19EUjJEN1VvU3JnRlRVbnM5b2E4dkhUczlIUi1OUzB6TzVBOTc1WW9MRnY0MkNkTFJYOTlZb0JUc1ppV2RVX3ZnSGZKMk1xLUpadDVaNzgzaDRmWW5kWkZwQmdFdDRCeGlVMkJ3amFPMms4cXFsRFZ4ZzIxaTliQTY5UlhTQ0JvV2VnaDdIRE9iaGI2M3hnR1U4cDdTSFdCdERF?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/melatonin/
 
 ---
 
-### [How your cortisol levels are affecting your weight gain – and what you can do about it - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
-
-2026-05-12 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
-
----
-
 ### [More than 6,000 children treated at obesity clinics in England, figures show - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
 
 2026-05-12 <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
+
+---
+
+### [I lost 1.5 stone after switching to a four-day week - The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
 
 ---
 

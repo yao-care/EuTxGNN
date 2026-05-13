@@ -3,7 +3,7 @@ layout: default
 title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。3 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<strong>arthritis</strong> 目前有 <strong>3 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,7 +101,15 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+2026-05-13
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: Spezialisiertes Therapiekonzept für Kinderwunsch verkürzte Zeit bis zur Schwangerschaft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
 

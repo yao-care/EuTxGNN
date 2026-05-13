@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Ascensori troppo pieni e carichi sottostimati: lo studio europeo che lancia l'allarme obesità](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+
+2026-05-13
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+
+---
 
 ### [Ernährung als Medizin: Neue Leitlinien revolutionieren die Behandlung chronischer Krankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEctMlpWMG5QWmh0UUVPTEZPNHZYSXZOTHNfZ2ZrVmtpTGt1YWNha1phc29PaXVUcW9NWUNGZWo2MHVVVVNpQWJqQnRtdGZxZzFwdnc4RVRaMll6WlBpaGdmd3RTRkVwcEJsYWphaDNXOEJyUXl4ZnZsR0RSUVV2a0EtWmZWT21qamNQR29rV1V1OFZ0bVd2WHdDb1ZWMHFyYlVTeDFSQ1lrSXp6am5HM0JsQm1jS3VFd1E?oc=5)
 
@@ -46,19 +54,19 @@ permalink: /news/obesity/
 
 ---
 
-### [How your cortisol levels are affecting your weight gain – and what you can do about it - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
-
-2026-05-12
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
-
----
-
 ### [More than 6,000 children treated at obesity clinics in England, figures show - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
 
 2026-05-12
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
+
+---
+
+### [I lost 1.5 stone after switching to a four-day week - The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
+
+2026-05-12
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/idarucizumab/
 
 ## 相關新聞（4 則）
 
+### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">arthritis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+---
+
 ### [Vivir con EPOC: la “asesina silenciosa” que te quita el aire - El Periódico de España](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pS1ZzNXEtYng5dzE4NDZfNnJLcEFSTm9LMVFtV1Bvd1JwcllUemtVWFd6T0kwdHZGU095VWc5YkZGdE1NZjk5WndNWDdhcGxEbXBxekdleUxOcG54N250MnpIb19qNXpw?oc=5)
 
 2026-05-12 <span class="news-indication-tag">EPOC</span>
@@ -75,14 +83,6 @@ permalink: /news/idarucizumab/
 2026-05-11 <span class="news-indication-tag">arthritis</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
-
----
-
-### [COPD-Leitlinie 2026: Neue Diagnostik & Therapie im Überblick](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
-
-2026-05-11 <span class="news-indication-tag">copd</span>
-
-來源：[esanum](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0tGZ09tamVvUmpNV1hxUDQxVnUzN1R3NndPY3VQa1F6ME1FV2xZWl8yQWdsZDdWV2NsMHNVSGUyWUVCaWtCMElWczh6M2ZhdXltUm5xakltUjlWQUVrdnhEZDRtWDItUHlfei1IVzJxSHdjQTdib1dYYW9jYmxXaERuQXVNTDVZTHdQcUhYSnhVYk84c0ZwM1pBZEpyY1dXNTRXZzhmaUdQRGhseWE0YXo3Rjl1alhIc3R3VHgxRjdxaFFFSW1FNnVlczZXaFZQ?oc=5)
 
 ---
 

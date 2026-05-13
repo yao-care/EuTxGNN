@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
+### [Typ-2-Diabetes erfordert besonderen Schutz für Niere und Herz](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
 
-2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-05-13 <span class="news-indication-tag">diabetes</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
 
 ---
 
@@ -86,19 +86,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Typ 2 Diabetes – von Beginn an leitliniengerecht behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lfbDItUXlyZ0k3emhpLUkzeC12TGdVWGFtR2NCbDUzLTJZSnFUZ3pQcXg5cTFnN0Zod2JtZ0lDUkwxRV9jTHROWkpaSXdKYkxLZXRkRFR3ZkJrMVF6MlNnTFVOSVFLNDhJM0lNekQ2WXNlQVktc21rU3Z1UWx6OXRDa0puYXdyanNCbUZpY1ZMQ2RoSGdxR2tEUG8?oc=5)
+### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
 
-2026-05-12 <span class="news-indication-tag">diabetes</span>
+2026-05-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lfbDItUXlyZ0k3emhpLUkzeC12TGdVWGFtR2NCbDUzLTJZSnFUZ3pQcXg5cTFnN0Zod2JtZ0lDUkwxRV9jTHROWkpaSXdKYkxLZXRkRFR3ZkJrMVF6MlNnTFVOSVFLNDhJM0lNekQ2WXNlQVktc21rU3Z1UWx6OXRDa0puYXdyanNCbUZpY1ZMQ2RoSGdxR2tEUG8?oc=5)
-
----
-
-### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
-
-2026-05-11 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Heute](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
 
 ---
 

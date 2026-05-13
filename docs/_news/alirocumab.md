@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [HSE says no dry cutting of engineered stone ahead of inspection crackdown - HSE Media Centre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWpSOHdsMXg0TmJHc251THhmM3RqQXRZV3cwR0NsMWNlRWxiVXgza2VCc0JKVVlEMEN0RklnZW1xazBxWTVrNThoWEZROUtva1NSVHUxLUhoanpTa1hzOUNmNlhGUHVvQmVIVVpBcmljdHpyQUY3ZXlWTXduLVNQdktHMXZOQlc5eGVWNDR0b2JENV81QWxOU280TE15cHRfNk05aERIMFY2OTZmWlBF?oc=5)
-
-2026-05-11 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[HSE Media Centre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWpSOHdsMXg0TmJHc251THhmM3RqQXRZV3cwR0NsMWNlRWxiVXgza2VCc0JKVVlEMEN0RklnZW1xazBxWTVrNThoWEZROUtva1NSVHUxLUhoanpTa1hzOUNmNlhGUHVvQmVIVVpBcmljdHpyQUY3ZXlWTXduLVNQdktHMXZOQlc5eGVWNDR0b2JENV81QWxOU280TE15cHRfNk05aERIMFY2OTZmWlBF?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

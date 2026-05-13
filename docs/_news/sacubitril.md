@@ -54,11 +54,19 @@ permalink: /news/sacubitril/
 
 ## 相關新聞（6 則）
 
-### [A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
+### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
 
-2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-05-13 <span class="news-indication-tag">arthritis</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+---
+
+### [Typ-2-Diabetes erfordert besonderen Schutz für Niere und Herz](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
+
+2026-05-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/sacubitril/
 2026-05-12 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
-
----
-
-### [Typ 2 Diabetes – von Beginn an leitliniengerecht behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lfbDItUXlyZ0k3emhpLUkzeC12TGdVWGFtR2NCbDUzLTJZSnFUZ3pQcXg5cTFnN0Zod2JtZ0lDUkwxRV9jTHROWkpaSXdKYkxLZXRkRFR3ZkJrMVF6MlNnTFVOSVFLNDhJM0lNekQ2WXNlQVktc21rU3Z1UWx6OXRDa0puYXdyanNCbUZpY1ZMQ2RoSGdxR2tEUG8?oc=5)
-
-2026-05-12 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lfbDItUXlyZ0k3emhpLUkzeC12TGdVWGFtR2NCbDUzLTJZSnFUZ3pQcXg5cTFnN0Zod2JtZ0lDUkwxRV9jTHROWkpaSXdKYkxLZXRkRFR3ZkJrMVF6MlNnTFVOSVFLNDhJM0lNekQ2WXNlQVktc21rU3Z1UWx6OXRDa0puYXdyanNCbUZpY1ZMQ2RoSGdxR2tEUG8?oc=5)
 
 ---
 

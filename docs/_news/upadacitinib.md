@@ -54,6 +54,22 @@ permalink: /news/upadacitinib/
 
 ## 相關新聞（6 則）
 
+### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">arthritis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+---
+
+### [Mehr Bewegung mit Asthma dank Online-Coaching? Was es wirklich nutzt](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
+
+2026-05-13 <span class="news-indication-tag">asthma</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
+
+---
+
 ### ['Moving away from Portsmouth's air pollution helped my asthma'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wX3VOZ0ZTTUJaaExzOWdVOUtmN0lhak54ZnZHSEEzS0gzMGdIZzZSMmNFSFp4Sm95OElHQTA3Rld1OUp3eUZmOTc0RDJQS1dGN2pyZW8xYTgwQm4w?oc=5)
 
 2026-05-13 <span class="news-indication-tag">asthma</span>
@@ -70,14 +86,6 @@ permalink: /news/upadacitinib/
 
 ---
 
-### [El miedo al hantavirus revive el fantasma del coronavirus: un psicólogo llama a la calma](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1k4QVpST1NKRE5LRHZFbW9yVEp6T0Njb1FEcEFlNnJBMVJlcHhxWUFSRHNtWHhhQUR4eFpRVFBud0d3Y21vcWdpWnoxcWc1dkQ5aTd5Y0Vwa2Y1bzIzdHBQdXpTSllNQWdONEtLbDRaM3RxaS1mTmdvMEZYQUtnQzk4QW5ndDNGV3JRRndKWmxmakd5cU5WN3p1NHJyWFFuMVFZOTN4OGxiWV9EalVpODZuSmFPNnZHR0U2NENDSHdxVDBVSVdCTkVYWENwWlp4TlBKVVhSYkdFSTNfV05aY1pzZmRVZ0NZWEZ0eGZib9IB9AFBVV95cUxNQUtMSWJHOWtKMjRVVEdfU0RyQnVqc2FQaGZGZHJIRXlRbkd6bzN1X0dkd2pGZDQ5SG52Q1JEenVvVnFtcFlQV3F6emJKUTEtUEQ4dDZIeFdzREFsdjNSd3pDR0o0TmlXVW1HN3VVQmhFc2FHWTVvOS1hMTJmMmxBOEVmY3BFLXN5NVNiR0xCQ3N6aW1VNzNWZTZzNFBXZnlfbURuMUI1NDlqcXFlcnRINmRVd2FEREtjeGhXczBzVzZ1akMwTEdxaDN2eXg1TVZvMFk4aVd1aGhCUG80R2pOdkN2S3pkZldtUzdtZlFZM0t1NG8w?oc=5)
-
-2026-05-12 <span class="news-indication-tag">asma</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1k4QVpST1NKRE5LRHZFbW9yVEp6T0Njb1FEcEFlNnJBMVJlcHhxWUFSRHNtWHhhQUR4eFpRVFBud0d3Y21vcWdpWnoxcWc1dkQ5aTd5Y0Vwa2Y1bzIzdHBQdXpTSllNQWdONEtLbDRaM3RxaS1mTmdvMEZYQUtnQzk4QW5ndDNGV3JRRndKWmxmakd5cU5WN3p1NHJyWFFuMVFZOTN4OGxiWV9EalVpODZuSmFPNnZHR0U2NENDSHdxVDBVSVdCTkVYWENwWlp4TlBKVVhSYkdFSTNfV05aY1pzZmRVZ0NZWEZ0eGZib9IB9AFBVV95cUxNQUtMSWJHOWtKMjRVVEdfU0RyQnVqc2FQaGZGZHJIRXlRbkd6bzN1X0dkd2pGZDQ5SG52Q1JEenVvVnFtcFlQV3F6emJKUTEtUEQ4dDZIeFdzREFsdjNSd3pDR0o0TmlXVW1HN3VVQmhFc2FHWTVvOS1hMTJmMmxBOEVmY3BFLXN5NVNiR0xCQ3N6aW1VNzNWZTZzNFBXZnlfbURuMUI1NDlqcXFlcnRINmRVd2FEREtjeGhXczBzVzZ1akMwTEdxaDN2eXg1TVZvMFk4aVd1aGhCUG80R2pOdkN2S3pkZldtUzdtZlFZM0t1NG8w?oc=5)
-
----
-
 ### [This Is the Best Type of Exercise for Knee Pain From Arthritis, According to Scientists](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
 
 2026-05-11 <span class="news-indication-tag">arthritis</span>
@@ -91,14 +99,6 @@ permalink: /news/upadacitinib/
 2026-05-11 <span class="news-indication-tag">asthme</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
----
-
-### [Wenn die Kinderlunge pfeift - radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
-
-2026-05-11 <span class="news-indication-tag">asthma</span>
-
-來源：[radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
 
 ---
 

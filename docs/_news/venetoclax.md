@@ -14,7 +14,7 @@ permalink: /news/venetoclax/
 ---
 
 <p class="key-answer" data-question="Venetoclax 有什麼相關新聞？">
-<strong>Venetoclax</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Venetoclax</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/venetoclax/
 <p><a href="{{ '/drugs/venetoclax/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（15 則）
+
+### [Stiftung PATH – Patients’ Tumor Bank of Hope](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlNSaElnakMwWWZYZDBYMjZzSmE1Mmo0bHhkWXFLdHNtZTc4RTY1OW5aY3dzM2R3dlMyb3VGdS1wcWNYYXE2c3VmdjlaaEFOWXJIcjZYLTBlU3lySUxUQ0RaNWNNTWx4bkRNZEVoeHhJSjdvXzUwdkNncW1oWXRLQU9DVlRrY1FSdXllYjZVQ2ZIVTQ2cFphWXpLQldNdEFx?oc=5)
+
+2026-05-13 <span class="news-indication-tag">tumor</span>
+
+來源：[dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlNSaElnakMwWWZYZDBYMjZzSmE1Mmo0bHhkWXFLdHNtZTc4RTY1OW5aY3dzM2R3dlMyb3VGdS1wcWNYYXE2c3VmdjlaaEFOWXJIcjZYLTBlU3lySUxUQ0RaNWNNTWx4bkRNZEVoeHhJSjdvXzUwdkNncW1oWXRLQU9DVlRrY1FSdXllYjZVQ2ZIVTQ2cFphWXpLQldNdEFx?oc=5)
+
+---
+
+### [MPs call for ban on sunbed advertising and health warnings in shops](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SZWZRNFA2UElUMkdUREFMNXI5ZTgwX2FZVEZ3UHFPRXMtYkZOWjBOYUp1RkVBOGEzMWhwN3I4OVZ2Y0NHaDBGdTJVZVlBRzZEdkg0cnVGTGJQSS1W?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SZWZRNFA2UElUMkdUREFMNXI5ZTgwX2FZVEZ3UHFPRXMtYkZOWjBOYUp1RkVBOGEzMWhwN3I4OVZ2Y0NHaDBGdTJVZVlBRzZEdkg0cnVGTGJQSS1W?oc=5)
+
+---
+
+### [Alternative Krebstherapie mit Katzenkralle: Kärntner Arzt vor Gericht](https://news.google.com/rss/articles/CBMirAFBVV95cUxQajdzakZVX0pWM3hSSkpINUZ5RE1WSzN5QV9VNG1kLUxZcXFNQ1NPeXlxR1dLVG9FbExMdi1YSlFLOS1LV0lGYmVSQVdBdEp5MEphbXpRX0pHWWJfck9UejZMNEpOcWFBVFVDZE1lOHRzS0tlR3pPenQ5S2ZmaS1BaWZrdVhCMGZXaEc1Mm1aUnkwcks4c0tvS3hIcS1jQXRvWmxsMmV6YllmdUV3?oc=5)
+
+2026-05-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMirAFBVV95cUxQajdzakZVX0pWM3hSSkpINUZ5RE1WSzN5QV9VNG1kLUxZcXFNQ1NPeXlxR1dLVG9FbExMdi1YSlFLOS1LV0lGYmVSQVdBdEp5MEphbXpRX0pHWWJfck9UejZMNEpOcWFBVFVDZE1lOHRzS0tlR3pPenQ5S2ZmaS1BaWZrdVhCMGZXaEc1Mm1aUnkwcks4c0tvS3hIcS1jQXRvWmxsMmV6YllmdUV3?oc=5)
+
+---
 
 ### [Entzündungsgene als Link zwischen Bauchspeicheldrüsenkrebs und Stoffwechselerkrankungen - Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFpUdVNHZldISEg4VWZJN29VYnowS2RDd2lPcU9GMEVGZlcwUy1Dd1RQZDlSSEFNUVRwOXpVY0JnUGs1THlDV2FBeFlpaFlra3RNMk5EbmRXbkpNU0RNQ3UxZG42S3IwMmJGQ2JrUzdnMGlNaTIwMU51NFdiUFd0RWVZcFB3UVhVXzE1ZHA4V3N6VnoyTlBEemVUc3BWdFNIdGczTjVpTTJoQTIzQkw5VGVKTGFfQ1pmMmc?oc=5)
 
@@ -78,11 +102,27 @@ permalink: /news/venetoclax/
 
 ---
 
-### [Businesswoman battling cancer says hardest thing is being self-employed and sick - Donegal Daily](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXZ2UU1HVTJFdmpLelRfeGVlZWQ4YkZ3TDJOM2lhSHJhOTU1ZFV1Z0xLUGNsTVRpTG5uNEFrcHA3LWxieERWeFhINDRmaFJMX3BTR3JZcGtDVWlvUGRhcVNlY3pqdEQtRDU0Yi14c2ZDTkdScW42MGxYSU1zNC1KRklDMTBFbnluVDZwR1dRamhzYW53a2ZBUlFrVkFXbjdRSlNyVG5wVHdxSm9zNXFYZXUteG9zcFFIRHhtbmFTaXc?oc=5)
+### [Kopf-Hals-Tumoren: Moderne Bildgebung liefert Hinweise auf aggressiven Verlauf](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlhjWHc1MW1CakdYNjlkR0VWZ1d4TFF3anhBZjZaS0hoT1NTRHpoUDRGNW4xNHZaNE9jd3NzUk5adko5Q2lRQ0lFZTJMNjFWQkQ3MWtUTC1JcVgxc3dkSWlTdFJYc2IyYlFsYlk2WVFLcmVib3djaFZYbWV6M0E2XzBvaWNWUHR3OG81Q0t2TVNQdTFfRGdzTlZtNmdhaXNVdm0wallwanRBWHh2OFNQdHlmVHJaclJWOGdXWU96dkx0ZlR0VTNGTWxQQkZqY1U?oc=5)
+
+2026-05-13 <span class="news-indication-tag">tumor</span>
+
+來源：[OTS.at](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlhjWHc1MW1CakdYNjlkR0VWZ1d4TFF3anhBZjZaS0hoT1NTRHpoUDRGNW4xNHZaNE9jd3NzUk5adko5Q2lRQ0lFZTJMNjFWQkQ3MWtUTC1JcVgxc3dkSWlTdFJYc2IyYlFsYlk2WVFLcmVib3djaFZYbWV6M0E2XzBvaWNWUHR3OG81Q0t2TVNQdTFfRGdzTlZtNmdhaXNVdm0wallwanRBWHh2OFNQdHlmVHJaclJWOGdXWU96dkx0ZlR0VTNGTWxQQkZqY1U?oc=5)
+
+---
+
+### [« Je n'arrivais plus à monter les escaliers » : les femmes plus exposées aux maladies cardiovasculaires - Le Republicain Lorrain](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObEh1SG56ZmVtRG42bGxMcml3ZlhrX0Ewd0pOY1F4bmNrT25MTGs4SUlSYmtMSjRtTlBsSFlaTlRKeDAzeWxFdmV3Y3RKV09HbE4xenVGcnBIX3VLZWQ2YklEVjYtaFA1WG50bFNGUGhBVDVmdGpZUjNaeG9OZjJPekVNdUZQRm9TVk9PSzNQNmFfb3FDRXhMNGFfUjdTZkNhcUs0eG5zZUY3SWM?oc=5)
 
 2026-05-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Donegal Daily](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXZ2UU1HVTJFdmpLelRfeGVlZWQ4YkZ3TDJOM2lhSHJhOTU1ZFV1Z0xLUGNsTVRpTG5uNEFrcHA3LWxieERWeFhINDRmaFJMX3BTR3JZcGtDVWlvUGRhcVNlY3pqdEQtRDU0Yi14c2ZDTkdScW42MGxYSU1zNC1KRklDMTBFbnluVDZwR1dRamhzYW53a2ZBUlFrVkFXbjdRSlNyVG5wVHdxSm9zNXFYZXUteG9zcFFIRHhtbmFTaXc?oc=5)
+來源：[Le Republicain Lorrain](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObEh1SG56ZmVtRG42bGxMcml3ZlhrX0Ewd0pOY1F4bmNrT25MTGs4SUlSYmtMSjRtTlBsSFlaTlRKeDAzeWxFdmV3Y3RKV09HbE4xenVGcnBIX3VLZWQ2YklEVjYtaFA1WG50bFNGUGhBVDVmdGpZUjNaeG9OZjJPekVNdUZQRm9TVk9PSzNQNmFfb3FDRXhMNGFfUjdTZkNhcUs0eG5zZUY3SWM?oc=5)
+
+---
+
+### ["Doctors said I was cancer free - but they were wrong and it raged in my body for months" - Daily Record](https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU1zaG5wbkpjWlJOSzV5X2t2ZE9YUER6MmFpWEVnckNLYk5FOTZMLTR3S1JYdTlJNERsdHVhcS12TGxuNjBMMmVuY2Y1QU5iTmxoeUVwNGJpTExYLXlIN2NfWk9hay1WM2sxMVhkaVZRNEF4dUJ4N2t2VVliT094d0N1YkdWaTRWcDVjQlRQYk_SAZYBQVVfeXFMTnEzU1lYc1REZGRIN1M0cWpzUUw2UmI4NDRwb1ptMGxIV2c2eVdMSGEyOWRIQURfMl92NXVYTXpUc2dsSE1DUEhXV2RLWUNuQXNIdVc0LV9OdEY0cTFGZWw0eEZIUnBqa2U3ckpqMnNUaVVDMUlURk1kZWFhWm9Oc0RzeDMtOWM2cjZOQ1o2MldnZUhEdzV3?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU1zaG5wbkpjWlJOSzV5X2t2ZE9YUER6MmFpWEVnckNLYk5FOTZMLTR3S1JYdTlJNERsdHVhcS12TGxuNjBMMmVuY2Y1QU5iTmxoeUVwNGJpTExYLXlIN2NfWk9hay1WM2sxMVhkaVZRNEF4dUJ4N2t2VVliT094d0N1YkdWaTRWcDVjQlRQYk_SAZYBQVVfeXFMTnEzU1lYc1REZGRIN1M0cWpzUUw2UmI4NDRwb1ptMGxIV2c2eVdMSGEyOWRIQURfMl92NXVYTXpUc2dsSE1DUEhXV2RLWUNuQXNIdVc0LV9OdEY0cTFGZWw0eEZIUnBqa2U3ckpqMnNUaVVDMUlURk1kZWFhWm9Oc0RzeDMtOWM2cjZOQ1o2MldnZUhEdzV3?oc=5)
 
 ---
 
@@ -94,14 +134,6 @@ permalink: /news/venetoclax/
 
 ---
 
-### [A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
-
----
-
 ### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
 
 2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -110,27 +142,35 @@ permalink: /news/venetoclax/
 
 ---
 
+### [Vitamin B12: the essential nutrient with a complicated cancer link - The Conversation](https://news.google.com/rss/articles/CBMiogFBVV95cUxPODliNFlGaVhZYVdSSV9jTlFYZXNPWGozRnJDa05nQlRxWWZsTUo0cVZickg1bk9faFdtcmNrN3o5aS1ZallwZXJtb3pncnZkdVRVZ0lRblFBclJPV09nMlBnNjhXZ1MwdFZIcjEtbHdfakJrUS1GakNOWHA0WVlLNkJ0UDBtQjlfZ1dyRzlSTWxUVmpRREpfLUF3YnZCR05qUmc?oc=5)
+
+2026-05-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiogFBVV95cUxPODliNFlGaVhZYVdSSV9jTlFYZXNPWGozRnJDa05nQlRxWWZsTUo0cVZickg1bk9faFdtcmNrN3o5aS1ZallwZXJtb3pncnZkdVRVZ0lRblFBclJPV09nMlBnNjhXZ1MwdFZIcjEtbHdfakJrUS1GakNOWHA0WVlLNkJ0UDBtQjlfZ1dyRzlSTWxUVmpRREpfLUF3YnZCR05qUmc?oc=5)
+
+---
+
+### ["On reste alité entre 20 et 24 heures par jour" : le calvaire d'Elise et Fabien, atteints de fatigue chronique extrême - France 3 Régions](https://news.google.com/rss/articles/CBMitwJBVV95cUxOc0pWWHhfeVYxZXpZSGJXOHR6LWJfMXlVMUYtSlhVQzhzY09sMmlXVnhYeWtQUFRXUTZRb1Rnd3NjbmVLX1NYRzAxakpTVVFvR3lMeGhMVF9qVnRuSWs1Z2UzMlBFMTRZZlE1WTg5UHMyNGMzMk03VGc4Y0xkaDRqUlFRSnpZTUxJdi13RjBIU28tUkpsZDJxcHg2bTFDbmlNeW5IRHNVZ3VYd1BjTDM4NThIMFdmU2xadzY0bV9McVkzNjhOMXBQRUlvc2ZkUVNsa20tME45VEN0dEszZXd5WmNnc0Z5SU1Kc0hxR24xM05jVWY5VUd4aFVCSV9mTU9ob0FLWVhrMDdOcU5QdzhxMlh6N0xZenYteFI2S29hR1p1a1RjSUxfU2s3eDdSZ0tiWWN0WlNNdw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMitwJBVV95cUxOc0pWWHhfeVYxZXpZSGJXOHR6LWJfMXlVMUYtSlhVQzhzY09sMmlXVnhYeWtQUFRXUTZRb1Rnd3NjbmVLX1NYRzAxakpTVVFvR3lMeGhMVF9qVnRuSWs1Z2UzMlBFMTRZZlE1WTg5UHMyNGMzMk03VGc4Y0xkaDRqUlFRSnpZTUxJdi13RjBIU28tUkpsZDJxcHg2bTFDbmlNeW5IRHNVZ3VYd1BjTDM4NThIMFdmU2xadzY0bV9McVkzNjhOMXBQRUlvc2ZkUVNsa20tME45VEN0dEszZXd5WmNnc0Z5SU1Kc0hxR24xM05jVWY5VUd4aFVCSV9mTU9ob0FLWVhrMDdOcU5QdzhxMlh6N0xZenYteFI2S29hR1p1a1RjSUxfU2s3eDdSZ0tiWWN0WlNNdw?oc=5)
+
+---
+
+### [NHS new 'revolutionary' 60-second jab treats 14 cancers as Dr Hilary shares 'good news' - Daily Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVdhRlhiZ2hpQUJ3bkdtMUJkMDROZ0Qzc2w4Q2U1NEFOenlBZzBJamk1Qmk5ZnI4NzhqQ1haZ196SlN1czdJaHBwdjZjN014MHZJUEtVWDZBVzM0NjNzY1B5eFNZakFuTFV3XzJUeUNGMEx2Tm51dmJqaTdrS2RZdkVMY1FxUlJKTUg5TlhJR19ISkU1SERkS3ZBMHpHdTNpc19hV2R2Mk4yd1B1Wm8yZ0RZRmFSdUXSAbwBQVVfeXFMTzdwcllfZGNTSElub3pTd2hITjZhbVlTOVg3a25Yc3o4R1BRNkZaalJfX2lLYUV6QlJaZjF3MWVDdG0xZFFhcjNQUnFrUWhfRExUVEVLNlJGWDFhUUFzeXNjd1phMmJBOXl3clNrR1c2bTE2YmRPRmJLckJ4cWdvVmxtVkFtOEdyR3lza05yclJVRHI4Nm9WaktEMVNQNGU1cXN4VFJBNkltSGgwekdUOVJBRmFORTRhVmRSc0Y?oc=5)
+
+2026-05-12 <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVdhRlhiZ2hpQUJ3bkdtMUJkMDROZ0Qzc2w4Q2U1NEFOenlBZzBJamk1Qmk5ZnI4NzhqQ1haZ196SlN1czdJaHBwdjZjN014MHZJUEtVWDZBVzM0NjNzY1B5eFNZakFuTFV3XzJUeUNGMEx2Tm51dmJqaTdrS2RZdkVMY1FxUlJKTUg5TlhJR19ISkU1SERkS3ZBMHpHdTNpc19hV2R2Mk4yd1B1Wm8yZ0RZRmFSdUXSAbwBQVVfeXFMTzdwcllfZGNTSElub3pTd2hITjZhbVlTOVg3a25Yc3o4R1BRNkZaalJfX2lLYUV6QlJaZjF3MWVDdG0xZFFhcjNQUnFrUWhfRExUVEVLNlJGWDFhUUFzeXNjd1phMmJBOXl3clNrR1c2bTE2YmRPRmJLckJ4cWdvVmxtVkFtOEdyR3lza05yclJVRHI4Nm9WaktEMVNQNGU1cXN4VFJBNkltSGgwekdUOVJBRmFORTRhVmRSc0Y?oc=5)
+
+---
+
 ### [Brustkrebs-Rückfall trotz Therapie: Warum manche Tumorzellen jahrelang weiterleben - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
 
 2026-05-12 <span class="news-indication-tag">tumor</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
-
----
-
-### [Cancer risk warning as doctor confirms 'no safe' level of popular drink - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
-
-2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
-
----
-
-### [Pflanzenstoffe in der Krebstherapie: Neue Studie zeigt Potenzial - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmdnZkxSQlpYdVVrN005NW9GUlhiWXJvNDhvbVFaNTh4Sm5PU0dNdzVXZE5maTktYW53NW9fME1yWV9aSWlxYldZd0xwaHNkNHJoVEZ6RWxPVkhOZFlZeVdXLWYtN056YzA5eEptUkswR1FETWthSzNsbVdsUmoxRVQ3UmlJUTFoRzdkY2t5VzJ1R3BIanZsdmdMZnY5QllfYllYd3h3MS1LQzlzZHp3R3F3?oc=5)
-
-2026-05-11 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmdnZkxSQlpYdVVrN005NW9GUlhiWXJvNDhvbVFaNTh4Sm5PU0dNdzVXZE5maTktYW53NW9fME1yWV9aSWlxYldZd0xwaHNkNHJoVEZ6RWxPVkhOZFlZeVdXLWYtN056YzA5eEptUkswR1FETWthSzNsbVdsUmoxRVQ3UmlJUTFoRzdkY2t5VzJ1R3BIanZsdmdMZnY5QllfYllYd3h3MS1LQzlzZHp3R3F3?oc=5)
 
 ---
 

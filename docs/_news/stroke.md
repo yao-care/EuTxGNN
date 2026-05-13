@@ -49,19 +49,19 @@ permalink: /news/stroke/
 
 ---
 
+### [Citadelle-Krankenhaus: Neue Spezialstation für Schlaganfall-Patienten - BRF Nachrichten](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzV3NDYWpZSW9hN1ZseGx1ZWpCNmZnY3d2anNIdGo4NEhrUU9YMDZva09pUTM5R3dWdUVGQllwS1BpcEl4ek93?oc=5)
+
+2026-05-12
+
+來源：[BRF Nachrichten](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzV3NDYWpZSW9hN1ZseGx1ZWpCNmZnY3d2anNIdGo4NEhrUU9YMDZva09pUTM5R3dWdUVGQllwS1BpcEl4ek93?oc=5)
+
+---
+
 ### [Hidden Heart Risk Found in 1 in 5 People, Study Warns](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
 
 2026-05-12
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
-
----
-
-### [People urged to get tested for high blood pressure](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
-
-2026-05-11
-
-來源：[RTE.ie](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
 
 ---
 

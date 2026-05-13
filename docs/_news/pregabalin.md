@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Erhöht Migräne das Demenzrisiko? Neue Studie mit verblüffendem Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">arthritis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+
+---
+
+### [Migräne erhöht Demenzrisiko deutlich – besonders bei Frauen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxORkxEYmFXaUhRR19EUjJEN1VvU3JnRlRVbnM5b2E4dkhUczlIUi1OUzB6TzVBOTc1WW9MRnY0MkNkTFJYOTlZb0JUc1ppV2RVX3ZnSGZKMk1xLUpadDVaNzgzaDRmWW5kWkZwQmdFdDRCeGlVMkJ3amFPMms4cXFsRFZ4ZzIxaTliQTY5UlhTQ0JvV2VnaDdIRE9iaGI2M3hnR1U4cDdTSFdCdERF?oc=5)
 
 2026-05-13 <span class="news-indication-tag">Migräne</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxORkxEYmFXaUhRR19EUjJEN1VvU3JnRlRVbnM5b2E4dkhUczlIUi1OUzB6TzVBOTc1WW9MRnY0MkNkTFJYOTlZb0JUc1ppV2RVX3ZnSGZKMk1xLUpadDVaNzgzaDRmWW5kWkZwQmdFdDRCeGlVMkJ3amFPMms4cXFsRFZ4ZzIxaTliQTY5UlhTQ0JvV2VnaDdIRE9iaGI2M3hnR1U4cDdTSFdCdERF?oc=5)
 
 ---
 

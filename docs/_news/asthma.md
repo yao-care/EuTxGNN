@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthme（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "asthme（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthme（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
+<strong>asthme（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Mehr Bewegung mit Asthma dank Online-Coaching? Was es wirklich nutzt](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
+
+2026-05-13
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
+
+---
 
 ### ['Moving away from Portsmouth's air pollution helped my asthma'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wX3VOZ0ZTTUJaaExzOWdVOUtmN0lhak54ZnZHSEEzS0gzMGdIZzZSMmNFSFp4Sm95OElHQTA3Rld1OUp3eUZmOTc0RDJQS1dGN2pyZW8xYTgwQm4w?oc=5)
 
@@ -85,27 +93,11 @@ permalink: /news/asthma/
 
 ---
 
-### [El miedo al hantavirus revive el fantasma del coronavirus: un psicólogo llama a la calma](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1k4QVpST1NKRE5LRHZFbW9yVEp6T0Njb1FEcEFlNnJBMVJlcHhxWUFSRHNtWHhhQUR4eFpRVFBud0d3Y21vcWdpWnoxcWc1dkQ5aTd5Y0Vwa2Y1bzIzdHBQdXpTSllNQWdONEtLbDRaM3RxaS1mTmdvMEZYQUtnQzk4QW5ndDNGV3JRRndKWmxmakd5cU5WN3p1NHJyWFFuMVFZOTN4OGxiWV9EalVpODZuSmFPNnZHR0U2NENDSHdxVDBVSVdCTkVYWENwWlp4TlBKVVhSYkdFSTNfV05aY1pzZmRVZ0NZWEZ0eGZib9IB9AFBVV95cUxNQUtMSWJHOWtKMjRVVEdfU0RyQnVqc2FQaGZGZHJIRXlRbkd6bzN1X0dkd2pGZDQ5SG52Q1JEenVvVnFtcFlQV3F6emJKUTEtUEQ4dDZIeFdzREFsdjNSd3pDR0o0TmlXVW1HN3VVQmhFc2FHWTVvOS1hMTJmMmxBOEVmY3BFLXN5NVNiR0xCQ3N6aW1VNzNWZTZzNFBXZnlfbURuMUI1NDlqcXFlcnRINmRVd2FEREtjeGhXczBzVzZ1akMwTEdxaDN2eXg1TVZvMFk4aVd1aGhCUG80R2pOdkN2S3pkZldtUzdtZlFZM0t1NG8w?oc=5)
-
-2026-05-12
-
-來源：[COPE](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1k4QVpST1NKRE5LRHZFbW9yVEp6T0Njb1FEcEFlNnJBMVJlcHhxWUFSRHNtWHhhQUR4eFpRVFBud0d3Y21vcWdpWnoxcWc1dkQ5aTd5Y0Vwa2Y1bzIzdHBQdXpTSllNQWdONEtLbDRaM3RxaS1mTmdvMEZYQUtnQzk4QW5ndDNGV3JRRndKWmxmakd5cU5WN3p1NHJyWFFuMVFZOTN4OGxiWV9EalVpODZuSmFPNnZHR0U2NENDSHdxVDBVSVdCTkVYWENwWlp4TlBKVVhSYkdFSTNfV05aY1pzZmRVZ0NZWEZ0eGZib9IB9AFBVV95cUxNQUtMSWJHOWtKMjRVVEdfU0RyQnVqc2FQaGZGZHJIRXlRbkd6bzN1X0dkd2pGZDQ5SG52Q1JEenVvVnFtcFlQV3F6emJKUTEtUEQ4dDZIeFdzREFsdjNSd3pDR0o0TmlXVW1HN3VVQmhFc2FHWTVvOS1hMTJmMmxBOEVmY3BFLXN5NVNiR0xCQ3N6aW1VNzNWZTZzNFBXZnlfbURuMUI1NDlqcXFlcnRINmRVd2FEREtjeGhXczBzVzZ1akMwTEdxaDN2eXg1TVZvMFk4aVd1aGhCUG80R2pOdkN2S3pkZldtUzdtZlFZM0t1NG8w?oc=5)
-
----
-
 ### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
 2026-05-11
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
----
-
-### [Wenn die Kinderlunge pfeift - radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
-
-2026-05-11
-
-來源：[radio schwaben](https://news.google.com/rss/articles/CBMickFVX3lxTE5Ib2NxX20xc0RsTDZDVU5WMkJpYjE4ZHpCWVV6T2NCZEs5Q2hTYVJZZW45cEhUSExiZF9FMjhWdWcxczdaNWd2M0o4ejlJbnczMXRvR044NTktTktMSmtnV2EwTkxEWUdvQWNZd3hKc2RKQQ?oc=5)
 
 ---
 
