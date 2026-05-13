@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（8 則）
+
+### [Australia: Patients of retired dentist asked to test for bloodborne virus](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
+
+2026-05-13 <span class="news-indication-tag">hepatitis</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
+
+---
+
+### [High-intensity exercise can reduce high blood pressure, study finds - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpfeDVGMnp5TVR0SFl5Rlg5SjVCV1dmbjBZTm1Gd0hTQ0YwSGI5OU05eko4N1pKNmg0ck1EZW9BM1dGZFlENm5FTzNkX2lGb0Z5Tm5OaGFrZTlkZzg2T2tlaWxIZExTWU1fNEVHYVVnTDh6dUtpTmNrWHV4d1lVOGRFaDQtaGl3U3FDWTN3eExsVGVTN0Q2MlJSY2xsUWc2dVE?oc=5)
+
+2026-05-13 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpfeDVGMnp5TVR0SFl5Rlg5SjVCV1dmbjBZTm1Gd0hTQ0YwSGI5OU05eko4N1pKNmg0ck1EZW9BM1dGZFlENm5FTzNkX2lGb0Z5Tm5OaGFrZTlkZzg2T2tlaWxIZExTWU1fNEVHYVVnTDh6dUtpTmNrWHV4d1lVOGRFaDQtaGl3U3FDWTN3eExsVGVTN0Q2MlJSY2xsUWc2dVE?oc=5)
+
+---
+
+### [Epatite E nel salame, scatta il richiamo al supermercato: i lotti interessati](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQdIBrwFBVV95cUxOLW9vNFpkYktOdjVMNWxSSXprSi1vTXVCUElWYjdWUlYwNmxZVHBGdWc1Y3pzZ1pBdEoycVV6SEdqNV9hVXBoN01PaE11QXctZEZHVXMtbG5ISDZDY2pBWmYzeGNjY3RJeW10ZVFLcVhiRlRSODVuNHRxLTlBdHRCMXRnSnZGMjVwRWpfQnBRTmVFc2tUUWxobS1lbmttdzZhZmNDRGVGbndWWXMxM0ow?oc=5)
+
+2026-05-13 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[QuiFinanza](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQdIBrwFBVV95cUxOLW9vNFpkYktOdjVMNWxSSXprSi1vTXVCUElWYjdWUlYwNmxZVHBGdWc1Y3pzZ1pBdEoycVV6SEdqNV9hVXBoN01PaE11QXctZEZHVXMtbG5ISDZDY2pBWmYzeGNjY3RJeW10ZVFLcVhiRlRSODVuNHRxLTlBdHRCMXRnSnZGMjVwRWpfQnBRTmVFc2tUUWxobS1lbmttdzZhZmNDRGVGbndWWXMxM0ow?oc=5)
+
+---
 
 ### [La SEH-LELHA alerta: más de 19 millones de españoles sufren hipertensión sin saberlo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkxWREtNNmxvNWQ4c19XVWxrRWtwNjlJVTRxY3JPUkVrRUZpOGJETkFuTWUzRlp0d29sQmVsQ2pRQmZlVlp4LTV1dnRZSThGSEk0ZU5EWWVncTlwdzRHbE83d2kwNmRGMTUtMEg5QUdVUUJPZTFkQU5Cc29sRURENzZKd28wSGVJTjNfM3VXb1lteUF6VlM2T3hFLWs5YmFSRnU4VWRiV3FsdFI1TWRKWGFNTDJwYzNW0gG-AUFVX3lxTE5taExtZk8zYi11OHNUejdvWGpIbXdNSGtFVDdzR2tFUXdBbjhCejBsbERGc2l5M05aaGQwNHlpakdDN0xkRzdTeUc5RjBNdFdhaDlyYU03Z1FIajR0blpnQ3JmXzA1ZUpJOWQ5ay1OdEJGLXBsT1VwZVpKaDl6Yl9yekZ2TkJ0cUFpcE9YM0pzRGJMX3B3dEgzRE5xVGFQMDdPZG1ENG9QYzdOUTdoaDJjVzVUV2RuS1NGU0Z4OXc?oc=5)
 
@@ -83,6 +107,14 @@ permalink: /news/givosiran/
 2026-05-11 <span class="news-indication-tag">hepatitis</span>
 
 來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZWlTMWM4V3dmd05mcTJjdnNHZ204MXlJZ2NUNlV0aVZLTnVnNll4QUxVVjF1OEgxenZ1WjFRYUtvdU0zdnhUSXkwa2QyWTFyaEhEWXJlQm5fTkc4ZlBLeGhXaUR1WlQ0WDVQR3Z1N000bkExZXc?oc=5)
+
+---
+
+### [People urged to get tested for high blood pressure](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+
+來源：[RTE.ie](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
 
 ---
 

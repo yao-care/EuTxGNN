@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### ['Moving away from Portsmouth's air pollution helped my asthma'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wX3VOZ0ZTTUJaaExzOWdVOUtmN0lhak54ZnZHSEEzS0gzMGdIZzZSMmNFSFp4Sm95OElHQTA3Rld1OUp3eUZmOTc0RDJQS1dGN2pyZW8xYTgwQm4w?oc=5)
+
+2026-05-13 <span class="news-indication-tag">asthma</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wX3VOZ0ZTTUJaaExzOWdVOUtmN0lhak54ZnZHSEEzS0gzMGdIZzZSMmNFSFp4Sm95OElHQTA3Rld1OUp3eUZmOTc0RDJQS1dGN2pyZW8xYTgwQm4w?oc=5)
+
+---
+
+### [A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5)
+
+---
+
+### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
+
+2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
+
+---
 
 ### [Frühes Essen als Schlüssel: Neue Strategien gegen Diabetes und Stoffwechselkrankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG1FVlZqTmdQejI5N2RfTE9LNmhjOVg2NHEzMkJDMjdCRVlWS242dVVJc3lLdWt6ZTZoUkZDUGtnUFB1clZTcUowalJxUE5lOFdTU2NFczRJc0paMmpsQkVLUFRBT01QTkhlUTNkNHE2Y3VIUlNrQjZJSzdWa0ZwTG1WOTFRa2hLVWlNR0wzV0dpT2RvYWhzR253WUhXam1CYVh1enRwYzZIRG91ZHlJd3B3?oc=5)
 
@@ -62,19 +86,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Scientists Just Rewrote Biology: “Hidden” Mechanism Could Transform Diabetes Treatment](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGhLenlvdFNRNFptbGEwMk5sdm9NOU5qWFhrNXRXM0pTSlh2ZTJnbHJScDlDV3A0S1hsQkR4OTJKc3dHdVhIR0szc1FoR2N1RVI2a1J4eVZfb3YxS3B6cDFVU1JqaGZpbjhPYWJldVp1SXl6bWlXTDh0c1BWTnlzU2g3NFFaUGczZzJJTkgwemN0VVNYQWM3MVNncmk3Q0ZrQzlLTEhINUxEU0JiaGc?oc=5)
+### [El miedo al hantavirus revive el fantasma del coronavirus: un psicólogo llama a la calma](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1k4QVpST1NKRE5LRHZFbW9yVEp6T0Njb1FEcEFlNnJBMVJlcHhxWUFSRHNtWHhhQUR4eFpRVFBud0d3Y21vcWdpWnoxcWc1dkQ5aTd5Y0Vwa2Y1bzIzdHBQdXpTSllNQWdONEtLbDRaM3RxaS1mTmdvMEZYQUtnQzk4QW5ndDNGV3JRRndKWmxmakd5cU5WN3p1NHJyWFFuMVFZOTN4OGxiWV9EalVpODZuSmFPNnZHR0U2NENDSHdxVDBVSVdCTkVYWENwWlp4TlBKVVhSYkdFSTNfV05aY1pzZmRVZ0NZWEZ0eGZib9IB9AFBVV95cUxNQUtMSWJHOWtKMjRVVEdfU0RyQnVqc2FQaGZGZHJIRXlRbkd6bzN1X0dkd2pGZDQ5SG52Q1JEenVvVnFtcFlQV3F6emJKUTEtUEQ4dDZIeFdzREFsdjNSd3pDR0o0TmlXVW1HN3VVQmhFc2FHWTVvOS1hMTJmMmxBOEVmY3BFLXN5NVNiR0xCQ3N6aW1VNzNWZTZzNFBXZnlfbURuMUI1NDlqcXFlcnRINmRVd2FEREtjeGhXczBzVzZ1akMwTEdxaDN2eXg1TVZvMFk4aVd1aGhCUG80R2pOdkN2S3pkZldtUzdtZlFZM0t1NG8w?oc=5)
 
-2026-05-12 <span class="news-indication-tag">diabetes</span>
+2026-05-12 <span class="news-indication-tag">asma</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGhLenlvdFNRNFptbGEwMk5sdm9NOU5qWFhrNXRXM0pTSlh2ZTJnbHJScDlDV3A0S1hsQkR4OTJKc3dHdVhIR0szc1FoR2N1RVI2a1J4eVZfb3YxS3B6cDFVU1JqaGZpbjhPYWJldVp1SXl6bWlXTDh0c1BWTnlzU2g3NFFaUGczZzJJTkgwemN0VVNYQWM3MVNncmk3Q0ZrQzlLTEhINUxEU0JiaGc?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1k4QVpST1NKRE5LRHZFbW9yVEp6T0Njb1FEcEFlNnJBMVJlcHhxWUFSRHNtWHhhQUR4eFpRVFBud0d3Y21vcWdpWnoxcWc1dkQ5aTd5Y0Vwa2Y1bzIzdHBQdXpTSllNQWdONEtLbDRaM3RxaS1mTmdvMEZYQUtnQzk4QW5ndDNGV3JRRndKWmxmakd5cU5WN3p1NHJyWFFuMVFZOTN4OGxiWV9EalVpODZuSmFPNnZHR0U2NENDSHdxVDBVSVdCTkVYWENwWlp4TlBKVVhSYkdFSTNfV05aY1pzZmRVZ0NZWEZ0eGZib9IB9AFBVV95cUxNQUtMSWJHOWtKMjRVVEdfU0RyQnVqc2FQaGZGZHJIRXlRbkd6bzN1X0dkd2pGZDQ5SG52Q1JEenVvVnFtcFlQV3F6emJKUTEtUEQ4dDZIeFdzREFsdjNSd3pDR0o0TmlXVW1HN3VVQmhFc2FHWTVvOS1hMTJmMmxBOEVmY3BFLXN5NVNiR0xCQ3N6aW1VNzNWZTZzNFBXZnlfbURuMUI1NDlqcXFlcnRINmRVd2FEREtjeGhXczBzVzZ1akMwTEdxaDN2eXg1TVZvMFk4aVd1aGhCUG80R2pOdkN2S3pkZldtUzdtZlFZM0t1NG8w?oc=5)
 
 ---
 
-### [El problema de matar virus a cañonazos - La Vanguardia](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWRPLVR0RXZpY0pFWUNXQTcwZ0IydjAyX2J6N1ZqUk1admc2TU1ObG91VUh5dHFrZHNPN2dWbzJ3YzNFQ2NuX2R5OGtKWndROVNZSmEzN2dnWl9LZGl6aWFQZmwwNjFWWV9NN3ZXY2VOMHJhUURBV2pDSEJBS2FwYnNIUlFSWGJLcDdWZjhtaTbSAZYBQVVfeXFMTUlJX1lBVk5fNWRWZjBEWmFIWHhuY1U5UFB5QXBrZmJYZ2dvd2J0YVQzTzBrUTZhZW5CRi01SG8yaThkaGQxdUlqM1E1TGkzNmFOYnk1bHhEbi1FSjcyc2NwTGZYUkpGUE9XbExkbVN0alp2R1RPcVVDbUlEUWNjZnkxYjZRVmRjSGRGY0ZiTS1hdDZMWDdR?oc=5)
+### [Typ 2 Diabetes – von Beginn an leitliniengerecht behandeln - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lfbDItUXlyZ0k3emhpLUkzeC12TGdVWGFtR2NCbDUzLTJZSnFUZ3pQcXg5cTFnN0Zod2JtZ0lDUkwxRV9jTHROWkpaSXdKYkxLZXRkRFR3ZkJrMVF6MlNnTFVOSVFLNDhJM0lNekQ2WXNlQVktc21rU3Z1UWx6OXRDa0puYXdyanNCbUZpY1ZMQ2RoSGdxR2tEUG8?oc=5)
 
-2026-05-11 <span class="news-indication-tag">asma</span>
+2026-05-12 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWRPLVR0RXZpY0pFWUNXQTcwZ0IydjAyX2J6N1ZqUk1admc2TU1ObG91VUh5dHFrZHNPN2dWbzJ3YzNFQ2NuX2R5OGtKWndROVNZSmEzN2dnWl9LZGl6aWFQZmwwNjFWWV9NN3ZXY2VOMHJhUURBV2pDSEJBS2FwYnNIUlFSWGJLcDdWZjhtaTbSAZYBQVVfeXFMTUlJX1lBVk5fNWRWZjBEWmFIWHhuY1U5UFB5QXBrZmJYZ2dvd2J0YVQzTzBrUTZhZW5CRi01SG8yaThkaGQxdUlqM1E1TGkzNmFOYnk1bHhEbi1FSjcyc2NwTGZYUkpGUE9XbExkbVN0alp2R1RPcVVDbUlEUWNjZnkxYjZRVmRjSGRGY0ZiTS1hdDZMWDdR?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lfbDItUXlyZ0k3emhpLUkzeC12TGdVWGFtR2NCbDUzLTJZSnFUZ3pQcXg5cTFnN0Zod2JtZ0lDUkwxRV9jTHROWkpaSXdKYkxLZXRkRFR3ZkJrMVF6MlNnTFVOSVFLNDhJM0lNekQ2WXNlQVktc21rU3Z1UWx6OXRDa0puYXdyanNCbUZpY1ZMQ2RoSGdxR2tEUG8?oc=5)
 
 ---
 

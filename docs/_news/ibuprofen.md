@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Rheumatoide Arthritis: Spezialisiertes Therapiekonzept für Kinderwunsch verkürzte Zeit bis zur Schwangerschaft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/ibuprofen/
 2026-05-11 <span class="news-indication-tag">arthritis</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
-
----
-
-### ["El ibuprofeno es uno de los peores fármacos para el corazón": la advertencia de un cardiólogo - Noticias de Navarra](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm81cU1VWkNteGFfVjV4QXlLbUdlai1BOHZ1WV9pU3B4MlA5SmI4UFdiWVJRa2hqTmw2RUtpaUoxdzFuSDhFQjJqeWNnWDVSaVd2bnNReW1IQ0t5NXBKcktSOXFqUlRmaUhZeGVQRng5bk8yLUlUeDk4MGdJZkpsYmoweDNfUHRBRGVwcU1iUktySlNiNkdlY21za3AxaHhFcjItM3BhRTNLM2VDc0VLakl5clZ6US1aZThQUTRyRdIBxAFBVV95cUxNRm9SQXlDT204Z0RiR1F3RTNSQVFzYUljOFJ5eGhNanFsd2ZTTjU1ZjNUeS00VGpnYTNldkVCYVdHWU42c3BnWEllTHFXbWlYd2JQN3loMjAxQkVKTU12SXctNW1hYTU1Z2NIV0lET0JZYlNGc0JEMmd2TngyX2R5ZVdYc2s5OG9vSGFySW84VVNJVnV1RF83QUpualRtMFdJUEtlSi1kUllRYk9uajE5eU1OckR0ZlozajBnZDRxMjFEaXY1?oc=5)
-
-2026-05-11 <span class="news-drug-tag">Ibuprofen</span>
-
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm81cU1VWkNteGFfVjV4QXlLbUdlai1BOHZ1WV9pU3B4MlA5SmI4UFdiWVJRa2hqTmw2RUtpaUoxdzFuSDhFQjJqeWNnWDVSaVd2bnNReW1IQ0t5NXBKcktSOXFqUlRmaUhZeGVQRng5bk8yLUlUeDk4MGdJZkpsYmoweDNfUHRBRGVwcU1iUktySlNiNkdlY21za3AxaHhFcjItM3BhRTNLM2VDc0VLakl5clZ6US1aZThQUTRyRdIBxAFBVV95cUxNRm9SQXlDT204Z0RiR1F3RTNSQVFzYUljOFJ5eGhNanFsd2ZTTjU1ZjNUeS00VGpnYTNldkVCYVdHWU42c3BnWEllTHFXbWlYd2JQN3loMjAxQkVKTU12SXctNW1hYTU1Z2NIV0lET0JZYlNGc0JEMmd2TngyX2R5ZVdYc2s5OG9vSGFySW84VVNJVnV1RF83QUpualRtMFdJUEtlSi1kUllRYk9uajE5eU1OckR0ZlozajBnZDRxMjFEaXY1?oc=5)
 
 ---
 

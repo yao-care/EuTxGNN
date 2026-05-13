@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
@@ -54,6 +54,14 @@ permalink: /news/stroke/
 2026-05-12
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
+
+---
+
+### [People urged to get tested for high blood pressure](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
+
+2026-05-11
+
+來源：[RTE.ie](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
 
 ---
 

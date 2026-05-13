@@ -14,7 +14,7 @@ permalink: /news/erenumab/
 ---
 
 <p class="key-answer" data-question="Erenumab 有什麼相關新聞？">
-<strong>Erenumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erenumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/erenumab/
 <p><a href="{{ '/drugs/erenumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Erhöht Migräne das Demenzrisiko? Neue Studie mit verblüffendem Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+
+2026-05-13 <span class="news-indication-tag">Migräne</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+
+---
 
 
 <div class="disclaimer">

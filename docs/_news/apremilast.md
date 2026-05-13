@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="Apremilast 有什麼相關新聞？">
-<strong>Apremilast</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apremilast</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/apremilast/
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
+
+### [Erhöht Migräne das Demenzrisiko? Neue Studie mit verblüffendem Ergebnis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+
+2026-05-13 <span class="news-indication-tag">Migräne</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGVXM1NycUtabm9pWi02UjRSVm5DaGMzbDAwdjBicjVyRHNrTE5UbWZvYjE0UUFiTWJKZG11YXdxeS1Ud29jbmUwM20xWjNXSkhYS3UzM3pTNDB6TWhtaElKcm9oN251d0JidnpEc0lUVjE5eXBlQVc0RmxXUXp0d1FIQmZEM0VfcGtoUU91Q3oxX2RVMGw3SzdjZFItQS0yWnREcXdwcWhhSWlHTlNPS01ZVmJYUVpzYUhMT1ZnUGh2MVAxTDBna1BiNGhYMFFkal8w?oc=5)
+
+---
+
+### [High-intensity exercise can reduce high blood pressure, study finds - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpfeDVGMnp5TVR0SFl5Rlg5SjVCV1dmbjBZTm1Gd0hTQ0YwSGI5OU05eko4N1pKNmg0ck1EZW9BM1dGZFlENm5FTzNkX2lGb0Z5Tm5OaGFrZTlkZzg2T2tlaWxIZExTWU1fNEVHYVVnTDh6dUtpTmNrWHV4d1lVOGRFaDQtaGl3U3FDWTN3eExsVGVTN0Q2MlJSY2xsUWc2dVE?oc=5)
+
+2026-05-13 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpfeDVGMnp5TVR0SFl5Rlg5SjVCV1dmbjBZTm1Gd0hTQ0YwSGI5OU05eko4N1pKNmg0ck1EZW9BM1dGZFlENm5FTzNkX2lGb0Z5Tm5OaGFrZTlkZzg2T2tlaWxIZExTWU1fNEVHYVVnTDh6dUtpTmNrWHV4d1lVOGRFaDQtaGl3U3FDWTN3eExsVGVTN0Q2MlJSY2xsUWc2dVE?oc=5)
+
+---
 
 ### [La SEH-LELHA alerta: más de 19 millones de españoles sufren hipertensión sin saberlo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkxWREtNNmxvNWQ4c19XVWxrRWtwNjlJVTRxY3JPUkVrRUZpOGJETkFuTWUzRlp0d29sQmVsQ2pRQmZlVlp4LTV1dnRZSThGSEk0ZU5EWWVncTlwdzRHbE83d2kwNmRGMTUtMEg5QUdVUUJPZTFkQU5Cc29sRURENzZKd28wSGVJTjNfM3VXb1lteUF6VlM2T3hFLWs5YmFSRnU4VWRiV3FsdFI1TWRKWGFNTDJwYzNW0gG-AUFVX3lxTE5taExtZk8zYi11OHNUejdvWGpIbXdNSGtFVDdzR2tFUXdBbjhCejBsbERGc2l5M05aaGQwNHlpakdDN0xkRzdTeUc5RjBNdFdhaDlyYU03Z1FIajR0blpnQ3JmXzA1ZUpJOWQ5ay1OdEJGLXBsT1VwZVpKaDl6Yl9yekZ2TkJ0cUFpcE9YM0pzRGJMX3B3dEgzRE5xVGFQMDdPZG1ENG9QYzdOUTdoaDJjVzVUV2RuS1NGU0Z4OXc?oc=5)
 
@@ -70,11 +86,11 @@ permalink: /news/apremilast/
 
 ---
 
-### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+### [Aberdeen researchers receive £1.1m to develop heart disease drug](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZ29na2g4T3JrNmVRaHk4MEZqNkpoNXlqMnJJaURyOVViZGsxLWVSOE5qemJLU3J3RjRIVEJQX0d0VEVtVHU3NEliNE9YR2QwLXQ4bktXTjYyY1FM?oc=5)
 
-2026-05-11 <span class="news-indication-tag">heart disease</span>
+2026-05-12 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZ29na2g4T3JrNmVRaHk4MEZqNkpoNXlqMnJJaURyOVViZGsxLWVSOE5qemJLU3J3RjRIVEJQX0d0VEVtVHU3NEliNE9YR2QwLXQ4bktXTjYyY1FM?oc=5)
 
 ---
 
@@ -99,6 +115,14 @@ permalink: /news/apremilast/
 2026-05-11 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMGdGX1ZfVGFoZGZqbFdkZ1FESnZDYlhWdU1tdzhCU01obnZvcGJEak9JWnkwTkhRcmNmRjBFbHZ4LVNCdGR1c3NQNXVxMUdBZFJudmRzbE5PMk5ESVRycmV0dG5wWG1OTkxfLWx3NA?oc=5)
+
+---
+
+### [People urged to get tested for high blood pressure](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
+
+2026-05-11 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+
+來源：[RTE.ie](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
 
 ---
 

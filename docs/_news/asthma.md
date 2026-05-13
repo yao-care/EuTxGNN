@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [El problema de matar virus a cañonazos - La Vanguardia](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWRPLVR0RXZpY0pFWUNXQTcwZ0IydjAyX2J6N1ZqUk1admc2TU1ObG91VUh5dHFrZHNPN2dWbzJ3YzNFQ2NuX2R5OGtKWndROVNZSmEzN2dnWl9LZGl6aWFQZmwwNjFWWV9NN3ZXY2VOMHJhUURBV2pDSEJBS2FwYnNIUlFSWGJLcDdWZjhtaTbSAZYBQVVfeXFMTUlJX1lBVk5fNWRWZjBEWmFIWHhuY1U5UFB5QXBrZmJYZ2dvd2J0YVQzTzBrUTZhZW5CRi01SG8yaThkaGQxdUlqM1E1TGkzNmFOYnk1bHhEbi1FSjcyc2NwTGZYUkpGUE9XbExkbVN0alp2R1RPcVVDbUlEUWNjZnkxYjZRVmRjSGRGY0ZiTS1hdDZMWDdR?oc=5)
+### ['Moving away from Portsmouth's air pollution helped my asthma'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wX3VOZ0ZTTUJaaExzOWdVOUtmN0lhak54ZnZHSEEzS0gzMGdIZzZSMmNFSFp4Sm95OElHQTA3Rld1OUp3eUZmOTc0RDJQS1dGN2pyZW8xYTgwQm4w?oc=5)
 
-2026-05-11
+2026-05-13
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWRPLVR0RXZpY0pFWUNXQTcwZ0IydjAyX2J6N1ZqUk1admc2TU1ObG91VUh5dHFrZHNPN2dWbzJ3YzNFQ2NuX2R5OGtKWndROVNZSmEzN2dnWl9LZGl6aWFQZmwwNjFWWV9NN3ZXY2VOMHJhUURBV2pDSEJBS2FwYnNIUlFSWGJLcDdWZjhtaTbSAZYBQVVfeXFMTUlJX1lBVk5fNWRWZjBEWmFIWHhuY1U5UFB5QXBrZmJYZ2dvd2J0YVQzTzBrUTZhZW5CRi01SG8yaThkaGQxdUlqM1E1TGkzNmFOYnk1bHhEbi1FSjcyc2NwTGZYUkpGUE9XbExkbVN0alp2R1RPcVVDbUlEUWNjZnkxYjZRVmRjSGRGY0ZiTS1hdDZMWDdR?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wX3VOZ0ZTTUJaaExzOWdVOUtmN0lhak54ZnZHSEEzS0gzMGdIZzZSMmNFSFp4Sm95OElHQTA3Rld1OUp3eUZmOTc0RDJQS1dGN2pyZW8xYTgwQm4w?oc=5)
+
+---
+
+### [El miedo al hantavirus revive el fantasma del coronavirus: un psicólogo llama a la calma](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1k4QVpST1NKRE5LRHZFbW9yVEp6T0Njb1FEcEFlNnJBMVJlcHhxWUFSRHNtWHhhQUR4eFpRVFBud0d3Y21vcWdpWnoxcWc1dkQ5aTd5Y0Vwa2Y1bzIzdHBQdXpTSllNQWdONEtLbDRaM3RxaS1mTmdvMEZYQUtnQzk4QW5ndDNGV3JRRndKWmxmakd5cU5WN3p1NHJyWFFuMVFZOTN4OGxiWV9EalVpODZuSmFPNnZHR0U2NENDSHdxVDBVSVdCTkVYWENwWlp4TlBKVVhSYkdFSTNfV05aY1pzZmRVZ0NZWEZ0eGZib9IB9AFBVV95cUxNQUtMSWJHOWtKMjRVVEdfU0RyQnVqc2FQaGZGZHJIRXlRbkd6bzN1X0dkd2pGZDQ5SG52Q1JEenVvVnFtcFlQV3F6emJKUTEtUEQ4dDZIeFdzREFsdjNSd3pDR0o0TmlXVW1HN3VVQmhFc2FHWTVvOS1hMTJmMmxBOEVmY3BFLXN5NVNiR0xCQ3N6aW1VNzNWZTZzNFBXZnlfbURuMUI1NDlqcXFlcnRINmRVd2FEREtjeGhXczBzVzZ1akMwTEdxaDN2eXg1TVZvMFk4aVd1aGhCUG80R2pOdkN2S3pkZldtUzdtZlFZM0t1NG8w?oc=5)
+
+2026-05-12
+
+來源：[COPE](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1k4QVpST1NKRE5LRHZFbW9yVEp6T0Njb1FEcEFlNnJBMVJlcHhxWUFSRHNtWHhhQUR4eFpRVFBud0d3Y21vcWdpWnoxcWc1dkQ5aTd5Y0Vwa2Y1bzIzdHBQdXpTSllNQWdONEtLbDRaM3RxaS1mTmdvMEZYQUtnQzk4QW5ndDNGV3JRRndKWmxmakd5cU5WN3p1NHJyWFFuMVFZOTN4OGxiWV9EalVpODZuSmFPNnZHR0U2NENDSHdxVDBVSVdCTkVYWENwWlp4TlBKVVhSYkdFSTNfV05aY1pzZmRVZ0NZWEZ0eGZib9IB9AFBVV95cUxNQUtMSWJHOWtKMjRVVEdfU0RyQnVqc2FQaGZGZHJIRXlRbkd6bzN1X0dkd2pGZDQ5SG52Q1JEenVvVnFtcFlQV3F6emJKUTEtUEQ4dDZIeFdzREFsdjNSd3pDR0o0TmlXVW1HN3VVQmhFc2FHWTVvOS1hMTJmMmxBOEVmY3BFLXN5NVNiR0xCQ3N6aW1VNzNWZTZzNFBXZnlfbURuMUI1NDlqcXFlcnRINmRVd2FEREtjeGhXczBzVzZ1akMwTEdxaDN2eXg1TVZvMFk4aVd1aGhCUG80R2pOdkN2S3pkZldtUzdtZlFZM0t1NG8w?oc=5)
 
 ---
 

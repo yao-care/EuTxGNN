@@ -54,11 +54,11 @@ permalink: /news/capsaicin/
 
 ## 相關新聞（2 則）
 
-### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+### [Aberdeen researchers receive £1.1m to develop heart disease drug](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZ29na2g4T3JrNmVRaHk4MEZqNkpoNXlqMnJJaURyOVViZGsxLWVSOE5qemJLU3J3RjRIVEJQX0d0VEVtVHU3NEliNE9YR2QwLXQ4bktXTjYyY1FM?oc=5)
 
-2026-05-11 <span class="news-indication-tag">heart disease</span>
+2026-05-12 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZ29na2g4T3JrNmVRaHk4MEZqNkpoNXlqMnJJaURyOVViZGsxLWVSOE5qemJLU3J3RjRIVEJQX0d0VEVtVHU3NEliNE9YR2QwLXQ4bktXTjYyY1FM?oc=5)
 
 ---
 

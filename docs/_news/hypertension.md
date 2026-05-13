@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [High-intensity exercise can reduce high blood pressure, study finds - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpfeDVGMnp5TVR0SFl5Rlg5SjVCV1dmbjBZTm1Gd0hTQ0YwSGI5OU05eko4N1pKNmg0ck1EZW9BM1dGZFlENm5FTzNkX2lGb0Z5Tm5OaGFrZTlkZzg2T2tlaWxIZExTWU1fNEVHYVVnTDh6dUtpTmNrWHV4d1lVOGRFaDQtaGl3U3FDWTN3eExsVGVTN0Q2MlJSY2xsUWc2dVE?oc=5)
+
+2026-05-13
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpfeDVGMnp5TVR0SFl5Rlg5SjVCV1dmbjBZTm1Gd0hTQ0YwSGI5OU05eko4N1pKNmg0ck1EZW9BM1dGZFlENm5FTzNkX2lGb0Z5Tm5OaGFrZTlkZzg2T2tlaWxIZExTWU1fNEVHYVVnTDh6dUtpTmNrWHV4d1lVOGRFaDQtaGl3U3FDWTN3eExsVGVTN0Q2MlJSY2xsUWc2dVE?oc=5)
+
+---
 
 ### [La SEH-LELHA alerta: más de 19 millones de españoles sufren hipertensión sin saberlo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkxWREtNNmxvNWQ4c19XVWxrRWtwNjlJVTRxY3JPUkVrRUZpOGJETkFuTWUzRlp0d29sQmVsQ2pRQmZlVlp4LTV1dnRZSThGSEk0ZU5EWWVncTlwdzRHbE83d2kwNmRGMTUtMEg5QUdVUUJPZTFkQU5Cc29sRURENzZKd28wSGVJTjNfM3VXb1lteUF6VlM2T3hFLWs5YmFSRnU4VWRiV3FsdFI1TWRKWGFNTDJwYzNW0gG-AUFVX3lxTE5taExtZk8zYi11OHNUejdvWGpIbXdNSGtFVDdzR2tFUXdBbjhCejBsbERGc2l5M05aaGQwNHlpakdDN0xkRzdTeUc5RjBNdFdhaDlyYU03Z1FIajR0blpnQ3JmXzA1ZUpJOWQ5ay1OdEJGLXBsT1VwZVpKaDl6Yl9yekZ2TkJ0cUFpcE9YM0pzRGJMX3B3dEgzRE5xVGFQMDdPZG1ENG9QYzdOUTdoaDJjVzVUV2RuS1NGU0Z4OXc?oc=5)
 
@@ -106,6 +114,14 @@ permalink: /news/hypertension/
 2026-05-11
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMGdGX1ZfVGFoZGZqbFdkZ1FESnZDYlhWdU1tdzhCU01obnZvcGJEak9JWnkwTkhRcmNmRjBFbHZ4LVNCdGR1c3NQNXVxMUdBZFJudmRzbE5PMk5ESVRycmV0dG5wWG1OTkxfLWx3NA?oc=5)
+
+---
+
+### [People urged to get tested for high blood pressure](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
+
+2026-05-11
+
+來源：[RTE.ie](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYWtkbkJSeXIxMzJhbVc1MnZTcjA3QmFGRG9SSUJZcWxaSjdkSmJXVWZrblkzMENwc2NwNTN3WDJoMWl6ZjloMWhvY2NJeExKb091eHNmN0E5WDNfMUNxT1lKQ3k0X2p0Q0UzY0hiZUVLR1dzY3VDekZESFlRdw?oc=5)
 
 ---
 

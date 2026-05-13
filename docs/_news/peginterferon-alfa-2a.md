@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（18 則）
 
-### [Hantavirus in Nimwegen: Zwölf Mitarbeiter der Radboud-Klinik in Quarantäne](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXlLemVlU3FROWN6UXIyTHNQbUFNSVdjOFhaVmpvNlI2SmItaHJ5VlcxM3dPY0RPbjMwdVJDTWRmX2lNX1JwVG9CXzNGaEJESUdUU0RjNi1qZGxOV3R4TXl4ZUZkQUY1eTdHSjhkU2QzZ2dtZTFLSHpiUkx0eVEtTl9xZGMxdm9JR0tSTmIwNmE0cVdOSW5QRUx2emZUVGpVcFhvSk1iWXg3WmVDM0s1WncyYkc1blFQQ09ud2IxSkVKMHlhVnpXclVpRFNwUXBjWXJNOUZoV0Q?oc=5)
+### [Australia: Patients of retired dentist asked to test for bloodborne virus](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
 
-2026-05-12 <span class="news-indication-tag">MS</span>
+2026-05-13 <span class="news-indication-tag">hepatitis</span>
 
-來源：[NRZ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXlLemVlU3FROWN6UXIyTHNQbUFNSVdjOFhaVmpvNlI2SmItaHJ5VlcxM3dPY0RPbjMwdVJDTWRmX2lNX1JwVG9CXzNGaEJESUdUU0RjNi1qZGxOV3R4TXl4ZUZkQUY1eTdHSjhkU2QzZ2dtZTFLSHpiUkx0eVEtTl9xZGMxdm9JR0tSTmIwNmE0cVdOSW5QRUx2emZUVGpVcFhvSk1iWXg3WmVDM0s1WncyYkc1blFQQ09ud2IxSkVKMHlhVnpXclVpRFNwUXBjWXJNOUZoV0Q?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
+
+---
+
+### [Hantavirus, última hora en directo: la OMS eleva a 11 los casos positivos y aconseja una cuarentena de 42 días - Diario AS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRGF5eExac0Faa09YTWlXQ2NGZ2xGekIwWTFlYm9YUFJjZ0J2Q0ctVXdWZUVYcVVYUnVVRHMtRXJtZ2ZMN1RDRThJYTZtc2owTXVZdmY3QUtOdDRLNERiTmE4Rk1kYWZLTVpoaW0zUjQ0S082UURQbW1TaS1faE5wczdnYW5jNXdod0l6UV8tNENiVmV6Q2M2QnNHY2hhdW9QVFVCRVBzUm9fdEJPeTYzVUpRMEtkbExtcHlULXJPeWFiakNSMGp4T2VPS01nTE1YZWJMOF9pYW96X0VkdnVUUTJtdzdmRFJ4TUHSAf4BQVVfeXFMT1FyUFVvWnp2R0hKZVQyTlI2Nm1jRWNib2ttQm5LRVoyOGdvcjNPZjFjZmllR2NOZXRXTnhpbEVFNHFsZENKOVFxWmRkenpDS1BNbkZUakptaUI5bUh3cDBqbDFwU2hKUXNtYWh6Qk1LcDJING9Nc0VYRG9fT1VMbUoweGpyWmNHUkVnczk4ZUxLc3NRZkhsNEZmai1kNXBLUFVCRTNDQTVEUDRfWnNBeWJpb1NiMF9pSFliMjhrM21nN1NHT3ZUdW5KMjJxSmlpWS1aVnhfYjRGaEphR1Exb05WTnhVMW9JeEhnYVRiVkg4Z0lTbC1ka3dhSlJYWXc?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRGF5eExac0Faa09YTWlXQ2NGZ2xGekIwWTFlYm9YUFJjZ0J2Q0ctVXdWZUVYcVVYUnVVRHMtRXJtZ2ZMN1RDRThJYTZtc2owTXVZdmY3QUtOdDRLNERiTmE4Rk1kYWZLTVpoaW0zUjQ0S082UURQbW1TaS1faE5wczdnYW5jNXdod0l6UV8tNENiVmV6Q2M2QnNHY2hhdW9QVFVCRVBzUm9fdEJPeTYzVUpRMEtkbExtcHlULXJPeWFiakNSMGp4T2VPS01nTE1YZWJMOF9pYW96X0VkdnVUUTJtdzdmRFJ4TUHSAf4BQVVfeXFMT1FyUFVvWnp2R0hKZVQyTlI2Nm1jRWNib2ttQm5LRVoyOGdvcjNPZjFjZmllR2NOZXRXTnhpbEVFNHFsZENKOVFxWmRkenpDS1BNbkZUakptaUI5bUh3cDBqbDFwU2hKUXNtYWh6Qk1LcDJING9Nc0VYRG9fT1VMbUoweGpyWmNHUkVnczk4ZUxLc3NRZkhsNEZmai1kNXBLUFVCRTNDQTVEUDRfWnNBeWJpb1NiMF9pSFliMjhrM21nN1NHT3ZUdW5KMjJxSmlpWS1aVnhfYjRGaEphR1Exb05WTnhVMW9JeEhnYVRiVkg4Z0lTbC1ka3dhSlJYWXc?oc=5)
+
+---
+
+### [Epatite E nel salame, scatta il richiamo al supermercato: i lotti interessati](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQdIBrwFBVV95cUxOLW9vNFpkYktOdjVMNWxSSXprSi1vTXVCUElWYjdWUlYwNmxZVHBGdWc1Y3pzZ1pBdEoycVV6SEdqNV9hVXBoN01PaE11QXctZEZHVXMtbG5ISDZDY2pBWmYzeGNjY3RJeW10ZVFLcVhiRlRSODVuNHRxLTlBdHRCMXRnSnZGMjVwRWpfQnBRTmVFc2tUUWxobS1lbmttdzZhZmNDRGVGbndWWXMxM0ow?oc=5)
+
+2026-05-13 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[QuiFinanza](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQdIBrwFBVV95cUxOLW9vNFpkYktOdjVMNWxSSXprSi1vTXVCUElWYjdWUlYwNmxZVHBGdWc1Y3pzZ1pBdEoycVV6SEdqNV9hVXBoN01PaE11QXctZEZHVXMtbG5ISDZDY2pBWmYzeGNjY3RJeW10ZVFLcVhiRlRSODVuNHRxLTlBdHRCMXRnSnZGMjVwRWpfQnBRTmVFc2tUUWxobS1lbmttdzZhZmNDRGVGbndWWXMxM0ow?oc=5)
+
+---
+
+### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
+
+2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
 
 ---
 
 ### [French minister says uncertain if hantavirus strain from cruise ship has mutated](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwVkF0X2hYajdiYmFLQ3dMNEZaU0E2Q2E0MU9FbU5pa0R6bXhDZExYbTJGVDFCTkpKeUtINmFlcVRMSFRNX1VwS9IBTkFVX3lxTE5BZjhRQU84M2Ytc1dSV0tLR0drRE1kQ2VZTUJldHdiVHBJX1diOFlRc2traDNfWFFyQ093SmM0Z3pVdkhqck9YOXZKdHZZZw?oc=5)
 
-2026-05-12 <span class="news-indication-tag">MS</span>
+2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwVkF0X2hYajdiYmFLQ3dMNEZaU0E2Q2E0MU9FbU5pa0R6bXhDZExYbTJGVDFCTkpKeUtINmFlcVRMSFRNX1VwS9IBTkFVX3lxTE5BZjhRQU84M2Ytc1dSV0tLR0drRE1kQ2VZTUJldHdiVHBJX1diOFlRc2traDNfWFFyQ093SmM0Z3pVdkhqck9YOXZKdHZZZw?oc=5)
-
----
-
-### [Arts and cultural engagement ‘linked to slower pace of biological ageing’ - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
-
-2026-05-12 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
 
 ---
 
@@ -99,6 +115,22 @@ permalink: /news/peginterferon-alfa-2a/
 2026-05-12 <span class="news-indication-tag">MS</span>
 
 來源：[Men's Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXpaQVhrUHNfX0lpU01aNEJSRks5c0V2Y2tlSzRkSW1DSm9zdm9UWUxLTTBGWU0zVjdUcjJjbUZhSDdfXy1OdnpVYVRYNzFkVWxlaTRwZ0hac1ZHbE5yUFRxdTdWeHJsUm1oRmRYeURPTlU3OS1fWnZlR3lNMHBudVl4bzhENnM?oc=5)
+
+---
+
+### [Visiting museums and reading ‘slow down ageing’ - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOek02QU5taXgwZ3hxSE9CLUMxbm5GcHVSbkdtdzdYM1VVMkE1bFNYVmpVdzFuSXQ5QlJpVlczTGwtaTFxYU93Wk85cnJMR1c3SjU5QW5HYXBvUUhkc05LU0hYUno5VWVTakIwU3M4Vm9MM1RnTUZfN0FjRFFxbElObDZoX0lfSGhOOU5hcjVlbw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOek02QU5taXgwZ3hxSE9CLUMxbm5GcHVSbkdtdzdYM1VVMkE1bFNYVmpVdzFuSXQ5QlJpVlczTGwtaTFxYU93Wk85cnJMR1c3SjU5QW5HYXBvUUhkc05LU0hYUno5VWVTakIwU3M4Vm9MM1RnTUZfN0FjRFFxbElObDZoX0lfSGhOOU5hcjVlbw?oc=5)
+
+---
+
+### [Zimbabwe reassures public as health workers repatriated after hantavirus exposure](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkNKU3hxbExEdmFzYXV2Yjh0dHBsUDE1SFJudzNvTExpV3Vab19rY2Etd2NHTnZkM1RsVHljMnRwR01sTnlFckZ1VXdPRHh5QWxRS0pmTlhhUm1DbmVwNUJlLWFsQ2NzVUc4UUFXUXhKODY4V1lsRHJUandLSnVYQWt5VjAtS3pXcUFreTlHeGthZkllNlNOSy0tNEh2TlY3Uy1XSDFFR1B4NV9RQ3dj?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[NewZimbabwe.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkNKU3hxbExEdmFzYXV2Yjh0dHBsUDE1SFJudzNvTExpV3Vab19rY2Etd2NHTnZkM1RsVHljMnRwR01sTnlFckZ1VXdPRHh5QWxRS0pmTlhhUm1DbmVwNUJlLWFsQ2NzVUc4UUFXUXhKODY4V1lsRHJUandLSnVYQWt5VjAtS3pXcUFreTlHeGthZkllNlNOSy0tNEh2TlY3Uy1XSDFFR1B4NV9RQ3dj?oc=5)
 
 ---
 
@@ -150,11 +182,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [RNA-Therapie bremst krankhafte Umbauprozesse nach Herzinfarkt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
+### [RNA-Therapie bremst krankhafte Umbauprozesse nach Herzinfarkt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DMTEwX0JzaExxdDE2WTRnNFJHZ2xVVVlRWnJhV25uUlVpMWxBUVhOeXdXVDZzN3FpekR4OU5fYTJBVWc?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvTzVjV0l0aHR6LU1tb1VyZkl5TmwzcjNkY2Zid2NBaXA2Z3UwQndrMDNlWGlxNHhiZHNvOHA4M09uMFFNZ201YWpnRQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DMTEwX0JzaExxdDE2WTRnNFJHZ2xVVVlRWnJhV25uUlVpMWxBUVhOeXdXVDZzN3FpekR4OU5fYTJBVWc?oc=5)
 
 ---
 
@@ -163,14 +195,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-05-11 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1pkSGVkOVBTOFVidzdoVmJ0eng0c1NvX2tNS3ZFOWJsOWJKRHp4cmM4endMM0lGS0RoZmg1UWpRT0FkOV9PU0pEVVpRT1RvczZqYUxhNHUxazdUSm0zcnp1Njh3OE16enB3NXNoLVNEMUZIX0dfS3FXV0pnWHljMnpCN29lX0puZFQ0MHVGS09lVjViTXJ4eW9JQjJZeVFVN09zVjhhbzlOelFfU1JDT0wyVVVIeUU?oc=5)
-
----
-
-### [Watford General Hospital robot surgery leads to faster recovery](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56aGE5Nk1yODhxMVJ2a19SaURYSTFPNkY5YkV0czd2QW1JZzN3dGcxa1BhTmhpdVRqampCZUlwMWxlZXNKc29pUDVEMDAzcDhUd0EtSDgyaFFMaWtk?oc=5)
-
-2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56aGE5Nk1yODhxMVJ2a19SaURYSTFPNkY5YkV0czd2QW1JZzN3dGcxa1BhTmhpdVRqampCZUlwMWxlZXNKc29pUDVEMDAzcDhUd0EtSDgyaFFMaWtk?oc=5)
 
 ---
 
