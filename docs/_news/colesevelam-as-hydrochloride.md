@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Frühes Essen als Schlüssel: Neue Strategien gegen Diabetes und Stoffwechselkrankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG1FVlZqTmdQejI5N2RfTE9LNmhjOVg2NHEzMkJDMjdCRVlWS242dVVJc3lLdWt6ZTZoUkZDUGtnUFB1clZTcUowalJxUE5lOFdTU2NFczRJc0paMmpsQkVLUFRBT01QTkhlUTNkNHE2Y3VIUlNrQjZJSzdWa0ZwTG1WOTFRa2hLVWlNR0wzV0dpT2RvYWhzR253WUhXam1CYVh1enRwYzZIRG91ZHlJd3B3?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-05-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGhLenlvdFNRNFptbGEwMk5sdm9NOU5qWFhrNXRXM0pTSlh2ZTJnbHJScDlDV3A0S1hsQkR4OTJKc3dHdVhIR0szc1FoR2N1RVI2a1J4eVZfb3YxS3B6cDFVU1JqaGZpbjhPYWJldVp1SXl6bWlXTDh0c1BWTnlzU2g3NFFaUGczZzJJTkgwemN0VVNYQWM3MVNncmk3Q0ZrQzlLTEhINUxEU0JiaGc?oc=5)
+
+---
+
+### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+
+2026-05-11 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
 
 ---
 

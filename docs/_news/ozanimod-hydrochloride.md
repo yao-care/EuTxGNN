@@ -14,7 +14,7 @@ permalink: /news/ozanimod-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ozanimod Hydrochloride 有什麼相關新聞？">
-<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/ozanimod-hydrochloride/
 <p><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（23 則）
 
-### [Wie gefährlich sind Aluminiumsalze in Impfstoffen? - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
+### [Businesswoman battling cancer says hardest thing is being self-employed and sick - Donegal Daily](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXZ2UU1HVTJFdmpLelRfeGVlZWQ4YkZ3TDJOM2lhSHJhOTU1ZFV1Z0xLUGNsTVRpTG5uNEFrcHA3LWxieERWeFhINDRmaFJMX3BTR3JZcGtDVWlvUGRhcVNlY3pqdEQtRDU0Yi14c2ZDTkdScW42MGxYSU1zNC1KRklDMTBFbnluVDZwR1dRamhzYW53a2ZBUlFrVkFXbjdRSlNyVG5wVHdxSm9zNXFYZXUteG9zcFFIRHhtbmFTaXc?oc=5)
+
+2026-05-12 <span class="news-indication-tag">cancer</span>
+
+來源：[Donegal Daily](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXZ2UU1HVTJFdmpLelRfeGVlZWQ4YkZ3TDJOM2lhSHJhOTU1ZFV1Z0xLUGNsTVRpTG5uNEFrcHA3LWxieERWeFhINDRmaFJMX3BTR3JZcGtDVWlvUGRhcVNlY3pqdEQtRDU0Yi14c2ZDTkdScW42MGxYSU1zNC1KRklDMTBFbnluVDZwR1dRamhzYW53a2ZBUlFrVkFXbjdRSlNyVG5wVHdxSm9zNXFYZXUteG9zcFFIRHhtbmFTaXc?oc=5)
+
+---
+
+### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+2026-05-12 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+---
+
+### [Hantavirus in Nimwegen: Zwölf Mitarbeiter der Radboud-Klinik in Quarantäne](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXlLemVlU3FROWN6UXIyTHNQbUFNSVdjOFhaVmpvNlI2SmItaHJ5VlcxM3dPY0RPbjMwdVJDTWRmX2lNX1JwVG9CXzNGaEJESUdUU0RjNi1qZGxOV3R4TXl4ZUZkQUY1eTdHSjhkU2QzZ2dtZTFLSHpiUkx0eVEtTl9xZGMxdm9JR0tSTmIwNmE0cVdOSW5QRUx2emZUVGpVcFhvSk1iWXg3WmVDM0s1WncyYkc1blFQQ09ud2IxSkVKMHlhVnpXclVpRFNwUXBjWXJNOUZoV0Q?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[NRZ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXlLemVlU3FROWN6UXIyTHNQbUFNSVdjOFhaVmpvNlI2SmItaHJ5VlcxM3dPY0RPbjMwdVJDTWRmX2lNX1JwVG9CXzNGaEJESUdUU0RjNi1qZGxOV3R4TXl4ZUZkQUY1eTdHSjhkU2QzZ2dtZTFLSHpiUkx0eVEtTl9xZGMxdm9JR0tSTmIwNmE0cVdOSW5QRUx2emZUVGpVcFhvSk1iWXg3WmVDM0s1WncyYkc1blFQQ09ud2IxSkVKMHlhVnpXclVpRFNwUXBjWXJNOUZoV0Q?oc=5)
+
+---
+
+### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
+
+2026-05-12 <span class="news-indication-tag">cancer</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
+
+---
+
+### [French minister says uncertain if hantavirus strain from cruise ship has mutated](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwVkF0X2hYajdiYmFLQ3dMNEZaU0E2Q2E0MU9FbU5pa0R6bXhDZExYbTJGVDFCTkpKeUtINmFlcVRMSFRNX1VwS9IBTkFVX3lxTE5BZjhRQU84M2Ytc1dSV0tLR0drRE1kQ2VZTUJldHdiVHBJX1diOFlRc2traDNfWFFyQ093SmM0Z3pVdkhqck9YOXZKdHZZZw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwVkF0X2hYajdiYmFLQ3dMNEZaU0E2Q2E0MU9FbU5pa0R6bXhDZExYbTJGVDFCTkpKeUtINmFlcVRMSFRNX1VwS9IBTkFVX3lxTE5BZjhRQU84M2Ytc1dSV0tLR0drRE1kQ2VZTUJldHdiVHBJX1diOFlRc2traDNfWFFyQ093SmM0Z3pVdkhqck9YOXZKdHZZZw?oc=5)
+
+---
+
+### [Arts and cultural engagement ‘linked to slower pace of biological ageing’ - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHlGQzRBanVZQ1pia0lDcHZuZF9PRURYRzBFYWI4bGpWallfZ0xGTjVHeV9Rak9FWnVEYnhPcTFJQjBWcE5PRG55dlp3NzZuNTE0RVdRQ3h3NVN4WUx2UTNqeDR1LW9uRDRnRmZhVDMwREE5QnJTSEZLVVJwWm12VkNOeVptTU8wcFN2SUI4azdQSlBXNWRIVFpwdFVMbm9SaEE0dVJDQXMyYzM2YTZ5UGJ6UlBaVHFROS1oSXdjWQ?oc=5)
+
+---
+
+### [Italian man, 25, latest suspected hantavirus case after travelling on flight alongside woman who later died](https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlNjdG9oLU0xeFNVWElGVXpncUMxVWVWQWlUa0Q1ckMxdWhQaDRCRDIxMUk3SjhNVUczMkF0TEtiSElHVXphSWp6Mjk5Q0VnejVoYVVTV0RLc1lqU0pmT3ZOQ3RVbFVBNjlBSDZfU05OY2dFTldham1kOXZOYTRlUXlRaUJGcEVhVGJWaTBEZnRCeFJnOVE?oc=5)
 
 2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
+來源：[lbc.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlNjdG9oLU0xeFNVWElGVXpncUMxVWVWQWlUa0Q1ckMxdWhQaDRCRDIxMUk3SjhNVUczMkF0TEtiSElHVXphSWp6Mjk5Q0VnejVoYVVTV0RLc1lqU0pmT3ZOQ3RVbFVBNjlBSDZfU05OY2dFTldham1kOXZOYTRlUXlRaUJGcEVhVGJWaTBEZnRCeFJnOVE?oc=5)
 
 ---
 
@@ -70,11 +118,19 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### ["Mascherine? La cosa più importante ora è la sorveglianza" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMihAJBVV95cUxPTkNScklWX0hoUnhpNGRCejU3bDYzS2dwcktwOXEzNzF0RFNzUXhscHhyMHhzZFdPYVBWODJaelpDcnZfYXJyc1NLZEdONFBnVzBLSVJnZEU3OTNUY1J6Mkx0LW91UG1OemJ3OG4tTHY1bm5IcndrOGx2aE5USDdEUXFyRzlabFJYRkJxQTRYOEZnV2JzQWxIcUxMc2VPTXhTN1ZMeGVMc2hqVkRyTVNEa25XMThKM1g4d0lMaFQxZ1hPV19yYzRFZXpzaHYxZFJKOExnMHJoRklBUzRLNU1fUFBKbjFhdkFibkhfZjlxTUdzbHdraXU2NTYxZ2ZvU2hBamcwMw?oc=5)
+### [Wie gefährlich sind Aluminiumsalze in Impfstoffen? - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
 
 2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMihAJBVV95cUxPTkNScklWX0hoUnhpNGRCejU3bDYzS2dwcktwOXEzNzF0RFNzUXhscHhyMHhzZFdPYVBWODJaelpDcnZfYXJyc1NLZEdONFBnVzBLSVJnZEU3OTNUY1J6Mkx0LW91UG1OemJ3OG4tTHY1bm5IcndrOGx2aE5USDdEUXFyRzlabFJYRkJxQTRYOEZnV2JzQWxIcUxMc2VPTXhTN1ZMeGVMc2hqVkRyTVNEa25XMThKM1g4d0lMaFQxZ1hPV19yYzRFZXpzaHYxZFJKOExnMHJoRklBUzRLNU1fUFBKbjFhdkFibkhfZjlxTUdzbHdraXU2NTYxZ2ZvU2hBamcwMw?oc=5)
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
+
+---
+
+### [The Science on Creatine Dosage Is Shifting – Here’s How Many Grams You Should Take - Men's Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXpaQVhrUHNfX0lpU01aNEJSRks5c0V2Y2tlSzRkSW1DSm9zdm9UWUxLTTBGWU0zVjdUcjJjbUZhSDdfXy1OdnpVYVRYNzFkVWxlaTRwZ0hac1ZHbE5yUFRxdTdWeHJsUm1oRmRYeURPTlU3OS1fWnZlR3lNMHBudVl4bzhENnM?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span>
+
+來源：[Men's Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXpaQVhrUHNfX0lpU01aNEJSRks5c0V2Y2tlSzRkSW1DSm9zdm9UWUxLTTBGWU0zVjdUcjJjbUZhSDdfXy1OdnpVYVRYNzFkVWxlaTRwZ0hac1ZHbE5yUFRxdTdWeHJsUm1oRmRYeURPTlU3OS1fWnZlR3lNMHBudVl4bzhENnM?oc=5)
 
 ---
 
@@ -86,11 +142,19 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Visiting museums and reading ‘slow down ageing’ - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOek02QU5taXgwZ3hxSE9CLUMxbm5GcHVSbkdtdzdYM1VVMkE1bFNYVmpVdzFuSXQ5QlJpVlczTGwtaTFxYU93Wk85cnJMR1c3SjU5QW5HYXBvUUhkc05LU0hYUno5VWVTakIwU3M4Vm9MM1RnTUZfN0FjRFFxbElObDZoX0lfSGhOOU5hcjVlbw?oc=5)
+### [Portrush farmer who survived heart attack warns of ‘silent killer’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnVMNmNSdy1sckRKeC1MdUoxTFFWRUFjRWFZeC1ZRnBQaHVvekRfTThGUGpfVnI2YUk0aFN5TXhxRUtNbXA2cktWNDhzejdPNk5RUVJ4UkxaYVg2OWllekJtcGhzX01YTkFNMUppSzVYYThtV1lDNHYxR1ZNQUhQa2J1cUFiUVRjRXphMXhJS0U4bGFuV25OWkhwS25VM1JHYzJSTVBXY2p6UURnUXlqcUxpa09vWVRZSS1ROTNzQS1RRXpsYXdNREVCNDNWWFMzNFhZSQ?oc=5)
 
 2026-05-12 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOek02QU5taXgwZ3hxSE9CLUMxbm5GcHVSbkdtdzdYM1VVMkE1bFNYVmpVdzFuSXQ5QlJpVlczTGwtaTFxYU93Wk85cnJMR1c3SjU5QW5HYXBvUUhkc05LU0hYUno5VWVTakIwU3M4Vm9MM1RnTUZfN0FjRFFxbElObDZoX0lfSGhOOU5hcjVlbw?oc=5)
+來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnVMNmNSdy1sckRKeC1MdUoxTFFWRUFjRWFZeC1ZRnBQaHVvekRfTThGUGpfVnI2YUk0aFN5TXhxRUtNbXA2cktWNDhzejdPNk5RUVJ4UkxaYVg2OWllekJtcGhzX01YTkFNMUppSzVYYThtV1lDNHYxR1ZNQUhQa2J1cUFiUVRjRXphMXhJS0U4bGFuV25OWkhwS25VM1JHYzJSTVBXY2p6UURnUXlqcUxpa09vWVRZSS1ROTNzQS1RRXpsYXdNREVCNDNWWFMzNFhZSQ?oc=5)
+
+---
+
+### [Long daytime naps may be an early warning sign in older adults](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
+
+2026-05-11 <span class="news-indication-tag">MS</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
 
 ---
 
@@ -110,19 +174,19 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Long daytime naps may be an early warning sign in older adults](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
-
-2026-05-11 <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
-
----
-
 ### [‘I’m a doctor - here are 7 simple ways to beat hay fever' - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3MwRjZub1hybjhnSklVNzExWGMwcGFXX3oxemdERkhBbXg3ZUdfQ0o0VzJFQUJGaTl1TUxJc0tKN2VZZjZibG9HSmpSWUVqN2tVWUNGWDh1amRXZ2pqN0xBdnE4S3hKMGE0OFZTR2xHcGVvdzhMV0ZrTXN2eGdpcUhsZUtQVG1tclR2TFI0UGHSAZYBQVVfeXFMT3RqUHItLWxiTGpqaEMtanQzTWFvOFNZaFZmVnkzYkQxQUVaMUtBc2I2SmxNVmVnUzVxNlFuNG4wOXY1c1o5WXZsWWhtajZNWnE5V3pCWDNTaks0Z2pGMF93a0NHVGVUbDhKdTRFRnFndkVXRERlYlVMbDBDT0xuUlAtQUctdDI0RWF4cjRHVVdhaTgwSmR3?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3MwRjZub1hybjhnSklVNzExWGMwcGFXX3oxemdERkhBbXg3ZUdfQ0o0VzJFQUJGaTl1TUxJc0tKN2VZZjZibG9HSmpSWUVqN2tVWUNGWDh1amRXZ2pqN0xBdnE4S3hKMGE0OFZTR2xHcGVvdzhMV0ZrTXN2eGdpcUhsZUtQVG1tclR2TFI0UGHSAZYBQVVfeXFMT3RqUHItLWxiTGpqaEMtanQzTWFvOFNZaFZmVnkzYkQxQUVaMUtBc2I2SmxNVmVnUzVxNlFuNG4wOXY1c1o5WXZsWWhtajZNWnE5V3pCWDNTaks0Z2pGMF93a0NHVGVUbDhKdTRFRnFndkVXRERlYlVMbDBDT0xuUlAtQUctdDI0RWF4cjRHVVdhaTgwSmR3?oc=5)
+
+---
+
+### [Cancer risk warning as doctor confirms 'no safe' level of popular drink - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
+
+2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUxUQlg2MXlvVjkxMnEwdWxDTUhWWTloQ01DUE11Q21jTEh3SjE3NnJsdGxZbzU4T1VaWVZQYzVmMjJfVVZoZERRWXQ5Wk9ueXF1cnZyWElqdUVxZ1V0TWFWYmRPaExnb0JfSTVOYzJ6TlBYWUJkOHVza1paNDRTVVhZWHpacVIwZUU5djdKRdIBlAFBVV95cUxPVTgxUzU0dzRkMTl4dVlTRTlqV3RGcXFLR1Y5QW91U3BJc0FEeTExUGpxVlBwcVRQZ3B3TG02RzJsRjA1ZUJDMWVYeHozVl91YUhOazBMRVdHM1MtcXNzc1kwZUFpLUJ0aFQ0RWVfME95WDBVX1FsTmV0N0d2SVlqWXZwRnlpVVZJWnVIcnBhUUNqbVMt?oc=5)
 
 ---
 
@@ -158,14 +222,6 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### ['It's heartbreaking to lose loved ones to dementia'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
-
-2026-05-11 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhd3c5S1ZyRWhkRnhjT3RuM1huLXdHR1hUUjl2V1JDQ3Vsdm5jUFFDQ2JaNTNCRjlKM2FMRWdSZmROVzRvcjNfUWxQSWJBZ25FbkJ0dVN3YURVS2JZ?oc=5)
-
----
-
 ### [Watford General Hospital robot surgery leads to faster recovery](https://news.google.com/rss/articles/CBMiXEFVX3lxTE56aGE5Nk1yODhxMVJ2a19SaURYSTFPNkY5YkV0czd2QW1JZzN3dGcxa1BhTmhpdVRqampCZUlwMWxlZXNKc29pUDVEMDAzcDhUd0EtSDgyaFFMaWtk?oc=5)
 
 2026-05-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -174,19 +230,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Kent mum takes on 200km walk after daughter's brain tumour](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNTV4aGVBLUItQV9WOUJvcVFlX2IxRWZlMVpjdjkzbzVtM2wxeGpPYXVKY1UzcTdIWE5SbldCY2ZqTjNGZnBldVJ0bXBpaGhqYmN5ejRlLTRRb3Zq?oc=5)
+### [Mum's 'intuition' told her something was wrong after seeing photo of her daughter - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUpCNDFQcFM2MVJLWG9FSnNBanltWHZxTlRreHJRNkhfOThsM0duRWJ4RzdfcmU2bURuSkE3OHNQNXY1S2FuWnRqd0FQNDFQX1ZaRVZ5a2Q5LUFkQjVIbkl0Q3JabDBYRjhrcWJ4a3dPblJOTGdnVks3STRvOW1PNHpwaHRZbzdl0gGOAUFVX3lxTFBKZzIyN0tMRGZ0eWFrNFNCT2hXS0QtckRFaFI4c1ZscWM4cWNiUEk1a1FSWlllMEZPZHY5MUtCRGdzVy03T3BaRnlRWkxxVmoxSTIxMF9vQ21VQ1FEa3p1X3dRbjgtcWx4UEdhR0pUeU5kQnE5X2VVMEtqOU9nM0FnNEt5OVl3R3B2dm1kSFE?oc=5)
 
-2026-05-11 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
+2026-05-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uNTV4aGVBLUItQV9WOUJvcVFlX2IxRWZlMVpjdjkzbzVtM2wxeGpPYXVKY1UzcTdIWE5SbldCY2ZqTjNGZnBldVJ0bXBpaGhqYmN5ejRlLTRRb3Zq?oc=5)
-
----
-
-### [Tourist hotspot at 'end of the world' denies causing hantavirus outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSbXVMc1B2Umx4S2RVbkV5T0xiZm8yUk5GSC1OSEN0SFlUdlYyX01leXU1NjZvNzVLOER3RXZScmphd1I2WHVnLUpGa0U5aGNGUXpiTHdqMHBOaHNr?oc=5)
-
-2026-05-10 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSbXVMc1B2Umx4S2RVbkV5T0xiZm8yUk5GSC1OSEN0SFlUdlYyX01leXU1NjZvNzVLOER3RXZScmphd1I2WHVnLUpGa0U5aGNGUXpiTHdqMHBOaHNr?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUpCNDFQcFM2MVJLWG9FSnNBanltWHZxTlRreHJRNkhfOThsM0duRWJ4RzdfcmU2bURuSkE3OHNQNXY1S2FuWnRqd0FQNDFQX1ZaRVZ5a2Q5LUFkQjVIbkl0Q3JabDBYRjhrcWJ4a3dPblJOTGdnVks3STRvOW1PNHpwaHRZbzdl0gGOAUFVX3lxTFBKZzIyN0tMRGZ0eWFrNFNCT2hXS0QtckRFaFI4c1ZscWM4cWNiUEk1a1FSWlllMEZPZHY5MUtCRGdzVy03T3BaRnlRWkxxVmoxSTIxMF9vQ21VQ1FEa3p1X3dRbjgtcWx4UEdhR0pUeU5kQnE5X2VVMEtqOU9nM0FnNEt5OVl3R3B2dm1kSFE?oc=5)
 
 ---
 

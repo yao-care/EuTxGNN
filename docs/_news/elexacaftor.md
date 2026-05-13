@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [El consumo de probióticos pueden mejorar el control de la hipertensión arterial, según un estudio del ibs.Granada - El Independiente de Granada](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbE1iLWU0YlB3ZmJFMW1RRm1yNTBiNE9YZkRlc0E3VnJpX1dUZ2ZNeHRqQkdmRW9HTHR6VUJJV1JWV1ZpTjVlVVh0bUJoR2IxbmZna3RjZS1WTEhERkNTNzBFblU4WjZTZThPRXlFdThpcUFhcjR6V29uUE9mZ1JiS0NZREFsT3g1a2ZUVlFUXzAzeHBad3dtaFRsM18yaGdXaVA2dFpjN2hXWFdGWXZpemRFQ2dTZkhMTHRNS0hPenRZREdnaHVyQ1JOV2RidDhVX2M4eQ?oc=5)
-
-2026-05-12 <span class="news-indication-tag">hipertensión</span>
-
-來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbE1iLWU0YlB3ZmJFMW1RRm1yNTBiNE9YZkRlc0E3VnJpX1dUZ2ZNeHRqQkdmRW9HTHR6VUJJV1JWV1ZpTjVlVVh0bUJoR2IxbmZna3RjZS1WTEhERkNTNzBFblU4WjZTZThPRXlFdThpcUFhcjR6V29uUE9mZ1JiS0NZREFsT3g1a2ZUVlFUXzAzeHBad3dtaFRsM18yaGdXaVA2dFpjN2hXWFdGWXZpemRFQ2dTZkhMTHRNS0hPenRZREdnaHVyQ1JOV2RidDhVX2M4eQ?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [La SEH-LELHA alerta: más de 19 millones de españoles sufren hipertensión sin saberlo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkxWREtNNmxvNWQ4c19XVWxrRWtwNjlJVTRxY3JPUkVrRUZpOGJETkFuTWUzRlp0d29sQmVsQ2pRQmZlVlp4LTV1dnRZSThGSEk0ZU5EWWVncTlwdzRHbE83d2kwNmRGMTUtMEg5QUdVUUJPZTFkQU5Cc29sRURENzZKd28wSGVJTjNfM3VXb1lteUF6VlM2T3hFLWs5YmFSRnU4VWRiV3FsdFI1TWRKWGFNTDJwYzNW0gG-AUFVX3lxTE5taExtZk8zYi11OHNUejdvWGpIbXdNSGtFVDdzR2tFUXdBbjhCejBsbERGc2l5M05aaGQwNHlpakdDN0xkRzdTeUc5RjBNdFdhaDlyYU03Z1FIajR0blpnQ3JmXzA1ZUpJOWQ5ay1OdEJGLXBsT1VwZVpKaDl6Yl9yekZ2TkJ0cUFpcE9YM0pzRGJMX3B3dEgzRE5xVGFQMDdPZG1ENG9QYzdOUTdoaDJjVzVUV2RuS1NGU0Z4OXc?oc=5)
 
@@ -78,6 +70,14 @@ permalink: /news/elexacaftor/
 
 ---
 
+### [This Is the Best Type of Exercise for Knee Pain From Arthritis, According to Scientists](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
+
+2026-05-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
+
+---
+
 ### [Neue Leitlinien: Isometrisches Training senkt Bluthochdruck effektiver als Joggen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3FsMXVvNW9ybXk4cExTcks0eW9qc1hsZC0xOGdvLVNHQ0VGdHIxaUpxamxVdzVnb0pSOG1HR2JuX0w1Q3BFT3FGaFloMHN1bTN3alFBamRTRU96amN5ekVjLUxSMEoxSzRNcnh6a05lSmFVdFdsSmUtWXo4OFBWTWJ4SmtDQWxxclljME1zT1poU1dfNmhCcE9nMzFlRXd3OFBacFlHNV90WHBkSGV0X1Y0d3oxRGYtVUE1bVVNdw?oc=5)
 
 2026-05-11 <span class="news-indication-tag">Bluthochdruck</span>
@@ -91,14 +91,6 @@ permalink: /news/elexacaftor/
 2026-05-11 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMGdGX1ZfVGFoZGZqbFdkZ1FESnZDYlhWdU1tdzhCU01obnZvcGJEak9JWnkwTkhRcmNmRjBFbHZ4LVNCdGR1c3NQNXVxMUdBZFJudmRzbE5PMk5ESVRycmV0dG5wWG1OTkxfLWx3NA?oc=5)
-
----
-
-### [This Is the Best Type of Exercise for Knee Pain From Arthritis, According to Scientists](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
-
-2026-05-11 <span class="news-indication-tag">arthritis</span>
-
-來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epatite（hepatitis） 相關新聞"
+title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# epatite（hepatitis） 相關新聞
+# hepatitis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hepatitis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -53,15 +53,7 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Fegatelli richiamati per rischio epatite E: l'allerta del Ministero della Salute. Il lotto interessato](https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2s5Xzd2OXh3dnc5eGxpMm5BSGhsc3NUclhPX3NzVHFtTGtHV2llWHRNcEVTZVExa1dRcVFHWjlLazROSTZ0dGVrX1g5VkFPODJzU3ctV1E5S1VEVEExWGlWRVV2SDY2NGo1eFo3a00xeUFzSHVaemFpVzFkVjJKYU9uTmo0V3Z4U2RmQkhtbWVyaDBYVUk1TkZWaTQydTdwWFpHWndoUllEVjQyNTc0d0MxRjlfclVSUWdkYllXdzEzMlhSNTd6WHZPRV95UQ?oc=5)
-
-2026-05-12
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2s5Xzd2OXh3dnc5eGxpMm5BSGhsc3NUclhPX3NzVHFtTGtHV2llWHRNcEVTZVExa1dRcVFHWjlLazROSTZ0dGVrX1g5VkFPODJzU3ctV1E5S1VEVEExWGlWRVV2SDY2NGo1eFo3a00xeUFzSHVaemFpVzFkVjJKYU9uTmo0V3Z4U2RmQkhtbWVyaDBYVUk1TkZWaTQydTdwWFpHWndoUllEVjQyNTc0d0MxRjlfclVSUWdkYllXdzEzMlhSNTd6WHZPRV95UQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [CRISPR-System hemmt Hepatitis-E-Virus - MedEcon Ruhr](https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZWlTMWM4V3dmd05mcTJjdnNHZ204MXlJZ2NUNlV0aVZLTnVnNll4QUxVVjF1OEgxenZ1WjFRYUtvdU0zdnhUSXkwa2QyWTFyaEhEWXJlQm5fTkc4ZlBLeGhXaUR1WlQ0WDVQR3Z1N000bkExZXc?oc=5)
 

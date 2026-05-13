@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Capsaicin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+
+2026-05-11 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+
+---
 
 ### [Forschung schreitet voran – Herzerkrankungen: Innovative Therapien geben Hoffnung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVm1DRUZkT2FlU2k5UVRLOGI1VVc3OVZXeEU4ZzhsNGJqdjdfYlp1UmFmM1ZxWTBENDcxSEtJYm1qUS02ZFBKYUFidTRBcnpkVE9ZdzY3blhGbHItckhDa0R3WlJ2U3hoNjdraFpLdlhGQnVqbFdGcm9VRjRTMnBpS1hpcmIyOVRzOW9OemNB?oc=5)
 

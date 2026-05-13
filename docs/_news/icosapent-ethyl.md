@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Rheumatoide Arthritis: Spezialisiertes Therapiekonzept für Kinderwunsch verkürzte Zeit bis zur Schwangerschaft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
 
 2026-05-12 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
+
+---
+
+### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+
+2026-05-11 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
 
 ---
 

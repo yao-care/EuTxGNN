@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
+
+2026-05-13 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
+
+---
+
+### [Hidden Heart Risk Found in 1 in 5 People, Study Warns](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
+
+2026-05-12 <span class="news-indication-tag">stroke</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
+
+---
 
 
 <div class="disclaimer">

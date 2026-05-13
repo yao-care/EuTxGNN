@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
-### [El consumo de probióticos pueden mejorar el control de la hipertensión arterial, según un estudio del ibs.Granada - El Independiente de Granada](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbE1iLWU0YlB3ZmJFMW1RRm1yNTBiNE9YZkRlc0E3VnJpX1dUZ2ZNeHRqQkdmRW9HTHR6VUJJV1JWV1ZpTjVlVVh0bUJoR2IxbmZna3RjZS1WTEhERkNTNzBFblU4WjZTZThPRXlFdThpcUFhcjR6V29uUE9mZ1JiS0NZREFsT3g1a2ZUVlFUXzAzeHBad3dtaFRsM18yaGdXaVA2dFpjN2hXWFdGWXZpemRFQ2dTZkhMTHRNS0hPenRZREdnaHVyQ1JOV2RidDhVX2M4eQ?oc=5)
+### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
-2026-05-12 <span class="news-indication-tag">hipertensión</span>
+2026-05-13 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbE1iLWU0YlB3ZmJFMW1RRm1yNTBiNE9YZkRlc0E3VnJpX1dUZ2ZNeHRqQkdmRW9HTHR6VUJJV1JWV1ZpTjVlVVh0bUJoR2IxbmZna3RjZS1WTEhERkNTNzBFblU4WjZTZThPRXlFdThpcUFhcjR6V29uUE9mZ1JiS0NZREFsT3g1a2ZUVlFUXzAzeHBad3dtaFRsM18yaGdXaVA2dFpjN2hXWFdGWXZpemRFQ2dTZkhMTHRNS0hPenRZREdnaHVyQ1JOV2RidDhVX2M4eQ?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
 ---
 
@@ -67,6 +67,22 @@ permalink: /news/telmisartan/
 2026-05-12 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[Demócrata](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkxWREtNNmxvNWQ4c19XVWxrRWtwNjlJVTRxY3JPUkVrRUZpOGJETkFuTWUzRlp0d29sQmVsQ2pRQmZlVlp4LTV1dnRZSThGSEk0ZU5EWWVncTlwdzRHbE83d2kwNmRGMTUtMEg5QUdVUUJPZTFkQU5Cc29sRURENzZKd28wSGVJTjNfM3VXb1lteUF6VlM2T3hFLWs5YmFSRnU4VWRiV3FsdFI1TWRKWGFNTDJwYzNW0gG-AUFVX3lxTE5taExtZk8zYi11OHNUejdvWGpIbXdNSGtFVDdzR2tFUXdBbjhCejBsbERGc2l5M05aaGQwNHlpakdDN0xkRzdTeUc5RjBNdFdhaDlyYU03Z1FIajR0blpnQ3JmXzA1ZUpJOWQ5ay1OdEJGLXBsT1VwZVpKaDl6Yl9yekZ2TkJ0cUFpcE9YM0pzRGJMX3B3dEgzRE5xVGFQMDdPZG1ENG9QYzdOUTdoaDJjVzVUV2RuS1NGU0Z4OXc?oc=5)
+
+---
+
+### [Hidden Heart Risk Found in 1 in 5 People, Study Warns](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
+
+2026-05-12 <span class="news-indication-tag">stroke</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
+
+---
+
+### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+
+2026-05-11 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
 
 ---
 

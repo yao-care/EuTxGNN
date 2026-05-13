@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [El consumo de probióticos pueden mejorar el control de la hipertensión arterial, según un estudio del ibs.Granada - El Independiente de Granada](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbE1iLWU0YlB3ZmJFMW1RRm1yNTBiNE9YZkRlc0E3VnJpX1dUZ2ZNeHRqQkdmRW9HTHR6VUJJV1JWV1ZpTjVlVVh0bUJoR2IxbmZna3RjZS1WTEhERkNTNzBFblU4WjZTZThPRXlFdThpcUFhcjR6V29uUE9mZ1JiS0NZREFsT3g1a2ZUVlFUXzAzeHBad3dtaFRsM18yaGdXaVA2dFpjN2hXWFdGWXZpemRFQ2dTZkhMTHRNS0hPenRZREdnaHVyQ1JOV2RidDhVX2M4eQ?oc=5)
-
-2026-05-12 <span class="news-indication-tag">hipertensión</span>
-
-來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbE1iLWU0YlB3ZmJFMW1RRm1yNTBiNE9YZkRlc0E3VnJpX1dUZ2ZNeHRqQkdmRW9HTHR6VUJJV1JWV1ZpTjVlVVh0bUJoR2IxbmZna3RjZS1WTEhERkNTNzBFblU4WjZTZThPRXlFdThpcUFhcjR6V29uUE9mZ1JiS0NZREFsT3g1a2ZUVlFUXzAzeHBad3dtaFRsM18yaGdXaVA2dFpjN2hXWFdGWXZpemRFQ2dTZkhMTHRNS0hPenRZREdnaHVyQ1JOV2RidDhVX2M4eQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [La SEH-LELHA alerta: más de 19 millones de españoles sufren hipertensión sin saberlo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkxWREtNNmxvNWQ4c19XVWxrRWtwNjlJVTRxY3JPUkVrRUZpOGJETkFuTWUzRlp0d29sQmVsQ2pRQmZlVlp4LTV1dnRZSThGSEk0ZU5EWWVncTlwdzRHbE83d2kwNmRGMTUtMEg5QUdVUUJPZTFkQU5Cc29sRURENzZKd28wSGVJTjNfM3VXb1lteUF6VlM2T3hFLWs5YmFSRnU4VWRiV3FsdFI1TWRKWGFNTDJwYzNW0gG-AUFVX3lxTE5taExtZk8zYi11OHNUejdvWGpIbXdNSGtFVDdzR2tFUXdBbjhCejBsbERGc2l5M05aaGQwNHlpakdDN0xkRzdTeUc5RjBNdFdhaDlyYU03Z1FIajR0blpnQ3JmXzA1ZUpJOWQ5ay1OdEJGLXBsT1VwZVpKaDl6Yl9yekZ2TkJ0cUFpcE9YM0pzRGJMX3B3dEgzRE5xVGFQMDdPZG1ENG9QYzdOUTdoaDJjVzVUV2RuS1NGU0Z4OXc?oc=5)
 
