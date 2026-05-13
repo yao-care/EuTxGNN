@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（8 則）
 
-### [Ascensori troppo pieni e carichi sottostimati: lo studio europeo che lancia l'allarme obesità](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+### [L’obésité progresse à grande vitesse dans les pays à faibles revenus et se stabilise dans les pays riches - Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
 
-2026-05-13 <span class="news-indication-tag">obesità</span>
+2026-05-13 <span class="news-indication-tag">obésité</span>
 
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
+
+---
+
+### [Obesity rates in some countries levelling off or potentially falling, study finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNV9tSVFXd0FZc2NLSlo4T3BPVnVCU3BZaG1VWFBVbmNoTVVNbjRQeWtqeWRuemRPUDdMdElTeXFodjdKZWZiVU94dlRBbWptRzZzZHJhOEZLNlBGX09wM0Y0MjkyNmJja2tMMDhobnVZN0wyMjdpOXRLdGk5aXplYlRPanlKb1BaajZuOEYtdTdIWFZf?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNV9tSVFXd0FZc2NLSlo4T3BPVnVCU3BZaG1VWFBVbmNoTVVNbjRQeWtqeWRuemRPUDdMdElTeXFodjdKZWZiVU94dlRBbWptRzZzZHJhOEZLNlBGX09wM0Y0MjkyNmJja2tMMDhobnVZN0wyMjdpOXRLdGk5aXplYlRPanlKb1BaajZuOEYtdTdIWFZf?oc=5)
+
+---
+
+### [Fettleibigkeit verlagert sich zunehmend in ärmere Länder](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0dXeDdVWGdNVTVvaXJOQWpoTko0bmU0VkdzZUlrQnB1WHhGT05kcVFhY2VqZGE1c0FiVUNGdkwxdE0wUVZ5Z2dYYktoNHFqNHZZcXEza3AwcGxXNzVsM2U2blhJLWRadnVTRWp4RUFjYkhUVllVd1hIeTdCV0VZaXNDQklJLW1WdjJldXI1LUpDeUhNejVsQURlYlByMTg?oc=5)
+
+2026-05-13 <span class="news-indication-tag">Fettleibigkeit</span>
+
+來源：[Sarganserländer](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0dXeDdVWGdNVTVvaXJOQWpoTko0bmU0VkdzZUlrQnB1WHhGT05kcVFhY2VqZGE1c0FiVUNGdkwxdE0wUVZ5Z2dYYktoNHFqNHZZcXEza3AwcGxXNzVsM2U2blhJLWRadnVTRWp4RUFjYkhUVllVd1hIeTdCV0VZaXNDQklJLW1WdjJldXI1LUpDeUhNejVsQURlYlByMTg?oc=5)
+
+---
+
+### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
+
+---
+
+### [Oubliez les 10 000 pas : le véritable seuil scientifique pour protéger votre santé est bien plus accessible](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzV0VkRQZE5Wd0RoNWp1U0FDa0hUMTU3d3BGTG5RbFdNWDVScV9MWFFfaDRpVGRxLUJoWUlORmtBdUtaaW1jYlA3eHo1b1ZkbEVKeU5ySC00czVjQXRPRENVNldNQ1ZDQll0bjh6dnAxUHBnNjdkOHB1NGVWc0ZGUUZaSzR4YnprRVNfdHZjdjhGRURtclU4STl3cmZlcU1iTl8teHVab3U0X1Y1WTdBS09QQlNrc21fdUI5TUh1OU52YUtnUHNQbA?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzV0VkRQZE5Wd0RoNWp1U0FDa0hUMTU3d3BGTG5RbFdNWDVScV9MWFFfaDRpVGRxLUJoWUlORmtBdUtaaW1jYlA3eHo1b1ZkbEVKeU5ySC00czVjQXRPRENVNldNQ1ZDQll0bjh6dnAxUHBnNjdkOHB1NGVWc0ZGUUZaSzR4YnprRVNfdHZjdjhGRURtclU4STl3cmZlcU1iTl8teHVab3U0X1Y1WTdBS09QQlNrc21fdUI5TUh1OU52YUtnUHNQbA?oc=5)
 
 ---
 

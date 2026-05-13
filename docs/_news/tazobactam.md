@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/tazobactam/
 
 ---
 
-### [Mehr Bewegung mit Asthma dank Online-Coaching? Was es wirklich nutzt](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
+### [My son Jeremy, 16, died after eating a sausage on a camping trip - his ultra-rare allergy was mistaken for 'asthma' - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
 
-2026-05-13 <span class="news-indication-tag">asthma</span>
+2026-05-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/tazobactam/
 2026-05-11 <span class="news-indication-tag">arthritis</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
-
----
-
-### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
-2026-05-11 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
 ---
 

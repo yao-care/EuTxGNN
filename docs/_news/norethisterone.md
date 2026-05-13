@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="Norethisterone 有什麼相關新聞？">
-<strong>Norethisterone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Norethisterone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/norethisterone/
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Mehr Bewegung mit Asthma dank Online-Coaching? Was es wirklich nutzt](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
+### [My son Jeremy, 16, died after eating a sausage on a camping trip - his ultra-rare allergy was mistaken for 'asthma' - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
 
-2026-05-13 <span class="news-indication-tag">asthma</span>
+2026-05-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/norethisterone/
 2026-05-13 <span class="news-indication-tag">asthma</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wX3VOZ0ZTTUJaaExzOWdVOUtmN0lhak54ZnZHSEEzS0gzMGdIZzZSMmNFSFp4Sm95OElHQTA3Rld1OUp3eUZmOTc0RDJQS1dGN2pyZW8xYTgwQm4w?oc=5)
-
----
-
-### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
-2026-05-11 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
 ---
 

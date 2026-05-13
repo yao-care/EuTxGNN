@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,19 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Más del 40% de españoles desconocen desde qué cifras se considera hipertensión y lo sitúan por encima del valor real](https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbzZ5UU9yblpPQUU4N1JNbFBGakdNTXpJRkVKbExRVFhubXNNY2tfTEtqY3A5YndNYmo0dlg3MjMtb2hVV19DRVdlTTBsbjNLNXBhdUpNeW5sdi1FanIwNHR6bVJRTlBZWFo5Rw?oc=5)
+### [La Fundación Freno al Ictus alerta: la hipertensión, principal factor de riesgo prevenible del ictus](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
 
-2026-05-13 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+2026-05-13 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbzZ5UU9yblpPQUU4N1JNbFBGakdNTXpJRkVKbExRVFhubXNNY2tfTEtqY3A5YndNYmo0dlg3MjMtb2hVV19DRVdlTTBsbjNLNXBhdUpNeW5sdi1FanIwNHR6bVJRTlBZWFo5Rw?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
 
 ---
 
 ### [Australia: Patients of retired Sydney dentist warned of viruses including hepatitis and HIV](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
 
-2026-05-13 <span class="news-indication-tag">hepatitis</span>
+2026-05-13 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
 
@@ -78,19 +78,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Epatite E nel salame, scatta il richiamo al supermercato: i lotti interessati](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQQ?oc=5)
+### [Los probióticos emergen como una nueva estrategia para mejorar el control de la hipertensión arterial - ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcC1rbXc5QVZYNDFXYi1wUVZ1Ym52am5RM0FPSVk2OTBXZ253a25sYVBoQ2tMZ2tDZS10cVFqMTlBTDVPZ2JLcnNmYkNxNmVxb3VzVnRBbzZjTThwOEsxS0hicDVtT21UbXZIUkdFVXlTaFd1RjQtV3BIX1F0OHFfX25LWVotRWpqR0hHZlh4UzRIWk1FY2szdGNNWEgtamx2UFl2RUM1elJtd3BIUUNxQjFOOTdERDFldXRkMWxLRUt5N3Q1Ym80?oc=5)
 
-2026-05-13 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+2026-05-12 <span class="news-indication-tag">hipertensión</span>
 
-來源：[QuiFinanza](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQQ?oc=5)
-
----
-
-### [Neue Leitlinien: Isometrisches Training senkt Bluthochdruck effektiver als Joggen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3FsMXVvNW9ybXk4cExTcks0eW9qc1hsZC0xOGdvLVNHQ0VGdHIxaUpxamxVdzVnb0pSOG1HR2JuX0w1Q3BFT3FGaFloMHN1bTN3alFBamRTRU96amN5ekVjLUxSMEoxSzRNcnh6a05lSmFVdFdsSmUtWXo4OFBWTWJ4SmtDQWxxclljME1zT1poU1dfNmhCcE9nMzFlRXd3OFBacFlHNV90WHBkSGV0X1Y0d3oxRGYtVUE1bVVNdw?oc=5)
-
-2026-05-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3FsMXVvNW9ybXk4cExTcks0eW9qc1hsZC0xOGdvLVNHQ0VGdHIxaUpxamxVdzVnb0pSOG1HR2JuX0w1Q3BFT3FGaFloMHN1bTN3alFBamRTRU96amN5ekVjLUxSMEoxSzRNcnh6a05lSmFVdFdsSmUtWXo4OFBWTWJ4SmtDQWxxclljME1zT1poU1dfNmhCcE9nMzFlRXd3OFBacFlHNV90WHBkSGV0X1Y0d3oxRGYtVUE1bVVNdw?oc=5)
+來源：[ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcC1rbXc5QVZYNDFXYi1wUVZ1Ym52am5RM0FPSVk2OTBXZ253a25sYVBoQ2tMZ2tDZS10cVFqMTlBTDVPZ2JLcnNmYkNxNmVxb3VzVnRBbzZjTThwOEsxS0hicDVtT21UbXZIUkdFVXlTaFd1RjQtV3BIX1F0OHFfX25LWVotRWpqR0hHZlh4UzRIWk1FY2szdGNNWEgtamx2UFl2RUM1elJtd3BIUUNxQjFOOTdERDFldXRkMWxLRUt5N3Q1Ym80?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/peginterferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Beta-1A 有什麼相關新聞？">
-<strong>Peginterferon Beta-1A</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Beta-1A</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/peginterferon-beta-1a/
 <p><a href="{{ '/drugs/peginterferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
-
-### [El hantavirus Andes, bajo la lupa: qué se sabe del virus que preocupa tras los casos del crucero - Radio Popular de Bilbao](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWdUeWZTYkc2OC1XVjNDM2F5c0E2UmMxQUNJRGdycTBsTm5RU3N5eE5CTkQzNUFFWjhxeXdacEpjVy1BRkhoc3VPN0R6NzFOWlIwaWh2a21ZT1kyRFNkS2EybjVHSXJ5Ty0wVllOZno3VVh3QlQyODRJaDczNFZyQkxxazA3bVdkTzNKdzVNX2puYUE4NWkxNXU2ZDZ2SklWV3hEaE5FLURSX0dHZWV4U2llaWtPRDVTeXFyQjdUUkdQemVrVVE?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span>
-
-來源：[Radio Popular de Bilbao](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWdUeWZTYkc2OC1XVjNDM2F5c0E2UmMxQUNJRGdycTBsTm5RU3N5eE5CTkQzNUFFWjhxeXdacEpjVy1BRkhoc3VPN0R6NzFOWlIwaWh2a21ZT1kyRFNkS2EybjVHSXJ5Ty0wVllOZno3VVh3QlQyODRJaDczNFZyQkxxazA3bVdkTzNKdzVNX2puYUE4NWkxNXU2ZDZ2SklWV3hEaE5FLURSX0dHZWV4U2llaWtPRDVTeXFyQjdUUkdQemVrVVE?oc=5)
-
----
+## 相關新聞（17 則）
 
 ### [Stiftung PATH – Patients’ Tumor Bank of Hope](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlNSaElnakMwWWZYZDBYMjZzSmE1Mmo0bHhkWXFLdHNtZTc4RTY1OW5aY3dzM2R3dlMyb3VGdS1wcWNYYXE2c3VmdjlaaEFOWXJIcjZYLTBlU3lySUxUQ0RaNWNNTWx4bkRNZEVoeHhJSjdvXzUwdkNncW1oWXRLQU9DVlRrY1FSdXllYjZVQ2ZIVTQ2cFphWXpLQldNdEFx?oc=5)
 
@@ -70,19 +62,19 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### [MPs call for ban on sunbed advertising and health warnings in shops](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SZWZRNFA2UElUMkdUREFMNXI5ZTgwX2FZVEZ3UHFPRXMtYkZOWjBOYUp1RkVBOGEzMWhwN3I4OVZ2Y0NHaDBGdTJVZVlBRzZEdkg0cnVGTGJQSS1W?oc=5)
-
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SZWZRNFA2UElUMkdUREFMNXI5ZTgwX2FZVEZ3UHFPRXMtYkZOWjBOYUp1RkVBOGEzMWhwN3I4OVZ2Y0NHaDBGdTJVZVlBRzZEdkg0cnVGTGJQSS1W?oc=5)
-
----
-
 ### [Alternative Krebstherapie mit Katzenkralle: Kärntner Arzt vor Gericht](https://news.google.com/rss/articles/CBMirAFBVV95cUxQajdzakZVX0pWM3hSSkpINUZ5RE1WSzN5QV9VNG1kLUxZcXFNQ1NPeXlxR1dLVG9FbExMdi1YSlFLOS1LV0lGYmVSQVdBdEp5MEphbXpRX0pHWWJfck9UejZMNEpOcWFBVFVDZE1lOHRzS0tlR3pPenQ5S2ZmaS1BaWZrdVhCMGZXaEc1Mm1aUnkwcks4c0tvS3hIcS1jQXRvWmxsMmV6YllmdUV3?oc=5)
 
 2026-05-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMirAFBVV95cUxQajdzakZVX0pWM3hSSkpINUZ5RE1WSzN5QV9VNG1kLUxZcXFNQ1NPeXlxR1dLVG9FbExMdi1YSlFLOS1LV0lGYmVSQVdBdEp5MEphbXpRX0pHWWJfck9UejZMNEpOcWFBVFVDZE1lOHRzS0tlR3pPenQ5S2ZmaS1BaWZrdVhCMGZXaEc1Mm1aUnkwcks4c0tvS3hIcS1jQXRvWmxsMmV6YllmdUV3?oc=5)
+
+---
+
+### [Are hantavirus cases spreading? French woman in critical condition in hospital](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span>
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
 
 ---
 
@@ -107,14 +99,6 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-13 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Kurier](https://news.google.com/rss/articles/CBMizwFBVV95cUxPTkJLWlIyUDBWWExDTWJLZ0phSEhSbTZJankxS0hiRUs2dUtrZEItTU1uaEh5eC14ZEhrU0E2LTJEbkdHbDlXZzZ6TlJMcGtGSUcwMlVCSl9lMXgxM2xGV04wczF2SjNNdld1T2E5S1FnbEVnV2U5MUdBWWd2aFNQMTVydlNoR25mS1hENTN5ZGVoOHRURDJEQ2RvaURqX0RRc1ZjZjNHeGVmQVVNUU9QY3ZFZ1JnTkNWYXpFTDVtbjVaZkVPMGR4dVpsWnA1NFE?oc=5)
-
----
-
-### [La OMS fija la cuarentena por hantavirus hasta el 21 de junio - Aragón Digital](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnRIU0N2YXRsQTJVNnlWUXpKLUxueTJodFZEY0ItdDdmMTNvZVFnM0o0eElia1BpQUsyMHJvaHphMUlDVExQMEFuV0h4YTRpX2ItME0wX21HOWxZRVlNV1o0MVp4VVVEalFObXJZbWNVem8wR2tVdFR2cDNrV0ZVYUhhN2U4cWYtVjQ0a0dyQklGSzBJTVgtNjB3NklCU0lzczlVcDhEekV6OUVKc2h5dXpmRUpaY3VreXU2eTRVV2plSm9LRnV5Mw?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span>
-
-來源：[Aragón Digital](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnRIU0N2YXRsQTJVNnlWUXpKLUxueTJodFZEY0ItdDdmMTNvZVFnM0o0eElia1BpQUsyMHJvaHphMUlDVExQMEFuV0h4YTRpX2ItME0wX21HOWxZRVlNV1o0MVp4VVVEalFObXJZbWNVem8wR2tVdFR2cDNrV0ZVYUhhN2U4cWYtVjQ0a0dyQklGSzBJTVgtNjB3NklCU0lzczlVcDhEekV6OUVKc2h5dXpmRUpaY3VreXU2eTRVV2plSm9LRnV5Mw?oc=5)
 
 ---
 
@@ -150,14 +134,6 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
-2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
----
-
 ### [Une nouvelle MST circule-t-elle chez les hommes?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlJVcDA0WXl2aTYxNlFzWmhyRkdqM0d4S2NRLV93alc4bTQxLUlBbnhQdmlraElkd1ozRXNNOVd2Wl9TRTAwR21zUlE3a0FxLS0wOUxHcWE2RE5MQU1IX29tN2pYSlRTR05YOGZLdHdteElWNTgzQzM4R1RHT2lKN2JzSGt5M2RhZzNBV0hEX0xXQ21iSGhmNm1VSHpRNHdGeXlfYzlKLUJKbnpabXc0?oc=5)
 
 2026-05-12 <span class="news-indication-tag">MS</span>
@@ -174,19 +150,11 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### ["On reste alité entre 20 et 24 heures par jour" : le calvaire d'Elise et Fabien, atteints de fatigue chronique extrême - France 3 Régions](https://news.google.com/rss/articles/CBMitwJBVV95cUxOc0pWWHhfeVYxZXpZSGJXOHR6LWJfMXlVMUYtSlhVQzhzY09sMmlXVnhYeWtQUFRXUTZRb1Rnd3NjbmVLX1NYRzAxakpTVVFvR3lMeGhMVF9qVnRuSWs1Z2UzMlBFMTRZZlE1WTg5UHMyNGMzMk03VGc4Y0xkaDRqUlFRSnpZTUxJdi13RjBIU28tUkpsZDJxcHg2bTFDbmlNeW5IRHNVZ3VYd1BjTDM4NThIMFdmU2xadzY0bV9McVkzNjhOMXBQRUlvc2ZkUVNsa20tME45VEN0dEszZXd5WmNnc0Z5SU1Kc0hxR24xM05jVWY5VUd4aFVCSV9mTU9ob0FLWVhrMDdOcU5QdzhxMlh6N0xZenYteFI2S29hR1p1a1RjSUxfU2s3eDdSZ0tiWWN0WlNNdw?oc=5)
+### [The Sneaky Symptoms of Magnesium Deficiency, According to Dietitians](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmZneUgxRUdoenFxUzFaTWU4YnRncklQanpXRGJMMXZvMDJaOG5OaTRNbGcwSG9oNFhWdC1ad3FGNThtUnpZT2RtQ1pJZlFaV1RlWVVTNlAyQmRjU0FHSHQwTXFpUzNXN29aQ1M1OVFKZTVwek5wcFBNOFNubXZ0WQ?oc=5)
 
-2026-05-12 <span class="news-indication-tag">cancer</span>
+2026-05-12 <span class="news-indication-tag">MS</span>
 
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMitwJBVV95cUxOc0pWWHhfeVYxZXpZSGJXOHR6LWJfMXlVMUYtSlhVQzhzY09sMmlXVnhYeWtQUFRXUTZRb1Rnd3NjbmVLX1NYRzAxakpTVVFvR3lMeGhMVF9qVnRuSWs1Z2UzMlBFMTRZZlE1WTg5UHMyNGMzMk03VGc4Y0xkaDRqUlFRSnpZTUxJdi13RjBIU28tUkpsZDJxcHg2bTFDbmlNeW5IRHNVZ3VYd1BjTDM4NThIMFdmU2xadzY0bV9McVkzNjhOMXBQRUlvc2ZkUVNsa20tME45VEN0dEszZXd5WmNnc0Z5SU1Kc0hxR24xM05jVWY5VUd4aFVCSV9mTU9ob0FLWVhrMDdOcU5QdzhxMlh6N0xZenYteFI2S29hR1p1a1RjSUxfU2s3eDdSZ0tiWWN0WlNNdw?oc=5)
-
----
-
-### [NHS new 'revolutionary' 60-second jab treats 14 cancers as Dr Hilary shares 'good news' - Daily Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVdhRlhiZ2hpQUJ3bkdtMUJkMDROZ0Qzc2w4Q2U1NEFOenlBZzBJamk1Qmk5ZnI4NzhqQ1haZ196SlN1czdJaHBwdjZjN014MHZJUEtVWDZBVzM0NjNzY1B5eFNZakFuTFV3XzJUeUNGMEx2Tm51dmJqaTdrS2RZdkVMY1FxUlJKTUg5TlhJR19ISkU1SERkS3ZBMHpHdTNpc19hV2R2Mk4yd1B1Wm8yZ0RZRmFSdUXSAbwBQVVfeXFMTzdwcllfZGNTSElub3pTd2hITjZhbVlTOVg3a25Yc3o4R1BRNkZaalJfX2lLYUV6QlJaZjF3MWVDdG0xZFFhcjNQUnFrUWhfRExUVEVLNlJGWDFhUUFzeXNjd1phMmJBOXl3clNrR1c2bTE2YmRPRmJLckJ4cWdvVmxtVkFtOEdyR3lza05yclJVRHI4Nm9WaktEMVNQNGU1cXN4VFJBNkltSGgwekdUOVJBRmFORTRhVmRSc0Y?oc=5)
-
-2026-05-12 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVdhRlhiZ2hpQUJ3bkdtMUJkMDROZ0Qzc2w4Q2U1NEFOenlBZzBJamk1Qmk5ZnI4NzhqQ1haZ196SlN1czdJaHBwdjZjN014MHZJUEtVWDZBVzM0NjNzY1B5eFNZakFuTFV3XzJUeUNGMEx2Tm51dmJqaTdrS2RZdkVMY1FxUlJKTUg5TlhJR19ISkU1SERkS3ZBMHpHdTNpc19hV2R2Mk4yd1B1Wm8yZ0RZRmFSdUXSAbwBQVVfeXFMTzdwcllfZGNTSElub3pTd2hITjZhbVlTOVg3a25Yc3o4R1BRNkZaalJfX2lLYUV6QlJaZjF3MWVDdG0xZFFhcjNQUnFrUWhfRExUVEVLNlJGWDFhUUFzeXNjd1phMmJBOXl3clNrR1c2bTE2YmRPRmJLckJ4cWdvVmxtVkFtOEdyR3lza05yclJVRHI4Nm9WaktEMVNQNGU1cXN4VFJBNkltSGgwekdUOVJBRmFORTRhVmRSc0Y?oc=5)
+來源：[Prevention](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmZneUgxRUdoenFxUzFaTWU4YnRncklQanpXRGJMMXZvMDJaOG5OaTRNbGcwSG9oNFhWdC1ad3FGNThtUnpZT2RtQ1pJZlFaV1RlWVVTNlAyQmRjU0FHSHQwTXFpUzNXN29aQ1M1OVFKZTVwek5wcFBNOFNubXZ0WQ?oc=5)
 
 ---
 
@@ -214,35 +182,11 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### [Zimbabwe reassures public as health workers repatriated after hantavirus exposure](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkNKU3hxbExEdmFzYXV2Yjh0dHBsUDE1SFJudzNvTExpV3Vab19rY2Etd2NHTnZkM1RsVHljMnRwR01sTnlFckZ1VXdPRHh5QWxRS0pmTlhhUm1DbmVwNUJlLWFsQ2NzVUc4UUFXUXhKODY4V1lsRHJUandLSnVYQWt5VjAtS3pXcUFreTlHeGthZkllNlNOSy0tNEh2TlY3Uy1XSDFFR1B4NV9RQ3dj?oc=5)
+### [“I had cold hands and then my life changed in the blink of an eye" - Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
 
-2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[NewZimbabwe.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkNKU3hxbExEdmFzYXV2Yjh0dHBsUDE1SFJudzNvTExpV3Vab19rY2Etd2NHTnZkM1RsVHljMnRwR01sTnlFckZ1VXdPRHh5QWxRS0pmTlhhUm1DbmVwNUJlLWFsQ2NzVUc4UUFXUXhKODY4V1lsRHJUandLSnVYQWt5VjAtS3pXcUFreTlHeGthZkllNlNOSy0tNEh2TlY3Uy1XSDFFR1B4NV9RQ3dj?oc=5)
-
----
-
-### [Scientists learn how mosquitoes are able to track and bite humans](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWHdjTXBGbTlIWHRMdENjLWpSQkRrYW5yVnN4SndBYnF6LTJvV0lGbVc3Q3k0WjQ3RUs4RVZuZk1jVmUzbnI2cUdvN1I0X0VoNkxpLXFXSlFROXI1bENFeWZhVHlFZkFCdTJWdW1HN3VNZXMtTXBhRThIWTZnT1k5emllcjJKRE5RcGt6eUFDTC12WW5abmRZTENodVRxZ0V0MkpaNm9iLVhPYW9mZVE?oc=5)
-
-2026-05-11 <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWHdjTXBGbTlIWHRMdENjLWpSQkRrYW5yVnN4SndBYnF6LTJvV0lGbVc3Q3k0WjQ3RUs4RVZuZk1jVmUzbnI2cUdvN1I0X0VoNkxpLXFXSlFROXI1bENFeWZhVHlFZkFCdTJWdW1HN3VNZXMtTXBhRThIWTZnT1k5emllcjJKRE5RcGt6eUFDTC12WW5abmRZTENodVRxZ0V0MkpaNm9iLVhPYW9mZVE?oc=5)
-
----
-
-### [Long daytime naps may be an early warning sign in older adults](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
-
-2026-05-11 <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
-
----
-
-### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
-
-2026-05-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+來源：[Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
 
 ---
 

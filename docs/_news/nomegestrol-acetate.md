@@ -14,7 +14,7 @@ permalink: /news/nomegestrol-acetate/
 ---
 
 <p class="key-answer" data-question="Nomegestrol Acetate 有什麼相關新聞？">
-<strong>Nomegestrol Acetate</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nomegestrol Acetate</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/nomegestrol-acetate/
 <p><a href="{{ '/drugs/nomegestrol-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（17 則）
 
 ### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
 
 2026-05-13 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
-
----
-
-### [Mehr Bewegung mit Asthma dank Online-Coaching? Was es wirklich nutzt](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
-
-2026-05-13 <span class="news-indication-tag">asthma</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnhWUVVtRnZTU1FGRW9CeHBUUUlGUVk2cmJXTkc5eTBxTUhzaTVHRDV4VDJ5WWlqbVhLTXpzQmF3WThWQUlUeGhWOVh1Yzd4Y2txRm9QWjE2NjVJZjFJYmtwLS13RUEwTUNKU2J2WTNHQWdza2s4LU9COVJZRGlnOVc2Undja2hCS3pEaVNVSnljdnpGQWV1TElGSGVQM1c4U016akdB?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
-### [MPs call for ban on sunbed advertising and health warnings in shops](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SZWZRNFA2UElUMkdUREFMNXI5ZTgwX2FZVEZ3UHFPRXMtYkZOWjBOYUp1RkVBOGEzMWhwN3I4OVZ2Y0NHaDBGdTJVZVlBRzZEdkg0cnVGTGJQSS1W?oc=5)
+### [My son Jeremy, 16, died after eating a sausage on a camping trip - his ultra-rare allergy was mistaken for 'asthma' - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
 
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-05-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SZWZRNFA2UElUMkdUREFMNXI5ZTgwX2FZVEZ3UHFPRXMtYkZOWjBOYUp1RkVBOGEzMWhwN3I4OVZ2Y0NHaDBGdTJVZVlBRzZEdkg0cnVGTGJQSS1W?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
 
 ---
 
@@ -158,14 +150,6 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
-### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
-2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
----
-
 ### [Rheumatoide Arthritis: Spezialisiertes Therapiekonzept für Kinderwunsch verkürzte Zeit bis zur Schwangerschaft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
 
 2026-05-12 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
@@ -182,22 +166,6 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
-### ["On reste alité entre 20 et 24 heures par jour" : le calvaire d'Elise et Fabien, atteints de fatigue chronique extrême - France 3 Régions](https://news.google.com/rss/articles/CBMitwJBVV95cUxOc0pWWHhfeVYxZXpZSGJXOHR6LWJfMXlVMUYtSlhVQzhzY09sMmlXVnhYeWtQUFRXUTZRb1Rnd3NjbmVLX1NYRzAxakpTVVFvR3lMeGhMVF9qVnRuSWs1Z2UzMlBFMTRZZlE1WTg5UHMyNGMzMk03VGc4Y0xkaDRqUlFRSnpZTUxJdi13RjBIU28tUkpsZDJxcHg2bTFDbmlNeW5IRHNVZ3VYd1BjTDM4NThIMFdmU2xadzY0bV9McVkzNjhOMXBQRUlvc2ZkUVNsa20tME45VEN0dEszZXd5WmNnc0Z5SU1Kc0hxR24xM05jVWY5VUd4aFVCSV9mTU9ob0FLWVhrMDdOcU5QdzhxMlh6N0xZenYteFI2S29hR1p1a1RjSUxfU2s3eDdSZ0tiWWN0WlNNdw?oc=5)
-
-2026-05-12 <span class="news-indication-tag">cancer</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMitwJBVV95cUxOc0pWWHhfeVYxZXpZSGJXOHR6LWJfMXlVMUYtSlhVQzhzY09sMmlXVnhYeWtQUFRXUTZRb1Rnd3NjbmVLX1NYRzAxakpTVVFvR3lMeGhMVF9qVnRuSWs1Z2UzMlBFMTRZZlE1WTg5UHMyNGMzMk03VGc4Y0xkaDRqUlFRSnpZTUxJdi13RjBIU28tUkpsZDJxcHg2bTFDbmlNeW5IRHNVZ3VYd1BjTDM4NThIMFdmU2xadzY0bV9McVkzNjhOMXBQRUlvc2ZkUVNsa20tME45VEN0dEszZXd5WmNnc0Z5SU1Kc0hxR24xM05jVWY5VUd4aFVCSV9mTU9ob0FLWVhrMDdOcU5QdzhxMlh6N0xZenYteFI2S29hR1p1a1RjSUxfU2s3eDdSZ0tiWWN0WlNNdw?oc=5)
-
----
-
-### [NHS new 'revolutionary' 60-second jab treats 14 cancers as Dr Hilary shares 'good news' - Daily Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVdhRlhiZ2hpQUJ3bkdtMUJkMDROZ0Qzc2w4Q2U1NEFOenlBZzBJamk1Qmk5ZnI4NzhqQ1haZ196SlN1czdJaHBwdjZjN014MHZJUEtVWDZBVzM0NjNzY1B5eFNZakFuTFV3XzJUeUNGMEx2Tm51dmJqaTdrS2RZdkVMY1FxUlJKTUg5TlhJR19ISkU1SERkS3ZBMHpHdTNpc19hV2R2Mk4yd1B1Wm8yZ0RZRmFSdUXSAbwBQVVfeXFMTzdwcllfZGNTSElub3pTd2hITjZhbVlTOVg3a25Yc3o4R1BRNkZaalJfX2lLYUV6QlJaZjF3MWVDdG0xZFFhcjNQUnFrUWhfRExUVEVLNlJGWDFhUUFzeXNjd1phMmJBOXl3clNrR1c2bTE2YmRPRmJLckJ4cWdvVmxtVkFtOEdyR3lza05yclJVRHI4Nm9WaktEMVNQNGU1cXN4VFJBNkltSGgwekdUOVJBRmFORTRhVmRSc0Y?oc=5)
-
-2026-05-12 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVdhRlhiZ2hpQUJ3bkdtMUJkMDROZ0Qzc2w4Q2U1NEFOenlBZzBJamk1Qmk5ZnI4NzhqQ1haZ196SlN1czdJaHBwdjZjN014MHZJUEtVWDZBVzM0NjNzY1B5eFNZakFuTFV3XzJUeUNGMEx2Tm51dmJqaTdrS2RZdkVMY1FxUlJKTUg5TlhJR19ISkU1SERkS3ZBMHpHdTNpc19hV2R2Mk4yd1B1Wm8yZ0RZRmFSdUXSAbwBQVVfeXFMTzdwcllfZGNTSElub3pTd2hITjZhbVlTOVg3a25Yc3o4R1BRNkZaalJfX2lLYUV6QlJaZjF3MWVDdG0xZFFhcjNQUnFrUWhfRExUVEVLNlJGWDFhUUFzeXNjd1phMmJBOXl3clNrR1c2bTE2YmRPRmJLckJ4cWdvVmxtVkFtOEdyR3lza05yclJVRHI4Nm9WaktEMVNQNGU1cXN4VFJBNkltSGgwekdUOVJBRmFORTRhVmRSc0Y?oc=5)
-
----
-
 ### [Brustkrebs-Rückfall trotz Therapie: Warum manche Tumorzellen jahrelang weiterleben - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
 
 2026-05-12 <span class="news-indication-tag">tumor</span>
@@ -206,19 +174,19 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
+### [“I had cold hands and then my life changed in the blink of an eye" - Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
+
+2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
+
+---
+
 ### [This Is the Best Type of Exercise for Knee Pain From Arthritis, According to Scientists](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
 
 2026-05-11 <span class="news-indication-tag">arthritis</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
-
----
-
-### [L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique - Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
-
-2026-05-11 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQnF3ZElqVkpnNFdLT0E0VVFUZUZEZWtIR3JNNHotYXZOdzJuR1I4YnU3LWdsOVV0ZmpEZTNaRkFHWVVzbXRFNktvYm9PYmowY0Q4TjRYU0VkQjdrTXZOaHo4TllDMHlNTDI3aVB2ZnNLa1lJaE1Da0NNcV9IanFkLVR3NElWSS1OR3RBbDVZTlNNQ3BzczlaZ3gzZC1lbkdRY1k0OGdzOG5JQTJhajUwYmtFMmtRbGxOSE92ZzdDWE42cFpnRGlzSkVvQWhUTllZVXY3SFNCVldlSUt4WUpIQ1NET3g?oc=5)
 
 ---
 

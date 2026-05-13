@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [La Fundación Freno al Ictus alerta: la hipertensión, principal factor de riesgo prevenible del ictus](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
+
+2026-05-13 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
+
+---
 
 ### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/simvastatin/
 
 ---
 
+### [You May Have a Dangerous Type of Cholesterol Even if Your Tests Look Normal](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExGcUdlRXp6b3VQRDdjdTRlYXV2MFM3NVBpODF2OGk0LThPLU9fRFVrRXhNem0tVUNJNWFfLUVZeUFDRTFCd01WVHhPT2hrejQ5NTRPdDJNdktrSTdBM2JqLXpFQlR2MVVXT0djZEd3OFg2WjUwMWZ5OUdQN2Z1NjVnZEdna0ZubThIUkxvTngtd0lhZ2N6SHktU3VhWnBucVJn?oc=5)
+
+2026-05-13 <span class="news-indication-tag">stroke</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExGcUdlRXp6b3VQRDdjdTRlYXV2MFM3NVBpODF2OGk0LThPLU9fRFVrRXhNem0tVUNJNWFfLUVZeUFDRTFCd01WVHhPT2hrejQ5NTRPdDJNdktrSTdBM2JqLXpFQlR2MVVXT0djZEd3OFg2WjUwMWZ5OUdQN2Z1NjVnZEdna0ZubThIUkxvTngtd0lhZ2N6SHktU3VhWnBucVJn?oc=5)
+
+---
+
 ### [Citadelle-Krankenhaus: Neue Spezialstation für Schlaganfall-Patienten - BRF Nachrichten](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzV3NDYWpZSW9hN1ZseGx1ZWpCNmZnY3d2anNIdGo4NEhrUU9YMDZva09pUTM5R3dWdUVGQllwS1BpcEl4ek93?oc=5)
 
 2026-05-12 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[BRF Nachrichten](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzV3NDYWpZSW9hN1ZseGx1ZWpCNmZnY3d2anNIdGo4NEhrUU9YMDZva09pUTM5R3dWdUVGQllwS1BpcEl4ek93?oc=5)
-
----
-
-### [Hidden Heart Risk Found in 1 in 5 People, Study Warns](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
-
-2026-05-12 <span class="news-indication-tag">stroke</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/tucatinib/
 
 ## 相關新聞（9 則）
 
+### [La Fundación Freno al Ictus alerta: la hipertensión, principal factor de riesgo prevenible del ictus](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
+
+2026-05-13 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
+
+---
+
 ### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
 
 2026-05-13 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
-
----
-
-### [Más del 40% de españoles desconocen desde qué cifras se considera hipertensión y lo sitúan por encima del valor real](https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbzZ5UU9yblpPQUU4N1JNbFBGakdNTXpJRkVKbExRVFhubXNNY2tfTEtqY3A5YndNYmo0dlg3MjMtb2hVV19DRVdlTTBsbjNLNXBhdUpNeW5sdi1FanIwNHR6bVJRTlBZWFo5Rw?oc=5)
-
-2026-05-13 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
-
-來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbzZ5UU9yblpPQUU4N1JNbFBGakdNTXpJRkVKbExRVFhubXNNY2tfTEtqY3A5YndNYmo0dlg3MjMtb2hVV19DRVdlTTBsbjNLNXBhdUpNeW5sdi1FanIwNHR6bVJRTlBZWFo5Rw?oc=5)
 
 ---
 
@@ -102,9 +102,17 @@ permalink: /news/tucatinib/
 
 ---
 
+### [Los probióticos emergen como una nueva estrategia para mejorar el control de la hipertensión arterial - ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcC1rbXc5QVZYNDFXYi1wUVZ1Ym52am5RM0FPSVk2OTBXZ253a25sYVBoQ2tMZ2tDZS10cVFqMTlBTDVPZ2JLcnNmYkNxNmVxb3VzVnRBbzZjTThwOEsxS0hicDVtT21UbXZIUkdFVXlTaFd1RjQtV3BIX1F0OHFfX25LWVotRWpqR0hHZlh4UzRIWk1FY2szdGNNWEgtamx2UFl2RUM1elJtd3BIUUNxQjFOOTdERDFldXRkMWxLRUt5N3Q1Ym80?oc=5)
+
+2026-05-12 <span class="news-indication-tag">hipertensión</span>
+
+來源：[ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcC1rbXc5QVZYNDFXYi1wUVZ1Ym52am5RM0FPSVk2OTBXZ253a25sYVBoQ2tMZ2tDZS10cVFqMTlBTDVPZ2JLcnNmYkNxNmVxb3VzVnRBbzZjTThwOEsxS0hicDVtT21UbXZIUkdFVXlTaFd1RjQtV3BIX1F0OHFfX25LWVotRWpqR0hHZlh4UzRIWk1FY2szdGNNWEgtamx2UFl2RUM1elJtd3BIUUNxQjFOOTdERDFldXRkMWxLRUt5N3Q1Ym80?oc=5)
+
+---
+
 ### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
 
-2026-05-11 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-05-11 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
 
@@ -115,14 +123,6 @@ permalink: /news/tucatinib/
 2026-05-11 <span class="news-indication-tag">arthritis</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
-
----
-
-### [Neue Leitlinien: Isometrisches Training senkt Bluthochdruck effektiver als Joggen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3FsMXVvNW9ybXk4cExTcks0eW9qc1hsZC0xOGdvLVNHQ0VGdHIxaUpxamxVdzVnb0pSOG1HR2JuX0w1Q3BFT3FGaFloMHN1bTN3alFBamRTRU96amN5ekVjLUxSMEoxSzRNcnh6a05lSmFVdFdsSmUtWXo4OFBWTWJ4SmtDQWxxclljME1zT1poU1dfNmhCcE9nMzFlRXd3OFBacFlHNV90WHBkSGV0X1Y0d3oxRGYtVUE1bVVNdw?oc=5)
-
-2026-05-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3FsMXVvNW9ybXk4cExTcks0eW9qc1hsZC0xOGdvLVNHQ0VGdHIxaUpxamxVdzVnb0pSOG1HR2JuX0w1Q3BFT3FGaFloMHN1bTN3alFBamRTRU96amN5ekVjLUxSMEoxSzRNcnh6a05lSmFVdFdsSmUtWXo4OFBWTWJ4SmtDQWxxclljME1zT1poU1dfNmhCcE9nMzFlRXd3OFBacFlHNV90WHBkSGV0X1Y0d3oxRGYtVUE1bVVNdw?oc=5)
 
 ---
 

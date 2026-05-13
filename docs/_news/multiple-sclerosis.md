@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。7 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>7 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,29 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（7 則）
 
-### [El hantavirus Andes, bajo la lupa: qué se sabe del virus que preocupa tras los casos del crucero - Radio Popular de Bilbao](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWdUeWZTYkc2OC1XVjNDM2F5c0E2UmMxQUNJRGdycTBsTm5RU3N5eE5CTkQzNUFFWjhxeXdacEpjVy1BRkhoc3VPN0R6NzFOWlIwaWh2a21ZT1kyRFNkS2EybjVHSXJ5Ty0wVllOZno3VVh3QlQyODRJaDczNFZyQkxxazA3bVdkTzNKdzVNX2puYUE4NWkxNXU2ZDZ2SklWV3hEaE5FLURSX0dHZWV4U2llaWtPRDVTeXFyQjdUUkdQemVrVVE?oc=5)
-
-2026-05-13
-
-來源：[Radio Popular de Bilbao](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWdUeWZTYkc2OC1XVjNDM2F5c0E2UmMxQUNJRGdycTBsTm5RU3N5eE5CTkQzNUFFWjhxeXdacEpjVy1BRkhoc3VPN0R6NzFOWlIwaWh2a21ZT1kyRFNkS2EybjVHSXJ5Ty0wVllOZno3VVh3QlQyODRJaDczNFZyQkxxazA3bVdkTzNKdzVNX2puYUE4NWkxNXU2ZDZ2SklWV3hEaE5FLURSX0dHZWV4U2llaWtPRDVTeXFyQjdUUkdQemVrVVE?oc=5)
-
----
-
-### [La OMS fija la cuarentena por hantavirus hasta el 21 de junio - Aragón Digital](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnRIU0N2YXRsQTJVNnlWUXpKLUxueTJodFZEY0ItdDdmMTNvZVFnM0o0eElia1BpQUsyMHJvaHphMUlDVExQMEFuV0h4YTRpX2ItME0wX21HOWxZRVlNV1o0MVp4VVVEalFObXJZbWNVem8wR2tVdFR2cDNrV0ZVYUhhN2U4cWYtVjQ0a0dyQklGSzBJTVgtNjB3NklCU0lzczlVcDhEekV6OUVKc2h5dXpmRUpaY3VreXU2eTRVV2plSm9LRnV5Mw?oc=5)
+### [Are hantavirus cases spreading? French woman in critical condition in hospital](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
 
 2026-05-13
 
-來源：[Aragón Digital](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnRIU0N2YXRsQTJVNnlWUXpKLUxueTJodFZEY0ItdDdmMTNvZVFnM0o0eElia1BpQUsyMHJvaHphMUlDVExQMEFuV0h4YTRpX2ItME0wX21HOWxZRVlNV1o0MVp4VVVEalFObXJZbWNVem8wR2tVdFR2cDNrV0ZVYUhhN2U4cWYtVjQ0a0dyQklGSzBJTVgtNjB3NklCU0lzczlVcDhEekV6OUVKc2h5dXpmRUpaY3VreXU2eTRVV2plSm9LRnV5Mw?oc=5)
-
----
-
-### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
-2026-05-12
-
-來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
 
 ---
 
@@ -96,6 +80,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [The Sneaky Symptoms of Magnesium Deficiency, According to Dietitians](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmZneUgxRUdoenFxUzFaTWU4YnRncklQanpXRGJMMXZvMDJaOG5OaTRNbGcwSG9oNFhWdC1ad3FGNThtUnpZT2RtQ1pJZlFaV1RlWVVTNlAyQmRjU0FHSHQwTXFpUzNXN29aQ1M1OVFKZTVwek5wcFBNOFNubXZ0WQ?oc=5)
+
+2026-05-12
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmZneUgxRUdoenFxUzFaTWU4YnRncklQanpXRGJMMXZvMDJaOG5OaTRNbGcwSG9oNFhWdC1ad3FGNThtUnpZT2RtQ1pJZlFaV1RlWVVTNlAyQmRjU0FHSHQwTXFpUzNXN29aQ1M1OVFKZTVwek5wcFBNOFNubXZ0WQ?oc=5)
+
+---
+
 ### [Wie gefährlich sind Aluminiumsalze in Impfstoffen? - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
 
 2026-05-12
@@ -112,35 +104,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Zimbabwe reassures public as health workers repatriated after hantavirus exposure](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkNKU3hxbExEdmFzYXV2Yjh0dHBsUDE1SFJudzNvTExpV3Vab19rY2Etd2NHTnZkM1RsVHljMnRwR01sTnlFckZ1VXdPRHh5QWxRS0pmTlhhUm1DbmVwNUJlLWFsQ2NzVUc4UUFXUXhKODY4V1lsRHJUandLSnVYQWt5VjAtS3pXcUFreTlHeGthZkllNlNOSy0tNEh2TlY3Uy1XSDFFR1B4NV9RQ3dj?oc=5)
+### [“I had cold hands and then my life changed in the blink of an eye" - Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
 
 2026-05-12
 
-來源：[NewZimbabwe.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkNKU3hxbExEdmFzYXV2Yjh0dHBsUDE1SFJudzNvTExpV3Vab19rY2Etd2NHTnZkM1RsVHljMnRwR01sTnlFckZ1VXdPRHh5QWxRS0pmTlhhUm1DbmVwNUJlLWFsQ2NzVUc4UUFXUXhKODY4V1lsRHJUandLSnVYQWt5VjAtS3pXcUFreTlHeGthZkllNlNOSy0tNEh2TlY3Uy1XSDFFR1B4NV9RQ3dj?oc=5)
-
----
-
-### [Scientists learn how mosquitoes are able to track and bite humans](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWHdjTXBGbTlIWHRMdENjLWpSQkRrYW5yVnN4SndBYnF6LTJvV0lGbVc3Q3k0WjQ3RUs4RVZuZk1jVmUzbnI2cUdvN1I0X0VoNkxpLXFXSlFROXI1bENFeWZhVHlFZkFCdTJWdW1HN3VNZXMtTXBhRThIWTZnT1k5emllcjJKRE5RcGt6eUFDTC12WW5abmRZTENodVRxZ0V0MkpaNm9iLVhPYW9mZVE?oc=5)
-
-2026-05-11
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWHdjTXBGbTlIWHRMdENjLWpSQkRrYW5yVnN4SndBYnF6LTJvV0lGbVc3Q3k0WjQ3RUs4RVZuZk1jVmUzbnI2cUdvN1I0X0VoNkxpLXFXSlFROXI1bENFeWZhVHlFZkFCdTJWdW1HN3VNZXMtTXBhRThIWTZnT1k5emllcjJKRE5RcGt6eUFDTC12WW5abmRZTENodVRxZ0V0MkpaNm9iLVhPYW9mZVE?oc=5)
-
----
-
-### [Long daytime naps may be an early warning sign in older adults](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
-
-2026-05-11
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG92dGZSQTBQUVdBLVN2VDFlTHhNcVVoay1OUTY3Tm95YjNiMzBlbVVST3BJaklFeXl3UXNxbkJTOWFXbmxZdVVUaXFqaEluZmNXX1g3NnZGal93ZEN0aEdTV0FmdEZfVEhPQThGWktQQ1pkMzB4ZUZxYlRVYTlRX0tESjVqdHBVbkRiTTFyQjNIZ0h6?oc=5)
-
----
-
-### [Consuming fruit and a cup of coffee a day can halve risk of unhealthy cell ageing, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
-
-2026-05-11
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkozcmVpN2c1LVVBSnRfSmRXRVhONWNMejJ0LUJTUDRTak5ENGdsYk1mTTB2VGxnYUV5ZHVfb3hmUHJVOTJCYzc4eENmeXRPeVlhTGs3MG54VDdKMWxvUXNKQjlWLWZtUHc1WXYwYTFaLUl2Ym9IX2NYZHR3emlDNGI4MGY5V0l4YW1jNVdLb1B2OHp3ZFBLWjFEV1JfdlJxTDJzSXR3?oc=5)
+來源：[Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（12 則）
 
-### [Ascensori troppo pieni e carichi sottostimati: lo studio europeo che lancia l'allarme obesità](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+### [L’obésité progresse à grande vitesse dans les pays à faibles revenus et se stabilise dans les pays riches - Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
 
-2026-05-13 <span class="news-indication-tag">obesità</span>
+2026-05-13 <span class="news-indication-tag">obésité</span>
 
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
+
+---
+
+### [La Fundación Freno al Ictus alerta: la hipertensión, principal factor de riesgo prevenible del ictus](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
+
+2026-05-13 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
+
+---
+
+### [Obesity rates in some countries levelling off or potentially falling, study finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNV9tSVFXd0FZc2NLSlo4T3BPVnVCU3BZaG1VWFBVbmNoTVVNbjRQeWtqeWRuemRPUDdMdElTeXFodjdKZWZiVU94dlRBbWptRzZzZHJhOEZLNlBGX09wM0Y0MjkyNmJja2tMMDhobnVZN0wyMjdpOXRLdGk5aXplYlRPanlKb1BaajZuOEYtdTdIWFZf?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNV9tSVFXd0FZc2NLSlo4T3BPVnVCU3BZaG1VWFBVbmNoTVVNbjRQeWtqeWRuemRPUDdMdElTeXFodjdKZWZiVU94dlRBbWptRzZzZHJhOEZLNlBGX09wM0Y0MjkyNmJja2tMMDhobnVZN0wyMjdpOXRLdGk5aXplYlRPanlKb1BaajZuOEYtdTdIWFZf?oc=5)
+
+---
+
+### [Fettleibigkeit verlagert sich zunehmend in ärmere Länder](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0dXeDdVWGdNVTVvaXJOQWpoTko0bmU0VkdzZUlrQnB1WHhGT05kcVFhY2VqZGE1c0FiVUNGdkwxdE0wUVZ5Z2dYYktoNHFqNHZZcXEza3AwcGxXNzVsM2U2blhJLWRadnVTRWp4RUFjYkhUVllVd1hIeTdCV0VZaXNDQklJLW1WdjJldXI1LUpDeUhNejVsQURlYlByMTg?oc=5)
+
+2026-05-13 <span class="news-indication-tag">Fettleibigkeit</span>
+
+來源：[Sarganserländer](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0dXeDdVWGdNVTVvaXJOQWpoTko0bmU0VkdzZUlrQnB1WHhGT05kcVFhY2VqZGE1c0FiVUNGdkwxdE0wUVZ5Z2dYYktoNHFqNHZZcXEza3AwcGxXNzVsM2U2blhJLWRadnVTRWp4RUFjYkhUVllVd1hIeTdCV0VZaXNDQklJLW1WdjJldXI1LUpDeUhNejVsQURlYlByMTg?oc=5)
+
+---
+
+### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
+
+---
+
+### [Oubliez les 10 000 pas : le véritable seuil scientifique pour protéger votre santé est bien plus accessible](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzV0VkRQZE5Wd0RoNWp1U0FDa0hUMTU3d3BGTG5RbFdNWDVScV9MWFFfaDRpVGRxLUJoWUlORmtBdUtaaW1jYlA3eHo1b1ZkbEVKeU5ySC00czVjQXRPRENVNldNQ1ZDQll0bjh6dnAxUHBnNjdkOHB1NGVWc0ZGUUZaSzR4YnprRVNfdHZjdjhGRURtclU4STl3cmZlcU1iTl8teHVab3U0X1Y1WTdBS09QQlNrc21fdUI5TUh1OU52YUtnUHNQbA?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzV0VkRQZE5Wd0RoNWp1U0FDa0hUMTU3d3BGTG5RbFdNWDVScV9MWFFfaDRpVGRxLUJoWUlORmtBdUtaaW1jYlA3eHo1b1ZkbEVKeU5ySC00czVjQXRPRENVNldNQ1ZDQll0bjh6dnAxUHBnNjdkOHB1NGVWc0ZGUUZaSzR4YnprRVNfdHZjdjhGRURtclU4STl3cmZlcU1iTl8teHVab3U0X1Y1WTdBS09QQlNrc21fdUI5TUh1OU52YUtnUHNQbA?oc=5)
 
 ---
 
@@ -75,6 +115,14 @@ permalink: /news/orlistat/
 2026-05-13 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEctMlpWMG5QWmh0UUVPTEZPNHZYSXZOTHNfZ2ZrVmtpTGt1YWNha1phc29PaXVUcW9NWUNGZWo2MHVVVVNpQWJqQnRtdGZxZzFwdnc4RVRaMll6WlBpaGdmd3RTRkVwcEJsYWphaDNXOEJyUXl4ZnZsR0RSUVV2a0EtWmZWT21qamNQR29rV1V1OFZ0bVd2WHdDb1ZWMHFyYlVTeDFSQ1lrSXp6am5HM0JsQm1jS3VFd1E?oc=5)
+
+---
+
+### [You May Have a Dangerous Type of Cholesterol Even if Your Tests Look Normal](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExGcUdlRXp6b3VQRDdjdTRlYXV2MFM3NVBpODF2OGk0LThPLU9fRFVrRXhNem0tVUNJNWFfLUVZeUFDRTFCd01WVHhPT2hrejQ5NTRPdDJNdktrSTdBM2JqLXpFQlR2MVVXT0djZEd3OFg2WjUwMWZ5OUdQN2Z1NjVnZEdna0ZubThIUkxvTngtd0lhZ2N6SHktU3VhWnBucVJn?oc=5)
+
+2026-05-13 <span class="news-indication-tag">stroke</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExGcUdlRXp6b3VQRDdjdTRlYXV2MFM3NVBpODF2OGk0LThPLU9fRFVrRXhNem0tVUNJNWFfLUVZeUFDRTFCd01WVHhPT2hrejQ5NTRPdDJNdktrSTdBM2JqLXpFQlR2MVVXT0djZEd3OFg2WjUwMWZ5OUdQN2Z1NjVnZEdna0ZubThIUkxvTngtd0lhZ2N6SHktU3VhWnBucVJn?oc=5)
 
 ---
 
@@ -99,14 +147,6 @@ permalink: /news/orlistat/
 2026-05-12 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
-
----
-
-### [Hidden Heart Risk Found in 1 in 5 People, Study Warns](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
-
-2026-05-12 <span class="news-indication-tag">stroke</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtSeGRnQ1B6YVJUcnNFd2pJd1J1RGFVTVVaUjAwVHdrQ0lJLWJCNVlYaURQSm9KRHFGYkhiaXJQM3NGTzB5Z0Y3QnNxcU02YjlZUmNXdG5QZU9VMU41ZXpvQV9PYzdId2dUeEc3cUNkMzdWWjFDYmY5VURUTndkS1pmSlg?oc=5)
 
 ---
 
