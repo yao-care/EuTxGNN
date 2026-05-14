@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [CGM verbessert Blutzuckerkontrolle auch unter moderner Typ-2-Diabetes-Therapie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
+
+2026-05-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
+
+---
+
+### [Neue Ansätze in der Diabetes-Therapie: Herausforderungen und Chancen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
+
+2026-05-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
+
+---
 
 ### [60. Diabetes Kongress der Deutschen Diabetes Gesellschaft](https://news.google.com/rss/articles/CBMib0FVX3lxTE5GYl9rZ3FMX1JfaVVDSkJjNHQ3Sk81Smo3LUNFUnRqcWloTERzRXRXaGlQUm0wT2RkUVl1YTd2N3ZfNndQS25kU0Rra2hwWGdlRlBkbXk3YWU5WW1XNTFfbHluVDNNQ1hMY1BONHYwOA?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/semaglutide/
 2026-05-13 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZEZfMW5ROHZiQzZJZWx2bkNLSndnaWdidlJPb2xJaFNsOS1ORGdTMm1tNmRuY1dESkpKMHlXRlU2RVRPNnM0bTR4c3RCY05zQkVwVmJWOHEyemVjS1EtOHZoZ0lPRC05TnVrMHFucURXNnZfUnFyY3hydEZqakRSSjlyMmNIS3R0XzJRMm4xOURwSXJTeWhJ?oc=5)
-
----
-
-### [rbb GESUND - Diabetes: Immer bessere Therapien, wo bleibt der Mensch? - rbb24 Inforadio](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFrb3VmckRKbGx5WGFBbDI1RzBTSm5tTmVPNzRLVWNmc2c2WEpQSFd4LUJtYlZxcHlndDV2dG9UY1c5Tm1uMXY3UHllWVZVSkJSTmFhLXpvbXRCQXRTTjFua2VRdHZLTVdZNFplSjlRNEFFS29leHdadDRBTHdRTFB0akNaRnhZYXE3WVowOEx2dFBQUUd5UkxmeWJLZFJyTTdRdHVkeWl6RVFuVFhR?oc=5)
-
-2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[rbb24 Inforadio](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFrb3VmckRKbGx5WGFBbDI1RzBTSm5tTmVPNzRLVWNmc2c2WEpQSFd4LUJtYlZxcHlndDV2dG9UY1c5Tm1uMXY3UHllWVZVSkJSTmFhLXpvbXRCQXRTTjFua2VRdHZLTVdZNFplSjlRNEFFS29leHdadDRBTHdRTFB0akNaRnhZYXE3WVowOEx2dFBQUUd5UkxmeWJLZFJyTTdRdHVkeWl6RVFuVFhR?oc=5)
 
 ---
 

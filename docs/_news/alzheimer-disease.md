@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [My little boy said 'mama' once then never spoke again… it was sign of dementia - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBGa0VpTWZBMEFiUWw0SU1GWm5EY2RPVElKYks3UlFZUHJLeTZZQWc0OVJPS3J2UHNvOUFwVDJaU1dRU0ZmNkdDYTlmeXkwR1VBMG03Rl91NDgtOG5MTDRyU0p0bldKZ3BkRkYzZ2dQMXFaTkI3SXFLdEpVVQ?oc=5)
+
+2026-05-14
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBGa0VpTWZBMEFiUWw0SU1GWm5EY2RPVElKYks3UlFZUHJLeTZZQWc0OVJPS3J2UHNvOUFwVDJaU1dRU0ZmNkdDYTlmeXkwR1VBMG03Rl91NDgtOG5MTDRyU0p0bldKZ3BkRkYzZ2dQMXFaTkI3SXFLdEpVVQ?oc=5)
+
+---
 
 ### [Brain fog, booze cravings & smoking... how fat jabs could 'cure' them all - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjdBQjdNNFVVenAtUlhfZUN4elNfenItRnVhS3pYQjU3ZkxTLUpDTllUcXFKcklTbFBaazFlQXlfanQwNjRiR1BVYkdkWWpLQWl5MnRiUnNQTXVHSXhaYnI4Y2xTRk5vbHJzLTBKZUZyU3dNNjFUeTBpM3pBemNuZFI5RUFhcXN1d1RhQ2owcDg5emc?oc=5)
 

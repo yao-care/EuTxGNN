@@ -14,7 +14,7 @@ permalink: /news/cetrorelix-as-acetate/
 ---
 
 <p class="key-answer" data-question="Cetrorelix (As Acetate) 有什麼相關新聞？">
-<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>42 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/cetrorelix-as-acetate/
 <p><a href="{{ '/drugs/cetrorelix-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（42 則）
+## 相關新聞（38 則）
 
-### [Ist der „Jo-Jo-Effekt“ wirklich schädlich? Neue Analyse stellt seit langem geltende Annahmen zum Jo-Jo-Effekt in Frage - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CcThnU0RPQ1U5Zkd2LXZTME96eWdlVWxRNzdKQ3RUYUx4WXJRaFN0Uk9zc0J3MkJBTk9obW40Uy04cVdDTzgwb1RXZw?oc=5)
+### [One dead and two more ill after meningitis outbreak in Berkshire - The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFNWa2RVdUdubnp6TXVhSmx4R0F4VXFjVV9DdGk3RUFfU0xzVTFHbVZscExITTg2cHV2NEZLRHpLdUdlaEI3OGc0dnRsbExIS090bVhtNVRpXzZoUXMyenFjQkFBdDRZUE9fOWhlU2N5WVp0d3o0RU4wV1JKa2VqdklVVQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CcThnU0RPQ1U5Zkd2LXZTME96eWdlVWxRNzdKQ3RUYUx4WXJRaFN0Uk9zc0J3MkJBTk9obW40Uy04cVdDTzgwb1RXZw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFNWa2RVdUdubnp6TXVhSmx4R0F4VXFjVV9DdGk3RUFfU0xzVTFHbVZscExITTg2cHV2NEZLRHpLdUdlaEI3OGc0dnRsbExIS090bVhtNVRpXzZoUXMyenFjQkFBdDRZUE9fOWhlU2N5WVp0d3o0RU4wV1JKa2VqdklVVQ?oc=5)
+
+---
+
+### [Kleiner Balkon? Diese Tchibo-Tricks schaffen maximalen Komfort auf minimalem Raum](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXd5REI2Rkp2bGtlNmFHaUdRT1czQVFwMFhudDRHamdOVDdOc1pqaExUOE5pa1pLaWtZQWhRZW95WEJabHhBLVFvRm5QcmRad0gzWHRtaHk0dlI5Ymo4b1BqdzhCdDFuM21nbnBBUU5GRGZRM1R6RFh1TTBmS3hvQnByaUtvNWhKVHB6M0E4RjN0UVYyN0hTWEl0THlzOVV5dk1mOF9TZTR1RlNCRFRMZ0NaeXpzTDU4ZFplWTRfZW52MDlUZ0xvR1dGTlhienNGeWtERktYanc?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[desired.de](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXd5REI2Rkp2bGtlNmFHaUdRT1czQVFwMFhudDRHamdOVDdOc1pqaExUOE5pa1pLaWtZQWhRZW95WEJabHhBLVFvRm5QcmRad0gzWHRtaHk0dlI5Ymo4b1BqdzhCdDFuM21nbnBBUU5GRGZRM1R6RFh1TTBmS3hvQnByaUtvNWhKVHB6M0E4RjN0UVYyN0hTWEl0THlzOVV5dk1mOF9TZTR1RlNCRFRMZ0NaeXpzTDU4ZFplWTRfZW52MDlUZ0xvR1dGTlhienNGeWtERktYanc?oc=5)
+
+---
+
+### [Studie zeigt Risiko von bekanntem Schlafmittel – Herzschwäche um 90 Prozent erhöht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkx3Zm9ZUWZ1Vm1YcDItOFgxNHRjRW5jX1VvTmpyRWpiN0JBNVZKZU44ZmZUd2gxci15dlJncUtDbjlfOFBQYVBFbU1MdmZBRmtWRlQzeEc2OHlDQ0ZKMmMyUXQxeGpmUlA0NWZDOFhXSnp0NlF5alJVM09Ual9EQUNMNkVvSWlsbm9OSlltZ0xGMmJ2bnhIdUhIMmZGdHZvd3VGNFhyNER6ZFgzendkMzJycmJaQWpjWEEtMDl4cUNjal9yMDlfeVJB?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkx3Zm9ZUWZ1Vm1YcDItOFgxNHRjRW5jX1VvTmpyRWpiN0JBNVZKZU44ZmZUd2gxci15dlJncUtDbjlfOFBQYVBFbU1MdmZBRmtWRlQzeEc2OHlDQ0ZKMmMyUXQxeGpmUlA0NWZDOFhXSnp0NlF5alJVM09Ual9EQUNMNkVvSWlsbm9OSlltZ0xGMmJ2bnhIdUhIMmZGdHZvd3VGNFhyNER6ZFgzendkMzJycmJaQWpjWEEtMDl4cUNjal9yMDlfeVJB?oc=5)
+
+---
+
+### [Una bueva plataforma basada en nanoestructuras detecta la alergia a la amoxicilina sin riesgos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1JuREU1MkF5eGVGQzMwX1JDS2NuS1FiWUMtZXV4V3FrV1JqckJNTXZ6VWtYRUJTOGkyN1JkWlBESlhzTTJ5NFppdUNRSEhlNWJjYlJnanZ6ZUgtbV9VZ0VWNTM4dEkyQXc1V3dRNTA1OTI3MGxIN1duamY1dHhzU05va2ota1QwVVhqNGpOM1FjWW9ETHpGaUpPTzNpbWNhZ1pIS29LMkk3MDljZUd6cDBSbXdzSGdsbGRkOUxMY2UtZTJzRkJ1VQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1JuREU1MkF5eGVGQzMwX1JDS2NuS1FiWUMtZXV4V3FrV1JqckJNTXZ6VWtYRUJTOGkyN1JkWlBESlhzTTJ5NFppdUNRSEhlNWJjYlJnanZ6ZUgtbV9VZ0VWNTM4dEkyQXc1V3dRNTA1OTI3MGxIN1duamY1dHhzU05va2ota1QwVVhqNGpOM1FjWW9ETHpGaUpPTzNpbWNhZ1pIS29LMkk3MDljZUd6cDBSbXdzSGdsbGRkOUxMY2UtZTJzRkJ1VQ?oc=5)
+
+---
+
+### [García afirma no tener información de que el hantavirus haya mutado y recuerda que cuentan con expertos pendientes - Gaceta Médica](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGRoc1JNU1RNWmtzYUstVjNvQlRKMmRCa3JoWmFJOVl3SWVxV181THBEenowWV9yV1Jtby1RNVJsalkxZzM4NU0tNFdaX09aQ0MwV2xtQ3hNSHkzejFvX19ydDB5ZEdMbUx5VU9NZ2JZSEhHUW8tcUoyWVd0QVRZSFJJMHVlMVlxOVA0eGMwVy1jWUpxc1E?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGRoc1JNU1RNWmtzYUstVjNvQlRKMmRCa3JoWmFJOVl3SWVxV181THBEenowWV9yV1Jtby1RNVJsalkxZzM4NU0tNFdaX09aQ0MwV2xtQ3hNSHkzejFvX19ydDB5ZEdMbUx5VU9NZ2JZSEhHUW8tcUoyWVd0QVRZSFJJMHVlMVlxOVA0eGMwVy1jWUpxc1E?oc=5)
+
+---
+
+### [Ist der „Jo-Jo-Effekt“ wirklich schädlich? Neue Analyse stellt seit langem geltende Annahmen zum Jo-Jo-Effekt in Frage - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMihAJBVV95cUxQQmZXenBIZXdkcXk0UFhrY2RKNzdSS2l6ZTZycEd2Vi14NWJIb3A4RUVqcjFaX29yU1dFRnBwSE5BRkVVdjFkV0hKQWtFRExubVc1ZzlPaDdkMjdZZGNqbXdpV3ZhendZTEUza2loNXVhN3lDbTdUSzdfdFpyeV9nXzZNWGQyWE0yczFDNXB4UEFyMktiUXJjVFZJdHk2Q3p1N0VYS01fY29Fd0VpX0RrXzFqM1dDdzZlcXBrQm5BMUN6N043cm5Kd3hONTVYclFhYWVOUnVRb1doZ1FyWUxxZkJ4QmpRa3pqLXE2RVV3akpzYmZ1cTVrdWlyOTRnbWY2VThfMA?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMihAJBVV95cUxQQmZXenBIZXdkcXk0UFhrY2RKNzdSS2l6ZTZycEd2Vi14NWJIb3A4RUVqcjFaX29yU1dFRnBwSE5BRkVVdjFkV0hKQWtFRExubVc1ZzlPaDdkMjdZZGNqbXdpV3ZhendZTEUza2loNXVhN3lDbTdUSzdfdFpyeV9nXzZNWGQyWE0yczFDNXB4UEFyMktiUXJjVFZJdHk2Q3p1N0VYS01fY29Fd0VpX0RrXzFqM1dDdzZlcXBrQm5BMUN6N043cm5Kd3hONTVYclFhYWVOUnVRb1doZ1FyWUxxZkJ4QmpRa3pqLXE2RVV3akpzYmZ1cTVrdWlyOTRnbWY2VThfMA?oc=5)
 
 ---
 
@@ -102,25 +142,17 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [I trending topics della medicina estetica al grido di ‘less is more’ (meno è meglio) - Milano Finanza](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU01qMGRNR21pc3dPOC1tbnV3cFQyZHNQQVBGS1Q3VjNER3ZpUTNWQkhaNXNhaklmUmxiLUxSby01RkhGQ2JmZW1NWkdYc0J2OEs1emw0dXJoZEYxZDFhUkN0SUZibjJWUUZaUGRLWnFtZXhGMFlUU29OUS1KcjEwUWJpdHoxYzNXWUphcnh1X0RZRkxEb21xNE1XVnhGR0E5QVMyRTVlOHhkZnhGaVQ4TWd2dWM4cWVWS09kNzZ6YTFLaWZ1bGlqVklKdWdVUQ?oc=5)
+### [Lanarkshire mum's cancerous tumour grew 'three times in size' after 'late diagnosis' - Glasgow Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZE9ZRy1SRkNPYTc4ZWpMT3l4bjFOa1lHQ2FIU1UtOXVFb090SzI2MXA1b3duUk5Lb0hRSjVBeFhRRWdicmVaOHNHQXZSUEFWWmRZRlZrNnFBS1ZBLUI2UVNfM195eTFrSUZmTjAtb215dWlxOFNJRl9kdW13MWFQYVVUR1hQSGg1cEZYeHpuV3piNHljYTRQa01lWdIBoAFBVV95cUxObWZDd1ByeW5vTHdFbU1uSFliS1l0MDNYQWNkeHpjWWFrbzBNSkFaUm5wYVl3UmJaV1BPRXVsSHNOeWhMZEtSaEJFYmRfUnBNamFQRUxiek9aX1p6ZnJHb3FDVDRJTkwxOFpIcm5hRnJZUVNkdktWZ1lHV0V4UmExTGFtekdhSjR6aUtmZXZfTEFXLWdScVp4eU4zU2c0MUls?oc=5)
 
-2026-05-14 <span class="news-indication-tag">AF</span>
+2026-05-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Milano Finanza](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU01qMGRNR21pc3dPOC1tbnV3cFQyZHNQQVBGS1Q3VjNER3ZpUTNWQkhaNXNhaklmUmxiLUxSby01RkhGQ2JmZW1NWkdYc0J2OEs1emw0dXJoZEYxZDFhUkN0SUZibjJWUUZaUGRLWnFtZXhGMFlUU29OUS1KcjEwUWJpdHoxYzNXWUphcnh1X0RZRkxEb21xNE1XVnhGR0E5QVMyRTVlOHhkZnhGaVQ4TWd2dWM4cWVWS09kNzZ6YTFLaWZ1bGlqVklKdWdVUQ?oc=5)
-
----
-
-### ['I nearly died after buying skinny jab from friend of friend'](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KM2pzRWFJQ3FvN3Y1QzNUb3VWdkVrRlJwR2NmMlBjR21rWjNKZHNGdFItM3JJMHNCcjlDdG1iQW1EMzM0UlBHeDd4M3dtRi1ESm5xcFdRdWFiQQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KM2pzRWFJQ3FvN3Y1QzNUb3VWdkVrRlJwR2NmMlBjR21rWjNKZHNGdFItM3JJMHNCcjlDdG1iQW1EMzM0UlBHeDd4M3dtRi1ESm5xcFdRdWFiQQ?oc=5)
+來源：[Glasgow Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZE9ZRy1SRkNPYTc4ZWpMT3l4bjFOa1lHQ2FIU1UtOXVFb090SzI2MXA1b3duUk5Lb0hRSjVBeFhRRWdicmVaOHNHQXZSUEFWWmRZRlZrNnFBS1ZBLUI2UVNfM195eTFrSUZmTjAtb215dWlxOFNJRl9kdW13MWFQYVVUR1hQSGg1cEZYeHpuV3piNHljYTRQa01lWdIBoAFBVV95cUxObWZDd1ByeW5vTHdFbU1uSFliS1l0MDNYQWNkeHpjWWFrbzBNSkFaUm5wYVl3UmJaV1BPRXVsSHNOeWhMZEtSaEJFYmRfUnBNamFQRUxiek9aX1p6ZnJHb3FDVDRJTkwxOFpIcm5hRnJZUVNkdktWZ1lHV0V4UmExTGFtekdhSjR6aUtmZXZfTEFXLWdScVp4eU4zU2c0MUls?oc=5)
 
 ---
 
 ### [Dr Edward Jenner's vaccination clinic to reopen after restoration](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZVhUX3pJbVVnZjlfU3BTUm1UbUFiVGNpcldsZ2VKTzBCWTBYY0FsUnpfQzFKSDdyWndRdXdXTXVGd1lTUXZCOFZxS0RUT0lqbGZWWWtjSHNlV0Nt?oc=5)
 
-2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-14 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZVhUX3pJbVVnZjlfU3BTUm1UbUFiVGNpcldsZ2VKTzBCWTBYY0FsUnpfQzFKSDdyWndRdXdXTXVGd1lTUXZCOFZxS0RUT0lqbGZWWWtjSHNlV0Nt?oc=5)
 
@@ -150,11 +182,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [What it's like for passengers isolating in hantavirus quarantine in Nebraska](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
+### [The hantavirus is a wake-up call. Will the Trump administration answer it?](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUNod3JGSnZIOTB0UlJNR3BBbmxWNXdqTS1QY25MbkVkek9FbjdvWnpkQmo3ZVhRdndDM3U0MUdwR1dPeDBrZTcta01MQXFMSmU1YWE5MmJwcFBCWkZlQ3hrYWdTYlNwYjhRRE5nLXk1dXk1Snp4V3BpajlPemRvempEZTlncjFDX0RPeDZBSFFWN3RxbU9fVmRlT0tLanp2YjNZ?oc=5)
 
 2026-05-13 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
+來源：[statnews.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUNod3JGSnZIOTB0UlJNR3BBbmxWNXdqTS1QY25MbkVkek9FbjdvWnpkQmo3ZVhRdndDM3U0MUdwR1dPeDBrZTcta01MQXFMSmU1YWE5MmJwcFBCWkZlQ3hrYWdTYlNwYjhRRE5nLXk1dXk1Snp4V3BpajlPemRvempEZTlncjFDX0RPeDZBSFFWN3RxbU9fVmRlT0tLanp2YjNZ?oc=5)
 
 ---
 
@@ -166,19 +198,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Six people returning home from hospital after hantavirus isolation](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZTlOeXN3TnZXM0N2MHY3ekV2T0JBb3VkSm1EX25PczV0azZlRm1CM3VkbXIwdWhmbTgxVWMtZ3p0T1JQRHVjNEcwaEF0djZuMEtMYnVDWmh2UQ?oc=5)
+### [People begin leaving hospital after hantavirus isolation](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZTlOeXN3TnZXM0N2MHY3ekV2T0JBb3VkSm1EX25PczV0azZlRm1CM3VkbXIwdWhmbTgxVWMtZ3p0T1JQRHVjNEcwaEF0djZuMEtMYnVDWmh2UQ?oc=5)
 
 2026-05-13 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZTlOeXN3TnZXM0N2MHY3ekV2T0JBb3VkSm1EX25PczV0azZlRm1CM3VkbXIwdWhmbTgxVWMtZ3p0T1JQRHVjNEcwaEF0djZuMEtMYnVDWmh2UQ?oc=5)
-
----
-
-### [Huntly dad walked daughter down aisle two weeks after kidney cancer surgery - Press and Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXRncU1BV05NNFRULWJWdldMeEpkZUM1Z1NKMlVMU1pXZlJEQlAxdnRfT1dvRm9maHpocl93SktncXBDY1VkNGREbVZ0d190U2wtUFpQdWxjWmNISnRZb05lNGNBX0w2enRvak80aUJfOE9DZHVTRVJzOEphQkZXUi1TWEhDSURJRzZOVllrWU1PMms5ZE1RRDVOZVdtLXJqZDNpT3lHMlpqZC1HX0JOZUF0Xy1SampLVkRhUTF4amFpdw?oc=5)
-
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Press and Journal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXRncU1BV05NNFRULWJWdldMeEpkZUM1Z1NKMlVMU1pXZlJEQlAxdnRfT1dvRm9maHpocl93SktncXBDY1VkNGREbVZ0d190U2wtUFpQdWxjWmNISnRZb05lNGNBX0w2enRvak80aUJfOE9DZHVTRVJzOEphQkZXUi1TWEhDSURJRzZOVllrWU1PMms5ZE1RRDVOZVdtLXJqZDNpT3lHMlpqZC1HX0JOZUF0Xy1SampLVkRhUTF4amFpdw?oc=5)
 
 ---
 
@@ -190,27 +214,27 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Microbiota intestinal y depresión: cómo afecta a tu salud mental - La Mente es Maravillosa](https://news.google.com/rss/articles/CBMingFBVV95cUxQa2lxamRqSEY5LUM0OGZ3ajNRSkFJdWlDcDlscHBlamdzSUhtU1V2Nm8xOWQ0MzZsRkdBaUJKSmkyX3BPM2c1Vk1pSjZjajZ3TXdoMUUyYUFKWWJEUk5KSGtISFFvOFE0d1g0VUxHTnAyenhMLUdqclJSaFlTNTVndlBQeHBRZ1hKa3YxVnJLMXd4TUVzbzFaWi1fTS1fdw?oc=5)
-
-2026-05-13 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Mente es Maravillosa](https://news.google.com/rss/articles/CBMingFBVV95cUxQa2lxamRqSEY5LUM0OGZ3ajNRSkFJdWlDcDlscHBlamdzSUhtU1V2Nm8xOWQ0MzZsRkdBaUJKSmkyX3BPM2c1Vk1pSjZjajZ3TXdoMUUyYUFKWWJEUk5KSGtISFFvOFE0d1g0VUxHTnAyenhMLUdqclJSaFlTNTVndlBQeHBRZ1hKa3YxVnJLMXd4TUVzbzFaWi1fTS1fdw?oc=5)
-
----
-
-### [Woman isolating on British island in South Pacific after hantavirus contact](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aVnl0cHZaMWhyUFpMYW84WlA4aDhxWDNSVXVkRUFDUTF6Y21kbU5NVVhSWldobl9ZS1RDdmJiMnJXa1ZwVTROd2NLQkxUeHdGaGd2Z1BsOFV6SUla?oc=5)
-
-2026-05-13 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aVnl0cHZaMWhyUFpMYW84WlA4aDhxWDNSVXVkRUFDUTF6Y21kbU5NVVhSWldobl9ZS1RDdmJiMnJXa1ZwVTROd2NLQkxUeHdGaGd2Z1BsOFV6SUla?oc=5)
-
----
-
 ### [Leading infertility cause - polycystic ovary syndrome - renamed in push for better care - Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWk5mRXVjdHVna3IzZjN4RE5BRVBBa0hONUZPR0g4UUt5QWdGTy1qSEZwSDBIVTgxMGJjVUVuNTY1c0hwa25XbFNUbjFqd3Iya2hkY0wwSC14TmdHWEJmNGdzamhXbzhqcFRwcEpNaU5TUE1uTFhTRlZJblQ0R2dtUmh3c3cxT3A3dTlPREJ2cjdzdk82bW9HNHZETHNYY0hVSVl1cG9CMjVfeVVDUHRGbVdzUHhIQ2ZkWlBj?oc=5)
 
 2026-05-13 <span class="news-indication-tag">AF</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWk5mRXVjdHVna3IzZjN4RE5BRVBBa0hONUZPR0g4UUt5QWdGTy1qSEZwSDBIVTgxMGJjVUVuNTY1c0hwa25XbFNUbjFqd3Iya2hkY0wwSC14TmdHWEJmNGdzamhXbzhqcFRwcEpNaU5TUE1uTFhTRlZJblQ0R2dtUmh3c3cxT3A3dTlPREJ2cjdzdk82bW9HNHZETHNYY0hVSVl1cG9CMjVfeVVDUHRGbVdzUHhIQ2ZkWlBj?oc=5)
+
+---
+
+### [Doctor's warning as popular drink classed as a carcinogen with 'no safe' amount - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
+
+---
+
+### [Cruise ship passenger making best of quarantine in US after hantavirus outbreak - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdW5MUlVkZWI2bTdPcVpPSE5uNjh1VVVqV0FHOXdmOXY2QzB6WFowN3BTZGxRa2Jhb3BfZUlZRmdhZnZNYUdEUDlDaDdPM2trRjBMTEN6Z251R0VkVzB4YjY0aVFSZ2luNVlhUmNEaWFta3YySmpNQTIwSFNjQUtzeFZtRkRKYkxfYUpKSA?oc=5)
+
+2026-05-13 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdW5MUlVkZWI2bTdPcVpPSE5uNjh1VVVqV0FHOXdmOXY2QzB6WFowN3BTZGxRa2Jhb3BfZUlZRmdhZnZNYUdEUDlDaDdPM2trRjBMTEN6Z251R0VkVzB4YjY0aVFSZ2luNVlhUmNEaWFta3YySmpNQTIwSFNjQUtzeFZtRkRKYkxfYUpKSA?oc=5)
 
 ---
 
@@ -230,11 +254,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [My son Jeremy, 16, died after eating a sausage on a camping trip - his ultra-rare allergy was mistaken for 'asthma' - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
+### [Hantavirus swoop on Brit tourist in Italian bar who was on plane with woman who died - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHliZld3UExXTzd5QW55UURrMWc4Q0VRWDd6aG5ESFY5M1owYkJiWGV2ZGV5VDh2Y211MFdQV0YzQTNOQ0xoUFEzMDZGQndKWVpmOWhmTVhtSFNvUnRldjhJVzhyb1BZMnNYbmcyRUJxNEp5bElsc3JkN1U5SHJ2SmlKRFg4cFJpSzhIaDVMTFLSAZYBQVVfeXFMTVQ1OTBFTk5mejFpYWlUYzA3MzgxWE9LdVdlYWtySDBIOXYyZW9keFZzbld5c3B5aUpKcHJfUjR6NVVoMmZrWVpEUlVtYnc5Ty03eEQyTS1VbFA3QmRpUW9wMXRFRUF6UTVEc1RHNjNwUGYtLUM3VW1mbWNGZnhkSFpmdnJYdG1md3BnUnp2cXBNdXRUNVZ3?oc=5)
 
-2026-05-13 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-05-13 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHliZld3UExXTzd5QW55UURrMWc4Q0VRWDd6aG5ESFY5M1owYkJiWGV2ZGV5VDh2Y211MFdQV0YzQTNOQ0xoUFEzMDZGQndKWVpmOWhmTVhtSFNvUnRldjhJVzhyb1BZMnNYbmcyRUJxNEp5bElsc3JkN1U5SHJ2SmlKRFg4cFJpSzhIaDVMTFLSAZYBQVVfeXFMTVQ1OTBFTk5mejFpYWlUYzA3MzgxWE9LdVdlYWtySDBIOXYyZW9keFZzbld5c3B5aUpKcHJfUjR6NVVoMmZrWVpEUlVtYnc5Ty03eEQyTS1VbFA3QmRpUW9wMXRFRUF6UTVEc1RHNjNwUGYtLUM3VW1mbWNGZnhkSFpmdnJYdG1md3BnUnp2cXBNdXRUNVZ3?oc=5)
 
 ---
 
@@ -243,14 +267,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-05-13 <span class="news-indication-tag">AF</span>
 
 來源：[Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxQaDRBc3pMNmZyRU0tTHVJWUkySkM2UF9lcWJwbjNudVp3ZGI2Y1Y1RFdvc2drdnhUMXU3MUxkUE5ZTTY5czY1X01DSWNlQzBjcGp1WkxXNlhJdDhkT3lfb1ZPRjZ5dm0zNE9Xb3I5WC1tc2JHSkxqWHN4NDNhQnVDbGlzaW5NbTF5R09DYjlNZHBJWVNWNk9TSUVSWjJveFlzeGRHODJNQlNORFAtdGdnSWp3WGkwQkozblg2cnlHeS1uUGxlNHQ3Vk1ZNWZ0eDlSQk5uTk9Mc2RQRDlneEJRMElJQVBFSkdvd3RWbjhSdVZoVWJMM0pjeTdxZ0ZtWW9JdlplVllJcXAtX3hVWEozMXVLM2tKUnNUaF9IVHNWaWZ4b0NMUks4R3RRd2FEU1FHZ1hrWEliVUQ4UQ?oc=5)
-
----
-
-### [Data Feed - Fact Check: Der COVID-19-Impfstoff von Pfizer ist nicht als Auslöser für Hantavirus-Infektionen bekannt - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOM1RwZ21NRnhUUVVoY2ZoU0twbEFOdjBjZERnZGlGVmtoYmU3d251TC13aEZ6OEhBVldjYlBSdk9PYk91b0o3UTRaSXp1bG0tLTRwSU5TTGF6Y2pNaFZGbXlkVE5UVm1JdWFhYWhUMnA4b2w0Q3lPUTFjWVE2NVhaaVNVc3VVZ0Y4R0YtZzZpamk4YW1rNDd6ejJmVmJVSWdGdHRxRU5Vd2VNbldYMXcyM3Vzb0IzZzRSZXo1cU1Gd01vczR3SzMyT0prYVRNUUd5OTQ0T2RCZ1dZa29INkVsUnpSOGphaUI4aXJHbUpXU2h3bGt6N1M3cg?oc=5)
-
-2026-05-13 <span class="news-indication-tag">AF</span>
-
-來源：[MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOM1RwZ21NRnhUUVVoY2ZoU0twbEFOdjBjZERnZGlGVmtoYmU3d251TC13aEZ6OEhBVldjYlBSdk9PYk91b0o3UTRaSXp1bG0tLTRwSU5TTGF6Y2pNaFZGbXlkVE5UVm1JdWFhYWhUMnA4b2w0Q3lPUTFjWVE2NVhaaVNVc3VVZ0Y4R0YtZzZpamk4YW1rNDd6ejJmVmJVSWdGdHRxRU5Vd2VNbldYMXcyM3Vzb0IzZzRSZXo1cU1Gd01vczR3SzMyT0prYVRNUUd5OTQ0T2RCZ1dZa29INkVsUnpSOGphaUI4aXJHbUpXU2h3bGt6N1M3cg?oc=5)
 
 ---
 
@@ -267,14 +283,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-05-13 <span class="news-indication-tag">AF</span>
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
-
----
-
-### [Hantavirus, cinque cose da non fare assolutamente](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWZuNE9Ed04xZ1ZCaTZvSHN3R0g3dWZTdWRyQWU0ZFNpdEc4SXh4enJhU1dPNlUyQTNzT0QtUGdGd3hwNEo5bnRMa0tLVEt4b3dUVUFLVWVxeXVOZVhESzZzY2xUUGpGVjhwWG9TLUV3cGRsMlRrdG1VT1FCY0NSTGptdXV1R0ltYUJ6a2lJN2pGYVgtanpPZQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">AF</span>
-
-來源：[nicolaporro.it](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWZuNE9Ed04xZ1ZCaTZvSHN3R0g3dWZTdWRyQWU0ZFNpdEc4SXh4enJhU1dPNlUyQTNzT0QtUGdGd3hwNEo5bnRMa0tLVEt4b3dUVUFLVWVxeXVOZVhESzZzY2xUUGpGVjhwWG9TLUV3cGRsMlRrdG1VT1FCY0NSTGptdXV1R0ltYUJ6a2lJN2pGYVgtanpPZQ?oc=5)
 
 ---
 
@@ -334,59 +342,19 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Nach Herzinfarkt: Wohl nicht jeder braucht dauerhaft einen Betablocker](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFQ2XzVNekhZNXNwaUNEOTZ5Vzd0dkxoRmhEd19kRzd3aFRkQjdXWEdxeFFUUndUdnMtaHM0NGV2d1lWVEpZYW0taENsTEZtUnRsNlBKM3ZnOFlTdTlnRTFPTDVqS1NzNEZJb193U2sxQ1ZDSXFTNldlX2VzQTBiNmpzWVVWamJIRkpaMzBNQ2xyNkVobEN3ZGNLTXJUQkIxb2dlSkhqU1N3MjBkOXpWTkpqTmJ2MlFjRFE?oc=5)
-
-2026-05-12 <span class="news-indication-tag">AF</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFQ2XzVNekhZNXNwaUNEOTZ5Vzd0dkxoRmhEd19kRzd3aFRkQjdXWEdxeFFUUndUdnMtaHM0NGV2d1lWVEpZYW0taENsTEZtUnRsNlBKM3ZnOFlTdTlnRTFPTDVqS1NzNEZJb193U2sxQ1ZDSXFTNldlX2VzQTBiNmpzWVVWamJIRkpaMzBNQ2xyNkVobEN3ZGNLTXJUQkIxb2dlSkhqU1N3MjBkOXpWTkpqTmJ2MlFjRFE?oc=5)
-
----
-
-### [Ambulatori con medici 8 ore al giorno: dove aprono i 5 nuovi Aft - Il Resto del Carlino](https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDVlaERoZEhoNTR2UUcwR1NLejdCc2RmTEk5ekNKRjdnZDZacElLUG1xWEJUYXpTZ053OUhGdWVrNTdBTnNhVEJyY1piMTlOVEdERlZtMWs3TVFWUy03cE9NOG9QOThKLUlSMTQtZnRYMEFDc2w1SHBXMkoyWG0tSWNtZXY1QVlHOVB4aEJBZWVlZDNsdG5OcUowZk0yRm9rUkNoeHN4ZlJuVEd3bEtPbkJab0JVUQ?oc=5)
-
-2026-05-12 <span class="news-indication-tag">AF</span>
-
-來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDVlaERoZEhoNTR2UUcwR1NLejdCc2RmTEk5ekNKRjdnZDZacElLUG1xWEJUYXpTZ053OUhGdWVrNTdBTnNhVEJyY1piMTlOVEdERlZtMWs3TVFWUy03cE9NOG9QOThKLUlSMTQtZnRYMEFDc2w1SHBXMkoyWG0tSWNtZXY1QVlHOVB4aEJBZWVlZDNsdG5OcUowZk0yRm9rUkNoeHN4ZlJuVEd3bEtPbkJab0JVUQ?oc=5)
-
----
-
-### [If You Can Hold a Wall Sit This Long After 60, Your Leg Strength Is Elite - Eat This Not That](https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZbERqdFFITjRlUjR1MmVObExEd09zdjhnSzNLQnI4TnU1WUlQNE5PVHhsOGVDUDJMMmV6WmRQQkRMaVd1YmtDT3R1b2RhSTkxZy1xbnE2Y3hNM2ZMYkNnb2VVREZ4bXowNm9LRjRCNkVzbHpa?oc=5)
-
-2026-05-12 <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZbERqdFFITjRlUjR1MmVObExEd09zdjhnSzNLQnI4TnU1WUlQNE5PVHhsOGVDUDJMMmV6WmRQQkRMaVd1YmtDT3R1b2RhSTkxZy1xbnE2Y3hNM2ZMYkNnb2VVREZ4bXowNm9LRjRCNkVzbHpa?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Spezialisiertes Therapiekonzept für Kinderwunsch verkürzte Zeit bis zur Schwangerschaft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
-
-2026-05-12 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
-
----
-
-### [Are you exercising at the wrong time? How your body clock can affect your workouts - The Conversation](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWklHQndHNXNVemlSb0dSU3diVXRTRmNya19KampDZEJXY0ZFYWVpcFVlcWZ3eWFVZ1RzaC1FRjNvY1lLMm1uaEpLc1RvQzRBWFVXUUtvU1h1NFVYSEZYc2I0YUhnVzhWaXRONUVpS3ZNSjdxZ1VnTjMxQ0xBSVpwUlk5aEhBaHJXMEpEWHh3bUk2b1RxdVpORFhvLWl6RlVRUmtaOEJGamExclE3MHFJeHplNl91dnM?oc=5)
-
-2026-05-12 <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWklHQndHNXNVemlSb0dSU3diVXRTRmNya19KampDZEJXY0ZFYWVpcFVlcWZ3eWFVZ1RzaC1FRjNvY1lLMm1uaEpLc1RvQzRBWFVXUUtvU1h1NFVYSEZYc2I0YUhnVzhWaXRONUVpS3ZNSjdxZ1VnTjMxQ0xBSVpwUlk5aEhBaHJXMEpEWHh3bUk2b1RxdVpORFhvLWl6RlVRUmtaOEJGamExclE3MHFJeHplNl91dnM?oc=5)
-
----
-
-### [How your cortisol levels are affecting your weight gain – and what you can do about it - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
-
-2026-05-12 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
-
----
-
 ### [Open data is key to genomics research — if the information can be kept safe](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44WFhNN19XMmNJbHdJSEVmeW5idVBuZnVPSjY4cVRGNHlMYjZTYlFiYVlOYVRzWFFiVzJqU0NkWW94eWJYc25FajFvZTBEQ0NPSzBKbUdQdW14aWtwVFcw?oc=5)
 
 2026-05-12 <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44WFhNN19XMmNJbHdJSEVmeW5idVBuZnVPSjY4cVRGNHlMYjZTYlFiYVlOYVRzWFFiVzJqU0NkWW94eWJYc25FajFvZTBEQ0NPSzBKbUdQdW14aWtwVFcw?oc=5)
+
+---
+
+### [Nach Herzinfarkt: Wohl nicht jeder braucht dauerhaft einen Betablocker](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFQ2XzVNekhZNXNwaUNEOTZ5Vzd0dkxoRmhEd19kRzd3aFRkQjdXWEdxeFFUUndUdnMtaHM0NGV2d1lWVEpZYW0taENsTEZtUnRsNlBKM3ZnOFlTdTlnRTFPTDVqS1NzNEZJb193U2sxQ1ZDSXFTNldlX2VzQTBiNmpzWVVWamJIRkpaMzBNQ2xyNkVobEN3ZGNLTXJUQkIxb2dlSkhqU1N3MjBkOXpWTkpqTmJ2MlFjRFE?oc=5)
+
+2026-05-12 <span class="news-indication-tag">AF</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFQ2XzVNekhZNXNwaUNEOTZ5Vzd0dkxoRmhEd19kRzd3aFRkQjdXWEdxeFFUUndUdnMtaHM0NGV2d1lWVEpZYW0taENsTEZtUnRsNlBKM3ZnOFlTdTlnRTFPTDVqS1NzNEZJb193U2sxQ1ZDSXFTNldlX2VzQTBiNmpzWVVWamJIRkpaMzBNQ2xyNkVobEN3ZGNLTXJUQkIxb2dlSkhqU1N3MjBkOXpWTkpqTmJ2MlFjRFE?oc=5)
 
 ---
 
