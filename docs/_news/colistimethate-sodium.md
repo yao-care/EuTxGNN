@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [La Fundación Freno al Ictus alerta: la hipertensión, principal factor de riesgo prevenible del ictus](https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1lTUXlPM2ZkM0djS1hrS3RQX203SlRGVkI4V01VckFWSlgtTEU2Y21jLWZLVnZoZ0M4STNYbDQtckF4VWNPTGV6ZXNwN1IzTFpvNS1fOEZkS0FyeHZWX1U4STdwTjNadUlxNXFDcnlCMVNXdk8wckxNUnlCZTMtb1IxY2ZueW0yQzNjV1R3aWY4M1RpajRzY2lJTENnZ1MzTW8wajQzbkVJb0FOUFpmOGJTdzlSbFBYdWJaWExXWDZmcjJEeDBDQk0tUHHSAdIBQVVfeXFMUEp4U1ZTYi1IdEMzV29UN1FZc0dQZnhrZUF4aUxkVmg2VTM5QzllZTBxdXg4OTZFSEVBX29BSlJ6QzI4a1ZLaHdYMmRVZUdlTHF6X0hQRHdqZEFLc2RkM3VXRWZUTnJ6OERBWGFMOEN2QVBkNDlzSXl4X3IzcEg5X0pLUzBkUkNPNml4RC1OMmJjU3p5T0cxN0dLVkFzWmg4d2RkeUhvb3daYWJEN19DQlowamFpdDdERTJyS2RUNEhCOE9GYVI4UnJRWHhzcjNfc19R?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/colistimethate-sodium/
 2026-05-12 <span class="news-indication-tag">hipertensión</span>
 
 來源：[ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcC1rbXc5QVZYNDFXYi1wUVZ1Ym52am5RM0FPSVk2OTBXZ253a25sYVBoQ2tMZ2tDZS10cVFqMTlBTDVPZ2JLcnNmYkNxNmVxb3VzVnRBbzZjTThwOEsxS0hicDVtT21UbXZIUkdFVXlTaFd1RjQtV3BIX1F0OHFfX25LWVotRWpqR0hHZlh4UzRIWk1FY2szdGNNWEgtamx2UFl2RUM1elJtd3BIUUNxQjFOOTdERDFldXRkMWxLRUt5N3Q1Ym80?oc=5)
-
----
-
-### [This Is the Best Type of Exercise for Knee Pain From Arthritis, According to Scientists](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
-
-2026-05-11 <span class="news-indication-tag">arthritis</span>
-
-來源：[Prevention](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFFJMGZGVTZpamx4SlVYNjF3VnhaMlNzSUlUU3BEeVlCamdhLTU1cDVEcy1ZU3J0NmwwaGJLLWZCY1pPZ0xWY0pfdmlGOUs3STlsOFZlUElnekwtZ2ZwbHhjRjduTzV1bXFlckNsYUg3ekFMeW1Hc3k2U05mTU9NNnd0MG11dTRsSG1PMEJ1NnF1MThkWXdBSkVRbjJBbV9xOElwRndSZ0w?oc=5)
 
 ---
 

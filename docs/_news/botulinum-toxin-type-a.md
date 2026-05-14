@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Vivir con EPOC: la “asesina silenciosa” que te quita el aire - El Periódico de España](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pS1ZzNXEtYng5dzE4NDZfNnJLcEFSTm9LMVFtV1Bvd1JwcllUemtVWFd6T0kwdHZGU095VWc5YkZGdE1NZjk5WndNWDdhcGxEbXBxekdleUxOcG54N250MnpIb19qNXpw?oc=5)
 
 2026-05-12 <span class="news-indication-tag">EPOC</span>
 
 來源：[El Periódico de España](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pS1ZzNXEtYng5dzE4NDZfNnJLcEFSTm9LMVFtV1Bvd1JwcllUemtVWFd6T0kwdHZGU095VWc5YkZGdE1NZjk5WndNWDdhcGxEbXBxekdleUxOcG54N250MnpIb19qNXpw?oc=5)
+
+---
+
+### [Slowing Parkinson’s by Blocking a Key Protein - Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGN0OXIxbXpjZkpabWhIT1BUWVNsQ19udUNmRzAzMVYzQmNEZzNJYzlONV9Fd0UzeUhsZVZUamxEbXJWN2Jnb0VoZ0E3Z3BvWGNRYTlGS3VGSmk2cDVZaUZxeWdNcUxGR3AyN253TkREdnotbnRBMi1qQlVZZDZFOFZn?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGN0OXIxbXpjZkpabWhIT1BUWVNsQ19udUNmRzAzMVYzQmNEZzNJYzlONV9Fd0UzeUhsZVZUamxEbXJWN2Jnb0VoZ0E3Z3BvWGNRYTlGS3VGSmk2cDVZaUZxeWdNcUxGR3AyN253TkREdnotbnRBMi1qQlVZZDZFOFZn?oc=5)
 
 ---
 

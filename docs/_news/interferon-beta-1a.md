@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（11 則）
 
-### [Are hantavirus cases spreading? French woman in critical condition in hospital](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
+### [Lasertechnologie zur Erkennung von Weltraumschrott und dessen Auswirkungen - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lCWU5zZ05PQ2VBbU44ek84THhDanFOSkExTlJkUDZuYmNtdXlKUXBZN0YtMzZMMVAwT3ZoQ2VQZjZBM0EyUzVpZ3FCczF0VlJ6MVlzaXVob3lObkxpenA3QzFKc1RFcnJhX05ScjlEdUNXMTJUV0w2TTUxSVU3U09seWt0aEE0UGhrZmxyR1Rvc3F0cWUyWFRPeC16MkxHSXBmNmFsQ04wZw?oc=5)
 
 2026-05-13 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lCWU5zZ05PQ2VBbU44ek84THhDanFOSkExTlJkUDZuYmNtdXlKUXBZN0YtMzZMMVAwT3ZoQ2VQZjZBM0EyUzVpZ3FCczF0VlJ6MVlzaXVob3lObkxpenA3QzFKc1RFcnJhX05ScjlEdUNXMTJUV0w2TTUxSVU3U09seWt0aEE0UGhrZmxyR1Rvc3F0cWUyWFRPeC16MkxHSXBmNmFsQ04wZw?oc=5)
+
+---
+
+### [What it's like for passengers isolating in hantavirus quarantine in Nebraska](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
+
+---
+
+### [NI hospital managing outbreak of antibiotic resistant infection - Belfast Telegraph](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmJwQzA2TVltZWtNLWIxQzJzU0N1VXA3X28zZEQ3MjF5WEZxVkI2VFVNdjhicjVXc0h6bE1SbjMzVTlSSmhjbGJIRzhnN2xqUFZMOW9nb3VFcGVTNUludU5Hajd5SF9jS3hObGVjRTc0M2x1akJWNHhINmRSMEFWZGF4R2h4dkxiTEdoWFNQRWNPY0tibVJSNjgxRzRCSFIzMzdKcU1Ta0hpaXpucFljZWw3OUVCZ1ZkYWlqQlBFelZPSFp5VkQ1OE5IcWRHQmtVcTlv?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span>
+
+來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmJwQzA2TVltZWtNLWIxQzJzU0N1VXA3X28zZEQ3MjF5WEZxVkI2VFVNdjhicjVXc0h6bE1SbjMzVTlSSmhjbGJIRzhnN2xqUFZMOW9nb3VFcGVTNUludU5Hajd5SF9jS3hObGVjRTc0M2x1akJWNHhINmRSMEFWZGF4R2h4dkxiTEdoWFNQRWNPY0tibVJSNjgxRzRCSFIzMzdKcU1Ta0hpaXpucFljZWw3OUVCZ1ZkYWlqQlBFelZPSFp5VkQ1OE5IcWRHQmtVcTlv?oc=5)
+
+---
+
+### [The Subtle Symptoms of Stomach Cancer Doctors Say Not to Ignore](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+
+---
+
+### [L’ovaio policistico cambia nome e diventa sindrome ovarica poliendocrina metabolica (Pmos) - la Repubblica](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGlNVmNJQWdOZGplTGw0dVZobzZNbEZFLVVxd1RhMHFHQTctWm1TSVhsZF9DT0NiYnlRNDRkUVhGSXVsY3FSOVVMbjI1MUVPaUZDODh1V3YwZ1pVOC1oSjhSRl9QamJmcGlPRXVFMU1obHhPVDRfY3R6ZFhOMFY1T0UxWDd1VzM2bk9oMEpHZUdNc3VpSWlDTEJNYmlRLXBfMEJtSjZxY1U3b2I5ZmEwUnFHVUVpTUVvbDVmVW9SdXFRQVM3akpPMDNxUzF6ZkNPUHfSAdcBQVVfeXFMTi1LeWVoNjExcWppZHpCS3ZSdWlJM0pvTDJBQUN3N3VjUlhJVmJEeVRXVl9DSGpfYU02UUZXZXNrZWtzNkcxbFVrX2tyaWdGQzZKMHM1NlA4bkotdDI2b1Vsb1NyOTN6c0xNSEZmQXk1YnFaZ2lnbXl6RnJyM1E5TUhnYXU3azR4YTdkcEhBVlg5UkhVTG9hWTNmbkRhTllxMDR2cTRieG1jR2VHWlRJQzdfN3pFU2RxM2Q5aXg2X1IwY3FCM0xwQmotZTVEaHp4V0ZHLVhrSU0?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGlNVmNJQWdOZGplTGw0dVZobzZNbEZFLVVxd1RhMHFHQTctWm1TSVhsZF9DT0NiYnlRNDRkUVhGSXVsY3FSOVVMbjI1MUVPaUZDODh1V3YwZ1pVOC1oSjhSRl9QamJmcGlPRXVFMU1obHhPVDRfY3R6ZFhOMFY1T0UxWDd1VzM2bk9oMEpHZUdNc3VpSWlDTEJNYmlRLXBfMEJtSjZxY1U3b2I5ZmEwUnFHVUVpTUVvbDVmVW9SdXFRQVM3akpPMDNxUzF6ZkNPUHfSAdcBQVVfeXFMTi1LeWVoNjExcWppZHpCS3ZSdWlJM0pvTDJBQUN3N3VjUlhJVmJEeVRXVl9DSGpfYU02UUZXZXNrZWtzNkcxbFVrX2tyaWdGQzZKMHM1NlA4bkotdDI2b1Vsb1NyOTN6c0xNSEZmQXk1YnFaZ2lnbXl6RnJyM1E5TUhnYXU3azR4YTdkcEhBVlg5UkhVTG9hWTNmbkRhTllxMDR2cTRieG1jR2VHWlRJQzdfN3pFU2RxM2Q5aXg2X1IwY3FCM0xwQmotZTVEaHp4V0ZHLVhrSU0?oc=5)
+
+---
+
+### [Slowing Parkinson’s by Blocking a Key Protein - Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGN0OXIxbXpjZkpabWhIT1BUWVNsQ19udUNmRzAzMVYzQmNEZzNJYzlONV9Fd0UzeUhsZVZUamxEbXJWN2Jnb0VoZ0E3Z3BvWGNRYTlGS3VGSmk2cDVZaUZxeWdNcUxGR3AyN253TkREdnotbnRBMi1qQlVZZDZFOFZn?oc=5)
+
+2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGN0OXIxbXpjZkpabWhIT1BUWVNsQ19udUNmRzAzMVYzQmNEZzNJYzlONV9Fd0UzeUhsZVZUamxEbXJWN2Jnb0VoZ0E3Z3BvWGNRYTlGS3VGSmk2cDVZaUZxeWdNcUxGR3AyN253TkREdnotbnRBMi1qQlVZZDZFOFZn?oc=5)
+
+---
+
+### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
+
+2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
 
 ---
 
@@ -78,14 +126,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [The Sneaky Symptoms of Magnesium Deficiency, According to Dietitians](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmZneUgxRUdoenFxUzFaTWU4YnRncklQanpXRGJMMXZvMDJaOG5OaTRNbGcwSG9oNFhWdC1ad3FGNThtUnpZT2RtQ1pJZlFaV1RlWVVTNlAyQmRjU0FHSHQwTXFpUzNXN29aQ1M1OVFKZTVwek5wcFBNOFNubXZ0WQ?oc=5)
-
-2026-05-12 <span class="news-indication-tag">MS</span>
-
-來源：[Prevention](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmZneUgxRUdoenFxUzFaTWU4YnRncklQanpXRGJMMXZvMDJaOG5OaTRNbGcwSG9oNFhWdC1ad3FGNThtUnpZT2RtQ1pJZlFaV1RlWVVTNlAyQmRjU0FHSHQwTXFpUzNXN29aQ1M1OVFKZTVwek5wcFBNOFNubXZ0WQ?oc=5)
-
----
-
 ### [Wie gefährlich sind Aluminiumsalze in Impfstoffen? - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
 
 2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -99,14 +139,6 @@ permalink: /news/interferon-beta-1a/
 2026-05-12 <span class="news-indication-tag">MS</span>
 
 來源：[Men's Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXpaQVhrUHNfX0lpU01aNEJSRks5c0V2Y2tlSzRkSW1DSm9zdm9UWUxLTTBGWU0zVjdUcjJjbUZhSDdfXy1OdnpVYVRYNzFkVWxlaTRwZ0hac1ZHbE5yUFRxdTdWeHJsUm1oRmRYeURPTlU3OS1fWnZlR3lNMHBudVl4bzhENnM?oc=5)
-
----
-
-### [“I had cold hands and then my life changed in the blink of an eye" - Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
-
-2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
 
 ---
 

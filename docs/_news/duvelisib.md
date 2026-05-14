@@ -14,7 +14,7 @@ permalink: /news/duvelisib/
 ---
 
 <p class="key-answer" data-question="Duvelisib 有什麼相關新聞？">
-<strong>Duvelisib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duvelisib</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/duvelisib/
 <p><a href="{{ '/drugs/duvelisib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（16 則）
+
+### [Gewichtszunahme im Erwachsenenalter erhöht Krebsrisiko erheblich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
+
+---
+
+### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+---
+
+### [The Subtle Symptoms of Stomach Cancer Doctors Say Not to Ignore](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+
+---
 
 ### [Stiftung PATH – Patients’ Tumor Bank of Hope](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlNSaElnakMwWWZYZDBYMjZzSmE1Mmo0bHhkWXFLdHNtZTc4RTY1OW5aY3dzM2R3dlMyb3VGdS1wcWNYYXE2c3VmdjlaaEFOWXJIcjZYLTBlU3lySUxUQ0RaNWNNTWx4bkRNZEVoeHhJSjdvXzUwdkNncW1oWXRLQU9DVlRrY1FSdXllYjZVQ2ZIVTQ2cFphWXpLQldNdEFx?oc=5)
 
@@ -75,6 +99,14 @@ permalink: /news/duvelisib/
 2026-05-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFpUdVNHZldISEg4VWZJN29VYnowS2RDd2lPcU9GMEVGZlcwUy1Dd1RQZDlSSEFNUVRwOXpVY0JnUGs1THlDV2FBeFlpaFlra3RNMk5EbmRXbkpNU0RNQ3UxZG42S3IwMmJGQ2JrUzdnMGlNaTIwMU51NFdiUFd0RWVZcFB3UVhVXzE1ZHA4V3N6VnoyTlBEemVUc3BWdFNIdGczTjVpTTJoQTIzQkw5VGVKTGFfQ1pmMmc?oc=5)
+
+---
+
+### [Cancer colorectal : ce pesticide « sans risque » serait lié à l’explosion des cas](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0ZkQ0ZaY2M2UWJVNGE4bU5YRENGMjhEbUlUTE4xWjgtV09FWk9Tdm02NDdoSG1YRWtoeE85amVKUks5dFB6Q3otejZsRnAyQy13SGhZc2p0eDhsNXp0bVJXTXYwcXRNUFRMaEU2d3d0bndlRUxpWnB4QmRIWkhHaERRNFB1aVFqTWloVkRhbWM?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0ZkQ0ZaY2M2UWJVNGE4bU5YRENGMjhEbUlUTE4xWjgtV09FWk9Tdm02NDdoSG1YRWtoeE85amVKUks5dFB6Q3otejZsRnAyQy13SGhZc2p0eDhsNXp0bVJXTXYwcXRNUFRMaEU2d3d0bndlRUxpWnB4QmRIWkhHaERRNFB1aVFqTWloVkRhbWM?oc=5)
 
 ---
 
@@ -118,11 +150,11 @@ permalink: /news/duvelisib/
 
 ---
 
-### [Cancer : des chercheurs mettent en évidence un lien entre les tumeurs colorectales chez les jeunes et un pesticide jugé sans risque - Le Monde.fr](https://news.google.com/rss/articles/CBMiowJBVV95cUxNMHlZR240ellsZlNpX3I0U2lrLWpvUmRaTEZEbXRXZ1AzaEVIOUg2WWZkaUNmbTlmdmpYYnM4RDRSMllTcVdmQ25NdEdUUG1pZUJPaWktbHBHOTJ6SkUzMF9LTW9pRFZtNG1oazdwWUhQam8yR2xlT0RGTjNLT1B6UG5NY25sZWRvb180R0x2ZFVqOW93MHhobzNlbXhmY2JDQ2g3cGcyN1lhWGhQQzExLWo1RzlvUkNQLVJfQThrejRXQ1RRWmNDRmRNVE1WVVlCRDdUYldvdHcwYmRULVoxaUthQS1rQURzOFdaQ2xjQi1DcUpiaGtqeVktUWRZOE5XU3FaWGtQdUhwQmFTamw0aXhBZFNCWmJJOVZfS3d2bVdBaUE?oc=5)
+### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
 
-2026-05-13 <span class="news-indication-tag">cancer</span>
+2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiowJBVV95cUxNMHlZR240ellsZlNpX3I0U2lrLWpvUmRaTEZEbXRXZ1AzaEVIOUg2WWZkaUNmbTlmdmpYYnM4RDRSMllTcVdmQ25NdEdUUG1pZUJPaWktbHBHOTJ6SkUzMF9LTW9pRFZtNG1oazdwWUhQam8yR2xlT0RGTjNLT1B6UG5NY25sZWRvb180R0x2ZFVqOW93MHhobzNlbXhmY2JDQ2g3cGcyN1lhWGhQQzExLWo1RzlvUkNQLVJfQThrejRXQ1RRWmNDRmRNVE1WVVlCRDdUYldvdHcwYmRULVoxaUthQS1rQURzOFdaQ2xjQi1DcUpiaGtqeVktUWRZOE5XU3FaWGtQdUhwQmFTamw0aXhBZFNCWmJJOVZfS3d2bVdBaUE?oc=5)
+來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
 
 ---
 
@@ -142,11 +174,11 @@ permalink: /news/duvelisib/
 
 ---
 
-### [“I had cold hands and then my life changed in the blink of an eye" - Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
+### [Doctor's warning as popular drink classed as a carcinogen with 'no safe' amount - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
 
-2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGZtZ2hvamFJQV94SFRZNnk4VlB5Skptb3QySS1GSWFCZnlpTXBEbks2a0lrTDJQaEp1ZHJ1SzdwZVQ2Z1JpcTI0dXNhclMzcDlQMklvM2Z1SkZieEN1VlRVOGN4REJVT2EtSkRDVmZsVHgwUWM4VGpxYXo1YTNuS1AxV1RCMzRVeDJr0gGQAUFVX3lxTE1TdEw1NmMtTEh1OWdoSk1LSVpZb3dQUEZlbTFnODNWOTJ3YWFhVTZCMWk2Wi1ocTBFN3BtQzhkVDllWEJUQS11VnM0TGktN3hnT2FQVWVnYzlzQzk5VUFkZ3NNUFktUl9yZTVvOGhHMUlzbUE0elFpUmxpX3dxS3oxWHMxTWtWU2tTMHVKa1lENw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。9 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>9 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,13 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [L’obésité progresse à grande vitesse dans les pays à faibles revenus et se stabilise dans les pays riches - Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
+### [Gewichtszunahme im Erwachsenenalter erhöht Krebsrisiko erheblich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
+
+2026-05-14
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
+
+---
+
+### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
 2026-05-13
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
 ---
 
@@ -54,19 +62,19 @@ permalink: /news/obesity/
 
 ---
 
-### [Fettleibigkeit verlagert sich zunehmend in ärmere Länder](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0dXeDdVWGdNVTVvaXJOQWpoTko0bmU0VkdzZUlrQnB1WHhGT05kcVFhY2VqZGE1c0FiVUNGdkwxdE0wUVZ5Z2dYYktoNHFqNHZZcXEza3AwcGxXNzVsM2U2blhJLWRadnVTRWp4RUFjYkhUVllVd1hIeTdCV0VZaXNDQklJLW1WdjJldXI1LUpDeUhNejVsQURlYlByMTg?oc=5)
-
-2026-05-13
-
-來源：[Sarganserländer](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0dXeDdVWGdNVTVvaXJOQWpoTko0bmU0VkdzZUlrQnB1WHhGT05kcVFhY2VqZGE1c0FiVUNGdkwxdE0wUVZ5Z2dYYktoNHFqNHZZcXEza3AwcGxXNzVsM2U2blhJLWRadnVTRWp4RUFjYkhUVllVd1hIeTdCV0VZaXNDQklJLW1WdjJldXI1LUpDeUhNejVsQURlYlByMTg?oc=5)
-
----
-
 ### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
 
 2026-05-13
 
 來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
+
+---
+
+### [rbb GESUND - Diabetes: Immer bessere Therapien, wo bleibt der Mensch? - rbb24 Inforadio](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFrb3VmckRKbGx5WGFBbDI1RzBTSm5tTmVPNzRLVWNmc2c2WEpQSFd4LUJtYlZxcHlndDV2dG9UY1c5Tm1uMXY3UHllWVZVSkJSTmFhLXpvbXRCQXRTTjFua2VRdHZLTVdZNFplSjlRNEFFS29leHdadDRBTHdRTFB0akNaRnhZYXE3WVowOEx2dFBQUUd5UkxmeWJLZFJyTTdRdHVkeWl6RVFuVFhR?oc=5)
+
+2026-05-13
+
+來源：[rbb24 Inforadio](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFrb3VmckRKbGx5WGFBbDI1RzBTSm5tTmVPNzRLVWNmc2c2WEpQSFd4LUJtYlZxcHlndDV2dG9UY1c5Tm1uMXY3UHllWVZVSkJSTmFhLXpvbXRCQXRTTjFua2VRdHZLTVdZNFplSjlRNEFFS29leHdadDRBTHdRTFB0akNaRnhZYXE3WVowOEx2dFBQUUd5UkxmeWJLZFJyTTdRdHVkeWl6RVFuVFhR?oc=5)
 
 ---
 
@@ -86,11 +94,11 @@ permalink: /news/obesity/
 
 ---
 
-### [More than 6,000 children treated at obesity clinics in England, figures show - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
+### [L’obésité progresse à grande vitesse dans les pays à faibles revenus et se stabilise dans les pays riches - Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
 
-2026-05-12
+2026-05-13
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHh6YS00RUJUUWFkeS03YUZkNGhJb0RMYmJ6WmN6cnRnWEU2LXZ0QXFmME94ZWpUd2UzalBReExxZ2w0anVISkpHaVM2XzBtVmJHX1V0dFBPOFJyeUtWUzhydW9ITm5WNVdaM1FxejlaR1hwa05xZW5Ub18zdXREN0djUWp1amZlUnNrc2NfWVZzZEVjXzY3R3ZfYUtVcV9pYXpDVEQxTHhHTlF1T2ZrRGI5UFdPM1M0TVZDQnE1dw?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
 
 ---
 
