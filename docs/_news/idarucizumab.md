@@ -62,11 +62,11 @@ permalink: /news/idarucizumab/
 
 ---
 
-### [Vivir con EPOC: la “asesina silenciosa” que te quita el aire - El Periódico de España](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pS1ZzNXEtYng5dzE4NDZfNnJLcEFSTm9LMVFtV1Bvd1JwcllUemtVWFd6T0kwdHZGU095VWc5YkZGdE1NZjk5WndNWDdhcGxEbXBxekdleUxOcG54N250MnpIb19qNXpw?oc=5)
+### [Vivir con EPOC: la “asesina silenciosa” que te quita el aire - El Periódico](https://news.google.com/rss/articles/CBMidEFVX3lxTFA3azZGdGNBVzhiZHZKRTY2T1JwOHpiRmx6MFBqbkRmSlJPZTEtN0JYTS1fbGVsdUlFZW5IZzhoWW9aR0ZleEtVN1VtelliSGVJTEc2QWFSV3cwdlpsbldJN2pFVy0xeHVBREtnUnI1eUpSNUY4?oc=5)
 
 2026-05-12 <span class="news-indication-tag">EPOC</span>
 
-來源：[El Periódico de España](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pS1ZzNXEtYng5dzE4NDZfNnJLcEFSTm9LMVFtV1Bvd1JwcllUemtVWFd6T0kwdHZGU095VWc5YkZGdE1NZjk5WndNWDdhcGxEbXBxekdleUxOcG54N250MnpIb19qNXpw?oc=5)
+來源：[El Periódico](https://news.google.com/rss/articles/CBMidEFVX3lxTFA3azZGdGNBVzhiZHZKRTY2T1JwOHpiRmx6MFBqbkRmSlJPZTEtN0JYTS1fbGVsdUlFZW5IZzhoWW9aR0ZleEtVN1VtelliSGVJTEc2QWFSV3cwdlpsbldJN2pFVy0xeHVBREtnUnI1eUpSNUY4?oc=5)
 
 ---
 

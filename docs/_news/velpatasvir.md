@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（19 則）
+
+### [ADHS-Ambulanz der LVR-Klinik: Keine Lifestyle-Krankheit – Wie Erwachsene mit ADHS kämpfen - RP Online](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWl90b0gybFhTYUItRU9yM2gxRXlsUm9LLWZyT25Za1kwdkFlVmV2cG8yMDZHNnhoanI4WXZBYXUxVmtzS21ueUp3UE1GNmtRM0UtcktmeE5GNW8xZDItRXQyNGVmcWhZbHlaeUNvZnh6a1dfU1ZJY21aVHpLQ1Z0UDdPNHplbFpXT2JhTGtrYnpYZUhiZ21aX2tmQ0dKQmJHcEN0QnZCNUFSSFBOeThWTE9TVzlBMzc1MC1BbGtYZ2M?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span>
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWl90b0gybFhTYUItRU9yM2gxRXlsUm9LLWZyT25Za1kwdkFlVmV2cG8yMDZHNnhoanI4WXZBYXUxVmtzS21ueUp3UE1GNmtRM0UtcktmeE5GNW8xZDItRXQyNGVmcWhZbHlaeUNvZnh6a1dfU1ZJY21aVHpLQ1Z0UDdPNHplbFpXT2JhTGtrYnpYZUhiZ21aX2tmQ0dKQmJHcEN0QnZCNUFSSFBOeThWTE9TVzlBMzc1MC1BbGtYZ2M?oc=5)
+
+---
+
+### [Hantavirus, Ecdc: Virus non mutato, stretta osservanza in quarantena di asintomatici - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKOGJTZUM0T3lWdWZvVmQwWTY0ZF9FLWF1cnBiR0ZPb2NKNGpjN1Flc2dSU0pZM1ZBd0x3MExXNFlXNXJSM0RpdWFtZ2prVkRjNmpBalMtVURMRVoxUkdVSURuczBpZ3VNZFlLYmtna01zYk5vUjI3bmFB?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKOGJTZUM0T3lWdWZvVmQwWTY0ZF9FLWF1cnBiR0ZPb2NKNGpjN1Flc2dSU0pZM1ZBd0x3MExXNFlXNXJSM0RpdWFtZ2prVkRjNmpBalMtVURMRVoxUkdVSURuczBpZ3VNZFlLYmtna01zYk5vUjI3bmFB?oc=5)
+
+---
+
+### [Dr Edward Jenner's vaccination clinic to reopen after restoration](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZVhUX3pJbVVnZjlfU3BTUm1UbUFiVGNpcldsZ2VKTzBCWTBYY0FsUnpfQzFKSDdyWndRdXdXTXVGd1lTUXZCOFZxS0RUT0lqbGZWWWtjSHNlV0Nt?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZVhUX3pJbVVnZjlfU3BTUm1UbUFiVGNpcldsZ2VKTzBCWTBYY0FsUnpfQzFKSDdyWndRdXdXTXVGd1lTUXZCOFZxS0RUT0lqbGZWWWtjSHNlV0Nt?oc=5)
+
+---
 
 ### [Lasertechnologie zur Erkennung von Weltraumschrott und dessen Auswirkungen - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lCWU5zZ05PQ2VBbU44ek84THhDanFOSkExTlJkUDZuYmNtdXlKUXBZN0YtMzZMMVAwT3ZoQ2VQZjZBM0EyUzVpZ3FCczF0VlJ6MVlzaXVob3lObkxpenA3QzFKc1RFcnJhX05ScjlEdUNXMTJUV0w2TTUxSVU3U09seWt0aEE0UGhrZmxyR1Rvc3F0cWUyWFRPeC16MkxHSXBmNmFsQ04wZw?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [What it's like for passengers isolating in hantavirus quarantine in Nebraska](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
+### [Hantavirus: test negativi per il turista inglese in quarantena a Milano - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkNCNjNMS0ZwVUVHcWpWRWRQb0dsbk9SeHRGYjhVaTNxZjVMQzN2UEpTZ05KNzBZVXZ3ZlZVYWZjbzdKYmxQclFHaUJtVjFsemN1TkxuMTNxRjhFa2ctNXRRaGg5dndndjVkWlB1MW1WY0NiVjE4RjlUQ2ZxcjQzS1ljX0EzY2xjemxSVWZKQTFuWlp1aGlTdkpKZ25EQm5DWmNj?oc=5)
 
-2026-05-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-13 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkNCNjNMS0ZwVUVHcWpWRWRQb0dsbk9SeHRGYjhVaTNxZjVMQzN2UEpTZ05KNzBZVXZ3ZlZVYWZjbzdKYmxQclFHaUJtVjFsemN1TkxuMTNxRjhFa2ctNXRRaGg5dndndjVkWlB1MW1WY0NiVjE4RjlUQ2ZxcjQzS1ljX0EzY2xjemxSVWZKQTFuWlp1aGlTdkpKZ25EQm5DWmNj?oc=5)
 
 ---
 
@@ -78,11 +102,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [The Subtle Symptoms of Stomach Cancer Doctors Say Not to Ignore](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+### [Topi, Hantavirus, contagi: un impatto devastante con le solite colpe umane - La Gazzetta del Mezzogiorno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZnFfWFdNUTNMN1lyTWF6QlJtUExfNkpYNVNxR2tTMDRZZEI2ZTdXQ3ZmcDBfOWpKMlp5clQ0cHV6QTZNb0dpTmNBV0FHWkkwV2MwdXNsTWRpX18wTXRxbVdkZ1dpVy1tSkhpVWRnSVlTUC1ZajY1c1cyTDRBX3RKNjAtdHo1SDRXMm40eEFoMXBJeGNZakdhWHVsWGtuc1ViZjJPSE15Y21uWVNWaHczZVp5R3pZTFFkYlJmZDZyRkxQZUpEbXJ1QVdhb0Q0ZUllSVFnN3FhWdIB1gFBVV95cUxQYXV5bU5JVFhNeHdXNlZLcEZXaGFMaEpnY1dlWnIwb3hBUmpEa0tRaGRBZm5FX1IzVEN3enZRV3RFWWZZR1JoYklLVG5GdF81ZTZxWTN4WDJfNkpnQUJmWVh5bEZxYVFWV0huNy11b0FNMWxtb0lrQi1sSDlkS016YXJBUG8wam40anYwXzZqWEg4RWVLenZzSU5TazZuQ0EwVG1WRmJzb1diSFlLZjNmUThjYkoyOTR4TzhvdXFZR0FwbFVxaGpBMlZ5bHktX3FXSUNqdmxn?oc=5)
 
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-05-13 <span class="news-indication-tag">MS</span>
 
-來源：[Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+來源：[La Gazzetta del Mezzogiorno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZnFfWFdNUTNMN1lyTWF6QlJtUExfNkpYNVNxR2tTMDRZZEI2ZTdXQ3ZmcDBfOWpKMlp5clQ0cHV6QTZNb0dpTmNBV0FHWkkwV2MwdXNsTWRpX18wTXRxbVdkZ1dpVy1tSkhpVWRnSVlTUC1ZajY1c1cyTDRBX3RKNjAtdHo1SDRXMm40eEFoMXBJeGNZakdhWHVsWGtuc1ViZjJPSE15Y21uWVNWaHczZVp5R3pZTFFkYlJmZDZyRkxQZUpEbXJ1QVdhb0Q0ZUllSVFnN3FhWdIB1gFBVV95cUxQYXV5bU5JVFhNeHdXNlZLcEZXaGFMaEpnY1dlWnIwb3hBUmpEa0tRaGRBZm5FX1IzVEN3enZRV3RFWWZZR1JoYklLVG5GdF81ZTZxWTN4WDJfNkpnQUJmWVh5bEZxYVFWV0huNy11b0FNMWxtb0lrQi1sSDlkS016YXJBUG8wam40anYwXzZqWEg4RWVLenZzSU5TazZuQ0EwVG1WRmJzb1diSFlLZjNmUThjYkoyOTR4TzhvdXFZR0FwbFVxaGpBMlZ5bHktX3FXSUNqdmxn?oc=5)
 
 ---
 
@@ -94,11 +118,51 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Klinik-Mitarbeiter in Quarantäne: Hantavirus in Nimwegen: So ist der Kreis Kleve darauf vorbereitet - RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnhuNERMTWJnbFpTcU5pa25iS1pJdl9DdmNOVnRTN3ZUZkNVdFVqcUt5QldhUmlFa0F6Zld3VHgxeTZ4XzZ1UmlmbTJwSnVJUHlNQlVFSG9wYkJmeTRpUkxQTzJZNWVINkY0TjFOanduRFV1VVZEaUtYRVJuQW9hTktwZUFRVnRqdi1xdnBUVGFyb2E3dGd1RFpOcnZPM19RS3J6OC1zcUpoMmVmNXRkQ3Q1OE0wblBmdFloMGhPcklqR3c?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span>
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnhuNERMTWJnbFpTcU5pa25iS1pJdl9DdmNOVnRTN3ZUZkNVdFVqcUt5QldhUmlFa0F6Zld3VHgxeTZ4XzZ1UmlmbTJwSnVJUHlNQlVFSG9wYkJmeTRpUkxQTzJZNWVINkY0TjFOanduRFV1VVZEaUtYRVJuQW9hTktwZUFRVnRqdi1xdnBUVGFyb2E3dGd1RFpOcnZPM19RS3J6OC1zcUpoMmVmNXRkQ3Q1OE0wblBmdFloMGhPcklqR3c?oc=5)
+
+---
+
+### [Are hantavirus cases spreading? French woman in critical condition in hospital](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
+
+---
+
+### [Ce que révèle l’aspect de vos selles sur votre santé — et pourquoi il faut y prêter attention](https://news.google.com/rss/articles/CBMivwFBVV95cUxNODBuVDNIdnhiQks0bUQxTXR3QkZTVU43dldpYkVLMnczSmFadVVIQnctYTRVR0ZsZ1hpRWNsc1pRTnh1SS1OeF92bTdHOFdVTVhzb3NhUVNQeXlPNmdvLUhyRFNRRGJsRUEyUjI4VDkyTkpaX2c4Zmt3MjNaYng0Yk4zQjRwRThieEtBS09XTWVzandFdnBuUS1vWWRTSHVyakxmU1lrR2l3bFd6QzdrM2JlS2ltNHBldXhQLXRiWQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span>
+
+來源：[24matins](https://news.google.com/rss/articles/CBMivwFBVV95cUxNODBuVDNIdnhiQks0bUQxTXR3QkZTVU43dldpYkVLMnczSmFadVVIQnctYTRVR0ZsZ1hpRWNsc1pRTnh1SS1OeF92bTdHOFdVTVhzb3NhUVNQeXlPNmdvLUhyRFNRRGJsRUEyUjI4VDkyTkpaX2c4Zmt3MjNaYng0Yk4zQjRwRThieEtBS09XTWVzandFdnBuUS1vWWRTSHVyakxmU1lrR2l3bFd6QzdrM2JlS2ltNHBldXhQLXRiWQ?oc=5)
+
+---
+
 ### [Australia: Patients of retired Sydney dentist warned of viruses including hepatitis and HIV](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
 
 2026-05-13 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
+
+---
+
+### [Epatite E nel salame, scatta il richiamo al supermercato: i lotti interessati](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">epatite</span>
+
+來源：[QuiFinanza](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQQ?oc=5)
+
+---
+
+### [One change to my workout helped me combat cortisol and years of stress - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxOSWdTMEF0RUF4QzFIS0tiNHdLQ2tMTWlXOE9WeTFBbmprWU54MXJKNjUxc25fQXJWc3RfRkptVVFHQkdCWFk4WENFX2FxZjQzSG5uRndVSjA1NnJlTTNiNHNma3hnbnV3OC1xeFZBS0l1WmpUbkdQTERaQTN5eFpPd3pLRTVQUVZXeVZpSXNGVjNDdm1iRFAxWG1rbGVqdw?oc=5)
+
+2026-05-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxOSWdTMEF0RUF4QzFIS0tiNHdLQ2tMTWlXOE9WeTFBbmprWU54MXJKNjUxc25fQXJWc3RfRkptVVFHQkdCWFk4WENFX2FxZjQzSG5uRndVSjA1NnJlTTNiNHNma3hnbnV3OC1xeFZBS0l1WmpUbkdQTERaQTN5eFpPd3pLRTVQUVZXeVZpSXNGVjNDdm1iRFAxWG1rbGVqdw?oc=5)
 
 ---
 
@@ -118,14 +182,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Une nouvelle MST circule-t-elle chez les hommes?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlJVcDA0WXl2aTYxNlFzWmhyRkdqM0d4S2NRLV93alc4bTQxLUlBbnhQdmlraElkd1ozRXNNOVd2Wl9TRTAwR21zUlE3a0FxLS0wOUxHcWE2RE5MQU1IX29tN2pYSlRTR05YOGZLdHdteElWNTgzQzM4R1RHT2lKN2JzSGt5M2RhZzNBV0hEX0xXQ21iSGhmNm1VSHpRNHdGeXlfYzlKLUJKbnpabXc0?oc=5)
-
-2026-05-12 <span class="news-indication-tag">MS</span>
-
-來源：[L'essentiel](https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlJVcDA0WXl2aTYxNlFzWmhyRkdqM0d4S2NRLV93alc4bTQxLUlBbnhQdmlraElkd1ozRXNNOVd2Wl9TRTAwR21zUlE3a0FxLS0wOUxHcWE2RE5MQU1IX29tN2pYSlRTR05YOGZLdHdteElWNTgzQzM4R1RHT2lKN2JzSGt5M2RhZzNBV0hEX0xXQ21iSGhmNm1VSHpRNHdGeXlfYzlKLUJKbnpabXc0?oc=5)
-
----
-
 ### [Vitamin B12: the essential nutrient with a complicated cancer link - The Conversation](https://news.google.com/rss/articles/CBMiogFBVV95cUxPODliNFlGaVhZYVdSSV9jTlFYZXNPWGozRnJDa05nQlRxWWZsTUo0cVZickg1bk9faFdtcmNrN3o5aS1ZallwZXJtb3pncnZkdVRVZ0lRblFBclJPV09nMlBnNjhXZ1MwdFZIcjEtbHdfakJrUS1GakNOWHA0WVlLNkJ0UDBtQjlfZ1dyRzlSTWxUVmpRREpfLUF3YnZCR05qUmc?oc=5)
 
 2026-05-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -136,7 +192,7 @@ permalink: /news/velpatasvir/
 
 ### [Wie gefährlich sind Aluminiumsalze in Impfstoffen? - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
 
-2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-12 <span class="news-indication-tag">MS</span>
 
 來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
 

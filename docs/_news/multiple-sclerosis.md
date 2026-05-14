@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。17 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>17 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,31 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（17 則）
+
+### [ADHS-Ambulanz der LVR-Klinik: Keine Lifestyle-Krankheit – Wie Erwachsene mit ADHS kämpfen - RP Online](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWl90b0gybFhTYUItRU9yM2gxRXlsUm9LLWZyT25Za1kwdkFlVmV2cG8yMDZHNnhoanI4WXZBYXUxVmtzS21ueUp3UE1GNmtRM0UtcktmeE5GNW8xZDItRXQyNGVmcWhZbHlaeUNvZnh6a1dfU1ZJY21aVHpLQ1Z0UDdPNHplbFpXT2JhTGtrYnpYZUhiZ21aX2tmQ0dKQmJHcEN0QnZCNUFSSFBOeThWTE9TVzlBMzc1MC1BbGtYZ2M?oc=5)
+
+2026-05-14
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWl90b0gybFhTYUItRU9yM2gxRXlsUm9LLWZyT25Za1kwdkFlVmV2cG8yMDZHNnhoanI4WXZBYXUxVmtzS21ueUp3UE1GNmtRM0UtcktmeE5GNW8xZDItRXQyNGVmcWhZbHlaeUNvZnh6a1dfU1ZJY21aVHpLQ1Z0UDdPNHplbFpXT2JhTGtrYnpYZUhiZ21aX2tmQ0dKQmJHcEN0QnZCNUFSSFBOeThWTE9TVzlBMzc1MC1BbGtYZ2M?oc=5)
+
+---
+
+### [Hantavirus, Ecdc: Virus non mutato, stretta osservanza in quarantena di asintomatici - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKOGJTZUM0T3lWdWZvVmQwWTY0ZF9FLWF1cnBiR0ZPb2NKNGpjN1Flc2dSU0pZM1ZBd0x3MExXNFlXNXJSM0RpdWFtZ2prVkRjNmpBalMtVURMRVoxUkdVSURuczBpZ3VNZFlLYmtna01zYk5vUjI3bmFB?oc=5)
+
+2026-05-14
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKOGJTZUM0T3lWdWZvVmQwWTY0ZF9FLWF1cnBiR0ZPb2NKNGpjN1Flc2dSU0pZM1ZBd0x3MExXNFlXNXJSM0RpdWFtZ2prVkRjNmpBalMtVURMRVoxUkdVSURuczBpZ3VNZFlLYmtna01zYk5vUjI3bmFB?oc=5)
+
+---
+
+### [Dr Edward Jenner's vaccination clinic to reopen after restoration](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZVhUX3pJbVVnZjlfU3BTUm1UbUFiVGNpcldsZ2VKTzBCWTBYY0FsUnpfQzFKSDdyWndRdXdXTXVGd1lTUXZCOFZxS0RUT0lqbGZWWWtjSHNlV0Nt?oc=5)
+
+2026-05-14
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZVhUX3pJbVVnZjlfU3BTUm1UbUFiVGNpcldsZ2VKTzBCWTBYY0FsUnpfQzFKSDdyWndRdXdXTXVGd1lTUXZCOFZxS0RUT0lqbGZWWWtjSHNlV0Nt?oc=5)
+
+---
 
 ### [Lasertechnologie zur Erkennung von Weltraumschrott und dessen Auswirkungen - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lCWU5zZ05PQ2VBbU44ek84THhDanFOSkExTlJkUDZuYmNtdXlKUXBZN0YtMzZMMVAwT3ZoQ2VQZjZBM0EyUzVpZ3FCczF0VlJ6MVlzaXVob3lObkxpenA3QzFKc1RFcnJhX05ScjlEdUNXMTJUV0w2TTUxSVU3U09seWt0aEE0UGhrZmxyR1Rvc3F0cWUyWFRPeC16MkxHSXBmNmFsQ04wZw?oc=5)
 
@@ -64,11 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [What it's like for passengers isolating in hantavirus quarantine in Nebraska](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
+### [Hantavirus: test negativi per il turista inglese in quarantena a Milano - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkNCNjNMS0ZwVUVHcWpWRWRQb0dsbk9SeHRGYjhVaTNxZjVMQzN2UEpTZ05KNzBZVXZ3ZlZVYWZjbzdKYmxQclFHaUJtVjFsemN1TkxuMTNxRjhFa2ctNXRRaGg5dndndjVkWlB1MW1WY0NiVjE4RjlUQ2ZxcjQzS1ljX0EzY2xjemxSVWZKQTFuWlp1aGlTdkpKZ25EQm5DWmNj?oc=5)
 
 2026-05-13
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkNCNjNMS0ZwVUVHcWpWRWRQb0dsbk9SeHRGYjhVaTNxZjVMQzN2UEpTZ05KNzBZVXZ3ZlZVYWZjbzdKYmxQclFHaUJtVjFsemN1TkxuMTNxRjhFa2ctNXRRaGg5dndndjVkWlB1MW1WY0NiVjE4RjlUQ2ZxcjQzS1ljX0EzY2xjemxSVWZKQTFuWlp1aGlTdkpKZ25EQm5DWmNj?oc=5)
 
 ---
 
@@ -80,11 +104,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [The Subtle Symptoms of Stomach Cancer Doctors Say Not to Ignore](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+### [Topi, Hantavirus, contagi: un impatto devastante con le solite colpe umane - La Gazzetta del Mezzogiorno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZnFfWFdNUTNMN1lyTWF6QlJtUExfNkpYNVNxR2tTMDRZZEI2ZTdXQ3ZmcDBfOWpKMlp5clQ0cHV6QTZNb0dpTmNBV0FHWkkwV2MwdXNsTWRpX18wTXRxbVdkZ1dpVy1tSkhpVWRnSVlTUC1ZajY1c1cyTDRBX3RKNjAtdHo1SDRXMm40eEFoMXBJeGNZakdhWHVsWGtuc1ViZjJPSE15Y21uWVNWaHczZVp5R3pZTFFkYlJmZDZyRkxQZUpEbXJ1QVdhb0Q0ZUllSVFnN3FhWdIB1gFBVV95cUxQYXV5bU5JVFhNeHdXNlZLcEZXaGFMaEpnY1dlWnIwb3hBUmpEa0tRaGRBZm5FX1IzVEN3enZRV3RFWWZZR1JoYklLVG5GdF81ZTZxWTN4WDJfNkpnQUJmWVh5bEZxYVFWV0huNy11b0FNMWxtb0lrQi1sSDlkS016YXJBUG8wam40anYwXzZqWEg4RWVLenZzSU5TazZuQ0EwVG1WRmJzb1diSFlLZjNmUThjYkoyOTR4TzhvdXFZR0FwbFVxaGpBMlZ5bHktX3FXSUNqdmxn?oc=5)
 
 2026-05-13
 
-來源：[Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+來源：[La Gazzetta del Mezzogiorno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZnFfWFdNUTNMN1lyTWF6QlJtUExfNkpYNVNxR2tTMDRZZEI2ZTdXQ3ZmcDBfOWpKMlp5clQ0cHV6QTZNb0dpTmNBV0FHWkkwV2MwdXNsTWRpX18wTXRxbVdkZ1dpVy1tSkhpVWRnSVlTUC1ZajY1c1cyTDRBX3RKNjAtdHo1SDRXMm40eEFoMXBJeGNZakdhWHVsWGtuc1ViZjJPSE15Y21uWVNWaHczZVp5R3pZTFFkYlJmZDZyRkxQZUpEbXJ1QVdhb0Q0ZUllSVFnN3FhWdIB1gFBVV95cUxQYXV5bU5JVFhNeHdXNlZLcEZXaGFMaEpnY1dlWnIwb3hBUmpEa0tRaGRBZm5FX1IzVEN3enZRV3RFWWZZR1JoYklLVG5GdF81ZTZxWTN4WDJfNkpnQUJmWVh5bEZxYVFWV0huNy11b0FNMWxtb0lrQi1sSDlkS016YXJBUG8wam40anYwXzZqWEg4RWVLenZzSU5TazZuQ0EwVG1WRmJzb1diSFlLZjNmUThjYkoyOTR4TzhvdXFZR0FwbFVxaGpBMlZ5bHktX3FXSUNqdmxn?oc=5)
 
 ---
 
@@ -93,6 +117,38 @@ permalink: /news/multiple-sclerosis/
 2026-05-13
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGlNVmNJQWdOZGplTGw0dVZobzZNbEZFLVVxd1RhMHFHQTctWm1TSVhsZF9DT0NiYnlRNDRkUVhGSXVsY3FSOVVMbjI1MUVPaUZDODh1V3YwZ1pVOC1oSjhSRl9QamJmcGlPRXVFMU1obHhPVDRfY3R6ZFhOMFY1T0UxWDd1VzM2bk9oMEpHZUdNc3VpSWlDTEJNYmlRLXBfMEJtSjZxY1U3b2I5ZmEwUnFHVUVpTUVvbDVmVW9SdXFRQVM3akpPMDNxUzF6ZkNPUHfSAdcBQVVfeXFMTi1LeWVoNjExcWppZHpCS3ZSdWlJM0pvTDJBQUN3N3VjUlhJVmJEeVRXVl9DSGpfYU02UUZXZXNrZWtzNkcxbFVrX2tyaWdGQzZKMHM1NlA4bkotdDI2b1Vsb1NyOTN6c0xNSEZmQXk1YnFaZ2lnbXl6RnJyM1E5TUhnYXU3azR4YTdkcEhBVlg5UkhVTG9hWTNmbkRhTllxMDR2cTRieG1jR2VHWlRJQzdfN3pFU2RxM2Q5aXg2X1IwY3FCM0xwQmotZTVEaHp4V0ZHLVhrSU0?oc=5)
+
+---
+
+### [Klinik-Mitarbeiter in Quarantäne: Hantavirus in Nimwegen: So ist der Kreis Kleve darauf vorbereitet - RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnhuNERMTWJnbFpTcU5pa25iS1pJdl9DdmNOVnRTN3ZUZkNVdFVqcUt5QldhUmlFa0F6Zld3VHgxeTZ4XzZ1UmlmbTJwSnVJUHlNQlVFSG9wYkJmeTRpUkxQTzJZNWVINkY0TjFOanduRFV1VVZEaUtYRVJuQW9hTktwZUFRVnRqdi1xdnBUVGFyb2E3dGd1RFpOcnZPM19RS3J6OC1zcUpoMmVmNXRkQ3Q1OE0wblBmdFloMGhPcklqR3c?oc=5)
+
+2026-05-13
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnhuNERMTWJnbFpTcU5pa25iS1pJdl9DdmNOVnRTN3ZUZkNVdFVqcUt5QldhUmlFa0F6Zld3VHgxeTZ4XzZ1UmlmbTJwSnVJUHlNQlVFSG9wYkJmeTRpUkxQTzJZNWVINkY0TjFOanduRFV1VVZEaUtYRVJuQW9hTktwZUFRVnRqdi1xdnBUVGFyb2E3dGd1RFpOcnZPM19RS3J6OC1zcUpoMmVmNXRkQ3Q1OE0wblBmdFloMGhPcklqR3c?oc=5)
+
+---
+
+### [Are hantavirus cases spreading? French woman in critical condition in hospital](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
+
+2026-05-13
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
+
+---
+
+### [Ce que révèle l’aspect de vos selles sur votre santé — et pourquoi il faut y prêter attention](https://news.google.com/rss/articles/CBMivwFBVV95cUxNODBuVDNIdnhiQks0bUQxTXR3QkZTVU43dldpYkVLMnczSmFadVVIQnctYTRVR0ZsZ1hpRWNsc1pRTnh1SS1OeF92bTdHOFdVTVhzb3NhUVNQeXlPNmdvLUhyRFNRRGJsRUEyUjI4VDkyTkpaX2c4Zmt3MjNaYng0Yk4zQjRwRThieEtBS09XTWVzandFdnBuUS1vWWRTSHVyakxmU1lrR2l3bFd6QzdrM2JlS2ltNHBldXhQLXRiWQ?oc=5)
+
+2026-05-13
+
+來源：[24matins](https://news.google.com/rss/articles/CBMivwFBVV95cUxNODBuVDNIdnhiQks0bUQxTXR3QkZTVU43dldpYkVLMnczSmFadVVIQnctYTRVR0ZsZ1hpRWNsc1pRTnh1SS1OeF92bTdHOFdVTVhzb3NhUVNQeXlPNmdvLUhyRFNRRGJsRUEyUjI4VDkyTkpaX2c4Zmt3MjNaYng0Yk4zQjRwRThieEtBS09XTWVzandFdnBuUS1vWWRTSHVyakxmU1lrR2l3bFd6QzdrM2JlS2ltNHBldXhQLXRiWQ?oc=5)
+
+---
+
+### [One change to my workout helped me combat cortisol and years of stress - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxOSWdTMEF0RUF4QzFIS0tiNHdLQ2tMTWlXOE9WeTFBbmprWU54MXJKNjUxc25fQXJWc3RfRkptVVFHQkdCWFk4WENFX2FxZjQzSG5uRndVSjA1NnJlTTNiNHNma3hnbnV3OC1xeFZBS0l1WmpUbkdQTERaQTN5eFpPd3pLRTVQUVZXeVZpSXNGVjNDdm1iRFAxWG1rbGVqdw?oc=5)
+
+2026-05-13
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxOSWdTMEF0RUF4QzFIS0tiNHdLQ2tMTWlXOE9WeTFBbmprWU54MXJKNjUxc25fQXJWc3RfRkptVVFHQkdCWFk4WENFX2FxZjQzSG5uRndVSjA1NnJlTTNiNHNma3hnbnV3OC1xeFZBS0l1WmpUbkdQTERaQTN5eFpPd3pLRTVQUVZXeVZpSXNGVjNDdm1iRFAxWG1rbGVqdw?oc=5)
 
 ---
 
@@ -109,14 +165,6 @@ permalink: /news/multiple-sclerosis/
 2026-05-12
 
 來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
----
-
-### [Une nouvelle MST circule-t-elle chez les hommes?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlJVcDA0WXl2aTYxNlFzWmhyRkdqM0d4S2NRLV93alc4bTQxLUlBbnhQdmlraElkd1ozRXNNOVd2Wl9TRTAwR21zUlE3a0FxLS0wOUxHcWE2RE5MQU1IX29tN2pYSlRTR05YOGZLdHdteElWNTgzQzM4R1RHT2lKN2JzSGt5M2RhZzNBV0hEX0xXQ21iSGhmNm1VSHpRNHdGeXlfYzlKLUJKbnpabXc0?oc=5)
-
-2026-05-12
-
-來源：[L'essentiel](https://news.google.com/rss/articles/CBMirwFBVV95cUxNYlJVcDA0WXl2aTYxNlFzWmhyRkdqM0d4S2NRLV93alc4bTQxLUlBbnhQdmlraElkd1ozRXNNOVd2Wl9TRTAwR21zUlE3a0FxLS0wOUxHcWE2RE5MQU1IX29tN2pYSlRTR05YOGZLdHdteElWNTgzQzM4R1RHT2lKN2JzSGt5M2RhZzNBV0hEX0xXQ21iSGhmNm1VSHpRNHdGeXlfYzlKLUJKbnpabXc0?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/zanubrutinib/
 
 ## 相關新聞（16 則）
 
+### ["On m'a dit de me préparer à ma mort" : cette Lot-et-Garonnaise vit avec un cancer du poumon rare, son pronostic vital est engagé sur le long terme](https://news.google.com/rss/articles/CBMimgJBVV95cUxQU3EyUEJkTzF3RWI0REp4SEJEZVNjNEFrS2dmZHZ4TE5TaU5xM09zcENLY0VpaFBfY0JhUEVjM1dWMm1jUVd2ZjEyTGFhbGRMX2tYS1Q5bHhtai1KbmxuR1RidWpuaVRrR3BnMEVFU093SXVpWnh0R0c2ZzhxekdvNWhlTkVfMW9iaU9wMS0wYnQyZVliMVF2RXhwdlBOTjB0Vm9yVXh4ZFRJRldyUDI1TUhhbVVDRTVfMXNFNzB0dUFlYnNkMmktcnRCby1LeFdWdGJvcFotYnJHbndLcTFMUHo3dG80X0J3MkdWUVVIOFhOOEtfM3dZUS1TY1JBTll0Vk1qdi0xRENxcWc3Q19Ca0Z4RnBLZFQ3U3c?oc=5)
+
+2026-05-14 <span class="news-indication-tag">cancer</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimgJBVV95cUxQU3EyUEJkTzF3RWI0REp4SEJEZVNjNEFrS2dmZHZ4TE5TaU5xM09zcENLY0VpaFBfY0JhUEVjM1dWMm1jUVd2ZjEyTGFhbGRMX2tYS1Q5bHhtai1KbmxuR1RidWpuaVRrR3BnMEVFU093SXVpWnh0R0c2ZzhxekdvNWhlTkVfMW9iaU9wMS0wYnQyZVliMVF2RXhwdlBOTjB0Vm9yVXh4ZFRJRldyUDI1TUhhbVVDRTVfMXNFNzB0dUFlYnNkMmktcnRCby1LeFdWdGJvcFotYnJHbndLcTFMUHo3dG80X0J3MkdWUVVIOFhOOEtfM3dZUS1TY1JBTll0Vk1qdi0xRENxcWc3Q19Ca0Z4RnBLZFQ3U3c?oc=5)
+
+---
+
 ### [Gewichtszunahme im Erwachsenenalter erhöht Krebsrisiko erheblich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
@@ -70,11 +78,11 @@ permalink: /news/zanubrutinib/
 
 ---
 
-### [The Subtle Symptoms of Stomach Cancer Doctors Say Not to Ignore](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+### [Timo, l'organo misterioso del corpo che combatte tumore e invecchiamento: è qui il segreto della longevità - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUltQ1pjdDdVNTRsSWY5NjNLcHpRVU03bVB3cEVGaDFPbDNmZzFVbTJVRWhEd1JsZ2JjUVZIalZEUnJQaVM5ZGdhU2xIWFZ3ZHAwYVdtcjJzeHR4SnFjeVpfekNPVmpyNG1SR0I5b2M0eDRfdnR6SDVqcjNTelNWSVVwV2tiZW9Zd0RIdXA2LVhjZEprWWp3WV9jTC1VdWlmT1BHYlpTUnJlUXBTUXfSAasBQVVfeXFMTVdNMlczVXhNWjM5T0JtZ2lpQzBXMEkwaWZheUpZZ0QyQUZOMFpsUjluWEhra3dHWWcwTm54YkFhd2JNakFHMjNQaU53REJRSlFxVUdncHh0NWVyVDBBR1c5VDZSV0lNeV9LSHdEMDNOeWp4cWpxUVhoNjcxckJxVHBMN3lKNFk4cURseDBSc1lnaFgxcVVtN3RMTWQwdDdDdFp2VGpGOHI1ZlU4?oc=5)
 
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-05-13 <span class="news-indication-tag">tumor</span>
 
-來源：[Prevention](https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaVJLdTNpSHpxLTRxRkZGM1pHQklFS2xuSjM2cTJ1NzZKODJERnZ3TTFDZ2p0SEllR2NjRW1SSHpGZDB2RHpRRG50YUR2OThRRUpMQXItcnk2bjUybG1CWFVoZEJueGdmT3oxWWRMb0NHZUlLZEg5UVRidw?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUltQ1pjdDdVNTRsSWY5NjNLcHpRVU03bVB3cEVGaDFPbDNmZzFVbTJVRWhEd1JsZ2JjUVZIalZEUnJQaVM5ZGdhU2xIWFZ3ZHAwYVdtcjJzeHR4SnFjeVpfekNPVmpyNG1SR0I5b2M0eDRfdnR6SDVqcjNTelNWSVVwV2tiZW9Zd0RIdXA2LVhjZEprWWp3WV9jTC1VdWlmT1BHYlpTUnJlUXBTUXfSAasBQVVfeXFMTVdNMlczVXhNWjM5T0JtZ2lpQzBXMEkwaWZheUpZZ0QyQUZOMFpsUjluWEhra3dHWWcwTm54YkFhd2JNakFHMjNQaU53REJRSlFxVUdncHh0NWVyVDBBR1c5VDZSV0lNeV9LSHdEMDNOeWp4cWpxUVhoNjcxckJxVHBMN3lKNFk4cURseDBSc1lnaFgxcVVtN3RMTWQwdDdDdFp2VGpGOHI1ZlU4?oc=5)
 
 ---
 
@@ -102,14 +110,6 @@ permalink: /news/zanubrutinib/
 
 ---
 
-### [Cancer colorectal : ce pesticide « sans risque » serait lié à l’explosion des cas](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0ZkQ0ZaY2M2UWJVNGE4bU5YRENGMjhEbUlUTE4xWjgtV09FWk9Tdm02NDdoSG1YRWtoeE85amVKUks5dFB6Q3otejZsRnAyQy13SGhZc2p0eDhsNXp0bVJXTXYwcXRNUFRMaEU2d3d0bndlRUxpWnB4QmRIWkhHaERRNFB1aVFqTWloVkRhbWM?oc=5)
-
-2026-05-13 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0ZkQ0ZaY2M2UWJVNGE4bU5YRENGMjhEbUlUTE4xWjgtV09FWk9Tdm02NDdoSG1YRWtoeE85amVKUks5dFB6Q3otejZsRnAyQy13SGhZc2p0eDhsNXp0bVJXTXYwcXRNUFRMaEU2d3d0bndlRUxpWnB4QmRIWkhHaERRNFB1aVFqTWloVkRhbWM?oc=5)
-
----
-
 ### [Bauchspeicheldrüsenkrebs: „Die Anzeichen zeigen sich spät, unspezifisch und diffus“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOG9McFVQNGhvSVBNbFdkVnlidnl1VzJRWW5hZkpMRURoVU02RWlfQW16LWFjWnpBY2dvNC1GWjk1Q2tUWi13SVk2M2FHc2h4NkJLYXZBei0yQXV3THRuNnlUX3FVWEhQSUxaYXJYQWYtTXF6Q1BpcnZHcndjV1IxMlFDaHlwcnpiaVd5X2lPQWpJdjlZSFlzOHkyWnhTMGQtd1ZmaVpSQzM1bXd6OEFCa1ZydmJ5Wm9xak03a0wzS0kwcUZNZkxUN2JFNHZTVlkzZlV2V2czaUdMMWtjcmdV?oc=5)
 
 2026-05-13 <span class="news-indication-tag">Krebs</span>
@@ -134,11 +134,11 @@ permalink: /news/zanubrutinib/
 
 ---
 
-### [« Je n'arrivais plus à monter les escaliers » : les femmes plus exposées aux maladies cardiovasculaires - Le Republicain Lorrain](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObEh1SG56ZmVtRG42bGxMcml3ZlhrX0Ewd0pOY1F4bmNrT25MTGs4SUlSYmtMSjRtTlBsSFlaTlRKeDAzeWxFdmV3Y3RKV09HbE4xenVGcnBIX3VLZWQ2YklEVjYtaFA1WG50bFNGUGhBVDVmdGpZUjNaeG9OZjJPekVNdUZQRm9TVk9PSzNQNmFfb3FDRXhMNGFfUjdTZkNhcUs0eG5zZUY3SWM?oc=5)
+### [Friends give out 'hug in a bag' to cancer patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wQUI4R3hqZ2JfODFaMGMxbEFqVGt0eW1kRkQxT3dPUEhpVUZIZzNQUUtObEV6dlBxSEZ3U2JER3pRNEtzOFdPT1llV0otVlJGOEhZZ0hxbWFQeEYx?oc=5)
 
 2026-05-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Republicain Lorrain](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObEh1SG56ZmVtRG42bGxMcml3ZlhrX0Ewd0pOY1F4bmNrT25MTGs4SUlSYmtMSjRtTlBsSFlaTlRKeDAzeWxFdmV3Y3RKV09HbE4xenVGcnBIX3VLZWQ2YklEVjYtaFA1WG50bFNGUGhBVDVmdGpZUjNaeG9OZjJPekVNdUZQRm9TVk9PSzNQNmFfb3FDRXhMNGFfUjdTZkNhcUs0eG5zZUY3SWM?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wQUI4R3hqZ2JfODFaMGMxbEFqVGt0eW1kRkQxT3dPUEhpVUZIZzNQUUtObEV6dlBxSEZ3U2JER3pRNEtzOFdPT1llV0otVlJGOEhZZ0hxbWFQeEYx?oc=5)
 
 ---
 
@@ -147,6 +147,14 @@ permalink: /news/zanubrutinib/
 2026-05-13 <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Record](https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU1zaG5wbkpjWlJOSzV5X2t2ZE9YUER6MmFpWEVnckNLYk5FOTZMLTR3S1JYdTlJNERsdHVhcS12TGxuNjBMMmVuY2Y1QU5iTmxoeUVwNGJpTExYLXlIN2NfWk9hay1WM2sxMVhkaVZRNEF4dUJ4N2t2VVliT094d0N1YkdWaTRWcDVjQlRQYk_SAZYBQVVfeXFMTnEzU1lYc1REZGRIN1M0cWpzUUw2UmI4NDRwb1ptMGxIV2c2eVdMSGEyOWRIQURfMl92NXVYTXpUc2dsSE1DUEhXV2RLWUNuQXNIdVc0LV9OdEY0cTFGZWw0eEZIUnBqa2U3ckpqMnNUaVVDMUlURk1kZWFhWm9Oc0RzeDMtOWM2cjZOQ1o2MldnZUhEdzV3?oc=5)
+
+---
+
+### [Cancer : des chercheurs mettent en évidence un lien entre les tumeurs colorectales chez les jeunes et un pesticide jugé sans risque - Le Monde.fr](https://news.google.com/rss/articles/CBMiowJBVV95cUxNMHlZR240ellsZlNpX3I0U2lrLWpvUmRaTEZEbXRXZ1AzaEVIOUg2WWZkaUNmbTlmdmpYYnM4RDRSMllTcVdmQ25NdEdUUG1pZUJPaWktbHBHOTJ6SkUzMF9LTW9pRFZtNG1oazdwWUhQam8yR2xlT0RGTjNLT1B6UG5NY25sZWRvb180R0x2ZFVqOW93MHhobzNlbXhmY2JDQ2g3cGcyN1lhWGhQQzExLWo1RzlvUkNQLVJfQThrejRXQ1RRWmNDRmRNVE1WVVlCRDdUYldvdHcwYmRULVoxaUthQS1rQURzOFdaQ2xjQi1DcUpiaGtqeVktUWRZOE5XU3FaWGtQdUhwQmFTamw0aXhBZFNCWmJJOVZfS3d2bVdBaUE?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiowJBVV95cUxNMHlZR240ellsZlNpX3I0U2lrLWpvUmRaTEZEbXRXZ1AzaEVIOUg2WWZkaUNmbTlmdmpYYnM4RDRSMllTcVdmQ25NdEdUUG1pZUJPaWktbHBHOTJ6SkUzMF9LTW9pRFZtNG1oazdwWUhQam8yR2xlT0RGTjNLT1B6UG5NY25sZWRvb180R0x2ZFVqOW93MHhobzNlbXhmY2JDQ2g3cGcyN1lhWGhQQzExLWo1RzlvUkNQLVJfQThrejRXQ1RRWmNDRmRNVE1WVVlCRDdUYldvdHcwYmRULVoxaUthQS1rQURzOFdaQ2xjQi1DcUpiaGtqeVktUWRZOE5XU3FaWGtQdUhwQmFTamw0aXhBZFNCWmJJOVZfS3d2bVdBaUE?oc=5)
 
 ---
 
@@ -171,14 +179,6 @@ permalink: /news/zanubrutinib/
 2026-05-12 <span class="news-indication-tag">tumor</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVJYMDZMT2NSUWMyUVExbzhjVkVvZGtsUnlDNHdxQTNjZmxyZDB6cnE2Zm5NczAxR1FMQkhPdmhnM3lwWG1pZEs5UUxBd2JwLWIwUzZPMmF2SWV4Q1NoOFRvVXp3WmhpTFlOVUdURTdLT0VpRDNKSkpDbkM0clZUb05rQVo5UnBVSzV5WU9HeHBzbEEyTWpHdA?oc=5)
-
----
-
-### [Doctor's warning as popular drink classed as a carcinogen with 'no safe' amount - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
-
-2026-05-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDhjdUdoNElyT29jcTFjY0dFQUJSTlA3eW5yYWJoY051dl9Uc0liTlFkVGx3OF9oRXkxU0ZMT0Q0SkhQcXJyTDRKbklUSS01NzJyVW1ZNmp6T2JDT0hMd0ZYeVNYaDhWN09lM2tvUDJVRnBVcWNCeGpMeEYtSXlkQkI3M0RKRWt0cjVj0gGQAUFVX3lxTE9JcWlCbVhINmZWbVFEUlRIQXM3dDh2NHdyWS0tYlczRFNiLXRSWEZVN19naW82WGV3UmhYbkNPSEhtdnp1Q09LazVOdm9TM2ZQZUtRWGw4cXJhR1JQZEVGQm5RUEc5a1ZJcWR6Vm9lenhjYzJJUjk2NXlHeFl1UWN3NTlNcE1JQWl3cGZISUU4ag?oc=5)
 
 ---
 
