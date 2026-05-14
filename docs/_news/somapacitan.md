@@ -54,6 +54,14 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（6 則）
 
+### [Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEhfNWdfcWlPMzlXb01fTkNOMmdQNExGU19scndyTW5welZaVUlOSVNKSl9pdTVxWWsyQ3J1cFRhUkswZUNURl9hSUhrcEx2bjBZRGs1ZTFyQXlobk9zbVpwcHRTX2E2TFJrOGZfd0NTSjR1aXl5dzBudi1PeDdyTlRVZFVVSEJJOVFxQUM5MUljLVBHaHQwMFdKd1Ryb0F6T0RYeXAtU0RoMnYxX2NQbXFsZ3BNNmMwYktFOG5QOW1lTmZwbE9lNG9scXRxaWhEa2dNWHRR?oc=5)
+
+2026-05-14 <span class="news-indication-tag">asma</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEhfNWdfcWlPMzlXb01fTkNOMmdQNExGU19scndyTW5welZaVUlOSVNKSl9pdTVxWWsyQ3J1cFRhUkswZUNURl9hSUhrcEx2bjBZRGs1ZTFyQXlobk9zbVpwcHRTX2E2TFJrOGZfd0NTSjR1aXl5dzBudi1PeDdyTlRVZFVVSEJJOVFxQUM5MUljLVBHaHQwMFdKd1Ryb0F6T0RYeXAtU0RoMnYxX2NQbXFsZ3BNNmMwYktFOG5QOW1lTmZwbE9lNG9scXRxaWhEa2dNWHRR?oc=5)
+
+---
+
 ### [60. Diabetes Kongress der Deutschen Diabetes Gesellschaft](https://news.google.com/rss/articles/CBMib0FVX3lxTE5GYl9rZ3FMX1JfaVVDSkJjNHQ3Sk81Smo3LUNFUnRqcWloTERzRXRXaGlQUm0wT2RkUVl1YTd2N3ZfNndQS25kU0Rra2hwWGdlRlBkbXk3YWU5WW1XNTFfbHluVDNNQ1hMY1BONHYwOA?oc=5)
 
 2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -91,14 +99,6 @@ permalink: /news/somapacitan/
 2026-05-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
-
----
-
-### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
-2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
 
 ---
 

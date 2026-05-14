@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="Tucatinib 有什麼相關新聞？">
-<strong>Tucatinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tucatinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tucatinib/
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Los especialistas de Vithas Castellón alertan del peligro silencioso de la hipertensión arterial - Onda Cero](https://news.google.com/rss/articles/CBMimgJBVV95cUxQUXFZTzYyNUUyMWk5TTZuVUFhSy15UE5ZZW55S3Q1czlQTEVvd0l3eWRMRVBIWTBGNG50c01feVMyQjYtcVptbTYyZ3NuZGpURFBXbm55UnJMQ0F4eEtId2o4Wk9Scy1kelhpRENZQkFWM04wYk8yREUyMlhsd0RuaE41WW5wdnpqLWtRREphZ0JtQVd2bEM0VjlXTWg5UW1raExOdU5KbjB4MFZVQmszQ0czMXgxbUZzOERKd0FtdDJheWl0MmhJMlFXc1l4N3hXVl80a29NbGVTZkRDV1RJNUlKUWljeGlUOGY0THhDTmxOOXM4akl4elIwV1RXX04wMlBXLThzWUxlRHhUNlhTZnc1YW5KYVAtRlHSAZoCQVVfeXFMUDNyQl9iU0g5b3VtVEhFRFM0ZlBVN0VmT3I5Rm1wVzBfZnJYLW9sX3FwM3ExQ01IVXkzdkVOTERUQ3Fncl90aXBxU2s3LW15bzBqcElyTmtTeS1HWWdTWUVKdWZXSWRTQmZZUVdVbmJyQ29GWURnc0VEbWdhY0hoODhGdnpLWXVRLVpaQXFpb1dpQW5pNklSVWlldjg1ZlNMb2JqN3NvMlV5Z1BoYzlScXR5V0lWY3VoMkRKLTJxcXJwQVg3ZzZOSGw4bnNuX055T1RiN0hNRWhucEJOTnFQSkd1dTM2ZkQ2ZTNKb0NCZno0TVhuMGNRUTEwV0puZU9qOEpnVlFwU2xmZjBaM2U1M3YyYXhiVi1MOG9B?oc=5)
+### [El 17 de mayo se conmemora el Día Mundial de la Hipertensión Arterial - Cadena SER](https://news.google.com/rss/articles/CBMizgFBVV95cUxOek1uUzlaZ0ZWamJQT2JLdWZ3U0pweGZ5aFBwN0lULVh3UDlMdWtRSWloaFlfSTNNa0dWV1hnb1BMSW5tMHFMT2JtQm9UVmtVY1VGUUxTbTFhYXZQNVZ6OFBqM2RqTV95ZUhvd1ZXMmNQT1FhUHdFYVF3azV2cVhjT1g2NVJmaC0tamRvV1IyRTRIbmt4Ni1naEQyLUJxVks3Z2cyTGp5SUxueUFVaVRqWXloRnV2MHktdkVmT2VKUlBYVDhweW9vZndHVjZmZ9IB4gFBVV95cUxOOTY4Y19EZVB0WGJaT3ZTM0RQR3NpdXczYWxVUHF4M29UX1JfSEJwdS1oNzItR2xiUmRiSUUxTkUwMHBzWkF2RzVIMTMzWkJ5M2xIZEw4YzdzbExlaG1IRVprbEN5T0hObTJHZkdrV2dCVE5hbE5seFkxcjJfTTg4Z1hGeXNXQjJ6aWRUOWZEX0t4Nk8zMTNMMUx2Tk9sTklsRFMtVVpDNHFBaERlYTJLc0p2VVpRaC1TcnVaLU5GdC1lb2JfRTBCSTFaSFJYRnlfNW8zVEFkOWpnU1dkcVBPOXN3?oc=5)
 
-2026-05-14 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+2026-05-14 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMimgJBVV95cUxQUXFZTzYyNUUyMWk5TTZuVUFhSy15UE5ZZW55S3Q1czlQTEVvd0l3eWRMRVBIWTBGNG50c01feVMyQjYtcVptbTYyZ3NuZGpURFBXbm55UnJMQ0F4eEtId2o4Wk9Scy1kelhpRENZQkFWM04wYk8yREUyMlhsd0RuaE41WW5wdnpqLWtRREphZ0JtQVd2bEM0VjlXTWg5UW1raExOdU5KbjB4MFZVQmszQ0czMXgxbUZzOERKd0FtdDJheWl0MmhJMlFXc1l4N3hXVl80a29NbGVTZkRDV1RJNUlKUWljeGlUOGY0THhDTmxOOXM4akl4elIwV1RXX04wMlBXLThzWUxlRHhUNlhTZnc1YW5KYVAtRlHSAZoCQVVfeXFMUDNyQl9iU0g5b3VtVEhFRFM0ZlBVN0VmT3I5Rm1wVzBfZnJYLW9sX3FwM3ExQ01IVXkzdkVOTERUQ3Fncl90aXBxU2s3LW15bzBqcElyTmtTeS1HWWdTWUVKdWZXSWRTQmZZUVdVbmJyQ29GWURnc0VEbWdhY0hoODhGdnpLWXVRLVpaQXFpb1dpQW5pNklSVWlldjg1ZlNMb2JqN3NvMlV5Z1BoYzlScXR5V0lWY3VoMkRKLTJxcXJwQVg3ZzZOSGw4bnNuX055T1RiN0hNRWhucEJOTnFQSkd1dTM2ZkQ2ZTNKb0NCZno0TVhuMGNRUTEwV0puZU9qOEpnVlFwU2xmZjBaM2U1M3YyYXhiVi1MOG9B?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMizgFBVV95cUxOek1uUzlaZ0ZWamJQT2JLdWZ3U0pweGZ5aFBwN0lULVh3UDlMdWtRSWloaFlfSTNNa0dWV1hnb1BMSW5tMHFMT2JtQm9UVmtVY1VGUUxTbTFhYXZQNVZ6OFBqM2RqTV95ZUhvd1ZXMmNQT1FhUHdFYVF3azV2cVhjT1g2NVJmaC0tamRvV1IyRTRIbmt4Ni1naEQyLUJxVks3Z2cyTGp5SUxueUFVaVRqWXloRnV2MHktdkVmT2VKUlBYVDhweW9vZndHVjZmZ9IB4gFBVV95cUxOOTY4Y19EZVB0WGJaT3ZTM0RQR3NpdXczYWxVUHF4M29UX1JfSEJwdS1oNzItR2xiUmRiSUUxTkUwMHBzWkF2RzVIMTMzWkJ5M2xIZEw4YzdzbExlaG1IRVprbEN5T0hObTJHZkdrV2dCVE5hbE5seFkxcjJfTTg4Z1hGeXNXQjJ6aWRUOWZEX0t4Nk8zMTNMMUx2Tk9sTklsRFMtVVpDNHFBaERlYTJLc0p2VVpRaC1TcnVaLU5GdC1lb2JfRTBCSTFaSFJYRnlfNW8zVEFkOWpnU1dkcVBPOXN3?oc=5)
+
+---
+
+### [Eine verhängnisvolle Affäre: COPD und Herzerkrankung](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
+
+---
+
+### [Bedeutung von körperlicher Aktivität und Sport zur Prävention und Therapie der Hypertonie – Dr. Dr. med. Lutz Aderhold - German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
+
+2026-05-14 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/tucatinib/
 2026-05-12 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFJIZkVuUmVsWTdGZEpvSG5yd0JkQ0w5Z2xiUFdNZW1GZUJOT2lSb0g3S2YxVWtkbEtBU0ZyakRzRGRrWmlRMWJna3BzRDEzOUdPM0ZzbTRYM1h5ZkZvbUJRUHZ4OEVNdThBZ1JPNkJMd0xiYmpLUnlhTTNwNVBzeFJsTDRTRWpCTU15M2JBSkt3NGtZS29yT2VPVk5QOGctNVZSV25HVndic2xLX0l2Um5GQ2ZVN0tacFp0Sk9VUERyMFZ0TFZCZmh0VDF6RWFBU1FtV2lEYUxjT0xvMjR0S2NpZnh5eFdadTBTak5uRXJRdlRrZE56Q093cy1hS0hfVUNBdi1xVzRmQQ?oc=5)
-
----
-
-### [Los probióticos emergen como una nueva estrategia para mejorar el control de la hipertensión arterial - ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcC1rbXc5QVZYNDFXYi1wUVZ1Ym52am5RM0FPSVk2OTBXZ253a25sYVBoQ2tMZ2tDZS10cVFqMTlBTDVPZ2JLcnNmYkNxNmVxb3VzVnRBbzZjTThwOEsxS0hicDVtT21UbXZIUkdFVXlTaFd1RjQtV3BIX1F0OHFfX25LWVotRWpqR0hHZlh4UzRIWk1FY2szdGNNWEgtamx2UFl2RUM1elJtd3BIUUNxQjFOOTdERDFldXRkMWxLRUt5N3Q1Ym80?oc=5)
-
-2026-05-12 <span class="news-indication-tag">hipertensión</span>
-
-來源：[ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcC1rbXc5QVZYNDFXYi1wUVZ1Ym52am5RM0FPSVk2OTBXZ253a25sYVBoQ2tMZ2tDZS10cVFqMTlBTDVPZ2JLcnNmYkNxNmVxb3VzVnRBbzZjTThwOEsxS0hicDVtT21UbXZIUkdFVXlTaFd1RjQtV3BIX1F0OHFfX25LWVotRWpqR0hHZlh4UzRIWk1FY2szdGNNWEgtamx2UFl2RUM1elJtd3BIUUNxQjFOOTdERDFldXRkMWxLRUt5N3Q1Ym80?oc=5)
 
 ---
 

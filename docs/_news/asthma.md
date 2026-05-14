@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthma 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEhfNWdfcWlPMzlXb01fTkNOMmdQNExGU19scndyTW5welZaVUlOSVNKSl9pdTVxWWsyQ3J1cFRhUkswZUNURl9hSUhrcEx2bjBZRGs1ZTFyQXlobk9zbVpwcHRTX2E2TFJrOGZfd0NTSjR1aXl5dzBudi1PeDdyTlRVZFVVSEJJOVFxQUM5MUljLVBHaHQwMFdKd1Ryb0F6T0RYeXAtU0RoMnYxX2NQbXFsZ3BNNmMwYktFOG5QOW1lTmZwbE9lNG9scXRxaWhEa2dNWHRR?oc=5)
+
+2026-05-14
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEhfNWdfcWlPMzlXb01fTkNOMmdQNExGU19scndyTW5welZaVUlOSVNKSl9pdTVxWWsyQ3J1cFRhUkswZUNURl9hSUhrcEx2bjBZRGs1ZTFyQXlobk9zbVpwcHRTX2E2TFJrOGZfd0NTSjR1aXl5dzBudi1PeDdyTlRVZFVVSEJJOVFxQUM5MUljLVBHaHQwMFdKd1Ryb0F6T0RYeXAtU0RoMnYxX2NQbXFsZ3BNNmMwYktFOG5QOW1lTmZwbE9lNG9scXRxaWhEa2dNWHRR?oc=5)
+
+---
 
 ### [My son Jeremy, 16, died after eating a sausage on a camping trip - his ultra-rare allergy was mistaken for 'asthma' - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm91N3pWRGtlc3h3bXhUZGZycEwwNV9JYnRTeFZVcG9fbWtONVhCZjRaQk9NQW5mOW1LTmI0aDFHdnZZM3FMTm1Dam93d2Ixb056OEE3elFfd3g2RmNHMER6NHl5S3dxZGxONHdRSlVaZV80eElZTExCaW9wVnNZNUh5VHV0a1laU1hz?oc=5)
 

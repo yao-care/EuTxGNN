@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="Tedizolid 有什麼相關新聞？">
-<strong>Tedizolid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tedizolid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/tedizolid/
 <li>partial deletion of the long arm of chromosome 22（93.3%）</li>
 <li>pulmonary valve disease（93.3%）</li>
 <li>mitral valve disease（92.6%）</li>
-<li>heart disease（91.2%）</li>
+<li class="indication-matched">heart disease（91.2%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>heart neoplasm（83.6%）</li>
 <li>epiglottitis（82.8%）</li>
 <li>conjunctivitis（81.7%）</li>
@@ -52,7 +52,15 @@ permalink: /news/tedizolid/
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Eine verhängnisvolle Affäre: COPD und Herzerkrankung](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
+
+---
 
 ### [Vivir con EPOC: la “asesina silenciosa” que te quita el aire - El Periódico](https://news.google.com/rss/articles/CBMidEFVX3lxTFA3azZGdGNBVzhiZHZKRTY2T1JwOHpiRmx6MFBqbkRmSlJPZTEtN0JYTS1fbGVsdUlFZW5IZzhoWW9aR0ZleEtVN1VtelliSGVJTEc2QWFSV3cwdlpsbldJN2pFVy0xeHVBREtnUnI1eUpSNUY4?oc=5)
 

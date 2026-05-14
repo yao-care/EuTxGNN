@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（13 則）
 
-### [ADHS-Ambulanz der LVR-Klinik: Keine Lifestyle-Krankheit – Wie Erwachsene mit ADHS kämpfen - RP Online](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWl90b0gybFhTYUItRU9yM2gxRXlsUm9LLWZyT25Za1kwdkFlVmV2cG8yMDZHNnhoanI4WXZBYXUxVmtzS21ueUp3UE1GNmtRM0UtcktmeE5GNW8xZDItRXQyNGVmcWhZbHlaeUNvZnh6a1dfU1ZJY21aVHpLQ1Z0UDdPNHplbFpXT2JhTGtrYnpYZUhiZ21aX2tmQ0dKQmJHcEN0QnZCNUFSSFBOeThWTE9TVzlBMzc1MC1BbGtYZ2M?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span>
-
-來源：[RP Online](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWl90b0gybFhTYUItRU9yM2gxRXlsUm9LLWZyT25Za1kwdkFlVmV2cG8yMDZHNnhoanI4WXZBYXUxVmtzS21ueUp3UE1GNmtRM0UtcktmeE5GNW8xZDItRXQyNGVmcWhZbHlaeUNvZnh6a1dfU1ZJY21aVHpLQ1Z0UDdPNHplbFpXT2JhTGtrYnpYZUhiZ21aX2tmQ0dKQmJHcEN0QnZCNUFSSFBOeThWTE9TVzlBMzc1MC1BbGtYZ2M?oc=5)
-
----
-
-### [Hantavirus, Ecdc: Virus non mutato, stretta osservanza in quarantena di asintomatici - Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKOGJTZUM0T3lWdWZvVmQwWTY0ZF9FLWF1cnBiR0ZPb2NKNGpjN1Flc2dSU0pZM1ZBd0x3MExXNFlXNXJSM0RpdWFtZ2prVkRjNmpBalMtVURMRVoxUkdVSURuczBpZ3VNZFlLYmtna01zYk5vUjI3bmFB?oc=5)
+### [Constipation : les gastroentérologues dévoilent le "meilleur moment de la journée" pour aller à la selle - Top Santé](https://news.google.com/rss/articles/CBMi5wJBVV95cUxNdUNGa1U1SEk2Z1pYaVJRTEpkdjc2R2QtR29VY3JHQXZZWmNBRF9EWmpRRUtsNXlaVXMta2NsRUhFNG1BSDR3cmJHQXV3dzdjbWZGXzNhOXFkLXh1V1FwdVRWRzRfeDZwTERHa2p1ZEo5dW9BR3dmbGhXbXcyclBucnM2bGJXalpuaWZNa3RtVExDZEptUUdTclYwY0hiN3A5NU5hS242aXpCeTdnRjNiRlZ1blAxandveHVlcEY3NFJHak40ZG1HbFZhRVBmRzFsUDFOSUd3LXpTMDVfOXl3WVpELWZCeXIxY25OcXJlV1VhSkhnUU15R1FmQi1JMlBqMVZBMWJFTjZzeHQtV2xnLU85T29xU2hUQ3dyTWZQNURPNndhVDRCWlZlNWF5R3NCZHhSbFdTYjZYY0xxZDRodnBRblNFandmekZjSXd0b1ZzZ2Z2b1BGc3kxSzNCQlBsWHd1WHZVaw?oc=5)
 
 2026-05-14 <span class="news-indication-tag">MS</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKOGJTZUM0T3lWdWZvVmQwWTY0ZF9FLWF1cnBiR0ZPb2NKNGpjN1Flc2dSU0pZM1ZBd0x3MExXNFlXNXJSM0RpdWFtZ2prVkRjNmpBalMtVURMRVoxUkdVSURuczBpZ3VNZFlLYmtna01zYk5vUjI3bmFB?oc=5)
+來源：[Top Santé](https://news.google.com/rss/articles/CBMi5wJBVV95cUxNdUNGa1U1SEk2Z1pYaVJRTEpkdjc2R2QtR29VY3JHQXZZWmNBRF9EWmpRRUtsNXlaVXMta2NsRUhFNG1BSDR3cmJHQXV3dzdjbWZGXzNhOXFkLXh1V1FwdVRWRzRfeDZwTERHa2p1ZEo5dW9BR3dmbGhXbXcyclBucnM2bGJXalpuaWZNa3RtVExDZEptUUdTclYwY0hiN3A5NU5hS242aXpCeTdnRjNiRlZ1blAxandveHVlcEY3NFJHak40ZG1HbFZhRVBmRzFsUDFOSUd3LXpTMDVfOXl3WVpELWZCeXIxY25OcXJlV1VhSkhnUU15R1FmQi1JMlBqMVZBMWJFTjZzeHQtV2xnLU85T29xU2hUQ3dyTWZQNURPNndhVDRCWlZlNWF5R3NCZHhSbFdTYjZYY0xxZDRodnBRblNFandmekZjSXd0b1ZzZ2Z2b1BGc3kxSzNCQlBsWHd1WHZVaw?oc=5)
 
 ---
 
@@ -78,6 +70,22 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Tacconelli: «L’Hantavirus? La lezione del Covid ci ha migliorati ma si potrebbe fare di più»](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDVoRlA1VTNHaHFOX0xONkpRbHZpY1BBbTU4M3M4eW1DN3dLT3VLU1UwVGFVbEhtQmxNeDdfTHI0NTJuVFFPQXdLREdubVpySkF6NzhGdXI5OXlaSEhCdWlqbnRvQlhQNklKMXhDUHhfdjJVdDRjZV9oelZlQkVncXgwbDdmTWZsS2RBZzR3eWtCd1Vvd0JpZmlBS3FNUkVZRXhBN25ndGN1SXp1aDhGR0lhamdYd9IBuwFBVV95cUxOQnNIOWZSZ2NyWDJxeG1IdUNGbU5DeHdkR2lqbWZyRHliOHRESnI2eklKVjJGOXNua2VCLWZXNVpoeUsxQ1dYRjEtb0tHNXNWVDQxNnVUZ1dZeHR4UzBSVlQ2X0FsSC1hV2FuN19NeG56YXJybk41a2hPMzFKbnRJV0lOUVRwWDRZSU1aQ21Tei1DNkJEaXRYRlhUVjBWcmVDNWsxX1Jvd3JPbnY0ZU5sOFdua19hM0E0aldn?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDVoRlA1VTNHaHFOX0xONkpRbHZpY1BBbTU4M3M4eW1DN3dLT3VLU1UwVGFVbEhtQmxNeDdfTHI0NTJuVFFPQXdLREdubVpySkF6NzhGdXI5OXlaSEhCdWlqbnRvQlhQNklKMXhDUHhfdjJVdDRjZV9oelZlQkVncXgwbDdmTWZsS2RBZzR3eWtCd1Vvd0JpZmlBS3FNUkVZRXhBN25ndGN1SXp1aDhGR0lhamdYd9IBuwFBVV95cUxOQnNIOWZSZ2NyWDJxeG1IdUNGbU5DeHdkR2lqbWZyRHliOHRESnI2eklKVjJGOXNua2VCLWZXNVpoeUsxQ1dYRjEtb0tHNXNWVDQxNnVUZ1dZeHR4UzBSVlQ2X0FsSC1hV2FuN19NeG56YXJybk41a2hPMzFKbnRJV0lOUVRwWDRZSU1aQ21Tei1DNkJEaXRYRlhUVjBWcmVDNWsxX1Jvd3JPbnY0ZU5sOFdua19hM0E0aldn?oc=5)
+
+---
+
+### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+---
+
 ### [Lasertechnologie zur Erkennung von Weltraumschrott und dessen Auswirkungen - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lCWU5zZ05PQ2VBbU44ek84THhDanFOSkExTlJkUDZuYmNtdXlKUXBZN0YtMzZMMVAwT3ZoQ2VQZjZBM0EyUzVpZ3FCczF0VlJ6MVlzaXVob3lObkxpenA3QzFKc1RFcnJhX05ScjlEdUNXMTJUV0w2TTUxSVU3U09seWt0aEE0UGhrZmxyR1Rvc3F0cWUyWFRPeC16MkxHSXBmNmFsQ04wZw?oc=5)
 
 2026-05-13 <span class="news-indication-tag">MS</span>
@@ -86,11 +94,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Hantavirus: test negativi per il turista inglese in quarantena a Milano - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkNCNjNMS0ZwVUVHcWpWRWRQb0dsbk9SeHRGYjhVaTNxZjVMQzN2UEpTZ05KNzBZVXZ3ZlZVYWZjbzdKYmxQclFHaUJtVjFsemN1TkxuMTNxRjhFa2ctNXRRaGg5dndndjVkWlB1MW1WY0NiVjE4RjlUQ2ZxcjQzS1ljX0EzY2xjemxSVWZKQTFuWlp1aGlTdkpKZ25EQm5DWmNj?oc=5)
+### [Scientists May Have Found a Way To Repair Nerve Damage in Multiple Sclerosis](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXlVcURGV01RVC1YWTFlckpLRjV1RFU5dmtYNXZBaUhvRmxkTjBtU3lLbEtzMm9KSmwwckJ2dEdoWWs1elM1TkM3RHRtZ3JMbVJrdlBhbk1DUV96a3YxbWRDaG5QSmtDWDZBcUNfVlF0QUhiQUpIbmZJR1BoTVZ4Q2xqR0l1ZndzdV9laEtSRDQ5enlqcGJqdy1OR0JEeWdUTDR1TQ?oc=5)
 
-2026-05-13 <span class="news-indication-tag">MS</span>
+2026-05-13 <span class="news-indication-tag">multiple sclerosis</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkNCNjNMS0ZwVUVHcWpWRWRQb0dsbk9SeHRGYjhVaTNxZjVMQzN2UEpTZ05KNzBZVXZ3ZlZVYWZjbzdKYmxQclFHaUJtVjFsemN1TkxuMTNxRjhFa2ctNXRRaGg5dndndjVkWlB1MW1WY0NiVjE4RjlUQ2ZxcjQzS1ljX0EzY2xjemxSVWZKQTFuWlp1aGlTdkpKZ25EQm5DWmNj?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXlVcURGV01RVC1YWTFlckpLRjV1RFU5dmtYNXZBaUhvRmxkTjBtU3lLbEtzMm9KSmwwckJ2dEdoWWs1elM1TkM3RHRtZ3JMbVJrdlBhbk1DUV96a3YxbWRDaG5QSmtDWDZBcUNfVlF0QUhiQUpIbmZJR1BoTVZ4Q2xqR0l1ZndzdV9laEtSRDQ5enlqcGJqdy1OR0JEeWdUTDR1TQ?oc=5)
 
 ---
 
@@ -110,35 +118,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [L’ovaio policistico cambia nome e diventa sindrome ovarica poliendocrina metabolica (Pmos) - la Repubblica](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGlNVmNJQWdOZGplTGw0dVZobzZNbEZFLVVxd1RhMHFHQTctWm1TSVhsZF9DT0NiYnlRNDRkUVhGSXVsY3FSOVVMbjI1MUVPaUZDODh1V3YwZ1pVOC1oSjhSRl9QamJmcGlPRXVFMU1obHhPVDRfY3R6ZFhOMFY1T0UxWDd1VzM2bk9oMEpHZUdNc3VpSWlDTEJNYmlRLXBfMEJtSjZxY1U3b2I5ZmEwUnFHVUVpTUVvbDVmVW9SdXFRQVM3akpPMDNxUzF6ZkNPUHfSAdcBQVVfeXFMTi1LeWVoNjExcWppZHpCS3ZSdWlJM0pvTDJBQUN3N3VjUlhJVmJEeVRXVl9DSGpfYU02UUZXZXNrZWtzNkcxbFVrX2tyaWdGQzZKMHM1NlA4bkotdDI2b1Vsb1NyOTN6c0xNSEZmQXk1YnFaZ2lnbXl6RnJyM1E5TUhnYXU3azR4YTdkcEhBVlg5UkhVTG9hWTNmbkRhTllxMDR2cTRieG1jR2VHWlRJQzdfN3pFU2RxM2Q5aXg2X1IwY3FCM0xwQmotZTVEaHp4V0ZHLVhrSU0?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGlNVmNJQWdOZGplTGw0dVZobzZNbEZFLVVxd1RhMHFHQTctWm1TSVhsZF9DT0NiYnlRNDRkUVhGSXVsY3FSOVVMbjI1MUVPaUZDODh1V3YwZ1pVOC1oSjhSRl9QamJmcGlPRXVFMU1obHhPVDRfY3R6ZFhOMFY1T0UxWDd1VzM2bk9oMEpHZUdNc3VpSWlDTEJNYmlRLXBfMEJtSjZxY1U3b2I5ZmEwUnFHVUVpTUVvbDVmVW9SdXFRQVM3akpPMDNxUzF6ZkNPUHfSAdcBQVVfeXFMTi1LeWVoNjExcWppZHpCS3ZSdWlJM0pvTDJBQUN3N3VjUlhJVmJEeVRXVl9DSGpfYU02UUZXZXNrZWtzNkcxbFVrX2tyaWdGQzZKMHM1NlA4bkotdDI2b1Vsb1NyOTN6c0xNSEZmQXk1YnFaZ2lnbXl6RnJyM1E5TUhnYXU3azR4YTdkcEhBVlg5UkhVTG9hWTNmbkRhTllxMDR2cTRieG1jR2VHWlRJQzdfN3pFU2RxM2Q5aXg2X1IwY3FCM0xwQmotZTVEaHp4V0ZHLVhrSU0?oc=5)
-
----
-
 ### [Klinik-Mitarbeiter in Quarantäne: Hantavirus in Nimwegen: So ist der Kreis Kleve darauf vorbereitet - RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnhuNERMTWJnbFpTcU5pa25iS1pJdl9DdmNOVnRTN3ZUZkNVdFVqcUt5QldhUmlFa0F6Zld3VHgxeTZ4XzZ1UmlmbTJwSnVJUHlNQlVFSG9wYkJmeTRpUkxQTzJZNWVINkY0TjFOanduRFV1VVZEaUtYRVJuQW9hTktwZUFRVnRqdi1xdnBUVGFyb2E3dGd1RFpOcnZPM19RS3J6OC1zcUpoMmVmNXRkQ3Q1OE0wblBmdFloMGhPcklqR3c?oc=5)
 
 2026-05-13 <span class="news-indication-tag">MS</span>
 
 來源：[RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnhuNERMTWJnbFpTcU5pa25iS1pJdl9DdmNOVnRTN3ZUZkNVdFVqcUt5QldhUmlFa0F6Zld3VHgxeTZ4XzZ1UmlmbTJwSnVJUHlNQlVFSG9wYkJmeTRpUkxQTzJZNWVINkY0TjFOanduRFV1VVZEaUtYRVJuQW9hTktwZUFRVnRqdi1xdnBUVGFyb2E3dGd1RFpOcnZPM19RS3J6OC1zcUpoMmVmNXRkQ3Q1OE0wblBmdFloMGhPcklqR3c?oc=5)
-
----
-
-### [Are hantavirus cases spreading? French woman in critical condition in hospital](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlo0bGVheUJvVzRDZ084MHBEcXJOZW5WUjF6OFFvSmNjWmt2YTdYbmh3dDh6UXF1Y0ktMkJyQmR5RkpRU094RncxMEhzeE5QWjFXM2YwU0hlOHF2UHpmUWlyZHM2eGZaUGF2eU5BUEkxVTdQVVlET2tmZ0JkbmRwWlJTQ2IyUWJnNnhnYTNfSWU3ZnpaNmVqZ1kxcjJUd1JCOUtzbHdZcVR1ZVFhYjBFa1N2alVQWG1GQTlDWA?oc=5)
-
----
-
-### [Ce que révèle l’aspect de vos selles sur votre santé — et pourquoi il faut y prêter attention](https://news.google.com/rss/articles/CBMivwFBVV95cUxNODBuVDNIdnhiQks0bUQxTXR3QkZTVU43dldpYkVLMnczSmFadVVIQnctYTRVR0ZsZ1hpRWNsc1pRTnh1SS1OeF92bTdHOFdVTVhzb3NhUVNQeXlPNmdvLUhyRFNRRGJsRUEyUjI4VDkyTkpaX2c4Zmt3MjNaYng0Yk4zQjRwRThieEtBS09XTWVzandFdnBuUS1vWWRTSHVyakxmU1lrR2l3bFd6QzdrM2JlS2ltNHBldXhQLXRiWQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span>
-
-來源：[24matins](https://news.google.com/rss/articles/CBMivwFBVV95cUxNODBuVDNIdnhiQks0bUQxTXR3QkZTVU43dldpYkVLMnczSmFadVVIQnctYTRVR0ZsZ1hpRWNsc1pRTnh1SS1OeF92bTdHOFdVTVhzb3NhUVNQeXlPNmdvLUhyRFNRRGJsRUEyUjI4VDkyTkpaX2c4Zmt3MjNaYng0Yk4zQjRwRThieEtBS09XTWVzandFdnBuUS1vWWRTSHVyakxmU1lrR2l3bFd6QzdrM2JlS2ltNHBldXhQLXRiWQ?oc=5)
 
 ---
 
@@ -158,14 +142,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### ['I knew something was wrong with me, but I never thought it would be cancer' - STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
-2026-05-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmJoNVl1bjhONlhUX1dKNG5MVHJyaHJ0UEhNUEFxMUs5VkpmQUtmNHJnc3VUWlVsX1lKUk5FZDlnbVFEZ3JycldtNUd0U2R0TGV4NHBma2NGdDJsU2VNSGFqcUx1WEtBNGl3dldUX1BhTjh0eEZXYm5CZFFQMHNBVENramFMZFFWMkNialV0QzlCZUtBOWN0N25aaExrRV84SjY0dGc1WTVIUkU5dWpORmpB?oc=5)
-
----
-
 ### [Vitamin B12: the essential nutrient with a complicated cancer link - The Conversation](https://news.google.com/rss/articles/CBMiogFBVV95cUxPODliNFlGaVhZYVdSSV9jTlFYZXNPWGozRnJDa05nQlRxWWZsTUo0cVZickg1bk9faFdtcmNrN3o5aS1ZallwZXJtb3pncnZkdVRVZ0lRblFBclJPV09nMlBnNjhXZ1MwdFZIcjEtbHdfakJrUS1GakNOWHA0WVlLNkJ0UDBtQjlfZ1dyRzlSTWxUVmpRREpfLUF3YnZCR05qUmc?oc=5)
 
 2026-05-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -174,19 +150,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Wie gefährlich sind Aluminiumsalze in Impfstoffen? - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
+### [„Ich war ans Bett gefesselt“: Münsteranerin erkrankte am Hantavirus - Westfälische Nachrichten](https://news.google.com/rss/articles/CBMidEFVX3lxTE1UYk5SYnhRRzI3ZGk2WVp0MU9iQkxMamRfRjd5aWFNaHpDRGprcERLLUJnTkpZLUc4MDNiNXBaNzM5dERSTWdZSmV1OGtHQXpIS0FxSnMwb014WmQwUTlDdUlZYWlMSUkteEJhVmdieDd2NVZk?oc=5)
 
 2026-05-12 <span class="news-indication-tag">MS</span>
 
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVPR3QzNURLY2xTb2dBQ0FYcU1Cd0JaRERJcVFGNmwxYl9MclhHaDZmVlhUVmwyb1pVQ1VsQU1UbUxfYWdxYWthRW5ZcWJhd29wM0lqV2h0bm54NzN0Z25jR3R6dk5waVpOSk9RZDdoZEVoTzF3VVotemxFcmF0MTVFRVp5ZS1qSHVHTTJFZGVpcWp1OUx2Uk5qaWdUOEM0YnpXajFMd3U1VE0xUHdPU3dNeDgwWU0?oc=5)
-
----
-
-### [The Science on Creatine Dosage Is Shifting – Here’s How Many Grams You Should Take - Men's Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXpaQVhrUHNfX0lpU01aNEJSRks5c0V2Y2tlSzRkSW1DSm9zdm9UWUxLTTBGWU0zVjdUcjJjbUZhSDdfXy1OdnpVYVRYNzFkVWxlaTRwZ0hac1ZHbE5yUFRxdTdWeHJsUm1oRmRYeURPTlU3OS1fWnZlR3lNMHBudVl4bzhENnM?oc=5)
-
-2026-05-12 <span class="news-indication-tag">MS</span>
-
-來源：[Men's Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXpaQVhrUHNfX0lpU01aNEJSRks5c0V2Y2tlSzRkSW1DSm9zdm9UWUxLTTBGWU0zVjdUcjJjbUZhSDdfXy1OdnpVYVRYNzFkVWxlaTRwZ0hac1ZHbE5yUFRxdTdWeHJsUm1oRmRYeURPTlU3OS1fWnZlR3lNMHBudVl4bzhENnM?oc=5)
+來源：[Westfälische Nachrichten](https://news.google.com/rss/articles/CBMidEFVX3lxTE1UYk5SYnhRRzI3ZGk2WVp0MU9iQkxMamRfRjd5aWFNaHpDRGprcERLLUJnTkpZLUc4MDNiNXBaNzM5dERSTWdZSmV1OGtHQXpIS0FxSnMwb014WmQwUTlDdUlZYWlMSUkteEJhVmdieDd2NVZk?oc=5)
 
 ---
 

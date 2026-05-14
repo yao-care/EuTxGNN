@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Wann Inkretinmimetika für Kinder und Jugendliche?](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JmVGh1ck5sY1Rtdm1tQUJ6LXlHMkN0RXppOEl3Mjc4SEpkd0hQZVV3N1ltWmZWWDlmNW0ybWhGU2FBUTl1aTVxczI3YjRVb1YwTlBpNkM1Ql9rYkhFTTJ3c0Rham5hMkl2bFlTWk1xMjZhQ2pFLVViRFkxOTQ2TDJ5VGxid2xjcDZ4bmZzT2VXWVNHWDJBejhkVTZXY00?oc=5)
 
@@ -72,7 +72,7 @@ permalink: /news/naltrexone/
 
 ### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
@@ -86,43 +86,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
+### [Obesity has risen in all countries — but at a faster pace in poorer ones](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGUzdKUzVScERSTV9yMjN0WDNNUzBzNnY0VzUyZ3Nvd0hfLTRwcWNDVExEUFVZWXJQckxZUmtOVVk5TmJRM0k5VEdmd194WDZOZmpRRFcwTFhLVkxyU2lN?oc=5)
 
-2026-05-13 <span class="news-indication-tag">obesidad</span>
+2026-05-13 <span class="news-indication-tag">obesity</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
-
----
-
-### [Obesity rates in some countries levelling off or potentially falling, study finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNV9tSVFXd0FZc2NLSlo4T3BPVnVCU3BZaG1VWFBVbmNoTVVNbjRQeWtqeWRuemRPUDdMdElTeXFodjdKZWZiVU94dlRBbWptRzZzZHJhOEZLNlBGX09wM0Y0MjkyNmJja2tMMDhobnVZN0wyMjdpOXRLdGk5aXplYlRPanlKb1BaajZuOEYtdTdIWFZf?oc=5)
-
-2026-05-13 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNV9tSVFXd0FZc2NLSlo4T3BPVnVCU3BZaG1VWFBVbmNoTVVNbjRQeWtqeWRuemRPUDdMdElTeXFodjdKZWZiVU94dlRBbWptRzZzZHJhOEZLNlBGX09wM0Y0MjkyNmJja2tMMDhobnVZN0wyMjdpOXRLdGk5aXplYlRPanlKb1BaajZuOEYtdTdIWFZf?oc=5)
-
----
-
-### [rbb GESUND - Diabetes: Immer bessere Therapien, wo bleibt der Mensch? - rbb24 Inforadio](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFrb3VmckRKbGx5WGFBbDI1RzBTSm5tTmVPNzRLVWNmc2c2WEpQSFd4LUJtYlZxcHlndDV2dG9UY1c5Tm1uMXY3UHllWVZVSkJSTmFhLXpvbXRCQXRTTjFua2VRdHZLTVdZNFplSjlRNEFFS29leHdadDRBTHdRTFB0akNaRnhZYXE3WVowOEx2dFBQUUd5UkxmeWJLZFJyTTdRdHVkeWl6RVFuVFhR?oc=5)
-
-2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[rbb24 Inforadio](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFrb3VmckRKbGx5WGFBbDI1RzBTSm5tTmVPNzRLVWNmc2c2WEpQSFd4LUJtYlZxcHlndDV2dG9UY1c5Tm1uMXY3UHllWVZVSkJSTmFhLXpvbXRCQXRTTjFua2VRdHZLTVdZNFplSjlRNEFFS29leHdadDRBTHdRTFB0akNaRnhZYXE3WVowOEx2dFBQUUd5UkxmeWJLZFJyTTdRdHVkeWl6RVFuVFhR?oc=5)
-
----
-
-### [Oubliez les 10 000 pas : le véritable seuil scientifique pour protéger votre santé est bien plus accessible](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzV0VkRQZE5Wd0RoNWp1U0FDa0hUMTU3d3BGTG5RbFdNWDVScV9MWFFfaDRpVGRxLUJoWUlORmtBdUtaaW1jYlA3eHo1b1ZkbEVKeU5ySC00czVjQXRPRENVNldNQ1ZDQll0bjh6dnAxUHBnNjdkOHB1NGVWc0ZGUUZaSzR4YnprRVNfdHZjdjhGRURtclU4STl3cmZlcU1iTl8teHVab3U0X1Y1WTdBS09QQlNrc21fdUI5TUh1OU52YUtnUHNQbA?oc=5)
-
-2026-05-13 <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzV0VkRQZE5Wd0RoNWp1U0FDa0hUMTU3d3BGTG5RbFdNWDVScV9MWFFfaDRpVGRxLUJoWUlORmtBdUtaaW1jYlA3eHo1b1ZkbEVKeU5ySC00czVjQXRPRENVNldNQ1ZDQll0bjh6dnAxUHBnNjdkOHB1NGVWc0ZGUUZaSzR4YnprRVNfdHZjdjhGRURtclU4STl3cmZlcU1iTl8teHVab3U0X1Y1WTdBS09QQlNrc21fdUI5TUh1OU52YUtnUHNQbA?oc=5)
-
----
-
-### [Ascensori troppo pieni e carichi sottostimati: lo studio europeo che lancia l'allarme obesità](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
-
-2026-05-13 <span class="news-indication-tag">obesità</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGUzdKUzVScERSTV9yMjN0WDNNUzBzNnY0VzUyZ3Nvd0hfLTRwcWNDVExEUFVZWXJQckxZUmtOVVk5TmJRM0k5VEdmd194WDZOZmpRRFcwTFhLVkxyU2lN?oc=5)
 
 ---
 
@@ -134,11 +102,35 @@ permalink: /news/naltrexone/
 
 ---
 
-### [I lost 1.5 stone after switching to a four-day week - The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
+### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
+
+---
+
+### [rbb GESUND - Diabetes: Immer bessere Therapien, wo bleibt der Mensch? - rbb24 Inforadio](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFrb3VmckRKbGx5WGFBbDI1RzBTSm5tTmVPNzRLVWNmc2c2WEpQSFd4LUJtYlZxcHlndDV2dG9UY1c5Tm1uMXY3UHllWVZVSkJSTmFhLXpvbXRCQXRTTjFua2VRdHZLTVdZNFplSjlRNEFFS29leHdadDRBTHdRTFB0akNaRnhZYXE3WVowOEx2dFBQUUd5UkxmeWJLZFJyTTdRdHVkeWl6RVFuVFhR?oc=5)
+
+2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[rbb24 Inforadio](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFrb3VmckRKbGx5WGFBbDI1RzBTSm5tTmVPNzRLVWNmc2c2WEpQSFd4LUJtYlZxcHlndDV2dG9UY1c5Tm1uMXY3UHllWVZVSkJSTmFhLXpvbXRCQXRTTjFua2VRdHZLTVdZNFplSjlRNEFFS29leHdadDRBTHdRTFB0akNaRnhZYXE3WVowOEx2dFBQUUd5UkxmeWJLZFJyTTdRdHVkeWl6RVFuVFhR?oc=5)
+
+---
+
+### [Ascensori troppo pieni e carichi sottostimati: lo studio europeo che lancia l'allarme obesità](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+
+2026-05-13 <span class="news-indication-tag">obesità</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMingFBVV95cUxQVEVBTlpmQ3E5MU03bUlGSUcweC1JR25lNC0tSi1lOXJUUTFOY2E2X3dMUC12OXBqbDVod0piTXpybWUzVDl1WmFTdmdKSldtRkl5VHBkWk01ZVVvMk50d01QVHlob2VqOXdzUGU1WG9UTDJpam45N3JsekFWcVhodU9PWXlmV2d4aXZsZWFseTFYbUNLUS00NVY5NlB5UdIBaEFVX3lxTFB5b2NWR0VDdmRRR2RNTG1hOS1oZER1bUxwUGF5ZV9ZY3hvRld6SGlUTVZzcVMwcGdTcmVTSkkzSEVMdXFFV2VObnZlZmpOYzN1cHhXdU9WMV9DejFlNHU5TEtsUU1wMm02?oc=5)
+
+---
+
+### [How your cortisol levels are affecting your weight gain – and what you can do about it - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
 
 2026-05-12 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQbFRLTFVyaXc5TFJSQlZBZVpGMmNkUWpsMVpBLU12UXl5ZjVZdC03bGJZSllycDlwNElJWS1CaUZTMDduN3BXRkdhY1lodm9KX3kxUFRtMUtOWXh4Z0NJaDF5ZU9FU0N1bm9Jc0dhX1F1WDA4VVpYQW1RQlUzTUJiYjJsNmR1dG5mSGZDeGFvdw?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNy02eFAxVFNPTTFqVkRFbGRYSkdxOHRsZjRhTUpOYmFHUllsT1A3Tjg0X0xobFRTSWlQQlJGaGNIa2dVNkR5ZlR4eHk1RTRhTzQ1OFYyQVZGTG01azNjN3FFUFR4OXhjSUpPeEZqMG5wSzRTLWNDdkFhZHV0VjdYaktOMjJDQ0FQNW1rbGRFWl9Bb2M1TThuUDVOdmdUdllqMGY4Qzlhc1lEaWM?oc=5)
 
 ---
 

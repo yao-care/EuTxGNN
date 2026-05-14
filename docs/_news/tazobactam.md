@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEhfNWdfcWlPMzlXb01fTkNOMmdQNExGU19scndyTW5welZaVUlOSVNKSl9pdTVxWWsyQ3J1cFRhUkswZUNURl9hSUhrcEx2bjBZRGs1ZTFyQXlobk9zbVpwcHRTX2E2TFJrOGZfd0NTSjR1aXl5dzBudi1PeDdyTlRVZFVVSEJJOVFxQUM5MUljLVBHaHQwMFdKd1Ryb0F6T0RYeXAtU0RoMnYxX2NQbXFsZ3BNNmMwYktFOG5QOW1lTmZwbE9lNG9scXRxaWhEa2dNWHRR?oc=5)
+
+2026-05-14 <span class="news-indication-tag">asma</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEhfNWdfcWlPMzlXb01fTkNOMmdQNExGU19scndyTW5welZaVUlOSVNKSl9pdTVxWWsyQ3J1cFRhUkswZUNURl9hSUhrcEx2bjBZRGs1ZTFyQXlobk9zbVpwcHRTX2E2TFJrOGZfd0NTSjR1aXl5dzBudi1PeDdyTlRVZFVVSEJJOVFxQUM5MUljLVBHaHQwMFdKd1Ryb0F6T0RYeXAtU0RoMnYxX2NQbXFsZ3BNNmMwYktFOG5QOW1lTmZwbE9lNG9scXRxaWhEa2dNWHRR?oc=5)
+
+---
 
 ### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
 

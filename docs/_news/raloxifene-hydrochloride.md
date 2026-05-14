@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,31 +52,9 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [Herz: Warum ein zu niedriger Puls gefährlicher sein kann als gedacht](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
-
-2026-05-13 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2MzbWFkWjNINnI4ZzR6TFNpWFNaQUxNSFB4MzNNSlpCVHlHRDJYMDhIZjhmN010RkdKaTdyS3dOMHMzSXotUVpJSTZmMzNnYjg5aTg2VWhUd1BobU44M21XWXlPSmJXZ3Y1MHRYZV9rVWNkZ09yRUhRbi03SnMyMzdGWEMzVWVLekFCRTROdEc0VzdSOTA5eVluYXVDNzg2TnVEZ2hlMlZRcWlTRUs3TERtZm5hd2RZRDNucjRhZXNpTXlxdFZzaWpyN285aVdEMHc?oc=5)
-
----
-
-### [You May Have a Dangerous Type of Cholesterol Even if Your Tests Look Normal](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExGcUdlRXp6b3VQRDdjdTRlYXV2MFM3NVBpODF2OGk0LThPLU9fRFVrRXhNem0tVUNJNWFfLUVZeUFDRTFCd01WVHhPT2hrejQ5NTRPdDJNdktrSTdBM2JqLXpFQlR2MVVXT0djZEd3OFg2WjUwMWZ5OUdQN2Z1NjVnZEdna0ZubThIUkxvTngtd0lhZ2N6SHktU3VhWnBucVJn?oc=5)
-
-2026-05-13 <span class="news-indication-tag">stroke</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExGcUdlRXp6b3VQRDdjdTRlYXV2MFM3NVBpODF2OGk0LThPLU9fRFVrRXhNem0tVUNJNWFfLUVZeUFDRTFCd01WVHhPT2hrejQ5NTRPdDJNdktrSTdBM2JqLXpFQlR2MVVXT0djZEd3OFg2WjUwMWZ5OUdQN2Z1NjVnZEdna0ZubThIUkxvTngtd0lhZ2N6SHktU3VhWnBucVJn?oc=5)
-
----
-
-### [Citadelle-Krankenhaus: Neue Spezialstation für Schlaganfall-Patienten - BRF Nachrichten](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzV3NDYWpZSW9hN1ZseGx1ZWpCNmZnY3d2anNIdGo4NEhrUU9YMDZva09pUTM5R3dWdUVGQllwS1BpcEl4ek93?oc=5)
-
-2026-05-12 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[BRF Nachrichten](https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzV3NDYWpZSW9hN1ZseGx1ZWpCNmZnY3d2anNIdGo4NEhrUU9YMDZva09pUTM5R3dWdUVGQllwS1BpcEl4ek93?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
