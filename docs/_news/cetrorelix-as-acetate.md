@@ -54,6 +54,62 @@ permalink: /news/cetrorelix-as-acetate/
 
 ## 相關新聞（34 則）
 
+### [Verbesserung der Therapie bei Lassafieber – erste klinische Studie mit Favipiravir liefert vielversprechende Ergebnisse - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFByYVlhOVFUT0Rjc05DeUNVR2RiSG5Gc0xnM0dESHNEUDZMSHl4OElBOWpzTGUyS0l0UFJJenZBbHl4ajVtZk45NWxFcw?oc=5)
+
+2026-05-15 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFByYVlhOVFUT0Rjc05DeUNVR2RiSG5Gc0xnM0dESHNEUDZMSHl4OElBOWpzTGUyS0l0UFJJenZBbHl4ajVtZk45NWxFcw?oc=5)
+
+---
+
+### [Michele Solimena mit Paul-Langerhans-Medaille 2026 der DDG geehrt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIbWNEck04aGdqa0x1ampzSjZtRnc2QW1UUHd1WmxVUUtqcm9yNEdhaEd3WE9IRzNjSlFGZ0dmZEtTYkVoQUxQejc1bw?oc=5)
+
+2026-05-15 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIbWNEck04aGdqa0x1ampzSjZtRnc2QW1UUHd1WmxVUUtqcm9yNEdhaEd3WE9IRzNjSlFGZ0dmZEtTYkVoQUxQejc1bw?oc=5)
+
+---
+
+### [Pfizer-Dokument unter der Lupe - Hantavirus-Behauptung zu Corona-Impfung beruht auf Fehlinterpretation](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uRk16bU5SOTd4SE9ZUTVYOGFSbkViMFpoY3FBdWQ1YWw3VVNfenFEVzlpMjB4YWVhQjVHc2NmTEtfSnBackRtb3dGRkVSSVczNk9XQ0J1a1dRb0hVbURaWXZ5V1Q?oc=5)
+
+2026-05-15 <span class="news-indication-tag">AF</span>
+
+來源：[dpa-factchecking.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uRk16bU5SOTd4SE9ZUTVYOGFSbkViMFpoY3FBdWQ1YWw3VVNfenFEVzlpMjB4YWVhQjVHc2NmTEtfSnBackRtb3dGRkVSSVczNk9XQ0J1a1dRb0hVbURaWXZ5V1Q?oc=5)
+
+---
+
+### [Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RNMFY3cURVQUREVVdfWUYwMzdqMGt2LTRrTkVBM0txWUQ1M1pqdUxaQjNNOEJqY24zR1ZoTkYzTXVsU1R2a2JhSmlKYVF6TDNiWWxseU5JdHBSUWtIVzFtcThhMEdBa0Yyb2swcVo5SmRlQUI4SWlyemtRVmxlQ2lMdDlqcWtOd3ZuYTJuQXg5MERpaEE?oc=5)
+
+2026-05-15 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RNMFY3cURVQUREVVdfWUYwMzdqMGt2LTRrTkVBM0txWUQ1M1pqdUxaQjNNOEJqY24zR1ZoTkYzTXVsU1R2a2JhSmlKYVF6TDNiWWxseU5JdHBSUWtIVzFtcThhMEdBa0Yyb2swcVo5SmRlQUI4SWlyemtRVmxlQ2lMdDlqcWtOd3ZuYTJuQXg5MERpaEE?oc=5)
+
+---
+
+### [Meningitis cases in Reading are pupils at two schools, UKHSA says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tcFlMRVFwZms1Vy13QjlGQUgyVHpkRkczRlYxbG1wU01xNzBkLTRIYTNGWi1iZjl1M3BpMWhGZ2pUdEJBTWRuVGx3eGZXYWxWaEFVQlJvTjV3U0I1?oc=5)
+
+2026-05-15 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tcFlMRVFwZms1Vy13QjlGQUgyVHpkRkczRlYxbG1wU01xNzBkLTRIYTNGWi1iZjl1M3BpMWhGZ2pUdEJBTWRuVGx3eGZXYWxWaEFVQlJvTjV3U0I1?oc=5)
+
+---
+
+### [Antonella Viola sull'Hantavirus: «Al momento non preoccupa, ma non va sottovalutato. Il vero problema è la lunga incubazione, anche 50 giorni» - Corriere del Veneto](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNXZQRVZaY25WWExMUDl3Sm5yNXJpMmd5MVN5ZnZTMno5bHdGV2EtanFyWUZseW1nMVIzczVlLW5VdkxialFlSUQwVXdfX1MxRm5Yc1ptQkNqSWlveWVTaWE4bHNsYXFKV1poaFVVeklYaTNmYzJjRTJKdXc0X25IaEFpNklpcjNlOFJ5UjlmNGMtRWhJSG9LSHVFUUcyN0tYMXFyMmY1d0NsRzdKcGpqSXFtNklQckdsX0ZCcUpZU1pid2J2TlpiNzdqelBsbUVzZDMxazNUS3FlcjBMRjkwSHpVT2g3QlQtZTJKTWlka3pFQUpyejBCTk10cDRSODNSb0ctVEU1NHFhWEFOcmt1eDJXWkdXYS1SMHVYYmkyNkdaeFNnX3ZheVNkQ0FBZmIwWnBfa1BlOTB1UFBVZHRrUWRGeGlMcklUZGJwaDJ2Wk9ubFpacmlBUWozQUFlQdIB4wJBVV95cUxQRXlON0VMQkVUT25pSVZRdzF0TXBSMHpRckdzZW9QREtDcjJCdy1td2V3blk1MnUyVGJWc0pUUlZ1eTJZcHRJU2RocWJxUmx6R2lXRFpBZEZoa3VXeTk2eWJYVDZsVnlib29YSjFwQklLSFJNdE5HbTZjUFk3R29HXzcxWmdXczh1TUtucmpMZ18wdkFEeTVYTzM2a3hLMWd6ZmcyRm9OUm5GZnNQRG1temJsVmdrZ1FCelNHQ0JxU1RIZ0NNS1NXVmt2ckItQmxuMTZ4eXZxckI4cU01X1ViSzM2dEdBNVRWbFUwWkZ0WXBrSEtmeXQ5T0U3WkV3UmVKNXYyamdWTDllcVhCNFdrM09rT0s4Q3hiaXVkVlhkejhJYV9XbzN5SUdfQklKaFlQbWx5RGtpd3ZNMC15Q2w5NGNmRHU3ZUpRWDQwQm1ab19LdEpQT3MyWWNsa3VYcmNnd2h3?oc=5)
+
+2026-05-15 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere del Veneto](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNXZQRVZaY25WWExMUDl3Sm5yNXJpMmd5MVN5ZnZTMno5bHdGV2EtanFyWUZseW1nMVIzczVlLW5VdkxialFlSUQwVXdfX1MxRm5Yc1ptQkNqSWlveWVTaWE4bHNsYXFKV1poaFVVeklYaTNmYzJjRTJKdXc0X25IaEFpNklpcjNlOFJ5UjlmNGMtRWhJSG9LSHVFUUcyN0tYMXFyMmY1d0NsRzdKcGpqSXFtNklQckdsX0ZCcUpZU1pid2J2TlpiNzdqelBsbUVzZDMxazNUS3FlcjBMRjkwSHpVT2g3QlQtZTJKTWlka3pFQUpyejBCTk10cDRSODNSb0ctVEU1NHFhWEFOcmt1eDJXWkdXYS1SMHVYYmkyNkdaeFNnX3ZheVNkQ0FBZmIwWnBfa1BlOTB1UFBVZHRrUWRGeGlMcklUZGJwaDJ2Wk9ubFpacmlBUWozQUFlQdIB4wJBVV95cUxQRXlON0VMQkVUT25pSVZRdzF0TXBSMHpRckdzZW9QREtDcjJCdy1td2V3blk1MnUyVGJWc0pUUlZ1eTJZcHRJU2RocWJxUmx6R2lXRFpBZEZoa3VXeTk2eWJYVDZsVnlib29YSjFwQklLSFJNdE5HbTZjUFk3R29HXzcxWmdXczh1TUtucmpMZ18wdkFEeTVYTzM2a3hLMWd6ZmcyRm9OUm5GZnNQRG1temJsVmdrZ1FCelNHQ0JxU1RIZ0NNS1NXVmt2ckItQmxuMTZ4eXZxckI4cU01X1ViSzM2dEdBNVRWbFUwWkZ0WXBrSEtmeXQ5T0U3WkV3UmVKNXYyamdWTDllcVhCNFdrM09rT0s4Q3hiaXVkVlhkejhJYV9XbzN5SUdfQklKaFlQbWx5RGtpd3ZNMC15Q2w5NGNmRHU3ZUpRWDQwQm1ab19LdEpQT3MyWWNsa3VYcmNnd2h3?oc=5)
+
+---
+
+### [Zu wenig oder zu viel Schlaf macht unsere Organe alt](https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1pWWlFFTHA0dkJfUVFqUEFaOVljZDVMekdQMzhTTmhmcXd1MUJBN0Q0QTJvVmtHRUhhSUZBTkJ3bHRrSG0xc2FscUJTWDhRRGtNbHBGVzZKNHp4eVVVSEdTYnRpODhhdDV5eVlWWm5QSGJGVkYzXzRnV3NaMmhsUjdXb3pBYWVZRC05eUhTRWo2SjBodEEyamlhS0prZElIUlE?oc=5)
+
+2026-05-15 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1pWWlFFTHA0dkJfUVFqUEFaOVljZDVMekdQMzhTTmhmcXd1MUJBN0Q0QTJvVmtHRUhhSUZBTkJ3bHRrSG0xc2FscUJTWDhRRGtNbHBGVzZKNHp4eVVVSEdTYnRpODhhdDV5eVlWWm5QSGJGVkYzXzRnV3NaMmhsUjdXb3pBYWVZRC05eUhTRWo2SjBodEEyamlhS0prZElIUlE?oc=5)
+
+---
+
 ### [Neuronale Hyperaktivität löst schwerwiegende neurologische Autoimmunerkrankung aus - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EODZGOS0xWmROQmU3LWMwQkZWbEJSdDlkbm9USUdJOUdzRk9Qd1Zxbzc5aXdUNGtkcGNmMTYzMWJyV0hIQXNRcHkzWQ?oc=5)
 
 2026-05-15 <span class="news-indication-tag">AF</span>
@@ -78,14 +134,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Hantavirus outbreak tests post-COVID health communications playbook](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSk81N254S3VrSEdPbE5LaURkQnJnZXlIQVJDaDVtVV8zT0x1S251U2ZuTENMVTFCYURsekFFY3pxVzJ2RzdTclZLZVBwcDJnRldHVXVVR0cwalJaX2d5d3pXaGZlZDNpSDY1TDN5M2RxcVk0ejQ0dTc4YWlGSEJ0WnptalF0Yk00SkVKRC1LOE9pOTd3N1BkQ1d3cllLT2xCbGpoZVNlbVFZWWs1RkFscmxtMkdlcU5CTkt2OEY2cmFqeHkxMnFJU1c4RmNrREtqS3pvVUxB?oc=5)
-
-2026-05-15 <span class="news-indication-tag">AF</span>
-
-來源：[Reuters](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSk81N254S3VrSEdPbE5LaURkQnJnZXlIQVJDaDVtVV8zT0x1S251U2ZuTENMVTFCYURsekFFY3pxVzJ2RzdTclZLZVBwcDJnRldHVXVVR0cwalJaX2d5d3pXaGZlZDNpSDY1TDN5M2RxcVk0ejQ0dTc4YWlGSEJ0WnptalF0Yk00SkVKRC1LOE9pOTd3N1BkQ1d3cllLT2xCbGpoZVNlbVFZWWs1RkFscmxtMkdlcU5CTkt2OEY2cmFqeHkxMnFJU1c4RmNrREtqS3pvVUxB?oc=5)
-
----
-
 ### [Antidepressants in pregnancy do not raise children’s risk of autism or ADHD, study finds - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkctWGJtNzVVUXJUN3RVNW1jQU1xRm5jcDdOaV9VSndINmR2UWh5S1FxMEFVcTE3d1dtcTFHRzhnYU03eXBzNmVCSEF4blVHczFGRDNMZ1RQcmlHYkwyZGlUYW15NDl5emVCMS1TUTk4V0pYb3VfNHRsNFpaU1FTTGI2bWJFNGNvcnRQaEZfWXR4em8yTFRkRzUyQURqZ1ZLRG1QTmJpbXZFOF9TdE5PcEpST0ZFWjg0eVN1ZQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">AF</span>
@@ -94,43 +142,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Small number of Scots linked to hantavirus outbreak, says public health body - STV News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTExSnhRU2V6X3BJMXc2Sll3akhCVTVNMTIxVjdzUS1vVHBkNUJoNE9lbzZ4MnZMLU1HaENsVUg3ZWFtbjUzbDMtcFVldmpmM3VqQURGRTJEWWJISUd6M3hXbDR1N0I2aGhvOHlNLTBzVDdxck1WbllzVXgzOVZYTEVGbnFTNHJ1TFNENXpJUXc3SzVYRk55SDZueGVPR2lhNWxpOGJzTQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTExSnhRU2V6X3BJMXc2Sll3akhCVTVNMTIxVjdzUS1vVHBkNUJoNE9lbzZ4MnZMLU1HaENsVUg3ZWFtbjUzbDMtcFVldmpmM3VqQURGRTJEWWJISUd6M3hXbDR1N0I2aGhvOHlNLTBzVDdxck1WbllzVXgzOVZYTEVGbnFTNHJ1TFNENXpJUXc3SzVYRk55SDZueGVPR2lhNWxpOGJzTQ?oc=5)
-
----
-
-### [Schlaf-Dauer entscheidet über biologisches Altern: 7 Stunden sind optimal - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQms1TlA2QjkxbUlGaW9rTWxRTjBzbW0wNFZiU3dvWkpFSUhpTFNwWnJ5WGtiVWNnY1U2QjZIaGl3UWU3b3VxS3oxZW9NRWQ0bXNLTDVRTXJVVzdTVFJtUmQzT0hJQV9VNXE5SldtdFNXaVFPYkFCaDlFYWxaa3NRTUlhTEtkYjN4bkVuejJVWFpQZ25TcEZIUFFPeGZzcFpNVVc0b2pxcC13ODljeGJYZ1FQZVNuOUxjZ1NlNUppWQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQms1TlA2QjkxbUlGaW9rTWxRTjBzbW0wNFZiU3dvWkpFSUhpTFNwWnJ5WGtiVWNnY1U2QjZIaGl3UWU3b3VxS3oxZW9NRWQ0bXNLTDVRTXJVVzdTVFJtUmQzT0hJQV9VNXE5SldtdFNXaVFPYkFCaDlFYWxaa3NRTUlhTEtkYjN4bkVuejJVWFpQZ25TcEZIUFFPeGZzcFpNVVc0b2pxcC13ODljeGJYZ1FQZVNuOUxjZ1NlNUppWQ?oc=5)
-
----
-
-### [„Ich bin nicht behindert und habe dafür keine Zeit“: Linda (34) wurde komplett arbeitsunfähig geschrieben](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[MSN](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
-
----
-
 ### [Kleiner Balkon? Diese Tchibo-Tricks schaffen maximalen Komfort auf minimalem Raum](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXd5REI2Rkp2bGtlNmFHaUdRT1czQVFwMFhudDRHamdOVDdOc1pqaExUOE5pa1pLaWtZQWhRZW95WEJabHhBLVFvRm5QcmRad0gzWHRtaHk0dlI5Ymo4b1BqdzhCdDFuM21nbnBBUU5GRGZRM1R6RFh1TTBmS3hvQnByaUtvNWhKVHB6M0E4RjN0UVYyN0hTWEl0THlzOVV5dk1mOF9TZTR1RlNCRFRMZ0NaeXpzTDU4ZFplWTRfZW52MDlUZ0xvR1dGTlhienNGeWtERktYanc?oc=5)
 
 2026-05-14 <span class="news-indication-tag">AF</span>
 
 來源：[desired.de](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXd5REI2Rkp2bGtlNmFHaUdRT1czQVFwMFhudDRHamdOVDdOc1pqaExUOE5pa1pLaWtZQWhRZW95WEJabHhBLVFvRm5QcmRad0gzWHRtaHk0dlI5Ymo4b1BqdzhCdDFuM21nbnBBUU5GRGZRM1R6RFh1TTBmS3hvQnByaUtvNWhKVHB6M0E4RjN0UVYyN0hTWEl0THlzOVV5dk1mOF9TZTR1RlNCRFRMZ0NaeXpzTDU4ZFplWTRfZW52MDlUZ0xvR1dGTlhienNGeWtERktYanc?oc=5)
-
----
-
-### [One dead and two ill after meningitis cases in Reading](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1INFppaHVHNDlpeXlkc2JyNV9uTDBha0NYVDFGQ21kVXQydjVRcnBMQmZCQWdjMnVrZkVScnExZTJvbnNoa2ttSXBfN3lMd1BNTk5ibVRTZDMtY2pO?oc=5)
-
-2026-05-14 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1INFppaHVHNDlpeXlkc2JyNV9uTDBha0NYVDFGQ21kVXQydjVRcnBMQmZCQWdjMnVrZkVScnExZTJvbnNoa2ttSXBfN3lMd1BNTk5ibVRTZDMtY2pO?oc=5)
 
 ---
 
@@ -150,11 +166,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Quattro rari tumori al cuore scoperti con un elettrocardiogramma: 39enne salvato da una maratona chirurgica - Il Gazzettino](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEFmRTFVejBhdXFOX2dERVItbzh3bUdhN293SHNlWWVUMEZzakxuaGdmaF91cEVfeUg3ZlJzNllXSEhtY2x1SjNDdTM2WGd3SG1KRHJMMkNRYUZQbVlSdGtQMkV0V3hkLTVwYW1YMUVLSlJNQVFOUk5aUWpma2ZHYjF2aERncFp0dUFldmNMZW9fWjNaZnBRNXRtQ1ZCOHFQNldrUGJyOGhSVFhNRlFsZFdMSVJpQ0lER3FkVk41QjNoQdIBvAFBVV95cUxQZFItT0FEUUUzVm5CSjEwTWNUVktyWWs5dWgyeVYxT3lVZGh2MVBwM3ZURjc2ZktYQy1BSVNYNlFDMXg1WHVOX0tzY2ExcTY0VzVKYnhPYVQ1c2RTR0JBY3RUVk5rM1p1Y1FxTDFPejBWc3ZhSHlzLXhRRVR2UGlfOS1DOUt5V1dtdUNDMzNVT0hkanNjQ2ZuWFZsc3BvcUZjS0xZM3BBMFZKOXBrTFE3LWRFSnZ0aGNjaXpmTw?oc=5)
+### [„Ich bin nicht behindert und habe dafür keine Zeit“: Linda (34) wurde komplett arbeitsunfähig geschrieben](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
 
-2026-05-14 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Il Gazzettino](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEFmRTFVejBhdXFOX2dERVItbzh3bUdhN293SHNlWWVUMEZzakxuaGdmaF91cEVfeUg3ZlJzNllXSEhtY2x1SjNDdTM2WGd3SG1KRHJMMkNRYUZQbVlSdGtQMkV0V3hkLTVwYW1YMUVLSlJNQVFOUk5aUWpma2ZHYjF2aERncFp0dUFldmNMZW9fWjNaZnBRNXRtQ1ZCOHFQNldrUGJyOGhSVFhNRlFsZFdMSVJpQ0lER3FkVk41QjNoQdIBvAFBVV95cUxQZFItT0FEUUUzVm5CSjEwTWNUVktyWWs5dWgyeVYxT3lVZGh2MVBwM3ZURjc2ZktYQy1BSVNYNlFDMXg1WHVOX0tzY2ExcTY0VzVKYnhPYVQ1c2RTR0JBY3RUVk5rM1p1Y1FxTDFPejBWc3ZhSHlzLXhRRVR2UGlfOS1DOUt5V1dtdUNDMzNVT0hkanNjQ2ZuWFZsc3BvcUZjS0xZM3BBMFZKOXBrTFE3LWRFSnZ0aGNjaXpmTw?oc=5)
+來源：[MSN](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
 
 ---
 
@@ -174,14 +190,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Eine verhängnisvolle Affäre: COPD und Herzerkrankung](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
-
----
-
 ### [Les méfaits de l'alcool sur votre corps sont presque tous réversibles, affirme une nouvelle étude](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlF6Ymd0Y3ozWTNzRmtreXdOZXU2S1RSSEJ4aDlVU0ZQOUxnOEpqUEM3UUo0QXh2TUJqOHlpblQtY0JGeFhMdHR2ZkJUbG00NVFCNjNBcEZHSklxNno3Znp6RlFSOHVUT0RKTmNHOWZTelpkSFR1algtME8yY3FkcTZqcFlBZHRydUdrX3ROeHlTd285c29UdVVyV0trWVFZMmp6Y25UeHhHbjJGZ1FXUW1MVzJDOGpUQlE?oc=5)
 
 2026-05-14 <span class="news-indication-tag">AF</span>
@@ -198,11 +206,19 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
+### [Bedeutung von körperlicher Aktivität und Sport zur Prävention und Therapie der Hypertonie – Dr. Dr. med. Lutz Aderhold - German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
+
+2026-05-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
+
+---
+
 ### [El síndrome del ovario poliquístico cambia de nombre tras un acuerdo global: "Es un término inexacto y engañoso"](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXFHNnRzUW1lXzRoeFU3Q3hiVmtEdGZYNTA1cHRlMTROSHhTemtUSlZMVTlhVDkwNUhvLWw0VV8tdE1oX3NMOHhVOWpUTnJvMkowa3gwdlFUXzNDZ0Z6QW9XelBxSUVYeV96cVRwV3lETzlaV0Y5a0lFZm85aWR0b0VaVGhXalQybHREOTFWd1Q4bF81eTB6dVM4UHBubmFqaTl4Rkw4aFdYU2dNUGc?oc=5)
 
 2026-05-14 <span class="news-indication-tag">AF</span>
 
-來源：[telecinco.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXFHNnRzUW1lXzRoeFU3Q3hiVmtEdGZYNTA1cHRlMTROSHhTemtUSlZMVTlhVDkwNUhvLWw0VV8tdE1oX3NMOHhVOWpUTnJvMkowa3gwdlFUXzNDZ0Z6QW9XelBxSUVYeV96cVRwV3lETzlaV0Y5a0lFZm85aWR0b0VaVGhXalQybHREOTFWd1Q4bF81eTB6dVM4UHBubmFqaTl4Rkw4aFdYU2dNUGc?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLXFHNnRzUW1lXzRoeFU3Q3hiVmtEdGZYNTA1cHRlMTROSHhTemtUSlZMVTlhVDkwNUhvLWw0VV8tdE1oX3NMOHhVOWpUTnJvMkowa3gwdlFUXzNDZ0Z6QW9XelBxSUVYeV96cVRwV3lETzlaV0Y5a0lFZm85aWR0b0VaVGhXalQybHREOTFWd1Q4bF81eTB6dVM4UHBubmFqaTl4Rkw4aFdYU2dNUGc?oc=5)
 
 ---
 
@@ -219,6 +235,22 @@ permalink: /news/cetrorelix-as-acetate/
 2026-05-14 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZVhUX3pJbVVnZjlfU3BTUm1UbUFiVGNpcldsZ2VKTzBCWTBYY0FsUnpfQzFKSDdyWndRdXdXTXVGd1lTUXZCOFZxS0RUT0lqbGZWWWtjSHNlV0Nt?oc=5)
+
+---
+
+### [Third of weight lost on fat jabs is bone and muscle - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVRiWkNLQ2RFYXRiU1FxQmhEX0hXOWo1SEwyRGl2OXdZSlVkaFhzYUk5STdIQWd3VHp4Vlp3SXhUT3BHVW1fZkY1dmdCNTF5ekFZelNZTjZmQnR3MUFhQVhvaG1Xa3ZUdkFmMzNWWnc3bTJmN0k5eW84RFlnMWNKdnJoQkF0YnQyVWZNd1djMTVvZ2hKaV8teTZhNXk?oc=5)
+
+2026-05-14 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVRiWkNLQ2RFYXRiU1FxQmhEX0hXOWo1SEwyRGl2OXdZSlVkaFhzYUk5STdIQWd3VHp4Vlp3SXhUT3BHVW1fZkY1dmdCNTF5ekFZelNZTjZmQnR3MUFhQVhvaG1Xa3ZUdkFmMzNWWnc3bTJmN0k5eW84RFlnMWNKdnJoQkF0YnQyVWZNd1djMTVvZ2hKaV8teTZhNXk?oc=5)
+
+---
+
+### [Australians from hantavirus cruise ship fly out of Netherlands in full PPE after plane and crew secured - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGFuX2R4QnBXc29WdzZ0dG03Wk5DSFlGRmxabmM2REdvNll4U2J6ZEhhdWpDaHJVT1QxaXE5Sm5fSjNURlZHYlBNNGd0dEcyX0VpaVdsMmtheXlBZ0RrZm1KTmY5ZTZzMlhUbEFSUG96SWRRSUd3ZFNPTjRjQzh5eGgxbWlEVlJNTlEtN25XNlNtV1pYNjFkQzFhNDFiTks1aC1yMDhZUDNuS0cxT1dmNGRBUHNTTFVXY0FZazd2bEVkUW5JTTVLd3BfS1BrbDQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGFuX2R4QnBXc29WdzZ0dG03Wk5DSFlGRmxabmM2REdvNll4U2J6ZEhhdWpDaHJVT1QxaXE5Sm5fSjNURlZHYlBNNGd0dEcyX0VpaVdsMmtheXlBZ0RrZm1KTmY5ZTZzMlhUbEFSUG96SWRRSUd3ZFNPTjRjQzh5eGgxbWlEVlJNTlEtN25XNlNtV1pYNjFkQzFhNDFiTks1aC1yMDhZUDNuS0cxT1dmNGRBUHNTTFVXY0FZazd2bEVkUW5JTTVLd3BfS1BrbDQ?oc=5)
 
 ---
 
@@ -246,22 +278,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Third of weight shed after jabs ‘is lost from muscle and bones’ - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmZvWVlSdlJFcnNkY2NlYXZyNDA3T3VYckJXYzFFcWpHMGJVWUFVZUFIYWNpVGdBSEVQdEZUOUduX2hWMS1kRGdlR2lfd1JzSy1oOXVrWlhVT2pHU0E2TnNGYkFkaFJLWmVfeTU1VFJzeF80U0ZiMS1oN0JSbFRhN1g1b0xSZWUzR2FBcml5TXhkNmo3blV1dVZMQXJMMlpOQlFYTU4tTFA5OW53VVhwM0F6OUF6UlE?oc=5)
-
-2026-05-13 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmZvWVlSdlJFcnNkY2NlYXZyNDA3T3VYckJXYzFFcWpHMGJVWUFVZUFIYWNpVGdBSEVQdEZUOUduX2hWMS1kRGdlR2lfd1JzSy1oOXVrWlhVT2pHU0E2TnNGYkFkaFJLWmVfeTU1VFJzeF80U0ZiMS1oN0JSbFRhN1g1b0xSZWUzR2FBcml5TXhkNmo3blV1dVZMQXJMMlpOQlFYTU4tTFA5OW53VVhwM0F6OUF6UlE?oc=5)
-
----
-
-### [60. Diabetes Kongress der Deutschen Diabetes Gesellschaft](https://news.google.com/rss/articles/CBMib0FVX3lxTE5GYl9rZ3FMX1JfaVVDSkJjNHQ3Sk81Smo3LUNFUnRqcWloTERzRXRXaGlQUm0wT2RkUVl1YTd2N3ZfNndQS25kU0Rra2hwWGdlRlBkbXk3YWU5WW1XNTFfbHluVDNNQ1hMY1BONHYwOA?oc=5)
-
-2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE5GYl9rZ3FMX1JfaVVDSkJjNHQ3Sk81Smo3LUNFUnRqcWloTERzRXRXaGlQUm0wT2RkUVl1YTd2N3ZfNndQS25kU0Rra2hwWGdlRlBkbXk3YWU5WW1XNTFfbHluVDNNQ1hMY1BONHYwOA?oc=5)
-
----
-
 ### [What it's like for passengers isolating in hantavirus quarantine in Nebraska](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0TGJFWmwtcDQ3Z0F2bjJCWFJfbmk2ZURYbFpxZzJuQWpzdzQ3Z05oQnA2eGxOSC04UV9iaVhFdWVTV0x1amwwbFZWUzdvUTE0NGhwc1lhR0FVd2NL?oc=5)
 
 2026-05-13 <span class="news-indication-tag">AF</span>
@@ -275,14 +291,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-05-13 <span class="news-indication-tag">AF</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHZnYzl4NTVwQ3NiMmFTSW9TWlJib3RMWDcyaGtvVllsZ1J1X3NJSUUtdWhlbmhQS081ZDFkUXpaa3V4TUJYZERFQks5VUsxNkZuOXNiRFRBX0ZWMDJCVkN6SElidldCdENESEVycGNRaDR3cThHcTFWVVhsZjRaNXVoMWtHeGFad2NnZmNhZjRnZ0paWGNkZ1Mwcjk0V1dO?oc=5)
-
----
-
-### [People begin leaving hospital after hantavirus isolation](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZTlOeXN3TnZXM0N2MHY3ekV2T0JBb3VkSm1EX25PczV0azZlRm1CM3VkbXIwdWhmbTgxVWMtZ3p0T1JQRHVjNEcwaEF0djZuMEtMYnVDWmh2UQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZTlOeXN3TnZXM0N2MHY3ekV2T0JBb3VkSm1EX25PczV0azZlRm1CM3VkbXIwdWhmbTgxVWMtZ3p0T1JQRHVjNEcwaEF0djZuMEtMYnVDWmh2UQ?oc=5)
 
 ---
 
@@ -315,14 +323,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-05-13 <span class="news-indication-tag">AF</span>
 
 來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1BRVkExdWdWeUd2OGY5SC0wVFk5TjVSSjl6RjRnNVlfMGl5eXJoakVaYi1iS3pNQ2NqX3B2SkhDUDA4MFZnZWlTdXpyUjh4NUoxbTJieUlubnMwZE1helkxSFJ2am1SOGNxS1dDLXlGVW9tRTcwWVFDUFRhd2dGbkZSNkpVN21Nb19CX1psLUJnRnZZa2g3eFZxazRJUUtUTlUyUHl2U3VaOTJNdW0tZmlDVlFqdFJTZmRv?oc=5)
-
----
-
-### [Oristano, primo caso di West Nile del 2026. La Asl: «Pericolo per fragili e anziani, ecco cosa fare» - L'Unione Sarda.it - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc2h1Y0FIdUxJNE9YbndScWF3aG5JaHVmU1dqczlRTzRMdkhjTUxzcGJUTC1oOVp0V3h5RVYzNVVZRmZwdzFtX3BXWENWV3lESGdIQnY5RUE5QjZIVGp0MXBHaER5cjFHc09QUW41Qm1JZWxnOEVwcGlzdHktTkUxWkQ5Q1d2d091dm1aVzZtUjZ2T0xNTjNCQzFBNktmb1FqNXd5S1ZFNnFlT0Z6Y3JRbHVWbDU4eWxXaFM5WDhlR1FnTU05aVRFUWF0dFdPN28xZ0RGRk90N2FtZ05DU05NYl91WGFtQdIB7gFBVV95cUxQYUJjdXkxWFNfMjVzQnJ1Ri1obzRrS2NvNXE0YjFIeGJuSElyUlNuM3d3Yk9vMnVBb1lKclpnbTIwb0RaTDBma2dOa3d4YnU4UFpBamRMWW9UQVdMd2htOUhVWWVxZmdoYmgycUNjSlRrRTh6TjJ6bGY4WWpGR0llU2ZpTVg2Nl9ybkhsS3JwRVhKZk55SjZnSUhqc2ZDUDFfYzlKU2N5QUZEWjdUSFkyMXU1NFFEdFlfbjBnQVFaR215Nlc0Q3MtMDllbjZlTzZkQkxrdU1lbHFWb1ZfTTNycER3MnZYUThYdGp5RnlB?oc=5)
-
-2026-05-13 <span class="news-indication-tag">AF</span>
-
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc2h1Y0FIdUxJNE9YbndScWF3aG5JaHVmU1dqczlRTzRMdkhjTUxzcGJUTC1oOVp0V3h5RVYzNVVZRmZwdzFtX3BXWENWV3lESGdIQnY5RUE5QjZIVGp0MXBHaER5cjFHc09QUW41Qm1JZWxnOEVwcGlzdHktTkUxWkQ5Q1d2d091dm1aVzZtUjZ2T0xNTjNCQzFBNktmb1FqNXd5S1ZFNnFlT0Z6Y3JRbHVWbDU4eWxXaFM5WDhlR1FnTU05aVRFUWF0dFdPN28xZ0RGRk90N2FtZ05DU05NYl91WGFtQdIB7gFBVV95cUxQYUJjdXkxWFNfMjVzQnJ1Ri1obzRrS2NvNXE0YjFIeGJuSElyUlNuM3d3Yk9vMnVBb1lKclpnbTIwb0RaTDBma2dOa3d4YnU4UFpBamRMWW9UQVdMd2htOUhVWWVxZmdoYmgycUNjSlRrRTh6TjJ6bGY4WWpGR0llU2ZpTVg2Nl9ybkhsS3JwRVhKZk55SjZnSUhqc2ZDUDFfYzlKU2N5QUZEWjdUSFkyMXU1NFFEdFlfbjBnQVFaR215Nlc0Q3MtMDllbjZlTzZkQkxrdU1lbHFWb1ZfTTNycER3MnZYUThYdGp5RnlB?oc=5)
 
 ---
 

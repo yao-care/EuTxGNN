@@ -14,7 +14,7 @@ permalink: /news/macitentan/
 ---
 
 <p class="key-answer" data-question="Macitentan 有什麼相關新聞？">
-<strong>Macitentan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macitentan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/macitentan/
 <p><a href="{{ '/drugs/macitentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Casi la mitad de los españoles sitúa las cifras de hipertensión por encima del valor real](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXEtWl9sSGFIQW03NGM0WmNoN2tZb1FlTTlITENnSk1fWUNCbThEX1Y0UUFRUWxJNUVuTDRKWkpsV01rX1lObTJST0R4UDhRT3JrWmF5Q0E5NE4tRXlCRUdWMFJlbnBib1NJTzJwd0h1V0xIM1FtaUZmSFFxMnc5RDdNVzcyNVBBUlF5Z0tFOTdjdEs4R0tMV1dJTW9JUzVGbE1xRzVqUFFJQUVtclFpYWdXNUx5Z0hHR1ltVHNkTjBQQTQ?oc=5)
 
@@ -62,9 +62,17 @@ permalink: /news/macitentan/
 
 ---
 
+### [Obesidad, principal factor asociado a la hipertensión arterial, coinciden los endocrinos - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1GQ0wwUGxhYVAxbVZ0Q1l0WFY1THdNSk9NTUpCWDBTYV82SmVFbTlBczdrc0xOR3BVaDVKNUNWZHNEcnkyVFhqeGpKcFM5OG1pbnRPUDMxNTRZTEJrcC03elEycFYzTVVIMzFtSmRvcE9Cb0hrR0d0VnJtZ2dhLXQyZHlwN1NlWDhRRkh1Y2stVTdMSC1OMTUyUUxITzNNemVlcmNuZEVsZHZWM2twTXY3S3U?oc=5)
+
+2026-05-14 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1GQ0wwUGxhYVAxbVZ0Q1l0WFY1THdNSk9NTUpCWDBTYV82SmVFbTlBczdrc0xOR3BVaDVKNUNWZHNEcnkyVFhqeGpKcFM5OG1pbnRPUDMxNTRZTEJrcC03elEycFYzTVVIMzFtSmRvcE9Cb0hrR0d0VnJtZ2dhLXQyZHlwN1NlWDhRRkh1Y2stVTdMSC1OMTUyUUxITzNNemVlcmNuZEVsZHZWM2twTXY3S3U?oc=5)
+
+---
+
 ### [Bedeutung von körperlicher Aktivität und Sport zur Prävention und Therapie der Hypertonie – Dr. Dr. med. Lutz Aderhold - German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
 
-2026-05-14 <span class="news-indication-tag">Bluthochdruck</span>
+2026-05-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
 
