@@ -78,11 +78,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Neue Ansätze in der Diabetes-Therapie: Herausforderungen und Chancen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
+### [Typ-2-Diabetes: Neue Therapien, aber große Lücke in der Versorgung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BMT3BqbExjcVAxQ2FPVExpWHRLT2FMYjVBcHZyR1EwbFVmaXZTRk5rZkE3dTRlYWN1dUlnV1JVLXdtMWZ4bWlHbjZjQ05ha3RqdHI5V3lwNTVwRnZFakRiMmNnYkN6ZHNBNHk1Nkhhc0w1VmkzU3FXUjNpSHVxMm5zWmp2aU9ldlRBakFWeFUtWTBTVWhvekpicTlnUUw4OWxFQ0lFQ3VWNzJtcF9TaFJ1ajNNUQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BMT3BqbExjcVAxQ2FPVExpWHRLT2FMYjVBcHZyR1EwbFVmaXZTRk5rZkE3dTRlYWN1dUlnV1JVLXdtMWZ4bWlHbjZjQ05ha3RqdHI5V3lwNTVwRnZFakRiMmNnYkN6ZHNBNHk1Nkhhc0w1VmkzU3FXUjNpSHVxMm5zWmp2aU9ldlRBakFWeFUtWTBTVWhvekpicTlnUUw4OWxFQ0lFQ3VWNzJtcF9TaFJ1ajNNUQ?oc=5)
 
 ---
 
@@ -102,19 +102,19 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Hiv, in Italia primo farmaco iniettabile a lunga durata per la prevenzione - Salute e Benessere](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3FfUFBLRlNLY0RkZVdZYU9WLXJZLW1GdkRJb1ZpR0puaWswVGt4QW1vUW9TUWRSWVNxWGNnV254OFhMdlZNX0tNY1BSVGx6SzV4VnljSTI1TmFxWUhHRkFCMm9DdTFsUTlZWkctbmo4M3pvaGEwTlZIQU1fNGtFdnZfN2NQZ0JFV2hYRlhiMFVxSk5xYThoQVo4c2FnSWdYSTZacGdVb1M4Qk0yQzFkem9HcFZoQkpKR2RtQzRrRk5EU1VhZXRGOGNzYVo?oc=5)
+
+2026-05-13 <span class="news-drug-tag">Cabotegravir</span>
+
+來源：[l'Adige](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3FfUFBLRlNLY0RkZVdZYU9WLXJZLW1GdkRJb1ZpR0puaWswVGt4QW1vUW9TUWRSWVNxWGNnV254OFhMdlZNX0tNY1BSVGx6SzV4VnljSTI1TmFxWUhHRkFCMm9DdTFsUTlZWkctbmo4M3pvaGEwTlZIQU1fNGtFdnZfN2NQZ0JFV2hYRlhiMFVxSk5xYThoQVo4c2FnSWdYSTZacGdVb1M4Qk0yQzFkem9HcFZoQkpKR2RtQzRrRk5EU1VhZXRGOGNzYVo?oc=5)
+
+---
+
 ### [Typ-2-Diabetes macht besonderen Schutz für Niere und Herz erforderlich](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
 
 2026-05-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
-
----
-
-### [Vivir con EPOC: la “asesina silenciosa” que te quita el aire - El Periódico](https://news.google.com/rss/articles/CBMidEFVX3lxTFA3azZGdGNBVzhiZHZKRTY2T1JwOHpiRmx6MFBqbkRmSlJPZTEtN0JYTS1fbGVsdUlFZW5IZzhoWW9aR0ZleEtVN1VtelliSGVJTEc2QWFSV3cwdlpsbldJN2pFVy0xeHVBREtnUnI1eUpSNUY4?oc=5)
-
-2026-05-12 <span class="news-indication-tag">EPOC</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMidEFVX3lxTFA3azZGdGNBVzhiZHZKRTY2T1JwOHpiRmx6MFBqbkRmSlJPZTEtN0JYTS1fbGVsdUlFZW5IZzhoWW9aR0ZleEtVN1VtelliSGVJTEc2QWFSV3cwdlpsbldJN2pFVy0xeHVBREtnUnI1eUpSNUY4?oc=5)
 
 ---
 

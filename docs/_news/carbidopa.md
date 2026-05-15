@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [My little boy said 'mama' once then never spoke again… it was sign of dementia - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBGa0VpTWZBMEFiUWw0SU1GWm5EY2RPVElKYks3UlFZUHJLeTZZQWc0OVJPS3J2UHNvOUFwVDJaU1dRU0ZmNkdDYTlmeXkwR1VBMG03Rl91NDgtOG5MTDRyU0p0bldKZ3BkRkYzZ2dQMXFaTkI3SXFLdEpVVQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/carbidopa/
 2026-05-13 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjdBQjdNNFVVenAtUlhfZUN4elNfenItRnVhS3pYQjU3ZkxTLUpDTllUcXFKcklTbFBaazFlQXlfanQwNjRiR1BVYkdkWWpLQWl5MnRiUnNQTXVHSXhaYnI4Y2xTRk5vbHJzLTBKZUZyU3dNNjFUeTBpM3pBemNuZFI5RUFhcXN1d1RhQ2owcDg5emc?oc=5)
-
----
-
-### [Slowing Parkinson’s by Blocking a Key Protein - Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGN0OXIxbXpjZkpabWhIT1BUWVNsQ19udUNmRzAzMVYzQmNEZzNJYzlONV9Fd0UzeUhsZVZUamxEbXJWN2Jnb0VoZ0E3Z3BvWGNRYTlGS3VGSmk2cDVZaUZxeWdNcUxGR3AyN253TkREdnotbnRBMi1qQlVZZDZFOFZn?oc=5)
-
-2026-05-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGN0OXIxbXpjZkpabWhIT1BUWVNsQ19udUNmRzAzMVYzQmNEZzNJYzlONV9Fd0UzeUhsZVZUamxEbXJWN2Jnb0VoZ0E3Z3BvWGNRYTlGS3VGSmk2cDVZaUZxeWdNcUxGR3AyN253TkREdnotbnRBMi1qQlVZZDZFOFZn?oc=5)
 
 ---
 

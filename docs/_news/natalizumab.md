@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [CGM verbessert Blutzuckerkontrolle auch unter moderner Typ-2-Diabetes-Therapie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Neue Ansätze in der Diabetes-Therapie: Herausforderungen und Chancen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
+### [Typ-2-Diabetes: Neue Therapien, aber große Lücke in der Versorgung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BMT3BqbExjcVAxQ2FPVExpWHRLT2FMYjVBcHZyR1EwbFVmaXZTRk5rZkE3dTRlYWN1dUlnV1JVLXdtMWZ4bWlHbjZjQ05ha3RqdHI5V3lwNTVwRnZFakRiMmNnYkN6ZHNBNHk1Nkhhc0w1VmkzU3FXUjNpSHVxMm5zWmp2aU9ldlRBakFWeFUtWTBTVWhvekpicTlnUUw4OWxFQ0lFQ3VWNzJtcF9TaFJ1ajNNUQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BMT3BqbExjcVAxQ2FPVExpWHRLT2FMYjVBcHZyR1EwbFVmaXZTRk5rZkE3dTRlYWN1dUlnV1JVLXdtMWZ4bWlHbjZjQ05ha3RqdHI5V3lwNTVwRnZFakRiMmNnYkN6ZHNBNHk1Nkhhc0w1VmkzU3FXUjNpSHVxMm5zWmp2aU9ldlRBakFWeFUtWTBTVWhvekpicTlnUUw4OWxFQ0lFQ3VWNzJtcF9TaFJ1ajNNUQ?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/natalizumab/
 2026-05-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
-
----
-
-### [Vivir con EPOC: la “asesina silenciosa” que te quita el aire - El Periódico](https://news.google.com/rss/articles/CBMidEFVX3lxTFA3azZGdGNBVzhiZHZKRTY2T1JwOHpiRmx6MFBqbkRmSlJPZTEtN0JYTS1fbGVsdUlFZW5IZzhoWW9aR0ZleEtVN1VtelliSGVJTEc2QWFSV3cwdlpsbldJN2pFVy0xeHVBREtnUnI1eUpSNUY4?oc=5)
-
-2026-05-12 <span class="news-indication-tag">EPOC</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMidEFVX3lxTFA3azZGdGNBVzhiZHZKRTY2T1JwOHpiRmx6MFBqbkRmSlJPZTEtN0JYTS1fbGVsdUlFZW5IZzhoWW9aR0ZleEtVN1VtelliSGVJTEc2QWFSV3cwdlpsbldJN2pFVy0xeHVBREtnUnI1eUpSNUY4?oc=5)
 
 ---
 

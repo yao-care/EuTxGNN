@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Hantavirus, Ecdc e ministero: ‘Nessun allarme epidemico’. Ma emerge quello dell’infodemia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JlNzMzRDc3OFIzbm0wMVN2SEQxbUNtUW5NODZCMk9JbHdobDB4TVZoUXJRZ1ZxQ1ZYdXFfcV9NR2tMVU5HNVY0eFpHVEZoVUY4dEZ2YlBVOFFPLVdXbEVGbmFXek1IejE5bV91d0w5RVh5ZG1YWjFCTlJ1WGFHRnhzUnplV1NuYWM2dDhKNWxZTUZxSTE2OHdzTnJZcWZCUUxReDVLc1VlVHJ2X2RGQ3FoZEhUMFdZ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[RIFday](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JlNzMzRDc3OFIzbm0wMVN2SEQxbUNtUW5NODZCMk9JbHdobDB4TVZoUXJRZ1ZxQ1ZYdXFfcV9NR2tMVU5HNVY0eFpHVEZoVUY4dEZ2YlBVOFFPLVdXbEVGbmFXek1IejE5bV91d0w5RVh5ZG1YWjFCTlJ1WGFHRnhzUnplV1NuYWM2dDhKNWxZTUZxSTE2OHdzTnJZcWZCUUxReDVLc1VlVHJ2X2RGQ3FoZEhUMFdZ?oc=5)
+
+---
 
 
 <div class="disclaimer">

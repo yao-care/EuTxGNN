@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。9 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>9 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,29 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Adipositastherapie mit Inkretinmimetika: Braucht es Kriterien für eine lebenslange Therapie? - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
+
+2026-05-14
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
+
+---
+
+### [Third of weight lost on fat jabs is bone and muscle - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVRiWkNLQ2RFYXRiU1FxQmhEX0hXOWo1SEwyRGl2OXdZSlVkaFhzYUk5STdIQWd3VHp4Vlp3SXhUT3BHVW1fZkY1dmdCNTF5ekFZelNZTjZmQnR3MUFhQVhvaG1Xa3ZUdkFmMzNWWnc3bTJmN0k5eW84RFlnMWNKdnJoQkF0YnQyVWZNd1djMTVvZ2hKaV8teTZhNXk?oc=5)
+
+2026-05-14
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVRiWkNLQ2RFYXRiU1FxQmhEX0hXOWo1SEwyRGl2OXdZSlVkaFhzYUk5STdIQWd3VHp4Vlp3SXhUT3BHVW1fZkY1dmdCNTF5ekFZelNZTjZmQnR3MUFhQVhvaG1Xa3ZUdkFmMzNWWnc3bTJmN0k5eW84RFlnMWNKdnJoQkF0YnQyVWZNd1djMTVvZ2hKaV8teTZhNXk?oc=5)
+
+---
 
 ### [Wann Inkretinmimetika für Kinder und Jugendliche?](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JmVGh1ck5sY1Rtdm1tQUJ6LXlHMkN0RXppOEl3Mjc4SEpkd0hQZVV3N1ltWmZWWDlmNW0ybWhGU2FBUTl1aTVxczI3YjRVb1YwTlBpNkM1Ql9rYkhFTTJ3c0Rham5hMkl2bFlTWk1xMjZhQ2pFLVViRFkxOTQ2TDJ5VGxid2xjcDZ4bmZzT2VXWVNHWDJBejhkVTZXY00?oc=5)
 
 2026-05-14
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JmVGh1ck5sY1Rtdm1tQUJ6LXlHMkN0RXppOEl3Mjc4SEpkd0hQZVV3N1ltWmZWWDlmNW0ybWhGU2FBUTl1aTVxczI3YjRVb1YwTlBpNkM1Ql9rYkhFTTJ3c0Rham5hMkl2bFlTWk1xMjZhQ2pFLVViRFkxOTQ2TDJ5VGxid2xjcDZ4bmZzT2VXWVNHWDJBejhkVTZXY00?oc=5)
-
----
-
-### [Neue Ansätze in der Diabetes-Therapie: Herausforderungen und Chancen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
-
-2026-05-14
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
 
 ---
 
@@ -62,11 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Third of weight shed after jabs ‘is lost from muscle and bones’ - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmZvWVlSdlJFcnNkY2NlYXZyNDA3T3VYckJXYzFFcWpHMGJVWUFVZUFIYWNpVGdBSEVQdEZUOUduX2hWMS1kRGdlR2lfd1JzSy1oOXVrWlhVT2pHU0E2TnNGYkFkaFJLWmVfeTU1VFJzeF80U0ZiMS1oN0JSbFRhN1g1b0xSZWUzR2FBcml5TXhkNmo3blV1dVZMQXJMMlpOQlFYTU4tTFA5OW53VVhwM0F6OUF6UlE?oc=5)
+### [Typ-2-Diabetes: Neue Therapien, aber große Lücke in der Versorgung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BMT3BqbExjcVAxQ2FPVExpWHRLT2FMYjVBcHZyR1EwbFVmaXZTRk5rZkE3dTRlYWN1dUlnV1JVLXdtMWZ4bWlHbjZjQ05ha3RqdHI5V3lwNTVwRnZFakRiMmNnYkN6ZHNBNHk1Nkhhc0w1VmkzU3FXUjNpSHVxMm5zWmp2aU9ldlRBakFWeFUtWTBTVWhvekpicTlnUUw4OWxFQ0lFQ3VWNzJtcF9TaFJ1ajNNUQ?oc=5)
 
-2026-05-13
+2026-05-14
 
-來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmZvWVlSdlJFcnNkY2NlYXZyNDA3T3VYckJXYzFFcWpHMGJVWUFVZUFIYWNpVGdBSEVQdEZUOUduX2hWMS1kRGdlR2lfd1JzSy1oOXVrWlhVT2pHU0E2TnNGYkFkaFJLWmVfeTU1VFJzeF80U0ZiMS1oN0JSbFRhN1g1b0xSZWUzR2FBcml5TXhkNmo3blV1dVZMQXJMMlpOQlFYTU4tTFA5OW53VVhwM0F6OUF6UlE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BMT3BqbExjcVAxQ2FPVExpWHRLT2FMYjVBcHZyR1EwbFVmaXZTRk5rZkE3dTRlYWN1dUlnV1JVLXdtMWZ4bWlHbjZjQ05ha3RqdHI5V3lwNTVwRnZFakRiMmNnYkN6ZHNBNHk1Nkhhc0w1VmkzU3FXUjNpSHVxMm5zWmp2aU9ldlRBakFWeFUtWTBTVWhvekpicTlnUUw4OWxFQ0lFQ3VWNzJtcF9TaFJ1ajNNUQ?oc=5)
 
 ---
 
