@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li>heart disease（96.3%）</li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,15 +52,7 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Zu wenig oder zu viel Schlaf macht unsere Organe alt](https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1pWWlFFTHA0dkJfUVFqUEFaOVljZDVMekdQMzhTTmhmcXd1MUJBN0Q0QTJvVmtHRUhhSUZBTkJ3bHRrSG0xc2FscUJTWDhRRGtNbHBGVzZKNHp4eVVVSEdTYnRpODhhdDV5eVlWWm5QSGJGVkYzXzRnV3NaMmhsUjdXb3pBYWVZRC05eUhTRWo2SjBodEEyamlhS0prZElIUlE?oc=5)
-
-2026-05-15 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
-
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1pWWlFFTHA0dkJfUVFqUEFaOVljZDVMekdQMzhTTmhmcXd1MUJBN0Q0QTJvVmtHRUhhSUZBTkJ3bHRrSG0xc2FscUJTWDhRRGtNbHBGVzZKNHp4eVVVSEdTYnRpODhhdDV5eVlWWm5QSGJGVkYzXzRnV3NaMmhsUjdXb3pBYWVZRC05eUhTRWo2SjBodEEyamlhS0prZElIUlE?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/abemaciclib/
 
 ---
 
-### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+### [Artrite reumatoide e invalidità: come ottenere il riconoscimento Inps - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
-2026-05-13 <span class="news-indication-tag">arthritis</span>
+2026-05-13 <span class="news-indication-tag">artrite</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
 ---
 

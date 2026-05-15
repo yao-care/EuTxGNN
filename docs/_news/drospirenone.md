@@ -70,11 +70,11 @@ permalink: /news/drospirenone/
 
 ---
 
-### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+### [Artrite reumatoide e invalidità: come ottenere il riconoscimento Inps - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
-2026-05-13 <span class="news-indication-tag">arthritis</span>
+2026-05-13 <span class="news-indication-tag">artrite</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
 ---
 

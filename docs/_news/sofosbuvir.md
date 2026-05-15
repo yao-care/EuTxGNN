@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（18 則）
+
+### [OMS moviliza expertos tras nuevo brote de ébola en la RDC](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZF85ZXVQWllLQ21aUFZGN292eXBhMkp2V1V3WXJnVmt2Rm0tSzN6N1FWOW44cDFBd2pIR3RBOXktT2Y0ODhPN3JsSVJ4algtbUdnWHJ6dXB2RHhySV84dXdOUENsV0Rudm5YUkpsZGhOX190c1A5N1YyUWFHYVZReTJtX0FNUmhLT3dmSDlJQ0d0c2w2aklHNGRXMNIBmwFBVV95cUxQNjhDemlsTkE5Z01rbWlLYVlRV3A0cHZHdGRBQzVFVzlCdkc0MDF1MURuMVF5aEg4cGEzSVUzTWhsZllwX1VKTV9iQmNFQkxvNVRnZzhpM0VnbEpWTVl6TEV6VnRtXy1ZMFEyNVZSS1lUQ3d6UHpRRGJoZ2Q2Zk11VUNkSjQ3dVZMa0h3bzFYeUR4aFVTeGZ5aUJXaw?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span>
+
+來源：[DW.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZF85ZXVQWllLQ21aUFZGN292eXBhMkp2V1V3WXJnVmt2Rm0tSzN6N1FWOW44cDFBd2pIR3RBOXktT2Y0ODhPN3JsSVJ4algtbUdnWHJ6dXB2RHhySV84dXdOUENsV0Rudm5YUkpsZGhOX190c1A5N1YyUWFHYVZReTJtX0FNUmhLT3dmSDlJQ0d0c2w2aklHNGRXMNIBmwFBVV95cUxQNjhDemlsTkE5Z01rbWlLYVlRV3A0cHZHdGRBQzVFVzlCdkc0MDF1MURuMVF5aEg4cGEzSVUzTWhsZllwX1VKTV9iQmNFQkxvNVRnZzhpM0VnbEpWTVl6TEV6VnRtXy1ZMFEyNVZSS1lUQ3d6UHpRRGJoZ2Q2Zk11VUNkSjQ3dVZMa0h3bzFYeUR4aFVTeGZ5aUJXaw?oc=5)
+
+---
+
+### [Hantavirus, Oms: a oggi 10 casi e 3 morti, oltre 120 persone assistite - Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE15QkUyd1RveUgtS21jeE5vOFZLS1gwd3N5N1pUU0gxd0lLbWRia2E0b29TQ3g5NUQxcGpRU3pDSFZEV2FQMjYyTy1vX3E4dFZHV2tlWS04S1JUbVVaZjFNSlR3RXI3VFJ4VFNKUzZxeUVsaWdHMnExcnF4Y0w?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE15QkUyd1RveUgtS21jeE5vOFZLS1gwd3N5N1pUU0gxd0lLbWRia2E0b29TQ3g5NUQxcGpRU3pDSFZEV2FQMjYyTy1vX3E4dFZHV2tlWS04S1JUbVVaZjFNSlR3RXI3VFJ4VFNKUzZxeUVsaWdHMnExcnF4Y0w?oc=5)
+
+---
+
+### [Brit baby dead & two children with serious health problems after contracting gastric illnesses staying at 5* Egypt hotel - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxPM2pDc09HQkgwazRCTnlvSkVOamJVcEZBdTdVZm00NFBGNFA5WnV0VU5Ea1Qxc2xkenBNU2FuMXhjekJQVnJqazZKSk9wLU10MWYwOEcxbEM5RkQyR1V1bkF6VTV3aUs5aGlIeG5jd0lPZ3FWdk4tNV9KNE5ldnhPWmR3?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxPM2pDc09HQkgwazRCTnlvSkVOamJVcEZBdTdVZm00NFBGNFA5WnV0VU5Ea1Qxc2xkenBNU2FuMXhjekJQVnJqazZKSk9wLU10MWYwOEcxbEM5RkQyR1V1bkF6VTV3aUs5aGlIeG5jd0lPZ3FWdk4tNV9KNE5ldnhPWmR3?oc=5)
+
+---
+
+### [I was 19 when I fainted in an exam - I woke up with an 80% mortality rate - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnFTd0daYzJLdnRHeFlFeGg1cFN5bUlGc3hlMTlHYTc5bW5CX01lMFpseURMR3pPd3ZTb2ZTZnhESWNrZUN1ZWFLZ1I5eFNqTW5wVmI4SXZUanowX2RaV2poUG42Z1VIWmJMVWkzRXV1YmZUaGdZaC1IdkdLYkpaMlE0eDk?oc=5)
+
+2026-05-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnFTd0daYzJLdnRHeFlFeGg1cFN5bUlGc3hlMTlHYTc5bW5CX01lMFpseURMR3pPd3ZTb2ZTZnhESWNrZUN1ZWFLZ1I5eFNqTW5wVmI4SXZUanowX2RaV2poUG42Z1VIWmJMVWkzRXV1YmZUaGdZaC1IdkdLYkpaMlE0eDk?oc=5)
+
+---
+
+### [Non è detto che il contagio iniziale da hantavirus sia avvenuto in quella discarica - Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZDdfYUhtMGhnT2NqLXVnekstMkVUUmktYm5FaHVFU3B3M01kNGJSVGtVVW4zX1dSNlMyYlQ2ZThNWEdYel9GYkd0YnNJNTlQV296QUhaQVNHaXB2WUs4Wmh5M2tUbnh0OEQ0UUhNNA?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZDdfYUhtMGhnT2NqLXVnekstMkVUUmktYm5FaHVFU3B3M01kNGJSVGtVVW4zX1dSNlMyYlQ2ZThNWEdYel9GYkd0YnNJNTlQV296QUhaQVNHaXB2WUs4Wmh5M2tUbnh0OEQ0UUhNNA?oc=5)
+
+---
 
 ### [Versicherungsbetrüger täuschen Tod durch Stromschlag vor](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjY1cVpjb2dhNXVkUzhlSU9wOHVETnlaa3k0cFdJNjV5TEMxeF9GeVNaLUZxd2tvd2tDaHZiR3FZck9zb3hxYkN3LWVCR3Nsb3BjTmFLVngtaWZaVU1mZTc0VnY4WGJYUk1OUVZIQkxNdUxRZmtCZTJFbUtSekU4Q2cyM3pMbjhKUmEwaFo3dUI5V2VGUlpMSU95TFgtVEdsLXNiTDlR?oc=5)
 
@@ -62,19 +102,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Jaime Pérez advierte sobre el brote de sarampión en Murcia y pide reforzar la vacunación y la vigilancia sanitaria - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk80ODhhT1ZGbFZjcGVtcUJvbWQycF81cFZIZGVvYVdOT0poWktGUHNfbEdSeXF0aE9RSGU3WWFtODVsUHd1b3BuNUZyUlpndHBQRHdKcE1HdVlRM0tieFF1WGpjWElMZnhIS1FBTWRvbDhaRV8zbTRmTWpaamYwUEZNRjB4R2ZkYksyZUtOeEp1SVNUWE9Mdm1GYXVHZjJsa0xYemZZS2tVSWE5ck5uclh1WXhhVmxpRzA1MFZVeFJkY1VGTWNjWkdsS2VhT2RpUW9UNU9Ickd5MW1kTjNRcA?oc=5)
+### [„Erwachsene mit ADHS haben keine Lifestyle-Krankheit“ - RP Online](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXJmZjNyTEJiQTM3cTZ0LUpVSWk3S2dhZEhNSEVpZVUwWmhFWkdSUmxBWnpyZTdmNWpQV0xtMFpVbHF4Y2tMQTVYYjItZEdzZ18wRVI4T094NU5ON0R4a0EzS3RQNFBqNE5pWm1QNTZya2pKbjZGSGhBY09xTzNCU01DblRjbDEyUWZhX2JZUVVsVTd0VFdGbElKdVdXVkUtaFN2V0haZzA2dWRCbTV2MElmRDNlZw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
 
-來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk80ODhhT1ZGbFZjcGVtcUJvbWQycF81cFZIZGVvYVdOT0poWktGUHNfbEdSeXF0aE9RSGU3WWFtODVsUHd1b3BuNUZyUlpndHBQRHdKcE1HdVlRM0tieFF1WGpjWElMZnhIS1FBTWRvbDhaRV8zbTRmTWpaamYwUEZNRjB4R2ZkYksyZUtOeEp1SVNUWE9Mdm1GYXVHZjJsa0xYemZZS2tVSWE5ck5uclh1WXhhVmxpRzA1MFZVeFJkY1VGTWNjWkdsS2VhT2RpUW9UNU9Ickd5MW1kTjNRcA?oc=5)
+來源：[RP Online](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXJmZjNyTEJiQTM3cTZ0LUpVSWk3S2dhZEhNSEVpZVUwWmhFWkdSUmxBWnpyZTdmNWpQV0xtMFpVbHF4Y2tMQTVYYjItZEdzZ18wRVI4T094NU5ON0R4a0EzS3RQNFBqNE5pWm1QNTZya2pKbjZGSGhBY09xTzNCU01DblRjbDEyUWZhX2JZUVVsVTd0VFdGbElKdVdXVkUtaFN2V0haZzA2dWRCbTV2MElmRDNlZw?oc=5)
 
 ---
 
-### [Ludmillenstift Meppen informiert über neue Erkenntnisse bei Multipler Sklerose - Ems Vechte Welle](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanhyMVVPOTk3RDdTeGp1WGU1eXZQNEcxdWRjUXAyWWtTdzNtNHI0elRQVXh6Zk1LNDlaYkoydjVPQi1QWExfdkdDSjRvbHRRR21QWTFoNUZDM3ZLa2RaS28tb3RHOVgwZ3oydENZNmJLdWsxQ1hGcFItcGVpOXIyWm9zOVhEejRHaHdGVW5Rd2ExdkpFT0hTMHZKVlYwbTRrZ2dnTG00UjBzdzZ0ZDVV?oc=5)
+### [Trotz Proteinen: Warum viele Frauen ab 40 nach dem Training nicht abnehmen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWnRPdE9waXE4VUlWTDEtRXJHWmg2WlNrOURhMmFtRy1BdE81ZENNUy1lUG5WQ2syTGt6amlDN3pHRTd1bi1NY1hkRDlqUk5VSXNQa1g4V191cmFvUXpIMXpUM3RSaFk5dmxRV3RLWS0wZS1QVHcyV24wZmZnSTJ5TEpoWWViZGdYNVl2QlgxMGY4N0VOeTBTZXEyS2xJY0dfQ3QyblZuTmZyX2ozNENubHd5eHMxa1FjOEVBNl9iYkRZbUpPa3RNRkh6aGcyVnoxZ2NmWU9sWnZ1aGdoMDdLdmRBUjZaMnVOSE1sRE9JU2g?oc=5)
 
-2026-05-15 <span class="news-indication-tag">MS</span>
+2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ems Vechte Welle](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanhyMVVPOTk3RDdTeGp1WGU1eXZQNEcxdWRjUXAyWWtTdzNtNHI0elRQVXh6Zk1LNDlaYkoydjVPQi1QWExfdkdDSjRvbHRRR21QWTFoNUZDM3ZLa2RaS28tb3RHOVgwZ3oydENZNmJLdWsxQ1hGcFItcGVpOXIyWm9zOVhEejRHaHdGVW5Rd2ExdkpFT0hTMHZKVlYwbTRrZ2dnTG00UjBzdzZ0ZDVV?oc=5)
+來源：[CHIP](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWnRPdE9waXE4VUlWTDEtRXJHWmg2WlNrOURhMmFtRy1BdE81ZENNUy1lUG5WQ2syTGt6amlDN3pHRTd1bi1NY1hkRDlqUk5VSXNQa1g4V191cmFvUXpIMXpUM3RSaFk5dmxRV3RLWS0wZS1QVHcyV24wZmZnSTJ5TEpoWWViZGdYNVl2QlgxMGY4N0VOeTBTZXEyS2xJY0dfQ3QyblZuTmZyX2ozNENubHd5eHMxa1FjOEVBNl9iYkRZbUpPa3RNRkh6aGcyVnoxZ2NmWU9sWnZ1aGdoMDdLdmRBUjZaMnVOSE1sRE9JU2g?oc=5)
 
 ---
 
@@ -86,14 +126,6 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Hull £48m hub aims to transform treatment for chronic wounds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE52cmVoZFdYR0JrRElYRkVMd1pxQ2hCbUh5djA4RWs4MHFaY1BpVmpyb1ZSMkllSFFZOGFNSlVTa2FYdDFXaWRKT3NFbjhYNWQ4ZlpJS0ZXaWNMVGRC?oc=5)
-
-2026-05-15 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE52cmVoZFdYR0JrRElYRkVMd1pxQ2hCbUh5djA4RWs4MHFaY1BpVmpyb1ZSMkllSFFZOGFNSlVTa2FYdDFXaWRKT3NFbjhYNWQ4ZlpJS0ZXaWNMVGRC?oc=5)
-
----
-
 ### [Las dos semanas de alarma por el hantavirus: los expertos diferencian qué fue exageración, debate o bulo - El Confidencial](https://news.google.com/rss/articles/CBMivwFBVV95cUxQenRfZFBnbFNJREF0ZnNYUjVPdjBSZXh0WW0wRnNhYTVhREZ3NEpGRzhWVnRHOHVjc0JMUGh1dWstV2hxb0JJZzUwNVl0UTFxOGFTenZNM0taS1R4dVhDRXR2MkJFekE0akNkVTJKc0pfdE4zdW0yYVZmRTJSNVBXcEhuVDA5VkNxeTNWVENldngwWUlYZVFmemZMcFhGQVlLbFRTZFNpOF93Rlo2UmpoS09VTmlDbU9WSUwwQXZfYw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
@@ -102,27 +134,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Prostate cancer screening ‘would save thousands of lives’ - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzhXSm5OYV84dlVpOU1wQ201cG1RVWFuNDFScGxnaFltZ0U1U3A4dTd2aW9NZ3REQk1oY2RDSzRXa19fWTVBT1EyYVQxa2JubTBBVjJXTlZfeEF3b2xPXzMyd0hEUkRKM2dGeWZOdnhCSHVYYnlkUHk4c3MxbDQzaXlGcG9oLTBJVDVNODAtZXBnaEdTNmc?oc=5)
+### [Hantavirus-Risiko: Ahnungsloser Tourist wird aus Bar abgeführt](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5YOF94RkpGZ2pJOFFOelYzanFSaVN1N1h6bzA5VGFubjBHVV9DaFhGVXZ1cXdpdTUwT1JEc0Mya2ZURXFiOXBJdjdoajR3cFYxaXhJanhsb1dib3dSSXVPakFjWWhBSXRuTm5QQ0dHM2x3SWY1N085M21feXpHU0dBT1dWQjVmVXZqUklnek1NbXRWRzlVU3YxMmV1VFA3ZzY1NkRDeVEyVTRrdXhxb1REdjFSTEhBNVllSnAzQQ?oc=5)
 
-2026-05-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-05-14 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzhXSm5OYV84dlVpOU1wQ201cG1RVWFuNDFScGxnaFltZ0U1U3A4dTd2aW9NZ3REQk1oY2RDSzRXa19fWTVBT1EyYVQxa2JubTBBVjJXTlZfeEF3b2xPXzMyd0hEUkRKM2dGeWZOdnhCSHVYYnlkUHk4c3MxbDQzaXlGcG9oLTBJVDVNODAtZXBnaEdTNmc?oc=5)
-
----
-
-### [El ciclo menstrual influye en la fatiga y el dolor de mujeres con esclerosis múltiple](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2pRYkQtVlhJaUNjNWszMzRaS1NQZzdTQW1HV2pLQThlVGlwdFdZRGVNcDFDaFBHQ1F0bUhmQ2hOWnNyOFBNX1BpNVVNaHhqMEVKelZvQUxHamZybEVIUzFfSktnamZUMTdTSGlDVlkwdjVDeUFrTms4cVFxdXkyekkxZ2JpazAzelFHSlRFMU84Sm1UTDlUV2lheEFSODRCbzFaVzZZZDdHUHFScFE?oc=5)
-
-2026-05-14 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2pRYkQtVlhJaUNjNWszMzRaS1NQZzdTQW1HV2pLQThlVGlwdFdZRGVNcDFDaFBHQ1F0bUhmQ2hOWnNyOFBNX1BpNVVNaHhqMEVKelZvQUxHamZybEVIUzFfSktnamZUMTdTSGlDVlkwdjVDeUFrTms4cVFxdXkyekkxZ2JpazAzelFHSlRFMU84Sm1UTDlUV2lheEFSODRCbzFaVzZZZDdHUHFScFE?oc=5)
+來源：[MSN](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5YOF94RkpGZ2pJOFFOelYzanFSaVN1N1h6bzA5VGFubjBHVV9DaFhGVXZ1cXdpdTUwT1JEc0Mya2ZURXFiOXBJdjdoajR3cFYxaXhJanhsb1dib3dSSXVPakFjWWhBSXRuTm5QQ0dHM2x3SWY1N085M21feXpHU0dBT1dWQjVmVXZqUklnek1NbXRWRzlVU3YxMmV1VFA3ZzY1NkRDeVEyVTRrdXhxb1REdjFSTEhBNVllSnAzQQ?oc=5)
 
 ---
 
-### [Hantavirus may survive in human sperm for up to six years and cause a transmission risk - The Telegraph](https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3Z2MlJOdGFOX2xYd1RlUjVMREVtOGFGTkU4MV9PVjYzMHpQTWpnNFBYN0sybVVHTUg5TVBZY2pJQlBWempvOGpKdGJMWFdObFZYbTRUNFJsc1ZTcC1qN293dkRrcVlCVE1tWTJpRlUxM2toVnVUbi0ycml5OWZ0UkZvWDQ3UmVxOFAxYkl2OWxzMTY0Wmc0QjNMMjV6Wmg3T243ZHhqVmJ5RFhiOTJxeU9WYjBOeWFnaWNDMw?oc=5)
+### [The Doomsday Organism - Noema Magazine](https://news.google.com/rss/articles/CBMiW0FVX3lxTE95c25zYW05bXFkVG5xcEUwYXBDRTRMallBdUdCUGE4MGVrYjhwaXBtOVN1a0djZnJXcmx0YUdNaGJVMVN3NUs3N1dCbVd4dkFCcG9naUdCSTUyWlk?oc=5)
 
-2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-14 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3Z2MlJOdGFOX2xYd1RlUjVMREVtOGFGTkU4MV9PVjYzMHpQTWpnNFBYN0sybVVHTUg5TVBZY2pJQlBWempvOGpKdGJMWFdObFZYbTRUNFJsc1ZTcC1qN293dkRrcVlCVE1tWTJpRlUxM2toVnVUbi0ycml5OWZ0UkZvWDQ3UmVxOFAxYkl2OWxzMTY0Wmc0QjNMMjV6Wmg3T243ZHhqVmJ5RFhiOTJxeU9WYjBOeWFnaWNDMw?oc=5)
+來源：[Noema Magazine](https://news.google.com/rss/articles/CBMiW0FVX3lxTE95c25zYW05bXFkVG5xcEUwYXBDRTRMallBdUdCUGE4MGVrYjhwaXBtOVN1a0djZnJXcmx0YUdNaGJVMVN3NUs3N1dCbVd4dkFCcG9naUdCSTUyWlk?oc=5)
 
 ---
 
@@ -134,30 +158,6 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
-2026-05-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
----
-
-### [Hantavirus, topo selvatico indiziato speciale: il rischio corre anche in città?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblVEMHRCOVUxNjFQaEhoZHY3cmEwZzJjd1dIWnhXaUhRVGptU2g5dTl5SkhQSVJpYkgwWnhWcUlFZmFLakZVX3kxcjhPWjZGUVh3V3lOeEhaQ0V5ZFVZbFpUbm9JRElNeEhScmRJMXQ0SDRnWElpTnJZWkRMZl9yRFpQMHJXZXRMWUVhQTZSS1JrWE5GQXBuZWFxdEM1X2dVbmJUdEVOc0JNeGRYQTJqOE4yaTJjWDVtdjNr?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblVEMHRCOVUxNjFQaEhoZHY3cmEwZzJjd1dIWnhXaUhRVGptU2g5dTl5SkhQSVJpYkgwWnhWcUlFZmFLakZVX3kxcjhPWjZGUVh3V3lOeEhaQ0V5ZFVZbFpUbm9JRElNeEhScmRJMXQ0SDRnWElpTnJZWkRMZl9yRFpQMHJXZXRMWUVhQTZSS1JrWE5GQXBuZWFxdEM1X2dVbmJUdEVOc0JNeGRYQTJqOE4yaTJjWDVtdjNr?oc=5)
-
----
-
-### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
-
----
-
 ### [Zwölf Klinikmitarbeiter nach Fehler bei Hantavirus-Behandlung in Quarantäne](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2c4T01YWVFxdDk3SFVWNDIzZnEzVUM3dE5XM1RVQWxYVG1rM3haeXNjMFF6cW5GSnRfWTc5WktwV01YY2l6Y0RLVWdRUUx0cTZtS3pSTzZLNG5NTDY0ZXIyYV9ZTGZNZzRackFWdFJHRmo3OWdDcXNHQ3NEM2MxcTZyV21FdHRFS01TaTJ6TUpieV9LWUNCdlV5RUdDMHg2WFpobWN4OEFONng2YUJIUVFvNnFKOEdDWVZGeHpxV1VPTjJQc0xWUzBZLXZfajQya29iVGF5Xzg?oc=5)
 
 2026-05-14 <span class="news-indication-tag">MS</span>
@@ -166,11 +166,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Hantavirus-Ausbruch: Britischer Tourist in Italien unter Quarantäne - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUdOU3pqVmJqZ0xtZEpYU1RfMUxEZ21RMGxiNFRwd1VrNDI1MDh3TGY0Q3hDTDB2bjZiYnREOUxqaUNjcUJhT25nYVNPZEFJelRkanpKejJjWmRjRnZlcFhuVUlDdl80NWxkZ3Q5VnVuaE82RDhtVUZ6NVppb0ZLTk5aVm1QazYteU51anA3ZW56Tmk1SGFYVFExTy1sbWpT?oc=5)
+### [Les médecins sont unanimes : les personnes qui paraissent jeunes à 60 ans consomment toutes cet aliment pas cher au quotidien](https://news.google.com/rss/articles/CBMiiwJBVV95cUxORmNzaEdIN2syY1pmaS1JMEczam95X0NDejU1dGVsNFR1LXhTMk5JVFdTMnQ1YWxiZEdsV2w0REN2c2pCamR6SDk2a3hPLXBrQ0dXazhaLWFoVXJTQWF5M2J3MmFMQ0lxRGpSbkJ1U1QtakhHOHRqVjBwWk5NT2Zqd0R3Z1pmRVhYcU80cTBPb2p6UnhFODl0allCaU0yS0FNVWJ2WDF2UnktNE8zT3dxNThGblk0d0UzQlRnR2hyeFk1eU8tVzhPX1dnM2YzWF96U3FkMVhRNTJwS2llWkVQbVQxeF93Mzg2akR4TkpGWDg4WF9xc1Y4Q05QLXd5NDJPWUVFOVJDUG0xRW8?oc=5)
 
 2026-05-14 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUdOU3pqVmJqZ0xtZEpYU1RfMUxEZ21RMGxiNFRwd1VrNDI1MDh3TGY0Q3hDTDB2bjZiYnREOUxqaUNjcUJhT25nYVNPZEFJelRkanpKejJjWmRjRnZlcFhuVUlDdl80NWxkZ3Q5VnVuaE82RDhtVUZ6NVppb0ZLTk5aVm1QazYteU51anA3ZW56Tmk1SGFYVFExTy1sbWpT?oc=5)
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxORmNzaEdIN2syY1pmaS1JMEczam95X0NDejU1dGVsNFR1LXhTMk5JVFdTMnQ1YWxiZEdsV2w0REN2c2pCamR6SDk2a3hPLXBrQ0dXazhaLWFoVXJTQWF5M2J3MmFMQ0lxRGpSbkJ1U1QtakhHOHRqVjBwWk5NT2Zqd0R3Z1pmRVhYcU80cTBPb2p6UnhFODl0allCaU0yS0FNVWJ2WDF2UnktNE8zT3dxNThGblk0d0UzQlRnR2hyeFk1eU8tVzhPX1dnM2YzWF96U3FkMVhRNTJwS2llWkVQbVQxeF93Mzg2akR4TkpGWDg4WF9xc1Y4Q05QLXd5NDJPWUVFOVJDUG0xRW8?oc=5)
 
 ---
 
@@ -195,14 +195,6 @@ permalink: /news/sofosbuvir/
 2026-05-13 <span class="news-indication-tag">MS</span>
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUjVWNGtSYU1weEgyQlNNLWgwLVBGOFVvV0lBWlZOUG1NSjRkUi1GZWt2aVFpOXY1TG1lSzd1VnpBZS13VEsxdXp3ejlSZDh1cVg5Q0lLeWFHSi1EM3RQdk9NUFZhZW5Nb2c?oc=5)
-
----
-
-### [Gesundheit: Fettleibigkeit verlagert sich zunehmend in ärmere Länder | blue News - blue News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWC1CTFY5OS1teUluampkQVRxNnFmZ3p6MlhsY1BBMmFDOXprSkJYVzIzWnhFR3VGVGhIaUo1c3dibUZ3TmgxM1NFajRUcGhvUUFlLVJza1Z5QUdsU0kxT0lyMVlHU2VOSGlvbzJTb09hVGFJWVBndmQ5LUVYbTM5UmdGbDR1SEVLdXVidWsxVTlEdXRyNlA4cjRCMmlyT05kY3AyTTFBYmF1WU1aSXo1NEhkd2VzMUk?oc=5)
-
-2026-05-13 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[blue News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWC1CTFY5OS1teUluampkQVRxNnFmZ3p6MlhsY1BBMmFDOXprSkJYVzIzWnhFR3VGVGhIaUo1c3dibUZ3TmgxM1NFajRUcGhvUUFlLVJza1Z5QUdsU0kxT0lyMVlHU2VOSGlvbzJTb09hVGFJWVBndmQ5LUVYbTM5UmdGbDR1SEVLdXVidWsxVTlEdXRyNlA4cjRCMmlyT05kY3AyTTFBYmF1WU1aSXo1NEhkd2VzMUk?oc=5)
 
 ---
 

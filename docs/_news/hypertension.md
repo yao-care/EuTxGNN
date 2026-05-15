@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
+
+2026-05-15
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
+
+---
 
 ### [Casi la mitad de los españoles sitúa las cifras de hipertensión por encima del valor real](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXEtWl9sSGFIQW03NGM0WmNoN2tZb1FlTTlITENnSk1fWUNCbThEX1Y0UUFRUWxJNUVuTDRKWkpsV01rX1lObTJST0R4UDhRT3JrWmF5Q0E5NE4tRXlCRUdWMFJlbnBib1NJTzJwd0h1V0xIM1FtaUZmSFFxMnc5RDdNVzcyNVBBUlF5Z0tFOTdjdEs4R0tMV1dJTW9JUzVGbE1xRzVqUFFJQUVtclFpYWdXNUx5Z0hHR1ltVHNkTjBQQTQ?oc=5)
 
@@ -93,11 +101,11 @@ permalink: /news/hypertension/
 
 ---
 
-### [Obesidad, principal factor asociado a la hipertensión arterial, coinciden los endocrinos - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1GQ0wwUGxhYVAxbVZ0Q1l0WFY1THdNSk9NTUpCWDBTYV82SmVFbTlBczdrc0xOR3BVaDVKNUNWZHNEcnkyVFhqeGpKcFM5OG1pbnRPUDMxNTRZTEJrcC03elEycFYzTVVIMzFtSmRvcE9Cb0hrR0d0VnJtZ2dhLXQyZHlwN1NlWDhRRkh1Y2stVTdMSC1OMTUyUUxITzNNemVlcmNuZEVsZHZWM2twTXY3S3U?oc=5)
+### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
-2026-05-14
+2026-05-15
 
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1GQ0wwUGxhYVAxbVZ0Q1l0WFY1THdNSk9NTUpCWDBTYV82SmVFbTlBczdrc0xOR3BVaDVKNUNWZHNEcnkyVFhqeGpKcFM5OG1pbnRPUDMxNTRZTEJrcC03elEycFYzTVVIMzFtSmRvcE9Cb0hrR0d0VnJtZ2dhLXQyZHlwN1NlWDhRRkh1Y2stVTdMSC1OMTUyUUxITzNNemVlcmNuZEVsZHZWM2twTXY3S3U?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
 ---
 

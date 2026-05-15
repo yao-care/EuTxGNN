@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [New Stroke Study Challenges Decades-Old Medical Beliefs](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2RqU1hkbUl0ZW1ETjRoUHVGTVJWQTlyQXBtQ2dWc181SktsYlZUR01DS1BMb1BpUjFDNF9kaWhXZkdydTF1a21YN0hINzU4TkJrVk42Q3pOWWpRZk5uQjR6UVhtaWpLazlNQTQzTE9qbkRTcnFBQjVHN3FRWjNjWl9CZ285Vzda?oc=5)
+
+2026-05-15 <span class="news-indication-tag">stroke</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2RqU1hkbUl0ZW1ETjRoUHVGTVJWQTlyQXBtQ2dWc181SktsYlZUR01DS1BMb1BpUjFDNF9kaWhXZkdydTF1a21YN0hINzU4TkJrVk42Q3pOWWpRZk5uQjR6UVhtaWpLazlNQTQzTE9qbkRTcnFBQjVHN3FRWjNjWl9CZ285Vzda?oc=5)
+
+---
+
+### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
+
+2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
+
+---
 
 
 <div class="disclaimer">

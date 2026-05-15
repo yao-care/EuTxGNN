@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（8 則）
 
 ### [Punture per dimagrire, come non riprendere peso dopo? La nuova pillola (molto più economica) che riduce l'appetito - Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjkxRkZKUDA3WXMzeGNuNVA5LXIwZEhXNktHSkRaVDVNSTl5WENRM1A4VEpaMmZjR0NtUXgxY1NVTlpWMVBxTEJOdk1ocllqNDhxTGVxMmdVakdhWm5qeU5TRWJGMEVVSS1KcEVMd1BuQmluSTFDekxGb1E3MFdwOE5QWnREbVhWMDM5Y1cyWGF4T2lQLXVmOHE5cmUzTXFaSkQ3UVJYUFRYbTDSAZgBQVVfeXFMTWVjVXRLcEFiNDZFZFRWQVYydVBTVEpqS3FfQ2tsX1JsNUtzMlJ0b2ctZ1JoOXVaeGNOdEFPR0JiaXNxWFJrQU16UUtZLUpJbFFITUVfNWZESmpCUWtRRWE2aWRiWk9udHZjUGNVZXpPc1Q4YWpxdmVrU2dCTHFBMWFieEM3Q01YZi1Tb0hzcGloQmlYbzJscnQ?oc=5)
 
@@ -70,19 +70,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Obesidad, principal factor asociado a la hipertensión arterial, coinciden los endocrinos - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1GQ0wwUGxhYVAxbVZ0Q1l0WFY1THdNSk9NTUpCWDBTYV82SmVFbTlBczdrc0xOR3BVaDVKNUNWZHNEcnkyVFhqeGpKcFM5OG1pbnRPUDMxNTRZTEJrcC03elEycFYzTVVIMzFtSmRvcE9Cb0hrR0d0VnJtZ2dhLXQyZHlwN1NlWDhRRkh1Y2stVTdMSC1OMTUyUUxITzNNemVlcmNuZEVsZHZWM2twTXY3S3U?oc=5)
+### [Lo confirma Nature: un estudio internacional con 232 millones de participantes y 45 años de datos constata que la obesidad mundial no es inevitable y en algunos países ricos ya se estanca - El HuffPost](https://news.google.com/rss/articles/CBMimwJBVV95cUxOYl83blh0TDBHd1VLR1diNE9lQlpQeFBMVXZUX09QWFRBWm85T1lpNENpa3JYU1FISk0zU2JfZ1ZkVkJIZWtBeko1eHE5UElBVjllclVjX2xnTGM2b2gtN0FWR0xuMkI4UmV0UmpmTVRnRkJhbmFWN2sxOVdwN0pSQjAxaElicF9wakhZOXdSWXY1Mk5MWW9XSXVtRHZiZGRROWlaQlVFM3ptVEpYNG95VTQ4RjdsQ1c4eU1PTnF5TDc4R1M3bF8ybHZ1N19rUExMaDhGaHpyTVNNTURibU9JbWpqcVRqbGlXY1dnS3JIQVJSbE9Mc3doS0R5YlJiaGx4OGRRbGF4bE9nd05yM3psQzNNUjNvdERXOWpR0gGvAkFVX3lxTE9ZeExsYnJ5UnVPam1oaUtmZlM0OEd6c1BYQ1VhMTNVeUhueFgzX1l5bFNCTU5Wa3ZUdlJMM1hRS0ZGLWV5c3NCOENIaTlkYlhLMXVHeHNXMk5yWG40ejVjVzFLQWRJZmtTdUR2TEZEaGo3UG9HN1A0Z0Z6S3k5NkxnYnU4UUdRMWExMTNhNTlKOFN1UHp4a0tUd0FLYnlzekEyeTdtOFhhRTByZEtLX0c3emlPRGxhUTZWa1lQYi1ha096eHJ6UE1Qa2o4dTNhY25naVV6ZnAtRklaVjlvVmdIN2c5STAxN2Y5bWlLMl85WjRsaG40OHk4WGlQamtNRkVzM0FkWnQ5RG9vU195QmhBRDRla2dlc1RHVEJlQkcyQzFHUE1EdHRMS1ppdjAzYw?oc=5)
 
-2026-05-14 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+2026-05-14 <span class="news-indication-tag">obesidad</span>
 
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1GQ0wwUGxhYVAxbVZ0Q1l0WFY1THdNSk9NTUpCWDBTYV82SmVFbTlBczdrc0xOR3BVaDVKNUNWZHNEcnkyVFhqeGpKcFM5OG1pbnRPUDMxNTRZTEJrcC03elEycFYzTVVIMzFtSmRvcE9Cb0hrR0d0VnJtZ2dhLXQyZHlwN1NlWDhRRkh1Y2stVTdMSC1OMTUyUUxITzNNemVlcmNuZEVsZHZWM2twTXY3S3U?oc=5)
-
----
-
-### [Third of weight lost on fat jabs is bone and muscle - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVRiWkNLQ2RFYXRiU1FxQmhEX0hXOWo1SEwyRGl2OXdZSlVkaFhzYUk5STdIQWd3VHp4Vlp3SXhUT3BHVW1fZkY1dmdCNTF5ekFZelNZTjZmQnR3MUFhQVhvaG1Xa3ZUdkFmMzNWWnc3bTJmN0k5eW84RFlnMWNKdnJoQkF0YnQyVWZNd1djMTVvZ2hKaV8teTZhNXk?oc=5)
-
-2026-05-14 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVRiWkNLQ2RFYXRiU1FxQmhEX0hXOWo1SEwyRGl2OXdZSlVkaFhzYUk5STdIQWd3VHp4Vlp3SXhUT3BHVW1fZkY1dmdCNTF5ekFZelNZTjZmQnR3MUFhQVhvaG1Xa3ZUdkFmMzNWWnc3bTJmN0k5eW84RFlnMWNKdnJoQkF0YnQyVWZNd1djMTVvZ2hKaV8teTZhNXk?oc=5)
+來源：[El HuffPost](https://news.google.com/rss/articles/CBMimwJBVV95cUxOYl83blh0TDBHd1VLR1diNE9lQlpQeFBMVXZUX09QWFRBWm85T1lpNENpa3JYU1FISk0zU2JfZ1ZkVkJIZWtBeko1eHE5UElBVjllclVjX2xnTGM2b2gtN0FWR0xuMkI4UmV0UmpmTVRnRkJhbmFWN2sxOVdwN0pSQjAxaElicF9wakhZOXdSWXY1Mk5MWW9XSXVtRHZiZGRROWlaQlVFM3ptVEpYNG95VTQ4RjdsQ1c4eU1PTnF5TDc4R1M3bF8ybHZ1N19rUExMaDhGaHpyTVNNTURibU9JbWpqcVRqbGlXY1dnS3JIQVJSbE9Mc3doS0R5YlJiaGx4OGRRbGF4bE9nd05yM3psQzNNUjNvdERXOWpR0gGvAkFVX3lxTE9ZeExsYnJ5UnVPam1oaUtmZlM0OEd6c1BYQ1VhMTNVeUhueFgzX1l5bFNCTU5Wa3ZUdlJMM1hRS0ZGLWV5c3NCOENIaTlkYlhLMXVHeHNXMk5yWG40ejVjVzFLQWRJZmtTdUR2TEZEaGo3UG9HN1A0Z0Z6S3k5NkxnYnU4UUdRMWExMTNhNTlKOFN1UHp4a0tUd0FLYnlzekEyeTdtOFhhRTByZEtLX0c3emlPRGxhUTZWa1lQYi1ha096eHJ6UE1Qa2o4dTNhY25naVV6ZnAtRklaVjlvVmdIN2c5STAxN2Y5bWlLMl85WjRsaG40OHk4WGlQamtNRkVzM0FkWnQ5RG9vU195QmhBRDRla2dlc1RHVEJlQkcyQzFHUE1EdHRMS1ppdjAzYw?oc=5)
 
 ---
 
@@ -110,11 +102,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Obesity has risen in all countries — but at a faster pace in poorer ones](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGUzdKUzVScERSTV9yMjN0WDNNUzBzNnY0VzUyZ3Nvd0hfLTRwcWNDVExEUFVZWXJQckxZUmtOVVk5TmJRM0k5VEdmd194WDZOZmpRRFcwTFhLVkxyU2lN?oc=5)
+### [Third of weight loss from injections is actually muscle and bone - not fat - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBQX3ZMTVFXRlhLVzNXRzM0aUVYSkJpN0tzc2FxOVRCZG9CNGFmWkxqeXZXcmk1VXN6cTBWUlpOQmdWNDU0RXVhSE52dDZFeFN3QmRSWHRYZG5ocUdFQTVqS3BVb0ZoSW10X25hbmg4bzNCYzlabVRLcm9IbVVxZ9IBgwFBVV95cUxPVVg1VUg2ZVFmaV9Dby1DajItaG1PUWdJQjB0ZU0yUWVSMDljbjFPRTNiQ2Rvci0yMFlBay1WOTFJNU9Gc3gwcThiNlVhSUFlMTBlSTA1YmtCOFplbXpLWUJZYXR5UGREVmRsSDVabDNTTEU0Yk1fa2wwMm9sbzNuYkVaVQ?oc=5)
 
-2026-05-13 <span class="news-indication-tag">obesity</span>
+2026-05-13 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGUzdKUzVScERSTV9yMjN0WDNNUzBzNnY0VzUyZ3Nvd0hfLTRwcWNDVExEUFVZWXJQckxZUmtOVVk5TmJRM0k5VEdmd194WDZOZmpRRFcwTFhLVkxyU2lN?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBQX3ZMTVFXRlhLVzNXRzM0aUVYSkJpN0tzc2FxOVRCZG9CNGFmWkxqeXZXcmk1VXN6cTBWUlpOQmdWNDU0RXVhSE52dDZFeFN3QmRSWHRYZG5ocUdFQTVqS3BVb0ZoSW10X25hbmg4bzNCYzlabVRLcm9IbVVxZ9IBgwFBVV95cUxPVVg1VUg2ZVFmaV9Dby1DajItaG1PUWdJQjB0ZU0yUWVSMDljbjFPRTNiQ2Rvci0yMFlBay1WOTFJNU9Gc3gwcThiNlVhSUFlMTBlSTA1YmtCOFplbXpLWUJZYXR5UGREVmRsSDVabDNTTEU0Yk1fa2wwMm9sbzNuYkVaVQ?oc=5)
 
 ---
 
@@ -123,22 +115,6 @@ permalink: /news/lasmiditan-succinate/
 2026-05-13 <span class="news-indication-tag">obésité</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxObzB5Z3BXTzJBM2xrRWdwZkpiZFlDS2ZyR0dIMFBDSmxqcW1JdGxDX3ExZWdRQlNxSGJHOVF0UzFmdnhNWDJVTlhLYlotNHpWek1ETjdldUwwSU5BY2dLTlNGdWFjLUk1NmdPbU1KaUp1VFZDY215LXBZdFZjNEtyUjRYM2tXOGs1YVV3dEw5UklpVG5mamJWYTh2ejRMaUhnRFJaTl93OVRxMkZ0MHJZQTZZZjJhZ1NLbHM4elVURXZYTS1ZMXNIMzVNbW5xc25ibkFrZE9vMHU2eFV3bmJvd3JvTjZLZ0V6Q1dXZ1ZUU2ZGem55OGo0YTlEd201WEYtb2s0?oc=5)
-
----
-
-### [El aumento de la obesidad se estabiliza en los países desarrollados, aunque sigue subiendo en los que están en vías de desarrollo - Canal UGR](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTnZKUjdvQnJMNjFZVzltVGItZngzbTJyYkRXYVNEcWhmQkpJSmJ6WldNQktSemRhcnFfY0lmYUpEQTczbzd4X0JibEFwangwSDlDYUltNUJRR3pWOFBYa2I4azY5aElCZTJxUnE3blkxUlQ0MnBCUnZrNG5LRmJEWnMtLWRvV3RQeHZzTU9UbHd3eDZHSEJvaGxhLXZwZGdQaEZJSzJCSlpyU0lxNmxzTHdLWndnS0YwT3I0V2ZNMXQwWkN0VXVVQWs2LWZ3T3huRS1NU1BqMjdFNnd4Y0w2ajF2QzZlZVNsZlhyMmdKcw?oc=5)
-
-2026-05-13 <span class="news-indication-tag">obesidad</span>
-
-來源：[Canal UGR](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTnZKUjdvQnJMNjFZVzltVGItZngzbTJyYkRXYVNEcWhmQkpJSmJ6WldNQktSemRhcnFfY0lmYUpEQTczbzd4X0JibEFwangwSDlDYUltNUJRR3pWOFBYa2I4azY5aElCZTJxUnE3blkxUlQ0MnBCUnZrNG5LRmJEWnMtLWRvV3RQeHZzTU9UbHd3eDZHSEJvaGxhLXZwZGdQaEZJSzJCSlpyU0lxNmxzTHdLWndnS0YwT3I0V2ZNMXQwWkN0VXVVQWs2LWZ3T3huRS1NU1BqMjdFNnd4Y0w2ajF2QzZlZVNsZlhyMmdKcw?oc=5)
-
----
-
-### [Gesundheit: Fettleibigkeit verlagert sich zunehmend in ärmere Länder | blue News - blue News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWC1CTFY5OS1teUluampkQVRxNnFmZ3p6MlhsY1BBMmFDOXprSkJYVzIzWnhFR3VGVGhIaUo1c3dibUZ3TmgxM1NFajRUcGhvUUFlLVJza1Z5QUdsU0kxT0lyMVlHU2VOSGlvbzJTb09hVGFJWVBndmQ5LUVYbTM5UmdGbDR1SEVLdXVidWsxVTlEdXRyNlA4cjRCMmlyT05kY3AyTTFBYmF1WU1aSXo1NEhkd2VzMUk?oc=5)
-
-2026-05-13 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[blue News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWC1CTFY5OS1teUluampkQVRxNnFmZ3p6MlhsY1BBMmFDOXprSkJYVzIzWnhFR3VGVGhIaUo1c3dibUZ3TmgxM1NFajRUcGhvUUFlLVJza1Z5QUdsU0kxT0lyMVlHU2VOSGlvbzJTb09hVGFJWVBndmQ5LUVYbTM5UmdGbDR1SEVLdXVidWsxVTlEdXRyNlA4cjRCMmlyT05kY3AyTTFBYmF1WU1aSXo1NEhkd2VzMUk?oc=5)
 
 ---
 

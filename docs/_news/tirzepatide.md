@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [El gran desafío de Ozempic es el efecto rebote. La ciencia ya tiene dos prometedoras soluciones para evitarlo](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUENESnZvamNBekc3VEhNNmtBYUZ3YmtuUWhCaHh6M3RXem5pTnRmVmlyZDdhZXQzdXVYcEJQa19aM1dyeGk4OHliRXY1c29BZ05lOHpYVG1MVU1lSEstLU5UY0ZtM25McXhHNXNDU20wT2RFRG9nVjNkazdzcjNZU3NfMHVSMlhVTVEtZy1hRURvTEpLSmdEZ1BuNUYwNFRSdk5KTFNjeUJlRExEMWc4VmZnWWNqTWN0MTVfaGZBb3RsQXZSb1hwSzRB0gHPAUFVX3lxTE9ybi1PMDhaQmZjWnA3TWJvRi1WZzQ0M2xGXzM5VmEwOTVoQ05iUVhTZUVXZTlTNXBmU1JHVkdic3FHNjV6Sk9zSjBqNEVzUFUtVTNIVmdtdjRRNVBpM2dHNW9mYmVZaFZuTkZfeW5WRXFEc25BY1NRU2V1cXpNV3k1Y014OHRTSTdkaklCbmx5UlYyc21yNm9GRlVvcEgzbXNuRU5WbFhnLTlRN1lxSFVyajN6NEZ2RXJGQzlmZDNvMWZXdnJzcE9aY280eUpzcw?oc=5)
+
+2026-05-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUENESnZvamNBekc3VEhNNmtBYUZ3YmtuUWhCaHh6M3RXem5pTnRmVmlyZDdhZXQzdXVYcEJQa19aM1dyeGk4OHliRXY1c29BZ05lOHpYVG1MVU1lSEstLU5UY0ZtM25McXhHNXNDU20wT2RFRG9nVjNkazdzcjNZU3NfMHVSMlhVTVEtZy1hRURvTEpLSmdEZ1BuNUYwNFRSdk5KTFNjeUJlRExEMWc4VmZnWWNqTWN0MTVfaGZBb3RsQXZSb1hwSzRB0gHPAUFVX3lxTE9ybi1PMDhaQmZjWnA3TWJvRi1WZzQ0M2xGXzM5VmEwOTVoQ05iUVhTZUVXZTlTNXBmU1JHVkdic3FHNjV6Sk9zSjBqNEVzUFUtVTNIVmdtdjRRNVBpM2dHNW9mYmVZaFZuTkZfeW5WRXFEc25BY1NRU2V1cXpNV3k1Y014OHRTSTdkaklCbmx5UlYyc21yNm9GRlVvcEgzbXNuRU5WbFhnLTlRN1lxSFVyajN6NEZ2RXJGQzlmZDNvMWZXdnJzcE9aY280eUpzcw?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+### [Artrite reumatoide e invalidità: come ottenere il riconoscimento Inps - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
-2026-05-13 <span class="news-indication-tag">arthritis</span>
+2026-05-13 <span class="news-indication-tag">artrite</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
 ---
 

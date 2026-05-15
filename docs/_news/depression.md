@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。7 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。8 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>7 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>8 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Psychische Erkrankungen: Biologische Ursachen rücken in den Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0VVX1o1SzMwYzQ3ZXhhY0draVNuZGVaZXMtbXdEQmxhSDNnR3JyN2lZXzMybWxYOUVOMjh5UC00NHdyaVo0YWpKblFQbElkRzQ2eGxrcTZaRGxDRTloRXVreHlVVFQ2dzNlRzFTZmloTl8yb0tSLU9HREJ1ekxfMjk2MTktdmFNOWV2amV2LWdYSGJYVGNBWmlrdDBwTzM0d3RvbUVqM0JSYUF1RGthaHNhS2k?oc=5)
+
+2026-05-15
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0VVX1o1SzMwYzQ3ZXhhY0draVNuZGVaZXMtbXdEQmxhSDNnR3JyN2lZXzMybWxYOUVOMjh5UC00NHdyaVo0YWpKblFQbElkRzQ2eGxrcTZaRGxDRTloRXVreHlVVFQ2dzNlRzFTZmloTl8yb0tSLU9HREJ1ekxfMjk2MTktdmFNOWV2amV2LWdYSGJYVGNBWmlrdDBwTzM0d3RvbUVqM0JSYUF1RGthaHNhS2k?oc=5)
+
+---
 
 ### [Auge als Zugang zum Gehirn: Kontaktlinse lindert Depressionen bei Mäusen - smart up news](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkRPb2wwSm1vUmdIR1IzYzJxT2ZzRnBxQTFmRk5vQkJueDdLSEFKMGNJUjZPeGVfY3o4ZjJCSW45SnExeTZnNVMwTmh0WV9WUmFyNzhLaEVmT2tGVmt6Q3NkQWhFeDlNT2NqSWswRUxyT0Q0YzRiaUo3MExVdmFneVM5cw?oc=5)
 
@@ -77,19 +85,19 @@ permalink: /news/depression/
 
 ---
 
-### [Si conocemos bien sus efectos, ¿por qué no se receta ejercicio contra la ansiedad y la depresión? - The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0x2bTFmQ2xoWjR2NS1EVkFGUWJOQ2hSc1laODk5VmtPQmdpNUdHeFB5NGQzNDNXN2RHWWdHcVZKSXZBZTh6elpGMk9oWjQxUHg2S3Y2b2ZHS0FTQXRHRkllamllNXY2Sm1KcVRqMGo3cnVrQVdnVTV6WVA1eFNYbnUzTUlQdnhHN3FpRzhoRXNVM0xRMTZmY2h6M19JLUpvV2FoTGNMOGdYWS1rdUlCU2pVNUE3Y1liSU1SX0JuTFNGV2hmbW9nUA?oc=5)
+### [Nicht-invasive Neurostimulation bei Alzheimer, Parkinson und Depression: Die Zeit ist reif - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNam1uN2NmNVJMaXNxTGk1bW1DTzBTS3gzQmU4TFN5bUV3LVhpbWVFMHVfem1aUmlvQUJtUTNWVnAyMGxiRGFlNUZIS0ZXZmVDMU5YTlJsR2NzQll6WWQ2ZFNRUHlleWNuLWs1Ql95ZGlhU1VJYktCLVF6djRxVy13S1pxWTRUdThCNkhCcXpuNHBtVnlrMEhMWVFzcVptcklycEg1Qk9QNGUwT3dqOFd1WjA2UWVwRXByYk4xdQ?oc=5)
 
-2026-05-13
+2026-05-14
 
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0x2bTFmQ2xoWjR2NS1EVkFGUWJOQ2hSc1laODk5VmtPQmdpNUdHeFB5NGQzNDNXN2RHWWdHcVZKSXZBZTh6elpGMk9oWjQxUHg2S3Y2b2ZHS0FTQXRHRkllamllNXY2Sm1KcVRqMGo3cnVrQVdnVTV6WVA1eFNYbnUzTUlQdnhHN3FpRzhoRXNVM0xRMTZmY2h6M19JLUpvV2FoTGNMOGdYWS1rdUlCU2pVNUE3Y1liSU1SX0JuTFNGV2hmbW9nUA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNam1uN2NmNVJMaXNxTGk1bW1DTzBTS3gzQmU4TFN5bUV3LVhpbWVFMHVfem1aUmlvQUJtUTNWVnAyMGxiRGFlNUZIS0ZXZmVDMU5YTlJsR2NzQll6WWQ2ZFNRUHlleWNuLWs1Ql95ZGlhU1VJYktCLVF6djRxVy13S1pxWTRUdThCNkhCcXpuNHBtVnlrMEhMWVFzcVptcklycEg1Qk9QNGUwT3dqOFd1WjA2UWVwRXByYk4xdQ?oc=5)
 
 ---
 
-### [Microbiota intestinal y depresión: cómo afecta a tu salud mental - La Mente es Maravillosa](https://news.google.com/rss/articles/CBMingFBVV95cUxQa2lxamRqSEY5LUM0OGZ3ajNRSkFJdWlDcDlscHBlamdzSUhtU1V2Nm8xOWQ0MzZsRkdBaUJKSmkyX3BPM2c1Vk1pSjZjajZ3TXdoMUUyYUFKWWJEUk5KSGtISFFvOFE0d1g0VUxHTnAyenhMLUdqclJSaFlTNTVndlBQeHBRZ1hKa3YxVnJLMXd4TUVzbzFaWi1fTS1fdw?oc=5)
+### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
-2026-05-13
+2026-05-14
 
-來源：[La Mente es Maravillosa](https://news.google.com/rss/articles/CBMingFBVV95cUxQa2lxamRqSEY5LUM0OGZ3ajNRSkFJdWlDcDlscHBlamdzSUhtU1V2Nm8xOWQ0MzZsRkdBaUJKSmkyX3BPM2c1Vk1pSjZjajZ3TXdoMUUyYUFKWWJEUk5KSGtISFFvOFE0d1g0VUxHTnAyenhMLUdqclJSaFlTNTVndlBQeHBRZ1hKa3YxVnJLMXd4TUVzbzFaWi1fTS1fdw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "arthritis 相關新聞"
+title: "artrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "artrite（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# arthritis 相關新聞
+# artrite（arthritis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
+<strong>artrite（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「artrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -111,11 +111,11 @@ permalink: /news/arthritis/
 
 ---
 
-### [Potenzial der Methotrexat-Therapie bei rheumatoider Arthritis zum Teil nicht ausgeschöpft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+### [Artrite reumatoide e invalidità: come ottenere il riconoscimento Inps - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
 2026-05-13
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
 ---
 

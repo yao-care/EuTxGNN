@@ -54,11 +54,11 @@ permalink: /news/corifollitropin-alfa/
 
 ## 相關新聞（4 則）
 
-### [Zu wenig oder zu viel Schlaf macht unsere Organe alt](https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1pWWlFFTHA0dkJfUVFqUEFaOVljZDVMekdQMzhTTmhmcXd1MUJBN0Q0QTJvVmtHRUhhSUZBTkJ3bHRrSG0xc2FscUJTWDhRRGtNbHBGVzZKNHp4eVVVSEdTYnRpODhhdDV5eVlWWm5QSGJGVkYzXzRnV3NaMmhsUjdXb3pBYWVZRC05eUhTRWo2SjBodEEyamlhS0prZElIUlE?oc=5)
+### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
 
-2026-05-15 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+2026-05-15 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1pWWlFFTHA0dkJfUVFqUEFaOVljZDVMekdQMzhTTmhmcXd1MUJBN0Q0QTJvVmtHRUhhSUZBTkJ3bHRrSG0xc2FscUJTWDhRRGtNbHBGVzZKNHp4eVVVSEdTYnRpODhhdDV5eVlWWm5QSGJGVkYzXzRnV3NaMmhsUjdXb3pBYWVZRC05eUhTRWo2SjBodEEyamlhS0prZElIUlE?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
 
 ---
 
@@ -70,17 +70,17 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
-### [Obesidad, principal factor asociado a la hipertensión arterial, coinciden los endocrinos - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1GQ0wwUGxhYVAxbVZ0Q1l0WFY1THdNSk9NTUpCWDBTYV82SmVFbTlBczdrc0xOR3BVaDVKNUNWZHNEcnkyVFhqeGpKcFM5OG1pbnRPUDMxNTRZTEJrcC03elEycFYzTVVIMzFtSmRvcE9Cb0hrR0d0VnJtZ2dhLXQyZHlwN1NlWDhRRkh1Y2stVTdMSC1OMTUyUUxITzNNemVlcmNuZEVsZHZWM2twTXY3S3U?oc=5)
+### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
-2026-05-14 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
 
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE1GQ0wwUGxhYVAxbVZ0Q1l0WFY1THdNSk9NTUpCWDBTYV82SmVFbTlBczdrc0xOR3BVaDVKNUNWZHNEcnkyVFhqeGpKcFM5OG1pbnRPUDMxNTRZTEJrcC03elEycFYzTVVIMzFtSmRvcE9Cb0hrR0d0VnJtZ2dhLXQyZHlwN1NlWDhRRkh1Y2stVTdMSC1OMTUyUUxITzNNemVlcmNuZEVsZHZWM2twTXY3S3U?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
 ---
 
 ### [Bedeutung von körperlicher Aktivität und Sport zur Prävention und Therapie der Hypertonie – Dr. Dr. med. Lutz Aderhold - German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
 
-2026-05-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-05-14 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
 
