@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="Emtricitabine 有什麼相關新聞？">
-<strong>Emtricitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Emtricitabine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/emtricitabine/
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Australia: Patients of retired Sydney dentist warned of viruses including hepatitis and HIV](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
-
----
-
-### [Epatite E nel salame, scatta il richiamo al supermercato: i lotti interessati](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">epatite</span>
-
-來源：[QuiFinanza](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

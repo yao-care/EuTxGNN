@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [El 17 de mayo se conmemora el Día Mundial de la Hipertensión Arterial - Cadena SER](https://news.google.com/rss/articles/CBMizgFBVV95cUxOek1uUzlaZ0ZWamJQT2JLdWZ3U0pweGZ5aFBwN0lULVh3UDlMdWtRSWloaFlfSTNNa0dWV1hnb1BMSW5tMHFMT2JtQm9UVmtVY1VGUUxTbTFhYXZQNVZ6OFBqM2RqTV95ZUhvd1ZXMmNQT1FhUHdFYVF3azV2cVhjT1g2NVJmaC0tamRvV1IyRTRIbmt4Ni1naEQyLUJxVks3Z2cyTGp5SUxueUFVaVRqWXloRnV2MHktdkVmT2VKUlBYVDhweW9vZndHVjZmZ9IB4gFBVV95cUxOOTY4Y19EZVB0WGJaT3ZTM0RQR3NpdXczYWxVUHF4M29UX1JfSEJwdS1oNzItR2xiUmRiSUUxTkUwMHBzWkF2RzVIMTMzWkJ5M2xIZEw4YzdzbExlaG1IRVprbEN5T0hObTJHZkdrV2dCVE5hbE5seFkxcjJfTTg4Z1hGeXNXQjJ6aWRUOWZEX0t4Nk8zMTNMMUx2Tk9sTklsRFMtVVpDNHFBaERlYTJLc0p2VVpRaC1TcnVaLU5GdC1lb2JfRTBCSTFaSFJYRnlfNW8zVEFkOWpnU1dkcVBPOXN3?oc=5)
+### [Casi la mitad de los españoles sitúa las cifras de hipertensión por encima del valor real](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXEtWl9sSGFIQW03NGM0WmNoN2tZb1FlTTlITENnSk1fWUNCbThEX1Y0UUFRUWxJNUVuTDRKWkpsV01rX1lObTJST0R4UDhRT3JrWmF5Q0E5NE4tRXlCRUdWMFJlbnBib1NJTzJwd0h1V0xIM1FtaUZmSFFxMnc5RDdNVzcyNVBBUlF5Z0tFOTdjdEs4R0tMV1dJTW9JUzVGbE1xRzVqUFFJQUVtclFpYWdXNUx5Z0hHR1ltVHNkTjBQQTQ?oc=5)
 
-2026-05-14 <span class="news-indication-tag">hipertensión</span>
+2026-05-15 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMizgFBVV95cUxOek1uUzlaZ0ZWamJQT2JLdWZ3U0pweGZ5aFBwN0lULVh3UDlMdWtRSWloaFlfSTNNa0dWV1hnb1BMSW5tMHFMT2JtQm9UVmtVY1VGUUxTbTFhYXZQNVZ6OFBqM2RqTV95ZUhvd1ZXMmNQT1FhUHdFYVF3azV2cVhjT1g2NVJmaC0tamRvV1IyRTRIbmt4Ni1naEQyLUJxVks3Z2cyTGp5SUxueUFVaVRqWXloRnV2MHktdkVmT2VKUlBYVDhweW9vZndHVjZmZ9IB4gFBVV95cUxOOTY4Y19EZVB0WGJaT3ZTM0RQR3NpdXczYWxVUHF4M29UX1JfSEJwdS1oNzItR2xiUmRiSUUxTkUwMHBzWkF2RzVIMTMzWkJ5M2xIZEw4YzdzbExlaG1IRVprbEN5T0hObTJHZkdrV2dCVE5hbE5seFkxcjJfTTg4Z1hGeXNXQjJ6aWRUOWZEX0t4Nk8zMTNMMUx2Tk9sTklsRFMtVVpDNHFBaERlYTJLc0p2VVpRaC1TcnVaLU5GdC1lb2JfRTBCSTFaSFJYRnlfNW8zVEFkOWpnU1dkcVBPOXN3?oc=5)
+來源：[Sinc](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXEtWl9sSGFIQW03NGM0WmNoN2tZb1FlTTlITENnSk1fWUNCbThEX1Y0UUFRUWxJNUVuTDRKWkpsV01rX1lObTJST0R4UDhRT3JrWmF5Q0E5NE4tRXlCRUdWMFJlbnBib1NJTzJwd0h1V0xIM1FtaUZmSFFxMnc5RDdNVzcyNVBBUlF5Z0tFOTdjdEs4R0tMV1dJTW9JUzVGbE1xRzVqUFFJQUVtclFpYWdXNUx5Z0hHR1ltVHNkTjBQQTQ?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/elexacaftor/
 2026-05-13 <span class="news-indication-tag">Migräne</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxORkxEYmFXaUhRR19EUjJEN1VvU3JnRlRVbnM5b2E4dkhUczlIUi1OUzB6TzVBOTc1WW9MRnY0MkNkTFJYOTlZb0JUc1ppV2RVX3ZnSGZKMk1xLUpadDVaNzgzaDRmWW5kWkZwQmdFdDRCeGlVMkJ3amFPMms4cXFsRFZ4ZzIxaTliQTY5UlhTQ0JvV2VnaDdIRE9iaGI2M3hnR1U4cDdTSFdCdERF?oc=5)
-
----
-
-### [High-intensity exercise can reduce high blood pressure, study finds - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpfeDVGMnp5TVR0SFl5Rlg5SjVCV1dmbjBZTm1Gd0hTQ0YwSGI5OU05eko4N1pKNmg0ck1EZW9BM1dGZFlENm5FTzNkX2lGb0Z5Tm5OaGFrZTlkZzg2T2tlaWxIZExTWU1fNEVHYVVnTDh6dUtpTmNrWHV4d1lVOGRFaDQtaGl3U3FDWTN3eExsVGVTN0Q2MlJSY2xsUWc2dVE?oc=5)
-
-2026-05-13 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlpfeDVGMnp5TVR0SFl5Rlg5SjVCV1dmbjBZTm1Gd0hTQ0YwSGI5OU05eko4N1pKNmg0ck1EZW9BM1dGZFlENm5FTzNkX2lGb0Z5Tm5OaGFrZTlkZzg2T2tlaWxIZExTWU1fNEVHYVVnTDh6dUtpTmNrWHV4d1lVOGRFaDQtaGl3U3FDWTN3eExsVGVTN0Q2MlJSY2xsUWc2dVE?oc=5)
 
 ---
 

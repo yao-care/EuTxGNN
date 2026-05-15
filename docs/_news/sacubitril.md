@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [CGM verbessert Blutzuckerkontrolle auch unter moderner Typ-2-Diabetes-Therapie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/sacubitril/
 2026-05-13 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUNlQ1VnV0RtYm9sSFdObGxBbF9sMkVnQXZ3ZEpObGNPOWc1M1hzTk5TNExiTzIyQmRjcmJpS2NjbEU5U1pyYlVGc09SQlBkUkRqeFYxcWFNUXFXcml5SnVTdnBWNnk4US1ianV6VVdJUmg5VnlrTmxza0ZCRWg0cVJCeklTaXJ6OC1QMmZrX0FzdzJrRFBJX3pmMzhyb2JtNTctYkpycXlUYm05ZzZ3ZzZ4NUY5cTNyR1ROMFE0dVZ1c1ZwcHBRUFB3R0Z5YU1VNG14MDZ5SU1lUHRYZVRvQWd0QWk1VTVPV01IWmlzSQ?oc=5)
-
----
-
-### [Typ-2-Diabetes macht besonderen Schutz für Niere und Herz erforderlich](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
-
-2026-05-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
 
 ---
 

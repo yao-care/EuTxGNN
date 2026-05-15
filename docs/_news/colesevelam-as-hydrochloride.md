@@ -54,6 +54,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（5 則）
 
+### [Schlaf-Dauer entscheidet über biologisches Altern: 7 Stunden sind optimal - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQms1TlA2QjkxbUlGaW9rTWxRTjBzbW0wNFZiU3dvWkpFSUhpTFNwWnJ5WGtiVWNnY1U2QjZIaGl3UWU3b3VxS3oxZW9NRWQ0bXNLTDVRTXJVVzdTVFJtUmQzT0hJQV9VNXE5SldtdFNXaVFPYkFCaDlFYWxaa3NRTUlhTEtkYjN4bkVuejJVWFpQZ25TcEZIUFFPeGZzcFpNVVc0b2pxcC13ODljeGJYZ1FQZVNuOUxjZ1NlNUppWQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQms1TlA2QjkxbUlGaW9rTWxRTjBzbW0wNFZiU3dvWkpFSUhpTFNwWnJ5WGtiVWNnY1U2QjZIaGl3UWU3b3VxS3oxZW9NRWQ0bXNLTDVRTXJVVzdTVFJtUmQzT0hJQV9VNXE5SldtdFNXaVFPYkFCaDlFYWxaa3NRTUlhTEtkYjN4bkVuejJVWFpQZ25TcEZIUFFPeGZzcFpNVVc0b2pxcC13ODljeGJYZ1FQZVNuOUxjZ1NlNUppWQ?oc=5)
+
+---
+
 ### [CGM verbessert Blutzuckerkontrolle auch unter moderner Typ-2-Diabetes-Therapie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
 
 2026-05-14 <span class="news-indication-tag">diabetes</span>
@@ -83,14 +91,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-05-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE5GYl9rZ3FMX1JfaVVDSkJjNHQ3Sk81Smo3LUNFUnRqcWloTERzRXRXaGlQUm0wT2RkUVl1YTd2N3ZfNndQS25kU0Rra2hwWGdlRlBkbXk3YWU5WW1XNTFfbHluVDNNQ1hMY1BONHYwOA?oc=5)
-
----
-
-### [Typ-2-Diabetes macht besonderen Schutz für Niere und Herz erforderlich](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
-
-2026-05-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
 
 ---
 

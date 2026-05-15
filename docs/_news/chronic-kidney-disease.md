@@ -31,11 +31,11 @@ permalink: /news/chronic-kidney-disease/
 
 ## 相關新聞（1 則）
 
-### [Hantavirus, Ecdc e ministero: ‘Nessun allarme epidemico’. Ma emerge quello dell’infodemia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JlNzMzRDc3OFIzbm0wMVN2SEQxbUNtUW5NODZCMk9JbHdobDB4TVZoUXJRZ1ZxQ1ZYdXFfcV9NR2tMVU5HNVY0eFpHVEZoVUY4dEZ2YlBVOFFPLVdXbEVGbmFXek1IejE5bV91d0w5RVh5ZG1YWjFCTlJ1WGFHRnhzUnplV1NuYWM2dDhKNWxZTUZxSTE2OHdzTnJZcWZCUUxReDVLc1VlVHJ2X2RGQ3FoZEhUMFdZ?oc=5)
+### [Hantavirus, la "profezia" di Gavi sulla prossima pandemia - La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihAFBVV95cUxORE1vLWpaMkJhbjZOZWdtaU5tMkkxMnBQZExvMDducXB5Qk1ZT3l4TnQ2Mk5Ma3VScVQ4aHE2cWthMk1JZkVUODg0alJXMkdzNlE2OHVhQzNrbWdIS3d0azNNQ2ZfckhmcW9VVVBpZ3VnQzhRZ05tSUx0RnNGVC1YZTg3SVA?oc=5)
 
 2026-05-14
 
-來源：[RIFday](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JlNzMzRDc3OFIzbm0wMVN2SEQxbUNtUW5NODZCMk9JbHdobDB4TVZoUXJRZ1ZxQ1ZYdXFfcV9NR2tMVU5HNVY0eFpHVEZoVUY4dEZ2YlBVOFFPLVdXbEVGbmFXek1IejE5bV91d0w5RVh5ZG1YWjFCTlJ1WGFHRnhzUnplV1NuYWM2dDhKNWxZTUZxSTE2OHdzTnJZcWZCUUxReDVLc1VlVHJ2X2RGQ3FoZEhUMFdZ?oc=5)
+來源：[La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihAFBVV95cUxORE1vLWpaMkJhbjZOZWdtaU5tMkkxMnBQZExvMDducXB5Qk1ZT3l4TnQ2Mk5Ma3VScVQ4aHE2cWthMk1JZkVUODg0alJXMkdzNlE2OHVhQzNrbWdIS3d0azNNQ2ZfckhmcW9VVVBpZ3VnQzhRZ05tSUx0RnNGVC1YZTg3SVA?oc=5)
 
 ---
 

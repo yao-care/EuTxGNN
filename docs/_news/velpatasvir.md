@@ -54,6 +54,14 @@ permalink: /news/velpatasvir/
 
 ## 相關新聞（19 則）
 
+### [Ludmillenstift Meppen informiert über neue Erkenntnisse bei Multipler Sklerose - Ems Vechte Welle](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanhyMVVPOTk3RDdTeGp1WGU1eXZQNEcxdWRjUXAyWWtTdzNtNHI0elRQVXh6Zk1LNDlaYkoydjVPQi1QWExfdkdDSjRvbHRRR21QWTFoNUZDM3ZLa2RaS28tb3RHOVgwZ3oydENZNmJLdWsxQ1hGcFItcGVpOXIyWm9zOVhEejRHaHdGVW5Rd2ExdkpFT0hTMHZKVlYwbTRrZ2dnTG00UjBzdzZ0ZDVV?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span>
+
+來源：[Ems Vechte Welle](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanhyMVVPOTk3RDdTeGp1WGU1eXZQNEcxdWRjUXAyWWtTdzNtNHI0elRQVXh6Zk1LNDlaYkoydjVPQi1QWExfdkdDSjRvbHRRR21QWTFoNUZDM3ZLa2RaS28tb3RHOVgwZ3oydENZNmJLdWsxQ1hGcFItcGVpOXIyWm9zOVhEejRHaHdGVW5Rd2ExdkpFT0hTMHZKVlYwbTRrZ2dnTG00UjBzdzZ0ZDVV?oc=5)
+
+---
+
 ### [Prostate cancer screening can save lives but ‘absolute benefit is small’, study says - The Guardian](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0lJYTlKVWphMWt1M0dLLTZ3YzZVVmhiWUZKU2l3dUpiamNlRkNOa1Y0OG1ZcnhySms2ZmxrUlZYVVZhcXFNOHMxTGhnZWdQS2hLYzQzZWFFb08tUS02eE1kTk5yeU42eXFvSHFFaEZlUFQ0SHoyMmpuSmhUSlVVZlk2MDlNeUdCTFltUUhNZnFSR1I2SVhjaEl2ZlNiVmxIaDIwaTlFdw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -62,11 +70,19 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Persone sequestrate, navi bloccate: torna a circolare il virus della paura - La Verità](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa011YVBoZ3BSSVNoQmZVUGxBam9Fd3l1RVNKa19idDloa0lVOTlxel9TejB5VEpCLVJndWdWMmdkNWlLeVJLT2ZEVy1BSkZqX0xILUNiZnhBbTNmakVaY1NodWluU3VyWGxVZ0dfSnBUcFlhU09DYUYwa2hNellOVTJrTUN4N05sYXJvU1g0MA?oc=5)
+### [Las dos semanas de alarma por el hantavirus: los expertos diferencian qué fue exageración, debate o bulo - El Confidencial](https://news.google.com/rss/articles/CBMivwFBVV95cUxQenRfZFBnbFNJREF0ZnNYUjVPdjBSZXh0WW0wRnNhYTVhREZ3NEpGRzhWVnRHOHVjc0JMUGh1dWstV2hxb0JJZzUwNVl0UTFxOGFTenZNM0taS1R4dVhDRXR2MkJFekE0akNkVTJKc0pfdE4zdW0yYVZmRTJSNVBXcEhuVDA5VkNxeTNWVENldngwWUlYZVFmemZMcFhGQVlLbFRTZFNpOF93Rlo2UmpoS09VTmlDbU9WSUwwQXZfYw?oc=5)
 
-2026-05-14 <span class="news-indication-tag">MS</span>
+2026-05-15 <span class="news-indication-tag">MS</span>
 
-來源：[La Verità](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa011YVBoZ3BSSVNoQmZVUGxBam9Fd3l1RVNKa19idDloa0lVOTlxel9TejB5VEpCLVJndWdWMmdkNWlLeVJLT2ZEVy1BSkZqX0xILUNiZnhBbTNmakVaY1NodWluU3VyWGxVZ0dfSnBUcFlhU09DYUYwa2hNellOVTJrTUN4N05sYXJvU1g0MA?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMivwFBVV95cUxQenRfZFBnbFNJREF0ZnNYUjVPdjBSZXh0WW0wRnNhYTVhREZ3NEpGRzhWVnRHOHVjc0JMUGh1dWstV2hxb0JJZzUwNVl0UTFxOGFTenZNM0taS1R4dVhDRXR2MkJFekE0akNkVTJKc0pfdE4zdW0yYVZmRTJSNVBXcEhuVDA5VkNxeTNWVENldngwWUlYZVFmemZMcFhGQVlLbFRTZFNpOF93Rlo2UmpoS09VTmlDbU9WSUwwQXZfYw?oc=5)
+
+---
+
+### [Hantavirus, la "profezia" di Gavi sulla prossima pandemia - La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihAFBVV95cUxORE1vLWpaMkJhbjZOZWdtaU5tMkkxMnBQZExvMDducXB5Qk1ZT3l4TnQ2Mk5Ma3VScVQ4aHE2cWthMk1JZkVUODg0alJXMkdzNlE2OHVhQzNrbWdIS3d0azNNQ2ZfckhmcW9VVVBpZ3VnQzhRZ05tSUx0RnNGVC1YZTg3SVA?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihAFBVV95cUxORE1vLWpaMkJhbjZOZWdtaU5tMkkxMnBQZExvMDducXB5Qk1ZT3l4TnQ2Mk5Ma3VScVQ4aHE2cWthMk1JZkVUODg0alJXMkdzNlE2OHVhQzNrbWdIS3d0azNNQ2ZfckhmcW9VVVBpZ3VnQzhRZ05tSUx0RnNGVC1YZTg3SVA?oc=5)
 
 ---
 
@@ -86,19 +102,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Diferencias entre el hantavirus y Covid: síntomas, transmisión - Enlace Latino NC](https://news.google.com/rss/articles/CBMidkFVX3lxTE4wdGdBd1RrRzFHOEM4cm9wdzN1T2JERHlBTm05ZlhTWS0xY0R0TVZyREU5NWNDaXBhc3llYlhXNkhNdzI0eDBOQldPYXFDV3NjS3paMC14Rzd6VnpKdTBTRnRta01lUFpUN0MyN09yT1VJdU9qZFE?oc=5)
+### [Hantavirus-Risiko: Ahnungsloser Tourist wird aus Bar abgeführt](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5YOF94RkpGZ2pJOFFOelYzanFSaVN1N1h6bzA5VGFubjBHVV9DaFhGVXZ1cXdpdTUwT1JEc0Mya2ZURXFiOXBJdjdoajR3cFYxaXhJanhsb1dib3dSSXVPakFjWWhBSXRuTm5QQ0dHM2x3SWY1N085M21feXpHU0dBT1dWQjVmVXZqUklnek1NbXRWRzlVU3YxMmV1VFA3ZzY1NkRDeVEyVTRrdXhxb1REdjFSTEhBNVllSnAzQQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">MS</span>
 
-來源：[Enlace Latino NC](https://news.google.com/rss/articles/CBMidkFVX3lxTE4wdGdBd1RrRzFHOEM4cm9wdzN1T2JERHlBTm05ZlhTWS0xY0R0TVZyREU5NWNDaXBhc3llYlhXNkhNdzI0eDBOQldPYXFDV3NjS3paMC14Rzd6VnpKdTBTRnRta01lUFpUN0MyN09yT1VJdU9qZFE?oc=5)
-
----
-
-### [Hantavirus, Ecdc e ministero: ‘Nessun allarme epidemico’. Ma emerge quello dell’infodemia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JlNzMzRDc3OFIzbm0wMVN2SEQxbUNtUW5NODZCMk9JbHdobDB4TVZoUXJRZ1ZxQ1ZYdXFfcV9NR2tMVU5HNVY0eFpHVEZoVUY4dEZ2YlBVOFFPLVdXbEVGbmFXek1IejE5bV91d0w5RVh5ZG1YWjFCTlJ1WGFHRnhzUnplV1NuYWM2dDhKNWxZTUZxSTE2OHdzTnJZcWZCUUxReDVLc1VlVHJ2X2RGQ3FoZEhUMFdZ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
-
-來源：[RIFday](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JlNzMzRDc3OFIzbm0wMVN2SEQxbUNtUW5NODZCMk9JbHdobDB4TVZoUXJRZ1ZxQ1ZYdXFfcV9NR2tMVU5HNVY0eFpHVEZoVUY4dEZ2YlBVOFFPLVdXbEVGbmFXek1IejE5bV91d0w5RVh5ZG1YWjFCTlJ1WGFHRnhzUnplV1NuYWM2dDhKNWxZTUZxSTE2OHdzTnJZcWZCUUxReDVLc1VlVHJ2X2RGQ3FoZEhUMFdZ?oc=5)
+來源：[MSN](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5YOF94RkpGZ2pJOFFOelYzanFSaVN1N1h6bzA5VGFubjBHVV9DaFhGVXZ1cXdpdTUwT1JEc0Mya2ZURXFiOXBJdjdoajR3cFYxaXhJanhsb1dib3dSSXVPakFjWWhBSXRuTm5QQ0dHM2x3SWY1N085M21feXpHU0dBT1dWQjVmVXZqUklnek1NbXRWRzlVU3YxMmV1VFA3ZzY1NkRDeVEyVTRrdXhxb1REdjFSTEhBNVllSnAzQQ?oc=5)
 
 ---
 
@@ -107,6 +115,14 @@ permalink: /news/velpatasvir/
 2026-05-14 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2pRYkQtVlhJaUNjNWszMzRaS1NQZzdTQW1HV2pLQThlVGlwdFdZRGVNcDFDaFBHQ1F0bUhmQ2hOWnNyOFBNX1BpNVVNaHhqMEVKelZvQUxHamZybEVIUzFfSktnamZUMTdTSGlDVlkwdjVDeUFrTms4cVFxdXkyekkxZ2JpazAzelFHSlRFMU84Sm1UTDlUV2lheEFSODRCbzFaVzZZZDdHUHFScFE?oc=5)
+
+---
+
+### [Hantavirus may survive in human sperm for up to six years and cause a transmission risk - The Telegraph](https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3Z2MlJOdGFOX2xYd1RlUjVMREVtOGFGTkU4MV9PVjYzMHpQTWpnNFBYN0sybVVHTUg5TVBZY2pJQlBWempvOGpKdGJMWFdObFZYbTRUNFJsc1ZTcC1qN293dkRrcVlCVE1tWTJpRlUxM2toVnVUbi0ycml5OWZ0UkZvWDQ3UmVxOFAxYkl2OWxzMTY0Wmc0QjNMMjV6Wmg3T243ZHhqVmJ5RFhiOTJxeU9WYjBOeWFnaWNDMw?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3Z2MlJOdGFOX2xYd1RlUjVMREVtOGFGTkU4MV9PVjYzMHpQTWpnNFBYN0sybVVHTUg5TVBZY2pJQlBWempvOGpKdGJMWFdObFZYbTRUNFJsc1ZTcC1qN293dkRrcVlCVE1tWTJpRlUxM2toVnVUbi0ycml5OWZ0UkZvWDQ3UmVxOFAxYkl2OWxzMTY0Wmc0QjNMMjV6Wmg3T243ZHhqVmJ5RFhiOTJxeU9WYjBOeWFnaWNDMw?oc=5)
 
 ---
 
@@ -126,6 +142,14 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+2026-05-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+---
+
 ### [Hantavirus, topo selvatico indiziato speciale: il rischio corre anche in città?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblVEMHRCOVUxNjFQaEhoZHY3cmEwZzJjd1dIWnhXaUhRVGptU2g5dTl5SkhQSVJpYkgwWnhWcUlFZmFLakZVX3kxcjhPWjZGUVh3V3lOeEhaQ0V5ZFVZbFpUbm9JRElNeEhScmRJMXQ0SDRnWElpTnJZWkRMZl9yRFpQMHJXZXRMWUVhQTZSS1JrWE5GQXBuZWFxdEM1X2dVbmJUdEVOc0JNeGRYQTJqOE4yaTJjWDVtdjNr?oc=5)
 
 2026-05-14 <span class="news-indication-tag">MS</span>
@@ -136,17 +160,9 @@ permalink: /news/velpatasvir/
 
 ### [Hantavirus, negativi i casi sospetti. L’allarme dei medici: “Non siamo preparati” - la Repubblica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVQ2bEV5X3hEX0RlSWtYMFBUQlFjalhRb1ZhLTVtNjlmY0ZsNlE3VmlfSmY5bnloNnctWXhkSU9wVFl3bklVajJ6T2JHd0pMcFNkWkp6akhIZFJNZFJ5SFBNZmhseDJLMjc1SkwzVVBwSG96bzdJdF9WeV82M05BUTFlb0lXY052UFdaNFEtSDk0V2ZXV3QyLW5DcU1FcUlKYUdMVU4zQknSAa4BQVVfeXFMTk1nbEFWOFZZTmdBZEpybGtvU3BmNzhRMk9maENMQWVaalJiOTN2cWo1NXRmcWZGLUo5NXJHUERrdnFZNDF4Q3FGT1V6MmtCeGxGLXdraGViNXdGM2JsM0dHOXRqc01lQ2pleWRJRkdsVnRkNWJ3MS1wcVJic2FSYzdIWUJidW1KS1VwTUFvRkRvM3R6WE9OYmJuaGo4SzZyY04zaHBOaElnQ1YwNFNB?oc=5)
 
-2026-05-14 <span class="news-indication-tag">MS</span>
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVQ2bEV5X3hEX0RlSWtYMFBUQlFjalhRb1ZhLTVtNjlmY0ZsNlE3VmlfSmY5bnloNnctWXhkSU9wVFl3bklVajJ6T2JHd0pMcFNkWkp6akhIZFJNZFJ5SFBNZmhseDJLMjc1SkwzVVBwSG96bzdJdF9WeV82M05BUTFlb0lXY052UFdaNFEtSDk0V2ZXV3QyLW5DcU1FcUlKYUdMVU4zQknSAa4BQVVfeXFMTk1nbEFWOFZZTmdBZEpybGtvU3BmNzhRMk9maENMQWVaalJiOTN2cWo1NXRmcWZGLUo5NXJHUERrdnFZNDF4Q3FGT1V6MmtCeGxGLXdraGViNXdGM2JsM0dHOXRqc01lQ2pleWRJRkdsVnRkNWJ3MS1wcVJic2FSYzdIWUJidW1KS1VwTUFvRkRvM3R6WE9OYmJuaGo4SzZyY04zaHBOaElnQ1YwNFNB?oc=5)
-
----
-
-### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
 ---
 
@@ -187,22 +203,6 @@ permalink: /news/velpatasvir/
 2026-05-13 <span class="news-indication-tag">MS</span>
 
 來源：[RP Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnhuNERMTWJnbFpTcU5pa25iS1pJdl9DdmNOVnRTN3ZUZkNVdFVqcUt5QldhUmlFa0F6Zld3VHgxeTZ4XzZ1UmlmbTJwSnVJUHlNQlVFSG9wYkJmeTRpUkxQTzJZNWVINkY0TjFOanduRFV1VVZEaUtYRVJuQW9hTktwZUFRVnRqdi1xdnBUVGFyb2E3dGd1RFpOcnZPM19RS3J6OC1zcUpoMmVmNXRkQ3Q1OE0wblBmdFloMGhPcklqR3c?oc=5)
-
----
-
-### [Australia: Patients of retired Sydney dentist warned of viruses including hepatitis and HIV](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
-
----
-
-### [Epatite E nel salame, scatta il richiamo al supermercato: i lotti interessati](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">epatite</span>
-
-來源：[QuiFinanza](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnVFRXdOUTFyc1AxV2JCVHdsUFI2Y3hJeE5OTVdlaXF5SUxXQjdYZGs0dXZEYmRoYTlzbmZNWTZKSGMxM1ZRcG9IaURIQkxlQ1FoMDJyamxjZ2JySDFFY2VNdW9EekM5NE10OFhIRHNMTGlLR0xHaWJCekpITEZELVV5ajdnY0tMS1ctdlBhdGw5ZTZOaFExQUIwR2pxOEpuYy14NllJRFkzQQ?oc=5)
 
 ---
 

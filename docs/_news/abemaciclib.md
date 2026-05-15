@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Schlaf-Dauer entscheidet über biologisches Altern: 7 Stunden sind optimal - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQms1TlA2QjkxbUlGaW9rTWxRTjBzbW0wNFZiU3dvWkpFSUhpTFNwWnJ5WGtiVWNnY1U2QjZIaGl3UWU3b3VxS3oxZW9NRWQ0bXNLTDVRTXJVVzdTVFJtUmQzT0hJQV9VNXE5SldtdFNXaVFPYkFCaDlFYWxaa3NRTUlhTEtkYjN4bkVuejJVWFpQZ25TcEZIUFFPeGZzcFpNVVc0b2pxcC13ODljeGJYZ1FQZVNuOUxjZ1NlNUppWQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQms1TlA2QjkxbUlGaW9rTWxRTjBzbW0wNFZiU3dvWkpFSUhpTFNwWnJ5WGtiVWNnY1U2QjZIaGl3UWU3b3VxS3oxZW9NRWQ0bXNLTDVRTXJVVzdTVFJtUmQzT0hJQV9VNXE5SldtdFNXaVFPYkFCaDlFYWxaa3NRTUlhTEtkYjN4bkVuejJVWFpQZ25TcEZIUFFPeGZzcFpNVVc0b2pxcC13ODljeGJYZ1FQZVNuOUxjZ1NlNUppWQ?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 

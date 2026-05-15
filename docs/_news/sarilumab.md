@@ -54,14 +54,6 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（4 則）
 
-### [Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">asma</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5)
-
----
-
 ### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 
 2026-05-14 <span class="news-indication-tag">arthritis</span>
@@ -75,6 +67,14 @@ permalink: /news/sarilumab/
 2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
+
+---
+
+### [Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">asma</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5)
 
 ---
 

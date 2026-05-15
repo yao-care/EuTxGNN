@@ -54,6 +54,14 @@ permalink: /news/tafasitamab/
 
 ## 相關新聞（26 則）
 
+### [Hospital receives £2m boost to improve cancer care](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
+
+2026-05-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
+
+---
+
 ### [Prostate cancer screening can save lives but ‘absolute benefit is small’, study says - The Guardian](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0lJYTlKVWphMWt1M0dLLTZ3YzZVVmhiWUZKU2l3dUpiamNlRkNOa1Y0OG1ZcnhySms2ZmxrUlZYVVZhcXFNOHMxTGhnZWdQS2hLYzQzZWFFb08tUS02eE1kTk5yeU42eXFvSHFFaEZlUFQ0SHoyMmpuSmhUSlVVZlk2MDlNeUdCTFltUUhNZnFSR1I2SVhjaEl2ZlNiVmxIaDIwaTlFdw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -86,6 +94,14 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+2026-05-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+---
+
 ### [Quattro rari tumori al cuore scoperti con un elettrocardiogramma: 39enne salvato da una maratona chirurgica - Il Gazzettino](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEFmRTFVejBhdXFOX2dERVItbzh3bUdhN293SHNlWWVUMEZzakxuaGdmaF91cEVfeUg3ZlJzNllXSEhtY2x1SjNDdTM2WGd3SG1KRHJMMkNRYUZQbVlSdGtQMkV0V3hkLTVwYW1YMUVLSlJNQVFOUk5aUWpma2ZHYjF2aERncFp0dUFldmNMZW9fWjNaZnBRNXRtQ1ZCOHFQNldrUGJyOGhSVFhNRlFsZFdMSVJpQ0lER3FkVk41QjNoQdIBvAFBVV95cUxQZFItT0FEUUUzVm5CSjEwTWNUVktyWWs5dWgyeVYxT3lVZGh2MVBwM3ZURjc2ZktYQy1BSVNYNlFDMXg1WHVOX0tzY2ExcTY0VzVKYnhPYVQ1c2RTR0JBY3RUVk5rM1p1Y1FxTDFPejBWc3ZhSHlzLXhRRVR2UGlfOS1DOUt5V1dtdUNDMzNVT0hkanNjQ2ZuWFZsc3BvcUZjS0xZM3BBMFZKOXBrTFE3LWRFSnZ0aGNjaXpmTw?oc=5)
 
 2026-05-14 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -94,9 +110,17 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [La recherche sur la genèse des cancers sera la clé d’une meilleure prévention - Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
+
+2026-05-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
+
+---
+
 ### [«Tumore al polmone, molecola ibrida aiuta a distruggere le cellule malate»: la nuova ricerca italiana - Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjVGazFBT0RXdXdiTjk4ZVFZaHZvbWpBLUxTb2preEdhYWFzTVptWE9CZFNqUW04ZGtqeHljc0ozZGdFaFNpT0tzSU53aFJpN193WnRCS1Z2dDRNZ051ejU2OFM5QTVlWjBOaUlkMzNkQ3A5ZTRJS3R5cVRpUEJFUHpUQXctX2xZQTBCcDI4QjJpZFh5WDdUVUpjMXBLdkHSAZgBQVVfeXFMTUltcWhsTElfNWRWSE1YZkZ6NGdoMWxhR2hrNUgxTXlDam9VVFBvOTd6emZobl9YT2d4VU5KUklKM291MC1jMmFGVFVDNWotZ2J3OXZtWVVlNENTWEZic3FCX1N6M3YzdE5MWFJzWFo2eWVCa1d2NExvdEZkNGpnNUdhRGxMX05YS3FvT29LX1JBYlF3T1doRlM?oc=5)
 
-2026-05-14 <span class="news-indication-tag">carcinoma</span>
+2026-05-14 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjVGazFBT0RXdXdiTjk4ZVFZaHZvbWpBLUxTb2preEdhYWFzTVptWE9CZFNqUW04ZGtqeHljc0ozZGdFaFNpT0tzSU53aFJpN193WnRCS1Z2dDRNZ051ejU2OFM5QTVlWjBOaUlkMzNkQ3A5ZTRJS3R5cVRpUEJFUHpUQXctX2xZQTBCcDI4QjJpZFh5WDdUVUpjMXBLdkHSAZgBQVVfeXFMTUltcWhsTElfNWRWSE1YZkZ6NGdoMWxhR2hrNUgxTXlDam9VVFBvOTd6emZobl9YT2d4VU5KUklKM291MC1jMmFGVFVDNWotZ2J3OXZtWVVlNENTWEZic3FCX1N6M3YzdE5MWFJzWFo2eWVCa1d2NExvdEZkNGpnNUdhRGxMX05YS3FvT29LX1JBYlF3T1doRlM?oc=5)
 
@@ -142,19 +166,19 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Investigadores desarrollan una técnica que permite analizar tumores sin necesidad de biopsias - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3ZlMUROSlB0VmNQdW5XTk1VamNJT21fXzRVZWE3ZGJESXZSbTlLRU5ZMW9JREw3VFAyeWF1ZEdLYTNOMDZlVFpVUkdGcDFobkM4ekp5WWc5ZFZ1QTY5YW45cFNQV0FFbTJOdDFyVzJ0OHB5bnBlX25kb0ZnNGp2Nmxqa2VMcVZ4WTY4NnpZUFl2aEZOSm1TbEV6bW9xcHNkWFhlbzFrM3AzR240YnUteExBTlB5NENMTzV5bHgxUW0?oc=5)
+
+2026-05-14 <span class="news-indication-tag">tumor</span>
+
+來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3ZlMUROSlB0VmNQdW5XTk1VamNJT21fXzRVZWE3ZGJESXZSbTlLRU5ZMW9JREw3VFAyeWF1ZEdLYTNOMDZlVFpVUkdGcDFobkM4ekp5WWc5ZFZ1QTY5YW45cFNQV0FFbTJOdDFyVzJ0OHB5bnBlX25kb0ZnNGp2Nmxqa2VMcVZ4WTY4NnpZUFl2aEZOSm1TbEV6bW9xcHNkWFhlbzFrM3AzR240YnUteExBTlB5NENMTzV5bHgxUW0?oc=5)
+
+---
+
 ### [« L’enjeu, c’est de savoir si on porte ce gène » : à l’hôpital Lyon Sud, une campagne de sensibilisation sur des cancers génétiques - Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
 
 2026-05-14 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
-
----
-
-### [La recherche sur la genèse des cancers sera la clé d’une meilleure prévention - Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
-
-2026-05-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
 
 ---
 
@@ -171,14 +195,6 @@ permalink: /news/tafasitamab/
 2026-05-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1BMT3BqbExjcVAxQ2FPVExpWHRLT2FMYjVBcHZyR1EwbFVmaXZTRk5rZkE3dTRlYWN1dUlnV1JVLXdtMWZ4bWlHbjZjQ05ha3RqdHI5V3lwNTVwRnZFakRiMmNnYkN6ZHNBNHk1Nkhhc0w1VmkzU3FXUjNpSHVxMm5zWmp2aU9ldlRBakFWeFUtWTBTVWhvekpicTlnUUw4OWxFQ0lFQ3VWNzJtcF9TaFJ1ajNNUQ?oc=5)
-
----
-
-### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
 ---
 
@@ -230,27 +246,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs: „Die Anzeichen zeigen sich spät, unspezifisch und diffus“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOG9McFVQNGhvSVBNbFdkVnlidnl1VzJRWW5hZkpMRURoVU02RWlfQW16LWFjWnpBY2dvNC1GWjk1Q2tUWi13SVk2M2FHc2h4NkJLYXZBei0yQXV3THRuNnlUX3FVWEhQSUxaYXJYQWYtTXF6Q1BpcnZHcndjV1IxMlFDaHlwcnpiaVd5X2lPQWpJdjlZSFlzOHkyWnhTMGQtd1ZmaVpSQzM1bXd6OEFCa1ZydmJ5Wm9xak03a0wzS0kwcUZNZkxUN2JFNHZTVlkzZlV2V2czaUdMMWtjcmdV?oc=5)
+### [Tumore al polmone, immunoterapia prima della chirurgia raddoppia le probabilità di guarigione. Cosa è e come funziona - Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5)
 
-2026-05-13 <span class="news-indication-tag">Krebs</span>
+2026-05-11 <span class="news-indication-tag">tumor</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOG9McFVQNGhvSVBNbFdkVnlidnl1VzJRWW5hZkpMRURoVU02RWlfQW16LWFjWnpBY2dvNC1GWjk1Q2tUWi13SVk2M2FHc2h4NkJLYXZBei0yQXV3THRuNnlUX3FVWEhQSUxaYXJYQWYtTXF6Q1BpcnZHcndjV1IxMlFDaHlwcnpiaVd5X2lPQWpJdjlZSFlzOHkyWnhTMGQtd1ZmaVpSQzM1bXd6OEFCa1ZydmJ5Wm9xak03a0wzS0kwcUZNZkxUN2JFNHZTVlkzZlV2V2czaUdMMWtjcmdV?oc=5)
-
----
-
-### [Kopf-Hals-Tumoren: Moderne Bildgebung liefert Hinweise auf aggressiven Verlauf](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlhjWHc1MW1CakdYNjlkR0VWZ1d4TFF3anhBZjZaS0hoT1NTRHpoUDRGNW4xNHZaNE9jd3NzUk5adko5Q2lRQ0lFZTJMNjFWQkQ3MWtUTC1JcVgxc3dkSWlTdFJYc2IyYlFsYlk2WVFLcmVib3djaFZYbWV6M0E2XzBvaWNWUHR3OG81Q0t2TVNQdTFfRGdzTlZtNmdhaXNVdm0wallwanRBWHh2OFNQdHlmVHJaclJWOGdXWU96dkx0ZlR0VTNGTWxQQkZqY1U?oc=5)
-
-2026-05-13 <span class="news-indication-tag">tumor</span>
-
-來源：[OTS.at](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlhjWHc1MW1CakdYNjlkR0VWZ1d4TFF3anhBZjZaS0hoT1NTRHpoUDRGNW4xNHZaNE9jd3NzUk5adko5Q2lRQ0lFZTJMNjFWQkQ3MWtUTC1JcVgxc3dkSWlTdFJYc2IyYlFsYlk2WVFLcmVib3djaFZYbWV6M0E2XzBvaWNWUHR3OG81Q0t2TVNQdTFfRGdzTlZtNmdhaXNVdm0wallwanRBWHh2OFNQdHlmVHJaclJWOGdXWU96dkx0ZlR0VTNGTWxQQkZqY1U?oc=5)
-
----
-
-### [Typ-2-Diabetes macht besonderen Schutz für Niere und Herz erforderlich](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
-
-2026-05-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2dzelJKQ0MtSlBxa2s2V3NQeVY1b1I3bFA1Q19ObkJOSlAtMTBQcFN0OEtuS05oX19ZYTRfYm41bVhXLTFHejlkM1A4R3l5RFZtdWx0YjZNRU9mS3FzTF9KcWdTb1RiSTBFMjg5aHVlcnRkNURlc05fWlFkdk81RlpCWE15cEd1WTJIdzZUdmNnUjRZUkZ2bm9TeUZVN3ZBMWFFOGZXeXZCTzZEWDUyMA?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5)
 
 ---
 

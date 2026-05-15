@@ -14,7 +14,7 @@ permalink: /news/alemtuzumab/
 ---
 
 <p class="key-answer" data-question="Alemtuzumab 有什麼相關新聞？">
-<strong>Alemtuzumab</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alemtuzumab</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/alemtuzumab/
 <p><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（38 則）
+## 相關新聞（40 則）
+
+### [Ludmillenstift Meppen informiert über neue Erkenntnisse bei Multipler Sklerose - Ems Vechte Welle](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanhyMVVPOTk3RDdTeGp1WGU1eXZQNEcxdWRjUXAyWWtTdzNtNHI0elRQVXh6Zk1LNDlaYkoydjVPQi1QWExfdkdDSjRvbHRRR21QWTFoNUZDM3ZLa2RaS28tb3RHOVgwZ3oydENZNmJLdWsxQ1hGcFItcGVpOXIyWm9zOVhEejRHaHdGVW5Rd2ExdkpFT0hTMHZKVlYwbTRrZ2dnTG00UjBzdzZ0ZDVV?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span>
+
+來源：[Ems Vechte Welle](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanhyMVVPOTk3RDdTeGp1WGU1eXZQNEcxdWRjUXAyWWtTdzNtNHI0elRQVXh6Zk1LNDlaYkoydjVPQi1QWExfdkdDSjRvbHRRR21QWTFoNUZDM3ZLa2RaS28tb3RHOVgwZ3oydENZNmJLdWsxQ1hGcFItcGVpOXIyWm9zOVhEejRHaHdGVW5Rd2ExdkpFT0hTMHZKVlYwbTRrZ2dnTG00UjBzdzZ0ZDVV?oc=5)
+
+---
+
+### [Hospital receives £2m boost to improve cancer care](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
+
+2026-05-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
+
+---
 
 ### [Prostate cancer screening can save lives but ‘absolute benefit is small’, study says - The Guardian](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0lJYTlKVWphMWt1M0dLLTZ3YzZVVmhiWUZKU2l3dUpiamNlRkNOa1Y0OG1ZcnhySms2ZmxrUlZYVVZhcXFNOHMxTGhnZWdQS2hLYzQzZWFFb08tUS02eE1kTk5yeU42eXFvSHFFaEZlUFQ0SHoyMmpuSmhUSlVVZlk2MDlNeUdCTFltUUhNZnFSR1I2SVhjaEl2ZlNiVmxIaDIwaTlFdw?oc=5)
 
@@ -62,11 +78,19 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Persone sequestrate, navi bloccate: torna a circolare il virus della paura - La Verità](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa011YVBoZ3BSSVNoQmZVUGxBam9Fd3l1RVNKa19idDloa0lVOTlxel9TejB5VEpCLVJndWdWMmdkNWlLeVJLT2ZEVy1BSkZqX0xILUNiZnhBbTNmakVaY1NodWluU3VyWGxVZ0dfSnBUcFlhU09DYUYwa2hNellOVTJrTUN4N05sYXJvU1g0MA?oc=5)
+### [Las dos semanas de alarma por el hantavirus: los expertos diferencian qué fue exageración, debate o bulo - El Confidencial](https://news.google.com/rss/articles/CBMivwFBVV95cUxQenRfZFBnbFNJREF0ZnNYUjVPdjBSZXh0WW0wRnNhYTVhREZ3NEpGRzhWVnRHOHVjc0JMUGh1dWstV2hxb0JJZzUwNVl0UTFxOGFTenZNM0taS1R4dVhDRXR2MkJFekE0akNkVTJKc0pfdE4zdW0yYVZmRTJSNVBXcEhuVDA5VkNxeTNWVENldngwWUlYZVFmemZMcFhGQVlLbFRTZFNpOF93Rlo2UmpoS09VTmlDbU9WSUwwQXZfYw?oc=5)
 
-2026-05-14 <span class="news-indication-tag">MS</span>
+2026-05-15 <span class="news-indication-tag">MS</span>
 
-來源：[La Verità](https://news.google.com/rss/articles/CBMijwFBVV95cUxOa011YVBoZ3BSSVNoQmZVUGxBam9Fd3l1RVNKa19idDloa0lVOTlxel9TejB5VEpCLVJndWdWMmdkNWlLeVJLT2ZEVy1BSkZqX0xILUNiZnhBbTNmakVaY1NodWluU3VyWGxVZ0dfSnBUcFlhU09DYUYwa2hNellOVTJrTUN4N05sYXJvU1g0MA?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMivwFBVV95cUxQenRfZFBnbFNJREF0ZnNYUjVPdjBSZXh0WW0wRnNhYTVhREZ3NEpGRzhWVnRHOHVjc0JMUGh1dWstV2hxb0JJZzUwNVl0UTFxOGFTenZNM0taS1R4dVhDRXR2MkJFekE0akNkVTJKc0pfdE4zdW0yYVZmRTJSNVBXcEhuVDA5VkNxeTNWVENldngwWUlYZVFmemZMcFhGQVlLbFRTZFNpOF93Rlo2UmpoS09VTmlDbU9WSUwwQXZfYw?oc=5)
+
+---
+
+### [Hantavirus, la "profezia" di Gavi sulla prossima pandemia - La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihAFBVV95cUxORE1vLWpaMkJhbjZOZWdtaU5tMkkxMnBQZExvMDducXB5Qk1ZT3l4TnQ2Mk5Ma3VScVQ4aHE2cWthMk1JZkVUODg0alJXMkdzNlE2OHVhQzNrbWdIS3d0azNNQ2ZfckhmcW9VVVBpZ3VnQzhRZ05tSUx0RnNGVC1YZTg3SVA?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihAFBVV95cUxORE1vLWpaMkJhbjZOZWdtaU5tMkkxMnBQZExvMDducXB5Qk1ZT3l4TnQ2Mk5Ma3VScVQ4aHE2cWthMk1JZkVUODg0alJXMkdzNlE2OHVhQzNrbWdIS3d0azNNQ2ZfckhmcW9VVVBpZ3VnQzhRZ05tSUx0RnNGVC1YZTg3SVA?oc=5)
 
 ---
 
@@ -86,19 +110,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Diferencias entre el hantavirus y Covid: síntomas, transmisión - Enlace Latino NC](https://news.google.com/rss/articles/CBMidkFVX3lxTE4wdGdBd1RrRzFHOEM4cm9wdzN1T2JERHlBTm05ZlhTWS0xY0R0TVZyREU5NWNDaXBhc3llYlhXNkhNdzI0eDBOQldPYXFDV3NjS3paMC14Rzd6VnpKdTBTRnRta01lUFpUN0MyN09yT1VJdU9qZFE?oc=5)
+### [Hantavirus-Risiko: Ahnungsloser Tourist wird aus Bar abgeführt](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5YOF94RkpGZ2pJOFFOelYzanFSaVN1N1h6bzA5VGFubjBHVV9DaFhGVXZ1cXdpdTUwT1JEc0Mya2ZURXFiOXBJdjdoajR3cFYxaXhJanhsb1dib3dSSXVPakFjWWhBSXRuTm5QQ0dHM2x3SWY1N085M21feXpHU0dBT1dWQjVmVXZqUklnek1NbXRWRzlVU3YxMmV1VFA3ZzY1NkRDeVEyVTRrdXhxb1REdjFSTEhBNVllSnAzQQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">MS</span>
 
-來源：[Enlace Latino NC](https://news.google.com/rss/articles/CBMidkFVX3lxTE4wdGdBd1RrRzFHOEM4cm9wdzN1T2JERHlBTm05ZlhTWS0xY0R0TVZyREU5NWNDaXBhc3llYlhXNkhNdzI0eDBOQldPYXFDV3NjS3paMC14Rzd6VnpKdTBTRnRta01lUFpUN0MyN09yT1VJdU9qZFE?oc=5)
-
----
-
-### [Hantavirus, Ecdc e ministero: ‘Nessun allarme epidemico’. Ma emerge quello dell’infodemia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JlNzMzRDc3OFIzbm0wMVN2SEQxbUNtUW5NODZCMk9JbHdobDB4TVZoUXJRZ1ZxQ1ZYdXFfcV9NR2tMVU5HNVY0eFpHVEZoVUY4dEZ2YlBVOFFPLVdXbEVGbmFXek1IejE5bV91d0w5RVh5ZG1YWjFCTlJ1WGFHRnhzUnplV1NuYWM2dDhKNWxZTUZxSTE2OHdzTnJZcWZCUUxReDVLc1VlVHJ2X2RGQ3FoZEhUMFdZ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
-
-來源：[RIFday](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JlNzMzRDc3OFIzbm0wMVN2SEQxbUNtUW5NODZCMk9JbHdobDB4TVZoUXJRZ1ZxQ1ZYdXFfcV9NR2tMVU5HNVY0eFpHVEZoVUY4dEZ2YlBVOFFPLVdXbEVGbmFXek1IejE5bV91d0w5RVh5ZG1YWjFCTlJ1WGFHRnhzUnplV1NuYWM2dDhKNWxZTUZxSTE2OHdzTnJZcWZCUUxReDVLc1VlVHJ2X2RGQ3FoZEhUMFdZ?oc=5)
+來源：[MSN](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5YOF94RkpGZ2pJOFFOelYzanFSaVN1N1h6bzA5VGFubjBHVV9DaFhGVXZ1cXdpdTUwT1JEc0Mya2ZURXFiOXBJdjdoajR3cFYxaXhJanhsb1dib3dSSXVPakFjWWhBSXRuTm5QQ0dHM2x3SWY1N085M21feXpHU0dBT1dWQjVmVXZqUklnek1NbXRWRzlVU3YxMmV1VFA3ZzY1NkRDeVEyVTRrdXhxb1REdjFSTEhBNVllSnAzQQ?oc=5)
 
 ---
 
@@ -115,6 +131,14 @@ permalink: /news/alemtuzumab/
 2026-05-14 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2pRYkQtVlhJaUNjNWszMzRaS1NQZzdTQW1HV2pLQThlVGlwdFdZRGVNcDFDaFBHQ1F0bUhmQ2hOWnNyOFBNX1BpNVVNaHhqMEVKelZvQUxHamZybEVIUzFfSktnamZUMTdTSGlDVlkwdjVDeUFrTms4cVFxdXkyekkxZ2JpazAzelFHSlRFMU84Sm1UTDlUV2lheEFSODRCbzFaVzZZZDdHUHFScFE?oc=5)
+
+---
+
+### [Hantavirus may survive in human sperm for up to six years and cause a transmission risk - The Telegraph](https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3Z2MlJOdGFOX2xYd1RlUjVMREVtOGFGTkU4MV9PVjYzMHpQTWpnNFBYN0sybVVHTUg5TVBZY2pJQlBWempvOGpKdGJMWFdObFZYbTRUNFJsc1ZTcC1qN293dkRrcVlCVE1tWTJpRlUxM2toVnVUbi0ycml5OWZ0UkZvWDQ3UmVxOFAxYkl2OWxzMTY0Wmc0QjNMMjV6Wmg3T243ZHhqVmJ5RFhiOTJxeU9WYjBOeWFnaWNDMw?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3Z2MlJOdGFOX2xYd1RlUjVMREVtOGFGTkU4MV9PVjYzMHpQTWpnNFBYN0sybVVHTUg5TVBZY2pJQlBWempvOGpKdGJMWFdObFZYbTRUNFJsc1ZTcC1qN293dkRrcVlCVE1tWTJpRlUxM2toVnVUbi0ycml5OWZ0UkZvWDQ3UmVxOFAxYkl2OWxzMTY0Wmc0QjNMMjV6Wmg3T243ZHhqVmJ5RFhiOTJxeU9WYjBOeWFnaWNDMw?oc=5)
 
 ---
 
@@ -142,11 +166,27 @@ permalink: /news/alemtuzumab/
 
 ---
 
+### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+2026-05-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+---
+
 ### [Quattro rari tumori al cuore scoperti con un elettrocardiogramma: 39enne salvato da una maratona chirurgica - Il Gazzettino](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEFmRTFVejBhdXFOX2dERVItbzh3bUdhN293SHNlWWVUMEZzakxuaGdmaF91cEVfeUg3ZlJzNllXSEhtY2x1SjNDdTM2WGd3SG1KRHJMMkNRYUZQbVlSdGtQMkV0V3hkLTVwYW1YMUVLSlJNQVFOUk5aUWpma2ZHYjF2aERncFp0dUFldmNMZW9fWjNaZnBRNXRtQ1ZCOHFQNldrUGJyOGhSVFhNRlFsZFdMSVJpQ0lER3FkVk41QjNoQdIBvAFBVV95cUxQZFItT0FEUUUzVm5CSjEwTWNUVktyWWs5dWgyeVYxT3lVZGh2MVBwM3ZURjc2ZktYQy1BSVNYNlFDMXg1WHVOX0tzY2ExcTY0VzVKYnhPYVQ1c2RTR0JBY3RUVk5rM1p1Y1FxTDFPejBWc3ZhSHlzLXhRRVR2UGlfOS1DOUt5V1dtdUNDMzNVT0hkanNjQ2ZuWFZsc3BvcUZjS0xZM3BBMFZKOXBrTFE3LWRFSnZ0aGNjaXpmTw?oc=5)
 
 2026-05-14 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[Il Gazzettino](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEFmRTFVejBhdXFOX2dERVItbzh3bUdhN293SHNlWWVUMEZzakxuaGdmaF91cEVfeUg3ZlJzNllXSEhtY2x1SjNDdTM2WGd3SG1KRHJMMkNRYUZQbVlSdGtQMkV0V3hkLTVwYW1YMUVLSlJNQVFOUk5aUWpma2ZHYjF2aERncFp0dUFldmNMZW9fWjNaZnBRNXRtQ1ZCOHFQNldrUGJyOGhSVFhNRlFsZFdMSVJpQ0lER3FkVk41QjNoQdIBvAFBVV95cUxQZFItT0FEUUUzVm5CSjEwTWNUVktyWWs5dWgyeVYxT3lVZGh2MVBwM3ZURjc2ZktYQy1BSVNYNlFDMXg1WHVOX0tzY2ExcTY0VzVKYnhPYVQ1c2RTR0JBY3RUVk5rM1p1Y1FxTDFPejBWc3ZhSHlzLXhRRVR2UGlfOS1DOUt5V1dtdUNDMzNVT0hkanNjQ2ZuWFZsc3BvcUZjS0xZM3BBMFZKOXBrTFE3LWRFSnZ0aGNjaXpmTw?oc=5)
+
+---
+
+### [La recherche sur la genèse des cancers sera la clé d’une meilleure prévention - Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
+
+2026-05-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
 
 ---
 
@@ -160,7 +200,7 @@ permalink: /news/alemtuzumab/
 
 ### [«Tumore al polmone, molecola ibrida aiuta a distruggere le cellule malate»: la nuova ricerca italiana - Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjVGazFBT0RXdXdiTjk4ZVFZaHZvbWpBLUxTb2preEdhYWFzTVptWE9CZFNqUW04ZGtqeHljc0ozZGdFaFNpT0tzSU53aFJpN193WnRCS1Z2dDRNZ051ejU2OFM5QTVlWjBOaUlkMzNkQ3A5ZTRJS3R5cVRpUEJFUHpUQXctX2xZQTBCcDI4QjJpZFh5WDdUVUpjMXBLdkHSAZgBQVVfeXFMTUltcWhsTElfNWRWSE1YZkZ6NGdoMWxhR2hrNUgxTXlDam9VVFBvOTd6emZobl9YT2d4VU5KUklKM291MC1jMmFGVFVDNWotZ2J3OXZtWVVlNENTWEZic3FCX1N6M3YzdE5MWFJzWFo2eWVCa1d2NExvdEZkNGpnNUdhRGxMX05YS3FvT29LX1JBYlF3T1doRlM?oc=5)
 
-2026-05-14 <span class="news-indication-tag">carcinoma</span>
+2026-05-14 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjVGazFBT0RXdXdiTjk4ZVFZaHZvbWpBLUxTb2preEdhYWFzTVptWE9CZFNqUW04ZGtqeHljc0ozZGdFaFNpT0tzSU53aFJpN193WnRCS1Z2dDRNZ051ejU2OFM5QTVlWjBOaUlkMzNkQ3A5ZTRJS3R5cVRpUEJFUHpUQXctX2xZQTBCcDI4QjJpZFh5WDdUVUpjMXBLdkHSAZgBQVVfeXFMTUltcWhsTElfNWRWSE1YZkZ6NGdoMWxhR2hrNUgxTXlDam9VVFBvOTd6emZobl9YT2d4VU5KUklKM291MC1jMmFGVFVDNWotZ2J3OXZtWVVlNENTWEZic3FCX1N6M3YzdE5MWFJzWFo2eWVCa1d2NExvdEZkNGpnNUdhRGxMX05YS3FvT29LX1JBYlF3T1doRlM?oc=5)
 
@@ -206,19 +246,19 @@ permalink: /news/alemtuzumab/
 
 ---
 
+### [Investigadores desarrollan una técnica que permite analizar tumores sin necesidad de biopsias - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3ZlMUROSlB0VmNQdW5XTk1VamNJT21fXzRVZWE3ZGJESXZSbTlLRU5ZMW9JREw3VFAyeWF1ZEdLYTNOMDZlVFpVUkdGcDFobkM4ekp5WWc5ZFZ1QTY5YW45cFNQV0FFbTJOdDFyVzJ0OHB5bnBlX25kb0ZnNGp2Nmxqa2VMcVZ4WTY4NnpZUFl2aEZOSm1TbEV6bW9xcHNkWFhlbzFrM3AzR240YnUteExBTlB5NENMTzV5bHgxUW0?oc=5)
+
+2026-05-14 <span class="news-indication-tag">tumor</span>
+
+來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3ZlMUROSlB0VmNQdW5XTk1VamNJT21fXzRVZWE3ZGJESXZSbTlLRU5ZMW9JREw3VFAyeWF1ZEdLYTNOMDZlVFpVUkdGcDFobkM4ekp5WWc5ZFZ1QTY5YW45cFNQV0FFbTJOdDFyVzJ0OHB5bnBlX25kb0ZnNGp2Nmxqa2VMcVZ4WTY4NnpZUFl2aEZOSm1TbEV6bW9xcHNkWFhlbzFrM3AzR240YnUteExBTlB5NENMTzV5bHgxUW0?oc=5)
+
+---
+
 ### [« L’enjeu, c’est de savoir si on porte ce gène » : à l’hôpital Lyon Sud, une campagne de sensibilisation sur des cancers génétiques - Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
 
 2026-05-14 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
-
----
-
-### [La recherche sur la genèse des cancers sera la clé d’une meilleure prévention - Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
-
-2026-05-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
 
 ---
 
@@ -232,17 +272,9 @@ permalink: /news/alemtuzumab/
 
 ### [Hantavirus, negativi i casi sospetti. L’allarme dei medici: “Non siamo preparati” - la Repubblica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVQ2bEV5X3hEX0RlSWtYMFBUQlFjalhRb1ZhLTVtNjlmY0ZsNlE3VmlfSmY5bnloNnctWXhkSU9wVFl3bklVajJ6T2JHd0pMcFNkWkp6akhIZFJNZFJ5SFBNZmhseDJLMjc1SkwzVVBwSG96bzdJdF9WeV82M05BUTFlb0lXY052UFdaNFEtSDk0V2ZXV3QyLW5DcU1FcUlKYUdMVU4zQknSAa4BQVVfeXFMTk1nbEFWOFZZTmdBZEpybGtvU3BmNzhRMk9maENMQWVaalJiOTN2cWo1NXRmcWZGLUo5NXJHUERrdnFZNDF4Q3FGT1V6MmtCeGxGLXdraGViNXdGM2JsM0dHOXRqc01lQ2pleWRJRkdsVnRkNWJ3MS1wcVJic2FSYzdIWUJidW1KS1VwTUFvRkRvM3R6WE9OYmJuaGo4SzZyY04zaHBOaElnQ1YwNFNB?oc=5)
 
-2026-05-14 <span class="news-indication-tag">MS</span>
+2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVQ2bEV5X3hEX0RlSWtYMFBUQlFjalhRb1ZhLTVtNjlmY0ZsNlE3VmlfSmY5bnloNnctWXhkSU9wVFl3bklVajJ6T2JHd0pMcFNkWkp6akhIZFJNZFJ5SFBNZmhseDJLMjc1SkwzVVBwSG96bzdJdF9WeV82M05BUTFlb0lXY052UFdaNFEtSDk0V2ZXV3QyLW5DcU1FcUlKYUdMVU4zQknSAa4BQVVfeXFMTk1nbEFWOFZZTmdBZEpybGtvU3BmNzhRMk9maENMQWVaalJiOTN2cWo1NXRmcWZGLUo5NXJHUERrdnFZNDF4Q3FGT1V6MmtCeGxGLXdraGViNXdGM2JsM0dHOXRqc01lQ2pleWRJRkdsVnRkNWJ3MS1wcVJic2FSYzdIWUJidW1KS1VwTUFvRkRvM3R6WE9OYmJuaGo4SzZyY04zaHBOaElnQ1YwNFNB?oc=5)
-
----
-
-### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
-2026-05-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
 ---
 
@@ -326,27 +358,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs: „Die Anzeichen zeigen sich spät, unspezifisch und diffus“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOG9McFVQNGhvSVBNbFdkVnlidnl1VzJRWW5hZkpMRURoVU02RWlfQW16LWFjWnpBY2dvNC1GWjk1Q2tUWi13SVk2M2FHc2h4NkJLYXZBei0yQXV3THRuNnlUX3FVWEhQSUxaYXJYQWYtTXF6Q1BpcnZHcndjV1IxMlFDaHlwcnpiaVd5X2lPQWpJdjlZSFlzOHkyWnhTMGQtd1ZmaVpSQzM1bXd6OEFCa1ZydmJ5Wm9xak03a0wzS0kwcUZNZkxUN2JFNHZTVlkzZlV2V2czaUdMMWtjcmdV?oc=5)
+### [Tumore al polmone, immunoterapia prima della chirurgia raddoppia le probabilità di guarigione. Cosa è e come funziona - Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5)
 
-2026-05-13 <span class="news-indication-tag">Krebs</span>
+2026-05-11 <span class="news-indication-tag">tumor</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOG9McFVQNGhvSVBNbFdkVnlidnl1VzJRWW5hZkpMRURoVU02RWlfQW16LWFjWnpBY2dvNC1GWjk1Q2tUWi13SVk2M2FHc2h4NkJLYXZBei0yQXV3THRuNnlUX3FVWEhQSUxaYXJYQWYtTXF6Q1BpcnZHcndjV1IxMlFDaHlwcnpiaVd5X2lPQWpJdjlZSFlzOHkyWnhTMGQtd1ZmaVpSQzM1bXd6OEFCa1ZydmJ5Wm9xak03a0wzS0kwcUZNZkxUN2JFNHZTVlkzZlV2V2czaUdMMWtjcmdV?oc=5)
-
----
-
-### [Kopf-Hals-Tumoren: Moderne Bildgebung liefert Hinweise auf aggressiven Verlauf](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlhjWHc1MW1CakdYNjlkR0VWZ1d4TFF3anhBZjZaS0hoT1NTRHpoUDRGNW4xNHZaNE9jd3NzUk5adko5Q2lRQ0lFZTJMNjFWQkQ3MWtUTC1JcVgxc3dkSWlTdFJYc2IyYlFsYlk2WVFLcmVib3djaFZYbWV6M0E2XzBvaWNWUHR3OG81Q0t2TVNQdTFfRGdzTlZtNmdhaXNVdm0wallwanRBWHh2OFNQdHlmVHJaclJWOGdXWU96dkx0ZlR0VTNGTWxQQkZqY1U?oc=5)
-
-2026-05-13 <span class="news-indication-tag">tumor</span>
-
-來源：[OTS.at](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlhjWHc1MW1CakdYNjlkR0VWZ1d4TFF3anhBZjZaS0hoT1NTRHpoUDRGNW4xNHZaNE9jd3NzUk5adko5Q2lRQ0lFZTJMNjFWQkQ3MWtUTC1JcVgxc3dkSWlTdFJYc2IyYlFsYlk2WVFLcmVib3djaFZYbWV6M0E2XzBvaWNWUHR3OG81Q0t2TVNQdTFfRGdzTlZtNmdhaXNVdm0wallwanRBWHh2OFNQdHlmVHJaclJWOGdXWU96dkx0ZlR0VTNGTWxQQkZqY1U?oc=5)
-
----
-
-### [Australia: Patients of retired Sydney dentist warned of viruses including hepatitis and HIV](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTS03bkdTWHN4OFJJLVpDcmdqWXZjWWtBTDdUbFNYNXJDRl9WZFJtQVp0dkZ0OWJfNGg4NlZSUExlTmF3RXltV0pEbTdiVkZQZ1ZtT3cyTjNrRGo3?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5)
 
 ---
 

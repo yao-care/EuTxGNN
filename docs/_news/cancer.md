@@ -3,7 +3,7 @@ layout: default
 title: "Krebs（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Krebs（cancer） 的相關健康新聞報導。22 則新聞、229 個相關藥物。"
+description: "Krebs（cancer） 的相關健康新聞報導。23 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="Krebs（cancer） 有什麼相關新聞？">
-<strong>Krebs（cancer）</strong> 目前有 <strong>22 則</strong>相關新聞報導，229 個相關藥物。
+<strong>Krebs（cancer）</strong> 目前有 <strong>23 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,7 +257,15 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（23 則）
+
+### [Hospital receives £2m boost to improve cancer care](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
+
+2026-05-15
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
+
+---
 
 ### [Prostate cancer screening can save lives but ‘absolute benefit is small’, study says - The Guardian](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0lJYTlKVWphMWt1M0dLLTZ3YzZVVmhiWUZKU2l3dUpiamNlRkNOa1Y0OG1ZcnhySms2ZmxrUlZYVVZhcXFNOHMxTGhnZWdQS2hLYzQzZWFFb08tUS02eE1kTk5yeU42eXFvSHFFaEZlUFQ0SHoyMmpuSmhUSlVVZlk2MDlNeUdCTFltUUhNZnFSR1I2SVhjaEl2ZlNiVmxIaDIwaTlFdw?oc=5)
 
@@ -283,11 +291,27 @@ permalink: /news/cancer/
 
 ---
 
+### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+2026-05-14
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
+
+---
+
 ### [Quattro rari tumori al cuore scoperti con un elettrocardiogramma: 39enne salvato da una maratona chirurgica - Il Gazzettino](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEFmRTFVejBhdXFOX2dERVItbzh3bUdhN293SHNlWWVUMEZzakxuaGdmaF91cEVfeUg3ZlJzNllXSEhtY2x1SjNDdTM2WGd3SG1KRHJMMkNRYUZQbVlSdGtQMkV0V3hkLTVwYW1YMUVLSlJNQVFOUk5aUWpma2ZHYjF2aERncFp0dUFldmNMZW9fWjNaZnBRNXRtQ1ZCOHFQNldrUGJyOGhSVFhNRlFsZFdMSVJpQ0lER3FkVk41QjNoQdIBvAFBVV95cUxQZFItT0FEUUUzVm5CSjEwTWNUVktyWWs5dWgyeVYxT3lVZGh2MVBwM3ZURjc2ZktYQy1BSVNYNlFDMXg1WHVOX0tzY2ExcTY0VzVKYnhPYVQ1c2RTR0JBY3RUVk5rM1p1Y1FxTDFPejBWc3ZhSHlzLXhRRVR2UGlfOS1DOUt5V1dtdUNDMzNVT0hkanNjQ2ZuWFZsc3BvcUZjS0xZM3BBMFZKOXBrTFE3LWRFSnZ0aGNjaXpmTw?oc=5)
 
 2026-05-14
 
 來源：[Il Gazzettino](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEFmRTFVejBhdXFOX2dERVItbzh3bUdhN293SHNlWWVUMEZzakxuaGdmaF91cEVfeUg3ZlJzNllXSEhtY2x1SjNDdTM2WGd3SG1KRHJMMkNRYUZQbVlSdGtQMkV0V3hkLTVwYW1YMUVLSlJNQVFOUk5aUWpma2ZHYjF2aERncFp0dUFldmNMZW9fWjNaZnBRNXRtQ1ZCOHFQNldrUGJyOGhSVFhNRlFsZFdMSVJpQ0lER3FkVk41QjNoQdIBvAFBVV95cUxQZFItT0FEUUUzVm5CSjEwTWNUVktyWWs5dWgyeVYxT3lVZGh2MVBwM3ZURjc2ZktYQy1BSVNYNlFDMXg1WHVOX0tzY2ExcTY0VzVKYnhPYVQ1c2RTR0JBY3RUVk5rM1p1Y1FxTDFPejBWc3ZhSHlzLXhRRVR2UGlfOS1DOUt5V1dtdUNDMzNVT0hkanNjQ2ZuWFZsc3BvcUZjS0xZM3BBMFZKOXBrTFE3LWRFSnZ0aGNjaXpmTw?oc=5)
+
+---
+
+### [La recherche sur la genèse des cancers sera la clé d’une meilleure prévention - Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
+
+2026-05-14
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
 
 ---
 
@@ -339,6 +363,14 @@ permalink: /news/cancer/
 
 ---
 
+### [Investigadores desarrollan una técnica que permite analizar tumores sin necesidad de biopsias - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3ZlMUROSlB0VmNQdW5XTk1VamNJT21fXzRVZWE3ZGJESXZSbTlLRU5ZMW9JREw3VFAyeWF1ZEdLYTNOMDZlVFpVUkdGcDFobkM4ekp5WWc5ZFZ1QTY5YW45cFNQV0FFbTJOdDFyVzJ0OHB5bnBlX25kb0ZnNGp2Nmxqa2VMcVZ4WTY4NnpZUFl2aEZOSm1TbEV6bW9xcHNkWFhlbzFrM3AzR240YnUteExBTlB5NENMTzV5bHgxUW0?oc=5)
+
+2026-05-14
+
+來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3ZlMUROSlB0VmNQdW5XTk1VamNJT21fXzRVZWE3ZGJESXZSbTlLRU5ZMW9JREw3VFAyeWF1ZEdLYTNOMDZlVFpVUkdGcDFobkM4ekp5WWc5ZFZ1QTY5YW45cFNQV0FFbTJOdDFyVzJ0OHB5bnBlX25kb0ZnNGp2Nmxqa2VMcVZ4WTY4NnpZUFl2aEZOSm1TbEV6bW9xcHNkWFhlbzFrM3AzR240YnUteExBTlB5NENMTzV5bHgxUW0?oc=5)
+
+---
+
 ### [« L’enjeu, c’est de savoir si on porte ce gène » : à l’hôpital Lyon Sud, une campagne de sensibilisation sur des cancers génétiques - Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
 
 2026-05-14
@@ -347,27 +379,11 @@ permalink: /news/cancer/
 
 ---
 
-### [La recherche sur la genèse des cancers sera la clé d’une meilleure prévention - Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
-
-2026-05-14
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
-
----
-
 ### [Gewichtszunahme im Erwachsenenalter erhöht Krebsrisiko erheblich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
 
 2026-05-14
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
-
----
-
-### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
-2026-05-13
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
 ---
 
@@ -411,19 +427,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs: „Die Anzeichen zeigen sich spät, unspezifisch und diffus“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOG9McFVQNGhvSVBNbFdkVnlidnl1VzJRWW5hZkpMRURoVU02RWlfQW16LWFjWnpBY2dvNC1GWjk1Q2tUWi13SVk2M2FHc2h4NkJLYXZBei0yQXV3THRuNnlUX3FVWEhQSUxaYXJYQWYtTXF6Q1BpcnZHcndjV1IxMlFDaHlwcnpiaVd5X2lPQWpJdjlZSFlzOHkyWnhTMGQtd1ZmaVpSQzM1bXd6OEFCa1ZydmJ5Wm9xak03a0wzS0kwcUZNZkxUN2JFNHZTVlkzZlV2V2czaUdMMWtjcmdV?oc=5)
+### [Tumore al polmone, immunoterapia prima della chirurgia raddoppia le probabilità di guarigione. Cosa è e come funziona - Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5)
 
-2026-05-13
+2026-05-11
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOG9McFVQNGhvSVBNbFdkVnlidnl1VzJRWW5hZkpMRURoVU02RWlfQW16LWFjWnpBY2dvNC1GWjk1Q2tUWi13SVk2M2FHc2h4NkJLYXZBei0yQXV3THRuNnlUX3FVWEhQSUxaYXJYQWYtTXF6Q1BpcnZHcndjV1IxMlFDaHlwcnpiaVd5X2lPQWpJdjlZSFlzOHkyWnhTMGQtd1ZmaVpSQzM1bXd6OEFCa1ZydmJ5Wm9xak03a0wzS0kwcUZNZkxUN2JFNHZTVlkzZlV2V2czaUdMMWtjcmdV?oc=5)
-
----
-
-### [Kopf-Hals-Tumoren: Moderne Bildgebung liefert Hinweise auf aggressiven Verlauf](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlhjWHc1MW1CakdYNjlkR0VWZ1d4TFF3anhBZjZaS0hoT1NTRHpoUDRGNW4xNHZaNE9jd3NzUk5adko5Q2lRQ0lFZTJMNjFWQkQ3MWtUTC1JcVgxc3dkSWlTdFJYc2IyYlFsYlk2WVFLcmVib3djaFZYbWV6M0E2XzBvaWNWUHR3OG81Q0t2TVNQdTFfRGdzTlZtNmdhaXNVdm0wallwanRBWHh2OFNQdHlmVHJaclJWOGdXWU96dkx0ZlR0VTNGTWxQQkZqY1U?oc=5)
-
-2026-05-13
-
-來源：[OTS.at](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlhjWHc1MW1CakdYNjlkR0VWZ1d4TFF3anhBZjZaS0hoT1NTRHpoUDRGNW4xNHZaNE9jd3NzUk5adko5Q2lRQ0lFZTJMNjFWQkQ3MWtUTC1JcVgxc3dkSWlTdFJYc2IyYlFsYlk2WVFLcmVib3djaFZYbWV6M0E2XzBvaWNWUHR3OG81Q0t2TVNQdTFfRGdzTlZtNmdhaXNVdm0wallwanRBWHh2OFNQdHlmVHJaclJWOGdXWU96dkx0ZlR0VTNGTWxQQkZqY1U?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5)
 
 ---
 

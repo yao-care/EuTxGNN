@@ -54,19 +54,19 @@ permalink: /news/budesonide/
 
 ## 相關新聞（2 則）
 
-### [Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">asma</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5)
-
----
-
 ### [Eine verhängnisvolle Affäre: COPD und Herzerkrankung](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
+
+---
+
+### [Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">asma</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbU51NUI1Y2Z2NGc5TEJoNTZueEQ3c241ZUVNX2RFazUxYVdMNVZ0ZmVpeTQwRXE2WkU2RWVBaXRFd1ZoMGdXdGdRSUFmRkhRZGNRNTFCb2d2NnRmcmZNcUdXdHN1UUdFQmtvR09sRWFVSVl3cFNDazN5Z2w0c3dKLXZLLVZKeDRnTXdVZTVOdkJMVks1X3gyWGJxTS0tYzJUejVnb2p3NVEwV0NPM3lFcVFQSGhxQkZ4TGpGVEh4dTNhREF3anZZVFRDNlh6blZQ?oc=5)
 
 ---
 
