@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### ['Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia' - El Independiente de Granada](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1QzUzNlNlJTUUNlUGgwcDVOY0FaVTNlcUhvZnhVdkNEaEdFTkZEQThQSGd4TUlxb3VITmRudzV4VlFCOGpwOVJ3QlRYZnp6LWNBQWJTMjBxamVrMFBHWWE2NGJNazVvUDZhMFR2X2RrUWxiTUlpLUhZUXFtNGFwMjdObDB5YVhIS3JjdkY3MVZCLVJjTGhmQUdISkVGbHpLVlB5dU9ZeXRxZzBERm9EeUY2cjhnSFdtNVFncGVMVQ?oc=5)
+
+2026-05-16 <span class="news-indication-tag">asma</span>
+
+來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1QzUzNlNlJTUUNlUGgwcDVOY0FaVTNlcUhvZnhVdkNEaEdFTkZEQThQSGd4TUlxb3VITmRudzV4VlFCOGpwOVJ3QlRYZnp6LWNBQWJTMjBxamVrMFBHWWE2NGJNazVvUDZhMFR2X2RrUWxiTUlpLUhZUXFtNGFwMjdObDB5YVhIS3JjdkY3MVZCLVJjTGhmQUdISkVGbHpLVlB5dU9ZeXRxZzBERm9EeUY2cjhnSFdtNVFncGVMVQ?oc=5)
+
+---
 
 ### [Eine verhängnisvolle Affäre: COPD und Herzerkrankung](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
 

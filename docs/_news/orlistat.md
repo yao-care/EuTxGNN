@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+
+2026-05-16 <span class="news-indication-tag">obesity</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+
+---
 
 ### ['Our baby had a stroke moments after birth - we're now celebrating her first birthday' - STV News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FwUUdjVW01T19pc19OcnZDazE2c2ZFcUxabkNPSm14eTc5ZGE3SFpoelR6WTU2bGlTNmUxSWRTZnJ6LXdVaEN3d0J4d1RGMXU1OWRBSFpoWEV6OEhfZmVkbkw0bko1ajB5NXNkYWUzYmliRElpNXdGSVJsR3NNblpPVzNkZ04yTk93RnU2eVl0TUw1dlVfZFRCaVdYcFRneVlkWXFsUUI0OHpHNjJpZ2xrZTNOLWhxSTg4dG94UFVQRjZI?oc=5)
 
@@ -70,17 +78,9 @@ permalink: /news/orlistat/
 
 ---
 
-### [I’m a neuroscientist, but the way weight-loss drugs changed how I think surprised me - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGdNd1pvS2dnMDJGYUR1T1FCMFJZYUFiOWxMcS1WYWI5cmhYNXdkS1VaYXhiaGxhQmN1eW5jTEIyc0FEZFhIQ2hsUVNNNDJPR0Y5VjhzcEpqNTd6WmxkX05MWWowaldEcHItRDZaZTdEOWNQZ09ST3BqaDdsakFnNHNtMHVHNEpCd3pTTGxOYjFHWG85ZzJGYW9Rd05sVFBZdWlKUml3?oc=5)
-
-2026-05-15 <span class="news-indication-tag">obesity</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGdNd1pvS2dnMDJGYUR1T1FCMFJZYUFiOWxMcS1WYWI5cmhYNXdkS1VaYXhiaGxhQmN1eW5jTEIyc0FEZFhIQ2hsUVNNNDJPR0Y5VjhzcEpqNTd6WmxkX05MWWowaldEcHItRDZaZTdEOWNQZ09ST3BqaDdsakFnNHNtMHVHNEpCd3pTTGxOYjFHWG85ZzJGYW9Rd05sVFBZdWlKUml3?oc=5)
-
----
-
 ### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
-2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+2026-05-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
@@ -91,22 +91,6 @@ permalink: /news/orlistat/
 2026-05-14 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
-
----
-
-### [Wann Inkretinmimetika für Kinder und Jugendliche?](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JmVGh1ck5sY1Rtdm1tQUJ6LXlHMkN0RXppOEl3Mjc4SEpkd0hQZVV3N1ltWmZWWDlmNW0ybWhGU2FBUTl1aTVxczI3YjRVb1YwTlBpNkM1Ql9rYkhFTTJ3c0Rham5hMkl2bFlTWk1xMjZhQ2pFLVViRFkxOTQ2TDJ5VGxid2xjcDZ4bmZzT2VXWVNHWDJBejhkVTZXY00?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JmVGh1ck5sY1Rtdm1tQUJ6LXlHMkN0RXppOEl3Mjc4SEpkd0hQZVV3N1ltWmZWWDlmNW0ybWhGU2FBUTl1aTVxczI3YjRVb1YwTlBpNkM1Ql9rYkhFTTJ3c0Rham5hMkl2bFlTWk1xMjZhQ2pFLVViRFkxOTQ2TDJ5VGxid2xjcDZ4bmZzT2VXWVNHWDJBejhkVTZXY00?oc=5)
-
----
-
-### [Neue Ansätze in der Diabetes-Therapie: Herausforderungen und Chancen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
-
-2026-05-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
 
 ---
 

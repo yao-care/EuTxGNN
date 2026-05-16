@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Salute, controlli dei Nas contro epatite A: sequestrate 16 tonnellate di alimenti](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTW05Q3VlSWVGSGkzZnFnNUpPeS1KYmk0dERDNmdxRDhQZXZfNDN3ZTg4c0h4RkFEdmlSWkJjR3BvT1JnMl9SdFVaV01KV2lNOV9JU0V5dkRrbVFzRnZtMzV2NUVvN3pFV2dlZ0ZHVzcySnV0V2U2aFZlREczQzNqX25TX09xczhERXdRYzJTWEJqTzVGOTR1SlczRXjSAWhBVV95cUxPVkRCVE42YkI0NVoxVmNYT3FSODNtaWEtQWgtWjkyVUJBRTVEb0NfN0FWdFE5blZvZGRnYVkwalJoTUFFdFA1NDRvUGMtZ2FUcnNuNzhUU2Jndll5TjN6YVpjZVI4Uld4UQ?oc=5)
+
+2026-05-16 <span class="news-indication-tag">epatite</span>
+
+來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTW05Q3VlSWVGSGkzZnFnNUpPeS1KYmk0dERDNmdxRDhQZXZfNDN3ZTg4c0h4RkFEdmlSWkJjR3BvT1JnMl9SdFVaV01KV2lNOV9JU0V5dkRrbVFzRnZtMzV2NUVvN3pFV2dlZ0ZHVzcySnV0V2U2aFZlREczQzNqX25TX09xczhERXdRYzJTWEJqTzVGOTR1SlczRXjSAWhBVV95cUxPVkRCVE42YkI0NVoxVmNYT3FSODNtaWEtQWgtWjkyVUJBRTVEb0NfN0FWdFE5blZvZGRnYVkwalJoTUFFdFA1NDRvUGMtZ2FUcnNuNzhUU2Jndll5TjN6YVpjZVI4Uld4UQ?oc=5)
+
+---
 
 ### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
 
@@ -62,17 +70,17 @@ permalink: /news/givosiran/
 
 ---
 
-### [Casi la mitad de los españoles sitúa las cifras de hipertensión por encima del valor real](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXEtWl9sSGFIQW03NGM0WmNoN2tZb1FlTTlITENnSk1fWUNCbThEX1Y0UUFRUWxJNUVuTDRKWkpsV01rX1lObTJST0R4UDhRT3JrWmF5Q0E5NE4tRXlCRUdWMFJlbnBib1NJTzJwd0h1V0xIM1FtaUZmSFFxMnc5RDdNVzcyNVBBUlF5Z0tFOTdjdEs4R0tMV1dJTW9JUzVGbE1xRzVqUFFJQUVtclFpYWdXNUx5Z0hHR1ltVHNkTjBQQTQ?oc=5)
+### [Vithas Castellón alerta sobre la hipertensión, el enemigo silencioso que afecta a uno de cada tres adultos](https://news.google.com/rss/articles/CBMinAJBVV95cUxOOWlfWTZKd3lrM0lEb25KSjJnVXprMVNzSFRmMFZhS1g3eENVU2VuS2JLTXN5dzZHbjFkREtXekdDRDAtSmF0cTMxbzB1YkQ1ZUdTN2ZlbXZUNF80cEN1SVlQY3hTakpWSml6WHVQMzIxUHdzek9ORWZwRW5fbURYbFV4cHJMUm52cGJHZVpySjUyNmZac1dVTjU1a1BjV0JrT3B3aXVZZzZnaG1yUEdLYWdxUWl0U0huUnYyWHA2RldyWmRJcW5XNFdHbUNZamZhR2x2b2ZaMmVfdVNodEI3MXBOT2hBblVSdFQ2d215V2REYkE1Nm4yc0xIeVVyTC1ucnNHYUFsbzBKUmdGNlFkQy1YZG1zUHB0Y2xHV9IBogJBVV95cUxQTTZ6Z0hDWE9wMnNWM01hRkhSNFJwdnM1V2V2dThUb1NPTTE3bGlFR241ZFhCSTlQQXVudWxPVjREQVVYdXVWOXdnaHJUQ0Y5NGFPcGpmektMX3I2NVBhRkR6Q0xydTZBa3JqaEc4NVl1TUxGUzhlM0JQbVB6YnZIM1Z5WTgzU3VPS1FONzhIa1pkXzF3QXRuUktuRG9DUjcwMXB1VXJhT3dpOWgtdURqcExwT3RfRWpQR0p6UGd5U094dUpqYkwtRUd3RGhxdmdfdFpGdTNMRFJBWV9IcnlXZkNnNXNVNm40bnNiZno4ZHFJNUNuYlNkNUk5NnBxM2duY3FXc2J4c2d6dDM4cURucmZMT2JxMmE3X0t1bjRuRXlWZw?oc=5)
 
-2026-05-15 <span class="news-indication-tag">hipertensión</span>
+2026-05-15 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sinc](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXEtWl9sSGFIQW03NGM0WmNoN2tZb1FlTTlITENnSk1fWUNCbThEX1Y0UUFRUWxJNUVuTDRKWkpsV01rX1lObTJST0R4UDhRT3JrWmF5Q0E5NE4tRXlCRUdWMFJlbnBib1NJTzJwd0h1V0xIM1FtaUZmSFFxMnc5RDdNVzcyNVBBUlF5Z0tFOTdjdEs4R0tMV1dJTW9JUzVGbE1xRzVqUFFJQUVtclFpYWdXNUx5Z0hHR1ltVHNkTjBQQTQ?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMinAJBVV95cUxOOWlfWTZKd3lrM0lEb25KSjJnVXprMVNzSFRmMFZhS1g3eENVU2VuS2JLTXN5dzZHbjFkREtXekdDRDAtSmF0cTMxbzB1YkQ1ZUdTN2ZlbXZUNF80cEN1SVlQY3hTakpWSml6WHVQMzIxUHdzek9ORWZwRW5fbURYbFV4cHJMUm52cGJHZVpySjUyNmZac1dVTjU1a1BjV0JrT3B3aXVZZzZnaG1yUEdLYWdxUWl0U0huUnYyWHA2RldyWmRJcW5XNFdHbUNZamZhR2x2b2ZaMmVfdVNodEI3MXBOT2hBblVSdFQ2d215V2REYkE1Nm4yc0xIeVVyTC1ucnNHYUFsbzBKUmdGNlFkQy1YZG1zUHB0Y2xHV9IBogJBVV95cUxQTTZ6Z0hDWE9wMnNWM01hRkhSNFJwdnM1V2V2dThUb1NPTTE3bGlFR241ZFhCSTlQQXVudWxPVjREQVVYdXVWOXdnaHJUQ0Y5NGFPcGpmektMX3I2NVBhRkR6Q0xydTZBa3JqaEc4NVl1TUxGUzhlM0JQbVB6YnZIM1Z5WTgzU3VPS1FONzhIa1pkXzF3QXRuUktuRG9DUjcwMXB1VXJhT3dpOWgtdURqcExwT3RfRWpQR0p6UGd5U094dUpqYkwtRUd3RGhxdmdfdFpGdTNMRFJBWV9IcnlXZkNnNXNVNm40bnNiZno4ZHFJNUNuYlNkNUk5NnBxM2duY3FXc2J4c2d6dDM4cURucmZMT2JxMmE3X0t1bjRuRXlWZw?oc=5)
 
 ---
 
 ### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
-2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+2026-05-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 

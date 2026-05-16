@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Michele Solimena mit Paul-Langerhans-Medaille 2026 der DDG geehrt - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmc5eVFGV2xNMkFLaEt5c0NkMFFBZ0F3MFBIU0VlajJvOFQzU1UxbXRxdkhkUTlUQy1HMWota1NjTnpNV0VtaFMtd2tHOFc4dmhfUmdORkl1UUN1a29XdWc4Ty1kZEVOaUxfSlB5OTIzRlRxeW01a205SUxjSHM5Y05WQ0VVc0huR0l0U2FrZUgwR2o2MEFVa0dZNA?oc=5)
 
@@ -75,22 +75,6 @@ permalink: /news/natalizumab/
 2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
-
----
-
-### [Asst Crema e Over limits: 'movimento è cura'](https://news.google.com/rss/articles/CBMingFBVV95cUxPNmctTVFIUWNxQ1cwdkhQQWdydGMyT2puTm5DdHJUT3dqS1dTWlM5b3NyNkk1YU1rcGRiOU56Z01DSTZmU2MyTkcyem5oekpJRjJnejJQNEstS1FaeTF4eWsyejkxdjdJZlBiMmJzVFk2Zkh1YnZUejdaa0Q0cXhMSVFWenV3QnRSTzlsRFdaQXA1blFJbVBVUEJ1TXZJQQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">diabete</span>
-
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMingFBVV95cUxPNmctTVFIUWNxQ1cwdkhQQWdydGMyT2puTm5DdHJUT3dqS1dTWlM5b3NyNkk1YU1rcGRiOU56Z01DSTZmU2MyTkcyem5oekpJRjJnejJQNEstS1FaeTF4eWsyejkxdjdJZlBiMmJzVFk2Zkh1YnZUejdaa0Q0cXhMSVFWenV3QnRSTzlsRFdaQXA1blFJbVBVUEJ1TXZJQQ?oc=5)
-
----
-
-### [Neue Ansätze in der Diabetes-Therapie: Herausforderungen und Chancen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
-
-2026-05-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
 
 ---
 

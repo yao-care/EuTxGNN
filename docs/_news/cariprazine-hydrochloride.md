@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
-
-### [La reacción mundial al hantavirus es una secuela de la pandemia por COVID - Los Angeles Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGJoMjQydnRYUG00NkFHYjJhUFl5dlBiRDVwZGlmSXVQazBoaUUxWU9XOWlPY1hHUE1FUTJlN05WblBISGNFd25mem54LXZyc3UwT0oyR0RSME1aX0o4Z1Bud04zcHM2U3ZHNERfbjNsRlJkSWdKWktrVzdOenQ4dTNqTVd1SEFqT1hMV2d3MmZIaXc3Wi1GNUlHMUlscG5zUmtFc2dXd1Z0ejNuMHRpTW9vcDd6YkdjSi1CNTAyTnRDZVJIS2NacjVn?oc=5)
-
-2026-05-15 <span class="news-indication-tag">MS</span>
-
-來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGJoMjQydnRYUG00NkFHYjJhUFl5dlBiRDVwZGlmSXVQazBoaUUxWU9XOWlPY1hHUE1FUTJlN05WblBISGNFd25mem54LXZyc3UwT0oyR0RSME1aX0o4Z1Bud04zcHM2U3ZHNERfbjNsRlJkSWdKWktrVzdOenQ4dTNqTVd1SEFqT1hMV2d3MmZIaXc3Wi1GNUlHMUlscG5zUmtFc2dXd1Z0ejNuMHRpTW9vcDd6YkdjSi1CNTAyTnRDZVJIS2NacjVn?oc=5)
-
----
+## 相關新聞（12 則）
 
 ### [OMS moviliza expertos tras nuevo brote de ébola en la RDC](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZF85ZXVQWllLQ21aUFZGN292eXBhMkp2V1V3WXJnVmt2Rm0tSzN6N1FWOW44cDFBd2pIR3RBOXktT2Y0ODhPN3JsSVJ4algtbUdnWHJ6dXB2RHhySV84dXdOUENsV0Rudm5YUkpsZGhOX190c1A5N1YyUWFHYVZReTJtX0FNUmhLT3dmSDlJQ0d0c2w2aklHNGRXMNIBmwFBVV95cUxQNjhDemlsTkE5Z01rbWlLYVlRV3A0cHZHdGRBQzVFVzlCdkc0MDF1MURuMVF5aEg4cGEzSVUzTWhsZllwX1VKTV9iQmNFQkxvNVRnZzhpM0VnbEpWTVl6TEV6VnRtXy1ZMFEyNVZSS1lUQ3d6UHpRRGJoZ2Q2Zk11VUNkSjQ3dVZMa0h3bzFYeUR4aFVTeGZ5aUJXaw?oc=5)
 
@@ -94,6 +86,14 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [Visiting Museums May Slow Your Biological Aging, Study Finds](https://news.google.com/rss/articles/CBMikgFBVV95cUxQdkJib0dLWjJ5aWd2b1p6ck9aN25CU0dfQ3RMUU1IRDFIVERnYTJqbnkwLU95YlZiN0NzRmxZc2VsT2J6aTl4TFd2WFpwdW1HUnl5Z3hvVWZMNVgyRXNqTmhnV2tWMjE5S2NHVzJBM214R1dBTXZsQWZxbllWWG1hWWU0RVlQRjN1dm5kV2lDdERhUQ?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikgFBVV95cUxQdkJib0dLWjJ5aWd2b1p6ck9aN25CU0dfQ3RMUU1IRDFIVERnYTJqbnkwLU95YlZiN0NzRmxZc2VsT2J6aTl4TFd2WFpwdW1HUnl5Z3hvVWZMNVgyRXNqTmhnV2tWMjE5S2NHVzJBM214R1dBTXZsQWZxbllWWG1hWWU0RVlQRjN1dm5kV2lDdERhUQ?oc=5)
+
+---
+
 ### [„Erwachsene mit ADHS haben keine Lifestyle-Krankheit“ - RP Online](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXJmZjNyTEJiQTM3cTZ0LUpVSWk3S2dhZEhNSEVpZVUwWmhFWkdSUmxBWnpyZTdmNWpQV0xtMFpVbHF4Y2tMQTVYYjItZEdzZ18wRVI4T094NU5ON0R4a0EzS3RQNFBqNE5pWm1QNTZya2pKbjZGSGhBY09xTzNCU01DblRjbDEyUWZhX2JZUVVsVTd0VFdGbElKdVdXVkUtaFN2V0haZzA2dWRCbTV2MElmRDNlZw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
@@ -115,14 +115,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-05-15 <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0htelZtb0FnY1VPYU5RU2o4UTRWMFQ3b25sY3pGbGswSnJkSVFhRi1hMmFuSmdabzFHeTdRZFptYkd3M1pWMThWRU4xRW0xNDlSaDFiMFduTndHM1NTUWhLOURyTTFmME11RGhoRndKV1ZvYXZJRXVtNnM2eGJuMFpB0gGHAUFVX3lxTE9xMVd1R21FcTRBdUR5V24zdzY0eDFUREZYQ2ppQ0xicWk1VUJZRzJFU09XS3NUWkgxMnY3Q0E2SE9RQmVMQWJGcVJQYjNNd2xfY002c09QZG0wN2JJdFM2RUwwMGRkbVc5bUcwdjJqZC1GR182WTR0U2pSZDVQbDUtYndjTjA0dw?oc=5)
-
----
-
-### [Hull £48m hub aims to transform treatment for chronic wounds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE52cmVoZFdYR0JrRElYRkVMd1pxQ2hCbUh5djA4RWs4MHFaY1BpVmpyb1ZSMkllSFFZOGFNSlVTa2FYdDFXaWRKT3NFbjhYNWQ4ZlpJS0ZXaWNMVGRC?oc=5)
-
-2026-05-15 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE52cmVoZFdYR0JrRElYRkVMd1pxQ2hCbUh5djA4RWs4MHFaY1BpVmpyb1ZSMkllSFFZOGFNSlVTa2FYdDFXaWRKT3NFbjhYNWQ4ZlpJS0ZXaWNMVGRC?oc=5)
 
 ---
 
@@ -155,14 +147,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-05-14 <span class="news-indication-tag">MS</span>
 
 來源：[MSN](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2c4T01YWVFxdDk3SFVWNDIzZnEzVUM3dE5XM1RVQWxYVG1rM3haeXNjMFF6cW5GSnRfWTc5WktwV01YY2l6Y0RLVWdRUUx0cTZtS3pSTzZLNG5NTDY0ZXIyYV9ZTGZNZzRackFWdFJHRmo3OWdDcXNHQ3NEM2MxcTZyV21FdHRFS01TaTJ6TUpieV9LWUNCdlV5RUdDMHg2WFpobWN4OEFONng2YUJIUVFvNnFKOEdDWVZGeHpxV1VPTjJQc0xWUzBZLXZfajQya29iVGF5Xzg?oc=5)
-
----
-
-### [Les médecins sont unanimes : les personnes qui paraissent jeunes à 60 ans consomment toutes cet aliment pas cher au quotidien](https://news.google.com/rss/articles/CBMiiwJBVV95cUxORmNzaEdIN2syY1pmaS1JMEczam95X0NDejU1dGVsNFR1LXhTMk5JVFdTMnQ1YWxiZEdsV2w0REN2c2pCamR6SDk2a3hPLXBrQ0dXazhaLWFoVXJTQWF5M2J3MmFMQ0lxRGpSbkJ1U1QtakhHOHRqVjBwWk5NT2Zqd0R3Z1pmRVhYcU80cTBPb2p6UnhFODl0allCaU0yS0FNVWJ2WDF2UnktNE8zT3dxNThGblk0d0UzQlRnR2hyeFk1eU8tVzhPX1dnM2YzWF96U3FkMVhRNTJwS2llWkVQbVQxeF93Mzg2akR4TkpGWDg4WF9xc1Y4Q05QLXd5NDJPWUVFOVJDUG0xRW8?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span>
-
-來源：[grazia.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxORmNzaEdIN2syY1pmaS1JMEczam95X0NDejU1dGVsNFR1LXhTMk5JVFdTMnQ1YWxiZEdsV2w0REN2c2pCamR6SDk2a3hPLXBrQ0dXazhaLWFoVXJTQWF5M2J3MmFMQ0lxRGpSbkJ1U1QtakhHOHRqVjBwWk5NT2Zqd0R3Z1pmRVhYcU80cTBPb2p6UnhFODl0allCaU0yS0FNVWJ2WDF2UnktNE8zT3dxNThGblk0d0UzQlRnR2hyeFk1eU8tVzhPX1dnM2YzWF96U3FkMVhRNTJwS2llWkVQbVQxeF93Mzg2akR4TkpGWDg4WF9xc1Y4Q05QLXd5NDJPWUVFOVJDUG0xRW8?oc=5)
 
 ---
 

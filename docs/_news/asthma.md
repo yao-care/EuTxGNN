@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ['Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia' - El Independiente de Granada](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1QzUzNlNlJTUUNlUGgwcDVOY0FaVTNlcUhvZnhVdkNEaEdFTkZEQThQSGd4TUlxb3VITmRudzV4VlFCOGpwOVJ3QlRYZnp6LWNBQWJTMjBxamVrMFBHWWE2NGJNazVvUDZhMFR2X2RrUWxiTUlpLUhZUXFtNGFwMjdObDB5YVhIS3JjdkY3MVZCLVJjTGhmQUdISkVGbHpLVlB5dU9ZeXRxZzBERm9EeUY2cjhnSFdtNVFncGVMVQ?oc=5)
+
+2026-05-16
+
+來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1QzUzNlNlJTUUNlUGgwcDVOY0FaVTNlcUhvZnhVdkNEaEdFTkZEQThQSGd4TUlxb3VITmRudzV4VlFCOGpwOVJ3QlRYZnp6LWNBQWJTMjBxamVrMFBHWWE2NGJNazVvUDZhMFR2X2RrUWxiTUlpLUhZUXFtNGFwMjdObDB5YVhIS3JjdkY3MVZCLVJjTGhmQUdISkVGbHpLVlB5dU9ZeXRxZzBERm9EeUY2cjhnSFdtNVFncGVMVQ?oc=5)
+
+---
 
 ### [Asma, a Bergamo e provincia la campagna sui rischi dell’«inalatore blu» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEhfNWdfcWlPMzlXb01fTkNOMmdQNExGU19scndyTW5welZaVUlOSVNKSl9pdTVxWWsyQ3J1cFRhUkswZUNURl9hSUhrcEx2bjBZRGs1ZTFyQXlobk9zbVpwcHRTX2E2TFJrOGZfd0NTSjR1aXl5dzBudi1PeDdyTlRVZFVVSEJJOVFxQUM5MUljLVBHaHQwMFdKd1Ryb0F6T0RYeXAtU0RoMnYxX2NQbXFsZ3BNNmMwYktFOG5QOW1lTmZwbE9lNG9scXRxaWhEa2dNWHRR?oc=5)
 

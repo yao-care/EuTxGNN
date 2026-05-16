@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
+
+### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+
+2026-05-16 <span class="news-indication-tag">obesity</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+
+---
 
 ### [Punture per dimagrire, come non riprendere peso dopo? La nuova pillola (molto più economica) che riduce l'appetito - Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjkxRkZKUDA3WXMzeGNuNVA5LXIwZEhXNktHSkRaVDVNSTl5WENRM1A4VEpaMmZjR0NtUXgxY1NVTlpWMVBxTEJOdk1ocllqNDhxTGVxMmdVakdhWm5qeU5TRWJGMEVVSS1KcEVMd1BuQmluSTFDekxGb1E3MFdwOE5QWnREbVhWMDM5Y1cyWGF4T2lQLXVmOHE5cmUzTXFaSkQ3UVJYUFRYbTDSAZgBQVVfeXFMTWVjVXRLcEFiNDZFZFRWQVYydVBTVEpqS3FfQ2tsX1JsNUtzMlJ0b2ctZ1JoOXVaeGNOdEFPR0JiaXNxWFJrQU16UUtZLUpJbFFITUVfNWZESmpCUWtRRWE2aWRiWk9udHZjUGNVZXpPc1Q4YWpxdmVrU2dCTHFBMWFieEM3Q01YZi1Tb0hzcGloQmlYbzJscnQ?oc=5)
 
@@ -62,35 +70,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [I’m a neuroscientist, but the way weight-loss drugs changed how I think surprised me - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGdNd1pvS2dnMDJGYUR1T1FCMFJZYUFiOWxMcS1WYWI5cmhYNXdkS1VaYXhiaGxhQmN1eW5jTEIyc0FEZFhIQ2hsUVNNNDJPR0Y5VjhzcEpqNTd6WmxkX05MWWowaldEcHItRDZaZTdEOWNQZ09ST3BqaDdsakFnNHNtMHVHNEpCd3pTTGxOYjFHWG85ZzJGYW9Rd05sVFBZdWlKUml3?oc=5)
-
-2026-05-15 <span class="news-indication-tag">obesity</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGdNd1pvS2dnMDJGYUR1T1FCMFJZYUFiOWxMcS1WYWI5cmhYNXdkS1VaYXhiaGxhQmN1eW5jTEIyc0FEZFhIQ2hsUVNNNDJPR0Y5VjhzcEpqNTd6WmxkX05MWWowaldEcHItRDZaZTdEOWNQZ09ST3BqaDdsakFnNHNtMHVHNEpCd3pTTGxOYjFHWG85ZzJGYW9Rd05sVFBZdWlKUml3?oc=5)
-
----
-
 ### [Adipositastherapie mit Inkretinmimetika: Braucht es Kriterien für eine lebenslange Therapie? - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
 
 2026-05-14 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
-
----
-
-### [Wann Inkretinmimetika für Kinder und Jugendliche?](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JmVGh1ck5sY1Rtdm1tQUJ6LXlHMkN0RXppOEl3Mjc4SEpkd0hQZVV3N1ltWmZWWDlmNW0ybWhGU2FBUTl1aTVxczI3YjRVb1YwTlBpNkM1Ql9rYkhFTTJ3c0Rham5hMkl2bFlTWk1xMjZhQ2pFLVViRFkxOTQ2TDJ5VGxid2xjcDZ4bmZzT2VXWVNHWDJBejhkVTZXY00?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JmVGh1ck5sY1Rtdm1tQUJ6LXlHMkN0RXppOEl3Mjc4SEpkd0hQZVV3N1ltWmZWWDlmNW0ybWhGU2FBUTl1aTVxczI3YjRVb1YwTlBpNkM1Ql9rYkhFTTJ3c0Rham5hMkl2bFlTWk1xMjZhQ2pFLVViRFkxOTQ2TDJ5VGxid2xjcDZ4bmZzT2VXWVNHWDJBejhkVTZXY00?oc=5)
-
----
-
-### [Neue Ansätze in der Diabetes-Therapie: Herausforderungen und Chancen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
-
-2026-05-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/onasemnogene-abeparvovec/
 ---
 
 <p class="key-answer" data-question="Onasemnogene Abeparvovec 有什麼相關新聞？">
-<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/onasemnogene-abeparvovec/
 <p><a href="{{ '/drugs/onasemnogene-abeparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（21 則）
 
-### [«Tumore al polmone, molecola ibrida aiuta a distruggere le cellule malate»: la nuova ricerca italiana - Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjVGazFBT0RXdXdiTjk4ZVFZaHZvbWpBLUxTb2preEdhYWFzTVptWE9CZFNqUW04ZGtqeHljc0ozZGdFaFNpT0tzSU53aFJpN193WnRCS1Z2dDRNZ051ejU2OFM5QTVlWjBOaUlkMzNkQ3A5ZTRJS3R5cVRpUEJFUHpUQXctX2xZQTBCcDI4QjJpZFh5WDdUVUpjMXBLdkHSAZgBQVVfeXFMTUltcWhsTElfNWRWSE1YZkZ6NGdoMWxhR2hrNUgxTXlDam9VVFBvOTd6emZobl9YT2d4VU5KUklKM291MC1jMmFGVFVDNWotZ2J3OXZtWVVlNENTWEZic3FCX1N6M3YzdE5MWFJzWFo2eWVCa1d2NExvdEZkNGpnNUdhRGxMX05YS3FvT29LX1JBYlF3T1doRlM?oc=5)
+### [« Cette maladie est foudroyante » : une campagne pour sensibiliser aux cancers du cerveau](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0NHYmZVdGw4WGZwLXY4RXBJR21VUGhBS3Y1Zl93QTl4RWN4aGpGNjItdTd5OGxlX00yVDJrc2FhLU5pSWMtbjVGZFUwcFlzRFN5WkdBRVBPM0s0Mmx6QUJ4dlpORVZBRFRnVXBYUjc5X0hrSGhXUFJybUNQQU5wb0xWVFhxbjhlb2tKQk9GYWpaRGxid3pSQkprR0w0VzBMSDBBeElGMlgydUlCY2JhT2pjQXJNMXlJRFdNYU83WHQtbXVYT2lqWmk0aFEzTElaNmVKUjM5S1BzUWpsTmJKU2RJU1JJU1NaX1lDMGhn?oc=5)
 
-2026-05-15 <span class="news-indication-tag">tumor</span>
+2026-05-16 <span class="news-indication-tag">cancer</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjVGazFBT0RXdXdiTjk4ZVFZaHZvbWpBLUxTb2preEdhYWFzTVptWE9CZFNqUW04ZGtqeHljc0ozZGdFaFNpT0tzSU53aFJpN193WnRCS1Z2dDRNZ051ejU2OFM5QTVlWjBOaUlkMzNkQ3A5ZTRJS3R5cVRpUEJFUHpUQXctX2xZQTBCcDI4QjJpZFh5WDdUVUpjMXBLdkHSAZgBQVVfeXFMTUltcWhsTElfNWRWSE1YZkZ6NGdoMWxhR2hrNUgxTXlDam9VVFBvOTd6emZobl9YT2d4VU5KUklKM291MC1jMmFGVFVDNWotZ2J3OXZtWVVlNENTWEZic3FCX1N6M3YzdE5MWFJzWFo2eWVCa1d2NExvdEZkNGpnNUdhRGxMX05YS3FvT29LX1JBYlF3T1doRlM?oc=5)
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0NHYmZVdGw4WGZwLXY4RXBJR21VUGhBS3Y1Zl93QTl4RWN4aGpGNjItdTd5OGxlX00yVDJrc2FhLU5pSWMtbjVGZFUwcFlzRFN5WkdBRVBPM0s0Mmx6QUJ4dlpORVZBRFRnVXBYUjc5X0hrSGhXUFJybUNQQU5wb0xWVFhxbjhlb2tKQk9GYWpaRGxid3pSQkprR0w0VzBMSDBBeElGMlgydUlCY2JhT2pjQXJNMXlJRFdNYU83WHQtbXVYT2lqWmk0aFEzTElaNmVKUjM5S1BzUWpsTmJKU2RJU1JJU1NaX1lDMGhn?oc=5)
+
+---
+
+### ['Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia' - El Independiente de Granada](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1QzUzNlNlJTUUNlUGgwcDVOY0FaVTNlcUhvZnhVdkNEaEdFTkZEQThQSGd4TUlxb3VITmRudzV4VlFCOGpwOVJ3QlRYZnp6LWNBQWJTMjBxamVrMFBHWWE2NGJNazVvUDZhMFR2X2RrUWxiTUlpLUhZUXFtNGFwMjdObDB5YVhIS3JjdkY3MVZCLVJjTGhmQUdISkVGbHpLVlB5dU9ZeXRxZzBERm9EeUY2cjhnSFdtNVFncGVMVQ?oc=5)
+
+2026-05-16 <span class="news-indication-tag">asma</span>
+
+來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1QzUzNlNlJTUUNlUGgwcDVOY0FaVTNlcUhvZnhVdkNEaEdFTkZEQThQSGd4TUlxb3VITmRudzV4VlFCOGpwOVJ3QlRYZnp6LWNBQWJTMjBxamVrMFBHWWE2NGJNazVvUDZhMFR2X2RrUWxiTUlpLUhZUXFtNGFwMjdObDB5YVhIS3JjdkY3MVZCLVJjTGhmQUdISkVGbHpLVlB5dU9ZeXRxZzBERm9EeUY2cjhnSFdtNVFncGVMVQ?oc=5)
 
 ---
 
@@ -110,11 +118,27 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [DIPEx-Projekt erweitert Online-Angebot zu Krankheitserfahrungen um Hautkrebs-Modul - Medizinische Hochschule Brandenburg Theodor Fontane (MHB)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
+### [DIPEx-Projekt erweitert Online-Angebot zu Krankheitserfahrungen um Hautkrebs-Modul - Medizinische Hochschule Brandenburg Theodor Fontane](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
 
 2026-05-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[Medizinische Hochschule Brandenburg Theodor Fontane (MHB)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
+來源：[Medizinische Hochschule Brandenburg Theodor Fontane](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
+
+---
+
+### [Salerno, lotta al tumore del polmone: lo studio con la nuova molecola ibrida - Il Mattino](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkgwZm5SSmloSm56YUROM2FYVUpoSG1NWTBMZ2trUENQLTRaRVozMVUxWGQ5RHh6OUcxMHNWeWVkODk5V0g2Q3NJNHcwRmdtVDVUamR5aGRFQlNkdzhPemxiOUFXcE9lNGRPMGVtNXJETzVBNDB3dnlCTXlMb09BazgtYU9uWExUaDg2Wi02ZVlhMjdfTmcwSk5ydTFxRm9VR2NlNmZTa2RlQ3JlN3dQc2tFeHR1U3RzTkdN0gHAAUFVX3lxTE9wWVJNNGczSkEtRVRHajZlV3dSV0oyeGJwbGtMRTdGQnh0a055UnpMeU5YMDUyeDFWUkE0YVd5akdpbDVWWkFYRmo0UUY5V3hyNmp5ZFM4Tzl5aURkWGhQYzBRbmpyWVRzOEVBWURmT2lXdmRYSkZMNERVelNvdUtpa0puVGRQbnFxMV9ycWJ1cEZ2bFhpYXNIOF9EOFMyNjJqN1RnM2xkeFVpaDlnWkRnSl9LeUZEVUVuVEkzNDJ2Vw?oc=5)
+
+2026-05-15 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkgwZm5SSmloSm56YUROM2FYVUpoSG1NWTBMZ2trUENQLTRaRVozMVUxWGQ5RHh6OUcxMHNWeWVkODk5V0g2Q3NJNHcwRmdtVDVUamR5aGRFQlNkdzhPemxiOUFXcE9lNGRPMGVtNXJETzVBNDB3dnlCTXlMb09BazgtYU9uWExUaDg2Wi02ZVlhMjdfTmcwSk5ydTFxRm9VR2NlNmZTa2RlQ3JlN3dQc2tFeHR1U3RzTkdN0gHAAUFVX3lxTE9wWVJNNGczSkEtRVRHajZlV3dSV0oyeGJwbGtMRTdGQnh0a055UnpMeU5YMDUyeDFWUkE0YVd5akdpbDVWWkFYRmo0UUY5V3hyNmp5ZFM4Tzl5aURkWGhQYzBRbmpyWVRzOEVBWURmT2lXdmRYSkZMNERVelNvdUtpa0puVGRQbnFxMV9ycWJ1cEZ2bFhpYXNIOF9EOFMyNjJqN1RnM2xkeFVpaDlnWkRnSl9LeUZEVUVuVEkzNDJ2Vw?oc=5)
+
+---
+
+### [Hospital receives £2m boost to improve cancer care](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
+
+2026-05-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
 
 ---
 
@@ -158,14 +182,6 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Quattro tumori al cuore scoperti durante un controllo: 39enne salvato dall'equipe di cardiochirurgia di Treviso](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGVIU0NvQ2VwUTlSTVV3SjRNWjU1d1hReDkySzl4d2dvQ2hKU0dCMkhLMWh3WXlud004WGExQzRBRmt3WEZ1bUZ4c2hqZzJOR2xjOEFJNmdjT0R2Mk1rZ1czZ25NSkRnN3hBVjF0T2RucjJWSHdvbWcyc0tXckNqZnZHR2twVUxOVkhNVWQ5MzBpVVdJdWJGVXlmQzR1bGliTEF6NlowaFVuNkdTNmVMRW9MZ3l2WnZvY3VsOTNmLWZ5U001N2dDSEJQdWp4ZEpOUHplSlF3?oc=5)
-
-2026-05-14 <span class="news-indication-tag">tumor</span>
-
-來源：[OggiTreviso](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGVIU0NvQ2VwUTlSTVV3SjRNWjU1d1hReDkySzl4d2dvQ2hKU0dCMkhLMWh3WXlud004WGExQzRBRmt3WEZ1bUZ4c2hqZzJOR2xjOEFJNmdjT0R2Mk1rZ1czZ25NSkRnN3hBVjF0T2RucjJWSHdvbWcyc0tXckNqZnZHR2twVUxOVkhNVWQ5MzBpVVdJdWJGVXlmQzR1bGliTEF6NlowaFVuNkdTNmVMRW9MZ3l2WnZvY3VsOTNmLWZ5U001N2dDSEJQdWp4ZEpOUHplSlF3?oc=5)
-
----
-
 ### [La recherche sur la genèse des cancers sera la clé d’une meilleure prévention - Le Monde.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1hleFh4VDlzcGdCd0F5UnB3cUctamp2M0xLUnJsektlYjZTNmxDOGxLQnJtU0JCSFpueVVCbHdlVnBSM0pkYlRYSHpQRzVfSWJZWHQ1VFFpSEtSVUxJaGtjR1ZJSXctdm1RcmxsQ1VJa0ctTWh4OGl1bjhyNkdQLTJVLTdub19DUS1na2U0OE5feWJoRVlmZmRrU3NtdjN1ZHhLLS1TUV9NLXpCZjA1SzU4OWg3dGwwZHBLbk0xTHV6SWlyU0pBRWRrY3pGdlFoTkZPSVQ2cUhGUHc?oc=5)
 
 2026-05-14 <span class="news-indication-tag">cancer</span>
@@ -203,54 +219,6 @@ permalink: /news/onasemnogene-abeparvovec/
 2026-05-14 <span class="news-indication-tag">asma</span>
 
 來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaEhfNWdfcWlPMzlXb01fTkNOMmdQNExGU19scndyTW5welZaVUlOSVNKSl9pdTVxWWsyQ3J1cFRhUkswZUNURl9hSUhrcEx2bjBZRGs1ZTFyQXlobk9zbVpwcHRTX2E2TFJrOGZfd0NTSjR1aXl5dzBudi1PeDdyTlRVZFVVSEJJOVFxQUM5MUljLVBHaHQwMFdKd1Ryb0F6T0RYeXAtU0RoMnYxX2NQbXFsZ3BNNmMwYktFOG5QOW1lTmZwbE9lNG9scXRxaWhEa2dNWHRR?oc=5)
-
----
-
-### [Asst Crema e Over limits: 'movimento è cura'](https://news.google.com/rss/articles/CBMingFBVV95cUxPNmctTVFIUWNxQ1cwdkhQQWdydGMyT2puTm5DdHJUT3dqS1dTWlM5b3NyNkk1YU1rcGRiOU56Z01DSTZmU2MyTkcyem5oekpJRjJnejJQNEstS1FaeTF4eWsyejkxdjdJZlBiMmJzVFk2Zkh1YnZUejdaa0Q0cXhMSVFWenV3QnRSTzlsRFdaQXA1blFJbVBVUEJ1TXZJQQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">diabete</span>
-
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMingFBVV95cUxPNmctTVFIUWNxQ1cwdkhQQWdydGMyT2puTm5DdHJUT3dqS1dTWlM5b3NyNkk1YU1rcGRiOU56Z01DSTZmU2MyTkcyem5oekpJRjJnejJQNEstS1FaeTF4eWsyejkxdjdJZlBiMmJzVFk2Zkh1YnZUejdaa0Q0cXhMSVFWenV3QnRSTzlsRFdaQXA1blFJbVBVUEJ1TXZJQQ?oc=5)
-
----
-
-### ["On m'a dit de me préparer à ma mort" : cette Lot-et-Garonnaise vit avec un cancer du poumon rare, son pronostic vital est engagé sur le long terme](https://news.google.com/rss/articles/CBMimgJBVV95cUxQU3EyUEJkTzF3RWI0REp4SEJEZVNjNEFrS2dmZHZ4TE5TaU5xM09zcENLY0VpaFBfY0JhUEVjM1dWMm1jUVd2ZjEyTGFhbGRMX2tYS1Q5bHhtai1KbmxuR1RidWpuaVRrR3BnMEVFU093SXVpWnh0R0c2ZzhxekdvNWhlTkVfMW9iaU9wMS0wYnQyZVliMVF2RXhwdlBOTjB0Vm9yVXh4ZFRJRldyUDI1TUhhbVVDRTVfMXNFNzB0dUFlYnNkMmktcnRCby1LeFdWdGJvcFotYnJHbndLcTFMUHo3dG80X0J3MkdWUVVIOFhOOEtfM3dZUS1TY1JBTll0Vk1qdi0xRENxcWc3Q19Ca0Z4RnBLZFQ3U3c?oc=5)
-
-2026-05-14 <span class="news-indication-tag">cancer</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimgJBVV95cUxQU3EyUEJkTzF3RWI0REp4SEJEZVNjNEFrS2dmZHZ4TE5TaU5xM09zcENLY0VpaFBfY0JhUEVjM1dWMm1jUVd2ZjEyTGFhbGRMX2tYS1Q5bHhtai1KbmxuR1RidWpuaVRrR3BnMEVFU093SXVpWnh0R0c2ZzhxekdvNWhlTkVfMW9iaU9wMS0wYnQyZVliMVF2RXhwdlBOTjB0Vm9yVXh4ZFRJRldyUDI1TUhhbVVDRTVfMXNFNzB0dUFlYnNkMmktcnRCby1LeFdWdGJvcFotYnJHbndLcTFMUHo3dG80X0J3MkdWUVVIOFhOOEtfM3dZUS1TY1JBTll0Vk1qdi0xRENxcWc3Q19Ca0Z4RnBLZFQ3U3c?oc=5)
-
----
-
-### [« L’enjeu, c’est de savoir si on porte ce gène » : à l’hôpital Lyon Sud, une campagne de sensibilisation sur des cancers génétiques - Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
-
-2026-05-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
-
----
-
-### [Neue Ansätze in der Diabetes-Therapie: Herausforderungen und Chancen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
-
-2026-05-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0ZVOHRkMmZ0OXFnek4tNmhYQnNQalhDQldiLVB5eTRBRkE0Vlp3RVl3MmdQWnJ3aEVzMElqVEZRamxVV2VUYjhrYkxpRTh1cFhSQUNRaURuSHZ6LWFlWlNFM3hWZFJyWFNRc0lrMFNuYko4QUYxbzgxbndnSW5GbkNwWTJqY0VFQ2JzMEZaYloyUlpLeEgwVXdjSXpCV1JOR1E?oc=5)
-
----
-
-### [Tumore al polmone, immunoterapia prima della chirurgia raddoppia le probabilità di guarigione. Cosa è e come funziona - Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUphcHp2aUtwcmZiNFF0UFZpZVl3LXNMSUFSaTF0YkJVM3dJYnNXRmRNSnVZNjRxLXJSQjVKNXBmVXJhT0p5Z19KS0d0bV90WThhX2RkOVBScVZzM0FZQklqLXBrclM5WF81dnlidlV4Q2tWZ25VdTd6d0hSTDdQSWVMNnhwaDJQT1dKQk1wdmlYVXPSAZABQVVfeXFMTmxyNGtHWUw0NjBBYUEtWmdtUEE4YktQTUhzWU1wNDVnNG1UU1JMTHFTSm1jd2hCUjhyNzEzY21OUTZmVEVDMDhEbHhJTW9zVzhNb29STjY2R3VGMGtLUDlVM0RpYzk3bXBJeW1jeGJ4VTR5bjJDUmg3R21iMHRPTG5fUm81LTROdEpBZ0dSbE9C?oc=5)
-
----
-
-### [Tumore ovarico, nuova strategia rende più efficace la chemioterapia: così viene riattivata la risposta - Il Messaggero](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dRcURzMUdaUV9pT0k0TTJOZzVoVWVNNEUxd2dDSG5tNVlzMXlySXhPR1prcXEzWFVlVlhjaXc0NmlESmRUTEZ3Nm4tVzY5UWw2QUdpcUh4c2p5S0ZlTTh1WmtwMmlhVVBtNkdIMlpjc3E3MHpfazVmZW9YR1JJWVQ4SmZzQ0gxT0libDNWMNIBjAFBVV95cUxOWlNJNkg3cmVXTnA5ZzlaUkk5TVJFdWFKYmJjZjlFREpnN3MwaWFPM0w3d05Ia0tTeUhoeTY2Rk1mYV9YaVJ4THZYaHFNUmhYMzkya0prY2pDSzJSMXVZTGZlbXpOVC1oNDl4QVE0dGk4VFZMZE1TVDdWOVlWUFdSX0xfaFh1cGV1VG9yVA?oc=5)
-
-2026-05-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1dRcURzMUdaUV9pT0k0TTJOZzVoVWVNNEUxd2dDSG5tNVlzMXlySXhPR1prcXEzWFVlVlhjaXc0NmlESmRUTEZ3Nm4tVzY5UWw2QUdpcUh4c2p5S0ZlTTh1WmtwMmlhVVBtNkdIMlpjc3E3MHpfazVmZW9YR1JJWVQ4SmZzQ0gxT0libDNWMNIBjAFBVV95cUxOWlNJNkg3cmVXTnA5ZzlaUkk5TVJFdWFKYmJjZjlFREpnN3MwaWFPM0w3d05Ia0tTeUhoeTY2Rk1mYV9YaVJ4THZYaHFNUmhYMzkya0prY2pDSzJSMXVZTGZlbXpOVC1oNDl4QVE0dGk4VFZMZE1TVDdWOVlWUFdSX0xfaFh1cGV1VG9yVA?oc=5)
 
 ---
 
