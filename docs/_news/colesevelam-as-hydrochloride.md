@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
 
-2026-05-14 <span class="news-indication-tag">heart disease</span>
+2026-05-15 <span class="news-indication-tag">heart disease</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
-
----
-
-### [CGM verbessert Blutzuckerkontrolle auch unter moderner Typ-2-Diabetes-Therapie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
-
-2026-05-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [12 Rheumatoid Arthritis Symptoms Doctors Say You Shouldn’t Ignore](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3R2MkVjeHo0a2U0Y2EwcjJrdHZJQmx4dWhPd0hpZjdPSG04dUR6NzN2ZnRJeENKb1daR00tVDFuOEhTY1hBLUJ5THhqZmtaTzJWZjlfbzMwel81bS1jU3VqdFZ6dWtMM1c3ZlNUTGxhbWRZMTRYOGdIZUNHbkhKekIxdGxsTWIyNWdYRGVCTU5SYmJOTzRUOUZzNXctR1dNN1RxS0xfckN1b1F6?oc=5)
+
+2026-05-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3R2MkVjeHo0a2U0Y2EwcjJrdHZJQmx4dWhPd0hpZjdPSG04dUR6NzN2ZnRJeENKb1daR00tVDFuOEhTY1hBLUJ5THhqZmtaTzJWZjlfbzMwel81bS1jU3VqdFZ6dWtMM1c3ZlNUTGxhbWRZMTRYOGdIZUNHbkhKekIxdGxsTWIyNWdYRGVCTU5SYmJOTzRUOUZzNXctR1dNN1RxS0xfckN1b1F6?oc=5)
+
+---
 
 ### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
 
@@ -75,22 +83,6 @@ permalink: /news/elexacaftor/
 2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
-
----
-
-### [Aerobic, combined training most effective for reducing blood pressure - Medical News Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5)
-
-2026-05-14 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
-
-2026-05-14 <span class="news-indication-tag">arthritis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 
 ---
 

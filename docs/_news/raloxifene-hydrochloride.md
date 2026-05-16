@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Studie: Frauen mit 3 oder mehr Kindern haben geringeres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
+
+2026-05-16 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+來源：[Kurier](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
+
+---
+
+### [New stroke trial reveals why reopening a blocked artery is sometimes not enough](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZURhbXlJdE9rdDRuYktqbnJsd3hPTV9jbVFlcW9fbzRGUlJVZ1hzV1dmUFFaaUZCMnZhRjNFcnJ2cjBWTkxkcFlkd1FYbEM3SlZhemJtSDZXc1RqMEFkTXBranFIakFyMll5cDNMeGRSTWpKc2M0bzBma2J4eXpqSFdOOFNuNFh2VF91dkxQR0p5TkUtQnBxNVR5UDJkUldWTXBkbHhJNnBMVjg?oc=5)
+
+2026-05-15 <span class="news-indication-tag">stroke</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZURhbXlJdE9rdDRuYktqbnJsd3hPTV9jbVFlcW9fbzRGUlJVZ1hzV1dmUFFaaUZCMnZhRjNFcnJ2cjBWTkxkcFlkd1FYbEM3SlZhemJtSDZXc1RqMEFkTXBranFIakFyMll5cDNMeGRSTWpKc2M0bzBma2J4eXpqSFdOOFNuNFh2VF91dkxQR0p5TkUtQnBxNVR5UDJkUldWTXBkbHhJNnBMVjg?oc=5)
+
+---
 
 ### ['Our baby had a stroke moments after birth - we're now celebrating her first birthday' - STV News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FwUUdjVW01T19pc19OcnZDazE2c2ZFcUxabkNPSm14eTc5ZGE3SFpoelR6WTU2bGlTNmUxSWRTZnJ6LXdVaEN3d0J4d1RGMXU1OWRBSFpoWEV6OEhfZmVkbkw0bko1ajB5NXNkYWUzYmliRElpNXdGSVJsR3NNblpPVzNkZ04yTk93RnU2eVl0TUw1dlVfZFRCaVdYcFRneVlkWXFsUUI0OHpHNjJpZ2xrZTNOLWhxSTg4dG94UFVQRjZI?oc=5)
 

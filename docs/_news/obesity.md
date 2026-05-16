@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,6 +37,14 @@ permalink: /news/obesity/
 </div>
 
 ## 相關新聞（5 則）
+
+### [España frena la obesidad adulta pero la epidemia infantil sigue crítica - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdCaGJGTWtHMkt5VWFhdGsyNDlWYU1vY2g1eE40MFZQdlNMdVZLbVpURVZZTWdmOW9mR0FiS3FPTTY0X0tLQkFSNldrVW1wUjBmeVFhUElOVVpHWUNHeHEycXVmQjMxaFNIUUlrS2JENnphVU9HTWtCTFpuekZ4QkZCTE5hRlNKQ056YUdMcUxKaHE1dUxwZTgzSlg5WFRVVm41ZnBiYUFJLUdpenBZczAyYkowV3AyUnBLRFh5ZlRaMDFjZGfSAcYBQVVfeXFMUEF3SUVEd0JpZ2xIRVY5NkRfVmk2US1KamNOZGpxQnJSVlNHT0dRdHZ3R3NjV2Z2bnRxMDY3eXFleXNlYnE0cFB1YVBrQ2RrSFExM3BPc096Y1FTWkVzdm90OXAtaUlvSWFHS1U4RTVUYWR6VjZqWEQtdjA0bWh3VTNHUThJV2JwMlFTUFFsZUg4VjY5QmRBdlFqdUhuUFBkaHR0Sk43VnhYWVVPRHpDVUNzZDVhQXVQclZ3QVlRdVVMRC15Vm9R?oc=5)
+
+2026-05-16
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdCaGJGTWtHMkt5VWFhdGsyNDlWYU1vY2g1eE40MFZQdlNMdVZLbVpURVZZTWdmOW9mR0FiS3FPTTY0X0tLQkFSNldrVW1wUjBmeVFhUElOVVpHWUNHeHEycXVmQjMxaFNIUUlrS2JENnphVU9HTWtCTFpuekZ4QkZCTE5hRlNKQ056YUdMcUxKaHE1dUxwZTgzSlg5WFRVVm41ZnBiYUFJLUdpenBZczAyYkowV3AyUnBLRFh5ZlRaMDFjZGfSAcYBQVVfeXFMUEF3SUVEd0JpZ2xIRVY5NkRfVmk2US1KamNOZGpxQnJSVlNHT0dRdHZ3R3NjV2Z2bnRxMDY3eXFleXNlYnE0cFB1YVBrQ2RrSFExM3BPc096Y1FTWkVzdm90OXAtaUlvSWFHS1U4RTVUYWR6VjZqWEQtdjA0bWh3VTNHUThJV2JwMlFTUFFsZUg4VjY5QmRBdlFqdUhuUFBkaHR0Sk43VnhYWVVPRHpDVUNzZDVhQXVQclZ3QVlRdVVMRC15Vm9R?oc=5)
+
+---
 
 ### [GLP-1-RA bei Kindern: wirksam und sicher?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVW4wUWVhYkJYVFlFQWhMV19uX0xfaWFOR1lNc3ZkbW9WaDRPWFFTN1JSSnhuUkM5RTBqNzUyYWRZYW1Pdm9Sa0k0aGVSUVRoQXZkdzBMUnJ6b2JYaFRzM252d1FqMTg5VmNhZ01jYjUwWnhsSXJvdGkwQXlVbWdyTDNuczVJT0dVSGRPLUt5b0tINWlTVHJsYzF4NA?oc=5)
 
@@ -67,14 +75,6 @@ permalink: /news/obesity/
 2026-05-14
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
-
----
-
-### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
-
-2026-05-13
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
 
 ---
 

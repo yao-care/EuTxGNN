@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### ['Por qué cualquier alerta sanitaria como el hantavirus revive el fantasma de la pandemia' - El Independiente de Granada](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1QzUzNlNlJTUUNlUGgwcDVOY0FaVTNlcUhvZnhVdkNEaEdFTkZEQThQSGd4TUlxb3VITmRudzV4VlFCOGpwOVJ3QlRYZnp6LWNBQWJTMjBxamVrMFBHWWE2NGJNazVvUDZhMFR2X2RrUWxiTUlpLUhZUXFtNGFwMjdObDB5YVhIS3JjdkY3MVZCLVJjTGhmQUdISkVGbHpLVlB5dU9ZeXRxZzBERm9EeUY2cjhnSFdtNVFncGVMVQ?oc=5)
+### [12 Rheumatoid Arthritis Symptoms Doctors Say You Shouldn’t Ignore](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3R2MkVjeHo0a2U0Y2EwcjJrdHZJQmx4dWhPd0hpZjdPSG04dUR6NzN2ZnRJeENKb1daR00tVDFuOEhTY1hBLUJ5THhqZmtaTzJWZjlfbzMwel81bS1jU3VqdFZ6dWtMM1c3ZlNUTGxhbWRZMTRYOGdIZUNHbkhKekIxdGxsTWIyNWdYRGVCTU5SYmJOTzRUOUZzNXctR1dNN1RxS0xfckN1b1F6?oc=5)
 
-2026-05-16 <span class="news-indication-tag">asma</span>
+2026-05-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
-來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1QzUzNlNlJTUUNlUGgwcDVOY0FaVTNlcUhvZnhVdkNEaEdFTkZEQThQSGd4TUlxb3VITmRudzV4VlFCOGpwOVJ3QlRYZnp6LWNBQWJTMjBxamVrMFBHWWE2NGJNazVvUDZhMFR2X2RrUWxiTUlpLUhZUXFtNGFwMjdObDB5YVhIS3JjdkY3MVZCLVJjTGhmQUdISkVGbHpLVlB5dU9ZeXRxZzBERm9EeUY2cjhnSFdtNVFncGVMVQ?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
-
-2026-05-14 <span class="news-indication-tag">arthritis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
+來源：[Prevention](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3R2MkVjeHo0a2U0Y2EwcjJrdHZJQmx4dWhPd0hpZjdPSG04dUR6NzN2ZnRJeENKb1daR00tVDFuOEhTY1hBLUJ5THhqZmtaTzJWZjlfbzMwel81bS1jU3VqdFZ6dWtMM1c3ZlNUTGxhbWRZMTRYOGdIZUNHbkhKekIxdGxsTWIyNWdYRGVCTU5SYmJOTzRUOUZzNXctR1dNN1RxS0xfckN1b1F6?oc=5)
 
 ---
 

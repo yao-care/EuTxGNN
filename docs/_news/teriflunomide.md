@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
+
+### [Muertos por brote de ébola en la RDC llegan ya a 80](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2xCYjJiVktIUnlmcFhMM084b3NIbklKYTFOd1k1TjRJZk8wdnZiM3RZMHBhX0xhdC0zQnd4ZFEzX016QS1lTEFKZmJLcFM4Vnc2WlRyRzd1WWI1YlJ1M3BCTmFLNXlCemx5LV95cU12NFJ5N0lvX2RRX0VpaGk5a0dxT3VDM3F5d1d2aFhQR29DSC1tNVFfeERZTDRYUHFKMk9OV29WdHVhVlhTLVVxM0xWbUhMczREeV9R0gG7AUFVX3lxTE9hRGhNNTRZbmtkWXdaM3UwekwtczBqRW5ldTNZa0ZUV3RxdVJIWTVpNzhSUDB5MmtnaVdLc2dkYlhpMnpRWm5yRmdibkd4QTIyNlF6THRhN2tSS3p1dUJtWVBLQnpPLW5wSXBGVG1PYURhVUlnbVgxdnp4bVZtR3ljbWdfbE9BNjZQWjJvb0RTWTR4djNhY2l5T3g0RkZFdW9Wem50N1NBMk1iN0xKMzBWcWUxWWVFZUwyYWs?oc=5)
+
+2026-05-16 <span class="news-indication-tag">MS</span>
+
+來源：[dw.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2xCYjJiVktIUnlmcFhMM084b3NIbklKYTFOd1k1TjRJZk8wdnZiM3RZMHBhX0xhdC0zQnd4ZFEzX016QS1lTEFKZmJLcFM4Vnc2WlRyRzd1WWI1YlJ1M3BCTmFLNXlCemx5LV95cU12NFJ5N0lvX2RRX0VpaGk5a0dxT3VDM3F5d1d2aFhQR29DSC1tNVFfeERZTDRYUHFKMk9OV29WdHVhVlhTLVVxM0xWbUhMczREeV9R0gG7AUFVX3lxTE9hRGhNNTRZbmtkWXdaM3UwekwtczBqRW5ldTNZa0ZUV3RxdVJIWTVpNzhSUDB5MmtnaVdLc2dkYlhpMnpRWm5yRmdibkd4QTIyNlF6THRhN2tSS3p1dUJtWVBLQnpPLW5wSXBGVG1PYURhVUlnbVgxdnp4bVZtR3ljbWdfbE9BNjZQWjJvb0RTWTR4djNhY2l5T3g0RkZFdW9Wem50N1NBMk1iN0xKMzBWcWUxWWVFZUwyYWs?oc=5)
+
+---
+
+### [Studie: Frauen mit 3 oder mehr Kindern haben geringeres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
+
+2026-05-16 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+來源：[Kurier](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
+
+---
+
+### [12 Rheumatoid Arthritis Symptoms Doctors Say You Shouldn’t Ignore](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3R2MkVjeHo0a2U0Y2EwcjJrdHZJQmx4dWhPd0hpZjdPSG04dUR6NzN2ZnRJeENKb1daR00tVDFuOEhTY1hBLUJ5THhqZmtaTzJWZjlfbzMwel81bS1jU3VqdFZ6dWtMM1c3ZlNUTGxhbWRZMTRYOGdIZUNHbkhKekIxdGxsTWIyNWdYRGVCTU5SYmJOTzRUOUZzNXctR1dNN1RxS0xfckN1b1F6?oc=5)
+
+2026-05-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3R2MkVjeHo0a2U0Y2EwcjJrdHZJQmx4dWhPd0hpZjdPSG04dUR6NzN2ZnRJeENKb1daR00tVDFuOEhTY1hBLUJ5THhqZmtaTzJWZjlfbzMwel81bS1jU3VqdFZ6dWtMM1c3ZlNUTGxhbWRZMTRYOGdIZUNHbkhKekIxdGxsTWIyNWdYRGVCTU5SYmJOTzRUOUZzNXctR1dNN1RxS0xfckN1b1F6?oc=5)
+
+---
 
 ### [Belfast hospital outbreak: Why this antibiotic-resistant bug has experts worried - Belfast Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQTWxRSHl6WV9qeTJBOV9hNGVsVGttR2g3end6bHZ4NmpvNjBuTFRJam5WSC1vWmswdE1zaGw3TFotbDBFU3NCUFJwam9GYURsNlpkMU5KV1pDMVZ6a01tRjBIU0lkUE1kRVhHR3JWNjlSdm5wRGI2SlNYQzFHQlQ4V1JydmR6QWhQRE5CUmtEVDJVTHhzU0p4NTEyMTlJZw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQTWxRSHl6WV9qeTJBOV9hNGVsVGttR2g3end6bHZ4NmpvNjBuTFRJam5WSC1vWmswdE1zaGw3TFotbDBFU3NCUFJwam9GYURsNlpkMU5KV1pDMVZ6a01tRjBIU0lkUE1kRVhHR3JWNjlSdm5wRGI2SlNYQzFHQlQ4V1JydmR6QWhQRE5CUmtEVDJVTHhzU0p4NTEyMTlJZw?oc=5)
+
+---
+
+### [Top WHO official: I’m relieved it isn’t bird flu, but we’re in a ‘make or break’ phase for hantavirus - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXhvbGZORjhsckJBQ1ZBbnhhWjI1MHJnTUozWVdnTXI2ek5oS1BIRGJ6VGFLMmQwMi12NkI2SGphYjlQazM4SEFVbmtQR21TQjlCRjdRZzRlM2hSVEtrSm1NeXlwTW9pZkZ3ZXp6YzdSamx2YVhOX3pyV2FNb204aGlCaVZSQXRSS1NsM3Z5MHhXSlFDZFB4TWtPNnhMRHdIdTNNdEtuTkZWLW5NVGotNm01aGU?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXhvbGZORjhsckJBQ1ZBbnhhWjI1MHJnTUozWVdnTXI2ek5oS1BIRGJ6VGFLMmQwMi12NkI2SGphYjlQazM4SEFVbmtQR21TQjlCRjdRZzRlM2hSVEtrSm1NeXlwTW9pZkZ3ZXp6YzdSamx2YVhOX3pyV2FNb204aGlCaVZSQXRSS1NsM3Z5MHhXSlFDZFB4TWtPNnhMRHdIdTNNdEtuTkZWLW5NVGotNm01aGU?oc=5)
 
 ---
 
@@ -110,6 +142,14 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Alimentation. Manger plus de 4 œufs par semaine est-il risqué pour la santé ? - Le Progrès](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVV9CZnBJbkpmM3hqNi1fMC0zMkJ4MnFLOTRmQXZyQl9VWk1ycFNKN0FHYTVncnBmS1g3dzJwZ3llUjFOTE9TcXJQUDJpTG0ySFlLNXpGbDBKbTI5WExHdmdaazJva19aaEpPU096ZVAycVR5QVJidEVvSjE5czlNQlR2N2s1bm11dGUtNElrNkdGQnhna0t0anQ3VWJHNFNrM0lnNlotRkNIOHh4V2J6VEFkZw?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVV9CZnBJbkpmM3hqNi1fMC0zMkJ4MnFLOTRmQXZyQl9VWk1ycFNKN0FHYTVncnBmS1g3dzJwZ3llUjFOTE9TcXJQUDJpTG0ySFlLNXpGbDBKbTI5WExHdmdaazJva19aaEpPU096ZVAycVR5QVJidEVvSjE5czlNQlR2N2s1bm11dGUtNElrNkdGQnhna0t0anQ3VWJHNFNrM0lnNlotRkNIOHh4V2J6VEFkZw?oc=5)
+
+---
+
 ### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
 2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
@@ -118,35 +158,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Antidepressants in pregnancy do not raise children’s risk of autism or ADHD, study finds - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkctWGJtNzVVUXJUN3RVNW1jQU1xRm5jcDdOaV9VSndINmR2UWh5S1FxMEFVcTE3d1dtcTFHRzhnYU03eXBzNmVCSEF4blVHczFGRDNMZ1RQcmlHYkwyZGlUYW15NDl5emVCMS1TUTk4V0pYb3VfNHRsNFpaU1FTTGI2bWJFNGNvcnRQaEZfWXR4em8yTFRkRzUyQURqZ1ZLRG1QTmJpbXZFOF9TdE5PcEpST0ZFWjg0eVN1ZQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkctWGJtNzVVUXJUN3RVNW1jQU1xRm5jcDdOaV9VSndINmR2UWh5S1FxMEFVcTE3d1dtcTFHRzhnYU03eXBzNmVCSEF4blVHczFGRDNMZ1RQcmlHYkwyZGlUYW15NDl5emVCMS1TUTk4V0pYb3VfNHRsNFpaU1FTTGI2bWJFNGNvcnRQaEZfWXR4em8yTFRkRzUyQURqZ1ZLRG1QTmJpbXZFOF9TdE5PcEpST0ZFWjg0eVN1ZQ?oc=5)
-
----
-
 ### [Hantavirus-Risiko: Ahnungsloser Tourist wird aus Bar abgeführt](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5YOF94RkpGZ2pJOFFOelYzanFSaVN1N1h6bzA5VGFubjBHVV9DaFhGVXZ1cXdpdTUwT1JEc0Mya2ZURXFiOXBJdjdoajR3cFYxaXhJanhsb1dib3dSSXVPakFjWWhBSXRuTm5QQ0dHM2x3SWY1N085M21feXpHU0dBT1dWQjVmVXZqUklnek1NbXRWRzlVU3YxMmV1VFA3ZzY1NkRDeVEyVTRrdXhxb1REdjFSTEhBNVllSnAzQQ?oc=5)
 
 2026-05-14 <span class="news-indication-tag">MS</span>
 
 來源：[MSN](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5YOF94RkpGZ2pJOFFOelYzanFSaVN1N1h6bzA5VGFubjBHVV9DaFhGVXZ1cXdpdTUwT1JEc0Mya2ZURXFiOXBJdjdoajR3cFYxaXhJanhsb1dib3dSSXVPakFjWWhBSXRuTm5QQ0dHM2x3SWY1N085M21feXpHU0dBT1dWQjVmVXZqUklnek1NbXRWRzlVU3YxMmV1VFA3ZzY1NkRDeVEyVTRrdXhxb1REdjFSTEhBNVllSnAzQQ?oc=5)
-
----
-
-### [The Doomsday Organism - Noema Magazine](https://news.google.com/rss/articles/CBMiW0FVX3lxTE95c25zYW05bXFkVG5xcEUwYXBDRTRMallBdUdCUGE4MGVrYjhwaXBtOVN1a0djZnJXcmx0YUdNaGJVMVN3NUs3N1dCbVd4dkFCcG9naUdCSTUyWlk?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span>
-
-來源：[Noema Magazine](https://news.google.com/rss/articles/CBMiW0FVX3lxTE95c25zYW05bXFkVG5xcEUwYXBDRTRMallBdUdCUGE4MGVrYjhwaXBtOVN1a0djZnJXcmx0YUdNaGJVMVN3NUs3N1dCbVd4dkFCcG9naUdCSTUyWlk?oc=5)
-
----
-
-### [„Ich bin nicht behindert und habe dafür keine Zeit“: Linda (34) wurde komplett arbeitsunfähig geschrieben](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[MSN](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
 
 ---
 

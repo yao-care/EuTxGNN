@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [CGM verbessert Blutzuckerkontrolle auch unter moderner Typ-2-Diabetes-Therapie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
+### [12 Rheumatoid Arthritis Symptoms Doctors Say You Shouldn’t Ignore](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3R2MkVjeHo0a2U0Y2EwcjJrdHZJQmx4dWhPd0hpZjdPSG04dUR6NzN2ZnRJeENKb1daR00tVDFuOEhTY1hBLUJ5THhqZmtaTzJWZjlfbzMwel81bS1jU3VqdFZ6dWtMM1c3ZlNUTGxhbWRZMTRYOGdIZUNHbkhKekIxdGxsTWIyNWdYRGVCTU5SYmJOTzRUOUZzNXctR1dNN1RxS0xfckN1b1F6?oc=5)
 
-2026-05-14 <span class="news-indication-tag">diabetes</span>
+2026-05-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2k0X2xzTTYwaE9HOEFoWHJuaHhieUFJb0IwM0NhelB5TGxfVndQS255bWg1RXlsUzZzNXF4RkZSZVBLLTE5TDVnZENEQlRaU0tGTjFXWUFYRmg5dU4yN0hHam9sRmZuU1lQZC1NeElMWHhmZm9vV3UzcF93R3VSV0FkMFpKdWtZNi1iWXU1UG5nYW1mNExLdW1pMzl3ZXlYOG1UUzF6VjhuUHhxenhfbDJnVjc0d2FGVGNoTjc1bG5aajVGVnJidTRHSEVTa1NrOVN6SXNLTzBnS09kSjFWUg?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
-
-2026-05-14 <span class="news-indication-tag">arthritis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
+來源：[Prevention](https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3R2MkVjeHo0a2U0Y2EwcjJrdHZJQmx4dWhPd0hpZjdPSG04dUR6NzN2ZnRJeENKb1daR00tVDFuOEhTY1hBLUJ5THhqZmtaTzJWZjlfbzMwel81bS1jU3VqdFZ6dWtMM1c3ZlNUTGxhbWRZMTRYOGdIZUNHbkhKekIxdGxsTWIyNWdYRGVCTU5SYmJOTzRUOUZzNXctR1dNN1RxS0xfckN1b1F6?oc=5)
 
 ---
 

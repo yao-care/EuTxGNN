@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
 
@@ -70,27 +70,19 @@ permalink: /news/selpercatinib/
 
 ---
 
+### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+
+2026-05-15 <span class="news-indication-tag">heart disease</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+
+---
+
 ### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
 2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
-
----
-
-### [Aerobic, combined training most effective for reducing blood pressure - Medical News Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5)
-
-2026-05-14 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5)
-
----
-
-### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
-
-2026-05-14 <span class="news-indication-tag">heart disease</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
 
 ---
 

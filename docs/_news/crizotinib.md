@@ -14,7 +14,7 @@ permalink: /news/crizotinib/
 ---
 
 <p class="key-answer" data-question="Crizotinib 有什麼相關新聞？">
-<strong>Crizotinib</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Crizotinib</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/crizotinib/
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [Men seeking help for prostate cancer rises 50pc in a year - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRkc0NUMGh6NXhieEJuMVJjNXp5VzE5WWpBWDBTZG9kMTVwN1lpVzVRTHBuR0lNTnduMzUyTEJ5MWM0S1dmQ2hPNGc5WE1QbEVCREtpN05pMEplLUN1OFNTaG9vQ2tNX01wbVlLcnl2eTdRemY0WERxQjluMUpHOXFreENKSmluQU1VWEdFT2hsYTU5TEdJVjhaY0FLM0V2QWxOMg?oc=5)
+
+2026-05-16 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRkc0NUMGh6NXhieEJuMVJjNXp5VzE5WWpBWDBTZG9kMTVwN1lpVzVRTHBuR0lNTnduMzUyTEJ5MWM0S1dmQ2hPNGc5WE1QbEVCREtpN05pMEplLUN1OFNTaG9vQ2tNX01wbVlLcnl2eTdRemY0WERxQjluMUpHOXFreENKSmluQU1VWEdFT2hsYTU5TEdJVjhaY0FLM0V2QWxOMg?oc=5)
+
+---
+
+### [«Save your skin», a Borgo Trento visite gratuite per la prevenzione del melanoma](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlJTVjdWcDBnbDdMYzAwWDluN3Y5S3NUTXNRYnZnaGNaWUdiQUhyU0d5akk0MEtSUnhvWWJscDN4REZVRmI1UjJ2VktYaFV1SEowQWl3T1Z6bXU3cFdZcjZIM29KWi1oWWljS1Btbm11WEZ0em1RSnVnYTBPWUN1V3BvZjMxSFdxemY2UVF0SWt0MTFFZWcwR3VDMmFFZE94Z0c2Rjl3c3NCY2czV09rTjlvanRzcW1BMW1IMjVoTG5ydEplbGI1VTFiTTdhZlR4VG1jUtIB2gFBVV95cUxPU1dnYTVYUTRTenVoZDlWUzZtTFRZQTVoWkczRVd2V3c3c2VEYl9pUkNWY3ZxUGI4cVhQVloxdElpdjhqUkgyVlBFSDVRYk1kRFhRUnlaRnEzYktPRzViVE5Lc0hOUkhTaWFza25tVXJYczhqUUJ4aVRKR09TNXc5NzRJaVYzaERzcnlYOUtGdWYtaEh1bnVlWmVQQUNpUGUzbTk5Z2RHTXpTRjY3bG14R1J2alpoOXQzWTQxRG96M1NMaHBvMzdOb2ZheEJZMTluMWt3eUo3alAwQQ?oc=5)
+
+2026-05-16 <span class="news-indication-tag">tumor</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlJTVjdWcDBnbDdMYzAwWDluN3Y5S3NUTXNRYnZnaGNaWUdiQUhyU0d5akk0MEtSUnhvWWJscDN4REZVRmI1UjJ2VktYaFV1SEowQWl3T1Z6bXU3cFdZcjZIM29KWi1oWWljS1Btbm11WEZ0em1RSnVnYTBPWUN1V3BvZjMxSFdxemY2UVF0SWt0MTFFZWcwR3VDMmFFZE94Z0c2Rjl3c3NCY2czV09rTjlvanRzcW1BMW1IMjVoTG5ydEplbGI1VTFiTTdhZlR4VG1jUtIB2gFBVV95cUxPU1dnYTVYUTRTenVoZDlWUzZtTFRZQTVoWkczRVd2V3c3c2VEYl9pUkNWY3ZxUGI4cVhQVloxdElpdjhqUkgyVlBFSDVRYk1kRFhRUnlaRnEzYktPRzViVE5Lc0hOUkhTaWFza25tVXJYczhqUUJ4aVRKR09TNXc5NzRJaVYzaERzcnlYOUtGdWYtaEh1bnVlWmVQQUNpUGUzbTk5Z2RHTXpTRjY3bG14R1J2alpoOXQzWTQxRG96M1NMaHBvMzdOb2ZheEJZMTluMWt3eUo3alAwQQ?oc=5)
+
+---
+
+### [Rétinoblastome : ces signes discrets qui peuvent alerter les parents - Le Figaro Santé](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3FWclZEX1FxWUhGeUdwX3FxTmVsREVZdExEeUNxeGFIUDIxc09ST2hEaklIQ2VFbk1VTW5tRGVxQmFPUWtEOUVLQzFRTzhfYVFyYzRZZk1MSW8tZTlXSUNYazhFLWRQRVF1NnhHdUc4cnRnQWtLenQ0alFpajRyUXJXelROVHkzRkFNeWxhRTJoRUdmQnYxMFNQWHgzVFNISHdKUHY4aHJOZTA5ZGtv?oc=5)
+
+2026-05-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3FWclZEX1FxWUhGeUdwX3FxTmVsREVZdExEeUNxeGFIUDIxc09ST2hEaklIQ2VFbk1VTW5tRGVxQmFPUWtEOUVLQzFRTzhfYVFyYzRZZk1MSW8tZTlXSUNYazhFLWRQRVF1NnhHdUc4cnRnQWtLenQ0alFpajRyUXJXelROVHkzRkFNeWxhRTJoRUdmQnYxMFNQWHgzVFNISHdKUHY4aHJOZTA5ZGtv?oc=5)
+
+---
 
 ### [How cycling reduces dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPS09GaGt5Yy1QTGtOTUNuWDM2VVZ1YnNYbUZJajNvVFFlR2tWaTRqZG96NGtjZHczbWt0THBGRjVEajhoSlRxYWNyb1pxUkVibXlEUWg4Z2YyV0JZbmF0NXhnc0MxZnpDc0hhV3lJSnFHUWpOOUVVZG13OHlpc1VGMDVxdVNrcWpOMk9TWkZ4NURLdkc3ZnJVU1g2ZzhlZw?oc=5)
 
@@ -67,6 +91,22 @@ permalink: /news/crizotinib/
 2026-05-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0NHYmZVdGw4WGZwLXY4RXBJR21VUGhBS3Y1Zl93QTl4RWN4aGpGNjItdTd5OGxlX00yVDJrc2FhLU5pSWMtbjVGZFUwcFlzRFN5WkdBRVBPM0s0Mmx6QUJ4dlpORVZBRFRnVXBYUjc5X0hrSGhXUFJybUNQQU5wb0xWVFhxbjhlb2tKQk9GYWpaRGxid3pSQkprR0w0VzBMSDBBeElGMlgydUlCY2JhT2pjQXJNMXlJRFdNYU83WHQtbXVYT2lqWmk0aFEzTElaNmVKUjM5S1BzUWpsTmJKU2RJU1JJU1NaX1lDMGhn?oc=5)
+
+---
+
+### [L'età avanzata favorisce metastasi nel tumore al seno](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzZwZDZLYXBYNUhsazY2TUpiRmRiMzZLQVZKem9ER2hzZy1uell1T2tBa01lVDBVSXdBaW1BRERJTGFpQzF2TDA3ZVpEdlZYMnY1eFV6T0RZcHBiVV9pX0N6X1dqMkRLOTZiOERmSWFTb1UtaEM1OElzTkxlX19GVU5DTlQ2cTUwT2c?oc=5)
+
+2026-05-16 <span class="news-indication-tag">tumor</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzZwZDZLYXBYNUhsazY2TUpiRmRiMzZLQVZKem9ER2hzZy1uell1T2tBa01lVDBVSXdBaW1BRERJTGFpQzF2TDA3ZVpEdlZYMnY1eFV6T0RZcHBiVV9pX0N6X1dqMkRLOTZiOERmSWFTb1UtaEM1OElzTkxlX19GVU5DTlQ2cTUwT2c?oc=5)
+
+---
+
+### [Vitamin B12 is crucial for keeping many parts of the body working properly, so even a small shortage can cause widespread health issues](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlFCcFJFZnZPaWNmX19pV2h4dUpsNU5DNnZ1WlNOTW5XTGRSU3hVS0FaWmhxYklEREN1NmVtRkdZZ2piOWZEeWtZLU1MQlJpV1dpcFRGa1dXcGVHX0JmeE1JMGIxdWV0dlpqNlV0R3lOSnAwNTRUd2NFbU1PRGlYbHBTd0xoMjF6Q2pSWHNTZk5SYjltRGtLRnQ2T2JESGxNaXV6eGVwcWZaMEpl?oc=5)
+
+2026-05-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlFCcFJFZnZPaWNmX19pV2h4dUpsNU5DNnZ1WlNOTW5XTGRSU3hVS0FaWmhxYklEREN1NmVtRkdZZ2piOWZEeWtZLU1MQlJpV1dpcFRGa1dXcGVHX0JmeE1JMGIxdWV0dlpqNlV0R3lOSnAwNTRUd2NFbU1PRGlYbHBTd0xoMjF6Q2pSWHNTZk5SYjltRGtLRnQ2T2JESGxNaXV6eGVwcWZaMEpl?oc=5)
 
 ---
 
@@ -94,6 +134,14 @@ permalink: /news/crizotinib/
 
 ---
 
+### [Neue Studie belegt: - HPV-Impfung schützt auch Männer gut vor Krebs - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSjlfbmxWek5aTjA5cEphMkxkNjBoZ1l5aV9HNHJNX0hxaUtkeUx6dDhBNzVnNUNxR0xvSWxjU2RGdw?oc=5)
+
+2026-05-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSjlfbmxWek5aTjA5cEphMkxkNjBoZ1l5aV9HNHJNX0hxaUtkeUx6dDhBNzVnNUNxR0xvSWxjU2RGdw?oc=5)
+
+---
+
 ### [Krebs im jungen Alter erhöht Risiko für Zweitmalignome deutlich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUxyQnZiSFRLVGVVcEdzYmxIbXhLNmhMQUtOdGVfSUh2THU1QWVSR0stRlpFdjRZYVN4QXRjVngxaEVJSnZTQUdubEN3eEFlcVdpeW1LVFNfNEdqZXdQT2plUTBBVkVKNHVOOTNvdEtWQmhsMTVKTWpERXhET3RWZVYyc09KQUhjN1RMbWE3LS1fTFh2VC1nWEYwWDZKdi1XNUc2OF81QnZ2ejBOaV9WZlJXeXR6d2FHQURtTUhic2NuR254eTIycE5IbTM?oc=5)
 
 2026-05-15 <span class="news-indication-tag">Krebs</span>
@@ -107,14 +155,6 @@ permalink: /news/crizotinib/
 2026-05-15 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDEzVHBSM3IwZHEwdmYtYXFYdjdMSDZnMzRTMkpUazBndlNUSl9nR2tpbVYzbHZmTkh4TndHS2J1b1lPejZMeFlJMHJzNDVwdXpjbnJOaTlTRzVHZFhYSzh4Y2pZUC1aTjQ3Yk5JNm5VeVVCbkVhMGZXM2hScmFMbENDSkZ4RnNPWmNsVnhzVmhIT3paY3ZXdGNIV25xZ1k1b25lVQ?oc=5)
-
----
-
-### [Eight foods and drinks to have every week to cut your dementia risk - The i Paper](https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk1GMGJUY1J4SndtbTk1QWhOMU5aTDhlam1ocFVzQWZxQnJETHNTbVM3RV9MdVRlWVdhYWZGU0pnRllIQlBNRG5YOUVXaFAzdmNQbkYzb0FpNHVaWXcyamZOZ1c0Um5SejlfaGhLR1BqTWM5OEZrRUM2Slk4NHNlTk05cFZUVFhnSFgyTnBwS19Sc29xWUE?oc=5)
-
-2026-05-15 <span class="news-indication-tag">dementia</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk1GMGJUY1J4SndtbTk1QWhOMU5aTDhlam1ocFVzQWZxQnJETHNTbVM3RV9MdVRlWVdhYWZGU0pnRllIQlBNRG5YOUVXaFAzdmNQbkYzb0FpNHVaWXcyamZOZ1c0Um5SejlfaGhLR1BqTWM5OEZrRUM2Slk4NHNlTk05cFZUVFhnSFgyTnBwS19Sc29xWUE?oc=5)
 
 ---
 
@@ -147,38 +187,6 @@ permalink: /news/crizotinib/
 2026-05-15 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
-
----
-
-### [Wie gut schützt die HPV-Impfung vor Krebs? Das sagt eine Gynäkologin - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1AxWjh6eGRNUF9OdjhvN21PY3BmN2FXSDlrbzdDR2xlb2c5NzIySERSeUNzZWZ1OEJRTnNmTTVzeHRKX2k5UGNRMUZJMXRubjdYX0tGc3luYVhyaHRHZHlLdnY3eW5DcFlwUEMzNkdnNE55U0xQc0dyN1k2VHFTN3ZsLXRHc21DekVBaWlhNy1CaW05VU45RVhJZGgxU2pNN0hUbXdYRVlmdHpUTzBnRUQwNA?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1AxWjh6eGRNUF9OdjhvN21PY3BmN2FXSDlrbzdDR2xlb2c5NzIySERSeUNzZWZ1OEJRTnNmTTVzeHRKX2k5UGNRMUZJMXRubjdYX0tGc3luYVhyaHRHZHlLdnY3eW5DcFlwUEMzNkdnNE55U0xQc0dyN1k2VHFTN3ZsLXRHc21DekVBaWlhNy1CaW05VU45RVhJZGgxU2pNN0hUbXdYRVlmdHpUTzBnRUQwNA?oc=5)
-
----
-
-### [‘Cerca il tuo neo’: controlli gratuiti in farmacia - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFlXSFFoT2VIc1BfdENJcndGa1phTzhueW9VUk01MnVTUUlDWWdYRm5pdElLVXVEb1dWOVJRY28yNlV3bm9MV1EyNmlVM3JYZk9yVE5tSWY2a3ZvWTlSVzBrcWNYUGdCT1Z4VnVvWHB0UzVURkNhQklKUzhjci02MWJvVXpNZkV4TjNxbFZHYTRFLTlOWUg0?oc=5)
-
-2026-05-14 <span class="news-indication-tag">tumor</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFlXSFFoT2VIc1BfdENJcndGa1phTzhueW9VUk01MnVTUUlDWWdYRm5pdElLVXVEb1dWOVJRY28yNlV3bm9MV1EyNmlVM3JYZk9yVE5tSWY2a3ZvWTlSVzBrcWNYUGdCT1Z4VnVvWHB0UzVURkNhQklKUzhjci02MWJvVXpNZkV4TjNxbFZHYTRFLTlOWUg0?oc=5)
-
----
-
-### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
-2026-05-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
----
-
-### [Riskieren junge Frauen Darmkrebs durch hochverarbeitete Lebensmittel?](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0lnZUxNRS1lQ1RqckxPdzkybTZ4eVVNcVJ1OWRtMW5FZ0dSdHk4TDlCN2RtNk1CUDUwY2dmRVRUWUtudF8zc3hIaThkRGhKVEpUaGNRT0dJNG5yTGVHd3lIdXFkMGVVMktLSGo4d0c4cFFTRzY0U0p4OC1IUE9jdUF3X3V3NDNmOEg2NjM0Mk55X21PVWJJYmprRHU?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Krebs</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0lnZUxNRS1lQ1RqckxPdzkybTZ4eVVNcVJ1OWRtMW5FZ0dSdHk4TDlCN2RtNk1CUDUwY2dmRVRUWUtudF8zc3hIaThkRGhKVEpUaGNRT0dJNG5yTGVHd3lIdXFkMGVVMktLSGo4d0c4cFFTRzY0U0p4OC1IUE9jdUF3X3V3NDNmOEg2NjM0Mk55X21PVWJJYmprRHU?oc=5)
 
 ---
 

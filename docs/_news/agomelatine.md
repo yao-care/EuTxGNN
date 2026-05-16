@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Nicht-invasive Kontaktlinsen per Elektrostimulation gegen Depressionen in Sicht - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
+### [Kontaktlinsen gegen Depression: Forscher entwickeln nicht-invasive Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
 
 2026-05-16 <span class="news-indication-tag">depression</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
+
+---
+
+### [El próximo tratamiento contra la depresión podría estar en los ojos. Ya han probado con éxito unas lentillas inteligentes en ratones](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVJDb0lpWHBHV1dBcVZWZGVwajdELVRzOUxQajlRU0xOUTc5ZFZlRWJxSmNib3FETzByZzhWSFVESFJ2dWhLXzg0bXZYcThsczFIUk1mRFgtaC1mOVYtQmlTXzRfd1pPUU1rNW94Y0EzQWhTS0t4SWFhSTRfM0pDSm92b0RJR25meWhHbW45azdhOVRxbDFoX0NxZUNhTHBnaVBJcnNsZExBcUp1cVl1Z1IwSmJaUVpjRnhRNmljSXBZbjdKZHV6R1p4UjdOYkJPbTBUazV6cG_SAd4BQVVfeXFMT2owVHFzd1FoOXRVejdMUUQweEsyclB2eEhzMTVERFZUc1BPVUJaeEV3cVJVbVFyZkxqZmxYUmpOaWozeF9EV0ZPUjg3WUhURE43eFJxNU5jOFRnci03VWRmQ1JqUWVFXzhtS2M5WDFkQ3VuNHNBYjczTWZyZzJKam9PbzVJakpQNWhrWTdjX181RXRLUFlIRy1CTENhTUtNS1VEbVhNN2VGVER5MXRuYXloTjFiRFJGTU9Va3N5NzIzVnpBQWtUMUVOSTlBT0lZdXE4cXRhQkVJcVZTbWpR?oc=5)
+
+2026-05-15 <span class="news-indication-tag">depresión</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVJDb0lpWHBHV1dBcVZWZGVwajdELVRzOUxQajlRU0xOUTc5ZFZlRWJxSmNib3FETzByZzhWSFVESFJ2dWhLXzg0bXZYcThsczFIUk1mRFgtaC1mOVYtQmlTXzRfd1pPUU1rNW94Y0EzQWhTS0t4SWFhSTRfM0pDSm92b0RJR25meWhHbW45azdhOVRxbDFoX0NxZUNhTHBnaVBJcnNsZExBcUp1cVl1Z1IwSmJaUVpjRnhRNmljSXBZbjdKZHV6R1p4UjdOYkJPbTBUazV6cG_SAd4BQVVfeXFMT2owVHFzd1FoOXRVejdMUUQweEsyclB2eEhzMTVERFZUc1BPVUJaeEV3cVJVbVFyZkxqZmxYUmpOaWozeF9EV0ZPUjg3WUhURE43eFJxNU5jOFRnci03VWRmQ1JqUWVFXzhtS2M5WDFkQ3VuNHNBYjczTWZyZzJKam9PbzVJakpQNWhrWTdjX181RXRLUFlIRy1CTENhTUtNS1VEbVhNN2VGVER5MXRuYXloTjFiRFJGTU9Va3N5NzIzVnpBQWtUMUVOSTlBT0lZdXE4cXRhQkVJcVZTbWpR?oc=5)
 
 ---
 
@@ -67,30 +75,6 @@ permalink: /news/agomelatine/
 2026-05-15 <span class="news-indication-tag">depression</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0VVX1o1SzMwYzQ3ZXhhY0draVNuZGVaZXMtbXdEQmxhSDNnR3JyN2lZXzMybWxYOUVOMjh5UC00NHdyaVo0YWpKblFQbElkRzQ2eGxrcTZaRGxDRTloRXVreHlVVFQ2dzNlRzFTZmloTl8yb0tSLU9HREJ1ekxfMjk2MTktdmFNOWV2amV2LWdYSGJYVGNBWmlrdDBwTzM0d3RvbUVqM0JSYUF1RGthaHNhS2k?oc=5)
-
----
-
-### [Depresión: Prueban con éxito en ratones unas lentes de contacto con la misma eficacia que el 'Prozac'](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NuTzljdW9RWjVCT1ZuRFF5aUl4dUZqNXZWbURFell5UWlyRFZKSHdKZW9iY1YzamxPaGlwWGQ0ZnhKZFVmTU5QamV5M0EyMS0wZ3pYZHpGbFp3VFFfdExpUXpSRThuZDVjYXJyZ3ZsOVZ3RnllZnRtTzhZR2o2dkVycDZ2cjdOZTNYX2ItQVZPbURHRjN1bUxWY2RKM1g4WnNiSzFlOWRYU1pUSXdsZTJidUxVNkRTLXdKNXdKRV85YUZmNlI5NEtfQjc3ZlU?oc=5)
-
-2026-05-15 <span class="news-indication-tag">depresión</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NuTzljdW9RWjVCT1ZuRFF5aUl4dUZqNXZWbURFell5UWlyRFZKSHdKZW9iY1YzamxPaGlwWGQ0ZnhKZFVmTU5QamV5M0EyMS0wZ3pYZHpGbFp3VFFfdExpUXpSRThuZDVjYXJyZ3ZsOVZ3RnllZnRtTzhZR2o2dkVycDZ2cjdOZTNYX2ItQVZPbURHRjN1bUxWY2RKM1g4WnNiSzFlOWRYU1pUSXdsZTJidUxVNkRTLXdKNXdKRV85YUZmNlI5NEtfQjc3ZlU?oc=5)
-
----
-
-### [Nicht-invasive Neurostimulation bei Alzheimer, Parkinson und Depression: Die Zeit ist reif - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNam1uN2NmNVJMaXNxTGk1bW1DTzBTS3gzQmU4TFN5bUV3LVhpbWVFMHVfem1aUmlvQUJtUTNWVnAyMGxiRGFlNUZIS0ZXZmVDMU5YTlJsR2NzQll6WWQ2ZFNRUHlleWNuLWs1Ql95ZGlhU1VJYktCLVF6djRxVy13S1pxWTRUdThCNkhCcXpuNHBtVnlrMEhMWVFzcVptcklycEg1Qk9QNGUwT3dqOFd1WjA2UWVwRXByYk4xdQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNam1uN2NmNVJMaXNxTGk1bW1DTzBTS3gzQmU4TFN5bUV3LVhpbWVFMHVfem1aUmlvQUJtUTNWVnAyMGxiRGFlNUZIS0ZXZmVDMU5YTlJsR2NzQll6WWQ2ZFNRUHlleWNuLWs1Ql95ZGlhU1VJYktCLVF6djRxVy13S1pxWTRUdThCNkhCcXpuNHBtVnlrMEhMWVFzcVptcklycEg1Qk9QNGUwT3dqOFd1WjA2UWVwRXByYk4xdQ?oc=5)
-
----
-
-### [Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
-
-2026-05-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlBUVXlVckZGcjIzOUNWdU04eF9pOWpDSVlOMDlyaU9Nd3g1MGZwc205VUh6NWNHblZ5dTFIZHFsNXZsdFU5azR1UEhBdl9UcVA4UlNpanhEcVYyWXV4Z05qNEFwSm85YlBackIxZ2VjNWVuU0UyMmlraGZyQ3FkeFdxT3lFUUIxZVBycmZxb2h5cURtNVczYXBUN0c2VTkySXlEajkxdGJ6cjI1WXNWMVl5dHhRTzlm?oc=5)
 
 ---
 

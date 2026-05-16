@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [España frena la obesidad adulta pero la epidemia infantil sigue crítica - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdCaGJGTWtHMkt5VWFhdGsyNDlWYU1vY2g1eE40MFZQdlNMdVZLbVpURVZZTWdmOW9mR0FiS3FPTTY0X0tLQkFSNldrVW1wUjBmeVFhUElOVVpHWUNHeHEycXVmQjMxaFNIUUlrS2JENnphVU9HTWtCTFpuekZ4QkZCTE5hRlNKQ056YUdMcUxKaHE1dUxwZTgzSlg5WFRVVm41ZnBiYUFJLUdpenBZczAyYkowV3AyUnBLRFh5ZlRaMDFjZGfSAcYBQVVfeXFMUEF3SUVEd0JpZ2xIRVY5NkRfVmk2US1KamNOZGpxQnJSVlNHT0dRdHZ3R3NjV2Z2bnRxMDY3eXFleXNlYnE0cFB1YVBrQ2RrSFExM3BPc096Y1FTWkVzdm90OXAtaUlvSWFHS1U4RTVUYWR6VjZqWEQtdjA0bWh3VTNHUThJV2JwMlFTUFFsZUg4VjY5QmRBdlFqdUhuUFBkaHR0Sk43VnhYWVVPRHpDVUNzZDVhQXVQclZ3QVlRdVVMRC15Vm9R?oc=5)
+
+2026-05-16 <span class="news-indication-tag">obesidad</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdCaGJGTWtHMkt5VWFhdGsyNDlWYU1vY2g1eE40MFZQdlNMdVZLbVpURVZZTWdmOW9mR0FiS3FPTTY0X0tLQkFSNldrVW1wUjBmeVFhUElOVVpHWUNHeHEycXVmQjMxaFNIUUlrS2JENnphVU9HTWtCTFpuekZ4QkZCTE5hRlNKQ056YUdMcUxKaHE1dUxwZTgzSlg5WFRVVm41ZnBiYUFJLUdpenBZczAyYkowV3AyUnBLRFh5ZlRaMDFjZGfSAcYBQVVfeXFMUEF3SUVEd0JpZ2xIRVY5NkRfVmk2US1KamNOZGpxQnJSVlNHT0dRdHZ3R3NjV2Z2bnRxMDY3eXFleXNlYnE0cFB1YVBrQ2RrSFExM3BPc096Y1FTWkVzdm90OXAtaUlvSWFHS1U4RTVUYWR6VjZqWEQtdjA0bWh3VTNHUThJV2JwMlFTUFFsZUg4VjY5QmRBdlFqdUhuUFBkaHR0Sk43VnhYWVVPRHpDVUNzZDVhQXVQclZ3QVlRdVVMRC15Vm9R?oc=5)
+
+---
 
 ### [GLP-1-RA bei Kindern: wirksam und sicher?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVW4wUWVhYkJYVFlFQWhMV19uX0xfaWFOR1lNc3ZkbW9WaDRPWFFTN1JSSnhuUkM5RTBqNzUyYWRZYW1Pdm9Sa0k0aGVSUVRoQXZkdzBMUnJ6b2JYaFRzM252d1FqMTg5VmNhZ01jYjUwWnhsSXJvdGkwQXlVbWdyTDNuczVJT0dVSGRPLUt5b0tINWlTVHJsYzF4NA?oc=5)
 
@@ -67,6 +75,22 @@ permalink: /news/orlistat/
 2026-05-16 <span class="news-indication-tag">obesity</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+
+---
+
+### [Studie: Frauen mit 3 oder mehr Kindern haben geringeres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
+
+2026-05-16 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+來源：[Kurier](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
+
+---
+
+### [New stroke trial reveals why reopening a blocked artery is sometimes not enough](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZURhbXlJdE9rdDRuYktqbnJsd3hPTV9jbVFlcW9fbzRGUlJVZ1hzV1dmUFFaaUZCMnZhRjNFcnJ2cjBWTkxkcFlkd1FYbEM3SlZhemJtSDZXc1RqMEFkTXBranFIakFyMll5cDNMeGRSTWpKc2M0bzBma2J4eXpqSFdOOFNuNFh2VF91dkxQR0p5TkUtQnBxNVR5UDJkUldWTXBkbHhJNnBMVjg?oc=5)
+
+2026-05-15 <span class="news-indication-tag">stroke</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZURhbXlJdE9rdDRuYktqbnJsd3hPTV9jbVFlcW9fbzRGUlJVZ1hzV1dmUFFaaUZCMnZhRjNFcnJ2cjBWTkxkcFlkd1FYbEM3SlZhemJtSDZXc1RqMEFkTXBranFIakFyMll5cDNMeGRSTWpKc2M0bzBma2J4eXpqSFdOOFNuNFh2VF91dkxQR0p5TkUtQnBxNVR5UDJkUldWTXBkbHhJNnBMVjg?oc=5)
 
 ---
 
@@ -99,14 +123,6 @@ permalink: /news/orlistat/
 2026-05-14 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
-
----
-
-### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">obesidad</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
 
 ---
 
