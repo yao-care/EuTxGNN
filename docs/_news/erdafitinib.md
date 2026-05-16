@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
 
@@ -62,17 +62,17 @@ permalink: /news/erdafitinib/
 
 ---
 
-### [Vithas Castellón alerta sobre la hipertensión, el enemigo silencioso que afecta a uno de cada tres adultos](https://news.google.com/rss/articles/CBMinAJBVV95cUxOOWlfWTZKd3lrM0lEb25KSjJnVXprMVNzSFRmMFZhS1g3eENVU2VuS2JLTXN5dzZHbjFkREtXekdDRDAtSmF0cTMxbzB1YkQ1ZUdTN2ZlbXZUNF80cEN1SVlQY3hTakpWSml6WHVQMzIxUHdzek9ORWZwRW5fbURYbFV4cHJMUm52cGJHZVpySjUyNmZac1dVTjU1a1BjV0JrT3B3aXVZZzZnaG1yUEdLYWdxUWl0U0huUnYyWHA2RldyWmRJcW5XNFdHbUNZamZhR2x2b2ZaMmVfdVNodEI3MXBOT2hBblVSdFQ2d215V2REYkE1Nm4yc0xIeVVyTC1ucnNHYUFsbzBKUmdGNlFkQy1YZG1zUHB0Y2xHV9IBogJBVV95cUxQTTZ6Z0hDWE9wMnNWM01hRkhSNFJwdnM1V2V2dThUb1NPTTE3bGlFR241ZFhCSTlQQXVudWxPVjREQVVYdXVWOXdnaHJUQ0Y5NGFPcGpmektMX3I2NVBhRkR6Q0xydTZBa3JqaEc4NVl1TUxGUzhlM0JQbVB6YnZIM1Z5WTgzU3VPS1FONzhIa1pkXzF3QXRuUktuRG9DUjcwMXB1VXJhT3dpOWgtdURqcExwT3RfRWpQR0p6UGd5U094dUpqYkwtRUd3RGhxdmdfdFpGdTNMRFJBWV9IcnlXZkNnNXNVNm40bnNiZno4ZHFJNUNuYlNkNUk5NnBxM2duY3FXc2J4c2d6dDM4cURucmZMT2JxMmE3X0t1bjRuRXlWZw?oc=5)
+### [Los expertos alertan de la hipertensión 'silenciosa' y piden simplificar el tratamiento - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhxX3U1TVdaaU9Ra3JnSGZiQ2dpTV92T3ZtQWZUWnVleTBpdnJTOE8wTmp2WV9qZE5VdW5XTjd6UlhONVdVamJhNlBiMjNqb09rN25LSGMzZ3VBSjlTOTA1QTU4LWFZVE5PalBuVGpiQXpWMU9BcU5rWjhrMG5zSFRFUXZEaXlRS1Fwa1dEcmtIdGN2YXY1M2hwZlFiNzZUMW5VMjRXSlQ5Q3VGaWo4dTRsalhqRmEta2FmRHlkONIBugFBVV95cUxQTFNsRGw2TnpWOE9HOTVxbDRvQzBlMXJtdy1iZThVVXNaeExDM3hNOWZQTjFLUE1OVVE3NktWcWNGdFVweVFPMlJlNTVhUFdWa2g2TEVKM0F2bWFHWjJyYjZoRTlQSmNZSHZvdl9HdExka3h5UGZkeld1YXVZRmZSLWk2Vm1BTmtJM2pHVjU5MVFmVFh1SnVzM0FOTDFwY1VwYmMtWHRCZUg5dUtPM0FMWDJZdFhwdC1qWEE?oc=5)
 
-2026-05-15 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+2026-05-15 <span class="news-indication-tag">hipertensión</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMinAJBVV95cUxOOWlfWTZKd3lrM0lEb25KSjJnVXprMVNzSFRmMFZhS1g3eENVU2VuS2JLTXN5dzZHbjFkREtXekdDRDAtSmF0cTMxbzB1YkQ1ZUdTN2ZlbXZUNF80cEN1SVlQY3hTakpWSml6WHVQMzIxUHdzek9ORWZwRW5fbURYbFV4cHJMUm52cGJHZVpySjUyNmZac1dVTjU1a1BjV0JrT3B3aXVZZzZnaG1yUEdLYWdxUWl0U0huUnYyWHA2RldyWmRJcW5XNFdHbUNZamZhR2x2b2ZaMmVfdVNodEI3MXBOT2hBblVSdFQ2d215V2REYkE1Nm4yc0xIeVVyTC1ucnNHYUFsbzBKUmdGNlFkQy1YZG1zUHB0Y2xHV9IBogJBVV95cUxQTTZ6Z0hDWE9wMnNWM01hRkhSNFJwdnM1V2V2dThUb1NPTTE3bGlFR241ZFhCSTlQQXVudWxPVjREQVVYdXVWOXdnaHJUQ0Y5NGFPcGpmektMX3I2NVBhRkR6Q0xydTZBa3JqaEc4NVl1TUxGUzhlM0JQbVB6YnZIM1Z5WTgzU3VPS1FONzhIa1pkXzF3QXRuUktuRG9DUjcwMXB1VXJhT3dpOWgtdURqcExwT3RfRWpQR0p6UGd5U094dUpqYkwtRUd3RGhxdmdfdFpGdTNMRFJBWV9IcnlXZkNnNXNVNm40bnNiZno4ZHFJNUNuYlNkNUk5NnBxM2duY3FXc2J4c2d6dDM4cURucmZMT2JxMmE3X0t1bjRuRXlWZw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhxX3U1TVdaaU9Ra3JnSGZiQ2dpTV92T3ZtQWZUWnVleTBpdnJTOE8wTmp2WV9qZE5VdW5XTjd6UlhONVdVamJhNlBiMjNqb09rN25LSGMzZ3VBSjlTOTA1QTU4LWFZVE5PalBuVGpiQXpWMU9BcU5rWjhrMG5zSFRFUXZEaXlRS1Fwa1dEcmtIdGN2YXY1M2hwZlFiNzZUMW5VMjRXSlQ5Q3VGaWo4dTRsalhqRmEta2FmRHlkONIBugFBVV95cUxQTFNsRGw2TnpWOE9HOTVxbDRvQzBlMXJtdy1iZThVVXNaeExDM3hNOWZQTjFLUE1OVVE3NktWcWNGdFVweVFPMlJlNTVhUFdWa2g2TEVKM0F2bWFHWjJyYjZoRTlQSmNZSHZvdl9HdExka3h5UGZkeld1YXVZRmZSLWk2Vm1BTmtJM2pHVjU5MVFmVFh1SnVzM0FOTDFwY1VwYmMtWHRCZUg5dUtPM0FMWDJZdFhwdC1qWEE?oc=5)
 
 ---
 
 ### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
-2026-05-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
@@ -86,27 +86,19 @@ permalink: /news/erdafitinib/
 
 ---
 
+### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+
+2026-05-14 <span class="news-indication-tag">heart disease</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 
 2026-05-14 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
-
----
-
-### [Eine verhängnisvolle Affäre: COPD und Herzerkrankung](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
-
----
-
-### [Bedeutung von körperlicher Aktivität und Sport zur Prävention und Therapie der Hypertonie – Dr. Dr. med. Lutz Aderhold - German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
 
 ---
 

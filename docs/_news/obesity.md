@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesità（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesità（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [GLP-1-RA bei Kindern: wirksam und sicher?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVW4wUWVhYkJYVFlFQWhMV19uX0xfaWFOR1lNc3ZkbW9WaDRPWFFTN1JSSnhuUkM5RTBqNzUyYWRZYW1Pdm9Sa0k0aGVSUVRoQXZkdzBMUnJ6b2JYaFRzM252d1FqMTg5VmNhZ01jYjUwWnhsSXJvdGkwQXlVbWdyTDNuczVJT0dVSGRPLUt5b0tINWlTVHJsYzF4NA?oc=5)
+
+2026-05-16
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVW4wUWVhYkJYVFlFQWhMV19uX0xfaWFOR1lNc3ZkbW9WaDRPWFFTN1JSSnhuUkM5RTBqNzUyYWRZYW1Pdm9Sa0k0aGVSUVRoQXZkdzBMUnJ6b2JYaFRzM252d1FqMTg5VmNhZ01jYjUwWnhsSXJvdGkwQXlVbWdyTDNuczVJT0dVSGRPLUt5b0tINWlTVHJsYzF4NA?oc=5)
+
+---
 
 ### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [El teletrabajo nos engorda tres kilos - El Correo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEpSX2pqMkliWVprSG12UmZXMFphaTZNZ3kyTDBiazk1MHFZTVFsWUl5eDJLZ2JMZzRUTGdMOG9HYXVKZVY0dDRGbmVWWXdWb1lLcEt2ZTdueHdoUENlbDV1QjJQTDRxbXFwUWdpV21ZaDdKTzVuZVJ6enFXWTVDS0xTemkxNlNYNlhSRDZsalNKQ1M0T28zWEtn?oc=5)
+### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
 
-2026-05-12
+2026-05-13
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEpSX2pqMkliWVprSG12UmZXMFphaTZNZ3kyTDBiazk1MHFZTVFsWUl5eDJLZ2JMZzRUTGdMOG9HYXVKZVY0dDRGbmVWWXdWb1lLcEt2ZTdueHdoUENlbDV1QjJQTDRxbXFwUWdpV21ZaDdKTzVuZVJ6enFXWTVDS0xTemkxNlNYNlhSRDZsalNKQ1M0T28zWEtn?oc=5)
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Kontaktlinsen gegen Depression: Forscher entwickeln nicht-invasive Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
+### [Nicht-invasive Kontaktlinsen per Elektrostimulation gegen Depressionen in Sicht - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
 
 2026-05-16 <span class="news-indication-tag">depression</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
 
 ---
 
-### [Depression und Schizophrenie: Magdeburger Forscher analysieren Immunsystem des Gehirns](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWxMbWl0UTRfbzNKckVFem94MDJVTVpYNXVZYjd0dXIyaU1NdkVLdWpGakNSWWVxWDVzVWhBSnlIbTBxWEpENjBMbk5vcGZFbnFPRUMzS3BXdHlOdEpNVXpRaW5qOTFPVDFPT1Q2SUxRdXYyN0p1UVphVHFfcHg3cXdkSTZqV0tOdnFVdHR5ZUVvOTlFRmdQLUg1a0RRWlAyNmFYSlpTY1hldDTSAbABQVVfeXFMTnFkZERpWFl5eExuQ3RNanhka1pBYWE1dTdqWUVxTTQ1N0RPbEpCUjBGQjFNaVNYbnFNLTIxaWRQLXRINU1iNzl0clpPLTNKUmYwcWI3enp1d09QX21maHh6NTJJS0RlWWVXRmxmWjFWZjgtTkk3eE16UVRXT3d1YmRjLWlhRzBsOVVsdmotRXlLU3RUSVBEMEtzd0dqbGpLR0NYZEQ4VnFSR2NzZnZlcWo?oc=5)
+### [Psychische Erkrankungen: Biologische Ursachen rücken in den Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0VVX1o1SzMwYzQ3ZXhhY0draVNuZGVaZXMtbXdEQmxhSDNnR3JyN2lZXzMybWxYOUVOMjh5UC00NHdyaVo0YWpKblFQbElkRzQ2eGxrcTZaRGxDRTloRXVreHlVVFQ2dzNlRzFTZmloTl8yb0tSLU9HREJ1ekxfMjk2MTktdmFNOWV2amV2LWdYSGJYVGNBWmlrdDBwTzM0d3RvbUVqM0JSYUF1RGthaHNhS2k?oc=5)
 
 2026-05-15 <span class="news-indication-tag">depression</span>
 
-來源：[MDR](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWxMbWl0UTRfbzNKckVFem94MDJVTVpYNXVZYjd0dXIyaU1NdkVLdWpGakNSWWVxWDVzVWhBSnlIbTBxWEpENjBMbk5vcGZFbnFPRUMzS3BXdHlOdEpNVXpRaW5qOTFPVDFPT1Q2SUxRdXYyN0p1UVphVHFfcHg3cXdkSTZqV0tOdnFVdHR5ZUVvOTlFRmdQLUg1a0RRWlAyNmFYSlpTY1hldDTSAbABQVVfeXFMTnFkZERpWFl5eExuQ3RNanhka1pBYWE1dTdqWUVxTTQ1N0RPbEpCUjBGQjFNaVNYbnFNLTIxaWRQLXRINU1iNzl0clpPLTNKUmYwcWI3enp1d09QX21maHh6NTJJS0RlWWVXRmxmWjFWZjgtTkk3eE16UVRXT3d1YmRjLWlhRzBsOVVsdmotRXlLU3RUSVBEMEtzd0dqbGpLR0NYZEQ4VnFSR2NzZnZlcWo?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0VVX1o1SzMwYzQ3ZXhhY0draVNuZGVaZXMtbXdEQmxhSDNnR3JyN2lZXzMybWxYOUVOMjh5UC00NHdyaVo0YWpKblFQbElkRzQ2eGxrcTZaRGxDRTloRXVreHlVVFQ2dzNlRzFTZmloTl8yb0tSLU9HREJ1ekxfMjk2MTktdmFNOWV2amV2LWdYSGJYVGNBWmlrdDBwTzM0d3RvbUVqM0JSYUF1RGthaHNhS2k?oc=5)
 
 ---
 
@@ -75,22 +75,6 @@ permalink: /news/esketamine-hydrochloride/
 2026-05-15 <span class="news-indication-tag">depresión</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NuTzljdW9RWjVCT1ZuRFF5aUl4dUZqNXZWbURFell5UWlyRFZKSHdKZW9iY1YzamxPaGlwWGQ0ZnhKZFVmTU5QamV5M0EyMS0wZ3pYZHpGbFp3VFFfdExpUXpSRThuZDVjYXJyZ3ZsOVZ3RnllZnRtTzhZR2o2dkVycDZ2cjdOZTNYX2ItQVZPbURHRjN1bUxWY2RKM1g4WnNiSzFlOWRYU1pUSXdsZTJidUxVNkRTLXdKNXdKRV85YUZmNlI5NEtfQjc3ZlU?oc=5)
-
----
-
-### [Le protoxyde d’azote, un traitement innovant contre la dépression des seniors ? - Le Télégramme](https://news.google.com/rss/articles/CBMivgFBVV95cUxOV215TlI4bDVFdXB2SE5HWFhNcWxUMXAxdS1HR0xMeE15Z0hvXzZMMlcybFkyenhYNmRmUGFrakVSM1lsWjMyZVF5a3lKLURsTkN2V2p5OEpzck5tSHBqWnpBUkRZWmx5eDZBNWhKOWNWdkl5a2NhTWNTOXdnS2thWnJqZF9lQ1Y4dkxXNi1wVUQyNVNWM3VuTDJjdE9qWS1pdjJoV2J1YktTQ2NvQUFJNmRkM2tBMGdTVWZtLV93?oc=5)
-
-2026-05-15 <span class="news-indication-tag">dépression</span>
-
-來源：[Le Télégramme](https://news.google.com/rss/articles/CBMivgFBVV95cUxOV215TlI4bDVFdXB2SE5HWFhNcWxUMXAxdS1HR0xMeE15Z0hvXzZMMlcybFkyenhYNmRmUGFrakVSM1lsWjMyZVF5a3lKLURsTkN2V2p5OEpzck5tSHBqWnpBUkRZWmx5eDZBNWhKOWNWdkl5a2NhTWNTOXdnS2thWnJqZF9lQ1Y4dkxXNi1wVUQyNVNWM3VuTDJjdE9qWS1pdjJoV2J1YktTQ2NvQUFJNmRkM2tBMGdTVWZtLV93?oc=5)
-
----
-
-### [Lenti a contatto contro la depressione: efficaci quanto i farmaci - la Repubblica](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXVUQms3ZGppd25jY3hsOTA4VlMwR2Q2U01USVlGbEpBQVh2eUJCYmVaX0xtTnRFQkZVT0RneTd5U0NhQzNyVFJrUUVSU0htVkhvNjdpaHNDWmZsdUlzckNEU1ROS2VFb0U5S0NseE9VSGRUV1VSNEJoZG1YWlpOQXY3ZHpTemxLbHNUVE1DTjBLSkY2ajhDMkJYNlJKVi0teXdwdWtIUEp0UkxyZ09wRTlNMU5NSTVRTk5aSNIBwgFBVV95cUxQMTJRal9rSEh3ZlNVVjNodHExSXdQVFQ4V1VaQ3JyMG84NE1xSEU5Qk5TWDZodGZKandGMl93dkE1NEYwNEhLRGpSRmJpMHNjSlVRa0ZzTDhlNUtsYjZqT2NyS3QwaF9nZ1RiMUs4NmNQZzBJWkN2NDJKb2QySXNPWHFLaU1GNVlxYXF3RDBlaUUwYUZxUkJGZGQtcE95eGNOV3o1WVdBRWZZRjRseE84bWpUQy1CaV9kZXhDazVGVUs4QQ?oc=5)
-
-2026-05-14 <span class="news-indication-tag">depression</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXVUQms3ZGppd25jY3hsOTA4VlMwR2Q2U01USVlGbEpBQVh2eUJCYmVaX0xtTnRFQkZVT0RneTd5U0NhQzNyVFJrUUVSU0htVkhvNjdpaHNDWmZsdUlzckNEU1ROS2VFb0U5S0NseE9VSGRUV1VSNEJoZG1YWlpOQXY3ZHpTemxLbHNUVE1DTjBLSkY2ajhDMkJYNlJKVi0teXdwdWtIUEp0UkxyZ09wRTlNMU5NSTVRTk5aSNIBwgFBVV95cUxQMTJRal9rSEh3ZlNVVjNodHExSXdQVFQ4V1VaQ3JyMG84NE1xSEU5Qk5TWDZodGZKandGMl93dkE1NEYwNEhLRGpSRmJpMHNjSlVRa0ZzTDhlNUtsYjZqT2NyS3QwaF9nZ1RiMUs4NmNQZzBJWkN2NDJKb2QySXNPWHFLaU1GNVlxYXF3RDBlaUUwYUZxUkJGZGQtcE95eGNOV3o1WVdBRWZZRjRseE84bWpUQy1CaV9kZXhDazVGVUs4QQ?oc=5)
 
 ---
 

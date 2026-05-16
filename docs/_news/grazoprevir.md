@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
-
-### [Salute, controlli dei Nas contro epatite A: sequestrate 16 tonnellate di alimenti](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTW05Q3VlSWVGSGkzZnFnNUpPeS1KYmk0dERDNmdxRDhQZXZfNDN3ZTg4c0h4RkFEdmlSWkJjR3BvT1JnMl9SdFVaV01KV2lNOV9JU0V5dkRrbVFzRnZtMzV2NUVvN3pFV2dlZ0ZHVzcySnV0V2U2aFZlREczQzNqX25TX09xczhERXdRYzJTWEJqTzVGOTR1SlczRXjSAWhBVV95cUxPVkRCVE42YkI0NVoxVmNYT3FSODNtaWEtQWgtWjkyVUJBRTVEb0NfN0FWdFE5blZvZGRnYVkwalJoTUFFdFA1NDRvUGMtZ2FUcnNuNzhUU2Jndll5TjN6YVpjZVI4Uld4UQ?oc=5)
-
-2026-05-16 <span class="news-indication-tag">epatite</span>
-
-來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTW05Q3VlSWVGSGkzZnFnNUpPeS1KYmk0dERDNmdxRDhQZXZfNDN3ZTg4c0h4RkFEdmlSWkJjR3BvT1JnMl9SdFVaV01KV2lNOV9JU0V5dkRrbVFzRnZtMzV2NUVvN3pFV2dlZ0ZHVzcySnV0V2U2aFZlREczQzNqX25TX09xczhERXdRYzJTWEJqTzVGOTR1SlczRXjSAWhBVV95cUxPVkRCVE42YkI0NVoxVmNYT3FSODNtaWEtQWgtWjkyVUJBRTVEb0NfN0FWdFE5blZvZGRnYVkwalJoTUFFdFA1NDRvUGMtZ2FUcnNuNzhUU2Jndll5TjN6YVpjZVI4Uld4UQ?oc=5)
-
----
-
-### [OMS moviliza expertos tras nuevo brote de ébola en la RDC](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZF85ZXVQWllLQ21aUFZGN292eXBhMkp2V1V3WXJnVmt2Rm0tSzN6N1FWOW44cDFBd2pIR3RBOXktT2Y0ODhPN3JsSVJ4algtbUdnWHJ6dXB2RHhySV84dXdOUENsV0Rudm5YUkpsZGhOX190c1A5N1YyUWFHYVZReTJtX0FNUmhLT3dmSDlJQ0d0c2w2aklHNGRXMNIBmwFBVV95cUxQNjhDemlsTkE5Z01rbWlLYVlRV3A0cHZHdGRBQzVFVzlCdkc0MDF1MURuMVF5aEg4cGEzSVUzTWhsZllwX1VKTV9iQmNFQkxvNVRnZzhpM0VnbEpWTVl6TEV6VnRtXy1ZMFEyNVZSS1lUQ3d6UHpRRGJoZ2Q2Zk11VUNkSjQ3dVZMa0h3bzFYeUR4aFVTeGZ5aUJXaw?oc=5)
-
-2026-05-15 <span class="news-indication-tag">MS</span>
-
-來源：[DW.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZF85ZXVQWllLQ21aUFZGN292eXBhMkp2V1V3WXJnVmt2Rm0tSzN6N1FWOW44cDFBd2pIR3RBOXktT2Y0ODhPN3JsSVJ4algtbUdnWHJ6dXB2RHhySV84dXdOUENsV0Rudm5YUkpsZGhOX190c1A5N1YyUWFHYVZReTJtX0FNUmhLT3dmSDlJQ0d0c2w2aklHNGRXMNIBmwFBVV95cUxQNjhDemlsTkE5Z01rbWlLYVlRV3A0cHZHdGRBQzVFVzlCdkc0MDF1MURuMVF5aEg4cGEzSVUzTWhsZllwX1VKTV9iQmNFQkxvNVRnZzhpM0VnbEpWTVl6TEV6VnRtXy1ZMFEyNVZSS1lUQ3d6UHpRRGJoZ2Q2Zk11VUNkSjQ3dVZMa0h3bzFYeUR4aFVTeGZ5aUJXaw?oc=5)
-
----
+## 相關新聞（12 則）
 
 ### [Belfast hospital outbreak: Why this antibiotic-resistant bug has experts worried - Belfast Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQTWxRSHl6WV9qeTJBOV9hNGVsVGttR2g3end6bHZ4NmpvNjBuTFRJam5WSC1vWmswdE1zaGw3TFotbDBFU3NCUFJwam9GYURsNlpkMU5KV1pDMVZ6a01tRjBIU0lkUE1kRVhHR3JWNjlSdm5wRGI2SlNYQzFHQlQ4V1JydmR6QWhQRE5CUmtEVDJVTHhzU0p4NTEyMTlJZw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQTWxRSHl6WV9qeTJBOV9hNGVsVGttR2g3end6bHZ4NmpvNjBuTFRJam5WSC1vWmswdE1zaGw3TFotbDBFU3NCUFJwam9GYURsNlpkMU5KV1pDMVZ6a01tRjBIU0lkUE1kRVhHR3JWNjlSdm5wRGI2SlNYQzFHQlQ4V1JydmR6QWhQRE5CUmtEVDJVTHhzU0p4NTEyMTlJZw?oc=5)
-
----
-
-### [I was 19 when I fainted in an exam - I woke up with an 80% mortality rate - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnFTd0daYzJLdnRHeFlFeGg1cFN5bUlGc3hlMTlHYTc5bW5CX01lMFpseURMR3pPd3ZTb2ZTZnhESWNrZUN1ZWFLZ1I5eFNqTW5wVmI4SXZUanowX2RaV2poUG42Z1VIWmJMVWkzRXV1YmZUaGdZaC1IdkdLYkpaMlE0eDk?oc=5)
-
-2026-05-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnFTd0daYzJLdnRHeFlFeGg1cFN5bUlGc3hlMTlHYTc5bW5CX01lMFpseURMR3pPd3ZTb2ZTZnhESWNrZUN1ZWFLZ1I5eFNqTW5wVmI4SXZUanowX2RaV2poUG42Z1VIWmJMVWkzRXV1YmZUaGdZaC1IdkdLYkpaMlE0eDk?oc=5)
 
 ---
 
@@ -94,6 +70,14 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Signs of 'silent killer' Dr Amir Khan says all women need to be aware of - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RUN0UndiZjgwYWRiUDhYVWlBamd0UnZfQXlfakNnT1ZnMWNWaVhLQ0NTQkZ0NzdrWWdWU0JuYTc0T2dXRFNpUE1yejl4bEU3SWFYRFZ5SHNHY1QwdVI2M01pWVRZXzBIdTM4WkNESWZGR29CM0VLNW8zdHNxQdIBgwFBVV95cUxPY0lhUlVfVy1oempOZFdELV9EaVpvSEZnMnRxMHV4YWJpU3BTVkpSZWR5ZlpCRDZUbDJid0hBSXF4akw3WU5TcmxvY3JmbktCUF9CZTR6SWQyQVdLRU40MHpfcWlBSFhmN1ZtN1JXallfVldXYXlicWdZbFJnNlBfSEJ3VQ?oc=5)
+
+2026-05-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RUN0UndiZjgwYWRiUDhYVWlBamd0UnZfQXlfakNnT1ZnMWNWaVhLQ0NTQkZ0NzdrWWdWU0JuYTc0T2dXRFNpUE1yejl4bEU3SWFYRFZ5SHNHY1QwdVI2M01pWVRZXzBIdTM4WkNESWZGR29CM0VLNW8zdHNxQdIBgwFBVV95cUxPY0lhUlVfVy1oempOZFdELV9EaVpvSEZnMnRxMHV4YWJpU3BTVkpSZWR5ZlpCRDZUbDJid0hBSXF4akw3WU5TcmxvY3JmbktCUF9CZTR6SWQyQVdLRU40MHpfcWlBSFhmN1ZtN1JXallfVldXYXlicWdZbFJnNlBfSEJ3VQ?oc=5)
+
+---
+
 ### [Visiting Museums May Slow Your Biological Aging, Study Finds](https://news.google.com/rss/articles/CBMikgFBVV95cUxQdkJib0dLWjJ5aWd2b1p6ck9aN25CU0dfQ3RMUU1IRDFIVERnYTJqbnkwLU95YlZiN0NzRmxZc2VsT2J6aTl4TFd2WFpwdW1HUnl5Z3hvVWZMNVgyRXNqTmhnV2tWMjE5S2NHVzJBM214R1dBTXZsQWZxbllWWG1hWWU0RVlQRjN1dm5kV2lDdERhUQ?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
@@ -102,11 +86,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [„Erwachsene mit ADHS haben keine Lifestyle-Krankheit“ - RP Online](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXJmZjNyTEJiQTM3cTZ0LUpVSWk3S2dhZEhNSEVpZVUwWmhFWkdSUmxBWnpyZTdmNWpQV0xtMFpVbHF4Y2tMQTVYYjItZEdzZ18wRVI4T094NU5ON0R4a0EzS3RQNFBqNE5pWm1QNTZya2pKbjZGSGhBY09xTzNCU01DblRjbDEyUWZhX2JZUVVsVTd0VFdGbElKdVdXVkUtaFN2V0haZzA2dWRCbTV2MElmRDNlZw?oc=5)
+### [Bryan Johnson says you are not drinking coffee for the caffeine — you are drinking it for the gut microbes that run your brain, and the research behind that claim is harder to dismiss than it sounds - Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxQb1l6cjVnR3IxQU9HT0d5bGdKQVVfcmxndURIX1piaXVSV3hqdHNTcHh4U3NqNXFvRzgzRlBNcENZYlhNaUxCZldLYXUwMWhEU0xtYThDLXdjMTZ1ZXFjWlBWZUE1cWhsM2s1QnB6OWhWRnFxUlo3N1Z6ZF9hbUdySkdYWjlFUzlhSVN3bFpxcjBDb191SnllQVN0cVVleHNCUW53M21Za3B4QXlnYjByUEV4bnVXNEYweWJfS3BuRHhMUjdpMEJleUdHaVFMNHJXVkJ3NGZaLU50dGNWSEV3bTRKWGhjVTREa3BqOURMMzYzSFlwZzQwVUZXQzZuN3hDUS11blR1dGJRdFozUnVFRlFibHF1VnUtSUljbkJaUGpXZU04a09ZMTJ4b1NSQVljUzE2VnhMa0ZKUQ?oc=5)
 
-2026-05-15 <span class="news-indication-tag">MS</span>
+2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[RP Online](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXJmZjNyTEJiQTM3cTZ0LUpVSWk3S2dhZEhNSEVpZVUwWmhFWkdSUmxBWnpyZTdmNWpQV0xtMFpVbHF4Y2tMQTVYYjItZEdzZ18wRVI4T094NU5ON0R4a0EzS3RQNFBqNE5pWm1QNTZya2pKbjZGSGhBY09xTzNCU01DblRjbDEyUWZhX2JZUVVsVTd0VFdGbElKdVdXVkUtaFN2V0haZzA2dWRCbTV2MElmRDNlZw?oc=5)
+來源：[Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxQb1l6cjVnR3IxQU9HT0d5bGdKQVVfcmxndURIX1piaXVSV3hqdHNTcHh4U3NqNXFvRzgzRlBNcENZYlhNaUxCZldLYXUwMWhEU0xtYThDLXdjMTZ1ZXFjWlBWZUE1cWhsM2s1QnB6OWhWRnFxUlo3N1Z6ZF9hbUdySkdYWjlFUzlhSVN3bFpxcjBDb191SnllQVN0cVVleHNCUW53M21Za3B4QXlnYjByUEV4bnVXNEYweWJfS3BuRHhMUjdpMEJleUdHaVFMNHJXVkJ3NGZaLU50dGNWSEV3bTRKWGhjVTREa3BqOURMMzYzSFlwZzQwVUZXQzZuN3hDUS11blR1dGJRdFozUnVFRlFibHF1VnUtSUljbkJaUGpXZU04a09ZMTJ4b1NSQVljUzE2VnhMa0ZKUQ?oc=5)
 
 ---
 
@@ -123,6 +107,22 @@ permalink: /news/grazoprevir/
 2026-05-15 <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0htelZtb0FnY1VPYU5RU2o4UTRWMFQ3b25sY3pGbGswSnJkSVFhRi1hMmFuSmdabzFHeTdRZFptYkd3M1pWMThWRU4xRW0xNDlSaDFiMFduTndHM1NTUWhLOURyTTFmME11RGhoRndKV1ZvYXZJRXVtNnM2eGJuMFpB0gGHAUFVX3lxTE9xMVd1R21FcTRBdUR5V24zdzY0eDFUREZYQ2ppQ0xicWk1VUJZRzJFU09XS3NUWkgxMnY3Q0E2SE9RQmVMQWJGcVJQYjNNd2xfY002c09QZG0wN2JJdFM2RUwwMGRkbVc5bUcwdjJqZC1GR182WTR0U2pSZDVQbDUtYndjTjA0dw?oc=5)
+
+---
+
+### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
+
+2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
+
+---
+
+### [Antidepressants in pregnancy do not raise children’s risk of autism or ADHD, study finds - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkctWGJtNzVVUXJUN3RVNW1jQU1xRm5jcDdOaV9VSndINmR2UWh5S1FxMEFVcTE3d1dtcTFHRzhnYU03eXBzNmVCSEF4blVHczFGRDNMZ1RQcmlHYkwyZGlUYW15NDl5emVCMS1TUTk4V0pYb3VfNHRsNFpaU1FTTGI2bWJFNGNvcnRQaEZfWXR4em8yTFRkRzUyQURqZ1ZLRG1QTmJpbXZFOF9TdE5PcEpST0ZFWjg0eVN1ZQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkctWGJtNzVVUXJUN3RVNW1jQU1xRm5jcDdOaV9VSndINmR2UWh5S1FxMEFVcTE3d1dtcTFHRzhnYU03eXBzNmVCSEF4blVHczFGRDNMZ1RQcmlHYkwyZGlUYW15NDl5emVCMS1TUTk4V0pYb3VfNHRsNFpaU1FTTGI2bWJFNGNvcnRQaEZfWXR4em8yTFRkRzUyQURqZ1ZLRG1QTmJpbXZFOF9TdE5PcEpST0ZFWjg0eVN1ZQ?oc=5)
 
 ---
 
@@ -147,14 +147,6 @@ permalink: /news/grazoprevir/
 2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[MSN](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
-
----
-
-### [Zwölf Klinikmitarbeiter nach Fehler bei Hantavirus-Behandlung in Quarantäne](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2c4T01YWVFxdDk3SFVWNDIzZnEzVUM3dE5XM1RVQWxYVG1rM3haeXNjMFF6cW5GSnRfWTc5WktwV01YY2l6Y0RLVWdRUUx0cTZtS3pSTzZLNG5NTDY0ZXIyYV9ZTGZNZzRackFWdFJHRmo3OWdDcXNHQ3NEM2MxcTZyV21FdHRFS01TaTJ6TUpieV9LWUNCdlV5RUdDMHg2WFpobWN4OEFONng2YUJIUVFvNnFKOEdDWVZGeHpxV1VPTjJQc0xWUzBZLXZfajQya29iVGF5Xzg?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span>
-
-來源：[MSN](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2c4T01YWVFxdDk3SFVWNDIzZnEzVUM3dE5XM1RVQWxYVG1rM3haeXNjMFF6cW5GSnRfWTc5WktwV01YY2l6Y0RLVWdRUUx0cTZtS3pSTzZLNG5NTDY0ZXIyYV9ZTGZNZzRackFWdFJHRmo3OWdDcXNHQ3NEM2MxcTZyV21FdHRFS01TaTJ6TUpieV9LWUNCdlV5RUdDMHg2WFpobWN4OEFONng2YUJIUVFvNnFKOEdDWVZGeHpxV1VPTjJQc0xWUzBZLXZfajQya29iVGF5Xzg?oc=5)
 
 ---
 

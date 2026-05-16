@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="Ritonavir 有什麼相關新聞？">
-<strong>Ritonavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ritonavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/ritonavir/
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Salute, controlli dei Nas contro epatite A: sequestrate 16 tonnellate di alimenti](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTW05Q3VlSWVGSGkzZnFnNUpPeS1KYmk0dERDNmdxRDhQZXZfNDN3ZTg4c0h4RkFEdmlSWkJjR3BvT1JnMl9SdFVaV01KV2lNOV9JU0V5dkRrbVFzRnZtMzV2NUVvN3pFV2dlZ0ZHVzcySnV0V2U2aFZlREczQzNqX25TX09xczhERXdRYzJTWEJqTzVGOTR1SlczRXjSAWhBVV95cUxPVkRCVE42YkI0NVoxVmNYT3FSODNtaWEtQWgtWjkyVUJBRTVEb0NfN0FWdFE5blZvZGRnYVkwalJoTUFFdFA1NDRvUGMtZ2FUcnNuNzhUU2Jndll5TjN6YVpjZVI4Uld4UQ?oc=5)
-
-2026-05-16 <span class="news-indication-tag">epatite</span>
-
-來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTW05Q3VlSWVGSGkzZnFnNUpPeS1KYmk0dERDNmdxRDhQZXZfNDN3ZTg4c0h4RkFEdmlSWkJjR3BvT1JnMl9SdFVaV01KV2lNOV9JU0V5dkRrbVFzRnZtMzV2NUVvN3pFV2dlZ0ZHVzcySnV0V2U2aFZlREczQzNqX25TX09xczhERXdRYzJTWEJqTzVGOTR1SlczRXjSAWhBVV95cUxPVkRCVE42YkI0NVoxVmNYT3FSODNtaWEtQWgtWjkyVUJBRTVEb0NfN0FWdFE5blZvZGRnYVkwalJoTUFFdFA1NDRvUGMtZ2FUcnNuNzhUU2Jndll5TjN6YVpjZVI4Uld4UQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

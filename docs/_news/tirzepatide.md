@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [El gran desafío de Ozempic es el efecto rebote. La ciencia ya tiene dos prometedoras soluciones para evitarlo](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUENESnZvamNBekc3VEhNNmtBYUZ3YmtuUWhCaHh6M3RXem5pTnRmVmlyZDdhZXQzdXVYcEJQa19aM1dyeGk4OHliRXY1c29BZ05lOHpYVG1MVU1lSEstLU5UY0ZtM25McXhHNXNDU20wT2RFRG9nVjNkazdzcjNZU3NfMHVSMlhVTVEtZy1hRURvTEpLSmdEZ1BuNUYwNFRSdk5KTFNjeUJlRExEMWc4VmZnWWNqTWN0MTVfaGZBb3RsQXZSb1hwSzRB0gHPAUFVX3lxTE9ybi1PMDhaQmZjWnA3TWJvRi1WZzQ0M2xGXzM5VmEwOTVoQ05iUVhTZUVXZTlTNXBmU1JHVkdic3FHNjV6Sk9zSjBqNEVzUFUtVTNIVmdtdjRRNVBpM2dHNW9mYmVZaFZuTkZfeW5WRXFEc25BY1NRU2V1cXpNV3k1Y014OHRTSTdkaklCbmx5UlYyc21yNm9GRlVvcEgzbXNuRU5WbFhnLTlRN1lxSFVyajN6NEZ2RXJGQzlmZDNvMWZXdnJzcE9aY280eUpzcw?oc=5)
-
-2026-05-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUENESnZvamNBekc3VEhNNmtBYUZ3YmtuUWhCaHh6M3RXem5pTnRmVmlyZDdhZXQzdXVYcEJQa19aM1dyeGk4OHliRXY1c29BZ05lOHpYVG1MVU1lSEstLU5UY0ZtM25McXhHNXNDU20wT2RFRG9nVjNkazdzcjNZU3NfMHVSMlhVTVEtZy1hRURvTEpLSmdEZ1BuNUYwNFRSdk5KTFNjeUJlRExEMWc4VmZnWWNqTWN0MTVfaGZBb3RsQXZSb1hwSzRB0gHPAUFVX3lxTE9ybi1PMDhaQmZjWnA3TWJvRi1WZzQ0M2xGXzM5VmEwOTVoQ05iUVhTZUVXZTlTNXBmU1JHVkdic3FHNjV6Sk9zSjBqNEVzUFUtVTNIVmdtdjRRNVBpM2dHNW9mYmVZaFZuTkZfeW5WRXFEc25BY1NRU2V1cXpNV3k1Y014OHRTSTdkaklCbmx5UlYyc21yNm9GRlVvcEgzbXNuRU5WbFhnLTlRN1lxSFVyajN6NEZ2RXJGQzlmZDNvMWZXdnJzcE9aY280eUpzcw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 

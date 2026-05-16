@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [GLP-1-RA bei Kindern: wirksam und sicher?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVW4wUWVhYkJYVFlFQWhMV19uX0xfaWFOR1lNc3ZkbW9WaDRPWFFTN1JSSnhuUkM5RTBqNzUyYWRZYW1Pdm9Sa0k0aGVSUVRoQXZkdzBMUnJ6b2JYaFRzM252d1FqMTg5VmNhZ01jYjUwWnhsSXJvdGkwQXlVbWdyTDNuczVJT0dVSGRPLUt5b0tINWlTVHJsYzF4NA?oc=5)
+
+2026-05-16 <span class="news-indication-tag">Adipositas</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVW4wUWVhYkJYVFlFQWhMV19uX0xfaWFOR1lNc3ZkbW9WaDRPWFFTN1JSSnhuUkM5RTBqNzUyYWRZYW1Pdm9Sa0k0aGVSUVRoQXZkdzBMUnJ6b2JYaFRzM252d1FqMTg5VmNhZ01jYjUwWnhsSXJvdGkwQXlVbWdyTDNuczVJT0dVSGRPLUt5b0tINWlTVHJsYzF4NA?oc=5)
+
+---
 
 ### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
 
@@ -80,7 +88,7 @@ permalink: /news/orlistat/
 
 ### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
-2026-05-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
@@ -94,11 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [El teletrabajo nos engorda tres kilos - El Correo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEpSX2pqMkliWVprSG12UmZXMFphaTZNZ3kyTDBiazk1MHFZTVFsWUl5eDJLZ2JMZzRUTGdMOG9HYXVKZVY0dDRGbmVWWXdWb1lLcEt2ZTdueHdoUENlbDV1QjJQTDRxbXFwUWdpV21ZaDdKTzVuZVJ6enFXWTVDS0xTemkxNlNYNlhSRDZsalNKQ1M0T28zWEtn?oc=5)
+### [La ‘epidemia de obesidad’ fractura el planeta en dos: se frena en los países ricos, disparada en los más pobres - EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
 
-2026-05-12 <span class="news-indication-tag">obesidad</span>
+2026-05-13 <span class="news-indication-tag">obesidad</span>
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEpSX2pqMkliWVprSG12UmZXMFphaTZNZ3kyTDBiazk1MHFZTVFsWUl5eDJLZ2JMZzRUTGdMOG9HYXVKZVY0dDRGbmVWWXdWb1lLcEt2ZTdueHdoUENlbDV1QjJQTDRxbXFwUWdpV21ZaDdKTzVuZVJ6enFXWTVDS0xTemkxNlNYNlhSRDZsalNKQ1M0T28zWEtn?oc=5)
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNWVU8zeUJaTktWQkwzWXlYeTVpSU03dkZIMDE4U2dQYmRsdFRyNXplNlRsYU9FRVR4c3VKcHlUanpaeEFLWTZhRXA1VWt2SUFic2ZZMHRyUUFfdy12RjhHeDZwX0hqbGQ3WVMyaG9FQk5LVmtwbGp3NWs3ZlBOZFBsNWo2UFZpSkVPemg0cXVaSmwwaGpIS0dyT05YVFV6Y2c5SzlId1E2MVU2RmI4SnU4YUduTVJxRlBQNC01d1dYRHZIZzN3SXg1TTMyOTlaaGtIOEs0QkxmSVMyZmdfTVlUUTVLUXJpODBXcExnclp5UQ?oc=5)
 
 ---
 

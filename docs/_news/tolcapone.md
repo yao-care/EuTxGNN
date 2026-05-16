@@ -54,19 +54,19 @@ permalink: /news/tolcapone/
 
 ## 相關新聞（2 則）
 
-### [Bryan Johnson says you are not drinking coffee for the caffeine — you are drinking it for the gut microbes that run your brain, and the research behind that claim is harder to dismiss than it sounds - Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxQb1l6cjVnR3IxQU9HT0d5bGdKQVVfcmxndURIX1piaXVSV3hqdHNTcHh4U3NqNXFvRzgzRlBNcENZYlhNaUxCZldLYXUwMWhEU0xtYThDLXdjMTZ1ZXFjWlBWZUE1cWhsM2s1QnB6OWhWRnFxUlo3N1Z6ZF9hbUdySkdYWjlFUzlhSVN3bFpxcjBDb191SnllQVN0cVVleHNCUW53M21Za3B4QXlnYjByUEV4bnVXNEYweWJfS3BuRHhMUjdpMEJleUdHaVFMNHJXVkJ3NGZaLU50dGNWSEV3bTRKWGhjVTREa3BqOURMMzYzSFlwZzQwVUZXQzZuN3hDUS11blR1dGJRdFozUnVFRlFibHF1VnUtSUljbkJaUGpXZU04a09ZMTJ4b1NSQVljUzE2VnhMa0ZKUQ?oc=5)
+### [How cycling reduces dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPS09GaGt5Yy1QTGtOTUNuWDM2VVZ1YnNYbUZJajNvVFFlR2tWaTRqZG96NGtjZHczbWt0THBGRjVEajhoSlRxYWNyb1pxUkVibXlEUWg4Z2YyV0JZbmF0NXhnc0MxZnpDc0hhV3lJSnFHUWpOOUVVZG13OHlpc1VGMDVxdVNrcWpOMk9TWkZ4NURLdkc3ZnJVU1g2ZzhlZw?oc=5)
 
-2026-05-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-05-16 <span class="news-indication-tag">dementia</span>
 
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxQb1l6cjVnR3IxQU9HT0d5bGdKQVVfcmxndURIX1piaXVSV3hqdHNTcHh4U3NqNXFvRzgzRlBNcENZYlhNaUxCZldLYXUwMWhEU0xtYThDLXdjMTZ1ZXFjWlBWZUE1cWhsM2s1QnB6OWhWRnFxUlo3N1Z6ZF9hbUdySkdYWjlFUzlhSVN3bFpxcjBDb191SnllQVN0cVVleHNCUW53M21Za3B4QXlnYjByUEV4bnVXNEYweWJfS3BuRHhMUjdpMEJleUdHaVFMNHJXVkJ3NGZaLU50dGNWSEV3bTRKWGhjVTREa3BqOURMMzYzSFlwZzQwVUZXQzZuN3hDUS11blR1dGJRdFozUnVFRlFibHF1VnUtSUljbkJaUGpXZU04a09ZMTJ4b1NSQVljUzE2VnhMa0ZKUQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPS09GaGt5Yy1QTGtOTUNuWDM2VVZ1YnNYbUZJajNvVFFlR2tWaTRqZG96NGtjZHczbWt0THBGRjVEajhoSlRxYWNyb1pxUkVibXlEUWg4Z2YyV0JZbmF0NXhnc0MxZnpDc0hhV3lJSnFHUWpOOUVVZG13OHlpc1VGMDVxdVNrcWpOMk9TWkZ4NURLdkc3ZnJVU1g2ZzhlZw?oc=5)
 
 ---
 
-### [My little boy said 'mama' once then never spoke again… it was sign of dementia - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBGa0VpTWZBMEFiUWw0SU1GWm5EY2RPVElKYks3UlFZUHJLeTZZQWc0OVJPS3J2UHNvOUFwVDJaU1dRU0ZmNkdDYTlmeXkwR1VBMG03Rl91NDgtOG5MTDRyU0p0bldKZ3BkRkYzZ2dQMXFaTkI3SXFLdEpVVQ?oc=5)
+### [Eight foods and drinks to have every week to cut your dementia risk - The i Paper](https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk1GMGJUY1J4SndtbTk1QWhOMU5aTDhlam1ocFVzQWZxQnJETHNTbVM3RV9MdVRlWVdhYWZGU0pnRllIQlBNRG5YOUVXaFAzdmNQbkYzb0FpNHVaWXcyamZOZ1c0Um5SejlfaGhLR1BqTWM5OEZrRUM2Slk4NHNlTk05cFZUVFhnSFgyTnBwS19Sc29xWUE?oc=5)
 
-2026-05-14 <span class="news-indication-tag">dementia</span>
+2026-05-15 <span class="news-indication-tag">dementia</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFBGa0VpTWZBMEFiUWw0SU1GWm5EY2RPVElKYks3UlFZUHJLeTZZQWc0OVJPS3J2UHNvOUFwVDJaU1dRU0ZmNkdDYTlmeXkwR1VBMG03Rl91NDgtOG5MTDRyU0p0bldKZ3BkRkYzZ2dQMXFaTkI3SXFLdEpVVQ?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk1GMGJUY1J4SndtbTk1QWhOMU5aTDhlam1ocFVzQWZxQnJETHNTbVM3RV9MdVRlWVdhYWZGU0pnRllIQlBNRG5YOUVXaFAzdmNQbkYzb0FpNHVaWXcyamZOZ1c0Um5SejlfaGhLR1BqTWM5OEZrRUM2Slk4NHNlTk05cFZUVFhnSFgyTnBwS19Sc29xWUE?oc=5)
 
 ---
 
