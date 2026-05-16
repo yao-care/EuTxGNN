@@ -14,7 +14,7 @@ permalink: /news/artesunate/
 ---
 
 <p class="key-answer" data-question="Artesunate 有什麼相關新聞？">
-<strong>Artesunate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Artesunate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/artesunate/
 <p><a href="{{ '/drugs/artesunate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 
 2026-05-14 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
-
----
-
-### [Artrite reumatoide e invalidità: come ottenere il riconoscimento Inps - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">artrite</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
 ---
 

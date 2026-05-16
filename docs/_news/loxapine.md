@@ -54,6 +54,22 @@ permalink: /news/loxapine/
 
 ## 相關新聞（39 則）
 
+### [La reacción mundial al hantavirus es una secuela de la pandemia por COVID - Los Angeles Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGJoMjQydnRYUG00NkFHYjJhUFl5dlBiRDVwZGlmSXVQazBoaUUxWU9XOWlPY1hHUE1FUTJlN05WblBISGNFd25mem54LXZyc3UwT0oyR0RSME1aX0o4Z1Bud04zcHM2U3ZHNERfbjNsRlJkSWdKWktrVzdOenQ4dTNqTVd1SEFqT1hMV2d3MmZIaXc3Wi1GNUlHMUlscG5zUmtFc2dXd1Z0ejNuMHRpTW9vcDd6YkdjSi1CNTAyTnRDZVJIS2NacjVn?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span>
+
+來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGJoMjQydnRYUG00NkFHYjJhUFl5dlBiRDVwZGlmSXVQazBoaUUxWU9XOWlPY1hHUE1FUTJlN05WblBISGNFd25mem54LXZyc3UwT0oyR0RSME1aX0o4Z1Bud04zcHM2U3ZHNERfbjNsRlJkSWdKWktrVzdOenQ4dTNqTVd1SEFqT1hMV2d3MmZIaXc3Wi1GNUlHMUlscG5zUmtFc2dXd1Z0ejNuMHRpTW9vcDd6YkdjSi1CNTAyTnRDZVJIS2NacjVn?oc=5)
+
+---
+
+### [Father pays tribute to ‘kind-hearted’ son who died after contracting meningitis - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnY3Mm9kY2o1T2N4UzBoZEpLVnQzRmdyZTNDRnJIb2RSTnVocktneW5HdVNvY2UyOWpzczF5clA3NkpCN3QzeHplOXg0eHJUM0tOUDVFSzM3MWVZS0wwUFJoc19Nck5MYm5JUXF1N1dkSGIzc3VVclVOOVdmSUJMMG5uVzJpdlU0RzBIY1hvWnVFTndHVVBGSmxHVS1mNEFQbjNlVmRJd0IyeGM?oc=5)
+
+2026-05-15 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnY3Mm9kY2o1T2N4UzBoZEpLVnQzRmdyZTNDRnJIb2RSTnVocktneW5HdVNvY2UyOWpzczF5clA3NkpCN3QzeHplOXg0eHJUM0tOUDVFSzM3MWVZS0wwUFJoc19Nck5MYm5JUXF1N1dkSGIzc3VVclVOOVdmSUJMMG5uVzJpdlU0RzBIY1hvWnVFTndHVVBGSmxHVS1mNEFQbjNlVmRJd0IyeGM?oc=5)
+
+---
+
 ### [OMS moviliza expertos tras nuevo brote de ébola en la RDC](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZF85ZXVQWllLQ21aUFZGN292eXBhMkp2V1V3WXJnVmt2Rm0tSzN6N1FWOW44cDFBd2pIR3RBOXktT2Y0ODhPN3JsSVJ4algtbUdnWHJ6dXB2RHhySV84dXdOUENsV0Rudm5YUkpsZGhOX190c1A5N1YyUWFHYVZReTJtX0FNUmhLT3dmSDlJQ0d0c2w2aklHNGRXMNIBmwFBVV95cUxQNjhDemlsTkE5Z01rbWlLYVlRV3A0cHZHdGRBQzVFVzlCdkc0MDF1MURuMVF5aEg4cGEzSVUzTWhsZllwX1VKTV9iQmNFQkxvNVRnZzhpM0VnbEpWTVl6TEV6VnRtXy1ZMFEyNVZSS1lUQ3d6UHpRRGJoZ2Q2Zk11VUNkSjQ3dVZMa0h3bzFYeUR4aFVTeGZ5aUJXaw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
@@ -62,27 +78,19 @@ permalink: /news/loxapine/
 
 ---
 
-### [Health agency names two schools affected by Berkshire meningitis outbreak - The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmk1aVdaYkdlZThNU2IyVmtlVS1jWXNPeG5uc0ZSRUdhR1Rma0ZOQmZIUjN3RHJRenF5SnZNRXFLakhkdGMzSlJYRHdJVnBwdGxDWXdfYl9WTFpyUnZxRjc5eUZkQjd4ZnZRZjNTSDM1WE1scjVLSFB3WDN4dXQ4YzJWUDFmVDlVUjhPWXhnYlBGTFgyV1AySEVURlR6S05QMTdrQVR3eUJmTE1EMGg5WFpR?oc=5)
+### [Girl who suffered burst appendix after being discharged from CUH settles case - The Irish Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3E1X21SQWs5cERaSlZfY1RIaS1PTEdZZVBkemFTMmZxMUV1ZTVIVlFpWFZRMVVRdjRaZTFyTHpTSmZQNFAwdDl2YWlyTU1adzd5aDMzMGZ2VGVkdkpVZVZxQW1ONi1zYkFMay12TlNXQlB2NThMYUNVRGFJMXUzN19JMTYwbHVWTU9PXzI5cFhNcENLeGQxR0lZWGRDU1l6aUZoNGFFYlBQRnVWd1I3ZHQzQXNoTEw5RkpORDBOQ0dGTzNBQlZDblhVNWtOZw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmk1aVdaYkdlZThNU2IyVmtlVS1jWXNPeG5uc0ZSRUdhR1Rma0ZOQmZIUjN3RHJRenF5SnZNRXFLakhkdGMzSlJYRHdJVnBwdGxDWXdfYl9WTFpyUnZxRjc5eUZkQjd4ZnZRZjNTSDM1WE1scjVLSFB3WDN4dXQ4YzJWUDFmVDlVUjhPWXhnYlBGTFgyV1AySEVURlR6S05QMTdrQVR3eUJmTE1EMGg5WFpR?oc=5)
+來源：[The Irish Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3E1X21SQWs5cERaSlZfY1RIaS1PTEdZZVBkemFTMmZxMUV1ZTVIVlFpWFZRMVVRdjRaZTFyTHpTSmZQNFAwdDl2YWlyTU1adzd5aDMzMGZ2VGVkdkpVZVZxQW1ONi1zYkFMay12TlNXQlB2NThMYUNVRGFJMXUzN19JMTYwbHVWTU9PXzI5cFhNcENLeGQxR0lZWGRDU1l6aUZoNGFFYlBQRnVWd1I3ZHQzQXNoTEw5RkpORDBOQ0dGTzNBQlZDblhVNWtOZw?oc=5)
 
 ---
 
-### [Hantavirus, Oms: a oggi 10 casi e 3 morti, oltre 120 persone assistite - Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE15QkUyd1RveUgtS21jeE5vOFZLS1gwd3N5N1pUU0gxd0lLbWRia2E0b29TQ3g5NUQxcGpRU3pDSFZEV2FQMjYyTy1vX3E4dFZHV2tlWS04S1JUbVVaZjFNSlR3RXI3VFJ4VFNKUzZxeUVsaWdHMnExcnF4Y0w?oc=5)
+### [Belfast hospital outbreak: Why this antibiotic-resistant bug has experts worried - Belfast Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQTWxRSHl6WV9qeTJBOV9hNGVsVGttR2g3end6bHZ4NmpvNjBuTFRJam5WSC1vWmswdE1zaGw3TFotbDBFU3NCUFJwam9GYURsNlpkMU5KV1pDMVZ6a01tRjBIU0lkUE1kRVhHR3JWNjlSdm5wRGI2SlNYQzFHQlQ4V1JydmR6QWhQRE5CUmtEVDJVTHhzU0p4NTEyMTlJZw?oc=5)
 
-2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-05-15 <span class="news-indication-tag">MS</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE15QkUyd1RveUgtS21jeE5vOFZLS1gwd3N5N1pUU0gxd0lLbWRia2E0b29TQ3g5NUQxcGpRU3pDSFZEV2FQMjYyTy1vX3E4dFZHV2tlWS04S1JUbVVaZjFNSlR3RXI3VFJ4VFNKUzZxeUVsaWdHMnExcnF4Y0w?oc=5)
-
----
-
-### [Brit baby dead & two children with serious health problems after contracting gastric illnesses staying at 5* Egypt hotel - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxPM2pDc09HQkgwazRCTnlvSkVOamJVcEZBdTdVZm00NFBGNFA5WnV0VU5Ea1Qxc2xkenBNU2FuMXhjekJQVnJqazZKSk9wLU10MWYwOEcxbEM5RkQyR1V1bkF6VTV3aUs5aGlIeG5jd0lPZ3FWdk4tNV9KNE5ldnhPWmR3?oc=5)
-
-2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxPM2pDc09HQkgwazRCTnlvSkVOamJVcEZBdTdVZm00NFBGNFA5WnV0VU5Ea1Qxc2xkenBNU2FuMXhjekJQVnJqazZKSk9wLU10MWYwOEcxbEM5RkQyR1V1bkF6VTV3aUs5aGlIeG5jd0lPZ3FWdk4tNV9KNE5ldnhPWmR3?oc=5)
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQTWxRSHl6WV9qeTJBOV9hNGVsVGttR2g3end6bHZ4NmpvNjBuTFRJam5WSC1vWmswdE1zaGw3TFotbDBFU3NCUFJwam9GYURsNlpkMU5KV1pDMVZ6a01tRjBIU0lkUE1kRVhHR3JWNjlSdm5wRGI2SlNYQzFHQlQ4V1JydmR6QWhQRE5CUmtEVDJVTHhzU0p4NTEyMTlJZw?oc=5)
 
 ---
 
@@ -102,11 +110,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Non è detto che il contagio iniziale da hantavirus sia avvenuto in quella discarica - Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZDdfYUhtMGhnT2NqLXVnekstMkVUUmktYm5FaHVFU3B3M01kNGJSVGtVVW4zX1dSNlMyYlQ2ZThNWEdYel9GYkd0YnNJNTlQV296QUhaQVNHaXB2WUs4Wmh5M2tUbnh0OEQ0UUhNNA?oc=5)
+### [The promises and pitfalls of personalized health - The Verge](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnhjUUNwSW9HWTRkaThmX1hpMG9weGRCd2FTTnY1UWhEZmN1N01HQlBNOWhhTTdNNHp0Y0xjWXJueHd1SjYtVGl1YmNQTS1neW5YTXA3Mkt5S1A5dkppN1Y2bnkxM3pxeGhOS3RzZWwwQ1BJY05sQ0hJc3lTa1Y3Q2Y2V18?oc=5)
 
-2026-05-15 <span class="news-indication-tag">MS</span>
+2026-05-15 <span class="news-indication-tag">AF</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZDdfYUhtMGhnT2NqLXVnekstMkVUUmktYm5FaHVFU3B3M01kNGJSVGtVVW4zX1dSNlMyYlQ2ZThNWEdYel9GYkd0YnNJNTlQV296QUhaQVNHaXB2WUs4Wmh5M2tUbnh0OEQ0UUhNNA?oc=5)
+來源：[The Verge](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnhjUUNwSW9HWTRkaThmX1hpMG9weGRCd2FTTnY1UWhEZmN1N01HQlBNOWhhTTdNNHp0Y0xjWXJueHd1SjYtVGl1YmNQTS1neW5YTXA3Mkt5S1A5dkppN1Y2bnkxM3pxeGhOS3RzZWwwQ1BJY05sQ0hJc3lTa1Y3Q2Y2V18?oc=5)
 
 ---
 
@@ -142,27 +150,35 @@ permalink: /news/loxapine/
 
 ---
 
-### [Pfizer-Dokument unter der Lupe - Hantavirus-Behauptung zu Corona-Impfung beruht auf Fehlinterpretation](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uRk16bU5SOTd4SE9ZUTVYOGFSbkViMFpoY3FBdWQ1YWw3VVNfenFEVzlpMjB4YWVhQjVHc2NmTEtfSnBackRtb3dGRkVSSVczNk9XQ0J1a1dRb0hVbURaWXZ5V1Q?oc=5)
+### [Pfizer-Dokument unter der Lupe - Hantavirus-Behauptung zu Corona-Impfung beruht auf Fehlinterpretation](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hencxd0JqUDlrVHZkSWRMREJzdUZMcmxRSHJkUFVad0M5cUZ0Q3FDMXI1RXdiUUlwYUFkYkpBMWZzV0NQZUlvQkNHT0JrOXE3S2pRNW1OYzdvUDFFWkdzN0otOA?oc=5)
 
 2026-05-15 <span class="news-indication-tag">AF</span>
 
-來源：[dpa-factchecking.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uRk16bU5SOTd4SE9ZUTVYOGFSbkViMFpoY3FBdWQ1YWw3VVNfenFEVzlpMjB4YWVhQjVHc2NmTEtfSnBackRtb3dGRkVSSVczNk9XQ0J1a1dRb0hVbURaWXZ5V1Q?oc=5)
+來源：[dpa-factchecking.com](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hencxd0JqUDlrVHZkSWRMREJzdUZMcmxRSHJkUFVad0M5cUZ0Q3FDMXI1RXdiUUlwYUFkYkpBMWZzV0NQZUlvQkNHT0JrOXE3S2pRNW1OYzdvUDFFWkdzN0otOA?oc=5)
 
 ---
 
-### [Trotz Proteinen: Warum viele Frauen ab 40 nach dem Training nicht abnehmen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWnRPdE9waXE4VUlWTDEtRXJHWmg2WlNrOURhMmFtRy1BdE81ZENNUy1lUG5WQ2syTGt6amlDN3pHRTd1bi1NY1hkRDlqUk5VSXNQa1g4V191cmFvUXpIMXpUM3RSaFk5dmxRV3RLWS0wZS1QVHcyV24wZmZnSTJ5TEpoWWViZGdYNVl2QlgxMGY4N0VOeTBTZXEyS2xJY0dfQ3QyblZuTmZyX2ozNENubHd5eHMxa1FjOEVBNl9iYkRZbUpPa3RNRkh6aGcyVnoxZ2NmWU9sWnZ1aGdoMDdLdmRBUjZaMnVOSE1sRE9JU2g?oc=5)
+### ['Our baby had a stroke moments after birth - we're now celebrating her first birthday' - STV News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FwUUdjVW01T19pc19OcnZDazE2c2ZFcUxabkNPSm14eTc5ZGE3SFpoelR6WTU2bGlTNmUxSWRTZnJ6LXdVaEN3d0J4d1RGMXU1OWRBSFpoWEV6OEhfZmVkbkw0bko1ajB5NXNkYWUzYmliRElpNXdGSVJsR3NNblpPVzNkZ04yTk93RnU2eVl0TUw1dlVfZFRCaVdYcFRneVlkWXFsUUI0OHpHNjJpZ2xrZTNOLWhxSTg4dG94UFVQRjZI?oc=5)
 
-2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-15 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[CHIP](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWnRPdE9waXE4VUlWTDEtRXJHWmg2WlNrOURhMmFtRy1BdE81ZENNUy1lUG5WQ2syTGt6amlDN3pHRTd1bi1NY1hkRDlqUk5VSXNQa1g4V191cmFvUXpIMXpUM3RSaFk5dmxRV3RLWS0wZS1QVHcyV24wZmZnSTJ5TEpoWWViZGdYNVl2QlgxMGY4N0VOeTBTZXEyS2xJY0dfQ3QyblZuTmZyX2ozNENubHd5eHMxa1FjOEVBNl9iYkRZbUpPa3RNRkh6aGcyVnoxZ2NmWU9sWnZ1aGdoMDdLdmRBUjZaMnVOSE1sRE9JU2g?oc=5)
+來源：[STV News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FwUUdjVW01T19pc19OcnZDazE2c2ZFcUxabkNPSm14eTc5ZGE3SFpoelR6WTU2bGlTNmUxSWRTZnJ6LXdVaEN3d0J4d1RGMXU1OWRBSFpoWEV6OEhfZmVkbkw0bko1ajB5NXNkYWUzYmliRElpNXdGSVJsR3NNblpPVzNkZ04yTk93RnU2eVl0TUw1dlVfZFRCaVdYcFRneVlkWXFsUUI0OHpHNjJpZ2xrZTNOLWhxSTg4dG94UFVQRjZI?oc=5)
 
 ---
 
-### [Wie leuchtende Proteine das Unsichtbare sichtbar machen - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2ZaTm02YWYzU1F0VjJmbDVpN0dyQ3BWdV9sZm9MWFIxRUdJVkltOEdNMXhfQUVsWmdNa0JhX0lYYm5MTjQxTGJ4OEU2dXhmWDFMck9QRGFhdU8wN2hQam9tQUVlUkxndTJDSUJiQ3JhWk85NENEdHJ3NkFYOFJacEdmYU1ybEdjNXBMVXVLUmdyOUFuSnlXakVRdl9LZHJGQkk5cnZQTlQwVVhH?oc=5)
+### [Jaime Pérez advierte sobre el brote de sarampión en Murcia y pide reforzar la vacunación y la vigilancia sanitaria - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk80ODhhT1ZGbFZjcGVtcUJvbWQycF81cFZIZGVvYVdOT0poWktGUHNfbEdSeXF0aE9RSGU3WWFtODVsUHd1b3BuNUZyUlpndHBQRHdKcE1HdVlRM0tieFF1WGpjWElMZnhIS1FBTWRvbDhaRV8zbTRmTWpaamYwUEZNRjB4R2ZkYksyZUtOeEp1SVNUWE9Mdm1GYXVHZjJsa0xYemZZS2tVSWE5ck5uclh1WXhhVmxpRzA1MFZVeFJkY1VGTWNjWkdsS2VhT2RpUW9UNU9Ickd5MW1kTjNRcA?oc=5)
+
+2026-05-15 <span class="news-indication-tag">MS</span>
+
+來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk80ODhhT1ZGbFZjcGVtcUJvbWQycF81cFZIZGVvYVdOT0poWktGUHNfbEdSeXF0aE9RSGU3WWFtODVsUHd1b3BuNUZyUlpndHBQRHdKcE1HdVlRM0tieFF1WGpjWElMZnhIS1FBTWRvbDhaRV8zbTRmTWpaamYwUEZNRjB4R2ZkYksyZUtOeEp1SVNUWE9Mdm1GYXVHZjJsa0xYemZZS2tVSWE5ck5uclh1WXhhVmxpRzA1MFZVeFJkY1VGTWNjWkdsS2VhT2RpUW9UNU9Ickd5MW1kTjNRcA?oc=5)
+
+---
+
+### [Student died hours after being sent home from clinic with nasal spray - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0pVODF0bVd4SXJHVHpfTnVrV21Nb1JoT0JKSlZQQWRMYTV6YWNOQjlNejdQUllxYXJ4alp1SUlPY3N1QTF4ZGJzM1U0d1ExQUNtbXg3RGZKVkRBSHRoYVRiWVZZY296akJRZGlIVEtLdTd0YWljclZCMkVjYm4tVWZB0gGHAUFVX3lxTE1paUZfdUZ0Y2FzX0RFY01LV1g2c3l5NnoyQzhVMHJyalp3eHdobmhEYjRYSmF4cnQwNi1kbHNrWGZGWFdMWERnV2Q1MmhJRFVNUzl1RFBxOGpobDZHYzNudUxsZlNzMVN3T3RaekNBNUtoOG5Sbkk0anNpcHNzclZtNXdXMzNkNA?oc=5)
 
 2026-05-15 <span class="news-indication-tag">AF</span>
 
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2ZaTm02YWYzU1F0VjJmbDVpN0dyQ3BWdV9sZm9MWFIxRUdJVkltOEdNMXhfQUVsWmdNa0JhX0lYYm5MTjQxTGJ4OEU2dXhmWDFMck9QRGFhdU8wN2hQam9tQUVlUkxndTJDSUJiQ3JhWk85NENEdHJ3NkFYOFJacEdmYU1ybEdjNXBMVXVLUmdyOUFuSnlXakVRdl9LZHJGQkk5cnZQTlQwVVhH?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0pVODF0bVd4SXJHVHpfTnVrV21Nb1JoT0JKSlZQQWRMYTV6YWNOQjlNejdQUllxYXJ4alp1SUlPY3N1QTF4ZGJzM1U0d1ExQUNtbXg3RGZKVkRBSHRoYVRiWVZZY296akJRZGlIVEtLdTd0YWljclZCMkVjYm4tVWZB0gGHAUFVX3lxTE1paUZfdUZ0Y2FzX0RFY01LV1g2c3l5NnoyQzhVMHJyalp3eHdobmhEYjRYSmF4cnQwNi1kbHNrWGZGWFdMWERnV2Q1MmhJRFVNUzl1RFBxOGpobDZHYzNudUxsZlNzMVN3T3RaekNBNUtoOG5Sbkk0anNpcHNzclZtNXdXMzNkNA?oc=5)
 
 ---
 
@@ -182,11 +198,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [20. Jahrestagung Molekulare Diagnostik der DGKL: Letzte Chance zur Anmeldung bis 18. Mai - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZERTRXUzY2J1XzlUemFGYndPMHg5ckZXeDF5X3BYdlJYLXB5S0pEMkVvRElEbW12VmNDa3dTcWI1MTBGS1J1YTFaeTdlVEN2dHR5eXkya0ZkZkxZYk8wSGd1dW0wVUt1bl83YWhJNVpXeHZLNThXQjdmRU81Q2J6ZVhHQkpkYU1NRTBvUXg4MFNIeVRJblhiNkRSRlMzTVZNNGpTYmQxSVdkRFQ4TkZyOWgxWDhFTW8yMlFpckEzbVlYS0dTNkRlT0hn?oc=5)
+### [20. Jahrestagung Molekulare Diagnostik der DGKL: Letzte Chance zur Anmeldung bis 18. Mai - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZERTRXUzY2J1XzlUemFGYndPMHg5ckZXeDF5X3BYdlJYLXB5S0pEMkVvRElEbW12VmNDa3dTcWI1MTBGS1J1YTFaeTdlVEN2dHR5eXkya0ZkZkxZYk8wSGd1dW0wVUt1bl83YWhJNVpXeHZLNThXQjdmRU81Q2J6ZVhHQkpkYU1NRTBvUXg4MFNIeVRJblhiNkRSRlMzTVZNNGpTYmQxSVdkRFQ4TkZyOWgxWDhFTW8yMlFpckEzbVlYS0dTNkRlT0hn?oc=5)
 
 2026-05-15 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZERTRXUzY2J1XzlUemFGYndPMHg5ckZXeDF5X3BYdlJYLXB5S0pEMkVvRElEbW12VmNDa3dTcWI1MTBGS1J1YTFaeTdlVEN2dHR5eXkya0ZkZkxZYk8wSGd1dW0wVUt1bl83YWhJNVpXeHZLNThXQjdmRU81Q2J6ZVhHQkpkYU1NRTBvUXg4MFNIeVRJblhiNkRSRlMzTVZNNGpTYmQxSVdkRFQ4TkZyOWgxWDhFTW8yMlFpckEzbVlYS0dTNkRlT0hn?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZERTRXUzY2J1XzlUemFGYndPMHg5ckZXeDF5X3BYdlJYLXB5S0pEMkVvRElEbW12VmNDa3dTcWI1MTBGS1J1YTFaeTdlVEN2dHR5eXkya0ZkZkxZYk8wSGd1dW0wVUt1bl83YWhJNVpXeHZLNThXQjdmRU81Q2J6ZVhHQkpkYU1NRTBvUXg4MFNIeVRJblhiNkRSRlMzTVZNNGpTYmQxSVdkRFQ4TkZyOWgxWDhFTW8yMlFpckEzbVlYS0dTNkRlT0hn?oc=5)
 
 ---
 
@@ -198,14 +214,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [6 passengers from hantavirus-hit ship arrive in Australia for 3-week quarantine - AP News](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3R4Mk5LTXUyOXUtTzMzaGM0dHV1OHVJNFh0RTVKeW15QmpFd1BtYVhJVDQzRGJvaWQ0d0JlbGZTdWFNQmxZaENrRVlfNW56LWttSWhXLTdhQm91T2NhNkpSXzRLOGM1aFVpM1VOQkVyNkJrR2dWQmo3ODYtem1sbk83ZVhWbTE0cmgySjkyaFZjZC0xRm9HWG84bTJmd0syTmZDb0RwZFpHUF9WcjVXbVdSaFo?oc=5)
-
-2026-05-15 <span class="news-indication-tag">AF</span>
-
-來源：[AP News](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3R4Mk5LTXUyOXUtTzMzaGM0dHV1OHVJNFh0RTVKeW15QmpFd1BtYVhJVDQzRGJvaWQ0d0JlbGZTdWFNQmxZaENrRVlfNW56LWttSWhXLTdhQm91T2NhNkpSXzRLOGM1aFVpM1VOQkVyNkJrR2dWQmo3ODYtem1sbk83ZVhWbTE0cmgySjkyaFZjZC0xRm9HWG84bTJmd0syTmZDb0RwZFpHUF9WcjVXbVdSaFo?oc=5)
-
----
-
 ### [Study shows simple diet method means you lose more weight and keep it off - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0htelZtb0FnY1VPYU5RU2o4UTRWMFQ3b25sY3pGbGswSnJkSVFhRi1hMmFuSmdabzFHeTdRZFptYkd3M1pWMThWRU4xRW0xNDlSaDFiMFduTndHM1NTUWhLOURyTTFmME11RGhoRndKV1ZvYXZJRXVtNnM2eGJuMFpB0gGHAUFVX3lxTE9xMVd1R21FcTRBdUR5V24zdzY0eDFUREZYQ2ppQ0xicWk1VUJZRzJFU09XS3NUWkgxMnY3Q0E2SE9RQmVMQWJGcVJQYjNNd2xfY002c09QZG0wN2JJdFM2RUwwMGRkbVc5bUcwdjJqZC1GR182WTR0U2pSZDVQbDUtYndjTjA0dw?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
@@ -214,11 +222,19 @@ permalink: /news/loxapine/
 
 ---
 
-### [Las dos semanas de alarma por el hantavirus: los expertos diferencian qué fue exageración, debate o bulo - El Confidencial](https://news.google.com/rss/articles/CBMivwFBVV95cUxQenRfZFBnbFNJREF0ZnNYUjVPdjBSZXh0WW0wRnNhYTVhREZ3NEpGRzhWVnRHOHVjc0JMUGh1dWstV2hxb0JJZzUwNVl0UTFxOGFTenZNM0taS1R4dVhDRXR2MkJFekE0akNkVTJKc0pfdE4zdW0yYVZmRTJSNVBXcEhuVDA5VkNxeTNWVENldngwWUlYZVFmemZMcFhGQVlLbFRTZFNpOF93Rlo2UmpoS09VTmlDbU9WSUwwQXZfYw?oc=5)
+### [Hull £48m hub aims to transform treatment for chronic wounds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE52cmVoZFdYR0JrRElYRkVMd1pxQ2hCbUh5djA4RWs4MHFaY1BpVmpyb1ZSMkllSFFZOGFNSlVTa2FYdDFXaWRKT3NFbjhYNWQ4ZlpJS0ZXaWNMVGRC?oc=5)
 
 2026-05-15 <span class="news-indication-tag">MS</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMivwFBVV95cUxQenRfZFBnbFNJREF0ZnNYUjVPdjBSZXh0WW0wRnNhYTVhREZ3NEpGRzhWVnRHOHVjc0JMUGh1dWstV2hxb0JJZzUwNVl0UTFxOGFTenZNM0taS1R4dVhDRXR2MkJFekE0akNkVTJKc0pfdE4zdW0yYVZmRTJSNVBXcEhuVDA5VkNxeTNWVENldngwWUlYZVFmemZMcFhGQVlLbFRTZFNpOF93Rlo2UmpoS09VTmlDbU9WSUwwQXZfYw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE52cmVoZFdYR0JrRElYRkVMd1pxQ2hCbUh5djA4RWs4MHFaY1BpVmpyb1ZSMkllSFFZOGFNSlVTa2FYdDFXaWRKT3NFbjhYNWQ4ZlpJS0ZXaWNMVGRC?oc=5)
+
+---
+
+### [Small number of Scots linked to hantavirus outbreak, says public health body - STV News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTExSnhRU2V6X3BJMXc2Sll3akhCVTVNMTIxVjdzUS1vVHBkNUJoNE9lbzZ4MnZMLU1HaENsVUg3ZWFtbjUzbDMtcFVldmpmM3VqQURGRTJEWWJISUd6M3hXbDR1N0I2aGhvOHlNLTBzVDdxck1WbllzVXgzOVZYTEVGbnFTNHJ1TFNENXpJUXc3SzVYRk55SDZueGVPR2lhNWxpOGJzTQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTExSnhRU2V6X3BJMXc2Sll3akhCVTVNMTIxVjdzUS1vVHBkNUJoNE9lbzZ4MnZMLU1HaENsVUg3ZWFtbjUzbDMtcFVldmpmM3VqQURGRTJEWWJISUd6M3hXbDR1N0I2aGhvOHlNLTBzVDdxck1WbllzVXgzOVZYTEVGbnFTNHJ1TFNENXpJUXc3SzVYRk55SDZueGVPR2lhNWxpOGJzTQ?oc=5)
 
 ---
 
@@ -270,19 +286,19 @@ permalink: /news/loxapine/
 
 ---
 
-### [Ist der „Jo-Jo-Effekt“ wirklich schädlich? Neue Analyse stellt seit langem geltende Annahmen zum Jo-Jo-Effekt in Frage - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMihAJBVV95cUxQQmZXenBIZXdkcXk0UFhrY2RKNzdSS2l6ZTZycEd2Vi14NWJIb3A4RUVqcjFaX29yU1dFRnBwSE5BRkVVdjFkV0hKQWtFRExubVc1ZzlPaDdkMjdZZGNqbXdpV3ZhendZTEUza2loNXVhN3lDbTdUSzdfdFpyeV9nXzZNWGQyWE0yczFDNXB4UEFyMktiUXJjVFZJdHk2Q3p1N0VYS01fY29Fd0VpX0RrXzFqM1dDdzZlcXBrQm5BMUN6N043cm5Kd3hONTVYclFhYWVOUnVRb1doZ1FyWUxxZkJ4QmpRa3pqLXE2RVV3akpzYmZ1cTVrdWlyOTRnbWY2VThfMA?oc=5)
+### [Ist der „Jo-Jo-Effekt“ wirklich schädlich? Neue Analyse stellt seit langem geltende Annahmen zum Jo-Jo-Effekt in Frage - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMihAJBVV95cUxQQmZXenBIZXdkcXk0UFhrY2RKNzdSS2l6ZTZycEd2Vi14NWJIb3A4RUVqcjFaX29yU1dFRnBwSE5BRkVVdjFkV0hKQWtFRExubVc1ZzlPaDdkMjdZZGNqbXdpV3ZhendZTEUza2loNXVhN3lDbTdUSzdfdFpyeV9nXzZNWGQyWE0yczFDNXB4UEFyMktiUXJjVFZJdHk2Q3p1N0VYS01fY29Fd0VpX0RrXzFqM1dDdzZlcXBrQm5BMUN6N043cm5Kd3hONTVYclFhYWVOUnVRb1doZ1FyWUxxZkJ4QmpRa3pqLXE2RVV3akpzYmZ1cTVrdWlyOTRnbWY2VThfMA?oc=5)
 
 2026-05-14 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMihAJBVV95cUxQQmZXenBIZXdkcXk0UFhrY2RKNzdSS2l6ZTZycEd2Vi14NWJIb3A4RUVqcjFaX29yU1dFRnBwSE5BRkVVdjFkV0hKQWtFRExubVc1ZzlPaDdkMjdZZGNqbXdpV3ZhendZTEUza2loNXVhN3lDbTdUSzdfdFpyeV9nXzZNWGQyWE0yczFDNXB4UEFyMktiUXJjVFZJdHk2Q3p1N0VYS01fY29Fd0VpX0RrXzFqM1dDdzZlcXBrQm5BMUN6N043cm5Kd3hONTVYclFhYWVOUnVRb1doZ1FyWUxxZkJ4QmpRa3pqLXE2RVV3akpzYmZ1cTVrdWlyOTRnbWY2VThfMA?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMihAJBVV95cUxQQmZXenBIZXdkcXk0UFhrY2RKNzdSS2l6ZTZycEd2Vi14NWJIb3A4RUVqcjFaX29yU1dFRnBwSE5BRkVVdjFkV0hKQWtFRExubVc1ZzlPaDdkMjdZZGNqbXdpV3ZhendZTEUza2loNXVhN3lDbTdUSzdfdFpyeV9nXzZNWGQyWE0yczFDNXB4UEFyMktiUXJjVFZJdHk2Q3p1N0VYS01fY29Fd0VpX0RrXzFqM1dDdzZlcXBrQm5BMUN6N043cm5Kd3hONTVYclFhYWVOUnVRb1doZ1FyWUxxZkJ4QmpRa3pqLXE2RVV3akpzYmZ1cTVrdWlyOTRnbWY2VThfMA?oc=5)
 
 ---
 
-### [‘Healthy’ student dies from rare brain abcess hours after doctor sent him home - The Independent](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGItQWxGVk9OWEpuMTZOel9uYUVQUGJQRnRUNzdVUTZMeTFtblpDdVA5VjhFSC1RT1lnTkxiM1p6TTJoSi1hZVZLdzc5cGowb2dyTGozQlVmZFh2eUFUdUxmVlhUdGt1enBqbW9tOVZqd1pSd3huYzZKNnV5TEtrSm5ySmpQbzNUOTYxaWFvZDNJN2M?oc=5)
+### [Eine verhängnisvolle Affäre: COPD und Herzerkrankung](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
 
-2026-05-14 <span class="news-indication-tag">AF</span>
+2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGItQWxGVk9OWEpuMTZOel9uYUVQUGJQRnRUNzdVUTZMeTFtblpDdVA5VjhFSC1RT1lnTkxiM1p6TTJoSi1hZVZLdzc5cGowb2dyTGozQlVmZFh2eUFUdUxmVlhUdGt1enBqbW9tOVZqd1pSd3huYzZKNnV5TEtrSm5ySmpQbzNUOTYxaWFvZDNJN2M?oc=5)
+來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
 
 ---
 
@@ -299,6 +315,14 @@ permalink: /news/loxapine/
 2026-05-14 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWFWVks1OTZTN09GTUdEenc0SFAtMldqYkhnRF91bHpWcDRVT1lsUkktYlJ6YnJteVNWNVNfdEJvbTVVRTJfMVFNUDh3T2VEcy1aaHpPcWxZQ3M1blNqVE1QdExJSUdiQmRGd3JrTXZMY3BGTG5MdGFMV3h2N3Jsem9YbThHNlFkOFc2Mk5TNkRnSnVRTWo2WkdCbjNWa0tReFBJRUgwWE15TUF2eTFwMEJ6S2E4TTV6NTB2VG9aaEpOTDlWOU5veXMzVjJGUnc1MXFfd1lwdU40Wi1hUnc?oc=5)
+
+---
+
+### [El síndrome de ovario poliquístico cambia de nombre: «No son solo quistes, es acné, caída de pelo y regla - La Razón](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkpZcFN5NnljazZGdVp6bjNkRC1pSG9sc1Q2VzBka1YyN0p2LVhJSkRwQnJRaWg0eTF2SGs4TnRkSWU5STVDVGNtM25VRlNBZV9JVElzdUhvcDNkU0VSXzB6UHNLMUk1OEI1c01JczdrVGo1WDZ3VXdBNmRxNllQMHM0SmplX2FPSlNtS1ozTnM4bTZTV3hrMk1haG1XblphQlNKZm5wYmVmLVBIVGJxUHB6X3lRUHhxLVRrbk43ekhSSmJnR0Y3ZWt4S1BLYVUtbDFub2tiT0VWUGVwNGFNVFdJMnF4eElDZ0VxQkVqaEN3VUNtVmQ2YkhhWTNOZ0HSAZMCQVVfeXFMTVlHREJoeGVmUDRzcmt5WEFQYmpWaUpwRGthbUttcE5kUkRac3BEVTJBODJPWjFkb1NtMjhVX2VmZ3NDM0didUdraVpYRTduaG5pbzlObU9UQWtQUDAyem54d2x3LU1YTGZfY3NWX0pIb2dPdURJeUNRMTRYMWFlWld6QmR4V1dCUlVoRXEwNUJabEFEU1BTQlo3Yng4MS1leUxCamhuZmJYMkpfWVNDY3o4T2Y1UUdDa2NlWjdJRWhWbUthX1k0a1NTRGZ0eFlnLWl5bTNsUTY0aDV1bjJjdTRvanhuMWRoQk9oMUNieTJVY3JUTFRyN3U1WmtwSlFsbVE2dVRkdFdmY2VfdnRtM0tIbGc?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkpZcFN5NnljazZGdVp6bjNkRC1pSG9sc1Q2VzBka1YyN0p2LVhJSkRwQnJRaWg0eTF2SGs4TnRkSWU5STVDVGNtM25VRlNBZV9JVElzdUhvcDNkU0VSXzB6UHNLMUk1OEI1c01JczdrVGo1WDZ3VXdBNmRxNllQMHM0SmplX2FPSlNtS1ozTnM4bTZTV3hrMk1haG1XblphQlNKZm5wYmVmLVBIVGJxUHB6X3lRUHhxLVRrbk43ekhSSmJnR0Y3ZWt4S1BLYVUtbDFub2tiT0VWUGVwNGFNVFdJMnF4eElDZ0VxQkVqaEN3VUNtVmQ2YkhhWTNOZ0HSAZMCQVVfeXFMTVlHREJoeGVmUDRzcmt5WEFQYmpWaUpwRGthbUttcE5kUkRac3BEVTJBODJPWjFkb1NtMjhVX2VmZ3NDM0didUdraVpYRTduaG5pbzlObU9UQWtQUDAyem54d2x3LU1YTGZfY3NWX0pIb2dPdURJeUNRMTRYMWFlWld6QmR4V1dCUlVoRXEwNUJabEFEU1BTQlo3Yng4MS1leUxCamhuZmJYMkpfWVNDY3o4T2Y1UUdDa2NlWjdJRWhWbUthX1k0a1NTRGZ0eFlnLWl5bTNsUTY0aDV1bjJjdTRvanhuMWRoQk9oMUNieTJVY3JUTFRyN3U1WmtwSlFsbVE2dVRkdFdmY2VfdnRtM0tIbGc?oc=5)
 
 ---
 
@@ -326,43 +350,19 @@ permalink: /news/loxapine/
 
 ---
 
+### [Australians from hantavirus cruise ship fly out of Netherlands in full PPE after plane and crew secured - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGFuX2R4QnBXc29WdzZ0dG03Wk5DSFlGRmxabmM2REdvNll4U2J6ZEhhdWpDaHJVT1QxaXE5Sm5fSjNURlZHYlBNNGd0dEcyX0VpaVdsMmtheXlBZ0RrZm1KTmY5ZTZzMlhUbEFSUG96SWRRSUd3ZFNPTjRjQzh5eGgxbWlEVlJNTlEtN25XNlNtV1pYNjFkQzFhNDFiTks1aC1yMDhZUDNuS0cxT1dmNGRBUHNTTFVXY0FZazd2bEVkUW5JTTVLd3BfS1BrbDQ?oc=5)
+
+2026-05-14 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGFuX2R4QnBXc29WdzZ0dG03Wk5DSFlGRmxabmM2REdvNll4U2J6ZEhhdWpDaHJVT1QxaXE5Sm5fSjNURlZHYlBNNGd0dEcyX0VpaVdsMmtheXlBZ0RrZm1KTmY5ZTZzMlhUbEFSUG96SWRRSUd3ZFNPTjRjQzh5eGgxbWlEVlJNTlEtN25XNlNtV1pYNjFkQzFhNDFiTks1aC1yMDhZUDNuS0cxT1dmNGRBUHNTTFVXY0FZazd2bEVkUW5JTTVLd3BfS1BrbDQ?oc=5)
+
+---
+
 ### [Studie zeigt Risiko von bekanntem Schlafmittel – Herzschwäche um 90 Prozent erhöht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2xwZS10WGIxa3N6QmZyZmxEU1NmVkY4dUVoODhFZVVLN1NhenlNT1E1TkRWenhvZFUxUTh6b0dwQWMzUkhyQXBPemNHemN2dU9xcEJIaW1HV0JuUkQyN0FIUnJPWFc2akhPWjMwV1dab1NGYW9rTDRMZVU4M0dLMnp0TVRaMWV1M096bXB1WXpFcW90N3M2RkxlMnl3cHdkajZ1Nlh3VmNEUXFQX0xiZmo4cVZQYXdVbkJZX1BvOU1TLW1GeUFmYk5n?oc=5)
 
 2026-05-14 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2xwZS10WGIxa3N6QmZyZmxEU1NmVkY4dUVoODhFZVVLN1NhenlNT1E1TkRWenhvZFUxUTh6b0dwQWMzUkhyQXBPemNHemN2dU9xcEJIaW1HV0JuUkQyN0FIUnJPWFc2akhPWjMwV1dab1NGYW9rTDRMZVU4M0dLMnp0TVRaMWV1M096bXB1WXpFcW90N3M2RkxlMnl3cHdkajZ1Nlh3VmNEUXFQX0xiZmo4cVZQYXdVbkJZX1BvOU1TLW1GeUFmYk5n?oc=5)
-
----
-
-### [Hantavirus, negativi i casi sospetti. L’allarme dei medici: “Non siamo preparati” - la Repubblica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVQ2bEV5X3hEX0RlSWtYMFBUQlFjalhRb1ZhLTVtNjlmY0ZsNlE3VmlfSmY5bnloNnctWXhkSU9wVFl3bklVajJ6T2JHd0pMcFNkWkp6akhIZFJNZFJ5SFBNZmhseDJLMjc1SkwzVVBwSG96bzdJdF9WeV82M05BUTFlb0lXY052UFdaNFEtSDk0V2ZXV3QyLW5DcU1FcUlKYUdMVU4zQknSAa4BQVVfeXFMTk1nbEFWOFZZTmdBZEpybGtvU3BmNzhRMk9maENMQWVaalJiOTN2cWo1NXRmcWZGLUo5NXJHUERrdnFZNDF4Q3FGT1V6MmtCeGxGLXdraGViNXdGM2JsM0dHOXRqc01lQ2pleWRJRkdsVnRkNWJ3MS1wcVJic2FSYzdIWUJidW1KS1VwTUFvRkRvM3R6WE9OYmJuaGo4SzZyY04zaHBOaElnQ1YwNFNB?oc=5)
-
-2026-05-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVQ2bEV5X3hEX0RlSWtYMFBUQlFjalhRb1ZhLTVtNjlmY0ZsNlE3VmlfSmY5bnloNnctWXhkSU9wVFl3bklVajJ6T2JHd0pMcFNkWkp6akhIZFJNZFJ5SFBNZmhseDJLMjc1SkwzVVBwSG96bzdJdF9WeV82M05BUTFlb0lXY052UFdaNFEtSDk0V2ZXV3QyLW5DcU1FcUlKYUdMVU4zQknSAa4BQVVfeXFMTk1nbEFWOFZZTmdBZEpybGtvU3BmNzhRMk9maENMQWVaalJiOTN2cWo1NXRmcWZGLUo5NXJHUERrdnFZNDF4Q3FGT1V6MmtCeGxGLXdraGViNXdGM2JsM0dHOXRqc01lQ2pleWRJRkdsVnRkNWJ3MS1wcVJic2FSYzdIWUJidW1KS1VwTUFvRkRvM3R6WE9OYmJuaGo4SzZyY04zaHBOaElnQ1YwNFNB?oc=5)
-
----
-
-### [Third of weight loss from injections is actually muscle and bone - not fat - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBQX3ZMTVFXRlhLVzNXRzM0aUVYSkJpN0tzc2FxOVRCZG9CNGFmWkxqeXZXcmk1VXN6cTBWUlpOQmdWNDU0RXVhSE52dDZFeFN3QmRSWHRYZG5ocUdFQTVqS3BVb0ZoSW10X25hbmg4bzNCYzlabVRLcm9IbVVxZ9IBgwFBVV95cUxPVVg1VUg2ZVFmaV9Dby1DajItaG1PUWdJQjB0ZU0yUWVSMDljbjFPRTNiQ2Rvci0yMFlBay1WOTFJNU9Gc3gwcThiNlVhSUFlMTBlSTA1YmtCOFplbXpLWUJZYXR5UGREVmRsSDVabDNTTEU0Yk1fa2wwMm9sbzNuYkVaVQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFBQX3ZMTVFXRlhLVzNXRzM0aUVYSkJpN0tzc2FxOVRCZG9CNGFmWkxqeXZXcmk1VXN6cTBWUlpOQmdWNDU0RXVhSE52dDZFeFN3QmRSWHRYZG5ocUdFQTVqS3BVb0ZoSW10X25hbmg4bzNCYzlabVRLcm9IbVVxZ9IBgwFBVV95cUxPVVg1VUg2ZVFmaV9Dby1DajItaG1PUWdJQjB0ZU0yUWVSMDljbjFPRTNiQ2Rvci0yMFlBay1WOTFJNU9Gc3gwcThiNlVhSUFlMTBlSTA1YmtCOFplbXpLWUJZYXR5UGREVmRsSDVabDNTTEU0Yk1fa2wwMm9sbzNuYkVaVQ?oc=5)
-
----
-
-### [Lasertechnologie zur Erkennung von Weltraumschrott und dessen Auswirkungen - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lCWU5zZ05PQ2VBbU44ek84THhDanFOSkExTlJkUDZuYmNtdXlKUXBZN0YtMzZMMVAwT3ZoQ2VQZjZBM0EyUzVpZ3FCczF0VlJ6MVlzaXVob3lObkxpenA3QzFKc1RFcnJhX05ScjlEdUNXMTJUV0w2TTUxSVU3U09seWt0aEE0UGhrZmxyR1Rvc3F0cWUyWFRPeC16MkxHSXBmNmFsQ04wZw?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lCWU5zZ05PQ2VBbU44ek84THhDanFOSkExTlJkUDZuYmNtdXlKUXBZN0YtMzZMMVAwT3ZoQ2VQZjZBM0EyUzVpZ3FCczF0VlJ6MVlzaXVob3lObkxpenA3QzFKc1RFcnJhX05ScjlEdUNXMTJUV0w2TTUxSVU3U09seWt0aEE0UGhrZmxyR1Rvc3F0cWUyWFRPeC16MkxHSXBmNmFsQ04wZw?oc=5)
-
----
-
-### [A New Genetic Entry Point for Autism Traits - Neuroscience News](https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUjVWNGtSYU1weEgyQlNNLWgwLVBGOFVvV0lBWlZOUG1NSjRkUi1GZWt2aVFpOXY1TG1lSzd1VnpBZS13VEsxdXp3ejlSZDh1cVg5Q0lLeWFHSi1EM3RQdk9NUFZhZW5Nb2c?oc=5)
-
-2026-05-13 <span class="news-indication-tag">MS</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUjVWNGtSYU1weEgyQlNNLWgwLVBGOFVvV0lBWlZOUG1NSjRkUi1GZWt2aVFpOXY1TG1lSzd1VnpBZS13VEsxdXp3ejlSZDh1cVg5Q0lLeWFHSi1EM3RQdk9NUFZhZW5Nb2c?oc=5)
 
 ---
 

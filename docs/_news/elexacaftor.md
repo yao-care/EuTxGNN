@@ -78,6 +78,14 @@ permalink: /news/elexacaftor/
 
 ---
 
+### [Aerobic, combined training most effective for reducing blood pressure - Medical News Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5)
+
+2026-05-14 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis: Lungenultraschall als Alternativ zum CT – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRQbkowTjN6WVBPN3ptaDc4TU5tN2RjVkVNaHhLdDlXUXhvQ1dhWGdZMTdScG1wSER2RnFFU29hcFJCZzRqWVZ5cmpURUpsWGFFcE9qQ2Q1MGhtdVJZVlFqRWdvOEI3WGZNZjlkUUlyanhvOWNhMDZIQTNMV056RWNNNVhTd1BXaVZZaWVMTG5xYkxFOFpCVlNhbFRiTnl0WmtGNFV3SVNDSm1RX0xEbHJpZ29qeGMybEZZY1M3blRSTklVYVc0VS13?oc=5)
 
 2026-05-14 <span class="news-indication-tag">arthritis</span>
@@ -91,14 +99,6 @@ permalink: /news/elexacaftor/
 2026-05-14 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[German Road Races](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeGJZcTRSWTBWeFJTTDVxNTRSbkxzTDBpWjhseEJPLXpUcHRQclFmMm1SSkZrX3hmUHpVcWMyVEg3Ul92Z0JOUmNYZy1zRDlYSk9teWVKaG1icm9hOGQzOHhyQjhHZ0N3dk50bndxaW42bWRjRlY0NTJINVdkWGllN0tPcXFsZXRyWUJtLUV4RUpCV1d4S0dJOWlWMVdFY3F2SGhtV2s1TDVQYXdOWWxPZ1pjSjFTR0h3TWdndG53NWxkejdLeVFveWNMWEIyU3ZwZlN2SGJXMTRxMmRCYTg4amNsZw?oc=5)
-
----
-
-### [Artrite reumatoide e invalidità: come ottenere il riconoscimento Inps - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
-
-2026-05-13 <span class="news-indication-tag">artrite</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNhTmZTdU13QmN6YlJiXzNQLXB3R2ZsVU9uX09icGpjWWRua1lsOVB1c2RobVpxTkRZZWxXM2NQZUxjWlpmbEttT3lLMDBRVHZ4U09LQURTUTVJZUVaSkxsY3lIYTVuaWtBMkQ1d0VIWTQ1dlJIVWN1eTRxbnJGR0NnY2hXWmN4WlNibWVnQQ?oc=5)
 
 ---
 

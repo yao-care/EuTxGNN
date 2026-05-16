@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="Hydrochlorothiazide 有什麼相關新聞？">
-<strong>Hydrochlorothiazide</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Hydrochlorothiazide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/hydrochlorothiazide/
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（26 則）
 
 ### [«Tumore al polmone, molecola ibrida aiuta a distruggere le cellule malate»: la nuova ricerca italiana - Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjVGazFBT0RXdXdiTjk4ZVFZaHZvbWpBLUxTb2preEdhYWFzTVptWE9CZFNqUW04ZGtqeHljc0ozZGdFaFNpT0tzSU53aFJpN193WnRCS1Z2dDRNZ051ejU2OFM5QTVlWjBOaUlkMzNkQ3A5ZTRJS3R5cVRpUEJFUHpUQXctX2xZQTBCcDI4QjJpZFh5WDdUVUpjMXBLdkHSAZgBQVVfeXFMTUltcWhsTElfNWRWSE1YZkZ6NGdoMWxhR2hrNUgxTXlDam9VVFBvOTd6emZobl9YT2d4VU5KUklKM291MC1jMmFGVFVDNWotZ2J3OXZtWVVlNENTWEZic3FCX1N6M3YzdE5MWFJzWFo2eWVCa1d2NExvdEZkNGpnNUdhRGxMX05YS3FvT29LX1JBYlF3T1doRlM?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/hydrochlorothiazide/
 2026-05-15 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
+
+---
+
+### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+
+2026-05-15 <span class="news-indication-tag">heart disease</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
 
 ---
 
@@ -91,22 +99,6 @@ permalink: /news/hydrochlorothiazide/
 2026-05-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBFd194WmlGTFRia205WklmTjVuUE9reExuNGZtOWdwbXdpX3dmbGFxQzlFVUZKanlxTzJoTEVjRnN6T2xlU3V1LVBfZWl3bkF3a05IeG5jYlpNMUVKQmVHV0c5a0dXNEhXdEEyUnFhOHpXU29CbjVqZlF3dnFWN05OSXd2RjV6czl5Y181aGdwZkROMGJXUW1ISVJ0cnFuNTNiTjFUYWk3N0FCUm9peDNYeUFJMENMUzFIV9IBwAFBVV95cUxQQV9ZbnFwcmIxR19LbG5ZT2NINS1WV2E0TEl1QjhwcHc5ZGRNdjdkeWlScDVGVEJGTnpUaUM1ZGRmZlY4OEhIQ3l5X1h1TXljYlkxdXVPeVRTdE45NUo2TGh5N0w1NWt3QVhwLUR3Ukk4eDZ6bi1fTWI3Y2wzcjBGOHlCaFV2a2pBR29ocnVTVEFuc3ZvUjREQUpUOU40QmNBb0N3VGc0XzRxdDhCdGFuMllUMEpRMkQ1bFo5WGE4Nkk?oc=5)
-
----
-
-### [PSA-Screening: Neue Daten zeigen leichte Reduktion der Prostatakrebs-Sterblichkeit – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX1ByR2twdWR0Q21OZTNMZHBUX211clhXajVaU1F1MTd4SFlTSm9TMGxLRlJIRUFTTXhoUFE1WjV3VDVLZ2lQUDVzN1UwU0pvQk11SzJ3S2pNcnJ6cFFOVkptY1N0aFBsNXU0cENIU3FXc04wZ3c1c2lsX0JNSVpqQUpsSnNEbnJJS3FGdDhsOURZRG1GZ3pnVFhTSDkyR052N1AwUVdXSG5QZVRxU3NwcHNudEFhQjFlWGxOenNLUG5fTVl3cjdJd1ZzbDY0Sk5tc0dESzZCZVZJRmpleDFoUGV0S2M?oc=5)
-
-2026-05-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX1ByR2twdWR0Q21OZTNMZHBUX211clhXajVaU1F1MTd4SFlTSm9TMGxLRlJIRUFTTXhoUFE1WjV3VDVLZ2lQUDVzN1UwU0pvQk11SzJ3S2pNcnJ6cFFOVkptY1N0aFBsNXU0cENIU3FXc04wZ3c1c2lsX0JNSVpqQUpsSnNEbnJJS3FGdDhsOURZRG1GZ3pnVFhTSDkyR052N1AwUVdXSG5QZVRxU3NwcHNudEFhQjFlWGxOenNLUG5fTVl3cjdJd1ZzbDY0Sk5tc0dESzZCZVZJRmpleDFoUGV0S2M?oc=5)
-
----
-
-### [Investigadores de la Universidad de Granada estudian el potencial de un compuesto de la cebolla frente al cáncer colorrectal - Granada Hoy](https://news.google.com/rss/articles/CBMizgFBVV95cUxPRlR1QldLWGxjbTdiOWd4ckt2R1VQbmQ5S3o4TVlnaVFzMFpscEhiY04weF9IM3pwNFcwWmxrT0t4c0x3c0UwQi1JMWpPUFNvOGhqWGozdnB4Zk1MbDBLeEE1eTNtSDJ1MVV3cV9uTnRfM0ZrQkVnaWpna1ZxTzVfZFpSWlBwTGExWm9RZktRUjFMMmhaOG1TSmdaUDNYME9jYVFKOXNVeTNQbHUzSVFCaU1ZTTIwbE9ZRlZ5VjNoZU95MGN1YW9GMjdiRlhEZ9IB0wFBVV95cUxNRUU3RmVIMEhGRkQ5UnFtYlNiMzhSRzRqMmdtUkVUWlV0Uk1VRXlhUHBOMnJrbXlVZXlCLTJhem9xMW5SbU4tOExZa0hGMzIwZXVnV2lXdGNUN0x1SUUwanNtQ2ZiZmtoOEprdDh3aHhfNS1QTFZBMTh3NW9yUkVKQXowU0l1TFpYLTQySmswOHdLSTVnNXIxUEpUWVZncDB1VDZtUkxrdkxDbWJoRkVkY2NjMG5TS0MzanV0ZWVXamlVN2lGMlNReDh4dlhtSTFFTGdZ?oc=5)
-
-2026-05-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Granada Hoy](https://news.google.com/rss/articles/CBMizgFBVV95cUxPRlR1QldLWGxjbTdiOWd4ckt2R1VQbmQ5S3o4TVlnaVFzMFpscEhiY04weF9IM3pwNFcwWmxrT0t4c0x3c0UwQi1JMWpPUFNvOGhqWGozdnB4Zk1MbDBLeEE1eTNtSDJ1MVV3cV9uTnRfM0ZrQkVnaWpna1ZxTzVfZFpSWlBwTGExWm9RZktRUjFMMmhaOG1TSmdaUDNYME9jYVFKOXNVeTNQbHUzSVFCaU1ZTTIwbE9ZRlZ5VjNoZU95MGN1YW9GMjdiRlhEZ9IB0wFBVV95cUxNRUU3RmVIMEhGRkQ5UnFtYlNiMzhSRzRqMmdtUkVUWlV0Uk1VRXlhUHBOMnJrbXlVZXlCLTJhem9xMW5SbU4tOExZa0hGMzIwZXVnV2lXdGNUN0x1SUUwanNtQ2ZiZmtoOEprdDh3aHhfNS1QTFZBMTh3NW9yUkVKQXowU0l1TFpYLTQySmswOHdLSTVnNXIxUEpUWVZncDB1VDZtUkxrdkxDbWJoRkVkY2NjMG5TS0MzanV0ZWVXamlVN2lGMlNReDh4dlhtSTFFTGdZ?oc=5)
 
 ---
 
@@ -142,22 +134,6 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Hospital receives £2m boost to improve cancer care](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
-
-2026-05-15 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
-
----
-
-### [Meurthe-et-Moselle. Atteint d’une tumeur cérébrale inopérable, il se lance un défi solidaire - L'Est Républicain](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMkZFa3NYeVVKNGwxYWVKVDljMmtQY0ktS3FhZEU3cF9xNFRPemlZbEZHSnpvdzFXZXpPdnZieU9KTHRYbVZnOTdVcGlmbnV0MGd5aFF4WUI5dXJSTF9OMXdlNjg5OHFoUzJjOUs4VGVOV2NMWDZTZ3ZpQXF5Y1h5cGFnOUg4SGVhdWNvemdsSk51MU1Ba2t5dGZwVGJ3R3JZNjU2MVJqd3BsX1JjblZ5cWl6X01HMXh1RzQ5ejhrTElSMVZsaVNxVWFrUQ?oc=5)
-
-2026-05-15 <span class="news-indication-tag">cancer</span>
-
-來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMkZFa3NYeVVKNGwxYWVKVDljMmtQY0ktS3FhZEU3cF9xNFRPemlZbEZHSnpvdzFXZXpPdnZieU9KTHRYbVZnOTdVcGlmbnV0MGd5aFF4WUI5dXJSTF9OMXdlNjg5OHFoUzJjOUs4VGVOV2NMWDZTZ3ZpQXF5Y1h5cGFnOUg4SGVhdWNvemdsSk51MU1Ba2t5dGZwVGJ3R3JZNjU2MVJqd3BsX1JjblZ5cWl6X01HMXh1RzQ5ejhrTElSMVZsaVNxVWFrUQ?oc=5)
-
----
-
 ### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
 2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
@@ -166,11 +142,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Le paradoxe de l'armure : comment ce cancer ultra-mortel parvient à s'évader d'une prison jugée infranchissable](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUJoajA5bXNBZkpnay1aTlhFalNfVjVDalBkcExUUGdBWlMwN3JDZklnVXAzdDNwRjRUR2RtbXFHSnFMTENpQ3M4c0lLS1NXWmRRNV83ZTEyOUFpTldHTjdyckhLXzQ1ME14aHZlTFRhVEphdi1zRHRSZG5jVm1HSWdXMzFraXVyczZYUVUxckhsQUdKbGk3Yl9heHJYMGEzTkxWZWdTNU1QOFZqY3hYTXZ5dGlBOGZ0VEswcjVBM25iSGwwZ2dnWFZB?oc=5)
+### [Aerobic, combined training most effective for reducing blood pressure - Medical News Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5)
 
-2026-05-14 <span class="news-indication-tag">cancer</span>
+2026-05-14 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUJoajA5bXNBZkpnay1aTlhFalNfVjVDalBkcExUUGdBWlMwN3JDZklnVXAzdDNwRjRUR2RtbXFHSnFMTENpQ3M4c0lLS1NXWmRRNV83ZTEyOUFpTldHTjdyckhLXzQ1ME14aHZlTFRhVEphdi1zRHRSZG5jVm1HSWdXMzFraXVyczZYUVUxckhsQUdKbGk3Yl9heHJYMGEzTkxWZWdTNU1QOFZqY3hYTXZ5dGlBOGZ0VEswcjVBM25iSGwwZ2dnWFZB?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5)
 
 ---
 
@@ -187,6 +163,14 @@ permalink: /news/hydrochlorothiazide/
 2026-05-14 <span class="news-indication-tag">tumor</span>
 
 來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFlXSFFoT2VIc1BfdENJcndGa1phTzhueW9VUk01MnVTUUlDWWdYRm5pdElLVXVEb1dWOVJRY28yNlV3bm9MV1EyNmlVM3JYZk9yVE5tSWY2a3ZvWTlSVzBrcWNYUGdCT1Z4VnVvWHB0UzVURkNhQklKUzhjci02MWJvVXpNZkV4TjNxbFZHYTRFLTlOWUg0?oc=5)
+
+---
+
+### [Asportato maxi tumore di 4 chili a Udine: “È arrivato qui camminando a fatica ed è andato via con le sue gambe“](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmxhc280STVKR2llaEpfczFKaTcxQUlWejNKdV9iTXd1U2FyZ1RqZFNaVk5ma21WZGw0dnhKdWdNckNMdVFwb2xtXzhQNW1OYUpsanpXRDVIVDZPZXgyNmV2WnZUcmxQX3UzaWtfZlN6M0hJcFhaYzlGRklRQWtybXU5Q1kxM3ZtOHlVRUN5OWxLcHpzSVVGTjBzZS03aXMwb1R1cmZLRWJJdWpsTWxZRjZHWG9zSmktQUF0RFNHbFVnZTVNM3g2cXo5THkzU0lDcVJzeFJSckpqdw?oc=5)
+
+2026-05-14 <span class="news-indication-tag">tumor</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmxhc280STVKR2llaEpfczFKaTcxQUlWejNKdV9iTXd1U2FyZ1RqZFNaVk5ma21WZGw0dnhKdWdNckNMdVFwb2xtXzhQNW1OYUpsanpXRDVIVDZPZXgyNmV2WnZUcmxQX3UzaWtfZlN6M0hJcFhaYzlGRklRQWtybXU5Q1kxM3ZtOHlVRUN5OWxLcHpzSVVGTjBzZS03aXMwb1R1cmZLRWJJdWpsTWxZRjZHWG9zSmktQUF0RFNHbFVnZTVNM3g2cXo5THkzU0lDcVJzeFJSckpqdw?oc=5)
 
 ---
 
@@ -214,11 +198,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [« L’enjeu, c’est de savoir si on porte ce gène » : à l’hôpital Lyon Sud, une campagne de sensibilisation sur des cancers génétiques - Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
+### [Eine verhängnisvolle Affäre: COPD und Herzerkrankung](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
 
-2026-05-14 <span class="news-indication-tag">cancer</span>
+2026-05-14 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
+來源：[medonline.at](https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ba2dLbTB1Q2R3SVBQR3c4M3RnemFNVmxPcndiUHVkZHN5cnpjVUxwbHN2XzBpbjduNzlfSUxEZ1BDZEl3bkZxaFZ5ZHZKZFMtOTlWZlRLcHVoUEtPQXNmVXNIR2t6V1N6RmZKTzZYTTF6WWtFM3p4ZQ?oc=5)
 
 ---
 
@@ -254,27 +238,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Gewichtszunahme im Erwachsenenalter erhöht Krebsrisiko erheblich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
+### [« L’enjeu, c’est de savoir si on porte ce gène » : à l’hôpital Lyon Sud, une campagne de sensibilisation sur des cancers génétiques - Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
 
-2026-05-14 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-14 <span class="news-indication-tag">cancer</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOdUpUTFFYRUk0N2d5aFVwTTdBdV80MkJQV3ljbl9lOWM3WkNUU3pFVVkwYmtuSjhabFJaWE9vTlk4S3RqQWY1Mzd5RGY2OUstNWtTVVdEOFZUZlpoc2N2dHEtbjNKVUN1X0kyaEMxSmE3dnk3djVTaEMxUWNnTVg1T2NjTnZVTGNtMEJKcWFacEtXeXlmSGpjNFJEX1VLQQ?oc=5)
-
----
-
-### [Ecotypes of triple-negative breast cancer in response to chemotherapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UMlFNUlpkSzBxek9UcG9yMHlHV3FuTVJqZlVyeno2YzZqRHRvUEJiN2Z6TXhMNk9fRW9UY3p0c044QXlTcWVROVE0ajNka2tYaHNFYUVsNTVlYVFkVE84?oc=5)
-
-2026-05-13 <span class="news-indication-tag">cancer</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UMlFNUlpkSzBxek9UcG9yMHlHV3FuTVJqZlVyeno2YzZqRHRvUEJiN2Z6TXhMNk9fRW9UY3p0c044QXlTcWVROVE0ajNka2tYaHNFYUVsNTVlYVFkVE84?oc=5)
-
----
-
-### [Timo, l'organo misterioso del corpo che combatte tumore e invecchiamento: è qui il segreto della longevità - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUltQ1pjdDdVNTRsSWY5NjNLcHpRVU03bVB3cEVGaDFPbDNmZzFVbTJVRWhEd1JsZ2JjUVZIalZEUnJQaVM5ZGdhU2xIWFZ3ZHAwYVdtcjJzeHR4SnFjeVpfekNPVmpyNG1SR0I5b2M0eDRfdnR6SDVqcjNTelNWSVVwV2tiZW9Zd0RIdXA2LVhjZEprWWp3WV9jTC1VdWlmT1BHYlpTUnJlUXBTUXfSAasBQVVfeXFMTVdNMlczVXhNWjM5T0JtZ2lpQzBXMEkwaWZheUpZZ0QyQUZOMFpsUjluWEhra3dHWWcwTm54YkFhd2JNakFHMjNQaU53REJRSlFxVUdncHh0NWVyVDBBR1c5VDZSV0lNeV9LSHdEMDNOeWp4cWpxUVhoNjcxckJxVHBMN3lKNFk4cURseDBSc1lnaFgxcVVtN3RMTWQwdDdDdFp2VGpGOHI1ZlU4?oc=5)
-
-2026-05-13 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUltQ1pjdDdVNTRsSWY5NjNLcHpRVU03bVB3cEVGaDFPbDNmZzFVbTJVRWhEd1JsZ2JjUVZIalZEUnJQaVM5ZGdhU2xIWFZ3ZHAwYVdtcjJzeHR4SnFjeVpfekNPVmpyNG1SR0I5b2M0eDRfdnR6SDVqcjNTelNWSVVwV2tiZW9Zd0RIdXA2LVhjZEprWWp3WV9jTC1VdWlmT1BHYlpTUnJlUXBTUXfSAasBQVVfeXFMTVdNMlczVXhNWjM5T0JtZ2lpQzBXMEkwaWZheUpZZ0QyQUZOMFpsUjluWEhra3dHWWcwTm54YkFhd2JNakFHMjNQaU53REJRSlFxVUdncHh0NWVyVDBBR1c5VDZSV0lNeV9LSHdEMDNOeWp4cWpxUVhoNjcxckJxVHBMN3lKNFk4cURseDBSc1lnaFgxcVVtN3RMTWQwdDdDdFp2VGpGOHI1ZlU4?oc=5)
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZzhpYzYyMF9FTUM4ZmNKSTFnTFlSNWtvLUpZVS1rYmx4OWU4Nm5HbVZDeHVVZ1VEcmNPNk80YmI3aFJNNzNhYlNudWwzaC1Idmp0RVd1Q2RjWnZldHpDVGFmMTVNVXFfd0VaWjlGeDczbHlYa09ZRXZsdWhhWjNXWlRiSXhXbFNzR08zZ2tXbHZGT1c0a25LTTkzUW15RGM3R3haNXRtSGxDV21oZENYbFk2bXRZQ3JhR09VQ1RrWm9UUVJlV0pGZjlSZGl0akF2WnctSkVGRnlJcmRJN1hXT0JybnhGdWtDZ3N0RkVFSDF4UktDSE5vdA?oc=5)
 
 ---
 

@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [New Stroke Study Challenges Decades-Old Medical Beliefs](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2RqU1hkbUl0ZW1ETjRoUHVGTVJWQTlyQXBtQ2dWc181SktsYlZUR01DS1BMb1BpUjFDNF9kaWhXZkdydTF1a21YN0hINzU4TkJrVk42Q3pOWWpRZk5uQjR6UVhtaWpLazlNQTQzTE9qbkRTcnFBQjVHN3FRWjNjWl9CZ285Vzda?oc=5)
+### ['Our baby had a stroke moments after birth - we're now celebrating her first birthday' - STV News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FwUUdjVW01T19pc19OcnZDazE2c2ZFcUxabkNPSm14eTc5ZGE3SFpoelR6WTU2bGlTNmUxSWRTZnJ6LXdVaEN3d0J4d1RGMXU1OWRBSFpoWEV6OEhfZmVkbkw0bko1ajB5NXNkYWUzYmliRElpNXdGSVJsR3NNblpPVzNkZ04yTk93RnU2eVl0TUw1dlVfZFRCaVdYcFRneVlkWXFsUUI0OHpHNjJpZ2xrZTNOLWhxSTg4dG94UFVQRjZI?oc=5)
 
 2026-05-15
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2RqU1hkbUl0ZW1ETjRoUHVGTVJWQTlyQXBtQ2dWc181SktsYlZUR01DS1BMb1BpUjFDNF9kaWhXZkdydTF1a21YN0hINzU4TkJrVk42Q3pOWWpRZk5uQjR6UVhtaWpLazlNQTQzTE9qbkRTcnFBQjVHN3FRWjNjWl9CZ285Vzda?oc=5)
+來源：[STV News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FwUUdjVW01T19pc19OcnZDazE2c2ZFcUxabkNPSm14eTc5ZGE3SFpoelR6WTU2bGlTNmUxSWRTZnJ6LXdVaEN3d0J4d1RGMXU1OWRBSFpoWEV6OEhfZmVkbkw0bko1ajB5NXNkYWUzYmliRElpNXdGSVJsR3NNblpPVzNkZ04yTk93RnU2eVl0TUw1dlVfZFRCaVdYcFRneVlkWXFsUUI0OHpHNjJpZ2xrZTNOLWhxSTg4dG94UFVQRjZI?oc=5)
 
 ---
 

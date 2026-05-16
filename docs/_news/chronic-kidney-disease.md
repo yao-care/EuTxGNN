@@ -31,11 +31,11 @@ permalink: /news/chronic-kidney-disease/
 
 ## 相關新聞（1 則）
 
-### [Hantavirus, Oms: a oggi 10 casi e 3 morti, oltre 120 persone assistite - Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE15QkUyd1RveUgtS21jeE5vOFZLS1gwd3N5N1pUU0gxd0lLbWRia2E0b29TQ3g5NUQxcGpRU3pDSFZEV2FQMjYyTy1vX3E4dFZHV2tlWS04S1JUbVVaZjFNSlR3RXI3VFJ4VFNKUzZxeUVsaWdHMnExcnF4Y0w?oc=5)
+### [Hantavirus, il contagio alla discarica di Ushuaia appare sempre più «improbabile» - Corriere del Ticino](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnY4ZTYybmNXaElVZ1AyZ3REVXY5NjJnTTF5ZXRTMGIwQjF6N3lVTVNXZFU2ZDVldUowM2d6S1ZIcnd0Z21xRjJTMFM4RzRPWi1SOFFnc0RLS3RYRjNDVUZHYnVyUkFLZ1lONG1ralNRaXFrSXg4RXJpcjVtUTlVcjU0RVJXbG1ZN1oxbnAxdG1FQnhKbHdvbVhRZ3B4TUNXLUlLWmpSaEROTmtZYmpPUU5QbkRQZw?oc=5)
 
 2026-05-15
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE15QkUyd1RveUgtS21jeE5vOFZLS1gwd3N5N1pUU0gxd0lLbWRia2E0b29TQ3g5NUQxcGpRU3pDSFZEV2FQMjYyTy1vX3E4dFZHV2tlWS04S1JUbVVaZjFNSlR3RXI3VFJ4VFNKUzZxeUVsaWdHMnExcnF4Y0w?oc=5)
+來源：[Corriere del Ticino](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnY4ZTYybmNXaElVZ1AyZ3REVXY5NjJnTTF5ZXRTMGIwQjF6N3lVTVNXZFU2ZDVldUowM2d6S1ZIcnd0Z21xRjJTMFM4RzRPWi1SOFFnc0RLS3RYRjNDVUZHYnVyUkFLZ1lONG1ralNRaXFrSXg4RXJpcjVtUTlVcjU0RVJXbG1ZN1oxbnAxdG1FQnhKbHdvbVhRZ3B4TUNXLUlLWmpSaEROTmtZYmpPUU5QbkRQZw?oc=5)
 
 ---
 
