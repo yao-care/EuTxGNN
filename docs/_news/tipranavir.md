@@ -14,7 +14,7 @@ permalink: /news/tipranavir/
 ---
 
 <p class="key-answer" data-question="Tipranavir 有什麼相關新聞？">
-<strong>Tipranavir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tipranavir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/tipranavir/
 <p><a href="{{ '/drugs/tipranavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（14 則）
+
+### [Santé : des chercheurs viennent de découvrir pourquoi le cœur est si peu concerné par le cancer !](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVF0WTc0a2hVT00tMlBfaklQRlFwNVFuQU1INjNVWE51dzhoTGFCTVVpMWNseEVXMXlDbWc3aXpLcDZRZWVLNTgzZ0YwYy0tOEk1ZFFPdDdVM3FILXNiUjV4UkFfcUF4TGRYSXVIV1lUT25UeDl6MUtadEdiOFFDQ1BXb2lsbkhLeVdGMXZRVk5zaFZocUhaSmlKc1NDRlV4U1o2M1diTDVvMTRhNnlxbkZPUFVxeFdGd2c?oc=5)
+
+2026-05-17 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVF0WTc0a2hVT00tMlBfaklQRlFwNVFuQU1INjNVWE51dzhoTGFCTVVpMWNseEVXMXlDbWc3aXpLcDZRZWVLNTgzZ0YwYy0tOEk1ZFFPdDdVM3FILXNiUjV4UkFfcUF4TGRYSXVIV1lUT25UeDl6MUtadEdiOFFDQ1BXb2lsbkhLeVdGMXZRVk5zaFZocUhaSmlKc1NDRlV4U1o2M1diTDVvMTRhNnlxbkZPUFVxeFdGd2c?oc=5)
+
+---
 
 ### ['New cancer test makes me feel women's health matters'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MU3NaNmIwd3ZKYTBSRktpWHJveE50VjlSMm1mUDRpZV96QW40N1A5NndDbVRITlJEU3U5eXJvSEFVN3NRSnpJbERNSHRpRW1PVDBaV3pHRFFvNlBr?oc=5)
 
 2026-05-17 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MU3NaNmIwd3ZKYTBSRktpWHJveE50VjlSMm1mUDRpZV96QW40N1A5NndDbVRITlJEU3U5eXJvSEFVN3NRSnpJbERNSHRpRW1PVDBaV3pHRFFvNlBr?oc=5)
+
+---
+
+### [Daughters helping their mum fight for her life after incurable brain tumour diagnosis - Norwich Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkUxQ1lvS0s4U09vZXpuM19KT3NYcWpyZm1OU3lXQ2JUcWpXV3V2SHlhSklqOWlrYnlwRjh5alllR0JNNTQzUnVySXBpOFRIUmQyS2lpQVRScEI1NHllXzZkNEs0d1ZmTnU1aG12QndTX1BHaXlCRGN2TG1vUVdEd1ZLT3llQ29ZVVBuZXB1U2hweGpwN0FiY2Vnd1lpcEVZ?oc=5)
+
+2026-05-17 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
+
+來源：[Norwich Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkUxQ1lvS0s4U09vZXpuM19KT3NYcWpyZm1OU3lXQ2JUcWpXV3V2SHlhSklqOWlrYnlwRjh5alllR0JNNTQzUnVySXBpOFRIUmQyS2lpQVRScEI1NHllXzZkNEs0d1ZmTnU1aG12QndTX1BHaXlCRGN2TG1vUVdEd1ZLT3llQ29ZVVBuZXB1U2hweGpwN0FiY2Vnd1lpcEVZ?oc=5)
+
+---
+
+### ["Il nous a quittés ce matin" : à 32 ans, son compagnon décède après 367 jours de combat contre une tumeur cérébrale - France 3 Régions](https://news.google.com/rss/articles/CBMirgJBVV95cUxPeW5zZGFydFZEWXFYT0Y1QXU5cGJqUm8wTkF1c1gyQmNUeHNDRUZoRVFQUW5hc3FFNjlBdGpleHowVFFCRHc0TTBTU2pISEc0LUgyVmotSVhuX0gtRnNHcW9rTGRiTE9WRE0xT3o1VTNGZnZ4bVBuTXlTNGc3RURaS3B5clYtRF9IQ0dycmpyczg5aU5kajV6NDVvSVY5b0NiRzRad3VrQ08zcHNEMkllOWVialZ6QWNmdGRSRnIyd2dwUnBwZkNCNVZhZEt5ZE9paHVjd3VkMVJIQVZ5TmV1LWtRN1U1SG9JQUItbW1VTjJBTTliWnZTOUZ4bTVBdTZSYTFGTTlncHhmMU9xNEFxZERjU01mU1JLd1M1VkNHNXdHUWl3bWRnNGlDM3h4QQ?oc=5)
+
+2026-05-17 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirgJBVV95cUxPeW5zZGFydFZEWXFYT0Y1QXU5cGJqUm8wTkF1c1gyQmNUeHNDRUZoRVFQUW5hc3FFNjlBdGpleHowVFFCRHc0TTBTU2pISEc0LUgyVmotSVhuX0gtRnNHcW9rTGRiTE9WRE0xT3o1VTNGZnZ4bVBuTXlTNGc3RURaS3B5clYtRF9IQ0dycmpyczg5aU5kajV6NDVvSVY5b0NiRzRad3VrQ08zcHNEMkllOWVialZ6QWNmdGRSRnIyd2dwUnBwZkNCNVZhZEt5ZE9paHVjd3VkMVJIQVZ5TmV1LWtRN1U1SG9JQUItbW1VTjJBTTliWnZTOUZ4bTVBdTZSYTFGTTlncHhmMU9xNEFxZERjU01mU1JLd1M1VkNHNXdHUWl3bWRnNGlDM3h4QQ?oc=5)
 
 ---
 
@@ -110,14 +134,6 @@ permalink: /news/tipranavir/
 
 ---
 
-### [« Cette maladie est foudroyante » : une campagne pour sensibiliser aux cancers du cerveau](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0NHYmZVdGw4WGZwLXY4RXBJR21VUGhBS3Y1Zl93QTl4RWN4aGpGNjItdTd5OGxlX00yVDJrc2FhLU5pSWMtbjVGZFUwcFlzRFN5WkdBRVBPM0s0Mmx6QUJ4dlpORVZBRFRnVXBYUjc5X0hrSGhXUFJybUNQQU5wb0xWVFhxbjhlb2tKQk9GYWpaRGxid3pSQkprR0w0VzBMSDBBeElGMlgydUlCY2JhT2pjQXJNMXlJRFdNYU83WHQtbXVYT2lqWmk0aFEzTElaNmVKUjM5S1BzUWpsTmJKU2RJU1JJU1NaX1lDMGhn?oc=5)
-
-2026-05-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0NHYmZVdGw4WGZwLXY4RXBJR21VUGhBS3Y1Zl93QTl4RWN4aGpGNjItdTd5OGxlX00yVDJrc2FhLU5pSWMtbjVGZFUwcFlzRFN5WkdBRVBPM0s0Mmx6QUJ4dlpORVZBRFRnVXBYUjc5X0hrSGhXUFJybUNQQU5wb0xWVFhxbjhlb2tKQk9GYWpaRGxid3pSQkprR0w0VzBMSDBBeElGMlgydUlCY2JhT2pjQXJNMXlJRFdNYU83WHQtbXVYT2lqWmk0aFEzTElaNmVKUjM5S1BzUWpsTmJKU2RJU1JJU1NaX1lDMGhn?oc=5)
-
----
-
 ### [Cancer du pancréas : le CHU de Grenoble réalise une première européenne](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZG1XeTZ3Ym1UeFNIdnllODZrRmFjTWVTUXJnb2x5TllVWmZIYjN5b1ZTWWxuS3pKbXU3Y3ptQzg5aUg5MHNMSmJGWjQybjZCQ1FYQUk3T3EtV004bkxZLXRDazBJdUhLeDBYUnJ6MHVHaTBLSVk4TFVlQjBKVDIxQ3c2Q0w3Q1pRcVdZbC1sQ3lQSTBDSkhVMFNrTm8?oc=5)
 
 2026-05-16 <span class="news-indication-tag">cancer</span>
@@ -147,38 +163,6 @@ permalink: /news/tipranavir/
 2026-05-15 <span class="news-indication-tag">cancer</span>
 
 來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZIdmZMQkM0eGdPOEYwUXZseHAtNU1EUnQxLU1wWlVNcjE0ODJpQjYtMTR6V2FWX0NtaDR3SWY4eEpPUW9yREpIZWtmTExPMC1FWmlrTVdfX1FuOGxFVGEybFlLdXRGN3Q0QkhTRkNWMUV0XzFBbVZ1ZDRGQUc4ckV2UTczcFMzNnhYY2I3Z0RPTEZZei1ma0RjdnlyTktidkxQR01WQXE?oc=5)
-
----
-
-### [Neue Studie belegt: - HPV-Impfung schützt auch Männer gut vor Krebs - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSjlfbmxWek5aTjA5cEphMkxkNjBoZ1l5aV9HNHJNX0hxaUtkeUx6dDhBNzVnNUNxR0xvSWxjU2RGdw?oc=5)
-
-2026-05-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSjlfbmxWek5aTjA5cEphMkxkNjBoZ1l5aV9HNHJNX0hxaUtkeUx6dDhBNzVnNUNxR0xvSWxjU2RGdw?oc=5)
-
----
-
-### [Krebs im jungen Alter erhöht Risiko für Zweitmalignome deutlich – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUxyQnZiSFRLVGVVcEdzYmxIbXhLNmhMQUtOdGVfSUh2THU1QWVSR0stRlpFdjRZYVN4QXRjVngxaEVJSnZTQUdubEN3eEFlcVdpeW1LVFNfNEdqZXdQT2plUTBBVkVKNHVOOTNvdEtWQmhsMTVKTWpERXhET3RWZVYyc09KQUhjN1RMbWE3LS1fTFh2VC1nWEYwWDZKdi1XNUc2OF81QnZ2ejBOaV9WZlJXeXR6d2FHQURtTUhic2NuR254eTIycE5IbTM?oc=5)
-
-2026-05-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUxyQnZiSFRLVGVVcEdzYmxIbXhLNmhMQUtOdGVfSUh2THU1QWVSR0stRlpFdjRZYVN4QXRjVngxaEVJSnZTQUdubEN3eEFlcVdpeW1LVFNfNEdqZXdQT2plUTBBVkVKNHVOOTNvdEtWQmhsMTVKTWpERXhET3RWZVYyc09KQUhjN1RMbWE3LS1fTFh2VC1nWEYwWDZKdi1XNUc2OF81QnZ2ejBOaV9WZlJXeXR6d2FHQURtTUhic2NuR254eTIycE5IbTM?oc=5)
-
----
-
-### [Blood test pinpoints prostate cancer’s response to treatment - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDEzVHBSM3IwZHEwdmYtYXFYdjdMSDZnMzRTMkpUazBndlNUSl9nR2tpbVYzbHZmTkh4TndHS2J1b1lPejZMeFlJMHJzNDVwdXpjbnJOaTlTRzVHZFhYSzh4Y2pZUC1aTjQ3Yk5JNm5VeVVCbkVhMGZXM2hScmFMbENDSkZ4RnNPWmNsVnhzVmhIT3paY3ZXdGNIV25xZ1k1b25lVQ?oc=5)
-
-2026-05-15 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDEzVHBSM3IwZHEwdmYtYXFYdjdMSDZnMzRTMkpUazBndlNUSl9nR2tpbVYzbHZmTkh4TndHS2J1b1lPejZMeFlJMHJzNDVwdXpjbnJOaTlTRzVHZFhYSzh4Y2pZUC1aTjQ3Yk5JNm5VeVVCbkVhMGZXM2hScmFMbENDSkZ4RnNPWmNsVnhzVmhIT3paY3ZXdGNIV25xZ1k1b25lVQ?oc=5)
-
----
-
-### [DIPEx-Projekt erweitert Online-Angebot zu Krankheitserfahrungen um Hautkrebs-Modul - Medizinische Hochschule Brandenburg Theodor Fontane](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
-
-2026-05-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[Medizinische Hochschule Brandenburg Theodor Fontane](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
 
 ---
 

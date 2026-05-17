@@ -54,11 +54,11 @@ permalink: /news/brexpiprazole/
 
 ## 相關新聞（1 則）
 
-### [Kontaktlinsen gegen Depression: Forscher entwickeln nicht-invasive Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
+### [Nicht-invasive Kontaktlinsen per Elektrostimulation gegen Depressionen in Sicht - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
 
 2026-05-16 <span class="news-indication-tag">depression</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
 
 ---
 
