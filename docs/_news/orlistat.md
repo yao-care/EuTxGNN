@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Adipositas-Therapie: Die zweite Welle der GLP-1-Revolution hat begonnen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJobUt1VzhoZzk0LVZTOGxfNzY2dFZpWVlJdU1vRjNVSnNVY0hGVGxxV0ZieWYtRW9LYTNlUXVDa2tVdkc3N1psb1pya05YRHZteDFpdUNiTW51UkRGQWFSd0dXZnMxLVdrWFJOVU9QcHItQ082Z3Y1Yjd6ZE9oeTNsRkdUZ3RLVTN4SDdrZHRRbzhGZHZ1SHluM3Ywc2pVODZKaUxUenI2aHhjUkhsNk9yOUd3eS10Z3Br?oc=5)
-
-2026-05-17 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJobUt1VzhoZzk0LVZTOGxfNzY2dFZpWVlJdU1vRjNVSnNVY0hGVGxxV0ZieWYtRW9LYTNlUXVDa2tVdkc3N1psb1pya05YRHZteDFpdUNiTW51UkRGQWFSd0dXZnMxLVdrWFJOVU9QcHItQ082Z3Y1Yjd6ZE9oeTNsRkdUZ3RLVTN4SDdrZHRRbzhGZHZ1SHluM3Ywc2pVODZKaUxUenI2aHhjUkhsNk9yOUd3eS10Z3Br?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [España frena la obesidad adulta pero la epidemia infantil sigue crítica - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdCaGJGTWtHMkt5VWFhdGsyNDlWYU1vY2g1eE40MFZQdlNMdVZLbVpURVZZTWdmOW9mR0FiS3FPTTY0X0tLQkFSNldrVW1wUjBmeVFhUElOVVpHWUNHeHEycXVmQjMxaFNIUUlrS2JENnphVU9HTWtCTFpuekZ4QkZCTE5hRlNKQ056YUdMcUxKaHE1dUxwZTgzSlg5WFRVVm41ZnBiYUFJLUdpenBZczAyYkowV3AyUnBLRFh5ZlRaMDFjZGfSAcYBQVVfeXFMUEF3SUVEd0JpZ2xIRVY5NkRfVmk2US1KamNOZGpxQnJSVlNHT0dRdHZ3R3NjV2Z2bnRxMDY3eXFleXNlYnE0cFB1YVBrQ2RrSFExM3BPc096Y1FTWkVzdm90OXAtaUlvSWFHS1U4RTVUYWR6VjZqWEQtdjA0bWh3VTNHUThJV2JwMlFTUFFsZUg4VjY5QmRBdlFqdUhuUFBkaHR0Sk43VnhYWVVPRHpDVUNzZDVhQXVQclZ3QVlRdVVMRC15Vm9R?oc=5)
 

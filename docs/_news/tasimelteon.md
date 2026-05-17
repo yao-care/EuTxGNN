@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Kontaktlinsen gegen Depression: Forscher entwickeln nicht-invasive Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
 
 2026-05-16 <span class="news-indication-tag">depression</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
-
----
-
-### [Depresión: Prueban con éxito en ratones unas lentes de contacto con la misma eficacia que el 'Prozac'](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NuTzljdW9RWjVCT1ZuRFF5aUl4dUZqNXZWbURFell5UWlyRFZKSHdKZW9iY1YzamxPaGlwWGQ0ZnhKZFVmTU5QamV5M0EyMS0wZ3pYZHpGbFp3VFFfdExpUXpSRThuZDVjYXJyZ3ZsOVZ3RnllZnRtTzhZR2o2dkVycDZ2cjdOZTNYX2ItQVZPbURHRjN1bUxWY2RKM1g4WnNiSzFlOWRYU1pUSXdsZTJidUxVNkRTLXdKNXdKRV85YUZmNlI5NEtfQjc3ZlU?oc=5)
-
-2026-05-15 <span class="news-indication-tag">depresión</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NuTzljdW9RWjVCT1ZuRFF5aUl4dUZqNXZWbURFell5UWlyRFZKSHdKZW9iY1YzamxPaGlwWGQ0ZnhKZFVmTU5QamV5M0EyMS0wZ3pYZHpGbFp3VFFfdExpUXpSRThuZDVjYXJyZ3ZsOVZ3RnllZnRtTzhZR2o2dkVycDZ2cjdOZTNYX2ItQVZPbURHRjN1bUxWY2RKM1g4WnNiSzFlOWRYU1pUSXdsZTJidUxVNkRTLXdKNXdKRV85YUZmNlI5NEtfQjc3ZlU?oc=5)
 
 ---
 

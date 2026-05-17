@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,15 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [Adipositas-Therapie: Die zweite Welle der GLP-1-Revolution hat begonnen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJobUt1VzhoZzk0LVZTOGxfNzY2dFZpWVlJdU1vRjNVSnNVY0hGVGxxV0ZieWYtRW9LYTNlUXVDa2tVdkc3N1psb1pya05YRHZteDFpdUNiTW51UkRGQWFSd0dXZnMxLVdrWFJOVU9QcHItQ082Z3Y1Yjd6ZE9oeTNsRkdUZ3RLVTN4SDdrZHRRbzhGZHZ1SHluM3Ywc2pVODZKaUxUenI2aHhjUkhsNk9yOUd3eS10Z3Br?oc=5)
-
-2026-05-17
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJobUt1VzhoZzk0LVZTOGxfNzY2dFZpWVlJdU1vRjNVSnNVY0hGVGxxV0ZieWYtRW9LYTNlUXVDa2tVdkc3N1psb1pya05YRHZteDFpdUNiTW51UkRGQWFSd0dXZnMxLVdrWFJOVU9QcHItQ082Z3Y1Yjd6ZE9oeTNsRkdUZ3RLVTN4SDdrZHRRbzhGZHZ1SHluM3Ywc2pVODZKaUxUenI2aHhjUkhsNk9yOUd3eS10Z3Br?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [España frena la obesidad adulta pero la epidemia infantil sigue crítica - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdCaGJGTWtHMkt5VWFhdGsyNDlWYU1vY2g1eE40MFZQdlNMdVZLbVpURVZZTWdmOW9mR0FiS3FPTTY0X0tLQkFSNldrVW1wUjBmeVFhUElOVVpHWUNHeHEycXVmQjMxaFNIUUlrS2JENnphVU9HTWtCTFpuekZ4QkZCTE5hRlNKQ056YUdMcUxKaHE1dUxwZTgzSlg5WFRVVm41ZnBiYUFJLUdpenBZczAyYkowV3AyUnBLRFh5ZlRaMDFjZGfSAcYBQVVfeXFMUEF3SUVEd0JpZ2xIRVY5NkRfVmk2US1KamNOZGpxQnJSVlNHT0dRdHZ3R3NjV2Z2bnRxMDY3eXFleXNlYnE0cFB1YVBrQ2RrSFExM3BPc096Y1FTWkVzdm90OXAtaUlvSWFHS1U4RTVUYWR6VjZqWEQtdjA0bWh3VTNHUThJV2JwMlFTUFFsZUg4VjY5QmRBdlFqdUhuUFBkaHR0Sk43VnhYWVVPRHpDVUNzZDVhQXVQclZ3QVlRdVVMRC15Vm9R?oc=5)
 

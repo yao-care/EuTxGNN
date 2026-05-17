@@ -14,7 +14,7 @@ permalink: /news/alectinib-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Alectinib Hydrochloride 有什麼相關新聞？">
-<strong>Alectinib Hydrochloride</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alectinib Hydrochloride</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/alectinib-hydrochloride/
 <p><a href="{{ '/drugs/alectinib-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（17 則）
+
+### ['New cancer test makes me feel women's health matters'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MU3NaNmIwd3ZKYTBSRktpWHJveE50VjlSMm1mUDRpZV96QW40N1A5NndDbVRITlJEU3U5eXJvSEFVN3NRSnpJbERNSHRpRW1PVDBaV3pHRFFvNlBr?oc=5)
+
+2026-05-17 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MU3NaNmIwd3ZKYTBSRktpWHJveE50VjlSMm1mUDRpZV96QW40N1A5NndDbVRITlJEU3U5eXJvSEFVN3NRSnpJbERNSHRpRW1PVDBaV3pHRFFvNlBr?oc=5)
+
+---
 
 ### [Scientists find a remarkable molecule that could help humans live up to 200 years cancer free](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3JYb3VxNXFUVm9GSG8xNFNZcHBkMXZWby1qZDJERGxCb1I1WG9jZ1FIOEQ4Vm1rdWp2Sm9yYWVscGdDY0ppeGpIdEpxdjkzaDMzeFNoamJqQ1dCdUd1VnFsQlh3Z1ZfUm9BbGpNRF9yTEg2T19xZS10U2FuZElrbldOdFVaUllSVVh4Qy1NY2x6MnJ6RlItemNaNUZTWm9BYTZqNkI1TmxzMXZtaUdydExsWlM5ank2bzdJUlNzbHR4VTg?oc=5)
 
@@ -118,6 +126,14 @@ permalink: /news/alectinib-hydrochloride/
 
 ---
 
+### [Cancer du pancréas : le CHU de Grenoble réalise une première européenne](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZG1XeTZ3Ym1UeFNIdnllODZrRmFjTWVTUXJnb2x5TllVWmZIYjN5b1ZTWWxuS3pKbXU3Y3ptQzg5aUg5MHNMSmJGWjQybjZCQ1FYQUk3T3EtV004bkxZLXRDazBJdUhLeDBYUnJ6MHVHaTBLSVk4TFVlQjBKVDIxQ3c2Q0w3Q1pRcVdZbC1sQ3lQSTBDSkhVMFNrTm8?oc=5)
+
+2026-05-16 <span class="news-indication-tag">cancer</span>
+
+來源：[TG+](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZG1XeTZ3Ym1UeFNIdnllODZrRmFjTWVTUXJnb2x5TllVWmZIYjN5b1ZTWWxuS3pKbXU3Y3ptQzg5aUg5MHNMSmJGWjQybjZCQ1FYQUk3T3EtV004bkxZLXRDazBJdUhLeDBYUnJ6MHVHaTBLSVk4TFVlQjBKVDIxQ3c2Q0w3Q1pRcVdZbC1sQ3lQSTBDSkhVMFNrTm8?oc=5)
+
+---
+
 ### [L'età avanzata favorisce metastasi nel tumore al seno](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzZwZDZLYXBYNUhsazY2TUpiRmRiMzZLQVZKem9ER2hzZy1uell1T2tBa01lVDBVSXdBaW1BRERJTGFpQzF2TDA3ZVpEdlZYMnY1eFV6T0RZcHBiVV9pX0N6X1dqMkRLOTZiOERmSWFTb1UtaEM1OElzTkxlX19GVU5DTlQ2cTUwT2c?oc=5)
 
 2026-05-16 <span class="news-indication-tag">tumor</span>
@@ -139,14 +155,6 @@ permalink: /news/alectinib-hydrochloride/
 2026-05-15 <span class="news-indication-tag">cancer</span>
 
 來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZIdmZMQkM0eGdPOEYwUXZseHAtNU1EUnQxLU1wWlVNcjE0ODJpQjYtMTR6V2FWX0NtaDR3SWY4eEpPUW9yREpIZWtmTExPMC1FWmlrTVdfX1FuOGxFVGEybFlLdXRGN3Q0QkhTRkNWMUV0XzFBbVZ1ZDRGQUc4ckV2UTczcFMzNnhYY2I3Z0RPTEZZei1ma0RjdnlyTktidkxQR01WQXE?oc=5)
-
----
-
-### [Bryan Johnson says you are not drinking coffee for the caffeine — you are drinking it for the gut microbes that run your brain, and the research behind that claim is harder to dismiss than it sounds - Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxQb1l6cjVnR3IxQU9HT0d5bGdKQVVfcmxndURIX1piaXVSV3hqdHNTcHh4U3NqNXFvRzgzRlBNcENZYlhNaUxCZldLYXUwMWhEU0xtYThDLXdjMTZ1ZXFjWlBWZUE1cWhsM2s1QnB6OWhWRnFxUlo3N1Z6ZF9hbUdySkdYWjlFUzlhSVN3bFpxcjBDb191SnllQVN0cVVleHNCUW53M21Za3B4QXlnYjByUEV4bnVXNEYweWJfS3BuRHhMUjdpMEJleUdHaVFMNHJXVkJ3NGZaLU50dGNWSEV3bTRKWGhjVTREa3BqOURMMzYzSFlwZzQwVUZXQzZuN3hDUS11blR1dGJRdFozUnVFRlFibHF1VnUtSUljbkJaUGpXZU04a09ZMTJ4b1NSQVljUzE2VnhMa0ZKUQ?oc=5)
-
-2026-05-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxQb1l6cjVnR3IxQU9HT0d5bGdKQVVfcmxndURIX1piaXVSV3hqdHNTcHh4U3NqNXFvRzgzRlBNcENZYlhNaUxCZldLYXUwMWhEU0xtYThDLXdjMTZ1ZXFjWlBWZUE1cWhsM2s1QnB6OWhWRnFxUlo3N1Z6ZF9hbUdySkdYWjlFUzlhSVN3bFpxcjBDb191SnllQVN0cVVleHNCUW53M21Za3B4QXlnYjByUEV4bnVXNEYweWJfS3BuRHhMUjdpMEJleUdHaVFMNHJXVkJ3NGZaLU50dGNWSEV3bTRKWGhjVTREa3BqOURMMzYzSFlwZzQwVUZXQzZuN3hDUS11blR1dGJRdFozUnVFRlFibHF1VnUtSUljbkJaUGpXZU04a09ZMTJ4b1NSQVljUzE2VnhMa0ZKUQ?oc=5)
 
 ---
 
@@ -179,22 +187,6 @@ permalink: /news/alectinib-hydrochloride/
 2026-05-15 <span class="news-indication-tag">Krebs</span>
 
 來源：[Medizinische Hochschule Brandenburg Theodor Fontane](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
-
----
-
-### [Salerno, lotta al tumore del polmone: lo studio con la nuova molecola ibrida - Il Mattino](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkgwZm5SSmloSm56YUROM2FYVUpoSG1NWTBMZ2trUENQLTRaRVozMVUxWGQ5RHh6OUcxMHNWeWVkODk5V0g2Q3NJNHcwRmdtVDVUamR5aGRFQlNkdzhPemxiOUFXcE9lNGRPMGVtNXJETzVBNDB3dnlCTXlMb09BazgtYU9uWExUaDg2Wi02ZVlhMjdfTmcwSk5ydTFxRm9VR2NlNmZTa2RlQ3JlN3dQc2tFeHR1U3RzTkdN0gHAAUFVX3lxTE9wWVJNNGczSkEtRVRHajZlV3dSV0oyeGJwbGtMRTdGQnh0a055UnpMeU5YMDUyeDFWUkE0YVd5akdpbDVWWkFYRmo0UUY5V3hyNmp5ZFM4Tzl5aURkWGhQYzBRbmpyWVRzOEVBWURmT2lXdmRYSkZMNERVelNvdUtpa0puVGRQbnFxMV9ycWJ1cEZ2bFhpYXNIOF9EOFMyNjJqN1RnM2xkeFVpaDlnWkRnSl9LeUZEVUVuVEkzNDJ2Vw?oc=5)
-
-2026-05-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkgwZm5SSmloSm56YUROM2FYVUpoSG1NWTBMZ2trUENQLTRaRVozMVUxWGQ5RHh6OUcxMHNWeWVkODk5V0g2Q3NJNHcwRmdtVDVUamR5aGRFQlNkdzhPemxiOUFXcE9lNGRPMGVtNXJETzVBNDB3dnlCTXlMb09BazgtYU9uWExUaDg2Wi02ZVlhMjdfTmcwSk5ydTFxRm9VR2NlNmZTa2RlQ3JlN3dQc2tFeHR1U3RzTkdN0gHAAUFVX3lxTE9wWVJNNGczSkEtRVRHajZlV3dSV0oyeGJwbGtMRTdGQnh0a055UnpMeU5YMDUyeDFWUkE0YVd5akdpbDVWWkFYRmo0UUY5V3hyNmp5ZFM4Tzl5aURkWGhQYzBRbmpyWVRzOEVBWURmT2lXdmRYSkZMNERVelNvdUtpa0puVGRQbnFxMV9ycWJ1cEZ2bFhpYXNIOF9EOFMyNjJqN1RnM2xkeFVpaDlnWkRnSl9LeUZEVUVuVEkzNDJ2Vw?oc=5)
-
----
-
-### [Medico riconosce una malattia rara e salva paziente da quattro tumori nel cuore: «Mi sono ricordato di averli studiati anni fa» - Corriere del Veneto](https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUF9ON1VGZjZFRnlxUVVnR2dDRl9uVGMzQkdMa043dDdBY0wwQkNzRlZyWjlYYVF6cXB3RnNuQnhJTFBQOUR2cXJ6UWdNcXVPd0ZrYk9SMWJvRUVWY1hJLVN2bF9ES2hlNkRZMDV2N2J1THhrRXZIb2FoVzliZ202ZFdqc2pxNDNpZy1NM1ladFVYbEw5OGV1REFWZFgtY2RwN3B2MG8ySk5fMXdKdHQ1alFsRjB0N1VTYk1pNEpWQ09vLTdaNjFHQWl2WmZvY1NlSHhXU0h4NUItMUZEMlduR09GQlZKRnp4c29Wdm92RUhaem1XeG9qNVRjcTF5RUdnTG4yS2tlS3dKRnB5bTFzY2E3eXpQdmtmdlhTNnVYWDEwSFloSVdBOEJWTzN2aTQ4VjVzZEtJNDh5MjdnLU5HU0ROd182VVptcGJsb3NiTmNzMnB5dWZieUxKSF9GT2fSAeQCQVVfeXFMUGsta3M5VkczN0dJVS1RbmVNWFRRSUJVNWNhaGE4OEFEMFZvdUJRWE1zbGVuTnZTYk96WnFwN2NxQVhxSVBtbmRRYWNVSFRYX1NldGhQMk0td0FfbXZCR1lNTFdobm9KeW9LV0RjVUpMT296SVZXT2hSZU1rMWRka3Y1LWl6MXZVZHFvcDhMZUhSbFlYNlJubE8wLVRXY3NGZWszZHMzYlJGcVZTZmZ2ZUVvOEhBZUZMQUJnbHd3Zm0yamdGRTZscTZ2T1VZSk04RFQ1am1nbnA2d0ZSSlhJTWVMc0pma29nRWhxclJkQlZUbUdLb042THFXNUZNMU5wSEZMT2Vic2xBR0hEMk1ST0NIenZya1lvc3NWR3h3TFF3U0M2Y3hFdUlzclMtZnk4aE5FNmNWbndrSGp4M1V0djAweWlDUG9ZSmxCSE9YdFRyQjN0X09NYUl4RDBVYlNfRW1mdEo?oc=5)
-
-2026-05-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere del Veneto](https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUF9ON1VGZjZFRnlxUVVnR2dDRl9uVGMzQkdMa043dDdBY0wwQkNzRlZyWjlYYVF6cXB3RnNuQnhJTFBQOUR2cXJ6UWdNcXVPd0ZrYk9SMWJvRUVWY1hJLVN2bF9ES2hlNkRZMDV2N2J1THhrRXZIb2FoVzliZ202ZFdqc2pxNDNpZy1NM1ladFVYbEw5OGV1REFWZFgtY2RwN3B2MG8ySk5fMXdKdHQ1alFsRjB0N1VTYk1pNEpWQ09vLTdaNjFHQWl2WmZvY1NlSHhXU0h4NUItMUZEMlduR09GQlZKRnp4c29Wdm92RUhaem1XeG9qNVRjcTF5RUdnTG4yS2tlS3dKRnB5bTFzY2E3eXpQdmtmdlhTNnVYWDEwSFloSVdBOEJWTzN2aTQ4VjVzZEtJNDh5MjdnLU5HU0ROd182VVptcGJsb3NiTmNzMnB5dWZieUxKSF9GT2fSAeQCQVVfeXFMUGsta3M5VkczN0dJVS1RbmVNWFRRSUJVNWNhaGE4OEFEMFZvdUJRWE1zbGVuTnZTYk96WnFwN2NxQVhxSVBtbmRRYWNVSFRYX1NldGhQMk0td0FfbXZCR1lNTFdobm9KeW9LV0RjVUpMT296SVZXT2hSZU1rMWRka3Y1LWl6MXZVZHFvcDhMZUhSbFlYNlJubE8wLVRXY3NGZWszZHMzYlJGcVZTZmZ2ZUVvOEhBZUZMQUJnbHd3Zm0yamdGRTZscTZ2T1VZSk04RFQ1am1nbnA2d0ZSSlhJTWVMc0pma29nRWhxclJkQlZUbUdLb042THFXNUZNMU5wSEZMT2Vic2xBR0hEMk1ST0NIenZya1lvc3NWR3h3TFF3U0M2Y3hFdUlzclMtZnk4aE5FNmNWbndrSGp4M1V0djAweWlDUG9ZSmxCSE9YdFRyQjN0X09NYUl4RDBVYlNfRW1mdEo?oc=5)
 
 ---
 
