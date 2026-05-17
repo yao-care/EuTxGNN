@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Avanafil</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（19 則）
+
+### [Three months after my stroke at 31 my husband did unthinkable to me & our baby - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
+
+2026-05-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
+
+---
+
+### ["Ho scritto a ChatGPT i miei sintomi, mi ha salvato la vita. Se avessi aspettato, avrei potuto morire dissanguata": la storia di Diana Hurtado, 30enne colpita da ictus mentre era alla guida - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ2FTOTFpcVBEcERsV0htLUxzbHB3a1RWbEQwMW00Yk5iaW1ERmx1ekJvaVJsanhCYml6ZTJKczBmaks3UUxmM01hamRublRCVm85ZV9KMFNzLXdtNUZYNUpNZzY5Nmg1T3pQVThTTmkxc1ZEaHJCMFItYVl5cHdEZFZqT1dCTEFSMi15UzhjLTBJcnhIMkRSMmYwcGpNc2V6NnZCX253eUJMTkJTZm5yNE0ycThRMFN4VzRfSnZSMWs3aGJ2TF9ZVGtXUTl4aWJyMjdoYkV1RTU4cEN1OHNCSFdOSzEyamRYQk1ZVTRoMmhGeG5BdkkwdW9JYlR4Rmk5al9aaXFrR09kLWVBaTZoQlpBRFpOc0R4ZUpoQlJ2b0c5TTJUZGxJOGdLZVFqTTlfRl92c21QanhfeGFXZk1EMkFrV1JpVFRsUHNkdjJFWGtIbFllSEE?oc=5)
+
+2026-05-17 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ2FTOTFpcVBEcERsV0htLUxzbHB3a1RWbEQwMW00Yk5iaW1ERmx1ekJvaVJsanhCYml6ZTJKczBmaks3UUxmM01hamRublRCVm85ZV9KMFNzLXdtNUZYNUpNZzY5Nmg1T3pQVThTTmkxc1ZEaHJCMFItYVl5cHdEZFZqT1dCTEFSMi15UzhjLTBJcnhIMkRSMmYwcGpNc2V6NnZCX253eUJMTkJTZm5yNE0ycThRMFN4VzRfSnZSMWs3aGJ2TF9ZVGtXUTl4aWJyMjdoYkV1RTU4cEN1OHNCSFdOSzEyamRYQk1ZVTRoMmhGeG5BdkkwdW9JYlR4Rmk5al9aaXFrR09kLWVBaTZoQlpBRFpOc0R4ZUpoQlJ2b0c5TTJUZGxJOGdLZVFqTTlfRl92c21QanhfeGFXZk1EMkFrV1JpVFRsUHNkdjJFWGtIbFllSEE?oc=5)
+
+---
+
+### [Protesi su misura per coprire il cranio dopo l'asportazione del tumore: chirurgia no limits al CTO - La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEt2aVZkS3FaenFxQ1ZRMVliZndtb0s1UDg5Y1hMYlZvYmhLQ0ZRdDVZQW42WkdzblZMWXE0Z3d0LXdvQUFvMkMzYm1JWXJqV2k3Rk1hWUJybVRab3Z0azF5amsxY0VZUDJEU09MRERPWHRvd05LLWMyLWRlVWFHNGcxU3JXYWhIVFdFZ2JUSU1vWGNjcmREODZ0UFhqaTQtYllUYWdn0gGrAUFVX3lxTFBkbFgxZk9VUTQ3YWtZdU5DWGZCN05veHNDMnlMcXg0c1N4alRHdHZzTFBraVZmVE8xSDVuT0ZUb3pTS29yOHBMcUppbjlYRnZWVS11UzZiNzc4Slh4QzY2b2tQNVRrMHo1UjB4bFBxUlVTQmlXbWJMd0VScThncTN0TGxRdlAtcHNXamFmanJnclRXZ1hsZWhzbmZjemRBN3AwMEk1bDJld19kbw?oc=5)
+
+2026-05-17 <span class="news-indication-tag">tumor</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEt2aVZkS3FaenFxQ1ZRMVliZndtb0s1UDg5Y1hMYlZvYmhLQ0ZRdDVZQW42WkdzblZMWXE0Z3d0LXdvQUFvMkMzYm1JWXJqV2k3Rk1hWUJybVRab3Z0azF5amsxY0VZUDJEU09MRERPWHRvd05LLWMyLWRlVWFHNGcxU3JXYWhIVFdFZ2JUSU1vWGNjcmREODZ0UFhqaTQtYllUYWdn0gGrAUFVX3lxTFBkbFgxZk9VUTQ3YWtZdU5DWGZCN05veHNDMnlMcXg0c1N4alRHdHZzTFBraVZmVE8xSDVuT0ZUb3pTS29yOHBMcUppbjlYRnZWVS11UzZiNzc4Slh4QzY2b2tQNVRrMHo1UjB4bFBxUlVTQmlXbWJMd0VScThncTN0TGxRdlAtcHNXamFmanJnclRXZ1hsZWhzbmZjemRBN3AwMEk1bDJld19kbw?oc=5)
+
+---
 
 ### [Santé : des chercheurs viennent de découvrir pourquoi le cœur est si peu concerné par le cancer !](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVF0WTc0a2hVT00tMlBfaklQRlFwNVFuQU1INjNVWE51dzhoTGFCTVVpMWNseEVXMXlDbWc3aXpLcDZRZWVLNTgzZ0YwYy0tOEk1ZFFPdDdVM3FILXNiUjV4UkFfcUF4TGRYSXVIV1lUT25UeDl6MUtadEdiOFFDQ1BXb2lsbkhLeVdGMXZRVk5zaFZocUhaSmlKc1NDRlV4U1o2M1diTDVvMTRhNnlxbkZPUFVxeFdGd2c?oc=5)
 
@@ -91,6 +115,14 @@ permalink: /news/avanafil/
 2026-05-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3JYb3VxNXFUVm9GSG8xNFNZcHBkMXZWby1qZDJERGxCb1I1WG9jZ1FIOEQ4Vm1rdWp2Sm9yYWVscGdDY0ppeGpIdEpxdjkzaDMzeFNoamJqQ1dCdUd1VnFsQlh3Z1ZfUm9BbGpNRF9yTEg2T19xZS10U2FuZElrbldOdFVaUllSVVh4Qy1NY2x6MnJ6RlItemNaNUZTWm9BYTZqNkI1TmxzMXZtaUdydExsWlM5ank2bzdJUlNzbHR4VTg?oc=5)
+
+---
+
+### [Cancer Mystery Solved: Scientists Discover How Melanoma Becomes “Immortal”](https://news.google.com/rss/articles/CBMingFBVV95cUxPaHFQZWw4UFlMMVpNYlFhWFV4M2VaeGJOMWpuVTNTejI5Y0pCdXZ0UG5FVG5hVWFtR2VIaXFoWExIek9GUWIyTnNmWC11b2ZLeUVrZWNyLVFyeGZmbzREWGZyOGhUX19ZajRlV0Y4dE9ZbUZJaVExQUNoMy0ydFJMamRQdEZMM2NoMXNYV21qQlV4eFhEb0tlbTM2cWhodw?oc=5)
+
+2026-05-16 <span class="news-indication-tag">cancer</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxPaHFQZWw4UFlMMVpNYlFhWFV4M2VaeGJOMWpuVTNTejI5Y0pCdXZ0UG5FVG5hVWFtR2VIaXFoWExIek9GUWIyTnNmWC11b2ZLeUVrZWNyLVFyeGZmbzREWGZyOGhUX19ZajRlV0Y4dE9ZbUZJaVExQUNoMy0ydFJMamRQdEZMM2NoMXNYV21qQlV4eFhEb0tlbTM2cWhodw?oc=5)
 
 ---
 
@@ -171,14 +203,6 @@ permalink: /news/avanafil/
 2026-05-15 <span class="news-indication-tag">stroke</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZURhbXlJdE9rdDRuYktqbnJsd3hPTV9jbVFlcW9fbzRGUlJVZ1hzV1dmUFFaaUZCMnZhRjNFcnJ2cjBWTkxkcFlkd1FYbEM3SlZhemJtSDZXc1RqMEFkTXBranFIakFyMll5cDNMeGRSTWpKc2M0bzBma2J4eXpqSFdOOFNuNFh2VF91dkxQR0p5TkUtQnBxNVR5UDJkUldWTXBkbHhJNnBMVjg?oc=5)
-
----
-
-### [Cancer colorectal chez les jeunes : un pesticide identifié comme facteur de risque - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZIdmZMQkM0eGdPOEYwUXZseHAtNU1EUnQxLU1wWlVNcjE0ODJpQjYtMTR6V2FWX0NtaDR3SWY4eEpPUW9yREpIZWtmTExPMC1FWmlrTVdfX1FuOGxFVGEybFlLdXRGN3Q0QkhTRkNWMUV0XzFBbVZ1ZDRGQUc4ckV2UTczcFMzNnhYY2I3Z0RPTEZZei1ma0RjdnlyTktidkxQR01WQXE?oc=5)
-
-2026-05-15 <span class="news-indication-tag">cancer</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZIdmZMQkM0eGdPOEYwUXZseHAtNU1EUnQxLU1wWlVNcjE0ODJpQjYtMTR6V2FWX0NtaDR3SWY4eEpPUW9yREpIZWtmTExPMC1FWmlrTVdfX1FuOGxFVGEybFlLdXRGN3Q0QkhTRkNWMUV0XzFBbVZ1ZDRGQUc4ckV2UTczcFMzNnhYY2I3Z0RPTEZZei1ma0RjdnlyTktidkxQR01WQXE?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "obesity 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesity 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obesity 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesity 有什麼相關新聞？">
-<strong>obesity</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesity</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
 
 2026-05-16
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
-
----
-
-### [Scientists Solve a 60-Year-Old Fat Cell Mystery — and It Changes What We Know About Obesity](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk54QnR0dTVNalJTTTJFNEpaZHEyaHNXRmVMUzJ3dDNkMzVoaWRwVjlsdnFmTldUSndIUTBLM2Q3MEo4OEo4NkRkVWNZWEpWaU1PWkh0TTZBenFPZzdBNHdmVGhEZmpvRzgzNTBnLU1kY3NpVFg3TkJsbm1FeGRsVWJWZ0QtelBPYi0taGo5U2d6cEhMVzhnZlI0VG9PWnJlRUtwcmtvTWRwY0YxQXIyYlR3VnZnUQ?oc=5)
-
-2026-05-15
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk54QnR0dTVNalJTTTJFNEpaZHEyaHNXRmVMUzJ3dDNkMzVoaWRwVjlsdnFmTldUSndIUTBLM2Q3MEo4OEo4NkRkVWNZWEpWaU1PWkh0TTZBenFPZzdBNHdmVGhEZmpvRzgzNTBnLU1kY3NpVFg3TkJsbm1FeGRsVWJWZ0QtelBPYi0taGo5U2d6cEhMVzhnZlI0VG9PWnJlRUtwcmtvTWRwY0YxQXIyYlR3VnZnUQ?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# AVC（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,23 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Three months after my stroke at 31 my husband did unthinkable to me & our baby - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
+
+2026-05-17
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
+
+---
+
+### ["Ho scritto a ChatGPT i miei sintomi, mi ha salvato la vita. Se avessi aspettato, avrei potuto morire dissanguata": la storia di Diana Hurtado, 30enne colpita da ictus mentre era alla guida - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ2FTOTFpcVBEcERsV0htLUxzbHB3a1RWbEQwMW00Yk5iaW1ERmx1ekJvaVJsanhCYml6ZTJKczBmaks3UUxmM01hamRublRCVm85ZV9KMFNzLXdtNUZYNUpNZzY5Nmg1T3pQVThTTmkxc1ZEaHJCMFItYVl5cHdEZFZqT1dCTEFSMi15UzhjLTBJcnhIMkRSMmYwcGpNc2V6NnZCX253eUJMTkJTZm5yNE0ycThRMFN4VzRfSnZSMWs3aGJ2TF9ZVGtXUTl4aWJyMjdoYkV1RTU4cEN1OHNCSFdOSzEyamRYQk1ZVTRoMmhGeG5BdkkwdW9JYlR4Rmk5al9aaXFrR09kLWVBaTZoQlpBRFpOc0R4ZUpoQlJ2b0c5TTJUZGxJOGdLZVFqTTlfRl92c21QanhfeGFXZk1EMkFrV1JpVFRsUHNkdjJFWGtIbFllSEE?oc=5)
+
+2026-05-17
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ2FTOTFpcVBEcERsV0htLUxzbHB3a1RWbEQwMW00Yk5iaW1ERmx1ekJvaVJsanhCYml6ZTJKczBmaks3UUxmM01hamRublRCVm85ZV9KMFNzLXdtNUZYNUpNZzY5Nmg1T3pQVThTTmkxc1ZEaHJCMFItYVl5cHdEZFZqT1dCTEFSMi15UzhjLTBJcnhIMkRSMmYwcGpNc2V6NnZCX253eUJMTkJTZm5yNE0ycThRMFN4VzRfSnZSMWs3aGJ2TF9ZVGtXUTl4aWJyMjdoYkV1RTU4cEN1OHNCSFdOSzEyamRYQk1ZVTRoMmhGeG5BdkkwdW9JYlR4Rmk5al9aaXFrR09kLWVBaTZoQlpBRFpOc0R4ZUpoQlJ2b0c5TTJUZGxJOGdLZVFqTTlfRl92c21QanhfeGFXZk1EMkFrV1JpVFRsUHNkdjJFWGtIbFllSEE?oc=5)
+
+---
 
 ### [Ma vie après un AVC : « Ferme ta bouche la résilience ! » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5)
 

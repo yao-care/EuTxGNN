@@ -54,19 +54,19 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（2 則）
 
-### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+### [Emicrania, oltre ai farmaci servono ascolto e attenzione - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFWUFQ5ak9LM3lHdE1jd2EwNkhrTEowT1NUNDNKcmVlRGY0bERVZnpFQzhPNTJDeVV6dl9vLXhvaFJDVWlCd2xQOU0tTVBPT0V6VE9mZnBSQnhpa2cyYVBuMHo4NzdFYUpMSnh6TGIzV0d5R3llU1ZZVFppeER2SVAxOURVVGJUZGxjUDZ4ZXFKT0toXy1wV0ZHWFVPZXl0SlNvSUQ2b1BzRm16bktCVXVLODNYa2JsRFI2U1pUTGU?oc=5)
 
-2026-05-16 <span class="news-indication-tag">obesity</span>
+2026-05-17 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFWUFQ5ak9LM3lHdE1jd2EwNkhrTEowT1NUNDNKcmVlRGY0bERVZnpFQzhPNTJDeVV6dl9vLXhvaFJDVWlCd2xQOU0tTVBPT0V6VE9mZnBSQnhpa2cyYVBuMHo4NzdFYUpMSnh6TGIzV0d5R3llU1ZZVFppeER2SVAxOURVVGJUZGxjUDZ4ZXFKT0toXy1wV0ZHWFVPZXl0SlNvSUQ2b1BzRm16bktCVXVLODNYa2JsRFI2U1pUTGU?oc=5)
 
 ---
 
-### [Scientists Solve a 60-Year-Old Fat Cell Mystery — and It Changes What We Know About Obesity](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk54QnR0dTVNalJTTTJFNEpaZHEyaHNXRmVMUzJ3dDNkMzVoaWRwVjlsdnFmTldUSndIUTBLM2Q3MEo4OEo4NkRkVWNZWEpWaU1PWkh0TTZBenFPZzdBNHdmVGhEZmpvRzgzNTBnLU1kY3NpVFg3TkJsbm1FeGRsVWJWZ0QtelBPYi0taGo5U2d6cEhMVzhnZlI0VG9PWnJlRUtwcmtvTWRwY0YxQXIyYlR3VnZnUQ?oc=5)
+### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
 
-2026-05-15 <span class="news-indication-tag">obesity</span>
+2026-05-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk54QnR0dTVNalJTTTJFNEpaZHEyaHNXRmVMUzJ3dDNkMzVoaWRwVjlsdnFmTldUSndIUTBLM2Q3MEo4OEo4NkRkVWNZWEpWaU1PWkh0TTZBenFPZzdBNHdmVGhEZmpvRzgzNTBnLU1kY3NpVFg3TkJsbm1FeGRsVWJWZ0QtelBPYi0taGo5U2d6cEhMVzhnZlI0VG9PWnJlRUtwcmtvTWRwY0YxQXIyYlR3VnZnUQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
 
 ---
 

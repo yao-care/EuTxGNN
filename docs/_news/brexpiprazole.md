@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Des essais historiques en France menés au CHU de Nîmes : contre l'alcoolisme, l'étonnant pouvoir de la psilocybine - La Provence](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMG5XQi0tMV90bmxJOThfU0xKLVUxU2JNQm5nWEhPa2JpNG80QlVydTRzb01FbkpTbUhYSjJVWlhvR0I0c0dpemZfWXBLUlJZRllxcnUyN011LUpYVXZyeTcyZ09HZW9fN0tRQ2NoeEhFU0ZyTWVhOU5PVmVTMEtVZW83R2Z0MnJmOGJSdUZDRWxkRmRKYWpfMzI5SnNkUkx3RjAwcG5CbUo5TmJGcm1rcG1GYTBwcjlzM0xCanNpTF90Y2puMGUwRnRuRXhnYUxqQ1doR0RsZkU5dkNnZHFGNC1vTlk5Q0pjR0d5MC16NXQ4eDg0NkhDaVdaUQ?oc=5)
+
+2026-05-17 <span class="news-indication-tag">dépression</span>
+
+來源：[La Provence](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMG5XQi0tMV90bmxJOThfU0xKLVUxU2JNQm5nWEhPa2JpNG80QlVydTRzb01FbkpTbUhYSjJVWlhvR0I0c0dpemZfWXBLUlJZRllxcnUyN011LUpYVXZyeTcyZ09HZW9fN0tRQ2NoeEhFU0ZyTWVhOU5PVmVTMEtVZW83R2Z0MnJmOGJSdUZDRWxkRmRKYWpfMzI5SnNkUkx3RjAwcG5CbUo5TmJGcm1rcG1GYTBwcjlzM0xCanNpTF90Y2puMGUwRnRuRXhnYUxqQ1doR0RsZkU5dkNnZHFGNC1vTlk5Q0pjR0d5MC16NXQ4eDg0NkhDaVdaUQ?oc=5)
+
+---
 
 ### [Nicht-invasive Kontaktlinsen per Elektrostimulation gegen Depressionen in Sicht - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
 

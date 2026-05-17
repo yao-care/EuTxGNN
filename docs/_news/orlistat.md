@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Three months after my stroke at 31 my husband did unthinkable to me & our baby - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
+
+2026-05-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
+
+---
+
+### ["Ho scritto a ChatGPT i miei sintomi, mi ha salvato la vita. Se avessi aspettato, avrei potuto morire dissanguata": la storia di Diana Hurtado, 30enne colpita da ictus mentre era alla guida - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ2FTOTFpcVBEcERsV0htLUxzbHB3a1RWbEQwMW00Yk5iaW1ERmx1ekJvaVJsanhCYml6ZTJKczBmaks3UUxmM01hamRublRCVm85ZV9KMFNzLXdtNUZYNUpNZzY5Nmg1T3pQVThTTmkxc1ZEaHJCMFItYVl5cHdEZFZqT1dCTEFSMi15UzhjLTBJcnhIMkRSMmYwcGpNc2V6NnZCX253eUJMTkJTZm5yNE0ycThRMFN4VzRfSnZSMWs3aGJ2TF9ZVGtXUTl4aWJyMjdoYkV1RTU4cEN1OHNCSFdOSzEyamRYQk1ZVTRoMmhGeG5BdkkwdW9JYlR4Rmk5al9aaXFrR09kLWVBaTZoQlpBRFpOc0R4ZUpoQlJ2b0c5TTJUZGxJOGdLZVFqTTlfRl92c21QanhfeGFXZk1EMkFrV1JpVFRsUHNkdjJFWGtIbFllSEE?oc=5)
+
+2026-05-17 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ2FTOTFpcVBEcERsV0htLUxzbHB3a1RWbEQwMW00Yk5iaW1ERmx1ekJvaVJsanhCYml6ZTJKczBmaks3UUxmM01hamRublRCVm85ZV9KMFNzLXdtNUZYNUpNZzY5Nmg1T3pQVThTTmkxc1ZEaHJCMFItYVl5cHdEZFZqT1dCTEFSMi15UzhjLTBJcnhIMkRSMmYwcGpNc2V6NnZCX253eUJMTkJTZm5yNE0ycThRMFN4VzRfSnZSMWs3aGJ2TF9ZVGtXUTl4aWJyMjdoYkV1RTU4cEN1OHNCSFdOSzEyamRYQk1ZVTRoMmhGeG5BdkkwdW9JYlR4Rmk5al9aaXFrR09kLWVBaTZoQlpBRFpOc0R4ZUpoQlJ2b0c5TTJUZGxJOGdLZVFqTTlfRl92c21QanhfeGFXZk1EMkFrV1JpVFRsUHNkdjJFWGtIbFllSEE?oc=5)
+
+---
 
 ### [Ma vie après un AVC : « Ferme ta bouche la résilience ! » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5)
 
@@ -64,7 +80,7 @@ permalink: /news/orlistat/
 
 ### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
 
-2026-05-16 <span class="news-indication-tag">obesity</span>
+2026-05-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
 
@@ -75,14 +91,6 @@ permalink: /news/orlistat/
 2026-05-15 <span class="news-indication-tag">stroke</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZURhbXlJdE9rdDRuYktqbnJsd3hPTV9jbVFlcW9fbzRGUlJVZ1hzV1dmUFFaaUZCMnZhRjNFcnJ2cjBWTkxkcFlkd1FYbEM3SlZhemJtSDZXc1RqMEFkTXBranFIakFyMll5cDNMeGRSTWpKc2M0bzBma2J4eXpqSFdOOFNuNFh2VF91dkxQR0p5TkUtQnBxNVR5UDJkUldWTXBkbHhJNnBMVjg?oc=5)
-
----
-
-### [Scientists Solve a 60-Year-Old Fat Cell Mystery — and It Changes What We Know About Obesity](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk54QnR0dTVNalJTTTJFNEpaZHEyaHNXRmVMUzJ3dDNkMzVoaWRwVjlsdnFmTldUSndIUTBLM2Q3MEo4OEo4NkRkVWNZWEpWaU1PWkh0TTZBenFPZzdBNHdmVGhEZmpvRzgzNTBnLU1kY3NpVFg3TkJsbm1FeGRsVWJWZ0QtelBPYi0taGo5U2d6cEhMVzhnZlI0VG9PWnJlRUtwcmtvTWRwY0YxQXIyYlR3VnZnUQ?oc=5)
-
-2026-05-15 <span class="news-indication-tag">obesity</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk54QnR0dTVNalJTTTJFNEpaZHEyaHNXRmVMUzJ3dDNkMzVoaWRwVjlsdnFmTldUSndIUTBLM2Q3MEo4OEo4NkRkVWNZWEpWaU1PWkh0TTZBenFPZzdBNHdmVGhEZmpvRzgzNTBnLU1kY3NpVFg3TkJsbm1FeGRsVWJWZ0QtelBPYi0taGo5U2d6cEhMVzhnZlI0VG9PWnJlRUtwcmtvTWRwY0YxQXIyYlR3VnZnUQ?oc=5)
 
 ---
 

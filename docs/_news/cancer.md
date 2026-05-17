@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumour（cancer） 相關新聞"
+title: "tumor（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumour（cancer） 的相關健康新聞報導。14 則新聞、229 個相關藥物。"
+description: "tumor（cancer） 的相關健康新聞報導。15 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
-# tumour（cancer） 相關新聞
+# tumor（cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="tumour（cancer） 有什麼相關新聞？">
-<strong>tumour（cancer）</strong> 目前有 <strong>14 則</strong>相關新聞報導，229 個相關藥物。
+<p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
+<strong>tumor（cancer）</strong> 目前有 <strong>15 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「tumour」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「tumor」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -257,7 +257,15 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
+
+### [Protesi su misura per coprire il cranio dopo l'asportazione del tumore: chirurgia no limits al CTO - La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEt2aVZkS3FaenFxQ1ZRMVliZndtb0s1UDg5Y1hMYlZvYmhLQ0ZRdDVZQW42WkdzblZMWXE0Z3d0LXdvQUFvMkMzYm1JWXJqV2k3Rk1hWUJybVRab3Z0azF5amsxY0VZUDJEU09MRERPWHRvd05LLWMyLWRlVWFHNGcxU3JXYWhIVFdFZ2JUSU1vWGNjcmREODZ0UFhqaTQtYllUYWdn0gGrAUFVX3lxTFBkbFgxZk9VUTQ3YWtZdU5DWGZCN05veHNDMnlMcXg0c1N4alRHdHZzTFBraVZmVE8xSDVuT0ZUb3pTS29yOHBMcUppbjlYRnZWVS11UzZiNzc4Slh4QzY2b2tQNVRrMHo1UjB4bFBxUlVTQmlXbWJMd0VScThncTN0TGxRdlAtcHNXamFmanJnclRXZ1hsZWhzbmZjemRBN3AwMEk1bDJld19kbw?oc=5)
+
+2026-05-17
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEt2aVZkS3FaenFxQ1ZRMVliZndtb0s1UDg5Y1hMYlZvYmhLQ0ZRdDVZQW42WkdzblZMWXE0Z3d0LXdvQUFvMkMzYm1JWXJqV2k3Rk1hWUJybVRab3Z0azF5amsxY0VZUDJEU09MRERPWHRvd05LLWMyLWRlVWFHNGcxU3JXYWhIVFdFZ2JUSU1vWGNjcmREODZ0UFhqaTQtYllUYWdn0gGrAUFVX3lxTFBkbFgxZk9VUTQ3YWtZdU5DWGZCN05veHNDMnlMcXg0c1N4alRHdHZzTFBraVZmVE8xSDVuT0ZUb3pTS29yOHBMcUppbjlYRnZWVS11UzZiNzc4Slh4QzY2b2tQNVRrMHo1UjB4bFBxUlVTQmlXbWJMd0VScThncTN0TGxRdlAtcHNXamFmanJnclRXZ1hsZWhzbmZjemRBN3AwMEk1bDJld19kbw?oc=5)
+
+---
 
 ### [Santé : des chercheurs viennent de découvrir pourquoi le cœur est si peu concerné par le cancer !](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVF0WTc0a2hVT00tMlBfaklQRlFwNVFuQU1INjNVWE51dzhoTGFCTVVpMWNseEVXMXlDbWc3aXpLcDZRZWVLNTgzZ0YwYy0tOEk1ZFFPdDdVM3FILXNiUjV4UkFfcUF4TGRYSXVIV1lUT25UeDl6MUtadEdiOFFDQ1BXb2lsbkhLeVdGMXZRVk5zaFZocUhaSmlKc1NDRlV4U1o2M1diTDVvMTRhNnlxbkZPUFVxeFdGd2c?oc=5)
 
@@ -296,6 +304,14 @@ permalink: /news/cancer/
 2026-05-16
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3JYb3VxNXFUVm9GSG8xNFNZcHBkMXZWby1qZDJERGxCb1I1WG9jZ1FIOEQ4Vm1rdWp2Sm9yYWVscGdDY0ppeGpIdEpxdjkzaDMzeFNoamJqQ1dCdUd1VnFsQlh3Z1ZfUm9BbGpNRF9yTEg2T19xZS10U2FuZElrbldOdFVaUllSVVh4Qy1NY2x6MnJ6RlItemNaNUZTWm9BYTZqNkI1TmxzMXZtaUdydExsWlM5ank2bzdJUlNzbHR4VTg?oc=5)
+
+---
+
+### [Cancer Mystery Solved: Scientists Discover How Melanoma Becomes “Immortal”](https://news.google.com/rss/articles/CBMingFBVV95cUxPaHFQZWw4UFlMMVpNYlFhWFV4M2VaeGJOMWpuVTNTejI5Y0pCdXZ0UG5FVG5hVWFtR2VIaXFoWExIek9GUWIyTnNmWC11b2ZLeUVrZWNyLVFyeGZmbzREWGZyOGhUX19ZajRlV0Y4dE9ZbUZJaVExQUNoMy0ydFJMamRQdEZMM2NoMXNYV21qQlV4eFhEb0tlbTM2cWhodw?oc=5)
+
+2026-05-16
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxPaHFQZWw4UFlMMVpNYlFhWFV4M2VaeGJOMWpuVTNTejI5Y0pCdXZ0UG5FVG5hVWFtR2VIaXFoWExIek9GUWIyTnNmWC11b2ZLeUVrZWNyLVFyeGZmbzREWGZyOGhUX19ZajRlV0Y4dE9ZbUZJaVExQUNoMy0ydFJMamRQdEZMM2NoMXNYV21qQlV4eFhEb0tlbTM2cWhodw?oc=5)
 
 ---
 
@@ -360,14 +376,6 @@ permalink: /news/cancer/
 2026-05-15
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlFCcFJFZnZPaWNmX19pV2h4dUpsNU5DNnZ1WlNOTW5XTGRSU3hVS0FaWmhxYklEREN1NmVtRkdZZ2piOWZEeWtZLU1MQlJpV1dpcFRGa1dXcGVHX0JmeE1JMGIxdWV0dlpqNlV0R3lOSnAwNTRUd2NFbU1PRGlYbHBTd0xoMjF6Q2pSWHNTZk5SYjltRGtLRnQ2T2JESGxNaXV6eGVwcWZaMEpl?oc=5)
-
----
-
-### [Cancer colorectal chez les jeunes : un pesticide identifié comme facteur de risque - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZIdmZMQkM0eGdPOEYwUXZseHAtNU1EUnQxLU1wWlVNcjE0ODJpQjYtMTR6V2FWX0NtaDR3SWY4eEpPUW9yREpIZWtmTExPMC1FWmlrTVdfX1FuOGxFVGEybFlLdXRGN3Q0QkhTRkNWMUV0XzFBbVZ1ZDRGQUc4ckV2UTczcFMzNnhYY2I3Z0RPTEZZei1ma0RjdnlyTktidkxQR01WQXE?oc=5)
-
-2026-05-15
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZIdmZMQkM0eGdPOEYwUXZseHAtNU1EUnQxLU1wWlVNcjE0ODJpQjYtMTR6V2FWX0NtaDR3SWY4eEpPUW9yREpIZWtmTExPMC1FWmlrTVdfX1FuOGxFVGEybFlLdXRGN3Q0QkhTRkNWMUV0XzFBbVZ1ZDRGQUc4ckV2UTczcFMzNnhYY2I3Z0RPTEZZei1ma0RjdnlyTktidkxQR01WQXE?oc=5)
 
 ---
 

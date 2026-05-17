@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Overall Brain Health Protects Memory From Early Alzheimer’s - Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
+
+2026-05-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
+
+---
 
 ### [How cycling reduces dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPS09GaGt5Yy1QTGtOTUNuWDM2VVZ1YnNYbUZJajNvVFFlR2tWaTRqZG96NGtjZHczbWt0THBGRjVEajhoSlRxYWNyb1pxUkVibXlEUWg4Z2YyV0JZbmF0NXhnc0MxZnpDc0hhV3lJSnFHUWpOOUVVZG13OHlpc1VGMDVxdVNrcWpOMk9TWkZ4NURLdkc3ZnJVU1g2ZzhlZw?oc=5)
 

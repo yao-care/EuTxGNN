@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="Fentanyl 有什麼相關新聞？">
-<strong>Fentanyl</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fentanyl</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/fentanyl/
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（18 則）
+
+### [Three months after my stroke at 31 my husband did unthinkable to me & our baby - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
+
+2026-05-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
+
+---
+
+### [Hantavirus can survive in semen 6 years after infection: Study - Ground News](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnNHSVdCZ1FCRzlSUzNwcmNLRW83bUZRMVNVRDhjRnFlaFF2cmYyUFNPUnNMYjk0SkJJeFhUUERKR2ZuSUk5MENvRFh1T1BhRkZnSDk2QXc0c3BZQlpsN1h5VlBaR0J3RVBLWV93X3hNUlJzUmcwTTcxZEVtRndZYzVEb1pneHVya09XeTFpMXdiaFByazlQMDNpWC16bXJibFhaQzdiRmwwR0lqME5rSzZCdmJsd3N0dW10VlRvblNvci1LYVR4cDc1Yw?oc=5)
+
+2026-05-17 <span class="news-indication-tag">AF</span>
+
+來源：[Ground News](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnNHSVdCZ1FCRzlSUzNwcmNLRW83bUZRMVNVRDhjRnFlaFF2cmYyUFNPUnNMYjk0SkJJeFhUUERKR2ZuSUk5MENvRFh1T1BhRkZnSDk2QXc0c3BZQlpsN1h5VlBaR0J3RVBLWV93X3hNUlJzUmcwTTcxZEVtRndZYzVEb1pneHVya09XeTFpMXdiaFByazlQMDNpWC16bXJibFhaQzdiRmwwR0lqME5rSzZCdmJsd3N0dW10VlRvblNvci1LYVR4cDc1Yw?oc=5)
+
+---
+
+### [‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckJKakd4U2hrSkpvVDJibF9yMTh4ZHFWWGNuX2VKZFpUdkdfZjJCUEdLMU5ieDduVnd1UDQwZWRMbVp4TlJYVmFKa3VCVUkwaGN3b3B6eC1PdlBRQ0RmNDllekM1eGRzd0F4emhTbG51Vi1HZlFPeVFvQUQ0RzN6d3E3bGhWM1FC?oc=5)
+
+2026-05-17 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckJKakd4U2hrSkpvVDJibF9yMTh4ZHFWWGNuX2VKZFpUdkdfZjJCUEdLMU5ieDduVnd1UDQwZWRMbVp4TlJYVmFKa3VCVUkwaGN3b3B6eC1PdlBRQ0RmNDllekM1eGRzd0F4emhTbG51Vi1HZlFPeVFvQUQ0RzN6d3E3bGhWM1FC?oc=5)
+
+---
+
+### [Emicrania, oltre ai farmaci servono ascolto e attenzione - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFWUFQ5ak9LM3lHdE1jd2EwNkhrTEowT1NUNDNKcmVlRGY0bERVZnpFQzhPNTJDeVV6dl9vLXhvaFJDVWlCd2xQOU0tTVBPT0V6VE9mZnBSQnhpa2cyYVBuMHo4NzdFYUpMSnh6TGIzV0d5R3llU1ZZVFppeER2SVAxOURVVGJUZGxjUDZ4ZXFKT0toXy1wV0ZHWFVPZXl0SlNvSUQ2b1BzRm16bktCVXVLODNYa2JsRFI2U1pUTGU?oc=5)
+
+2026-05-17 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFWUFQ5ak9LM3lHdE1jd2EwNkhrTEowT1NUNDNKcmVlRGY0bERVZnpFQzhPNTJDeVV6dl9vLXhvaFJDVWlCd2xQOU0tTVBPT0V6VE9mZnBSQnhpa2cyYVBuMHo4NzdFYUpMSnh6TGIzV0d5R3llU1ZZVFppeER2SVAxOURVVGJUZGxjUDZ4ZXFKT0toXy1wV0ZHWFVPZXl0SlNvSUQ2b1BzRm16bktCVXVLODNYa2JsRFI2U1pUTGU?oc=5)
+
+---
+
+### [Oms: “L’Ebola in Uganda e Repubblica democratica del Congo è un’emergenza sanitaria internazionale” - la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWVRSTJXblRnUUJUb2NUc1RoMjh5bnZBRUFXMEN5cXV1cHkyTTN0cWpjV1phaEJrLUg2Ync2aUF2V21sWktVSVdnTGZWbDVkNllWRzVRdFFoZzBvbElRVmZIbzJVNEF4VVpnVGhqU3BkTmZpMzcwUFktMFo3cWpPSm1meTVsSklMZXFmMWtXTGlQNWJUcWk5WUhkaEhjUnpNQ19oTUxrV1hhSURURVQyemlQN0NYWkpJQ1HSAb8BQVVfeXFMUFVNQjhvblIwamxBZjZTa0pUd2w0Y1FmRGowbUl5VVk0S3gxU1Q0aXBBTEFqWGJYVkx2T21SUWIwQ01ickJmMzZBT0JWUVp5N2NrLV9pbnVRdU95TWVGZmlxNlZGOEtXMnNCTTFJelRMSF9BV29BNzVjeGU5NVFrV2pjNWpYb1JHY0I0bnlTSmxJUnVqOHI0ejlsQ1hCMjFKYjczS0NLZFR2b0RVMi16TXMxU1lXa29HTkR1Yk53ZnM?oc=5)
+
+2026-05-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWVRSTJXblRnUUJUb2NUc1RoMjh5bnZBRUFXMEN5cXV1cHkyTTN0cWpjV1phaEJrLUg2Ync2aUF2V21sWktVSVdnTGZWbDVkNllWRzVRdFFoZzBvbElRVmZIbzJVNEF4VVpnVGhqU3BkTmZpMzcwUFktMFo3cWpPSm1meTVsSklMZXFmMWtXTGlQNWJUcWk5WUhkaEhjUnpNQ19oTUxrV1hhSURURVQyemlQN0NYWkpJQ1HSAb8BQVVfeXFMUFVNQjhvblIwamxBZjZTa0pUd2w0Y1FmRGowbUl5VVk0S3gxU1Q0aXBBTEFqWGJYVkx2T21SUWIwQ01ickJmMzZBT0JWUVp5N2NrLV9pbnVRdU95TWVGZmlxNlZGOEtXMnNCTTFJelRMSF9BV29BNzVjeGU5NVFrV2pjNWpYb1JHY0I0bnlTSmxJUnVqOHI0ejlsQ1hCMjFKYjczS0NLZFR2b0RVMi16TXMxU1lXa29HTkR1Yk53ZnM?oc=5)
+
+---
+
+### [Más allá de la cafeína: Descubren cómo el café ayuda a frenar el envejecimiento y proteger de enfermedades crónicas](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYnhlX0pWcjZWazZuT1p6d21mMFI3azVBOFJKVlpHUmZnckZRc3loSVpwWHBEMGxoaVotZFp2a1BycElwSTNtVE1kQXpySm9sSHZUeDBrWVZJX21QTEZ4WnJFUUt0U2FzYjJaMVdqS3VVZC1mYUtGQkpYVEJnTzBUeEhEcHdQTWxIcUZ0YnYxdzNsckpnMVFlcUZFeXUzVHFSUEFHWTBGYl9xZnRSMnVHYVY0ODQwMVdoWDdHZXo5cmxaeDVDYzI0YzZIM3VqS25RZDROS3hYM2NGclpCOWtZU3pOaEg3cVhuVlE?oc=5)
+
+2026-05-17 <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYnhlX0pWcjZWazZuT1p6d21mMFI3azVBOFJKVlpHUmZnckZRc3loSVpwWHBEMGxoaVotZFp2a1BycElwSTNtVE1kQXpySm9sSHZUeDBrWVZJX21QTEZ4WnJFUUt0U2FzYjJaMVdqS3VVZC1mYUtGQkpYVEJnTzBUeEhEcHdQTWxIcUZ0YnYxdzNsckpnMVFlcUZFeXUzVHFSUEFHWTBGYl9xZnRSMnVHYVY0ODQwMVdoWDdHZXo5cmxaeDVDYzI0YzZIM3VqS25RZDROS3hYM2NGclpCOWtZU3pOaEg3cVhuVlE?oc=5)
+
+---
 
 ### [Kaffee bei Vorhofflimmern? - Deutsche Zeitschrift für Sportmedizin](https://news.google.com/rss/articles/CBMidEFVX3lxTE9FY3g0SDJuOE5iN05oekRUVC1qT3lnbm1Ea3c0Y0RhRi1rSklMNF9zQkxiSnlhTUp6RmxCNGVrdkgzYVBsSlVoTk8ycGtvaTl6RTdXOVUtQ0MzR0dkSFU0b29RS0k1NWY2ZDBDdVBjTnQxOGJm?oc=5)
 
@@ -70,19 +118,19 @@ permalink: /news/fentanyl/
 
 ---
 
-### [Diez mil virus de animales a personas: el cambio climático y la globalización amenazan a la humanidad - EL PAÍS](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVkJUMng2amh4YmR6VFVWVGhGNThZcEstLS0yZEdGc0Q2WjFNS3BTbXE3VG51ZEsxYm43ZUg0Z0QwM0k1ZTBnbXh5T2tXV3R0UHpveExFdHJkalh2VHdqOXRuU3JHMEpBTm1DeV9wWTBQOGcyUllRY0J0UEdyb3hQdGpqYkZWbHU3aGphdV8wZnduQUJwUXdNdjdmRWF0cTgtRkNpWU1ucHdfNDZEWEIyWDRWNkc0OVR1bFZ3cmZSbU8wUVFWQmNjRG5COHJfSVpVN2hHdDJmZGd6bGw1bW02VHBOWXZyUS1I0gH8AUFVX3lxTE44dDFWTmVIa3h1dTJTYnBKcmpiTjNHOGpiY1FkOTFIcmh3dkNXeGJjelZRSUZnM2FYT2tQLUUtZTdpUFFQTjUzOThHSmlVaTZCOUc1S0xMdVpZZUsteHppc2loWjRXclJlUjJGb0g4WDlyNGZUeEtBaWxXNFhPVlZXVGdCTFVNY2MwRDlUWEEtOVI3dFp6RG55cE00d25Oc0V6R08tcnlPQ0g2OUYyZXc4WmpTYlVqUmRWSHBqU0dVUXROMl9vdEdtU3FqSXNFcEN6bl9wc0hFdzZvUW1jb2x0QkZ2aHl0ZnJVaTJabUtNTzVtM2xDSWxNVHRKcw?oc=5)
-
-2026-05-17 <span class="news-indication-tag">AF</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVkJUMng2amh4YmR6VFVWVGhGNThZcEstLS0yZEdGc0Q2WjFNS3BTbXE3VG51ZEsxYm43ZUg0Z0QwM0k1ZTBnbXh5T2tXV3R0UHpveExFdHJkalh2VHdqOXRuU3JHMEpBTm1DeV9wWTBQOGcyUllRY0J0UEdyb3hQdGpqYkZWbHU3aGphdV8wZnduQUJwUXdNdjdmRWF0cTgtRkNpWU1ucHdfNDZEWEIyWDRWNkc0OVR1bFZ3cmZSbU8wUVFWQmNjRG5COHJfSVpVN2hHdDJmZGd6bGw1bW02VHBOWXZyUS1I0gH8AUFVX3lxTE44dDFWTmVIa3h1dTJTYnBKcmpiTjNHOGpiY1FkOTFIcmh3dkNXeGJjelZRSUZnM2FYT2tQLUUtZTdpUFFQTjUzOThHSmlVaTZCOUc1S0xMdVpZZUsteHppc2loWjRXclJlUjJGb0g4WDlyNGZUeEtBaWxXNFhPVlZXVGdCTFVNY2MwRDlUWEEtOVI3dFp6RG55cE00d25Oc0V6R08tcnlPQ0g2OUYyZXc4WmpTYlVqUmRWSHBqU0dVUXROMl9vdEdtU3FqSXNFcEN6bl9wc0hFdzZvUW1jb2x0QkZ2aHl0ZnJVaTJabUtNTzVtM2xDSWxNVHRKcw?oc=5)
-
----
-
 ### [Canada confirms first hantavirus case in isolation in British Columbia - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
 
 2026-05-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
+
+---
+
+### [Overall Brain Health Protects Memory From Early Alzheimer’s - Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
+
+2026-05-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
 
 ---
 
@@ -102,11 +150,27 @@ permalink: /news/fentanyl/
 
 ---
 
+### [“C’est des mensonges”… au marché d’Agen, l’hantavirus glisse sans vraiment s’imposer](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWlobHo5VnFLU1dyZTdJel93b2NjQ2FGZ2llbGd6eWRmeU9QMmNZY3ZERUNBWHBXZmZsUHhYUzZmbkdScmpFbzBiLXM1dHZFcWpYTDJ1eFpLS0gzT0R5NmVzQ0lPMU1lY2JoelFINkd2WVQwaGhYWmxYUjU2Q3BBMGlyaWthc2Z4d3hlWjlHb1lyd2F5MEdabHhIQjhBMlk1NWhpWmtGMFd6T0F3WkxMUHRwSi1ONmRUX3lVVDRTVjk1aHc?oc=5)
+
+2026-05-16 <span class="news-indication-tag">AF</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWlobHo5VnFLU1dyZTdJel93b2NjQ2FGZ2llbGd6eWRmeU9QMmNZY3ZERUNBWHBXZmZsUHhYUzZmbkdScmpFbzBiLXM1dHZFcWpYTDJ1eFpLS0gzT0R5NmVzQ0lPMU1lY2JoelFINkd2WVQwaGhYWmxYUjU2Q3BBMGlyaWthc2Z4d3hlWjlHb1lyd2F5MEdabHhIQjhBMlk1NWhpWmtGMFd6T0F3WkxMUHRwSi1ONmRUX3lVVDRTVjk1aHc?oc=5)
+
+---
+
 ### [«Parkinson, un centro unico per affrontare tutti gli aspetti» - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFg0UU5QNFNiUVJ1bk1KaGZDSlBjejItRFk5Wk1WV1I3UVh6QUJFTlZxR28yRTBqZWdBYWVsUGxyWEpMM0NTcXNtcW8zN1NxbnJWZGMtbGtERnRnS0gxeV9vTHNYNWJodGg1Z3hkcWkxcTlnSmMzZjQ3RElUbEpyMlQwR3IySHZZQzZtd3g0TVgwc2pLOUloeVBoVnhYcVNYaWtlc2N4TFZuVUp4NUhtRHctLV9SWGZRMnRPdC1ocktqclRGNDRUOQ?oc=5)
 
 2026-05-16 <span class="news-indication-tag">AF</span>
 
 來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFg0UU5QNFNiUVJ1bk1KaGZDSlBjejItRFk5Wk1WV1I3UVh6QUJFTlZxR28yRTBqZWdBYWVsUGxyWEpMM0NTcXNtcW8zN1NxbnJWZGMtbGtERnRnS0gxeV9vTHNYNWJodGg1Z3hkcWkxcTlnSmMzZjQ3RElUbEpyMlQwR3IySHZZQzZtd3g0TVgwc2pLOUloeVBoVnhYcVNYaWtlc2N4TFZuVUp4NUhtRHctLV9SWGZRMnRPdC1ocktqclRGNDRUOQ?oc=5)
+
+---
+
+### [Trotz Hantavirus: Argentinien-Fans reisen zur WM](https://news.google.com/rss/articles/CBMiigFBVV95cUxORVktTmhIV3ZCQXRQd0FjVEVtTFVOLXRJdDYtWlgxV01palp3VkxNMFd4eUNZMUZWMUsyMFliS3VRNFF1c201VFV3TW1QMWRzLWpvVi1oUTBmNXdBbUx3Wk5fQi16UEU1YVBJNEtEWkxuQlVBWFVkRUQ2LUNVWDdzXzRJbG1pN004MEHSAY8BQVVfeXFMUDhGSHNDZGlUYVdkWTN6WVlpSHVQcW1NZnhvRFJHMEtvZFpNOS1VTVdjRGFoSFZHX0RZUHBQX05jUkl4VHhuMlI3WkZCaklQZVVpMG9HX1gyVGVLeXZOQzN1bFoteW1KRV9kbVRnSUcyVng5ODRkNmNON211RmRNblExaWphcjl2TDJaZnZTTnM?oc=5)
+
+2026-05-16 <span class="news-indication-tag">AF</span>
+
+來源：[OE24](https://news.google.com/rss/articles/CBMiigFBVV95cUxORVktTmhIV3ZCQXRQd0FjVEVtTFVOLXRJdDYtWlgxV01palp3VkxNMFd4eUNZMUZWMUsyMFliS3VRNFF1c201VFV3TW1QMWRzLWpvVi1oUTBmNXdBbUx3Wk5fQi16UEU1YVBJNEtEWkxuQlVBWFVkRUQ2LUNVWDdzXzRJbG1pN004MEHSAY8BQVVfeXFMUDhGSHNDZGlUYVdkWTN6WVlpSHVQcW1NZnhvRFJHMEtvZFpNOS1VTVdjRGFoSFZHX0RZUHBQX05jUkl4VHhuMlI3WkZCaklQZVVpMG9HX1gyVGVLeXZOQzN1bFoteW1KRV9kbVRnSUcyVng5ODRkNmNON211RmRNblExaWphcjl2TDJaZnZTTnM?oc=5)
 
 ---
 
@@ -131,30 +195,6 @@ permalink: /news/fentanyl/
 2026-05-16 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsV3BKWlV4WFNWaXJ1NlVNX29jS3oweGtES0RpcjVCcHZRU190VEVncERTblZ6a1U2Q2VUX0JhMUxJamlCQnVRNzJWTjZFekdTdXpoRWVNaV8zX1ZJ?oc=5)
-
----
-
-### [„Ich bin nicht behindert und habe dafür keine Zeit“: Linda (34) wurde komplett arbeitsunfähig geschrieben](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
-
-2026-05-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[MSN](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMG9rWkxVYWdGczM1MHJYVEUxaHNiNUpoVmFpbzdHdG9aWlJocFdnSjhvR05CME1mR0I2dDFaLWZWRk1FVUt5N2NiSFROTlByZVdaOUV2WjdYUjI2cno2Sk9hV2pSZTZUUlRydTI1SlREdXFMQVU1TFN1Z0FWYUVMRVAxM21xU3BSemRpZTdwQ0xKVmszc0FRb0N6Z2tOVEJJTHhwcDN1dFVvMXZJWlhHeTJIb2N3SGE0UlJXaEdVNnVDblZWZkxUZ2x3RWZrNGRGZ0IxNnRYYmo3TnZxM3BjMzkxRjhhWGhxeWVTeXlROXk2djZXZ2xTdklCRVdkVkZV?oc=5)
-
----
-
-### [La Dott.ssa Isabella Boccone entra nello Staff dello Studio Medico Galeno di Saluzzo](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUVdrVVFQMnM2RUtWU3QyYzRzbU5uNjh3a3hmaFVwUVEyOUxyaXRKcDQ1eGFzcGE1U3NWQ3JxUUlLZ05uUUstOUFKRWJEeEJ6aXVVNno2NFAxMFg4ZmJRU0xsTDlWb2RtVHIyVEFtNkZacFZMVFJDR2lDbkR4SGNWVWExOTJxaXJGeE85U1MzTUlWbk1pRk5nNm16NUFhM3BJM2laNWxCbGE2SGoyaEM3NktxQWk4T0JrRFRhYjFVU21Hb01xSGRpbGxqQ2lYT1M0VjRjeUhSRVhvMXMwc1BBX0VyaHF2YTk1UE81VFlkejlBa1pYMmJUbEtvYVhnajDSAfIBQVVfeXFMUFh4eFBxY21YU3hSMUdTMmppakFBcUgtVXhCZmVFdW9HZFBDLU1PdDZ3bHRMbUtiQkhUT0c2a09SdW42cEItcjJ3VFpNYmZTVW1mSVpaS0FCS1JGWGgxckc4dHhWS1R3UWthb2U3UzVROFdkQnk1c2VZSHRkX2xIaWVtcG5IWWlObkZhZjBVTS1Bay0xaFVYcVd3Q1E4Y2pNdWM0TzZtajlqUjdHZTRyeG4yVmg1QUNXel81U2JRRTM4M1NRemtsU3NBbE5BaWk3aEsxSnJhWVphTjdBMVpHMEpyLXpYSHdCYWd1aVA1bXl2Znc?oc=5)
-
-2026-05-15 <span class="news-indication-tag">AF</span>
-
-來源：[TargatoCN](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUVdrVVFQMnM2RUtWU3QyYzRzbU5uNjh3a3hmaFVwUVEyOUxyaXRKcDQ1eGFzcGE1U3NWQ3JxUUlLZ05uUUstOUFKRWJEeEJ6aXVVNno2NFAxMFg4ZmJRU0xsTDlWb2RtVHIyVEFtNkZacFZMVFJDR2lDbkR4SGNWVWExOTJxaXJGeE85U1MzTUlWbk1pRk5nNm16NUFhM3BJM2laNWxCbGE2SGoyaEM3NktxQWk4T0JrRFRhYjFVU21Hb01xSGRpbGxqQ2lYT1M0VjRjeUhSRVhvMXMwc1BBX0VyaHF2YTk1UE81VFlkejlBa1pYMmJUbEtvYVhnajDSAfIBQVVfeXFMUFh4eFBxY21YU3hSMUdTMmppakFBcUgtVXhCZmVFdW9HZFBDLU1PdDZ3bHRMbUtiQkhUT0c2a09SdW42cEItcjJ3VFpNYmZTVW1mSVpaS0FCS1JGWGgxckc4dHhWS1R3UWthb2U3UzVROFdkQnk1c2VZSHRkX2xIaWVtcG5IWWlObkZhZjBVTS1Bay0xaFVYcVd3Q1E4Y2pNdWM0TzZtajlqUjdHZTRyeG4yVmg1QUNXel81U2JRRTM4M1NRemtsU3NBbE5BaWk3aEsxSnJhWVphTjdBMVpHMEpyLXpYSHdCYWd1aVA1bXl2Znc?oc=5)
-
----
-
-### [Verbesserung der Therapie bei Lassafieber – erste klinische Studie mit Favipiravir liefert vielversprechende Ergebnisse - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFByYVlhOVFUT0Rjc05DeUNVR2RiSG5Gc0xnM0dESHNEUDZMSHl4OElBOWpzTGUyS0l0UFJJenZBbHl4ajVtZk45NWxFcw?oc=5)
-
-2026-05-15 <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFByYVlhOVFUT0Rjc05DeUNVR2RiSG5Gc0xnM0dESHNEUDZMSHl4OElBOWpzTGUyS0l0UFJJenZBbHl4ajVtZk45NWxFcw?oc=5)
 
 ---
 
