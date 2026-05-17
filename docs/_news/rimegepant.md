@@ -54,11 +54,11 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（1 則）
 
-### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+### [This Common Type of Food May Be Raising Your Risk of Heart Disease](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5)
 
 2026-05-15 <span class="news-indication-tag">heart disease</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5)
 
 ---
 

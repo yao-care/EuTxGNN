@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
+
+### [Adipositas-Therapie: Die zweite Welle der GLP-1-Revolution hat begonnen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJobUt1VzhoZzk0LVZTOGxfNzY2dFZpWVlJdU1vRjNVSnNVY0hGVGxxV0ZieWYtRW9LYTNlUXVDa2tVdkc3N1psb1pya05YRHZteDFpdUNiTW51UkRGQWFSd0dXZnMxLVdrWFJOVU9QcHItQ082Z3Y1Yjd6ZE9oeTNsRkdUZ3RLVTN4SDdrZHRRbzhGZHZ1SHluM3Ywc2pVODZKaUxUenI2aHhjUkhsNk9yOUd3eS10Z3Br?oc=5)
+
+2026-05-17 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJobUt1VzhoZzk0LVZTOGxfNzY2dFZpWVlJdU1vRjNVSnNVY0hGVGxxV0ZieWYtRW9LYTNlUXVDa2tVdkc3N1psb1pya05YRHZteDFpdUNiTW51UkRGQWFSd0dXZnMxLVdrWFJOVU9QcHItQ082Z3Y1Yjd6ZE9oeTNsRkdUZ3RLVTN4SDdrZHRRbzhGZHZ1SHluM3Ywc2pVODZKaUxUenI2aHhjUkhsNk9yOUd3eS10Z3Br?oc=5)
+
+---
 
 ### [España frena la obesidad adulta pero la epidemia infantil sigue crítica - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXdCaGJGTWtHMkt5VWFhdGsyNDlWYU1vY2g1eE40MFZQdlNMdVZLbVpURVZZTWdmOW9mR0FiS3FPTTY0X0tLQkFSNldrVW1wUjBmeVFhUElOVVpHWUNHeHEycXVmQjMxaFNIUUlrS2JENnphVU9HTWtCTFpuekZ4QkZCTE5hRlNKQ056YUdMcUxKaHE1dUxwZTgzSlg5WFRVVm41ZnBiYUFJLUdpenBZczAyYkowV3AyUnBLRFh5ZlRaMDFjZGfSAcYBQVVfeXFMUEF3SUVEd0JpZ2xIRVY5NkRfVmk2US1KamNOZGpxQnJSVlNHT0dRdHZ3R3NjV2Z2bnRxMDY3eXFleXNlYnE0cFB1YVBrQ2RrSFExM3BPc096Y1FTWkVzdm90OXAtaUlvSWFHS1U4RTVUYWR6VjZqWEQtdjA0bWh3VTNHUThJV2JwMlFTUFFsZUg4VjY5QmRBdlFqdUhuUFBkaHR0Sk43VnhYWVVPRHpDVUNzZDVhQXVQclZ3QVlRdVVMRC15Vm9R?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Studie: Frauen mit 3 oder mehr Kindern haben geringeres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
+### [Ma vie après un AVC : « Ferme ta bouche la résilience ! » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5)
 
-2026-05-16 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-05-16 <span class="news-indication-tag">AVC</span>
 
-來源：[Kurier](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5)
 
 ---
 
@@ -94,35 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### ['Our baby had a stroke moments after birth - we're now celebrating her first birthday' - STV News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FwUUdjVW01T19pc19OcnZDazE2c2ZFcUxabkNPSm14eTc5ZGE3SFpoelR6WTU2bGlTNmUxSWRTZnJ6LXdVaEN3d0J4d1RGMXU1OWRBSFpoWEV6OEhfZmVkbkw0bko1ajB5NXNkYWUzYmliRElpNXdGSVJsR3NNblpPVzNkZ04yTk93RnU2eVl0TUw1dlVfZFRCaVdYcFRneVlkWXFsUUI0OHpHNjJpZ2xrZTNOLWhxSTg4dG94UFVQRjZI?oc=5)
-
-2026-05-15 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FwUUdjVW01T19pc19OcnZDazE2c2ZFcUxabkNPSm14eTc5ZGE3SFpoelR6WTU2bGlTNmUxSWRTZnJ6LXdVaEN3d0J4d1RGMXU1OWRBSFpoWEV6OEhfZmVkbkw0bko1ajB5NXNkYWUzYmliRElpNXdGSVJsR3NNblpPVzNkZ04yTk93RnU2eVl0TUw1dlVfZFRCaVdYcFRneVlkWXFsUUI0OHpHNjJpZ2xrZTNOLWhxSTg4dG94UFVQRjZI?oc=5)
-
----
-
 ### [Punture per dimagrire, come non riprendere peso dopo? La nuova pillola (molto più economica) che riduce l'appetito - Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjkxRkZKUDA3WXMzeGNuNVA5LXIwZEhXNktHSkRaVDVNSTl5WENRM1A4VEpaMmZjR0NtUXgxY1NVTlpWMVBxTEJOdk1ocllqNDhxTGVxMmdVakdhWm5qeU5TRWJGMEVVSS1KcEVMd1BuQmluSTFDekxGb1E3MFdwOE5QWnREbVhWMDM5Y1cyWGF4T2lQLXVmOHE5cmUzTXFaSkQ3UVJYUFRYbTDSAZgBQVVfeXFMTWVjVXRLcEFiNDZFZFRWQVYydVBTVEpqS3FfQ2tsX1JsNUtzMlJ0b2ctZ1JoOXVaeGNOdEFPR0JiaXNxWFJrQU16UUtZLUpJbFFITUVfNWZESmpCUWtRRWE2aWRiWk9udHZjUGNVZXpPc1Q4YWpxdmVrU2dCTHFBMWFieEM3Q01YZi1Tb0hzcGloQmlYbzJscnQ?oc=5)
 
 2026-05-15 <span class="news-indication-tag">obesità</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjkxRkZKUDA3WXMzeGNuNVA5LXIwZEhXNktHSkRaVDVNSTl5WENRM1A4VEpaMmZjR0NtUXgxY1NVTlpWMVBxTEJOdk1ocllqNDhxTGVxMmdVakdhWm5qeU5TRWJGMEVVSS1KcEVMd1BuQmluSTFDekxGb1E3MFdwOE5QWnREbVhWMDM5Y1cyWGF4T2lQLXVmOHE5cmUzTXFaSkQ3UVJYUFRYbTDSAZgBQVVfeXFMTWVjVXRLcEFiNDZFZFRWQVYydVBTVEpqS3FfQ2tsX1JsNUtzMlJ0b2ctZ1JoOXVaeGNOdEFPR0JiaXNxWFJrQU16UUtZLUpJbFFITUVfNWZESmpCUWtRRWE2aWRiWk9udHZjUGNVZXpPc1Q4YWpxdmVrU2dCTHFBMWFieEM3Q01YZi1Tb0hzcGloQmlYbzJscnQ?oc=5)
-
----
-
-### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
-
-2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
-
----
-
-### [Adipositastherapie mit Inkretinmimetika: Braucht es Kriterien für eine lebenslange Therapie? - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
-
-2026-05-14 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUVPa1liNE1UX0RLWWJ5T25LbGFPanFUZTczWC1WdUhmU1UzSHJERmJWSWNYRGpObWVIMktOb3BiLVkwOE9VMXVHbFdtMXlYaWF6RVcyWmZ0QnpwSHZvclJvLURyUk12Y2p2Y0VwdFhFa25VbWk1R2V6Y3lQa21yaDhPVHRNWURBaWx1M3l3WlpFU244MVlRcG40b21lREZvdlZVQXdDZjZxdnBEaE1HTS15SENRZ0ZTbmFDS0ZjXzZWdjdEOVhsWEhfNHhMdERCMEFlUl9BYWNUaEhnOUFreDBLbnE0alBIb0luRGtCUS1YOFpU?oc=5)
 
 ---
 

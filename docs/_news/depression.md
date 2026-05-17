@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Kontaktlinsen gegen Depression: Forscher entwickeln nicht-invasive Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQekxJVEY4WUlUbzYzYXZYU2FoRzdjVjhDRDNqWjdNVThDSmRralFMLUtQelYwckdCNE5Pb1NOTk1EaFRUNzVsYUxnTUl4Wlo4R1lzY1VLc0pRS3BURG10VUE2blZKT1lSazlXd2xmMHFQWWQ0QjhVSkNEc3ltVzJHTjg3VHpXMV9BR2hoOHlleHNaR0p3aHVPTlRFcFFqblpleHlkWE9Sam1XZENqdkJyT3YxODk?oc=5)
 
@@ -45,19 +45,11 @@ permalink: /news/depression/
 
 ---
 
-### [El próximo tratamiento contra la depresión podría estar en los ojos. Ya han probado con éxito unas lentillas inteligentes en ratones](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVJDb0lpWHBHV1dBcVZWZGVwajdELVRzOUxQajlRU0xOUTc5ZFZlRWJxSmNib3FETzByZzhWSFVESFJ2dWhLXzg0bXZYcThsczFIUk1mRFgtaC1mOVYtQmlTXzRfd1pPUU1rNW94Y0EzQWhTS0t4SWFhSTRfM0pDSm92b0RJR25meWhHbW45azdhOVRxbDFoX0NxZUNhTHBnaVBJcnNsZExBcUp1cVl1Z1IwSmJaUVpjRnhRNmljSXBZbjdKZHV6R1p4UjdOYkJPbTBUazV6cG_SAd4BQVVfeXFMT2owVHFzd1FoOXRVejdMUUQweEsyclB2eEhzMTVERFZUc1BPVUJaeEV3cVJVbVFyZkxqZmxYUmpOaWozeF9EV0ZPUjg3WUhURE43eFJxNU5jOFRnci03VWRmQ1JqUWVFXzhtS2M5WDFkQ3VuNHNBYjczTWZyZzJKam9PbzVJakpQNWhrWTdjX181RXRLUFlIRy1CTENhTUtNS1VEbVhNN2VGVER5MXRuYXloTjFiRFJGTU9Va3N5NzIzVnpBQWtUMUVOSTlBT0lZdXE4cXRhQkVJcVZTbWpR?oc=5)
+### [Depresión: Prueban con éxito en ratones unas lentes de contacto con la misma eficacia que el 'Prozac'](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NuTzljdW9RWjVCT1ZuRFF5aUl4dUZqNXZWbURFell5UWlyRFZKSHdKZW9iY1YzamxPaGlwWGQ0ZnhKZFVmTU5QamV5M0EyMS0wZ3pYZHpGbFp3VFFfdExpUXpSRThuZDVjYXJyZ3ZsOVZ3RnllZnRtTzhZR2o2dkVycDZ2cjdOZTNYX2ItQVZPbURHRjN1bUxWY2RKM1g4WnNiSzFlOWRYU1pUSXdsZTJidUxVNkRTLXdKNXdKRV85YUZmNlI5NEtfQjc3ZlU?oc=5)
 
 2026-05-15
 
-來源：[Xataka](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVJDb0lpWHBHV1dBcVZWZGVwajdELVRzOUxQajlRU0xOUTc5ZFZlRWJxSmNib3FETzByZzhWSFVESFJ2dWhLXzg0bXZYcThsczFIUk1mRFgtaC1mOVYtQmlTXzRfd1pPUU1rNW94Y0EzQWhTS0t4SWFhSTRfM0pDSm92b0RJR25meWhHbW45azdhOVRxbDFoX0NxZUNhTHBnaVBJcnNsZExBcUp1cVl1Z1IwSmJaUVpjRnhRNmljSXBZbjdKZHV6R1p4UjdOYkJPbTBUazV6cG_SAd4BQVVfeXFMT2owVHFzd1FoOXRVejdMUUQweEsyclB2eEhzMTVERFZUc1BPVUJaeEV3cVJVbVFyZkxqZmxYUmpOaWozeF9EV0ZPUjg3WUhURE43eFJxNU5jOFRnci03VWRmQ1JqUWVFXzhtS2M5WDFkQ3VuNHNBYjczTWZyZzJKam9PbzVJakpQNWhrWTdjX181RXRLUFlIRy1CTENhTUtNS1VEbVhNN2VGVER5MXRuYXloTjFiRFJGTU9Va3N5NzIzVnpBQWtUMUVOSTlBT0lZdXE4cXRhQkVJcVZTbWpR?oc=5)
-
----
-
-### [Psychische Erkrankungen: Biologische Ursachen rücken in den Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0VVX1o1SzMwYzQ3ZXhhY0draVNuZGVaZXMtbXdEQmxhSDNnR3JyN2lZXzMybWxYOUVOMjh5UC00NHdyaVo0YWpKblFQbElkRzQ2eGxrcTZaRGxDRTloRXVreHlVVFQ2dzNlRzFTZmloTl8yb0tSLU9HREJ1ekxfMjk2MTktdmFNOWV2amV2LWdYSGJYVGNBWmlrdDBwTzM0d3RvbUVqM0JSYUF1RGthaHNhS2k?oc=5)
-
-2026-05-15
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0VVX1o1SzMwYzQ3ZXhhY0draVNuZGVaZXMtbXdEQmxhSDNnR3JyN2lZXzMybWxYOUVOMjh5UC00NHdyaVo0YWpKblFQbElkRzQ2eGxrcTZaRGxDRTloRXVreHlVVFQ2dzNlRzFTZmloTl8yb0tSLU9HREJ1ekxfMjk2MTktdmFNOWV2amV2LWdYSGJYVGNBWmlrdDBwTzM0d3RvbUVqM0JSYUF1RGthaHNhS2k?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NuTzljdW9RWjVCT1ZuRFF5aUl4dUZqNXZWbURFell5UWlyRFZKSHdKZW9iY1YzamxPaGlwWGQ0ZnhKZFVmTU5QamV5M0EyMS0wZ3pYZHpGbFp3VFFfdExpUXpSRThuZDVjYXJyZ3ZsOVZ3RnllZnRtTzhZR2o2dkVycDZ2cjdOZTNYX2ItQVZPbURHRjN1bUxWY2RKM1g4WnNiSzFlOWRYU1pUSXdsZTJidUxVNkRTLXdKNXdKRV85YUZmNlI5NEtfQjc3ZlU?oc=5)
 
 ---
 

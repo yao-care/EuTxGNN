@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,29 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
+### [Día Mundial de la Hipertensión: Más de 5 millones de personas adultas en España tienen presión arterial alta - La Razón](https://news.google.com/rss/articles/CBMiggJBVV95cUxNMS1xM1dKX0MyNk02QlpBTzRlc0M1amtZOWluRTdEWnpFYUlWcWNHZWhCdTJzZ21qLVdocTk1bFo3QnpLek5BSDNVVkZ4cVQyZmpjblBMclNhU2Vkam12cWRLVHdRLUE3VkxuRF9Wc0hUTEpWTkxieTlxUWx2YURHc25kUTI3MVBTVjlRbGUzZGthdTBZZnNPcGwyc29hN0NvcVhWMXF0MHFOVzNhc3E5bWFxTERMTTFCNWZfanYwSTFrZWlzbGU4VTJ0SVkybkFVMTFYLXJaLVg1UnR3SkgzX0NxbmtfQzVpUGFOcnMwMGtoazB6WGo1aFZQcHBacW5ObkHSAZYCQVVfeXFMTnVYdkZJekFfdkVHaUtYb25DNGUzTDdiSG1rOXpfRTQ5NjhoSDNNZlJSS0IzUXpyR2JZckhIYnVBNU5mODNaaE9obGI1UkJySGI2NU9xVWk4QmF4cW1RYnVPX3NzSzR4Z0lGQ3V2SFJMODZFWjlUOURSTk9ZVkJ2b2NlLW53dnJBR2ozWXE1Z2dCeHE0ZFljOW4zdjdtWTZ2YjYtblFlckhXZ3E4NWhuemVhWDlSWFNqN19ncmkxM2pqV0hQX09ybGdGZE1HWmpZTmxxeHpQSXBTZ2FhSklVT0Nfb1B4YVNJVEVQZGZSd2tNbEZYamVVX0RZY0dRX01Pem5wYjF0TlQ5UDJwZUtwTnpOc0NpSnc?oc=5)
 
-2026-05-15
+2026-05-17
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
-
----
-
-### [Los expertos alertan de la hipertensión 'silenciosa' y piden simplificar el tratamiento - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhxX3U1TVdaaU9Ra3JnSGZiQ2dpTV92T3ZtQWZUWnVleTBpdnJTOE8wTmp2WV9qZE5VdW5XTjd6UlhONVdVamJhNlBiMjNqb09rN25LSGMzZ3VBSjlTOTA1QTU4LWFZVE5PalBuVGpiQXpWMU9BcU5rWjhrMG5zSFRFUXZEaXlRS1Fwa1dEcmtIdGN2YXY1M2hwZlFiNzZUMW5VMjRXSlQ5Q3VGaWo4dTRsalhqRmEta2FmRHlkONIBugFBVV95cUxQTFNsRGw2TnpWOE9HOTVxbDRvQzBlMXJtdy1iZThVVXNaeExDM3hNOWZQTjFLUE1OVVE3NktWcWNGdFVweVFPMlJlNTVhUFdWa2g2TEVKM0F2bWFHWjJyYjZoRTlQSmNZSHZvdl9HdExka3h5UGZkeld1YXVZRmZSLWk2Vm1BTmtJM2pHVjU5MVFmVFh1SnVzM0FOTDFwY1VwYmMtWHRCZUg5dUtPM0FMWDJZdFhwdC1qWEE?oc=5)
-
-2026-05-15
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhxX3U1TVdaaU9Ra3JnSGZiQ2dpTV92T3ZtQWZUWnVleTBpdnJTOE8wTmp2WV9qZE5VdW5XTjd6UlhONVdVamJhNlBiMjNqb09rN25LSGMzZ3VBSjlTOTA1QTU4LWFZVE5PalBuVGpiQXpWMU9BcU5rWjhrMG5zSFRFUXZEaXlRS1Fwa1dEcmtIdGN2YXY1M2hwZlFiNzZUMW5VMjRXSlQ5Q3VGaWo4dTRsalhqRmEta2FmRHlkONIBugFBVV95cUxQTFNsRGw2TnpWOE9HOTVxbDRvQzBlMXJtdy1iZThVVXNaeExDM3hNOWZQTjFLUE1OVVE3NktWcWNGdFVweVFPMlJlNTVhUFdWa2g2TEVKM0F2bWFHWjJyYjZoRTlQSmNZSHZvdl9HdExka3h5UGZkeld1YXVZRmZSLWk2Vm1BTmtJM2pHVjU5MVFmVFh1SnVzM0FOTDFwY1VwYmMtWHRCZUg5dUtPM0FMWDJZdFhwdC1qWEE?oc=5)
-
----
-
-### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
-
-2026-05-15
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMiggJBVV95cUxNMS1xM1dKX0MyNk02QlpBTzRlc0M1amtZOWluRTdEWnpFYUlWcWNHZWhCdTJzZ21qLVdocTk1bFo3QnpLek5BSDNVVkZ4cVQyZmpjblBMclNhU2Vkam12cWRLVHdRLUE3VkxuRF9Wc0hUTEpWTkxieTlxUWx2YURHc25kUTI3MVBTVjlRbGUzZGthdTBZZnNPcGwyc29hN0NvcVhWMXF0MHFOVzNhc3E5bWFxTERMTTFCNWZfanYwSTFrZWlzbGU4VTJ0SVkybkFVMTFYLXJaLVg1UnR3SkgzX0NxbmtfQzVpUGFOcnMwMGtoazB6WGo1aFZQcHBacW5ObkHSAZYCQVVfeXFMTnVYdkZJekFfdkVHaUtYb25DNGUzTDdiSG1rOXpfRTQ5NjhoSDNNZlJSS0IzUXpyR2JZckhIYnVBNU5mODNaaE9obGI1UkJySGI2NU9xVWk4QmF4cW1RYnVPX3NzSzR4Z0lGQ3V2SFJMODZFWjlUOURSTk9ZVkJ2b2NlLW53dnJBR2ozWXE1Z2dCeHE0ZFljOW4zdjdtWTZ2YjYtblFlckhXZ3E4NWhuemVhWDlSWFNqN19ncmkxM2pqV0hQX09ybGdGZE1HWmpZTmxxeHpQSXBTZ2FhSklVT0Nfb1B4YVNJVEVQZGZSd2tNbEZYamVVX0RZY0dRX01Pem5wYjF0TlQ5UDJwZUtwTnpOc0NpSnc?oc=5)
 
 ---
 

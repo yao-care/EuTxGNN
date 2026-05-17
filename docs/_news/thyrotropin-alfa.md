@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,21 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
+### [Día Mundial de la Hipertensión: Más de 5 millones de personas adultas en España tienen presión arterial alta - La Razón](https://news.google.com/rss/articles/CBMiggJBVV95cUxNMS1xM1dKX0MyNk02QlpBTzRlc0M1amtZOWluRTdEWnpFYUlWcWNHZWhCdTJzZ21qLVdocTk1bFo3QnpLek5BSDNVVkZ4cVQyZmpjblBMclNhU2Vkam12cWRLVHdRLUE3VkxuRF9Wc0hUTEpWTkxieTlxUWx2YURHc25kUTI3MVBTVjlRbGUzZGthdTBZZnNPcGwyc29hN0NvcVhWMXF0MHFOVzNhc3E5bWFxTERMTTFCNWZfanYwSTFrZWlzbGU4VTJ0SVkybkFVMTFYLXJaLVg1UnR3SkgzX0NxbmtfQzVpUGFOcnMwMGtoazB6WGo1aFZQcHBacW5ObkHSAZYCQVVfeXFMTnVYdkZJekFfdkVHaUtYb25DNGUzTDdiSG1rOXpfRTQ5NjhoSDNNZlJSS0IzUXpyR2JZckhIYnVBNU5mODNaaE9obGI1UkJySGI2NU9xVWk4QmF4cW1RYnVPX3NzSzR4Z0lGQ3V2SFJMODZFWjlUOURSTk9ZVkJ2b2NlLW53dnJBR2ozWXE1Z2dCeHE0ZFljOW4zdjdtWTZ2YjYtblFlckhXZ3E4NWhuemVhWDlSWFNqN19ncmkxM2pqV0hQX09ybGdGZE1HWmpZTmxxeHpQSXBTZ2FhSklVT0Nfb1B4YVNJVEVQZGZSd2tNbEZYamVVX0RZY0dRX01Pem5wYjF0TlQ5UDJwZUtwTnpOc0NpSnc?oc=5)
 
-2026-05-15 <span class="news-indication-tag">Bluthochdruck</span>
+2026-05-17 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
-
----
-
-### [Los expertos alertan de la hipertensión 'silenciosa' y piden simplificar el tratamiento - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhxX3U1TVdaaU9Ra3JnSGZiQ2dpTV92T3ZtQWZUWnVleTBpdnJTOE8wTmp2WV9qZE5VdW5XTjd6UlhONVdVamJhNlBiMjNqb09rN25LSGMzZ3VBSjlTOTA1QTU4LWFZVE5PalBuVGpiQXpWMU9BcU5rWjhrMG5zSFRFUXZEaXlRS1Fwa1dEcmtIdGN2YXY1M2hwZlFiNzZUMW5VMjRXSlQ5Q3VGaWo4dTRsalhqRmEta2FmRHlkONIBugFBVV95cUxQTFNsRGw2TnpWOE9HOTVxbDRvQzBlMXJtdy1iZThVVXNaeExDM3hNOWZQTjFLUE1OVVE3NktWcWNGdFVweVFPMlJlNTVhUFdWa2g2TEVKM0F2bWFHWjJyYjZoRTlQSmNZSHZvdl9HdExka3h5UGZkeld1YXVZRmZSLWk2Vm1BTmtJM2pHVjU5MVFmVFh1SnVzM0FOTDFwY1VwYmMtWHRCZUg5dUtPM0FMWDJZdFhwdC1qWEE?oc=5)
-
-2026-05-15 <span class="news-indication-tag">hipertensión</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhxX3U1TVdaaU9Ra3JnSGZiQ2dpTV92T3ZtQWZUWnVleTBpdnJTOE8wTmp2WV9qZE5VdW5XTjd6UlhONVdVamJhNlBiMjNqb09rN25LSGMzZ3VBSjlTOTA1QTU4LWFZVE5PalBuVGpiQXpWMU9BcU5rWjhrMG5zSFRFUXZEaXlRS1Fwa1dEcmtIdGN2YXY1M2hwZlFiNzZUMW5VMjRXSlQ5Q3VGaWo4dTRsalhqRmEta2FmRHlkONIBugFBVV95cUxQTFNsRGw2TnpWOE9HOTVxbDRvQzBlMXJtdy1iZThVVXNaeExDM3hNOWZQTjFLUE1OVVE3NktWcWNGdFVweVFPMlJlNTVhUFdWa2g2TEVKM0F2bWFHWjJyYjZoRTlQSmNZSHZvdl9HdExka3h5UGZkeld1YXVZRmZSLWk2Vm1BTmtJM2pHVjU5MVFmVFh1SnVzM0FOTDFwY1VwYmMtWHRCZUg5dUtPM0FMWDJZdFhwdC1qWEE?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMiggJBVV95cUxNMS1xM1dKX0MyNk02QlpBTzRlc0M1amtZOWluRTdEWnpFYUlWcWNHZWhCdTJzZ21qLVdocTk1bFo3QnpLek5BSDNVVkZ4cVQyZmpjblBMclNhU2Vkam12cWRLVHdRLUE3VkxuRF9Wc0hUTEpWTkxieTlxUWx2YURHc25kUTI3MVBTVjlRbGUzZGthdTBZZnNPcGwyc29hN0NvcVhWMXF0MHFOVzNhc3E5bWFxTERMTTFCNWZfanYwSTFrZWlzbGU4VTJ0SVkybkFVMTFYLXJaLVg1UnR3SkgzX0NxbmtfQzVpUGFOcnMwMGtoazB6WGo1aFZQcHBacW5ObkHSAZYCQVVfeXFMTnVYdkZJekFfdkVHaUtYb25DNGUzTDdiSG1rOXpfRTQ5NjhoSDNNZlJSS0IzUXpyR2JZckhIYnVBNU5mODNaaE9obGI1UkJySGI2NU9xVWk4QmF4cW1RYnVPX3NzSzR4Z0lGQ3V2SFJMODZFWjlUOURSTk9ZVkJ2b2NlLW53dnJBR2ozWXE1Z2dCeHE0ZFljOW4zdjdtWTZ2YjYtblFlckhXZ3E4NWhuemVhWDlSWFNqN19ncmkxM2pqV0hQX09ybGdGZE1HWmpZTmxxeHpQSXBTZ2FhSklVT0Nfb1B4YVNJVEVQZGZSd2tNbEZYamVVX0RZY0dRX01Pem5wYjF0TlQ5UDJwZUtwTnpOc0NpSnc?oc=5)
 
 ---
 
-### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+### [This Common Type of Food May Be Raising Your Risk of Heart Disease](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5)
 
 2026-05-15 <span class="news-indication-tag">heart disease</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
-
----
-
-### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
-
-2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/valsartan/
 ---
 
 <p class="key-answer" data-question="Valsartan 有什麼相關新聞？">
-<strong>Valsartan</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Valsartan</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/valsartan/
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（18 則）
+
+### [Día Mundial de la Hipertensión: Más de 5 millones de personas adultas en España tienen presión arterial alta - La Razón](https://news.google.com/rss/articles/CBMiggJBVV95cUxNMS1xM1dKX0MyNk02QlpBTzRlc0M1amtZOWluRTdEWnpFYUlWcWNHZWhCdTJzZ21qLVdocTk1bFo3QnpLek5BSDNVVkZ4cVQyZmpjblBMclNhU2Vkam12cWRLVHdRLUE3VkxuRF9Wc0hUTEpWTkxieTlxUWx2YURHc25kUTI3MVBTVjlRbGUzZGthdTBZZnNPcGwyc29hN0NvcVhWMXF0MHFOVzNhc3E5bWFxTERMTTFCNWZfanYwSTFrZWlzbGU4VTJ0SVkybkFVMTFYLXJaLVg1UnR3SkgzX0NxbmtfQzVpUGFOcnMwMGtoazB6WGo1aFZQcHBacW5ObkHSAZYCQVVfeXFMTnVYdkZJekFfdkVHaUtYb25DNGUzTDdiSG1rOXpfRTQ5NjhoSDNNZlJSS0IzUXpyR2JZckhIYnVBNU5mODNaaE9obGI1UkJySGI2NU9xVWk4QmF4cW1RYnVPX3NzSzR4Z0lGQ3V2SFJMODZFWjlUOURSTk9ZVkJ2b2NlLW53dnJBR2ozWXE1Z2dCeHE0ZFljOW4zdjdtWTZ2YjYtblFlckhXZ3E4NWhuemVhWDlSWFNqN19ncmkxM2pqV0hQX09ybGdGZE1HWmpZTmxxeHpQSXBTZ2FhSklVT0Nfb1B4YVNJVEVQZGZSd2tNbEZYamVVX0RZY0dRX01Pem5wYjF0TlQ5UDJwZUtwTnpOc0NpSnc?oc=5)
+
+2026-05-17 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiggJBVV95cUxNMS1xM1dKX0MyNk02QlpBTzRlc0M1amtZOWluRTdEWnpFYUlWcWNHZWhCdTJzZ21qLVdocTk1bFo3QnpLek5BSDNVVkZ4cVQyZmpjblBMclNhU2Vkam12cWRLVHdRLUE3VkxuRF9Wc0hUTEpWTkxieTlxUWx2YURHc25kUTI3MVBTVjlRbGUzZGthdTBZZnNPcGwyc29hN0NvcVhWMXF0MHFOVzNhc3E5bWFxTERMTTFCNWZfanYwSTFrZWlzbGU4VTJ0SVkybkFVMTFYLXJaLVg1UnR3SkgzX0NxbmtfQzVpUGFOcnMwMGtoazB6WGo1aFZQcHBacW5ObkHSAZYCQVVfeXFMTnVYdkZJekFfdkVHaUtYb25DNGUzTDdiSG1rOXpfRTQ5NjhoSDNNZlJSS0IzUXpyR2JZckhIYnVBNU5mODNaaE9obGI1UkJySGI2NU9xVWk4QmF4cW1RYnVPX3NzSzR4Z0lGQ3V2SFJMODZFWjlUOURSTk9ZVkJ2b2NlLW53dnJBR2ozWXE1Z2dCeHE0ZFljOW4zdjdtWTZ2YjYtblFlckhXZ3E4NWhuemVhWDlSWFNqN19ncmkxM2pqV0hQX09ybGdGZE1HWmpZTmxxeHpQSXBTZ2FhSklVT0Nfb1B4YVNJVEVQZGZSd2tNbEZYamVVX0RZY0dRX01Pem5wYjF0TlQ5UDJwZUtwTnpOc0NpSnc?oc=5)
+
+---
+
+### [Scientists find a remarkable molecule that could help humans live up to 200 years cancer free](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3JYb3VxNXFUVm9GSG8xNFNZcHBkMXZWby1qZDJERGxCb1I1WG9jZ1FIOEQ4Vm1rdWp2Sm9yYWVscGdDY0ppeGpIdEpxdjkzaDMzeFNoamJqQ1dCdUd1VnFsQlh3Z1ZfUm9BbGpNRF9yTEg2T19xZS10U2FuZElrbldOdFVaUllSVVh4Qy1NY2x6MnJ6RlItemNaNUZTWm9BYTZqNkI1TmxzMXZtaUdydExsWlM5ank2bzdJUlNzbHR4VTg?oc=5)
+
+2026-05-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3JYb3VxNXFUVm9GSG8xNFNZcHBkMXZWby1qZDJERGxCb1I1WG9jZ1FIOEQ4Vm1rdWp2Sm9yYWVscGdDY0ppeGpIdEpxdjkzaDMzeFNoamJqQ1dCdUd1VnFsQlh3Z1ZfUm9BbGpNRF9yTEg2T19xZS10U2FuZElrbldOdFVaUllSVVh4Qy1NY2x6MnJ6RlItemNaNUZTWm9BYTZqNkI1TmxzMXZtaUdydExsWlM5ank2bzdJUlNzbHR4VTg?oc=5)
+
+---
+
+### [Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
+
+2026-05-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
+
+---
+
+### [Cancer de la vessie : "Même si ça n’arrive qu’une fois, avoir du sang dans les urines est suspect", alertent les urologues - Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX3NrTWJVeHpwYklrQzE2a3d4RC0teXdlRVp5X2Y3akFJVDZvLUVpdnpEY3MtakFlcm81SndQT2VXTi1SLW5Zb1FxaFRXU1l2VHE0OXlrcE1lTWt5ZEVrTWNia2k1MEJUV2EzNzFYdzVJUkRLOU1zc0tXMkVrLU9rbjZGTHViZjN2V2xxbHJFMUhfbzRQaHA1dVJtOEZSZmM2NWFSaDJTendmSzFtXzNyQnQ4MW51cDZBaWFJQkFsNzYzcWl1WnhsaWkxVjE2OVZMQzU5amhtM3lNWW9SZHRoRUdpSEt4SGNWc21tbHpxWVRIOGh4MGc?oc=5)
+
+2026-05-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX3NrTWJVeHpwYklrQzE2a3d4RC0teXdlRVp5X2Y3akFJVDZvLUVpdnpEY3MtakFlcm81SndQT2VXTi1SLW5Zb1FxaFRXU1l2VHE0OXlrcE1lTWt5ZEVrTWNia2k1MEJUV2EzNzFYdzVJUkRLOU1zc0tXMkVrLU9rbjZGTHViZjN2V2xxbHJFMUhfbzRQaHA1dVJtOEZSZmM2NWFSaDJTendmSzFtXzNyQnQ4MW51cDZBaWFJQkFsNzYzcWl1WnhsaWkxVjE2OVZMQzU5amhtM3lNWW9SZHRoRUdpSEt4SGNWc21tbHpxWVRIOGh4MGc?oc=5)
+
+---
 
 ### [Men seeking help for prostate cancer rises 50pc in a year - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRkc0NUMGh6NXhieEJuMVJjNXp5VzE5WWpBWDBTZG9kMTVwN1lpVzVRTHBuR0lNTnduMzUyTEJ5MWM0S1dmQ2hPNGc5WE1QbEVCREtpN05pMEplLUN1OFNTaG9vQ2tNX01wbVlLcnl2eTdRemY0WERxQjluMUpHOXFreENKSmluQU1VWEdFT2hsYTU5TEdJVjhaY0FLM0V2QWxOMg?oc=5)
 
@@ -94,6 +126,14 @@ permalink: /news/valsartan/
 
 ---
 
+### [This Common Type of Food May Be Raising Your Risk of Heart Disease](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5)
+
+2026-05-15 <span class="news-indication-tag">heart disease</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5)
+
+---
+
 ### [Vitamin B12 is crucial for keeping many parts of the body working properly, so even a small shortage can cause widespread health issues](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlFCcFJFZnZPaWNmX19pV2h4dUpsNU5DNnZ1WlNOTW5XTGRSU3hVS0FaWmhxYklEREN1NmVtRkdZZ2piOWZEeWtZLU1MQlJpV1dpcFRGa1dXcGVHX0JmeE1JMGIxdWV0dlpqNlV0R3lOSnAwNTRUd2NFbU1PRGlYbHBTd0xoMjF6Q2pSWHNTZk5SYjltRGtLRnQ2T2JESGxNaXV6eGVwcWZaMEpl?oc=5)
 
 2026-05-15 <span class="news-indication-tag">cancer</span>
@@ -102,43 +142,11 @@ permalink: /news/valsartan/
 
 ---
 
-### [Bluthochdruck: Gesund leben lohnt sich immer - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
-
-2026-05-15 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXRGOC1hT1lfaER3MnRBdWJrODlZSS1Bb1hOWV84WkVVZ0pIQzdCOXVEM0d5UmY5UXNaMTJCZFVoa0FfMWRfbjJ2eTRMS1kxNGpUT3p5cHREZUZDSEpYbkhOR3dBQ3B6YUYtd0J4NGViVENvWHg5VW5KNU5GYmh5R0tR?oc=5)
-
----
-
-### [Los expertos alertan de la hipertensión 'silenciosa' y piden simplificar el tratamiento - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhxX3U1TVdaaU9Ra3JnSGZiQ2dpTV92T3ZtQWZUWnVleTBpdnJTOE8wTmp2WV9qZE5VdW5XTjd6UlhONVdVamJhNlBiMjNqb09rN25LSGMzZ3VBSjlTOTA1QTU4LWFZVE5PalBuVGpiQXpWMU9BcU5rWjhrMG5zSFRFUXZEaXlRS1Fwa1dEcmtIdGN2YXY1M2hwZlFiNzZUMW5VMjRXSlQ5Q3VGaWo4dTRsalhqRmEta2FmRHlkONIBugFBVV95cUxQTFNsRGw2TnpWOE9HOTVxbDRvQzBlMXJtdy1iZThVVXNaeExDM3hNOWZQTjFLUE1OVVE3NktWcWNGdFVweVFPMlJlNTVhUFdWa2g2TEVKM0F2bWFHWjJyYjZoRTlQSmNZSHZvdl9HdExka3h5UGZkeld1YXVZRmZSLWk2Vm1BTmtJM2pHVjU5MVFmVFh1SnVzM0FOTDFwY1VwYmMtWHRCZUg5dUtPM0FMWDJZdFhwdC1qWEE?oc=5)
-
-2026-05-15 <span class="news-indication-tag">hipertensión</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhxX3U1TVdaaU9Ra3JnSGZiQ2dpTV92T3ZtQWZUWnVleTBpdnJTOE8wTmp2WV9qZE5VdW5XTjd6UlhONVdVamJhNlBiMjNqb09rN25LSGMzZ3VBSjlTOTA1QTU4LWFZVE5PalBuVGpiQXpWMU9BcU5rWjhrMG5zSFRFUXZEaXlRS1Fwa1dEcmtIdGN2YXY1M2hwZlFiNzZUMW5VMjRXSlQ5Q3VGaWo4dTRsalhqRmEta2FmRHlkONIBugFBVV95cUxQTFNsRGw2TnpWOE9HOTVxbDRvQzBlMXJtdy1iZThVVXNaeExDM3hNOWZQTjFLUE1OVVE3NktWcWNGdFVweVFPMlJlNTVhUFdWa2g2TEVKM0F2bWFHWjJyYjZoRTlQSmNZSHZvdl9HdExka3h5UGZkeld1YXVZRmZSLWk2Vm1BTmtJM2pHVjU5MVFmVFh1SnVzM0FOTDFwY1VwYmMtWHRCZUg5dUtPM0FMWDJZdFhwdC1qWEE?oc=5)
-
----
-
 ### [Cancer colorectal chez les jeunes : un pesticide identifié comme facteur de risque - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZIdmZMQkM0eGdPOEYwUXZseHAtNU1EUnQxLU1wWlVNcjE0ODJpQjYtMTR6V2FWX0NtaDR3SWY4eEpPUW9yREpIZWtmTExPMC1FWmlrTVdfX1FuOGxFVGEybFlLdXRGN3Q0QkhTRkNWMUV0XzFBbVZ1ZDRGQUc4ckV2UTczcFMzNnhYY2I3Z0RPTEZZei1ma0RjdnlyTktidkxQR01WQXE?oc=5)
 
 2026-05-15 <span class="news-indication-tag">cancer</span>
 
 來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzZIdmZMQkM0eGdPOEYwUXZseHAtNU1EUnQxLU1wWlVNcjE0ODJpQjYtMTR6V2FWX0NtaDR3SWY4eEpPUW9yREpIZWtmTExPMC1FWmlrTVdfX1FuOGxFVGEybFlLdXRGN3Q0QkhTRkNWMUV0XzFBbVZ1ZDRGQUc4ckV2UTczcFMzNnhYY2I3Z0RPTEZZei1ma0RjdnlyTktidkxQR01WQXE?oc=5)
-
----
-
-### [Signs of 'silent killer' Dr Amir Khan says all women need to be aware of - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RUN0UndiZjgwYWRiUDhYVWlBamd0UnZfQXlfakNnT1ZnMWNWaVhLQ0NTQkZ0NzdrWWdWU0JuYTc0T2dXRFNpUE1yejl4bEU3SWFYRFZ5SHNHY1QwdVI2M01pWVRZXzBIdTM4WkNESWZGR29CM0VLNW8zdHNxQdIBgwFBVV95cUxPY0lhUlVfVy1oempOZFdELV9EaVpvSEZnMnRxMHV4YWJpU3BTVkpSZWR5ZlpCRDZUbDJid0hBSXF4akw3WU5TcmxvY3JmbktCUF9CZTR6SWQyQVdLRU40MHpfcWlBSFhmN1ZtN1JXallfVldXYXlicWdZbFJnNlBfSEJ3VQ?oc=5)
-
-2026-05-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RUN0UndiZjgwYWRiUDhYVWlBamd0UnZfQXlfakNnT1ZnMWNWaVhLQ0NTQkZ0NzdrWWdWU0JuYTc0T2dXRFNpUE1yejl4bEU3SWFYRFZ5SHNHY1QwdVI2M01pWVRZXzBIdTM4WkNESWZGR29CM0VLNW8zdHNxQdIBgwFBVV95cUxPY0lhUlVfVy1oempOZFdELV9EaVpvSEZnMnRxMHV4YWJpU3BTVkpSZWR5ZlpCRDZUbDJid0hBSXF4akw3WU5TcmxvY3JmbktCUF9CZTR6SWQyQVdLRU40MHpfcWlBSFhmN1ZtN1JXallfVldXYXlicWdZbFJnNlBfSEJ3VQ?oc=5)
-
----
-
-### [Tumore al cervello e testosterone, il legame: allarme per gli uomini | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBFd194WmlGTFRia205WklmTjVuUE9reExuNGZtOWdwbXdpX3dmbGFxQzlFVUZKanlxTzJoTEVjRnN6T2xlU3V1LVBfZWl3bkF3a05IeG5jYlpNMUVKQmVHV0c5a0dXNEhXdEEyUnFhOHpXU29CbjVqZlF3dnFWN05OSXd2RjV6czl5Y181aGdwZkROMGJXUW1ISVJ0cnFuNTNiTjFUYWk3N0FCUm9peDNYeUFJMENMUzFIV9IBwAFBVV95cUxQQV9ZbnFwcmIxR19LbG5ZT2NINS1WV2E0TEl1QjhwcHc5ZGRNdjdkeWlScDVGVEJGTnpUaUM1ZGRmZlY4OEhIQ3l5X1h1TXljYlkxdXVPeVRTdE45NUo2TGh5N0w1NWt3QVhwLUR3Ukk4eDZ6bi1fTWI3Y2wzcjBGOHlCaFV2a2pBR29ocnVTVEFuc3ZvUjREQUpUOU40QmNBb0N3VGc0XzRxdDhCdGFuMllUMEpRMkQ1bFo5WGE4Nkk?oc=5)
-
-2026-05-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBFd194WmlGTFRia205WklmTjVuUE9reExuNGZtOWdwbXdpX3dmbGFxQzlFVUZKanlxTzJoTEVjRnN6T2xlU3V1LVBfZWl3bkF3a05IeG5jYlpNMUVKQmVHV0c5a0dXNEhXdEEyUnFhOHpXU29CbjVqZlF3dnFWN05OSXd2RjV6czl5Y181aGdwZkROMGJXUW1ISVJ0cnFuNTNiTjFUYWk3N0FCUm9peDNYeUFJMENMUzFIV9IBwAFBVV95cUxQQV9ZbnFwcmIxR19LbG5ZT2NINS1WV2E0TEl1QjhwcHc5ZGRNdjdkeWlScDVGVEJGTnpUaUM1ZGRmZlY4OEhIQ3l5X1h1TXljYlkxdXVPeVRTdE45NUo2TGh5N0w1NWt3QVhwLUR3Ukk4eDZ6bi1fTWI3Y2wzcjBGOHlCaFV2a2pBR29ocnVTVEFuc3ZvUjREQUpUOU40QmNBb0N3VGc0XzRxdDhCdGFuMllUMEpRMkQ1bFo5WGE4Nkk?oc=5)
 
 ---
 
@@ -166,19 +174,11 @@ permalink: /news/valsartan/
 
 ---
 
-### [DIPEx-Projekt erweitert Online-Angebot zu Krankheitserfahrungen um Hautkrebs-Modul - Medizinische Hochschule Brandenburg Theodor Fontane (MHB)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
+### [DIPEx-Projekt erweitert Online-Angebot zu Krankheitserfahrungen um Hautkrebs-Modul - Medizinische Hochschule Brandenburg Theodor Fontane](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
 
 2026-05-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[Medizinische Hochschule Brandenburg Theodor Fontane (MHB)](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
-
----
-
-### [Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
-
-2026-05-15 <span class="news-indication-tag">heart disease</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5)
+來源：[Medizinische Hochschule Brandenburg Theodor Fontane](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXIzc3VWNVQ1UFJScUNLd2gzU2lJdnhoX2ExWV9zUjBpS0pfcEhOa3k2dFVZTkdBMG9vd0RuMmx6alUyNzY5TVdUdDhzektpQnUxd2VZa0lxZVFINm1GQ2JKMG04OFNHUEFGX3dKbEhSTV9fQ2VjVWh6QVltbXFKeHlGdXNYLU5LS2pzTWliXzRoTnpYeDBWWjROT0lVZUFPeWdkVkZQS0xDbFhmWlc0NkdnSk5pd0l1Znd4N3lQSWtlMmdMME42NA?oc=5)
 
 ---
 
@@ -195,22 +195,6 @@ permalink: /news/valsartan/
 2026-05-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere del Veneto](https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUF9ON1VGZjZFRnlxUVVnR2dDRl9uVGMzQkdMa043dDdBY0wwQkNzRlZyWjlYYVF6cXB3RnNuQnhJTFBQOUR2cXJ6UWdNcXVPd0ZrYk9SMWJvRUVWY1hJLVN2bF9ES2hlNkRZMDV2N2J1THhrRXZIb2FoVzliZ202ZFdqc2pxNDNpZy1NM1ladFVYbEw5OGV1REFWZFgtY2RwN3B2MG8ySk5fMXdKdHQ1alFsRjB0N1VTYk1pNEpWQ09vLTdaNjFHQWl2WmZvY1NlSHhXU0h4NUItMUZEMlduR09GQlZKRnp4c29Wdm92RUhaem1XeG9qNVRjcTF5RUdnTG4yS2tlS3dKRnB5bTFzY2E3eXpQdmtmdlhTNnVYWDEwSFloSVdBOEJWTzN2aTQ4VjVzZEtJNDh5MjdnLU5HU0ROd182VVptcGJsb3NiTmNzMnB5dWZieUxKSF9GT2fSAeQCQVVfeXFMUGsta3M5VkczN0dJVS1RbmVNWFRRSUJVNWNhaGE4OEFEMFZvdUJRWE1zbGVuTnZTYk96WnFwN2NxQVhxSVBtbmRRYWNVSFRYX1NldGhQMk0td0FfbXZCR1lNTFdobm9KeW9LV0RjVUpMT296SVZXT2hSZU1rMWRka3Y1LWl6MXZVZHFvcDhMZUhSbFlYNlJubE8wLVRXY3NGZWszZHMzYlJGcVZTZmZ2ZUVvOEhBZUZMQUJnbHd3Zm0yamdGRTZscTZ2T1VZSk04RFQ1am1nbnA2d0ZSSlhJTWVMc0pma29nRWhxclJkQlZUbUdLb042THFXNUZNMU5wSEZMT2Vic2xBR0hEMk1ST0NIenZya1lvc3NWR3h3TFF3U0M2Y3hFdUlzclMtZnk4aE5FNmNWbndrSGp4M1V0djAweWlDUG9ZSmxCSE9YdFRyQjN0X09NYUl4RDBVYlNfRW1mdEo?oc=5)
-
----
-
-### [Surrey hospital to get £2m boost to improve cancer treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
-
-2026-05-15 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZnBhVG5XZHpUQWFTeFluU1ROS1NPOGRQZkNPZ1hXakRXaVNjOUJHSW9kb3ZKQWpiUjczbXBhSl9NTmFqaDV0OHBnUE14WVFYcGpIRktudWF0R25Q?oc=5)
-
----
-
-### [These Simple Plant Foods Are Linked to Lower Blood Pressure](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
-
-2026-05-15 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkRmZC14T3ZWSGRXYUdiREpyem5WUXlIY2RHUmNfSFAzRHpHeXBTVkpqaURzbDhRYURCZXpCVkdXMjRLWGdTZXE1a1J5RzFxaFV6RUMzTGVLWXRLaDJ5eHVPZkxfUzF0TEtac09Jbkxjcmo0Tk92ZHFpWGNsTzNHR0h5ZDBXR1VaU01DdVVB?oc=5)
 
 ---
 
