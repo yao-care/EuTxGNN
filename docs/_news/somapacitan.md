@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li>asthma（86.3%）</li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,9 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [VARON unterstützt den Monat des Bewusstseins für Asthma durch die Förderung einer besseren Lungengesundheit und mehr Komfort beim Atmen im Alltag](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMTM3ZWtFaUtlNUZFemo0cGVqaGxYNzF3THFMdU9wVHJqMkFXXzVheWp0MTNUWVlJSndkbWtLX01kS19aVVJrX3Z2SC0ybEltOG9rUTUyYWtIdzViRGowYWhR?oc=5)
+
+2026-05-18 <span class="news-indication-tag">asthma</span>
+
+來源：[TradingView](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMTM3ZWtFaUtlNUZFemo0cGVqaGxYNzF3THFMdU9wVHJqMkFXXzVheWp0MTNUWVlJSndkbWtLX01kS19aVVJrX3Z2SC0ybEltOG9rUTUyYWtIdzViRGowYWhR?oc=5)
+
+---
 
 
 <div class="disclaimer">

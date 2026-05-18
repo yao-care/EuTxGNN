@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "ipertensione（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# ipertensione（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
+<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,19 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（2 則）
 
-### [La hipertensión causa casi 11 millones de muertes cardiovasculares al año, 46.000 solo en España - Salud a Diario](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGQyUHZOTlZCcXVxcEU3TGk4bW5DVEFBTlpUSC1ReVhxbDFXYkJlcnFmbWdnc1JCRkJYTndXV0pCYmpkeWpFckVVQnBjUHl6WEg1dW95UmI1bnZZZHVBcFBmcXA0cDZHRjV2bkIwY0oxZ244dTZjMW16X0dSWEc2R0FLZzN0a2tTbUxQQm1EU3loSW85UXJ3RVc5MHl6dWFWOW5DUXNoNW8tNFZIWE4tam5DdDlkdGduWU50bVRPd0pDZmtZaWdONkpld28zR2c1bVhFVQ?oc=5)
+### [Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
 2026-05-17
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGQyUHZOTlZCcXVxcEU3TGk4bW5DVEFBTlpUSC1ReVhxbDFXYkJlcnFmbWdnc1JCRkJYTndXV0pCYmpkeWpFckVVQnBjUHl6WEg1dW95UmI1bnZZZHVBcFBmcXA0cDZHRjV2bkIwY0oxZ244dTZjMW16X0dSWEc2R0FLZzN0a2tTbUxQQm1EU3loSW85UXJ3RVc5MHl6dWFWOW5DUXNoNW8tNFZIWE4tam5DdDlkdGduWU50bVRPd0pDZmtZaWdONkpld28zR2c1bVhFVQ?oc=5)
+來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
 ---
 
-### [Pressione alta: non è una cosa (solo) per anziani. Molti ignorano il proprio stato o lo trascurano - Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQw?oc=5)
+### [Pressione alta: non è una cosa (solo) per anziani. Molti ignorano il proprio stato o lo trascurano - Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
 
 2026-05-17
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQw?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
 
 ---
 

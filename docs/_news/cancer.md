@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor（cancer） 相關新聞"
+title: "cancro（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。15 則新聞、229 個相關藥物。"
+description: "cancro（cancer） 的相關健康新聞報導。18 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
-# tumor（cancer） 相關新聞
+# cancro（cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>15 則</strong>相關新聞報導，229 個相關藥物。
+<p class="key-answer" data-question="cancro（cancer） 有什麼相關新聞？">
+<strong>cancro（cancer）</strong> 目前有 <strong>18 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「tumor」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cancro」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -257,13 +257,37 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（18 則）
 
-### [Protesi su misura per coprire il cranio dopo l'asportazione del tumore: chirurgia no limits al CTO - La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEt2aVZkS3FaenFxQ1ZRMVliZndtb0s1UDg5Y1hMYlZvYmhLQ0ZRdDVZQW42WkdzblZMWXE0Z3d0LXdvQUFvMkMzYm1JWXJqV2k3Rk1hWUJybVRab3Z0azF5amsxY0VZUDJEU09MRERPWHRvd05LLWMyLWRlVWFHNGcxU3JXYWhIVFdFZ2JUSU1vWGNjcmREODZ0UFhqaTQtYllUYWdn0gGrAUFVX3lxTFBkbFgxZk9VUTQ3YWtZdU5DWGZCN05veHNDMnlMcXg0c1N4alRHdHZzTFBraVZmVE8xSDVuT0ZUb3pTS29yOHBMcUppbjlYRnZWVS11UzZiNzc4Slh4QzY2b2tQNVRrMHo1UjB4bFBxUlVTQmlXbWJMd0VScThncTN0TGxRdlAtcHNXamFmanJnclRXZ1hsZWhzbmZjemRBN3AwMEk1bDJld19kbw?oc=5)
+### [Carcinoma orale, nemico silenzioso: visite gratuite oggi in piazza Stradivari](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEtRQXlqU05VMi1lQ1BYSXBtSUh3THpwLVUtZzNJU0E3SS1fYjJldjBta0N6SEtzV2RyTm5KOXdMbmFvUzA4S3RQQkxGOFhPYjQ3REd6Z3pESnkwRUQybEpvY1BMUURJVVYzVnJJb3VyWldJaWg2d3RUX0NVRkpHNWQxc2cxWFQwSnFwcnpLYzljcjNiVV9FUHY0UUlFMnNvVkNmZFoyanRoY1N3YUo0b1RzeGQ?oc=5)
 
 2026-05-17
 
-來源：[La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEt2aVZkS3FaenFxQ1ZRMVliZndtb0s1UDg5Y1hMYlZvYmhLQ0ZRdDVZQW42WkdzblZMWXE0Z3d0LXdvQUFvMkMzYm1JWXJqV2k3Rk1hWUJybVRab3Z0azF5amsxY0VZUDJEU09MRERPWHRvd05LLWMyLWRlVWFHNGcxU3JXYWhIVFdFZ2JUSU1vWGNjcmREODZ0UFhqaTQtYllUYWdn0gGrAUFVX3lxTFBkbFgxZk9VUTQ3YWtZdU5DWGZCN05veHNDMnlMcXg0c1N4alRHdHZzTFBraVZmVE8xSDVuT0ZUb3pTS29yOHBMcUppbjlYRnZWVS11UzZiNzc4Slh4QzY2b2tQNVRrMHo1UjB4bFBxUlVTQmlXbWJMd0VScThncTN0TGxRdlAtcHNXamFmanJnclRXZ1hsZWhzbmZjemRBN3AwMEk1bDJld19kbw?oc=5)
+來源：[Cremonaoggi](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEtRQXlqU05VMi1lQ1BYSXBtSUh3THpwLVUtZzNJU0E3SS1fYjJldjBta0N6SEtzV2RyTm5KOXdMbmFvUzA4S3RQQkxGOFhPYjQ3REd6Z3pESnkwRUQybEpvY1BMUURJVVYzVnJJb3VyWldJaWg2d3RUX0NVRkpHNWQxc2cxWFQwSnFwcnpLYzljcjNiVV9FUHY0UUlFMnNvVkNmZFoyanRoY1N3YUo0b1RzeGQ?oc=5)
+
+---
+
+### [“Ho tre amici guariti dal cancro”. Lo show di Mel Gibson fa raddoppiare la vendita di ivermectina - la Repubblica](https://news.google.com/rss/articles/CBMipgFBVV95cUxOU21hNDZublpNcW1kVHRySjFOLVhPYTRXN1ZfRmdqb29JSFRoc1ZPOVcxeUtXdU5YSmpVTnVaY0JTTDF4V0traE5YSFd0amhaMXZiWWE2WjM1UEtadHhLbDBMWVJheVBaYVdjcDFGNktyNE1WbjNYNTZFU3dPUTExSk40cmFOZXBRcS02ZDJBRVVRTUQzMnhKNXRxbm1JV0F6a3A2Qmpn0gGrAUFVX3lxTE5KWmF3ay10YjRPZ0J0THZ6QWxiX093cWlGakhWQy10T2lTTUg3dHp1S0l2SXVhX3pHY2M5Q1ozNVhRbkxvVnFsNDk2MW4wT053d3NLRzNWMHV4Y1kzMGpWejVPamo5bW9oYWFmVzZvSzlHX1pmcGxqeWNuSnYwbW9qUjNXNUxoNHN4Y0V2UHgzcGZnSHZqTmxldzZCU05uanRGd1FGaHhQRXVHSQ?oc=5)
+
+2026-05-17
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMipgFBVV95cUxOU21hNDZublpNcW1kVHRySjFOLVhPYTRXN1ZfRmdqb29JSFRoc1ZPOVcxeUtXdU5YSmpVTnVaY0JTTDF4V0traE5YSFd0amhaMXZiWWE2WjM1UEtadHhLbDBMWVJheVBaYVdjcDFGNktyNE1WbjNYNTZFU3dPUTExSk40cmFOZXBRcS02ZDJBRVVRTUQzMnhKNXRxbm1JV0F6a3A2Qmpn0gGrAUFVX3lxTE5KWmF3ay10YjRPZ0J0THZ6QWxiX093cWlGakhWQy10T2lTTUg3dHp1S0l2SXVhX3pHY2M5Q1ozNVhRbkxvVnFsNDk2MW4wT053d3NLRzNWMHV4Y1kzMGpWejVPamo5bW9oYWFmVzZvSzlHX1pmcGxqeWNuSnYwbW9qUjNXNUxoNHN4Y0V2UHgzcGZnSHZqTmxldzZCU05uanRGd1FGaHhQRXVHSQ?oc=5)
+
+---
+
+### [Colpita da un tumore raro alla testa, donna salvata al Cto con una cranioplastica su misura 3D - la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNDhqSWZKRVFsaHdBNnoxNjNncGtvRk83VWZMOThUR3p1NEd3UUVUQ0ZnNGhHRUdDQ1lqNUh5ekc0NnYtSmVzTDRMMWVBcURGWEYxYkpHUjJLbjN1cG80Wm12MnUzbldza09YcW1SbFJOMjdWVERWT1k3QndNVVN5WWdyaWVVWUg0TUF2c29YbUhYaGoxcm9JYTRvU0tJWWg2eG1hMDFJdFhfVEQw0gGyAUFVX3lxTE5fUGdkR0NGYUYyY1RYVDBFSW1vSVgxZzBrV2dBdGdhcTdvVzA3NC1kU1daR3l3bmlqZlZpbDRjZXF4bi1falpOdlFyTW9hRVRHU2l4c1loY3RySWdkQUU2UVJKclBrUXBlNDNpaWhaRVlRcENqVldaczBaLWVkX3VIZ2ZULXBTNDZZSWVzVVlpc3BMdUY1M1lEbWxScWllSE1iQ1VxUnNWMDFvb2ljbFpyTmc?oc=5)
+
+2026-05-17
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNDhqSWZKRVFsaHdBNnoxNjNncGtvRk83VWZMOThUR3p1NEd3UUVUQ0ZnNGhHRUdDQ1lqNUh5ekc0NnYtSmVzTDRMMWVBcURGWEYxYkpHUjJLbjN1cG80Wm12MnUzbldza09YcW1SbFJOMjdWVERWT1k3QndNVVN5WWdyaWVVWUg0TUF2c29YbUhYaGoxcm9JYTRvU0tJWWg2eG1hMDFJdFhfVEQw0gGyAUFVX3lxTE5fUGdkR0NGYUYyY1RYVDBFSW1vSVgxZzBrV2dBdGdhcTdvVzA3NC1kU1daR3l3bmlqZlZpbDRjZXF4bi1falpOdlFyTW9hRVRHU2l4c1loY3RySWdkQUU2UVJKclBrUXBlNDNpaWhaRVlRcENqVldaczBaLWVkX3VIZ2ZULXBTNDZZSWVzVVlpc3BMdUY1M1lEbWxScWllSE1iQ1VxUnNWMDFvb2ljbFpyTmc?oc=5)
+
+---
+
+### [Ella, 22, given Royal Stoke brain tumour diagnosis - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxONGotbzBaWG1YS05TcnA0c2htQW9PdjAtUlNWaEZNcXFPWjdVUGtVME5iNjNjWVlpSmlHdnlfNWttbDRXTVF0bGpRQXdINW42Z2stLU8wMm9jUjBSb05TX2c0VjJKa1JUWFROT1VCMUR3OGFHZkhhTndWRldyOFBKanNrVDZULWVXcHdlWXg1Q21IRmpYdUHSAZsBQVVfeXFMT3IwUVB0S0NlMVk3VHdwdmVCQ2NpcmhsUVNFOUdSd3BCRF9Xa0daYV9TOG5ScHpWYlY3bEF4emhWQ3c1c0NUWmNrWlZDVUxWMWdNVVQzSkdzUm1zYkJvbDJUMjdfYzljUFJNRHZrWG0tdVBCRlhVVHdtZVFUYjc3bnQzVEZzZ2JmNDZmQ3k1VkJxX092NGJoZTVWMXM?oc=5)
+
+2026-05-17
+
+來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxONGotbzBaWG1YS05TcnA0c2htQW9PdjAtUlNWaEZNcXFPWjdVUGtVME5iNjNjWVlpSmlHdnlfNWttbDRXTVF0bGpRQXdINW42Z2stLU8wMm9jUjBSb05TX2c0VjJKa1JUWFROT1VCMUR3OGFHZkhhTndWRldyOFBKanNrVDZULWVXcHdlWXg1Q21IRmpYdUHSAZsBQVVfeXFMT3IwUVB0S0NlMVk3VHdwdmVCQ2NpcmhsUVNFOUdSd3BCRF9Xa0daYV9TOG5ScHpWYlY3bEF4emhWQ3c1c0NUWmNrWlZDVUxWMWdNVVQzSkdzUm1zYkJvbDJUMjdfYzljUFJNRHZrWG0tdVBCRlhVVHdtZVFUYjc3bnQzVEZzZ2JmNDZmQ3k1VkJxX092NGJoZTVWMXM?oc=5)
 
 ---
 
@@ -296,6 +320,14 @@ permalink: /news/cancer/
 2026-05-17
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirgJBVV95cUxPeW5zZGFydFZEWXFYT0Y1QXU5cGJqUm8wTkF1c1gyQmNUeHNDRUZoRVFQUW5hc3FFNjlBdGpleHowVFFCRHc0TTBTU2pISEc0LUgyVmotSVhuX0gtRnNHcW9rTGRiTE9WRE0xT3o1VTNGZnZ4bVBuTXlTNGc3RURaS3B5clYtRF9IQ0dycmpyczg5aU5kajV6NDVvSVY5b0NiRzRad3VrQ08zcHNEMkllOWVialZ6QWNmdGRSRnIyd2dwUnBwZkNCNVZhZEt5ZE9paHVjd3VkMVJIQVZ5TmV1LWtRN1U1SG9JQUItbW1VTjJBTTliWnZTOUZ4bTVBdTZSYTFGTTlncHhmMU9xNEFxZERjU01mU1JLd1M1VkNHNXdHUWl3bWRnNGlDM3h4QQ?oc=5)
+
+---
+
+### [New Research Reveals Certain Fats Can Either Trigger or Suppress Cancer](https://news.google.com/rss/articles/CBMingFBVV95cUxPZllaeEF2Z0xqdWloTFRhQjZsMDF3bVEyVm50eUhyYTYyX3NpdlowWV9nT0dpeFNleXZXdEZ6dm1sOHdfclBYSVBxUW5iMGl6TU42TW9mV3JJcXFiMVBHSU85U2ZFWTJGSFVMZ1A5Z3JicWtJajE1bWN3X1dIb19XZzNzQmFkRFVYeEFHY0h2XzhNZEw1NllqWmM2UEt1dw?oc=5)
+
+2026-05-17
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxPZllaeEF2Z0xqdWloTFRhQjZsMDF3bVEyVm50eUhyYTYyX3NpdlowWV9nT0dpeFNleXZXdEZ6dm1sOHdfclBYSVBxUW5iMGl6TU42TW9mV3JJcXFiMVBHSU85U2ZFWTJGSFVMZ1A5Z3JicWtJajE1bWN3X1dIb19XZzNzQmFkRFVYeEFHY0h2XzhNZEw1NllqWmM2UEt1dw?oc=5)
 
 ---
 
@@ -368,14 +400,6 @@ permalink: /news/cancer/
 2026-05-16
 
 來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzZwZDZLYXBYNUhsazY2TUpiRmRiMzZLQVZKem9ER2hzZy1uell1T2tBa01lVDBVSXdBaW1BRERJTGFpQzF2TDA3ZVpEdlZYMnY1eFV6T0RZcHBiVV9pX0N6X1dqMkRLOTZiOERmSWFTb1UtaEM1OElzTkxlX19GVU5DTlQ2cTUwT2c?oc=5)
-
----
-
-### [Vitamin B12 is crucial for keeping many parts of the body working properly, so even a small shortage can cause widespread health issues](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlFCcFJFZnZPaWNmX19pV2h4dUpsNU5DNnZ1WlNOTW5XTGRSU3hVS0FaWmhxYklEREN1NmVtRkdZZ2piOWZEeWtZLU1MQlJpV1dpcFRGa1dXcGVHX0JmeE1JMGIxdWV0dlpqNlV0R3lOSnAwNTRUd2NFbU1PRGlYbHBTd0xoMjF6Q2pSWHNTZk5SYjltRGtLRnQ2T2JESGxNaXV6eGVwcWZaMEpl?oc=5)
-
-2026-05-15
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlFCcFJFZnZPaWNmX19pV2h4dUpsNU5DNnZ1WlNOTW5XTGRSU3hVS0FaWmhxYklEREN1NmVtRkdZZ2piOWZEeWtZLU1MQlJpV1dpcFRGa1dXcGVHX0JmeE1JMGIxdWV0dlpqNlV0R3lOSnAwNTRUd2NFbU1PRGlYbHBTd0xoMjF6Q2pSWHNTZk5SYjltRGtLRnQ2T2JESGxNaXV6eGVwcWZaMEpl?oc=5)
 
 ---
 

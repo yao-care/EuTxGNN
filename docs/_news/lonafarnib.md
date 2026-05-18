@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 heart disease</span></li>
+<li>heart disease（97.8%）</li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,29 +52,21 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [La hipertensión causa casi 11 millones de muertes cardiovasculares al año, 46.000 solo en España - Salud a Diario](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGQyUHZOTlZCcXVxcEU3TGk4bW5DVEFBTlpUSC1ReVhxbDFXYkJlcnFmbWdnc1JCRkJYTndXV0pCYmpkeWpFckVVQnBjUHl6WEg1dW95UmI1bnZZZHVBcFBmcXA0cDZHRjV2bkIwY0oxZ244dTZjMW16X0dSWEc2R0FLZzN0a2tTbUxQQm1EU3loSW85UXJ3RVc5MHl6dWFWOW5DUXNoNW8tNFZIWE4tam5DdDlkdGduWU50bVRPd0pDZmtZaWdONkpld28zR2c1bVhFVQ?oc=5)
+### [Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
-2026-05-17 <span class="news-indication-tag">hipertensión</span>
+2026-05-17 <span class="news-indication-tag">hypertension</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGQyUHZOTlZCcXVxcEU3TGk4bW5DVEFBTlpUSC1ReVhxbDFXYkJlcnFmbWdnc1JCRkJYTndXV0pCYmpkeWpFckVVQnBjUHl6WEg1dW95UmI1bnZZZHVBcFBmcXA0cDZHRjV2bkIwY0oxZ244dTZjMW16X0dSWEc2R0FLZzN0a2tTbUxQQm1EU3loSW85UXJ3RVc5MHl6dWFWOW5DUXNoNW8tNFZIWE4tam5DdDlkdGduWU50bVRPd0pDZmtZaWdONkpld28zR2c1bVhFVQ?oc=5)
+來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
 ---
 
-### [Pressione alta: non è una cosa (solo) per anziani. Molti ignorano il proprio stato o lo trascurano - Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQw?oc=5)
+### [Pressione alta: non è una cosa (solo) per anziani. Molti ignorano il proprio stato o lo trascurano - Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
 
 2026-05-17 <span class="news-indication-tag">ipertensione</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQw?oc=5)
-
----
-
-### [This Common Type of Food May Be Raising Your Risk of Heart Disease](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5)
-
-2026-05-15 <span class="news-indication-tag">heart disease</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
 
 ---
 
