@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Wearables und digitale Aktivitätsdaten bei entzündlicher Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
+
+2026-05-18 <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
+
+---
+
+### [Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ?](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+
+2026-05-17 <span class="news-indication-tag">arthrite</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+
+---
 
 ### [Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
@@ -70,11 +86,11 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Pressione alta: non è una cosa (solo) per anziani. Molti ignorano il proprio stato o lo trascurano - Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
+### [What does stress really do to our bodies – and when does it become a big problem? - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
 
-2026-05-17 <span class="news-indication-tag">ipertensione</span>
+2026-05-17 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
 
 ---
 

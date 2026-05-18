@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+### [Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
 
-2026-05-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+
+---
+
+### [Magen-OP kann Diabetes verbessern – auch Darmflora spielt mit - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+
+---
+
+### [Un tout nouveau dommage collatéral de l'Ozempic vient d'être pointé du doigt: "Il ne change pas seulement le corps"](https://news.google.com/rss/articles/CBMinAJBVV95cUxPNlY2Vi1XbVFSLUt5cDBpQmNRVjh6My1JT01FU0ZxN0tyYllCY25EbFJJSGhkRkd3WmRHWmg1YjZYM2tCNEpGMnlMS3MxWXowVzUwNUhBVFQxc2hCU0hjLWY3RTVwa1FnaFFubUppaTlsNy1qaFlKYmRaS0ZlbEF3S25ub2k3d3hnbXd3YUlMWnBkVjVPYktxSDN0SlZfRXI0MW1MRU1KSm1xcERJcldDY0RWcm9teGcxQ2ZKWTJKU1h6WFRnWmd2UHl1N0xmX3EyZDZfbG1NYTRuMHBOY1FMUmM2MVBFano5WGRQdzFZWmRGalJhVDBpaFpVRGVmY3REQVZUbS1scHRjeWl2TVVhZnpkN2lIUk9FMEpfMg?oc=5)
+
+2026-05-16 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[parismatch.be](https://news.google.com/rss/articles/CBMinAJBVV95cUxPNlY2Vi1XbVFSLUt5cDBpQmNRVjh6My1JT01FU0ZxN0tyYllCY25EbFJJSGhkRkd3WmRHWmg1YjZYM2tCNEpGMnlMS3MxWXowVzUwNUhBVFQxc2hCU0hjLWY3RTVwa1FnaFFubUppaTlsNy1qaFlKYmRaS0ZlbEF3S25ub2k3d3hnbXd3YUlMWnBkVjVPYktxSDN0SlZfRXI0MW1MRU1KSm1xcERJcldDY0RWcm9teGcxQ2ZKWTJKU1h6WFRnWmd2UHl1N0xmX3EyZDZfbG1NYTRuMHBOY1FMUmM2MVBFano5WGRQdzFZWmRGalJhVDBpaFpVRGVmY3REQVZUbS1scHRjeWl2TVVhZnpkN2lIUk9FMEpfMg?oc=5)
 
 ---
 

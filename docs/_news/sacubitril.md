@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,39 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（4 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+
+---
+
+### [Wearables und digitale Aktivitätsdaten bei entzündlicher Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
+
+2026-05-18 <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
+
+---
+
+### [Magen-OP kann Diabetes verbessern – auch Darmflora spielt mit - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+
+---
+
+### [Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ?](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+
+2026-05-17 <span class="news-indication-tag">arthrite</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+
+---
 
 
 <div class="disclaimer">

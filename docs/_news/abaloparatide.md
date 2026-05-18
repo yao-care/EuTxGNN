@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+
+---
+
+### [Magen-OP kann Diabetes verbessern – auch Darmflora spielt mit - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+
+---
 
 ### [Emicrania, oltre ai farmaci servono ascolto e attenzione - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFWUFQ5ak9LM3lHdE1jd2EwNkhrTEowT1NUNDNKcmVlRGY0bERVZnpFQzhPNTJDeVV6dl9vLXhvaFJDVWlCd2xQOU0tTVBPT0V6VE9mZnBSQnhpa2cyYVBuMHo4NzdFYUpMSnh6TGIzV0d5R3llU1ZZVFppeER2SVAxOURVVGJUZGxjUDZ4ZXFKT0toXy1wV0ZHWFVPZXl0SlNvSUQ2b1BzRm16bktCVXVLODNYa2JsRFI2U1pUTGU?oc=5)
 

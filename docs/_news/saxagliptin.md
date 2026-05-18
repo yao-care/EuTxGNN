@@ -14,7 +14,7 @@ permalink: /news/saxagliptin/
 ---
 
 <p class="key-answer" data-question="Saxagliptin 有什麼相關新聞？">
-<strong>Saxagliptin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Saxagliptin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/saxagliptin/
 <p><a href="{{ '/drugs/saxagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+
+---
+
+### [Magen-OP kann Diabetes verbessern – auch Darmflora spielt mit - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+
+---
 
 
 <div class="disclaimer">

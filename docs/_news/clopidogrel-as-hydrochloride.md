@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Wearables und digitale Aktivitätsdaten bei entzündlicher Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
+
+2026-05-18 <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
+
+---
+
+### [Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ?](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+
+2026-05-17 <span class="news-indication-tag">arthrite</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+
+---
 
 ### [Emicrania, oltre ai farmaci servono ascolto e attenzione - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFWUFQ5ak9LM3lHdE1jd2EwNkhrTEowT1NUNDNKcmVlRGY0bERVZnpFQzhPNTJDeVV6dl9vLXhvaFJDVWlCd2xQOU0tTVBPT0V6VE9mZnBSQnhpa2cyYVBuMHo4NzdFYUpMSnh6TGIzV0d5R3llU1ZZVFppeER2SVAxOURVVGJUZGxjUDZ4ZXFKT0toXy1wV0ZHWFVPZXl0SlNvSUQ2b1BzRm16bktCVXVLODNYa2JsRFI2U1pUTGU?oc=5)
 

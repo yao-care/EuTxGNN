@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Three months after my stroke at 31 my husband did unthinkable to me & our baby - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
 
@@ -75,22 +75,6 @@ permalink: /news/orlistat/
 2026-05-16 <span class="news-indication-tag">AVC</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5)
-
----
-
-### [How weight loss jabs have changed the battle with obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
-
-2026-05-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raWhHVWw4NmdUVnAyX1owX25kakNhMGtPQ3JHWDRZWTk0a3pGcnhlME9YODBLOUo1N3BGbm5JTUJMQm5KLVN3MUdNUkppdXY2MUdBWFFmc3dPN3Yy?oc=5)
-
----
-
-### [Studie: Frauen mit 3 oder mehr Kindern haben geringeres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
-
-2026-05-16 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
 
 ---
 

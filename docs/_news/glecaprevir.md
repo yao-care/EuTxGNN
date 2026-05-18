@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,61 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（13 則）
 
-### [¿Por qué la OMS ha declarado la emergencia internacional por el ébola, aunque no sea una pandemia? - La Voz de Galicia](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3J3M1BPVFlNeUNNWjQtQmEtQk1MU2Fscmg3UDZ3eGVOUUtfbGx5dWlJVVlKN21pbTVWeDVhWjFlNmRCNENOWEhDeWNsMk5MSkNDQVRkZ2VFbXJadVNqeDZTcGE5VXFXM3hwNFU3YjFSTFpYZ1Mzdm5xMjRxcWtReFlmYk40V2JLVDFQd04zUGJrWFhERE5ZOWszbkFkZHFBV2tZbXFWSkhYMmtoOWw1TU1xbTVMX0RTdDdtaEZYZ19VY0UwVVZkMDRiQTZKeGY3dE1QejZ3?oc=5)
+### [Se intensifica lucha mundial por contener nuevo brote de ébola mientras EE.UU. busca reubicar a "pequeño número" de afectados - CNN en Español](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmVVdkFsVGRpX0ZUQkdTZlJpWFZDLVRJQkstUUxILTV4QXBGLW9PX0ZIaDNxTUYtb1pEZ3NXb1JScEdoVDd5V2M4U2RselExOGJaczdiamFVTWRmTFhjY0J4WjZrMFZBWVRNRXlWWFNhMzFtUUtyT3N5VG1XUXl1TjdZX1FsWUdyTDdWS2lUT1MxLWFZbVVj?oc=5)
 
 2026-05-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3J3M1BPVFlNeUNNWjQtQmEtQk1MU2Fscmg3UDZ3eGVOUUtfbGx5dWlJVVlKN21pbTVWeDVhWjFlNmRCNENOWEhDeWNsMk5MSkNDQVRkZ2VFbXJadVNqeDZTcGE5VXFXM3hwNFU3YjFSTFpYZ1Mzdm5xMjRxcWtReFlmYk40V2JLVDFQd04zUGJrWFhERE5ZOWszbkFkZHFBV2tZbXFWSkhYMmtoOWw1TU1xbTVMX0RTdDdtaEZYZ19VY0UwVVZkMDRiQTZKeGY3dE1QejZ3?oc=5)
+來源：[CNN en Español](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmVVdkFsVGRpX0ZUQkdTZlJpWFZDLVRJQkstUUxILTV4QXBGLW9PX0ZIaDNxTUYtb1pEZ3NXb1JScEdoVDd5V2M4U2RselExOGJaczdiamFVTWRmTFhjY0J4WjZrMFZBWVRNRXlWWFNhMzFtUUtyT3N5VG1XUXl1TjdZX1FsWUdyTDdWS2lUT1MxLWFZbVVj?oc=5)
 
 ---
 
-### [L'epidemia di Ebola nel cuore dell'Africa: almeno 80 morti. L'appello dell'Oms - Corriere della Sera](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRElpMlFfaWFIUDJ1MmMtcC1WX2diZDdYNVRKeWFPaF8tMzh0bF9DVnhlWE5SMUVvZ25LVUdfRXBCY1NPeWtabnBqaFdYcGZEZlNsWlhTb3g2R1IzTUs0U21USDVnOFRHbi1NNThCRTFodFRwUGNkZHBvVkk3Sm92VFpWQkYtMnZ3bjFqbjJiY21fLTI2MU0xNkFjbFhtX3hqSm1CUHJ4c256b3g4LTBsLVc0Z2JpRDFHX3o2MlUtTE1ZUzlxMC0tYjZ0Qmh2d2h3dHNBLXM5YW9iMUVIQmdoS01nT3dyNmxORVhoNjgyVW1McjYtTVHSAfsBQVVfeXFMUEdwOTJRRFZpbDZhM1ZPaTNNbEMtWGFpR0M2UG9xUUpMREdwWjdsRTBwMzA5UHZFVmhYdGptWG0zY0lZMnktVl9OM1ptbFAyS3B1ZWxQQTBXSGhldWE5ZG03V3YzQ2JsdFUtdjlpQ0Y1NV9wV2owa25tRU82b1JyLWsyelVMUllrZlcyM2NCMGk4Z2JhQlJ3a3V3ZE5zeldXYUxwZG15MVFnTGlTdkl0V0k5Rlh2RVprVWZkN2J0TWpUWDdXeGxzeWlibVpPVUVTTmxLN19PQVNhMi1vSXJfZDJXdGJFMlJTeUhIM2d6TlhSdExONS1TZFd3emM?oc=5)
+### [Hantavirus su nave da crociera, oggi la Hondius arriva a Rotterdam. Oms: “Basso rischio” - Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE5sMVJmT2Z3U0VsVy1Fd0g4aTFnOWlPdzRjNnNnbnc3cWJET29ScWdoSTVjQVJGN0NnbThuODJiTDhfajRla3ozMXo5RUdqbFU4YTQtd1Q2VVc2czFHSTl0VWJleDk3dVNIMzctTjgxLTFqZE54TTBsNkNhZks?oc=5)
 
-2026-05-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-18 <span class="news-indication-tag">MS</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRElpMlFfaWFIUDJ1MmMtcC1WX2diZDdYNVRKeWFPaF8tMzh0bF9DVnhlWE5SMUVvZ25LVUdfRXBCY1NPeWtabnBqaFdYcGZEZlNsWlhTb3g2R1IzTUs0U21USDVnOFRHbi1NNThCRTFodFRwUGNkZHBvVkk3Sm92VFpWQkYtMnZ3bjFqbjJiY21fLTI2MU0xNkFjbFhtX3hqSm1CUHJ4c256b3g4LTBsLVc0Z2JpRDFHX3o2MlUtTE1ZUzlxMC0tYjZ0Qmh2d2h3dHNBLXM5YW9iMUVIQmdoS01nT3dyNmxORVhoNjgyVW1McjYtTVHSAfsBQVVfeXFMUEdwOTJRRFZpbDZhM1ZPaTNNbEMtWGFpR0M2UG9xUUpMREdwWjdsRTBwMzA5UHZFVmhYdGptWG0zY0lZMnktVl9OM1ptbFAyS3B1ZWxQQTBXSGhldWE5ZG03V3YzQ2JsdFUtdjlpQ0Y1NV9wV2owa25tRU82b1JyLWsyelVMUllrZlcyM2NCMGk4Z2JhQlJ3a3V3ZE5zeldXYUxwZG15MVFnTGlTdkl0V0k5Rlh2RVprVWZkN2J0TWpUWDdXeGxzeWlibVpPVUVTTmxLN19PQVNhMi1vSXJfZDJXdGJFMlJTeUhIM2d6TlhSdExONS1TZFd3emM?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE5sMVJmT2Z3U0VsVy1Fd0g4aTFnOWlPdzRjNnNnbnc3cWJET29ScWdoSTVjQVJGN0NnbThuODJiTDhfajRla3ozMXo5RUdqbFU4YTQtd1Q2VVc2czFHSTl0VWJleDk3dVNIMzctTjgxLTFqZE54TTBsNkNhZks?oc=5)
 
 ---
 
-### [Scientists reveal how seven days of fasting transforms the human body](https://news.google.com/rss/articles/CBMib0FVX3lxTE45MXFveXFVZ2tiWjdQa1ZkWU4temYxQ2Z0TkJVU0VCTEN1Z2xpT09jM05oa01vNXVRRXlWZFNNeWdFM0VUc1luMDJvdk0tbHQ5bXlJYUlqSFRTY3BOYUFwZ2prMW9idm1xX29MZFJYTQ?oc=5)
+### [British baby dies of e-coli after staying at five-star resort as other parents feel 'completely helpless' - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTFBxcUF4UmsyelJMa3BERnA1NTRScDZsTXlGYi1CMTNQaVJLekpDZzNEVVBiczVzZXdzZTZweTdDRkRKbmNOLTJxZlF4YVJoOTlKRkhNelByRnpMd3QybWlPS1pzN3oxS2t0eDZrWnZoR204dmJZUXoxY0kyc9IBgAFBVV95cUxPTkdackdGeG1QaTByU3VnOXp1RUZIQ2tfWEhoM3AyX1F0cmhQcWthVkh2LU80YWpBcVFEN3ROSXRWX1JJcTFhd3E3dzhfaHpZc1RwM3ZhZ1pwcnVIb3J4LUJEdERSaHdFZHAxTHlrZjJVY0RwOHhaRnBoT0lwRUhtdQ?oc=5)
+
+2026-05-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTFBxcUF4UmsyelJMa3BERnA1NTRScDZsTXlGYi1CMTNQaVJLekpDZzNEVVBiczVzZXdzZTZweTdDRkRKbmNOLTJxZlF4YVJoOTlKRkhNelByRnpMd3QybWlPS1pzN3oxS2t0eDZrWnZoR204dmJZUXoxY0kyc9IBgAFBVV95cUxPTkdackdGeG1QaTByU3VnOXp1RUZIQ2tfWEhoM3AyX1F0cmhQcWthVkh2LU80YWpBcVFEN3ROSXRWX1JJcTFhd3E3dzhfaHpZc1RwM3ZhZ1pwcnVIb3J4LUJEdERSaHdFZHAxTHlrZjJVY0RwOHhaRnBoT0lwRUhtdQ?oc=5)
+
+---
+
+### [Oms, emergenza internazionale per raro ceppo di ebola. Burioni: "E' un virus pericolosissimo"](https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2tOUjY3ZEZEb1ExT01oUl91eFVFaVR1WWhqeVJxakNXQ3dKUlE4M1dnX1dIX0FjNDZIaGFtZVNIa1ZTMjNqZmM0Sl9Id0Z2YXdwV2VwZm9YMW5IcjZKRGJhYW1nS1BSLVFtSEh3SndPZ0JoUW0wX3lycUk0SnRRbmwwdTl5S2s3cXJmV2JCTlRfdnM4SXAwVDliRXhvS1NLSHJ2NVhMaTg2RnhQWW5SRVdPc0JtcmR5ZzM4X25Dc9IBxAFBVV95cUxQM1prLU1PRk5GdEU4bm43aWh6WTJmTjd4SXMwZTl3MzcyUUFpT2tZbkVaelNYVU9YUFljeXVyNG5rNFdjTFJlZlhLWE5veDVUMUtkLVFjUURBd3N0ZUh0ZmxpS19hMzRIa1o2bmlYZnUzcllKTWE3VWVpZlFldGJVbWxMU1VkRnRfVjc4Z1c3eFN2UnBSMzhOdlJXbTZ6bVhMSXpPZkhjSHREcGM2dGZVQ0lvb29GZXpIZjQtc2doZU5ldmE0?oc=5)
+
+2026-05-18 <span class="news-indication-tag">MS</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2tOUjY3ZEZEb1ExT01oUl91eFVFaVR1WWhqeVJxakNXQ3dKUlE4M1dnX1dIX0FjNDZIaGFtZVNIa1ZTMjNqZmM0Sl9Id0Z2YXdwV2VwZm9YMW5IcjZKRGJhYW1nS1BSLVFtSEh3SndPZ0JoUW0wX3lycUk0SnRRbmwwdTl5S2s3cXJmV2JCTlRfdnM4SXAwVDliRXhvS1NLSHJ2NVhMaTg2RnhQWW5SRVdPc0JtcmR5ZzM4X25Dc9IBxAFBVV95cUxQM1prLU1PRk5GdEU4bm43aWh6WTJmTjd4SXMwZTl3MzcyUUFpT2tZbkVaelNYVU9YUFljeXVyNG5rNFdjTFJlZlhLWE5veDVUMUtkLVFjUURBd3N0ZUh0ZmxpS19hMzRIa1o2bmlYZnUzcllKTWE3VWVpZlFldGJVbWxMU1VkRnRfVjc4Z1c3eFN2UnBSMzhOdlJXbTZ6bVhMSXpPZkhjSHREcGM2dGZVQ0lvb29GZXpIZjQtc2doZU5ldmE0?oc=5)
+
+---
+
+### [Medic treated in UK as nine Britons exposed to hantavirus arrive - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzVEN1o2ODhpbUp1ZmtTUzhMVHpfSm1WbFdTbjNtMFcxbktwWTZOT2IwQUJFcjBOT3JzekVMN010dG9UajhTLThUYV9LLVE4S0dsMHotazJzZ01zZnZQQnpHXzZkNHpJeXRaWVhXc1hRRUx2bEJNQlRwSEJJVFRvY3UzT2tMNHhDNzBVbGt6VUJjcjNNS2t3WHFLYUN5RlptTmVZZjF3aw?oc=5)
 
 2026-05-17 <span class="news-indication-tag">MS</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE45MXFveXFVZ2tiWjdQa1ZkWU4temYxQ2Z0TkJVU0VCTEN1Z2xpT09jM05oa01vNXVRRXlWZFNNeWdFM0VUc1luMDJvdk0tbHQ5bXlJYUlqSFRTY3BOYUFwZ2prMW9idm1xX29MZFJYTQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzVEN1o2ODhpbUp1ZmtTUzhMVHpfSm1WbFdTbjNtMFcxbktwWTZOT2IwQUJFcjBOT3JzekVMN010dG9UajhTLThUYV9LLVE4S0dsMHotazJzZ01zZnZQQnpHXzZkNHpJeXRaWVhXc1hRRUx2bEJNQlRwSEJJVFRvY3UzT2tMNHhDNzBVbGt6VUJjcjNNS2t3WHFLYUN5RlptTmVZZjF3aw?oc=5)
 
 ---
 
-### [Hantavirus, nuova circolare del ministero, focus sulla "preparedness" e il coordinamento](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQm1nYjZ6N0hmRzZQQUsyelVLWHNQYWFRdV9Hd2IzSThCdGIweDFDZjJ2X01Ga3p6OEJPY1VQT0VsTHdTQ3dzV1ZscWZDeTU2UWVRTmN1ZEdqd09DTnE5aUFQX1Y0eTZyc0EwWEdjTFNIdWhIUnU3cFJfZHBaS1JmdUVBY21nWF9yNHRsck9sZ2ctbHVHX2h1ZGNSN2g3aGd2ek1pa1BFU2xYdWppSFJ6Z1ctbXp3TTJRX1E?oc=5)
+### [18.05.26 - Studie: Hantavirus bis zu 6 Jahre im Körper nachweisbar](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWZuRWUwd0p4OTNzbnZFeWZRb2ZkVFkzbUt1TXVxLWFYQzFoREhVWlB4QjZnN1A2bWcxdmJrdmhvdVZpb054cTdjcDFCV1pqcDNaUXE3SG1ldERwaEVSaC1VY0d6RlI5OUp0LUxYUmh4SkFRVDA4NWZFM1FsMkhpeGNabXRobk9Rb09z?oc=5)
 
 2026-05-17 <span class="news-indication-tag">MS</span>
 
-來源：[RIFday](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQm1nYjZ6N0hmRzZQQUsyelVLWHNQYWFRdV9Hd2IzSThCdGIweDFDZjJ2X01Ga3p6OEJPY1VQT0VsTHdTQ3dzV1ZscWZDeTU2UWVRTmN1ZEdqd09DTnE5aUFQX1Y0eTZyc0EwWEdjTFNIdWhIUnU3cFJfZHBaS1JmdUVBY21nWF9yNHRsck9sZ2ctbHVHX2h1ZGNSN2g3aGd2ek1pa1BFU2xYdWppSFJ6Z1ctbXp3TTJRX1E?oc=5)
+來源：[Tropeninstitut](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWZuRWUwd0p4OTNzbnZFeWZRb2ZkVFkzbUt1TXVxLWFYQzFoREhVWlB4QjZnN1A2bWcxdmJrdmhvdVZpb054cTdjcDFCV1pqcDNaUXE3SG1ldERwaEVSaC1VY0d6RlI5OUp0LUxYUmh4SkFRVDA4NWZFM1FsMkhpeGNabXRobk9Rb09z?oc=5)
+
+---
+
+### [Canada confirms first hantavirus case in isolation in British Columbia - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
+
+2026-05-17 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
 
 ---
 
@@ -94,19 +118,43 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Study shows simple diet method means you lose more weight and keep it off - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0htelZtb0FnY1VPYU5RU2o4UTRWMFQ3b25sY3pGbGswSnJkSVFhRi1hMmFuSmdabzFHeTdRZFptYkd3M1pWMThWRU4xRW0xNDlSaDFiMFduTndHM1NTUWhLOURyTTFmME11RGhoRndKV1ZvYXZJRXVtNnM2eGJuMFpB0gGHAUFVX3lxTE9xMVd1R21FcTRBdUR5V24zdzY0eDFUREZYQ2ppQ0xicWk1VUJZRzJFU09XS3NUWkgxMnY3Q0E2SE9RQmVMQWJGcVJQYjNNd2xfY002c09QZG0wN2JJdFM2RUwwMGRkbVc5bUcwdjJqZC1GR182WTR0U2pSZDVQbDUtYndjTjA0dw?oc=5)
+### [Scientists Discover Hidden “Switch” That Burns Fat and Could Treat Bone Disease](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWG1XTFB5aDNMSVczcnRWTWRTZ3ZqSDVaSFIwUk1fSGdlbjBweGRZSktsaE9qN0RkYk95UTFYNGZ6djZWaF9CeTdFamphXzR1eXpERWd6SWJkS0syZDNUUl9DR2dDM01Pd04tZ2VNa3N0V2NHZTFPQWN2MGVUdEdMeXZTUlR2VEF0cHZDcGV5NmpCQTVNOXlubTA4bmxtd29xWnBLWTFR?oc=5)
 
 2026-05-17 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0htelZtb0FnY1VPYU5RU2o4UTRWMFQ3b25sY3pGbGswSnJkSVFhRi1hMmFuSmdabzFHeTdRZFptYkd3M1pWMThWRU4xRW0xNDlSaDFiMFduTndHM1NTUWhLOURyTTFmME11RGhoRndKV1ZvYXZJRXVtNnM2eGJuMFpB0gGHAUFVX3lxTE9xMVd1R21FcTRBdUR5V24zdzY0eDFUREZYQ2ppQ0xicWk1VUJZRzJFU09XS3NUWkgxMnY3Q0E2SE9RQmVMQWJGcVJQYjNNd2xfY002c09QZG0wN2JJdFM2RUwwMGRkbVc5bUcwdjJqZC1GR182WTR0U2pSZDVQbDUtYndjTjA0dw?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWG1XTFB5aDNMSVczcnRWTWRTZ3ZqSDVaSFIwUk1fSGdlbjBweGRZSktsaE9qN0RkYk95UTFYNGZ6djZWaF9CeTdFamphXzR1eXpERWd6SWJkS0syZDNUUl9DR2dDM01Pd04tZ2VNa3N0V2NHZTFPQWN2MGVUdEdMeXZTUlR2VEF0cHZDcGV5NmpCQTVNOXlubTA4bmxtd29xWnBLWTFR?oc=5)
 
 ---
 
-### [Canada confirms first hantavirus case in isolation in British Columbia - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
+### [Des essais historiques en France menés au CHU de Nîmes : contre l'alcoolisme, l'étonnant pouvoir de la psilocybine - La Provence](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMG5XQi0tMV90bmxJOThfU0xKLVUxU2JNQm5nWEhPa2JpNG80QlVydTRzb01FbkpTbUhYSjJVWlhvR0I0c0dpemZfWXBLUlJZRllxcnUyN011LUpYVXZyeTcyZ09HZW9fN0tRQ2NoeEhFU0ZyTWVhOU5PVmVTMEtVZW83R2Z0MnJmOGJSdUZDRWxkRmRKYWpfMzI5SnNkUkx3RjAwcG5CbUo5TmJGcm1rcG1GYTBwcjlzM0xCanNpTF90Y2puMGUwRnRuRXhnYUxqQ1doR0RsZkU5dkNnZHFGNC1vTlk5Q0pjR0d5MC16NXQ4eDg0NkhDaVdaUQ?oc=5)
+
+2026-05-17 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+
+來源：[La Provence](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMG5XQi0tMV90bmxJOThfU0xKLVUxU2JNQm5nWEhPa2JpNG80QlVydTRzb01FbkpTbUhYSjJVWlhvR0I0c0dpemZfWXBLUlJZRllxcnUyN011LUpYVXZyeTcyZ09HZW9fN0tRQ2NoeEhFU0ZyTWVhOU5PVmVTMEtVZW83R2Z0MnJmOGJSdUZDRWxkRmRKYWpfMzI5SnNkUkx3RjAwcG5CbUo5TmJGcm1rcG1GYTBwcjlzM0xCanNpTF90Y2puMGUwRnRuRXhnYUxqQ1doR0RsZkU5dkNnZHFGNC1vTlk5Q0pjR0d5MC16NXQ4eDg0NkhDaVdaUQ?oc=5)
+
+---
+
+### [Overall Brain Health Protects Memory From Early Alzheimer’s - Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
 
 2026-05-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
+
+---
+
+### [Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
+
+2026-05-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
+
+---
+
+### [Social media star makes up to £220k a month ‘curing ugliness’ - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNdkMtanVLb09USXNRVmQ2ZUpCTTV1cHJ4eWJzMDVwcndwQVpETEx2amRVTmdqZUV2OUhfWkYtTWJNTEJGTlJJYTZBZ0YxRFhpOEdGN3NxUkpQOGlpS1gwNm1zTEozd2ozazBpbHlEWjd0RTFnV2lGYkhYd08wQUszZjh0TEdwTzQxcUdYLXdjVFdqNzFrZ1VHRkhaWjlMdw?oc=5)
+
+2026-05-16 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNdkMtanVLb09USXNRVmQ2ZUpCTTV1cHJ4eWJzMDVwcndwQVpETEx2amRVTmdqZUV2OUhfWkYtTWJNTEJGTlJJYTZBZ0YxRFhpOEdGN3NxUkpQOGlpS1gwNm1zTEozd2ozazBpbHlEWjd0RTFnV2lGYkhYd08wQUszZjh0TEdwTzQxcUdYLXdjVFdqNzFrZ1VHRkhaWjlMdw?oc=5)
 
 ---
 

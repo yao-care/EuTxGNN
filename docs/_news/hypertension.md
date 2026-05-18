@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# ipertensione（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -93,11 +93,11 @@ permalink: /news/hypertension/
 
 ---
 
-### [Pressione alta: non è una cosa (solo) per anziani. Molti ignorano il proprio stato o lo trascurano - Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
+### [What does stress really do to our bodies – and when does it become a big problem? - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
 
 2026-05-17
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
 
 ---
 

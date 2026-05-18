@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
@@ -78,11 +78,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Pressione alta: non è una cosa (solo) per anziani. Molti ignorano il proprio stato o lo trascurano - Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
+### [What does stress really do to our bodies – and when does it become a big problem? - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
 
-2026-05-17 <span class="news-indication-tag">ipertensione</span>
+2026-05-17 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinAJBVV95cUxNSG9OUXVOOVUxdmJMWVgtb2NzalRhVnFTS0tnaV9rcEZEQU5HdUc5U2RlQl9ZWXdZWmZNN1ZlOTZaZkpkbmxHY3FMYV9oNFFwY0lQQXdXejkyNnJLZnZIdnF2Tnp3Zm5fRHNQcUlnNnhRY3RCWV9VeXppRkhnNnJ0UWZkdDFJbEg4S2E0SFRQdFpudjFEcmRuckR3Xy1YNEM2dmpGUzBHSmpqZUJRbmsyaUdEcE5pVE5NZmtqb2lzWWZmQVJPSmFMTWk0SDdldEV3NXdXaUE0YVUwX2NKTjBrZVZnR2RoR0pqVlluUlpBOHgzMVpMOHNQUkJOVzBpcUxfN3VnWER4amxrZThPNXoxNjQzVjc1WGM3dVlNQ9IBogJBVV95cUxPVkZnN1I2S2NMQU1POW82b1E5VUEwb1NSbUx1ZW54aXYwdmFqSTBNNGJ6anZ0T0JjeVNjY1VHX3ZzZ3J4LXVjUW1DdHFUa3JwcFdiSTJScFV3eGlXQjRuRVlKbUZNemVjcFBKSVQtX2szNWRDYTFGUnppNlBaUnNVc0FFckwzQjNKUlItUklRSEZaYmhMTXV3clFLWVZ4SlRrUy1VdjVROWpuUjFnZXVhQWJIT2RfTVRaNmlhNDZXWHBMcTZ4VUdHQWdYRmExdmtxNVJZQXJEdndSWGJNRVV0MGRNSkpMVHprZWF2ZXZVYlI3WDJFMDBUZmtNbXZXMzhpOEZkTUxpTjRlOGt4WG91d3M0eXdRdnZ2MWdGR2VBRm5BZw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/telmisartan/
 2026-05-16 <span class="news-indication-tag">AVC</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5)
-
----
-
-### [Studie: Frauen mit 3 oder mehr Kindern haben geringeres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
-
-2026-05-16 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9ZTDhzdW5fU3BSOTVTWHNqc1QzVDUtb1ZrUmM5ZDdQdFBLRnVXTGxTNWZEaHQtUUk4TmI0aGdCbXZ6NFE2MncxMTI5eUdDc25JWm5ScmM4TGdIS1ZaVzVkbDBWYjJOaHNaQ3NSYy0ycFpjd1ljdGVTR3VESk96T2JhczJxUTZCVDRzUENfT0tkTXdH?oc=5)
 
 ---
 
