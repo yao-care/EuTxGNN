@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "ipertensione（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# ipertensione（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
+<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,19 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（2 則）
 
+### [Ipertensione, Iss: un problema per quasi la metà degli italiani](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
+
+2026-05-18
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
+
+---
+
 ### [Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
 2026-05-17
 
 來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
-
----
-
-### [What does stress really do to our bodies – and when does it become a big problem? - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
-
-2026-05-17
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cinacalcet-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cinacalcet Hydrochloride 有什麼相關新聞？">
-<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/cinacalcet-hydrochloride/
 <p><a href="{{ '/drugs/cinacalcet-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
 
 ### [Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
 
 2026-05-18 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
+
+---
+
+### [Kostenlose HPV-Impfung: Piks holen, Mocktail trinken“: Aktion für Jugendliche in Winsen gestartet](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWExWcGFjV2JyMFNMRTNlMGFaUU1mMjhSWktOdjlzS1JjWjRPaWl4WkNmVlFBZ2YzVjd3RTBhWE01c3ZtZTJfNlBUcVpKUVpBYUtYRXpnM1F2c1BrcEpOVGRBaXktNU9UNW10ODJNN3YxdmJQN2Y4bWdWbHRHSXdzM2tTNDZDY2tISmhnNmxyLWswdzNZb1ZOUkJUVmJVc0UyVHh6T0NnS3R5VXBIZy0wSS01WFVxa3ZXX0ZHeTdlYXhjaGMyb2ZGVC1IUEJJcVZtVkZv?oc=5)
+
+2026-05-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[kreiszeitung-wochenblatt.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWExWcGFjV2JyMFNMRTNlMGFaUU1mMjhSWktOdjlzS1JjWjRPaWl4WkNmVlFBZ2YzVjd3RTBhWE01c3ZtZTJfNlBUcVpKUVpBYUtYRXpnM1F2c1BrcEpOVGRBaXktNU9UNW10ODJNN3YxdmJQN2Y4bWdWbHRHSXdzM2tTNDZDY2tISmhnNmxyLWswdzNZb1ZOUkJUVmJVc0UyVHh6T0NnS3R5VXBIZy0wSS01WFVxa3ZXX0ZHeTdlYXhjaGMyb2ZGVC1IUEJJcVZtVkZv?oc=5)
+
+---
+
+### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+2026-05-18 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+---
+
+### [Tumore al seno, la rete oncologica bergamasca rafforza il follow up tra ospedali e territorio - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1p3T3pCVXg0eC1FeDJET3FhYmlkN0ExTjJLejhmLVlNQnlqdFFaM2RDaUVNbS01MHFBT2NQWG9JZDY1UW5tMW5lSnFUMDRDUEFTVDRqeUpzQTVEbjd3RmJNYUIxTmVKUGFjWTlyRHl0UERMT2xMbHkxaDZCRVRPbExMbzhKbTI1b3FEV0hrcTNNOHFRZU9GMmdmajZnSnB6YURzRXVWaW9fd1BIamRFenU4dXZOY2d0dTVRSmw0Z0Mtc21aa0d5QVJaWEQ1eVRTTUg4MTFsQ2liSTFEZHd0NA?oc=5)
+
+2026-05-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1p3T3pCVXg0eC1FeDJET3FhYmlkN0ExTjJLejhmLVlNQnlqdFFaM2RDaUVNbS01MHFBT2NQWG9JZDY1UW5tMW5lSnFUMDRDUEFTVDRqeUpzQTVEbjd3RmJNYUIxTmVKUGFjWTlyRHl0UERMT2xMbHkxaDZCRVRPbExMbzhKbTI1b3FEV0hrcTNNOHFRZU9GMmdmajZnSnB6YURzRXVWaW9fd1BIamRFenU4dXZOY2d0dTVRSmw0Z0Mtc21aa0d5QVJaWEQ1eVRTTUg4MTFsQ2liSTFEZHd0NA?oc=5)
+
+---
+
+### [Ipertensione, Iss: un problema per quasi la metà degli italiani](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
+
+2026-05-18 <span class="news-indication-tag">ipertensione</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
 
 ---
 
@@ -118,6 +150,14 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
+### [“Ho tre amici guariti dal cancro”. Lo show di Mel Gibson fa raddoppiare la vendita di ivermectina - la Repubblica](https://news.google.com/rss/articles/CBMipgFBVV95cUxOU21hNDZublpNcW1kVHRySjFOLVhPYTRXN1ZfRmdqb29JSFRoc1ZPOVcxeUtXdU5YSmpVTnVaY0JTTDF4V0traE5YSFd0amhaMXZiWWE2WjM1UEtadHhLbDBMWVJheVBaYVdjcDFGNktyNE1WbjNYNTZFU3dPUTExSk40cmFOZXBRcS02ZDJBRVVRTUQzMnhKNXRxbm1JV0F6a3A2Qmpn0gGrAUFVX3lxTE5KWmF3ay10YjRPZ0J0THZ6QWxiX093cWlGakhWQy10T2lTTUg3dHp1S0l2SXVhX3pHY2M5Q1ozNVhRbkxvVnFsNDk2MW4wT053d3NLRzNWMHV4Y1kzMGpWejVPamo5bW9oYWFmVzZvSzlHX1pmcGxqeWNuSnYwbW9qUjNXNUxoNHN4Y0V2UHgzcGZnSHZqTmxldzZCU05uanRGd1FGaHhQRXVHSQ?oc=5)
+
+2026-05-17 <span class="news-indication-tag">cancro</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMipgFBVV95cUxOU21hNDZublpNcW1kVHRySjFOLVhPYTRXN1ZfRmdqb29JSFRoc1ZPOVcxeUtXdU5YSmpVTnVaY0JTTDF4V0traE5YSFd0amhaMXZiWWE2WjM1UEtadHhLbDBMWVJheVBaYVdjcDFGNktyNE1WbjNYNTZFU3dPUTExSk40cmFOZXBRcS02ZDJBRVVRTUQzMnhKNXRxbm1JV0F6a3A2Qmpn0gGrAUFVX3lxTE5KWmF3ay10YjRPZ0J0THZ6QWxiX093cWlGakhWQy10T2lTTUg3dHp1S0l2SXVhX3pHY2M5Q1ozNVhRbkxvVnFsNDk2MW4wT053d3NLRzNWMHV4Y1kzMGpWejVPamo5bW9oYWFmVzZvSzlHX1pmcGxqeWNuSnYwbW9qUjNXNUxoNHN4Y0V2UHgzcGZnSHZqTmxldzZCU05uanRGd1FGaHhQRXVHSQ?oc=5)
+
+---
+
 ### [Ella, 22, given Royal Stoke brain tumour diagnosis - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxONGotbzBaWG1YS05TcnA0c2htQW9PdjAtUlNWaEZNcXFPWjdVUGtVME5iNjNjWVlpSmlHdnlfNWttbDRXTVF0bGpRQXdINW42Z2stLU8wMm9jUjBSb05TX2c0VjJKa1JUWFROT1VCMUR3OGFHZkhhTndWRldyOFBKanNrVDZULWVXcHdlWXg1Q21IRmpYdUHSAZsBQVVfeXFMT3IwUVB0S0NlMVk3VHdwdmVCQ2NpcmhsUVNFOUdSd3BCRF9Xa0daYV9TOG5ScHpWYlY3bEF4emhWQ3c1c0NUWmNrWlZDVUxWMWdNVVQzSkdzUm1zYkJvbDJUMjdfYzljUFJNRHZrWG0tdVBCRlhVVHdtZVFUYjc3bnQzVEZzZ2JmNDZmQ3k1VkJxX092NGJoZTVWMXM?oc=5)
 
 2026-05-17 <span class="news-indication-tag">tumour</span>
@@ -126,35 +166,11 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [Santé : des chercheurs viennent de découvrir pourquoi le cœur est si peu concerné par le cancer !](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVF0WTc0a2hVT00tMlBfaklQRlFwNVFuQU1INjNVWE51dzhoTGFCTVVpMWNseEVXMXlDbWc3aXpLcDZRZWVLNTgzZ0YwYy0tOEk1ZFFPdDdVM3FILXNiUjV4UkFfcUF4TGRYSXVIV1lUT25UeDl6MUtadEdiOFFDQ1BXb2lsbkhLeVdGMXZRVk5zaFZocUhaSmlKc1NDRlV4U1o2M1diTDVvMTRhNnlxbkZPUFVxeFdGd2c?oc=5)
-
-2026-05-17 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVF0WTc0a2hVT00tMlBfaklQRlFwNVFuQU1INjNVWE51dzhoTGFCTVVpMWNseEVXMXlDbWc3aXpLcDZRZWVLNTgzZ0YwYy0tOEk1ZFFPdDdVM3FILXNiUjV4UkFfcUF4TGRYSXVIV1lUT25UeDl6MUtadEdiOFFDQ1BXb2lsbkhLeVdGMXZRVk5zaFZocUhaSmlKc1NDRlV4U1o2M1diTDVvMTRhNnlxbkZPUFVxeFdGd2c?oc=5)
-
----
-
-### [Daughters helping their mum fight for her life after incurable brain tumour diagnosis - Norwich Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkUxQ1lvS0s4U09vZXpuM19KT3NYcWpyZm1OU3lXQ2JUcWpXV3V2SHlhSklqOWlrYnlwRjh5alllR0JNNTQzUnVySXBpOFRIUmQyS2lpQVRScEI1NHllXzZkNEs0d1ZmTnU1aG12QndTX1BHaXlCRGN2TG1vUVdEd1ZLT3llQ29ZVVBuZXB1U2hweGpwN0FiY2Vnd1lpcEVZ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
-
-來源：[Norwich Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkUxQ1lvS0s4U09vZXpuM19KT3NYcWpyZm1OU3lXQ2JUcWpXV3V2SHlhSklqOWlrYnlwRjh5alllR0JNNTQzUnVySXBpOFRIUmQyS2lpQVRScEI1NHllXzZkNEs0d1ZmTnU1aG12QndTX1BHaXlCRGN2TG1vUVdEd1ZLT3llQ29ZVVBuZXB1U2hweGpwN0FiY2Vnd1lpcEVZ?oc=5)
-
----
-
 ### ["Il nous a quittés ce matin" : à 32 ans, son compagnon décède après 367 jours de combat contre une tumeur cérébrale - France 3 Régions](https://news.google.com/rss/articles/CBMirgJBVV95cUxPeW5zZGFydFZEWXFYT0Y1QXU5cGJqUm8wTkF1c1gyQmNUeHNDRUZoRVFQUW5hc3FFNjlBdGpleHowVFFCRHc0TTBTU2pISEc0LUgyVmotSVhuX0gtRnNHcW9rTGRiTE9WRE0xT3o1VTNGZnZ4bVBuTXlTNGc3RURaS3B5clYtRF9IQ0dycmpyczg5aU5kajV6NDVvSVY5b0NiRzRad3VrQ08zcHNEMkllOWVialZ6QWNmdGRSRnIyd2dwUnBwZkNCNVZhZEt5ZE9paHVjd3VkMVJIQVZ5TmV1LWtRN1U1SG9JQUItbW1VTjJBTTliWnZTOUZ4bTVBdTZSYTFGTTlncHhmMU9xNEFxZERjU01mU1JLd1M1VkNHNXdHUWl3bWRnNGlDM3h4QQ?oc=5)
 
 2026-05-17 <span class="news-indication-tag">cancer</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirgJBVV95cUxPeW5zZGFydFZEWXFYT0Y1QXU5cGJqUm8wTkF1c1gyQmNUeHNDRUZoRVFQUW5hc3FFNjlBdGpleHowVFFCRHc0TTBTU2pISEc0LUgyVmotSVhuX0gtRnNHcW9rTGRiTE9WRE0xT3o1VTNGZnZ4bVBuTXlTNGc3RURaS3B5clYtRF9IQ0dycmpyczg5aU5kajV6NDVvSVY5b0NiRzRad3VrQ08zcHNEMkllOWVialZ6QWNmdGRSRnIyd2dwUnBwZkNCNVZhZEt5ZE9paHVjd3VkMVJIQVZ5TmV1LWtRN1U1SG9JQUItbW1VTjJBTTliWnZTOUZ4bTVBdTZSYTFGTTlncHhmMU9xNEFxZERjU01mU1JLd1M1VkNHNXdHUWl3bWRnNGlDM3h4QQ?oc=5)
-
----
-
-### [What does stress really do to our bodies – and when does it become a big problem? - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5)
 
 ---
 
@@ -195,30 +211,6 @@ permalink: /news/cinacalcet-hydrochloride/
 2026-05-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
-
----
-
-### [Men seeking help for prostate cancer rises 50pc in a year - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRkc0NUMGh6NXhieEJuMVJjNXp5VzE5WWpBWDBTZG9kMTVwN1lpVzVRTHBuR0lNTnduMzUyTEJ5MWM0S1dmQ2hPNGc5WE1QbEVCREtpN05pMEplLUN1OFNTaG9vQ2tNX01wbVlLcnl2eTdRemY0WERxQjluMUpHOXFreENKSmluQU1VWEdFT2hsYTU5TEdJVjhaY0FLM0V2QWxOMg?oc=5)
-
-2026-05-16 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRkc0NUMGh6NXhieEJuMVJjNXp5VzE5WWpBWDBTZG9kMTVwN1lpVzVRTHBuR0lNTnduMzUyTEJ5MWM0S1dmQ2hPNGc5WE1QbEVCREtpN05pMEplLUN1OFNTaG9vQ2tNX01wbVlLcnl2eTdRemY0WERxQjluMUpHOXFreENKSmluQU1VWEdFT2hsYTU5TEdJVjhaY0FLM0V2QWxOMg?oc=5)
-
----
-
-### [«Save your skin», a Borgo Trento visite gratuite per la prevenzione del melanoma](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlJTVjdWcDBnbDdMYzAwWDluN3Y5S3NUTXNRYnZnaGNaWUdiQUhyU0d5akk0MEtSUnhvWWJscDN4REZVRmI1UjJ2VktYaFV1SEowQWl3T1Z6bXU3cFdZcjZIM29KWi1oWWljS1Btbm11WEZ0em1RSnVnYTBPWUN1V3BvZjMxSFdxemY2UVF0SWt0MTFFZWcwR3VDMmFFZE94Z0c2Rjl3c3NCY2czV09rTjlvanRzcW1BMW1IMjVoTG5ydEplbGI1VTFiTTdhZlR4VG1jUtIB2gFBVV95cUxPU1dnYTVYUTRTenVoZDlWUzZtTFRZQTVoWkczRVd2V3c3c2VEYl9pUkNWY3ZxUGI4cVhQVloxdElpdjhqUkgyVlBFSDVRYk1kRFhRUnlaRnEzYktPRzViVE5Lc0hOUkhTaWFza25tVXJYczhqUUJ4aVRKR09TNXc5NzRJaVYzaERzcnlYOUtGdWYtaEh1bnVlWmVQQUNpUGUzbTk5Z2RHTXpTRjY3bG14R1J2alpoOXQzWTQxRG96M1NMaHBvMzdOb2ZheEJZMTluMWt3eUo3alAwQQ?oc=5)
-
-2026-05-16 <span class="news-indication-tag">tumor</span>
-
-來源：[L'Arena](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlJTVjdWcDBnbDdMYzAwWDluN3Y5S3NUTXNRYnZnaGNaWUdiQUhyU0d5akk0MEtSUnhvWWJscDN4REZVRmI1UjJ2VktYaFV1SEowQWl3T1Z6bXU3cFdZcjZIM29KWi1oWWljS1Btbm11WEZ0em1RSnVnYTBPWUN1V3BvZjMxSFdxemY2UVF0SWt0MTFFZWcwR3VDMmFFZE94Z0c2Rjl3c3NCY2czV09rTjlvanRzcW1BMW1IMjVoTG5ydEplbGI1VTFiTTdhZlR4VG1jUtIB2gFBVV95cUxPU1dnYTVYUTRTenVoZDlWUzZtTFRZQTVoWkczRVd2V3c3c2VEYl9pUkNWY3ZxUGI4cVhQVloxdElpdjhqUkgyVlBFSDVRYk1kRFhRUnlaRnEzYktPRzViVE5Lc0hOUkhTaWFza25tVXJYczhqUUJ4aVRKR09TNXc5NzRJaVYzaERzcnlYOUtGdWYtaEh1bnVlWmVQQUNpUGUzbTk5Z2RHTXpTRjY3bG14R1J2alpoOXQzWTQxRG96M1NMaHBvMzdOb2ZheEJZMTluMWt3eUo3alAwQQ?oc=5)
-
----
-
-### [Rétinoblastome : ces signes discrets qui peuvent alerter les parents - Le Figaro Santé](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3FWclZEX1FxWUhGeUdwX3FxTmVsREVZdExEeUNxeGFIUDIxc09ST2hEaklIQ2VFbk1VTW5tRGVxQmFPUWtEOUVLQzFRTzhfYVFyYzRZZk1MSW8tZTlXSUNYazhFLWRQRVF1NnhHdUc4cnRnQWtLenQ0alFpajRyUXJXelROVHkzRkFNeWxhRTJoRUdmQnYxMFNQWHgzVFNISHdKUHY4aHJOZTA5ZGtv?oc=5)
-
-2026-05-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3FWclZEX1FxWUhGeUdwX3FxTmVsREVZdExEeUNxeGFIUDIxc09ST2hEaklIQ2VFbk1VTW5tRGVxQmFPUWtEOUVLQzFRTzhfYVFyYzRZZk1MSW8tZTlXSUNYazhFLWRQRVF1NnhHdUc4cnRnQWtLenQ0alFpajRyUXJXelROVHkzRkFNeWxhRTJoRUdmQnYxMFNQWHgzVFNISHdKUHY4aHJOZTA5ZGtv?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（3 則）
 
+### [Studio, fluttuazioni colesterolo aumentano rischio mortalità, infarto e ictus - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYklKeW5SdG5ZVElzOEh2TkMtMzhOQkx3MUVpemFyenlXMkpZcVpPRnN4b0ZYekQ3U0RSYXFRY0VmSUg4Vlk0UVJjZC1GenhvYXQzX3k5RmI2ZmRieDZ1dXp2WG1zejVEcGNUOEVYakdjQ1NLMlpxeHpHWXlibGNZMGt4YmtTRTFESmlfX3A5VnlKOGFNa1RDVU5ROEt4b2tsdlpzYXd4eWRFSVdNSW40VS1WZmlSTEhGTzJvNndxUXI1ZEs1c0o4MEFXbEg3ZklUMzNtbXBKd1pCYTJwR1FMaA?oc=5)
+
+2026-05-18 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYklKeW5SdG5ZVElzOEh2TkMtMzhOQkx3MUVpemFyenlXMkpZcVpPRnN4b0ZYekQ3U0RSYXFRY0VmSUg4Vlk0UVJjZC1GenhvYXQzX3k5RmI2ZmRieDZ1dXp2WG1zejVEcGNUOEVYakdjQ1NLMlpxeHpHWXlibGNZMGt4YmtTRTFESmlfX3A5VnlKOGFNa1RDVU5ROEt4b2tsdlpzYXd4eWRFSVdNSW40VS1WZmlSTEhGTzJvNndxUXI1ZEs1c0o4MEFXbEg3ZklUMzNtbXBKd1pCYTJwR1FMaA?oc=5)
+
+---
+
 ### [Three months after my stroke at 31 my husband did unthinkable to me & our baby - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5)
 
 2026-05-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -67,14 +75,6 @@ permalink: /news/orlistat/
 2026-05-17 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ2FTOTFpcVBEcERsV0htLUxzbHB3a1RWbEQwMW00Yk5iaW1ERmx1ekJvaVJsanhCYml6ZTJKczBmaks3UUxmM01hamRublRCVm85ZV9KMFNzLXdtNUZYNUpNZzY5Nmg1T3pQVThTTmkxc1ZEaHJCMFItYVl5cHdEZFZqT1dCTEFSMi15UzhjLTBJcnhIMkRSMmYwcGpNc2V6NnZCX253eUJMTkJTZm5yNE0ycThRMFN4VzRfSnZSMWs3aGJ2TF9ZVGtXUTl4aWJyMjdoYkV1RTU4cEN1OHNCSFdOSzEyamRYQk1ZVTRoMmhGeG5BdkkwdW9JYlR4Rmk5al9aaXFrR09kLWVBaTZoQlpBRFpOc0R4ZUpoQlJ2b0c5TTJUZGxJOGdLZVFqTTlfRl92c21QanhfeGFXZk1EMkFrV1JpVFRsUHNkdjJFWGtIbFllSEE?oc=5)
-
----
-
-### [Ma vie après un AVC : « Ferme ta bouche la résilience ! » - Le Monde.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5)
-
-2026-05-16 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5)
 
 ---
 

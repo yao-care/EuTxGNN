@@ -1,7 +1,7 @@
 {
   "source": "google_news_eu",
-  "fetched_at": "2026-05-18T09:38:39.262852+00:00",
-  "count": 147,
+  "fetched_at": "2026-05-18T14:52:35.210357+00:00",
+  "count": 158,
   "feeds": [
     "google_uk",
     "google_de",
@@ -13,27 +13,40 @@
   ],
   "news": [
     {
-      "id": "5a37b314ad88",
-      "title": "What is Ebola and why is WHO treating outbreak as global health emergency? - The Guardian",
-      "published": "2026-05-18T01:30:00+00:00",
-      "summary": "What is Ebola and why is WHO treating outbreak as global health emergency?&nbsp;&nbsp;The GuardianHow worrying is the Ebola outbreak in DR Congo?&nbsp;&nbsp;BBCEbola outbreak: how does the virus spread and should we be worried?&nbsp;&nbsp;The TimesEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)Ebola latest: 'Americans exposed' in African",
+      "id": "a54244175126",
+      "title": "At least six Americans exposed to Ebola during DR Congo outbreak - BBC",
+      "published": "2026-05-18T10:07:57+00:00",
+      "summary": "At least six Americans exposed to Ebola during DR Congo outbreak&nbsp;&nbsp;BBCWHO to give update on hantavirus and Ebola after outbreaks&nbsp;&nbsp;BBCEbola latest: 'Americans exposed' in African outbreak - as WHO declares 'emergency of international concern'&nbsp;&nbsp;Sky NewsEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)What is Ebol",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQTQzdWNaVHlXbFdlNnhYNVVfcy1lODc5MHNjQjFBbUZYd2JEWWhTNHVXRzVVem9MVjhNYWwyMzZCNElrVEZiamtNWGpoZkJIdmZCT1k1dDJYLVFhc2xsNjZFX296Q3hfT2E1TFdpNmVUSHU3c0dFbVFJVEROTjQ3Zy1leUdpaEh6N3ZzNVFWdFVzR001M29MMTVNMWxud1V0MVo2VEl3MUd5b2pYN1J4UzQ0bUE4Nlk?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzVySklWQVZmdFRFRWhtSFUzNnBtLXRUWTRFeGxLTmFNdkctWWduVnFsWUNoNFVmd1ljbDBWcGFaODB2THdtMGdXOEZ1eUtmOG95U19hcklSWmlP?oc=5"
         }
       ],
       "feed_source": "google_uk"
     },
     {
-      "id": "2cf882fb7bf8",
-      "title": "Medic treated in UK as nine Britons exposed to hantavirus arrive - The Telegraph",
-      "published": "2026-05-17T22:48:00+00:00",
-      "summary": "Medic treated in UK as nine Britons exposed to hantavirus arrive&nbsp;&nbsp;The TelegraphNine UK citizens exposed to hantavirus returning to Britain&nbsp;&nbsp;Sky News'Small number' of Welsh residents linked to hantavirus outbreak&nbsp;&nbsp;BBCMedic with hantavirus symptoms being treated in London hospital | ITV News&nbsp;&nbsp;ITVXSmall number of people in Scotland linked to hantavirus outbreak&nbsp;&nbsp;BBC",
+      "id": "84f9b7c0b8d6",
+      "title": "Medic with hantavirus symptoms treated in London hospital as cruise ship docks | ITV News - ITVX",
+      "published": "2026-05-18T10:35:30+00:00",
+      "summary": "Medic with hantavirus symptoms treated in London hospital as cruise ship docks | ITV News&nbsp;&nbsp;ITVXNine UK citizens exposed to hantavirus returning to Britain&nbsp;&nbsp;Sky News'Small number' of Welsh residents linked to hantavirus outbreak&nbsp;&nbsp;BBCNew hantavirus update as more people taken to Arrowe Park Hospital&nbsp;&nbsp;Liverpool EchoSmall number of people in Scotland linked to hantavirus outbreak&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzVEN1o2ODhpbUp1ZmtTUzhMVHpfSm1WbFdTbjNtMFcxbktwWTZOT2IwQUJFcjBOT3JzekVMN010dG9UajhTLThUYV9LLVE4S0dsMHotazJzZ01zZnZQQnpHXzZkNHpJeXRaWVhXc1hRRUx2bEJNQlRwSEJJVFRvY3UzT2tMNHhDNzBVbGt6VUJjcjNNS2t3WHFLYUN5RlptTmVZZjF3aw?oc=5"
+          "name": "ITVX",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkZOTXFRZ3hmZ05WcWdHX09xN1ViOHlqUDRYdmlGUTh4aEdVdFFfU1NLMWpsMXlHdXdQYk1teTZmUnhJZ1d5a1BiUTNsbXJpeFhHNGtxSDcxd0owNHF0Q1lIZU85Z01ycElUTkFtS0JNelQ4NVY1NERYVk5vY3d1VUppbjROUktFcXNHZGRXTWcxcnM3MmIyeW1zdUlRbkFX?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
+      "id": "34d93fb79ab8",
+      "title": "New drug trial hopes to mend 'broken heart syndrome' - BBC",
+      "published": "2026-05-18T05:04:56+00:00",
+      "summary": "New drug trial hopes to mend 'broken heart syndrome'&nbsp;&nbsp;BBCWorld's first trial to mend broken heart syndrome begins at the University of Aberdeen&nbsp;&nbsp;University of AberdeenAberdeenshire woman suffered ‘broken heart syndrome’ after her mum’s death&nbsp;&nbsp;Press and JournalUK woman joins world's first trial for broken heart syndrome after mum's death&nbsp;&nbsp;The Mirror",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ZkR6czdjMkctNmloODFzT1dHMGtqN1hRWjBCUVpjcUdLV3FzWF93YmxDYUxYa0tPVWRwcXhqVUpTc1VuTWlIMU9OM0lGV3R5ZmNkZmhXMzlBQzR2?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -52,36 +65,36 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "be2debd34f1a",
-      "title": "'Never-ending' childhood disease hitting UK adults - this could be reason why - Daily Express",
-      "published": "2026-05-17T17:28:00+00:00",
-      "summary": "'Never-ending' childhood disease hitting UK adults - this could be reason why&nbsp;&nbsp;Daily ExpressA reminder as whooping cough starts to spread in Kitsap | Opinion&nbsp;&nbsp;Kitsap SunDeKalb County reports increase in whooping cough cases&nbsp;&nbsp;WSPYnews.comThe ‘100-day cough’ that adults often mistake for a cold, and why it’s dangerous&nbsp;&nbsp;Daily NationWhooping cough on the rise in DeKalb County, health department warns&nbsp;&nbsp;Shaw Local",
-      "sources": [
-        {
-          "name": "Daily Express",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUENVUWhFd1ZfcHZmTXM3VG5Kd2JsWkxGd3dsRWp6TmJYSFpKekpMdlMtNklNVlRKQmlGTDdwWm5tS1g2bDl5OEVIZ21pbkZSQjV1dmt6bzh6dDZ0M1JWZmdNS3JtSzExdUVPMHJMOTdvb0ZSZXZEVDRTeUJmQnQ4UENWZk40MHpUNUtkOGV1QkVpWm5penhRc0xRdjlUTU92MjNXN9IBqgFBVV95cUxQVy1IemtaTExIZnNRZVBjMUZhdDBjX29IcEYwQmtpMjNEM1MtdVVoUWlCZXVlN1VxS0t2MEtjWG9YSUxNamJvWUVUaFpSQjFZcFRULUc5LXhGc09uWTlBZnlaZVNnbkJuVldjUXQ4ZVBiZTZNdjZ2dmZwLTFYcnBGX2kwOUVIaDZPVnk3c21FQWFBSVdIeEhUZlRORVNRb1Ruc0dNTXpRYi1qUQ?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
-      "id": "34d93fb79ab8",
-      "title": "New drug trial hopes to mend 'broken heart syndrome' - BBC",
-      "published": "2026-05-18T05:04:56+00:00",
-      "summary": "New drug trial hopes to mend 'broken heart syndrome'&nbsp;&nbsp;BBCWorld's first trial to mend broken heart syndrome begins at the University of Aberdeen&nbsp;&nbsp;The University of Aberdeen'I thought I'd had a heart attack after losing my mum - I'd never heard of my actual condition'&nbsp;&nbsp;Aberdeen Live\"My heart gave up when my mum died and now I'm getting treatment\"&nbsp;&nbsp;Daily Record",
+      "id": "2a3a80d3e3c7",
+      "title": "Cruise ship hit by hantavirus outbreak docks in Rotterdam - BBC",
+      "published": "2026-05-18T10:34:27+00:00",
+      "summary": "Cruise ship hit by hantavirus outbreak docks in Rotterdam&nbsp;&nbsp;BBCHantavirus ship arrives in Rotterdam for disinfection&nbsp;&nbsp;Sky NewsHantavirus-hit cruise ship docks in the Netherlands&nbsp;&nbsp;Al JazeeraHantavirus-hit liner reaches Rotterdam, crew being quarantined and ship disinfected&nbsp;&nbsp;ReutersHantavirus-hit cruise ship concludes voyage in Rotterdam&nbsp;&nbsp;RTE.ie",
       "sources": [
         {
           "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ZkR6czdjMkctNmloODFzT1dHMGtqN1hRWjBCUVpjcUdLV3FzWF93YmxDYUxYa0tPVWRwcXhqVUpTc1VuTWlIMU9OM0lGV3R5ZmNkZmhXMzlBQzR2?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLWM5dzVpbW81TEZrQnRvRkRTb05DTk5zeUtLY19PdzdSMlNOaHk2b0I3aUh1eFA1RktSaEhOSFBSTWU3Z2JaU1FKN2IydU9zQlV3T2JJUHh3Qlp6?oc=5"
         }
       ],
       "feed_source": "google_uk"
     },
     {
-      "id": "f355fd6c4b42",
-      "title": "'It takes 10 years to make our chair-shaped trees' - BBC",
+      "id": "529466d90d55",
+      "title": "British girl dies after contracting E coli on holiday in Egypt - The Times",
+      "published": "2026-05-18T09:15:14+00:00",
+      "summary": "British girl dies after contracting E coli on holiday in Egypt&nbsp;&nbsp;The TimesBritish baby dies of e-coli after staying at five-star resort as other parents feel 'completely helpless'&nbsp;&nbsp;The MirrorE. coli outbreak at Egyptian resort linked to child fatality and multiple illness cases among travellers&nbsp;&nbsp;itij.comBritish baby died after contracting E. coli during stay at Egyptian hotel&nbsp;&nbsp;The TelegraphBritish Child Dies After Suspected E. coli Infection in Egypt&nbsp;&",
+      "sources": [
+        {
+          "name": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemp1S016UmpBbzdONzY2dEhuU0JTcFduUk9sTC1IZkRnNVJmdkhndEJmaW93UXFvZ1EzSDBsRmp6ckR1UVh5MTRkQmhIeEdtYVA2d3pLZmJST1c5NjhvMG5md0lKOF9qNV9Xamwxamtja2VzaS1OeGFXN0k2ODJYWWI3eGNMV0p6UUh0MHRBWERNdFZsbW56cGxn?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
+      "id": "5608938c8ac2",
+      "title": "'We mould trees to grow into the shape of chairs' - BBC",
       "published": "2026-05-18T05:06:42+00:00",
-      "summary": "'It takes 10 years to make our chair-shaped trees'&nbsp;&nbsp;BBC",
+      "summary": "'We mould trees to grow into the shape of chairs'&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "BBC",
@@ -91,14 +104,14 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "2fa212580d56",
-      "title": "Call for more meningitis vaccines after teen dies - BBC",
-      "published": "2026-05-16T09:11:40+00:00",
-      "summary": "Call for more meningitis vaccines after teen dies&nbsp;&nbsp;BBCFather pays tribute to ‘kind-hearted’ son who died after contracting meningitis&nbsp;&nbsp;The GuardianStudent dies after meningitis outbreak in Home Counties&nbsp;&nbsp;Sky NewsOutbreak of meningitis in Reading | News & Stories&nbsp;&nbsp;Meningitis NowFresh call for wider meningitis B vaccination after student's death&nbsp;&nbsp;Reading Chronicle",
+      "id": "abf9edf3524c",
+      "title": "NHS patients wait three and a half years for dementia diagnosis - The Telegraph",
+      "published": "2026-05-18T05:30:00+00:00",
+      "summary": "NHS patients wait three and a half years for dementia diagnosis&nbsp;&nbsp;The Telegraph'A doctor told me I had dementia and to go home and Google it'&nbsp;&nbsp;Belfast LiveLandmark reports expose a dementia care system failing patients in Wales at every stage&nbsp;&nbsp;Nation.Cymru‘Delays and denial’ see dementia cases missed | Western Daily Press - newspaper&nbsp;&nbsp;MagzterCharity finds dementia diagnosis delayed by years with 'no support' after&nbsp;&nbsp;South Wales Argus",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsV3BKWlV4WFNWaXJ1NlVNX29jS3oweGtES0RpcjVCcHZRU190VEVncERTblZ6a1U2Q2VUX0JhMUxJamlCQnVRNzJWTjZFekdTdXpoRWVNaV8zX1ZJ?oc=5"
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYklvcDJzQXlrc1JRYm9SZmR4VlluUXROZGhlNFpibnBlNzUyQ2R3eTVOZ1dUelpVbUNFWVN0UzVBb3NtSm13eVU4MGFacnUxMk0tOVdnQWJlc1hLYnpMUjZZQmxIRjJkek05WEgtRlBYQ3ltY0lCTzZFMmk5bzdMOE1ld3RtaWFpd0VpeVNzdUhaTU9UYjBBRHlzWFp3MlVPdThROGhvZw?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -117,27 +130,14 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "09f66f5807f0",
-      "title": "British baby dies of e-coli after staying at five-star resort as other parents feel 'completely helpless' - The Mirror",
-      "published": "2026-05-18T04:07:00+00:00",
-      "summary": "British baby dies of e-coli after staying at five-star resort as other parents feel 'completely helpless'&nbsp;&nbsp;The MirrorBritish baby died after contracting E. coli during stay at Egyptian hotel&nbsp;&nbsp;The TelegraphBritish girl dies after contracting E coli on holiday in Egypt&nbsp;&nbsp;The TimesHoliday tragedy as British baby dies of e-coli after staying at five-star resort&nbsp;&nbsp;Daily RecordBrit baby dead & two children with serious health problems after contracting gastric ill",
+      "id": "e957bd6456c2",
+      "title": "The healthiest workout may be shorter — and harder — than people think - San Francisco Chronicle",
+      "published": "2026-05-17T11:04:54+00:00",
+      "summary": "The healthiest workout may be shorter — and harder — than people think&nbsp;&nbsp;San Francisco ChronicleStudy Says Two Minute Sweat Bursts Could Save San Franciscans' Health&nbsp;&nbsp;HoodlineMove faster, live healthier? Study says exercise intensity may matter more than you think&nbsp;&nbsp;ConsumerAffairsScientists say just 30 minutes of exercise a week could transform your health&nbsp;&nbsp;ScienceDailyNew Study Shows Just 1-2 Minutes of Exercise Can Improve Health&nbsp;&nbsp;Men's Fitness",
       "sources": [
         {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxcUF4UmsyelJMa3BERnA1NTRScDZsTXlGYi1CMTNQaVJLekpDZzNEVVBiczVzZXdzZTZweTdDRkRKbmNOLTJxZlF4YVJoOTlKRkhNelByRnpMd3QybWlPS1pzN3oxS2t0eDZrWnZoR204dmJZUXoxY0kyc9IBgAFBVV95cUxPTkdackdGeG1QaTByU3VnOXp1RUZIQ2tfWEhoM3AyX1F0cmhQcWthVkh2LU80YWpBcVFEN3ROSXRWX1JJcTFhd3E3dzhfaHpZc1RwM3ZhZ1pwcnVIb3J4LUJEdERSaHdFZHAxTHlrZjJVY0RwOHhaRnBoT0lwRUhtdQ?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
-      "id": "500ef871d099",
-      "title": "Councils hand out Blue Badges for ADHD - The Telegraph",
-      "published": "2026-05-18T05:00:00+00:00",
-      "summary": "Councils hand out Blue Badges for ADHD&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVpUc3ZSaGE4MGJtYkJDSl9WLU5nZkVzTktuNUxjRnU0cGhROThuUEFDZ3U5aEtGWUh6bVBneUpaV1RXZWtTWVgwc2sxNDEwMVdjRkdZYkZ1N09PTFUzT1BrNDQ5LWVUb1phbE5BT3oxQ21kSTg5X2N3S2lTOEdSZzBUX05mRnZhYzFZQ040TEtrWERJ?oc=5"
+          "name": "San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUlPT1puRV9PQXB3cm9IVkNUNUhlTnFuRnA5dlRHTEMtdEdtbzl3T1UxUzRDU3hkX0w4d0hDTEtqMHNoSHpFajdtOEtlWmFydGk4UExGa3B3V3ZTOUh2dkpkazMtbzZHd3NQeFp3UHA2WG1lV2drT3hYMkMyTmpWcHRqQU9zU2VuYVFWNThNVmh2UQ?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -156,40 +156,27 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "1086fb35eae9",
-      "title": "Cancer-hit mum needs £8k-a-month after falling victim to NHS postcode lottery - Stoke-on-Trent Live",
-      "published": "2026-05-18T05:00:00+00:00",
-      "summary": "Cancer-hit mum needs £8k-a-month after falling victim to NHS postcode lottery&nbsp;&nbsp;Stoke-on-Trent Live",
+      "id": "c66999e52c38",
+      "title": "Total ban on killer kitchen-worktop stone ‘under consideration’ - The i Paper",
+      "published": "2026-05-17T05:00:00+00:00",
+      "summary": "Total ban on killer kitchen-worktop stone ‘under consideration’&nbsp;&nbsp;The i PaperNew rules to stop killer kitchen deaths - but should quartz worktops be banned outright?&nbsp;&nbsp;Sky NewsNew HSE guidance on deadly stone worktops inadequate as Unite calls for ban&nbsp;&nbsp;Unite the UnionCarysil 'leading the charge' in industry safety following HSE Silica Dust crackdown&nbsp;&nbsp;KBBFocusHSE Says No Dry Cutting of Engineered Stone as Inspections Ramp Up&nbsp;&nbsp;Roofing Today",
       "sources": [
         {
-          "name": "Stoke-on-Trent Live",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDJVaXhJN2ctT3BBMEdKel9VUjdKOXI4a2lEQlItU2lkS2VzMWY1bUc0NTdEVEJ6MzZRazFjUnpXampLb21TSkE1N3F6V19NdmNucUx0M1k5eUt2X3M1bUpUU3pyZ1dkZ29Vd1JHWU10aXFzREptRmRVRnAxcEQ5ZXhxV2ZrZ0hjQzJvN1lBWTBsQzjSAZgBQVVfeXFMUGdLRDdKWGx1Y0d2RHk1VTd3T2xmRmRCTjFTTlZFdlNpZlZmUnpXaURXY3ZIazZyZHNSYW5nSFEyYTQwWUlFQm5rSENOZHRBbEt4cEZjSFZ0SzhNOUk2MTNqeWQzUXVmYmRmTGRBeGQ0ZmloMnZsbkkwTHQwemRjM2llRzQ2V29YUFZVRkdOa2xNTlh5a1NJOGg?oc=5"
+          "name": "The i Paper",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTXNXNkl5dzJlQkdCMTZ1dE5jcEpZdUdpWllCdkZEcXJYY0ZzVmQyUnVneWhmbkUwVFJHcVlaLWNJN014SUs3Z0VNTXkzM04tQW9MSEw2RWdMM0s4bkROcEE0WmJnMXc0aWZIcHVTNnF5RlV6SHpNUzQ5NnNJZjJyNENpVFlrdw?oc=5"
         }
       ],
       "feed_source": "google_uk"
     },
     {
-      "id": "96e9d05160af",
-      "title": "Canada confirms first hantavirus case in isolation in British Columbia - The Guardian",
-      "published": "2026-05-17T21:45:00+00:00",
-      "summary": "Canada confirms first hantavirus case in isolation in British Columbia&nbsp;&nbsp;The GuardianCanadian from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;BBCCanada confirms first hantavirus case in tourist on Vancouver Island&nbsp;&nbsp;The IndependentCanada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers&nbsp;&nbsp;Fox NewsHantavirus latest updates: Canada reports first presumptive case linked to MV Hondius as global total hits 11&nbsp;&nbsp;Yahoo",
+      "id": "d8944b116fc0",
+      "title": "Living with PMDD is like having the Grim Reaper visit every month - BBC",
+      "published": "2026-05-16T23:18:03+00:00",
+      "summary": "Living with PMDD is like having the Grim Reaper visit every month&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
-      "id": "5e658d0d43c2",
-      "title": "What does stress really do to our bodies – and when does it become a big problem? - The Guardian",
-      "published": "2026-05-17T04:01:00+00:00",
-      "summary": "What does stress really do to our bodies – and when does it become a big problem?&nbsp;&nbsp;The GuardianCan Stress Cause High Blood Pressure In Your 20s And 30s? Here’s What Experts Say&nbsp;&nbsp;ABP NewsYoung professionals face a hidden heart crisis at work | Tap to know more | Inshorts&nbsp;&nbsp;InshortsIt’s not just salt anymore: Why your stressful 10-hour workday could be pushing your blood pressure higher&nbsp;&nbsp;The Times of IndiaWorking from home may be silently increasing your hype",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sclZ6amFrdHJPUmp6c0dLaDJDSV82UDFSeUFwLW9xQmx0aFUwX0hINnRxa1ZiRDREVmQ0R3ItSUV0SzdDU1h2dXYtN1JobTIwcGpoSHJQa3hjYm8z?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -208,14 +195,14 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "d8944b116fc0",
-      "title": "Living with PMDD is like having the Grim Reaper visit every month - BBC",
-      "published": "2026-05-16T23:18:03+00:00",
-      "summary": "Living with PMDD is like having the Grim Reaper visit every month&nbsp;&nbsp;BBCSee more headlines and perspectives on Google News",
+      "id": "1086fb35eae9",
+      "title": "Cancer-hit mum needs £8k-a-month after falling victim to NHS postcode lottery - Stoke-on-Trent Live",
+      "published": "2026-05-18T05:00:00+00:00",
+      "summary": "Cancer-hit mum needs £8k-a-month after falling victim to NHS postcode lottery&nbsp;&nbsp;Stoke-on-Trent Live",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sclZ6amFrdHJPUmp6c0dLaDJDSV82UDFSeUFwLW9xQmx0aFUwX0hINnRxa1ZiRDREVmQ0R3ItSUV0SzdDU1h2dXYtN1JobTIwcGpoSHJQa3hjYm8z?oc=5"
+          "name": "Stoke-on-Trent Live",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDJVaXhJN2ctT3BBMEdKel9VUjdKOXI4a2lEQlItU2lkS2VzMWY1bUc0NTdEVEJ6MzZRazFjUnpXampLb21TSkE1N3F6V19NdmNucUx0M1k5eUt2X3M1bUpUU3pyZ1dkZ29Vd1JHWU10aXFzREptRmRVRnAxcEQ5ZXhxV2ZrZ0hjQzJvN1lBWTBsQzjSAZgBQVVfeXFMUGdLRDdKWGx1Y0d2RHk1VTd3T2xmRmRCTjFTTlZFdlNpZlZmUnpXaURXY3ZIazZyZHNSYW5nSFEyYTQwWUlFQm5rSENOZHRBbEt4cEZjSFZ0SzhNOUk2MTNqeWQzUXVmYmRmTGRBeGQ0ZmloMnZsbkkwTHQwemRjM2llRzQ2V29YUFZVRkdOa2xNTlh5a1NJOGg?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -224,7 +211,7 @@
       "id": "1a9ba90d168b",
       "title": "Eight easy hobbies that slow brain ageing - The i Paper",
       "published": "2026-05-17T09:00:00+00:00",
-      "summary": "Eight easy hobbies that slow brain ageing&nbsp;&nbsp;The i PaperEnjoying the arts ‘has same effect on ageing as a weekly workout’&nbsp;&nbsp;The TimesEngaging with arts linked to slower pace of ageing | UCL News - UCL&nbsp;&nbsp;UCL | University College LondonArts and cultural engagement ‘linked to slower pace of biological ageing’&nbsp;&nbsp;The GuardianFrequent museum visits tied to reduced cellular aging, research finds&nbsp;&nbsp;Fox News",
+      "summary": "Eight easy hobbies that slow brain ageing&nbsp;&nbsp;The i PaperIs culture really as good for you as a workout?&nbsp;&nbsp;Financial TimesEnjoying the arts ‘has same effect on ageing as a weekly workout’&nbsp;&nbsp;The TimesEngaging with arts linked to slower pace of ageing | UCL News - UCL&nbsp;&nbsp;UCL | University College LondonArts and cultural engagement ‘linked to slower pace of biological ageing’&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "The i Paper",
@@ -247,6 +234,45 @@
       "feed_source": "google_uk"
     },
     {
+      "id": "5924be648974",
+      "title": "Salford Royal Hospital gynaecology scandal sees dozens harmed by treatment delays - The Independent",
+      "published": "2026-05-17T09:24:00+00:00",
+      "summary": "Salford Royal Hospital gynaecology scandal sees dozens harmed by treatment delays&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaU1FMFZtcEcxejN0akdaeXhJbElwMTF3SG9aYjZzY21semNGR29zMHo0WnlwUzBaTXFZT3dTSVpMT2VwX2R0T2ZLemZ4SmFubGtfTzF3TDRLY3lGXzBfVmx3OE9pYWhYRkdRSVpsejlIUVF6UTBkOFotMUlDM3FtLW9TUTllTWZWNHFxUEZqT2V2eVQxMldvU1JzXzZBSjFhQW84?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
+      "id": "be2debd34f1a",
+      "title": "'Never-ending' childhood disease hitting UK adults - this could be reason why - Daily Express",
+      "published": "2026-05-17T17:28:00+00:00",
+      "summary": "'Never-ending' childhood disease hitting UK adults - this could be reason why&nbsp;&nbsp;Daily ExpressA reminder as whooping cough starts to spread in Kitsap | Opinion&nbsp;&nbsp;Kitsap SunDeKalb County reports increase in whooping cough cases&nbsp;&nbsp;WSPYnews.comThe ‘100-day cough’ that adults often mistake for a cold, and why it’s dangerous&nbsp;&nbsp;Daily NationWhooping cough on the rise in DeKalb County, health department warns&nbsp;&nbsp;Shaw Local",
+      "sources": [
+        {
+          "name": "Daily Express",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUENVUWhFd1ZfcHZmTXM3VG5Kd2JsWkxGd3dsRWp6TmJYSFpKekpMdlMtNklNVlRKQmlGTDdwWm5tS1g2bDl5OEVIZ21pbkZSQjV1dmt6bzh6dDZ0M1JWZmdNS3JtSzExdUVPMHJMOTdvb0ZSZXZEVDRTeUJmQnQ4UENWZk40MHpUNUtkOGV1QkVpWm5penhRc0xRdjlUTU92MjNXN9IBqgFBVV95cUxQVy1IemtaTExIZnNRZVBjMUZhdDBjX29IcEYwQmtpMjNEM1MtdVVoUWlCZXVlN1VxS0t2MEtjWG9YSUxNamJvWUVUaFpSQjFZcFRULUc5LXhGc09uWTlBZnlaZVNnbkJuVldjUXQ4ZVBiZTZNdjZ2dmZwLTFYcnBGX2kwOUVIaDZPVnk3c21FQWFBSVdIeEhUZlRORVNRb1Ruc0dNTXpRYi1qUQ?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
+      "id": "1592dee9d784",
+      "title": "I eat steak, my veggie husband chews on tofu. Who will live longer? - The Telegraph",
+      "published": "2026-05-17T10:00:00+00:00",
+      "summary": "I eat steak, my veggie husband chews on tofu. Who will live longer?&nbsp;&nbsp;The Telegraph",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalFwVlh4M3NGT2hCRHc2SFJnM0RUVUs3OEx4ckJZUkJ5cVMwNFZ0cnA5MkdGWkJfRDVfQ2NDUGNnODBHcGtXVHc3NVVoU05pWG9HLTFLNFNHaHk3cUVYbjRiUHNEcFRlcXNkQ3Y2R0g5TDVZNmN5OFVlckZ2cVVqd24xS3AxbDlOdl9MdF9rdU1HTy1tWUZBSVgyTFQ0ejZWbzlFTA?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
       "id": "293a0c54c361",
       "title": "I battled thrush for 30 years - my toddler's diagnosis revealed TRUE cause - The Sun",
       "published": "2026-05-17T11:00:00+00:00",
@@ -255,6 +281,19 @@
         {
           "name": "The Sun",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmR6Wll0ZHo5ME1pdjdrd2RRQzFBNUhObGlKYjNaejNCZVN4U2pzdjQtczVpeWZxUXc0b2ZhZ2hXd3RyenhvQUFwNTViS0lNemtoeDFyUmFwWHlBTE85UGdWNWc4YVVJazgwWlZIT1Itd3FydkE2LU9ZblVGUm5aMy1Fa3dRT1Ffc0FCOGZYV3lHWHYzQ3Zj?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
+      "id": "cb49d489505e",
+      "title": "Scientists Discover Over 1,700 'Dark' Proteins Hidden in Human Cells - ScienceAlert",
+      "published": "2026-05-18T07:11:42+00:00",
+      "summary": "Scientists Discover Over 1,700 'Dark' Proteins Hidden in Human Cells&nbsp;&nbsp;ScienceAlertNews&nbsp;&nbsp;Hospital del Mar“Peptideins”? Give Those Shorties Another Look&nbsp;&nbsp;Science and Culture Today'Dark Proteome' Expanded Through ID of Thousands of Non-Canonical Peptides&nbsp;&nbsp;GenomeWebResearchers Found 1,700 Tiny Protein-Like Molecules Hiding in the Human Genome&nbsp;&nbsp;ZME Science",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGdJQ2dGcFprMHdOa2g3WUJGX3hGd2hPdWlXdUVCQXk5WXBZMVd6REgwZ1BfUUhhZkpDOHkxS25BSjFVVlljdFAzRlAxczU0YUM4Z1dXQ3ljSjU4Nzh5QjlWRzJ0eEI1bG5ydk5lQXA4elVZOHNuemhfRmpSQjlqRnF2b08tNU1EVDZfaTZoVW1hRmh6ZE1sNkp3?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -273,27 +312,14 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "12c714384e39",
-      "title": "Social media star makes up to £220k a month ‘curing ugliness’ - The Telegraph",
-      "published": "2026-05-16T15:27:00+00:00",
-      "summary": "Social media star makes up to £220k a month ‘curing ugliness’&nbsp;&nbsp;The TelegraphEx-Marlborough College pupil earns £220,000 a month saying he can 'cure ugliness' as 'looksmaxxer'&nbsp;&nbsp;MSN",
+      "id": "a0a74863a12d",
+      "title": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology - ScienceDaily",
+      "published": "2026-05-17T11:18:54+00:00",
+      "summary": "Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkMtanVLb09USXNRVmQ2ZUpCTTV1cHJ4eWJzMDVwcndwQVpETEx2amRVTmdqZUV2OUhfWkYtTWJNTEJGTlJJYTZBZ0YxRFhpOEdGN3NxUkpQOGlpS1gwNm1zTEozd2ozazBpbHlEWjd0RTFnV2lGYkhYd08wQUszZjh0TEdwTzQxcUdYLXdjVFdqNzFrZ1VHRkhaWjlMdw?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
-      "id": "4bac50918d09",
-      "title": "Dr Amir Khan warns people to never take common supplement with tea or coffee - The Mirror",
-      "published": "2026-05-17T09:04:00+00:00",
-      "summary": "Dr Amir Khan warns people to never take common supplement with tea or coffee&nbsp;&nbsp;The MirrorNever take these common supplements with tea or coffee, NHS doctor warns&nbsp;&nbsp;The Times of IndiaDr Amir Khan warns never to take these supplements with tea or coffee&nbsp;&nbsp;Birmingham Live",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04c1BfbWt0ak9IQWdvYll5VDBDVnRkTWNnMUw4ZmdsOWxmYVNMYlY2cTk5cGdrV21Xczh6ZS00c3NKNGo5eS1admktLWlNWHpJdmhZZFFzTHM4SFV0N3RKd3E3UGl6ZExDQWQxMnhyM0Nhd0xfMWpvV9IBfkFVX3lxTE5OUUZJZjlMTGxlUjM2QnZqY3h3ZFNvM2h4NU5yZkZhdlFiOWQ0eUplam1ZSzNnbkJiRE9TNVVBM0c2MmNyRGxXakYtUTlkYzY3a0YwaERjZEtXSXdqQUxyeVBjNmp6dzc2MFk5VzJ2bkxPenIxRFVDV3Rhckludw?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -312,6 +338,19 @@
       "feed_source": "google_uk"
     },
     {
+      "id": "12c714384e39",
+      "title": "Social media star makes up to £220k a month ‘curing ugliness’ - The Telegraph",
+      "published": "2026-05-16T15:27:00+00:00",
+      "summary": "Social media star makes up to £220k a month ‘curing ugliness’&nbsp;&nbsp;The TelegraphEx-Marlborough College pupil earns £220,000 a month saying he can 'cure ugliness' as 'looksmaxxer'&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkMtanVLb09USXNRVmQ2ZUpCTTV1cHJ4eWJzMDVwcndwQVpETEx2amRVTmdqZUV2OUhfWkYtTWJNTEJGTlJJYTZBZ0YxRFhpOEdGN3NxUkpQOGlpS1gwNm1zTEozd2ozazBpbHlEWjd0RTFnV2lGYkhYd08wQUszZjh0TEdwTzQxcUdYLXdjVFdqNzFrZ1VHRkhaWjlMdw?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
       "id": "76d343d93ac0",
       "title": "Ella, 22, given Royal Stoke brain tumour diagnosis - Stoke-on-Trent Live",
       "published": "2026-05-17T08:00:00+00:00",
@@ -325,27 +364,40 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "2b89449544f0",
-      "title": "An advert at a Swansea City game saved my life - Wales Online",
-      "published": "2026-05-17T08:14:00+00:00",
-      "summary": "An advert at a Swansea City game saved my life&nbsp;&nbsp;Wales Online",
+      "id": "219bd6dca605",
+      "title": "Heart surgeon issues warning for food people eat that is 'slowly destroying your heart' - UNILAD",
+      "published": "2026-05-16T16:21:13+00:00",
+      "summary": "Heart surgeon issues warning for food people eat that is 'slowly destroying your heart'&nbsp;&nbsp;UNILADThe 5 most harmful processed ingredients experts say you need to limit&nbsp;&nbsp;BBC Science Focus MagazineUrges for cardiologists to screen patients for UPF intake&nbsp;&nbsp;News-MedicalHER report spotlights the complexity of UPFs, arguing not all are unhealthy&nbsp;&nbsp;Nutrition InsightNot All Ultra-Processed Foods Are Equal, Says New US Health Research Panel&nbsp;&nbsp;vegconomist - th",
       "sources": [
         {
-          "name": "Wales Online",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdVam1zQ0lfOXptTHpxUTRtZlY1b0hwRzBFMERWbjFsaERteTNBeF8yck9jNFBMWjhaNzc4RWJ3ZGNKRUl5Y1VsYVV1RWZMZ1gxWXl2Z3VOTU5lbWN3STA0QzFHcFBwcUN4eWhKdzZPazNvbHNXYWVHSmN6Z3ZqUW9KTk1yQTFQUndJeElB0gGTAUFVX3lxTE5XbWI3QWd6NGNhbkQyT1pCay1sSU90dkNTZ1FVMVlGZmRYbVJYMEcxUEptci1MY1NQVVlEV0tXejdyWENJSlNTMnZVMjNHMGJEejZkcDRjUWVpM2w3bDdIbktldUxaOUNLX05oVjV6bS1NRjF5SXdrMVZCUHNTOWpKd004bC1ZM3ZyTWduUFhWSkFDbw?oc=5"
+          "name": "UNILAD",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUW51bG43azRObWd6N1dWcjhlYlVDZDF5dUtHcC1Ick9yekc2WkgxVFpIUlZ6VHRXdmxMLU9GQ2FmYmhfS1RsUmxRNzZYZ2hMR1c4VkJSeWY2c0tPUFdVWl9FbGdCWTVZZG1IYllzUUU5YUtKNkdrNDlnQ0hjOEFSbWd3RkFqWVBEdEh0UnZwc1N6OGJqOEE?oc=5"
         }
       ],
       "feed_source": "google_uk"
     },
     {
-      "id": "89daba3d1e03",
-      "title": "Daughters helping their mum fight for her life after incurable brain tumour diagnosis - Norwich Evening News",
-      "published": "2026-05-17T05:00:00+00:00",
-      "summary": "Daughters helping their mum fight for her life after incurable brain tumour diagnosis&nbsp;&nbsp;Norwich Evening News",
+      "id": "21b9f9795039",
+      "title": "Where You Live May Affect How Rapidly You Age, Sweeping Study Finds - ScienceAlert",
+      "published": "2026-05-18T11:02:21+00:00",
+      "summary": "Where You Live May Affect How Rapidly You Age, Sweeping Study Finds&nbsp;&nbsp;ScienceAlertWorld first DNA study: where you live may change how fast you age&nbsp;&nbsp;The University of ManchesterMoving between locations can drastically change aging&nbsp;&nbsp;newsreel.com.auStanford scientists map the molecular diversity of different global populations&nbsp;&nbsp;News-MedicalStanford Medicine-led research links human molecular, microbial diversity with geography, ethnicity&nbsp;&nbsp;Stanford M",
       "sources": [
         {
-          "name": "Norwich Evening News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkUxQ1lvS0s4U09vZXpuM19KT3NYcWpyZm1OU3lXQ2JUcWpXV3V2SHlhSklqOWlrYnlwRjh5alllR0JNNTQzUnVySXBpOFRIUmQyS2lpQVRScEI1NHllXzZkNEs0d1ZmTnU1aG12QndTX1BHaXlCRGN2TG1vUVdEd1ZLT3llQ29ZVVBuZXB1U2hweGpwN0FiY2Vnd1lpcEVZ?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWx6SFpUQllid3FyeEhQN1B6NmxXdmcwTE8ydXRCeHp6enUyZ0FzTXpyeWl5S25GdllkczFrM0FXSHJSOUtHSWZHX3RpRkczcjVNOUJlaTdsRThhLW5SRHZleGhOVVJvSzZLdVV6Rkx0V0RpUGxlcUxsWmc0d1h6Y3NZcHJ2MFRwenFuMjZjMWZkT1cyMmhYWjBHWQ?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
+      "id": "3b4386daca0d",
+      "title": "Three months after my stroke at 31 my husband did unthinkable to me & our baby - The Sun",
+      "published": "2026-05-17T15:01:00+00:00",
+      "summary": "Three months after my stroke at 31 my husband did unthinkable to me & our baby&nbsp;&nbsp;The Sun",
+      "sources": [
+        {
+          "name": "The Sun",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -377,23 +429,10 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "3b4386daca0d",
-      "title": "Three months after my stroke at 31 my husband did unthinkable to me & our baby - The Sun",
-      "published": "2026-05-17T15:01:00+00:00",
-      "summary": "Three months after my stroke at 31 my husband did unthinkable to me & our baby&nbsp;&nbsp;The Sun",
-      "sources": [
-        {
-          "name": "The Sun",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3UxenJNTHNJc1pyV2tzQjFVUGVSLWhGdVNrNkstOW9ja0wtclFCS1YwVEJYd0NaM2lELVg2OGUtWVR4UUtEMUV4SHMtNElEUVo1SmxpV2czSUhmbm1lR19PdEhzdC14NGowNlJZZFJlZnh5Ni1fOGY5STFoczhnVEgxV0VWWVU?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
       "id": "7ceeecb934f9",
       "title": "‘You only have so much space’: the limits of reducing infection risk on cruise ships - The Guardian",
       "published": "2026-05-17T14:02:00+00:00",
-      "summary": "‘You only have so much space’: the limits of reducing infection risk on cruise ships&nbsp;&nbsp;The GuardianBooming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak&nbsp;&nbsp;WSJI Know Way Too Much About Infectious Diseases. Here’s Why I’m Considering Taking a Cruise With My Family Anyway.&nbsp;&nbsp;SlateThe cruise industry needs you&nbsp;&nbsp;The TelegraphFrom Medieval Plague Ships To Hantavirus: How Outbreaks At Sea Helped Shape The International Public Health Syste",
+      "summary": "‘You only have so much space’: the limits of reducing infection risk on cruise ships&nbsp;&nbsp;The GuardianBooming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak&nbsp;&nbsp;WSJThe cruise industry needs you&nbsp;&nbsp;The TelegraphFrom Medieval Plague Ships To Hantavirus: How Outbreaks At Sea Helped Shape The International Public Health System&nbsp;&nbsp;NDTVVenice & Dubrovnik Alert: The Terrifying New Cruise Ship Travel Epidemic You Aren’t Being Told About Now!&nbsp;&",
       "sources": [
         {
           "name": "The Guardian",
@@ -403,40 +442,14 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "5abf495223bc",
-      "title": "Men seeking help for prostate cancer rises 50pc in a year - The Telegraph",
-      "published": "2026-05-16T13:00:00+00:00",
-      "summary": "Men seeking help for prostate cancer rises 50pc in a year&nbsp;&nbsp;The Telegraph",
+      "id": "c54d536875fc",
+      "title": "Humans Age Faster at 2 Sharp Peaks, Research Shows - ScienceAlert",
+      "published": "2026-05-17T23:35:42+00:00",
+      "summary": "Humans Age Faster at 2 Sharp Peaks, Research Shows&nbsp;&nbsp;ScienceAlertLongevity doctor explains internal changes that come with ageing, shares what to measure and how to age well&nbsp;&nbsp;Hindustan TimesDiscover Why Your Kidneys Age Faster and How To Slow It Down&nbsp;&nbsp;AOL.comThe 3 key ageing milestones revealed… & how to slow the damage in EVERY decade&nbsp;&nbsp;The SunThe Surprising Organ That Ages the Fastest—and What You Can Do About It&nbsp;&nbsp;Parade",
       "sources": [
         {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRkc0NUMGh6NXhieEJuMVJjNXp5VzE5WWpBWDBTZG9kMTVwN1lpVzVRTHBuR0lNTnduMzUyTEJ5MWM0S1dmQ2hPNGc5WE1QbEVCREtpN05pMEplLUN1OFNTaG9vQ2tNX01wbVlLcnl2eTdRemY0WERxQjluMUpHOXFreENKSmluQU1VWEdFT2hsYTU5TEdJVjhaY0FLM0V2QWxOMg?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
-      "id": "d73841ac2c7c",
-      "title": "Eating this while taking statins could be 'toxic' - Lancs Live",
-      "published": "2026-05-16T11:42:45+00:00",
-      "summary": "Eating this while taking statins could be 'toxic'&nbsp;&nbsp;Lancs Live",
-      "sources": [
-        {
-          "name": "Lancs Live",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUtoendFNTJpME4talJVWDR3dEFSczA0R3dRbHJzNHpBRFh6WEkyeWtXTnU3eUJKR09jOTZxVjFERWhPOE11MkxRY3VPSzBiemI5Mmd0aTBPUHRYWFdybkdmRE42alk0a3hZMUFkQnBhT2pyTzJvdXhERmJfbHJTSmczOWstNDZ4U2liadIBkgFBVV95cUxOQzlobXlMTS1PalMxNzhmT0F5OVluOHN5OGlnZFRWMFh6SWVkRHk4RUVmYmJvdFZxVlB4OWxVY1FkdUdpQ1FIWjdEdlNIM09GeEYyZDNxM01mTXd4b0pyd3E2YmFIQndSZ2VGYzVSMzdZY2RmSmJteWpHUmRCRE9UcFA2ZVp2UXZGZVROR2pfaTY0UQ?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
-      "id": "38949d44fbba",
-      "title": "Golden Retriever and German Shepherd Meet on a Walk—and Instantly Become Best Friends - PetHelpful",
-      "published": "2026-05-16T13:20:00+00:00",
-      "summary": "Golden Retriever and German Shepherd Meet on a Walk—and Instantly Become Best Friends&nbsp;&nbsp;PetHelpful",
-      "sources": [
-        {
-          "name": "PetHelpful",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXh3bUVDbzI5RjNJc1pvUERodmF5UFpESHppeW9ya0dNdlUydm5PMHN1a1BDQ0FzZF9ETFB4cmwyallqaUxkNmlsbEhhOTl6QVpSaGZLV0l3bEVlZGxCNzJQbFBIMDZaRFJQWi1rQVQybnI0RDAzd3dEd0liWFg0WHZYYnhwSVpnMW1mZXRMQS1uTnZL?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNemZ3NkJLajM2X3huQXBZQUFtM3pEOUJZRW9FcVFfVVU4UUR6Vmlza2Z5am5ZZmIzemtmLUhUdHZvS045LUVUMjVxTWNiUnVVM0JDMmh0dDhuYW96NVVETUo1dml5TkFRWkxQa0NIcVdiM2tJd0JQWUFDMEtieDlEUVFjQ1g?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -455,23 +468,10 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "c54d536875fc",
-      "title": "Humans Age Faster at 2 Sharp Peaks, Research Shows - ScienceAlert",
-      "published": "2026-05-17T23:35:42+00:00",
-      "summary": "Humans Age Faster at 2 Sharp Peaks, Research Shows&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNemZ3NkJLajM2X3huQXBZQUFtM3pEOUJZRW9FcVFfVVU4UUR6Vmlza2Z5am5ZZmIzemtmLUhUdHZvS045LUVUMjVxTWNiUnVVM0JDMmh0dDhuYW96NVVETUo1dml5TkFRWkxQa0NIcVdiM2tJd0JQWUFDMEtieDlEUVFjQ1g?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
       "id": "acb40e8c6928",
       "title": "Overall Brain Health Protects Memory From Early Alzheimer’s - Neuroscience News",
       "published": "2026-05-16T21:27:34+00:00",
-      "summary": "Overall Brain Health Protects Memory From Early Alzheimer’s&nbsp;&nbsp;Neuroscience NewsA Healthy Brain Could Help Fight Alzheimer’s Before Symptoms Start&nbsp;&nbsp;Technology NetworksStudy Finds Potential Buffer Against Alzheimer’s: It Shows Up On A Brain Scan&nbsp;&nbsp;StudyFindsWhat 'super-agers' have to teach us about how our brains age&nbsp;&nbsp;Irish ExaminerWhy Some People Maintain Excellent Memory Even After 80 Years&nbsp;&nbsp;Inbox.eu",
+      "summary": "Overall Brain Health Protects Memory From Early Alzheimer’s&nbsp;&nbsp;Neuroscience NewsWhy Some People Maintain Excellent Memory Even After 80 Years&nbsp;&nbsp;Inbox.euA Healthy Brain Could Help Fight Alzheimer’s Before Symptoms Start&nbsp;&nbsp;Technology NetworksStudy Finds Potential Buffer Against Alzheimer’s: It Shows Up On A Brain Scan&nbsp;&nbsp;StudyFindsWhat 'super-agers' have to teach us about how our brains age&nbsp;&nbsp;Irish Examiner",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -494,10 +494,36 @@
       "feed_source": "google_uk"
     },
     {
+      "id": "2a3c3104751a",
+      "title": "Magic mushrooms could be effective treatment for cocaine addiction, study shows - The Guardian",
+      "published": "2026-05-18T11:00:00+00:00",
+      "summary": "Magic mushrooms could be effective treatment for cocaine addiction, study shows&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRW1tc2h2cGNVUWN4LTZjbDN6WHc5b1hGTTNSMEJkVUVXRWtuVlgxT21kdWZhblNzSGhGN2Q4TTd5NlphRjlGVkxsOTBhem5KNnMxalk4RE03V3ZOQUcydnZkbFpOaTgtOF8wTVhIWS11cGhnQzgwSlRxdGhCUE5BQ2FsbWhubXd5SFRINE9uYXpGTE9YaDVkLXJITnNiQQ?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
+      "id": "fc806e16bed1",
+      "title": "Common Cleaning Chemical Could Triple Your Risk of a Dangerous Liver Disease - SciTechDaily",
+      "published": "2026-05-18T10:45:24+00:00",
+      "summary": "Common Cleaning Chemical Could Triple Your Risk of a Dangerous Liver Disease&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1FZTUxFakNhd2J1d2hYVldjaldhUkV5YUVCdzE3SzNreG5IZ2JyUVRtRVNjTTBzNjF1NEVnRGZVV3BSMDVwak5QLVNaQlhGWEdieUtFSWNaVk85bl9VcEhIeUVBV3BWSzZHcURPdG5Xc0VTaGRwZWJXNERSbHZLejNBX0Rzclh2LWdha3FhM0dFNEdwcXdzRGV2RG9fRWkxVndkRw?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
       "id": "45285b3a01f9",
       "title": "Patagonia shares lessons on what it learned from hantavirus - Financial Times",
       "published": "2026-05-17T13:40:11+00:00",
-      "summary": "Patagonia shares lessons on what it learned from hantavirus&nbsp;&nbsp;Financial TimesMeet the hantavirus culprit and the researcher getting sleepless nights over funding cuts&nbsp;&nbsp;TRT WorldDeadly Cruise Ship Hantavirus Outbreak Paralyzes Argentina Tourism Hub&nbsp;&nbsp;streamlinefeed.co.keThis small rodent is at the center of theories about the hantavirus outbreak&nbsp;&nbsp;Scientific AmericanOld wounds reopened&nbsp;&nbsp;China Daily - Global Edition",
+      "summary": "Patagonia shares lessons on what it learned from hantavirus&nbsp;&nbsp;Financial TimesArgentina’s icy outpost at the end of the world fears the hantavirus will chill tourism&nbsp;&nbsp;AP NewsThis small rodent is at the center of theories about the hantavirus outbreak&nbsp;&nbsp;Scientific AmericanThe city at ‘the end of the world’ faces hantavirus crisis – here’s why&nbsp;&nbsp;The IndependentOld wounds reopened&nbsp;&nbsp;China Daily - Global Edition",
       "sources": [
         {
           "name": "Financial Times",
@@ -507,14 +533,14 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "b8b3e3fa17aa",
-      "title": "There is a moment near death, documented in EEG recordings of dying patients, when the brain produces a coordinated burst of gamma wave activity more intense than anything measured in waking life — and no one knows what it is, what it's for, or what the - Space Daily",
-      "published": "2026-05-18T00:40:17+00:00",
-      "summary": "There is a moment near death, documented in EEG recordings of dying patients, when the brain produces a coordinated burst of gamma wave activity more intense than anything measured in waking life — and no one knows what it is, what it's for, or what the&nbsp;&nbsp;Space Daily",
+      "id": "96e9d05160af",
+      "title": "Canada confirms first hantavirus case in isolation in British Columbia - The Guardian",
+      "published": "2026-05-17T21:45:00+00:00",
+      "summary": "Canada confirms first hantavirus case in isolation in British Columbia&nbsp;&nbsp;The GuardianCanadian from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;BBCCanada confirms first hantavirus case in tourist on Vancouver Island&nbsp;&nbsp;The IndependentCanada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers&nbsp;&nbsp;Fox NewsNational lab confirms hantavirus case for Canadian cruise passenger isolating in B.C.&nbsp;&nbsp;CBC",
       "sources": [
         {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQc1lRSGxXUUQxSzNhWGRlQzBMME8zSU9YSG9WZ0o2SzBxNC1BQlJPbVU1UmhWYUdIYjl4Z3RPTjBPZzlLQXVhcWdNSWppVkVtQVdlZWdRQW9Cdlc3SjFvMEJwbnFxSl93NVY0TjJkVkVSU3NDdW83NFJHV2tlcmhSaTlZWVdXMHJXSUdLRUY0ZnhJSHZjcVZOaU8wWEI2Q1pUSnZNc2tGbzVMYl80MlhZaWFzcldCUG9NYmVSUkl2V25sZzFPZGIxRXRIYWdnclltZk9GUmJ6aUVBbDE3NWszR2xQQ19NRE5vZWZKaXpUY2xfeXhYSTdsems2Q0RYVjB5dW5oWXdBU3hzWGtKN0RUSUdTa0U4RmZyNkFIa2V1VmNIVFhfb1RRRUxGTHZSNTZMZ3Nka3BIUDJ4MTI3ZnZMR3dpZjA0dw?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -528,6 +554,19 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZllaeEF2Z0xqdWloTFRhQjZsMDF3bVEyVm50eUhyYTYyX3NpdlowWV9nT0dpeFNleXZXdEZ6dm1sOHdfclBYSVBxUW5iMGl6TU42TW9mV3JJcXFiMVBHSU85U2ZFWTJGSFVMZ1A5Z3JicWtJajE1bWN3X1dIb19XZzNzQmFkRFVYeEFHY0h2XzhNZEw1NllqWmM2UEt1dw?oc=5"
+        }
+      ],
+      "feed_source": "google_uk"
+    },
+    {
+      "id": "a06a5d3ddbee",
+      "title": "\"My Boss Kept Commenting on My Body\": Why My Fake 'Weight Loss Journey' Made Him Threaten to Cry. - TwistedSifter",
+      "published": "2026-05-17T18:27:26+00:00",
+      "summary": "\"My Boss Kept Commenting on My Body\": Why My Fake 'Weight Loss Journey' Made Him Threaten to Cry.&nbsp;&nbsp;TwistedSifter",
+      "sources": [
+        {
+          "name": "TwistedSifter",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNnE2NnQxbWxWV1FZcUtfQ1Jsa2dqSGR1Y21BMU1hZ3dScUpyd2N4U1VxLTMxdGpjMDY1TU9DOVctUkdTdWZMeW9tR2NBNXVFeHJHUXpDT2h4RjVvZW9YNWMtVlRzdDI3ZUg1cGpxRE5yNTREZTRsajE3MHhzYVpsRHhGNTc3blFSTDRhQm5vdWxxTVhBcTA2YkZqVFplSEVMaHhCaUUxMU9MZkVhdlA5ZDhWVEpaY19ObWowSHJ2ekpiYUNRdDhrTm9reUhGVjZXZzB3Mi1BUnF0T3p4M0YzelQ4VUVHQTBUVU5NZmFaVEpwZw?oc=5"
         }
       ],
       "feed_source": "google_uk"
@@ -559,32 +598,6 @@
       "feed_source": "google_uk"
     },
     {
-      "id": "a06a5d3ddbee",
-      "title": "\"My Boss Kept Commenting on My Body\": Why My Fake 'Weight Loss Journey' Made Him Threaten to Cry. - TwistedSifter",
-      "published": "2026-05-17T18:27:26+00:00",
-      "summary": "\"My Boss Kept Commenting on My Body\": Why My Fake 'Weight Loss Journey' Made Him Threaten to Cry.&nbsp;&nbsp;TwistedSifter",
-      "sources": [
-        {
-          "name": "TwistedSifter",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNnE2NnQxbWxWV1FZcUtfQ1Jsa2dqSGR1Y21BMU1hZ3dScUpyd2N4U1VxLTMxdGpjMDY1TU9DOVctUkdTdWZMeW9tR2NBNXVFeHJHUXpDT2h4RjVvZW9YNWMtVlRzdDI3ZUg1cGpxRE5yNTREZTRsajE3MHhzYVpsRHhGNTc3blFSTDRhQm5vdWxxTVhBcTA2YkZqVFplSEVMaHhCaUUxMU9MZkVhdlA5ZDhWVEpaY19ObWowSHJ2ekpiYUNRdDhrTm9reUhGVjZXZzB3Mi1BUnF0T3p4M0YzelQ4VUVHQTBUVU5NZmFaVEpwZw?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
-      "id": "b2911250e6ce",
-      "title": "Doctors Explain What Causes Lightheadedness and the Warning Signs to Watch For - Prevention",
-      "published": "2026-05-16T13:01:06+00:00",
-      "summary": "Doctors Explain What Causes Lightheadedness and the Warning Signs to Watch For&nbsp;&nbsp;Prevention",
-      "sources": [
-        {
-          "name": "Prevention",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzdRYkhkekcwVVZwTFkwZXZGUE04V0NJU0JoeWpsT0Vqa1hIQldyU2FZOHA2YmRNY20xSHk5Q0dMSkphZ3VyNjlmNlFoSGtYZVgyRlZwbVRQOElPWVBiOERHZUw4TzBaYndWMzMzQTRCMExMX1JmMGEydC1aMU4zdDV0OWhtbjBs?oc=5"
-        }
-      ],
-      "feed_source": "google_uk"
-    },
-    {
       "id": "7deca8cb059a",
       "title": "Lupus survivors share travails of living with life-altering disease - Punch Newspapers",
       "published": "2026-05-16T23:10:39+00:00",
@@ -611,40 +624,53 @@
       "feed_source": "google_de"
     },
     {
-      "id": "05f9c235c453",
-      "title": "Sind Calcium-Tabletten für Herzkranke schädlich? - Deutsche Herzstiftung e.V.",
-      "published": "2026-05-18T08:25:55+00:00",
-      "summary": "Sind Calcium-Tabletten für Herzkranke schädlich?&nbsp;&nbsp;Deutsche Herzstiftung e.V.",
+      "id": "e399e57a8a89",
+      "title": "Schlafende Riesen: Wie verborgene Viren in Algen erwachen und an künftige Generationen weitergegeben werden - idw - Informationsdienst Wissenschaft",
+      "published": "2026-05-18T12:55:00+00:00",
+      "summary": "Schlafende Riesen: Wie verborgene Viren in Algen erwachen und an künftige Generationen weitergegeben werden&nbsp;&nbsp;idw - Informationsdienst Wissenschaft",
       "sources": [
         {
-          "name": "Deutsche Herzstiftung e.V.",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjA5dU93dk9SV2FMWW1TS0ZIMHNFZTl4Z3FCTG9QSXBFdXlYMVhfOFBLY0JwT0JFUW5LTmt3RE9uMHBCaGlEUFc4ZUwydnBCb1FtZm5kWW9aVFJldHVITkpKSDhxTC1XY01vdXc5VmdJVU1TcGVSd1l4Wnd3N1RfRVEycVFZbnA0bm9EdVpRMktMeVVJQXg4WmU4d3QxMEk?oc=5"
+          "name": "idw - Informationsdienst Wissenschaft",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3M2R2el9ydWJmN09WZmhrWjBNRDZlMVZFaHhOVkdGbFR2N2VidUYwaWpFWXRmcDdFaU1ZWlk4dGVNRnlueDk0cm4wRQ?oc=5"
         }
       ],
       "feed_source": "google_de"
     },
     {
-      "id": "43884b69897f",
-      "title": "Was bringen Antiarrhythmika bei Vorhofflimmern langfristig? - Deutsche Herzstiftung e.V.",
-      "published": "2026-05-18T08:24:48+00:00",
-      "summary": "Was bringen Antiarrhythmika bei Vorhofflimmern langfristig?&nbsp;&nbsp;Deutsche Herzstiftung e.V.",
+      "id": "64dec8d57c9c",
+      "title": "Grippeimpfung senkt Alzheimer-Risiko – Neue Studien belegen Effekt - AD HOC NEWS",
+      "published": "2026-05-18T14:28:25+00:00",
+      "summary": "Grippeimpfung senkt Alzheimer-Risiko – Neue Studien belegen Effekt&nbsp;&nbsp;AD HOC NEWSHochdosierter Influenza-Impfstoff könnte Demenz vorbeugen&nbsp;&nbsp;AerzteZeitung.deHochdosierte Influenzaimpfung: Geringeres Alzheimer-Risiko im Alter?&nbsp;&nbsp;Gelbe ListeHochdosis-Grippeimpfung senkt Alzheimer-Risiko um 55 Prozent&nbsp;&nbsp;AD HOC NEWSWie „trainierte Immunität“ Impfungen mit Demenzrisiko verbinden könnte&nbsp;&nbsp;it boltwise",
       "sources": [
         {
-          "name": "Deutsche Herzstiftung e.V.",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmY0S1Yyd0Fpamk0eFlJT25ZSUxCX1pMTURWbnRNNFMzVU9VLWJLTkg5Nm02VnRnbE15RlM2amFYT2Q0S3dWWmVFd21ldXY3QUNpSVVWUGFKUUs5Tmk2a3B1UERvTjRKTEkxWFpGeUxFb2VXMzUzWk1SWl9nQUZxYUUyMWEwZGtldWV5OGdabGM1dw?oc=5"
+          "name": "AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTEzdVBGdkVOeVJlbS1LWlkydVJFQ3lkTDlNTzh3ZmVzeVlyY3ViZWpaaVJaSlQwWHZ3UjlCaVNwR1FlQ3JOVFJldmNPN3hoOHFobVJRNW5KN0NqT1hRSkVPTXhDS3JhSFo4anlzZk1sdlFLVlV2TzNFVS1Cdk9nYjVsUVJGUkduamtRUnAzRHNRVmwxXzNnM3ByYXhKaXhYSUJ4V0pVRkptNjM5SkNqMzNhSQ?oc=5"
         }
       ],
       "feed_source": "google_de"
     },
     {
-      "id": "578e4a65369e",
-      "title": "Medizinische Fakultät Universität Münster - medizin.uni-muenster.de",
-      "published": "2026-05-18T05:29:37+00:00",
-      "summary": "Medizinische Fakultät Universität Münster&nbsp;&nbsp;medizin.uni-muenster.de",
+      "id": "6737ab3d0615",
+      "title": "Gezielte Mundpflege kann nosokomial erworbene Pneumonie verhindern – News - Deutsches Ärzteblatt",
+      "published": "2026-05-18T14:20:25+00:00",
+      "summary": "Gezielte Mundpflege kann nosokomial erworbene Pneumonie verhindern – News&nbsp;&nbsp;Deutsches Ärzteblatt",
       "sources": [
         {
-          "name": "medizin.uni-muenster.de",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOdHVER1c5eFA1cm51OVRPazNUMkt1UDBSakVrVkV3a1dIMERiV2EzSTFPY1B6bkw1V0lwY2dRN05CTmZHU2JQTVNzaTRLUFB6RzZpb2R5REJKd1VOU0FKMjVUTjBWYTBDajc1WGVVVDFFMDFnNWhJQ0kyMzFFR1pVcXpwOUhxVFdMS0ZiSXBVcFlNWlBjVnhvRHRncEszUHlySFV0RzFGTW4zR19sT3l6b19MWmNxS2dwQjN0dW0tYk44dUoyUzA1bGhtX1dwMkNUNU1hcXJ3NEkwMlE0YWRyaVJBY29oTlh2dWdhV3JNSHZDOUtyTEJ5Yy1OVjQwZm8yQ1lOeHM2a1ZXTnRHempfQXItUk82MzNqcDdjd2tUWWFjOW1JaTN4X0lDUlRkc2EtTUJIUVBmeTFJTUxSUDB5Vm5lTDFhdDZsM1VFaEQ4OFRmZU5D?oc=5"
+          "name": "Deutsches Ärzteblatt",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZTg2VG41Y2JWRTNTVFBUM19TOG5IQkhsWElMT1BMTFhPMGgtV2FqeUJWd3FwMHFPYUpiRGQtWmpJRzlVY3JYSjROY3hFRG5MWWV5NkFMLVJOLUZxNmxHdVlBQUhhbmpERVRQUmZxVVBab1Z0LTZGX1YwUGZRVE1QTW5lZE1wMEJQc1BUZEdnY3FPeDZRX1ZjRmUtOHBpb3BoZ09SdUxicEp1NE5Gb1FPUUZYOTBhUnMwVno5M0FWTUIxam5QRlJ4TEI4RGdnQkVh?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "e10a3cff0438",
+      "title": "Zunehmende Fungizid-Resistenzen: Ruf nach globalen Lösungen – News - Deutsches Ärzteblatt",
+      "published": "2026-05-18T14:24:18+00:00",
+      "summary": "Zunehmende Fungizid-Resistenzen: Ruf nach globalen Lösungen – News&nbsp;&nbsp;Deutsches Ärzteblatt",
+      "sources": [
+        {
+          "name": "Deutsches Ärzteblatt",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2x5TlU0NnVuUm14bnZfMG0zYWtFeGR1QUlWOE5yUUhzWU9BdjlRU0ViUVg1eGFQZWhHM0ViU2ZTcWVKUTE2R25STDJzek5QQ05oRW1vS3gzMG5ETTdHbW1oUktDa2dhTUZHcGIzUUVxTDk1VkluM3I1QUc1RVo4S0JZS0RhR1BDMGVUOU5yeUNtMDcxMENncVk0bWdGeUVHam5Sc3lRQ2xLaWxNVzlhcU9Kc2UydmxLUmJObC1wWDdwSW1Ta3c?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -663,6 +689,71 @@
       "feed_source": "google_de"
     },
     {
+      "id": "1494aaabf886",
+      "title": "Neues Zentrum für Psychologie und Translationale Neurowissenschaften - MedEcon Ruhr",
+      "published": "2026-05-18T12:28:12+00:00",
+      "summary": "Neues Zentrum für Psychologie und Translationale Neurowissenschaften&nbsp;&nbsp;MedEcon Ruhr",
+      "sources": [
+        {
+          "name": "MedEcon Ruhr",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXBZTXFwYXJBOHVCTER0UWlKc1p6TXBVdUdKWjFFT21YU3hqYzdJTU1kSXYwdF9XTzhsdEplOTMxVWx1aEYtQWhYYk1WVWljVDI2OUNLdzlSMnNVVVF5a2NJRDhySzl0a20xWGVsejdtRmZKZmVhR2VVYk1HOXhMTkxtcXVsaUlCcTdncGc0Nlg4ZU1VN0lWd1JlcTZVZnFu?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "c5171d9cc13b",
+      "title": "Typ-1-Diabetes: Aktueller Stand bei den Betazellersatztherapien - Medscape",
+      "published": "2026-05-18T12:29:52+00:00",
+      "summary": "Typ-1-Diabetes: Aktueller Stand bei den Betazellersatztherapien&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25iYWZiMEd3NEZoWktsN3AtVVUzZnBJdjBLWVJqZlJvbHJ1WWdpd1ZuZDZPY1Aydk1rLVk0LTN5LWhCcEw1ZEFkeG9NSTZkRFNuS09yS2lXRU1xTk5UTkZzZS12aGY1bTdrQXNoZjJBZGtUZ3FvdFBwdWg2VV9zRkhzMTVHUnZ4bDJES3hnZmRUcWI4czdjck5hdzA?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "36b181d34c00",
+      "title": "Darmentzündungen: Süßholzwurzel-Wirkstoff weckt Hoffnung - aponet.de",
+      "published": "2026-05-18T11:57:21+00:00",
+      "summary": "Darmentzündungen: Süßholzwurzel-Wirkstoff weckt Hoffnung&nbsp;&nbsp;aponet.de",
+      "sources": [
+        {
+          "name": "aponet.de",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbklXX1VnOHU1N3FjZXFxdm1naWs0VHdmWUlMeDFRREtGNGhEZzBKeFhrZWMtQTRXX2MwQ2hoeXd6cTlEMXl4dDlGMzBSMmhkZWtmdDY0RWJwdzBuQ0dKWENEc1NkSUxjQ05MOG5qWTNCbzcwRmFRT1U0ZXU3cU8yQ1VjbFdSd1QzbEVtWHg5bWhTR1JKRjVPQzJ3?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "f9e5c948aab3",
+      "title": "Gewichtsreduktion: Mysimba wieder verfügbar - Pharmazeutische Zeitung",
+      "published": "2026-05-18T10:00:00+00:00",
+      "summary": "Gewichtsreduktion: Mysimba wieder verfügbar&nbsp;&nbsp;Pharmazeutische Zeitung",
+      "sources": [
+        {
+          "name": "Pharmazeutische Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnRDFodEtsV181ZkRsMVFpR1BHSEY1bk1CRDZSaGlrd0NKUFRDc214NXNKNDZqRVZrYVRHOE5tazdEMEJvSmF3emFPcHlOU1YwM04zcHVNSUx2bUI0UWlqdHBqdV92Vmx3bW04Njc3RExNc095TlZUVEwzeTA?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "43884b69897f",
+      "title": "Was bringen Antiarrhythmika bei Vorhofflimmern langfristig? - Deutsche Herzstiftung e.V.",
+      "published": "2026-05-18T08:24:48+00:00",
+      "summary": "Was bringen Antiarrhythmika bei Vorhofflimmern langfristig?&nbsp;&nbsp;Deutsche Herzstiftung e.V.",
+      "sources": [
+        {
+          "name": "Deutsche Herzstiftung e.V.",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmY0S1Yyd0Fpamk0eFlJT25ZSUxCX1pMTURWbnRNNFMzVU9VLWJLTkg5Nm02VnRnbE15RlM2amFYT2Q0S3dWWmVFd21ldXY3QUNpSVVWUGFKUUs5Tmk2a3B1UERvTjRKTEkxWFpGeUxFb2VXMzUzWk1SWl9nQUZxYUUyMWEwZGtldWV5OGdabGM1dw?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
       "id": "b6f03c063322",
       "title": "Neuer Biomarker-Score verbessert Erkennung alkoholbedingter Lebererkrankung - Gelbe Liste",
       "published": "2026-05-18T06:33:32+00:00",
@@ -671,6 +762,32 @@
         {
           "name": "Gelbe Liste",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXVjWVpVTWdRSEtxMGRZUFFzOGp5QUNNbFA1bm9lR3pBS2gtdGI1eVd5Y1o4YjFJNm9POTVzaGt4dFg4cXZwOVdaQmNvUGpqZzUtcjVBVnZtZUZYZnN4dHBNT1dGUTlTcnYzWXplQzF6Yi1YMUwteC1LT0hLTTBGbkk3dGN4Z1JMa1hxS3RxcmNEVkJnUHVabXdmSnA0SGs2YlJpWHA2UlFuZw?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "578e4a65369e",
+      "title": "Medizinische Fakultät Universität Münster - medizin.uni-muenster.de",
+      "published": "2026-05-18T05:29:37+00:00",
+      "summary": "Medizinische Fakultät Universität Münster&nbsp;&nbsp;medizin.uni-muenster.de",
+      "sources": [
+        {
+          "name": "medizin.uni-muenster.de",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOdHVER1c5eFA1cm51OVRPazNUMkt1UDBSakVrVkV3a1dIMERiV2EzSTFPY1B6bkw1V0lwY2dRN05CTmZHU2JQTVNzaTRLUFB6RzZpb2R5REJKd1VOU0FKMjVUTjBWYTBDajc1WGVVVDFFMDFnNWhJQ0kyMzFFR1pVcXpwOUhxVFdMS0ZiSXBVcFlNWlBjVnhvRHRncEszUHlySFV0RzFGTW4zR19sT3l6b19MWmNxS2dwQjN0dW0tYk44dUoyUzA1bGhtX1dwMkNUNU1hcXJ3NEkwMlE0YWRyaVJBY29oTlh2dWdhV3JNSHZDOUtyTEJ5Yy1OVjQwZm8yQ1lOeHM2a1ZXTnRHempfQXItUk82MzNqcDdjd2tUWWFjOW1JaTN4X0lDUlRkc2EtTUJIUVBmeTFJTUxSUDB5Vm5lTDFhdDZsM1VFaEQ4OFRmZU5D?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "d42769ecdfea",
+      "title": "PCOS heißt jetzt PMOS - Deutsche Apotheker Zeitung, DAZ",
+      "published": "2026-05-18T05:00:00+00:00",
+      "summary": "PCOS heißt jetzt PMOS&nbsp;&nbsp;Deutsche Apotheker Zeitung, DAZEndokrinologie: Aus PCOS wird PMOS&nbsp;&nbsp;Pharmazeutische ZeitungPolyzystisches Ovarialsyndrom: Neuer Name für Hormonstörung PCOS&nbsp;&nbsp;Spektrum der WissenschaftUmbenennung von PCOS zu PMOS: Warum der neue Krankheitsname zählt&nbsp;&nbsp;it boltwiseVon PCOS zu PMOS: Warum die Namensänderung der Erkrankung Hoffnung für Betroffene bringt&nbsp;&nbsp;eltern.de",
+      "sources": [
+        {
+          "name": "Deutsche Apotheker Zeitung, DAZ",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -689,6 +806,71 @@
       "feed_source": "google_de"
     },
     {
+      "id": "78eef606dd47",
+      "title": "Wassermelone in der Forschung: Herz-Kreislauf-Potenzial durch L-Citrullin und bessere Ernährung - it boltwise",
+      "published": "2026-05-18T12:59:28+00:00",
+      "summary": "Wassermelone in der Forschung: Herz-Kreislauf-Potenzial durch L-Citrullin und bessere Ernährung&nbsp;&nbsp;it boltwise",
+      "sources": [
+        {
+          "name": "it boltwise",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlpDVlB1R0NBWjBIY2QtSXRZZmZaNUhXWndLTEgtaC1oRXh3dXIxNXJ1LS1RSllmek0xUkl5QVVwNENfTmxoTnlpZllhTWhiSE02UDQzNXNEMlZYeU02TmxwUnpUNWdvdXJNTExRajBYM1JKUUtqZ3RoXzZhcng5QlpUc2ZJZ2s2aWJqcW43aFlHNjJoSkV0N2Y4a2J0M2p5UGRybFZfMF84X0h4WnpKT3lZZDc1QXRyOHNsSmM1NmFvSU11NEE?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "d2a25bf603ad",
+      "title": "Forscher lösen zwei Probleme für die Kernfusion im Dauerbetrieb - WinFuture",
+      "published": "2026-05-18T13:57:00+00:00",
+      "summary": "Forscher lösen zwei Probleme für die Kernfusion im Dauerbetrieb&nbsp;&nbsp;WinFuture",
+      "sources": [
+        {
+          "name": "WinFuture",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jMzJ2aUhtZWR0Y2Itd2h6WDV6UEh4VjVZM1RwWmVrblFBOExxb09lQjNBLU5SdzBubjNBZ3NqOWl2MWl5bXhsaEZUWWwyQQ?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "329d19f6f860",
+      "title": "Fleischkonsum 2026: Schon zwei Portionen erhöhen das Risiko - AD HOC NEWS",
+      "published": "2026-05-18T10:10:54+00:00",
+      "summary": "Fleischkonsum 2026: Schon zwei Portionen erhöhen das Risiko&nbsp;&nbsp;AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbERBdE53S2RqLVFWOFktOU9UV2x6T1RxZlVSWmR3d2hlcU5vaDdLdzZsbjJ1RzdOMjVZcEdHQkZQaFNia0hhRDFrRnFJOGdwbVlWdGRmZE1RbmR0SWhmNEEya1dZek40VFZMa1IwYW9xZUVySXdqbGhfTDRfYTFPRmtjcjF5dEtTRTFoakxONzRaZTRSQVU4M2hiaGx1QkNtRUdlNnJMY0Y1akdh?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "a8984ae7f9d4",
+      "title": "Juhu – der Sommer kommt! Gewinnt Sonnenschutz von PAEDIPROTECT - Stadt Land Mama",
+      "published": "2026-05-18T10:17:06+00:00",
+      "summary": "Juhu – der Sommer kommt! Gewinnt Sonnenschutz von PAEDIPROTECT&nbsp;&nbsp;Stadt Land Mama",
+      "sources": [
+        {
+          "name": "Stadt Land Mama",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LeDVLOFNIYVRQN25HbEhpX3BtRmRfcm0tZnpLQzMxeGUwV3RBNUpUSGJOeEVHVnFXRzB3aEx6aHE5ZktMNk1GSWtzeFBkd2VFUnNWcTFacHZHTG5EY2JOaGg1RDB0NnBVR0pZSFFQa0dPOEhva3RVYkNR?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "10077d8b63da",
+      "title": "Schluss mit Atemmaske? Neue Pille soll Schlafapnoe-Patienten helfen - T-Online",
+      "published": "2026-05-18T13:09:11+00:00",
+      "summary": "Schluss mit Atemmaske? Neue Pille soll Schlafapnoe-Patienten helfen&nbsp;&nbsp;T-Online",
+      "sources": [
+        {
+          "name": "T-Online",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnZ5M2I3U0ttQWJncFZnWGtjZTk0LXQyZEdjODNWWkhnSDNpUU1aTi1zbDFKaG9weFMySWNxWWFJMlhqalh4SW1GLVA0emtGQjdYUHdmd0tWMGZhMmtvRHZONjhOOWlBTDJYUGdKRzV3UGNxdHJkS2V2d1J3YTZ2WmtIXzRZdlMtTHpwbVVKVmk0V0tXYzZ5NUswZVRKOXVTcEk3NHhVNXhleG5fRTRYMHpSSU5vdw?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
       "id": "119dd7c37800",
       "title": "Achtung, kontaktlinsenträger! diese badegewohnheit kann blind machen - TSV Pelkum Sportwelt",
       "published": "2026-05-18T08:03:00+00:00",
@@ -702,19 +884,6 @@
       "feed_source": "google_de"
     },
     {
-      "id": "69cc46ee63d0",
-      "title": "Geklaute Kalorien: Warum gestohlene Pommes besser schmecken - Mannheimer Morgen",
-      "published": "2026-05-18T07:35:00+00:00",
-      "summary": "Geklaute Kalorien: Warum gestohlene Pommes besser schmecken&nbsp;&nbsp;Mannheimer Morgen",
-      "sources": [
-        {
-          "name": "Mannheimer Morgen",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmEzMDBSdTljWWRrS3pDalNHVzNLaG9JYzktMGllekZzcE1aRXYwWUgwRlBmaklpeGdIMUZWbjh4WG92VUtkUjlmWDJTOUFuNzFpcU1xb3lOT0VkSy1hZmtuOXhiNWRtWHFYc19NUGR3a2ZyNmdrbHZjaXBFUTZkVUpOQXNieElXN3gxNjNqenFFY3hhNEl0WHU2ODZhM1JYY2NGNE56SmF4TVd6bTE3V3FCc002U2E4SFV1bXN3TVA?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
       "id": "39199e6833aa",
       "title": "Vagusnerv: „So können wir über den Vagus im Prinzip das gesamte Gehirn stimulieren“ - WELT",
       "published": "2026-05-17T12:19:45+00:00",
@@ -723,6 +892,32 @@
         {
           "name": "WELT",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb2hKVG9zOExrWHE4aEh6dVpxYWtmWkdqV09sME5TU2VSUk9nS01rUzhqa3RpblpQcUVISXc5NG5OVHVFNVBnYUZZaWNSeG5SRGxzZUFBZkROeTZhQ0lRMWZqajVidWU4em84ZTl0aU1zRWNTakpmb2FlcmtIeDAtRzlXYVlGWV9jZFlpcU1VWU9rdjg0UGNiblM4SjQ1eWFIT1RFZmJJRHRXeEFscUVYZUJsanJNOEI5ckFGMTNNVDM1cVJITDBEbktkVW5YZGZzQlh6MkNtTVExNGMwempGdg?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "79e0e43362ff",
+      "title": "Mann mit Hirntumor: \"Jetzt kann ich endlich etwas dagegen tun\" - Kurier",
+      "published": "2026-05-18T03:00:00+00:00",
+      "summary": "Mann mit Hirntumor: \"Jetzt kann ich endlich etwas dagegen tun\"&nbsp;&nbsp;Kurier",
+      "sources": [
+        {
+          "name": "Kurier",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1FCMjJ1VXdWeUhkSUVYbnRxWkc5b090YWlJaV80ZnFjV0tmSTVuMHZETjNiZWJpdW1fMTk0Q19fR2luT2xiYmczRjhqT204OFZMd3prWW9NRktHNXdfZzhMcV9wcXJWcHlZUmlua1RETXIxNzk1Q1pLdEdIR3FOeUZ6NThrWjNLa05fbmFvUjl1RXE2ZlVwbnhGeXJ2cUlOczdUR0ltYm8?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "b103a5849347",
+      "title": "Mathematik: Fraktale Dimensionen von mehr als 130 000 Inseln erfasst - Spektrum der Wissenschaft",
+      "published": "2026-05-16T14:00:00+00:00",
+      "summary": "Mathematik: Fraktale Dimensionen von mehr als 130 000 Inseln erfasst&nbsp;&nbsp;Spektrum der Wissenschaft",
+      "sources": [
+        {
+          "name": "Spektrum der Wissenschaft",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ1h1UG5ZZXhZc3ZJZ3ltbUxYQkMtSlI2MVh1bV9uY1hmcWQyNWpZOFBKc1dSaHhsMXRuLUtMMXh0cEh5THBUNHFfUzFteW5KQ3FCMjVFTXVCQUFKOEFRUjhOUUZHLUdCaUdwcmNzbnU5djlPT0txTGZoM1VNSWR4NFFRbXVGZ2pSN1hZ?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -754,6 +949,19 @@
       "feed_source": "google_de"
     },
     {
+      "id": "4d1338d3b74d",
+      "title": "Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen - AD HOC NEWS",
+      "published": "2026-05-18T08:04:47+00:00",
+      "summary": "Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen&nbsp;&nbsp;AD HOC NEWSStille Entzündung: Die unterschätzte Gefahr für Herz und Gelenke&nbsp;&nbsp;AD HOC NEWSKrebs, Diabetes, Herzinfarkt: Die stille Gefahr chronischer Entzündungen wächst&nbsp;&nbsp;guetsel.deStille Entzündung: Wie zellulärer Altruismus und mikroaktivierte Bindemittel neue Therapien eröffnen&nbsp;&nbsp;it boltwise",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
       "id": "9c0479a4f142",
       "title": "Wo beginnt Alzheimer? Forscher entdecken neuen Schlüsselmechanismus - Berliner Morgenpost",
       "published": "2026-05-18T04:01:55+00:00",
@@ -762,19 +970,6 @@
         {
           "name": "Berliner Morgenpost",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWxyVU9mNlBjMGl5VWhoSVVmNXJ4UDdTTENNWV8zMkFBYVhQbmxuVEduSExJN2ZySWdMNnJCMlAyYnQ3Qnh3QkI3ZHZQU1BJS200NHQ4ai04eW1HcUppM3RtZ1BBNExwNk5ialBlcXFHbG9RRVpBMmZ2Tmhvay1oSlU5YUlPd0h3Zk5mQy1jSU5kcnFabHBlT0w2cGtjenFxTVk4OFFSb0h0MkZDSlZfT1NNVjNDVVRGMlhweFBtRkNlUnhraDhWXzdMQQ?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
-      "id": "79e0e43362ff",
-      "title": "Mann mit Hirntumor: \"Jetzt kann ich endlich etwas dagegen tun\" - Kurier",
-      "published": "2026-05-18T03:00:00+00:00",
-      "summary": "Mann mit Hirntumor: \"Jetzt kann ich endlich etwas dagegen tun\"&nbsp;&nbsp;KurierDer erste Impfstoff gegen Hirntumore zeigt vielversprechende Ergebnisse in klinischen Studien.&nbsp;&nbsp;Vietnam.vnPersonalisierte DNA-Impfstoffe verdoppeln Überlebensraten bei Glioblastom&nbsp;&nbsp;it boltwisePersonalisierte Impfstoffe gegen Glioblastom: Ein Hoffnungsschimmer&nbsp;&nbsp;it boltwise",
-      "sources": [
-        {
-          "name": "Kurier",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1FCMjJ1VXdWeUhkSUVYbnRxWkc5b090YWlJaV80ZnFjV0tmSTVuMHZETjNiZWJpdW1fMTk0Q19fR2luT2xiYmczRjhqT204OFZMd3prWW9NRktHNXdfZzhMcV9wcXJWcHlZUmlua1RETXIxNzk1Q1pLdEdIR3FOeUZ6NThrWjNLa05fbmFvUjl1RXE2ZlVwbnhGeXJ2cUlOczdUR0ltYm8?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -793,14 +988,14 @@
       "feed_source": "google_de"
     },
     {
-      "id": "4d1338d3b74d",
-      "title": "Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen - AD HOC NEWS",
-      "published": "2026-05-18T08:04:47+00:00",
-      "summary": "Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen&nbsp;&nbsp;AD HOC NEWSKrebs, Diabetes, Herzinfarkt: Die stille Gefahr chronischer Entzündungen wächst&nbsp;&nbsp;guetsel.deStille Entzündung: Wie zellulärer Altruismus und mikroaktivierte Bindemittel neue Therapien eröffnen&nbsp;&nbsp;it boltwiseDer stille Übeltäter hinter vielen chronischen Krankheiten: Entzündungen, die jahrelang andauern.&nbsp;&nbsp;Vietnam.vn",
+      "id": "ae56a092a8dd",
+      "title": "18.05.26 - Studie: Hantavirus bis zu 6 Jahre im Körper nachweisbar - Tropeninstitut",
+      "published": "2026-05-17T22:00:00+00:00",
+      "summary": "18.05.26 - Studie: Hantavirus bis zu 6 Jahre im Körper nachweisbar&nbsp;&nbsp;TropeninstitutHantavirus überlebt im Sperma – Experten fordern Maßnahmen&nbsp;&nbsp;BILDLong-Hantavirus: Wie es Überlebenden nach der Infektion geht&nbsp;&nbsp;MSNForscher alarmiert: Hantavirus überlebt Jahre im Sperma&nbsp;&nbsp;FOCUS onlineForscher schlagen Alarm: Hantavirus überlebt jahrelang&nbsp;&nbsp;OE24",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5"
+          "name": "Tropeninstitut",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWZuRWUwd0p4OTNzbnZFeWZRb2ZkVFkzbUt1TXVxLWFYQzFoREhVWlB4QjZnN1A2bWcxdmJrdmhvdVZpb054cTdjcDFCV1pqcDNaUXE3SG1ldERwaEVSaC1VY0d6RlI5OUp0LUxYUmh4SkFRVDA4NWZFM1FsMkhpeGNabXRobk9Rb09z?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -819,45 +1014,6 @@
       "feed_source": "google_de"
     },
     {
-      "id": "ae56a092a8dd",
-      "title": "18.05.26 - Studie: Hantavirus bis zu 6 Jahre im Körper nachweisbar - Tropeninstitut",
-      "published": "2026-05-17T22:00:00+00:00",
-      "summary": "18.05.26 - Studie: Hantavirus bis zu 6 Jahre im Körper nachweisbar&nbsp;&nbsp;TropeninstitutHantavirus überlebt im Sperma – Experten fordern Maßnahmen&nbsp;&nbsp;BILDLong-Hantavirus: Wie es Überlebenden nach der Infektion geht&nbsp;&nbsp;MSNForscher alarmiert: Hantavirus überlebt Jahre im Sperma&nbsp;&nbsp;FOCUS onlineForscher schlagen Alarm: Hantavirus überlebt jahrelang&nbsp;&nbsp;OE24",
-      "sources": [
-        {
-          "name": "Tropeninstitut",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWZuRWUwd0p4OTNzbnZFeWZRb2ZkVFkzbUt1TXVxLWFYQzFoREhVWlB4QjZnN1A2bWcxdmJrdmhvdVZpb054cTdjcDFCV1pqcDNaUXE3SG1ldERwaEVSaC1VY0d6RlI5OUp0LUxYUmh4SkFRVDA4NWZFM1FsMkhpeGNabXRobk9Rb09z?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
-      "id": "9407d2e5b9ef",
-      "title": "PMOS: Neue Ära in der Behandlung von Hormon- und Stoffwechselstörungen - AD HOC NEWS",
-      "published": "2026-05-16T19:35:07+00:00",
-      "summary": "PMOS: Neue Ära in der Behandlung von Hormon- und Stoffwechselstörungen&nbsp;&nbsp;AD HOC NEWSEndokrinologie: Aus PCOS wird PMOS&nbsp;&nbsp;Pharmazeutische ZeitungPolyzystisches Ovarialsyndrom: Neuer Name für Hormonstörung PCOS&nbsp;&nbsp;Spektrum der WissenschaftPMOS statt PCOS: Polyzystisches Ovarsyndrom bekommt neuen Namen – News&nbsp;&nbsp;Deutsches ÄrzteblattPCOS: Neue Therapie-Strategie stellt bisherige Behandlung infrage&nbsp;&nbsp;AD HOC NEWS",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGk0bFE2MFdsV3NOaHZVQkdFQmU5SzJqZU92OG9pWGJXdUNhRy1nR09nNm9EN3oyeDZvN1VfbUhKcHk4LUtDeGxSdVpsRHZEa2hoM3JFQUNoZngwRWtKZE9JWE8xOWdSNmJ4Q2gwMTMxeXZSUkZfdnJuSjNQWjV1ME14Y1Nqdl9qdXoxWkxTanBFbFRDXzJTZHZCWXJ0U19hUVFNVzctM1AzNEowUERKRWVMQU40MmhLVlBn?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
-      "id": "911b47a349c1",
-      "title": "Magdeburg-News: Immunsystem im Gehirn – Studie aus Magdeburg stärkt Idee der Präzisionspsychiatrie - Magdeburger News",
-      "published": "2026-05-16T10:02:08+00:00",
-      "summary": "Magdeburg-News: Immunsystem im Gehirn – Studie aus Magdeburg stärkt Idee der Präzisionspsychiatrie&nbsp;&nbsp;Magdeburger NewsDepression und Schizophrenie: Magdeburger Forscher analysieren Immunsystem des Gehirns&nbsp;&nbsp;MDRStress-Immunsystem, Hormone und KI: Biomarker rücken psychische Erkrankungen in den Fokus&nbsp;&nbsp;it boltwiseDiagnose per Bluttest? Wie die DNA-Alterung Depressionen entlarvt&nbsp;&nbsp;Berliner MorgenpostPsychische Erkrankungen: Biologische Ursachen rücken in den Fokus",
-      "sources": [
-        {
-          "name": "Magdeburger News",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxV0RjNVo2c3h0ZFRVa1VsMlpZQ2hIZThEeXhVcElROS1hLW9vNXRHNDVLNTZ2OGlRNV91VVVqWVY5dFotRUhVQTlKUlRrSWZkZXpld1dEbjhkeTF2NW4zZzVaNzg5bHV3RGMzYU5WbkY?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
       "id": "ea7579dc6bc6",
       "title": "Depression ist nicht das, was du denkst - Telepolis",
       "published": "2026-05-17T14:00:00+00:00",
@@ -871,14 +1027,14 @@
       "feed_source": "google_de"
     },
     {
-      "id": "925917a38028",
-      "title": "Hochdosierter Influenza-Impfstoff könnte Demenz vorbeugen - AerzteZeitung.de",
-      "published": "2026-05-17T03:00:00+00:00",
-      "summary": "Hochdosierter Influenza-Impfstoff könnte Demenz vorbeugen&nbsp;&nbsp;AerzteZeitung.de",
+      "id": "2ef7cedec221",
+      "title": "Kostenlose HPV-Impfung: Piks holen, Mocktail trinken“: Aktion für Jugendliche in Winsen gestartet - kreiszeitung-wochenblatt.de",
+      "published": "2026-05-18T12:32:12+00:00",
+      "summary": "Kostenlose HPV-Impfung: Piks holen, Mocktail trinken“: Aktion für Jugendliche in Winsen gestartet&nbsp;&nbsp;kreiszeitung-wochenblatt.deKrebs verstehen: HPV-Impfung schützt junge Männer überraschend gut vor Krebs&nbsp;&nbsp;Spektrum der WissenschaftWie gut schützt die HPV-Impfung vor Krebs? Das sagt eine Gynäkologin&nbsp;&nbsp;Frankfurter RundschauHPV-Impfung schützt Männer vor Krebs&nbsp;&nbsp;MSNHochgradige vulvovaginale Läsionen: HPV-Impfung senkt das Risiko, besonders wenn sie früh erfolgt&n",
       "sources": [
         {
-          "name": "AerzteZeitung.de",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1lCdWQyMmRsb2hLYVFQaGg2dFdxdlRiT19FU1JnMXh1N29NaDRlUGhiVWVtdVAtOUxaRU1MU1B6Y2xsVHpMdW9wc1NPU05vR3RNRnBlQkdZVmtRc2FJRHAyaTlQSEF4Y0pJV2RWSDdWMmhnaG9ZSjJlaDJWT0x3YV9vcEFZd3p5WDAzMWdFNHVNTC1qWWNBdWxLaXp5OGI3SzYxWjQ4Ukd5Mlk?oc=5"
+          "name": "kreiszeitung-wochenblatt.de",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWExWcGFjV2JyMFNMRTNlMGFaUU1mMjhSWktOdjlzS1JjWjRPaWl4WkNmVlFBZ2YzVjd3RTBhWE01c3ZtZTJfNlBUcVpKUVpBYUtYRXpnM1F2c1BrcEpOVGRBaXktNU9UNW10ODJNN3YxdmJQN2Y4bWdWbHRHSXdzM2tTNDZDY2tISmhnNmxyLWswdzNZb1ZOUkJUVmJVc0UyVHh6T0NnS3R5VXBIZy0wSS01WFVxa3ZXX0ZHeTdlYXhjaGMyb2ZGVC1IUEJJcVZtVkZv?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -897,6 +1053,45 @@
       "feed_source": "google_de"
     },
     {
+      "id": "c0b6012cd5e0",
+      "title": "Hantavirus: Ein Betroffener berichtet - So erlebte ein Ostholsteiner die Erkrankung - Lübecker Nachrichten",
+      "published": "2026-05-17T05:36:32+00:00",
+      "summary": "Hantavirus: Ein Betroffener berichtet - So erlebte ein Ostholsteiner die Erkrankung&nbsp;&nbsp;Lübecker Nachrichten",
+      "sources": [
+        {
+          "name": "Lübecker Nachrichten",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjhmUC1EbWxXRGlQc245R2o4OFh1c2dNRW5KS0ZNaXFRZHRuQkJaNFVHV0U4U0cySlk3bUxEYkFrazYtT01aWUVCR3hJbVpsbmJUTmMzNUFCYTlQV3J3ZDhhNGRUMlYtcFR5b1I3cjNUdjRVempCSDNHVHhuemhnaG1mUnFRaGl1cWtjcVJYSzJJdjhkUlU5QmluYjFLOFVGX2dMbmlNeWRscXAtZjVzWXpzUkhLNlItTnZVVHduZ2F0RkFtRXNnZHQ5c0dleDljT1N6cHNVTF9pV1BaQ3Vra1I0aXA0WEVlcXRUMEJR?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "97e3ee0ca284",
+      "title": "Hantavirus: Experten rechnen mit Ausbruch im Kreis Höxter - Neue Westfälische",
+      "published": "2026-05-18T10:08:00+00:00",
+      "summary": "Hantavirus: Experten rechnen mit Ausbruch im Kreis Höxter&nbsp;&nbsp;Neue Westfälische",
+      "sources": [
+        {
+          "name": "Neue Westfälische",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjFQbXFFckxxYWxlQnhJendPaXBvSERhYzlYaW9kZ3BJNXNWLUFhcmJUeGFvMHF0dUhLNVlRS2lrb2VNVnMyTjF5N1VPUFBrLWpGRXBjVExCc2JoczNmZ1ktbWJuWFkzN1V2dUY1LS1oSjFJdGJjUXRmMzM5U0ZDdDFIemRsSmJEUGNJVU5tVkpmWm5XdVF6M25yUC1JNEo2YTlUYXNWeEZISmJXM0tKcXNnYVozd2lJb1drVQ?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "f17a5db97a62",
+      "title": "Dinosaurier-Forschung unter Schock: Fund von 66 Millionen Jahre altem Kollagen verändert alles - Frankfurter Rundschau",
+      "published": "2026-05-18T11:01:00+00:00",
+      "summary": "Dinosaurier-Forschung unter Schock: Fund von 66 Millionen Jahre altem Kollagen verändert alles&nbsp;&nbsp;Frankfurter Rundschau",
+      "sources": [
+        {
+          "name": "Frankfurter Rundschau",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSE9YNHEwaFQtRllEWUlGTmR4Y1oxZ0IyZ1VWUkp1Qm1hMzF3c3QyVUt6QTZJb3N3MW0wUDR0QXVSMzNnWG82Z2kwdFNIdEVpSGtmQ0c3RGM0R3dzWFE0dTEta0drcjlmNF9MWEU3dWI2NDZKWURmMFR2Mi1COUdGajdKVzNvQV9VTFZTb2hKeDJLTW1xa1BxNENiRkkyczhKYl9RYUJ0VjBUTG5EMjl2VlJsRUFvM3FrV21WOTVISzlWLU45ZmllS2xNQ3NDbmhHbGZSag?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
       "id": "7188661c1c92",
       "title": "Anti-Aging: Warum die Haut im Alter dünner wird und was Sie tun können - Freundin",
       "published": "2026-05-16T21:18:00+00:00",
@@ -910,22 +1105,9 @@
       "feed_source": "google_de"
     },
     {
-      "id": "28378e7b804b",
-      "title": "Kira hat Osteoporose mit 26: „Dachte zuerst, ich hätte einen eingeklemmten Nerv“ - Berliner Morgenpost",
-      "published": "2026-05-16T12:49:20+00:00",
-      "summary": "Kira hat Osteoporose mit 26: „Dachte zuerst, ich hätte einen eingeklemmten Nerv“&nbsp;&nbsp;Berliner Morgenpost",
-      "sources": [
-        {
-          "name": "Berliner Morgenpost",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTnE2QTM4MkpVQkI5YWNpNGE0VTlVQzVZVWNaMVdXZE9jM1ZRX0VxQWJSQWRhbWtxaE1IWXprcHk2SFF6Z09fVEM1Z0dudlZHd1JKdkJ2QkZfZTNrYVhFTXhpTjJOU1NVdDZOd0Rha3p1cFBUUWVKd1JydU9yNjhQUVZXYXhlMlB0SHZBeGpjRHhvT0xJOHZpVElabnVvUnh3NXpCUEowX0R2V2RiLWlHMUtWbXg1NGFhS2xIYWNKODdZenFMMUFONG9sOUVKdEV4?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
       "id": "709996d519b8",
       "title": "Herzinfarkt durch SCAD: Ein unsichtbarer Riss am Herzen – und seine weitreichenden Folgen - WELT",
-      "published": "2026-05-18T09:11:26+00:00",
+      "published": "2026-05-18T13:53:40+00:00",
       "summary": "Herzinfarkt durch SCAD: Ein unsichtbarer Riss am Herzen – und seine weitreichenden Folgen&nbsp;&nbsp;WELT",
       "sources": [
         {
@@ -936,40 +1118,14 @@
       "feed_source": "google_de"
     },
     {
-      "id": "25f971d2ad54",
-      "title": "Kampf gegen die Asiatische Tigermücke: Stadt Fürth verzeichnet bescheidene Erfolge - NN.de",
-      "published": "2026-05-16T09:00:00+00:00",
-      "summary": "Kampf gegen die Asiatische Tigermücke: Stadt Fürth verzeichnet bescheidene Erfolge&nbsp;&nbsp;NN.de",
+      "id": "2e3e5151cc9f",
+      "title": "RSV-Infektion bei Herzerkrankungen: Warum Impfen so wichtig ist - mgo medizin",
+      "published": "2026-05-17T12:45:35+00:00",
+      "summary": "RSV-Infektion bei Herzerkrankungen: Warum Impfen so wichtig ist&nbsp;&nbsp;mgo medizin",
       "sources": [
         {
-          "name": "NN.de",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHpQWlYwUTZjUGdwVkF4eHhSYVFMZ0UtbkF4ZXcxNWY0ZzVibkg3b3FiQU9sMVNkT3FNOXVLa3BQcUNCcHN2RENDc2dOZkNVR0tIdG1McFphWF94Wnl6U1JaclRpLW1fUUtMVTl0bWFfWTZOZHJlSWJqSXlXQXJuR0JIOFM1Sm1PRmdQWWNBa0pOMGE5dGxPMFlVV3N1di1uRWJoaGtWdWViMmRtUlI3bGxoZHZoY3pi?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
-      "id": "af5cdc845440",
-      "title": "Fischöl-Kapseln: Stärker ja, muskulöser nein - Telepolis",
-      "published": "2026-05-16T09:40:00+00:00",
-      "summary": "Fischöl-Kapseln: Stärker ja, muskulöser nein&nbsp;&nbsp;Telepolis",
-      "sources": [
-        {
-          "name": "Telepolis",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalBNcml1TnVtUDBFb3pvZHZwanBvZnVGTWI4bkQ5UE5Qa0pTLXBEejZtUlV6Rmo4eTI1UUQtUWtmdV9MR3djNzVCT1h4blBab3JmSF9SU2Z2RmRTODE1VTVNY2luMmZhQVZfb2VuaDl6ZnBYQ3pqbWlPSEtabkpDNXBEbGFtcXdGNERFaEpqN3JKenhvSXp3?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
-      "id": "5507ee761440",
-      "title": "Nicht-invasive Kontaktlinsen per Elektrostimulation gegen Depressionen in Sicht - it boltwise",
-      "published": "2026-05-16T11:21:38+00:00",
-      "summary": "Nicht-invasive Kontaktlinsen per Elektrostimulation gegen Depressionen in Sicht&nbsp;&nbsp;it boltwiseKontaktlinsen, die das Gehirn stimulieren, wirken wie Antidepressivum&nbsp;&nbsp;derStandard.deAuge als Zugang zum Gehirn: Kontaktlinse lindert Depressionen bei Mäusen&nbsp;&nbsp;HNAKontaktlinsen gegen Depression: Forscher entwickeln nicht-invasive Therapie&nbsp;&nbsp;AD HOC NEWSInnovative Kontaktlinsen zur Depressionsbehandlung: Eine neue Ära der Neurostimulation&nbsp;&nbsp;it boltwise",
-      "sources": [
-        {
-          "name": "it boltwise",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5"
+          "name": "mgo medizin",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1YX3Q5Y1p5U0ZfamJyVXA2eF8tMzdaMXE4ZGpmQXgzd1FnaWRVbVNRNnViMWJsUGV4YnNSVEJUcHRjNERkd1dHTFdleGpZbXU1WmtJRFEydGV1MEpZZmo1RGhMTVhSdjFrVVNPT0E2OGxFa3NrakJVM3dDalR6TENNbF9pUmQzTGlQbDZ4YXN3c1IwbGNz?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -977,7 +1133,7 @@
     {
       "id": "fe56b3817385",
       "title": "„Ich konnte mich kaum noch bewegen“: Herforder verliert 114 Kilo und wagt den Neustart - Neue Westfälische",
-      "published": "2026-05-18T08:24:50+00:00",
+      "published": "2026-05-18T14:48:00+00:00",
       "summary": "„Ich konnte mich kaum noch bewegen“: Herforder verliert 114 Kilo und wagt den Neustart&nbsp;&nbsp;Neue Westfälische",
       "sources": [
         {
@@ -1001,40 +1157,14 @@
       "feed_source": "google_de"
     },
     {
-      "id": "7d043ef9ee62",
-      "title": "Trotz Proteinen: Wieso viele Frauen ab 40 nach dem Training nicht abnehmen - CHIP",
-      "published": "2026-05-17T09:09:00+00:00",
-      "summary": "Trotz Proteinen: Wieso viele Frauen ab 40 nach dem Training nicht abnehmen&nbsp;&nbsp;CHIP",
+      "id": "22ec870842d5",
+      "title": "Fitness-Hype Kreatin: Hilft das Pulver wirklich beim Training – oder ist es unnötig? - Joyn",
+      "published": "2026-05-18T10:20:51+00:00",
+      "summary": "Fitness-Hype Kreatin: Hilft das Pulver wirklich beim Training – oder ist es unnötig?&nbsp;&nbsp;JoynWundermittel Kreatin – die Wirkung ist erwiesen, es gibt jedoch einen Haken&nbsp;&nbsp;WELTBeeinflusst Kreatin die Gehirnleistung?&nbsp;&nbsp;TARA24Kreatin im Sport: wirkt nicht bei allen (gleich)&nbsp;&nbsp;Medizin transparentCreatin: mehr als nur muskelaufbau – neue forschung enthüllt üb...&nbsp;&nbsp;TSV Pelkum Sportwelt",
       "sources": [
         {
-          "name": "CHIP",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONXg1UTNLM3BjM0hEOVNPb3JseUJET28zcXh2TlJfN2I4cFhjN2J3c3dkMVdoSGQ5MWNYWndyTjFSZmcydEhPVDM1RmhzMERRc181YTUweFFMNmUzNFh3VXdFQlhEUHlYc05GS3RGOEppbG51MlB6ZDRPcFpwWXQ4bUI1dTBkWklpbXFPU2JqV0dPZnJuS29oU08xRGdPVnFvYlFaTmNKeVR4c0J3VjhzZHFFVDJ5VVZGWk1GRUphMTZOelNMNWtZVUtMc1FmS3dpa0RlblRuZU10bU5SSW1lNU9HV2UtellPOS1zYk8zNTI?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
-      "id": "e266e14acba2",
-      "title": "Medikamentös therapieren schon bei leichter Hypertonie? - AerzteZeitung.de",
-      "published": "2026-05-18T03:05:00+00:00",
-      "summary": "Medikamentös therapieren schon bei leichter Hypertonie?&nbsp;&nbsp;AerzteZeitung.de",
-      "sources": [
-        {
-          "name": "AerzteZeitung.de",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUpwZkF4dnZDa1JoWUY2SndHV2g4ZUczN2tQcGNTQWRhX2hicF9uRW4xQ2hoWWlTNllEM293dkxabURzb2p2bUF3R3pnX3VOaVd5TzBoNXp2OXNwQldPblFnaFZsb2RaMXBWczNLZjRtTVQ1SnpPd1hLdWxQODQzdjNRU2xyWWt1WlV4dklBNWFrZkZ6dnIwZVgxMTlScEhVZ0lOY05ZVEU0STh0d1pUdXpmTlZZRHE3UGs2Z0FYcw?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
-      "id": "dd691ef717cd",
-      "title": "Ivermectin gegen Viren: Diesen Hantavirus-Mythos sollten Sie nicht glauben - News.de",
-      "published": "2026-05-16T10:56:00+00:00",
-      "summary": "Ivermectin gegen Viren: Diesen Hantavirus-Mythos sollten Sie nicht glauben&nbsp;&nbsp;News.de",
-      "sources": [
-        {
-          "name": "News.de",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR3FhYlJYS2xYMkRyc1lHN1I4R04zN3hNNDVfM3Fvd0tzU1BPRmxPRllGUzE2Uy1sLTlGNElwc2tMRG1QREJuZEpKMlRhS19HUXpBOGpOb2FXUTczMjRoMWE1TUJkM2hXOUlGeUhZTkFyYjNVMUs2UDZLODAwUWNtQ21CWnZNeGc2VmxqWE1fSmlYRkp6ZlBkVWhRaWNhSlJqOEJjc1dzdGZnc3FTMGltaDRxVDFTTnpsLWt5NjN2VklBV2N5UDd0b0lvYlg5X1NMejJpQU8waHFKZjJIUEY1dU5JV3JncmUzbnpRTUR4dm9oYUE?oc=5"
+          "name": "Joyn",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkM4MFkzS2t4MlplZ2ZQaHcxVkdvNUR3QjBKRUpiRW0tMzBUc0N6d2lEdUFfN1ZjVEZmMjVKMkF4ak1lT1czSUhFV3FrMlo5MHd2ZnhXR21vckwtZjlWMWdxT3dzcm1ES3lQRDlsZm9velA5UmlMcllIM21SRmpxeVNDT1pKUHE4MllmZnBvRkhkeW5Za1NzT3FScw?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -1042,7 +1172,7 @@
     {
       "id": "6aab7460987c",
       "title": "Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“ - WELT",
-      "published": "2026-05-18T09:20:00+00:00",
+      "published": "2026-05-18T14:07:38+00:00",
       "summary": "Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“&nbsp;&nbsp;WELT",
       "sources": [
         {
@@ -1053,27 +1183,14 @@
       "feed_source": "google_de"
     },
     {
-      "id": "251f7e088cb7",
-      "title": "Warnsignale ernst nehmen: Was ein schwacher Geruchssinn über die Gesundheit verrät - T-Online",
-      "published": "2026-05-17T06:02:00+00:00",
-      "summary": "Warnsignale ernst nehmen: Was ein schwacher Geruchssinn über die Gesundheit verrät&nbsp;&nbsp;T-Online",
+      "id": "e266e14acba2",
+      "title": "Medikamentös therapieren schon bei leichter Hypertonie? - AerzteZeitung.de",
+      "published": "2026-05-18T07:53:00+00:00",
+      "summary": "Medikamentös therapieren schon bei leichter Hypertonie?&nbsp;&nbsp;AerzteZeitung.de",
       "sources": [
         {
-          "name": "T-Online",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWFOM2VFX2NhZDdIQlJoaXV1bmNuZFdwTUo1d2ZlRkJEdDQ4VUcyc2tqZ252bGo3VnJDTzdpTHFXRUdob3RiWmxtOG1YM3lKZzJGd3pSSEMzS3NyRTZUcEJzRVBkV093NWMycWZOS25ncDdmZzFOZzdzRmxCXzJpY01zekVsNTBKRzNmS0JSbnI5NXRvdU1aN0xrZ01XMGE4MGNIR3VGRFkwcDRsR2d1Tk1rLVdfM3A5b2ZrOW5iQlRhb0RvNGJSV3UwQkc2UQ?oc=5"
-        }
-      ],
-      "feed_source": "google_de"
-    },
-    {
-      "id": "a3d6a022ea74",
-      "title": "Sonnenschutz im Frühling: Ab wann müssen Kinder eingecremt werden? - Merkur",
-      "published": "2026-05-17T09:11:00+00:00",
-      "summary": "Sonnenschutz im Frühling: Ab wann müssen Kinder eingecremt werden?&nbsp;&nbsp;Merkur",
-      "sources": [
-        {
-          "name": "Merkur",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3puSmtuNlBzam1JX1Y4ZlhaM1BLc0lUV05veUZEcExYUmRLb1VnaVBaOEZVbGN4bWNrTVZOMEpJS2NyTUhvc1pJTGprOEl4ZkpSSWw2RFBQMTZSYWVDb0tBa3VsbElIN0FIbUcyd25sdDJURG9OU3p1ZjUxRVNxUGpQVXZUQ1p2NFhKNUprcHdURi1QZkxEcWlrYlpzcklBUGZJdUFKUWdjRzA?oc=5"
+          "name": "AerzteZeitung.de",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUpwZkF4dnZDa1JoWUY2SndHV2g4ZUczN2tQcGNTQWRhX2hicF9uRW4xQ2hoWWlTNllEM293dkxabURzb2p2bUF3R3pnX3VOaVd5TzBoNXp2OXNwQldPblFnaFZsb2RaMXBWczNLZjRtTVQ1SnpPd1hLdWxQODQzdjNRU2xyWWt1WlV4dklBNWFrZkZ6dnIwZVgxMTlScEhVZ0lOY05ZVEU0STh0d1pUdXpmTlZZRHE3UGs2Z0FYcw?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -1105,6 +1222,19 @@
       "feed_source": "google_de"
     },
     {
+      "id": "e066cd44526e",
+      "title": "Morbus Crohn: GPX4-Marker revolutioniert Rückfall-Prognose - AD HOC NEWS",
+      "published": "2026-05-18T09:42:50+00:00",
+      "summary": "Morbus Crohn: GPX4-Marker revolutioniert Rückfall-Prognose&nbsp;&nbsp;AD HOC NEWS",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTlUYUFlMGllVjdJdDlNRWRldW5DcGtWMjFqV0h2S2FVQzZmYUJiWk1QVTBUelR1eEtrdkZjX0J2NE80V1FraXFtNzBwQzRzaGl5MFBwek9zRktNUVlSaUVzWDFWTXdSWjRkMi1aSV81M1BFZjNuV3JybTVZeDlwcEZkX0U5dF9BaDlUQnFhTUs4UGhzenJaVXAyYk0yZEMtVHZNT3Rjc1c1dW8?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
       "id": "260f3f7b9449",
       "title": "Calcidiol als möglicher kardiovaskulärer Risikomarker bei SLE - Gelbe Liste",
       "published": "2026-05-18T06:59:29+00:00",
@@ -1118,9 +1248,22 @@
       "feed_source": "google_de"
     },
     {
+      "id": "1f65e079bb77",
+      "title": "Suizid bei Menschen mit Hauterkrankungen - medonline.at",
+      "published": "2026-05-18T09:20:00+00:00",
+      "summary": "Suizid bei Menschen mit Hauterkrankungen&nbsp;&nbsp;medonline.at",
+      "sources": [
+        {
+          "name": "medonline.at",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIZ1VIenpLaG4ycTFIaFU2a1I3blVWZEJkOUoyMV9DNGJ3bDZKTWd1VDZ3b0NuZmcxVkgxMjVFeFZ4YzNwcWdKa25kOHhvTlNnVHNnRm1KTk4tSVEzaDRyMVBJZUFJYnh0Sl9hVVRnT1BHeEQ2SDVrTEFmaksyZw?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
       "id": "1b3c13bb0182",
       "title": "Erkältungen, Grippe, Corona: Wie krank ist Deutschland derzeit? - RND.de",
-      "published": "2026-05-18T07:18:50+00:00",
+      "published": "2026-05-18T10:22:30+00:00",
       "summary": "Erkältungen, Grippe, Corona: Wie krank ist Deutschland derzeit?&nbsp;&nbsp;RND.de",
       "sources": [
         {
@@ -1144,14 +1287,14 @@
       "feed_source": "google_de"
     },
     {
-      "id": "1ce79ca4c241",
-      "title": "Neuer prognostischer Biomarker für Morbus Crohn - Medizinische Universität Innsbruck",
-      "published": "2026-05-18T08:26:15+00:00",
-      "summary": "Neuer prognostischer Biomarker für Morbus Crohn&nbsp;&nbsp;Medizinische Universität Innsbruck",
+      "id": "31072f533119",
+      "title": "MedUni Graz: Stoffwechsel unter der Lupe - Klipp Magazin",
+      "published": "2026-05-18T10:22:46+00:00",
+      "summary": "MedUni Graz: Stoffwechsel unter der Lupe&nbsp;&nbsp;Klipp Magazin",
       "sources": [
         {
-          "name": "Medizinische Universität Innsbruck",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWw5MUd6RElTRzB1ZF9GS09aTlY1bWtENDA1NzNGdXlaN0tXbHRBYk90LTdsNmRPTlczNEdZVVNDajBMMng4M2ZtckRTeVU2R0IwYnpaVW9jT3dNZ3lUcDhReUZPSWJiQVI3R2JZbEZoX0hDeDFXSU1sdGpHeTZoWXlOWTZRem9pcmtPS2tXMHl4QQ?oc=5"
+          "name": "Klipp Magazin",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEhBZkl1Q0VqX3U5Y3B4RFh0Z0RMSERiVUIzNHY1UElsUXVhSGpxNVlwektaa2FFWUN5SklTYlZqMkxtejJtTU02YzFRakV5U0ZFb3J1X080TDJxYlAwMWVleS1SV1dPNTdneXZsOFNUX2FQd1l0VHNldWwtcXVXUlNJbzRaNlE?oc=5"
         }
       ],
       "feed_source": "google_de"
@@ -1172,7 +1315,7 @@
     {
       "id": "501844ba78fe",
       "title": "Magnesium-Diasporal – der Klassiker jetzt auch für Herz* und Blutdruck** - Pharmazeutische Zeitung",
-      "published": "2026-05-17T20:34:59+00:00",
+      "published": "2026-05-18T13:41:48+00:00",
       "summary": "Magnesium-Diasporal – der Klassiker jetzt auch für Herz* und Blutdruck**&nbsp;&nbsp;Pharmazeutische Zeitung",
       "sources": [
         {
@@ -1183,14 +1326,27 @@
       "feed_source": "google_de"
     },
     {
-      "id": "bc38cc90609d",
-      "title": "Epidémie d'Ebola en République démocratique du Congo : l'Ouganda reporte un important festival chrétien - franceinfo",
-      "published": "2026-05-18T04:25:24+00:00",
-      "summary": "Epidémie d'Ebola en République démocratique du Congo : l'Ouganda reporte un important festival chrétien&nbsp;&nbsp;franceinfoRéveil Courrier du 18 mai 2026&nbsp;&nbsp;Courrier internationalÉpidémie d’Ebola : la France renforce sa vigilance sanitaire&nbsp;&nbsp;ma-sante.newsCe qu’il faut retenir de l’actualité du week-end des 16 et 17 mai&nbsp;&nbsp;Le Monde.fr« L’épidémie vient d’être annoncée alors qu’il y a déjà 80 morts » : Ebola, l’autre urgence sanitaire qui progresse dans l’ombre&nbsp;&nbs",
+      "id": "a599f8b63bed",
+      "title": "Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt - WELT",
+      "published": "2026-05-18T12:23:43+00:00",
+      "summary": "Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt&nbsp;&nbsp;WELT",
       "sources": [
         {
-          "name": "franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUURZbHZNeWlrUkVyM3AxY3hyTUQ2Z0s4b3h0bk94dGEtZGp6S0NaTjF6NHZ3M1RtbUM5Ukd1RDBSdjJvSml1Y0gwZEtCNGE3LXVjZEJESHF6N0NMWlhSV1VnbGM5LV9CNG1Kc3BYTmhTSlhiNF9OVUU4elVZLXpRUnlPZjRROEZPS0pkYS10NUZIeVVaN3hlZUxEem9SWlJ2R0hKSDZQeUlyLU1KaE1iQTdVZ3Q5N2VxandhRjZabl9PZWhrQXZGbVdDcEtrNnB4VFZ6RVFIQTd1ZnhQc1A4QnZzZFRNcXNMZjJ6RDdkY2l4dw?oc=5"
+          "name": "WELT",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5"
+        }
+      ],
+      "feed_source": "google_de"
+    },
+    {
+      "id": "978190597413",
+      "title": "Ebola en RDC: ce que l'on sait de l'épidémie - Orange Actualités",
+      "published": "2026-05-18T10:34:00+00:00",
+      "summary": "Ebola en RDC: ce que l'on sait de l'épidémie&nbsp;&nbsp;Orange ActualitésCe que l’on sait sur l’épidémie d’Ebola en République démocratique du Congo&nbsp;&nbsp;20 Minutes« Sur l’île, Ebola serait une catastrophe sanitaire » : aucun cas à Mayotte mais la crainte grandit&nbsp;&nbsp;Ouest-France« L’épidémie vient d’être annoncée alors qu’il y a déjà 80 morts » : Ebola, l’autre urgence sanitaire qui progresse dans l’ombre&nbsp;&nbsp;Le PointCe qu’il faut retenir de l’actualité du week-end des 16 et ",
+      "sources": [
+        {
+          "name": "Orange Actualités",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlpwZGl1UjllTWI5Y3UxNkQyV3UwUUx5Sm9hcUNlWHdfdXN2TDZoU1h5U1JCX0NpU3lnSmE4TnluTnl4MnAzOUtJS2VrYXl1dVNLbGwzQ1lmNHI5dU5hbXJxMkVpamRiSXEzWm1zVEkwcW9kQi1oOEZJa2k5cTd3VDY5X1dFejBBMU9KZ0w2cWQtR0dpcm44?oc=5"
         }
       ],
       "feed_source": "google_fr"
@@ -1199,7 +1355,7 @@
       "id": "54604959d08f",
       "title": "Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée - Outre-mer La 1ère",
       "published": "2026-05-17T18:00:01+00:00",
-      "summary": "Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée&nbsp;&nbsp;Outre-mer La 1èreLa santé cardiovasculaire pourrait être influencée avant la naissance&nbsp;&nbsp;Pourquoi DocteurSilencieux, invisible, et pourtant l'une des premières causes de mort évitable : ce trouble que des millions de Belges découvrent trop tard&nbsp;&nbsp;DHnetJournée mondiale de l’hypertension : pendant la grossesse, une complication à ne pas banaliser&nbsp;&nbsp;Yahoo L",
+      "summary": "Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée&nbsp;&nbsp;Outre-mer La 1èreHypertension et handicap : le danger invisible&nbsp;&nbsp;Handicap.frLa santé cardiovasculaire pourrait être influencée avant la naissance&nbsp;&nbsp;Pourquoi DocteurSilencieux, invisible, et pourtant l'une des premières causes de mort évitable : ce trouble que des millions de Belges découvrent trop tard&nbsp;&nbsp;DHnetJournée mondiale de l’hypertension – mardi 1",
       "sources": [
         {
           "name": "Outre-mer La 1ère",
@@ -1212,7 +1368,7 @@
       "id": "95674a53ffcb",
       "title": "\"Il nous a quittés ce matin\" : à 32 ans, son compagnon décède après 367 jours de combat contre une tumeur cérébrale - France 3 Régions",
       "published": "2026-05-17T04:50:02+00:00",
-      "summary": "\"Il nous a quittés ce matin\" : à 32 ans, son compagnon décède après 367 jours de combat contre une tumeur cérébrale&nbsp;&nbsp;France 3 RégionsPrévocourt Astroglie mobilise les marcheurs pour la recherche contre les tumeurs cérébrales&nbsp;&nbsp;Le Republicain Lorrain« Cette maladie est foudroyante » : une campagne pour sensibiliser aux cancers du cerveau&nbsp;&nbsp;Ouest-FranceGerstheim. Dimanche 24 mai, on se bouge contre le glioblastome !&nbsp;&nbsp;DNAUne sensibilisation aux tumeurs cérébral",
+      "summary": "\"Il nous a quittés ce matin\" : à 32 ans, son compagnon décède après 367 jours de combat contre une tumeur cérébrale&nbsp;&nbsp;France 3 RégionsPrévocourt. Astroglie mobilise les marcheurs pour la recherche contre les tumeurs cérébrales&nbsp;&nbsp;Le Republicain Lorrain« Cette maladie est foudroyante » : une campagne pour sensibiliser aux cancers du cerveau&nbsp;&nbsp;Ouest-FranceGerstheim. Dimanche 24 mai, on se bouge contre le glioblastome !&nbsp;&nbsp;DNASANTÉ « Mai en gris » : une première au",
       "sources": [
         {
           "name": "France 3 Régions",
@@ -1225,7 +1381,7 @@
       "id": "91445ca7366c",
       "title": "Samuel Fitoussi : « Les 100 jours de lutte épique contre l’hantavirus » - Le Figaro",
       "published": "2026-05-17T13:56:15+00:00",
-      "summary": "Samuel Fitoussi : « Les 100 jours de lutte épique contre l’hantavirus »&nbsp;&nbsp;Le FigaroHantavirus et santé mentale: pour la Dre Lamyae Benzakour, «l’information mesurée, adaptée à la situation, est importante&nbsp;&nbsp;Le Temps“C’est des mensonges”… au marché d’Agen, l’hantavirus glisse sans vraiment s’imposer&nbsp;&nbsp;ladepeche.frHantavirus : « Se sentir affecté est un signe de courage »&nbsp;&nbsp;Reporterre, le média de l'écologieEconomie. Hantavirus : une entreprise de l'Ain a mis au",
+      "summary": "Samuel Fitoussi : « Les 100 jours de lutte épique contre l’hantavirus »&nbsp;&nbsp;Le Figaro“C’est des mensonges”… au marché d’Agen, l’hantavirus glisse sans vraiment s’imposer&nbsp;&nbsp;ladepeche.frHantavirus et santé mentale: pour la Dre Lamyae Benzakour, «l’information mesurée, adaptée à la situation, est importante&nbsp;&nbsp;Le TempsHantavirus, Xi VS Trump, Protoxyde d’azote - Extrait vidéo En société&nbsp;&nbsp;France TVHantavirus : « Se sentir affecté est un signe de courage »&nbsp;&nbsp",
       "sources": [
         {
           "name": "Le Figaro",
@@ -1248,23 +1404,10 @@
       "feed_source": "google_fr"
     },
     {
-      "id": "fe5ca26298a5",
-      "title": "Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ? - Ouest-France",
-      "published": "2026-05-17T19:34:24+00:00",
-      "summary": "Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ?&nbsp;&nbsp;Ouest-FranceVoir plus de titres et de points de vue sur Google Actualités",
-      "sources": [
-        {
-          "name": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
       "id": "ea520c33a015",
       "title": "\"Ça nous rend fiers\"... Pourquoi l’hôpital d’Albi a-t-il été choisi parmi de nombreux hôpitaux français comme site pilote du dépistage du cancer du poumon - ladepeche.fr",
       "published": "2026-05-17T10:01:00+00:00",
-      "summary": "\"Ça nous rend fiers\"... Pourquoi l’hôpital d’Albi a-t-il été choisi parmi de nombreux hôpitaux français comme site pilote du dépistage du cancer du poumon&nbsp;&nbsp;ladepeche.frBains/Le Monastier-sur-Gazeille. Maladies respiratoires : le Pneumobile de passage cette semaine&nbsp;&nbsp;Le ProgrèsLe dépistage du cancer du poumon testé en France&nbsp;&nbsp;Sciences et AvenirProgramme de dépistage du cancer du poumon : «Détecté tôt, il a toutes les chances de pouvoir être guéri&nbsp;&nbsp;Libération",
+      "summary": "\"Ça nous rend fiers\"... Pourquoi l’hôpital d’Albi a-t-il été choisi parmi de nombreux hôpitaux français comme site pilote du dépistage du cancer du poumon&nbsp;&nbsp;ladepeche.fr\"S'il y a quelque chose, je vais être prise à temps\" : un programme pilote de dépistage précoce du cancer du poumon lancé en Picardie&nbsp;&nbsp;France 3 RégionsBains/Le Monastier-sur-Gazeille. Maladies respiratoires : le Pneumobile de passage cette semaine&nbsp;&nbsp;Le ProgrèsLe dépistage du cancer du poumon testé en F",
       "sources": [
         {
           "name": "ladepeche.fr",
@@ -1287,27 +1430,66 @@
       "feed_source": "google_fr"
     },
     {
-      "id": "be8c7bb8a7be",
-      "title": "Interdiction de vente d’alcool : la Ville de Troyes pousse le curseur - L'Est éclair",
-      "published": "2026-05-17T14:28:24+00:00",
-      "summary": "Interdiction de vente d’alcool : la Ville de Troyes pousse le curseur&nbsp;&nbsp;L'Est éclair",
+      "id": "dbf3edc52282",
+      "title": "Ebola, Covid, hantavirus… voici le virus qui tue le plus au monde - ma-sante.news",
+      "published": "2026-05-18T12:38:24+00:00",
+      "summary": "Ebola, Covid, hantavirus… voici le virus qui tue le plus au monde&nbsp;&nbsp;ma-sante.news",
       "sources": [
         {
-          "name": "L'Est éclair",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMm91bC1lRXNIMFlzRmcwaFF1cHZYa1MwZkhSOVFILTd6YTNNR2loTkxISjVBdXFaQVA3Q2txVVQ1ODRxaHlrS2VhVVpKOWRjVXhHTlR3d05UYlZOLWQteUxERTZvX0dxYVpYcV9XenhIWmMzTWdiVWVzcFp5Vlk1Qk5YU3kxRVY2RGR0c2Z1MWJMRWNsUXo0cDkyOVVIbDFCeFk4VjBEcHhUTEpkSjVQUnU5aEpvMGsyYlhHOWh3?oc=5"
+          "name": "ma-sante.news",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sUlN2VUFCZEdpYjc4U3M3Zkt6alJ4c09WRUE2UEZHSXdGZlRhUVhsa0NneWJ3Ri1PcXNUNUJaNFVudEIyNHZWbFMzc2xXQ1BVOVRNaHdKdEk5T3VQWmZiZGxUbVp4VnR6SUpKV1BwYWJjRG8yZGFV?oc=5"
         }
       ],
       "feed_source": "google_fr"
     },
     {
-      "id": "6aa0ba07600c",
-      "title": "\"C'est la pire chose à faire avant de dormir\" : un neurologue a banni cette habitude le soir, elle détruit le cerveau - Journal des Femmes Santé",
-      "published": "2026-05-17T20:00:08+00:00",
-      "summary": "\"C'est la pire chose à faire avant de dormir\" : un neurologue a banni cette habitude le soir, elle détruit le cerveau&nbsp;&nbsp;Journal des Femmes Santé",
+      "id": "f5207654d61f",
+      "title": "J’ai remis la crème solaire de l’été dernier dans mon sac de plage : un labo a mesuré ce qu’il reste vraiment dans un tube ouvert après 12 mois - Sciencepost",
+      "published": "2026-05-18T05:17:27+00:00",
+      "summary": "J’ai remis la crème solaire de l’été dernier dans mon sac de plage : un labo a mesuré ce qu’il reste vraiment dans un tube ouvert après 12 mois&nbsp;&nbsp;Sciencepost",
       "sources": [
         {
-          "name": "Journal des Femmes Santé",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWXBUaFg2M051MzVkRHdQejlubE11bEM5X1dwSlBsUFE5cTkxMkVGZmJiOTFMRTdxWmV6RzB1NUR2UkFQRm1IeGRpeG5weUhDZWszZTlWWU9sY2dZbkNIT2dHWFZ3VlNKN3NtVmtGb1UzNUMzRlVJOHlYUm1McFZPVVZIUXE5QUMyWG1xVzRLUHpfUUJRQkFjdWs1czFYaDRidXJzcDU1bWUxak9pUkw5b2hVbUdnX0hYQXpZUGFTTUh2ZFVSZ3lmMlJrcVlMSzlYbXBEdmJGSGVJb1BpU2ZySWEtWm1EU1VSTWsxc25CUFF5UQ?oc=5"
+          "name": "Sciencepost",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZFJwRVFHWkduTkRJb1ViSnFhbjJHMzhZOUFhWWF4YXRLcGZfLUo5dllJNGI4azRjZzF2enNpMXJPdzIwLUlFdXZ2WHVhN2RPb0NIdks5RFB5cHRFd3BrVXc1d0xPTDZRMmNmLWV0VHFtd0lacU1xU0JwMWppcnBYcG91SzZKM3dLOGZKaTAyMEgtMkI4bHU3eThiZThjY2cwaDFzNGFTVWJVTzBTbU52SHRPUUh2Y0FKcG9WTFF1bC0tSVdBZ0tBUFJVbm56NW0zamxiWVhBaWhZYWVnYUN4YnFWb0pQWXBJeHZwX0pNU0RnZGlM?oc=5"
+        }
+      ],
+      "feed_source": "google_fr"
+    },
+    {
+      "id": "fe5ca26298a5",
+      "title": "Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ? - Ouest-France",
+      "published": "2026-05-17T19:34:24+00:00",
+      "summary": "Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ?&nbsp;&nbsp;Ouest-FranceVoir plus de titres et de points de vue sur Google Actualités",
+      "sources": [
+        {
+          "name": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5"
+        }
+      ],
+      "feed_source": "google_fr"
+    },
+    {
+      "id": "36e7ff2c7b69",
+      "title": "SHC : le syndrome des consommateurs chroniques de cannabis - National Geographic",
+      "published": "2026-05-18T09:04:00+00:00",
+      "summary": "SHC : le syndrome des consommateurs chroniques de cannabis&nbsp;&nbsp;National Geographic",
+      "sources": [
+        {
+          "name": "National Geographic",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQam9FYmtOUDNESzdNbW1yOWFZN1BtZm9Cb1NwREFxQ1EzTDI5ZlJacDFJWFA2Mm0wX2V4c2FlMWZtTFBqZGU3MlU4UGtFZHplOXVCMER2Um5wZjJ2Z1BfTy1ZUjg3d0J6RzM5TkU3RkY5WV9MWVF0Z1FURFhjckN3QVBQS3hPQWdxTjM5TXY2eHU4bWlpd0hNTWx3U3Yya1ZEMVIxQl93S0ZOd1pVT2JNWkl1aDJXc1RFa1R3ejlsMTlwNkQ0RURIeV9WazU?oc=5"
+        }
+      ],
+      "feed_source": "google_fr"
+    },
+    {
+      "id": "bb09064aaf3d",
+      "title": "Allergies aux pollens de graminées : alerte rouge dans les Hauts-de-France, les bons gestes à adopter - France 3 Régions",
+      "published": "2026-05-18T10:14:03+00:00",
+      "summary": "Allergies aux pollens de graminées : alerte rouge dans les Hauts-de-France, les bons gestes à adopter&nbsp;&nbsp;France 3 RégionsAllergique au pollen ? Ces 7 aliments à éviter absolument au printemps&nbsp;&nbsp;SciencepostPARIS : Dr Frankie PHILLIPS : « Des boissons pour mieux gérer l'inflammation liée aux allergies&nbsp;&nbsp;Presse AgenceSoulager le rhume des foins : découvrez les traitements innovants pour un printemps serein !&nbsp;&nbsp;PasseportSantéSaison des pollens : Plus de 40 % des ad",
+      "sources": [
+        {
+          "name": "France 3 Régions",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObGs2dGtIZkhFZkpvQkNrRFVkVk5aVkxkd2FabW9KemJaODBmYTRqRWZGd2xYSFFNcHAyRUtoMThJUVl0X29pTGpwRjV0bXNWVmQ3UjBZS25GX1N2aUpvemVGOGlCNnU1NTgxZEVOQ041Skk1M0VUekg0RS01ckp2MU53WXlPV05kLXJtRUl0R25odFNfN1FYWEJhZ2R6NjY0N3VCLU14Z2JWdEZCaUUxbWE1TC1DLVpmVzRXSU83Nm9fWXVIOEkzWmlLNmZ3ZFUtd09kQTgwS0hSbW1xbG1tYUVYXzFsTzJoN0dSRzhhbENrd0hPY0JINUdfMXluSU55eGtLRW9wODJOUQ?oc=5"
         }
       ],
       "feed_source": "google_fr"
@@ -1316,37 +1498,11 @@
       "id": "2062e8187a7a",
       "title": "Des essais historiques en France menés au CHU de Nîmes : contre l'alcoolisme, l'étonnant pouvoir de la psilocybine - La Provence",
       "published": "2026-05-17T02:11:00+00:00",
-      "summary": "Des essais historiques en France menés au CHU de Nîmes : contre l'alcoolisme, l'étonnant pouvoir de la psilocybine&nbsp;&nbsp;La ProvenceDépression : une substance issue des champignons hallucinogènes pourrait soulager les symptômes&nbsp;&nbsp;Pourquoi DocteurDépression : cette molécule issue des champignons hallucinogènes offre un espoir de rémission au CHU de Nîmes&nbsp;&nbsp;Top SantéUne seule dose de psilocybine altère le cerveau, montre une nouvelle étude&nbsp;&nbsp;MSNLes champignons magiq",
+      "summary": "Des essais historiques en France menés au CHU de Nîmes : contre l'alcoolisme, l'étonnant pouvoir de la psilocybine&nbsp;&nbsp;La ProvenceDépression : une substance issue des champignons hallucinogènes pourrait soulager les symptômes&nbsp;&nbsp;Pourquoi DocteurDépression résistante : cette molécule issue des champignons hallucinogènes offre un espoir de rémission aux patients&nbsp;&nbsp;Top SantéUne seule dose de psilocybine altère le cerveau, montre une nouvelle étude&nbsp;&nbsp;MSNLes champigno",
       "sources": [
         {
           "name": "La Provence",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMG5XQi0tMV90bmxJOThfU0xKLVUxU2JNQm5nWEhPa2JpNG80QlVydTRzb01FbkpTbUhYSjJVWlhvR0I0c0dpemZfWXBLUlJZRllxcnUyN011LUpYVXZyeTcyZ09HZW9fN0tRQ2NoeEhFU0ZyTWVhOU5PVmVTMEtVZW83R2Z0MnJmOGJSdUZDRWxkRmRKYWpfMzI5SnNkUkx3RjAwcG5CbUo5TmJGcm1rcG1GYTBwcjlzM0xCanNpTF90Y2puMGUwRnRuRXhnYUxqQ1doR0RsZkU5dkNnZHFGNC1vTlk5Q0pjR0d5MC16NXQ4eDg0NkhDaVdaUQ?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "a3e637884bf7",
-      "title": "Alzheimer : comment votre compte en banque peut prédire le déclin cognitif 10 ans avant les médecins - Sciencepost",
-      "published": "2026-05-17T05:35:20+00:00",
-      "summary": "Alzheimer : comment votre compte en banque peut prédire le déclin cognitif 10 ans avant les médecins&nbsp;&nbsp;Sciencepost",
-      "sources": [
-        {
-          "name": "Sciencepost",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2xJLUZoRUZkQlAwRGFKb05YNnFqS2lzd1laWmM5UkdHUU5nSGZjWnpYX0Qybng4UXJQVkxXLXFTWjllczVjX01zd1l0U2VjSnJrRThHY3pTYkV0eUZUZHB6Vy1oM1ZESlhKY2dOQ1RORkRzczB5WXlNamM5V0xZbE0tb2dIdTRDWWJqdjVrd3JWZTJsUXlwandUckNCYkJpeWVtNVMyV2JRaXY0X3NVZzlJRjFCVVYwTmVMZ3QxRQ?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "b85aca61c3be",
-      "title": "Rétinoblastome : ces signes discrets qui peuvent alerter les parents - Le Figaro Santé",
-      "published": "2026-05-16T09:45:00+00:00",
-      "summary": "Rétinoblastome : ces signes discrets qui peuvent alerter les parents&nbsp;&nbsp;Le Figaro SantéCe reflet blanc dans l’œil de son fils de 3 ans était en fait un cancer rare&nbsp;&nbsp;Le Tribunal du NetTrévenans. Rétinoblastome : ce cancer rare de l’œil qui touche les jeunes enfants&nbsp;&nbsp;L'Est RépublicainPupille blanche, strabisme persistant : des signes simples qui doivent faire penser au rétinoblastome&nbsp;&nbsp;Le Quotidien du Médecin",
-      "sources": [
-        {
-          "name": "Le Figaro Santé",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3FWclZEX1FxWUhGeUdwX3FxTmVsREVZdExEeUNxeGFIUDIxc09ST2hEaklIQ2VFbk1VTW5tRGVxQmFPUWtEOUVLQzFRTzhfYVFyYzRZZk1MSW8tZTlXSUNYazhFLWRQRVF1NnhHdUc4cnRnQWtLenQ0alFpajRyUXJXelROVHkzRkFNeWxhRTJoRUdmQnYxMFNQWHgzVFNISHdKUHY4aHJOZTA5ZGtv?oc=5"
         }
       ],
       "feed_source": "google_fr"
@@ -1365,53 +1521,27 @@
       "feed_source": "google_fr"
     },
     {
-      "id": "3328aa841f91",
-      "title": "Santé : des chercheurs viennent de découvrir pourquoi le cœur est si peu concerné par le cancer ! - Sciencepost",
-      "published": "2026-05-17T06:34:02+00:00",
-      "summary": "Santé : des chercheurs viennent de découvrir pourquoi le cœur est si peu concerné par le cancer !&nbsp;&nbsp;Sciencepost",
+      "id": "e6e1cb6936f3",
+      "title": "Interdiction de vente d’alcool : la Ville de Troyes serre encore la vis - L'Est éclair",
+      "published": "2026-05-17T14:28:24+00:00",
+      "summary": "Interdiction de vente d’alcool : la Ville de Troyes serre encore la vis&nbsp;&nbsp;L'Est éclair",
       "sources": [
         {
-          "name": "Sciencepost",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVF0WTc0a2hVT00tMlBfaklQRlFwNVFuQU1INjNVWE51dzhoTGFCTVVpMWNseEVXMXlDbWc3aXpLcDZRZWVLNTgzZ0YwYy0tOEk1ZFFPdDdVM3FILXNiUjV4UkFfcUF4TGRYSXVIV1lUT25UeDl6MUtadEdiOFFDQ1BXb2lsbkhLeVdGMXZRVk5zaFZocUhaSmlKc1NDRlV4U1o2M1diTDVvMTRhNnlxbkZPUFVxeFdGd2c?oc=5"
+          "name": "L'Est éclair",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMm91bC1lRXNIMFlzRmcwaFF1cHZYa1MwZkhSOVFILTd6YTNNR2loTkxISjVBdXFaQVA3Q2txVVQ1ODRxaHlrS2VhVVpKOWRjVXhHTlR3d05UYlZOLWQteUxERTZvX0dxYVpYcV9XenhIWmMzTWdiVWVzcFp5Vlk1Qk5YU3kxRVY2RGR0c2Z1MWJMRWNsUXo0cDkyOVVIbDFCeFk4VjBEcHhUTEpkSjVQUnU5aEpvMGsyYlhHOWh3?oc=5"
         }
       ],
       "feed_source": "google_fr"
     },
     {
-      "id": "7302b177c24b",
-      "title": "Ma vie après un AVC : « Ferme ta bouche la résilience ! » - Le Monde.fr",
-      "published": "2026-05-16T16:00:09+00:00",
-      "summary": "Ma vie après un AVC : « Ferme ta bouche la résilience ! »&nbsp;&nbsp;Le Monde.fr",
+      "id": "062870842a84",
+      "title": "Manger des carottes permet-il d’améliorer sa vue ? - La République des Pyrénées",
+      "published": "2026-05-17T12:30:00+00:00",
+      "summary": "Manger des carottes permet-il d’améliorer sa vue ?&nbsp;&nbsp;La République des PyrénéesOn vous répète qu'il améliore la vue : ce légume orange ne fait pas de miracle mais bouleverse votre santé&nbsp;&nbsp;Top Santé",
       "sources": [
         {
-          "name": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0ZlUEZrNjhGb3R4amFlUExSQnhQUjZCTlFDQUlEVUUwMDVGalBOQ3cwbjNXYWsxYnA5Rmx6Y1JTd1ZONlU4b3BxMWFiYkNaU2h3eVBZWk93aTlJaVMxUkVvUUZoUEhOeVd5aU9WeDFzZ1FMNW9sZ2x4aHpPaEpiSjZtOTN1VHJ0ZHFsUXpHUXBLQ0IzVi1zU29Hb2xhQ1VTX29WNFRkd3dvcHJCam1mdGVobG9BUzRYMDNFQ01Gaw?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "894195dffa45",
-      "title": "Deux injections par an et 99,9 % d’efficacité : ce traitement peut-il enfin mettre fin au VIH ? - Futura, le média qui explore le monde",
-      "published": "2026-05-17T06:00:00+00:00",
-      "summary": "Deux injections par an et 99,9 % d’efficacité : ce traitement peut-il enfin mettre fin au VIH ?&nbsp;&nbsp;Futura, le média qui explore le monde",
-      "sources": [
-        {
-          "name": "Futura, le média qui explore le monde",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVRGQ29FNFc5aFdvVS1tNVVqWld1XzI0NThMZFNkQkJrMzhEYTFUTzVFR01ZOVlLdmFtRlVkVXU5RkdMMW5EdzJaOEotMXdqa0hnekE3LVl4MXJ1dGZLaVRuOWdubl9YM1NITWNERUJGMHYzV1RrREdZam5NNXdfbHhPb1ltYS1Zd3hJX2FUb2ZSUFVRVlRhc2tjQ0ozeExPVjBiOGtLMU5pZzU2QXZaczEzQ0h0NmhEZXVOSjhQLUxfSVlCa29aQVhsd3ZYX1dvSHRkY0hYSUVmaFVLUkFB?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "4a489905392b",
-      "title": "Sortir les cheveux mouillés rend-il vraiment malade ? La science répond enfin aux idées reçues de nos grands-mères - Sciencepost",
-      "published": "2026-05-17T18:36:00+00:00",
-      "summary": "Sortir les cheveux mouillés rend-il vraiment malade ? La science répond enfin aux idées reçues de nos grands-mères&nbsp;&nbsp;Sciencepost",
-      "sources": [
-        {
-          "name": "Sciencepost",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZlptcGNtd0tqclBTZ2FEdnRaRmQ2UkhXNVpUT2hsbkNpUlRvRW9GUTBEaWNwVlc1ekRPVmpQNVlVMkNOQ2E2aEYtMVZsTUJNajBUYnBuZGlzSmoyUUw2Z3lYcWlKNnpvUXNjWHVudU4zNDdxMWtqWVFXODJ0ZnRha0hUTlUyWTJhMnZSZ0J1RzkzM3VMTXJCdXJ0bmxOYkdXcmxJRHJ5RDhaU2JWekpndmdtX19jY2xOWDdLc1lQZ05TTmJXS2IyMUhzNUlMTzYyU2c?oc=5"
+          "name": "La République des Pyrénées",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem02ZGJuU3h4VXdaYUM4Tms2bXJ3Y3ZBdHRST2ppa3RuZ0cyNVI5d2tLQ0g1ZW5hUmRzOWVGYkVXdzJja1RIbUNka0lVb0FMWGdLaHRxbGVhQmFMMlkyTVVWODNQam5hY1RsVHJVSUcyS0lIQ01Wb0pIVW8yUUtaX0J0MUswNWJuQU4xcHBSSDJhNUpTMVNWYmcxS3BlMHM0SFBmMTBwUG1sX1pDckwyNW5MSWhjaEVE?oc=5"
         }
       ],
       "feed_source": "google_fr"
@@ -1430,10 +1560,10 @@
       "feed_source": "google_fr"
     },
     {
-      "id": "d2a1b9c52f53",
-      "title": "Chazay-d’Azergues. Paralysé un matin, il remarche après une opération : « J’ai un mental d’acier » - Le Progrès",
-      "published": "2026-05-17T06:59:49+00:00",
-      "summary": "Chazay-d’Azergues. Paralysé un matin, il remarche après une opération : « J’ai un mental d’acier »&nbsp;&nbsp;Le Progrès",
+      "id": "450527c81a0d",
+      "title": "Rhône. Paralysé un matin, il remarche après une opération : « J’ai un mental d’acier » - Le Progrès",
+      "published": "2026-05-17T19:56:40+00:00",
+      "summary": "Rhône. Paralysé un matin, il remarche après une opération : « J’ai un mental d’acier »&nbsp;&nbsp;Le Progrès",
       "sources": [
         {
           "name": "Le Progrès",
@@ -1443,27 +1573,14 @@
       "feed_source": "google_fr"
     },
     {
-      "id": "4e75c66828eb",
-      "title": "Dominois : un adolescent grièvement blessé dans un accident de la route - Courrier picard",
-      "published": "2026-05-17T08:17:42+00:00",
-      "summary": "Dominois : un adolescent grièvement blessé dans un accident de la route&nbsp;&nbsp;Courrier picard",
+      "id": "4a489905392b",
+      "title": "Sortir les cheveux mouillés rend-il vraiment malade ? La science répond enfin aux idées reçues de nos grands-mères - Sciencepost",
+      "published": "2026-05-17T18:36:00+00:00",
+      "summary": "Sortir les cheveux mouillés rend-il vraiment malade ? La science répond enfin aux idées reçues de nos grands-mères&nbsp;&nbsp;Sciencepost",
       "sources": [
         {
-          "name": "Courrier picard",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemEzVFFYWW11bHltdWg2QnRROVZLNXZjM1NUdzd0ZWVEblk1bnFSN2pFSWxWdjFsNnlaVlZkWjRPSTZudVFHbkExN1pHZ1hfQTBnel95WG1xVXpicHVuWGx3MlEtUnNFQ0JETnFPcVdzQTZ4YncwbVE3dGc4UzFiS3hNMTB0UTRkMHZpelloZWZzUmZHZ0l1SExrak5EM0s2Qm5xUHdnQ0pSX3RvblhnSW9sNDYxYjFPTFJ1LXB0RWlLNVRzZ0p3?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "eb966afa992f",
-      "title": "Ce pharmacien du Sud-Ouest devient une star d’Instagram en donnant des conseils de prévention sur la santé - ladepeche.fr",
-      "published": "2026-05-17T06:06:00+00:00",
-      "summary": "Ce pharmacien du Sud-Ouest devient une star d’Instagram en donnant des conseils de prévention sur la santé&nbsp;&nbsp;ladepeche.fr",
-      "sources": [
-        {
-          "name": "ladepeche.fr",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeU5vSTlSMHRPbWV2bWhSaFlpbVBrYWx4UDA3RUZZblFDZHJlT3RwaDQ3QlhtRnlFaS1Ca1hITU1CanRaX2N0R3dPb0E2TzNyTVh3enVwYkFsOUlCaG9lTmxGUG1ROUphZFg1NmlTa3RYcFpWU3FSQUMxTnBpVXdQVGNWdVp5YXlpRENtTnJ6X3hHQ1YyelBobzYxNnEwTGp0M0ZOWlhTblBuTjNxME5uWk1Oa0txcUgwUno0THRCdG1OZ01PeE9CRzNEVDl1SDBzb2ZxVkxTVGZCZDhDQU1HT01mdk5TU0lDYUE?oc=5"
+          "name": "Sciencepost",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZlptcGNtd0tqclBTZ2FEdnRaRmQ2UkhXNVpUT2hsbkNpUlRvRW9GUTBEaWNwVlc1ekRPVmpQNVlVMkNOQ2E2aEYtMVZsTUJNajBUYnBuZGlzSmoyUUw2Z3lYcWlKNnpvUXNjWHVudU4zNDdxMWtqWVFXODJ0ZnRha0hUTlUyWTJhMnZSZ0J1RzkzM3VMTXJCdXJ0bmxOYkdXcmxJRHJ5RDhaU2JWekpndmdtX19jY2xOWDdLc1lQZ05TTmJXS2IyMUhzNUlMTzYyU2c?oc=5"
         }
       ],
       "feed_source": "google_fr"
@@ -1482,101 +1599,88 @@
       "feed_source": "google_fr"
     },
     {
-      "id": "79e4134dcc69",
-      "title": "Un tout nouveau dommage collatéral de l'Ozempic vient d'être pointé du doigt: \"Il ne change pas seulement le corps\" - parismatch.be",
-      "published": "2026-05-16T11:45:00+00:00",
-      "summary": "Un tout nouveau dommage collatéral de l'Ozempic vient d'être pointé du doigt: \"Il ne change pas seulement le corps\"&nbsp;&nbsp;parismatch.beWegovy, Ozempic : pourquoi perdre du poids avec ces médicaments est aujourd'hui plus mal vu que de rester obèse&nbsp;&nbsp;SciencepostOzoda Nursaidova : Il a été révélé que l'injection d'Ozempic peut être nocive pour la santé&nbsp;&nbsp;Zamin.uzL’arrivée des génériques d’Ozempic inquiète des experts&nbsp;&nbsp;Le DevoirDes experts s'inquiètent | Versions gén",
+      "id": "5f41a51ab585",
+      "title": "El ébola circuló más de un mes en el noreste del Congo antes de ser identificado - EL PAÍS",
+      "published": "2026-05-18T12:58:34+00:00",
+      "summary": "El ébola circuló más de un mes en el noreste del Congo antes de ser identificado&nbsp;&nbsp;EL PAÍSQué necesitas saber de la declaración de emergencia internacional por un brote de ébola por la OMS&nbsp;&nbsp;National Geographic EspañaEuropa envía un equipo de expertos para apoyar la respuesta al brote de ébola en la República Democrática del Congo&nbsp;&nbsp;El MundoEl Gobierno congoleño eleva a 95 la cifra \"probable\" de fallecidos por el brote de ébola&nbsp;&nbsp;RTVE.esAlerta de la OMS por éb",
       "sources": [
         {
-          "name": "parismatch.be",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNlY2Vi1XbVFSLUt5cDBpQmNRVjh6My1JT01FU0ZxN0tyYllCY25EbFJJSGhkRkd3WmRHWmg1YjZYM2tCNEpGMnlMS3MxWXowVzUwNUhBVFQxc2hCU0hjLWY3RTVwa1FnaFFubUppaTlsNy1qaFlKYmRaS0ZlbEF3S25ub2k3d3hnbXd3YUlMWnBkVjVPYktxSDN0SlZfRXI0MW1MRU1KSm1xcERJcldDY0RWcm9teGcxQ2ZKWTJKU1h6WFRnWmd2UHl1N0xmX3EyZDZfbG1NYTRuMHBOY1FMUmM2MVBFano5WGRQdzFZWmRGalJhVDBpaFpVRGVmY3REQVZUbS1scHRjeWl2TVVhZnpkN2lIUk9FMEpfMg?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "8fd0412388f1",
-      "title": "Champagnole. Il agresse l’infirmière libérale qui était venue soigner son frère - Le Progrès",
-      "published": "2026-05-16T19:31:35+00:00",
-      "summary": "Champagnole. Il agresse l’infirmière libérale qui était venue soigner son frère&nbsp;&nbsp;Le Progrès",
-      "sources": [
-        {
-          "name": "Le Progrès",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFZDQXI0cnRPc2ZSTlZGYmdnbzBpYUxTc3lEU0p4eVRzelVTQklCcV9iVjVtSGVzTTdTNDVsWHJPR3hQX25IcDNpVjNldTZKYUxLSURWa2JKSEoybHh1bmk3NTl6NWZWWXVBd1RtVXVyVDY4VmVLb1ZTekxFNTF6RXlwdkNhekY3RUxheURfMUcxbVFUcGZfODZ0TnJIeng5alE2MmpNM2NXNU0tNlBaV1hmNmFnVVFmRnZXb0NqR1U?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "d61b61354c68",
-      "title": "Grippe aviaire : comment votre chat domestique est devenu un nouveau vecteur de transmission pour l'humain - Sciencepost",
-      "published": "2026-05-16T17:21:26+00:00",
-      "summary": "Grippe aviaire : comment votre chat domestique est devenu un nouveau vecteur de transmission pour l'humain&nbsp;&nbsp;Sciencepost",
-      "sources": [
-        {
-          "name": "Sciencepost",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGZrRnlGMVUtQmtLR3B6MGNsVUo2b1FhTHNKOVpaTmJPaThuUUtTcnQyckJDS0pHbGF5MHRpc3hiOGhtdnQzakZZQS1FcWJtbVBLVWNFZzN5Mm5fOFFHai1vYmNULWVsTWZYeEFZNnVpeXdUSElUMUhEVUJvY0psNGZneXBzdkFNanBwR3BVN0NXRTZFdFRnelJnVXA3aFlHbG5SazYwSS1nOEVnQVFyd0F6bjJKNVNtdW9ENkdvOXowdlh3Nmc?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "40b82a425598",
-      "title": "Sang dans les selles: un symptôme à ne pas ignorer - rts.ch",
-      "published": "2026-05-16T11:24:01+00:00",
-      "summary": "Sang dans les selles: un symptôme à ne pas ignorer&nbsp;&nbsp;rts.ch",
-      "sources": [
-        {
-          "name": "rts.ch",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMktSdlN5OVdrRk9oN0xRTXduUVVkZVp6VWd2MlNkNllLOHp2T2xlVGg1YkFrYTdrMVU1SmF0Mkg1dEkxUXF2NkV3ZHNNQmo1VVEycGJ5RnNiZzBMd1IwSVhVaVF4bDNqdWFzNXAxdGFNdTBCSGFINlJTRFlmVFBoMlFQMDQwT3g4S01iMV9RT19RX0JYaHZueEdicENIRjRES1F6VHZ2NTdjdw?oc=5"
-        }
-      ],
-      "feed_source": "google_fr"
-    },
-    {
-      "id": "2a3aeb74d5a5",
-      "title": "Se intensifica lucha mundial por contener nuevo brote de ébola mientras EE.UU. busca reubicar a \"pequeño número\" de afectados - CNN en Español",
-      "published": "2026-05-18T06:45:00+00:00",
-      "summary": "Se intensifica lucha mundial por contener nuevo brote de ébola mientras EE.UU. busca reubicar a \"pequeño número\" de afectados&nbsp;&nbsp;CNN en EspañolQué es el ébola Bundibugyo, el virus sin vacuna que ha llevado a la OMS a declarar emergencia internacional&nbsp;&nbsp;EL PAÍSÉbola en la República Democrática del Congo, ¿qué sabemos de la epidemia?&nbsp;&nbsp;El MundoSanidad estima \"muy bajo\" el riesgo de ébola en España tras el brote en el Congo y Uganda&nbsp;&nbsp;RTVE.esLa OMS declara la \"eme",
-      "sources": [
-        {
-          "name": "CNN en Español",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmVVdkFsVGRpX0ZUQkdTZlJpWFZDLVRJQkstUUxILTV4QXBGLW9PX0ZIaDNxTUYtb1pEZ3NXb1JScEdoVDd5V2M4U2RselExOGJaczdiamFVTWRmTFhjY0J4WjZrMFZBWVRNRXlWWFNhMzFtUUtyT3N5VG1XUXl1TjdZX1FsWUdyTDdWS2lUT1MxLWFZbVVj?oc=5"
+          "name": "EL PAÍS",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmo1b0lrODJfbDBmRFctNXlYbTZsREZReWhpVXI5TjFTd2Y2Rkp6bVhHUGhkRWpSRVhUU3FIYktpWFR5M0dnRDg1WmplclA3eGxHUVFHUkZHZUpmZlllUnk0SG9xa0IwN2Roc2JNZHlvWWVoNi15MS1qVld0ZWRvZGVfQTBQU05EcWlpQUcyb1M3b0pjTFRiTVJRNHJEbG9xS1pUVkhKU3BLQVFSRUpvOXFqaXlpMHhvREdnQXdicHd0Zw?oc=5"
         }
       ],
       "feed_source": "google_es"
     },
     {
-      "id": "de239a3264a9",
-      "title": "Más allá de la cafeína: Descubren cómo el café ayuda a frenar el envejecimiento y proteger de enfermedades crónicas - infosalus.com",
-      "published": "2026-05-17T06:14:52+00:00",
-      "summary": "Más allá de la cafeína: Descubren cómo el café ayuda a frenar el envejecimiento y proteger de enfermedades crónicas&nbsp;&nbsp;infosalus.com¿Por qué el café puede ayudar a proteger del envejecimiento?&nbsp;&nbsp;La Voz de GaliciaEl café activa un receptor clave en el organismo que frena el daño celular y ralentiza el envejecimiento, según un nuevo estudio&nbsp;&nbsp;InfobaeEl café tiene un secreto para frenar el envejecimiento y no es la cafeína&nbsp;&nbsp;COPELa esperanza contra el envejecimien",
+      "id": "b5f955c4e98d",
+      "title": "La OMS alerta: el mundo sigue sin estar preparado para una nueva pandemia \"aún mayor\" que cada día está más cerca - Cadena SER",
+      "published": "2026-05-18T12:20:04+00:00",
+      "summary": "La OMS alerta: el mundo sigue sin estar preparado para una nueva pandemia \"aún mayor\" que cada día está más cerca&nbsp;&nbsp;Cadena SERLa OMS alerta de que la humanidad está al borde de sufrir una pandemia aún más dañina: “El mundo no es más seguro”&nbsp;&nbsp;EL PAÍSLos brotes infecciosos aumentan en frecuencia y gravedad, según un informe&nbsp;&nbsp;SincEl mundo está peor preparado para una pandemia que hace diez años, concluyen los expertos&nbsp;&nbsp;InfobaeLa OMS advierte de que el mundo no",
       "sources": [
         {
-          "name": "infosalus.com",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYnhlX0pWcjZWazZuT1p6d21mMFI3azVBOFJKVlpHUmZnckZRc3loSVpwWHBEMGxoaVotZFp2a1BycElwSTNtVE1kQXpySm9sSHZUeDBrWVZJX21QTEZ4WnJFUUt0U2FzYjJaMVdqS3VVZC1mYUtGQkpYVEJnTzBUeEhEcHdQTWxIcUZ0YnYxdzNsckpnMVFlcUZFeXUzVHFSUEFHWTBGYl9xZnRSMnVHYVY0ODQwMVdoWDdHZXo5cmxaeDVDYzI0YzZIM3VqS25RZDROS3hYM2NGclpCOWtZU3pOaEg3cVhuVlE?oc=5"
+          "name": "Cadena SER",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMEExTjl4bEtuSnpPakZWRmZqZDE3VkxmdlZjQmh3X29iamZ2eGtPZmJJN3RJUGd2ZnVoaTg3OUMwcHhrMkxXZm0zTXc3MUxCaEdyRnZoRFd3VEtja2RDV25VT3VwTnNjcExTTWlBUmh6WFUwTzNSalU4d3A3Tk0yc2tQTGt0b1g1UE9KWm1GY1ZCdkYteVh6enpPTVdNbUpjSlRyNUk0TlpfZTlGajNseDhIa2lBMlI4U3RiYkdNWVBtRjloU0hTVVVPRFBBdnZQV25EYTdNZUJlTWxxTU5weXYyaDZOVmFkU0cycFVRTE1USk9mRndR0gGLAkFVX3lxTFBaRzdkdWtONGFMOWtCZmNTWmM0ZzBNSm9JMzk2Tnh0T2FaVGxPNFdaWnpuak0waDlwU1hKQVFhQTJHZENpa3gxQTIybUhUU0I1SW9VaVBzakZIclo3bG5hVkx5UV9JeWxCVjJ3eVBkOXJQX1dwMHZMY3dtWW5RS0xMSHlKZzcwejkzdTVaQVhnRWh0dU1BS3RaR2FjbWEwanJVMTFEdGExQzV2T1UzUDlueDhkdEJDR0prZGpMdUk2S0lwSmZlN2JaMVI3OWJvZ3BtSTFzSlFHbGdQaHBnczNDTWR2MkFQVUZlem15R1Q3WFhWeUNCVHlTVWZIS0NYT2RDWVN3SWJVWGZtSQ?oc=5"
         }
       ],
       "feed_source": "google_es"
     },
     {
-      "id": "aa4b2606c606",
-      "title": "Ciencia canaria a 3.000 kilómetros: un virólogo tinerfeño firma el primer mapa genético del hantavirus causante del brote en el crucero - Eldía",
-      "published": "2026-05-16T17:00:41+00:00",
-      "summary": "Ciencia canaria a 3.000 kilómetros: un virólogo tinerfeño firma el primer mapa genético del hantavirus causante del brote en el crucero&nbsp;&nbsp;EldíaUn análisis comparado de cinco infectados por el hantavirus confirma que hubo contagio entre personas&nbsp;&nbsp;EL PAÍSUn virólogo español firma el primer mapa genético del hantavirus causante del brote en el crucero&nbsp;&nbsp;El PeriódicoLos protocolos (y expertos) no descartan que el hantavirus pueda transmitirse antes de presentar síntomas: ",
+      "id": "440e5c06552a",
+      "title": "Brote de Hantavirus, en directo: Última hora del crucero MV Hondius, contagios, infectados y confinamientos - La Razón",
+      "published": "2026-05-18T14:19:14+00:00",
+      "summary": "Brote de Hantavirus, en directo: Última hora del crucero MV Hondius, contagios, infectados y confinamientos&nbsp;&nbsp;La RazónJosé-Luis Jiménez, experto en aerosoles: «Pensar que el hantavirus puede causar una pandemia es absurdo»&nbsp;&nbsp;La Voz de Galicia¿Crisis sanitaria o manipulación?&nbsp;&nbsp;La Opinión de MálagaPor qué el hantavirus es una amenaza diferente al Covid-19 (y qué es lo que realmente debería preocuparnos)&nbsp;&nbsp;El MundoEl ‘sorteo genético’: ¿por qué el hantavirus es ",
       "sources": [
         {
-          "name": "Eldía",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLS1KTS1FdmZQMktOZHhKajhlUDRXaFBaWnFmeEdkMTdOV2tVa1BoNS1vb3BZSzFjS3gzaU5UVkNHXzY1MFhUd0stVVBIa2ZKc3lMNkhCcEZQalNkNTN0ZnpNMmxTcnY1c2tNSVhSa0MwOC1vN1JmU1c4V1h2cXZ1SC1XZ0JvSE9PS0g5UjVfWkdxUdIBlwFBVV95cUxOcEd6dEdvTndEZnN0U3BCZE9DcnJfTnZRUW0yVmNwLWxCMEFwVXRHVWs4SU9kbzN0ZTRqVVNrRFVRd05MMVZ2Q1p4NmN0MnRFdWJ4VmRtYXZMZzQxWGNkalhLQUROeGVYRUU0c3phVE1UTnF6aWNnTTVlY3M2Ukozek5iOGFPenJKQzBka3A2VDA1ODdjTzcw?oc=5"
+          "name": "La Razón",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcG1mY0g4YjllUG9mZ2RhZHdYMFU2QnY2WWxUTWVhRHc0WTM0amVuZzd1VWdmUTBBRG12SXFvaXlFaENFOVRoVWxVYXZEOFBtQVRRd0tkNDBBUmxYNkstSkhETlo4RDBQTEhWWVZWLWJoOER3b1BZbi1FUi1lbElBdnA3cjdzNlJ0TlRidmhUVUR0MGsyemViLUFRcHZ2MXB2cHBqYXotQzZkaHNXMERlSjdXTEIxakVMQ1lRNnZ6Q2pHUmVfMWQxNzV0UDNQS19zM1hQcFhXRW1PMWNneVVSc05JM3FIWmpYamxnakphbXNyTm8?oc=5"
         }
       ],
       "feed_source": "google_es"
     },
     {
-      "id": "e27bd9da5806",
-      "title": "Hantavirus su nave da crociera, oggi la Hondius arriva a Rotterdam. Oms: “Basso rischio” - Sky TG24",
+      "id": "e56f52380806",
+      "title": "Diez mil virus de animales a personas: el cambio climático y la globalización amenazan a la humanidad - EL PAÍS",
+      "published": "2026-05-17T03:30:01+00:00",
+      "summary": "Diez mil virus de animales a personas: el cambio climático y la globalización amenazan a la humanidad&nbsp;&nbsp;EL PAÍSCalor, lluvia y bellotas: la cadena ecológica que puede disparar el riesgo de hantavirus&nbsp;&nbsp;El ConfidencialLa nueva realidad de las infecciones, cómo el deterioro ambiental acelera el salto de virus de animales a humanos&nbsp;&nbsp;AtresmediaLos biólogos advierten de que la expansión del turismo de naturaleza dispara el riesgo de infecciones de animales a humanos&nbsp;&",
+      "sources": [
+        {
+          "name": "EL PAÍS",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVkJUMng2amh4YmR6VFVWVGhGNThZcEstLS0yZEdGc0Q2WjFNS3BTbXE3VG51ZEsxYm43ZUg0Z0QwM0k1ZTBnbXh5T2tXV3R0UHpveExFdHJkalh2VHdqOXRuU3JHMEpBTm1DeV9wWTBQOGcyUllRY0J0UEdyb3hQdGpqYkZWbHU3aGphdV8wZnduQUJwUXdNdjdmRWF0cTgtRkNpWU1ucHdfNDZEWEIyWDRWNkc0OVR1bFZ3cmZSbU8wUVFWQmNjRG5COHJfSVpVN2hHdDJmZGd6bGw1bW02VHBOWXZyUS1I?oc=5"
+        }
+      ],
+      "feed_source": "google_es"
+    },
+    {
+      "id": "87b1f03e5bc1",
+      "title": "Cuáles son las enfermedades que puede causar el consumo de alcohol, según especialistas - Infobae",
+      "published": "2026-05-17T18:03:00+00:00",
+      "summary": "Cuáles son las enfermedades que puede causar el consumo de alcohol, según especialistas&nbsp;&nbsp;InfobaeEl consumo de alcohol está relacionado con más de 60 enfermedades, según los expertos&nbsp;&nbsp;La Razón“El alcohol aturde al sistema inmunitario: es como si le dieras un golpe en la cabeza con un mazo”&nbsp;&nbsp;Men's HealthNuevo inventario de los daños que el alcohol causa a la salud humana&nbsp;&nbsp;Noticias de la Ciencia y la TecnologíaPuedes revertir gran parte del daño que el alcoho",
+      "sources": [
+        {
+          "name": "Infobae",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMjlHSHpzQTZIQTFrbG9Cc1hxQjFBYzU1VkYxUDhXYTJ3SDIzeE9hQXZSUzJQZFVsdFNXcldFY3lqa3VBdUQzeWU5Szl4aHFUTVIwcm0zZ19Ob2VkRktEUjlCY29VWFJNaS0wajBleGJ6ZUdWZ3VlOWlhaGMwSWN5a3ZXUTJQeGg4SVgyaGdhREZjcDQ5NjZDOEl1bnVVdjBvX3JpTGtNdWQ2WGpuXzFfWElHeGZ0Z3BvUk4zTU42cnRub1lYdjJV0gHiAUFVX3lxTE5CY2E3bEdqQlI1OGdGaFNoZ0otQjBmelNDNkVoQVk1LXBka1JwWW41S210MTBZS3J4ekdzVFVuaHFETno0WDVPcHh3a3ZLa283d1BJa0pKS0dsT0ZGcmZGbTJOeU53c2lOUWptc2Z6WHNHc2xuV05ET2I0Mmc3MkhLSG1Wbi1uRjhuUU9ZeThGZVJmN1dtajViTTVkZzRqYW45cGZlemkzWmhrc2xsVHhVeVNnZnRBaDRtRm9NVGl5LWZUU2ZITHlQLWlIWlM0OW1tUnZSS1JyQjNXUl92cXpIUFE?oc=5"
+        }
+      ],
+      "feed_source": "google_es"
+    },
+    {
+      "id": "2e73eb4e065b",
+      "title": "Ebola, l’Oms dichiara l’emergenza sanitaria internazionale: “Ceppo raro e senza vaccino in RD Congo e Uganda” - Il Fatto Quotidiano",
+      "published": "2026-05-18T08:22:45+00:00",
+      "summary": "Ebola, l’Oms dichiara l’emergenza sanitaria internazionale: “Ceppo raro e senza vaccino in RD Congo e Uganda”&nbsp;&nbsp;Il Fatto QuotidianoL'epidemia di Ebola nel cuore dell'Africa: almeno 80 morti. L'appello dell'Oms&nbsp;&nbsp;Corriere della SeraEbola, almeno 6 americani esposti al virus in Congo. «Epidemia forse più estesa di quanto rilevato»&nbsp;&nbsp;Il MessaggeroPerché il focolaio di ebola nella Repubblica democratica del Congo è diverso dagli altri e cosa ha detto l'Oms&nbsp;&nbsp;Wired",
+      "sources": [
+        {
+          "name": "Il Fatto Quotidiano",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTBMNFotZ3BFcjNOUVo3YXhJRzNPc2JOWno0RzhwU2RkUkYxSGRKMTUyaW10MVRWcHBoU3ZrV1RNQnppLU03ZTJhRlF2VXl5OFNWOUxfeElLS3RLdzFyLWUwVXhCUURrQ1VTVXNaOHBpZzBtWTBmTTdHVEF6clpyVUZuR2xZTHU3VzQyTkJOZ29tQ1daUkZmTDlVa3A4OS0y?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "165e51c4b54c",
+      "title": "Hantavirus, nave da crociera Hondius arrivata a Rotterdam. Oms: “Basso rischio” - Sky TG24",
       "published": "2026-05-18T06:38:52+00:00",
-      "summary": "Hantavirus su nave da crociera, oggi la Hondius arriva a Rotterdam. Oms: “Basso rischio”&nbsp;&nbsp;Sky TG24Hantavirus, la crociera, il contagio e le paure: “Siamo in stato d’allerta, ma il focolaio è stato isolato subito”&nbsp;&nbsp;Il Resto del CarlinoHantavirus, disposte misure di prevenzione urgenti anche in Sicilia&nbsp;&nbsp;Giornale di SiciliaHantavirus, nuova circolare del ministero: vademecum ai medici per i casi sospetti&nbsp;&nbsp;RaiNewsHantavirus, infettivologi in campo: «Vigilanza ",
+      "summary": "Hantavirus, nave da crociera Hondius arrivata a Rotterdam. Oms: “Basso rischio”&nbsp;&nbsp;Sky TG24Hantavirus, la crociera, il contagio e le paure: “Siamo in stato d’allerta, ma il focolaio è stato isolato subito”&nbsp;&nbsp;Il Resto del CarlinoHantavirus, se la quarantena dura sei settimane cosa succede al lavoro?&nbsp;&nbsp;QuiFinanzaHantavirus, disposte misure di prevenzione urgenti anche in Sicilia&nbsp;&nbsp;Giornale di Sicilia'Nessun caso Hantavirus nelle Marche', attivata la rete regional",
       "sources": [
         {
           "name": "Sky TG24",
@@ -1599,40 +1703,92 @@
       "feed_source": "google_it"
     },
     {
-      "id": "fd2c1652e245",
-      "title": "Oms, emergenza internazionale per raro ceppo di ebola. Burioni: \"E' un virus pericolosissimo\" - RaiNews",
-      "published": "2026-05-18T01:48:00+00:00",
-      "summary": "Oms, emergenza internazionale per raro ceppo di ebola. Burioni: \"E' un virus pericolosissimo\"&nbsp;&nbsp;RaiNewsEbola, l’Oms dichiara l’emergenza sanitaria internazionale: “Ceppo raro e senza vaccino in RD Congo e Uganda”&nbsp;&nbsp;Il Fatto QuotidianoTutto quello che c'è da sapere sulla nuova epidemia di Ebola&nbsp;&nbsp;AvvenireEbola in Congo, allarme Oms: emergenza sanitaria&nbsp;&nbsp;Il Sole 24 OREEbola può arrivare in Europa (e nel mondo)?&nbsp;&nbsp;Corriere della Sera",
+      "id": "a6cb57958078",
+      "title": "Dal Texas al Messico, esplode il focolaio di morbillo: oltre 17 mila contagi e 40 morti - AGI",
+      "published": "2026-05-18T01:51:00+00:00",
+      "summary": "Dal Texas al Messico, esplode il focolaio di morbillo: oltre 17 mila contagi e 40 morti&nbsp;&nbsp;AGIMorbillo, focolaio in Messico e Texas: 17mila contagi e 40 morti&nbsp;&nbsp;Sky TG24Morbillo in Europa: oltre 6.000 casi nel 2025-2026, Italia tra i Paesi più colpiti&nbsp;&nbsp;sanitainformazione.it",
+      "sources": [
+        {
+          "name": "AGI",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGdicDMxSG5FTzZoUGZuZ3pMem1WVFdnUFhGTnlVcXpldXJwcGRVS0ZNSjRPNEEyNFlMMEFjZmdvNW10eVdDX1VOZkNjRllITkFyd1pKQVh0QmRRZEQxSl9ac2xRcHJDRFo2dDZ5blNZNHh6clkyTFVOOXY0NUpocnd6X2ZEOHk5czhZ?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "71e443d29919",
+      "title": "Studio, fluttuazioni colesterolo aumentano rischio mortalità, infarto e ictus - Il Tirreno",
+      "published": "2026-05-18T11:20:00+00:00",
+      "summary": "Studio, fluttuazioni colesterolo aumentano rischio mortalità, infarto e ictus&nbsp;&nbsp;Il TirrenoVisualizza altri titoli e punti di vista su Google News",
+      "sources": [
+        {
+          "name": "Il Tirreno",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYklKeW5SdG5ZVElzOEh2TkMtMzhOQkx3MUVpemFyenlXMkpZcVpPRnN4b0ZYekQ3U0RSYXFRY0VmSUg4Vlk0UVJjZC1GenhvYXQzX3k5RmI2ZmRieDZ1dXp2WG1zejVEcGNUOEVYakdjQ1NLMlpxeHpHWXlibGNZMGt4YmtTRTFESmlfX3A5VnlKOGFNa1RDVU5ROEt4b2tsdlpzYXd4eWRFSVdNSW40VS1WZmlSTEhGTzJvNndxUXI1ZEs1c0o4MEFXbEg3ZklUMzNtbXBKd1pCYTJwR1FMaA?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "7dd138adf536",
+      "title": "Ipertensione, Iss: un problema per quasi la metà degli italiani - RaiNews",
+      "published": "2026-05-18T09:03:00+00:00",
+      "summary": "Ipertensione, Iss: un problema per quasi la metà degli italiani&nbsp;&nbsp;RaiNewsIpertensione. Iss: “In Italia il 37% degli uomini e il 23% delle donne ha la pressione arteriosa elevata”&nbsp;&nbsp;Quotidiano SanitàPressione alta, troppi italiani non sanno di avere valori a rischio&nbsp;&nbsp;sanitainformazione.itIpertensione arteriosa: misurarla con costanza per impedirle di far danno&nbsp;&nbsp;Policlinico Universitario Agostino Gemelli IRCCSGiornata mondiale dell'ipertensione, rinviato lo sc",
       "sources": [
         {
           "name": "RaiNews",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2tOUjY3ZEZEb1ExT01oUl91eFVFaVR1WWhqeVJxakNXQ3dKUlE4M1dnX1dIX0FjNDZIaGFtZVNIa1ZTMjNqZmM0Sl9Id0Z2YXdwV2VwZm9YMW5IcjZKRGJhYW1nS1BSLVFtSEh3SndPZ0JoUW0wX3lycUk0SnRRbmwwdTl5S2s3cXJmV2JCTlRfdnM4SXAwVDliRXhvS1NLSHJ2NVhMaTg2RnhQWW5SRVdPc0JtcmR5ZzM4X25Dc9IBxAFBVV95cUxQM1prLU1PRk5GdEU4bm43aWh6WTJmTjd4SXMwZTl3MzcyUUFpT2tZbkVaelNYVU9YUFljeXVyNG5rNFdjTFJlZlhLWE5veDVUMUtkLVFjUURBd3N0ZUh0ZmxpS19hMzRIa1o2bmlYZnUzcllKTWE3VWVpZlFldGJVbWxMU1VkRnRfVjc4Z1c3eFN2UnBSMzhOdlJXbTZ6bVhMSXpPZkhjSHREcGM2dGZVQ0lvb29GZXpIZjQtc2doZU5ldmE0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5"
         }
       ],
       "feed_source": "google_it"
     },
     {
-      "id": "cb6edaade78b",
-      "title": "Parkinson, possibile legame con le alterazioni del microbiota intestinale | Lo studio finanziato dalla Michael J. Fox Foundation - tgcom24.mediaset.it",
-      "published": "2026-05-17T08:19:15+00:00",
-      "summary": "Parkinson, possibile legame con le alterazioni del microbiota intestinale | Lo studio finanziato dalla Michael J. Fox Foundation&nbsp;&nbsp;tgcom24.mediaset.itLa lotta al Parkinson. Asse Reggio-Hollywood, svolta nella diagnosi&nbsp;&nbsp;Il Resto del CarlinoProgetto sul microbiota intestinale dell'Azienda Asl di Reggio Emilia finanziata dalla fondazione dell'attore americano Michael J. Fox&nbsp;&nbsp;Sul Panaro news",
+      "id": "0da027ec1da2",
+      "title": "Hantavirus e rimozione del rischio pandemico in Italia - Quotidiano Sanità",
+      "published": "2026-05-18T06:58:24+00:00",
+      "summary": "Hantavirus e rimozione del rischio pandemico in Italia&nbsp;&nbsp;Quotidiano SanitàHantavirus e Norovirus, Sambri: \"Il virus delle crociere non deve spaventare: il contagio è molto limitato\"&nbsp;&nbsp;RiminiTodayHantavirus, l'allarme dei medici ospedalieri: \"Il sistema non reggerebbe oggi una nuova pandemia\"&nbsp;&nbsp;RaiNewsHantavirus, niente allarme tra gli italiani: oltre il 55% non teme il contagio. Il sondaggio&nbsp;&nbsp;AffaritalianiRischio pandemico: ancora una volta l’epidemiologia la",
       "sources": [
         {
-          "name": "tgcom24.mediaset.it",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0xIUTVab3lTaWJOSUY5VUI5WHU4V1BONVh0Vmk1NmRvQ2ZkNnZVUTMzYUFyem5hYTFVaDQxV1dBQ09qMjgwdy1RZWVfVTJhUlJjajVsS0NKWHpUQzdkT3VRTFJnWVBnOF9PSTg3b05zLV93RTk3U2JYYzU1RER6dUtCU05lQXhtejF0QmNsaWR0RmRlTF9WeFFoUdIBaEFVX3lxTFBQZzBYV2FVcEJUNU9HTXUyWDZIOTNJcjc0Yks3dDJzQzdxNlRRbkZWRllzdGdwdXhmZEk4Sy1BZlBaQldOSnBpbjRGTVlnWG45dTdpTU5XUzBDWkhULTZ5NnZOZXFoNGI4?oc=5"
+          "name": "Quotidiano Sanità",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN19IbmdtbVZjVGk2UmVzeEpSVTU5S0tKd3dtQlFQdGFrNnRsV1IxMnVvN1htRjl0eE1kZ3lBZ2dONHRTN2xsdXV4cW45Z003RGlZRVZWRldoMDFId0QxaU9LN2FFelR2Y085ZlVzaUw0TGtnMk9jRm5LMzc3Um9SNnRsTlByM3JTSjYyNnVNZnZrRTRCemhHTVpGaUtja1I2MzltVlMtYVBVMjJl?oc=5"
         }
       ],
       "feed_source": "google_it"
     },
     {
-      "id": "af34b5d996bd",
-      "title": "Osteoporosi, le donne che ne soffrono hanno il 50% di probabilità in più di morire prematuramente: come prevenire la patologia - Il Messaggero",
-      "published": "2026-05-17T05:41:47+00:00",
-      "summary": "Osteoporosi, le donne che ne soffrono hanno il 50% di probabilità in più di morire prematuramente: come prevenire la patologia&nbsp;&nbsp;Il MessaggeroCome prevenire l’osteoporosi&nbsp;&nbsp;Tv2000",
+      "id": "993b2f8d0e90",
+      "title": "Un caso di Dengue a Parma: avviata la disinfestazione in piazza Don Giuseppe Diana - Gazzetta di Parma",
+      "published": "2026-05-18T11:14:00+00:00",
+      "summary": "Un caso di Dengue a Parma: avviata la disinfestazione in piazza Don Giuseppe Diana&nbsp;&nbsp;Gazzetta di ParmaDengue, bambina di 5 anni positiva a Parma: ricoverata in isolamento. Attivati i protocolli di sicurezza&nbsp;&nbsp;Corriere AdriaticoCaso di Dengue a Parma: scatta il piano per evitare il contagio&nbsp;&nbsp;ParmaTodayCaso di virus Dengue al Maggiore: ricoverata una bambina di 5 anni&nbsp;&nbsp;Gazzetta di Parma",
       "sources": [
         {
-          "name": "Il Messaggero",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZVpYNFVDTG4wU1U5VXhtbUQ5T0FzX29DdEZoSFZldWtzb1BSbDlxNFFpbXRldHFtM2R6RGNONnljSC1Xei1oSUhlWnhsX0V2a0ZfVWNZLU56M0JUcTJ1c1hBdXFkeVplVFhjbUwxbTBTS0JPWU0tWW5PLUhjRnlTX1JLa3VzTmt2VExEOWFKd2NIaGZuOWlwRG9jdGR4MDFvdU9RTzB6WHNwZ9IBpwFBVV95cUxNeHUzUVk0YnNzQk1XMV9OVm03MmlFMTF2UzFOVHYwTUx4dlUxUTh5eGhyQUxGbUlUNGhqVGhMb2VlZlkzQmlXMnhtOUp3cHRwaV80dV9LNEhROE9EajVBc3l2WGI2Y0ZibXliTVFsemFzUHJUeEt0Zjg5YVR3ZWJISUNmWTRBSnlMcFpaVkJVVGZUbW5TOF9pSjZpczRTYkpNeHRWdmFmZw?oc=5"
+          "name": "Gazzetta di Parma",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNXzA1VXVzMnIwSkVpSUFadUlBaTFMTlMtVDhRZlAyalNkU05hTHdZWlc5bDdUaGFSUW03Nm1hTTJWY3FWdnNYcUM4d1RjRFNkNGNZZ3doUS0xeGlPNlhiNVpxQlpKWmp6bDRoMDVoUXZWSnhMaFV1alRkY3ZJTnFSNG5URzVIaXdnREt2aWxjOG9ncUJMaDQ4UUFVU3NBNl9iU2JnSlZRNHJnb3JPTTBabXZUZWhHemFrMjBQR3dUTjNRb2ozWF9FbzRxYVFHNXNUbFp2d1drX1JYVVhw?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "77646e7edb77",
+      "title": "Lamezia, al congresso dei fisioterapisti firmato il protocollo nazionale sulle malattie neuromuscolari - il Lametino.it",
+      "published": "2026-05-18T05:01:23+00:00",
+      "summary": "Lamezia, al congresso dei fisioterapisti firmato il protocollo nazionale sulle malattie neuromuscolari&nbsp;&nbsp;il Lametino.itMalattie neuromuscolari, siglato un protocollo tra fisioterapisti e associazioni dei pazienti: \"La riabilitazione è una terapia non farmacologica\"&nbsp;&nbsp;Quotidiano SanitàMalattie neuromuscolari, intesa Fnofi-Consulta Nmd su persone con disabilità,caregiver&nbsp;&nbsp;ANSA",
+      "sources": [
+        {
+          "name": "il Lametino.it",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHJzUUFfejNpRkxmREQ3ckZ3azFrUXdfdEEzVmZqUDh0UnFUV1pPb0k2S3pjeTVoQWRmQkJWdWUzWkdFcG5UTTE2SlpINThtbmwteVlBYndJTnFnWXlfVHcwenFMR0Fic0lVc3FVbTFRX21vRC02TXk5cWsyVlRzSkR6TFB6SDBzYi1wYWRxWFRNV21ScHpwd2NEam1rUEp2RUphcUVXTHl0Y1pUNEJ5OEEtQ3FKNm53X01ieTVIQXhXWnZlUVp6bDl2QXhVc3hvc0tXbA?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "813295c531b9",
+      "title": "Tumore al seno, la rete oncologica bergamasca rafforza il follow up tra ospedali e territorio - L'Eco di Bergamo",
+      "published": "2026-05-18T11:48:45+00:00",
+      "summary": "Tumore al seno, la rete oncologica bergamasca rafforza il follow up tra ospedali e territorio&nbsp;&nbsp;L'Eco di Bergamo",
+      "sources": [
+        {
+          "name": "L'Eco di Bergamo",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1p3T3pCVXg0eC1FeDJET3FhYmlkN0ExTjJLejhmLVlNQnlqdFFaM2RDaUVNbS01MHFBT2NQWG9JZDY1UW5tMW5lSnFUMDRDUEFTVDRqeUpzQTVEbjd3RmJNYUIxTmVKUGFjWTlyRHl0UERMT2xMbHkxaDZCRVRPbExMbzhKbTI1b3FEV0hrcTNNOHFRZU9GMmdmajZnSnB6YURzRXVWaW9fd1BIamRFenU4dXZOY2d0dTVRSmw0Z0Mtc21aa0d5QVJaWEQ1eVRTTUg4MTFsQ2liSTFEZHd0NA?oc=5"
         }
       ],
       "feed_source": "google_it"
@@ -1641,7 +1797,7 @@
       "id": "194b46c73fd4",
       "title": "Hantavirus, paure irreali e veri rischi psicologici - La Provincia di Cremona",
       "published": "2026-05-17T03:10:00+00:00",
-      "summary": "Hantavirus, paure irreali e veri rischi psicologici&nbsp;&nbsp;La Provincia di CremonaHantavirus, il problema non è il virus, ma il sensazionalismo di media e politici e i tagli alla ricerca&nbsp;&nbsp;Valigia BluL’eterno ritorno del virologo televisivo&nbsp;&nbsp;La Provincia di ComoHantavirus, come abbiamo sperperato l’eredità scientifica del CTS&nbsp;&nbsp;insalutenews.itSono tornati i virologi: come i piatti delle feste, sempre pronti&nbsp;&nbsp;Il Fatto Quotidiano",
+      "summary": "Hantavirus, paure irreali e veri rischi psicologici&nbsp;&nbsp;La Provincia di CremonaL’eterno ritorno del virologo televisivo&nbsp;&nbsp;La Provincia di ComoHantavirus, il problema non è il virus, ma il sensazionalismo di media e politici e i tagli alla ricerca&nbsp;&nbsp;Valigia BluHantavirus, come abbiamo sperperato l’eredità scientifica del CTS&nbsp;&nbsp;insalutenews.itParla lo scopritore dell'Hantavirus: \"Vaccino inutile, paura irrazionale\"&nbsp;&nbsp;La Nuova Bussola Quotidiana",
       "sources": [
         {
           "name": "La Provincia di Cremona",
@@ -1664,53 +1820,79 @@
       "feed_source": "google_it"
     },
     {
-      "id": "8432ba1e271d",
-      "title": "Come moriamo a Genova - GenovaToday",
+      "id": "754f0651da0e",
+      "title": "Camminare e fare esercizio allunga la vita, si guadagnano 2 anni senza malattie - Adnkronos",
+      "published": "2026-05-17T22:02:00+00:00",
+      "summary": "Camminare e fare esercizio allunga la vita, si guadagnano 2 anni senza malattie&nbsp;&nbsp;AdnkronosC'è un tempo giusto per fare attività fisica (variando e allungandosi la vita)&nbsp;&nbsp;leccotoday.itSe riesci a fare questo con una sedia, vivrai più a lungo&nbsp;&nbsp;today.itLa forza nella stretta di mano: il segreto della longevità si nasconde nei muscoli&nbsp;&nbsp;MeteoWeb",
+      "sources": [
+        {
+          "name": "Adnkronos",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1p4NmN5OGRzckpxY2VTa3MwY3JZUHNBOHFxblRnajF6SDJnZjljTDQtS2NWcml0akhTdVZjeXdtRE8tYlllTHRpSkNpQkRBRmhmV3hWLXE0MjU1dDBncS1rbHh2aVpNUEkyQ2NfVjd1a2NMQ0U4MXdNd1B0RS1QRTk5Z3ZuajZDNjc4Rk1LUm83OWs?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "af34b5d996bd",
+      "title": "Osteoporosi, le donne che ne soffrono hanno il 50% di probabilità in più di morire prematuramente: come prevenire la patologia - Il Messaggero",
+      "published": "2026-05-17T05:41:47+00:00",
+      "summary": "Osteoporosi, le donne che ne soffrono hanno il 50% di probabilità in più di morire prematuramente: come prevenire la patologia&nbsp;&nbsp;Il MessaggeroCome prevenire l’osteoporosi&nbsp;&nbsp;Tv2000",
+      "sources": [
+        {
+          "name": "Il Messaggero",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZVpYNFVDTG4wU1U5VXhtbUQ5T0FzX29DdEZoSFZldWtzb1BSbDlxNFFpbXRldHFtM2R6RGNONnljSC1Xei1oSUhlWnhsX0V2a0ZfVWNZLU56M0JUcTJ1c1hBdXFkeVplVFhjbUwxbTBTS0JPWU0tWW5PLUhjRnlTX1JLa3VzTmt2VExEOWFKd2NIaGZuOWlwRG9jdGR4MDFvdU9RTzB6WHNwZ9IBpwFBVV95cUxNeHUzUVk0YnNzQk1XMV9OVm03MmlFMTF2UzFOVHYwTUx4dlUxUTh5eGhyQUxGbUlUNGhqVGhMb2VlZlkzQmlXMnhtOUp3cHRwaV80dV9LNEhROE9EajVBc3l2WGI2Y0ZibXliTVFsemFzUHJUeEt0Zjg5YVR3ZWJISUNmWTRBSnlMcFpaVkJVVGZUbW5TOF9pSjZpczRTYkpNeHRWdmFmZw?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "3f11233a3715",
+      "title": "“Ho tre amici guariti dal cancro”. Lo show di Mel Gibson fa raddoppiare la vendita di ivermectina - la Repubblica",
+      "published": "2026-05-17T09:14:13+00:00",
+      "summary": "“Ho tre amici guariti dal cancro”. Lo show di Mel Gibson fa raddoppiare la vendita di ivermectina&nbsp;&nbsp;la Repubblica",
+      "sources": [
+        {
+          "name": "la Repubblica",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU21hNDZublpNcW1kVHRySjFOLVhPYTRXN1ZfRmdqb29JSFRoc1ZPOVcxeUtXdU5YSmpVTnVaY0JTTDF4V0traE5YSFd0amhaMXZiWWE2WjM1UEtadHhLbDBMWVJheVBaYVdjcDFGNktyNE1WbjNYNTZFU3dPUTExSk40cmFOZXBRcS02ZDJBRVVRTUQzMnhKNXRxbm1JV0F6a3A2Qmpn0gGrAUFVX3lxTE5KWmF3ay10YjRPZ0J0THZ6QWxiX093cWlGakhWQy10T2lTTUg3dHp1S0l2SXVhX3pHY2M5Q1ozNVhRbkxvVnFsNDk2MW4wT053d3NLRzNWMHV4Y1kzMGpWejVPamo5bW9oYWFmVzZvSzlHX1pmcGxqeWNuSnYwbW9qUjNXNUxoNHN4Y0V2UHgzcGZnSHZqTmxldzZCU05uanRGd1FGaHhQRXVHSQ?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "cb6edaade78b",
+      "title": "Parkinson, possibile legame con le alterazioni del microbiota intestinale | Lo studio finanziato dalla Michael J. Fox Foundation - tgcom24.mediaset.it",
+      "published": "2026-05-17T08:19:15+00:00",
+      "summary": "Parkinson, possibile legame con le alterazioni del microbiota intestinale | Lo studio finanziato dalla Michael J. Fox Foundation&nbsp;&nbsp;tgcom24.mediaset.itParkinson, la scoperta sensazionale sul microbioma finanziata dalla fondazione Michael J. Fox: può prevedere la malattia&nbsp;&nbsp;Il Resto del CarlinoLa lotta al Parkinson. Asse Reggio-Hollywood, svolta nella diagnosi&nbsp;&nbsp;Il Resto del Carlino",
+      "sources": [
+        {
+          "name": "tgcom24.mediaset.it",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0xIUTVab3lTaWJOSUY5VUI5WHU4V1BONVh0Vmk1NmRvQ2ZkNnZVUTMzYUFyem5hYTFVaDQxV1dBQ09qMjgwdy1RZWVfVTJhUlJjajVsS0NKWHpUQzdkT3VRTFJnWVBnOF9PSTg3b05zLV93RTk3U2JYYzU1RER6dUtCU05lQXhtejF0QmNsaWR0RmRlTF9WeFFoUdIBaEFVX3lxTFBQZzBYV2FVcEJUNU9HTXUyWDZIOTNJcjc0Yks3dDJzQzdxNlRRbkZWRllzdGdwdXhmZEk4Sy1BZlBaQldOSnBpbjRGTVlnWG45dTdpTU5XUzBDWkhULTZ5NnZOZXFoNGI4?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "8f8cbf967c5f",
+      "title": "Servono i freezer, la Salute non ha spazi per i vaccini - Domani",
+      "published": "2026-05-18T05:00:00+00:00",
+      "summary": "Servono i freezer, la Salute non ha spazi per i vaccini&nbsp;&nbsp;Domani",
+      "sources": [
+        {
+          "name": "Domani",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWklRVmtWOWlKUDZ4TklLTkpUMW82NG5xbUxfVWg0aVJNRjRkSWlVRGhLejZlX0NhcE1XeGtBMkk2MUd3b01JVjdCSURUQ1prZkY3alk5Q1JOeU1DYmhDamVTM3o1NHhsbEU5dmpRMkxPbmRYbmt5Q1dydEhzNW5PMUoxRy1sVG5UM1AwcS1HVnlheEIwMXpqLWpCLUZ5MVYwaTdRdnhSYml0bzJvcG1UTGJET2pHT216a2J6bVU1YnhYdw?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "0f56f8181b01",
+      "title": "Come moriamo a Genova - genovatoday.it",
       "published": "2026-05-17T23:37:00+00:00",
-      "summary": "Come moriamo a Genova&nbsp;&nbsp;GenovaToday",
+      "summary": "Come moriamo a Genova&nbsp;&nbsp;genovatoday.it",
       "sources": [
         {
-          "name": "GenovaToday",
+          "name": "genovatoday.it",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FTkR1R0JZWjM3SkVQelkwbGp6UWdIS2xGSDBsM2I0a3hrY3VMLWgxQ1kxX0haa1FhWGs3dWxobVRVVk5tT1huVHdxV2ZPeDZxR0VKazE0M1oxNGNSRUhDUVFoMXhfUjVaeGF5ZkNJYWVvY2RLWGs5NDRaZ1Nldw?oc=5"
-        }
-      ],
-      "feed_source": "google_it"
-    },
-    {
-      "id": "599651eaa95a",
-      "title": "«Save your skin», a Borgo Trento visite gratuite per la prevenzione del melanoma - L'Arena",
-      "published": "2026-05-16T11:06:57+00:00",
-      "summary": "«Save your skin», a Borgo Trento visite gratuite per la prevenzione del melanoma&nbsp;&nbsp;L'ArenaTumori cutanei, visite gratuite a Termoli e Campobasso&nbsp;&nbsp;ANSAMelanoma. Prosegue la campagna “Save Your Skin”, a maggio consulti gratuiti per il controllo dei nevi nelle principali città italiane&nbsp;&nbsp;Quotidiano SanitàCampagna nazionale tumori cutanei, il 22 maggio visite dermatologiche gratuite a Firenze&nbsp;&nbsp;La NazioneMelanoma Day in Parlamento: Ignazio Stanganelli porta l’esp",
-      "sources": [
-        {
-          "name": "L'Arena",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlJTVjdWcDBnbDdMYzAwWDluN3Y5S3NUTXNRYnZnaGNaWUdiQUhyU0d5akk0MEtSUnhvWWJscDN4REZVRmI1UjJ2VktYaFV1SEowQWl3T1Z6bXU3cFdZcjZIM29KWi1oWWljS1Btbm11WEZ0em1RSnVnYTBPWUN1V3BvZjMxSFdxemY2UVF0SWt0MTFFZWcwR3VDMmFFZE94Z0c2Rjl3c3NCY2czV09rTjlvanRzcW1BMW1IMjVoTG5ydEplbGI1VTFiTTdhZlR4VG1jUtIB2gFBVV95cUxPU1dnYTVYUTRTenVoZDlWUzZtTFRZQTVoWkczRVd2V3c3c2VEYl9pUkNWY3ZxUGI4cVhQVloxdElpdjhqUkgyVlBFSDVRYk1kRFhRUnlaRnEzYktPRzViVE5Lc0hOUkhTaWFza25tVXJYczhqUUJ4aVRKR09TNXc5NzRJaVYzaERzcnlYOUtGdWYtaEh1bnVlWmVQQUNpUGUzbTk5Z2RHTXpTRjY3bG14R1J2alpoOXQzWTQxRG96M1NMaHBvMzdOb2ZheEJZMTluMWt3eUo3alAwQQ?oc=5"
-        }
-      ],
-      "feed_source": "google_it"
-    },
-    {
-      "id": "a6cb57958078",
-      "title": "Dal Texas al Messico, esplode il focolaio di morbillo: oltre 17 mila contagi e 40 morti - AGI",
-      "published": "2026-05-18T01:51:00+00:00",
-      "summary": "Dal Texas al Messico, esplode il focolaio di morbillo: oltre 17 mila contagi e 40 morti&nbsp;&nbsp;AGI",
-      "sources": [
-        {
-          "name": "AGI",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGdicDMxSG5FTzZoUGZuZ3pMem1WVFdnUFhGTnlVcXpldXJwcGRVS0ZNSjRPNEEyNFlMMEFjZmdvNW10eVdDX1VOZkNjRllITkFyd1pKQVh0QmRRZEQxSl9ac2xRcHJDRFo2dDZ5blNZNHh6clkyTFVOOXY0NUpocnd6X2ZEOHk5czhZ?oc=5"
-        }
-      ],
-      "feed_source": "google_it"
-    },
-    {
-      "id": "36b01017c85d",
-      "title": "Caso di virus Dengue al Maggiore: ricoverata una bambina di 5 anni - Gazzetta di Parma",
-      "published": "2026-05-17T13:50:00+00:00",
-      "summary": "Caso di virus Dengue al Maggiore: ricoverata una bambina di 5 anni&nbsp;&nbsp;Gazzetta di ParmaDengue, bambina di 5 anni positiva a Parma: ricoverata in isolamento. Attivati i protocolli di sicurezza&nbsp;&nbsp;Corriere Adriatico",
-      "sources": [
-        {
-          "name": "Gazzetta di Parma",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXlKU2g0V01GTks3aGN6R0t2djcxQzhfV2doMTdvS3dRSWNpbThTNEw2cVhUeW8yR29JcEdqS2NtU2F2b2Q0ZHNRZnRPVkdxSTN5UlpPS2lsTXNyZGlPWUVqdUpXSkJWeUQ2aFd6QnpuVEI2YmJjVWw3V0E1RnRNaWk2c2lfMEZuNXJIOVRWUHcxSkEzcER2TUhScFAyVGZnb19VU1BWY3pleTZ1Z0daeUxfLTI2Q3c0dWRxQXQ1MHVZd0lKc2J5aW9QRXUzWk5paEpN?oc=5"
         }
       ],
       "feed_source": "google_it"
@@ -1731,7 +1913,7 @@
     {
       "id": "c76c207c804c",
       "title": "«I polmoni si rigenerano quando si smette di fumare, ma l'età è un fattore determinante»: il parere dell'esperta - Il Messaggero",
-      "published": "2026-05-18T08:58:40+00:00",
+      "published": "2026-05-17T07:00:00+00:00",
       "summary": "«I polmoni si rigenerano quando si smette di fumare, ma l'età è un fattore determinante»: il parere dell'esperta&nbsp;&nbsp;Il Messaggero",
       "sources": [
         {
@@ -1755,19 +1937,6 @@
       "feed_source": "google_it"
     },
     {
-      "id": "597b46780e32",
-      "title": "Pane a fette, la classifica di Altroconsumo: sorprese in vetta (anche del discount). Top e flop suddivisi per tipologia - Il Gazzettino",
-      "published": "2026-05-16T15:25:03+00:00",
-      "summary": "Pane a fette, la classifica di Altroconsumo: sorprese in vetta (anche del discount). Top e flop suddivisi per tipologia&nbsp;&nbsp;Il GazzettinoVisualizza altri titoli e punti di vista su Google News",
-      "sources": [
-        {
-          "name": "Il Gazzettino",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnNBMDlvQ1lsNkR5eFpnNjVHejhlZmJSbjVhNmN5VXI1RWdTb0lCMjRrWmRUM1E0STVCMTU1N3RCQzIta2tBM2NtdkZJMU1ycllmYmpkRXVLYnFDTjQ5VEw2dlJiWXpKQXZUc19OM083LWUtdTg1Z0dTeWJnQ2x5cmRnRUNWa1ZOd1BGdURxRmFmOURFbWhVRnM2aUphaUc2RElqUXBiR0U4d9IBrwFBVV95cUxPTjV4RC1rMktzVkpFZkVPQlBuSTFVeS1RdHZpZnA4UVJ6Y3psME1OY3hiVmdSNVIxY3U5bkhIUkl0M1RxZmx1aWRGY0N2SjQxOFZOTDN4ZVJndzhERWItMnlSS0dxYmQ0Rk00XzZwdHRKZThKZzZNOHExek12MGJPRTlLOHpNTEhPOXpkNEdpYmdHejVOcjRuaHZZSS1Fc21MYzRwMTBTZnpYdEpxUXNB?oc=5"
-        }
-      ],
-      "feed_source": "google_it"
-    },
-    {
       "id": "bf1b06e4864a",
       "title": "Carcinoma orale, nemico silenzioso: visite gratuite oggi in piazza Stradivari - Cremonaoggi",
       "published": "2026-05-17T12:20:46+00:00",
@@ -1781,14 +1950,14 @@
       "feed_source": "google_it"
     },
     {
-      "id": "00b46257c577",
-      "title": "Mangiare uova regolarmente riduce il rischio di Alzheimer? Ecco cosa dice uno studio - Sky TG24",
-      "published": "2026-05-16T09:48:53+00:00",
-      "summary": "Mangiare uova regolarmente riduce il rischio di Alzheimer? Ecco cosa dice uno studio&nbsp;&nbsp;Sky TG24Le uova proteggono il cervello, quante bisogna mangiarne per ridurre il rischio Alzheimer&nbsp;&nbsp;AdnkronosUova e Alzheimer: perché mangiarne 5 a settimana è il nuovo scudo per la memoria (nonostante il colesterolo)&nbsp;&nbsp;My-personaltrainerAlzheimer e alimentazione, uno studio rivaluta le uova per la salute del cervello · LaC News24&nbsp;&nbsp;LaC News24Uova proteggono il cervello, lo ",
+      "id": "597b46780e32",
+      "title": "Pane a fette, la classifica di Altroconsumo: sorprese in vetta (anche del discount). Top e flop suddivisi per tipologia - Il Gazzettino",
+      "published": "2026-05-16T15:25:03+00:00",
+      "summary": "Pane a fette, la classifica di Altroconsumo: sorprese in vetta (anche del discount). Top e flop suddivisi per tipologia&nbsp;&nbsp;Il GazzettinoPane a fette confezionato, la classifica Altroconsumo: chi convince e chi delude tra bianco, integrale, segale e proteico&nbsp;&nbsp;Il Fatto QuotidianoQual è il miglior pane a fette confezionato secondo il test di Altroconsumo&nbsp;&nbsp;CookistPane a fette, la top 10 dei prodotti migliori secondo Altroconsumo. La classifica&nbsp;&nbsp;Sky TG24",
       "sources": [
         {
-          "name": "Sky TG24",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMTJhUmNiRUMyOUt5ZVozSWU3R1A4QXNtLTROV1JpdXRTVEw1U2ZKcUlxRHJ1LTcxZUl5cmo2NDdtZnRGbWFHbUN3Q3FraWY2RFVvOXJhaDZlRm5PZlA2TndSaDUzYkdTTEd3NkVhdTh3SGw0dGJESkNiZHNXX0YwTU9XeXFmQ1RYVlk0SUpwbFVSYm8taVE1STN6TQ?oc=5"
+          "name": "Il Gazzettino",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnNBMDlvQ1lsNkR5eFpnNjVHejhlZmJSbjVhNmN5VXI1RWdTb0lCMjRrWmRUM1E0STVCMTU1N3RCQzIta2tBM2NtdkZJMU1ycllmYmpkRXVLYnFDTjQ5VEw2dlJiWXpKQXZUc19OM083LWUtdTg1Z0dTeWJnQ2x5cmRnRUNWa1ZOd1BGdURxRmFmOURFbWhVRnM2aUphaUc2RElqUXBiR0U4d9IBrwFBVV95cUxPTjV4RC1rMktzVkpFZkVPQlBuSTFVeS1RdHZpZnA4UVJ6Y3psME1OY3hiVmdSNVIxY3U5bkhIUkl0M1RxZmx1aWRGY0N2SjQxOFZOTDN4ZVJndzhERWItMnlSS0dxYmQ0Rk00XzZwdHRKZThKZzZNOHExek12MGJPRTlLOHpNTEhPOXpkNEdpYmdHejVOcjRuaHZZSS1Fc21MYzRwMTBTZnpYdEpxUXNB?oc=5"
         }
       ],
       "feed_source": "google_it"
@@ -1797,7 +1966,7 @@
       "id": "782df5f0892c",
       "title": "Blog | Oltre l'Hantavirus: cinque buoni motivi per evitare le navi da crociera - Il Fatto Quotidiano",
       "published": "2026-05-17T05:16:41+00:00",
-      "summary": "Blog | Oltre l'Hantavirus: cinque buoni motivi per evitare le navi da crociera&nbsp;&nbsp;Il Fatto QuotidianoFocolaio di norovirus in crociera: 1.700 persone isolate a bordo&nbsp;&nbsp;Il Fatto AlimentareGastroenterite virale a bordo: revocato parzialmente il divieto di sbarco per 1.700 passeggeri a Bordeaux&nbsp;&nbsp;Il Sole 24 OREAnche ai virus piacciono le crociere - Vikram Niranjan&nbsp;&nbsp;InternazionaleNave crociera con 30 casi di norovirus arriva al porto di La Coruna in Spagna&nbsp;&n",
+      "summary": "Blog | Oltre l'Hantavirus: cinque buoni motivi per evitare le navi da crociera&nbsp;&nbsp;Il Fatto QuotidianoFocolaio di norovirus in crociera: 1.700 persone isolate a bordo&nbsp;&nbsp;Il Fatto AlimentareGastroenterite virale a bordo: revocato parzialmente il divieto di sbarco per 1.700 passeggeri a Bordeaux&nbsp;&nbsp;Il Sole 24 OREAnche ai virus piacciono le crociere - Vikram Niranjan&nbsp;&nbsp;InternazionaleChe cos'è il Norovirus e perché ha colpito in crociera?&nbsp;&nbsp;Corriere del Ticin",
       "sources": [
         {
           "name": "Il Fatto Quotidiano",
@@ -1828,6 +1997,19 @@
         {
           "name": "Il Fatto Quotidiano",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQ2FTOTFpcVBEcERsV0htLUxzbHB3a1RWbEQwMW00Yk5iaW1ERmx1ekJvaVJsanhCYml6ZTJKczBmaks3UUxmM01hamRublRCVm85ZV9KMFNzLXdtNUZYNUpNZzY5Nmg1T3pQVThTTmkxc1ZEaHJCMFItYVl5cHdEZFZqT1dCTEFSMi15UzhjLTBJcnhIMkRSMmYwcGpNc2V6NnZCX253eUJMTkJTZm5yNE0ycThRMFN4VzRfSnZSMWs3aGJ2TF9ZVGtXUTl4aWJyMjdoYkV1RTU4cEN1OHNCSFdOSzEyamRYQk1ZVTRoMmhGeG5BdkkwdW9JYlR4Rmk5al9aaXFrR09kLWVBaTZoQlpBRFpOc0R4ZUpoQlJ2b0c5TTJUZGxJOGdLZVFqTTlfRl92c21QanhfeGFXZk1EMkFrV1JpVFRsUHNkdjJFWGtIbFllSEE?oc=5"
+        }
+      ],
+      "feed_source": "google_it"
+    },
+    {
+      "id": "767471478e26",
+      "title": "Pelle e occhi da proteggere per l’estate: i consigli di Mattutini e Poloni, specialisti di Villa dei Pini - Cronache Maceratesi",
+      "published": "2026-05-18T10:37:51+00:00",
+      "summary": "Pelle e occhi da proteggere per l’estate: i consigli di Mattutini e Poloni, specialisti di Villa dei Pini&nbsp;&nbsp;Cronache MaceratesiPelle fragile? Ecco quanto tempo si può stare al sole. Come idratarla e scegliere gli integratori giusti: i consigli del dermatologo&nbsp;&nbsp;Il MessaggeroMilazzo, il dermatologo Andrea Ingegneri: «pelle vulnerabile con l’arrivo dell’estate». Ecco cosa fare&nbsp;&nbsp;Oggi Milazzo",
+      "sources": [
+        {
+          "name": "Cronache Maceratesi",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQi1uWnB6Nl85SFFxTmxmdlU3VUhCMHZFZ0JJaDVPSDFJc3pqWE15RnB1LTRqRXNWM2ppaEVkZlFjWUFRVjNKLUZTRnRuekU3TTI5WC13cVI5VU40dGNYM0FIVVBRX1ZqUHZNRU9nVGRjRmlHSUxzUG9aMDZYNVZqYV80cFA5RkhMV3d6eE80aVgwbzZOY2NkNmd1WWItSXZsLUs5RGM4Y3FrRFBSdDMyZmF1V1dad2l4Ry1IZHQ2cHE5STNzc0NiMFRGQkpxYTJYZ0xFWnRlZ0xOWjhma0lGdjAwYTdob0RpY1E?oc=5"
         }
       ],
       "feed_source": "google_it"
@@ -1872,53 +2054,14 @@
       "feed_source": "google_it"
     },
     {
-      "id": "3404a5a4a7bb",
-      "title": "Il robot che fa le ecografie. Il prof Zamboni e il suo staff: “L’intelligenza artificiale al servizio della medicina” - Il Resto del Carlino",
-      "published": "2026-05-16T09:30:09+00:00",
-      "summary": "Il robot che fa le ecografie. Il prof Zamboni e il suo staff: “L’intelligenza artificiale al servizio della medicina”&nbsp;&nbsp;Il Resto del CarlinoMammografie più precise grazie l'intelligenza artificiale&nbsp;&nbsp;RomaTodayL'IA in corsia, il referto in tempo reale&nbsp;&nbsp;Il Messaggero",
-      "sources": [
-        {
-          "name": "Il Resto del Carlino",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2ZxZnA1VDdMUlJNTkMtUFZ3TGN4LWZCRHROMWFSU1dMb1V6c0VJU0wzQnZKTkhVSjVkb2VEQmo5bjRzY3FzVzhqS2JiX09jSUJaM3RDUXR3TnFVaFZ3SXZTTFRuUzRRQ2tEWU5WYXk2VnpWam9TeVhENkppTS1vU1lwcnd1TkNNdDg1R3Vmd25fQjhRSW84R0Z5TUdOb1E?oc=5"
-        }
-      ],
-      "feed_source": "google_it"
-    },
-    {
-      "id": "624e127d1728",
-      "title": "Freddo contro i chili di troppo, uno studio accende il dibattito: \"Può aiutare a bruciare grassi\" - tgcom24.mediaset.it",
-      "published": "2026-05-16T09:54:54+00:00",
-      "summary": "Freddo contro i chili di troppo, uno studio accende il dibattito: \"Può aiutare a bruciare grassi\"&nbsp;&nbsp;tgcom24.mediaset.itLa doccia fredda fa dimagrire? La nuova ipotesi e lo studio&nbsp;&nbsp;Adnkronos",
-      "sources": [
-        {
-          "name": "tgcom24.mediaset.it",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVVQekVjdW5xN20ybUlkSC1KeDFEdldnNG5JUnh2bzBERUozUHJ6THBBTm10b0lBQWo5YTFDZjRWRWNUNUNVT3ZFZlh2RWZVcnM3dll5b2k5M3VoLXdZODU4QjhhS0xGYUpMNTFBZ3RUdWNBcTdFMnFjRERySHd5NC1XVV9nMmlMZzdhck12cGZQMTdWVGfSAWhBVV95cUxQaWxLNk54RWdzckRxSlRFX2EwckVaMGVWcVlLc2psVWVmUDN5MnVPdTBtNElhdWlMQ05Od1FRN0dJaGhudkFYYmc3UXhfUTk3NXdyME0wTFFmeC0wU3JPSGM0MzcwNXRvQQ?oc=5"
-        }
-      ],
-      "feed_source": "google_it"
-    },
-    {
       "id": "5092c58cff9c",
       "title": "Schettini: “Zanzare e prurito insopportabile? Per tenerle lontane basta una pianta, è una questione di fisica\" - Ascuolaoggi",
-      "published": "2026-05-17T14:17:53+00:00",
+      "published": "2026-05-16T15:46:23+00:00",
       "summary": "Schettini: “Zanzare e prurito insopportabile? Per tenerle lontane basta una pianta, è una questione di fisica\"&nbsp;&nbsp;Ascuolaoggi",
       "sources": [
         {
           "name": "Ascuolaoggi",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNlloT3F0VW1Bei1YdGtfWGJkdlhGQktwQUx3MDZYX3B1RE9mOXdCRlNwTFJWc2h5WGtKdEJqcDR2Z0ZQOWQyU05iMXdoR2tUcGhDcEQ1UjlDamwwVVJBLThfZW01WXdXTWNob0EtXzg2d3pTNzRZcDlwLUJ3T0J0aDk4LVZKSEpiZTRTemttRjBuYmZPZUc4bDNkTkpVaHlOMzJFbEEtRVoway1NcEx6LW9CSWoxX3dzQ3I3M1VVNkt3NXUwemdfbGF1NWVTUQ?oc=5"
-        }
-      ],
-      "feed_source": "google_it"
-    },
-    {
-      "id": "bc5ff594428b",
-      "title": "Cinque giorni eccezionali per la medicina, la macchina dei trapianti che batte il tempo: «Empatia oltre la tecnica - Messaggero Veneto",
-      "published": "2026-05-17T07:00:00+00:00",
-      "summary": "Cinque giorni eccezionali per la medicina, la macchina dei trapianti che batte il tempo: «Empatia oltre la tecnica&nbsp;&nbsp;Messaggero VenetoVeneto, primi quattro mesi del 2026: mai così tanti trapianti d’organo&nbsp;&nbsp;Gente Veneta",
-      "sources": [
-        {
-          "name": "Messaggero Veneto",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODg2RXdnd2dOaV9Yd0NNci12T1NYXzdkckhTOXVPb1hqdktxd0FYeHpLOUR4Y3RIektJM3RKanQwWl9DRXg3b05nOV9wUDBvV0tWT0twdjVtV2R6WlJGalFuV2xJUDlaMllBTmx3MkgybGx5Rmc2eVhxejlLdjNGb3p1ZTRONG44SWljaTNYUFc0OUdueHF5Qi1BUHRxV0RyWW4yMm5pYzlDSWhubW1RTlYyQkhiVlIyYjdyUWtB?oc=5"
         }
       ],
       "feed_source": "google_it"

@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Depressionen: Personalisierte Therapie schlägt Standardversorgung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWM2Y0dDaDlqN0V3X3M1X2FVSGJKamhZcVVDcGdQRmlwd1FnZ0tadmFTb3pqbGNnc1NOdllJdndyZzNDa08xd3R1TFhnT2EyUzJuUm0xRlZaUFl1UkU4aVlyX1ZONC04Z01NT2k0Z1lnYVlLOWJLN2hzTTRLTXRoWnA2Ti1vakxJVk8wMjhOUC1SM1Z6dndLZk1kNE9EXzVYa2psNTJkYWZTQnlPY25NUEdB?oc=5)
 
@@ -75,22 +75,6 @@ permalink: /news/agomelatine/
 2026-05-17 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
 
 來源：[La Provence](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMG5XQi0tMV90bmxJOThfU0xKLVUxU2JNQm5nWEhPa2JpNG80QlVydTRzb01FbkpTbUhYSjJVWlhvR0I0c0dpemZfWXBLUlJZRllxcnUyN011LUpYVXZyeTcyZ09HZW9fN0tRQ2NoeEhFU0ZyTWVhOU5PVmVTMEtVZW83R2Z0MnJmOGJSdUZDRWxkRmRKYWpfMzI5SnNkUkx3RjAwcG5CbUo5TmJGcm1rcG1GYTBwcjlzM0xCanNpTF90Y2puMGUwRnRuRXhnYUxqQ1doR0RsZkU5dkNnZHFGNC1vTlk5Q0pjR0d5MC16NXQ4eDg0NkhDaVdaUQ?oc=5)
-
----
-
-### [Nicht-invasive Kontaktlinsen per Elektrostimulation gegen Depressionen in Sicht - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
-
-2026-05-16 <span class="news-indication-tag">depression</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHMteDRWV3R1OEVITnlieV9ZSU9TcHU2NHIxaGtMRWk2S3FRclVIUFYxTWdVSHFVZVdCMFVmRHlJSE9mY05HbDNLN2VGMEhvRlc2M1plQVhVUHdtRl9qVU5PbFo1a3VKb096akpVYkc4eDJKUzFPOF9QWF9Gd0JsM3RFN2lMR21iQ25sWWRYM2lPYXFIMkVJazJET0NwZ0dsOEFSNUh2UEdwRXZvZkxJQw?oc=5)
-
----
-
-### [Magdeburg-News: Immunsystem im Gehirn – Studie aus Magdeburg stärkt Idee der Präzisionspsychiatrie - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTFBxV0RjNVo2c3h0ZFRVa1VsMlpZQ2hIZThEeXhVcElROS1hLW9vNXRHNDVLNTZ2OGlRNV91VVVqWVY5dFotRUhVQTlKUlRrSWZkZXpld1dEbjhkeTF2NW4zZzVaNzg5bHV3RGMzYU5WbkY?oc=5)
-
-2026-05-16 <span class="news-indication-tag">depression</span>
-
-來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTFBxV0RjNVo2c3h0ZFRVa1VsMlpZQ2hIZThEeXhVcElROS1hLW9vNXRHNDVLNTZ2OGlRNV91VVVqWVY5dFotRUhVQTlKUlRrSWZkZXpld1dEbjhkeTF2NW4zZzVaNzg5bHV3RGMzYU5WbkY?oc=5)
 
 ---
 

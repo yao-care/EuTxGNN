@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li>heart disease（98.0%）</li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,7 +52,7 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Wearables und digitale Aktivitätsdaten bei entzündlicher Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/icosapent-ethyl/
 2026-05-17 <span class="news-indication-tag">arthrite</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+
+---
+
+### [RSV-Infektion bei Herzerkrankungen: Warum Impfen so wichtig ist - mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1YX3Q5Y1p5U0ZfamJyVXA2eF8tMzdaMXE4ZGpmQXgzd1FnaWRVbVNRNnViMWJsUGV4YnNSVEJUcHRjNERkd1dHTFdleGpZbXU1WmtJRFEydGV1MEpZZmo1RGhMTVhSdjFrVVNPT0E2OGxFa3NrakJVM3dDalR6TENNbF9pUmQzTGlQbDZ4YXN3c1IwbGNz?oc=5)
+
+2026-05-17 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1YX3Q5Y1p5U0ZfamJyVXA2eF8tMzdaMXE4ZGpmQXgzd1FnaWRVbVNRNnViMWJsUGV4YnNSVEJUcHRjNERkd1dHTFdleGpZbXU1WmtJRFEydGV1MEpZZmo1RGhMTVhSdjFrVVNPT0E2OGxFa3NrakJVM3dDalR6TENNbF9pUmQzTGlQbDZ4YXN3c1IwbGNz?oc=5)
 
 ---
 

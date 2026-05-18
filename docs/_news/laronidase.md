@@ -14,7 +14,7 @@ permalink: /news/laronidase/
 ---
 
 <p class="key-answer" data-question="Laronidase 有什麼相關新聞？">
-<strong>Laronidase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Laronidase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/laronidase/
 <p><a href="{{ '/drugs/laronidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [RSV-Infektion bei Herzerkrankungen: Warum Impfen so wichtig ist - mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1YX3Q5Y1p5U0ZfamJyVXA2eF8tMzdaMXE4ZGpmQXgzd1FnaWRVbVNRNnViMWJsUGV4YnNSVEJUcHRjNERkd1dHTFdleGpZbXU1WmtJRFEydGV1MEpZZmo1RGhMTVhSdjFrVVNPT0E2OGxFa3NrakJVM3dDalR6TENNbF9pUmQzTGlQbDZ4YXN3c1IwbGNz?oc=5)
+
+2026-05-17 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1YX3Q5Y1p5U0ZfamJyVXA2eF8tMzdaMXE4ZGpmQXgzd1FnaWRVbVNRNnViMWJsUGV4YnNSVEJUcHRjNERkd1dHTFdleGpZbXU1WmtJRFEydGV1MEpZZmo1RGhMTVhSdjFrVVNPT0E2OGxFa3NrakJVM3dDalR6TENNbF9pUmQzTGlQbDZ4YXN3c1IwbGNz?oc=5)
+
+---
 
 
 <div class="disclaimer">

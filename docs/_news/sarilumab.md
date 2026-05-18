@@ -54,11 +54,11 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（4 則）
 
-### [Neuer prognostischer Biomarker für Morbus Crohn - Medizinische Universität Innsbruck](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWw5MUd6RElTRzB1ZF9GS09aTlY1bWtENDA1NzNGdXlaN0tXbHRBYk90LTdsNmRPTlczNEdZVVNDajBMMng4M2ZtckRTeVU2R0IwYnpaVW9jT3dNZ3lUcDhReUZPSWJiQVI3R2JZbEZoX0hDeDFXSU1sdGpHeTZoWXlOWTZRem9pcmtPS2tXMHl4QQ?oc=5)
+### [Morbus Crohn: GPX4-Marker revolutioniert Rückfall-Prognose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTlUYUFlMGllVjdJdDlNRWRldW5DcGtWMjFqV0h2S2FVQzZmYUJiWk1QVTBUelR1eEtrdkZjX0J2NE80V1FraXFtNzBwQzRzaGl5MFBwek9zRktNUVlSaUVzWDFWTXdSWjRkMi1aSV81M1BFZjNuV3JybTVZeDlwcEZkX0U5dF9BaDlUQnFhTUs4UGhzenJaVXAyYk0yZEMtVHZNT3Rjc1c1dW8?oc=5)
 
 2026-05-18 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[Medizinische Universität Innsbruck](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWw5MUd6RElTRzB1ZF9GS09aTlY1bWtENDA1NzNGdXlaN0tXbHRBYk90LTdsNmRPTlczNEdZVVNDajBMMng4M2ZtckRTeVU2R0IwYnpaVW9jT3dNZ3lUcDhReUZPSWJiQVI3R2JZbEZoX0hDeDFXSU1sdGpHeTZoWXlOWTZRem9pcmtPS2tXMHl4QQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTlUYUFlMGllVjdJdDlNRWRldW5DcGtWMjFqV0h2S2FVQzZmYUJiWk1QVTBUelR1eEtrdkZjX0J2NE80V1FraXFtNzBwQzRzaGl5MFBwek9zRktNUVlSaUVzWDFWTXdSWjRkMi1aSV81M1BFZjNuV3JybTVZeDlwcEZkX0U5dF9BaDlUQnFhTUs4UGhzenJaVXAyYk0yZEMtVHZNT3Rjc1c1dW8?oc=5)
 
 ---
 
