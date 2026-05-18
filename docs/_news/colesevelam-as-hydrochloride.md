@@ -54,6 +54,22 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（4 則）
 
+### [Neue Studie: Diabetes-Blindheit durch Fettmolekül ausgelöst - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
+
+---
+
+### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
+
+---
+
 ### [Typ-1-Diabetes: Aktueller Stand bei den Betazellersatztherapien](https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25iYWZiMEd3NEZoWktsN3AtVVUzZnBJdjBLWVJqZlJvbHJ1WWdpd1ZuZDZPY1Aydk1rLVk0LTN5LWhCcEw1ZEFkeG9NSTZkRFNuS09yS2lXRU1xTk5UTkZzZS12aGY1bTdrQXNoZjJBZGtUZ3FvdFBwdWg2VV9zRkhzMTVHUnZ4bDJES3hnZmRUcWI4czdjck5hdzA?oc=5)
 
 2026-05-18 <span class="news-indication-tag">diabetes</span>
@@ -62,27 +78,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
-
----
-
 ### [Magen-OP kann Diabetes verbessern – auch Darmflora spielt mit - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
 
 2026-05-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
-
----
-
-### [RSV-Infektion bei Herzerkrankungen: Warum Impfen so wichtig ist - mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1YX3Q5Y1p5U0ZfamJyVXA2eF8tMzdaMXE4ZGpmQXgzd1FnaWRVbVNRNnViMWJsUGV4YnNSVEJUcHRjNERkd1dHTFdleGpZbXU1WmtJRFEydGV1MEpZZmo1RGhMTVhSdjFrVVNPT0E2OGxFa3NrakJVM3dDalR6TENNbF9pUmQzTGlQbDZ4YXN3c1IwbGNz?oc=5)
-
-2026-05-17 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1YX3Q5Y1p5U0ZfamJyVXA2eF8tMzdaMXE4ZGpmQXgzd1FnaWRVbVNRNnViMWJsUGV4YnNSVEJUcHRjNERkd1dHTFdleGpZbXU1WmtJRFEydGV1MEpZZmo1RGhMTVhSdjFrVVNPT0E2OGxFa3NrakJVM3dDalR6TENNbF9pUmQzTGlQbDZ4YXN3c1IwbGNz?oc=5)
 
 ---
 

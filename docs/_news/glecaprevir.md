@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（13 則）
 
-### [El ébola circuló más de un mes en el noreste del Congo antes de ser identificado - EL PAÍS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmo1b0lrODJfbDBmRFctNXlYbTZsREZReWhpVXI5TjFTd2Y2Rkp6bVhHUGhkRWpSRVhUU3FIYktpWFR5M0dnRDg1WmplclA3eGxHUVFHUkZHZUpmZlllUnk0SG9xa0IwN2Roc2JNZHlvWWVoNi15MS1qVld0ZWRvZGVfQTBQU05EcWlpQUcyb1M3b0pjTFRiTVJRNHJEbG9xS1pUVkhKU3BLQVFSRUpvOXFqaXlpMHhvREdnQXdicHd0Zw?oc=5)
+### [US says American contracted Ebola in Congo as CDC announces new travel screening measures - The Guardian](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbVFKZzZtb0x1bFU3YVZzQ1Foand5ZkJTNHkzbFVYTTlhcnlNOHZma1R3MDhjcEhNVUFwRWtieTYtUnk0Q0xtTng3MDB6X3RHMGowYlE1ZzVZTTllMXlaaGNkSUQ4U1QzeGJIekpiX3R2enZDSnV5dEJPT1NqSlBjMA?oc=5)
 
 2026-05-18 <span class="news-indication-tag">MS</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmo1b0lrODJfbDBmRFctNXlYbTZsREZReWhpVXI5TjFTd2Y2Rkp6bVhHUGhkRWpSRVhUU3FIYktpWFR5M0dnRDg1WmplclA3eGxHUVFHUkZHZUpmZlllUnk0SG9xa0IwN2Roc2JNZHlvWWVoNi15MS1qVld0ZWRvZGVfQTBQU05EcWlpQUcyb1M3b0pjTFRiTVJRNHJEbG9xS1pUVkhKU3BLQVFSRUpvOXFqaXlpMHhvREdnQXdicHd0Zw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbVFKZzZtb0x1bFU3YVZzQ1Foand5ZkJTNHkzbFVYTTlhcnlNOHZma1R3MDhjcEhNVUFwRWtieTYtUnk0Q0xtTng3MDB6X3RHMGowYlE1ZzVZTTllMXlaaGNkSUQ4U1QzeGJIekpiX3R2enZDSnV5dEJPT1NqSlBjMA?oc=5)
 
 ---
 
-### [Kostenlose HPV-Impfung: Piks holen, Mocktail trinken“: Aktion für Jugendliche in Winsen gestartet](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWExWcGFjV2JyMFNMRTNlMGFaUU1mMjhSWktOdjlzS1JjWjRPaWl4WkNmVlFBZ2YzVjd3RTBhWE01c3ZtZTJfNlBUcVpKUVpBYUtYRXpnM1F2c1BrcEpOVGRBaXktNU9UNW10ODJNN3YxdmJQN2Y4bWdWbHRHSXdzM2tTNDZDY2tISmhnNmxyLWswdzNZb1ZOUkJUVmJVc0UyVHh6T0NnS3R5VXBIZy0wSS01WFVxa3ZXX0ZHeTdlYXhjaGMyb2ZGVC1IUEJJcVZtVkZv?oc=5)
+### [Pourquoi la flambée d’Ebola en RDC et Ouganda inquiète l’OMS - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2JYMmdrUXludjNkbjgtVjh5ZVI0Y2R0OGczbFF2Vldya2ZkNS1nWG1adVdFcHlYelQtSkhtd3dwQkVITmk5dXNQYjBSaXhhSTJrQld6RlFHOUxsNEZ2QnllZmRucmJRb216OFVORFJ5dWR0M24tejB0QlhzaGZQcDhsaTJsZzNQRzZLUmlXWXJVVGlkZnBiMm1hVThwdWNZRzV4Y1RFYw?oc=5)
+
+2026-05-18 <span class="news-indication-tag">MS</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2JYMmdrUXludjNkbjgtVjh5ZVI0Y2R0OGczbFF2Vldya2ZkNS1nWG1adVdFcHlYelQtSkhtd3dwQkVITmk5dXNQYjBSaXhhSTJrQld6RlFHOUxsNEZ2QnllZmRucmJRb216OFVORFJ5dWR0M24tejB0QlhzaGZQcDhsaTJsZzNQRzZLUmlXWXJVVGlkZnBiMm1hVThwdWNZRzV4Y1RFYw?oc=5)
+
+---
+
+### [Kostenlose HPV-Impfung: Piks holen, Mocktail trinken“: Aktion für Jugendliche in Winsen gestartet](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYThQanFVRHIzeERRbFJUNUNybUF1MkFCSUxjVEpMeVZMb18xa0JVdVZ3dmkwTE15Y0Z2WlhxX3phWmRVNGJaT3l3bUNCeE5ISFdiZ0FHcGVVREs4QW9vcVlLa0JraEpGUDZqX3I3Nm9Pc1pyeG9nNV91cjhseXYwRE5JTU5zR3JpM2RHT0kyTWNNTEtMUUZYTTgxMER0RUpqNGItVTVYaTNyWnZaeHpSb1F3SkFvbFNZUTVtOWNWcTJSMEFzdFpGdkZjU2dxVUhmUXc?oc=5)
 
 2026-05-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[kreiszeitung-wochenblatt.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWExWcGFjV2JyMFNMRTNlMGFaUU1mMjhSWktOdjlzS1JjWjRPaWl4WkNmVlFBZ2YzVjd3RTBhWE01c3ZtZTJfNlBUcVpKUVpBYUtYRXpnM1F2c1BrcEpOVGRBaXktNU9UNW10ODJNN3YxdmJQN2Y4bWdWbHRHSXdzM2tTNDZDY2tISmhnNmxyLWswdzNZb1ZOUkJUVmJVc0UyVHh6T0NnS3R5VXBIZy0wSS01WFVxa3ZXX0ZHeTdlYXhjaGMyb2ZGVC1IUEJJcVZtVkZv?oc=5)
+來源：[kreiszeitung-wochenblatt.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYThQanFVRHIzeERRbFJUNUNybUF1MkFCSUxjVEpMeVZMb18xa0JVdVZ3dmkwTE15Y0Z2WlhxX3phWmRVNGJaT3l3bUNCeE5ISFdiZ0FHcGVVREs4QW9vcVlLa0JraEpGUDZqX3I3Nm9Pc1pyeG9nNV91cjhseXYwRE5JTU5zR3JpM2RHT0kyTWNNTEtMUUZYTTgxMER0RUpqNGItVTVYaTNyWnZaeHpSb1F3SkFvbFNZUTVtOWNWcTJSMEFzdFpGdkZjU2dxVUhmUXc?oc=5)
 
 ---
 
-### [La OMS alerta: el mundo sigue sin estar preparado para una nueva pandemia "aún mayor" que cada día está más cerca - Cadena SER](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMEExTjl4bEtuSnpPakZWRmZqZDE3VkxmdlZjQmh3X29iamZ2eGtPZmJJN3RJUGd2ZnVoaTg3OUMwcHhrMkxXZm0zTXc3MUxCaEdyRnZoRFd3VEtja2RDV25VT3VwTnNjcExTTWlBUmh6WFUwTzNSalU4d3A3Tk0yc2tQTGt0b1g1UE9KWm1GY1ZCdkYteVh6enpPTVdNbUpjSlRyNUk0TlpfZTlGajNseDhIa2lBMlI4U3RiYkdNWVBtRjloU0hTVVVPRFBBdnZQV25EYTdNZUJlTWxxTU5weXYyaDZOVmFkU0cycFVRTE1USk9mRndR0gGLAkFVX3lxTFBaRzdkdWtONGFMOWtCZmNTWmM0ZzBNSm9JMzk2Tnh0T2FaVGxPNFdaWnpuak0waDlwU1hKQVFhQTJHZENpa3gxQTIybUhUU0I1SW9VaVBzakZIclo3bG5hVkx5UV9JeWxCVjJ3eVBkOXJQX1dwMHZMY3dtWW5RS0xMSHlKZzcwejkzdTVaQVhnRWh0dU1BS3RaR2FjbWEwanJVMTFEdGExQzV2T1UzUDlueDhkdEJDR0prZGpMdUk2S0lwSmZlN2JaMVI3OWJvZ3BtSTFzSlFHbGdQaHBnczNDTWR2MkFQVUZlem15R1Q3WFhWeUNCVHlTVWZIS0NYT2RDWVN3SWJVWGZtSQ?oc=5)
+### [El ébola vuelve a desatar la emergencia internacional: la OMS alerta de un nuevo brote con una cepa para la que no tenemos vacuna](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZzhZaURsTkpBaVE0SUl0QnJEekJwd09mYWdpRWl4bkNPNkVtUGJXXzZpTlRGeGpyTlRodV9pdUIwd2dEbGwzUG1qRUUwTFJ0Qml4ZGMyZDM2bzl6MUxjMkcwSzVoQmhTWlZOQ0cxQmNHR3hBdXNEM3dpLXkyZzM0NDhMQVBQUnV2UzdjbHpKbDlQb3RIU3FsV0N5VWoyM0pPa0pzQk8zYW83M3Z2Y3RmTjJpeWFLdUlDbFc1X0UxRkt3bFphYVdRQXV2c3AzZ9IB0wFBVV95cUxQZTRMVUh5ZVkyWm5XTDhUVW9rZlk3d055ZTBzM0xUQ1I1czhUSDZVamZpbHZXQkVBRzA0SkV0TTE5WFU2TEtBM2Zxd3RYenpTbG1vLVlMV291TXNHVXZYOGtNb1RmbTBPOGkwRzZQcVd0ZFFMRUVDaURxdmFZMDBuSWl3dU90azVEZVpnNzNnNFprZzVMbm5GUXp0Q3hKRlN3WUU2Ym1ZWHRIdkROeXhnR0RkZDRNUVp5dWtMc2ZPbmRlakxyNmNMN1c4dlVDRnhfTk00?oc=5)
 
 2026-05-18 <span class="news-indication-tag">MS</span>
 
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMEExTjl4bEtuSnpPakZWRmZqZDE3VkxmdlZjQmh3X29iamZ2eGtPZmJJN3RJUGd2ZnVoaTg3OUMwcHhrMkxXZm0zTXc3MUxCaEdyRnZoRFd3VEtja2RDV25VT3VwTnNjcExTTWlBUmh6WFUwTzNSalU4d3A3Tk0yc2tQTGt0b1g1UE9KWm1GY1ZCdkYteVh6enpPTVdNbUpjSlRyNUk0TlpfZTlGajNseDhIa2lBMlI4U3RiYkdNWVBtRjloU0hTVVVPRFBBdnZQV25EYTdNZUJlTWxxTU5weXYyaDZOVmFkU0cycFVRTE1USk9mRndR0gGLAkFVX3lxTFBaRzdkdWtONGFMOWtCZmNTWmM0ZzBNSm9JMzk2Tnh0T2FaVGxPNFdaWnpuak0waDlwU1hKQVFhQTJHZENpa3gxQTIybUhUU0I1SW9VaVBzakZIclo3bG5hVkx5UV9JeWxCVjJ3eVBkOXJQX1dwMHZMY3dtWW5RS0xMSHlKZzcwejkzdTVaQVhnRWh0dU1BS3RaR2FjbWEwanJVMTFEdGExQzV2T1UzUDlueDhkdEJDR0prZGpMdUk2S0lwSmZlN2JaMVI3OWJvZ3BtSTFzSlFHbGdQaHBnczNDTWR2MkFQVUZlem15R1Q3WFhWeUNCVHlTVWZIS0NYT2RDWVN3SWJVWGZtSQ?oc=5)
+來源：[Xataka](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZzhZaURsTkpBaVE0SUl0QnJEekJwd09mYWdpRWl4bkNPNkVtUGJXXzZpTlRGeGpyTlRodV9pdUIwd2dEbGwzUG1qRUUwTFJ0Qml4ZGMyZDM2bzl6MUxjMkcwSzVoQmhTWlZOQ0cxQmNHR3hBdXNEM3dpLXkyZzM0NDhMQVBQUnV2UzdjbHpKbDlQb3RIU3FsV0N5VWoyM0pPa0pzQk8zYW83M3Z2Y3RmTjJpeWFLdUlDbFc1X0UxRkt3bFphYVdRQXV2c3AzZ9IB0wFBVV95cUxQZTRMVUh5ZVkyWm5XTDhUVW9rZlk3d055ZTBzM0xUQ1I1czhUSDZVamZpbHZXQkVBRzA0SkV0TTE5WFU2TEtBM2Zxd3RYenpTbG1vLVlMV291TXNHVXZYOGtNb1RmbTBPOGkwRzZQcVd0ZFFMRUVDaURxdmFZMDBuSWl3dU90azVEZVpnNzNnNFprZzVMbm5GUXp0Q3hKRlN3WUU2Ym1ZWHRIdkROeXhnR0RkZDRNUVp5dWtMc2ZPbmRlakxyNmNMN1c4dlVDRnhfTk00?oc=5)
+
+---
+
+### [Perché il focolaio di ebola nella Repubblica democratica del Congo è diverso dagli altri e cosa ha detto l'Oms](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUs5MzQxbjh0WlJQV2hLVGpNQjNBeWFxSWV5VWl6QXp0Y0JBa0c5YkNpS1ExVWVXN2dCSC1SVE5QMHZUZE1qaW54LU00RS1kYXNXYTNqdjhmb0l4dkxVU1hEck9YbFQyQjBYbUEwQ0gyZWhPcmlmc25jcHl0UGJ5WHhGa2drZlVZcy1LQW51ZFRFb3BvNFo3b3g5MA?oc=5)
+
+2026-05-18 <span class="news-indication-tag">MS</span>
+
+來源：[Wired](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUs5MzQxbjh0WlJQV2hLVGpNQjNBeWFxSWV5VWl6QXp0Y0JBa0c5YkNpS1ExVWVXN2dCSC1SVE5QMHZUZE1qaW54LU00RS1kYXNXYTNqdjhmb0l4dkxVU1hEck9YbFQyQjBYbUEwQ0gyZWhPcmlmc25jcHl0UGJ5WHhGa2drZlVZcy1LQW51ZFRFb3BvNFo3b3g5MA?oc=5)
 
 ---
 
@@ -94,22 +110,6 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Ebola, l’Oms dichiara l’emergenza sanitaria internazionale: “Ceppo raro e senza vaccino in RD Congo e Uganda” - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTBMNFotZ3BFcjNOUVo3YXhJRzNPc2JOWno0RzhwU2RkUkYxSGRKMTUyaW10MVRWcHBoU3ZrV1RNQnppLU03ZTJhRlF2VXl5OFNWOUxfeElLS3RLdzFyLWUwVXhCUURrQ1VTVXNaOHBpZzBtWTBmTTdHVEF6clpyVUZuR2xZTHU3VzQyTkJOZ29tQ1daUkZmTDlVa3A4OS0y?oc=5)
-
-2026-05-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTBMNFotZ3BFcjNOUVo3YXhJRzNPc2JOWno0RzhwU2RkUkYxSGRKMTUyaW10MVRWcHBoU3ZrV1RNQnppLU03ZTJhRlF2VXl5OFNWOUxfeElLS3RLdzFyLWUwVXhCUURrQ1VTVXNaOHBpZzBtWTBmTTdHVEF6clpyVUZuR2xZTHU3VzQyTkJOZ29tQ1daUkZmTDlVa3A4OS0y?oc=5)
-
----
-
-### [Hantavirus, nave da crociera Hondius arrivata a Rotterdam. Oms: “Basso rischio” - Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE5sMVJmT2Z3U0VsVy1Fd0g4aTFnOWlPdzRjNnNnbnc3cWJET29ScWdoSTVjQVJGN0NnbThuODJiTDhfajRla3ozMXo5RUdqbFU4YTQtd1Q2VVc2czFHSTl0VWJleDk3dVNIMzctTjgxLTFqZE54TTBsNkNhZks?oc=5)
-
-2026-05-18 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTE5sMVJmT2Z3U0VsVy1Fd0g4aTFnOWlPdzRjNnNnbnc3cWJET29ScWdoSTVjQVJGN0NnbThuODJiTDhfajRla3ozMXo5RUdqbFU4YTQtd1Q2VVc2czFHSTl0VWJleDk3dVNIMzctTjgxLTFqZE54TTBsNkNhZks?oc=5)
-
----
-
 ### [18.05.26 - Studie: Hantavirus bis zu 6 Jahre im Körper nachweisbar](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWZuRWUwd0p4OTNzbnZFeWZRb2ZkVFkzbUt1TXVxLWFYQzFoREhVWlB4QjZnN1A2bWcxdmJrdmhvdVZpb054cTdjcDFCV1pqcDNaUXE3SG1ldERwaEVSaC1VY0d6RlI5OUp0LUxYUmh4SkFRVDA4NWZFM1FsMkhpeGNabXRobk9Rb09z?oc=5)
 
 2026-05-17 <span class="news-indication-tag">MS</span>
@@ -120,9 +120,17 @@ permalink: /news/glecaprevir/
 
 ### [Canada confirms first hantavirus case in isolation in British Columbia - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
 
-2026-05-17 <span class="news-indication-tag">MS</span>
+2026-05-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
+
+---
+
+### [Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5)
+
+2026-05-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5)
 
 ---
 
@@ -131,14 +139,6 @@ permalink: /news/glecaprevir/
 2026-05-17 <span class="news-indication-tag">MS</span>
 
 來源：[Donaukurier](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDZXX1BzMW1pbjBEQnhEUzNvdWFUdWlhS2V5eGdvRFRXWlh2V0dYcHM2YVRaVUxDd1ptVmJtSGR0VWFqTmZldU9Ua2d2Qk0tS2RjS0xxRTMtdk5vZmxuWkt4b2FZSUlUM0prQmtQT2s3bUVJRDZSblJMRGVoNTQ3b1BKV1lFQU5Ydm04ZGZpc1N4eTFhSGpYTFh6WHByUV8xZGpGRzRXWm5wNVp4c2l2cy1wWUJPNmtITGZqOUJnNndCVGp6eklWcEhmZmhEUE5URGJLTU5yQnE?oc=5)
-
----
-
-### [Scientists Discover Hidden “Switch” That Burns Fat and Could Treat Bone Disease](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWG1XTFB5aDNMSVczcnRWTWRTZ3ZqSDVaSFIwUk1fSGdlbjBweGRZSktsaE9qN0RkYk95UTFYNGZ6djZWaF9CeTdFamphXzR1eXpERWd6SWJkS0syZDNUUl9DR2dDM01Pd04tZ2VNa3N0V2NHZTFPQWN2MGVUdEdMeXZTUlR2VEF0cHZDcGV5NmpCQTVNOXlubTA4bmxtd29xWnBLWTFR?oc=5)
-
-2026-05-17 <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWG1XTFB5aDNMSVczcnRWTWRTZ3ZqSDVaSFIwUk1fSGdlbjBweGRZSktsaE9qN0RkYk95UTFYNGZ6djZWaF9CeTdFamphXzR1eXpERWd6SWJkS0syZDNUUl9DR2dDM01Pd04tZ2VNa3N0V2NHZTFPQWN2MGVUdEdMeXZTUlR2VEF0cHZDcGV5NmpCQTVNOXlubTA4bmxtd29xWnBLWTFR?oc=5)
 
 ---
 
@@ -152,25 +152,9 @@ permalink: /news/glecaprevir/
 
 ### [Overall Brain Health Protects Memory From Early Alzheimer’s - Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
 
-2026-05-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
-
----
-
-### [Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
-
-2026-05-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
-
----
-
-### [Social media star makes up to £220k a month ‘curing ugliness’ - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNdkMtanVLb09USXNRVmQ2ZUpCTTV1cHJ4eWJzMDVwcndwQVpETEx2amRVTmdqZUV2OUhfWkYtTWJNTEJGTlJJYTZBZ0YxRFhpOEdGN3NxUkpQOGlpS1gwNm1zTEozd2ozazBpbHlEWjd0RTFnV2lGYkhYd08wQUszZjh0TEdwTzQxcUdYLXdjVFdqNzFrZ1VHRkhaWjlMdw?oc=5)
-
 2026-05-16 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNdkMtanVLb09USXNRVmQ2ZUpCTTV1cHJ4eWJzMDVwcndwQVpETEx2amRVTmdqZUV2OUhfWkYtTWJNTEJGTlJJYTZBZ0YxRFhpOEdGN3NxUkpQOGlpS1gwNm1zTEozd2ozazBpbHlEWjd0RTFnV2lGYkhYd08wQUszZjh0TEdwTzQxcUdYLXdjVFdqNzFrZ1VHRkhaWjlMdw?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMigwFBVV95cUxON3dDYnkxeksxV2p1bE10cGJ5RUVweHZ5cmZtQk40eDZEc0x6ZGJqM1EwLWJoMXEtQ1dzNFItbmZyNmpZWjl3VHNaWDlLT2plaXVjTXVLTVZUNUFhVnA0aFlHdG9MRW14dk9qS3FMTVM3M3VhdmZUTFlvbmhIZ3dqWnFTSQ?oc=5)
 
 ---
 

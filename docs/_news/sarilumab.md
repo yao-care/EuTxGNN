@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Morbus Crohn: GPX4-Marker revolutioniert Rückfall-Prognose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTlUYUFlMGllVjdJdDlNRWRldW5DcGtWMjFqV0h2S2FVQzZmYUJiWk1QVTBUelR1eEtrdkZjX0J2NE80V1FraXFtNzBwQzRzaGl5MFBwek9zRktNUVlSaUVzWDFWTXdSWjRkMi1aSV81M1BFZjNuV3JybTVZeDlwcEZkX0U5dF9BaDlUQnFhTUs4UGhzenJaVXAyYk0yZEMtVHZNT3Rjc1c1dW8?oc=5)
 
 2026-05-18 <span class="news-indication-tag">Morbus Crohn</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTlUYUFlMGllVjdJdDlNRWRldW5DcGtWMjFqV0h2S2FVQzZmYUJiWk1QVTBUelR1eEtrdkZjX0J2NE80V1FraXFtNzBwQzRzaGl5MFBwek9zRktNUVlSaUVzWDFWTXdSWjRkMi1aSV81M1BFZjNuV3JybTVZeDlwcEZkX0U5dF9BaDlUQnFhTUs4UGhzenJaVXAyYk0yZEMtVHZNT3Rjc1c1dW8?oc=5)
-
----
-
-### [Wearables und digitale Aktivitätsdaten bei entzündlicher Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
-
-2026-05-18 <span class="news-indication-tag">arthritis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
 
 ---
 

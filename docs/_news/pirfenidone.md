@@ -54,6 +54,14 @@ permalink: /news/pirfenidone/
 
 ## 相關新聞（18 則）
 
+### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+2026-05-18 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+---
+
 ### [Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
 
 2026-05-18 <span class="news-indication-tag">Krebs</span>
@@ -62,19 +70,35 @@ permalink: /news/pirfenidone/
 
 ---
 
-### [Kostenlose HPV-Impfung: Piks holen, Mocktail trinken“: Aktion für Jugendliche in Winsen gestartet](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWExWcGFjV2JyMFNMRTNlMGFaUU1mMjhSWktOdjlzS1JjWjRPaWl4WkNmVlFBZ2YzVjd3RTBhWE01c3ZtZTJfNlBUcVpKUVpBYUtYRXpnM1F2c1BrcEpOVGRBaXktNU9UNW10ODJNN3YxdmJQN2Y4bWdWbHRHSXdzM2tTNDZDY2tISmhnNmxyLWswdzNZb1ZOUkJUVmJVc0UyVHh6T0NnS3R5VXBIZy0wSS01WFVxa3ZXX0ZHeTdlYXhjaGMyb2ZGVC1IUEJJcVZtVkZv?oc=5)
+### [Stiftung aus Bad Wörishofen setzt Ausrufezeichen im Kampf gegen Krebs: erhöhtes Preisgeld für innovative Forschung - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaXEzVU1URWJDa2pFVnBYZE1BZXZid3VZVzdTOEIxRUM4MjJmVUR3T3ZSNUI5blk1UHJscUR3Rk9uSDgzWVJ1MmkyamZJRVFBUkF6eFRRQXlCRUZBdUdxX05IQWpZTE1Ba0ZuMmctZzhwQm9LMUhxSFZWc1JldkdUd2R6YWNsSy1abWhKTXdYcW9MaWVvQlhCbW5yQVFOc3pSUWhSYVZrRnZLSDdvSUlEYmJMUUVERGVvYVcyRG5YT0ZZQTdQYlZlTS04RE9scHoyMHMtZW9CSDBtMjRD?oc=5)
 
-2026-05-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-18 <span class="news-indication-tag">Krebs</span>
 
-來源：[kreiszeitung-wochenblatt.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWExWcGFjV2JyMFNMRTNlMGFaUU1mMjhSWktOdjlzS1JjWjRPaWl4WkNmVlFBZ2YzVjd3RTBhWE01c3ZtZTJfNlBUcVpKUVpBYUtYRXpnM1F2c1BrcEpOVGRBaXktNU9UNW10ODJNN3YxdmJQN2Y4bWdWbHRHSXdzM2tTNDZDY2tISmhnNmxyLWswdzNZb1ZOUkJUVmJVc0UyVHh6T0NnS3R5VXBIZy0wSS01WFVxa3ZXX0ZHeTdlYXhjaGMyb2ZGVC1IUEJJcVZtVkZv?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaXEzVU1URWJDa2pFVnBYZE1BZXZid3VZVzdTOEIxRUM4MjJmVUR3T3ZSNUI5blk1UHJscUR3Rk9uSDgzWVJ1MmkyamZJRVFBUkF6eFRRQXlCRUZBdUdxX05IQWpZTE1Ba0ZuMmctZzhwQm9LMUhxSFZWc1JldkdUd2R6YWNsSy1abWhKTXdYcW9MaWVvQlhCbW5yQVFOc3pSUWhSYVZrRnZLSDdvSUlEYmJMUUVERGVvYVcyRG5YT0ZZQTdQYlZlTS04RE9scHoyMHMtZW9CSDBtMjRD?oc=5)
 
 ---
 
-### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
+
+---
+
+### [Kostenlose HPV-Impfung: Piks holen, Mocktail trinken“: Aktion für Jugendliche in Winsen gestartet](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYThQanFVRHIzeERRbFJUNUNybUF1MkFCSUxjVEpMeVZMb18xa0JVdVZ3dmkwTE15Y0Z2WlhxX3phWmRVNGJaT3l3bUNCeE5ISFdiZ0FHcGVVREs4QW9vcVlLa0JraEpGUDZqX3I3Nm9Pc1pyeG9nNV91cjhseXYwRE5JTU5zR3JpM2RHT0kyTWNNTEtMUUZYTTgxMER0RUpqNGItVTVYaTNyWnZaeHpSb1F3SkFvbFNZUTVtOWNWcTJSMEFzdFpGdkZjU2dxVUhmUXc?oc=5)
+
+2026-05-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[kreiszeitung-wochenblatt.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYThQanFVRHIzeERRbFJUNUNybUF1MkFCSUxjVEpMeVZMb18xa0JVdVZ3dmkwTE15Y0Z2WlhxX3phWmRVNGJaT3l3bUNCeE5ISFdiZ0FHcGVVREs4QW9vcVlLa0JraEpGUDZqX3I3Nm9Pc1pyeG9nNV91cjhseXYwRE5JTU5zR3JpM2RHT0kyTWNNTEtMUUZYTTgxMER0RUpqNGItVTVYaTNyWnZaeHpSb1F3SkFvbFNZUTVtOWNWcTJSMEFzdFpGdkZjU2dxVUhmUXc?oc=5)
+
+---
+
+### [„Verhindern, dass Tumore wiederkommen“ - Welt der Physik](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG40NkhrRmNRT01WQ2ZVOEpsWkd2WG1vcUZnMFFBVE9xTHlCTmxJOGhPdmNLc0otZklQQzhHZG05RVdqLWQtV090d080bWJ3MFhZclJWUDZ5UjdpVGtrV08wbTEtLWtDcEg4dTZhQXhFWWtMTWNRTG1jNXhKLTFuWm9tMmJlSlFmY3NXdE1rOWJ4YmU2NS1j?oc=5)
 
 2026-05-18 <span class="news-indication-tag">tumor</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+來源：[Welt der Physik](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG40NkhrRmNRT01WQ2ZVOEpsWkd2WG1vcUZnMFFBVE9xTHlCTmxJOGhPdmNLc0otZklQQzhHZG05RVdqLWQtV090d080bWJ3MFhZclJWUDZ5UjdpVGtrV08wbTEtLWtDcEg4dTZhQXhFWWtMTWNRTG1jNXhKLTFuWm9tMmJlSlFmY3NXdE1rOWJ4YmU2NS1j?oc=5)
 
 ---
 
@@ -86,11 +110,19 @@ permalink: /news/pirfenidone/
 
 ---
 
-### [Darmforschung 2026: Mikrobiom als Schlüssel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+### [Überlebensvorteil durch GLP-1-RA bei einigen Krebsarten](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDhIUmZuVmRRQmdJVGxlM1N6Ul9XNFNqWDNMdGxQRUVTLVhjWlhjYlNhVV9ZMV9Jek94YlVLVV95Unlia0xmRHhCVFBoSHZIaXhIT2dCUVdsVGx1Q0MwTkFaU2FUUUFSeUVMYldsS1BDLWJ3elZTak53cFJKb2VuV2VrNWJTNm55Ul9qSEFxaGdtZmJTM2FyNzRHQTVxRGxySXBlTA?oc=5)
 
-2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+2026-05-18 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hwMk9jdW5XTkhRUmRVbGl4aWtPRzdfSEc1c2JBRXh5M2RCaVF5YWxCSGJKMURwSi13NWlyazhocTNHblNQUXc1X0FrTXR2ZV81ZnlJU1NKd2hRY3FINlVBS09BS0FFbl8yM1BVaUpLdnJrUkpMa2JCWmFLOWpLMnVoZ25NNFBJWnJaOWY0LUZWR1dGclRmV1FxaTlubG9vRzY3X1E5VWUzNy1sSHZWSVRn?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDhIUmZuVmRRQmdJVGxlM1N6Ul9XNFNqWDNMdGxQRUVTLVhjWlhjYlNhVV9ZMV9Jek94YlVLVV95Unlia0xmRHhCVFBoSHZIaXhIT2dCUVdsVGx1Q0MwTkFaU2FUUUFSeUVMYldsS1BDLWJ3elZTak53cFJKb2VuV2VrNWJTNm55Ul9qSEFxaGdtZmJTM2FyNzRHQTVxRGxySXBlTA?oc=5)
+
+---
+
+### [ROMA | Tumore del colon retto, riparte la campagna della Regione Lazio per gli screening gratuiti](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObThaVlFDS0FHQlpOcF9hTWowY1ZjbERrLW4xSElzdzdqZE40Y3JPVlRaWnUxMDJrSmNLS1NfX19PWjRuYVBsRGgyQTVfcllyMzlXNjdUdEt4S01tYWNfZkZxTXdyMVFHNmR0SWdqN3lyVW5jNWxkd0t0MW9zYzFMX041WGxHNzM2MDJybzFQUG5LZFItRGVpQml4Z0xqN2FBRC00RXFjaUVpMFJIYlZzWlY5blNhcHZLalM4UzM5S2hGQlpmT1p5OA?oc=5)
+
+2026-05-18 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondoreale](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObThaVlFDS0FHQlpOcF9hTWowY1ZjbERrLW4xSElzdzdqZE40Y3JPVlRaWnUxMDJrSmNLS1NfX19PWjRuYVBsRGgyQTVfcllyMzlXNjdUdEt4S01tYWNfZkZxTXdyMVFHNmR0SWdqN3lyVW5jNWxkd0t0MW9zYzFMX041WGxHNzM2MDJybzFQUG5LZFItRGVpQml4Z0xqN2FBRC00RXFjaUVpMFJIYlZzWlY5blNhcHZLalM4UzM5S2hGQlpmT1p5OA?oc=5)
 
 ---
 
@@ -150,14 +182,6 @@ permalink: /news/pirfenidone/
 
 ---
 
-### ["Il nous a quittés ce matin" : à 32 ans, son compagnon décède après 367 jours de combat contre une tumeur cérébrale - France 3 Régions](https://news.google.com/rss/articles/CBMirgJBVV95cUxPeW5zZGFydFZEWXFYT0Y1QXU5cGJqUm8wTkF1c1gyQmNUeHNDRUZoRVFQUW5hc3FFNjlBdGpleHowVFFCRHc0TTBTU2pISEc0LUgyVmotSVhuX0gtRnNHcW9rTGRiTE9WRE0xT3o1VTNGZnZ4bVBuTXlTNGc3RURaS3B5clYtRF9IQ0dycmpyczg5aU5kajV6NDVvSVY5b0NiRzRad3VrQ08zcHNEMkllOWVialZ6QWNmdGRSRnIyd2dwUnBwZkNCNVZhZEt5ZE9paHVjd3VkMVJIQVZ5TmV1LWtRN1U1SG9JQUItbW1VTjJBTTliWnZTOUZ4bTVBdTZSYTFGTTlncHhmMU9xNEFxZERjU01mU1JLd1M1VkNHNXdHUWl3bWRnNGlDM3h4QQ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">cancer</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirgJBVV95cUxPeW5zZGFydFZEWXFYT0Y1QXU5cGJqUm8wTkF1c1gyQmNUeHNDRUZoRVFQUW5hc3FFNjlBdGpleHowVFFCRHc0TTBTU2pISEc0LUgyVmotSVhuX0gtRnNHcW9rTGRiTE9WRE0xT3o1VTNGZnZ4bVBuTXlTNGc3RURaS3B5clYtRF9IQ0dycmpyczg5aU5kajV6NDVvSVY5b0NiRzRad3VrQ08zcHNEMkllOWVialZ6QWNmdGRSRnIyd2dwUnBwZkNCNVZhZEt5ZE9paHVjd3VkMVJIQVZ5TmV1LWtRN1U1SG9JQUItbW1VTjJBTTliWnZTOUZ4bTVBdTZSYTFGTTlncHhmMU9xNEFxZERjU01mU1JLd1M1VkNHNXdHUWl3bWRnNGlDM3h4QQ?oc=5)
-
----
-
 ### [New Research Reveals Certain Fats Can Either Trigger or Suppress Cancer](https://news.google.com/rss/articles/CBMingFBVV95cUxPZllaeEF2Z0xqdWloTFRhQjZsMDF3bVEyVm50eUhyYTYyX3NpdlowWV9nT0dpeFNleXZXdEZ6dm1sOHdfclBYSVBxUW5iMGl6TU42TW9mV3JJcXFiMVBHSU85U2ZFWTJGSFVMZ1A5Z3JicWtJajE1bWN3X1dIb19XZzNzQmFkRFVYeEFHY0h2XzhNZEw1NllqWmM2UEt1dw?oc=5)
 
 2026-05-17 <span class="news-indication-tag">cancer</span>
@@ -171,30 +195,6 @@ permalink: /news/pirfenidone/
 2026-05-17 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDVpdTd2WDdPUDl6M3BONlBXYkctWjlNSjhBUzdiOHdPMGxSWDRoYUl3ZkhPX0pyNE1fTHpFSWF5UDFINDZmT2ExaDlMNG5hSjM3eUJ5TXdXcVZyV3F0dlVDUlFrVENBa2R4bVRPSC1MV0NPdGNGdzUtYW5oYlNnQ05lNXNyV1VROEQ3Qw?oc=5)
-
----
-
-### [Scientists find a remarkable molecule that could help humans live up to 200 years cancer free](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3JYb3VxNXFUVm9GSG8xNFNZcHBkMXZWby1qZDJERGxCb1I1WG9jZ1FIOEQ4Vm1rdWp2Sm9yYWVscGdDY0ppeGpIdEpxdjkzaDMzeFNoamJqQ1dCdUd1VnFsQlh3Z1ZfUm9BbGpNRF9yTEg2T19xZS10U2FuZElrbldOdFVaUllSVVh4Qy1NY2x6MnJ6RlItemNaNUZTWm9BYTZqNkI1TmxzMXZtaUdydExsWlM5ank2bzdJUlNzbHR4VTg?oc=5)
-
-2026-05-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3JYb3VxNXFUVm9GSG8xNFNZcHBkMXZWby1qZDJERGxCb1I1WG9jZ1FIOEQ4Vm1rdWp2Sm9yYWVscGdDY0ppeGpIdEpxdjkzaDMzeFNoamJqQ1dCdUd1VnFsQlh3Z1ZfUm9BbGpNRF9yTEg2T19xZS10U2FuZElrbldOdFVaUllSVVh4Qy1NY2x6MnJ6RlItemNaNUZTWm9BYTZqNkI1TmxzMXZtaUdydExsWlM5ank2bzdJUlNzbHR4VTg?oc=5)
-
----
-
-### [Cancer Mystery Solved: Scientists Discover How Melanoma Becomes “Immortal”](https://news.google.com/rss/articles/CBMingFBVV95cUxPaHFQZWw4UFlMMVpNYlFhWFV4M2VaeGJOMWpuVTNTejI5Y0pCdXZ0UG5FVG5hVWFtR2VIaXFoWExIek9GUWIyTnNmWC11b2ZLeUVrZWNyLVFyeGZmbzREWGZyOGhUX19ZajRlV0Y4dE9ZbUZJaVExQUNoMy0ydFJMamRQdEZMM2NoMXNYV21qQlV4eFhEb0tlbTM2cWhodw?oc=5)
-
-2026-05-16 <span class="news-indication-tag">cancer</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxPaHFQZWw4UFlMMVpNYlFhWFV4M2VaeGJOMWpuVTNTejI5Y0pCdXZ0UG5FVG5hVWFtR2VIaXFoWExIek9GUWIyTnNmWC11b2ZLeUVrZWNyLVFyeGZmbzREWGZyOGhUX19ZajRlV0Y4dE9ZbUZJaVExQUNoMy0ydFJMamRQdEZMM2NoMXNYV21qQlV4eFhEb0tlbTM2cWhodw?oc=5)
-
----
-
-### [Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
-
-2026-05-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5)
 
 ---
 

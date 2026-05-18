@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Wearables und digitale Aktivitätsdaten bei entzündlicher Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
-
-2026-05-18 <span class="news-indication-tag">arthritis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVpHZWUyclRxTnFoT0toTVlqR1lJWkp2TzE5bVpIbnJZT1dENF9UZFYxNWxub25rRHZ5NExSenhXeXVWbTkya29fWkdIZEZNckc3Z21kRHRtLUI0a0JUR3hDd2liVjRZTW5pVWNjSkZSS1VWMW5UZzBTOS1xR0J5MGtJYW9WMXNocVl0Wmw4TXpmVkdRMXNOWWFaWlRFQUJ0a2c?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [EQS-News: VARON unterstützt den Monat des Bewusstseins für Asthma durch die Förderung einer besseren Lungengesundheit und mehr Komfort beim Atmen im Alltag - boerse.de](https://news.google.com/rss/articles/CBMipwJBVV95cUxQc20tWm1rdTUzeHo2UXhEeTZjMklRLWxxTHcxU2drMmkyRnRWNTdBTEFfSVV0ekE5LWg2czRpX0RpTG9SMlMzSUhocEtyS3BMNm5CUjdyV3ptbU9kNHRzanVORFczX3NKZjNCa0VHcW9rMEFfQlF2NE1feVRiRFFjdjAzNTRaMVVDcExrdEJhLVZ2cEVuaEQxRVZqN0FvRTg3NnhqaTJyR2dqaU9tUFNVWGF5LUNfZjdQbEs2eEM1WGJQalVicmV2bDhnOFpmcWdQSVVFb2MzLUNxWjRhaUl4bjdkNzhUQzIxUkY1U0NxSXU0NXFqWDBnVm1ONHZnV2FuRERoYUZzSXpCUTdxWjFXUjg3ZzZ0OTRTZC1HWXhMcF9lVExuQVZF0gGsAkFVX3lxTFBZbW9UdVd5SHlaR1pKT0FpWEFWMVg4X3NtSG1BVmpzaWs5YVNJME9xcGlWMl9KdjRYcjEwdllfZ1pHU253Qzd6azc4UlVKSjF1a0hhRTB0N01FVGRXYWoyMU1NR3NtNndUb2gyQUw2cXRBTURvYjJzdElFZU9ZWVF4NkFRbWpJMXlTMmJzdUtkWlhLa3NuVTVOVlM1MnNoTFItZ0lYbFY0eE93WmtvcnR6bzFPd21Gd2V1cHRTWE1aVmJzdVFvQ1lDMDBnai1FUV9JUHM0cUtjMjBaUGNGc01iNFlKRHhqVjBRZ0Jtc21rVUgtMk9nZXlTaHZhd0FWUk9Yci1Ea0RqcnpHbkdwd2pZZmN0cFA1aXNDb1FYcDFPamZFTU1iNmJFY3Bmbg?oc=5)
 

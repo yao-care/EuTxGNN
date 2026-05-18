@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [Studio, fluttuazioni colesterolo aumentano rischio mortalità, infarto e ictus - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYklKeW5SdG5ZVElzOEh2TkMtMzhOQkx3MUVpemFyenlXMkpZcVpPRnN4b0ZYekQ3U0RSYXFRY0VmSUg4Vlk0UVJjZC1GenhvYXQzX3k5RmI2ZmRieDZ1dXp2WG1zejVEcGNUOEVYakdjQ1NLMlpxeHpHWXlibGNZMGt4YmtTRTFESmlfX3A5VnlKOGFNa1RDVU5ROEt4b2tsdlpzYXd4eWRFSVdNSW40VS1WZmlSTEhGTzJvNndxUXI1ZEs1c0o4MEFXbEg3ZklUMzNtbXBKd1pCYTJwR1FMaA?oc=5)
 
 2026-05-18 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYklKeW5SdG5ZVElzOEh2TkMtMzhOQkx3MUVpemFyenlXMkpZcVpPRnN4b0ZYekQ3U0RSYXFRY0VmSUg4Vlk0UVJjZC1GenhvYXQzX3k5RmI2ZmRieDZ1dXp2WG1zejVEcGNUOEVYakdjQ1NLMlpxeHpHWXlibGNZMGt4YmtTRTFESmlfX3A5VnlKOGFNa1RDVU5ROEt4b2tsdlpzYXd4eWRFSVdNSW40VS1WZmlSTEhGTzJvNndxUXI1ZEs1c0o4MEFXbEg3ZklUMzNtbXBKd1pCYTJwR1FMaA?oc=5)
+
+---
+
+### [Cannabis compound linked to weight loss is not THC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWtrbE1KSGFkZUJZQWV4V01SRm1Hc2x1UUpKM2NJSHlmTGRSME5HTUhhQU5YX0VhZkJndi1WdGxLemdLM2otU3JvaEZMak1KSUs4QTlkRU1RV2h3QmhUaGpiNUllZ093YXNKWWtyTm5yTTIzMjJ6Y1VucVdMUUFDbnpEVHc0WDRvZy1TM0pn?oc=5)
+
+2026-05-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWtrbE1KSGFkZUJZQWV4V01SRm1Hc2x1UUpKM2NJSHlmTGRSME5HTUhhQU5YX0VhZkJndi1WdGxLemdLM2otU3JvaEZMak1KSUs4QTlkRU1RV2h3QmhUaGpiNUllZ093YXNKWWtyTm5yTTIzMjJ6Y1VucVdMUUFDbnpEVHc0WDRvZy1TM0pn?oc=5)
+
+---
+
+### [Is the Weight-Loss Drug Revolution Causing a Frailty Epidemic?](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5)
+
+2026-05-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[WSJ](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5)
 
 ---
 
