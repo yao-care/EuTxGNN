@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Depressionen: Personalisierte Therapie schlägt Standardversorgung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWM2Y0dDaDlqN0V3X3M1X2FVSGJKamhZcVVDcGdQRmlwd1FnZ0tadmFTb3pqbGNnc1NOdllJdndyZzNDa08xd3R1TFhnT2EyUzJuUm0xRlZaUFl1UkU4aVlyX1ZONC04Z01NT2k0Z1lnYVlLOWJLN2hzTTRLTXRoWnA2Ti1vakxJVk8wMjhOUC1SM1Z6dndLZk1kNE9EXzVYa2psNTJkYWZTQnlPY25NUEdB?oc=5)
 
 2026-05-18
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWM2Y0dDaDlqN0V3X3M1X2FVSGJKamhZcVVDcGdQRmlwd1FnZ0tadmFTb3pqbGNnc1NOdllJdndyZzNDa08xd3R1TFhnT2EyUzJuUm0xRlZaUFl1UkU4aVlyX1ZONC04Z01NT2k0Z1lnYVlLOWJLN2hzTTRLTXRoWnA2Ti1vakxJVk8wMjhOUC1SM1Z6dndLZk1kNE9EXzVYa2psNTJkYWZTQnlPY25NUEdB?oc=5)
-
----
-
-### [Depression ist nicht das, was du denkst](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnZEZTVpWDlHUnBGblhBdFBHcmpyUEM3TGZuaHR4Y2RHS1QxTXJUdW9BTTVlWFQ5dFdoUzlBSWVHdEtiWHVQRHFWT2dReVp0bzhtTkt2cUZrdFgxMVNZbE5SbFhkT1o0blFkS18tWUxGcS1fakc2Y09aUFYzS3dKZTNPNXA2TU1NUUhQUURFQmM5Q2Rka2xlSjA5TQ?oc=5)
-
-2026-05-17
-
-來源：[Telepolis](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnZEZTVpWDlHUnBGblhBdFBHcmpyUEM3TGZuaHR4Y2RHS1QxTXJUdW9BTTVlWFQ5dFdoUzlBSWVHdEtiWHVQRHFWT2dReVp0bzhtTkt2cUZrdFgxMVNZbE5SbFhkT1o0blFkS18tWUxGcS1fakc2Y09aUFYzS3dKZTNPNXA2TU1NUUhQUURFQmM5Q2Rka2xlSjA5TQ?oc=5)
 
 ---
 

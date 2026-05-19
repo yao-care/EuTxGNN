@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
 ### [Neue Studie: Diabetes-Blindheit durch Fettmolekül ausgelöst - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
 
@@ -70,11 +70,27 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+
+---
+
 ### [Typ-1-Diabetes: Aktueller Stand bei den Betazellersatztherapien](https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25iYWZiMEd3NEZoWktsN3AtVVUzZnBJdjBLWVJqZlJvbHJ1WWdpd1ZuZDZPY1Aydk1rLVk0LTN5LWhCcEw1ZEFkeG9NSTZkRFNuS09yS2lXRU1xTk5UTkZzZS12aGY1bTdrQXNoZjJBZGtUZ3FvdFBwdWg2VV9zRkhzMTVHUnZ4bDJES3hnZmRUcWI4czdjck5hdzA?oc=5)
 
 2026-05-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25iYWZiMEd3NEZoWktsN3AtVVUzZnBJdjBLWVJqZlJvbHJ1WWdpd1ZuZDZPY1Aydk1rLVk0LTN5LWhCcEw1ZEFkeG9NSTZkRFNuS09yS2lXRU1xTk5UTkZzZS12aGY1bTdrQXNoZjJBZGtUZ3FvdFBwdWg2VV9zRkhzMTVHUnZ4bDJES3hnZmRUcWI4czdjck5hdzA?oc=5)
+
+---
+
+### [Cancer, diabète, cœur : comment la multi-omique permet de prédire 17 maladies avant même les premiers symptômes](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDg0b1EwdjdNTHQxMXcxWDRTRGpSTE9XdGJMSGJCUURVTGZjQllaZ3oyQTY4NGF2Q1lmcjRKN1pNWC04cDZsWmZGZ04zNFpLTC1aY29ObUhqN3NOSWQ4a0p1NFkyV1RJOTVSRXFYbmhlSEd1U29TNVJRWDRGbzFaYjVVVHRKZ3E4MG45eC0yZzVMT0JKNlZsSE1BQ0RLWml1TmZtdUZaN0p4dkRBZHdqRGYwMXJCNXRBaHRwUlQxdXFuMDFwYmpqa3g0dlc?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDg0b1EwdjdNTHQxMXcxWDRTRGpSTE9XdGJMSGJCUURVTGZjQllaZ3oyQTY4NGF2Q1lmcjRKN1pNWC04cDZsWmZGZ04zNFpLTC1aY29ObUhqN3NOSWQ4a0p1NFkyV1RJOTVSRXFYbmhlSEd1U29TNVJRWDRGbzFaYjVVVHRKZ3E4MG45eC0yZzVMT0JKNlZsSE1BQ0RLWml1TmZtdUZaN0p4dkRBZHdqRGYwMXJCNXRBaHRwUlQxdXFuMDFwYmpqa3g0dlc?oc=5)
 
 ---
 

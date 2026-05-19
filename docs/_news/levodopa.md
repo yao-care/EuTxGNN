@@ -56,7 +56,7 @@ permalink: /news/levodopa/
 
 ### [NHS patients wait three and a half years for dementia diagnosis - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYklvcDJzQXlrc1JRYm9SZmR4VlluUXROZGhlNFpibnBlNzUyQ2R3eTVOZ1dUelpVbUNFWVN0UzVBb3NtSm13eVU4MGFacnUxMk0tOVdnQWJlc1hLYnpMUjZZQmxIRjJkek05WEgtRlBYQ3ltY0lCTzZFMmk5bzdMOE1ld3RtaWFpd0VpeVNzdUhaTU9UYjBBRHlzWFp3MlVPdThROGhvZw?oc=5)
 
-2026-05-18 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-05-18 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYklvcDJzQXlrc1JRYm9SZmR4VlluUXROZGhlNFpibnBlNzUyQ2R3eTVOZ1dUelpVbUNFWVN0UzVBb3NtSm13eVU4MGFacnUxMk0tOVdnQWJlc1hLYnpMUjZZQmxIRjJkek05WEgtRlBYQ3ltY0lCTzZFMmk5bzdMOE1ld3RtaWFpd0VpeVNzdUhaTU9UYjBBRHlzWFp3MlVPdThROGhvZw?oc=5)
 

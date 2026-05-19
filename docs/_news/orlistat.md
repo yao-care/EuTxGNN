@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [Studio, fluttuazioni colesterolo aumentano rischio mortalità, infarto e ictus - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYklKeW5SdG5ZVElzOEh2TkMtMzhOQkx3MUVpemFyenlXMkpZcVpPRnN4b0ZYekQ3U0RSYXFRY0VmSUg4Vlk0UVJjZC1GenhvYXQzX3k5RmI2ZmRieDZ1dXp2WG1zejVEcGNUOEVYakdjQ1NLMlpxeHpHWXlibGNZMGt4YmtTRTFESmlfX3A5VnlKOGFNa1RDVU5ROEt4b2tsdlpzYXd4eWRFSVdNSW40VS1WZmlSTEhGTzJvNndxUXI1ZEs1c0o4MEFXbEg3ZklUMzNtbXBKd1pCYTJwR1FMaA?oc=5)
+### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+
+---
+
+### [Studio, fluttuazioni colesterolo aumentano rischio mortalità, infarto e ictus](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVWVsbGdSUzNuVXlYXzlBQ2FDV0gzYmlUdnlkWjBXb1RnRGlqNzRvZEU5YkZVMmFOVGRtQ0N1cGhBNk5qTUFJQlBfY21BZjF6dzhHYWt1NkFLYWJiVWFTdEJQODNfWExYZS1kZWlIVzZORGVZTTJySlkxV3pyQTVkSEpJN2xZWWEwX0gxUFlGZ254WUlYNDFxSVJCRjJ0aGRuSnhpemhnU2hwRElud19XMzhyTElreHNIWUpQcl96ZW5MVmJ4TG1pdXU3Z0I?oc=5)
 
 2026-05-18 <span class="news-indication-tag">ictus</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYklKeW5SdG5ZVElzOEh2TkMtMzhOQkx3MUVpemFyenlXMkpZcVpPRnN4b0ZYekQ3U0RSYXFRY0VmSUg4Vlk0UVJjZC1GenhvYXQzX3k5RmI2ZmRieDZ1dXp2WG1zejVEcGNUOEVYakdjQ1NLMlpxeHpHWXlibGNZMGt4YmtTRTFESmlfX3A5VnlKOGFNa1RDVU5ROEt4b2tsdlpzYXd4eWRFSVdNSW40VS1WZmlSTEhGTzJvNndxUXI1ZEs1c0o4MEFXbEg3ZklUMzNtbXBKd1pCYTJwR1FMaA?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVWVsbGdSUzNuVXlYXzlBQ2FDV0gzYmlUdnlkWjBXb1RnRGlqNzRvZEU5YkZVMmFOVGRtQ0N1cGhBNk5qTUFJQlBfY21BZjF6dzhHYWt1NkFLYWJiVWFTdEJQODNfWExYZS1kZWlIVzZORGVZTTJySlkxV3pyQTVkSEpJN2xZWWEwX0gxUFlGZ254WUlYNDFxSVJCRjJ0aGRuSnhpemhnU2hwRElud19XMzhyTElreHNIWUpQcl96ZW5MVmJ4TG1pdXU3Z0I?oc=5)
 
 ---
 

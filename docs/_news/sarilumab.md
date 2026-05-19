@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [NHS Dr Ranj issues urgent asthma 'review' warning to anyone using blue inhaler - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
+
+2026-05-18 <span class="news-indication-tag">asthma</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
+
+---
 
 ### [Morbus Crohn: GPX4-Marker revolutioniert Rückfall-Prognose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTlUYUFlMGllVjdJdDlNRWRldW5DcGtWMjFqV0h2S2FVQzZmYUJiWk1QVTBUelR1eEtrdkZjX0J2NE80V1FraXFtNzBwQzRzaGl5MFBwek9zRktNUVlSaUVzWDFWTXdSWjRkMi1aSV81M1BFZjNuV3JybTVZeDlwcEZkX0U5dF9BaDlUQnFhTUs4UGhzenJaVXAyYk0yZEMtVHZNT3Rjc1c1dW8?oc=5)
 
