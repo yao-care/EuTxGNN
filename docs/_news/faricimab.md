@@ -14,7 +14,7 @@ permalink: /news/faricimab/
 ---
 
 <p class="key-answer" data-question="Faricimab 有什麼相關新聞？">
-<strong>Faricimab</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Faricimab</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/faricimab/
 <p><a href="{{ '/drugs/faricimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（31 則）
+
+### [Cancer du poumon : le grand dépistage démarre dans ces cinq régions](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+
+---
 
 ### [Tipps aus dem roten Bus: Wie sich Herzkrankheiten verhindern lassen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
 
 2026-05-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Nordkurier](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
+
+---
+
+### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+
+---
+
+### [Diabetes-Kids Virtuell: Webinar mit mylife Diabetes Care zum mylife Loop mit dem Dexcom G7](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
+
+---
+
+### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+
+---
+
+### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
 ---
 
@@ -78,6 +118,14 @@ permalink: /news/faricimab/
 
 ---
 
+### [Tumore al colon retto, ingannare il cancro per farlo autodistruggere: la scoperta di Candiolo - La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWdEWS1fSllMWFd0UE1SUFVrVWpiN0pMakk1NjI4Tm5TS2N2eS1ha1VFQmwzWmp4Q0JuYjFoekRpallWLWdXcjBUYkJIOG82Y3NZUVpsdGpMRHpCZm90LWJrSGpnc082Qzl5Y0NMRmdobHJmbjRfal91MjgzdWZpYVdPUVhJZVNUamFGTTVDTzZZNmRpaHZteGlDeGpMYXdvVXJVQURnTFZXTUVT0gGyAUFVX3lxTFBKcVdjOGppYzJya19MTmRTdnJHWEloTDZMNno0eUFwcGZYOExoOUV3NTBlQ1FxQ3dfRjA2SzVBOFFXYkhlVWM4TGk3NmluT09pRmlqVkd5VDYwZXFfS0pGSXVkYW1GMjF1eHN3eTBPMW9HRWlGa2RxVm9xeHM5bk4xNGVtZDNhWEFoTm9SbHgtLXRzOGVqYVNBdTNTR3lTTHgtMUVja2JVUVdSUnVuLW5TMEE?oc=5)
+
+2026-05-19 <span class="news-indication-tag">tumor</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWdEWS1fSllMWFd0UE1SUFVrVWpiN0pMakk1NjI4Tm5TS2N2eS1ha1VFQmwzWmp4Q0JuYjFoekRpallWLWdXcjBUYkJIOG82Y3NZUVpsdGpMRHpCZm90LWJrSGpnc082Qzl5Y0NMRmdobHJmbjRfal91MjgzdWZpYVdPUVhJZVNUamFGTTVDTzZZNmRpaHZteGlDeGpMYXdvVXJVQURnTFZXTUVT0gGyAUFVX3lxTFBKcVdjOGppYzJya19MTmRTdnJHWEloTDZMNno0eUFwcGZYOExoOUV3NTBlQ1FxQ3dfRjA2SzVBOFFXYkhlVWM4TGk3NmluT09pRmlqVkd5VDYwZXFfS0pGSXVkYW1GMjF1eHN3eTBPMW9HRWlGa2RxVm9xeHM5bk4xNGVtZDNhWEFoTm9SbHgtLXRzOGVqYVNBdTNTR3lTTHgtMUVja2JVUVdSUnVuLW5TMEE?oc=5)
+
+---
+
 ### [Früher Darmkrebs: Studien identifizieren wichtige Risikofaktoren](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFhuS3J3ZFhuX0FRcWh1OENJVy0td0M5alhzSmN2WDJQelBDVThWS3o4SkNuS0VXMkIxakszNmZSSEhVcHdGS2N5d0dkeFN3MUtkSjhXdU4wa3pteTdYTFdFSFJmQV92T3A1ek1UR3Q0NXd5YmtoSmNIQ1lCb3hsSURJeVgxX015eTFjXzRqVUxVbWo4MXhuTncwM3VMNzQ4ZExLbnBfTjZyYVU5QzczT0tR?oc=5)
 
 2026-05-19 <span class="news-indication-tag">Krebs</span>
@@ -91,6 +139,14 @@ permalink: /news/faricimab/
 2026-05-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[lifePR](https://news.google.com/rss/articles/CBMitgJBVV95cUxPRWdETGNfZXg2c0hldHU3R3VWTk5ldWhGSmt3SmZVYVF4SEdUb2pHSEctM00ydDl2MjRoR0NNa3Z3c21ReU00QU1sMUZuaWRFVTZMLTJXWUJwbTVhdGlMUmZWT3lsN2szNXI1QkU0ZkIxRUh4LUZWUnlIdTZXeWx0QnN3aVBFclA1Qk9XRkRJNjc0WUJsNWplSWprNmI0R21xNHJ6Q0NxcDMtblNiNUZuNjhXMlBsZm5EUE1SYmFpMXR0aVFGdUoyNUJmMEZ1Y2x6ZF94SzdMNnhNNWxMVjg4bjFja21zcUtMUWFtbUt1YmQ0d3Q0NzF2ZkZuRWZ3dGV3b3dtTUk2NHRqTldjN2VERER3YWQ2N0VMUzY0NGVaTDU4RTlqWVNYZFN0LU1ueDV6NTYyWElB?oc=5)
+
+---
+
+### [Les ultra-sons contre le cancer de la prostate : une technique désormais remboursée et possible à Clermont-Ferrand - La Montagne](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRkpUQzZEcnVfMEtWblFOSjV1c1hxMm1QOXpPcWxQcFEwM0ZnM1kzTnlKb1VJRmJnSTJTZ3J4c3dVTXVzYTkzdlcxVlZkUmhNcXFTYnc2RDZiNzFSZllTaDZFdnlQWk02NUY4T0lOUEZ4UjcwZFg3VHF1YW9aTkVLMExWUXo4Y3NLX2xRRjZvRkhnODR6OW9SelN6N0dDRURzWGVpLVlJZUdvVGIxaE5xUzgtbVE5M3dDeDM5Ukl5UTdMWkZrS2Q5N0NvLUxRSHpWQnZZUEd0anZ0bTFOSlQ1LXVyZHRJMm5oVjFhdzBBcXUxdllKUGh4d3RJSVNoLWhCdmJRdkRvU0xJTlhocTAw?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[La Montagne](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRkpUQzZEcnVfMEtWblFOSjV1c1hxMm1QOXpPcWxQcFEwM0ZnM1kzTnlKb1VJRmJnSTJTZ3J4c3dVTXVzYTkzdlcxVlZkUmhNcXFTYnc2RDZiNzFSZllTaDZFdnlQWk02NUY4T0lOUEZ4UjcwZFg3VHF1YW9aTkVLMExWUXo4Y3NLX2xRRjZvRkhnODR6OW9SelN6N0dDRURzWGVpLVlJZUdvVGIxaE5xUzgtbVE5M3dDeDM5Ukl5UTdMWkZrS2Q5N0NvLUxRSHpWQnZZUEd0anZ0bTFOSlQ1LXVyZHRJMm5oVjFhdzBBcXUxdllKUGh4d3RJSVNoLWhCdmJRdkRvU0xJTlhocTAw?oc=5)
 
 ---
 
@@ -126,14 +182,6 @@ permalink: /news/faricimab/
 
 ---
 
-### [Un nouveau « dépistage » du cancer du poumon démarre dans cinq régions - 20 Minutes](https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVg4WXpheC1SMzdvT3B0LU1kWXdRZHNOMnlocFpzUDFIVVI0WG9kNmFrc1M3VkNYWjZ4UWdGRHlHNWFvUnpSYnRpaVBjQlowU2ViYTYybV8xS0dmZ0k1MzNscVJnLXJ2V3cwLVcwZkVTcXRzLTRhYnN4blU4Z1NLUlNpeGhvN0ZUQUl1X3Z4eUlSaFU0Q2N2V1JHSXIyWnVib2dzQVJRR2ljRWhTWmc?oc=5)
-
-2026-05-18 <span class="news-indication-tag">cancer</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVg4WXpheC1SMzdvT3B0LU1kWXdRZHNOMnlocFpzUDFIVVI0WG9kNmFrc1M3VkNYWjZ4UWdGRHlHNWFvUnpSYnRpaVBjQlowU2ViYTYybV8xS0dmZ0k1MzNscVJnLXJ2V3cwLVcwZkVTcXRzLTRhYnN4blU4Z1NLUlNpeGhvN0ZUQUl1X3Z4eUlSaFU0Q2N2V1JHSXIyWnVib2dzQVJRR2ljRWhTWmc?oc=5)
-
----
-
 ### [Lyon. Le centre Léon-Bérard expérimente un traitement inédit contre ce cancer rare et agressif](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTF85U2xWR2RwTDh6cFNRNGFTbDFUVFlrS2UwZjJDZGdxd2Q3NVFuMFQwTUtHRVVxQjk2azI0T0YxR0FCQUc3RElfSDZDQ2xvZHlkejVfZEdXOGNYX2U1TGRzZjdtYk5WQU9SaUEzdElFVV91b2FFZEVBY1kyMGo0YTlNSDJqclpkNTJ0cC0waHplSkxBNEptYTdCSU81OWcwdFJuVnVwOHRjWmltS2dTMTFka29YV2dLcmRZRnR3WTBnSFY0Ri11UG5nUFE0akc0b1J4bEcyYW04aGxvVnhoeUsyelgxdVppV0p3?oc=5)
 
 2026-05-18 <span class="news-indication-tag">cancer</span>
@@ -150,19 +198,19 @@ permalink: /news/faricimab/
 
 ---
 
-### [Neue Studie: Diabetes-Blindheit durch Fettmolekül ausgelöst - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
-
----
-
 ### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
 
 2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
+
+---
+
+### [Gefahr für die Netzhaut: Wie ein kleines Fettmolekül bei Diabetes blind machen kann](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTJhdk5qa0FxY2JudkYtU3VhQmY2U19yNTUxanZwVjljV2lYUnFqN1l5akhDNk1XOS1wVGlfaURENzhtTUlOdlRVZjMxWFkzd084X2ZGZFhXbUZXVGNNbVJ3Wlc5RVktc25tZ3FsUG9FT29aQ1VDV3NsMjFlNEdMdGh5U2VfV3lXTDh0VXh0a1Q3RXlmcDFDcE1yU0pzTERkbG1rWG5nZF94Z3FFSXlETjR2WVBvR1k?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[HNA](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTJhdk5qa0FxY2JudkYtU3VhQmY2U19yNTUxanZwVjljV2lYUnFqN1l5akhDNk1XOS1wVGlfaURENzhtTUlOdlRVZjMxWFkzd084X2ZGZFhXbUZXVGNNbVJ3Wlc5RVktc25tZ3FsUG9FT29aQ1VDV3NsMjFlNEdMdGh5U2VfV3lXTDh0VXh0a1Q3RXlmcDFDcE1yU0pzTERkbG1rWG5nZF94Z3FFSXlETjR2WVBvR1k?oc=5)
 
 ---
 
@@ -219,14 +267,6 @@ permalink: /news/faricimab/
 2026-05-18 <span class="news-indication-tag">cancer</span>
 
 來源：[Nice-Matin](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmx4LUpxSnFUeThXRWdTVVIyaXFVaFBITmNkelhyOXF6MHNmaUd3RFZWcjFqamR6RHJqQVNWYlRtSmRscWdhcFk4d2tJcEdNaUZKWTVVQVBMYzJXUVpzQlVmc0xEWmJHZDVzNTR2anV4Z0pMMWhtOWpIS2VnVmtYUUZWOEg4RmZFVy13MEVPX2t5LWt1bTRMVmdvUEtEaVhZdkNXLVhvOWpLWm1nVWZDNUZnRzRuWnkwYWQzNko4ZGZoZlRjeHRxWHNKNVlHU2cwVC1ITDVtbw?oc=5)
-
----
-
-### [Mel Gibson: «Avevo tre amici malati di cancro, stadio 4. Ora sono guariti», e le vendite dei farmaci aumentano del 99.5%](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGk3dmFQQTI1SjBiclhHRXZlNlpLYVhORkplNHR0LVV1TGl1d2VVMXo1N0t3M1R1Z1ltY3Y0a2R6Q1hwNVhhZ0RRcDlFMHluWDUyMXB2NE55QVhRVXdhTTJMSDB5WWFhTXZTbzNPdkhnaW5GS1pUWjFPVU5YbWQtWHRKbkVkX0M2Nkh6ZkNGS2FWMXc3Z29uMmItVXFTUmpZTEE1VHRRYm9XRE9mbFVvdng2T24wakc3ZnJ5dDUwaG85VWJyVC04eHFNcE9Wd9IBuAFBVV95cUxNeWUzMXJYZEg1V0cwRUtxRjlBaG5NbFVmZTdDUy0zVG56amxnWHc4UGItZGhycncyNGhIU1FJQ2YzcW1fZUNlckRSMTNKUlgxeFFhNlktTEpMR0QwTkc4TlZEajdyenlvazdORnJvWGhZR3dDdDQ0VndHZVduNU5aQWlnWU94MFFZcGtpbzN1UmlOcm1fdXBHMy1RTnJpRzN0OUZmdF9XeHVfSDZxb1VrUVJYeFpRSURx?oc=5)
-
-2026-05-18 <span class="news-indication-tag">cancro</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGk3dmFQQTI1SjBiclhHRXZlNlpLYVhORkplNHR0LVV1TGl1d2VVMXo1N0t3M1R1Z1ltY3Y0a2R6Q1hwNVhhZ0RRcDlFMHluWDUyMXB2NE55QVhRVXdhTTJMSDB5WWFhTXZTbzNPdkhnaW5GS1pUWjFPVU5YbWQtWHRKbkVkX0M2Nkh6ZkNGS2FWMXc3Z29uMmItVXFTUmpZTEE1VHRRYm9XRE9mbFVvdng2T24wakc3ZnJ5dDUwaG85VWJyVC04eHFNcE9Wd9IBuAFBVV95cUxNeWUzMXJYZEg1V0cwRUtxRjlBaG5NbFVmZTdDUy0zVG56amxnWHc4UGItZGhycncyNGhIU1FJQ2YzcW1fZUNlckRSMTNKUlgxeFFhNlktTEpMR0QwTkc4TlZEajdyenlvazdORnJvWGhZR3dDdDQ0VndHZVduNU5aQWlnWU94MFFZcGtpbzN1UmlOcm1fdXBHMy1RTnJpRzN0OUZmdF9XeHVfSDZxb1VrUVJYeFpRSURx?oc=5)
 
 ---
 

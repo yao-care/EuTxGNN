@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthma 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+2026-05-19
+
+來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+---
 
 ### [NHS Dr Ranj issues urgent asthma 'review' warning to anyone using blue inhaler - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
 

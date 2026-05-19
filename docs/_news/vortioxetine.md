@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Depressionen: Personalisierte Therapie schlägt Standardversorgung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWM2Y0dDaDlqN0V3X3M1X2FVSGJKamhZcVVDcGdQRmlwd1FnZ0tadmFTb3pqbGNnc1NOdllJdndyZzNDa08xd3R1TFhnT2EyUzJuUm0xRlZaUFl1UkU4aVlyX1ZONC04Z01NT2k0Z1lnYVlLOWJLN2hzTTRLTXRoWnA2Ti1vakxJVk8wMjhOUC1SM1Z6dndLZk1kNE9EXzVYa2psNTJkYWZTQnlPY25NUEdB?oc=5)
 
 2026-05-18 <span class="news-indication-tag">depression</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWM2Y0dDaDlqN0V3X3M1X2FVSGJKamhZcVVDcGdQRmlwd1FnZ0tadmFTb3pqbGNnc1NOdllJdndyZzNDa08xd3R1TFhnT2EyUzJuUm0xRlZaUFl1UkU4aVlyX1ZONC04Z01NT2k0Z1lnYVlLOWJLN2hzTTRLTXRoWnA2Ti1vakxJVk8wMjhOUC1SM1Z6dndLZk1kNE9EXzVYa2psNTJkYWZTQnlPY25NUEdB?oc=5)
-
----
-
-### [Depression ist nicht das, was du denkst](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnZEZTVpWDlHUnBGblhBdFBHcmpyUEM3TGZuaHR4Y2RHS1QxTXJUdW9BTTVlWFQ5dFdoUzlBSWVHdEtiWHVQRHFWT2dReVp0bzhtTkt2cUZrdFgxMVNZbE5SbFhkT1o0blFkS18tWUxGcS1fakc2Y09aUFYzS3dKZTNPNXA2TU1NUUhQUURFQmM5Q2Rka2xlSjA5TQ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">depression</span>
-
-來源：[Telepolis](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnZEZTVpWDlHUnBGblhBdFBHcmpyUEM3TGZuaHR4Y2RHS1QxTXJUdW9BTTVlWFQ5dFdoUzlBSWVHdEtiWHVQRHFWT2dReVp0bzhtTkt2cUZrdFgxMVNZbE5SbFhkT1o0blFkS18tWUxGcS1fakc2Y09aUFYzS3dKZTNPNXA2TU1NUUhQUURFQmM5Q2Rka2xlSjA5TQ?oc=5)
 
 ---
 

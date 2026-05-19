@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+
+---
+
+### [Il a contribué à améliorer la prise en charge des AVC : l’ordre du Mérite pour ce neuroradiologue du CHU de Rennes](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRDhZRG1UcjExRG9BbE5MV2l1bFRDcVgyT21vZm1JbXdoNGt0UWFodGRwMlZCZDMxTTl6bnhmT3NIMHVHaU5tc0I0bzZ3ZzZhTXh4Y0UzTFU1RTJfMmljY0xNVDdfYmFzSkNTN25iN0l1TlRWUGhHSThfRlp5WmFLd0tBUXFlZWpVN1dKcDZjQWdtd2tSMHJXSm03TVQ1alo0WkVpQjhMNUVYQ0tYUnU4U0V4UHdKWVc4TXNIZzZBa1RnNXJGMFpaMEdCaG1yZGhMWUFoU3hfTnUyQzlPOHZMNlctT0VsTmJLcXotYkR3c3h0bGI5andEczZIWkphcVRBT1NDTXhn?oc=5)
+
+2026-05-19 <span class="news-indication-tag">AVC</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRDhZRG1UcjExRG9BbE5MV2l1bFRDcVgyT21vZm1JbXdoNGt0UWFodGRwMlZCZDMxTTl6bnhmT3NIMHVHaU5tc0I0bzZ3ZzZhTXh4Y0UzTFU1RTJfMmljY0xNVDdfYmFzSkNTN25iN0l1TlRWUGhHSThfRlp5WmFLd0tBUXFlZWpVN1dKcDZjQWdtd2tSMHJXSm03TVQ1alo0WkVpQjhMNUVYQ0tYUnU4U0V4UHdKWVc4TXNIZzZBa1RnNXJGMFpaMEdCaG1yZGhMWUFoU3hfTnUyQzlPOHZMNlctT0VsTmJLcXotYkR3c3h0bGI5andEczZIWkphcVRBT1NDTXhn?oc=5)
+
+---
 
 ### [Omega-3-Index: Acht Prozent als magische Schwelle fürs Herz - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdTVHRxNThra29fVURYT1h4MHRaYms3WjRmT2Y3UlVLQnZpeUtHMExGRUNfOEZKY1hxMVhGQVZ1blRlTWJxR3dWNFJSc0F5eWxFbnpCcW5NM2RpU3R5WExkRkFMV3ViaVlUbkhfQUplM0JId1JtUk51ZEFmRXNOZUlaa1Nlcllqam9rNjJ6SkRhSGJBaFhlM1ZQR1FsM1hENzZobTdWaV85MlY4?oc=5)
 
@@ -91,14 +107,6 @@ permalink: /news/orlistat/
 2026-05-18 <span class="news-indication-tag">ictus</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVWVsbGdSUzNuVXlYXzlBQ2FDV0gzYmlUdnlkWjBXb1RnRGlqNzRvZEU5YkZVMmFOVGRtQ0N1cGhBNk5qTUFJQlBfY21BZjF6dzhHYWt1NkFLYWJiVWFTdEJQODNfWExYZS1kZWlIVzZORGVZTTJySlkxV3pyQTVkSEpJN2xZWWEwX0gxUFlGZ254WUlYNDFxSVJCRjJ0aGRuSnhpemhnU2hwRElud19XMzhyTElreHNIWUpQcl96ZW5MVmJ4TG1pdXU3Z0I?oc=5)
-
----
-
-### [Is the Weight-Loss Drug Revolution Causing a Frailty Epidemic?](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5)
-
-2026-05-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[WSJ](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5)
 
 ---
 

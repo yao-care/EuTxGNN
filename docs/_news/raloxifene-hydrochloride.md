@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Il a contribué à améliorer la prise en charge des AVC : l’ordre du Mérite pour ce neuroradiologue du CHU de Rennes](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRDhZRG1UcjExRG9BbE5MV2l1bFRDcVgyT21vZm1JbXdoNGt0UWFodGRwMlZCZDMxTTl6bnhmT3NIMHVHaU5tc0I0bzZ3ZzZhTXh4Y0UzTFU1RTJfMmljY0xNVDdfYmFzSkNTN25iN0l1TlRWUGhHSThfRlp5WmFLd0tBUXFlZWpVN1dKcDZjQWdtd2tSMHJXSm03TVQ1alo0WkVpQjhMNUVYQ0tYUnU4U0V4UHdKWVc4TXNIZzZBa1RnNXJGMFpaMEdCaG1yZGhMWUFoU3hfTnUyQzlPOHZMNlctT0VsTmJLcXotYkR3c3h0bGI5andEczZIWkphcVRBT1NDTXhn?oc=5)
+
+2026-05-19 <span class="news-indication-tag">AVC</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRDhZRG1UcjExRG9BbE5MV2l1bFRDcVgyT21vZm1JbXdoNGt0UWFodGRwMlZCZDMxTTl6bnhmT3NIMHVHaU5tc0I0bzZ3ZzZhTXh4Y0UzTFU1RTJfMmljY0xNVDdfYmFzSkNTN25iN0l1TlRWUGhHSThfRlp5WmFLd0tBUXFlZWpVN1dKcDZjQWdtd2tSMHJXSm03TVQ1alo0WkVpQjhMNUVYQ0tYUnU4U0V4UHdKWVc4TXNIZzZBa1RnNXJGMFpaMEdCaG1yZGhMWUFoU3hfTnUyQzlPOHZMNlctT0VsTmJLcXotYkR3c3h0bGI5andEczZIWkphcVRBT1NDTXhn?oc=5)
+
+---
 
 ### [Omega-3-Index: Acht Prozent als magische Schwelle fürs Herz - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdTVHRxNThra29fVURYT1h4MHRaYms3WjRmT2Y3UlVLQnZpeUtHMExGRUNfOEZKY1hxMVhGQVZ1blRlTWJxR3dWNFJSc0F5eWxFbnpCcW5NM2RpU3R5WExkRkFMV3ViaVlUbkhfQUplM0JId1JtUk51ZEFmRXNOZUlaa1Nlcllqam9rNjJ6SkRhSGJBaFhlM1ZQR1FsM1hENzZobTdWaV85MlY4?oc=5)
 

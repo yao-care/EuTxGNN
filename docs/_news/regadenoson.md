@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+---
 
 ### [NHS Dr Ranj issues urgent asthma 'review' warning to anyone using blue inhaler - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
 

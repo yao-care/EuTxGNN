@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="Hydrochlorothiazide 有什麼相關新聞？">
-<strong>Hydrochlorothiazide</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Hydrochlorothiazide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/hydrochlorothiazide/
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（23 則）
+
+### [Cancer du poumon : le grand dépistage démarre dans ces cinq régions](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+
+---
+
+### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+
+---
+
+### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+---
 
 ### [Die neuesten Studien zu Brustkrebs, Blasenkrebs und Prostatakrebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxObW5oamVoUlV2bmc2akc2dXlGNjQ1SlREV3QtQnIzQ05NYlE4dzNGMzJzRVpIenZaVHZza0VKc2dEMzZTTlNyVXNuWXNFQ2dMZXZuZFBlVE8wVFE4V1lyOEo2ZW83dWxYd2NQZXRFRnhUZkM1bk9maXpsdU5JZ2FVUlFGT3U4QmZuWDREb29PNkNnSURSUkZ3Z3BDNFdlY2xLNFdVNWg3YlhubDh2SUhqNGFWekRJX1E?oc=5)
 
 2026-05-19 <span class="news-indication-tag">Krebs</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMitwFBVV95cUxObW5oamVoUlV2bmc2akc2dXlGNjQ1SlREV3QtQnIzQ05NYlE4dzNGMzJzRVpIenZaVHZza0VKc2dEMzZTTlNyVXNuWXNFQ2dMZXZuZFBlVE8wVFE4V1lyOEo2ZW83dWxYd2NQZXRFRnhUZkM1bk9maXpsdU5JZ2FVUlFGT3U4QmZuWDREb29PNkNnSURSUkZ3Z3BDNFdlY2xLNFdVNWg3YlhubDh2SUhqNGFWekRJX1E?oc=5)
+
+---
+
+### [Tumore al colon retto, ingannare il cancro per farlo autodistruggere: la scoperta di Candiolo - La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWdEWS1fSllMWFd0UE1SUFVrVWpiN0pMakk1NjI4Tm5TS2N2eS1ha1VFQmwzWmp4Q0JuYjFoekRpallWLWdXcjBUYkJIOG82Y3NZUVpsdGpMRHpCZm90LWJrSGpnc082Qzl5Y0NMRmdobHJmbjRfal91MjgzdWZpYVdPUVhJZVNUamFGTTVDTzZZNmRpaHZteGlDeGpMYXdvVXJVQURnTFZXTUVT0gGyAUFVX3lxTFBKcVdjOGppYzJya19MTmRTdnJHWEloTDZMNno0eUFwcGZYOExoOUV3NTBlQ1FxQ3dfRjA2SzVBOFFXYkhlVWM4TGk3NmluT09pRmlqVkd5VDYwZXFfS0pGSXVkYW1GMjF1eHN3eTBPMW9HRWlGa2RxVm9xeHM5bk4xNGVtZDNhWEFoTm9SbHgtLXRzOGVqYVNBdTNTR3lTTHgtMUVja2JVUVdSUnVuLW5TMEE?oc=5)
+
+2026-05-19 <span class="news-indication-tag">tumor</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWdEWS1fSllMWFd0UE1SUFVrVWpiN0pMakk1NjI4Tm5TS2N2eS1ha1VFQmwzWmp4Q0JuYjFoekRpallWLWdXcjBUYkJIOG82Y3NZUVpsdGpMRHpCZm90LWJrSGpnc082Qzl5Y0NMRmdobHJmbjRfal91MjgzdWZpYVdPUVhJZVNUamFGTTVDTzZZNmRpaHZteGlDeGpMYXdvVXJVQURnTFZXTUVT0gGyAUFVX3lxTFBKcVdjOGppYzJya19MTmRTdnJHWEloTDZMNno0eUFwcGZYOExoOUV3NTBlQ1FxQ3dfRjA2SzVBOFFXYkhlVWM4TGk3NmluT09pRmlqVkd5VDYwZXFfS0pGSXVkYW1GMjF1eHN3eTBPMW9HRWlGa2RxVm9xeHM5bk4xNGVtZDNhWEFoTm9SbHgtLXRzOGVqYVNBdTNTR3lTTHgtMUVja2JVUVdSUnVuLW5TMEE?oc=5)
 
 ---
 
@@ -78,6 +110,14 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [Les ultra-sons contre le cancer de la prostate : une technique désormais remboursée et possible à Clermont-Ferrand - La Montagne](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRkpUQzZEcnVfMEtWblFOSjV1c1hxMm1QOXpPcWxQcFEwM0ZnM1kzTnlKb1VJRmJnSTJTZ3J4c3dVTXVzYTkzdlcxVlZkUmhNcXFTYnc2RDZiNzFSZllTaDZFdnlQWk02NUY4T0lOUEZ4UjcwZFg3VHF1YW9aTkVLMExWUXo4Y3NLX2xRRjZvRkhnODR6OW9SelN6N0dDRURzWGVpLVlJZUdvVGIxaE5xUzgtbVE5M3dDeDM5Ukl5UTdMWkZrS2Q5N0NvLUxRSHpWQnZZUEd0anZ0bTFOSlQ1LXVyZHRJMm5oVjFhdzBBcXUxdllKUGh4d3RJSVNoLWhCdmJRdkRvU0xJTlhocTAw?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[La Montagne](https://news.google.com/rss/articles/CBMijwJBVV95cUxPRkpUQzZEcnVfMEtWblFOSjV1c1hxMm1QOXpPcWxQcFEwM0ZnM1kzTnlKb1VJRmJnSTJTZ3J4c3dVTXVzYTkzdlcxVlZkUmhNcXFTYnc2RDZiNzFSZllTaDZFdnlQWk02NUY4T0lOUEZ4UjcwZFg3VHF1YW9aTkVLMExWUXo4Y3NLX2xRRjZvRkhnODR6OW9SelN6N0dDRURzWGVpLVlJZUdvVGIxaE5xUzgtbVE5M3dDeDM5Ukl5UTdMWkZrS2Q5N0NvLUxRSHpWQnZZUEd0anZ0bTFOSlQ1LXVyZHRJMm5oVjFhdzBBcXUxdllKUGh4d3RJSVNoLWhCdmJRdkRvU0xJTlhocTAw?oc=5)
+
+---
+
 ### ['My partner died from skin cancer at only 36 and we want to save other lives' - Belfast Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEpNX3JYNkgyN1VVVGdweDBFNkJOTkRxdHJacFdESzZYU2M1VUdNQThNRkt2eHA1cTQySGhLNkIzWXlpZ19rWUxVYnc4UzlkQlZQanBaYlRMa1JZN1Q1cmRNQ1lKd0YyYlhIVjNDaWRSci1rS3pCSENpcFN3bWFWOE9najEyWjhYSmNoWlZFaVhSQQ?oc=5)
 
 2026-05-18 <span class="news-indication-tag">cancer</span>
@@ -91,14 +131,6 @@ permalink: /news/hydrochlorothiazide/
 2026-05-18 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDM5QXJocFRWR0k5QnpfajdCc091TWJEbVZ4dTFublBpcGNqSFpJeTdsbDRkNUlCTHNiSkRvRlA2eFZDNk1nd0cyNk9RQmZQZFpyeXM3MHB3UHY5em9pcHgwRmdJc0NpQTBfWDVZSmZvY1JJZFU3VlJ5U1V3emFUYnNULUE2X1JBRndOMkhNdlBPelBIN0JXNEc1YjJCdy1BUTB0LU9CZnQ?oc=5)
-
----
-
-### [Un nouveau « dépistage » du cancer du poumon démarre dans cinq régions - 20 Minutes](https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVg4WXpheC1SMzdvT3B0LU1kWXdRZHNOMnlocFpzUDFIVVI0WG9kNmFrc1M3VkNYWjZ4UWdGRHlHNWFvUnpSYnRpaVBjQlowU2ViYTYybV8xS0dmZ0k1MzNscVJnLXJ2V3cwLVcwZkVTcXRzLTRhYnN4blU4Z1NLUlNpeGhvN0ZUQUl1X3Z4eUlSaFU0Q2N2V1JHSXIyWnVib2dzQVJRR2ljRWhTWmc?oc=5)
-
-2026-05-18 <span class="news-indication-tag">cancer</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVg4WXpheC1SMzdvT3B0LU1kWXdRZHNOMnlocFpzUDFIVVI0WG9kNmFrc1M3VkNYWjZ4UWdGRHlHNWFvUnpSYnRpaVBjQlowU2ViYTYybV8xS0dmZ0k1MzNscVJnLXJ2V3cwLVcwZkVTcXRzLTRhYnN4blU4Z1NLUlNpeGhvN0ZUQUl1X3Z4eUlSaFU0Q2N2V1JHSXIyWnVib2dzQVJRR2ljRWhTWmc?oc=5)
 
 ---
 
@@ -171,14 +203,6 @@ permalink: /news/hydrochlorothiazide/
 2026-05-18 <span class="news-indication-tag">cancer</span>
 
 來源：[Nice-Matin](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmx4LUpxSnFUeThXRWdTVVIyaXFVaFBITmNkelhyOXF6MHNmaUd3RFZWcjFqamR6RHJqQVNWYlRtSmRscWdhcFk4d2tJcEdNaUZKWTVVQVBMYzJXUVpzQlVmc0xEWmJHZDVzNTR2anV4Z0pMMWhtOWpIS2VnVmtYUUZWOEg4RmZFVy13MEVPX2t5LWt1bTRMVmdvUEtEaVhZdkNXLVhvOWpLWm1nVWZDNUZnRzRuWnkwYWQzNko4ZGZoZlRjeHRxWHNKNVlHU2cwVC1ITDVtbw?oc=5)
-
----
-
-### [Mel Gibson: «Avevo tre amici malati di cancro, stadio 4. Ora sono guariti», e le vendite dei farmaci aumentano del 99.5%](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGk3dmFQQTI1SjBiclhHRXZlNlpLYVhORkplNHR0LVV1TGl1d2VVMXo1N0t3M1R1Z1ltY3Y0a2R6Q1hwNVhhZ0RRcDlFMHluWDUyMXB2NE55QVhRVXdhTTJMSDB5WWFhTXZTbzNPdkhnaW5GS1pUWjFPVU5YbWQtWHRKbkVkX0M2Nkh6ZkNGS2FWMXc3Z29uMmItVXFTUmpZTEE1VHRRYm9XRE9mbFVvdng2T24wakc3ZnJ5dDUwaG85VWJyVC04eHFNcE9Wd9IBuAFBVV95cUxNeWUzMXJYZEg1V0cwRUtxRjlBaG5NbFVmZTdDUy0zVG56amxnWHc4UGItZGhycncyNGhIU1FJQ2YzcW1fZUNlckRSMTNKUlgxeFFhNlktTEpMR0QwTkc4TlZEajdyenlvazdORnJvWGhZR3dDdDQ0VndHZVduNU5aQWlnWU94MFFZcGtpbzN1UmlOcm1fdXBHMy1RTnJpRzN0OUZmdF9XeHVfSDZxb1VrUVJYeFpRSURx?oc=5)
-
-2026-05-18 <span class="news-indication-tag">cancro</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGk3dmFQQTI1SjBiclhHRXZlNlpLYVhORkplNHR0LVV1TGl1d2VVMXo1N0t3M1R1Z1ltY3Y0a2R6Q1hwNVhhZ0RRcDlFMHluWDUyMXB2NE55QVhRVXdhTTJMSDB5WWFhTXZTbzNPdkhnaW5GS1pUWjFPVU5YbWQtWHRKbkVkX0M2Nkh6ZkNGS2FWMXc3Z29uMmItVXFTUmpZTEE1VHRRYm9XRE9mbFVvdng2T24wakc3ZnJ5dDUwaG85VWJyVC04eHFNcE9Wd9IBuAFBVV95cUxNeWUzMXJYZEg1V0cwRUtxRjlBaG5NbFVmZTdDUy0zVG56amxnWHc4UGItZGhycncyNGhIU1FJQ2YzcW1fZUNlckRSMTNKUlgxeFFhNlktTEpMR0QwTkc4TlZEajdyenlvazdORnJvWGhZR3dDdDQ0VndHZVduNU5aQWlnWU94MFFZcGtpbzN1UmlOcm1fdXBHMy1RTnJpRzN0OUZmdF9XeHVfSDZxb1VrUVJYeFpRSURx?oc=5)
 
 ---
 

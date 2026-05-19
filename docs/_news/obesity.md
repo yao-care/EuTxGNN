@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesità（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesità（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,6 +37,14 @@ permalink: /news/obesity/
 </div>
 
 ## 相關新聞（4 則）
+
+### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+
+2026-05-19
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+
+---
 
 ### [Lotta all'obesità, i nuovi farmaci ora guardano oltre la bilancia - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMinAFBVV95cUxPakZucHZSeGxaRi1xNHBSdER2aE9vVmI0ZU9wUXl4SThXRkx5YWJydFNGcEF6Y2Rxa0hWUXFQNUZPZ2h5Q3p5MXNhRFBGZHdaM0tGdVR6TUpBVWlTWGRGWko3Z21kQW1uM1l2Q0w0T3NxbElXU0oyVnBCWFdaeFJoRVpfM3lqRDFWcEd4dngzakdRMFRWeEtiSWY3NjY?oc=5)
 
@@ -59,14 +67,6 @@ permalink: /news/obesity/
 2026-05-18
 
 來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
-
----
-
-### [Is the Weight-Loss Drug Revolution Causing a Frailty Epidemic?](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5)
-
-2026-05-17
-
-來源：[WSJ](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5)
 
 ---
 

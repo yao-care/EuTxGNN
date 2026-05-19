@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
 
 ### [Tipps aus dem roten Bus: Wie sich Herzkrankheiten verhindern lassen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
 
 2026-05-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Nordkurier](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
+
+---
+
+### [Diabetes-Kids Virtuell: Webinar mit mylife Diabetes Care zum mylife Loop mit dem Dexcom G7](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
+
+---
+
+### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
 
 ---
 
@@ -86,19 +102,19 @@ permalink: /news/ustekinumab/
 
 ---
 
-### [Neue Studie: Diabetes-Blindheit durch Fettmolekül ausgelöst - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
-
----
-
 ### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
 
 2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
+
+---
+
+### [Gefahr für die Netzhaut: Wie ein kleines Fettmolekül bei Diabetes blind machen kann](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTJhdk5qa0FxY2JudkYtU3VhQmY2U19yNTUxanZwVjljV2lYUnFqN1l5akhDNk1XOS1wVGlfaURENzhtTUlOdlRVZjMxWFkzd084X2ZGZFhXbUZXVGNNbVJ3Wlc5RVktc25tZ3FsUG9FT29aQ1VDV3NsMjFlNEdMdGh5U2VfV3lXTDh0VXh0a1Q3RXlmcDFDcE1yU0pzTERkbG1rWG5nZF94Z3FFSXlETjR2WVBvR1k?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[HNA](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTJhdk5qa0FxY2JudkYtU3VhQmY2U19yNTUxanZwVjljV2lYUnFqN1l5akhDNk1XOS1wVGlfaURENzhtTUlOdlRVZjMxWFkzd084X2ZGZFhXbUZXVGNNbVJ3Wlc5RVktc25tZ3FsUG9FT29aQ1VDV3NsMjFlNEdMdGh5U2VfV3lXTDh0VXh0a1Q3RXlmcDFDcE1yU0pzTERkbG1rWG5nZF94Z3FFSXlETjR2WVBvR1k?oc=5)
 
 ---
 
