@@ -14,7 +14,7 @@ permalink: /news/crizotinib/
 ---
 
 <p class="key-answer" data-question="Crizotinib 有什麼相關新聞？">
-<strong>Crizotinib</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Crizotinib</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/crizotinib/
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（24 則）
+
+### [Neues Qualifizierungsangebot des Mitteldeutschen Krebszentrums bezieht Patientenperspektive bei der Krebsversorgung systematisch ein - Universitätsklinikum Leipzig](https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1pVZkNVb2Jud0dkTnNnOXBQdGRaQmRsejhwOEZ1VExoVjRubWppUHlzRzU2RnJmZDBMVGl3c2pMbHZ2UEZHVkdvLVlDbTFqaVhqWS1yUjZ6VEFockxwVkFwRE81VWVQajBXM1NpYmx2SWxpQ2w2NEhQdkloZWdvWA?oc=5)
+
+2026-05-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Universitätsklinikum Leipzig](https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1pVZkNVb2Jud0dkTnNnOXBQdGRaQmRsejhwOEZ1VExoVjRubWppUHlzRzU2RnJmZDBMVGl3c2pMbHZ2UEZHVkdvLVlDbTFqaVhqWS1yUjZ6VEFockxwVkFwRE81VWVQajBXM1NpYmx2SWxpQ2w2NEhQdkloZWdvWA?oc=5)
+
+---
 
 ### [Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
 
 2026-05-19 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
+
+---
+
+### [The surprising habits linked to dementia - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0FZb3hhWDNRWDkySGxQaGVNZm8wdkFPT21lZVlVSHRBdW5LZVRtdV9CbU9vLTB2N2J3UTBmYmJxWlBLMFJ4N0pmVlNlZDZNXzV6VzIxSXhLbWphLXZYc1FfRnJFZnpYalVxWXVHVEJGVDhSZk9ta0hudTVyd3FrYTI2SUJkRXdIcW1zSU00azh4Qi1meVUwMEFJbHcwb2ZENGY4SGJpZw?oc=5)
+
+2026-05-19 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0FZb3hhWDNRWDkySGxQaGVNZm8wdkFPT21lZVlVSHRBdW5LZVRtdV9CbU9vLTB2N2J3UTBmYmJxWlBLMFJ4N0pmVlNlZDZNXzV6VzIxSXhLbWphLXZYc1FfRnJFZnpYalVxWXVHVEJGVDhSZk9ta0hudTVyd3FrYTI2SUJkRXdIcW1zSU00azh4Qi1meVUwMEFJbHcwb2ZENGY4SGJpZw?oc=5)
+
+---
+
+### [Dementia diagnosis blood test research supported by Kent patient](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WY2g0UWNVOFBKVzM1dE5iZ0d3LXhGcl9nREQ2cjdOSGlGQmV5Q3JQd0NSYi1zWE0taGpBNDlRYTZ2ajEtZk9XbkNTZFRYdVB5Zl9fR0xhY1hfYTFV?oc=5)
+
+2026-05-19 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WY2g0UWNVOFBKVzM1dE5iZ0d3LXhGcl9nREQ2cjdOSGlGQmV5Q3JQd0NSYi1zWE0taGpBNDlRYTZ2ajEtZk9XbkNTZFRYdVB5Zl9fR0xhY1hfYTFV?oc=5)
 
 ---
 
@@ -70,6 +94,22 @@ permalink: /news/crizotinib/
 
 ---
 
+### ['My partner died from skin cancer at only 36 and we want to save other lives' - Belfast Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEpNX3JYNkgyN1VVVGdweDBFNkJOTkRxdHJacFdESzZYU2M1VUdNQThNRkt2eHA1cTQySGhLNkIzWXlpZ19rWUxVYnc4UzlkQlZQanBaYlRMa1JZN1Q1cmRNQ1lKd0YyYlhIVjNDaWRSci1rS3pCSENpcFN3bWFWOE9najEyWjhYSmNoWlZFaVhSQQ?oc=5)
+
+2026-05-18 <span class="news-indication-tag">cancer</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEpNX3JYNkgyN1VVVGdweDBFNkJOTkRxdHJacFdESzZYU2M1VUdNQThNRkt2eHA1cTQySGhLNkIzWXlpZ19rWUxVYnc4UzlkQlZQanBaYlRMa1JZN1Q1cmRNQ1lKd0YyYlhIVjNDaWRSci1rS3pCSENpcFN3bWFWOE9najEyWjhYSmNoWlZFaVhSQQ?oc=5)
+
+---
+
+### [What an AI mole-mapper told me about my skin cancer risk - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDM5QXJocFRWR0k5QnpfajdCc091TWJEbVZ4dTFublBpcGNqSFpJeTdsbDRkNUlCTHNiSkRvRlA2eFZDNk1nd0cyNk9RQmZQZFpyeXM3MHB3UHY5em9pcHgwRmdJc0NpQTBfWDVZSmZvY1JJZFU3VlJ5U1V3emFUYnNULUE2X1JBRndOMkhNdlBPelBIN0JXNEc1YjJCdy1BUTB0LU9CZnQ?oc=5)
+
+2026-05-18 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDM5QXJocFRWR0k5QnpfajdCc091TWJEbVZ4dTFublBpcGNqSFpJeTdsbDRkNUlCTHNiSkRvRlA2eFZDNk1nd0cyNk9RQmZQZFpyeXM3MHB3UHY5em9pcHgwRmdJc0NpQTBfWDVZSmZvY1JJZFU3VlJ5U1V3emFUYnNULUE2X1JBRndOMkhNdlBPelBIN0JXNEc1YjJCdy1BUTB0LU9CZnQ?oc=5)
+
+---
+
 ### [Un nouveau « dépistage » du cancer du poumon démarre dans cinq régions - 20 Minutes](https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVg4WXpheC1SMzdvT3B0LU1kWXdRZHNOMnlocFpzUDFIVVI0WG9kNmFrc1M3VkNYWjZ4UWdGRHlHNWFvUnpSYnRpaVBjQlowU2ViYTYybV8xS0dmZ0k1MzNscVJnLXJ2V3cwLVcwZkVTcXRzLTRhYnN4blU4Z1NLUlNpeGhvN0ZUQUl1X3Z4eUlSaFU0Q2N2V1JHSXIyWnVib2dzQVJRR2ljRWhTWmc?oc=5)
 
 2026-05-18 <span class="news-indication-tag">cancer</span>
@@ -78,19 +118,19 @@ permalink: /news/crizotinib/
 
 ---
 
+### [Lyon. Le centre Léon-Bérard expérimente un traitement inédit contre ce cancer rare et agressif](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTF85U2xWR2RwTDh6cFNRNGFTbDFUVFlrS2UwZjJDZGdxd2Q3NVFuMFQwTUtHRVVxQjk2azI0T0YxR0FCQUc3RElfSDZDQ2xvZHlkejVfZEdXOGNYX2U1TGRzZjdtYk5WQU9SaUEzdElFVV91b2FFZEVBY1kyMGo0YTlNSDJqclpkNTJ0cC0waHplSkxBNEptYTdCSU81OWcwdFJuVnVwOHRjWmltS2dTMTFka29YV2dLcmRZRnR3WTBnSFY0Ri11UG5nUFE0akc0b1J4bEcyYW04aGxvVnhoeUsyelgxdVppV0p3?oc=5)
+
+2026-05-18 <span class="news-indication-tag">cancer</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTF85U2xWR2RwTDh6cFNRNGFTbDFUVFlrS2UwZjJDZGdxd2Q3NVFuMFQwTUtHRVVxQjk2azI0T0YxR0FCQUc3RElfSDZDQ2xvZHlkejVfZEdXOGNYX2U1TGRzZjdtYk5WQU9SaUEzdElFVV91b2FFZEVBY1kyMGo0YTlNSDJqclpkNTJ0cC0waHplSkxBNEptYTdCSU81OWcwdFJuVnVwOHRjWmltS2dTMTFka29YV2dLcmRZRnR3WTBnSFY0Ri11UG5nUFE0akc0b1J4bEcyYW04aGxvVnhoeUsyelgxdVppV0p3?oc=5)
+
+---
+
 ### [Stiftung aus Bad Wörishofen setzt Ausrufezeichen im Kampf gegen Krebs: erhöhtes Preisgeld für innovative Forschung - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaXEzVU1URWJDa2pFVnBYZE1BZXZid3VZVzdTOEIxRUM4MjJmVUR3T3ZSNUI5blk1UHJscUR3Rk9uSDgzWVJ1MmkyamZJRVFBUkF6eFRRQXlCRUZBdUdxX05IQWpZTE1Ba0ZuMmctZzhwQm9LMUhxSFZWc1JldkdUd2R6YWNsSy1abWhKTXdYcW9MaWVvQlhCbW5yQVFOc3pSUWhSYVZrRnZLSDdvSUlEYmJMUUVERGVvYVcyRG5YT0ZZQTdQYlZlTS04RE9scHoyMHMtZW9CSDBtMjRD?oc=5)
 
 2026-05-18 <span class="news-indication-tag">Krebs</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaXEzVU1URWJDa2pFVnBYZE1BZXZid3VZVzdTOEIxRUM4MjJmVUR3T3ZSNUI5blk1UHJscUR3Rk9uSDgzWVJ1MmkyamZJRVFBUkF6eFRRQXlCRUZBdUdxX05IQWpZTE1Ba0ZuMmctZzhwQm9LMUhxSFZWc1JldkdUd2R6YWNsSy1abWhKTXdYcW9MaWVvQlhCbW5yQVFOc3pSUWhSYVZrRnZLSDdvSUlEYmJMUUVERGVvYVcyRG5YT0ZZQTdQYlZlTS04RE9scHoyMHMtZW9CSDBtMjRD?oc=5)
-
----
-
-### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
 
 ---
 
@@ -150,14 +190,6 @@ permalink: /news/crizotinib/
 
 ---
 
-### [Tumori colon-rettali precoci, un erbicida sotto la lente - RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3pCTGdZWjdvdFRuUFlWSjVMYTVrU3lnZGRJYzFjamxBSFNycV91cjZ2UzZEenIwQWFRNUxlVFhCTF9od2RYV3R4MUdUUlItUDRfV2JvVldoeVlIUTYzTHI4cnkwa0dDSm5YZWZyREUyN3hVSEcxMzY2SzZDNnhFNzRvdzRPRUVSVkM5NnZJdUtVeGJqenMyTndUeFJFVlVlV3l3dg?oc=5)
-
-2026-05-18 <span class="news-indication-tag">tumor</span>
-
-來源：[RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3pCTGdZWjdvdFRuUFlWSjVMYTVrU3lnZGRJYzFjamxBSFNycV91cjZ2UzZEenIwQWFRNUxlVFhCTF9od2RYV3R4MUdUUlItUDRfV2JvVldoeVlIUTYzTHI4cnkwa0dDSm5YZWZyREUyN3hVSEcxMzY2SzZDNnhFNzRvdzRPRUVSVkM5NnZJdUtVeGJqenMyTndUeFJFVlVlV3l3dg?oc=5)
-
----
-
 ### [Torino, tumore raro invade il cranio: 73enne salvata con una protesi 3D personalizzata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUhwUy1HcFl2MkZoTXlwdENwYXdkMm1zNVoxSmdkNk1pNmg4bUliOXVMVXNSQkFGdENZTUtManUxaXZLWTdwTUhpQno1MXRlZ1pHczBCMElHUG91bGpZaG43aWUzYmtfdjZLRWI3MU9LUWt4NjVQZGROQ2I1R2dEcnp5Q25TQ0ZTaWl6am43QjFQcU9nQVB0bFN1SFlXa0VvNzlNStIBaEFVX3lxTFBEMlVFZjk4VUx0Qk1sMzFmX2lCQnhOaXV2ZFk4VGtGTW5oUFAwYzF4NTJDUlpiWndZdVlsMVViQXNraUUwOVM2Y0pfb2Riam52T3ZBSGx2Z3UzeTl5MzZpeDNYSEE4d1Ru?oc=5)
 
 2026-05-18 <span class="news-indication-tag">tumor</span>
@@ -171,6 +203,14 @@ permalink: /news/crizotinib/
 2026-05-18 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYklvcDJzQXlrc1JRYm9SZmR4VlluUXROZGhlNFpibnBlNzUyQ2R3eTVOZ1dUelpVbUNFWVN0UzVBb3NtSm13eVU4MGFacnUxMk0tOVdnQWJlc1hLYnpMUjZZQmxIRjJkek05WEgtRlBYQ3ltY0lCTzZFMmk5bzdMOE1ld3RtaWFpd0VpeVNzdUhaTU9UYjBBRHlzWFp3MlVPdThROGhvZw?oc=5)
+
+---
+
+### [Krebs, Diabetes, Herzinfarkt: Die stille Gefahr chronischer Entzündungen wächst](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNlanM4THkwTXl3V2pQLTA5QjcyZjR3bTBhYmtrdVpNUldOVWNqZHdITFE2cy1GbG51TzhyQTlxaF9OdG1ReGM4QlVodGtzU3ZyNDhVMVFZeWh1RE04UFNWLVBfUjBWZjdEVF9vTVRXSzJXY1VxeTU2YTVtRVJidDBiQ21od1MxT0g5ek5Ra3N3ZGhNaUVvRkh2RUduZ2owMTRuYXNBMjlzdHU2TXI1Tks3Um40b19hdXdxRWNR?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[guetsel.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNlanM4THkwTXl3V2pQLTA5QjcyZjR3bTBhYmtrdVpNUldOVWNqZHdITFE2cy1GbG51TzhyQTlxaF9OdG1ReGM4QlVodGtzU3ZyNDhVMVFZeWh1RE04UFNWLVBfUjBWZjdEVF9vTVRXSzJXY1VxeTU2YTVtRVJidDBiQ21od1MxT0g5ek5Ra3N3ZGhNaUVvRkh2RUduZ2owMTRuYXNBMjlzdHU2TXI1Tks3Um40b19hdXdxRWNR?oc=5)
 
 ---
 
@@ -190,11 +230,19 @@ permalink: /news/crizotinib/
 
 ---
 
-### [Paziente con un tumore al cervello: "Aspetta un referto da due mesi. Così non può iniziare le terapie" - Il Resto del Carlino](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDVpdTd2WDdPUDl6M3BONlBXYkctWjlNSjhBUzdiOHdPMGxSWDRoYUl3ZkhPX0pyNE1fTHpFSWF5UDFINDZmT2ExaDlMNG5hSjM3eUJ5TXdXcVZyV3F0dlVDUlFrVENBa2R4bVRPSC1MV0NPdGNGdzUtYW5oYlNnQ05lNXNyV1VROEQ3Qw?oc=5)
+### [Tumori colon-rettali precoci, un erbicida sotto la lente - RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3pCTGdZWjdvdFRuUFlWSjVMYTVrU3lnZGRJYzFjamxBSFNycV91cjZ2UzZEenIwQWFRNUxlVFhCTF9od2RYV3R4MUdUUlItUDRfV2JvVldoeVlIUTYzTHI4cnkwa0dDSm5YZWZyREUyN3hVSEcxMzY2SzZDNnhFNzRvdzRPRUVSVkM5NnZJdUtVeGJqenMyTndUeFJFVlVlV3l3dg?oc=5)
 
 2026-05-17 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDVpdTd2WDdPUDl6M3BONlBXYkctWjlNSjhBUzdiOHdPMGxSWDRoYUl3ZkhPX0pyNE1fTHpFSWF5UDFINDZmT2ExaDlMNG5hSjM3eUJ5TXdXcVZyV3F0dlVDUlFrVENBa2R4bVRPSC1MV0NPdGNGdzUtYW5oYlNnQ05lNXNyV1VROEQ3Qw?oc=5)
+來源：[RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3pCTGdZWjdvdFRuUFlWSjVMYTVrU3lnZGRJYzFjamxBSFNycV91cjZ2UzZEenIwQWFRNUxlVFhCTF9od2RYV3R4MUdUUlItUDRfV2JvVldoeVlIUTYzTHI4cnkwa0dDSm5YZWZyREUyN3hVSEcxMzY2SzZDNnhFNzRvdzRPRUVSVkM5NnZJdUtVeGJqenMyTndUeFJFVlVlV3l3dg?oc=5)
+
+---
+
+### [Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5)
+
+2026-05-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5)
 
 ---
 

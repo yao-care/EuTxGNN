@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [José A. García Donaire, médico: “Es un mito lo de que la hipertensión es un asesino silencioso, la verdad es que da pistas, pero hay que saber identificarlas” - La Vanguardia](https://news.google.com/rss/articles/CBMiigJBVV95cUxOV245QkpBYTNqVWVJd25WeEZlcTF4bFZvN2FpamRvanY0MlNlbWh2bDJDMHFWU0h0RkVEV2prVFhQbHgwZmlzdS1USXBUeGYwd3BOdXBWQUJiUjUtc3NLNktjN0VPWVRkU1h1aUE2aHRZZTFweEhBdVloQ0RMVk1nOUtabHRDTEhaRV9yN0tnZXVMb2NPTktyLTYtc1JuMkJRVjJKRkxNS011S1JqVXI5aXBYOEwxblBDdFljX3ZlQlh1NkR0SmhyeHJBbG5NNUJDbkMycGhibjdGQXVOSUpmVThsc1ZsRWRqaU9WZEdmbkotZFhDOWlmbEQ4U2xOUFczbVFNUWt2Zi1Fd9IBjwJBVV95cUxQN3M5OE5Pd1BUQWpJOVdMaHUyLTRJY2tycEdtVW5ZcEQxX1lJMGhyWnVOd2lNVDVNdnBLYzNWaXVaM2JmZnVaZlFad3ctVGpQcHNja0w2RWJHMXNVWUp5MjF4X2tJQi1uWHZtSVdQeF82ckZad3ZJTktUVEN4ckRrRHI3dGpkSFNlbC1YR1hQU3VIbDU4NW1rdGw0RXZ0XzJJRTRLUEpjVXlGZmpKQ3p5dmFid1MzeG1FdE1NaFRhcHlJTkxIVi05UUotakdzUjVBUnI5U1lCNFAtcHNEVVN5ZnFsTUVONGJ5djR5QjNMUFF1aW10NU5fTXpENUJEa0JQVDhJa192dkJJRmVYQ2dV?oc=5)
-
-2026-05-18 <span class="news-indication-tag">hipertensión</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiigJBVV95cUxOV245QkpBYTNqVWVJd25WeEZlcTF4bFZvN2FpamRvanY0MlNlbWh2bDJDMHFWU0h0RkVEV2prVFhQbHgwZmlzdS1USXBUeGYwd3BOdXBWQUJiUjUtc3NLNktjN0VPWVRkU1h1aUE2aHRZZTFweEhBdVloQ0RMVk1nOUtabHRDTEhaRV9yN0tnZXVMb2NPTktyLTYtc1JuMkJRVjJKRkxNS011S1JqVXI5aXBYOEwxblBDdFljX3ZlQlh1NkR0SmhyeHJBbG5NNUJDbkMycGhibjdGQXVOSUpmVThsc1ZsRWRqaU9WZEdmbkotZFhDOWlmbEQ4U2xOUFczbVFNUWt2Zi1Fd9IBjwJBVV95cUxQN3M5OE5Pd1BUQWpJOVdMaHUyLTRJY2tycEdtVW5ZcEQxX1lJMGhyWnVOd2lNVDVNdnBLYzNWaXVaM2JmZnVaZlFad3ctVGpQcHNja0w2RWJHMXNVWUp5MjF4X2tJQi1uWHZtSVdQeF82ckZad3ZJTktUVEN4ckRrRHI3dGpkSFNlbC1YR1hQU3VIbDU4NW1rdGw0RXZ0XzJJRTRLUEpjVXlGZmpKQ3p5dmFid1MzeG1FdE1NaFRhcHlJTkxIVi05UUotakdzUjVBUnI5U1lCNFAtcHNEVVN5ZnFsTUVONGJ5djR5QjNMUFF1aW10NU5fTXpENUJEa0JQVDhJa192dkJJRmVYQ2dV?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Ipertensione, Iss: un problema per quasi la metà degli italiani](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
 
@@ -75,14 +67,6 @@ permalink: /news/dacomitinib-monohydrate/
 2026-05-17 <span class="news-indication-tag">arthrite</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
-
----
-
-### [Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
-
-2026-05-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/linagliptin/
 ---
 
 <p class="key-answer" data-question="Linagliptin 有什麼相關新聞？">
-<strong>Linagliptin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Linagliptin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/linagliptin/
 <p><a href="{{ '/drugs/linagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [NHS rollout of artificial pancreas narrows inequality in diabetes care - The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ3VrUDVQbnBlUXIzcDlSS2lDTERVd3FXdS1JLWtJMURuNm5lOW55ZGV1WFVrMm04SWVUZmZSNlJyYV9INHBSWGVmcHBFdHY4c1U1VmxzSGM1dmxEY25EbzVTMTdJYmdJbmlBWmZUSExmUmU1WDNJTkhmdmE0R3VFLWRIRzBsMnJFOWliblQ4d1hEYkN0dXN5Smkza2cyZUU4NUdWa3ZZRGZ0emhzdGRRb213?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ3VrUDVQbnBlUXIzcDlSS2lDTERVd3FXdS1JLWtJMURuNm5lOW55ZGV1WFVrMm04SWVUZmZSNlJyYV9INHBSWGVmcHBFdHY4c1U1VmxzSGM1dmxEY25EbzVTMTdJYmdJbmlBWmZUSExmUmU1WDNJTkhmdmE0R3VFLWRIRzBsMnJFOWliblQ4d1hEYkN0dXN5Smkza2cyZUU4NUdWa3ZZRGZ0emhzdGRRb213?oc=5)
+
+---
 
 ### [Neue Studie: Diabetes-Blindheit durch Fettmolekül ausgelöst - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
 
 2026-05-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
-
----
-
-### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
 
 ---
 
@@ -94,11 +94,27 @@ permalink: /news/linagliptin/
 
 ---
 
-### [Magen-OP kann Diabetes verbessern – auch Darmflora spielt mit - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+### [Krebs, Diabetes, Herzinfarkt: Die stille Gefahr chronischer Entzündungen wächst](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNlanM4THkwTXl3V2pQLTA5QjcyZjR3bTBhYmtrdVpNUldOVWNqZHdITFE2cy1GbG51TzhyQTlxaF9OdG1ReGM4QlVodGtzU3ZyNDhVMVFZeWh1RE04UFNWLVBfUjBWZjdEVF9vTVRXSzJXY1VxeTU2YTVtRVJidDBiQ21od1MxT0g5ek5Ra3N3ZGhNaUVvRkh2RUduZ2owMTRuYXNBMjlzdHU2TXI1Tks3Um40b19hdXdxRWNR?oc=5)
 
-2026-05-18 <span class="news-indication-tag">diabetes</span>
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhGLXBkeUV5aW1rVlViR0FsdExhaEhDVzV5RmdFQnRVVWthVEhDc25lQzg3YUhJbVNNQXpGZW5Bb052VzVqdVAtQm5mcVY1LTdZc2h5X0h0VFJTTkEzcVRUaU9XaDF2cGpqcVZvbW84TFZieU13QWRIRTJYTUxkSmtpTl9hYzRSSHB3dV9xRDU2NV9yemlpcFJmOA?oc=5)
+來源：[guetsel.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNlanM4THkwTXl3V2pQLTA5QjcyZjR3bTBhYmtrdVpNUldOVWNqZHdITFE2cy1GbG51TzhyQTlxaF9OdG1ReGM4QlVodGtzU3ZyNDhVMVFZeWh1RE04UFNWLVBfUjBWZjdEVF9vTVRXSzJXY1VxeTU2YTVtRVJidDBiQ21od1MxT0g5ek5Ra3N3ZGhNaUVvRkh2RUduZ2owMTRuYXNBMjlzdHU2TXI1Tks3Um40b19hdXdxRWNR?oc=5)
+
+---
+
+### [Dormire bene è importante ma quando è troppo meglio indagare - la Repubblica](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVZQcFVTM1RxZzBGMmZZTGVXT1NZcFBpSXRsRUtnNU85Q210Z3NTWmJFNzhpVVBWVTcySmNuYmlqZmRycVZUbGU3MlBaaFoySkdNQVE5NjlwbGF1S2laejU3MWd2SFE3NXg2b3FHYkdEN0gxNG56aDZzZV9YV2xkWmtKUkhRYTgzbWJ2NUNmSkxnVzVGajZEWXhfR0xiWW9FZ1A2RGJMdFhCZ3dsX0tLNlFuSkNBbkFTVk1MU9IBwgFBVV95cUxNVjZKa1RNNlFFRnV0VGVuN1l1Qmwzcm9zT3RSZWhDX0JrcWdXSGJWQVRNdG5sMFZwaGV0Y0I5SmdkNzFBcU52X1BqUGNnY2hwQ1E3bWlid2RfZzM3TzU1Y28yOWpXTUI5eGd3ZDhTNjd3VmN4RWZHTnFZRjRRR3FiMjNSZ3BjdXZnNm1zQ2Z2d083aVNwS19rRWZqaXBqVnhPMHl4SzJwMzJPWHhRTmk2Zll2WDc4OUt0aDVBUVMtdGpMZw?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVZQcFVTM1RxZzBGMmZZTGVXT1NZcFBpSXRsRUtnNU85Q210Z3NTWmJFNzhpVVBWVTcySmNuYmlqZmRycVZUbGU3MlBaaFoySkdNQVE5NjlwbGF1S2laejU3MWd2SFE3NXg2b3FHYkdEN0gxNG56aDZzZV9YV2xkWmtKUkhRYTgzbWJ2NUNmSkxnVzVGajZEWXhfR0xiWW9FZ1A2RGJMdFhCZ3dsX0tLNlFuSkNBbkFTVk1MU9IBwgFBVV95cUxNVjZKa1RNNlFFRnV0VGVuN1l1Qmwzcm9zT3RSZWhDX0JrcWdXSGJWQVRNdG5sMFZwaGV0Y0I5SmdkNzFBcU52X1BqUGNnY2hwQ1E3bWlid2RfZzM3TzU1Y28yOWpXTUI5eGd3ZDhTNjd3VmN4RWZHTnFZRjRRR3FiMjNSZ3BjdXZnNm1zQ2Z2d083aVNwS19rRWZqaXBqVnhPMHl4SzJwMzJPWHhRTmk2Zll2WDc4OUt0aDVBUVMtdGpMZw?oc=5)
+
+---
+
+### [Cannabis compound linked to weight loss is not THC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWtrbE1KSGFkZUJZQWV4V01SRm1Hc2x1UUpKM2NJSHlmTGRSME5HTUhhQU5YX0VhZkJndi1WdGxLemdLM2otU3JvaEZMak1KSUs4QTlkRU1RV2h3QmhUaGpiNUllZ093YXNKWWtyTm5yTTIzMjJ6Y1VucVdMUUFDbnpEVHc0WDRvZy1TM0pn?oc=5)
+
+2026-05-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWtrbE1KSGFkZUJZQWV4V01SRm1Hc2x1UUpKM2NJSHlmTGRSME5HTUhhQU5YX0VhZkJndi1WdGxLemdLM2otU3JvaEZMak1KSUs4QTlkRU1RV2h3QmhUaGpiNUllZ093YXNKWWtyTm5yTTIzMjJ6Y1VucVdMUUFDbnpEVHc0WDRvZy1TM0pn?oc=5)
 
 ---
 

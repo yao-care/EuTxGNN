@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [NHS Dr Ranj issues urgent asthma 'review' warning to anyone using blue inhaler - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/regadenoson/
 2026-05-18 <span class="news-indication-tag">asthma</span>
 
 來源：[boerse.de](https://news.google.com/rss/articles/CBMipwJBVV95cUxQc20tWm1rdTUzeHo2UXhEeTZjMklRLWxxTHcxU2drMmkyRnRWNTdBTEFfSVV0ekE5LWg2czRpX0RpTG9SMlMzSUhocEtyS3BMNm5CUjdyV3ptbU9kNHRzanVORFczX3NKZjNCa0VHcW9rMEFfQlF2NE1feVRiRFFjdjAzNTRaMVVDcExrdEJhLVZ2cEVuaEQxRVZqN0FvRTg3NnhqaTJyR2dqaU9tUFNVWGF5LUNfZjdQbEs2eEM1WGJQalVicmV2bDhnOFpmcWdQSVVFb2MzLUNxWjRhaUl4bjdkNzhUQzIxUkY1U0NxSXU0NXFqWDBnVm1ONHZnV2FuRERoYUZzSXpCUTdxWjFXUjg3ZzZ0OTRTZC1HWXhMcF9lVExuQVZF0gGsAkFVX3lxTFBZbW9UdVd5SHlaR1pKT0FpWEFWMVg4X3NtSG1BVmpzaWs5YVNJME9xcGlWMl9KdjRYcjEwdllfZ1pHU253Qzd6azc4UlVKSjF1a0hhRTB0N01FVGRXYWoyMU1NR3NtNndUb2gyQUw2cXRBTURvYjJzdElFZU9ZWVF4NkFRbWpJMXlTMmJzdUtkWlhLa3NuVTVOVlM1MnNoTFItZ0lYbFY0eE93WmtvcnR6bzFPd21Gd2V1cHRTWE1aVmJzdVFvQ1lDMDBnai1FUV9JUHM0cUtjMjBaUGNGc01iNFlKRHhqVjBRZ0Jtc21rVUgtMk9nZXlTaHZhd0FWUk9Yci1Ea0RqcnpHbkdwd2pZZmN0cFA1aXNDb1FYcDFPamZFTU1iNmJFY3Bmbg?oc=5)
-
----
-
-### [Emicrania, oltre ai farmaci servono ascolto e attenzione - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFWUFQ5ak9LM3lHdE1jd2EwNkhrTEowT1NUNDNKcmVlRGY0bERVZnpFQzhPNTJDeVV6dl9vLXhvaFJDVWlCd2xQOU0tTVBPT0V6VE9mZnBSQnhpa2cyYVBuMHo4NzdFYUpMSnh6TGIzV0d5R3llU1ZZVFppeER2SVAxOURVVGJUZGxjUDZ4ZXFKT0toXy1wV0ZHWFVPZXl0SlNvSUQ2b1BzRm16bktCVXVLODNYa2JsRFI2U1pUTGU?oc=5)
-
-2026-05-17 <span class="news-indication-tag">emicrania</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzFWUFQ5ak9LM3lHdE1jd2EwNkhrTEowT1NUNDNKcmVlRGY0bERVZnpFQzhPNTJDeVV6dl9vLXhvaFJDVWlCd2xQOU0tTVBPT0V6VE9mZnBSQnhpa2cyYVBuMHo4NzdFYUpMSnh6TGIzV0d5R3llU1ZZVFppeER2SVAxOURVVGJUZGxjUDZ4ZXFKT0toXy1wV0ZHWFVPZXl0SlNvSUQ2b1BzRm16bktCVXVLODNYa2JsRFI2U1pUTGU?oc=5)
 
 ---
 

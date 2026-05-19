@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "ipertensione（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "ipertensione（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# ipertensione（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
+<strong>ipertensione（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,29 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [José A. García Donaire, médico: “Es un mito lo de que la hipertensión es un asesino silencioso, la verdad es que da pistas, pero hay que saber identificarlas” - La Vanguardia](https://news.google.com/rss/articles/CBMiigJBVV95cUxOV245QkpBYTNqVWVJd25WeEZlcTF4bFZvN2FpamRvanY0MlNlbWh2bDJDMHFWU0h0RkVEV2prVFhQbHgwZmlzdS1USXBUeGYwd3BOdXBWQUJiUjUtc3NLNktjN0VPWVRkU1h1aUE2aHRZZTFweEhBdVloQ0RMVk1nOUtabHRDTEhaRV9yN0tnZXVMb2NPTktyLTYtc1JuMkJRVjJKRkxNS011S1JqVXI5aXBYOEwxblBDdFljX3ZlQlh1NkR0SmhyeHJBbG5NNUJDbkMycGhibjdGQXVOSUpmVThsc1ZsRWRqaU9WZEdmbkotZFhDOWlmbEQ4U2xOUFczbVFNUWt2Zi1Fd9IBjwJBVV95cUxQN3M5OE5Pd1BUQWpJOVdMaHUyLTRJY2tycEdtVW5ZcEQxX1lJMGhyWnVOd2lNVDVNdnBLYzNWaXVaM2JmZnVaZlFad3ctVGpQcHNja0w2RWJHMXNVWUp5MjF4X2tJQi1uWHZtSVdQeF82ckZad3ZJTktUVEN4ckRrRHI3dGpkSFNlbC1YR1hQU3VIbDU4NW1rdGw0RXZ0XzJJRTRLUEpjVXlGZmpKQ3p5dmFid1MzeG1FdE1NaFRhcHlJTkxIVi05UUotakdzUjVBUnI5U1lCNFAtcHNEVVN5ZnFsTUVONGJ5djR5QjNMUFF1aW10NU5fTXpENUJEa0JQVDhJa192dkJJRmVYQ2dV?oc=5)
-
-2026-05-18
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiigJBVV95cUxOV245QkpBYTNqVWVJd25WeEZlcTF4bFZvN2FpamRvanY0MlNlbWh2bDJDMHFWU0h0RkVEV2prVFhQbHgwZmlzdS1USXBUeGYwd3BOdXBWQUJiUjUtc3NLNktjN0VPWVRkU1h1aUE2aHRZZTFweEhBdVloQ0RMVk1nOUtabHRDTEhaRV9yN0tnZXVMb2NPTktyLTYtc1JuMkJRVjJKRkxNS011S1JqVXI5aXBYOEwxblBDdFljX3ZlQlh1NkR0SmhyeHJBbG5NNUJDbkMycGhibjdGQXVOSUpmVThsc1ZsRWRqaU9WZEdmbkotZFhDOWlmbEQ4U2xOUFczbVFNUWt2Zi1Fd9IBjwJBVV95cUxQN3M5OE5Pd1BUQWpJOVdMaHUyLTRJY2tycEdtVW5ZcEQxX1lJMGhyWnVOd2lNVDVNdnBLYzNWaXVaM2JmZnVaZlFad3ctVGpQcHNja0w2RWJHMXNVWUp5MjF4X2tJQi1uWHZtSVdQeF82ckZad3ZJTktUVEN4ckRrRHI3dGpkSFNlbC1YR1hQU3VIbDU4NW1rdGw0RXZ0XzJJRTRLUEpjVXlGZmpKQ3p5dmFid1MzeG1FdE1NaFRhcHlJTkxIVi05UUotakdzUjVBUnI5U1lCNFAtcHNEVVN5ZnFsTUVONGJ5djR5QjNMUFF1aW10NU5fTXpENUJEa0JQVDhJa192dkJJRmVYQ2dV?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Ipertensione, Iss: un problema per quasi la metà degli italiani](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
 
 2026-05-18
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
-
----
-
-### [Journée mondiale de l’hypertension : rencontre avec Tata, une patiente de 101 ans, choyée et bien soignée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
-
-2026-05-17
-
-來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaG95T2s2azZOajVyU1FVc2prdmloY0xiUE9wREpXRmJrSUF6ZmhMWFdzQXZ2TVlYVl9PelpGWEdsNXRfNkV5dzU4UnNMMEh0a2d1bkhlSUZLQ1dyMU5xTHVRdWQtRDRMVmt4ODFmV1VBRk55cU50MG5RRXB2RU5wYTR3ZFF3Rko3TFhxMEdPejlrWDc2V0xkemNzQmtOTGxreFhMX25udWppNzV1X056ZFpCc09HMGVWTllQbmxYSUlySF9oanZjU1hoRkpHbUkwUzROa3kza0l2SGJzNFp0dTRWRWYwdzl5UEE?oc=5)
 
 ---
 
