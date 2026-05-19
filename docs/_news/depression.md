@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Dormire bene è importante ma quando è troppo meglio indagare - la Repubblica](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVZQcFVTM1RxZzBGMmZZTGVXT1NZcFBpSXRsRUtnNU85Q210Z3NTWmJFNzhpVVBWVTcySmNuYmlqZmRycVZUbGU3MlBaaFoySkdNQVE5NjlwbGF1S2laejU3MWd2SFE3NXg2b3FHYkdEN0gxNG56aDZzZV9YV2xkWmtKUkhRYTgzbWJ2NUNmSkxnVzVGajZEWXhfR0xiWW9FZ1A2RGJMdFhCZ3dsX0tLNlFuSkNBbkFTVk1MU9IBwgFBVV95cUxNVjZKa1RNNlFFRnV0VGVuN1l1Qmwzcm9zT3RSZWhDX0JrcWdXSGJWQVRNdG5sMFZwaGV0Y0I5SmdkNzFBcU52X1BqUGNnY2hwQ1E3bWlid2RfZzM3TzU1Y28yOWpXTUI5eGd3ZDhTNjd3VmN4RWZHTnFZRjRRR3FiMjNSZ3BjdXZnNm1zQ2Z2d083aVNwS19rRWZqaXBqVnhPMHl4SzJwMzJPWHhRTmk2Zll2WDc4OUt0aDVBUVMtdGpMZw?oc=5)
-
-2026-05-18
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVZQcFVTM1RxZzBGMmZZTGVXT1NZcFBpSXRsRUtnNU85Q210Z3NTWmJFNzhpVVBWVTcySmNuYmlqZmRycVZUbGU3MlBaaFoySkdNQVE5NjlwbGF1S2laejU3MWd2SFE3NXg2b3FHYkdEN0gxNG56aDZzZV9YV2xkWmtKUkhRYTgzbWJ2NUNmSkxnVzVGajZEWXhfR0xiWW9FZ1A2RGJMdFhCZ3dsX0tLNlFuSkNBbkFTVk1MU9IBwgFBVV95cUxNVjZKa1RNNlFFRnV0VGVuN1l1Qmwzcm9zT3RSZWhDX0JrcWdXSGJWQVRNdG5sMFZwaGV0Y0I5SmdkNzFBcU52X1BqUGNnY2hwQ1E3bWlid2RfZzM3TzU1Y28yOWpXTUI5eGd3ZDhTNjd3VmN4RWZHTnFZRjRRR3FiMjNSZ3BjdXZnNm1zQ2Z2d083aVNwS19rRWZqaXBqVnhPMHl4SzJwMzJPWHhRTmk2Zll2WDc4OUt0aDVBUVMtdGpMZw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Depressionen: Personalisierte Therapie schlägt Standardversorgung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWM2Y0dDaDlqN0V3X3M1X2FVSGJKamhZcVVDcGdQRmlwd1FnZ0tadmFTb3pqbGNnc1NOdllJdndyZzNDa08xd3R1TFhnT2EyUzJuUm0xRlZaUFl1UkU4aVlyX1ZONC04Z01NT2k0Z1lnYVlLOWJLN2hzTTRLTXRoWnA2Ti1vakxJVk8wMjhOUC1SM1Z6dndLZk1kNE9EXzVYa2psNTJkYWZTQnlPY25NUEdB?oc=5)
 

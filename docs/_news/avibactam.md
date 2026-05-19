@@ -14,7 +14,7 @@ permalink: /news/avibactam/
 ---
 
 <p class="key-answer" data-question="Avibactam 有什麼相關新聞？">
-<strong>Avibactam</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Avibactam</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/avibactam/
 <p><a href="{{ '/drugs/avibactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（18 則）
 
-### [Neues Qualifizierungsangebot des Mitteldeutschen Krebszentrums bezieht Patientenperspektive bei der Krebsversorgung systematisch ein - Universitätsklinikum Leipzig](https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1pVZkNVb2Jud0dkTnNnOXBQdGRaQmRsejhwOEZ1VExoVjRubWppUHlzRzU2RnJmZDBMVGl3c2pMbHZ2UEZHVkdvLVlDbTFqaVhqWS1yUjZ6VEFockxwVkFwRE81VWVQajBXM1NpYmx2SWxpQ2w2NEhQdkloZWdvWA?oc=5)
-
-2026-05-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[Universitätsklinikum Leipzig](https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1pVZkNVb2Jud0dkTnNnOXBQdGRaQmRsejhwOEZ1VExoVjRubWppUHlzRzU2RnJmZDBMVGl3c2pMbHZ2UEZHVkdvLVlDbTFqaVhqWS1yUjZ6VEFockxwVkFwRE81VWVQajBXM1NpYmx2SWxpQ2w2NEhQdkloZWdvWA?oc=5)
-
----
-
-### [Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
+### [Die neuesten Studien zu Brustkrebs, Blasenkrebs und Prostatakrebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxObW5oamVoUlV2bmc2akc2dXlGNjQ1SlREV3QtQnIzQ05NYlE4dzNGMzJzRVpIenZaVHZza0VKc2dEMzZTTlNyVXNuWXNFQ2dMZXZuZFBlVE8wVFE4V1lyOEo2ZW83dWxYd2NQZXRFRnhUZkM1bk9maXpsdU5JZ2FVUlFGT3U4QmZuWDREb29PNkNnSURSUkZ3Z3BDNFdlY2xLNFdVNWg3YlhubDh2SUhqNGFWekRJX1E?oc=5)
 
 2026-05-19 <span class="news-indication-tag">Krebs</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMitwFBVV95cUxObW5oamVoUlV2bmc2akc2dXlGNjQ1SlREV3QtQnIzQ05NYlE4dzNGMzJzRVpIenZaVHZza0VKc2dEMzZTTlNyVXNuWXNFQ2dMZXZuZFBlVE8wVFE4V1lyOEo2ZW83dWxYd2NQZXRFRnhUZkM1bk9maXpsdU5JZ2FVUlFGT3U4QmZuWDREb29PNkNnSURSUkZ3Z3BDNFdlY2xLNFdVNWg3YlhubDh2SUhqNGFWekRJX1E?oc=5)
 
 ---
 
-### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+### [Früher Darmkrebs: Studien identifizieren wichtige Risikofaktoren](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFhuS3J3ZFhuX0FRcWh1OENJVy0td0M5alhzSmN2WDJQelBDVThWS3o4SkNuS0VXMkIxakszNmZSSEhVcHdGS2N5d0dkeFN3MUtkSjhXdU4wa3pteTdYTFdFSFJmQV92T3A1ek1UR3Q0NXd5YmtoSmNIQ1lCb3hsSURJeVgxX015eTFjXzRqVUxVbWo4MXhuTncwM3VMNzQ4ZExLbnBfTjZyYVU5QzczT0tR?oc=5)
 
-2026-05-19 <span class="news-indication-tag">tumor</span>
+2026-05-19 <span class="news-indication-tag">Krebs</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFhuS3J3ZFhuX0FRcWh1OENJVy0td0M5alhzSmN2WDJQelBDVThWS3o4SkNuS0VXMkIxakszNmZSSEhVcHdGS2N5d0dkeFN3MUtkSjhXdU4wa3pteTdYTFdFSFJmQV92T3A1ek1UR3Q0NXd5YmtoSmNIQ1lCb3hsSURJeVgxX015eTFjXzRqVUxVbWo4MXhuTncwM3VMNzQ4ZExLbnBfTjZyYVU5QzczT0tR?oc=5)
+
+---
+
+### [Neues Qualifizierungsangebot des Mitteldeutschen Krebszentrums bezieht Patientenperspektive bei der Krebsversorgung systematisch ein, Universitätsklinikum Leipzig AöR, Story](https://news.google.com/rss/articles/CBMitgJBVV95cUxPRWdETGNfZXg2c0hldHU3R3VWTk5ldWhGSmt3SmZVYVF4SEdUb2pHSEctM00ydDl2MjRoR0NNa3Z3c21ReU00QU1sMUZuaWRFVTZMLTJXWUJwbTVhdGlMUmZWT3lsN2szNXI1QkU0ZkIxRUh4LUZWUnlIdTZXeWx0QnN3aVBFclA1Qk9XRkRJNjc0WUJsNWplSWprNmI0R21xNHJ6Q0NxcDMtblNiNUZuNjhXMlBsZm5EUE1SYmFpMXR0aVFGdUoyNUJmMEZ1Y2x6ZF94SzdMNnhNNWxMVjg4bjFja21zcUtMUWFtbUt1YmQ0d3Q0NzF2ZkZuRWZ3dGV3b3dtTUk2NHRqTldjN2VERER3YWQ2N0VMUzY0NGVaTDU4RTlqWVNYZFN0LU1ueDV6NTYyWElB?oc=5)
+
+2026-05-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMitgJBVV95cUxPRWdETGNfZXg2c0hldHU3R3VWTk5ldWhGSmt3SmZVYVF4SEdUb2pHSEctM00ydDl2MjRoR0NNa3Z3c21ReU00QU1sMUZuaWRFVTZMLTJXWUJwbTVhdGlMUmZWT3lsN2szNXI1QkU0ZkIxRUh4LUZWUnlIdTZXeWx0QnN3aVBFclA1Qk9XRkRJNjc0WUJsNWplSWprNmI0R21xNHJ6Q0NxcDMtblNiNUZuNjhXMlBsZm5EUE1SYmFpMXR0aVFGdUoyNUJmMEZ1Y2x6ZF94SzdMNnhNNWxMVjg4bjFja21zcUtMUWFtbUt1YmQ0d3Q0NzF2ZkZuRWZ3dGV3b3dtTUk2NHRqTldjN2VERER3YWQ2N0VMUzY0NGVaTDU4RTlqWVNYZFN0LU1ueDV6NTYyWElB?oc=5)
 
 ---
 
@@ -118,6 +118,14 @@ permalink: /news/avibactam/
 
 ---
 
+### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
+
+---
+
 ### [„Verhindern, dass Tumore wiederkommen“ - Welt der Physik](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG40NkhrRmNRT01WQ2ZVOEpsWkd2WG1vcUZnMFFBVE9xTHlCTmxJOGhPdmNLc0otZklQQzhHZG05RVdqLWQtV090d080bWJ3MFhZclJWUDZ5UjdpVGtrV08wbTEtLWtDcEg4dTZhQXhFWWtMTWNRTG1jNXhKLTFuWm9tMmJlSlFmY3NXdE1rOWJ4YmU2NS1j?oc=5)
 
 2026-05-18 <span class="news-indication-tag">tumor</span>
@@ -139,14 +147,6 @@ permalink: /news/avibactam/
 2026-05-18 <span class="news-indication-tag">Krebs</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDhIUmZuVmRRQmdJVGxlM1N6Ul9XNFNqWDNMdGxQRUVTLVhjWlhjYlNhVV9ZMV9Jek94YlVLVV95Unlia0xmRHhCVFBoSHZIaXhIT2dCUVdsVGx1Q0MwTkFaU2FUUUFSeUVMYldsS1BDLWJ3elZTak53cFJKb2VuV2VrNWJTNm55Ul9qSEFxaGdtZmJTM2FyNzRHQTVxRGxySXBlTA?oc=5)
-
----
-
-### [Cancer, diabète, cœur : comment la multi-omique permet de prédire 17 maladies avant même les premiers symptômes](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDg0b1EwdjdNTHQxMXcxWDRTRGpSTE9XdGJMSGJCUURVTGZjQllaZ3oyQTY4NGF2Q1lmcjRKN1pNWC04cDZsWmZGZ04zNFpLTC1aY29ObUhqN3NOSWQ4a0p1NFkyV1RJOTVSRXFYbmhlSEd1U29TNVJRWDRGbzFaYjVVVHRKZ3E4MG45eC0yZzVMT0JKNlZsSE1BQ0RLWml1TmZtdUZaN0p4dkRBZHdqRGYwMXJCNXRBaHRwUlQxdXFuMDFwYmpqa3g0dlc?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDg0b1EwdjdNTHQxMXcxWDRTRGpSTE9XdGJMSGJCUURVTGZjQllaZ3oyQTY4NGF2Q1lmcjRKN1pNWC04cDZsWmZGZ04zNFpLTC1aY29ObUhqN3NOSWQ4a0p1NFkyV1RJOTVSRXFYbmhlSEd1U29TNVJRWDRGbzFaYjVVVHRKZ3E4MG45eC0yZzVMT0JKNlZsSE1BQ0RLWml1TmZtdUZaN0p4dkRBZHdqRGYwMXJCNXRBaHRwUlQxdXFuMDFwYmpqa3g0dlc?oc=5)
 
 ---
 
@@ -182,14 +182,6 @@ permalink: /news/avibactam/
 
 ---
 
-### [Krebs, Diabetes, Herzinfarkt: Die stille Gefahr chronischer Entzündungen wächst](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNlanM4THkwTXl3V2pQLTA5QjcyZjR3bTBhYmtrdVpNUldOVWNqZHdITFE2cy1GbG51TzhyQTlxaF9OdG1ReGM4QlVodGtzU3ZyNDhVMVFZeWh1RE04UFNWLVBfUjBWZjdEVF9vTVRXSzJXY1VxeTU2YTVtRVJidDBiQ21od1MxT0g5ek5Ra3N3ZGhNaUVvRkh2RUduZ2owMTRuYXNBMjlzdHU2TXI1Tks3Um40b19hdXdxRWNR?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[guetsel.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNlanM4THkwTXl3V2pQLTA5QjcyZjR3bTBhYmtrdVpNUldOVWNqZHdITFE2cy1GbG51TzhyQTlxaF9OdG1ReGM4QlVodGtzU3ZyNDhVMVFZeWh1RE04UFNWLVBfUjBWZjdEVF9vTVRXSzJXY1VxeTU2YTVtRVJidDBiQ21od1MxT0g5ek5Ra3N3ZGhNaUVvRkh2RUduZ2owMTRuYXNBMjlzdHU2TXI1Tks3Um40b19hdXdxRWNR?oc=5)
-
----
-
 ### [Tumori, quando l'immunoterapia può essere somministrata in pochi minuti sottocute: i vantaggi per i pazienti e per il Ssn - Corriere della Sera](https://news.google.com/rss/articles/CBMixgJBVV95cUxNUUE1WWI0WkFtYXhnWW5xak1oRk4wcEpEcjY5WWdjcDM5QTR5dUJ5X3pqRTdBVEFkRklYSXNYVzUzVk9laUNjNWtYcVZfelFsZDZxRkRickIxWkxna3E5dHZtYmJTZWcwTEFaQmpWTy16eGxvaFcwOG1oX0F0UjFzTTh5YUs1Ul9YUmNGVGMtbHlwZGFhLVdTUTBZTTl6V01HcWYzMURRdmdjb3VpSDVtZVFpTHpGRDdtUjllTmpMZWpQRU00Q1h3LWxwaHYzdEs1QUNiQmJTUFlMd2VLeUhTVFcxZzFuU2d6UjRVSkdySktzSVpqbDlfbk5wcFdqNlM5T0pFMVc4UjRYcWNWWUpSRGdyZ3NVUXJtSUkxdEhHd29HX2E3dzR0enVYWlZwMlp5QTdKSHlGX1hlcm5nNjd6akR4MmFSUdIBywJBVV95cUxPN1JuYlotdmZGcjZEdjlIOS1kMDVQcUN6enNVUEdwOXRkSExGQi1GbTlGaXJVTVY5clJxNmxCdFZtSFBkZHEtNkM5OU9JVkhNVm1fZFdxZExoaXRSMURiLU5ybTcxSlN4dWx1YWR0anRkQ3k2cEgyQkdIcEMxTDV0cFEwVXhOOFYzZjV4MHlYZ1VBZVloT3JRYTJPZkxKWnFhUEhvVVdZSUhmdVVpcmpqbWJ4djdteFA2WkNQekpoRUtYM21TY1g5WDE4YTU1U2FmMVF2OVR6YlU0WW4tRkUxWGU5Z2lWbE1ualo1dXpjUG12OXJhLWxibndhNjNjcEtUWEoxSmlRQUNPNHlibi1IRThpSWR3azhULXVZWm5nUDVGNm1nQmRGSzZhY0hnX2tPOUw3RXdIQWh0Ym9hbjFKNUhibXdNa0xQYlA4?oc=5)
 
 2026-05-18 <span class="news-indication-tag">tumor</span>
@@ -203,14 +195,6 @@ permalink: /news/avibactam/
 2026-05-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Kurier](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1FCMjJ1VXdWeUhkSUVYbnRxWkc5b090YWlJaV80ZnFjV0tmSTVuMHZETjNiZWJpdW1fMTk0Q19fR2luT2xiYmczRjhqT204OFZMd3prWW9NRktHNXdfZzhMcV9wcXJWcHlZUmlua1RETXIxNzk1Q1pLdEdIR3FOeUZ6NThrWjNLa05fbmFvUjl1RXE2ZlVwbnhGeXJ2cUlOczdUR0ltYm8?oc=5)
-
----
-
-### [Tumori colon-rettali precoci, un erbicida sotto la lente - RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3pCTGdZWjdvdFRuUFlWSjVMYTVrU3lnZGRJYzFjamxBSFNycV91cjZ2UzZEenIwQWFRNUxlVFhCTF9od2RYV3R4MUdUUlItUDRfV2JvVldoeVlIUTYzTHI4cnkwa0dDSm5YZWZyREUyN3hVSEcxMzY2SzZDNnhFNzRvdzRPRUVSVkM5NnZJdUtVeGJqenMyTndUeFJFVlVlV3l3dg?oc=5)
-
-2026-05-17 <span class="news-indication-tag">tumor</span>
-
-來源：[RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3pCTGdZWjdvdFRuUFlWSjVMYTVrU3lnZGRJYzFjamxBSFNycV91cjZ2UzZEenIwQWFRNUxlVFhCTF9od2RYV3R4MUdUUlItUDRfV2JvVldoeVlIUTYzTHI4cnkwa0dDSm5YZWZyREUyN3hVSEcxMzY2SzZDNnhFNzRvdzRPRUVSVkM5NnZJdUtVeGJqenMyTndUeFJFVlVlV3l3dg?oc=5)
 
 ---
 

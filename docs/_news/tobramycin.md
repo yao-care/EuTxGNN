@@ -14,7 +14,7 @@ permalink: /news/tobramycin/
 ---
 
 <p class="key-answer" data-question="Tobramycin 有什麼相關新聞？">
-<strong>Tobramycin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tobramycin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tobramycin/
 <p><a href="{{ '/drugs/tobramycin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [PCOS heißt jetzt PMOS - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
+
+2026-05-18 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

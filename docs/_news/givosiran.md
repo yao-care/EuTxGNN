@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Deutsche Leberstiftung erinnert vor dem Start der Urlaubssaison: Hepatitis-Impfung ist wichtiger Reiseschutz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE16S3VhSURQbjZhNUN6Q25xcWdScnZKQjRvUVJ1RVZIMThndUZWdVN1UThhdEZkbk5WV0xwYmlPYU11WEswTnBoSWVLYw?oc=5)
+
+2026-05-19 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE16S3VhSURQbjZhNUN6Q25xcWdScnZKQjRvUVJ1RVZIMThndUZWdVN1UThhdEZkbk5WV0xwYmlPYU11WEswTnBoSWVLYw?oc=5)
+
+---
 
 ### [Ipertensione, Iss: un problema per quasi la metà degli italiani](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
 

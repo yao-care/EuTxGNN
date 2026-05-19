@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Malattie infiammatorie croniche intestinali in aumento: sempre più giovani seguiti a Crema - La Provincia di Cremona e Crema](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY3VEbUk5SjVuMjBnZi0zYUZ5RTBoVGZRUWZoWTN1ODJfZVZGNXFYaUthQVJXUHd0Z3FBS29VcXVFZXp2M216NkljMlRkMUpoSDBLeTliVGo1Mnh0a2stTFhtcmsyVTJSYWl3dWhuWk9rQTJ0d1c2RFA4bkl2eVhOMDFvUzRDbHUtTzZsY0d1T2VBSUNnNlllZ2ZadGY2U1VxVzhxT2JxS19YOVZhX0JxMm1qYnNzbUxNSGRoU3JuNVZGM3FyVkY3LWY3bnhTM2JKQ0dHMnB1SHVuN3YtQ1E?oc=5)
-
-2026-05-18 <span class="news-indication-tag">colite ulcerosa</span>
-
-來源：[La Provincia di Cremona e Crema](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY3VEbUk5SjVuMjBnZi0zYUZ5RTBoVGZRUWZoWTN1ODJfZVZGNXFYaUthQVJXUHd0Z3FBS29VcXVFZXp2M216NkljMlRkMUpoSDBLeTliVGo1Mnh0a2stTFhtcmsyVTJSYWl3dWhuWk9rQTJ0d1c2RFA4bkl2eVhOMDFvUzRDbHUtTzZsY0d1T2VBSUNnNlllZ2ZadGY2U1VxVzhxT2JxS19YOVZhX0JxMm1qYnNzbUxNSGRoU3JuNVZGM3FyVkY3LWY3bnhTM2JKQ0dHMnB1SHVuN3YtQ1E?oc=5)
-
----
-
-### [Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ?](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
-
-2026-05-17 <span class="news-indication-tag">arthrite</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

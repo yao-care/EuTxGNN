@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Netupitant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Ipertensione, Iss: un problema per quasi la metà degli italiani](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
 
 2026-05-18 <span class="news-indication-tag">ipertensione</span>
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
+
+---
+
+### [PCOS heißt jetzt PMOS - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
+
+2026-05-18 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
 
 ---
 

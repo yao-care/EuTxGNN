@@ -3,7 +3,7 @@ layout: default
 title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,29 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Lotta all'obesità, i nuovi farmaci ora guardano oltre la bilancia - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMinAFBVV95cUxPakZucHZSeGxaRi1xNHBSdER2aE9vVmI0ZU9wUXl4SThXRkx5YWJydFNGcEF6Y2Rxa0hWUXFQNUZPZ2h5Q3p5MXNhRFBGZHdaM0tGdVR6TUpBVWlTWGRGWko3Z21kQW1uM1l2Q0w0T3NxbElXU0oyVnBCWFdaeFJoRVpfM3lqRDFWcEd4dngzakdRMFRWeEtiSWY3NjY?oc=5)
+
+2026-05-19
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMinAFBVV95cUxPakZucHZSeGxaRi1xNHBSdER2aE9vVmI0ZU9wUXl4SThXRkx5YWJydFNGcEF6Y2Rxa0hWUXFQNUZPZ2h5Q3p5MXNhRFBGZHdaM0tGdVR6TUpBVWlTWGRGWko3Z21kQW1uM1l2Q0w0T3NxbElXU0oyVnBCWFdaeFJoRVpfM3lqRDFWcEd4dngzakdRMFRWeEtiSWY3NjY?oc=5)
+
+---
+
+### [Cannabis Linked to Lower Weight And Reduced Diabetes Risk in Mouse Study](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5)
+
+2026-05-19
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5)
+
+---
 
 ### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
 
 2026-05-18
 
 來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
-
----
-
-### [Cannabis compound linked to weight loss is not THC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWtrbE1KSGFkZUJZQWV4V01SRm1Hc2x1UUpKM2NJSHlmTGRSME5HTUhhQU5YX0VhZkJndi1WdGxLemdLM2otU3JvaEZMak1KSUs4QTlkRU1RV2h3QmhUaGpiNUllZ093YXNKWWtyTm5yTTIzMjJ6Y1VucVdMUUFDbnpEVHc0WDRvZy1TM0pn?oc=5)
-
-2026-05-17
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWtrbE1KSGFkZUJZQWV4V01SRm1Hc2x1UUpKM2NJSHlmTGRSME5HTUhhQU5YX0VhZkJndi1WdGxLemdLM2otU3JvaEZMak1KSUs4QTlkRU1RV2h3QmhUaGpiNUllZ093YXNKWWtyTm5yTTIzMjJ6Y1VucVdMUUFDbnpEVHc0WDRvZy1TM0pn?oc=5)
 
 ---
 

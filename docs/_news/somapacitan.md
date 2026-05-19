@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Tipps aus dem roten Bus: Wie sich Herzkrankheiten verhindern lassen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[Nordkurier](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
+
+---
 
 ### [NHS rollout of artificial pancreas narrows inequality in diabetes care - The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ3VrUDVQbnBlUXIzcDlSS2lDTERVd3FXdS1JLWtJMURuNm5lOW55ZGV1WFVrMm04SWVUZmZSNlJyYV9INHBSWGVmcHBFdHY4c1U1VmxzSGM1dmxEY25EbzVTMTdJYmdJbmlBWmZUSExmUmU1WDNJTkhmdmE0R3VFLWRIRzBsMnJFOWliblQ4d1hEYkN0dXN5Smkza2cyZUU4NUdWa3ZZRGZ0emhzdGRRb213?oc=5)
 
 2026-05-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ3VrUDVQbnBlUXIzcDlSS2lDTERVd3FXdS1JLWtJMURuNm5lOW55ZGV1WFVrMm04SWVUZmZSNlJyYV9INHBSWGVmcHBFdHY4c1U1VmxzSGM1dmxEY25EbzVTMTdJYmdJbmlBWmZUSExmUmU1WDNJTkhmdmE0R3VFLWRIRzBsMnJFOWliblQ4d1hEYkN0dXN5Smkza2cyZUU4NUdWa3ZZRGZ0emhzdGRRb213?oc=5)
+
+---
+
+### [Cannabis Linked to Lower Weight And Reduced Diabetes Risk in Mouse Study](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5)
+
+---
+
+### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+
+2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
 
 ---
 
@@ -70,11 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
 
-2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
 
 ---
 
@@ -94,43 +118,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Cancer, diabète, cœur : comment la multi-omique permet de prédire 17 maladies avant même les premiers symptômes](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDg0b1EwdjdNTHQxMXcxWDRTRGpSTE9XdGJMSGJCUURVTGZjQllaZ3oyQTY4NGF2Q1lmcjRKN1pNWC04cDZsWmZGZ04zNFpLTC1aY29ObUhqN3NOSWQ4a0p1NFkyV1RJOTVSRXFYbmhlSEd1U29TNVJRWDRGbzFaYjVVVHRKZ3E4MG45eC0yZzVMT0JKNlZsSE1BQ0RLWml1TmZtdUZaN0p4dkRBZHdqRGYwMXJCNXRBaHRwUlQxdXFuMDFwYmpqa3g0dlc?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDg0b1EwdjdNTHQxMXcxWDRTRGpSTE9XdGJMSGJCUURVTGZjQllaZ3oyQTY4NGF2Q1lmcjRKN1pNWC04cDZsWmZGZ04zNFpLTC1aY29ObUhqN3NOSWQ4a0p1NFkyV1RJOTVSRXFYbmhlSEd1U29TNVJRWDRGbzFaYjVVVHRKZ3E4MG45eC0yZzVMT0JKNlZsSE1BQ0RLWml1TmZtdUZaN0p4dkRBZHdqRGYwMXJCNXRBaHRwUlQxdXFuMDFwYmpqa3g0dlc?oc=5)
-
----
-
-### [Krebs, Diabetes, Herzinfarkt: Die stille Gefahr chronischer Entzündungen wächst](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNlanM4THkwTXl3V2pQLTA5QjcyZjR3bTBhYmtrdVpNUldOVWNqZHdITFE2cy1GbG51TzhyQTlxaF9OdG1ReGM4QlVodGtzU3ZyNDhVMVFZeWh1RE04UFNWLVBfUjBWZjdEVF9vTVRXSzJXY1VxeTU2YTVtRVJidDBiQ21od1MxT0g5ek5Ra3N3ZGhNaUVvRkh2RUduZ2owMTRuYXNBMjlzdHU2TXI1Tks3Um40b19hdXdxRWNR?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[guetsel.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNlanM4THkwTXl3V2pQLTA5QjcyZjR3bTBhYmtrdVpNUldOVWNqZHdITFE2cy1GbG51TzhyQTlxaF9OdG1ReGM4QlVodGtzU3ZyNDhVMVFZeWh1RE04UFNWLVBfUjBWZjdEVF9vTVRXSzJXY1VxeTU2YTVtRVJidDBiQ21od1MxT0g5ek5Ra3N3ZGhNaUVvRkh2RUduZ2owMTRuYXNBMjlzdHU2TXI1Tks3Um40b19hdXdxRWNR?oc=5)
-
----
-
-### [Dormire bene è importante ma quando è troppo meglio indagare - la Repubblica](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVZQcFVTM1RxZzBGMmZZTGVXT1NZcFBpSXRsRUtnNU85Q210Z3NTWmJFNzhpVVBWVTcySmNuYmlqZmRycVZUbGU3MlBaaFoySkdNQVE5NjlwbGF1S2laejU3MWd2SFE3NXg2b3FHYkdEN0gxNG56aDZzZV9YV2xkWmtKUkhRYTgzbWJ2NUNmSkxnVzVGajZEWXhfR0xiWW9FZ1A2RGJMdFhCZ3dsX0tLNlFuSkNBbkFTVk1MU9IBwgFBVV95cUxNVjZKa1RNNlFFRnV0VGVuN1l1Qmwzcm9zT3RSZWhDX0JrcWdXSGJWQVRNdG5sMFZwaGV0Y0I5SmdkNzFBcU52X1BqUGNnY2hwQ1E3bWlid2RfZzM3TzU1Y28yOWpXTUI5eGd3ZDhTNjd3VmN4RWZHTnFZRjRRR3FiMjNSZ3BjdXZnNm1zQ2Z2d083aVNwS19rRWZqaXBqVnhPMHl4SzJwMzJPWHhRTmk2Zll2WDc4OUt0aDVBUVMtdGpMZw?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVZQcFVTM1RxZzBGMmZZTGVXT1NZcFBpSXRsRUtnNU85Q210Z3NTWmJFNzhpVVBWVTcySmNuYmlqZmRycVZUbGU3MlBaaFoySkdNQVE5NjlwbGF1S2laejU3MWd2SFE3NXg2b3FHYkdEN0gxNG56aDZzZV9YV2xkWmtKUkhRYTgzbWJ2NUNmSkxnVzVGajZEWXhfR0xiWW9FZ1A2RGJMdFhCZ3dsX0tLNlFuSkNBbkFTVk1MU9IBwgFBVV95cUxNVjZKa1RNNlFFRnV0VGVuN1l1Qmwzcm9zT3RSZWhDX0JrcWdXSGJWQVRNdG5sMFZwaGV0Y0I5SmdkNzFBcU52X1BqUGNnY2hwQ1E3bWlid2RfZzM3TzU1Y28yOWpXTUI5eGd3ZDhTNjd3VmN4RWZHTnFZRjRRR3FiMjNSZ3BjdXZnNm1zQ2Z2d083aVNwS19rRWZqaXBqVnhPMHl4SzJwMzJPWHhRTmk2Zll2WDc4OUt0aDVBUVMtdGpMZw?oc=5)
-
----
-
-### [EQS-News: VARON unterstützt den Monat des Bewusstseins für Asthma durch die Förderung einer besseren Lungengesundheit und mehr Komfort beim Atmen im Alltag - boerse.de](https://news.google.com/rss/articles/CBMipwJBVV95cUxQc20tWm1rdTUzeHo2UXhEeTZjMklRLWxxTHcxU2drMmkyRnRWNTdBTEFfSVV0ekE5LWg2czRpX0RpTG9SMlMzSUhocEtyS3BMNm5CUjdyV3ptbU9kNHRzanVORFczX3NKZjNCa0VHcW9rMEFfQlF2NE1feVRiRFFjdjAzNTRaMVVDcExrdEJhLVZ2cEVuaEQxRVZqN0FvRTg3NnhqaTJyR2dqaU9tUFNVWGF5LUNfZjdQbEs2eEM1WGJQalVicmV2bDhnOFpmcWdQSVVFb2MzLUNxWjRhaUl4bjdkNzhUQzIxUkY1U0NxSXU0NXFqWDBnVm1ONHZnV2FuRERoYUZzSXpCUTdxWjFXUjg3ZzZ0OTRTZC1HWXhMcF9lVExuQVZF0gGsAkFVX3lxTFBZbW9UdVd5SHlaR1pKT0FpWEFWMVg4X3NtSG1BVmpzaWs5YVNJME9xcGlWMl9KdjRYcjEwdllfZ1pHU253Qzd6azc4UlVKSjF1a0hhRTB0N01FVGRXYWoyMU1NR3NtNndUb2gyQUw2cXRBTURvYjJzdElFZU9ZWVF4NkFRbWpJMXlTMmJzdUtkWlhLa3NuVTVOVlM1MnNoTFItZ0lYbFY0eE93WmtvcnR6bzFPd21Gd2V1cHRTWE1aVmJzdVFvQ1lDMDBnai1FUV9JUHM0cUtjMjBaUGNGc01iNFlKRHhqVjBRZ0Jtc21rVUgtMk9nZXlTaHZhd0FWUk9Yci1Ea0RqcnpHbkdwd2pZZmN0cFA1aXNDb1FYcDFPamZFTU1iNmJFY3Bmbg?oc=5)
+### [EQS-News: VARON unterstützt den Monat des Bewusstseins für Asthma durch die Förderung einer besseren Lungengesundheit und mehr Komfort beim Atmen im Alltag](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNZjNVejJva2dMbUNSb2NwaWxCR19URURJdnVBSnQyMktmbUlPSjBrREpfQUJoSEhreVlaOW9NdkxLdUNma3dnTUhPMHJzMzdlUWstZ25YWWlLeFNwUC0tRFByWm5qdHJSOV9XY19DOF9hX0VGUHp4dko0RFloUnhiTGpfa3NPTlhIR0YwUGxkUVdXZ3FIUFg0aHRYWWJ1N3BZNjVQVkJtMVlGamxtM3R4bjBMZl9YNEFJV01fQ3pYbXlQUWVqUUZQamd5allDUGVkYUlWVFBGeENkM2RzaS0xancya2YtZHk4aUpvRjNwY1VsTXZBS0VVSzB1TjhwejJwWU1LQU1WY2FFNXJPY21NaDZwNy1TNVZWamVOa3RtSkJ6U3FLbGdhaGJxX3JKVm1SS3QwcUpJelJTLThKYkRscw?oc=5)
 
 2026-05-18 <span class="news-indication-tag">asthma</span>
 
-來源：[boerse.de](https://news.google.com/rss/articles/CBMipwJBVV95cUxQc20tWm1rdTUzeHo2UXhEeTZjMklRLWxxTHcxU2drMmkyRnRWNTdBTEFfSVV0ekE5LWg2czRpX0RpTG9SMlMzSUhocEtyS3BMNm5CUjdyV3ptbU9kNHRzanVORFczX3NKZjNCa0VHcW9rMEFfQlF2NE1feVRiRFFjdjAzNTRaMVVDcExrdEJhLVZ2cEVuaEQxRVZqN0FvRTg3NnhqaTJyR2dqaU9tUFNVWGF5LUNfZjdQbEs2eEM1WGJQalVicmV2bDhnOFpmcWdQSVVFb2MzLUNxWjRhaUl4bjdkNzhUQzIxUkY1U0NxSXU0NXFqWDBnVm1ONHZnV2FuRERoYUZzSXpCUTdxWjFXUjg3ZzZ0OTRTZC1HWXhMcF9lVExuQVZF0gGsAkFVX3lxTFBZbW9UdVd5SHlaR1pKT0FpWEFWMVg4X3NtSG1BVmpzaWs5YVNJME9xcGlWMl9KdjRYcjEwdllfZ1pHU253Qzd6azc4UlVKSjF1a0hhRTB0N01FVGRXYWoyMU1NR3NtNndUb2gyQUw2cXRBTURvYjJzdElFZU9ZWVF4NkFRbWpJMXlTMmJzdUtkWlhLa3NuVTVOVlM1MnNoTFItZ0lYbFY0eE93WmtvcnR6bzFPd21Gd2V1cHRTWE1aVmJzdVFvQ1lDMDBnai1FUV9JUHM0cUtjMjBaUGNGc01iNFlKRHhqVjBRZ0Jtc21rVUgtMk9nZXlTaHZhd0FWUk9Yci1Ea0RqcnpHbkdwd2pZZmN0cFA1aXNDb1FYcDFPamZFTU1iNmJFY3Bmbg?oc=5)
-
----
-
-### [Cannabis compound linked to weight loss is not THC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWtrbE1KSGFkZUJZQWV4V01SRm1Hc2x1UUpKM2NJSHlmTGRSME5HTUhhQU5YX0VhZkJndi1WdGxLemdLM2otU3JvaEZMak1KSUs4QTlkRU1RV2h3QmhUaGpiNUllZ093YXNKWWtyTm5yTTIzMjJ6Y1VucVdMUUFDbnpEVHc0WDRvZy1TM0pn?oc=5)
-
-2026-05-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWtrbE1KSGFkZUJZQWV4V01SRm1Hc2x1UUpKM2NJSHlmTGRSME5HTUhhQU5YX0VhZkJndi1WdGxLemdLM2otU3JvaEZMak1KSUs4QTlkRU1RV2h3QmhUaGpiNUllZ093YXNKWWtyTm5yTTIzMjJ6Y1VucVdMUUFDbnpEVHc0WDRvZy1TM0pn?oc=5)
+來源：[BörsenNEWS.de](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNZjNVejJva2dMbUNSb2NwaWxCR19URURJdnVBSnQyMktmbUlPSjBrREpfQUJoSEhreVlaOW9NdkxLdUNma3dnTUhPMHJzMzdlUWstZ25YWWlLeFNwUC0tRFByWm5qdHJSOV9XY19DOF9hX0VGUHp4dko0RFloUnhiTGpfa3NPTlhIR0YwUGxkUVdXZ3FIUFg0aHRYWWJ1N3BZNjVQVkJtMVlGamxtM3R4bjBMZl9YNEFJV01fQ3pYbXlQUWVqUUZQamd5allDUGVkYUlWVFBGeENkM2RzaS0xancya2YtZHk4aUpvRjNwY1VsTXZBS0VVSzB1TjhwejJwWU1LQU1WY2FFNXJPY21NaDZwNy1TNVZWamVOa3RtSkJ6U3FLbGdhaGJxX3JKVm1SS3QwcUpJelJTLThKYkRscw?oc=5)
 
 ---
 

@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li>heart disease（96.3%）</li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -54,11 +54,11 @@ permalink: /news/abemaciclib/
 
 ## 相關新聞（1 則）
 
-### [Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ?](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+### [PCOS heißt jetzt PMOS - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
 
-2026-05-17 <span class="news-indication-tag">arthrite</span>
+2026-05-18 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [The surprising habits linked to dementia - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0FZb3hhWDNRWDkySGxQaGVNZm8wdkFPT21lZVlVSHRBdW5LZVRtdV9CbU9vLTB2N2J3UTBmYmJxWlBLMFJ4N0pmVlNlZDZNXzV6VzIxSXhLbWphLXZYc1FfRnJFZnpYalVxWXVHVEJGVDhSZk9ta0hudTVyd3FrYTI2SUJkRXdIcW1zSU00azh4Qi1meVUwMEFJbHcwb2ZENGY4SGJpZw?oc=5)
 
@@ -64,25 +64,9 @@ permalink: /news/entacapone/
 
 ### [Dementia diagnosis blood test research supported by Kent patient](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WY2g0UWNVOFBKVzM1dE5iZ0d3LXhGcl9nREQ2cjdOSGlGQmV5Q3JQd0NSYi1zWE0taGpBNDlRYTZ2ajEtZk9XbkNTZFRYdVB5Zl9fR0xhY1hfYTFV?oc=5)
 
-2026-05-19 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-05-19 <span class="news-indication-tag">dementia</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WY2g0UWNVOFBKVzM1dE5iZ0d3LXhGcl9nREQ2cjdOSGlGQmV5Q3JQd0NSYi1zWE0taGpBNDlRYTZ2ajEtZk9XbkNTZFRYdVB5Zl9fR0xhY1hfYTFV?oc=5)
-
----
-
-### [NHS patients wait three and a half years for dementia diagnosis - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYklvcDJzQXlrc1JRYm9SZmR4VlluUXROZGhlNFpibnBlNzUyQ2R3eTVOZ1dUelpVbUNFWVN0UzVBb3NtSm13eVU4MGFacnUxMk0tOVdnQWJlc1hLYnpMUjZZQmxIRjJkek05WEgtRlBYQ3ltY0lCTzZFMmk5bzdMOE1ld3RtaWFpd0VpeVNzdUhaTU9UYjBBRHlzWFp3MlVPdThROGhvZw?oc=5)
-
-2026-05-18 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYklvcDJzQXlrc1JRYm9SZmR4VlluUXROZGhlNFpibnBlNzUyQ2R3eTVOZ1dUelpVbUNFWVN0UzVBb3NtSm13eVU4MGFacnUxMk0tOVdnQWJlc1hLYnpMUjZZQmxIRjJkek05WEgtRlBYQ3ltY0lCTzZFMmk5bzdMOE1ld3RtaWFpd0VpeVNzdUhaTU9UYjBBRHlzWFp3MlVPdThROGhvZw?oc=5)
-
----
-
-### [Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5)
 
 ---
 

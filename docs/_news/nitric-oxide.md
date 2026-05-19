@@ -14,7 +14,7 @@ permalink: /news/nitric-oxide/
 ---
 
 <p class="key-answer" data-question="Nitric Oxide 有什麼相關新聞？">
-<strong>Nitric Oxide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nitric Oxide</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/nitric-oxide/
 <p><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（27 則）
 
-### [Fourth pupil contracts meningitis in Reading](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNRUtWMXRydVJXdFNkOGlOT2xHN3ZiVWpNVUpxTFRSZ19yYzJEYkFCUWlpbjJXZ2hkd19GYTQ5ZWloSEZDZThoYnBiQlBvc0xjUUZ5dkJHRlNfaFJo?oc=5)
+### [TV-Ärztin Julia Fischer über Demenz: "Noch immer zu angst- und schambehaftet"](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXQxQkw0OXZ2SlMyYU5RekpPREZLd3E1SkhjaXQzcG5WXzQ3SGwwQ25FUEVnakdJZEc2VUxjQXJRemE2ejBtc0ZCdnZJUXVmRVJLZjliSGQyZWh2cjZLbS1sWFZRT29WSlNPNnp0R2dyYjhHQmJQRFZOMEd1QkpEcXNiWmVHVmVrX0pseTlmSUg2b01sN0pzTUVzYw?oc=5)
 
 2026-05-19 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNRUtWMXRydVJXdFNkOGlOT2xHN3ZiVWpNVUpxTFRSZ19yYzJEYkFCUWlpbjJXZ2hkd19GYTQ5ZWloSEZDZThoYnBiQlBvc0xjUUZ5dkJHRlNfaFJo?oc=5)
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXQxQkw0OXZ2SlMyYU5RekpPREZLd3E1SkhjaXQzcG5WXzQ3SGwwQ25FUEVnakdJZEc2VUxjQXJRemE2ejBtc0ZCdnZJUXVmRVJLZjliSGQyZWh2cjZLbS1sWFZRT29WSlNPNnp0R2dyYjhHQmJQRFZOMEd1QkpEcXNiWmVHVmVrX0pseTlmSUg2b01sN0pzTUVzYw?oc=5)
+
+---
+
+### [Uganda bans hugs and handshakes as two cases of Ebola are confirmed - The Telegraph](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUp1V0ppMkpUYzU0bGtrbVJ5WGRNVmFnZlo2eHpOWjVVVGFtM3AxbEdrQm55bko2MG42WjFqaXQzRkRWQlRWa21aR0RyNGNzSV9CUGVxNW1Ga2NMLVh5NlBZRjBvbWRRQ1ZaRzVGY05HWEtPd3R4MDhvbE51dm1WbTB2bDJ5MlpOSzdqbXdyS0pHZXV6XzJnS1E3ZjZDcGd0QlRWRHFwUU9DakhQS3hPbnJCekZFQmxNVGdOem5n?oc=5)
+
+2026-05-19 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUp1V0ppMkpUYzU0bGtrbVJ5WGRNVmFnZlo2eHpOWjVVVGFtM3AxbEdrQm55bko2MG42WjFqaXQzRkRWQlRWa21aR0RyNGNzSV9CUGVxNW1Ga2NMLVh5NlBZRjBvbWRRQ1ZaRzVGY05HWEtPd3R4MDhvbE51dm1WbTB2bDJ5MlpOSzdqbXdyS0pHZXV6XzJnS1E3ZjZDcGd0QlRWRHFwUU9DakhQS3hPbnJCekZFQmxNVGdOem5n?oc=5)
+
+---
+
+### [Fourth meningitis outbreak case confirmed in Reading junior school pupil - Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZvdk5wLW91ekMwNGFKS0VEbFQzZUludUdtNF9rQlJBWkdfN1hIUDlSZDFwRUh6Zm5TaWpsSmRjbnVpbUZFZnRIazl0cXB6SHBZeTh5VDJFWmY4d3ZVYy1acHJfSXFhQjRFQVBHS0lwbkxyWktpR1Q0V01rTVU5RUJBSEhtMjhfNGt3LTFTa3Zyc0xXN3NFUWdFZ2MtX0xWcEo5R2V4bVpQSXdW?oc=5)
+
+2026-05-19 <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZvdk5wLW91ekMwNGFKS0VEbFQzZUludUdtNF9rQlJBWkdfN1hIUDlSZDFwRUh6Zm5TaWpsSmRjbnVpbUZFZnRIazl0cXB6SHBZeTh5VDJFWmY4d3ZVYy1acHJfSXFhQjRFQVBHS0lwbkxyWktpR1Q0V01rTVU5RUJBSEhtMjhfNGt3LTFTa3Zyc0xXN3NFUWdFZ2MtX0xWcEo5R2V4bVpQSXdW?oc=5)
+
+---
+
+### [Gesellschaft - Wie wirken Medikamente bei Demenz? - der Vinschger](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUktQN2tmbExOeWFfYV9vT1drLW5oVDlOdWVhWlBUM2l3VU0tZjYxLXJieG8tYjNILS1jMmZxdTEza2RvblhHZzd6UDhYb2JzUXp5STlfYTI0d1A2U3dhaHRCYnhqZURBSWhiWkRmeDFoZktGU1R3OVNiMkVObThVZmtzTndmeUVGSVZz?oc=5)
+
+2026-05-19 <span class="news-indication-tag">AF</span>
+
+來源：[der Vinschger](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUktQN2tmbExOeWFfYV9vT1drLW5oVDlOdWVhWlBUM2l3VU0tZjYxLXJieG8tYjNILS1jMmZxdTEza2RvblhHZzd6UDhYb2JzUXp5STlfYTI0d1A2U3dhaHRCYnhqZURBSWhiWkRmeDFoZktGU1R3OVNiMkVObThVZmtzTndmeUVGSVZz?oc=5)
+
+---
+
+### [Deutsche Leberstiftung erinnert vor dem Start der Urlaubssaison: Hepatitis-Impfung ist wichtiger Reiseschutz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE16S3VhSURQbjZhNUN6Q25xcWdScnZKQjRvUVJ1RVZIMThndUZWdVN1UThhdEZkbk5WV0xwYmlPYU11WEswTnBoSWVLYw?oc=5)
+
+2026-05-19 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE16S3VhSURQbjZhNUN6Q25xcWdScnZKQjRvUVJ1RVZIMThndUZWdVN1UThhdEZkbk5WV0xwYmlPYU11WEswTnBoSWVLYw?oc=5)
+
+---
+
+### [Trieste, trenta studenti del liceo Carducci Dante di via Corsi positivi alla tubercolosi - Il Piccolo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUljT0JWN2wxYVE5VHBDdHphLW5yVWlib2w4bmpRQWxtYU92TXlDWW5NbFpqTHRqWUhOMFV4MEMzc0NFWkxrTS1LcFhsdktpTFR4VEIycnBnLVlnMlFEZEpJaG9tVURvLVduOGk2U1ZXVDZBakZsZVVubFhjLVhHRXFLR1ZyalNPOWVEVk5pQ3pnNmRYVVYtSTRGM09LdDdPdlYzR0lFc1djX0JQcU40?oc=5)
+
+2026-05-19 <span class="news-indication-tag">AF</span>
+
+來源：[Il Piccolo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUljT0JWN2wxYVE5VHBDdHphLW5yVWlib2w4bmpRQWxtYU92TXlDWW5NbFpqTHRqWUhOMFV4MEMzc0NFWkxrTS1LcFhsdktpTFR4VEIycnBnLVlnMlFEZEpJaG9tVURvLVduOGk2U1ZXVDZBakZsZVVubFhjLVhHRXFLR1ZyalNPOWVEVk5pQ3pnNmRYVVYtSTRGM09LdDdPdlYzR0lFc1djX0JQcU40?oc=5)
 
 ---
 
@@ -70,27 +110,19 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Día Mundial de la Enfermedad Inflamatoria Intestinal: los síntomas y por qué es clave detectarla a tiempo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdm55MDdPOHhsRGU5ZjN4eFU4Ynk1RjRBR0VhRnVvc1pDTXdLOVItVDdUNEVtbi1OdGVpbVBNS25XQlVLVkFNWm8takhpWWVZbkxpcmZxazF1NVRhY0gxRGRhYVAtbEd4RUdLLVFydDR1WnVKODU4dUQ5Nnh3bll3ZmtZNkE3QWdWWnFmR1hBUVRSMUdac1Z5cjNXNTlhSzdDMms2dEZCdFplMVVKUEU4aHpBRHBQMlRkZHNIand0ZXd5a1N0VzZCMkY3NG1zeGNTeUZOa3lGT2kzMWtBbFYw0gH6AUFVX3lxTE50YlExS01uT0t5M19QdzZJSFVuYWc2T0o0SGZEdVJheWpCOEJ0X0ljczJsaFc5V19Ic25mZEVadDFtdTltVXk3MGNDX2c2SzlSYTdMMzBybzdfYnBDVXJPeEdCaDNvMFo2OU13ZVNUZlM2Zi1BV25EWTJZNFozSHc5Vy1zYXhCSi1YQWdLd3hjbG9oeUN5OXI0Y0JjcmFXMVRaWU10dGI0Vml5TDY4eUE2MmZrUXR3YkNHeGowMG5ObGlKUVk1UkdJUHBGMk9CUW9LVWQwNG1kMnBsNWFWN3VUc2JBT0dYMEpueWpqZ0p6YlRlWTFfdWxjWFE?oc=5)
-
-2026-05-19 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdm55MDdPOHhsRGU5ZjN4eFU4Ynk1RjRBR0VhRnVvc1pDTXdLOVItVDdUNEVtbi1OdGVpbVBNS25XQlVLVkFNWm8takhpWWVZbkxpcmZxazF1NVRhY0gxRGRhYVAtbEd4RUdLLVFydDR1WnVKODU4dUQ5Nnh3bll3ZmtZNkE3QWdWWnFmR1hBUVRSMUdac1Z5cjNXNTlhSzdDMms2dEZCdFplMVVKUEU4aHpBRHBQMlRkZHNIand0ZXd5a1N0VzZCMkY3NG1zeGNTeUZOa3lGT2kzMWtBbFYw0gH6AUFVX3lxTE50YlExS01uT0t5M19QdzZJSFVuYWc2T0o0SGZEdVJheWpCOEJ0X0ljczJsaFc5V19Ic25mZEVadDFtdTltVXk3MGNDX2c2SzlSYTdMMzBybzdfYnBDVXJPeEdCaDNvMFo2OU13ZVNUZlM2Zi1BV25EWTJZNFozSHc5Vy1zYXhCSi1YQWdLd3hjbG9oeUN5OXI0Y0JjcmFXMVRaWU10dGI0Vml5TDY4eUE2MmZrUXR3YkNHeGowMG5ObGlKUVk1UkdJUHBGMk9CUW9LVWQwNG1kMnBsNWFWN3VUc2JBT0dYMEpueWpqZ0p6YlRlWTFfdWxjWFE?oc=5)
-
----
-
-### [Ebola, nuova epidemia in Congo. L'Oms non ripete gli errori del passato - La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMilwFBVV95cUxQd041WGxxRkw2S21fRF9jb2o0b092dDBuR2M3MHdZQUlMeTBxWXBUTEM4Z05KRm4yOW5MODVqRVYwZjdjUVlxbHFRM21PQ1YwSnJyRjM0S1lFRDhuc056bWlmNTExeHRYMTk5eEZTN3FvTV9IR3N1WmtxMnZKTGZnNktjWUdZby1hcUt0UklVck8wV0U5czVB?oc=5)
-
-2026-05-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMilwFBVV95cUxQd041WGxxRkw2S21fRF9jb2o0b092dDBuR2M3MHdZQUlMeTBxWXBUTEM4Z05KRm4yOW5MODVqRVYwZjdjUVlxbHFRM21PQ1YwSnJyRjM0S1lFRDhuc056bWlmNTExeHRYMTk5eEZTN3FvTV9IR3N1WmtxMnZKTGZnNktjWUdZby1hcUt0UklVck8wV0U5czVB?oc=5)
-
----
-
-### [Cómo funciona la nueva técnica que promete regenerar el cartílago afectado por la artrosis](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUpmbF9waXEtSC15Mk15cGRja1JNYlhBZ192YV9fX2oteU5uanBXRm14WHVHcTA2NzJkSUt4ZUo5N25ZSGMyZ29TRG1xY1dDcVZjenVadWtjTzhYUGJVLURvMk1aeDdXNVFZR1p2VVBIYXZ0YUdKZ09Db21INFV5RnVkVlNmZEdMbHVUOFMzMVhIby1NU29SSGlESGd6aUhaVGhCTVhMX01ROUE0VkxuWkZxYm1uaXdvR2ViMlVGUWxwanktcDhtejloY27SAecBQVVfeXFMT3ZORWtDQ0NjOElSc3BYeUd1NTVlMEc2dU1oQ2JXMGNJWXNLMElxVTkxOTl6NEhJdUJnSEg0bjNQNGNqQTlWOTJiS0hwZ3A2dlpPbHluU0JDbUZRanlPeW5IcTB3TjBhWnVPRWZLbTJNQ1g4WG8weHFpekpDUFptRUZXeVBPeHZSbWxhWF80NU5YVy1CZ2dpb3dOOVAxNHlwVFVlQjBUcEJscTJuVmwzRG9fTEg2UWxaeUdEdjJjOFVjZkNmeUNESnFmc2lKTGl0MmtHaE9uWHRXbzFqR3ZyRzVKWUp4cjZZ?oc=5)
+### [Aid cuts and war complicate Ebola response in Congo](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3lHLXlXX0ZuNXhTSTNMZ0JmNEtBMHJkNEFEY0duQW9wNzROUFNwUHhKTnUzOHI2RlNaMFFSaVBfM3lDYm5uYlRlcHhKajNFOUtsVE43cDd6QldWcHRhMENBZUpvTXRFMXB5NEhwakpHazA3NUs2cVdXcGxRVDd2SGxLZ2pYMFlYZjhFTkdmM3piZw?oc=5)
 
 2026-05-18 <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUpmbF9waXEtSC15Mk15cGRja1JNYlhBZ192YV9fX2oteU5uanBXRm14WHVHcTA2NzJkSUt4ZUo5N25ZSGMyZ29TRG1xY1dDcVZjenVadWtjTzhYUGJVLURvMk1aeDdXNVFZR1p2VVBIYXZ0YUdKZ09Db21INFV5RnVkVlNmZEdMbHVUOFMzMVhIby1NU29SSGlESGd6aUhaVGhCTVhMX01ROUE0VkxuWkZxYm1uaXdvR2ViMlVGUWxwanktcDhtejloY27SAecBQVVfeXFMT3ZORWtDQ0NjOElSc3BYeUd1NTVlMEc2dU1oQ2JXMGNJWXNLMElxVTkxOTl6NEhJdUJnSEg0bjNQNGNqQTlWOTJiS0hwZ3A2dlpPbHluU0JDbUZRanlPeW5IcTB3TjBhWnVPRWZLbTJNQ1g4WG8weHFpekpDUFptRUZXeVBPeHZSbWxhWF80NU5YVy1CZ2dpb3dOOVAxNHlwVFVlQjBUcEJscTJuVmwzRG9fTEg2UWxaeUdEdjJjOFVjZkNmeUNESnFmc2lKTGl0MmtHaE9uWHRXbzFqR3ZyRzVKWUp4cjZZ?oc=5)
+來源：[politico.eu](https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3lHLXlXX0ZuNXhTSTNMZ0JmNEtBMHJkNEFEY0duQW9wNzROUFNwUHhKTnUzOHI2RlNaMFFSaVBfM3lDYm5uYlRlcHhKajNFOUtsVE43cDd6QldWcHRhMENBZUpvTXRFMXB5NEhwakpHazA3NUs2cVdXcGxRVDd2SGxLZ2pYMFlYZjhFTkdmM3piZw?oc=5)
+
+---
+
+### [Leucovorin Autism Prescriptions Surge 2,000% via Media Hype - Neuroscience News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSHpOZGtQang1US1OeGtaQzRKMUdQdXVWUlZQZk50OHh3dDFsTVVJTDhPSHJfZ2NtRUtpTm5nbV9RdXphcVk1XzI0OVZYNTREdUxyaC1Fc3ZPM0pmS3I3WWFaMy14cGYxeXh1Q3Bpd1ZkWmlqR0E?oc=5)
+
+2026-05-18 <span class="news-indication-tag">AF</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSHpOZGtQang1US1OeGtaQzRKMUdQdXVWUlZQZk50OHh3dDFsTVVJTDhPSHJfZ2NtRUtpTm5nbV9RdXphcVk1XzI0OVZYNTREdUxyaC1Fc3ZPM0pmS3I3WWFaMy14cGYxeXh1Q3Bpd1ZkWmlqR0E?oc=5)
 
 ---
 
@@ -99,6 +131,14 @@ permalink: /news/nitric-oxide/
 2026-05-18 <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUEJpRV85OGtVSFRPanJfVlNPdmNuWUlnVlBiRm1xYzJQY1RhTzlJZ1ljSzM2ZUF6NVcyT20tcGhKTVh6MDBReUJHTlcyRHhwSkJnbElmUjZDS1RCTGNlVWVjQXMxT3hlNGN4TjFKdDJUQU9LREowUXdwN1pHMHdNeTRJdkM4R0sxNXRZYWhUUWtOWGtIOWtPb0tNLUw2VnExVGRUZjRHa2F3VE4yLURjVFdjWG9Uckl3LWxzNzV6ZV94SEdjX2RWMmxpVnhtYmJvd3ZrR2hNM3pjclZDcXlVWHhqazNaaTRndlpqNk5oZVg?oc=5)
+
+---
+
+### [Malattie infiammatorie croniche intestinali in aumento: sempre più giovani seguiti a Crema - La Provincia di Cremona e Crema](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY3VEbUk5SjVuMjBnZi0zYUZ5RTBoVGZRUWZoWTN1ODJfZVZGNXFYaUthQVJXUHd0Z3FBS29VcXVFZXp2M216NkljMlRkMUpoSDBLeTliVGo1Mnh0a2stTFhtcmsyVTJSYWl3dWhuWk9rQTJ0d1c2RFA4bkl2eVhOMDFvUzRDbHUtTzZsY0d1T2VBSUNnNlllZ2ZadGY2U1VxVzhxT2JxS19YOVZhX0JxMm1qYnNzbUxNSGRoU3JuNVZGM3FyVkY3LWY3bnhTM2JKQ0dHMnB1SHVuN3YtQ1E?oc=5)
+
+2026-05-18 <span class="news-indication-tag">AF</span>
+
+來源：[La Provincia di Cremona e Crema](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY3VEbUk5SjVuMjBnZi0zYUZ5RTBoVGZRUWZoWTN1ODJfZVZGNXFYaUthQVJXUHd0Z3FBS29VcXVFZXp2M216NkljMlRkMUpoSDBLeTliVGo1Mnh0a2stTFhtcmsyVTJSYWl3dWhuWk9rQTJ0d1c2RFA4bkl2eVhOMDFvUzRDbHUtTzZsY0d1T2VBSUNnNlllZ2ZadGY2U1VxVzhxT2JxS19YOVZhX0JxMm1qYnNzbUxNSGRoU3JuNVZGM3FyVkY3LWY3bnhTM2JKQ0dHMnB1SHVuN3YtQ1E?oc=5)
 
 ---
 
@@ -115,14 +155,6 @@ permalink: /news/nitric-oxide/
 2026-05-18 <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSl8wQ0dCRTN4dWJHWjE3Umo0YXByNjhwVXFRYURhRFY1NHFvVGpJbmdqOWpFbEdEVVdhRlYtRXVTcGFCUHlwLVBlTHNIVWVtem5sTHcwWS0tSzh2TGY0TV9lQzBUY0Y5Rm41Ym9xcDJhenBwV3dUalhOMEE3Mnk1QmhGa21nQ3RTWHlENjdSUEpNVFVXeHZMdFdDWnNDSE5MS3M3YWoyYzFpY05RalNnVERwWmlFMkZUd2pCUlVoSlRfNXFIaVBEWjdXc1R6cjNsRlE?oc=5)
-
----
-
-### [Scientists Found a Remarkable Way to Help Kids Like Vegetables](https://news.google.com/rss/articles/CBMilgFBVV95cUxOd05iMzhDeHNIeUJKMEdvTDV2TTdobU54d2pSWmJvMFBYQmhaRVNUeWd3TlBZQ1M1UUtsQ3lfS1NhV3h1MzFFVVFEaEJnSm5oSU0wWEhsd0RRUUFmaER5c3JEY0hJX2ZPUk00TUFzOXZxdDFqVlFsT19IR2hnZzZZckFlb2liclZyZm9WelVRbE01cXo2WlE?oc=5)
-
-2026-05-18 <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxOd05iMzhDeHNIeUJKMEdvTDV2TTdobU54d2pSWmJvMFBYQmhaRVNUeWd3TlBZQ1M1UUtsQ3lfS1NhV3h1MzFFVVFEaEJnSm5oSU0wWEhsd0RRUUFmaER5c3JEY0hJX2ZPUk00TUFzOXZxdDFqVlFsT19IR2hnZzZZckFlb2liclZyZm9WelVRbE01cXo2WlE?oc=5)
 
 ---
 
@@ -158,14 +190,6 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Where You Live May Affect How Rapidly You Age, Sweeping Study Finds](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWx6SFpUQllid3FyeEhQN1B6NmxXdmcwTE8ydXRCeHp6enUyZ0FzTXpyeWl5S25GdllkczFrM0FXSHJSOUtHSWZHX3RpRkczcjVNOUJlaTdsRThhLW5SRHZleGhOVVJvSzZLdVV6Rkx0V0RpUGxlcUxsWmc0d1h6Y3NZcHJ2MFRwenFuMjZjMWZkT1cyMmhYWjBHWQ?oc=5)
-
-2026-05-18 <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWx6SFpUQllid3FyeEhQN1B6NmxXdmcwTE8ydXRCeHp6enUyZ0FzTXpyeWl5S25GdllkczFrM0FXSHJSOUtHSWZHX3RpRkczcjVNOUJlaTdsRThhLW5SRHZleGhOVVJvSzZLdVV6Rkx0V0RpUGxlcUxsWmc0d1h6Y3NZcHJ2MFRwenFuMjZjMWZkT1cyMmhYWjBHWQ?oc=5)
-
----
-
 ### [Ipertensione, Iss: un problema per quasi la metà degli italiani](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
 
 2026-05-18 <span class="news-indication-tag">ipertensione</span>
@@ -190,11 +214,27 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [PCOS heißt jetzt PMOS - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
+### [New drug trial hopes to mend 'broken heart syndrome'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ZkR6czdjMkctNmloODFzT1dHMGtqN1hRWjBCUVpjcUdLV3FzWF93YmxDYUxYa0tPVWRwcXhqVUpTc1VuTWlIMU9OM0lGV3R5ZmNkZmhXMzlBQzR2?oc=5)
 
 2026-05-18 <span class="news-indication-tag">AF</span>
 
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE42ZkR6czdjMkctNmloODFzT1dHMGtqN1hRWjBCUVpjcUdLV3FzWF93YmxDYUxYa0tPVWRwcXhqVUpTc1VuTWlIMU9OM0lGV3R5ZmNkZmhXMzlBQzR2?oc=5)
+
+---
+
+### [PCOS heißt jetzt PMOS - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
+
+2026-05-18 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+
 來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXRsa1JPR1daTFBONjNQYmNHM3k5UHZYeGlGVFNTWDcwZjEySHZ2LUNkNGhfOVI4VWJZY180T21GLVpWRktKZUtOeWVlT3doY3dtNGdLOTYyQkVTclY2MFFXSGlrMXRQZmNwX29IX2kzMWtwNERSdF83V1FMb2JzUkZMbEZsXzBpWEhVUC1ETlVDUQ?oc=5)
+
+---
+
+### [Darlington woman 'left hours from death after weight-loss surgery led to sepsis' - The Northern Echo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0MzY0FIOXdPeENfOEJMOHd5UkJyNGJlcWU4Zm40d3ZPSm51T1RTazZNcmFLOUJfTVpmUHhjT2JMRDlieW12VjZJY1JDQVd6TmxuMXdBWnRaMFdJai05SnFDNThVck1jMEI1V1cxMDNNdTZfMXNkNGdZVURDeWcxaFp1Yjk2UzVlSUhRSlVYNjcxc0RK?oc=5)
+
+2026-05-18 <span class="news-indication-tag">AF</span>
+
+來源：[The Northern Echo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0MzY0FIOXdPeENfOEJMOHd5UkJyNGJlcWU4Zm40d3ZPSm51T1RTazZNcmFLOUJfTVpmUHhjT2JMRDlieW12VjZJY1JDQVd6TmxuMXdBWnRaMFdJai05SnFDNThVck1jMEI1V1cxMDNNdTZfMXNkNGdZVURDeWcxaFp1Yjk2UzVlSUhRSlVYNjcxc0RK?oc=5)
 
 ---
 
@@ -214,17 +254,9 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Canada confirms first hantavirus case in isolation in British Columbia - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
-
-2026-05-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5)
-
----
-
 ### [Is the Weight-Loss Drug Revolution Causing a Frailty Epidemic?](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5)
 
-2026-05-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-05-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[WSJ](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5)
 
@@ -235,30 +267,6 @@ permalink: /news/nitric-oxide/
 2026-05-17 <span class="news-indication-tag">AF</span>
 
 來源：[Swindon Advertiser](https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1VYNEFPOVk0S0VsVUhiQmVaNG9aMm5vWVBQWUlOaHZOaFdQbVhlMFB2aDZLaGJyWkRHQU9OR0JNRXVhcFpVQjNXNndORGtpajd1a1BlWVNNeDFDSVpCci1XOUs2MXJtNHQ5bW5vb1c0eWlyTnVKMUlzc3ZEcHdKUndSeWU3ZEVoLXo5bGo1ZFBlNlBKS2hUZQ?oc=5)
-
----
-
-### [Hantavirus can survive in semen 6 years after infection: Study - Ground News](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnNHSVdCZ1FCRzlSUzNwcmNLRW83bUZRMVNVRDhjRnFlaFF2cmYyUFNPUnNMYjk0SkJJeFhUUERKR2ZuSUk5MENvRFh1T1BhRkZnSDk2QXc0c3BZQlpsN1h5VlBaR0J3RVBLWV93X3hNUlJzUmcwTTcxZEVtRndZYzVEb1pneHVya09XeTFpMXdiaFByazlQMDNpWC16bXJibFhaQzdiRmwwR0lqME5rSzZCdmJsd3N0dW10VlRvblNvci1LYVR4cDc1Yw?oc=5)
-
-2026-05-17 <span class="news-indication-tag">AF</span>
-
-來源：[Ground News](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnNHSVdCZ1FCRzlSUzNwcmNLRW83bUZRMVNVRDhjRnFlaFF2cmYyUFNPUnNMYjk0SkJJeFhUUERKR2ZuSUk5MENvRFh1T1BhRkZnSDk2QXc0c3BZQlpsN1h5VlBaR0J3RVBLWV93X3hNUlJzUmcwTTcxZEVtRndZYzVEb1pneHVya09XeTFpMXdiaFByazlQMDNpWC16bXJibFhaQzdiRmwwR0lqME5rSzZCdmJsd3N0dW10VlRvblNvci1LYVR4cDc1Yw?oc=5)
-
----
-
-### [Scientists reveal how seven days of fasting transforms the human body](https://news.google.com/rss/articles/CBMib0FVX3lxTE45MXFveXFVZ2tiWjdQa1ZkWU4temYxQ2Z0TkJVU0VCTEN1Z2xpT09jM05oa01vNXVRRXlWZFNNeWdFM0VUc1luMDJvdk0tbHQ5bXlJYUlqSFRTY3BOYUFwZ2prMW9idm1xX29MZFJYTQ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE45MXFveXFVZ2tiWjdQa1ZkWU4temYxQ2Z0TkJVU0VCTEN1Z2xpT09jM05oa01vNXVRRXlWZFNNeWdFM0VUc1luMDJvdk0tbHQ5bXlJYUlqSFRTY3BOYUFwZ2prMW9idm1xX29MZFJYTQ?oc=5)
-
----
-
-### [Scientists reverse Alzheimer’s in mice with breakthrough nanotechnology](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5)
-
-2026-05-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbVlRWGR5LUNGVTdxam5SaV9FNE9Nc0tQekZLRER0eE04TnNLQU42amFXc1FhV0ZzblQ2ZkNrWFYxNk5RQkplenZieFlyczU2MmFPSWtYaWU4QzlVSGNXS3lOeHJaRjBDME5qVXJtUQ?oc=5)
 
 ---
 

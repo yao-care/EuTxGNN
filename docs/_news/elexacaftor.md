@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Ipertensione, Iss: un problema per quasi la metà degli italiani](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
 
 2026-05-18 <span class="news-indication-tag">ipertensione</span>
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzYtbG5sSzFwYXZhX1lwVXdxVFJ1QVc4NkJienUxZFpFVEVxVWIyckhBQmJRQ2JrZzN0NHFKVTFtcHlLWHZrVXlydXhNN1VjQUVqMElienJMR2NHdERWZ25PN29CcEFxZDgyM205Nm1wajVBaXhicGY5emM3aE5XQWZHZ1RHdWZPczd3ZndsdU12Y05iSTBZanA0Y1M0NTRQcmN6cFVZcjI2TVlLb0paOE92U05pQjBqVGExX0E3YVJiSXFrOVVMNmJjT0RfRVo3QXc2YWtFMlZ2RzjSAeABQVVfeXFMTzdaTG5hcjhrdmdPV2Zfc3V1U1J3dXZVTF9iMXhva0hHeDlsYUNjbXZtUFA0YzZfMEN1N0pUWmNBazNWb0I3eW9JUWlCQjVtZTViNGlmb1VjeDd3dXFNOTF4R1hHNGFYdGR0UlNnREZXNVNzaVBHdmhEdnFSNVFkOVFfd1FqZDR6Y2JLTnFFOW41MG5CaUg5YmlzYndtUW1xU1J1bWM4aTFmU3BkMDVUNktnMkdpVUJFQ2xNZmFOZ2Y4ek1fWnZqVjJvQUExazhQRTdldDRPMFc1MU9VQ1ZZd0I?oc=5)
-
----
-
-### [Spondylarthrite, polyarthrite, maladie de Verneuil… Quels sont les traitements contre ces maladies invisibles ?](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
-
-2026-05-17 <span class="news-indication-tag">arthrite</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnNSZFFhdjRDVUFOWlN0SUtYdGNna1ktdTJldmtjOUVkNi1DbHpPNFc0ZjUxajl3aWNpdTREbzdEZUVlVmExSXdGS2szc2pkYWgwaVhDcUNFVWZFNDVuTmdzdF95WTRTRDRoSHJsb0lzS1RIYlFpQmRUMXpTVjNQaVBmaFN2YnpUc3BnblByd2JfX2hHeFZKWURWSW10bFVXYTlDVm16V3N3UmhyX2dHeWJPQXFHbnhNS3RuTDF2ZXkxWXF2RkpSdEdIVUNjUmZNUVR2bDBvaTJ2eUh5QUx3UU1FRVJHeEpvQ1N5Sm9Xa0JtZWFQbjFRdktvQ1RYcnBFZlJGNU5NYnk?oc=5)
 
 ---
 
