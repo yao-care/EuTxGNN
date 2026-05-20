@@ -55,11 +55,11 @@ permalink: /news/hepatitis/
 
 ## 相關新聞（1 則）
 
-### [Deutsche Leberstiftung erinnert vor dem Start der Urlaubssaison: Hepatitis-Impfung ist wichtiger Reiseschutz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE16S3VhSURQbjZhNUN6Q25xcWdScnZKQjRvUVJ1RVZIMThndUZWdVN1UThhdEZkbk5WV0xwYmlPYU11WEswTnBoSWVLYw?oc=5)
+### [Deutsche Leberstiftung erinnert vor dem Start der Urlaubssaison: Hepatitis-Impfung ist wichtiger Reiseschutz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNRnhxTzlGSnM3anJuUFZqMWtxYnc4YnhrSTdVX1hPWmNXQnBOLUxpOVJvdUZTbW1SRWdIWE16Y3VzWkpzd2FkdlVScw?oc=5)
 
 2026-05-19
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE16S3VhSURQbjZhNUN6Q25xcWdScnZKQjRvUVJ1RVZIMThndUZWdVN1UThhdEZkbk5WV0xwYmlPYU11WEswTnBoSWVLYw?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNRnhxTzlGSnM3anJuUFZqMWtxYnc4YnhrSTdVX1hPWmNXQnBOLUxpOVJvdUZTbW1SRWdIWE16Y3VzWkpzd2FkdlVScw?oc=5)
 
 ---
 

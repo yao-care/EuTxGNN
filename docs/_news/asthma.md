@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
@@ -90,14 +90,6 @@ permalink: /news/asthma/
 2026-05-18
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
-
----
-
-### [EQS-News: VARON unterstützt den Monat des Bewusstseins für Asthma durch die Förderung einer besseren Lungengesundheit und mehr Komfort beim Atmen im Alltag](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNZjNVejJva2dMbUNSb2NwaWxCR19URURJdnVBSnQyMktmbUlPSjBrREpfQUJoSEhreVlaOW9NdkxLdUNma3dnTUhPMHJzMzdlUWstZ25YWWlLeFNwUC0tRFByWm5qdHJSOV9XY19DOF9hX0VGUHp4dko0RFloUnhiTGpfa3NPTlhIR0YwUGxkUVdXZ3FIUFg0aHRYWWJ1N3BZNjVQVkJtMVlGamxtM3R4bjBMZl9YNEFJV01fQ3pYbXlQUWVqUUZQamd5allDUGVkYUlWVFBGeENkM2RzaS0xancya2YtZHk4aUpvRjNwY1VsTXZBS0VVSzB1TjhwejJwWU1LQU1WY2FFNXJPY21NaDZwNy1TNVZWamVOa3RtSkJ6U3FLbGdhaGJxX3JKVm1SS3QwcUpJelJTLThKYkRscw?oc=5)
-
-2026-05-18
-
-來源：[BörsenNEWS.de](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNZjNVejJva2dMbUNSb2NwaWxCR19URURJdnVBSnQyMktmbUlPSjBrREpfQUJoSEhreVlaOW9NdkxLdUNma3dnTUhPMHJzMzdlUWstZ25YWWlLeFNwUC0tRFByWm5qdHJSOV9XY19DOF9hX0VGUHp4dko0RFloUnhiTGpfa3NPTlhIR0YwUGxkUVdXZ3FIUFg0aHRYWWJ1N3BZNjVQVkJtMVlGamxtM3R4bjBMZl9YNEFJV01fQ3pYbXlQUWVqUUZQamd5allDUGVkYUlWVFBGeENkM2RzaS0xancya2YtZHk4aUpvRjNwY1VsTXZBS0VVSzB1TjhwejJwWU1LQU1WY2FFNXJPY21NaDZwNy1TNVZWamVOa3RtSkJ6U3FLbGdhaGJxX3JKVm1SS3QwcUpJelJTLThKYkRscw?oc=5)
 
 ---
 

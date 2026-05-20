@@ -14,7 +14,7 @@ permalink: /news/niraparib-tosilate-monohydrate/
 ---
 
 <p class="key-answer" data-question="Niraparib (Tosilate Monohydrate) 有什麼相關新聞？">
-<strong>Niraparib (Tosilate Monohydrate)</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Niraparib (Tosilate Monohydrate)</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/niraparib-tosilate-monohydrate/
 <p><a href="{{ '/drugs/niraparib-tosilate-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（24 則）
 
-### [Cancer du poumon : le grand dépistage démarre dans ces cinq régions](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+### ['Robotic technology is the way forward' for cancer surgery](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
 
 2026-05-19 <span class="news-indication-tag">cancer</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
 
 ---
 
@@ -70,11 +70,43 @@ permalink: /news/niraparib-tosilate-monohydrate/
 
 ---
 
+### [Prothèses mammaires, sous-vêtements adaptés… Une pétition demande l'application de la loi sur le remboursement des soins et dispositifs liés au cancer du sein](https://news.google.com/rss/articles/CBMivgJBVV95cUxPMWpVdlpmV1dVWkc5X0E2N0k1TjZ6WUdpRmVZb3JUNUY4cTZsZkpJWGdkejRDQldYSVlhLXRDNWw1X05wVWZIMXlicWR6SEdwVzNNM1RlRGpFOEZjTGtKZU91eXpaTlh2ZTl4ZVlIaTBDM2FEX3JUMnBTNFdMbzFlOVJtZFV0SmFNZzNqQzNFcEpYWWpldzM1RUpYeGE1RURQV2thc0tLdkhidVVFODYxUGZPRk1pNWRfZVZyOVcyX0MwN1BiSlhiVDllWnFoZmdzdlVKY3JDdXI4ODVSVXljd1J1cXloeWRkcXB3ZHlBN2ozelRBQTR4dDJVZWJ1WXpRcHctSG10RGtYYW5iM2prNlBkd0FXZHVZOE5HSHAwU0k3c2VmTnpadHI0dWp1elJrMEEzX3BraWNPdEJ2MlE?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMivgJBVV95cUxPMWpVdlpmV1dVWkc5X0E2N0k1TjZ6WUdpRmVZb3JUNUY4cTZsZkpJWGdkejRDQldYSVlhLXRDNWw1X05wVWZIMXlicWR6SEdwVzNNM1RlRGpFOEZjTGtKZU91eXpaTlh2ZTl4ZVlIaTBDM2FEX3JUMnBTNFdMbzFlOVJtZFV0SmFNZzNqQzNFcEpYWWpldzM1RUpYeGE1RURQV2thc0tLdkhidVVFODYxUGZPRk1pNWRfZVZyOVcyX0MwN1BiSlhiVDllWnFoZmdzdlVKY3JDdXI4ODVSVXljd1J1cXloeWRkcXB3ZHlBN2ozelRBQTR4dDJVZWJ1WXpRcHctSG10RGtYYW5iM2prNlBkd0FXZHVZOE5HSHAwU0k3c2VmTnpadHI0dWp1elJrMEEzX3BraWNPdEJ2MlE?oc=5)
+
+---
+
+### [318.000 euros récoltés à La Réunion : où va l’argent d’Odysséa contre le cancer du sein ?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0p5TnQ3ZHRid0dVN2lqLXFZcVpVUVpBQThlMTBrQm1NeVFEdEswLTVnLTh3WDM0S0NkcDRTRjVPS19fT0E4TlMtNnRBS1U3Z2t1UmNiR1F4aHl3ZjBDRkFYVmJ6Tld1R3NPNzJfSlYzSW9iMDJaRERiTUpLMEdxV1JlTG5VTVlVNjVlRDNpTHNlZUE2aG9QQmtvOVFZNjBQckxRZFVLY0dlZXZzLVBN?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[Zinfos974](https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0p5TnQ3ZHRid0dVN2lqLXFZcVpVUVpBQThlMTBrQm1NeVFEdEswLTVnLTh3WDM0S0NkcDRTRjVPS19fT0E4TlMtNnRBS1U3Z2t1UmNiR1F4aHl3ZjBDRkFYVmJ6Tld1R3NPNzJfSlYzSW9iMDJaRERiTUpLMEdxV1JlTG5VTVlVNjVlRDNpTHNlZUE2aG9QQmtvOVFZNjBQckxRZFVLY0dlZXZzLVBN?oc=5)
+
+---
+
+### [Cancer du poumon : le grand dépistage démarre dans ces cinq régions](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+
+---
+
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
 2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+---
+
+### [Tumeur de collision : quand deux cancers différents coexistent au même endroit - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY1pOWW9lTHVnNjU0THV6VGpic3h5SnFBVlpReWJnRF9KWndESnc2SFpROFVWOFdfOUtabjh4NUwwUlB0d3ZBczJHSFZIWXVLY2pvY2tuVHZkNVNtSVBxTzl1SXFoTFp2MnVBZGxNWjA3YW1WdTdGb2MyY3ZjbzM4c1VrWFdHSUVhbmdmd0g0WTVFRnN4UFI4WjJScVVDYXdQQktEcjU1WDdZalBWd1hWVWhPVWRYMWJ5ZW80VjJ5NUFWM2hyek02WE5VeGZCbUo5b3p3MmNkWDJjTGJ2NWgwZEJ1UVBBei05RF9LWnFNbjdlaVE?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY1pOWW9lTHVnNjU0THV6VGpic3h5SnFBVlpReWJnRF9KWndESnc2SFpROFVWOFdfOUtabjh4NUwwUlB0d3ZBczJHSFZIWXVLY2pvY2tuVHZkNVNtSVBxTzl1SXFoTFp2MnVBZGxNWjA3YW1WdTdGb2MyY3ZjbzM4c1VrWFdHSUVhbmdmd0g0WTVFRnN4UFI4WjJScVVDYXdQQktEcjU1WDdZalBWd1hWVWhPVWRYMWJ5ZW80VjJ5NUFWM2hyek02WE5VeGZCbUo5b3p3MmNkWDJjTGJ2NWgwZEJ1UVBBei05RF9LWnFNbjdlaVE?oc=5)
 
 ---
 
@@ -150,14 +182,6 @@ permalink: /news/niraparib-tosilate-monohydrate/
 
 ---
 
-### [Omega-3-Fettsäuren: Neue Strategien gegen chronische Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCdDZxWEQ3SFctVjNmZDBWU2U5LS00N2o3cW9GVlN5WGNETHdTOFRKb1B6UDg1UW9rRXMyQlhFci1YNFdWWWZEQ0l2aXppbGd0ZVduTFJXY0phTk5qemFFZ25Jcl9PSC1sVHdOb3pnRjFBbk9sNHRNQjJxWWhScTFzUkhvcnhDWFhfeDgxT0t2dVc3ZnlYVDFmM19sYVY5WDRjelRXZkZlX1BWMTJtZlRBT00zdw?oc=5)
-
----
-
 ### [„Verhindern, dass Tumore wiederkommen“ - Welt der Physik](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeG40NkhrRmNRT01WQ2ZVOEpsWkd2WG1vcUZnMFFBVE9xTHlCTmxJOGhPdmNLc0otZklQQzhHZG05RVdqLWQtV090d080bWJ3MFhZclJWUDZ5UjdpVGtrV08wbTEtLWtDcEg4dTZhQXhFWWtMTWNRTG1jNXhKLTFuWm9tMmJlSlFmY3NXdE1rOWJ4YmU2NS1j?oc=5)
 
 2026-05-18 <span class="news-indication-tag">tumor</span>
@@ -198,19 +222,19 @@ permalink: /news/niraparib-tosilate-monohydrate/
 
 ---
 
+### [Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
+
+2026-05-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
+
+---
+
 ### [Torino, tumore raro invade il cranio: 73enne salvata con una protesi 3D personalizzata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUhwUy1HcFl2MkZoTXlwdENwYXdkMm1zNVoxSmdkNk1pNmg4bUliOXVMVXNSQkFGdENZTUtManUxaXZLWTdwTUhpQno1MXRlZ1pHczBCMElHUG91bGpZaG43aWUzYmtfdjZLRWI3MU9LUWt4NjVQZGROQ2I1R2dEcnp5Q25TQ0ZTaWl6am43QjFQcU9nQVB0bFN1SFlXa0VvNzlNStIBaEFVX3lxTFBEMlVFZjk4VUx0Qk1sMzFmX2lCQnhOaXV2ZFk4VGtGTW5oUFAwYzF4NTJDUlpiWndZdVlsMVViQXNraUUwOVM2Y0pfb2Riam52T3ZBSGx2Z3UzeTl5MzZpeDNYSEE4d1Ru?oc=5)
 
 2026-05-18 <span class="news-indication-tag">tumor</span>
 
 來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUhwUy1HcFl2MkZoTXlwdENwYXdkMm1zNVoxSmdkNk1pNmg4bUliOXVMVXNSQkFGdENZTUtManUxaXZLWTdwTUhpQno1MXRlZ1pHczBCMElHUG91bGpZaG43aWUzYmtfdjZLRWI3MU9LUWt4NjVQZGROQ2I1R2dEcnp5Q25TQ0ZTaWl6am43QjFQcU9nQVB0bFN1SFlXa0VvNzlNStIBaEFVX3lxTFBEMlVFZjk4VUx0Qk1sMzFmX2lCQnhOaXV2ZFk4VGtGTW5oUFAwYzF4NTJDUlpiWndZdVlsMVViQXNraUUwOVM2Y0pfb2Riam52T3ZBSGx2Z3UzeTl5MzZpeDNYSEE4d1Ru?oc=5)
-
----
-
-### [Tumori, quando l'immunoterapia può essere somministrata in pochi minuti sottocute: i vantaggi per i pazienti e per il Ssn - Corriere della Sera](https://news.google.com/rss/articles/CBMixgJBVV95cUxNUUE1WWI0WkFtYXhnWW5xak1oRk4wcEpEcjY5WWdjcDM5QTR5dUJ5X3pqRTdBVEFkRklYSXNYVzUzVk9laUNjNWtYcVZfelFsZDZxRkRickIxWkxna3E5dHZtYmJTZWcwTEFaQmpWTy16eGxvaFcwOG1oX0F0UjFzTTh5YUs1Ul9YUmNGVGMtbHlwZGFhLVdTUTBZTTl6V01HcWYzMURRdmdjb3VpSDVtZVFpTHpGRDdtUjllTmpMZWpQRU00Q1h3LWxwaHYzdEs1QUNiQmJTUFlMd2VLeUhTVFcxZzFuU2d6UjRVSkdySktzSVpqbDlfbk5wcFdqNlM5T0pFMVc4UjRYcWNWWUpSRGdyZ3NVUXJtSUkxdEhHd29HX2E3dzR0enVYWlZwMlp5QTdKSHlGX1hlcm5nNjd6akR4MmFSUdIBywJBVV95cUxPN1JuYlotdmZGcjZEdjlIOS1kMDVQcUN6enNVUEdwOXRkSExGQi1GbTlGaXJVTVY5clJxNmxCdFZtSFBkZHEtNkM5OU9JVkhNVm1fZFdxZExoaXRSMURiLU5ybTcxSlN4dWx1YWR0anRkQ3k2cEgyQkdIcEMxTDV0cFEwVXhOOFYzZjV4MHlYZ1VBZVloT3JRYTJPZkxKWnFhUEhvVVdZSUhmdVVpcmpqbWJ4djdteFA2WkNQekpoRUtYM21TY1g5WDE4YTU1U2FmMVF2OVR6YlU0WW4tRkUxWGU5Z2lWbE1ualo1dXpjUG12OXJhLWxibndhNjNjcEtUWEoxSmlRQUNPNHlibi1IRThpSWR3azhULXVZWm5nUDVGNm1nQmRGSzZhY0hnX2tPOUw3RXdIQWh0Ym9hbjFKNUhibXdNa0xQYlA4?oc=5)
-
-2026-05-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMixgJBVV95cUxNUUE1WWI0WkFtYXhnWW5xak1oRk4wcEpEcjY5WWdjcDM5QTR5dUJ5X3pqRTdBVEFkRklYSXNYVzUzVk9laUNjNWtYcVZfelFsZDZxRkRickIxWkxna3E5dHZtYmJTZWcwTEFaQmpWTy16eGxvaFcwOG1oX0F0UjFzTTh5YUs1Ul9YUmNGVGMtbHlwZGFhLVdTUTBZTTl6V01HcWYzMURRdmdjb3VpSDVtZVFpTHpGRDdtUjllTmpMZWpQRU00Q1h3LWxwaHYzdEs1QUNiQmJTUFlMd2VLeUhTVFcxZzFuU2d6UjRVSkdySktzSVpqbDlfbk5wcFdqNlM5T0pFMVc4UjRYcWNWWUpSRGdyZ3NVUXJtSUkxdEhHd29HX2E3dzR0enVYWlZwMlp5QTdKSHlGX1hlcm5nNjd6akR4MmFSUdIBywJBVV95cUxPN1JuYlotdmZGcjZEdjlIOS1kMDVQcUN6enNVUEdwOXRkSExGQi1GbTlGaXJVTVY5clJxNmxCdFZtSFBkZHEtNkM5OU9JVkhNVm1fZFdxZExoaXRSMURiLU5ybTcxSlN4dWx1YWR0anRkQ3k2cEgyQkdIcEMxTDV0cFEwVXhOOFYzZjV4MHlYZ1VBZVloT3JRYTJPZkxKWnFhUEhvVVdZSUhmdVVpcmpqbWJ4djdteFA2WkNQekpoRUtYM21TY1g5WDE4YTU1U2FmMVF2OVR6YlU0WW4tRkUxWGU5Z2lWbE1ualo1dXpjUG12OXJhLWxibndhNjNjcEtUWEoxSmlRQUNPNHlibi1IRThpSWR3azhULXVZWm5nUDVGNm1nQmRGSzZhY0hnX2tPOUw3RXdIQWh0Ym9hbjFKNUhibXdNa0xQYlA4?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [My little boy has childhood dementia — I'm watching him fade away](https://news.google.com/rss/articles/CBMijAFBVV95cUxPM21CeVNSYnJ2WVd1cUJ5S3N5clpBelJpNHNBREZkWVZQSE94R3ZwemhxbkEyYVlrU3NTRlpvNEVqeF9saEdiRTltcjFKdWNOV2Q3T2lTTW4wWk16Tmw0VnJGSm9CbGo0RFdVRWFDczJ5Yi1Gd25vV3RUZ3QwVkpLNmZUVnBmbWUwT1J5UtIBkgFBVV95cUxNeDB2T1Z3R1JwWGxNLTRLeS1MeFBXZ2pFbFhkQzdjTDY5d3BVazkwSG1maFBiZ2swT1ptVldtb1MweV9iY2s0bzBhTEJPZmhvWDlrZTlTUG5GRWFYaXd5Z2JpT1BCOXZ0MXpnQ3hOajd5Sy1ZNDBIOWRqUjJ3Vm5pLWg4dTZMZTB6YVVPMjF4SkdRdw?oc=5)
+
+2026-05-19
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxPM21CeVNSYnJ2WVd1cUJ5S3N5clpBelJpNHNBREZkWVZQSE94R3ZwemhxbkEyYVlrU3NTRlpvNEVqeF9saEdiRTltcjFKdWNOV2Q3T2lTTW4wWk16Tmw0VnJGSm9CbGo0RFdVRWFDczJ5Yi1Gd25vV3RUZ3QwVkpLNmZUVnBmbWUwT1J5UtIBkgFBVV95cUxNeDB2T1Z3R1JwWGxNLTRLeS1MeFBXZ2pFbFhkQzdjTDY5d3BVazkwSG1maFBiZ2swT1ptVldtb1MweV9iY2s0bzBhTEJPZmhvWDlrZTlTUG5GRWFYaXd5Z2JpT1BCOXZ0MXpnQ3hOajd5Sy1ZNDBIOWRqUjJ3Vm5pLWg4dTZMZTB6YVVPMjF4SkdRdw?oc=5)
+
+---
 
 ### [The surprising habits linked to dementia - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0FZb3hhWDNRWDkySGxQaGVNZm8wdkFPT21lZVlVSHRBdW5LZVRtdV9CbU9vLTB2N2J3UTBmYmJxWlBLMFJ4N0pmVlNlZDZNXzV6VzIxSXhLbWphLXZYc1FfRnJFZnpYalVxWXVHVEJGVDhSZk9ta0hudTVyd3FrYTI2SUJkRXdIcW1zSU00azh4Qi1meVUwMEFJbHcwb2ZENGY4SGJpZw?oc=5)
 

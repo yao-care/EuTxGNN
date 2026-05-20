@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# AVC（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,15 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Il a contribué à améliorer la prise en charge des AVC : l’ordre du Mérite pour ce neuroradiologue du CHU de Rennes](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRDhZRG1UcjExRG9BbE5MV2l1bFRDcVgyT21vZm1JbXdoNGt0UWFodGRwMlZCZDMxTTl6bnhmT3NIMHVHaU5tc0I0bzZ3ZzZhTXh4Y0UzTFU1RTJfMmljY0xNVDdfYmFzSkNTN25iN0l1TlRWUGhHSThfRlp5WmFLd0tBUXFlZWpVN1dKcDZjQWdtd2tSMHJXSm03TVQ1alo0WkVpQjhMNUVYQ0tYUnU4U0V4UHdKWVc4TXNIZzZBa1RnNXJGMFpaMEdCaG1yZGhMWUFoU3hfTnUyQzlPOHZMNlctT0VsTmJLcXotYkR3c3h0bGI5andEczZIWkphcVRBT1NDTXhn?oc=5)
-
-2026-05-19
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxNRDhZRG1UcjExRG9BbE5MV2l1bFRDcVgyT21vZm1JbXdoNGt0UWFodGRwMlZCZDMxTTl6bnhmT3NIMHVHaU5tc0I0bzZ3ZzZhTXh4Y0UzTFU1RTJfMmljY0xNVDdfYmFzSkNTN25iN0l1TlRWUGhHSThfRlp5WmFLd0tBUXFlZWpVN1dKcDZjQWdtd2tSMHJXSm03TVQ1alo0WkVpQjhMNUVYQ0tYUnU4U0V4UHdKWVc4TXNIZzZBa1RnNXJGMFpaMEdCaG1yZGhMWUFoU3hfTnUyQzlPOHZMNlctT0VsTmJLcXotYkR3c3h0bGI5andEczZIWkphcVRBT1NDTXhn?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Omega-3-Index: Acht Prozent als magische Schwelle fürs Herz - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdTVHRxNThra29fVURYT1h4MHRaYms3WjRmT2Y3UlVLQnZpeUtHMExGRUNfOEZKY1hxMVhGQVZ1blRlTWJxR3dWNFJSc0F5eWxFbnpCcW5NM2RpU3R5WExkRkFMV3ViaVlUbkhfQUplM0JId1JtUk51ZEFmRXNOZUlaa1Nlcllqam9rNjJ6SkRhSGJBaFhlM1ZQR1FsM1hENzZobTdWaV85MlY4?oc=5)
 
