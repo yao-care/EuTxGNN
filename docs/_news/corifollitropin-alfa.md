@@ -54,11 +54,11 @@ permalink: /news/corifollitropin-alfa/
 
 ## 相關新聞（2 則）
 
-### [Häufige Hormonstörung bekommt neuen Namen – was Betroffene wissen müssen](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtzeEJMWnRWSU5QaVhkbXgwRUR1VHFLX3NlTUlWLWxETHFaWklCZ3Z0aGIzYnllYTVvRy1jUUFqazhhMGtVa0dKOEtHSUppSVpMbDI4cXZyR21LMk9ycWFwQ0ZyVUUwcHlKekhjTTMzVUVaUFdiSE56c0pQaUZRcTVPSmVaRlFCZ3cwWi1jM3dXSzJBXzJVQWpQLVFHYWky?oc=5)
+### [Hypertension artérielle - Le Centre hospitalier de Chalon reconnu à l'échelle européenne depuis février](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
 
-2026-05-19 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+2026-05-19 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtzeEJMWnRWSU5QaVhkbXgwRUR1VHFLX3NlTUlWLWxETHFaWklCZ3Z0aGIzYnllYTVvRy1jUUFqazhhMGtVa0dKOEtHSUppSVpMbDI4cXZyR21LMk9ycWFwQ0ZyVUUwcHlKekhjTTMzVUVaUFdiSE56c0pQaUZRcTVPSmVaRlFCZ3cwWi1jM3dXSzJBXzJVQWpQLVFHYWky?oc=5)
+來源：[Info-Chalon.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [Omega-3-Index: Acht Prozent als magische Schwelle fürs Herz - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdTVHRxNThra29fVURYT1h4MHRaYms3WjRmT2Y3UlVLQnZpeUtHMExGRUNfOEZKY1hxMVhGQVZ1blRlTWJxR3dWNFJSc0F5eWxFbnpCcW5NM2RpU3R5WExkRkFMV3ViaVlUbkhfQUplM0JId1JtUk51ZEFmRXNOZUlaa1Nlcllqam9rNjJ6SkRhSGJBaFhlM1ZQR1FsM1hENzZobTdWaV85MlY4?oc=5)
+### [Hypertension artérielle - Le Centre hospitalier de Chalon reconnu à l'échelle européenne depuis février](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
 
-2026-05-19 <span class="news-indication-tag">Schlaganfall</span>
+2026-05-19 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdTVHRxNThra29fVURYT1h4MHRaYms3WjRmT2Y3UlVLQnZpeUtHMExGRUNfOEZKY1hxMVhGQVZ1blRlTWJxR3dWNFJSc0F5eWxFbnpCcW5NM2RpU3R5WExkRkFMV3ViaVlUbkhfQUplM0JId1JtUk51ZEFmRXNOZUlaa1Nlcllqam9rNjJ6SkRhSGJBaFhlM1ZQR1FsM1hENzZobTdWaV85MlY4?oc=5)
+來源：[Info-Chalon.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
 
 ---
 

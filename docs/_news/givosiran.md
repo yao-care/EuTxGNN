@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Hypertension artérielle - Le Centre hospitalier de Chalon reconnu à l'échelle européenne depuis février](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
+
+2026-05-19 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Info-Chalon.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
+
+---
 
 ### [Deutsche Leberstiftung erinnert vor dem Start der Urlaubssaison: Hepatitis-Impfung ist wichtiger Reiseschutz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNRnhxTzlGSnM3anJuUFZqMWtxYnc4YnhrSTdVX1hPWmNXQnBOLUxpOVJvdUZTbW1SRWdIWE16Y3VzWkpzd2FkdlVScw?oc=5)
 

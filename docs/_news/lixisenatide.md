@@ -14,7 +14,7 @@ permalink: /news/lixisenatide/
 ---
 
 <p class="key-answer" data-question="Lixisenatide 有什麼相關新聞？">
-<strong>Lixisenatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lixisenatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/lixisenatide/
 <p><a href="{{ '/drugs/lixisenatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+
+---
+
+### [Ernährung als Medizin: Wie die richtige Kost chronische Krankheiten bekämpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
+
+---
+
+### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObDBCYUdGNnozT3YyVEszRmxQTVVseExCZ0syQmJIcGhfTXdVOXQ5M2hPSG5LWUxKcm9qYnl2ams1TlU3UmJJYXVJc205QXB3Sm1PanJHN2h4RldMaFRZOEUydGlwUWNNZ0pnY1hXYUthanR6MTdqMlpGYTJrREVwVS1JcHZuQW1CRG9wRi1JZUxxRVpqaFQ1WkFmQW9weTN2SWhVOUlNUl9HRmE2dWRFUVB5bVU5UTlIUkdad1FHTUlLT0RGeWtxby04Tmx3NXI0LVVhaC0wS1gtak5fYkJSNw?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObDBCYUdGNnozT3YyVEszRmxQTVVseExCZ0syQmJIcGhfTXdVOXQ5M2hPSG5LWUxKcm9qYnl2ams1TlU3UmJJYXVJc205QXB3Sm1PanJHN2h4RldMaFRZOEUydGlwUWNNZ0pnY1hXYUthanR6MTdqMlpGYTJrREVwVS1JcHZuQW1CRG9wRi1JZUxxRVpqaFQ1WkFmQW9weTN2SWhVOUlNUl9HRmE2dWRFUVB5bVU5UTlIUkdad1FHTUlLT0RGeWtxby04Tmx3NXI0LVVhaC0wS1gtak5fYkJSNw?oc=5)
+
+---
+
+### [Descifran cómo bloquear una proteína clave en enfermedades como alzhéimer, párkinson, diabetes y artritis](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+
+---
 
 ### [Tipps aus dem roten Bus: Wie sich Herzkrankheiten verhindern lassen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
 
@@ -67,30 +99,6 @@ permalink: /news/lixisenatide/
 2026-05-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
-
----
-
-### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
-
-2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
-
----
-
-### [Cannabis Linked to Lower Weight And Reduced Diabetes Risk in Mouse Study](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5)
-
-2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5)
-
----
-
-### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
 
 ---
 

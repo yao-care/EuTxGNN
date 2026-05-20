@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li>heart disease（97.8%）</li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,13 +52,21 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Häufige Hormonstörung bekommt neuen Namen – was Betroffene wissen müssen](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtzeEJMWnRWSU5QaVhkbXgwRUR1VHFLX3NlTUlWLWxETHFaWklCZ3Z0aGIzYnllYTVvRy1jUUFqazhhMGtVa0dKOEtHSUppSVpMbDI4cXZyR21LMk9ycWFwQ0ZyVUUwcHlKekhjTTMzVUVaUFdiSE56c0pQaUZRcTVPSmVaRlFCZ3cwWi1jM3dXSzJBXzJVQWpQLVFHYWky?oc=5)
+### [Descifran cómo bloquear una proteína clave en enfermedades como alzhéimer, párkinson, diabetes y artritis](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
 
-2026-05-19 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span>
 
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtzeEJMWnRWSU5QaVhkbXgwRUR1VHFLX3NlTUlWLWxETHFaWklCZ3Z0aGIzYnllYTVvRy1jUUFqazhhMGtVa0dKOEtHSUppSVpMbDI4cXZyR21LMk9ycWFwQ0ZyVUUwcHlKekhjTTMzVUVaUFdiSE56c0pQaUZRcTVPSmVaRlFCZ3cwWi1jM3dXSzJBXzJVQWpQLVFHYWky?oc=5)
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+
+---
+
+### [Hypertension artérielle - Le Centre hospitalier de Chalon reconnu à l'échelle européenne depuis février](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
+
+2026-05-19 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Info-Chalon.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
 
 ---
 

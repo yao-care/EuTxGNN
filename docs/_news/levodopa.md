@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Belfast: Reading group 'makes life easier' for people with dementia](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTR0IwMnBOWWJZQXhuMnkyY1h1MnBQVGVpQTZHQnZId01xTWtvMmVCWjJiM3U3OWplV0VERzhrcmF6NGV3R1VlOWxJN3BoUmNRUTVWRkk3S2NoYWJE?oc=5)
+
+2026-05-20 <span class="news-indication-tag">dementia</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTR0IwMnBOWWJZQXhuMnkyY1h1MnBQVGVpQTZHQnZId01xTWtvMmVCWjJiM3U3OWplV0VERzhrcmF6NGV3R1VlOWxJN3BoUmNRUTVWRkk3S2NoYWJE?oc=5)
+
+---
 
 ### [My little boy has childhood dementia — I'm watching him fade away](https://news.google.com/rss/articles/CBMijAFBVV95cUxPM21CeVNSYnJ2WVd1cUJ5S3N5clpBelJpNHNBREZkWVZQSE94R3ZwemhxbkEyYVlrU3NTRlpvNEVqeF9saEdiRTltcjFKdWNOV2Q3T2lTTW4wWk16Tmw0VnJGSm9CbGo0RFdVRWFDczJ5Yi1Gd25vV3RUZ3QwVkpLNmZUVnBmbWUwT1J5UtIBkgFBVV95cUxNeDB2T1Z3R1JwWGxNLTRLeS1MeFBXZ2pFbFhkQzdjTDY5d3BVazkwSG1maFBiZ2swT1ptVldtb1MweV9iY2s0bzBhTEJPZmhvWDlrZTlTUG5GRWFYaXd5Z2JpT1BCOXZ0MXpnQ3hOajd5Sy1ZNDBIOWRqUjJ3Vm5pLWg4dTZMZTB6YVVPMjF4SkdRdw?oc=5)
 

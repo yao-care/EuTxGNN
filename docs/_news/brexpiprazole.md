@@ -54,11 +54,11 @@ permalink: /news/brexpiprazole/
 
 ## 相關新聞（1 則）
 
-### [Depressionen: Personalisierte Therapie schlägt Standardversorgung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWM2Y0dDaDlqN0V3X3M1X2FVSGJKamhZcVVDcGdQRmlwd1FnZ0tadmFTb3pqbGNnc1NOdllJdndyZzNDa08xd3R1TFhnT2EyUzJuUm0xRlZaUFl1UkU4aVlyX1ZONC04Z01NT2k0Z1lnYVlLOWJLN2hzTTRLTXRoWnA2Ti1vakxJVk8wMjhOUC1SM1Z6dndLZk1kNE9EXzVYa2psNTJkYWZTQnlPY25NUEdB?oc=5)
+### [Corea del Sur afirma haber creado unas lentillas que envían descargas eléctricas a través del ojo y mejoran el estado de ánimo - El Confidencial](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG5qM0phM0xvMmFvMWZtbWwzU2hBZ3dxNGtORHJlNFpJa0dONm9ZSzhEd0lYN2x6UXlxblBFc1ozNFV0YWhaNzhJRDBsUm44WklPWXQtOFpMVzBtcFdFQWx0cDN3RWw1U0xuUEU5RWxjNDdwS1pidV81Sldsa2M5dFJyS0NvUnNWd3IwRXJJNzh1aFNYeHlOaU5ZT1MxT2JRMkFhd2w3UG9oZw?oc=5)
 
-2026-05-18 <span class="news-indication-tag">depression</span>
+2026-05-20 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWM2Y0dDaDlqN0V3X3M1X2FVSGJKamhZcVVDcGdQRmlwd1FnZ0tadmFTb3pqbGNnc1NOdllJdndyZzNDa08xd3R1TFhnT2EyUzJuUm0xRlZaUFl1UkU4aVlyX1ZONC04Z01NT2k0Z1lnYVlLOWJLN2hzTTRLTXRoWnA2Ti1vakxJVk8wMjhOUC1SM1Z6dndLZk1kNE9EXzVYa2psNTJkYWZTQnlPY25NUEdB?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG5qM0phM0xvMmFvMWZtbWwzU2hBZ3dxNGtORHJlNFpJa0dONm9ZSzhEd0lYN2x6UXlxblBFc1ozNFV0YWhaNzhJRDBsUm44WklPWXQtOFpMVzBtcFdFQWx0cDN3RWw1U0xuUEU5RWxjNDdwS1pidV81Sldsa2M5dFJyS0NvUnNWd3IwRXJJNzh1aFNYeHlOaU5ZT1MxT2JRMkFhd2w3UG9oZw?oc=5)
 
 ---
 

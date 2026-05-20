@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li>heart disease（96.3%）</li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -54,11 +54,11 @@ permalink: /news/abemaciclib/
 
 ## 相關新聞（1 則）
 
-### [Häufige Hormonstörung bekommt neuen Namen – was Betroffene wissen müssen](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtzeEJMWnRWSU5QaVhkbXgwRUR1VHFLX3NlTUlWLWxETHFaWklCZ3Z0aGIzYnllYTVvRy1jUUFqazhhMGtVa0dKOEtHSUppSVpMbDI4cXZyR21LMk9ycWFwQ0ZyVUUwcHlKekhjTTMzVUVaUFdiSE56c0pQaUZRcTVPSmVaRlFCZ3cwWi1jM3dXSzJBXzJVQWpQLVFHYWky?oc=5)
+### [Descifran cómo bloquear una proteína clave en enfermedades como alzhéimer, párkinson, diabetes y artritis](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
 
-2026-05-19 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span>
 
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtzeEJMWnRWSU5QaVhkbXgwRUR1VHFLX3NlTUlWLWxETHFaWklCZ3Z0aGIzYnllYTVvRy1jUUFqazhhMGtVa0dKOEtHSUppSVpMbDI4cXZyR21LMk9ycWFwQ0ZyVUUwcHlKekhjTTMzVUVaUFdiSE56c0pQaUZRcTVPSmVaRlFCZ3cwWi1jM3dXSzJBXzJVQWpQLVFHYWky?oc=5)
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
 
 ---
 

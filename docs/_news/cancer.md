@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor（cancer） 相關新聞"
+title: "Krebs（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。24 則新聞、229 個相關藥物。"
+description: "Krebs（cancer） 的相關健康新聞報導。22 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
-# tumor（cancer） 相關新聞
+# Krebs（cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>24 則</strong>相關新聞報導，229 個相關藥物。
+<p class="key-answer" data-question="Krebs（cancer） 有什麼相關新聞？">
+<strong>Krebs（cancer）</strong> 目前有 <strong>22 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「tumor」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Krebs」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -257,29 +257,29 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（22 則）
+
+### [Ernährung als Medizin: Wie die richtige Kost chronische Krankheiten bekämpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
+
+2026-05-20
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
+
+---
+
+### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+2026-05-20
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+---
 
 ### ['Robotic technology is the way forward' for cancer surgery](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
 
 2026-05-19
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
-
----
-
-### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
-
-2026-05-19
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
-
----
-
-### [Prothèses mammaires, sous-vêtements adaptés… Une pétition demande l'application de la loi sur le remboursement des soins et dispositifs liés au cancer du sein](https://news.google.com/rss/articles/CBMivgJBVV95cUxPMWpVdlpmV1dVWkc5X0E2N0k1TjZ6WUdpRmVZb3JUNUY4cTZsZkpJWGdkejRDQldYSVlhLXRDNWw1X05wVWZIMXlicWR6SEdwVzNNM1RlRGpFOEZjTGtKZU91eXpaTlh2ZTl4ZVlIaTBDM2FEX3JUMnBTNFdMbzFlOVJtZFV0SmFNZzNqQzNFcEpYWWpldzM1RUpYeGE1RURQV2thc0tLdkhidVVFODYxUGZPRk1pNWRfZVZyOVcyX0MwN1BiSlhiVDllWnFoZmdzdlVKY3JDdXI4ODVSVXljd1J1cXloeWRkcXB3ZHlBN2ozelRBQTR4dDJVZWJ1WXpRcHctSG10RGtYYW5iM2prNlBkd0FXZHVZOE5HSHAwU0k3c2VmTnpadHI0dWp1elJrMEEzX3BraWNPdEJ2MlE?oc=5)
-
-2026-05-19
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMivgJBVV95cUxPMWpVdlpmV1dVWkc5X0E2N0k1TjZ6WUdpRmVZb3JUNUY4cTZsZkpJWGdkejRDQldYSVlhLXRDNWw1X05wVWZIMXlicWR6SEdwVzNNM1RlRGpFOEZjTGtKZU91eXpaTlh2ZTl4ZVlIaTBDM2FEX3JUMnBTNFdMbzFlOVJtZFV0SmFNZzNqQzNFcEpYWWpldzM1RUpYeGE1RURQV2thc0tLdkhidVVFODYxUGZPRk1pNWRfZVZyOVcyX0MwN1BiSlhiVDllWnFoZmdzdlVKY3JDdXI4ODVSVXljd1J1cXloeWRkcXB3ZHlBN2ozelRBQTR4dDJVZWJ1WXpRcHctSG10RGtYYW5iM2prNlBkd0FXZHVZOE5HSHAwU0k3c2VmTnpadHI0dWp1elJrMEEzX3BraWNPdEJ2MlE?oc=5)
 
 ---
 
@@ -296,6 +296,22 @@ permalink: /news/cancer/
 2026-05-19
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhM05MR2MxaHhER3ZsS29hRUhzeG1ia09FTk5NVFY2eTdmcGNJSGcxUlhZSngyR1dxNmxJMEt6aUFlN01qMnlqbGpMbFV3Ri13SFNvd0RKZVdfUjVwc2cwNVRwM1FBY2phS3ByYXpB?oc=5)
+
+---
+
+### [Ce traitement anticancer peut « réinitialiser » le système immunitaire avec une seule injection : une lueur d'espoir pour contrer les maladies auto-immunes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGVUeXRMdkNGTnpmaFpHU0ZiaG5RRGJMYkxJcWNBdFlaeUlCOTZXV2tYYjd5T3lmYU5iSTBtZlM0ZWJtUFh1TTdsYVdsRFJjSGlTeWJtV1h2TmdCWXN6UlppNWhmUGpjUElHcGhXZWZUVThrbWpNTGVkb1I3emFfVUFTbUtwWVdlVWNDNjZWN1hpMU1EWnJYQ01VRVhZQUl3MjFqcTlPRXE1TkVMdFB5T29maW5TVHZ2WlVieVpoWWxyTzNlaW13YXBhbFBTV2ZJVzlZNXQ4Q0dEZWZwemtV?oc=5)
+
+2026-05-19
+
+來源：[Presse-citron](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGVUeXRMdkNGTnpmaFpHU0ZiaG5RRGJMYkxJcWNBdFlaeUlCOTZXV2tYYjd5T3lmYU5iSTBtZlM0ZWJtUFh1TTdsYVdsRFJjSGlTeWJtV1h2TmdCWXN6UlppNWhmUGpjUElHcGhXZWZUVThrbWpNTGVkb1I3emFfVUFTbUtwWVdlVWNDNjZWN1hpMU1EWnJYQ01VRVhZQUl3MjFqcTlPRXE1TkVMdFB5T29maW5TVHZ2WlVieVpoWWxyTzNlaW13YXBhbFBTV2ZJVzlZNXQ4Q0dEZWZwemtV?oc=5)
+
+---
+
+### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+
+2026-05-19
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
 
 ---
 
@@ -416,38 +432,6 @@ permalink: /news/cancer/
 2026-05-18
 
 來源：[Mondoreale](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObThaVlFDS0FHQlpOcF9hTWowY1ZjbERrLW4xSElzdzdqZE40Y3JPVlRaWnUxMDJrSmNLS1NfX19PWjRuYVBsRGgyQTVfcllyMzlXNjdUdEt4S01tYWNfZkZxTXdyMVFHNmR0SWdqN3lyVW5jNWxkd0t0MW9zYzFMX041WGxHNzM2MDJybzFQUG5LZFItRGVpQml4Z0xqN2FBRC00RXFjaUVpMFJIYlZzWlY5blNhcHZLalM4UzM5S2hGQlpmT1p5OA?oc=5)
-
----
-
-### [« Je vois trop de diagnostics tardifs » : le Dr Benziane mobilise contre le cancer de la vessie à l’occasion de l’opération « Mai jaune »](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmx4LUpxSnFUeThXRWdTVVIyaXFVaFBITmNkelhyOXF6MHNmaUd3RFZWcjFqamR6RHJqQVNWYlRtSmRscWdhcFk4d2tJcEdNaUZKWTVVQVBMYzJXUVpzQlVmc0xEWmJHZDVzNTR2anV4Z0pMMWhtOWpIS2VnVmtYUUZWOEg4RmZFVy13MEVPX2t5LWt1bTRMVmdvUEtEaVhZdkNXLVhvOWpLWm1nVWZDNUZnRzRuWnkwYWQzNko4ZGZoZlRjeHRxWHNKNVlHU2cwVC1ITDVtbw?oc=5)
-
-2026-05-18
-
-來源：[Nice-Matin](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmx4LUpxSnFUeThXRWdTVVIyaXFVaFBITmNkelhyOXF6MHNmaUd3RFZWcjFqamR6RHJqQVNWYlRtSmRscWdhcFk4d2tJcEdNaUZKWTVVQVBMYzJXUVpzQlVmc0xEWmJHZDVzNTR2anV4Z0pMMWhtOWpIS2VnVmtYUUZWOEg4RmZFVy13MEVPX2t5LWt1bTRMVmdvUEtEaVhZdkNXLVhvOWpLWm1nVWZDNUZnRzRuWnkwYWQzNko4ZGZoZlRjeHRxWHNKNVlHU2cwVC1ITDVtbw?oc=5)
-
----
-
-### [Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
-
-2026-05-18
-
-來源：[WELT](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
-
----
-
-### [Torino, tumore raro invade il cranio: 73enne salvata con una protesi 3D personalizzata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUhwUy1HcFl2MkZoTXlwdENwYXdkMm1zNVoxSmdkNk1pNmg4bUliOXVMVXNSQkFGdENZTUtManUxaXZLWTdwTUhpQno1MXRlZ1pHczBCMElHUG91bGpZaG43aWUzYmtfdjZLRWI3MU9LUWt4NjVQZGROQ2I1R2dEcnp5Q25TQ0ZTaWl6am43QjFQcU9nQVB0bFN1SFlXa0VvNzlNStIBaEFVX3lxTFBEMlVFZjk4VUx0Qk1sMzFmX2lCQnhOaXV2ZFk4VGtGTW5oUFAwYzF4NTJDUlpiWndZdVlsMVViQXNraUUwOVM2Y0pfb2Riam52T3ZBSGx2Z3UzeTl5MzZpeDNYSEE4d1Ru?oc=5)
-
-2026-05-18
-
-來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUhwUy1HcFl2MkZoTXlwdENwYXdkMm1zNVoxSmdkNk1pNmg4bUliOXVMVXNSQkFGdENZTUtManUxaXZLWTdwTUhpQno1MXRlZ1pHczBCMElHUG91bGpZaG43aWUzYmtfdjZLRWI3MU9LUWt4NjVQZGROQ2I1R2dEcnp5Q25TQ0ZTaWl6am43QjFQcU9nQVB0bFN1SFlXa0VvNzlNStIBaEFVX3lxTFBEMlVFZjk4VUx0Qk1sMzFmX2lCQnhOaXV2ZFk4VGtGTW5oUFAwYzF4NTJDUlpiWndZdVlsMVViQXNraUUwOVM2Y0pfb2Riam52T3ZBSGx2Z3UzeTl5MzZpeDNYSEE4d1Ru?oc=5)
-
----
-
-### [Mann mit Hirntumor: "Jetzt kann ich endlich etwas dagegen tun"](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1FCMjJ1VXdWeUhkSUVYbnRxWkc5b090YWlJaV80ZnFjV0tmSTVuMHZETjNiZWJpdW1fMTk0Q19fR2luT2xiYmczRjhqT204OFZMd3prWW9NRktHNXdfZzhMcV9wcXJWcHlZUmlua1RETXIxNzk1Q1pLdEdIR3FOeUZ6NThrWjNLa05fbmFvUjl1RXE2ZlVwbnhGeXJ2cUlOczdUR0ltYm8?oc=5)
-
-2026-05-18
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1FCMjJ1VXdWeUhkSUVYbnRxWkc5b090YWlJaV80ZnFjV0tmSTVuMHZETjNiZWJpdW1fMTk0Q19fR2luT2xiYmczRjhqT204OFZMd3prWW9NRktHNXdfZzhMcV9wcXJWcHlZUmlua1RETXIxNzk1Q1pLdEdIR3FOeUZ6NThrWjNLa05fbmFvUjl1RXE2ZlVwbnhGeXJ2cUlOczdUR0ltYm8?oc=5)
 
 ---
 

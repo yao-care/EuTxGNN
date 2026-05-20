@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="Travoprost 有什麼相關新聞？">
-<strong>Travoprost</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Travoprost</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/travoprost/
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Häufige Hormonstörung bekommt neuen Namen – was Betroffene wissen müssen](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtzeEJMWnRWSU5QaVhkbXgwRUR1VHFLX3NlTUlWLWxETHFaWklCZ3Z0aGIzYnllYTVvRy1jUUFqazhhMGtVa0dKOEtHSUppSVpMbDI4cXZyR21LMk9ycWFwQ0ZyVUUwcHlKekhjTTMzVUVaUFdiSE56c0pQaUZRcTVPSmVaRlFCZ3cwWi1jM3dXSzJBXzJVQWpQLVFHYWky?oc=5)
-
-2026-05-19 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
-
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEtzeEJMWnRWSU5QaVhkbXgwRUR1VHFLX3NlTUlWLWxETHFaWklCZ3Z0aGIzYnllYTVvRy1jUUFqazhhMGtVa0dKOEtHSUppSVpMbDI4cXZyR21LMk9ycWFwQ0ZyVUUwcHlKekhjTTMzVUVaUFdiSE56c0pQaUZRcTVPSmVaRlFCZ3cwWi1jM3dXSzJBXzJVQWpQLVFHYWky?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

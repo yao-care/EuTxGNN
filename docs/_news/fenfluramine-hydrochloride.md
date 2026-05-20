@@ -54,11 +54,27 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（4 則）
 
-### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
 
-2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVwbUJveFlGOHE3S1c3dFEtWlhNRi1Edkl2bzVkd2tCaUE3VFlnWl9mUTd2Ym5rZGRUb0FENm5hQXhNWXViV2I0eWxyQVZzeHBGZzB1U0l2UFc4RGI0Q3NlX282TEhSY1J2WnBySHptdFg2bEJMNWlMd3pvb3o3a0JvZFotNTlYTV9NT29nODQ3S1c0RXJock9yTGFBVG5FY241dU1YRHFnZDg1UEMwS2duUjl5VGFENWFV?oc=5)
+來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+
+---
+
+### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObDBCYUdGNnozT3YyVEszRmxQTVVseExCZ0syQmJIcGhfTXdVOXQ5M2hPSG5LWUxKcm9qYnl2ams1TlU3UmJJYXVJc205QXB3Sm1PanJHN2h4RldMaFRZOEUydGlwUWNNZ0pnY1hXYUthanR6MTdqMlpGYTJrREVwVS1JcHZuQW1CRG9wRi1JZUxxRVpqaFQ1WkFmQW9weTN2SWhVOUlNUl9HRmE2dWRFUVB5bVU5UTlIUkdad1FHTUlLT0RGeWtxby04Tmx3NXI0LVVhaC0wS1gtak5fYkJSNw?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObDBCYUdGNnozT3YyVEszRmxQTVVseExCZ0syQmJIcGhfTXdVOXQ5M2hPSG5LWUxKcm9qYnl2ams1TlU3UmJJYXVJc205QXB3Sm1PanJHN2h4RldMaFRZOEUydGlwUWNNZ0pnY1hXYUthanR6MTdqMlpGYTJrREVwVS1JcHZuQW1CRG9wRi1JZUxxRVpqaFQ1WkFmQW9weTN2SWhVOUlNUl9HRmE2dWRFUVB5bVU5UTlIUkdad1FHTUlLT0RGeWtxby04Tmx3NXI0LVVhaC0wS1gtak5fYkJSNw?oc=5)
+
+---
+
+### [Neue Empfehlungen zur medikamentösen Therapie bei Kindern und Jugendlichen mit Adipositas - ernährungs umschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVlYQTN1d2tFRmlveUxVYUtTWWVIOTdVOHNqNnVzU0RvYTlkbWFZMkVIODFLZWc4WVFBX01tN3ZTakM2WkFGZ3J1OFdiSURqTm56OGZzOW1WZ1hLRHNCRkFrRjNiRzJnVmx6bnU1ak1tZmlaMHNoRVdweHM2TmVhMzVxdjA0NUVCSXhhUDctd21MY1pacHJvbW4xNWZnWkVLZkhHcFBjNkJzTVV0SmhRYUVtcmxYNDg4bWN0bE9oTGhTYmdMVXc?oc=5)
+
+2026-05-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVlYQTN1d2tFRmlveUxVYUtTWWVIOTdVOHNqNnVzU0RvYTlkbWFZMkVIODFLZWc4WVFBX01tN3ZTakM2WkFGZ3J1OFdiSURqTm56OGZzOW1WZ1hLRHNCRkFrRjNiRzJnVmx6bnU1ak1tZmlaMHNoRVdweHM2TmVhMzVxdjA0NUVCSXhhUDctd21MY1pacHJvbW4xNWZnWkVLZkhHcFBjNkJzTVV0SmhRYUVtcmxYNDg4bWN0bE9oTGhTYmdMVXc?oc=5)
 
 ---
 
@@ -67,22 +83,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-05-19 <span class="news-indication-tag">obesità</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMinAFBVV95cUxPakZucHZSeGxaRi1xNHBSdER2aE9vVmI0ZU9wUXl4SThXRkx5YWJydFNGcEF6Y2Rxa0hWUXFQNUZPZ2h5Q3p5MXNhRFBGZHdaM0tGdVR6TUpBVWlTWGRGWko3Z21kQW1uM1l2Q0w0T3NxbElXU0oyVnBCWFdaeFJoRVpfM3lqRDFWcEd4dngzakdRMFRWeEtiSWY3NjY?oc=5)
-
----
-
-### [Cannabis Linked to Lower Weight And Reduced Diabetes Risk in Mouse Study](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5)
-
-2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5)
-
----
-
-### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
 
 ---
 

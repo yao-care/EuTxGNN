@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,69 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（17 則）
 
-### [Qué tan preocupante es el brote de ébola que ya causó 130 muertes y se está propagando más rápido de lo que se pensaba, según la OMS](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZFlmcEJ4b081QjZuaktFZkVMZ29JQkRTZEIyVjNieGlkODN0NnNQcDBqcFlIZEtMWFlnUmVoYUFleUNObGFXNFVFUE45aDktNzRFeXh0VzE4a2vSAWBBVV95cUxQZi1yaGNlR3ZOMllrdHVwcy1jTjdHM0RpNDlWRlNvRXZiWHlKd01ESTBNU1RUeGV6Wmh5Q2l0amNsNEM0V3N3TlV3ZXdIRlQxeHlvZ21mVGlPMThtVnBLREE?oc=5)
+### [¿Cuánto ejercicio debo hacer a la semana para obtener un beneficio? - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVJpNDMydnRWQjZSdGc0QVBpRFFNTVpaNC1sRGs1QUp5QlgtbjNvSWNGVVREdFNKVW05dzNtbmlXdmxwRUJGRm5TLW9yS1p1d2dXeXI0cUJYMmlrNHpzam9Ydnd4di1vZGpTdE1HRW5ES2xGTEdFYnhkWjNlTjRYTWlYSWtEcjF1cWFVUTNXSnRXN19UcGVneDdCR0RjMjdrWDVvbnZYRmxtdWJCWU96Y1k3a0V1U21NUHo2dGtSTDlvMmVDWHRUckJvbHRoYUdlLUcxRjBzR0t3N1hPS2Jn?oc=5)
 
-2026-05-19 <span class="news-indication-tag">MS</span>
+2026-05-20 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZFlmcEJ4b081QjZuaktFZkVMZ29JQkRTZEIyVjNieGlkODN0NnNQcDBqcFlIZEtMWFlnUmVoYUFleUNObGFXNFVFUE45aDktNzRFeXh0VzE4a2vSAWBBVV95cUxQZi1yaGNlR3ZOMllrdHVwcy1jTjdHM0RpNDlWRlNvRXZiWHlKd01ESTBNU1RUeGV6Wmh5Q2l0amNsNEM0V3N3TlV3ZXdIRlQxeHlvZ21mVGlPMThtVnBLREE?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVJpNDMydnRWQjZSdGc0QVBpRFFNTVpaNC1sRGs1QUp5QlgtbjNvSWNGVVREdFNKVW05dzNtbmlXdmxwRUJGRm5TLW9yS1p1d2dXeXI0cUJYMmlrNHpzam9Ydnd4di1vZGpTdE1HRW5ES2xGTEdFYnhkWjNlTjRYTWlYSWtEcjF1cWFVUTNXSnRXN19UcGVneDdCR0RjMjdrWDVvbnZYRmxtdWJCWU96Y1k3a0V1U21NUHo2dGtSTDlvMmVDWHRUckJvbHRoYUdlLUcxRjBzR0t3N1hPS2Jn?oc=5)
 
 ---
 
-### [Ipocriti, razza di vipere](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UbnEwM1gtYmxTTE1nenhmRFpwT1V4bEdkQUZRbkdFOVZNVmtkWHVjZFFjaV8wZ3NXMno1RkVyRUxMMDhiMjlob0l3RUM1SXpkTjU5SW8yNThUWHdSSk1sOXR4c0Uzd2xHRGRrNEdSYjFVWkRQd1E?oc=5)
+### [Preocupa a la OMS la “magnitud y rapidez” de la propagación del ébola; van 134 muertes - Los Angeles Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnk3bDhsTlVaODNTR1M1aGcyU1dVSnVIcXdZSGxUcTJaUjJ2T2Z6WVVwUGZvVS1NaE12UWxtOXduaFVNV1djTUEtOGlqUFAyT3RHSTZJaGRPTEIwS3BWb2gzU2hRbzkybXpSOUp5enZvZDVXZExleVhqeFNIX2QyQ0ZCMEtqdXRsQmRjOExUTHU2cWFpS0I1bHpRRnBZUzlsMjlHLUx6SExoSWhlQ0NzNUlWQVJWaGJQSmdpRVRMbC0xZm9Hb0V5NTZuTXppbkdRUjM2a3V0SkptaHZfWG9Tag?oc=5)
+
+2026-05-20 <span class="news-indication-tag">MS</span>
+
+來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnk3bDhsTlVaODNTR1M1aGcyU1dVSnVIcXdZSGxUcTJaUjJ2T2Z6WVVwUGZvVS1NaE12UWxtOXduaFVNV1djTUEtOGlqUFAyT3RHSTZJaGRPTEIwS3BWb2gzU2hRbzkybXpSOUp5enZvZDVXZExleVhqeFNIX2QyQ0ZCMEtqdXRsQmRjOExUTHU2cWFpS0I1bHpRRnBZUzlsMjlHLUx6SExoSWhlQ0NzNUlWQVJWaGJQSmdpRVRMbC0xZm9Hb0V5NTZuTXppbkdRUjM2a3V0SkptaHZfWG9Tag?oc=5)
+
+---
+
+### [Neue Empfehlungen zur medikamentösen Therapie bei Kindern und Jugendlichen mit Adipositas - ernährungs umschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVlYQTN1d2tFRmlveUxVYUtTWWVIOTdVOHNqNnVzU0RvYTlkbWFZMkVIODFLZWc4WVFBX01tN3ZTakM2WkFGZ3J1OFdiSURqTm56OGZzOW1WZ1hLRHNCRkFrRjNiRzJnVmx6bnU1ak1tZmlaMHNoRVdweHM2TmVhMzVxdjA0NUVCSXhhUDctd21MY1pacHJvbW4xNWZnWkVLZkhHcFBjNkJzTVV0SmhRYUVtcmxYNDg4bWN0bE9oTGhTYmdMVXc?oc=5)
+
+2026-05-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVlYQTN1d2tFRmlveUxVYUtTWWVIOTdVOHNqNnVzU0RvYTlkbWFZMkVIODFLZWc4WVFBX01tN3ZTakM2WkFGZ3J1OFdiSURqTm56OGZzOW1WZ1hLRHNCRkFrRjNiRzJnVmx6bnU1ak1tZmlaMHNoRVdweHM2TmVhMzVxdjA0NUVCSXhhUDctd21MY1pacHJvbW4xNWZnWkVLZkhHcFBjNkJzTVV0SmhRYUVtcmxYNDg4bWN0bE9oTGhTYmdMVXc?oc=5)
+
+---
+
+### [Épidémie d’Ebola : un Américain testé positif, aucun vaccin… Pourquoi l’OMS se dit être "profondément préoccupée" - Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ1dma21qcmFuX1dEcEhHdEtHamg5bnE2NnBwemJJMGxnYjgxMnhoM0E2QTBzanRDcDZmTk1oc01YNWR3YnR5Y1JzLXdPWEkwWGJ6bUJkb1hjaWlXU3Q0V2REUlF6UXRzZi0zUlR6S2ZQdVVXZXV5TzZPWXRDajBBemZETWdxUnNUQXNyOG4yMWRtUnZpdDJIVU4tUVljQnJrbzNwaGE1UVNkMGtpZERxVVZydG9MYVhFa01EblZxMG41WGRKcjNPR0JwUU0zSEFtdkQwVXhETjl2RU9vaUE2TDFhSzQ2aTBDaVE?oc=5)
+
+2026-05-20 <span class="news-indication-tag">MS</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ1dma21qcmFuX1dEcEhHdEtHamg5bnE2NnBwemJJMGxnYjgxMnhoM0E2QTBzanRDcDZmTk1oc01YNWR3YnR5Y1JzLXdPWEkwWGJ6bUJkb1hjaWlXU3Q0V2REUlF6UXRzZi0zUlR6S2ZQdVVXZXV5TzZPWXRDajBBemZETWdxUnNUQXNyOG4yMWRtUnZpdDJIVU4tUVljQnJrbzNwaGE1UVNkMGtpZERxVVZydG9MYVhFa01EblZxMG41WGRKcjNPR0JwUU0zSEFtdkQwVXhETjl2RU9vaUE2TDFhSzQ2aTBDaVE?oc=5)
+
+---
+
+### [Epidemia di Ebola da virus Bundibugyo, ecco cosa sapere: dai rischi al contagio - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTM3QVNQX3U3Z2czTWRZdnRFMFdFaGRkQXViR29kTTdGNVJRelM3cWlKTFdIbXR5bnE4SzZEQjBKVDg2R0VxSEZpOUYtdGY3LWVoenJEQ09iMGo5c0EyOEJVbUpTdUVCcndmNW1ONVU1ZUdCMG9maURubVpiQm1MY2IzWG5lSjhRSURYYXJfZ0RHSUNRUkNub243QWRMelRBTGUwRTBhOUg?oc=5)
+
+2026-05-20 <span class="news-indication-tag">MS</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTM3QVNQX3U3Z2czTWRZdnRFMFdFaGRkQXViR29kTTdGNVJRelM3cWlKTFdIbXR5bnE4SzZEQjBKVDg2R0VxSEZpOUYtdGY3LWVoenJEQ09iMGo5c0EyOEJVbUpTdUVCcndmNW1ONVU1ZUdCMG9maURubVpiQm1MY2IzWG5lSjhRSURYYXJfZ0RHSUNRUkNub243QWRMelRBTGUwRTBhOUg?oc=5)
+
+---
+
+### [Medikamente im Alter: Diese Wirkstoffe senken das Demenzrisiko – und welche erhöhen es - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXVxSnNNSm8zWkxTM1JCYW9WdnlYTm9XYjBKd1JDSk1FWTN4aFpPUGR6ZnRheEI4TmtsdUt0TkRWb3lYX3RUdTd1dUpGazI5ejRHZ1F5bUp0UUI0bElfbk9Pbnd2LVJYTUxjUGUzTlV4UDdsSXh3eWIwaEI0ZmhZTDJYa0NuUVRGM2Vudm4wc2hic1JQUmtjNWFfb3NBZXRKeGpueXd4QlZ5bWFnMDk1ZHRxaWs?oc=5)
 
 2026-05-19 <span class="news-indication-tag">MS</span>
 
-來源：[Merateonline](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UbnEwM1gtYmxTTE1nenhmRFpwT1V4bEdkQUZRbkdFOVZNVmtkWHVjZFFjaV8wZ3NXMno1RkVyRUxMMDhiMjlob0l3RUM1SXpkTjU5SW8yNThUWHdSSk1sOXR4c0Uzd2xHRGRrNEdSYjFVWkRQd1E?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXVxSnNNSm8zWkxTM1JCYW9WdnlYTm9XYjBKd1JDSk1FWTN4aFpPUGR6ZnRheEI4TmtsdUt0TkRWb3lYX3RUdTd1dUpGazI5ejRHZ1F5bUp0UUI0bElfbk9Pbnd2LVJYTUxjUGUzTlV4UDdsSXh3eWIwaEI0ZmhZTDJYa0NuUVRGM2Vudm4wc2hic1JQUmtjNWFfb3NBZXRKeGpueXd4QlZ5bWFnMDk1ZHRxaWs?oc=5)
+
+---
+
+### [Fourth meningitis outbreak case confirmed in Reading junior school pupil - Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZvdk5wLW91ekMwNGFKS0VEbFQzZUludUdtNF9rQlJBWkdfN1hIUDlSZDFwRUh6Zm5TaWpsSmRjbnVpbUZFZnRIazl0cXB6SHBZeTh5VDJFWmY4d3ZVYy1acHJfSXFhQjRFQVBHS0lwbkxyWktpR1Q0V01rTVU5RUJBSEhtMjhfNGt3LTFTa3Zyc0xXN3NFUWdFZ2MtX0xWcEo5R2V4bVpQSXdW?oc=5)
+
+2026-05-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZvdk5wLW91ekMwNGFKS0VEbFQzZUludUdtNF9rQlJBWkdfN1hIUDlSZDFwRUh6Zm5TaWpsSmRjbnVpbUZFZnRIazl0cXB6SHBZeTh5VDJFWmY4d3ZVYy1acHJfSXFhQjRFQVBHS0lwbkxyWktpR1Q0V01rTVU5RUJBSEhtMjhfNGt3LTFTa3Zyc0xXN3NFUWdFZ2MtX0xWcEo5R2V4bVpQSXdW?oc=5)
+
+---
+
+### [Student, 21, tragically took her own life after suffering from ‘delusions caused by her vegan diet’](https://news.google.com/rss/articles/CBMisAFBVV95cUxOT29KeWgyY1BDdlVZYUpGVVJyUzBuZXJZaG40M1lpV3liVFdjXzBuLWhxUm5SN090NllIR0pBckd6U0JGWHN5eURqVWxzTkEzRTdfaTZ1cFQxVjhCTy0zbkNHOUJBUzBHN0JZenRjcWRiM3pvSUhLRkNJVWE1SG1YLVNieHdJZGVremJ1eGljWUltUExmbzh5Q1YwZ0VpMjRjUTlBMHJsUE42SDlwYU1rbA?oc=5)
+
+2026-05-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[lbc.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxOT29KeWgyY1BDdlVZYUpGVVJyUzBuZXJZaG40M1lpV3liVFdjXzBuLWhxUm5SN090NllIR0pBckd6U0JGWHN5eURqVWxzTkEzRTdfaTZ1cFQxVjhCTy0zbkNHOUJBUzBHN0JZenRjcWRiM3pvSUhLRkNJVWE1SG1YLVNieHdJZGVremJ1eGljWUltUExmbzh5Q1YwZ0VpMjRjUTlBMHJsUE42SDlwYU1rbA?oc=5)
 
 ---
 
@@ -94,11 +142,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Epidemia Ebola Congo: 131 morti. L'Italia attiva misure di sorveglianza - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEdqcnZ5b2tybzJXLVpObllpbnZBS0l3MW8xd05iekctTktTbmpRdF8tdm8zUDQ3al90YV9adGxxU0VRbEJ5eGpQcE00QkE5d2NJX3RHZlhna1o0WDNjZk4wMGtIMjJWWDA2ZjZDcmFCY3pDaV9JZ1pyMm1GaTQta1hJZlVaNFpob0E5SmJZZFJheC10czR2T3k2YlYwcVZmN1dIcThhXy1oUjBOQWc?oc=5)
+### ["La salida de EEUU y Argentina de la OMS es lamentable porque no se pueden resolver las pandemias a nivel individual" - Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYVBPSngzY29FUFJrdElkeVNkWHhoSTZTQkdmSUstbUc0Y0tyZnNPa3lkMm5ycFZTRDI4ZFVHNWRyT09qME9yVFJWZ2gwRzlJVlNuMFVsa2ZVRnU1S1dpc0MxTlhlVi1OLVNDaFFwSFJQZjE4S2paSmRLVHFueFhUYXdhU1lGNjZqWFN4U1ZfeTgxbGpfRFNVd1lNWEFXVVZzZERhWERGRW1CM2RMcUVQUWNUWkRwNDdVbXJZZ29VZ1liRXY4X3hPVWFFcXZPVkQtMDhRVjhiZEVRMktuUmdUNGc0MXlmaEdXc0MtRU5PT1UtTjZtYWVsWnlOS3lOUdIBkgJBVV95cUxQVzlXbUJOa0NXYVk3bTZKeXlNRk84NlRMcHdFdjZGdnlUNDdCSFBMTUVvVzA4RUVYSk5sdUsySllnMHNVR0cxUWpBMkRWUVM3ZVRnY2UwXzRxM0JfOHBtc2FhaTg4ekhHaTBvdU1md0w3NWtYbEI5dFNjdEhUdTcyQUt2Smg3Yi1wcmE2LTdvYWF6NEtnalNHVmc5OUplZmREWUxpUnl4YVRUZEVpa1JUXzJmcHg5SjJOYVlTWmZ5S3czeWtKRnkzcVdlaVVPcDRRU0FOT1UtNTRxT190d3BJc2Jsc3BjbVBvWFExTUZYSlFYNDZlNzFGeDlna0N3YXVuVC03TUpyNklHWGk4M0tCMG1R?oc=5)
 
-2026-05-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-19 <span class="news-indication-tag">MS</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEdqcnZ5b2tybzJXLVpObllpbnZBS0l3MW8xd05iekctTktTbmpRdF8tdm8zUDQ3al90YV9adGxxU0VRbEJ5eGpQcE00QkE5d2NJX3RHZlhna1o0WDNjZk4wMGtIMjJWWDA2ZjZDcmFCY3pDaV9JZ1pyMm1GaTQta1hJZlVaNFpob0E5SmJZZFJheC10czR2T3k2YlYwcVZmN1dIcThhXy1oUjBOQWc?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYVBPSngzY29FUFJrdElkeVNkWHhoSTZTQkdmSUstbUc0Y0tyZnNPa3lkMm5ycFZTRDI4ZFVHNWRyT09qME9yVFJWZ2gwRzlJVlNuMFVsa2ZVRnU1S1dpc0MxTlhlVi1OLVNDaFFwSFJQZjE4S2paSmRLVHFueFhUYXdhU1lGNjZqWFN4U1ZfeTgxbGpfRFNVd1lNWEFXVVZzZERhWERGRW1CM2RMcUVQUWNUWkRwNDdVbXJZZ29VZ1liRXY4X3hPVWFFcXZPVkQtMDhRVjhiZEVRMktuUmdUNGc0MXlmaEdXc0MtRU5PT1UtTjZtYWVsWnlOS3lOUdIBkgJBVV95cUxQVzlXbUJOa0NXYVk3bTZKeXlNRk84NlRMcHdFdjZGdnlUNDdCSFBMTUVvVzA4RUVYSk5sdUsySllnMHNVR0cxUWpBMkRWUVM3ZVRnY2UwXzRxM0JfOHBtc2FhaTg4ekhHaTBvdU1md0w3NWtYbEI5dFNjdEhUdTcyQUt2Smg3Yi1wcmE2LTdvYWF6NEtnalNHVmc5OUplZmREWUxpUnl4YVRUZEVpa1JUXzJmcHg5SjJOYVlTWmZ5S3czeWtKRnkzcVdlaVVPcDRRU0FOT1UtNTRxT190d3BJc2Jsc3BjbVBvWFExTUZYSlFYNDZlNzFGeDlna0N3YXVuVC03TUpyNklHWGk4M0tCMG1R?oc=5)
 
 ---
 
@@ -126,14 +174,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [La OMS alerta: el mundo sigue sin estar preparado para una nueva pandemia "aún mayor" que cada día está más cerca - Cadena SER](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMEExTjl4bEtuSnpPakZWRmZqZDE3VkxmdlZjQmh3X29iamZ2eGtPZmJJN3RJUGd2ZnVoaTg3OUMwcHhrMkxXZm0zTXc3MUxCaEdyRnZoRFd3VEtja2RDV25VT3VwTnNjcExTTWlBUmh6WFUwTzNSalU4d3A3Tk0yc2tQTGt0b1g1UE9KWm1GY1ZCdkYteVh6enpPTVdNbUpjSlRyNUk0TlpfZTlGajNseDhIa2lBMlI4U3RiYkdNWVBtRjloU0hTVVVPRFBBdnZQV25EYTdNZUJlTWxxTU5weXYyaDZOVmFkU0cycFVRTE1USk9mRndR0gGLAkFVX3lxTFBaRzdkdWtONGFMOWtCZmNTWmM0ZzBNSm9JMzk2Tnh0T2FaVGxPNFdaWnpuak0waDlwU1hKQVFhQTJHZENpa3gxQTIybUhUU0I1SW9VaVBzakZIclo3bG5hVkx5UV9JeWxCVjJ3eVBkOXJQX1dwMHZMY3dtWW5RS0xMSHlKZzcwejkzdTVaQVhnRWh0dU1BS3RaR2FjbWEwanJVMTFEdGExQzV2T1UzUDlueDhkdEJDR0prZGpMdUk2S0lwSmZlN2JaMVI3OWJvZ3BtSTFzSlFHbGdQaHBnczNDTWR2MkFQVUZlem15R1Q3WFhWeUNCVHlTVWZIS0NYT2RDWVN3SWJVWGZtSQ?oc=5)
-
-2026-05-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMEExTjl4bEtuSnpPakZWRmZqZDE3VkxmdlZjQmh3X29iamZ2eGtPZmJJN3RJUGd2ZnVoaTg3OUMwcHhrMkxXZm0zTXc3MUxCaEdyRnZoRFd3VEtja2RDV25VT3VwTnNjcExTTWlBUmh6WFUwTzNSalU4d3A3Tk0yc2tQTGt0b1g1UE9KWm1GY1ZCdkYteVh6enpPTVdNbUpjSlRyNUk0TlpfZTlGajNseDhIa2lBMlI4U3RiYkdNWVBtRjloU0hTVVVPRFBBdnZQV25EYTdNZUJlTWxxTU5weXYyaDZOVmFkU0cycFVRTE1USk9mRndR0gGLAkFVX3lxTFBaRzdkdWtONGFMOWtCZmNTWmM0ZzBNSm9JMzk2Tnh0T2FaVGxPNFdaWnpuak0waDlwU1hKQVFhQTJHZENpa3gxQTIybUhUU0I1SW9VaVBzakZIclo3bG5hVkx5UV9JeWxCVjJ3eVBkOXJQX1dwMHZMY3dtWW5RS0xMSHlKZzcwejkzdTVaQVhnRWh0dU1BS3RaR2FjbWEwanJVMTFEdGExQzV2T1UzUDlueDhkdEJDR0prZGpMdUk2S0lwSmZlN2JaMVI3OWJvZ3BtSTFzSlFHbGdQaHBnczNDTWR2MkFQVUZlem15R1Q3WFhWeUNCVHlTVWZIS0NYT2RDWVN3SWJVWGZtSQ?oc=5)
-
----
-
 ### [Kostenlose HPV-Impfung: Piks holen, Mocktail trinken“: Aktion für Jugendliche in Winsen gestartet](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWExWcGFjV2JyMFNMRTNlMGFaUU1mMjhSWktOdjlzS1JjWjRPaWl4WkNmVlFBZ2YzVjd3RTBhWE01c3ZtZTJfNlBUcVpKUVpBYUtYRXpnM1F2c1BrcEpOVGRBaXktNU9UNW10ODJNN3YxdmJQN2Y4bWdWbHRHSXdzM2tTNDZDY2tISmhnNmxyLWswdzNZb1ZOUkJUVmJVc0UyVHh6T0NnS3R5VXBIZy0wSS01WFVxa3ZXX0ZHeTdlYXhjaGMyb2ZGVC1IUEJJcVZtVkZv?oc=5)
 
 2026-05-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -147,14 +187,6 @@ permalink: /news/pibrentasvir/
 2026-05-18 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNRW1tc2h2cGNVUWN4LTZjbDN6WHc5b1hGTTNSMEJkVUVXRWtuVlgxT21kdWZhblNzSGhGN2Q4TTd5NlphRjlGVkxsOTBhem5KNnMxalk4RE03V3ZOQUcydnZkbFpOaTgtOF8wTVhIWS11cGhnQzgwSlRxdGhCUE5BQ2FsbWhubXd5SFRINE9uYXpGTE9YaDVkLXJITnNiQQ?oc=5)
-
----
-
-### [The problem with "classic" Lyme disease symptoms - Harvard Health](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbk5HSFRrOTcwWnZFX25GTjBfSTNQVHFQVU1FelFlX0JDYlZYXzhxTW96Z2VRbE5od3J1aTl3ckM5UlpramdlZlpvWHl3Qkd0ajZISEo4OW9GbExFUVBtZlpzT1FYWlM4VUE3bmJFQWEzcU55M1FTaWYwcE1waWw5WGVfQzFabWNmRU1XbnBycU5JeHJCYkpjMnBiN3RXZlhNSVEzeUkyekNiY0JZ?oc=5)
-
-2026-05-18 <span class="news-indication-tag">MS</span>
-
-來源：[Harvard Health](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbk5HSFRrOTcwWnZFX25GTjBfSTNQVHFQVU1FelFlX0JDYlZYXzhxTW96Z2VRbE5od3J1aTl3ckM5UlpramdlZlpvWHl3Qkd0ajZISEo4OW9GbExFUVBtZlpzT1FYWlM4VUE3bmJFQWEzcU55M1FTaWYwcE1waWw5WGVfQzFabWNmRU1XbnBycU5JeHJCYkpjMnBiN3RXZlhNSVEzeUkyekNiY0JZ?oc=5)
 
 ---
 

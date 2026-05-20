@@ -14,7 +14,7 @@ permalink: /news/pomalidomide/
 ---
 
 <p class="key-answer" data-question="Pomalidomide 有什麼相關新聞？">
-<strong>Pomalidomide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pomalidomide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/pomalidomide/
 <p><a href="{{ '/drugs/pomalidomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（23 則）
+
+### [Ernährung als Medizin: Wie die richtige Kost chronische Krankheiten bekämpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
+
+---
+
+### [Krebs: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+2026-05-20 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMllLeUlqMUVoMnlEYVo3UFJNeGpTSTJxV3ZQXzdleHQ3aUxEdndONFpPUnlVUE5JOEd3NVJHRXlFR1ZsZEx2YVJ3NUhveHdmd2pmYklRX2djR1NFZkR2YWJLamVac0Q2bUNORmdtcmV2VkJzdXlNZFdtWjV5N1FCSVN0NTBOQzVka1hsbDdSWW5ZUWdYWHZKT0xYcFVhcnpsVjFDTVlqOVBBZ19xaUNOM2VSTkEyVXgwT1hpSkFRbUlfT0ZOSHlEdnNJOFlON2RkMl9nWg?oc=5)
+
+---
 
 ### ['Robotic technology is the way forward' for cancer surgery](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
 
 2026-05-19 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
-
----
-
-### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancer</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
-
----
-
-### [Prothèses mammaires, sous-vêtements adaptés… Une pétition demande l'application de la loi sur le remboursement des soins et dispositifs liés au cancer du sein](https://news.google.com/rss/articles/CBMivgJBVV95cUxPMWpVdlpmV1dVWkc5X0E2N0k1TjZ6WUdpRmVZb3JUNUY4cTZsZkpJWGdkejRDQldYSVlhLXRDNWw1X05wVWZIMXlicWR6SEdwVzNNM1RlRGpFOEZjTGtKZU91eXpaTlh2ZTl4ZVlIaTBDM2FEX3JUMnBTNFdMbzFlOVJtZFV0SmFNZzNqQzNFcEpYWWpldzM1RUpYeGE1RURQV2thc0tLdkhidVVFODYxUGZPRk1pNWRfZVZyOVcyX0MwN1BiSlhiVDllWnFoZmdzdlVKY3JDdXI4ODVSVXljd1J1cXloeWRkcXB3ZHlBN2ozelRBQTR4dDJVZWJ1WXpRcHctSG10RGtYYW5iM2prNlBkd0FXZHVZOE5HSHAwU0k3c2VmTnpadHI0dWp1elJrMEEzX3BraWNPdEJ2MlE?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMivgJBVV95cUxPMWpVdlpmV1dVWkc5X0E2N0k1TjZ6WUdpRmVZb3JUNUY4cTZsZkpJWGdkejRDQldYSVlhLXRDNWw1X05wVWZIMXlicWR6SEdwVzNNM1RlRGpFOEZjTGtKZU91eXpaTlh2ZTl4ZVlIaTBDM2FEX3JUMnBTNFdMbzFlOVJtZFV0SmFNZzNqQzNFcEpYWWpldzM1RUpYeGE1RURQV2thc0tLdkhidVVFODYxUGZPRk1pNWRfZVZyOVcyX0MwN1BiSlhiVDllWnFoZmdzdlVKY3JDdXI4ODVSVXljd1J1cXloeWRkcXB3ZHlBN2ozelRBQTR4dDJVZWJ1WXpRcHctSG10RGtYYW5iM2prNlBkd0FXZHVZOE5HSHAwU0k3c2VmTnpadHI0dWp1elJrMEEzX3BraWNPdEJ2MlE?oc=5)
 
 ---
 
@@ -94,9 +94,25 @@ permalink: /news/pomalidomide/
 
 ---
 
+### [Ce traitement anticancer peut « réinitialiser » le système immunitaire avec une seule injection : une lueur d'espoir pour contrer les maladies auto-immunes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGVUeXRMdkNGTnpmaFpHU0ZiaG5RRGJMYkxJcWNBdFlaeUlCOTZXV2tYYjd5T3lmYU5iSTBtZlM0ZWJtUFh1TTdsYVdsRFJjSGlTeWJtV1h2TmdCWXN6UlppNWhmUGpjUElHcGhXZWZUVThrbWpNTGVkb1I3emFfVUFTbUtwWVdlVWNDNjZWN1hpMU1EWnJYQ01VRVhZQUl3MjFqcTlPRXE1TkVMdFB5T29maW5TVHZ2WlVieVpoWWxyTzNlaW13YXBhbFBTV2ZJVzlZNXQ4Q0dEZWZwemtV?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[Presse-citron](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGVUeXRMdkNGTnpmaFpHU0ZiaG5RRGJMYkxJcWNBdFlaeUlCOTZXV2tYYjd5T3lmYU5iSTBtZlM0ZWJtUFh1TTdsYVdsRFJjSGlTeWJtV1h2TmdCWXN6UlppNWhmUGpjUElHcGhXZWZUVThrbWpNTGVkb1I3emFfVUFTbUtwWVdlVWNDNjZWN1hpMU1EWnJYQ01VRVhZQUl3MjFqcTlPRXE1TkVMdFB5T29maW5TVHZ2WlVieVpoWWxyTzNlaW13YXBhbFBTV2ZJVzlZNXQ4Q0dEZWZwemtV?oc=5)
+
+---
+
+### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+
+---
+
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
-2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
@@ -219,38 +235,6 @@ permalink: /news/pomalidomide/
 2026-05-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondoreale](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObThaVlFDS0FHQlpOcF9hTWowY1ZjbERrLW4xSElzdzdqZE40Y3JPVlRaWnUxMDJrSmNLS1NfX19PWjRuYVBsRGgyQTVfcllyMzlXNjdUdEt4S01tYWNfZkZxTXdyMVFHNmR0SWdqN3lyVW5jNWxkd0t0MW9zYzFMX041WGxHNzM2MDJybzFQUG5LZFItRGVpQml4Z0xqN2FBRC00RXFjaUVpMFJIYlZzWlY5blNhcHZLalM4UzM5S2hGQlpmT1p5OA?oc=5)
-
----
-
-### [« Je vois trop de diagnostics tardifs » : le Dr Benziane mobilise contre le cancer de la vessie à l’occasion de l’opération « Mai jaune »](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmx4LUpxSnFUeThXRWdTVVIyaXFVaFBITmNkelhyOXF6MHNmaUd3RFZWcjFqamR6RHJqQVNWYlRtSmRscWdhcFk4d2tJcEdNaUZKWTVVQVBMYzJXUVpzQlVmc0xEWmJHZDVzNTR2anV4Z0pMMWhtOWpIS2VnVmtYUUZWOEg4RmZFVy13MEVPX2t5LWt1bTRMVmdvUEtEaVhZdkNXLVhvOWpLWm1nVWZDNUZnRzRuWnkwYWQzNko4ZGZoZlRjeHRxWHNKNVlHU2cwVC1ITDVtbw?oc=5)
-
-2026-05-18 <span class="news-indication-tag">cancer</span>
-
-來源：[Nice-Matin](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmx4LUpxSnFUeThXRWdTVVIyaXFVaFBITmNkelhyOXF6MHNmaUd3RFZWcjFqamR6RHJqQVNWYlRtSmRscWdhcFk4d2tJcEdNaUZKWTVVQVBMYzJXUVpzQlVmc0xEWmJHZDVzNTR2anV4Z0pMMWhtOWpIS2VnVmtYUUZWOEg4RmZFVy13MEVPX2t5LWt1bTRMVmdvUEtEaVhZdkNXLVhvOWpLWm1nVWZDNUZnRzRuWnkwYWQzNko4ZGZoZlRjeHRxWHNKNVlHU2cwVC1ITDVtbw?oc=5)
-
----
-
-### [Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
-
-2026-05-18 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
-
----
-
-### [Torino, tumore raro invade il cranio: 73enne salvata con una protesi 3D personalizzata](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUhwUy1HcFl2MkZoTXlwdENwYXdkMm1zNVoxSmdkNk1pNmg4bUliOXVMVXNSQkFGdENZTUtManUxaXZLWTdwTUhpQno1MXRlZ1pHczBCMElHUG91bGpZaG43aWUzYmtfdjZLRWI3MU9LUWt4NjVQZGROQ2I1R2dEcnp5Q25TQ0ZTaWl6am43QjFQcU9nQVB0bFN1SFlXa0VvNzlNStIBaEFVX3lxTFBEMlVFZjk4VUx0Qk1sMzFmX2lCQnhOaXV2ZFk4VGtGTW5oUFAwYzF4NTJDUlpiWndZdVlsMVViQXNraUUwOVM2Y0pfb2Riam52T3ZBSGx2Z3UzeTl5MzZpeDNYSEE4d1Ru?oc=5)
-
-2026-05-18 <span class="news-indication-tag">tumor</span>
-
-來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUhwUy1HcFl2MkZoTXlwdENwYXdkMm1zNVoxSmdkNk1pNmg4bUliOXVMVXNSQkFGdENZTUtManUxaXZLWTdwTUhpQno1MXRlZ1pHczBCMElHUG91bGpZaG43aWUzYmtfdjZLRWI3MU9LUWt4NjVQZGROQ2I1R2dEcnp5Q25TQ0ZTaWl6am43QjFQcU9nQVB0bFN1SFlXa0VvNzlNStIBaEFVX3lxTFBEMlVFZjk4VUx0Qk1sMzFmX2lCQnhOaXV2ZFk4VGtGTW5oUFAwYzF4NTJDUlpiWndZdVlsMVViQXNraUUwOVM2Y0pfb2Riam52T3ZBSGx2Z3UzeTl5MzZpeDNYSEE4d1Ru?oc=5)
-
----
-
-### [Mann mit Hirntumor: "Jetzt kann ich endlich etwas dagegen tun"](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1FCMjJ1VXdWeUhkSUVYbnRxWkc5b090YWlJaV80ZnFjV0tmSTVuMHZETjNiZWJpdW1fMTk0Q19fR2luT2xiYmczRjhqT204OFZMd3prWW9NRktHNXdfZzhMcV9wcXJWcHlZUmlua1RETXIxNzk1Q1pLdEdIR3FOeUZ6NThrWjNLa05fbmFvUjl1RXE2ZlVwbnhGeXJ2cUlOczdUR0ltYm8?oc=5)
-
-2026-05-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1FCMjJ1VXdWeUhkSUVYbnRxWkc5b090YWlJaV80ZnFjV0tmSTVuMHZETjNiZWJpdW1fMTk0Q19fR2luT2xiYmczRjhqT204OFZMd3prWW9NRktHNXdfZzhMcV9wcXJWcHlZUmlua1RETXIxNzk1Q1pLdEdIR3FOeUZ6NThrWjNLa05fbmFvUjl1RXE2ZlVwbnhGeXJ2cUlOczdUR0ltYm8?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Descifran cómo bloquear una proteína clave en enfermedades como alzhéimer, párkinson, diabetes y artritis](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+
+---
 
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
-2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 

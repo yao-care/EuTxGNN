@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# AVC（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
+<strong>AVC（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [Omega-3-Index: Acht Prozent als magische Schwelle fürs Herz - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdTVHRxNThra29fVURYT1h4MHRaYms3WjRmT2Y3UlVLQnZpeUtHMExGRUNfOEZKY1hxMVhGQVZ1blRlTWJxR3dWNFJSc0F5eWxFbnpCcW5NM2RpU3R5WExkRkFMV3ViaVlUbkhfQUplM0JId1JtUk51ZEFmRXNOZUlaa1Nlcllqam9rNjJ6SkRhSGJBaFhlM1ZQR1FsM1hENzZobTdWaV85MlY4?oc=5)
+### [Hypertension artérielle - Le Centre hospitalier de Chalon reconnu à l'échelle européenne depuis février](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
 
 2026-05-19
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdTVHRxNThra29fVURYT1h4MHRaYms3WjRmT2Y3UlVLQnZpeUtHMExGRUNfOEZKY1hxMVhGQVZ1blRlTWJxR3dWNFJSc0F5eWxFbnpCcW5NM2RpU3R5WExkRkFMV3ViaVlUbkhfQUplM0JId1JtUk51ZEFmRXNOZUlaa1Nlcllqam9rNjJ6SkRhSGJBaFhlM1ZQR1FsM1hENzZobTdWaV85MlY4?oc=5)
+來源：[Info-Chalon.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
 
 ---
 
