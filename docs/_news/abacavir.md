@@ -54,11 +54,11 @@ permalink: /news/abacavir/
 
 ## 相關新聞（1 則）
 
-### [Deutsche Leberstiftung erinnert vor dem Start der Urlaubssaison: Hepatitis-Impfung ist wichtiger Reiseschutz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNRnhxTzlGSnM3anJuUFZqMWtxYnc4YnhrSTdVX1hPWmNXQnBOLUxpOVJvdUZTbW1SRWdIWE16Y3VzWkpzd2FkdlVScw?oc=5)
+### [Deutsche Leberstiftung erinnert vor dem Start der Urlaubssaison: Hepatitis-Impfung ist wichtiger Reiseschutz - gesundheit adhoc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTg0Sjc1a3YyYl80MHpjRXpmV08wSkF0eW82V2s3cUw0dzlJd1Z0d2VUaVBlbUMzd1hYTFlxX0xYdGRfQTJEM2I4a2JCcnRENlhFbTAwbFVCVGFuemFEZG1oZlUtQU9DY2xOYVFxdnVBMkhEZ21NckJraTZLVUctMnEwLWVzQ3Z0SGZHa3pxNm13UXY0UTAzLWpTYWFvUHpqS2oyVGFJSGFNMTQ2WHo1b3ZfMjJXWk8tc2ZCRWluQzJPVURfT2k3ZlNETTBNNVVLVGFFaHotaw?oc=5)
 
-2026-05-19 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-05-19 <span class="news-indication-tag">hepatitis</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNRnhxTzlGSnM3anJuUFZqMWtxYnc4YnhrSTdVX1hPWmNXQnBOLUxpOVJvdUZTbW1SRWdIWE16Y3VzWkpzd2FkdlVScw?oc=5)
+來源：[gesundheit adhoc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTg0Sjc1a3YyYl80MHpjRXpmV08wSkF0eW82V2s3cUw0dzlJd1Z0d2VUaVBlbUMzd1hYTFlxX0xYdGRfQTJEM2I4a2JCcnRENlhFbTAwbFVCVGFuemFEZG1oZlUtQU9DY2xOYVFxdnVBMkhEZ21NckJraTZLVUctMnEwLWVzQ3Z0SGZHa3pxNm13UXY0UTAzLWpTYWFvUHpqS2oyVGFJSGFNMTQ2WHo1b3ZfMjJXWk8tc2ZCRWluQzJPVURfT2k3ZlNETTBNNVVLVGFFaHotaw?oc=5)
 
 ---
 

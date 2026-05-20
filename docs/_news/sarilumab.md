@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Descifran cómo bloquear una proteína clave en enfermedades como alzhéimer, párkinson, diabetes y artritis](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+### [Una pastilla barata para el asma abre una nueva vía contra los cánceres más agresivos](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
 
-2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span>
+2026-05-20 <span class="news-indication-tag">asma</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
 
 ---
 
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
-2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
+2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
-
----
-
-### [NHS Dr Ranj issues urgent asthma 'review' warning to anyone using blue inhaler - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
-
-2026-05-18 <span class="news-indication-tag">asthma</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
-
----
-
-### [Morbus Crohn: GPX4-Marker revolutioniert Rückfall-Prognose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTlUYUFlMGllVjdJdDlNRWRldW5DcGtWMjFqV0h2S2FVQzZmYUJiWk1QVTBUelR1eEtrdkZjX0J2NE80V1FraXFtNzBwQzRzaGl5MFBwek9zRktNUVlSaUVzWDFWTXdSWjRkMi1aSV81M1BFZjNuV3JybTVZeDlwcEZkX0U5dF9BaDlUQnFhTUs4UGhzenJaVXAyYk0yZEMtVHZNT3Rjc1c1dW8?oc=5)
-
-2026-05-18 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTlUYUFlMGllVjdJdDlNRWRldW5DcGtWMjFqV0h2S2FVQzZmYUJiWk1QVTBUelR1eEtrdkZjX0J2NE80V1FraXFtNzBwQzRzaGl5MFBwek9zRktNUVlSaUVzWDFWTXdSWjRkMi1aSV81M1BFZjNuV3JybTVZeDlwcEZkX0U5dF9BaDlUQnFhTUs4UGhzenJaVXAyYk0yZEMtVHZNT3Rjc1c1dW8?oc=5)
 
 ---
 

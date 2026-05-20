@@ -54,19 +54,19 @@ permalink: /news/fluticasone-propionate/
 
 ## 相關新聞（2 則）
 
-### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+### [Una pastilla barata para el asma abre una nueva vía contra los cánceres más agresivos](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
 
-2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
+2026-05-20 <span class="news-indication-tag">asma</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
 
 ---
 
-### [NHS Dr Ranj issues urgent asthma 'review' warning to anyone using blue inhaler - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
+### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
-2026-05-18 <span class="news-indication-tag">asthma</span>
+2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
 ---
 

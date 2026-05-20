@@ -54,11 +54,11 @@ permalink: /news/golimumab/
 
 ## 相關新聞（1 則）
 
-### [Descifran cómo bloquear una proteína clave en enfermedades como alzhéimer, párkinson, diabetes y artritis](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+### [Colite ulcerosa, tutto quello che c'è da sapere](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUFnTVJQMWhTeEV0U2d3NmZQeU1LX0ljaW1Vc1VCZlBobnlPOTFVTTE5cW12enJSTlgyS3dJX3J6dEE4cmdHVmlfbktDTS1tTFB4RHVtREhocW9RdEtxaUhudGljUDFOWGNVUW9ESklLNS1taXh6NkJYYVhMd0kyNW16YXFPOENoTE5CVl8tV2VnSUM5cVZzX0RYZjJzM3FubXc?oc=5)
 
-2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span>
+2026-05-19 <span class="news-indication-tag">colite ulcerosa</span> <span class="news-indication-tag">AF</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
+來源：[Cremaonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUFnTVJQMWhTeEV0U2d3NmZQeU1LX0ljaW1Vc1VCZlBobnlPOTFVTTE5cW12enJSTlgyS3dJX3J6dEE4cmdHVmlfbktDTS1tTFB4RHVtREhocW9RdEtxaUhudGljUDFOWGNVUW9ESklLNS1taXh6NkJYYVhMd0kyNW16YXFPOENoTE5CVl8tV2VnSUM5cVZzX0RYZjJzM3FubXc?oc=5)
 
 ---
 

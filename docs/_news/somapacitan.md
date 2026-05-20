@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
 ### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
 
@@ -62,27 +62,27 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Typ-2-Diabetes: Stark in die Therapie starten, langfristig profitieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
+
+---
+
+### [Una pastilla barata para el asma abre una nueva vía contra los cánceres más agresivos](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
+
+2026-05-20 <span class="news-indication-tag">asma</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
+
+---
+
 ### [Ernährung als Medizin: Wie die richtige Kost chronische Krankheiten bekämpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
 
 2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
-
----
-
-### [diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObDBCYUdGNnozT3YyVEszRmxQTVVseExCZ0syQmJIcGhfTXdVOXQ5M2hPSG5LWUxKcm9qYnl2ams1TlU3UmJJYXVJc205QXB3Sm1PanJHN2h4RldMaFRZOEUydGlwUWNNZ0pnY1hXYUthanR6MTdqMlpGYTJrREVwVS1JcHZuQW1CRG9wRi1JZUxxRVpqaFQ1WkFmQW9weTN2SWhVOUlNUl9HRmE2dWRFUVB5bVU5UTlIUkdad1FHTUlLT0RGeWtxby04Tmx3NXI0LVVhaC0wS1gtak5fYkJSNw?oc=5)
-
-2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObDBCYUdGNnozT3YyVEszRmxQTVVseExCZ0syQmJIcGhfTXdVOXQ5M2hPSG5LWUxKcm9qYnl2ams1TlU3UmJJYXVJc205QXB3Sm1PanJHN2h4RldMaFRZOEUydGlwUWNNZ0pnY1hXYUthanR6MTdqMlpGYTJrREVwVS1JcHZuQW1CRG9wRi1JZUxxRVpqaFQ1WkFmQW9weTN2SWhVOUlNUl9HRmE2dWRFUVB5bVU5UTlIUkdad1FHTUlLT0RGeWtxby04Tmx3NXI0LVVhaC0wS1gtak5fYkJSNw?oc=5)
-
----
-
-### [Descifran cómo bloquear una proteína clave en enfermedades como alzhéimer, párkinson, diabetes y artritis](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
-
-2026-05-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGtST0NEZkl6QThhR1hwSERLcEJWNHpjbDJXQ1VnS3d0SnNqSWFMRmdJVXVtQnlxZVdHZEJrUElrZHhESk5PMlV2OEMwbG9Pd3lVdk5aamUtQU5CSkhxYTJYb1NyZGJZVTVYSXRVOHVoRDhpWDhOV2l2X1lFOEwxWDR0d0M2Tlk4SDRQOEUyNkE4TmdOR2o0YnptWnh2TUVkS2Z6WDVkaTNWbVVWUEtzOWozWGJQOFpjMFhFcVI4RjJOWHU2Vmc?oc=5)
 
 ---
 
@@ -102,35 +102,27 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Diabete di tipo 1, quanto conta la diagnosi precoce e chi è più a rischio](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHhvVFVTcjlNb0ZiWEVfTDdMY0FiLVdJYUJHT3FlRmYyRFJUTEZaYjRCdWh5Q3ZoYmdHRXNKaTk5TjhzY0ZtbklDMlk2REpRNWZ5R2VWSEltRVNRTS1EZFgzOUdGTHZSMnRIaHlIMDhtbks2YjFTRDJINDJ6SWlBYXN2SHMyY2VOdTVN0gGQAUFVX3lxTE03ZmVxdWN2QWlRdjdNeVBLQUdXWnoxNEZRMmUzeWpZb2FGcFdoaXMtaExxTWEtRC0wUzg5U29GUTBJa0wxOC03ZjNla1NsMDRyY1lVN3BOcFF4WW5vMVVoT0xRYS1IUU1tNW55MlJjdGY2cHJyd3M2dUtoZzhBeml3cjhqN0ZvbGpnZ2NQRjBYbw?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabete</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHhvVFVTcjlNb0ZiWEVfTDdMY0FiLVdJYUJHT3FlRmYyRFJUTEZaYjRCdWh5Q3ZoYmdHRXNKaTk5TjhzY0ZtbklDMlk2REpRNWZ5R2VWSEltRVNRTS1EZFgzOUdGTHZSMnRIaHlIMDhtbks2YjFTRDJINDJ6SWlBYXN2SHMyY2VOdTVN0gGQAUFVX3lxTE03ZmVxdWN2QWlRdjdNeVBLQUdXWnoxNEZRMmUzeWpZb2FGcFdoaXMtaExxTWEtRC0wUzg5U29GUTBJa0wxOC03ZjNla1NsMDRyY1lVN3BOcFF4WW5vMVVoT0xRYS1IUU1tNW55MlJjdGY2cHJyd3M2dUtoZzhBeml3cjhqN0ZvbGpnZ2NQRjBYbw?oc=5)
+
+---
+
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
-2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
+2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 
 ---
 
-### [Gefahr für die Netzhaut: Wie ein kleines Fettmolekül bei Diabetes blind machen kann](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTJhdk5qa0FxY2JudkYtU3VhQmY2U19yNTUxanZwVjljV2lYUnFqN1l5akhDNk1XOS1wVGlfaURENzhtTUlOdlRVZjMxWFkzd084X2ZGZFhXbUZXVGNNbVJ3Wlc5RVktc25tZ3FsUG9FT29aQ1VDV3NsMjFlNEdMdGh5U2VfV3lXTDh0VXh0a1Q3RXlmcDFDcE1yU0pzTERkbG1rWG5nZF94Z3FFSXlETjR2WVBvR1k?oc=5)
+### [Neue Studie: Diabetes-Blindheit durch Fettmolekül ausgelöst - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
 
 2026-05-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[HNA](https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTJhdk5qa0FxY2JudkYtU3VhQmY2U19yNTUxanZwVjljV2lYUnFqN1l5akhDNk1XOS1wVGlfaURENzhtTUlOdlRVZjMxWFkzd084X2ZGZFhXbUZXVGNNbVJ3Wlc5RVktc25tZ3FsUG9FT29aQ1VDV3NsMjFlNEdMdGh5U2VfV3lXTDh0VXh0a1Q3RXlmcDFDcE1yU0pzTERkbG1rWG5nZF94Z3FFSXlETjR2WVBvR1k?oc=5)
-
----
-
-### [Typ-1-Diabetes: Aktueller Stand bei den Betazellersatztherapien](https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25iYWZiMEd3NEZoWktsN3AtVVUzZnBJdjBLWVJqZlJvbHJ1WWdpd1ZuZDZPY1Aydk1rLVk0LTN5LWhCcEw1ZEFkeG9NSTZkRFNuS09yS2lXRU1xTk5UTkZzZS12aGY1bTdrQXNoZjJBZGtUZ3FvdFBwdWg2VV9zRkhzMTVHUnZ4bDJES3hnZmRUcWI4czdjck5hdzA?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25iYWZiMEd3NEZoWktsN3AtVVUzZnBJdjBLWVJqZlJvbHJ1WWdpd1ZuZDZPY1Aydk1rLVk0LTN5LWhCcEw1ZEFkeG9NSTZkRFNuS09yS2lXRU1xTk5UTkZzZS12aGY1bTdrQXNoZjJBZGtUZ3FvdFBwdWg2VV9zRkhzMTVHUnZ4bDJES3hnZmRUcWI4czdjck5hdzA?oc=5)
-
----
-
-### [NHS Dr Ranj issues urgent asthma 'review' warning to anyone using blue inhaler - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
-
-2026-05-18 <span class="news-indication-tag">asthma</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE05OHpZWGY0a3dxVUFlZ0QyQzYxc0liSF9hekJTUHNqXy1GaWsyRk5GTEVwQ2w4REt0WFFsbm9tYkl4MkVYSlJiSlMxRERwRWVEOWRtRDgyTjNPUjR5QVhwdWJXOGV5QzRVaG5rbVJBSU1XcVhqS21pSzBmVdIBgAFBVV95cUxQSDd6aWlfbmVXc1NGbkZoVWdhNDVjZ01qcklVcGYxTVI4ekE3ODg0VGp5QlRGcUlvdXFOLUZKRVNPQkZOOFBBTUtKVS1iRE9MNE1OTV9sMHBZSkxSemhVZzE3VW5XUGttRURhNHZzaHZseVNoMERocTlrMlc0cDBySg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
 
 ---
 

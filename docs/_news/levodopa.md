@@ -54,7 +54,7 @@ permalink: /news/levodopa/
 
 ## 相關新聞（4 則）
 
-### [Belfast: Reading group 'makes life easier' for people with dementia](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTR0IwMnBOWWJZQXhuMnkyY1h1MnBQVGVpQTZHQnZId01xTWtvMmVCWjJiM3U3OWplV0VERzhrcmF6NGV3R1VlOWxJN3BoUmNRUTVWRkk3S2NoYWJE?oc=5)
+### ['Dementia reading group makes my life easier'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTR0IwMnBOWWJZQXhuMnkyY1h1MnBQVGVpQTZHQnZId01xTWtvMmVCWjJiM3U3OWplV0VERzhrcmF6NGV3R1VlOWxJN3BoUmNRUTVWRkk3S2NoYWJE?oc=5)
 
 2026-05-20 <span class="news-indication-tag">dementia</span>
 
