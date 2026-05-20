@@ -3,7 +3,7 @@ layout: default
 title: "hypertension 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hypertension 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "hypertension 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="hypertension 有什麼相關新聞？">
-<strong>hypertension</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>hypertension</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [À Chalon, l’hôpital se mobilise face à une maladie qui touche un Français sur trois](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
 
 2026-05-20
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
+
+---
+
+### [Voici l'aliment insoupçonné qui fait baisser votre tension naturellement - Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
+
+2026-05-20
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
 
 ---
 

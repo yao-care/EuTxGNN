@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
 
-2026-05-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
+
+---
+
+### [GLP-1-Rezeptoragonisten: Effekt bei Brustkrebs zu groß, um wahr zu sein - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/guselkumab/
 2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
-
----
-
-### [Ernährung als Medizin: Wie die richtige Kost chronische Krankheiten bekämpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
-
-2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckY1by0zVW45MUpRSmFDLWh1S2x1azJncXNjR190MkRMUnRUdlNTRU84QWJpdVFRWW9hZ09lMTAyLUVGdFhyYmRnaTh5YllDOHJFU3BFeXFpVHlqWU4zbXcwT0JtWUNhbVFUUC1YRHE0ZTkyZTNlWndwUUZVbzV5UFdTVXpmNlZZQ2xYTmdLM1IxSVJPOFQwUFNJZUttZlhYVzVqemZNMkVXVjV6TFZWS0NwWnM3ajQ?oc=5)
 
 ---
 
@@ -94,27 +94,11 @@ permalink: /news/guselkumab/
 
 ---
 
-### [Diabete di tipo 1, quanto conta la diagnosi precoce e chi è più a rischio](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHhvVFVTcjlNb0ZiWEVfTDdMY0FiLVdJYUJHT3FlRmYyRFJUTEZaYjRCdWh5Q3ZoYmdHRXNKaTk5TjhzY0ZtbklDMlk2REpRNWZ5R2VWSEltRVNRTS1EZFgzOUdGTHZSMnRIaHlIMDhtbks2YjFTRDJINDJ6SWlBYXN2SHMyY2VOdTVN0gGQAUFVX3lxTE03ZmVxdWN2QWlRdjdNeVBLQUdXWnoxNEZRMmUzeWpZb2FGcFdoaXMtaExxTWEtRC0wUzg5U29GUTBJa0wxOC03ZjNla1NsMDRyY1lVN3BOcFF4WW5vMVVoT0xRYS1IUU1tNW55MlJjdGY2cHJyd3M2dUtoZzhBeml3cjhqN0ZvbGpnZ2NQRjBYbw?oc=5)
+### [Integratori GLP-1: funzionano davvero per dimagrire?](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0R6NkN2dXB6N2hsRGRNbjFzX3N2dlNiNzBlWlNuZlp2MWF2aFl0NXIxSHVJclBKZDNVbUdOWmpuMVRBSHV0T0N2Nm5WV2hIVi1Qa2p5RlJTaERJX0JrVFNIckk0Q1JFRlpMbUplMEdXcDNlaWFLUk1WZVQ3QlEyQk1jMGwyQkJGSmxFVjBwVGJxXzNSOFZr?oc=5)
 
-2026-05-19 <span class="news-indication-tag">diabete</span>
+2026-05-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[DiLei](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHhvVFVTcjlNb0ZiWEVfTDdMY0FiLVdJYUJHT3FlRmYyRFJUTEZaYjRCdWh5Q3ZoYmdHRXNKaTk5TjhzY0ZtbklDMlk2REpRNWZ5R2VWSEltRVNRTS1EZFgzOUdGTHZSMnRIaHlIMDhtbks2YjFTRDJINDJ6SWlBYXN2SHMyY2VOdTVN0gGQAUFVX3lxTE03ZmVxdWN2QWlRdjdNeVBLQUdXWnoxNEZRMmUzeWpZb2FGcFdoaXMtaExxTWEtRC0wUzg5U29GUTBJa0wxOC03ZjNla1NsMDRyY1lVN3BOcFF4WW5vMVVoT0xRYS1IUU1tNW55MlJjdGY2cHJyd3M2dUtoZzhBeml3cjhqN0ZvbGpnZ2NQRjBYbw?oc=5)
-
----
-
-### [Colite ulcerosa, tutto quello che c'è da sapere](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUFnTVJQMWhTeEV0U2d3NmZQeU1LX0ljaW1Vc1VCZlBobnlPOTFVTTE5cW12enJSTlgyS3dJX3J6dEE4cmdHVmlfbktDTS1tTFB4RHVtREhocW9RdEtxaUhudGljUDFOWGNVUW9ESklLNS1taXh6NkJYYVhMd0kyNW16YXFPOENoTE5CVl8tV2VnSUM5cVZzX0RYZjJzM3FubXc?oc=5)
-
-2026-05-19 <span class="news-indication-tag">colite ulcerosa</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUFnTVJQMWhTeEV0U2d3NmZQeU1LX0ljaW1Vc1VCZlBobnlPOTFVTTE5cW12enJSTlgyS3dJX3J6dEE4cmdHVmlfbktDTS1tTFB4RHVtREhocW9RdEtxaUhudGljUDFOWGNVUW9ESklLNS1taXh6NkJYYVhMd0kyNW16YXFPOENoTE5CVl8tV2VnSUM5cVZzX0RYZjJzM3FubXc?oc=5)
-
----
-
-### [Neue Studie: Diabetes-Blindheit durch Fettmolekül ausgelöst - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHlwZWN1NllQTy1wYTRaTnBYNDlqSUpYVkppUWJxTGFNQ3RTdE1WbzhKSjB0dkdDUmhqOVJ3Q0lKSFowUFNSSkc0WDlEZXRPNkJYWHk1MDk0Q3FvOThVLXo4VG9sY002b1FyMFNFR19DUnREVVdSYzFpOUNzdmR4V0Z0QlJITFdEZkdLMnFEVDRPYnR4SDJPVlpPbzBDNmM2NXlnZnFGWG0wcW1VYUE?oc=5)
+來源：[www.altroconsumo.it](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0R6NkN2dXB6N2hsRGRNbjFzX3N2dlNiNzBlWlNuZlp2MWF2aFl0NXIxSHVJclBKZDNVbUdOWmpuMVRBSHV0T0N2Nm5WV2hIVi1Qa2p5RlJTaERJX0JrVFNIckk0Q1JFRlpMbUplMEdXcDNlaWFLUk1WZVQ3QlEyQk1jMGwyQkJGSmxFVjBwVGJxXzNSOFZr?oc=5)
 
 ---
 

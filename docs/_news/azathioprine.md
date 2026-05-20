@@ -54,11 +54,11 @@ permalink: /news/azathioprine/
 
 ## 相關新聞（1 則）
 
-### [Colite ulcerosa, tutto quello che c'è da sapere](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUFnTVJQMWhTeEV0U2d3NmZQeU1LX0ljaW1Vc1VCZlBobnlPOTFVTTE5cW12enJSTlgyS3dJX3J6dEE4cmdHVmlfbktDTS1tTFB4RHVtREhocW9RdEtxaUhudGljUDFOWGNVUW9ESklLNS1taXh6NkJYYVhMd0kyNW16YXFPOENoTE5CVl8tV2VnSUM5cVZzX0RYZjJzM3FubXc?oc=5)
+### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
-2026-05-19 <span class="news-indication-tag">colite ulcerosa</span> <span class="news-indication-tag">AF</span>
+2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUFnTVJQMWhTeEV0U2d3NmZQeU1LX0ljaW1Vc1VCZlBobnlPOTFVTTE5cW12enJSTlgyS3dJX3J6dEE4cmdHVmlfbktDTS1tTFB4RHVtREhocW9RdEtxaUhudGljUDFOWGNVUW9ESklLNS1taXh6NkJYYVhMd0kyNW16YXFPOENoTE5CVl8tV2VnSUM5cVZzX0RYZjJzM3FubXc?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 ---
 

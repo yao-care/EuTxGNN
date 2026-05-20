@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,15 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Una pastilla barata para el asma abre una nueva vía contra los cánceres más agresivos](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
-
-2026-05-20
-
-來源：[ABC](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 

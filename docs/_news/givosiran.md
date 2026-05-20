@@ -62,11 +62,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Deutsche Leberstiftung erinnert vor dem Start der Urlaubssaison: Hepatitis-Impfung ist wichtiger Reiseschutz - gesundheit adhoc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTg0Sjc1a3YyYl80MHpjRXpmV08wSkF0eW82V2s3cUw0dzlJd1Z0d2VUaVBlbUMzd1hYTFlxX0xYdGRfQTJEM2I4a2JCcnRENlhFbTAwbFVCVGFuemFEZG1oZlUtQU9DY2xOYVFxdnVBMkhEZ21NckJraTZLVUctMnEwLWVzQ3Z0SGZHa3pxNm13UXY0UTAzLWpTYWFvUHpqS2oyVGFJSGFNMTQ2WHo1b3ZfMjJXWk8tc2ZCRWluQzJPVURfT2k3ZlNETTBNNVVLVGFFaHotaw?oc=5)
+### [Voici l'aliment insoupçonné qui fait baisser votre tension naturellement - Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
 
-2026-05-19 <span class="news-indication-tag">hepatitis</span>
+2026-05-20 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
-來源：[gesundheit adhoc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTg0Sjc1a3YyYl80MHpjRXpmV08wSkF0eW82V2s3cUw0dzlJd1Z0d2VUaVBlbUMzd1hYTFlxX0xYdGRfQTJEM2I4a2JCcnRENlhFbTAwbFVCVGFuemFEZG1oZlUtQU9DY2xOYVFxdnVBMkhEZ21NckJraTZLVUctMnEwLWVzQ3Z0SGZHa3pxNm13UXY0UTAzLWpTYWFvUHpqS2oyVGFJSGFNMTQ2WHo1b3ZfMjJXWk8tc2ZCRWluQzJPVURfT2k3ZlNETTBNNVVLVGFFaHotaw?oc=5)
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
 
 ---
 

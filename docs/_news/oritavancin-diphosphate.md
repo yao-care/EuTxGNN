@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/oritavancin-diphosphate/
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Una pastilla barata para el asma abre una nueva vía contra los cánceres más agresivos](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
-
-2026-05-20 <span class="news-indication-tag">asma</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFZNmk1cFl6YU4zR015eHVBYXQ4YVJqelZSR0ZaMGFGVTIyUmtSRTh5ZXpmX29TdFZEbjlXazlCYVJEWkJLeVI0VjlTZldLZ2R6WmFudnVHU19fLXdkSmdzRkR3cmktdDVJTW9jVDc2MWUydm9nVXVjVXdUVHBHVUNHekpQNlgzMk1sQkhJNllaLVpfZ3Nv0gGcAUFVX3lxTFA2bFo1VlcxaVBHbEl1UVhxNjhKOHNNd3luNm1CRUxabXhfbzF5SEVPSms4SUl4R3hacGlFd0xzMU5pMXFOYUFyeXdwamx3aU1iYk1OUmY2XzhLZkZHMTdtdEo4cmlRVVJKaUR6bTNuNHFYZUlVN2VuTWdvY1p0ZkhuNElUQkZGcTVRNTZHR1BVTHlseElLUjVmekZvUw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="Ospemifene 有什麼相關新聞？">
-<strong>Ospemifene</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ospemifene</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ospemifene/
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
+
+2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
+
+---
 
 ### [À Chalon, l’hôpital se mobilise face à une maladie qui touche un Français sur trois](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
 
 2026-05-20 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
+
+---
+
+### [Voici l'aliment insoupçonné qui fait baisser votre tension naturellement - Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
+
+2026-05-20 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
 
 ---
 

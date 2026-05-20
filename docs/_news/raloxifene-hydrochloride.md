@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
 ### [À Chalon, l’hôpital se mobilise face à une maladie qui touche un Français sur trois](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
 
 2026-05-20 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
+
+---
+
+### [Colesterolo, le fluttuazioni dei valori aumentano i rischi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
+
+2026-05-20 <span class="news-indication-tag">ictus</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
+
+---
+
+### [Voici l'aliment insoupçonné qui fait baisser votre tension naturellement - Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
+
+2026-05-20 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
 
 ---
 

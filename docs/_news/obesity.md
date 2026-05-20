@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesità（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesità（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,13 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
 
 2026-05-20
 
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
 
 ---
 
@@ -59,6 +59,22 @@ permalink: /news/obesity/
 2026-05-20
 
 來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVlYQTN1d2tFRmlveUxVYUtTWWVIOTdVOHNqNnVzU0RvYTlkbWFZMkVIODFLZWc4WVFBX01tN3ZTakM2WkFGZ3J1OFdiSURqTm56OGZzOW1WZ1hLRHNCRkFrRjNiRzJnVmx6bnU1ak1tZmlaMHNoRVdweHM2TmVhMzVxdjA0NUVCSXhhUDctd21MY1pacHJvbW4xNWZnWkVLZkhHcFBjNkJzTVV0SmhRYUVtcmxYNDg4bWN0bE9oTGhTYmdMVXc?oc=5)
+
+---
+
+### [A pill helps you keep weight off after you come off weight-loss jabs – new study - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnVPamxuWF9PSEc1MU1EeFpVcElDeWlrQWFXeVdfMS1majlkWXNORmpfUFBsVjJ4OVROV0J4cFpoX2FSWTRSbFBaQm9GMjNFZi14dUp4UTJSdUU5OWptUkREb1c4Z3QxSDA5MkhFRGFfMUJWWmI3eTlBeDZKUVpaZ3BSb01ZY2l4dmk1cENSV3BkWWxrMDkwMnlST1dVTEgtbXphUmVqM0tQOU9SR1MteG85dw?oc=5)
+
+2026-05-19
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnVPamxuWF9PSEc1MU1EeFpVcElDeWlrQWFXeVdfMS1majlkWXNORmpfUFBsVjJ4OVROV0J4cFpoX2FSWTRSbFBaQm9GMjNFZi14dUp4UTJSdUU5OWptUkREb1c4Z3QxSDA5MkhFRGFfMUJWWmI3eTlBeDZKUVpaZ3BSb01ZY2l4dmk1cENSV3BkWWxrMDkwMnlST1dVTEgtbXphUmVqM0tQOU9SR1MteG85dw?oc=5)
+
+---
+
+### [Integratori GLP-1: funzionano davvero per dimagrire?](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0R6NkN2dXB6N2hsRGRNbjFzX3N2dlNiNzBlWlNuZlp2MWF2aFl0NXIxSHVJclBKZDNVbUdOWmpuMVRBSHV0T0N2Nm5WV2hIVi1Qa2p5RlJTaERJX0JrVFNIckk0Q1JFRlpMbUplMEdXcDNlaWFLUk1WZVQ3QlEyQk1jMGwyQkJGSmxFVjBwVGJxXzNSOFZr?oc=5)
+
+2026-05-19
+
+來源：[www.altroconsumo.it](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0R6NkN2dXB6N2hsRGRNbjFzX3N2dlNiNzBlWlNuZlp2MWF2aFl0NXIxSHVJclBKZDNVbUdOWmpuMVRBSHV0T0N2Nm5WV2hIVi1Qa2p5RlJTaERJX0JrVFNIckk0Q1JFRlpMbUplMEdXcDNlaWFLUk1WZVQ3QlEyQk1jMGwyQkJGSmxFVjBwVGJxXzNSOFZr?oc=5)
 
 ---
 

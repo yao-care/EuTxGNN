@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,31 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
+
+2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
+
+---
+
+### [Depression: „Man geht zur Arbeit, funktioniert tagsüber“ - doch innerlich zerbricht man](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYjJGMzM2dmdpWlBrdk1yUTRYeVB4b2FZMmlEZ3U3bUFHVkU5LWNPQ1pTN0M0eHhFM3BGMFBrQkZIZ1RnNVB0WFdUQmlnR3JqTmhGVnVHQ3kxWWZNdE9XRE00OXRySjVsa3EyRTFIdWloSXBGVTBOWlkzbmdzN3RpRWYyY1BFSEJMSWkzcGF3WjZ2d1BZdzZ3NktWMlNiNmItNHFHZkZYVFdPelhMLU9NZWdoOERXenhWMnZHLWFkQTVlNlhaWE05MzJJaWJqdXF2akFhaXYtUW5zdGJ4bDZxaA?oc=5)
+
+2026-05-20 <span class="news-indication-tag">depression</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYjJGMzM2dmdpWlBrdk1yUTRYeVB4b2FZMmlEZ3U3bUFHVkU5LWNPQ1pTN0M0eHhFM3BGMFBrQkZIZ1RnNVB0WFdUQmlnR3JqTmhGVnVHQ3kxWWZNdE9XRE00OXRySjVsa3EyRTFIdWloSXBGVTBOWlkzbmdzN3RpRWYyY1BFSEJMSWkzcGF3WjZ2d1BZdzZ3NktWMlNiNmItNHFHZkZYVFdPelhMLU9NZWdoOERXenhWMnZHLWFkQTVlNlhaWE05MzJJaWJqdXF2akFhaXYtUW5zdGJ4bDZxaA?oc=5)
+
+---
+
+### [Corea del Sur afirma haber creado unas lentillas que envían descargas eléctricas a través del ojo y mejoran el estado de ánimo - El Confidencial](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG5qM0phM0xvMmFvMWZtbWwzU2hBZ3dxNGtORHJlNFpJa0dONm9ZSzhEd0lYN2x6UXlxblBFc1ozNFV0YWhaNzhJRDBsUm44WklPWXQtOFpMVzBtcFdFQWx0cDN3RWw1U0xuUEU5RWxjNDdwS1pidV81Sldsa2M5dFJyS0NvUnNWd3IwRXJJNzh1aFNYeHlOaU5ZT1MxT2JRMkFhd2w3UG9oZw?oc=5)
+
+2026-05-20 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG5qM0phM0xvMmFvMWZtbWwzU2hBZ3dxNGtORHJlNFpJa0dONm9ZSzhEd0lYN2x6UXlxblBFc1ozNFV0YWhaNzhJRDBsUm44WklPWXQtOFpMVzBtcFdFQWx0cDN3RWw1U0xuUEU5RWxjNDdwS1pidV81Sldsa2M5dFJyS0NvUnNWd3IwRXJJNzh1aFNYeHlOaU5ZT1MxT2JRMkFhd2w3UG9oZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

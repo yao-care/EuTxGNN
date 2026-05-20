@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
 
-### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
 
-2026-05-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
 
 ---
 
@@ -78,6 +78,22 @@ permalink: /news/orlistat/
 
 ---
 
+### [Colesterolo, le fluttuazioni dei valori aumentano i rischi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
+
+2026-05-20 <span class="news-indication-tag">ictus</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
+
+---
+
+### [Voici l'aliment insoupçonné qui fait baisser votre tension naturellement - Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
+
+2026-05-20 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlNqeW0yQWhnbk9fVmJmRGtuckwwenRYNXIyaEd4WlVtLW03eGVrTE9WcVExMmxIYklhLUVoaEtYOE50UTB4RnZjZnY3SHpIYmUzMDVENHV6a0tFSlhmYmFEaFE1blRNRXl5VndiODN2cWZNSWJ4T3h4MXNtV2JubW1rWTZfUzdNbjZrX3lsdERFa2szVFNKcEIxMzVkeDU1OHloNzNjUVNRdmVtdWVZSDJZTXo0MDdQd2hMel9tM2ItRGMxejZuWi13?oc=5)
+
+---
+
 ### [Online News: Neue Empfehlungen zur medikamentösen Therapie bei Kindern und Jugendlichen mit Adipositas - ernährungs umschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVlYQTN1d2tFRmlveUxVYUtTWWVIOTdVOHNqNnVzU0RvYTlkbWFZMkVIODFLZWc4WVFBX01tN3ZTakM2WkFGZ3J1OFdiSURqTm56OGZzOW1WZ1hLRHNCRkFrRjNiRzJnVmx6bnU1ak1tZmlaMHNoRVdweHM2TmVhMzVxdjA0NUVCSXhhUDctd21MY1pacHJvbW4xNWZnWkVLZkhHcFBjNkJzTVV0SmhRYUVtcmxYNDg4bWN0bE9oTGhTYmdMVXc?oc=5)
 
 2026-05-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
@@ -91,6 +107,22 @@ permalink: /news/orlistat/
 2026-05-19 <span class="news-indication-tag">ictus</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMikwFBVV95cUxORFVQaFFfUXR2a0VpQldDRGcxRU5KMzUwUzJjZkRtenVEM2pqbmdhNXJMYnBBdDJmSm13VlQzVDBnQlUyazZGT2cwUXdNVkd1UW9aMGMzTHhKbHhVNTVMTHBqLUFUYzRxTTZRLXJLbVlzXzZJSWlIQlRuUXgySFpyR1ZWdjN6UUlXc3Z2eGJHcVZ3WE0?oc=5)
+
+---
+
+### [A pill helps you keep weight off after you come off weight-loss jabs – new study - The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnVPamxuWF9PSEc1MU1EeFpVcElDeWlrQWFXeVdfMS1majlkWXNORmpfUFBsVjJ4OVROV0J4cFpoX2FSWTRSbFBaQm9GMjNFZi14dUp4UTJSdUU5OWptUkREb1c4Z3QxSDA5MkhFRGFfMUJWWmI3eTlBeDZKUVpaZ3BSb01ZY2l4dmk1cENSV3BkWWxrMDkwMnlST1dVTEgtbXphUmVqM0tQOU9SR1MteG85dw?oc=5)
+
+2026-05-19 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnVPamxuWF9PSEc1MU1EeFpVcElDeWlrQWFXeVdfMS1majlkWXNORmpfUFBsVjJ4OVROV0J4cFpoX2FSWTRSbFBaQm9GMjNFZi14dUp4UTJSdUU5OWptUkREb1c4Z3QxSDA5MkhFRGFfMUJWWmI3eTlBeDZKUVpaZ3BSb01ZY2l4dmk1cENSV3BkWWxrMDkwMnlST1dVTEgtbXphUmVqM0tQOU9SR1MteG85dw?oc=5)
+
+---
+
+### [Integratori GLP-1: funzionano davvero per dimagrire?](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0R6NkN2dXB6N2hsRGRNbjFzX3N2dlNiNzBlWlNuZlp2MWF2aFl0NXIxSHVJclBKZDNVbUdOWmpuMVRBSHV0T0N2Nm5WV2hIVi1Qa2p5RlJTaERJX0JrVFNIckk0Q1JFRlpMbUplMEdXcDNlaWFLUk1WZVQ3QlEyQk1jMGwyQkJGSmxFVjBwVGJxXzNSOFZr?oc=5)
+
+2026-05-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[www.altroconsumo.it](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0R6NkN2dXB6N2hsRGRNbjFzX3N2dlNiNzBlWlNuZlp2MWF2aFl0NXIxSHVJclBKZDNVbUdOWmpuMVRBSHV0T0N2Nm5WV2hIVi1Qa2p5RlJTaERJX0JrVFNIckk0Q1JFRlpMbUplMEdXcDNlaWFLUk1WZVQ3QlEyQk1jMGwyQkJGSmxFVjBwVGJxXzNSOFZr?oc=5)
 
 ---
 
