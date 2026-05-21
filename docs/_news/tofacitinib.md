@@ -14,7 +14,7 @@ permalink: /news/tofacitinib/
 ---
 
 <p class="key-answer" data-question="Tofacitinib 有什麼相關新聞？">
-<strong>Tofacitinib</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tofacitinib</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/tofacitinib/
 <p><a href="{{ '/drugs/tofacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（32 則）
+
+### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+
+2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+
+---
 
 ### [Krebs: „Niedrige Testosteronwerte hatten einen größeren Einfluss auf das Risiko, einen aggressiven Krebs zu entwickeln“](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
 
 2026-05-20 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMikwJBVV95cUxNc28zZ0lUc0x4dWZzNkN0TElRa21pOE12dW9HVG9QR1N2ZXNWQmIyR1RiYk9QRXQzTjJWNGhGVnRaaEw2VEhfa1lHS2VWZmt2dFNZMGxyVnRheTVrWTBiV1lXUEZHeDBFTlU1b1pFRnJvNXdYT19CUkw0WEtjUmJUTlFSZERPSVNZUC1xdUNhYWNrVDdRVmRsU25IbldXS3JreUhuQWRVZVl6aWp6TnlJQUVJT1YzdFgza3JGMXM5LUY3SklHUG1nenNSQnF2bHhEZ0xqZDN4LWRvWG5DNDkzb1JPeXo0UzdIc3Y1eDFueUp3UUFBZDFCa2lMbmlyNDZHVjAtUzVmMXdTUkNXdS1mTThxaw?oc=5)
-
----
-
-### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
-
-2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/tofacitinib/
 
 ---
 
-### [Luppi (Msd): "Holobox strumento di prevenzione innovativo contro Hpv-correlati" - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHBHRnlJa3ZNZDFSU1BMbmFyOXRUZUJvbTRqdzQyRXgyNFAyY2F2OEs1YmtRUThUR01kYXJVbnU5NXNrWkFSUjhzRVl2X2RjYU41bmRwTU5wWURiZjVlb1QzVE1zY1N1T19Za2VsdVp3MldIeU40ZGk0bDZDUkg2UV9nd0RZUHlSMXoyS1E0MlRNOEVFR0lBQTNyR2FEemJlcDFlR0RqNEMxamsxei1lTGhzVWRuUTdDWnZJTnd1Q1FRT1lhb2doeFMwZGZmUnZockM5V1hWM1lLUWxIeWw4?oc=5)
+### [The expert’s guide to vitamin B12 deficiency - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDc4WXFKNFVyanRVcnV3dERzOHgxbUZ2dF9qS200eG1FdWJuT0VjUHhrY1dhbmFkRXlidlAwcnpwM0k5UWxyTEZhSUdULWswZUtrVFA5NnE2U2NtQ2RqSkVwenB5Zlhpc2pUaFBPQnc5d0FLdlEzTXdZQWhMa29qd3NXN0k3QV9ZNjFzcFVIVzV2bms?oc=5)
 
-2026-05-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHBHRnlJa3ZNZDFSU1BMbmFyOXRUZUJvbTRqdzQyRXgyNFAyY2F2OEs1YmtRUThUR01kYXJVbnU5NXNrWkFSUjhzRVl2X2RjYU41bmRwTU5wWURiZjVlb1QzVE1zY1N1T19Za2VsdVp3MldIeU40ZGk0bDZDUkg2UV9nd0RZUHlSMXoyS1E0MlRNOEVFR0lBQTNyR2FEemJlcDFlR0RqNEMxamsxei1lTGhzVWRuUTdDWnZJTnd1Q1FRT1lhb2doeFMwZGZmUnZockM5V1hWM1lLUWxIeWw4?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDc4WXFKNFVyanRVcnV3dERzOHgxbUZ2dF9qS200eG1FdWJuT0VjUHhrY1dhbmFkRXlidlAwcnpwM0k5UWxyTEZhSUdULWswZUtrVFA5NnE2U2NtQ2RqSkVwenB5Zlhpc2pUaFBPQnc5d0FLdlEzTXdZQWhMa29qd3NXN0k3QV9ZNjFzcFVIVzV2bms?oc=5)
 
 ---
 
@@ -104,7 +104,7 @@ permalink: /news/tofacitinib/
 
 ### [GLP-1-Rezeptoragonisten: Effekt bei Brustkrebs zu groß, um wahr zu sein - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
 
-2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+2026-05-20 <span class="news-indication-tag">Krebs</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
 
@@ -115,6 +115,14 @@ permalink: /news/tofacitinib/
 2026-05-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[MeinBezirk.at](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2JMY0hzTF9kZGF4ME5JTVR5YXZzY2lyYkhGLWMzZVRQcm9KbU5QVzR0c3RqZDdqZDJtVHQ4REdwSFdneGI3akx5U3ptVUMxYW40OTRUQ20xamdWbjNWUVExaF9lRVBzbHhsS1hDbVNJemtJNHR1VExlN3hacWotano3LVN5d0doak1sS0JtYUM2OWJSMlJGajFtaUd3VFNNVXBtWGVFaV9NdjljTEpn?oc=5)
+
+---
+
+### [Whitstable dance teacher finds cancerous lump while warming up for class - Kent Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMks0Zk9nR3NWZFdwSXh6S0dJRUlETHhLVXRRSGZHVEc3M000VEIwNkpPN0NYc0VDcUc4UEhYYVJoa1g1aVFFaEZlY2ZBcU9TZTBINkV6RWhYT2s2eGpNajM1Ny1ZUGY5dGNjM0d5Zml2cDlnb3htYWJjMEVobFM1TjZQV2hYaVZNMnN1bHpndmI5UmNfS1BNR0tvTDRyN2ZEaGdTME9paUN2ODJQSHM1czRYaw?oc=5)
+
+2026-05-20 <span class="news-indication-tag">cancer</span>
+
+來源：[Kent Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMks0Zk9nR3NWZFdwSXh6S0dJRUlETHhLVXRRSGZHVEc3M000VEIwNkpPN0NYc0VDcUc4UEhYYVJoa1g1aVFFaEZlY2ZBcU9TZTBINkV6RWhYT2s2eGpNajM1Ny1ZUGY5dGNjM0d5Zml2cDlnb3htYWJjMEVobFM1TjZQV2hYaVZNMnN1bHpndmI5UmNfS1BNR0tvTDRyN2ZEaGdTME9paUN2ODJQSHM1czRYaw?oc=5)
 
 ---
 
@@ -134,6 +142,14 @@ permalink: /news/tofacitinib/
 
 ---
 
+### [Cancro, lo scudo che ferma la crescita delle cellule tumorali | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGwxM2pvU29Dc210bDkwS0ZVZTgzRDN4Sy1Nb3FRY0Q3amZsVndFY3YtVXU2VVBSNjV4S3pkNEM4SWRzanF6SkczaEh5eENLZ0lPSGR2czhhUE51Q1RYZnlpYU45dzJDMUM5VE11REc1Nk1Bem1EUFctdFpPdUVnYlVXMFhncnVuRGtCOERNSGdDeVEyMnp6ZGFOQlQwUWpVdVBmdkF3VEZBNHdxaFdDMNIBtAFBVV95cUxOWl9CU0hXM0h1WHVPdEwzeUVtNnYzVmJ3M2ctUjVEbzRRazNPOXpKUmlBOFJ3dUVQdHpHTmxlejFadWtwQjNHMkJxMk81RFNGUU9sb1NNMW1iM3dadlNvSW03bzM3TExZWmFOdXVSLWdJa2VsYk5xYS1KVW5VQTNUWXVMNmlUa2V3YzdTQklOcHp1UFBBdGI4RWxNWlFzd1dHT2doQVRPc2Q4SVMxbFFDUTZwUEg?oc=5)
+
+2026-05-20 <span class="news-indication-tag">tumor</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGwxM2pvU29Dc210bDkwS0ZVZTgzRDN4Sy1Nb3FRY0Q3amZsVndFY3YtVXU2VVBSNjV4S3pkNEM4SWRzanF6SkczaEh5eENLZ0lPSGR2czhhUE51Q1RYZnlpYU45dzJDMUM5VE11REc1Nk1Bem1EUFctdFpPdUVnYlVXMFhncnVuRGtCOERNSGdDeVEyMnp6ZGFOQlQwUWpVdVBmdkF3VEZBNHdxaFdDMNIBtAFBVV95cUxOWl9CU0hXM0h1WHVPdEwzeUVtNnYzVmJ3M2ctUjVEbzRRazNPOXpKUmlBOFJ3dUVQdHpHTmxlejFadWtwQjNHMkJxMk81RFNGUU9sb1NNMW1iM3dadlNvSW03bzM3TExZWmFOdXVSLWdJa2VsYk5xYS1KVW5VQTNUWXVMNmlUa2V3YzdTQklOcHp1UFBBdGI4RWxNWlFzd1dHT2doQVRPc2Q4SVMxbFFDUTZwUEg?oc=5)
+
+---
+
 ### [Darmkrebs: Welche Vitamine helfen Erkrankten? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiowFBVV95cUxNeERKamNvTjZoTnlOc04wMEFCNENCYVRyc21BNExxdkNHaDFqYndIZ1c2d2syZTNybkgyeFBCeFFKQ2NKZThJMlFLaDBvYXZxM3FZeEVWLUN1Rndxd3FZOE8tNjRYdFVXVktYdWtMVVhWcGlxVTd6RG1FdkZrUERMVzVVRjRWUVRhYmZlMzhXVlJ2VUJrMVhybVhoOWRhUEJoMXhr?oc=5)
 
 2026-05-20 <span class="news-indication-tag">Krebs</span>
@@ -142,15 +158,15 @@ permalink: /news/tofacitinib/
 
 ---
 
-### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+### [Tumori germinali maligni dell'ovaio: uno studio internazionale identifica i principali fattori prognostici](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFRZTlo5VDRPN0s3SjAxOWVSUktsdzNXMHFrdXVRVzI2bnI1NkxyYnFmeDJ1eFZ3MWZXTkRMWTFTTk95dTZQQThhNm5JVXZpNXJ1UmdRbVlWVW9MdGZYVU5PV2xNOVZWVWZTWFFsaTBMbFpKMXA5LWpSVWtucHpma01wNFp5ZERLM2N3QUlRVnB2c0JHdWpXWUNfSXdWcjdMamY1MTh5eW7SAWhBVV95cUxQRGROX0dKV2E4aV84VUIwMHFrZU9BeVJGZzQzODVvczUyR3QtNW5DRkI5M251VXAwekloZkRkWkRSaGdTTl82U0VuZlN0VmZWYUt2QnBaUlRyLXlwZkpET1I0UWtoeXcxVQ?oc=5)
 
-2026-05-20 <span class="news-indication-tag">cancer</span>
+2026-05-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFRZTlo5VDRPN0s3SjAxOWVSUktsdzNXMHFrdXVRVzI2bnI1NkxyYnFmeDJ1eFZ3MWZXTkRMWTFTTk95dTZQQThhNm5JVXZpNXJ1UmdRbVlWVW9MdGZYVU5PV2xNOVZWVWZTWFFsaTBMbFpKMXA5LWpSVWtucHpma01wNFp5ZERLM2N3QUlRVnB2c0JHdWpXWUNfSXdWcjdMamY1MTh5eW7SAWhBVV95cUxQRGROX0dKV2E4aV84VUIwMHFrZU9BeVJGZzQzODVvczUyR3QtNW5DRkI5M251VXAwekloZkRkWkRSaGdTTl82U0VuZlN0VmZWYUt2QnBaUlRyLXlwZkpET1I0UWtoeXcxVQ?oc=5)
 
 ---
 
-### [Le Centre Léon Bérard de Lyon teste un nouveau traitement contre ce cancer agressif](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnNkQVIxOGtlWEt2ejVIeDE2X2FrWnhlNHNwNkVUSEIzRXFrdVVIUnlHNEFCM1pQc2JFX01SRFNzenV4X1dYa1lGMVdBeGE2M0IzcjVPNnRuYS0wdmlSWk9qTXNnS0RjNDhocjRtenlhd3ZVVmlhNTNZdVNjLWdqcEtkU04?oc=5)
+### [Cancer du cerveau : à Lyon, un nouveau traitement testé contre une tumeur très agressive](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnNkQVIxOGtlWEt2ejVIeDE2X2FrWnhlNHNwNkVUSEIzRXFrdVVIUnlHNEFCM1pQc2JFX01SRFNzenV4X1dYa1lGMVdBeGE2M0IzcjVPNnRuYS0wdmlSWk9qTXNnS0RjNDhocjRtenlhd3ZVVmlhNTNZdVNjLWdqcEtkU04?oc=5)
 
 2026-05-20 <span class="news-indication-tag">cancer</span>
 
@@ -163,6 +179,14 @@ permalink: /news/tofacitinib/
 2026-05-20 <span class="news-indication-tag">Krebs</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzRmSWxqMDBPTkhhTlZPNzFQendxMlI5a0thS2llWkg2akd5NTdPV0ZKUVFiSE1UdktXSzF4ZUVsR21CZzBEM0U3dWozVG9VZlVRZ3k3azd1aXh5SFlaczczSzZubFQwSEt5bURGZ1c1ejA2ZDBrNEhIelYtZnljLXc4VWl3dWVJYzJ5ejB1a0l6OGpFZVI3a0VKUHZlbkVCWDFSOGRrdGFOZlNZMnNYVkM5cWdJMzhO?oc=5)
+
+---
+
+### [The 5 towns with the worst bowel cancer rates revealed - as Dame Deborah's legacy aims to boost early diagnosis - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTm5aWF8yZzZxc1hEbDA5OVFseEg5OU9zR2NkOHoxU1lkc1E2MUp1cjIxZ2UwMnlKYmNIQWFfcDJ1NWxpTXhqR2R1VmNNcEpZekdQME4wZGdXMURwZzdJamxOLXAwZFZTNVZabDlBS0xhUWlEa3VrOExRcE82V0lpWUFjYXZqX2ROQ1VFUmpjNTMxWHY0ejItV1NB?oc=5)
+
+2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTm5aWF8yZzZxc1hEbDA5OVFseEg5OU9zR2NkOHoxU1lkc1E2MUp1cjIxZ2UwMnlKYmNIQWFfcDJ1NWxpTXhqR2R1VmNNcEpZekdQME4wZGdXMURwZzdJamxOLXAwZFZTNVZabDlBS0xhUWlEa3VrOExRcE82V0lpWUFjYXZqX2ROQ1VFUmpjNTMxWHY0ejItV1NB?oc=5)
 
 ---
 
@@ -182,11 +206,11 @@ permalink: /news/tofacitinib/
 
 ---
 
-### [Robotic surgery expansion hailed as ‘game-changer’ for patient care - STV News](https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0x5clI4UjBGR0J2UVpIWnBXc0cwTUQ1UDc5Q1dNOXVXbldZMERpckRQeS1iRDFXZ1B1UHd0dVpxT01KS0VhdDlxalNfWUg3aDRYVlltSlM2MDVpSXF1MF9lV1ZrSTliNDJLTFA2ejlaYTVBX2RCU0h1cnN4dHZnREhtMEc3YWMta19oNlR3cXptMzdUX1FXQk81VVItU3phM0FHMm14c0Yyb1lsdFRwb1g5cUs4QmNPM2c?oc=5)
+### [Ce que mangent certains enfants chaque jour pourrait multiplier leur risque d'avoir de l'asthme par 4 - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0kzcENOOENNLVEwYjVuYUhWN2VudFRjNUduM3pkUUpjdFNFTkdGa2JmdmlPNHZLQk1OUmk1STNOaTNqb3ZGeTVSYzh4Q1ZaUkswSUpCd3dGSk9lSkVEZVc2Z1JlWGNmWEp0TkhFWWN3cEotbjJybzNEMmhjRmRJZXNkSWhZamlJVFUycUt0NE9ibzNWcWJ1X0hUVS12QklIN09BRGN4NmhaZjZJQmU0aHA3TUpJRTZTNXRWY0RQTTZSMzF3UHU5MG16anIxZjdEMUJtQnZndXktNllDNHVUTFJ3NnU?oc=5)
 
-2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-05-20 <span class="news-indication-tag">asthme</span>
 
-來源：[STV News](https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0x5clI4UjBGR0J2UVpIWnBXc0cwTUQ1UDc5Q1dNOXVXbldZMERpckRQeS1iRDFXZ1B1UHd0dVpxT01KS0VhdDlxalNfWUg3aDRYVlltSlM2MDVpSXF1MF9lV1ZrSTliNDJLTFA2ejlaYTVBX2RCU0h1cnN4dHZnREhtMEc3YWMta19oNlR3cXptMzdUX1FXQk81VVItU3phM0FHMm14c0Yyb1lsdFRwb1g5cUs4QmNPM2c?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0kzcENOOENNLVEwYjVuYUhWN2VudFRjNUduM3pkUUpjdFNFTkdGa2JmdmlPNHZLQk1OUmk1STNOaTNqb3ZGeTVSYzh4Q1ZaUkswSUpCd3dGSk9lSkVEZVc2Z1JlWGNmWEp0TkhFWWN3cEotbjJybzNEMmhjRmRJZXNkSWhZamlJVFUycUt0NE9ibzNWcWJ1X0hUVS12QklIN09BRGN4NmhaZjZJQmU0aHA3TUpJRTZTNXRWY0RQTTZSMzF3UHU5MG16anIxZjdEMUJtQnZndXktNllDNHVUTFJ3NnU?oc=5)
 
 ---
 
@@ -195,6 +219,22 @@ permalink: /news/tofacitinib/
 2026-05-20 <span class="news-indication-tag">cancer</span>
 
 來源：[tahiti-infos.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPZEdxdGlKV256QW54dHBqUUxydGQtaEw1a2RpemxtekdTU1pveVFpNFdGNFkzUC1BVUVFbk44Y2tCT29rSHNXZ3VacUt3Q3N6c25XSmNFdS0zMS1qczdSZ3NHVHlSN2RQSkVqUUtKNG9NMUQxblZVei0xSFQ3aHAtRTBzVFJDVERvTy05bUU3Q1psXzkwY192UWlhNW5zZw?oc=5)
+
+---
+
+### ['I had no fears about robotic surgery after my cancer diagnosis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
+
+---
+
+### [Study identifies key protein in immune cell exhaustion in cancer immunotherapy - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXBTZGpGZkdjUm00RTRTUk9jUGF4QTFSQnFtemdzeDNVOGhOZTJ0cEFEaGFkUHRXSUM3X0dEd1oydWg3RGNUVzFTNUkwT0ZKdzFTZl9sZi1iM3kwQUNDUDFVY09GdUNBdFM0ek5kdjh4bmpKOVdHUFRTMTd2dFVfdUw1cXQ?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXBTZGpGZkdjUm00RTRTUk9jUGF4QTFSQnFtemdzeDNVOGhOZTJ0cEFEaGFkUHRXSUM3X0dEd1oydWg3RGNUVzFTNUkwT0ZKdzFTZl9sZi1iM3kwQUNDUDFVY09GdUNBdFM0ek5kdjh4bmpKOVdHUFRTMTd2dFVfdUw1cXQ?oc=5)
 
 ---
 
@@ -227,6 +267,14 @@ permalink: /news/tofacitinib/
 2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
+
+---
+
+### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Mechanismus für pathologische Gefäßneubildung entdeckt - mgo medizin](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzFGZVNqcDNWQlQwN2dKSFpaZHVfejBvcTcyVmFwelBCeXlnSkRVcEJUd3ZNRDRUNUw4aWNYVVhNU3oxRS1OZ2dGRW5UTGhLZUFlNW5EaWdUZm4tVjZXWWNRWUJkaUV1UzJSUTNOY2phdWZuX1c3eDd4aUZVaGFtaHV1MzZBd1RQZ3pGdTFlUWwtZG5YekpCZTFNRHJsNVNSR0lxUE5YV1B5Y2IwTkRVSmtGWnBLZmtNdW03Mw?oc=5)
+
+2026-05-20
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzFGZVNqcDNWQlQwN2dKSFpaZHVfejBvcTcyVmFwelBCeXlnSkRVcEJUd3ZNRDRUNUw4aWNYVVhNU3oxRS1OZ2dGRW5UTGhLZUFlNW5EaWdUZm4tVjZXWWNRWUJkaUV1UzJSUTNOY2phdWZuX1c3eDd4aUZVaGFtaHV1MzZBd1RQZ3pGdTFlUWwtZG5YekpCZTFNRHJsNVNSR0lxUE5YV1B5Y2IwTkRVSmtGWnBLZmtNdW03Mw?oc=5)
+
+---
 
 ### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
 
@@ -124,19 +132,19 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [GLP-1-Rezeptoragonisten: Effekt bei Brustkrebs zu groß, um wahr zu sein - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
+### [Diabetes verzögern oder verhindern: Prädiabetes-Remission als neues Therapieziel?](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pMWkRPSEdDbUp2TFdGYUxialNJV1MxekZDakRkbDFsQnBiejcwMGlTUEhmR0RLdlpDdDJjb0tRSG9keWhqUVA5X0hDWFhyVThVaDhNbE9XLVpMa0I3eHFycnUtQm5mcU5QWWJxMk5YSDRlVGhMSEd5RkF5OFQ3RGdlejdBTlBhd013U0tmX0d6TGVpaU1JcFdNUXFlTEJ1SjlZLWVPellCeldzNGJKbndUYzl6ejhPdjJvdHRtYTIwbU1ldE0ycnVoLXM?oc=5)
 
 2026-05-20
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pMWkRPSEdDbUp2TFdGYUxialNJV1MxekZDakRkbDFsQnBiejcwMGlTUEhmR0RLdlpDdDJjb0tRSG9keWhqUVA5X0hDWFhyVThVaDhNbE9XLVpMa0I3eHFycnUtQm5mcU5QWWJxMk5YSDRlVGhMSEd5RkF5OFQ3RGdlejdBTlBhd013U0tmX0d6TGVpaU1JcFdNUXFlTEJ1SjlZLWVPellCeldzNGJKbndUYzl6ejhPdjJvdHRtYTIwbU1ldE0ycnVoLXM?oc=5)
 
 ---
 
-### [Typ-2-Diabetes: Stark in die Therapie starten, langfristig profitieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
+### [Plantwatch: how goat’s rue inspired super drug for everything from diabetes to obesity - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRU5FUVZCbzNPMGMyNHFKNU5mendDTlRWb0VLN0l6WXdBOS1rMk9vSjlWeEk5NlpBVkJobUxsblBxelA4X3U5MHAwaThLbXlKdVg1ZEFCQ1VRSW92cHNrNzU3eVpMNTVFVW9RcFFHamNoLTM2Ny1McUp0Ymx2bzFGaksxbzF6WlpFZlA5dTJlVXRwMXJLWmRtZTl5SFVSUEtfQU4wbTFwMHRwd2x0d3g2cnlWT3oxZzZuNF9CeXpFWTNtZWI1SU42eVc2cFo?oc=5)
 
 2026-05-20
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRU5FUVZCbzNPMGMyNHFKNU5mendDTlRWb0VLN0l6WXdBOS1rMk9vSjlWeEk5NlpBVkJobUxsblBxelA4X3U5MHAwaThLbXlKdVg1ZEFCQ1VRSW92cHNrNzU3eVpMNTVFVW9RcFFHamNoLTM2Ny1McUp0Ymx2bzFGaksxbzF6WlpFZlA5dTJlVXRwMXJLWmRtZTl5SFVSUEtfQU4wbTFwMHRwd2x0d3g2cnlWT3oxZzZuNF9CeXpFWTNtZWI1SU42eVc2cFo?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthme（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asthme（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthme（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
+<strong>asthme（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Ce que mangent certains enfants chaque jour pourrait multiplier leur risque d'avoir de l'asthme par 4 - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0kzcENOOENNLVEwYjVuYUhWN2VudFRjNUduM3pkUUpjdFNFTkdGa2JmdmlPNHZLQk1OUmk1STNOaTNqb3ZGeTVSYzh4Q1ZaUkswSUpCd3dGSk9lSkVEZVc2Z1JlWGNmWEp0TkhFWWN3cEotbjJybzNEMmhjRmRJZXNkSWhZamlJVFUycUt0NE9ibzNWcWJ1X0hUVS12QklIN09BRGN4NmhaZjZJQmU0aHA3TUpJRTZTNXRWY0RQTTZSMzF3UHU5MG16anIxZjdEMUJtQnZndXktNllDNHVUTFJ3NnU?oc=5)
+
+2026-05-20
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0kzcENOOENNLVEwYjVuYUhWN2VudFRjNUduM3pkUUpjdFNFTkdGa2JmdmlPNHZLQk1OUmk1STNOaTNqb3ZGeTVSYzh4Q1ZaUkswSUpCd3dGSk9lSkVEZVc2Z1JlWGNmWEp0TkhFWWN3cEotbjJybzNEMmhjRmRJZXNkSWhZamlJVFUycUt0NE9ibzNWcWJ1X0hUVS12QklIN09BRGN4NmhaZjZJQmU0aHA3TUpJRTZTNXRWY0RQTTZSMzF3UHU5MG16anIxZjdEMUJtQnZndXktNllDNHVUTFJ3NnU?oc=5)
+
+---
 
 ### [Un farmaco per l'asma è anche un promettente antitumorale](https://news.google.com/rss/articles/CBMie0FVX3lxTFBHMHk1T2gtOUtwLWxfNWFqQmpSMElOSllrYjU3MUNCY21UNTliWDl6S0N5Q1J2WDJGeHJFQ25pamNSOFI0TjM0RGJjUmFaSWZLbmtlb0JuaVBsdzh6ZVlOdlRHXzFjRkhkSWhJNWNpeTg3bm9STDNoU3V5RQ?oc=5)
 

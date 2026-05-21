@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
+### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
 
 2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+
+---
+
+### [Mechanismus für pathologische Gefäßneubildung entdeckt - mgo medizin](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzFGZVNqcDNWQlQwN2dKSFpaZHVfejBvcTcyVmFwelBCeXlnSkRVcEJUd3ZNRDRUNUw4aWNYVVhNU3oxRS1OZ2dGRW5UTGhLZUFlNW5EaWdUZm4tVjZXWWNRWUJkaUV1UzJSUTNOY2phdWZuX1c3eDd4aUZVaGFtaHV1MzZBd1RQZ3pGdTFlUWwtZG5YekpCZTFNRHJsNVNSR0lxUE5YV1B5Y2IwTkRVSmtGWnBLZmtNdW03Mw?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzFGZVNqcDNWQlQwN2dKSFpaZHVfejBvcTcyVmFwelBCeXlnSkRVcEJUd3ZNRDRUNUw4aWNYVVhNU3oxRS1OZ2dGRW5UTGhLZUFlNW5EaWdUZm4tVjZXWWNRWUJkaUV1UzJSUTNOY2phdWZuX1c3eDd4aUZVaGFtaHV1MzZBd1RQZ3pGdTFlUWwtZG5YekpCZTFNRHJsNVNSR0lxUE5YV1B5Y2IwTkRVSmtGWnBLZmtNdW03Mw?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/sacubitril/
 
 ---
 
-### [GLP-1-Rezeptoragonisten: Effekt bei Brustkrebs zu groß, um wahr zu sein - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
-
-2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
-
----
-
-### [Typ-2-Diabetes: Stark in die Therapie starten, langfristig profitieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
+### [Diabetes verzögern oder verhindern: Prädiabetes-Remission als neues Therapieziel?](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pMWkRPSEdDbUp2TFdGYUxialNJV1MxekZDakRkbDFsQnBiejcwMGlTUEhmR0RLdlpDdDJjb0tRSG9keWhqUVA5X0hDWFhyVThVaDhNbE9XLVpMa0I3eHFycnUtQm5mcU5QWWJxMk5YSDRlVGhMSEd5RkF5OFQ3RGdlejdBTlBhd013U0tmX0d6TGVpaU1JcFdNUXFlTEJ1SjlZLWVPellCeldzNGJKbndUYzl6ejhPdjJvdHRtYTIwbU1ldE0ycnVoLXM?oc=5)
 
 2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pMWkRPSEdDbUp2TFdGYUxialNJV1MxekZDakRkbDFsQnBiejcwMGlTUEhmR0RLdlpDdDJjb0tRSG9keWhqUVA5X0hDWFhyVThVaDhNbE9XLVpMa0I3eHFycnUtQm5mcU5QWWJxMk5YSDRlVGhMSEd5RkF5OFQ3RGdlejdBTlBhd013U0tmX0d6TGVpaU1JcFdNUXFlTEJ1SjlZLWVPellCeldzNGJKbndUYzl6ejhPdjJvdHRtYTIwbU1ldE0ycnVoLXM?oc=5)
+
+---
+
+### [Plantwatch: how goat’s rue inspired super drug for everything from diabetes to obesity - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRU5FUVZCbzNPMGMyNHFKNU5mendDTlRWb0VLN0l6WXdBOS1rMk9vSjlWeEk5NlpBVkJobUxsblBxelA4X3U5MHAwaThLbXlKdVg1ZEFCQ1VRSW92cHNrNzU3eVpMNTVFVW9RcFFHamNoLTM2Ny1McUp0Ymx2bzFGaksxbzF6WlpFZlA5dTJlVXRwMXJLWmRtZTl5SFVSUEtfQU4wbTFwMHRwd2x0d3g2cnlWT3oxZzZuNF9CeXpFWTNtZWI1SU42eVc2cFo?oc=5)
+
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRU5FUVZCbzNPMGMyNHFKNU5mendDTlRWb0VLN0l6WXdBOS1rMk9vSjlWeEk5NlpBVkJobUxsblBxelA4X3U5MHAwaThLbXlKdVg1ZEFCQ1VRSW92cHNrNzU3eVpMNTVFVW9RcFFHamNoLTM2Ny1McUp0Ymx2bzFGaksxbzF6WlpFZlA5dTJlVXRwMXJLWmRtZTl5SFVSUEtfQU4wbTFwMHRwd2x0d3g2cnlWT3oxZzZuNF9CeXpFWTNtZWI1SU42eVc2cFo?oc=5)
 
 ---
 

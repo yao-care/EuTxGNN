@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（17 則）
+
+### [Hospitales del epicentro del ébola en RDC están "repletos"](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlVxS2loTG1CeTFMTkVhLXNydHZYN281dlJjUlhDSTRETWVvTWxGX1psY1pBM0FZZ2dISGRtQzVyRV9XNkItRjZzTlk2eUtuM0M4WEd3Yi00aUQtVHhwQ2lQamFqajhHQmd6U2pwUk5JUUw5S1dCT0hzdWtEQVNHSV9lVHhkOFFrMi0wMHJXMTgzbXFlRkhUZXV1OE1YSEdi0gGgAUFVX3lxTFBEV3FkNEU3T1Q0NDJ1WGtVekhvbWZ4b01KR2tHM1lCeVNpeXg5ZG5CRmlvSUtoOGt6OFhRMm5jZ1pMVFBVRG9yZk92V1JaRlpRckFLWEtEaXlTTXRfYVlhem5kUW1XdDZ2clV5aU5LVDBsRU5TQjdKYTZ4UWkySHRxb3BJcXVCNE9IRUhGZmJCNmhmNzRuY004MVNidTMzbkc?oc=5)
+
+2026-05-21 <span class="news-indication-tag">MS</span>
+
+來源：[dw.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlVxS2loTG1CeTFMTkVhLXNydHZYN281dlJjUlhDSTRETWVvTWxGX1psY1pBM0FZZ2dISGRtQzVyRV9XNkItRjZzTlk2eUtuM0M4WEd3Yi00aUQtVHhwQ2lQamFqajhHQmd6U2pwUk5JUUw5S1dCT0hzdWtEQVNHSV9lVHhkOFFrMi0wMHJXMTgzbXFlRkhUZXV1OE1YSEdi0gGgAUFVX3lxTFBEV3FkNEU3T1Q0NDJ1WGtVekhvbWZ4b01KR2tHM1lCeVNpeXg5ZG5CRmlvSUtoOGt6OFhRMm5jZ1pMVFBVRG9yZk92V1JaRlpRckFLWEtEaXlTTXRfYVlhem5kUW1XdDZ2clV5aU5LVDBsRU5TQjdKYTZ4UWkySHRxb3BJcXVCNE9IRUhGZmJCNmhmNzRuY004MVNidTMzbkc?oc=5)
+
+---
+
+### [Neurologische Erkrankungen im Blick: Multiple Sklerose und Schlaganfall](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
+
+2026-05-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Taunus-Nachrichten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
+
+---
 
 ### [Luppi (Msd): "Holobox strumento di prevenzione innovativo contro Hpv-correlati" - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHBHRnlJa3ZNZDFSU1BMbmFyOXRUZUJvbTRqdzQyRXgyNFAyY2F2OEs1YmtRUThUR01kYXJVbnU5NXNrWkFSUjhzRVl2X2RjYU41bmRwTU5wWURiZjVlb1QzVE1zY1N1T19Za2VsdVp3MldIeU40ZGk0bDZDUkg2UV9nd0RZUHlSMXoyS1E0MlRNOEVFR0lBQTNyR2FEemJlcDFlR0RqNEMxamsxei1lTGhzVWRuUTdDWnZJTnd1Q1FRT1lhb2doeFMwZGZmUnZockM5V1hWM1lLUWxIeWw4?oc=5)
 
-2026-05-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-05-20 <span class="news-indication-tag">MS</span>
 
 來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHBHRnlJa3ZNZDFSU1BMbmFyOXRUZUJvbTRqdzQyRXgyNFAyY2F2OEs1YmtRUThUR01kYXJVbnU5NXNrWkFSUjhzRVl2X2RjYU41bmRwTU5wWURiZjVlb1QzVE1zY1N1T19Za2VsdVp3MldIeU40ZGk0bDZDUkg2UV9nd0RZUHlSMXoyS1E0MlRNOEVFR0lBQTNyR2FEemJlcDFlR0RqNEMxamsxei1lTGhzVWRuUTdDWnZJTnd1Q1FRT1lhb2doeFMwZGZmUnZockM5V1hWM1lLUWxIeWw4?oc=5)
+
+---
+
+### [The expert’s guide to vitamin B12 deficiency - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDc4WXFKNFVyanRVcnV3dERzOHgxbUZ2dF9qS200eG1FdWJuT0VjUHhrY1dhbmFkRXlidlAwcnpwM0k5UWxyTEZhSUdULWswZUtrVFA5NnE2U2NtQ2RqSkVwenB5Zlhpc2pUaFBPQnc5d0FLdlEzTXdZQWhMa29qd3NXN0k3QV9ZNjFzcFVIVzV2bms?oc=5)
+
+2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDc4WXFKNFVyanRVcnV3dERzOHgxbUZ2dF9qS200eG1FdWJuT0VjUHhrY1dhbmFkRXlidlAwcnpwM0k5UWxyTEZhSUdULWswZUtrVFA5NnE2U2NtQ2RqSkVwenB5Zlhpc2pUaFBPQnc5d0FLdlEzTXdZQWhMa29qd3NXN0k3QV9ZNjFzcFVIVzV2bms?oc=5)
 
 ---
 
@@ -94,11 +118,27 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [The vital nutrient you aren’t getting enough of – and why you need to fix it - The i Paper](https://news.google.com/rss/articles/CBMid0FVX3lxTE95QTBEUzVqQTRHcWVGWFJoMEY5dnVzMUxMT0Z5WmotZUgxbERNMmxSTUtTdG1QNWNQcXdSTW9IMEFWZU5laG5sNVlqNm5Nc2lLS0tGUWZiSEtRWjJoMmNjV3BPaHNRTXk5RlM4UkxGTkpfV3E3Z05n?oc=5)
+### [The 5 towns with the worst bowel cancer rates revealed - as Dame Deborah's legacy aims to boost early diagnosis - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTm5aWF8yZzZxc1hEbDA5OVFseEg5OU9zR2NkOHoxU1lkc1E2MUp1cjIxZ2UwMnlKYmNIQWFfcDJ1NWxpTXhqR2R1VmNNcEpZekdQME4wZGdXMURwZzdJamxOLXAwZFZTNVZabDlBS0xhUWlEa3VrOExRcE82V0lpWUFjYXZqX2ROQ1VFUmpjNTMxWHY0ejItV1NB?oc=5)
+
+2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTm5aWF8yZzZxc1hEbDA5OVFseEg5OU9zR2NkOHoxU1lkc1E2MUp1cjIxZ2UwMnlKYmNIQWFfcDJ1NWxpTXhqR2R1VmNNcEpZekdQME4wZGdXMURwZzdJamxOLXAwZFZTNVZabDlBS0xhUWlEa3VrOExRcE82V0lpWUFjYXZqX2ROQ1VFUmpjNTMxWHY0ejItV1NB?oc=5)
+
+---
+
+### [Ebola in Congo: "Fermare subito l'epidemia", parla Pregliasco - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinAJBVV95cUxPTWNwdkhCZnBRTXlLWWhIOUJaV0RNamRTbDV2cVZUREhhYVhwMENUX0JRMTFoclZZNko2aHQzLVBfUWdaRnc4eTRKdEtEVXJHZTJyNFNkSmFUWWJzMlJxVV91dS1RcVgyNEgwcEt3aGtwWVgwUGl3V0p0OF9hZ1FTb3hvZHB4ZVFFZjdGZWpISWtYLXhSZGpLUjBKR0p2Z2tqRnVZUGtXampnNmhIRGpILVV2SjFieW5XX1NReWJUUE0ybE8ybGNJQWozSm1YU0loNWhudkNrNVlrckFRdmZMVnZmeHdEd2xQbHBtYk1NTTRLR19xMGc4YmpQc2s2ZEN3OHdWX19ycXd0LUZJLWs5RXNYai0tSEwwX3BXUg?oc=5)
 
 2026-05-20 <span class="news-indication-tag">MS</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMid0FVX3lxTE95QTBEUzVqQTRHcWVGWFJoMEY5dnVzMUxMT0Z5WmotZUgxbERNMmxSTUtTdG1QNWNQcXdSTW9IMEFWZU5laG5sNVlqNm5Nc2lLS0tGUWZiSEtRWjJoMmNjV3BPaHNRTXk5RlM4UkxGTkpfV3E3Z05n?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinAJBVV95cUxPTWNwdkhCZnBRTXlLWWhIOUJaV0RNamRTbDV2cVZUREhhYVhwMENUX0JRMTFoclZZNko2aHQzLVBfUWdaRnc4eTRKdEtEVXJHZTJyNFNkSmFUWWJzMlJxVV91dS1RcVgyNEgwcEt3aGtwWVgwUGl3V0p0OF9hZ1FTb3hvZHB4ZVFFZjdGZWpISWtYLXhSZGpLUjBKR0p2Z2tqRnVZUGtXampnNmhIRGpILVV2SjFieW5XX1NReWJUUE0ybE8ybGNJQWozSm1YU0loNWhudkNrNVlrckFRdmZMVnZmeHdEd2xQbHBtYk1NTTRLR19xMGc4YmpQc2s2ZEN3OHdWX19ycXd0LUZJLWs5RXNYai0tSEwwX3BXUg?oc=5)
+
+---
+
+### ['Adenomyosis may be invisible, its impact is not'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BdjJrTzZLel9ZZ3JEUmRxOEpsdzhkYjdmOVBhRU5kUlpoQ2dkSWpuVjYtZG45YkNXR0NLWm95aU1JdUNSOGh6LTJSXzR5WWRhZVhBb0NKTE1GSjRD?oc=5)
+
+2026-05-20 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BdjJrTzZLel9ZZ3JEUmRxOEpsdzhkYjdmOVBhRU5kUlpoQ2dkSWpuVjYtZG45YkNXR0NLWm95aU1JdUNSOGh6LTJSXzR5WWRhZVhBb0NKTE1GSjRD?oc=5)
 
 ---
 
@@ -110,11 +150,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Face Perimenopause with Hope - The Gospel Coalition](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OemNfclh4V0dtcUpzS2Vqd3Y5UjJWZUV3OUZFT2k2ak9zUVcwYldYUHY2b0x4ZE5zSzNpSHphMktJYklJd3hjSm9IT0R2SFVMelcxU0k0MWFrS3BRVmZSY1dhQm1LYWF0UzdSVjBVYV9kMFBLTkE?oc=5)
+### ['I had no fears about robotic surgery after my cancer diagnosis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
 
-2026-05-20 <span class="news-indication-tag">MS</span>
+2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Gospel Coalition](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OemNfclh4V0dtcUpzS2Vqd3Y5UjJWZUV3OUZFT2k2ak9zUVcwYldYUHY2b0x4ZE5zSzNpSHphMktJYklJd3hjSm9IT0R2SFVMelcxU0k0MWFrS3BRVmZSY1dhQm1LYWF0UzdSVjBVYV9kMFBLTkE?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
 
 ---
 
@@ -142,19 +182,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Pandemie, l'allarme dell'Oms: "Siamo in bilico, troppo stanchi di reagire"](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3hUNTk0dXZqM3Q1VXFGcE9ueGJvbk5kSFI5eEtweE1Bc0d0eDRXSkFIRXVmOXFqU3d3SGpmX1MxYXYzSDRFNkMxdTIyZ241T2Q3emF0ME9fNVVBRF84cVZZSWFxdS1TR2tpM1dTd041OFN3eGRMRzdhVG5vcUVVM0psSHBvOUEybzcybmlJSWk0LUNM0gFoQVVfeXFMT1hlM011RFU3Nkh2bzdsSTc4RWNnRnlEczZVVTVmSEpseFFfRnIzYkJFUXhtU1kyU0VERGxRbndOVmlPeWh4akl3MUhKbm5XbTlYTzlIYWxGZHkxOG5WbE1oSEFST3g5al8?oc=5)
+### [Pandemie, allarme Oms: "Mondo in bilico e più vulnerabile" - Sky TG24](https://news.google.com/rss/articles/CBMiaEFVX3lxTE14aGFnWXZoRXBwLUFNSXQ2V0EtZmJLdXdLb1RmOEgwNE4xVDNOcGsxdUFxNnBVWks5WmZKOXpkUElVM2RDS09jTkxCZ0xyb0Y2TFkyV1BKT2h5VDVIMFlNSk4wSUFjdGV0?oc=5)
 
 2026-05-19 <span class="news-indication-tag">MS</span>
 
-來源：[tgcom24.mediaset.it](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3hUNTk0dXZqM3Q1VXFGcE9ueGJvbk5kSFI5eEtweE1Bc0d0eDRXSkFIRXVmOXFqU3d3SGpmX1MxYXYzSDRFNkMxdTIyZ241T2Q3emF0ME9fNVVBRF84cVZZSWFxdS1TR2tpM1dTd041OFN3eGRMRzdhVG5vcUVVM0psSHBvOUEybzcybmlJSWk0LUNM0gFoQVVfeXFMT1hlM011RFU3Nkh2bzdsSTc4RWNnRnlEczZVVTVmSEpseFFfRnIzYkJFUXhtU1kyU0VERGxRbndOVmlPeWh4akl3MUhKbm5XbTlYTzlIYWxGZHkxOG5WbE1oSEFST3g5al8?oc=5)
-
----
-
-### [Scientists Bioengineer Photosynthesis in the Eyes to Treat Dry Eye Disease - ZME Science](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMW9fUHNpb2k2bTRUY2VmdUJYMks2VmlLZWx3bG81RHlPWExPdWxZOTdmNE5UeFhRY0diVmlJMTlIN0xGeXAtM0RFNkQxc1Z1U3A2UDllenpEeVBtVkNjTWxuQlFSUWFsRGNkRUVFd3l3Y0o0bFlpdl9idENEMTdUaA?oc=5)
-
-2026-05-18 <span class="news-indication-tag">MS</span>
-
-來源：[ZME Science](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMW9fUHNpb2k2bTRUY2VmdUJYMks2VmlLZWx3bG81RHlPWExPdWxZOTdmNE5UeFhRY0diVmlJMTlIN0xGeXAtM0RFNkQxc1Z1U3A2UDllenpEeVBtVkNjTWxuQlFSUWFsRGNkRUVFd3l3Y0o0bFlpdl9idENEMTdUaA?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiaEFVX3lxTE14aGFnWXZoRXBwLUFNSXQ2V0EtZmJLdXdLb1RmOEgwNE4xVDNOcGsxdUFxNnBVWks5WmZKOXpkUElVM2RDS09jTkxCZ0xyb0Y2TFkyV1BKT2h5VDVIMFlNSk4wSUFjdGV0?oc=5)
 
 ---
 
