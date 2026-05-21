@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabète（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
+description: "diabète（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabète（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,21 +114,21 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [„Herzenssache Lebenszeit“: Aufklärung kann Leben retten – der rote Bus macht Halt am RHÖN-Klinikum Frankfurt (Oder) - RHÖN-KLINIKUM AG](https://news.google.com/rss/articles/CBMikwJBVV95cUxNRnI2OVRpV2NxekhHY1JjbzlOV0N2RTBEYlh4OXI2YXBhd0hlbkNsb2dqMUJwN1VqQ1J2RHJnWkU4RFdZaUwyd3d3ZXpWNnpJZDA3eFY4RUNwaFM5OTFRd2Z4NlNQTi0ycFN3V2pib0ZhZE44RWpldjF1bU5LRXFlMlIzSy1sYktaRWhZNy1FVHpxTkNYLVE2MXZpcWY2dUQ5d1JuTmdpNTBHbUxPeDZVUEVmdUdzWTNlWXZOOE84NzZEd0FhQm96QThpakpGa19lSHFxMC1iZTQxa21IaGgweldtdTlvemlqaHh3ekJLWHA5T19HSzNWMThJaWtsZ1g3SXk0Nnc0TjdsczluR3pXTDZIaw?oc=5)
+### [Les cas d'hypertension artérielle et crises cardiaques explosent et ces conservateurs alimentaires en sont responsables, selon une étude](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
 
 2026-05-21
 
-來源：[RHÖN-KLINIKUM AG](https://news.google.com/rss/articles/CBMikwJBVV95cUxNRnI2OVRpV2NxekhHY1JjbzlOV0N2RTBEYlh4OXI2YXBhd0hlbkNsb2dqMUJwN1VqQ1J2RHJnWkU4RFdZaUwyd3d3ZXpWNnpJZDA3eFY4RUNwaFM5OTFRd2Z4NlNQTi0ycFN3V2pib0ZhZE44RWpldjF1bU5LRXFlMlIzSy1sYktaRWhZNy1FVHpxTkNYLVE2MXZpcWY2dUQ5d1JuTmdpNTBHbUxPeDZVUEVmdUdzWTNlWXZOOE84NzZEd0FhQm96QThpakpGa19lSHFxMC1iZTQxa21IaGgweldtdTlvemlqaHh3ekJLWHA5T19HSzNWMThJaWtsZ1g3SXk0Nnc0TjdsczluR3pXTDZIaw?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
 
 ---
 
-### [Une forte exposition aux colorants alimentaires liée à un risque accru de diabète de type 2 et de cancers - Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxPVjgyY0hVaXFxaWF5NWxVMTlpV2VkSUpGN3ZMck5rMDBuWWlfcGFLNlNmUjczelpCYWdreGZsQlBWcUxjanhuZXJMTGJkd0VHNUFYcUEtVEY1VFV5aDl3SU96SFZrS3hfYVVHT2hrUWNvUWt2ejR1YzZkcmFTbUdBSWc3b1d0MS1GVEZDd2tha2MxWGV3a2RXLTlaeFJBQ2lPQl94NW5IMkZZcm5zT2U0OFpsRHZFUWlWTG85S0RTTnl3cmt0aG1KbmxJMWhHakVuSzlDSDJMWkVUWnoybmxjai0wNGlxUXRqRFZOdEtLQy1tUG1IMzg0QXhELWlNR2VzTHZR?oc=5)
+### [Scientists Discover Metformin Doesn’t Work the Way We Thought](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeW5Ja20wRG44ZmpCWkZ1LVJKeVAwSWtWYlBOVDB4WGkwdWhWMWJhZWctUGNhRnpDQ1lTcklZWm4tbFpQSlZabWVrYlRLWG1DblJpYXZhVldpeVJ2WDZRWW1hSkItQXd1QjMtZU9DaFBfTnFYclY1NmtFUVZVVXJRTW1DRnpLcWhWUHhwY2tQVQ?oc=5)
 
 2026-05-21
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxPVjgyY0hVaXFxaWF5NWxVMTlpV2VkSUpGN3ZMck5rMDBuWWlfcGFLNlNmUjczelpCYWdreGZsQlBWcUxjanhuZXJMTGJkd0VHNUFYcUEtVEY1VFV5aDl3SU96SFZrS3hfYVVHT2hrUWNvUWt2ejR1YzZkcmFTbUdBSWc3b1d0MS1GVEZDd2tha2MxWGV3a2RXLTlaeFJBQ2lPQl94NW5IMkZZcm5zT2U0OFpsRHZFUWlWTG85S0RTTnl3cmt0aG1KbmxJMWhHakVuSzlDSDJMWkVUWnoybmxjai0wNGlxUXRqRFZOdEtLQy1tUG1IMzg0QXhELWlNR2VzTHZR?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeW5Ja20wRG44ZmpCWkZ1LVJKeVAwSWtWYlBOVDB4WGkwdWhWMWJhZWctUGNhRnpDQ1lTcklZWm4tbFpQSlZabWVrYlRLWG1DblJpYXZhVldpeVJ2WDZRWW1hSkItQXd1QjMtZU9DaFBfTnFYclY1NmtFUVZVVXJRTW1DRnpLcWhWUHhwY2tQVQ?oc=5)
 
 ---
 
@@ -153,14 +153,6 @@ permalink: /news/diabetes-mellitus/
 2026-05-20
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRU5FUVZCbzNPMGMyNHFKNU5mendDTlRWb0VLN0l6WXdBOS1rMk9vSjlWeEk5NlpBVkJobUxsblBxelA4X3U5MHAwaThLbXlKdVg1ZEFCQ1VRSW92cHNrNzU3eVpMNTVFVW9RcFFHamNoLTM2Ny1McUp0Ymx2bzFGaksxbzF6WlpFZlA5dTJlVXRwMXJLWmRtZTl5SFVSUEtfQU4wbTFwMHRwd2x0d3g2cnlWT3oxZzZuNF9CeXpFWTNtZWI1SU42eVc2cFo?oc=5)
-
----
-
-### [Diabetes-Kids Virtuell: Webinar mit mylife Diabetes Care zum mylife Loop mit dem Dexcom G7](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
-
-2026-05-19
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
 
 ---
 

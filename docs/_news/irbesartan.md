@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Irbesartan 有什麼相關新聞？">
-<strong>Irbesartan</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Irbesartan</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/irbesartan/
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（40 則）
+## 相關新聞（34 則）
 
-### [„Herzenssache Lebenszeit“: Aufklärung kann Leben retten – der rote Bus macht Halt am RHÖN-Klinikum Frankfurt (Oder) - RHÖN-KLINIKUM AG](https://news.google.com/rss/articles/CBMikwJBVV95cUxNRnI2OVRpV2NxekhHY1JjbzlOV0N2RTBEYlh4OXI2YXBhd0hlbkNsb2dqMUJwN1VqQ1J2RHJnWkU4RFdZaUwyd3d3ZXpWNnpJZDA3eFY4RUNwaFM5OTFRd2Z4NlNQTi0ycFN3V2pib0ZhZE44RWpldjF1bU5LRXFlMlIzSy1sYktaRWhZNy1FVHpxTkNYLVE2MXZpcWY2dUQ5d1JuTmdpNTBHbUxPeDZVUEVmdUdzWTNlWXZOOE84NzZEd0FhQm96QThpakpGa19lSHFxMC1iZTQxa21IaGgweldtdTlvemlqaHh3ekJLWHA5T19HSzNWMThJaWtsZ1g3SXk0Nnc0TjdsczluR3pXTDZIaw?oc=5)
+### [À Lyon, un traitement inédit contre ces cancers résistants](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZRG1KeFZuRDRabGFqSi1WTnhDWU9iTEZhRHR5Tk5nbmdfOEVnVjIyT2F4TmRCRmdDNE0xX0JJMl9oVG5aeFI0WG5ETW9xSGpzZ042MXJkNjRLMjNKdU9heHhxU1dsVFBIc0NDcXVGUDlYaHZf?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabetes</span>
+2026-05-21 <span class="news-indication-tag">cancer</span>
 
-來源：[RHÖN-KLINIKUM AG](https://news.google.com/rss/articles/CBMikwJBVV95cUxNRnI2OVRpV2NxekhHY1JjbzlOV0N2RTBEYlh4OXI2YXBhd0hlbkNsb2dqMUJwN1VqQ1J2RHJnWkU4RFdZaUwyd3d3ZXpWNnpJZDA3eFY4RUNwaFM5OTFRd2Z4NlNQTi0ycFN3V2pib0ZhZE44RWpldjF1bU5LRXFlMlIzSy1sYktaRWhZNy1FVHpxTkNYLVE2MXZpcWY2dUQ5d1JuTmdpNTBHbUxPeDZVUEVmdUdzWTNlWXZOOE84NzZEd0FhQm96QThpakpGa19lSHFxMC1iZTQxa21IaGgweldtdTlvemlqaHh3ekJLWHA5T19HSzNWMThJaWtsZ1g3SXk0Nnc0TjdsczluR3pXTDZIaw?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZRG1KeFZuRDRabGFqSi1WTnhDWU9iTEZhRHR5Tk5nbmdfOEVnVjIyT2F4TmRCRmdDNE0xX0JJMl9oVG5aeFI0WG5ETW9xSGpzZ042MXJkNjRLMjNKdU9heHhxU1dsVFBIc0NDcXVGUDlYaHZf?oc=5)
+
+---
+
+### [Les cas d'hypertension artérielle et crises cardiaques explosent et ces conservateurs alimentaires en sont responsables, selon une étude](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Une forte exposition aux colorants alimentaires liée à un risque accru de diabète de type 2 et de cancers - Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxPVjgyY0hVaXFxaWF5NWxVMTlpV2VkSUpGN3ZMck5rMDBuWWlfcGFLNlNmUjczelpCYWdreGZsQlBWcUxjanhuZXJMTGJkd0VHNUFYcUEtVEY1VFV5aDl3SU96SFZrS3hfYVVHT2hrUWNvUWt2ejR1YzZkcmFTbUdBSWc3b1d0MS1GVEZDd2tha2MxWGV3a2RXLTlaeFJBQ2lPQl94NW5IMkZZcm5zT2U0OFpsRHZFUWlWTG85S0RTTnl3cmt0aG1KbmxJMWhHakVuSzlDSDJMWkVUWnoybmxjai0wNGlxUXRqRFZOdEtLQy1tUG1IMzg0QXhELWlNR2VzTHZR?oc=5)
+### [Scientists Discover Metformin Doesn’t Work the Way We Thought](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeW5Ja20wRG44ZmpCWkZ1LVJKeVAwSWtWYlBOVDB4WGkwdWhWMWJhZWctUGNhRnpDQ1lTcklZWm4tbFpQSlZabWVrYlRLWG1DblJpYXZhVldpeVJ2WDZRWW1hSkItQXd1QjMtZU9DaFBfTnFYclY1NmtFUVZVVXJRTW1DRnpLcWhWUHhwY2tQVQ?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxPVjgyY0hVaXFxaWF5NWxVMTlpV2VkSUpGN3ZMck5rMDBuWWlfcGFLNlNmUjczelpCYWdreGZsQlBWcUxjanhuZXJMTGJkd0VHNUFYcUEtVEY1VFV5aDl3SU96SFZrS3hfYVVHT2hrUWNvUWt2ejR1YzZkcmFTbUdBSWc3b1d0MS1GVEZDd2tha2MxWGV3a2RXLTlaeFJBQ2lPQl94NW5IMkZZcm5zT2U0OFpsRHZFUWlWTG85S0RTTnl3cmt0aG1KbmxJMWhHakVuSzlDSDJMWkVUWnoybmxjai0wNGlxUXRqRFZOdEtLQy1tUG1IMzg0QXhELWlNR2VzTHZR?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeW5Ja20wRG44ZmpCWkZ1LVJKeVAwSWtWYlBOVDB4WGkwdWhWMWJhZWctUGNhRnpDQ1lTcklZWm4tbFpQSlZabWVrYlRLWG1DblJpYXZhVldpeVJ2WDZRWW1hSkItQXd1QjMtZU9DaFBfTnFYclY1NmtFUVZVVXJRTW1DRnpLcWhWUHhwY2tQVQ?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/irbesartan/
 2026-05-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[mgo medizin](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzFGZVNqcDNWQlQwN2dKSFpaZHVfejBvcTcyVmFwelBCeXlnSkRVcEJUd3ZNRDRUNUw4aWNYVVhNU3oxRS1OZ2dGRW5UTGhLZUFlNW5EaWdUZm4tVjZXWWNRWUJkaUV1UzJSUTNOY2phdWZuX1c3eDd4aUZVaGFtaHV1MzZBd1RQZ3pGdTFlUWwtZG5YekpCZTFNRHJsNVNSR0lxUE5YV1B5Y2IwTkRVSmtGWnBLZmtNdW03Mw?oc=5)
+
+---
+
+### [Common asthma drug helps fight hard-to-treat cancers, including aggressive breast cancers, early study finds - Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
+
+2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
 
 ---
 
@@ -102,11 +118,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Oncologia, a una giovane dottoressa di Carrara il premio per la ricerca sul tumore del colon retto - La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE5EMzkxb1kzWGRlcmEteDFNSVdRS1dLX3NNdmh6eHUwZmNtV1JROERVeEZOd2xfUF9odmtuWWlNc0ZqVlJaMFVPSlBGN0ZJWDNoREluQlg1V2FQalF5UDJoTGNrQk1ObjlYUi1VdzFn?oc=5)
+### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
 
-2026-05-20 <span class="news-drug-tag">Leflunomide</span> <span class="news-indication-tag">tumor</span>
+2026-05-20 <span class="news-indication-tag">cancer</span>
 
-來源：[La Nazione](https://news.google.com/rss/articles/CBMibkFVX3lxTE5EMzkxb1kzWGRlcmEteDFNSVdRS1dLX3NNdmh6eHUwZmNtV1JROERVeEZOd2xfUF9odmtuWWlNc0ZqVlJaMFVPSlBGN0ZJWDNoREluQlg1V2FQalF5UDJoTGNrQk1ObjlYUi1VdzFn?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
 
 ---
 
@@ -134,11 +150,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [HPV-Impfaktion St. Pölten: ÖGGK Health Mobil bietet Chance auf eine zweite Dosis](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2JMY0hzTF9kZGF4ME5JTVR5YXZzY2lyYkhGLWMzZVRQcm9KbU5QVzR0c3RqZDdqZDJtVHQ4REdwSFdneGI3akx5U3ptVUMxYW40OTRUQ20xamdWbjNWUVExaF9lRVBzbHhsS1hDbVNJemtJNHR1VExlN3hacWotano3LVN5d0doak1sS0JtYUM2OWJSMlJGajFtaUd3VFNNVXBtWGVFaV9NdjljTEpn?oc=5)
+### [Whitstable dance teacher finds cancerous lump while warming up for class - Kent Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMks0Zk9nR3NWZFdwSXh6S0dJRUlETHhLVXRRSGZHVEc3M000VEIwNkpPN0NYc0VDcUc4UEhYYVJoa1g1aVFFaEZlY2ZBcU9TZTBINkV6RWhYT2s2eGpNajM1Ny1ZUGY5dGNjM0d5Zml2cDlnb3htYWJjMEVobFM1TjZQV2hYaVZNMnN1bHpndmI5UmNfS1BNR0tvTDRyN2ZEaGdTME9paUN2ODJQSHM1czRYaw?oc=5)
 
-2026-05-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-05-20 <span class="news-indication-tag">cancer</span>
 
-來源：[MeinBezirk.at](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2JMY0hzTF9kZGF4ME5JTVR5YXZzY2lyYkhGLWMzZVRQcm9KbU5QVzR0c3RqZDdqZDJtVHQ4REdwSFdneGI3akx5U3ptVUMxYW40OTRUQ20xamdWbjNWUVExaF9lRVBzbHhsS1hDbVNJemtJNHR1VExlN3hacWotano3LVN5d0doak1sS0JtYUM2OWJSMlJGajFtaUd3VFNNVXBtWGVFaV9NdjljTEpn?oc=5)
+來源：[Kent Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMks0Zk9nR3NWZFdwSXh6S0dJRUlETHhLVXRRSGZHVEc3M000VEIwNkpPN0NYc0VDcUc4UEhYYVJoa1g1aVFFaEZlY2ZBcU9TZTBINkV6RWhYT2s2eGpNajM1Ny1ZUGY5dGNjM0d5Zml2cDlnb3htYWJjMEVobFM1TjZQV2hYaVZNMnN1bHpndmI5UmNfS1BNR0tvTDRyN2ZEaGdTME9paUN2ODJQSHM1czRYaw?oc=5)
 
 ---
 
@@ -182,6 +198,14 @@ permalink: /news/irbesartan/
 
 ---
 
+### [À Chalon-sur-Saône, l’hôpital se mobilise face à une maladie qui touche un Français sur trois](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
+
+2026-05-20 <span class="news-indication-tag">hypertension</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
+
+---
+
 ### [Tumori germinali maligni dell'ovaio: uno studio internazionale identifica i principali fattori prognostici](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFRZTlo5VDRPN0s3SjAxOWVSUktsdzNXMHFrdXVRVzI2bnI1NkxyYnFmeDJ1eFZ3MWZXTkRMWTFTTk95dTZQQThhNm5JVXZpNXJ1UmdRbVlWVW9MdGZYVU5PV2xNOVZWVWZTWFFsaTBMbFpKMXA5LWpSVWtucHpma01wNFp5ZERLM2N3QUlRVnB2c0JHdWpXWUNfSXdWcjdMamY1MTh5eW7SAWhBVV95cUxQRGROX0dKV2E4aV84VUIwMHFrZU9BeVJGZzQzODVvczUyR3QtNW5DRkI5M251VXAwekloZkRkWkRSaGdTTl82U0VuZlN0VmZWYUt2QnBaUlRyLXlwZkpET1I0UWtoeXcxVQ?oc=5)
 
 2026-05-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -198,11 +222,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Früher Darmkrebs: Neue Studien identifizieren wichtige Risikofaktoren](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzRmSWxqMDBPTkhhTlZPNzFQendxMlI5a0thS2llWkg2akd5NTdPV0ZKUVFiSE1UdktXSzF4ZUVsR21CZzBEM0U3dWozVG9VZlVRZ3k3azd1aXh5SFlaczczSzZubFQwSEt5bURGZ1c1ejA2ZDBrNEhIelYtZnljLXc4VWl3dWVJYzJ5ejB1a0l6OGpFZVI3a0VKUHZlbkVCWDFSOGRrdGFOZlNZMnNYVkM5cWdJMzhO?oc=5)
+### [Cuándo se debe comenzar a controlar la presión arterial, según expertos](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDNrdTRfLUIxY21mVlpBNEVNZWZEaUFXTXBJempFT3M2T3VpMmJKNTFLa1FzME5tX3hqWm9Yb0pNNEVpSjEtOWs1QmhpOXJheFVFSDZ3bkd5UzhoS21UTFBqNGRkUU4tRzdta0V3blRGcHdpbzU2dWN4MVRnUFNsYnZJSF90V1pLMng5SW9jSy1pOHFsXy1xOXF2TWROUjhabjNoOENpNTNfYTA2Qkdqd09R0gHMAUFVX3lxTFBOVnJ3c2s1Z084TmJobDczNTl2Z3VqbmxqQXBMb2RtTmNaQnVaZFVBOGotNWRlaElOVE5RR19Maks0ZkdOMDJiTUM3UDJ6R2tnT2tIZWdZTVZBWGU2QjRUMGZwY294cmVQNUdyYU1Rd2dqTk5Cci0wYWozUFctVmpaQlEyNTl3SHRBNTZVTGhYMjI2cmJCZ0F6X2tIZmE3NHNabzBhZUp2ci1tWnZkQWVxZk5UQkVFR0FWbm1XOWtfcXhwNFlvbjFLaWpiSA?oc=5)
 
-2026-05-20 <span class="news-indication-tag">Krebs</span>
+2026-05-20 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzRmSWxqMDBPTkhhTlZPNzFQendxMlI5a0thS2llWkg2akd5NTdPV0ZKUVFiSE1UdktXSzF4ZUVsR21CZzBEM0U3dWozVG9VZlVRZ3k3azd1aXh5SFlaczczSzZubFQwSEt5bURGZ1c1ejA2ZDBrNEhIelYtZnljLXc4VWl3dWVJYzJ5ejB1a0l6OGpFZVI3a0VKUHZlbkVCWDFSOGRrdGFOZlNZMnNYVkM5cWdJMzhO?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDNrdTRfLUIxY21mVlpBNEVNZWZEaUFXTXBJempFT3M2T3VpMmJKNTFLa1FzME5tX3hqWm9Yb0pNNEVpSjEtOWs1QmhpOXJheFVFSDZ3bkd5UzhoS21UTFBqNGRkUU4tRzdta0V3blRGcHdpbzU2dWN4MVRnUFNsYnZJSF90V1pLMng5SW9jSy1pOHFsXy1xOXF2TWROUjhabjNoOENpNTNfYTA2Qkdqd09R0gHMAUFVX3lxTFBOVnJ3c2s1Z084TmJobDczNTl2Z3VqbmxqQXBMb2RtTmNaQnVaZFVBOGotNWRlaElOVE5RR19Maks0ZkdOMDJiTUM3UDJ6R2tnT2tIZWdZTVZBWGU2QjRUMGZwY294cmVQNUdyYU1Rd2dqTk5Cci0wYWozUFctVmpaQlEyNTl3SHRBNTZVTGhYMjI2cmJCZ0F6X2tIZmE3NHNabzBhZUp2ci1tWnZkQWVxZk5UQkVFR0FWbm1XOWtfcXhwNFlvbjFLaWpiSA?oc=5)
 
 ---
 
@@ -222,19 +246,19 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Il tabagismo cambia forma, ma 9 fumatori su 10 vogliono smettere](https://news.google.com/rss/articles/CBMirAJBVV95cUxOalJMdjhlRjJUbHQxdkE1OUFqRk9BM0JnX3R5bHkyZmh0VHQwZ215WHpaWFJwb21XeVV5X1ZTclBrNlFscnB1Z3JZdjl5X0hGOVZadTl1MjBrYl9vNFlyeE93WmMzLTlRNUh1VDdtQXRBMVRTUXFHTlppU0FyQ1RCRkRFQlozZ1c1TjNjd0Y0VVExbVRCXy16Q0dWY04zZHhTME1zZC1SeGJjeTcwX2h6N05WRlhUNGlacXptcGg3eTJMZ05xU2swMVhyb1BRUDdUOVgxRU56TkZHODVRT1dYNmFDcGNZMnVsM0Z6aEIxTU1JNWFRb1lsSDdueVlTNnl5WUs0YWJlT1FEOXFEM19kSEhoaWFMc1R4QzJaRGVIRWlTaGd1Wk5wZVIyQTE?oc=5)
+
+2026-05-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMirAJBVV95cUxOalJMdjhlRjJUbHQxdkE1OUFqRk9BM0JnX3R5bHkyZmh0VHQwZ215WHpaWFJwb21XeVV5X1ZTclBrNlFscnB1Z3JZdjl5X0hGOVZadTl1MjBrYl9vNFlyeE93WmMzLTlRNUh1VDdtQXRBMVRTUXFHTlppU0FyQ1RCRkRFQlozZ1c1TjNjd0Y0VVExbVRCXy16Q0dWY04zZHhTME1zZC1SeGJjeTcwX2h6N05WRlhUNGlacXptcGg3eTJMZ05xU2swMVhyb1BRUDdUOVgxRU56TkZHODVRT1dYNmFDcGNZMnVsM0Z6aEIxTU1JNWFRb1lsSDdueVlTNnl5WUs0YWJlT1FEOXFEM19kSEhoaWFMc1R4QzJaRGVIRWlTaGd1Wk5wZVIyQTE?oc=5)
+
+---
+
 ### [Tumore alla prostata metastatico, una soluzione in più (molto ben tollerata) per rallentare l'avanzata della malattia - Corriere della Sera](https://news.google.com/rss/articles/CBMivwJBVV95cUxNTktxUHNuS1NXQ29URXoxYW1nWW9YVWxIdjFqRUJINFBkQWVYVU5ZSy0zR2JaTU1OcFYydEs1LXBfLURUbUhzMFhXZFdDMkI0b0pEcU9iS3hyQXJWMDRtWmNmQU1mTmp6TjZUcFpnVEJ1eVJ2bE1SRks5OHJvM2x0NzZrNUx3alhEMkhZdjR6cEd5NjRjd3JxamI4YTN3U0hLV2JoQzFkOUNUOHNOUlhKa2pmM0NDVVE2QnRlZ0xIcTBDT0t1czU1TExsSy1HT1gyd1dVOTR1bGxuZjNHemt3QU9QR2tJNld1aG5lbzAxZHEwVDRpNEwwSFBNOFV6cFJINnRIQXhBUk9OYWF1VTNEYUM0RGhhRl9SbktzZjRnVVl0T3VaZUxxLVh0aXM5N1EtVDc2TmtKa3ZlNzRGMlBj0gHEAkFVX3lxTE1WS3FQTW5DQzY3bHJpN1diUERITHJWdWFDSG5RdWJRbEVpQW5ZQ2hFQVUwWVFoWVJqTDdsWEhkak9jOTBEUHdlUkhfZEF0V09laUlqNU9uQzNuRWdJMTVxS0JUT25wby1leWxpN2c4RFFvd3VlcXZqUTVndVMxbkRWNzdsLUU3T0M1VjRMaHJvQmxZMmdDdnpjb3V1WGdJVE1nZFkzbVBtbWEzMTlXSVNkZ2U2czNrMXM3UEFnbVZHU3h3MWVhODVSRGxfNmZNeVZRcm16QkJDUG5lZ0pPa0EzcXVSOHlJMnVhN0NBcTdpZkNtVVFwVUNPRDM0dnpwNG0wSEhOTGdfeE80bG1fNFdDY2l2MVNhSnFITXdLckZWamNrRTYtUk5IX2M3N1FYRXNZSU5iQkFSeHFIbWxiX0RJYVI2bw?oc=5)
 
 2026-05-20 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMivwJBVV95cUxNTktxUHNuS1NXQ29URXoxYW1nWW9YVWxIdjFqRUJINFBkQWVYVU5ZSy0zR2JaTU1OcFYydEs1LXBfLURUbUhzMFhXZFdDMkI0b0pEcU9iS3hyQXJWMDRtWmNmQU1mTmp6TjZUcFpnVEJ1eVJ2bE1SRks5OHJvM2x0NzZrNUx3alhEMkhZdjR6cEd5NjRjd3JxamI4YTN3U0hLV2JoQzFkOUNUOHNOUlhKa2pmM0NDVVE2QnRlZ0xIcTBDT0t1czU1TExsSy1HT1gyd1dVOTR1bGxuZjNHemt3QU9QR2tJNld1aG5lbzAxZHEwVDRpNEwwSFBNOFV6cFJINnRIQXhBUk9OYWF1VTNEYUM0RGhhRl9SbktzZjRnVVl0T3VaZUxxLVh0aXM5N1EtVDc2TmtKa3ZlNzRGMlBj0gHEAkFVX3lxTE1WS3FQTW5DQzY3bHJpN1diUERITHJWdWFDSG5RdWJRbEVpQW5ZQ2hFQVUwWVFoWVJqTDdsWEhkak9jOTBEUHdlUkhfZEF0V09laUlqNU9uQzNuRWdJMTVxS0JUT25wby1leWxpN2c4RFFvd3VlcXZqUTVndVMxbkRWNzdsLUU3T0M1VjRMaHJvQmxZMmdDdnpjb3V1WGdJVE1nZFkzbVBtbWEzMTlXSVNkZ2U2czNrMXM3UEFnbVZHU3h3MWVhODVSRGxfNmZNeVZRcm16QkJDUG5lZ0pPa0EzcXVSOHlJMnVhN0NBcTdpZkNtVVFwVUNPRDM0dnpwNG0wSEhOTGdfeE80bG1fNFdDY2l2MVNhSnFITXdLckZWamNrRTYtUk5IX2M3N1FYRXNZSU5iQkFSeHFIbWxiX0RJYVI2bw?oc=5)
-
----
-
-### [Robotic surgery expansion hailed as ‘game-changer’ for patient care - STV News](https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0x5clI4UjBGR0J2UVpIWnBXc0cwTUQ1UDc5Q1dNOXVXbldZMERpckRQeS1iRDFXZ1B1UHd0dVpxT01KS0VhdDlxalNfWUg3aDRYVlltSlM2MDVpSXF1MF9lV1ZrSTliNDJLTFA2ejlaYTVBX2RCU0h1cnN4dHZnREhtMEc3YWMta19oNlR3cXptMzdUX1FXQk81VVItU3phM0FHMm14c0Yyb1lsdFRwb1g5cUs4QmNPM2c?oc=5)
-
-2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0x5clI4UjBGR0J2UVpIWnBXc0cwTUQ1UDc5Q1dNOXVXbldZMERpckRQeS1iRDFXZ1B1UHd0dVpxT01KS0VhdDlxalNfWUg3aDRYVlltSlM2MDVpSXF1MF9lV1ZrSTliNDJLTFA2ejlaYTVBX2RCU0h1cnN4dHZnREhtMEc3YWMta19oNlR3cXptMzdUX1FXQk81VVItU3phM0FHMm14c0Yyb1lsdFRwb1g5cUs4QmNPM2c?oc=5)
 
 ---
 
@@ -262,6 +286,14 @@ permalink: /news/irbesartan/
 
 ---
 
+### ['I had no fears about robotic surgery after my cancer diagnosis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
+
+2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
+
+---
+
 ### [Study identifies key protein in immune cell exhaustion in cancer immunotherapy - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXBTZGpGZkdjUm00RTRTUk9jUGF4QTFSQnFtemdzeDNVOGhOZTJ0cEFEaGFkUHRXSUM3X0dEd1oydWg3RGNUVzFTNUkwT0ZKdzFTZl9sZi1iM3kwQUNDUDFVY09GdUNBdFM0ek5kdjh4bmpKOVdHUFRTMTd2dFVfdUw1cXQ?oc=5)
 
 2026-05-19 <span class="news-indication-tag">cancer</span>
@@ -278,91 +310,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Hypertension artérielle - Le Centre hospitalier de Chalon reconnu à l'échelle européenne depuis février](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
-
-2026-05-19 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
-
-來源：[Info-Chalon.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0lGeXJIRlFuZmp4R3NKQUxwbV9sRU9HaXN5Y01qY043bmJ3XzhTNU5jU3VhalRrS09IaVZYdlBMMFYzQXBVbUtZZmRrRllYaEttX3VmenNTcFZhVWxNWTNTaUM5YmdTN3plS0xPS1RfNjRoTFJWekkxZi1lMGVjZXBMbEJIZDY3Z201em8zU09FSS1lUG1VT3Y4UkJVR2tDenozSjR1c0RJNVR5YWpqNmx0RF9qQ2l1MC1uS1FieWw5emdNcHp2Z3Z5NV9fMWllNVJfWnl0SFdLZTZSV25NR1lnYTRmQTFsOFVKeV9R?oc=5)
-
----
-
 ### [Le cancer de la vessie, 4e plus fréquent chez l'homme : "S'il y a du sang dans les urines, il faut absolument consulter"](https://news.google.com/rss/articles/CBMinwJBVV95cUxPeVk5TGZ3WjBWbXRaV1ZUZURYQkdpeG81d3VWMDZ2cEQxYmticnZMdUFxRnZvNmRZQi1kaVZIRzduMzF1TlAzRTRoOTRlY3lLMy1IMW5mSUZseE9pbUYzRW5YRkRKSF9qUXItTXNoc19Cd01xYkFQOTBRckRabDd6Q01GTnhlLXZTRFY4UHVZU1ozVGstZFRVa1Q4UC04MUs3YXBKVFJneHhKWXdzWkczcjBPRUFYYzhGVWVNOENRdGNFQnFTMlhET21MT1ktYWs0YXFPcFp1cVF0bEZQdDVLS1ZXRURsNmZMaUdSZmFlNjlPSzJkbWFlazFoX09MT0RIR3NfMldILVBYYUM5SHU0dHJCdTl6VFU0WDM0RGVYbw?oc=5)
 
 2026-05-19 <span class="news-indication-tag">cancer</span>
 
-來源：[lavenir.net](https://news.google.com/rss/articles/CBMinwJBVV95cUxPeVk5TGZ3WjBWbXRaV1ZUZURYQkdpeG81d3VWMDZ2cEQxYmticnZMdUFxRnZvNmRZQi1kaVZIRzduMzF1TlAzRTRoOTRlY3lLMy1IMW5mSUZseE9pbUYzRW5YRkRKSF9qUXItTXNoc19Cd01xYkFQOTBRckRabDd6Q01GTnhlLXZTRFY4UHVZU1ozVGstZFRVa1Q4UC04MUs3YXBKVFJneHhKWXdzWkczcjBPRUFYYzhGVWVNOENRdGNFQnFTMlhET21MT1ktYWs0YXFPcFp1cVF0bEZQdDVLS1ZXRURsNmZMaUdSZmFlNjlPSzJkbWFlazFoX09MT0RIR3NfMldILVBYYUM5SHU0dHJCdTl6VFU0WDM0RGVYbw?oc=5)
-
----
-
-### [Diabetes-Kids Virtuell: Webinar mit mylife Diabetes Care zum mylife Loop mit dem Dexcom G7](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
-
-2026-05-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
-
----
-
-### [Strage di italiani alle Maldive, il premio Nobel Semenza: "Alcune popolazioni resistono meglio senza ossigeno" - il Giornale](https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1VVZHp0WmVCTGx3dEJZdHNHQXVWbi1TT3hRa3hpMW9MNVRDQ1ZRT05jcUFKTEpIaGQteFVxY0VJR0VKazNDWExoMDZhSGFUZDU4ZDZJMF9YdkYwRm5UV0NiTU1oNEtvXzMtWWNocm52cEs3eWxNRl9SdUpGWlNNOGkwQXozdDVvMTNCLVowMzZLR3U1dDY4N0hiQjYza1J6WURNakw4WQ?oc=5)
-
-2026-05-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1VVZHp0WmVCTGx3dEJZdHNHQXVWbi1TT3hRa3hpMW9MNVRDQ1ZRT05jcUFKTEpIaGQteFVxY0VJR0VKazNDWExoMDZhSGFUZDU4ZDZJMF9YdkYwRm5UV0NiTU1oNEtvXzMtWWNocm52cEs3eWxNRl9SdUpGWlNNOGkwQXozdDVvMTNCLVowMzZLR3U1dDY4N0hiQjYza1J6WURNakw4WQ?oc=5)
-
----
-
-### [Comune farmaco per asma e allergie efficace contro tumori aggressivi in laboratorio: lo studio su Nature Cancer](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVXViQW5nY2lXczVobmlrbFRKZUNEQmVTX0t6ZTdZaS0tdGUtajRqVGZaeTRLejNGV290X1NvZHFTdklnZ2tTWVozdHdYZzV5NFNSTS1US1FoQy1nbUJOb3hmTms0LTB1c2NjakJjRG1GTkRiUWpfaUpzZ0VodU5vV0tvX2JtbTA3clc0YXhEUjBzQThUVFBKQk8zNGtGTmFfZl9UdmxDUXBXbGl1YU9ERk5mWFlBa1RQVzlDNDhYOTBIbWMtNmtnbExoWFlTUnZ2Ync1VjhDaGpIUmIwZnJiSEhEZUZqQndfOVE?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVXViQW5nY2lXczVobmlrbFRKZUNEQmVTX0t6ZTdZaS0tdGUtajRqVGZaeTRLejNGV290X1NvZHFTdklnZ2tTWVozdHdYZzV5NFNSTS1US1FoQy1nbUJOb3hmTms0LTB1c2NjakJjRG1GTkRiUWpfaUpzZ0VodU5vV0tvX2JtbTA3clc0YXhEUjBzQThUVFBKQk8zNGtGTmFfZl9UdmxDUXBXbGl1YU9ERk5mWFlBa1RQVzlDNDhYOTBIbWMtNmtnbExoWFlTUnZ2Ync1VjhDaGpIUmIwZnJiSEhEZUZqQndfOVE?oc=5)
-
----
-
-### [Hautkrebs vorbeugen – Fakten und Fakes zum Thema Sonnenschutz](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQldfNk55X0R1eHZkZ3l4bHE2bDZrb2o5NWhjWHo1VWdPNlBYY3hmOHFSSTZQSVFKVFlQSWtSRlhJZ0NFTGJQdHpJVndBaXc4YWx4eDl2N09HMnUyVzYwSVJvZEx4ZXRicGRINXJCbFhOMUNTMVc1c21YVjg4T1BTQURYd2NTb3M0WWs4dFFWX2tYaEVldjY0?oc=5)
-
-2026-05-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[Blomberg-Voices](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQldfNk55X0R1eHZkZ3l4bHE2bDZrb2o5NWhjWHo1VWdPNlBYY3hmOHFSSTZQSVFKVFlQSWtSRlhJZ0NFTGJQdHpJVndBaXc4YWx4eDl2N09HMnUyVzYwSVJvZEx4ZXRicGRINXJCbFhOMUNTMVc1c21YVjg4T1BTQURYd2NTb3M0WWs4dFFWX2tYaEVldjY0?oc=5)
-
----
-
-### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancer</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
-
----
-
-### [Tumeur de collision : quand deux cancers différents coexistent au même endroit - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY1pOWW9lTHVnNjU0THV6VGpic3h5SnFBVlpReWJnRF9KWndESnc2SFpROFVWOFdfOUtabjh4NUwwUlB0d3ZBczJHSFZIWXVLY2pvY2tuVHZkNVNtSVBxTzl1SXFoTFp2MnVBZGxNWjA3YW1WdTdGb2MyY3ZjbzM4c1VrWFdHSUVhbmdmd0g0WTVFRnN4UFI4WjJScVVDYXdQQktEcjU1WDdZalBWd1hWVWhPVWRYMWJ5ZW80VjJ5NUFWM2hyek02WE5VeGZCbUo5b3p3MmNkWDJjTGJ2NWgwZEJ1UVBBei05RF9LWnFNbjdlaVE?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY1pOWW9lTHVnNjU0THV6VGpic3h5SnFBVlpReWJnRF9KWndESnc2SFpROFVWOFdfOUtabjh4NUwwUlB0d3ZBczJHSFZIWXVLY2pvY2tuVHZkNVNtSVBxTzl1SXFoTFp2MnVBZGxNWjA3YW1WdTdGb2MyY3ZjbzM4c1VrWFdHSUVhbmdmd0g0WTVFRnN4UFI4WjJScVVDYXdQQktEcjU1WDdZalBWd1hWVWhPVWRYMWJ5ZW80VjJ5NUFWM2hyek02WE5VeGZCbUo5b3p3MmNkWDJjTGJ2NWgwZEJ1UVBBei05RF9LWnFNbjdlaVE?oc=5)
-
----
-
-### [Die neuesten Studien zu Brustkrebs, Blasenkrebs und Prostatakrebs](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWZiSEI3elpsTWhuSjZGVEhlM1hFY3VCS291NUgxd0JNeTk2Y0VCVWFncWpZMGNaSzlZUDMxQ1BuVGl3MzB1Z19nS2h2NmNYcm9qaUNCdC1jUFNtQjZmSTRSLW1QUElKa3VzVU8xZUlLaWo4aUVqcG1ablBBa29wNWNMbDVKOEJrYW0wRUZ3eTJXa0NPLUIyYVJwd19hMEJIcjdZWFZkaC1CWTlmOERQQw?oc=5)
-
-2026-05-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWZiSEI3elpsTWhuSjZGVEhlM1hFY3VCS291NUgxd0JNeTk2Y0VCVWFncWpZMGNaSzlZUDMxQ1BuVGl3MzB1Z19nS2h2NmNYcm9qaUNCdC1jUFNtQjZmSTRSLW1QUElKa3VzVU8xZUlLaWo4aUVqcG1ablBBa29wNWNMbDVKOEJrYW0wRUZ3eTJXa0NPLUIyYVJwd19hMEJIcjdZWFZkaC1CWTlmOERQQw?oc=5)
-
----
-
-### [Tumore al colon retto, ingannare il cancro per farlo autodistruggere: la scoperta di Candiolo - La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWdEWS1fSllMWFd0UE1SUFVrVWpiN0pMakk1NjI4Tm5TS2N2eS1ha1VFQmwzWmp4Q0JuYjFoekRpallWLWdXcjBUYkJIOG82Y3NZUVpsdGpMRHpCZm90LWJrSGpnc082Qzl5Y0NMRmdobHJmbjRfal91MjgzdWZpYVdPUVhJZVNUamFGTTVDTzZZNmRpaHZteGlDeGpMYXdvVXJVQURnTFZXTUVT0gGyAUFVX3lxTFBKcVdjOGppYzJya19MTmRTdnJHWEloTDZMNno0eUFwcGZYOExoOUV3NTBlQ1FxQ3dfRjA2SzVBOFFXYkhlVWM4TGk3NmluT09pRmlqVkd5VDYwZXFfS0pGSXVkYW1GMjF1eHN3eTBPMW9HRWlGa2RxVm9xeHM5bk4xNGVtZDNhWEFoTm9SbHgtLXRzOGVqYVNBdTNTR3lTTHgtMUVja2JVUVdSUnVuLW5TMEE?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancer</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWdEWS1fSllMWFd0UE1SUFVrVWpiN0pMakk1NjI4Tm5TS2N2eS1ha1VFQmwzWmp4Q0JuYjFoekRpallWLWdXcjBUYkJIOG82Y3NZUVpsdGpMRHpCZm90LWJrSGpnc082Qzl5Y0NMRmdobHJmbjRfal91MjgzdWZpYVdPUVhJZVNUamFGTTVDTzZZNmRpaHZteGlDeGpMYXdvVXJVQURnTFZXTUVT0gGyAUFVX3lxTFBKcVdjOGppYzJya19MTmRTdnJHWEloTDZMNno0eUFwcGZYOExoOUV3NTBlQ1FxQ3dfRjA2SzVBOFFXYkhlVWM4TGk3NmluT09pRmlqVkd5VDYwZXFfS0pGSXVkYW1GMjF1eHN3eTBPMW9HRWlGa2RxVm9xeHM5bk4xNGVtZDNhWEFoTm9SbHgtLXRzOGVqYVNBdTNTR3lTTHgtMUVja2JVUVdSUnVuLW5TMEE?oc=5)
-
----
-
-### [Cancro alla prostata, il test del sangue che anticipa il fallimento delle cure](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcTZOaXE3Y1ZNdHJVQkZaQTF2Wms4dEIyX0xZOGpvZmJjckQ2dmU0UUtBOWZ6ai1CT1Z5XzhxS2JPVmRlQ2J1bWhBTE45UU1jSDR0SEMtbm5aNDY4SkpkMWQwN0pwSFYtVk1Oa1dwaEktYm9fcC1FQlJpYUZ5bmJpQmJGTHE2R1p6UzVZUzl4MVR5dWJhQzc1NDhUaEdlZE0yLUM0TWZfYjR0NERhak9yNzZn?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancro</span>
-
-來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcTZOaXE3Y1ZNdHJVQkZaQTF2Wms4dEIyX0xZOGpvZmJjckQ2dmU0UUtBOWZ6ai1CT1Z5XzhxS2JPVmRlQ2J1bWhBTE45UU1jSDR0SEMtbm5aNDY4SkpkMWQwN0pwSFYtVk1Oa1dwaEktYm9fcC1FQlJpYUZ5bmJpQmJGTHE2R1p6UzVZUzl4MVR5dWJhQzc1NDhUaEdlZE0yLUM0TWZfYjR0NERhak9yNzZn?oc=5)
+來源：[L'Avenir](https://news.google.com/rss/articles/CBMinwJBVV95cUxPeVk5TGZ3WjBWbXRaV1ZUZURYQkdpeG81d3VWMDZ2cEQxYmticnZMdUFxRnZvNmRZQi1kaVZIRzduMzF1TlAzRTRoOTRlY3lLMy1IMW5mSUZseE9pbUYzRW5YRkRKSF9qUXItTXNoc19Cd01xYkFQOTBRckRabDd6Q01GTnhlLXZTRFY4UHVZU1ozVGstZFRVa1Q4UC04MUs3YXBKVFJneHhKWXdzWkczcjBPRUFYYzhGVWVNOENRdGNFQnFTMlhET21MT1ktYWs0YXFPcFp1cVF0bEZQdDVLS1ZXRURsNmZMaUdSZmFlNjlPSzJkbWFlazFoX09MT0RIR3NfMldILVBYYUM5SHU0dHJCdTl6VFU0WDM0RGVYbw?oc=5)
 
 ---
 

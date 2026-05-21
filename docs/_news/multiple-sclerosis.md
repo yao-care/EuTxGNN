@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。18 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>18 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（18 則）
 
-### [La OMS mantiene la alerta internacional por el brote de ébola tras extenderse a dos países](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1hSb3I2RzBpQjc2SFNpQmdwb0NpVmpwOWg0OXVaTFJWMU9OWmJDSy1PZUdTV2xSYWdUeVpuS3Q0ODV1X2pLdlV4VVNUbnVrYlRTZ0VwUlYtam5JSGxaRkJESWVQcmswRnJLWFhRRFByR3VFUmpqalRDSzAzMllZbExSVWVUZU5KejJ3WEtOYTlERWRCckJKbGl2R0lGQlUxRzFN0gGoAUFVX3lxTE5ZeXBUVHRxaE1VdWVYMWd4LWt6TlQyYkV0SUFrRllKZ09mWHg4WVpndHVpSHcyTjJWT0VNc05uazlqLXpIcXprMUVJVm05QVUzV1BDaUNEQ1N5VjAtNmVWeFNhd0tmMnYyRklUOTBGT3hHT2xqRDBYREtTdl9fMVNlak9tM3dNVl9iaUR0X0RUUnlaQ2tCZUV1SzdMc0Q1eXJLcWpSenlxVw?oc=5)
+### [Inside Vinted’s hidden ‘pharmacy’ selling injectables & creams that can burn you - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmItbHdlNEdfSE80Zjk3LXFhdzdvdGpaRW5xd3NKSlVZNTdlRjc3czcyWGNlMFdmT3hVTXNESXA4OXVPa0tNOEc0Um9yb09lbmt2cDI1RzJRRVdPdWdLYTZ0VXlIbVZYVVVWSjZwUXhlVERNeEtrSktVMkt0cWJJRlV2M01iaXhNRmVNNGtHczQ2WWlSTmJlRjh6dUZXaFhjVzJZ?oc=5)
 
 2026-05-21
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1hSb3I2RzBpQjc2SFNpQmdwb0NpVmpwOWg0OXVaTFJWMU9OWmJDSy1PZUdTV2xSYWdUeVpuS3Q0ODV1X2pLdlV4VVNUbnVrYlRTZ0VwUlYtam5JSGxaRkJESWVQcmswRnJLWFhRRFByR3VFUmpqalRDSzAzMllZbExSVWVUZU5KejJ3WEtOYTlERWRCckJKbGl2R0lGQlUxRzFN0gGoAUFVX3lxTE5ZeXBUVHRxaE1VdWVYMWd4LWt6TlQyYkV0SUFrRllKZ09mWHg4WVpndHVpSHcyTjJWT0VNc05uazlqLXpIcXprMUVJVm05QVUzV1BDaUNEQ1N5VjAtNmVWeFNhd0tmMnYyRklUOTBGT3hHT2xqRDBYREtTdl9fMVNlak9tM3dNVl9iaUR0X0RUUnlaQ2tCZUV1SzdMc0Q1eXJLcWpSenlxVw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmItbHdlNEdfSE80Zjk3LXFhdzdvdGpaRW5xd3NKSlVZNTdlRjc3czcyWGNlMFdmT3hVTXNESXA4OXVPa0tNOEc0Um9yb09lbmt2cDI1RzJRRVdPdWdLYTZ0VXlIbVZYVVVWSjZwUXhlVERNeEtrSktVMkt0cWJJRlV2M01iaXhNRmVNNGtHczQ2WWlSTmJlRjh6dUZXaFhjVzJZ?oc=5)
 
 ---
 
@@ -77,6 +77,22 @@ permalink: /news/multiple-sclerosis/
 2026-05-20
 
 來源：[Taunus-Nachrichten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
+
+---
+
+### [La députée UDR Christelle D’Intorni annonce être atteinte de la sclérose en plaques](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGpvaV94OVlrU1BUWnZkbk5CM2ZwZmRJYjFjeC1kYmMtTnB5REppUXJQQnhRdXFWT0JRMDdpQzNuZTYxaUQ4YzJzRjhJNi1tNklBUlVOVUpubU1vdVQ1QTRXNnhPb2hxVk84WWd4T2NObG8tOWZTVVBOTnc0enM3QkthU2h0RmY3LTNCT3d6dE1qNkJLYXpKVFhqLWUyMlpSUXk0dzJLU2JKYmU1Qi1ZLWU0a9IBuAFBVV95cUxOYi1FTkwwQi1kUlpwRmRadGhEUUVBd3I0RVN1Q0FpbkRXRXZzeVRmdjlLazV3elp2aXNyWDlyYkdIZkpkRjBvNjNMdTl5d25pd1ZKZjVCRmladFhqYU40a2dBQ2hvZmJXX1BBLXJ6T2VjTTlhd0U4b09oUDJkMzdrb0lfWGlZMWxaUzA0SGFIckpCNkRfdzBGdGk5Q2t3U2lPZmdBVFdoUUxIV2FmZlFZOWtDNXExNTUz?oc=5)
+
+2026-05-20
+
+來源：[CNews](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGpvaV94OVlrU1BUWnZkbk5CM2ZwZmRJYjFjeC1kYmMtTnB5REppUXJQQnhRdXFWT0JRMDdpQzNuZTYxaUQ4YzJzRjhJNi1tNklBUlVOVUpubU1vdVQ1QTRXNnhPb2hxVk84WWd4T2NObG8tOWZTVVBOTnc0enM3QkthU2h0RmY3LTNCT3d6dE1qNkJLYXpKVFhqLWUyMlpSUXk0dzJLU2JKYmU1Qi1ZLWU0a9IBuAFBVV95cUxOYi1FTkwwQi1kUlpwRmRadGhEUUVBd3I0RVN1Q0FpbkRXRXZzeVRmdjlLazV3elp2aXNyWDlyYkdIZkpkRjBvNjNMdTl5d25pd1ZKZjVCRmladFhqYU40a2dBQ2hvZmJXX1BBLXJ6T2VjTTlhd0U4b09oUDJkMzdrb0lfWGlZMWxaUzA0SGFIckpCNkRfdzBGdGk5Q2t3U2lPZmdBVFdoUUxIV2FmZlFZOWtDNXExNTUz?oc=5)
+
+---
+
+### [Common asthma drug helps fight hard-to-treat cancers, including aggressive breast cancers, early study finds - Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
+
+2026-05-20
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
 
 ---
 
@@ -112,19 +128,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Ebola en RDC: une étude d'experts de l'OMS et de l'Imperial College estime le nombre de cas deux à cinq fois supérieur aux chiffres connus à ce jour](https://news.google.com/rss/articles/CBMihAJBVV95cUxPZHR2cERaMGhRRTU1NEtxSkVZaHRkQ2FBUEIzbG9ncF9CMWw0ckV2Y19IY3Q5QmRZelZ0amJtUXZ6eUJaRGtaZVBYbXQ4aC1xSFZmU0ttd204U1I3ZnZhZTVCa3R5MzkwQXRuY25rdlhwY25Zc2tWU0hRT0VxemJncHhuVVBPWDJybnlURlhGYUc5UFlVdE1vN2I3alFlUmJaVW04bUdTRFg2MVJ0SEdaa0hpWENQWW5GYlhDWlpNd29pTVBTQ2t0Z3hScFJQazlnTXpDUXR1MWhnTS1VcVV0VTVBdU1uZG5QVnVZNHFSZlJEMVFCYnk4NzZUSi0xS29WSXRraQ?oc=5)
-
-2026-05-20
-
-來源：[RFI](https://news.google.com/rss/articles/CBMihAJBVV95cUxPZHR2cERaMGhRRTU1NEtxSkVZaHRkQ2FBUEIzbG9ncF9CMWw0ckV2Y19IY3Q5QmRZelZ0amJtUXZ6eUJaRGtaZVBYbXQ4aC1xSFZmU0ttd204U1I3ZnZhZTVCa3R5MzkwQXRuY25rdlhwY25Zc2tWU0hRT0VxemJncHhuVVBPWDJybnlURlhGYUc5UFlVdE1vN2I3alFlUmJaVW04bUdTRFg2MVJ0SEdaa0hpWENQWW5GYlhDWlpNd29pTVBTQ2t0Z3hScFJQazlnTXpDUXR1MWhnTS1VcVV0VTVBdU1uZG5QVnVZNHFSZlJEMVFCYnk4NzZUSi0xS29WSXRraQ?oc=5)
-
----
-
 ### [Ebola, cos’è il virus Bundibugyo: come si trasmette e perché l’OMS ha dichiarato emergenza globale](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWFSSHAxZUpDVTFYaDRMRHpibG4yd0JvejRFWXBhLTZqX0lJR015MFlROTJjTWwzNEJVLU1IWmlyOHYyMHlUQWd1bHNqRTIwYXN0cmphemZTNTgyTVJERHhnNmhxX3pPNW9qREE5aXM5UDd1SEpuSWNNa09CcVVvX3pPbV9jTml3aGhFb2w2bjYyYWFIZ08yb0Y1SQ?oc=5)
 
 2026-05-20
 
 來源：[Geopop](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWFSSHAxZUpDVTFYaDRMRHpibG4yd0JvejRFWXBhLTZqX0lJR015MFlROTJjTWwzNEJVLU1IWmlyOHYyMHlUQWd1bHNqRTIwYXN0cmphemZTNTgyTVJERHhnNmhxX3pPNW9qREE5aXM5UDd1SEpuSWNNa09CcVVvX3pPbV9jTml3aGhFb2w2bjYyYWFIZ08yb0Y1SQ?oc=5)
+
+---
+
+### [Cuándo se debe comenzar a controlar la presión arterial, según expertos](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDNrdTRfLUIxY21mVlpBNEVNZWZEaUFXTXBJempFT3M2T3VpMmJKNTFLa1FzME5tX3hqWm9Yb0pNNEVpSjEtOWs1QmhpOXJheFVFSDZ3bkd5UzhoS21UTFBqNGRkUU4tRzdta0V3blRGcHdpbzU2dWN4MVRnUFNsYnZJSF90V1pLMng5SW9jSy1pOHFsXy1xOXF2TWROUjhabjNoOENpNTNfYTA2Qkdqd09R0gHMAUFVX3lxTFBOVnJ3c2s1Z084TmJobDczNTl2Z3VqbmxqQXBMb2RtTmNaQnVaZFVBOGotNWRlaElOVE5RR19Maks0ZkdOMDJiTUM3UDJ6R2tnT2tIZWdZTVZBWGU2QjRUMGZwY294cmVQNUdyYU1Rd2dqTk5Cci0wYWozUFctVmpaQlEyNTl3SHRBNTZVTGhYMjI2cmJCZ0F6X2tIZmE3NHNabzBhZUp2ci1tWnZkQWVxZk5UQkVFR0FWbm1XOWtfcXhwNFlvbjFLaWpiSA?oc=5)
+
+2026-05-20
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDNrdTRfLUIxY21mVlpBNEVNZWZEaUFXTXBJempFT3M2T3VpMmJKNTFLa1FzME5tX3hqWm9Yb0pNNEVpSjEtOWs1QmhpOXJheFVFSDZ3bkd5UzhoS21UTFBqNGRkUU4tRzdta0V3blRGcHdpbzU2dWN4MVRnUFNsYnZJSF90V1pLMng5SW9jSy1pOHFsXy1xOXF2TWROUjhabjNoOENpNTNfYTA2Qkdqd09R0gHMAUFVX3lxTFBOVnJ3c2s1Z084TmJobDczNTl2Z3VqbmxqQXBMb2RtTmNaQnVaZFVBOGotNWRlaElOVE5RR19Maks0ZkdOMDJiTUM3UDJ6R2tnT2tIZWdZTVZBWGU2QjRUMGZwY294cmVQNUdyYU1Rd2dqTk5Cci0wYWozUFctVmpaQlEyNTl3SHRBNTZVTGhYMjI2cmJCZ0F6X2tIZmE3NHNabzBhZUp2ci1tWnZkQWVxZk5UQkVFR0FWbm1XOWtfcXhwNFlvbjFLaWpiSA?oc=5)
 
 ---
 
@@ -136,14 +152,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Robotic surgery expansion hailed as ‘game-changer’ for patient care - STV News](https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0x5clI4UjBGR0J2UVpIWnBXc0cwTUQ1UDc5Q1dNOXVXbldZMERpckRQeS1iRDFXZ1B1UHd0dVpxT01KS0VhdDlxalNfWUg3aDRYVlltSlM2MDVpSXF1MF9lV1ZrSTliNDJLTFA2ejlaYTVBX2RCU0h1cnN4dHZnREhtMEc3YWMta19oNlR3cXptMzdUX1FXQk81VVItU3phM0FHMm14c0Yyb1lsdFRwb1g5cUs4QmNPM2c?oc=5)
-
-2026-05-20
-
-來源：[STV News](https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0x5clI4UjBGR0J2UVpIWnBXc0cwTUQ1UDc5Q1dNOXVXbldZMERpckRQeS1iRDFXZ1B1UHd0dVpxT01KS0VhdDlxalNfWUg3aDRYVlltSlM2MDVpSXF1MF9lV1ZrSTliNDJLTFA2ejlaYTVBX2RCU0h1cnN4dHZnREhtMEc3YWMta19oNlR3cXptMzdUX1FXQk81VVItU3phM0FHMm14c0Yyb1lsdFRwb1g5cUs4QmNPM2c?oc=5)
-
----
-
 ### ['Adenomyosis may be invisible, its impact is not'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BdjJrTzZLel9ZZ3JEUmRxOEpsdzhkYjdmOVBhRU5kUlpoQ2dkSWpuVjYtZG45YkNXR0NLWm95aU1JdUNSOGh6LTJSXzR5WWRhZVhBb0NKTE1GSjRD?oc=5)
 
 2026-05-20
@@ -152,11 +160,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Online News: Neue Empfehlungen zur medikamentösen Therapie bei Kindern und Jugendlichen mit Adipositas - ernährungs umschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVlYQTN1d2tFRmlveUxVYUtTWWVIOTdVOHNqNnVzU0RvYTlkbWFZMkVIODFLZWc4WVFBX01tN3ZTakM2WkFGZ3J1OFdiSURqTm56OGZzOW1WZ1hLRHNCRkFrRjNiRzJnVmx6bnU1ak1tZmlaMHNoRVdweHM2TmVhMzVxdjA0NUVCSXhhUDctd21MY1pacHJvbW4xNWZnWkVLZkhHcFBjNkJzTVV0SmhRYUVtcmxYNDg4bWN0bE9oTGhTYmdMVXc?oc=5)
+### [How measles unleashed a wave of suffering in Bangladesh - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUlCdWRPZFVLWWxZRnJkVkRrOXRyRk5aUkpmVmdSc2U0N0NlX1RMMXMwQm92OWRmLUVnU2d5LVF0b1JlRUZPdVJFWWN0UmtkTHNzQkJjZ2xRdzVZcVc2YkZhNGU0MVZPQlN3RXdOX21UY3NYTzJMUzBsa1JLbDZNdTR4Y3NYVFpHOS1rb2JBTUdxdHpIUFR6b2dxYUx6VFlWS3U4UlZiVmtrZW0zN1pZT1VHMkprUEYxdHc?oc=5)
 
 2026-05-20
 
-來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVlYQTN1d2tFRmlveUxVYUtTWWVIOTdVOHNqNnVzU0RvYTlkbWFZMkVIODFLZWc4WVFBX01tN3ZTakM2WkFGZ3J1OFdiSURqTm56OGZzOW1WZ1hLRHNCRkFrRjNiRzJnVmx6bnU1ak1tZmlaMHNoRVdweHM2TmVhMzVxdjA0NUVCSXhhUDctd21MY1pacHJvbW4xNWZnWkVLZkhHcFBjNkJzTVV0SmhRYUVtcmxYNDg4bWN0bE9oTGhTYmdMVXc?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUlCdWRPZFVLWWxZRnJkVkRrOXRyRk5aUkpmVmdSc2U0N0NlX1RMMXMwQm92OWRmLUVnU2d5LVF0b1JlRUZPdVJFWWN0UmtkTHNzQkJjZ2xRdzVZcVc2YkZhNGU0MVZPQlN3RXdOX21UY3NYTzJMUzBsa1JLbDZNdTR4Y3NYVFpHOS1rb2JBTUdxdHpIUFR6b2dxYUx6VFlWS3U4UlZiVmtrZW0zN1pZT1VHMkprUEYxdHc?oc=5)
+
+---
+
+### [Face Perimenopause with Hope - The Gospel Coalition](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OemNfclh4V0dtcUpzS2Vqd3Y5UjJWZUV3OUZFT2k2ak9zUVcwYldYUHY2b0x4ZE5zSzNpSHphMktJYklJd3hjSm9IT0R2SFVMelcxU0k0MWFrS3BRVmZSY1dhQm1LYWF0UzdSVjBVYV9kMFBLTkE?oc=5)
+
+2026-05-20
+
+來源：[The Gospel Coalition](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OemNfclh4V0dtcUpzS2Vqd3Y5UjJWZUV3OUZFT2k2ak9zUVcwYldYUHY2b0x4ZE5zSzNpSHphMktJYklJd3hjSm9IT0R2SFVMelcxU0k0MWFrS3BRVmZSY1dhQm1LYWF0UzdSVjBVYV9kMFBLTkE?oc=5)
+
+---
+
+### ['I had no fears about robotic surgery after my cancer diagnosis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
+
+2026-05-19
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
 
 ---
 
@@ -168,11 +192,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Meningitis case confirmed at West Berkshire school - Newbury Today](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUJ3dXByNG05NXZQVzdTTzNwNDV3NzhhY3c1dUM4YTlzXzNqNWJmbnlVNm05VzdJOERNeWE2MG92M19aS25TSnRUdDlqY2JzY1lEaGJyMFhGbVFGV1FQNGNDbXRLajZQNjVnSy1GRnFEVlc1V0p0dTZvRV95N1V5d0dIVHdIWmJuYmQ1Wi1RbldWNTRVVDRHOC1GSQ?oc=5)
+### [Fourth meningitis outbreak case confirmed in Reading junior school pupil - Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZvdk5wLW91ekMwNGFKS0VEbFQzZUludUdtNF9rQlJBWkdfN1hIUDlSZDFwRUh6Zm5TaWpsSmRjbnVpbUZFZnRIazl0cXB6SHBZeTh5VDJFWmY4d3ZVYy1acHJfSXFhQjRFQVBHS0lwbkxyWktpR1Q0V01rTVU5RUJBSEhtMjhfNGt3LTFTa3Zyc0xXN3NFUWdFZ2MtX0xWcEo5R2V4bVpQSXdW?oc=5)
 
 2026-05-19
 
-來源：[Newbury Today](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUJ3dXByNG05NXZQVzdTTzNwNDV3NzhhY3c1dUM4YTlzXzNqNWJmbnlVNm05VzdJOERNeWE2MG92M19aS25TSnRUdDlqY2JzY1lEaGJyMFhGbVFGV1FQNGNDbXRLajZQNjVnSy1GRnFEVlc1V0p0dTZvRV95N1V5d0dIVHdIWmJuYmQ1Wi1RbldWNTRVVDRHOC1GSQ?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZvdk5wLW91ekMwNGFKS0VEbFQzZUludUdtNF9rQlJBWkdfN1hIUDlSZDFwRUh6Zm5TaWpsSmRjbnVpbUZFZnRIazl0cXB6SHBZeTh5VDJFWmY4d3ZVYy1acHJfSXFhQjRFQVBHS0lwbkxyWktpR1Q0V01rTVU5RUJBSEhtMjhfNGt3LTFTa3Zyc0xXN3NFUWdFZ2MtX0xWcEo5R2V4bVpQSXdW?oc=5)
 
 ---
 
