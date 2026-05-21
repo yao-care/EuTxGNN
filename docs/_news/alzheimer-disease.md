@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### ['Dementia reading group makes my life easier'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTR0IwMnBOWWJZQXhuMnkyY1h1MnBQVGVpQTZHQnZId01xTWtvMmVCWjJiM3U3OWplV0VERzhrcmF6NGV3R1VlOWxJN3BoUmNRUTVWRkk3S2NoYWJE?oc=5)
 
 2026-05-20
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTR0IwMnBOWWJZQXhuMnkyY1h1MnBQVGVpQTZHQnZId01xTWtvMmVCWjJiM3U3OWplV0VERzhrcmF6NGV3R1VlOWxJN3BoUmNRUTVWRkk3S2NoYWJE?oc=5)
-
----
-
-### [The surprising habits linked to dementia - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0FZb3hhWDNRWDkySGxQaGVNZm8wdkFPT21lZVlVSHRBdW5LZVRtdV9CbU9vLTB2N2J3UTBmYmJxWlBLMFJ4N0pmVlNlZDZNXzV6VzIxSXhLbWphLXZYc1FfRnJFZnpYalVxWXVHVEJGVDhSZk9ta0hudTVyd3FrYTI2SUJkRXdIcW1zSU00azh4Qi1meVUwMEFJbHcwb2ZENGY4SGJpZw?oc=5)
-
-2026-05-19
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0FZb3hhWDNRWDkySGxQaGVNZm8wdkFPT21lZVlVSHRBdW5LZVRtdV9CbU9vLTB2N2J3UTBmYmJxWlBLMFJ4N0pmVlNlZDZNXzV6VzIxSXhLbWphLXZYc1FfRnJFZnpYalVxWXVHVEJGVDhSZk9ta0hudTVyd3FrYTI2SUJkRXdIcW1zSU00azh4Qi1meVUwMEFJbHcwb2ZENGY4SGJpZw?oc=5)
 
 ---
 

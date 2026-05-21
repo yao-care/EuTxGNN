@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（15 則）
 
-### [Hospitales del epicentro del ébola en RDC están "repletos"](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlVxS2loTG1CeTFMTkVhLXNydHZYN281dlJjUlhDSTRETWVvTWxGX1psY1pBM0FZZ2dISGRtQzVyRV9XNkItRjZzTlk2eUtuM0M4WEd3Yi00aUQtVHhwQ2lQamFqajhHQmd6U2pwUk5JUUw5S1dCT0hzdWtEQVNHSV9lVHhkOFFrMi0wMHJXMTgzbXFlRkhUZXV1OE1YSEdi0gGgAUFVX3lxTFBEV3FkNEU3T1Q0NDJ1WGtVekhvbWZ4b01KR2tHM1lCeVNpeXg5ZG5CRmlvSUtoOGt6OFhRMm5jZ1pMVFBVRG9yZk92V1JaRlpRckFLWEtEaXlTTXRfYVlhem5kUW1XdDZ2clV5aU5LVDBsRU5TQjdKYTZ4UWkySHRxb3BJcXVCNE9IRUhGZmJCNmhmNzRuY004MVNidTMzbkc?oc=5)
+### [La OMS mantiene la alerta internacional por el brote de ébola tras extenderse a dos países](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1hSb3I2RzBpQjc2SFNpQmdwb0NpVmpwOWg0OXVaTFJWMU9OWmJDSy1PZUdTV2xSYWdUeVpuS3Q0ODV1X2pLdlV4VVNUbnVrYlRTZ0VwUlYtam5JSGxaRkJESWVQcmswRnJLWFhRRFByR3VFUmpqalRDSzAzMllZbExSVWVUZU5KejJ3WEtOYTlERWRCckJKbGl2R0lGQlUxRzFN0gGoAUFVX3lxTE5ZeXBUVHRxaE1VdWVYMWd4LWt6TlQyYkV0SUFrRllKZ09mWHg4WVpndHVpSHcyTjJWT0VNc05uazlqLXpIcXprMUVJVm05QVUzV1BDaUNEQ1N5VjAtNmVWeFNhd0tmMnYyRklUOTBGT3hHT2xqRDBYREtTdl9fMVNlak9tM3dNVl9iaUR0X0RUUnlaQ2tCZUV1SzdMc0Q1eXJLcWpSenlxVw?oc=5)
 
 2026-05-21 <span class="news-indication-tag">MS</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlVxS2loTG1CeTFMTkVhLXNydHZYN281dlJjUlhDSTRETWVvTWxGX1psY1pBM0FZZ2dISGRtQzVyRV9XNkItRjZzTlk2eUtuM0M4WEd3Yi00aUQtVHhwQ2lQamFqajhHQmd6U2pwUk5JUUw5S1dCT0hzdWtEQVNHSV9lVHhkOFFrMi0wMHJXMTgzbXFlRkhUZXV1OE1YSEdi0gGgAUFVX3lxTFBEV3FkNEU3T1Q0NDJ1WGtVekhvbWZ4b01KR2tHM1lCeVNpeXg5ZG5CRmlvSUtoOGt6OFhRMm5jZ1pMVFBVRG9yZk92V1JaRlpRckFLWEtEaXlTTXRfYVlhem5kUW1XdDZ2clV5aU5LVDBsRU5TQjdKYTZ4UWkySHRxb3BJcXVCNE9IRUhGZmJCNmhmNzRuY004MVNidTMzbkc?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1hSb3I2RzBpQjc2SFNpQmdwb0NpVmpwOWg0OXVaTFJWMU9OWmJDSy1PZUdTV2xSYWdUeVpuS3Q0ODV1X2pLdlV4VVNUbnVrYlRTZ0VwUlYtam5JSGxaRkJESWVQcmswRnJLWFhRRFByR3VFUmpqalRDSzAzMllZbExSVWVUZU5KejJ3WEtOYTlERWRCckJKbGl2R0lGQlUxRzFN0gGoAUFVX3lxTE5ZeXBUVHRxaE1VdWVYMWd4LWt6TlQyYkV0SUFrRllKZ09mWHg4WVpndHVpSHcyTjJWT0VNc05uazlqLXpIcXprMUVJVm05QVUzV1BDaUNEQ1N5VjAtNmVWeFNhd0tmMnYyRklUOTBGT3hHT2xqRDBYREtTdl9fMVNlak9tM3dNVl9iaUR0X0RUUnlaQ2tCZUV1SzdMc0Q1eXJLcWpSenlxVw?oc=5)
+
+---
+
+### [Sabato 23 e Domenica 24 Maggio: sole o pioggia? Profumo di erbe aromatiche e solidarietà in piazza con AISM](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUHJHdUh0ZUlubjBzTFhvTnpndG9oMm9VZTdCNlpTa0lhRi1fWURNMFF4WXBOVjBEX2xQUUdqOGVFazNrcFRkdGRjeFE4TURYM2xXeEdSVWRVb0RwWGI4T25ESWtyUkQyMDNEU3FHTFpZcVFtalVpYUt1OFBaOXlUcldOSk10TmxCdzNPTWZIREliUkdqOER0bGVnUlg2dlhSRUdxNmNoWm5FT1hXT1dyd0pKZ1diUldqZUNtNzFaSGh3LUxHZnVCSjh4MUxWd2hCTEU5UHI3bFpfUQ?oc=5)
+
+2026-05-21 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[iLMeteo.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUHJHdUh0ZUlubjBzTFhvTnpndG9oMm9VZTdCNlpTa0lhRi1fWURNMFF4WXBOVjBEX2xQUUdqOGVFazNrcFRkdGRjeFE4TURYM2xXeEdSVWRVb0RwWGI4T25ESWtyUkQyMDNEU3FHTFpZcVFtalVpYUt1OFBaOXlUcldOSk10TmxCdzNPTWZIREliUkdqOER0bGVnUlg2dlhSRUdxNmNoWm5FT1hXT1dyd0pKZ1diUldqZUNtNzFaSGh3LUxHZnVCSjh4MUxWd2hCTEU5UHI3bFpfUQ?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Luppi (Msd): "Holobox strumento di prevenzione innovativo contro Hpv-correlati" - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHBHRnlJa3ZNZDFSU1BMbmFyOXRUZUJvbTRqdzQyRXgyNFAyY2F2OEs1YmtRUThUR01kYXJVbnU5NXNrWkFSUjhzRVl2X2RjYU41bmRwTU5wWURiZjVlb1QzVE1zY1N1T19Za2VsdVp3MldIeU40ZGk0bDZDUkg2UV9nd0RZUHlSMXoyS1E0MlRNOEVFR0lBQTNyR2FEemJlcDFlR0RqNEMxamsxei1lTGhzVWRuUTdDWnZJTnd1Q1FRT1lhb2doeFMwZGZmUnZockM5V1hWM1lLUWxIeWw4?oc=5)
-
-2026-05-20 <span class="news-indication-tag">MS</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbHBHRnlJa3ZNZDFSU1BMbmFyOXRUZUJvbTRqdzQyRXgyNFAyY2F2OEs1YmtRUThUR01kYXJVbnU5NXNrWkFSUjhzRVl2X2RjYU41bmRwTU5wWURiZjVlb1QzVE1zY1N1T19Za2VsdVp3MldIeU40ZGk0bDZDUkg2UV9nd0RZUHlSMXoyS1E0MlRNOEVFR0lBQTNyR2FEemJlcDFlR0RqNEMxamsxei1lTGhzVWRuUTdDWnZJTnd1Q1FRT1lhb2doeFMwZGZmUnZockM5V1hWM1lLUWxIeWw4?oc=5)
-
----
-
-### [The expert’s guide to vitamin B12 deficiency - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDc4WXFKNFVyanRVcnV3dERzOHgxbUZ2dF9qS200eG1FdWJuT0VjUHhrY1dhbmFkRXlidlAwcnpwM0k5UWxyTEZhSUdULWswZUtrVFA5NnE2U2NtQ2RqSkVwenB5Zlhpc2pUaFBPQnc5d0FLdlEzTXdZQWhMa29qd3NXN0k3QV9ZNjFzcFVIVzV2bms?oc=5)
+### [Study finds cancer-causing viruses emerging from wastewater](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
 
 2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDc4WXFKNFVyanRVcnV3dERzOHgxbUZ2dF9qS200eG1FdWJuT0VjUHhrY1dhbmFkRXlidlAwcnpwM0k5UWxyTEZhSUdULWswZUtrVFA5NnE2U2NtQ2RqSkVwenB5Zlhpc2pUaFBPQnc5d0FLdlEzTXdZQWhMa29qd3NXN0k3QV9ZNjFzcFVIVzV2bms?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
+
+---
+
+### [Residents linked to Hantavirus outbreak in Wales - here's the latest update - South Wales Argus](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEVrdHhmWnA0UjR5RmtldzIxdWk3djVwYzktUmd6UGY2OHNhazFlcmNmcGhsZ0pNb1RTS0Vud2RlbVBiTGlQY1BjY1ZvblJVQ2lEZG1JZVpuR0JOYmQwRzN3ZE1memxJUU81cXBHcFhoTHJIaTJxRzU3ZkR0SnM5Y2pDRDBZVDZ3YXdWanJoVVloT3owdXl2LUlR?oc=5)
+
+2026-05-20 <span class="news-indication-tag">MS</span>
+
+來源：[South Wales Argus](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEVrdHhmWnA0UjR5RmtldzIxdWk3djVwYzktUmd6UGY2OHNhazFlcmNmcGhsZ0pNb1RTS0Vud2RlbVBiTGlQY1BjY1ZvblJVQ2lEZG1JZVpuR0JOYmQwRzN3ZE1memxJUU81cXBHcFhoTHJIaTJxRzU3ZkR0SnM5Y2pDRDBZVDZ3YXdWanJoVVloT3owdXl2LUlR?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/teriflunomide/
 2026-05-20 <span class="news-indication-tag">MS</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVJpNDMydnRWQjZSdGc0QVBpRFFNTVpaNC1sRGs1QUp5QlgtbjNvSWNGVVREdFNKVW05dzNtbmlXdmxwRUJGRm5TLW9yS1p1d2dXeXI0cUJYMmlrNHpzam9Ydnd4di1vZGpTdE1HRW5ES2xGTEdFYnhkWjNlTjRYTWlYSWtEcjF1cWFVUTNXSnRXN19UcGVneDdCR0RjMjdrWDVvbnZYRmxtdWJCWU96Y1k3a0V1U21NUHo2dGtSTDlvMmVDWHRUckJvbHRoYUdlLUcxRjBzR0t3N1hPS2Jn?oc=5)
-
----
-
-### [Your Daily Rhythms May Help Slow Biological Aging, Study Suggests](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUjdmZzR3eVJISThQSTNDSHNVMDFuLUpsbDFMWnFOcnU4Z2ZTcWpfWHNWTl9WMTdXXzY3NW1KNll5ZkZVX3NpU2o3WmtLWE5TWHlkdFJ1TGtheWpXQXJjSVF0blNNZThJVF9KYWFTekIzbDZqUHhvWU13MER1YXN5VVZyeG5FOWhOUEJNWEFlczZlTkhRZF9Lbg?oc=5)
-
-2026-05-20 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUjdmZzR3eVJISThQSTNDSHNVMDFuLUpsbDFMWnFOcnU4Z2ZTcWpfWHNWTl9WMTdXXzY3NW1KNll5ZkZVX3NpU2o3WmtLWE5TWHlkdFJ1TGtheWpXQXJjSVF0blNNZThJVF9KYWFTekIzbDZqUHhvWU13MER1YXN5VVZyeG5FOWhOUEJNWEFlczZlTkhRZF9Lbg?oc=5)
 
 ---
 
@@ -118,6 +118,14 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Ebola, cos’è il virus Bundibugyo: come si trasmette e perché l’OMS ha dichiarato emergenza globale](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWFSSHAxZUpDVTFYaDRMRHpibG4yd0JvejRFWXBhLTZqX0lJR015MFlROTJjTWwzNEJVLU1IWmlyOHYyMHlUQWd1bHNqRTIwYXN0cmphemZTNTgyTVJERHhnNmhxX3pPNW9qREE5aXM5UDd1SEpuSWNNa09CcVVvX3pPbV9jTml3aGhFb2w2bjYyYWFIZ08yb0Y1SQ?oc=5)
+
+2026-05-20 <span class="news-indication-tag">MS</span>
+
+來源：[Geopop](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWFSSHAxZUpDVTFYaDRMRHpibG4yd0JvejRFWXBhLTZqX0lJR015MFlROTJjTWwzNEJVLU1IWmlyOHYyMHlUQWd1bHNqRTIwYXN0cmphemZTNTgyTVJERHhnNmhxX3pPNW9qREE5aXM5UDd1SEpuSWNNa09CcVVvX3pPbV9jTml3aGhFb2w2bjYyYWFIZ08yb0Y1SQ?oc=5)
+
+---
+
 ### [The 5 towns with the worst bowel cancer rates revealed - as Dame Deborah's legacy aims to boost early diagnosis - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTm5aWF8yZzZxc1hEbDA5OVFseEg5OU9zR2NkOHoxU1lkc1E2MUp1cjIxZ2UwMnlKYmNIQWFfcDJ1NWxpTXhqR2R1VmNNcEpZekdQME4wZGdXMURwZzdJamxOLXAwZFZTNVZabDlBS0xhUWlEa3VrOExRcE82V0lpWUFjYXZqX2ROQ1VFUmpjNTMxWHY0ejItV1NB?oc=5)
 
 2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -126,11 +134,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Ebola in Congo: "Fermare subito l'epidemia", parla Pregliasco - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinAJBVV95cUxPTWNwdkhCZnBRTXlLWWhIOUJaV0RNamRTbDV2cVZUREhhYVhwMENUX0JRMTFoclZZNko2aHQzLVBfUWdaRnc4eTRKdEtEVXJHZTJyNFNkSmFUWWJzMlJxVV91dS1RcVgyNEgwcEt3aGtwWVgwUGl3V0p0OF9hZ1FTb3hvZHB4ZVFFZjdGZWpISWtYLXhSZGpLUjBKR0p2Z2tqRnVZUGtXampnNmhIRGpILVV2SjFieW5XX1NReWJUUE0ybE8ybGNJQWozSm1YU0loNWhudkNrNVlrckFRdmZMVnZmeHdEd2xQbHBtYk1NTTRLR19xMGc4YmpQc2s2ZEN3OHdWX19ycXd0LUZJLWs5RXNYai0tSEwwX3BXUg?oc=5)
+### [Robotic surgery expansion hailed as ‘game-changer’ for patient care - STV News](https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0x5clI4UjBGR0J2UVpIWnBXc0cwTUQ1UDc5Q1dNOXVXbldZMERpckRQeS1iRDFXZ1B1UHd0dVpxT01KS0VhdDlxalNfWUg3aDRYVlltSlM2MDVpSXF1MF9lV1ZrSTliNDJLTFA2ejlaYTVBX2RCU0h1cnN4dHZnREhtMEc3YWMta19oNlR3cXptMzdUX1FXQk81VVItU3phM0FHMm14c0Yyb1lsdFRwb1g5cUs4QmNPM2c?oc=5)
 
-2026-05-20 <span class="news-indication-tag">MS</span>
+2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMinAJBVV95cUxPTWNwdkhCZnBRTXlLWWhIOUJaV0RNamRTbDV2cVZUREhhYVhwMENUX0JRMTFoclZZNko2aHQzLVBfUWdaRnc4eTRKdEtEVXJHZTJyNFNkSmFUWWJzMlJxVV91dS1RcVgyNEgwcEt3aGtwWVgwUGl3V0p0OF9hZ1FTb3hvZHB4ZVFFZjdGZWpISWtYLXhSZGpLUjBKR0p2Z2tqRnVZUGtXampnNmhIRGpILVV2SjFieW5XX1NReWJUUE0ybE8ybGNJQWozSm1YU0loNWhudkNrNVlrckFRdmZMVnZmeHdEd2xQbHBtYk1NTTRLR19xMGc4YmpQc2s2ZEN3OHdWX19ycXd0LUZJLWs5RXNYai0tSEwwX3BXUg?oc=5)
+來源：[STV News](https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0x5clI4UjBGR0J2UVpIWnBXc0cwTUQ1UDc5Q1dNOXVXbldZMERpckRQeS1iRDFXZ1B1UHd0dVpxT01KS0VhdDlxalNfWUg3aDRYVlltSlM2MDVpSXF1MF9lV1ZrSTliNDJLTFA2ejlaYTVBX2RCU0h1cnN4dHZnREhtMEc3YWMta19oNlR3cXptMzdUX1FXQk81VVItU3phM0FHMm14c0Yyb1lsdFRwb1g5cUs4QmNPM2c?oc=5)
 
 ---
 
@@ -150,14 +158,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### ['I had no fears about robotic surgery after my cancer diagnosis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcFhHRlJxR3pOQnVYM0hQMXVaeVl2NEVHRUlKSDR0NU9URzlBWTIyeHpTWlJhQ3RRRFJRNGJaY1YtSEFGQllWRkpUNXQwaE5ZaGRlSW5rMFE2akFz?oc=5)
-
----
-
 ### [Medikamente im Alter: Diese Wirkstoffe senken das Demenzrisiko – und welche erhöhen es - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXVxSnNNSm8zWkxTM1JCYW9WdnlYTm9XYjBKd1JDSk1FWTN4aFpPUGR6ZnRheEI4TmtsdUt0TkRWb3lYX3RUdTd1dUpGazI5ejRHZ1F5bUp0UUI0bElfbk9Pbnd2LVJYTUxjUGUzTlV4UDdsSXh3eWIwaEI0ZmhZTDJYa0NuUVRGM2Vudm4wc2hic1JQUmtjNWFfb3NBZXRKeGpueXd4QlZ5bWFnMDk1ZHRxaWs?oc=5)
 
 2026-05-19 <span class="news-indication-tag">MS</span>
@@ -166,27 +166,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Fourth meningitis outbreak case confirmed in Reading junior school pupil - Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZvdk5wLW91ekMwNGFKS0VEbFQzZUludUdtNF9rQlJBWkdfN1hIUDlSZDFwRUh6Zm5TaWpsSmRjbnVpbUZFZnRIazl0cXB6SHBZeTh5VDJFWmY4d3ZVYy1acHJfSXFhQjRFQVBHS0lwbkxyWktpR1Q0V01rTVU5RUJBSEhtMjhfNGt3LTFTa3Zyc0xXN3NFUWdFZ2MtX0xWcEo5R2V4bVpQSXdW?oc=5)
+### [Meningitis case confirmed at West Berkshire school - Newbury Today](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUJ3dXByNG05NXZQVzdTTzNwNDV3NzhhY3c1dUM4YTlzXzNqNWJmbnlVNm05VzdJOERNeWE2MG92M19aS25TSnRUdDlqY2JzY1lEaGJyMFhGbVFGV1FQNGNDbXRLajZQNjVnSy1GRnFEVlc1V0p0dTZvRV95N1V5d0dIVHdIWmJuYmQ1Wi1RbldWNTRVVDRHOC1GSQ?oc=5)
 
 2026-05-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkZvdk5wLW91ekMwNGFKS0VEbFQzZUludUdtNF9rQlJBWkdfN1hIUDlSZDFwRUh6Zm5TaWpsSmRjbnVpbUZFZnRIazl0cXB6SHBZeTh5VDJFWmY4d3ZVYy1acHJfSXFhQjRFQVBHS0lwbkxyWktpR1Q0V01rTVU5RUJBSEhtMjhfNGt3LTFTa3Zyc0xXN3NFUWdFZ2MtX0xWcEo5R2V4bVpQSXdW?oc=5)
-
----
-
-### ["La salida de EEUU y Argentina de la OMS es lamentable porque no se pueden resolver las pandemias a nivel individual" - Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYVBPSngzY29FUFJrdElkeVNkWHhoSTZTQkdmSUstbUc0Y0tyZnNPa3lkMm5ycFZTRDI4ZFVHNWRyT09qME9yVFJWZ2gwRzlJVlNuMFVsa2ZVRnU1S1dpc0MxTlhlVi1OLVNDaFFwSFJQZjE4S2paSmRLVHFueFhUYXdhU1lGNjZqWFN4U1ZfeTgxbGpfRFNVd1lNWEFXVVZzZERhWERGRW1CM2RMcUVQUWNUWkRwNDdVbXJZZ29VZ1liRXY4X3hPVWFFcXZPVkQtMDhRVjhiZEVRMktuUmdUNGc0MXlmaEdXc0MtRU5PT1UtTjZtYWVsWnlOS3lOUdIBkgJBVV95cUxQVzlXbUJOa0NXYVk3bTZKeXlNRk84NlRMcHdFdjZGdnlUNDdCSFBMTUVvVzA4RUVYSk5sdUsySllnMHNVR0cxUWpBMkRWUVM3ZVRnY2UwXzRxM0JfOHBtc2FhaTg4ekhHaTBvdU1md0w3NWtYbEI5dFNjdEhUdTcyQUt2Smg3Yi1wcmE2LTdvYWF6NEtnalNHVmc5OUplZmREWUxpUnl4YVRUZEVpa1JUXzJmcHg5SjJOYVlTWmZ5S3czeWtKRnkzcVdlaVVPcDRRU0FOT1UtNTRxT190d3BJc2Jsc3BjbVBvWFExTUZYSlFYNDZlNzFGeDlna0N3YXVuVC03TUpyNklHWGk4M0tCMG1R?oc=5)
-
-2026-05-19 <span class="news-indication-tag">MS</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYVBPSngzY29FUFJrdElkeVNkWHhoSTZTQkdmSUstbUc0Y0tyZnNPa3lkMm5ycFZTRDI4ZFVHNWRyT09qME9yVFJWZ2gwRzlJVlNuMFVsa2ZVRnU1S1dpc0MxTlhlVi1OLVNDaFFwSFJQZjE4S2paSmRLVHFueFhUYXdhU1lGNjZqWFN4U1ZfeTgxbGpfRFNVd1lNWEFXVVZzZERhWERGRW1CM2RMcUVQUWNUWkRwNDdVbXJZZ29VZ1liRXY4X3hPVWFFcXZPVkQtMDhRVjhiZEVRMktuUmdUNGc0MXlmaEdXc0MtRU5PT1UtTjZtYWVsWnlOS3lOUdIBkgJBVV95cUxQVzlXbUJOa0NXYVk3bTZKeXlNRk84NlRMcHdFdjZGdnlUNDdCSFBMTUVvVzA4RUVYSk5sdUsySllnMHNVR0cxUWpBMkRWUVM3ZVRnY2UwXzRxM0JfOHBtc2FhaTg4ekhHaTBvdU1md0w3NWtYbEI5dFNjdEhUdTcyQUt2Smg3Yi1wcmE2LTdvYWF6NEtnalNHVmc5OUplZmREWUxpUnl4YVRUZEVpa1JUXzJmcHg5SjJOYVlTWmZ5S3czeWtKRnkzcVdlaVVPcDRRU0FOT1UtNTRxT190d3BJc2Jsc3BjbVBvWFExTUZYSlFYNDZlNzFGeDlna0N3YXVuVC03TUpyNklHWGk4M0tCMG1R?oc=5)
-
----
-
-### [Pandemie, allarme Oms: "Mondo in bilico e più vulnerabile" - Sky TG24](https://news.google.com/rss/articles/CBMiaEFVX3lxTE14aGFnWXZoRXBwLUFNSXQ2V0EtZmJLdXdLb1RmOEgwNE4xVDNOcGsxdUFxNnBVWks5WmZKOXpkUElVM2RDS09jTkxCZ0xyb0Y2TFkyV1BKT2h5VDVIMFlNSk4wSUFjdGV0?oc=5)
-
-2026-05-19 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiaEFVX3lxTE14aGFnWXZoRXBwLUFNSXQ2V0EtZmJLdXdLb1RmOEgwNE4xVDNOcGsxdUFxNnBVWks5WmZKOXpkUElVM2RDS09jTkxCZ0xyb0Y2TFkyV1BKT2h5VDVIMFlNSk4wSUFjdGV0?oc=5)
+來源：[Newbury Today](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUJ3dXByNG05NXZQVzdTTzNwNDV3NzhhY3c1dUM4YTlzXzNqNWJmbnlVNm05VzdJOERNeWE2MG92M19aS25TSnRUdDlqY2JzY1lEaGJyMFhGbVFGV1FQNGNDbXRLajZQNjVnSy1GRnFEVlc1V0p0dTZvRV95N1V5d0dIVHdIWmJuYmQ1Wi1RbldWNTRVVDRHOC1GSQ?oc=5)
 
 ---
 

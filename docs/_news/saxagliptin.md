@@ -54,6 +54,22 @@ permalink: /news/saxagliptin/
 
 ## 相關新聞（7 則）
 
+### [„Herzenssache Lebenszeit“: Aufklärung kann Leben retten – der rote Bus macht Halt am RHÖN-Klinikum Frankfurt (Oder) - RHÖN-KLINIKUM AG](https://news.google.com/rss/articles/CBMikwJBVV95cUxNRnI2OVRpV2NxekhHY1JjbzlOV0N2RTBEYlh4OXI2YXBhd0hlbkNsb2dqMUJwN1VqQ1J2RHJnWkU4RFdZaUwyd3d3ZXpWNnpJZDA3eFY4RUNwaFM5OTFRd2Z4NlNQTi0ycFN3V2pib0ZhZE44RWpldjF1bU5LRXFlMlIzSy1sYktaRWhZNy1FVHpxTkNYLVE2MXZpcWY2dUQ5d1JuTmdpNTBHbUxPeDZVUEVmdUdzWTNlWXZOOE84NzZEd0FhQm96QThpakpGa19lSHFxMC1iZTQxa21IaGgweldtdTlvemlqaHh3ekJLWHA5T19HSzNWMThJaWtsZ1g3SXk0Nnc0TjdsczluR3pXTDZIaw?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[RHÖN-KLINIKUM AG](https://news.google.com/rss/articles/CBMikwJBVV95cUxNRnI2OVRpV2NxekhHY1JjbzlOV0N2RTBEYlh4OXI2YXBhd0hlbkNsb2dqMUJwN1VqQ1J2RHJnWkU4RFdZaUwyd3d3ZXpWNnpJZDA3eFY4RUNwaFM5OTFRd2Z4NlNQTi0ycFN3V2pib0ZhZE44RWpldjF1bU5LRXFlMlIzSy1sYktaRWhZNy1FVHpxTkNYLVE2MXZpcWY2dUQ5d1JuTmdpNTBHbUxPeDZVUEVmdUdzWTNlWXZOOE84NzZEd0FhQm96QThpakpGa19lSHFxMC1iZTQxa21IaGgweldtdTlvemlqaHh3ekJLWHA5T19HSzNWMThJaWtsZ1g3SXk0Nnc0TjdsczluR3pXTDZIaw?oc=5)
+
+---
+
+### [Une forte exposition aux colorants alimentaires liée à un risque accru de diabète de type 2 et de cancers - Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxPVjgyY0hVaXFxaWF5NWxVMTlpV2VkSUpGN3ZMck5rMDBuWWlfcGFLNlNmUjczelpCYWdreGZsQlBWcUxjanhuZXJMTGJkd0VHNUFYcUEtVEY1VFV5aDl3SU96SFZrS3hfYVVHT2hrUWNvUWt2ejR1YzZkcmFTbUdBSWc3b1d0MS1GVEZDd2tha2MxWGV3a2RXLTlaeFJBQ2lPQl94NW5IMkZZcm5zT2U0OFpsRHZFUWlWTG85S0RTTnl3cmt0aG1KbmxJMWhHakVuSzlDSDJMWkVUWnoybmxjai0wNGlxUXRqRFZOdEtLQy1tUG1IMzg0QXhELWlNR2VzTHZR?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMigwJBVV95cUxPVjgyY0hVaXFxaWF5NWxVMTlpV2VkSUpGN3ZMck5rMDBuWWlfcGFLNlNmUjczelpCYWdreGZsQlBWcUxjanhuZXJMTGJkd0VHNUFYcUEtVEY1VFV5aDl3SU96SFZrS3hfYVVHT2hrUWNvUWt2ejR1YzZkcmFTbUdBSWc3b1d0MS1GVEZDd2tha2MxWGV3a2RXLTlaeFJBQ2lPQl94NW5IMkZZcm5zT2U0OFpsRHZFUWlWTG85S0RTTnl3cmt0aG1KbmxJMWhHakVuSzlDSDJMWkVUWnoybmxjai0wNGlxUXRqRFZOdEtLQy1tUG1IMzg0QXhELWlNR2VzTHZR?oc=5)
+
+---
+
 ### [Mechanismus für pathologische Gefäßneubildung entdeckt - mgo medizin](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzFGZVNqcDNWQlQwN2dKSFpaZHVfejBvcTcyVmFwelBCeXlnSkRVcEJUd3ZNRDRUNUw4aWNYVVhNU3oxRS1OZ2dGRW5UTGhLZUFlNW5EaWdUZm4tVjZXWWNRWUJkaUV1UzJSUTNOY2phdWZuX1c3eDd4aUZVaGFtaHV1MzZBd1RQZ3pGdTFlUWwtZG5YekpCZTFNRHJsNVNSR0lxUE5YV1B5Y2IwTkRVSmtGWnBLZmtNdW03Mw?oc=5)
 
 2026-05-20 <span class="news-indication-tag">diabetes</span>
@@ -62,19 +78,11 @@ permalink: /news/saxagliptin/
 
 ---
 
-### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
-
-2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXl1T2VVNDA1RTBqVmlVNTJQbVZNay1CZGdGN05LVmVDM0tHTEt3bTNSbkJUQmpOdDJTS010QzNjNVlNNC1VMlNLc3kzTGlsQ01MOEZTb2hTdndheWxhWGN4RFlvak0wRnJRXzl5ZUd6M0IyeGlJQUNOcFRsaVZsR1RMN2hjY2dDZnJpU3pTblJEc1p5SlF3YnAzVl8?oc=5)
-
----
-
-### [Diabetes verzögern oder verhindern: Prädiabetes-Remission als neues Therapieziel?](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pMWkRPSEdDbUp2TFdGYUxialNJV1MxekZDakRkbDFsQnBiejcwMGlTUEhmR0RLdlpDdDJjb0tRSG9keWhqUVA5X0hDWFhyVThVaDhNbE9XLVpMa0I3eHFycnUtQm5mcU5QWWJxMk5YSDRlVGhMSEd5RkF5OFQ3RGdlejdBTlBhd013U0tmX0d6TGVpaU1JcFdNUXFlTEJ1SjlZLWVPellCeldzNGJKbndUYzl6ejhPdjJvdHRtYTIwbU1ldE0ycnVoLXM?oc=5)
+### [Typ-2-Diabetes: Stark in die Therapie starten, langfristig profitieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
 
 2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pMWkRPSEdDbUp2TFdGYUxialNJV1MxekZDakRkbDFsQnBiejcwMGlTUEhmR0RLdlpDdDJjb0tRSG9keWhqUVA5X0hDWFhyVThVaDhNbE9XLVpMa0I3eHFycnUtQm5mcU5QWWJxMk5YSDRlVGhMSEd5RkF5OFQ3RGdlejdBTlBhd013U0tmX0d6TGVpaU1JcFdNUXFlTEJ1SjlZLWVPellCeldzNGJKbndUYzl6ejhPdjJvdHRtYTIwbU1ldE0ycnVoLXM?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
 
 ---
 
@@ -86,14 +94,6 @@ permalink: /news/saxagliptin/
 
 ---
 
-### [Tipps aus dem roten Bus: Wie sich Herzkrankheiten verhindern lassen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
-
-2026-05-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nordkurier](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa085bWxxalh3VUtYNi1ERkViVF83SlR0blVJYmEyc1FFMlA5NzdiallFbUw4ZVE4Z3kzNnFNY2lzaEdVdC12NFJwUG51eXIwakRoUE5LYzdCY0hDVFl5dk5NeEZrd3I4WC1YN3k3ai1JYXlOZGNJeC1IdFdGcHBUSmFkeS02WGtUbTNlNlhaMFluMkxiNGtUaEl5RWpCNTJPMFJWNFlLQUVEMFJXbER5WFVjZl94QnR6bFR3?oc=5)
-
----
-
 ### [Diabetes-Kids Virtuell: Webinar mit mylife Diabetes Care zum mylife Loop mit dem Dexcom G7](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkxiUExWd2RzUTFmUHNBQnIyWWhKbXdsZU9kNVBSTU5XNUlyaURBOUU5SUIwRXdRR1o0QWtQbXBNbmJhb3lDQmJpcjdSeEVTdHkzSFFkckl1TzVWelFQTlFtcGZaejgzU0VNMFJkcldQR2ROX0xISTFodE1nazBWZ2JlRFZ6SGNRNGV2SUNZbGJfaDZGSTIwRnRiMEZKdmtrYUJ4SUhKdWp0bGFIWWZwYmhySmVVNmRSRzY5OGg1dGpkbTlUWl81Slp3?oc=5)
 
 2026-05-19 <span class="news-indication-tag">diabetes</span>
@@ -102,11 +102,11 @@ permalink: /news/saxagliptin/
 
 ---
 
-### [Integratori GLP-1: funzionano davvero per dimagrire?](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0R6NkN2dXB6N2hsRGRNbjFzX3N2dlNiNzBlWlNuZlp2MWF2aFl0NXIxSHVJclBKZDNVbUdOWmpuMVRBSHV0T0N2Nm5WV2hIVi1Qa2p5RlJTaERJX0JrVFNIckk0Q1JFRlpMbUplMEdXcDNlaWFLUk1WZVQ3QlEyQk1jMGwyQkJGSmxFVjBwVGJxXzNSOFZr?oc=5)
+### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
 
-2026-05-19 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[www.altroconsumo.it](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0R6NkN2dXB6N2hsRGRNbjFzX3N2dlNiNzBlWlNuZlp2MWF2aFl0NXIxSHVJclBKZDNVbUdOWmpuMVRBSHV0T0N2Nm5WV2hIVi1Qa2p5RlJTaERJX0JrVFNIckk0Q1JFRlpMbUplMEdXcDNlaWFLUk1WZVQ3QlEyQk1jMGwyQkJGSmxFVjBwVGJxXzNSOFZr?oc=5)
+來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
 
 ---
 

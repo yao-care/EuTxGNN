@@ -14,7 +14,7 @@ permalink: /news/teprotumumab/
 ---
 
 <p class="key-answer" data-question="Teprotumumab 有什麼相關新聞？">
-<strong>Teprotumumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teprotumumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/teprotumumab/
 <p><a href="{{ '/drugs/teprotumumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [„Das ist eine Art medikamentöse Dekompression“ – Teprotumumab bei EO - mgo medizin](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWjQ1WWp6QWdFb2ZPb2I1N0phZzR4Um0ybXRWSDAyLXF6enFXSlJJN1FVTS1Wa3c0QkJNT2ZMbUt6b3hwVWVKQ3VJX1Byb1RHNVUyRHRkSFFSa296V2wwUC1vbTFOQV9Ea2ZKY1ZIZFNVLXhhRVRaY0hoeFNKNXdYLUxnSXFXNDU3SGl0azhUM3k2UzRfWkN0X2xINzAyQjdfNWhPM3pNMk1MUHNOVjQ4WjRza01Bd3lCSlFlbEJ0UlVFVmlZXzByZjhqVzdfNlVwNVE?oc=5)
+
+2026-05-21 <span class="news-drug-tag">Teprotumumab</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWjQ1WWp6QWdFb2ZPb2I1N0phZzR4Um0ybXRWSDAyLXF6enFXSlJJN1FVTS1Wa3c0QkJNT2ZMbUt6b3hwVWVKQ3VJX1Byb1RHNVUyRHRkSFFSa296V2wwUC1vbTFOQV9Ea2ZKY1ZIZFNVLXhhRVRaY0hoeFNKNXdYLUxnSXFXNDU3SGl0azhUM3k2UzRfWkN0X2xINzAyQjdfNWhPM3pNMk1MUHNOVjQ4WjRza01Bd3lCSlFlbEJ0UlVFVmlZXzByZjhqVzdfNlVwNVE?oc=5)
+
+---
 
 
 <div class="disclaimer">

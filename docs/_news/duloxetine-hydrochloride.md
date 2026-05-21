@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Depression: „Man geht zur Arbeit, funktioniert tagsüber“ - doch innerlich zerbricht man](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYjJGMzM2dmdpWlBrdk1yUTRYeVB4b2FZMmlEZ3U3bUFHVkU5LWNPQ1pTN0M0eHhFM3BGMFBrQkZIZ1RnNVB0WFdUQmlnR3JqTmhGVnVHQ3kxWWZNdE9XRE00OXRySjVsa3EyRTFIdWloSXBGVTBOWlkzbmdzN3RpRWYyY1BFSEJMSWkzcGF3WjZ2d1BZdzZ3NktWMlNiNmItNHFHZkZYVFdPelhMLU9NZWdoOERXenhWMnZHLWFkQTVlNlhaWE05MzJJaWJqdXF2akFhaXYtUW5zdGJ4bDZxaA?oc=5)
-
-2026-05-21 <span class="news-indication-tag">depression</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYjJGMzM2dmdpWlBrdk1yUTRYeVB4b2FZMmlEZ3U3bUFHVkU5LWNPQ1pTN0M0eHhFM3BGMFBrQkZIZ1RnNVB0WFdUQmlnR3JqTmhGVnVHQ3kxWWZNdE9XRE00OXRySjVsa3EyRTFIdWloSXBGVTBOWlkzbmdzN3RpRWYyY1BFSEJMSWkzcGF3WjZ2d1BZdzZ3NktWMlNiNmItNHFHZkZYVFdPelhMLU9NZWdoOERXenhWMnZHLWFkQTVlNlhaWE05MzJJaWJqdXF2akFhaXYtUW5zdGJ4bDZxaA?oc=5)
-
----
-
-### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 ---
 
