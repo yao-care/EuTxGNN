@@ -14,7 +14,7 @@ permalink: /news/tocilizumab/
 ---
 
 <p class="key-answer" data-question="Tocilizumab 有什麼相關新聞？">
-<strong>Tocilizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tocilizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tocilizumab/
 <p><a href="{{ '/drugs/tocilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+### [Arthritis drug ‘could help beat depression’ - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEFlV0kwQ1NlcXBqMXdNejJRRmNwWm4xSnBGVkRFWWR3Z2Q4cklFY0lPcWNlRzd5MVNDOEtUVmNiMmF2d1kxWVZ2VUNkd0N4Zm1pYlg1WlNZUFp1Vy04YTVTMktrTGZWNFREeGxuTjRQNkdQcVJobVNLZm9Xc01tTnl4cGRBeFR5ejJlc0xHcw?oc=5)
 
 2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
-
----
-
-### [These are the best knee braces for arthritis, according to orthopedic surgeons](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
-
-2026-05-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEFlV0kwQ1NlcXBqMXdNejJRRmNwWm4xSnBGVkRFWWR3Z2Q4cklFY0lPcWNlRzd5MVNDOEtUVmNiMmF2d1kxWVZ2VUNkd0N4Zm1pYlg1WlNZUFp1Vy04YTVTMktrTGZWNFREeGxuTjRQNkdQcVJobVNLZm9Xc01tTnl4cGRBeFR5ejJlc0xHcw?oc=5)
 
 ---
 
