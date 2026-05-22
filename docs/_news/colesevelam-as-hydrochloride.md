@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
-
-### [The numbers behind global mental health and its different disorders - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
-
-2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
-
----
+## 相關新聞（8 則）
 
 ### [The benefits—and dangers—of optimism - The Economist](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
 
@@ -80,7 +72,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabetes</span>
+2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
 

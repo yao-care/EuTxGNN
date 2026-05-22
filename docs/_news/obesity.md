@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Obesity is your fault - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1BkaF92cGFydVVnb2VTLWxCcUJWTmZYWjgzVVVCb3pDTHJUMk1ORnJFNkR0VkFPQkdkMTBOUnFXc0h6NEdnMkRvWnBWYnpJa3dfYkRyQkp0MC1oQkhKZlc1V25YXzA4NFVObTZlZEZmLURlXzI2OUdxbTVEeFBrMDVUZlVEQlp3aGlmdjV6STNsb2I5QkR3enNuTmpLa1UxSS1jaWNB?oc=5)
+
+2026-05-22
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1BkaF92cGFydVVnb2VTLWxCcUJWTmZYWjgzVVVCb3pDTHJUMk1ORnJFNkR0VkFPQkdkMTBOUnFXc0h6NEdnMkRvWnBWYnpJa3dfYkRyQkp0MC1oQkhKZlc1V25YXzA4NFVObTZlZEZmLURlXzI2OUdxbTVEeFBrMDVUZlVEQlp3aGlmdjV6STNsb2I5QkR3enNuTmpLa1UxSS1jaWNB?oc=5)
+
+---
 
 ### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmdlSTVzOGpQUS0xOF9BT21BM2VIV3ZNTzZNOFpGNm4yRW9FbFNGQ3ZyUXphZlltVnl2a2ZwLTZmZ0wwc1ZrbGI4cW02N3JnbEh4MDFDVnlkYzlrNUU5a3FRYWVTdnpCZlQzbXVVRW5MOXAtSHNBR1R2YWwzc0pUY1RKSkhMSWhDWlduZmRTNGdZcXpmR3NHOUFFNWdKUEI2RXY5QlpqZzhOZlR0NkRFQ09pZFVhM3RUX2JNNzNFSThBUQ?oc=5)
 

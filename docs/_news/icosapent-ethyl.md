@@ -54,14 +54,6 @@ permalink: /news/icosapent-ethyl/
 
 ## 相關新聞（4 則）
 
-### [The numbers behind global mental health and its different disorders - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
-
-2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
-
----
-
 ### [The benefits—and dangers—of optimism - The Economist](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
 
 2026-05-21 <span class="news-indication-tag">heart disease</span>
@@ -83,6 +75,14 @@ permalink: /news/icosapent-ethyl/
 2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+
+---
+
+### [These are the best knee braces for arthritis, according to orthopedic surgeons](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
+
+2026-05-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
 
 ---
 

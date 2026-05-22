@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# AVC（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
+<strong>AVC（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,13 +39,37 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
+
+### [« En France, il y a un AVC toutes les quatre minutes » : ce neurologue de Maine-et-Loire informe et sensibilise](https://news.google.com/rss/articles/CBMipgJBVV95cUxOeENvS3FXb2Q1dEY1UUVlcWFzcFpnSTdhemtYOWFyaDk0cHUzR21iZi1wZEN6T2hxTUNtUXg4aWlzc2phU192VW5SVzc5NnhGS2NjdkxULWtGNzBpX3U5a2diaTV6d3ctRlJkcW9NMnljRGZVbVBvRUc5bnJBVHcwTHNrRUFYV3pqaVFaX2RTOEZnTnZLb09PUExSZGpaUnVFNFc0b2IycFNQaVZ5dllTMFV5d3V1aUZ3SG9pYjZ0dlVMSl9uUldRTE54NTlvci0wYnBwZFMyYnZ2MWVBQ3ZUY0N4RUZmREctY2tZd29VcFo3ME5KdXNZRjJ4aVhmZE9BX1Uxa3J0ekYwTXhZajlOWGhHb2ctRDM1WUVvLUJyZ0w3OVZYNWc?oc=5)
+
+2026-05-21
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMipgJBVV95cUxOeENvS3FXb2Q1dEY1UUVlcWFzcFpnSTdhemtYOWFyaDk0cHUzR21iZi1wZEN6T2hxTUNtUXg4aWlzc2phU192VW5SVzc5NnhGS2NjdkxULWtGNzBpX3U5a2diaTV6d3ctRlJkcW9NMnljRGZVbVBvRUc5bnJBVHcwTHNrRUFYV3pqaVFaX2RTOEZnTnZLb09PUExSZGpaUnVFNFc0b2IycFNQaVZ5dllTMFV5d3V1aUZ3SG9pYjZ0dlVMSl9uUldRTE54NTlvci0wYnBwZFMyYnZ2MWVBQ3ZUY0N4RUZmREctY2tZd29VcFo3ME5KdXNZRjJ4aVhmZE9BX1Uxa3J0ekYwTXhZajlOWGhHb2ctRDM1WUVvLUJyZ0w3OVZYNWc?oc=5)
+
+---
+
+### [Tra le 8 e le 10 ore a settimana: la vera dose di movimento per abbattere il rischio infarto](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnBKRkgxUFlGdGFiTi1uQ2htSFhrWWtSeW9BbWZMb0NBZ0dONkVOVVd5YW9Ud0pOV20xVmJ1eFRVR1BfM0RyZWUyaF95Z3hpTEZtQW4wN2VvRVJCTGwtWFZiOXl2MXBNTmR1WlJOdERYaklQZnhSUHB2ekZYYmdXQkZLWjVZZUJycUE?oc=5)
+
+2026-05-21
+
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnBKRkgxUFlGdGFiTi1uQ2htSFhrWWtSeW9BbWZMb0NBZ0dONkVOVVd5YW9Ud0pOV20xVmJ1eFRVR1BfM0RyZWUyaF95Z3hpTEZtQW4wN2VvRVJCTGwtWFZiOXl2MXBNTmR1WlJOdERYaklQZnhSUHB2ekZYYmdXQkZLWjVZZUJycUE?oc=5)
+
+---
 
 ### [Neurologische Erkrankungen im Blick: Multiple Sklerose und Schlaganfall](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
 
 2026-05-20
 
 來源：[Taunus-Nachrichten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
+
+---
+
+### [Colesterolo, le fluttuazioni dei valori aumentano i rischi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
+
+2026-05-20
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Depression: Welche Persönlichkeitsstrukturen besonders gefährdet sind.](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbnVhOUxXSzF6WVBYRWdQeW52V2R6MWxwOUtKMWtZa09mczllOXFyZWJ2S0Vad0cwVWN4MVZLSHlmTFpqbHYxc2ZnY2c3blZaYnJiMmliY3pGMWI0d3NPRHdwZHlmYzJfZUVUY2xBakQ4bmZsSGlPUHBqRS05Y1gzeENFbmp6VGNGbklCRTIzc29lbzhBcVFsb3o5UTNxUEtOZ0Nzd2p3cEFFU3hxRlFmZUE4VTY0RUFoZExLenpTTHdmRmpTSV9hU1lqRURXMkE1?oc=5)
 
-2026-05-21 <span class="news-indication-tag">depression</span>
+2026-05-22 <span class="news-indication-tag">depression</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbnVhOUxXSzF6WVBYRWdQeW52V2R6MWxwOUtKMWtZa09mczllOXFyZWJ2S0Vad0cwVWN4MVZLSHlmTFpqbHYxc2ZnY2c3blZaYnJiMmliY3pGMWI0d3NPRHdwZHlmYzJfZUVUY2xBakQ4bmZsSGlPUHBqRS05Y1gzeENFbmp6VGNGbklCRTIzc29lbzhBcVFsb3o5UTNxUEtOZ0Nzd2p3cEFFU3hxRlFmZUE4VTY0RUFoZExLenpTTHdmRmpTSV9hU1lqRURXMkE1?oc=5)
+
+---
+
+### [Los casos de salud mental prácticamente se duplican en tres décadas](https://news.google.com/rss/articles/CBMixwFBVV95cUxQelBLcGg2QkdQNUE0UnZRMzNLYmg1a0xzam55TDJQNWN0aVVQT1JJN1FOQ2V0NW1kdmNOaDdmc0l1WFdrc0pEWUEzMVVNTmFPU04xOE1STlZXcW9MRno5YmNNMjNnOFQySl9IakRpY2thNDU1aHVfVDhlVzdLNHZuOHJZNm5rdVN2anNCMjJOQnRtdjFQVzlDVkdQQ3JGQUxRdHRVbHhUTmN3T1E2d0pQN3dmZmUwYWwzTERXVWRvdkQ0ZzNWN2sw?oc=5)
+
+2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMixwFBVV95cUxQelBLcGg2QkdQNUE0UnZRMzNLYmg1a0xzam55TDJQNWN0aVVQT1JJN1FOQ2V0NW1kdmNOaDdmc0l1WFdrc0pEWUEzMVVNTmFPU04xOE1STlZXcW9MRno5YmNNMjNnOFQySl9IakRpY2thNDU1aHVfVDhlVzdLNHZuOHJZNm5rdVN2anNCMjJOQnRtdjFQVzlDVkdQQ3JGQUxRdHRVbHhUTmN3T1E2d0pQN3dmZmUwYWwzTERXVWRvdkQ0ZzNWN2sw?oc=5)
+
+---
+
+### [KI verdoppelt Heilungschancen bei Depressionen - AD HOC NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0l1MzRXajNsODlrVkw4WUlIbVBxWG1sNjlyNnVVV1dXSWcyZ2s1LTBRcUJlZmRIaVRwMFlBbDhqVUh6V0x5NnY4eEZ5dHhRdkgwQ2dhX1VBTVZKRmFVakhXSTRTM1BrQUJjcmltbXduQVNfUUs1b1g3em16YzE2X0FjQnBxcVc4eThrSzRLeUYzalpQNkU4T3BWcw?oc=5)
+
+2026-05-22 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0l1MzRXajNsODlrVkw4WUlIbVBxWG1sNjlyNnVVV1dXSWcyZ2s1LTBRcUJlZmRIaVRwMFlBbDhqVUh6V0x5NnY4eEZ5dHhRdkgwQ2dhX1VBTVZKRmFVakhXSTRTM1BrQUJjcmltbXduQVNfUUs1b1g3em16YzE2X0FjQnBxcVc4eThrSzRLeUYzalpQNkU4T3BWcw?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/vortioxetine/
 2026-05-20 <span class="news-indication-tag">dépression</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZjNxczZxcUF6OGxCd294TGFiNl9sVWRxMU1zZ0pfTHBoWGIwVGhSRVpIckRKY1oyUFRmTEpRZWFWUzNPMk80ZmhkTmo1RnhwbWJwc2RWME15Y1MyVUxBTS13WVRrLXNXRHBNTVJWQ2hxZTVyUVdXQUZRcmpXT1lGcFlLVlpXaVlVODhFU21MNklWNU9iY284MzM2VjNYVTcxT3FuS09JajVSeEFMemlKSWIxTDJtY0theW1YMi10cjlKNFFpVHZSdWo2c3dFVTZaNFlpX1RWYjlDTmtXRE95emxVU083cm5JMFJpRHVPRWllUEZYRFhqbA?oc=5)
-
----
-
-### [Corea del Sur afirma haber creado unas lentillas que envían descargas eléctricas a través del ojo y mejoran el estado de ánimo - El Confidencial](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG5qM0phM0xvMmFvMWZtbWwzU2hBZ3dxNGtORHJlNFpJa0dONm9ZSzhEd0lYN2x6UXlxblBFc1ozNFV0YWhaNzhJRDBsUm44WklPWXQtOFpMVzBtcFdFQWx0cDN3RWw1U0xuUEU5RWxjNDdwS1pidV81Sldsa2M5dFJyS0NvUnNWd3IwRXJJNzh1aFNYeHlOaU5ZT1MxT2JRMkFhd2w3UG9oZw?oc=5)
-
-2026-05-20 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG5qM0phM0xvMmFvMWZtbWwzU2hBZ3dxNGtORHJlNFpJa0dONm9ZSzhEd0lYN2x6UXlxblBFc1ozNFV0YWhaNzhJRDBsUm44WklPWXQtOFpMVzBtcFdFQWx0cDN3RWw1U0xuUEU5RWxjNDdwS1pidV81Sldsa2M5dFJyS0NvUnNWd3IwRXJJNzh1aFNYeHlOaU5ZT1MxT2JRMkFhd2w3UG9oZw?oc=5)
 
 ---
 

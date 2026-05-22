@@ -3,7 +3,7 @@ layout: default
 title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,13 +101,21 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
 
 2026-05-20
 
 來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+
+---
+
+### [These are the best knee braces for arthritis, according to orthopedic surgeons](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
+
+2026-05-20
+
+來源：[CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
 
 ---
 

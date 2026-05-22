@@ -70,6 +70,14 @@ permalink: /news/varenicline/
 
 ---
 
+### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
+
+---
+
 ### [Les cas d'hypertension artérielle et crises cardiaques explosent et ces conservateurs alimentaires en sont responsables, selon une étude](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
 
 2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
@@ -83,14 +91,6 @@ permalink: /news/varenicline/
 2026-05-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
-
----
-
-### [À Chalon-sur-Saône, l’hôpital se mobilise face à une maladie qui touche un Français sur trois](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
-
-2026-05-20 <span class="news-indication-tag">hypertension</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
 
 ---
 

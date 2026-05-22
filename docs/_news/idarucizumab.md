@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Le monde appartient-il vraiment à ceux qui se lèvent tôt ? On a posé la question à une spécialiste du sommeil](https://news.google.com/rss/articles/CBMipAJBVV95cUxPMG84Wk0wR1hndGhZLTNrZFlQNUtXcVVpQ0htTnJXM0JPakxNampHa3I5bG5Ia1ZMZ0d1WGdnSVlzVUd2dm9FYzA2ODlkaDlOVEdlNDFNVVl5cWxZUkF6a2FCUTVQTjdsWnJfOXNldS1XQVIyRTlTSVVaOXplYzFOWmhkS0g4cVI2U0ZiUFdBeElLTEYyNGNxVEFONE5hX09VWkhLV0g4NGpFelNCYTJRSklEZVMyWUNGaDRDamladlhuWVItamtRZ05ubF9KcWxrTFo1YmxCMUcxZTAxYV9MWmp6Vjl5MURIZUZlNTE4SWFMelBIcWVSczZFOWhuNFZrNEJFZTVVTnFwS2h0YWQzQWM5c3NweEZGbzMtUFY5NDBwQ3M3?oc=5)
+
+2026-05-21 <span class="news-indication-tag">EPOC</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMipAJBVV95cUxPMG84Wk0wR1hndGhZLTNrZFlQNUtXcVVpQ0htTnJXM0JPakxNampHa3I5bG5Ia1ZMZ0d1WGdnSVlzVUd2dm9FYzA2ODlkaDlOVEdlNDFNVVl5cWxZUkF6a2FCUTVQTjdsWnJfOXNldS1XQVIyRTlTSVVaOXplYzFOWmhkS0g4cVI2U0ZiUFdBeElLTEYyNGNxVEFONE5hX09VWkhLV0g4NGpFelNCYTJRSklEZVMyWUNGaDRDamladlhuWVItamtRZ05ubF9KcWxrTFo1YmxCMUcxZTAxYV9MWmp6Vjl5MURIZUZlNTE4SWFMelBIcWVSczZFOWhuNFZrNEJFZTVVTnFwS2h0YWQzQWM5c3NweEZGbzMtUFY5NDBwQ3M3?oc=5)
+
+---
 
 ### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
 
 2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+
+---
+
+### [These are the best knee braces for arthritis, according to orthopedic surgeons](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
+
+2026-05-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
 
 ---
 

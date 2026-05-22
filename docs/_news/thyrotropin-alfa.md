@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Konservierungsmittel könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
 
 2026-05-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
-
----
-
-### [The numbers behind global mental health and its different disorders - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
-
-2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
 
 ---
 
@@ -86,6 +78,14 @@ permalink: /news/thyrotropin-alfa/
 
 ---
 
+### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
+
+---
+
 ### [Les cas d'hypertension artérielle et crises cardiaques explosent et ces conservateurs alimentaires en sont responsables, selon une étude](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
 
 2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
@@ -99,14 +99,6 @@ permalink: /news/thyrotropin-alfa/
 2026-05-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
-
----
-
-### [À Chalon-sur-Saône, l’hôpital se mobilise face à une maladie qui touche un Français sur trois](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
-
-2026-05-20 <span class="news-indication-tag">hypertension</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
 
 ---
 

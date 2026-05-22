@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
+
+### [« En France, il y a un AVC toutes les quatre minutes » : ce neurologue de Maine-et-Loire informe et sensibilise](https://news.google.com/rss/articles/CBMipgJBVV95cUxOeENvS3FXb2Q1dEY1UUVlcWFzcFpnSTdhemtYOWFyaDk0cHUzR21iZi1wZEN6T2hxTUNtUXg4aWlzc2phU192VW5SVzc5NnhGS2NjdkxULWtGNzBpX3U5a2diaTV6d3ctRlJkcW9NMnljRGZVbVBvRUc5bnJBVHcwTHNrRUFYV3pqaVFaX2RTOEZnTnZLb09PUExSZGpaUnVFNFc0b2IycFNQaVZ5dllTMFV5d3V1aUZ3SG9pYjZ0dlVMSl9uUldRTE54NTlvci0wYnBwZFMyYnZ2MWVBQ3ZUY0N4RUZmREctY2tZd29VcFo3ME5KdXNZRjJ4aVhmZE9BX1Uxa3J0ekYwTXhZajlOWGhHb2ctRDM1WUVvLUJyZ0w3OVZYNWc?oc=5)
+
+2026-05-21 <span class="news-indication-tag">AVC</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMipgJBVV95cUxOeENvS3FXb2Q1dEY1UUVlcWFzcFpnSTdhemtYOWFyaDk0cHUzR21iZi1wZEN6T2hxTUNtUXg4aWlzc2phU192VW5SVzc5NnhGS2NjdkxULWtGNzBpX3U5a2diaTV6d3ctRlJkcW9NMnljRGZVbVBvRUc5bnJBVHcwTHNrRUFYV3pqaVFaX2RTOEZnTnZLb09PUExSZGpaUnVFNFc0b2IycFNQaVZ5dllTMFV5d3V1aUZ3SG9pYjZ0dlVMSl9uUldRTE54NTlvci0wYnBwZFMyYnZ2MWVBQ3ZUY0N4RUZmREctY2tZd29VcFo3ME5KdXNZRjJ4aVhmZE9BX1Uxa3J0ekYwTXhZajlOWGhHb2ctRDM1WUVvLUJyZ0w3OVZYNWc?oc=5)
+
+---
+
+### [Tra le 8 e le 10 ore a settimana: la vera dose di movimento per abbattere il rischio infarto](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnBKRkgxUFlGdGFiTi1uQ2htSFhrWWtSeW9BbWZMb0NBZ0dONkVOVVd5YW9Ud0pOV20xVmJ1eFRVR1BfM0RyZWUyaF95Z3hpTEZtQW4wN2VvRVJCTGwtWFZiOXl2MXBNTmR1WlJOdERYaklQZnhSUHB2ekZYYmdXQkZLWjVZZUJycUE?oc=5)
+
+2026-05-21 <span class="news-indication-tag">ictus</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnBKRkgxUFlGdGFiTi1uQ2htSFhrWWtSeW9BbWZMb0NBZ0dONkVOVVd5YW9Ud0pOV20xVmJ1eFRVR1BfM0RyZWUyaF95Z3hpTEZtQW4wN2VvRVJCTGwtWFZiOXl2MXBNTmR1WlJOdERYaklQZnhSUHB2ekZYYmdXQkZLWjVZZUJycUE?oc=5)
+
+---
 
 ### [Neurologische Erkrankungen im Blick: Multiple Sklerose und Schlaganfall](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
 
 2026-05-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Taunus-Nachrichten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
+
+---
+
+### [Colesterolo, le fluttuazioni dei valori aumentano i rischi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
+
+2026-05-20 <span class="news-indication-tag">ictus</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
 
 ---
 

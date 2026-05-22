@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Le monde appartient-il vraiment à ceux qui se lèvent tôt ? On a posé la question à une spécialiste du sommeil](https://news.google.com/rss/articles/CBMipAJBVV95cUxPMG84Wk0wR1hndGhZLTNrZFlQNUtXcVVpQ0htTnJXM0JPakxNampHa3I5bG5Ia1ZMZ0d1WGdnSVlzVUd2dm9FYzA2ODlkaDlOVEdlNDFNVVl5cWxZUkF6a2FCUTVQTjdsWnJfOXNldS1XQVIyRTlTSVVaOXplYzFOWmhkS0g4cVI2U0ZiUFdBeElLTEYyNGNxVEFONE5hX09VWkhLV0g4NGpFelNCYTJRSklEZVMyWUNGaDRDamladlhuWVItamtRZ05ubF9KcWxrTFo1YmxCMUcxZTAxYV9MWmp6Vjl5MURIZUZlNTE4SWFMelBIcWVSczZFOWhuNFZrNEJFZTVVTnFwS2h0YWQzQWM5c3NweEZGbzMtUFY5NDBwQ3M3?oc=5)
+
+2026-05-21 <span class="news-indication-tag">EPOC</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMipAJBVV95cUxPMG84Wk0wR1hndGhZLTNrZFlQNUtXcVVpQ0htTnJXM0JPakxNampHa3I5bG5Ia1ZMZ0d1WGdnSVlzVUd2dm9FYzA2ODlkaDlOVEdlNDFNVVl5cWxZUkF6a2FCUTVQTjdsWnJfOXNldS1XQVIyRTlTSVVaOXplYzFOWmhkS0g4cVI2U0ZiUFdBeElLTEYyNGNxVEFONE5hX09VWkhLV0g4NGpFelNCYTJRSklEZVMyWUNGaDRDamladlhuWVItamtRZ05ubF9KcWxrTFo1YmxCMUcxZTAxYV9MWmp6Vjl5MURIZUZlNTE4SWFMelBIcWVSczZFOWhuNFZrNEJFZTVVTnFwS2h0YWQzQWM5c3NweEZGbzMtUFY5NDBwQ3M3?oc=5)
+
+---
 
 ### [Curare il diabete di tipo 2 senza farmaci: al via negli USA studio innovativo basato sul vapore](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUC1wTnp1TTctR1FsbTgzeExkcVFrZEZ0Q3FvLTFwbGhCQ1pPLXVEWXB4NDJnZnl6NXNfQkxLd3ZsQlhPVlR4N1h0S3Y0S2JDV0doWkpja19oRFBzdlJGd0FyZWNuSzhEaEc2MzVnc0Z6U1ZxRUU3aS0zenJ0U1dibUpWaXdMNHJUVi14YTR1Z3dwSWRGcERXYlJpTUNNM0NEeFBySUc3UTlKZWhqNW01b3laazRfOURzNDhkRndtcnU4c0RrLXJSV3h3WHFNajNxWVRKdQ?oc=5)
 
@@ -64,7 +72,7 @@ permalink: /news/cabotegravir/
 
 ### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabetes</span>
+2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
 
@@ -91,6 +99,14 @@ permalink: /news/cabotegravir/
 2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+
+---
+
+### [These are the best knee braces for arthritis, according to orthopedic surgeons](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
+
+2026-05-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
 
 ---
 

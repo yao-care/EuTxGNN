@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
 
 ### [Konservierungsmittel könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [The numbers behind global mental health and its different disorders - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
+### [« En France, il y a un AVC toutes les quatre minutes » : ce neurologue de Maine-et-Loire informe et sensibilise](https://news.google.com/rss/articles/CBMipgJBVV95cUxOeENvS3FXb2Q1dEY1UUVlcWFzcFpnSTdhemtYOWFyaDk0cHUzR21iZi1wZEN6T2hxTUNtUXg4aWlzc2phU192VW5SVzc5NnhGS2NjdkxULWtGNzBpX3U5a2diaTV6d3ctRlJkcW9NMnljRGZVbVBvRUc5bnJBVHcwTHNrRUFYV3pqaVFaX2RTOEZnTnZLb09PUExSZGpaUnVFNFc0b2IycFNQaVZ5dllTMFV5d3V1aUZ3SG9pYjZ0dlVMSl9uUldRTE54NTlvci0wYnBwZFMyYnZ2MWVBQ3ZUY0N4RUZmREctY2tZd29VcFo3ME5KdXNZRjJ4aVhmZE9BX1Uxa3J0ekYwTXhZajlOWGhHb2ctRDM1WUVvLUJyZ0w3OVZYNWc?oc=5)
 
-2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
+2026-05-21 <span class="news-indication-tag">AVC</span>
 
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMipgJBVV95cUxOeENvS3FXb2Q1dEY1UUVlcWFzcFpnSTdhemtYOWFyaDk0cHUzR21iZi1wZEN6T2hxTUNtUXg4aWlzc2phU192VW5SVzc5NnhGS2NjdkxULWtGNzBpX3U5a2diaTV6d3ctRlJkcW9NMnljRGZVbVBvRUc5bnJBVHcwTHNrRUFYV3pqaVFaX2RTOEZnTnZLb09PUExSZGpaUnVFNFc0b2IycFNQaVZ5dllTMFV5d3V1aUZ3SG9pYjZ0dlVMSl9uUldRTE54NTlvci0wYnBwZFMyYnZ2MWVBQ3ZUY0N4RUZmREctY2tZd29VcFo3ME5KdXNZRjJ4aVhmZE9BX1Uxa3J0ekYwTXhZajlOWGhHb2ctRDM1WUVvLUJyZ0w3OVZYNWc?oc=5)
 
 ---
 
@@ -86,11 +86,27 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
+
+---
+
 ### [Les cas d'hypertension artérielle et crises cardiaques explosent et ces conservateurs alimentaires en sont responsables, selon une étude](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
 
 2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
 
 來源：[CNews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
+
+---
+
+### [Tra le 8 e le 10 ore a settimana: la vera dose di movimento per abbattere il rischio infarto](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnBKRkgxUFlGdGFiTi1uQ2htSFhrWWtSeW9BbWZMb0NBZ0dONkVOVVd5YW9Ud0pOV20xVmJ1eFRVR1BfM0RyZWUyaF95Z3hpTEZtQW4wN2VvRVJCTGwtWFZiOXl2MXBNTmR1WlJOdERYaklQZnhSUHB2ekZYYmdXQkZLWjVZZUJycUE?oc=5)
+
+2026-05-21 <span class="news-indication-tag">ictus</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnBKRkgxUFlGdGFiTi1uQ2htSFhrWWtSeW9BbWZMb0NBZ0dONkVOVVd5YW9Ud0pOV20xVmJ1eFRVR1BfM0RyZWUyaF95Z3hpTEZtQW4wN2VvRVJCTGwtWFZiOXl2MXBNTmR1WlJOdERYaklQZnhSUHB2ekZYYmdXQkZLWjVZZUJycUE?oc=5)
 
 ---
 
@@ -110,11 +126,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [À Chalon-sur-Saône, l’hôpital se mobilise face à une maladie qui touche un Français sur trois](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
+### [Colesterolo, le fluttuazioni dei valori aumentano i rischi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
 
-2026-05-20 <span class="news-indication-tag">hypertension</span>
+2026-05-20 <span class="news-indication-tag">ictus</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTFA3OVdZd25Ga0VZamdSTXZDOUtwYUJqV2txNlgycFdPWk5hNlp2MGJVWUdJQ0xjOWp2X204SVdzZ2VweDZqRC0zTVlULW95dzBkZlVBd1h5ZFYtRVNNT3RHZnFkdzFNbXp2aXlNQg?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
 
 ---
 
