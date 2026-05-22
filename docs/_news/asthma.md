@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthme（asthma） 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthme（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthme（asthma） 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
-<strong>asthme（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,19 +77,19 @@ permalink: /news/asthma/
 
 ## 相關新聞（2 則）
 
+### [Non soltanto pollini: un vero incubo per milioni di italiani - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEFYX0lyN25zTXNCaXB2UUMzUlJtOUNFcW13MkJxek10VVZPT1dzVENYdXZ5Q0FCQTBHdzJ4V3RWSVNwSXdoYW9YWFNnWjU5a2FMQjZvYXhJaF9BUDlmbmlHeEszUlpUbm9fdGVEaG0yeXpUeEI4ajlIbzVEZ2pLUlQ0c0JndDR2RkJndXpFd1NfeTRnMzBtV2RmUHhMYkhFQ0dMQUpDTC1qSFdFWVlEWTNOSFNHb0JiaHRaS0JHWmZtUmFOU0E?oc=5)
+
+2026-05-21
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEFYX0lyN25zTXNCaXB2UUMzUlJtOUNFcW13MkJxek10VVZPT1dzVENYdXZ5Q0FCQTBHdzJ4V3RWSVNwSXdoYW9YWFNnWjU5a2FMQjZvYXhJaF9BUDlmbmlHeEszUlpUbm9fdGVEaG0yeXpUeEI4ajlIbzVEZ2pLUlQ0c0JndDR2RkJndXpFd1NfeTRnMzBtV2RmUHhMYkhFQ0dMQUpDTC1qSFdFWVlEWTNOSFNHb0JiaHRaS0JHWmZtUmFOU0E?oc=5)
+
+---
+
 ### [Common asthma drug helps fight hard-to-treat cancers, including aggressive breast cancers, early study finds - Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
 
 2026-05-20
 
 來源：[Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
-
----
-
-### [Ce que mangent certains enfants chaque jour pourrait multiplier leur risque d'avoir de l'asthme par 4 - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0kzcENOOENNLVEwYjVuYUhWN2VudFRjNUduM3pkUUpjdFNFTkdGa2JmdmlPNHZLQk1OUmk1STNOaTNqb3ZGeTVSYzh4Q1ZaUkswSUpCd3dGSk9lSkVEZVc2Z1JlWGNmWEp0TkhFWWN3cEotbjJybzNEMmhjRmRJZXNkSWhZamlJVFUycUt0NE9ibzNWcWJ1X0hUVS12QklIN09BRGN4NmhaZjZJQmU0aHA3TUpJRTZTNXRWY0RQTTZSMzF3UHU5MG16anIxZjdEMUJtQnZndXktNllDNHVUTFJ3NnU?oc=5)
-
-2026-05-20
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0kzcENOOENNLVEwYjVuYUhWN2VudFRjNUduM3pkUUpjdFNFTkdGa2JmdmlPNHZLQk1OUmk1STNOaTNqb3ZGeTVSYzh4Q1ZaUkswSUpCd3dGSk9lSkVEZVc2Z1JlWGNmWEp0TkhFWWN3cEotbjJybzNEMmhjRmRJZXNkSWhZamlJVFUycUt0NE9ibzNWcWJ1X0hUVS12QklIN09BRGN4NmhaZjZJQmU0aHA3TUpJRTZTNXRWY0RQTTZSMzF3UHU5MG16anIxZjdEMUJtQnZndXktNllDNHVUTFJ3NnU?oc=5)
 
 ---
 

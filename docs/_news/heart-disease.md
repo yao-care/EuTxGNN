@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "cardiovascular disease（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiovascular disease（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# cardiovascular disease（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiovascular disease（heart disease） 有什麼相關新聞？">
+<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiovascular disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,13 +85,29 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [The numbers behind global mental health and its different disorders - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
+
+2026-05-21
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
+
+---
 
 ### [The benefits—and dangers—of optimism - The Economist](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
 
 2026-05-21
 
 來源：[The Economist](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
+
+---
+
+### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
+
+2026-05-20
+
+來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
 ---
 

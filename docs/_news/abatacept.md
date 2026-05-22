@@ -54,11 +54,11 @@ permalink: /news/abatacept/
 
 ## 相關新聞（1 則）
 
-### [Arthritis drug ‘could help beat depression’ - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEFlV0kwQ1NlcXBqMXdNejJRRmNwWm4xSnBGVkRFWWR3Z2Q4cklFY0lPcWNlRzd5MVNDOEtUVmNiMmF2d1kxWVZ2VUNkd0N4Zm1pYlg1WlNZUFp1Vy04YTVTMktrTGZWNFREeGxuTjRQNkdQcVJobVNLZm9Xc01tTnl4cGRBeFR5ejJlc0xHcw?oc=5)
+### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
 
 2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEFlV0kwQ1NlcXBqMXdNejJRRmNwWm4xSnBGVkRFWWR3Z2Q4cklFY0lPcWNlRzd5MVNDOEtUVmNiMmF2d1kxWVZ2VUNkd0N4Zm1pYlg1WlNZUFp1Vy04YTVTMktrTGZWNFREeGxuTjRQNkdQcVJobVNLZm9Xc01tTnl4cGRBeFR5ejJlc0xHcw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
 
 ---
 

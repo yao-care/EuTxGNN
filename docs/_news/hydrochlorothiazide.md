@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="Hydrochlorothiazide 有什麼相關新聞？">
-<strong>Hydrochlorothiazide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Hydrochlorothiazide</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/hydrochlorothiazide/
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（24 則）
+
+### [Melanoma skin cancer cases in UK hit record level, analysis finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
+
+2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
+
+---
 
 ### [Konservierungsmittel könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
 
@@ -70,6 +78,14 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [The numbers behind global mental health and its different disorders - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
+
+2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
+
+---
+
 ### [I was so ashamed I ignored my constant itching down there - as a pharmacist I blamed thrush... it was killer cancer - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVBsTGE1QUcyZ056MC14b0VpMGR2TEZSLWo1V1lWazFfODJjc1IzRzdZSkszRTZsc2I2TGtuR2V3UktXUURVMjBHa3k1bjlJb0syWkRQVjYxOHBzdVYzRTNwVzFGMUNqT0d2Rm5UdHZoZTJSWjFVS1NuR3dJQ0pMdGZrRC1tX1Q3U1dXREctM3ZGS2dPemJCanlVdjlUSC1jY0lr?oc=5)
 
 2026-05-21 <span class="news-indication-tag">cancer</span>
@@ -78,11 +94,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Cancer, diabète : ces additifs que vous mangez tous les jours en cause](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcm9kaTRnQ1ZVb3V5cnNidmlNU09ZbE5JU2dkdFFGdUt3SS1EUDJZWllBNmJYWlZqQlV1dlM0NFVFMnRfbFNEQVkzTFZaQk9mY1A5TEEtbGxOamVHdlJWWldMODVyWVRYU0NsM1FYVmZOMVlzWVRjc1pGT0pLSTBQZ2V3Z0NIOHg3Qnc?oc=5)
+### [Coronation Street star Sally Dynevor tours breast cancer centre](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwUy0xcG5qY3hNOFhfWW5NV3NPYU9pRjJsOHJlTlo1TGdEMHp6cFVCVUh0bXA1cEtBYVlzbDktbzRjVlFzQjRWOU9PNDlZVVlER0hHS05xRzVSTklz?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+2026-05-21 <span class="news-indication-tag">cancer</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcm9kaTRnQ1ZVb3V5cnNidmlNU09ZbE5JU2dkdFFGdUt3SS1EUDJZWllBNmJYWlZqQlV1dlM0NFVFMnRfbFNEQVkzTFZaQk9mY1A5TEEtbGxOamVHdlJWWldMODVyWVRYU0NsM1FYVmZOMVlzWVRjc1pGT0pLSTBQZ2V3Z0NIOHg3Qnc?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwUy0xcG5qY3hNOFhfWW5NV3NPYU9pRjJsOHJlTlo1TGdEMHp6cFVCVUh0bXA1cEtBYVlzbDktbzRjVlFzQjRWOU9PNDlZVVlER0hHS05xRzVSTklz?oc=5)
 
 ---
 
@@ -102,11 +118,19 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [À Lyon, un traitement inédit contre ces cancers résistants](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZRG1KeFZuRDRabGFqSi1WTnhDWU9iTEZhRHR5Tk5nbmdfOEVnVjIyT2F4TmRCRmdDNE0xX0JJMl9oVG5aeFI0WG5ETW9xSGpzZ042MXJkNjRLMjNKdU9heHhxU1dsVFBIc0NDcXVGUDlYaHZf?oc=5)
+### [Ipertensione, il rischio può aumentare in chi consuma molti additivi alimentari conservanti - la Repubblica](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1hva1FJcDVfSXdzc1NlUlRKRmRsX0xCdW9VcTR0YTVoZTNMS1pxZG9iOURSTy1uczRQN1pfVFJ1X3VJT2VsVFYtd3BkYjhZTnlnamNWeldIeTBtYS1SelN3bXFnWjRrTTZkTUNjeFVXZVpkUW5qQndTcTM0TER4ZVp6aS1YN1JTSW5wSmlBY0ZLMmUzNTJVNWZMQWdxeEZmWkpHWWVRNkUzU29DZzcxZnV0bE41V1B3M3YxaGdTUng1Nm1ZMWtmeURGS3B2U0RYLWhzTHNVSFNhUGJ4ejNBbFVHQm3SAeoBQVVfeXFMT2h0a0JNQ0xoa3VlYkhPemJCUk5jWTJkVWZrTldFMWR6RUdZa0RwV2c0ZnlzNmFnWmxqUmdmV3pXWHVydTRUUFlGTWp0RnJNUUVObTJ5TkFvdGk0NW9JbmVGTGd1MExSWFA1UWhpR3JPakdiMl9tOTVpUUpPR3pxb2l6UVo4bDVYMWpUUUJGR2JUejM4RlY1akhzZE1oT3hUbU9heHp5OW9NdWpRRUV2VjlkdmRxb2pCRHVrUnJrVFRHNUhXcmJWY3dYanpWaHR2VUZPTXZ0MnJ0cWw1VFNPU2RjNm1Gc1llR1V3?oc=5)
 
-2026-05-21 <span class="news-indication-tag">cancer</span>
+2026-05-21 <span class="news-indication-tag">ipertensione</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZRG1KeFZuRDRabGFqSi1WTnhDWU9iTEZhRHR5Tk5nbmdfOEVnVjIyT2F4TmRCRmdDNE0xX0JJMl9oVG5aeFI0WG5ETW9xSGpzZ042MXJkNjRLMjNKdU9heHhxU1dsVFBIc0NDcXVGUDlYaHZf?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1hva1FJcDVfSXdzc1NlUlRKRmRsX0xCdW9VcTR0YTVoZTNMS1pxZG9iOURSTy1uczRQN1pfVFJ1X3VJT2VsVFYtd3BkYjhZTnlnamNWeldIeTBtYS1SelN3bXFnWjRrTTZkTUNjeFVXZVpkUW5qQndTcTM0TER4ZVp6aS1YN1JTSW5wSmlBY0ZLMmUzNTJVNWZMQWdxeEZmWkpHWWVRNkUzU29DZzcxZnV0bE41V1B3M3YxaGdTUng1Nm1ZMWtmeURGS3B2U0RYLWhzTHNVSFNhUGJ4ejNBbFVHQm3SAeoBQVVfeXFMT2h0a0JNQ0xoa3VlYkhPemJCUk5jWTJkVWZrTldFMWR6RUdZa0RwV2c0ZnlzNmFnWmxqUmdmV3pXWHVydTRUUFlGTWp0RnJNUUVObTJ5TkFvdGk0NW9JbmVGTGd1MExSWFA1UWhpR3JPakdiMl9tOTVpUUpPR3pxb2l6UVo4bDVYMWpUUUJGR2JUejM4RlY1akhzZE1oT3hUbU9heHp5OW9NdWpRRUV2VjlkdmRxb2pCRHVrUnJrVFRHNUhXcmJWY3dYanpWaHR2VUZPTXZ0MnJ0cWw1VFNPU2RjNm1Gc1llR1V3?oc=5)
+
+---
+
+### [Les cas d'hypertension artérielle et crises cardiaques explosent et ces conservateurs alimentaires en sont responsables, selon une étude](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
 
 ---
 
@@ -142,19 +166,19 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
+
+2026-05-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
+
+---
+
 ### [Common asthma drug helps fight hard-to-treat cancers, including aggressive breast cancers, early study finds - Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
 
 2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
-
----
-
-### [Study finds cancer-causing viruses emerging from wastewater](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
-
-2026-05-20 <span class="news-indication-tag">cancer</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
 
 ---
 
@@ -166,11 +190,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Oncologist who cut open people for 17 years saw same foods in 80% of colon cancer patients](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+### [Study finds cancer-causing viruses emerging from wastewater](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
 
-2026-05-20 <span class="news-indication-tag">cancer</span>
+2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjZnWWlxWk9rVWYwOHp2Q3ZIVVpSVVl2QVFPVUs1RFR1V2ZlNlA3Q05DdFFsZUZFNXFTNlJvN3ItZ1E0TWc3UDBFbGQ2NHVEejBKYjcwRTlMZGxsZ0V0N3BSSmVkaks5UEdhNzVkamRHZXA4bkV2ejZraER6SVloQW95UVYyZUhZbzVfeEtrc3RoeWRXalE?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
 
 ---
 
@@ -182,27 +206,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [GLP-1-Rezeptoragonisten: Effekt bei Brustkrebs zu groß, um wahr zu sein - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
+### [Neues Qualifizierungsangebot stärkt Patientenperspektive in der Krebsversorgung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdnA1ZHBXZHEwNmVUMmpYck1FMjBrbEY1RzlkT25wZkpzWFNRaGlKa2h4Z2tSajlEX1Zwb2RhX0U5UWJHb1JuakstZXFOS0EtUXgwTGllbkVFZXlramNuOW90VGNjRmRpWl91MmJvR3ZvMTRPMlg5dnV4OUtHdWtabTFESVhDdUN0bzZJbzEtMndBOUVXTU5kY1VtbU9lNmczZFJsSHRoWGFSdHQ0T09UeEZtNWpxUjFkOXZnc0tRYjNIU3o1M09ROVQ1aDhON21ia1d3ZA?oc=5)
 
-2026-05-20 <span class="news-indication-tag">Krebs</span>
+2026-05-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3R2Z3FfdWJzNFZpdy1kaUx3Q040bWJQbUJWRnkyMEtOLTJZYnBpLUd1bzlIYjlkay1QQWpMbnlsdUlOMlBWYkFENFVIeFZpSlB1SkFjN3NianNZeHkyS3plT0lETFVXdmVqR19kOUhudFoxeUgtR1RmeWpWYkE1dzEtOWJkd1I4VE1La2VpZjN4cTI1YlhpZw?oc=5)
-
----
-
-### [Neues Qualifizierungsangebot stärkt Patientenperspektive in der Krebsversorgung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BcThRcUdyTUptNlJPZzVjMTdMalBxRE5janFxRU1JOXh5UFVqdmNadC1GbjNPeU9MUEpHMHJOS0x0b18xOUVKRUFsRQ?oc=5)
-
-2026-05-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BcThRcUdyTUptNlJPZzVjMTdMalBxRE5janFxRU1JOXh5UFVqdmNadC1GbjNPeU9MUEpHMHJOS0x0b18xOUVKRUFsRQ?oc=5)
-
----
-
-### [Cancro, lo scudo che ferma la crescita delle cellule tumorali | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGwxM2pvU29Dc210bDkwS0ZVZTgzRDN4Sy1Nb3FRY0Q3amZsVndFY3YtVXU2VVBSNjV4S3pkNEM4SWRzanF6SkczaEh5eENLZ0lPSGR2czhhUE51Q1RYZnlpYU45dzJDMUM5VE11REc1Nk1Bem1EUFctdFpPdUVnYlVXMFhncnVuRGtCOERNSGdDeVEyMnp6ZGFOQlQwUWpVdVBmdkF3VEZBNHdxaFdDMNIBtAFBVV95cUxOWl9CU0hXM0h1WHVPdEwzeUVtNnYzVmJ3M2ctUjVEbzRRazNPOXpKUmlBOFJ3dUVQdHpHTmxlejFadWtwQjNHMkJxMk81RFNGUU9sb1NNMW1iM3dadlNvSW03bzM3TExZWmFOdXVSLWdJa2VsYk5xYS1KVW5VQTNUWXVMNmlUa2V3YzdTQklOcHp1UFBBdGI4RWxNWlFzd1dHT2doQVRPc2Q4SVMxbFFDUTZwUEg?oc=5)
-
-2026-05-20 <span class="news-indication-tag">tumor</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGwxM2pvU29Dc210bDkwS0ZVZTgzRDN4Sy1Nb3FRY0Q3amZsVndFY3YtVXU2VVBSNjV4S3pkNEM4SWRzanF6SkczaEh5eENLZ0lPSGR2czhhUE51Q1RYZnlpYU45dzJDMUM5VE11REc1Nk1Bem1EUFctdFpPdUVnYlVXMFhncnVuRGtCOERNSGdDeVEyMnp6ZGFOQlQwUWpVdVBmdkF3VEZBNHdxaFdDMNIBtAFBVV95cUxOWl9CU0hXM0h1WHVPdEwzeUVtNnYzVmJ3M2ctUjVEbzRRazNPOXpKUmlBOFJ3dUVQdHpHTmxlejFadWtwQjNHMkJxMk81RFNGUU9sb1NNMW1iM3dadlNvSW03bzM3TExZWmFOdXVSLWdJa2VsYk5xYS1KVW5VQTNUWXVMNmlUa2V3YzdTQklOcHp1UFBBdGI4RWxNWlFzd1dHT2doQVRPc2Q4SVMxbFFDUTZwUEg?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdnA1ZHBXZHEwNmVUMmpYck1FMjBrbEY1RzlkT25wZkpzWFNRaGlKa2h4Z2tSajlEX1Zwb2RhX0U5UWJHb1JuakstZXFOS0EtUXgwTGllbkVFZXlramNuOW90VGNjRmRpWl91MmJvR3ZvMTRPMlg5dnV4OUtHdWtabTFESVhDdUN0bzZJbzEtMndBOUVXTU5kY1VtbU9lNmczZFJsSHRoWGFSdHQ0T09UeEZtNWpxUjFkOXZnc0tRYjNIU3o1M09ROVQ1aDhON21ia1d3ZA?oc=5)
 
 ---
 
@@ -222,22 +230,6 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Cuándo se debe comenzar a controlar la presión arterial, según expertos](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDNrdTRfLUIxY21mVlpBNEVNZWZEaUFXTXBJempFT3M2T3VpMmJKNTFLa1FzME5tX3hqWm9Yb0pNNEVpSjEtOWs1QmhpOXJheFVFSDZ3bkd5UzhoS21UTFBqNGRkUU4tRzdta0V3blRGcHdpbzU2dWN4MVRnUFNsYnZJSF90V1pLMng5SW9jSy1pOHFsXy1xOXF2TWROUjhabjNoOENpNTNfYTA2Qkdqd09R0gHMAUFVX3lxTFBOVnJ3c2s1Z084TmJobDczNTl2Z3VqbmxqQXBMb2RtTmNaQnVaZFVBOGotNWRlaElOVE5RR19Maks0ZkdOMDJiTUM3UDJ6R2tnT2tIZWdZTVZBWGU2QjRUMGZwY294cmVQNUdyYU1Rd2dqTk5Cci0wYWozUFctVmpaQlEyNTl3SHRBNTZVTGhYMjI2cmJCZ0F6X2tIZmE3NHNabzBhZUp2ci1tWnZkQWVxZk5UQkVFR0FWbm1XOWtfcXhwNFlvbjFLaWpiSA?oc=5)
-
-2026-05-20 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDNrdTRfLUIxY21mVlpBNEVNZWZEaUFXTXBJempFT3M2T3VpMmJKNTFLa1FzME5tX3hqWm9Yb0pNNEVpSjEtOWs1QmhpOXJheFVFSDZ3bkd5UzhoS21UTFBqNGRkUU4tRzdta0V3blRGcHdpbzU2dWN4MVRnUFNsYnZJSF90V1pLMng5SW9jSy1pOHFsXy1xOXF2TWROUjhabjNoOENpNTNfYTA2Qkdqd09R0gHMAUFVX3lxTFBOVnJ3c2s1Z084TmJobDczNTl2Z3VqbmxqQXBMb2RtTmNaQnVaZFVBOGotNWRlaElOVE5RR19Maks0ZkdOMDJiTUM3UDJ6R2tnT2tIZWdZTVZBWGU2QjRUMGZwY294cmVQNUdyYU1Rd2dqTk5Cci0wYWozUFctVmpaQlEyNTl3SHRBNTZVTGhYMjI2cmJCZ0F6X2tIZmE3NHNabzBhZUp2ci1tWnZkQWVxZk5UQkVFR0FWbm1XOWtfcXhwNFlvbjFLaWpiSA?oc=5)
-
----
-
-### [L'Irccs Ospedale Piemonte di Messina presenta a Washington tecnica rivoluzionaria per i tumori renali](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOby12UDk5LXZaeUNPRTludEpPRVhtMkRjV1dacVJqSUxzdmxqTGx1ZmhOOGt5TWZuTllFNmRmbHVyVVQzdDJWV3BscjdDM2IxV2RNOHR3d0pTLTlQOGhRenpLTWlLMGg5QXRMUDZmRkRSck9KVFRVT1dBTEdONWp5Zm5GbVJoRVZoZjY4Vl9paTR0UGJQeVhCNjQwV09rTTZtN25HTVdkblJfZjM0dGhWeUNHR2VvTDJCMzN2YW9Zeko5NEdzalFlckUwQ0R4c09JcFQzNg?oc=5)
-
-2026-05-20 <span class="news-indication-tag">tumor</span>
-
-來源：[Tempostretto](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOby12UDk5LXZaeUNPRTludEpPRVhtMkRjV1dacVJqSUxzdmxqTGx1ZmhOOGt5TWZuTllFNmRmbHVyVVQzdDJWV3BscjdDM2IxV2RNOHR3d0pTLTlQOGhRenpLTWlLMGg5QXRMUDZmRkRSck9KVFRVT1dBTEdONWp5Zm5GbVJoRVZoZjY4Vl9paTR0UGJQeVhCNjQwV09rTTZtN25HTVdkblJfZjM0dGhWeUNHR2VvTDJCMzN2YW9Zeko5NEdzalFlckUwQ0R4c09JcFQzNg?oc=5)
-
----
-
 ### [Il tabagismo cambia forma, ma 9 fumatori su 10 vogliono smettere](https://news.google.com/rss/articles/CBMirAJBVV95cUxOalJMdjhlRjJUbHQxdkE1OUFqRk9BM0JnX3R5bHkyZmh0VHQwZ215WHpaWFJwb21XeVV5X1ZTclBrNlFscnB1Z3JZdjl5X0hGOVZadTl1MjBrYl9vNFlyeE93WmMzLTlRNUh1VDdtQXRBMVRTUXFHTlppU0FyQ1RCRkRFQlozZ1c1TjNjd0Y0VVExbVRCXy16Q0dWY04zZHhTME1zZC1SeGJjeTcwX2h6N05WRlhUNGlacXptcGg3eTJMZ05xU2swMVhyb1BRUDdUOVgxRU56TkZHODVRT1dYNmFDcGNZMnVsM0Z6aEIxTU1JNWFRb1lsSDdueVlTNnl5WUs0YWJlT1FEOXFEM19kSEhoaWFMc1R4QzJaRGVIRWlTaGd1Wk5wZVIyQTE?oc=5)
 
 2026-05-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -251,14 +243,6 @@ permalink: /news/hydrochlorothiazide/
 2026-05-20 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMivwJBVV95cUxNTktxUHNuS1NXQ29URXoxYW1nWW9YVWxIdjFqRUJINFBkQWVYVU5ZSy0zR2JaTU1OcFYydEs1LXBfLURUbUhzMFhXZFdDMkI0b0pEcU9iS3hyQXJWMDRtWmNmQU1mTmp6TjZUcFpnVEJ1eVJ2bE1SRks5OHJvM2x0NzZrNUx3alhEMkhZdjR6cEd5NjRjd3JxamI4YTN3U0hLV2JoQzFkOUNUOHNOUlhKa2pmM0NDVVE2QnRlZ0xIcTBDT0t1czU1TExsSy1HT1gyd1dVOTR1bGxuZjNHemt3QU9QR2tJNld1aG5lbzAxZHEwVDRpNEwwSFBNOFV6cFJINnRIQXhBUk9OYWF1VTNEYUM0RGhhRl9SbktzZjRnVVl0T3VaZUxxLVh0aXM5N1EtVDc2TmtKa3ZlNzRGMlBj0gHEAkFVX3lxTE1WS3FQTW5DQzY3bHJpN1diUERITHJWdWFDSG5RdWJRbEVpQW5ZQ2hFQVUwWVFoWVJqTDdsWEhkak9jOTBEUHdlUkhfZEF0V09laUlqNU9uQzNuRWdJMTVxS0JUT25wby1leWxpN2c4RFFvd3VlcXZqUTVndVMxbkRWNzdsLUU3T0M1VjRMaHJvQmxZMmdDdnpjb3V1WGdJVE1nZFkzbVBtbWEzMTlXSVNkZ2U2czNrMXM3UEFnbVZHU3h3MWVhODVSRGxfNmZNeVZRcm16QkJDUG5lZ0pPa0EzcXVSOHlJMnVhN0NBcTdpZkNtVVFwVUNPRDM0dnpwNG0wSEhOTGdfeE80bG1fNFdDY2l2MVNhSnFITXdLckZWamNrRTYtUk5IX2M3N1FYRXNZSU5iQkFSeHFIbWxiX0RJYVI2bw?oc=5)
-
----
-
-### [Study identifies key protein in immune cell exhaustion in cancer immunotherapy - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXBTZGpGZkdjUm00RTRTUk9jUGF4QTFSQnFtemdzeDNVOGhOZTJ0cEFEaGFkUHRXSUM3X0dEd1oydWg3RGNUVzFTNUkwT0ZKdzFTZl9sZi1iM3kwQUNDUDFVY09GdUNBdFM0ek5kdjh4bmpKOVdHUFRTMTd2dFVfdUw1cXQ?oc=5)
-
-2026-05-19 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXBTZGpGZkdjUm00RTRTUk9jUGF4QTFSQnFtemdzeDNVOGhOZTJ0cEFEaGFkUHRXSUM3X0dEd1oydWg3RGNUVzFTNUkwT0ZKdzFTZl9sZi1iM3kwQUNDUDFVY09GdUNBdFM0ek5kdjh4bmpKOVdHUFRTMTd2dFVfdUw1cXQ?oc=5)
 
 ---
 

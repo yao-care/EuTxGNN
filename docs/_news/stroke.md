@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,29 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Neurologische Erkrankungen im Blick: Multiple Sklerose und Schlaganfall](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
 
 2026-05-20
 
 來源：[Taunus-Nachrichten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
-
----
-
-### [Colesterolo, le fluttuazioni dei valori aumentano i rischi. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
-
-2026-05-20
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZqcnZPMEtnWWluU3FRMTNBLVByaFBOWGg0WFRIRGhMbndXTVk2N00wV2tvM3pfUzNmeXZMTElTX3B3TnczQ2hXSjQ1eFdnN2Fpanp3MEJkT2NCd29KclRjd3FlQ2VlcnM3VnBaRkVKbi1WZ21Fa3QtNXRpd0xCbFNlby0?oc=5)
-
----
-
-### [Per proteggere davvero il cuore servono 6 ore di sport a settimana](https://news.google.com/rss/articles/CBMikwFBVV95cUxORFVQaFFfUXR2a0VpQldDRGcxRU5KMzUwUzJjZkRtenVEM2pqbmdhNXJMYnBBdDJmSm13VlQzVDBnQlUyazZGT2cwUXdNVkd1UW9aMGMzTHhKbHhVNTVMTHBqLUFUYzRxTTZRLXJLbVlzXzZJSWlIQlRuUXgySFpyR1ZWdjN6UUlXc3Z2eGJHcVZ3WE0?oc=5)
-
-2026-05-19
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMikwFBVV95cUxORFVQaFFfUXR2a0VpQldDRGcxRU5KMzUwUzJjZkRtenVEM2pqbmdhNXJMYnBBdDJmSm13VlQzVDBnQlUyazZGT2cwUXdNVkd1UW9aMGMzTHhKbHhVNTVMTHBqLUFUYzRxTTZRLXJLbVlzXzZJSWlIQlRuUXgySFpyR1ZWdjN6UUlXc3Z2eGJHcVZ3WE0?oc=5)
 
 ---
 

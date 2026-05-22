@@ -54,11 +54,19 @@ permalink: /news/tazobactam/
 
 ## 相關新聞（3 則）
 
-### [Arthritis drug ‘could help beat depression’ - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEFlV0kwQ1NlcXBqMXdNejJRRmNwWm4xSnBGVkRFWWR3Z2Q4cklFY0lPcWNlRzd5MVNDOEtUVmNiMmF2d1kxWVZ2VUNkd0N4Zm1pYlg1WlNZUFp1Vy04YTVTMktrTGZWNFREeGxuTjRQNkdQcVJobVNLZm9Xc01tTnl4cGRBeFR5ejJlc0xHcw?oc=5)
+### [Non soltanto pollini: un vero incubo per milioni di italiani - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEFYX0lyN25zTXNCaXB2UUMzUlJtOUNFcW13MkJxek10VVZPT1dzVENYdXZ5Q0FCQTBHdzJ4V3RWSVNwSXdoYW9YWFNnWjU5a2FMQjZvYXhJaF9BUDlmbmlHeEszUlpUbm9fdGVEaG0yeXpUeEI4ajlIbzVEZ2pLUlQ0c0JndDR2RkJndXpFd1NfeTRnMzBtV2RmUHhMYkhFQ0dMQUpDTC1qSFdFWVlEWTNOSFNHb0JiaHRaS0JHWmZtUmFOU0E?oc=5)
+
+2026-05-21 <span class="news-indication-tag">asma</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZEFYX0lyN25zTXNCaXB2UUMzUlJtOUNFcW13MkJxek10VVZPT1dzVENYdXZ5Q0FCQTBHdzJ4V3RWSVNwSXdoYW9YWFNnWjU5a2FMQjZvYXhJaF9BUDlmbmlHeEszUlpUbm9fdGVEaG0yeXpUeEI4ajlIbzVEZ2pLUlQ0c0JndDR2RkJndXpFd1NfeTRnMzBtV2RmUHhMYkhFQ0dMQUpDTC1qSFdFWVlEWTNOSFNHb0JiaHRaS0JHWmZtUmFOU0E?oc=5)
+
+---
+
+### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
 
 2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEFlV0kwQ1NlcXBqMXdNejJRRmNwWm4xSnBGVkRFWWR3Z2Q4cklFY0lPcWNlRzd5MVNDOEtUVmNiMmF2d1kxWVZ2VUNkd0N4Zm1pYlg1WlNZUFp1Vy04YTVTMktrTGZWNFREeGxuTjRQNkdQcVJobVNLZm9Xc01tTnl4cGRBeFR5ejJlc0xHcw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/tazobactam/
 2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
-
----
-
-### [Ce que mangent certains enfants chaque jour pourrait multiplier leur risque d'avoir de l'asthme par 4 - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0kzcENOOENNLVEwYjVuYUhWN2VudFRjNUduM3pkUUpjdFNFTkdGa2JmdmlPNHZLQk1OUmk1STNOaTNqb3ZGeTVSYzh4Q1ZaUkswSUpCd3dGSk9lSkVEZVc2Z1JlWGNmWEp0TkhFWWN3cEotbjJybzNEMmhjRmRJZXNkSWhZamlJVFUycUt0NE9ibzNWcWJ1X0hUVS12QklIN09BRGN4NmhaZjZJQmU0aHA3TUpJRTZTNXRWY0RQTTZSMzF3UHU5MG16anIxZjdEMUJtQnZndXktNllDNHVUTFJ3NnU?oc=5)
-
-2026-05-20 <span class="news-indication-tag">asthme</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0kzcENOOENNLVEwYjVuYUhWN2VudFRjNUduM3pkUUpjdFNFTkdGa2JmdmlPNHZLQk1OUmk1STNOaTNqb3ZGeTVSYzh4Q1ZaUkswSUpCd3dGSk9lSkVEZVc2Z1JlWGNmWEp0TkhFWWN3cEotbjJybzNEMmhjRmRJZXNkSWhZamlJVFUycUt0NE9ibzNWcWJ1X0hUVS12QklIN09BRGN4NmhaZjZJQmU0aHA3TUpJRTZTNXRWY0RQTTZSMzF3UHU5MG16anIxZjdEMUJtQnZndXktNllDNHVUTFJ3NnU?oc=5)
 
 ---
 

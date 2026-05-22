@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。13 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>13 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
 ### [El brote de ébola se expande al sur del Congo, mientras las víctimas ascienden a 160 - France 24](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaXUwZUpQMUpGa1dJdHRMLTQ2MGk2RTBsSzBVLUNyQVNFSlRwQkhjdll1RXhlc3Z5TGNzcGNQV0pGc1BJSnZvU2h6QjgzNDZHZUpUVXAyUVBpM2s0c3JBS0w1UEl1N2x6OVFOVzk3bkVMaUdGdVBLRmY3YTU1d2xwVGNkTTZRYUV6dnpzNEgzVnZXcm5BRU5FakFFeUhCZDNpRExpSFA0WFRUZUpFNkpncTV5bnFRbnVqVUdUUURtV2Z6XzhvVmp4eTA0SmFtVUVsbGc?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Ebola, moglie e figli di cittadino Usa affetto dal virus ricoverati a Berlino - Sky TG24](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DWDRORk5scWhsLVR0TVl3bktpUHlWcnFCT2x4VlJ3eGNvV1N6N2lqU3UtR0FDZGNVaEdlR2RzWnp2RGxteDVtWFhpLU9ZZFhhR1hLY292X0ZDVDZ0dWtBOGpVUQ?oc=5)
-
-2026-05-21
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DWDRORk5scWhsLVR0TVl3bktpUHlWcnFCT2x4VlJ3eGNvV1N6N2lqU3UtR0FDZGNVaEdlR2RzWnp2RGxteDVtWFhpLU9ZZFhhR1hLY292X0ZDVDZ0dWtBOGpVUQ?oc=5)
-
----
-
 ### [Inside Vinted’s hidden ‘pharmacy’ selling injectables & creams that can burn you - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmItbHdlNEdfSE80Zjk3LXFhdzdvdGpaRW5xd3NKSlVZNTdlRjc3czcyWGNlMFdmT3hVTXNESXA4OXVPa0tNOEc0Um9yb09lbmt2cDI1RzJRRVdPdWdLYTZ0VXlIbVZYVVVWSjZwUXhlVERNeEtrSktVMkt0cWJJRlV2M01iaXhNRmVNNGtHczQ2WWlSTmJlRjh6dUZXaFhjVzJZ?oc=5)
 
 2026-05-21
@@ -88,11 +80,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Schlaf bestimmt, wie schnell deine Organe altern](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVByMHB6Wk5yeVUyVXpzVjdhTHY2azY3LUdtdWs5cGJqLW03RWw4TDhYWEgyWkRabnJUMjZnYjh5QmpQb25wWUpMV2ZEWkFXTmpmZ3JRQTdlVUNMOEhGTTR1Vm5oUlZwaVQ2X0NPMkRPT2xTeXFCeHlYcjdHZkpRZ2lIS29EWjg1R1NQOC1uRmx2WGdsSnA5VWN3?oc=5)
+### [RD Congo, Mondiali a rischio per l’epidemia di Ebola: annullato il ritiro a Kinshasa - la Repubblica](https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTVYcFdFQ25ncEJsT2xCdlpuaW9QZVZlSXJWNDgxdGM3SXMtSDdJQ3BlUDhvenRsVzFqcklnbS1BWmVHVmJnaV9uTURhRFZ5UFdPbEdCWFF5WHdMNGVuM0VUSDZpenN0MTczMDZ0bVNyUzlNVGIwNXlna3NIdmpiZFhTd2RBckFxWDRaUjZveUZxSlNpWm9fRGRPSXJoY1FfU01xWFRFZlVodzBWV2dBNm1xWGdiSnZOZlFtaGF1MUhtRU5W0gHKAUFVX3lxTE5aLWt2RzFSTFBEZVhyUjdKai1qWnFYQ25rWDlhWURIOFAwTlQtMnlGMEFVMjZZdDBLb2lMNGhRSlN1UHBXLWdPaVNPMzRvQU1Fc3gzNThUcGZpTVN0YnV5LWZsc1BNWGYzREVHMnhvNE1IYlo2Ul9UQWxFV3NraVY3czg4MXJ0RnlVU0ZmR0xNZUdkbXZVYXFrTVljakx6djRKZVkwMmotZDU3U2JZMU9iUnlva3BNMVlPcERpUFUtZDFBUVptYjlDMkE?oc=5)
 
 2026-05-21
 
-來源：[Telepolis](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVByMHB6Wk5yeVUyVXpzVjdhTHY2azY3LUdtdWs5cGJqLW03RWw4TDhYWEgyWkRabnJUMjZnYjh5QmpQb25wWUpMV2ZEWkFXTmpmZ3JRQTdlVUNMOEhGTTR1Vm5oUlZwaVQ2X0NPMkRPT2xTeXFCeHlYcjdHZkpRZ2lIS29EWjg1R1NQOC1uRmx2WGdsSnA5VWN3?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTVYcFdFQ25ncEJsT2xCdlpuaW9QZVZlSXJWNDgxdGM3SXMtSDdJQ3BlUDhvenRsVzFqcklnbS1BWmVHVmJnaV9uTURhRFZ5UFdPbEdCWFF5WHdMNGVuM0VUSDZpenN0MTczMDZ0bVNyUzlNVGIwNXlna3NIdmpiZFhTd2RBckFxWDRaUjZveUZxSlNpWm9fRGRPSXJoY1FfU01xWFRFZlVodzBWV2dBNm1xWGdiSnZOZlFtaGF1MUhtRU5W0gHKAUFVX3lxTE5aLWt2RzFSTFBEZVhyUjdKai1qWnFYQ25rWDlhWURIOFAwTlQtMnlGMEFVMjZZdDBLb2lMNGhRSlN1UHBXLWdPaVNPMzRvQU1Fc3gzNThUcGZpTVN0YnV5LWZsc1BNWGYzREVHMnhvNE1IYlo2Ul9UQWxFV3NraVY3czg4MXJ0RnlVU0ZmR0xNZUdkbXZVYXFrTVljakx6djRKZVkwMmotZDU3U2JZMU9iUnlva3BNMVlPcERpUFUtZDFBUVptYjlDMkE?oc=5)
 
 ---
 
@@ -104,6 +96,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Australia faces 'biggest diphtheria outbreak' in decades - Sky News](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkdnWWVVVmpNMmoyS1FVX1ctb3BOM2JzV0xnbzBVX1ctT3R0ZG10UjZzRVZoNGgwMHBVaFZyWkRuSnBublFhV1ZFd3gxeWd0T2E1eTVtLWh4S1NYY05NeDlHNVJvbHNzNnNVVWVDcmFDblQ2ODBzOWpyVnBHWXdPSWYxX2hNTUE3Nkw5WTQzZUdhNWlU?oc=5)
+
+2026-05-20
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkdnWWVVVmpNMmoyS1FVX1ctb3BOM2JzV0xnbzBVX1ctT3R0ZG10UjZzRVZoNGgwMHBVaFZyWkRuSnBublFhV1ZFd3gxeWd0T2E1eTVtLWh4S1NYY05NeDlHNVJvbHNzNnNVVWVDcmFDblQ2ODBzOWpyVnBHWXdPSWYxX2hNTUE3Nkw5WTQzZUdhNWlU?oc=5)
+
+---
+
 ### [Common asthma drug helps fight hard-to-treat cancers, including aggressive breast cancers, early study finds - Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
 
 2026-05-20
@@ -112,35 +112,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Residents linked to Hantavirus outbreak in Wales - here's the latest update - South Wales Argus](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEVrdHhmWnA0UjR5RmtldzIxdWk3djVwYzktUmd6UGY2OHNhazFlcmNmcGhsZ0pNb1RTS0Vud2RlbVBiTGlQY1BjY1ZvblJVQ2lEZG1JZVpuR0JOYmQwRzN3ZE1memxJUU81cXBHcFhoTHJIaTJxRzU3ZkR0SnM5Y2pDRDBZVDZ3YXdWanJoVVloT3owdXl2LUlR?oc=5)
+### [Study finds cancer-causing viruses emerging from wastewater](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
 
 2026-05-20
 
-來源：[South Wales Argus](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEVrdHhmWnA0UjR5RmtldzIxdWk3djVwYzktUmd6UGY2OHNhazFlcmNmcGhsZ0pNb1RTS0Vud2RlbVBiTGlQY1BjY1ZvblJVQ2lEZG1JZVpuR0JOYmQwRzN3ZE1memxJUU81cXBHcFhoTHJIaTJxRzU3ZkR0SnM5Y2pDRDBZVDZ3YXdWanJoVVloT3owdXl2LUlR?oc=5)
-
----
-
-### [¿Cuánto ejercicio debo hacer a la semana para obtener un beneficio? - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVJpNDMydnRWQjZSdGc0QVBpRFFNTVpaNC1sRGs1QUp5QlgtbjNvSWNGVVREdFNKVW05dzNtbmlXdmxwRUJGRm5TLW9yS1p1d2dXeXI0cUJYMmlrNHpzam9Ydnd4di1vZGpTdE1HRW5ES2xGTEdFYnhkWjNlTjRYTWlYSWtEcjF1cWFVUTNXSnRXN19UcGVneDdCR0RjMjdrWDVvbnZYRmxtdWJCWU96Y1k3a0V1U21NUHo2dGtSTDlvMmVDWHRUckJvbHRoYUdlLUcxRjBzR0t3N1hPS2Jn?oc=5)
-
-2026-05-20
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMVJpNDMydnRWQjZSdGc0QVBpRFFNTVpaNC1sRGs1QUp5QlgtbjNvSWNGVVREdFNKVW05dzNtbmlXdmxwRUJGRm5TLW9yS1p1d2dXeXI0cUJYMmlrNHpzam9Ydnd4di1vZGpTdE1HRW5ES2xGTEdFYnhkWjNlTjRYTWlYSWtEcjF1cWFVUTNXSnRXN19UcGVneDdCR0RjMjdrWDVvbnZYRmxtdWJCWU96Y1k3a0V1U21NUHo2dGtSTDlvMmVDWHRUckJvbHRoYUdlLUcxRjBzR0t3N1hPS2Jn?oc=5)
-
----
-
-### [Neues Qualifizierungsangebot stärkt Patientenperspektive in der Krebsversorgung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BcThRcUdyTUptNlJPZzVjMTdMalBxRE5janFxRU1JOXh5UFVqdmNadC1GbjNPeU9MUEpHMHJOS0x0b18xOUVKRUFsRQ?oc=5)
-
-2026-05-20
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BcThRcUdyTUptNlJPZzVjMTdMalBxRE5janFxRU1JOXh5UFVqdmNadC1GbjNPeU9MUEpHMHJOS0x0b18xOUVKRUFsRQ?oc=5)
-
----
-
-### [Cuándo se debe comenzar a controlar la presión arterial, según expertos](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDNrdTRfLUIxY21mVlpBNEVNZWZEaUFXTXBJempFT3M2T3VpMmJKNTFLa1FzME5tX3hqWm9Yb0pNNEVpSjEtOWs1QmhpOXJheFVFSDZ3bkd5UzhoS21UTFBqNGRkUU4tRzdta0V3blRGcHdpbzU2dWN4MVRnUFNsYnZJSF90V1pLMng5SW9jSy1pOHFsXy1xOXF2TWROUjhabjNoOENpNTNfYTA2Qkdqd09R0gHMAUFVX3lxTFBOVnJ3c2s1Z084TmJobDczNTl2Z3VqbmxqQXBMb2RtTmNaQnVaZFVBOGotNWRlaElOVE5RR19Maks0ZkdOMDJiTUM3UDJ6R2tnT2tIZWdZTVZBWGU2QjRUMGZwY294cmVQNUdyYU1Rd2dqTk5Cci0wYWozUFctVmpaQlEyNTl3SHRBNTZVTGhYMjI2cmJCZ0F6X2tIZmE3NHNabzBhZUp2ci1tWnZkQWVxZk5UQkVFR0FWbm1XOWtfcXhwNFlvbjFLaWpiSA?oc=5)
-
-2026-05-20
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDNrdTRfLUIxY21mVlpBNEVNZWZEaUFXTXBJempFT3M2T3VpMmJKNTFLa1FzME5tX3hqWm9Yb0pNNEVpSjEtOWs1QmhpOXJheFVFSDZ3bkd5UzhoS21UTFBqNGRkUU4tRzdta0V3blRGcHdpbzU2dWN4MVRnUFNsYnZJSF90V1pLMng5SW9jSy1pOHFsXy1xOXF2TWROUjhabjNoOENpNTNfYTA2Qkdqd09R0gHMAUFVX3lxTFBOVnJ3c2s1Z084TmJobDczNTl2Z3VqbmxqQXBMb2RtTmNaQnVaZFVBOGotNWRlaElOVE5RR19Maks0ZkdOMDJiTUM3UDJ6R2tnT2tIZWdZTVZBWGU2QjRUMGZwY294cmVQNUdyYU1Rd2dqTk5Cci0wYWozUFctVmpaQlEyNTl3SHRBNTZVTGhYMjI2cmJCZ0F6X2tIZmE3NHNabzBhZUp2ci1tWnZkQWVxZk5UQkVFR0FWbm1XOWtfcXhwNFlvbjFLaWpiSA?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
 
 ---
 
