@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [19-Year Study Reveals the Surprising Truth About Sitting and Dementia](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFdMbDRIc2hET29hblhIdlJDOC1qY1dYbWo1MDRaQlE5QXg3SFA0UTNtTTM5SWRpZ0ZlamtmeTdXVWVkQktNbGp6SVp6RFJMbFk4bVVCV3phNkFjMnJlTTJPTTN3QTNRSkp4R1VsdlMxNHhhcW9VYnA1RGdXVlhMYVQ5N1gzeE1ZRFp6T0JndWZYZGlsbS1pQUZhbw?oc=5)
+
+2026-05-22
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFdMbDRIc2hET29hblhIdlJDOC1qY1dYbWo1MDRaQlE5QXg3SFA0UTNtTTM5SWRpZ0ZlamtmeTdXVWVkQktNbGp6SVp6RFJMbFk4bVVCV3phNkFjMnJlTTJPTTN3QTNRSkp4R1VsdlMxNHhhcW9VYnA1RGdXVlhMYVQ5N1gzeE1ZRFp6T0JndWZYZGlsbS1pQUZhbw?oc=5)
+
+---
 
 ### [Qatar-based British-Pakistani scientist develops AI eye scan for early dementia diagnosis](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
+
+### [Las enfermedades mentales se ceban con jóvenes y mujeres: 1.170 millones las sufren en el mundo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUE1N3JKM1V4bk4ycGhHSENHZnpacTRnbExKZ3pBVVowbDlhLW5OSjJUTkVkcTA0VHVXcXFGWjBJRFJxSDVicWp5RDJLeHJwUDhhTklNV3lpQzBleDVFd3hxTGJJcGcwSFE4RWt4QkNDZ0RHQ3dud2Q3d1BpRVZkVE9mUUtNNGQtZmVJZFdHRWxSN0FMN0FmYllmb3dsc1BJS1Y2bzNiUEZ0QnlCT0VzWkpCQ1hkRzhXejFqX1YxeHVNTTktVlhEQ0pCRXozUjJET0YtedIB2gFBVV95cUxObWxRMmYwNDNSY2tRaGw4azdmbU1rR29TcTV2NGhaRFc3WUZielFIWk9pQm01aEJsWEpVb2hTQnFUU25NdlI1Q2NyV1NQUk1KcVlpVExmMnRxdXlTNjVPRmZzRmhqNFY1OGRJTHpSTUJWdUl2VzVXWEs4d0NzbFVmZHlBcmdXR3JXVkV0SHV4aG9CVnJ5Z0FyVHU3VmlMRUhjRWVELWgtd2p5WGlYU0hTbTh6TlFfTU5JNEE1U0NaNFFIVkFreWZid2RsckZKdnVPZzAwMGtpZEdUUQ?oc=5)
+
+2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+來源：[naiz:](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUE1N3JKM1V4bk4ycGhHSENHZnpacTRnbExKZ3pBVVowbDlhLW5OSjJUTkVkcTA0VHVXcXFGWjBJRFJxSDVicWp5RDJLeHJwUDhhTklNV3lpQzBleDVFd3hxTGJJcGcwSFE4RWt4QkNDZ0RHQ3dud2Q3d1BpRVZkVE9mUUtNNGQtZmVJZFdHRWxSN0FMN0FmYllmb3dsc1BJS1Y2bzNiUEZ0QnlCT0VzWkpCQ1hkRzhXejFqX1YxeHVNTTktVlhEQ0pCRXozUjJET0YtedIB2gFBVV95cUxObWxRMmYwNDNSY2tRaGw4azdmbU1rR29TcTV2NGhaRFc3WUZielFIWk9pQm01aEJsWEpVb2hTQnFUU25NdlI1Q2NyV1NQUk1KcVlpVExmMnRxdXlTNjVPRmZzRmhqNFY1OGRJTHpSTUJWdUl2VzVXWEs4d0NzbFVmZHlBcmdXR3JXVkV0SHV4aG9CVnJ5Z0FyVHU3VmlMRUhjRWVELWgtd2p5WGlYU0hTbTh6TlFfTU5JNEE1U0NaNFFIVkFreWZid2RsckZKdnVPZzAwMGtpZEdUUQ?oc=5)
+
+---
+
+### [Alzheimer: depressione, sedentarietà e sonno segnali d’allarme per le donne - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
+
+2026-05-22 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
+
+---
 
 ### [KI verdoppelt Heilungschancen bei Depressionen - AD HOC NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0l1MzRXajNsODlrVkw4WUlIbVBxWG1sNjlyNnVVV1dXSWcyZ2s1LTBRcUJlZmRIaVRwMFlBbDhqVUh6V0x5NnY4eEZ5dHhRdkgwQ2dhX1VBTVZKRmFVakhXSTRTM1BrQUJjcmltbXduQVNfUUs1b1g3em16YzE2X0FjQnBxcVc4eThrSzRLeUYzalpQNkU4T3BWcw?oc=5)
 
 2026-05-22 <span class="news-indication-tag">depression</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0l1MzRXajNsODlrVkw4WUlIbVBxWG1sNjlyNnVVV1dXSWcyZ2s1LTBRcUJlZmRIaVRwMFlBbDhqVUh6V0x5NnY4eEZ5dHhRdkgwQ2dhX1VBTVZKRmFVakhXSTRTM1BrQUJjcmltbXduQVNfUUs1b1g3em16YzE2X0FjQnBxcVc4eThrSzRLeUYzalpQNkU4T3BWcw?oc=5)
+
+---
+
+### [Anxiété et dépression : 1,2 milliard de personnes touchées dans le monde selon une étude - Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
+
+2026-05-21 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
 
 ---
 

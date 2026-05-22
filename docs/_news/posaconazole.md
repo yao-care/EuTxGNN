@@ -14,7 +14,7 @@ permalink: /news/posaconazole/
 ---
 
 <p class="key-answer" data-question="Posaconazole 有什麼相關新聞？">
-<strong>Posaconazole</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Posaconazole</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/posaconazole/
 <p><a href="{{ '/drugs/posaconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（29 則）
 
-### [Toulouse : cette nuée de moustiques va peut-être sauver votre été](https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0UwdUhnSXZIcDlWSFlSbjFhcTJUS284Vk9lSTlfYzNPbllzajRpNkRxRm1EbXkwRGFzY2tNSjAweGFJV2NwbC1Kdl90c3huVHhLR1VRNXdvVXZJaDBHOFRudnZBV3NyazI2LUJ5NFcxYWlZR2lXUEszbGZMU2ZMSy1aMnVFcVM4ZzlQa2xzNVJvbmsyU25zUWNKQVV4TFhoUHktV0lXQ0c1NFN5QzBr0gG0AUFVX3lxTFBtbHJNYmthQkExVHJRTDJBRWpON0p4bWRzX2laWjBMSkFyc3hvbVdIS1NObWlSM05VcDRjZkhHdFZ3MGhFaHhGbU1YMVNwc0FIRWIxWWtFZW1OTzZVbUxqUElqYzhnaU5QcS1aeVcyQjJvOXNQZkZkM1lTbkk3SmUxXzhFejNkM21sQ24zeXFrQmlMNUluLUttX0xWNTY1Y2laSXpLZ1praWNUVHYyV0tISUROUQ?oc=5)
+### ['Safe and welcoming' ADHD and autism hub to open in Sheffield](https://news.google.com/rss/articles/CBMiXEFVX3lxTE96TDEtejhEYmtaSWJ6SGdWZFc3akhFcXZfejc3ZTFwd0puaXJrZjF4ck1XVHl4eF9HNkUtQW1FZm8xVVJGMnN3VGVDWkVBWGh6NTdUTlJ2OUpTblpq?oc=5)
 
 2026-05-22 <span class="news-indication-tag">AF</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0UwdUhnSXZIcDlWSFlSbjFhcTJUS284Vk9lSTlfYzNPbllzajRpNkRxRm1EbXkwRGFzY2tNSjAweGFJV2NwbC1Kdl90c3huVHhLR1VRNXdvVXZJaDBHOFRudnZBV3NyazI2LUJ5NFcxYWlZR2lXUEszbGZMU2ZMSy1aMnVFcVM4ZzlQa2xzNVJvbmsyU25zUWNKQVV4TFhoUHktV0lXQ0c1NFN5QzBr0gG0AUFVX3lxTFBtbHJNYmthQkExVHJRTDJBRWpON0p4bWRzX2laWjBMSkFyc3hvbVdIS1NObWlSM05VcDRjZkhHdFZ3MGhFaHhGbU1YMVNwc0FIRWIxWWtFZW1OTzZVbUxqUElqYzhnaU5QcS1aeVcyQjJvOXNQZkZkM1lTbkk3SmUxXzhFejNkM21sQ24zeXFrQmlMNUluLUttX0xWNTY1Y2laSXpLZ1praWNUVHYyV0tISUROUQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE96TDEtejhEYmtaSWJ6SGdWZFc3akhFcXZfejc3ZTFwd0puaXJrZjF4ck1XVHl4eF9HNkUtQW1FZm8xVVJGMnN3VGVDWkVBWGh6NTdUTlJ2OUpTblpq?oc=5)
+
+---
+
+### [La ciencia relaciona la recuperación del organismo con el entorno donde se descansa - El Confidencial](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWdrZWFuZGdlaDZwd2ctWGUwZElqNWxRczMydWFfY0ZTdUNEX01kWVp2SGlaSWNfRTliSnBBeVdsU2NWZ3k2UEZ4VGlocjlxSWZ4ekZ0a3praTJRZFpTa2RabU56RVd1eHBRdXlwRExqS25sTXBzOXZFYndWNHV5eVNDOE01eFFTWmNOQk5rdFlPMEV6WXlVWnQ5M2dGTFU?oc=5)
+
+2026-05-22 <span class="news-indication-tag">AF</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWdrZWFuZGdlaDZwd2ctWGUwZElqNWxRczMydWFfY0ZTdUNEX01kWVp2SGlaSWNfRTliSnBBeVdsU2NWZ3k2UEZ4VGlocjlxSWZ4ekZ0a3praTJRZFpTa2RabU56RVd1eHBRdXlwRExqS25sTXBzOXZFYndWNHV5eVNDOE01eFFTWmNOQk5rdFlPMEV6WXlVWnQ5M2dGTFU?oc=5)
+
+---
+
+### [Ein Glas Wasser vor dem ersten Kaffee - Fränkische Nachrichten](https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHhycm0yeXVQb3M5Tm13UmdTck9DZ0YzOUs1Mzg0U2YzNG9ZVVBYRDNfY2p0aGswdzEyWURCT29zVU90YjRid0xSallOQ1V6QmpoVUxtS0VJU0pKblRRcjJLZUpJRDYzYjYtTFQ5d0swdGQwSldVSWx2QU9vbVJQazMxbmZfbk9sY2ZaMUw3TDFVWm51VlgzemRzMWw5Mm9JOVZlYVdhbHQzTVRvRl8tT3hBRjRVeDlaTjdMUTJ3?oc=5)
+
+2026-05-22 <span class="news-indication-tag">AF</span>
+
+來源：[Fränkische Nachrichten](https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHhycm0yeXVQb3M5Tm13UmdTck9DZ0YzOUs1Mzg0U2YzNG9ZVVBYRDNfY2p0aGswdzEyWURCT29zVU90YjRid0xSallOQ1V6QmpoVUxtS0VJU0pKblRRcjJLZUpJRDYzYjYtTFQ5d0swdGQwSldVSWx2QU9vbVJQazMxbmZfbk9sY2ZaMUw3TDFVWm51VlgzemRzMWw5Mm9JOVZlYVdhbHQzTVRvRl8tT3hBRjRVeDlaTjdMUTJ3?oc=5)
+
+---
+
+### [Hantavirus, i casi salgono a 12: positivo un membro dello staff della Hondius rientrato a Tenerife - la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMA?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMA?oc=5)
 
 ---
 
@@ -70,11 +94,27 @@ permalink: /news/posaconazole/
 
 ---
 
+### [Dad's trauma after seven years of treatment at Nuneaton's hospital for condition he didn't have - Coventry Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjVnVENfczlwVklFYmRGZzNfX2VpVV9Mc3VjaHdmdG1zTnQ5dnlMMlA0RF9VWnh4a2FCdHU4bG5lY2JOZE1pc3hkelNsZE1YT3pEU3BsTHNQdWZvNjVCYTNRTzktU1dDNjZMXzBmbDBYd0dPclRJWkNUdlJzSUVQS3BhR193ZzhkLUFKMFh3UzJvZw?oc=5)
+
+2026-05-22 <span class="news-indication-tag">AF</span>
+
+來源：[Coventry Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjVnVENfczlwVklFYmRGZzNfX2VpVV9Mc3VjaHdmdG1zTnQ5dnlMMlA0RF9VWnh4a2FCdHU4bG5lY2JOZE1pc3hkelNsZE1YT3pEU3BsTHNQdWZvNjVCYTNRTzktU1dDNjZMXzBmbDBYd0dPclRJWkNUdlJzSUVQS3BhR193ZzhkLUFKMFh3UzJvZw?oc=5)
+
+---
+
 ### [Studie zu Vorhofflimmern: Beide Herzvorhöfe stärker beteiligt als bislang angenommen - Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)](https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2hDTTBIZzZHTUVuSVlpODZzYU5HMVg2SUQ4c3RaRDZEd2N3MHZwaVdLckU0QzJKTVNyUzROMzAyQnlfOFRkVHpsREVPX1Y2UUlKYjBUMVRrRXFwdFB4TF9mS01BVEF4WUlxRXRSZlo1blVIaTVkU2FPYzF1Y2s0clBKR2d0V0RCRXR4LW9VTHMzWHpQMHZKRU1RMEVzMjlxTERxQ3pRUGJjT0FLdW9IaFd4UDRaeDFsWDFGSGRSSHRfOWFQYnFWYjlpOWJaUQ?oc=5)
 
 2026-05-22 <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)](https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2hDTTBIZzZHTUVuSVlpODZzYU5HMVg2SUQ4c3RaRDZEd2N3MHZwaVdLckU0QzJKTVNyUzROMzAyQnlfOFRkVHpsREVPX1Y2UUlKYjBUMVRrRXFwdFB4TF9mS01BVEF4WUlxRXRSZlo1blVIaTVkU2FPYzF1Y2s0clBKR2d0V0RCRXR4LW9VTHMzWHpQMHZKRU1RMEVzMjlxTERxQ3pRUGJjT0FLdW9IaFd4UDRaeDFsWDFGSGRSSHRfOWFQYnFWYjlpOWJaUQ?oc=5)
+
+---
+
+### [Patientenspezifischer 3D-Druck ist am UKL fester Bestandteil einer modernen und personalisierten Versorgung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE44TEFWY3pOZnRnaERqMzZudmloTzRpMzdPeGRqc2ZsQ2c0U0xZX3otZ0h5bFVSZzlOajRyMjVsbTRlLU1wMHdyd1QtNA?oc=5)
+
+2026-05-22 <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE44TEFWY3pOZnRnaERqMzZudmloTzRpMzdPeGRqc2ZsQ2c0U0xZX3otZ0h5bFVSZzlOajRyMjVsbTRlLU1wMHdyd1QtNA?oc=5)
 
 ---
 
@@ -118,6 +158,14 @@ permalink: /news/posaconazole/
 
 ---
 
+### [Las enfermedades mentales se ceban con jóvenes y mujeres: 1.170 millones las sufren en el mundo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUE1N3JKM1V4bk4ycGhHSENHZnpacTRnbExKZ3pBVVowbDlhLW5OSjJUTkVkcTA0VHVXcXFGWjBJRFJxSDVicWp5RDJLeHJwUDhhTklNV3lpQzBleDVFd3hxTGJJcGcwSFE4RWt4QkNDZ0RHQ3dud2Q3d1BpRVZkVE9mUUtNNGQtZmVJZFdHRWxSN0FMN0FmYllmb3dsc1BJS1Y2bzNiUEZ0QnlCT0VzWkpCQ1hkRzhXejFqX1YxeHVNTTktVlhEQ0pCRXozUjJET0YtedIB2gFBVV95cUxObWxRMmYwNDNSY2tRaGw4azdmbU1rR29TcTV2NGhaRFc3WUZielFIWk9pQm01aEJsWEpVb2hTQnFUU25NdlI1Q2NyV1NQUk1KcVlpVExmMnRxdXlTNjVPRmZzRmhqNFY1OGRJTHpSTUJWdUl2VzVXWEs4d0NzbFVmZHlBcmdXR3JXVkV0SHV4aG9CVnJ5Z0FyVHU3VmlMRUhjRWVELWgtd2p5WGlYU0hTbTh6TlFfTU5JNEE1U0NaNFFIVkFreWZid2RsckZKdnVPZzAwMGtpZEdUUQ?oc=5)
+
+2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+來源：[naiz:](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUE1N3JKM1V4bk4ycGhHSENHZnpacTRnbExKZ3pBVVowbDlhLW5OSjJUTkVkcTA0VHVXcXFGWjBJRFJxSDVicWp5RDJLeHJwUDhhTklNV3lpQzBleDVFd3hxTGJJcGcwSFE4RWt4QkNDZ0RHQ3dud2Q3d1BpRVZkVE9mUUtNNGQtZmVJZFdHRWxSN0FMN0FmYllmb3dsc1BJS1Y2bzNiUEZ0QnlCT0VzWkpCQ1hkRzhXejFqX1YxeHVNTTktVlhEQ0pCRXozUjJET0YtedIB2gFBVV95cUxObWxRMmYwNDNSY2tRaGw4azdmbU1rR29TcTV2NGhaRFc3WUZielFIWk9pQm01aEJsWEpVb2hTQnFUU25NdlI1Q2NyV1NQUk1KcVlpVExmMnRxdXlTNjVPRmZzRmhqNFY1OGRJTHpSTUJWdUl2VzVXWEs4d0NzbFVmZHlBcmdXR3JXVkV0SHV4aG9CVnJ5Z0FyVHU3VmlMRUhjRWVELWgtd2p5WGlYU0hTbTh6TlFfTU5JNEE1U0NaNFFIVkFreWZid2RsckZKdnVPZzAwMGtpZEdUUQ?oc=5)
+
+---
+
 ### [One cattle breed is showing resilience to foot and mouth disease in South Africa - Beef Central](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVFfd2U5X0FHRmhmX0pfek1oek90TVpKQkRkb2NHaDFPeXFWWmJUaTF1dVlPbm9yQmNINzhzak1HT1VlaXg1LV9qZmw0U2RxV2xBQVphZ3FKcWp0dURNeklNMkZrS09pNnB5V3BSMEN1a0RPTW5WX055WUxyT0EyTkJYWFZVWjhWeVVRYjJMSWk1eVZXaTk1Mnd2Sl9ndnA5Rm9oVHgtR05hVEZpZklZZW1maGZSZ0ZFWWVPLVZITWVmck1lMERr?oc=5)
 
 2026-05-22 <span class="news-indication-tag">AF</span>
@@ -134,19 +182,19 @@ permalink: /news/posaconazole/
 
 ---
 
+### [L'epidemiologa Barbara Suligoi: «La pornografia normalizza una visione performativa e rischiosa dei rapporti. In crescita tra le giovani i casi di gonorrea nella faringe. Urgente l'educazione all’affettività e alla salute sessuale a scuola - Vanity Fair Italia](https://news.google.com/rss/articles/CBMirgJBVV95cUxQSVdzaVBGUjhZa2xaaExVcl8tdGxhOVpkWnVBb19RMmhEbHZEOU1OUi1vdFVQOENhR3hEVlVSZmZHdXBLN0x5RHBHOGpKNHlPdWQ2N2RhUFlIN183dUlnNmFkRFc2QXVvZW9nOGFtQlpQeVFVSTRYazNSandQZGYtaXZLQ19md3NTVlA3aW5zSU1GRHFQV3UxelV3WDhvZ1VMMTBTWFI0SHhjQ0N2SUEtbjl3RUNkZkFWT2VIX3UyRkN2RUtScEhBS1c3eFA4NTRXbElVVTE5aEhsOWRyZUV2cF9Xd19Qd2RtcTJlOEdiOHNNbTI5aTFwdnd0RW5ZLUdGOGVJajdzb3VzTHhhR1F3Rlg0Vmt2RXJYb1h2dEFvYi12S1hhVThSSmNLNmgzdw?oc=5)
+
+2026-05-22 <span class="news-indication-tag">AF</span>
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMirgJBVV95cUxQSVdzaVBGUjhZa2xaaExVcl8tdGxhOVpkWnVBb19RMmhEbHZEOU1OUi1vdFVQOENhR3hEVlVSZmZHdXBLN0x5RHBHOGpKNHlPdWQ2N2RhUFlIN183dUlnNmFkRFc2QXVvZW9nOGFtQlpQeVFVSTRYazNSandQZGYtaXZLQ19md3NTVlA3aW5zSU1GRHFQV3UxelV3WDhvZ1VMMTBTWFI0SHhjQ0N2SUEtbjl3RUNkZkFWT2VIX3UyRkN2RUtScEhBS1c3eFA4NTRXbElVVTE5aEhsOWRyZUV2cF9Xd19Qd2RtcTJlOEdiOHNNbTI5aTFwdnd0RW5ZLUdGOGVJajdzb3VzTHhhR1F3Rlg0Vmt2RXJYb1h2dEFvYi12S1hhVThSSmNLNmgzdw?oc=5)
+
+---
+
 ### [The Type of Alcohol You Drink Could Affect How Long You Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVZEYVBIYWdhWnpUYTc3SXdxRDcwYk1Bc0R2RmI3QWRuTzZwRld2THRVam9ZRUpiaGU0R0RUdlBRYW9PLVhjZVZteFdJSkh5MDl0YzNpUW9WOGZ2NnVFcmVzMFpCSWwyeVdfZUpZaGFscEVkc2lKNkdBTVp2UHFDMzNKaXBUQTRuQlNKWGN0NA?oc=5)
 
 2026-05-22 <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVZEYVBIYWdhWnpUYTc3SXdxRDcwYk1Bc0R2RmI3QWRuTzZwRld2THRVam9ZRUpiaGU0R0RUdlBRYW9PLVhjZVZteFdJSkh5MDl0YzNpUW9WOGZ2NnVFcmVzMFpCSWwyeVdfZUpZaGFscEVkc2lKNkdBTVp2UHFDMzNKaXBUQTRuQlNKWGN0NA?oc=5)
-
----
-
-### [Ebola outbreak spirals out of control: how might it have started?](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zeXFFU3FkN1R3dWlkNXMyeXRpYmpBZE13Y0FlVEZLM3B1NDd5TnZVa2JVbDRzbWFydEUtSjRKNXVXdVRjV1JoZFdnV3BLYVRCTGIwTmU5N1BfYXU3SW9z?oc=5)
-
-2026-05-21 <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zeXFFU3FkN1R3dWlkNXMyeXRpYmpBZE13Y0FlVEZLM3B1NDd5TnZVa2JVbDRzbWFydEUtSjRKNXVXdVRjV1JoZFdnV3BLYVRCTGIwTmU5N1BfYXU3SW9z?oc=5)
 
 ---
 
@@ -176,17 +224,9 @@ permalink: /news/posaconazole/
 
 ### [Urgent holiday warning after measles outbreak at Spanish tourist hotspot - as cases DOUBLE in a week - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEFrS09QSzRFZ09kVm5ZNkN2RjFfRllCd192SUhlc3k1LTRCUW9xX0N5OTItOUhmdXRJM0thR2x0anNIZk9qTTd5OGtkalhTcE5aNzFHNUdwcnRuLXBXaDJrWVgwU1VFTVQzbm9tX2NCZ29sZ2NPZkFxdFNNd3g3YTItY2Z2WWl3NTQ3U0RUcnU5dS1LZG1kVGMyR0ROcVU?oc=5)
 
-2026-05-21 <span class="news-indication-tag">AF</span>
+2026-05-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEFrS09QSzRFZ09kVm5ZNkN2RjFfRllCd192SUhlc3k1LTRCUW9xX0N5OTItOUhmdXRJM0thR2x0anNIZk9qTTd5OGtkalhTcE5aNzFHNUdwcnRuLXBXaDJrWVgwU1VFTVQzbm9tX2NCZ29sZ2NPZkFxdFNNd3g3YTItY2Z2WWl3NTQ3U0RUcnU5dS1LZG1kVGMyR0ROcVU?oc=5)
-
----
-
-### [The numbers behind global mental health and its different disorders - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
-
-2026-05-21 <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NMYjhmMjRiSXQxTnlUNUZnN2hyenNsTDh5eXY5RDhXc3ZvTk9FVU5zVk9WX19jS0N5OUFEM1I2ZFVsUjFmTld1cGtIOHhaeGhlaWFBNGlETTByUWFWTHdzQ1VwQy1pSFJLLU5QQTJMNWFKRzhjczl6eFU4T3ZHZWxQRE5EbHNORTlFbU9RZVNUR0NFWHY0cFRDNml1TzFKT1haZUI0M2tYeEh50gGyAUFVX3lxTFBfLThpeGQwWERlSmlneDhNeVpoMXNZWXEzX0pzeVZYWE9pYzVla2dkdjl3RlduMTZtOC01WnhFTkZudkdtV3JEOWRPYkFsSUJnSHN5Y3B5X3dJbzhwVWx2YTFRQ3NwUkVkTjBlX1V0OFhWZ2FNcTY1OXVGdEFuQ2lWWmdlZ2N4cmppUFhMZnY5eVh4ZmY0ODU0YTE1d3YxYkpaQkV0RU02RlYxOHlOaW9xUHc?oc=5)
 
 ---
 
@@ -214,11 +254,11 @@ permalink: /news/posaconazole/
 
 ---
 
-### [Family 'want answers' after 'gentle giant', 32, dies with stomach 'leak' - Chronicle Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXpPdWVIQ3FlU3FPTk1DNUVaRzBFeTFkN2w2eXprWmtWVUQ5VzFVYy1iaDlDSUpTVFp1X0J5U3J1Q2lVQ252VVVweTV1QUhWeWt3cExLaEFuYWJxNHQydjBkeVk1YXh3NU1yNGpBRXVYWUdwR2xaWXl1ZklCN2Y2RDBocjRHTlViVmVRQURncllMdV9yYlVBajRn0gGfAUFVX3lxTE9ZZFRyZ3ZKdGV1SkVkc25jdG81V3lUVkxSRFdyZjkwQ05ueGpiQkZtdkplTmdYTldVSWt5M1lpVjdJYmpfT2ZnTWYwUTNIWlhheWh5NG1aZW1XZERFT2pxeXNNcWlEUjZuMDczUUt3dEF4ck1ob0I5aDR3V203Rjk4U043TExLLWU1eFh3UlNXdmFOQTlhS0RYaXFySUNCZw?oc=5)
+### ['Gentle giant' County Durham lorry driver died in agony after NHS weight-loss surgery - The Northern Echo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkNKd0Q3RUplTHROakh1aE1XV24tN08td1FyaHdpN05LM2tHZzU5OVg2N3Y3d3E3X2trU19MSGowZEk0b3Q0clcxVWRTbjR3MVpDaExoZkhZVU13TUJZX05MZ2hVQXBmT1dTOTY3a3g5NmtTcVpCbGpJY2ZXQWxHOHNtd25aN3U0Y2NqM3g3SnRCZjRGNXBuWDhrRUE3QThOMGRUUWozel8wZw?oc=5)
 
 2026-05-21 <span class="news-indication-tag">AF</span>
 
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXpPdWVIQ3FlU3FPTk1DNUVaRzBFeTFkN2w2eXprWmtWVUQ5VzFVYy1iaDlDSUpTVFp1X0J5U3J1Q2lVQ252VVVweTV1QUhWeWt3cExLaEFuYWJxNHQydjBkeVk1YXh3NU1yNGpBRXVYWUdwR2xaWXl1ZklCN2Y2RDBocjRHTlViVmVRQURncllMdV9yYlVBajRn0gGfAUFVX3lxTE9ZZFRyZ3ZKdGV1SkVkc25jdG81V3lUVkxSRFdyZjkwQ05ueGpiQkZtdkplTmdYTldVSWt5M1lpVjdJYmpfT2ZnTWYwUTNIWlhheWh5NG1aZW1XZERFT2pxeXNNcWlEUjZuMDczUUt3dEF4ck1ob0I5aDR3V203Rjk4U043TExLLWU1eFh3UlNXdmFOQTlhS0RYaXFySUNCZw?oc=5)
+來源：[The Northern Echo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkNKd0Q3RUplTHROakh1aE1XV24tN08td1FyaHdpN05LM2tHZzU5OVg2N3Y3d3E3X2trU19MSGowZEk0b3Q0clcxVWRTbjR3MVpDaExoZkhZVU13TUJZX05MZ2hVQXBmT1dTOTY3a3g5NmtTcVpCbGpJY2ZXQWxHOHNtd25aN3U0Y2NqM3g3SnRCZjRGNXBuWDhrRUE3QThOMGRUUWozel8wZw?oc=5)
 
 ---
 
@@ -238,59 +278,11 @@ permalink: /news/posaconazole/
 
 ---
 
-### [“Sono guarito da Ebola, ma è stato devastante. Tornerei in Africa subito anche se non sono immune” - la Repubblica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOclNqLXAtb1RaZGI2YlF3c3UwYTdUTHdhV0lrOE5MN3RuNHdNdTZDUjA5RFNEQkZmYlZBY1pRMVhkYVFEQTBzaWxjeE1jNFdOcGVZRlBaNTFlVUlMOEtxb3gzZU50SWRwM2VfOXFmUmE5X3p5V0NQeGx1N1BIVmhEMkgtVVBEM2tQSzRsdHU4cmFjN1ZlNjNsU0M5X3ZibTVCc0dMd2R3ODLSAa4BQVVfeXFMTkJzUEtGbmx6V2phb1kwaFhZeHNCc01WSDV0R1k5TzBGSFZHZlJWTWI2RndYY090X3JuVENLZDNabHV5dkx3UUZkakhhRXViUlNIckFjSFhlSU1VenhHNnJ0QWNpa2VKOXFwT19jaFJfMkRDajQtdHk2Zy1tVnN1a3MwNVJDdVJwRWUyV2VTNXdHeE9RWFotWUJRSFVEbVotZ2xOT3ZCbFZkUktNTnBB?oc=5)
-
-2026-05-21 <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOclNqLXAtb1RaZGI2YlF3c3UwYTdUTHdhV0lrOE5MN3RuNHdNdTZDUjA5RFNEQkZmYlZBY1pRMVhkYVFEQTBzaWxjeE1jNFdOcGVZRlBaNTFlVUlMOEtxb3gzZU50SWRwM2VfOXFmUmE5X3p5V0NQeGx1N1BIVmhEMkgtVVBEM2tQSzRsdHU4cmFjN1ZlNjNsU0M5X3ZibTVCc0dMd2R3ODLSAa4BQVVfeXFMTkJzUEtGbmx6V2phb1kwaFhZeHNCc01WSDV0R1k5TzBGSFZHZlJWTWI2RndYY090X3JuVENLZDNabHV5dkx3UUZkakhhRXViUlNIckFjSFhlSU1VenhHNnJ0QWNpa2VKOXFwT19jaFJfMkRDajQtdHk2Zy1tVnN1a3MwNVJDdVJwRWUyV2VTNXdHeE9RWFotWUJRSFVEbVotZ2xOT3ZCbFZkUktNTnBB?oc=5)
-
----
-
 ### [Zellbewegung im Embryo: Ohne Keratin läuft’s nicht, zeigt Zebrafisch-Studie am ISTA - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGcnlQMTZZeU5pWVBzQ1paZjF0bjNSbHAxWDNEWWdUaVJYT3ZSQzBRLWF4MzdWdXNGNE9VdFE5WHBuLXhsMmNiNFVNWQ?oc=5)
 
 2026-05-21 <span class="news-indication-tag">AF</span>
 
 來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGcnlQMTZZeU5pWVBzQ1paZjF0bjNSbHAxWDNEWWdUaVJYT3ZSQzBRLWF4MzdWdXNGNE9VdFE5WHBuLXhsMmNiNFVNWQ?oc=5)
-
----
-
-### [Tea or Coffee? Your Daily Choice Could Affect Osteoporosis Risk](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNXUyNDRJUXJ2MF9heFllVm44VFdrMjItXzJtak4yLWdETi1falBRUE1pWUExam95US1HRkdpSEpKTi1LZ0c5b3Zwd1pKcHdhaFlDTzkwcmVPYk45V2JjaXBTS1R6clBxbG1SLVpmQzNIS1B3eGRqRmdsY3lrdjVlVU9vMEM2Uk5nanlyTjdVMDVMQQ?oc=5)
-
-2026-05-20 <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNXUyNDRJUXJ2MF9heFllVm44VFdrMjItXzJtak4yLWdETi1falBRUE1pWUExam95US1HRkdpSEpKTi1LZ0c5b3Zwd1pKcHdhaFlDTzkwcmVPYk45V2JjaXBTS1R6clBxbG1SLVpmQzNIS1B3eGRqRmdsY3lrdjVlVU9vMEM2Uk5nanlyTjdVMDVMQQ?oc=5)
-
----
-
-### [The expert’s guide to vitamin B12 deficiency - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDc4WXFKNFVyanRVcnV3dERzOHgxbUZ2dF9qS200eG1FdWJuT0VjUHhrY1dhbmFkRXlidlAwcnpwM0k5UWxyTEZhSUdULWswZUtrVFA5NnE2U2NtQ2RqSkVwenB5Zlhpc2pUaFBPQnc5d0FLdlEzTXdZQWhMa29qd3NXN0k3QV9ZNjFzcFVIVzV2bms?oc=5)
-
-2026-05-20 <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDc4WXFKNFVyanRVcnV3dERzOHgxbUZ2dF9qS200eG1FdWJuT0VjUHhrY1dhbmFkRXlidlAwcnpwM0k5UWxyTEZhSUdULWswZUtrVFA5NnE2U2NtQ2RqSkVwenB5Zlhpc2pUaFBPQnc5d0FLdlEzTXdZQWhMa29qd3NXN0k3QV9ZNjFzcFVIVzV2bms?oc=5)
-
----
-
-### [‘People should aim to get a variety’: the pros and cons of popular protein sources - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxObENCbi0zTmF0QlFsQlRjSTIyX1ktMmRXSnFhOW5wSW82cG9NT3lKX3pFaloycWw2RDJJUjN6TzI3ay1GUVRjUm1rdExrSEdTWUxaVkpKTnVPMUdzLXpBMTNEb1NkU242b2tEVVBmRUNIZ0ZnYVJuUjAxU25uUEdMV0hYYnJkQUZBR1E?oc=5)
-
-2026-05-20 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxObENCbi0zTmF0QlFsQlRjSTIyX1ktMmRXSnFhOW5wSW82cG9NT3lKX3pFaloycWw2RDJJUjN6TzI3ay1GUVRjUm1rdExrSEdTWUxaVkpKTnVPMUdzLXpBMTNEb1NkU242b2tEVVBmRUNIZ0ZnYVJuUjAxU25uUEdMV0hYYnJkQUZBR1E?oc=5)
-
----
-
-### [«S-MEDS» : quelle est cette nouvelle méthode pour vivre plus longtemps, préconisée par des chercheurs d'Oxford ?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWFmaEVzV0tiS0RtNXZhQU1sMWZwNm1tb0VteFA2dVN3TlhGMFFEaHVycUo5VzRkZ1RhZVRDalc5WDZma3pTbEZYaTVJMWdmdnJacjdDU1p2NDg1bVZzRnpOanBPaVZES3piVjJLWVBTQi1JUVB3ZjhUSDhpd0hBNHBuSS02bUFxOU9iX09XSDVFUVZpdUhDN1VFLVRvNmVUeDNKQzQ4MXFKek9QVllaMzNUWERnMXlnRUFJ0gHAAUFVX3lxTE5CdTIzMm9mZ1dLTXBEelRzU0k2VzNnelpQVVk2cEFNOFVCN0lwdktObzVSSm4zTTJzNmZjcTNucGh3SlVDbmxPcS1YdTBmWnlpTlp5ekRoTjhRSHh6bl9LNXJmaFVDZzl6Zk5qbUU5N2haQWttUG5zVmVIMDZCMVBWYWZuMEpOeUQ4dEM4U3l0RDlpS0NoTEpzZlR0ZjlVdW5vOEVJbjFwZXJhUmNpT2o0RUt6MmthX2wtX0Vkc0Zmag?oc=5)
-
-2026-05-20 <span class="news-indication-tag">AF</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWFmaEVzV0tiS0RtNXZhQU1sMWZwNm1tb0VteFA2dVN3TlhGMFFEaHVycUo5VzRkZ1RhZVRDalc5WDZma3pTbEZYaTVJMWdmdnJacjdDU1p2NDg1bVZzRnpOanBPaVZES3piVjJLWVBTQi1JUVB3ZjhUSDhpd0hBNHBuSS02bUFxOU9iX09XSDVFUVZpdUhDN1VFLVRvNmVUeDNKQzQ4MXFKek9QVllaMzNUWERnMXlnRUFJ0gHAAUFVX3lxTE5CdTIzMm9mZ1dLTXBEelRzU0k2VzNnelpQVVk2cEFNOFVCN0lwdktObzVSSm4zTTJzNmZjcTNucGh3SlVDbmxPcS1YdTBmWnlpTlp5ekRoTjhRSHh6bl9LNXJmaFVDZzl6Zk5qbUU5N2haQWttUG5zVmVIMDZCMVBWYWZuMEpOeUQ4dEM4U3l0RDlpS0NoTEpzZlR0ZjlVdW5vOEVJbjFwZXJhUmNpT2o0RUt6MmthX2wtX0Vkc0Zmag?oc=5)
-
----
-
-### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmdlSTVzOGpQUS0xOF9BT21BM2VIV3ZNTzZNOFpGNm4yRW9FbFNGQ3ZyUXphZlltVnl2a2ZwLTZmZ0wwc1ZrbGI4cW02N3JnbEh4MDFDVnlkYzlrNUU5a3FRYWVTdnpCZlQzbXVVRW5MOXAtSHNBR1R2YWwzc0pUY1RKSkhMSWhDWlduZmRTNGdZcXpmR3NHOUFFNWdKUEI2RXY5QlpqZzhOZlR0NkRFQ09pZFVhM3RUX2JNNzNFSThBUQ?oc=5)
-
-2026-05-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmdlSTVzOGpQUS0xOF9BT21BM2VIV3ZNTzZNOFpGNm4yRW9FbFNGQ3ZyUXphZlltVnl2a2ZwLTZmZ0wwc1ZrbGI4cW02N3JnbEh4MDFDVnlkYzlrNUU5a3FRYWVTdnpCZlQzbXVVRW5MOXAtSHNBR1R2YWwzc0pUY1RKSkhMSWhDWlduZmRTNGdZcXpmR3NHOUFFNWdKUEI2RXY5QlpqZzhOZlR0NkRFQ09pZFVhM3RUX2JNNzNFSThBUQ?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmdlSTVzOGpQUS0xOF9BT21BM2VIV3ZNTzZNOFpGNm4yRW9FbFNGQ3ZyUXphZlltVnl2a2ZwLTZmZ0wwc1ZrbGI4cW02N3JnbEh4MDFDVnlkYzlrNUU5a3FRYWVTdnpCZlQzbXVVRW5MOXAtSHNBR1R2YWwzc0pUY1RKSkhMSWhDWlduZmRTNGdZcXpmR3NHOUFFNWdKUEI2RXY5QlpqZzhOZlR0NkRFQ09pZFVhM3RUX2JNNzNFSThBUQ?oc=5)
+### [Künstliche Intelligenz analysiert ganze Mauskörper bis auf Zellebene - LMU Klinikum](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcks4LTdnbFhJTnhOWDFaYjVLMjE0Xzl6MXc3MTlwTUdSZWdzZS1wOS1VZU16UkljU0V3SVBFU2lKak9CZGxhRDB5WjIzNGlmV3dDTEhmS3VQQ0xBMDdhUUdTV3Nqc2JuMUl4Mi0zUGNjS3MyYkJkUHZCTExxV1ZkM1EzQkVvVVAyNWN2RmxIYzUySWdVM0lveGhFTERNVEtQV2tXelAycWtJZWVNQnkySmZ3YThQVGRQQWFnMjVwbmVteWlJZjhqRUJ3a1VIY2J6bFJCUA?oc=5)
 
-2026-05-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmdlSTVzOGpQUS0xOF9BT21BM2VIV3ZNTzZNOFpGNm4yRW9FbFNGQ3ZyUXphZlltVnl2a2ZwLTZmZ0wwc1ZrbGI4cW02N3JnbEh4MDFDVnlkYzlrNUU5a3FRYWVTdnpCZlQzbXVVRW5MOXAtSHNBR1R2YWwzc0pUY1RKSkhMSWhDWlduZmRTNGdZcXpmR3NHOUFFNWdKUEI2RXY5QlpqZzhOZlR0NkRFQ09pZFVhM3RUX2JNNzNFSThBUQ?oc=5)
+來源：[LMU Klinikum](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcks4LTdnbFhJTnhOWDFaYjVLMjE0Xzl6MXc3MTlwTUdSZWdzZS1wOS1VZU16UkljU0V3SVBFU2lKak9CZGxhRDB5WjIzNGlmV3dDTEhmS3VQQ0xBMDdhUUdTV3Nqc2JuMUl4Mi0zUGNjS3MyYkJkUHZCTExxV1ZkM1EzQkVvVVAyNWN2RmxIYzUySWdVM0lveGhFTERNVEtQV2tXelAycWtJZWVNQnkySmZ3YThQVGRQQWFnMjVwbmVteWlJZjhqRUJ3a1VIY2J6bFJCUA?oc=5)
 
 ---
 

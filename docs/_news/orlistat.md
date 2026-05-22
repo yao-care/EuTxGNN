@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Obesity is your fault - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1BkaF92cGFydVVnb2VTLWxCcUJWTmZYWjgzVVVCb3pDTHJUMk1ORnJFNkR0VkFPQkdkMTBOUnFXc0h6NEdnMkRvWnBWYnpJa3dfYkRyQkp0MC1oQkhKZlc1V25YXzA4NFVObTZlZEZmLURlXzI2OUdxbTVEeFBrMDVUZlVEQlp3aGlmdjV6STNsb2I5QkR3enNuTmpLa1UxSS1jaWNB?oc=5)
 
 2026-05-22 <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1BkaF92cGFydVVnb2VTLWxCcUJWTmZYWjgzVVVCb3pDTHJUMk1ORnJFNkR0VkFPQkdkMTBOUnFXc0h6NEdnMkRvWnBWYnpJa3dfYkRyQkp0MC1oQkhKZlc1V25YXzA4NFVObTZlZEZmLURlXzI2OUdxbTVEeFBrMDVUZlVEQlp3aGlmdjV6STNsb2I5QkR3enNuTmpLa1UxSS1jaWNB?oc=5)
+
+---
+
+### [Künstliche Intelligenz analysiert ganze Mauskörper bis auf Zellebene - LMU Klinikum](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcks4LTdnbFhJTnhOWDFaYjVLMjE0Xzl6MXc3MTlwTUdSZWdzZS1wOS1VZU16UkljU0V3SVBFU2lKak9CZGxhRDB5WjIzNGlmV3dDTEhmS3VQQ0xBMDdhUUdTV3Nqc2JuMUl4Mi0zUGNjS3MyYkJkUHZCTExxV1ZkM1EzQkVvVVAyNWN2RmxIYzUySWdVM0lveGhFTERNVEtQV2tXelAycWtJZWVNQnkySmZ3YThQVGRQQWFnMjVwbmVteWlJZjhqRUJ3a1VIY2J6bFJCUA?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[LMU Klinikum](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcks4LTdnbFhJTnhOWDFaYjVLMjE0Xzl6MXc3MTlwTUdSZWdzZS1wOS1VZU16UkljU0V3SVBFU2lKak9CZGxhRDB5WjIzNGlmV3dDTEhmS3VQQ0xBMDdhUUdTV3Nqc2JuMUl4Mi0zUGNjS3MyYkJkUHZCTExxV1ZkM1EzQkVvVVAyNWN2RmxIYzUySWdVM0lveGhFTERNVEtQV2tXelAycWtJZWVNQnkySmZ3YThQVGRQQWFnMjVwbmVteWlJZjhqRUJ3a1VIY2J6bFJCUA?oc=5)
 
 ---
 
@@ -70,7 +78,15 @@ permalink: /news/orlistat/
 
 ---
 
-### [Tra le 8 e le 10 ore a settimana: la vera dose di movimento per abbattere il rischio infarto](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnBKRkgxUFlGdGFiTi1uQ2htSFhrWWtSeW9BbWZMb0NBZ0dONkVOVVd5YW9Ud0pOV20xVmJ1eFRVR1BfM0RyZWUyaF95Z3hpTEZtQW4wN2VvRVJCTGwtWFZiOXl2MXBNTmR1WlJOdERYaklQZnhSUHB2ekZYYmdXQkZLWjVZZUJycUE?oc=5)
+### [Colesterolo ‘cattivo’, non basta ridurlo: “Le fluttuazioni aumentano del 26% il rischio di morte” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbG9sN3FUdlMxWk1OeVh1bVY5bDhzeDlhYVhQaFRJbHJCMU02TmJJRTBqQ2Y4Q1haaVpYb1V3YmVrYURDclNpQ181aGNrZE1jb2MyZDVKSjdUMDdHemVnX3Z3QzBVb0Z2d285a3Etb0p3VEJ6SElOUVZLODNTU096UEROV0hHZS1XbV96TVFYWTRoQ09qbXE4SWtlbXFLWUdk?oc=5)
+
+2026-05-21 <span class="news-indication-tag">ictus</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbG9sN3FUdlMxWk1OeVh1bVY5bDhzeDlhYVhQaFRJbHJCMU02TmJJRTBqQ2Y4Q1haaVpYb1V3YmVrYURDclNpQ181aGNrZE1jb2MyZDVKSjdUMDdHemVnX3Z3QzBVb0Z2d285a3Etb0p3VEJ6SElOUVZLODNTU096UEROV0hHZS1XbV96TVFYWTRoQ09qbXE4SWtlbXFLWUdk?oc=5)
+
+---
+
+### [Infarto e ictus: per evitarli servono 10 ore di sport a settimana](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnBKRkgxUFlGdGFiTi1uQ2htSFhrWWtSeW9BbWZMb0NBZ0dONkVOVVd5YW9Ud0pOV20xVmJ1eFRVR1BfM0RyZWUyaF95Z3hpTEZtQW4wN2VvRVJCTGwtWFZiOXl2MXBNTmR1WlJOdERYaklQZnhSUHB2ekZYYmdXQkZLWjVZZUJycUE?oc=5)
 
 2026-05-21 <span class="news-indication-tag">ictus</span>
 
@@ -83,14 +99,6 @@ permalink: /news/orlistat/
 2026-05-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Taunus-Nachrichten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
-
----
-
-### [KI-Atlas deckt verborgene Ganzkörperschäden durch Adipositas auf - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmdlSTVzOGpQUS0xOF9BT21BM2VIV3ZNTzZNOFpGNm4yRW9FbFNGQ3ZyUXphZlltVnl2a2ZwLTZmZ0wwc1ZrbGI4cW02N3JnbEh4MDFDVnlkYzlrNUU5a3FRYWVTdnpCZlQzbXVVRW5MOXAtSHNBR1R2YWwzc0pUY1RKSkhMSWhDWlduZmRTNGdZcXpmR3NHOUFFNWdKUEI2RXY5QlpqZzhOZlR0NkRFQ09pZFVhM3RUX2JNNzNFSThBUQ?oc=5)
-
-2026-05-20 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmdlSTVzOGpQUS0xOF9BT21BM2VIV3ZNTzZNOFpGNm4yRW9FbFNGQ3ZyUXphZlltVnl2a2ZwLTZmZ0wwc1ZrbGI4cW02N3JnbEh4MDFDVnlkYzlrNUU5a3FRYWVTdnpCZlQzbXVVRW5MOXAtSHNBR1R2YWwzc0pUY1RKSkhMSWhDWlduZmRTNGdZcXpmR3NHOUFFNWdKUEI2RXY5QlpqZzhOZlR0NkRFQ09pZFVhM3RUX2JNNzNFSThBUQ?oc=5)
 
 ---
 

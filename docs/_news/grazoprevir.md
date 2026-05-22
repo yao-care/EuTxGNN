@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（14 則）
 
-### [Urgente: Riesgo de ébola se eleva a "muy alto" en RD del Congo, dice jefe de OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSkFmZlY2bHVMeDBjWkhpNU9wUVdMMUFLWkw4bVMwaW14a3hjNnZfd2hOY3NFN0N1ZE9sQmlhaXBUOGlkZWh4Mkxtczd3R2FzSU1ENDJDOUxTUE1TNGg0a1lSaFZFYVhaR1ZmT2FHMTZqOWpyVl9qbGlMM0JqNzZxamNGaw?oc=5)
+### [Brote de ébola en RD del Congo se propaga rápidamente y se declara riesgo muy alto a nivel nacional, dice OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRW5jcW0zR3RYU3ptOWszWEhvSV9lZWpZN2FtdU1mbGQ2MHNNSTFRSEN4cm9DZG9FZDkwTXBRcFN1V3RaTU9KQm9aR1M2NnV4eVczRjRzUzVHdWszSUlvTmlhSzFpZ09WUHlUWmtXcFRJdWEwZC1Ic2RySGxIYmJZVUx6WQ?oc=5)
 
 2026-05-22 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">MS</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSkFmZlY2bHVMeDBjWkhpNU9wUVdMMUFLWkw4bVMwaW14a3hjNnZfd2hOY3NFN0N1ZE9sQmlhaXBUOGlkZWh4Mkxtczd3R2FzSU1ENDJDOUxTUE1TNGg0a1lSaFZFYVhaR1ZmT2FHMTZqOWpyVl9qbGlMM0JqNzZxamNGaw?oc=5)
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRW5jcW0zR3RYU3ptOWszWEhvSV9lZWpZN2FtdU1mbGQ2MHNNSTFRSEN4cm9DZG9FZDkwTXBRcFN1V3RaTU9KQm9aR1M2NnV4eVczRjRzUzVHdWszSUlvTmlhSzFpZ09WUHlUWmtXcFRJdWEwZC1Ic2RySGxIYmJZVUx6WQ?oc=5)
+
+---
+
+### [La OMS acuerda una estrategia contra la tuberculosis más allá de 2030](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY252UDhFc2JnTHJFSnNlZWE0dTVHay1NT002U2RzaHBqX21pYmoyTjJ0aFR6aF92UEFZQ3NjWjBzd3F0VWtjTmVyS2FsNXNmQmVJclNyQVFMR3FpRXBMYWZWeGNBTU5tZC1vWGUwLWdOWUlnbnNwRXJRZDBpUFZobi15NEVXcDJ5TUNlcnBB?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY252UDhFc2JnTHJFSnNlZWE0dTVHay1NT002U2RzaHBqX21pYmoyTjJ0aFR6aF92UEFZQ3NjWjBzd3F0VWtjTmVyS2FsNXNmQmVJclNyQVFMR3FpRXBMYWZWeGNBTU5tZC1vWGUwLWdOWUlnbnNwRXJRZDBpUFZobi15NEVXcDJ5TUNlcnBB?oc=5)
+
+---
+
+### [Neue Hoffnung bei Hepatitis B: γδ T-Zellen als Schlüssel zur funktionellen Heilung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbjluSm1Td2E4YkxFOVFsMjdqTmR1YVpRRmFqZm1Oc0ZZcFFMLXp6S3NvSXdMek14LWFwMUExelMwRFF4WVRuTkhUWXdLLUsxOFZ3R0VrckhINUY1Z0dmZnlWcXlLVEo4U2xKTldhTFRnZUI1NjRycVR5bGRSTmNuUUVJODcyV2MzX1hDc2gwNWV6VkE0M3lhd1RhRExxMnlEd0VJWk9YRV9BTWFaNkpXQ3U3a0twVzhkOFRObVV6c2ZmUDEzWkNpSnItazJXdEJXM2NCTmFPbzRSTHhtZXRiSU0zMDhOUQ?oc=5)
+
+2026-05-22 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbjluSm1Td2E4YkxFOVFsMjdqTmR1YVpRRmFqZm1Oc0ZZcFFMLXp6S3NvSXdMek14LWFwMUExelMwRFF4WVRuTkhUWXdLLUsxOFZ3R0VrckhINUY1Z0dmZnlWcXlLVEo4U2xKTldhTFRnZUI1NjRycVR5bGRSTmNuUUVJODcyV2MzX1hDc2gwNWV6VkE0M3lhd1RhRExxMnlEd0VJWk9YRV9BTWFaNkpXQ3U3a0twVzhkOFRObVV6c2ZmUDEzWkNpSnItazJXdEJXM2NCTmFPbzRSTHhtZXRiSU0zMDhOUQ?oc=5)
+
+---
+
+### [Hantavirus, i casi salgono a 12: positivo un membro dello staff della Hondius rientrato a Tenerife - la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMA?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMA?oc=5)
+
+---
+
+### [“Ebola, rischio globale al massimo livello possibile”, l’Oms alza l’allerta nella Repubblica Democratica del Congo - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkx0RGhZYXU2VDM4QlBOc3dqcy04c25qcnJRdlk4aWFyZmlVZEtrZWpFeE0ydkN5RmcxRzdIbk5ZYTRVZ1N2LWR6dFRpcWJXektVZzhHazNZc1JWR29sQVIzRVlJZFZNR3V0YjJtdWU3ZzRSOEJkNGtSeFNwWGFuN1pCX085S3VmZkZGdU9XZGFwSGJxX3JNbw?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkx0RGhZYXU2VDM4QlBOc3dqcy04c25qcnJRdlk4aWFyZmlVZEtrZWpFeE0ydkN5RmcxRzdIbk5ZYTRVZ1N2LWR6dFRpcWJXektVZzhHazNZc1JWR29sQVIzRVlJZFZNR3V0YjJtdWU3ZzRSOEJkNGtSeFNwWGFuN1pCX085S3VmZkZGdU9XZGFwSGJxX3JNbw?oc=5)
+
+---
+
+### [Un informe de la Junta de Monitorización de la Preparación Global de la OMS advierte sobre el peligro de nuevas pandemias "más frecuentes y con consecuencias más graves" e insta a la colaboración internacional para prevenirlas](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[maldita.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
 
 ---
 
@@ -70,19 +110,35 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Mondiali 2026, ripescaggio Italia: ebola in Congo mette a rischio la partecipazione - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnJNcnJlQWtNblVNTzVnb3BaNW9qRU01d2lOY2k3LUU0ZDVHYm9jUjQ0bGpnR3djSTNPQkpSTUFRWVVUN00zdGVyMUZsRzQ5THM1NWpRQ1ZoWHJ1N1hzLWlXTGFTQnUwYVdlT0hyNmlmOEl6Wm15R21qOWEzMUlUdEY4SVRPMjF3MklOdE9SN2tTajhIcGx1UHVwZURwNGlmc2paRFV6ZF9HS1RxSEpqdWo1dnZRT3M3MG5j?oc=5)
+### [Alzheimer: depressione, sedentarietà e sonno segnali d’allarme per le donne - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
 
-2026-05-22 <span class="news-indication-tag">MS</span>
+2026-05-22 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnJNcnJlQWtNblVNTzVnb3BaNW9qRU01d2lOY2k3LUU0ZDVHYm9jUjQ0bGpnR3djSTNPQkpSTUFRWVVUN00zdGVyMUZsRzQ5THM1NWpRQ1ZoWHJ1N1hzLWlXTGFTQnUwYVdlT0hyNmlmOEl6Wm15R21qOWEzMUlUdEY4SVRPMjF3MklOdE9SN2tTajhIcGx1UHVwZURwNGlmc2paRFV6ZF9HS1RxSEpqdWo1dnZRT3M3MG5j?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
 
 ---
 
-### [Just 4 Weeks of Simple Diet Changes Reversed Signs of Aging in Older Adults](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHpMZ0IwRVlVd1U2WWdHNEppcFE1NEZVUG1fdDE2Z2pBQkNScFpvek1sYUgyeDctOWtGSFR1c21lcmVUX21hd3VWWEszR045SkZrSDlQdV9jWHZnNnVLVVRzRURDQ24wcnhjOU9NZ3lpT09WNjU2dElpTlNrbGUwN3Y1X1VOQ1AzYVhLcEpJc2N3S0s4VUtGYmlKVWc3NFQ0Mnk0?oc=5)
+### [Vitamine D : quelle bonne dose de soleil pour ne pas en manquer ? - Sud Ouest](https://news.google.com/rss/articles/CBMivwFBVV95cUxONEpudmxRRkhKS1hNaUVtcWQ1VEt4R0Flbmw2WTVkdndhYy1QaXN4RGc0N0ZobXFGSUFYamx6RXpPZXZYOGNkVjFUQjJCYnZRSmwzS2U4eFM1VHpNNzZFRjJkNWY3YS0zcVhOaG90dmI1M3RuOUN1WXNfU01iM1Z2NGhHSnlCNWxmUGJTNmF1dXNSWjA3MHg5dFpjbGV0c2Y0dUc3eWNwcHhfclpCdnJYOTk1bFNrUkNnYy1EMXZiVQ?oc=5)
 
-2026-05-21 <span class="news-indication-tag">MS</span>
+2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHpMZ0IwRVlVd1U2WWdHNEppcFE1NEZVUG1fdDE2Z2pBQkNScFpvek1sYUgyeDctOWtGSFR1c21lcmVUX21hd3VWWEszR045SkZrSDlQdV9jWHZnNnVLVVRzRURDQ24wcnhjOU9NZ3lpT09WNjU2dElpTlNrbGUwN3Y1X1VOQ1AzYVhLcEpJc2N3S0s4VUtGYmlKVWc3NFQ0Mnk0?oc=5)
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMivwFBVV95cUxONEpudmxRRkhKS1hNaUVtcWQ1VEt4R0Flbmw2WTVkdndhYy1QaXN4RGc0N0ZobXFGSUFYamx6RXpPZXZYOGNkVjFUQjJCYnZRSmwzS2U4eFM1VHpNNzZFRjJkNWY3YS0zcVhOaG90dmI1M3RuOUN1WXNfU01iM1Z2NGhHSnlCNWxmUGJTNmF1dXNSWjA3MHg5dFpjbGV0c2Y0dUc3eWNwcHhfclpCdnJYOTk1bFNrUkNnYy1EMXZiVQ?oc=5)
+
+---
+
+### [Anxiété et dépression : 1,2 milliard de personnes touchées dans le monde selon une étude - Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
+
+2026-05-21 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
+
+---
+
+### [Urgent holiday warning after measles outbreak at Spanish tourist hotspot - as cases DOUBLE in a week - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEFrS09QSzRFZ09kVm5ZNkN2RjFfRllCd192SUhlc3k1LTRCUW9xX0N5OTItOUhmdXRJM0thR2x0anNIZk9qTTd5OGtkalhTcE5aNzFHNUdwcnRuLXBXaDJrWVgwU1VFTVQzbm9tX2NCZ29sZ2NPZkFxdFNNd3g3YTItY2Z2WWl3NTQ3U0RUcnU5dS1LZG1kVGMyR0ROcVU?oc=5)
+
+2026-05-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEFrS09QSzRFZ09kVm5ZNkN2RjFfRllCd192SUhlc3k1LTRCUW9xX0N5OTItOUhmdXRJM0thR2x0anNIZk9qTTd5OGtkalhTcE5aNzFHNUdwcnRuLXBXaDJrWVgwU1VFTVQzbm9tX2NCZ29sZ2NPZkFxdFNNd3g3YTItY2Z2WWl3NTQ3U0RUcnU5dS1LZG1kVGMyR0ROcVU?oc=5)
 
 ---
 
@@ -94,17 +150,9 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Inside Vinted’s hidden ‘pharmacy’ selling injectables, creams that can burn your face and prescription drugs - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmItbHdlNEdfSE80Zjk3LXFhdzdvdGpaRW5xd3NKSlVZNTdlRjc3czcyWGNlMFdmT3hVTXNESXA4OXVPa0tNOEc0Um9yb09lbmt2cDI1RzJRRVdPdWdLYTZ0VXlIbVZYVVVWSjZwUXhlVERNeEtrSktVMkt0cWJJRlV2M01iaXhNRmVNNGtHczQ2WWlSTmJlRjh6dUZXaFhjVzJZ?oc=5)
-
-2026-05-21 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmItbHdlNEdfSE80Zjk3LXFhdzdvdGpaRW5xd3NKSlVZNTdlRjc3czcyWGNlMFdmT3hVTXNESXA4OXVPa0tNOEc0Um9yb09lbmt2cDI1RzJRRVdPdWdLYTZ0VXlIbVZYVVVWSjZwUXhlVERNeEtrSktVMkt0cWJJRlV2M01iaXhNRmVNNGtHczQ2WWlSTmJlRjh6dUZXaFhjVzJZ?oc=5)
-
----
-
 ### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
-2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
+2026-05-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
@@ -115,14 +163,6 @@ permalink: /news/grazoprevir/
 2026-05-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Taunus-Nachrichten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
-
----
-
-### [Common asthma drug helps fight hard-to-treat cancers, including aggressive breast cancers, early study finds - Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
-
-2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
 
 ---
 
