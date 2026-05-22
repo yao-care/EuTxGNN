@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Depression: Welche Persönlichkeitsstrukturen besonders gefährdet sind.](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbnVhOUxXSzF6WVBYRWdQeW52V2R6MWxwOUtKMWtZa09mczllOXFyZWJ2S0Vad0cwVWN4MVZLSHlmTFpqbHYxc2ZnY2c3blZaYnJiMmliY3pGMWI0d3NPRHdwZHlmYzJfZUVUY2xBakQ4bmZsSGlPUHBqRS05Y1gzeENFbmp6VGNGbklCRTIzc29lbzhBcVFsb3o5UTNxUEtOZ0Nzd2p3cEFFU3hxRlFmZUE4VTY0RUFoZExLenpTTHdmRmpTSV9hU1lqRURXMkE1?oc=5)
-
-2026-05-22 <span class="news-indication-tag">depression</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbnVhOUxXSzF6WVBYRWdQeW52V2R6MWxwOUtKMWtZa09mczllOXFyZWJ2S0Vad0cwVWN4MVZLSHlmTFpqbHYxc2ZnY2c3blZaYnJiMmliY3pGMWI0d3NPRHdwZHlmYzJfZUVUY2xBakQ4bmZsSGlPUHBqRS05Y1gzeENFbmp6VGNGbklCRTIzc29lbzhBcVFsb3o5UTNxUEtOZ0Nzd2p3cEFFU3hxRlFmZUE4VTY0RUFoZExLenpTTHdmRmpTSV9hU1lqRURXMkE1?oc=5)
-
----
-
-### [Los casos de salud mental prácticamente se duplican en tres décadas](https://news.google.com/rss/articles/CBMixwFBVV95cUxQelBLcGg2QkdQNUE0UnZRMzNLYmg1a0xzam55TDJQNWN0aVVQT1JJN1FOQ2V0NW1kdmNOaDdmc0l1WFdrc0pEWUEzMVVNTmFPU04xOE1STlZXcW9MRno5YmNNMjNnOFQySl9IakRpY2thNDU1aHVfVDhlVzdLNHZuOHJZNm5rdVN2anNCMjJOQnRtdjFQVzlDVkdQQ3JGQUxRdHRVbHhUTmN3T1E2d0pQN3dmZmUwYWwzTERXVWRvdkQ0ZzNWN2sw?oc=5)
-
-2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMixwFBVV95cUxQelBLcGg2QkdQNUE0UnZRMzNLYmg1a0xzam55TDJQNWN0aVVQT1JJN1FOQ2V0NW1kdmNOaDdmc0l1WFdrc0pEWUEzMVVNTmFPU04xOE1STlZXcW9MRno5YmNNMjNnOFQySl9IakRpY2thNDU1aHVfVDhlVzdLNHZuOHJZNm5rdVN2anNCMjJOQnRtdjFQVzlDVkdQQ3JGQUxRdHRVbHhUTmN3T1E2d0pQN3dmZmUwYWwzTERXVWRvdkQ0ZzNWN2sw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [KI verdoppelt Heilungschancen bei Depressionen - AD HOC NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0l1MzRXajNsODlrVkw4WUlIbVBxWG1sNjlyNnVVV1dXSWcyZ2s1LTBRcUJlZmRIaVRwMFlBbDhqVUh6V0x5NnY4eEZ5dHhRdkgwQ2dhX1VBTVZKRmFVakhXSTRTM1BrQUJjcmltbXduQVNfUUs1b1g3em16YzE2X0FjQnBxcVc4eThrSzRLeUYzalpQNkU4T3BWcw?oc=5)
 
@@ -78,19 +62,11 @@ permalink: /news/vortioxetine/
 
 ---
 
-### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
-2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
+2026-05-20 <span class="news-drug-tag">Clopidogrel</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
-
----
-
-### [La « dépression à haut niveau de fonctionnement », cette maladie méconnue consistant à masquer son mal-être par sens du devoir - Le Figaro Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZjNxczZxcUF6OGxCd294TGFiNl9sVWRxMU1zZ0pfTHBoWGIwVGhSRVpIckRKY1oyUFRmTEpRZWFWUzNPMk80ZmhkTmo1RnhwbWJwc2RWME15Y1MyVUxBTS13WVRrLXNXRHBNTVJWQ2hxZTVyUVdXQUZRcmpXT1lGcFlLVlpXaVlVODhFU21MNklWNU9iY284MzM2VjNYVTcxT3FuS09JajVSeEFMemlKSWIxTDJtY0theW1YMi10cjlKNFFpVHZSdWo2c3dFVTZaNFlpX1RWYjlDTmtXRE95emxVU083cm5JMFJpRHVPRWllUEZYRFhqbA?oc=5)
-
-2026-05-20 <span class="news-indication-tag">dépression</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZjNxczZxcUF6OGxCd294TGFiNl9sVWRxMU1zZ0pfTHBoWGIwVGhSRVpIckRKY1oyUFRmTEpRZWFWUzNPMk80ZmhkTmo1RnhwbWJwc2RWME15Y1MyVUxBTS13WVRrLXNXRHBNTVJWQ2hxZTVyUVdXQUZRcmpXT1lGcFlLVlpXaVlVODhFU21MNklWNU9iY284MzM2VjNYVTcxT3FuS09JajVSeEFMemlKSWIxTDJtY0theW1YMi10cjlKNFFpVHZSdWo2c3dFVTZaNFlpX1RWYjlDTmtXRE95emxVU083cm5JMFJpRHVPRWllUEZYRFhqbA?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 ---
 

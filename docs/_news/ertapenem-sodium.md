@@ -14,7 +14,7 @@ permalink: /news/ertapenem-sodium/
 ---
 
 <p class="key-answer" data-question="Ertapenem Sodium 有什麼相關新聞？">
-<strong>Ertapenem Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ertapenem Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ertapenem-sodium/
 <p><a href="{{ '/drugs/ertapenem-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
-2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
+2026-05-20 <span class="news-drug-tag">Clopidogrel</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
-
----
-
-### [These are the best knee braces for arthritis, according to orthopedic surgeons](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
-
-2026-05-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="Tenecteplase 有什麼相關新聞？">
-<strong>Tenecteplase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenecteplase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tenecteplase/
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [PCOS heißt jetzt PMOS: Warum die häufige Frauenerkrankung umbenannt wird](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
+
+2026-05-22 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[netDoktor](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
+
+---
 
 ### [The benefits—and dangers—of optimism - The Economist](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
 
@@ -64,7 +72,7 @@ permalink: /news/tenecteplase/
 
 ### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
-2026-05-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 

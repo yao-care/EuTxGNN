@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [El brote del virus del Ébola en el Congo sigue avanzando: con "160 muertes sospechosas" y "671 posibles casos"](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQUQwZDRrVmxOSmMtemZHRkFwallyczFDMDkxNVA3VmdjeVZCbVRSczVCUkdUVGZTak12RkNPMGVMenNjcmpHOVlqeUFIY20zTDh3WVNTWGVPNGh2VTRWaHQ0T2MxbGxXaDgtdDhCa1VRNVZMLTFoQlVmdTdoV2xIbFBJNkpMaGp3R2xVM1FPMERweGZueVU3OG1MQjJJS1JEWDEtUVZhcXQ0YzcyTmNRNWRoVVVoMTNNR1Q4eGpoZWptQk9LMG5rMXA1VHVMallvbmtrRGxCeEJhbGRFVTBGUHBwbDE5bjhQenZtTlNON0VKNHpBcFRCODVCNNIB-wFBVV95cUxOOC1IR1ZiY1Q3S1ZJdzVNUlJQVUFZbzZwUHZkTTJ2aVRBLTQ2T2JNbFZGWEZSYlNxRWZVYjduOExaV1JSVFdfT25NdS1wMjdBWDI2N1hMUTVlUl8wRWRPTHBYWkszdFl1d1piX05OSXVBYnNnYVhDSTdCSWlXeGRaUlVzd0ZjZTllUmxIaTZvTTR6NmQ1QnhOQWl1YzNtT1lrakdYeGlkRDlpUkY4SXBVQUhfWl9MQ3JwY2VaZlp6UUktd1BYWHBsYzJXMnk0VlF0QTI5bDdEOXBGTDg4THlvckRFN2JRWkpvM3RTYlUtUnRkLUJwdkhfeVNmYw?oc=5)
+### [Urgente: Riesgo de ébola se eleva a "muy alto" en RD del Congo, dice jefe de OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSkFmZlY2bHVMeDBjWkhpNU9wUVdMMUFLWkw4bVMwaW14a3hjNnZfd2hOY3NFN0N1ZE9sQmlhaXBUOGlkZWh4Mkxtczd3R2FzSU1ENDJDOUxTUE1TNGg0a1lSaFZFYVhaR1ZmT2FHMTZqOWpyVl9qbGlMM0JqNzZxamNGaw?oc=5)
 
-2026-05-22 <span class="news-indication-tag">MS</span>
+2026-05-22 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">MS</span>
 
-來源：[LaSexta](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQUQwZDRrVmxOSmMtemZHRkFwallyczFDMDkxNVA3VmdjeVZCbVRSczVCUkdUVGZTak12RkNPMGVMenNjcmpHOVlqeUFIY20zTDh3WVNTWGVPNGh2VTRWaHQ0T2MxbGxXaDgtdDhCa1VRNVZMLTFoQlVmdTdoV2xIbFBJNkpMaGp3R2xVM1FPMERweGZueVU3OG1MQjJJS1JEWDEtUVZhcXQ0YzcyTmNRNWRoVVVoMTNNR1Q4eGpoZWptQk9LMG5rMXA1VHVMallvbmtrRGxCeEJhbGRFVTBGUHBwbDE5bjhQenZtTlNON0VKNHpBcFRCODVCNNIB-wFBVV95cUxOOC1IR1ZiY1Q3S1ZJdzVNUlJQVUFZbzZwUHZkTTJ2aVRBLTQ2T2JNbFZGWEZSYlNxRWZVYjduOExaV1JSVFdfT25NdS1wMjdBWDI2N1hMUTVlUl8wRWRPTHBYWkszdFl1d1piX05OSXVBYnNnYVhDSTdCSWlXeGRaUlVzd0ZjZTllUmxIaTZvTTR6NmQ1QnhOQWl1YzNtT1lrakdYeGlkRDlpUkY4SXBVQUhfWl9MQ3JwY2VaZlp6UUktd1BYWHBsYzJXMnk0VlF0QTI5bDdEOXBGTDg4THlvckRFN2JRWkpvM3RTYlUtUnRkLUJwdkhfeVNmYw?oc=5)
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSkFmZlY2bHVMeDBjWkhpNU9wUVdMMUFLWkw4bVMwaW14a3hjNnZfd2hOY3NFN0N1ZE9sQmlhaXBUOGlkZWh4Mkxtczd3R2FzSU1ENDJDOUxTUE1TNGg0a1lSaFZFYVhaR1ZmT2FHMTZqOWpyVl9qbGlMM0JqNzZxamNGaw?oc=5)
 
 ---
 
-### [An Early Warning Sign of Alzheimer's May Be Keeping Some Women Up at Night](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGhIZUZpSndwdDBIY1VVUGc4YWhSUUpET3NDaU5oOG1wRXNRcW5lREZNMGVQcGhzaWxkY2dJeXVxOUZIeF9TN0FmT1RBSVBkMEV4ZllrbzJMcEFVTW5lcl9UYnZwdHQ0bEU2OHh2TDlKdUU0dlpKS2xlZXRyNl9FZHVMVktCT1JxMF9MekVPbTBMTTI2Z0NQamp3MVVobUlwWjgyMQ?oc=5)
+### [I'm a cardiologist & most people dismiss 3 early heart symptoms as 'harmless' - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
 
-2026-05-22 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGhIZUZpSndwdDBIY1VVUGc4YWhSUUpET3NDaU5oOG1wRXNRcW5lREZNMGVQcGhzaWxkY2dJeXVxOUZIeF9TN0FmT1RBSVBkMEV4ZllrbzJMcEFVTW5lcl9UYnZwdHQ0bEU2OHh2TDlKdUU0dlpKS2xlZXRyNl9FZHVMVktCT1JxMF9MekVPbTBMTTI2Z0NQamp3MVVobUlwWjgyMQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
+
+---
+
+### [Mondiali 2026, ripescaggio Italia: ebola in Congo mette a rischio la partecipazione - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnJNcnJlQWtNblVNTzVnb3BaNW9qRU01d2lOY2k3LUU0ZDVHYm9jUjQ0bGpnR3djSTNPQkpSTUFRWVVUN00zdGVyMUZsRzQ5THM1NWpRQ1ZoWHJ1N1hzLWlXTGFTQnUwYVdlT0hyNmlmOEl6Wm15R21qOWEzMUlUdEY4SVRPMjF3MklOdE9SN2tTajhIcGx1UHVwZURwNGlmc2paRFV6ZF9HS1RxSEpqdWo1dnZRT3M3MG5j?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnJNcnJlQWtNblVNTzVnb3BaNW9qRU01d2lOY2k3LUU0ZDVHYm9jUjQ0bGpnR3djSTNPQkpSTUFRWVVUN00zdGVyMUZsRzQ5THM1NWpRQ1ZoWHJ1N1hzLWlXTGFTQnUwYVdlT0hyNmlmOEl6Wm15R21qOWEzMUlUdEY4SVRPMjF3MklOdE9SN2tTajhIcGx1UHVwZURwNGlmc2paRFV6ZF9HS1RxSEpqdWo1dnZRT3M3MG5j?oc=5)
 
 ---
 
@@ -78,7 +86,15 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Inside Vinted’s hidden ‘pharmacy’ selling injectables & creams that can burn you - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmItbHdlNEdfSE80Zjk3LXFhdzdvdGpaRW5xd3NKSlVZNTdlRjc3czcyWGNlMFdmT3hVTXNESXA4OXVPa0tNOEc0Um9yb09lbmt2cDI1RzJRRVdPdWdLYTZ0VXlIbVZYVVVWSjZwUXhlVERNeEtrSktVMkt0cWJJRlV2M01iaXhNRmVNNGtHczQ2WWlSTmJlRjh6dUZXaFhjVzJZ?oc=5)
+### [Prescriptions for ivermectin soar after Mel Gibson claims it cured friends of cancer - The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmg3cmdibWd2YjV3cV91MG5nNnVLMm0wZ2RSNVRoN3c4LWU1c3UzN0R6YXk1SUJzN2FaekRtTEZtVzEwcnU4TlVyT3EydzdlTDREZVhUaVRGVjFHbXFTS1dZRHUwS1h3SzFHdnRCcTMxbmNSRTZLX0ItTU9xR2VnY3pkNkxMX3NVNjNUaHV1VW9wbWw3MlRYUVB0Z1dPdlFZRVhvYkJJR2N2VFA4dXcybVNlQkhvLVdMNl9n?oc=5)
+
+2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmg3cmdibWd2YjV3cV91MG5nNnVLMm0wZ2RSNVRoN3c4LWU1c3UzN0R6YXk1SUJzN2FaekRtTEZtVzEwcnU4TlVyT3EydzdlTDREZVhUaVRGVjFHbXFTS1dZRHUwS1h3SzFHdnRCcTMxbmNSRTZLX0ItTU9xR2VnY3pkNkxMX3NVNjNUaHV1VW9wbWw3MlRYUVB0Z1dPdlFZRVhvYkJJR2N2VFA4dXcybVNlQkhvLVdMNl9n?oc=5)
+
+---
+
+### [Inside Vinted’s hidden ‘pharmacy’ selling injectables, creams that can burn your face and prescription drugs - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmItbHdlNEdfSE80Zjk3LXFhdzdvdGpaRW5xd3NKSlVZNTdlRjc3czcyWGNlMFdmT3hVTXNESXA4OXVPa0tNOEc0Um9yb09lbmt2cDI1RzJRRVdPdWdLYTZ0VXlIbVZYVVVWSjZwUXhlVERNeEtrSktVMkt0cWJJRlV2M01iaXhNRmVNNGtHczQ2WWlSTmJlRjh6dUZXaFhjVzJZ?oc=5)
 
 2026-05-21 <span class="news-indication-tag">MS</span>
 
@@ -86,11 +102,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [« Ce n’est pas un problème de kystes » : pourquoi vous ne souffrez officiellement plus du syndrome des ovaires polykystiques - Le Figaro Santé](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV3hETXp5dWVvQno4akRvNlhfYmd6RUdCQjh4M0EwQXF6M1FxRzNiT21YdWRIM19TYWpPTlhadUoycW5ZeUhnZTI2YTdSNXlWLTNBNnc3eU9LSjkxS1RnS2ZydzZnX3V6UC1uZjZYbzQteWdWNVM1SWtmRGRHb0k4MjVWZ3V2bkdRWlpvRDZPbzBvQV9kdjhoS3gwdXd1REFidXpVQ0dNa3c3Vk9KNmNncUdiRWFadEw5TXhoOXB0NGFvNTFiaTZPZGlpLXBwRHloQXJvNWJJSEswNnZhTVJEbkpxa1N3SkNwQnRST1ZNRm43TXFf?oc=5)
+### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
-2026-05-21 <span class="news-indication-tag">MS</span>
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV3hETXp5dWVvQno4akRvNlhfYmd6RUdCQjh4M0EwQXF6M1FxRzNiT21YdWRIM19TYWpPTlhadUoycW5ZeUhnZTI2YTdSNXlWLTNBNnc3eU9LSjkxS1RnS2ZydzZnX3V6UC1uZjZYbzQteWdWNVM1SWtmRGRHb0k4MjVWZ3V2bkdRWlpvRDZPbzBvQV9kdjhoS3gwdXd1REFidXpVQ0dNa3c3Vk9KNmNncUdiRWFadEw5TXhoOXB0NGFvNTFiaTZPZGlpLXBwRHloQXJvNWJJSEswNnZhTVJEbkpxa1N3SkNwQnRST1ZNRm43TXFf?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/interferon-beta-1a/
 2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Live Science](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXBvYXZSMV9pTHBwNnM2UG1Nc3c5LWdoSlZWa2d3X3J4VFlfQTlJc2NtSDVtcU9MMzVzcWltX3A1T3BrNjBoSzdpUV9GTFNYOEtnNWF3TnMwX3oxdTZhSE1RYjdmNWxPQVpsN3ZUd0pmaU1PaTlvanRyVWVCQXpwcF9yeklod0thbWlZTnRwRWViOTdmQ3F1WHZVYjR4U3c1aHJxb0tWd2huTmM2bHZfZzBNQ0dMVS1wTTBFLXNKYi16VGZNeXlKUWNYaV93SlJzWGJORUludnE2a2lpYjJmb3RR?oc=5)
-
----
-
-### [Study finds cancer-causing viruses emerging from wastewater](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
-
-2026-05-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkFWb0hhZlhqSVMzUE5ad2RQakJFSzZNakpvdEpHekJvc2ZVVHhzbE4yQ2lqM2lmWWhaREdyUUZ1X2JSUFZnRXdhOHJRTjZRengxTWhKbExveFBBbzlDdnNyX0prU1ZnUUdWdUJZWDJuT3pldVJSZWZweFlQQUFUZ3BWUWM1cEg1ckFqTGlZbzJQUVdUdGlrUmJYZVpyQmJiS0ZoX2hRdTg1WnZqcHBObGx0Y2dneTM5YVFBR3pVRG9oaGNUX2c?oc=5)
 
 ---
 

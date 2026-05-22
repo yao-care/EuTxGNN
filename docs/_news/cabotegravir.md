@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [Le monde appartient-il vraiment à ceux qui se lèvent tôt ? On a posé la question à une spécialiste du sommeil](https://news.google.com/rss/articles/CBMipAJBVV95cUxPMG84Wk0wR1hndGhZLTNrZFlQNUtXcVVpQ0htTnJXM0JPakxNampHa3I5bG5Ia1ZMZ0d1WGdnSVlzVUd2dm9FYzA2ODlkaDlOVEdlNDFNVVl5cWxZUkF6a2FCUTVQTjdsWnJfOXNldS1XQVIyRTlTSVVaOXplYzFOWmhkS0g4cVI2U0ZiUFdBeElLTEYyNGNxVEFONE5hX09VWkhLV0g4NGpFelNCYTJRSklEZVMyWUNGaDRDamladlhuWVItamtRZ05ubF9KcWxrTFo1YmxCMUcxZTAxYV9MWmp6Vjl5MURIZUZlNTE4SWFMelBIcWVSczZFOWhuNFZrNEJFZTVVTnFwS2h0YWQzQWM5c3NweEZGbzMtUFY5NDBwQ3M3?oc=5)
+### [Qatar-based British-Pakistani scientist develops AI eye scan for early dementia diagnosis](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
 
-2026-05-21 <span class="news-indication-tag">EPOC</span>
+2026-05-21 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">dementia</span>
 
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMipAJBVV95cUxPMG84Wk0wR1hndGhZLTNrZFlQNUtXcVVpQ0htTnJXM0JPakxNampHa3I5bG5Ia1ZMZ0d1WGdnSVlzVUd2dm9FYzA2ODlkaDlOVEdlNDFNVVl5cWxZUkF6a2FCUTVQTjdsWnJfOXNldS1XQVIyRTlTSVVaOXplYzFOWmhkS0g4cVI2U0ZiUFdBeElLTEYyNGNxVEFONE5hX09VWkhLV0g4NGpFelNCYTJRSklEZVMyWUNGaDRDamladlhuWVItamtRZ05ubF9KcWxrTFo1YmxCMUcxZTAxYV9MWmp6Vjl5MURIZUZlNTE4SWFMelBIcWVSczZFOWhuNFZrNEJFZTVVTnFwS2h0YWQzQWM5c3NweEZGbzMtUFY5NDBwQ3M3?oc=5)
+來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
+
+---
+
+### [Colorants et conservateurs alimentaires : une étude sur 100 000 Français montre jusqu’à + 49 % de risque de diabète, + 41 % pour le cancer - Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxQTWp1eXZ1dmJIc2hGUmRmY2NDUXhPdU81T3NOOVUxOENma1BWbjRVXzc1bXJZemRGNEZocjAxaE1UYlJzY0U5X2xOZ3J3NldaQmw4TUpyaVMzRXBhaW9iX2RpRGcxTU1nTkdFblhDZUhjNTAyZUxPeThfNDJPZnNPZmNjeHRaQ1IyNXVFOTVHYWdmUW5mY3hpQnpMcmY1MWxCV0kxVFVYX0VyNGkycWZIX0kyeDQxRUxsMFRBQlNOUHcwUWgyYUdTSHZrazl4SHFCSjJvLXlESDBmcXFCQWdObWVhODl6RXBkbTJpSldSNHRqZ3ZBOGJVR3NKcWszZ2J4TlMteFZB?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxQTWp1eXZ1dmJIc2hGUmRmY2NDUXhPdU81T3NOOVUxOENma1BWbjRVXzc1bXJZemRGNEZocjAxaE1UYlJzY0U5X2xOZ3J3NldaQmw4TUpyaVMzRXBhaW9iX2RpRGcxTU1nTkdFblhDZUhjNTAyZUxPeThfNDJPZnNPZmNjeHRaQ1IyNXVFOTVHYWdmUW5mY3hpQnpMcmY1MWxCV0kxVFVYX0VyNGkycWZIX0kyeDQxRUxsMFRBQlNOUHcwUWgyYUdTSHZrazl4SHFCSjJvLXlESDBmcXFCQWdObWVhODl6RXBkbTJpSldSNHRqZ3ZBOGJVR3NKcWszZ2J4TlMteFZB?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Les cas d'hypertension artérielle et crises cardiaques explosent et ces conservateurs alimentaires en sont responsables, selon une étude](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
-
----
-
 ### [Addio alle punture di insulina, per i diabetici nuove speranze da un gel bioartificiale](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ29YVm8zaXFYdThueTdRTDhTZEFBUjRIS2lEZkN5RU5CZ0FmN3psQ0plUTNRTkxVRTdBOC1vdThHeWdjVm5QLVpHZkM4ZmdkY28yQTdZWjZWdk5ENVNlbk14ZkVNQWMzcDhxSjNrLUxIcHNaajJqZmt4cWtqRUhxTjQ4Q2xyZHNsRzFDNkQwWm1LZw?oc=5)
 
 2026-05-21 <span class="news-indication-tag">diabetic</span>
@@ -94,35 +94,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
-2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
-
----
-
-### [These are the best knee braces for arthritis, according to orthopedic surgeons](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
-
-2026-05-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
 ---
 
-### [Typ-2-Diabetes: Stark in die Therapie starten, langfristig profitieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
+### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
-2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-05-20 <span class="news-drug-tag">Clopidogrel</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
-
----
-
-### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
-
-2026-05-18 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 ---
 

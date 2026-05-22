@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabete（diabetes mellitus） 相關新聞"
+title: "diabetic（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabete（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetic（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabete（diabetes mellitus） 相關新聞
+# diabetic（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetic（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetic（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetic」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,22 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（6 則）
 
+### [Qatar-based British-Pakistani scientist develops AI eye scan for early dementia diagnosis](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
+
+2026-05-21
+
+來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
+
+---
+
+### [Colorants et conservateurs alimentaires : une étude sur 100 000 Français montre jusqu’à + 49 % de risque de diabète, + 41 % pour le cancer - Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxQTWp1eXZ1dmJIc2hGUmRmY2NDUXhPdU81T3NOOVUxOENma1BWbjRVXzc1bXJZemRGNEZocjAxaE1UYlJzY0U5X2xOZ3J3NldaQmw4TUpyaVMzRXBhaW9iX2RpRGcxTU1nTkdFblhDZUhjNTAyZUxPeThfNDJPZnNPZmNjeHRaQ1IyNXVFOTVHYWdmUW5mY3hpQnpMcmY1MWxCV0kxVFVYX0VyNGkycWZIX0kyeDQxRUxsMFRBQlNOUHcwUWgyYUdTSHZrazl4SHFCSjJvLXlESDBmcXFCQWdObWVhODl6RXBkbTJpSldSNHRqZ3ZBOGJVR3NKcWszZ2J4TlMteFZB?oc=5)
+
+2026-05-21
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMihgJBVV95cUxQTWp1eXZ1dmJIc2hGUmRmY2NDUXhPdU81T3NOOVUxOENma1BWbjRVXzc1bXJZemRGNEZocjAxaE1UYlJzY0U5X2xOZ3J3NldaQmw4TUpyaVMzRXBhaW9iX2RpRGcxTU1nTkdFblhDZUhjNTAyZUxPeThfNDJPZnNPZmNjeHRaQ1IyNXVFOTVHYWdmUW5mY3hpQnpMcmY1MWxCV0kxVFVYX0VyNGkycWZIX0kyeDQxRUxsMFRBQlNOUHcwUWgyYUdTSHZrazl4SHFCSjJvLXlESDBmcXFCQWdObWVhODl6RXBkbTJpSldSNHRqZ3ZBOGJVR3NKcWszZ2J4TlMteFZB?oc=5)
+
+---
+
 ### [Curare il diabete di tipo 2 senza farmaci: al via negli USA studio innovativo basato sul vapore](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUC1wTnp1TTctR1FsbTgzeExkcVFrZEZ0Q3FvLTFwbGhCQ1pPLXVEWXB4NDJnZnl6NXNfQkxLd3ZsQlhPVlR4N1h0S3Y0S2JDV0doWkpja19oRFBzdlJGd0FyZWNuSzhEaEc2MzVnc0Z6U1ZxRUU3aS0zenJ0U1dibUpWaXdMNHJUVi14YTR1Z3dwSWRGcERXYlJpTUNNM0NEeFBySUc3UTlKZWhqNW01b3laazRfOURzNDhkRndtcnU4c0RrLXJSV3h3WHFNajNxWVRKdQ?oc=5)
 
 2026-05-21
@@ -132,14 +148,6 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Les cas d'hypertension artérielle et crises cardiaques explosent et ces conservateurs alimentaires en sont responsables, selon une étude](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
-
-2026-05-21
-
-來源：[CNews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTRUN19nb3h2cXMzaXktRjdfQkdzOG84WG91SjRwWGFjT1pNOW94OXlTNFJXUUdNb3NfTEFxNlBweVdpNzZHVFJIa3g3QUFOcEhhY3hWVjU1VDlIREt1OFNtaWJSeG1QVEZ6eVJBZkxvaHh4Y1dxTmNhbmdXenhmZktPTTQ3aTMyZmhfQkhnbjctX1NVaFVETW5ydVY3dWRYUXBpWjZscmNJcW1L0gGyAUFVX3lxTFA4OUtFV2RLaE01OUV2REtkRUpkVVNEeFFpcHUyLWFGQm1LczVNU0x1bnMzaVZ5WHFidVpGRGNwU3VEUi1kSUYwX1dfb281WWtJQ3VHQUpkeUdyQ3ZRMGtleEFPUmtiNWVndTBweDNCakg1NG1LMmh5bnFpUDQ3SXVEVTF4bXRESmJNZ0Nhdm92U1IwbEY2MExBbTNMWTBJWXI5eUpZV2dFUDZlNjZXbmRuMUE?oc=5)
-
----
-
 ### [Addio alle punture di insulina, per i diabetici nuove speranze da un gel bioartificiale](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ29YVm8zaXFYdThueTdRTDhTZEFBUjRIS2lEZkN5RU5CZ0FmN3psQ0plUTNRTkxVRTdBOC1vdThHeWdjVm5QLVpHZkM4ZmdkY28yQTdZWjZWdk5ENVNlbk14ZkVNQWMzcDhxSjNrLUxIcHNaajJqZmt4cWtqRUhxTjQ4Q2xyZHNsRzFDNkQwWm1LZw?oc=5)
 
 2026-05-21
@@ -148,19 +156,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Typ-2-Diabetes: Stark in die Therapie starten, langfristig profitieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
+### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
 2026-05-20
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmV1WUpVbWJGMXRBMk5sSG45U2NuLUtXQ2xPLTRrMGkzUkxuRFJSX0ljNi1mYWVqYzAtalF1TVJLU3R0T01GdTNpZm5wc2FHUlBsUk1vSjJud0xFaXUxcEJaczZlR19OVXhqZmFrWnJMaDNlY3FRbmNaMzhVb0w2R2x5ZGRSWERLM1FZYTNmZm5BWjhhM0NQdUZCU3J0THdFTC1ZNjIzUWt4VEFzeXEwOGFfeDJSNHpWRGstc0FDcW9URkdOa3RFVWd5UjFWZEdrNkhR?oc=5)
-
----
-
-### [Nuovi farmaci per il diabete di tipo 2 e l’obesità: guida AIFA per un uso consapevole - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
-
-2026-05-18
-
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZi0zd3NMRE5qMFlwb2s2RVZuUkYzNjJ0OTJveUFKbWh5NUNJcVlHVlN0aFBkX0d2MkFxcjE0VGhHb0FHZk5kUHhVQUd3UnVrUnU5SHJ2ZGdGSVJfcy1FSEpONVNoVkpXNFE3QVVlTVRteUwy?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
 ---
 

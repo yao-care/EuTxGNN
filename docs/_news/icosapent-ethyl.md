@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 heart disease</span></li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 cardiovascular disease</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -54,6 +54,14 @@ permalink: /news/icosapent-ethyl/
 
 ## 相關新聞（4 則）
 
+### [PCOS heißt jetzt PMOS: Warum die häufige Frauenerkrankung umbenannt wird](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
+
+2026-05-22 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[netDoktor](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
+
+---
+
 ### [The benefits—and dangers—of optimism - The Economist](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
 
 2026-05-21 <span class="news-indication-tag">heart disease</span>
@@ -64,25 +72,17 @@ permalink: /news/icosapent-ethyl/
 
 ### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
-2026-05-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+2026-05-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
 
 ---
 
-### [How an arthritis drug could treat severe depression - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
+### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
-2026-05-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
+2026-05-20 <span class="news-drug-tag">Clopidogrel</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkhDSVZITHdNR0s5WkVjcVBnU1A5MThTSDJKMUdEUzZicG9hc2o4eWR6QVEzYzRMajllM3FXME9BSHBjZXFNZVNBRlRKeUdKNGFQdWZ4YXlVRG1BTFBLXzNVellzaWtiUDFZanpXWTFrOG1iYWQyRm1HWllLdWRqSHk1cG5iR3ZJVzVDQlljLXZodWNqRGVGcTBpaTBoTEdTNGFmWXhEX2pNdy1O?oc=5)
-
----
-
-### [These are the best knee braces for arthritis, according to orthopedic surgeons](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
-
-2026-05-20 <span class="news-indication-tag">arthritis</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3RwZXFoRUpOOUs1Q0o2ZzdJRVlPT3RiOEN5b3pUakhzOENocW11OHpVRjhhSlRQN1NFZ3ZlSEVmeTNOSk9XT01Yak90UjhqaEx2cmNFWDFsczRuUUlfVUJmczRTMlAyN0ZuaUZpYTU0LTRydmtpaW9rMUV3YU5UbXhUa2VwSnBy?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 ---
 
