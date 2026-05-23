@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Las enfermedades mentales se ceban con jóvenes y mujeres: 1.170 millones las sufren en el mundo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUE1N3JKM1V4bk4ycGhHSENHZnpacTRnbExKZ3pBVVowbDlhLW5OSjJUTkVkcTA0VHVXcXFGWjBJRFJxSDVicWp5RDJLeHJwUDhhTklNV3lpQzBleDVFd3hxTGJJcGcwSFE4RWt4QkNDZ0RHQ3dud2Q3d1BpRVZkVE9mUUtNNGQtZmVJZFdHRWxSN0FMN0FmYllmb3dsc1BJS1Y2bzNiUEZ0QnlCT0VzWkpCQ1hkRzhXejFqX1YxeHVNTTktVlhEQ0pCRXozUjJET0YtedIB2gFBVV95cUxObWxRMmYwNDNSY2tRaGw4azdmbU1rR29TcTV2NGhaRFc3WUZielFIWk9pQm01aEJsWEpVb2hTQnFUU25NdlI1Q2NyV1NQUk1KcVlpVExmMnRxdXlTNjVPRmZzRmhqNFY1OGRJTHpSTUJWdUl2VzVXWEs4d0NzbFVmZHlBcmdXR3JXVkV0SHV4aG9CVnJ5Z0FyVHU3VmlMRUhjRWVELWgtd2p5WGlYU0hTbTh6TlFfTU5JNEE1U0NaNFFIVkFreWZid2RsckZKdnVPZzAwMGtpZEdUUQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[naiz:](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUE1N3JKM1V4bk4ycGhHSENHZnpacTRnbExKZ3pBVVowbDlhLW5OSjJUTkVkcTA0VHVXcXFGWjBJRFJxSDVicWp5RDJLeHJwUDhhTklNV3lpQzBleDVFd3hxTGJJcGcwSFE4RWt4QkNDZ0RHQ3dud2Q3d1BpRVZkVE9mUUtNNGQtZmVJZFdHRWxSN0FMN0FmYllmb3dsc1BJS1Y2bzNiUEZ0QnlCT0VzWkpCQ1hkRzhXejFqX1YxeHVNTTktVlhEQ0pCRXozUjJET0YtedIB2gFBVV95cUxObWxRMmYwNDNSY2tRaGw4azdmbU1rR29TcTV2NGhaRFc3WUZielFIWk9pQm01aEJsWEpVb2hTQnFUU25NdlI1Q2NyV1NQUk1KcVlpVExmMnRxdXlTNjVPRmZzRmhqNFY1OGRJTHpSTUJWdUl2VzVXWEs4d0NzbFVmZHlBcmdXR3JXVkV0SHV4aG9CVnJ5Z0FyVHU3VmlMRUhjRWVELWgtd2p5WGlYU0hTbTh6TlFfTU5JNEE1U0NaNFFIVkFreWZid2RsckZKdnVPZzAwMGtpZEdUUQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Alzheimer: depressione, sedentarietà e sonno segnali d’allarme per le donne - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
 
@@ -83,14 +75,6 @@ permalink: /news/agomelatine/
 2026-05-21 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
 
 來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
-
----
-
-### [Immunotherapy could be used to treat depression, early trial suggests - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
-
-2026-05-20 <span class="news-drug-tag">Clopidogrel</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlpwU292VnFWOW5MZTdDcUtKSzlSY0lPUFNRUXplRXV0NkQydlpNN21RVjFRYWc0NU9SZ0J4TGNHeDBsazB1MGxSWlNUX3VzNXBvVUEtWDlzenIxbjJxWGtWZnJEY3JpVmd3azZOWlhoS19Udm9OaWIzc2F5d2VicVg4b25wQ0FZQTM1THJ6eVVwT3puSEhTUDd0Y21FREV5SjBTOExRZVhzcVlNZVVvdjUzeDNhQi1FMEE?oc=5)
 
 ---
 

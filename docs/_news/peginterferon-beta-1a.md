@@ -14,7 +14,7 @@ permalink: /news/peginterferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Beta-1A 有什麼相關新聞？">
-<strong>Peginterferon Beta-1A</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Beta-1A</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/peginterferon-beta-1a/
 <p><a href="{{ '/drugs/peginterferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（26 則）
+
+### [EE.UU. suspende visados para viajeros procedentes de países africanos afectados por el ébola - Investing.com España](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVjZMaXQ1Q1VHYV9sbWk2M0xXNDBCN1JpOE5DbWV6Z0FKQ2pqYnZIR24tbW1Sd0tmaV81dEx6bFVOWWdlRkIxeEFhNWI1WWJUX3FfTmtjSlg5UE9ZcV9iT1dWdnBBa09GVi1OYl9qTnY4MGx3SUl3OG1ZaXVJeUhDbTI5S3V4eVptNGw0dkpIczJ2cGRvMENFSHA3NEZBWlluZG4ybU1OajJDRW1MOVl5QzZVUlhDRUJLQjZXX0JrWHYyUFFjUUZNNGhycnRMTzdlSHI2bmpBQ3c?oc=5)
+
+2026-05-23 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Investing.com España](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVjZMaXQ1Q1VHYV9sbWk2M0xXNDBCN1JpOE5DbWV6Z0FKQ2pqYnZIR24tbW1Sd0tmaV81dEx6bFVOWWdlRkIxeEFhNWI1WWJUX3FfTmtjSlg5UE9ZcV9iT1dWdnBBa09GVi1OYl9qTnY4MGx3SUl3OG1ZaXVJeUhDbTI5S3V4eVptNGw0dkpIczJ2cGRvMENFSHA3NEZBWlluZG4ybU1OajJDRW1MOVl5QzZVUlhDRUJLQjZXX0JrWHYyUFFjUUZNNGhycnRMTzdlSHI2bmpBQ3c?oc=5)
+
+---
 
 ### [Neue Krebsstudie: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
 
@@ -62,27 +70,35 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### [Brote de ébola en RD del Congo se propaga rápidamente y se declara riesgo muy alto a nivel nacional, dice OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRW5jcW0zR3RYU3ptOWszWEhvSV9lZWpZN2FtdU1mbGQ2MHNNSTFRSEN4cm9DZG9FZDkwTXBRcFN1V3RaTU9KQm9aR1M2NnV4eVczRjRzUzVHdWszSUlvTmlhSzFpZ09WUHlUWmtXcFRJdWEwZC1Ic2RySGxIYmJZVUx6WQ?oc=5)
+### [What is immunotherapy and how does it treat cancer and other conditions? - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
 
-2026-05-22 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">MS</span>
+2026-05-22 <span class="news-indication-tag">cancer</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRW5jcW0zR3RYU3ptOWszWEhvSV9lZWpZN2FtdU1mbGQ2MHNNSTFRSEN4cm9DZG9FZDkwTXBRcFN1V3RaTU9KQm9aR1M2NnV4eVczRjRzUzVHdWszSUlvTmlhSzFpZ09WUHlUWmtXcFRJdWEwZC1Ic2RySGxIYmJZVUx6WQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
 
 ---
 
-### [La OMS acuerda una estrategia contra la tuberculosis más allá de 2030](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY252UDhFc2JnTHJFSnNlZWE0dTVHay1NT002U2RzaHBqX21pYmoyTjJ0aFR6aF92UEFZQ3NjWjBzd3F0VWtjTmVyS2FsNXNmQmVJclNyQVFMR3FpRXBMYWZWeGNBTU5tZC1vWGUwLWdOWUlnbnNwRXJRZDBpUFZobi15NEVXcDJ5TUNlcnBB?oc=5)
+### [Hantavirus, Oms: 'Positivo altro membro equipaggio. 12 casi e 3 morti' - Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
 
 2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY252UDhFc2JnTHJFSnNlZWE0dTVHay1NT002U2RzaHBqX21pYmoyTjJ0aFR6aF92UEFZQ3NjWjBzd3F0VWtjTmVyS2FsNXNmQmVJclNyQVFMR3FpRXBMYWZWeGNBTU5tZC1vWGUwLWdOWUlnbnNwRXJRZDBpUFZobi15NEVXcDJ5TUNlcnBB?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
 
 ---
 
-### [Cómo detectar un melanoma a tiempo y prevenir el cáncer de piel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRThoLXNGeWF4T1hXTlpfaFFzUGpuQkgyTkVUeld5cHpIaGJzN2VhOS1KUE1qazhoUHFiaGUyV1BrN0otVnB5RUVxT0FrcllWNzhpTk1Ic0d3X3ZjMHU3YlJqQVR4X1ZTRWdCdm1fMG1QZ2ltaU1RVXk4ZTlidlhIU0JkT2FMZWh2LVV1VWtxOUptM2xUWEEwUkN4aVgwNUQzdE5ST0JlcmlUUQ?oc=5)
+### [You probably don’t need extra electrolytes](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGx3SkVKcFpXVVFQdEZsSlA0YWpVU1pMV193V3hDRW1zbE5QUWxYLVpPUVItNFlKUEowbzh2TUtSeFBIbGJBemZRSEx4VS16cXYtWW5SMFd0ZHY1MS1sTzlQOV8wN1dmTWtwVFR2ZlR2dWlZV3ZnRk52ZmFkaG1jX1BINzg2cndENTNpWE5OeG9XSlU4ck9xa3JsbG93OUFqU2ZN?oc=5)
 
-2026-05-22 <span class="news-indication-tag">tumor</span>
+2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[Quirónsalud](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRThoLXNGeWF4T1hXTlpfaFFzUGpuQkgyTkVUeld5cHpIaGJzN2VhOS1KUE1qazhoUHFiaGUyV1BrN0otVnB5RUVxT0FrcllWNzhpTk1Ic0d3X3ZjMHU3YlJqQVR4X1ZTRWdCdm1fMG1QZ2ltaU1RVXk4ZTlidlhIU0JkT2FMZWh2LVV1VWtxOUptM2xUWEEwUkN4aVgwNUQzdE5ST0JlcmlUUQ?oc=5)
+來源：[economist.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGx3SkVKcFpXVVFQdEZsSlA0YWpVU1pMV193V3hDRW1zbE5QUWxYLVpPUVItNFlKUEowbzh2TUtSeFBIbGJBemZRSEx4VS16cXYtWW5SMFd0ZHY1MS1sTzlQOV8wN1dmTWtwVFR2ZlR2dWlZV3ZnRk52ZmFkaG1jX1BINzg2cndENTNpWE5OeG9XSlU4ck9xa3JsbG93OUFqU2ZN?oc=5)
+
+---
+
+### [Adieu les 10 000 pas par jour : l'OMS révèle la distance de marche réellement adaptée à chaque âge - La Provence](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmxtWEtuZ01DODcwVnZ3M1BlUG9lOFZEU2czYkVhYzcxVGJTQlpYd3NpNnlvN0NWVzV3SmVTT3M0aWpHUHFySGphVmVESU1HMC1lRHFQOXFKd2YyS1RYZ0FGa0ZORkcxUFBRcGZvS0U4d1NDZ0VqbmhZZFEzOFVpM3paNm5BNm5GYzJNNE5UWGw1Z0FsRmRXb09RX1FGQlpmdGVGaWJZMHdoVzktd1o3eDZXWC05V19KaVp3LXd3RHVjb0EyMW80NUJzdTh4TVUyQ2JMRVNQOUZZMUhVTlg0SkRZNWk2eFMy?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[La Provence](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmxtWEtuZ01DODcwVnZ3M1BlUG9lOFZEU2czYkVhYzcxVGJTQlpYd3NpNnlvN0NWVzV3SmVTT3M0aWpHUHFySGphVmVESU1HMC1lRHFQOXFKd2YyS1RYZ0FGa0ZORkcxUFBRcGZvS0U4d1NDZ0VqbmhZZFEzOFVpM3paNm5BNm5GYzJNNE5UWGw1Z0FsRmRXb09RX1FGQlpmdGVGaWJZMHdoVzktd1o3eDZXWC05V19KaVp3LXd3RHVjb0EyMW80NUJzdTh4TVUyQ2JMRVNQOUZZMUhVTlg0SkRZNWk2eFMy?oc=5)
 
 ---
 
@@ -94,14 +110,6 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### [Hantavirus, i casi salgono a 12: positivo un membro dello staff della Hondius rientrato a Tenerife - la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMA?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMA?oc=5)
-
----
-
 ### [“Ebola, rischio globale al massimo livello possibile”, l’Oms alza l’allerta nella Repubblica Democratica del Congo - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkx0RGhZYXU2VDM4QlBOc3dqcy04c25qcnJRdlk4aWFyZmlVZEtrZWpFeE0ydkN5RmcxRzdIbk5ZYTRVZ1N2LWR6dFRpcWJXektVZzhHazNZc1JWR29sQVIzRVlJZFZNR3V0YjJtdWU3ZzRSOEJkNGtSeFNwWGFuN1pCX085S3VmZkZGdU9XZGFwSGJxX3JNbw?oc=5)
 
 2026-05-22 <span class="news-indication-tag">MS</span>
@@ -110,11 +118,11 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### [Un informe de la Junta de Monitorización de la Preparación Global de la OMS advierte sobre el peligro de nuevas pandemias "más frecuentes y con consecuencias más graves" e insta a la colaboración internacional para prevenirlas](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
+### [I'm a cardiologist & most people dismiss 3 early heart symptoms as 'harmless'](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
 
 2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[maldita.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xoSWxmWlBvOGVKeW8taG5JenRRVDZZVXI3THZBaGpqaEo4andIdEdhTGo3U3A1NkozbFd0Mjh3ZWM4VjJYRHM0d2lZa051alFzaWZnSDhQd290Ul9VYlk0b0pqcC1ENEZYbnA0a0dRc2tfams3VWpkM2FjX3Z3RmJNdUVtOHlGRTd2SExtbjRGaTBFc0QzZk8xVXc2M3FwSE42bER5dmU?oc=5)
-
----
-
-### [I'm a cardiologist & most people dismiss 3 early heart symptoms as 'harmless' - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
 
 ---
 
@@ -147,14 +147,6 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPazBGNU1fX2pqX0hUU0RqNWlMaC02M0Q3SmVfUlF0UW9DeXdGU0pSc3JuVS1KbnRmOHFhQ3NOc1FON3ZvMTFEZHItZmNobzUzNWlRYTVHRWUwZjMweXczeThneFN2aHlHMkY1Yl96ZzEzcnF4R0t2VVBDZ29BUTdFZFN5VG1mLXdfU0xSSzN4ZThsdXBGSG04bFhoQVVvd0d4Y3FIb3phVlFPYV9IdDA0bnhn?oc=5)
-
----
-
-### [Vitamine D : quelle bonne dose de soleil pour ne pas en manquer ? - Sud Ouest](https://news.google.com/rss/articles/CBMivwFBVV95cUxONEpudmxRRkhKS1hNaUVtcWQ1VEt4R0Flbmw2WTVkdndhYy1QaXN4RGc0N0ZobXFGSUFYamx6RXpPZXZYOGNkVjFUQjJCYnZRSmwzS2U4eFM1VHpNNzZFRjJkNWY3YS0zcVhOaG90dmI1M3RuOUN1WXNfU01iM1Z2NGhHSnlCNWxmUGJTNmF1dXNSWjA3MHg5dFpjbGV0c2Y0dUc3eWNwcHhfclpCdnJYOTk1bFNrUkNnYy1EMXZiVQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMivwFBVV95cUxONEpudmxRRkhKS1hNaUVtcWQ1VEt4R0Flbmw2WTVkdndhYy1QaXN4RGc0N0ZobXFGSUFYamx6RXpPZXZYOGNkVjFUQjJCYnZRSmwzS2U4eFM1VHpNNzZFRjJkNWY3YS0zcVhOaG90dmI1M3RuOUN1WXNfU01iM1Z2NGhHSnlCNWxmUGJTNmF1dXNSWjA3MHg5dFpjbGV0c2Y0dUc3eWNwcHhfclpCdnJYOTk1bFNrUkNnYy1EMXZiVQ?oc=5)
 
 ---
 
@@ -198,19 +190,27 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### [Urgent holiday warning after measles outbreak at Spanish tourist hotspot - as cases DOUBLE in a week - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEFrS09QSzRFZ09kVm5ZNkN2RjFfRllCd192SUhlc3k1LTRCUW9xX0N5OTItOUhmdXRJM0thR2x0anNIZk9qTTd5OGtkalhTcE5aNzFHNUdwcnRuLXBXaDJrWVgwU1VFTVQzbm9tX2NCZ29sZ2NPZkFxdFNNd3g3YTItY2Z2WWl3NTQ3U0RUcnU5dS1LZG1kVGMyR0ROcVU?oc=5)
+### [Structured Programs Physically Slow Down Biological Aging - Neuroscience News](https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZktCajRYTUlrTzVKRW9sdHhEbnBmYVVkb3RJczJFc0RheWVuNVU1MzNkYjJBX3JfZ2FDSTJaM3pBVFA1UmJIVmJOR2FsQ1JZdkM0a240YnJLejE3dk90Zzk3aEx0Y2hiZnpEa1NRMA?oc=5)
 
-2026-05-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-21 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEFrS09QSzRFZ09kVm5ZNkN2RjFfRllCd192SUhlc3k1LTRCUW9xX0N5OTItOUhmdXRJM0thR2x0anNIZk9qTTd5OGtkalhTcE5aNzFHNUdwcnRuLXBXaDJrWVgwU1VFTVQzbm9tX2NCZ29sZ2NPZkFxdFNNd3g3YTItY2Z2WWl3NTQ3U0RUcnU5dS1LZG1kVGMyR0ROcVU?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZktCajRYTUlrTzVKRW9sdHhEbnBmYVVkb3RJczJFc0RheWVuNVU1MzNkYjJBX3JfZ2FDSTJaM3pBVFA1UmJIVmJOR2FsQ1JZdkM0a240YnJLejE3dk90Zzk3aEx0Y2hiZnpEa1NRMA?oc=5)
 
 ---
 
-### [I was so ashamed of itch down there - as a pharmacist, I never knew it could lead to killer cancer - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVBsTGE1QUcyZ056MC14b0VpMGR2TEZSLWo1V1lWazFfODJjc1IzRzdZSkszRTZsc2I2TGtuR2V3UktXUURVMjBHa3k1bjlJb0syWkRQVjYxOHBzdVYzRTNwVzFGMUNqT0d2Rm5UdHZoZTJSWjFVS1NuR3dJQ0pMdGZrRC1tX1Q3U1dXREctM3ZGS2dPemJCanlVdjlUSC1jY0lr?oc=5)
+### [Urgent holiday warning after measles outbreak at Spanish tourist hotspot - as cases DOUBLE in a week](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEFrS09QSzRFZ09kVm5ZNkN2RjFfRllCd192SUhlc3k1LTRCUW9xX0N5OTItOUhmdXRJM0thR2x0anNIZk9qTTd5OGtkalhTcE5aNzFHNUdwcnRuLXBXaDJrWVgwU1VFTVQzbm9tX2NCZ29sZ2NPZkFxdFNNd3g3YTItY2Z2WWl3NTQ3U0RUcnU5dS1LZG1kVGMyR0ROcVU?oc=5)
+
+2026-05-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEFrS09QSzRFZ09kVm5ZNkN2RjFfRllCd192SUhlc3k1LTRCUW9xX0N5OTItOUhmdXRJM0thR2x0anNIZk9qTTd5OGtkalhTcE5aNzFHNUdwcnRuLXBXaDJrWVgwU1VFTVQzbm9tX2NCZ29sZ2NPZkFxdFNNd3g3YTItY2Z2WWl3NTQ3U0RUcnU5dS1LZG1kVGMyR0ROcVU?oc=5)
+
+---
+
+### [I was so ashamed of itch down there - as a pharmacist, I never knew it could lead to killer cancer](https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVBsTGE1QUcyZ056MC14b0VpMGR2TEZSLWo1V1lWazFfODJjc1IzRzdZSkszRTZsc2I2TGtuR2V3UktXUURVMjBHa3k1bjlJb0syWkRQVjYxOHBzdVYzRTNwVzFGMUNqT0d2Rm5UdHZoZTJSWjFVS1NuR3dJQ0pMdGZrRC1tX1Q3U1dXREctM3ZGS2dPemJCanlVdjlUSC1jY0lr?oc=5)
 
 2026-05-21 <span class="news-indication-tag">cancer</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVBsTGE1QUcyZ056MC14b0VpMGR2TEZSLWo1V1lWazFfODJjc1IzRzdZSkszRTZsc2I2TGtuR2V3UktXUURVMjBHa3k1bjlJb0syWkRQVjYxOHBzdVYzRTNwVzFGMUNqT0d2Rm5UdHZoZTJSWjFVS1NuR3dJQ0pMdGZrRC1tX1Q3U1dXREctM3ZGS2dPemJCanlVdjlUSC1jY0lr?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVBsTGE1QUcyZ056MC14b0VpMGR2TEZSLWo1V1lWazFfODJjc1IzRzdZSkszRTZsc2I2TGtuR2V3UktXUURVMjBHa3k1bjlJb0syWkRQVjYxOHBzdVYzRTNwVzFGMUNqT0d2Rm5UdHZoZTJSWjFVS1NuR3dJQ0pMdGZrRC1tX1Q3U1dXREctM3ZGS2dPemJCanlVdjlUSC1jY0lr?oc=5)
 
 ---
 
@@ -259,30 +259,6 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmg3cmdibWd2YjV3cV91MG5nNnVLMm0wZ2RSNVRoN3c4LWU1c3UzN0R6YXk1SUJzN2FaekRtTEZtVzEwcnU4TlVyT3EydzdlTDREZVhUaVRGVjFHbXFTS1dZRHUwS1h3SzFHdnRCcTMxbmNSRTZLX0ItTU9xR2VnY3pkNkxMX3NVNjNUaHV1VW9wbWw3MlRYUVB0Z1dPdlFZRVhvYkJJR2N2VFA4dXcybVNlQkhvLVdMNl9n?oc=5)
-
----
-
-### [Baton relay for cancer research to visit Leeds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xVXFZbmVXX3ZaX1g4eHJRUFRIR1JoOExFSkFpbVJ5U3paUVlSYi1aMFdXeWxUT2hBUGhOblUzem13aVRoU2VkMk5PV2wzZmtkam50aDVqczNNN3BN?oc=5)
-
-2026-05-21 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xVXFZbmVXX3ZaX1g4eHJRUFRIR1JoOExFSkFpbVJ5U3paUVlSYi1aMFdXeWxUT2hBUGhOblUzem13aVRoU2VkMk5PV2wzZmtkam50aDVqczNNN3BN?oc=5)
-
----
-
-### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
-
-2026-05-20 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
-
----
-
-### [Neurologische Erkrankungen im Blick: Multiple Sklerose und Schlaganfall](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
-
-2026-05-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Taunus-Nachrichten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pZSVVUVUVNWHdVcWFJdDhjb21MdVYyTGNyUG8xRnI2dlAtMll4ektmdzNtTGNjMVFPcVR3VDVvUHhvWjV2eEp4NUNsTmF4YXZuV0ItU2VpRTB0akJ1aVV5MzFtQXNfeEZXV1pUdGpqZ3FvWVNTY3I3WWZ5Z1BrQ2p5VFF0OEhjeFpCdExyaWdlTzNDaHZFemJrNWdualJGcUxFMzAzdFZCOXMtSXRPei1CVVdLQQ?oc=5)
 
 ---
 

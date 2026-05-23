@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Konservierungsmittel könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
 
@@ -101,19 +101,11 @@ permalink: /news/hypertension/
 
 ---
 
-### [Ipertensione, il rischio può aumentare in chi consuma molti additivi alimentari conservanti - la Repubblica](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1hva1FJcDVfSXdzc1NlUlRKRmRsX0xCdW9VcTR0YTVoZTNMS1pxZG9iOURSTy1uczRQN1pfVFJ1X3VJT2VsVFYtd3BkYjhZTnlnamNWeldIeTBtYS1SelN3bXFnWjRrTTZkTUNjeFVXZVpkUW5qQndTcTM0TER4ZVp6aS1YN1JTSW5wSmlBY0ZLMmUzNTJVNWZMQWdxeEZmWkpHWWVRNkUzU29DZzcxZnV0bE41V1B3M3YxaGdTUng1Nm1ZMWtmeURGS3B2U0RYLWhzTHNVSFNhUGJ4ejNBbFVHQm3SAeoBQVVfeXFMT2h0a0JNQ0xoa3VlYkhPemJCUk5jWTJkVWZrTldFMWR6RUdZa0RwV2c0ZnlzNmFnWmxqUmdmV3pXWHVydTRUUFlGTWp0RnJNUUVObTJ5TkFvdGk0NW9JbmVGTGd1MExSWFA1UWhpR3JPakdiMl9tOTVpUUpPR3pxb2l6UVo4bDVYMWpUUUJGR2JUejM4RlY1akhzZE1oT3hUbU9heHp5OW9NdWpRRUV2VjlkdmRxb2pCRHVrUnJrVFRHNUhXcmJWY3dYanpWaHR2VUZPTXZ0MnJ0cWw1VFNPU2RjNm1Gc1llR1V3?oc=5)
+### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
 
 2026-05-21
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ1hva1FJcDVfSXdzc1NlUlRKRmRsX0xCdW9VcTR0YTVoZTNMS1pxZG9iOURSTy1uczRQN1pfVFJ1X3VJT2VsVFYtd3BkYjhZTnlnamNWeldIeTBtYS1SelN3bXFnWjRrTTZkTUNjeFVXZVpkUW5qQndTcTM0TER4ZVp6aS1YN1JTSW5wSmlBY0ZLMmUzNTJVNWZMQWdxeEZmWkpHWWVRNkUzU29DZzcxZnV0bE41V1B3M3YxaGdTUng1Nm1ZMWtmeURGS3B2U0RYLWhzTHNVSFNhUGJ4ejNBbFVHQm3SAeoBQVVfeXFMT2h0a0JNQ0xoa3VlYkhPemJCUk5jWTJkVWZrTldFMWR6RUdZa0RwV2c0ZnlzNmFnWmxqUmdmV3pXWHVydTRUUFlGTWp0RnJNUUVObTJ5TkFvdGk0NW9JbmVGTGd1MExSWFA1UWhpR3JPakdiMl9tOTVpUUpPR3pxb2l6UVo4bDVYMWpUUUJGR2JUejM4RlY1akhzZE1oT3hUbU9heHp5OW9NdWpRRUV2VjlkdmRxb2pCRHVrUnJrVFRHNUhXcmJWY3dYanpWaHR2VUZPTXZ0MnJ0cWw1VFNPU2RjNm1Gc1llR1V3?oc=5)
-
----
-
-### [‘Natural’ preservatives in food linked to high blood pressure, heart attacks](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
-
-2026-05-20
-
-來源：[CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWdUd1AzdUZ4QTlkbGFXczVjbkh3RTJFUzlPUXVSeEplTzJKTER2Sk1UWENhY2RLOWVNV2RKWWpNRW40UkJVMmlDSHFuYzgzNms4d0lxWExmWExQRlZZVHpRaFlITDl3QUJSWHhBSnRsSmRWVXBaOThlcVNYb1k0dllmdmNTa0E?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
 
 ---
 
