@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li>asthma（86.3%）</li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
+
+2026-05-23 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
+
+---
 
 ### [Henry Slade: I live with type 1 diabetes. I’m worried my girls will develop it too - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
 
@@ -70,6 +78,14 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Ecco perché i bambini al nido si ammalano sempre - la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYk9HWTdSYXFIdE1OX2RSQk1sVU5ZNkF4QVVMVHdNeWl0N0dnTnBsVGJkYTlFMHJFdTJPM2o5ZkVGY1QycmZfYnduQ2x1NDJSX1JfTlBwOWhhdGd4LWExZ013alFiTWZGNTlBZ2NGVEU0Y21Tc0xfMlh6QVJxczU3Vk5Ddm5qNTZOeE9qQzF6eHhVUnRsZ2xlaVNrLWR0S3pwYkF5MnQzZTJWZ1Q5dmc1Sml5NHpyT1NpR2RjMlZfMUFWQdIBxwFBVV95cUxQbHJGdDF6Q2FsOVpNZXR2T2gydjNxamVYRkdWUTZzamdFUjJqUEhIV2tuWkxJbnFycFEzYkVJS214Qm16X09scmVwY1RiS0k1ZGtlZlBRTlBZSVR0eUhFMjJSS2FCa0dMSmRwN2MyZ1E0aHN4UEdwVEU1d2JKQXRhSEVpXzhNRVFzenpRSHlJWEkwU29WVDJSR3o3TnY2ek5KSmpKdFhmYmxXRDkteGZ0NVZiUklNSDhFMWU5UnJYZHktOFpHVWhZ?oc=5)
+
+2026-05-22 <span class="news-indication-tag">asma</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYk9HWTdSYXFIdE1OX2RSQk1sVU5ZNkF4QVVMVHdNeWl0N0dnTnBsVGJkYTlFMHJFdTJPM2o5ZkVGY1QycmZfYnduQ2x1NDJSX1JfTlBwOWhhdGd4LWExZ013alFiTWZGNTlBZ2NGVEU0Y21Tc0xfMlh6QVJxczU3Vk5Ddm5qNTZOeE9qQzF6eHhVUnRsZ2xlaVNrLWR0S3pwYkF5MnQzZTJWZ1Q5dmc1Sml5NHpyT1NpR2RjMlZfMUFWQdIBxwFBVV95cUxQbHJGdDF6Q2FsOVpNZXR2T2gydjNxamVYRkdWUTZzamdFUjJqUEhIV2tuWkxJbnFycFEzYkVJS214Qm16X09scmVwY1RiS0k1ZGtlZlBRTlBZSVR0eUhFMjJSS2FCa0dMSmRwN2MyZ1E0aHN4UEdwVEU1d2JKQXRhSEVpXzhNRVFzenpRSHlJWEkwU29WVDJSR3o3TnY2ek5KSmpKdFhmYmxXRDkteGZ0NVZiUklNSDhFMWU5UnJYZHktOFpHVWhZ?oc=5)
+
+---
+
 ### [GP explains four type 2 diabetes treatments — new one could be on NHS soon - Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlB6VzFuYkRhT09XYnVxRVVYRXRlS0lFTWhFemlyeHJCY1k5enBSMGxIUk1HM09zRE9fTExHOVVUYi1Pc0FVZmtxUkgwNWhVR3lPdkpBLWsxZVIwNEdfajVrMDB2Yy0xLWhrcTMtcm93S1RxV3NHUDBCSTZPOEY3SFRxcGd0VnVO0gGOAUFVX3lxTE80MkFjREV6aXNmd1ZicEJGcXlodUlWdldIZjd3ZlMtd1hUWS1XUHplQ0xVQkpkaHozVHg3S1hoNTVqZjRvWm5adWlNT3E4dFZTbTA4T2hrdWtJaG9pdTBESGVqeUpqZXRPZkltSmpFZDhfNmh5QWxXbVFUdWM0TXhncE1lNWJpdjhNSy00TGc?oc=5)
 
 2026-05-22 <span class="news-indication-tag">diabetes</span>
@@ -83,14 +99,6 @@ permalink: /news/somapacitan/
 2026-05-21 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">dementia</span>
 
 來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
-
----
-
-### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
 ---
 

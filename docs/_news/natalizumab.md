@@ -54,6 +54,14 @@ permalink: /news/natalizumab/
 
 ## 相關新聞（5 則）
 
+### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
+
+2026-05-23 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
+
+---
+
 ### [Henry Slade: I live with type 1 diabetes. I’m worried my girls will develop it too - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
 
 2026-05-22 <span class="news-indication-tag">diabetes</span>
@@ -83,14 +91,6 @@ permalink: /news/natalizumab/
 2026-05-21 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">dementia</span>
 
 來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
-
----
-
-### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
 ---
 

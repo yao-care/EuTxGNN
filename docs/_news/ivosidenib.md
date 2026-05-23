@@ -14,7 +14,7 @@ permalink: /news/ivosidenib/
 ---
 
 <p class="key-answer" data-question="Ivosidenib 有什麼相關新聞？">
-<strong>Ivosidenib</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ivosidenib</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/ivosidenib/
 <p><a href="{{ '/drugs/ivosidenib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（14 則）
 
 ### [Neue Krebsstudie: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
 
 2026-05-23 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
+
+---
+
+### [Blundering NHS treated Staffordshire dad for terminal cancer he never had - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUhOLUNFN1JWN2RwalM2eUQ3YWlGckIyQXppVC1oeWptU09qVjBsNGo0blRfY2oyQU5QVktaaTJfNkhYazk2STZYeDd1bU9JSUxCOUhSVVVITUJPV19hZDhpb1V4OV9TR3lISlcwRGxTTGN2MF9fQ3Y2MkRyS0hfdENMajJ2U0J4SGw0b250dER0cHAxTllRTU9XbFJGMG1MejZnRFlUdUVQUQ?oc=5)
+
+2026-05-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUhOLUNFN1JWN2RwalM2eUQ3YWlGckIyQXppVC1oeWptU09qVjBsNGo0blRfY2oyQU5QVktaaTJfNkhYazk2STZYeDd1bU9JSUxCOUhSVVVITUJPV19hZDhpb1V4OV9TR3lISlcwRGxTTGN2MF9fQ3Y2MkRyS0hfdENMajJ2U0J4SGw0b250dER0cHAxTllRTU9XbFJGMG1MejZnRFlUdUVQUQ?oc=5)
 
 ---
 
@@ -72,7 +80,7 @@ permalink: /news/ivosidenib/
 
 ### [Melanoma, ecco quando bisogna fare una visita dermatologica. L’importanza dell’autoesame della pelle - La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
 
-2026-05-23 <span class="news-indication-tag">tumor</span>
+2026-05-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
 
@@ -83,14 +91,6 @@ permalink: /news/ivosidenib/
 2026-05-23 <span class="news-indication-tag">cancer</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXdXeGZqcU9YQUFmcDZSbXNSVUtOQ00zXzk5MWpSYXAwT2xac2wySU1MdE1Ma0ppZFFNOW44QXZENjVhdnZiTlh4WTRabmVISmNSem9WbVVFMF80cG1rSXI2aTBtUTRmeXVvb0tCOGozS1R4S3JDMzRqTnZJRm5EZTlKVHFNbGFVTkZwUDFJMVp4aWdRQmN6bEJ3Z0dua1FiQ3gzdWFiUQ?oc=5)
-
----
-
-### [Why 'Normal' Vitamin B12 Levels May Still Trigger Cognitive Decline, According to a New Study](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnE3TkhGU0V5d2FVdng4aEQ5OWY0NWFCR1ZTSk9CbXdOMXlNUlFoT2NPYnpkM2xFR19qNU9kazhxN3VKenJqLTI5VXloSVkxUm9WWVVseXZtODVWY2Z5M2J5SHFDUk5kc1pxekFlaFY0UV9Ic1c0NHFCZzhFekgyT1U0M0loanBsTThPTWtQVXJMR0cyNDRoVXlPbXFiSnFsSzcteG1fOC1RZGtma1lLMEUtSnNSTWNXNENFenM2cGR1ZjV2RmhxMzlCQmtYUQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnE3TkhGU0V5d2FVdng4aEQ5OWY0NWFCR1ZTSk9CbXdOMXlNUlFoT2NPYnpkM2xFR19qNU9kazhxN3VKenJqLTI5VXloSVkxUm9WWVVseXZtODVWY2Z5M2J5SHFDUk5kc1pxekFlaFY0UV9Ic1c0NHFCZzhFekgyT1U0M0loanBsTThPTWtQVXJMR0cyNDRoVXlPbXFiSnFsSzcteG1fOC1RZGtma1lLMEUtSnNSTWNXNENFenM2cGR1ZjV2RmhxMzlCQmtYUQ?oc=5)
 
 ---
 
@@ -134,19 +134,19 @@ permalink: /news/ivosidenib/
 
 ---
 
-### [Skin cancer cases at record high, new figures show - as UK braces for bank holiday heatwave - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWZjRThxVlRkV1NNb0F4elpCNzFZTkFidXd2SW0zT0lVeTNBbzA3ODMwQ1dQckNzVlVXZGR5M2w4bXhUdnk5MkZmanZxSGNmQjZlVEhwTkc5TV9YOFZJLUlEZ1cyRGh3QWhfYWRqdHJOWG00Q2xqYy1HWlFZXzZ2dlJ2X2ZDb1JhMHR1Tml2UlNHQXlWUU8tT0FRZ3p4R0R3S1JQOG9iTEh1RG1UNXoxVkx3UXZqQWhwcV9rUGQ4aVdxUQ?oc=5)
+### [Cancer de la prostate : une alternative aux traitements classiques fait ses preuves à la clinique Océane à Vannes - MaVille.com](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQU1NNF85QXlVS1NjUXVoYVpHRjBrQlhBZE5SOW54MDA1UU14M2lCLXo3WlFrRzk1SkJPRHhlcnB5Y2NnTEJERXFSSG5wT0pWLVdrcWV1YUQ0VS1xUzUzY3REcTdKalRQSFpMeW10azNnVldKRjdWS0RZMjNQSzBQMEtmdWJkRWFKZlFRZG1JU1ZOeGpmMkRWSnZnd0VuNEV5bDdKVmJWcGQ0M0ZtT0k0REphYWd4M3hQNWQ0LXVWaDVvcmM5N1I5azJUY1JTNHVJbUpPaU1VNVBSRVB6TTNObFVreTlwdUpIUU5DeVF3QmhGaDVQeVRaclFuRHFkOGtVM204Xw?oc=5)
 
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWZjRThxVlRkV1NNb0F4elpCNzFZTkFidXd2SW0zT0lVeTNBbzA3ODMwQ1dQckNzVlVXZGR5M2w4bXhUdnk5MkZmanZxSGNmQjZlVEhwTkc5TV9YOFZJLUlEZ1cyRGh3QWhfYWRqdHJOWG00Q2xqYy1HWlFZXzZ2dlJ2X2ZDb1JhMHR1Tml2UlNHQXlWUU8tT0FRZ3p4R0R3S1JQOG9iTEh1RG1UNXoxVkx3UXZqQWhwcV9rUGQ4aVdxUQ?oc=5)
+來源：[MaVille.com - Rennes](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQU1NNF85QXlVS1NjUXVoYVpHRjBrQlhBZE5SOW54MDA1UU14M2lCLXo3WlFrRzk1SkJPRHhlcnB5Y2NnTEJERXFSSG5wT0pWLVdrcWV1YUQ0VS1xUzUzY3REcTdKalRQSFpMeW10azNnVldKRjdWS0RZMjNQSzBQMEtmdWJkRWFKZlFRZG1JU1ZOeGpmMkRWSnZnd0VuNEV5bDdKVmJWcGQ0M0ZtT0k0REphYWd4M3hQNWQ0LXVWaDVvcmM5N1I5azJUY1JTNHVJbUpPaU1VNVBSRVB6TTNObFVreTlwdUpIUU5DeVF3QmhGaDVQeVRaclFuRHFkOGtVM204Xw?oc=5)
 
 ---
 
-### [Cancer du poumon : comment participer au programme de dépistage qui vient d'être lancé ?](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTF1SkhCOUNObEJCZmhpTEpTb3ZJaXdQOC05bF85NVBtNkxXbmo3OVBXVl9pTDl5TERiWUJRNzVQdC1BWnlRc3dMYTVFQUtZcUtXRDluLVNWNENYSG5VT3FBRUdMa3RZUUt3QmlZVHFUYWhHemRpUW1rWXlkT2Jxa1VscnFLdDVaTVh3emhjZFZzdUZXRGFLdUdMcU5jdTdhUlBidGk1YW02SGJoVUJPWlNJQlFhd9IBuwFBVV95cUxQaEE3Ui1zREdWTWZPN3ZTNEpUMkJDbmIzd1JSYWNUZ05xTExiOGlhajRCTXRVUTBia0htaVRkUmw1VGtBcTRBX204aTc3bkc0WU1hOWt1RmtiNGlxd0RJbWFBYm81YzJBSzE5aDAwb2xXczgtX0VhUEs2dWdoY09SSGxBcC1rVVZSRncwNE02OXNjTnA2MkJ5eklmQ0taZGVvNjlDVU90TDN4M1I4STRiU202Skh6TE92VjRn?oc=5)
+### [Melanoma skin cancer cases in UK hit record level, analysis finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
 
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTF1SkhCOUNObEJCZmhpTEpTb3ZJaXdQOC05bF85NVBtNkxXbmo3OVBXVl9pTDl5TERiWUJRNzVQdC1BWnlRc3dMYTVFQUtZcUtXRDluLVNWNENYSG5VT3FBRUdMa3RZUUt3QmlZVHFUYWhHemRpUW1rWXlkT2Jxa1VscnFLdDVaTVh3emhjZFZzdUZXRGFLdUdMcU5jdTdhUlBidGk1YW02SGJoVUJPWlNJQlFhd9IBuwFBVV95cUxQaEE3Ui1zREdWTWZPN3ZTNEpUMkJDbmIzd1JSYWNUZ05xTExiOGlhajRCTXRVUTBia0htaVRkUmw1VGtBcTRBX204aTc3bkc0WU1hOWt1RmtiNGlxd0RJbWFBYm81YzJBSzE5aDAwb2xXczgtX0VhUEs2dWdoY09SSGxBcC1rVVZSRncwNE02OXNjTnA2MkJ5eklmQ0taZGVvNjlDVU90TDN4M1I4STRiU202Skh6TE92VjRn?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
 
 ---
 
@@ -163,38 +163,6 @@ permalink: /news/ivosidenib/
 2026-05-22 <span class="news-indication-tag">Krebs</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3FzRExGQ2JhaUNTam5IV3FVc04zbEJUTE13djg2dGE0NF9VenVzMnpZU3JDcG1oNUVYa3preTZOOWdvNWN0dVFNa2hhSV9rZ1Bxb3oxZGhEdkhNOFQ1TVBFZFdad2R0NUJSS0RvbTE2TjdRWVBtRjdpZk1lVmdpLXpxM1JySjB0SnJCYzBKRndBOTFEY042dGhDTHE3QTNrWGtjOHc2RWFwZmNFLUtFVWswblNqVlBKUzNUT2RQYV9EendSaXhrQXlDZlNjMjVMMzFEb2M3M0RvaHNmcnlZRjRmdlNpWlVRZzFN?oc=5)
-
----
-
-### [Cancer : ce nanomatériau détruit les tumeurs de l’intérieur sans abîmer les cellules saines - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPemh3bGJYdVhBS2c1dDRDZEtHS0xvUDhEYmRWellnZGpmcG1oZGsxS0F3QkpFeGhhMVFJOGhDeEhRaFVObFRUY24wVjdGMkFXSkFHMnl3MzY0MTNVX0VidWJRbkRteXhLYWZ4MVJvNzVSMERlSk1DSFNpX3RleDlZTE04SW42OGlmWUM4c3lFdkg1dG1fRTMxM0lEUnRURlE0S2dMMktnZDNJdFpVUnpNbGhnTTRsajhKXzdDWjI5MTVnSGNQXzFGYTZGMFVkNzBsZjF4ZzN0VQ?oc=5)
-
-2026-05-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPemh3bGJYdVhBS2c1dDRDZEtHS0xvUDhEYmRWellnZGpmcG1oZGsxS0F3QkpFeGhhMVFJOGhDeEhRaFVObFRUY24wVjdGMkFXSkFHMnl3MzY0MTNVX0VidWJRbkRteXhLYWZ4MVJvNzVSMERlSk1DSFNpX3RleDlZTE04SW42OGlmWUM4c3lFdkg1dG1fRTMxM0lEUnRURlE0S2dMMktnZDNJdFpVUnpNbGhnTTRsajhKXzdDWjI5MTVnSGNQXzFGYTZGMFVkNzBsZjF4ZzN0VQ?oc=5)
-
----
-
-### [Coronation Street star Sally Dynevor tours breast cancer centre](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwUy0xcG5qY3hNOFhfWW5NV3NPYU9pRjJsOHJlTlo1TGdEMHp6cFVCVUh0bXA1cEtBYVlzbDktbzRjVlFzQjRWOU9PNDlZVVlER0hHS05xRzVSTklz?oc=5)
-
-2026-05-21 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwUy0xcG5qY3hNOFhfWW5NV3NPYU9pRjJsOHJlTlo1TGdEMHp6cFVCVUh0bXA1cEtBYVlzbDktbzRjVlFzQjRWOU9PNDlZVVlER0hHS05xRzVSTklz?oc=5)
-
----
-
-### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
-
----
-
-### [Cancer du sein : ils mettent au point un implant imprimé en 3D pour pratiquer des chimiothérapies localisées !](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZVh0MEZLQXR1UjlQd2Z4ZFd1MWZmaFhTS3VVUDB0UnNXLV82MkhObDYwLWJkVl94U1RtWlpKUUM1TklQN2tuYmZOMlpPdkRyUDd6dUVWSWVUWjJyRFhNbmE1Vk5udGNEVjNiaVo3cWF1Q21qMG5xcDBHeXNTaVBiM0lGaVVuTDUwTTdqaktrWEg4dnV2ZFdPZHpBbGxWTlVtcDIwNzRuOUJEMHdYYWQzbUJ4MnVGT1NlOHJHVXJRT016Nzk3aDcydkx3?oc=5)
-
-2026-05-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZVh0MEZLQXR1UjlQd2Z4ZFd1MWZmaFhTS3VVUDB0UnNXLV82MkhObDYwLWJkVl94U1RtWlpKUUM1TklQN2tuYmZOMlpPdkRyUDd6dUVWSWVUWjJyRFhNbmE1Vk5udGNEVjNiaVo3cWF1Q21qMG5xcDBHeXNTaVBiM0lGaVVuTDUwTTdqaktrWEg4dnV2ZFdPZHpBbGxWTlVtcDIwNzRuOUJEMHdYYWQzbUJ4MnVGT1NlOHJHVXJRT016Nzk3aDcydkx3?oc=5)
 
 ---
 

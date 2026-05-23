@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="Travoprost 有什麼相關新聞？">
-<strong>Travoprost</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Travoprost</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/travoprost/
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [PCOS heißt jetzt PMOS: Warum die häufige Frauenerkrankung umbenannt wird](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
+### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
-2026-05-22 <span class="news-indication-tag">Herzerkrankung</span>
+2026-05-23 <span class="news-indication-tag">maladie cardiaque</span>
 
-來源：[netDoktor](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
-
----
-
-### [The benefits—and dangers—of optimism](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
-
-2026-05-21 <span class="news-indication-tag">heart disease</span>
-
-來源：[economist.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（16 則）
 
-### [Ébola en la RD del Congo: Prohibidos velorios y reuniones en Ituri - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNm4tQUtGSEtuNjRtbHd1UEwzY0Z1M2RhQ2U3U3J5OERmT21WaFB2M3pPT2U3MjJ3RGwyR1NzSzI3b28zY283a2lNSE81Z3dOQ0RiVGlpbVlreDJUb19CR3VzbmFCbENVWXJfR1RwMWJBM3NWcTVCSmlCLUwyTHBncV9PalZ1cm9yaW9HblZpQzJXN3lSakJTYlFfTmxpemE0ekdCeG80MnJCUUZYOHlJUWlVZHJyOWNu?oc=5)
+### [Ampliación: RD del Congo suspende vuelos de pasajeros a localidad afectada por Ébola, Bunia - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYzQ1FLU0RIY3FGZ3FRUDJGbmlMVTBlQ0xFUWFZNElaQmpwSkZacHJLT2FKckpjVV9XLW4tUmthNjVvbEFMajJQZjBNSk1OU2RaWWE1UUNIOUdzbk1KSXBNQTVDSmFnTnBRUExEc3IzWnZtVmtRQUx5WlcxejhjMFZmYw?oc=5)
 
-2026-05-23 <span class="news-indication-tag">MS</span>
+2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNm4tQUtGSEtuNjRtbHd1UEwzY0Z1M2RhQ2U3U3J5OERmT21WaFB2M3pPT2U3MjJ3RGwyR1NzSzI3b28zY283a2lNSE81Z3dOQ0RiVGlpbVlreDJUb19CR3VzbmFCbENVWXJfR1RwMWJBM3NWcTVCSmlCLUwyTHBncV9PalZ1cm9yaW9HblZpQzJXN3lSakJTYlFfTmxpemE0ekdCeG80MnJCUUZYOHlJUWlVZHJyOWNu?oc=5)
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYzQ1FLU0RIY3FGZ3FRUDJGbmlMVTBlQ0xFUWFZNElaQmpwSkZacHJLT2FKckpjVV9XLW4tUmthNjVvbEFMajJQZjBNSk1OU2RaWWE1UUNIOUdzbk1KSXBNQTVDSmFnTnBRUExEc3IzWnZtVmtRQUx5WlcxejhjMFZmYw?oc=5)
+
+---
+
+### [Ebola, Africa Cdc: “Altri dieci Paesi a rischio epidemia” - Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDlpUFB5T0dUQmFZaERuSUsyMFRhbnVXVEtvYkZpQjNCWEFnaVlUUDRKY1pWTi1hV1pKTGRBTVY3THpBNmFOV2Fqekh4ZWF0dndmN3JjSG92U2thTUtrQkRIbjJiR25wREgybHpIcG9LSkRsOHBnWjZIN3o2VUFRMUdDbmJNSmY3VW9j?oc=5)
+
+2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDlpUFB5T0dUQmFZaERuSUsyMFRhbnVXVEtvYkZpQjNCWEFnaVlUUDRKY1pWTi1hV1pKTGRBTVY3THpBNmFOV2Fqekh4ZWF0dndmN3JjSG92U2thTUtrQkRIbjJiR25wREgybHpIcG9LSkRsOHBnWjZIN3o2VUFRMUdDbmJNSmY3VW9j?oc=5)
+
+---
+
+### [Red Cross volunteers die from suspected Ebola in DR Congo](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtVTduTkdnRlU3S2NVdjJiSE5xQjFEdl9VQU8wcGpsMnZvZWx0d09ydU5HSEl0Y1dmNHJ1ZzJMSXNzeGhZZWlSY1BNYXNsUElic0lIVnIzQWtwbHNS?oc=5)
+
+2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtVTduTkdnRlU3S2NVdjJiSE5xQjFEdl9VQU8wcGpsMnZvZWx0d09ydU5HSEl0Y1dmNHJ1ZzJMSXNzeGhZZWlSY1BNYXNsUElic0lIVnIzQWtwbHNS?oc=5)
 
 ---
 
@@ -70,35 +86,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOSlJrTGozbnJ1NVFXUkdpTkVKVTlkc05oaGRkdEVxZzZfT0NkWjJpUUtQWDhyOXZJWjk2aFE3Q1E1bFVORDJCZ1VCTXpsdUI2WnV2QTNBSFZLY3ljVHBsVGNDVm5IeVVPSWNJQjR2LUVWNU1MNjB0Tk9JTUJkTW02eDdFN1JOMjhUMXZhc01SSnNNdUl4amZ3NU5qXzUxdw?oc=5)
+### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
 
-2026-05-23 <span class="news-indication-tag">MS</span>
+2026-05-23 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOSlJrTGozbnJ1NVFXUkdpTkVKVTlkc05oaGRkdEVxZzZfT0NkWjJpUUtQWDhyOXZJWjk2aFE3Q1E1bFVORDJCZ1VCTXpsdUI2WnV2QTNBSFZLY3ljVHBsVGNDVm5IeVVPSWNJQjR2LUVWNU1MNjB0Tk9JTUJkTW02eDdFN1JOMjhUMXZhc01SSnNNdUl4amZ3NU5qXzUxdw?oc=5)
-
----
-
-### [Why 'Normal' Vitamin B12 Levels May Still Trigger Cognitive Decline, According to a New Study](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnE3TkhGU0V5d2FVdng4aEQ5OWY0NWFCR1ZTSk9CbXdOMXlNUlFoT2NPYnpkM2xFR19qNU9kazhxN3VKenJqLTI5VXloSVkxUm9WWVVseXZtODVWY2Z5M2J5SHFDUk5kc1pxekFlaFY0UV9Ic1c0NHFCZzhFekgyT1U0M0loanBsTThPTWtQVXJMR0cyNDRoVXlPbXFiSnFsSzcteG1fOC1RZGtma1lLMEUtSnNSTWNXNENFenM2cGR1ZjV2RmhxMzlCQmtYUQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[inc.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnE3TkhGU0V5d2FVdng4aEQ5OWY0NWFCR1ZTSk9CbXdOMXlNUlFoT2NPYnpkM2xFR19qNU9kazhxN3VKenJqLTI5VXloSVkxUm9WWVVseXZtODVWY2Z5M2J5SHFDUk5kc1pxekFlaFY0UV9Ic1c0NHFCZzhFekgyT1U0M0loanBsTThPTWtQVXJMR0cyNDRoVXlPbXFiSnFsSzcteG1fOC1RZGtma1lLMEUtSnNSTWNXNENFenM2cGR1ZjV2RmhxMzlCQmtYUQ?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
 
 ---
 
-### [L'Organizzazione mondiale della Sanità ha detto che i casi di ebola in Repubblica Democratica del Congo sono triplicati in una settimana - Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFBkTngyejZQQ1Q1TmI2d2RRQ1VYNHFRQW5zZmozcGRoUTRRM3dxNHNkeGZ0cVI4ekI4eUlZdkxJWFZmdUNvaGpOSm5FWmIzNFZxa0dkd2pMOEZKTDJLeGItclVYVzdGOUg2NXQ0?oc=5)
+### ['My 11-year-old woke up with a numb arm - she died 15 days later' - Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVjlMVjlLZ3NhUmtwcko5R3RKNXhyTTlteHAyS2VPM2FIYnhzQktvallaUFNGTTFmMDFKX1diaDkwd0t6a29Za1pkaEUtYm5OZTRET1NpZGQ2dHF2cXBMOXVaZW9OanFVOW9oZ1VpMmdLLWpVXzB6X1owVHJndzjSAYQBQVVfeXFMUGpGem51eEc2VlRfZUtpZEJHNlRGdEgyNy1kQ1V1R0FJTzhzQ045MTV2Y2lTYVhoZS13NlZPU0MzdTFSTnNNWk5fVWRXTjZxVjZreWQ1YjZ2N3EzakJuVjhiUlY0VUZ2WVFlRW5jWE91Vk8wRWVCa2UxQzZQTU01ck5RLTRs?oc=5)
 
-2026-05-22 <span class="news-indication-tag">MS</span>
+2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFBkTngyejZQQ1Q1TmI2d2RRQ1VYNHFRQW5zZmozcGRoUTRRM3dxNHNkeGZ0cVI4ekI4eUlZdkxJWFZmdUNvaGpOSm5FWmIzNFZxa0dkd2pMOEZKTDJLeGItclVYVzdGOUg2NXQ0?oc=5)
-
----
-
-### [Hantavirus, Oms: 'Positivo altro membro equipaggio. 12 casi e 3 morti' - Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVjlMVjlLZ3NhUmtwcko5R3RKNXhyTTlteHAyS2VPM2FIYnhzQktvallaUFNGTTFmMDFKX1diaDkwd0t6a29Za1pkaEUtYm5OZTRET1NpZGQ2dHF2cXBMOXVaZW9OanFVOW9oZ1VpMmdLLWpVXzB6X1owVHJndzjSAYQBQVVfeXFMUGpGem51eEc2VlRfZUtpZEJHNlRGdEgyNy1kQ1V1R0FJTzhzQ045MTV2Y2lTYVhoZS13NlZPU0MzdTFSTnNNWk5fVWRXTjZxVjZreWQ1YjZ2N3EzakJuVjhiUlY0VUZ2WVFlRW5jWE91Vk8wRWVCa2UxQzZQTU01ck5RLTRs?oc=5)
 
 ---
 
@@ -126,11 +126,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Hantavirus, i casi salgono a 12: positivo un membro dello staff della Hondius rientrato a Tenerife - la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMNIBoAFBVV95cUxOWWw2Zk11YW5qeDZ1MFNuX21FdGFlWm5QNTRzNkctUGgwcVJ4TXNlY0J0Z2QweFpCTWRQcW1VRkhKWDVvTE5BQkNYbnR3NjFTUEFhbDBFWVViUVNZVTc4b3hFOGp2MmN1eXlXMTVPRk5qRFhWcDRvcXBqbUpLa0FKSS05WW5uM1BkQ3kzSzhKdEU1RkxINkhTU0VHai04ZVQ0?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMNIBoAFBVV95cUxOWWw2Zk11YW5qeDZ1MFNuX21FdGFlWm5QNTRzNkctUGgwcVJ4TXNlY0J0Z2QweFpCTWRQcW1VRkhKWDVvTE5BQkNYbnR3NjFTUEFhbDBFWVViUVNZVTc4b3hFOGp2MmN1eXlXMTVPRk5qRFhWcDRvcXBqbUpLa0FKSS05WW5uM1BkQ3kzSzhKdEU1RkxINkhTU0VHai04ZVQ0?oc=5)
+
+---
+
+### [Hoffnung für MS-Kranke: Möglicher neuer Wirkstoff gefunden - apotheke adhoc](https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3pCTWZtbldvR1AwX0YteDB3aXNWQ3RsOHk0RXB1QXZVOFlxaDZ1QVctLVBBRy1ZZzl5QmhrZXZzNnBicTFfSjgwNHJVQ1NBeDNpQktINjljNXplVHItSEJFRkhneXJjYkNhQWNBOENjZ09uSE84QkpHNHZhTmlPc2FBY2V2VUFzNW1FaWdxTXhzaG5qQ055M0paSVFZaGRERnB1Q2V4aTMzUFRH?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3pCTWZtbldvR1AwX0YteDB3aXNWQ3RsOHk0RXB1QXZVOFlxaDZ1QVctLVBBRy1ZZzl5QmhrZXZzNnBicTFfSjgwNHJVQ1NBeDNpQktINjljNXplVHItSEJFRkhneXJjYkNhQWNBOENjZ09uSE84QkpHNHZhTmlPc2FBY2V2VUFzNW1FaWdxTXhzaG5qQ055M0paSVFZaGRERnB1Q2V4aTMzUFRH?oc=5)
+
+---
+
 ### [Un informe de la Junta de Monitorización de la Preparación Global de la OMS advierte sobre el peligro de nuevas pandemias "más frecuentes y con consecuencias más graves" e insta a la colaboración internacional para prevenirlas](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
 
 2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[maldita.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
+來源：[Maldita.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
 
 ---
 
@@ -139,6 +155,14 @@ permalink: /news/interferon-beta-1a/
 2026-05-22 <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[Crema on line](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlYtZmh0N01od0FuWW4wSE94N0hhZmFWMXdiQlJYanJlbkN2MTl6VlpQZmRyWnlPQ2JVd3ZURXFPSTNBSUZPVC1OT1BzekI1aU9rSjVZVUc0MnZmNGFIcFlvaFRBbllhejNKMGgzdFZuSHlQMjVoVVlGZU1CNXRNVTlQNUZaT1AyM1o2VXJYQ0NYOXl1MlRWZDc4em0tNlkwN1E?oc=5)
+
+---
+
+### [Salute mentale, emergenza mondiale: disturbi per 1,2 miliardi di persone. Dato raddoppiato dal 1990 - la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTZ5SG82VUV3X1k5My00S0RnbzdldUxHQzlxNlZEV2VObTBjU2tabHAyQ2J4a0JNUFFlUDk3VWE3cXJkMkRhR3ZfTGpPWUNaZXR1anV3bE5JZ250OHNFUU9nNUlQZHh4d0YwekVVUnQwLUVyTU1Dd0xIMGlSaEtiLUpRcVVpT0tMeTFpblFLR3l5VWtUMkFNTzA5c2x5aUVxOHQzWUdhY2FuTzRRN1BpT1g4YXBRMU42LVNvbGNLM1JzMDZzQnNtM0laNUhpcUtObGhGT0VVLXBQc2FxbFN6djVfd0FqSnNfQmU40gHwAUFVX3lxTE54X3ZyeXY5UHFmUVRoWGt3Z2d1M2JyZXA0QkttbklXWlJ6amwxSlh0c0pLcl9IS2hUTXhLUy12aHhJUUdSS3F5OXNUbFJCbDhwb2lhemFfSU9VTlFFV0lqSzVOM1VVMUprMFZxMG5veTRVQlpGRjBRWU16M3A5R3dBRkVLeVI5Z3FSVldENW1mVHR2RGFfaDhEZGhXTWswZDJtV09GS0NJMEFvcENldW9zNmhicm5paExnZ3BkTzNOMDFSdWZqSm5GSzFHUXBuQlhVMDY1S2ZDdnctUWc5NWZsRnJZdXI1cjA4SUpVbk9IRQ?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTZ5SG82VUV3X1k5My00S0RnbzdldUxHQzlxNlZEV2VObTBjU2tabHAyQ2J4a0JNUFFlUDk3VWE3cXJkMkRhR3ZfTGpPWUNaZXR1anV3bE5JZ250OHNFUU9nNUlQZHh4d0YwekVVUnQwLUVyTU1Dd0xIMGlSaEtiLUpRcVVpT0tMeTFpblFLR3l5VWtUMkFNTzA5c2x5aUVxOHQzWUdhY2FuTzRRN1BpT1g4YXBRMU42LVNvbGNLM1JzMDZzQnNtM0laNUhpcUtObGhGT0VVLXBQc2FxbFN6djVfd0FqSnNfQmU40gHwAUFVX3lxTE54X3ZyeXY5UHFmUVRoWGt3Z2d1M2JyZXA0QkttbklXWlJ6amwxSlh0c0pLcl9IS2hUTXhLUy12aHhJUUdSS3F5OXNUbFJCbDhwb2lhemFfSU9VTlFFV0lqSzVOM1VVMUprMFZxMG5veTRVQlpGRjBRWU16M3A5R3dBRkVLeVI5Z3FSVldENW1mVHR2RGFfaDhEZGhXTWswZDJtV09GS0NJMEFvcENldW9zNmhicm5paExnZ3BkTzNOMDFSdWZqSm5GSzFHUXBuQlhVMDY1S2ZDdnctUWc5NWZsRnJZdXI1cjA4SUpVbk9IRQ?oc=5)
 
 ---
 
@@ -155,14 +179,6 @@ permalink: /news/interferon-beta-1a/
 2026-05-22 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
-
----
-
-### [Disturbi mentali per 1,2 miliardi di persone nel mondo: i dati - Sky TG24](https://news.google.com/rss/articles/CBMigwFBVV95cUxONTlhYjRtbEtqZmVvM18tVlI2dmlvWHpaVmxVdkNRWkhJZnhhMzA1UU9fS0xkam1qSkdhYWZvcUFHM2lsajlHR2xEeHpfYlNReGJueldCQVF6V0EtUDM0RUxwX0VLUlhGbHNWcVAzSGpXWjduMzhVZ3BXMEVLX0VtdXdpRQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMigwFBVV95cUxONTlhYjRtbEtqZmVvM18tVlI2dmlvWHpaVmxVdkNRWkhJZnhhMzA1UU9fS0xkam1qSkdhYWZvcUFHM2lsajlHR2xEeHpfYlNReGJueldCQVF6V0EtUDM0RUxwX0VLUlhGbHNWcVAzSGpXWjduMzhVZ3BXMEVLX0VtdXdpRQ?oc=5)
 
 ---
 

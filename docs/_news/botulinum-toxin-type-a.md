@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
+
+2026-05-23 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
+
+---
 
 ### [25 millions de personnes touchées par Parkinson en 2050 : voici la piste qui change la donne - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUERteUsydDFFNTVZcldHb3UwT3JBSzB1Zmh6UDZPWTNCemJuekFILXpuY0thZ2NHYmdrMnpyTHRRYXdDT2NReHRPYlNnalNIdFpENm9odTBMc3R1bWktVFlSZldCa0lJRnI4LVprLVF0dzB6S2pVWU1MdGtteEt6LXN0cmJJNndvWXNOMXhVanRBVC1HWXJfNVRrTFRCMG5UZDVmV3ZRdHZFa2FuU0RETmNDQVBBVTFqTkFycXpFdm1mNllwSlhTcDB4d3ZWTW9kNG9v?oc=5)
 

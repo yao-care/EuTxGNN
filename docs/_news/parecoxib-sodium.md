@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="Parecoxib Sodium 有什麼相關新聞？">
-<strong>Parecoxib Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parecoxib Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/parecoxib-sodium/
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [CardioPODCAST |5x11| Hipertensión arterial: ¿qué hay de nuevo en 2026? - Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkR6d0RTbkJsM0pNbnVUc1dxQ1g0c19iYUxKdnRzamtjTkRXUjlwaXNiNmZyNmtYMUhqQ08xYTVjSkxGWE5tbm9zdl9tX3lYd2hEOXV1RVFvVXhSalMtbTJEUjBXb1QtSE5NRkhPVVAzSFBueFU0cWVaMHZSTXBFaTlXam1qX3dFYlBWaVVyR1JhRHVYRndiRlRPS1k2TElJckdCOUhueHVFLU4xbV95QldXbWFMX3JKQnc?oc=5)
 
 2026-05-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkR6d0RTbkJsM0pNbnVUc1dxQ1g0c19iYUxKdnRzamtjTkRXUjlwaXNiNmZyNmtYMUhqQ08xYTVjSkxGWE5tbm9zdl9tX3lYd2hEOXV1RVFvVXhSalMtbTJEUjBXb1QtSE5NRkhPVVAzSFBueFU0cWVaMHZSTXBFaTlXam1qX3dFYlBWaVVyR1JhRHVYRndiRlRPS1k2TElJckdCOUhueHVFLU4xbV95QldXbWFMX3JKQnc?oc=5)
+
+---
+
+### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
+
+2026-05-23 <span class="news-indication-tag">maladie cardiaque</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ permalink: /news/parecoxib-sodium/
 
 ---
 
-### [PCOS heißt jetzt PMOS: Warum die häufige Frauenerkrankung umbenannt wird](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
-
-2026-05-22 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[netDoktor](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
-
----
-
 ### [Studie zu Lebensmittel-Konservierungsstoffen: höheres Risiko für Bluthochdruck und Herzereignisse - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUV0YnptcklYX2t1ZXB3bDQzd3JiNjhpN1NEa2RvQmExN3pQWHEyWVlpRS1YenViUnBZX1dBUzBzNGJISjN0TktZRm1Na0ZnN1ZlSUd1bS1QUDRmVHE1LWJhX1RVcjZzaklSeVYxMmo3cVlTM21DZWozT0UxZkNJeHNQVFFHdE9mdDNFdnVBM084Qm1Fc1FKcEVxR2EtanhLTWMyUm95dU15azZuQ1lSbEhaaDA2TDVHR3ZUWVc2U0NuNk5zYTVyVExn?oc=5)
 
 2026-05-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUV0YnptcklYX2t1ZXB3bDQzd3JiNjhpN1NEa2RvQmExN3pQWHEyWVlpRS1YenViUnBZX1dBUzBzNGJISjN0TktZRm1Na0ZnN1ZlSUd1bS1QUDRmVHE1LWJhX1RVcjZzaklSeVYxMmo3cVlTM21DZWozT0UxZkNJeHNQVFFHdE9mdDNFdnVBM084Qm1Fc1FKcEVxR2EtanhLTWMyUm95dU15azZuQ1lSbEhaaDA2TDVHR3ZUWVc2U0NuNk5zYTVyVExn?oc=5)
-
----
-
-### [The benefits—and dangers—of optimism](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
-
-2026-05-21 <span class="news-indication-tag">heart disease</span>
-
-來源：[economist.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
 
 ---
 

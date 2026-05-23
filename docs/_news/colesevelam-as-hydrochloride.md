@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
+
+### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
+
+2026-05-23 <span class="news-indication-tag">maladie cardiaque</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
+
+---
 
 ### [Henry Slade: I live with type 1 diabetes. I’m worried my girls will develop it too - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
 
@@ -70,14 +78,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [PCOS heißt jetzt PMOS: Warum die häufige Frauenerkrankung umbenannt wird](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
-
-2026-05-22 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[netDoktor](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
-
----
-
 ### [GP explains four type 2 diabetes treatments — new one could be on NHS soon - Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlB6VzFuYkRhT09XYnVxRVVYRXRlS0lFTWhFemlyeHJCY1k5enBSMGxIUk1HM09zRE9fTExHOVVUYi1Pc0FVZmtxUkgwNWhVR3lPdkpBLWsxZVIwNEdfajVrMDB2Yy0xLWhrcTMtcm93S1RxV3NHUDBCSTZPOEY3SFRxcGd0VnVO0gGOAUFVX3lxTE80MkFjREV6aXNmd1ZicEJGcXlodUlWdldIZjd3ZlMtd1hUWS1XUHplQ0xVQkpkaHozVHg3S1hoNTVqZjRvWm5adWlNT3E4dFZTbTA4T2hrdWtJaG9pdTBESGVqeUpqZXRPZkltSmpFZDhfNmh5QWxXbVFUdWM0TXhncE1lNWJpdjhNSy00TGc?oc=5)
 
 2026-05-22 <span class="news-indication-tag">diabetes</span>
@@ -91,22 +91,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-05-21 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">dementia</span>
 
 來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
-
----
-
-### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
-
----
-
-### [The benefits—and dangers—of optimism](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
-
-2026-05-21 <span class="news-indication-tag">heart disease</span>
-
-來源：[economist.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung（heart disease） 相關新聞"
+title: "maladie cardiaque（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "maladie cardiaque（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung（heart disease） 相關新聞
+# maladie cardiaque（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="maladie cardiaque（heart disease） 有什麼相關新聞？">
+<strong>maladie cardiaque（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie cardiaque」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,21 +85,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [PCOS heißt jetzt PMOS: Warum die häufige Frauenerkrankung umbenannt wird](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
+### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
-2026-05-22
+2026-05-23
 
-來源：[netDoktor](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkdlYnk4d1p5cS1rSDdXZWtLOTR4ZThva0x5ME1Nckp2akNwZGNQeThuR01wQ3NQdllhY3EtSjhWSGxkSEZIQnNscjVQa3NnZjE1OE5aZGthYkpRX0dXMFZlQnRWVzFaOS1lQjVGUjRUcmZhMXJHc1FoSVcwODUyS3lHcFl1ZW1Bdk1HMEdlcnlBWnFWMm9CNmdWR21JS2RQLUxJaXVXS0Q?oc=5)
-
----
-
-### [The benefits—and dangers—of optimism](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
-
-2026-05-21
-
-來源：[economist.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5)
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
 ---
 

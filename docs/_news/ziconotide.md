@@ -54,19 +54,19 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（2 則）
 
+### [Adipositas-Forschung: KI enthüllt Nervenschäden, günstige Pillen verändern den Markt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUh1eTNpRll4b0VNWHpYTUVpX0ZnYlI1bG02R09TMkxybDlPWDNBUExpQ2ZkbTZ3M2RFaUxpZE1tRHhRRlNEMmhzNzBvUlFuOG9tS2ZGZVlqdXJ0NGpOZ0tiWHlwekUtbS1ZV3F2eVFTY0NwTFZZanVyS2pLVXpkd0RhazNyQWVBRWpudzN0djEyNHNqM00zLThhUnhmY2dwRDdqTGxBTGJCRmpOTmFiWXlqZHA?oc=5)
+
+2026-05-22 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUh1eTNpRll4b0VNWHpYTUVpX0ZnYlI1bG02R09TMkxybDlPWDNBUExpQ2ZkbTZ3M2RFaUxpZE1tRHhRRlNEMmhzNzBvUlFuOG9tS2ZGZVlqdXJ0NGpOZ0tiWHlwekUtbS1ZV3F2eVFTY0NwTFZZanVyS2pLVXpkd0RhazNyQWVBRWpudzN0djEyNHNqM00zLThhUnhmY2dwRDdqTGxBTGJCRmpOTmFiWXlqZHA?oc=5)
+
+---
+
 ### [Obesity is your fault - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1BkaF92cGFydVVnb2VTLWxCcUJWTmZYWjgzVVVCb3pDTHJUMk1ORnJFNkR0VkFPQkdkMTBOUnFXc0h6NEdnMkRvWnBWYnpJa3dfYkRyQkp0MC1oQkhKZlc1V25YXzA4NFVObTZlZEZmLURlXzI2OUdxbTVEeFBrMDVUZlVEQlp3aGlmdjV6STNsb2I5QkR3enNuTmpLa1UxSS1jaWNB?oc=5)
 
 2026-05-22 <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1BkaF92cGFydVVnb2VTLWxCcUJWTmZYWjgzVVVCb3pDTHJUMk1ORnJFNkR0VkFPQkdkMTBOUnFXc0h6NEdnMkRvWnBWYnpJa3dfYkRyQkp0MC1oQkhKZlc1V25YXzA4NFVObTZlZEZmLURlXzI2OUdxbTVEeFBrMDVUZlVEQlp3aGlmdjV6STNsb2I5QkR3enNuTmpLa1UxSS1jaWNB?oc=5)
-
----
-
-### [Künstliche Intelligenz analysiert ganze Mauskörper bis auf Zellebene - LMU Klinikum](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcks4LTdnbFhJTnhOWDFaYjVLMjE0Xzl6MXc3MTlwTUdSZWdzZS1wOS1VZU16UkljU0V3SVBFU2lKak9CZGxhRDB5WjIzNGlmV3dDTEhmS3VQQ0xBMDdhUUdTV3Nqc2JuMUl4Mi0zUGNjS3MyYkJkUHZCTExxV1ZkM1EzQkVvVVAyNWN2RmxIYzUySWdVM0lveGhFTERNVEtQV2tXelAycWtJZWVNQnkySmZ3YThQVGRQQWFnMjVwbmVteWlJZjhqRUJ3a1VIY2J6bFJCUA?oc=5)
-
-2026-05-21 <span class="news-indication-tag">Adipositas</span>
-
-來源：[LMU Klinikum](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcks4LTdnbFhJTnhOWDFaYjVLMjE0Xzl6MXc3MTlwTUdSZWdzZS1wOS1VZU16UkljU0V3SVBFU2lKak9CZGxhRDB5WjIzNGlmV3dDTEhmS3VQQ0xBMDdhUUdTV3Nqc2JuMUl4Mi0zUGNjS3MyYkJkUHZCTExxV1ZkM1EzQkVvVVAyNWN2RmxIYzUySWdVM0lveGhFTERNVEtQV2tXelAycWtJZWVNQnkySmZ3YThQVGRQQWFnMjVwbmVteWlJZjhqRUJ3a1VIY2J6bFJCUA?oc=5)
 
 ---
 
