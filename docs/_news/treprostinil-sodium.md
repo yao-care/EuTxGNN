@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [CardioPODCAST |5x11| Hipertensión arterial: ¿qué hay de nuevo en 2026? - Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkR6d0RTbkJsM0pNbnVUc1dxQ1g0c19iYUxKdnRzamtjTkRXUjlwaXNiNmZyNmtYMUhqQ08xYTVjSkxGWE5tbm9zdl9tX3lYd2hEOXV1RVFvVXhSalMtbTJEUjBXb1QtSE5NRkhPVVAzSFBueFU0cWVaMHZSTXBFaTlXam1qX3dFYlBWaVVyR1JhRHVYRndiRlRPS1k2TElJckdCOUhueHVFLU4xbV95QldXbWFMX3JKQnc?oc=5)
+
+2026-05-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkR6d0RTbkJsM0pNbnVUc1dxQ1g0c19iYUxKdnRzamtjTkRXUjlwaXNiNmZyNmtYMUhqQ08xYTVjSkxGWE5tbm9zdl9tX3lYd2hEOXV1RVFvVXhSalMtbTJEUjBXb1QtSE5NRkhPVVAzSFBueFU0cWVaMHZSTXBFaTlXam1qX3dFYlBWaVVyR1JhRHVYRndiRlRPS1k2TElJckdCOUhueHVFLU4xbV95QldXbWFMX3JKQnc?oc=5)
+
+---
 
 ### [Infarti e ipertensione collegati ai conservanti: controlla se ci sono questi negli alimenti - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/treprostinil-sodium/
 
 ---
 
-### [Konservierungsmittel könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
+### [Studie zu Lebensmittel-Konservierungsstoffen: höheres Risiko für Bluthochdruck und Herzereignisse - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUV0YnptcklYX2t1ZXB3bDQzd3JiNjhpN1NEa2RvQmExN3pQWHEyWVlpRS1YenViUnBZX1dBUzBzNGJISjN0TktZRm1Na0ZnN1ZlSUd1bS1QUDRmVHE1LWJhX1RVcjZzaklSeVYxMmo3cVlTM21DZWozT0UxZkNJeHNQVFFHdE9mdDNFdnVBM084Qm1Fc1FKcEVxR2EtanhLTWMyUm95dU15azZuQ1lSbEhaaDA2TDVHR3ZUWVc2U0NuNk5zYTVyVExn?oc=5)
 
-2026-05-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-05-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUV0YnptcklYX2t1ZXB3bDQzd3JiNjhpN1NEa2RvQmExN3pQWHEyWVlpRS1YenViUnBZX1dBUzBzNGJISjN0TktZRm1Na0ZnN1ZlSUd1bS1QUDRmVHE1LWJhX1RVcjZzaklSeVYxMmo3cVlTM21DZWozT0UxZkNJeHNQVFFHdE9mdDNFdnVBM084Qm1Fc1FKcEVxR2EtanhLTWMyUm95dU15azZuQ1lSbEhaaDA2TDVHR3ZUWVc2U0NuNk5zYTVyVExn?oc=5)
 
 ---
 

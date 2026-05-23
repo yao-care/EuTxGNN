@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Award for late teacher's fight against Alzheimer's](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaVFOTFNyVlZSUnRNU3g5Mkc5M3VQQ21GZEs2c0hFYU4xdVZZcXJRSk9raFFKVWVQTi1GVFlISVhNNUpuSWVRZXBRQmY3TlNxeTk3YTA3bXQwSmst?oc=5)
+
+2026-05-23 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaVFOTFNyVlZSUnRNU3g5Mkc5M3VQQ21GZEs2c0hFYU4xdVZZcXJRSk9raFFKVWVQTi1GVFlISVhNNUpuSWVRZXBRQmY3TlNxeTk3YTA3bXQwSmst?oc=5)
+
+---
 
 ### [25 millions de personnes touchées par Parkinson en 2050 : voici la piste qui change la donne - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUERteUsydDFFNTVZcldHb3UwT3JBSzB1Zmh6UDZPWTNCemJuekFILXpuY0thZ2NHYmdrMnpyTHRRYXdDT2NReHRPYlNnalNIdFpENm9odTBMc3R1bWktVFlSZldCa0lJRnI4LVprLVF0dzB6S2pVWU1MdGtteEt6LXN0cmJJNndvWXNOMXhVanRBVC1HWXJfNVRrTFRCMG5UZDVmV3ZRdHZFa2FuU0RETmNDQVBBVTFqTkFycXpFdm1mNllwSlhTcDB4d3ZWTW9kNG9v?oc=5)
 

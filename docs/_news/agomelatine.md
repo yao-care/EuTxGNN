@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Disturbi del sonno tra i giovani: scoperto il circolo vizioso](https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2I5cGNneVpVSHBvVDBlVGpucmZVTGtwekk4eG1UeXRPTkZHYTQtUkNubERpdDhEbzVoLWZMNUJjanF0dndSV1JnYnRTazdmMXFZbE1PM1Bsb2lWV1plNFE1eUtlUXprQ1EtTF80NmVfbW9XLXNiSFpuVnZ1amJScA?oc=5)
+
+2026-05-23 <span class="news-indication-tag">depression</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2I5cGNneVpVSHBvVDBlVGpucmZVTGtwekk4eG1UeXRPTkZHYTQtUkNubERpdDhEbzVoLWZMNUJjanF0dndSV1JnYnRTazdmMXFZbE1PM1Bsb2lWV1plNFE1eUtlUXprQ1EtTF80NmVfbW9XLXNiSFpuVnZ1amJScA?oc=5)
+
+---
+
+### [Los trastornos mentales ya son la principal causa de discapacidad en el mundo](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
+
+2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
+
+---
 
 ### [Alzheimer: depressione, sedentarietà e sonno segnali d’allarme per le donne - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
 
