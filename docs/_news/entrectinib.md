@@ -14,7 +14,7 @@ permalink: /news/entrectinib/
 ---
 
 <p class="key-answer" data-question="Entrectinib 有什麼相關新聞？">
-<strong>Entrectinib</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entrectinib</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/entrectinib/
 <p><a href="{{ '/drugs/entrectinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（19 則）
 
 ### [Neue Krebsstudie: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
 
-2026-05-22 <span class="news-indication-tag">tumor</span>
+2026-05-23 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
+
+---
+
+### [Melanoma, ecco quando bisogna fare una visita dermatologica. L’importanza dell’autoesame della pelle - La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
+
+2026-05-23 <span class="news-indication-tag">tumor</span>
+
+來源：[La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
+
+---
+
+### [Infarti e ipertensione collegati ai conservanti: controlla se ci sono questi negli alimenti - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
+
+2026-05-22 <span class="news-indication-tag">ipertensione</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
+
+---
+
+### [GLP-1-Medikamente: Neue Hoffnung für Krebspatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
+
+2026-05-22 <span class="news-indication-tag">tumor</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
 
 ---
 
@@ -67,14 +91,6 @@ permalink: /news/entrectinib/
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
-
----
-
-### [GLP-1-Medikamente: Neue Hoffnung für Krebspatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
-
-2026-05-22 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
 
 ---
 
@@ -96,7 +112,7 @@ permalink: /news/entrectinib/
 
 ### [Skin cancer cases at record high, new figures show - as UK braces for bank holiday heatwave - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWZjRThxVlRkV1NNb0F4elpCNzFZTkFidXd2SW0zT0lVeTNBbzA3ODMwQ1dQckNzVlVXZGR5M2w4bXhUdnk5MkZmanZxSGNmQjZlVEhwTkc5TV9YOFZJLUlEZ1cyRGh3QWhfYWRqdHJOWG00Q2xqYy1HWlFZXzZ2dlJ2X2ZDb1JhMHR1Tml2UlNHQXlWUU8tT0FRZ3p4R0R3S1JQOG9iTEh1RG1UNXoxVkx3UXZqQWhwcV9rUGQ4aVdxUQ?oc=5)
 
-2026-05-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWZjRThxVlRkV1NNb0F4elpCNzFZTkFidXd2SW0zT0lVeTNBbzA3ODMwQ1dQckNzVlVXZGR5M2w4bXhUdnk5MkZmanZxSGNmQjZlVEhwTkc5TV9YOFZJLUlEZ1cyRGh3QWhfYWRqdHJOWG00Q2xqYy1HWlFZXzZ2dlJ2X2ZDb1JhMHR1Tml2UlNHQXlWUU8tT0FRZ3p4R0R3S1JQOG9iTEh1RG1UNXoxVkx3UXZqQWhwcV9rUGQ4aVdxUQ?oc=5)
 
@@ -168,7 +184,7 @@ permalink: /news/entrectinib/
 
 ### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
@@ -187,14 +203,6 @@ permalink: /news/entrectinib/
 2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmg3cmdibWd2YjV3cV91MG5nNnVLMm0wZ2RSNVRoN3c4LWU1c3UzN0R6YXk1SUJzN2FaekRtTEZtVzEwcnU4TlVyT3EydzdlTDREZVhUaVRGVjFHbXFTS1dZRHUwS1h3SzFHdnRCcTMxbmNSRTZLX0ItTU9xR2VnY3pkNkxMX3NVNjNUaHV1VW9wbWw3MlRYUVB0Z1dPdlFZRVhvYkJJR2N2VFA4dXcybVNlQkhvLVdMNl9n?oc=5)
-
----
-
-### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
 
 ---
 

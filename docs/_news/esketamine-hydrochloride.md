@@ -72,7 +72,7 @@ permalink: /news/esketamine-hydrochloride/
 
 ### [Anxiété et dépression : 1,2 milliard de personnes touchées dans le monde selon une étude - Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
 
-2026-05-21 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+2026-05-21 <span class="news-indication-tag">dépression</span>
 
 來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
 

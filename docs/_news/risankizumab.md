@@ -54,6 +54,14 @@ permalink: /news/risankizumab/
 
 ## 相關新聞（6 則）
 
+### [Henry Slade: I live with type 1 diabetes. I’m worried my girls will develop it too - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
+
+2026-05-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
+
+---
+
 ### [Vier Säulen gegen Nierenversagen: Neue Ära in der Diabetes-Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenpXRWp3SVlZS1JaR01SZ3AzWHhEM1puQ19ITkhtWlhfcmxlRU1JN2xtR1N3aFM1MTEtQ1REcGpnUTZGc2Q2d2dRbGZvUWNpWVpUdXZTeUlzdmV6UGpacWVFMVFYRzNPNEs3TEk4Skl0OVlLOVNnR0NubDdmQW9jU2dZTExqMUtrdFhLWlZ6bDY2UWt5TEdENWRwdEdZQ0pTWFNJbDlfbEM2a1BnRXh1M2NjWlE3MTha?oc=5)
 
 2026-05-22 <span class="news-indication-tag">diabetes</span>
@@ -70,9 +78,17 @@ permalink: /news/risankizumab/
 
 ---
 
+### [Qatar-based British-Pakistani scientist develops AI eye scan for early dementia diagnosis](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
+
+2026-05-21 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">dementia</span>
+
+來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
+
+---
+
 ### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
@@ -83,22 +99,6 @@ permalink: /news/risankizumab/
 2026-05-21 <span class="news-indication-tag">diabete</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUC1wTnp1TTctR1FsbTgzeExkcVFrZEZ0Q3FvLTFwbGhCQ1pPLXVEWXB4NDJnZnl6NXNfQkxLd3ZsQlhPVlR4N1h0S3Y0S2JDV0doWkpja19oRFBzdlJGd0FyZWNuSzhEaEc2MzVnc0Z6U1ZxRUU3aS0zenJ0U1dibUpWaXdMNHJUVi14YTR1Z3dwSWRGcERXYlJpTUNNM0NEeFBySUc3UTlKZWhqNW01b3laazRfOURzNDhkRndtcnU4c0RrLXJSV3h3WHFNajNxWVRKdQ?oc=5)
-
----
-
-### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
-
----
-
-### [Addio alle punture di insulina, per i diabetici nuove speranze da un gel bioartificiale](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ29YVm8zaXFYdThueTdRTDhTZEFBUjRIS2lEZkN5RU5CZ0FmN3psQ0plUTNRTkxVRTdBOC1vdThHeWdjVm5QLVpHZkM4ZmdkY28yQTdZWjZWdk5ENVNlbk14ZkVNQWMzcDhxSjNrLUxIcHNaajJqZmt4cWtqRUhxTjQ4Q2xyZHNsRzFDNkQwWm1LZw?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabetic</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ29YVm8zaXFYdThueTdRTDhTZEFBUjRIS2lEZkN5RU5CZ0FmN3psQ0plUTNRTkxVRTdBOC1vdThHeWdjVm5QLVpHZkM4ZmdkY28yQTdZWjZWdk5ENVNlbk14ZkVNQWMzcDhxSjNrLUxIcHNaajJqZmt4cWtqRUhxTjQ4Q2xyZHNsRzFDNkQwWm1LZw?oc=5)
 
 ---
 

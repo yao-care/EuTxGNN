@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
 ### [EE.UU. suspende visados para viajeros procedentes de países africanos afectados por el ébola - Investing.com España](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVjZMaXQ1Q1VHYV9sbWk2M0xXNDBCN1JpOE5DbWV6Z0FKQ2pqYnZIR24tbW1Sd0tmaV81dEx6bFVOWWdlRkIxeEFhNWI1WWJUX3FfTmtjSlg5UE9ZcV9iT1dWdnBBa09GVi1OYl9qTnY4MGx3SUl3OG1ZaXVJeUhDbTI5S3V4eVptNGw0dkpIczJ2cGRvMENFSHA3NEZBWlluZG4ybU1OajJDRW1MOVl5QzZVUlhDRUJLQjZXX0JrWHYyUFFjUUZNNGhycnRMTzdlSHI2bmpBQ3c?oc=5)
 
@@ -62,19 +62,19 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [L'Organizzazione mondiale della Sanità ha detto che i casi di ebola in Repubblica Democratica del Congo sono triplicati in una settimana - Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFBkTngyejZQQ1Q1TmI2d2RRQ1VYNHFRQW5zZmozcGRoUTRRM3dxNHNkeGZ0cVI4ekI4eUlZdkxJWFZmdUNvaGpOSm5FWmIzNFZxa0dkd2pMOEZKTDJLeGItclVYVzdGOUg2NXQ0?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFBkTngyejZQQ1Q1TmI2d2RRQ1VYNHFRQW5zZmozcGRoUTRRM3dxNHNkeGZ0cVI4ekI4eUlZdkxJWFZmdUNvaGpOSm5FWmIzNFZxa0dkd2pMOEZKTDJLeGItclVYVzdGOUg2NXQ0?oc=5)
+
+---
+
 ### [Hantavirus, Oms: 'Positivo altro membro equipaggio. 12 casi e 3 morti' - Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
 
 2026-05-22 <span class="news-indication-tag">MS</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
-
----
-
-### [You probably don’t need extra electrolytes](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGx3SkVKcFpXVVFQdEZsSlA0YWpVU1pMV193V3hDRW1zbE5QUWxYLVpPUVItNFlKUEowbzh2TUtSeFBIbGJBemZRSEx4VS16cXYtWW5SMFd0ZHY1MS1sTzlQOV8wN1dmTWtwVFR2ZlR2dWlZV3ZnRk52ZmFkaG1jX1BINzg2cndENTNpWE5OeG9XSlU4ck9xa3JsbG93OUFqU2ZN?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[economist.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGx3SkVKcFpXVVFQdEZsSlA0YWpVU1pMV193V3hDRW1zbE5QUWxYLVpPUVItNFlKUEowbzh2TUtSeFBIbGJBemZRSEx4VS16cXYtWW5SMFd0ZHY1MS1sTzlQOV8wN1dmTWtwVFR2ZlR2dWlZV3ZnRk52ZmFkaG1jX1BINzg2cndENTNpWE5OeG9XSlU4ck9xa3JsbG93OUFqU2ZN?oc=5)
 
 ---
 
@@ -94,14 +94,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [“Ebola, rischio globale al massimo livello possibile”, l’Oms alza l’allerta nella Repubblica Democratica del Congo - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkx0RGhZYXU2VDM4QlBOc3dqcy04c25qcnJRdlk4aWFyZmlVZEtrZWpFeE0ydkN5RmcxRzdIbk5ZYTRVZ1N2LWR6dFRpcWJXektVZzhHazNZc1JWR29sQVIzRVlJZFZNR3V0YjJtdWU3ZzRSOEJkNGtSeFNwWGFuN1pCX085S3VmZkZGdU9XZGFwSGJxX3JNbw?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkx0RGhZYXU2VDM4QlBOc3dqcy04c25qcnJRdlk4aWFyZmlVZEtrZWpFeE0ydkN5RmcxRzdIbk5ZYTRVZ1N2LWR6dFRpcWJXektVZzhHazNZc1JWR29sQVIzRVlJZFZNR3V0YjJtdWU3ZzRSOEJkNGtSeFNwWGFuN1pCX085S3VmZkZGdU9XZGFwSGJxX3JNbw?oc=5)
-
----
-
 ### [I'm a cardiologist & most people dismiss 3 early heart symptoms as 'harmless'](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
 
 2026-05-22 <span class="news-indication-tag">MS</span>
@@ -118,19 +110,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Anxiété et dépression : 1,2 milliard de personnes touchées dans le monde selon une étude - Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
+### [La OMS lanza la alerta y pide que nos preparemos porque la humanidad está a punto de sufrir la peor pandemi...](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUZZN2t4NnRhdi0wbmlCaHZyOU5BOVoySms0Q1Q1SkZHbER2dzlYalUzdUJFZmtXdlJ4TlU3cjJTLU5iSFhXc1M2WTV1N3JtYkwxendHcHRicW9RaFBNU2VtT1NWTjZkaE4wX3BKQWJNNDNrSGxUaXFrdlMzQWR3bE1tSW45a2ZGQXRfQXhKZ1pTSkEtdlRlRUpRYmVqeFMyMGxvM3hyY0RadlNJY2NidXhwNUdLR0RTdTlrbnV5UkNIOHZzbjkxMHVRaVEtWkJrLU01UG45ZlRrQ0hwckdZb1pOLUXSAeoBQVVfeXFMTzVWczY2MW9sUERFMDkwVk1nc3JiRXlZQXNKOTV0ajJ4ZmR6a0dGakdxbTRWVlpmdnlaRkhDYlZUSlFEZ1h0V0R6Mll0UW9KU240cmliRXNTVDBrMUNQVUlsTGpBWWRXTlcwa255TmJkX3RIYnl1cTFmcV95akhhZW91NzVEbWc3N3pwRWZGM0ZsMXdtS2YwWW9JVmF4cTVIVE5sZHdfdE0yNFQ3SjVpU1VTNWtYblNIZ01Kc2lCSmI2S2ZpWFAtMzVDR00wRU5UdHAwSGZVTTlBZDRRNmlUZkktUU52a2ZrRV9B?oc=5)
 
-2026-05-21 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
-
----
-
-### [Structured Programs Physically Slow Down Biological Aging - Neuroscience News](https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZktCajRYTUlrTzVKRW9sdHhEbnBmYVVkb3RJczJFc0RheWVuNVU1MzNkYjJBX3JfZ2FDSTJaM3pBVFA1UmJIVmJOR2FsQ1JZdkM0a240YnJLejE3dk90Zzk3aEx0Y2hiZnpEa1NRMA?oc=5)
-
-2026-05-21 <span class="news-indication-tag">MS</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZktCajRYTUlrTzVKRW9sdHhEbnBmYVVkb3RJczJFc0RheWVuNVU1MzNkYjJBX3JfZ2FDSTJaM3pBVFA1UmJIVmJOR2FsQ1JZdkM0a240YnJLejE3dk90Zzk3aEx0Y2hiZnpEa1NRMA?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUZZN2t4NnRhdi0wbmlCaHZyOU5BOVoySms0Q1Q1SkZHbER2dzlYalUzdUJFZmtXdlJ4TlU3cjJTLU5iSFhXc1M2WTV1N3JtYkwxendHcHRicW9RaFBNU2VtT1NWTjZkaE4wX3BKQWJNNDNrSGxUaXFrdlMzQWR3bE1tSW45a2ZGQXRfQXhKZ1pTSkEtdlRlRUpRYmVqeFMyMGxvM3hyY0RadlNJY2NidXhwNUdLR0RTdTlrbnV5UkNIOHZzbjkxMHVRaVEtWkJrLU01UG45ZlRrQ0hwckdZb1pOLUXSAeoBQVVfeXFMTzVWczY2MW9sUERFMDkwVk1nc3JiRXlZQXNKOTV0ajJ4ZmR6a0dGakdxbTRWVlpmdnlaRkhDYlZUSlFEZ1h0V0R6Mll0UW9KU240cmliRXNTVDBrMUNQVUlsTGpBWWRXTlcwa255TmJkX3RIYnl1cTFmcV95akhhZW91NzVEbWc3N3pwRWZGM0ZsMXdtS2YwWW9JVmF4cTVIVE5sZHdfdE0yNFQ3SjVpU1VTNWtYblNIZ01Kc2lCSmI2S2ZpWFAtMzVDR00wRU5UdHAwSGZVTTlBZDRRNmlUZkktUU52a2ZrRV9B?oc=5)
 
 ---
 
@@ -147,6 +131,14 @@ permalink: /news/grazoprevir/
 2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmg3cmdibWd2YjV3cV91MG5nNnVLMm0wZ2RSNVRoN3c4LWU1c3UzN0R6YXk1SUJzN2FaekRtTEZtVzEwcnU4TlVyT3EydzdlTDREZVhUaVRGVjFHbXFTS1dZRHUwS1h3SzFHdnRCcTMxbmNSRTZLX0ItTU9xR2VnY3pkNkxMX3NVNjNUaHV1VW9wbWw3MlRYUVB0Z1dPdlFZRVhvYkJJR2N2VFA4dXcybVNlQkhvLVdMNl9n?oc=5)
+
+---
+
+### [Jura. Hantavirus : « On n’a jamais eu de transmission interhumaine » dans le Jura, rassure le docteur Barletta - Le Progrès](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNy05R2drMXpZd2EzYU4yRXdUTUdSOTAzRlozOHhtM18ySG5xZmJfdm9zeW1iYUJHWms3TkNTZHdBMXI0RERjVERQa1dwZFc1QmhSdHVZQWJOQXVfUjl0bHgwU2dYeDZFRUJRTGJ2R3JiQlpXLU5TYjNsS0x6ZndXTGxSSXRWRlpTZVhxV3Flb0hUckRwVlJhNGlNXzhBM2VORjVRLVRQZVNfY3NNMC1fRXdzRzFMOFNqbUdBSXg5YTdFWV9UTmE0bXRUNW5vajEycnpQM3RR?oc=5)
+
+2026-05-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNy05R2drMXpZd2EzYU4yRXdUTUdSOTAzRlozOHhtM18ySG5xZmJfdm9zeW1iYUJHWms3TkNTZHdBMXI0RERjVERQa1dwZFc1QmhSdHVZQWJOQXVfUjl0bHgwU2dYeDZFRUJRTGJ2R3JiQlpXLU5TYjNsS0x6ZndXTGxSSXRWRlpTZVhxV3Flb0hUckRwVlJhNGlNXzhBM2VORjVRLVRQZVNfY3NNMC1fRXdzRzFMOFNqbUdBSXg5YTdFWV9UTmE0bXRUNW5vajEycnpQM3RR?oc=5)
 
 ---
 

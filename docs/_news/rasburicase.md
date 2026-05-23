@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="Rasburicase 有什麼相關新聞？">
-<strong>Rasburicase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasburicase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/rasburicase/
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Infarti e ipertensione collegati ai conservanti: controlla se ci sono questi negli alimenti - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
+
+2026-05-22 <span class="news-indication-tag">ipertensione</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
+
+---
 
 ### [Konservierungsmittel könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
 
 2026-05-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0lqVEIwVWI4cEstclpWbnVZX18xS1Q5ekY0ZHVENFZrSTFJdGtpUFlsNEtBOGpUbVZKNFRRTF91VmRraGFwU0xkN1Vfd0NaX3dmcm4xYkpSZURjV3NISl8zVWJNNHI5a3BKQmtPV2h4X1dvX013bktpXzN1cDRqNFBzREtYUDFqYWtfY2d6dXFkWHdIbzRHMnZPWEhzQlpZZ09vOWQ2bw?oc=5)
-
----
-
-### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
-
----
-
-### [Cuáles son los conservantes que se asocian con un mayor riesgo cardiovascular](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMU1MeTNLMERjb0twN1FjRkM0cWItQVFuVUV2SzM3ektlS3BaaU1Na0xkRkRrdXFqbENUamlmd0lSVjlBOUxSZ3NFRWstVjN4bUFPVllzUVhaOWpVcm5rTnlLaDlDM1RobzFDMTZ0M1MtNDNFbkpDNTlYQ3lMd2JGajBWVU9GWHg3c3liVFJ3UVFhcURseW9tR2NnWk9ZbXRBc0lBSzRkVEdFSzZCdU92Wjd3d21YV3huWVJJ0gHWAUFVX3lxTFBwdFAxekM3MHFTb3FVWWVvSGh3aXZHalBOdF9yM05mY0hDWldpSU1obzFQYWU3SkQ2aXpDRmRoc0VrTGpOMVZuTVlNR2kyRHBKcjRIbXJ1UkgtWWozYTZmMnZ1cTNyME9WNm93YW0tNlpTcDhSTzF3SDhCbFJHdFkyMmNQZmxJR3ZQeC1nWHdVZmlUY0k0LUtKeG5yNXFtcjVoLXFlV3BkVkttWE5iN2phdlo3UTY2OXZrUUR1NXpJQy1OVGpVaGVJY1BIc3N0eTNpQUlVeVE?oc=5)
 
 ---
 

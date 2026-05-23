@@ -54,6 +54,22 @@ permalink: /news/dimethyl-fumarate/
 
 ## 相關新聞（26 則）
 
+### [Neue Krebsstudie: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
+
+2026-05-23 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
+
+---
+
+### [Melanoma, ecco quando bisogna fare una visita dermatologica. L’importanza dell’autoesame della pelle - La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
+
+2026-05-23 <span class="news-indication-tag">tumor</span>
+
+來源：[La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
+
+---
+
 ### [EE.UU. suspende visados para viajeros procedentes de países africanos afectados por el ébola - Investing.com España](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVjZMaXQ1Q1VHYV9sbWk2M0xXNDBCN1JpOE5DbWV6Z0FKQ2pqYnZIR24tbW1Sd0tmaV81dEx6bFVOWWdlRkIxeEFhNWI1WWJUX3FfTmtjSlg5UE9ZcV9iT1dWdnBBa09GVi1OYl9qTnY4MGx3SUl3OG1ZaXVJeUhDbTI5S3V4eVptNGw0dkpIczJ2cGRvMENFSHA3NEZBWlluZG4ybU1OajJDRW1MOVl5QzZVUlhDRUJLQjZXX0JrWHYyUFFjUUZNNGhycnRMTzdlSHI2bmpBQ3c?oc=5)
 
 2026-05-23 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -62,19 +78,11 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Neue Krebsstudie: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
+### [L'Organizzazione mondiale della Sanità ha detto che i casi di ebola in Repubblica Democratica del Congo sono triplicati in una settimana - Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFBkTngyejZQQ1Q1TmI2d2RRQ1VYNHFRQW5zZmozcGRoUTRRM3dxNHNkeGZ0cVI4ekI4eUlZdkxJWFZmdUNvaGpOSm5FWmIzNFZxa0dkd2pMOEZKTDJLeGItclVYVzdGOUg2NXQ0?oc=5)
 
-2026-05-22 <span class="news-indication-tag">tumor</span>
+2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
-
----
-
-### [What is immunotherapy and how does it treat cancer and other conditions? - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFBkTngyejZQQ1Q1TmI2d2RRQ1VYNHFRQW5zZmozcGRoUTRRM3dxNHNkeGZ0cVI4ekI4eUlZdkxJWFZmdUNvaGpOSm5FWmIzNFZxa0dkd2pMOEZKTDJLeGItclVYVzdGOUg2NXQ0?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/dimethyl-fumarate/
 2026-05-22 <span class="news-indication-tag">MS</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
-
----
-
-### [You probably don’t need extra electrolytes](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGx3SkVKcFpXVVFQdEZsSlA0YWpVU1pMV193V3hDRW1zbE5QUWxYLVpPUVItNFlKUEowbzh2TUtSeFBIbGJBemZRSEx4VS16cXYtWW5SMFd0ZHY1MS1sTzlQOV8wN1dmTWtwVFR2ZlR2dWlZV3ZnRk52ZmFkaG1jX1BINzg2cndENTNpWE5OeG9XSlU4ck9xa3JsbG93OUFqU2ZN?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[economist.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGx3SkVKcFpXVVFQdEZsSlA0YWpVU1pMV193V3hDRW1zbE5QUWxYLVpPUVItNFlKUEowbzh2TUtSeFBIbGJBemZRSEx4VS16cXYtWW5SMFd0ZHY1MS1sTzlQOV8wN1dmTWtwVFR2ZlR2dWlZV3ZnRk52ZmFkaG1jX1BINzg2cndENTNpWE5OeG9XSlU4ck9xa3JsbG93OUFqU2ZN?oc=5)
 
 ---
 
@@ -104,17 +104,17 @@ permalink: /news/dimethyl-fumarate/
 
 ### [GLP-1-Medikamente: Neue Hoffnung für Krebspatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
 
-2026-05-22 <span class="news-indication-tag">Krebs</span>
+2026-05-22 <span class="news-indication-tag">tumor</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
 
 ---
 
-### [“Ebola, rischio globale al massimo livello possibile”, l’Oms alza l’allerta nella Repubblica Democratica del Congo - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkx0RGhZYXU2VDM4QlBOc3dqcy04c25qcnJRdlk4aWFyZmlVZEtrZWpFeE0ydkN5RmcxRzdIbk5ZYTRVZ1N2LWR6dFRpcWJXektVZzhHazNZc1JWR29sQVIzRVlJZFZNR3V0YjJtdWU3ZzRSOEJkNGtSeFNwWGFuN1pCX085S3VmZkZGdU9XZGFwSGJxX3JNbw?oc=5)
+### [What is immunotherapy and how does it treat cancer and other conditions? - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
 
-2026-05-22 <span class="news-indication-tag">MS</span>
+2026-05-22 <span class="news-indication-tag">cancer</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkx0RGhZYXU2VDM4QlBOc3dqcy04c25qcnJRdlk4aWFyZmlVZEtrZWpFeE0ydkN5RmcxRzdIbk5ZYTRVZ1N2LWR6dFRpcWJXektVZzhHazNZc1JWR29sQVIzRVlJZFZNR3V0YjJtdWU3ZzRSOEJkNGtSeFNwWGFuN1pCX085S3VmZkZGdU9XZGFwSGJxX3JNbw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
 
 ---
 
@@ -150,9 +150,17 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
+### [La OMS lanza la alerta y pide que nos preparemos porque la humanidad está a punto de sufrir la peor pandemi...](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUZZN2t4NnRhdi0wbmlCaHZyOU5BOVoySms0Q1Q1SkZHbER2dzlYalUzdUJFZmtXdlJ4TlU3cjJTLU5iSFhXc1M2WTV1N3JtYkwxendHcHRicW9RaFBNU2VtT1NWTjZkaE4wX3BKQWJNNDNrSGxUaXFrdlMzQWR3bE1tSW45a2ZGQXRfQXhKZ1pTSkEtdlRlRUpRYmVqeFMyMGxvM3hyY0RadlNJY2NidXhwNUdLR0RTdTlrbnV5UkNIOHZzbjkxMHVRaVEtWkJrLU01UG45ZlRrQ0hwckdZb1pOLUXSAeoBQVVfeXFMTzVWczY2MW9sUERFMDkwVk1nc3JiRXlZQXNKOTV0ajJ4ZmR6a0dGakdxbTRWVlpmdnlaRkhDYlZUSlFEZ1h0V0R6Mll0UW9KU240cmliRXNTVDBrMUNQVUlsTGpBWWRXTlcwa255TmJkX3RIYnl1cTFmcV95akhhZW91NzVEbWc3N3pwRWZGM0ZsMXdtS2YwWW9JVmF4cTVIVE5sZHdfdE0yNFQ3SjVpU1VTNWtYblNIZ01Kc2lCSmI2S2ZpWFAtMzVDR00wRU5UdHAwSGZVTTlBZDRRNmlUZkktUU52a2ZrRV9B?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUZZN2t4NnRhdi0wbmlCaHZyOU5BOVoySms0Q1Q1SkZHbER2dzlYalUzdUJFZmtXdlJ4TlU3cjJTLU5iSFhXc1M2WTV1N3JtYkwxendHcHRicW9RaFBNU2VtT1NWTjZkaE4wX3BKQWJNNDNrSGxUaXFrdlMzQWR3bE1tSW45a2ZGQXRfQXhKZ1pTSkEtdlRlRUpRYmVqeFMyMGxvM3hyY0RadlNJY2NidXhwNUdLR0RTdTlrbnV5UkNIOHZzbjkxMHVRaVEtWkJrLU01UG45ZlRrQ0hwckdZb1pOLUXSAeoBQVVfeXFMTzVWczY2MW9sUERFMDkwVk1nc3JiRXlZQXNKOTV0ajJ4ZmR6a0dGakdxbTRWVlpmdnlaRkhDYlZUSlFEZ1h0V0R6Mll0UW9KU240cmliRXNTVDBrMUNQVUlsTGpBWWRXTlcwa255TmJkX3RIYnl1cTFmcV95akhhZW91NzVEbWc3N3pwRWZGM0ZsMXdtS2YwWW9JVmF4cTVIVE5sZHdfdE0yNFQ3SjVpU1VTNWtYblNIZ01Kc2lCSmI2S2ZpWFAtMzVDR00wRU5UdHAwSGZVTTlBZDRRNmlUZkktUU52a2ZrRV9B?oc=5)
+
+---
+
 ### [Skin cancer cases at record high, new figures show - as UK braces for bank holiday heatwave - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWZjRThxVlRkV1NNb0F4elpCNzFZTkFidXd2SW0zT0lVeTNBbzA3ODMwQ1dQckNzVlVXZGR5M2w4bXhUdnk5MkZmanZxSGNmQjZlVEhwTkc5TV9YOFZJLUlEZ1cyRGh3QWhfYWRqdHJOWG00Q2xqYy1HWlFZXzZ2dlJ2X2ZDb1JhMHR1Tml2UlNHQXlWUU8tT0FRZ3p4R0R3S1JQOG9iTEh1RG1UNXoxVkx3UXZqQWhwcV9rUGQ4aVdxUQ?oc=5)
 
-2026-05-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWZjRThxVlRkV1NNb0F4elpCNzFZTkFidXd2SW0zT0lVeTNBbzA3ODMwQ1dQckNzVlVXZGR5M2w4bXhUdnk5MkZmanZxSGNmQjZlVEhwTkc5TV9YOFZJLUlEZ1cyRGh3QWhfYWRqdHJOWG00Q2xqYy1HWlFZXzZ2dlJ2X2ZDb1JhMHR1Tml2UlNHQXlWUU8tT0FRZ3p4R0R3S1JQOG9iTEh1RG1UNXoxVkx3UXZqQWhwcV9rUGQ4aVdxUQ?oc=5)
 
@@ -179,22 +187,6 @@ permalink: /news/dimethyl-fumarate/
 2026-05-22 <span class="news-indication-tag">Krebs</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3FzRExGQ2JhaUNTam5IV3FVc04zbEJUTE13djg2dGE0NF9VenVzMnpZU3JDcG1oNUVYa3preTZOOWdvNWN0dVFNa2hhSV9rZ1Bxb3oxZGhEdkhNOFQ1TVBFZFdad2R0NUJSS0RvbTE2TjdRWVBtRjdpZk1lVmdpLXpxM1JySjB0SnJCYzBKRndBOTFEY042dGhDTHE3QTNrWGtjOHc2RWFwZmNFLUtFVWswblNqVlBKUzNUT2RQYV9EendSaXhrQXlDZlNjMjVMMzFEb2M3M0RvaHNmcnlZRjRmdlNpWlVRZzFN?oc=5)
-
----
-
-### [Anxiété et dépression : 1,2 milliard de personnes touchées dans le monde selon une étude - Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
-
-2026-05-21 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
-
----
-
-### [Structured Programs Physically Slow Down Biological Aging - Neuroscience News](https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZktCajRYTUlrTzVKRW9sdHhEbnBmYVVkb3RJczJFc0RheWVuNVU1MzNkYjJBX3JfZ2FDSTJaM3pBVFA1UmJIVmJOR2FsQ1JZdkM0a240YnJLejE3dk90Zzk3aEx0Y2hiZnpEa1NRMA?oc=5)
-
-2026-05-21 <span class="news-indication-tag">MS</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZktCajRYTUlrTzVKRW9sdHhEbnBmYVVkb3RJczJFc0RheWVuNVU1MzNkYjJBX3JfZ2FDSTJaM3pBVFA1UmJIVmJOR2FsQ1JZdkM0a240YnJLejE3dk90Zzk3aEx0Y2hiZnpEa1NRMA?oc=5)
 
 ---
 
@@ -240,7 +232,7 @@ permalink: /news/dimethyl-fumarate/
 
 ### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
@@ -259,6 +251,14 @@ permalink: /news/dimethyl-fumarate/
 2026-05-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmg3cmdibWd2YjV3cV91MG5nNnVLMm0wZ2RSNVRoN3c4LWU1c3UzN0R6YXk1SUJzN2FaekRtTEZtVzEwcnU4TlVyT3EydzdlTDREZVhUaVRGVjFHbXFTS1dZRHUwS1h3SzFHdnRCcTMxbmNSRTZLX0ItTU9xR2VnY3pkNkxMX3NVNjNUaHV1VW9wbWw3MlRYUVB0Z1dPdlFZRVhvYkJJR2N2VFA4dXcybVNlQkhvLVdMNl9n?oc=5)
+
+---
+
+### [Jura. Hantavirus : « On n’a jamais eu de transmission interhumaine » dans le Jura, rassure le docteur Barletta - Le Progrès](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNy05R2drMXpZd2EzYU4yRXdUTUdSOTAzRlozOHhtM18ySG5xZmJfdm9zeW1iYUJHWms3TkNTZHdBMXI0RERjVERQa1dwZFc1QmhSdHVZQWJOQXVfUjl0bHgwU2dYeDZFRUJRTGJ2R3JiQlpXLU5TYjNsS0x6ZndXTGxSSXRWRlpTZVhxV3Flb0hUckRwVlJhNGlNXzhBM2VORjVRLVRQZVNfY3NNMC1fRXdzRzFMOFNqbUdBSXg5YTdFWV9UTmE0bXRUNW5vajEycnpQM3RR?oc=5)
+
+2026-05-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNy05R2drMXpZd2EzYU4yRXdUTUdSOTAzRlozOHhtM18ySG5xZmJfdm9zeW1iYUJHWms3TkNTZHdBMXI0RERjVERQa1dwZFc1QmhSdHVZQWJOQXVfUjl0bHgwU2dYeDZFRUJRTGJ2R3JiQlpXLU5TYjNsS0x6ZndXTGxSSXRWRlpTZVhxV3Flb0hUckRwVlJhNGlNXzhBM2VORjVRLVRQZVNfY3NNMC1fRXdzRzFMOFNqbUdBSXg5YTdFWV9UTmE0bXRUNW5vajEycnpQM3RR?oc=5)
 
 ---
 

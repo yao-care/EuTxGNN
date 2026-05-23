@@ -14,7 +14,7 @@ permalink: /news/larotrectinib-sulfate/
 ---
 
 <p class="key-answer" data-question="Larotrectinib Sulfate 有什麼相關新聞？">
-<strong>Larotrectinib Sulfate</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Larotrectinib Sulfate</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/larotrectinib-sulfate/
 <p><a href="{{ '/drugs/larotrectinib-sulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
 
 ### [Neue Krebsstudie: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
 
-2026-05-22 <span class="news-indication-tag">tumor</span>
+2026-05-23 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
+
+---
+
+### [Melanoma, ecco quando bisogna fare una visita dermatologica. L’importanza dell’autoesame della pelle - La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
+
+2026-05-23 <span class="news-indication-tag">tumor</span>
+
+來源：[La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
+
+---
+
+### [GLP-1-Medikamente: Neue Hoffnung für Krebspatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
+
+2026-05-22 <span class="news-indication-tag">tumor</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/larotrectinib-sulfate/
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
-
----
-
-### [GLP-1-Medikamente: Neue Hoffnung für Krebspatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
-
-2026-05-22 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
 
 ---
 
@@ -96,7 +104,7 @@ permalink: /news/larotrectinib-sulfate/
 
 ### [Skin cancer cases at record high, new figures show - as UK braces for bank holiday heatwave - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWZjRThxVlRkV1NNb0F4elpCNzFZTkFidXd2SW0zT0lVeTNBbzA3ODMwQ1dQckNzVlVXZGR5M2w4bXhUdnk5MkZmanZxSGNmQjZlVEhwTkc5TV9YOFZJLUlEZ1cyRGh3QWhfYWRqdHJOWG00Q2xqYy1HWlFZXzZ2dlJ2X2ZDb1JhMHR1Tml2UlNHQXlWUU8tT0FRZ3p4R0R3S1JQOG9iTEh1RG1UNXoxVkx3UXZqQWhwcV9rUGQ4aVdxUQ?oc=5)
 
-2026-05-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWZjRThxVlRkV1NNb0F4elpCNzFZTkFidXd2SW0zT0lVeTNBbzA3ODMwQ1dQckNzVlVXZGR5M2w4bXhUdnk5MkZmanZxSGNmQjZlVEhwTkc5TV9YOFZJLUlEZ1cyRGh3QWhfYWRqdHJOWG00Q2xqYy1HWlFZXzZ2dlJ2X2ZDb1JhMHR1Tml2UlNHQXlWUU8tT0FRZ3p4R0R3S1JQOG9iTEh1RG1UNXoxVkx3UXZqQWhwcV9rUGQ4aVdxUQ?oc=5)
 
@@ -160,7 +168,7 @@ permalink: /news/larotrectinib-sulfate/
 
 ### [Nourriture ultratransformée : les additifs augmentent le risque de cancers et autres maladies - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
-2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-21 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXE0N1VGR1lBNjEzcUFTbENvd3k4dW41NXZDT015X2FEQXBBNlp1UWc4OTU2UzZiZWZKQllBaW1FMFJaTmNJSVdNdEM4Zm1lMFNRYkswV3hEZ2RPSm5lTTFCOTdyV1h1c05SamVaVzkzTlZJUW5uNTRscDhCVWx5LXhMWmdkaFE?oc=5)
 
