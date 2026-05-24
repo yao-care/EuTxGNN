@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（1 則）
 
 ### [Award for late teacher's fight against Alzheimer's](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaVFOTFNyVlZSUnRNU3g5Mkc5M3VQQ21GZEs2c0hFYU4xdVZZcXJRSk9raFFKVWVQTi1GVFlISVhNNUpuSWVRZXBRQmY3TlNxeTk3YTA3bXQwSmst?oc=5)
 
 2026-05-23 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaVFOTFNyVlZSUnRNU3g5Mkc5M3VQQ21GZEs2c0hFYU4xdVZZcXJRSk9raFFKVWVQTi1GVFlISVhNNUpuSWVRZXBRQmY3TlNxeTk3YTA3bXQwSmst?oc=5)
-
----
-
-### [25 millions de personnes touchées par Parkinson en 2050 : voici la piste qui change la donne - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUERteUsydDFFNTVZcldHb3UwT3JBSzB1Zmh6UDZPWTNCemJuekFILXpuY0thZ2NHYmdrMnpyTHRRYXdDT2NReHRPYlNnalNIdFpENm9odTBMc3R1bWktVFlSZldCa0lJRnI4LVprLVF0dzB6S2pVWU1MdGtteEt6LXN0cmJJNndvWXNOMXhVanRBVC1HWXJfNVRrTFRCMG5UZDVmV3ZRdHZFa2FuU0RETmNDQVBBVTFqTkFycXpFdm1mNllwSlhTcDB4d3ZWTW9kNG9v?oc=5)
-
-2026-05-22 <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUERteUsydDFFNTVZcldHb3UwT3JBSzB1Zmh6UDZPWTNCemJuekFILXpuY0thZ2NHYmdrMnpyTHRRYXdDT2NReHRPYlNnalNIdFpENm9odTBMc3R1bWktVFlSZldCa0lJRnI4LVprLVF0dzB6S2pVWU1MdGtteEt6LXN0cmJJNndvWXNOMXhVanRBVC1HWXJfNVRrTFRCMG5UZDVmV3ZRdHZFa2FuU0RETmNDQVBBVTFqTkFycXpFdm1mNllwSlhTcDB4d3ZWTW9kNG9v?oc=5)
-
----
-
-### [19-Year Study Reveals the Surprising Truth About Sitting and Dementia](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFdMbDRIc2hET29hblhIdlJDOC1qY1dYbWo1MDRaQlE5QXg3SFA0UTNtTTM5SWRpZ0ZlamtmeTdXVWVkQktNbGp6SVp6RFJMbFk4bVVCV3phNkFjMnJlTTJPTTN3QTNRSkp4R1VsdlMxNHhhcW9VYnA1RGdXVlhMYVQ5N1gzeE1ZRFp6T0JndWZYZGlsbS1pQUZhbw?oc=5)
-
-2026-05-22 <span class="news-indication-tag">dementia</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFdMbDRIc2hET29hblhIdlJDOC1qY1dYbWo1MDRaQlE5QXg3SFA0UTNtTTM5SWRpZ0ZlamtmeTdXVWVkQktNbGp6SVp6RFJMbFk4bVVCV3phNkFjMnJlTTJPTTN3QTNRSkp4R1VsdlMxNHhhcW9VYnA1RGdXVlhMYVQ5N1gzeE1ZRFp6T0JndWZYZGlsbS1pQUZhbw?oc=5)
-
----
-
-### [Qatar-based British-Pakistani scientist develops AI eye scan for early dementia diagnosis](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（4 則）
 
-### [CardioPODCAST |5x11| Hipertensión arterial: ¿qué hay de nuevo en 2026? - Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkR6d0RTbkJsM0pNbnVUc1dxQ1g0c19iYUxKdnRzamtjTkRXUjlwaXNiNmZyNmtYMUhqQ08xYTVjSkxGWE5tbm9zdl9tX3lYd2hEOXV1RVFvVXhSalMtbTJEUjBXb1QtSE5NRkhPVVAzSFBueFU0cWVaMHZSTXBFaTlXam1qX3dFYlBWaVVyR1JhRHVYRndiRlRPS1k2TElJckdCOUhueHVFLU4xbV95QldXbWFMX3JKQnc?oc=5)
+### [Profesionales de Albacete advierten sobre el peligro del “asesino silencioso” - El Digital de Albacete](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDRlblpqTTlRWDFZXzZGX3RpRkFkUXN0cWIwQngzQ250Vnl2c0pBV0l1ejJPR3B4aW92S0NBU2pULXBJQURVTE9oSi1BTVc2X21EVzdMdXRnakxZY3R5X0RaSi1fcjRoakNyeGU2SkE4OTBfNHE1NmxRNzBYWTNiMHVCcTRIdFdwUXJpblRmYjg3X1VDZGc0NTQwcXRVNlR4X1dNd0RGcmExSjVraG1GNkltX2I4Y0t4VVc0U19zM1k?oc=5)
 
 2026-05-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sociedad Española de Cardiología (SEC)](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkR6d0RTbkJsM0pNbnVUc1dxQ1g0c19iYUxKdnRzamtjTkRXUjlwaXNiNmZyNmtYMUhqQ08xYTVjSkxGWE5tbm9zdl9tX3lYd2hEOXV1RVFvVXhSalMtbTJEUjBXb1QtSE5NRkhPVVAzSFBueFU0cWVaMHZSTXBFaTlXam1qX3dFYlBWaVVyR1JhRHVYRndiRlRPS1k2TElJckdCOUhueHVFLU4xbV95QldXbWFMX3JKQnc?oc=5)
+來源：[El Digital de Albacete](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDRlblpqTTlRWDFZXzZGX3RpRkFkUXN0cWIwQngzQ250Vnl2c0pBV0l1ejJPR3B4aW92S0NBU2pULXBJQURVTE9oSi1BTVc2X21EVzdMdXRnakxZY3R5X0RaSi1fcjRoakNyeGU2SkE4OTBfNHE1NmxRNzBYWTNiMHVCcTRIdFdwUXJpblRmYjg3X1VDZGc0NTQwcXRVNlR4X1dNd0RGcmExSjVraG1GNkltX2I4Y0t4VVc0U19zM1k?oc=5)
 
 ---
 
@@ -70,19 +70,19 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Bluthochdruck: Neue Erkenntnisse zu Konservierungsstoffen und Therapien - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY25oWXFsdkdZNmszbHMzbzllSWxoUUFQVll1QVg4RUtqejJXaUM1cDFpenBDX0VoZ1JzU1NaSHdWOTJOa0RWUmo0TzlaMm9Vck1XUjFCZDFsUkRLOW0wOUVyMXc4Vm9fVHhGODZ4aE9YbTl1VEdzYkFYNi0yV0U5VDY3cHhiMzMxWG10SWxWQ3E3c2pnSGVkOERYREZ2Mll3OHNXVlNqQ1MxMXk3dmVucU5OWWN6cFRiYzRr?oc=5)
+
+2026-05-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY25oWXFsdkdZNmszbHMzbzllSWxoUUFQVll1QVg4RUtqejJXaUM1cDFpenBDX0VoZ1JzU1NaSHdWOTJOa0RWUmo0TzlaMm9Vck1XUjFCZDFsUkRLOW0wOUVyMXc4Vm9fVHhGODZ4aE9YbTl1VEdzYkFYNi0yV0U5VDY3cHhiMzMxWG10SWxWQ3E3c2pnSGVkOERYREZ2Mll3OHNXVlNqQ1MxMXk3dmVucU5OWWN6cFRiYzRr?oc=5)
+
+---
+
 ### [Infarti e ipertensione collegati ai conservanti: controlla se ci sono questi negli alimenti - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
 
 2026-05-22 <span class="news-indication-tag">ipertensione</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
-
----
-
-### [Studie zu Lebensmittel-Konservierungsstoffen: höheres Risiko für Bluthochdruck und Herzereignisse - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUV0YnptcklYX2t1ZXB3bDQzd3JiNjhpN1NEa2RvQmExN3pQWHEyWVlpRS1YenViUnBZX1dBUzBzNGJISjN0TktZRm1Na0ZnN1ZlSUd1bS1QUDRmVHE1LWJhX1RVcjZzaklSeVYxMmo3cVlTM21DZWozT0UxZkNJeHNQVFFHdE9mdDNFdnVBM084Qm1Fc1FKcEVxR2EtanhLTWMyUm95dU15azZuQ1lSbEhaaDA2TDVHR3ZUWVc2U0NuNk5zYTVyVExn?oc=5)
-
-2026-05-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUV0YnptcklYX2t1ZXB3bDQzd3JiNjhpN1NEa2RvQmExN3pQWHEyWVlpRS1YenViUnBZX1dBUzBzNGJISjN0TktZRm1Na0ZnN1ZlSUd1bS1QUDRmVHE1LWJhX1RVcjZzaklSeVYxMmo3cVlTM21DZWozT0UxZkNJeHNQVFFHdE9mdDNFdnVBM084Qm1Fc1FKcEVxR2EtanhLTWMyUm95dU15azZuQ1lSbEhaaDA2TDVHR3ZUWVc2U0NuNk5zYTVyVExn?oc=5)
 
 ---
 

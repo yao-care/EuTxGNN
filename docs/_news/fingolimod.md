@@ -54,14 +54,6 @@ permalink: /news/fingolimod/
 
 ## 相關新聞（30 則）
 
-### [Ampliación: RD del Congo suspende vuelos de pasajeros a localidad afectada por Ébola, Bunia - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYzQ1FLU0RIY3FGZ3FRUDJGbmlMVTBlQ0xFUWFZNElaQmpwSkZacHJLT2FKckpjVV9XLW4tUmthNjVvbEFMajJQZjBNSk1OU2RaWWE1UUNIOUdzbk1KSXBNQTVDSmFnTnBRUExEc3IzWnZtVmtRQUx5WlcxejhjMFZmYw?oc=5)
-
-2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYzQ1FLU0RIY3FGZ3FRUDJGbmlMVTBlQ0xFUWFZNElaQmpwSkZacHJLT2FKckpjVV9XLW4tUmthNjVvbEFMajJQZjBNSk1OU2RaWWE1UUNIOUdzbk1KSXBNQTVDSmFnTnBRUExEc3IzWnZtVmtRQUx5WlcxejhjMFZmYw?oc=5)
-
----
-
 ### [Neue Krebsstudie: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
 
 2026-05-23 <span class="news-indication-tag">tumor</span>
@@ -70,19 +62,51 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Ebola, Africa Cdc: “Altri dieci Paesi a rischio epidemia” - Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDlpUFB5T0dUQmFZaERuSUsyMFRhbnVXVEtvYkZpQjNCWEFnaVlUUDRKY1pWTi1hV1pKTGRBTVY3THpBNmFOV2Fqekh4ZWF0dndmN3JjSG92U2thTUtrQkRIbjJiR25wREgybHpIcG9LSkRsOHBnWjZIN3o2VUFRMUdDbmJNSmY3VW9j?oc=5)
+### [Krankenhäuser überfordert: Mehr als 500 Kinder bei Masernausbruch in Bangladesch gestorben](https://news.google.com/rss/articles/CBMirAFBVV95cUxORHNJS19EUDYzbWhaZXhSMUVNWEQ3cmxYUHRTUjI0R3lPM05KYTRmNjg1M05velJqOXp2MFpKc3lZX1hpQmJmUk05VUI1MEhfMkZYQUZqSG94QUtKemhpRFpMREdEaC14bEV0b2YzZENWQkZCbjhRdnhtb3h6eHVLNHFUZXFtaWVfRUF6QmJ6X2hLeWIzLW81RE9GSE5Ja3BnZFZkemZ0N1R1cVI1?oc=5)
+
+2026-05-23 <span class="news-indication-tag">MS</span>
+
+來源：[Ntv](https://news.google.com/rss/articles/CBMirAFBVV95cUxORHNJS19EUDYzbWhaZXhSMUVNWEQ3cmxYUHRTUjI0R3lPM05KYTRmNjg1M05velJqOXp2MFpKc3lZX1hpQmJmUk05VUI1MEhfMkZYQUZqSG94QUtKemhpRFpMREdEaC14bEV0b2YzZENWQkZCbjhRdnhtb3h6eHVLNHFUZXFtaWVfRUF6QmJ6X2hLeWIzLW81RE9GSE5Ja3BnZFZkemZ0N1R1cVI1?oc=5)
+
+---
+
+### [Virus Ebola, Pregliasco: Italia a rischio contagio - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcDJoMWZVU1ZORVRnOWFDX0hGQjFnMzBGaTFGUHhhdjZhcnFiNk9vQkVhNndvbUZpY1plVnlLS1pYT2VHXy1iMTVXQjRyNzZLcS1MaXNwUnNMbTdpYUFNNi1ualVwcW5saExlbE93eURtSTVtd3c5YW5xUHZxR2gzbERTaVF0Q2Vqdk9ad1kzLVU?oc=5)
 
 2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDlpUFB5T0dUQmFZaERuSUsyMFRhbnVXVEtvYkZpQjNCWEFnaVlUUDRKY1pWTi1hV1pKTGRBTVY3THpBNmFOV2Fqekh4ZWF0dndmN3JjSG92U2thTUtrQkRIbjJiR25wREgybHpIcG9LSkRsOHBnWjZIN3o2VUFRMUdDbmJNSmY3VW9j?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcDJoMWZVU1ZORVRnOWFDX0hGQjFnMzBGaTFGUHhhdjZhcnFiNk9vQkVhNndvbUZpY1plVnlLS1pYT2VHXy1iMTVXQjRyNzZLcS1MaXNwUnNMbTdpYUFNNi1ualVwcW5saExlbE93eURtSTVtd3c5YW5xUHZxR2gzbERTaVF0Q2Vqdk9ad1kzLVU?oc=5)
+
+---
+
+### [Ampliación: RD del Congo suspende vuelos de pasajeros a localidad afectada por Ébola, Bunia - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYzQ1FLU0RIY3FGZ3FRUDJGbmlMVTBlQ0xFUWFZNElaQmpwSkZacHJLT2FKckpjVV9XLW4tUmthNjVvbEFMajJQZjBNSk1OU2RaWWE1UUNIOUdzbk1KSXBNQTVDSmFnTnBRUExEc3IzWnZtVmtRQUx5WlcxejhjMFZmYw?oc=5)
+
+2026-05-23 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYzQ1FLU0RIY3FGZ3FRUDJGbmlMVTBlQ0xFUWFZNElaQmpwSkZacHJLT2FKckpjVV9XLW4tUmthNjVvbEFMajJQZjBNSk1OU2RaWWE1UUNIOUdzbk1KSXBNQTVDSmFnTnBRUExEc3IzWnZtVmtRQUx5WlcxejhjMFZmYw?oc=5)
 
 ---
 
 ### [Red Cross volunteers die from suspected Ebola in DR Congo](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtVTduTkdnRlU3S2NVdjJiSE5xQjFEdl9VQU8wcGpsMnZvZWx0d09ydU5HSEl0Y1dmNHJ1ZzJMSXNzeGhZZWlSY1BNYXNsUElic0lIVnIzQWtwbHNS?oc=5)
 
-2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-23 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtVTduTkdnRlU3S2NVdjJiSE5xQjFEdl9VQU8wcGpsMnZvZWx0d09ydU5HSEl0Y1dmNHJ1ZzJMSXNzeGhZZWlSY1BNYXNsUElic0lIVnIzQWtwbHNS?oc=5)
+
+---
+
+### [Près de Nantes : cette clinique propose un traitement innovant contre le cancer de la prostate](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1p0NTFHQ0VubWJVVnozQ1BZLUtHX1BKd3A3cGF6a19ON1pQNHBnN1dMMVpDR2Z1R3Rvbk5lVk1UeE82N05IeV9zOW1DUUJ4dTYtV213ejkzV2toaHhtRWZ4bl9DZEpVUndxSzhWODU0WUtJV0NBOTVscGJqQTJDRGpfLWVSVmxVaGozVnYybnE4ekVIQkpWamZ3bXdjeXFfbzlFcmZBTjd1RHY2bWJzRmxZckY2REJpdnpFQ091VERSbnZETDlnT0JoMVRjZlAyNEJQaTlBZHFxQVd5OFVTdkZSeWtiZ2NVbHQ3U2NzQno5UQ?oc=5)
+
+2026-05-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1p0NTFHQ0VubWJVVnozQ1BZLUtHX1BKd3A3cGF6a19ON1pQNHBnN1dMMVpDR2Z1R3Rvbk5lVk1UeE82N05IeV9zOW1DUUJ4dTYtV213ejkzV2toaHhtRWZ4bl9DZEpVUndxSzhWODU0WUtJV0NBOTVscGJqQTJDRGpfLWVSVmxVaGozVnYybnE4ekVIQkpWamZ3bXdjeXFfbzlFcmZBTjd1RHY2bWJzRmxZckY2REJpdnpFQ091VERSbnZETDlnT0JoMVRjZlAyNEJQaTlBZHFxQVd5OFVTdkZSeWtiZ2NVbHQ3U2NzQno5UQ?oc=5)
+
+---
+
+### [We forked out £4,200 on 'five-star' holiday in Brit holiday hotspot… then deadly bug left our baby with 10 hours to live - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjV3TkQtZTdZWEdYaHFhUVVqT3VRYm5uM0U5T2I1TVNYSGwydUZlNTI4MzFCZ3Vja2oyRzZyR2Jocm5teHhVdnJfVF96N2UxOFdpX1BaUDdkZWdyVzdWUmhUNjIwQTFuM2Q0SUo4ZzE0OFUwcUtUTU1rdHNWMWpuZnY2SlRwYU5CWDVjdTNqZw?oc=5)
+
+2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjV3TkQtZTdZWEdYaHFhUVVqT3VRYm5uM0U5T2I1TVNYSGwydUZlNTI4MzFCZ3Vja2oyRzZyR2Jocm5teHhVdnJfVF96N2UxOFdpX1BaUDdkZWdyVzdWUmhUNjIwQTFuM2Q0SUo4ZzE0OFUwcUtUTU1rdHNWMWpuZnY2SlRwYU5CWDVjdTNqZw?oc=5)
 
 ---
 
@@ -102,6 +126,14 @@ permalink: /news/fingolimod/
 
 ---
 
+### [Jusqu’à 35°C ce week-end: les conseils pour se protéger du soleil dès ces premières fortes chaleurs](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
+
+2026-05-23 <span class="news-indication-tag">cancer</span>
+
+來源：[BFM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
+
+---
+
 ### [Cancer des testicules : des symptômes qui ne trompent pas](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHdZZGpva01jUlB1SlJLaUhrT3dUeEkzbGlreHZMVWkxY09jSjJ0ME1Oc215VFZXbVNOTlpzZ3hnS3BkdUVyeUFSLUdkOE9sSjV2ZktJUkNwanlNMFRhbVJCMHJKUTNacDlTSW9DbGdWZFowUk1QdFowWXRKcnFrczVn?oc=5)
 
 2026-05-23 <span class="news-indication-tag">cancer</span>
@@ -118,6 +150,14 @@ permalink: /news/fingolimod/
 
 ---
 
+### [L'âge d'or du cerveau : pourquoi les 55-60 ans possèdent une supériorité stratégique sur les plus jeunes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVY0a01fQlhFY0FtZ2twbElFdkxvUGNoSXZ1aHZKbDFtRE1sZi1wRmpWZUZlekFLazNYSGhKcExDV3NJaUlMTVh6ZDBIRmlQM2ozVzJrdlhxZDNlaWxHRlQyTHhSVzRQTmxubUZxOFFCRmFydmt3WGFyaXFDUDdQWHpiVV9tLVhGVmN3VllTYlQyYURrbXJLbHpTQ3lFYndidm5YV0pVX19UeGJFTkVRbE5qZGZEX3JMNUdSZU9uc3BzQQ?oc=5)
+
+2026-05-23 <span class="news-indication-tag">MS</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVY0a01fQlhFY0FtZ2twbElFdkxvUGNoSXZ1aHZKbDFtRE1sZi1wRmpWZUZlekFLazNYSGhKcExDV3NJaUlMTVh6ZDBIRmlQM2ozVzJrdlhxZDNlaWxHRlQyTHhSVzRQTmxubUZxOFFCRmFydmt3WGFyaXFDUDdQWHpiVV9tLVhGVmN3VllTYlQyYURrbXJLbHpTQ3lFYndidm5YV0pVX19UeGJFTkVRbE5qZGZEX3JMNUdSZU9uc3BzQQ?oc=5)
+
+---
+
 ### [Melanoma, ecco quando bisogna fare una visita dermatologica. L’importanza dell’autoesame della pelle - La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
 
 2026-05-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -126,11 +166,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Soleil et cancers de la peau : les idées reçues persistent - Charente Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXdXeGZqcU9YQUFmcDZSbXNSVUtOQ00zXzk5MWpSYXAwT2xac2wySU1MdE1Ma0ppZFFNOW44QXZENjVhdnZiTlh4WTRabmVISmNSem9WbVVFMF80cG1rSXI2aTBtUTRmeXVvb0tCOGozS1R4S3JDMzRqTnZJRm5EZTlKVHFNbGFVTkZwUDFJMVp4aWdRQmN6bEJ3Z0dua1FiQ3gzdWFiUQ?oc=5)
+### [GLP-1-Medikamente senken womöglich das Risiko von Krebs-Progression - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xNU2wxVzZ0Q3RvR1BqcmtIOXAwb1J3VnhiSHl0TkRnZDFERTkzOUF5VkVOamRRT3Y2amZhb0RoNVo4TTNpbzVGQ3Exc3lFQ1pFa3BIVk95M09aU1FMRmVyc0gyLVowT3l4U1NKVGJMY1FOaGRRZGd0dDdtRklSZTJJN3NJSEdQNF9DNTNVZG0tM3ZaMFlXa2hVXzdTR2JiakE?oc=5)
 
-2026-05-23 <span class="news-indication-tag">cancer</span>
+2026-05-23 <span class="news-indication-tag">tumor</span>
 
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXdXeGZqcU9YQUFmcDZSbXNSVUtOQ00zXzk5MWpSYXAwT2xac2wySU1MdE1Ma0ppZFFNOW44QXZENjVhdnZiTlh4WTRabmVISmNSem9WbVVFMF80cG1rSXI2aTBtUTRmeXVvb0tCOGozS1R4S3JDMzRqTnZJRm5EZTlKVHFNbGFVTkZwUDFJMVp4aWdRQmN6bEJ3Z0dua1FiQ3gzdWFiUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xNU2wxVzZ0Q3RvR1BqcmtIOXAwb1J3VnhiSHl0TkRnZDFERTkzOUF5VkVOamRRT3Y2amZhb0RoNVo4TTNpbzVGQ3Exc3lFQ1pFa3BIVk95M09aU1FMRmVyc0gyLVowT3l4U1NKVGJMY1FOaGRRZGd0dDdtRklSZTJJN3NJSEdQNF9DNTNVZG0tM3ZaMFlXa2hVXzdTR2JiakE?oc=5)
 
 ---
 
@@ -142,19 +182,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [La OMS acuerda una estrategia contra la tuberculosis más allá de 2030](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY252UDhFc2JnTHJFSnNlZWE0dTVHay1NT002U2RzaHBqX21pYmoyTjJ0aFR6aF92UEFZQ3NjWjBzd3F0VWtjTmVyS2FsNXNmQmVJclNyQVFMR3FpRXBMYWZWeGNBTU5tZC1vWGUwLWdOWUlnbnNwRXJRZDBpUFZobi15NEVXcDJ5TUNlcnBB?oc=5)
+### [Hantavirus, Oms: 'Positivo altro membro equipaggio. 12 casi e 3 morti' - Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
 
 2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMijgFBVV95cUxNY252UDhFc2JnTHJFSnNlZWE0dTVHay1NT002U2RzaHBqX21pYmoyTjJ0aFR6aF92UEFZQ3NjWjBzd3F0VWtjTmVyS2FsNXNmQmVJclNyQVFMR3FpRXBMYWZWeGNBTU5tZC1vWGUwLWdOWUlnbnNwRXJRZDBpUFZobi15NEVXcDJ5TUNlcnBB?oc=5)
-
----
-
-### [You probably don’t need extra electrolytes](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGx3SkVKcFpXVVFQdEZsSlA0YWpVU1pMV193V3hDRW1zbE5QUWxYLVpPUVItNFlKUEowbzh2TUtSeFBIbGJBemZRSEx4VS16cXYtWW5SMFd0ZHY1MS1sTzlQOV8wN1dmTWtwVFR2ZlR2dWlZV3ZnRk52ZmFkaG1jX1BINzg2cndENTNpWE5OeG9XSlU4ck9xa3JsbG93OUFqU2ZN?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[economist.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGx3SkVKcFpXVVFQdEZsSlA0YWpVU1pMV193V3hDRW1zbE5QUWxYLVpPUVItNFlKUEowbzh2TUtSeFBIbGJBemZRSEx4VS16cXYtWW5SMFd0ZHY1MS1sTzlQOV8wN1dmTWtwVFR2ZlR2dWlZV3ZnRk52ZmFkaG1jX1BINzg2cndENTNpWE5OeG9XSlU4ck9xa3JsbG93OUFqU2ZN?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
 
 ---
 
@@ -174,27 +206,19 @@ permalink: /news/fingolimod/
 
 ---
 
-### [GLP-1-Medikamente: Neue Hoffnung für Krebspatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
-
-2026-05-22 <span class="news-indication-tag">tumor</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
-
----
-
-### [Hantavirus, i casi salgono a 12: positivo un membro dello staff della Hondius rientrato a Tenerife - la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMNIBoAFBVV95cUxOWWw2Zk11YW5qeDZ1MFNuX21FdGFlWm5QNTRzNkctUGgwcVJ4TXNlY0J0Z2QweFpCTWRQcW1VRkhKWDVvTE5BQkNYbnR3NjFTUEFhbDBFWVViUVNZVTc4b3hFOGp2MmN1eXlXMTVPRk5qRFhWcDRvcXBqbUpLa0FKSS05WW5uM1BkQ3kzSzhKdEU1RkxINkhTU0VHai04ZVQ0?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxONXl4R25ZU1l5S3VvOEFkUEdnYlotNUdyS2F2REo5bDNsbU9hVF9MVjlORGx4LV80NHd2aDQ0OGl4V0hIWE5RSFQ5MnJ2T0w3SEViOUpUUUpVZnJ2RzJEZ2Y1YmExTE9WRnplQklWQy1EODk0RUhkVXA4YVZuYWU0ZS1GLTk1bTBOSnhxUnIzcm5OSmZOSkRPUVFXMNIBoAFBVV95cUxOWWw2Zk11YW5qeDZ1MFNuX21FdGFlWm5QNTRzNkctUGgwcVJ4TXNlY0J0Z2QweFpCTWRQcW1VRkhKWDVvTE5BQkNYbnR3NjFTUEFhbDBFWVViUVNZVTc4b3hFOGp2MmN1eXlXMTVPRk5qRFhWcDRvcXBqbUpLa0FKSS05WW5uM1BkQ3kzSzhKdEU1RkxINkhTU0VHai04ZVQ0?oc=5)
-
----
-
 ### [What is immunotherapy and how does it treat cancer and other conditions? - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
 
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
+
+---
+
+### [Thailand steps up screening for Ebola - Bangkok Post](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHdlb1VveHh3SXRFek9uLWVLRjktckhKY2pVWFF2bEliV1JzOGlfeHAzSHVCcnBzN2V6RUhydzJHZ3Jub1lJWWIwb2JSWWl4WWxJTmR6QXVyd0FiWWNGUWtZZkpUd2VIZUtWQTF4bDNRVFpqc3JRdGFPb2VBVTlXN0RqdDVaQmNSNVF3LTB5WVNGU2FV?oc=5)
+
+2026-05-22 <span class="news-indication-tag">MS</span>
+
+來源：[Bangkok Post](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHdlb1VveHh3SXRFek9uLWVLRjktckhKY2pVWFF2bEliV1JzOGlfeHAzSHVCcnBzN2V6RUhydzJHZ3Jub1lJWWIwb2JSWWl4WWxJTmR6QXVyd0FiWWNGUWtZZkpUd2VIZUtWQTF4bDNRVFpqc3JRdGFPb2VBVTlXN0RqdDVaQmNSNVF3LTB5WVNGU2FV?oc=5)
 
 ---
 
@@ -206,43 +230,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Un informe de la Junta de Monitorización de la Preparación Global de la OMS advierte sobre el peligro de nuevas pandemias "más frecuentes y con consecuencias más graves" e insta a la colaboración internacional para prevenirlas](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[Maldita.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxOajN0ZG03bWt4RUdaX0xRaUYxbV82UE10Y0ZQQ0JMbGxEYkR1Q2VBTGpJb1pJQTFmRmNZdzNKd0dkY09vc0NVS0tHSzlVdUhsbWdfejNwRi16ZFVTOGFuZER5bzlNYnEyWTk3anlmcFVzV29RcFVtTDA4eDZwc2Y0RTJfRW1SMy0yQnIxemc5Y3ZuaE1haTRFWDRvR3V5bXNlRDZ4WHZ6ZmpDQXFiaFE?oc=5)
-
----
-
-### [Aism, erbe aromatiche al profumo di solidarietà - Crema on line](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlYtZmh0N01od0FuWW4wSE94N0hhZmFWMXdiQlJYanJlbkN2MTl6VlpQZmRyWnlPQ2JVd3ZURXFPSTNBSUZPVC1OT1BzekI1aU9rSjVZVUc0MnZmNGFIcFlvaFRBbllhejNKMGgzdFZuSHlQMjVoVVlGZU1CNXRNVTlQNUZaT1AyM1o2VXJYQ0NYOXl1MlRWZDc4em0tNlkwN1E?oc=5)
-
-2026-05-22 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Crema on line](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlYtZmh0N01od0FuWW4wSE94N0hhZmFWMXdiQlJYanJlbkN2MTl6VlpQZmRyWnlPQ2JVd3ZURXFPSTNBSUZPVC1OT1BzekI1aU9rSjVZVUc0MnZmNGFIcFlvaFRBbllhejNKMGgzdFZuSHlQMjVoVVlGZU1CNXRNVTlQNUZaT1AyM1o2VXJYQ0NYOXl1MlRWZDc4em0tNlkwN1E?oc=5)
-
----
-
 ### [Salute mentale, emergenza mondiale: disturbi per 1,2 miliardi di persone. Dato raddoppiato dal 1990 - la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTZ5SG82VUV3X1k5My00S0RnbzdldUxHQzlxNlZEV2VObTBjU2tabHAyQ2J4a0JNUFFlUDk3VWE3cXJkMkRhR3ZfTGpPWUNaZXR1anV3bE5JZ250OHNFUU9nNUlQZHh4d0YwekVVUnQwLUVyTU1Dd0xIMGlSaEtiLUpRcVVpT0tMeTFpblFLR3l5VWtUMkFNTzA5c2x5aUVxOHQzWUdhY2FuTzRRN1BpT1g4YXBRMU42LVNvbGNLM1JzMDZzQnNtM0laNUhpcUtObGhGT0VVLXBQc2FxbFN6djVfd0FqSnNfQmU40gHwAUFVX3lxTE54X3ZyeXY5UHFmUVRoWGt3Z2d1M2JyZXA0QkttbklXWlJ6amwxSlh0c0pLcl9IS2hUTXhLUy12aHhJUUdSS3F5OXNUbFJCbDhwb2lhemFfSU9VTlFFV0lqSzVOM1VVMUprMFZxMG5veTRVQlpGRjBRWU16M3A5R3dBRkVLeVI5Z3FSVldENW1mVHR2RGFfaDhEZGhXTWswZDJtV09GS0NJMEFvcENldW9zNmhicm5paExnZ3BkTzNOMDFSdWZqSm5GSzFHUXBuQlhVMDY1S2ZDdnctUWc5NWZsRnJZdXI1cjA4SUpVbk9IRQ?oc=5)
 
 2026-05-22 <span class="news-indication-tag">MS</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTZ5SG82VUV3X1k5My00S0RnbzdldUxHQzlxNlZEV2VObTBjU2tabHAyQ2J4a0JNUFFlUDk3VWE3cXJkMkRhR3ZfTGpPWUNaZXR1anV3bE5JZ250OHNFUU9nNUlQZHh4d0YwekVVUnQwLUVyTU1Dd0xIMGlSaEtiLUpRcVVpT0tMeTFpblFLR3l5VWtUMkFNTzA5c2x5aUVxOHQzWUdhY2FuTzRRN1BpT1g4YXBRMU42LVNvbGNLM1JzMDZzQnNtM0laNUhpcUtObGhGT0VVLXBQc2FxbFN6djVfd0FqSnNfQmU40gHwAUFVX3lxTE54X3ZyeXY5UHFmUVRoWGt3Z2d1M2JyZXA0QkttbklXWlJ6amwxSlh0c0pLcl9IS2hUTXhLUy12aHhJUUdSS3F5OXNUbFJCbDhwb2lhemFfSU9VTlFFV0lqSzVOM1VVMUprMFZxMG5veTRVQlpGRjBRWU16M3A5R3dBRkVLeVI5Z3FSVldENW1mVHR2RGFfaDhEZGhXTWswZDJtV09GS0NJMEFvcENldW9zNmhicm5paExnZ3BkTzNOMDFSdWZqSm5GSzFHUXBuQlhVMDY1S2ZDdnctUWc5NWZsRnJZdXI1cjA4SUpVbk9IRQ?oc=5)
-
----
-
-### [Saône-et-Loire. Atteinte d'un cancer cérébral, cette Chalonnaise raconte son combat - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xoSWxmWlBvOGVKeW8taG5JenRRVDZZVXI3THZBaGpqaEo4andIdEdhTGo3U3A1NkozbFd0Mjh3ZWM4VjJYRHM0d2lZa051alFzaWZnSDhQd290Ul9VYlk0b0pqcC1ENEZYbnA0a0dRc2tfams3VWpkM2FjX3Z3RmJNdUVtOHlGRTd2SExtbjRGaTBFc0QzZk8xVXc2M3FwSE42bER5dmU?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xoSWxmWlBvOGVKeW8taG5JenRRVDZZVXI3THZBaGpqaEo4andIdEdhTGo3U3A1NkozbFd0Mjh3ZWM4VjJYRHM0d2lZa051alFzaWZnSDhQd290Ul9VYlk0b0pqcC1ENEZYbnA0a0dRc2tfams3VWpkM2FjX3Z3RmJNdUVtOHlGRTd2SExtbjRGaTBFc0QzZk8xVXc2M3FwSE42bER5dmU?oc=5)
-
----
-
-### [I'm a cardiologist & most people dismiss 3 early heart symptoms as 'harmless'](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjFFTUZOMW0xd21HQmVRTGI2b0ViVGU5ckJNMXlnd3dwWXBSaGc2YWJTZU9qZXVMcXYwN3JMeGRCUjZDWGwzWHlOUUdsUVhQSFJtTDZxM3NQaEZNWF9yR1RjSmpzeXJsemthS1k4Q0V4Z1BZM1NfUXJldFV2cTBsLTFtVUV3b2VFRUZLNk03WXVqRHhCTWwxRE1wOXFtbWIy?oc=5)
 
 ---
 
@@ -262,17 +254,17 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Cancer de la prostate : une alternative aux traitements classiques fait ses preuves à la clinique Océane à Vannes - MaVille.com](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQU1NNF85QXlVS1NjUXVoYVpHRjBrQlhBZE5SOW54MDA1UU14M2lCLXo3WlFrRzk1SkJPRHhlcnB5Y2NnTEJERXFSSG5wT0pWLVdrcWV1YUQ0VS1xUzUzY3REcTdKalRQSFpMeW10azNnVldKRjdWS0RZMjNQSzBQMEtmdWJkRWFKZlFRZG1JU1ZOeGpmMkRWSnZnd0VuNEV5bDdKVmJWcGQ0M0ZtT0k0REphYWd4M3hQNWQ0LXVWaDVvcmM5N1I5azJUY1JTNHVJbUpPaU1VNVBSRVB6TTNObFVreTlwdUpIUU5DeVF3QmhGaDVQeVRaclFuRHFkOGtVM204Xw?oc=5)
+### [La OMS lanza la alerta y pide que nos preparemos porque la humanidad está a punto de sufrir la peor pandemi...](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUZZN2t4NnRhdi0wbmlCaHZyOU5BOVoySms0Q1Q1SkZHbER2dzlYalUzdUJFZmtXdlJ4TlU3cjJTLU5iSFhXc1M2WTV1N3JtYkwxendHcHRicW9RaFBNU2VtT1NWTjZkaE4wX3BKQWJNNDNrSGxUaXFrdlMzQWR3bE1tSW45a2ZGQXRfQXhKZ1pTSkEtdlRlRUpRYmVqeFMyMGxvM3hyY0RadlNJY2NidXhwNUdLR0RTdTlrbnV5UkNIOHZzbjkxMHVRaVEtWkJrLU01UG45ZlRrQ0hwckdZb1pOLUXSAeoBQVVfeXFMTzVWczY2MW9sUERFMDkwVk1nc3JiRXlZQXNKOTV0ajJ4ZmR6a0dGakdxbTRWVlpmdnlaRkhDYlZUSlFEZ1h0V0R6Mll0UW9KU240cmliRXNTVDBrMUNQVUlsTGpBWWRXTlcwa255TmJkX3RIYnl1cTFmcV95akhhZW91NzVEbWc3N3pwRWZGM0ZsMXdtS2YwWW9JVmF4cTVIVE5sZHdfdE0yNFQ3SjVpU1VTNWtYblNIZ01Kc2lCSmI2S2ZpWFAtMzVDR00wRU5UdHAwSGZVTTlBZDRRNmlUZkktUU52a2ZrRV9B?oc=5)
 
-2026-05-22 <span class="news-indication-tag">cancer</span>
+2026-05-22 <span class="news-indication-tag">MS</span>
 
-來源：[MaVille.com - Rennes](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQU1NNF85QXlVS1NjUXVoYVpHRjBrQlhBZE5SOW54MDA1UU14M2lCLXo3WlFrRzk1SkJPRHhlcnB5Y2NnTEJERXFSSG5wT0pWLVdrcWV1YUQ0VS1xUzUzY3REcTdKalRQSFpMeW10azNnVldKRjdWS0RZMjNQSzBQMEtmdWJkRWFKZlFRZG1JU1ZOeGpmMkRWSnZnd0VuNEV5bDdKVmJWcGQ0M0ZtT0k0REphYWd4M3hQNWQ0LXVWaDVvcmM5N1I5azJUY1JTNHVJbUpPaU1VNVBSRVB6TTNObFVreTlwdUpIUU5DeVF3QmhGaDVQeVRaclFuRHFkOGtVM204Xw?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUZZN2t4NnRhdi0wbmlCaHZyOU5BOVoySms0Q1Q1SkZHbER2dzlYalUzdUJFZmtXdlJ4TlU3cjJTLU5iSFhXc1M2WTV1N3JtYkwxendHcHRicW9RaFBNU2VtT1NWTjZkaE4wX3BKQWJNNDNrSGxUaXFrdlMzQWR3bE1tSW45a2ZGQXRfQXhKZ1pTSkEtdlRlRUpRYmVqeFMyMGxvM3hyY0RadlNJY2NidXhwNUdLR0RTdTlrbnV5UkNIOHZzbjkxMHVRaVEtWkJrLU01UG45ZlRrQ0hwckdZb1pOLUXSAeoBQVVfeXFMTzVWczY2MW9sUERFMDkwVk1nc3JiRXlZQXNKOTV0ajJ4ZmR6a0dGakdxbTRWVlpmdnlaRkhDYlZUSlFEZ1h0V0R6Mll0UW9KU240cmliRXNTVDBrMUNQVUlsTGpBWWRXTlcwa255TmJkX3RIYnl1cTFmcV95akhhZW91NzVEbWc3N3pwRWZGM0ZsMXdtS2YwWW9JVmF4cTVIVE5sZHdfdE0yNFQ3SjVpU1VTNWtYblNIZ01Kc2lCSmI2S2ZpWFAtMzVDR00wRU5UdHAwSGZVTTlBZDRRNmlUZkktUU52a2ZrRV9B?oc=5)
 
 ---
 
 ### [Melanoma skin cancer cases in UK hit record level, analysis finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
 
-2026-05-22 <span class="news-indication-tag">cancer</span>
+2026-05-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
 
@@ -283,6 +275,14 @@ permalink: /news/fingolimod/
 2026-05-22 <span class="news-indication-tag">Krebs</span>
 
 來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVAwRGxWVzFEOUpCYmo0VGFYcGozc1cwR25TV2tkUUZVOUFEZU9Kd2xxZVJSZnV5aDY2dk1vb2djVzJwZF9pOFhhaWUxdFFVblNVazZmYkNWT0lBZzYtN1czM2lUeGhpTDhZUDVDeHpEb2FiV3cySnphMlBkdUlTYTMyNllMYUZ4LTdmczZsMFJGdzNBUjl0Vk1xM1YySkNYdGI3bWZMRXpXQ3pOSzZsMEg0MEw3MXdQVnFmWEFXVQ?oc=5)
+
+---
+
+### [Côte-d’Or. Diagnostiquée d'un glioblastome : « Je veux transmettre un message d’espoir » - Le Bien Public](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzNXb0hTTG1adHhzempVSllvZjJDbU5zUnAxWUFWRVFGUmxCdm1qZjBFWTk0N3VYNnI0SlJQR2R0TU1PekxnN0xqWDRJZUc1MHF4UXhDMEczeXBXcUdLT3ZpNjJWNFYxZFZ1dm4xWDJNbnBqZy1oZDRzdWF2cC1pT2FEcURiNi1Ka2ExZ3Q2b1RCdGNBZzIxUXhjWDZ5ZDF6YzFLQUR1MzY?oc=5)
+
+2026-05-22 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Bien Public](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzNXb0hTTG1adHhzempVSllvZjJDbU5zUnAxWUFWRVFGUmxCdm1qZjBFWTk0N3VYNnI0SlJQR2R0TU1PekxnN0xqWDRJZUc1MHF4UXhDMEczeXBXcUdLT3ZpNjJWNFYxZFZ1dm4xWDJNbnBqZy1oZDRzdWF2cC1pT2FEcURiNi1Ka2ExZ3Q2b1RCdGNBZzIxUXhjWDZ5ZDF6YzFLQUR1MzY?oc=5)
 
 ---
 

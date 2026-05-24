@@ -62,11 +62,27 @@ permalink: /news/eravacycline/
 
 ---
 
+### [Près de Nantes : cette clinique propose un traitement innovant contre le cancer de la prostate](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1p0NTFHQ0VubWJVVnozQ1BZLUtHX1BKd3A3cGF6a19ON1pQNHBnN1dMMVpDR2Z1R3Rvbk5lVk1UeE82N05IeV9zOW1DUUJ4dTYtV213ejkzV2toaHhtRWZ4bl9DZEpVUndxSzhWODU0WUtJV0NBOTVscGJqQTJDRGpfLWVSVmxVaGozVnYybnE4ekVIQkpWamZ3bXdjeXFfbzlFcmZBTjd1RHY2bWJzRmxZckY2REJpdnpFQ091VERSbnZETDlnT0JoMVRjZlAyNEJQaTlBZHFxQVd5OFVTdkZSeWtiZ2NVbHQ3U2NzQno5UQ?oc=5)
+
+2026-05-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1p0NTFHQ0VubWJVVnozQ1BZLUtHX1BKd3A3cGF6a19ON1pQNHBnN1dMMVpDR2Z1R3Rvbk5lVk1UeE82N05IeV9zOW1DUUJ4dTYtV213ejkzV2toaHhtRWZ4bl9DZEpVUndxSzhWODU0WUtJV0NBOTVscGJqQTJDRGpfLWVSVmxVaGozVnYybnE4ekVIQkpWamZ3bXdjeXFfbzlFcmZBTjd1RHY2bWJzRmxZckY2REJpdnpFQ091VERSbnZETDlnT0JoMVRjZlAyNEJQaTlBZHFxQVd5OFVTdkZSeWtiZ2NVbHQ3U2NzQno5UQ?oc=5)
+
+---
+
 ### [Blundering NHS treated Staffordshire dad for terminal cancer he never had - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUhOLUNFN1JWN2RwalM2eUQ3YWlGckIyQXppVC1oeWptU09qVjBsNGo0blRfY2oyQU5QVktaaTJfNkhYazk2STZYeDd1bU9JSUxCOUhSVVVITUJPV19hZDhpb1V4OV9TR3lISlcwRGxTTGN2MF9fQ3Y2MkRyS0hfdENMajJ2U0J4SGw0b250dER0cHAxTllRTU9XbFJGMG1MejZnRFlUdUVQUQ?oc=5)
 
 2026-05-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUhOLUNFN1JWN2RwalM2eUQ3YWlGckIyQXppVC1oeWptU09qVjBsNGo0blRfY2oyQU5QVktaaTJfNkhYazk2STZYeDd1bU9JSUxCOUhSVVVITUJPV19hZDhpb1V4OV9TR3lISlcwRGxTTGN2MF9fQ3Y2MkRyS0hfdENMajJ2U0J4SGw0b250dER0cHAxTllRTU9XbFJGMG1MejZnRFlUdUVQUQ?oc=5)
+
+---
+
+### [Jusqu’à 35°C ce week-end: les conseils pour se protéger du soleil dès ces premières fortes chaleurs](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
+
+2026-05-23 <span class="news-indication-tag">cancer</span>
+
+來源：[BFM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Soleil et cancers de la peau : les idées reçues persistent - Charente Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXdXeGZqcU9YQUFmcDZSbXNSVUtOQ00zXzk5MWpSYXAwT2xac2wySU1MdE1Ma0ppZFFNOW44QXZENjVhdnZiTlh4WTRabmVISmNSem9WbVVFMF80cG1rSXI2aTBtUTRmeXVvb0tCOGozS1R4S3JDMzRqTnZJRm5EZTlKVHFNbGFVTkZwUDFJMVp4aWdRQmN6bEJ3Z0dua1FiQ3gzdWFiUQ?oc=5)
+### [GLP-1-Medikamente senken womöglich das Risiko von Krebs-Progression - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xNU2wxVzZ0Q3RvR1BqcmtIOXAwb1J3VnhiSHl0TkRnZDFERTkzOUF5VkVOamRRT3Y2amZhb0RoNVo4TTNpbzVGQ3Exc3lFQ1pFa3BIVk95M09aU1FMRmVyc0gyLVowT3l4U1NKVGJMY1FOaGRRZGd0dDdtRklSZTJJN3NJSEdQNF9DNTNVZG0tM3ZaMFlXa2hVXzdTR2JiakE?oc=5)
 
-2026-05-23 <span class="news-indication-tag">cancer</span>
+2026-05-23 <span class="news-indication-tag">tumor</span>
 
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXdXeGZqcU9YQUFmcDZSbXNSVUtOQ00zXzk5MWpSYXAwT2xac2wySU1MdE1Ma0ppZFFNOW44QXZENjVhdnZiTlh4WTRabmVISmNSem9WbVVFMF80cG1rSXI2aTBtUTRmeXVvb0tCOGozS1R4S3JDMzRqTnZJRm5EZTlKVHFNbGFVTkZwUDFJMVp4aWdRQmN6bEJ3Z0dua1FiQ3gzdWFiUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xNU2wxVzZ0Q3RvR1BqcmtIOXAwb1J3VnhiSHl0TkRnZDFERTkzOUF5VkVOamRRT3Y2amZhb0RoNVo4TTNpbzVGQ3Exc3lFQ1pFa3BIVk95M09aU1FMRmVyc0gyLVowT3l4U1NKVGJMY1FOaGRRZGd0dDdtRklSZTJJN3NJSEdQNF9DNTNVZG0tM3ZaMFlXa2hVXzdTR2JiakE?oc=5)
 
 ---
 
@@ -126,14 +142,6 @@ permalink: /news/eravacycline/
 
 ---
 
-### [GLP-1-Medikamente: Neue Hoffnung für Krebspatienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
-
-2026-05-22 <span class="news-indication-tag">tumor</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmI3MFc5RWQzT2pEeERKNlFIbDQxUnRyT3pPdXhabHhJaU9rZktabm9UTnVvdEt4NEwwSkhJMGVmZDJCZGdrYlFzUmloNzhyN1kydkRMVmdOeW5hVEJvZDhXbUg0NkRLSV9mOFhkVk96MlZGV09yWi16b2ZjakpZbDZnRUVpZlVvTzZKVmU0YXo2WF9zXzVpTTh2ZHY4YTNzb0E?oc=5)
-
----
-
 ### [What is immunotherapy and how does it treat cancer and other conditions? - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
 
 2026-05-22 <span class="news-indication-tag">cancer</span>
@@ -142,11 +150,11 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Saône-et-Loire. Atteinte d'un cancer cérébral, cette Chalonnaise raconte son combat - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xoSWxmWlBvOGVKeW8taG5JenRRVDZZVXI3THZBaGpqaEo4andIdEdhTGo3U3A1NkozbFd0Mjh3ZWM4VjJYRHM0d2lZa051alFzaWZnSDhQd290Ul9VYlk0b0pqcC1ENEZYbnA0a0dRc2tfams3VWpkM2FjX3Z3RmJNdUVtOHlGRTd2SExtbjRGaTBFc0QzZk8xVXc2M3FwSE42bER5dmU?oc=5)
+### [Scientists discover simple way to relieve arthritis pain without pills or surgery](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
 
-2026-05-22 <span class="news-indication-tag">cancer</span>
+2026-05-22 <span class="news-indication-tag">arthritis</span>
 
-來源：[Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xoSWxmWlBvOGVKeW8taG5JenRRVDZZVXI3THZBaGpqaEo4andIdEdhTGo3U3A1NkozbFd0Mjh3ZWM4VjJYRHM0d2lZa051alFzaWZnSDhQd290Ul9VYlk0b0pqcC1ENEZYbnA0a0dRc2tfams3VWpkM2FjX3Z3RmJNdUVtOHlGRTd2SExtbjRGaTBFc0QzZk8xVXc2M3FwSE42bER5dmU?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
 
 ---
 
@@ -155,14 +163,6 @@ permalink: /news/eravacycline/
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPazBGNU1fX2pqX0hUU0RqNWlMaC02M0Q3SmVfUlF0UW9DeXdGU0pSc3JuVS1KbnRmOHFhQ3NOc1FON3ZvMTFEZHItZmNobzUzNWlRYTVHRWUwZjMweXczeThneFN2aHlHMkY1Yl96ZzEzcnF4R0t2VVBDZ29BUTdFZFN5VG1mLXdfU0xSSzN4ZThsdXBGSG04bFhoQVVvd0d4Y3FIb3phVlFPYV9IdDA0bnhn?oc=5)
-
----
-
-### [Cancer de la prostate : une alternative aux traitements classiques fait ses preuves à la clinique Océane à Vannes - MaVille.com](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQU1NNF85QXlVS1NjUXVoYVpHRjBrQlhBZE5SOW54MDA1UU14M2lCLXo3WlFrRzk1SkJPRHhlcnB5Y2NnTEJERXFSSG5wT0pWLVdrcWV1YUQ0VS1xUzUzY3REcTdKalRQSFpMeW10azNnVldKRjdWS0RZMjNQSzBQMEtmdWJkRWFKZlFRZG1JU1ZOeGpmMkRWSnZnd0VuNEV5bDdKVmJWcGQ0M0ZtT0k0REphYWd4M3hQNWQ0LXVWaDVvcmM5N1I5azJUY1JTNHVJbUpPaU1VNVBSRVB6TTNObFVreTlwdUpIUU5DeVF3QmhGaDVQeVRaclFuRHFkOGtVM204Xw?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span>
-
-來源：[MaVille.com - Rennes](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQU1NNF85QXlVS1NjUXVoYVpHRjBrQlhBZE5SOW54MDA1UU14M2lCLXo3WlFrRzk1SkJPRHhlcnB5Y2NnTEJERXFSSG5wT0pWLVdrcWV1YUQ0VS1xUzUzY3REcTdKalRQSFpMeW10azNnVldKRjdWS0RZMjNQSzBQMEtmdWJkRWFKZlFRZG1JU1ZOeGpmMkRWSnZnd0VuNEV5bDdKVmJWcGQ0M0ZtT0k0REphYWd4M3hQNWQ0LXVWaDVvcmM5N1I5azJUY1JTNHVJbUpPaU1VNVBSRVB6TTNObFVreTlwdUpIUU5DeVF3QmhGaDVQeVRaclFuRHFkOGtVM204Xw?oc=5)
 
 ---
 
@@ -176,7 +176,7 @@ permalink: /news/eravacycline/
 
 ### [Melanoma skin cancer cases in UK hit record level, analysis finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
 
-2026-05-22 <span class="news-indication-tag">cancer</span>
+2026-05-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
 
@@ -190,19 +190,19 @@ permalink: /news/eravacycline/
 
 ---
 
+### [Côte-d’Or. Diagnostiquée d'un glioblastome : « Je veux transmettre un message d’espoir » - Le Bien Public](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzNXb0hTTG1adHhzempVSllvZjJDbU5zUnAxWUFWRVFGUmxCdm1qZjBFWTk0N3VYNnI0SlJQR2R0TU1PekxnN0xqWDRJZUc1MHF4UXhDMEczeXBXcUdLT3ZpNjJWNFYxZFZ1dm4xWDJNbnBqZy1oZDRzdWF2cC1pT2FEcURiNi1Ka2ExZ3Q2b1RCdGNBZzIxUXhjWDZ5ZDF6YzFLQUR1MzY?oc=5)
+
+2026-05-22 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Bien Public](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzNXb0hTTG1adHhzempVSllvZjJDbU5zUnAxWUFWRVFGUmxCdm1qZjBFWTk0N3VYNnI0SlJQR2R0TU1PekxnN0xqWDRJZUc1MHF4UXhDMEczeXBXcUdLT3ZpNjJWNFYxZFZ1dm4xWDJNbnBqZy1oZDRzdWF2cC1pT2FEcURiNi1Ka2ExZ3Q2b1RCdGNBZzIxUXhjWDZ5ZDF6YzFLQUR1MzY?oc=5)
+
+---
+
 ### [Roboterassistierte radikale Prostatektomie bei älteren Patienten - Biermann Medizin](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3FzRExGQ2JhaUNTam5IV3FVc04zbEJUTE13djg2dGE0NF9VenVzMnpZU3JDcG1oNUVYa3preTZOOWdvNWN0dVFNa2hhSV9rZ1Bxb3oxZGhEdkhNOFQ1TVBFZFdad2R0NUJSS0RvbTE2TjdRWVBtRjdpZk1lVmdpLXpxM1JySjB0SnJCYzBKRndBOTFEY042dGhDTHE3QTNrWGtjOHc2RWFwZmNFLUtFVWswblNqVlBKUzNUT2RQYV9EendSaXhrQXlDZlNjMjVMMzFEb2M3M0RvaHNmcnlZRjRmdlNpWlVRZzFN?oc=5)
 
 2026-05-22 <span class="news-indication-tag">Krebs</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3FzRExGQ2JhaUNTam5IV3FVc04zbEJUTE13djg2dGE0NF9VenVzMnpZU3JDcG1oNUVYa3preTZOOWdvNWN0dVFNa2hhSV9rZ1Bxb3oxZGhEdkhNOFQ1TVBFZFdad2R0NUJSS0RvbTE2TjdRWVBtRjdpZk1lVmdpLXpxM1JySjB0SnJCYzBKRndBOTFEY042dGhDTHE3QTNrWGtjOHc2RWFwZmNFLUtFVWswblNqVlBKUzNUT2RQYV9EendSaXhrQXlDZlNjMjVMMzFEb2M3M0RvaHNmcnlZRjRmdlNpWlVRZzFN?oc=5)
-
----
-
-### [Qatar-based British-Pakistani scientist develops AI eye scan for early dementia diagnosis](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
-
-2026-05-21 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SFJsLW5WNS03TUE5QzV1VGNENG81a2taa1ZLYzRFMDlURTRsWHRiVXZSSzZNT25WbjFUVVpIYXZINjJBM3FiStIBTkFVX3lxTE1rczdROXduSUdkMDNnYjR5Tjh6bnVKTjZmYUk5eE9IY2FCRHZlUjF1c09uckRrMU4yem5XV2pfNE1DZFlyeTR6ZXZ6dDJyZw?oc=5)
 
 ---
 

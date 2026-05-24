@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [La epidemia silenciosa: los trastornos mentales se duplican desde 1990 - Libertad Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSjJXZTRWSlNGRHNrejVuUXQ2OEhZWFpyV2J3MGRjQ0V2Y2NmUV9EeDRsbmNfZGhFV1JfQ0RRQThrZE9OZkJ2RTFKdWdjMVNKV2ZjcENfdU1tNDhZSGtVY3F6UFFTNkNJWnhPdWpWaFhhMi1OcDJ2S3VqRDRzODdVX0ZmcVluRWUxYzR4TS15RzhTamdoY05KM3Q4a1JRS0JYQ0ktQ2Zjc0ZDQUhHcExoT3VDaEEzc200YTlTc1I5Z0ZBb05oUk5ac2tObVQzZU4wTTJxck5kVGFPa2p3dy1yOTd30gHsAUFVX3lxTE0tNkJNVzYwX0pkRWkyMmM1ejR5RTZoczltcXktd2VFRDEtUmVJTndvcW1RamlhQnpocmlCSktINktrbDlEVjA5TzRYS2dDTEpvSmh2MVNpcUZ2WmctcUNYT3JHbk1OWGpxMkQ1bjN4MkxJVnhJM0p4ZHNlYkJsemx3c2xGMFppVnV3SUR4RmRyd1lOSGNTYnFVa1E4ZEtUQ0ZnRlE4RFZnTThBNnFWZUExaWVIY0FfbGx1NUVpbWFWbzk1SzVyZVJzSTY2cnNNQXZUZnhBWEZBVzViemYtUlZ3WnpLN3NFUzFaelBF?oc=5)
+### [Los trastornos mentales ya son la principal causa de discapacidad en el mundo](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
 
-2026-05-23 <span class="news-indication-tag">depresión</span>
+2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSjJXZTRWSlNGRHNrejVuUXQ2OEhZWFpyV2J3MGRjQ0V2Y2NmUV9EeDRsbmNfZGhFV1JfQ0RRQThrZE9OZkJ2RTFKdWdjMVNKV2ZjcENfdU1tNDhZSGtVY3F6UFFTNkNJWnhPdWpWaFhhMi1OcDJ2S3VqRDRzODdVX0ZmcVluRWUxYzR4TS15RzhTamdoY05KM3Q4a1JRS0JYQ0ktQ2Zjc0ZDQUhHcExoT3VDaEEzc200YTlTc1I5Z0ZBb05oUk5ac2tObVQzZU4wTTJxck5kVGFPa2p3dy1yOTd30gHsAUFVX3lxTE0tNkJNVzYwX0pkRWkyMmM1ejR5RTZoczltcXktd2VFRDEtUmVJTndvcW1RamlhQnpocmlCSktINktrbDlEVjA5TzRYS2dDTEpvSmh2MVNpcUZ2WmctcUNYT3JHbk1OWGpxMkQ1bjN4MkxJVnhJM0p4ZHNlYkJsemx3c2xGMFppVnV3SUR4RmRyd1lOSGNTYnFVa1E4ZEtUQ0ZnRlE4RFZnTThBNnFWZUExaWVIY0FfbGx1NUVpbWFWbzk1SzVyZVJzSTY2cnNNQXZUZnhBWEZBVzViemYtUlZ3WnpLN3NFUzFaelBF?oc=5)
-
----
-
-### [Hoffnung bei Depression: Ketamin, Lachgas und Hirnstimulation](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUl3UjdOVEVidGswSmRDNDV5dWx2T0h1anZzSjFQQThNa2RraGlSOE5mZ1BzcVJNREpPZHBrSVhSNmpLTUYtUm5WWjI4REVVdVZiZ0lSNnpUX29YSk9kaFRFQnp2SXU5QVpWb3RoTTBTVFJNRmFUWUZ6dWJJTlRURlZGQ0ZXRGg2MmZEcE9DMWR1eFJ6aXJhZEY1SC1VR1BMUGtNMDlmZFRjQQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">depression</span>
-
-來源：[Telepolis](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUl3UjdOVEVidGswSmRDNDV5dWx2T0h1anZzSjFQQThNa2RraGlSOE5mZ1BzcVJNREpPZHBrSVhSNmpLTUYtUm5WWjI4REVVdVZiZ0lSNnpUX29YSk9kaFRFQnp2SXU5QVpWb3RoTTBTVFJNRmFUWUZ6dWJJTlRURlZGQ0ZXRGg2MmZEcE9DMWR1eFJ6aXJhZEY1SC1VR1BMUGtNMDlmZFRjQQ?oc=5)
+來源：[WIRED](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ permalink: /news/vortioxetine/
 2026-05-22 <span class="news-indication-tag">depression</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0l1MzRXajNsODlrVkw4WUlIbVBxWG1sNjlyNnVVV1dXSWcyZ2s1LTBRcUJlZmRIaVRwMFlBbDhqVUh6V0x5NnY4eEZ5dHhRdkgwQ2dhX1VBTVZKRmFVakhXSTRTM1BrQUJjcmltbXduQVNfUUs1b1g3em16YzE2X0FjQnBxcVc4eThrSzRLeUYzalpQNkU4T3BWcw?oc=5)
-
----
-
-### [Anxiété et dépression : 1,2 milliard de personnes touchées dans le monde selon une étude - Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
-
-2026-05-21 <span class="news-indication-tag">dépression</span>
-
-來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUYxV1FsQ08wVG1vWDdydW1YVXJRSWl1TWlfQUVhVFRhUDhrQTlJRDk4b1NEdzhJY0swTTllMkhFQkhBbER3SHdmR1Q4NF9jRGRmemtNdmxoNi05M0QtV2R4UjV0WHNvbkVpeXQ2RWt6RG04TFh0b1V6VTBLckxaSTlpVEQwdmlEUjNrU01HbjFSZm5zVWlKZ211Y0Y1WlZwYm1iWWNqN0tUVVJfY3ZIdFpkZUswd0tST0s2QUZZUjFMS2I1?oc=5)
 
 ---
 
