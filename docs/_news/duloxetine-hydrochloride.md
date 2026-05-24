@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Los trastornos mentales ya son la principal causa de discapacidad en el mundo](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/duloxetine-hydrochloride/
 2026-05-22 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
-
----
-
-### [KI verdoppelt Heilungschancen bei Depressionen - AD HOC NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0l1MzRXajNsODlrVkw4WUlIbVBxWG1sNjlyNnVVV1dXSWcyZ2s1LTBRcUJlZmRIaVRwMFlBbDhqVUh6V0x5NnY4eEZ5dHhRdkgwQ2dhX1VBTVZKRmFVakhXSTRTM1BrQUJjcmltbXduQVNfUUs1b1g3em16YzE2X0FjQnBxcVc4eThrSzRLeUYzalpQNkU4T3BWcw?oc=5)
-
-2026-05-22 <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0l1MzRXajNsODlrVkw4WUlIbVBxWG1sNjlyNnVVV1dXSWcyZ2s1LTBRcUJlZmRIaVRwMFlBbDhqVUh6V0x5NnY4eEZ5dHhRdkgwQ2dhX1VBTVZKRmFVakhXSTRTM1BrQUJjcmltbXduQVNfUUs1b1g3em16YzE2X0FjQnBxcVc4eThrSzRLeUYzalpQNkU4T3BWcw?oc=5)
 
 ---
 

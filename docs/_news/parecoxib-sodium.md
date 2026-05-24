@@ -86,19 +86,19 @@ permalink: /news/parecoxib-sodium/
 
 ---
 
+### [Scientists discover simple way to relieve arthritis pain without pills or surgery](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
+
+2026-05-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
+
+---
+
 ### [Infarti e ipertensione collegati ai conservanti: controlla se ci sono questi negli alimenti - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
 
 2026-05-22 <span class="news-indication-tag">ipertensione</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
-
----
-
-### [Scientists discover simple way to relieve arthritis pain without pills or surgery](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
 
 ---
 

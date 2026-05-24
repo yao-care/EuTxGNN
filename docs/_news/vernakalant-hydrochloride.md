@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（37 則）
+## 相關新聞（38 則）
+
+### [RD del Congo suspende vuelos de pasajeros a localidad afectada por Ébola, Bunia - Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTFB2VzByYW84UmxNeDRrWTN5N1JOM2lJUkFMRU10alNwU0s2NzZEUVFXeERFdmJSckd1RDNoeGxjUE5xZlcwQm9YcjdJSmVlTkp6aDNZYVFoT2ZxazZjNGk0M2pwWkY3bkY5Y0l1NE5pejlTMTY4RFE?oc=5)
+
+2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTFB2VzByYW84UmxNeDRrWTN5N1JOM2lJUkFMRU10alNwU0s2NzZEUVFXeERFdmJSckd1RDNoeGxjUE5xZlcwQm9YcjdJSmVlTkp6aDNZYVFoT2ZxazZjNGk0M2pwWkY3bkY5Y0l1NE5pejlTMTY4RFE?oc=5)
+
+---
+
+### [Besserer Schlaf durch Magnesium? Arzt verrät, wann es wirkt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTEwNHk1NFp0QzJ0WXl0RmdiQ2NwUG94akFwZ3NGN2RXc1NIRS16T25RNzRtMzZ6am1KWHUtdnc5MDk1Z2dPeWJHVlplSGhMYi1JVkc1SjVRTnFWc2h6ZWZ1YVJHMjZiSjJqOVZCeG5JQjk2OHJZd0xfTkVmOG1nLVI5S3ZZRy1mQ0pLSjAwdmV3TmJiMXdGV1FFT3oxT0FNTlE?oc=5)
+
+2026-05-24 <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTEwNHk1NFp0QzJ0WXl0RmdiQ2NwUG94akFwZ3NGN2RXc1NIRS16T25RNzRtMzZ6am1KWHUtdnc5MDk1Z2dPeWJHVlplSGhMYi1JVkc1SjVRTnFWc2h6ZWZ1YVJHMjZiSjJqOVZCeG5JQjk2OHJZd0xfTkVmOG1nLVI5S3ZZRy1mQ0pLSjAwdmV3TmJiMXdGV1FFT3oxT0FNTlE?oc=5)
+
+---
+
+### [KI-Atlas zu Adipositas und der Marktwechsel zu oralen GLP-1-Pillen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXhPb1RhTE1LVGJ2MmhkYjdzM3U3M19vb3Ezb2QzVk1TbkMwbkdGTnVBd1RMSl83TENQajlmd1Rzc0pjSG90clk2WUtpSmRrZ05kalFpNWZFZ0h2ZXB1d2RZRWluTXR3UkRwYmJtR1BNU01LNXRGMVVhUUxMeEpNRFJ2djVadDBCOEMzYWZMZEZybnZCNUdQOU5wUGFwRWs?oc=5)
+
+2026-05-23 <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXhPb1RhTE1LVGJ2MmhkYjdzM3U3M19vb3Ezb2QzVk1TbkMwbkdGTnVBd1RMSl83TENQajlmd1Rzc0pjSG90clk2WUtpSmRrZ05kalFpNWZFZ0h2ZXB1d2RZRWluTXR3UkRwYmJtR1BNU01LNXRGMVVhUUxMeEpNRFJ2djVadDBCOEMzYWZMZEZybnZCNUdQOU5wUGFwRWs?oc=5)
+
+---
 
 ### [B12 deficiency killed our vegan child. We rallied 250 experts to learn why - The Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmxCZWxDRXdYOEVhcFFnOEgzbUg4S05PVExGeWZEX2V1djk3YjB6YUU2UWRJWmpoYUFwMkR6VnBZSk5YN0VHc1BqWFVLUVNSQ3ZEMHpYTFFWQUw3enBXeFhobS12d0U1ZDN2NHpEQVprTzlLUWpGelJFa2pfN1VjdmJETk1vX3hvYkVQa3BMUjY3MXZSVXNWZ0N4Z1dZY2JmdEZuYmFLOFRLV3RrU0V1UFp5Z1ZCdk9rOEtLT3NCbTJiUQ?oc=5)
 
@@ -78,11 +102,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Ampliación: RD del Congo suspende vuelos de pasajeros a localidad afectada por Ébola, Bunia - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYzQ1FLU0RIY3FGZ3FRUDJGbmlMVTBlQ0xFUWFZNElaQmpwSkZacHJLT2FKckpjVV9XLW4tUmthNjVvbEFMajJQZjBNSk1OU2RaWWE1UUNIOUdzbk1KSXBNQTVDSmFnTnBRUExEc3IzWnZtVmtRQUx5WlcxejhjMFZmYw?oc=5)
+### [Health warning issued after measles case reported at North East Amazon warehouse - Chronicle Live](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ3k3SzdFNi02eUpQT3lHRGl2VmUzRlF6d1FlRHk5ZTMyelV1UVB6WHNpNjhIU0poM3NlQWw3WDQtSVIzRlVPYVI5Z3FHQ3pQNUVFQmg4b0NvSUxheWdJN0RucGVRZjZRWDEzdGo2Q1lrektYQWstZUo0eW1fUWJyOVlJSnJaMEdqUkhmdnRjQTdlck8wSUcxZGZkckM5QdIBowFBVV95cUxPQUNHMGZKMWZjZjhyWEVPUXBCaS11aUlRUzg4eUNjMTVUaEdVVHh4aDlsVG5IdU5MalFTSGFUbEs0dE9DM2J1bE9fVTlWalNzZU9pc0xNajBPbXFPemstNDBCdUpodGNya0VRWWNQMGQtbGZwbHViSHNwVHJ2T1hLOTBXZUV4cUJreldmbWRKbzB6RFZtTHFSRWxBZHZtV0o0Ql9z?oc=5)
 
-2026-05-23 <span class="news-drug-tag">Aprepitant</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-23 <span class="news-indication-tag">AF</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYzQ1FLU0RIY3FGZ3FRUDJGbmlMVTBlQ0xFUWFZNElaQmpwSkZacHJLT2FKckpjVV9XLW4tUmthNjVvbEFMajJQZjBNSk1OU2RaWWE1UUNIOUdzbk1KSXBNQTVDSmFnTnBRUExEc3IzWnZtVmtRQUx5WlcxejhjMFZmYw?oc=5)
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ3k3SzdFNi02eUpQT3lHRGl2VmUzRlF6d1FlRHk5ZTMyelV1UVB6WHNpNjhIU0poM3NlQWw3WDQtSVIzRlVPYVI5Z3FHQ3pQNUVFQmg4b0NvSUxheWdJN0RucGVRZjZRWDEzdGo2Q1lrektYQWstZUo0eW1fUWJyOVlJSnJaMEdqUkhmdnRjQTdlck8wSUcxZGZkckM5QdIBowFBVV95cUxPQUNHMGZKMWZjZjhyWEVPUXBCaS11aUlRUzg4eUNjMTVUaEdVVHh4aDlsVG5IdU5MalFTSGFUbEs0dE9DM2J1bE9fVTlWalNzZU9pc0xNajBPbXFPemstNDBCdUpodGNya0VRWWNQMGQtbGZwbHViSHNwVHJ2T1hLOTBXZUV4cUJreldmbWRKbzB6RFZtTHFSRWxBZHZtV0o0Ql9z?oc=5)
 
 ---
 
@@ -107,6 +131,14 @@ permalink: /news/vernakalant-hydrochloride/
 2026-05-23 <span class="news-indication-tag">AF</span>
 
 來源：[Geo News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdHlxVU5KYjRoRExDRUpobGU4NnZwZFRNVHRyQ05ZamtQT3djdG1wOVVzaG5mREdZa1RRdnUwQ0ZzNk1xMVU4d3gwM3RpZVZyRlQtMFo0aG1wbjNfOFJXS1BpUThKaDRWQ1RiNVhld2s5eTViMzVtTHFlOF9LR0xNc1JCS2dZaTdER3BEOGpselhWQXAwR2dGaklydlRBNXRCZ3pOdnBIcWZVSWlO?oc=5)
+
+---
+
+### [Leonardo Calò. "Senza i grassi a tavola è aumentata l'obesità" - HuffPost Italia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkh2VC1lR0phZjZUcVkydlRScnRpOTRyUW1VSzBnMUExR3htTE5yTGo2ZE96ZjZjUUxlczVONnFYSXdsa2ppOTF3ZnY4eUtkcWZnTEtORkY1NjlQb3VNb19TdTlvM2Z4c0pvblBFOFJGV0N4d09tYXBjMnZiUEwwX1k5cmpnUFoyb1lodVVTZ1czYUZoSjlRSEJ5NjE5dWFtSWc1eDBzQUx1ZVg3MUFtTzFKamJXRXRMZng0?oc=5)
+
+2026-05-23 <span class="news-indication-tag">obesità</span>
+
+來源：[HuffPost Italia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkh2VC1lR0phZjZUcVkydlRScnRpOTRyUW1VSzBnMUExR3htTE5yTGo2ZE96ZjZjUUxlczVONnFYSXdsa2ppOTF3ZnY4eUtkcWZnTEtORkY1NjlQb3VNb19TdTlvM2Z4c0pvblBFOFJGV0N4d09tYXBjMnZiUEwwX1k5cmpnUFoyb1lodVVTZ1czYUZoSjlRSEJ5NjE5dWFtSWc1eDBzQUx1ZVg3MUFtTzFKamJXRXRMZng0?oc=5)
 
 ---
 
@@ -214,17 +246,9 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Studie zeigt Risiko von bekanntem Schlafmittel – Herzschwäche um 90 Prozent erhöht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3FwNi11Sl9OZms5ZGw3aUZwbkVHSWxBZ2JmYWZMNnExa3NIMktjYm93X2JZd1F0OGFHYmU4TXVFczAwVHItWVFldkdBSVVLVm9ySzdOcUhFeHhUSTFTVDNVSUFyc1h6OHQzRFp6Z3ZxN2VnVHd1cjRwRWFUZ19Nd0dqcXpwNnBwRkhiNDVVVEladWJpQ1ZYMTV1VlFXTTJxenJPZWlldm10WUtfQkNkMlhfQ2pNVUI3WjhwcHQxbTFBbVZzeThHRDZR?oc=5)
-
-2026-05-23 <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiygFBVV95cUxOM3FwNi11Sl9OZms5ZGw3aUZwbkVHSWxBZ2JmYWZMNnExa3NIMktjYm93X2JZd1F0OGFHYmU4TXVFczAwVHItWVFldkdBSVVLVm9ySzdOcUhFeHhUSTFTVDNVSUFyc1h6OHQzRFp6Z3ZxN2VnVHd1cjRwRWFUZ19Nd0dqcXpwNnBwRkhiNDVVVEladWJpQ1ZYMTV1VlFXTTJxenJPZWlldm10WUtfQkNkMlhfQ2pNVUI3WjhwcHQxbTFBbVZzeThHRDZR?oc=5)
-
----
-
 ### ['My 11-year-old woke up with a numb arm - she died 15 days later' - Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVjlMVjlLZ3NhUmtwcko5R3RKNXhyTTlteHAyS2VPM2FIYnhzQktvallaUFNGTTFmMDFKX1diaDkwd0t6a29Za1pkaEUtYm5OZTRET1NpZGQ2dHF2cXBMOXVaZW9OanFVOW9oZ1VpMmdLLWpVXzB6X1owVHJndzjSAYQBQVVfeXFMUGpGem51eEc2VlRfZUtpZEJHNlRGdEgyNy1kQ1V1R0FJTzhzQ045MTV2Y2lTYVhoZS13NlZPU0MzdTFSTnNNWk5fVWRXTjZxVjZreWQ1YjZ2N3EzakJuVjhiUlY0VUZ2WVFlRW5jWE91Vk8wRWVCa2UxQzZQTU01ck5RLTRs?oc=5)
 
-2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-23 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVjlMVjlLZ3NhUmtwcko5R3RKNXhyTTlteHAyS2VPM2FIYnhzQktvallaUFNGTTFmMDFKX1diaDkwd0t6a29Za1pkaEUtYm5OZTRET1NpZGQ2dHF2cXBMOXVaZW9OanFVOW9oZ1VpMmdLLWpVXzB6X1owVHJndzjSAYQBQVVfeXFMUGpGem51eEc2VlRfZUtpZEJHNlRGdEgyNy1kQ1V1R0FJTzhzQ045MTV2Y2lTYVhoZS13NlZPU0MzdTFSTnNNWk5fVWRXTjZxVjZreWQ1YjZ2N3EzakJuVjhiUlY0VUZ2WVFlRW5jWE91Vk8wRWVCa2UxQzZQTU01ck5RLTRs?oc=5)
 
@@ -246,19 +270,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+
+2026-05-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+
+---
+
 ### [Los trastornos mentales ya son la principal causa de discapacidad en el mundo](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
 
 2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
-
----
-
-### [Adipositas-Forschung: KI enthüllt Nervenschäden, günstige Pillen verändern den Markt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUh1eTNpRll4b0VNWHpYTUVpX0ZnYlI1bG02R09TMkxybDlPWDNBUExpQ2ZkbTZ3M2RFaUxpZE1tRHhRRlNEMmhzNzBvUlFuOG9tS2ZGZVlqdXJ0NGpOZ0tiWHlwekUtbS1ZV3F2eVFTY0NwTFZZanVyS2pLVXpkd0RhazNyQWVBRWpudzN0djEyNHNqM00zLThhUnhmY2dwRDdqTGxBTGJCRmpOTmFiWXlqZHA?oc=5)
-
-2026-05-22 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUh1eTNpRll4b0VNWHpYTUVpX0ZnYlI1bG02R09TMkxybDlPWDNBUExpQ2ZkbTZ3M2RFaUxpZE1tRHhRRlNEMmhzNzBvUlFuOG9tS2ZGZVlqdXJ0NGpOZ0tiWHlwekUtbS1ZV3F2eVFTY0NwTFZZanVyS2pLVXpkd0RhazNyQWVBRWpudzN0djEyNHNqM00zLThhUnhmY2dwRDdqTGxBTGJCRmpOTmFiWXlqZHA?oc=5)
 
 ---
 
@@ -310,11 +334,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Europäische Spitzenforschung: Zwei ICRPA-Projekte mit DZHK-Beteiligung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kaDcxMVZGblg4eU5la2lGcXZkUXY2NnU0ZUZrcE9xT01OdmZLMWR0UXVjSkNmWWVYTjIyUGx2ekxvbGdjUThjRTFZVQ?oc=5)
+### [Europäische Spitzenforschung: Zwei ICRPA-Projekte mit DZHK-Beteiligung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kaDcxMVZGblg4eU5la2lGcXZkUXY2NnU0ZUZrcE9xT01OdmZLMWR0UXVjSkNmWWVYTjIyUGx2ekxvbGdjUThjRTFZVQ?oc=5)
 
 2026-05-22 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kaDcxMVZGblg4eU5la2lGcXZkUXY2NnU0ZUZrcE9xT01OdmZLMWR0UXVjSkNmWWVYTjIyUGx2ekxvbGdjUThjRTFZVQ?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kaDcxMVZGblg4eU5la2lGcXZkUXY2NnU0ZUZrcE9xT01OdmZLMWR0UXVjSkNmWWVYTjIyUGx2ekxvbGdjUThjRTFZVQ?oc=5)
 
 ---
 
@@ -326,27 +350,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Wie zu wenig oder zu viel Schlaf das biologische Alter der Organe beeinflusst](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcG52M3lfaUdSWUcta3lSMEFlVDJyNDkxZzRRUHR2ZHVEOEJ4UjUxRzRNN2VnSHhYSGRQRi15UEFERGlKYkdvX25kbTZ4WmdfdkM3NmtIWDFlUzdidGdSbk5DYTdjcmdKekxSdDlfUVdPbk5pZWt4MlRSbUdYMm1pSTZwTkpTeTRNOVhNS05udzczb25KT2x4b2tSSWUxanpnd0R1QWluRUpxa0pSUTJCeUhfYkctSTBGV1dPUnlXZ2xMMTZJaFQ3ajNhdGVNZw?oc=5)
+### [Bestimmte Schlafdauer lässt Ihre Organe schneller altern](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWlaZVdpTUkzR3YwSVRWSDk5VGpaZ0hSb3ppWjlSM2g0UUg4aGJaRmdjQ0VyUVpQY2p1azEtOEJvMm9UbzBsS2hsUWE4b3IwdWxraGx4V2J0SjN3cWoybXd3MFA5ZV9NVHVDd3dWekwtY0lLMVF5ZW8xT1BPdWV3OEQzOGlLM3ctQ3l2NEdHbw?oc=5)
 
 2026-05-22 <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcG52M3lfaUdSWUcta3lSMEFlVDJyNDkxZzRRUHR2ZHVEOEJ4UjUxRzRNN2VnSHhYSGRQRi15UEFERGlKYkdvX25kbTZ4WmdfdkM3NmtIWDFlUzdidGdSbk5DYTdjcmdKekxSdDlfUVdPbk5pZWt4MlRSbUdYMm1pSTZwTkpTeTRNOVhNS05udzczb25KT2x4b2tSSWUxanpnd0R1QWluRUpxa0pSUTJCeUhfYkctSTBGV1dPUnlXZ2xMMTZJaFQ3ajNhdGVNZw?oc=5)
-
----
-
-### [Mum fears all her children could die before 35 after test results missed - Somerset Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFJrYVNjNTJaMlM1VE5hT19QTWNZQ1VOYW9qVV9RZUZBMWdGSW5RcTlVQ3BIeUlFaXloVWJCV1czX0hIR1RSWmgtM0RTMkVsUGtuQ205VVUxSzRiUG8xUHhoOUhkNUZ2aEI4SnNERVJoUDJwclozaFpKNmJVcGtaSGVOVi1SR0x5MzJTM3RvQkvSAZYBQVVfeXFMT09uZEowMFFlelp0VjVEdjJsSnlkYXBtN0h6cGxkYlZ0bEpJNU5RV1VVOEhwTTVQYkhldTJMXzRPQVVvUWtWaFZZcl81V3VHOHJrTmwyWkFMMDF1aHRBNGd0M0JKLWVmcTBNZkQ1anpYN2VURUt0WTZmXzhtczdsSFBESmh4RlpDUEZfOE1HOGxzWGYwcWlR?oc=5)
-
-2026-05-22 <span class="news-indication-tag">AF</span>
-
-來源：[Somerset Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFJrYVNjNTJaMlM1VE5hT19QTWNZQ1VOYW9qVV9RZUZBMWdGSW5RcTlVQ3BIeUlFaXloVWJCV1czX0hIR1RSWmgtM0RTMkVsUGtuQ205VVUxSzRiUG8xUHhoOUhkNUZ2aEI4SnNERVJoUDJwclozaFpKNmJVcGtaSGVOVi1SR0x5MzJTM3RvQkvSAZYBQVVfeXFMT09uZEowMFFlelp0VjVEdjJsSnlkYXBtN0h6cGxkYlZ0bEpJNU5RV1VVOEhwTTVQYkhldTJMXzRPQVVvUWtWaFZZcl81V3VHOHJrTmwyWkFMMDF1aHRBNGd0M0JKLWVmcTBNZkQ1anpYN2VURUt0WTZmXzhtczdsSFBESmh4RlpDUEZfOE1HOGxzWGYwcWlR?oc=5)
-
----
-
-### [Melanoma skin cancer cases in UK hit record level, analysis finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkR0UXNCZmJneThOYkNMVXcwQTFyQklMOWhBaHFQMG1HUmRTRHNYNWtHd1VzZlpVTmp4OG9QYWgtTERGTVYxbzBBV2N0d1JNNVF5MXhXZGRXRW1FcWJUdXFtWUtjNmJuSjhqTWoySGVQTUo4VjRaZWR3OGRnemplSXp5RkQzSXg5OVczTVRSOGRRQ3NW?oc=5)
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWlaZVdpTUkzR3YwSVRWSDk5VGpaZ0hSb3ppWjlSM2g0UUg4aGJaRmdjQ0VyUVpQY2p1azEtOEJvMm9UbzBsS2hsUWE4b3IwdWxraGx4V2J0SjN3cWoybXd3MFA5ZV9NVHVDd3dWekwtY0lLMVF5ZW8xT1BPdWV3OEQzOGlLM3ctQ3l2NEdHbw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+
+2026-05-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+
+---
 
 ### [Henry Slade: I live with type 1 diabetes. I’m worried my girls will develop it too - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
 
 2026-05-22 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
-
----
-
-### [Vier Säulen gegen Nierenversagen: Neue Ära in der Diabetes-Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenpXRWp3SVlZS1JaR01SZ3AzWHhEM1puQ19ITkhtWlhfcmxlRU1JN2xtR1N3aFM1MTEtQ1REcGpnUTZGc2Q2d2dRbGZvUWNpWVpUdXZTeUlzdmV6UGpacWVFMVFYRzNPNEs3TEk4Skl0OVlLOVNnR0NubDdmQW9jU2dZTExqMUtrdFhLWlZ6bDY2UWt5TEdENWRwdEdZQ0pTWFNJbDlfbEM2a1BnRXh1M2NjWlE3MTha?oc=5)
-
-2026-05-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenpXRWp3SVlZS1JaR01SZ3AzWHhEM1puQ19ITkhtWlhfcmxlRU1JN2xtR1N3aFM1MTEtQ1REcGpnUTZGc2Q2d2dRbGZvUWNpWVpUdXZTeUlzdmV6UGpacWVFMVFYRzNPNEs3TEk4Skl0OVlLOVNnR0NubDdmQW9jU2dZTExqMUtrdFhLWlZ6bDY2UWt5TEdENWRwdEdZQ0pTWFNJbDlfbEM2a1BnRXh1M2NjWlE3MTha?oc=5)
-
----
-
-### [GP explains four type 2 diabetes treatments — new one could be on NHS soon - Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlB6VzFuYkRhT09XYnVxRVVYRXRlS0lFTWhFemlyeHJCY1k5enBSMGxIUk1HM09zRE9fTExHOVVUYi1Pc0FVZmtxUkgwNWhVR3lPdkpBLWsxZVIwNEdfajVrMDB2Yy0xLWhrcTMtcm93S1RxV3NHUDBCSTZPOEY3SFRxcGd0VnVO0gGOAUFVX3lxTE80MkFjREV6aXNmd1ZicEJGcXlodUlWdldIZjd3ZlMtd1hUWS1XUHplQ0xVQkpkaHozVHg3S1hoNTVqZjRvWm5adWlNT3E4dFZTbTA4T2hrdWtJaG9pdTBESGVqeUpqZXRPZkltSmpFZDhfNmh5QWxXbVFUdWM0TXhncE1lNWJpdjhNSy00TGc?oc=5)
-
-2026-05-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlB6VzFuYkRhT09XYnVxRVVYRXRlS0lFTWhFemlyeHJCY1k5enBSMGxIUk1HM09zRE9fTExHOVVUYi1Pc0FVZmtxUkgwNWhVR3lPdkpBLWsxZVIwNEdfajVrMDB2Yy0xLWhrcTMtcm93S1RxV3NHUDBCSTZPOEY3SFRxcGd0VnVO0gGOAUFVX3lxTE80MkFjREV6aXNmd1ZicEJGcXlodUlWdldIZjd3ZlMtd1hUWS1XUHplQ0xVQkpkaHozVHg3S1hoNTVqZjRvWm5adWlNT3E4dFZTbTA4T2hrdWtJaG9pdTBESGVqeUpqZXRPZkltSmpFZDhfNmh5QWxXbVFUdWM0TXhncE1lNWJpdjhNSy00TGc?oc=5)
 
 ---
 

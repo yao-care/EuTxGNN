@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Adipositas-Forschung: KI enthüllt Nervenschäden, günstige Pillen verändern den Markt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUh1eTNpRll4b0VNWHpYTUVpX0ZnYlI1bG02R09TMkxybDlPWDNBUExpQ2ZkbTZ3M2RFaUxpZE1tRHhRRlNEMmhzNzBvUlFuOG9tS2ZGZVlqdXJ0NGpOZ0tiWHlwekUtbS1ZV3F2eVFTY0NwTFZZanVyS2pLVXpkd0RhazNyQWVBRWpudzN0djEyNHNqM00zLThhUnhmY2dwRDdqTGxBTGJCRmpOTmFiWXlqZHA?oc=5)
+### [KI-Atlas zu Adipositas und der Marktwechsel zu oralen GLP-1-Pillen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXhPb1RhTE1LVGJ2MmhkYjdzM3U3M19vb3Ezb2QzVk1TbkMwbkdGTnVBd1RMSl83TENQajlmd1Rzc0pjSG90clk2WUtpSmRrZ05kalFpNWZFZ0h2ZXB1d2RZRWluTXR3UkRwYmJtR1BNU01LNXRGMVVhUUxMeEpNRFJ2djVadDBCOEMzYWZMZEZybnZCNUdQOU5wUGFwRWs?oc=5)
+
+2026-05-23
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXhPb1RhTE1LVGJ2MmhkYjdzM3U3M19vb3Ezb2QzVk1TbkMwbkdGTnVBd1RMSl83TENQajlmd1Rzc0pjSG90clk2WUtpSmRrZ05kalFpNWZFZ0h2ZXB1d2RZRWluTXR3UkRwYmJtR1BNU01LNXRGMVVhUUxMeEpNRFJ2djVadDBCOEMzYWZMZEZybnZCNUdQOU5wUGFwRWs?oc=5)
+
+---
+
+### [Leonardo Calò. "Senza i grassi a tavola è aumentata l'obesità" - HuffPost Italia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkh2VC1lR0phZjZUcVkydlRScnRpOTRyUW1VSzBnMUExR3htTE5yTGo2ZE96ZjZjUUxlczVONnFYSXdsa2ppOTF3ZnY4eUtkcWZnTEtORkY1NjlQb3VNb19TdTlvM2Z4c0pvblBFOFJGV0N4d09tYXBjMnZiUEwwX1k5cmpnUFoyb1lodVVTZ1czYUZoSjlRSEJ5NjE5dWFtSWc1eDBzQUx1ZVg3MUFtTzFKamJXRXRMZng0?oc=5)
+
+2026-05-23
+
+來源：[HuffPost Italia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkh2VC1lR0phZjZUcVkydlRScnRpOTRyUW1VSzBnMUExR3htTE5yTGo2ZE96ZjZjUUxlczVONnFYSXdsa2ppOTF3ZnY4eUtkcWZnTEtORkY1NjlQb3VNb19TdTlvM2Z4c0pvblBFOFJGV0N4d09tYXBjMnZiUEwwX1k5cmpnUFoyb1lodVVTZ1czYUZoSjlRSEJ5NjE5dWFtSWc1eDBzQUx1ZVg3MUFtTzFKamJXRXRMZng0?oc=5)
+
+---
+
+### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
 
 2026-05-22
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUh1eTNpRll4b0VNWHpYTUVpX0ZnYlI1bG02R09TMkxybDlPWDNBUExpQ2ZkbTZ3M2RFaUxpZE1tRHhRRlNEMmhzNzBvUlFuOG9tS2ZGZVlqdXJ0NGpOZ0tiWHlwekUtbS1ZV3F2eVFTY0NwTFZZanVyS2pLVXpkd0RhazNyQWVBRWpudzN0djEyNHNqM00zLThhUnhmY2dwRDdqTGxBTGJCRmpOTmFiWXlqZHA?oc=5)
+來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
 
 ---
 

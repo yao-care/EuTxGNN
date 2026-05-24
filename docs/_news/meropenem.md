@@ -56,7 +56,7 @@ permalink: /news/meropenem/
 
 ### [Scientists discover simple way to relieve arthritis pain without pills or surgery](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
 
-2026-05-22 <span class="news-indication-tag">arthritis</span>
+2026-05-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
 
