@@ -54,19 +54,19 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（2 則）
 
+### [1,2 milliard de personnes en souffrance : 91 % des dépressions majeures ne sont pas traitées correctement dans le monde](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzlvd3R4MUE1bDM3SC1DQ0NKcEt6ZzFpeVdwV2szaHhBWU5nVWx4U0RUSGNKaGxMQThNbnhReWQwMUNNTml2NTdFQWlRazVPZ2tPdWdQMFIxNWUzTFQwdXpxcWFuRUpZMWdELWxEWERtMnhxd2s4Y3F5YUU3TGxqbC1jUDJSaGhOaWM2WUJROWhjaGFXN1pqU0F2Z3NSeVdaVlE3RHc1ZkRxcDJzR1EzanppZ3FsVUVBbXBZeG5mTEdXdUkyYXBIOWNFemFiUEFUTEJwTQ?oc=5)
+
+2026-05-24 <span class="news-indication-tag">dépression</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzlvd3R4MUE1bDM3SC1DQ0NKcEt6ZzFpeVdwV2szaHhBWU5nVWx4U0RUSGNKaGxMQThNbnhReWQwMUNNTml2NTdFQWlRazVPZ2tPdWdQMFIxNWUzTFQwdXpxcWFuRUpZMWdELWxEWERtMnhxd2s4Y3F5YUU3TGxqbC1jUDJSaGhOaWM2WUJROWhjaGFXN1pqU0F2Z3NSeVdaVlE3RHc1ZkRxcDJzR1EzanppZ3FsVUVBbXBZeG5mTEdXdUkyYXBIOWNFemFiUEFUTEJwTQ?oc=5)
+
+---
+
 ### [Los trastornos mentales ya son la principal causa de discapacidad en el mundo](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
 
 2026-05-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
-
----
-
-### [Alzheimer: depressione, sedentarietà e sonno segnali d’allarme per le donne - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
-
-2026-05-22 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
 
 ---
 

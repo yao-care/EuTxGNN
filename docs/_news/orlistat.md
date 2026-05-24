@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Stroke test at new clinic 'will save lives'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
+
+2026-05-24 <span class="news-indication-tag">stroke</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
+
+---
+
+### [Ictus amnésique : quand la mémoire s’efface brutalement le temps de quelques heures - Charente Libre](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmh5OXdULTVOYkgtU3VqLWY3VDMzM0RCNkZ3MXd0OEQzaEgtcDhYRFVGZWtiaXg3U2pnYjExQk9Obnlac0ROLUU2YTJmMmlaX0JfM1I4d3QyREhlY3pQWUtMWEhzUUlXVmsxSUZmSjRienR2YlNrM1M5bHBnaXdoNkx0TlV2Q09jTnQyRm1tTzVZQXlFRC0weU16d1hOY0JvSkktUE1ra2k2eHRKUkYzVUl5MXZBTkEzcUFhY2VZbU9pWnljUi1uTg?oc=5)
+
+2026-05-24 <span class="news-indication-tag">ictus</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmh5OXdULTVOYkgtU3VqLWY3VDMzM0RCNkZ3MXd0OEQzaEgtcDhYRFVGZWtiaXg3U2pnYjExQk9Obnlac0ROLUU2YTJmMmlaX0JfM1I4d3QyREhlY3pQWUtMWEhzUUlXVmsxSUZmSjRienR2YlNrM1M5bHBnaXdoNkx0TlV2Q09jTnQyRm1tTzVZQXlFRC0weU16d1hOY0JvSkktUE1ra2k2eHRKUkYzVUl5MXZBTkEzcUFhY2VZbU9pWnljUi1uTg?oc=5)
+
+---
 
 ### [KI-Atlas zu Adipositas und der Marktwechsel zu oralen GLP-1-Pillen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXhPb1RhTE1LVGJ2MmhkYjdzM3U3M19vb3Ezb2QzVk1TbkMwbkdGTnVBd1RMSl83TENQajlmd1Rzc0pjSG90clk2WUtpSmRrZ05kalFpNWZFZ0h2ZXB1d2RZRWluTXR3UkRwYmJtR1BNU01LNXRGMVVhUUxMeEpNRFJ2djVadDBCOEMzYWZMZEZybnZCNUdQOU5wUGFwRWs?oc=5)
 
@@ -70,11 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+### [Ozempic y Wegovy ya tienen sucesor: la retatrutida fulmina todos los récords de pérdida de peso](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk1LdnFkOFpURW9aSDkxdG56bHpnWDNqUllfN3hLU2ppLU0wUGRlZmdjamtFeF9EWUJwMk5TUHVRbHF2QjdUX3hVaUU5Qk1JTXR4MXNWb3B6VWtNU2UySmprWEJmYlVHXzFjTW9BcVc2YmRJck5xcDhrc1B5QnRxQWdIMUxoY1JwTXFtanhBeTB0N2NfZVprSEVYS2I3d0ZfTkg1dUhpV2ZQOHJCM2l1dThCdGhZbWPSAbwBQVVfeXFMTzFvTkkzTTViS3lfQW54YmlnNkY2QzV1b0tmZW9jWHkxSHdjdGVkMUFtakFrdFZUYzVmWUQ3bXp3VjdxaC1VM0NQTXhRWUctYmFDRmZ1a2R5NlRKcUlsemktZXh2TGxMOHhfZ3kzbmxuQXdFU3IwNjZRaTJXb0ZrbTlRNXRrRkdlZzVlT2lxQ1drZ1dPU291Z25lTk1aeGh2Z1JHTkxwRFhGRTc3R09rNTNOVk1yOWVXSmlYWXI?oc=5)
 
 2026-05-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+來源：[Xataka](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk1LdnFkOFpURW9aSDkxdG56bHpnWDNqUllfN3hLU2ppLU0wUGRlZmdjamtFeF9EWUJwMk5TUHVRbHF2QjdUX3hVaUU5Qk1JTXR4MXNWb3B6VWtNU2UySmprWEJmYlVHXzFjTW9BcVc2YmRJck5xcDhrc1B5QnRxQWdIMUxoY1JwTXFtanhBeTB0N2NfZVprSEVYS2I3d0ZfTkg1dUhpV2ZQOHJCM2l1dThCdGhZbWPSAbwBQVVfeXFMTzFvTkkzTTViS3lfQW54YmlnNkY2QzV1b0tmZW9jWHkxSHdjdGVkMUFtakFrdFZUYzVmWUQ3bXp3VjdxaC1VM0NQTXhRWUctYmFDRmZ1a2R5NlRKcUlsemktZXh2TGxMOHhfZ3kzbmxuQXdFU3IwNjZRaTJXb0ZrbTlRNXRrRkdlZzVlT2lxQ1drZ1dPU291Z25lTk1aeGh2Z1JHTkxwRFhGRTc3R09rNTNOVk1yOWVXSmlYWXI?oc=5)
 
 ---
 

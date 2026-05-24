@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,19 +37,19 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
+### [1,2 milliard de personnes en souffrance : 91 % des dépressions majeures ne sont pas traitées correctement dans le monde](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzlvd3R4MUE1bDM3SC1DQ0NKcEt6ZzFpeVdwV2szaHhBWU5nVWx4U0RUSGNKaGxMQThNbnhReWQwMUNNTml2NTdFQWlRazVPZ2tPdWdQMFIxNWUzTFQwdXpxcWFuRUpZMWdELWxEWERtMnhxd2s4Y3F5YUU3TGxqbC1jUDJSaGhOaWM2WUJROWhjaGFXN1pqU0F2Z3NSeVdaVlE3RHc1ZkRxcDJzR1EzanppZ3FsVUVBbXBZeG5mTEdXdUkyYXBIOWNFemFiUEFUTEJwTQ?oc=5)
+
+2026-05-24
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzlvd3R4MUE1bDM3SC1DQ0NKcEt6ZzFpeVdwV2szaHhBWU5nVWx4U0RUSGNKaGxMQThNbnhReWQwMUNNTml2NTdFQWlRazVPZ2tPdWdQMFIxNWUzTFQwdXpxcWFuRUpZMWdELWxEWERtMnhxd2s4Y3F5YUU3TGxqbC1jUDJSaGhOaWM2WUJROWhjaGFXN1pqU0F2Z3NSeVdaVlE3RHc1ZkRxcDJzR1EzanppZ3FsVUVBbXBZeG5mTEdXdUkyYXBIOWNFemFiUEFUTEJwTQ?oc=5)
+
+---
+
 ### [Los trastornos mentales ya son la principal causa de discapacidad en el mundo](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
 
 2026-05-22
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVRuRmR6aXdqVlNfNnZBZzgxWnUtNVJOTWRpVC1CdlQ5OURDYWY5NnFCUXk5MlVmaklUWURVWm5sdHBMLTJNX3lwMmliZHNQOGNXZjFKZmlWd1JIcTFaOWc3VlR4R3BlNGtXbFpidTFUMzJrYlpobkZLR1Frd2VsX2JEVUZvT2xpbnB0NDBvZkp1MGhpLVJnVjBqXzl1N1gzMWJ4ODNjMA?oc=5)
-
----
-
-### [Alzheimer: depressione, sedentarietà e sonno segnali d’allarme per le donne - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
-
-2026-05-22
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
 
 ---
 

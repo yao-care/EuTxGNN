@@ -54,19 +54,19 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（2 則）
 
-### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+### [Nachtlicht und Gesundheit: So steigt das Risiko für Herz und Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
 
-2026-05-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-05-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
 
 ---
 
-### [Henry Slade: I live with type 1 diabetes. I’m worried my girls will develop it too - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
+### [Ozempic y Wegovy ya tienen sucesor: la retatrutida fulmina todos los récords de pérdida de peso](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk1LdnFkOFpURW9aSDkxdG56bHpnWDNqUllfN3hLU2ppLU0wUGRlZmdjamtFeF9EWUJwMk5TUHVRbHF2QjdUX3hVaUU5Qk1JTXR4MXNWb3B6VWtNU2UySmprWEJmYlVHXzFjTW9BcVc2YmRJck5xcDhrc1B5QnRxQWdIMUxoY1JwTXFtanhBeTB0N2NfZVprSEVYS2I3d0ZfTkg1dUhpV2ZQOHJCM2l1dThCdGhZbWPSAbwBQVVfeXFMTzFvTkkzTTViS3lfQW54YmlnNkY2QzV1b0tmZW9jWHkxSHdjdGVkMUFtakFrdFZUYzVmWUQ3bXp3VjdxaC1VM0NQTXhRWUctYmFDRmZ1a2R5NlRKcUlsemktZXh2TGxMOHhfZ3kzbmxuQXdFU3IwNjZRaTJXb0ZrbTlRNXRrRkdlZzVlT2lxQ1drZ1dPU291Z25lTk1aeGh2Z1JHTkxwRFhGRTc3R09rNTNOVk1yOWVXSmlYWXI?oc=5)
 
-2026-05-22 <span class="news-indication-tag">diabetes</span>
+2026-05-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5)
+來源：[Xataka](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk1LdnFkOFpURW9aSDkxdG56bHpnWDNqUllfN3hLU2ppLU0wUGRlZmdjamtFeF9EWUJwMk5TUHVRbHF2QjdUX3hVaUU5Qk1JTXR4MXNWb3B6VWtNU2UySmprWEJmYlVHXzFjTW9BcVc2YmRJck5xcDhrc1B5QnRxQWdIMUxoY1JwTXFtanhBeTB0N2NfZVprSEVYS2I3d0ZfTkg1dUhpV2ZQOHJCM2l1dThCdGhZbWPSAbwBQVVfeXFMTzFvTkkzTTViS3lfQW54YmlnNkY2QzV1b0tmZW9jWHkxSHdjdGVkMUFtakFrdFZUYzVmWUQ3bXp3VjdxaC1VM0NQTXhRWUctYmFDRmZ1a2R5NlRKcUlsemktZXh2TGxMOHhfZ3kzbmxuQXdFU3IwNjZRaTJXb0ZrbTlRNXRrRkdlZzVlT2lxQ1drZ1dPU291Z25lTk1aeGh2Z1JHTkxwRFhGRTc3R09rNTNOVk1yOWVXSmlYWXI?oc=5)
 
 ---
 

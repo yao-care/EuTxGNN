@@ -54,27 +54,27 @@ permalink: /news/deferiprone/
 
 ## 相關新聞（3 則）
 
+### [Bluthochdruck im Fokus: Konservierungsstoffe, Vorhofflimmern und neue Therapiestrategien - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWZOOVFrNUkxYmpyN0dzZnFfdGJxLWRoa2FnbWxlc0w3U0FQWVlWLXFtcVRJalR1UlZOcDBBMVJteXg3N096anpoRWlYRWRwaE1TWTY2TXBMSmpZS2JRbEl0RE5tOVNQcWU2SmNBZmxvR1BMaU41c01vdlpXN3lfeFJHSlJ6ODVNcVNYMi1OUGdTOTg4UHpsV2hEWVVwcWlRRUZ2OWVaOHJ5b3FNWlN3YmNyOW1qT1VsbFE?oc=5)
+
+2026-05-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWZOOVFrNUkxYmpyN0dzZnFfdGJxLWRoa2FnbWxlc0w3U0FQWVlWLXFtcVRJalR1UlZOcDBBMVJteXg3N096anpoRWlYRWRwaE1TWTY2TXBMSmpZS2JRbEl0RE5tOVNQcWU2SmNBZmxvR1BMaU41c01vdlpXN3lfeFJHSlJ6ODVNcVNYMi1OUGdTOTg4UHpsV2hEWVVwcWlRRUZ2OWVaOHJ5b3FNWlN3YmNyOW1qT1VsbFE?oc=5)
+
+---
+
+### [Traitement de l’hypertension : matin ou soir, quel est le meilleur moment selon la science ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZk1SSWhIVXZfOHNJdlBtVFJjVE1jdEpFd3hjbFdhVU5fQzJrZHh6MW9ldkdkbHRNQkd6RTUyLTBsX2dkc3lIQ0EtenVTdlZ6ZTRlYVNINmU1ZlNuZUw5SzZJeHkzc3U0REh6TzRDT0l1WXlWMHJheWJtZ0dXN21hbmdRclpDY0swSnJHNVdfdGlfQkVjdERLVU95VEdSQjJsMlRxY1FzTy1KOUxTcUhtOFdwZWR0WWhlS3A3RjRzc1hKNkV6MnN2QW54UGg0ejEwbTRIUEtObmZSRnVxM3dKdlZ3cFNxNEdkNHZOWjlQR0d3dw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">hypertension</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZk1SSWhIVXZfOHNJdlBtVFJjVE1jdEpFd3hjbFdhVU5fQzJrZHh6MW9ldkdkbHRNQkd6RTUyLTBsX2dkc3lIQ0EtenVTdlZ6ZTRlYVNINmU1ZlNuZUw5SzZJeHkzc3U0REh6TzRDT0l1WXlWMHJheWJtZ0dXN21hbmdRclpDY0swSnJHNVdfdGlfQkVjdERLVU95VEdSQjJsMlRxY1FzTy1KOUxTcUhtOFdwZWR0WWhlS3A3RjRzc1hKNkV6MnN2QW54UGg0ejEwbTRIUEtObmZSRnVxM3dKdlZ3cFNxNEdkNHZOWjlQR0d3dw?oc=5)
+
+---
+
 ### [Profesionales de Albacete advierten sobre el peligro del “asesino silencioso” - El Digital de Albacete](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDRlblpqTTlRWDFZXzZGX3RpRkFkUXN0cWIwQngzQ250Vnl2c0pBV0l1ejJPR3B4aW92S0NBU2pULXBJQURVTE9oSi1BTVc2X21EVzdMdXRnakxZY3R5X0RaSi1fcjRoakNyeGU2SkE4OTBfNHE1NmxRNzBYWTNiMHVCcTRIdFdwUXJpblRmYjg3X1VDZGc0NTQwcXRVNlR4X1dNd0RGcmExSjVraG1GNkltX2I4Y0t4VVc0U19zM1k?oc=5)
 
 2026-05-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[El Digital de Albacete](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDRlblpqTTlRWDFZXzZGX3RpRkFkUXN0cWIwQngzQ250Vnl2c0pBV0l1ejJPR3B4aW92S0NBU2pULXBJQURVTE9oSi1BTVc2X21EVzdMdXRnakxZY3R5X0RaSi1fcjRoakNyeGU2SkE4OTBfNHE1NmxRNzBYWTNiMHVCcTRIdFdwUXJpblRmYjg3X1VDZGc0NTQwcXRVNlR4X1dNd0RGcmExSjVraG1GNkltX2I4Y0t4VVc0U19zM1k?oc=5)
-
----
-
-### [Bluthochdruck: Neue Erkenntnisse zu Konservierungsstoffen und Therapien - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY25oWXFsdkdZNmszbHMzbzllSWxoUUFQVll1QVg4RUtqejJXaUM1cDFpenBDX0VoZ1JzU1NaSHdWOTJOa0RWUmo0TzlaMm9Vck1XUjFCZDFsUkRLOW0wOUVyMXc4Vm9fVHhGODZ4aE9YbTl1VEdzYkFYNi0yV0U5VDY3cHhiMzMxWG10SWxWQ3E3c2pnSGVkOERYREZ2Mll3OHNXVlNqQ1MxMXk3dmVucU5OWWN6cFRiYzRr?oc=5)
-
-2026-05-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY25oWXFsdkdZNmszbHMzbzllSWxoUUFQVll1QVg4RUtqejJXaUM1cDFpenBDX0VoZ1JzU1NaSHdWOTJOa0RWUmo0TzlaMm9Vck1XUjFCZDFsUkRLOW0wOUVyMXc4Vm9fVHhGODZ4aE9YbTl1VEdzYkFYNi0yV0U5VDY3cHhiMzMxWG10SWxWQ3E3c2pnSGVkOERYREZ2Mll3OHNXVlNqQ1MxMXk3dmVucU5OWWN6cFRiYzRr?oc=5)
-
----
-
-### [Infarti e ipertensione collegati ai conservanti: controlla se ci sono questi negli alimenti - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
-
-2026-05-22 <span class="news-indication-tag">ipertensione</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGwzLVV5cTV4bmVhNVF1M1RKYkZVOThpZ1NuM0xIaU11WUFFcWNRaEtaVElMSndBUFBjUUhxMWNScE9ZWmhNVW5XZW8xTVZGQ29WT0d1d0hPV094MFpaQmZOVjhVY1M4RmdzdnU2QUpWd3RScTBKa0JwcThJX2s0R2dvNWRHY2dWRnJycnFtaUZrRko1NUN3OVIyVnpMNFZWdDlHZEVTaUV4QdIBpwFBVV95cUxQcHV0UTc2RWhIb0RvRVFzZF9HRDR4UU5YSlluR1VRbE1ldno0dmEtd1U4WllmSlNUY1VWV2VKLWRfclc5b0E3dHgzUHRrV2hVQ1FpR3ZmVzFFUnNNMGI2aFBEd2ZOYXN3c2w3SkV0SzhqMEw1NjZKdm1BQXNQOGxkTWk4dnFxM2loUzdNcXJBZ1NnZ3dYdWRyT29mT2xQbDlSeEVaZ3FxOA?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthma 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthma 有什麼相關新聞？">
+<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,21 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
 
 2026-05-23
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
-
----
-
-### [Ecco perché i bambini al nido si ammalano sempre - la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYk9HWTdSYXFIdE1OX2RSQk1sVU5ZNkF4QVVMVHdNeWl0N0dnTnBsVGJkYTlFMHJFdTJPM2o5ZkVGY1QycmZfYnduQ2x1NDJSX1JfTlBwOWhhdGd4LWExZ013alFiTWZGNTlBZ2NGVEU0Y21Tc0xfMlh6QVJxczU3Vk5Ddm5qNTZOeE9qQzF6eHhVUnRsZ2xlaVNrLWR0S3pwYkF5MnQzZTJWZ1Q5dmc1Sml5NHpyT1NpR2RjMlZfMUFWQdIBxwFBVV95cUxQbHJGdDF6Q2FsOVpNZXR2T2gydjNxamVYRkdWUTZzamdFUjJqUEhIV2tuWkxJbnFycFEzYkVJS214Qm16X09scmVwY1RiS0k1ZGtlZlBRTlBZSVR0eUhFMjJSS2FCa0dMSmRwN2MyZ1E0aHN4UEdwVEU1d2JKQXRhSEVpXzhNRVFzenpRSHlJWEkwU29WVDJSR3o3TnY2ek5KSmpKdFhmYmxXRDkteGZ0NVZiUklNSDhFMWU5UnJYZHktOFpHVWhZ?oc=5)
-
-2026-05-22
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYk9HWTdSYXFIdE1OX2RSQk1sVU5ZNkF4QVVMVHdNeWl0N0dnTnBsVGJkYTlFMHJFdTJPM2o5ZkVGY1QycmZfYnduQ2x1NDJSX1JfTlBwOWhhdGd4LWExZ013alFiTWZGNTlBZ2NGVEU0Y21Tc0xfMlh6QVJxczU3Vk5Ddm5qNTZOeE9qQzF6eHhVUnRsZ2xlaVNrLWR0S3pwYkF5MnQzZTJWZ1Q5dmc1Sml5NHpyT1NpR2RjMlZfMUFWQdIBxwFBVV95cUxQbHJGdDF6Q2FsOVpNZXR2T2gydjNxamVYRkdWUTZzamdFUjJqUEhIV2tuWkxJbnFycFEzYkVJS214Qm16X09scmVwY1RiS0k1ZGtlZlBRTlBZSVR0eUhFMjJSS2FCa0dMSmRwN2MyZ1E0aHN4UEdwVEU1d2JKQXRhSEVpXzhNRVFzenpRSHlJWEkwU29WVDJSR3o3TnY2ek5KSmpKdFhmYmxXRDkteGZ0NVZiUklNSDhFMWU5UnJYZHktOFpHVWhZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dimethyl-fumarate/
 ---
 
 <p class="key-answer" data-question="Dimethyl Fumarate 有什麼相關新聞？">
-<strong>Dimethyl Fumarate</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dimethyl Fumarate</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/dimethyl-fumarate/
 <p><a href="{{ '/drugs/dimethyl-fumarate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（23 則）
 
 ### [Cancer du rectum : voilà les signes qui ne trompent pas](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wakhoc3VfQnZSWVVURF85SlozQlY2SkVVSGFaVURwemlidFBvMjZrelp5WXJaWHJKOXY5QzdWTzlROUwySFJ1ZWlRUVRCNjlOSlNiSHFVdU1fRkNmcTh5MXF3TDNJWldhekdYOFJiMjNhQzBmbjNINlRZWQ?oc=5)
 
 2026-05-24 <span class="news-indication-tag">cancer</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wakhoc3VfQnZSWVVURF85SlozQlY2SkVVSGFaVURwemlidFBvMjZrelp5WXJaWHJKOXY5QzdWTzlROUwySFJ1ZWlRUVRCNjlOSlNiSHFVdU1fRkNmcTh5MXF3TDNJWldhekdYOFJiMjNhQzBmbjNINlRZWQ?oc=5)
+
+---
+
+### [Bernardo Rocco: «Anche fare sesso può aiutare a prevenire il cancro alla prostata. Con i robot si opera a distanza, ma in Italia la burocrazia frena» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3NnTFBPSGpBMHFPR3dvQ0lkSENzR0dQU0xFekJDQTk1WnlZVDlQazU4bTVVVWhvT3ZJR0RwOVpJSDlMQ1FZUTZrQzlXc3MzOGpySU1KTnVLZ2NRQ3dZNTJ5SFlTSktITjgtbi1Gb3JCdkJQWlM0cWpZTDVwZ2VqM1lEOVVoZzROZl9vbWxIYlNYMmRQQ0pZVHF6TGt0VGlJQzF0LWtZYzB3d0c1cHYxRlZNU0NPVlp0Tk9UMkduMUHSAcYBQVVfeXFMTXFLQ3poUTJzeUZzRkI1NmN2d2FYXy0zSVE0Q2NlYXQ5THlRYmpMZ3ZNd3lDSVRVZVc0Vnh0Z3RVZ3JLdnJ5bzN1b1ZEU2pfSWowNHN4bm1mVVhwMllEUXN3RzVPYWx0NzI4cU92amxJNDVnSlVXR0VxR2J1SkJlR1dkWGhjV1I4ODl6WE1SbGphWVMxdGRmOVlzdkU2WjdwSGxmQS1zOHdQTU5Fc3BJZUd0R09rajhZRzNwNDd2ZHF3REZoV2l3?oc=5)
+
+2026-05-24 <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3NnTFBPSGpBMHFPR3dvQ0lkSENzR0dQU0xFekJDQTk1WnlZVDlQazU4bTVVVWhvT3ZJR0RwOVpJSDlMQ1FZUTZrQzlXc3MzOGpySU1KTnVLZ2NRQ3dZNTJ5SFlTSktITjgtbi1Gb3JCdkJQWlM0cWpZTDVwZ2VqM1lEOVVoZzROZl9vbWxIYlNYMmRQQ0pZVHF6TGt0VGlJQzF0LWtZYzB3d0c1cHYxRlZNU0NPVlp0Tk9UMkduMUHSAcYBQVVfeXFMTXFLQ3poUTJzeUZzRkI1NmN2d2FYXy0zSVE0Q2NlYXQ5THlRYmpMZ3ZNd3lDSVRVZVc0Vnh0Z3RVZ3JLdnJ5bzN1b1ZEU2pfSWowNHN4bm1mVVhwMllEUXN3RzVPYWx0NzI4cU92amxJNDVnSlVXR0VxR2J1SkJlR1dkWGhjV1I4ODl6WE1SbGphWVMxdGRmOVlzdkU2WjdwSGxmQS1zOHdQTU5Fc3BJZUd0R09rajhZRzNwNDd2ZHF3REZoV2l3?oc=5)
+
+---
+
+### [Gli incendi ai centri per il trattamento di ebola nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVBud2FvR0dTem01dnZGRWo2NDVBWHU2My1ic3NJdXV4S2s1aVZGZVVqRVppeGhocDVmTjhCdzkwdE5EbGJ6blpLOGdGRjJVSTBVTnk2cFAtdi04N1l5NUVXdGZPbnVBd01zVFVHRlNwcTVJS3ZiaXBIQXpUREpVX29pZDB0NDVsN3c?oc=5)
+
+2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVBud2FvR0dTem01dnZGRWo2NDVBWHU2My1ic3NJdXV4S2s1aVZGZVVqRVppeGhocDVmTjhCdzkwdE5EbGJ6blpLOGdGRjJVSTBVTnk2cFAtdi04N1l5NUVXdGZPbnVBd01zVFVHRlNwcTVJS3ZiaXBIQXpUREpVX29pZDB0NDVsN3c?oc=5)
 
 ---
 
@@ -70,19 +86,19 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Neue Krebsstudie: Wie „Zombie-Zellen“ Tumore zurückbringen – und was sie jetzt stoppt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
+### [Frog poison detox ‘claims first British victim’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
 
-2026-05-24 <span class="news-indication-tag">tumor</span>
+2026-05-24 <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdUt0eTdOcV9tam4zUXhYZkw4SklrQ2xoZFB3SDNxN0RvRHVCZzRpdUpyZURPS3VBemp1SWZXdXp5Rkx2aFJ4TFdYWE9pTXFXSGpEZzNwc1EyRFdnNFRNajdLalRxYjQxSmhBVWJfdGx1b05OX05ra2EzZmlqVWJkdXV3Ry02UmY1QWVuSVM1RFhBeVoxUEtnUUdLb295MEF6UEtMUFU4VUNYdlM2VEp3Q09acTl5V29wUzd5WHRKWHprS01ubFNPX1NpUF9maWdNTEtkZVQ2Z2tldXNkMXhoYmgxMA?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
 
 ---
 
-### [Bernardo Rocco: «Anche fare sesso può aiutare a prevenire il cancro alla prostata. Con i robot si opera a distanza, ma in Italia la burocrazia frena» - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3NnTFBPSGpBMHFPR3dvQ0lkSENzR0dQU0xFekJDQTk1WnlZVDlQazU4bTVVVWhvT3ZJR0RwOVpJSDlMQ1FZUTZrQzlXc3MzOGpySU1KTnVLZ2NRQ3dZNTJ5SFlTSktITjgtbi1Gb3JCdkJQWlM0cWpZTDVwZ2VqM1lEOVVoZzROZl9vbWxIYlNYMmRQQ0pZVHF6TGt0VGlJQzF0LWtZYzB3d0c1cHYxRlZNU0NPVlp0Tk9UMkduMUHSAcYBQVVfeXFMTXFLQ3poUTJzeUZzRkI1NmN2d2FYXy0zSVE0Q2NlYXQ5THlRYmpMZ3ZNd3lDSVRVZVc0Vnh0Z3RVZ3JLdnJ5bzN1b1ZEU2pfSWowNHN4bm1mVVhwMllEUXN3RzVPYWx0NzI4cU92amxJNDVnSlVXR0VxR2J1SkJlR1dkWGhjV1I4ODl6WE1SbGphWVMxdGRmOVlzdkU2WjdwSGxmQS1zOHdQTU5Fc3BJZUd0R09rajhZRzNwNDd2ZHF3REZoV2l3?oc=5)
+### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
-2026-05-24 <span class="news-indication-tag">tumor</span>
+2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3NnTFBPSGpBMHFPR3dvQ0lkSENzR0dQU0xFekJDQTk1WnlZVDlQazU4bTVVVWhvT3ZJR0RwOVpJSDlMQ1FZUTZrQzlXc3MzOGpySU1KTnVLZ2NRQ3dZNTJ5SFlTSktITjgtbi1Gb3JCdkJQWlM0cWpZTDVwZ2VqM1lEOVVoZzROZl9vbWxIYlNYMmRQQ0pZVHF6TGt0VGlJQzF0LWtZYzB3d0c1cHYxRlZNU0NPVlp0Tk9UMkduMUHSAcYBQVVfeXFMTXFLQ3poUTJzeUZzRkI1NmN2d2FYXy0zSVE0Q2NlYXQ5THlRYmpMZ3ZNd3lDSVRVZVc0Vnh0Z3RVZ3JLdnJ5bzN1b1ZEU2pfSWowNHN4bm1mVVhwMllEUXN3RzVPYWx0NzI4cU92amxJNDVnSlVXR0VxR2J1SkJlR1dkWGhjV1I4ODl6WE1SbGphWVMxdGRmOVlzdkU2WjdwSGxmQS1zOHdQTU5Fc3BJZUd0R09rajhZRzNwNDd2ZHF3REZoV2l3?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
 ---
 
@@ -102,35 +118,27 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [RD del Congo suspende vuelos de pasajeros a localidad afectada por Ébola, Bunia - Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTFB2VzByYW84UmxNeDRrWTN5N1JOM2lJUkFMRU10alNwU0s2NzZEUVFXeERFdmJSckd1RDNoeGxjUE5xZlcwQm9YcjdJSmVlTkp6aDNZYVFoT2ZxazZjNGk0M2pwWkY3bkY5Y0l1NE5pejlTMTY4RFE?oc=5)
-
-2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTFB2VzByYW84UmxNeDRrWTN5N1JOM2lJUkFMRU10alNwU0s2NzZEUVFXeERFdmJSckd1RDNoeGxjUE5xZlcwQm9YcjdJSmVlTkp6aDNZYVFoT2ZxazZjNGk0M2pwWkY3bkY5Y0l1NE5pejlTMTY4RFE?oc=5)
-
----
-
-### [Krankenhäuser überfordert: Mehr als 500 Kinder bei Masernausbruch in Bangladesch gestorben](https://news.google.com/rss/articles/CBMirAFBVV95cUxORHNJS19EUDYzbWhaZXhSMUVNWEQ3cmxYUHRTUjI0R3lPM05KYTRmNjg1M05velJqOXp2MFpKc3lZX1hpQmJmUk05VUI1MEhfMkZYQUZqSG94QUtKemhpRFpMREdEaC14bEV0b2YzZENWQkZCbjhRdnhtb3h6eHVLNHFUZXFtaWVfRUF6QmJ6X2hLeWIzLW81RE9GSE5Ja3BnZFZkemZ0N1R1cVI1?oc=5)
+### [Mehr als 500 Kinder sterben bei Masernausbruch in Bangladesch](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3hYUzdMd1Fsbm4tdFVFNDB3QVJpT3JuOVVWQ0tmNzdBQzJBTE40QzZiR0pHdUx5SEhKOVlsWno4c255eXlCYi1tSUpXS2lHQjEya2RyNVByUzM5MnBCbHBvRDJ0RW1yeVZWN2haUEUxcV92Z1VwdG03b0hCYVJuNk9WVEhEcGhJQUtXMDZqY0hDMTcwZXd0cEVYaVJuVGp1M0tR?oc=5)
 
 2026-05-23 <span class="news-indication-tag">MS</span>
 
-來源：[Ntv](https://news.google.com/rss/articles/CBMirAFBVV95cUxORHNJS19EUDYzbWhaZXhSMUVNWEQ3cmxYUHRTUjI0R3lPM05KYTRmNjg1M05velJqOXp2MFpKc3lZX1hpQmJmUk05VUI1MEhfMkZYQUZqSG94QUtKemhpRFpMREdEaC14bEV0b2YzZENWQkZCbjhRdnhtb3h6eHVLNHFUZXFtaWVfRUF6QmJ6X2hLeWIzLW81RE9GSE5Ja3BnZFZkemZ0N1R1cVI1?oc=5)
+來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3hYUzdMd1Fsbm4tdFVFNDB3QVJpT3JuOVVWQ0tmNzdBQzJBTE40QzZiR0pHdUx5SEhKOVlsWno4c255eXlCYi1tSUpXS2lHQjEya2RyNVByUzM5MnBCbHBvRDJ0RW1yeVZWN2haUEUxcV92Z1VwdG03b0hCYVJuNk9WVEhEcGhJQUtXMDZqY0hDMTcwZXd0cEVYaVJuVGp1M0tR?oc=5)
 
 ---
 
-### [Virus Ebola, Pregliasco: Italia a rischio contagio - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcDJoMWZVU1ZORVRnOWFDX0hGQjFnMzBGaTFGUHhhdjZhcnFiNk9vQkVhNndvbUZpY1plVnlLS1pYT2VHXy1iMTVXQjRyNzZLcS1MaXNwUnNMbTdpYUFNNi1ualVwcW5saExlbE93eURtSTVtd3c5YW5xUHZxR2gzbERTaVF0Q2Vqdk9ad1kzLVU?oc=5)
-
-2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcDJoMWZVU1ZORVRnOWFDX0hGQjFnMzBGaTFGUHhhdjZhcnFiNk9vQkVhNndvbUZpY1plVnlLS1pYT2VHXy1iMTVXQjRyNzZLcS1MaXNwUnNMbTdpYUFNNi1ualVwcW5saExlbE93eURtSTVtd3c5YW5xUHZxR2gzbERTaVF0Q2Vqdk9ad1kzLVU?oc=5)
-
----
-
-### [Red Cross volunteers die from suspected Ebola in DR Congo](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtVTduTkdnRlU3S2NVdjJiSE5xQjFEdl9VQU8wcGpsMnZvZWx0d09ydU5HSEl0Y1dmNHJ1ZzJMSXNzeGhZZWlSY1BNYXNsUElic0lIVnIzQWtwbHNS?oc=5)
+### [Ebola outbreak: strain ‘recently jumped from humans to animals’ - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0FIcmNqRHk1MS1pZUhzbjAyZU5qSWRudVhqRGpHRGlzN1ZBTUFDWkRYa1V0c29heDBneWFUVllKR2J4WmZDdzFmRXpYQ2Q4Y1VlQkxaZHlmdEFEbXZYRDFFcHlYcTlTNF9rQWNZZGVaWVJtNUtma2xkMnZ0Mm96RDJqbWNvbGM0eUdnaGFHcmx0SDBpWS02VlBjVUtnbWZIelMxNHdTV21QU2hM?oc=5)
 
 2026-05-23 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtVTduTkdnRlU3S2NVdjJiSE5xQjFEdl9VQU8wcGpsMnZvZWx0d09ydU5HSEl0Y1dmNHJ1ZzJMSXNzeGhZZWlSY1BNYXNsUElic0lIVnIzQWtwbHNS?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0FIcmNqRHk1MS1pZUhzbjAyZU5qSWRudVhqRGpHRGlzN1ZBTUFDWkRYa1V0c29heDBneWFUVllKR2J4WmZDdzFmRXpYQ2Q4Y1VlQkxaZHlmdEFEbXZYRDFFcHlYcTlTNF9rQWNZZGVaWVJtNUtma2xkMnZ0Mm96RDJqbWNvbGM0eUdnaGFHcmx0SDBpWS02VlBjVUtnbWZIelMxNHdTV21QU2hM?oc=5)
+
+---
+
+### [Mum loses 'perfect child' just 15 days after first symptom and issues plea - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
+
+2026-05-23 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
 
 ---
 
@@ -182,14 +190,6 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [L'âge d'or du cerveau : pourquoi les 55-60 ans possèdent une supériorité stratégique sur les plus jeunes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVY0a01fQlhFY0FtZ2twbElFdkxvUGNoSXZ1aHZKbDFtRE1sZi1wRmpWZUZlekFLazNYSGhKcExDV3NJaUlMTVh6ZDBIRmlQM2ozVzJrdlhxZDNlaWxHRlQyTHhSVzRQTmxubUZxOFFCRmFydmt3WGFyaXFDUDdQWHpiVV9tLVhGVmN3VllTYlQyYURrbXJLbHpTQ3lFYndidm5YV0pVX19UeGJFTkVRbE5qZGZEX3JMNUdSZU9uc3BzQQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">MS</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVY0a01fQlhFY0FtZ2twbElFdkxvUGNoSXZ1aHZKbDFtRE1sZi1wRmpWZUZlekFLazNYSGhKcExDV3NJaUlMTVh6ZDBIRmlQM2ozVzJrdlhxZDNlaWxHRlQyTHhSVzRQTmxubUZxOFFCRmFydmt3WGFyaXFDUDdQWHpiVV9tLVhGVmN3VllTYlQyYURrbXJLbHpTQ3lFYndidm5YV0pVX19UeGJFTkVRbE5qZGZEX3JMNUdSZU9uc3BzQQ?oc=5)
-
----
-
 ### ['If MS takes my voice, it will live on in my book'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV2VWVFRVNF9lMWhiRFRqNHU3T0VVNExwbjFPMHJ5NlplR0NWdjFPZF9rVkF6UHJDdVVDRXZHdkhPejU3WDlRLUdRSVRrUDhLX09QcmxicTM2Tmhx?oc=5)
 
 2026-05-23 <span class="news-indication-tag">MS</span>
@@ -198,19 +198,11 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Melanoma, ecco quando bisogna fare una visita dermatologica. L’importanza dell’autoesame della pelle - La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
+### [Il sole infiamma la Maremma: «Così vi proteggete dal melanoma»](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU8zR1liMDhOWHdsQTNEM3lDWms4TnIwXzBQNkRqWUwteUJuMDBvYWRNMkxoajlFWlpMZDRKMEllbHU0cUd5Q2d4bTNuaGZHM09QaURwMjJIcFZIeXBHWEFtaUhVMWxPQzdrYnRDRHd6bXlsMTBpZjA5ZXJ1OGEtc2FtbUc0RzgxLS1UZE5RMklQRHFPUFNHaEdR?oc=5)
 
 2026-05-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
-
----
-
-### ['My 11-year-old woke up with a numb arm - she died 15 days later' - Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVjlMVjlLZ3NhUmtwcko5R3RKNXhyTTlteHAyS2VPM2FIYnhzQktvallaUFNGTTFmMDFKX1diaDkwd0t6a29Za1pkaEUtYm5OZTRET1NpZGQ2dHF2cXBMOXVaZW9OanFVOW9oZ1VpMmdLLWpVXzB6X1owVHJndzjSAYQBQVVfeXFMUGpGem51eEc2VlRfZUtpZEJHNlRGdEgyNy1kQ1V1R0FJTzhzQ045MTV2Y2lTYVhoZS13NlZPU0MzdTFSTnNNWk5fVWRXTjZxVjZreWQ1YjZ2N3EzakJuVjhiUlY0VUZ2WVFlRW5jWE91Vk8wRWVCa2UxQzZQTU01ck5RLTRs?oc=5)
-
-2026-05-23 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVjlMVjlLZ3NhUmtwcko5R3RKNXhyTTlteHAyS2VPM2FIYnhzQktvallaUFNGTTFmMDFKX1diaDkwd0t6a29Za1pkaEUtYm5OZTRET1NpZGQ2dHF2cXBMOXVaZW9OanFVOW9oZ1VpMmdLLWpVXzB6X1owVHJndzjSAYQBQVVfeXFMUGpGem51eEc2VlRfZUtpZEJHNlRGdEgyNy1kQ1V1R0FJTzhzQ045MTV2Y2lTYVhoZS13NlZPU0MzdTFSTnNNWk5fVWRXTjZxVjZreWQ1YjZ2N3EzakJuVjhiUlY0VUZ2WVFlRW5jWE91Vk8wRWVCa2UxQzZQTU01ck5RLTRs?oc=5)
+來源：[MaremmaOggi](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU8zR1liMDhOWHdsQTNEM3lDWms4TnIwXzBQNkRqWUwteUJuMDBvYWRNMkxoajlFWlpMZDRKMEllbHU0cUd5Q2d4bTNuaGZHM09QaURwMjJIcFZIeXBHWEFtaUhVMWxPQzdrYnRDRHd6bXlsMTBpZjA5ZXJ1OGEtc2FtbUc0RzgxLS1UZE5RMklQRHFPUFNHaEdR?oc=5)
 
 ---
 
@@ -243,38 +235,6 @@ permalink: /news/dimethyl-fumarate/
 2026-05-22 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
-
----
-
-### [Salute mentale, emergenza mondiale: disturbi per 1,2 miliardi di persone. Dato raddoppiato dal 1990 - la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTZ5SG82VUV3X1k5My00S0RnbzdldUxHQzlxNlZEV2VObTBjU2tabHAyQ2J4a0JNUFFlUDk3VWE3cXJkMkRhR3ZfTGpPWUNaZXR1anV3bE5JZ250OHNFUU9nNUlQZHh4d0YwekVVUnQwLUVyTU1Dd0xIMGlSaEtiLUpRcVVpT0tMeTFpblFLR3l5VWtUMkFNTzA5c2x5aUVxOHQzWUdhY2FuTzRRN1BpT1g4YXBRMU42LVNvbGNLM1JzMDZzQnNtM0laNUhpcUtObGhGT0VVLXBQc2FxbFN6djVfd0FqSnNfQmU40gHwAUFVX3lxTE54X3ZyeXY5UHFmUVRoWGt3Z2d1M2JyZXA0QkttbklXWlJ6amwxSlh0c0pLcl9IS2hUTXhLUy12aHhJUUdSS3F5OXNUbFJCbDhwb2lhemFfSU9VTlFFV0lqSzVOM1VVMUprMFZxMG5veTRVQlpGRjBRWU16M3A5R3dBRkVLeVI5Z3FSVldENW1mVHR2RGFfaDhEZGhXTWswZDJtV09GS0NJMEFvcENldW9zNmhicm5paExnZ3BkTzNOMDFSdWZqSm5GSzFHUXBuQlhVMDY1S2ZDdnctUWc5NWZsRnJZdXI1cjA4SUpVbk9IRQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">MS</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOTZ5SG82VUV3X1k5My00S0RnbzdldUxHQzlxNlZEV2VObTBjU2tabHAyQ2J4a0JNUFFlUDk3VWE3cXJkMkRhR3ZfTGpPWUNaZXR1anV3bE5JZ250OHNFUU9nNUlQZHh4d0YwekVVUnQwLUVyTU1Dd0xIMGlSaEtiLUpRcVVpT0tMeTFpblFLR3l5VWtUMkFNTzA5c2x5aUVxOHQzWUdhY2FuTzRRN1BpT1g4YXBRMU42LVNvbGNLM1JzMDZzQnNtM0laNUhpcUtObGhGT0VVLXBQc2FxbFN6djVfd0FqSnNfQmU40gHwAUFVX3lxTE54X3ZyeXY5UHFmUVRoWGt3Z2d1M2JyZXA0QkttbklXWlJ6amwxSlh0c0pLcl9IS2hUTXhLUy12aHhJUUdSS3F5OXNUbFJCbDhwb2lhemFfSU9VTlFFV0lqSzVOM1VVMUprMFZxMG5veTRVQlpGRjBRWU16M3A5R3dBRkVLeVI5Z3FSVldENW1mVHR2RGFfaDhEZGhXTWswZDJtV09GS0NJMEFvcENldW9zNmhicm5paExnZ3BkTzNOMDFSdWZqSm5GSzFHUXBuQlhVMDY1S2ZDdnctUWc5NWZsRnJZdXI1cjA4SUpVbk9IRQ?oc=5)
-
----
-
-### [Scientists discover simple way to relieve arthritis pain without pills or surgery](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5)
-
----
-
-### [Saône-et-Loire. Atteinte d'un cancer cérébral, cette Chalonnaise raconte son combat - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xoSWxmWlBvOGVKeW8taG5JenRRVDZZVXI3THZBaGpqaEo4andIdEdhTGo3U3A1NkozbFd0Mjh3ZWM4VjJYRHM0d2lZa051alFzaWZnSDhQd290Ul9VYlk0b0pqcC1ENEZYbnA0a0dRc2tfams3VWpkM2FjX3Z3RmJNdUVtOHlGRTd2SExtbjRGaTBFc0QzZk8xVXc2M3FwSE42bER5dmU?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0xoSWxmWlBvOGVKeW8taG5JenRRVDZZVXI3THZBaGpqaEo4andIdEdhTGo3U3A1NkozbFd0Mjh3ZWM4VjJYRHM0d2lZa051alFzaWZnSDhQd290Ul9VYlk0b0pqcC1ENEZYbnA0a0dRc2tfams3VWpkM2FjX3Z3RmJNdUVtOHlGRTd2SExtbjRGaTBFc0QzZk8xVXc2M3FwSE42bER5dmU?oc=5)
-
----
-
-### [Alzheimer: depressione, sedentarietà e sonno segnali d’allarme per le donne - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
-
-2026-05-22 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFN1ejZmTk85eXJaZ0xweldJaXBEdEUxMlVLOUFtX3BGYUYyTEplTnI1ZWVFMEJlUF8td0xLZ21fdFRQc1FMQmJISnZfb2x0c05XQTdiODBEWFhBNWhXVjZNVWJ0NGtQQjBTaWNwc0pxWkNXQjBIOXlqRjd2MmtWdEIxaU9IRkdQLUpxdXppRjR5RGk5LUdrUXBjWGNSR2tlSzdEcnFRenU1RW5CMHM0?oc=5)
 
 ---
 
