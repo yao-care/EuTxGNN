@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [KI-Atlas zu Adipositas und der Marktwechsel zu oralen GLP-1-Pillen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXhPb1RhTE1LVGJ2MmhkYjdzM3U3M19vb3Ezb2QzVk1TbkMwbkdGTnVBd1RMSl83TENQajlmd1Rzc0pjSG90clk2WUtpSmRrZ05kalFpNWZFZ0h2ZXB1d2RZRWluTXR3UkRwYmJtR1BNU01LNXRGMVVhUUxMeEpNRFJ2djVadDBCOEMzYWZMZEZybnZCNUdQOU5wUGFwRWs?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/bupropion/
 
 ---
 
-### [Ozempic y Wegovy ya tienen sucesor: la retatrutida fulmina todos los récords de pérdida de peso](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk1LdnFkOFpURW9aSDkxdG56bHpnWDNqUllfN3hLU2ppLU0wUGRlZmdjamtFeF9EWUJwMk5TUHVRbHF2QjdUX3hVaUU5Qk1JTXR4MXNWb3B6VWtNU2UySmprWEJmYlVHXzFjTW9BcVc2YmRJck5xcDhrc1B5QnRxQWdIMUxoY1JwTXFtanhBeTB0N2NfZVprSEVYS2I3d0ZfTkg1dUhpV2ZQOHJCM2l1dThCdGhZbWPSAbwBQVVfeXFMTzFvTkkzTTViS3lfQW54YmlnNkY2QzV1b0tmZW9jWHkxSHdjdGVkMUFtakFrdFZUYzVmWUQ3bXp3VjdxaC1VM0NQTXhRWUctYmFDRmZ1a2R5NlRKcUlsemktZXh2TGxMOHhfZ3kzbmxuQXdFU3IwNjZRaTJXb0ZrbTlRNXRrRkdlZzVlT2lxQ1drZ1dPU291Z25lTk1aeGh2Z1JHTkxwRFhGRTc3R09rNTNOVk1yOWVXSmlYWXI?oc=5)
+### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
 
 2026-05-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Xataka](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk1LdnFkOFpURW9aSDkxdG56bHpnWDNqUllfN3hLU2ppLU0wUGRlZmdjamtFeF9EWUJwMk5TUHVRbHF2QjdUX3hVaUU5Qk1JTXR4MXNWb3B6VWtNU2UySmprWEJmYlVHXzFjTW9BcVc2YmRJck5xcDhrc1B5QnRxQWdIMUxoY1JwTXFtanhBeTB0N2NfZVprSEVYS2I3d0ZfTkg1dUhpV2ZQOHJCM2l1dThCdGhZbWPSAbwBQVVfeXFMTzFvTkkzTTViS3lfQW54YmlnNkY2QzV1b0tmZW9jWHkxSHdjdGVkMUFtakFrdFZUYzVmWUQ3bXp3VjdxaC1VM0NQTXhRWUctYmFDRmZ1a2R5NlRKcUlsemktZXh2TGxMOHhfZ3kzbmxuQXdFU3IwNjZRaTJXb0ZrbTlRNXRrRkdlZzVlT2lxQ1drZ1dPU291Z25lTk1aeGh2Z1JHTkxwRFhGRTc3R09rNTNOVk1yOWVXSmlYWXI?oc=5)
+來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+
+---
+
+### [Gut Signals Swap Sugar Cravings for Protein Selection - Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTFBRUy16MmJXenAxd2hUZmhjODhrM1VaeTlLbldWb1pOSDNUT2FUOUMyakdBMEpfa3YtMUdOMS1nQ1p5cVhJdTVlMXdreU9wUS01bHRSakgwRWZNdU9FWktLV2xpN0pOYXZBNE44alVXYlJRQQ?oc=5)
+
+2026-05-22 <span class="news-indication-tag">obesity</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTFBRUy16MmJXenAxd2hUZmhjODhrM1VaeTlLbldWb1pOSDNUT2FUOUMyakdBMEpfa3YtMUdOMS1nQ1p5cVhJdTVlMXdreU9wUS01bHRSakgwRWZNdU9FWktLV2xpN0pOYXZBNE44alVXYlJRQQ?oc=5)
 
 ---
 

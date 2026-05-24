@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [Plötzlich steigender Blutdruck? Ab diesem Wert „Gefahr eines Schlaganfalls“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzFnLWRhRUNSbFRSVHU3TEo0S2lHS1ByUmw5bXFwV1JZU24tM0taajRoTG9WZ3p0Vi0waGM4T3lza1o1elNtbk5iWDJpWWZyR3gxNkNjYnQ5Uy1kdE5TNzRkSVI4RFI5aHcteTdUNllpdHBWQ0pONy1MYkVxZmFZR2pMNFpURS1HNEMzeWVDSDZ5U01KMk9SUVBaX295cnJrcnc0U25URTM4Ync3SWNjWVBxWFhOTHg4dm93aTJFUV9hUEN6Q0V5SWE1TV83RW9KRk50UjBQSnJBX2M?oc=5)
+
+2026-05-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzFnLWRhRUNSbFRSVHU3TEo0S2lHS1ByUmw5bXFwV1JZU24tM0taajRoTG9WZ3p0Vi0waGM4T3lza1o1elNtbk5iWDJpWWZyR3gxNkNjYnQ5Uy1kdE5TNzRkSVI4RFI5aHcteTdUNllpdHBWQ0pONy1MYkVxZmFZR2pMNFpURS1HNEMzeWVDSDZ5U01KMk9SUVBaX295cnJrcnc0U25URTM4Ync3SWNjWVBxWFhOTHg4dm93aTJFUV9hUEN6Q0V5SWE1TV83RW9KRk50UjBQSnJBX2M?oc=5)
+
+---
+
+### [L'allarme dei cardiologi: "Con cannabis rischio d'infarto aumenta di 6 volte, di ictus del 40%" - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEM0emJsc1dLcjlSNUgydzRSaTNlclUtM0Q5VlBYbi1NZ25xMFZzc3BnQmFEWjR1YTFSQ2RQclFCYTc4aGJ4SVo5ZmdENmw3NVRSTnlqWkRPMUJpSzhHenFxU2pzTjlsOHNNa3dSNF8taE1uTEo3OG5kTC1wSlk1d0pPanpjUjBQRUxVUjZ2VmZKSnRzb294Q3Q5dDRfbG12UTRlaVRpdjVfNldLWUloYm1XdEpGZFJiWWVlOTJzdjNXVWNQWk5WdS1pendoREJndHROOUNlN1BaZV9TbXE4WTdRS2Jhb3JfT1ZR0gHEAUFVX3lxTE9rTTlhVm5WbGJicW0wOGVBWEtWRF9wbkMzblFJWlExdVhOd0dLSUpSd2tHUlQ0ajdFWG82QkY1dllCcndQTjYzSjZqcXhHWllyT1hCZ01wVi1VQjNEaGpDZnEyUVNBdllCMUpGWnE3cFlsUEFRR00wQ0hmSnFmeFFiNjd1NnBWMHJ1WjlHMkFHRU04S3B4dDlZdUJIMjRpQXFIcl8wNFh6aXZXYkFXUlpQOWZ2Q19jYnF5aV9FUGZ3VFl2OE4?oc=5)
+
+2026-05-24 <span class="news-indication-tag">ictus</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEM0emJsc1dLcjlSNUgydzRSaTNlclUtM0Q5VlBYbi1NZ25xMFZzc3BnQmFEWjR1YTFSQ2RQclFCYTc4aGJ4SVo5ZmdENmw3NVRSTnlqWkRPMUJpSzhHenFxU2pzTjlsOHNNa3dSNF8taE1uTEo3OG5kTC1wSlk1d0pPanpjUjBQRUxVUjZ2VmZKSnRzb294Q3Q5dDRfbG12UTRlaVRpdjVfNldLWUloYm1XdEpGZFJiWWVlOTJzdjNXVWNQWk5WdS1pendoREJndHROOUNlN1BaZV9TbXE4WTdRS2Jhb3JfT1ZR0gHEAUFVX3lxTE9rTTlhVm5WbGJicW0wOGVBWEtWRF9wbkMzblFJWlExdVhOd0dLSUpSd2tHUlQ0ajdFWG82QkY1dllCcndQTjYzSjZqcXhHWllyT1hCZ01wVi1VQjNEaGpDZnEyUVNBdllCMUpGWnE3cFlsUEFRR00wQ0hmSnFmeFFiNjd1NnBWMHJ1WjlHMkFHRU04S3B4dDlZdUJIMjRpQXFIcl8wNFh6aXZXYkFXUlpQOWZ2Q19jYnF5aV9FUGZ3VFl2OE4?oc=5)
+
+---
 
 ### [Stroke test at new clinic 'will save lives'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
 
@@ -86,11 +102,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Ozempic y Wegovy ya tienen sucesor: la retatrutida fulmina todos los récords de pérdida de peso](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk1LdnFkOFpURW9aSDkxdG56bHpnWDNqUllfN3hLU2ppLU0wUGRlZmdjamtFeF9EWUJwMk5TUHVRbHF2QjdUX3hVaUU5Qk1JTXR4MXNWb3B6VWtNU2UySmprWEJmYlVHXzFjTW9BcVc2YmRJck5xcDhrc1B5QnRxQWdIMUxoY1JwTXFtanhBeTB0N2NfZVprSEVYS2I3d0ZfTkg1dUhpV2ZQOHJCM2l1dThCdGhZbWPSAbwBQVVfeXFMTzFvTkkzTTViS3lfQW54YmlnNkY2QzV1b0tmZW9jWHkxSHdjdGVkMUFtakFrdFZUYzVmWUQ3bXp3VjdxaC1VM0NQTXhRWUctYmFDRmZ1a2R5NlRKcUlsemktZXh2TGxMOHhfZ3kzbmxuQXdFU3IwNjZRaTJXb0ZrbTlRNXRrRkdlZzVlT2lxQ1drZ1dPU291Z25lTk1aeGh2Z1JHTkxwRFhGRTc3R09rNTNOVk1yOWVXSmlYWXI?oc=5)
+### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
 
 2026-05-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Xataka](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQk1LdnFkOFpURW9aSDkxdG56bHpnWDNqUllfN3hLU2ppLU0wUGRlZmdjamtFeF9EWUJwMk5TUHVRbHF2QjdUX3hVaUU5Qk1JTXR4MXNWb3B6VWtNU2UySmprWEJmYlVHXzFjTW9BcVc2YmRJck5xcDhrc1B5QnRxQWdIMUxoY1JwTXFtanhBeTB0N2NfZVprSEVYS2I3d0ZfTkg1dUhpV2ZQOHJCM2l1dThCdGhZbWPSAbwBQVVfeXFMTzFvTkkzTTViS3lfQW54YmlnNkY2QzV1b0tmZW9jWHkxSHdjdGVkMUFtakFrdFZUYzVmWUQ3bXp3VjdxaC1VM0NQTXhRWUctYmFDRmZ1a2R5NlRKcUlsemktZXh2TGxMOHhfZ3kzbmxuQXdFU3IwNjZRaTJXb0ZrbTlRNXRrRkdlZzVlT2lxQ1drZ1dPU291Z25lTk1aeGh2Z1JHTkxwRFhGRTc3R09rNTNOVk1yOWVXSmlYWXI?oc=5)
+來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+
+---
+
+### [Gut Signals Swap Sugar Cravings for Protein Selection - Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTFBRUy16MmJXenAxd2hUZmhjODhrM1VaeTlLbldWb1pOSDNUT2FUOUMyakdBMEpfa3YtMUdOMS1nQ1p5cVhJdTVlMXdreU9wUS01bHRSakgwRWZNdU9FWktLV2xpN0pOYXZBNE44alVXYlJRQQ?oc=5)
+
+2026-05-22 <span class="news-indication-tag">obesity</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTFBRUy16MmJXenAxd2hUZmhjODhrM1VaeTlLbldWb1pOSDNUT2FUOUMyakdBMEpfa3YtMUdOMS1nQ1p5cVhJdTVlMXdreU9wUS01bHRSakgwRWZNdU9FWktLV2xpN0pOYXZBNE44alVXYlJRQQ?oc=5)
 
 ---
 

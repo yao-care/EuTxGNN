@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,23 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Plötzlich steigender Blutdruck? Ab diesem Wert „Gefahr eines Schlaganfalls“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzFnLWRhRUNSbFRSVHU3TEo0S2lHS1ByUmw5bXFwV1JZU24tM0taajRoTG9WZ3p0Vi0waGM4T3lza1o1elNtbk5iWDJpWWZyR3gxNkNjYnQ5Uy1kdE5TNzRkSVI4RFI5aHcteTdUNllpdHBWQ0pONy1MYkVxZmFZR2pMNFpURS1HNEMzeWVDSDZ5U01KMk9SUVBaX295cnJrcnc0U25URTM4Ync3SWNjWVBxWFhOTHg4dm93aTJFUV9hUEN6Q0V5SWE1TV83RW9KRk50UjBQSnJBX2M?oc=5)
+
+2026-05-24
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzFnLWRhRUNSbFRSVHU3TEo0S2lHS1ByUmw5bXFwV1JZU24tM0taajRoTG9WZ3p0Vi0waGM4T3lza1o1elNtbk5iWDJpWWZyR3gxNkNjYnQ5Uy1kdE5TNzRkSVI4RFI5aHcteTdUNllpdHBWQ0pONy1MYkVxZmFZR2pMNFpURS1HNEMzeWVDSDZ5U01KMk9SUVBaX295cnJrcnc0U25URTM4Ync3SWNjWVBxWFhOTHg4dm93aTJFUV9hUEN6Q0V5SWE1TV83RW9KRk50UjBQSnJBX2M?oc=5)
+
+---
+
+### [L'allarme dei cardiologi: "Con cannabis rischio d'infarto aumenta di 6 volte, di ictus del 40%" - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEM0emJsc1dLcjlSNUgydzRSaTNlclUtM0Q5VlBYbi1NZ25xMFZzc3BnQmFEWjR1YTFSQ2RQclFCYTc4aGJ4SVo5ZmdENmw3NVRSTnlqWkRPMUJpSzhHenFxU2pzTjlsOHNNa3dSNF8taE1uTEo3OG5kTC1wSlk1d0pPanpjUjBQRUxVUjZ2VmZKSnRzb294Q3Q5dDRfbG12UTRlaVRpdjVfNldLWUloYm1XdEpGZFJiWWVlOTJzdjNXVWNQWk5WdS1pendoREJndHROOUNlN1BaZV9TbXE4WTdRS2Jhb3JfT1ZR0gHEAUFVX3lxTE9rTTlhVm5WbGJicW0wOGVBWEtWRF9wbkMzblFJWlExdVhOd0dLSUpSd2tHUlQ0ajdFWG82QkY1dllCcndQTjYzSjZqcXhHWllyT1hCZ01wVi1VQjNEaGpDZnEyUVNBdllCMUpGWnE3cFlsUEFRR00wQ0hmSnFmeFFiNjd1NnBWMHJ1WjlHMkFHRU04S3B4dDlZdUJIMjRpQXFIcl8wNFh6aXZXYkFXUlpQOWZ2Q19jYnF5aV9FUGZ3VFl2OE4?oc=5)
+
+2026-05-24
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEM0emJsc1dLcjlSNUgydzRSaTNlclUtM0Q5VlBYbi1NZ25xMFZzc3BnQmFEWjR1YTFSQ2RQclFCYTc4aGJ4SVo5ZmdENmw3NVRSTnlqWkRPMUJpSzhHenFxU2pzTjlsOHNNa3dSNF8taE1uTEo3OG5kTC1wSlk1d0pPanpjUjBQRUxVUjZ2VmZKSnRzb294Q3Q5dDRfbG12UTRlaVRpdjVfNldLWUloYm1XdEpGZFJiWWVlOTJzdjNXVWNQWk5WdS1pendoREJndHROOUNlN1BaZV9TbXE4WTdRS2Jhb3JfT1ZR0gHEAUFVX3lxTE9rTTlhVm5WbGJicW0wOGVBWEtWRF9wbkMzblFJWlExdVhOd0dLSUpSd2tHUlQ0ajdFWG82QkY1dllCcndQTjYzSjZqcXhHWllyT1hCZ01wVi1VQjNEaGpDZnEyUVNBdllCMUpGWnE3cFlsUEFRR00wQ0hmSnFmeFFiNjd1NnBWMHJ1WjlHMkFHRU04S3B4dDlZdUJIMjRpQXFIcl8wNFh6aXZXYkFXUlpQOWZ2Q19jYnF5aV9FUGZ3VFl2OE4?oc=5)
+
+---
 
 ### [Stroke test at new clinic 'will save lives'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
 

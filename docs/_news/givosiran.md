@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Bluthochdruck im Fokus: Konservierungsstoffe, Vorhofflimmern und neue Therapiestrategien - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWZOOVFrNUkxYmpyN0dzZnFfdGJxLWRoa2FnbWxlc0w3U0FQWVlWLXFtcVRJalR1UlZOcDBBMVJteXg3N096anpoRWlYRWRwaE1TWTY2TXBMSmpZS2JRbEl0RE5tOVNQcWU2SmNBZmxvR1BMaU41c01vdlpXN3lfeFJHSlJ6ODVNcVNYMi1OUGdTOTg4UHpsV2hEWVVwcWlRRUZ2OWVaOHJ5b3FNWlN3YmNyOW1qT1VsbFE?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/givosiran/
 2026-05-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[El Digital de Albacete](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDRlblpqTTlRWDFZXzZGX3RpRkFkUXN0cWIwQngzQ250Vnl2c0pBV0l1ejJPR3B4aW92S0NBU2pULXBJQURVTE9oSi1BTVc2X21EVzdMdXRnakxZY3R5X0RaSi1fcjRoakNyeGU2SkE4OTBfNHE1NmxRNzBYWTNiMHVCcTRIdFdwUXJpblRmYjg3X1VDZGc0NTQwcXRVNlR4X1dNd0RGcmExSjVraG1GNkltX2I4Y0t4VVc0U19zM1k?oc=5)
-
----
-
-### [Neue Hoffnung bei Hepatitis B: γδ T-Zellen als Schlüssel zur funktionellen Heilung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbjluSm1Td2E4YkxFOVFsMjdqTmR1YVpRRmFqZm1Oc0ZZcFFMLXp6S3NvSXdMek14LWFwMUExelMwRFF4WVRuTkhUWXdLLUsxOFZ3R0VrckhINUY1Z0dmZnlWcXlLVEo4U2xKTldhTFRnZUI1NjRycVR5bGRSTmNuUUVJODcyV2MzX1hDc2gwNWV6VkE0M3lhd1RhRExxMnlEd0VJWk9YRV9BTWFaNkpXQ3U3a0twVzhkOFRObVV6c2ZmUDEzWkNpSnItazJXdEJXM2NCTmFPbzRSTHhtZXRiSU0zMDhOUQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbjluSm1Td2E4YkxFOVFsMjdqTmR1YVpRRmFqZm1Oc0ZZcFFMLXp6S3NvSXdMek14LWFwMUExelMwRFF4WVRuTkhUWXdLLUsxOFZ3R0VrckhINUY1Z0dmZnlWcXlLVEo4U2xKTldhTFRnZUI1NjRycVR5bGRSTmNuUUVJODcyV2MzX1hDc2gwNWV6VkE0M3lhd1RhRExxMnlEd0VJWk9YRV9BTWFaNkpXQ3U3a0twVzhkOFRObVV6c2ZmUDEzWkNpSnItazJXdEJXM2NCTmFPbzRSTHhtZXRiSU0zMDhOUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lopinavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Neue Hoffnung bei Hepatitis B: γδ T-Zellen als Schlüssel zur funktionellen Heilung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbjluSm1Td2E4YkxFOVFsMjdqTmR1YVpRRmFqZm1Oc0ZZcFFMLXp6S3NvSXdMek14LWFwMUExelMwRFF4WVRuTkhUWXdLLUsxOFZ3R0VrckhINUY1Z0dmZnlWcXlLVEo4U2xKTldhTFRnZUI1NjRycVR5bGRSTmNuUUVJODcyV2MzX1hDc2gwNWV6VkE0M3lhd1RhRExxMnlEd0VJWk9YRV9BTWFaNkpXQ3U3a0twVzhkOFRObVV6c2ZmUDEzWkNpSnItazJXdEJXM2NCTmFPbzRSTHhtZXRiSU0zMDhOUQ?oc=5)
-
-2026-05-22 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbjluSm1Td2E4YkxFOVFsMjdqTmR1YVpRRmFqZm1Oc0ZZcFFMLXp6S3NvSXdMek14LWFwMUExelMwRFF4WVRuTkhUWXdLLUsxOFZ3R0VrckhINUY1Z0dmZnlWcXlLVEo4U2xKTldhTFRnZUI1NjRycVR5bGRSTmNuUUVJODcyV2MzX1hDc2gwNWV6VkE0M3lhd1RhRExxMnlEd0VJWk9YRV9BTWFaNkpXQ3U3a0twVzhkOFRObVV6c2ZmUDEzWkNpSnItazJXdEJXM2NCTmFPbzRSTHhtZXRiSU0zMDhOUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

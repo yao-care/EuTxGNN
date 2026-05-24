@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Mal di testa, incontro con i neurologi per capire come curarlo - La Provincia di Cremona](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRzQnM4bjh6NmZfWWtWdnNpTXlvUUtKdUE4OFRtbENYVGF3V2NyaWtMM1lucjZWUm5wQ3RkZUlsVUlKY0lnTVpWN09kcFZwaVBCVmYzR2REVUtyNmtibnV0MU03OFhnUUF2cjUweFgxVzNhNHQxTDdfa2JCaHFUNHZvd2x4M0VwOVFfeVVvaEU3WmdIWk5hTWN4b0h4NXFkbXB2a3Q2blNnZzNLTmNjdWRkZ2JDUQ?oc=5)
+### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
 
-2026-05-23 <span class="news-indication-tag">emicrania</span>
+2026-05-24 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRzQnM4bjh6NmZfWWtWdnNpTXlvUUtKdUE4OFRtbENYVGF3V2NyaWtMM1lucjZWUm5wQ3RkZUlsVUlKY0lnTVpWN09kcFZwaVBCVmYzR2REVUtyNmtibnV0MU03OFhnUUF2cjUweFgxVzNhNHQxTDdfa2JCaHFUNHZvd2x4M0VwOVFfeVVvaEU3WmdIWk5hTWN4b0h4NXFkbXB2a3Q2blNnZzNLTmNjdWRkZ2JDUQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+
+---
+
+### [Wenn Schmerzmittel die Migräne nur noch schlimmer machen](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
+
+2026-05-24 <span class="news-indication-tag">Migräne</span>
+
+來源：[Beobachter](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
 
 ---
 

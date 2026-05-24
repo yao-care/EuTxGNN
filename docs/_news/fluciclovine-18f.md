@@ -54,11 +54,11 @@ permalink: /news/fluciclovine-18f/
 
 ## 相關新聞（1 則）
 
-### [Mal di testa, incontro con i neurologi per capire come curarlo - La Provincia di Cremona](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRzQnM4bjh6NmZfWWtWdnNpTXlvUUtKdUE4OFRtbENYVGF3V2NyaWtMM1lucjZWUm5wQ3RkZUlsVUlKY0lnTVpWN09kcFZwaVBCVmYzR2REVUtyNmtibnV0MU03OFhnUUF2cjUweFgxVzNhNHQxTDdfa2JCaHFUNHZvd2x4M0VwOVFfeVVvaEU3WmdIWk5hTWN4b0h4NXFkbXB2a3Q2blNnZzNLTmNjdWRkZ2JDUQ?oc=5)
+### [Wenn Schmerzmittel die Migräne nur noch schlimmer machen](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
 
-2026-05-23 <span class="news-indication-tag">emicrania</span>
+2026-05-24 <span class="news-indication-tag">Migräne</span>
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRzQnM4bjh6NmZfWWtWdnNpTXlvUUtKdUE4OFRtbENYVGF3V2NyaWtMM1lucjZWUm5wQ3RkZUlsVUlKY0lnTVpWN09kcFZwaVBCVmYzR2REVUtyNmtibnV0MU03OFhnUUF2cjUweFgxVzNhNHQxTDdfa2JCaHFUNHZvd2x4M0VwOVFfeVVvaEU3WmdIWk5hTWN4b0h4NXFkbXB2a3Q2blNnZzNLTmNjdWRkZ2JDUQ?oc=5)
+來源：[Beobachter](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
 
 ---
 

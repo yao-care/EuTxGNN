@@ -14,7 +14,7 @@ permalink: /news/glucarpidase/
 ---
 
 <p class="key-answer" data-question="Glucarpidase 有什麼相關新聞？">
-<strong>Glucarpidase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glucarpidase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/glucarpidase/
 <p><a href="{{ '/drugs/glucarpidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Diabetes-Kongress in Berlin: Lebensstil schlägt Gene bei Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
+
+2026-05-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
+
+---
 
 ### [Nachtlicht und Gesundheit: So steigt das Risiko für Herz und Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
 

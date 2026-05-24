@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+
+2026-05-24 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+
+---
 
 ### [Bluthochdruck im Fokus: Konservierungsstoffe, Vorhofflimmern und neue Therapiestrategien - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWZOOVFrNUkxYmpyN0dzZnFfdGJxLWRoa2FnbWxlc0w3U0FQWVlWLXFtcVRJalR1UlZOcDBBMVJteXg3N096anpoRWlYRWRwaE1TWTY2TXBMSmpZS2JRbEl0RE5tOVNQcWU2SmNBZmxvR1BMaU41c01vdlpXN3lfeFJHSlJ6ODVNcVNYMi1OUGdTOTg4UHpsV2hEWVVwcWlRRUZ2OWVaOHJ5b3FNWlN3YmNyOW1qT1VsbFE?oc=5)
 
@@ -70,6 +78,14 @@ permalink: /news/isavuconazole/
 
 ---
 
+### [Simple Fiber Supplement Cuts Knee Arthritis Pain in Just 6 Weeks, Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHdVWjhoUW9tblhHZGwwTE5xX1FqNjNlMkV1bTFiZFpFTU92LXl2WVpkU0NWY3NsUFlGbUpsVm1NVUhzWGR1NW55T04tWEU3RHB4c3dBblhWeFBicDZoREI0eHE5amNjVG5qa2FXMllOV1VibjRmZ0lXS050bG95bHRuYUJBQmlSU3VEbS1mRTBTVEJlakN6ZGpGd3Bjbzh1WGRQNQ?oc=5)
+
+2026-05-24 <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHdVWjhoUW9tblhHZGwwTE5xX1FqNjNlMkV1bTFiZFpFTU92LXl2WVpkU0NWY3NsUFlGbUpsVm1NVUhzWGR1NW55T04tWEU3RHB4c3dBblhWeFBicDZoREI0eHE5amNjVG5qa2FXMllOV1VibjRmZ0lXS050bG95bHRuYUJBQmlSU3VEbS1mRTBTVEJlakN6ZGpGd3Bjbzh1WGRQNQ?oc=5)
+
+---
+
 ### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
 2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
@@ -78,11 +94,11 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Mal di testa, incontro con i neurologi per capire come curarlo - La Provincia di Cremona](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRzQnM4bjh6NmZfWWtWdnNpTXlvUUtKdUE4OFRtbENYVGF3V2NyaWtMM1lucjZWUm5wQ3RkZUlsVUlKY0lnTVpWN09kcFZwaVBCVmYzR2REVUtyNmtibnV0MU03OFhnUUF2cjUweFgxVzNhNHQxTDdfa2JCaHFUNHZvd2x4M0VwOVFfeVVvaEU3WmdIWk5hTWN4b0h4NXFkbXB2a3Q2blNnZzNLTmNjdWRkZ2JDUQ?oc=5)
+### [Wenn Schmerzmittel die Migräne nur noch schlimmer machen](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
 
-2026-05-23 <span class="news-indication-tag">emicrania</span>
+2026-05-24 <span class="news-indication-tag">Migräne</span>
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRzQnM4bjh6NmZfWWtWdnNpTXlvUUtKdUE4OFRtbENYVGF3V2NyaWtMM1lucjZWUm5wQ3RkZUlsVUlKY0lnTVpWN09kcFZwaVBCVmYzR2REVUtyNmtibnV0MU03OFhnUUF2cjUweFgxVzNhNHQxTDdfa2JCaHFUNHZvd2x4M0VwOVFfeVVvaEU3WmdIWk5hTWN4b0h4NXFkbXB2a3Q2blNnZzNLTmNjdWRkZ2JDUQ?oc=5)
+來源：[Beobachter](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
 
 ---
 

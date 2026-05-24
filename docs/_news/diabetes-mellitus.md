@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。1 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>1 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Diabetes-Kongress in Berlin: Lebensstil schlägt Gene bei Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
+
+2026-05-24
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
+
+---
 
 ### [Nachtlicht und Gesundheit: So steigt das Risiko für Herz und Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
 

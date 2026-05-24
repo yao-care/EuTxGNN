@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "emicrania（migraine） 相關新聞"
+title: "Migräne（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "Migräne（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# emicrania（migraine） 相關新聞
+# Migräne（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
+<strong>Migräne（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -79,11 +79,11 @@ permalink: /news/migraine/
 
 ## 相關新聞（1 則）
 
-### [Mal di testa, incontro con i neurologi per capire come curarlo - La Provincia di Cremona](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRzQnM4bjh6NmZfWWtWdnNpTXlvUUtKdUE4OFRtbENYVGF3V2NyaWtMM1lucjZWUm5wQ3RkZUlsVUlKY0lnTVpWN09kcFZwaVBCVmYzR2REVUtyNmtibnV0MU03OFhnUUF2cjUweFgxVzNhNHQxTDdfa2JCaHFUNHZvd2x4M0VwOVFfeVVvaEU3WmdIWk5hTWN4b0h4NXFkbXB2a3Q2blNnZzNLTmNjdWRkZ2JDUQ?oc=5)
+### [Wenn Schmerzmittel die Migräne nur noch schlimmer machen](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
 
-2026-05-23
+2026-05-24
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTRzQnM4bjh6NmZfWWtWdnNpTXlvUUtKdUE4OFRtbENYVGF3V2NyaWtMM1lucjZWUm5wQ3RkZUlsVUlKY0lnTVpWN09kcFZwaVBCVmYzR2REVUtyNmtibnV0MU03OFhnUUF2cjUweFgxVzNhNHQxTDdfa2JCaHFUNHZvd2x4M0VwOVFfeVVvaEU3WmdIWk5hTWN4b0h4NXFkbXB2a3Q2blNnZzNLTmNjdWRkZ2JDUQ?oc=5)
+來源：[Beobachter](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
 
 ---
 

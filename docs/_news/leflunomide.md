@@ -14,7 +14,7 @@ permalink: /news/leflunomide/
 ---
 
 <p class="key-answer" data-question="Leflunomide 有什麼相關新聞？">
-<strong>Leflunomide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Leflunomide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/leflunomide/
 <p><a href="{{ '/drugs/leflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
+
+### [GLP-1-Medikamente: Neue Studie zeigt Schutz vor Krebs-Metastasen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcW5iZUtMcUl2WHFIVHBLVWZUNl9UQVNUd2FmSFhIUzFMdG9TRWJINmtoYnFyd3pycjZSUHZMMHIyYmFuR0dyaTdOc3lfRzVGRXdFNGJJcFV4LVlOV0UxbE9vRjJvYl9TalFyZm9EU1RFa1p1UDJ1UkNlZlRiN2RfdkVZOGNya0lyWXd0SlNIbmxLVGRpWFU2dU5HSFFmdEtZTklXSUE4VElnLVRZUDJPX1Vn?oc=5)
+
+2026-05-24 <span class="news-indication-tag">tumor</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcW5iZUtMcUl2WHFIVHBLVWZUNl9UQVNUd2FmSFhIUzFMdG9TRWJINmtoYnFyd3pycjZSUHZMMHIyYmFuR0dyaTdOc3lfRzVGRXdFNGJJcFV4LVlOV0UxbE9vRjJvYl9TalFyZm9EU1RFa1p1UDJ1UkNlZlRiN2RfdkVZOGNya0lyWXd0SlNIbmxLVGRpWFU2dU5HSFFmdEtZTklXSUE4VElnLVRZUDJPX1Vn?oc=5)
+
+---
+
+### [Woman Says Doctors Ignored “Canker Sore” Until Tongue Cancer Nearly Took Her Life - Bored Panda](https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWF2bmhzTjVwdjVKRl85SWJKQ2Nid3V0Ynp4TnhVV0RLOUxxaTF4YU9kd3BmX0N0eTI3cnNlTXFGNDBFSUJjMmdrb3lybnUtQ0UyLTRNX0daYWJRajZGOWFGejNXc1ZacllNMktYRXhWaDBVaEl1aGJ3X2VnaFM0dlZCRnREVzBFWUxDM0RudkJ0U3MxTUJKZmJ5VjZ3Q2JWYzU5ejVTSnBOR1hsb2c4?oc=5)
+
+2026-05-24 <span class="news-indication-tag">cancer</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWF2bmhzTjVwdjVKRl85SWJKQ2Nid3V0Ynp4TnhVV0RLOUxxaTF4YU9kd3BmX0N0eTI3cnNlTXFGNDBFSUJjMmdrb3lybnUtQ0UyLTRNX0daYWJRajZGOWFGejNXc1ZacllNMktYRXhWaDBVaEl1aGJ3X2VnaFM0dlZCRnREVzBFWUxDM0RudkJ0U3MxTUJKZmJ5VjZ3Q2JWYzU5ejVTSnBOR1hsb2c4?oc=5)
+
+---
+
+### [Giornata mondiale della tiroide, l'incidenza delle patologie raddoppiata in 20 anni: i servizi dell’Ulss 9 Scaligera](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUVJVV0lhb1FJem9BZmdEMWpSXzZST1hndjdHTml4MExDc2Q4b1J2M0lCcVJDOTgyV1VxZ2JUVzdTclhEMXc1T2dkNGJJOTFKbTVJUEV5S3ltOTNUbm12M1VrZFpKY2p4RVZ1RXo3VmJWcEVyYTlTeENMNTl6V2ZMdDVkQkpTM3FxVEtYeVBCNG9odmt0YXJERExWWHZhVFFpZ2p6d2JBS3pNUkVhMmtieEY0R1hYcWNSek8wQnRObUVVd285TW54djlyb1dQYXFIMnhJSUlTbGdSbkthNXZYQ2o4Z3RjaHVUUXN1Y19rQUh5ZEV0end0WDhtcWs4OEZjX2RQUy1R0gGLAkFVX3lxTFA2U1NwQmkyN2pvZFRlOHZyOFBHeGFoWjBQa2RJQ0N6VXRkVWRQazFMQVl0cG5OR3hTcGhyOHdPVjZmQWNqVFJhTGtlNG1TX1NxcmJxaDFNWmhWVE4zM0w5SHVZa25lZ3dPdldzZzdnNjBpbjNFTnllbTJPV3hKWUZQT2lDYUREYVpNQjNSQnU5UktTc3dzQmRxU3Jjckp6NkJiNFgzTVNiYXdKTExfRDBoLUhpSy1PYnZSUk5iMGxsTmlqd21uNzJHaHVPS1puUXBmNDQxbmxSSml3QUFpaUJXQlNiZ1Jobzl5VUJ6dzIyZ182UjhqdS1MZVdaNmN4QUZ1S05QS0VCY2JaVQ?oc=5)
+
+2026-05-24 <span class="news-indication-tag">tumor</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUVJVV0lhb1FJem9BZmdEMWpSXzZST1hndjdHTml4MExDc2Q4b1J2M0lCcVJDOTgyV1VxZ2JUVzdTclhEMXc1T2dkNGJJOTFKbTVJUEV5S3ltOTNUbm12M1VrZFpKY2p4RVZ1RXo3VmJWcEVyYTlTeENMNTl6V2ZMdDVkQkpTM3FxVEtYeVBCNG9odmt0YXJERExWWHZhVFFpZ2p6d2JBS3pNUkVhMmtieEY0R1hYcWNSek8wQnRObUVVd285TW54djlyb1dQYXFIMnhJSUlTbGdSbkthNXZYQ2o4Z3RjaHVUUXN1Y19rQUh5ZEV0end0WDhtcWs4OEZjX2RQUy1R0gGLAkFVX3lxTFA2U1NwQmkyN2pvZFRlOHZyOFBHeGFoWjBQa2RJQ0N6VXRkVWRQazFMQVl0cG5OR3hTcGhyOHdPVjZmQWNqVFJhTGtlNG1TX1NxcmJxaDFNWmhWVE4zM0w5SHVZa25lZ3dPdldzZzdnNjBpbjNFTnllbTJPV3hKWUZQT2lDYUREYVpNQjNSQnU5UktTc3dzQmRxU3Jjckp6NkJiNFgzTVNiYXdKTExfRDBoLUhpSy1PYnZSUk5iMGxsTmlqd21uNzJHaHVPS1puUXBmNDQxbmxSSml3QUFpaUJXQlNiZ1Jobzl5VUJ6dzIyZ182UjhqdS1MZVdaNmN4QUZ1S05QS0VCY2JaVQ?oc=5)
+
+---
 
 ### [Cancer du rectum : voilà les signes qui ne trompent pas](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wakhoc3VfQnZSWVVURF85SlozQlY2SkVVSGFaVURwemlidFBvMjZrelp5WXJaWHJKOXY5QzdWTzlROUwySFJ1ZWlRUVRCNjlOSlNiSHFVdU1fRkNmcTh5MXF3TDNJWldhekdYOFJiMjNhQzBmbjNINlRZWQ?oc=5)
 
@@ -70,11 +94,19 @@ permalink: /news/leflunomide/
 
 ---
 
-### [GLP-1-Agonisten: Neue Ära für Nieren und Krebsprävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUFZVGtmWFE3N3gwRGRXQnE4NjVBQVVCN1VaTmdQU29QQVFESmR1ZHBER1g0aEZwaS1JRmVxMjFjS0pjY2cxRjg0MlVCQUZVbjVfMlNwR1FlZ3ItVFZBQ3RtYW95ek1lR0hsb3JsQ2FSYVFLcGtnem1oZk9rSUhqUzk3TGhWM2hpNUU5SGVhY1E4OXg5Q1VNS0xac0N1dmFuYTZEajJ5WV9ESWM?oc=5)
+### [Simple Fiber Supplement Cuts Knee Arthritis Pain in Just 6 Weeks, Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHdVWjhoUW9tblhHZGwwTE5xX1FqNjNlMkV1bTFiZFpFTU92LXl2WVpkU0NWY3NsUFlGbUpsVm1NVUhzWGR1NW55T04tWEU3RHB4c3dBblhWeFBicDZoREI0eHE5amNjVG5qa2FXMllOV1VibjRmZ0lXS050bG95bHRuYUJBQmlSU3VEbS1mRTBTVEJlakN6ZGpGd3Bjbzh1WGRQNQ?oc=5)
 
-2026-05-24 <span class="news-indication-tag">tumor</span>
+2026-05-24 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUFZVGtmWFE3N3gwRGRXQnE4NjVBQVVCN1VaTmdQU29QQVFESmR1ZHBER1g0aEZwaS1JRmVxMjFjS0pjY2cxRjg0MlVCQUZVbjVfMlNwR1FlZ3ItVFZBQ3RtYW95ek1lR0hsb3JsQ2FSYVFLcGtnem1oZk9rSUhqUzk3TGhWM2hpNUU5SGVhY1E4OXg5Q1VNS0xac0N1dmFuYTZEajJ5WV9ESWM?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHdVWjhoUW9tblhHZGwwTE5xX1FqNjNlMkV1bTFiZFpFTU92LXl2WVpkU0NWY3NsUFlGbUpsVm1NVUhzWGR1NW55T04tWEU3RHB4c3dBblhWeFBicDZoREI0eHE5amNjVG5qa2FXMllOV1VibjRmZ0lXS050bG95bHRuYUJBQmlSU3VEbS1mRTBTVEJlakN6ZGpGd3Bjbzh1WGRQNQ?oc=5)
+
+---
+
+### [Frog poison detox ‘claims first British victim’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
 
 ---
 
@@ -83,14 +115,6 @@ permalink: /news/leflunomide/
 2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
-
----
-
-### [Les vêtements anti-UV: indispensables pour se protéger du soleil ou gadgets?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVF4dW9FXzB1Z0l2QzVQM3NhN25RSG1MLUdzeHdlSXVUMjd5UkY0dml6Uk4yVHptQzdPbm5fM21oX1Y3R1NEaHR5SWhkdFdNMVlZYXZrUlVhVVpiNm5ZX1hmMjRlOVdLejZTRUVsaWdJajl1b1JPVzVwMGgyekJWM3RsdHdxT3VGR1NvT214M1pVejREWFc4aHNreGZkR3ZVR3AtMWtscS05Ml9qbzRqcE4yRGdtUFBrOXFKazB5NXB1WlE0emxjN3VXb2tjNTVt?oc=5)
-
-2026-05-24 <span class="news-indication-tag">cancer</span>
-
-來源：[RMC](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVF4dW9FXzB1Z0l2QzVQM3NhN25RSG1MLUdzeHdlSXVUMjd5UkY0dml6Uk4yVHptQzdPbm5fM21oX1Y3R1NEaHR5SWhkdFdNMVlZYXZrUlVhVVpiNm5ZX1hmMjRlOVdLejZTRUVsaWdJajl1b1JPVzVwMGgyekJWM3RsdHdxT3VGR1NvT214M1pVejREWFc4aHNreGZkR3ZVR3AtMWtscS05Ml9qbzRqcE4yRGdtUFBrOXFKazB5NXB1WlE0emxjN3VXb2tjNTVt?oc=5)
 
 ---
 
@@ -118,6 +142,14 @@ permalink: /news/leflunomide/
 
 ---
 
+### [Jusqu’à 35°C ce week-end: les conseils pour se protéger du soleil dès ces premières fortes chaleurs](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
+
+2026-05-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BFM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
+
+---
+
 ### [Cancer des testicules : des symptômes qui ne trompent pas](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHdZZGpva01jUlB1SlJLaUhrT3dUeEkzbGlreHZMVWkxY09jSjJ0ME1Oc215VFZXbVNOTlpzZ3hnS3BkdUVyeUFSLUdkOE9sSjV2ZktJUkNwanlNMFRhbVJCMHJKUTNacDlTSW9DbGdWZFowUk1QdFowWXRKcnFrczVn?oc=5)
 
 2026-05-23 <span class="news-indication-tag">cancer</span>
@@ -134,27 +166,11 @@ permalink: /news/leflunomide/
 
 ---
 
-### [Il sole infiamma la Maremma: «Così vi proteggete dal melanoma»](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU8zR1liMDhOWHdsQTNEM3lDWms4TnIwXzBQNkRqWUwteUJuMDBvYWRNMkxoajlFWlpMZDRKMEllbHU0cUd5Q2d4bTNuaGZHM09QaURwMjJIcFZIeXBHWEFtaUhVMWxPQzdrYnRDRHd6bXlsMTBpZjA5ZXJ1OGEtc2FtbUc0RzgxLS1UZE5RMklQRHFPUFNHaEdR?oc=5)
+### [Melanoma, ecco quando bisogna fare una visita dermatologica. L’importanza dell’autoesame della pelle - La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
 
 2026-05-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[MaremmaOggi](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU8zR1liMDhOWHdsQTNEM3lDWms4TnIwXzBQNkRqWUwteUJuMDBvYWRNMkxoajlFWlpMZDRKMEllbHU0cUd5Q2d4bTNuaGZHM09QaURwMjJIcFZIeXBHWEFtaUhVMWxPQzdrYnRDRHd6bXlsMTBpZjA5ZXJ1OGEtc2FtbUc0RzgxLS1UZE5RMklQRHFPUFNHaEdR?oc=5)
-
----
-
-### [Une première en Bourgogne et l'une des premières au niveau national : une chirurgie du cancer du sein innovante](https://news.google.com/rss/articles/CBMihgJBVV95cUxPaC1tM001cEFROW9lM0ZVQ1JnYU0tN0c2LTg0Zko3RVczb1BWMXZOTWM5VzZzcHpVdURDZ0FZSzIyVXo4TXhuQkJLWmdrTjRuQnlVQ3JKR2h2NFFPZ3NvTnZycEhqa2wwRTRON0tYUGc3Y1Q4UndkLXljNG95blZOUlBRamJVTF96V0w0TFRrVF9LVUgxaDZ6djAyZUpPNFZWeExIbldkU0hYNFJnQnZOalFab3JPMmo2dnZGcVVYNkZFMzNXWnB4N3JjejBRZzVGSTNqSkFUbUF4NjA5RjFsRXBFUlByMGtFVFNrZEpaNEVOZ3FLcnQwOTBDQUltdGNoTENJN3Bn?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMihgJBVV95cUxPaC1tM001cEFROW9lM0ZVQ1JnYU0tN0c2LTg0Zko3RVczb1BWMXZOTWM5VzZzcHpVdURDZ0FZSzIyVXo4TXhuQkJLWmdrTjRuQnlVQ3JKR2h2NFFPZ3NvTnZycEhqa2wwRTRON0tYUGc3Y1Q4UndkLXljNG95blZOUlBRamJVTF96V0w0TFRrVF9LVUgxaDZ6djAyZUpPNFZWeExIbldkU0hYNFJnQnZOalFab3JPMmo2dnZGcVVYNkZFMzNXWnB4N3JjejBRZzVGSTNqSkFUbUF4NjA5RjFsRXBFUlByMGtFVFNrZEpaNEVOZ3FLcnQwOTBDQUltdGNoTENJN3Bn?oc=5)
-
----
-
-### [What is immunotherapy and how does it treat cancer and other conditions? - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
-
-2026-05-22 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3N0eXpKNnJvNlZIY0tvYXRTM0Z1bDlJRjVFdGVEU3lERVF2NHNVM2R6OFlLN2dEZ0RNYkZaZ2pHanJXYktMbGFRalh4VUVLTk9LZXRLcDBFc2ZlSWZNUHNSVEF3bGdqUEQyWVBuTnRtdTVKYTBpR2xtQlpYQVRIMk1jUTd2dzVrMFprS05kNEs4dXZWZnZCbUlJYXE0RUYtNUlzRndsR1VzcWYxcEZNTWQwNmdZeG1GYkl5b1Zsdw?oc=5)
+來源：[La Nazione](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdFRpemxJZVpZSmRfcUVxQ0plUmxMQkJLUllZZ1pZQXRqTXVkLU42bkFuWEtrNzQtTHVOaGFkckZQaUttcEx4YWIyTXAtdnp1cGNsbERjZ2NyYjdObnc?oc=5)
 
 ---
 

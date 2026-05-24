@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。13 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>13 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,53 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
 
-### [Gli incendi ai centri per il trattamento di ebola nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVBud2FvR0dTem01dnZGRWo2NDVBWHU2My1ic3NJdXV4S2s1aVZGZVVqRVppeGhocDVmTjhCdzkwdE5EbGJ6blpLOGdGRjJVSTBVTnk2cFAtdi04N1l5NUVXdGZPbnVBd01zVFVHRlNwcTVJS3ZiaXBIQXpUREpVX29pZDB0NDVsN3c?oc=5)
+### [Gehirngesundheit: So lässt sich Demenz-Risiko halbieren - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0REVFBSVHJCczdVWW1oTDQxNzNUakxDYVRhSFcxWjN1eF9pSmNMYUg4VWtWV05WYktXQ3p0QmRUZEFJZzVYODdNTFJTaUFIUWZnbUlBbnFXeE9HLWdJbEQtZzVza3c3b0pSREJoa0xKb05Sc0QtVGkyX2F5YnhUemM2S2M4M09vVmZDNTlZS0NCcDVvRkdDRmJtbFVzSzBpVFhlMWtXTQ?oc=5)
 
 2026-05-24
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVBud2FvR0dTem01dnZGRWo2NDVBWHU2My1ic3NJdXV4S2s1aVZGZVVqRVppeGhocDVmTjhCdzkwdE5EbGJ6blpLOGdGRjJVSTBVTnk2cFAtdi04N1l5NUVXdGZPbnVBd01zVFVHRlNwcTVJS3ZiaXBIQXpUREpVX29pZDB0NDVsN3c?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0REVFBSVHJCczdVWW1oTDQxNzNUakxDYVRhSFcxWjN1eF9pSmNMYUg4VWtWV05WYktXQ3p0QmRUZEFJZzVYODdNTFJTaUFIUWZnbUlBbnFXeE9HLWdJbEQtZzVza3c3b0pSREJoa0xKb05Sc0QtVGkyX2F5YnhUemM2S2M4M09vVmZDNTlZS0NCcDVvRkdDRmJtbFVzSzBpVFhlMWtXTQ?oc=5)
+
+---
+
+### [Bangladesch leidet unter Masern-Epidemie bei Kindern - BRF Nachrichten](https://news.google.com/rss/articles/CBMiTkFVX3lxTE85OVliWENqZVV1V3V5ZWM3N2Yzbk44WVIzZEFKbWMxdEpFU2szZTdSbWJIZnFwS2hQRVhrbEdsMzNrUG11TmYxSndiRkxBUQ?oc=5)
+
+2026-05-24
+
+來源：[BRF Nachrichten](https://news.google.com/rss/articles/CBMiTkFVX3lxTE85OVliWENqZVV1V3V5ZWM3N2Yzbk44WVIzZEFKbWMxdEpFU2szZTdSbWJIZnFwS2hQRVhrbEdsMzNrUG11TmYxSndiRkxBUQ?oc=5)
+
+---
+
+### [Columbia-Studie: Diese Schlafdauer lässt dich und deine Organe am langsamsten altern](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzlHMktzVENQeTh4NjBqWFVSWElseHdITDNucGFoOUZpbTZ1V2lDMlkxS1pmMzBpYXhMdHQ1TFBNengxWllkT3E2TjgzSWl3dGJnOHc1R0tLRnZNN2lCOEw2R1EtLWlrMC1wN2VseUotckFteFZFUXFTcUxpRUVmRWtndXQ3NVFWRXlHSnZOOE8?oc=5)
+
+2026-05-24
+
+來源：[t3n](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzlHMktzVENQeTh4NjBqWFVSWElseHdITDNucGFoOUZpbTZ1V2lDMlkxS1pmMzBpYXhMdHQ1TFBNengxWllkT3E2TjgzSWl3dGJnOHc1R0tLRnZNN2lCOEw2R1EtLWlrMC1wN2VseUotckFteFZFUXFTcUxpRUVmRWtndXQ3NVFWRXlHSnZOOE8?oc=5)
+
+---
+
+### [Ebola, oltre 200 morti in Congo. Msf: “Priorità dare cure essenziali” - Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWt5ZXhuSDFfWTk0NUNXaWROTF9VUi11UU5QeEYtNmY0YkNsSHY1b3pPSGNRdTFBU1JQdUxCd2YwYUx5VnBPd284TVItQjRydDYxQ1Z6ckZDcmJfYTlXSThUSlNxRWg2UzNjeTdadzlNamNzTHdxSktEbjV4OWsyZEpZUmxrb19RWm5r?oc=5)
+
+2026-05-24
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWt5ZXhuSDFfWTk0NUNXaWROTF9VUi11UU5QeEYtNmY0YkNsSHY1b3pPSGNRdTFBU1JQdUxCd2YwYUx5VnBPd284TVItQjRydDYxQ1Z6ckZDcmJfYTlXSThUSlNxRWg2UzNjeTdadzlNamNzTHdxSktEbjV4OWsyZEpZUmxrb19RWm5r?oc=5)
+
+---
+
+### [Il virus del sospetto - il Giornale](https://news.google.com/rss/articles/CBMidkFVX3lxTE9NRElvd0I3eHlOWkw0cnlJVW9YNDhUa1dXUkhIelRWTDdteElHc0FPUERDREl2U3Q2ekJPQXlkdGtUUWZ2ODRvcXpObmhMZU55TTE4cTZXeC1VN2c1MEZETUFvVEdEZ05pRGV5Uko2ajI2R0tpU0E?oc=5)
+
+2026-05-24
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMidkFVX3lxTE9NRElvd0I3eHlOWkw0cnlJVW9YNDhUa1dXUkhIelRWTDdteElHc0FPUERDREl2U3Q2ekJPQXlkdGtUUWZ2ODRvcXpObmhMZU55TTE4cTZXeC1VN2c1MEZETUFvVEdEZ05pRGV5Uko2ajI2R0tpU0E?oc=5)
+
+---
+
+### [La historia de Renata: tiene epilepsia y pudo controlar sus ataques dejando de comer un tipo de alimento](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXpoNjlDWFVhZUNVdHI5NkJIS2tSOTljeDNYZ3JqcEFWQkVNOUk3THgwN1QzZTZ6VlVNeUxaam9DeW9HRkFpR1BsWUtoXzdKaENNZ1EtWVFsajdYZkxxRFVUMWVOMHVHcDJSazlBX0RwWUJaR0VlUm51U3g2RHRYTFRwdGxyeUF6a2trQUw1dk9CYmFiYkZOWThXWDBEYl9kaGhJd29ZU3ZRVzlUTGI4UHF5UWxrVl9jNVM2Zy1Sems3aEJP?oc=5)
+
+2026-05-24
+
+來源：[Clarin.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXpoNjlDWFVhZUNVdHI5NkJIS2tSOTljeDNYZ3JqcEFWQkVNOUk3THgwN1QzZTZ6VlVNeUxaam9DeW9HRkFpR1BsWUtoXzdKaENNZ1EtWVFsajdYZkxxRFVUMWVOMHVHcDJSazlBX0RwWUJaR0VlUm51U3g2RHRYTFRwdGxyeUF6a2trQUw1dk9CYmFiYkZOWThXWDBEYl9kaGhJd29ZU3ZRVzlUTGI4UHF5UWxrVl9jNVM2Zy1Sems3aEJP?oc=5)
 
 ---
 
@@ -88,22 +128,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Mehr als 500 Kinder sterben bei Masernausbruch in Bangladesch](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3hYUzdMd1Fsbm4tdFVFNDB3QVJpT3JuOVVWQ0tmNzdBQzJBTE40QzZiR0pHdUx5SEhKOVlsWno4c255eXlCYi1tSUpXS2lHQjEya2RyNVByUzM5MnBCbHBvRDJ0RW1yeVZWN2haUEUxcV92Z1VwdG03b0hCYVJuNk9WVEhEcGhJQUtXMDZqY0hDMTcwZXd0cEVYaVJuVGp1M0tR?oc=5)
-
-2026-05-23
-
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3hYUzdMd1Fsbm4tdFVFNDB3QVJpT3JuOVVWQ0tmNzdBQzJBTE40QzZiR0pHdUx5SEhKOVlsWno4c255eXlCYi1tSUpXS2lHQjEya2RyNVByUzM5MnBCbHBvRDJ0RW1yeVZWN2haUEUxcV92Z1VwdG03b0hCYVJuNk9WVEhEcGhJQUtXMDZqY0hDMTcwZXd0cEVYaVJuVGp1M0tR?oc=5)
-
----
-
-### [Ebola outbreak: strain ‘recently jumped from humans to animals’ - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0FIcmNqRHk1MS1pZUhzbjAyZU5qSWRudVhqRGpHRGlzN1ZBTUFDWkRYa1V0c29heDBneWFUVllKR2J4WmZDdzFmRXpYQ2Q4Y1VlQkxaZHlmdEFEbXZYRDFFcHlYcTlTNF9rQWNZZGVaWVJtNUtma2xkMnZ0Mm96RDJqbWNvbGM0eUdnaGFHcmx0SDBpWS02VlBjVUtnbWZIelMxNHdTV21QU2hM?oc=5)
-
-2026-05-23
-
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0FIcmNqRHk1MS1pZUhzbjAyZU5qSWRudVhqRGpHRGlzN1ZBTUFDWkRYa1V0c29heDBneWFUVllKR2J4WmZDdzFmRXpYQ2Q4Y1VlQkxaZHlmdEFEbXZYRDFFcHlYcTlTNF9rQWNZZGVaWVJtNUtma2xkMnZ0Mm96RDJqbWNvbGM0eUdnaGFHcmx0SDBpWS02VlBjVUtnbWZIelMxNHdTV21QU2hM?oc=5)
-
----
-
 ### [Mum loses 'perfect child' just 15 days after first symptom and issues plea - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
 
 2026-05-23
@@ -128,6 +152,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Jusqu’à 35°C ce week-end: les conseils pour se protéger du soleil dès ces premières fortes chaleurs](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
+
+2026-05-23
+
+來源：[BFM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
+
+---
+
 ### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
 
 2026-05-23
@@ -141,22 +173,6 @@ permalink: /news/multiple-sclerosis/
 2026-05-23
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV2VWVFRVNF9lMWhiRFRqNHU3T0VVNExwbjFPMHJ5NlplR0NWdjFPZF9rVkF6UHJDdVVDRXZHdkhPejU3WDlRLUdRSVRrUDhLX09QcmxicTM2Tmhx?oc=5)
-
----
-
-### [Hantavirus, Oms: 'Positivo altro membro equipaggio. 12 casi e 3 morti' - Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
-
-2026-05-22
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VWkxMaGF3MjVtdm9RRDV0S09wcm94cHJWd28wZWgxTUQ2WjgyR0dSYW5NTW54ZDhZSW9laE92VDR4S0VzMjBZb040U3c1QWs1OHkwakRjVHdySEZtbzRGT1V2RkdXWUU?oc=5)
-
----
-
-### [Adieu les 10 000 pas par jour : l'OMS révèle la distance de marche réellement adaptée à chaque âge - La Provence](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmxtWEtuZ01DODcwVnZ3M1BlUG9lOFZEU2czYkVhYzcxVGJTQlpYd3NpNnlvN0NWVzV3SmVTT3M0aWpHUHFySGphVmVESU1HMC1lRHFQOXFKd2YyS1RYZ0FGa0ZORkcxUFBRcGZvS0U4d1NDZ0VqbmhZZFEzOFVpM3paNm5BNm5GYzJNNE5UWGw1Z0FsRmRXb09RX1FGQlpmdGVGaWJZMHdoVzktd1o3eDZXWC05V19KaVp3LXd3RHVjb0EyMW80NUJzdTh4TVUyQ2JMRVNQOUZZMUhVTlg0SkRZNWk2eFMy?oc=5)
-
-2026-05-22
-
-來源：[La Provence](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmxtWEtuZ01DODcwVnZ3M1BlUG9lOFZEU2czYkVhYzcxVGJTQlpYd3NpNnlvN0NWVzV3SmVTT3M0aWpHUHFySGphVmVESU1HMC1lRHFQOXFKd2YyS1RYZ0FGa0ZORkcxUFBRcGZvS0U4d1NDZ0VqbmhZZFEzOFVpM3paNm5BNm5GYzJNNE5UWGw1Z0FsRmRXb09RX1FGQlpmdGVGaWJZMHdoVzktd1o3eDZXWC05V19KaVp3LXd3RHVjb0EyMW80NUJzdTh4TVUyQ2JMRVNQOUZZMUhVTlg0SkRZNWk2eFMy?oc=5)
 
 ---
 
