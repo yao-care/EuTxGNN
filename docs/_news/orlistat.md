@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Chronische Entzündung: Mai-Studien zeigen Nervenschäden bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
-
-2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Vademecum.es](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
-
----
-
-### [Teenage schoolgirl, 14, left paralysed from the neck down after simply getting the flu - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
+### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
 
 2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
 
 ---
 

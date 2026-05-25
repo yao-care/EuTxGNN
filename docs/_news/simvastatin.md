@@ -54,11 +54,11 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（4 則）
 
-### [Teenage schoolgirl, 14, left paralysed from the neck down after simply getting the flu - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
+### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
 
 2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
 
 ---
 

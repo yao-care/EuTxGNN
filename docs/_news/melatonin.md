@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Chronische Entzündung: Mai-Studien zeigen Nervenschäden bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
 
 2026-05-25 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
-
----
-
-### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
-
-2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Vademecum.es](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
 
 ---
 

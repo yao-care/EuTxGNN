@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [A Single Dose of Psilocybin Could Ease Depression For Months, New Study Finds](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUc4ZVFFem9EdjJqcG9jdEdmeFQ2cW43OGNtanMzcXY0T1doNFIyWDhwSzJYZk50UWl0emg2RmpnQ3VsaWhCQkJTcUEzdFBPVWF3NWMzRktuLURzS2tsTlYwR1llcTVCdDI2X29sLVRpejRlZU1vek5DUzVVbHNFbHhhVThfelFQbmNpZXd0ZXAzOU1PQUk3cXduWk1qczRtVjluVS1UNGY?oc=5)
+
+2026-05-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUc4ZVFFem9EdjJqcG9jdEdmeFQ2cW43OGNtanMzcXY0T1doNFIyWDhwSzJYZk50UWl0emg2RmpnQ3VsaWhCQkJTcUEzdFBPVWF3NWMzRktuLURzS2tsTlYwR1llcTVCdDI2X29sLVRpejRlZU1vek5DUzVVbHNFbHhhVThfelFQbmNpZXd0ZXAzOU1PQUk3cXduWk1qczRtVjluVS1UNGY?oc=5)
+
+---
 
 ### [1,2 milliard de personnes en souffrance : 91 % des dépressions majeures ne sont pas traitées correctement dans le monde](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzlvd3R4MUE1bDM3SC1DQ0NKcEt6ZzFpeVdwV2szaHhBWU5nVWx4U0RUSGNKaGxMQThNbnhReWQwMUNNTml2NTdFQWlRazVPZ2tPdWdQMFIxNWUzTFQwdXpxcWFuRUpZMWdELWxEWERtMnhxd2s4Y3F5YUU3TGxqbC1jUDJSaGhOaWM2WUJROWhjaGFXN1pqU0F2Z3NSeVdaVlE3RHc1ZkRxcDJzR1EzanppZ3FsVUVBbXBZeG5mTEdXdUkyYXBIOWNFemFiUEFUTEJwTQ?oc=5)
 

@@ -54,11 +54,11 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（3 則）
 
-### [La BPCO en Algérie : ce « tueur silencieux » que les patients découvrent souvent trop tard](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5FOXdiZVJabmYyMG1zckFIVWlqR2dxOUFIbnR6S0p6NGVvOGFWWlJuUVJSRHR2bk1jOWRuUE1sVC1OcWtaUGhOMl8ydlNRUmdNZXdjWEJKMjRVaURHSFByNlJ6Z04tOXB2cFhwOHduRFJSeEJFNHQ0U29fWEwxbVVzTlVDSTBXWGplQjhoTE5jenZiU2REMWtKQ1dLWHBIUER6bEZ1RWNRUnVWLVp5NG5R?oc=5)
+### [Al Policlinico di Catania una nuova tecnica di proctocolectomia totale robotica - Giornale di Sicilia](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQV81aDFUdW5RU3BueFEzRS0tQ0xBSUZhZEd5R1VNaFdPbFMxVktpNWpGUVNUR3dTRFRkSlVUcG1pS2xlOHdFbzVjdmF2RlZMM1VSZ1ZpT2NJOVM0eE1Vc1lDMHA3M2pEX0FaakZmV2Zjb25Rbm0ydGNRVEI1c243U004MFU5WWlpZnU2TGt3Nk50b0hreHlPYldONFQ1ZmFtYzhuOUprOUF6aWdLY3BISW9hSmVPTENVTnhydzNDRjZxRktQZFY1YWZleFpCemhMLVhjaDhnZ0Z5bW8wZWR1Uk8waUtwOWRnR3lLejJwV1B3SHJBRkYycXdUQQ?oc=5)
 
-2026-05-24 <span class="news-indication-tag">BPCO</span>
+2026-05-25 <span class="news-indication-tag">malattia di Crohn</span>
 
-來源：[Algerie360](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5FOXdiZVJabmYyMG1zckFIVWlqR2dxOUFIbnR6S0p6NGVvOGFWWlJuUVJSRHR2bk1jOWRuUE1sVC1OcWtaUGhOMl8ydlNRUmdNZXdjWEJKMjRVaURHSFByNlJ6Z04tOXB2cFhwOHduRFJSeEJFNHQ0U29fWEwxbVVzTlVDSTBXWGplQjhoTE5jenZiU2REMWtKQ1dLWHBIUER6bEZ1RWNRUnVWLVp5NG5R?oc=5)
+來源：[Giornale di Sicilia](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQV81aDFUdW5RU3BueFEzRS0tQ0xBSUZhZEd5R1VNaFdPbFMxVktpNWpGUVNUR3dTRFRkSlVUcG1pS2xlOHdFbzVjdmF2RlZMM1VSZ1ZpT2NJOVM0eE1Vc1lDMHA3M2pEX0FaakZmV2Zjb25Rbm0ydGNRVEI1c243U004MFU5WWlpZnU2TGt3Nk50b0hreHlPYldONFQ1ZmFtYzhuOUprOUF6aWdLY3BISW9hSmVPTENVTnhydzNDRjZxRktQZFY1YWZleFpCemhMLVhjaDhnZ0Z5bW8wZWR1Uk8waUtwOWRnR3lLejJwV1B3SHJBRkYycXdUQQ?oc=5)
 
 ---
 

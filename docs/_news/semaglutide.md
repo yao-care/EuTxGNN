@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
-
-2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Vademecum.es](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
-
----
-
-### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+### [Diabeteskongress 2026: Lebensstil schlägt Gene um das 2,7-Fache - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOanc0c01KVE5fTDM3SXRlRXZ0R3A4RDhReXpmZzRkSWJVZ3hQLUdPU0pLX1NfMldiX0h5U1dMemlWbWlTR1ZESGtxdGhzS3VZeFhfUjV3YlZMaXVWOXNDR3ZNa0JEVVJaa1VVQTQ2eVZMRHoxYThqYkQ2Y3pBTzFpWkRtVUlINEhkMU9Wcm9MYXNWUTJmMndsaXFLbWhpNno0Nk91QjRacmFhU09acjQtNHpn?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOanc0c01KVE5fTDM3SXRlRXZ0R3A4RDhReXpmZzRkSWJVZ3hQLUdPU0pLX1NfMldiX0h5U1dMemlWbWlTR1ZESGtxdGhzS3VZeFhfUjV3YlZMaXVWOXNDR3ZNa0JEVVJaa1VVQTQ2eVZMRHoxYThqYkQ2Y3pBTzFpWkRtVUlINEhkMU9Wcm9MYXNWUTJmMndsaXFLbWhpNno0Nk91QjRacmFhU09acjQtNHpn?oc=5)
 
 ---
 
-### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
+### [Kind mit ADHS & Diabetes: Ärztin warnt Eltern vor riskanter Doppelfalle - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### ['I lost three stone on weight loss jabs - but then I put it all back on' - The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9HNjZHQjgtcEI5b1REUG5xTXFPR20yR1pkS1hZMjhKbDYzSDdNZzNIbFdTS1dZY1BmaHB3OFFmQ3M3bWZxdnpWOXAtMWs3U0VoZDNfQk5EX1JQcmhmbzM1TlhrVVVOVEJqZ0RERVA3ZW5CeXRzMDdZTEd30gF_QVVfeXFMTzBKZldCd2xFZ21IOEt1VkwyVTNGY2VWNS1tQzJnMXVNTTlGMVJQWHhBRXktWmhMWkw5S0psTm5ELUY4WGVVcDVwSlhyNnh5VGlPVXAyOWdPR1U0eDYxUEZSZHduUmZNWFdLR091MjFISTZVLVF1ekhTNG5vWWhBYw?oc=5)
+### [Truth about weight loss jabs as experts reveal why pounds are piled on when users stop - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTJ4bnRQV3FtNlh5S2xQZ1pnanhSZVVDV3hNbWRrNHVOZEpOX2Fxd3V1eWtGTnhaSjI0M1Z1S05mMzVfbmQ2UlVuSTZzQkpiRkp2aEZ4TndodW5ieGpITF8yaVdqdEhRMG1KSW5XRF9LYlk0T3Y0ZHVYRFdXcnIybU1yRdIBiAFBVV95cUxNQnpBSkEyY0dPbXllZmRaNU83WEZxVk1UdG1MV2hfVE5OcUY2bEF5RTd1VFB6WmNlLXFLVnAzRVhSWDJ2NndDa05RUU9NWmd0bHdnUzFIa3JTdy05a0RWcUtkTTZqRWJoU3FfWGQzZnhCdkVfamtaRDFHcDZKUElpajI4aGMzcWJk?oc=5)
 
 2026-05-24 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9HNjZHQjgtcEI5b1REUG5xTXFPR20yR1pkS1hZMjhKbDYzSDdNZzNIbFdTS1dZY1BmaHB3OFFmQ3M3bWZxdnpWOXAtMWs3U0VoZDNfQk5EX1JQcmhmbzM1TlhrVVVOVEJqZ0RERVA3ZW5CeXRzMDdZTEd30gF_QVVfeXFMTzBKZldCd2xFZ21IOEt1VkwyVTNGY2VWNS1tQzJnMXVNTTlGMVJQWHhBRXktWmhMWkw5S0psTm5ELUY4WGVVcDVwSlhyNnh5VGlPVXAyOWdPR1U0eDYxUEZSZHduUmZNWFdLR091MjFISTZVLVF1ekhTNG5vWWhBYw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTJ4bnRQV3FtNlh5S2xQZ1pnanhSZVVDV3hNbWRrNHVOZEpOX2Fxd3V1eWtGTnhaSjI0M1Z1S05mMzVfbmQ2UlVuSTZzQkpiRkp2aEZ4TndodW5ieGpITF8yaVdqdEhRMG1KSW5XRF9LYlk0T3Y0ZHVYRFdXcnIybU1yRdIBiAFBVV95cUxNQnpBSkEyY0dPbXllZmRaNU83WEZxVk1UdG1MV2hfVE5OcUY2bEF5RTd1VFB6WmNlLXFLVnAzRVhSWDJ2NndDa05RUU9NWmd0bHdnUzFIa3JTdy05a0RWcUtkTTZqRWJoU3FfWGQzZnhCdkVfamtaRDFHcDZKUElpajI4aGMzcWJk?oc=5)
 
 ---
 

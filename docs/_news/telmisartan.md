@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Ipertensione, mangiare pomodori ogni giorno riduce il rischio del 36%: lo studio - il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
+
+2026-05-25 <span class="news-indication-tag">ipertensione</span>
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
+
+---
 
 ### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Teenage schoolgirl, 14, left paralysed from the neck down after simply getting the flu - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
+### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
 
 2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor（cancer） 相關新聞"
+title: "carcinoma（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。15 則新聞、229 個相關藥物。"
+description: "carcinoma（cancer） 的相關健康新聞報導。20 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
-# tumor（cancer） 相關新聞
+# carcinoma（cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>15 則</strong>相關新聞報導，229 個相關藥物。
+<p class="key-answer" data-question="carcinoma（cancer） 有什麼相關新聞？">
+<strong>carcinoma（cancer）</strong> 目前有 <strong>20 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「tumor」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「carcinoma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -257,7 +257,63 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（20 則）
+
+### ["El carcinoma escamoso cutáneo de alto riesgo produce la mayor parte de eventos negativos"](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWk1ISUtuQXR6cXV5TERSdVAzOGdIU3RVeFpSSHNNeE9QdXdvM3JnQWZYMUdJUlpkdnlKTjM4MlRPOWlrT1lGWXloYjFOdTh6MTZ3XzZtNkh0X0tvZjNqV0ExalNRZlFEdFo5XzZrcTgyaS16WGM5c0d1N2lFU3c0dmZOc1NNbFhhMU9BTEVmUFFEd0FJZVU4V2JabzlWcnphekh4SXBZRUE2VlZnSDcteEhGSHZTVUduTzJmcUdkYWZlQnBWS1JZeE5XMzZRTy1iSGtvNGhMekszb1JiMDk1Z00zMklEd3cwZlE?oc=5)
+
+2026-05-25
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWk1ISUtuQXR6cXV5TERSdVAzOGdIU3RVeFpSSHNNeE9QdXdvM3JnQWZYMUdJUlpkdnlKTjM4MlRPOWlrT1lGWXloYjFOdTh6MTZ3XzZtNkh0X0tvZjNqV0ExalNRZlFEdFo5XzZrcTgyaS16WGM5c0d1N2lFU3c0dmZOc1NNbFhhMU9BTEVmUFFEd0FJZVU4V2JabzlWcnphekh4SXBZRUE2VlZnSDcteEhGSHZTVUduTzJmcUdkYWZlQnBWS1JZeE5XMzZRTy1iSGtvNGhMekszb1JiMDk1Z00zMklEd3cwZlE?oc=5)
+
+---
+
+### [Studie zeigt: Wann Sie an Gewicht zunehmen, entscheidet über das Krebsrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0s4RVBQNmRQdDF6SGdzRHpEdDFZYUw5aV9SZ3oxc250RUxGM1kzblktcXh6WWNkb1Fobmhtd1RGM3NKcWFwZk54VUE0MWstOF9FeTRmMndxUURrbkY5ZzZxQzBTVEl1RmU3TE9ZdHNlYk5acEsycVVFNUk3bXhxT3djTEU5dldxZENadHJhWFhWNEFSWkY0TGFzUy1jQy1ETFUyb2h6Mnl5NFFaSzVIdnNLX2l5LUxQSUhpTXdzMDR6UjNOSVNRRzliLU1hNGg1dnExWFdB?oc=5)
+
+2026-05-25
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0s4RVBQNmRQdDF6SGdzRHpEdDFZYUw5aV9SZ3oxc250RUxGM1kzblktcXh6WWNkb1Fobmhtd1RGM3NKcWFwZk54VUE0MWstOF9FeTRmMndxUURrbkY5ZzZxQzBTVEl1RmU3TE9ZdHNlYk5acEsycVVFNUk3bXhxT3djTEU5dldxZENadHJhWFhWNEFSWkY0TGFzUy1jQy1ETFUyb2h6Mnl5NFFaSzVIdnNLX2l5LUxQSUhpTXdzMDR6UjNOSVNRRzliLU1hNGg1dnExWFdB?oc=5)
+
+---
+
+### [Even for nonsmokers, a persistent cough may be a sign of lung cancer - The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
+
+2026-05-25
+
+來源：[The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
+
+---
+
+### [Krebs und Herz 2026: 25–30% höheres Risiko bei CKM-Syndrom - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JpcmJsNHk0VWg4cEpGZ0RFTzhpeFo1VGkyY3d2dTNZMnBYblRtWC03UmhXYVliYVNMZXZjODZjQzBMbExhdTh5UjZDWXBMcnJ3UzJFclE4ZzFDbEhkMHdOX3dTdUtoZFpWaFZkRGhWY0xZeFVDc3BrM3dKemh2UXNnb2plTE90TXN4bnR1VU14ZjNUd3BwU2FJWHZ5MVo5SlBUM0xJNHFQdGkzMldPemFCVUY?oc=5)
+
+2026-05-25
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JpcmJsNHk0VWg4cEpGZ0RFTzhpeFo1VGkyY3d2dTNZMnBYblRtWC03UmhXYVliYVNMZXZjODZjQzBMbExhdTh5UjZDWXBMcnJ3UzJFclE4ZzFDbEhkMHdOX3dTdUtoZFpWaFZkRGhWY0xZeFVDc3BrM3dKemh2UXNnb2plTE90TXN4bnR1VU14ZjNUd3BwU2FJWHZ5MVo5SlBUM0xJNHFQdGkzMldPemFCVUY?oc=5)
+
+---
+
+### [Coups de soleil et cancer de la peau : ce fruit pourrait bien être un remède miracle selon cette étude](https://news.google.com/rss/articles/CBMijwJBVV95cUxNVHZHeThDTjFtb3A1eGpVdWs2ODJmbWpRRUFxd1k1bXN6RlZuamJiTXh5TmJtTWkyMGpSMmVEMDZ5aVhVY2dsbFZ0eHBvVlFrZDdpc1BhRlZzMVpGaVlmQjd2ZjgwREZnTVd4Yl9OXzlXaWQ5SUFoVGtuNDVHNTFUT2JxS19rTm1lTzdnOXpYVzktS09MSnpJd1d6Q3JfNUQxM2t1ZFZaRnVvbjAtQ3NVYjY0V051NUFnR0M5dWwtNFlKaG0xSGpKQnJTaC1PSEVheU1wT053SWFkQU1ScFd0eHk1b2ZsNjVTTmxjcXU4MUxlYTFwSm05QlVlSmh0UTR6LTVkX055eGtGVHFCOTRn?oc=5)
+
+2026-05-25
+
+來源：[parismatch.be](https://news.google.com/rss/articles/CBMijwJBVV95cUxNVHZHeThDTjFtb3A1eGpVdWs2ODJmbWpRRUFxd1k1bXN6RlZuamJiTXh5TmJtTWkyMGpSMmVEMDZ5aVhVY2dsbFZ0eHBvVlFrZDdpc1BhRlZzMVpGaVlmQjd2ZjgwREZnTVd4Yl9OXzlXaWQ5SUFoVGtuNDVHNTFUT2JxS19rTm1lTzdnOXpYVzktS09MSnpJd1d6Q3JfNUQxM2t1ZFZaRnVvbjAtQ3NVYjY0V051NUFnR0M5dWwtNFlKaG0xSGpKQnJTaC1PSEVheU1wT053SWFkQU1ScFd0eHk1b2ZsNjVTTmxjcXU4MUxlYTFwSm05QlVlSmh0UTR6LTVkX055eGtGVHFCOTRn?oc=5)
+
+---
+
+### [Storico intervento all'Ieo: rimosso raro tumore alle vie aeree - Sky TG24](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlcwcDRpRUcwOWxNWElEZ2IzdzJSY3B2QXBNSGlycTNIXzlVN3RuNXRETm1fc3VrVF9tOU5CckpRWFZ1RUpSYmtDREwtbjVLRzhQMzd6V041WEFPeEN5WkxTZ012RUFWUm5GTWRORUF2MW5QZ0Mxcy1oUl9hc09IMXpOZ2dTcEZLSFUtMk5XSUNHNE9fZmZUcjVRS1JscWZ6QUY5MGJiX1lFekctblJWSTVubw?oc=5)
+
+2026-05-25
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlcwcDRpRUcwOWxNWElEZ2IzdzJSY3B2QXBNSGlycTNIXzlVN3RuNXRETm1fc3VrVF9tOU5CckpRWFZ1RUpSYmtDREwtbjVLRzhQMzd6V041WEFPeEN5WkxTZ012RUFWUm5GTWRORUF2MW5QZ0Mxcy1oUl9hc09IMXpOZ2dTcEZLSFUtMk5XSUNHNE9fZmZUcjVRS1JscWZ6QUY5MGJiX1lFekctblJWSTVubw?oc=5)
+
+---
+
+### [Trop de personnes font cette erreur qui peut être mortelle : elle augmente de 60 % le risque de mélanome](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
+
+2026-05-25
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
+
+---
 
 ### [Cancer du rein : ce sont les symptômes les plus courants](https://news.google.com/rss/articles/CBMifEFVX3lxTE9lV0hCZWI3S0NDMEpRbTVUdHlNUzd6SGtyQlZWbVFmMXVmZW1DWkZERU5ONU5jcmgxMUhRRWpldVVJQ0wtSk1lQ1pLMXVHdFhIMGgwNWZmVWdTaFh2SlJkWUVMZFNtenZuNTBzb1ZQOER2RURFbWh4M2ljMDA?oc=5)
 
@@ -267,11 +323,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Ieo, paziente affetto da tumore rarissimo (e considerato incurabile) salvato con un’operazione mai tentata - Il Giorno](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5V19Yb29tWmlqUzhkV2FXRlZiSzUtcHliblZlMWlmaWhZTjJiM0JfejhkbVlKZHpRcWtERkUyelNnNEsyZUZuRzZ1MXQ3d0F1OEw0V1VKRDFuU2ZmTVJJZ1BvYUJKZ0N5UDJGeHVzeDVQZHFTVEhtVEZQYmNhM3M?oc=5)
+### [Tumori ginecologici: robot, Ai e interventi chirurgici in 3d – Sassari fa scuola - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNXU5aEIzTnZXQUlWY3VDN0hISjZRSUxUR2J1Qm0tQ1ZydC1yczc0a09ST1VkWlZBbEpQVDg5MDdONDJiNUdvTWhSd2s2VGZfdERMUFVlZHE1b2RiLTQ4WkZnYXBKOEhJdEJiWW1lV0tfc3dTbTc1MjJIRFNsX09FeDlybzNqdnBTLVVqTFBtQl9rRWxTbl9SNmFuS2VSNm1taEM3WkVpNU1FbFFHRnh2X2ttOV9oRzBUeTRUem8wNWVCLWozZ19hUC11aW5FR041ZE9UenF3a191VmM?oc=5)
 
 2026-05-25
 
-來源：[Il Giorno](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5V19Yb29tWmlqUzhkV2FXRlZiSzUtcHliblZlMWlmaWhZTjJiM0JfejhkbVlKZHpRcWtERkUyelNnNEsyZUZuRzZ1MXQ3d0F1OEw0V1VKRDFuU2ZmTVJJZ1BvYUJKZ0N5UDJGeHVzeDVQZHFTVEhtVEZQYmNhM3M?oc=5)
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNXU5aEIzTnZXQUlWY3VDN0hISjZRSUxUR2J1Qm0tQ1ZydC1yczc0a09ST1VkWlZBbEpQVDg5MDdONDJiNUdvTWhSd2s2VGZfdERMUFVlZHE1b2RiLTQ4WkZnYXBKOEhJdEJiWW1lV0tfc3dTbTc1MjJIRFNsX09FeDlybzNqdnBTLVVqTFBtQl9rRWxTbl9SNmFuS2VSNm1taEM3WkVpNU1FbFFHRnh2X2ttOV9oRzBUeTRUem8wNWVCLWozZ19hUC11aW5FR041ZE9UenF3a191VmM?oc=5)
 
 ---
 
@@ -288,14 +344,6 @@ permalink: /news/cancer/
 2026-05-25
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxQTTJZdG96T0ROOVd3WjdxTHFtZF9MclNfbWhNSm9nVlE2akkzcGZ6LVFGU1hYeS1WQTNKajBiWWNxUy0yRldRYjZCMVVUd2gtQndlbDRsazF6QlJFTDRGeFpqYmhjeXZBbGNPQlpoaFV2R1FpLUU4MmZqRGJmZUtYeXNWWFlVWjhXa0tkby1lYVY2LW5qaTZPanUwaXFOaUpkd19OWS1aYThqN29uVUZrWUowZWZHX083YW1mX25uZHNRWUU0a0g5akM4MWxIbUdYWXJSOEY1SjdOS1FqSFhvc2ZEZzBlV2VPTnpHeDktRl9XNmpMTDhNUTV5NWsybkNJQlHSAYoCQVVfeXFMTkg1MXplMGtXRWl1NHZNZjN4WmxtTnF5dHpGS3NyakxLcEJXbGRLVXdnYy1sODEyLV9SbHZZSjVIbGhqcTctVGotNlB6clUwTVBBSUQ3NnZ2ZWdEeU9NZjB6S1hZc0s5NEdDQ29lOXllSUhzZThCTGlIMG1tWWppZ2Q4a0FKbF85QW1nN282Z2VERXNNTnh2LXVsY2dZbUh1RS1hdnVZdHFKUHc4LXhNSGcxeGNyRE82Q0hVdzBoZm9rdGJuQUptY0F6M29oTTRTZE1YYURnUzdmak9haW15T2NzcUIzRm5hQ3VZbU00QXNmaml5eVVBa3pCdXBaSkhnVk9UbVlBaUN2VFE?oc=5)
-
----
-
-### [NHS lung cancer scans in car parks detect 10,000 cases - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVRlQkdaQUpuc2hyWFNuaEJNYTVzYzlCWkRjZUdxajEyQ21tUDJYSC1YRjVZdVlyTGVfcFFEV0tiLTVYY0d5UmoxdFdvNnpzbUlGYXd3bFB2S2dzUkVtcFcyeDlHRjV2enVFOXkybEdFX0dDQzB6eXZSeS1zMG9KQzRiNFBoY2xrakR3?oc=5)
-
-2026-05-25
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVRlQkdaQUpuc2hyWFNuaEJNYTVzYzlCWkRjZUdxajEyQ21tUDJYSC1YRjVZdVlyTGVfcFFEV0tiLTVYY0d5UmoxdFdvNnpzbUlGYXd3bFB2S2dzUkVtcFcyeDlHRjV2enVFOXkybEdFX0dDQzB6eXZSeS1zMG9KQzRiNFBoY2xrakR3?oc=5)
 
 ---
 
@@ -320,14 +368,6 @@ permalink: /news/cancer/
 2026-05-24
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
----
-
-### [Loire. Affaibli par deux cancers et atteint de neuropathie, il devra attendre février 2027 pour connaître son diagnostic - Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
-
-2026-05-24
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
 
 ---
 
@@ -371,11 +411,11 @@ permalink: /news/cancer/
 
 ---
 
-### [“It felt like my world had ended” – girl dies just 15 days after brain tumour found - South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
+### [Ernährung beeinflusst Risiko für Kopf-Hals-Krebs - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVAwRGxWVzFEOUpCYmo0VGFYcGozc1cwR25TV2tkUUZVOUFEZU9Kd2xxZVJSZnV5aDY2dk1vb2djVzJwZF9pOFhhaWUxdFFVblNVazZmYkNWT0lBZzYtN1czM2lUeGhpTDhZUDVDeHpEb2FiV3cySnphMlBkdUlTYTMyNllMYUZ4LTdmczZsMFJGdzNBUjl0Vk1xM1YySkNYdGI3bWZMRXpXQ3pOSzZsMEg0MEw3MXdQVnFmWEFXVQ?oc=5)
 
 2026-05-24
 
-來源：[South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
+來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVAwRGxWVzFEOUpCYmo0VGFYcGozc1cwR25TV2tkUUZVOUFEZU9Kd2xxZVJSZnV5aDY2dk1vb2djVzJwZF9pOFhhaWUxdFFVblNVazZmYkNWT0lBZzYtN1czM2lUeGhpTDhZUDVDeHpEb2FiV3cySnphMlBkdUlTYTMyNllMYUZ4LTdmczZsMFJGdzNBUjl0Vk1xM1YySkNYdGI3bWZMRXpXQ3pOSzZsMEg0MEw3MXdQVnFmWEFXVQ?oc=5)
 
 ---
 

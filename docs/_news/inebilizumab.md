@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inebilizumab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,79 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（23 則）
+
+### ["El carcinoma escamoso cutáneo de alto riesgo produce la mayor parte de eventos negativos"](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWk1ISUtuQXR6cXV5TERSdVAzOGdIU3RVeFpSSHNNeE9QdXdvM3JnQWZYMUdJUlpkdnlKTjM4MlRPOWlrT1lGWXloYjFOdTh6MTZ3XzZtNkh0X0tvZjNqV0ExalNRZlFEdFo5XzZrcTgyaS16WGM5c0d1N2lFU3c0dmZOc1NNbFhhMU9BTEVmUFFEd0FJZVU4V2JabzlWcnphekh4SXBZRUE2VlZnSDcteEhGSHZTVUduTzJmcUdkYWZlQnBWS1JZeE5XMzZRTy1iSGtvNGhMekszb1JiMDk1Z00zMklEd3cwZlE?oc=5)
+
+2026-05-25 <span class="news-indication-tag">carcinoma</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWk1ISUtuQXR6cXV5TERSdVAzOGdIU3RVeFpSSHNNeE9QdXdvM3JnQWZYMUdJUlpkdnlKTjM4MlRPOWlrT1lGWXloYjFOdTh6MTZ3XzZtNkh0X0tvZjNqV0ExalNRZlFEdFo5XzZrcTgyaS16WGM5c0d1N2lFU3c0dmZOc1NNbFhhMU9BTEVmUFFEd0FJZVU4V2JabzlWcnphekh4SXBZRUE2VlZnSDcteEhGSHZTVUduTzJmcUdkYWZlQnBWS1JZeE5XMzZRTy1iSGtvNGhMekszb1JiMDk1Z00zMklEd3cwZlE?oc=5)
+
+---
+
+### [Studie zeigt: Wann Sie an Gewicht zunehmen, entscheidet über das Krebsrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0s4RVBQNmRQdDF6SGdzRHpEdDFZYUw5aV9SZ3oxc250RUxGM1kzblktcXh6WWNkb1Fobmhtd1RGM3NKcWFwZk54VUE0MWstOF9FeTRmMndxUURrbkY5ZzZxQzBTVEl1RmU3TE9ZdHNlYk5acEsycVVFNUk3bXhxT3djTEU5dldxZENadHJhWFhWNEFSWkY0TGFzUy1jQy1ETFUyb2h6Mnl5NFFaSzVIdnNLX2l5LUxQSUhpTXdzMDR6UjNOSVNRRzliLU1hNGg1dnExWFdB?oc=5)
+
+2026-05-25 <span class="news-indication-tag">Krebs</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0s4RVBQNmRQdDF6SGdzRHpEdDFZYUw5aV9SZ3oxc250RUxGM1kzblktcXh6WWNkb1Fobmhtd1RGM3NKcWFwZk54VUE0MWstOF9FeTRmMndxUURrbkY5ZzZxQzBTVEl1RmU3TE9ZdHNlYk5acEsycVVFNUk3bXhxT3djTEU5dldxZENadHJhWFhWNEFSWkY0TGFzUy1jQy1ETFUyb2h6Mnl5NFFaSzVIdnNLX2l5LUxQSUhpTXdzMDR6UjNOSVNRRzliLU1hNGg1dnExWFdB?oc=5)
+
+---
+
+### [Diabeteskongress 2026: Lebensstil schlägt Gene um das 2,7-Fache - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOanc0c01KVE5fTDM3SXRlRXZ0R3A4RDhReXpmZzRkSWJVZ3hQLUdPU0pLX1NfMldiX0h5U1dMemlWbWlTR1ZESGtxdGhzS3VZeFhfUjV3YlZMaXVWOXNDR3ZNa0JEVVJaa1VVQTQ2eVZMRHoxYThqYkQ2Y3pBTzFpWkRtVUlINEhkMU9Wcm9MYXNWUTJmMndsaXFLbWhpNno0Nk91QjRacmFhU09acjQtNHpn?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOanc0c01KVE5fTDM3SXRlRXZ0R3A4RDhReXpmZzRkSWJVZ3hQLUdPU0pLX1NfMldiX0h5U1dMemlWbWlTR1ZESGtxdGhzS3VZeFhfUjV3YlZMaXVWOXNDR3ZNa0JEVVJaa1VVQTQ2eVZMRHoxYThqYkQ2Y3pBTzFpWkRtVUlINEhkMU9Wcm9MYXNWUTJmMndsaXFLbWhpNno0Nk91QjRacmFhU09acjQtNHpn?oc=5)
+
+---
+
+### [Even for nonsmokers, a persistent cough may be a sign of lung cancer - The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
+
+---
+
+### [Krebs und Herz 2026: 25–30% höheres Risiko bei CKM-Syndrom - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JpcmJsNHk0VWg4cEpGZ0RFTzhpeFo1VGkyY3d2dTNZMnBYblRtWC03UmhXYVliYVNMZXZjODZjQzBMbExhdTh5UjZDWXBMcnJ3UzJFclE4ZzFDbEhkMHdOX3dTdUtoZFpWaFZkRGhWY0xZeFVDc3BrM3dKemh2UXNnb2plTE90TXN4bnR1VU14ZjNUd3BwU2FJWHZ5MVo5SlBUM0xJNHFQdGkzMldPemFCVUY?oc=5)
+
+2026-05-25 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JpcmJsNHk0VWg4cEpGZ0RFTzhpeFo1VGkyY3d2dTNZMnBYblRtWC03UmhXYVliYVNMZXZjODZjQzBMbExhdTh5UjZDWXBMcnJ3UzJFclE4ZzFDbEhkMHdOX3dTdUtoZFpWaFZkRGhWY0xZeFVDc3BrM3dKemh2UXNnb2plTE90TXN4bnR1VU14ZjNUd3BwU2FJWHZ5MVo5SlBUM0xJNHFQdGkzMldPemFCVUY?oc=5)
+
+---
+
+### [Coups de soleil et cancer de la peau : ce fruit pourrait bien être un remède miracle selon cette étude](https://news.google.com/rss/articles/CBMijwJBVV95cUxNVHZHeThDTjFtb3A1eGpVdWs2ODJmbWpRRUFxd1k1bXN6RlZuamJiTXh5TmJtTWkyMGpSMmVEMDZ5aVhVY2dsbFZ0eHBvVlFrZDdpc1BhRlZzMVpGaVlmQjd2ZjgwREZnTVd4Yl9OXzlXaWQ5SUFoVGtuNDVHNTFUT2JxS19rTm1lTzdnOXpYVzktS09MSnpJd1d6Q3JfNUQxM2t1ZFZaRnVvbjAtQ3NVYjY0V051NUFnR0M5dWwtNFlKaG0xSGpKQnJTaC1PSEVheU1wT053SWFkQU1ScFd0eHk1b2ZsNjVTTmxjcXU4MUxlYTFwSm05QlVlSmh0UTR6LTVkX055eGtGVHFCOTRn?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span>
+
+來源：[parismatch.be](https://news.google.com/rss/articles/CBMijwJBVV95cUxNVHZHeThDTjFtb3A1eGpVdWs2ODJmbWpRRUFxd1k1bXN6RlZuamJiTXh5TmJtTWkyMGpSMmVEMDZ5aVhVY2dsbFZ0eHBvVlFrZDdpc1BhRlZzMVpGaVlmQjd2ZjgwREZnTVd4Yl9OXzlXaWQ5SUFoVGtuNDVHNTFUT2JxS19rTm1lTzdnOXpYVzktS09MSnpJd1d6Q3JfNUQxM2t1ZFZaRnVvbjAtQ3NVYjY0V051NUFnR0M5dWwtNFlKaG0xSGpKQnJTaC1PSEVheU1wT053SWFkQU1ScFd0eHk1b2ZsNjVTTmxjcXU4MUxlYTFwSm05QlVlSmh0UTR6LTVkX055eGtGVHFCOTRn?oc=5)
+
+---
+
+### [Storico intervento all'Ieo: rimosso raro tumore alle vie aeree - Sky TG24](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlcwcDRpRUcwOWxNWElEZ2IzdzJSY3B2QXBNSGlycTNIXzlVN3RuNXRETm1fc3VrVF9tOU5CckpRWFZ1RUpSYmtDREwtbjVLRzhQMzd6V041WEFPeEN5WkxTZ012RUFWUm5GTWRORUF2MW5QZ0Mxcy1oUl9hc09IMXpOZ2dTcEZLSFUtMk5XSUNHNE9fZmZUcjVRS1JscWZ6QUY5MGJiX1lFekctblJWSTVubw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlcwcDRpRUcwOWxNWElEZ2IzdzJSY3B2QXBNSGlycTNIXzlVN3RuNXRETm1fc3VrVF9tOU5CckpRWFZ1RUpSYmtDREwtbjVLRzhQMzd6V041WEFPeEN5WkxTZ012RUFWUm5GTWRORUF2MW5QZ0Mxcy1oUl9hc09IMXpOZ2dTcEZLSFUtMk5XSUNHNE9fZmZUcjVRS1JscWZ6QUY5MGJiX1lFekctblJWSTVubw?oc=5)
+
+---
+
+### [Kind mit ADHS & Diabetes: Ärztin warnt Eltern vor riskanter Doppelfalle - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
+
+---
+
+### [Trop de personnes font cette erreur qui peut être mortelle : elle augmente de 60 % le risque de mélanome](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
+
+---
 
 ### [Cancer du rein : ce sont les symptômes les plus courants](https://news.google.com/rss/articles/CBMifEFVX3lxTE9lV0hCZWI3S0NDMEpRbTVUdHlNUzd6SGtyQlZWbVFmMXVmZW1DWkZERU5ONU5jcmgxMUhRRWpldVVJQ0wtSk1lQ1pLMXVHdFhIMGgwNWZmVWdTaFh2SlJkWUVMZFNtenZuNTBzb1ZQOER2RURFbWh4M2ljMDA?oc=5)
 
@@ -62,27 +134,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+### [Tumori ginecologici: robot, Ai e interventi chirurgici in 3d – Sassari fa scuola - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNXU5aEIzTnZXQUlWY3VDN0hISjZRSUxUR2J1Qm0tQ1ZydC1yczc0a09ST1VkWlZBbEpQVDg5MDdONDJiNUdvTWhSd2s2VGZfdERMUFVlZHE1b2RiLTQ4WkZnYXBKOEhJdEJiWW1lV0tfc3dTbTc1MjJIRFNsX09FeDlybzNqdnBTLVVqTFBtQl9rRWxTbl9SNmFuS2VSNm1taEM3WkVpNU1FbFFHRnh2X2ttOV9oRzBUeTRUem8wNWVCLWozZ19hUC11aW5FR041ZE9UenF3a191VmM?oc=5)
 
-2026-05-25 <span class="news-indication-tag">diabetes</span>
+2026-05-25 <span class="news-indication-tag">tumor</span>
 
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
-
----
-
-### [Ieo, paziente affetto da tumore rarissimo (e considerato incurabile) salvato con un’operazione mai tentata - Il Giorno](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5V19Yb29tWmlqUzhkV2FXRlZiSzUtcHliblZlMWlmaWhZTjJiM0JfejhkbVlKZHpRcWtERkUyelNnNEsyZUZuRzZ1MXQ3d0F1OEw0V1VKRDFuU2ZmTVJJZ1BvYUJKZ0N5UDJGeHVzeDVQZHFTVEhtVEZQYmNhM3M?oc=5)
-
-2026-05-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Giorno](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5V19Yb29tWmlqUzhkV2FXRlZiSzUtcHliblZlMWlmaWhZTjJiM0JfejhkbVlKZHpRcWtERkUyelNnNEsyZUZuRzZ1MXQ3d0F1OEw0V1VKRDFuU2ZmTVJJZ1BvYUJKZ0N5UDJGeHVzeDVQZHFTVEhtVEZQYmNhM3M?oc=5)
-
----
-
-### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNXU5aEIzTnZXQUlWY3VDN0hISjZRSUxUR2J1Qm0tQ1ZydC1yczc0a09ST1VkWlZBbEpQVDg5MDdONDJiNUdvTWhSd2s2VGZfdERMUFVlZHE1b2RiLTQ4WkZnYXBKOEhJdEJiWW1lV0tfc3dTbTc1MjJIRFNsX09FeDlybzNqdnBTLVVqTFBtQl9rRWxTbl9SNmFuS2VSNm1taEM3WkVpNU1FbFFHRnh2X2ttOV9oRzBUeTRUem8wNWVCLWozZ19hUC11aW5FR041ZE9UenF3a191VmM?oc=5)
 
 ---
 
@@ -110,14 +166,6 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [NHS lung cancer scans in car parks detect 10,000 cases - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVRlQkdaQUpuc2hyWFNuaEJNYTVzYzlCWkRjZUdxajEyQ21tUDJYSC1YRjVZdVlyTGVfcFFEV0tiLTVYY0d5UmoxdFdvNnpzbUlGYXd3bFB2S2dzUkVtcFcyeDlHRjV2enVFOXkybEdFX0dDQzB6eXZSeS1zMG9KQzRiNFBoY2xrakR3?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVRlQkdaQUpuc2hyWFNuaEJNYTVzYzlCWkRjZUdxajEyQ21tUDJYSC1YRjVZdVlyTGVfcFFEV0tiLTVYY0d5UmoxdFdvNnpzbUlGYXd3bFB2S2dzUkVtcFcyeDlHRjV2enVFOXkybEdFX0dDQzB6eXZSeS1zMG9KQzRiNFBoY2xrakR3?oc=5)
-
----
-
 ### [L’admirable échappée à vélo de Raphaël Martin-Guiheneuc, diagnostiqué d’un cancer du cerveau incurable à 24 ans - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQzVTQWQ2NmhBWGNXd1BxZGhXWWZXOEJJbXpxaWtvc053dkRKVDMxTVdDc1NOOFNia3ZuMUZqbHdUVTZBeUlQMkM2T1pYZ3oyc0FONVJlRm1aX29GQW9RdU1FUjZ4QUFMWlUta2Y0bHBFOEZoYnJVRnlTelRyeHAtMXNUQlp2OUQtQlNRdDBMWGc3TlZzLXMxSktKZ0hlZERpUkhISDV0Y3FqVUwzOUVYQVdaTFVyTTZsZEFMaHU1NDduYk9zUldEVWxzSEdNc1Zobkh0QmtHYkxnRmtfWFJvdlg1RXlCd1hNQ0E?oc=5)
 
 2026-05-25 <span class="news-indication-tag">cancer</span>
@@ -139,14 +187,6 @@ permalink: /news/inebilizumab/
 2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
----
-
-### [Loire. Affaibli par deux cancers et atteint de neuropathie, il devra attendre février 2027 pour connaître son diagnostic - Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
-
-2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
 
 ---
 
@@ -190,11 +230,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [“It felt like my world had ended” – girl dies just 15 days after brain tumour found - South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
+### [Ernährung beeinflusst Risiko für Kopf-Hals-Krebs - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVAwRGxWVzFEOUpCYmo0VGFYcGozc1cwR25TV2tkUUZVOUFEZU9Kd2xxZVJSZnV5aDY2dk1vb2djVzJwZF9pOFhhaWUxdFFVblNVazZmYkNWT0lBZzYtN1czM2lUeGhpTDhZUDVDeHpEb2FiV3cySnphMlBkdUlTYTMyNllMYUZ4LTdmczZsMFJGdzNBUjl0Vk1xM1YySkNYdGI3bWZMRXpXQ3pOSzZsMEg0MEw3MXdQVnFmWEFXVQ?oc=5)
 
-2026-05-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-24 <span class="news-indication-tag">Krebs</span>
 
-來源：[South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
+來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVAwRGxWVzFEOUpCYmo0VGFYcGozc1cwR25TV2tkUUZVOUFEZU9Kd2xxZVJSZnV5aDY2dk1vb2djVzJwZF9pOFhhaWUxdFFVblNVazZmYkNWT0lBZzYtN1czM2lUeGhpTDhZUDVDeHpEb2FiV3cySnphMlBkdUlTYTMyNllMYUZ4LTdmczZsMFJGdzNBUjl0Vk1xM1YySkNYdGI3bWZMRXpXQ3pOSzZsMEg0MEw3MXdQVnFmWEFXVQ?oc=5)
 
 ---
 

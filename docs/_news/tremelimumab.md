@@ -54,19 +54,19 @@ permalink: /news/tremelimumab/
 
 ## 相關新聞（4 則）
 
-### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+### [Diabeteskongress 2026: Lebensstil schlägt Gene um das 2,7-Fache - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOanc0c01KVE5fTDM3SXRlRXZ0R3A4RDhReXpmZzRkSWJVZ3hQLUdPU0pLX1NfMldiX0h5U1dMemlWbWlTR1ZESGtxdGhzS3VZeFhfUjV3YlZMaXVWOXNDR3ZNa0JEVVJaa1VVQTQ2eVZMRHoxYThqYkQ2Y3pBTzFpWkRtVUlINEhkMU9Wcm9MYXNWUTJmMndsaXFLbWhpNno0Nk91QjRacmFhU09acjQtNHpn?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOanc0c01KVE5fTDM3SXRlRXZ0R3A4RDhReXpmZzRkSWJVZ3hQLUdPU0pLX1NfMldiX0h5U1dMemlWbWlTR1ZESGtxdGhzS3VZeFhfUjV3YlZMaXVWOXNDR3ZNa0JEVVJaa1VVQTQ2eVZMRHoxYThqYkQ2Y3pBTzFpWkRtVUlINEhkMU9Wcm9MYXNWUTJmMndsaXFLbWhpNno0Nk91QjRacmFhU09acjQtNHpn?oc=5)
 
 ---
 
-### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
+### [Kind mit ADHS & Diabetes: Ärztin warnt Eltern vor riskanter Doppelfalle - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Ipertensione, mangiare pomodori ogni giorno riduce il rischio del 36%: lo studio - il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
+
+2026-05-25 <span class="news-indication-tag">ipertensione</span>
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
+
+---
 
 ### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 

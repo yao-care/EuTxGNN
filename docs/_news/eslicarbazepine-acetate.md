@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ permalink: /news/eslicarbazepine-acetate/
 <li>reading seizures（96.9%）</li>
 <li>trigeminal nerve neoplasm（95.9%）</li>
 <li>partial motor epilepsy（95.3%）</li>
-<li class="indication-matched">epilepsy（92.4%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（92.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [La historia de Renata: tiene epilepsia y pudo controlar sus ataques dejando de comer un tipo de alimento](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXpoNjlDWFVhZUNVdHI5NkJIS2tSOTljeDNYZ3JqcEFWQkVNOUk3THgwN1QzZTZ6VlVNeUxaam9DeW9HRkFpR1BsWUtoXzdKaENNZ1EtWVFsajdYZkxxRFVUMWVOMHVHcDJSazlBX0RwWUJaR0VlUm51U3g2RHRYTFRwdGxyeUF6a2trQUw1dk9CYmFiYkZOWThXWDBEYl9kaGhJd29ZU3ZRVzlUTGI4UHF5UWxrVl9jNVM2Zy1Sems3aEJP?oc=5)
-
-2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsia</span>
-
-來源：[Clarin.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXpoNjlDWFVhZUNVdHI5NkJIS2tSOTljeDNYZ3JqcEFWQkVNOUk3THgwN1QzZTZ6VlVNeUxaam9DeW9HRkFpR1BsWUtoXzdKaENNZ1EtWVFsajdYZkxxRFVUMWVOMHVHcDJSazlBX0RwWUJaR0VlUm51U3g2RHRYTFRwdGxyeUF6a2trQUw1dk9CYmFiYkZOWThXWDBEYl9kaGhJd29ZU3ZRVzlUTGI4UHF5UWxrVl9jNVM2Zy1Sems3aEJP?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
