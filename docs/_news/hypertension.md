@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
-2026-05-24
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Große Studie zeigt, wie fatal alltägliche Lebensmittel wirklich werden können - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+---
 
 ### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
 
@@ -72,9 +80,17 @@ permalink: /news/vedolizumab/
 
 ### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
+
+---
+
+### [La BPCO en Algérie : ce « tueur silencieux » que les patients découvrent souvent trop tard](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5FOXdiZVJabmYyMG1zckFIVWlqR2dxOUFIbnR6S0p6NGVvOGFWWlJuUVJSRHR2bk1jOWRuUE1sVC1OcWtaUGhOMl8ydlNRUmdNZXdjWEJKMjRVaURHSFByNlJ6Z04tOXB2cFhwOHduRFJSeEJFNHQ0U29fWEwxbVVzTlVDSTBXWGplQjhoTE5jenZiU2REMWtKQ1dLWHBIUER6bEZ1RWNRUnVWLVp5NG5R?oc=5)
+
+2026-05-24 <span class="news-indication-tag">BPCO</span>
+
+來源：[Algerie360](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5FOXdiZVJabmYyMG1zckFIVWlqR2dxOUFIbnR6S0p6NGVvOGFWWlJuUVJSRHR2bk1jOWRuUE1sVC1OcWtaUGhOMl8ydlNRUmdNZXdjWEJKMjRVaURHSFByNlJ6Z04tOXB2cFhwOHduRFJSeEJFNHQ0U29fWEwxbVVzTlVDSTBXWGplQjhoTE5jenZiU2REMWtKQ1dLWHBIUER6bEZ1RWNRUnVWLVp5NG5R?oc=5)
 
 ---
 

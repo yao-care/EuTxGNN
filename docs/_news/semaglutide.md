@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
+
+2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Vademecum.es](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
+
+---
+
+### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+---
 
 ### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
 
@@ -70,9 +86,17 @@ permalink: /news/semaglutide/
 
 ---
 
+### [GLP-1 in der Onkologie: Hinweise auf weniger Metastasen – aber keine Freigabe für Krebsprävention - it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
+
+2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
+
+---
+
 ### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
@@ -83,14 +107,6 @@ permalink: /news/semaglutide/
 2026-05-24 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9HNjZHQjgtcEI5b1REUG5xTXFPR20yR1pkS1hZMjhKbDYzSDdNZzNIbFdTS1dZY1BmaHB3OFFmQ3M3bWZxdnpWOXAtMWs3U0VoZDNfQk5EX1JQcmhmbzM1TlhrVVVOVEJqZ0RERVA3ZW5CeXRzMDdZTEd30gF_QVVfeXFMTzBKZldCd2xFZ21IOEt1VkwyVTNGY2VWNS1tQzJnMXVNTTlGMVJQWHhBRXktWmhMWkw5S0psTm5ELUY4WGVVcDVwSlhyNnh5VGlPVXAyOWdPR1U0eDYxUEZSZHduUmZNWFdLR091MjFISTZVLVF1ekhTNG5vWWhBYw?oc=5)
-
----
-
-### [GLP-1-Medikamente: Lebensretter mit Tücken – Was Ozempic & Co. wirklich leisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
-
-2026-05-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
 
 ---
 

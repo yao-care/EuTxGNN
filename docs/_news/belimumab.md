@@ -14,7 +14,7 @@ permalink: /news/belimumab/
 ---
 
 <p class="key-answer" data-question="Belimumab 有什麼相關新聞？">
-<strong>Belimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Belimumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/belimumab/
 <p><a href="{{ '/drugs/belimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+---
 
 ### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
 
@@ -72,7 +80,7 @@ permalink: /news/belimumab/
 
 ### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 

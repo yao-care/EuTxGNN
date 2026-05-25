@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La BPCO en Algérie : ce « tueur silencieux » que les patients découvrent souvent trop tard](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5FOXdiZVJabmYyMG1zckFIVWlqR2dxOUFIbnR6S0p6NGVvOGFWWlJuUVJSRHR2bk1jOWRuUE1sVC1OcWtaUGhOMl8ydlNRUmdNZXdjWEJKMjRVaURHSFByNlJ6Z04tOXB2cFhwOHduRFJSeEJFNHQ0U29fWEwxbVVzTlVDSTBXWGplQjhoTE5jenZiU2REMWtKQ1dLWHBIUER6bEZ1RWNRUnVWLVp5NG5R?oc=5)
+
+2026-05-24 <span class="news-indication-tag">BPCO</span>
+
+來源：[Algerie360](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5FOXdiZVJabmYyMG1zckFIVWlqR2dxOUFIbnR6S0p6NGVvOGFWWlJuUVJSRHR2bk1jOWRuUE1sVC1OcWtaUGhOMl8ydlNRUmdNZXdjWEJKMjRVaURHSFByNlJ6Z04tOXB2cFhwOHduRFJSeEJFNHQ0U29fWEwxbVVzTlVDSTBXWGplQjhoTE5jenZiU2REMWtKQ1dLWHBIUER6bEZ1RWNRUnVWLVp5NG5R?oc=5)
+
+---
+
+### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+
+---
 
 
 <div class="disclaimer">

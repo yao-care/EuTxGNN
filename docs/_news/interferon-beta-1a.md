@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [El brote de ébola en RDC supera los 900 sospechosos según la OMS - Andalucía Información](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzlxd0NCODVLdzZHYTE5MkIxdHRkWDJoOHRRUGdmczRZMzQyYTgyTlpWLTRjX0dfQVdyMllZVGZ0QW5xOUp0TDhDbGNjTzVGUjRhenFhc1dZc2JpdVRCa0d2S3ZjTTRkc0xjMy1zYWJPSWMycXpFZEZDdEhGZ0hUYXMyRE03eW1PWnRxUkZsWlVJODJ0azZnR2czTVltei1JTUl1SkdVcFJKYktpcTc4SnVFbG9NU2NKQi03ctIBwgFBVV95cUxQdml2MjRDYk8walZ0SVI3UkxQeVlSVkdwTjMtSlRZNVBVeC1qazA3bVM4ckZ4anB4OHRLR0FYREZoM2VCWk9ZZTBPT0l1QWZRTHJjaWdnbUY5Q3ZWWjItdE56WnBTY2NPc2k3dUxiUnlfUDlLT2drSklyTXhpVXVCaHpDVGlIZGp4TDczOUVoSDVSbGh1amdWeGhUc1owSmx0a2xFdF9GaUFoNEJkSlhIR3I2dHQxTUFGR1NmaW5rRjZZdw?oc=5)
-
-2026-05-25 <span class="news-indication-tag">MS</span>
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzlxd0NCODVLdzZHYTE5MkIxdHRkWDJoOHRRUGdmczRZMzQyYTgyTlpWLTRjX0dfQVdyMllZVGZ0QW5xOUp0TDhDbGNjTzVGUjRhenFhc1dZc2JpdVRCa0d2S3ZjTTRkc0xjMy1zYWJPSWMycXpFZEZDdEhGZ0hUYXMyRE03eW1PWnRxUkZsWlVJODJ0azZnR2czTVltei1JTUl1SkdVcFJKYktpcTc4SnVFbG9NU2NKQi03ctIBwgFBVV95cUxQdml2MjRDYk8walZ0SVI3UkxQeVlSVkdwTjMtSlRZNVBVeC1qazA3bVM4ckZ4anB4OHRLR0FYREZoM2VCWk9ZZTBPT0l1QWZRTHJjaWdnbUY5Q3ZWWjItdE56WnBTY2NPc2k3dUxiUnlfUDlLT2drSklyTXhpVXVCaHpDVGlIZGp4TDczOUVoSDVSbGh1amdWeGhUc1owSmx0a2xFdF9GaUFoNEJkSlhIR3I2dHQxTUFGR1NmaW5rRjZZdw?oc=5)
-
----
-
-### [Demenz-Prävention: Lancet-Studie zeigt 50% Vermeidungsquote - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlkyQzdleW5EWU5pN29zM1pfcWN4Z2FnWjgxN1lGZVhKc01MX0RFTTNKcVB2VXBlMGtQYVRHcVhQa3M3cVFJaGJnN2lHM3VPbU1SNVVpR01PNnBPeFB1RHVOdjVaLWVQWUNLaDB5dW1ucjhPcXRFN0VKVmx1eWNrWmI1WWhTSFRWRmxiY0taYmt3UU16MURBaWdGcHRzSEM4ODQ1NDZHMHp6dktuYmZfbmZFd3pFQQ?oc=5)
+### [Aktuelle Entwicklungen in der MS-Therapie](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkZUM1ZTUS1NYUJYTmZWZlpsWjZ5MENOWE5QTjZaN1Y4MDNXMzRLMENSczBucGJnbjhWazFRWWFVb0NDdEI1b09Xal9SWmNLTngySHRadDF5amJmN3BXMy1KOEdURVczRVk5LUhRTi1VQV9mdmg3dUFXTjRvTC1yRk5ZbWRqc2JSeTM0RFdVaHc?oc=5)
 
 2026-05-25 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlkyQzdleW5EWU5pN29zM1pfcWN4Z2FnWjgxN1lGZVhKc01MX0RFTTNKcVB2VXBlMGtQYVRHcVhQa3M3cVFJaGJnN2lHM3VPbU1SNVVpR01PNnBPeFB1RHVOdjVaLWVQWUNLaDB5dW1ucjhPcXRFN0VKVmx1eWNrWmI1WWhTSFRWRmxiY0taYmt3UU16MURBaWdGcHRzSEM4ODQ1NDZHMHp6dktuYmZfbmZFd3pFQQ?oc=5)
+來源：[medonline.at](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkZUM1ZTUS1NYUJYTmZWZlpsWjZ5MENOWE5QTjZaN1Y4MDNXMzRLMENSczBucGJnbjhWazFRWWFVb0NDdEI1b09Xal9SWmNLTngySHRadDF5amJmN3BXMy1KOEdURVczRVk5LUhRTi1VQV9mdmg3dUFXTjRvTC1yRk5ZbWRqc2JSeTM0RFdVaHc?oc=5)
 
 ---
 
-### [GLP-1-Medikamente: Lebensretter mit Tücken – Was Ozempic & Co. wirklich leisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+### [Hirnforschung 2026: Lebensstil, KI-Sensorik und frühe Marker gegen Demenz - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONDc0Zkh5amdhY09LSHY0ZGRCT0F2anZkcnQyQWNFdkNpZHI5UDZ5ZE13eDVqM3IzR3U4Z1V4YnRGNGc1ZUItX2dBY3ZGbEZmX3Y0NUpRSmMwMHdsNFBBakJMWXhsMVBLMHprcHc2ZW9WY2hONHNlMk13ZXlWQ0hOUjR4eExJZFBPTmJZenFEVGl3ZFNKTkFHNWZaTG1Da2dEMlJzSzlQbw?oc=5)
 
-2026-05-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-05-25 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONDc0Zkh5amdhY09LSHY0ZGRCT0F2anZkcnQyQWNFdkNpZHI5UDZ5ZE13eDVqM3IzR3U4Z1V4YnRGNGc1ZUItX2dBY3ZGbEZmX3Y0NUpRSmMwMHdsNFBBakJMWXhsMVBLMHprcHc2ZW9WY2hONHNlMk13ZXlWQ0hOUjR4eExJZFBPTmJZenFEVGl3ZFNKTkFHNWZaTG1Da2dEMlJzSzlQbw?oc=5)
+
+---
+
+### [GLP-1 in der Onkologie: Hinweise auf weniger Metastasen – aber keine Freigabe für Krebsprävention - it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
+
+2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
 
 ---
 
@@ -94,19 +94,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [“Contro Ebola ci mancano i test”. La testimonianza di Msf da Goma. Bruciate due tende per i malati - la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2lVbkxHMnltNkpmYktyV0h3cC13d0RfMkVoZXpFZ3BTR0tnUnRhcFpyY3FCZk51WWFtN2pQdFlla0cwWjdhMlpkclpfWmg5d2dRYkF3NGtsQk5OSUhzSGtYUHhlMkpPX19STnhoaHRhdW1mV1VQUzJZWlpnYU1FRGE3Rm5EUDA0ZGNOYnpwaXA3LWhNbllpSnVEbXh2N0RyTjk1OGhSSE1adzdZMUlobGpWOUJES1MyalHSAb8BQVVfeXFMTkpZMjBvZUFqRXhqckpiQVVwdnk2c3R5LUFZTGdod1JjVk4wY3hGZW9HTG9ZMUdRYno0Z3dhUHQ1N0F1WWF2dHhuUTNORDV1aFhBbFZfOHdhRWsxbFZuNUFNTzN2Z3RxS3lFUTJpQjFaUHl4aG9oaTRlNzctemtjZTBfQXViejdhd3c0ajI2UDdpcVNXX21CUlVnWTAtX2VkV1FDRGdKWTJwVzZVR0x1RFZQTDFOek9SMjYtVm5YM2M?oc=5)
+### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
 
-2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2lVbkxHMnltNkpmYktyV0h3cC13d0RfMkVoZXpFZ3BTR0tnUnRhcFpyY3FCZk51WWFtN2pQdFlla0cwWjdhMlpkclpfWmg5d2dRYkF3NGtsQk5OSUhzSGtYUHhlMkpPX19STnhoaHRhdW1mV1VQUzJZWlpnYU1FRGE3Rm5EUDA0ZGNOYnpwaXA3LWhNbllpSnVEbXh2N0RyTjk1OGhSSE1adzdZMUlobGpWOUJES1MyalHSAb8BQVVfeXFMTkpZMjBvZUFqRXhqckpiQVVwdnk2c3R5LUFZTGdod1JjVk4wY3hGZW9HTG9ZMUdRYno0Z3dhUHQ1N0F1WWF2dHhuUTNORDV1aFhBbFZfOHdhRWsxbFZuNUFNTzN2Z3RxS3lFUTJpQjFaUHl4aG9oaTRlNzctemtjZTBfQXViejdhd3c0ajI2UDdpcVNXX21CUlVnWTAtX2VkV1FDRGdKWTJwVzZVR0x1RFZQTDFOek9SMjYtVm5YM2M?oc=5)
-
----
-
-### [Drug made from poisonous frog's skin ‘claims first British victim’ in 'detox' ceremony](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTN1MHBaV2dKZGpuTUw4MkVIYVFxNE5FNkhHTkZyNEVTUXdkckFZOVlCWkF4dDlzX1ZfTENvclF3T1AxNDZEbjdIV2h2WXNickFGWkNwN2V0VWVySWFnSTNIeF9fc0c1WS1TeDdGZmduMGdIZWpmSW9fOU1VU0VIX1lheFZNTWRFOHV6WnBzNWRwWk1XLXZlcWZSaFJtXzIyRkpQMlZfcmhpME9kT1p2VlRLa25vcWs1em41Mw?oc=5)
-
-2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[lbc.co.uk](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTN1MHBaV2dKZGpuTUw4MkVIYVFxNE5FNkhHTkZyNEVTUXdkckFZOVlCWkF4dDlzX1ZfTENvclF3T1AxNDZEbjdIV2h2WXNickFGWkNwN2V0VWVySWFnSTNIeF9fc0c1WS1TeDdGZmduMGdIZWpmSW9fOU1VU0VIX1lheFZNTWRFOHV6WnBzNWRwWk1XLXZlcWZSaFJtXzIyRkpQMlZfcmhpME9kT1p2VlRLa25vcWs1em41Mw?oc=5)
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
 
 ---
 
@@ -126,22 +118,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Minutos de ejercicio semanal para proteger la salud cardiovascular](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2FHb1JaR1VJODI4a0ItSmxYLUd2Yzk0MkR6Y0tVcVZlZkNVa3RmQ0dTZDRFd0RPV3d1VzVhT29TTGhPSXZibU1nTFotTjhxSHlyY3JobzkxSjZVY1cxa3hGbk53UFR1Uk1fVm0yWURZRW1aWDFJUkhvaDFhUHVWNGNWQTF2N01ocHkzd1ptSDE2OU8xaUtvSVRn?oc=5)
-
-2026-05-24 <span class="news-indication-tag">MS</span>
-
-來源：[EFESalud](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2FHb1JaR1VJODI4a0ItSmxYLUd2Yzk0MkR6Y0tVcVZlZkNVa3RmQ0dTZDRFd0RPV3d1VzVhT29TTGhPSXZibU1nTFotTjhxSHlyY3JobzkxSjZVY1cxa3hGbk53UFR1Uk1fVm0yWURZRW1aWDFJUkhvaDFhUHVWNGNWQTF2N01ocHkzd1ptSDE2OU8xaUtvSVRn?oc=5)
-
----
-
-### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
-
-2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
-
----
-
 ### [« Elle ne voulait plus rien faire » : elle se bat pour sa fille, atteinte de la sclérose en plaques - Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3c4eGllN2pKWXdSeGJSSGRCMWNFbEtGQTh6Sk1lOWtKY1pRai11SWRGTWhIZ2F0WWFQZWxWUDlNVl9icmZheVhabVppUXNSOWlRYmxFOHNrdmpIZnUwdTl2M0E1TGtxNWNuc0EyRDRTeEc5Y29wdGdxd3FIWmxhR3JRVTcwNWJmR3oyVnAwSFBiVkNSOEtBVThTS1pITkRIVTVPTkM3SUxfVFV6LXBiVGNYR0k1UkMy?oc=5)
 
 2026-05-24 <span class="news-indication-tag">sclérose en plaques</span>
@@ -152,7 +128,7 @@ permalink: /news/interferon-beta-1a/
 
 ### [“It felt like my world had ended” – girl dies just 15 days after brain tumour found - South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
 
-2026-05-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
 

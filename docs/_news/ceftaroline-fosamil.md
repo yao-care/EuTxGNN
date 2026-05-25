@@ -56,7 +56,7 @@ permalink: /news/ceftaroline-fosamil/
 
 ### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
-2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+2026-05-24 <span class="news-indication-tag">arthritis</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 

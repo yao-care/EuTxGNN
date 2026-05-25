@@ -14,7 +14,7 @@ permalink: /news/venetoclax/
 ---
 
 <p class="key-answer" data-question="Venetoclax 有什麼相關新聞？">
-<strong>Venetoclax</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Venetoclax</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/venetoclax/
 <p><a href="{{ '/drugs/venetoclax/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
 
-### [Las mitocondrias controlan la activación de las células inmunitarias y la eficacia de la inmunoterapia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd0RDZlBJUHQ0RFhuRzBHY01rck9nQ25lRm82ZTMwWnZYS0dlMU1rdkdRTGtyVG5xS1p5Zm5fS1FFRERjbXpFSXB4dklxY25zNEstQVJsVmNHVFV3dG5NQTJPdXVHa3lJWlQ4RXVJNTljcU1CajNib1duQUdyOGhleUpvY0QtbllwWHZjRnpkd25SV3ZhYWI3MFhQMUFnaW1vRHNSWUJaQWc4N1pMRXNZVFZyaEhTMnRQeHc4VkdNV2FUQ0IyMXl1QkVIWU92alQ0TXc4eQ?oc=5)
+### [Cancer du rein : ce sont les symptômes les plus courants](https://news.google.com/rss/articles/CBMifEFVX3lxTE9lV0hCZWI3S0NDMEpRbTVUdHlNUzd6SGtyQlZWbVFmMXVmZW1DWkZERU5ONU5jcmgxMUhRRWpldVVJQ0wtSk1lQ1pLMXVHdFhIMGgwNWZmVWdTaFh2SlJkWUVMZFNtenZuNTBzb1ZQOER2RURFbWh4M2ljMDA?oc=5)
 
-2026-05-25 <span class="news-indication-tag">tumor</span>
+2026-05-25 <span class="news-indication-tag">cancer</span>
 
-來源：[Sinc](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd0RDZlBJUHQ0RFhuRzBHY01rck9nQ25lRm82ZTMwWnZYS0dlMU1rdkdRTGtyVG5xS1p5Zm5fS1FFRERjbXpFSXB4dklxY25zNEstQVJsVmNHVFV3dG5NQTJPdXVHa3lJWlQ4RXVJNTljcU1CajNib1duQUdyOGhleUpvY0QtbllwWHZjRnpkd25SV3ZhYWI3MFhQMUFnaW1vRHNSWUJaQWc4N1pMRXNZVFZyaEhTMnRQeHc4VkdNV2FUQ0IyMXl1QkVIWU92alQ0TXc4eQ?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMifEFVX3lxTE9lV0hCZWI3S0NDMEpRbTVUdHlNUzd6SGtyQlZWbVFmMXVmZW1DWkZERU5ONU5jcmgxMUhRRWpldVVJQ0wtSk1lQ1pLMXVHdFhIMGgwNWZmVWdTaFh2SlJkWUVMZFNtenZuNTBzb1ZQOER2RURFbWh4M2ljMDA?oc=5)
+
+---
+
+### [Ieo, paziente affetto da tumore rarissimo (e considerato incurabile) salvato con un’operazione mai tentata - Il Giorno](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5V19Yb29tWmlqUzhkV2FXRlZiSzUtcHliblZlMWlmaWhZTjJiM0JfejhkbVlKZHpRcWtERkUyelNnNEsyZUZuRzZ1MXQ3d0F1OEw0V1VKRDFuU2ZmTVJJZ1BvYUJKZ0N5UDJGeHVzeDVQZHFTVEhtVEZQYmNhM3M?oc=5)
+
+2026-05-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Giorno](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5V19Yb29tWmlqUzhkV2FXRlZiSzUtcHliblZlMWlmaWhZTjJiM0JfejhkbVlKZHpRcWtERkUyelNnNEsyZUZuRzZ1MXQ3d0F1OEw0V1VKRDFuU2ZmTVJJZ1BvYUJKZ0N5UDJGeHVzeDVQZHFTVEhtVEZQYmNhM3M?oc=5)
+
+---
+
+### [GLP-1 in der Onkologie: Hinweise auf weniger Metastasen – aber keine Freigabe für Krebsprävention - it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
+
+2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/venetoclax/
 2026-05-25 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxQTTJZdG96T0ROOVd3WjdxTHFtZF9MclNfbWhNSm9nVlE2akkzcGZ6LVFGU1hYeS1WQTNKajBiWWNxUy0yRldRYjZCMVVUd2gtQndlbDRsazF6QlJFTDRGeFpqYmhjeXZBbGNPQlpoaFV2R1FpLUU4MmZqRGJmZUtYeXNWWFlVWjhXa0tkby1lYVY2LW5qaTZPanUwaXFOaUpkd19OWS1aYThqN29uVUZrWUowZWZHX083YW1mX25uZHNRWUU0a0g5akM4MWxIbUdYWXJSOEY1SjdOS1FqSFhvc2ZEZzBlV2VPTnpHeDktRl9XNmpMTDhNUTV5NWsybkNJQlHSAYoCQVVfeXFMTkg1MXplMGtXRWl1NHZNZjN4WmxtTnF5dHpGS3NyakxLcEJXbGRLVXdnYy1sODEyLV9SbHZZSjVIbGhqcTctVGotNlB6clUwTVBBSUQ3NnZ2ZWdEeU9NZjB6S1hZc0s5NEdDQ29lOXllSUhzZThCTGlIMG1tWWppZ2Q4a0FKbF85QW1nN282Z2VERXNNTnh2LXVsY2dZbUh1RS1hdnVZdHFKUHc4LXhNSGcxeGNyRE82Q0hVdzBoZm9rdGJuQUptY0F6M29oTTRTZE1YYURnUzdmak9haW15T2NzcUIzRm5hQ3VZbU00QXNmaml5eVVBa3pCdXBaSkhnVk9UbVlBaUN2VFE?oc=5)
-
----
-
-### [Loire. Affaibli par deux cancers et atteint de neuropathie, il devra attendre février 2027 pour connaître son diagnostic - Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
 
 ---
 
@@ -94,27 +102,43 @@ permalink: /news/venetoclax/
 
 ---
 
+### [Tumore alla prostata avanzato: quale farmaco ha minori conseguenze sulle funzioni cognitive? - Corriere della Sera](https://news.google.com/rss/articles/CBMinwJBVV95cUxPbThTbE0yUWNQazF2bkxwN2VPVG1qa2dxSGNaOFBzNnFwQXJSaHlUUmFfNEctNVJaYkliTDNRLUljaG90UHFtdjB1OGZxZTJQczlNT2djb2FBSk94SWtHY191azZNZGhPR19DWmRyUHNCYlFsUnhMMWxFTkdlZnZHSmJJQVEwN3lsYUROMEY2bFNxVWNrM3lhRXZhT1MzeGxZUDZNYW85emk1X0RtY3NpMExIQ09hMzhsN0ZpS3FkdE0wZWhlUmlJR0kwUkx2VnNlZ0lKeG54d3JVRHJaakdYTEhfS0hpVHh3R1FDMTd4Rkd5am5OTlFsbi1oNGJQd0NKeXJ2NDR6UGUwTzNhR21iWFdMeDRJWEN0RmF3czZEVdIBpAJBVV95cUxNYXZobFBhR2RJb3lHZFUtVUdpbEVYYzNaQUJpTVVhOUtTN3Q3WXBHMUpxbWJ1M2ExbmZ1VHlaUG9aUURFUXh2clNLX0lsMlR2MVRJcXF5THN1OGdjdVRTa3RUSUdTSXZCUHE0ZW9XSGl2dUV2WjhxZFRoNHRCbEs2S1dER0hmYjhlek1USS1UQlF0LWI2TmN2eVlJTlA1bmYzVXdqb2VLVlRJb2l5Mlh6allWeUVNa0FJTGhEV2g4RFdWd25uYWJpVFdLUkpkOG9jYmU4WndraVdHR1U4V0NlQlNNZTBoTjh5bEYwd1BfMXdyRFU3YVo4ZjZSbFdpYW5icGJCcnkzbFdlakhEODR0Nmh0anVSTXlHN0xwcTJmSlpwXzhf?oc=5)
+
+2026-05-25 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinwJBVV95cUxPbThTbE0yUWNQazF2bkxwN2VPVG1qa2dxSGNaOFBzNnFwQXJSaHlUUmFfNEctNVJaYkliTDNRLUljaG90UHFtdjB1OGZxZTJQczlNT2djb2FBSk94SWtHY191azZNZGhPR19DWmRyUHNCYlFsUnhMMWxFTkdlZnZHSmJJQVEwN3lsYUROMEY2bFNxVWNrM3lhRXZhT1MzeGxZUDZNYW85emk1X0RtY3NpMExIQ09hMzhsN0ZpS3FkdE0wZWhlUmlJR0kwUkx2VnNlZ0lKeG54d3JVRHJaakdYTEhfS0hpVHh3R1FDMTd4Rkd5am5OTlFsbi1oNGJQd0NKeXJ2NDR6UGUwTzNhR21iWFdMeDRJWEN0RmF3czZEVdIBpAJBVV95cUxNYXZobFBhR2RJb3lHZFUtVUdpbEVYYzNaQUJpTVVhOUtTN3Q3WXBHMUpxbWJ1M2ExbmZ1VHlaUG9aUURFUXh2clNLX0lsMlR2MVRJcXF5THN1OGdjdVRTa3RUSUdTSXZCUHE0ZW9XSGl2dUV2WjhxZFRoNHRCbEs2S1dER0hmYjhlek1USS1UQlF0LWI2TmN2eVlJTlA1bmYzVXdqb2VLVlRJb2l5Mlh6allWeUVNa0FJTGhEV2g4RFdWd25uYWJpVFdLUkpkOG9jYmU4WndraVdHR1U4V0NlQlNNZTBoTjh5bEYwd1BfMXdyRFU3YVo4ZjZSbFdpYW5icGJCcnkzbFdlakhEODR0Nmh0anVSTXlHN0xwcTJmSlpwXzhf?oc=5)
+
+---
+
 ### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
 ---
 
-### [GLP-1-Medikamente: Lebensretter mit Tücken – Was Ozempic & Co. wirklich leisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+### [Loire. Affaibli par deux cancers et atteint de neuropathie, il devra attendre février 2027 pour connaître son diagnostic - Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
 
-2026-05-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
 
 ---
 
-### [Drug made from poisonous frog's skin ‘claims first British victim’ in 'detox' ceremony](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTN1MHBaV2dKZGpuTUw4MkVIYVFxNE5FNkhHTkZyNEVTUXdkckFZOVlCWkF4dDlzX1ZfTENvclF3T1AxNDZEbjdIV2h2WXNickFGWkNwN2V0VWVySWFnSTNIeF9fc0c1WS1TeDdGZmduMGdIZWpmSW9fOU1VU0VIX1lheFZNTWRFOHV6WnBzNWRwWk1XLXZlcWZSaFJtXzIyRkpQMlZfcmhpME9kT1p2VlRLa25vcWs1em41Mw?oc=5)
+### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
 
-2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[lbc.co.uk](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTN1MHBaV2dKZGpuTUw4MkVIYVFxNE5FNkhHTkZyNEVTUXdkckFZOVlCWkF4dDlzX1ZfTENvclF3T1AxNDZEbjdIV2h2WXNickFGWkNwN2V0VWVySWFnSTNIeF9fc0c1WS1TeDdGZmduMGdIZWpmSW9fOU1VU0VIX1lheFZNTWRFOHV6WnBzNWRwWk1XLXZlcWZSaFJtXzIyRkpQMlZfcmhpME9kT1p2VlRLa25vcWs1em41Mw?oc=5)
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+
+---
+
+### [Scientists say house cats could help unlock new cancer treatments for humans](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IM19BMFNSRGd5cFJTd2QwbzR4TkEzT0pYMUY5NjJwWEk5XzVjbGdsNjdiTzJtamMwcE1WZ3FaNmxBTG9TbHF3VzhRR1JURHFieDFQSXpZXzZtUzZCSi00N21ESWtBTUcxSU9hd1hGRQ?oc=5)
+
+2026-05-24 <span class="news-indication-tag">cancer</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IM19BMFNSRGd5cFJTd2QwbzR4TkEzT0pYMUY5NjJwWEk5XzVjbGdsNjdiTzJtamMwcE1WZ3FaNmxBTG9TbHF3VzhRR1JURHFieDFQSXpZXzZtUzZCSi00N21ESWtBTUcxSU9hd1hGRQ?oc=5)
 
 ---
 
@@ -144,17 +168,9 @@ permalink: /news/venetoclax/
 
 ### [“It felt like my world had ended” – girl dies just 15 days after brain tumour found - South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
 
-2026-05-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
-
----
-
-### [Près de Nantes : cette clinique propose un traitement innovant contre le cancer de la prostate](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1p0NTFHQ0VubWJVVnozQ1BZLUtHX1BKd3A3cGF6a19ON1pQNHBnN1dMMVpDR2Z1R3Rvbk5lVk1UeE82N05IeV9zOW1DUUJ4dTYtV213ejkzV2toaHhtRWZ4bl9DZEpVUndxSzhWODU0WUtJV0NBOTVscGJqQTJDRGpfLWVSVmxVaGozVnYybnE4ekVIQkpWamZ3bXdjeXFfbzlFcmZBTjd1RHY2bWJzRmxZckY2REJpdnpFQ091VERSbnZETDlnT0JoMVRjZlAyNEJQaTlBZHFxQVd5OFVTdkZSeWtiZ2NVbHQ3U2NzQno5UQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1p0NTFHQ0VubWJVVnozQ1BZLUtHX1BKd3A3cGF6a19ON1pQNHBnN1dMMVpDR2Z1R3Rvbk5lVk1UeE82N05IeV9zOW1DUUJ4dTYtV213ejkzV2toaHhtRWZ4bl9DZEpVUndxSzhWODU0WUtJV0NBOTVscGJqQTJDRGpfLWVSVmxVaGozVnYybnE4ekVIQkpWamZ3bXdjeXFfbzlFcmZBTjd1RHY2bWJzRmxZckY2REJpdnpFQ091VERSbnZETDlnT0JoMVRjZlAyNEJQaTlBZHFxQVd5OFVTdkZSeWtiZ2NVbHQ3U2NzQno5UQ?oc=5)
 
 ---
 

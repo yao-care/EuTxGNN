@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Netupitant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
 2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
-
----
-
-### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
 ---
 

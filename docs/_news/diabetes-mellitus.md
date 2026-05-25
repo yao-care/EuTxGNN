@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+2026-05-25
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+---
 
 ### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="Alpelisib 有什麼相關新聞？">
-<strong>Alpelisib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alpelisib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/alpelisib/
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
 2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
-
----
-
-### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
 ---
 
@@ -88,7 +80,7 @@ permalink: /news/alpelisib/
 
 ### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
-2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+2026-05-24 <span class="news-indication-tag">arthritis</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
