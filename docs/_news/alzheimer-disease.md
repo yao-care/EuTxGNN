@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Award for late teacher's fight against Alzheimer's](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaVFOTFNyVlZSUnRNU3g5Mkc5M3VQQ21GZEs2c0hFYU4xdVZZcXJRSk9raFFKVWVQTi1GVFlISVhNNUpuSWVRZXBRQmY3TlNxeTk3YTA3bXQwSmst?oc=5)
 
 2026-05-23
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaVFOTFNyVlZSUnRNU3g5Mkc5M3VQQ21GZEs2c0hFYU4xdVZZcXJRSk9raFFKVWVQTi1GVFlISVhNNUpuSWVRZXBRQmY3TlNxeTk3YTA3bXQwSmst?oc=5)
+
+---
+
+### [Not sleep or exercise - this daily breakfast habit may lower dementia risk by 35%, new study says - Woman & Home](https://news.google.com/rss/articles/CBMipwFBVV95cUxQODVYc2V5eUQtSmE3b04zdTR5U2RZUFQtRVN0Zl82YUdjeVgycWN2MFFDRUowUHBzbzZMUHkzbDI2aF9PQktLTm40QlFSUVhJWUJaQ3pxS0wteWZmWnBqRF9oRzV4Z2M5YV9HSTdEbnBSWDA1OHZhU1FDbUdFZEQwcW1MaWtTSjdMMzIxOFhWNU5UcTNkSDFhLWd0LXdwdnRTTlFzQ3Z3SQ?oc=5)
+
+2026-05-23
+
+來源：[Woman & Home](https://news.google.com/rss/articles/CBMipwFBVV95cUxQODVYc2V5eUQtSmE3b04zdTR5U2RZUFQtRVN0Zl82YUdjeVgycWN2MFFDRUowUHBzbzZMUHkzbDI2aF9PQktLTm40QlFSUVhJWUJaQ3pxS0wteWZmWnBqRF9oRzV4Z2M5YV9HSTdEbnBSWDA1OHZhU1FDbUdFZEQwcW1MaWtTSjdMMzIxOFhWNU5UcTNkSDFhLWd0LXdwdnRTTlFzQ3Z3SQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Plötzlich steigender Blutdruck? Ab diesem Wert „Gefahr eines Schlaganfalls“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzFnLWRhRUNSbFRSVHU3TEo0S2lHS1ByUmw5bXFwV1JZU24tM0taajRoTG9WZ3p0Vi0waGM4T3lza1o1elNtbk5iWDJpWWZyR3gxNkNjYnQ5Uy1kdE5TNzRkSVI4RFI5aHcteTdUNllpdHBWQ0pONy1MYkVxZmFZR2pMNFpURS1HNEMzeWVDSDZ5U01KMk9SUVBaX295cnJrcnc0U25URTM4Ync3SWNjWVBxWFhOTHg4dm93aTJFUV9hUEN6Q0V5SWE1TV83RW9KRk50UjBQSnJBX2M?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/stroke/
 2026-05-24
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmh5OXdULTVOYkgtU3VqLWY3VDMzM0RCNkZ3MXd0OEQzaEgtcDhYRFVGZWtiaXg3U2pnYjExQk9Obnlac0ROLUU2YTJmMmlaX0JfM1I4d3QyREhlY3pQWUtMWEhzUUlXVmsxSUZmSjRienR2YlNrM1M5bHBnaXdoNkx0TlV2Q09jTnQyRm1tTzVZQXlFRC0weU16d1hOY0JvSkktUE1ra2k2eHRKUkYzVUl5MXZBTkEzcUFhY2VZbU9pWnljUi1uTg?oc=5)
+
+---
+
+### [Omega-3-Mangel vermeiden: Dr. Riedl sagt, woran Sie gute Supplements erkennen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjl4RnBsU3hMSkZkZkZlbjdqMS1pdWRJSzNtOXdNTFFJczc0UzZtVDBKckNVLWVXc0oxMXpBbF9KdFJOaTdlSzlWNFQ2eEFMVk1fS0RDRzVDMi1uZ0pUblhIMlVpY2VEbGhjRGtvbDBQZ3ZCYjVLWldQNnJESVBrSHd5cWhXbnowWVJ0LWZ2Z0RJUGR2c0JsT3RKLUlWa3pVVDNjQjI2T3V0T2RWWE9zcTR0czBHanhsWnY4TnlVZ3UzTk9LNEJGaW84dEZsZWtoNGZ5LWJ1MzhZdGc?oc=5)
+
+2026-05-23
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjl4RnBsU3hMSkZkZkZlbjdqMS1pdWRJSzNtOXdNTFFJczc0UzZtVDBKckNVLWVXc0oxMXpBbF9KdFJOaTdlSzlWNFQ2eEFMVk1fS0RDRzVDMi1uZ0pUblhIMlVpY2VEbGhjRGtvbDBQZ3ZCYjVLWldQNnJESVBrSHd5cWhXbnowWVJ0LWZ2Z0RJUGR2c0JsT3RKLUlWa3pVVDNjQjI2T3V0T2RWWE9zcTR0czBHanhsWnY4TnlVZ3UzTk9LNEJGaW84dEZsZWtoNGZ5LWJ1MzhZdGc?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [KI-Atlas zu Adipositas und der Marktwechsel zu oralen GLP-1-Pillen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXhPb1RhTE1LVGJ2MmhkYjdzM3U3M19vb3Ezb2QzVk1TbkMwbkdGTnVBd1RMSl83TENQajlmd1Rzc0pjSG90clk2WUtpSmRrZ05kalFpNWZFZ0h2ZXB1d2RZRWluTXR3UkRwYmJtR1BNU01LNXRGMVVhUUxMeEpNRFJ2djVadDBCOEMzYWZMZEZybnZCNUdQOU5wUGFwRWs?oc=5)
 
@@ -54,19 +54,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+### [Man, 23 stone, criticises rules after losing NHS funding for weight loss jabs - Wales Online](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWdfdEVyM0tNSGNBMk5xcEJyZk1aTW5VbGNZRmFNZGduaFo5ZEJ1Z25UOFpuSzE5NDBoTWRVUkZwZExKR0k2c0Z5eVRkTy1VaGxEOVBXdlVkXzNBNkE0RlJ6bE5pUVkyLXA3eExrbUF4YXNXZWZBWUFMWTk4M3F4Q9IBhgFBVV95cUxNWnBXSWpyV2lpMnM4cVNtTzVCRkl3cFkxaUh6QUJfSzdFZFBZYjJGbC03OXM0cjQ1eVVlR2NXbm16R1kxRkltRFU3SHF3ZU1RdllBREN2WTYyanAzSzFuczFfR2JWbElVSkFZV19pWE9oM24xd1lmbnpEenl5TFY1NDhIc1E3Zw?oc=5)
 
-2026-05-22
+2026-05-23
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
-
----
-
-### [Gut Signals Swap Sugar Cravings for Protein Selection - Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTFBRUy16MmJXenAxd2hUZmhjODhrM1VaeTlLbldWb1pOSDNUT2FUOUMyakdBMEpfa3YtMUdOMS1nQ1p5cVhJdTVlMXdreU9wUS01bHRSakgwRWZNdU9FWktLV2xpN0pOYXZBNE44alVXYlJRQQ?oc=5)
-
-2026-05-22
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTFBRUy16MmJXenAxd2hUZmhjODhrM1VaeTlLbldWb1pOSDNUT2FUOUMyakdBMEpfa3YtMUdOMS1nQ1p5cVhJdTVlMXdreU9wUS01bHRSakgwRWZNdU9FWktLV2xpN0pOYXZBNE44alVXYlJRQQ?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWdfdEVyM0tNSGNBMk5xcEJyZk1aTW5VbGNZRmFNZGduaFo5ZEJ1Z25UOFpuSzE5NDBoTWRVUkZwZExKR0k2c0Z5eVRkTy1VaGxEOVBXdlVkXzNBNkE0RlJ6bE5pUVkyLXA3eExrbUF4YXNXZWZBWUFMWTk4M3F4Q9IBhgFBVV95cUxNWnBXSWpyV2lpMnM4cVNtTzVCRkl3cFkxaUh6QUJfSzdFZFBZYjJGbC03OXM0cjQ1eVVlR2NXbm16R1kxRkltRFU3SHF3ZU1RdllBREN2WTYyanAzSzFuczFfR2JWbElVSkFZV19pWE9oM24xd1lmbnpEenl5TFY1NDhIc1E3Zw?oc=5)
 
 ---
 

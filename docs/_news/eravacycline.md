@@ -54,19 +54,35 @@ permalink: /news/eravacycline/
 
 ## 相關新聞（17 則）
 
-### [GLP-1-Medikamente: Neue Studie zeigt Schutz vor Krebs-Metastasen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcW5iZUtMcUl2WHFIVHBLVWZUNl9UQVNUd2FmSFhIUzFMdG9TRWJINmtoYnFyd3pycjZSUHZMMHIyYmFuR0dyaTdOc3lfRzVGRXdFNGJJcFV4LVlOV0UxbE9vRjJvYl9TalFyZm9EU1RFa1p1UDJ1UkNlZlRiN2RfdkVZOGNya0lyWXd0SlNIbmxLVGRpWFU2dU5HSFFmdEtZTklXSUE4VElnLVRZUDJPX1Vn?oc=5)
+### [Diabetes-Kongress: Lebensstil schlägt Gene bei chronischen Krankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
 
-2026-05-24 <span class="news-indication-tag">tumor</span>
+2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcW5iZUtMcUl2WHFIVHBLVWZUNl9UQVNUd2FmSFhIUzFMdG9TRWJINmtoYnFyd3pycjZSUHZMMHIyYmFuR0dyaTdOc3lfRzVGRXdFNGJJcFV4LVlOV0UxbE9vRjJvYl9TalFyZm9EU1RFa1p1UDJ1UkNlZlRiN2RfdkVZOGNya0lyWXd0SlNIbmxLVGRpWFU2dU5HSFFmdEtZTklXSUE4VElnLVRZUDJPX1Vn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
 
 ---
 
-### [Diabetes-Kongress in Berlin: Lebensstil schlägt Gene bei Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
+### [GLP-1-Medikamente: Lebensretter mit Tücken – Was Ozempic & Co. wirklich leisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabetes</span>
+2026-05-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">tumor</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+
+---
+
+### [The Remarkable Proliferation of Cancer Immunotherapies - Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMie0FVX3lxTE11V1JfaTZyS3hweXBGX2FzREJfYkdwTExUbmNUUjNWUURGQ3hyaEtxc2pRRFhMMEVIcUR5ZFNGU3VQZG9lZm5NTFFTM0R6U01iVHk3eC1CQXBXMUF3emozS05ydjFJOWFDTzZHcmxTNnd5RmxHaldMRVZBcw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">cancer</span>
+
+來源：[Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMie0FVX3lxTE11V1JfaTZyS3hweXBGX2FzREJfYkdwTExUbmNUUjNWUURGQ3hyaEtxc2pRRFhMMEVIcUR5ZFNGU3VQZG9lZm5NTFFTM0R6U01iVHk3eC1CQXBXMUF3emozS05ydjFJOWFDTzZHcmxTNnd5RmxHaldMRVZBcw?oc=5)
+
+---
+
+### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
 
 ---
 
@@ -78,19 +94,19 @@ permalink: /news/eravacycline/
 
 ---
 
+### [Nächtliches Licht erhöht Risiko für Diabetes und Herzinfarkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
+
+2026-05-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
+
+---
+
 ### [Giornata mondiale della tiroide, l'incidenza delle patologie raddoppiata in 20 anni: i servizi dell’Ulss 9 Scaligera](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUVJVV0lhb1FJem9BZmdEMWpSXzZST1hndjdHTml4MExDc2Q4b1J2M0lCcVJDOTgyV1VxZ2JUVzdTclhEMXc1T2dkNGJJOTFKbTVJUEV5S3ltOTNUbm12M1VrZFpKY2p4RVZ1RXo3VmJWcEVyYTlTeENMNTl6V2ZMdDVkQkpTM3FxVEtYeVBCNG9odmt0YXJERExWWHZhVFFpZ2p6d2JBS3pNUkVhMmtieEY0R1hYcWNSek8wQnRObUVVd285TW54djlyb1dQYXFIMnhJSUlTbGdSbkthNXZYQ2o4Z3RjaHVUUXN1Y19rQUh5ZEV0end0WDhtcWs4OEZjX2RQUy1R0gGLAkFVX3lxTFA2U1NwQmkyN2pvZFRlOHZyOFBHeGFoWjBQa2RJQ0N6VXRkVWRQazFMQVl0cG5OR3hTcGhyOHdPVjZmQWNqVFJhTGtlNG1TX1NxcmJxaDFNWmhWVE4zM0w5SHVZa25lZ3dPdldzZzdnNjBpbjNFTnllbTJPV3hKWUZQT2lDYUREYVpNQjNSQnU5UktTc3dzQmRxU3Jjckp6NkJiNFgzTVNiYXdKTExfRDBoLUhpSy1PYnZSUk5iMGxsTmlqd21uNzJHaHVPS1puUXBmNDQxbmxSSml3QUFpaUJXQlNiZ1Jobzl5VUJ6dzIyZ182UjhqdS1MZVdaNmN4QUZ1S05QS0VCY2JaVQ?oc=5)
 
 2026-05-24 <span class="news-indication-tag">tumor</span>
 
 來源：[L'Arena](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUVJVV0lhb1FJem9BZmdEMWpSXzZST1hndjdHTml4MExDc2Q4b1J2M0lCcVJDOTgyV1VxZ2JUVzdTclhEMXc1T2dkNGJJOTFKbTVJUEV5S3ltOTNUbm12M1VrZFpKY2p4RVZ1RXo3VmJWcEVyYTlTeENMNTl6V2ZMdDVkQkpTM3FxVEtYeVBCNG9odmt0YXJERExWWHZhVFFpZ2p6d2JBS3pNUkVhMmtieEY0R1hYcWNSek8wQnRObUVVd285TW54djlyb1dQYXFIMnhJSUlTbGdSbkthNXZYQ2o4Z3RjaHVUUXN1Y19rQUh5ZEV0end0WDhtcWs4OEZjX2RQUy1R0gGLAkFVX3lxTFA2U1NwQmkyN2pvZFRlOHZyOFBHeGFoWjBQa2RJQ0N6VXRkVWRQazFMQVl0cG5OR3hTcGhyOHdPVjZmQWNqVFJhTGtlNG1TX1NxcmJxaDFNWmhWVE4zM0w5SHVZa25lZ3dPdldzZzdnNjBpbjNFTnllbTJPV3hKWUZQT2lDYUREYVpNQjNSQnU5UktTc3dzQmRxU3Jjckp6NkJiNFgzTVNiYXdKTExfRDBoLUhpSy1PYnZSUk5iMGxsTmlqd21uNzJHaHVPS1puUXBmNDQxbmxSSml3QUFpaUJXQlNiZ1Jobzl5VUJ6dzIyZ182UjhqdS1MZVdaNmN4QUZ1S05QS0VCY2JaVQ?oc=5)
-
----
-
-### [Nachtlicht und Gesundheit: So steigt das Risiko für Herz und Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
-
-2026-05-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
 
 ---
 
@@ -110,22 +126,6 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Simple Fiber Supplement Cuts Knee Arthritis Pain in Just 6 Weeks, Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHdVWjhoUW9tblhHZGwwTE5xX1FqNjNlMkV1bTFiZFpFTU92LXl2WVpkU0NWY3NsUFlGbUpsVm1NVUhzWGR1NW55T04tWEU3RHB4c3dBblhWeFBicDZoREI0eHE5amNjVG5qa2FXMllOV1VibjRmZ0lXS050bG95bHRuYUJBQmlSU3VEbS1mRTBTVEJlakN6ZGpGd3Bjbzh1WGRQNQ?oc=5)
-
-2026-05-24 <span class="news-indication-tag">arthritis</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHdVWjhoUW9tblhHZGwwTE5xX1FqNjNlMkV1bTFiZFpFTU92LXl2WVpkU0NWY3NsUFlGbUpsVm1NVUhzWGR1NW55T04tWEU3RHB4c3dBblhWeFBicDZoREI0eHE5amNjVG5qa2FXMllOV1VibjRmZ0lXS050bG95bHRuYUJBQmlSU3VEbS1mRTBTVEJlakN6ZGpGd3Bjbzh1WGRQNQ?oc=5)
-
----
-
-### [Frog poison detox ‘claims first British victim’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
-
-2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
-
----
-
 ### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
 2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
@@ -134,11 +134,19 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Mum loses 'perfect child' just 15 days after first symptom and issues plea - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
+### [“It felt like my world had ended” – girl dies just 15 days after brain tumour found - South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
 
-2026-05-23 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
+來源：[South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
+
+---
+
+### [Loire. Affaibli par deux cancers et atteint de neuropathie, il devra attendre février 2027 pour connaître son diagnostic - Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
 
 ---
 
@@ -171,14 +179,6 @@ permalink: /news/eravacycline/
 2026-05-23 <span class="news-indication-tag">cancer</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHdZZGpva01jUlB1SlJLaUhrT3dUeEkzbGlreHZMVWkxY09jSjJ0ME1Oc215VFZXbVNOTlpzZ3hnS3BkdUVyeUFSLUdkOE9sSjV2ZktJUkNwanlNMFRhbVJCMHJKUTNacDlTSW9DbGdWZFowUk1QdFowWXRKcnFrczVn?oc=5)
-
----
-
-### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
-
-2026-05-23 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
 
 ---
 

@@ -54,27 +54,27 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（3 則）
 
-### [Diabetes-Kongress in Berlin: Lebensstil schlägt Gene bei Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
+### [Diabetes-Kongress: Lebensstil schlägt Gene bei chronischen Krankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabetes</span>
+2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
-
----
-
-### [Nachtlicht und Gesundheit: So steigt das Risiko für Herz und Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
-
-2026-05-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
 
 ---
 
-### [Así funciona el 'superozempic' que reduce el peso un 30% - El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+### [GLP-1-Medikamente: Lebensretter mit Tücken – Was Ozempic & Co. wirklich leisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
 
-2026-05-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-05-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">tumor</span>
 
-來源：[El Correo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDYtNDQ0Q05EMDB3UTFCT3gzTlVQWU9OTTQ0cnNKTzd4OUplOGpVbW5TZjVmR1BzQ0ppRV9Vdk1JUkhvaGphaHRjcnpLaWp3TmVQT3VEMVg1SWRaOXFZSUJ1REczYWctNHlJQ3ViODhleEZmRWtQRnVQR2xUd2VDcWF3ZWlLREgzNFBRMTNaVm9XUWF6aHNlbkVyTFo?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+
+---
+
+### [Nächtliches Licht erhöht Risiko für Diabetes und Herzinfarkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
+
+2026-05-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
 
 2026-05-24 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
-
----
-
-### [Simple Fiber Supplement Cuts Knee Arthritis Pain in Just 6 Weeks, Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHdVWjhoUW9tblhHZGwwTE5xX1FqNjNlMkV1bTFiZFpFTU92LXl2WVpkU0NWY3NsUFlGbUpsVm1NVUhzWGR1NW55T04tWEU3RHB4c3dBblhWeFBicDZoREI0eHE5amNjVG5qa2FXMllOV1VibjRmZ0lXS050bG95bHRuYUJBQmlSU3VEbS1mRTBTVEJlakN6ZGpGd3Bjbzh1WGRQNQ?oc=5)
-
-2026-05-24 <span class="news-indication-tag">arthritis</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHdVWjhoUW9tblhHZGwwTE5xX1FqNjNlMkV1bTFiZFpFTU92LXl2WVpkU0NWY3NsUFlGbUpsVm1NVUhzWGR1NW55T04tWEU3RHB4c3dBblhWeFBicDZoREI0eHE5amNjVG5qa2FXMllOV1VibjRmZ0lXS050bG95bHRuYUJBQmlSU3VEbS1mRTBTVEJlakN6ZGpGd3Bjbzh1WGRQNQ?oc=5)
 
 ---
 

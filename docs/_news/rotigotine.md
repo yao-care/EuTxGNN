@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（12 則）
 
 ### [Gehirngesundheit: So lässt sich Demenz-Risiko halbieren - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0REVFBSVHJCczdVWW1oTDQxNzNUakxDYVRhSFcxWjN1eF9pSmNMYUg4VWtWV05WYktXQ3p0QmRUZEFJZzVYODdNTFJTaUFIUWZnbUlBbnFXeE9HLWdJbEQtZzVza3c3b0pSREJoa0xKb05Sc0QtVGkyX2F5YnhUemM2S2M4M09vVmZDNTlZS0NCcDVvRkdDRmJtbFVzSzBpVFhlMWtXTQ?oc=5)
 
 2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0REVFBSVHJCczdVWW1oTDQxNzNUakxDYVRhSFcxWjN1eF9pSmNMYUg4VWtWV05WYktXQ3p0QmRUZEFJZzVYODdNTFJTaUFIUWZnbUlBbnFXeE9HLWdJbEQtZzVza3c3b0pSREJoa0xKb05Sc0QtVGkyX2F5YnhUemM2S2M4M09vVmZDNTlZS0NCcDVvRkdDRmJtbFVzSzBpVFhlMWtXTQ?oc=5)
+
+---
+
+### [Helen Clark, experta en pandemias de la OMS: "La próxima enfermedad puede no darnos semanas para averiguar qué pasa, puede darnos días" - El HuffPost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY1VFVEV2Mlo4UU9qMXEyY2ptaWJYNUJmSWR0VkJWdlp6bGo0c3VkblNURm4xS05aZ2dPMGFRTG0wbm5FVDM0cG0tSFFMNHVWdGJJbFhMdTl1b25PYTZTOFhRRklBejFoMkUtQzhYWjc4UVNnRUNJeVdzaG14aHNlZmpLbG84VjhoZ25HMHJlcTFoaGxrSndWNV9HZ2NzazkxYUNZM2F4bG9ZLUV2Q2UyYWZMWnNzbzBUYm14ZFI0ay14T01vcTh2Z2YtR0QzQTFIREZDOXl4M2J3Zml1SU91d05SY3ppRHFD0gH8AUFVX3lxTE1OeWFSRmswd2JCcF85bzRwOERWaFZqRVFWaDhMQjhGVnp3djdwRVUwNGJaM3VqS000bV90bXpwNU10bFVydmowMUg4OXE3OG5jeE5RcEQyekF4TGliUzRsOXlHb0xKTjRmbmprN2h3S2xEN1QyWDFWNmlxZkQ3QXF6TXMxbDZBMzFEeXkyaER0akE4dVZZQnZYWE1qNmFJc3NaOFZZZHI1cURuYUpaVllyQ2JqV2hrcldRSmQ2S2RmcGd3QnhJVFY5WGRFM183R19yX21rZnBiX1d4YlpPN0I4cHA2TTZpLVl6QjhMZWt0S0tPeENkTUpaRHczYw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">MS</span>
+
+來源：[El HuffPost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY1VFVEV2Mlo4UU9qMXEyY2ptaWJYNUJmSWR0VkJWdlp6bGo0c3VkblNURm4xS05aZ2dPMGFRTG0wbm5FVDM0cG0tSFFMNHVWdGJJbFhMdTl1b25PYTZTOFhRRklBejFoMkUtQzhYWjc4UVNnRUNJeVdzaG14aHNlZmpLbG84VjhoZ25HMHJlcTFoaGxrSndWNV9HZ2NzazkxYUNZM2F4bG9ZLUV2Q2UyYWZMWnNzbzBUYm14ZFI0ay14T01vcTh2Z2YtR0QzQTFIREZDOXl4M2J3Zml1SU91d05SY3ppRHFD0gH8AUFVX3lxTE1OeWFSRmswd2JCcF85bzRwOERWaFZqRVFWaDhMQjhGVnp3djdwRVUwNGJaM3VqS000bV90bXpwNU10bFVydmowMUg4OXE3OG5jeE5RcEQyekF4TGliUzRsOXlHb0xKTjRmbmprN2h3S2xEN1QyWDFWNmlxZkQ3QXF6TXMxbDZBMzFEeXkyaER0akE4dVZZQnZYWE1qNmFJc3NaOFZZZHI1cURuYUpaVllyQ2JqV2hrcldRSmQ2S2RmcGd3QnhJVFY5WGRFM183R19yX21rZnBiX1d4YlpPN0I4cHA2TTZpLVl6QjhMZWt0S0tPeENkTUpaRHczYw?oc=5)
 
 ---
 
@@ -70,19 +78,27 @@ permalink: /news/rotigotine/
 
 ---
 
+### [“Contro Ebola ci mancano i test”. La testimonianza di Msf da Goma. Bruciate due tende per i malati - la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2lVbkxHMnltNkpmYktyV0h3cC13d0RfMkVoZXpFZ3BTR0tnUnRhcFpyY3FCZk51WWFtN2pQdFlla0cwWjdhMlpkclpfWmg5d2dRYkF3NGtsQk5OSUhzSGtYUHhlMkpPX19STnhoaHRhdW1mV1VQUzJZWlpnYU1FRGE3Rm5EUDA0ZGNOYnpwaXA3LWhNbllpSnVEbXh2N0RyTjk1OGhSSE1adzdZMUlobGpWOUJES1MyalHSAb8BQVVfeXFMTkpZMjBvZUFqRXhqckpiQVVwdnk2c3R5LUFZTGdod1JjVk4wY3hGZW9HTG9ZMUdRYno0Z3dhUHQ1N0F1WWF2dHhuUTNORDV1aFhBbFZfOHdhRWsxbFZuNUFNTzN2Z3RxS3lFUTJpQjFaUHl4aG9oaTRlNzctemtjZTBfQXViejdhd3c0ajI2UDdpcVNXX21CUlVnWTAtX2VkV1FDRGdKWTJwVzZVR0x1RFZQTDFOek9SMjYtVm5YM2M?oc=5)
+
+2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2lVbkxHMnltNkpmYktyV0h3cC13d0RfMkVoZXpFZ3BTR0tnUnRhcFpyY3FCZk51WWFtN2pQdFlla0cwWjdhMlpkclpfWmg5d2dRYkF3NGtsQk5OSUhzSGtYUHhlMkpPX19STnhoaHRhdW1mV1VQUzJZWlpnYU1FRGE3Rm5EUDA0ZGNOYnpwaXA3LWhNbllpSnVEbXh2N0RyTjk1OGhSSE1adzdZMUlobGpWOUJES1MyalHSAb8BQVVfeXFMTkpZMjBvZUFqRXhqckpiQVVwdnk2c3R5LUFZTGdod1JjVk4wY3hGZW9HTG9ZMUdRYno0Z3dhUHQ1N0F1WWF2dHhuUTNORDV1aFhBbFZfOHdhRWsxbFZuNUFNTzN2Z3RxS3lFUTJpQjFaUHl4aG9oaTRlNzctemtjZTBfQXViejdhd3c0ajI2UDdpcVNXX21CUlVnWTAtX2VkV1FDRGdKWTJwVzZVR0x1RFZQTDFOek9SMjYtVm5YM2M?oc=5)
+
+---
+
+### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+
+---
+
 ### [Columbia-Studie: Diese Schlafdauer lässt dich und deine Organe am langsamsten altern](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzlHMktzVENQeTh4NjBqWFVSWElseHdITDNucGFoOUZpbTZ1V2lDMlkxS1pmMzBpYXhMdHQ1TFBNengxWllkT3E2TjgzSWl3dGJnOHc1R0tLRnZNN2lCOEw2R1EtLWlrMC1wN2VseUotckFteFZFUXFTcUxpRUVmRWtndXQ3NVFWRXlHSnZOOE8?oc=5)
 
 2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[t3n](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzlHMktzVENQeTh4NjBqWFVSWElseHdITDNucGFoOUZpbTZ1V2lDMlkxS1pmMzBpYXhMdHQ1TFBNengxWllkT3E2TjgzSWl3dGJnOHc1R0tLRnZNN2lCOEw2R1EtLWlrMC1wN2VseUotckFteFZFUXFTcUxpRUVmRWtndXQ3NVFWRXlHSnZOOE8?oc=5)
-
----
-
-### [Ebola, oltre 200 morti in Congo. Msf: “Priorità dare cure essenziali” - Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWt5ZXhuSDFfWTk0NUNXaWROTF9VUi11UU5QeEYtNmY0YkNsSHY1b3pPSGNRdTFBU1JQdUxCd2YwYUx5VnBPd284TVItQjRydDYxQ1Z6ckZDcmJfYTlXSThUSlNxRWg2UzNjeTdadzlNamNzTHdxSktEbjV4OWsyZEpZUmxrb19RWm5r?oc=5)
-
-2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWt5ZXhuSDFfWTk0NUNXaWROTF9VUi11UU5QeEYtNmY0YkNsSHY1b3pPSGNRdTFBU1JQdUxCd2YwYUx5VnBPd284TVItQjRydDYxQ1Z6ckZDcmJfYTlXSThUSlNxRWg2UzNjeTdadzlNamNzTHdxSktEbjV4OWsyZEpZUmxrb19RWm5r?oc=5)
 
 ---
 
@@ -102,14 +118,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Frog poison detox ‘claims first British victim’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
-
-2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
-
----
-
 ### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
 2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
@@ -126,27 +134,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Mum loses 'perfect child' just 15 days after first symptom and issues plea - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
+### [“It felt like my world had ended” – girl dies just 15 days after brain tumour found - South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
 
-2026-05-23 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
-
----
-
-### [We forked out £4,200 on 'five-star' holiday in Brit holiday hotspot… then deadly bug left our baby with 10 hours to live - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjV3TkQtZTdZWEdYaHFhUVVqT3VRYm5uM0U5T2I1TVNYSGwydUZlNTI4MzFCZ3Vja2oyRzZyR2Jocm5teHhVdnJfVF96N2UxOFdpX1BaUDdkZWdyVzdWUmhUNjIwQTFuM2Q0SUo4ZzE0OFUwcUtUTU1rdHNWMWpuZnY2SlRwYU5CWDVjdTNqZw?oc=5)
-
-2026-05-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjV3TkQtZTdZWEdYaHFhUVVqT3VRYm5uM0U5T2I1TVNYSGwydUZlNTI4MzFCZ3Vja2oyRzZyR2Jocm5teHhVdnJfVF96N2UxOFdpX1BaUDdkZWdyVzdWUmhUNjIwQTFuM2Q0SUo4ZzE0OFUwcUtUTU1rdHNWMWpuZnY2SlRwYU5CWDVjdTNqZw?oc=5)
-
----
-
-### [Semaglutid bremst Alzheimer nicht aus](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDhUdG8xbXpGcWowRG14TXBXYnFYWGZOdWF6dUs3WkQ3Q2l1QXFBZFFFOWtnLUF2blliZjRXLXQxXzhBdzlwVEt0UG0ya2d4bmw4NjV2VU1sZXVobHY4aFdvNkZtQkZNOWVVNmdyUmZxZ29jcnBkeXlaRHB5T2s4d3F2aERvUG8tVzdn?oc=5)
-
-2026-05-23 <span class="news-indication-tag">MS</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDhUdG8xbXpGcWowRG14TXBXYnFYWGZOdWF6dUs3WkQ3Q2l1QXFBZFFFOWtnLUF2blliZjRXLXQxXzhBdzlwVEt0UG0ya2d4bmw4NjV2VU1sZXVobHY4aFdvNkZtQkZNOWVVNmdyUmZxZ29jcnBkeXlaRHB5T2s4d3F2aERvUG8tVzdn?oc=5)
+來源：[South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
 
 ---
 
@@ -155,22 +147,6 @@ permalink: /news/rotigotine/
 2026-05-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BFM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
-
----
-
-### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
-
-2026-05-23 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
-
----
-
-### ['If MS takes my voice, it will live on in my book'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV2VWVFRVNF9lMWhiRFRqNHU3T0VVNExwbjFPMHJ5NlplR0NWdjFPZF9rVkF6UHJDdVVDRXZHdkhPejU3WDlRLUdRSVRrUDhLX09QcmxicTM2Tmhx?oc=5)
-
-2026-05-23 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV2VWVFRVNF9lMWhiRFRqNHU3T0VVNExwbjFPMHJ5NlplR0NWdjFPZF9rVkF6UHJDdVVDRXZHdkhPejU3WDlRLUdRSVRrUDhLX09QcmxicTM2Tmhx?oc=5)
 
 ---
 

@@ -54,27 +54,27 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（3 則）
 
-### [Diabetes-Kongress in Berlin: Lebensstil schlägt Gene bei Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
+### [Diabetes-Kongress: Lebensstil schlägt Gene bei chronischen Krankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabetes</span>
+2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdW9wdG90ODlmTHRZMHdVcmQ4QlRNOW1aTkItdmtpa0toMGktWDJTamlLcUpPU0U5TFU1eHBIalpJbTEtczhXYWNpeHJzdXFsWndGaHRncVYwUWJ5Zy1YdW9iUVp3U00yS29SbFFMT3VoVDVGblJqd3p1QTJDT0c0VWc0UXZfVTNmdEMxT2licUx2ZWtvVzE3RlE5QWtBb19OQl84Wkk1TzlmN29CQ3hjd09ST0hRUnBm?oc=5)
-
----
-
-### [Nachtlicht und Gesundheit: So steigt das Risiko für Herz und Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
-
-2026-05-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTV0dWM5a0tfTDViWkpEeTNpdUdoX09zZkN1cVZvUDNqUy15OS15VFVuc2N6S0lwVEI5YkpZcDdyby1PalFLZ2s1ZW5XTEE5OF8xWHZqUmdWUHRmcnF4ZWExYWNlS3dobTZiQlRxTXhnblRGbXpBRFVSVlh1WXpnT2xkcEsxU09iRWhJVTNzOTFWb3pCNTBHdngxcVdoZlZrR3Rr?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
 
 ---
 
-### [Pensioners with asthma and other lung conditions urged to do 1 thing this weekend - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
+### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
 
-2026-05-23 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFdCWDQ4dUJLSkJsU0pSNVFxR3JwdFJ6YkgyRXR5c1hGRWJQTVgtbEJYcmtEc2JfdEJlT3FCalFSekF1QTZCX0xFa1NtUVMzdHhzdlcwVVZNUTRuWVZtRlZ4akdiVjlyWjd6R1FXMUZ2aldPZWpzbGNhMGJNYUs2ZUhVYThKem01S09MeURrdmh3Vnh3MlpCLdIBngFBVV95cUxNa1puSm14Q0VtNjdxWjk0bkZmZE9OTzJXSTdZalFGb2xkdTRQWUVhUmdzR3VFa01zbnRWS29FVEV2OGZ2VjU4T25yQVRLbkVFX3lBWm1LMUROUVZ5R3NVWUNYTjZqcXZNR3RzYTlIeloxN1AxVmg3ZUc2UDJJTTVxdl9yM2p3d29XREcwaGdRa1lMM2d4V2lYMy13WTJxdw?oc=5)
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+
+---
+
+### [Nächtliches Licht erhöht Risiko für Diabetes und Herzinfarkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
+
+2026-05-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
 
 ---
 

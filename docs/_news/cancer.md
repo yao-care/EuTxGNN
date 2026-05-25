@@ -3,7 +3,7 @@ layout: default
 title: "tumor（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。12 則新聞、229 個相關藥物。"
+description: "tumor（cancer） 的相關健康新聞報導。14 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>12 則</strong>相關新聞報導，229 個相關藥物。
+<strong>tumor（cancer）</strong> 目前有 <strong>14 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,13 +257,29 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
-### [GLP-1-Medikamente: Neue Studie zeigt Schutz vor Krebs-Metastasen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcW5iZUtMcUl2WHFIVHBLVWZUNl9UQVNUd2FmSFhIUzFMdG9TRWJINmtoYnFyd3pycjZSUHZMMHIyYmFuR0dyaTdOc3lfRzVGRXdFNGJJcFV4LVlOV0UxbE9vRjJvYl9TalFyZm9EU1RFa1p1UDJ1UkNlZlRiN2RfdkVZOGNya0lyWXd0SlNIbmxLVGRpWFU2dU5HSFFmdEtZTklXSUE4VElnLVRZUDJPX1Vn?oc=5)
+### [GLP-1-Medikamente: Lebensretter mit Tücken – Was Ozempic & Co. wirklich leisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
 
 2026-05-24
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcW5iZUtMcUl2WHFIVHBLVWZUNl9UQVNUd2FmSFhIUzFMdG9TRWJINmtoYnFyd3pycjZSUHZMMHIyYmFuR0dyaTdOc3lfRzVGRXdFNGJJcFV4LVlOV0UxbE9vRjJvYl9TalFyZm9EU1RFa1p1UDJ1UkNlZlRiN2RfdkVZOGNya0lyWXd0SlNIbmxLVGRpWFU2dU5HSFFmdEtZTklXSUE4VElnLVRZUDJPX1Vn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+
+---
+
+### [The Remarkable Proliferation of Cancer Immunotherapies - Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMie0FVX3lxTE11V1JfaTZyS3hweXBGX2FzREJfYkdwTExUbmNUUjNWUURGQ3hyaEtxc2pRRFhMMEVIcUR5ZFNGU3VQZG9lZm5NTFFTM0R6U01iVHk3eC1CQXBXMUF3emozS05ydjFJOWFDTzZHcmxTNnd5RmxHaldMRVZBcw?oc=5)
+
+2026-05-24
+
+來源：[Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMie0FVX3lxTE11V1JfaTZyS3hweXBGX2FzREJfYkdwTExUbmNUUjNWUURGQ3hyaEtxc2pRRFhMMEVIcUR5ZFNGU3VQZG9lZm5NTFFTM0R6U01iVHk3eC1CQXBXMUF3emozS05ydjFJOWFDTzZHcmxTNnd5RmxHaldMRVZBcw?oc=5)
+
+---
+
+### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+
+2026-05-24
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
 
 ---
 
@@ -299,19 +315,19 @@ permalink: /news/cancer/
 
 ---
 
-### [Frog poison detox ‘claims first British victim’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
+### [“It felt like my world had ended” – girl dies just 15 days after brain tumour found - South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
 
 2026-05-24
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxObGF3amxZZm1SbG9nTmdqYWZQLTFQWlpSVkNtQzkxOW1BRF9FaTM2UkphRUtWSlBhYnk4VXBnMlFqTzZ3VWFwZG5VaEpLRnJuWGNrUGY2dlYtbFZ4NFBNaEdNTUZTcGdreTktS0Vra2MtUzRveVRRMXIwUVpZMlpTaEFzSDRlQXE1Q3BCdzB6Z3BGaEpLWGNxRTRYUXZ2OXFMb2hsVw?oc=5)
+來源：[South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
 
 ---
 
-### [Mum loses 'perfect child' just 15 days after first symptom and issues plea - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
+### [Loire. Affaibli par deux cancers et atteint de neuropathie, il devra attendre février 2027 pour connaître son diagnostic - Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
 
-2026-05-23
+2026-05-24
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBvd2swRkJYdDhCYTBLSGhUWUtfTWxYSFhaZXRMY19fekZSaXZqT3RFdFNJS0YtMFMxZWwzR0VsU1JJZVNOWElqN2RZclRxWmVveUI2Zmhsd3NoSUVJTjRwMTdVRjI0MEI0eXQtV0RQUi1tckFKZ1BMbUpEdV8wY3fSAYQBQVVfeXFMTWo2ZC0xVGxQTkdwcjBiLW1KWjYwMnR1b0JLcmhYV3BXSzhnUjZwdE9Na0dKdzhqdzRqLTljWE9SM3dxZ0UwUkNqMDQ1NkNhNnU5QXdrWlBRSW9UUENqY0J4M3YxOVM4Y0prTW1VcUVXVFFzMEd1aUktcHpaQnFFcF9PX3Ut?oc=5)
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXpYWi1nUEViLVRtQjhOdE9zUHVjOEZ4ZFZGNVktcWVuVHEyQzc4ZExRTnowd1JucHUtalNtRGZZMVlEM3l2WmVoczdzcFlIZnVOQWNwVnVmU2lCMFRZMm90RS0zR190MEJscWV5aGtZSktRWkxNRFZQTGpNMFZQTG0xV2NLelVkYm52c2cxWUZoUkV5LXBHYXJnVV9ZU1dzU0pNcU0tc3h4REk1UDVvbFhPTUVnai13NHBTekF2cjJNd1dkTlFndzhXV2J2YkxrelJSXw?oc=5)
 
 ---
 
