@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [KI-Atlas zu Adipositas und der Marktwechsel zu oralen GLP-1-Pillen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXhPb1RhTE1LVGJ2MmhkYjdzM3U3M19vb3Ezb2QzVk1TbkMwbkdGTnVBd1RMSl83TENQajlmd1Rzc0pjSG90clk2WUtpSmRrZ05kalFpNWZFZ0h2ZXB1d2RZRWluTXR3UkRwYmJtR1BNU01LNXRGMVVhUUxMeEpNRFJ2djVadDBCOEMzYWZMZEZybnZCNUdQOU5wUGFwRWs?oc=5)
 
@@ -51,14 +51,6 @@ permalink: /news/obesity/
 2026-05-23
 
 來源：[HuffPost Italia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkh2VC1lR0phZjZUcVkydlRScnRpOTRyUW1VSzBnMUExR3htTE5yTGo2ZE96ZjZjUUxlczVONnFYSXdsa2ppOTF3ZnY4eUtkcWZnTEtORkY1NjlQb3VNb19TdTlvM2Z4c0pvblBFOFJGV0N4d09tYXBjMnZiUEwwX1k5cmpnUFoyb1lodVVTZ1czYUZoSjlRSEJ5NjE5dWFtSWc1eDBzQUx1ZVg3MUFtTzFKamJXRXRMZng0?oc=5)
-
----
-
-### [Man, 23 stone, criticises rules after losing NHS funding for weight loss jabs - Wales Online](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWdfdEVyM0tNSGNBMk5xcEJyZk1aTW5VbGNZRmFNZGduaFo5ZEJ1Z25UOFpuSzE5NDBoTWRVUkZwZExKR0k2c0Z5eVRkTy1VaGxEOVBXdlVkXzNBNkE0RlJ6bE5pUVkyLXA3eExrbUF4YXNXZWZBWUFMWTk4M3F4Q9IBhgFBVV95cUxNWnBXSWpyV2lpMnM4cVNtTzVCRkl3cFkxaUh6QUJfSzdFZFBZYjJGbC03OXM0cjQ1eVVlR2NXbm16R1kxRkltRFU3SHF3ZU1RdllBREN2WTYyanAzSzFuczFfR2JWbElVSkFZV19pWE9oM24xd1lmbnpEenl5TFY1NDhIc1E3Zw?oc=5)
-
-2026-05-23
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWdfdEVyM0tNSGNBMk5xcEJyZk1aTW5VbGNZRmFNZGduaFo5ZEJ1Z25UOFpuSzE5NDBoTWRVUkZwZExKR0k2c0Z5eVRkTy1VaGxEOVBXdlVkXzNBNkE0RlJ6bE5pUVkyLXA3eExrbUF4YXNXZWZBWUFMWTk4M3F4Q9IBhgFBVV95cUxNWnBXSWpyV2lpMnM4cVNtTzVCRkl3cFkxaUh6QUJfSzdFZFBZYjJGbC03OXM0cjQ1eVVlR2NXbm16R1kxRkltRFU3SHF3ZU1RdllBREN2WTYyanAzSzFuczFfR2JWbElVSkFZV19pWE9oM24xd1lmbnpEenl5TFY1NDhIc1E3Zw?oc=5)
 
 ---
 

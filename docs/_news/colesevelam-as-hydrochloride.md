@@ -54,35 +54,35 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（4 則）
 
-### [Diabetes-Kongress: Lebensstil schlägt Gene bei chronischen Krankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
+### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
 
 ---
 
-### [Nächtliches Licht erhöht Risiko für Diabetes und Herzinfarkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
+### [Diabetes 2026: Darmprodukt TMAO verstärkt Muskelschwund um 54% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabetes</span>
+2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
-
----
-
-### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
-
-2026-05-24 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
 
 ---
 
-### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
+### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
-2026-05-23 <span class="news-indication-tag">maladie cardiaque</span>
+2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
+來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
+
+---
+
+### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
+
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
 ---
 

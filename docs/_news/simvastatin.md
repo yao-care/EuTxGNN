@@ -54,6 +54,14 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（5 則）
 
+### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+
+2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+
+---
+
 ### [Plötzlich steigender Blutdruck? Ab diesem Wert „Gefahr eines Schlaganfalls“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzFnLWRhRUNSbFRSVHU3TEo0S2lHS1ByUmw5bXFwV1JZU24tM0taajRoTG9WZ3p0Vi0waGM4T3lza1o1elNtbk5iWDJpWWZyR3gxNkNjYnQ5Uy1kdE5TNzRkSVI4RFI5aHcteTdUNllpdHBWQ0pONy1MYkVxZmFZR2pMNFpURS1HNEMzeWVDSDZ5U01KMk9SUVBaX295cnJrcnc0U25URTM4Ync3SWNjWVBxWFhOTHg4dm93aTJFUV9hUEN6Q0V5SWE1TV83RW9KRk50UjBQSnJBX2M?oc=5)
 
 2026-05-24 <span class="news-indication-tag">Schlaganfall</span>
@@ -83,14 +91,6 @@ permalink: /news/simvastatin/
 2026-05-24 <span class="news-indication-tag">ictus</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmh5OXdULTVOYkgtU3VqLWY3VDMzM0RCNkZ3MXd0OEQzaEgtcDhYRFVGZWtiaXg3U2pnYjExQk9Obnlac0ROLUU2YTJmMmlaX0JfM1I4d3QyREhlY3pQWUtMWEhzUUlXVmsxSUZmSjRienR2YlNrM1M5bHBnaXdoNkx0TlV2Q09jTnQyRm1tTzVZQXlFRC0weU16d1hOY0JvSkktUE1ra2k2eHRKUkYzVUl5MXZBTkEzcUFhY2VZbU9pWnljUi1uTg?oc=5)
-
----
-
-### [Omega-3-Mangel vermeiden: Dr. Riedl sagt, woran Sie gute Supplements erkennen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjl4RnBsU3hMSkZkZkZlbjdqMS1pdWRJSzNtOXdNTFFJczc0UzZtVDBKckNVLWVXc0oxMXpBbF9KdFJOaTdlSzlWNFQ2eEFMVk1fS0RDRzVDMi1uZ0pUblhIMlVpY2VEbGhjRGtvbDBQZ3ZCYjVLWldQNnJESVBrSHd5cWhXbnowWVJ0LWZ2Z0RJUGR2c0JsT3RKLUlWa3pVVDNjQjI2T3V0T2RWWE9zcTR0czBHanhsWnY4TnlVZ3UzTk9LNEJGaW84dEZsZWtoNGZ5LWJ1MzhZdGc?oc=5)
-
-2026-05-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjl4RnBsU3hMSkZkZkZlbjdqMS1pdWRJSzNtOXdNTFFJczc0UzZtVDBKckNVLWVXc0oxMXpBbF9KdFJOaTdlSzlWNFQ2eEFMVk1fS0RDRzVDMi1uZ0pUblhIMlVpY2VEbGhjRGtvbDBQZ3ZCYjVLWldQNnJESVBrSHd5cWhXbnowWVJ0LWZ2Z0RJUGR2c0JsT3RKLUlWa3pVVDNjQjI2T3V0T2RWWE9zcTR0czBHanhsWnY4TnlVZ3UzTk9LNEJGaW84dEZsZWtoNGZ5LWJ1MzhZdGc?oc=5)
 
 ---
 

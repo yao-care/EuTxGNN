@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
-2026-05-24 <span class="news-indication-tag">Herzerkrankung</span>
+2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/rimegepant/
 2026-05-24 <span class="news-indication-tag">Migräne</span>
 
 來源：[Beobachter](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
-
----
-
-### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
 ---
 

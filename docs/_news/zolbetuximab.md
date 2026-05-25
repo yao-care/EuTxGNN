@@ -14,7 +14,7 @@ permalink: /news/zolbetuximab/
 ---
 
 <p class="key-answer" data-question="Zolbetuximab 有什麼相關新聞？">
-<strong>Zolbetuximab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zolbetuximab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/zolbetuximab/
 <p><a href="{{ '/drugs/zolbetuximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Diabetes-Kongress: Lebensstil schlägt Gene bei chronischen Krankheiten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
+### [Diabetes-Kongress Berlin: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFFCU2cxOGpWT2NYOEJqMTc3UlBVeF81OVZMVnFxZGItcXRpTFNZLVNGajZIclQyZ3JJZ050bk1oX2M1QWdpY1R3S2lUa3FyRmtTNXdVLUQ5YWVyXzhOaHZzem5SdldDOWgwNmFFc0FPZGsyNm9LSzFuaEZSRTl1emgxaDFjNWdVYnN5RWp0NDVIWnQyRkhJQ3hjNHFjWXlCWV9vSHc5Q1VOZVFiUlIxUWFXNURhVlNvVFQw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVl5YXNtU043Sld2UmJ0dTdIM3pydHhfSWdEclZWWmZBSjZTV2h0T09VbFVXYzlwZVVvZzNNVWsyeUEwSlpiZmJUelotZ25aYzJOZUZtbDRQbTUyekl6ckhyM0FfYjBDM2RoM2FYeEpJNGFMVzl0Unlrcjd1SUNoWDZHaWdDaTdwS0hCXzRIblVydEU4UFpoWE03c2N6SENGRnM2eUg1VjBpbklXaTl0WkQ0WVpaZWNT?oc=5)
 
 ---
 
-### [Nächtliches Licht erhöht Risiko für Diabetes und Herzinfarkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
+### [Diabetes 2026: Darmprodukt TMAO verstärkt Muskelschwund um 54% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabetes</span>
+2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHcxZi1yd2pOZmhIZUVLYm9QVEg0Qzh6M2xXaW9QYlM5d01od1lKakJwbnAzbUZqLTVaRVo5amstLWhDeHIwTWNIU1IwY3hZYUVpLURMc1BvdzFYUzZOcUN6VkFGM2c0WjlkMk1XeXBBWkpPXzdtcTRFRl9Senc2M3BLd25mNllNU2xSdk0tdDB5cnJsZ3NHTkxhcWx5eFI2QTFrUk04SDBsUTZMQUNJejFB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
+
+---
+
+### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
+
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
 ---
 

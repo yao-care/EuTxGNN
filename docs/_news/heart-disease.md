@@ -3,7 +3,7 @@ layout: default
 title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,21 +85,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
-2026-05-24
+2026-05-25
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
-
----
-
-### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
-
-2026-05-23
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
+來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
 ---
 

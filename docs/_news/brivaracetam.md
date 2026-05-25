@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="Brivaracetam 有什麼相關新聞？">
-<strong>Brivaracetam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brivaracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,28 +45,20 @@ permalink: /news/brivaracetam/
 <li>Rett syndrome, congenital variant（98.8%）</li>
 <li>restless legs syndrome（98.1%）</li>
 <li>partial motor epilepsy（97.8%）</li>
-<li class="indication-matched">epilepsy（96.2%）<span class="indication-tag">📰 Epilepsie</span></li>
+<li class="indication-matched">epilepsy（96.2%）<span class="indication-tag">📰 epilepsia</span></li>
 <li>trigeminal nerve neoplasm（95.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [La historia de Renata: tiene epilepsia y pudo controlar sus ataques dejando de comer un tipo de alimento](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXpoNjlDWFVhZUNVdHI5NkJIS2tSOTljeDNYZ3JqcEFWQkVNOUk3THgwN1QzZTZ6VlVNeUxaam9DeW9HRkFpR1BsWUtoXzdKaENNZ1EtWVFsajdYZkxxRFVUMWVOMHVHcDJSazlBX0RwWUJaR0VlUm51U3g2RHRYTFRwdGxyeUF6a2trQUw1dk9CYmFiYkZOWThXWDBEYl9kaGhJd29ZU3ZRVzlUTGI4UHF5UWxrVl9jNVM2Zy1Sems3aEJP?oc=5)
 
 2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsia</span>
 
 來源：[Clarin.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXpoNjlDWFVhZUNVdHI5NkJIS2tSOTljeDNYZ3JqcEFWQkVNOUk3THgwN1QzZTZ6VlVNeUxaam9DeW9HRkFpR1BsWUtoXzdKaENNZ1EtWVFsajdYZkxxRFVUMWVOMHVHcDJSazlBX0RwWUJaR0VlUm51U3g2RHRYTFRwdGxyeUF6a2trQUw1dk9CYmFiYkZOWThXWDBEYl9kaGhJd29ZU3ZRVzlUTGI4UHF5UWxrVl9jNVM2Zy1Sems3aEJP?oc=5)
-
----
-
-### [Wissenschaft - Hoffnung für Patienten: Neue Ansätze bei Epilepsie](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRE5mS3oxODBjOGVLV01XRUdtbkVReTlwVWx4cVNGVGFzXzk0U0U4TE5qWXlOb1FPQjdlZ0hUYUotdXBqb3dRZjlBV2pLdVV6eGFVM2dIZm4zODFoLWNhOEFOU1FydEk4MzRCVW1BQTBfVjJEWEk5OXBRYlZZSFJObEJuVTVuYXVQdF9ka2NhSXczQ3dfbk5veTNYWEZBdWh0eUhTbEJaVWVfWEF4b3lnYXprdHNwbmlmS0trejhpZWpmNE9rS1VGdkdDOUtvTEo4VmFJb2dzcHo0aDA?oc=5)
-
-2026-05-23 <span class="news-indication-tag">Epilepsie</span> <span class="news-indication-tag">AF</span>
-
-來源：[radioeins](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRE5mS3oxODBjOGVLV01XRUdtbkVReTlwVWx4cVNGVGFzXzk0U0U4TE5qWXlOb1FPQjdlZ0hUYUotdXBqb3dRZjlBV2pLdVV6eGFVM2dIZm4zODFoLWNhOEFOU1FydEk4MzRCVW1BQTBfVjJEWEk5OXBRYlZZSFJObEJuVTVuYXVQdF9ka2NhSXczQ3dfbk5veTNYWEZBdWh0eUhTbEJaVWVfWEF4b3lnYXprdHNwbmlmS0trejhpZWpmNE9rS1VGdkdDOUtvTEo4VmFJb2dzcHo0aDA?oc=5)
 
 ---
 

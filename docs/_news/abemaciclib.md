@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 maladie cardiaque</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,13 +52,13 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
-2026-05-24 <span class="news-indication-tag">Herzerkrankung</span>
+2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
+來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/abemaciclib/
 2026-05-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
-
----
-
-### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
 
-### [Gehirngesundheit: So lässt sich Demenz-Risiko halbieren - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0REVFBSVHJCczdVWW1oTDQxNzNUakxDYVRhSFcxWjN1eF9pSmNMYUg4VWtWV05WYktXQ3p0QmRUZEFJZzVYODdNTFJTaUFIUWZnbUlBbnFXeE9HLWdJbEQtZzVza3c3b0pSREJoa0xKb05Sc0QtVGkyX2F5YnhUemM2S2M4M09vVmZDNTlZS0NCcDVvRkdDRmJtbFVzSzBpVFhlMWtXTQ?oc=5)
+### [El brote de ébola en RDC supera los 900 sospechosos según la OMS - Andalucía Información](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzlxd0NCODVLdzZHYTE5MkIxdHRkWDJoOHRRUGdmczRZMzQyYTgyTlpWLTRjX0dfQVdyMllZVGZ0QW5xOUp0TDhDbGNjTzVGUjRhenFhc1dZc2JpdVRCa0d2S3ZjTTRkc0xjMy1zYWJPSWMycXpFZEZDdEhGZ0hUYXMyRE03eW1PWnRxUkZsWlVJODJ0azZnR2czTVltei1JTUl1SkdVcFJKYktpcTc4SnVFbG9NU2NKQi03ctIBwgFBVV95cUxQdml2MjRDYk8walZ0SVI3UkxQeVlSVkdwTjMtSlRZNVBVeC1qazA3bVM4ckZ4anB4OHRLR0FYREZoM2VCWk9ZZTBPT0l1QWZRTHJjaWdnbUY5Q3ZWWjItdE56WnBTY2NPc2k3dUxiUnlfUDlLT2drSklyTXhpVXVCaHpDVGlIZGp4TDczOUVoSDVSbGh1amdWeGhUc1owSmx0a2xFdF9GaUFoNEJkSlhIR3I2dHQxTUFGR1NmaW5rRjZZdw?oc=5)
 
-2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-25 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0REVFBSVHJCczdVWW1oTDQxNzNUakxDYVRhSFcxWjN1eF9pSmNMYUg4VWtWV05WYktXQ3p0QmRUZEFJZzVYODdNTFJTaUFIUWZnbUlBbnFXeE9HLWdJbEQtZzVza3c3b0pSREJoa0xKb05Sc0QtVGkyX2F5YnhUemM2S2M4M09vVmZDNTlZS0NCcDVvRkdDRmJtbFVzSzBpVFhlMWtXTQ?oc=5)
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzlxd0NCODVLdzZHYTE5MkIxdHRkWDJoOHRRUGdmczRZMzQyYTgyTlpWLTRjX0dfQVdyMllZVGZ0QW5xOUp0TDhDbGNjTzVGUjRhenFhc1dZc2JpdVRCa0d2S3ZjTTRkc0xjMy1zYWJPSWMycXpFZEZDdEhGZ0hUYXMyRE03eW1PWnRxUkZsWlVJODJ0azZnR2czTVltei1JTUl1SkdVcFJKYktpcTc4SnVFbG9NU2NKQi03ctIBwgFBVV95cUxQdml2MjRDYk8walZ0SVI3UkxQeVlSVkdwTjMtSlRZNVBVeC1qazA3bVM4ckZ4anB4OHRLR0FYREZoM2VCWk9ZZTBPT0l1QWZRTHJjaWdnbUY5Q3ZWWjItdE56WnBTY2NPc2k3dUxiUnlfUDlLT2drSklyTXhpVXVCaHpDVGlIZGp4TDczOUVoSDVSbGh1amdWeGhUc1owSmx0a2xFdF9GaUFoNEJkSlhIR3I2dHQxTUFGR1NmaW5rRjZZdw?oc=5)
+
+---
+
+### [Demenz-Prävention: Lancet-Studie zeigt 50% Vermeidungsquote - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlkyQzdleW5EWU5pN29zM1pfcWN4Z2FnWjgxN1lGZVhKc01MX0RFTTNKcVB2VXBlMGtQYVRHcVhQa3M3cVFJaGJnN2lHM3VPbU1SNVVpR01PNnBPeFB1RHVOdjVaLWVQWUNLaDB5dW1ucjhPcXRFN0VKVmx1eWNrWmI1WWhTSFRWRmxiY0taYmt3UU16MURBaWdGcHRzSEM4ODQ1NDZHMHp6dktuYmZfbmZFd3pFQQ?oc=5)
+
+2026-05-25 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlkyQzdleW5EWU5pN29zM1pfcWN4Z2FnWjgxN1lGZVhKc01MX0RFTTNKcVB2VXBlMGtQYVRHcVhQa3M3cVFJaGJnN2lHM3VPbU1SNVVpR01PNnBPeFB1RHVOdjVaLWVQWUNLaDB5dW1ucjhPcXRFN0VKVmx1eWNrWmI1WWhTSFRWRmxiY0taYmt3UU16MURBaWdGcHRzSEM4ODQ1NDZHMHp6dktuYmZfbmZFd3pFQQ?oc=5)
+
+---
+
+### [GLP-1-Medikamente: Lebensretter mit Tücken – Was Ozempic & Co. wirklich leisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+
+2026-05-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJjX284SUhHUktOQzM2N09QemNOZjdTei1EZUlPdmFObVpyM2JfSnB1ZWtCRDVmOUg5ZEtyTGk4aXVKNzVMN19FZm1BY01nNnplMG5mVXkzQnBCbENZa2poeFdDbXI1UEhVOHpoaWxiVDJzMW1TTVdSZzFWNzBrLWU0b0NYZHlZWnFhYlpqUFhvdjBxQ3ZvMGdEVEEtUkhScVRCdGV0LWc4eXEtWU80?oc=5)
+
+---
+
+### [I’m still coming to terms with my bipolar diagnosis - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3BmbVBFdWE5aldiSVphdHpDUjBjY3hYckI4X0tUbTROOHluakdwOGRCV0pZZ08yVEh6R191eHhkLTdnNFZfdXdSRzhCdFE1NDdMWlRDdTRlLXREN0RYOVFhUmhnbHFuQ3U4bktsME1SaUZLS2ZVWXZscXl6b1lJaU9tNEFJTFhKUGlBNHNpZmhCSXZpU3NGZl81enhXdFNTLW5iUU51Z2lXY3JIZ3UzYVpDZXlGUzhPSzlzVi1wNnBSQi04c21xSmtKWEJLR2s?oc=5)
+
+2026-05-24 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3BmbVBFdWE5aldiSVphdHpDUjBjY3hYckI4X0tUbTROOHluakdwOGRCV0pZZ08yVEh6R191eHhkLTdnNFZfdXdSRzhCdFE1NDdMWlRDdTRlLXREN0RYOVFhUmhnbHFuQ3U4bktsME1SaUZLS2ZVWXZscXl6b1lJaU9tNEFJTFhKUGlBNHNpZmhCSXZpU3NGZl81enhXdFNTLW5iUU51Z2lXY3JIZ3UzYVpDZXlGUzhPSzlzVi1wNnBSQi04c21xSmtKWEJLR2s?oc=5)
 
 ---
 
@@ -70,14 +94,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Bangladesch leidet unter Masern-Epidemie bei Kindern - BRF Nachrichten](https://news.google.com/rss/articles/CBMiTkFVX3lxTE85OVliWENqZVV1V3V5ZWM3N2Yzbk44WVIzZEFKbWMxdEpFU2szZTdSbWJIZnFwS2hQRVhrbEdsMzNrUG11TmYxSndiRkxBUQ?oc=5)
-
-2026-05-24 <span class="news-indication-tag">MS</span>
-
-來源：[BRF Nachrichten](https://news.google.com/rss/articles/CBMiTkFVX3lxTE85OVliWENqZVV1V3V5ZWM3N2Yzbk44WVIzZEFKbWMxdEpFU2szZTdSbWJIZnFwS2hQRVhrbEdsMzNrUG11TmYxSndiRkxBUQ?oc=5)
-
----
-
 ### [“Contro Ebola ci mancano i test”. La testimonianza di Msf da Goma. Bruciate due tende per i malati - la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2lVbkxHMnltNkpmYktyV0h3cC13d0RfMkVoZXpFZ3BTR0tnUnRhcFpyY3FCZk51WWFtN2pQdFlla0cwWjdhMlpkclpfWmg5d2dRYkF3NGtsQk5OSUhzSGtYUHhlMkpPX19STnhoaHRhdW1mV1VQUzJZWlpnYU1FRGE3Rm5EUDA0ZGNOYnpwaXA3LWhNbllpSnVEbXh2N0RyTjk1OGhSSE1adzdZMUlobGpWOUJES1MyalHSAb8BQVVfeXFMTkpZMjBvZUFqRXhqckpiQVVwdnk2c3R5LUFZTGdod1JjVk4wY3hGZW9HTG9ZMUdRYno0Z3dhUHQ1N0F1WWF2dHhuUTNORDV1aFhBbFZfOHdhRWsxbFZuNUFNTzN2Z3RxS3lFUTJpQjFaUHl4aG9oaTRlNzctemtjZTBfQXViejdhd3c0ajI2UDdpcVNXX21CUlVnWTAtX2VkV1FDRGdKWTJwVzZVR0x1RFZQTDFOek9SMjYtVm5YM2M?oc=5)
 
 2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -86,19 +102,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
+### [Drug made from poisonous frog's skin ‘claims first British victim’ in 'detox' ceremony](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTN1MHBaV2dKZGpuTUw4MkVIYVFxNE5FNkhHTkZyNEVTUXdkckFZOVlCWkF4dDlzX1ZfTENvclF3T1AxNDZEbjdIV2h2WXNickFGWkNwN2V0VWVySWFnSTNIeF9fc0c1WS1TeDdGZmduMGdIZWpmSW9fOU1VU0VIX1lheFZNTWRFOHV6WnBzNWRwWk1XLXZlcWZSaFJtXzIyRkpQMlZfcmhpME9kT1p2VlRLa25vcWs1em41Mw?oc=5)
 
-2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
-
----
-
-### [Columbia-Studie: Diese Schlafdauer lässt dich und deine Organe am langsamsten altern](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzlHMktzVENQeTh4NjBqWFVSWElseHdITDNucGFoOUZpbTZ1V2lDMlkxS1pmMzBpYXhMdHQ1TFBNengxWllkT3E2TjgzSWl3dGJnOHc1R0tLRnZNN2lCOEw2R1EtLWlrMC1wN2VseUotckFteFZFUXFTcUxpRUVmRWtndXQ3NVFWRXlHSnZOOE8?oc=5)
-
-2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[t3n](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzlHMktzVENQeTh4NjBqWFVSWElseHdITDNucGFoOUZpbTZ1V2lDMlkxS1pmMzBpYXhMdHQ1TFBNengxWllkT3E2TjgzSWl3dGJnOHc1R0tLRnZNN2lCOEw2R1EtLWlrMC1wN2VseUotckFteFZFUXFTcUxpRUVmRWtndXQ3NVFWRXlHSnZOOE8?oc=5)
+來源：[lbc.co.uk](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTN1MHBaV2dKZGpuTUw4MkVIYVFxNE5FNkhHTkZyNEVTUXdkckFZOVlCWkF4dDlzX1ZfTENvclF3T1AxNDZEbjdIV2h2WXNickFGWkNwN2V0VWVySWFnSTNIeF9fc0c1WS1TeDdGZmduMGdIZWpmSW9fOU1VU0VIX1lheFZNTWRFOHV6WnBzNWRwWk1XLXZlcWZSaFJtXzIyRkpQMlZfcmhpME9kT1p2VlRLa25vcWs1em41Mw?oc=5)
 
 ---
 
@@ -115,6 +123,14 @@ permalink: /news/velpatasvir/
 2026-05-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsia</span>
 
 來源：[Clarin.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXpoNjlDWFVhZUNVdHI5NkJIS2tSOTljeDNYZ3JqcEFWQkVNOUk3THgwN1QzZTZ6VlVNeUxaam9DeW9HRkFpR1BsWUtoXzdKaENNZ1EtWVFsajdYZkxxRFVUMWVOMHVHcDJSazlBX0RwWUJaR0VlUm51U3g2RHRYTFRwdGxyeUF6a2trQUw1dk9CYmFiYkZOWThXWDBEYl9kaGhJd29ZU3ZRVzlUTGI4UHF5UWxrVl9jNVM2Zy1Sems3aEJP?oc=5)
+
+---
+
+### [Minutos de ejercicio semanal para proteger la salud cardiovascular](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2FHb1JaR1VJODI4a0ItSmxYLUd2Yzk0MkR6Y0tVcVZlZkNVa3RmQ0dTZDRFd0RPV3d1VzVhT29TTGhPSXZibU1nTFotTjhxSHlyY3JobzkxSjZVY1cxa3hGbk53UFR1Uk1fVm0yWURZRW1aWDFJUkhvaDFhUHVWNGNWQTF2N01ocHkzd1ptSDE2OU8xaUtvSVRn?oc=5)
+
+2026-05-24 <span class="news-indication-tag">MS</span>
+
+來源：[EFESalud](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2FHb1JaR1VJODI4a0ItSmxYLUd2Yzk0MkR6Y0tVcVZlZkNVa3RmQ0dTZDRFd0RPV3d1VzVhT29TTGhPSXZibU1nTFotTjhxSHlyY3JobzkxSjZVY1cxa3hGbk53UFR1Uk1fVm0yWURZRW1aWDFJUkhvaDFhUHVWNGNWQTF2N01ocHkzd1ptSDE2OU8xaUtvSVRn?oc=5)
 
 ---
 
@@ -139,14 +155,6 @@ permalink: /news/velpatasvir/
 2026-05-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[South Wales Argus](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWhqTXZ0cEVMcEt3Q2NOWVpxU1BUaFkwbkNjYVloaWp6Q0E0c09mVE1zbHJSUWpwMTR2Qk91ekdrSFZWOTRhZzVMRWpmRk9RVWd2ckdxNEdwem5ZU2FsS25mdWdVOTdYczNEM1V1eTZ0NWxUTGtVdmU4bkxSY053LWQ1TmhZWTVUWW1XQVcxdHBmR2c3TjdVUk41bndQel9TZEE?oc=5)
-
----
-
-### [Jusqu’à 35°C ce week-end: les conseils pour se protéger du soleil dès ces premières fortes chaleurs](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
-
-2026-05-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BFM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1ZXbUJiMlhCdkozaGZ6bHJVTnBpSXdyYmI4ZDczdU5ERkVaZHQyaGhFeVFoaWtLdzlCckpQc3RoeVZkRGNKcDdlQ285UklmRzZ2RGVlQy1GcUVhQ0VUWjA5c25vVjNMRDV0T2ZhcDd2RTEwUkdXZlo1b2YyMERqd29ZclNoUVhMY1ByaWVLQjViWE02UTd1V2x1WEN1aTEzcFVuZ0JJbno3T1RCRWFxWE0ya1A1NUlDNVVXY1RmMzA2UDFhbWR3TG5USnVkUWNabm5RWElsNHF3VUNLcm1VYg?oc=5)
 
 ---
 

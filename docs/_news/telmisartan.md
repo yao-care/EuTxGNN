@@ -54,6 +54,30 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（9 則）
 
+### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
+
+2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
+
+---
+
+### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
+
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
+
+---
+
+### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+
+2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+
+---
+
 ### [Große Studie zeigt, wie fatal alltägliche Lebensmittel wirklich werden können - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
 
 2026-05-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
@@ -78,14 +102,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
-
-2026-05-24 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
-
----
-
 ### [Stroke test at new clinic 'will save lives'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
 
 2026-05-24 <span class="news-indication-tag">stroke</span>
@@ -107,22 +123,6 @@ permalink: /news/telmisartan/
 2026-05-24 <span class="news-indication-tag">ictus</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmh5OXdULTVOYkgtU3VqLWY3VDMzM0RCNkZ3MXd0OEQzaEgtcDhYRFVGZWtiaXg3U2pnYjExQk9Obnlac0ROLUU2YTJmMmlaX0JfM1I4d3QyREhlY3pQWUtMWEhzUUlXVmsxSUZmSjRienR2YlNrM1M5bHBnaXdoNkx0TlV2Q09jTnQyRm1tTzVZQXlFRC0weU16d1hOY0JvSkktUE1ra2k2eHRKUkYzVUl5MXZBTkEzcUFhY2VZbU9pWnljUi1uTg?oc=5)
-
----
-
-### [Omega-3-Mangel vermeiden: Dr. Riedl sagt, woran Sie gute Supplements erkennen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjl4RnBsU3hMSkZkZkZlbjdqMS1pdWRJSzNtOXdNTFFJczc0UzZtVDBKckNVLWVXc0oxMXpBbF9KdFJOaTdlSzlWNFQ2eEFMVk1fS0RDRzVDMi1uZ0pUblhIMlVpY2VEbGhjRGtvbDBQZ3ZCYjVLWldQNnJESVBrSHd5cWhXbnowWVJ0LWZ2Z0RJUGR2c0JsT3RKLUlWa3pVVDNjQjI2T3V0T2RWWE9zcTR0czBHanhsWnY4TnlVZ3UzTk9LNEJGaW84dEZsZWtoNGZ5LWJ1MzhZdGc?oc=5)
-
-2026-05-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjl4RnBsU3hMSkZkZkZlbjdqMS1pdWRJSzNtOXdNTFFJczc0UzZtVDBKckNVLWVXc0oxMXpBbF9KdFJOaTdlSzlWNFQ2eEFMVk1fS0RDRzVDMi1uZ0pUblhIMlVpY2VEbGhjRGtvbDBQZ3ZCYjVLWldQNnJESVBrSHd5cWhXbnowWVJ0LWZ2Z0RJUGR2c0JsT3RKLUlWa3pVVDNjQjI2T3V0T2RWWE9zcTR0czBHanhsWnY4TnlVZ3UzTk9LNEJGaW84dEZsZWtoNGZ5LWJ1MzhZdGc?oc=5)
-
----
-
-### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+
+2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+
+---
 
 ### [Plötzlich steigender Blutdruck? Ab diesem Wert „Gefahr eines Schlaganfalls“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzFnLWRhRUNSbFRSVHU3TEo0S2lHS1ByUmw5bXFwV1JZU24tM0taajRoTG9WZ3p0Vi0waGM4T3lza1o1elNtbk5iWDJpWWZyR3gxNkNjYnQ5Uy1kdE5TNzRkSVI4RFI5aHcteTdUNllpdHBWQ0pONy1MYkVxZmFZR2pMNFpURS1HNEMzeWVDSDZ5U01KMk9SUVBaX295cnJrcnc0U25URTM4Ync3SWNjWVBxWFhOTHg4dm93aTJFUV9hUEN6Q0V5SWE1TV83RW9KRk50UjBQSnJBX2M?oc=5)
 
@@ -99,22 +107,6 @@ permalink: /news/orlistat/
 2026-05-23 <span class="news-indication-tag">obesità</span>
 
 來源：[HuffPost Italia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkh2VC1lR0phZjZUcVkydlRScnRpOTRyUW1VSzBnMUExR3htTE5yTGo2ZE96ZjZjUUxlczVONnFYSXdsa2ppOTF3ZnY4eUtkcWZnTEtORkY1NjlQb3VNb19TdTlvM2Z4c0pvblBFOFJGV0N4d09tYXBjMnZiUEwwX1k5cmpnUFoyb1lodVVTZ1czYUZoSjlRSEJ5NjE5dWFtSWc1eDBzQUx1ZVg3MUFtTzFKamJXRXRMZng0?oc=5)
-
----
-
-### [Omega-3-Mangel vermeiden: Dr. Riedl sagt, woran Sie gute Supplements erkennen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjl4RnBsU3hMSkZkZkZlbjdqMS1pdWRJSzNtOXdNTFFJczc0UzZtVDBKckNVLWVXc0oxMXpBbF9KdFJOaTdlSzlWNFQ2eEFMVk1fS0RDRzVDMi1uZ0pUblhIMlVpY2VEbGhjRGtvbDBQZ3ZCYjVLWldQNnJESVBrSHd5cWhXbnowWVJ0LWZ2Z0RJUGR2c0JsT3RKLUlWa3pVVDNjQjI2T3V0T2RWWE9zcTR0czBHanhsWnY4TnlVZ3UzTk9LNEJGaW84dEZsZWtoNGZ5LWJ1MzhZdGc?oc=5)
-
-2026-05-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjl4RnBsU3hMSkZkZkZlbjdqMS1pdWRJSzNtOXdNTFFJczc0UzZtVDBKckNVLWVXc0oxMXpBbF9KdFJOaTdlSzlWNFQ2eEFMVk1fS0RDRzVDMi1uZ0pUblhIMlVpY2VEbGhjRGtvbDBQZ3ZCYjVLWldQNnJESVBrSHd5cWhXbnowWVJ0LWZ2Z0RJUGR2c0JsT3RKLUlWa3pVVDNjQjI2T3V0T2RWWE9zcTR0czBHanhsWnY4TnlVZ3UzTk9LNEJGaW84dEZsZWtoNGZ5LWJ1MzhZdGc?oc=5)
-
----
-
-### [Man, 23 stone, criticises rules after losing NHS funding for weight loss jabs - Wales Online](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWdfdEVyM0tNSGNBMk5xcEJyZk1aTW5VbGNZRmFNZGduaFo5ZEJ1Z25UOFpuSzE5NDBoTWRVUkZwZExKR0k2c0Z5eVRkTy1VaGxEOVBXdlVkXzNBNkE0RlJ6bE5pUVkyLXA3eExrbUF4YXNXZWZBWUFMWTk4M3F4Q9IBhgFBVV95cUxNWnBXSWpyV2lpMnM4cVNtTzVCRkl3cFkxaUh6QUJfSzdFZFBZYjJGbC03OXM0cjQ1eVVlR2NXbm16R1kxRkltRFU3SHF3ZU1RdllBREN2WTYyanAzSzFuczFfR2JWbElVSkFZV19pWE9oM24xd1lmbnpEenl5TFY1NDhIc1E3Zw?oc=5)
-
-2026-05-23 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWdfdEVyM0tNSGNBMk5xcEJyZk1aTW5VbGNZRmFNZGduaFo5ZEJ1Z25UOFpuSzE5NDBoTWRVUkZwZExKR0k2c0Z5eVRkTy1VaGxEOVBXdlVkXzNBNkE0RlJ6bE5pUVkyLXA3eExrbUF4YXNXZWZBWUFMWTk4M3F4Q9IBhgFBVV95cUxNWnBXSWpyV2lpMnM4cVNtTzVCRkl3cFkxaUh6QUJfSzdFZFBZYjJGbC03OXM0cjQ1eVVlR2NXbm16R1kxRkltRFU3SHF3ZU1RdllBREN2WTYyanAzSzFuczFfR2JWbElVSkFZV19pWE9oM24xd1lmbnpEenl5TFY1NDhIc1E3Zw?oc=5)
 
 ---
 

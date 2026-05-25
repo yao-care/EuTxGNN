@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Parkinson va frapper 25 millions de familles d’ici 2050 : une faille scientifique bouleversée par la découverte d’un gène clé](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWkNjaVJzX2xyMllZWVZoMUVCUW84Rm1DUmVNbnVmTEFuU0FzVkNwbVZnTGJTM3d3VmE3bkxVcTdoOHBYXzVBZk1FTGQ1R3puSVdoOTJtUEFSX21xa2xvd1NJWWxZQjhlNDJaTjk0QnFsWkhmVFdoLXdqcDJ6aXdMQ09DNUZKWXFaTXY0dHlRaUw4aTR4d3BHMU1oS0J4bzlkbFRyMjNtQUpGT1lIQ0FLb0dINjR2SF9oQVdISVMxWHpwZE5MZ09Eem1oSUtySnBuTUtFYVc5d3VzeTQ?oc=5)
 
 2026-05-24 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[MyJugaad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWkNjaVJzX2xyMllZWVZoMUVCUW84Rm1DUmVNbnVmTEFuU0FzVkNwbVZnTGJTM3d3VmE3bkxVcTdoOHBYXzVBZk1FTGQ1R3puSVdoOTJtUEFSX21xa2xvd1NJWWxZQjhlNDJaTjk0QnFsWkhmVFdoLXdqcDJ6aXdMQ09DNUZKWXFaTXY0dHlRaUw4aTR4d3BHMU1oS0J4bzlkbFRyMjNtQUpGT1lIQ0FLb0dINjR2SF9oQVdISVMxWHpwZE5MZ09Eem1oSUtySnBuTUtFYVc5d3VzeTQ?oc=5)
-
----
-
-### [Award for late teacher's fight against Alzheimer's](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaVFOTFNyVlZSUnRNU3g5Mkc5M3VQQ21GZEs2c0hFYU4xdVZZcXJRSk9raFFKVWVQTi1GVFlISVhNNUpuSWVRZXBRQmY3TlNxeTk3YTA3bXQwSmst?oc=5)
-
-2026-05-23 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DaVFOTFNyVlZSUnRNU3g5Mkc5M3VQQ21GZEs2c0hFYU4xdVZZcXJRSk9raFFKVWVQTi1GVFlISVhNNUpuSWVRZXBRQmY3TlNxeTk3YTA3bXQwSmst?oc=5)
-
----
-
-### [Not sleep or exercise - this daily breakfast habit may lower dementia risk by 35%, new study says - Woman & Home](https://news.google.com/rss/articles/CBMipwFBVV95cUxQODVYc2V5eUQtSmE3b04zdTR5U2RZUFQtRVN0Zl82YUdjeVgycWN2MFFDRUowUHBzbzZMUHkzbDI2aF9PQktLTm40QlFSUVhJWUJaQ3pxS0wteWZmWnBqRF9oRzV4Z2M5YV9HSTdEbnBSWDA1OHZhU1FDbUdFZEQwcW1MaWtTSjdMMzIxOFhWNU5UcTNkSDFhLWd0LXdwdnRTTlFzQ3Z3SQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">dementia</span>
-
-來源：[Woman & Home](https://news.google.com/rss/articles/CBMipwFBVV95cUxQODVYc2V5eUQtSmE3b04zdTR5U2RZUFQtRVN0Zl82YUdjeVgycWN2MFFDRUowUHBzbzZMUHkzbDI2aF9PQktLTm40QlFSUVhJWUJaQ3pxS0wteWZmWnBqRF9oRzV4Z2M5YV9HSTdEbnBSWDA1OHZhU1FDbUdFZEQwcW1MaWtTSjdMMzIxOFhWNU5UcTNkSDFhLWd0LXdwdnRTTlFzQ3Z3SQ?oc=5)
 
 ---
 

@@ -54,19 +54,27 @@ permalink: /news/parecoxib-sodium/
 
 ## 相關新聞（6 則）
 
+### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
+
+2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
+
+---
+
+### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
+
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
+
+---
+
 ### [Große Studie zeigt, wie fatal alltägliche Lebensmittel wirklich werden können - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
 
 2026-05-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
-
----
-
-### [Neue Ära in der Stoffwechselmedizin: Von PCOS bis Retatrutid - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
-
-2026-05-24 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1g0UjBzd1FEVDlwaUlOeWJ1SEp4aF94V1FUUnJYR2t3NERwbEJRS3pLYmUxMWlFZ0d2bjBEUU02NlV0M2RaZ05RWUota3I0Z251QTN4RWQ0RmxyOHRIR3NnWGRURHRROXJxcGt2VEVNbHNUN0d6cjJsQWtnRnZwdXF5NElnakZ6dXZKTXc2cTBSRERMMUJCcEVOM2J5TldTaFZUNHN0WlNZTGZIYWc?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/parecoxib-sodium/
 2026-05-24 <span class="news-indication-tag">Migräne</span>
 
 來源：[Beobachter](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
-
----
-
-### [Maladie cardiaque génétique : le danger du silence face aux premiers symptômes - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
-
-2026-05-23 <span class="news-indication-tag">maladie cardiaque</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGRUT2hlSnFlemN4N0R6NFpKUmtoUFh3NjNNZWxoSGMtSkVTTU9fUUpkOGE2NkFGaVBIclYzcldXSjZYQ2xkcnRKdzNHa01ERmkxa01NUmpOTUpsUGh5WDdlV2FuYUZfai0yOUROUEpSbHF5Z1lMNzl1d3JtWElYY1NQUHJuWGs2b1I1WlE2U0piM1dEd29RSjFqcGFRYVlPZUJhQjlMSHM4SmExTXdycEpSVmlxQXk2eGUxajM2aWJXUQ?oc=5)
 
 ---
 
