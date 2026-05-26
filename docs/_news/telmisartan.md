@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
+
+2026-05-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
+
+---
+
+### [My 16 hours in A&E hell with suspected stroke symptoms - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
+
+---
+
+### [Heart Failure: Vorhofflimmern bei Herzinsuffizienz – Welche Rolle spielen Medikamente? - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+2026-05-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+---
+
+### [Heart Failure: Entzündung bei Kardiomyopathien – Neue Targets jenseits der Immunsuppression - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">heart failure</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
+
+---
 
 ### [Blutgruppe A erhöht Risiko für frühen Schlaganfall: Genstudie im Detail - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeS1kV0w0bDhyTkJ3M0JjOW1Pckx3b2dQdWljZmFZdmhXR1hWRDVkVUZUTVlLNDFHUkZqTHpLNmhzeXluUHNuVzByV3BaYlBQU3hValJpUFFDYkhxNWdRVlhiUzVteUExcFI3Ny1XX1cwU3pXTTRSd09icVNWYU5SX0F2YXBMbkZIemhMYS1vWWJXSE5mbzdkZGFDZnNsb0YwRmxoZnRXUHA?oc=5)
 
@@ -86,19 +118,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+### [Teenage schoolgirl, 14, left paralysed from the neck down after simply getting the flu - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
 
 2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
-
----
-
-### [Große Studie zeigt, wie fatal alltägliche Lebensmittel wirklich werden können - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
-
-2026-05-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
 
 ---
 
@@ -115,22 +139,6 @@ permalink: /news/telmisartan/
 2026-05-24 <span class="news-indication-tag">ictus</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEM0emJsc1dLcjlSNUgydzRSaTNlclUtM0Q5VlBYbi1NZ25xMFZzc3BnQmFEWjR1YTFSQ2RQclFCYTc4aGJ4SVo5ZmdENmw3NVRSTnlqWkRPMUJpSzhHenFxU2pzTjlsOHNNa3dSNF8taE1uTEo3OG5kTC1wSlk1d0pPanpjUjBQRUxVUjZ2VmZKSnRzb294Q3Q5dDRfbG12UTRlaVRpdjVfNldLWUloYm1XdEpGZFJiWWVlOTJzdjNXVWNQWk5WdS1pendoREJndHROOUNlN1BaZV9TbXE4WTdRS2Jhb3JfT1ZR0gHEAUFVX3lxTE9rTTlhVm5WbGJicW0wOGVBWEtWRF9wbkMzblFJWlExdVhOd0dLSUpSd2tHUlQ0ajdFWG82QkY1dllCcndQTjYzSjZqcXhHWllyT1hCZ01wVi1VQjNEaGpDZnEyUVNBdllCMUpGWnE3cFlsUEFRR00wQ0hmSnFmeFFiNjd1NnBWMHJ1WjlHMkFHRU04S3B4dDlZdUJIMjRpQXFIcl8wNFh6aXZXYkFXUlpQOWZ2Q19jYnF5aV9FUGZ3VFl2OE4?oc=5)
-
----
-
-### [Stroke test at new clinic 'will save lives'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
-
-2026-05-24 <span class="news-indication-tag">stroke</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
-
----
-
-### [Traitement de l’hypertension : matin ou soir, quel est le meilleur moment selon la science ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZk1SSWhIVXZfOHNJdlBtVFJjVE1jdEpFd3hjbFdhVU5fQzJrZHh6MW9ldkdkbHRNQkd6RTUyLTBsX2dkc3lIQ0EtenVTdlZ6ZTRlYVNINmU1ZlNuZUw5SzZJeHkzc3U0REh6TzRDT0l1WXlWMHJheWJtZ0dXN21hbmdRclpDY0swSnJHNVdfdGlfQkVjdERLVU95VEdSQjJsMlRxY1FzTy1KOUxTcUhtOFdwZWR0WWhlS3A3RjRzc1hKNkV6MnN2QW54UGg0ejEwbTRIUEtObmZSRnVxM3dKdlZ3cFNxNEdkNHZOWjlQR0d3dw?oc=5)
-
-2026-05-24 <span class="news-indication-tag">hypertension</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZk1SSWhIVXZfOHNJdlBtVFJjVE1jdEpFd3hjbFdhVU5fQzJrZHh6MW9ldkdkbHRNQkd6RTUyLTBsX2dkc3lIQ0EtenVTdlZ6ZTRlYVNINmU1ZlNuZUw5SzZJeHkzc3U0REh6TzRDT0l1WXlWMHJheWJtZ0dXN21hbmdRclpDY0swSnJHNVdfdGlfQkVjdERLVU95VEdSQjJsMlRxY1FzTy1KOUxTcUhtOFdwZWR0WWhlS3A3RjRzc1hKNkV6MnN2QW54UGg0ejEwbTRIUEtObmZSRnVxM3dKdlZ3cFNxNEdkNHZOWjlQR0d3dw?oc=5)
 
 ---
 

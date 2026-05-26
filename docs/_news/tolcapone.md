@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### ['Dementia is such a cruel disease - I created something to give back some dignity'](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUG1wempmcTVZYUhSZWRiRl9CTXY4WEpraDljMG85dWduNmJVOXlfdmhPZG5WaHB5MzdnUEVjejNBa0F1VG9CQjRwUW16RDBTRHRPbjlaeEdlSDktbkdTMHVhRmpBQ3ZEeTI0T0dESGlRckdNNVNBM01mSWVWTDY1U1l6X0FyVEFXemthZ0JCbFprTXRqVjI5c1FiZFJGZTFWV19Z0gGoAUFVX3lxTE1EMzJrYjNsaTc0dmMzOXVzVDJ3NlhKNXJ4Y1lOWnhIMW13NjYxcDJrTng4VDdweVl1OUZUbmE2R0JLaHl4NU5Ub25nRXljX01sbnhlMHpFak1ZUFB2LVliRE5ZTFN4Mk53T1hod2g0Qm80cE1WeWRBNVFYUVJIUE95bnRfOHlqNzVPanN6eEpOX3FfQi1XVUo3enZlcEFoMGk2dlZuX2JqYQ?oc=5)
+
+2026-05-26 <span class="news-indication-tag">dementia</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUG1wempmcTVZYUhSZWRiRl9CTXY4WEpraDljMG85dWduNmJVOXlfdmhPZG5WaHB5MzdnUEVjejNBa0F1VG9CQjRwUW16RDBTRHRPbjlaeEdlSDktbkdTMHVhRmpBQ3ZEeTI0T0dESGlRckdNNVNBM01mSWVWTDY1U1l6X0FyVEFXemthZ0JCbFprTXRqVjI5c1FiZFJGZTFWV19Z0gGoAUFVX3lxTE1EMzJrYjNsaTc0dmMzOXVzVDJ3NlhKNXJ4Y1lOWnhIMW13NjYxcDJrTng4VDdweVl1OUZUbmE2R0JLaHl4NU5Ub25nRXljX01sbnhlMHpFak1ZUFB2LVliRE5ZTFN4Mk53T1hod2g0Qm80cE1WeWRBNVFYUVJIUE95bnRfOHlqNzVPanN6eEpOX3FfQi1XVUo3enZlcEFoMGk2dlZuX2JqYQ?oc=5)
+
+---
+
+### [Alzheimer : ces deux signes subtils qui indiquent que la maladie peut apparaître dès 45 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ19RVTdSMFJhcGZXcEFQNTZsSjhDMjk5TXNERElxcU82U19uclpMMm1ObGZNV3AxWl8xS2pwM2dNS3pIRzN3eHhLVVFucTFxeGJfMGpYeFZhQ3J6eGF2d2l5MUlYY0lZZzBkajQ4Y0RWMHRWUFVDQlQ3N0hiLTFpZnZqaVhkWFpZY0dVTHFXczJqbjIya0tCdFBhMUtVWUtPZFRpWU16dEMwZ3lEVFNIbW13RVNOVDFlY1BacNIBwgFBVV95cUxOcW0yZmV2UVViMnQ0anpnVXM3N0NkREd0a2FTamw5RkVDeGVpc1RROTFFQzVLZVlESFRCTklwdjJQTlJWdURDcFF2OFhlRW1xTHlaX25aOW9iU0dibEpkeS1vVFBQTFZUNUNSNEJYUTZEbW5DNDVlQU5DY3plYzlpQ1doZm1fR25HZUpWQVFfRTF5UVUySjRCb043akp5em9DblhkSW90aGVmbWRzNUpQanhqZUdKQWN4QUhsYzYwQnVSUQ?oc=5)
+
+2026-05-25 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ19RVTdSMFJhcGZXcEFQNTZsSjhDMjk5TXNERElxcU82U19uclpMMm1ObGZNV3AxWl8xS2pwM2dNS3pIRzN3eHhLVVFucTFxeGJfMGpYeFZhQ3J6eGF2d2l5MUlYY0lZZzBkajQ4Y0RWMHRWUFVDQlQ3N0hiLTFpZnZqaVhkWFpZY0dVTHFXczJqbjIya0tCdFBhMUtVWUtPZFRpWU16dEMwZ3lEVFNIbW13RVNOVDFlY1BacNIBwgFBVV95cUxOcW0yZmV2UVViMnQ0anpnVXM3N0NkREd0a2FTamw5RkVDeGVpc1RROTFFQzVLZVlESFRCTklwdjJQTlJWdURDcFF2OFhlRW1xTHlaX25aOW9iU0dibEpkeS1vVFBQTFZUNUNSNEJYUTZEbW5DNDVlQU5DY3plYzlpQ1doZm1fR25HZUpWQVFfRTF5UVUySjRCb043akp5em9DblhkSW90aGVmbWRzNUpQanhqZUdKQWN4QUhsYzYwQnVSUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

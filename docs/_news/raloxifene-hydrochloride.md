@@ -54,6 +54,14 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（5 則）
 
+### [My 16 hours in A&E hell with suspected stroke symptoms - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
+
+---
+
 ### [Blutgruppe A erhöht Risiko für frühen Schlaganfall: Genstudie im Detail - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeS1kV0w0bDhyTkJ3M0JjOW1Pckx3b2dQdWljZmFZdmhXR1hWRDVkVUZUTVlLNDFHUkZqTHpLNmhzeXluUHNuVzByV3BaYlBQU3hValJpUFFDYkhxNWdRVlhiUzVteUExcFI3Ny1XX1cwU3pXTTRSd09icVNWYU5SX0F2YXBMbkZIemhMYS1vWWJXSE5mbzdkZGFDZnNsb0YwRmxoZnRXUHA?oc=5)
 
 2026-05-25 <span class="news-indication-tag">Schlaganfall</span>
@@ -62,11 +70,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+### [Teenage schoolgirl, 14, left paralysed from the neck down after simply getting the flu - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
 
 2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-05-24 <span class="news-indication-tag">ictus</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEM0emJsc1dLcjlSNUgydzRSaTNlclUtM0Q5VlBYbi1NZ25xMFZzc3BnQmFEWjR1YTFSQ2RQclFCYTc4aGJ4SVo5ZmdENmw3NVRSTnlqWkRPMUJpSzhHenFxU2pzTjlsOHNNa3dSNF8taE1uTEo3OG5kTC1wSlk1d0pPanpjUjBQRUxVUjZ2VmZKSnRzb294Q3Q5dDRfbG12UTRlaVRpdjVfNldLWUloYm1XdEpGZFJiWWVlOTJzdjNXVWNQWk5WdS1pendoREJndHROOUNlN1BaZV9TbXE4WTdRS2Jhb3JfT1ZR0gHEAUFVX3lxTE9rTTlhVm5WbGJicW0wOGVBWEtWRF9wbkMzblFJWlExdVhOd0dLSUpSd2tHUlQ0ajdFWG82QkY1dllCcndQTjYzSjZqcXhHWllyT1hCZ01wVi1VQjNEaGpDZnEyUVNBdllCMUpGWnE3cFlsUEFRR00wQ0hmSnFmeFFiNjd1NnBWMHJ1WjlHMkFHRU04S3B4dDlZdUJIMjRpQXFIcl8wNFh6aXZXYkFXUlpQOWZ2Q19jYnF5aV9FUGZ3VFl2OE4?oc=5)
-
----
-
-### [Stroke test at new clinic 'will save lives'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
-
-2026-05-24 <span class="news-indication-tag">stroke</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSWNRTV9mTDZLVDloZXlvMFNqdUNfQjVzS3hQXzFKMGM0ZFJTTkVVbTh2Q1ZjMXFlWkNMTTN2ZXY4ZTkzMXdQTV9hWTRoTF9Rc1J0aE1VbnBBUGpP?oc=5)
 
 ---
 

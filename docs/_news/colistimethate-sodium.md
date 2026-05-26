@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
+
+### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
+
+2026-05-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
+
+---
 
 ### [Ipertensione, mangiare pomodori ogni giorno riduce il rischio del 36%: lo studio - il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
 
@@ -67,30 +75,6 @@ permalink: /news/colistimethate-sodium/
 2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
----
-
-### [Große Studie zeigt, wie fatal alltägliche Lebensmittel wirklich werden können - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
-
-2026-05-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
-
----
-
-### [Traitement de l’hypertension : matin ou soir, quel est le meilleur moment selon la science ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZk1SSWhIVXZfOHNJdlBtVFJjVE1jdEpFd3hjbFdhVU5fQzJrZHh6MW9ldkdkbHRNQkd6RTUyLTBsX2dkc3lIQ0EtenVTdlZ6ZTRlYVNINmU1ZlNuZUw5SzZJeHkzc3U0REh6TzRDT0l1WXlWMHJheWJtZ0dXN21hbmdRclpDY0swSnJHNVdfdGlfQkVjdERLVU95VEdSQjJsMlRxY1FzTy1KOUxTcUhtOFdwZWR0WWhlS3A3RjRzc1hKNkV6MnN2QW54UGg0ejEwbTRIUEtObmZSRnVxM3dKdlZ3cFNxNEdkNHZOWjlQR0d3dw?oc=5)
-
-2026-05-24 <span class="news-indication-tag">hypertension</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZk1SSWhIVXZfOHNJdlBtVFJjVE1jdEpFd3hjbFdhVU5fQzJrZHh6MW9ldkdkbHRNQkd6RTUyLTBsX2dkc3lIQ0EtenVTdlZ6ZTRlYVNINmU1ZlNuZUw5SzZJeHkzc3U0REh6TzRDT0l1WXlWMHJheWJtZ0dXN21hbmdRclpDY0swSnJHNVdfdGlfQkVjdERLVU95VEdSQjJsMlRxY1FzTy1KOUxTcUhtOFdwZWR0WWhlS3A3RjRzc1hKNkV6MnN2QW54UGg0ejEwbTRIUEtObmZSRnVxM3dKdlZ3cFNxNEdkNHZOWjlQR0d3dw?oc=5)
-
----
-
-### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
-
-2026-05-24 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Diabetes-Studie Mai 2026: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDc1d2lHS2tXQl8wM1VFYUpoVHQxTFBRdkZkU2pKX3JZT1NKWHYxRURRVEZieWc3MVQ1UTc1czNScHdoOE5WeTRJZzVpazRONTNwZW0tY0xvcjVwNTc3c1ptbmtWR3dYSm5mYTU0bFk1LWdKRzJ3djBBd3VOTmdja0tBOWN4TFVDenU2bE5CbmlQYTdwR2Fpa3NpN0hlUlBKWG1scll4RjFHcjlnSmdEVFhPRXBDSHVN?oc=5)
+### [Heart Failure: Vorhofflimmern bei Herzinsuffizienz – Welche Rolle spielen Medikamente? - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
 
-2026-05-25 <span class="news-indication-tag">diabetes</span>
+2026-05-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDc1d2lHS2tXQl8wM1VFYUpoVHQxTFBRdkZkU2pKX3JZT1NKWHYxRURRVEZieWc3MVQ1UTc1czNScHdoOE5WeTRJZzVpazRONTNwZW0tY0xvcjVwNTc3c1ptbmtWR3dYSm5mYTU0bFk1LWdKRzJ3djBBd3VOTmdja0tBOWN4TFVDenU2bE5CbmlQYTdwR2Fpa3NpN0hlUlBKWG1scll4RjFHcjlnSmdEVFhPRXBDSHVN?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+---
+
+### [Heart Failure: Entzündung bei Kardiomyopathien – Neue Targets jenseits der Immunsuppression - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">heart failure</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
 
 ---
 

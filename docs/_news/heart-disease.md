@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung（heart disease） 相關新聞"
+title: "heart failure（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "heart failure（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung（heart disease） 相關新聞
+# heart failure（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
+<strong>heart failure（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,23 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Heart Failure: Vorhofflimmern bei Herzinsuffizienz – Welche Rolle spielen Medikamente? - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+2026-05-26
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+---
+
+### [Heart Failure: Entzündung bei Kardiomyopathien – Neue Targets jenseits der Immunsuppression - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
+
+2026-05-26
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
+
+---
 
 ### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 

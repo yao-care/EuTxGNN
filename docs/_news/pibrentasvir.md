@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（13 則）
 
-### [OMS: epidemia de ébola en RD Congo es "extremadamente grave"](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3VwaE51UmNHaEZRYzAyVnpNaThfczE2cnRFektJSTl4S0pBX0Y3QURpTnpWYzI4WG53TFhSNjdoN2VjamRycHh1aE96UWttTmcwNmhhSnptWHhjMFFsQ3dYS1p1c1EyQlNFZEJmdHVSM2VGdkstRUpTU3ROVVF0aHVab1I1NWYzYU14RmZ6Rk1RaDFtSWhwRVdyd9IBmwFBVV95cUxQUUdSMDIwUXBYa25oUmt0aEh3dVFSdmIwNU9oWXl1eHNzaG80cGpMYmpnNDRCNTJCNGJiU2txWWNjQ25DQWFVYlJKeFl2NFFsZ1FQbE43V0Z2MEpGaXY1MG93eFlLS0ZOa09NaVNDbXNWbkJjc2RFNzZVQ0FDbXNwaUdfbkRabUhUQW1PZGtJZTRoZUhSQVJ6SnRPQQ?oc=5)
+### [RDC: La ONU vincula la inseguridad alimentaria al aumento del ébola](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUY1bXgwSDVXZF9pakFfTkpacE1UcTVwc3BfYXRsaWcwVmY4bm9yUjI0QUNTUmxkanpINFptS0dZcnU4RkU5c3BQYnI0NUlILXZ1d2VkNmNaZGN0bmR3ZzlJWXdlTnhqNU5EMUt2cjQxQzFpeDFWTk1hX1lpZ1BUX0pIYWp5angxcGdESV8wdG15c3ducjBfaFhLQ01zSmxFdldhbDhsazlMUW1nR044Q19ZalZaLUhua0F3?oc=5)
 
-2026-05-25 <span class="news-indication-tag">MS</span>
+2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3VwaE51UmNHaEZRYzAyVnpNaThfczE2cnRFektJSTl4S0pBX0Y3QURpTnpWYzI4WG53TFhSNjdoN2VjamRycHh1aE96UWttTmcwNmhhSnptWHhjMFFsQ3dYS1p1c1EyQlNFZEJmdHVSM2VGdkstRUpTU3ROVVF0aHVab1I1NWYzYU14RmZ6Rk1RaDFtSWhwRVdyd9IBmwFBVV95cUxQUUdSMDIwUXBYa25oUmt0aEh3dVFSdmIwNU9oWXl1eHNzaG80cGpMYmpnNDRCNTJCNGJiU2txWWNjQ25DQWFVYlJKeFl2NFFsZ1FQbE43V0Z2MEpGaXY1MG93eFlLS0ZOa09NaVNDbXNWbkJjc2RFNzZVQ0FDbXNwaUdfbkRabUhUQW1PZGtJZTRoZUhSQVJ6SnRPQQ?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUY1bXgwSDVXZF9pakFfTkpacE1UcTVwc3BfYXRsaWcwVmY4bm9yUjI0QUNTUmxkanpINFptS0dZcnU4RkU5c3BQYnI0NUlILXZ1d2VkNmNaZGN0bmR3ZzlJWXdlTnhqNU5EMUt2cjQxQzFpeDFWTk1hX1lpZ1BUX0pIYWp5angxcGdESV8wdG15c3ducjBfaFhLQ01zSmxFdldhbDhsazlMUW1nR044Q19ZalZaLUhua0F3?oc=5)
+
+---
+
+### [Australia confirms first diphtheria death amid worst outbreak in decades](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44MXhubW1OZGFraENGd1dvR01ybmwzaXZnWHlPQWNzZTI0MlowQnFPd2JJSEVzcTUxRllkaFhwcG1NY2ZHNGloTVVlUjRpLUw3UmszbjdGWktRS3hQ?oc=5)
+
+2026-05-26 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44MXhubW1OZGFraENGd1dvR01ybmwzaXZnWHlPQWNzZTI0MlowQnFPd2JJSEVzcTUxRllkaFhwcG1NY2ZHNGloTVVlUjRpLUw3UmszbjdGWktRS3hQ?oc=5)
+
+---
+
+### [My 16 hours in A&E hell with suspected stroke symptoms - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
+
+---
+
+### [Why poor gut health can lead to Parkinson’s and how to avoid it - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXlWQ3NGUjNPY3VFWldNS3JRblNnU2FwY01CUmJYMURoeVZfR1duNUMtbEVLel9TVW50RkZ1U2VacDc5S1RCV3MzRkF2ZUw3N2F2SjBtaTNkZzFQTm9QUnVSTFd4RVZ1dEJVeTVDY2JMekd6bW9CRTBXLU1sRE9naHYxMHBLZHppZHp6aV9kVXV0NGdpbHV5UDdqLThnaDdQazNnclFPSmZfY2hRQ2lsbDM2dXM?oc=5)
+
+2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXlWQ3NGUjNPY3VFWldNS3JRblNnU2FwY01CUmJYMURoeVZfR1duNUMtbEVLel9TVW50RkZ1U2VacDc5S1RCV3MzRkF2ZUw3N2F2SjBtaTNkZzFQTm9QUnVSTFd4RVZ1dEJVeTVDY2JMekd6bW9CRTBXLU1sRE9naHYxMHBLZHppZHp6aV9kVXV0NGdpbHV5UDdqLThnaDdQazNnclFPSmZfY2hRQ2lsbDM2dXM?oc=5)
+
+---
+
+### [Durham breast cancer scandal victims demand inquiry](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT1p5emNqdXdnZTVfZzItVmNMTTFrbTNZb3NNeUxwZDE0X3U2cDFfQjByZGpnZEEtX1JSX05HOEo2WjFWQkdBOC02VHFvWHBWNE9adVJtSVZlcWd3?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT1p5emNqdXdnZTVfZzItVmNMTTFrbTNZb3NNeUxwZDE0X3U2cDFfQjByZGpnZEEtX1JSX05HOEo2WjFWQkdBOC02VHFvWHBWNE9adVJtSVZlcWd3?oc=5)
+
+---
+
+### [Northern Ireland women urged to know symptoms of disease that claims 122 lives a year - Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
 
 ---
 
@@ -115,14 +155,6 @@ permalink: /news/pibrentasvir/
 2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
-
----
-
-### [« Elle ne voulait plus rien faire » : elle se bat pour sa fille, atteinte de la sclérose en plaques - Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3c4eGllN2pKWXdSeGJSSGRCMWNFbEtGQTh6Sk1lOWtKY1pRai11SWRGTWhIZ2F0WWFQZWxWUDlNVl9icmZheVhabVppUXNSOWlRYmxFOHNrdmpIZnUwdTl2M0E1TGtxNWNuc0EyRDRTeEc5Y29wdGdxd3FIWmxhR3JRVTcwNWJmR3oyVnAwSFBiVkNSOEtBVThTS1pITkRIVTVPTkM3SUxfVFV6LXBiVGNYR0k1UkMy?oc=5)
-
-2026-05-24 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3c4eGllN2pKWXdSeGJSSGRCMWNFbEtGQTh6Sk1lOWtKY1pRai11SWRGTWhIZ2F0WWFQZWxWUDlNVl9icmZheVhabVppUXNSOWlRYmxFOHNrdmpIZnUwdTl2M0E1TGtxNWNuc0EyRDRTeEc5Y29wdGdxd3FIWmxhR3JRVTcwNWJmR3oyVnAwSFBiVkNSOEtBVThTS1pITkRIVTVPTkM3SUxfVFV6LXBiVGNYR0k1UkMy?oc=5)
 
 ---
 

@@ -54,14 +54,6 @@ permalink: /news/metformin/
 
 ## 相關新聞（5 則）
 
-### [Diabetes-Studie Mai 2026: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDc1d2lHS2tXQl8wM1VFYUpoVHQxTFBRdkZkU2pKX3JZT1NKWHYxRURRVEZieWc3MVQ1UTc1czNScHdoOE5WeTRJZzVpazRONTNwZW0tY0xvcjVwNTc3c1ptbmtWR3dYSm5mYTU0bFk1LWdKRzJ3djBBd3VOTmdja0tBOWN4TFVDenU2bE5CbmlQYTdwR2Fpa3NpN0hlUlBKWG1scll4RjFHcjlnSmdEVFhPRXBDSHVN?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDc1d2lHS2tXQl8wM1VFYUpoVHQxTFBRdkZkU2pKX3JZT1NKWHYxRURRVEZieWc3MVQ1UTc1czNScHdoOE5WeTRJZzVpazRONTNwZW0tY0xvcjVwNTc3c1ptbmtWR3dYSm5mYTU0bFk1LWdKRzJ3djBBd3VOTmdja0tBOWN4TFVDenU2bE5CbmlQYTdwR2Fpa3NpN0hlUlBKWG1scll4RjFHcjlnSmdEVFhPRXBDSHVN?oc=5)
-
----
-
 ### [Kind mit ADHS & Diabetes: Ärztin warnt Eltern vor riskanter Doppelfalle - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
@@ -91,6 +83,14 @@ permalink: /news/metformin/
 2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
+
+---
+
+### [Les scientifiques comprennent enfin le fonctionnement de la metformine, antidiabétique le plus prescrit au monde - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVU1BNEcxS1d4Q2FBUER5UHZGRHE3blFSaUJDTC01dGtXZ3BNLWd3S0JzQkVUV3VEODNrN1lvUnU5NUlHbDBpaTZabTU4NElVT1BKdWEtakdDdG9QLUtrZlBVWnl5blVtblUyTzc3UW9QQ0tRVUtFb3NZcEVEZ2tXdm5vQUJncjFJQmUwS2dtV1VhaU9QdTFKMTE5d25DXzI3MWtKSjlRREd2cTJBUW80YzRPU05hWnlqa0tTOURYeEw0dFEtdkRMTzF6QWlIcTZpaTQ3VmFadXlCX1BQTFp6STVveHVTTnlCUWdR?oc=5)
+
+2026-05-24 <span class="news-drug-tag">Metformin</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVU1BNEcxS1d4Q2FBUER5UHZGRHE3blFSaUJDTC01dGtXZ3BNLWd3S0JzQkVUV3VEODNrN1lvUnU5NUlHbDBpaTZabTU4NElVT1BKdWEtakdDdG9QLUtrZlBVWnl5blVtblUyTzc3UW9QQ0tRVUtFb3NZcEVEZ2tXdm5vQUJncjFJQmUwS2dtV1VhaU9QdTFKMTE5d25DXzI3MWtKSjlRREd2cTJBUW80YzRPU05hWnlqa0tTOURYeEw0dFEtdkRMTzF6QWlIcTZpaTQ3VmFadXlCX1BQTFp6STVveHVTTnlCUWdR?oc=5)
 
 ---
 

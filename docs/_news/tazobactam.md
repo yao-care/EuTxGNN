@@ -54,19 +54,19 @@ permalink: /news/tazobactam/
 
 ## 相關新聞（2 則）
 
+### ["Si on peut guérir, il ne faut pas attendre qu'il soit trop tard" : un programme pilote de dépistage du cancer du poumon recherche 20 000 volontaires](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZF9mb2RuVGNKUFZOemx3RXJEOUtXa21ocGpSTEc1QWs5bkZWUWh1RFJwSFluX2t1Sm5jVlFpSkwzb0s1b0g3X0NORWRXbFJacG9mS3k2LThPWWNKbWVfUGh6RS1LSE5qd3VhNXpvS3ZzMWVqSVY1M0FGSnN4T2NGMWtwU1FJV1FKMVFzUUdKU0JYeGdVTXZEdUpYUmJhTWVrQUhHbldNZ21PeFpTalE0VkFSZnRYaXU3LXk4bkdUSXlwZVRkTi16MjcyV1hVR3BDU0N4VTItOXF4dUdLMFlVQ1E5Zlp1NW44TkZncTBmN2hEcko4SGh4WEluT3JRNkZTLUNDa0ExbkRUUkxoc01YOUY5MEZLakJUZXNIUXNKYWtzS1hZNWRJN0dhZXpqZVU?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZF9mb2RuVGNKUFZOemx3RXJEOUtXa21ocGpSTEc1QWs5bkZWUWh1RFJwSFluX2t1Sm5jVlFpSkwzb0s1b0g3X0NORWRXbFJacG9mS3k2LThPWWNKbWVfUGh6RS1LSE5qd3VhNXpvS3ZzMWVqSVY1M0FGSnN4T2NGMWtwU1FJV1FKMVFzUUdKU0JYeGdVTXZEdUpYUmJhTWVrQUhHbldNZ21PeFpTalE0VkFSZnRYaXU3LXk4bkdUSXlwZVRkTi16MjcyV1hVR3BDU0N4VTItOXF4dUdLMFlVQ1E5Zlp1NW44TkZncTBmN2hEcko4SGh4WEluT3JRNkZTLUNDa0ExbkRUUkxoc01YOUY5MEZLakJUZXNIUXNKYWtzS1hZNWRJN0dhZXpqZVU?oc=5)
+
+---
+
 ### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
 
 2026-05-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
-
----
-
-### [Experts have a new simple solution for your knee, hip and back pain - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
-
-2026-05-24 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVFVjVFNTIyczVscE93czh6TDlBa2dCbGQ2XzBkQndlVF9KUzBCTWdWanZGMEhaMmFiMWw2cTFkMTRKTGlWSjgzSnByWnV2UEVMMl9HSldqTS1zcF9zTXBZZk94ZG5aZTZsTjRUME0wazE3ZGxwS2t1U3dUbUtCUXZtYmFXdjUwQzlEbHhYNHp2X2xkM1hxNVktNUl3eFU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/macimorelin-acetate/
 ---
 
 <p class="key-answer" data-question="Macimorelin Acetate 有什麼相關新聞？">
-<strong>Macimorelin Acetate</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macimorelin Acetate</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,77 @@ permalink: /news/macimorelin-acetate/
 <p><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（25 則）
 
-### [Impulso de la neurociencia mediante el uso de la IA: de leer la actividad cerebral a interactuar dinámicamente con el cerebro](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjdheWJ1X0d4N21jRzM0cEMwaExTblNPTjFQY1BrMEl0NHRJRUQwcnF1TkYtUmFKWE5CTFh6bDU2Nld6ekgtckhSWkh4T0N1OUk4NTV0T19IVF84bU9ZMG1aT1czVXd4ZEkyWjZPWTJtUXVLSktyR1hXeWt5c05wVUcwM2NSTzJ5RDk4RHd0ZXZCQ21nMDhBa2hFQ0tOcnZQVEplTl80R09HQzNvOENZWVhfSnNMQVVuSFl6YnJoWGE?oc=5)
+### [Longevity: Zu wenig und zu viel Schlaf sind ungesund – das ist das richtige Maß](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeTlIejBxUnNNeVVydWR2VUdjLV9zNURZY0tmT1JISWMyMFZLVDZMUFhYTzBKR1VwYnoxS0VMdldDNTB3cVJTWjliSk9GQUhNUWN5dVFlQkhBbWRzZkVEaTRvZXI3TTM3VXBvRmhxeDN0SlZSR0pPLXVJd3NSckVnbVNPLURMLUM0QU1sU09iUWxzenF2b3pNdDdoY0w4Q0g0NDFZSW84OTg3c1QwcGpUQnU1NnEtYUpJNU1aYXAwRkp5MURaQnB0XzhhbWVpeVoyOVhEZ1I5RE5BZXFydlE?oc=5)
 
-2026-05-25 <span class="news-indication-tag">AF</span>
+2026-05-26 <span class="news-indication-tag">AF</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjdheWJ1X0d4N21jRzM0cEMwaExTblNPTjFQY1BrMEl0NHRJRUQwcnF1TkYtUmFKWE5CTFh6bDU2Nld6ekgtckhSWkh4T0N1OUk4NTV0T19IVF84bU9ZMG1aT1czVXd4ZEkyWjZPWTJtUXVLSktyR1hXeWt5c05wVUcwM2NSTzJ5RDk4RHd0ZXZCQ21nMDhBa2hFQ0tOcnZQVEplTl80R09HQzNvOENZWVhfSnNMQVVuSFl6YnJoWGE?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeTlIejBxUnNNeVVydWR2VUdjLV9zNURZY0tmT1JISWMyMFZLVDZMUFhYTzBKR1VwYnoxS0VMdldDNTB3cVJTWjliSk9GQUhNUWN5dVFlQkhBbWRzZkVEaTRvZXI3TTM3VXBvRmhxeDN0SlZSR0pPLXVJd3NSckVnbVNPLURMLUM0QU1sU09iUWxzenF2b3pNdDdoY0w4Q0g0NDFZSW84OTg3c1QwcGpUQnU1NnEtYUpJNU1aYXAwRkp5MURaQnB0XzhhbWVpeVoyOVhEZ1I5RE5BZXFydlE?oc=5)
+
+---
+
+### [RDC: La ONU vincula la inseguridad alimentaria al aumento del ébola](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUY1bXgwSDVXZF9pakFfTkpacE1UcTVwc3BfYXRsaWcwVmY4bm9yUjI0QUNTUmxkanpINFptS0dZcnU4RkU5c3BQYnI0NUlILXZ1d2VkNmNaZGN0bmR3ZzlJWXdlTnhqNU5EMUt2cjQxQzFpeDFWTk1hX1lpZ1BUX0pIYWp5angxcGdESV8wdG15c3ducjBfaFhLQ01zSmxFdldhbDhsazlMUW1nR044Q19ZalZaLUhua0F3?oc=5)
+
+2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUY1bXgwSDVXZF9pakFfTkpacE1UcTVwc3BfYXRsaWcwVmY4bm9yUjI0QUNTUmxkanpINFptS0dZcnU4RkU5c3BQYnI0NUlILXZ1d2VkNmNaZGN0bmR3ZzlJWXdlTnhqNU5EMUt2cjQxQzFpeDFWTk1hX1lpZ1BUX0pIYWp5angxcGdESV8wdG15c3ducjBfaFhLQ01zSmxFdldhbDhsazlMUW1nR044Q19ZalZaLUhua0F3?oc=5)
+
+---
+
+### [Vorhofflimmern: Göttinger Studie zeigt neuen Weg bei häufiger Herzkrankheit - GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt](https://news.google.com/rss/articles/CBMioAJBVV95cUxNa3EzM09WODc1NDAxTWVHMVU0NUFhTXpWQ2s0bTlUVGQ2dXl4R3NUMDFTN2x4SnVYb2hTTVNsT2lKaXVmRmZEOXFfWkNYWndrSW9DbFdNa2RScXJzaXl3V0VsclZpMjVmS1FFaHRDSGZlYnBCajJyOVktSUdPQlRQYnVZZ2FRTXlQYzVwRnJKTmhUN2JKVl8ta0I1SVh1c0JXNzBpaTBhOWpRVW9aOGdHQVJ2bUlmUlRELURhSWJTOVc5cXQ3eTFUVXJoYkNYLU9GaTJsTFZNU21GN3lFUWUtV2hIWHJOdWVVRElJbW5sVW0tS25CT1dTM1hMSkxiS1dqUVRnZlFiQjVwYWl3UHdxMWNDMUdBV1ZnR0NnaC04UE8?oc=5)
+
+2026-05-26 <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt](https://news.google.com/rss/articles/CBMioAJBVV95cUxNa3EzM09WODc1NDAxTWVHMVU0NUFhTXpWQ2s0bTlUVGQ2dXl4R3NUMDFTN2x4SnVYb2hTTVNsT2lKaXVmRmZEOXFfWkNYWndrSW9DbFdNa2RScXJzaXl3V0VsclZpMjVmS1FFaHRDSGZlYnBCajJyOVktSUdPQlRQYnVZZ2FRTXlQYzVwRnJKTmhUN2JKVl8ta0I1SVh1c0JXNzBpaTBhOWpRVW9aOGdHQVJ2bUlmUlRELURhSWJTOVc5cXQ3eTFUVXJoYkNYLU9GaTJsTFZNU21GN3lFUWUtV2hIWHJOdWVVRElJbW5sVW0tS25CT1dTM1hMSkxiS1dqUVRnZlFiQjVwYWl3UHdxMWNDMUdBV1ZnR0NnaC04UE8?oc=5)
+
+---
+
+### [Schwangerschaft bei CED: Krankheitskontrolle schützt Mutter und Kind – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZlZZcjNvejNRd0xYNkVGUWJQa0NZVmZEZElnazYxWkdIMTJSVWJCZ0RBV0ZnYkxXYlE5cjR3ZjFSLTdnVGtiaU5jenpXYU9IbGVodmFDRmxDTG9UaFZkRzFmT1dXYWZCYkJIQktEcmFvd2V6d3VacGpIeDc5RkZhb1pWZ1phM1p2VjRvV2htWVBBV01TN25oRDlSUGlMRnRmMjZQWVlqMjhHZ0swb18xN28xV05JMWhSMTFXQnhMd2tvQWlwME5WSVVCTnRCa3RhTmc?oc=5)
+
+2026-05-26 <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZlZZcjNvejNRd0xYNkVGUWJQa0NZVmZEZElnazYxWkdIMTJSVWJCZ0RBV0ZnYkxXYlE5cjR3ZjFSLTdnVGtiaU5jenpXYU9IbGVodmFDRmxDTG9UaFZkRzFmT1dXYWZCYkJIQktEcmFvd2V6d3VacGpIeDc5RkZhb1pWZ1phM1p2VjRvV2htWVBBV01TN25oRDlSUGlMRnRmMjZQWVlqMjhHZ0swb18xN28xV05JMWhSMTFXQnhMd2tvQWlwME5WSVVCTnRCa3RhTmc?oc=5)
+
+---
+
+### [Enfermedad hepática crónica en Europa: una crisis prevenible que pasa desapercibida - Salud a Diario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZk1jNVlKZXpjZFNpYVpMRW9RNllTTVYtTk1Pazh1d0hxN2JhQjNoNi1qZVFqSWtxQlhUeU9UN0ZzcWhWWkpZdEFrR3Z5eHNHM2l6UmEzS2ZSSXV0R29McU9iQ0ZGUUQ2WjdfS3dHRFhkYmRFUkVCeTJvV2Y5RnZ2OTlJcGtxdFJZT2ZaQTVXTXNSMFlYVFlhZ29nNHI2RE82a1J5czBuMXpDOWJWaU8tSERMNlpkSkxnV1dGUVQ4WFd2MXc?oc=5)
+
+2026-05-26 <span class="news-indication-tag">AF</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZk1jNVlKZXpjZFNpYVpMRW9RNllTTVYtTk1Pazh1d0hxN2JhQjNoNi1qZVFqSWtxQlhUeU9UN0ZzcWhWWkpZdEFrR3Z5eHNHM2l6UmEzS2ZSSXV0R29McU9iQ0ZGUUQ2WjdfS3dHRFhkYmRFUkVCeTJvV2Y5RnZ2OTlJcGtxdFJZT2ZaQTVXTXNSMFlYVFlhZ29nNHI2RE82a1J5czBuMXpDOWJWaU8tSERMNlpkSkxnV1dGUVQ4WFd2MXc?oc=5)
+
+---
+
+### [Taxi driver tells passenger ‘you saved my life’ after advice led to cancer find - STV News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWGVxQnluejctczE1Yjk1ZmNzZ1g3U0w2V1JyaTZhYmd0cHdZTTh6TGdDellZR3huNzhEU2hWQ2hQR0I2RlNjVC0wLVJOSjE2SlR2c3NuY3ZaT0lCaUxyWVM4OWhzQ2ZkSXY4OGFTOHNPeWo0ZWw3cDhFLWlxX2Z3NXJQTk5MYWZObkNZQy1XdENiVGlTNEZWcjFlX3pOdHVwQnYtVGh2LUhCRm9QVHNB?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWGVxQnluejctczE1Yjk1ZmNzZ1g3U0w2V1JyaTZhYmd0cHdZTTh6TGdDellZR3huNzhEU2hWQ2hQR0I2RlNjVC0wLVJOSjE2SlR2c3NuY3ZaT0lCaUxyWVM4OWhzQ2ZkSXY4OGFTOHNPeWo0ZWw3cDhFLWlxX2Z3NXJQTk5MYWZObkNZQy1XdENiVGlTNEZWcjFlX3pOdHVwQnYtVGh2LUhCRm9QVHNB?oc=5)
+
+---
+
+### [Why poor gut health can lead to Parkinson’s and how to avoid it - The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXlWQ3NGUjNPY3VFWldNS3JRblNnU2FwY01CUmJYMURoeVZfR1duNUMtbEVLel9TVW50RkZ1U2VacDc5S1RCV3MzRkF2ZUw3N2F2SjBtaTNkZzFQTm9QUnVSTFd4RVZ1dEJVeTVDY2JMekd6bW9CRTBXLU1sRE9naHYxMHBLZHppZHp6aV9kVXV0NGdpbHV5UDdqLThnaDdQazNnclFPSmZfY2hRQ2lsbDM2dXM?oc=5)
+
+2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXlWQ3NGUjNPY3VFWldNS3JRblNnU2FwY01CUmJYMURoeVZfR1duNUMtbEVLel9TVW50RkZ1U2VacDc5S1RCV3MzRkF2ZUw3N2F2SjBtaTNkZzFQTm9QUnVSTFd4RVZ1dEJVeTVDY2JMekd6bW9CRTBXLU1sRE9naHYxMHBLZHppZHp6aV9kVXV0NGdpbHV5UDdqLThnaDdQazNnclFPSmZfY2hRQ2lsbDM2dXM?oc=5)
+
+---
+
+### [Heart Failure: Vorhofflimmern bei Herzinsuffizienz – Welche Rolle spielen Medikamente? - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+2026-05-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+---
+
+### [Heart Failure: Entzündung bei Kardiomyopathien – Neue Targets jenseits der Immunsuppression - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">heart failure</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
 
 ---
 
@@ -70,19 +134,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Una ginecóloga explica qué significa para las pacientes el cambio de nombre del Síndrome de Ovario Poliquístico](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZlhPNl8zR3dHTVI4S0gyRWd1TlJ0TzE1R2VlblgyTldsOGVPX3dzUUlHQXZGOWNKU0F3c3ZPY0tBNDBFWFBWSTJwU1hEZTlTT0p1YnlsMWJZUURXVWlRa0tFb1Z6R2xJamtoODgwUHJSaUVIV1BWVy1ZWjFsNFhPQ2drLXhNVWN6NUg5bFRrMm1zTW9UT1hRLUhmOWQzMFJyOUI4OEpqMkYwNGVWcVNka1lBb0ZVZEZmNXBtVGdONkZrLUVjdnFSbndhWWl0TnJ1cDlZ?oc=5)
+### [Storico intervento all'Ieo: rimosso raro tumore alle vie aeree - Sky TG24](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlcwcDRpRUcwOWxNWElEZ2IzdzJSY3B2QXBNSGlycTNIXzlVN3RuNXRETm1fc3VrVF9tOU5CckpRWFZ1RUpSYmtDREwtbjVLRzhQMzd6V041WEFPeEN5WkxTZ012RUFWUm5GTWRORUF2MW5QZ0Mxcy1oUl9hc09IMXpOZ2dTcEZLSFUtMk5XSUNHNE9fZmZUcjVRS1JscWZ6QUY5MGJiX1lFekctblJWSTVubw?oc=5)
 
-2026-05-25 <span class="news-indication-tag">AF</span>
+2026-05-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZlhPNl8zR3dHTVI4S0gyRWd1TlJ0TzE1R2VlblgyTldsOGVPX3dzUUlHQXZGOWNKU0F3c3ZPY0tBNDBFWFBWSTJwU1hEZTlTT0p1YnlsMWJZUURXVWlRa0tFb1Z6R2xJamtoODgwUHJSaUVIV1BWVy1ZWjFsNFhPQ2drLXhNVWN6NUg5bFRrMm1zTW9UT1hRLUhmOWQzMFJyOUI4OEpqMkYwNGVWcVNka1lBb0ZVZEZmNXBtVGdONkZrLUVjdnFSbndhWWl0TnJ1cDlZ?oc=5)
-
----
-
-### [Two suspected Ebola cases detected in Italy after return from Uganda](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzdxNDlBNUNBQ0pSa1B2LVpuaGRoMEkxWFNxSHdQNFlwTmgxSjRScG9wX0tHVHVFZjNzRmNXQXM4YWRpV0tDcmpIc0ljQkZaVVlSWjR1eFJOMmJMWnlhUl9Zc2ZPb1J4a2M3eDRkakFwN3NzR2xRdTEwaGtoclVaczIwbTdzZVVJNUhpWlpxd2N6dGlkRE1CTXZXZjhXS3ZFRlRPYmdtV19EVkw2LUF4eGMxaWJ5cHZTQ3ppdzJDUWc?oc=5)
-
-2026-05-25 <span class="news-indication-tag">AF</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzdxNDlBNUNBQ0pSa1B2LVpuaGRoMEkxWFNxSHdQNFlwTmgxSjRScG9wX0tHVHVFZjNzRmNXQXM4YWRpV0tDcmpIc0ljQkZaVVlSWjR1eFJOMmJMWnlhUl9Zc2ZPb1J4a2M3eDRkakFwN3NzR2xRdTEwaGtoclVaczIwbTdzZVVJNUhpWlpxd2N6dGlkRE1CTXZXZjhXS3ZFRlRPYmdtV19EVkw2LUF4eGMxaWJ5cHZTQ3ppdzJDUWc?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlcwcDRpRUcwOWxNWElEZ2IzdzJSY3B2QXBNSGlycTNIXzlVN3RuNXRETm1fc3VrVF9tOU5CckpRWFZ1RUpSYmtDREwtbjVLRzhQMzd6V041WEFPeEN5WkxTZ012RUFWUm5GTWRORUF2MW5QZ0Mxcy1oUl9hc09IMXpOZ2dTcEZLSFUtMk5XSUNHNE9fZmZUcjVRS1JscWZ6QUY5MGJiX1lFekctblJWSTVubw?oc=5)
 
 ---
 
@@ -91,6 +147,14 @@ permalink: /news/macimorelin-acetate/
 2026-05-25 <span class="news-indication-tag">AF</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjhBUjZvNlZibzZFNzMxUk5QUnAxeVpqUVlwUXFKNTFsSHBZOE9QYnZUTkNKemxYdlVSSnRESkVSdWJTU3VMX05wVTRWaC1NeENkMk9zdHgybVRyNl9jdC1HUmZQaE9VT1huNEc3Mlc3RDczaGJGVFFwU3liT21abE1DbHE1Q0Eyb1d0V2tfQXBubkg5OVdNUkI5d18wNVROOWc1VnQ5RHdvMmZKQTF6T2pCNDJGTkRmRG85LWd4NNIBugFBVV95cUxOVVEteHJSOHFRMGhzUTlWMVBXT3BWaUJUM2lsUEFsRW5HdVRRQU15NVUwWTNLM1ItWjBaZF9SM2tybzNPdjFtZldQbXpXSmJQeTVEd2JnSGpfZmFPZkUxenBqM3N1UXdHQ0pPQjBkWjBEVzMyNlU1Sk10ZGt4U05BNXNZVll3Q1JTZGdZdktNa2daLTBjN0YzVmRuVUROM3JzSS10bEpqZVAweERrbV9MUnZwS1R2YWdZckE?oc=5)
+
+---
+
+### [Sertraline warning issued for anyone taking medication this week - Liverpool Echo](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGdoQ1E3bGpzSzRUS3BYYnFIeTNsNWFlRHQ2RVlTUTBNa0NsMFN3WnZINjM2S3lmb1Z1ZVlEX3Q0ZWtCMmhlQTc4aXZPM0duRGlNZFBmQ21TTU9iNFZYQVdMV3BNQjU2bVkza3Q1NUp5cGtWRXhsOF9tZ3VvM0tvMjlCSjZ1MzhFV21RcmNnYXZqd2J6S2VET2tsbmFpMVRH0gGmAUFVX3lxTE40QzB3QUZxQnlxYTVkX3JxMmx3VjB1ZkxqcU9YbjkxS3VWX2Nmc0NTZEY5TEt5dWZGR00yUlNkZk1mbnVQdFpMWkh0RWl0TlBEeUUtRDRxdHN3UW1IdUo4ZWkyci1XSGxoYk50TTdxcTZDOEFOMGlNaF96S052RG1FVDRib3VQRnF5N3FpdF9xYUJoZWdnay1QQlVPYXB0Q3M2eWdyTFE?oc=5)
+
+2026-05-25 <span class="news-indication-tag">AF</span>
+
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGdoQ1E3bGpzSzRUS3BYYnFIeTNsNWFlRHQ2RVlTUTBNa0NsMFN3WnZINjM2S3lmb1Z1ZVlEX3Q0ZWtCMmhlQTc4aXZPM0duRGlNZFBmQ21TTU9iNFZYQVdMV3BNQjU2bVkza3Q1NUp5cGtWRXhsOF9tZ3VvM0tvMjlCSjZ1MzhFV21RcmNnYXZqd2J6S2VET2tsbmFpMVRH0gGmAUFVX3lxTE40QzB3QUZxQnlxYTVkX3JxMmx3VjB1ZkxqcU9YbjkxS3VWX2Nmc0NTZEY5TEt5dWZGR00yUlNkZk1mbnVQdFpMWkh0RWl0TlBEeUUtRDRxdHN3UW1IdUo4ZWkyci1XSGxoYk50TTdxcTZDOEFOMGlNaF96S052RG1FVDRib3VQRnF5N3FpdF9xYUJoZWdnay1QQlVPYXB0Q3M2eWdyTFE?oc=5)
 
 ---
 
@@ -110,11 +174,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Schlaf 2026: Columbia-Studie zeigt optimales Fenster 6,4–7,8 Stunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekM3RU14WmtIalFpUTlTTGkzcjJ0VzlZYkJ6d0c5OHgwajFyN1hZZjNzaWtTN1czRmxTbnItVVIwb3ZaeW5nYjRzOEswcEdPV2JQVzRQVXRQWkNOa2oyWXU3MTVJT0xOYTBNTVp1Y3Z5TFVfRnZtSy1FbF9ZeUFYa3FqVUo1VkJycUJvQ29Hc2RQV3BDdWtrelJwZ1IzYXNPaU5nV1Fwc1JrT1lzdEJLVUVmam1WY1U?oc=5)
+### [Surgeon at North Wales hospital removed healthy part of bowel cancer patient and left tumour - North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
 
-2026-05-25 <span class="news-indication-tag">AF</span>
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekM3RU14WmtIalFpUTlTTGkzcjJ0VzlZYkJ6d0c5OHgwajFyN1hZZjNzaWtTN1czRmxTbnItVVIwb3ZaeW5nYjRzOEswcEdPV2JQVzRQVXRQWkNOa2oyWXU3MTVJT0xOYTBNTVp1Y3Z5TFVfRnZtSy1FbF9ZeUFYa3FqVUo1VkJycUJvQ29Hc2RQV3BDdWtrelJwZ1IzYXNPaU5nV1Fwc1JrT1lzdEJLVUVmam1WY1U?oc=5)
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
 
 ---
 
@@ -134,11 +198,27 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
+### [Former air stewardess and 'sun worshipper' issues warning after cancer diagnosis - Cheshire Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjRlTnVYeEx3dl9ySTFONFFETDB1T04ydS1rc0V0RTAyXzNuNlp3dU0wV0ZUZHpIeFd6MzNXTlUyREgzdzhMaVBlT2M3d3Q2eDUtTjNGa042ODJaOS0zY3RwYjRUTUwzN1NyaU0tOHdCc0c4UUFxZl9KbVBhemhuNmhrM1lVWE5XeTdGYmNKemNQVWxTbVlJRWFFSkJnamxybDdiOTlNVQ?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjRlTnVYeEx3dl9ySTFONFFETDB1T04ydS1rc0V0RTAyXzNuNlp3dU0wV0ZUZHpIeFd6MzNXTlUyREgzdzhMaVBlT2M3d3Q2eDUtTjNGa042ODJaOS0zY3RwYjRUTUwzN1NyaU0tOHdCc0c4UUFxZl9KbVBhemhuNmhrM1lVWE5XeTdGYmNKemNQVWxTbVlJRWFFSkJnamxybDdiOTlNVQ?oc=5)
+
+---
+
 ### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 
 2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
+
+---
+
+### [Teenage schoolgirl, 14, left paralysed from the neck down after simply getting the flu - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
+
+2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlA0QnpSVzdLRmhLOXVFcUt2Y0xBTUVHT192b0phWHhUcjBnOEhOeXQ2Q3RpbUp5U1JYU1d1OUNuVXl0SEZFUGlnZnN2S2kxdDJ6V1hZUUNTb1BhR1llM1VBM2JqMGgtSmF5cUVaTGZfMVBZRGFjOXk5cjN1WUhwMDNfZUZURVlTSXc40gGQAUFVX3lxTE02dE9zLS1yZkJrcW04YnNaaGtUaUJpR09ETmhwS183a3lUVHphbmdhYnRSbGdqcFBxaHcya3hnREFjUW5aNklLdmluUzlXeWVwaXVsdGlnUWRCR3RpYXAtSjNTRUlIVVZ1UjR6MFpnT1RZSHpXZU9hN0lmRmpWWGdEajRZczNNOUpKeWNZMnNOeA?oc=5)
 
 ---
 
@@ -150,27 +230,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
-
-2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
-
----
-
-### [Große Studie zeigt, wie fatal alltägliche Lebensmittel wirklich werden können - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
-
-2026-05-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
-
----
-
-### [I was stressed mum living on Red Bull & given year to live after gargling in bed](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFMyc3JUTUlGdDB6bGV0YU1xOE5mYjVCcUl6OHVXVHBrclhKbVppelEyeVg2YWl5NWRMSjI2WmJyX3YzZ3hQNmpiX3pSS0RjazJ2TkVXWlB6blFUTG5IOWl6VGJwSnZsVDZFaks0RGdyekt5RjFfalBwdHRldHotTVc5YnZGSDdPbm5DbG0yNHdpYVVjeUE?oc=5)
+### [I was stressed mum living on Red Bull & given year to live after gargling in bed - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFMyc3JUTUlGdDB6bGV0YU1xOE5mYjVCcUl6OHVXVHBrclhKbVppelEyeVg2YWl5NWRMSjI2WmJyX3YzZ3hQNmpiX3pSS0RjazJ2TkVXWlB6blFUTG5IOWl6VGJwSnZsVDZFaks0RGdyekt5RjFfalBwdHRldHotTVc5YnZGSDdPbm5DbG0yNHdpYVVjeUE?oc=5)
 
 2026-05-24 <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFMyc3JUTUlGdDB6bGV0YU1xOE5mYjVCcUl6OHVXVHBrclhKbVppelEyeVg2YWl5NWRMSjI2WmJyX3YzZ3hQNmpiX3pSS0RjazJ2TkVXWlB6blFUTG5IOWl6VGJwSnZsVDZFaks0RGdyekt5RjFfalBwdHRldHotTVc5YnZGSDdPbm5DbG0yNHdpYVVjeUE?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFMyc3JUTUlGdDB6bGV0YU1xOE5mYjVCcUl6OHVXVHBrclhKbVppelEyeVg2YWl5NWRMSjI2WmJyX3YzZ3hQNmpiX3pSS0RjazJ2TkVXWlB6blFUTG5IOWl6VGJwSnZsVDZFaks0RGdyekt5RjFfalBwdHRldHotTVc5YnZGSDdPbm5DbG0yNHdpYVVjeUE?oc=5)
+
+---
+
+### [You Need More Protein If You’re Working Hard in the Gym—Here’s How Much](https://news.google.com/rss/articles/CBMickFVX3lxTE5GRzBUNk91cG04WGZxSDNuZi1VM21rTF9EcDg0UzVmX2pCN1BvcUVvQ25WZURka1JTeUN4YmdWY0JqWGZuUHA0U3VnVXBrcU4xY3hoSVRZeDNCbXl0UmpNaFlIYTZJeUhpTUZzRVVKZTVjZw?oc=5)
+
+2026-05-24 <span class="news-indication-tag">AF</span>
+
+來源：[GQ](https://news.google.com/rss/articles/CBMickFVX3lxTE5GRzBUNk91cG04WGZxSDNuZi1VM21rTF9EcDg0UzVmX2pCN1BvcUVvQ25WZURka1JTeUN4YmdWY0JqWGZuUHA0U3VnVXBrcU4xY3hoSVRZeDNCbXl0UmpNaFlIYTZJeUhpTUZzRVVKZTVjZw?oc=5)
 
 ---
 
@@ -179,30 +251,6 @@ permalink: /news/macimorelin-acetate/
 2026-05-24 <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiggJBVV95cUxQX1QtazYzMWFzODg3LTVfbkZ5bF9Jbkp6VFlMdUJYSTA4UHZnTjlvVGZrN09zRDFVaVdxcG9oYm9vNGpoYTNmdkY4U2tXS1VZWE9TV3pHU0hUTFZrdGg5VGgyYmlDNmJldUtoUkxOdi1MVlFBN2VuOGhUTVVKV1VuWGZzRkUxVGhuTnB1bExMRGpDbFIyMWttTFZLdExxQkt4aGV4c2x1SW1WV21GUjFQM01vcjlEdmpnbWlTa1pCSFBTUlRKVklOdHV2NjBQU0JTS1VyQ3oyYU9ad1pmSVo5ME1iMUFTUzhJYWY1V2ZKOXBVT1hwOG1obXFJN1hHdy12bGc?oc=5)
-
----
-
-### ['You get help after your first heart attack - why not after a miscarriage?'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83c18xVHRENTl5NVpUV1VjMmlPbkhLRUdvbF9iU2p1SGRmaUwwR1p0R1U2SjV6Mk5EU2RLcS00NXBlTDNQc3habUcwZ1Vwc1dJUzF3YURwamhKempU?oc=5)
-
-2026-05-24 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83c18xVHRENTl5NVpUV1VjMmlPbkhLRUdvbF9iU2p1SGRmaUwwR1p0R1U2SjV6Mk5EU2RLcS00NXBlTDNQc3habUcwZ1Vwc1dJUzF3YURwamhKempU?oc=5)
-
----
-
-### [Mutated tribe can swim to bottom of ocean after developing 'sea nomad gene'](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHRLa1BaMGFHbm9wME5HdHMyVmIzV2pIUzI0aGFtMkI3MmwtdW5pQl8wVGxVZDM3Nm1ueGdPbHNGZFNqN2NfNmp1b1V5OFdBa3VBREl6T1VfZVpwMFQxYVMwY2pmRHZwU05FdF92VENGYU5yS0sxeWdYX2ZfZHlZYw?oc=5)
-
-2026-05-24 <span class="news-indication-tag">AF</span>
-
-來源：[Indy100](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHRLa1BaMGFHbm9wME5HdHMyVmIzV2pIUzI0aGFtMkI3MmwtdW5pQl8wVGxVZDM3Nm1ueGdPbHNGZFNqN2NfNmp1b1V5OFdBa3VBREl6T1VfZVpwMFQxYVMwY2pmRHZwU05FdF92VENGYU5yS0sxeWdYX2ZfZHlZYw?oc=5)
-
----
-
-### [Besserer Schlaf durch Magnesium? Arzt verrät, wann es wirkt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTEwNHk1NFp0QzJ0WXl0RmdiQ2NwUG94akFwZ3NGN2RXc1NIRS16T25RNzRtMzZ6am1KWHUtdnc5MDk1Z2dPeWJHVlplSGhMYi1JVkc1SjVRTnFWc2h6ZWZ1YVJHMjZiSjJqOVZCeG5JQjk2OHJZd0xfTkVmOG1nLVI5S3ZZRy1mQ0pLSjAwdmV3TmJiMXdGV1FFT3oxT0FNTlE?oc=5)
-
-2026-05-24 <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTEwNHk1NFp0QzJ0WXl0RmdiQ2NwUG94akFwZ3NGN2RXc1NIRS16T25RNzRtMzZ6am1KWHUtdnc5MDk1Z2dPeWJHVlplSGhMYi1JVkc1SjVRTnFWc2h6ZWZ1YVJHMjZiSjJqOVZCeG5JQjk2OHJZd0xfTkVmOG1nLVI5S3ZZRy1mQ0pLSjAwdmV3TmJiMXdGV1FFT3oxT0FNTlE?oc=5)
 
 ---
 

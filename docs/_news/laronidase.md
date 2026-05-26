@@ -14,7 +14,7 @@ permalink: /news/laronidase/
 ---
 
 <p class="key-answer" data-question="Laronidase 有什麼相關新聞？">
-<strong>Laronidase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Laronidase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/laronidase/
 <p><a href="{{ '/drugs/laronidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Heart Failure: Vorhofflimmern bei Herzinsuffizienz – Welche Rolle spielen Medikamente? - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+2026-05-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
+
+---
+
+### [Heart Failure: Entzündung bei Kardiomyopathien – Neue Targets jenseits der Immunsuppression - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">heart failure</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
+
+---
 
 ### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
 

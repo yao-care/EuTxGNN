@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# ipertensione（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
+
+2026-05-26
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
+
+---
 
 ### [Ipertensione, mangiare pomodori ogni giorno riduce il rischio del 36%: lo studio - il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
 
@@ -98,22 +106,6 @@ permalink: /news/hypertension/
 2026-05-24
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
----
-
-### [Große Studie zeigt, wie fatal alltägliche Lebensmittel wirklich werden können - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
-
-2026-05-24
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkFKRXdKemJ5MkZqZTRnS3djQXVmNjRMc2o4bUpMa0tWSjJvRFNsLXM4RGpBa2hQSFBUQlVDVkl6bElOTjYwNWJwMFZRcnh2UEJZTy1HRlVDSFFpdWZhWVNOZkQ1X2xWcmVSbklNaWtJbTJxWVh5d0xGdVZ1RDRGUzdDcklvckRRWldYOGpuRkdOc2EzVi1fay1NUUxHN3NTNlAwS3lQa2t2Wkd3bml2dnlkdmZzRjhMX2ltSDNId0g1TGRDdDhhaXRneUNyZ2dhYXM3Wjl3Yk1TaG8?oc=5)
-
----
-
-### [Traitement de l’hypertension : matin ou soir, quel est le meilleur moment selon la science ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZk1SSWhIVXZfOHNJdlBtVFJjVE1jdEpFd3hjbFdhVU5fQzJrZHh6MW9ldkdkbHRNQkd6RTUyLTBsX2dkc3lIQ0EtenVTdlZ6ZTRlYVNINmU1ZlNuZUw5SzZJeHkzc3U0REh6TzRDT0l1WXlWMHJheWJtZ0dXN21hbmdRclpDY0swSnJHNVdfdGlfQkVjdERLVU95VEdSQjJsMlRxY1FzTy1KOUxTcUhtOFdwZWR0WWhlS3A3RjRzc1hKNkV6MnN2QW54UGg0ejEwbTRIUEtObmZSRnVxM3dKdlZ3cFNxNEdkNHZOWjlQR0d3dw?oc=5)
-
-2026-05-24
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZk1SSWhIVXZfOHNJdlBtVFJjVE1jdEpFd3hjbFdhVU5fQzJrZHh6MW9ldkdkbHRNQkd6RTUyLTBsX2dkc3lIQ0EtenVTdlZ6ZTRlYVNINmU1ZlNuZUw5SzZJeHkzc3U0REh6TzRDT0l1WXlWMHJheWJtZ0dXN21hbmdRclpDY0swSnJHNVdfdGlfQkVjdERLVU95VEdSQjJsMlRxY1FzTy1KOUxTcUhtOFdwZWR0WWhlS3A3RjRzc1hKNkV6MnN2QW54UGg0ejEwbTRIUEtObmZSRnVxM3dKdlZ3cFNxNEdkNHZOWjlQR0d3dw?oc=5)
 
 ---
 

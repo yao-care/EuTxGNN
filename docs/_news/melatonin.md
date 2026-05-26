@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Qué se sabe sobre la retatrutida, el fármaco experimental que logró bajar el 28% del peso corporal en 80 semanas](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2k5SWptWTJSTEJ0b2UtNW45TXFKY19nQmJnQkxjMDNWb3ZuWFVUSEwybEZHNUs1Wm1uUVFQc3BPTXN5NzdNeHJhMDVEUEdFWHh5dVdtVVBvdjRDS25Nc0R4RVBQR2ZDcHZVR1l3T2ViMFNuR0h5QTRNWUJCTm9YZkUyTmRqRnVUVklzU3BPMzlKbVBYVlRoWWdTQmxaalhLTTMycWFNLW1UUXo1NjAzZE9qek5xY1FIX2NaUExsTkRaQk5EWGpPb2xuMVNLY3FvUjZWMFgtcFhndlBSZG9zejZ0WC1sNm02VEZyM3lPZEJtRTZqVHZLQVRMc9IBlgJBVV95cUxNRGV6TTFlaVZWczRxeVRGcVJuX2xub2pPYUdISVlzMzhETmpvTW52U0tFS3JrNkNCcTlSaXZoblNsTUhybEswSENSbWhyeEg0d1pjVkxKMlpLMnp4NG5fSWc5Ny1fYm50TDYzelluSG42UVY4X24xb2dYcDA5NFFnbWE3eGRBZ2dnNEdIYWpURHVDQ3JDd3R5UmtoMVNaY18wWmp1WmkzV3YyYjYzTTJfNnU3R1dPWlhNQlQ3MjM4MFBRN1dFOUkyT1Eweml5UGs1amRlUlZlU0cyOUdUNWUxNlpDdEZiX1c4S1dIR2VRTEc4RHQzVkR3VjdNMGp5d182M3J6bVh3STlyS2xzMUl0bzRhbmtRZw?oc=5)
+
+2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2k5SWptWTJSTEJ0b2UtNW45TXFKY19nQmJnQkxjMDNWb3ZuWFVUSEwybEZHNUs1Wm1uUVFQc3BPTXN5NzdNeHJhMDVEUEdFWHh5dVdtVVBvdjRDS25Nc0R4RVBQR2ZDcHZVR1l3T2ViMFNuR0h5QTRNWUJCTm9YZkUyTmRqRnVUVklzU3BPMzlKbVBYVlRoWWdTQmxaalhLTTMycWFNLW1UUXo1NjAzZE9qek5xY1FIX2NaUExsTkRaQk5EWGpPb2xuMVNLY3FvUjZWMFgtcFhndlBSZG9zejZ0WC1sNm02VEZyM3lPZEJtRTZqVHZLQVRMc9IBlgJBVV95cUxNRGV6TTFlaVZWczRxeVRGcVJuX2xub2pPYUdISVlzMzhETmpvTW52U0tFS3JrNkNCcTlSaXZoblNsTUhybEswSENSbWhyeEg0d1pjVkxKMlpLMnp4NG5fSWc5Ny1fYm50TDYzelluSG42UVY4X24xb2dYcDA5NFFnbWE3eGRBZ2dnNEdIYWpURHVDQ3JDd3R5UmtoMVNaY18wWmp1WmkzV3YyYjYzTTJfNnU3R1dPWlhNQlQ3MjM4MFBRN1dFOUkyT1Eweml5UGs1amRlUlZlU0cyOUdUNWUxNlpDdEZiX1c4S1dIR2VRTEc4RHQzVkR3VjdNMGp5d182M3J6bVh3STlyS2xzMUl0bzRhbmtRZw?oc=5)
+
+---
+
+### [Northern Ireland women urged to know symptoms of disease that claims 122 lives a year - Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
+
+---
 
 ### [Chronische Entzündung: Mai-Studien zeigen Nervenschäden bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Wenn Schmerzmittel die Migräne nur noch schlimmer machen](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
+### [GLP-1 Weight Loss Drugs Could Stop Cancer Progressing Says New Study](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
 
-2026-05-24 <span class="news-indication-tag">Migräne</span>
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
-來源：[Beobachter](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcERjTGVrR0dIX1N5UnYxUWRjVm9Fc0ZXdTJYNTBXRWJOWi1vRkJWeU1CdEZwTmVWc0l2cFpZMW4zT3RQNVpaZjdoaWNhaWR4Y21sX25rQkVaT1laQnBIdUpMSWpscjByekdwOV9uMmgwMThWMnFYeXJscUpwTVFjYUthYlg0cXA4Y3JyamI5WjJqZXhXTUdwczRubmpnR2pwVXI1bVJVc0xPMXFxUHFvMV9B?oc=5)
+來源：[Forbes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
 
 ---
 

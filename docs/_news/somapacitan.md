@@ -54,11 +54,11 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（6 則）
 
-### [Diabetes-Studie Mai 2026: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDc1d2lHS2tXQl8wM1VFYUpoVHQxTFBRdkZkU2pKX3JZT1NKWHYxRURRVEZieWc3MVQ1UTc1czNScHdoOE5WeTRJZzVpazRONTNwZW0tY0xvcjVwNTc3c1ptbmtWR3dYSm5mYTU0bFk1LWdKRzJ3djBBd3VOTmdja0tBOWN4TFVDenU2bE5CbmlQYTdwR2Fpa3NpN0hlUlBKWG1scll4RjFHcjlnSmdEVFhPRXBDSHVN?oc=5)
+### ["Si on peut guérir, il ne faut pas attendre qu'il soit trop tard" : un programme pilote de dépistage du cancer du poumon recherche 20 000 volontaires](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZF9mb2RuVGNKUFZOemx3RXJEOUtXa21ocGpSTEc1QWs5bkZWUWh1RFJwSFluX2t1Sm5jVlFpSkwzb0s1b0g3X0NORWRXbFJacG9mS3k2LThPWWNKbWVfUGh6RS1LSE5qd3VhNXpvS3ZzMWVqSVY1M0FGSnN4T2NGMWtwU1FJV1FKMVFzUUdKU0JYeGdVTXZEdUpYUmJhTWVrQUhHbldNZ21PeFpTalE0VkFSZnRYaXU3LXk4bkdUSXlwZVRkTi16MjcyV1hVR3BDU0N4VTItOXF4dUdLMFlVQ1E5Zlp1NW44TkZncTBmN2hEcko4SGh4WEluT3JRNkZTLUNDa0ExbkRUUkxoc01YOUY5MEZLakJUZXNIUXNKYWtzS1hZNWRJN0dhZXpqZVU?oc=5)
 
-2026-05-25 <span class="news-indication-tag">diabetes</span>
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDc1d2lHS2tXQl8wM1VFYUpoVHQxTFBRdkZkU2pKX3JZT1NKWHYxRURRVEZieWc3MVQ1UTc1czNScHdoOE5WeTRJZzVpazRONTNwZW0tY0xvcjVwNTc3c1ptbmtWR3dYSm5mYTU0bFk1LWdKRzJ3djBBd3VOTmdja0tBOWN4TFVDenU2bE5CbmlQYTdwR2Fpa3NpN0hlUlBKWG1scll4RjFHcjlnSmdEVFhPRXBDSHVN?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZF9mb2RuVGNKUFZOemx3RXJEOUtXa21ocGpSTEc1QWs5bkZWUWh1RFJwSFluX2t1Sm5jVlFpSkwzb0s1b0g3X0NORWRXbFJacG9mS3k2LThPWWNKbWVfUGh6RS1LSE5qd3VhNXpvS3ZzMWVqSVY1M0FGSnN4T2NGMWtwU1FJV1FKMVFzUUdKU0JYeGdVTXZEdUpYUmJhTWVrQUhHbldNZ21PeFpTalE0VkFSZnRYaXU3LXk4bkdUSXlwZVRkTi16MjcyV1hVR3BDU0N4VTItOXF4dUdLMFlVQ1E5Zlp1NW44TkZncTBmN2hEcko4SGh4WEluT3JRNkZTLUNDa0ExbkRUUkxoc01YOUY5MEZLakJUZXNIUXNKYWtzS1hZNWRJN0dhZXpqZVU?oc=5)
 
 ---
 
