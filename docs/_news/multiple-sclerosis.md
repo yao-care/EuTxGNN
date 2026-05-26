@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "sclerosi multipla（multiple sclerosis） 相關新聞"
+title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "sclerosi multipla（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
-# sclerosi multipla（multiple sclerosis） 相關新聞
+# MS（multiple sclerosis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="sclerosi multipla（multiple sclerosis） 有什麼相關新聞？">
-<strong>sclerosi multipla（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「sclerosi multipla」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「MS」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,37 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
+
+### [OMS: epidemia de ébola en RD Congo es "extremadamente grave"](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3VwaE51UmNHaEZRYzAyVnpNaThfczE2cnRFektJSTl4S0pBX0Y3QURpTnpWYzI4WG53TFhSNjdoN2VjamRycHh1aE96UWttTmcwNmhhSnptWHhjMFFsQ3dYS1p1c1EyQlNFZEJmdHVSM2VGdkstRUpTU3ROVVF0aHVab1I1NWYzYU14RmZ6Rk1RaDFtSWhwRVdyd9IBmwFBVV95cUxQUUdSMDIwUXBYa25oUmt0aEh3dVFSdmIwNU9oWXl1eHNzaG80cGpMYmpnNDRCNTJCNGJiU2txWWNjQ25DQWFVYlJKeFl2NFFsZ1FQbE43V0Z2MEpGaXY1MG93eFlLS0ZOa09NaVNDbXNWbkJjc2RFNzZVQ0FDbXNwaUdfbkRabUhUQW1PZGtJZTRoZUhSQVJ6SnRPQQ?oc=5)
+
+2026-05-25
+
+來源：[dw.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3VwaE51UmNHaEZRYzAyVnpNaThfczE2cnRFektJSTl4S0pBX0Y3QURpTnpWYzI4WG53TFhSNjdoN2VjamRycHh1aE96UWttTmcwNmhhSnptWHhjMFFsQ3dYS1p1c1EyQlNFZEJmdHVSM2VGdkstRUpTU3ROVVF0aHVab1I1NWYzYU14RmZ6Rk1RaDFtSWhwRVdyd9IBmwFBVV95cUxQUUdSMDIwUXBYa25oUmt0aEh3dVFSdmIwNU9oWXl1eHNzaG80cGpMYmpnNDRCNTJCNGJiU2txWWNjQ25DQWFVYlJKeFl2NFFsZ1FQbE43V0Z2MEpGaXY1MG93eFlLS0ZOa09NaVNDbXNWbkJjc2RFNzZVQ0FDbXNwaUdfbkRabUhUQW1PZGtJZTRoZUhSQVJ6SnRPQQ?oc=5)
+
+---
 
 ### [Congresso Aism e Fism: puntiamo su prevenzione della Sm e della disabilità - Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBLdkNrQzlIZkl1N0l5a0FqV3VlWGwyTFY3VEo1U3VlX0pqQ1d2YklRUTE5UjVIOTN0T2FkTkFTcWVsbjFIMDNlTi1mMlB5MUpOUkt3WmktNklmM0NRUUZlXzJKMm5ZYmJMczhxcDFiTUktVHM5TXpZanAyOTZKVkxibWtBOWx6SHZLcWVmdzB3YTFvRVV5M1VucGNJOXVWazREdU1FSEdBMkFFdTFBWFZPMDlQTmZ6WEhPM05Xc2lKRnRQcFJsaXdZMnY0TWJRT3hFX2F5dWZTS2JWVnc?oc=5)
 
 2026-05-25
 
 來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBLdkNrQzlIZkl1N0l5a0FqV3VlWGwyTFY3VEo1U3VlX0pqQ1d2YklRUTE5UjVIOTN0T2FkTkFTcWVsbjFIMDNlTi1mMlB5MUpOUkt3WmktNklmM0NRUUZlXzJKMm5ZYmJMczhxcDFiTUktVHM5TXpZanAyOTZKVkxibWtBOWx6SHZLcWVmdzB3YTFvRVV5M1VucGNJOXVWazREdU1FSEdBMkFFdTFBWFZPMDlQTmZ6WEhPM05Xc2lKRnRQcFJsaXdZMnY0TWJRT3hFX2F5dWZTS2JWVnc?oc=5)
-
----
-
-### [OMS reporta 220 muertes sospechosas por ébola en RDC y advierte que brote supera respuesta - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzRrS1hscFRMU0VqNWtrUnJwWURHLUlRX2gxTWVKWm9qQXI2eExtaU5ER3RYSDBjeG5YdUdYU2JzZmxueC03T01vMGdLMVlkdzlhTDdFZm5SM2ZrUnNvd2tvRWVhYU9QVG5tekpLU1VpRjRXenk5MVkySkVYQ3R6WFJ0UQ?oc=5)
-
-2026-05-25
-
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzRrS1hscFRMU0VqNWtrUnJwWURHLUlRX2gxTWVKWm9qQXI2eExtaU5ER3RYSDBjeG5YdUdYU2JzZmxueC03T01vMGdLMVlkdzlhTDdFZm5SM2ZrUnNvd2tvRWVhYU9QVG5tekpLU1VpRjRXenk5MVkySkVYQ3R6WFJ0UQ?oc=5)
-
----
-
-### [El mundo se acerca a una pandemia: 3 mecanismos por activar para encararla - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVkQ2R3M0T2JOODZ5endPY1pKWVVCc3J3TUd0SUVYRHVaX3NSZ3IxRzRnMGl4dXVUa21ndlF4YWd1SGJ5WXJrLVo5eWFVMUFqazhFbzhwU2szQTJHbWtfWFEzNzJEUEN5X2xEdlBXajBsNml3dEdKVzlHTnJacE9IM0E5cHlsVm4zbm1uZG4zVFNRQk1sZ0ZUYTR1dEVDOGEteVJScnhwQmJqV2k2azROcUN0RlFncTg2ODlmYTFJV1pCX2xyLTF6RndPQ03SAcwBQVVfeXFMUGR5ZFl3UnZyaUdiUTZQNmlleHByX2pManE1UkNpRFUteHlDVlJDeWN5UkJWSFJWVndlQXJNSzRZZ0o0V3d6UEU3aFlrNjUtaHc4UGQtY0VHTkdZUjNnZXdUM0tFdEU3TWg0YnoxRDQ1NGxkZlkxeHFwN2xqN2JndEN3ZGd2YmM0cnc0OU9xNW9QYXRaR29hbHZxRVNaQWZHR2FOdk5hOVkzSEcwNGxRU21obE9aMmJ3N0xzU0JRX0ZLS2t4ZTByRmktUmNW?oc=5)
-
-2026-05-25
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVkQ2R3M0T2JOODZ5endPY1pKWVVCc3J3TUd0SUVYRHVaX3NSZ3IxRzRnMGl4dXVUa21ndlF4YWd1SGJ5WXJrLVo5eWFVMUFqazhFbzhwU2szQTJHbWtfWFEzNzJEUEN5X2xEdlBXajBsNml3dEdKVzlHTnJacE9IM0E5cHlsVm4zbm1uZG4zVFNRQk1sZ0ZUYTR1dEVDOGEteVJScnhwQmJqV2k2azROcUN0RlFncTg2ODlmYTFJV1pCX2xyLTF6RndPQ03SAcwBQVVfeXFMUGR5ZFl3UnZyaUdiUTZQNmlleHByX2pManE1UkNpRFUteHlDVlJDeWN5UkJWSFJWVndlQXJNSzRZZ0o0V3d6UEU3aFlrNjUtaHc4UGQtY0VHTkdZUjNnZXdUM0tFdEU3TWg0YnoxRDQ1NGxkZlkxeHFwN2xqN2JndEN3ZGd2YmM0cnc0OU9xNW9QYXRaR29hbHZxRVNaQWZHR2FOdk5hOVkzSEcwNGxRU21obE9aMmJ3N0xzU0JRX0ZLS2t4ZTByRmktUmNW?oc=5)
-
----
-
-### [Two suspected Ebola cases detected in Italy after return from Uganda](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzdxNDlBNUNBQ0pSa1B2LVpuaGRoMEkxWFNxSHdQNFlwTmgxSjRScG9wX0tHVHVFZjNzRmNXQXM4YWRpV0tDcmpIc0ljQkZaVVlSWjR1eFJOMmJMWnlhUl9Zc2ZPb1J4a2M3eDRkakFwN3NzR2xRdTEwaGtoclVaczIwbTdzZVVJNUhpWlpxd2N6dGlkRE1CTXZXZjhXS3ZFRlRPYmdtV19EVkw2LUF4eGMxaWJ5cHZTQ3ppdzJDUWc?oc=5)
-
-2026-05-25
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzdxNDlBNUNBQ0pSa1B2LVpuaGRoMEkxWFNxSHdQNFlwTmgxSjRScG9wX0tHVHVFZjNzRmNXQXM4YWRpV0tDcmpIc0ljQkZaVVlSWjR1eFJOMmJMWnlhUl9Zc2ZPb1J4a2M3eDRkakFwN3NzR2xRdTEwaGtoclVaczIwbTdzZVVJNUhpWlpxd2N6dGlkRE1CTXZXZjhXS3ZFRlRPYmdtV19EVkw2LUF4eGMxaWJ5cHZTQ3ppdzJDUWc?oc=5)
 
 ---
 
@@ -104,11 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [GLP-1 in der Onkologie: Hinweise auf weniger Metastasen – aber keine Freigabe für Krebsprävention - it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
+### [Nuovo studio Usa sul consumo moderato di alcol conferma la necessità di un confronto tra discipline](https://news.google.com/rss/articles/CBMiygFBVV95cUxPamtROWE0ZHB4V05zS2NzNk0ydmdpN3hfTFdGZGdQb1JJQnk3Q21ySXk0blZ3bjFpOVhPVnNFT0oxZ0w1R29HYzhoYkVsaEFKZWpkTW5XX2FqYVdlakVqMmpyWUo0cFpaNjlLV1Q1ZElSdFdxTkgycThTc3NmeHJwbjRyNkFKZjVKLVZUX2VHV19mR2ppZUtYbmhrZGRuRkQ1al9jY0QtUUJDMTBKY20tSlNGclpKcDJyT2JuQ1VuallRSWQ3cGpTcDRn?oc=5)
 
 2026-05-25
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
+來源：[WineNews](https://news.google.com/rss/articles/CBMiygFBVV95cUxPamtROWE0ZHB4V05zS2NzNk0ydmdpN3hfTFdGZGdQb1JJQnk3Q21ySXk0blZ3bjFpOVhPVnNFT0oxZ0w1R29HYzhoYkVsaEFKZWpkTW5XX2FqYVdlakVqMmpyWUo0cFpaNjlLV1Q1ZElSdFdxTkgycThTc3NmeHJwbjRyNkFKZjVKLVZUX2VHV19mR2ppZUtYbmhrZGRuRkQ1al9jY0QtUUJDMTBKY20tSlNGclpKcDJyT2JuQ1VuallRSWQ3cGpTcDRn?oc=5)
 
 ---
 

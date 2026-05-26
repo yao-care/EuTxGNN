@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Diabeteskongress 2026: Lebensstil schlägt Gene um das 2,7-Fache - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOanc0c01KVE5fTDM3SXRlRXZ0R3A4RDhReXpmZzRkSWJVZ3hQLUdPU0pLX1NfMldiX0h5U1dMemlWbWlTR1ZESGtxdGhzS3VZeFhfUjV3YlZMaXVWOXNDR3ZNa0JEVVJaa1VVQTQ2eVZMRHoxYThqYkQ2Y3pBTzFpWkRtVUlINEhkMU9Wcm9MYXNWUTJmMndsaXFLbWhpNno0Nk91QjRacmFhU09acjQtNHpn?oc=5)
+### [Diabetes-Studie Mai 2026: Lebensstil schlägt Gene um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDc1d2lHS2tXQl8wM1VFYUpoVHQxTFBRdkZkU2pKX3JZT1NKWHYxRURRVEZieWc3MVQ1UTc1czNScHdoOE5WeTRJZzVpazRONTNwZW0tY0xvcjVwNTc3c1ptbmtWR3dYSm5mYTU0bFk1LWdKRzJ3djBBd3VOTmdja0tBOWN4TFVDenU2bE5CbmlQYTdwR2Fpa3NpN0hlUlBKWG1scll4RjFHcjlnSmdEVFhPRXBDSHVN?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOanc0c01KVE5fTDM3SXRlRXZ0R3A4RDhReXpmZzRkSWJVZ3hQLUdPU0pLX1NfMldiX0h5U1dMemlWbWlTR1ZESGtxdGhzS3VZeFhfUjV3YlZMaXVWOXNDR3ZNa0JEVVJaa1VVQTQ2eVZMRHoxYThqYkQ2Y3pBTzFpWkRtVUlINEhkMU9Wcm9MYXNWUTJmMndsaXFLbWhpNno0Nk91QjRacmFhU09acjQtNHpn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDc1d2lHS2tXQl8wM1VFYUpoVHQxTFBRdkZkU2pKX3JZT1NKWHYxRURRVEZieWc3MVQ1UTc1czNScHdoOE5WeTRJZzVpazRONTNwZW0tY0xvcjVwNTc3c1ptbmtWR3dYSm5mYTU0bFk1LWdKRzJ3djBBd3VOTmdja0tBOWN4TFVDenU2bE5CbmlQYTdwR2Fpa3NpN0hlUlBKWG1scll4RjFHcjlnSmdEVFhPRXBDSHVN?oc=5)
 
 ---
 
@@ -70,6 +70,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Chronische Entzündung: Mai-Studien zeigen Nervenschäden bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
+
+---
+
 ### [Diabetes 2026: Darmprodukt TMAO verstärkt Muskelschwund um 54% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
@@ -78,27 +86,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [GLP-1 in der Onkologie: Hinweise auf weniger Metastasen – aber keine Freigabe für Krebsprävention - it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
-
-2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbGFobXBjdXBScl9zc1lFbjZsRG1ta3UtMlVqUW5xZy04cjJGWlBfTzVWY2tNcXRBR3ZoQ3d2VjU1RDh2ZXlZWjlDS09SaG40SHhFYlhfci1kZFl0NVZUVHhobjdQZ3ltVWhwMFdNRnBaRklsdllfdTZHdG9FNWxsZEVwZzlkMl9nUHVMNU1NZk1jR1c2UEVTT3BBYUhpVHIxTHQ1cEVFbm1DbVBLckQ0Q3pVWkgzQzA1S3oxZlUtaGZpN1dNbFBv?oc=5)
-
----
-
 ### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
----
-
-### [Truth about weight loss jabs as experts reveal why pounds are piled on when users stop - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTJ4bnRQV3FtNlh5S2xQZ1pnanhSZVVDV3hNbWRrNHVOZEpOX2Fxd3V1eWtGTnhaSjI0M1Z1S05mMzVfbmQ2UlVuSTZzQkpiRkp2aEZ4TndodW5ieGpITF8yaVdqdEhRMG1KSW5XRF9LYlk0T3Y0ZHVYRFdXcnIybU1yRdIBiAFBVV95cUxNQnpBSkEyY0dPbXllZmRaNU83WEZxVk1UdG1MV2hfVE5OcUY2bEF5RTd1VFB6WmNlLXFLVnAzRVhSWDJ2NndDa05RUU9NWmd0bHdnUzFIa3JTdy05a0RWcUtkTTZqRWJoU3FfWGQzZnhCdkVfamtaRDFHcDZKUElpajI4aGMzcWJk?oc=5)
-
-2026-05-24 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTJ4bnRQV3FtNlh5S2xQZ1pnanhSZVVDV3hNbWRrNHVOZEpOX2Fxd3V1eWtGTnhaSjI0M1Z1S05mMzVfbmQ2UlVuSTZzQkpiRkp2aEZ4TndodW5ieGpITF8yaVdqdEhRMG1KSW5XRF9LYlk0T3Y0ZHVYRFdXcnIybU1yRdIBiAFBVV95cUxNQnpBSkEyY0dPbXllZmRaNU83WEZxVk1UdG1MV2hfVE5OcUY2bEF5RTd1VFB6WmNlLXFLVnAzRVhSWDJ2NndDa05RUU9NWmd0bHdnUzFIa3JTdy05a0RWcUtkTTZqRWJoU3FfWGQzZnhCdkVfamtaRDFHcDZKUElpajI4aGMzcWJk?oc=5)
 
 ---
 

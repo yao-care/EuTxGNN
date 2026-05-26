@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Parkinson va frapper 25 millions de familles d’ici 2050 : une faille scientifique bouleversée par la découverte d’un gène clé](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWkNjaVJzX2xyMllZWVZoMUVCUW84Rm1DUmVNbnVmTEFuU0FzVkNwbVZnTGJTM3d3VmE3bkxVcTdoOHBYXzVBZk1FTGQ1R3puSVdoOTJtUEFSX21xa2xvd1NJWWxZQjhlNDJaTjk0QnFsWkhmVFdoLXdqcDJ6aXdMQ09DNUZKWXFaTXY0dHlRaUw4aTR4d3BHMU1oS0J4bzlkbFRyMjNtQUpGT1lIQ0FLb0dINjR2SF9oQVdISVMxWHpwZE5MZ09Eem1oSUtySnBuTUtFYVc5d3VzeTQ?oc=5)
-
-2026-05-24 <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[MyJugaad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWkNjaVJzX2xyMllZWVZoMUVCUW84Rm1DUmVNbnVmTEFuU0FzVkNwbVZnTGJTM3d3VmE3bkxVcTdoOHBYXzVBZk1FTGQ1R3puSVdoOTJtUEFSX21xa2xvd1NJWWxZQjhlNDJaTjk0QnFsWkhmVFdoLXdqcDJ6aXdMQ09DNUZKWXFaTXY0dHlRaUw4aTR4d3BHMU1oS0J4bzlkbFRyMjNtQUpGT1lIQ0FLb0dINjR2SF9oQVdISVMxWHpwZE5MZ09Eem1oSUtySnBuTUtFYVc5d3VzeTQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

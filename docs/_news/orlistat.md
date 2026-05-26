@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Blutgruppe A erhöht Risiko für frühen Schlaganfall: Genstudie im Detail - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeS1kV0w0bDhyTkJ3M0JjOW1Pckx3b2dQdWljZmFZdmhXR1hWRDVkVUZUTVlLNDFHUkZqTHpLNmhzeXluUHNuVzByV3BaYlBQU3hValJpUFFDYkhxNWdRVlhiUzVteUExcFI3Ny1XX1cwU3pXTTRSd09icVNWYU5SX0F2YXBMbkZIemhMYS1vWWJXSE5mbzdkZGFDZnNsb0YwRmxoZnRXUHA?oc=5)
+
+2026-05-25 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeS1kV0w0bDhyTkJ3M0JjOW1Pckx3b2dQdWljZmFZdmhXR1hWRDVkVUZUTVlLNDFHUkZqTHpLNmhzeXluUHNuVzByV3BaYlBQU3hValJpUFFDYkhxNWdRVlhiUzVteUExcFI3Ny1XX1cwU3pXTTRSd09icVNWYU5SX0F2YXBMbkZIemhMYS1vWWJXSE5mbzdkZGFDZnNsb0YwRmxoZnRXUHA?oc=5)
+
+---
 
 ### [Chronische Entzündung: Mai-Studien zeigen Nervenschäden bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
 
-2026-05-25 <span class="news-indication-tag">Adipositas</span>
+2026-05-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
 
 ---
 
-### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+### [My teenage daughter, 14, was left paralysed after having the FLU - and was left in coma after suffering a STROKE](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
 
 2026-05-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSzlKWHk3V0N6OWY4Zm5xeEU0cFVQc21rQm9vSk9Gbmp2eGlhajNKWTdMUXFmd3NlbldsaWlld1lHWF9yaW9hd1NLMmI1RjQ2U3YyaTdoeEdsN05TRDRlWjcwTEJPRVpOZFhmdjNlRUgtdWtNdHQwN0hVSXBWZ25EcHd3?oc=5)
 
 ---
 
