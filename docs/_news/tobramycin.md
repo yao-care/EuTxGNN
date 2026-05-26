@@ -70,11 +70,11 @@ permalink: /news/tobramycin/
 
 ---
 
-### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
+### [PMOS-Umbenennung, Kerendia in China und Retatrutid: Neue Leitplanken der Stoffwechselmedizin - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
 
 2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ permalink: /news/eslicarbazepine-acetate/
 <li>reading seizures（96.9%）</li>
 <li>trigeminal nerve neoplasm（95.9%）</li>
 <li>partial motor epilepsy（95.3%）</li>
-<li class="indication-matched">epilepsy（92.4%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（92.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [La investigación sobre la mutación del gen KCNQ2, causante de una grave epilepsia en bebés, abre una puerta a futuros tratamientos para el ictus o el ELA](https://news.google.com/rss/articles/CBMikAJBVV95cUxQWS1wenFBazd5dVRfcVNNN2IycWhVMm91X0NmRElwczBHZ2NGbFdyd1JiNG5mcGhrM0p3aHF5cm9ablRWQ0lsUlRwdlJXTzRLUzJyLWRiT0pNczk4WmlUTVpyZ1Q4SUhwUjZTSUlPM3c1VjQ5NXF6OXBLb1c4X0puQmM4Uk8xbXpjaGdhRk82dWc3cWVVODJzWUl0amZrdEViY1pfblpjRU45eGIzUGY3SVhhSFVjanJrZ2JUeUYxdjFIOG9WRTRUamlnNHRoU0Q3bC12RHFORUZmb2tNRU55bXpBUklMTmd3V0hwcHhndVAxX1RtTFd1ZU10emhtZGdNVnpPMGs3VVBfSEV4cXVUX9IBlgJBVV95cUxNeEhIOVdYenZ2SmwxeVRRdGhMZXRsREY3RTRLZUdjcFhOTmxxVnM0Q2NVcFRBNjg4UDFqenFVWTZ3STBZN2lGcFdNajBUdkZzYk5zYklNcEFiNmJLOUFVM3hmSW5uTG1WbmpYd2p1VU5RSEc2MWhPMHlYZkFlVTF5b1ZibE9qdzRqNnBPSWtXUUVjOTBhenJSMTNvTzdWSXlQLTY1cE1vVlBUMmJqUXhlQzVucEROUWdGZUZlSWw5TmV1YmtEd1J2M3RxdXZ3SWdfbmhUX3ZfQXNZNkN5SUlMZ0xRTjRadlMxQzRNaWhYNGswSEV1ZFJucVkyRy01X1EzZlpPbWstMTlaYVpZcUFtUW5FWmNEUQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">epilepsia</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMikAJBVV95cUxQWS1wenFBazd5dVRfcVNNN2IycWhVMm91X0NmRElwczBHZ2NGbFdyd1JiNG5mcGhrM0p3aHF5cm9ablRWQ0lsUlRwdlJXTzRLUzJyLWRiT0pNczk4WmlUTVpyZ1Q4SUhwUjZTSUlPM3c1VjQ5NXF6OXBLb1c4X0puQmM4Uk8xbXpjaGdhRk82dWc3cWVVODJzWUl0amZrdEViY1pfblpjRU45eGIzUGY3SVhhSFVjanJrZ2JUeUYxdjFIOG9WRTRUamlnNHRoU0Q3bC12RHFORUZmb2tNRU55bXpBUklMTmd3V0hwcHhndVAxX1RtTFd1ZU10emhtZGdNVnpPMGs3VVBfSEV4cXVUX9IBlgJBVV95cUxNeEhIOVdYenZ2SmwxeVRRdGhMZXRsREY3RTRLZUdjcFhOTmxxVnM0Q2NVcFRBNjg4UDFqenFVWTZ3STBZN2lGcFdNajBUdkZzYk5zYklNcEFiNmJLOUFVM3hmSW5uTG1WbmpYd2p1VU5RSEc2MWhPMHlYZkFlVTF5b1ZibE9qdzRqNnBPSWtXUUVjOTBhenJSMTNvTzdWSXlQLTY1cE1vVlBUMmJqUXhlQzVucEROUWdGZUZlSWw5TmV1YmtEd1J2M3RxdXZ3SWdfbmhUX3ZfQXNZNkN5SUlMZ0xRTjRadlMxQzRNaWhYNGswSEV1ZFJucVkyRy01X1EzZlpPbWstMTlaYVpZcUFtUW5FWmNEUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

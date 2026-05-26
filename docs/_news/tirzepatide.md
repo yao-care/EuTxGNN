@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Brits on Ozempic and Mounjaro issued heatwave warning as jabs put users at serious risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGd6WHR6QkVGQS1XUnBtMFI5N2EzMFVDSUpyMG13MTYtR0hzSFNoLU5tSEV1cjVzRFQtOURrMFdDbndXWFNqblVnRVdfa3RXOElnbTZtdjBDNnVIWlBiaVJGZ0ViQ3M5Y252ekh0VG41QWZsNS1tY0NkaDBFZnhXR0xwQjhkS0VUdHptU2E3ZmRLa3dUQ2RxZjFITjdRaGt6cUI5cVRNcm9ZYkXSAbABQVVfeXFMUDRKV2lCcWJQZ1N3ZFVYcW92UVNaaUdyc0NDcUU2ZFBiZjA0cFZjcHdBT2lIbFJfaDZSLUQ2UjRKcWt1T0Z5N1FEM2VJOEVfSmhadWlObi1kOGc4VkZDZW16MS0wRktBdXZUREJPa1ptbDAwMkQ2dDBTelJ6aHNycnBLLUtfT1I4WG8xNE1TNmUwUnVWcWlfTnJsVFRla2xzLVlLOG9qM0RsSG5jNFpWM3k?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGd6WHR6QkVGQS1XUnBtMFI5N2EzMFVDSUpyMG13MTYtR0hzSFNoLU5tSEV1cjVzRFQtOURrMFdDbndXWFNqblVnRVdfa3RXOElnbTZtdjBDNnVIWlBiaVJGZ0ViQ3M5Y252ekh0VG41QWZsNS1tY0NkaDBFZnhXR0xwQjhkS0VUdHptU2E3ZmRLa3dUQ2RxZjFITjdRaGt6cUI5cVRNcm9ZYkXSAbABQVVfeXFMUDRKV2lCcWJQZ1N3ZFVYcW92UVNaaUdyc0NDcUU2ZFBiZjA0cFZjcHdBT2lIbFJfaDZSLUQ2UjRKcWt1T0Z5N1FEM2VJOEVfSmhadWlObi1kOGc4VkZDZW16MS0wRktBdXZUREJPa1ptbDAwMkQ2dDBTelJ6aHNycnBLLUtfT1I4WG8xNE1TNmUwUnVWcWlfTnJsVFRla2xzLVlLOG9qM0RsSG5jNFpWM3k?oc=5)
+
+---
 
 ### ['I’m stuck in ‘jab trap’ after losing 3st on Mounjaro’: The dangerous rise of GLP-1 ‘disorder’ plaguing scared slimmers - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjJHdFd4cnVuWWk5bkR5SndleGNlc3FWVVpPLWdlQm5nNkFrWFV2XzhoUzRzdmlwN1djaEwyMDJ3aWlmem1OSzh5aUxKcjVjTkxtdEM3bm84eHdGcVNZQkZ5VW5ZQm9ibTY0MmdTOW9HclFQdWxBbjBKRFJmdDJTLWM0UFJQVUxCU3hxWmlB?oc=5)
 

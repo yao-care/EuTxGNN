@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（8 則）
 
 ### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
 
@@ -94,19 +94,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Blutgruppe A erhöht Risiko für frühen Schlaganfall: Genstudie im Detail - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeS1kV0w0bDhyTkJ3M0JjOW1Pckx3b2dQdWljZmFZdmhXR1hWRDVkVUZUTVlLNDFHUkZqTHpLNmhzeXluUHNuVzByV3BaYlBQU3hValJpUFFDYkhxNWdRVlhiUzVteUExcFI3Ny1XX1cwU3pXTTRSd09icVNWYU5SX0F2YXBMbkZIemhMYS1vWWJXSE5mbzdkZGFDZnNsb0YwRmxoZnRXUHA?oc=5)
+### [PMOS-Umbenennung, Kerendia in China und Retatrutid: Neue Leitplanken der Stoffwechselmedizin - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
 
-2026-05-25 <span class="news-indication-tag">Schlaganfall</span>
+2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeS1kV0w0bDhyTkJ3M0JjOW1Pckx3b2dQdWljZmFZdmhXR1hWRDVkVUZUTVlLNDFHUkZqTHpLNmhzeXluUHNuVzByV3BaYlBQU3hValJpUFFDYkhxNWdRVlhiUzVteUExcFI3Ny1XX1cwU3pXTTRSd09icVNWYU5SX0F2YXBMbkZIemhMYS1vWWJXSE5mbzdkZGFDZnNsb0YwRmxoZnRXUHA?oc=5)
-
----
-
-### [La investigación sobre la mutación del gen KCNQ2, causante de una grave epilepsia en bebés, abre una puerta a futuros tratamientos para el ictus o el ELA](https://news.google.com/rss/articles/CBMikAJBVV95cUxQWS1wenFBazd5dVRfcVNNN2IycWhVMm91X0NmRElwczBHZ2NGbFdyd1JiNG5mcGhrM0p3aHF5cm9ablRWQ0lsUlRwdlJXTzRLUzJyLWRiT0pNczk4WmlUTVpyZ1Q4SUhwUjZTSUlPM3c1VjQ5NXF6OXBLb1c4X0puQmM4Uk8xbXpjaGdhRk82dWc3cWVVODJzWUl0amZrdEViY1pfblpjRU45eGIzUGY3SVhhSFVjanJrZ2JUeUYxdjFIOG9WRTRUamlnNHRoU0Q3bC12RHFORUZmb2tNRU55bXpBUklMTmd3V0hwcHhndVAxX1RtTFd1ZU10emhtZGdNVnpPMGs3VVBfSEV4cXVUX9IBlgJBVV95cUxNeEhIOVdYenZ2SmwxeVRRdGhMZXRsREY3RTRLZUdjcFhOTmxxVnM0Q2NVcFRBNjg4UDFqenFVWTZ3STBZN2lGcFdNajBUdkZzYk5zYklNcEFiNmJLOUFVM3hmSW5uTG1WbmpYd2p1VU5RSEc2MWhPMHlYZkFlVTF5b1ZibE9qdzRqNnBPSWtXUUVjOTBhenJSMTNvTzdWSXlQLTY1cE1vVlBUMmJqUXhlQzVucEROUWdGZUZlSWw5TmV1YmtEd1J2M3RxdXZ3SWdfbmhUX3ZfQXNZNkN5SUlMZ0xRTjRadlMxQzRNaWhYNGswSEV1ZFJucVkyRy01X1EzZlpPbWstMTlaYVpZcUFtUW5FWmNEUQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">epilepsia</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMikAJBVV95cUxQWS1wenFBazd5dVRfcVNNN2IycWhVMm91X0NmRElwczBHZ2NGbFdyd1JiNG5mcGhrM0p3aHF5cm9ablRWQ0lsUlRwdlJXTzRLUzJyLWRiT0pNczk4WmlUTVpyZ1Q4SUhwUjZTSUlPM3c1VjQ5NXF6OXBLb1c4X0puQmM4Uk8xbXpjaGdhRk82dWc3cWVVODJzWUl0amZrdEViY1pfblpjRU45eGIzUGY3SVhhSFVjanJrZ2JUeUYxdjFIOG9WRTRUamlnNHRoU0Q3bC12RHFORUZmb2tNRU55bXpBUklMTmd3V0hwcHhndVAxX1RtTFd1ZU10emhtZGdNVnpPMGs3VVBfSEV4cXVUX9IBlgJBVV95cUxNeEhIOVdYenZ2SmwxeVRRdGhMZXRsREY3RTRLZUdjcFhOTmxxVnM0Q2NVcFRBNjg4UDFqenFVWTZ3STBZN2lGcFdNajBUdkZzYk5zYklNcEFiNmJLOUFVM3hmSW5uTG1WbmpYd2p1VU5RSEc2MWhPMHlYZkFlVTF5b1ZibE9qdzRqNnBPSWtXUUVjOTBhenJSMTNvTzdWSXlQLTY1cE1vVlBUMmJqUXhlQzVucEROUWdGZUZlSWw5TmV1YmtEd1J2M3RxdXZ3SWdfbmhUX3ZfQXNZNkN5SUlMZ0xRTjRadlMxQzRNaWhYNGswSEV1ZFJucVkyRy01X1EzZlpPbWstMTlaYVpZcUFtUW5FWmNEUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
 
 ---
 
@@ -123,30 +115,6 @@ permalink: /news/telmisartan/
 2026-05-25 <span class="news-indication-tag">ipertensione</span>
 
 來源：[il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
-
----
-
-### [Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom - Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
-
-2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Weser Kurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkdidDVldWpjNFVrSzY1bEFvS09YRVZBeXJRNTRucmFHcE1FOGpIbExVS2VBVXVpaDZGdnhmeExuSm00c0g0SEVKc3YxSkE5bU5LNXJxUzJQYXNIdjZPRnJTY0QxVHFDYThQRmxVVmlyRTJyb2JqS2cwc2psVXFXa2hZUW9OWFBDSUo1ZmNPTjdNZ2M3UDM0OENDek9TSE04NXJVeFBBR0dIY0lzR0dwSExuUmllNHRaMHNaelBpOWJLUDBk?oc=5)
-
----
-
-### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
-2026-05-24 <span class="news-indication-tag">hypertension</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
----
-
-### [L'allarme dei cardiologi: "Con cannabis rischio d'infarto aumenta di 6 volte, di ictus del 40%" - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEM0emJsc1dLcjlSNUgydzRSaTNlclUtM0Q5VlBYbi1NZ25xMFZzc3BnQmFEWjR1YTFSQ2RQclFCYTc4aGJ4SVo5ZmdENmw3NVRSTnlqWkRPMUJpSzhHenFxU2pzTjlsOHNNa3dSNF8taE1uTEo3OG5kTC1wSlk1d0pPanpjUjBQRUxVUjZ2VmZKSnRzb294Q3Q5dDRfbG12UTRlaVRpdjVfNldLWUloYm1XdEpGZFJiWWVlOTJzdjNXVWNQWk5WdS1pendoREJndHROOUNlN1BaZV9TbXE4WTdRS2Jhb3JfT1ZR0gHEAUFVX3lxTE9rTTlhVm5WbGJicW0wOGVBWEtWRF9wbkMzblFJWlExdVhOd0dLSUpSd2tHUlQ0ajdFWG82QkY1dllCcndQTjYzSjZqcXhHWllyT1hCZ01wVi1VQjNEaGpDZnEyUVNBdllCMUpGWnE3cFlsUEFRR00wQ0hmSnFmeFFiNjd1NnBWMHJ1WjlHMkFHRU04S3B4dDlZdUJIMjRpQXFIcl8wNFh6aXZXYkFXUlpQOWZ2Q19jYnF5aV9FUGZ3VFl2OE4?oc=5)
-
-2026-05-24 <span class="news-indication-tag">ictus</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEM0emJsc1dLcjlSNUgydzRSaTNlclUtM0Q5VlBYbi1NZ25xMFZzc3BnQmFEWjR1YTFSQ2RQclFCYTc4aGJ4SVo5ZmdENmw3NVRSTnlqWkRPMUJpSzhHenFxU2pzTjlsOHNNa3dSNF8taE1uTEo3OG5kTC1wSlk1d0pPanpjUjBQRUxVUjZ2VmZKSnRzb294Q3Q5dDRfbG12UTRlaVRpdjVfNldLWUloYm1XdEpGZFJiWWVlOTJzdjNXVWNQWk5WdS1pendoREJndHROOUNlN1BaZV9TbXE4WTdRS2Jhb3JfT1ZR0gHEAUFVX3lxTE9rTTlhVm5WbGJicW0wOGVBWEtWRF9wbkMzblFJWlExdVhOd0dLSUpSd2tHUlQ0ajdFWG82QkY1dllCcndQTjYzSjZqcXhHWllyT1hCZ01wVi1VQjNEaGpDZnEyUVNBdllCMUpGWnE3cFlsUEFRR00wQ0hmSnFmeFFiNjd1NnBWMHJ1WjlHMkFHRU04S3B4dDlZdUJIMjRpQXFIcl8wNFh6aXZXYkFXUlpQOWZ2Q19jYnF5aV9FUGZ3VFl2OE4?oc=5)
 
 ---
 

@@ -56,7 +56,7 @@ permalink: /news/tasimelteon/
 
 ### [A Single Dose of Psilocybin Could Ease Depression For Months, New Study Finds](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUc4ZVFFem9EdjJqcG9jdEdmeFQ2cW43OGNtanMzcXY0T1doNFIyWDhwSzJYZk50UWl0emg2RmpnQ3VsaWhCQkJTcUEzdFBPVWF3NWMzRktuLURzS2tsTlYwR1llcTVCdDI2X29sLVRpejRlZU1vek5DUzVVbHNFbHhhVThfelFQbmNpZXd0ZXAzOU1PQUk3cXduWk1qczRtVjluVS1UNGY?oc=5)
 
-2026-05-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-05-25 <span class="news-indication-tag">depression</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUc4ZVFFem9EdjJqcG9jdEdmeFQ2cW43OGNtanMzcXY0T1doNFIyWDhwSzJYZk50UWl0emg2RmpnQ3VsaWhCQkJTcUEzdFBPVWF3NWMzRktuLURzS2tsTlYwR1llcTVCdDI2X29sLVRpejRlZU1vek5DUzVVbHNFbHhhVThfelFQbmNpZXd0ZXAzOU1PQUk3cXduWk1qczRtVjluVS1UNGY?oc=5)
 

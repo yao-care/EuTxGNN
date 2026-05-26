@@ -54,19 +54,19 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（6 則）
 
-### [La obesidad no es un problema personal: - Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSEp0RVVXemRIUWlIVFAyNnVDV1VZLUJJQ1NCQTZuV2pHUGp0YjNUWGNvNmJnUTE4YlNrWjFsak1kU190elgtdmZFQUFQM1owcDI4dTAzanpHc09ibmZCTTc3NVFPelVZR0o4TWdXMlZqTndpWXdMRjM0OTN3Rk0?oc=5)
-
-2026-05-26 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSEp0RVVXemRIUWlIVFAyNnVDV1VZLUJJQ1NCQTZuV2pHUGp0YjNUWGNvNmJnUTE4YlNrWjFsak1kU190elgtdmZFQUFQM1owcDI4dTAzanpHc09ibmZCTTc3NVFPelVZR0o4TWdXMlZqTndpWXdMRjM0OTN3Rk0?oc=5)
-
----
-
 ### [Adipositas und Medikamente beeinflussen Testosteron und Spermienzahl – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
+
+---
+
+### [Investigadores de la UGR descubren que la melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
 
 ---
 

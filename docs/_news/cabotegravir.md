@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
+
+### [Menschen mit Typ-2-Diabetes haben ein erhöhtes Risiko für Riech- und Schmeckstörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
+
+---
+
+### [Un perfil de colesterol más nocivo podría explicar parte del riesgo cardiovascular en la diabetes tipo 1 bien controlada - La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
+
+---
 
 ### [Typ-1-Diabetes: Erste Immuntherapie Teplizumab verzögert Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
 
@@ -62,11 +78,27 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Investigadores de la UGR descubren que la melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
+
+---
+
 ### [Medizinische Fakultät/Universitätsklinikum Magdeburg A. ö. R. - Telefonforum am 2. Juni 2026 zum Thema: Lunge im Fokus – Antworten zu Asthma, Allergien, COPD, Lungenkrebs, zu Husten & Atemnot](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[med.ovgu.de](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
+
+---
+
+### [Diabetes-Kongress Berlin: Ernährung verhindert 5,9 Millionen Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPalBJLVh0WXdUMmg1SVVsaUEwVG5qWHdzR1VickNoWEJvSW5iY1lhdV9qWTFUZTdOWU5yNlRDb1F6V05PTTlReFNzYkUtb2c5LXVrQWl5dFhNUXdURE4wZUFWblVYN04xWGtSNElseEFMMFI1SnpnSk56LVhaNkRWYUtjck42RlNpYzhIcXR2TXNUUWNHazNNdzRaa2NHdFNxQkphTHBYWlp1RHJKa25wRmNKUzJLNTJSUUswbGNB?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPalBJLVh0WXdUMmg1SVVsaUEwVG5qWHdzR1VickNoWEJvSW5iY1lhdV9qWTFUZTdOWU5yNlRDb1F6V05PTTlReFNzYkUtb2c5LXVrQWl5dFhNUXdURE4wZUFWblVYN04xWGtSNElseEFMMFI1SnpnSk56LVhaNkRWYUtjck42RlNpYzhIcXR2TXNUUWNHazNNdzRaa2NHdFNxQkphTHBYWlp1RHJKa25wRmNKUzJLNTJSUUswbGNB?oc=5)
 
 ---
 

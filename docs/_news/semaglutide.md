@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（13 則）
+
+### [Menschen mit Typ-2-Diabetes haben ein erhöhtes Risiko für Riech- und Schmeckstörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
+
+---
+
+### [Un perfil de colesterol más nocivo podría explicar parte del riesgo cardiovascular en la diabetes tipo 1 bien controlada - La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
+
+---
+
+### [Brits on Ozempic and Mounjaro issued heatwave warning as jabs put users at serious risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGd6WHR6QkVGQS1XUnBtMFI5N2EzMFVDSUpyMG13MTYtR0hzSFNoLU5tSEV1cjVzRFQtOURrMFdDbndXWFNqblVnRVdfa3RXOElnbTZtdjBDNnVIWlBiaVJGZ0ViQ3M5Y252ekh0VG41QWZsNS1tY0NkaDBFZnhXR0xwQjhkS0VUdHptU2E3ZmRLa3dUQ2RxZjFITjdRaGt6cUI5cVRNcm9ZYkXSAbABQVVfeXFMUDRKV2lCcWJQZ1N3ZFVYcW92UVNaaUdyc0NDcUU2ZFBiZjA0cFZjcHdBT2lIbFJfaDZSLUQ2UjRKcWt1T0Z5N1FEM2VJOEVfSmhadWlObi1kOGc4VkZDZW16MS0wRktBdXZUREJPa1ptbDAwMkQ2dDBTelJ6aHNycnBLLUtfT1I4WG8xNE1TNmUwUnVWcWlfTnJsVFRla2xzLVlLOG9qM0RsSG5jNFpWM3k?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGd6WHR6QkVGQS1XUnBtMFI5N2EzMFVDSUpyMG13MTYtR0hzSFNoLU5tSEV1cjVzRFQtOURrMFdDbndXWFNqblVnRVdfa3RXOElnbTZtdjBDNnVIWlBiaVJGZ0ViQ3M5Y252ekh0VG41QWZsNS1tY0NkaDBFZnhXR0xwQjhkS0VUdHptU2E3ZmRLa3dUQ2RxZjFITjdRaGt6cUI5cVRNcm9ZYkXSAbABQVVfeXFMUDRKV2lCcWJQZ1N3ZFVYcW92UVNaaUdyc0NDcUU2ZFBiZjA0cFZjcHdBT2lIbFJfaDZSLUQ2UjRKcWt1T0Z5N1FEM2VJOEVfSmhadWlObi1kOGc4VkZDZW16MS0wRktBdXZUREJPa1ptbDAwMkQ2dDBTelJ6aHNycnBLLUtfT1I4WG8xNE1TNmUwUnVWcWlfTnJsVFRla2xzLVlLOG9qM0RsSG5jNFpWM3k?oc=5)
+
+---
 
 ### [Typ-1-Diabetes: Erste Immuntherapie Teplizumab verzögert Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
 
@@ -67,6 +91,22 @@ permalink: /news/semaglutide/
 2026-05-26 <span class="news-drug-tag">Roflumilast</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMijAFBVV95cUxOY0QwSnRpYmwtQmw4N0NmM21MNEpKSVFSRFdhMk90aWQzbVhmMWhxNXdQN2tfRTByX3hOLXRSaENMVnpQZ0ZWWFhkY3gzU0hRSERSNFRZczQzT0tHUUJ2dkNFdjZzaGY1RUllOGsycF9VRkJNRDQ0RzNhbWZscVUxMXczLV93TGZSalE3SA?oc=5)
+
+---
+
+### [Investigadores de la UGR descubren que la melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
+
+---
+
+### [Diabetes-Kongress Berlin: Ernährung verhindert 5,9 Millionen Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPalBJLVh0WXdUMmg1SVVsaUEwVG5qWHdzR1VickNoWEJvSW5iY1lhdV9qWTFUZTdOWU5yNlRDb1F6V05PTTlReFNzYkUtb2c5LXVrQWl5dFhNUXdURE4wZUFWblVYN04xWGtSNElseEFMMFI1SnpnSk56LVhaNkRWYUtjck42RlNpYzhIcXR2TXNUUWNHazNNdzRaa2NHdFNxQkphTHBYWlp1RHJKa25wRmNKUzJLNTJSUUswbGNB?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPalBJLVh0WXdUMmg1SVVsaUEwVG5qWHdzR1VickNoWEJvSW5iY1lhdV9qWTFUZTdOWU5yNlRDb1F6V05PTTlReFNzYkUtb2c5LXVrQWl5dFhNUXdURE4wZUFWblVYN04xWGtSNElseEFMMFI1SnpnSk56LVhaNkRWYUtjck42RlNpYzhIcXR2TXNUUWNHazNNdzRaa2NHdFNxQkphTHBYWlp1RHJKa25wRmNKUzJLNTJSUUswbGNB?oc=5)
 
 ---
 
@@ -86,7 +126,15 @@ permalink: /news/semaglutide/
 
 ---
 
-### [GLP-1 Weight Loss Drugs Could Stop Cancer Progressing Says New Study](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
+### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
+
+2026-05-25 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Vademecum.es](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
+
+---
+
+### [GLP-1 Weight Loss Drugs Could Stop Cancer Progressing, Says New Study](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
 
 2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
 
