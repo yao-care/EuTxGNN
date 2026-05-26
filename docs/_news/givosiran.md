@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
+
+---
+
+### [La farmacia refuerza el control de la hipertensión: "Muchas veces los pacientes dejan la medicación porque creen que ya están bien" - El Globalfarma](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWFzZC1mLTB5aG5LSkVPalFxaDRyODI1SHlGMWJlS3JYZ3NUcnZtdGRUbE1haDRHZ01RNU9tc1RpMlVTb2NGcS1GN1E0OFdVdGozSlJnanV0aHBhTDZvYlp3UzN1RXF5cWRORG1DdXp0cWJPTUdNdjdvbjdGdGRJRjFKOEU1dWlmWi1hZUlhWXpzZnVqcUd1dmVaSU9odk5JRXhQb0dzQ05kRmQ0bkE?oc=5)
+
+2026-05-26 <span class="news-indication-tag">hipertensión</span>
+
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWFzZC1mLTB5aG5LSkVPalFxaDRyODI1SHlGMWJlS3JYZ3NUcnZtdGRUbE1haDRHZ01RNU9tc1RpMlVTb2NGcS1GN1E0OFdVdGozSlJnanV0aHBhTDZvYlp3UzN1RXF5cWRORG1DdXp0cWJPTUdNdjdvbjdGdGRJRjFKOEU1dWlmWi1hZUlhWXpzZnVqcUd1dmVaSU9odk5JRXhQb0dzQ05kRmQ0bkE?oc=5)
 
 ---
 
@@ -72,7 +80,7 @@ permalink: /news/givosiran/
 
 ### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+2026-05-24 <span class="news-indication-tag">hypertension</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 

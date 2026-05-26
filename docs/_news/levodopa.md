@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Drug taken by millions found to increase dementia risk by 33 per cent - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFB6MXlmTlZmRE5tcDg0eDVaQ0l2dmxobnI2dVV6VFpod3I5bFBEMnVOaVlCRTN6QVFYWU9peUFpc1lCRDI1Z0ZWRkl3VXhVUHdpOVV6d0Y2ZzZaWHZ2cEhIa3F5TjBWMzAzbjg1VzRSUm5aME1URGFpNVA5T1I1VjBSWlNGVm_SAYwBQVVfeXFMUHNzNFVBQndlejNjOWx2blVYQTBuX2JGMG5sTFlFSFhKYlFSNnRQcTF1b0xWYXJmMURpOU1aa2h1WVdhNkFWQjQ1YXR3a3NpV2h5UDV3SVo2VkRTVzNVSFF6cjJ6ekVsUHVQRE4yWktGT2tuZTgzcTdFM1B1S2xhX0Y2T3Z2V1dURUE0N2I?oc=5)
+
+2026-05-26 <span class="news-indication-tag">dementia</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFB6MXlmTlZmRE5tcDg0eDVaQ0l2dmxobnI2dVV6VFpod3I5bFBEMnVOaVlCRTN6QVFYWU9peUFpc1lCRDI1Z0ZWRkl3VXhVUHdpOVV6d0Y2ZzZaWHZ2cEhIa3F5TjBWMzAzbjg1VzRSUm5aME1URGFpNVA5T1I1VjBSWlNGVm_SAYwBQVVfeXFMUHNzNFVBQndlejNjOWx2blVYQTBuX2JGMG5sTFlFSFhKYlFSNnRQcTF1b0xWYXJmMURpOU1aa2h1WVdhNkFWQjQ1YXR3a3NpV2h5UDV3SVo2VkRTVzNVSFF6cjJ6ekVsUHVQRE4yWktGT2tuZTgzcTdFM1B1S2xhX0Y2T3Z2V1dURUE0N2I?oc=5)
+
+---
 
 ### ['Dementia is such a cruel disease - I created something to give back some dignity'](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUG1wempmcTVZYUhSZWRiRl9CTXY4WEpraDljMG85dWduNmJVOXlfdmhPZG5WaHB5MzdnUEVjejNBa0F1VG9CQjRwUW16RDBTRHRPbjlaeEdlSDktbkdTMHVhRmpBQ3ZEeTI0T0dESGlRckdNNVNBM01mSWVWTDY1U1l6X0FyVEFXemthZ0JCbFprTXRqVjI5c1FiZFJGZTFWV19Z0gGoAUFVX3lxTE1EMzJrYjNsaTc0dmMzOXVzVDJ3NlhKNXJ4Y1lOWnhIMW13NjYxcDJrTng4VDdweVl1OUZUbmE2R0JLaHl4NU5Ub25nRXljX01sbnhlMHpFak1ZUFB2LVliRE5ZTFN4Mk53T1hod2g0Qm80cE1WeWRBNVFYUVJIUE95bnRfOHlqNzVPanN6eEpOX3FfQi1XVUo3enZlcEFoMGk2dlZuX2JqYQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Typ-1-Diabetes: Erste Immuntherapie Teplizumab verzögert Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
+
+---
+
+### [Medizinische Fakultät/Universitätsklinikum Magdeburg A. ö. R. - Telefonforum am 2. Juni 2026 zum Thema: Lunge im Fokus – Antworten zu Asthma, Allergien, COPD, Lungenkrebs, zu Husten & Atemnot](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
+
+2026-05-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[med.ovgu.de](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
+
+---
 
 ### ["Si on peut guérir, il ne faut pas attendre qu'il soit trop tard" : un programme pilote de dépistage du cancer du poumon recherche 20 000 volontaires](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZF9mb2RuVGNKUFZOemx3RXJEOUtXa21ocGpSTEc1QWs5bkZWUWh1RFJwSFluX2t1Sm5jVlFpSkwzb0s1b0g3X0NORWRXbFJacG9mS3k2LThPWWNKbWVfUGh6RS1LSE5qd3VhNXpvS3ZzMWVqSVY1M0FGSnN4T2NGMWtwU1FJV1FKMVFzUUdKU0JYeGdVTXZEdUpYUmJhTWVrQUhHbldNZ21PeFpTalE0VkFSZnRYaXU3LXk4bkdUSXlwZVRkTi16MjcyV1hVR3BDU0N4VTItOXF4dUdLMFlVQ1E5Zlp1NW44TkZncTBmN2hEcko4SGh4WEluT3JRNkZTLUNDa0ExbkRUUkxoc01YOUY5MEZLakJUZXNIUXNKYWtzS1hZNWRJN0dhZXpqZVU?oc=5)
 
@@ -78,19 +94,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+---
+
 ### [Diabetes 2026: Darmprodukt TMAO verstärkt Muskelschwund um 54% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
-
----
-
-### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Qué se sabe sobre la retatrutida, el fármaco experimental que logró bajar el 28% del peso corporal en 80 semanas](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2k5SWptWTJSTEJ0b2UtNW45TXFKY19nQmJnQkxjMDNWb3ZuWFVUSEwybEZHNUs1Wm1uUVFQc3BPTXN5NzdNeHJhMDVEUEdFWHh5dVdtVVBvdjRDS25Nc0R4RVBQR2ZDcHZVR1l3T2ViMFNuR0h5QTRNWUJCTm9YZkUyTmRqRnVUVklzU3BPMzlKbVBYVlRoWWdTQmxaalhLTTMycWFNLW1UUXo1NjAzZE9qek5xY1FIX2NaUExsTkRaQk5EWGpPb2xuMVNLY3FvUjZWMFgtcFhndlBSZG9zejZ0WC1sNm02VEZyM3lPZEJtRTZqVHZLQVRMc9IBlgJBVV95cUxNRGV6TTFlaVZWczRxeVRGcVJuX2xub2pPYUdISVlzMzhETmpvTW52U0tFS3JrNkNCcTlSaXZoblNsTUhybEswSENSbWhyeEg0d1pjVkxKMlpLMnp4NG5fSWc5Ny1fYm50TDYzelluSG42UVY4X24xb2dYcDA5NFFnbWE3eGRBZ2dnNEdIYWpURHVDQ3JDd3R5UmtoMVNaY18wWmp1WmkzV3YyYjYzTTJfNnU3R1dPWlhNQlQ3MjM4MFBRN1dFOUkyT1Eweml5UGs1amRlUlZlU0cyOUdUNWUxNlpDdEZiX1c4S1dIR2VRTEc4RHQzVkR3VjdNMGp5d182M3J6bVh3STlyS2xzMUl0bzRhbmtRZw?oc=5)
+### [La obesidad no es un problema personal: - Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSEp0RVVXemRIUWlIVFAyNnVDV1VZLUJJQ1NCQTZuV2pHUGp0YjNUWGNvNmJnUTE4YlNrWjFsak1kU190elgtdmZFQUFQM1owcDI4dTAzanpHc09ibmZCTTc3NVFPelVZR0o4TWdXMlZqTndpWXdMRjM0OTN3Rk0?oc=5)
 
-2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-05-26 <span class="news-indication-tag">obesidad</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2k5SWptWTJSTEJ0b2UtNW45TXFKY19nQmJnQkxjMDNWb3ZuWFVUSEwybEZHNUs1Wm1uUVFQc3BPTXN5NzdNeHJhMDVEUEdFWHh5dVdtVVBvdjRDS25Nc0R4RVBQR2ZDcHZVR1l3T2ViMFNuR0h5QTRNWUJCTm9YZkUyTmRqRnVUVklzU3BPMzlKbVBYVlRoWWdTQmxaalhLTTMycWFNLW1UUXo1NjAzZE9qek5xY1FIX2NaUExsTkRaQk5EWGpPb2xuMVNLY3FvUjZWMFgtcFhndlBSZG9zejZ0WC1sNm02VEZyM3lPZEJtRTZqVHZLQVRMc9IBlgJBVV95cUxNRGV6TTFlaVZWczRxeVRGcVJuX2xub2pPYUdISVlzMzhETmpvTW52U0tFS3JrNkNCcTlSaXZoblNsTUhybEswSENSbWhyeEg0d1pjVkxKMlpLMnp4NG5fSWc5Ny1fYm50TDYzelluSG42UVY4X24xb2dYcDA5NFFnbWE3eGRBZ2dnNEdIYWpURHVDQ3JDd3R5UmtoMVNaY18wWmp1WmkzV3YyYjYzTTJfNnU3R1dPWlhNQlQ3MjM4MFBRN1dFOUkyT1Eweml5UGs1amRlUlZlU0cyOUdUNWUxNlpDdEZiX1c4S1dIR2VRTEc4RHQzVkR3VjdNMGp5d182M3J6bVh3STlyS2xzMUl0bzRhbmtRZw?oc=5)
+來源：[Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSEp0RVVXemRIUWlIVFAyNnVDV1VZLUJJQ1NCQTZuV2pHUGp0YjNUWGNvNmJnUTE4YlNrWjFsak1kU190elgtdmZFQUFQM1owcDI4dTAzanpHc09ibmZCTTc3NVFPelVZR0o4TWdXMlZqTndpWXdMRjM0OTN3Rk0?oc=5)
 
 ---
 
-### [Northern Ireland women urged to know symptoms of disease that claims 122 lives a year - Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
+### [Adipositas und Medikamente beeinflussen Testosteron und Spermienzahl – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
 
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-05-26 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
+
+---
+
+### [Nuevas vías terapéuticas para frenar el daño cardiorrenal asociado a la obesidad](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSElyb0JtMndDQjY0NVFnSk5HWlNGbnZNSkozVUVpNU5ldTBpUE1xb3N0ZzVWSkVJZUVrYmVEdnFhTVVKMWt0MVZQTHdTaGl2ZzBOalNwNjU0cVRfNzk1djcybUVGa1pCTTB2ZVFJYkU4blJqUWQySTRTWS1oYVdzZDVRVURsUlZQWFBtWlRZSVZvMS1na2Yxc3JSYndVM2hQ?oc=5)
+
+2026-05-26 <span class="news-indication-tag">obesidad</span>
+
+來源：[Ruvid](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSElyb0JtMndDQjY0NVFnSk5HWlNGbnZNSkozVUVpNU5ldTBpUE1xb3N0ZzVWSkVJZUVrYmVEdnFhTVVKMWt0MVZQTHdTaGl2ZzBOalNwNjU0cVRfNzk1djcybUVGa1pCTTB2ZVFJYkU4blJqUWQySTRTWS1oYVdzZDVRVURsUlZQWFBtWlRZSVZvMS1na2Yxc3JSYndVM2hQ?oc=5)
+
+---
+
+### [I farmaci anti-obesità potrebbero ridurre il rischio metastasi di alcuni tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJBM1pJNzNNZ1RPOUJNWlRld1cxNUZKWTJOclFlQU5BMElheHRDNXNtd1lPMUFLaXdScmJpNXFIY2NfbGpsZFV3Qkw3YjJOYV9QdFA5WFRiNGNCeXRMSFh4WlJneUpaZ2hieUdGXy1qZ2VoWm15aXZ6YzROTzAtcDk0OUN5dVVPQ29zNU04R2c2SWt3cmIzbUlpTW5YbjNTbGVac19oak1IZkx5b1lHdUowbFc?oc=5)
+
+2026-05-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJBM1pJNzNNZ1RPOUJNWlRld1cxNUZKWTJOclFlQU5BMElheHRDNXNtd1lPMUFLaXdScmJpNXFIY2NfbGpsZFV3Qkw3YjJOYV9QdFA5WFRiNGNCeXRMSFh4WlJneUpaZ2hieUdGXy1qZ2VoWm15aXZ6YzROTzAtcDk0OUN5dVVPQ29zNU04R2c2SWt3cmIzbUlpTW5YbjNTbGVac19oak1IZkx5b1lHdUowbFc?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [GLP-1 Weight Loss Drugs Could Stop Cancer Progressing Says New Study](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
+### [La migraña con aura eleva el riesgo de ictus en mayores de 45 años: «No es un mero trastorno de dolor de - La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFZrUEpYNkFMTS1weDhFbFE5RkVGelc1QkdYcnRQYXNYZTU1NExNMDN3d0JuRklzdmN1bXZ0MUl4ZFZSejZZWGRvX1dKaV9Ia0RlbG9ocms4VWhUdGlzTzF4VFJRSXpvQ2xJZGdVUFdPUll3X3M0bjR6d21nbGFrdTlwazYwaVFqVklyNW5zWnNqTDdvVk02ZEdId0FkWWVyb0JSaXA1cmY1cmNrMkZxSGIyUHduY2dhVnZ6TDBqNmtzUUNJaVA2SVgtbU02WUlGajlPV1FxYUJUQdIB7gFBVV95cUxNVjhVLWMyRUhmaVJmbTNxNktyNWh5bldyYXZUckJQdnBSaVYtd2J1aW5DM0c5N0lkU3hxd3NhV0ZGTkZmcWo2N3g4TGNBWEFBblh6eVBHMFVYTlQ3bW8zWTNpeW5vZUN1TThsanE2UnJnd2wzSy1RNW5JNlQzV3hGNUczWERXdkxVWDBMaWx6UnlIOVJDOTRjN0lQT1Y3a1hDVVo3ZklZVFJUandURHVWRUJCTVlLYzBSVjBXcjMyQnRLdVVJMmszUjItWkt5VDU1Z0hvbVZ0X1JBM3NLOGEyVjR4QVo4UC1MSEx0dDBR?oc=5)
 
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+2026-05-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
 
-來源：[Forbes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFZrUEpYNkFMTS1weDhFbFE5RkVGelc1QkdYcnRQYXNYZTU1NExNMDN3d0JuRklzdmN1bXZ0MUl4ZFZSejZZWGRvX1dKaV9Ia0RlbG9ocms4VWhUdGlzTzF4VFJRSXpvQ2xJZGdVUFdPUll3X3M0bjR6d21nbGFrdTlwazYwaVFqVklyNW5zWnNqTDdvVk02ZEdId0FkWWVyb0JSaXA1cmY1cmNrMkZxSGIyUHduY2dhVnZ6TDBqNmtzUUNJaVA2SVgtbU02WUlGajlPV1FxYUJUQdIB7gFBVV95cUxNVjhVLWMyRUhmaVJmbTNxNktyNWh5bldyYXZUckJQdnBSaVYtd2J1aW5DM0c5N0lkU3hxd3NhV0ZGTkZmcWo2N3g4TGNBWEFBblh6eVBHMFVYTlQ3bW8zWTNpeW5vZUN1TThsanE2UnJnd2wzSy1RNW5JNlQzV3hGNUczWERXdkxVWDBMaWx6UnlIOVJDOTRjN0lQT1Y3a1hDVVo3ZklZVFJUandURHVWRUJCTVlLYzBSVjBXcjMyQnRLdVVJMmszUjItWkt5VDU1Z0hvbVZ0X1JBM3NLOGEyVjR4QVo4UC1MSEx0dDBR?oc=5)
 
 ---
 

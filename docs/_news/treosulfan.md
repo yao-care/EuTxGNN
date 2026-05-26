@@ -14,7 +14,7 @@ permalink: /news/treosulfan/
 ---
 
 <p class="key-answer" data-question="Treosulfan 有什麼相關新聞？">
-<strong>Treosulfan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treosulfan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/treosulfan/
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Typ-1-Diabetes: Erste Immuntherapie Teplizumab verzögert Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
+
+---
 
 ### [Kind mit ADHS & Diabetes: Ärztin warnt Eltern vor riskanter Doppelfalle - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
 
@@ -70,19 +78,19 @@ permalink: /news/treosulfan/
 
 ---
 
+### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+2026-05-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
+
+---
+
 ### [Diabetes 2026: Darmprodukt TMAO verstärkt Muskelschwund um 54% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
 
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
-
----
-
-### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
-2026-05-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
 
 ---
 

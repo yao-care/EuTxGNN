@@ -3,7 +3,7 @@ layout: default
 title: "Krebs（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Krebs（cancer） 的相關健康新聞報導。26 則新聞、229 個相關藥物。"
+description: "Krebs（cancer） 的相關健康新聞報導。27 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="Krebs（cancer） 有什麼相關新聞？">
-<strong>Krebs（cancer）</strong> 目前有 <strong>26 則</strong>相關新聞報導，229 個相關藥物。
+<strong>Krebs（cancer）</strong> 目前有 <strong>27 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,13 +257,37 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（27 則）
+
+### [Neues Medikament gegen Pankreaskrebs könnte Überleben verlängern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPQnhta3BaQnhyT3o3Nlg1cm85MWhzcHh4a0RlMjBnT0VpcC1IM0pUWVJSMmxKWWpMQVFuV2RIc1ZiOVB4RUM3X09tTG1TbWZNWkFqVXQ3TnJBS0RXbU45cnNNU0ZyQU9IUndmSTZTV1QwS09pUHdfenRpdjFQM1pRWmtCTlJ4anNCcVJyMlhYNTRwallKWDdCbndOVHZaVW1YcHRaa3Zmci1hX25VU3RtVENqVXVQT2g1UEV0RjRGaUo0a3pneWxKeTdsVzhXQQ?oc=5)
+
+2026-05-26
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPQnhta3BaQnhyT3o3Nlg1cm85MWhzcHh4a0RlMjBnT0VpcC1IM0pUWVJSMmxKWWpMQVFuV2RIc1ZiOVB4RUM3X09tTG1TbWZNWkFqVXQ3TnJBS0RXbU45cnNNU0ZyQU9IUndmSTZTV1QwS09pUHdfenRpdjFQM1pRWmtCTlJ4anNCcVJyMlhYNTRwallKWDdCbndOVHZaVW1YcHRaa3Zmci1hX25VU3RtVENqVXVQT2g1UEV0RjRGaUo0a3pneWxKeTdsVzhXQQ?oc=5)
+
+---
+
+### [El melanoma se sitúa entre los seis tumores más frecuentes en la Región de Murcia con cerca de 320 nuevos casos al año - La Verdad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONDB2SUM0dGVpM1FVa1NfOU1TanRlbzZyLUx3SDBCUFE0cGszeldHRVRJVkYxeC1MSTRvb21jZ1BoeTBXOXB2aVFyblpncXZEN2Z4RkdOYnJzWTJIM2ptYjdSRE1Pc1pmc0xaTE4xaE12ckVXSEs3TUVFTTlrVklwbXRDNkhrOW9JdVRFaXFUZFdjNHozUnpPV3h2QUdJMG4xbVNteEVPSVU1TDl4b1JHZGVnVmNGRmlkTnRld2lqaS10akHSAcgBQVVfeXFMTzRQZUVLOG96QW5pZzAydUY5cDdoSzEtX25DcG5hZjh3bDJGd1QtTVYtWk9mSnFNNW5HRWhzN24wS2g3cGhUWFF5cXVHeG4ydEkwZGZpMjFHbFBEaWlseHZnUUViY3VFLTV3ZkJlUUpuSi1IaEFZWFFZNHh5NFBBQkRhZ2h0ZkZUQ1oxMHBlVlVadHZLTkpVMVdscVlvNE5rMTZRZUpaS0J2SkgyR2hrWVJ2SS1SV1JDYUVqQVVMV0pKVUlmQ085Z1k?oc=5)
+
+2026-05-26
+
+來源：[La Verdad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONDB2SUM0dGVpM1FVa1NfOU1TanRlbzZyLUx3SDBCUFE0cGszeldHRVRJVkYxeC1MSTRvb21jZ1BoeTBXOXB2aVFyblpncXZEN2Z4RkdOYnJzWTJIM2ptYjdSRE1Pc1pmc0xaTE4xaE12ckVXSEs3TUVFTTlrVklwbXRDNkhrOW9JdVRFaXFUZFdjNHozUnpPV3h2QUdJMG4xbVNteEVPSVU1TDl4b1JHZGVnVmNGRmlkTnRld2lqaS10akHSAcgBQVVfeXFMTzRQZUVLOG96QW5pZzAydUY5cDdoSzEtX25DcG5hZjh3bDJGd1QtTVYtWk9mSnFNNW5HRWhzN24wS2g3cGhUWFF5cXVHeG4ydEkwZGZpMjFHbFBEaWlseHZnUUViY3VFLTV3ZkJlUUpuSi1IaEFZWFFZNHh5NFBBQkRhZ2h0ZkZUQ1oxMHBlVlVadHZLTkpVMVdscVlvNE5rMTZRZUpaS0J2SkgyR2hrWVJ2SS1SV1JDYUVqQVVMV0pKVUlmQ085Z1k?oc=5)
+
+---
 
 ### [Krebs: „Die Symptome sind so unspezifisch, dass bei Rückenschmerzen oft Physiotherapie verschrieben wird“](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZmx6Z05KVjNwdV9NN1lnMmUwSGpxY1ppZmdSa29lanRKb0IxcDlsSjh3eUhHYVMtZjdrZFo3YndiU3BWT0UyNjluREZ1MkxMXzZvSnNibW9Pem5CUGFaZ0U4U0FhbkhiS3ZQR0RROWRoamdCd1Z4NVVhN3JaanNhdXR0aUh0M05VbXAxVzg0bm9pLVhHeUxLejFnYW1KZ0docERMaTFCaUVfay1xT2xTZU1kSkhVc0RubUVvSllxSlhYYzhYZjFIYjdxdEtYOGdWZ29HY2xzbXR2U1RtWkhNQ2E2dFRETnlXOW1lWDlqSVM5MjM0azhpZGR0d1FVVTQ?oc=5)
 
 2026-05-26
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZmx6Z05KVjNwdV9NN1lnMmUwSGpxY1ppZmdSa29lanRKb0IxcDlsSjh3eUhHYVMtZjdrZFo3YndiU3BWT0UyNjluREZ1MkxMXzZvSnNibW9Pem5CUGFaZ0U4U0FhbkhiS3ZQR0RROWRoamdCd1Z4NVVhN3JaanNhdXR0aUh0M05VbXAxVzg0bm9pLVhHeUxLejFnYW1KZ0docERMaTFCaUVfay1xT2xTZU1kSkhVc0RubUVvSllxSlhYYzhYZjFIYjdxdEtYOGdWZ29HY2xzbXR2U1RtWkhNQ2E2dFRETnlXOW1lWDlqSVM5MjM0azhpZGR0d1FVVTQ?oc=5)
+
+---
+
+### [Medizinische Fakultät/Universitätsklinikum Magdeburg A. ö. R. - Telefonforum am 2. Juni 2026 zum Thema: Lunge im Fokus – Antworten zu Asthma, Allergien, COPD, Lungenkrebs, zu Husten & Atemnot](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
+
+2026-05-26
+
+來源：[med.ovgu.de](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
 
 ---
 
@@ -323,11 +347,19 @@ permalink: /news/cancer/
 
 ---
 
-### [Studie zeigt: Wann Sie an Gewicht zunehmen, entscheidet über das Krebsrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0s4RVBQNmRQdDF6SGdzRHpEdDFZYUw5aV9SZ3oxc250RUxGM1kzblktcXh6WWNkb1Fobmhtd1RGM3NKcWFwZk54VUE0MWstOF9FeTRmMndxUURrbkY5ZzZxQzBTVEl1RmU3TE9ZdHNlYk5acEsycVVFNUk3bXhxT3djTEU5dldxZENadHJhWFhWNEFSWkY0TGFzUy1jQy1ETFUyb2h6Mnl5NFFaSzVIdnNLX2l5LUxQSUhpTXdzMDR6UjNOSVNRRzliLU1hNGg1dnExWFdB?oc=5)
+### [I farmaci anti-obesità potrebbero ridurre il rischio metastasi di alcuni tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJBM1pJNzNNZ1RPOUJNWlRld1cxNUZKWTJOclFlQU5BMElheHRDNXNtd1lPMUFLaXdScmJpNXFIY2NfbGpsZFV3Qkw3YjJOYV9QdFA5WFRiNGNCeXRMSFh4WlJneUpaZ2hieUdGXy1qZ2VoWm15aXZ6YzROTzAtcDk0OUN5dVVPQ29zNU04R2c2SWt3cmIzbUlpTW5YbjNTbGVac19oak1IZkx5b1lHdUowbFc?oc=5)
 
 2026-05-25
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0s4RVBQNmRQdDF6SGdzRHpEdDFZYUw5aV9SZ3oxc250RUxGM1kzblktcXh6WWNkb1Fobmhtd1RGM3NKcWFwZk54VUE0MWstOF9FeTRmMndxUURrbkY5ZzZxQzBTVEl1RmU3TE9ZdHNlYk5acEsycVVFNUk3bXhxT3djTEU5dldxZENadHJhWFhWNEFSWkY0TGFzUy1jQy1ETFUyb2h6Mnl5NFFaSzVIdnNLX2l5LUxQSUhpTXdzMDR6UjNOSVNRRzliLU1hNGg1dnExWFdB?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJBM1pJNzNNZ1RPOUJNWlRld1cxNUZKWTJOclFlQU5BMElheHRDNXNtd1lPMUFLaXdScmJpNXFIY2NfbGpsZFV3Qkw3YjJOYV9QdFA5WFRiNGNCeXRMSFh4WlJneUpaZ2hieUdGXy1qZ2VoWm15aXZ6YzROTzAtcDk0OUN5dVVPQ29zNU04R2c2SWt3cmIzbUlpTW5YbjNTbGVac19oak1IZkx5b1lHdUowbFc?oc=5)
+
+---
+
+### ["El carcinoma escamoso cutáneo de alto riesgo produce la mayor parte de eventos negativos"](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWk1ISUtuQXR6cXV5TERSdVAzOGdIU3RVeFpSSHNNeE9QdXdvM3JnQWZYMUdJUlpkdnlKTjM4MlRPOWlrT1lGWXloYjFOdTh6MTZ3XzZtNkh0X0tvZjNqV0ExalNRZlFEdFo5XzZrcTgyaS16WGM5c0d1N2lFU3c0dmZOc1NNbFhhMU9BTEVmUFFEd0FJZVU4V2JabzlWcnphekh4SXBZRUE2VlZnSDcteEhGSHZTVUduTzJmcUdkYWZlQnBWS1JZeE5XMzZRTy1iSGtvNGhMekszb1JiMDk1Z00zMklEd3cwZlE?oc=5)
+
+2026-05-25
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWk1ISUtuQXR6cXV5TERSdVAzOGdIU3RVeFpSSHNNeE9QdXdvM3JnQWZYMUdJUlpkdnlKTjM4MlRPOWlrT1lGWXloYjFOdTh6MTZ3XzZtNkh0X0tvZjNqV0ExalNRZlFEdFo5XzZrcTgyaS16WGM5c0d1N2lFU3c0dmZOc1NNbFhhMU9BTEVmUFFEd0FJZVU4V2JabzlWcnphekh4SXBZRUE2VlZnSDcteEhGSHZTVUduTzJmcUdkYWZlQnBWS1JZeE5XMzZRTy1iSGtvNGhMekszb1JiMDk1Z00zMklEd3cwZlE?oc=5)
 
 ---
 
@@ -435,35 +467,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Faites-vous attention aux additifs alimentaires lorsque vous faites vos courses ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
-2026-05-24
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Z1lRNnRPNGJSQUhUM2R2RU1VR2JYTWhxZDFYemdCdUNvU3QyRkNZUV92VWhoNDNFcHJYRGRXUnppT3pLbTNGZ0JKdThwb2piWWxOYmVibUFfMTFNa0t2LUFJZHcxWVExYlE5dTBFeDdUd185SjlTdHpR?oc=5)
-
----
-
 ### [Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
 
 2026-05-24
 
 來源：[Good News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5)
-
----
-
-### [Scientists say house cats could help unlock new cancer treatments for humans](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IM19BMFNSRGd5cFJTd2QwbzR4TkEzT0pYMUY5NjJwWEk5XzVjbGdsNjdiTzJtamMwcE1WZ3FaNmxBTG9TbHF3VzhRR1JURHFieDFQSXpZXzZtUzZCSi00N21ESWtBTUcxSU9hd1hGRQ?oc=5)
-
-2026-05-24
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IM19BMFNSRGd5cFJTd2QwbzR4TkEzT0pYMUY5NjJwWEk5XzVjbGdsNjdiTzJtamMwcE1WZ3FaNmxBTG9TbHF3VzhRR1JURHFieDFQSXpZXzZtUzZCSi00N21ESWtBTUcxSU9hd1hGRQ?oc=5)
-
----
-
-### ['My ovarian cancer mission in memory of late wife'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VcHhjREM0dEFEX2o4SlVjV0JNRWVfbDRkcnM4STlUZnp4RWNkVFJkUy1XQUZWeXU5Qnh5M0RQNjFjOTBfN3c4UFBrLWViSTVyY1BOSVdyeFYwT1hT?oc=5)
-
-2026-05-24
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VcHhjREM0dEFEX2o4SlVjV0JNRWVfbDRkcnM4STlUZnp4RWNkVFJkUy1XQUZWeXU5Qnh5M0RQNjFjOTBfN3c4UFBrLWViSTVyY1BOSVdyeFYwT1hT?oc=5)
 
 ---
 

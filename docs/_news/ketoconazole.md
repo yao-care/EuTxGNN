@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Medizinische Fakultät/Universitätsklinikum Magdeburg A. ö. R. - Telefonforum am 2. Juni 2026 zum Thema: Lunge im Fokus – Antworten zu Asthma, Allergien, COPD, Lungenkrebs, zu Husten & Atemnot](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
+
+2026-05-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[med.ovgu.de](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
+
+---
 
 ### ["Si on peut guérir, il ne faut pas attendre qu'il soit trop tard" : un programme pilote de dépistage du cancer du poumon recherche 20 000 volontaires](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZF9mb2RuVGNKUFZOemx3RXJEOUtXa21ocGpSTEc1QWs5bkZWUWh1RFJwSFluX2t1Sm5jVlFpSkwzb0s1b0g3X0NORWRXbFJacG9mS3k2LThPWWNKbWVfUGh6RS1LSE5qd3VhNXpvS3ZzMWVqSVY1M0FGSnN4T2NGMWtwU1FJV1FKMVFzUUdKU0JYeGdVTXZEdUpYUmJhTWVrQUhHbldNZ21PeFpTalE0VkFSZnRYaXU3LXk4bkdUSXlwZVRkTi16MjcyV1hVR3BDU0N4VTItOXF4dUdLMFlVQ1E5Zlp1NW44TkZncTBmN2hEcko4SGh4WEluT3JRNkZTLUNDa0ExbkRUUkxoc01YOUY5MEZLakJUZXNIUXNKYWtzS1hZNWRJN0dhZXpqZVU?oc=5)
 
