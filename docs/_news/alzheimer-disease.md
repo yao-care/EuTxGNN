@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
+### [These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5)
+
+2026-05-26
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5)
+
+---
+
 ### [Alzheimer : ces deux signes subtils qui indiquent que la maladie peut apparaître dès 45 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ19RVTdSMFJhcGZXcEFQNTZsSjhDMjk5TXNERElxcU82U19uclpMMm1ObGZNV3AxWl8xS2pwM2dNS3pIRzN3eHhLVVFucTFxeGJfMGpYeFZhQ3J6eGF2d2l5MUlYY0lZZzBkajQ4Y0RWMHRWUFVDQlQ3N0hiLTFpZnZqaVhkWFpZY0dVTHFXczJqbjIya0tCdFBhMUtVWUtPZFRpWU16dEMwZ3lEVFNIbW13RVNOVDFlY1BacNIBwgFBVV95cUxOcW0yZmV2UVViMnQ0anpnVXM3N0NkREd0a2FTamw5RkVDeGVpc1RROTFFQzVLZVlESFRCTklwdjJQTlJWdURDcFF2OFhlRW1xTHlaX25aOW9iU0dibEpkeS1vVFBQTFZUNUNSNEJYUTZEbW5DNDVlQU5DY3plYzlpQ1doZm1fR25HZUpWQVFfRTF5UVUySjRCb043akp5em9DblhkSW90aGVmbWRzNUpQanhqZUdKQWN4QUhsYzYwQnVSUQ?oc=5)
 
 2026-05-25
 
 來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ19RVTdSMFJhcGZXcEFQNTZsSjhDMjk5TXNERElxcU82U19uclpMMm1ObGZNV3AxWl8xS2pwM2dNS3pIRzN3eHhLVVFucTFxeGJfMGpYeFZhQ3J6eGF2d2l5MUlYY0lZZzBkajQ4Y0RWMHRWUFVDQlQ3N0hiLTFpZnZqaVhkWFpZY0dVTHFXczJqbjIya0tCdFBhMUtVWUtPZFRpWU16dEMwZ3lEVFNIbW13RVNOVDFlY1BacNIBwgFBVV95cUxOcW0yZmV2UVViMnQ0anpnVXM3N0NkREd0a2FTamw5RkVDeGVpc1RROTFFQzVLZVlESFRCTklwdjJQTlJWdURDcFF2OFhlRW1xTHlaX25aOW9iU0dibEpkeS1vVFBQTFZUNUNSNEJYUTZEbW5DNDVlQU5DY3plYzlpQ1doZm1fR25HZUpWQVFfRTF5UVUySjRCb043akp5em9DblhkSW90aGVmbWRzNUpQanhqZUdKQWN4QUhsYzYwQnVSUQ?oc=5)
-
----
-
-### [527 días para el diagnóstico y hasta 10 meses para Neurología: la espera de los pacientes con alzhéimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeE1VTkVTT1hmenZ3RzZfWHk1aTlNV2lNVk9pTTlQdXQ3MTM0ZnRtRlp1WmJLZ2RDYXY3ZnUzZHI3SUhDYWlPSi1Yby1ZWTBCN3NuZnp4d0dWWVFHamlLYXF5SWRjajhzeXAtLVFHSThXYU5NM21zLWMwc2JVUUozVEZvc0dfYzVxM1I2MUxES1kzYXQxWFdzRWdqN25BbktkR0lZLQ?oc=5)
-
-2026-05-25
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeE1VTkVTT1hmenZ3RzZfWHk1aTlNV2lNVk9pTTlQdXQ3MTM0ZnRtRlp1WmJLZ2RDYXY3ZnUzZHI3SUhDYWlPSi1Yby1ZWTBCN3NuZnp4d0dWWVFHamlLYXF5SWRjajhzeXAtLVFHSThXYU5NM21zLWMwc2JVUUozVEZvc0dfYzVxM1I2MUxES1kzYXQxWFdzRWdqN25BbktkR0lZLQ?oc=5)
 
 ---
 

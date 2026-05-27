@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Un test basato sull’IA può prevedere il rischio di ictus con 15 anni di anticipo: come funziona](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+
+2026-05-26 <span class="news-indication-tag">ictus</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+
+---
 
 ### [Adipositas und Medikamente beeinflussen Testosteron und Spermienzahl – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
 

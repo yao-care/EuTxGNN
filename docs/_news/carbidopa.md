@@ -54,19 +54,19 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（2 則）
 
+### [These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5)
+
+2026-05-26 <span class="news-indication-tag">dementia</span>
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5)
+
+---
+
 ### [Alzheimer : ces deux signes subtils qui indiquent que la maladie peut apparaître dès 45 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ19RVTdSMFJhcGZXcEFQNTZsSjhDMjk5TXNERElxcU82U19uclpMMm1ObGZNV3AxWl8xS2pwM2dNS3pIRzN3eHhLVVFucTFxeGJfMGpYeFZhQ3J6eGF2d2l5MUlYY0lZZzBkajQ4Y0RWMHRWUFVDQlQ3N0hiLTFpZnZqaVhkWFpZY0dVTHFXczJqbjIya0tCdFBhMUtVWUtPZFRpWU16dEMwZ3lEVFNIbW13RVNOVDFlY1BacNIBwgFBVV95cUxOcW0yZmV2UVViMnQ0anpnVXM3N0NkREd0a2FTamw5RkVDeGVpc1RROTFFQzVLZVlESFRCTklwdjJQTlJWdURDcFF2OFhlRW1xTHlaX25aOW9iU0dibEpkeS1vVFBQTFZUNUNSNEJYUTZEbW5DNDVlQU5DY3plYzlpQ1doZm1fR25HZUpWQVFfRTF5UVUySjRCb043akp5em9DblhkSW90aGVmbWRzNUpQanhqZUdKQWN4QUhsYzYwQnVSUQ?oc=5)
 
 2026-05-25 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ19RVTdSMFJhcGZXcEFQNTZsSjhDMjk5TXNERElxcU82U19uclpMMm1ObGZNV3AxWl8xS2pwM2dNS3pIRzN3eHhLVVFucTFxeGJfMGpYeFZhQ3J6eGF2d2l5MUlYY0lZZzBkajQ4Y0RWMHRWUFVDQlQ3N0hiLTFpZnZqaVhkWFpZY0dVTHFXczJqbjIya0tCdFBhMUtVWUtPZFRpWU16dEMwZ3lEVFNIbW13RVNOVDFlY1BacNIBwgFBVV95cUxOcW0yZmV2UVViMnQ0anpnVXM3N0NkREd0a2FTamw5RkVDeGVpc1RROTFFQzVLZVlESFRCTklwdjJQTlJWdURDcFF2OFhlRW1xTHlaX25aOW9iU0dibEpkeS1vVFBQTFZUNUNSNEJYUTZEbW5DNDVlQU5DY3plYzlpQ1doZm1fR25HZUpWQVFfRTF5UVUySjRCb043akp5em9DblhkSW90aGVmbWRzNUpQanhqZUdKQWN4QUhsYzYwQnVSUQ?oc=5)
-
----
-
-### [527 días para el diagnóstico y hasta 10 meses para Neurología: la espera de los pacientes con alzhéimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeE1VTkVTT1hmenZ3RzZfWHk1aTlNV2lNVk9pTTlQdXQ3MTM0ZnRtRlp1WmJLZ2RDYXY3ZnUzZHI3SUhDYWlPSi1Yby1ZWTBCN3NuZnp4d0dWWVFHamlLYXF5SWRjajhzeXAtLVFHSThXYU5NM21zLWMwc2JVUUozVEZvc0dfYzVxM1I2MUxES1kzYXQxWFdzRWdqN25BbktkR0lZLQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">AF</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeE1VTkVTT1hmenZ3RzZfWHk1aTlNV2lNVk9pTTlQdXQ3MTM0ZnRtRlp1WmJLZ2RDYXY3ZnUzZHI3SUhDYWlPSi1Yby1ZWTBCN3NuZnp4d0dWWVFHamlLYXF5SWRjajhzeXAtLVFHSThXYU5NM21zLWMwc2JVUUozVEZvc0dfYzVxM1I2MUxES1kzYXQxWFdzRWdqN25BbktkR0lZLQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
+
+### [Parodontitis 2025/26: Neue Daten koppeln Entzündung mit Herz, Diabetes und Demenz - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
+
+---
+
+### [Diabetes-Kongress: Lebensstil schlägt Gene um Faktor 7 - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaExONFl5c01WZHZSN0FFRlF5d3RkNHhFb1JjSlV2b1liZExVdzNmVmZQNHVSOGlnUlBJc1ZOSl9zTEJIWE1PMzdrcHFrS3JPY1BxVXBUUGRrRkE5aDZyWVRTdGJQWHZYNHkzV2ktNVZuR2FXZjFBclBOVnpZWURoN2ZCLTF5RDR3OVd5WnRpTUxpTF9ZaTk1eHhSTUw2a1I5NXc0cWV3?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaExONFl5c01WZHZSN0FFRlF5d3RkNHhFb1JjSlV2b1liZExVdzNmVmZQNHVSOGlnUlBJc1ZOSl9zTEJIWE1PMzdrcHFrS3JPY1BxVXBUUGRrRkE5aDZyWVRTdGJQWHZYNHkzV2ktNVZuR2FXZjFBclBOVnpZWURoN2ZCLTF5RDR3OVd5WnRpTUxpTF9ZaTk1eHhSTUw2a1I5NXc0cWV3?oc=5)
+
+---
+
+### [Darum ist Fruchtzucker bei Diabetes keine gesunde Alternative](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes-News](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
+
+---
 
 ### [Menschen mit Typ-2-Diabetes haben ein erhöhtes Risiko für Riech- und Schmeckstörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
 
@@ -78,14 +102,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Typ-1-Diabetes: Erste Immuntherapie Teplizumab verzögert Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
-
-2026-05-26 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
-
----
-
 ### [Ozempic: il roflumilast ne prolunga gli effetti dimagranti](https://news.google.com/rss/articles/CBMijAFBVV95cUxOY0QwSnRpYmwtQmw4N0NmM21MNEpKSVFSRFdhMk90aWQzbVhmMWhxNXdQN2tfRTByX3hOLXRSaENMVnpQZ0ZWWFhkY3gzU0hRSERSNFRZczQzT0tHUUJ2dkNFdjZzaGY1RUllOGsycF9VRkJNRDQ0RzNhbWZscVUxMXczLV93TGZSalE3SA?oc=5)
 
 2026-05-26 <span class="news-drug-tag">Roflumilast</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
@@ -99,14 +115,6 @@ permalink: /news/semaglutide/
 2026-05-26 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
-
----
-
-### [Diabetes-Kongress Berlin: Ernährung verhindert 5,9 Millionen Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPalBJLVh0WXdUMmg1SVVsaUEwVG5qWHdzR1VickNoWEJvSW5iY1lhdV9qWTFUZTdOWU5yNlRDb1F6V05PTTlReFNzYkUtb2c5LXVrQWl5dFhNUXdURE4wZUFWblVYN04xWGtSNElseEFMMFI1SnpnSk56LVhaNkRWYUtjck42RlNpYzhIcXR2TXNUUWNHazNNdzRaa2NHdFNxQkphTHBYWlp1RHJKa25wRmNKUzJLNTJSUUswbGNB?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPalBJLVh0WXdUMmg1SVVsaUEwVG5qWHdzR1VickNoWEJvSW5iY1lhdV9qWTFUZTdOWU5yNlRDb1F6V05PTTlReFNzYkUtb2c5LXVrQWl5dFhNUXdURE4wZUFWblVYN04xWGtSNElseEFMMFI1SnpnSk56LVhaNkRWYUtjck42RlNpYzhIcXR2TXNUUWNHazNNdzRaa2NHdFNxQkphTHBYWlp1RHJKa25wRmNKUzJLNTJSUUswbGNB?oc=5)
 
 ---
 
@@ -126,14 +134,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
-
-2026-05-25 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Vademecum.es](https://news.google.com/rss/articles/CBMipgJBVV95cUxOY2xXTTdJeTUtQVFBekx0M2JwS2hta0hzbTZRV1JRSEpBUC1GUmZVVk9FMm1RbFRYeVFxeFhzMHIzc2s0cHVndjdRM2JlMVk3RWVHUmR0VmNlVVZPdHFydTZFbFBQMWRtaFFKMU83YUF3RFB0a0g1NG5SZElNVGstdlpxRU9UenNta3B0cEg4ek1xenZaZVliZnRPcWVXdkJudDBHTVBrRlBseUdxY3JZYl9NZzV6QkRFMTNzRkRXVjI5eXFmVnJjSUpUR2JXOGU3azBxSnAybjFkbVlNaUZxai1HdkpySENRRFRVYUJmWGZ6c0RVZkJxcEhEZnE2MkdRaHYzVVNqOHNodU1XTG5WdTV5Smp1bkVQVklyd0laN28yeTNLMnc?oc=5)
-
----
-
 ### [GLP-1 Weight Loss Drugs Could Stop Cancer Progressing, Says New Study](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
 
 2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
@@ -147,14 +147,6 @@ permalink: /news/semaglutide/
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
-
----
-
-### [Diabetes 2026: Darmprodukt TMAO verstärkt Muskelschwund um 54% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
 
 ---
 

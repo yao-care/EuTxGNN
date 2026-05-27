@@ -14,7 +14,7 @@ permalink: /news/rituximab/
 ---
 
 <p class="key-answer" data-question="Rituximab 有什麼相關新聞？">
-<strong>Rituximab</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rituximab</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rituximab/
 <p><a href="{{ '/drugs/rituximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（28 則）
+
+### [Más pequeños pero más letales: así mutan los tumores más invasivos - Libertad Digital](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPamQ0RjYzbUVZcHlSUWp2bHJYQ2Y1YXJ6cnVrVWFmMEoyX0JWazFteG1ENEJZdFpOdnV4QTA3TVZTOWFUWkp4bExYVFV0TWt6cjdua0ZqY0RUaGNKU05vdEtRQ2ZjSU0tX25Qamtyc1o0OXlhWVVfN3JmaW45cDk3UnBhMDYwQzkwcXctQ3VOMHBkNmxJLTVaUEE2V3BJell0dWNMM2pLZXdlbnpLVzFETHlxSjZMczR0aVVqVzF1WDBzRFlCczlkcXdzVjAwSThnc19IdGplVlBKdEpt0gHnAUFVX3lxTE5zclNZV21wVTZHOFgxQm50cGVtUXpraVNRVkJsbjFLNGZUZDRjdzFVM3N5Wjk2ZHQ1c05jT20xQXVkRzF6NDZ4YU9fS05qdmhFaTVBZ0dUUjNHSjdDNW1jSUh4MWU2bDFuN05SZzVWYVFydmQ3OENXdlU5cU9FS0RGWlFHbnVvVFRmSUt1WkUzVVVaNnZMWm9TWU5VYWRNT09ISHRhWDQ3MjhMbHJWYkwyRlctQkRyRE92WWEyeGprb3dCSjhhdU16ZjBDQmE0TUhWWm9mM2RkQVVMb0FmUFY1RHNVUzlSZw?oc=5)
+
+2026-05-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPamQ0RjYzbUVZcHlSUWp2bHJYQ2Y1YXJ6cnVrVWFmMEoyX0JWazFteG1ENEJZdFpOdnV4QTA3TVZTOWFUWkp4bExYVFV0TWt6cjdua0ZqY0RUaGNKU05vdEtRQ2ZjSU0tX25Qamtyc1o0OXlhWVVfN3JmaW45cDk3UnBhMDYwQzkwcXctQ3VOMHBkNmxJLTVaUEE2V3BJell0dWNMM2pLZXdlbnpLVzFETHlxSjZMczR0aVVqVzF1WDBzRFlCczlkcXdzVjAwSThnc19IdGplVlBKdEpt0gHnAUFVX3lxTE5zclNZV21wVTZHOFgxQm50cGVtUXpraVNRVkJsbjFLNGZUZDRjdzFVM3N5Wjk2ZHQ1c05jT20xQXVkRzF6NDZ4YU9fS05qdmhFaTVBZ0dUUjNHSjdDNW1jSUh4MWU2bDFuN05SZzVWYVFydmQ3OENXdlU5cU9FS0RGWlFHbnVvVFRmSUt1WkUzVVVaNnZMWm9TWU5VYWRNT09ISHRhWDQ3MjhMbHJWYkwyRlctQkRyRE92WWEyeGprb3dCSjhhdU16ZjBDQmE0TUhWWm9mM2RkQVVMb0FmUFY1RHNVUzlSZw?oc=5)
+
+---
 
 ### [Michael Douglas issued apology to Catherine Zeta-Jones after oral sex cancer diagnosis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
 
@@ -166,14 +174,6 @@ permalink: /news/rituximab/
 
 ---
 
-### [Krebs: Forscher knacken erstmals Schutzschild gefährlicher Tumorzellen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm5yak4zbzZvUzZFSXlyUWlXM3dtRmY2T2x2ckVVV3BkenVxc0huY2I5S3Z0R1ZSOHdNSGdjSXNKY3lpSHpyMVZrV25uVUFwa3hNZmdIaE00TWZGWWFwbUk5V3BWUjhRQ2k0azNKNllOYnJWRFc4RzNFci02djQ5WHlvVG5KMDZsamtaamR0Q0N1QmVoX0lfUTd0VkNpRzNKaFI0OVRzc0hYQlBtYjAxVEZyUDBIdEMxeFBXYWVXaUhvTFdUUWo0QlpDNHF5RGh5SGlIVw?oc=5)
-
-2026-05-26 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm5yak4zbzZvUzZFSXlyUWlXM3dtRmY2T2x2ckVVV3BkenVxc0huY2I5S3Z0R1ZSOHdNSGdjSXNKY3lpSHpyMVZrV25uVUFwa3hNZmdIaE00TWZGWWFwbUk5V3BWUjhRQ2k0azNKNllOYnJWRFc4RzNFci02djQ5WHlvVG5KMDZsamtaamR0Q0N1QmVoX0lfUTd0VkNpRzNKaFI0OVRzc0hYQlBtYjAxVEZyUDBIdEMxeFBXYWVXaUhvTFdUUWo0QlpDNHF5RGh5SGlIVw?oc=5)
-
----
-
 ### [Taxi driver tells passenger ‘you saved my life’ after advice led to cancer find - STV News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWGVxQnluejctczE1Yjk1ZmNzZ1g3U0w2V1JyaTZhYmd0cHdZTTh6TGdDellZR3huNzhEU2hWQ2hQR0I2RlNjVC0wLVJOSjE2SlR2c3NuY3ZaT0lCaUxyWVM4OWhzQ2ZkSXY4OGFTOHNPeWo0ZWw3cDhFLWlxX2Z3NXJQTk5MYWZObkNZQy1XdENiVGlTNEZWcjFlX3pOdHVwQnYtVGh2LUhCRm9QVHNB?oc=5)
 
 2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -200,7 +200,7 @@ permalink: /news/rituximab/
 
 ### [Grandad's lung cancer caught early at supermarket scan as 10,000 saved by checks - The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
 
-2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-26 <span class="news-indication-tag">cancer</span>
 
 來源：[The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
 
@@ -238,14 +238,6 @@ permalink: /news/rituximab/
 
 ---
 
-### [Krebs und Herz 2026: 25–30% höheres Risiko bei CKM-Syndrom - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JpcmJsNHk0VWg4cEpGZ0RFTzhpeFo1VGkyY3d2dTNZMnBYblRtWC03UmhXYVliYVNMZXZjODZjQzBMbExhdTh5UjZDWXBMcnJ3UzJFclE4ZzFDbEhkMHdOX3dTdUtoZFpWaFZkRGhWY0xZeFVDc3BrM3dKemh2UXNnb2plTE90TXN4bnR1VU14ZjNUd3BwU2FJWHZ5MVo5SlBUM0xJNHFQdGkzMldPemFCVUY?oc=5)
-
-2026-05-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JpcmJsNHk0VWg4cEpGZ0RFTzhpeFo1VGkyY3d2dTNZMnBYblRtWC03UmhXYVliYVNMZXZjODZjQzBMbExhdTh5UjZDWXBMcnJ3UzJFclE4ZzFDbEhkMHdOX3dTdUtoZFpWaFZkRGhWY0xZeFVDc3BrM3dKemh2UXNnb2plTE90TXN4bnR1VU14ZjNUd3BwU2FJWHZ5MVo5SlBUM0xJNHFQdGkzMldPemFCVUY?oc=5)
-
----
-
 ### [Coups de soleil et cancer de la peau : ce fruit pourrait bien être un remède miracle selon cette étude](https://news.google.com/rss/articles/CBMijwJBVV95cUxNVHZHeThDTjFtb3A1eGpVdWs2ODJmbWpRRUFxd1k1bXN6RlZuamJiTXh5TmJtTWkyMGpSMmVEMDZ5aVhVY2dsbFZ0eHBvVlFrZDdpc1BhRlZzMVpGaVlmQjd2ZjgwREZnTVd4Yl9OXzlXaWQ5SUFoVGtuNDVHNTFUT2JxS19rTm1lTzdnOXpYVzktS09MSnpJd1d6Q3JfNUQxM2t1ZFZaRnVvbjAtQ3NVYjY0V051NUFnR0M5dWwtNFlKaG0xSGpKQnJTaC1PSEVheU1wT053SWFkQU1ScFd0eHk1b2ZsNjVTTmxjcXU4MUxlYTFwSm05QlVlSmh0UTR6LTVkX055eGtGVHFCOTRn?oc=5)
 
 2026-05-25 <span class="news-indication-tag">cancer</span>
@@ -254,17 +246,9 @@ permalink: /news/rituximab/
 
 ---
 
-### [Surgeon removes wrong part of cancer patient's bowel after tattoo mistake in devastating blunder - The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPclVTeGFRTlVpak9nd2YzZ3dqRjVkdFpfOWhuTmR1bUNpOXZtMUR1SmNOMElOdk1ENmtkNDctY1AtYlpmMUZnc1NDRDA0UG9QYnZaLTdlLUZ2NTZSRU02VUpZTlNRR3o0bEZGSmtNZmkwOXhsM3QtV0R5SldwVm1wbTBNZnc0M1I4MXNLTDZMNNIBlAFBVV95cUxNclBlMlVFd2FHVk9vXzdqWVhtNDVHcGZUM1pxRGRiTS1DZWgwYnZNRlROVzlaRG5jU3RkNWozTmlQUmVUb2NwMU9KdGFycnpJblJoaWhKVUlLdVlRcTV6OTBhVEpaak9sV3doUFZpQXctWnB6c3ZlLWxuT3BGUUJ2cGVHemZRRWNwU0hLVmgwNk1IWXQw?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPclVTeGFRTlVpak9nd2YzZ3dqRjVkdFpfOWhuTmR1bUNpOXZtMUR1SmNOMElOdk1ENmtkNDctY1AtYlpmMUZnc1NDRDA0UG9QYnZaLTdlLUZ2NTZSRU02VUpZTlNRR3o0bEZGSmtNZmkwOXhsM3QtV0R5SldwVm1wbTBNZnc0M1I4MXNLTDZMNNIBlAFBVV95cUxNclBlMlVFd2FHVk9vXzdqWVhtNDVHcGZUM1pxRGRiTS1DZWgwYnZNRlROVzlaRG5jU3RkNWozTmlQUmVUb2NwMU9KdGFycnpJblJoaWhKVUlLdVlRcTV6OTBhVEpaak9sV3doUFZpQXctWnB6c3ZlLWxuT3BGUUJ2cGVHemZRRWNwU0hLVmgwNk1IWXQw?oc=5)
-
----
-
 ### [Trop de personnes font cette erreur qui peut être mortelle : elle augmente de 60 % le risque de mélanome](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
 
-2026-05-25 <span class="news-indication-tag">cancer</span>
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
 
@@ -278,35 +262,19 @@ permalink: /news/rituximab/
 
 ---
 
+### [Surgeon at North Wales hospital removed healthy part of bowel cancer patient and left tumour - North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
+
+---
+
 ### [Nuovo studio Usa sul consumo moderato di alcol conferma la necessità di un confronto tra discipline](https://news.google.com/rss/articles/CBMiygFBVV95cUxPamtROWE0ZHB4V05zS2NzNk0ydmdpN3hfTFdGZGdQb1JJQnk3Q21ySXk0blZ3bjFpOVhPVnNFT0oxZ0w1R29HYzhoYkVsaEFKZWpkTW5XX2FqYVdlakVqMmpyWUo0cFpaNjlLV1Q1ZElSdFdxTkgycThTc3NmeHJwbjRyNkFKZjVKLVZUX2VHV19mR2ppZUtYbmhrZGRuRkQ1al9jY0QtUUJDMTBKY20tSlNGclpKcDJyT2JuQ1VuallRSWQ3cGpTcDRn?oc=5)
 
 2026-05-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[WineNews](https://news.google.com/rss/articles/CBMiygFBVV95cUxPamtROWE0ZHB4V05zS2NzNk0ydmdpN3hfTFdGZGdQb1JJQnk3Q21ySXk0blZ3bjFpOVhPVnNFT0oxZ0w1R29HYzhoYkVsaEFKZWpkTW5XX2FqYVdlakVqMmpyWUo0cFpaNjlLV1Q1ZElSdFdxTkgycThTc3NmeHJwbjRyNkFKZjVKLVZUX2VHV19mR2ppZUtYbmhrZGRuRkQ1al9jY0QtUUJDMTBKY20tSlNGclpKcDJyT2JuQ1VuallRSWQ3cGpTcDRn?oc=5)
-
----
-
-### [Former air stewardess and 'sun worshipper' issues warning after cancer diagnosis - Cheshire Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjRlTnVYeEx3dl9ySTFONFFETDB1T04ydS1rc0V0RTAyXzNuNlp3dU0wV0ZUZHpIeFd6MzNXTlUyREgzdzhMaVBlT2M3d3Q2eDUtTjNGa042ODJaOS0zY3RwYjRUTUwzN1NyaU0tOHdCc0c4UUFxZl9KbVBhemhuNmhrM1lVWE5XeTdGYmNKemNQVWxTbVlJRWFFSkJnamxybDdiOTlNVQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cheshire Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjRlTnVYeEx3dl9ySTFONFFETDB1T04ydS1rc0V0RTAyXzNuNlp3dU0wV0ZUZHpIeFd6MzNXTlUyREgzdzhMaVBlT2M3d3Q2eDUtTjNGa042ODJaOS0zY3RwYjRUTUwzN1NyaU0tOHdCc0c4UUFxZl9KbVBhemhuNmhrM1lVWE5XeTdGYmNKemNQVWxTbVlJRWFFSkJnamxybDdiOTlNVQ?oc=5)
-
----
-
-### [L’admirable échappée à vélo de Raphaël Martin-Guiheneuc, diagnostiqué d’un cancer du cerveau incurable à 24 ans - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQzVTQWQ2NmhBWGNXd1BxZGhXWWZXOEJJbXpxaWtvc053dkRKVDMxTVdDc1NOOFNia3ZuMUZqbHdUVTZBeUlQMkM2T1pYZ3oyc0FONVJlRm1aX29GQW9RdU1FUjZ4QUFMWlUta2Y0bHBFOEZoYnJVRnlTelRyeHAtMXNUQlp2OUQtQlNRdDBMWGc3TlZzLXMxSktKZ0hlZERpUkhISDV0Y3FqVUwzOUVYQVdaTFVyTTZsZEFMaHU1NDduYk9zUldEVWxzSEdNc1Zobkh0QmtHYkxnRmtfWFJvdlg1RXlCd1hNQ0E?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQzVTQWQ2NmhBWGNXd1BxZGhXWWZXOEJJbXpxaWtvc053dkRKVDMxTVdDc1NOOFNia3ZuMUZqbHdUVTZBeUlQMkM2T1pYZ3oyc0FONVJlRm1aX29GQW9RdU1FUjZ4QUFMWlUta2Y0bHBFOEZoYnJVRnlTelRyeHAtMXNUQlp2OUQtQlNRdDBMWGc3TlZzLXMxSktKZ0hlZERpUkhISDV0Y3FqVUwzOUVYQVdaTFVyTTZsZEFMaHU1NDduYk9zUldEVWxzSEdNc1Zobkh0QmtHYkxnRmtfWFJvdlg1RXlCd1hNQ0E?oc=5)
-
----
-
-### [Tumore alla prostata avanzato: quale farmaco ha minori conseguenze sulle funzioni cognitive? - Corriere della Sera](https://news.google.com/rss/articles/CBMinwJBVV95cUxPbThTbE0yUWNQazF2bkxwN2VPVG1qa2dxSGNaOFBzNnFwQXJSaHlUUmFfNEctNVJaYkliTDNRLUljaG90UHFtdjB1OGZxZTJQczlNT2djb2FBSk94SWtHY191azZNZGhPR19DWmRyUHNCYlFsUnhMMWxFTkdlZnZHSmJJQVEwN3lsYUROMEY2bFNxVWNrM3lhRXZhT1MzeGxZUDZNYW85emk1X0RtY3NpMExIQ09hMzhsN0ZpS3FkdE0wZWhlUmlJR0kwUkx2VnNlZ0lKeG54d3JVRHJaakdYTEhfS0hpVHh3R1FDMTd4Rkd5am5OTlFsbi1oNGJQd0NKeXJ2NDR6UGUwTzNhR21iWFdMeDRJWEN0RmF3czZEVdIBpAJBVV95cUxNYXZobFBhR2RJb3lHZFUtVUdpbEVYYzNaQUJpTVVhOUtTN3Q3WXBHMUpxbWJ1M2ExbmZ1VHlaUG9aUURFUXh2clNLX0lsMlR2MVRJcXF5THN1OGdjdVRTa3RUSUdTSXZCUHE0ZW9XSGl2dUV2WjhxZFRoNHRCbEs2S1dER0hmYjhlek1USS1UQlF0LWI2TmN2eVlJTlA1bmYzVXdqb2VLVlRJb2l5Mlh6allWeUVNa0FJTGhEV2g4RFdWd25uYWJpVFdLUkpkOG9jYmU4WndraVdHR1U4V0NlQlNNZTBoTjh5bEYwd1BfMXdyRFU3YVo4ZjZSbFdpYW5icGJCcnkzbFdlakhEODR0Nmh0anVSTXlHN0xwcTJmSlpwXzhf?oc=5)
-
-2026-05-25 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMinwJBVV95cUxPbThTbE0yUWNQazF2bkxwN2VPVG1qa2dxSGNaOFBzNnFwQXJSaHlUUmFfNEctNVJaYkliTDNRLUljaG90UHFtdjB1OGZxZTJQczlNT2djb2FBSk94SWtHY191azZNZGhPR19DWmRyUHNCYlFsUnhMMWxFTkdlZnZHSmJJQVEwN3lsYUROMEY2bFNxVWNrM3lhRXZhT1MzeGxZUDZNYW85emk1X0RtY3NpMExIQ09hMzhsN0ZpS3FkdE0wZWhlUmlJR0kwUkx2VnNlZ0lKeG54d3JVRHJaakdYTEhfS0hpVHh3R1FDMTd4Rkd5am5OTlFsbi1oNGJQd0NKeXJ2NDR6UGUwTzNhR21iWFdMeDRJWEN0RmF3czZEVdIBpAJBVV95cUxNYXZobFBhR2RJb3lHZFUtVUdpbEVYYzNaQUJpTVVhOUtTN3Q3WXBHMUpxbWJ1M2ExbmZ1VHlaUG9aUURFUXh2clNLX0lsMlR2MVRJcXF5THN1OGdjdVRTa3RUSUdTSXZCUHE0ZW9XSGl2dUV2WjhxZFRoNHRCbEs2S1dER0hmYjhlek1USS1UQlF0LWI2TmN2eVlJTlA1bmYzVXdqb2VLVlRJb2l5Mlh6allWeUVNa0FJTGhEV2g4RFdWd25uYWJpVFdLUkpkOG9jYmU4WndraVdHR1U4V0NlQlNNZTBoTjh5bEYwd1BfMXdyRFU3YVo4ZjZSbFdpYW5icGJCcnkzbFdlakhEODR0Nmh0anVSTXlHN0xwcTJmSlpwXzhf?oc=5)
 
 ---
 

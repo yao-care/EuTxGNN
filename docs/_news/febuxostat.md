@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="Febuxostat 有什麼相關新聞？">
-<strong>Febuxostat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Febuxostat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/febuxostat/
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/febuxostat/
 2026-05-26 <span class="news-indication-tag">hipertensión</span>
 
 來源：[El Globalfarma](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWFzZC1mLTB5aG5LSkVPalFxaDRyODI1SHlGMWJlS3JYZ3NUcnZtdGRUbE1haDRHZ01RNU9tc1RpMlVTb2NGcS1GN1E0OFdVdGozSlJnanV0aHBhTDZvYlp3UzN1RXF5cWRORG1DdXp0cWJPTUdNdjdvbjdGdGRJRjFKOEU1dWlmWi1hZUlhWXpzZnVqcUd1dmVaSU9odk5JRXhQb0dzQ05kRmQ0bkE?oc=5)
-
----
-
-### [Ipertensione, mangiare pomodori ogni giorno riduce il rischio del 36%: lo studio - il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
-
-2026-05-25 <span class="news-indication-tag">ipertensione</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
 
 ---
 

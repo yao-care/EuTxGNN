@@ -86,11 +86,11 @@ permalink: /news/lumacaftor/
 
 ---
 
-### [Ipertensione, mangiare pomodori ogni giorno riduce il rischio del 36%: lo studio - il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
+### [Heart Disease: Eating More Watermelon May Lower Your Risk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
 
-2026-05-25 <span class="news-indication-tag">ipertensione</span>
+2026-05-25 <span class="news-indication-tag">heart disease</span>
 
-來源：[il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
 
 ---
 

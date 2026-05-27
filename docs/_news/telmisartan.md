@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Un test basato sull’IA può prevedere il rischio di ictus con 15 anni di anticipo: come funziona](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+
+2026-05-26 <span class="news-indication-tag">ictus</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+
+---
 
 ### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
 
@@ -94,11 +102,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Ipertensione, mangiare pomodori ogni giorno riduce il rischio del 36%: lo studio - il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
+### [Heart Disease: Eating More Watermelon May Lower Your Risk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
 
-2026-05-25 <span class="news-indication-tag">ipertensione</span>
+2026-05-25 <span class="news-indication-tag">heart disease</span>
 
-來源：[il Giornale](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHZvMldZYzZCQWRDS3JtUERONUllUm5sbzl3ODBlZnlnZVVyUWZKUlBBU0hvcE0yNVNSeDhweFBqaWhEdDU4Yi1rSVE2bEQta0VwRUR4bnNzTjFSaDBJRFIzc2lNWllCaEhyYi01N1YwWmYyQWhGM3BHdmR0a3BWMG81N1JiTmlma1hzckNvVFNpc19Fa3Qzd3BCdDBJc3NzbmUxVndHNFcwRURqWW1FRzBQSHQwX0tTTGh1WV9XRDZjcU5q?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
 
 ---
 

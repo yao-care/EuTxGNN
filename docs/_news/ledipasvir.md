@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（25 則）
+
+### [Duodenales Mukosa-Resurfacing könnte Gewichtszunahme nach Tirzepatidabsetzen bremsen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjctWXctWG9zZE96MVlCc0J3ekh3WXhjaWlXSF8zOHhOMHpPTmdlUXozQUotT3RKR1pqMmRxTm1idm8xcndudjJkSWYzV3JEVU5CSEdPbk1oMVpWblhiSDVfMmtLNVBEOHh3QUpCWHotRkRKamVaWUZ3d040b3JPOU9QZjZuWklGdEVWOS1oLXYzZzBFN2xUWHlUSFFJREx0cFR2NExZTVdVdEhHUWNLRDgzMjNYMlVDWlRTcDBVc0liYXducEs0WDI3TzJZWVFodXRpRWRrY2VRYXNMbTY2N1dtMmxTdHFh?oc=5)
+
+2026-05-27 <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjctWXctWG9zZE96MVlCc0J3ekh3WXhjaWlXSF8zOHhOMHpPTmdlUXozQUotT3RKR1pqMmRxTm1idm8xcndudjJkSWYzV3JEVU5CSEdPbk1oMVpWblhiSDVfMmtLNVBEOHh3QUpCWHotRkRKamVaWUZ3d040b3JPOU9QZjZuWklGdEVWOS1oLXYzZzBFN2xUWHlUSFFJREx0cFR2NExZTVdVdEhHUWNLRDgzMjNYMlVDWlRTcDBVc0liYXducEs0WDI3TzJZWVFodXRpRWRrY2VRYXNMbTY2N1dtMmxTdHFh?oc=5)
+
+---
+
+### [Hantavirus, così Palermo si organizza contro il rischio di nuove epidemie: "Ma la vera minaccia resta l'influenza"](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3JLSWQwcXRZVGdNSGtpQXB4UEp1Q2JSVHdES3p3OEMxbnFKQWV1QkFWMnhjRmtDcHdNZ0NBakhxaTA3Y3ZHVlN0ZnJCUi1zekhvNmlnaTgtZkllTkN3YmhybGRFSkY4bUhFaEpkdW1lZFk0alNRdmFYSWVFUUNPaENkbVNLdTRyM1MtX3A4bl9jM1RfemZ5dDdGYjd6WmRIT3pSejlB?oc=5)
+
+2026-05-27 <span class="news-indication-tag">MS</span>
+
+來源：[PalermoToday](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3JLSWQwcXRZVGdNSGtpQXB4UEp1Q2JSVHdES3p3OEMxbnFKQWV1QkFWMnhjRmtDcHdNZ0NBakhxaTA3Y3ZHVlN0ZnJCUi1zekhvNmlnaTgtZkllTkN3YmhybGRFSkY4bUhFaEpkdW1lZFk0alNRdmFYSWVFUUNPaENkbVNLdTRyM1MtX3A4bl9jM1RfemZ5dDdGYjd6WmRIT3pSejlB?oc=5)
+
+---
 
 ### [Día Mundial de la Esclerosis Múltiple: claves y cuidados - Roche España](https://news.google.com/rss/articles/CBMib0FVX3lxTE4xVUw4U1RTeTdtaVJPemRJLVg1NTBnb3pYRXQ0TzZOSWZIeTZDZVJxX3FoRlhVa3RZLTc4enRNcGoyWDRBTVMtTVBCX1pqV1h4bnJweVZCYWllNTM4Z2Nhc25kcXpDZmtMT1dNbkV1bw?oc=5)
 
@@ -126,6 +142,14 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Dengue, chikungunya, Zika… La France redoute un été sous tension sanitaire](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Jc1NTWWl3ZFNvU2RxUmlvQXI4ODZRUEZzeDJqd0RTMW91OGNlMF9aLXF3LWxiTnU5TnNVVmNyWkh6WHVJdXBjbEhaMjlVVjctcmE1clpWQmZqWDhVSVFqNEtrTVR1QjFocHVLNGZicjNHN0ZMNl9PcndSMkxBZw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">MS</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Jc1NTWWl3ZFNvU2RxUmlvQXI4ODZRUEZzeDJqd0RTMW91OGNlMF9aLXF3LWxiTnU5TnNVVmNyWkh6WHVJdXBjbEhaMjlVVjctcmE1clpWQmZqWDhVSVFqNEtrTVR1QjFocHVLNGZicjNHN0ZMNl9PcndSMkxBZw?oc=5)
+
+---
+
 ### [Australia confirms first diphtheria death amid worst outbreak in decades](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44MXhubW1OZGFraENGd1dvR01ybmwzaXZnWHlPQWNzZTI0MlowQnFPd2JJSEVzcTUxRllkaFhwcG1NY2ZHNGloTVVlUjRpLUw3UmszbjdGWktRS3hQ?oc=5)
 
 2026-05-26 <span class="news-indication-tag">MS</span>
@@ -174,11 +198,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Grandad's lung cancer caught early at supermarket scan as 10,000 saved by checks - The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
+### [TÉMOIGNAGES. « L’IA m’a dit de venir vous voir » : comment les médecins s’adaptent aux recherches internet des patients](https://news.google.com/rss/articles/CBMikwJBVV95cUxNVHFoQTY2QV9jNVFfbzEzREFyZUhLYXNFS0c3c2k1VVJWLWxjUU9DV2ZDcnNnUFFmV2plTEU0Sm5tWlFtUHZOb2tJTHkwNmNKUVE0c2pfUk1NV09aRlZIbDBFNE5zN1RaNWQ1VlFIVlo3c1dpYmlrVjJRWWxPNEhyX3BnVGwxcVpPOEhfM082NTVMOElLcllyYWJHOUI2em5KeHlvZ0s4aXMwcnB6c0toRzk3LVRYY0FFRUlSakwtRGNwbzl0c3AyYmdSM1ZWVXpqU1NaRFc3dTZMa1hwTTB2QzFXSUJ3Y3Q5R2tqaDB3SUxnVnhhQjBCUFNib1R1a3FTTEJVVEVwaHJBRnY3T0NuNmFVOA?oc=5)
 
-2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-26 <span class="news-indication-tag">MS</span>
 
-來源：[The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMikwJBVV95cUxNVHFoQTY2QV9jNVFfbzEzREFyZUhLYXNFS0c3c2k1VVJWLWxjUU9DV2ZDcnNnUFFmV2plTEU0Sm5tWlFtUHZOb2tJTHkwNmNKUVE0c2pfUk1NV09aRlZIbDBFNE5zN1RaNWQ1VlFIVlo3c1dpYmlrVjJRWWxPNEhyX3BnVGwxcVpPOEhfM082NTVMOElLcllyYWJHOUI2em5KeHlvZ0s4aXMwcnB6c0toRzk3LVRYY0FFRUlSakwtRGNwbzl0c3AyYmdSM1ZWVXpqU1NaRFc3dTZMa1hwTTB2QzFXSUJ3Y3Q5R2tqaDB3SUxnVnhhQjBCUFNib1R1a3FTTEJVVEVwaHJBRnY3T0NuNmFVOA?oc=5)
 
 ---
 
@@ -198,19 +222,27 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Hantavirus, nuovo positivo tra gli spagnoli in quarantena a Madrid](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbjUzT3F6WTM5dmN2RU10V1kzSk1oQ2xxWXhVYk9YNzVLMWh6Zk04ajhFYjd3Q1o4ZFlzLTV6b2FNM1V3aWpQRl96N05XTXNfNEtLdnRHSTk3VE5UM0d3SUVGQldKTy14VkFwbmhKM0RIWkM4RUpRNE9pOVJnSkk1WFI5Zk9ZbnBVVHNrS3Yya2NVckNf0gFoQVVfeXFMTzkxazFIU09zQ2xxLXIwb2FmTW5YMTFHMHdCTm5hTklQc0xJRFRMSnBmaVlfZmVIeF9peHFFcmdqSTRSaXhVaDk3Mml4SzBaYTMtcHJGN1FxcnNLeW1CejREa09aY2pqQ0s?oc=5)
-
-2026-05-25 <span class="news-indication-tag">MS</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbjUzT3F6WTM5dmN2RU10V1kzSk1oQ2xxWXhVYk9YNzVLMWh6Zk04ajhFYjd3Q1o4ZFlzLTV6b2FNM1V3aWpQRl96N05XTXNfNEtLdnRHSTk3VE5UM0d3SUVGQldKTy14VkFwbmhKM0RIWkM4RUpRNE9pOVJnSkk1WFI5Zk9ZbnBVVHNrS3Yya2NVckNf0gFoQVVfeXFMTzkxazFIU09zQ2xxLXIwb2FmTW5YMTFHMHdCTm5hTklQc0xJRFRMSnBmaVlfZmVIeF9peHFFcmdqSTRSaXhVaDk3Mml4SzBaYTMtcHJGN1FxcnNLeW1CejREa09aY2pqQ0s?oc=5)
-
----
-
 ### [Northern Ireland women urged to know symptoms of disease that claims 122 lives a year - Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
 
 2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
+
+---
+
+### [Trop de personnes font cette erreur qui peut être mortelle : elle augmente de 60 % le risque de mélanome](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
+
+---
+
+### [Surgeon at North Wales hospital removed healthy part of bowel cancer patient and left tumour - North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
 
 ---
 

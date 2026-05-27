@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "stroke 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "stroke 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# stroke 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="stroke 有什麼相關新聞？">
-<strong>stroke</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「stroke」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Un test basato sull’IA può prevedere il rischio di ictus con 15 anni di anticipo: come funziona](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+
+2026-05-26
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+
+---
 
 ### [My 16 hours in A&E hell with suspected stroke symptoms - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
 

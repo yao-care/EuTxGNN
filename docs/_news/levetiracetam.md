@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/levetiracetam/
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Wie Levetiracetam Alzheimer vorbeugen könnte - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRllhaUtsNUxhWHAyS2hib3U2ZnZaMHY3X3JHOThWWWVZTEprbWl6alcwT2xQTzc5c1M2eDVuWE9XOTNvMEZwVFA1Z1RTQ29hUHROTk81ZzdmdWlNamw2Z1BDczRUcFNEeE8yTnJjSVVkT1VVVkhnUms5VXFSN0k0UXQyTXVreWZDWE1wbU8zbzlrdUZMbmZUQXVVUjh6cV9fSmd6bHQyZTVpM0NnZHBxR3lBLXdDRVk?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Levetiracetam</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRllhaUtsNUxhWHAyS2hib3U2ZnZaMHY3X3JHOThWWWVZTEprbWl6alcwT2xQTzc5c1M2eDVuWE9XOTNvMEZwVFA1Z1RTQ29hUHROTk81ZzdmdWlNamw2Z1BDczRUcFNEeE8yTnJjSVVkT1VVVkhnUms5VXFSN0k0UXQyTXVreWZDWE1wbU8zbzlrdUZMbmZUQXVVUjh6cV9fSmd6bHQyZTVpM0NnZHBxR3lBLXdDRVk?oc=5)
+
+---
 
 
 <div class="disclaimer">

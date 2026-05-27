@@ -54,6 +54,38 @@ permalink: /news/metformin/
 
 ## 相關新聞（10 則）
 
+### [Parodontitis 2025/26: Neue Daten koppeln Entzündung mit Herz, Diabetes und Demenz - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
+
+---
+
+### [Diabetes-Kongress: Lebensstil schlägt Gene um Faktor 7 - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaExONFl5c01WZHZSN0FFRlF5d3RkNHhFb1JjSlV2b1liZExVdzNmVmZQNHVSOGlnUlBJc1ZOSl9zTEJIWE1PMzdrcHFrS3JPY1BxVXBUUGRrRkE5aDZyWVRTdGJQWHZYNHkzV2ktNVZuR2FXZjFBclBOVnpZWURoN2ZCLTF5RDR3OVd5WnRpTUxpTF9ZaTk1eHhSTUw2a1I5NXc0cWV3?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaExONFl5c01WZHZSN0FFRlF5d3RkNHhFb1JjSlV2b1liZExVdzNmVmZQNHVSOGlnUlBJc1ZOSl9zTEJIWE1PMzdrcHFrS3JPY1BxVXBUUGRrRkE5aDZyWVRTdGJQWHZYNHkzV2ktNVZuR2FXZjFBclBOVnpZWURoN2ZCLTF5RDR3OVd5WnRpTUxpTF9ZaTk1eHhSTUw2a1I5NXc0cWV3?oc=5)
+
+---
+
+### [Darum ist Fruchtzucker bei Diabetes keine gesunde Alternative](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes-News](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
+
+---
+
+### [Insulin and metformin users issued warning over heatwave - Daily Express](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSy1jUWZjdVBuVWNiVG1xbFhnZWowdERBcE1lOE9PTUZGTEZ1b2lKU1RzWkltSnBMdVFPS2k0bXFvQndhbVVlcEp0UC1tczV2WDZqb2Z4MjVidHUzZ1JXWW15TjlQeFNQR1dVejlsaGFySVVXcEg0U0JqbU9jbHlndUhaNzl1czMxOXc2VV9EVDhWaEJ0NG13OXFvWmFoNHlkS0lEcC1Zd9IBrAFBVV95cUxOVmF4b29QOFVIY2lDRUJFanpZalh4SVBYVTZ6cm5lNW1HeG1KdkJlUFBuaU11cElkMG1tckhkT2docFljMlBQbm5YVU5vSnltNXdGRlc2Zkg3MTFZT3RaUldpUkY3ZHBlZFkzazY2bGt0QTh4NGF6akVMbE94TlVaaG9HbW9nY05ZT0pRWTAzMld0cHdUUHVRamJCOVRkZmtoSDJmSXM5T3lNMTl0?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSy1jUWZjdVBuVWNiVG1xbFhnZWowdERBcE1lOE9PTUZGTEZ1b2lKU1RzWkltSnBMdVFPS2k0bXFvQndhbVVlcEp0UC1tczV2WDZqb2Z4MjVidHUzZ1JXWW15TjlQeFNQR1dVejlsaGFySVVXcEg0U0JqbU9jbHlndUhaNzl1czMxOXc2VV9EVDhWaEJ0NG13OXFvWmFoNHlkS0lEcC1Zd9IBrAFBVV95cUxOVmF4b29QOFVIY2lDRUJFanpZalh4SVBYVTZ6cm5lNW1HeG1KdkJlUFBuaU11cElkMG1tckhkT2docFljMlBQbm5YVU5vSnltNXdGRlc2Zkg3MTFZT3RaUldpUkY3ZHBlZFkzazY2bGt0QTh4NGF6akVMbE94TlVaaG9HbW9nY05ZT0pRWTAzMld0cHdUUHVRamJCOVRkZmtoSDJmSXM5T3lNMTl0?oc=5)
+
+---
+
 ### [Menschen mit Typ-2-Diabetes haben ein erhöhtes Risiko für Riech- und Schmeckstörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
 
 2026-05-26 <span class="news-indication-tag">diabetes</span>
@@ -70,35 +102,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Pharmacist sertraline, fluoxetine, amitriptylinas warning as UK heatwave hits 35C - Daily Express](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2dRUllvSDNiOERmWWxCRk1kQy1zWjREalkzdXRQVDBQVXMtR0RZa1d1alNvM1NjUkw5cUZkcGc3RkNPUDRhYnpnYUprUGlNdzdiQUJHRzlHbGxGOTNGY0lWOUdMV2hVakpIYWYwTHR6RGdlQW9LN0x5cmpsYXJSVXpYVjF5TTN1VF9BUmw5VjhOcEhyX3lCNlpOOUFDcFpVNWJyZVAwcHQ1bXFKazcwTVRTYVoyUW1zYk1sYUdvYkZ3cFBQ0gHKAUFVX3lxTFA1MlVuTlhqMWxjaFJoLUxkS0dmRXgyZDQtTUNkOEtQU2hRbU93TmE1OURBMWVsX1FOUjFsYUgzSmlYVEtpVTJtWDhZdTU2dzhEcmRxcFBqNlV3Mml0SEw4MkNERXgxWHAtVDlOZmNDVXRLQWpoY2VVWUdheUkyNmVydllGdTkwTFhmU0pMbXJqdmJQZ3o2ZEFwXzZCQlhCbzZBdkdQYlFqQ3E1VXFkdXhRVVdUVjNKOFVLUmwwNzFZSUJFLTF6WDV0VWc?oc=5)
-
-2026-05-26 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2dRUllvSDNiOERmWWxCRk1kQy1zWjREalkzdXRQVDBQVXMtR0RZa1d1alNvM1NjUkw5cUZkcGc3RkNPUDRhYnpnYUprUGlNdzdiQUJHRzlHbGxGOTNGY0lWOUdMV2hVakpIYWYwTHR6RGdlQW9LN0x5cmpsYXJSVXpYVjF5TTN1VF9BUmw5VjhOcEhyX3lCNlpOOUFDcFpVNWJyZVAwcHQ1bXFKazcwTVRTYVoyUW1zYk1sYUdvYkZ3cFBQ0gHKAUFVX3lxTFA1MlVuTlhqMWxjaFJoLUxkS0dmRXgyZDQtTUNkOEtQU2hRbU93TmE1OURBMWVsX1FOUjFsYUgzSmlYVEtpVTJtWDhZdTU2dzhEcmRxcFBqNlV3Mml0SEw4MkNERXgxWHAtVDlOZmNDVXRLQWpoY2VVWUdheUkyNmVydllGdTkwTFhmU0pMbXJqdmJQZ3o2ZEFwXzZCQlhCbzZBdkdQYlFqQ3E1VXFkdXhRVVdUVjNKOFVLUmwwNzFZSUJFLTF6WDV0VWc?oc=5)
-
----
-
-### [Typ-1-Diabetes: Erste Immuntherapie Teplizumab verzögert Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
-
-2026-05-26 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
-
----
-
 ### [Investigadores de la UGR descubren que la melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
 
 2026-05-26 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
-
----
-
-### [Diabetes-Kongress Berlin: Ernährung verhindert 5,9 Millionen Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPalBJLVh0WXdUMmg1SVVsaUEwVG5qWHdzR1VickNoWEJvSW5iY1lhdV9qWTFUZTdOWU5yNlRDb1F6V05PTTlReFNzYkUtb2c5LXVrQWl5dFhNUXdURE4wZUFWblVYN04xWGtSNElseEFMMFI1SnpnSk56LVhaNkRWYUtjck42RlNpYzhIcXR2TXNUUWNHazNNdzRaa2NHdFNxQkphTHBYWlp1RHJKa25wRmNKUzJLNTJSUUswbGNB?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPalBJLVh0WXdUMmg1SVVsaUEwVG5qWHdzR1VickNoWEJvSW5iY1lhdV9qWTFUZTdOWU5yNlRDb1F6V05PTTlReFNzYkUtb2c5LXVrQWl5dFhNUXdURE4wZUFWblVYN04xWGtSNElseEFMMFI1SnpnSk56LVhaNkRWYUtjck42RlNpYzhIcXR2TXNUUWNHazNNdzRaa2NHdFNxQkphTHBYWlp1RHJKa25wRmNKUzJLNTJSUUswbGNB?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/metformin/
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
-
----
-
-### [Diabetes 2026: Darmprodukt TMAO verstärkt Muskelschwund um 54% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmtXV1A0WEY3WHZCNWVzdjU1SllBeFd1QmxaRUxQeVVPR19Nb0dzQXhjcEktT0NBRmdlNkpsNlMyQUpyam9DR0ZyVlBTZnpSdlVuOUVXSVYxQlI5X2dpMVNMeFltNDVxTzFSTF9HbjRQcWdfZW9wTVpybEwtaWR5bG5HaEsxMVY2ZmtQR3NDQXJYR2dDZE5udUtfemRtMDJ4UVJISnBGelYxY3Rqa2g5UTNuRmxzX2pmbWc?oc=5)
 
 ---
 
