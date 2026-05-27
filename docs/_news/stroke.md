@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Gehirngesundheit: 10 Stunden Bewegung pro Woche senken Demenz-Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXg5RFhHM19aWkpwYmU5SFEzZy1NMzJzTl92aWJGVGhIaW9yR3hZWmFreUlTeDhydThLbEx5OVdRTldaWmZyWFdjU25Wd1ZnM2hmRXBzWmJqQkw0QlNzcEV3RExYaHdPTEo5d0h1dFdRU2ZYWFVlb0FXdDdjQXNNZkVMNnVEMUVSRjQ0Mk9DSkNZbllFZmtwMlBWRVFoQWJicmwzaUc5bExBUzlYaVNscVNhV0NsM3JveE9WYUk0dw?oc=5)
+
+2026-05-27
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXg5RFhHM19aWkpwYmU5SFEzZy1NMzJzTl92aWJGVGhIaW9yR3hZWmFreUlTeDhydThLbEx5OVdRTldaWmZyWFdjU25Wd1ZnM2hmRXBzWmJqQkw0QlNzcEV3RExYaHdPTEo5d0h1dFdRU2ZYWFVlb0FXdDdjQXNNZkVMNnVEMUVSRjQ0Mk9DSkNZbllFZmtwMlBWRVFoQWJicmwzaUc5bExBUzlYaVNscVNhV0NsM3JveE9WYUk0dw?oc=5)
+
+---
 
 ### [Siemens Healthineers und Cercare Medical kündigen Zusammenarbeit bei der Schlaganfallbehandlung mit Cone-Beam CT Perfusionsbildgebung an - Siemens Healthineers](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVi0xV2FOXzFuZE5UbW1pdnRRX1RQVUdUZGt6cVhjdWl5alZfUUJGU1FsQS1xaTRzWGxJN3BNUlc2aUtnVm9wVVhpc1pkSTgwaWl3aDBRMnlMZVJDaFA2aUhrcFZZbE83UURERl9uQ0xOZEM0dVUtdWNKUXhzbFdRUDhuRlFnSUVfX09ZZk53cl9TRHc?oc=5)
 
@@ -57,19 +65,19 @@ permalink: /news/stroke/
 
 ---
 
-### [Demenz: 14 Risikofaktoren senken Erkrankungsrisiko um bis zu 50% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
-
-2026-05-26
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
-
----
-
 ### [My 16 hours in A&E hell with suspected stroke symptoms - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
 
 2026-05-26
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
+
+---
+
+### [PCOS to PMOS name change 'more representative of condition'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
+
+2026-05-26
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
 ### [Remission des Prädiabetes durch Gewichtsabnahme verläuft geschlechtsspezifisch – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
 
@@ -129,6 +129,14 @@ permalink: /news/diabetes-mellitus/
 2026-05-27
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm04WGo0LWRzRHlCWlNOUjRtMGl5M0RacUQzQ3k1aGtlZ0dkS2FxOHcyTXdmdHRoLXRtS1JqejVwU1RXWWdWVkF5dHJOY1k4VGNnV2xOU2NBS2piYkgzYndjMVlqaklxVUVvcEdsWVp6b0JjWUpKbUY5bVd0WjRYbHZsTkI2Zm1fWDJ0VllYcFRQNGtVM3hqck9rSTVDQ3dDQkFvSnRqaldPYk4zcVRRX2o4WFRCZ2w4eTV6LTdqVTg?oc=5)
+
+---
+
+### [I’m a doctor — these are 4 lesser-known signs of 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
+
+2026-05-27
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
 
 ---
 
@@ -156,35 +164,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Un perfil de colesterol más nocivo podría explicar parte del riesgo cardiovascular en la diabetes tipo 1 bien controlada - La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
-
-2026-05-26
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
-
----
-
-### [Demenz: 14 Risikofaktoren senken Erkrankungsrisiko um bis zu 50% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
-
-2026-05-26
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
-
----
-
 ### [Produits ultratransformés : 43 associations pressent le gouvernement d’agir - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0VvblhSRTVlc1RHNnJuRV9XUHRMM0JzaDZNTlpHcVU3cmd1MHRNcFFuYmZNeklfR1hmeWJ6RVdPbHNNckdaYzdtM0F0RG1ldWtpaFRBQTRIbnhQWEtTWTZweFhUaVI1eUlrTXNhUXhrSGEweU9IcHFiTEM4UDB0UXZueW1mcFE5dTdwTWRjUUZvZTQzN1hBNGlhMGM?oc=5)
 
 2026-05-26
 
 來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0VvblhSRTVlc1RHNnJuRV9XUHRMM0JzaDZNTlpHcVU3cmd1MHRNcFFuYmZNeklfR1hmeWJ6RVdPbHNNckdaYzdtM0F0RG1ldWtpaFRBQTRIbnhQWEtTWTZweFhUaVI1eUlrTXNhUXhrSGEweU9IcHFiTEM4UDB0UXZueW1mcFE5dTdwTWRjUUZvZTQzN1hBNGlhMGM?oc=5)
-
----
-
-### [Kind mit ADHS & Diabetes: Ärztin warnt Eltern vor riskanter Doppelfalle - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
-
-2026-05-25
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
 
 ---
 

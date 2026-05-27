@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [COPD: Fett und Zucker als stille Lungenkiller entdeckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUI5aldfMENwUTgtSWp6aHdKVmFmSEx1RUR4OFIyekRkUkc2MVhadXYtVHJyclNuaXVMRnM2ZnhWWXdXY1p0TG1kaFNVLTRRaElBYUNoNWk2OUVSQVJ6Uk9xZThBblRPQV92Rlp2WWdZQjVqOFFuQXMwUWJac0ZIR1FOY2pHV25md1ZsQS1wWHpoeUJTRjFURXVMYXhESWV3OG1WXw?oc=5)
+
+2026-05-27 <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUI5aldfMENwUTgtSWp6aHdKVmFmSEx1RUR4OFIyekRkUkc2MVhadXYtVHJyclNuaXVMRnM2ZnhWWXdXY1p0TG1kaFNVLTRRaElBYUNoNWk2OUVSQVJ6Uk9xZThBblRPQV92Rlp2WWdZQjVqOFFuQXMwUWJac0ZIR1FOY2pHV25md1ZsQS1wWHpoeUJTRjFURXVMYXhESWV3OG1WXw?oc=5)
+
+---
 
 ### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 

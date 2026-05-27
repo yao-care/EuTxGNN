@@ -54,11 +54,11 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（4 則）
 
-### [Médicaments anti-obésité : remboursement imminent pour le Wegovy et le Mounjaro - Le Parisien](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUpIbXBsSjV2N1Vqbk5yY1hLcjhjVW5DSWp6RkFIWXhyVG8yMkpCNzZ0eHAxYlNPcnRLMmZUaTJRNHZrMGpwbjFua1A0TXlTcVB1Y0F5eDFDQnJWMlBtUU96V1NzUnZldS1ZWm56ZnZnRXpxVHRVRlFGVUNIcDE4VGJqczR5SDFUb3VvMWJnaFlLVklQTEN6SkNPdE9QUkctUVVOaXVpb1ZDNGc5UFNfU0NJZHVtTVZTbUEwVERLX2p3b1BhWEZzMlloOG1PWHNTT0NyTEl5bDZjb0lCVjNucFdaNFhEcFhVb2doaVhJalI?oc=5)
+### [Les médicaments anti-obésité Wegovy et Mounjaro seront bientôt remboursés par la Sécurité sociale](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY24wcUhnQm51cXVwU2ZmNEl6VU1fUWU0WjFjd2J3YWhhNDRVQTdIbzJnbEk3RHppOXo0amV1aXV1UnVJZnQzVFVFZy1EWXhIVmxmMV9DQ2VESGNmQ0dMak42V1BHb2FkcHVtT0lDQ2dOYmNYclpmZi1pNWRIODY1czlFM3NORWNVQk1jU2xzd1Mzc2xTY1NDdEdzQS03ZldRWWF3MG14S0c1REI4MXdMYVllbFZKajRHc3g2Uk9lWU1Fc0ZjclRraEs0WFlzVkg3SVVJa2R5QUZsYVd2eHJqX1htZzhNY2JN?oc=5)
 
-2026-05-27 <span class="news-drug-tag">Liraglutide</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUpIbXBsSjV2N1Vqbk5yY1hLcjhjVW5DSWp6RkFIWXhyVG8yMkpCNzZ0eHAxYlNPcnRLMmZUaTJRNHZrMGpwbjFua1A0TXlTcVB1Y0F5eDFDQnJWMlBtUU96V1NzUnZldS1ZWm56ZnZnRXpxVHRVRlFGVUNIcDE4VGJqczR5SDFUb3VvMWJnaFlLVklQTEN6SkNPdE9QUkctUVVOaXVpb1ZDNGc5UFNfU0NJZHVtTVZTbUEwVERLX2p3b1BhWEZzMlloOG1PWHNTT0NyTEl5bDZjb0lCVjNucFdaNFhEcFhVb2doaVhJalI?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY24wcUhnQm51cXVwU2ZmNEl6VU1fUWU0WjFjd2J3YWhhNDRVQTdIbzJnbEk3RHppOXo0amV1aXV1UnVJZnQzVFVFZy1EWXhIVmxmMV9DQ2VESGNmQ0dMak42V1BHb2FkcHVtT0lDQ2dOYmNYclpmZi1pNWRIODY1czlFM3NORWNVQk1jU2xzd1Mzc2xTY1NDdEdzQS03ZldRWWF3MG14S0c1REI4MXdMYVllbFZKajRHc3g2Uk9lWU1Fc0ZjclRraEs0WFlzVkg3SVVJa2R5QUZsYVd2eHJqX1htZzhNY2JN?oc=5)
 
 ---
 

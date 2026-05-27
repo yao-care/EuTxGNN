@@ -14,7 +14,7 @@ permalink: /news/perflutren/
 ---
 
 <p class="key-answer" data-question="Perflutren 有什麼相關新聞？">
-<strong>Perflutren</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perflutren</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/perflutren/
 <p><a href="{{ '/drugs/perflutren/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Heart Failure: Vorhofflimmern bei Herzinsuffizienz – Welche Rolle spielen Medikamente? - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
 
 2026-05-26 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
-
----
-
-### [Eating More Watermelon May Help Prevent Heart Disease](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
-
-2026-05-25 <span class="news-indication-tag">heart disease</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
 
 ---
 

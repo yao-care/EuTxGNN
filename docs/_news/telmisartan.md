@@ -54,6 +54,22 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（9 則）
 
+### [Gehirngesundheit: 10 Stunden Bewegung pro Woche senken Demenz-Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXg5RFhHM19aWkpwYmU5SFEzZy1NMzJzTl92aWJGVGhIaW9yR3hZWmFreUlTeDhydThLbEx5OVdRTldaWmZyWFdjU25Wd1ZnM2hmRXBzWmJqQkw0QlNzcEV3RExYaHdPTEo5d0h1dFdRU2ZYWFVlb0FXdDdjQXNNZkVMNnVEMUVSRjQ0Mk9DSkNZbllFZmtwMlBWRVFoQWJicmwzaUc5bExBUzlYaVNscVNhV0NsM3JveE9WYUk0dw?oc=5)
+
+2026-05-27 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXg5RFhHM19aWkpwYmU5SFEzZy1NMzJzTl92aWJGVGhIaW9yR3hZWmFreUlTeDhydThLbEx5OVdRTldaWmZyWFdjU25Wd1ZnM2hmRXBzWmJqQkw0QlNzcEV3RExYaHdPTEo5d0h1dFdRU2ZYWFVlb0FXdDdjQXNNZkVMNnVEMUVSRjQ0Mk9DSkNZbllFZmtwMlBWRVFoQWJicmwzaUc5bExBUzlYaVNscVNhV0NsM3JveE9WYUk0dw?oc=5)
+
+---
+
+### [I’m a doctor — these are 4 lesser-known signs of 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
+
+---
+
 ### [Siemens Healthineers und Cercare Medical kündigen Zusammenarbeit bei der Schlaganfallbehandlung mit Cone-Beam CT Perfusionsbildgebung an - Siemens Healthineers](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVi0xV2FOXzFuZE5UbW1pdnRRX1RQVUdUZGt6cVhjdWl5alZfUUJGU1FsQS1xaTRzWGxJN3BNUlc2aUtnVm9wVVhpc1pkSTgwaWl3aDBRMnlMZVJDaFA2aUhrcFZZbE83UURERl9uQ0xOZEM0dVUtdWNKUXhzbFdRUDhuRlFnSUVfX09ZZk53cl9TRHc?oc=5)
 
 2026-05-27 <span class="news-indication-tag">Schlaganfall</span>
@@ -67,14 +83,6 @@ permalink: /news/telmisartan/
 2026-05-26 <span class="news-indication-tag">ictus</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
-
----
-
-### [Demenz: 14 Risikofaktoren senken Erkrankungsrisiko um bis zu 50% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
-
-2026-05-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
 
 ---
 
@@ -94,14 +102,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [La farmacia refuerza el control de la hipertensión: "Muchas veces los pacientes dejan la medicación porque creen que ya están bien" - El Globalfarma](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWFzZC1mLTB5aG5LSkVPalFxaDRyODI1SHlGMWJlS3JYZ3NUcnZtdGRUbE1haDRHZ01RNU9tc1RpMlVTb2NGcS1GN1E0OFdVdGozSlJnanV0aHBhTDZvYlp3UzN1RXF5cWRORG1DdXp0cWJPTUdNdjdvbjdGdGRJRjFKOEU1dWlmWi1hZUlhWXpzZnVqcUd1dmVaSU9odk5JRXhQb0dzQ05kRmQ0bkE?oc=5)
-
-2026-05-26 <span class="news-indication-tag">hipertensión</span>
-
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWFzZC1mLTB5aG5LSkVPalFxaDRyODI1SHlGMWJlS3JYZ3NUcnZtdGRUbE1haDRHZ01RNU9tc1RpMlVTb2NGcS1GN1E0OFdVdGozSlJnanV0aHBhTDZvYlp3UzN1RXF5cWRORG1DdXp0cWJPTUdNdjdvbjdGdGRJRjFKOEU1dWlmWi1hZUlhWXpzZnVqcUd1dmVaSU9odk5JRXhQb0dzQ05kRmQ0bkE?oc=5)
-
----
-
 ### [My 16 hours in A&E hell with suspected stroke symptoms - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
 
 2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
@@ -118,11 +118,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Eating More Watermelon May Help Prevent Heart Disease](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
+### [PCOS to PMOS name change 'more representative of condition'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
 
-2026-05-25 <span class="news-indication-tag">heart disease</span>
+2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
 
 ---
 

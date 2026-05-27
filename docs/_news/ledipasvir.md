@@ -54,6 +54,14 @@ permalink: /news/ledipasvir/
 
 ## 相關新聞（19 則）
 
+### [DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns - Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNFhIb2I3Y01JR2dVaTI5S3FrX0o2LU83TnAwa1dSTWxKQzNBbmJUYkR2cGtheGVGZXlrX1M4aTdaVU1aR1FUTF9XYlpqcGhzUUhhTDlCeFU0TS1xQzMxeGtQU3BmdzJTbkpPOVU3RVl3elNmQzdHU2t4OTItUkp6X3cxeFUwcm1YTm1tVGtQMmFVdUcwTFNIM3gtQzJYMkZocUl3alRCdFBsTWPSAbABQVVfeXFMTnJiaW8td3dYcU1IZkdYSHN4UkoyQnBXRHZBa1pIdmcySkU0aDBlRS1OVzZCVE5ZMnpYR0VsTG9QSFJnOEZZdFc1WEI1REVXOE9Qa3h0RHBmMTJqVjc3QXpobXhDN293MXVqSF9FSFluMC1UdjRQMnZXenpLRFZEX1k1QU5uZGtQc25xSUlhck9nZ1hGSEt1d0QtemYzMjRRNTdJdmZrRzFBRWJPUkhrWXA?oc=5)
+
+2026-05-27 <span class="news-indication-tag">MS</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNFhIb2I3Y01JR2dVaTI5S3FrX0o2LU83TnAwa1dSTWxKQzNBbmJUYkR2cGtheGVGZXlrX1M4aTdaVU1aR1FUTF9XYlpqcGhzUUhhTDlCeFU0TS1xQzMxeGtQU3BmdzJTbkpPOVU3RVl3elNmQzdHU2t4OTItUkp6X3cxeFUwcm1YTm1tVGtQMmFVdUcwTFNIM3gtQzJYMkZocUl3alRCdFBsTWPSAbABQVVfeXFMTnJiaW8td3dYcU1IZkdYSHN4UkoyQnBXRHZBa1pIdmcySkU0aDBlRS1OVzZCVE5ZMnpYR0VsTG9QSFJnOEZZdFc1WEI1REVXOE9Qa3h0RHBmMTJqVjc3QXpobXhDN293MXVqSF9FSFluMC1UdjRQMnZXenpLRFZEX1k1QU5uZGtQc25xSUlhck9nZ1hGSEt1d0QtemYzMjRRNTdJdmZrRzFBRWJPUkhrWXA?oc=5)
+
+---
+
 ### [Frauengesundheit und Rauchprävention im Fokus der MS-Forschung](https://news.google.com/rss/articles/CBMigAJBVV95cUxOaFJyMDVEVG5LTXBKMXdKZXl1OXlxSDhYRmhLLVFxMjBGWmdRaE5waXRXbEJRS2hDbTVxdVNGU002WU1yM0NiQkVFU0ozLWd0VFpWekcwOUxKdHBlVEh3cHZ1aE4wNGt3Ujg5WFN6NTFkVFFTNWktcEhtc2FuUUNyMmxKVE56OWJaeUY4bzZnS2p2RE1odWdxczNiUjNDQVR4NlhiQXRLNDhPZjZGUXYzZG1yazdhWlMtN1o2c0dqMldKcTJWUVh5R21NbkVEOHN0MG5SeFBfakIwZlhlNEZLaE1zRTFyX01VWmNRY0RVc29QcmxxOWNzOTdPS3RlZmJI?oc=5)
 
 2026-05-27 <span class="news-indication-tag">MS</span>
@@ -70,14 +78,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [‘Complicated’ circumstances test public health playbook for World Cup preparations](https://news.google.com/rss/articles/CBMibkFVX3lxTFBWaFFhZXdSa3pmZ1pMOXFUaHdFY3Y1WkI4NkFvaXlqbWt2WG8wS29UbDAtV2pjZnBDaFpqclo5bTJlQjVEOF9Ja1I4eXV2aGVMU2kxeDdJalhNSTF5UDBmOW5mamNhQVJ6U2lZb2FB?oc=5)
-
-2026-05-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTFBWaFFhZXdSa3pmZ1pMOXFUaHdFY3Y1WkI4NkFvaXlqbWt2WG8wS29UbDAtV2pjZnBDaFpqclo5bTJlQjVEOF9Ja1I4eXV2aGVMU2kxeDdJalhNSTF5UDBmOW5mamNhQVJ6U2lZb2FB?oc=5)
-
----
-
 ### [Duodenales Mukosa-Resurfacing könnte Gewichtszunahme nach Tirzepatidabsetzen bremsen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjctWXctWG9zZE96MVlCc0J3ekh3WXhjaWlXSF8zOHhOMHpPTmdlUXozQUotT3RKR1pqMmRxTm1idm8xcndudjJkSWYzV3JEVU5CSEdPbk1oMVpWblhiSDVfMmtLNVBEOHh3QUpCWHotRkRKamVaWUZ3d040b3JPOU9QZjZuWklGdEVWOS1oLXYzZzBFN2xUWHlUSFFJREx0cFR2NExZTVdVdEhHUWNLRDgzMjNYMlVDWlRTcDBVc0liYXducEs0WDI3TzJZWVFodXRpRWRrY2VRYXNMbTY2N1dtMmxTdHFh?oc=5)
 
 2026-05-27 <span class="news-indication-tag">MS</span>
@@ -86,11 +86,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Santé mentale : pourquoi les troubles psychiques explosent dans le monde - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRDRrU29IVHFyY2lyWWwzZkZwSm8xMzhha05aTzM2d3JUekdVX1BRdGRfQzQwRHFPeWczbTBwVnViNE5oOHpzeC1wTkxfUVRaTUxzVUxlVk5zYy11SjF2bWpkTmwxQ1pfUW1rTEt1NXYwM0s3UFl4YXFFbnJpMWRXZ3FPcmZpS3E3X3drWUtha2g5SlVzNjZVZUhLVkFoTVVzQVRjWVlRZXFObU1CUTMxajVBbWhFZFIxRmRXS0Nack1pYlc0bldvWTVtSEUtSjRNWVlqQkxfTkIzdm5SS0pTajNnbkdhUEV3eVdlMExtdFUxdG1sVjF1Z2xQVGtKcFpxZFZRZ2pxWEVYRlU?oc=5)
+### [Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQamxkN3RlZzFPWTVabWpreHNDaGp2SnVOckZ3STNTWTBGdXZGUHFUaU9fNTNjeFFoWWFYM2k0NE85SXE1OF9wWms5QnZNVkZlX05WbkdheFJ5cDBJUTVqYldQbXdfVm1lTjZZTldUZjRzOWUtRjEzdzYwaVYxMVIyZEpxd0ZmU2NSS19CeTV1cVh5dmNWeUVBNG9KejhYYU5yS3ZDU20xQ191MXowRUpRU2N1OFhlRUt1MU5Taks0V1dOQkN3bTljYW1WZGw2SkFoRmVneUNvV2QyV1MwcE1v?oc=5)
 
-2026-05-27 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+2026-05-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRDRrU29IVHFyY2lyWWwzZkZwSm8xMzhha05aTzM2d3JUekdVX1BRdGRfQzQwRHFPeWczbTBwVnViNE5oOHpzeC1wTkxfUVRaTUxzVUxlVk5zYy11SjF2bWpkTmwxQ1pfUW1rTEt1NXYwM0s3UFl4YXFFbnJpMWRXZ3FPcmZpS3E3X3drWUtha2g5SlVzNjZVZUhLVkFoTVVzQVRjWVlRZXFObU1CUTMxajVBbWhFZFIxRmRXS0Nack1pYlc0bldvWTVtSEUtSjRNWVlqQkxfTkIzdm5SS0pTajNnbkdhUEV3eVdlMExtdFUxdG1sVjF1Z2xQVGtKcFpxZFZRZ2pxWEVYRlU?oc=5)
+來源：[Reuters](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQamxkN3RlZzFPWTVabWpreHNDaGp2SnVOckZ3STNTWTBGdXZGUHFUaU9fNTNjeFFoWWFYM2k0NE85SXE1OF9wWms5QnZNVkZlX05WbkdheFJ5cDBJUTVqYldQbXdfVm1lTjZZTldUZjRzOWUtRjEzdzYwaVYxMVIyZEpxd0ZmU2NSS19CeTV1cVh5dmNWeUVBNG9KejhYYU5yS3ZDU20xQ191MXowRUpRU2N1OFhlRUt1MU5Taks0V1dOQkN3bTljYW1WZGw2SkFoRmVneUNvV2QyV1MwcE1v?oc=5)
 
 ---
 
@@ -102,27 +102,19 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Neue Zellpopulation im Alzheimer-Gehirn entdeckt – Forscher teilen wichtige Untersuchungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLUxoeE9PR3UzZEZhVEhQZnFiWnBsV2ZvYWhodkpqOC0wWndkbkgwbFc3d2o1dXlpV1I0VzZUb25zbktfRjcyTTFMM0tMbEdrdDg5ZjBrMnBfWEw3M0RzUExKQ0Rjem9FWFZjN0M0SnZ4cmV1aXY2VHc0d0xUcElXLUFGVGhVRFh2cTVtempfWkM4RXBfUzRwMmk4MFVfWlVGNTBSLWRhTm1WZFVkREpqOVlZUFlqQ1d3ejZfdUI0R0Q3NDNHNXVmamxmVFVwSWtM?oc=5)
+
+2026-05-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLUxoeE9PR3UzZEZhVEhQZnFiWnBsV2ZvYWhodkpqOC0wWndkbkgwbFc3d2o1dXlpV1I0VzZUb25zbktfRjcyTTFMM0tMbEdrdDg5ZjBrMnBfWEw3M0RzUExKQ0Rjem9FWFZjN0M0SnZ4cmV1aXY2VHc0d0xUcElXLUFGVGhVRFh2cTVtempfWkM4RXBfUzRwMmk4MFVfWlVGNTBSLWRhTm1WZFVkREpqOVlZUFlqQ1d3ejZfdUI0R0Q3NDNHNXVmamxmVFVwSWtM?oc=5)
+
+---
+
 ### [«Ebola e hantavirus? Sono due avvertimenti. I rischi di nuove epidemie stanno crescendo»](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN193RElBSldxaUNKdndFT2RMV0RqYzc5NV94SnVtTHFEamEzODZ5dmFOT25RaUxTVXFoY3BJWjZOZjg0R2o3VGlWX0huYjdSalVicVJlNGZ3ZGJ6VlJhdnZUa1JSamtqWUVGYjZLZm5XRGgtNHpPUkstR3VibVh5ZlNHUUFKeXJqZDVVc3NPdGNXb2VKQnBFZE5Xa3ZOS3RGTEQwcXRxc0NNbmctYXV3?oc=5)
 
 2026-05-27 <span class="news-indication-tag">MS</span>
 
 來源：[Avvenire](https://news.google.com/rss/articles/CBMirwFBVV95cUxQN193RElBSldxaUNKdndFT2RMV0RqYzc5NV94SnVtTHFEamEzODZ5dmFOT25RaUxTVXFoY3BJWjZOZjg0R2o3VGlWX0huYjdSalVicVJlNGZ3ZGJ6VlJhdnZUa1JSamtqWUVGYjZLZm5XRGgtNHpPUkstR3VibVh5ZlNHUUFKeXJqZDVVc3NPdGNXb2VKQnBFZE5Xa3ZOS3RGTEQwcXRxc0NNbmctYXV3?oc=5)
-
----
-
-### [Wissenschaftler aus MV helfen bei Suche nach Ebola-Impfstoff](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDY0QzEtblkxVGZPQ1hkQW4temhCZDNCZzMtRVV0c29VZ2NyOFRRQXMzZ3RLZk85M0QzamQ0MlNfNGVZajJadDFoVmdvOFRWVnR1NjF2Q1dJYXpfaWVDZm4tb044MUVIUndTbktNU0k4NzJsaXhiSXQ3Z2hjNFBjWm5OVlBNZDU3S3NYREZCbjdqaHJ2ZkFkNHpyWUEyaFBpT3NKd1JNYy16dnBYWDdveW14VDNxV21ZYVlUTUx2cUcwUHdZWGQ3WDhTbEoxZw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[NDR.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDY0QzEtblkxVGZPQ1hkQW4temhCZDNCZzMtRVV0c29VZ2NyOFRRQXMzZ3RLZk85M0QzamQ0MlNfNGVZajJadDFoVmdvOFRWVnR1NjF2Q1dJYXpfaWVDZm4tb044MUVIUndTbktNU0k4NzJsaXhiSXQ3Z2hjNFBjWm5OVlBNZDU3S3NYREZCbjdqaHJ2ZkFkNHpyWUEyaFBpT3NKd1JNYy16dnBYWDdveW14VDNxV21ZYVlUTUx2cUcwUHdZWGQ3WDhTbEoxZw?oc=5)
-
----
-
-### [Passenger Tests Positive For Hantavirus Weeks After Leaving Infected Cruise Ship (Latest Updates)](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNak56bzI3aHNZMERlWnFFeUcxTlYwZzN6cEVaY3NydFB0RV8yLUY2TnJuZld3LWFhdGdFNmtaZU83NHVaaVN3VE8yQWROa3IyX1BVaDdmUHhwWjd5ODlza1Q0U2RtTG90SWRhNVduY21nYlhZeVRlX2xzdURWQm9RRWxSbGhGQkNPdEl5T29lY0Z3ZGFmRFhZeWRRR25PUUloZ043TlJySXJ0R2pZdTNQaVBqQm5uY1lmUXlLLUZ3dFdQOTFWdjBLUng5VXBrbkJzT2RCbmVlalkyV1d0VWxUY3Q3Zw?oc=5)
-
-2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Forbes](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNak56bzI3aHNZMERlWnFFeUcxTlYwZzN6cEVaY3NydFB0RV8yLUY2TnJuZld3LWFhdGdFNmtaZU83NHVaaVN3VE8yQWROa3IyX1BVaDdmUHhwWjd5ODlza1Q0U2RtTG90SWRhNVduY21nYlhZeVRlX2xzdURWQm9RRWxSbGhGQkNPdEl5T29lY0Z3ZGFmRFhZeWRRR25PUUloZ043TlJySXJ0R2pZdTNQaVBqQm5uY1lmUXlLLUZ3dFdQOTFWdjBLUng5VXBrbkJzT2RCbmVlalkyV1d0VWxUY3Q3Zw?oc=5)
 
 ---
 
@@ -139,6 +131,14 @@ permalink: /news/ledipasvir/
 2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVNaNm5fQ3d6cEQ5R3h3NDFKZzgyTlJ0TXJEQU51YWR4N1FPQ1pNTzRWS0xjSXFQbEdhWDVxMmo5U25jN1BNWXBQLU1DUXM2cU9kVjRJdzVGaUlvTWJ4enJnT1R2bmpBS3lTSHFjNU0tYXhja0lUOEZQMVhIVVZfT3piNVNlNDM2MEJIZFBYNUp6b1RYcjBN?oc=5)
+
+---
+
+### [Wie Immunprozesse im Darm die Entstehung von MS antreiben könnten - Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxPODAzaWhyV19TQnR3cFVXQ3N6NUJDNEVCeGlvLVNRSHJfVWlDOG1jM01LUXp6eDZSQjNQbGhOSThzV2ZzMVJoWExIM3ZET0VSZkhyZlM5QXJBRXJwbUkwZVpXemt4Wk9vdW9WdXhjZUM1dHduakxPZFJhTW9ZclZTdmlaVUJzSmp1NWQ4S0xEYWxvdWYy?oc=5)
+
+2026-05-26 <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilAFBVV95cUxPODAzaWhyV19TQnR3cFVXQ3N6NUJDNEVCeGlvLVNRSHJfVWlDOG1jM01LUXp6eDZSQjNQbGhOSThzV2ZzMVJoWExIM3ZET0VSZkhyZlM5QXJBRXJwbUkwZVpXemt4Wk9vdW9WdXhjZUM1dHduakxPZFJhTW9ZclZTdmlaVUJzSmp1NWQ4S0xEYWxvdWYy?oc=5)
 
 ---
 
@@ -184,7 +184,7 @@ permalink: /news/ledipasvir/
 
 ### [PCOS to PMOS name change 'more representative of condition'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
 
-2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
 

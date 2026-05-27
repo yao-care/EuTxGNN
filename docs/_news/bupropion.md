@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Médicaments anti-obésité : remboursement imminent pour le Wegovy et le Mounjaro - Le Parisien](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUpIbXBsSjV2N1Vqbk5yY1hLcjhjVW5DSWp6RkFIWXhyVG8yMkpCNzZ0eHAxYlNPcnRLMmZUaTJRNHZrMGpwbjFua1A0TXlTcVB1Y0F5eDFDQnJWMlBtUU96V1NzUnZldS1ZWm56ZnZnRXpxVHRVRlFGVUNIcDE4VGJqczR5SDFUb3VvMWJnaFlLVklQTEN6SkNPdE9QUkctUVVOaXVpb1ZDNGc5UFNfU0NJZHVtTVZTbUEwVERLX2p3b1BhWEZzMlloOG1PWHNTT0NyTEl5bDZjb0lCVjNucFdaNFhEcFhVb2doaVhJalI?oc=5)
+### [Les médicaments anti-obésité Wegovy et Mounjaro seront bientôt remboursés par la Sécurité sociale](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY24wcUhnQm51cXVwU2ZmNEl6VU1fUWU0WjFjd2J3YWhhNDRVQTdIbzJnbEk3RHppOXo0amV1aXV1UnVJZnQzVFVFZy1EWXhIVmxmMV9DQ2VESGNmQ0dMak42V1BHb2FkcHVtT0lDQ2dOYmNYclpmZi1pNWRIODY1czlFM3NORWNVQk1jU2xzd1Mzc2xTY1NDdEdzQS03ZldRWWF3MG14S0c1REI4MXdMYVllbFZKajRHc3g2Uk9lWU1Fc0ZjclRraEs0WFlzVkg3SVVJa2R5QUZsYVd2eHJqX1htZzhNY2JN?oc=5)
 
-2026-05-27 <span class="news-drug-tag">Liraglutide</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUpIbXBsSjV2N1Vqbk5yY1hLcjhjVW5DSWp6RkFIWXhyVG8yMkpCNzZ0eHAxYlNPcnRLMmZUaTJRNHZrMGpwbjFua1A0TXlTcVB1Y0F5eDFDQnJWMlBtUU96V1NzUnZldS1ZWm56ZnZnRXpxVHRVRlFGVUNIcDE4VGJqczR5SDFUb3VvMWJnaFlLVklQTEN6SkNPdE9QUkctUVVOaXVpb1ZDNGc5UFNfU0NJZHVtTVZTbUEwVERLX2p3b1BhWEZzMlloOG1PWHNTT0NyTEl5bDZjb0lCVjNucFdaNFhEcFhVb2doaVhJalI?oc=5)
-
----
-
-### [Neue Studie zeigt Nervenschäden durch Adipositas im Gesicht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2J5NVV5a0Q2cUVWT08zYkJwNGFaTm5FUTA0N3pwSmhIVFdaSlk1dHY4bXZFTGVsbTRjX3gtd2o5eEY0RzJ2Yjd0TFVITkZXWTMyM2hWRmRUMko4WVlnSklHVzFvOFktNDlLMTlqX1FqTTF1UC01Q3h2SlRrMVJZclZYMmFrVWNOZUtucGJiMHhRTGdsaEtMSzF4dUxfWHk1X09jNg?oc=5)
-
-2026-05-27 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2J5NVV5a0Q2cUVWT08zYkJwNGFaTm5FUTA0N3pwSmhIVFdaSlk1dHY4bXZFTGVsbTRjX3gtd2o5eEY0RzJ2Yjd0TFVITkZXWTMyM2hWRmRUMko4WVlnSklHVzFvOFktNDlLMTlqX1FqTTF1UC01Q3h2SlRrMVJZclZYMmFrVWNOZUtucGJiMHhRTGdsaEtMSzF4dUxfWHk1X09jNg?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY24wcUhnQm51cXVwU2ZmNEl6VU1fUWU0WjFjd2J3YWhhNDRVQTdIbzJnbEk3RHppOXo0amV1aXV1UnVJZnQzVFVFZy1EWXhIVmxmMV9DQ2VESGNmQ0dMak42V1BHb2FkcHVtT0lDQ2dOYmNYclpmZi1pNWRIODY1czlFM3NORWNVQk1jU2xzd1Mzc2xTY1NDdEdzQS03ZldRWWF3MG14S0c1REI4MXdMYVllbFZKajRHc3g2Uk9lWU1Fc0ZjclRraEs0WFlzVkg3SVVJa2R5QUZsYVd2eHJqX1htZzhNY2JN?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/bupropion/
 2026-05-26 <span class="news-indication-tag">obesidad</span>
 
 來源：[Ruvid](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSElyb0JtMndDQjY0NVFnSk5HWlNGbnZNSkozVUVpNU5ldTBpUE1xb3N0ZzVWSkVJZUVrYmVEdnFhTVVKMWt0MVZQTHdTaGl2ZzBOalNwNjU0cVRfNzk1djcybUVGa1pCTTB2ZVFJYkU4blJqUWQySTRTWS1oYVdzZDVRVURsUlZQWFBtWlRZSVZvMS1na2Yxc3JSYndVM2hQ?oc=5)
-
----
-
-### [I farmaci anti-obesità potrebbero ridurre il rischio metastasi di alcuni tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJBM1pJNzNNZ1RPOUJNWlRld1cxNUZKWTJOclFlQU5BMElheHRDNXNtd1lPMUFLaXdScmJpNXFIY2NfbGpsZFV3Qkw3YjJOYV9QdFA5WFRiNGNCeXRMSFh4WlJneUpaZ2hieUdGXy1qZ2VoWm15aXZ6YzROTzAtcDk0OUN5dVVPQ29zNU04R2c2SWt3cmIzbUlpTW5YbjNTbGVac19oak1IZkx5b1lHdUowbFc?oc=5)
-
-2026-05-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJBM1pJNzNNZ1RPOUJNWlRld1cxNUZKWTJOclFlQU5BMElheHRDNXNtd1lPMUFLaXdScmJpNXFIY2NfbGpsZFV3Qkw3YjJOYV9QdFA5WFRiNGNCeXRMSFh4WlJneUpaZ2hieUdGXy1qZ2VoWm15aXZ6YzROTzAtcDk0OUN5dVVPQ29zNU04R2c2SWt3cmIzbUlpTW5YbjNTbGVac19oak1IZkx5b1lHdUowbFc?oc=5)
 
 ---
 

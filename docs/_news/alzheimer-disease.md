@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Daily drug taken by millions found to increase risk of dementia by 33%](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
 
 2026-05-27
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
+
+---
+
+### [These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5)
+
+2026-05-26
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5)
 
 ---
 
