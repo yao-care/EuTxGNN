@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Siemens Healthineers und Cercare Medical kündigen Zusammenarbeit bei der Schlaganfallbehandlung mit Cone-Beam CT Perfusionsbildgebung an - Siemens Healthineers](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVi0xV2FOXzFuZE5UbW1pdnRRX1RQVUdUZGt6cVhjdWl5alZfUUJGU1FsQS1xaTRzWGxJN3BNUlc2aUtnVm9wVVhpc1pkSTgwaWl3aDBRMnlMZVJDaFA2aUhrcFZZbE83UURERl9uQ0xOZEM0dVUtdWNKUXhzbFdRUDhuRlFnSUVfX09ZZk53cl9TRHc?oc=5)
+
+2026-05-27 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Siemens Healthineers](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVi0xV2FOXzFuZE5UbW1pdnRRX1RQVUdUZGt6cVhjdWl5alZfUUJGU1FsQS1xaTRzWGxJN3BNUlc2aUtnVm9wVVhpc1pkSTgwaWl3aDBRMnlMZVJDaFA2aUhrcFZZbE83UURERl9uQ0xOZEM0dVUtdWNKUXhzbFdRUDhuRlFnSUVfX09ZZk53cl9TRHc?oc=5)
+
+---
 
 ### [Un test basato sull’IA può prevedere il rischio di ictus con 15 anni di anticipo: come funziona](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
 
 2026-05-26 <span class="news-indication-tag">ictus</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+
+---
+
+### [Demenz: 14 Risikofaktoren senken Erkrankungsrisiko um bis zu 50% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
+
+---
+
+### [Produits ultratransformés : 43 associations pressent le gouvernement d’agir - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0VvblhSRTVlc1RHNnJuRV9XUHRMM0JzaDZNTlpHcVU3cmd1MHRNcFFuYmZNeklfR1hmeWJ6RVdPbHNNckdaYzdtM0F0RG1ldWtpaFRBQTRIbnhQWEtTWTZweFhUaVI1eUlrTXNhUXhrSGEweU9IcHFiTEM4UDB0UXZueW1mcFE5dTdwTWRjUUZvZTQzN1hBNGlhMGM?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0VvblhSRTVlc1RHNnJuRV9XUHRMM0JzaDZNTlpHcVU3cmd1MHRNcFFuYmZNeklfR1hmeWJ6RVdPbHNNckdaYzdtM0F0RG1ldWtpaFRBQTRIbnhQWEtTWTZweFhUaVI1eUlrTXNhUXhrSGEweU9IcHFiTEM4UDB0UXZueW1mcFE5dTdwTWRjUUZvZTQzN1hBNGlhMGM?oc=5)
 
 ---
 
@@ -94,15 +118,7 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Heart Failure: Entzündung bei Kardiomyopathien – Neue Targets jenseits der Immunsuppression - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
-
-2026-05-26 <span class="news-indication-tag">heart failure</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
-
----
-
-### [Heart Disease: Eating More Watermelon May Lower Your Risk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
+### [Eating More Watermelon May Help Prevent Heart Disease](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5)
 
 2026-05-25 <span class="news-indication-tag">heart disease</span>
 

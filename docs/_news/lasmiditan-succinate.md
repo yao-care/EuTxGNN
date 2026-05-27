@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Médicaments anti-obésité : remboursement imminent pour le Wegovy et le Mounjaro - Le Parisien](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUpIbXBsSjV2N1Vqbk5yY1hLcjhjVW5DSWp6RkFIWXhyVG8yMkpCNzZ0eHAxYlNPcnRLMmZUaTJRNHZrMGpwbjFua1A0TXlTcVB1Y0F5eDFDQnJWMlBtUU96V1NzUnZldS1ZWm56ZnZnRXpxVHRVRlFGVUNIcDE4VGJqczR5SDFUb3VvMWJnaFlLVklQTEN6SkNPdE9QUkctUVVOaXVpb1ZDNGc5UFNfU0NJZHVtTVZTbUEwVERLX2p3b1BhWEZzMlloOG1PWHNTT0NyTEl5bDZjb0lCVjNucFdaNFhEcFhVb2doaVhJalI?oc=5)
+
+2026-05-27 <span class="news-drug-tag">Liraglutide</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUpIbXBsSjV2N1Vqbk5yY1hLcjhjVW5DSWp6RkFIWXhyVG8yMkpCNzZ0eHAxYlNPcnRLMmZUaTJRNHZrMGpwbjFua1A0TXlTcVB1Y0F5eDFDQnJWMlBtUU96V1NzUnZldS1ZWm56ZnZnRXpxVHRVRlFGVUNIcDE4VGJqczR5SDFUb3VvMWJnaFlLVklQTEN6SkNPdE9QUkctUVVOaXVpb1ZDNGc5UFNfU0NJZHVtTVZTbUEwVERLX2p3b1BhWEZzMlloOG1PWHNTT0NyTEl5bDZjb0lCVjNucFdaNFhEcFhVb2doaVhJalI?oc=5)
+
+---
+
+### [Neue Studie zeigt Nervenschäden durch Adipositas im Gesicht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2J5NVV5a0Q2cUVWT08zYkJwNGFaTm5FUTA0N3pwSmhIVFdaSlk1dHY4bXZFTGVsbTRjX3gtd2o5eEY0RzJ2Yjd0TFVITkZXWTMyM2hWRmRUMko4WVlnSklHVzFvOFktNDlLMTlqX1FqTTF1UC01Q3h2SlRrMVJZclZYMmFrVWNOZUtucGJiMHhRTGdsaEtMSzF4dUxfWHk1X09jNg?oc=5)
+
+2026-05-27 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2J5NVV5a0Q2cUVWT08zYkJwNGFaTm5FUTA0N3pwSmhIVFdaSlk1dHY4bXZFTGVsbTRjX3gtd2o5eEY0RzJ2Yjd0TFVITkZXWTMyM2hWRmRUMko4WVlnSklHVzFvOFktNDlLMTlqX1FqTTF1UC01Q3h2SlRrMVJZclZYMmFrVWNOZUtucGJiMHhRTGdsaEtMSzF4dUxfWHk1X09jNg?oc=5)
+
+---
+
+### [Científicos aseguran que la melatonina protege contra la obesidad y la diabetes tipo 2](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZllsQmRFaEpNSlN6QjBNRWFKeUZLNEs1VmhtcUJHdXBWcDNfQ1U3NkxCX2tNU3kxZnlOcEdzOVZNM3lTRlJIMkJiQmlWRFJJOWt3S2FlV1MwdDBBUDRuWkFuTkZNc2RfQTN3ZVNBTDR5aEJuY2c3ZHMzTFNBNlQ3MDhqS0tSeXphQ1N1X2NaZEh4SlMzOU12SDgzYzIwRG42ekVJMFFtcmQtb3hnWG5fVtIBtgFBVV95cUxOYjRFNHlmTXI3QV9iWXVwOEpHVElpUEF4M2RneEg0Tzl4WlZXMXdwMkhGM1Qyb1lCMi1RYnpyc29DY1hnOGdnNmhGTkVWQlJfZFJ2OTg2aEV4cVVaOEhJc1JpVW9fbnB3WUNQaHBfb1lDMVFhOGFnQWQ2MWg5eXZvbW5xZURrYktUN0dHeW84ZU1ER0U3dmNGSDdfWUxtRmhIM0F0WVgzQTZCaldSYk5tZ29Pb254Zw?oc=5)
+
+2026-05-27 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZllsQmRFaEpNSlN6QjBNRWFKeUZLNEs1VmhtcUJHdXBWcDNfQ1U3NkxCX2tNU3kxZnlOcEdzOVZNM3lTRlJIMkJiQmlWRFJJOWt3S2FlV1MwdDBBUDRuWkFuTkZNc2RfQTN3ZVNBTDR5aEJuY2c3ZHMzTFNBNlQ3MDhqS0tSeXphQ1N1X2NaZEh4SlMzOU12SDgzYzIwRG42ekVJMFFtcmQtb3hnWG5fVtIBtgFBVV95cUxOYjRFNHlmTXI3QV9iWXVwOEpHVElpUEF4M2RneEg0Tzl4WlZXMXdwMkhGM1Qyb1lCMi1RYnpyc29DY1hnOGdnNmhGTkVWQlJfZFJ2OTg2aEV4cVVaOEhJc1JpVW9fbnB3WUNQaHBfb1lDMVFhOGFnQWQ2MWg5eXZvbW5xZURrYktUN0dHeW84ZU1ER0U3dmNGSDdfWUxtRmhIM0F0WVgzQTZCaldSYk5tZ29Pb254Zw?oc=5)
+
+---
+
+### [Obésité : un nouveau médicament ciblé pourrait révolutionner la perte de poids !](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzl6M05CYmYxY3lMOXc4cmx4Nk1DN1l0SlNPY3ZZMHcyOHN0Q0JMLTdzWE54dDVneGtnaF8yY1lxbEYxOWlmaFc1ZV9mWUV3bTV4LVNtdUFPdUNUS3JEYWdQV2NSNjhRX1JqbUZHT0dBMWI1MExDUWV1NjViQTRYWFF6NkQ1YXZiVzVxS1ZGQXJfYVNTUHB2bXJXVDJZMkhwMVd6TUtNYkhIX3l2YjI3UjFGeVFYS3BP?oc=5)
+
+2026-05-26 <span class="news-indication-tag">obésité</span>
+
+來源：[PasseportSanté](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzl6M05CYmYxY3lMOXc4cmx4Nk1DN1l0SlNPY3ZZMHcyOHN0Q0JMLTdzWE54dDVneGtnaF8yY1lxbEYxOWlmaFc1ZV9mWUV3bTV4LVNtdUFPdUNUS3JEYWdQV2NSNjhRX1JqbUZHT0dBMWI1MExDUWV1NjViQTRYWFF6NkQ1YXZiVzVxS1ZGQXJfYVNTUHB2bXJXVDJZMkhwMVd6TUtNYkhIX3l2YjI3UjFGeVFYS3BP?oc=5)
+
+---
 
 ### [Adipositas und Medikamente beeinflussen Testosteron und Spermienzahl – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
-
----
-
-### [Investigadores de la UGR descubren que la melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
-
-2026-05-26 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
 
 ---
 
@@ -83,14 +107,6 @@ permalink: /news/lasmiditan-succinate/
 2026-05-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFJBM1pJNzNNZ1RPOUJNWlRld1cxNUZKWTJOclFlQU5BMElheHRDNXNtd1lPMUFLaXdScmJpNXFIY2NfbGpsZFV3Qkw3YjJOYV9QdFA5WFRiNGNCeXRMSFh4WlJneUpaZ2hieUdGXy1qZ2VoWm15aXZ6YzROTzAtcDk0OUN5dVVPQ29zNU04R2c2SWt3cmIzbUlpTW5YbjNTbGVac19oak1IZkx5b1lHdUowbFc?oc=5)
-
----
-
-### [Chronische Entzündung: Mai-Studien zeigen Nervenschäden bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
 
 ---
 

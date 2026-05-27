@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5)
+### [Daily drug taken by millions found to increase risk of dementia by 33%](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
 
-2026-05-26 <span class="news-indication-tag">dementia</span>
+2026-05-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5)
-
----
-
-### [Alzheimer : ces deux signes subtils qui indiquent que la maladie peut apparaître dès 45 ans](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ19RVTdSMFJhcGZXcEFQNTZsSjhDMjk5TXNERElxcU82U19uclpMMm1ObGZNV3AxWl8xS2pwM2dNS3pIRzN3eHhLVVFucTFxeGJfMGpYeFZhQ3J6eGF2d2l5MUlYY0lZZzBkajQ4Y0RWMHRWUFVDQlQ3N0hiLTFpZnZqaVhkWFpZY0dVTHFXczJqbjIya0tCdFBhMUtVWUtPZFRpWU16dEMwZ3lEVFNIbW13RVNOVDFlY1BacNIBwgFBVV95cUxOcW0yZmV2UVViMnQ0anpnVXM3N0NkREd0a2FTamw5RkVDeGVpc1RROTFFQzVLZVlESFRCTklwdjJQTlJWdURDcFF2OFhlRW1xTHlaX25aOW9iU0dibEpkeS1vVFBQTFZUNUNSNEJYUTZEbW5DNDVlQU5DY3plYzlpQ1doZm1fR25HZUpWQVFfRTF5UVUySjRCb043akp5em9DblhkSW90aGVmbWRzNUpQanhqZUdKQWN4QUhsYzYwQnVSUQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ19RVTdSMFJhcGZXcEFQNTZsSjhDMjk5TXNERElxcU82U19uclpMMm1ObGZNV3AxWl8xS2pwM2dNS3pIRzN3eHhLVVFucTFxeGJfMGpYeFZhQ3J6eGF2d2l5MUlYY0lZZzBkajQ4Y0RWMHRWUFVDQlQ3N0hiLTFpZnZqaVhkWFpZY0dVTHFXczJqbjIya0tCdFBhMUtVWUtPZFRpWU16dEMwZ3lEVFNIbW13RVNOVDFlY1BacNIBwgFBVV95cUxOcW0yZmV2UVViMnQ0anpnVXM3N0NkREd0a2FTamw5RkVDeGVpc1RROTFFQzVLZVlESFRCTklwdjJQTlJWdURDcFF2OFhlRW1xTHlaX25aOW9iU0dibEpkeS1vVFBQTFZUNUNSNEJYUTZEbW5DNDVlQU5DY3plYzlpQ1doZm1fR25HZUpWQVFfRTF5UVUySjRCb043akp5em9DblhkSW90aGVmbWRzNUpQanhqZUdKQWN4QUhsYzYwQnVSUQ?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
 
 ---
 

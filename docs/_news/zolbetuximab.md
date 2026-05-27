@@ -54,6 +54,22 @@ permalink: /news/zolbetuximab/
 
 ## 相關新聞（9 則）
 
+### [Remission des Prädiabetes durch Gewichtsabnahme verläuft geschlechtsspezifisch – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
+
+---
+
+### [Bei dieser häufigen Genvariation könnte Vitamin D vor Diabetes schützen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm04WGo0LWRzRHlCWlNOUjRtMGl5M0RacUQzQ3k1aGtlZ0dkS2FxOHcyTXdmdHRoLXRtS1JqejVwU1RXWWdWVkF5dHJOY1k4VGNnV2xOU2NBS2piYkgzYndjMVlqaklxVUVvcEdsWVp6b0JjWUpKbUY5bVd0WjRYbHZsTkI2Zm1fWDJ0VllYcFRQNGtVM3hqck9rSTVDQ3dDQkFvSnRqaldPYk4zcVRRX2o4WFRCZ2w4eTV6LTdqVTg?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm04WGo0LWRzRHlCWlNOUjRtMGl5M0RacUQzQ3k1aGtlZ0dkS2FxOHcyTXdmdHRoLXRtS1JqejVwU1RXWWdWVkF5dHJOY1k4VGNnV2xOU2NBS2piYkgzYndjMVlqaklxVUVvcEdsWVp6b0JjWUpKbUY5bVd0WjRYbHZsTkI2Zm1fWDJ0VllYcFRQNGtVM3hqck9rSTVDQ3dDQkFvSnRqaldPYk4zcVRRX2o4WFRCZ2w4eTV6LTdqVTg?oc=5)
+
+---
+
 ### [Parodontitis 2025/26: Neue Daten koppeln Entzündung mit Herz, Diabetes und Demenz - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
 
 2026-05-27 <span class="news-indication-tag">diabetes</span>
@@ -62,11 +78,11 @@ permalink: /news/zolbetuximab/
 
 ---
 
-### [Diabetes-Kongress: Lebensstil schlägt Gene um Faktor 7 - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaExONFl5c01WZHZSN0FFRlF5d3RkNHhFb1JjSlV2b1liZExVdzNmVmZQNHVSOGlnUlBJc1ZOSl9zTEJIWE1PMzdrcHFrS3JPY1BxVXBUUGRrRkE5aDZyWVRTdGJQWHZYNHkzV2ktNVZuR2FXZjFBclBOVnpZWURoN2ZCLTF5RDR3OVd5WnRpTUxpTF9ZaTk1eHhSTUw2a1I5NXc0cWV3?oc=5)
+### [Científicos aseguran que la melatonina protege contra la obesidad y la diabetes tipo 2](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZllsQmRFaEpNSlN6QjBNRWFKeUZLNEs1VmhtcUJHdXBWcDNfQ1U3NkxCX2tNU3kxZnlOcEdzOVZNM3lTRlJIMkJiQmlWRFJJOWt3S2FlV1MwdDBBUDRuWkFuTkZNc2RfQTN3ZVNBTDR5aEJuY2c3ZHMzTFNBNlQ3MDhqS0tSeXphQ1N1X2NaZEh4SlMzOU12SDgzYzIwRG42ekVJMFFtcmQtb3hnWG5fVtIBtgFBVV95cUxOYjRFNHlmTXI3QV9iWXVwOEpHVElpUEF4M2RneEg0Tzl4WlZXMXdwMkhGM1Qyb1lCMi1RYnpyc29DY1hnOGdnNmhGTkVWQlJfZFJ2OTg2aEV4cVVaOEhJc1JpVW9fbnB3WUNQaHBfb1lDMVFhOGFnQWQ2MWg5eXZvbW5xZURrYktUN0dHeW84ZU1ER0U3dmNGSDdfWUxtRmhIM0F0WVgzQTZCaldSYk5tZ29Pb254Zw?oc=5)
 
-2026-05-27 <span class="news-indication-tag">diabetes</span>
+2026-05-27 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaExONFl5c01WZHZSN0FFRlF5d3RkNHhFb1JjSlV2b1liZExVdzNmVmZQNHVSOGlnUlBJc1ZOSl9zTEJIWE1PMzdrcHFrS3JPY1BxVXBUUGRrRkE5aDZyWVRTdGJQWHZYNHkzV2ktNVZuR2FXZjFBclBOVnpZWURoN2ZCLTF5RDR3OVd5WnRpTUxpTF9ZaTk1eHhSTUw2a1I5NXc0cWV3?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZllsQmRFaEpNSlN6QjBNRWFKeUZLNEs1VmhtcUJHdXBWcDNfQ1U3NkxCX2tNU3kxZnlOcEdzOVZNM3lTRlJIMkJiQmlWRFJJOWt3S2FlV1MwdDBBUDRuWkFuTkZNc2RfQTN3ZVNBTDR5aEJuY2c3ZHMzTFNBNlQ3MDhqS0tSeXphQ1N1X2NaZEh4SlMzOU12SDgzYzIwRG42ekVJMFFtcmQtb3hnWG5fVtIBtgFBVV95cUxOYjRFNHlmTXI3QV9iWXVwOEpHVElpUEF4M2RneEg0Tzl4WlZXMXdwMkhGM1Qyb1lCMi1RYnpyc29DY1hnOGdnNmhGTkVWQlJfZFJ2OTg2aEV4cVVaOEhJc1JpVW9fbnB3WUNQaHBfb1lDMVFhOGFnQWQ2MWg5eXZvbW5xZURrYktUN0dHeW84ZU1ER0U3dmNGSDdfWUxtRmhIM0F0WVgzQTZCaldSYk5tZ29Pb254Zw?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/zolbetuximab/
 
 ---
 
-### [Menschen mit Typ-2-Diabetes haben ein erhöhtes Risiko für Riech- und Schmeckstörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
-
-2026-05-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
-
----
-
 ### [Un perfil de colesterol más nocivo podría explicar parte del riesgo cardiovascular en la diabetes tipo 1 bien controlada - La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
 
 2026-05-26 <span class="news-indication-tag">diabetes</span>
@@ -94,11 +102,19 @@ permalink: /news/zolbetuximab/
 
 ---
 
-### [Investigadores de la UGR descubren que la melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
+### [Demenz: 14 Risikofaktoren senken Erkrankungsrisiko um bis zu 50% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
 
-2026-05-26 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-05-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Canal UGR](https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbGZ5RG1vTDNiRHdkck0tdVBBRkd5RWF0WXI4dzlwRmV1UHBBSnEwMDVpNzN6b1ZVZElyTzZCaDBLRlZ1ZFpRY09FUGp4OTBkTWlhaGcyUFZuTUxNSGc1RGVXcGhoMkIxMHc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0F0UGE2YjhfQkJReGU2dTZuTW1jTXh3djMwOHNpMmxnNzdUUXYtdmFJN3p6c0Z5eE1GVnlBbHJyMU83UVJuNUo3OWNWeEdQdzhzNU40RmRHcUppTFVvMXVjV2NLMFh4Rk5paW80Sm13QXFoZExWeTZmMnpTSktwLVNGdnFZWmh0anFUZFRZcHpNeHFVbzZzOEhHem5qdHNWd3NHREdNcXhrSTdZcWpfRWc2ZHNFeDB2a0xB?oc=5)
+
+---
+
+### [Produits ultratransformés : 43 associations pressent le gouvernement d’agir - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0VvblhSRTVlc1RHNnJuRV9XUHRMM0JzaDZNTlpHcVU3cmd1MHRNcFFuYmZNeklfR1hmeWJ6RVdPbHNNckdaYzdtM0F0RG1ldWtpaFRBQTRIbnhQWEtTWTZweFhUaVI1eUlrTXNhUXhrSGEweU9IcHFiTEM4UDB0UXZueW1mcFE5dTdwTWRjUUZvZTQzN1hBNGlhMGM?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0VvblhSRTVlc1RHNnJuRV9XUHRMM0JzaDZNTlpHcVU3cmd1MHRNcFFuYmZNeklfR1hmeWJ6RVdPbHNNckdaYzdtM0F0RG1ldWtpaFRBQTRIbnhQWEtTWTZweFhUaVI1eUlrTXNhUXhrSGEweU9IcHFiTEM4UDB0UXZueW1mcFE5dTdwTWRjUUZvZTQzN1hBNGlhMGM?oc=5)
 
 ---
 
@@ -107,22 +123,6 @@ permalink: /news/zolbetuximab/
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNk5mSDlDbHFaRExpeDJrcGdZTE5BdnJvVThmNVNIamtMbDJCcGJfWWtvazdfa255SnBKME1LeDhyTVBrcFd3Z2J6b1pwb0x4Y25sQVFXZXMzdFNEcTg5TFFaQktTb1U5YkM2a1Nfcm9ON01rOGN3c1FLRmx1WWRMbjFTcmdrVGtUU1Z2NjBhSVAxZEpGVmlxeW5vdVBpdE5FTU1nZFk5OWZVYzNhVTJxZUZNbEJWd081bC1HU3pFMnZLcm0tNURWanNqQ0JWdw?oc=5)
-
----
-
-### [Chronische Entzündung: Mai-Studien zeigen Nervenschäden bei Adipositas - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxORmxyMDlISE1uenJvTlRUN0pMTUttWjJ1WHZwSzhwTXptQjZaNVFmUWo0aEJROUJ6U1I2V01xVzVVVjlPZU9tU2lGcVhBZWI2UVFhckQxYnY5VzdLX2JEenhreXliZzRTVVNEbnlxaUV3Y3AtOXg1UlVJYmtfSUNpdXQ1ZmZjcV9LcmFrOVE5MHkwdTgwLTA3aXM4cVpZRXdHdlQyaGI2WU9mOFNKNWpJNjNmejRsdkgybDl3RQ?oc=5)
-
----
-
-### [Inteligencia artificial para seguimiento de la diabetes tipo 1 pediátrica - Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
-
-2026-05-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
 
 ---
 
