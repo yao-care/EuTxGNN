@@ -54,6 +54,14 @@ permalink: /news/irbesartan/
 
 ## 相關新聞（46 則）
 
+### [Michael Douglas issued apology to Catherine Zeta-Jones after oral sex cancer diagnosis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
+
+---
+
 ### [Coleraine woman in shock skin cancer diagnosis after holiday: ‘I noticed I had a new mole’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxQZ0MyMGsxb2FtbTd4WTBXRnluY0tUOXF3R0NvcEVIU000Tmd2ZnFlVmhsTVF6aHJlalRXeXdua1o0SUgtazdtVFcyUmV2d1RUR2o2cG90N2szazlaRFR5MFlDVW9PZ2RzNjdYNjZWYjZKUUZheVU0dGUxWE9DMHB1VFhBRmhMVk1fWHJ4STNYMkh2MVhZT2ZUaE4xU3lpS3FHSmh6MUJZNlItRHJTYm45eWVqeWEtdk4zQ0VGMjJKTlo4ZXIwMEo0TFdYMFhUV2pyRXI2X2ExQ0taWl9LaW44cDd2a2dvRU5US1RKdllQYmktY243UW9wTlc3WnZ1emZXM2c?oc=5)
 
 2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -67,6 +75,14 @@ permalink: /news/irbesartan/
 2026-05-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
+
+---
+
+### [Un perfil de colesterol más nocivo podría explicar parte del riesgo cardiovascular en la diabetes tipo 1 bien controlada - La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
+
+2026-05-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
 
 ---
 
@@ -86,14 +102,6 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Un perfil de colesterol más nocivo podría explicar parte del riesgo cardiovascular en la diabetes tipo 1 bien controlada - La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
-
-2026-05-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
-
----
-
 ### [Niedriggradige Prostataläsionen: Hat es Folgen fürs Überleben, wenn man nicht mehr von Krebs spricht?](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMjlxSEVjM2ZHbGV5UERGS010UEw4S0J4aGhLTzREcXM3NURWRGdVU19KSWRsTlFadEx4aWhRd3l1eTdTa0JRSUM2MVJGSk8tVHJJcnpHOExKZnB1YVkxMDBpS1poRVVKYi1LMEJXYW1ad3ZMdzF1ZzA5NFphazRzbjIweUxmMlgwaTJySEg4d1hRbkcxWmVuVURUX2lKcUl1RWtfbEtabTFSQzFicUJwcmtsUFdYVlBuVTViUlFLLU9NdUhPamJNWThjb3lxSjVybDY5TA?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Krebs</span>
@@ -102,19 +110,27 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Shrewsbury teen taking GCSEs after brain tumour treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95emczcXVpdXdnaGVOX0IwakNVcmZFd1JnU3FCbkJLbUxVUWpGdXU1Z3h2TXI0U195V0RLYmVZa3U2WTZhYUFsV2R4NmEtS1BaUTcxbGp1TWxxV3J3?oc=5)
+
+2026-05-26 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95emczcXVpdXdnaGVOX0IwakNVcmZFd1JnU3FCbkJLbUxVUWpGdXU1Z3h2TXI0U195V0RLYmVZa3U2WTZhYUFsV2R4NmEtS1BaUTcxbGp1TWxxV3J3?oc=5)
+
+---
+
+### [Cancer du col de l’utérus : ce qui conduit certaines catégories de femmes à négliger le dépistage d’une maladie qui tue environ 800 femmes par an en France - Sud Ouest](https://news.google.com/rss/articles/CBMiogJBVV95cUxPcEVKRHJHb3ZGSnFJZVQ1RUhCcUM0bExMSUd3MjJtQzV6SDBYM3lLSUEzdEtJS2JXN3NHd0QwaDVBenRYOUlZUElaellpeDdza2N5ZUNWNGIxWEZYYUFxYUt5a0l5TVlFRWNCWFJJU3VZWGdkWUM0ZTQ3NEVLRjcyT0ljVUJiN1RZYTh5X1pydHpPaVVZWC1pbzl1ZnZxTElBLWdsc1RWSDRua2h6SU94bFBMb2ptTmQ3c29WcEY4bVNzQ1lzMWo0Zk5EbGliMDlUaUJQTHhTM004NmpCX1NxRFN5Q3dHakxqaW9VMlZjbzhrYkg4Y1ZRdWw4SjZBdkR4cS1rM2QzbjdqRHp4dEQ2YkpaemsyV3BJWUtOV19hSzRHdw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMiogJBVV95cUxPcEVKRHJHb3ZGSnFJZVQ1RUhCcUM0bExMSUd3MjJtQzV6SDBYM3lLSUEzdEtJS2JXN3NHd0QwaDVBenRYOUlZUElaellpeDdza2N5ZUNWNGIxWEZYYUFxYUt5a0l5TVlFRWNCWFJJU3VZWGdkWUM0ZTQ3NEVLRjcyT0ljVUJiN1RZYTh5X1pydHpPaVVZWC1pbzl1ZnZxTElBLWdsc1RWSDRua2h6SU94bFBMb2ptTmQ3c29WcEY4bVNzQ1lzMWo0Zk5EbGliMDlUaUJQTHhTM004NmpCX1NxRFN5Q3dHakxqaW9VMlZjbzhrYkg4Y1ZRdWw4SjZBdkR4cS1rM2QzbjdqRHp4dEQ2YkpaemsyV3BJWUtOV19hSzRHdw?oc=5)
+
+---
+
 ### [Cancro ai polmoni, l'infiammazione che anticipa la malattia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMiswFBVV95cUxNclYxOEF4MGpXTjRWZ3U3NzJYVF81NWNBcWdJc0RrSXNPRU16b2hfaVpUbE9vRGhHVEdQazBNUktrSFZ1dThMaXRZME5Cam94Rktid1hYSVdtQVF0U0tEMlRYUEFpaXp0Z0JtRTliLUZwcDN5c1pBNFNfci1ldnVwdmhBVUFDangtZEdKY2lMTDlVclFUblp0RVFFNk5tLUZ0UFV3U3ItTE1hM2c4R3BNeTk1TdIBtwFBVV95cUxPekpuZVVNTFZDdnRpYldFeTh1aFpvalJkMHlVc0NzWWIzS3RCUnhZOU1pTmVlMDJoSS03ZFBQR052RlRlZXM2bTA5SXItX0laR1ctNFNVU1daQzlQSjI0bXFlUUFXZEY5ZWpsV29TY1UwYVdFOHhsNDY1TVNUS2l2b3FRU1k4QnNWY3lFR1pLNGlKWmtFTXBaUkVuXzBwdnN3d0lzZjlVWG9JM3M3TXR1MXQ3MHNNcTg?oc=5)
 
 2026-05-26 <span class="news-indication-tag">cancro</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiswFBVV95cUxNclYxOEF4MGpXTjRWZ3U3NzJYVF81NWNBcWdJc0RrSXNPRU16b2hfaVpUbE9vRGhHVEdQazBNUktrSFZ1dThMaXRZME5Cam94Rktid1hYSVdtQVF0U0tEMlRYUEFpaXp0Z0JtRTliLUZwcDN5c1pBNFNfci1ldnVwdmhBVUFDangtZEdKY2lMTDlVclFUblp0RVFFNk5tLUZ0UFV3U3ItTE1hM2c4R3BNeTk1TdIBtwFBVV95cUxPekpuZVVNTFZDdnRpYldFeTh1aFpvalJkMHlVc0NzWWIzS3RCUnhZOU1pTmVlMDJoSS03ZFBQR052RlRlZXM2bTA5SXItX0laR1ctNFNVU1daQzlQSjI0bXFlUUFXZEY5ZWpsV29TY1UwYVdFOHhsNDY1TVNUS2l2b3FRU1k4QnNWY3lFR1pLNGlKWmtFTXBaUkVuXzBwdnN3d0lzZjlVWG9JM3M3TXR1MXQ3MHNNcTg?oc=5)
-
----
-
-### [«Finge un sintomo per anticipare gli esami, poi la scoperta choc: cancro al colon a 27 anni» - Il Messaggero](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWZuZWVPTll5bGZJTThtdUxaZlQzell2OU1WR05oNldVeWZRQnhkZjJheFBEd0V3ZnMzUkcwc1EtVFBwVkxaTzdkOW9IbWJBbnJpWE5GcHl1UHlTYXBEcjZ4U0NrVjNRcUxwTi1XUXNhMVlodHZzZkRxcXhOYm1MenA2WW5DWTg0dy1LZVB0dURxTlBENldaa2RFaG1lczMyelE1ZmxNZ2dqdkxTS3ZVMU9yc2x6bDDSAawBQVVfeXFMTVF6NDhkM0x4YU1pQXFEdnJyT2tDMENCeXhzRkNZa2hpS295MkdWc1ZXYmkzQ2JvLVpfR3FhTzF2bXJzeUtiN2g2OFFrc3BmR2pjeGpBa2tRLWZpVTNYWXpKblMybUdZaG1MaXdXbFphajYxLXNWVlRIVF8yUkFsVXppT2ZtYWx4aDRvMExYV2liOEZiNlZKcGgxcU0xUGwxcWJhQlhvR2FCdE11aQ?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancro</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWZuZWVPTll5bGZJTThtdUxaZlQzell2OU1WR05oNldVeWZRQnhkZjJheFBEd0V3ZnMzUkcwc1EtVFBwVkxaTzdkOW9IbWJBbnJpWE5GcHl1UHlTYXBEcjZ4U0NrVjNRcUxwTi1XUXNhMVlodHZzZkRxcXhOYm1MenA2WW5DWTg0dy1LZVB0dURxTlBENldaa2RFaG1lczMyelE1ZmxNZ2dqdkxTS3ZVMU9yc2x6bDDSAawBQVVfeXFMTVF6NDhkM0x4YU1pQXFEdnJyT2tDMENCeXhzRkNZa2hpS295MkdWc1ZXYmkzQ2JvLVpfR3FhTzF2bXJzeUtiN2g2OFFrc3BmR2pjeGpBa2tRLWZpVTNYWXpKblMybUdZaG1MaXdXbFphajYxLXNWVlRIVF8yUkFsVXppT2ZtYWx4aDRvMExYV2liOEZiNlZKcGgxcU0xUGwxcWJhQlhvR2FCdE11aQ?oc=5)
 
 ---
 
@@ -131,14 +147,6 @@ permalink: /news/irbesartan/
 2026-05-26 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3J2ZlYtV3k1WmhhNlpuVzFrT1lwbllmNHZrbTlXS1RDSW1uRk9hQjY4ZUhCWnJSaUtzeF9PMm9GUHpCTzFCcVlkN1ZhT2JXbDduVHhyQ0tFZnZYeVdNT2hwTk5lUG9wUURBSFJDYnVRN0ZXVmg5TlNZTWlONmdDQ1A3STd3VjVkOWxXVU90VmNJZkQ0a2RDRzluOU9USjk5S1BWMHJNTHdxdXRYYUdJTlRzUTY?oc=5)
-
----
-
-### [Michael Douglas shared response to finding out he had throat cancer caused by oral sex](https://news.google.com/rss/articles/CBMixwFBVV95cUxNR0I5ZzRiTEZQSFhPTWJMT2cxQnJreTF3NkY0a09keE9uY19UcVIwenlNVTZyeURpTW03RnZiLVNhV1ZIUnVGY05oVFhNdkN6Zkt1MnVEakFpd01ob2c4bFJtbXRwTWJtR2h0SXFHalFhNXlaYWtxZHR5Ylg5M29saS05QWtZQkRSaVpvODlDZHVUU3A1ZVZDb2RVam9hNG5IZFRCenVxTWZwNHJXa3UzYmhpTGlqOGNUcjNPQXcyNGxuaWhXTXhn?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancer</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMixwFBVV95cUxNR0I5ZzRiTEZQSFhPTWJMT2cxQnJreTF3NkY0a09keE9uY19UcVIwenlNVTZyeURpTW03RnZiLVNhV1ZIUnVGY05oVFhNdkN6Zkt1MnVEakFpd01ob2c4bFJtbXRwTWJtR2h0SXFHalFhNXlaYWtxZHR5Ylg5M29saS05QWtZQkRSaVpvODlDZHVUU3A1ZVZDb2RVam9hNG5IZFRCenVxTWZwNHJXa3UzYmhpTGlqOGNUcjNPQXcyNGxuaWhXTXhn?oc=5)
 
 ---
 
@@ -190,7 +198,7 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Medizinische Fakultät/Universitätsklinikum Magdeburg A. ö. R. - Telefonforum am 2. Juni 2026 zum Thema: Lunge im Fokus – Antworten zu Asthma, Allergien, COPD, Lungenkrebs, zu Husten & Atemnot](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
+### [Telefonforum am 2. Juni 2026 zum Thema: Lunge im Fokus – Antworten zu Asthma, Allergien, COPD, Lungenkrebs, zu Husten & Atemnot](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
@@ -254,11 +262,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [PMOS-Umbenennung, Kerendia in China und Retatrutid: Neue Leitplanken der Stoffwechselmedizin - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
+### [Grandad's lung cancer caught early at supermarket scan as 10,000 saved by checks - The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
 
-2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
+來源：[The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
 
 ---
 
@@ -302,14 +310,6 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Even for nonsmokers, a persistent cough may be a sign of lung cancer - The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
-
----
-
 ### [Krebs und Herz 2026: 25–30% höheres Risiko bei CKM-Syndrom - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2JpcmJsNHk0VWg4cEpGZ0RFTzhpeFo1VGkyY3d2dTNZMnBYblRtWC03UmhXYVliYVNMZXZjODZjQzBMbExhdTh5UjZDWXBMcnJ3UzJFclE4ZzFDbEhkMHdOX3dTdUtoZFpWaFZkRGhWY0xZeFVDc3BrM3dKemh2UXNnb2plTE90TXN4bnR1VU14ZjNUd3BwU2FJWHZ5MVo5SlBUM0xJNHFQdGkzMldPemFCVUY?oc=5)
 
 2026-05-25 <span class="news-indication-tag">Krebs</span>
@@ -334,9 +334,17 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Surgeon removes wrong part of cancer patient's bowel after tattoo mistake in devastating blunder - The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPclVTeGFRTlVpak9nd2YzZ3dqRjVkdFpfOWhuTmR1bUNpOXZtMUR1SmNOMElOdk1ENmtkNDctY1AtYlpmMUZnc1NDRDA0UG9QYnZaLTdlLUZ2NTZSRU02VUpZTlNRR3o0bEZGSmtNZmkwOXhsM3QtV0R5SldwVm1wbTBNZnc0M1I4MXNLTDZMNNIBlAFBVV95cUxNclBlMlVFd2FHVk9vXzdqWVhtNDVHcGZUM1pxRGRiTS1DZWgwYnZNRlROVzlaRG5jU3RkNWozTmlQUmVUb2NwMU9KdGFycnpJblJoaWhKVUlLdVlRcTV6OTBhVEpaak9sV3doUFZpQXctWnB6c3ZlLWxuT3BGUUJ2cGVHemZRRWNwU0hLVmgwNk1IWXQw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPclVTeGFRTlVpak9nd2YzZ3dqRjVkdFpfOWhuTmR1bUNpOXZtMUR1SmNOMElOdk1ENmtkNDctY1AtYlpmMUZnc1NDRDA0UG9QYnZaLTdlLUZ2NTZSRU02VUpZTlNRR3o0bEZGSmtNZmkwOXhsM3QtV0R5SldwVm1wbTBNZnc0M1I4MXNLTDZMNNIBlAFBVV95cUxNclBlMlVFd2FHVk9vXzdqWVhtNDVHcGZUM1pxRGRiTS1DZWgwYnZNRlROVzlaRG5jU3RkNWozTmlQUmVUb2NwMU9KdGFycnpJblJoaWhKVUlLdVlRcTV6OTBhVEpaak9sV3doUFZpQXctWnB6c3ZlLWxuT3BGUUJ2cGVHemZRRWNwU0hLVmgwNk1IWXQw?oc=5)
+
+---
+
 ### [Trop de personnes font cette erreur qui peut être mortelle : elle augmente de 60 % le risque de mélanome](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
 
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-05-25 <span class="news-indication-tag">cancer</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
 
@@ -355,14 +363,6 @@ permalink: /news/irbesartan/
 2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Forbes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
-
----
-
-### [Surgeon at North Wales hospital removed healthy part of bowel cancer patient and left tumour - North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
 
 ---
 

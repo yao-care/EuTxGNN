@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
 ### [Menschen mit Typ-2-Diabetes haben ein erhöhtes Risiko für Riech- und Schmeckstörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
 
@@ -99,14 +99,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-05-26 <span class="news-indication-tag">heart failure</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
-
----
-
-### [PMOS-Umbenennung, Kerendia in China und Retatrutid: Neue Leitplanken der Stoffwechselmedizin - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
 
 ---
 

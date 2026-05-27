@@ -14,7 +14,7 @@ permalink: /news/dalbavancin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dalbavancin Hydrochloride 有什麼相關新聞？">
-<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dalbavancin-hydrochloride/
 <p><a href="{{ '/drugs/dalbavancin-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Heart Failure: Vorhofflimmern bei Herzinsuffizienz – Welche Rolle spielen Medikamente? - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5MOTdSSEUyM0FIWElsbnBZRjdlRFI4RlpBVjR2NTR1Wk92TXBKYzl1NzRiTkxxbnR0aGhTVV9UU0kzVGxYV2NyTnZ4LXk3eHdNQXltY0w5V1pWOGZrZjAweDZ5cWlKajZzMDR5ei1NRVlUVnRZdnhncXczX2w0azh2QmNMbGFBMEd0MnhvTGl4cERYNHJqOXFFVE8xS0RYRXU1VHllZDZCT19sRWxUZg?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/dalbavancin-hydrochloride/
 2026-05-26 <span class="news-indication-tag">heart failure</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
-
----
-
-### [PMOS-Umbenennung, Kerendia in China und Retatrutid: Neue Leitplanken der Stoffwechselmedizin - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
 
 ---
 

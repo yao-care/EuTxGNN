@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [My 16 hours in A&E hell with suspected stroke symptoms - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
 
 2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
-
----
-
-### [La migraña con aura eleva el riesgo de ictus en mayores de 45 años: «No es un mero trastorno de dolor de - La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFZrUEpYNkFMTS1weDhFbFE5RkVGelc1QkdYcnRQYXNYZTU1NExNMDN3d0JuRklzdmN1bXZ0MUl4ZFZSejZZWGRvX1dKaV9Ia0RlbG9ocms4VWhUdGlzTzF4VFJRSXpvQ2xJZGdVUFdPUll3X3M0bjR6d21nbGFrdTlwazYwaVFqVklyNW5zWnNqTDdvVk02ZEdId0FkWWVyb0JSaXA1cmY1cmNrMkZxSGIyUHduY2dhVnZ6TDBqNmtzUUNJaVA2SVgtbU02WUlGajlPV1FxYUJUQdIB7gFBVV95cUxNVjhVLWMyRUhmaVJmbTNxNktyNWh5bldyYXZUckJQdnBSaVYtd2J1aW5DM0c5N0lkU3hxd3NhV0ZGTkZmcWo2N3g4TGNBWEFBblh6eVBHMFVYTlQ3bW8zWTNpeW5vZUN1TThsanE2UnJnd2wzSy1RNW5JNlQzV3hGNUczWERXdkxVWDBMaWx6UnlIOVJDOTRjN0lQT1Y3a1hDVVo3ZklZVFJUandURHVWRUJCTVlLYzBSVjBXcjMyQnRLdVVJMmszUjItWkt5VDU1Z0hvbVZ0X1JBM3NLOGEyVjR4QVo4UC1MSEx0dDBR?oc=5)
-
-2026-05-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFZrUEpYNkFMTS1weDhFbFE5RkVGelc1QkdYcnRQYXNYZTU1NExNMDN3d0JuRklzdmN1bXZ0MUl4ZFZSejZZWGRvX1dKaV9Ia0RlbG9ocms4VWhUdGlzTzF4VFJRSXpvQ2xJZGdVUFdPUll3X3M0bjR6d21nbGFrdTlwazYwaVFqVklyNW5zWnNqTDdvVk02ZEdId0FkWWVyb0JSaXA1cmY1cmNrMkZxSGIyUHduY2dhVnZ6TDBqNmtzUUNJaVA2SVgtbU02WUlGajlPV1FxYUJUQdIB7gFBVV95cUxNVjhVLWMyRUhmaVJmbTNxNktyNWh5bldyYXZUckJQdnBSaVYtd2J1aW5DM0c5N0lkU3hxd3NhV0ZGTkZmcWo2N3g4TGNBWEFBblh6eVBHMFVYTlQ3bW8zWTNpeW5vZUN1TThsanE2UnJnd2wzSy1RNW5JNlQzV3hGNUczWERXdkxVWDBMaWx6UnlIOVJDOTRjN0lQT1Y3a1hDVVo3ZklZVFJUandURHVWRUJCTVlLYzBSVjBXcjMyQnRLdVVJMmszUjItWkt5VDU1Z0hvbVZ0X1JBM3NLOGEyVjR4QVo4UC1MSEx0dDBR?oc=5)
 
 ---
 

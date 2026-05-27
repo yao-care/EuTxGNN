@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/dexmedetomidine-hydrochloride/
 2026-05-26 <span class="news-indication-tag">hipertensión</span>
 
 來源：[El Globalfarma](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWFzZC1mLTB5aG5LSkVPalFxaDRyODI1SHlGMWJlS3JYZ3NUcnZtdGRUbE1haDRHZ01RNU9tc1RpMlVTb2NGcS1GN1E0OFdVdGozSlJnanV0aHBhTDZvYlp3UzN1RXF5cWRORG1DdXp0cWJPTUdNdjdvbjdGdGRJRjFKOEU1dWlmWi1hZUlhWXpzZnVqcUd1dmVaSU9odk5JRXhQb0dzQ05kRmQ0bkE?oc=5)
-
----
-
-### [La migraña con aura eleva el riesgo de ictus en mayores de 45 años: «No es un mero trastorno de dolor de - La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFZrUEpYNkFMTS1weDhFbFE5RkVGelc1QkdYcnRQYXNYZTU1NExNMDN3d0JuRklzdmN1bXZ0MUl4ZFZSejZZWGRvX1dKaV9Ia0RlbG9ocms4VWhUdGlzTzF4VFJRSXpvQ2xJZGdVUFdPUll3X3M0bjR6d21nbGFrdTlwazYwaVFqVklyNW5zWnNqTDdvVk02ZEdId0FkWWVyb0JSaXA1cmY1cmNrMkZxSGIyUHduY2dhVnZ6TDBqNmtzUUNJaVA2SVgtbU02WUlGajlPV1FxYUJUQdIB7gFBVV95cUxNVjhVLWMyRUhmaVJmbTNxNktyNWh5bldyYXZUckJQdnBSaVYtd2J1aW5DM0c5N0lkU3hxd3NhV0ZGTkZmcWo2N3g4TGNBWEFBblh6eVBHMFVYTlQ3bW8zWTNpeW5vZUN1TThsanE2UnJnd2wzSy1RNW5JNlQzV3hGNUczWERXdkxVWDBMaWx6UnlIOVJDOTRjN0lQT1Y3a1hDVVo3ZklZVFJUandURHVWRUJCTVlLYzBSVjBXcjMyQnRLdVVJMmszUjItWkt5VDU1Z0hvbVZ0X1JBM3NLOGEyVjR4QVo4UC1MSEx0dDBR?oc=5)
-
-2026-05-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFZrUEpYNkFMTS1weDhFbFE5RkVGelc1QkdYcnRQYXNYZTU1NExNMDN3d0JuRklzdmN1bXZ0MUl4ZFZSejZZWGRvX1dKaV9Ia0RlbG9ocms4VWhUdGlzTzF4VFJRSXpvQ2xJZGdVUFdPUll3X3M0bjR6d21nbGFrdTlwazYwaVFqVklyNW5zWnNqTDdvVk02ZEdId0FkWWVyb0JSaXA1cmY1cmNrMkZxSGIyUHduY2dhVnZ6TDBqNmtzUUNJaVA2SVgtbU02WUlGajlPV1FxYUJUQdIB7gFBVV95cUxNVjhVLWMyRUhmaVJmbTNxNktyNWh5bldyYXZUckJQdnBSaVYtd2J1aW5DM0c5N0lkU3hxd3NhV0ZGTkZmcWo2N3g4TGNBWEFBblh6eVBHMFVYTlQ3bW8zWTNpeW5vZUN1TThsanE2UnJnd2wzSy1RNW5JNlQzV3hGNUczWERXdkxVWDBMaWx6UnlIOVJDOTRjN0lQT1Y3a1hDVVo3ZklZVFJUandURHVWRUJCTVlLYzBSVjBXcjMyQnRLdVVJMmszUjItWkt5VDU1Z0hvbVZ0X1JBM3NLOGEyVjR4QVo4UC1MSEx0dDBR?oc=5)
 
 ---
 

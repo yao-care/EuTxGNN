@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [Menschen mit Typ-2-Diabetes haben ein erhöhtes Risiko für Riech- und Schmeckstörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/metformin/
 2026-05-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM3pxNnh2OTg3MUJWa2t2b1RPdUFpbGVBalFSUzBuMDJJcVNKVFFMRHB0eXpjaHpySWFtdFpRaHlYWDZ2RUpGS0xHZFFtb0RFN1NWQktCSnZVaFYwcDNLLWczQ2pxTVVwLW5DdHI5cklQR1dtU0FKUV9WczNnOGR4ejh1QWNhalVSNzJ1ZWktM1BHVG12azJxWlprenVXSWF0VGdQLXdEUllkU3NoM280V0JoOEpkNHltQTQzTUJWYmVjb0R3U2oxWFlxLTJ1cUFwOGp1dGIzY09IOGg0MFoxZmpR?oc=5)
+
+---
+
+### [Pharmacist sertraline, fluoxetine, amitriptylinas warning as UK heatwave hits 35C - Daily Express](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2dRUllvSDNiOERmWWxCRk1kQy1zWjREalkzdXRQVDBQVXMtR0RZa1d1alNvM1NjUkw5cUZkcGc3RkNPUDRhYnpnYUprUGlNdzdiQUJHRzlHbGxGOTNGY0lWOUdMV2hVakpIYWYwTHR6RGdlQW9LN0x5cmpsYXJSVXpYVjF5TTN1VF9BUmw5VjhOcEhyX3lCNlpOOUFDcFpVNWJyZVAwcHQ1bXFKazcwTVRTYVoyUW1zYk1sYUdvYkZ3cFBQ0gHKAUFVX3lxTFA1MlVuTlhqMWxjaFJoLUxkS0dmRXgyZDQtTUNkOEtQU2hRbU93TmE1OURBMWVsX1FOUjFsYUgzSmlYVEtpVTJtWDhZdTU2dzhEcmRxcFBqNlV3Mml0SEw4MkNERXgxWHAtVDlOZmNDVXRLQWpoY2VVWUdheUkyNmVydllGdTkwTFhmU0pMbXJqdmJQZ3o2ZEFwXzZCQlhCbzZBdkdQYlFqQ3E1VXFkdXhRVVdUVjNKOFVLUmwwNzFZSUJFLTF6WDV0VWc?oc=5)
+
+2026-05-26 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2dRUllvSDNiOERmWWxCRk1kQy1zWjREalkzdXRQVDBQVXMtR0RZa1d1alNvM1NjUkw5cUZkcGc3RkNPUDRhYnpnYUprUGlNdzdiQUJHRzlHbGxGOTNGY0lWOUdMV2hVakpIYWYwTHR6RGdlQW9LN0x5cmpsYXJSVXpYVjF5TTN1VF9BUmw5VjhOcEhyX3lCNlpOOUFDcFpVNWJyZVAwcHQ1bXFKazcwTVRTYVoyUW1zYk1sYUdvYkZ3cFBQ0gHKAUFVX3lxTFA1MlVuTlhqMWxjaFJoLUxkS0dmRXgyZDQtTUNkOEtQU2hRbU93TmE1OURBMWVsX1FOUjFsYUgzSmlYVEtpVTJtWDhZdTU2dzhEcmRxcFBqNlV3Mml0SEw4MkNERXgxWHAtVDlOZmNDVXRLQWpoY2VVWUdheUkyNmVydllGdTkwTFhmU0pMbXJqdmJQZ3o2ZEFwXzZCQlhCbzZBdkdQYlFqQ3E1VXFkdXhRVVdUVjNKOFVLUmwwNzFZSUJFLTF6WDV0VWc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Konservierungsstoffe im Alltag: Warum selbst „natürliche“ Zusätze gefährlich sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNHRktCQzNCSi04bVd2VVdsM2R0dl9YQXR2MkxSbjZMYUpiaXlFZnF2d2ZTd3NyOTZFTVJwSGh6RFF5U210SGJ3R1gtUnY3U1lwOEVJU0ZYSUVIY2RYZk5ycXF0dWtZaXRQTVhjaVlLT2syQ1JCNmtJRWtKNGRoeG4xejhoajZuQ0l5VUd0aWVLbzRHeVZLaVJ1TEJNMUJld1g1Xy1iV3E2VTktRkhoWE5DRm9lUE9Oc2lrbVVSTlFkelgzU1ZncW9fTVFCRUc0d1Zr?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/dacomitinib-monohydrate/
 2026-05-26 <span class="news-indication-tag">heart failure</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3J2MW9GdTk2XzdwY2hESFUzOW5MM09jblhZcjI0NEY1bXhuVU5fcm9hM242WUhIUmo2Tk53OU9MRjlSVVV6cTFmSVB6WkpDR0huczkyUmtOXzdMSnJVTXB3Z2xpQXhrTlhWMFpDMTNMakJMQ19NeFRxem9VeWxGMWhjNExqY0NOekVwQTBLdzdJeFR3ZjU4eUJqWmhwUUVpNl9KTzVqdUhWcEJueXFaekhibw?oc=5)
-
----
-
-### [PMOS-Umbenennung, Kerendia in China und Retatrutid: Neue Leitplanken der Stoffwechselmedizin - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
-
-2026-05-25 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnUxelR2YXVJaGFhZlNOZHFYYzFpVGg5a1ZBeGRZRlNVTkx6SmJDV29TSm9uSVQ5aWZZYmNCaUFQMWxjWGdUdHJDN0pMRHRnWmhhQ2gwU01KUmk4Ynp2Y1JKNnlrbE5DMm9XQWd2MWVrNzFJYmR1OEFGc081TzNZZHZyNTNtaDhtV2lBbmw4cV9vdmFLYkx6elN1S2lsaHVIVG41U2ZFNnZpR1JnZmwwYjhMejlVOGNKdGw1ZFM5VQ?oc=5)
 
 ---
 

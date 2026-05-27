@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
 ### [Menschen mit Typ-2-Diabetes haben ein erhöhtes Risiko für Riech- und Schmeckstörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTR3bkFVb2dUYnpsLTZURUFBZ2R6eVdrU1lXS05UVVV6U2RnNEpIanFjZmpwTUVIaThrVm42bmJ6SkR1OHJzT1d5a3VVaXpnXzBRQ2J5ME1FbktHNWhtcnlieWNmay1lMHFQcDJIMmpidFlzNkd2VFRfbGJKUERHWGhZeVBuaWc1TDliNmUzcXpvRzlldWNoUnh5X1pPajZaV21xR3ZIU25xMU9lLW0wbnh1WEFHZ0g1cThRX1UxOWFvTkVhWGFXX3UzejFSRndCTlRWSTBOcVg0YjJCUjRjUXJVbjJGZUU4?oc=5)
 
@@ -115,14 +115,6 @@ permalink: /news/abaloparatide/
 2026-05-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TWUx0ODRtT1N0MDJtZ2F0OWNMOE9YQkdvZFBHTzJtYXc1dWJDc0hPNjFGcmxpcnZVRjdUbVE3WkZ0cDJjRmRjcl90aWtjZTdaWlBSVmYxLVhyUVAzaF93X2xGbWNabTA?oc=5)
-
----
-
-### [La migraña con aura eleva el riesgo de ictus en mayores de 45 años: «No es un mero trastorno de dolor de - La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFZrUEpYNkFMTS1weDhFbFE5RkVGelc1QkdYcnRQYXNYZTU1NExNMDN3d0JuRklzdmN1bXZ0MUl4ZFZSejZZWGRvX1dKaV9Ia0RlbG9ocms4VWhUdGlzTzF4VFJRSXpvQ2xJZGdVUFdPUll3X3M0bjR6d21nbGFrdTlwazYwaVFqVklyNW5zWnNqTDdvVk02ZEdId0FkWWVyb0JSaXA1cmY1cmNrMkZxSGIyUHduY2dhVnZ6TDBqNmtzUUNJaVA2SVgtbU02WUlGajlPV1FxYUJUQdIB7gFBVV95cUxNVjhVLWMyRUhmaVJmbTNxNktyNWh5bldyYXZUckJQdnBSaVYtd2J1aW5DM0c5N0lkU3hxd3NhV0ZGTkZmcWo2N3g4TGNBWEFBblh6eVBHMFVYTlQ3bW8zWTNpeW5vZUN1TThsanE2UnJnd2wzSy1RNW5JNlQzV3hGNUczWERXdkxVWDBMaWx6UnlIOVJDOTRjN0lQT1Y3a1hDVVo3ZklZVFJUandURHVWRUJCTVlLYzBSVjBXcjMyQnRLdVVJMmszUjItWkt5VDU1Z0hvbVZ0X1JBM3NLOGEyVjR4QVo4UC1MSEx0dDBR?oc=5)
-
-2026-05-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">migraña</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFZrUEpYNkFMTS1weDhFbFE5RkVGelc1QkdYcnRQYXNYZTU1NExNMDN3d0JuRklzdmN1bXZ0MUl4ZFZSejZZWGRvX1dKaV9Ia0RlbG9ocms4VWhUdGlzTzF4VFJRSXpvQ2xJZGdVUFdPUll3X3M0bjR6d21nbGFrdTlwazYwaVFqVklyNW5zWnNqTDdvVk02ZEdId0FkWWVyb0JSaXA1cmY1cmNrMkZxSGIyUHduY2dhVnZ6TDBqNmtzUUNJaVA2SVgtbU02WUlGajlPV1FxYUJUQdIB7gFBVV95cUxNVjhVLWMyRUhmaVJmbTNxNktyNWh5bldyYXZUckJQdnBSaVYtd2J1aW5DM0c5N0lkU3hxd3NhV0ZGTkZmcWo2N3g4TGNBWEFBblh6eVBHMFVYTlQ3bW8zWTNpeW5vZUN1TThsanE2UnJnd2wzSy1RNW5JNlQzV3hGNUczWERXdkxVWDBMaWx6UnlIOVJDOTRjN0lQT1Y3a1hDVVo3ZklZVFJUandURHVWRUJCTVlLYzBSVjBXcjMyQnRLdVVJMmszUjItWkt5VDU1Z0hvbVZ0X1JBM3NLOGEyVjR4QVo4UC1MSEx0dDBR?oc=5)
 
 ---
 

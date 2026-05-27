@@ -14,7 +14,7 @@ permalink: /news/ponatinib/
 ---
 
 <p class="key-answer" data-question="Ponatinib 有什麼相關新聞？">
-<strong>Ponatinib</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ponatinib</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ponatinib/
 <p><a href="{{ '/drugs/ponatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（34 則）
+
+### [Michael Douglas issued apology to Catherine Zeta-Jones after oral sex cancer diagnosis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
+
+---
 
 ### [Coleraine woman in shock skin cancer diagnosis after holiday: ‘I noticed I had a new mole’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxQZ0MyMGsxb2FtbTd4WTBXRnluY0tUOXF3R0NvcEVIU000Tmd2ZnFlVmhsTVF6aHJlalRXeXdua1o0SUgtazdtVFcyUmV2d1RUR2o2cG90N2szazlaRFR5MFlDVW9PZ2RzNjdYNjZWYjZKUUZheVU0dGUxWE9DMHB1VFhBRmhMVk1fWHJ4STNYMkh2MVhZT2ZUaE4xU3lpS3FHSmh6MUJZNlItRHJTYm45eWVqeWEtdk4zQ0VGMjJKTlo4ZXIwMEo0TFdYMFhUV2pyRXI2X2ExQ0taWl9LaW44cDd2a2dvRU5US1RKdllQYmktY243UW9wTlc3WnZ1emZXM2c?oc=5)
 
@@ -86,6 +94,22 @@ permalink: /news/ponatinib/
 
 ---
 
+### [Shrewsbury teen taking GCSEs after brain tumour treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95emczcXVpdXdnaGVOX0IwakNVcmZFd1JnU3FCbkJLbUxVUWpGdXU1Z3h2TXI0U195V0RLYmVZa3U2WTZhYUFsV2R4NmEtS1BaUTcxbGp1TWxxV3J3?oc=5)
+
+2026-05-26 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95emczcXVpdXdnaGVOX0IwakNVcmZFd1JnU3FCbkJLbUxVUWpGdXU1Z3h2TXI0U195V0RLYmVZa3U2WTZhYUFsV2R4NmEtS1BaUTcxbGp1TWxxV3J3?oc=5)
+
+---
+
+### [Cancer du col de l’utérus : ce qui conduit certaines catégories de femmes à négliger le dépistage d’une maladie qui tue environ 800 femmes par an en France - Sud Ouest](https://news.google.com/rss/articles/CBMiogJBVV95cUxPcEVKRHJHb3ZGSnFJZVQ1RUhCcUM0bExMSUd3MjJtQzV6SDBYM3lLSUEzdEtJS2JXN3NHd0QwaDVBenRYOUlZUElaellpeDdza2N5ZUNWNGIxWEZYYUFxYUt5a0l5TVlFRWNCWFJJU3VZWGdkWUM0ZTQ3NEVLRjcyT0ljVUJiN1RZYTh5X1pydHpPaVVZWC1pbzl1ZnZxTElBLWdsc1RWSDRua2h6SU94bFBMb2ptTmQ3c29WcEY4bVNzQ1lzMWo0Zk5EbGliMDlUaUJQTHhTM004NmpCX1NxRFN5Q3dHakxqaW9VMlZjbzhrYkg4Y1ZRdWw4SjZBdkR4cS1rM2QzbjdqRHp4dEQ2YkpaemsyV3BJWUtOV19hSzRHdw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMiogJBVV95cUxPcEVKRHJHb3ZGSnFJZVQ1RUhCcUM0bExMSUd3MjJtQzV6SDBYM3lLSUEzdEtJS2JXN3NHd0QwaDVBenRYOUlZUElaellpeDdza2N5ZUNWNGIxWEZYYUFxYUt5a0l5TVlFRWNCWFJJU3VZWGdkWUM0ZTQ3NEVLRjcyT0ljVUJiN1RZYTh5X1pydHpPaVVZWC1pbzl1ZnZxTElBLWdsc1RWSDRua2h6SU94bFBMb2ptTmQ3c29WcEY4bVNzQ1lzMWo0Zk5EbGliMDlUaUJQTHhTM004NmpCX1NxRFN5Q3dHakxqaW9VMlZjbzhrYkg4Y1ZRdWw4SjZBdkR4cS1rM2QzbjdqRHp4dEQ2YkpaemsyV3BJWUtOV19hSzRHdw?oc=5)
+
+---
+
 ### [Cancro ai polmoni, l'infiammazione che anticipa la malattia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMiswFBVV95cUxNclYxOEF4MGpXTjRWZ3U3NzJYVF81NWNBcWdJc0RrSXNPRU16b2hfaVpUbE9vRGhHVEdQazBNUktrSFZ1dThMaXRZME5Cam94Rktid1hYSVdtQVF0U0tEMlRYUEFpaXp0Z0JtRTliLUZwcDN5c1pBNFNfci1ldnVwdmhBVUFDangtZEdKY2lMTDlVclFUblp0RVFFNk5tLUZ0UFV3U3ItTE1hM2c4R3BNeTk1TdIBtwFBVV95cUxPekpuZVVNTFZDdnRpYldFeTh1aFpvalJkMHlVc0NzWWIzS3RCUnhZOU1pTmVlMDJoSS03ZFBQR052RlRlZXM2bTA5SXItX0laR1ctNFNVU1daQzlQSjI0bXFlUUFXZEY5ZWpsV29TY1UwYVdFOHhsNDY1TVNUS2l2b3FRU1k4QnNWY3lFR1pLNGlKWmtFTXBaUkVuXzBwdnN3d0lzZjlVWG9JM3M3TXR1MXQ3MHNNcTg?oc=5)
 
 2026-05-26 <span class="news-indication-tag">cancro</span>
@@ -94,27 +118,11 @@ permalink: /news/ponatinib/
 
 ---
 
-### [«Finge un sintomo per anticipare gli esami, poi la scoperta choc: cancro al colon a 27 anni» - Il Messaggero](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWZuZWVPTll5bGZJTThtdUxaZlQzell2OU1WR05oNldVeWZRQnhkZjJheFBEd0V3ZnMzUkcwc1EtVFBwVkxaTzdkOW9IbWJBbnJpWE5GcHl1UHlTYXBEcjZ4U0NrVjNRcUxwTi1XUXNhMVlodHZzZkRxcXhOYm1MenA2WW5DWTg0dy1LZVB0dURxTlBENldaa2RFaG1lczMyelE1ZmxNZ2dqdkxTS3ZVMU9yc2x6bDDSAawBQVVfeXFMTVF6NDhkM0x4YU1pQXFEdnJyT2tDMENCeXhzRkNZa2hpS295MkdWc1ZXYmkzQ2JvLVpfR3FhTzF2bXJzeUtiN2g2OFFrc3BmR2pjeGpBa2tRLWZpVTNYWXpKblMybUdZaG1MaXdXbFphajYxLXNWVlRIVF8yUkFsVXppT2ZtYWx4aDRvMExYV2liOEZiNlZKcGgxcU0xUGwxcWJhQlhvR2FCdE11aQ?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancro</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWZuZWVPTll5bGZJTThtdUxaZlQzell2OU1WR05oNldVeWZRQnhkZjJheFBEd0V3ZnMzUkcwc1EtVFBwVkxaTzdkOW9IbWJBbnJpWE5GcHl1UHlTYXBEcjZ4U0NrVjNRcUxwTi1XUXNhMVlodHZzZkRxcXhOYm1MenA2WW5DWTg0dy1LZVB0dURxTlBENldaa2RFaG1lczMyelE1ZmxNZ2dqdkxTS3ZVMU9yc2x6bDDSAawBQVVfeXFMTVF6NDhkM0x4YU1pQXFEdnJyT2tDMENCeXhzRkNZa2hpS295MkdWc1ZXYmkzQ2JvLVpfR3FhTzF2bXJzeUtiN2g2OFFrc3BmR2pjeGpBa2tRLWZpVTNYWXpKblMybUdZaG1MaXdXbFphajYxLXNWVlRIVF8yUkFsVXppT2ZtYWx4aDRvMExYV2liOEZiNlZKcGgxcU0xUGwxcWJhQlhvR2FCdE11aQ?oc=5)
-
----
-
 ### [Neues Medikament gegen Pankreaskrebs könnte Überleben verlängern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPQnhta3BaQnhyT3o3Nlg1cm85MWhzcHh4a0RlMjBnT0VpcC1IM0pUWVJSMmxKWWpMQVFuV2RIc1ZiOVB4RUM3X09tTG1TbWZNWkFqVXQ3TnJBS0RXbU45cnNNU0ZyQU9IUndmSTZTV1QwS09pUHdfenRpdjFQM1pRWmtCTlJ4anNCcVJyMlhYNTRwallKWDdCbndOVHZaVW1YcHRaa3Zmci1hX25VU3RtVENqVXVQT2g1UEV0RjRGaUo0a3pneWxKeTdsVzhXQQ?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPQnhta3BaQnhyT3o3Nlg1cm85MWhzcHh4a0RlMjBnT0VpcC1IM0pUWVJSMmxKWWpMQVFuV2RIc1ZiOVB4RUM3X09tTG1TbWZNWkFqVXQ3TnJBS0RXbU45cnNNU0ZyQU9IUndmSTZTV1QwS09pUHdfenRpdjFQM1pRWmtCTlJ4anNCcVJyMlhYNTRwallKWDdCbndOVHZaVW1YcHRaa3Zmci1hX25VU3RtVENqVXVQT2g1UEV0RjRGaUo0a3pneWxKeTdsVzhXQQ?oc=5)
-
----
-
-### [Michael Douglas shared response to finding out he had throat cancer caused by oral sex](https://news.google.com/rss/articles/CBMixwFBVV95cUxNR0I5ZzRiTEZQSFhPTWJMT2cxQnJreTF3NkY0a09keE9uY19UcVIwenlNVTZyeURpTW03RnZiLVNhV1ZIUnVGY05oVFhNdkN6Zkt1MnVEakFpd01ob2c4bFJtbXRwTWJtR2h0SXFHalFhNXlaYWtxZHR5Ylg5M29saS05QWtZQkRSaVpvODlDZHVUU3A1ZVZDb2RVam9hNG5IZFRCenVxTWZwNHJXa3UzYmhpTGlqOGNUcjNPQXcyNGxuaWhXTXhn?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancer</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMixwFBVV95cUxNR0I5ZzRiTEZQSFhPTWJMT2cxQnJreTF3NkY0a09keE9uY19UcVIwenlNVTZyeURpTW03RnZiLVNhV1ZIUnVGY05oVFhNdkN6Zkt1MnVEakFpd01ob2c4bFJtbXRwTWJtR2h0SXFHalFhNXlaYWtxZHR5Ylg5M29saS05QWtZQkRSaVpvODlDZHVUU3A1ZVZDb2RVam9hNG5IZFRCenVxTWZwNHJXa3UzYmhpTGlqOGNUcjNPQXcyNGxuaWhXTXhn?oc=5)
 
 ---
 
@@ -142,7 +150,7 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Medizinische Fakultät/Universitätsklinikum Magdeburg A. ö. R. - Telefonforum am 2. Juni 2026 zum Thema: Lunge im Fokus – Antworten zu Asthma, Allergien, COPD, Lungenkrebs, zu Husten & Atemnot](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
+### [Telefonforum am 2. Juni 2026 zum Thema: Lunge im Fokus – Antworten zu Asthma, Allergien, COPD, Lungenkrebs, zu Husten & Atemnot](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTTJGdG9hRGhTM09UZ3l2WWstdkZrZDFSWTgtY0NRcHhUNG01Q3pCc0pfc3BiTGxSbFNJdW51ZlhrYlRRUW9BTV9wR2t4NDU4eUNJejdveG1FblJBRHE0NHdqX2pOZXBrWXN1aUZTWkhYcVZYaUxjVXQ0UThVeUZld00xRXlFdG9TcGpBWDhFNU5QbXBwOVdlNmQtRld1MGFFSU5zeE5nUmhQMEJMNGpOMFdybGZrQndlWElsUHBwZDd3QlRFaHRDb3hJZVJqZUVDc201bWlJWF8tMXVNb2xjbWlZa3RlSE5xVFV1WW5yRDJaMHVXUkNrRjd5TExhWnZBV2RhcmZjRU8?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
@@ -174,14 +182,6 @@ permalink: /news/ponatinib/
 
 ---
 
-### ['Dementia is such a cruel disease - I created something to give back some dignity'](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUG1wempmcTVZYUhSZWRiRl9CTXY4WEpraDljMG85dWduNmJVOXlfdmhPZG5WaHB5MzdnUEVjejNBa0F1VG9CQjRwUW16RDBTRHRPbjlaeEdlSDktbkdTMHVhRmpBQ3ZEeTI0T0dESGlRckdNNVNBM01mSWVWTDY1U1l6X0FyVEFXemthZ0JCbFprTXRqVjI5c1FiZFJGZTFWV19Z0gGoAUFVX3lxTE1EMzJrYjNsaTc0dmMzOXVzVDJ3NlhKNXJ4Y1lOWnhIMW13NjYxcDJrTng4VDdweVl1OUZUbmE2R0JLaHl4NU5Ub25nRXljX01sbnhlMHpFak1ZUFB2LVliRE5ZTFN4Mk53T1hod2g0Qm80cE1WeWRBNVFYUVJIUE95bnRfOHlqNzVPanN6eEpOX3FfQi1XVUo3enZlcEFoMGk2dlZuX2JqYQ?oc=5)
-
-2026-05-26 <span class="news-indication-tag">dementia</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiowFBVV95cUxPUG1wempmcTVZYUhSZWRiRl9CTXY4WEpraDljMG85dWduNmJVOXlfdmhPZG5WaHB5MzdnUEVjejNBa0F1VG9CQjRwUW16RDBTRHRPbjlaeEdlSDktbkdTMHVhRmpBQ3ZEeTI0T0dESGlRckdNNVNBM01mSWVWTDY1U1l6X0FyVEFXemthZ0JCbFprTXRqVjI5c1FiZFJGZTFWV19Z0gGoAUFVX3lxTE1EMzJrYjNsaTc0dmMzOXVzVDJ3NlhKNXJ4Y1lOWnhIMW13NjYxcDJrTng4VDdweVl1OUZUbmE2R0JLaHl4NU5Ub25nRXljX01sbnhlMHpFak1ZUFB2LVliRE5ZTFN4Mk53T1hod2g0Qm80cE1WeWRBNVFYUVJIUE95bnRfOHlqNzVPanN6eEpOX3FfQi1XVUo3enZlcEFoMGk2dlZuX2JqYQ?oc=5)
-
----
-
 ### [Durham breast cancer scandal victims demand inquiry](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT1p5emNqdXdnZTVfZzItVmNMTTFrbTNZb3NNeUxwZDE0X3U2cDFfQjByZGpnZEEtX1JSX05HOEo2WjFWQkdBOC02VHFvWHBWNE9adVJtSVZlcWd3?oc=5)
 
 2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -195,6 +195,14 @@ permalink: /news/ponatinib/
 2026-05-26 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0pSMXBqa1RxVFhqZ1ZyZWFITjNwX0YwSVY1aDZ1aHVCLTVZQW9ldmR3aDNzNTJDZmM3V1E2akhQcmV0a2lSUEljUmRSTm5aQ0t6X2g5X0I0RDh1YXU0NzVKY0lrSlVSOEZkSWpHRlA3WS0zOTY1cGtTQTFkZi1ZRi12Y3Jib05zVXNYSGpyNURQSlVyRlFoUl95ckNsdk42NXUwaEVwVlBsb3E5ME41T0NZUHExSl9Wc3hHSFlzN0g?oc=5)
+
+---
+
+### [Grandad's lung cancer caught early at supermarket scan as 10,000 saved by checks - The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
 
 ---
 
@@ -238,11 +246,11 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Even for nonsmokers, a persistent cough may be a sign of lung cancer - The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
+### [527 días para el diagnóstico y hasta 10 meses para Neurología: la espera de los pacientes con alzhéimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeE1VTkVTT1hmenZ3RzZfWHk1aTlNV2lNVk9pTTlQdXQ3MTM0ZnRtRlp1WmJLZ2RDYXY3ZnUzZHI3SUhDYWlPSi1Yby1ZWTBCN3NuZnp4d0dWWVFHamlLYXF5SWRjajhzeXAtLVFHSThXYU5NM21zLWMwc2JVUUozVEZvc0dfYzVxM1I2MUxES1kzYXQxWFdzRWdqN25BbktkR0lZLQ?oc=5)
 
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-25 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeE1VTkVTT1hmenZ3RzZfWHk1aTlNV2lNVk9pTTlQdXQ3MTM0ZnRtRlp1WmJLZ2RDYXY3ZnUzZHI3SUhDYWlPSi1Yby1ZWTBCN3NuZnp4d0dWWVFHamlLYXF5SWRjajhzeXAtLVFHSThXYU5NM21zLWMwc2JVUUozVEZvc0dfYzVxM1I2MUxES1kzYXQxWFdzRWdqN25BbktkR0lZLQ?oc=5)
 
 ---
 
@@ -262,9 +270,17 @@ permalink: /news/ponatinib/
 
 ---
 
+### [Surgeon removes wrong part of cancer patient's bowel after tattoo mistake in devastating blunder - The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPclVTeGFRTlVpak9nd2YzZ3dqRjVkdFpfOWhuTmR1bUNpOXZtMUR1SmNOMElOdk1ENmtkNDctY1AtYlpmMUZnc1NDRDA0UG9QYnZaLTdlLUZ2NTZSRU02VUpZTlNRR3o0bEZGSmtNZmkwOXhsM3QtV0R5SldwVm1wbTBNZnc0M1I4MXNLTDZMNNIBlAFBVV95cUxNclBlMlVFd2FHVk9vXzdqWVhtNDVHcGZUM1pxRGRiTS1DZWgwYnZNRlROVzlaRG5jU3RkNWozTmlQUmVUb2NwMU9KdGFycnpJblJoaWhKVUlLdVlRcTV6OTBhVEpaak9sV3doUFZpQXctWnB6c3ZlLWxuT3BGUUJ2cGVHemZRRWNwU0hLVmgwNk1IWXQw?oc=5)
+
+2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPclVTeGFRTlVpak9nd2YzZ3dqRjVkdFpfOWhuTmR1bUNpOXZtMUR1SmNOMElOdk1ENmtkNDctY1AtYlpmMUZnc1NDRDA0UG9QYnZaLTdlLUZ2NTZSRU02VUpZTlNRR3o0bEZGSmtNZmkwOXhsM3QtV0R5SldwVm1wbTBNZnc0M1I4MXNLTDZMNNIBlAFBVV95cUxNclBlMlVFd2FHVk9vXzdqWVhtNDVHcGZUM1pxRGRiTS1DZWgwYnZNRlROVzlaRG5jU3RkNWozTmlQUmVUb2NwMU9KdGFycnpJblJoaWhKVUlLdVlRcTV6OTBhVEpaak9sV3doUFZpQXctWnB6c3ZlLWxuT3BGUUJ2cGVHemZRRWNwU0hLVmgwNk1IWXQw?oc=5)
+
+---
+
 ### [Trop de personnes font cette erreur qui peut être mortelle : elle augmente de 60 % le risque de mélanome](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
 
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-05-25 <span class="news-indication-tag">cancer</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
 
@@ -275,14 +291,6 @@ permalink: /news/ponatinib/
 2026-05-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Forbes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWNSRTNGSFJ5RWh2QmxKQUtacVI2OC1xOXhUaHNocmZkajJBQ3ZfRVFvUDkzWVBudFVBeUNSNEdTaW1HTXpmbFZfZnBMWG1BUkpRQmhtbjNxdFdId1d5aWpkY0JoNTd5VVhhUmkyRHdpRGRrTUs0SHVfRUE0NFhZMHpKVzNtblVZbXJwQ2VPUE13UXFDNHViWHhjRmVMbXlGYVBVUW9yNGJXUTkxVHZITk1MaFJGU1AzVE1lNkh2aUV5RTQ?oc=5)
-
----
-
-### [Surgeon at North Wales hospital removed healthy part of bowel cancer patient and left tumour - North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
 
 ---
 

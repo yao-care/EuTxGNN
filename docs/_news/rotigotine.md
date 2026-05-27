@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（21 則）
 
 ### [Día Mundial de la Esclerosis Múltiple: claves y cuidados - Roche España](https://news.google.com/rss/articles/CBMib0FVX3lxTE4xVUw4U1RTeTdtaVJPemRJLVg1NTBnb3pYRXQ0TzZOSWZIeTZDZVJxX3FoRlhVa3RZLTc4enRNcGoyWDRBTVMtTVBCX1pqV1h4bnJweVZCYWllNTM4Z2Nhc25kcXpDZmtMT1dNbkV1bw?oc=5)
 
@@ -126,14 +126,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Ebola, epidemia in Repubblica Democratica Congo: Oms alza allerta - Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTFAyLWxFZmNiOWlLdEthZTVDSlJNYjMtX09SQi1WNno0U0tsT1BNQ01fTEVYY3J3U3RlWUZhMWRFWldUcE9GWmw0a1g3VWptOUQ0MXMtNTc4OVBrSTF1UFM2OWZzclh0Q3luSTk4ZmxXVmFOd1hJZnpkQlhQTkw?oc=5)
-
-2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMifEFVX3lxTFAyLWxFZmNiOWlLdEthZTVDSlJNYjMtX09SQi1WNno0U0tsT1BNQ01fTEVYY3J3U3RlWUZhMWRFWldUcE9GWmw0a1g3VWptOUQ0MXMtNTc4OVBrSTF1UFM2OWZzclh0Q3luSTk4ZmxXVmFOd1hJZnpkQlhQTkw?oc=5)
-
----
-
 ### [Australia confirms first diphtheria death amid worst outbreak in decades](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44MXhubW1OZGFraENGd1dvR01ybmwzaXZnWHlPQWNzZTI0MlowQnFPd2JJSEVzcTUxRllkaFhwcG1NY2ZHNGloTVVlUjRpLUw3UmszbjdGWktRS3hQ?oc=5)
 
 2026-05-26 <span class="news-indication-tag">MS</span>
@@ -158,11 +150,35 @@ permalink: /news/rotigotine/
 
 ---
 
+### [«Ebola, i rischi vengono dal Congo. I ragazzi con un taccuino hanno salvato tanti villaggi» - Corriere della Sera](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdllZbU1hajBJNzFnc3FpNUhxMk0wYUYxUE1PM2pSNGNOUGJXT2tId2NEbzlPcWNhTGhOdndsbWdDYVBPVWFtcjZIX1N2N2x5VENPN1pudjhtdlp0elVlTVpGeXVDLU9iZWs0ZEt4dDdGODhZNTh6eXp5dUstTHBoc0xvdzNsMDRCY0xkdnR5QllDWHBCM3I0RGVrNng5OVcwdlRuZ01zS2dOU3hmNk9yQjVabGIyVk1nRTBPV0tUM1ZSVTdSTWNqTER2VVZWZWhoQ3lvejQwT1NqaXQyZjV6bkZnVDROX2JJRlR6V3owTjI3akkxVjFtLUhsZ3JMTXBHOE9Hdkg3SdIBjAJBVV95cUxPMnhLOGxKcDBSTXFBNVhZTnJHYWFrdFJ4aEludjVqY21NdEx6aEpTZEUtVm5YdGRWZFZ1VDB4VkRxSGVBS2F6Y0lNRFBTUkRTOXBueTQxaFEtaEsxOENHRjZNN3ZPN3dJWkNQX1FqNkdhaG1BVGZJMXlPY2hZVGh1NGJPWFhLakd3bllWODAzNXFvWi1vYmV4XzNka05UbHMtUDNFeGt6NUczSm1LX1FHai1VQ1daM0FzeVZ3Qmk5UlI1WnZuZ1pyaEJKdGpDRUpqbEdYRWplaTJtTG11Rkg2THk2bHRjbEV2Qi1yaVpneHA0R2x1c2IwZ0pnZmsyQ0dsb1NpWGdyUUhyMWls?oc=5)
+
+2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMihwJBVV95cUxNdllZbU1hajBJNzFnc3FpNUhxMk0wYUYxUE1PM2pSNGNOUGJXT2tId2NEbzlPcWNhTGhOdndsbWdDYVBPVWFtcjZIX1N2N2x5VENPN1pudjhtdlp0elVlTVpGeXVDLU9iZWs0ZEt4dDdGODhZNTh6eXp5dUstTHBoc0xvdzNsMDRCY0xkdnR5QllDWHBCM3I0RGVrNng5OVcwdlRuZ01zS2dOU3hmNk9yQjVabGIyVk1nRTBPV0tUM1ZSVTdSTWNqTER2VVZWZWhoQ3lvejQwT1NqaXQyZjV6bkZnVDROX2JJRlR6V3owTjI3akkxVjFtLUhsZ3JMTXBHOE9Hdkg3SdIBjAJBVV95cUxPMnhLOGxKcDBSTXFBNVhZTnJHYWFrdFJ4aEludjVqY21NdEx6aEpTZEUtVm5YdGRWZFZ1VDB4VkRxSGVBS2F6Y0lNRFBTUkRTOXBueTQxaFEtaEsxOENHRjZNN3ZPN3dJWkNQX1FqNkdhaG1BVGZJMXlPY2hZVGh1NGJPWFhLakd3bllWODAzNXFvWi1vYmV4XzNka05UbHMtUDNFeGt6NUczSm1LX1FHai1VQ1daM0FzeVZ3Qmk5UlI1WnZuZ1pyaEJKdGpDRUpqbEdYRWplaTJtTG11Rkg2THk2bHRjbEV2Qi1yaVpneHA0R2x1c2IwZ0pnZmsyQ0dsb1NpWGdyUUhyMWls?oc=5)
+
+---
+
+### [PCOS to PMOS name change 'more representative of condition'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
+
+2026-05-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
+
+---
+
 ### [Durham breast cancer scandal victims demand inquiry](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT1p5emNqdXdnZTVfZzItVmNMTTFrbTNZb3NNeUxwZDE0X3U2cDFfQjByZGpnZEEtX1JSX05HOEo2WjFWQkdBOC02VHFvWHBWNE9adVJtSVZlcWd3?oc=5)
 
 2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT1p5emNqdXdnZTVfZzItVmNMTTFrbTNZb3NNeUxwZDE0X3U2cDFfQjByZGpnZEEtX1JSX05HOEo2WjFWQkdBOC02VHFvWHBWNE9adVJtSVZlcWd3?oc=5)
+
+---
+
+### [Grandad's lung cancer caught early at supermarket scan as 10,000 saved by checks - The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
+
+2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Bolton News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRmw2OXV6VWFOc3NqVnpYbzZxY0dJT09ydWlFVTNQMkZfaENIaERqVFhGUHNpTXdBUV84eS1BS3BMTDNFMjh1cWVJM0RfT1JidjdWNjhNc0dLZk8wZFk4dWQ3WXRrUXJWMFBPME41RktxNU1kNlR1LWg3LVNvQUJSSHlRSmZCTmZuWE01Yjh5SFFCNHhwZnlxZ3RFbWJydw?oc=5)
 
 ---
 
@@ -174,51 +190,27 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Health alert as cruise ship passenger tests positive for hantavirus in Spain – after being evacuated from Hondius - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE5xT3hac3dQMHFUeG5BZWk2VVdIa3lsVjg0MzJDYllaRUJfUjA5akp1QjBzNUM1YTV4dno4LUlKWTAxaXNSelo1X0dQSDkzQW5md3A1Y1N6YWtXTF9ZZ0toZHYzWEJ0SnpnaHpSUXJrRFZDT3JCRzNHd2lHQ1hCS0E?oc=5)
+
+2026-05-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE5xT3hac3dQMHFUeG5BZWk2VVdIa3lsVjg0MzJDYllaRUJfUjA5akp1QjBzNUM1YTV4dno4LUlKWTAxaXNSelo1X0dQSDkzQW5md3A1Y1N6YWtXTF9ZZ0toZHYzWEJ0SnpnaHpSUXJrRFZDT3JCRzNHd2lHQ1hCS0E?oc=5)
+
+---
+
+### [Hantavirus, nuovo positivo tra gli spagnoli in quarantena a Madrid](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbjUzT3F6WTM5dmN2RU10V1kzSk1oQ2xxWXhVYk9YNzVLMWh6Zk04ajhFYjd3Q1o4ZFlzLTV6b2FNM1V3aWpQRl96N05XTXNfNEtLdnRHSTk3VE5UM0d3SUVGQldKTy14VkFwbmhKM0RIWkM4RUpRNE9pOVJnSkk1WFI5Zk9ZbnBVVHNrS3Yya2NVckNf0gFoQVVfeXFMTzkxazFIU09zQ2xxLXIwb2FmTW5YMTFHMHdCTm5hTklQc0xJRFRMSnBmaVlfZmVIeF9peHFFcmdqSTRSaXhVaDk3Mml4SzBaYTMtcHJGN1FxcnNLeW1CejREa09aY2pqQ0s?oc=5)
+
+2026-05-25 <span class="news-indication-tag">MS</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbjUzT3F6WTM5dmN2RU10V1kzSk1oQ2xxWXhVYk9YNzVLMWh6Zk04ajhFYjd3Q1o4ZFlzLTV6b2FNM1V3aWpQRl96N05XTXNfNEtLdnRHSTk3VE5UM0d3SUVGQldKTy14VkFwbmhKM0RIWkM4RUpRNE9pOVJnSkk1WFI5Zk9ZbnBVVHNrS3Yya2NVckNf0gFoQVVfeXFMTzkxazFIU09zQ2xxLXIwb2FmTW5YMTFHMHdCTm5hTklQc0xJRFRMSnBmaVlfZmVIeF9peHFFcmdqSTRSaXhVaDk3Mml4SzBaYTMtcHJGN1FxcnNLeW1CejREa09aY2pqQ0s?oc=5)
+
+---
+
 ### [Northern Ireland women urged to know symptoms of disease that claims 122 lives a year - Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
 
 2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3NPaVRSR3N4OWJvZlQ1TzM2R2VWb0hTT3VnQzNKTzQ5b0hPZ3VqUE1OSmlCemF2MTloXzhLa0wySk1kYThRZ3NwRmlId1hIRHFkdUc0RWZYYUFfc01xMjYwQmY1M3VWYTE2eDg3VUtlOE9xMzZmb2J0b1YxQ3ZEMzhrbWRpSnNJQXdCSC1xWHVIT2psSDlGQU1B0gGfAUFVX3lxTFBuaDM1UTM4NTBUcmhqWnN2UHZYcVhzRThOME1xN0h3d3AtNERXQmNpcHFvQnVsTDVsTVc0NTZmUUZPcmdTOHp6ckM2Nnh4NWRPWEZHS1JDd3VzSC1hMmhpNmVPNEpEd0Q5RFk0UVRKUnlsNVlKZlE3SGszT0xVUWxZWmc5SmdsR3JGTm04dzE5d2pFREZfMndIUGp1MF95Yw?oc=5)
-
----
-
-### [Spanish national evacuated from hantavirus cruise ship tests positive](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdG5aWm9aVUVPU1loQ0xlQnhZUHV4VmlmdzJ4bGtETVlRSUVELW9EUlE1T0tIX185QldQOHRneUNzZXB1cWxRazUxcmhZZlF2My1jMGpRSG5VODluNmxUU3luMUJCLVI4bGtfQXNaN0N5TjdicHRUcG1YT1R0VWc5c25vZDBiU0k2RlVCSHFvZkhYZGtiRFF4b3VEQTVndmtEYkRPeDZUekFpWWluRWJEN2dTcmRyZ3lpbFFiLUU0ekdTdU1YcjRiUm9Qb2NPOHBmQkE?oc=5)
-
-2026-05-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Reuters](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdG5aWm9aVUVPU1loQ0xlQnhZUHV4VmlmdzJ4bGtETVlRSUVELW9EUlE1T0tIX185QldQOHRneUNzZXB1cWxRazUxcmhZZlF2My1jMGpRSG5VODluNmxUU3luMUJCLVI4bGtfQXNaN0N5TjdicHRUcG1YT1R0VWc5c25vZDBiU0k2RlVCSHFvZkhYZGtiRFF4b3VEQTVndmtEYkRPeDZUekFpWWluRWJEN2dTcmRyZ3lpbFFiLUU0ekdTdU1YcjRiUm9Qb2NPOHBmQkE?oc=5)
-
----
-
-### [Congresso Aism e Fism: puntiamo su prevenzione della Sm e della disabilità - Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBLdkNrQzlIZkl1N0l5a0FqV3VlWGwyTFY3VEo1U3VlX0pqQ1d2YklRUTE5UjVIOTN0T2FkTkFTcWVsbjFIMDNlTi1mMlB5MUpOUkt3WmktNklmM0NRUUZlXzJKMm5ZYmJMczhxcDFiTUktVHM5TXpZanAyOTZKVkxibWtBOWx6SHZLcWVmdzB3YTFvRVV5M1VucGNJOXVWazREdU1FSEdBMkFFdTFBWFZPMDlQTmZ6WEhPM05Xc2lKRnRQcFJsaXdZMnY0TWJRT3hFX2F5dWZTS2JWVnc?oc=5)
-
-2026-05-25 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFBLdkNrQzlIZkl1N0l5a0FqV3VlWGwyTFY3VEo1U3VlX0pqQ1d2YklRUTE5UjVIOTN0T2FkTkFTcWVsbjFIMDNlTi1mMlB5MUpOUkt3WmktNklmM0NRUUZlXzJKMm5ZYmJMczhxcDFiTUktVHM5TXpZanAyOTZKVkxibWtBOWx6SHZLcWVmdzB3YTFvRVV5M1VucGNJOXVWazREdU1FSEdBMkFFdTFBWFZPMDlQTmZ6WEhPM05Xc2lKRnRQcFJsaXdZMnY0TWJRT3hFX2F5dWZTS2JWVnc?oc=5)
-
----
-
-### [Even for nonsmokers, a persistent cough may be a sign of lung cancer - The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5)
-
----
-
-### [Trop de personnes font cette erreur qui peut être mortelle : elle augmente de 60 % le risque de mélanome](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazMyV1EzNGVEWEJOMlBMdkJXZzRyQU94TTRsemxXSnBjTzhmaGZPRXAwQTdEaDNrZmNkcjR2NkVnbWVjUHllSkduUVlxbk9QQlBfaVVXcjJCN3RkTk9RdmJULUxONXBNRnNrMHkxdjVEeU9lS1cxa1RmeU5peU1vMVRjejFJbjhqYXRR?oc=5)
-
----
-
-### [Surgeon at North Wales hospital removed healthy part of bowel cancer patient and left tumour - North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
-
-2026-05-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY2Qm5wOVpUMmIzcGpaVEM5TjdhcVd1UXBMSWhveHl2VDIzLVFRZ3JCcGRRbEZaWENRTE5zLTRtU3NLRzJhQlVvQXZpemt1V0hhTF9rRmxEekRYX3BQMGFuRXBYa05EcGZuU1FpU0Y1VTItSXFLUnhZdHBEbTdBc1gyWEJvVXZNYnlyQ0JlZTd6RnljZFhzdzlfdw?oc=5)
 
 ---
 
