@@ -54,14 +54,6 @@ permalink: /news/melatonin/
 
 ## 相關新聞（5 則）
 
-### [Les médicaments anti-obésité Wegovy et Mounjaro bientôt remboursés par la Sécurité sociale : l’annonce choc de la ministre de la Santé ce jeudi - Midi Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxNUkQxeVRjemM3MkdoeGdZWVdPWVQtSTJfR2VCbk5PUkYySng0UjdCcUdfb09kQ0xfTzZVX3JFa1JmeXBBRTdvZmFrS0pnZ1lqdzNGVEpjSlFtQ3EzTDRXVWFrQ2dkN3V5N1NWX3JtTVlrdEQwSkw4ZnVfNjB0TDFvMmtJWHltZXU2bWVMdDlQMGkxNjJ6SFlKTGNRQUJlZHJ6dVJkRm9DcE5OVmZ4aFcwenF5VkdBdExxOFVCOHFDb1l5U2pubWhWUDhMQWJOdHZtRE5aOFpnNm85QVJpQklyS1kzclNDdG1mTEJaaW5tbzA2cnRHdl9TaFZ4UnBoV3czZ0xZTzJSMVVod0JKblRaQld4c21aR2pL?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxNUkQxeVRjemM3MkdoeGdZWVdPWVQtSTJfR2VCbk5PUkYySng0UjdCcUdfb09kQ0xfTzZVX3JFa1JmeXBBRTdvZmFrS0pnZ1lqdzNGVEpjSlFtQ3EzTDRXVWFrQ2dkN3V5N1NWX3JtTVlrdEQwSkw4ZnVfNjB0TDFvMmtJWHltZXU2bWVMdDlQMGkxNjJ6SFlKTGNRQUJlZHJ6dVJkRm9DcE5OVmZ4aFcwenF5VkdBdExxOFVCOHFDb1l5U2pubWhWUDhMQWJOdHZtRE5aOFpnNm85QVJpQklyS1kzclNDdG1mTEJaaW5tbzA2cnRHdl9TaFZ4UnBoV3czZ0xZTzJSMVVod0JKblRaQld4c21aR2pL?oc=5)
-
----
-
 ### [Científicos aseguran que la melatonina protege contra la obesidad y la diabetes tipo 2](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZllsQmRFaEpNSlN6QjBNRWFKeUZLNEs1VmhtcUJHdXBWcDNfQ1U3NkxCX2tNU3kxZnlOcEdzOVZNM3lTRlJIMkJiQmlWRFJJOWt3S2FlV1MwdDBBUDRuWkFuTkZNc2RfQTN3ZVNBTDR5aEJuY2c3ZHMzTFNBNlQ3MDhqS0tSeXphQ1N1X2NaZEh4SlMzOU12SDgzYzIwRG42ekVJMFFtcmQtb3hnWG5fVtIBtgFBVV95cUxOYjRFNHlmTXI3QV9iWXVwOEpHVElpUEF4M2RneEg0Tzl4WlZXMXdwMkhGM1Qyb1lCMi1RYnpyc29DY1hnOGdnNmhGTkVWQlJfZFJ2OTg2aEV4cVVaOEhJc1JpVW9fbnB3WUNQaHBfb1lDMVFhOGFnQWQ2MWg5eXZvbW5xZURrYktUN0dHeW84ZU1ER0U3dmNGSDdfWUxtRmhIM0F0WVgzQTZCaldSYk5tZ29Pb254Zw?oc=5)
 
 2026-05-27 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -78,19 +70,27 @@ permalink: /news/melatonin/
 
 ---
 
+### [La obesidad no es un problema personal: una crisis colectiva que exige acción estructural. - Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSEp0RVVXemRIUWlIVFAyNnVDV1VZLUJJQ1NCQTZuV2pHUGp0YjNUWGNvNmJnUTE4YlNrWjFsak1kU190elgtdmZFQUFQM1owcDI4dTAzanpHc09ibmZCTTc3NVFPelVZR0o4TWdXMlZqTndpWXdMRjM0OTN3Rk0?oc=5)
+
+2026-05-26 <span class="news-indication-tag">obesidad</span>
+
+來源：[Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSEp0RVVXemRIUWlIVFAyNnVDV1VZLUJJQ1NCQTZuV2pHUGp0YjNUWGNvNmJnUTE4YlNrWjFsak1kU190elgtdmZFQUFQM1owcDI4dTAzanpHc09ibmZCTTc3NVFPelVZR0o4TWdXMlZqTndpWXdMRjM0OTN3Rk0?oc=5)
+
+---
+
+### [Investigadores de la CEU UCH colaboran con la Universidad de Alberta en un estudio sobre obesidad y riñón](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3VPUHhTNFpSNzYwVFNEekNzZUdTWWxPSDRKX2M3UnJQZDBHRUltbXd0WnJvdGxMeGU3OXV3dGZOWXVCZkRJS19WZ3V2eUgzRDZXcS1Sb3p6R3FCOU83amJDWERxcVcwSGlJMDFxNnpfOTRrenloRVhUdE5hSVhoMjVqOFRRSEJld3o1cjFzRHdocWhwYzJIbjIzeFhZbEZBZnA2SHVUU2dHU1dVMXNqSU1uaVEtX3ZX?oc=5)
+
+2026-05-26 <span class="news-indication-tag">obesidad</span>
+
+來源：[elperiodic.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3VPUHhTNFpSNzYwVFNEekNzZUdTWWxPSDRKX2M3UnJQZDBHRUltbXd0WnJvdGxMeGU3OXV3dGZOWXVCZkRJS19WZ3V2eUgzRDZXcS1Sb3p6R3FCOU83amJDWERxcVcwSGlJMDFxNnpfOTRrenloRVhUdE5hSVhoMjVqOFRRSEJld3o1cjFzRHdocWhwYzJIbjIzeFhZbEZBZnA2SHVUU2dHU1dVMXNqSU1uaVEtX3ZX?oc=5)
+
+---
+
 ### [Adipositas und Medikamente beeinflussen Testosteron und Spermienzahl – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
-
----
-
-### [La CEU UCH participa en un estudio internacional sobre obesidad y enfermedad renal - Valencia News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmhwdlhrakZIa1pndllLWFlKMXIyY0V5OXhKbVNNandjWS0tWjZ5cHRFMG40eF9RNmJfTGJGV3I1UDI0TkhCdDJqTDNIalVxVllSRVpCN0JoazFOMkx5YmRjeWprakVFUi1OcTg1VnpfcU1WcEhOc29SQUFBa29icUp6MlNFRERXT0ZZVTI1bEJsTTRhRXp2M1ZobjNaUE5VNXhtZW5YNGt0aktjU2Q0OFlQZjhteFB5WUE?oc=5)
-
-2026-05-26 <span class="news-indication-tag">obesidad</span>
-
-來源：[Valencia News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmhwdlhrakZIa1pndllLWFlKMXIyY0V5OXhKbVNNandjWS0tWjZ5cHRFMG40eF9RNmJfTGJGV3I1UDI0TkhCdDJqTDNIalVxVllSRVpCN0JoazFOMkx5YmRjeWprakVFUi1OcTg1VnpfcU1WcEhOc29SQUFBa29icUp6MlNFRERXT0ZZVTI1bEJsTTRhRXp2M1ZobjNaUE5VNXhtZW5YNGt0aktjU2Q0OFlQZjhteFB5WUE?oc=5)
 
 ---
 

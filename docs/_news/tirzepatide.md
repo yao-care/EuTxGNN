@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Les médicaments anti-obésité Wegovy et Mounjaro bientôt remboursés par la Sécurité sociale : l’annonce choc de la ministre de la Santé ce jeudi - Midi Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxNUkQxeVRjemM3MkdoeGdZWVdPWVQtSTJfR2VCbk5PUkYySng0UjdCcUdfb09kQ0xfTzZVX3JFa1JmeXBBRTdvZmFrS0pnZ1lqdzNGVEpjSlFtQ3EzTDRXVWFrQ2dkN3V5N1NWX3JtTVlrdEQwSkw4ZnVfNjB0TDFvMmtJWHltZXU2bWVMdDlQMGkxNjJ6SFlKTGNRQUJlZHJ6dVJkRm9DcE5OVmZ4aFcwenF5VkdBdExxOFVCOHFDb1l5U2pubWhWUDhMQWJOdHZtRE5aOFpnNm85QVJpQklyS1kzclNDdG1mTEJaaW5tbzA2cnRHdl9TaFZ4UnBoV3czZ0xZTzJSMVVod0JKblRaQld4c21aR2pL?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxNUkQxeVRjemM3MkdoeGdZWVdPWVQtSTJfR2VCbk5PUkYySng0UjdCcUdfb09kQ0xfTzZVX3JFa1JmeXBBRTdvZmFrS0pnZ1lqdzNGVEpjSlFtQ3EzTDRXVWFrQ2dkN3V5N1NWX3JtTVlrdEQwSkw4ZnVfNjB0TDFvMmtJWHltZXU2bWVMdDlQMGkxNjJ6SFlKTGNRQUJlZHJ6dVJkRm9DcE5OVmZ4aFcwenF5VkdBdExxOFVCOHFDb1l5U2pubWhWUDhMQWJOdHZtRE5aOFpnNm85QVJpQklyS1kzclNDdG1mTEJaaW5tbzA2cnRHdl9TaFZ4UnBoV3czZ0xZTzJSMVVod0JKblRaQld4c21aR2pL?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 

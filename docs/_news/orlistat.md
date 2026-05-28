@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
-### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
+### [«Si l’on prend un traitement antidépresseur, on est plus à risque de faire un AVC» : le Pr Claire Mounier Vehier alerte sur le lien entre le cœur et la santé mentale - Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
+
+2026-05-28 <span class="news-indication-tag">AVC</span>
+
+來源：[Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
+
+---
+
+### [Demenzprävention: Supplemente, Wearables und Politik treiben den Markt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
 
 2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
-
----
-
-### [Les médicaments anti-obésité Wegovy et Mounjaro bientôt remboursés par la Sécurité sociale : l’annonce choc de la ministre de la Santé ce jeudi - Midi Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxNUkQxeVRjemM3MkdoeGdZWVdPWVQtSTJfR2VCbk5PUkYySng0UjdCcUdfb09kQ0xfTzZVX3JFa1JmeXBBRTdvZmFrS0pnZ1lqdzNGVEpjSlFtQ3EzTDRXVWFrQ2dkN3V5N1NWX3JtTVlrdEQwSkw4ZnVfNjB0TDFvMmtJWHltZXU2bWVMdDlQMGkxNjJ6SFlKTGNRQUJlZHJ6dVJkRm9DcE5OVmZ4aFcwenF5VkdBdExxOFVCOHFDb1l5U2pubWhWUDhMQWJOdHZtRE5aOFpnNm85QVJpQklyS1kzclNDdG1mTEJaaW5tbzA2cnRHdl9TaFZ4UnBoV3czZ0xZTzJSMVVod0JKblRaQld4c21aR2pL?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxNUkQxeVRjemM3MkdoeGdZWVdPWVQtSTJfR2VCbk5PUkYySng0UjdCcUdfb09kQ0xfTzZVX3JFa1JmeXBBRTdvZmFrS0pnZ1lqdzNGVEpjSlFtQ3EzTDRXVWFrQ2dkN3V5N1NWX3JtTVlrdEQwSkw4ZnVfNjB0TDFvMmtJWHltZXU2bWVMdDlQMGkxNjJ6SFlKTGNRQUJlZHJ6dVJkRm9DcE5OVmZ4aFcwenF5VkdBdExxOFVCOHFDb1l5U2pubWhWUDhMQWJOdHZtRE5aOFpnNm85QVJpQklyS1kzclNDdG1mTEJaaW5tbzA2cnRHdl9TaFZ4UnBoV3czZ0xZTzJSMVVod0JKblRaQld4c21aR2pL?oc=5)
-
----
-
-### [Siemens Healthineers und Cercare Medical kündigen Zusammenarbeit bei der Schlaganfallbehandlung mit Cone-Beam CT Perfusionsbildgebung an - Siemens Healthineers](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVi0xV2FOXzFuZE5UbW1pdnRRX1RQVUdUZGt6cVhjdWl5alZfUUJGU1FsQS1xaTRzWGxJN3BNUlc2aUtnVm9wVVhpc1pkSTgwaWl3aDBRMnlMZVJDaFA2aUhrcFZZbE83UURERl9uQ0xOZEM0dVUtdWNKUXhzbFdRUDhuRlFnSUVfX09ZZk53cl9TRHc?oc=5)
-
-2026-05-27 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Siemens Healthineers](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVi0xV2FOXzFuZE5UbW1pdnRRX1RQVUdUZGt6cVhjdWl5alZfUUJGU1FsQS1xaTRzWGxJN3BNUlc2aUtnVm9wVVhpc1pkSTgwaWl3aDBRMnlMZVJDaFA2aUhrcFZZbE83UURERl9uQ0xOZEM0dVUtdWNKUXhzbFdRUDhuRlFnSUVfX09ZZk53cl9TRHc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
 
 ---
 
@@ -102,35 +94,27 @@ permalink: /news/orlistat/
 
 ---
 
+### [La obesidad no es un problema personal: una crisis colectiva que exige acción estructural. - Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSEp0RVVXemRIUWlIVFAyNnVDV1VZLUJJQ1NCQTZuV2pHUGp0YjNUWGNvNmJnUTE4YlNrWjFsak1kU190elgtdmZFQUFQM1owcDI4dTAzanpHc09ibmZCTTc3NVFPelVZR0o4TWdXMlZqTndpWXdMRjM0OTN3Rk0?oc=5)
+
+2026-05-26 <span class="news-indication-tag">obesidad</span>
+
+來源：[Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSEp0RVVXemRIUWlIVFAyNnVDV1VZLUJJQ1NCQTZuV2pHUGp0YjNUWGNvNmJnUTE4YlNrWjFsak1kU190elgtdmZFQUFQM1owcDI4dTAzanpHc09ibmZCTTc3NVFPelVZR0o4TWdXMlZqTndpWXdMRjM0OTN3Rk0?oc=5)
+
+---
+
+### [Investigadores de la CEU UCH colaboran con la Universidad de Alberta en un estudio sobre obesidad y riñón](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3VPUHhTNFpSNzYwVFNEekNzZUdTWWxPSDRKX2M3UnJQZDBHRUltbXd0WnJvdGxMeGU3OXV3dGZOWXVCZkRJS19WZ3V2eUgzRDZXcS1Sb3p6R3FCOU83amJDWERxcVcwSGlJMDFxNnpfOTRrenloRVhUdE5hSVhoMjVqOFRRSEJld3o1cjFzRHdocWhwYzJIbjIzeFhZbEZBZnA2SHVUU2dHU1dVMXNqSU1uaVEtX3ZX?oc=5)
+
+2026-05-26 <span class="news-indication-tag">obesidad</span>
+
+來源：[elperiodic.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3VPUHhTNFpSNzYwVFNEekNzZUdTWWxPSDRKX2M3UnJQZDBHRUltbXd0WnJvdGxMeGU3OXV3dGZOWXVCZkRJS19WZ3V2eUgzRDZXcS1Sb3p6R3FCOU83amJDWERxcVcwSGlJMDFxNnpfOTRrenloRVhUdE5hSVhoMjVqOFRRSEJld3o1cjFzRHdocWhwYzJIbjIzeFhZbEZBZnA2SHVUU2dHU1dVMXNqSU1uaVEtX3ZX?oc=5)
+
+---
+
 ### [Adipositas und Medikamente beeinflussen Testosteron und Spermienzahl – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
 
 2026-05-26 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYWhkUWtiVnA1Zk85RndkYThKR1duS0dIUjI5ZWF4Z2RabW9NRnpyR052aG5kLUhBM05hckJhZ0J6eXdfaVBGRGZtUmg0b2VFSkIxR1FfTXhmVGExVmk2blgwUFR0cy1waV8wMnRaWS1NUlNnM01EelZZTmdTdkJRdVlpZkgtNzNZMWJUNGNTYW9ITVZ6enFjbnZPVWpHckRRY2trd0pmQUxpTVJKTEZjQ3pSYnFxOG5KTGFuS2ljbFp1THBnQnZCVU1ZRmI5SEltRkZJ?oc=5)
-
----
-
-### [La CEU UCH participa en un estudio internacional sobre obesidad y enfermedad renal - Valencia News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmhwdlhrakZIa1pndllLWFlKMXIyY0V5OXhKbVNNandjWS0tWjZ5cHRFMG40eF9RNmJfTGJGV3I1UDI0TkhCdDJqTDNIalVxVllSRVpCN0JoazFOMkx5YmRjeWprakVFUi1OcTg1VnpfcU1WcEhOc29SQUFBa29icUp6MlNFRERXT0ZZVTI1bEJsTTRhRXp2M1ZobjNaUE5VNXhtZW5YNGt0aktjU2Q0OFlQZjhteFB5WUE?oc=5)
-
-2026-05-26 <span class="news-indication-tag">obesidad</span>
-
-來源：[Valencia News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmhwdlhrakZIa1pndllLWFlKMXIyY0V5OXhKbVNNandjWS0tWjZ5cHRFMG40eF9RNmJfTGJGV3I1UDI0TkhCdDJqTDNIalVxVllSRVpCN0JoazFOMkx5YmRjeWprakVFUi1OcTg1VnpfcU1WcEhOc29SQUFBa29icUp6MlNFRERXT0ZZVTI1bEJsTTRhRXp2M1ZobjNaUE5VNXhtZW5YNGt0aktjU2Q0OFlQZjhteFB5WUE?oc=5)
-
----
-
-### [My 16 hours in A&E hell with suspected stroke symptoms - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
-
-2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWpUenBQNWJmaW1rNVBjU2tQN3hjRDVLT29ZOGlycVRSMXNfR3RfMVlKUWg5UzA1eGxWY1BwbWZWYnIwZ1o5MkhHdHdETkJpTXNVdGVZVU1MXzh3VS1TOXR5X2VtWTUwNDl4VmE2X2dQX25QaHF5bkdabFBsaWpndzJEdjRmYklhTkVfa290ajBFa0FHOVVLVWYzaw?oc=5)
-
----
-
-### [PCOS to PMOS name change 'more representative of condition'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
-
-2026-05-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRWmp3dC16aUxSMG1aLUQzM3BKblBWczV6bTlrSkVoeXNsa3k5UHBscGgyYS1UUGVsaWpCbmMyRHZhcXhpQkhxbWZCVnRMWkZxNGotQ0w4emJfME9N?oc=5)
 
 ---
 

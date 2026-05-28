@@ -14,7 +14,7 @@ permalink: /news/rilpivirine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Rilpivirine Hydrochloride 有什麼相關新聞？">
-<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/rilpivirine-hydrochloride/
 <p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Un fármaco experimental contra la hepatitis B podría ofrecer "cura funcional" a algunos pacientes - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ213bG1IOFFNck04U0ExVk54bTBscHExR3Mwa1ZxR1BNV25zTXhuWTdWYlQxWU5LTHZwbDMtT0pRVjY4TUZObDVRY1BmQmpDbWZLU18tU1BsbXJFZm9SRmJjcDZkajV1ZXRNeGdqcGZBREdzek1ia2ZqNm1IRmtUT3IwTWFJVklfUENVSTR4dXlRZzJkNnF4TTVBWkQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ213bG1IOFFNck04U0ExVk54bTBscHExR3Mwa1ZxR1BNV25zTXhuWTdWYlQxWU5LTHZwbDMtT0pRVjY4TUZObDVRY1BmQmpDbWZLU18tU1BsbXJFZm9SRmJjcDZkajV1ZXRNeGdqcGZBREdzek1ia2ZqNm1IRmtUT3IwTWFJVklfUENVSTR4dXlRZzJkNnF4TTVBWkQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Hochfunktionale Depression: Wie man sie erkennt - was hilft - Neue Westfälische](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmU0SjZyYkdQOVVvSTBlMmpUQ3J3RGN5WlQ0ZzNvUG02WTNYQzQ3Mk5ZTU1XWndITUFBdTlqX05KdHp1R2xHcFNqRmxKcHhvaFVlNVlxVkp3WllyTnZUNTNGU0xEVEdiZDJsdnRQcllVQ3BQTjVJREFySnc1TFlhRml0NlRrZHVlZ3lnTUNhUElxalViQ3lKX2VUdGJ4eGw4Rk5tUQ?oc=5)
+
+2026-05-27 <span class="news-indication-tag">depression</span>
+
+來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmU0SjZyYkdQOVVvSTBlMmpUQ3J3RGN5WlQ0ZzNvUG02WTNYQzQ3Mk5ZTU1XWndITUFBdTlqX05KdHp1R2xHcFNqRmxKcHhvaFVlNVlxVkp3WllyTnZUNTNGU0xEVEdiZDJsdnRQcllVQ3BQTjVJREFySnc1TFlhRml0NlRrZHVlZ3lnTUNhUElxalViQ3lKX2VUdGJ4eGw4Rk5tUQ?oc=5)
+
+---
 
 ### [Santé mentale : pourquoi les troubles psychiques explosent dans le monde - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRDRrU29IVHFyY2lyWWwzZkZwSm8xMzhha05aTzM2d3JUekdVX1BRdGRfQzQwRHFPeWczbTBwVnViNE5oOHpzeC1wTkxfUVRaTUxzVUxlVk5zYy11SjF2bWpkTmwxQ1pfUW1rTEt1NXYwM0s3UFl4YXFFbnJpMWRXZ3FPcmZpS3E3X3drWUtha2g5SlVzNjZVZUhLVkFoTVVzQVRjWVlRZXFObU1CUTMxajVBbWhFZFIxRmRXS0Nack1pYlc0bldvWTVtSEUtSjRNWVlqQkxfTkIzdm5SS0pTajNnbkdhUEV3eVdlMExtdFUxdG1sVjF1Z2xQVGtKcFpxZFZRZ2pxWEVYRlU?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/tezepelumab/
 ---
 
 <p class="key-answer" data-question="Tezepelumab 有什麼相關新聞？">
-<strong>Tezepelumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tezepelumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tezepelumab/
 <p><a href="{{ '/drugs/tezepelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
+### [Type 2 diabetes rising rapidly in young women - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
 
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-05-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
+
+---
+
+### [Zahngesundheit: Jeder verlorene Zahn erhöht Demenzrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUm9WMWNiTWZ6N053ZV83NjEwaFRSbkZ6dkNDR3VUSUJhZDR0ckdTMTRqS19PTGJCOXdxbFRGVU1TdUZ2SkR2TUFvNXhhZW03VmdLNDlQel85TXVqczFqYVBVbzlQYTQyYXNqR1pudWtJb1czODRtaTc3cW80S21Vdm5fVWJGMUo1ZnFKQzdGU1VGM2VUWHBRZGdpWWJWVnVaNjNhVEc3c04?oc=5)
+
+2026-05-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUm9WMWNiTWZ6N053ZV83NjEwaFRSbkZ6dkNDR3VUSUJhZDR0ckdTMTRqS19PTGJCOXdxbFRGVU1TdUZ2SkR2TUFvNXhhZW03VmdLNDlQel85TXVqczFqYVBVbzlQYTQyYXNqR1pudWtJb1czODRtaTc3cW80S21Vdm5fVWJGMUo1ZnFKQzdGU1VGM2VUWHBRZGdpWWJWVnVaNjNhVEc3c04?oc=5)
 
 ---
 
@@ -70,14 +78,6 @@ permalink: /news/tezepelumab/
 
 ---
 
-### [Lebensstil schlägt Gene: 7x höheres Diabetesrisiko durch Verhalten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUFqbnZzVGFWbmx6bjNBcm1zckU1OGJmWklGeFp2dlNpX1BYS1NLQUpkcjRZckcyMTdHb0RhZGhGdlE1RWJoM2VJSlVNYWNuLVUzZ19rQmZjMW5jSU53TS05UkR4RlpFcHVNRVJoX1NkX0JudUd5cFJNRTBuNGFHUmhyeHc3a200eXNHSG1FNzBJS2toOHRhNGExeVpYZHBfVDhXelFjczJzd3huTHo1Z0UzRHN3ZFE?oc=5)
-
-2026-05-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUFqbnZzVGFWbmx6bjNBcm1zckU1OGJmWklGeFp2dlNpX1BYS1NLQUpkcjRZckcyMTdHb0RhZGhGdlE1RWJoM2VJSlVNYWNuLVUzZ19rQmZjMW5jSU53TS05UkR4RlpFcHVNRVJoX1NkX0JudUd5cFJNRTBuNGFHUmhyeHc3a200eXNHSG1FNzBJS2toOHRhNGExeVpYZHBfVDhXelFjczJzd3huTHo1Z0UzRHN3ZFE?oc=5)
-
----
-
 ### [Bei dieser häufigen Genvariation könnte Vitamin D vor Diabetes schützen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm04WGo0LWRzRHlCWlNOUjRtMGl5M0RacUQzQ3k1aGtlZ0dkS2FxOHcyTXdmdHRoLXRtS1JqejVwU1RXWWdWVkF5dHJOY1k4VGNnV2xOU2NBS2piYkgzYndjMVlqaklxVUVvcEdsWVp6b0JjWUpKbUY5bVd0WjRYbHZsTkI2Zm1fWDJ0VllYcFRQNGtVM3hqck9rSTVDQ3dDQkFvSnRqaldPYk4zcVRRX2o4WFRCZ2w4eTV6LTdqVTg?oc=5)
 
 2026-05-27 <span class="news-indication-tag">diabetes</span>
@@ -86,19 +86,11 @@ permalink: /news/tezepelumab/
 
 ---
 
-### [I’m a doctor — these are 4 lesser-known signs of 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
+### [Demenzprävention: Supplemente, Wearables und Politik treiben den Markt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
 
-2026-05-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
-
----
-
-### [Parodontitis 2025/26: Neue Daten koppeln Entzündung mit Herz, Diabetes und Demenz - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
-
-2026-05-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
 
 ---
 

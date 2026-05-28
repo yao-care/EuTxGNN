@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Konservierungsstoffe E202, E250, E224: +29% Bluthochdruck-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUREMk5sM2toQm1kTEFwc1NualFVT2hhU1VyUTVjUGpBeDYybGI5S25UQnEyLTNxWGR2akZEazMzakNvM3lkNXMxYUYyRWszRDJ3NEsySmRDU2lpSVJiY19SS0cxcXhDdFEtZUgtajJRVlA1OUx4NTlhUVRmb2xvVkNBMFRRVW5DMy1odUFsbWVHVW9NQV8xcVFHMDFEZkJvRUxMN2pWNUFTcUxyVmtVQ1ZweWpDUlE?oc=5)
+### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 
-2026-05-27
+2026-05-28
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVUREMk5sM2toQm1kTEFwc1NualFVT2hhU1VyUTVjUGpBeDYybGI5S25UQnEyLTNxWGR2akZEazMzakNvM3lkNXMxYUYyRWszRDJ3NEsySmRDU2lpSVJiY19SS0cxcXhDdFEtZUgtajJRVlA1OUx4NTlhUVRmb2xvVkNBMFRRVW5DMy1odUFsbWVHVW9NQV8xcVFHMDFEZkJvRUxMN2pWNUFTcUxyVmtVQ1ZweWpDUlE?oc=5)
+來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 
 ---
 
@@ -98,14 +98,6 @@ permalink: /news/hypertension/
 2026-05-27
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
-
----
-
-### [La farmacia refuerza el control de la hipertensión: "Muchas veces los pacientes dejan la medicación porque creen que ya están bien" - El Globalfarma](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWFzZC1mLTB5aG5LSkVPalFxaDRyODI1SHlGMWJlS3JYZ3NUcnZtdGRUbE1haDRHZ01RNU9tc1RpMlVTb2NGcS1GN1E0OFdVdGozSlJnanV0aHBhTDZvYlp3UzN1RXF5cWRORG1DdXp0cWJPTUdNdjdvbjdGdGRJRjFKOEU1dWlmWi1hZUlhWXpzZnVqcUd1dmVaSU9odk5JRXhQb0dzQ05kRmQ0bkE?oc=5)
-
-2026-05-26
-
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWFzZC1mLTB5aG5LSkVPalFxaDRyODI1SHlGMWJlS3JYZ3NUcnZtdGRUbE1haDRHZ01RNU9tc1RpMlVTb2NGcS1GN1E0OFdVdGozSlJnanV0aHBhTDZvYlp3UzN1RXF5cWRORG1DdXp0cWJPTUdNdjdvbjdGdGRJRjFKOEU1dWlmWi1hZUlhWXpzZnVqcUd1dmVaSU9odk5JRXhQb0dzQ05kRmQ0bkE?oc=5)
 
 ---
 
