@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="Apremilast 有什麼相關新聞？">
-<strong>Apremilast</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apremilast</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/apremilast/
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [La migraña en mujeres, una enfermedad infravalorada - EL PAÍS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkRieDRaWDJROXVYeVVDWnJ6cjA3RERuRVVsRmx3YmdYUHl1MkVydDNlRDdfN21xWU1ONTBtcGpadUlrSDBDYU1WbTIyOTBpbkd3QXBrOHNSM192TmVFUjlvVkpPSnc1cDdLUDFsV3JEcng0c0dmdWlLOGt3VEh1RVBwVGMwNWVaMENzeEt5bDB2SFFmNmdCa2QxdGpFc3pydFFGR2E3REV0dG1TSFpkdFdSZUsyTEl60gHMAUFVX3lxTE1WNjFjM3Nzb2xnVkFUdXpTZ2xJcVg4b0ZHSUVnMXZ4UmFtMlBBNTVocDFMODZVcmRQNHFLSXVNZ0JJU095bW5rX0YtUF9IV0VMNGlQdmluTlQwYU1qZURQVExvUnJFRThtNEF0NjZjNXNXQ0Zpei1xcGlvOTBLdTlJaUhLSFJlZVdyRWZZVGM4M2pubnRYRnBseHlGVEQ2VHNMRWRZMEV2d3FHenhQVVlQb2NEekNqU1NPWWt3NFgzN05ZRW4xc19CNkwwOA?oc=5)
-
-2026-05-28 <span class="news-indication-tag">migraña</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkRieDRaWDJROXVYeVVDWnJ6cjA3RERuRVVsRmx3YmdYUHl1MkVydDNlRDdfN21xWU1ONTBtcGpadUlrSDBDYU1WbTIyOTBpbkd3QXBrOHNSM192TmVFUjlvVkpPSnc1cDdLUDFsV3JEcng0c0dmdWlLOGt3VEh1RVBwVGMwNWVaMENzeEt5bDB2SFFmNmdCa2QxdGpFc3pydFFGR2E3REV0dG1TSFpkdFdSZUsyTEl60gHMAUFVX3lxTE1WNjFjM3Nzb2xnVkFUdXpTZ2xJcVg4b0ZHSUVnMXZ4UmFtMlBBNTVocDFMODZVcmRQNHFLSXVNZ0JJU095bW5rX0YtUF9IV0VMNGlQdmluTlQwYU1qZURQVExvUnJFRThtNEF0NjZjNXNXQ0Zpei1xcGlvOTBLdTlJaUhLSFJlZVdyRWZZVGM4M2pubnRYRnBseHlGVEQ2VHNMRWRZMEV2d3FHenhQVVlQb2NEekNqU1NPWWt3NFgzN05ZRW4xc19CNkwwOA?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Olbia, boom di prestazioni in Neurologia e nuove terapie contro l’emicrania - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
 
@@ -88,7 +80,7 @@ permalink: /news/apremilast/
 
 ### [I’m a doctor — these are 4 lesser-known signs of 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
 
-2026-05-27 <span class="news-indication-tag">high blood pressure</span>
+2026-05-27 <span class="news-indication-tag">hypertension</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
 
@@ -99,14 +91,6 @@ permalink: /news/apremilast/
 2026-05-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
-
----
-
-### [Feta: Hoher Salzgehalt und Zusatzstoffe erhöhen Bluthochdruckrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
-
-2026-05-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
 
 ---
 

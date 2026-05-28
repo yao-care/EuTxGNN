@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/perampanel/
 <li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
 <li>partial motor epilepsy（99.4%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
-<li>epilepsy（99.0%）</li>
+<li class="indication-matched">epilepsy（99.0%）<span class="indication-tag">📰 Epilepsie</span></li>
 <li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
 <li>trigeminal nerve neoplasm（98.7%）</li>
 <li>trigeminal neuralgia（97.2%）</li>
@@ -52,9 +52,15 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Alzheimer: Epilepsie-Mittel Levetiracetam zeigt vielversprechende Erfolge - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
+
+2026-05-27 <span class="news-drug-tag">Levetiracetam</span> <span class="news-indication-tag">Epilepsie</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
+
+---
 
 
 <div class="disclaimer">

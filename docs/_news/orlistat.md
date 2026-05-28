@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
+
+### [Solución contra la obesidad o moda pasajera: el dilema de los medicamentos para adelgazar](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnkzak5kM2FpMzd3T0xyaEZ1VzlEbHVwc3V3cmFtdGZ0SWNjS09jQzNSUTJMYURvdmVTc096RG15cWVScE5vdUI0bWo5ZDk4OXd2OHZzc1U3LTBOZGFCN2dLV2FXNHpOQlRKcnlIeEJSelloWXFMY1BqS1FiUnJMT1U5TlNtS1BDUjZUNzVSUVlxcHdZRWFxcFB5SmhkNzZkc0RjZw?oc=5)
+
+2026-05-28 <span class="news-indication-tag">obesidad</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnkzak5kM2FpMzd3T0xyaEZ1VzlEbHVwc3V3cmFtdGZ0SWNjS09jQzNSUTJMYURvdmVTc096RG15cWVScE5vdUI0bWo5ZDk4OXd2OHZzc1U3LTBOZGFCN2dLV2FXNHpOQlRKcnlIeEJSelloWXFMY1BqS1FiUnJMT1U5TlNtS1BDUjZUNzVSUVlxcHdZRWFxcFB5SmhkNzZkc0RjZw?oc=5)
+
+---
 
 ### [Una catedrática navarra aporta datos infantiles de España a un gran análisis mundial sobre obesidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzdpaUR5aW9QdC1ZdW5sdERNWmNFQ1Y3X2d1S1pXYTdhUl91VFB6VDI0UTZQVjVsVGNXaFVpUkpVR1B0U0NuZFNGel9ZV0dZX3BzMDdTWWY3c0ZUVTUyWHp4MVZSVlZJbmRSb1NSajRLeVpMVnlwb0xQRXFVbFFBdnlWR3FsZjUxeUtQZ1o1MXJxel9SUzMxZFdwSnFtUWlFNEp4VC1IV21RQkZJWXZCbmZmQW5xZ1drZzREUEFLUWt2VmFBZWYxZTk4YlptdVgxMUF3MF95NFVDclZnMTFsdDdEMzRGWGZFZ0HSAe8BQVVfeXFMTUZ5TjMxOXZkRVNJcTRsY1N3R2RfM1JfaVA0cmFxSTAwZjVxdThLVmpqY2xJeWc3TU1IaDNFN1ZFMmNGSkpVRWFJZlRlQlBkS0lrbGozWnhzUnhreVc0cE1lZWotbVlTaVZhVWhjUkc0SUN2bENlbWpkVVB0N2psREt6NGJvcTRncGxudkl0dW45S0kxem1LOHlCcy1MaDN6Nk5yWjA1bE1jNHRGYWZnVmFfd0U0aTBUWG5ZQW1LZHZmQVMzcmJlVWJkS2pnallPdjVKRnVoNkxUUlBaYU9DODlKdTZwR2o3MVBfUGNnUU0?oc=5)
 
@@ -62,27 +70,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Le remboursement des médicaments contre l'obésité Wegovy et Mounjaro débutera mi-juin, pour une population cible d'un million de personnes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHotblRhWE9pYlpGRVQ4TmJ3ODdORm9SNHRHX25KMXdMcGVvNnVfN1Z4OFdMTUpTc0dZTVYyNEhsR0hmekhOanIwZ29WRzJHV3UwcmNtWU9oNFNGNjdacXEwNVo2SmJfVmFzTW1XOXFNZThRMDlvY0JpODhkMXFwTHVvOWtLSDN6OUYwRFhlVmpRRER6UFphNGVNelVXdDJNVExEa1FDbUMzdER4ZnV5dW5uUjZkZV8zV014UTlmMzRDQl9haU5jcGpacHZLd3lHbzlaeG1YaENPdkIwSzBpQm43cmVIU3A5dmhZ?oc=5)
+### [Ozempic, Wegovy, Mounjaro... Quels sont les effets secondaires des médicaments anti-obésité bientôt remboursés en France ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
 
 2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHotblRhWE9pYlpGRVQ4TmJ3ODdORm9SNHRHX25KMXdMcGVvNnVfN1Z4OFdMTUpTc0dZTVYyNEhsR0hmekhOanIwZ29WRzJHV3UwcmNtWU9oNFNGNjdacXEwNVo2SmJfVmFzTW1XOXFNZThRMDlvY0JpODhkMXFwTHVvOWtLSDN6OUYwRFhlVmpRRER6UFphNGVNelVXdDJNVExEa1FDbUMzdER4ZnV5dW5uUjZkZV8zV014UTlmMzRDQl9haU5jcGpacHZLd3lHbzlaeG1YaENPdkIwSzBpQm43cmVIU3A5dmhZ?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
 
 ---
 
-### [Solución contra la obesidad o moda pasajera: el dilema de los medicamentos para adelgazar](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnkzak5kM2FpMzd3T0xyaEZ1VzlEbHVwc3V3cmFtdGZ0SWNjS09jQzNSUTJMYURvdmVTc096RG15cWVScE5vdUI0bWo5ZDk4OXd2OHZzc1U3LTBOZGFCN2dLV2FXNHpOQlRKcnlIeEJSelloWXFMY1BqS1FiUnJMT1U5TlNtS1BDUjZUNzVSUVlxcHdZRWFxcFB5SmhkNzZkc0RjZ9IBpAFBVV95cUxNTG5DN253blVLVnpnVkx4Sk9pLWRwZTZJTUlmUXlwZ1docWJpc0RhVE9KcnNQU1hFT0JnWjB4SEFieVhVVExZbTduSjIyOWNxTGZYMGV6THJBTUZ1RF9UMHdiakEzVFdNNmJYWDZSczZteEFtWEtIZnkwd0xlZHU5V0pWRk9lMVRCRzFBcWVjVk1RMllfYWlTQk90MmZ2Z28yM0VqcA?oc=5)
+### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">obesidad</span>
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnkzak5kM2FpMzd3T0xyaEZ1VzlEbHVwc3V3cmFtdGZ0SWNjS09jQzNSUTJMYURvdmVTc096RG15cWVScE5vdUI0bWo5ZDk4OXd2OHZzc1U3LTBOZGFCN2dLV2FXNHpOQlRKcnlIeEJSelloWXFMY1BqS1FiUnJMT1U5TlNtS1BDUjZUNzVSUVlxcHdZRWFxcFB5SmhkNzZkc0RjZ9IBpAFBVV95cUxNTG5DN253blVLVnpnVkx4Sk9pLWRwZTZJTUlmUXlwZ1docWJpc0RhVE9KcnNQU1hFT0JnWjB4SEFieVhVVExZbTduSjIyOWNxTGZYMGV6THJBTUZ1RF9UMHdiakEzVFdNNmJYWDZSczZteEFtWEtIZnkwd0xlZHU5V0pWRk9lMVRCRzFBcWVjVk1RMllfYWlTQk90MmZ2Z28yM0VqcA?oc=5)
-
----
-
-### [«Si l’on prend un traitement antidépresseur, on est plus à risque de faire un AVC» : le Pr Claire Mounier Vehier alerte sur le lien entre le cœur et la santé mentale - Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
-
-2026-05-28 <span class="news-indication-tag">AVC</span>
-
-來源：[Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 ---
 
@@ -91,22 +91,6 @@ permalink: /news/orlistat/
 2026-05-27 <span class="news-indication-tag">obesity</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
-
----
-
-### [Demenzprävention: Supplemente, Wearables und Politik treiben den Markt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
-
----
-
-### [Obésité : un nouveau médicament ciblé pourrait révolutionner la perte de poids !](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzl6M05CYmYxY3lMOXc4cmx4Nk1DN1l0SlNPY3ZZMHcyOHN0Q0JMLTdzWE54dDVneGtnaF8yY1lxbEYxOWlmaFc1ZV9mWUV3bTV4LVNtdUFPdUNUS3JEYWdQV2NSNjhRX1JqbUZHT0dBMWI1MExDUWV1NjViQTRYWFF6NkQ1YXZiVzVxS1ZGQXJfYVNTUHB2bXJXVDJZMkhwMVd6TUtNYkhIX3l2YjI3UjFGeVFYS3BP?oc=5)
-
-2026-05-26 <span class="news-indication-tag">obésité</span>
-
-來源：[PasseportSanté](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRzl6M05CYmYxY3lMOXc4cmx4Nk1DN1l0SlNPY3ZZMHcyOHN0Q0JMLTdzWE54dDVneGtnaF8yY1lxbEYxOWlmaFc1ZV9mWUV3bTV4LVNtdUFPdUNUS3JEYWdQV2NSNjhRX1JqbUZHT0dBMWI1MExDUWV1NjViQTRYWFF6NkQ1YXZiVzVxS1ZGQXJfYVNTUHB2bXJXVDJZMkhwMVd6TUtNYkhIX3l2YjI3UjFGeVFYS3BP?oc=5)
 
 ---
 

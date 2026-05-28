@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthme（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthme（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthme（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
+<strong>asthme（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,15 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Por qué los brotes de ébola y hantavirus han confundido a los científicos - The New York Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0l0R2xGNXdsN25TOVVxM1U3WFRLSGFGc3Q4RFlpenF5bmlSQkVVSUUzV2RQZ0RCOU1vTG5RQ2RKektnWHVzMGZoa09senVpbW5lbTFyNU5xU0ZZbEhMT0lrZkFVdkVDazYwazQ4TF95VkpNNko1RWVZbWZBV2Fma2lPS0xTTUtFUl9yaUl1OGhTM1FSSVE3blZNUW5jbXg0NEVOQXNablBSdw?oc=5)
-
-2026-05-28
-
-來源：[The New York Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0l0R2xGNXdsN25TOVVxM1U3WFRLSGFGc3Q4RFlpenF5bmlSQkVVSUUzV2RQZ0RCOU1vTG5RQ2RKektnWHVzMGZoa09senVpbW5lbTFyNU5xU0ZZbEhMT0lrZkFVdkVDazYwazQ4TF95VkpNNko1RWVZbWZBV2Fma2lPS0xTTUtFUl9yaUl1OGhTM1FSSVE3blZNUW5jbXg0NEVOQXNablBSdw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Pourquoi ce médicament contre l'asthme pourrait devenir une arme contre les cancers les plus agressifs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
 

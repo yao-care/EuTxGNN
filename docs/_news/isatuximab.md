@@ -14,7 +14,7 @@ permalink: /news/isatuximab/
 ---
 
 <p class="key-answer" data-question="Isatuximab 有什麼相關新聞？">
-<strong>Isatuximab</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isatuximab</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/isatuximab/
 <p><a href="{{ '/drugs/isatuximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（21 則）
+
+### [Cameron urges government to reject 'disappointing' prostate cancer screening guidance - Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkhGUHlKOFl0R1BYRUd4UkFkbHZWcWVKRGVrRkwxS3hMTW1KZllnUF9waE9fR1QydkZqZmhtOGhMcFczSHZVRU94NTVreHVpNW9nRzVGNThaTlB1ZG85UXVfQlk0RnZZQ3lQVUxDSVJ1UllyMVVleGRPV21SbHlsQXNEMlVKYnI2NjVqRXk3aVlUX3VhRXA3cXpJSng2elY3U09RSFZsZUMzZnNDR2EtOXhOTGJ0Z3JSRFRv?oc=5)
+
+2026-05-28 <span class="news-indication-tag">cancer</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkhGUHlKOFl0R1BYRUd4UkFkbHZWcWVKRGVrRkwxS3hMTW1KZllnUF9waE9fR1QydkZqZmhtOGhMcFczSHZVRU94NTVreHVpNW9nRzVGNThaTlB1ZG85UXVfQlk0RnZZQ3lQVUxDSVJ1UllyMVVleGRPV21SbHlsQXNEMlVKYnI2NjVqRXk3aVlUX3VhRXA3cXpJSng2elY3U09RSFZsZUMzZnNDR2EtOXhOTGJ0Z3JSRFRv?oc=5)
+
+---
+
+### [Cancer de la prostate : ce simple test pourrait réduire les décès de 13 %](https://news.google.com/rss/articles/CBMibEFVX3lxTE50aTZSMDRSZmxrMUgtM0ZpSkZOMzZHZWVfcEF1SVZnSE5TdTVnRV9Xd0xDNWhhM1VHeHBPOVlXNV9kTzBaUjZ5OTBFdDhkR09jVFQ1QTRHVFd6dmlmNzhjOUhuOF8wUTJ3cGtZVw?oc=5)
+
+2026-05-28 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTE50aTZSMDRSZmxrMUgtM0ZpSkZOMzZHZWVfcEF1SVZnSE5TdTVnRV9Xd0xDNWhhM1VHeHBPOVlXNV9kTzBaUjZ5OTBFdDhkR09jVFQ1QTRHVFd6dmlmNzhjOUhuOF8wUTJ3cGtZVw?oc=5)
+
+---
 
 ### [Darmkrebs vorbeugen: Forscher kommen zu überraschendem Ergebnis beim Stuhltest](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
 
@@ -70,27 +86,11 @@ permalink: /news/isatuximab/
 
 ---
 
-### [Lungenkrebs: Nach 45 Jahren Rauchen änderte ein einziger Arzttermin alles](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQU9fNDZkZzVPV2p0eU1LR2hOOHdlYnRzNS1kdEoyY2F0VWwzWTRBZG1ETjN0ZmRaV2dHOWlqWE1XS2F5ckhXZXJncUFCMW9SeVhfLThDU05NQXFXTEo5cVFMYjZqaElGNWc0MjR1RWg4T2UyeGx1azVNX2twMEpNTmtqdEZ1MWdPT2w0N2VKWWdiVXBCRXVabUl3eGp3VjVJRFIxel9PUUlNWTV1aG55c3NneWgxZ0NqV2hQRlgyNmdzeG1zSU04Tjk2TkExVGJ2RTRxUGJTdUk?oc=5)
+### [Tres biomarcadores determinan el pronóstico en el carcinoma seroso endometrial - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmpsd1pXZ1NQN2dUaWF3VHJ6bXdVZVZpaGtaYXAtcDRIWk0zWHd2NnZrNDFIbU9qX1hVWWlMcHlwa01xLXZLeEE1U1R0QWxJMVFoQldhekF3YTRHQkFlNkxVZDE0c3hwYnVNX1pPUUxRenZZTEt0cWhBTzc2aFFlNXBGcmxWaU82cE5KTFpVTlJfYkJWOU9jcDQ3eUp4VXczczdRY2djTUFKM09WdnNRbFFOTEY3WXUyWFNCZ2pnNGliZ9IBvAFBVV95cUxPQU1MNTRtSU1EMS1YVGtKc1V2Y1ZXUGhZWHN1SURndGZsbVNOU0FQZjd4eXpBd2FXZDFtOHRYVVhBM2txY2UtcE1KQTNQZXVNX0NKbl83OFp1VXQwb1FobjJrUFNncTdZeWt0U0s5M3QwS0RCajhZMzRROERqTnJWREpmRlZuUGRMRjV5aWFCZXA4VEEwQkpsMUcxOHFNN2NndGIzRkVwNmxZeWg4THVJUkptN0c2ZUpuNFdjRA?oc=5)
 
-2026-05-28 <span class="news-indication-tag">Krebs</span>
+2026-05-28 <span class="news-indication-tag">carcinoma</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQU9fNDZkZzVPV2p0eU1LR2hOOHdlYnRzNS1kdEoyY2F0VWwzWTRBZG1ETjN0ZmRaV2dHOWlqWE1XS2F5ckhXZXJncUFCMW9SeVhfLThDU05NQXFXTEo5cVFMYjZqaElGNWc0MjR1RWg4T2UyeGx1azVNX2twMEpNTmtqdEZ1MWdPT2w0N2VKWWdiVXBCRXVabUl3eGp3VjVJRFIxel9PUUlNWTV1aG55c3NneWgxZ0NqV2hQRlgyNmdzeG1zSU04Tjk2TkExVGJ2RTRxUGJTdUk?oc=5)
-
----
-
-### [Most UK men should not be offered prostate cancer screening, experts say - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTMwMnRSSkpIVDB5ZlhKYmpLX1lqUkRzMUJ2VlRCUmZXVVhYTGlpS1NiRGhEV3ZaS1pOWklUWFM1NUtQQmFZbnRsM21XTGVzRTBGSG5Ra2cyRi1DNWswbGtuY1ZSV3BaSkV4VEhfN01jdVcwZkc0bFZjd2cxMDZIVXFrNl91X0EzVjVRZ3Rwem85SGlWTlVBYWtB?oc=5)
-
-2026-05-28 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTMwMnRSSkpIVDB5ZlhKYmpLX1lqUkRzMUJ2VlRCUmZXVVhYTGlpS1NiRGhEV3ZaS1pOWklUWFM1NUtQQmFZbnRsM21XTGVzRTBGSG5Ra2cyRi1DNWswbGtuY1ZSV3BaSkV4VEhfN01jdVcwZkc0bFZjd2cxMDZIVXFrNl91X0EzVjVRZ3Rwem85SGlWTlVBYWtB?oc=5)
-
----
-
-### [Vom vermeintlichen Fleck zur neuen Sicht auf Metastasen](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaTZ1NE5BYV9Xb3ZtSzBUaDhLWU9VaHhHb2J4WkQ1MkNMZ01TZUZvRHYtVlF1eUl5bENzZ091b3BZdHVCeVVCbDU4WnlSem52VmRlVEZxSlJOR0tyTnp4V1JwR1VySnhDSWQ2bUhPSHpXd09CUTNnMUFidkoydDg4QS1tbkNEVW9nTk1NYkJ3TUExaE05ZFpZNjlvV3NRLTJKc19rTWZOamxyS0p5aUd5dTZFY2JYMDVvTE9DU09OWURJeC1FY1JzQnh4akkwMEg1MTU0M0k3NUU4RHFHM2Mw?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaTZ1NE5BYV9Xb3ZtSzBUaDhLWU9VaHhHb2J4WkQ1MkNMZ01TZUZvRHYtVlF1eUl5bENzZ091b3BZdHVCeVVCbDU4WnlSem52VmRlVEZxSlJOR0tyTnp4V1JwR1VySnhDSWQ2bUhPSHpXd09CUTNnMUFidkoydDg4QS1tbkNEVW9nTk1NYkJ3TUExaE05ZFpZNjlvV3NRLTJKc19rTWZOamxyS0p5aUd5dTZFY2JYMDVvTE9DU09OWURJeC1FY1JzQnh4akkwMEg1MTU0M0k3NUU4RHFHM2Mw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmpsd1pXZ1NQN2dUaWF3VHJ6bXdVZVZpaGtaYXAtcDRIWk0zWHd2NnZrNDFIbU9qX1hVWWlMcHlwa01xLXZLeEE1U1R0QWxJMVFoQldhekF3YTRHQkFlNkxVZDE0c3hwYnVNX1pPUUxRenZZTEt0cWhBTzc2aFFlNXBGcmxWaU82cE5KTFpVTlJfYkJWOU9jcDQ3eUp4VXczczdRY2djTUFKM09WdnNRbFFOTEY3WXUyWFNCZ2pnNGliZ9IBvAFBVV95cUxPQU1MNTRtSU1EMS1YVGtKc1V2Y1ZXUGhZWHN1SURndGZsbVNOU0FQZjd4eXpBd2FXZDFtOHRYVVhBM2txY2UtcE1KQTNQZXVNX0NKbl83OFp1VXQwb1FobjJrUFNncTdZeWt0U0s5M3QwS0RCajhZMzRROERqTnJWREpmRlZuUGRMRjV5aWFCZXA4VEEwQkpsMUcxOHFNN2NndGIzRkVwNmxZeWg4THVJUkptN0c2ZUpuNFdjRA?oc=5)
 
 ---
 
@@ -102,14 +102,6 @@ permalink: /news/isatuximab/
 
 ---
 
-### [Por qué los brotes de ébola y hantavirus han confundido a los científicos - The New York Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0l0R2xGNXdsN25TOVVxM1U3WFRLSGFGc3Q4RFlpenF5bmlSQkVVSUUzV2RQZ0RCOU1vTG5RQ2RKektnWHVzMGZoa09senVpbW5lbTFyNU5xU0ZZbEhMT0lrZkFVdkVDazYwazQ4TF95VkpNNko1RWVZbWZBV2Fma2lPS0xTTUtFUl9yaUl1OGhTM1FSSVE3blZNUW5jbXg0NEVOQXNablBSdw?oc=5)
-
-2026-05-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[The New York Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0l0R2xGNXdsN25TOVVxM1U3WFRLSGFGc3Q4RFlpenF5bmlSQkVVSUUzV2RQZ0RCOU1vTG5RQ2RKektnWHVzMGZoa09senVpbW5lbTFyNU5xU0ZZbEhMT0lrZkFVdkVDazYwazQ4TF95VkpNNko1RWVZbWZBV2Fma2lPS0xTTUtFUl9yaUl1OGhTM1FSSVE3blZNUW5jbXg0NEVOQXNablBSdw?oc=5)
-
----
-
 ### [Hautkrebs verrät sich über Wärme – Tattoo soll ihn früher erkennen - smart up news](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTFdnSTJDaUVUSXJGZV81SjRTdjlsM0pEMWlvRmJlNWhfMTk5U3M1WUU4YVlFRW1pTlZ4azMtUVdqUWw4dURtR0hhTllWUWhDUTVMWGJBY3Y1U191czljYW1mX3ZWR0wxUXFUSU50TTJQRC0xWTBhQXpoSURZSnVibjdIbllGWGg3a3hEMjNFV0hWdTlPRkI0S1ZiWXVjSi15dl8waW1uMFdfT0dI?oc=5)
 
 2026-05-28 <span class="news-indication-tag">Krebs</span>
@@ -118,11 +110,11 @@ permalink: /news/isatuximab/
 
 ---
 
-### [« Le patient doit être acteur de sa propre prévention » : à Lorient, une journée de prévention face au cancer de la peau](https://news.google.com/rss/articles/CBMikgJBVV95cUxPT1dRZXAzUDVpTlQ3c1pjNGpHbkxkX19DdVdWTnBrejc0NUdvbXkwUm1OUlRDOVVLaVkwVjI3SXdvYV9tLTNQMXFuNVdGOWF2MTFpdk9GblJBWGJDRjJWLWhrZ3Jzb3Z3T3ZCZjRjNWRUU015bVlkcUMydnlTb0VMZ1dwbnhCQmp1Yi02eUhmVW9tRWx4UXhDdVBiV0VhMmU4SFJnbGFKRU8yd18tMEg2MFlWeldfLXEtTFB3SXdEVnduekM0dUZjYVc4N21WZW9aTFdPc3RyT2dKaF9UNGpCR3k4TDNxQWlDZnBZYjNTMm5Gc3ZiZHdEZ1pTNEpfTWx3UjF4R093R2NJM21KUFFCd0Jn?oc=5)
+### [« Le patient doit être acteur de sa propre prévention » : à Lorient, une journée de - Ma Ville](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaWRjallQRW5TdWtLZm1vTXc0Qzdsd1pmWmVSa0lmS29YRXJ2Tkh5NjFxRHAtWkdMTHplRzEwLXdTTUg2dTA0Q2gwLVJrbGJ5NXZrSWZfWmtIUk5pSzlUbk5ISjN6SFZKMGNkLVM1YjR5aXppbzBHek1KN0NwS2dBbjBEaGhFS3gtYUZ1elMyQ2lVNzdCWERyZjE5N1ktZGVnaWQyMTFUZlNDSDRabTB5d0RhVUdVdThqQWlkWVN1MG5NVFBiZnBIdmlRUmVXd1FLLXYtY3lvRW56Ym1yaFBXUy1iejhWQnNwSEhTOHhnNklTakNyd2ZuSXU1RkxGbTJoVk1tNlFTWGlDUQ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">cancer</span>
 
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMikgJBVV95cUxPT1dRZXAzUDVpTlQ3c1pjNGpHbkxkX19DdVdWTnBrejc0NUdvbXkwUm1OUlRDOVVLaVkwVjI3SXdvYV9tLTNQMXFuNVdGOWF2MTFpdk9GblJBWGJDRjJWLWhrZ3Jzb3Z3T3ZCZjRjNWRUU015bVlkcUMydnlTb0VMZ1dwbnhCQmp1Yi02eUhmVW9tRWx4UXhDdVBiV0VhMmU4SFJnbGFKRU8yd18tMEg2MFlWeldfLXEtTFB3SXdEVnduekM0dUZjYVc4N21WZW9aTFdPc3RyT2dKaF9UNGpCR3k4TDNxQWlDZnBZYjNTMm5Gc3ZiZHdEZ1pTNEpfTWx3UjF4R093R2NJM21KUFFCd0Jn?oc=5)
+來源：[Ma Ville](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaWRjallQRW5TdWtLZm1vTXc0Qzdsd1pmWmVSa0lmS29YRXJ2Tkh5NjFxRHAtWkdMTHplRzEwLXdTTUg2dTA0Q2gwLVJrbGJ5NXZrSWZfWmtIUk5pSzlUbk5ISjN6SFZKMGNkLVM1YjR5aXppbzBHek1KN0NwS2dBbjBEaGhFS3gtYUZ1elMyQ2lVNzdCWERyZjE5N1ktZGVnaWQyMTFUZlNDSDRabTB5d0RhVUdVdThqQWlkWVN1MG5NVFBiZnBIdmlRUmVXd1FLLXYtY3lvRW56Ym1yaFBXUy1iejhWQnNwSEhTOHhnNklTakNyd2ZuSXU1RkxGbTJoVk1tNlFTWGlDUQ?oc=5)
 
 ---
 
@@ -134,11 +126,11 @@ permalink: /news/isatuximab/
 
 ---
 
-### [Blood testing is now included in screening recommendations for colon and rectal cancer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlwODN6SXNDV2o3djlBYVJ5WENMRFZyaHhiaTcwb0k3WnBUdWVlcDJ3YktYeGZDaDJQelpCMjNkamc3Q1IyOHhuOVBIX05wUl93QUZVS0dtdnQtX2thQmZJUzU0M3ExNGx4SHF1eHR5c016Uk5xMzRySnc4SlVJUDhYWVNMY0F4ZDRIeVNtZ1lNVGtsWFhYMHRzV1JCd0tfdnhYdGtpc2Y4YmFaRDFHbmtlQXMtOURfSjE4MDE5SV8?oc=5)
+### [Tumori: quali sono le novità più importanti che saranno presentate al congresso americano di oncologia a Chicago - Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcGYzTFZvaU45OEFuUm5RVHNRclNNQTU0MmFBa2c5UldoTUp6aFJkX0ItcjlDd1V5anVLbG10M2NxaWd5ckxMa3kwZUlzUVU2dkJSSWFFWjhnd1ZnclhoZ2xzN3VfTzN6SE1TZVVudzFVNGdXVmJKV2JqRlRLWmtvalVUamlFVmR2NHZGYTZMZjhPMlJoUXJZdXI4elhEMnpwZDdnd0dRYV9ndVRHUzIxc3N6WDBwQ3pKcEJsWEdFd0VSRkg3WXNKR00ta19WOG9sRV94VktPWGxyZE1pZjF1Ym5HQklJZDNFbDdDODN2V2ExSlM0NTgtTng5YnZ0cGlrbkhFSkVxTXFqZ1F2Tk1teTRqcmVjaWR5Q0JNd2NTSS01MlIzbTc3MWZ4b3p2MmRYbUd2cTZxZGhJNUXSAcACQVVfeXFMT1VwVndEZDAxOU00UlU0U0xyYWJrOGNFdzBYZUh6WjliQWVEeXlSM1d0Y0NlR3pHWFg0aHF4ZjJNNHFGdkVDcHc2cGFjVEhQUmJBMG5QSUFiWWVXLVVSUHhBWHNZd054YVMtdHdTM2pMV0xSWXllNGVSYlpmWExyRzF5clMwajBsTV9vSDI5SlRBSVo1dmRuZkttZXYzREtJVVY2S1pnWGo2NHBQX3pUeWZYanRwOHZVY0NrTnNsRXpPeGJ2bzZsTV90LWFEaVdYQkpHbkdsOVJBZ29MV1JTZTNVRV9ObVNsUUpsVUNaeWZ0cFE4OUxnaE91SzdwWEZrWDFMbjNfRjdEN1Z1VGF0dHlxMVJPN2RUZVgxd0FqeU9DSGlZVmpON3FOWGVRNGJhYWtOdHNBcGVnakhyLXBVM0w?oc=5)
 
-2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-05-28 <span class="news-indication-tag">tumor</span>
 
-來源：[KSL.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlwODN6SXNDV2o3djlBYVJ5WENMRFZyaHhiaTcwb0k3WnBUdWVlcDJ3YktYeGZDaDJQelpCMjNkamc3Q1IyOHhuOVBIX05wUl93QUZVS0dtdnQtX2thQmZJUzU0M3ExNGx4SHF1eHR5c016Uk5xMzRySnc4SlVJUDhYWVNMY0F4ZDRIeVNtZ1lNVGtsWFhYMHRzV1JCd0tfdnhYdGtpc2Y4YmFaRDFHbmtlQXMtOURfSjE4MDE5SV8?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcGYzTFZvaU45OEFuUm5RVHNRclNNQTU0MmFBa2c5UldoTUp6aFJkX0ItcjlDd1V5anVLbG10M2NxaWd5ckxMa3kwZUlzUVU2dkJSSWFFWjhnd1ZnclhoZ2xzN3VfTzN6SE1TZVVudzFVNGdXVmJKV2JqRlRLWmtvalVUamlFVmR2NHZGYTZMZjhPMlJoUXJZdXI4elhEMnpwZDdnd0dRYV9ndVRHUzIxc3N6WDBwQ3pKcEJsWEdFd0VSRkg3WXNKR00ta19WOG9sRV94VktPWGxyZE1pZjF1Ym5HQklJZDNFbDdDODN2V2ExSlM0NTgtTng5YnZ0cGlrbkhFSkVxTXFqZ1F2Tk1teTRqcmVjaWR5Q0JNd2NTSS01MlIzbTc3MWZ4b3p2MmRYbUd2cTZxZGhJNUXSAcACQVVfeXFMT1VwVndEZDAxOU00UlU0U0xyYWJrOGNFdzBYZUh6WjliQWVEeXlSM1d0Y0NlR3pHWFg0aHF4ZjJNNHFGdkVDcHc2cGFjVEhQUmJBMG5QSUFiWWVXLVVSUHhBWHNZd054YVMtdHdTM2pMV0xSWXllNGVSYlpmWExyRzF5clMwajBsTV9vSDI5SlRBSVo1dmRuZkttZXYzREtJVVY2S1pnWGo2NHBQX3pUeWZYanRwOHZVY0NrTnNsRXpPeGJ2bzZsTV90LWFEaVdYQkpHbkdsOVJBZ29MV1JTZTNVRV9ObVNsUUpsVUNaeWZ0cFE4OUxnaE91SzdwWEZrWDFMbjNfRjdEN1Z1VGF0dHlxMVJPN2RUZVgxd0FqeU9DSGlZVmpON3FOWGVRNGJhYWtOdHNBcGVnakhyLXBVM0w?oc=5)
 
 ---
 
@@ -158,19 +150,19 @@ permalink: /news/isatuximab/
 
 ---
 
+### [Could a pill prevent the world’s deadliest cancer?](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DeGQ4b2M2MWl1WE8zbW1MNU04djNkY2NtNzNJZ01NRGk3a3pVMHRGMHFvYmRzT3J1S1E4Z0ExdktQVk9LcjJIRG0zWUFWdUlSeTk5dEN5M0tYNy16VEN3?oc=5)
+
+2026-05-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DeGQ4b2M2MWl1WE8zbW1MNU04djNkY2NtNzNJZ01NRGk3a3pVMHRGMHFvYmRzT3J1S1E4Z0ExdktQVk9LcjJIRG0zWUFWdUlSeTk5dEN5M0tYNy16VEN3?oc=5)
+
+---
+
 ### [Près d'un tiers des soignants européens exposés à des risques de cancer au travail, selon une étude - Yahoo Actualités](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDJFZFhzRVVqTjhaaVB2Q0tVZXpOSU1DbTlrT1RqYjZFMHczNkZmZ29vZm5tU0dWdVdqWmdBWkFuM1A1TWt0elJ4WnBSd0Y3ZnRoZ0NhNnpoZ0otSU5CTy1iOVd4NkFPTGI2Z29IR3VzY2luVlBRdWpZRnZBVEQyYVpkNkJEY3o5bmpZZlZ4N2J0TFUxajVhVEhQcmZXUnhWNUJkcTNTTmdEa0hsWFhZbDZSWUxqR1AzTVpLQVpXNnR2VWlnYzdFWnFPbWk4aXV0NlZqeU4wWQ?oc=5)
 
 2026-05-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDJFZFhzRVVqTjhaaVB2Q0tVZXpOSU1DbTlrT1RqYjZFMHczNkZmZ29vZm5tU0dWdVdqWmdBWkFuM1A1TWt0elJ4WnBSd0Y3ZnRoZ0NhNnpoZ0otSU5CTy1iOVd4NkFPTGI2Z29IR3VzY2luVlBRdWpZRnZBVEQyYVpkNkJEY3o5bmpZZlZ4N2J0TFUxajVhVEhQcmZXUnhWNUJkcTNTTmdEa0hsWFhZbDZSWUxqR1AzTVpLQVpXNnR2VWlnYzdFWnFPbWk4aXV0NlZqeU4wWQ?oc=5)
-
----
-
-### [Cancer de la prostate : le dépistage systématique fait (un peu) baisser la mortalité - Le Figaro Santé](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdENhWmxBemx2YUpuRTF5SjFuNWl2RUJxRzRESEZPWmFvN0YwX3dsMkNjMVNfaHI2NUoxUTlBTDVKRkFXRHFQUjl1NVlxTXMtcHZyTV9JdzU0aWxjazFqUUtTYmI4YkFPSW8xTGNfMlpHLWdaQWRHUVlQbks4eGYzRldFVzB6LS03ai1zem5DMmVhY2Vha3ZWaVg5RHhwUXlrVkl5S09JcVRLMndrbmQwaGFuVlpPXzVEMmliV0JKSG9oZw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdENhWmxBemx2YUpuRTF5SjFuNWl2RUJxRzRESEZPWmFvN0YwX3dsMkNjMVNfaHI2NUoxUTlBTDVKRkFXRHFQUjl1NVlxTXMtcHZyTV9JdzU0aWxjazFqUUtTYmI4YkFPSW8xTGNfMlpHLWdaQWRHUVlQbks4eGYzRldFVzB6LS03ai1zem5DMmVhY2Vha3ZWaVg5RHhwUXlrVkl5S09JcVRLMndrbmQwaGFuVlpPXzVEMmliV0JKSG9oZw?oc=5)
 
 ---
 
@@ -190,11 +182,11 @@ permalink: /news/isatuximab/
 
 ---
 
-### [Pourquoi certains cancers sont pires que d’autres ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGtrZ2JFcGhKSHpiLTZIcVFtVXBWMzFoM2J6b1E4Z1paYTNTSkpvdEZzcWRPc2xybHVCNGhhMXJkZVQzQWJIQnhyMjQwQXp3V2RXZ2wyMGluY1JvaDVweGc1M1FsVElOanNlYUxLSVNzakZQOFhfLW9XSXVWeVc5emhRaDh5dWNUUGhNZkN5SE8ydzBIc2dlaV9IeGNJRWc?oc=5)
+### [Blood testing is now included in screening recommendations for colon and rectal cancer](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVpCT0dxaWFRZ0FxaFJjX1BSaWxnd2JCQkpHZER4UVVqaUcxSm1jX2ZzX2lqUlIzbUNDX0pOaHVBRDRhLUtMN1VvYjdYLVdaTFhKT3E3N0daT3pRWTB5eDBzaDlJLUJiWExMYzZQT25HaU9fM1FIWGUtZ3BIOXZtcnJQSF9XN2lXNFpucVBDNGtiLXc?oc=5)
 
 2026-05-27 <span class="news-indication-tag">cancer</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGtrZ2JFcGhKSHpiLTZIcVFtVXBWMzFoM2J6b1E4Z1paYTNTSkpvdEZzcWRPc2xybHVCNGhhMXJkZVQzQWJIQnhyMjQwQXp3V2RXZ2wyMGluY1JvaDVweGc1M1FsVElOanNlYUxLSVNzakZQOFhfLW9XSXVWeVc5emhRaDh5dWNUUGhNZkN5SE8ydzBIc2dlaV9IeGNJRWc?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVpCT0dxaWFRZ0FxaFJjX1BSaWxnd2JCQkpHZER4UVVqaUcxSm1jX2ZzX2lqUlIzbUNDX0pOaHVBRDRhLUtMN1VvYjdYLVdaTFhKT3E3N0daT3pRWTB5eDBzaDlJLUJiWExMYzZQT25HaU9fM1FIWGUtZ3BIOXZtcnJQSF9XN2lXNFpucVBDNGtiLXc?oc=5)
 
 ---
 

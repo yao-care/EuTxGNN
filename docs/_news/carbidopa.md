@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Daily drug taken by millions found to increase risk of dementia by 33%](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
+
+2026-05-28 <span class="news-indication-tag">dementia</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
+
+---
+
+### [AI maps brain waste-clearing flow, revealing two speeds tied to deep sleep - Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE5ia2VvYWJlYjRCckNkeU9KLTBLTHZCUUUyb1pFcTIxUFZBRUZCTWFFZXk5RnN2NE16VXNlSDVwTkxTSVFfendoRkY2NHB6MHhWTmxsUjlwZHdKeGdrZm1wa183WjA2S09MZVhDN0ZieGY2SWI2MWc?oc=5)
+
+2026-05-27 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE5ia2VvYWJlYjRCckNkeU9KLTBLTHZCUUUyb1pFcTIxUFZBRUZCTWFFZXk5RnN2NE16VXNlSDVwTkxTSVFfendoRkY2NHB6MHhWTmxsUjlwZHdKeGdrZm1wa183WjA2S09MZVhDN0ZieGY2SWI2MWc?oc=5)
+
+---
 
 
 <div class="disclaimer">

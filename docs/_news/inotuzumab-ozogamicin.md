@@ -14,7 +14,7 @@ permalink: /news/inotuzumab-ozogamicin/
 ---
 
 <p class="key-answer" data-question="Inotuzumab Ozogamicin 有什麼相關新聞？">
-<strong>Inotuzumab Ozogamicin</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inotuzumab Ozogamicin</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/inotuzumab-ozogamicin/
 <p><a href="{{ '/drugs/inotuzumab-ozogamicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（27 則）
 
-### [El HUCA elabora la primera guía asturiana para personas con diabetes sobre el uso de sistemas automáticos de infusión de insulina - El HUCA elabora la primera guía asturiana para personas con diabetes sobre el uso de sistemas automáticos de infusión d - Principado de Asturias](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3BkU0ZuTFFvQmd6WHgtMmNoUzU1TERlcEpRbWJNWDJGUmFSOVJPSnB0WUpvS0lEZlZVTHkyN1FMOVo0WTVMOWhkalF1VWpwU0pXLWpmbXhhdkJwTzJCRmZqY3RoWG5Tczk2QW1CTQ?oc=5)
+### [Cameron urges government to reject 'disappointing' prostate cancer screening guidance - Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkhGUHlKOFl0R1BYRUd4UkFkbHZWcWVKRGVrRkwxS3hMTW1KZllnUF9waE9fR1QydkZqZmhtOGhMcFczSHZVRU94NTVreHVpNW9nRzVGNThaTlB1ZG85UXVfQlk0RnZZQ3lQVUxDSVJ1UllyMVVleGRPV21SbHlsQXNEMlVKYnI2NjVqRXk3aVlUX3VhRXA3cXpJSng2elY3U09RSFZsZUMzZnNDR2EtOXhOTGJ0Z3JSRFRv?oc=5)
 
-2026-05-28 <span class="news-indication-tag">diabetes</span>
+2026-05-28 <span class="news-indication-tag">cancer</span>
 
-來源：[Principado de Asturias](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3BkU0ZuTFFvQmd6WHgtMmNoUzU1TERlcEpRbWJNWDJGUmFSOVJPSnB0WUpvS0lEZlZVTHkyN1FMOVo0WTVMOWhkalF1VWpwU0pXLWpmbXhhdkJwTzJCRmZqY3RoWG5Tczk2QW1CTQ?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkhGUHlKOFl0R1BYRUd4UkFkbHZWcWVKRGVrRkwxS3hMTW1KZllnUF9waE9fR1QydkZqZmhtOGhMcFczSHZVRU94NTVreHVpNW9nRzVGNThaTlB1ZG85UXVfQlk0RnZZQ3lQVUxDSVJ1UllyMVVleGRPV21SbHlsQXNEMlVKYnI2NjVqRXk3aVlUX3VhRXA3cXpJSng2elY3U09RSFZsZUMzZnNDR2EtOXhOTGJ0Z3JSRFRv?oc=5)
+
+---
+
+### [Cancer de la prostate : ce simple test pourrait réduire les décès de 13 %](https://news.google.com/rss/articles/CBMibEFVX3lxTE50aTZSMDRSZmxrMUgtM0ZpSkZOMzZHZWVfcEF1SVZnSE5TdTVnRV9Xd0xDNWhhM1VHeHBPOVlXNV9kTzBaUjZ5OTBFdDhkR09jVFQ1QTRHVFd6dmlmNzhjOUhuOF8wUTJ3cGtZVw?oc=5)
+
+2026-05-28 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTE50aTZSMDRSZmxrMUgtM0ZpSkZOMzZHZWVfcEF1SVZnSE5TdTVnRV9Xd0xDNWhhM1VHeHBPOVlXNV9kTzBaUjZ5OTBFdDhkR09jVFQ1QTRHVFd6dmlmNzhjOUhuOF8wUTJ3cGtZVw?oc=5)
 
 ---
 
@@ -78,27 +86,11 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Lungenkrebs: Nach 45 Jahren Rauchen änderte ein einziger Arzttermin alles](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQU9fNDZkZzVPV2p0eU1LR2hOOHdlYnRzNS1kdEoyY2F0VWwzWTRBZG1ETjN0ZmRaV2dHOWlqWE1XS2F5ckhXZXJncUFCMW9SeVhfLThDU05NQXFXTEo5cVFMYjZqaElGNWc0MjR1RWg4T2UyeGx1azVNX2twMEpNTmtqdEZ1MWdPT2w0N2VKWWdiVXBCRXVabUl3eGp3VjVJRFIxel9PUUlNWTV1aG55c3NneWgxZ0NqV2hQRlgyNmdzeG1zSU04Tjk2TkExVGJ2RTRxUGJTdUk?oc=5)
+### [Tres biomarcadores determinan el pronóstico en el carcinoma seroso endometrial - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmpsd1pXZ1NQN2dUaWF3VHJ6bXdVZVZpaGtaYXAtcDRIWk0zWHd2NnZrNDFIbU9qX1hVWWlMcHlwa01xLXZLeEE1U1R0QWxJMVFoQldhekF3YTRHQkFlNkxVZDE0c3hwYnVNX1pPUUxRenZZTEt0cWhBTzc2aFFlNXBGcmxWaU82cE5KTFpVTlJfYkJWOU9jcDQ3eUp4VXczczdRY2djTUFKM09WdnNRbFFOTEY3WXUyWFNCZ2pnNGliZ9IBvAFBVV95cUxPQU1MNTRtSU1EMS1YVGtKc1V2Y1ZXUGhZWHN1SURndGZsbVNOU0FQZjd4eXpBd2FXZDFtOHRYVVhBM2txY2UtcE1KQTNQZXVNX0NKbl83OFp1VXQwb1FobjJrUFNncTdZeWt0U0s5M3QwS0RCajhZMzRROERqTnJWREpmRlZuUGRMRjV5aWFCZXA4VEEwQkpsMUcxOHFNN2NndGIzRkVwNmxZeWg4THVJUkptN0c2ZUpuNFdjRA?oc=5)
 
-2026-05-28 <span class="news-indication-tag">Krebs</span>
+2026-05-28 <span class="news-indication-tag">carcinoma</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQU9fNDZkZzVPV2p0eU1LR2hOOHdlYnRzNS1kdEoyY2F0VWwzWTRBZG1ETjN0ZmRaV2dHOWlqWE1XS2F5ckhXZXJncUFCMW9SeVhfLThDU05NQXFXTEo5cVFMYjZqaElGNWc0MjR1RWg4T2UyeGx1azVNX2twMEpNTmtqdEZ1MWdPT2w0N2VKWWdiVXBCRXVabUl3eGp3VjVJRFIxel9PUUlNWTV1aG55c3NneWgxZ0NqV2hQRlgyNmdzeG1zSU04Tjk2TkExVGJ2RTRxUGJTdUk?oc=5)
-
----
-
-### [Most UK men should not be offered prostate cancer screening, experts say - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTMwMnRSSkpIVDB5ZlhKYmpLX1lqUkRzMUJ2VlRCUmZXVVhYTGlpS1NiRGhEV3ZaS1pOWklUWFM1NUtQQmFZbnRsM21XTGVzRTBGSG5Ra2cyRi1DNWswbGtuY1ZSV3BaSkV4VEhfN01jdVcwZkc0bFZjd2cxMDZIVXFrNl91X0EzVjVRZ3Rwem85SGlWTlVBYWtB?oc=5)
-
-2026-05-28 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTMwMnRSSkpIVDB5ZlhKYmpLX1lqUkRzMUJ2VlRCUmZXVVhYTGlpS1NiRGhEV3ZaS1pOWklUWFM1NUtQQmFZbnRsM21XTGVzRTBGSG5Ra2cyRi1DNWswbGtuY1ZSV3BaSkV4VEhfN01jdVcwZkc0bFZjd2cxMDZIVXFrNl91X0EzVjVRZ3Rwem85SGlWTlVBYWtB?oc=5)
-
----
-
-### [Vom vermeintlichen Fleck zur neuen Sicht auf Metastasen](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaTZ1NE5BYV9Xb3ZtSzBUaDhLWU9VaHhHb2J4WkQ1MkNMZ01TZUZvRHYtVlF1eUl5bENzZ091b3BZdHVCeVVCbDU4WnlSem52VmRlVEZxSlJOR0tyTnp4V1JwR1VySnhDSWQ2bUhPSHpXd09CUTNnMUFidkoydDg4QS1tbkNEVW9nTk1NYkJ3TUExaE05ZFpZNjlvV3NRLTJKc19rTWZOamxyS0p5aUd5dTZFY2JYMDVvTE9DU09OWURJeC1FY1JzQnh4akkwMEg1MTU0M0k3NUU4RHFHM2Mw?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaTZ1NE5BYV9Xb3ZtSzBUaDhLWU9VaHhHb2J4WkQ1MkNMZ01TZUZvRHYtVlF1eUl5bENzZ091b3BZdHVCeVVCbDU4WnlSem52VmRlVEZxSlJOR0tyTnp4V1JwR1VySnhDSWQ2bUhPSHpXd09CUTNnMUFidkoydDg4QS1tbkNEVW9nTk1NYkJ3TUExaE05ZFpZNjlvV3NRLTJKc19rTWZOamxyS0p5aUd5dTZFY2JYMDVvTE9DU09OWURJeC1FY1JzQnh4akkwMEg1MTU0M0k3NUU4RHFHM2Mw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmpsd1pXZ1NQN2dUaWF3VHJ6bXdVZVZpaGtaYXAtcDRIWk0zWHd2NnZrNDFIbU9qX1hVWWlMcHlwa01xLXZLeEE1U1R0QWxJMVFoQldhekF3YTRHQkFlNkxVZDE0c3hwYnVNX1pPUUxRenZZTEt0cWhBTzc2aFFlNXBGcmxWaU82cE5KTFpVTlJfYkJWOU9jcDQ3eUp4VXczczdRY2djTUFKM09WdnNRbFFOTEY3WXUyWFNCZ2pnNGliZ9IBvAFBVV95cUxPQU1MNTRtSU1EMS1YVGtKc1V2Y1ZXUGhZWHN1SURndGZsbVNOU0FQZjd4eXpBd2FXZDFtOHRYVVhBM2txY2UtcE1KQTNQZXVNX0NKbl83OFp1VXQwb1FobjJrUFNncTdZeWt0U0s5M3QwS0RCajhZMzRROERqTnJWREpmRlZuUGRMRjV5aWFCZXA4VEEwQkpsMUcxOHFNN2NndGIzRkVwNmxZeWg4THVJUkptN0c2ZUpuNFdjRA?oc=5)
 
 ---
 
@@ -118,11 +110,11 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [« Le patient doit être acteur de sa propre prévention » : à Lorient, une journée de prévention face au cancer de la peau](https://news.google.com/rss/articles/CBMikgJBVV95cUxPT1dRZXAzUDVpTlQ3c1pjNGpHbkxkX19DdVdWTnBrejc0NUdvbXkwUm1OUlRDOVVLaVkwVjI3SXdvYV9tLTNQMXFuNVdGOWF2MTFpdk9GblJBWGJDRjJWLWhrZ3Jzb3Z3T3ZCZjRjNWRUU015bVlkcUMydnlTb0VMZ1dwbnhCQmp1Yi02eUhmVW9tRWx4UXhDdVBiV0VhMmU4SFJnbGFKRU8yd18tMEg2MFlWeldfLXEtTFB3SXdEVnduekM0dUZjYVc4N21WZW9aTFdPc3RyT2dKaF9UNGpCR3k4TDNxQWlDZnBZYjNTMm5Gc3ZiZHdEZ1pTNEpfTWx3UjF4R093R2NJM21KUFFCd0Jn?oc=5)
+### [« Le patient doit être acteur de sa propre prévention » : à Lorient, une journée de - Ma Ville](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaWRjallQRW5TdWtLZm1vTXc0Qzdsd1pmWmVSa0lmS29YRXJ2Tkh5NjFxRHAtWkdMTHplRzEwLXdTTUg2dTA0Q2gwLVJrbGJ5NXZrSWZfWmtIUk5pSzlUbk5ISjN6SFZKMGNkLVM1YjR5aXppbzBHek1KN0NwS2dBbjBEaGhFS3gtYUZ1elMyQ2lVNzdCWERyZjE5N1ktZGVnaWQyMTFUZlNDSDRabTB5d0RhVUdVdThqQWlkWVN1MG5NVFBiZnBIdmlRUmVXd1FLLXYtY3lvRW56Ym1yaFBXUy1iejhWQnNwSEhTOHhnNklTakNyd2ZuSXU1RkxGbTJoVk1tNlFTWGlDUQ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">cancer</span>
 
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMikgJBVV95cUxPT1dRZXAzUDVpTlQ3c1pjNGpHbkxkX19DdVdWTnBrejc0NUdvbXkwUm1OUlRDOVVLaVkwVjI3SXdvYV9tLTNQMXFuNVdGOWF2MTFpdk9GblJBWGJDRjJWLWhrZ3Jzb3Z3T3ZCZjRjNWRUU015bVlkcUMydnlTb0VMZ1dwbnhCQmp1Yi02eUhmVW9tRWx4UXhDdVBiV0VhMmU4SFJnbGFKRU8yd18tMEg2MFlWeldfLXEtTFB3SXdEVnduekM0dUZjYVc4N21WZW9aTFdPc3RyT2dKaF9UNGpCR3k4TDNxQWlDZnBZYjNTMm5Gc3ZiZHdEZ1pTNEpfTWx3UjF4R093R2NJM21KUFFCd0Jn?oc=5)
+來源：[Ma Ville](https://news.google.com/rss/articles/CBMiigJBVV95cUxOaWRjallQRW5TdWtLZm1vTXc0Qzdsd1pmWmVSa0lmS29YRXJ2Tkh5NjFxRHAtWkdMTHplRzEwLXdTTUg2dTA0Q2gwLVJrbGJ5NXZrSWZfWmtIUk5pSzlUbk5ISjN6SFZKMGNkLVM1YjR5aXppbzBHek1KN0NwS2dBbjBEaGhFS3gtYUZ1elMyQ2lVNzdCWERyZjE5N1ktZGVnaWQyMTFUZlNDSDRabTB5d0RhVUdVdThqQWlkWVN1MG5NVFBiZnBIdmlRUmVXd1FLLXYtY3lvRW56Ym1yaFBXUy1iejhWQnNwSEhTOHhnNklTakNyd2ZuSXU1RkxGbTJoVk1tNlFTWGlDUQ?oc=5)
 
 ---
 
@@ -142,11 +134,19 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Parodontitis: Zahnfleischentzündung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3dZcHhldVU3RXc5OExZYkd1b3dVQkJFaTgxU1JydUkwaFZzLTBQQVo0MWN4Y21FNE9WQXZMb0pDVER0THBmUkwxSnl1dTZ2ZTg4SGY0QUY0MVlTZnR3Nm9vRHRUSkZIVERROG5ucjVrWUxOTVMwTGVyRHpFRHRRdU8tQkJ5OFpwUzJBUXE5MWhmN2VNSkZFTzNOQ3QxbDE2MlRvSXk3d3NUTm1aa2xZUDNpZjQ?oc=5)
+### [Tumori: quali sono le novità più importanti che saranno presentate al congresso americano di oncologia a Chicago - Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcGYzTFZvaU45OEFuUm5RVHNRclNNQTU0MmFBa2c5UldoTUp6aFJkX0ItcjlDd1V5anVLbG10M2NxaWd5ckxMa3kwZUlzUVU2dkJSSWFFWjhnd1ZnclhoZ2xzN3VfTzN6SE1TZVVudzFVNGdXVmJKV2JqRlRLWmtvalVUamlFVmR2NHZGYTZMZjhPMlJoUXJZdXI4elhEMnpwZDdnd0dRYV9ndVRHUzIxc3N6WDBwQ3pKcEJsWEdFd0VSRkg3WXNKR00ta19WOG9sRV94VktPWGxyZE1pZjF1Ym5HQklJZDNFbDdDODN2V2ExSlM0NTgtTng5YnZ0cGlrbkhFSkVxTXFqZ1F2Tk1teTRqcmVjaWR5Q0JNd2NTSS01MlIzbTc3MWZ4b3p2MmRYbUd2cTZxZGhJNUXSAcACQVVfeXFMT1VwVndEZDAxOU00UlU0U0xyYWJrOGNFdzBYZUh6WjliQWVEeXlSM1d0Y0NlR3pHWFg0aHF4ZjJNNHFGdkVDcHc2cGFjVEhQUmJBMG5QSUFiWWVXLVVSUHhBWHNZd054YVMtdHdTM2pMV0xSWXllNGVSYlpmWExyRzF5clMwajBsTV9vSDI5SlRBSVo1dmRuZkttZXYzREtJVVY2S1pnWGo2NHBQX3pUeWZYanRwOHZVY0NrTnNsRXpPeGJ2bzZsTV90LWFEaVdYQkpHbkdsOVJBZ29MV1JTZTNVRV9ObVNsUUpsVUNaeWZ0cFE4OUxnaE91SzdwWEZrWDFMbjNfRjdEN1Z1VGF0dHlxMVJPN2RUZVgxd0FqeU9DSGlZVmpON3FOWGVRNGJhYWtOdHNBcGVnakhyLXBVM0w?oc=5)
 
-2026-05-27 <span class="news-indication-tag">diabetes</span>
+2026-05-28 <span class="news-indication-tag">tumor</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3dZcHhldVU3RXc5OExZYkd1b3dVQkJFaTgxU1JydUkwaFZzLTBQQVo0MWN4Y21FNE9WQXZMb0pDVER0THBmUkwxSnl1dTZ2ZTg4SGY0QUY0MVlTZnR3Nm9vRHRUSkZIVERROG5ucjVrWUxOTVMwTGVyRHpFRHRRdU8tQkJ5OFpwUzJBUXE5MWhmN2VNSkZFTzNOQ3QxbDE2MlRvSXk3d3NUTm1aa2xZUDNpZjQ?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcGYzTFZvaU45OEFuUm5RVHNRclNNQTU0MmFBa2c5UldoTUp6aFJkX0ItcjlDd1V5anVLbG10M2NxaWd5ckxMa3kwZUlzUVU2dkJSSWFFWjhnd1ZnclhoZ2xzN3VfTzN6SE1TZVVudzFVNGdXVmJKV2JqRlRLWmtvalVUamlFVmR2NHZGYTZMZjhPMlJoUXJZdXI4elhEMnpwZDdnd0dRYV9ndVRHUzIxc3N6WDBwQ3pKcEJsWEdFd0VSRkg3WXNKR00ta19WOG9sRV94VktPWGxyZE1pZjF1Ym5HQklJZDNFbDdDODN2V2ExSlM0NTgtTng5YnZ0cGlrbkhFSkVxTXFqZ1F2Tk1teTRqcmVjaWR5Q0JNd2NTSS01MlIzbTc3MWZ4b3p2MmRYbUd2cTZxZGhJNUXSAcACQVVfeXFMT1VwVndEZDAxOU00UlU0U0xyYWJrOGNFdzBYZUh6WjliQWVEeXlSM1d0Y0NlR3pHWFg0aHF4ZjJNNHFGdkVDcHc2cGFjVEhQUmJBMG5QSUFiWWVXLVVSUHhBWHNZd054YVMtdHdTM2pMV0xSWXllNGVSYlpmWExyRzF5clMwajBsTV9vSDI5SlRBSVo1dmRuZkttZXYzREtJVVY2S1pnWGo2NHBQX3pUeWZYanRwOHZVY0NrTnNsRXpPeGJ2bzZsTV90LWFEaVdYQkpHbkdsOVJBZ29MV1JTZTNVRV9ObVNsUUpsVUNaeWZ0cFE4OUxnaE91SzdwWEZrWDFMbjNfRjdEN1Z1VGF0dHlxMVJPN2RUZVgxd0FqeU9DSGlZVmpON3FOWGVRNGJhYWtOdHNBcGVnakhyLXBVM0w?oc=5)
+
+---
+
+### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
+
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 ---
 
@@ -155,14 +155,6 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-05-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
-
----
-
-### [Blood testing is now included in screening recommendations for colon and rectal cancer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlwODN6SXNDV2o3djlBYVJ5WENMRFZyaHhiaTcwb0k3WnBUdWVlcDJ3YktYeGZDaDJQelpCMjNkamc3Q1IyOHhuOVBIX05wUl93QUZVS0dtdnQtX2thQmZJUzU0M3ExNGx4SHF1eHR5c016Uk5xMzRySnc4SlVJUDhYWVNMY0F4ZDRIeVNtZ1lNVGtsWFhYMHRzV1JCd0tfdnhYdGtpc2Y4YmFaRDFHbmtlQXMtOURfSjE4MDE5SV8?oc=5)
-
-2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[KSL.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlwODN6SXNDV2o3djlBYVJ5WENMRFZyaHhiaTcwb0k3WnBUdWVlcDJ3YktYeGZDaDJQelpCMjNkamc3Q1IyOHhuOVBIX05wUl93QUZVS0dtdnQtX2thQmZJUzU0M3ExNGx4SHF1eHR5c016Uk5xMzRySnc4SlVJUDhYWVNMY0F4ZDRIeVNtZ1lNVGtsWFhYMHRzV1JCd0tfdnhYdGtpc2Y4YmFaRDFHbmtlQXMtOURfSjE4MDE5SV8?oc=5)
 
 ---
 
@@ -182,11 +174,11 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Remission des Prädiabetes durch Gewichtsabnahme verläuft geschlechtsspezifisch – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
+### [Could a pill prevent the world’s deadliest cancer?](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DeGQ4b2M2MWl1WE8zbW1MNU04djNkY2NtNzNJZ01NRGk3a3pVMHRGMHFvYmRzT3J1S1E4Z0ExdktQVk9LcjJIRG0zWUFWdUlSeTk5dEN5M0tYNy16VEN3?oc=5)
 
-2026-05-27 <span class="news-indication-tag">diabetes</span>
+2026-05-27 <span class="news-indication-tag">cancer</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DeGQ4b2M2MWl1WE8zbW1MNU04djNkY2NtNzNJZ01NRGk3a3pVMHRGMHFvYmRzT3J1S1E4Z0ExdktQVk9LcjJIRG0zWUFWdUlSeTk5dEN5M0tYNy16VEN3?oc=5)
 
 ---
 
@@ -195,14 +187,6 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-05-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDJFZFhzRVVqTjhaaVB2Q0tVZXpOSU1DbTlrT1RqYjZFMHczNkZmZ29vZm5tU0dWdVdqWmdBWkFuM1A1TWt0elJ4WnBSd0Y3ZnRoZ0NhNnpoZ0otSU5CTy1iOVd4NkFPTGI2Z29IR3VzY2luVlBRdWpZRnZBVEQyYVpkNkJEY3o5bmpZZlZ4N2J0TFUxajVhVEhQcmZXUnhWNUJkcTNTTmdEa0hsWFhZbDZSWUxqR1AzTVpLQVpXNnR2VWlnYzdFWnFPbWk4aXV0NlZqeU4wWQ?oc=5)
-
----
-
-### [Cancer de la prostate : le dépistage systématique fait (un peu) baisser la mortalité - Le Figaro Santé](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdENhWmxBemx2YUpuRTF5SjFuNWl2RUJxRzRESEZPWmFvN0YwX3dsMkNjMVNfaHI2NUoxUTlBTDVKRkFXRHFQUjl1NVlxTXMtcHZyTV9JdzU0aWxjazFqUUtTYmI4YkFPSW8xTGNfMlpHLWdaQWRHUVlQbks4eGYzRldFVzB6LS03ai1zem5DMmVhY2Vha3ZWaVg5RHhwUXlrVkl5S09JcVRLMndrbmQwaGFuVlpPXzVEMmliV0JKSG9oZw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdENhWmxBemx2YUpuRTF5SjFuNWl2RUJxRzRESEZPWmFvN0YwX3dsMkNjMVNfaHI2NUoxUTlBTDVKRkFXRHFQUjl1NVlxTXMtcHZyTV9JdzU0aWxjazFqUUtTYmI4YkFPSW8xTGNfMlpHLWdaQWRHUVlQbks4eGYzRldFVzB6LS03ai1zem5DMmVhY2Vha3ZWaVg5RHhwUXlrVkl5S09JcVRLMndrbmQwaGFuVlpPXzVEMmliV0JKSG9oZw?oc=5)
 
 ---
 
@@ -230,11 +214,19 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Pourquoi certains cancers sont pires que d’autres ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGtrZ2JFcGhKSHpiLTZIcVFtVXBWMzFoM2J6b1E4Z1paYTNTSkpvdEZzcWRPc2xybHVCNGhhMXJkZVQzQWJIQnhyMjQwQXp3V2RXZ2wyMGluY1JvaDVweGc1M1FsVElOanNlYUxLSVNzakZQOFhfLW9XSXVWeVc5emhRaDh5dWNUUGhNZkN5SE8ydzBIc2dlaV9IeGNJRWc?oc=5)
+### [Blood testing is now included in screening recommendations for colon and rectal cancer](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVpCT0dxaWFRZ0FxaFJjX1BSaWxnd2JCQkpHZER4UVVqaUcxSm1jX2ZzX2lqUlIzbUNDX0pOaHVBRDRhLUtMN1VvYjdYLVdaTFhKT3E3N0daT3pRWTB5eDBzaDlJLUJiWExMYzZQT25HaU9fM1FIWGUtZ3BIOXZtcnJQSF9XN2lXNFpucVBDNGtiLXc?oc=5)
 
 2026-05-27 <span class="news-indication-tag">cancer</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGtrZ2JFcGhKSHpiLTZIcVFtVXBWMzFoM2J6b1E4Z1paYTNTSkpvdEZzcWRPc2xybHVCNGhhMXJkZVQzQWJIQnhyMjQwQXp3V2RXZ2wyMGluY1JvaDVweGc1M1FsVElOanNlYUxLSVNzakZQOFhfLW9XSXVWeVc5emhRaDh5dWNUUGhNZkN5SE8ydzBIc2dlaV9IeGNJRWc?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVpCT0dxaWFRZ0FxaFJjX1BSaWxnd2JCQkpHZER4UVVqaUcxSm1jX2ZzX2lqUlIzbUNDX0pOaHVBRDRhLUtMN1VvYjdYLVdaTFhKT3E3N0daT3pRWTB5eDBzaDlJLUJiWExMYzZQT25HaU9fM1FIWGUtZ3BIOXZtcnJQSF9XN2lXNFpucVBDNGtiLXc?oc=5)
+
+---
+
+### [Parodontitis 2025/26: Neue Daten koppeln Entzündung mit Herz, Diabetes und Demenz - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
 
 ---
 
@@ -243,14 +235,6 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-05-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSUV1VTNxR3ZiVnBwZHFwUG9oaGpneWhxVFNnZkE0dmNlZW1aNF9uM2hnLXJHbGhSLTJvNXNMT1hwT1BKWnB3X3RuajRaSmJXZ1VuZmtGX1hEM0Y3SzduVkpkc1A3czJhYU95aFpBZ2dRenRhSWZoRms5TG9RSXIyNHQyNkNjTm9TbkVDM1F3NWx5bzlMWkd4dnF1WWdJWEVQZU5hb1ZFYTl0QU9td1RZMzVyeUh0TUgwX1Jia0dNcFpmUmlHQ0dIWU1zMGRldlBH?oc=5)
-
----
-
-### [Demenzprävention: Supplemente, Wearables und Politik treiben den Markt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
 
 ---
 

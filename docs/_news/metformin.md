@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
-
-### [El HUCA elabora la primera guía asturiana para personas con diabetes sobre el uso de sistemas automáticos de infusión de insulina - El HUCA elabora la primera guía asturiana para personas con diabetes sobre el uso de sistemas automáticos de infusión d - Principado de Asturias](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3BkU0ZuTFFvQmd6WHgtMmNoUzU1TERlcEpRbWJNWDJGUmFSOVJPSnB0WUpvS0lEZlZVTHkyN1FMOVo0WTVMOWhkalF1VWpwU0pXLWpmbXhhdkJwTzJCRmZqY3RoWG5Tczk2QW1CTQ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[Principado de Asturias](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3BkU0ZuTFFvQmd6WHgtMmNoUzU1TERlcEpRbWJNWDJGUmFSOVJPSnB0WUpvS0lEZlZVTHkyN1FMOVo0WTVMOWhkalF1VWpwU0pXLWpmbXhhdkJwTzJCRmZqY3RoWG5Tczk2QW1CTQ?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [Type 2 diabetes rising rapidly in young women - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Parodontitis: Zahnfleischentzündung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3dZcHhldVU3RXc5OExZYkd1b3dVQkJFaTgxU1JydUkwaFZzLTBQQVo0MWN4Y21FNE9WQXZMb0pDVER0THBmUkwxSnl1dTZ2ZTg4SGY0QUY0MVlTZnR3Nm9vRHRUSkZIVERROG5ucjVrWUxOTVMwTGVyRHpFRHRRdU8tQkJ5OFpwUzJBUXE5MWhmN2VNSkZFTzNOQ3QxbDE2MlRvSXk3d3NUTm1aa2xZUDNpZjQ?oc=5)
+### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
-2026-05-27 <span class="news-indication-tag">diabetes</span>
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3dZcHhldVU3RXc5OExZYkd1b3dVQkJFaTgxU1JydUkwaFZzLTBQQVo0MWN4Y21FNE9WQXZMb0pDVER0THBmUkwxSnl1dTZ2ZTg4SGY0QUY0MVlTZnR3Nm9vRHRUSkZIVERROG5ucjVrWUxOTVMwTGVyRHpFRHRRdU8tQkJ5OFpwUzJBUXE5MWhmN2VNSkZFTzNOQ3QxbDE2MlRvSXk3d3NUTm1aa2xZUDNpZjQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ permalink: /news/metformin/
 2026-05-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
-
----
-
-### [Remission des Prädiabetes durch Gewichtsabnahme verläuft geschlechtsspezifisch – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
 
 ---
 
@@ -110,11 +94,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Demenzprävention: Supplemente, Wearables und Politik treiben den Markt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
+### [Parodontitis 2025/26: Neue Daten koppeln Entzündung mit Herz, Diabetes und Demenz - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
 
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-05-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
 
 ---
 
@@ -123,14 +107,6 @@ permalink: /news/metformin/
 2026-05-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-News](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
-
----
-
-### [Urgent warning to people on sertraline, fluoxetine, amitriptyline as temperatures soar - Daily Record](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNl9ubjdfTWsxd2R0US1MV0lFZDFWb3JUX0s5RjdLRkNDeTFpYUswYWo1Ukt6WTdrUW1HZ1VuNzZlWlRFYmhaR2dGRFY4by1vdkRRWjcxWUUtbFQxMFo4VzJOV25tbHhMU2tkLUM4UFJhN1JzNXM0czU2R3JySXk1MlZWbElqN2hTLW5SZkZEa2NSRklDblpN0gGcAUFVX3lxTFBjUWFsVmZEMUhpTktpeVlMZW1Bem5XRmdWNWNSSmRweU43NGNjcS1zM2Nya1F3VGhkczJQbjI0cFlNRU4xUEtqa1RZdWg2VC1Rek8wemwtczhidjhwaktncTlZNzA5cE1QNWZMNFdMUXlmUjVHaC1tUHBpUzA3MUFHcENqV2Rnc0ZGWjZWVC1FaW0xcko5eHkyUl82Nw?oc=5)
-
-2026-05-26 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNl9ubjdfTWsxd2R0US1MV0lFZDFWb3JUX0s5RjdLRkNDeTFpYUswYWo1Ukt6WTdrUW1HZ1VuNzZlWlRFYmhaR2dGRFY4by1vdkRRWjcxWUUtbFQxMFo4VzJOV25tbHhMU2tkLUM4UFJhN1JzNXM0czU2R3JySXk1MlZWbElqN2hTLW5SZkZEa2NSRklDblpN0gGcAUFVX3lxTFBjUWFsVmZEMUhpTktpeVlMZW1Bem5XRmdWNWNSSmRweU43NGNjcS1zM2Nya1F3VGhkczJQbjI0cFlNRU4xUEtqa1RZdWg2VC1Rek8wemwtczhidjhwaktncTlZNzA5cE1QNWZMNFdMUXlmUjVHaC1tUHBpUzA3MUFHcENqV2Rnc0ZGWjZWVC1FaW0xcko5eHkyUl82Nw?oc=5)
 
 ---
 

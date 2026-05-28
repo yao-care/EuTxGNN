@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [El HUCA elabora la primera guía asturiana para personas con diabetes sobre el uso de sistemas automáticos de infusión de insulina - El HUCA elabora la primera guía asturiana para personas con diabetes sobre el uso de sistemas automáticos de infusión d - Principado de Asturias](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3BkU0ZuTFFvQmd6WHgtMmNoUzU1TERlcEpRbWJNWDJGUmFSOVJPSnB0WUpvS0lEZlZVTHkyN1FMOVo0WTVMOWhkalF1VWpwU0pXLWpmbXhhdkJwTzJCRmZqY3RoWG5Tczk2QW1CTQ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[Principado de Asturias](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3BkU0ZuTFFvQmd6WHgtMmNoUzU1TERlcEpRbWJNWDJGUmFSOVJPSnB0WUpvS0lEZlZVTHkyN1FMOVo0WTVMOWhkalF1VWpwU0pXLWpmbXhhdkJwTzJCRmZqY3RoWG5Tczk2QW1CTQ?oc=5)
-
----
-
-### [Le remboursement des médicaments contre l'obésité Wegovy et Mounjaro débutera mi-juin, pour une population cible d'un million de personnes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHotblRhWE9pYlpGRVQ4TmJ3ODdORm9SNHRHX25KMXdMcGVvNnVfN1Z4OFdMTUpTc0dZTVYyNEhsR0hmekhOanIwZ29WRzJHV3UwcmNtWU9oNFNGNjdacXEwNVo2SmJfVmFzTW1XOXFNZThRMDlvY0JpODhkMXFwTHVvOWtLSDN6OUYwRFhlVmpRRER6UFphNGVNelVXdDJNVExEa1FDbUMzdER4ZnV5dW5uUjZkZV8zV014UTlmMzRDQl9haU5jcGpacHZLd3lHbzlaeG1YaENPdkIwSzBpQm43cmVIU3A5dmhZ?oc=5)
+### [Ozempic, Wegovy, Mounjaro... Quels sont les effets secondaires des médicaments anti-obésité bientôt remboursés en France ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
 
 2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHotblRhWE9pYlpGRVQ4TmJ3ODdORm9SNHRHX25KMXdMcGVvNnVfN1Z4OFdMTUpTc0dZTVYyNEhsR0hmekhOanIwZ29WRzJHV3UwcmNtWU9oNFNGNjdacXEwNVo2SmJfVmFzTW1XOXFNZThRMDlvY0JpODhkMXFwTHVvOWtLSDN6OUYwRFhlVmpRRER6UFphNGVNelVXdDJNVExEa1FDbUMzdER4ZnV5dW5uUjZkZV8zV014UTlmMzRDQl9haU5jcGpacHZLd3lHbzlaeG1YaENPdkIwSzBpQm43cmVIU3A5dmhZ?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Parodontitis: Zahnfleischentzündung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3dZcHhldVU3RXc5OExZYkd1b3dVQkJFaTgxU1JydUkwaFZzLTBQQVo0MWN4Y21FNE9WQXZMb0pDVER0THBmUkwxSnl1dTZ2ZTg4SGY0QUY0MVlTZnR3Nm9vRHRUSkZIVERROG5ucjVrWUxOTVMwTGVyRHpFRHRRdU8tQkJ5OFpwUzJBUXE5MWhmN2VNSkZFTzNOQ3QxbDE2MlRvSXk3d3NUTm1aa2xZUDNpZjQ?oc=5)
+### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
-2026-05-27 <span class="news-indication-tag">diabetes</span>
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3dZcHhldVU3RXc5OExZYkd1b3dVQkJFaTgxU1JydUkwaFZzLTBQQVo0MWN4Y21FNE9WQXZMb0pDVER0THBmUkwxSnl1dTZ2ZTg4SGY0QUY0MVlTZnR3Nm9vRHRUSkZIVERROG5ucjVrWUxOTVMwTGVyRHpFRHRRdU8tQkJ5OFpwUzJBUXE5MWhmN2VNSkZFTzNOQ3QxbDE2MlRvSXk3d3NUTm1aa2xZUDNpZjQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 ---
 
@@ -94,14 +86,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Remission des Prädiabetes durch Gewichtsabnahme verläuft geschlechtsspezifisch – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
-
----
-
 ### [Bei dieser häufigen Genvariation könnte Vitamin D vor Diabetes schützen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm04WGo0LWRzRHlCWlNOUjRtMGl5M0RacUQzQ3k1aGtlZ0dkS2FxOHcyTXdmdHRoLXRtS1JqejVwU1RXWWdWVkF5dHJOY1k4VGNnV2xOU2NBS2piYkgzYndjMVlqaklxVUVvcEdsWVp6b0JjWUpKbUY5bVd0WjRYbHZsTkI2Zm1fWDJ0VllYcFRQNGtVM3hqck9rSTVDQ3dDQkFvSnRqaldPYk4zcVRRX2o4WFRCZ2w4eTV6LTdqVTg?oc=5)
 
 2026-05-27 <span class="news-indication-tag">diabetes</span>
@@ -110,11 +94,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Demenzprävention: Supplemente, Wearables und Politik treiben den Markt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
+### [Parodontitis 2025/26: Neue Daten koppeln Entzündung mit Herz, Diabetes und Demenz - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
 
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-05-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
 
 ---
 

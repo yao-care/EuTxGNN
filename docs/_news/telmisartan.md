@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 
@@ -62,35 +62,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [«Si l’on prend un traitement antidépresseur, on est plus à risque de faire un AVC» : le Pr Claire Mounier Vehier alerte sur le lien entre le cœur et la santé mentale - Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
+### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">AVC</span>
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 ---
 
 ### [I’m a doctor — these are 4 lesser-known signs of 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
 
-2026-05-27 <span class="news-indication-tag">high blood pressure</span>
+2026-05-27 <span class="news-indication-tag">hypertension</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
-
----
-
-### [Demenzprävention: Supplemente, Wearables und Politik treiben den Markt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
-
----
-
-### [Feta: Hoher Salzgehalt und Zusatzstoffe erhöhen Bluthochdruckrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
-
-2026-05-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
 
 ---
 

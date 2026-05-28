@@ -62,14 +62,6 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Por qué los brotes de ébola y hantavirus han confundido a los científicos - The New York Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0l0R2xGNXdsN25TOVVxM1U3WFRLSGFGc3Q4RFlpenF5bmlSQkVVSUUzV2RQZ0RCOU1vTG5RQ2RKektnWHVzMGZoa09senVpbW5lbTFyNU5xU0ZZbEhMT0lrZkFVdkVDazYwazQ4TF95VkpNNko1RWVZbWZBV2Fma2lPS0xTTUtFUl9yaUl1OGhTM1FSSVE3blZNUW5jbXg0NEVOQXNablBSdw?oc=5)
-
-2026-05-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[The New York Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0l0R2xGNXdsN25TOVVxM1U3WFRLSGFGc3Q4RFlpenF5bmlSQkVVSUUzV2RQZ0RCOU1vTG5RQ2RKektnWHVzMGZoa09senVpbW5lbTFyNU5xU0ZZbEhMT0lrZkFVdkVDazYwazQ4TF95VkpNNko1RWVZbWZBV2Fma2lPS0xTTUtFUl9yaUl1OGhTM1FSSVE3blZNUW5jbXg0NEVOQXNablBSdw?oc=5)
-
----
-
 ### [COPD: Fett- und zuckerreiche Kost schädigt Lungengewebe massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
 
 2026-05-28 <span class="news-indication-tag">copd</span>
@@ -83,6 +75,14 @@ permalink: /news/sarilumab/
 2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
 
 來源：[Slate.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
+
+---
+
+### [Morbus Crohn bei Kindern: Remission auch ohne enterale Ernährungstherapie erreichen](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdi1HMi1JWWZGZDdLZ1liLWRlVTVNMTNnYW55YlRNVFVUZTJVNC1pV3JZMHVsSXI2bGNaX1JLQ0RZMEdBZFNqd1BoeUY5QWdKVUdmNDZlZENYdFcxQmw2T0RnM1JVbmpCdXFNMjlZaHd6X3BWc2Y1TXJYMXBRY1p3VDR3NDdWS29vZGhwY1VpcVZtaUFFOGVHbTV3b0VSWGIxUVhtWDFsNHVBenFjbWJYWFpiMXFWalZSTlltZ1lteC1zLWNfY0c0cHcybEwwQQ?oc=5)
+
+2026-05-27 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdi1HMi1JWWZGZDdLZ1liLWRlVTVNMTNnYW55YlRNVFVUZTJVNC1pV3JZMHVsSXI2bGNaX1JLQ0RZMEdBZFNqd1BoeUY5QWdKVUdmNDZlZENYdFcxQmw2T0RnM1JVbmpCdXFNMjlZaHd6X3BWc2Y1TXJYMXBRY1p3VDR3NDdWS29vZGhwY1VpcVZtaUFFOGVHbTV3b0VSWGIxUVhtWDFsNHVBenFjbWJYWFpiMXFWalZSTlltZ1lteC1zLWNfY0c0cHcybEwwQQ?oc=5)
 
 ---
 

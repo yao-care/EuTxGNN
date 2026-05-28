@@ -46,7 +46,7 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li>epilepsy（99.2%）</li>
+<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 Epilepsie</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -54,11 +54,11 @@ permalink: /news/levetiracetam/
 
 ## 相關新聞（1 則）
 
-### [Wie Levetiracetam Alzheimer vorbeugen könnte](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjB6MXNnM05qNjdDd3NhcjI3RTRORjBQTnFyZnV0MnhvQW5rNGlVZzVIVFRuWE9pSVBBdVJ5SXZycWdDazJmSkNzUDQtb3FhMGlXOVRlaVYzRGFVb3NiLUtiOXIzSkpRcGJnMWNpVGxCLUhObDEyR2RqU19tTXdaZjdpUHRMa2psaHVlZ3Q3QmFERlBTUk1RUWNxUmxKWVFIZG5MSXFoVGxDZzI4T0I2Yw?oc=5)
+### [Alzheimer: Epilepsie-Mittel Levetiracetam zeigt vielversprechende Erfolge - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
 
-2026-05-26 <span class="news-drug-tag">Levetiracetam</span>
+2026-05-27 <span class="news-drug-tag">Levetiracetam</span> <span class="news-indication-tag">Epilepsie</span>
 
-來源：[deutsche-apotheker-zeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjB6MXNnM05qNjdDd3NhcjI3RTRORjBQTnFyZnV0MnhvQW5rNGlVZzVIVFRuWE9pSVBBdVJ5SXZycWdDazJmSkNzUDQtb3FhMGlXOVRlaVYzRGFVb3NiLUtiOXIzSkpRcGJnMWNpVGxCLUhObDEyR2RqU19tTXdaZjdpUHRMa2psaHVlZ3Q3QmFERlBTUk1RUWNxUmxKWVFIZG5MSXFoVGxDZzI4T0I2Yw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Ebola. L’Ecdc alza il livello di allerta: “Situazione complessa, nessun vaccino per il ceppo in corso” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXB6dWdxbmRlRmJ3VDhvc0R6RGJaZk1WOFpsRmhFV09mNlljY19XT2hFRDQtbkJxUUZ4TTM4eUY2NHZJQzFTeWdGWnl6VTVsM2h0eTM3eDNpeGFLOUlIV2FtdEwxXzNGNnJjSGhPb2NLVkltbFFUNDJxcXpiUzRGRkVPeTNaMXpCQTRMNUVrdktEUjlGZzg5VVlKaExNYkg2Um95a2ZxeG1RTWpzbmV5VmpBLTVkYTlueWVrVzBWTmx0a0FnNUNkOVJSTHlyX1hfdDhmeXdsVExKeTUtY2hhRA?oc=5)
+
+2026-05-28 <span class="news-indication-tag">MS</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXB6dWdxbmRlRmJ3VDhvc0R6RGJaZk1WOFpsRmhFV09mNlljY19XT2hFRDQtbkJxUUZ4TTM4eUY2NHZJQzFTeWdGWnl6VTVsM2h0eTM3eDNpeGFLOUlIV2FtdEwxXzNGNnJjSGhPb2NLVkltbFFUNDJxcXpiUzRGRkVPeTNaMXpCQTRMNUVrdktEUjlGZzg5VVlKaExNYkg2Um95a2ZxeG1RTWpzbmV5VmpBLTVkYTlueWVrVzBWTmx0a0FnNUNkOVJSTHlyX1hfdDhmeXdsVExKeTUtY2hhRA?oc=5)
+
+---
+
+### [PMOS statt PCOS: neue Leitlinie, Rekord-Abnehmstudien und China-Zulassung - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdNSVVzR2hFc0hsbEJsN2JIR0JIUHYyRmNHcjdJQlZ4T0JHU2liNG5sWVhfNG5xQXlUSzktVVVzbHZEYTZFUHB1MS1BdTN2aWN1d0ZHQmRRckVVLXV2X2ExajFVQUxBMW50eFI2aDQ2UmVMYmlqSVl4MEF2dVVRdm01RDF1aU1aNTduVmlldGdVX1BmckVaVU9VaW9DTjJJdkk1ZFRn?oc=5)
+
+2026-05-28 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdNSVVzR2hFc0hsbEJsN2JIR0JIUHYyRmNHcjdJQlZ4T0JHU2liNG5sWVhfNG5xQXlUSzktVVVzbHZEYTZFUHB1MS1BdTN2aWN1d0ZHQmRRckVVLXV2X2ExajFVQUxBMW50eFI2aDQ2UmVMYmlqSVl4MEF2dVVRdm01RDF1aU1aNTduVmlldGdVX1BmckVaVU9VaW9DTjJJdkk1ZFRn?oc=5)
+
+---
+
+### [Blutproteine sagen Multiple Sklerose bis zu 10 Jahre früher voraus - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUZ4YUJOMThEZFF0R3JPVU5HWHl5NjhnSnJtLU9Ndi1pMDJqSzAxd0dBcjNGYnB5VDJYSy0xaWppYllrYUdLR2hYX2RaNWQ4ZmFjcTNQd2F4YzVTWWlob0JqSnFtaHc1VFhfdGNrYjlKVHg4dmJzVmQ1VklSOWVKTjBNTWVlZ2RwOVBUYXJWX05qWDdybmdDYkFYRUFIaXFD?oc=5)
+
+2026-05-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUZ4YUJOMThEZFF0R3JPVU5HWHl5NjhnSnJtLU9Ndi1pMDJqSzAxd0dBcjNGYnB5VDJYSy0xaWppYllrYUdLR2hYX2RaNWQ4ZmFjcTNQd2F4YzVTWWlob0JqSnFtaHc1VFhfdGNrYjlKVHg4dmJzVmQ1VklSOWVKTjBNTWVlZ2RwOVBUYXJWX05qWDdybmdDYkFYRUFIaXFD?oc=5)
+
+---
+
+### [Milano, morto accoltellato un giovane. Il padre: «È stata la gang latina MS13» - La Verità](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHB5UDdab0RYaWdBRzlxTHZ5djBIRDlVRzFfeDBqZFhnUERhSDZ4azlqZHA3cDVfUUMyZHZrNzVEdDY4NUtfaFJ4OVFzeFNrVWhUc1VxRW1SbmtENV9FWjdEbHFfOWp2dklaUkxEOXViLXlDZGZ2ZjVsWk9mSzVUbU40N3hRNzdH?oc=5)
+
+2026-05-28 <span class="news-indication-tag">MS</span>
+
+來源：[La Verità](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHB5UDdab0RYaWdBRzlxTHZ5djBIRDlVRzFfeDBqZFhnUERhSDZ4azlqZHA3cDVfUUMyZHZrNzVEdDY4NUtfaFJ4OVFzeFNrVWhUc1VxRW1SbmtENV9FWjdEbHFfOWp2dklaUkxEOXViLXlDZGZ2ZjVsWk9mSzVUbU40N3hRNzdH?oc=5)
+
+---
+
+### [Heart surgeon claims 1 drink is 'liquid death' and warns you should never drink it — not alcohol - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5Dem5UWUF5SkRDZVFyVUFmTWtjZ083eThjM1RKdW1sOXZLVmE4OXl3SjBtRXo2ZWxITTJKMUQ0cFVmQ0VLeFJkaVd2VmstbTBiRVJ3Ti1ieVAyZFpuYUpLX1BtbVRoOUgxY09aelpMYnhUSGdRaWhnREpDWHVZS01Tc07SAYoBQVVfeXFMTVA1R1JJNTRONVNtenJRd19FelhhOXgxU3lMVlA1Q1poaE9XTlZkZjNUVktaSUhiQ0NCanlCcV9JTmdCNWt3WGZ4Uk5JYXU5WXFIbDEzRzk1WFlsN3l1N08xUGZxM3l5Tlp2NnViTXhhdFoya3NMVFVtellvbHp0ZTNLSHJIM09xb25R?oc=5)
+
+2026-05-28 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5Dem5UWUF5SkRDZVFyVUFmTWtjZ083eThjM1RKdW1sOXZLVmE4OXl3SjBtRXo2ZWxITTJKMUQ0cFVmQ0VLeFJkaVd2VmstbTBiRVJ3Ti1ieVAyZFpuYUpLX1BtbVRoOUgxY09aelpMYnhUSGdRaWhnREpDWHVZS01Tc07SAYoBQVVfeXFMTVA1R1JJNTRONVNtenJRd19FelhhOXgxU3lMVlA1Q1poaE9XTlZkZjNUVktaSUhiQ0NCanlCcV9JTmdCNWt3WGZ4Uk5JYXU5WXFIbDEzRzk1WFlsN3l1N08xUGZxM3l5Tlp2NnViTXhhdFoya3NMVFVtellvbHp0ZTNLSHJIM09xb25R?oc=5)
+
+---
 
 ### [Sanofi organiza la jornada ‘JaquEMate a la esclerosis múltiple’ para reflexionar sobre cómo está cambiando la manera de abordar la enfermedad](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU0N0NnpnNzVBYWRwQmdlZXd0UjI3dmVnZXJYYlQyMUlpR0ZTM041MzBmQkI2RGxUS2ZLQTNYZVV6TmMwU1FnU3pRQVE5TlFuLUtIYWtXak1IcjNHNk9yWkdQbzR5c3Y3M1hhOHMtMmVnbGVYd0hrbWRMUUM2UkFtcGgyYjcxYUotVUQ2b1FsSGl0WndwSTZTSmpsQWFFdU9lZC02SnB6YXBIUzRXRGVGMUV4cFZKYm1GU0JXajJQb0pscDN1SDdhVy1LNFFVMncwWmpkZk1IcTl5cDJKM3pQbXNxTkIzZ3lJX284bHg0RXlyMmhfaEhpdklCaTA?oc=5)
 
@@ -62,43 +102,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Poppy went to put her PJs on but minutes later I heard her dad's screams... she was dead - the subtle signs we missed - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTNkTFJ5TWZhajhqenN4Mk9mQ2o3Z0VjOV9fbVl2aHpJakxHbjk1Q2w2QmFSeXJJcXlZT2xQMFJKZ3JZRnVrZjFlcVBTMWhjdVJOYVMzOTBsbzRFUDV4dUhHcHlYSHQ4cmFEQUJuVjJ2RWVyY2NRVkJqMGt6SzFiVEY0V1BSTmc3ckNYVA?oc=5)
-
-2026-05-28 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTNkTFJ5TWZhajhqenN4Mk9mQ2o3Z0VjOV9fbVl2aHpJakxHbjk1Q2w2QmFSeXJJcXlZT2xQMFJKZ3JZRnVrZjFlcVBTMWhjdVJOYVMzOTBsbzRFUDV4dUhHcHlYSHQ4cmFEQUJuVjJ2RWVyY2NRVkJqMGt6SzFiVEY0V1BSTmc3ckNYVA?oc=5)
-
----
-
-### [MS-Diagnostik: 22-Protein-Panel trennt Erkrankungen mit AUC 0,94 - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFRpWTJnbE9yazdBSEMxb3AyLUV4ZjBhY092Ym96OWliNTA2bk1wQ0tnc3J0MkF2SEFCRURramx5anpDYS04dkpTemVjLWk5SXFmTGpCMFJNS21zTjM0aTdNNXEzMVpLQ3RvalU1MVFtSlZxLVkxaUZoT2FESXJ5b3JZek90R3ZnTFczeGNqd2dld3NoUUZRYUVR?oc=5)
-
-2026-05-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFRpWTJnbE9yazdBSEMxb3AyLUV4ZjBhY092Ym96OWliNTA2bk1wQ0tnc3J0MkF2SEFCRURramx5anpDYS04dkpTemVjLWk5SXFmTGpCMFJNS21zTjM0aTdNNXEzMVpLQ3RvalU1MVFtSlZxLVkxaUZoT2FESXJ5b3JZek90R3ZnTFczeGNqd2dld3NoUUZRYUVR?oc=5)
-
----
-
-### [Por qué los brotes de ébola y hantavirus han confundido a los científicos - The New York Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0l0R2xGNXdsN25TOVVxM1U3WFRLSGFGc3Q4RFlpenF5bmlSQkVVSUUzV2RQZ0RCOU1vTG5RQ2RKektnWHVzMGZoa09senVpbW5lbTFyNU5xU0ZZbEhMT0lrZkFVdkVDazYwazQ4TF95VkpNNko1RWVZbWZBV2Fma2lPS0xTTUtFUl9yaUl1OGhTM1FSSVE3blZNUW5jbXg0NEVOQXNablBSdw?oc=5)
-
-2026-05-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[The New York Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0l0R2xGNXdsN25TOVVxM1U3WFRLSGFGc3Q4RFlpenF5bmlSQkVVSUUzV2RQZ0RCOU1vTG5RQ2RKektnWHVzMGZoa09senVpbW5lbTFyNU5xU0ZZbEhMT0lrZkFVdkVDazYwazQ4TF95VkpNNko1RWVZbWZBV2Fma2lPS0xTTUtFUl9yaUl1OGhTM1FSSVE3blZNUW5jbXg0NEVOQXNablBSdw?oc=5)
-
----
-
 ### [Frauengesundheit und Rauchprävention im Fokus der MS-Forschung - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMipAFBVV95cUxPY081TkFzWWlGSDd2cm9aUzRsekFNTXFwSW1ib2pYSGxobUpkMmhVT003emJsRC1LSUhrSWY5aGpiVFJDSTdJSHhCYi1kOUVNaVJlM1JYQ0xZSkEzY3VDTjJRXzZ0RWtPYTE2MEJGN0pSSWZhbEJxMS1JWnljWEtsUWJDeWt6V3RaS0N2UFhPM24wRFI2bDRVX1VxNEVNNk1nUGQ0dQ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMipAFBVV95cUxPY081TkFzWWlGSDd2cm9aUzRsekFNTXFwSW1ib2pYSGxobUpkMmhVT003emJsRC1LSUhrSWY5aGpiVFJDSTdJSHhCYi1kOUVNaVJlM1JYQ0xZSkEzY3VDTjJRXzZ0RWtPYTE2MEJGN0pSSWZhbEJxMS1JWnljWEtsUWJDeWt6V3RaS0N2UFhPM24wRFI2bDRVX1VxNEVNNk1nUGQ0dQ?oc=5)
-
----
-
-### [Blood testing is now included in screening recommendations for colon and rectal cancer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlwODN6SXNDV2o3djlBYVJ5WENMRFZyaHhiaTcwb0k3WnBUdWVlcDJ3YktYeGZDaDJQelpCMjNkamc3Q1IyOHhuOVBIX05wUl93QUZVS0dtdnQtX2thQmZJUzU0M3ExNGx4SHF1eHR5c016Uk5xMzRySnc4SlVJUDhYWVNMY0F4ZDRIeVNtZ1lNVGtsWFhYMHRzV1JCd0tfdnhYdGtpc2Y4YmFaRDFHbmtlQXMtOURfSjE4MDE5SV8?oc=5)
-
-2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[KSL.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlwODN6SXNDV2o3djlBYVJ5WENMRFZyaHhiaTcwb0k3WnBUdWVlcDJ3YktYeGZDaDJQelpCMjNkamc3Q1IyOHhuOVBIX05wUl93QUZVS0dtdnQtX2thQmZJUzU0M3ExNGx4SHF1eHR5c016Uk5xMzRySnc4SlVJUDhYWVNMY0F4ZDRIeVNtZ1lNVGtsWFhYMHRzV1JCd0tfdnhYdGtpc2Y4YmFaRDFHbmtlQXMtOURfSjE4MDE5SV8?oc=5)
 
 ---
 
@@ -136,7 +144,7 @@ permalink: /news/interferon-beta-1a/
 
 ### [Neue Zellpopulation im Alzheimer-Gehirn entdeckt – Forscher teilen wichtige Untersuchungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLUxoeE9PR3UzZEZhVEhQZnFiWnBsV2ZvYWhodkpqOC0wWndkbkgwbFc3d2o1dXlpV1I0VzZUb25zbktfRjcyTTFMM0tMbEdrdDg5ZjBrMnBfWEw3M0RzUExKQ0Rjem9FWFZjN0M0SnZ4cmV1aXY2VHc0d0xUcElXLUFGVGhVRFh2cTVtempfWkM4RXBfUzRwMmk4MFVfWlVGNTBSLWRhTm1WZFVkREpqOVlZUFlqQ1d3ejZfdUI0R0Q3NDNHNXVmamxmVFVwSWtM?oc=5)
 
-2026-05-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-27 <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLUxoeE9PR3UzZEZhVEhQZnFiWnBsV2ZvYWhodkpqOC0wWndkbkgwbFc3d2o1dXlpV1I0VzZUb25zbktfRjcyTTFMM0tMbEdrdDg5ZjBrMnBfWEw3M0RzUExKQ0Rjem9FWFZjN0M0SnZ4cmV1aXY2VHc0d0xUcElXLUFGVGhVRFh2cTVtempfWkM4RXBfUzRwMmk4MFVfWlVGNTBSLWRhTm1WZFVkREpqOVlZUFlqQ1d3ejZfdUI0R0Q3NDNHNXVmamxmVFVwSWtM?oc=5)
 

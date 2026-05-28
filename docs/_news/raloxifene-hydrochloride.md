@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [«Si l’on prend un traitement antidépresseur, on est plus à risque de faire un AVC» : le Pr Claire Mounier Vehier alerte sur le lien entre le cœur et la santé mentale - Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
-
-2026-05-28 <span class="news-indication-tag">AVC</span>
-
-來源：[Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
-
----
-
-### [Demenzprävention: Supplemente, Wearables und Politik treiben den Markt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
+### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZlYUFWS0Yxc0xtSTFZNnE5TXlfU0VRSHhydlYwd0hnZ2k0UHJzekttZ1c2RHNCdWkyS2ZncVliZGlDNXp3UlZYRjRxZWVudWN6VVBDVG4yeFcxVHp6YkZIbWxic2liSk01NFJZS1FUZVUwOHc2QnpYa2NaUnBPVU83X3VSMko3UW5XZEZnU3pTUm9oRWU1eERVQzNSZmFaTTRV?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 ---
 

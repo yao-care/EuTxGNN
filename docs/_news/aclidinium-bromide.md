@@ -14,7 +14,7 @@ permalink: /news/aclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="Aclidinium Bromide 有什麼相關新聞？">
-<strong>Aclidinium Bromide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aclidinium Bromide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/aclidinium-bromide/
 <p><a href="{{ '/drugs/aclidinium-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [La migraña en mujeres, una enfermedad infravalorada - EL PAÍS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkRieDRaWDJROXVYeVVDWnJ6cjA3RERuRVVsRmx3YmdYUHl1MkVydDNlRDdfN21xWU1ONTBtcGpadUlrSDBDYU1WbTIyOTBpbkd3QXBrOHNSM192TmVFUjlvVkpPSnc1cDdLUDFsV3JEcng0c0dmdWlLOGt3VEh1RVBwVGMwNWVaMENzeEt5bDB2SFFmNmdCa2QxdGpFc3pydFFGR2E3REV0dG1TSFpkdFdSZUsyTEl60gHMAUFVX3lxTE1WNjFjM3Nzb2xnVkFUdXpTZ2xJcVg4b0ZHSUVnMXZ4UmFtMlBBNTVocDFMODZVcmRQNHFLSXVNZ0JJU095bW5rX0YtUF9IV0VMNGlQdmluTlQwYU1qZURQVExvUnJFRThtNEF0NjZjNXNXQ0Zpei1xcGlvOTBLdTlJaUhLSFJlZVdyRWZZVGM4M2pubnRYRnBseHlGVEQ2VHNMRWRZMEV2d3FHenhQVVlQb2NEekNqU1NPWWt3NFgzN05ZRW4xc19CNkwwOA?oc=5)
-
-2026-05-28 <span class="news-indication-tag">migraña</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkRieDRaWDJROXVYeVVDWnJ6cjA3RERuRVVsRmx3YmdYUHl1MkVydDNlRDdfN21xWU1ONTBtcGpadUlrSDBDYU1WbTIyOTBpbkd3QXBrOHNSM192TmVFUjlvVkpPSnc1cDdLUDFsV3JEcng0c0dmdWlLOGt3VEh1RVBwVGMwNWVaMENzeEt5bDB2SFFmNmdCa2QxdGpFc3pydFFGR2E3REV0dG1TSFpkdFdSZUsyTEl60gHMAUFVX3lxTE1WNjFjM3Nzb2xnVkFUdXpTZ2xJcVg4b0ZHSUVnMXZ4UmFtMlBBNTVocDFMODZVcmRQNHFLSXVNZ0JJU095bW5rX0YtUF9IV0VMNGlQdmluTlQwYU1qZURQVExvUnJFRThtNEF0NjZjNXNXQ0Zpei1xcGlvOTBLdTlJaUhLSFJlZVdyRWZZVGM4M2pubnRYRnBseHlGVEQ2VHNMRWRZMEV2d3FHenhQVVlQb2NEekNqU1NPWWt3NFgzN05ZRW4xc19CNkwwOA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Olbia, boom di prestazioni in Neurologia e nuove terapie contro l’emicrania - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
 
