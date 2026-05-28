@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（5 則）
 
-### [Gehirngesundheit: 10 Stunden Bewegung pro Woche senken Demenz-Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXg5RFhHM19aWkpwYmU5SFEzZy1NMzJzTl92aWJGVGhIaW9yR3hZWmFreUlTeDhydThLbEx5OVdRTldaWmZyWFdjU25Wd1ZnM2hmRXBzWmJqQkw0QlNzcEV3RExYaHdPTEo5d0h1dFdRU2ZYWFVlb0FXdDdjQXNNZkVMNnVEMUVSRjQ0Mk9DSkNZbllFZmtwMlBWRVFoQWJicmwzaUc5bExBUzlYaVNscVNhV0NsM3JveE9WYUk0dw?oc=5)
+### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
-2026-05-27 <span class="news-indication-tag">Schlaganfall</span>
+2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXg5RFhHM19aWkpwYmU5SFEzZy1NMzJzTl92aWJGVGhIaW9yR3hZWmFreUlTeDhydThLbEx5OVdRTldaWmZyWFdjU25Wd1ZnM2hmRXBzWmJqQkw0QlNzcEV3RExYaHdPTEo5d0h1dFdRU2ZYWFVlb0FXdDdjQXNNZkVMNnVEMUVSRjQ0Mk9DSkNZbllFZmtwMlBWRVFoQWJicmwzaUc5bExBUzlYaVNscVNhV0NsM3JveE9WYUk0dw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 ---
 
