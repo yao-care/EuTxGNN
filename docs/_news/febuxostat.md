@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="Febuxostat 有什麼相關新聞？">
-<strong>Febuxostat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Febuxostat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/febuxostat/
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/febuxostat/
 2026-05-27 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
+
+---
+
+### [Feta: Hoher Salzgehalt und Zusatzstoffe erhöhen Bluthochdruckrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
+
+2026-05-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Un fármaco experimental contra la hepatitis B podría ofrecer "cura funcional" a algunos pacientes - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ213bG1IOFFNck04U0ExVk54bTBscHExR3Mwa1ZxR1BNV25zTXhuWTdWYlQxWU5LTHZwbDMtT0pRVjY4TUZObDVRY1BmQmpDbWZLU18tU1BsbXJFZm9SRmJjcDZkajV1ZXRNeGdqcGZBREdzek1ia2ZqNm1IRmtUT3IwTWFJVklfUENVSTR4dXlRZzJkNnF4TTVBWkQ?oc=5)
+### [Bepirovirsen, de GSK, alcanza la curación funcional en uno de cada cinco pacientes con hepatitis B crónica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlpaSXMtSmtJUllrQ08zSFRaM01uaWxzUlRCQnNoa1poVVg4UE1Oc0dMT19yYlp4YzZ1LXRxelhiUGZMRG1SdVhXVktheW9JWG9FdkpZQ1ZfNFJoaEF0cnJhQTdsN3Y1bEp5Qk9FQUZRdEMya0c3dDRHWnFRejV5OGtiUVU3MzhsdEZpWXNLclZ5WFJhbnRhS0VmeDRwWTY3QzAtelgwZjBIWmF1bDZ3R2FTVEZxUGdmZG50UXZNdnVYRmJYcks5MUk0a1BNZlpSeEtnX0tLeWhmcm85eDliUGt2UQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">hepatitis</span>
+2026-05-28 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ213bG1IOFFNck04U0ExVk54bTBscHExR3Mwa1ZxR1BNV25zTXhuWTdWYlQxWU5LTHZwbDMtT0pRVjY4TUZObDVRY1BmQmpDbWZLU18tU1BsbXJFZm9SRmJjcDZkajV1ZXRNeGdqcGZBREdzek1ia2ZqNm1IRmtUT3IwTWFJVklfUENVSTR4dXlRZzJkNnF4TTVBWkQ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlpaSXMtSmtJUllrQ08zSFRaM01uaWxzUlRCQnNoa1poVVg4UE1Oc0dMT19yYlp4YzZ1LXRxelhiUGZMRG1SdVhXVktheW9JWG9FdkpZQ1ZfNFJoaEF0cnJhQTdsN3Y1bEp5Qk9FQUZRdEMya0c3dDRHWnFRejV5OGtiUVU3MzhsdEZpWXNLclZ5WFJhbnRhS0VmeDRwWTY3QzAtelgwZjBIWmF1bDZ3R2FTVEZxUGdmZG50UXZNdnVYRmJYcks5MUk0a1BNZlpSeEtnX0tLeWhmcm85eDliUGt2UQ?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/givosiran/
 2026-05-27 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
+
+---
+
+### [Feta: Hoher Salzgehalt und Zusatzstoffe erhöhen Bluthochdruckrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
+
+2026-05-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
 
 ---
 

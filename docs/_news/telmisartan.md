@@ -86,11 +86,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Un test basato sull’IA può prevedere il rischio di ictus con 15 anni di anticipo: come funziona](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+### [Feta: Hoher Salzgehalt und Zusatzstoffe erhöhen Bluthochdruckrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
 
-2026-05-26 <span class="news-indication-tag">ictus</span>
+2026-05-26 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2k5RHNLT2ZNYnB5dzl0U2FLaTNraVI2T0lXWXpzVXVlcUo3TnRENUd2ekhETlNiSGdVNVN3bmdSOXJ5YkhreFd6Vy00WnoweHpDUTFrYXlnSm85dFZHRGN4WmJkZjFWZWdQODUzX3RCNi1TTmMwSVNEa3E4RTZOSjBtTVNwaFR3clIxTnVlM051RE9PWmRMTG5GR3lVLVIydlRfNjBtM1JjbWpIQjU1UE1FWDRlMmNiWnJRcGdwMHlsSXB2RWl5QUV1R2JwRnNJdjVv?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzNYa1VVMUNLVG8zUHM5X1d2dnNBUFh2Y0pfa1FLeUU1eExJellNUzNmVmNadmpoTVdaV211ZlVzQ3JoWVF2OUItRV9weTJULUYydUFvU3RQME5SUWpjMG9PTlpNNmJfZFVGUkk1ZTBmcnBveFMzQzVNd3REdlMzOFVMSDJsWksxLUJZa2RmZTdtaXRrU3NIRXlta0pGOEpxa0JfS1FlSXhNTGRFT0VwdS1JaF9sZDQ?oc=5)
 
 ---
 

@@ -54,27 +54,27 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（3 則）
 
+### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+
+2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+
+---
+
+### [Le remboursement des médicaments contre l'obésité Wegovy et Mounjaro débutera mi-juin, pour une population cible d'un million de personnes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHotblRhWE9pYlpGRVQ4TmJ3ODdORm9SNHRHX25KMXdMcGVvNnVfN1Z4OFdMTUpTc0dZTVYyNEhsR0hmekhOanIwZ29WRzJHV3UwcmNtWU9oNFNGNjdacXEwNVo2SmJfVmFzTW1XOXFNZThRMDlvY0JpODhkMXFwTHVvOWtLSDN6OUYwRFhlVmpRRER6UFphNGVNelVXdDJNVExEa1FDbUMzdER4ZnV5dW5uUjZkZV8zV014UTlmMzRDQl9haU5jcGpacHZLd3lHbzlaeG1YaENPdkIwSzBpQm43cmVIU3A5dmhZ?oc=5)
+
+2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHotblRhWE9pYlpGRVQ4TmJ3ODdORm9SNHRHX25KMXdMcGVvNnVfN1Z4OFdMTUpTc0dZTVYyNEhsR0hmekhOanIwZ29WRzJHV3UwcmNtWU9oNFNGNjdacXEwNVo2SmJfVmFzTW1XOXFNZThRMDlvY0JpODhkMXFwTHVvOWtLSDN6OUYwRFhlVmpRRER6UFphNGVNelVXdDJNVExEa1FDbUMzdER4ZnV5dW5uUjZkZV8zV014UTlmMzRDQl9haU5jcGpacHZLd3lHbzlaeG1YaENPdkIwSzBpQm43cmVIU3A5dmhZ?oc=5)
+
+---
+
 ### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 
 2026-05-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
-
----
-
-### [Brits on Ozempic and Mounjaro issued heatwave warning as jabs put users at serious risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGd6WHR6QkVGQS1XUnBtMFI5N2EzMFVDSUpyMG13MTYtR0hzSFNoLU5tSEV1cjVzRFQtOURrMFdDbndXWFNqblVnRVdfa3RXOElnbTZtdjBDNnVIWlBiaVJGZ0ViQ3M5Y252ekh0VG41QWZsNS1tY0NkaDBFZnhXR0xwQjhkS0VUdHptU2E3ZmRLa3dUQ2RxZjFITjdRaGt6cUI5cVRNcm9ZYkU?oc=5)
-
-2026-05-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGd6WHR6QkVGQS1XUnBtMFI5N2EzMFVDSUpyMG13MTYtR0hzSFNoLU5tSEV1cjVzRFQtOURrMFdDbndXWFNqblVnRVdfa3RXOElnbTZtdjBDNnVIWlBiaVJGZ0ViQ3M5Y252ekh0VG41QWZsNS1tY0NkaDBFZnhXR0xwQjhkS0VUdHptU2E3ZmRLa3dUQ2RxZjFITjdRaGt6cUI5cVRNcm9ZYkU?oc=5)
-
----
-
-### ['I’m stuck in ‘jab trap’ after losing 3st on Mounjaro’: The dangerous rise of GLP-1 ‘disorder’ plaguing scared slimmers - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjJHdFd4cnVuWWk5bkR5SndleGNlc3FWVVpPLWdlQm5nNkFrWFV2XzhoUzRzdmlwN1djaEwyMDJ3aWlmem1OSzh5aUxKcjVjTkxtdEM3bm84eHdGcVNZQkZ5VW5ZQm9ibTY0MmdTOW9HclFQdWxBbjBKRFJmdDJTLWM0UFJQVUxCU3hxWmlB?oc=5)
-
-2026-05-26 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjJHdFd4cnVuWWk5bkR5SndleGNlc3FWVVpPLWdlQm5nNkFrWFV2XzhoUzRzdmlwN1djaEwyMDJ3aWlmem1OSzh5aUxKcjVjTkxtdEM3bm84eHdGcVNZQkZ5VW5ZQm9ibTY0MmdTOW9HclFQdWxBbjBKRFJmdDJTLWM0UFJQVUxCU3hxWmlB?oc=5)
 
 ---
 

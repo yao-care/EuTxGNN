@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Unregelmäßige Mahlzeiten erhöhen Depressionsrisiko](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2FHclVwMUZsZkhRNU95c2M0ekZGeHJ3Z2lhWExoazZjQVh3aldLYzhkU0YwLU8yX0FKck51SVhldGQwZFV0Y1ZXdGpIeHdMcHZ2VG9PcWlSRktkaXgyZjlsVDQ4UkwwQUVCYndBTkMybFNYZm5qRWlnUGp6YVlYUTcxT0tRTFlqR05ZVlhFa2YxdGlNYTdzRFU3b19oUlZNSXJxeFo3aV8zSTZZTFpKRkNn?oc=5)
+
+2026-05-28 <span class="news-indication-tag">depression</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2FHclVwMUZsZkhRNU95c2M0ekZGeHJ3Z2lhWExoazZjQVh3aldLYzhkU0YwLU8yX0FKck51SVhldGQwZFV0Y1ZXdGpIeHdMcHZ2VG9PcWlSRktkaXgyZjlsVDQ4UkwwQUVCYndBTkMybFNYZm5qRWlnUGp6YVlYUTcxT0tRTFlqR05ZVlhFa2YxdGlNYTdzRFU3b19oUlZNSXJxeFo3aV8zSTZZTFpKRkNn?oc=5)
+
+---
 
 ### [Hochfunktionale Depression: Wie man sie erkennt - was hilft - Neue Westfälische](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmU0SjZyYkdQOVVvSTBlMmpUQ3J3RGN5WlQ0ZzNvUG02WTNYQzQ3Mk5ZTU1XWndITUFBdTlqX05KdHp1R2xHcFNqRmxKcHhvaFVlNVlxVkp3WllyTnZUNTNGU0xEVEdiZDJsdnRQcllVQ3BQTjVJREFySnc1TFlhRml0NlRrZHVlZ3lnTUNhUElxalViQ3lKX2VUdGJ4eGw4Rk5tUQ?oc=5)
 

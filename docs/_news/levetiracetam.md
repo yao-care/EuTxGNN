@@ -54,11 +54,11 @@ permalink: /news/levetiracetam/
 
 ## 相關新聞（1 則）
 
-### [Wie Levetiracetam Alzheimer vorbeugen könnte - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjB6MXNnM05qNjdDd3NhcjI3RTRORjBQTnFyZnV0MnhvQW5rNGlVZzVIVFRuWE9pSVBBdVJ5SXZycWdDazJmSkNzUDQtb3FhMGlXOVRlaVYzRGFVb3NiLUtiOXIzSkpRcGJnMWNpVGxCLUhObDEyR2RqU19tTXdaZjdpUHRMa2psaHVlZ3Q3QmFERlBTUk1RUWNxUmxKWVFIZG5MSXFoVGxDZzI4T0I2Yw?oc=5)
+### [Wie Levetiracetam Alzheimer vorbeugen könnte](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjB6MXNnM05qNjdDd3NhcjI3RTRORjBQTnFyZnV0MnhvQW5rNGlVZzVIVFRuWE9pSVBBdVJ5SXZycWdDazJmSkNzUDQtb3FhMGlXOVRlaVYzRGFVb3NiLUtiOXIzSkpRcGJnMWNpVGxCLUhObDEyR2RqU19tTXdaZjdpUHRMa2psaHVlZ3Q3QmFERlBTUk1RUWNxUmxKWVFIZG5MSXFoVGxDZzI4T0I2Yw?oc=5)
 
 2026-05-26 <span class="news-drug-tag">Levetiracetam</span>
 
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjB6MXNnM05qNjdDd3NhcjI3RTRORjBQTnFyZnV0MnhvQW5rNGlVZzVIVFRuWE9pSVBBdVJ5SXZycWdDazJmSkNzUDQtb3FhMGlXOVRlaVYzRGFVb3NiLUtiOXIzSkpRcGJnMWNpVGxCLUhObDEyR2RqU19tTXdaZjdpUHRMa2psaHVlZ3Q3QmFERlBTUk1RUWNxUmxKWVFIZG5MSXFoVGxDZzI4T0I2Yw?oc=5)
+來源：[deutsche-apotheker-zeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjB6MXNnM05qNjdDd3NhcjI3RTRORjBQTnFyZnV0MnhvQW5rNGlVZzVIVFRuWE9pSVBBdVJ5SXZycWdDazJmSkNzUDQtb3FhMGlXOVRlaVYzRGFVb3NiLUtiOXIzSkpRcGJnMWNpVGxCLUhObDEyR2RqU19tTXdaZjdpUHRMa2psaHVlZ3Q3QmFERlBTUk1RUWNxUmxKWVFIZG5MSXFoVGxDZzI4T0I2Yw?oc=5)
 
 ---
 

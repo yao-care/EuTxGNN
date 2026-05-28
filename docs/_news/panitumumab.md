@@ -54,6 +54,14 @@ permalink: /news/panitumumab/
 
 ## 相關新聞（8 則）
 
+### [El HUCA elabora la primera guía asturiana para personas con diabetes sobre el uso de sistemas automáticos de infusión de insulina - El HUCA elabora la primera guía asturiana para personas con diabetes sobre el uso de sistemas automáticos de infusión d - Principado de Asturias](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3BkU0ZuTFFvQmd6WHgtMmNoUzU1TERlcEpRbWJNWDJGUmFSOVJPSnB0WUpvS0lEZlZVTHkyN1FMOVo0WTVMOWhkalF1VWpwU0pXLWpmbXhhdkJwTzJCRmZqY3RoWG5Tczk2QW1CTQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Principado de Asturias](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3BkU0ZuTFFvQmd6WHgtMmNoUzU1TERlcEpRbWJNWDJGUmFSOVJPSnB0WUpvS0lEZlZVTHkyN1FMOVo0WTVMOWhkalF1VWpwU0pXLWpmbXhhdkJwTzJCRmZqY3RoWG5Tczk2QW1CTQ?oc=5)
+
+---
+
 ### [Type 2 diabetes rising rapidly in young women - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
 
 2026-05-28 <span class="news-indication-tag">diabetes</span>
@@ -62,11 +70,11 @@ permalink: /news/panitumumab/
 
 ---
 
-### [Zahngesundheit: Jeder verlorene Zahn erhöht Demenzrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUm9WMWNiTWZ6N053ZV83NjEwaFRSbkZ6dkNDR3VUSUJhZDR0ckdTMTRqS19PTGJCOXdxbFRGVU1TdUZ2SkR2TUFvNXhhZW03VmdLNDlQel85TXVqczFqYVBVbzlQYTQyYXNqR1pudWtJb1czODRtaTc3cW80S21Vdm5fVWJGMUo1ZnFKQzdGU1VGM2VUWHBRZGdpWWJWVnVaNjNhVEc3c04?oc=5)
+### [Parodontitis: Zahnfleischentzündung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3dZcHhldVU3RXc5OExZYkd1b3dVQkJFaTgxU1JydUkwaFZzLTBQQVo0MWN4Y21FNE9WQXZMb0pDVER0THBmUkwxSnl1dTZ2ZTg4SGY0QUY0MVlTZnR3Nm9vRHRUSkZIVERROG5ucjVrWUxOTVMwTGVyRHpFRHRRdU8tQkJ5OFpwUzJBUXE5MWhmN2VNSkZFTzNOQ3QxbDE2MlRvSXk3d3NUTm1aa2xZUDNpZjQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">diabetes</span>
+2026-05-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUm9WMWNiTWZ6N053ZV83NjEwaFRSbkZ6dkNDR3VUSUJhZDR0ckdTMTRqS19PTGJCOXdxbFRGVU1TdUZ2SkR2TUFvNXhhZW03VmdLNDlQel85TXVqczFqYVBVbzlQYTQyYXNqR1pudWtJb1czODRtaTc3cW80S21Vdm5fVWJGMUo1ZnFKQzdGU1VGM2VUWHBRZGdpWWJWVnVaNjNhVEc3c04?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3dZcHhldVU3RXc5OExZYkd1b3dVQkJFaTgxU1JydUkwaFZzLTBQQVo0MWN4Y21FNE9WQXZMb0pDVER0THBmUkwxSnl1dTZ2ZTg4SGY0QUY0MVlTZnR3Nm9vRHRUSkZIVERROG5ucjVrWUxOTVMwTGVyRHpFRHRRdU8tQkJ5OFpwUzJBUXE5MWhmN2VNSkZFTzNOQ3QxbDE2MlRvSXk3d3NUTm1aa2xZUDNpZjQ?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/panitumumab/
 2026-05-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
+
+---
+
+### [Remission des Prädiabetes durch Gewichtsabnahme verläuft geschlechtsspezifisch – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
+
+2026-05-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOEhid1lHZjBCNXlaaTNnSV9abG5HYlhwTGF2b1BYSGxpNkFPMGpreHdlZkduVlJFa3Z0Y25rdUtYZ3JqWWRLVFFSRHp2NEZUTmI3LWtkbk5kMmxRQjVvQWE3OTR4UENkbThEOG1qTHNVeGhJcTllRF8teVZlNEZycTFOaUJSWEhud1djbEtjTkhraUZOcUt4NUxEUVUwZVp0OXhLNl9uYVhObWN1VDBwUFFkZGxOMnBSeHhIVUwwUkNCemthM3ZFN2ZMa3lGZVdNSkpMbXFNUVdDUTd0TktNQw?oc=5)
 
 ---
 
@@ -94,27 +110,11 @@ permalink: /news/panitumumab/
 
 ---
 
-### [Científicos aseguran que la melatonina protege contra la obesidad y la diabetes tipo 2](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZllsQmRFaEpNSlN6QjBNRWFKeUZLNEs1VmhtcUJHdXBWcDNfQ1U3NkxCX2tNU3kxZnlOcEdzOVZNM3lTRlJIMkJiQmlWRFJJOWt3S2FlV1MwdDBBUDRuWkFuTkZNc2RfQTN3ZVNBTDR5aEJuY2c3ZHMzTFNBNlQ3MDhqS0tSeXphQ1N1X2NaZEh4SlMzOU12SDgzYzIwRG42ekVJMFFtcmQtb3hnWG5fVtIBtgFBVV95cUxOYjRFNHlmTXI3QV9iWXVwOEpHVElpUEF4M2RneEg0Tzl4WlZXMXdwMkhGM1Qyb1lCMi1RYnpyc29DY1hnOGdnNmhGTkVWQlJfZFJ2OTg2aEV4cVVaOEhJc1JpVW9fbnB3WUNQaHBfb1lDMVFhOGFnQWQ2MWg5eXZvbW5xZURrYktUN0dHeW84ZU1ER0U3dmNGSDdfWUxtRmhIM0F0WVgzQTZCaldSYk5tZ29Pb254Zw?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZllsQmRFaEpNSlN6QjBNRWFKeUZLNEs1VmhtcUJHdXBWcDNfQ1U3NkxCX2tNU3kxZnlOcEdzOVZNM3lTRlJIMkJiQmlWRFJJOWt3S2FlV1MwdDBBUDRuWkFuTkZNc2RfQTN3ZVNBTDR5aEJuY2c3ZHMzTFNBNlQ3MDhqS0tSeXphQ1N1X2NaZEh4SlMzOU12SDgzYzIwRG42ekVJMFFtcmQtb3hnWG5fVtIBtgFBVV95cUxOYjRFNHlmTXI3QV9iWXVwOEpHVElpUEF4M2RneEg0Tzl4WlZXMXdwMkhGM1Qyb1lCMi1RYnpyc29DY1hnOGdnNmhGTkVWQlJfZFJ2OTg2aEV4cVVaOEhJc1JpVW9fbnB3WUNQaHBfb1lDMVFhOGFnQWQ2MWg5eXZvbW5xZURrYktUN0dHeW84ZU1ER0U3dmNGSDdfWUxtRmhIM0F0WVgzQTZCaldSYk5tZ29Pb254Zw?oc=5)
-
----
-
 ### [Darum ist Fruchtzucker bei Diabetes keine gesunde Alternative](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
 
 2026-05-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-News](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
-
----
-
-### [Produits ultratransformés : 43 associations pressent le gouvernement d’agir - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0VvblhSRTVlc1RHNnJuRV9XUHRMM0JzaDZNTlpHcVU3cmd1MHRNcFFuYmZNeklfR1hmeWJ6RVdPbHNNckdaYzdtM0F0RG1ldWtpaFRBQTRIbnhQWEtTWTZweFhUaVI1eUlrTXNhUXhrSGEweU9IcHFiTEM4UDB0UXZueW1mcFE5dTdwTWRjUUZvZTQzN1hBNGlhMGM?oc=5)
-
-2026-05-26 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0VvblhSRTVlc1RHNnJuRV9XUHRMM0JzaDZNTlpHcVU3cmd1MHRNcFFuYmZNeklfR1hmeWJ6RVdPbHNNckdaYzdtM0F0RG1ldWtpaFRBQTRIbnhQWEtTWTZweFhUaVI1eUlrTXNhUXhrSGEweU9IcHFiTEM4UDB0UXZueW1mcFE5dTdwTWRjUUZvZTQzN1hBNGlhMGM?oc=5)
 
 ---
 

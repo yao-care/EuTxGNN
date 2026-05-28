@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Unregelmäßige Mahlzeiten erhöhen Depressionsrisiko](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2FHclVwMUZsZkhRNU95c2M0ekZGeHJ3Z2lhWExoazZjQVh3aldLYzhkU0YwLU8yX0FKck51SVhldGQwZFV0Y1ZXdGpIeHdMcHZ2VG9PcWlSRktkaXgyZjlsVDQ4UkwwQUVCYndBTkMybFNYZm5qRWlnUGp6YVlYUTcxT0tRTFlqR05ZVlhFa2YxdGlNYTdzRFU3b19oUlZNSXJxeFo3aV8zSTZZTFpKRkNn?oc=5)
+
+2026-05-28
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2FHclVwMUZsZkhRNU95c2M0ekZGeHJ3Z2lhWExoazZjQVh3aldLYzhkU0YwLU8yX0FKck51SVhldGQwZFV0Y1ZXdGpIeHdMcHZ2VG9PcWlSRktkaXgyZjlsVDQ4UkwwQUVCYndBTkMybFNYZm5qRWlnUGp6YVlYUTcxT0tRTFlqR05ZVlhFa2YxdGlNYTdzRFU3b19oUlZNSXJxeFo3aV8zSTZZTFpKRkNn?oc=5)
+
+---
 
 ### [Hochfunktionale Depression: Wie man sie erkennt - was hilft - Neue Westfälische](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmU0SjZyYkdQOVVvSTBlMmpUQ3J3RGN5WlQ0ZzNvUG02WTNYQzQ3Mk5ZTU1XWndITUFBdTlqX05KdHp1R2xHcFNqRmxKcHhvaFVlNVlxVkp3WllyTnZUNTNGU0xEVEdiZDJsdnRQcllVQ3BQTjVJREFySnc1TFlhRml0NlRrZHVlZ3lnTUNhUElxalViQ3lKX2VUdGJ4eGw4Rk5tUQ?oc=5)
 

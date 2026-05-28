@@ -54,11 +54,11 @@ permalink: /news/entecavir/
 
 ## 相關新聞（1 則）
 
-### [Un fármaco experimental contra la hepatitis B podría ofrecer "cura funcional" a algunos pacientes - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ213bG1IOFFNck04U0ExVk54bTBscHExR3Mwa1ZxR1BNV25zTXhuWTdWYlQxWU5LTHZwbDMtT0pRVjY4TUZObDVRY1BmQmpDbWZLU18tU1BsbXJFZm9SRmJjcDZkajV1ZXRNeGdqcGZBREdzek1ia2ZqNm1IRmtUT3IwTWFJVklfUENVSTR4dXlRZzJkNnF4TTVBWkQ?oc=5)
+### [Bepirovirsen, de GSK, alcanza la curación funcional en uno de cada cinco pacientes con hepatitis B crónica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlpaSXMtSmtJUllrQ08zSFRaM01uaWxzUlRCQnNoa1poVVg4UE1Oc0dMT19yYlp4YzZ1LXRxelhiUGZMRG1SdVhXVktheW9JWG9FdkpZQ1ZfNFJoaEF0cnJhQTdsN3Y1bEp5Qk9FQUZRdEMya0c3dDRHWnFRejV5OGtiUVU3MzhsdEZpWXNLclZ5WFJhbnRhS0VmeDRwWTY3QzAtelgwZjBIWmF1bDZ3R2FTVEZxUGdmZG50UXZNdnVYRmJYcks5MUk0a1BNZlpSeEtnX0tLeWhmcm85eDliUGt2UQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">hepatitis</span>
+2026-05-28 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ213bG1IOFFNck04U0ExVk54bTBscHExR3Mwa1ZxR1BNV25zTXhuWTdWYlQxWU5LTHZwbDMtT0pRVjY4TUZObDVRY1BmQmpDbWZLU18tU1BsbXJFZm9SRmJjcDZkajV1ZXRNeGdqcGZBREdzek1ia2ZqNm1IRmtUT3IwTWFJVklfUENVSTR4dXlRZzJkNnF4TTVBWkQ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlpaSXMtSmtJUllrQ08zSFRaM01uaWxzUlRCQnNoa1poVVg4UE1Oc0dMT19yYlp4YzZ1LXRxelhiUGZMRG1SdVhXVktheW9JWG9FdkpZQ1ZfNFJoaEF0cnJhQTdsN3Y1bEp5Qk9FQUZRdEMya0c3dDRHWnFRejV5OGtiUVU3MzhsdEZpWXNLclZ5WFJhbnRhS0VmeDRwWTY3QzAtelgwZjBIWmF1bDZ3R2FTVEZxUGdmZG50UXZNdnVYRmJYcks5MUk0a1BNZlpSeEtnX0tLeWhmcm85eDliUGt2UQ?oc=5)
 
 ---
 
