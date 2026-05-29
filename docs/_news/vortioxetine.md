@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [New depression treatment targets the immune system instead of the brain](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
-
----
-
-### [Hochfunktionale Depression: Wie man sie erkennt - was hilft - Neue Westfälische](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlZXZkJESVFkREFaU2JBcGJPRnRIalpycUxPVUtYbGRaTUp3ckRrbnJzdXFXejJHNmZuaUxsdjdhdDZDREpUOVp3bHlYQUtHc2gxbzl0V0dmcGRpVy1rWnctajN3czhETDQtYXVoZDlXa0RaMlQ4V3ktall6UHJWNUI3WXpWdlZuR2Z5VHNOc2wwUFNLVnZDTkN6QnNaeVVrMVpNZw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">depression</span>
-
-來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlZXZkJESVFkREFaU2JBcGJPRnRIalpycUxPVUtYbGRaTUp3ckRrbnJzdXFXejJHNmZuaUxsdjdhdDZDREpUOVp3bHlYQUtHc2gxbzl0V0dmcGRpVy1rWnctajN3czhETDQtYXVoZDlXa0RaMlQ4V3ktall6UHJWNUI3WXpWdlZuR2Z5VHNOc2wwUFNLVnZDTkN6QnNaeVVrMVpNZw?oc=5)
 
 ---
 

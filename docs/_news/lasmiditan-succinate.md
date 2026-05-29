@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
-### [Una catedrática navarra aporta datos infantiles de España a un gran análisis mundial sobre obesidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzdpaUR5aW9QdC1ZdW5sdERNWmNFQ1Y3X2d1S1pXYTdhUl91VFB6VDI0UTZQVjVsVGNXaFVpUkpVR1B0U0NuZFNGel9ZV0dZX3BzMDdTWWY3c0ZUVTUyWHp4MVZSVlZJbmRSb1NSajRLeVpMVnlwb0xQRXFVbFFBdnlWR3FsZjUxeUtQZ1o1MXJxel9SUzMxZFdwSnFtUWlFNEp4VC1IV21RQkZJWXZCbmZmQW5xZ1drZzREUEFLUWt2VmFBZWYxZTk4YlptdVgxMUF3MF95NFVDclZnMTFsdDdEMzRGWGZFZ0HSAe8BQVVfeXFMTUZ5TjMxOXZkRVNJcTRsY1N3R2RfM1JfaVA0cmFxSTAwZjVxdThLVmpqY2xJeWc3TU1IaDNFN1ZFMmNGSkpVRWFJZlRlQlBkS0lrbGozWnhzUnhreVc0cE1lZWotbVlTaVZhVWhjUkc0SUN2bENlbWpkVVB0N2psREt6NGJvcTRncGxudkl0dW45S0kxem1LOHlCcy1MaDN6Nk5yWjA1bE1jNHRGYWZnVmFfd0U0aTBUWG5ZQW1LZHZmQVMzcmJlVWJkS2pnallPdjVKRnVoNkxUUlBaYU9DODlKdTZwR2o3MVBfUGNnUU0?oc=5)
+### [Las palabras importan: la SEN publica una guía para comunicar mejor sobre la migraña](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
-2026-05-28 <span class="news-indication-tag">obesidad</span>
+2026-05-29 <span class="news-indication-tag">migraña</span>
 
-來源：[Navarra.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzdpaUR5aW9QdC1ZdW5sdERNWmNFQ1Y3X2d1S1pXYTdhUl91VFB6VDI0UTZQVjVsVGNXaFVpUkpVR1B0U0NuZFNGel9ZV0dZX3BzMDdTWWY3c0ZUVTUyWHp4MVZSVlZJbmRSb1NSajRLeVpMVnlwb0xQRXFVbFFBdnlWR3FsZjUxeUtQZ1o1MXJxel9SUzMxZFdwSnFtUWlFNEp4VC1IV21RQkZJWXZCbmZmQW5xZ1drZzREUEFLUWt2VmFBZWYxZTk4YlptdVgxMUF3MF95NFVDclZnMTFsdDdEMzRGWGZFZ0HSAe8BQVVfeXFMTUZ5TjMxOXZkRVNJcTRsY1N3R2RfM1JfaVA0cmFxSTAwZjVxdThLVmpqY2xJeWc3TU1IaDNFN1ZFMmNGSkpVRWFJZlRlQlBkS0lrbGozWnhzUnhreVc0cE1lZWotbVlTaVZhVWhjUkc0SUN2bENlbWpkVVB0N2psREt6NGJvcTRncGxudkl0dW45S0kxem1LOHlCcy1MaDN6Nk5yWjA1bE1jNHRGYWZnVmFfd0U0aTBUWG5ZQW1LZHZmQVMzcmJlVWJkS2pnallPdjVKRnVoNkxUUlBaYU9DODlKdTZwR2o3MVBfUGNnUU0?oc=5)
+來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
 ---
 
-### [Ozempic, Wegovy, Mounjaro... Quels sont les effets secondaires des médicaments anti-obésité bientôt remboursés en France ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
+### [Migraña y café: ¿enemigos o aliados?](https://news.google.com/rss/articles/CBMickFVX3lxTE1nSWtNTHZQejZtME9IZFdkX0c1aEhXNFdRS2RYeXBnajhidnczRS1fdG5pdnAtZWlMTGR1V0JVZ3ozenhIYkpvckFkNS1UaWNvZlhKQ1hjSHAxUWY0SDBDWS1FSENCZmFoVnlPU3d3cGx4QQ?oc=5)
+
+2026-05-29 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMickFVX3lxTE1nSWtNTHZQejZtME9IZFdkX0c1aEhXNFdRS2RYeXBnajhidnczRS1fdG5pdnAtZWlMTGR1V0JVZ3ozenhIYkpvckFkNS1UaWNvZlhKQ1hjSHAxUWY0SDBDWS1FSENCZmFoVnlPU3d3cGx4QQ?oc=5)
+
+---
+
+### [Expertos defienden tratar la obesidad como una enfermedad crónica que va más allá del peso para frenar el riesgo cardiovascular y la diabetes - Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
+
+2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
+
+---
+
+### [Mounjaro et Wegovy : le remboursement est enfin acté - Le Quotidien du Médecin](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTQ0d01QeVd5SG9SUWlUNkplb3pmMXA3T0Z0VG1XR0YyMXZyVzRSVDI3bHc2SnhVT2oyTXRROFlVNklMOHJfcVY1c0hKcV9fU3d2eVdMLW1pWUZJNnpqZnRYQkpwV2I2SHJLVi00TnVJRmJaamVNOHdpSGUtanBXalg5RlJEMUFjWGZLNHNWU25nMThsd1NJdHcyTXpxVV9nUXk4ZUxMWXJxSHJlc09yRQ?oc=5)
 
 2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
+來源：[Le Quotidien du Médecin](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSTQ0d01QeVd5SG9SUWlUNkplb3pmMXA3T0Z0VG1XR0YyMXZyVzRSVDI3bHc2SnhVT2oyTXRROFlVNklMOHJfcVY1c0hKcV9fU3d2eVdMLW1pWUZJNnpqZnRYQkpwV2I2SHJLVi00TnVJRmJaamVNOHdpSGUtanBXalg5RlJEMUFjWGZLNHNWU25nMThsd1NJdHcyTXpxVV9nUXk4ZUxMWXJxSHJlc09yRQ?oc=5)
+
+---
+
+### [Los países con ingresos bajos requieren nuevas políticas de control para frenar la obesidad](https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnRzdE1GdS1kc00wUVcwTkVpOXFOTjFJeFFfQ195UExsUVZEa0ZIazBoME5CNkFDcVNLQ1psUkdJOFZwWk9wMlBhT2hZTjRZTlQzMmZoNXhLX0E1NnhuTnMybGZ2UmtxWXNtZjNac3V3N0h4amg2TmtQUmxNdGkxTC1ZUW9KQTZqelh6ZHRQZi1HX2x2OEs5WlJWa1BuQ1V3T05GRG9VdEItN2tkQi1z?oc=5)
+
+2026-05-28 <span class="news-indication-tag">obesidad</span>
+
+來源：[Ruvid](https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnRzdE1GdS1kc00wUVcwTkVpOXFOTjFJeFFfQ195UExsUVZEa0ZIazBoME5CNkFDcVNLQ1psUkdJOFZwWk9wMlBhT2hZTjRZTlQzMmZoNXhLX0E1NnhuTnMybGZ2UmtxWXNtZjNac3V3N0h4amg2TmtQUmxNdGkxTC1ZUW9KQTZqelh6ZHRQZi1HX2x2OEs5WlJWa1BuQ1V3T05GRG9VdEItN2tkQi1z?oc=5)
 
 ---
 
@@ -91,14 +115,6 @@ permalink: /news/lasmiditan-succinate/
 2026-05-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 來源：[Segre.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3Btcmp5YnRWdHo3Y1FBQTltUUE5RmF1ZU1NQkVjOU1wRUNUY3docFE5VkwwVDIxVlRzblRmd0xrSThMU05zUXUzZ2Q2N1JYQ294V0FBdm5kNU53VnpkaERpaER0R2FSU09UYzE3eU9oVE4yY18yd2taZXNEWjBBOW4zM2I1MHRNMFdGWnhRckktMGRDQ2RWZE9zd3FoTFAyMVNjVFQwcTdjNW5CMnNCMXVBcU94dVBRM0NhdFB3?oc=5)
-
----
-
-### [Why You Gain Weight During Menopause—and What to Do About It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">obesity</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
 
 ---
 

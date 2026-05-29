@@ -54,11 +54,19 @@ permalink: /news/dacomitinib-monohydrate/
 
 ## 相關新聞（3 則）
 
-### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+### [Gene therapies to fix failing hearts gain steam after years in the doldrums](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR3A4YmtkbWF5dHQxTnotaTZlSm9TUmY0cGQ0dkN1U1pGX0xfa1dZVUFsRTBLS0taLVpMTmhxRlNnOEhUdW1vN2lNblRlS3BmU09Lajd1RlBNc0puWkJJ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+2026-05-28 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR3A4YmtkbWF5dHQxTnotaTZlSm9TUmY0cGQ0dkN1U1pGX0xfa1dZVUFsRTBLS0taLVpMTmhxRlNnOEhUdW1vN2lNblRlS3BmU09Lajd1RlBNc0puWkJJ?oc=5)
+
+---
+
+### [Precautionary recall of blood pressure medication (Crescent Pharma Limited Ramipril 2.5mg capsules) after packaging error](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNelBmTURseTdNTnNweEhBODVYanNyMzNkLWpvd2VLQnBzbmZsdmNsNXdYUE03Q0xhOXBPUVhKMTgxZ2xud3JUdzZ4UUY4M2xlSzhRc1Q2cGVHUUZRRVZtOEhid0JZd0J3bWJUdU9fS0RwZFJVanJCbEc0cHRfeTdmRGhWYXRpbU42WFNESHhiLU9BMmtBNmtIa1p3ZEJVOWx5X0RTVUlfRkpnYVBYekp5TExIdmFJNHpXOEJ5cHoxekpLZjdUX1RoU1pGREpPWXkwWmV1bjNpd1lTTHlqbGpNeTlCSDlDWGd0?oc=5)
+
+2026-05-28 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+
+來源：[GOV.UK](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNelBmTURseTdNTnNweEhBODVYanNyMzNkLWpvd2VLQnBzbmZsdmNsNXdYUE03Q0xhOXBPUVhKMTgxZ2xud3JUdzZ4UUY4M2xlSzhRc1Q2cGVHUUZRRVZtOEhid0JZd0J3bWJUdU9fS0RwZFJVanJCbEc0cHRfeTdmRGhWYXRpbU42WFNESHhiLU9BMmtBNmtIa1p3ZEJVOWx5X0RTVUlfRkpnYVBYekp5TExIdmFJNHpXOEJ5cHoxekpLZjdUX1RoU1pGREpPWXkwWmV1bjNpd1lTTHlqbGpNeTlCSDlDWGd0?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/dacomitinib-monohydrate/
 2026-05-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
-
----
-
-### [I’m a doctor — these are 4 lesser-known signs of 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">hypertension</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
 
 ---
 

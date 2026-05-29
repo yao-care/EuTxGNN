@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
 
-### [Demenzprävention: 45 Prozent aller Fälle durch Lebensstil vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREUyM1Y3N2pGVXFpM1ZzeXh6UmZ0YjIxMTd0dFRvNDRQNUhCbDY4b1JDM05OOHdGOWdXRHhxWE9tbW1pcVBJUDdfT3BUSmV2VUoySU94WW5DWERHSWRrN1p6dkhyMTNVdHJzLVZSY3VoUzFVS3NYb1ZiWFB1V1dMOElDMmtRakEtNElETEdKcy1OZ19yenp1dzZhenV4aGlfOE1manlQakhwQlZsZ1VqUm5QZVJsa0l1NlE?oc=5)
+### [Allarme sigarette elettroniche: «Danni irreversibili, progettati per intrappolare i più giovani». L'appello della regina Letizia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXRpWWw3b2NNb05NSVFFeXNnTFY1WlJvejh3YTRKYk9WYm1hMEozZnE5VEVuNnU5X2tZRGhfZXF0WEZvSWpyN1Y5S0pNRFdpdVBLeFFBalJGYWdpYl81RE9tb2IwV2YyS2tJMW92Z1F6SWRMSzBXa1llZm8wejVqNUdTZ0VsYVUzR0FWMktjcm5FNG5GMXV0NzFOZEdpb3lCSWxUdWE4blZDekFkblBZcUgwZEJJWUYzTGxHM1Y0RVhIMjdCd0xGcGVxQXo0UmVHTnVkb3lSblY0WVFXV3dETW94OUNYOHpvMFItMTNB0gHYAUFVX3lxTE9XNzVkaXZCaWh1aksta0UyZ29hTER2YVl6RDFzRWlsbmJhS3NERVJpc2RWZHl6ODhzaWEyN0xXZzYtRVNXYVI5ajd2U1ducFVRb3VJLXBIdXdhQlFzQnpBMUpERjQ0MTRhQ00yYUVHLU1tRjFqSE9Vc1ZQNndici05dXJpa2VyQURWLVJJOUptVDBQWXp5dlBDUEwzOFVLLXBleXVMVmp3ZVZuNHRiNHRDeE9zcDFBaXBiTFo2VFMxMWpPN21pVHhNWTdNeVM3SHBKeUYwS1k2OA?oc=5)
+
+2026-05-29 <span class="news-indication-tag">ictus</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXRpWWw3b2NNb05NSVFFeXNnTFY1WlJvejh3YTRKYk9WYm1hMEozZnE5VEVuNnU5X2tZRGhfZXF0WEZvSWpyN1Y5S0pNRFdpdVBLeFFBalJGYWdpYl81RE9tb2IwV2YyS2tJMW92Z1F6SWRMSzBXa1llZm8wejVqNUdTZ0VsYVUzR0FWMktjcm5FNG5GMXV0NzFOZEdpb3lCSWxUdWE4blZDekFkblBZcUgwZEJJWUYzTGxHM1Y0RVhIMjdCd0xGcGVxQXo0UmVHTnVkb3lSblY0WVFXV3dETW94OUNYOHpvMFItMTNB0gHYAUFVX3lxTE9XNzVkaXZCaWh1aksta0UyZ29hTER2YVl6RDFzRWlsbmJhS3NERVJpc2RWZHl6ODhzaWEyN0xXZzYtRVNXYVI5ajd2U1ducFVRb3VJLXBIdXdhQlFzQnpBMUpERjQ0MTRhQ00yYUVHLU1tRjFqSE9Vc1ZQNndici05dXJpa2VyQURWLVJJOUptVDBQWXp5dlBDUEwzOFVLLXBleXVMVmp3ZVZuNHRiNHRDeE9zcDFBaXBiTFo2VFMxMWpPN21pVHhNWTdNeVM3SHBKeUYwS1k2OA?oc=5)
+
+---
+
+### [Hypertonie: Polypille kann Schlaganfall-Rezidiv nach Hirnblutung vorbeugen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMa2tEUWl4VFRxZVk4OXJmbEhYZHU1SUVRYUNHbzgwbWE3MUdPWlNDeGp5VS1yMW9wdUxXMC1hVEk4WGdBX1lHeG9qbk5VZUQ2X1AwTW92el95bFRvaW5pY0t1VlBKUlVWbWliU3JWUnF1dVNtd0lmeXBnTkhnWFB6RWdhWlBZTjFxZUNoWnMzMEhFU0ZJX1NidXpUdkhMNXJvYlY5bHZIT2x0azdnaFpVbWxKNG5CTHI1di1VZG1KN2NLaldNdkdzNmpQV2NaRmFJcVVaWVVMQQ?oc=5)
 
 2026-05-29 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREUyM1Y3N2pGVXFpM1ZzeXh6UmZ0YjIxMTd0dFRvNDRQNUhCbDY4b1JDM05OOHdGOWdXRHhxWE9tbW1pcVBJUDdfT3BUSmV2VUoySU94WW5DWERHSWRrN1p6dkhyMTNVdHJzLVZSY3VoUzFVS3NYb1ZiWFB1V1dMOElDMmtRakEtNElETEdKcy1OZ19yenp1dzZhenV4aGlfOE1manlQakhwQlZsZ1VqUm5QZVJsa0l1NlE?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMa2tEUWl4VFRxZVk4OXJmbEhYZHU1SUVRYUNHbzgwbWE3MUdPWlNDeGp5VS1yMW9wdUxXMC1hVEk4WGdBX1lHeG9qbk5VZUQ2X1AwTW92el95bFRvaW5pY0t1VlBKUlVWbWliU3JWUnF1dVNtd0lmeXBnTkhnWFB6RWdhWlBZTjFxZUNoWnMzMEhFU0ZJX1NidXpUdkhMNXJvYlY5bHZIT2x0azdnaFpVbWxKNG5CTHI1di1VZG1KN2NLaldNdkdzNmpQV2NaRmFJcVVaWVVMQQ?oc=5)
+
+---
+
+### [Demenzprävention: Fast jede zweite Erkrankung ließe sich bremsen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQUVVzazhNMFc0eDVYQWVxdTYwakZOTEEyc01nQjg0dVI2TWFMeHpLcUtRNExBQkViVURSZ2JCOTN2WW14Rm5zSUlrVU1xT1I2LXh0cTZ1MUlGRnY5a20wWGJxRFZ6WHprRWJwNzRoRDhNa3lRdzR6TXZpdkJTQm1MMmh4WkFNcVRoVzBPWnJibGVVSVBMLWpCUnVxRjlGZw?oc=5)
+
+2026-05-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQUVVzazhNMFc0eDVYQWVxdTYwakZOTEEyc01nQjg0dVI2TWFMeHpLcUtRNExBQkViVURSZ2JCOTN2WW14Rm5zSUlrVU1xT1I2LXh0cTZ1MUlGRnY5a20wWGJxRFZ6WHprRWJwNzRoRDhNa3lRdzR6TXZpdkJTQm1MMmh4WkFNcVRoVzBPWnJibGVVSVBMLWpCUnVxRjlGZw?oc=5)
+
+---
+
+### [«Si l’on prend un traitement antidépresseur, on est plus à risque de faire un AVC» : le Pr Claire Mounier Vehier alerte sur le lien entre le cœur et la santé mentale - Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
+
+2026-05-28 <span class="news-indication-tag">AVC</span>
+
+來源：[Madame Figaro](https://news.google.com/rss/articles/CBMisAJBVV95cUxNekFlaHFibURGWGIweENZdjQ5RFYwN3JlbTlYZU4yR1NsX29aRC1na1NldEJPVmFwOVI4c0ItQ1QteWRLYjRYR3pRbE1HSkdycmFvLWxiOGVzbnp0RzZ2V3pncU1FY0xjLXBZZzlzSXhESm9fOHd4b2tMWVkzTTVlb0h6eHEyNFlYTk5MM0FTcHhDYTZkRTRycEprRXlQa2lHTXU4cENJbDJmZ2VVN0hOVUgzQUlHNGNRX3pXX2s1VXdrNUNpdVQ2OUJfSDVlM1EwR3BKeV9zM2YycGRzV2xwTE53dnRkdTFSTkxMVzVUVTlSUjNUdWYxUHluQTB3a3NZeVVKUW9Fdk9HUGlwRFFDOFNwYS12bmRWMmpOSDktcEFHbjBWVUM4T3dZLTJXdFBP?oc=5)
 
 ---
 
