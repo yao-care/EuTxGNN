@@ -54,17 +54,17 @@ permalink: /news/givosiran/
 
 ## 相關新聞（3 則）
 
-### [Bepirovirsen, de GSK, alcanza la curación funcional en uno de cada cinco pacientes con hepatitis B crónica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlpaSXMtSmtJUllrQ08zSFRaM01uaWxzUlRCQnNoa1poVVg4UE1Oc0dMT19yYlp4YzZ1LXRxelhiUGZMRG1SdVhXVktheW9JWG9FdkpZQ1ZfNFJoaEF0cnJhQTdsN3Y1bEp5Qk9FQUZRdEMya0c3dDRHWnFRejV5OGtiUVU3MzhsdEZpWXNLclZ5WFJhbnRhS0VmeDRwWTY3QzAtelgwZjBIWmF1bDZ3R2FTVEZxUGdmZG50UXZNdnVYRmJYcks5MUk0a1BNZlpSeEtnX0tLeWhmcm85eDliUGt2UQ?oc=5)
+### [Bepirovirsen alcanza la curación funcional en uno de cada cinco pacientes con hepatitis B crónica - Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTk9jTjFyTnhxT1Y3XzJYU0hUODFpMDhPdVBQRV83TTBBNjJxRVJ5MGVOYXdncUxlUE13TDRvODFkd0k3ZEs4WC0tTkxibGs5RlUzUk53WjBsYUxnMXZDV2puU2pxczlyZGtIYnJSODVkZjRJdzM3TlNXbG9qbHYzT3lNUkRkc1lVcmhqeEVfUWRZRnRiUXpMV2djdWJ1REMxY0JudTVBUk0?oc=5)
 
 2026-05-28 <span class="news-indication-tag">hepatitis</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlpaSXMtSmtJUllrQ08zSFRaM01uaWxzUlRCQnNoa1poVVg4UE1Oc0dMT19yYlp4YzZ1LXRxelhiUGZMRG1SdVhXVktheW9JWG9FdkpZQ1ZfNFJoaEF0cnJhQTdsN3Y1bEp5Qk9FQUZRdEMya0c3dDRHWnFRejV5OGtiUVU3MzhsdEZpWXNLclZ5WFJhbnRhS0VmeDRwWTY3QzAtelgwZjBIWmF1bDZ3R2FTVEZxUGdmZG50UXZNdnVYRmJYcks5MUk0a1BNZlpSeEtnX0tLeWhmcm85eDliUGt2UQ?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTk9jTjFyTnhxT1Y3XzJYU0hUODFpMDhPdVBQRV83TTBBNjJxRVJ5MGVOYXdncUxlUE13TDRvODFkd0k3ZEs4WC0tTkxibGs5RlUzUk53WjBsYUxnMXZDV2puU2pxczlyZGtIYnJSODVkZjRJdzM3TlNXbG9qbHYzT3lNUkRkc1lVcmhqeEVfUWRZRnRiUXpMV2djdWJ1REMxY0JudTVBUk0?oc=5)
 
 ---
 
 ### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 
-2026-05-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-05-28 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 

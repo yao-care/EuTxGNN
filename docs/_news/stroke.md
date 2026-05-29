@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（1 則）
 
-### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
+### [Gehirnschutz durch Alltag: Schach, Bewegung und frühe KI-Diagnostik gegen Demenz - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDM1ZDVyYm5uMFFSUXFjXzFKTjBsdWEzV18xeFFMQi1UVFI4ZElKTGY4ZWdRY29zTWJKc1NmWFJldzRJdmtuS1NsanRFVzJFTlpDUHNTS0RBNzdTVklLLUYtUFdaWjRoajNJSlhQb0tjcHdyaFZ6M3JEcHM1VUIwb3pjd185bWdRYnRaU3l0OThaM3MtVUhjb1FBQjNHSmZYMU95OW9CRTAyOG9jMHRGSw?oc=5)
 
-2026-05-27
+2026-05-28
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDM1ZDVyYm5uMFFSUXFjXzFKTjBsdWEzV18xeFFMQi1UVFI4ZElKTGY4ZWdRY29zTWJKc1NmWFJldzRJdmtuS1NsanRFVzJFTlpDUHNTS0RBNzdTVklLLUYtUFdaWjRoajNJSlhQb0tjcHdyaFZ6M3JEcHM1VUIwb3pjd185bWdRYnRaU3l0OThaM3MtVUhjb1FBQjNHSmZYMU95OW9CRTAyOG9jMHRGSw?oc=5)
 
 ---
 

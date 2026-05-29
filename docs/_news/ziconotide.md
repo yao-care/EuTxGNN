@@ -54,14 +54,6 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（5 則）
 
-### [Solución contra la obesidad o moda pasajera: el dilema de los medicamentos para adelgazar](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnkzak5kM2FpMzd3T0xyaEZ1VzlEbHVwc3V3cmFtdGZ0SWNjS09jQzNSUTJMYURvdmVTc096RG15cWVScE5vdUI0bWo5ZDk4OXd2OHZzc1U3LTBOZGFCN2dLV2FXNHpOQlRKcnlIeEJSelloWXFMY1BqS1FiUnJMT1U5TlNtS1BDUjZUNzVSUVlxcHdZRWFxcFB5SmhkNzZkc0RjZw?oc=5)
-
-2026-05-28 <span class="news-indication-tag">obesidad</span>
-
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnkzak5kM2FpMzd3T0xyaEZ1VzlEbHVwc3V3cmFtdGZ0SWNjS09jQzNSUTJMYURvdmVTc096RG15cWVScE5vdUI0bWo5ZDk4OXd2OHZzc1U3LTBOZGFCN2dLV2FXNHpOQlRKcnlIeEJSelloWXFMY1BqS1FiUnJMT1U5TlNtS1BDUjZUNzVSUVlxcHdZRWFxcFB5SmhkNzZkc0RjZw?oc=5)
-
----
-
 ### [Una catedrática navarra aporta datos infantiles de España a un gran análisis mundial sobre obesidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzdpaUR5aW9QdC1ZdW5sdERNWmNFQ1Y3X2d1S1pXYTdhUl91VFB6VDI0UTZQVjVsVGNXaFVpUkpVR1B0U0NuZFNGel9ZV0dZX3BzMDdTWWY3c0ZUVTUyWHp4MVZSVlZJbmRSb1NSajRLeVpMVnlwb0xQRXFVbFFBdnlWR3FsZjUxeUtQZ1o1MXJxel9SUzMxZFdwSnFtUWlFNEp4VC1IV21RQkZJWXZCbmZmQW5xZ1drZzREUEFLUWt2VmFBZWYxZTk4YlptdVgxMUF3MF95NFVDclZnMTFsdDdEMzRGWGZFZ0HSAe8BQVVfeXFMTUZ5TjMxOXZkRVNJcTRsY1N3R2RfM1JfaVA0cmFxSTAwZjVxdThLVmpqY2xJeWc3TU1IaDNFN1ZFMmNGSkpVRWFJZlRlQlBkS0lrbGozWnhzUnhreVc0cE1lZWotbVlTaVZhVWhjUkc0SUN2bENlbWpkVVB0N2psREt6NGJvcTRncGxudkl0dW45S0kxem1LOHlCcy1MaDN6Nk5yWjA1bE1jNHRGYWZnVmFfd0U0aTBUWG5ZQW1LZHZmQVMzcmJlVWJkS2pnallPdjVKRnVoNkxUUlBaYU9DODlKdTZwR2o3MVBfUGNnUU0?oc=5)
 
 2026-05-28 <span class="news-indication-tag">obesidad</span>
@@ -83,6 +75,14 @@ permalink: /news/ziconotide/
 2026-05-28 <span class="news-indication-tag">emicrania</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
+
+---
+
+### [El auge de los nuevos fármacos adelgazantes y sus riesgos, en La 2](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3Btcmp5YnRWdHo3Y1FBQTltUUE5RmF1ZU1NQkVjOU1wRUNUY3docFE5VkwwVDIxVlRzblRmd0xrSThMU05zUXUzZ2Q2N1JYQ294V0FBdm5kNU53VnpkaERpaER0R2FSU09UYzE3eU9oVE4yY18yd2taZXNEWjBBOW4zM2I1MHRNMFdGWnhRckktMGRDQ2RWZE9zd3FoTFAyMVNjVFQwcTdjNW5CMnNCMXVBcU94dVBRM0NhdFB3?oc=5)
+
+2026-05-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+來源：[Segre.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3Btcmp5YnRWdHo3Y1FBQTltUUE5RmF1ZU1NQkVjOU1wRUNUY3docFE5VkwwVDIxVlRzblRmd0xrSThMU05zUXUzZ2Q2N1JYQ294V0FBdm5kNU53VnpkaERpaER0R2FSU09UYzE3eU9oVE4yY18yd2taZXNEWjBBOW4zM2I1MHRNMFdGWnhRckktMGRDQ2RWZE9zd3FoTFAyMVNjVFQwcTdjNW5CMnNCMXVBcU94dVBRM0NhdFB3?oc=5)
 
 ---
 

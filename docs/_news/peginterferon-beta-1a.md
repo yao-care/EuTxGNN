@@ -54,11 +54,11 @@ permalink: /news/peginterferon-beta-1a/
 
 ## 相關新聞（33 則）
 
-### [Ebola. L’Ecdc alza il livello di allerta: “Situazione complessa, nessun vaccino per il ceppo in corso” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXB6dWdxbmRlRmJ3VDhvc0R6RGJaZk1WOFpsRmhFV09mNlljY19XT2hFRDQtbkJxUUZ4TTM4eUY2NHZJQzFTeWdGWnl6VTVsM2h0eTM3eDNpeGFLOUlIV2FtdEwxXzNGNnJjSGhPb2NLVkltbFFUNDJxcXpiUzRGRkVPeTNaMXpCQTRMNUVrdktEUjlGZzg5VVlKaExNYkg2Um95a2ZxeG1RTWpzbmV5VmpBLTVkYTlueWVrVzBWTmx0a0FnNUNkOVJSTHlyX1hfdDhmeXdsVExKeTUtY2hhRA?oc=5)
+### [PCOS umbenannt: Polyzystisches Metabolisches Ovarialsyndrom seit Mai - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUxBSndvODQwNkwwUDg0dlRYNkwzNlo0dVBycVZ2TjhwT1c0SnBnRzIwMVk5cGhpTG5pbWRwT0xjNm5Nb29ueHJrbGJXSncyT3lfVy1vclBhZE5BQjNHQnlLSWNub05CM3MzWWlhenF0ZTBVWlVCdEE5ZEItcjBHaDNaQVFfbHhMdzl6aGFma2h2T2IwYXBYVnVoS0FTYmNETm5wbXV3WUdRLXJpaEtfUi1HS2t5djQ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">MS</span>
 
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXB6dWdxbmRlRmJ3VDhvc0R6RGJaZk1WOFpsRmhFV09mNlljY19XT2hFRDQtbkJxUUZ4TTM4eUY2NHZJQzFTeWdGWnl6VTVsM2h0eTM3eDNpeGFLOUlIV2FtdEwxXzNGNnJjSGhPb2NLVkltbFFUNDJxcXpiUzRGRkVPeTNaMXpCQTRMNUVrdktEUjlGZzg5VVlKaExNYkg2Um95a2ZxeG1RTWpzbmV5VmpBLTVkYTlueWVrVzBWTmx0a0FnNUNkOVJSTHlyX1hfdDhmeXdsVExKeTUtY2hhRA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUxBSndvODQwNkwwUDg0dlRYNkwzNlo0dVBycVZ2TjhwT1c0SnBnRzIwMVk5cGhpTG5pbWRwT0xjNm5Nb29ueHJrbGJXSncyT3lfVy1vclBhZE5BQjNHQnlLSWNub05CM3MzWWlhenF0ZTBVWlVCdEE5ZEItcjBHaDNaQVFfbHhMdzl6aGFma2h2T2IwYXBYVnVoS0FTYmNETm5wbXV3WUdRLXJpaEtfUi1HS2t5djQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-28 <span class="news-indication-tag">cancer</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkhGUHlKOFl0R1BYRUd4UkFkbHZWcWVKRGVrRkwxS3hMTW1KZllnUF9waE9fR1QydkZqZmhtOGhMcFczSHZVRU94NTVreHVpNW9nRzVGNThaTlB1ZG85UXVfQlk0RnZZQ3lQVUxDSVJ1UllyMVVleGRPV21SbHlsQXNEMlVKYnI2NjVqRXk3aVlUX3VhRXA3cXpJSng2elY3U09RSFZsZUMzZnNDR2EtOXhOTGJ0Z3JSRFRv?oc=5)
-
----
-
-### [PMOS statt PCOS: neue Leitlinie, Rekord-Abnehmstudien und China-Zulassung - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdNSVVzR2hFc0hsbEJsN2JIR0JIUHYyRmNHcjdJQlZ4T0JHU2liNG5sWVhfNG5xQXlUSzktVVVzbHZEYTZFUHB1MS1BdTN2aWN1d0ZHQmRRckVVLXV2X2ExajFVQUxBMW50eFI2aDQ2UmVMYmlqSVl4MEF2dVVRdm01RDF1aU1aNTduVmlldGdVX1BmckVaVU9VaW9DTjJJdkk1ZFRn?oc=5)
-
-2026-05-28 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdNSVVzR2hFc0hsbEJsN2JIR0JIUHYyRmNHcjdJQlZ4T0JHU2liNG5sWVhfNG5xQXlUSzktVVVzbHZEYTZFUHB1MS1BdTN2aWN1d0ZHQmRRckVVLXV2X2ExajFVQUxBMW50eFI2aDQ2UmVMYmlqSVl4MEF2dVVRdm01RDF1aU1aNTduVmlldGdVX1BmckVaVU9VaW9DTjJJdkk1ZFRn?oc=5)
 
 ---
 
@@ -102,14 +94,6 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### [Prostatakrebs: „Die Ergebnisse sind beeindruckend“ – neues Medikament wirkt vielversprechend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjluY1d4OHRnSHJodnJnOUw4QW10UmM4VmZOY2NibVdTUXZYX3oyalJrWS00endPMDFiNVhTZmRSVDRYaG9pNXNwT2tIOWJZeGNsbFRONVR2S2pqUkRsUVE5OTJQbDF2X2lFdzc4andUdnRaYkhJS2d1U3VMRHZlM1RQbkluVWhKczBGdDhkemt0WjNyc3BhdFN0SURuSGVka0hIYWU4bVpvRE1PMU1lcTNuVkw5a2cwWmlyRGdPZDhQWVBDVVpiQzAzMXM4Yy04aFVLa0hobzh4QmdCbFhTSzBnRWlEc0h3eXVJ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjluY1d4OHRnSHJodnJnOUw4QW10UmM4VmZOY2NibVdTUXZYX3oyalJrWS00endPMDFiNVhTZmRSVDRYaG9pNXNwT2tIOWJZeGNsbFRONVR2S2pqUkRsUVE5OTJQbDF2X2lFdzc4andUdnRaYkhJS2d1U3VMRHZlM1RQbkluVWhKczBGdDhkemt0WjNyc3BhdFN0SURuSGVka0hIYWU4bVpvRE1PMU1lcTNuVkw5a2cwWmlyRGdPZDhQWVBDVVpiQzAzMXM4Yy04aFVLa0hobzh4QmdCbFhTSzBnRWlEc0h3eXVJ?oc=5)
-
----
-
 ### [Milano, morto accoltellato un giovane. Il padre: «È stata la gang latina MS13» - La Verità](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHB5UDdab0RYaWdBRzlxTHZ5djBIRDlVRzFfeDBqZFhnUERhSDZ4azlqZHA3cDVfUUMyZHZrNzVEdDY4NUtfaFJ4OVFzeFNrVWhUc1VxRW1SbmtENV9FWjdEbHFfOWp2dklaUkxEOXViLXlDZGZ2ZjVsWk9mSzVUbU40N3hRNzdH?oc=5)
 
 2026-05-28 <span class="news-indication-tag">MS</span>
@@ -126,19 +110,19 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
-### [Heart surgeon claims 1 drink is 'liquid death' and warns you should never drink it — not alcohol - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5Dem5UWUF5SkRDZVFyVUFmTWtjZ083eThjM1RKdW1sOXZLVmE4OXl3SjBtRXo2ZWxITTJKMUQ0cFVmQ0VLeFJkaVd2VmstbTBiRVJ3Ti1ieVAyZFpuYUpLX1BtbVRoOUgxY09aelpMYnhUSGdRaWhnREpDWHVZS01Tc07SAYoBQVVfeXFMTVA1R1JJNTRONVNtenJRd19FelhhOXgxU3lMVlA1Q1poaE9XTlZkZjNUVktaSUhiQ0NCanlCcV9JTmdCNWt3WGZ4Uk5JYXU5WXFIbDEzRzk1WFlsN3l1N08xUGZxM3l5Tlp2NnViTXhhdFoya3NMVFVtellvbHp0ZTNLSHJIM09xb25R?oc=5)
+### [Demenz: Neue Immunzellen und KI für frühere Diagnose bei Alzheimer - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTURlZUV2azhkOEczVEt5YU1FYVJxbmdEVzgwRVBnMVctcWRnNjdRbjBQcGNiUUFrWkZBVTBRaVU1bzlyWUhnT2JXRVEzTzlCNmtKUmc5dnc1dFNhQmVab1YwSVhpN3gzTS1UYmhvMk9EU2Y2bkZ3T0Q4aGZPVkc5cVJYcmluUEY2QktkNE80RG5VWnZjZjZkNERqUFg4MEky?oc=5)
 
 2026-05-28 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5Dem5UWUF5SkRDZVFyVUFmTWtjZ083eThjM1RKdW1sOXZLVmE4OXl3SjBtRXo2ZWxITTJKMUQ0cFVmQ0VLeFJkaVd2VmstbTBiRVJ3Ti1ieVAyZFpuYUpLX1BtbVRoOUgxY09aelpMYnhUSGdRaWhnREpDWHVZS01Tc07SAYoBQVVfeXFMTVA1R1JJNTRONVNtenJRd19FelhhOXgxU3lMVlA1Q1poaE9XTlZkZjNUVktaSUhiQ0NCanlCcV9JTmdCNWt3WGZ4Uk5JYXU5WXFIbDEzRzk1WFlsN3l1N08xUGZxM3l5Tlp2NnViTXhhdFoya3NMVFVtellvbHp0ZTNLSHJIM09xb25R?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTURlZUV2azhkOEczVEt5YU1FYVJxbmdEVzgwRVBnMVctcWRnNjdRbjBQcGNiUUFrWkZBVTBRaVU1bzlyWUhnT2JXRVEzTzlCNmtKUmc5dnc1dFNhQmVab1YwSVhpN3gzTS1UYmhvMk9EU2Y2bkZ3T0Q4aGZPVkc5cVJYcmluUEY2QktkNE80RG5VWnZjZjZkNERqUFg4MEky?oc=5)
 
 ---
 
-### [Sanofi organiza la jornada ‘JaquEMate a la esclerosis múltiple’ para reflexionar sobre cómo está cambiando la manera de abordar la enfermedad](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU0N0NnpnNzVBYWRwQmdlZXd0UjI3dmVnZXJYYlQyMUlpR0ZTM041MzBmQkI2RGxUS2ZLQTNYZVV6TmMwU1FnU3pRQVE5TlFuLUtIYWtXak1IcjNHNk9yWkdQbzR5c3Y3M1hhOHMtMmVnbGVYd0hrbWRMUUM2UkFtcGgyYjcxYUotVUQ2b1FsSGl0WndwSTZTSmpsQWFFdU9lZC02SnB6YXBIUzRXRGVGMUV4cFZKYm1GU0JXajJQb0pscDN1SDdhVy1LNFFVMncwWmpkZk1IcTl5cDJKM3pQbXNxTkIzZ3lJX284bHg0RXlyMmhfaEhpdklCaTA?oc=5)
+### [Heart surgeon urges people to avoid 1 drink he calls 'liquid death' — not alcohol - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcTBaM3U0UXZMQkN0eGU1YmpVX3hJeDE3YTZ0OTJwcWxOQmU0T29vRC1aZERuczEyaWt3WHhHRDUwRkc5ZVpDcS1VMlR3LVNxTTVkQ0hMcE5Tb29jcDhsNlNIUWIyUDdFNlNtZW1XV3BYaGtQNnVWT1ZjckxJcERMRGdIdWQwRzNObUdocg?oc=5)
 
-2026-05-28 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-05-28 <span class="news-indication-tag">MS</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU0N0NnpnNzVBYWRwQmdlZXd0UjI3dmVnZXJYYlQyMUlpR0ZTM041MzBmQkI2RGxUS2ZLQTNYZVV6TmMwU1FnU3pRQVE5TlFuLUtIYWtXak1IcjNHNk9yWkdQbzR5c3Y3M1hhOHMtMmVnbGVYd0hrbWRMUUM2UkFtcGgyYjcxYUotVUQ2b1FsSGl0WndwSTZTSmpsQWFFdU9lZC02SnB6YXBIUzRXRGVGMUV4cFZKYm1GU0JXajJQb0pscDN1SDdhVy1LNFFVMncwWmpkZk1IcTl5cDJKM3pQbXNxTkIzZ3lJX284bHg0RXlyMmhfaEhpdklCaTA?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcTBaM3U0UXZMQkN0eGU1YmpVX3hJeDE3YTZ0OTJwcWxOQmU0T29vRC1aZERuczEyaWt3WHhHRDUwRkc5ZVpDcS1VMlR3LVNxTTVkQ0hMcE5Tb29jcDhsNlNIUWIyUDdFNlNtZW1XV3BYaGtQNnVWT1ZjckxJcERMRGdIdWQwRzNObUdocg?oc=5)
 
 ---
 
@@ -147,6 +131,14 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-28 <span class="news-indication-tag">tumor</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXBpYXg3RlVxSHF4bUxTVk85bjMtTnlhLWV5c0xjSk03Q3dKM3Z4SzE1UHBiOEtVWmlYZVEwb21XUmlSSE95WmFUT29jbm9jNGZsYUhkbEpoVW9GX1dlZFZQdk02VWx5YUtpTHBOR29JNUI3TGdOeGxLSDZaYVp5emxrRTNMLWhUTWR6a2RMc0ZJUDdGRS1tU1hiWlAxV1ZUYVBvSllDSlhVN2d6aC1ZMkRxVXZCNEl3WFVKeg?oc=5)
+
+---
+
+### ['I thought my hot flushes were menopause - then I was diagnosed with stage four lung cancer' - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVVHUGJUcWl4Nzl4Mm5jeW05ZmJVdG94MVljX19XNXpkb3NEZjVkWWg4Smd2N3JPWVRtOEdrNEVJN05VaDFVb2hlaktUaXY3WDhKU1B6M3Rva3pqMUhXODZiMkYtUFRQdHhmV3M2NGJfLTRqcU5DdWdTdjhyaGxqbkZVekdwYk91c3gwZdIBkgFBVV95cUxNSWFoeGhsRzd1ZG9nQm9tOVFxYXFLcG05RlN1a3JjQTcwM0sycjNndTBfNHg1MWZ6emlVVlp4NklpZGhVekdsOEpTNl9HaC1PUXNFYlExbmNIdUloS21LY1lCMW9NRmYzLW9pUmNBaWlJakcyVVREaU5sMjRkVTFkOTEtaWR6aDE0LWEtejZKRlZQUQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVVHUGJUcWl4Nzl4Mm5jeW05ZmJVdG94MVljX19XNXpkb3NEZjVkWWg4Smd2N3JPWVRtOEdrNEVJN05VaDFVb2hlaktUaXY3WDhKU1B6M3Rva3pqMUhXODZiMkYtUFRQdHhmV3M2NGJfLTRqcU5DdWdTdjhyaGxqbkZVekdwYk91c3gwZdIBkgFBVV95cUxNSWFoeGhsRzd1ZG9nQm9tOVFxYXFLcG05RlN1a3JjQTcwM0sycjNndTBfNHg1MWZ6emlVVlp4NklpZGhVekdsOEpTNl9HaC1PUXNFYlExbmNIdUloS21LY1lCMW9NRmYzLW9pUmNBaWlJakcyVVREaU5sMjRkVTFkOTEtaWR6aDE0LWEtejZKRlZQUQ?oc=5)
 
 ---
 
@@ -163,6 +155,22 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMipAFBVV95cUxPY081TkFzWWlGSDd2cm9aUzRsekFNTXFwSW1ib2pYSGxobUpkMmhVT003emJsRC1LSUhrSWY5aGpiVFJDSTdJSHhCYi1kOUVNaVJlM1JYQ0xZSkEzY3VDTjJRXzZ0RWtPYTE2MEJGN0pSSWZhbEJxMS1JWnljWEtsUWJDeWt6V3RaS0N2UFhPM24wRFI2bDRVX1VxNEVNNk1nUGQ0dQ?oc=5)
+
+---
+
+### [Che fine ha fatto l’hantavirus - Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE91Uk91TlNFSWVNLVUyZ1N0dnhWaVNCRmhIUXhiRVp1YlNQb21IaVQtMmwzWTJlcWhNcG95OVZvZW5NM2N3cHNDMko2aVdiSVNxNG5zR1N0QXlYb0dTdkdUNXQ2bnRDQXFzUmZwMktscVY?oc=5)
+
+2026-05-28 <span class="news-indication-tag">MS</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMicEFVX3lxTE91Uk91TlNFSWVNLVUyZ1N0dnhWaVNCRmhIUXhiRVp1YlNQb21IaVQtMmwzWTJlcWhNcG95OVZvZW5NM2N3cHNDMko2aVdiSVNxNG5zR1N0QXlYb0dTdkdUNXQ2bnRDQXFzUmZwMktscVY?oc=5)
+
+---
+
+### [La esclerosis múltiple ya afecta a más de 3 millones de personas y los neurólogos alertan: “Diagnosticar antes es tratar antes”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2pWMXBsWm1WdHlEODJGQzVkU3NNYTZWN1JrYmlmQ3pKenJMbmUyOU8teVFka0h0N0lwc25pMWpzOWMySmZnd0xYSUh6aEVRRC1yZnR1aEJUek9XcWhKMVNDVnM0eXl6WFlDa1h5U1VRQV9LanBYVm9CeEt2RXMxdDNvSFJmRjRoeUhScmY0cW1yNWkyV3hvVnpWeEZtdnpSeGo2V3BuVUpPVTI5WG1ldm8zb1dnVncwU0VkaXBzNkJCWWtBcDctWWhPUlFmMVdRam5OalBna0JuUUhFNnFTeDRR?oc=5)
+
+2026-05-28 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2pWMXBsWm1WdHlEODJGQzVkU3NNYTZWN1JrYmlmQ3pKenJMbmUyOU8teVFka0h0N0lwc25pMWpzOWMySmZnd0xYSUh6aEVRRC1yZnR1aEJUek9XcWhKMVNDVnM0eXl6WFlDa1h5U1VRQV9LanBYVm9CeEt2RXMxdDNvSFJmRjRoeUhScmY0cW1yNWkyV3hvVnpWeEZtdnpSeGo2V3BuVUpPVTI5WG1ldm8zb1dnVncwU0VkaXBzNkJCWWtBcDctWWhPUlFmMVdRam5OalBna0JuUUhFNnFTeDRR?oc=5)
 
 ---
 
@@ -190,6 +198,14 @@ permalink: /news/peginterferon-beta-1a/
 
 ---
 
+### [El auge de los nuevos fármacos adelgazantes y sus riesgos, en La 2](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3Btcmp5YnRWdHo3Y1FBQTltUUE5RmF1ZU1NQkVjOU1wRUNUY3docFE5VkwwVDIxVlRzblRmd0xrSThMU05zUXUzZ2Q2N1JYQ294V0FBdm5kNU53VnpkaERpaER0R2FSU09UYzE3eU9oVE4yY18yd2taZXNEWjBBOW4zM2I1MHRNMFdGWnhRckktMGRDQ2RWZE9zd3FoTFAyMVNjVFQwcTdjNW5CMnNCMXVBcU94dVBRM0NhdFB3?oc=5)
+
+2026-05-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+來源：[Segre.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3Btcmp5YnRWdHo3Y1FBQTltUUE5RmF1ZU1NQkVjOU1wRUNUY3docFE5VkwwVDIxVlRzblRmd0xrSThMU05zUXUzZ2Q2N1JYQ294V0FBdm5kNU53VnpkaERpaER0R2FSU09UYzE3eU9oVE4yY18yd2taZXNEWjBBOW4zM2I1MHRNMFdGWnhRckktMGRDQ2RWZE9zd3FoTFAyMVNjVFQwcTdjNW5CMnNCMXVBcU94dVBRM0NhdFB3?oc=5)
+
+---
+
 ### [Pourquoi ce médicament contre l'asthme pourrait devenir une arme contre les cancers les plus agressifs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
 
 2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
@@ -211,6 +227,14 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DeGQ4b2M2MWl1WE8zbW1MNU04djNkY2NtNzNJZ01NRGk3a3pVMHRGMHFvYmRzT3J1S1E4Z0ExdktQVk9LcjJIRG0zWUFWdUlSeTk5dEN5M0tYNy16VEN3?oc=5)
+
+---
+
+### [L'Uganda ha chiuso il confine con la Repubblica Democratica del Congo, per contenere la diffusione del virus ebola - Il Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1UdExRLTV5VEJvanRzbndsc0tqczNveU9vWnhQaTFNRkVEeGVEeHBPNFZ4azFPQ011bjA4Y2x2V0tOT1ZCSEZ0ak02aEpYV2gwaWpBUHpvcF9TdExIMXdQdW5fMlBwSGN4QzFMOHFzRlVmR0ZsU2lReUZmdnlJdXZ1UDRHRHY1Z3A1VUJGVmNjLWhwN2JR?oc=5)
+
+2026-05-27 <span class="news-indication-tag">MS</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1UdExRLTV5VEJvanRzbndsc0tqczNveU9vWnhQaTFNRkVEeGVEeHBPNFZ4azFPQ011bjA4Y2x2V0tOT1ZCSEZ0ak02aEpYV2gwaWpBUHpvcF9TdExIMXdQdW5fMlBwSGN4QzFMOHFzRlVmR0ZsU2lReUZmdnlJdXZ1UDRHRHY1Z3A1VUJGVmNjLWhwN2JR?oc=5)
 
 ---
 
@@ -291,30 +315,6 @@ permalink: /news/peginterferon-beta-1a/
 2026-05-27 <span class="news-indication-tag">cancer</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9CNzRoWDc3TFlWX0RSUm5GSDY5QXdsNlFoaXp4ZG5MTzNweDgyc2N3bjR6QXRDTFRtRGZWSXFsYUFaX0xFRi1FRFBLQmZYVHE4OE1HdHZHbEFFbXlJd3hzNnZpNWdZOUhPdXQ4MHRUcw?oc=5)
-
----
-
-### [Neue Zellpopulation im Alzheimer-Gehirn entdeckt – Forscher teilen wichtige Untersuchungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLUxoeE9PR3UzZEZhVEhQZnFiWnBsV2ZvYWhodkpqOC0wWndkbkgwbFc3d2o1dXlpV1I0VzZUb25zbktfRjcyTTFMM0tMbEdrdDg5ZjBrMnBfWEw3M0RzUExKQ0Rjem9FWFZjN0M0SnZ4cmV1aXY2VHc0d0xUcElXLUFGVGhVRFh2cTVtempfWkM4RXBfUzRwMmk4MFVfWlVGNTBSLWRhTm1WZFVkREpqOVlZUFlqQ1d3ejZfdUI0R0Q3NDNHNXVmamxmVFVwSWtM?oc=5)
-
-2026-05-27 <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLUxoeE9PR3UzZEZhVEhQZnFiWnBsV2ZvYWhodkpqOC0wWndkbkgwbFc3d2o1dXlpV1I0VzZUb25zbktfRjcyTTFMM0tMbEdrdDg5ZjBrMnBfWEw3M0RzUExKQ0Rjem9FWFZjN0M0SnZ4cmV1aXY2VHc0d0xUcElXLUFGVGhVRFh2cTVtempfWkM4RXBfUzRwMmk4MFVfWlVGNTBSLWRhTm1WZFVkREpqOVlZUFlqQ1d3ejZfdUI0R0Q3NDNHNXVmamxmVFVwSWtM?oc=5)
-
----
-
-### [Taxi driver hails passenger chat that saved his life amid cancer discovery - GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVZKaDBidUJZdmswNmNIVkFPN3FoSm9NNUR6eUplX2RDX09MdjU0QzNPa0lpSjhnR2pac3RzOWJKSmdLRklNYXZUdzJ1UldYUXpaUUtlUmN3MW5ONHMtTER1ckN0RjR0dXlZZlNWTTFiRnNrWFAyZmt6dUd5TXlGbDRCeS1DVkp2NGNZSjJlNHF6WW1qVmc?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancer</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVZKaDBidUJZdmswNmNIVkFPN3FoSm9NNUR6eUplX2RDX09MdjU0QzNPa0lpSjhnR2pac3RzOWJKSmdLRklNYXZUdzJ1UldYUXpaUUtlUmN3MW5ONHMtTER1ckN0RjR0dXlZZlNWTTFiRnNrWFAyZmt6dUd5TXlGbDRCeS1DVkp2NGNZSjJlNHF6WW1qVmc?oc=5)
-
----
-
-### [Michael Douglas issued apology to Catherine Zeta-Jones after oral sex cancer diagnosis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/eliglustat-tartrate/
 ---
 
 <p class="key-answer" data-question="Eliglustat (Tartrate) 有什麼相關新聞？">
-<strong>Eliglustat (Tartrate)</strong> 目前有 <strong>44 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eliglustat (Tartrate)</strong> 目前有 <strong>45 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/eliglustat-tartrate/
 <p><a href="{{ '/drugs/eliglustat-tartrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（44 則）
+## 相關新聞（45 則）
 
 ### [Recall issued for batch of widely-prescribed blood pressure drug - Daily Express](https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnhDTXJJUkY5U3MzeURKU3AtblZyMXoxclQxVldZTG9uVks0R3luUmJCTHJxOU84eHFaeENaV1hBc2tZWFFNRjJTeXBlRnZoVWRqVGZieEJTbU14Y19DR0xWYnBFT1RFdVExeHdEek5KU0ljWjl4RkNwUVBHckdwMtIBhgFBVV95cUxQT1BjTFEySFpoYmo5aG9BMHcxdlMzeUcyQXVyR0RaN3BCc1prZ0JUbHRSR1J5anBBSnNNMDlHd1dVLXFydEJzSkZUSFBHQzVlWXVJVEJoakg4WWJTTWs3SWpXVy1FNVF3QWRSNEhQRDhtSGlCUXdEXy1zTnNXNmI1WWFyMHNpUQ?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/eliglustat-tartrate/
 2026-05-28 <span class="news-indication-tag">AF</span>
 
 來源：[AFP Factual](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1saTZHYkpWUmlaRHFTMWV2MjBjRUNuQXlXUTdVNUY0N3FDTG5fUk9LakItNWFDM0V1OVczc0VZWUlJcTVjczFuOGdDZG9yak1JdHdxYmJ3?oc=5)
-
----
-
-### [Difunden nuevas directrices internacionales para la detección del cáncer colorrectal - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGN3YkZreGNfV1dsNUZrcGFnSUkwdzhxM2FSRFlYUDRwa0Z6cGtNY3JTN2RoSDJwVWhicXc4aWhXM2Rwd3d0emt0TWRwWW5RYjVjZFR1TE50c3JmTGs3dXl6bVVwV3JPM1lBWHU0ZGo2ZWQxek1LVFB2RXdwQnVCX1F0WFlSUjhBYW4xNVlocUZ6S3hTdGZjWEFmZE1LMWI2M1otcUh2V0NHN0xScUxIcEdoQlBMOHY0NEhKcnV30gG4AUFVX3lxTFB4RjZzclNlbmRBWFpBNEFkYllRdzEyTC1XNFFfaUwwU0pTTjdFLXFBTFBUbUh4M0EyeThheXBNZG5oZlN1YmVrODQ1bHFRcDNjVmNRSnYtMk5FUDV3dlJ1ckhyc0hHaDQycmdMZ0stSmlleGNxSU9LNDRobXNpZV9ONVQ2RFMyLXprLW5nb2ZQTDdKVXpJVjRVX042MDJfV3BaV3BOWFdLU3JrT0psUEYzM0NXc2dMTmo?oc=5)
-
-2026-05-28 <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGN3YkZreGNfV1dsNUZrcGFnSUkwdzhxM2FSRFlYUDRwa0Z6cGtNY3JTN2RoSDJwVWhicXc4aWhXM2Rwd3d0emt0TWRwWW5RYjVjZFR1TE50c3JmTGs3dXl6bVVwV3JPM1lBWHU0ZGo2ZWQxek1LVFB2RXdwQnVCX1F0WFlSUjhBYW4xNVlocUZ6S3hTdGZjWEFmZE1LMWI2M1otcUh2V0NHN0xScUxIcEdoQlBMOHY0NEhKcnV30gG4AUFVX3lxTFB4RjZzclNlbmRBWFpBNEFkYllRdzEyTC1XNFFfaUwwU0pTTjdFLXFBTFBUbUh4M0EyeThheXBNZG5oZlN1YmVrODQ1bHFRcDNjVmNRSnYtMk5FUDV3dlJ1ckhyc0hHaDQycmdMZ0stSmlleGNxSU9LNDRobXNpZV9ONVQ2RFMyLXprLW5nb2ZQTDdKVXpJVjRVX042MDJfV3BaV3BOWFdLU3JrT0psUEYzM0NXc2dMTmo?oc=5)
 
 ---
 
@@ -118,14 +110,6 @@ permalink: /news/eliglustat-tartrate/
 
 ---
 
-### [Prostatakrebs: „Die Ergebnisse sind beeindruckend“ – neues Medikament wirkt vielversprechend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjluY1d4OHRnSHJodnJnOUw4QW10UmM4VmZOY2NibVdTUXZYX3oyalJrWS00endPMDFiNVhTZmRSVDRYaG9pNXNwT2tIOWJZeGNsbFRONVR2S2pqUkRsUVE5OTJQbDF2X2lFdzc4andUdnRaYkhJS2d1U3VMRHZlM1RQbkluVWhKczBGdDhkemt0WjNyc3BhdFN0SURuSGVka0hIYWU4bVpvRE1PMU1lcTNuVkw5a2cwWmlyRGdPZDhQWVBDVVpiQzAzMXM4Yy04aFVLa0hobzh4QmdCbFhTSzBnRWlEc0h3eXVJ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjluY1d4OHRnSHJodnJnOUw4QW10UmM4VmZOY2NibVdTUXZYX3oyalJrWS00endPMDFiNVhTZmRSVDRYaG9pNXNwT2tIOWJZeGNsbFRONVR2S2pqUkRsUVE5OTJQbDF2X2lFdzc4andUdnRaYkhJS2d1U3VMRHZlM1RQbkluVWhKczBGdDhkemt0WjNyc3BhdFN0SURuSGVka0hIYWU4bVpvRE1PMU1lcTNuVkw5a2cwWmlyRGdPZDhQWVBDVVpiQzAzMXM4Yy04aFVLa0hobzh4QmdCbFhTSzBnRWlEc0h3eXVJ?oc=5)
-
----
-
 ### [Gedächtnisprobleme als frühe Hinweise auf Demenz? Studie zeigt Zusammenhang mit bekannten Alzheimer-Risikofaktoren - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9janNJeGNGZGFVcFJDTFpCSDU4NFVLenJhMFNtTnRLRDZBdXhXMXVFdi1IMmhxSkNueDZCbGJXcUlubUxJczNRYWZuMA?oc=5)
 
 2026-05-28 <span class="news-indication-tag">AF</span>
@@ -158,6 +142,14 @@ permalink: /news/eliglustat-tartrate/
 
 ---
 
+### [Ozempic y otros GLP-1 no solo adelgazan, también protegen el corazón](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTR0MHlZVmhBaWNxSEl6VUhqM3REREZKaC02RnJpQ0R1MC1kZmVNOF9MemJSM1ZJWDduZ1U1cjlyOGZJbk16SDM3YjRmektRZXlDQjhiRlBsZmlvTnMwU0ZibXg5ZDEzSFo1TlZTa0dsREF1U0VrNnpwTXpMeHBiZTYxaUxleUVITnlWc0xucXp2eDFjczZkZ3gxMVVhVWJaZ3BkN2tSUE1RRDdKUlE?oc=5)
+
+2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTR0MHlZVmhBaWNxSEl6VUhqM3REREZKaC02RnJpQ0R1MC1kZmVNOF9MemJSM1ZJWDduZ1U1cjlyOGZJbk16SDM3YjRmektRZXlDQjhiRlBsZmlvTnMwU0ZibXg5ZDEzSFo1TlZTa0dsREF1U0VrNnpwTXpMeHBiZTYxaUxleUVITnlWc0xucXp2eDFjczZkZ3gxMVVhVWJaZ3BkN2tSUE1RRDdKUlE?oc=5)
+
+---
+
 ### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
 2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
@@ -174,11 +166,19 @@ permalink: /news/eliglustat-tartrate/
 
 ---
 
-### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
+### ['I thought my hot flushes were menopause - then I was diagnosed with stage four lung cancer' - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVVHUGJUcWl4Nzl4Mm5jeW05ZmJVdG94MVljX19XNXpkb3NEZjVkWWg4Smd2N3JPWVRtOEdrNEVJN05VaDFVb2hlaktUaXY3WDhKU1B6M3Rva3pqMUhXODZiMkYtUFRQdHhmV3M2NGJfLTRqcU5DdWdTdjhyaGxqbkZVekdwYk91c3gwZdIBkgFBVV95cUxNSWFoeGhsRzd1ZG9nQm9tOVFxYXFLcG05RlN1a3JjQTcwM0sycjNndTBfNHg1MWZ6emlVVlp4NklpZGhVekdsOEpTNl9HaC1PUXNFYlExbmNIdUloS21LY1lCMW9NRmYzLW9pUmNBaWlJakcyVVREaU5sMjRkVTFkOTEtaWR6aDE0LWEtejZKRlZQUQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVVHUGJUcWl4Nzl4Mm5jeW05ZmJVdG94MVljX19XNXpkb3NEZjVkWWg4Smd2N3JPWVRtOEdrNEVJN05VaDFVb2hlaktUaXY3WDhKU1B6M3Rva3pqMUhXODZiMkYtUFRQdHhmV3M2NGJfLTRqcU5DdWdTdjhyaGxqbkZVekdwYk91c3gwZdIBkgFBVV95cUxNSWFoeGhsRzd1ZG9nQm9tOVFxYXFLcG05RlN1a3JjQTcwM0sycjNndTBfNHg1MWZ6emlVVlp4NklpZGhVekdsOEpTNl9HaC1PUXNFYlExbmNIdUloS21LY1lCMW9NRmYzLW9pUmNBaWlJakcyVVREaU5sMjRkVTFkOTEtaWR6aDE0LWEtejZKRlZQUQ?oc=5)
+
+---
+
+### [Luka Cicin-Sain in die Kroatische Akademie der Wissenschaften und Künste gewählt - Helmholtz-Zentrum für Infektionsforschung](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY25lWmJlSUwwbGJrcGdnNVI3MFhjeTF3OUt3dWJ6eVlfLTF2N2lSODU2R1ljYV9kT1BFRXRfdm5wN2c2Z2duZ0l3cHQ5eWhLZ05tbDM4MGtQZGdNT3RnVW8ydUVpYkU3Wl9IV25SM2s5T2FHQ3p1bVZGdVM3M0dCVmRYMFN6blBHTmxnRmVSTzVTNTZGbDhtenk4a21xNmg2SHlSUEFyQUxFaDFZeldqckxsMS1iMFQ1bUxqRnVDWVFEcHlyWkM2clRQSFZQVnlwQVlRZUZnZE42bWt2V1lQcDVYM1VFZw?oc=5)
+
+2026-05-28 <span class="news-indication-tag">AF</span>
+
+來源：[Helmholtz-Zentrum für Infektionsforschung](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY25lWmJlSUwwbGJrcGdnNVI3MFhjeTF3OUt3dWJ6eVlfLTF2N2lSODU2R1ljYV9kT1BFRXRfdm5wN2c2Z2duZ0l3cHQ5eWhLZ05tbDM4MGtQZGdNT3RnVW8ydUVpYkU3Wl9IV25SM2s5T2FHQ3p1bVZGdVM3M0dCVmRYMFN6blBHTmxnRmVSTzVTNTZGbDhtenk4a21xNmg2SHlSUEFyQUxFaDFZeldqckxsMS1iMFQ1bUxqRnVDWVFEcHlyWkM2clRQSFZQVnlwQVlRZUZnZE42bWt2V1lQcDVYM1VFZw?oc=5)
 
 ---
 
@@ -195,6 +195,14 @@ permalink: /news/eliglustat-tartrate/
 2026-05-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMipAFBVV95cUxPY081TkFzWWlGSDd2cm9aUzRsekFNTXFwSW1ib2pYSGxobUpkMmhVT003emJsRC1LSUhrSWY5aGpiVFJDSTdJSHhCYi1kOUVNaVJlM1JYQ0xZSkEzY3VDTjJRXzZ0RWtPYTE2MEJGN0pSSWZhbEJxMS1JWnljWEtsUWJDeWt6V3RaS0N2UFhPM24wRFI2bDRVX1VxNEVNNk1nUGQ0dQ?oc=5)
+
+---
+
+### [La esclerosis múltiple ya afecta a más de 3 millones de personas y los neurólogos alertan: “Diagnosticar antes es tratar antes”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2pWMXBsWm1WdHlEODJGQzVkU3NNYTZWN1JrYmlmQ3pKenJMbmUyOU8teVFka0h0N0lwc25pMWpzOWMySmZnd0xYSUh6aEVRRC1yZnR1aEJUek9XcWhKMVNDVnM0eXl6WFlDa1h5U1VRQV9LanBYVm9CeEt2RXMxdDNvSFJmRjRoeUhScmY0cW1yNWkyV3hvVnpWeEZtdnpSeGo2V3BuVUpPVTI5WG1ldm8zb1dnVncwU0VkaXBzNkJCWWtBcDctWWhPUlFmMVdRam5OalBna0JuUUhFNnFTeDRR?oc=5)
+
+2026-05-28 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2pWMXBsWm1WdHlEODJGQzVkU3NNYTZWN1JrYmlmQ3pKenJMbmUyOU8teVFka0h0N0lwc25pMWpzOWMySmZnd0xYSUh6aEVRRC1yZnR1aEJUek9XcWhKMVNDVnM0eXl6WFlDa1h5U1VRQV9LanBYVm9CeEt2RXMxdDNvSFJmRjRoeUhScmY0cW1yNWkyV3hvVnpWeEZtdnpSeGo2V3BuVUpPVTI5WG1ldm8zb1dnVncwU0VkaXBzNkJCWWtBcDctWWhPUlFmMVdRam5OalBna0JuUUhFNnFTeDRR?oc=5)
 
 ---
 
@@ -282,7 +290,7 @@ permalink: /news/eliglustat-tartrate/
 
 2026-05-27 <span class="news-indication-tag">AF</span>
 
-來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ3I4RER5akZPVHNMZm5KS3R3T0ZZckJ4ZW1NZHZrQ0pSRTNhNXEwbm5SNnVqeTZkZEp1TWJKWTZIMDRGamNsTjVVZW9ZWTZkNE03VThjMXlTTWZfeGQ0MHJfSzRZdDRGOWJvX3FONGFIVzZBYmdtZUY2aXEwemVDZ2l4UVFaYjc1WlBMaW5Cb0FSeDRnN0hDclNCcHNhNjhtdjJaQ19hSnJtWXRMV044UEhJdDRCaWpOQmZVQ0dzYndTNUl0Z18yMGt1eG4xSm9VYUtQeVBuOTNfdDd2SS1UY25qOS3SAeoBQVVfeXFMT1VPWFlUTHRkeEZaSXBNNTQ0cXdjd0V5SV9nQVNlX3dkN3FUTnRhckE5SHRxdkgzWGRSOHNTUWlCdnBfdTUtZUlKamJNazE2NGtfWWhCX3JHUEJXa2IxSkktdXI2X195M0ZKZ2ZVQUdwaERSTTJUOS1ZLW9xUzVHcU1lM0k2X3IzTnp3MU1qdXR3eTVXSjF5SFdqeDFaVGtpcGhLSTdxZzNuN2FnallJNHB2SEJKdmowSGZic3Utb05NX282b2hoUGhOQ0o0T2RSejN2SWtfdWpwQVR5WFNnUHdQUk8wQkxKUjZ3?oc=5)
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ3I4RER5akZPVHNMZm5KS3R3T0ZZckJ4ZW1NZHZrQ0pSRTNhNXEwbm5SNnVqeTZkZEp1TWJKWTZIMDRGamNsTjVVZW9ZWTZkNE03VThjMXlTTWZfeGQ0MHJfSzRZdDRGOWJvX3FONGFIVzZBYmdtZUY2aXEwemVDZ2l4UVFaYjc1WlBMaW5Cb0FSeDRnN0hDclNCcHNhNjhtdjJaQ19hSnJtWXRMV044UEhJdDRCaWpOQmZVQ0dzYndTNUl0Z18yMGt1eG4xSm9VYUtQeVBuOTNfdDd2SS1UY25qOS3SAeoBQVVfeXFMT1VPWFlUTHRkeEZaSXBNNTQ0cXdjd0V5SV9nQVNlX3dkN3FUTnRhckE5SHRxdkgzWGRSOHNTUWlCdnBfdTUtZUlKamJNazE2NGtfWWhCX3JHUEJXa2IxSkktdXI2X195M0ZKZ2ZVQUdwaERSTTJUOS1ZLW9xUzVHcU1lM0k2X3IzTnp3MU1qdXR3eTVXSjF5SFdqeDFaVGtpcGhLSTdxZzNuN2FnallJNHB2SEJKdmowSGZic3Utb05NX282b2hoUGhOQ0o0T2RSejN2SWtfdWpwQVR5WFNnUHdQUk8wQkxKUjZ3?oc=5)
 
 ---
 
@@ -350,11 +358,19 @@ permalink: /news/eliglustat-tartrate/
 
 ---
 
-### [Herz-Kreislauf-Erkrankungen: Entzündungen treiben Atherosklerose an – und können sie zugleich begrenzen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RmtQMWg0VGhyWVk0MmkxZXRGSU1BSklCZDE1VFJsRXhFMHBqRGh3NmFKNHQ5SG1RcExrY0ZlZEhqVGoycU1RQXpFRQ?oc=5)
+### [Herz-Kreislauf-Erkrankungen: Entzündungen treiben Atherosklerose an – und können sie zugleich begrenzen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaWZnbGdzSmtDVWdSWkQ4Vzc4dEtITmVNRkotTVBoNTc0N0N1RkF6eC1MMDZmMVloQktjNVhJdkgtb3ptbUltWE90bm11UGZHMjZONzZTSG5FVWMxM0pTTFZveFVzd2FrTF9kMmZKajQxSTZTRWRSaHEyZy1xelZZaUVwX1R6QWhic1gzQ1VpdjRYVmJPWUxfTjZRTmJCSEp3ME5IWEU2YkhyYXVVa0I1TWJTaUJPYmtGMW1qTXM4ZF9JZEVIN2FvMDlrSVBhZkx5NFQybmF1ZXQ5SWw3c2VrX3B4UXZVdHZ2VnZHdkhfbVhLQQ?oc=5)
 
 2026-05-27 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RmtQMWg0VGhyWVk0MmkxZXRGSU1BSklCZDE1VFJsRXhFMHBqRGh3NmFKNHQ5SG1RcExrY0ZlZEhqVGoycU1RQXpFRQ?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaWZnbGdzSmtDVWdSWkQ4Vzc4dEtITmVNRkotTVBoNTc0N0N1RkF6eC1MMDZmMVloQktjNVhJdkgtb3ptbUltWE90bm11UGZHMjZONzZTSG5FVWMxM0pTTFZveFVzd2FrTF9kMmZKajQxSTZTRWRSaHEyZy1xelZZaUVwX1R6QWhic1gzQ1VpdjRYVmJPWUxfTjZRTmJCSEp3ME5IWEU2YkhyYXVVa0I1TWJTaUJPYmtGMW1qTXM4ZF9JZEVIN2FvMDlrSVBhZkx5NFQybmF1ZXQ5SWw3c2VrX3B4UXZVdHZ2VnZHdkhfbVhLQQ?oc=5)
+
+---
+
+### [Weltnichtrauchertag: Rauchen schadet auch dem Gehirn - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDRMQnBDR0gxdDhpWU56ZV8wZkJxWmt0bzc4aDRuc0twb0lFTkZ5TVBqTl91aEY5bkQtMnFyU28zR180T3NscUJCYWwweHRSQ0c0Yzc1X3Q0UmFWMVFHbkVJX0VoSERiNG8xWDZCeFc0Z0VkbW1FLWx4cVNwZndBMEJTc3JVY2JuMWhDYXRYbjJrRkVWNmxINzdqQTg?oc=5)
+
+2026-05-27 <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDRMQnBDR0gxdDhpWU56ZV8wZkJxWmt0bzc4aDRuc0twb0lFTkZ5TVBqTl91aEY5bkQtMnFyU28zR180T3NscUJCYWwweHRSQ0c0Yzc1X3Q0UmFWMVFHbkVJX0VoSERiNG8xWDZCeFc0Z0VkbW1FLWx4cVNwZndBMEJTc3JVY2JuMWhDYXRYbjJrRkVWNmxINzdqQTg?oc=5)
 
 ---
 
@@ -382,19 +398,11 @@ permalink: /news/eliglustat-tartrate/
 
 ---
 
-### [Taxi driver hails passenger chat that saved his life amid cancer discovery - GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVZKaDBidUJZdmswNmNIVkFPN3FoSm9NNUR6eUplX2RDX09MdjU0QzNPa0lpSjhnR2pac3RzOWJKSmdLRklNYXZUdzJ1UldYUXpaUUtlUmN3MW5ONHMtTER1ckN0RjR0dXlZZlNWTTFiRnNrWFAyZmt6dUd5TXlGbDRCeS1DVkp2NGNZSjJlNHF6WW1qVmc?oc=5)
+### [Winette Van der Graaf, oncóloga: “Nunca habría imaginado estar viendo pacientes con cáncer colorrectal a los 19 años” - EL PAÍS](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZUF0R2VPZ3RzcGtXdHZxYjNtTGl6SUw5R2hIV3BaWmxnVVluSDVXMU5MNmJjZ284ckZpbGs5UEhJeWFibjM1RHR3OGlkMEwyYXlVNnNHX05fSkgyUGthUmZNZ01TM3dWX2NlYnU4Tk5FX3lXbjhadERNbVBpZXZlbDFhdVRwUVhNbEhlb1BUMTQtS2hJV0dKZGo4bEJEYkFGR05RWUZqc3l4czBLQkR3VTNQWnBLQkZ1UlF3bkdnRGZXUG5uT0pkbnNTSk50eDZlMUZudVMzeUdwbnM5SXlkaEtOdGhyazh3b0dvRTZwdGJxdHFrNS1RMFNn?oc=5)
 
-2026-05-26 <span class="news-indication-tag">cancer</span>
+2026-05-27 <span class="news-indication-tag">AF</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVZKaDBidUJZdmswNmNIVkFPN3FoSm9NNUR6eUplX2RDX09MdjU0QzNPa0lpSjhnR2pac3RzOWJKSmdLRklNYXZUdzJ1UldYUXpaUUtlUmN3MW5ONHMtTER1ckN0RjR0dXlZZlNWTTFiRnNrWFAyZmt6dUd5TXlGbDRCeS1DVkp2NGNZSjJlNHF6WW1qVmc?oc=5)
-
----
-
-### [Michael Douglas issued apology to Catherine Zeta-Jones after oral sex cancer diagnosis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZUF0R2VPZ3RzcGtXdHZxYjNtTGl6SUw5R2hIV3BaWmxnVVluSDVXMU5MNmJjZ284ckZpbGs5UEhJeWFibjM1RHR3OGlkMEwyYXlVNnNHX05fSkgyUGthUmZNZ01TM3dWX2NlYnU4Tk5FX3lXbjhadERNbVBpZXZlbDFhdVRwUVhNbEhlb1BUMTQtS2hJV0dKZGo4bEJEYkFGR05RWUZqc3l4czBLQkR3VTNQWnBLQkZ1UlF3bkdnRGZXUG5uT0pkbnNTSk50eDZlMUZudVMzeUdwbnM5SXlkaEtOdGhyazh3b0dvRTZwdGJxdHFrNS1RMFNn?oc=5)
 
 ---
 

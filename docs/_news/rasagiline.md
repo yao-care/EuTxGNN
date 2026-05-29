@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Un análisis de sangre alerta de los primeros síntomas diez años antes de desembocar en alzhéimer - EL PAÍS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzM3MnRUNTUtM0JPOFRtUVE3dXhDYy1DOE1BbGdMc0xMWk4ta091SmRUc3M0TGlEdTk4ZnFqMDljekVwYmZTcUVtRGUzckdFN0dRQnhlSjlFMngweWc4Tmcyek1IZUV4NUpJNU5EU3ZBQnV4SG50TnN2OHFRQUJWVG1zQTlXOFRBQkxNTGpLSV84ZVZyUUdxM2hENVhCNk1aQndlUXZYbEZBTENZb09aV0FSZnl1Nk5nSzk5T3I2WnlOc1l3cDdkbnZwRy1ncGpuVVBJcnln0gHqAUFVX3lxTE1CVFctSy1WWlJFemVxdTE4UkxIckVRUDVvbG9CbEpYYVByVkctNXhtdGxZb1ZmWVFJS3Vrem83VjB6UExWN09CeW1XVzRQTVh0WU5lNkI1RjJDb3pVQWpGZUZqVzZNZE9xdS1jZXQ2azRrUUc4ekhZSF9FMlhpWkhYMjhlRmpqSlJCdkNFT2w1M2RDVmNnMHJMNjFESEhJOGpwUjlGOTFQN2RoMzdRTndZS1BZZ3l0dkJ3SjhDSnBtS2k3V2k1UUtTSDdNQmhVOVZ0U3p6N195di01R1ZLc1pjaFFxZmJQekZ0UQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzM3MnRUNTUtM0JPOFRtUVE3dXhDYy1DOE1BbGdMc0xMWk4ta091SmRUc3M0TGlEdTk4ZnFqMDljekVwYmZTcUVtRGUzckdFN0dRQnhlSjlFMngweWc4Tmcyek1IZUV4NUpJNU5EU3ZBQnV4SG50TnN2OHFRQUJWVG1zQTlXOFRBQkxNTGpLSV84ZVZyUUdxM2hENVhCNk1aQndlUXZYbEZBTENZb09aV0FSZnl1Nk5nSzk5T3I2WnlOc1l3cDdkbnZwRy1ncGpuVVBJcnln0gHqAUFVX3lxTE1CVFctSy1WWlJFemVxdTE4UkxIckVRUDVvbG9CbEpYYVByVkctNXhtdGxZb1ZmWVFJS3Vrem83VjB6UExWN09CeW1XVzRQTVh0WU5lNkI1RjJDb3pVQWpGZUZqVzZNZE9xdS1jZXQ2azRrUUc4ekhZSF9FMlhpWkhYMjhlRmpqSlJCdkNFT2w1M2RDVmNnMHJMNjFESEhJOGpwUjlGOTFQN2RoMzdRTndZS1BZZ3l0dkJ3SjhDSnBtS2k3V2k1UUtTSDdNQmhVOVZ0U3p6N195di01R1ZLc1pjaFFxZmJQekZ0UQ?oc=5)
+
+---
 
 ### [Daily drug taken by millions found to increase risk of dementia by 33%](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
 

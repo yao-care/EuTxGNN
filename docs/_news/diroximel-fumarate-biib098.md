@@ -14,7 +14,7 @@ permalink: /news/diroximel-fumarate-biib098/
 ---
 
 <p class="key-answer" data-question="Diroximel Fumarate (Biib098) 有什麼相關新聞？">
-<strong>Diroximel Fumarate (Biib098)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Diroximel Fumarate (Biib098)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/diroximel-fumarate-biib098/
 <p><a href="{{ '/drugs/diroximel-fumarate-biib098/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
+
+### [Parodontitis: Zahnfleischerkrankung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
+
+2026-05-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
+
+---
 
 ### [Type 2 diabetes rising rapidly in young women - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
 
 2026-05-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
-
----
-
-### [Demenz-Prävention: Zehn Stunden Bewegung pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xNcVlnY09ueWp0amMyZHBhVjc0ZDhUM05Yc0RNVlJ6Zlc4XzdTQnJHY21DWmRacnlBSWxMRlNJaDBZVGpwMk1LbFQ1bUh0cUx5c0hBYmtKZG4wOUZfdEFhODI5RVo3bHk1ejRmU2NCNWUwakhmNGc0ZlB0OVZ5c2xUekZBeGRlZzA2b3RzaUFyZUUtWnVwSnREcE1sQnZvWER3dFRtMjJmY2l2bHRDeEZZZUUzRHowczlJ?oc=5)
 
 ---
 
@@ -83,22 +83,6 @@ permalink: /news/diroximel-fumarate-biib098/
 2026-05-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm04WGo0LWRzRHlCWlNOUjRtMGl5M0RacUQzQ3k1aGtlZ0dkS2FxOHcyTXdmdHRoLXRtS1JqejVwU1RXWWdWVkF5dHJOY1k4VGNnV2xOU2NBS2piYkgzYndjMVlqaklxVUVvcEdsWVp6b0JjWUpKbUY5bVd0WjRYbHZsTkI2Zm1fWDJ0VllYcFRQNGtVM3hqck9rSTVDQ3dDQkFvSnRqaldPYk4zcVRRX2o4WFRCZ2w4eTV6LTdqVTg?oc=5)
-
----
-
-### [Parodontitis 2025/26: Neue Daten koppeln Entzündung mit Herz, Diabetes und Demenz - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
-
-2026-05-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmlpczJORmh6dkEzWVBRTDhsdmpJVUlqTUF3RFExMHJKTVRRRm55ZWJnZWtOSHoyZ3hzR1Z0c3BweHI3clA0M3FEdTJSWklRLTZtS2F0dUxBMm9OTEFxRkJZZzFKQ3dDazNVQWxsTGlsZWJzOWJaeGZyVDJzcEVWeUZ6MnhTX1NIZE5GZjJCeEkxa245NVByeGdQODVlc1N0VXI2ZzJuWU1jSjlxY0I5Y0h3?oc=5)
-
----
-
-### [Darum ist Fruchtzucker bei Diabetes keine gesunde Alternative](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
-
-2026-05-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-News](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSklYSHBYdFlUVmxPUkF6UFN1MXpoRWFFYmlKX3JFSV9SWEoxUVNnaWRTNDBXbW5VZGlfc3p0Ym10eGNwMG1XSTE2UXY0WXdmczNNd1AyRGtzTHlZZTN4RzBwWjdoUHNYa2pBS0pCUEdKc3FDZFVrRktRVW00LXc2NDRkNjBnVUtkSVhsb1JnU2JnQkJ3VHNPSWtLbXdJVnNmUTJ2SUJzWmhwQkdGTFBrZWZpUHE?oc=5)
 
 ---
 

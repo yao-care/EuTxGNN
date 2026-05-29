@@ -14,7 +14,7 @@ permalink: /news/brigatinib/
 ---
 
 <p class="key-answer" data-question="Brigatinib 有什麼相關新聞？">
-<strong>Brigatinib</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brigatinib</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/brigatinib/
 <p><a href="{{ '/drugs/brigatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（22 則）
+
+### [Un análisis de sangre alerta de los primeros síntomas diez años antes de desembocar en alzhéimer - EL PAÍS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzM3MnRUNTUtM0JPOFRtUVE3dXhDYy1DOE1BbGdMc0xMWk4ta091SmRUc3M0TGlEdTk4ZnFqMDljekVwYmZTcUVtRGUzckdFN0dRQnhlSjlFMngweWc4Tmcyek1IZUV4NUpJNU5EU3ZBQnV4SG50TnN2OHFRQUJWVG1zQTlXOFRBQkxNTGpLSV84ZVZyUUdxM2hENVhCNk1aQndlUXZYbEZBTENZb09aV0FSZnl1Nk5nSzk5T3I2WnlOc1l3cDdkbnZwRy1ncGpuVVBJcnln0gHqAUFVX3lxTE1CVFctSy1WWlJFemVxdTE4UkxIckVRUDVvbG9CbEpYYVByVkctNXhtdGxZb1ZmWVFJS3Vrem83VjB6UExWN09CeW1XVzRQTVh0WU5lNkI1RjJDb3pVQWpGZUZqVzZNZE9xdS1jZXQ2azRrUUc4ekhZSF9FMlhpWkhYMjhlRmpqSlJCdkNFT2w1M2RDVmNnMHJMNjFESEhJOGpwUjlGOTFQN2RoMzdRTndZS1BZZ3l0dkJ3SjhDSnBtS2k3V2k1UUtTSDdNQmhVOVZ0U3p6N195di01R1ZLc1pjaFFxZmJQekZ0UQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzM3MnRUNTUtM0JPOFRtUVE3dXhDYy1DOE1BbGdMc0xMWk4ta091SmRUc3M0TGlEdTk4ZnFqMDljekVwYmZTcUVtRGUzckdFN0dRQnhlSjlFMngweWc4Tmcyek1IZUV4NUpJNU5EU3ZBQnV4SG50TnN2OHFRQUJWVG1zQTlXOFRBQkxNTGpLSV84ZVZyUUdxM2hENVhCNk1aQndlUXZYbEZBTENZb09aV0FSZnl1Nk5nSzk5T3I2WnlOc1l3cDdkbnZwRy1ncGpuVVBJcnln0gHqAUFVX3lxTE1CVFctSy1WWlJFemVxdTE4UkxIckVRUDVvbG9CbEpYYVByVkctNXhtdGxZb1ZmWVFJS3Vrem83VjB6UExWN09CeW1XVzRQTVh0WU5lNkI1RjJDb3pVQWpGZUZqVzZNZE9xdS1jZXQ2azRrUUc4ekhZSF9FMlhpWkhYMjhlRmpqSlJCdkNFT2w1M2RDVmNnMHJMNjFESEhJOGpwUjlGOTFQN2RoMzdRTndZS1BZZ3l0dkJ3SjhDSnBtS2k3V2k1UUtTSDdNQmhVOVZ0U3p6N195di01R1ZLc1pjaFFxZmJQekZ0UQ?oc=5)
+
+---
 
 ### [Cameron urges government to reject 'disappointing' prostate cancer screening guidance - Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkhGUHlKOFl0R1BYRUd4UkFkbHZWcWVKRGVrRkwxS3hMTW1KZllnUF9waE9fR1QydkZqZmhtOGhMcFczSHZVRU94NTVreHVpNW9nRzVGNThaTlB1ZG85UXVfQlk0RnZZQ3lQVUxDSVJ1UllyMVVleGRPV21SbHlsQXNEMlVKYnI2NjVqRXk3aVlUX3VhRXA3cXpJSng2elY3U09RSFZsZUMzZnNDR2EtOXhOTGJ0Z3JSRFRv?oc=5)
 
 2026-05-28 <span class="news-indication-tag">cancer</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkhGUHlKOFl0R1BYRUd4UkFkbHZWcWVKRGVrRkwxS3hMTW1KZllnUF9waE9fR1QydkZqZmhtOGhMcFczSHZVRU94NTVreHVpNW9nRzVGNThaTlB1ZG85UXVfQlk0RnZZQ3lQVUxDSVJ1UllyMVVleGRPV21SbHlsQXNEMlVKYnI2NjVqRXk3aVlUX3VhRXA3cXpJSng2elY3U09RSFZsZUMzZnNDR2EtOXhOTGJ0Z3JSRFRv?oc=5)
+
+---
+
+### [Daily drug taken by millions found to increase risk of dementia by 33%](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
+
+2026-05-28 <span class="news-indication-tag">dementia</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Prostatakrebs: „Die Ergebnisse sind beeindruckend“ – neues Medikament wirkt vielversprechend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjluY1d4OHRnSHJodnJnOUw4QW10UmM4VmZOY2NibVdTUXZYX3oyalJrWS00endPMDFiNVhTZmRSVDRYaG9pNXNwT2tIOWJZeGNsbFRONVR2S2pqUkRsUVE5OTJQbDF2X2lFdzc4andUdnRaYkhJS2d1U3VMRHZlM1RQbkluVWhKczBGdDhkemt0WjNyc3BhdFN0SURuSGVka0hIYWU4bVpvRE1PMU1lcTNuVkw5a2cwWmlyRGdPZDhQWVBDVVpiQzAzMXM4Yy04aFVLa0hobzh4QmdCbFhTSzBnRWlEc0h3eXVJ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWjluY1d4OHRnSHJodnJnOUw4QW10UmM4VmZOY2NibVdTUXZYX3oyalJrWS00endPMDFiNVhTZmRSVDRYaG9pNXNwT2tIOWJZeGNsbFRONVR2S2pqUkRsUVE5OTJQbDF2X2lFdzc4andUdnRaYkhJS2d1U3VMRHZlM1RQbkluVWhKczBGdDhkemt0WjNyc3BhdFN0SURuSGVka0hIYWU4bVpvRE1PMU1lcTNuVkw5a2cwWmlyRGdPZDhQWVBDVVpiQzAzMXM4Yy04aFVLa0hobzh4QmdCbFhTSzBnRWlEc0h3eXVJ?oc=5)
-
----
-
 ### [Tres biomarcadores determinan el pronóstico en el carcinoma seroso endometrial - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmpsd1pXZ1NQN2dUaWF3VHJ6bXdVZVZpaGtaYXAtcDRIWk0zWHd2NnZrNDFIbU9qX1hVWWlMcHlwa01xLXZLeEE1U1R0QWxJMVFoQldhekF3YTRHQkFlNkxVZDE0c3hwYnVNX1pPUUxRenZZTEt0cWhBTzc2aFFlNXBGcmxWaU82cE5KTFpVTlJfYkJWOU9jcDQ3eUp4VXczczdRY2djTUFKM09WdnNRbFFOTEY3WXUyWFNCZ2pnNGliZ9IBvAFBVV95cUxPQU1MNTRtSU1EMS1YVGtKc1V2Y1ZXUGhZWHN1SURndGZsbVNOU0FQZjd4eXpBd2FXZDFtOHRYVVhBM2txY2UtcE1KQTNQZXVNX0NKbl83OFp1VXQwb1FobjJrUFNncTdZeWt0U0s5M3QwS0RCajhZMzRROERqTnJWREpmRlZuUGRMRjV5aWFCZXA4VEEwQkpsMUcxOHFNN2NndGIzRkVwNmxZeWg4THVJUkptN0c2ZUpuNFdjRA?oc=5)
 
 2026-05-28 <span class="news-indication-tag">carcinoma</span>
@@ -94,19 +102,19 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Daily drug taken by millions found to increase risk of dementia by 33%](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
-
-2026-05-28 <span class="news-indication-tag">dementia</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
-
----
-
 ### [Lungenkrebs-Früherkennung: Handtellergroßes Gerät erreicht 95% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXBpYXg3RlVxSHF4bUxTVk85bjMtTnlhLWV5c0xjSk03Q3dKM3Z4SzE1UHBiOEtVWmlYZVEwb21XUmlSSE95WmFUT29jbm9jNGZsYUhkbEpoVW9GX1dlZFZQdk02VWx5YUtpTHBOR29JNUI3TGdOeGxLSDZaYVp5emxrRTNMLWhUTWR6a2RMc0ZJUDdGRS1tU1hiWlAxV1ZUYVBvSllDSlhVN2d6aC1ZMkRxVXZCNEl3WFVKeg?oc=5)
 
 2026-05-28 <span class="news-indication-tag">tumor</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXBpYXg3RlVxSHF4bUxTVk85bjMtTnlhLWV5c0xjSk03Q3dKM3Z4SzE1UHBiOEtVWmlYZVEwb21XUmlSSE95WmFUT29jbm9jNGZsYUhkbEpoVW9GX1dlZFZQdk02VWx5YUtpTHBOR29JNUI3TGdOeGxLSDZaYVp5emxrRTNMLWhUTWR6a2RMc0ZJUDdGRS1tU1hiWlAxV1ZUYVBvSllDSlhVN2d6aC1ZMkRxVXZCNEl3WFVKeg?oc=5)
+
+---
+
+### ['I thought my hot flushes were menopause - then I was diagnosed with stage four lung cancer' - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVVHUGJUcWl4Nzl4Mm5jeW05ZmJVdG94MVljX19XNXpkb3NEZjVkWWg4Smd2N3JPWVRtOEdrNEVJN05VaDFVb2hlaktUaXY3WDhKU1B6M3Rva3pqMUhXODZiMkYtUFRQdHhmV3M2NGJfLTRqcU5DdWdTdjhyaGxqbkZVekdwYk91c3gwZdIBkgFBVV95cUxNSWFoeGhsRzd1ZG9nQm9tOVFxYXFLcG05RlN1a3JjQTcwM0sycjNndTBfNHg1MWZ6emlVVlp4NklpZGhVekdsOEpTNl9HaC1PUXNFYlExbmNIdUloS21LY1lCMW9NRmYzLW9pUmNBaWlJakcyVVREaU5sMjRkVTFkOTEtaWR6aDE0LWEtejZKRlZQUQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVVHUGJUcWl4Nzl4Mm5jeW05ZmJVdG94MVljX19XNXpkb3NEZjVkWWg4Smd2N3JPWVRtOEdrNEVJN05VaDFVb2hlaktUaXY3WDhKU1B6M3Rva3pqMUhXODZiMkYtUFRQdHhmV3M2NGJfLTRqcU5DdWdTdjhyaGxqbkZVekdwYk91c3gwZdIBkgFBVV95cUxNSWFoeGhsRzd1ZG9nQm9tOVFxYXFLcG05RlN1a3JjQTcwM0sycjNndTBfNHg1MWZ6emlVVlp4NklpZGhVekdsOEpTNl9HaC1PUXNFYlExbmNIdUloS21LY1lCMW9NRmYzLW9pUmNBaWlJakcyVVREaU5sMjRkVTFkOTEtaWR6aDE0LWEtejZKRlZQUQ?oc=5)
 
 ---
 
@@ -219,22 +227,6 @@ permalink: /news/brigatinib/
 2026-05-27 <span class="news-indication-tag">cancer</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9CNzRoWDc3TFlWX0RSUm5GSDY5QXdsNlFoaXp4ZG5MTzNweDgyc2N3bjR6QXRDTFRtRGZWSXFsYUFaX0xFRi1FRFBLQmZYVHE4OE1HdHZHbEFFbXlJd3hzNnZpNWdZOUhPdXQ4MHRUcw?oc=5)
-
----
-
-### [Taxi driver hails passenger chat that saved his life amid cancer discovery - GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVZKaDBidUJZdmswNmNIVkFPN3FoSm9NNUR6eUplX2RDX09MdjU0QzNPa0lpSjhnR2pac3RzOWJKSmdLRklNYXZUdzJ1UldYUXpaUUtlUmN3MW5ONHMtTER1ckN0RjR0dXlZZlNWTTFiRnNrWFAyZmt6dUd5TXlGbDRCeS1DVkp2NGNZSjJlNHF6WW1qVmc?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancer</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVZKaDBidUJZdmswNmNIVkFPN3FoSm9NNUR6eUplX2RDX09MdjU0QzNPa0lpSjhnR2pac3RzOWJKSmdLRklNYXZUdzJ1UldYUXpaUUtlUmN3MW5ONHMtTER1ckN0RjR0dXlZZlNWTTFiRnNrWFAyZmt6dUd5TXlGbDRCeS1DVkp2NGNZSjJlNHF6WW1qVmc?oc=5)
-
----
-
-### [Michael Douglas issued apology to Catherine Zeta-Jones after oral sex cancer diagnosis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
-
-2026-05-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWt6Q0pISWc5VnlKdEFKS0NfSVROZ0pMcGhWaDlGNDM0ZkVKYXJscktaWDVROWdPZWlNY2dfTzBTTWZqZC1kRGZaTGw2RFdhVWVieGxHdHNqSWN6bTdGZkN0dm94WXNyS1hfR2p4WndiZjN0SnRwcGhxRFRlQ0JRTkhWOUFOanlmTXVGazNLdlR2U3R1YmxVOFZQaHk1dFJHZkJSM0lkVjBjdnVoLXc?oc=5)
 
 ---
 

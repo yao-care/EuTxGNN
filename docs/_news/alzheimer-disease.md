@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Un análisis de sangre alerta de los primeros síntomas diez años antes de desembocar en alzhéimer - EL PAÍS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzM3MnRUNTUtM0JPOFRtUVE3dXhDYy1DOE1BbGdMc0xMWk4ta091SmRUc3M0TGlEdTk4ZnFqMDljekVwYmZTcUVtRGUzckdFN0dRQnhlSjlFMngweWc4Tmcyek1IZUV4NUpJNU5EU3ZBQnV4SG50TnN2OHFRQUJWVG1zQTlXOFRBQkxNTGpLSV84ZVZyUUdxM2hENVhCNk1aQndlUXZYbEZBTENZb09aV0FSZnl1Nk5nSzk5T3I2WnlOc1l3cDdkbnZwRy1ncGpuVVBJcnln0gHqAUFVX3lxTE1CVFctSy1WWlJFemVxdTE4UkxIckVRUDVvbG9CbEpYYVByVkctNXhtdGxZb1ZmWVFJS3Vrem83VjB6UExWN09CeW1XVzRQTVh0WU5lNkI1RjJDb3pVQWpGZUZqVzZNZE9xdS1jZXQ2azRrUUc4ekhZSF9FMlhpWkhYMjhlRmpqSlJCdkNFT2w1M2RDVmNnMHJMNjFESEhJOGpwUjlGOTFQN2RoMzdRTndZS1BZZ3l0dkJ3SjhDSnBtS2k3V2k1UUtTSDdNQmhVOVZ0U3p6N195di01R1ZLc1pjaFFxZmJQekZ0UQ?oc=5)
+
+2026-05-28
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzM3MnRUNTUtM0JPOFRtUVE3dXhDYy1DOE1BbGdMc0xMWk4ta091SmRUc3M0TGlEdTk4ZnFqMDljekVwYmZTcUVtRGUzckdFN0dRQnhlSjlFMngweWc4Tmcyek1IZUV4NUpJNU5EU3ZBQnV4SG50TnN2OHFRQUJWVG1zQTlXOFRBQkxNTGpLSV84ZVZyUUdxM2hENVhCNk1aQndlUXZYbEZBTENZb09aV0FSZnl1Nk5nSzk5T3I2WnlOc1l3cDdkbnZwRy1ncGpuVVBJcnln0gHqAUFVX3lxTE1CVFctSy1WWlJFemVxdTE4UkxIckVRUDVvbG9CbEpYYVByVkctNXhtdGxZb1ZmWVFJS3Vrem83VjB6UExWN09CeW1XVzRQTVh0WU5lNkI1RjJDb3pVQWpGZUZqVzZNZE9xdS1jZXQ2azRrUUc4ekhZSF9FMlhpWkhYMjhlRmpqSlJCdkNFT2w1M2RDVmNnMHJMNjFESEhJOGpwUjlGOTFQN2RoMzdRTndZS1BZZ3l0dkJ3SjhDSnBtS2k3V2k1UUtTSDdNQmhVOVZ0U3p6N195di01R1ZLc1pjaFFxZmJQekZ0UQ?oc=5)
+
+---
 
 ### [Daily drug taken by millions found to increase risk of dementia by 33%](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0FzRExiYTJ4MHNFNGo5clZnenNiZDZLOU1Hdk8tdDNpMG9kT3JDN3AyZGI1ZW5qaGJQWUlCNlN5QVozWEY0ODQyWHFad2R0Y043eTlmaEVFV2lRTlBTVHc0MFRERC1UaTlnSFRReVVIbGZOR3pzeEpxbzhJZDdDNVlnd19RX1VnRjBESks5SGMzTXRKTEt1NEdCcnFOMHVJTDRqZEU0WDE?oc=5)
 
