@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,15 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [Parodontitis: Zahnfleischerkrankung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
-2026-05-29
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Type 2 diabetes rising rapidly in young women - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
 

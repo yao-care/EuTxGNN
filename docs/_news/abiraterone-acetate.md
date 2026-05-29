@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="Abiraterone Acetate 有什麼相關新聞？">
-<strong>Abiraterone Acetate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abiraterone Acetate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abiraterone-acetate/
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Olbia, boom di prestazioni in Neurologia e nuove terapie contro l’emicrania - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
 
@@ -70,14 +70,6 @@ permalink: /news/abiraterone-acetate/
 
 ---
 
-### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
----
-
 ### [New depression treatment targets the immune system instead of the brain](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
@@ -91,14 +83,6 @@ permalink: /news/abiraterone-acetate/
 2026-05-27 <span class="news-indication-tag">hypertension</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
-
----
-
-### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
-
-2026-05-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 
 ---
 

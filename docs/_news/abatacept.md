@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="Abatacept 有什麼相關新聞？">
-<strong>Abatacept</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abatacept</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abatacept/
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/abatacept/
 2026-05-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
-
----
-
-### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
-
-2026-05-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 
 ---
 

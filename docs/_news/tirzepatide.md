@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Ozempic, Wegovy, Mounjaro... Quels sont les effets secondaires des médicaments anti-obésité bientôt remboursés en France ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/tirzepatide/
 2026-05-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
-
----
-
-### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
-
-2026-05-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 
 ---
 

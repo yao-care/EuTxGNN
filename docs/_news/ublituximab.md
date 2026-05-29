@@ -14,7 +14,7 @@ permalink: /news/ublituximab/
 ---
 
 <p class="key-answer" data-question="Ublituximab 有什麼相關新聞？">
-<strong>Ublituximab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ublituximab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/ublituximab/
 <p><a href="{{ '/drugs/ublituximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Parodontitis: Zahnfleischerkrankung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
+### [Monoklonale Antikörper bewähren sich bei schubförmig-remittierender Multipler Sklerose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOenRfcGJBakZCQ3d4bXVlQy1vMmJyRWZsU19Zc1NBSFM1R05WaWlzMkQ4M1dlbkhhSUVISVNkTnpnZnppdTNLTngxUmo0RjFXSVhabWU2QjJoSXJVNFh5V1NWdmRmVmJkaENKTFFVMEhUd2N6WXgxRS1MVEF5OFR6c0s4ZDVJMW9ZRXZmdkpTYmJIZWNiUmJ4U0hnLTFxc1FpSmpndVpqamR4T1AtTXRBTGZHVTNwNFB2UDl0OThQN2xnR0JlUkxDWThfTUNBZWRIV3FTMmtya1U3b0hONnRjVHI0QXRyV0lsMUVj?oc=5)
 
-2026-05-29 <span class="news-indication-tag">diabetes</span>
+2026-05-28 <span class="news-drug-tag">Ublituximab</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOenRfcGJBakZCQ3d4bXVlQy1vMmJyRWZsU19Zc1NBSFM1R05WaWlzMkQ4M1dlbkhhSUVISVNkTnpnZnppdTNLTngxUmo0RjFXSVhabWU2QjJoSXJVNFh5V1NWdmRmVmJkaENKTFFVMEhUd2N6WXgxRS1MVEF5OFR6c0s4ZDVJMW9ZRXZmdkpTYmJIZWNiUmJ4U0hnLTFxc1FpSmpndVpqamR4T1AtTXRBTGZHVTNwNFB2UDl0OThQN2xnR0JlUkxDWThfTUNBZWRIV3FTMmtya1U3b0hONnRjVHI0QXRyV0lsMUVj?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/ublituximab/
 2026-05-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
-
----
-
-### [Langzeitvorteile von Ublituximab bei Multipler Sklerose bestätigt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFQ1d05MNF9YcnQ0c09RaVhrMmhYVXFBUjVvY3J2NzNGMVNZanNHa0FLeWFucTl3UGU5LTB6N3lBTVh3dElNMlRNZk12WXBiUUZaSlZjelpWdC10SVZnaVg5VTFkU0lIcTZOOEstTjI3bElfVEwtQ2JSalJRRXhXaHlKTFVWMHQxdTFaSlpjTzI1YThVcUxScGNodTR1MVUtOFNkb0tja18zT0c3emtBUlhFMzRZdGg2QkJJLVhDYkJTeXgwZDVtRXdWQVgxVms?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Ublituximab</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFQ1d05MNF9YcnQ0c09RaVhrMmhYVXFBUjVvY3J2NzNGMVNZanNHa0FLeWFucTl3UGU5LTB6N3lBTVh3dElNMlRNZk12WXBiUUZaSlZjelpWdC10SVZnaVg5VTFkU0lIcTZOOEstTjI3bElfVEwtQ2JSalJRRXhXaHlKTFVWMHQxdTFaSlpjTzI1YThVcUxScGNodTR1MVUtOFNkb0tja18zT0c3emtBUlhFMzRZdGg2QkJJLVhDYkJTeXgwZDVtRXdWQVgxVms?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Una catedrática navarra aporta datos infantiles de España a un gran análisis mundial sobre obesidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzdpaUR5aW9QdC1ZdW5sdERNWmNFQ1Y3X2d1S1pXYTdhUl91VFB6VDI0UTZQVjVsVGNXaFVpUkpVR1B0U0NuZFNGel9ZV0dZX3BzMDdTWWY3c0ZUVTUyWHp4MVZSVlZJbmRSb1NSajRLeVpMVnlwb0xQRXFVbFFBdnlWR3FsZjUxeUtQZ1o1MXJxel9SUzMxZFdwSnFtUWlFNEp4VC1IV21RQkZJWXZCbmZmQW5xZ1drZzREUEFLUWt2VmFBZWYxZTk4YlptdVgxMUF3MF95NFVDclZnMTFsdDdEMzRGWGZFZ0HSAe8BQVVfeXFMTUZ5TjMxOXZkRVNJcTRsY1N3R2RfM1JfaVA0cmFxSTAwZjVxdThLVmpqY2xJeWc3TU1IaDNFN1ZFMmNGSkpVRWFJZlRlQlBkS0lrbGozWnhzUnhreVc0cE1lZWotbVlTaVZhVWhjUkc0SUN2bENlbWpkVVB0N2psREt6NGJvcTRncGxudkl0dW45S0kxem1LOHlCcy1MaDN6Nk5yWjA1bE1jNHRGYWZnVmFfd0U0aTBUWG5ZQW1LZHZmQVMzcmJlVWJkS2pnallPdjVKRnVoNkxUUlBaYU9DODlKdTZwR2o3MVBfUGNnUU0?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/naltrexone/
 2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
+
+---
+
+### [La obesidad y el sobrepeso infantil repuntaron tras la covid-19](https://news.google.com/rss/articles/CBMicEFVX3lxTE42SFJhakR5Y2Q3UkZhRVBhZzhpV1dtM1VYU2JlR3VEQllRZlBZWlM1WFJ5RXMzaU9UZDJaaG94cEc0cU5ORzlPZ3J3YkJEbERmSXlockdWTGFpZGFMUm8taHo1MFM4WFVRaUowNFpaUzDSAXZBVV95cUxPTFVfUXV3YS13QzRuYXlKSko5TmpETUVKNWo4ZUhBeXdQR2VmZUpZdVlmblJzeFFCY1U5MU8xVzFtMXpMWmlWRWZqRUZWNEtid1hlOU5TYXVPQi1NRWVXWFQ0bVBtM1dGa05YN0lNd2RwUDlnbnZ3?oc=5)
+
+2026-05-28 <span class="news-indication-tag">obesidad</span>
+
+來源：[aragonhoy.es](https://news.google.com/rss/articles/CBMicEFVX3lxTE42SFJhakR5Y2Q3UkZhRVBhZzhpV1dtM1VYU2JlR3VEQllRZlBZWlM1WFJ5RXMzaU9UZDJaaG94cEc0cU5ORzlPZ3J3YkJEbERmSXlockdWTGFpZGFMUm8taHo1MFM4WFVRaUowNFpaUzDSAXZBVV95cUxPTFVfUXV3YS13QzRuYXlKSko5TmpETUVKNWo4ZUhBeXdQR2VmZUpZdVlmblJzeFFCY1U5MU8xVzFtMXpMWmlWRWZqRUZWNEtid1hlOU5TYXVPQi1NRWVXWFQ0bVBtM1dGa05YN0lNd2RwUDlnbnZ3?oc=5)
 
 ---
 

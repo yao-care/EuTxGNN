@@ -14,7 +14,7 @@ permalink: /news/bosentan-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="Bosentan (As Monohydrate) 有什麼相關新聞？">
-<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/bosentan-as-monohydrate/
 <p><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
 2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
-
----
-
-### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ permalink: /news/bosentan-as-monohydrate/
 2026-05-27 <span class="news-indication-tag">hypertension</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
-
----
-
-### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
-
-2026-05-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 
 ---
 

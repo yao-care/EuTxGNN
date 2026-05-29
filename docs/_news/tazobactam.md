@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/tazobactam/
 2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
 
 來源：[Slate.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
-
----
-
-### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
-
-2026-05-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 
 ---
 

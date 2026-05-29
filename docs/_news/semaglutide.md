@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Parodontitis: Zahnfleischerkrankung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
----
-
-### [Gehirnschutz durch Alltag: Schach, Bewegung und frühe KI-Diagnostik gegen Demenz - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDM1ZDVyYm5uMFFSUXFjXzFKTjBsdWEzV18xeFFMQi1UVFI4ZElKTGY4ZWdRY29zTWJKc1NmWFJldzRJdmtuS1NsanRFVzJFTlpDUHNTS0RBNzdTVklLLUYtUFdaWjRoajNJSlhQb0tjcHdyaFZ6M3JEcHM1VUIwb3pjd185bWdRYnRaU3l0OThaM3MtVUhjb1FBQjNHSmZYMU95OW9CRTAyOG9jMHRGSw?oc=5)
-
-2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDM1ZDVyYm5uMFFSUXFjXzFKTjBsdWEzV18xeFFMQi1UVFI4ZElKTGY4ZWdRY29zTWJKc1NmWFJldzRJdmtuS1NsanRFVzJFTlpDUHNTS0RBNzdTVklLLUYtUFdaWjRoajNJSlhQb0tjcHdyaFZ6M3JEcHM1VUIwb3pjd185bWdRYnRaU3l0OThaM3MtVUhjb1FBQjNHSmZYMU95OW9CRTAyOG9jMHRGSw?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Ozempic, Wegovy, Mounjaro... Quels sont les effets secondaires des médicaments anti-obésité bientôt remboursés en France ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktHOGRjSkI4bVFoSG5OQXhZZmlUbUUxN1AxVWtJWF90TENPdnVzX1l0TUNlUnJJNTVia280ZlBSUUpwcHRZUGtJZTdGenhJTl9lM0FqdFRVNjZTM0QtX1NKVllXcFI4c0dfRjJfdC1obTdvWFlTS29OYTI1Y2RGMkFfbXhDaVlweUI3MHJZbkI1RmlVbXFhZ1RyX2J4RWJtRThUSWIxdXBUa1hoRXZYN3Q1enlTNUHSAbwBQVVfeXFMTXF0MzBCMGotX2tldGZYNzBsY2hJRkMxTG9JZUlEclplY1JaSEthemVoVVpvdk5CclVFVWhhenF5bnA3ODRfQi03cnkyUHdrLVpoMElUMjVlUDFXV1FPNmtiYWtOZjN6akNKbU1zQVNGQjBRU0M0alN3cThUYURnUFU1UGg4N2RjdkZfZnZJb2F2TEdXTUNhNU9CRExQZGlORnI4TVMxRXZweURtcURVVkJJNzhaMHNNbTJIbl8?oc=5)
 

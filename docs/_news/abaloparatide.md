@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Parodontitis: Zahnfleischerkrankung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Olbia, boom di prestazioni in Neurologia e nuove terapie contro l’emicrania - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
 

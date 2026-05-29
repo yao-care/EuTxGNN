@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [New depression treatment targets the immune system instead of the brain](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/tasimelteon/
 2026-05-27 <span class="news-indication-tag">depression</span>
 
 來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlZXZkJESVFkREFaU2JBcGJPRnRIalpycUxPVUtYbGRaTUp3ckRrbnJzdXFXejJHNmZuaUxsdjdhdDZDREpUOVp3bHlYQUtHc2gxbzl0V0dmcGRpVy1rWnctajN3czhETDQtYXVoZDlXa0RaMlQ4V3ktall6UHJWNUI3WXpWdlZuR2Z5VHNOc2wwUFNLVnZDTkN6QnNaeVVrMVpNZw?oc=5)
-
----
-
-### [Santé mentale : pourquoi les troubles psychiques explosent dans le monde - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRDRrU29IVHFyY2lyWWwzZkZwSm8xMzhha05aTzM2d3JUekdVX1BRdGRfQzQwRHFPeWczbTBwVnViNE5oOHpzeC1wTkxfUVRaTUxzVUxlVk5zYy11SjF2bWpkTmwxQ1pfUW1rTEt1NXYwM0s3UFl4YXFFbnJpMWRXZ3FPcmZpS3E3X3drWUtha2g5SlVzNjZVZUhLVkFoTVVzQVRjWVlRZXFObU1CUTMxajVBbWhFZFIxRmRXS0Nack1pYlc0bldvWTVtSEUtSjRNWVlqQkxfTkIzdm5SS0pTajNnbkdhUEV3eVdlMExtdFUxdG1sVjF1Z2xQVGtKcFpxZFZRZ2pxWEVYRlU?oc=5)
-
-2026-05-27 <span class="news-indication-tag">dépression</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRDRrU29IVHFyY2lyWWwzZkZwSm8xMzhha05aTzM2d3JUekdVX1BRdGRfQzQwRHFPeWczbTBwVnViNE5oOHpzeC1wTkxfUVRaTUxzVUxlVk5zYy11SjF2bWpkTmwxQ1pfUW1rTEt1NXYwM0s3UFl4YXFFbnJpMWRXZ3FPcmZpS3E3X3drWUtha2g5SlVzNjZVZUhLVkFoTVVzQVRjWVlRZXFObU1CUTMxajVBbWhFZFIxRmRXS0Nack1pYlc0bldvWTVtSEUtSjRNWVlqQkxfTkIzdm5SS0pTajNnbkdhUEV3eVdlMExtdFUxdG1sVjF1Z2xQVGtKcFpxZFZRZ2pxWEVYRlU?oc=5)
 
 ---
 

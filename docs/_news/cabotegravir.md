@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Parodontitis: Zahnfleischerkrankung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
@@ -107,14 +99,6 @@ permalink: /news/cabotegravir/
 2026-05-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm04WGo0LWRzRHlCWlNOUjRtMGl5M0RacUQzQ3k1aGtlZ0dkS2FxOHcyTXdmdHRoLXRtS1JqejVwU1RXWWdWVkF5dHJOY1k4VGNnV2xOU2NBS2piYkgzYndjMVlqaklxVUVvcEdsWVp6b0JjWUpKbUY5bVd0WjRYbHZsTkI2Zm1fWDJ0VllYcFRQNGtVM3hqck9rSTVDQ3dDQkFvSnRqaldPYk4zcVRRX2o4WFRCZ2w4eTV6LTdqVTg?oc=5)
-
----
-
-### [New Treatment Could Reverse Osteoarthritis Within Weeks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
-
-2026-05-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXF1bVdITm5OS0pFTVIyVWpna01DcGRyNkpvbUVuSmpCc1NiNENXamo0RTJnTmdybUlZNXYyX0Y4bU5IdVZXaGxjWG5GVGhKSUpVOUNJbGwzTDZmbHVmLXVLQzVrUkE0ZGk5eVpXOE1BLTJQTktyOVpjakpKNldnQV9ITG45T2tj?oc=5)
 
 ---
 

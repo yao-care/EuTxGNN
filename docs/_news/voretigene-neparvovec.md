@@ -14,7 +14,7 @@ permalink: /news/voretigene-neparvovec/
 ---
 
 <p class="key-answer" data-question="Voretigene Neparvovec 有什麼相關新聞？">
-<strong>Voretigene Neparvovec</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voretigene Neparvovec</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/voretigene-neparvovec/
 <p><a href="{{ '/drugs/voretigene-neparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [I’m a doctor — these are 4 lesser-known signs of 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
 

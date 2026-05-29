@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Netupitant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Olbia, boom di prestazioni in Neurologia e nuove terapie contro l’emicrania - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
 
 2026-05-28 <span class="news-indication-tag">emicrania</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
-
----
-
-### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 
 ---
 

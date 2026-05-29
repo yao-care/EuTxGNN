@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "MS（multiple sclerosis） 相關新聞"
+title: "esclerosis múltiple（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
+description: "esclerosis múltiple（multiple sclerosis） 的相關健康新聞報導。20 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
-# MS（multiple sclerosis） 相關新聞
+# esclerosis múltiple（multiple sclerosis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="esclerosis múltiple（multiple sclerosis） 有什麼相關新聞？">
+<strong>esclerosis múltiple（multiple sclerosis）</strong> 目前有 <strong>20 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「MS」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「esclerosis múltiple」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,13 +54,61 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（20 則）
 
-### [PCOS umbenannt: Polyzystisches Metabolisches Ovarialsyndrom seit Mai - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUxBSndvODQwNkwwUDg0dlRYNkwzNlo0dVBycVZ2TjhwT1c0SnBnRzIwMVk5cGhpTG5pbWRwT0xjNm5Nb29ueHJrbGJXSncyT3lfVy1vclBhZE5BQjNHQnlLSWNub05CM3MzWWlhenF0ZTBVWlVCdEE5ZEItcjBHaDNaQVFfbHhMdzl6aGFma2h2T2IwYXBYVnVoS0FTYmNETm5wbXV3WUdRLXJpaEtfUi1HS2t5djQ?oc=5)
+### [El ISCIII y Esclerosis Múltiple España colaboran para impulsar el estudio de la enfermedad - Instituto de Salud Carlos III.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT1NnZ2NXMUVoSndmeklQQWdQX01Kd1dYOEkyU19zOGc3akIzamtXZjdZVndfYjZVMmswcHhfTHdNYmxsbDJBUW9wcUV0SUwwTUJDTXBVZ0dyWDBYQVltXzA3Y3ZBOWctODJhTS1JaXZPU2d0ekVKOGFTdTFiRGZGR1dfTGliOXhRNVVRY0ExV0NkRnlOdHJTRU9mVVJsS0I1QkRvdWRMREFjR3VkaUk1c0U2YU1RSHU0NnRXM0VUT0pzdlpwNkJ1a3doVlFfdm9Hdkw5bg?oc=5)
+
+2026-05-29
+
+來源：[Instituto de Salud Carlos III.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT1NnZ2NXMUVoSndmeklQQWdQX01Kd1dYOEkyU19zOGc3akIzamtXZjdZVndfYjZVMmswcHhfTHdNYmxsbDJBUW9wcUV0SUwwTUJDTXBVZ0dyWDBYQVltXzA3Y3ZBOWctODJhTS1JaXZPU2d0ekVKOGFTdTFiRGZGR1dfTGliOXhRNVVRY0ExV0NkRnlOdHJTRU9mVVJsS0I1QkRvdWRMREFjR3VkaUk1c0U2YU1RSHU0NnRXM0VUT0pzdlpwNkJ1a3doVlFfdm9Hdkw5bg?oc=5)
+
+---
+
+### [Un estudio de Vall d’Hebron confirma la seguridad de las vacunas vivas atenuadas en personas con EM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ09OdjcxQTlwRzRNclJSM0FDVFlkaDF5bE80ZTA3dUZDWEJDMzBtQnpQamxSX1JKSlVGXzdxZ2VNU1l1VS1BanpTbUFUSjJ2cFR6cUpnSzM1UjAtTWVVRHR3NXduekZwQWhlZW05YlNhU2k2N3B2TUhLeERMRUR6MXV5MjZjTURxVzNQcXQ1RmRXZUcweF9qakZzNzFFU3VoTzZaN21HM3BvWVZUSldWZjdxRVp2VUpyZ3B5b05DZmdmYWlVUHVjR01HS1Rra1U4VFp6cENaWHBFbnJEd2dxNw?oc=5)
+
+2026-05-29
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ09OdjcxQTlwRzRNclJSM0FDVFlkaDF5bE80ZTA3dUZDWEJDMzBtQnpQamxSX1JKSlVGXzdxZ2VNU1l1VS1BanpTbUFUSjJ2cFR6cUpnSzM1UjAtTWVVRHR3NXduekZwQWhlZW05YlNhU2k2N3B2TUhLeERMRUR6MXV5MjZjTURxVzNQcXQ1RmRXZUcweF9qakZzNzFFU3VoTzZaN21HM3BvWVZUSldWZjdxRVp2VUpyZ3B5b05DZmdmYWlVUHVjR01HS1Rra1U4VFp6cENaWHBFbnJEd2dxNw?oc=5)
+
+---
+
+### [Ebola, in osservazione allo Spallanzani la dottoressa di Msf esposta al virus: non ha sintomi | L'Italia invierà esperti in Congo](https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2F1VWtMQ0JWZUpUOExLRElIOURTNWlmZGF1WVQzUzRsR0NTaFh0SHJrdkFiWjMxcHdZbkJxMkgyLUpTbnlYWkVvR1VTblBvR3B4ZVhveGdSZjRYbDhUZVVUMXhkdmFYNkpvdlU5NHlDN0RUckpRVjZwODI2LWNHVmFoSWxsMXhWbXJZM0hkeGZ2cG5HT1dMbk5zSUxLWm8yeEhuQko3UGxLRUNfdE5GNW1KYzNhNEh2dUxyOEV30gFoQVVfeXFMTVlhTlJwTUpXUUwxT2ZLNlVnUTUyS2FZU3hINS1iTzFlOGkwazRJRDVEZ3FXN3ZUS29UY2h1QkNwQUJGSUxjU18yVXlFZWd6M0stYzVOcW43LVZOeHVDS0VnM2V5VkgwYzA?oc=5)
+
+2026-05-29
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2F1VWtMQ0JWZUpUOExLRElIOURTNWlmZGF1WVQzUzRsR0NTaFh0SHJrdkFiWjMxcHdZbkJxMkgyLUpTbnlYWkVvR1VTblBvR3B4ZVhveGdSZjRYbDhUZVVUMXhkdmFYNkpvdlU5NHlDN0RUckpRVjZwODI2LWNHVmFoSWxsMXhWbXJZM0hkeGZ2cG5HT1dMbk5zSUxLWm8yeEhuQko3UGxLRUNfdE5GNW1KYzNhNEh2dUxyOEV30gFoQVVfeXFMTVlhTlJwTUpXUUwxT2ZLNlVnUTUyS2FZU3hINS1iTzFlOGkwazRJRDVEZ3FXN3ZUS29UY2h1QkNwQUJGSUxjU18yVXlFZWd6M0stYzVOcW43LVZOeHVDS0VnM2V5VkgwYzA?oc=5)
+
+---
+
+### [Pflanzen bremsen ihr Immunsystem, um Virusinfektionen zu überleben - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Zakp2V0kySUp1WUdTbV93LXctNGhTN3A5cDUzdWFabFdkMExkaFc1akVaS0VfdkZFWHZuMzJ1ODRud0tQcDFEZ3J2QQ?oc=5)
+
+2026-05-29
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Zakp2V0kySUp1WUdTbV93LXctNGhTN3A5cDUzdWFabFdkMExkaFc1akVaS0VfdkZFWHZuMzJ1ODRud0tQcDFEZ3J2QQ?oc=5)
+
+---
+
+### [Liverpool students encouraged to donate items as they move out](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbFQyVGlHTHlsQ05rdEJzbWNtTnVkd2luS1BfVWJqLW1tUjFxdjM0MEFQYk5OUEg1RXNlWUtPbkEzX081MDdJNGp3NnJrNDY3SldiR1hRX2M4MFJQ?oc=5)
+
+2026-05-29
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbFQyVGlHTHlsQ05rdEJzbWNtTnVkd2luS1BfVWJqLW1tUjFxdjM0MEFQYk5OUEg1RXNlWUtPbkEzX081MDdJNGp3NnJrNDY3SldiR1hRX2M4MFJQ?oc=5)
+
+---
+
+### [AEDEM-COCEMFE pone el foco en el diagnóstico precoz, la protección social y la financiación estable en el Día Mundial de la Esclerosis Múltiple](https://news.google.com/rss/articles/CBMikwJBVV95cUxPSWQ3NWNsMUJLcjVTM0V5Q2k4RUVVcjQ4X0JSYTBQRm5Ubks4RmFMMGpvZlBSNW1wWURNbzhHbmV4ZmE4b184aUpySDVDc3A0c2wxTmw4Um5Dd2hzVnhucERrd3djLXEwcjUyVXkzbjJKNGZ1cG5fbnhjdWhxR19Ea1g4dnhRVi1Uc3M2V1JMV3VYeklSNDRtSDZVZUxVTVEyQ1pJTkN1TW1oM2V0RjczeENTdm5JQkxkcmg4RzdvemhBcU5KSHVSZnh3Qi01WkJZRUYzcENIX1phVnM5U3h4Q3lHekhmTFpxSldwWXNRSXltQWFJSmstMVc0TXQtcFNOMUFMeWhNNnNJUW5SeVlkT0F0aw?oc=5)
+
+2026-05-29
+
+來源：[Cocemfe](https://news.google.com/rss/articles/CBMikwJBVV95cUxPSWQ3NWNsMUJLcjVTM0V5Q2k4RUVVcjQ4X0JSYTBQRm5Ubks4RmFMMGpvZlBSNW1wWURNbzhHbmV4ZmE4b184aUpySDVDc3A0c2wxTmw4Um5Dd2hzVnhucERrd3djLXEwcjUyVXkzbjJKNGZ1cG5fbnhjdWhxR19Ea1g4dnhRVi1Uc3M2V1JMV3VYeklSNDRtSDZVZUxVTVEyQ1pJTkN1TW1oM2V0RjczeENTdm5JQkxkcmg4RzdvemhBcU5KSHVSZnh3Qi01WkJZRUYzcENIX1phVnM5U3h4Q3lHekhmTFpxSldwWXNRSXltQWFJSmstMVc0TXQtcFNOMUFMeWhNNnNJUW5SeVlkT0F0aw?oc=5)
+
+---
+
+### [PMOS statt PCOS: neue Leitlinie, Rekord-Abnehmstudien und China-Zulassung - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdNSVVzR2hFc0hsbEJsN2JIR0JIUHYyRmNHcjdJQlZ4T0JHU2liNG5sWVhfNG5xQXlUSzktVVVzbHZEYTZFUHB1MS1BdTN2aWN1d0ZHQmRRckVVLXV2X2ExajFVQUxBMW50eFI2aDQ2UmVMYmlqSVl4MEF2dVVRdm01RDF1aU1aNTduVmlldGdVX1BmckVaVU9VaW9DTjJJdkk1ZFRn?oc=5)
 
 2026-05-28
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUxBSndvODQwNkwwUDg0dlRYNkwzNlo0dVBycVZ2TjhwT1c0SnBnRzIwMVk5cGhpTG5pbWRwT0xjNm5Nb29ueHJrbGJXSncyT3lfVy1vclBhZE5BQjNHQnlLSWNub05CM3MzWWlhenF0ZTBVWlVCdEE5ZEItcjBHaDNaQVFfbHhMdzl6aGFma2h2T2IwYXBYVnVoS0FTYmNETm5wbXV3WUdRLXJpaEtfUi1HS2t5djQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEdNSVVzR2hFc0hsbEJsN2JIR0JIUHYyRmNHcjdJQlZ4T0JHU2liNG5sWVhfNG5xQXlUSzktVVVzbHZEYTZFUHB1MS1BdTN2aWN1d0ZHQmRRckVVLXV2X2ExajFVQUxBMW50eFI2aDQ2UmVMYmlqSVl4MEF2dVVRdm01RDF1aU1aNTduVmlldGdVX1BmckVaVU9VaW9DTjJJdkk1ZFRn?oc=5)
 
 ---
 
@@ -69,14 +117,6 @@ permalink: /news/multiple-sclerosis/
 2026-05-28
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUZ4YUJOMThEZFF0R3JPVU5HWHl5NjhnSnJtLU9Ndi1pMDJqSzAxd0dBcjNGYnB5VDJYSy0xaWppYllrYUdLR2hYX2RaNWQ4ZmFjcTNQd2F4YzVTWWlob0JqSnFtaHc1VFhfdGNrYjlKVHg4dmJzVmQ1VklSOWVKTjBNTWVlZ2RwOVBUYXJWX05qWDdybmdDYkFYRUFIaXFD?oc=5)
-
----
-
-### [Milano, morto accoltellato un giovane. Il padre: «È stata la gang latina MS13» - La Verità](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHB5UDdab0RYaWdBRzlxTHZ5djBIRDlVRzFfeDBqZFhnUERhSDZ4azlqZHA3cDVfUUMyZHZrNzVEdDY4NUtfaFJ4OVFzeFNrVWhUc1VxRW1SbmtENV9FWjdEbHFfOWp2dklaUkxEOXViLXlDZGZ2ZjVsWk9mSzVUbU40N3hRNzdH?oc=5)
-
-2026-05-28
-
-來源：[La Verità](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHB5UDdab0RYaWdBRzlxTHZ5djBIRDlVRzFfeDBqZFhnUERhSDZ4azlqZHA3cDVfUUMyZHZrNzVEdDY4NUtfaFJ4OVFzeFNrVWhUc1VxRW1SbmtENV9FWjdEbHFfOWp2dklaUkxEOXViLXlDZGZ2ZjVsWk9mSzVUbU40N3hRNzdH?oc=5)
 
 ---
 
@@ -93,6 +133,14 @@ permalink: /news/multiple-sclerosis/
 2026-05-28
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcTBaM3U0UXZMQkN0eGU1YmpVX3hJeDE3YTZ0OTJwcWxOQmU0T29vRC1aZERuczEyaWt3WHhHRDUwRkc5ZVpDcS1VMlR3LVNxTTVkQ0hMcE5Tb29jcDhsNlNIUWIyUDdFNlNtZW1XV3BYaGtQNnVWT1ZjckxJcERMRGdIdWQwRzNObUdocg?oc=5)
+
+---
+
+### [Monoklonale Antikörper bewähren sich bei schubförmig-remittierender Multipler Sklerose – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOenRfcGJBakZCQ3d4bXVlQy1vMmJyRWZsU19Zc1NBSFM1R05WaWlzMkQ4M1dlbkhhSUVISVNkTnpnZnppdTNLTngxUmo0RjFXSVhabWU2QjJoSXJVNFh5V1NWdmRmVmJkaENKTFFVMEhUd2N6WXgxRS1MVEF5OFR6c0s4ZDVJMW9ZRXZmdkpTYmJIZWNiUmJ4U0hnLTFxc1FpSmpndVpqamR4T1AtTXRBTGZHVTNwNFB2UDl0OThQN2xnR0JlUkxDWThfTUNBZWRIV3FTMmtya1U3b0hONnRjVHI0QXRyV0lsMUVj?oc=5)
+
+2026-05-28
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOenRfcGJBakZCQ3d4bXVlQy1vMmJyRWZsU19Zc1NBSFM1R05WaWlzMkQ4M1dlbkhhSUVISVNkTnpnZnppdTNLTngxUmo0RjFXSVhabWU2QjJoSXJVNFh5V1NWdmRmVmJkaENKTFFVMEhUd2N6WXgxRS1MVEF5OFR6c0s4ZDVJMW9ZRXZmdkpTYmJIZWNiUmJ4U0hnLTFxc1FpSmpndVpqamR4T1AtTXRBTGZHVTNwNFB2UDl0OThQN2xnR0JlUkxDWThfTUNBZWRIV3FTMmtya1U3b0hONnRjVHI0QXRyV0lsMUVj?oc=5)
 
 ---
 
@@ -120,11 +168,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [La esclerosis múltiple ya afecta a más de 3 millones de personas y los neurólogos alertan: “Diagnosticar antes es tratar antes”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2pWMXBsWm1WdHlEODJGQzVkU3NNYTZWN1JrYmlmQ3pKenJMbmUyOU8teVFka0h0N0lwc25pMWpzOWMySmZnd0xYSUh6aEVRRC1yZnR1aEJUek9XcWhKMVNDVnM0eXl6WFlDa1h5U1VRQV9LanBYVm9CeEt2RXMxdDNvSFJmRjRoeUhScmY0cW1yNWkyV3hvVnpWeEZtdnpSeGo2V3BuVUpPVTI5WG1ldm8zb1dnVncwU0VkaXBzNkJCWWtBcDctWWhPUlFmMVdRam5OalBna0JuUUhFNnFTeDRR?oc=5)
+### [Podcast | Ébola vs hantavirus: infección de desigualdad en el mundo - El Salto](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTlXdl8ydng4ZVFpWlF5ZDF2T2RhaE4tN1lNeHM1ZWRhenB0YmNJQXk4YTZSc25KcG93YTNkRUlEMHRMNXMyVlpxN1N4bkt6by1HRm10S1ctcGE4ZWxLTExSNzllUDJ2SF9YTkk3UmdSN0ZNMVA3U2FpSU83azEyZlRvWldYWmtZQzJRLXBaMVN0Qk9BZ3BWejhkUFg0aGU1UFNDdkZR?oc=5)
 
 2026-05-28
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2pWMXBsWm1WdHlEODJGQzVkU3NNYTZWN1JrYmlmQ3pKenJMbmUyOU8teVFka0h0N0lwc25pMWpzOWMySmZnd0xYSUh6aEVRRC1yZnR1aEJUek9XcWhKMVNDVnM0eXl6WFlDa1h5U1VRQV9LanBYVm9CeEt2RXMxdDNvSFJmRjRoeUhScmY0cW1yNWkyV3hvVnpWeEZtdnpSeGo2V3BuVUpPVTI5WG1ldm8zb1dnVncwU0VkaXBzNkJCWWtBcDctWWhPUlFmMVdRam5OalBna0JuUUhFNnFTeDRR?oc=5)
+來源：[El Salto](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTlXdl8ydng4ZVFpWlF5ZDF2T2RhaE4tN1lNeHM1ZWRhenB0YmNJQXk4YTZSc25KcG93YTNkRUlEMHRMNXMyVlpxN1N4bkt6by1HRm10S1ctcGE4ZWxLTExSNzllUDJ2SF9YTkk3UmdSN0ZNMVA3U2FpSU83azEyZlRvWldYWmtZQzJRLXBaMVN0Qk9BZ3BWejhkUFg0aGU1UFNDdkZR?oc=5)
 
 ---
 
@@ -136,11 +184,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [L'Uganda ha chiuso il confine con la Repubblica Democratica del Congo, per contenere la diffusione del virus ebola - Il Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1UdExRLTV5VEJvanRzbndsc0tqczNveU9vWnhQaTFNRkVEeGVEeHBPNFZ4azFPQ011bjA4Y2x2V0tOT1ZCSEZ0ak02aEpYV2gwaWpBUHpvcF9TdExIMXdQdW5fMlBwSGN4QzFMOHFzRlVmR0ZsU2lReUZmdnlJdXZ1UDRHRHY1Z3A1VUJGVmNjLWhwN2JR?oc=5)
+### [Blood testing is now included in screening recommendations for colon and rectal cancer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlwODN6SXNDV2o3djlBYVJ5WENMRFZyaHhiaTcwb0k3WnBUdWVlcDJ3YktYeGZDaDJQelpCMjNkamc3Q1IyOHhuOVBIX05wUl93QUZVS0dtdnQtX2thQmZJUzU0M3ExNGx4SHF1eHR5c016Uk5xMzRySnc4SlVJUDhYWVNMY0F4ZDRIeVNtZ1lNVGtsWFhYMHRzV1JCd0tfdnhYdGtpc2Y4YmFaRDFHbmtlQXMtOURfSjE4MDE5SV8?oc=5)
 
 2026-05-27
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1UdExRLTV5VEJvanRzbndsc0tqczNveU9vWnhQaTFNRkVEeGVEeHBPNFZ4azFPQ011bjA4Y2x2V0tOT1ZCSEZ0ak02aEpYV2gwaWpBUHpvcF9TdExIMXdQdW5fMlBwSGN4QzFMOHFzRlVmR0ZsU2lReUZmdnlJdXZ1UDRHRHY1Z3A1VUJGVmNjLWhwN2JR?oc=5)
+來源：[KSL.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlwODN6SXNDV2o3djlBYVJ5WENMRFZyaHhiaTcwb0k3WnBUdWVlcDJ3YktYeGZDaDJQelpCMjNkamc3Q1IyOHhuOVBIX05wUl93QUZVS0dtdnQtX2thQmZJUzU0M3ExNGx4SHF1eHR5c016Uk5xMzRySnc4SlVJUDhYWVNMY0F4ZDRIeVNtZ1lNVGtsWFhYMHRzV1JCd0tfdnhYdGtpc2Y4YmFaRDFHbmtlQXMtOURfSjE4MDE5SV8?oc=5)
+
+---
+
+### [Why caffeine can sabotage deep sleep even when you still get eight hours - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1Jd2JIblBqMmJsaWF3blluU1RfUE8wMU5VLU9uLTlDeGxCSlR1YjVIUVB4TF9xVjJzV25DYWVsdFZTRlBjRzAzUE9HYkJha0xYbGpDUmMtbV80UjhQNDM1SHVKR2ZpYWgyLTF2N2RNWXBiRmNtb00zV0ROX1o?oc=5)
+
+2026-05-27
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1Jd2JIblBqMmJsaWF3blluU1RfUE8wMU5VLU9uLTlDeGxCSlR1YjVIUVB4TF9xVjJzV25DYWVsdFZTRlBjRzAzUE9HYkJha0xYbGpDUmMtbV80UjhQNDM1SHVKR2ZpYWgyLTF2N2RNWXBiRmNtb00zV0ROX1o?oc=5)
 
 ---
 
@@ -152,27 +208,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Langzeitvorteile von Ublituximab bei Multipler Sklerose bestätigt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFQ1d05MNF9YcnQ0c09RaVhrMmhYVXFBUjVvY3J2NzNGMVNZanNHa0FLeWFucTl3UGU5LTB6N3lBTVh3dElNMlRNZk12WXBiUUZaSlZjelpWdC10SVZnaVg5VTFkU0lIcTZOOEstTjI3bElfVEwtQ2JSalJRRXhXaHlKTFVWMHQxdTFaSlpjTzI1YThVcUxScGNodTR1MVUtOFNkb0tja18zT0c3emtBUlhFMzRZdGg2QkJJLVhDYkJTeXgwZDVtRXdWQVgxVms?oc=5)
-
-2026-05-27
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFQ1d05MNF9YcnQ0c09RaVhrMmhYVXFBUjVvY3J2NzNGMVNZanNHa0FLeWFucTl3UGU5LTB6N3lBTVh3dElNMlRNZk12WXBiUUZaSlZjelpWdC10SVZnaVg5VTFkU0lIcTZOOEstTjI3bElfVEwtQ2JSalJRRXhXaHlKTFVWMHQxdTFaSlpjTzI1YThVcUxScGNodTR1MVUtOFNkb0tja18zT0c3emtBUlhFMzRZdGg2QkJJLVhDYkJTeXgwZDVtRXdWQVgxVms?oc=5)
-
----
-
 ### [Darmflora: 30 Lebensmittel pro Woche schützen vor Autoimmunerkrankungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcERxVFVRQ0VVMjFkWFd0MXlmdjBKVUpaMUJOa1IycHdMMTNCbWFBX0oteUxiTmNqVUljR1ZaYi1XbUdsTllqanpNWS1weWhWWU5aSTB2QzI2QmNFZkRDb0JQM280M1c0dnhCMHZIbWYzWjdmN0xSQXVpWi1aS0hHSFZVSmdHdzlKQkIyMVZsLU9wcTZaSVJPaVdrTDR1b1dnTU5pcVdieTlpTzVQUk5HTWZkSDIzeGc5SVdNcg?oc=5)
 
 2026-05-27
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcERxVFVRQ0VVMjFkWFd0MXlmdjBKVUpaMUJOa1IycHdMMTNCbWFBX0oteUxiTmNqVUljR1ZaYi1XbUdsTllqanpNWS1weWhWWU5aSTB2QzI2QmNFZkRDb0JQM280M1c0dnhCMHZIbWYzWjdmN0xSQXVpWi1aS0hHSFZVSmdHdzlKQkIyMVZsLU9wcTZaSVJPaVdrTDR1b1dnTU5pcVdieTlpTzVQUk5HTWZkSDIzeGc5SVdNcg?oc=5)
-
----
-
-### [Duodenales Mukosa-Resurfacing könnte Gewichtszunahme nach Tirzepatidabsetzen bremsen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjctWXctWG9zZE96MVlCc0J3ekh3WXhjaWlXSF8zOHhOMHpPTmdlUXozQUotT3RKR1pqMmRxTm1idm8xcndudjJkSWYzV3JEVU5CSEdPbk1oMVpWblhiSDVfMmtLNVBEOHh3QUpCWHotRkRKamVaWUZ3d040b3JPOU9QZjZuWklGdEVWOS1oLXYzZzBFN2xUWHlUSFFJREx0cFR2NExZTVdVdEhHUWNLRDgzMjNYMlVDWlRTcDBVc0liYXducEs0WDI3TzJZWVFodXRpRWRrY2VRYXNMbTY2N1dtMmxTdHFh?oc=5)
-
-2026-05-27
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjctWXctWG9zZE96MVlCc0J3ekh3WXhjaWlXSF8zOHhOMHpPTmdlUXozQUotT3RKR1pqMmRxTm1idm8xcndudjJkSWYzV3JEVU5CSEdPbk1oMVpWblhiSDVfMmtLNVBEOHh3QUpCWHotRkRKamVaWUZ3d040b3JPOU9QZjZuWklGdEVWOS1oLXYzZzBFN2xUWHlUSFFJREx0cFR2NExZTVdVdEhHUWNLRDgzMjNYMlVDWlRTcDBVc0liYXducEs0WDI3TzJZWVFodXRpRWRrY2VRYXNMbTY2N1dtMmxTdHFh?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [Gehirnschutz durch Alltag: Schach, Bewegung und frühe KI-Diagnostik gegen Demenz - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDM1ZDVyYm5uMFFSUXFjXzFKTjBsdWEzV18xeFFMQi1UVFI4ZElKTGY4ZWdRY29zTWJKc1NmWFJldzRJdmtuS1NsanRFVzJFTlpDUHNTS0RBNzdTVklLLUYtUFdaWjRoajNJSlhQb0tjcHdyaFZ6M3JEcHM1VUIwb3pjd185bWdRYnRaU3l0OThaM3MtVUhjb1FBQjNHSmZYMU95OW9CRTAyOG9jMHRGSw?oc=5)
+### [Demenzprävention: 45 Prozent aller Fälle durch Lebensstil vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREUyM1Y3N2pGVXFpM1ZzeXh6UmZ0YjIxMTd0dFRvNDRQNUhCbDY4b1JDM05OOHdGOWdXRHhxWE9tbW1pcVBJUDdfT3BUSmV2VUoySU94WW5DWERHSWRrN1p6dkhyMTNVdHJzLVZSY3VoUzFVS3NYb1ZiWFB1V1dMOElDMmtRakEtNElETEdKcy1OZ19yenp1dzZhenV4aGlfOE1manlQakhwQlZsZ1VqUm5QZVJsa0l1NlE?oc=5)
 
-2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-05-29 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDM1ZDVyYm5uMFFSUXFjXzFKTjBsdWEzV18xeFFMQi1UVFI4ZElKTGY4ZWdRY29zTWJKc1NmWFJldzRJdmtuS1NsanRFVzJFTlpDUHNTS0RBNzdTVklLLUYtUFdaWjRoajNJSlhQb0tjcHdyaFZ6M3JEcHM1VUIwb3pjd185bWdRYnRaU3l0OThaM3MtVUhjb1FBQjNHSmZYMU95OW9CRTAyOG9jMHRGSw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREUyM1Y3N2pGVXFpM1ZzeXh6UmZ0YjIxMTd0dFRvNDRQNUhCbDY4b1JDM05OOHdGOWdXRHhxWE9tbW1pcVBJUDdfT3BUSmV2VUoySU94WW5DWERHSWRrN1p6dkhyMTNVdHJzLVZSY3VoUzFVS3NYb1ZiWFB1V1dMOElDMmtRakEtNElETEdKcy1OZ19yenp1dzZhenV4aGlfOE1manlQakhwQlZsZ1VqUm5QZVJsa0l1NlE?oc=5)
 
 ---
 

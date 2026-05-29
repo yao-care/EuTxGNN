@@ -14,7 +14,7 @@ permalink: /news/blinatumomab/
 ---
 
 <p class="key-answer" data-question="Blinatumomab 有什麼相關新聞？">
-<strong>Blinatumomab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Blinatumomab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/blinatumomab/
 <p><a href="{{ '/drugs/blinatumomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Parodontitis: Zahnfleischerkrankung verdoppelt Herzinfarkt-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzlUTWFuX3dTRUhsNW1ZcXZZbU9nMVcwNll4VkI0TU5hcGdBeC1UT3pMaGppS0FSel9iZkt3WnFzOVMwdXBQa1drR3c5aE1xZjdxUXFsMlpnRWN2aE83d0plSkxfbDNTQ3VfYjlvMXlnQlBQeC1zWU1DYWdnSGxQeHo5V0Q4RVgwVnEwMlVkTFFnUDJQV3FXZTZsajU4OTM4MDlsWkhkbUtCMkExSzBEUHE1bw?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Type 2 diabetes rising rapidly in young women - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
 

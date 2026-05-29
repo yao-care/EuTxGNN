@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "hypertension 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "hypertension 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# hypertension 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hypertension 有什麼相關新聞？">
+<strong>hypertension</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hypertension」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
-2026-05-28
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [I’m a doctor — these are 4 lesser-known signs of 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxOX05lUEZJSUFXOE9LUW1nbVV3Y2RfbVFOWFJsa3pIYzlscEpxbmRFSzNKMDVRR0ZiMlVtOGJPZUxpUjRvODNxYmVvOGR3eTczWm9ZcHBZSlBmVXdoTl9IQ2VDeFVfcXJOZHZmNjRhb21VQV9KVkxLTUxyaVF0RFFDMUVSYXExcVhqNERJSNIBkgFBVV95cUxPUVlNYXFhSVl2SndjMDBudENURDVEVFNKYXJMZ09Ub3VsTHNuNTEtaUVVN0JSUW9IX1NQUVA0bGx1QU9VcXFOXzRGM0J2QlZKQ00yQlhXMFB2TENPWHR0RGx1SXEtSV9ZNlhzQnk1WXhNazk0NVdjbThBNktyTjhHVHp4d3V0YUhwbE5Vdk5TUE03dw?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Bepirovirsen alcanza la curación funcional en uno de cada cinco pacientes con hepatitis B crónica - Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTk9jTjFyTnhxT1Y3XzJYU0hUODFpMDhPdVBQRV83TTBBNjJxRVJ5MGVOYXdncUxlUE13TDRvODFkd0k3ZEs4WC0tTkxibGs5RlUzUk53WjBsYUxnMXZDV2puU2pxczlyZGtIYnJSODVkZjRJdzM3TlNXbG9qbHYzT3lNUkRkc1lVcmhqeEVfUWRZRnRiUXpMV2djdWJ1REMxY0JudTVBUk0?oc=5)
 
 2026-05-28 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTk9jTjFyTnhxT1Y3XzJYU0hUODFpMDhPdVBQRV83TTBBNjJxRVJ5MGVOYXdncUxlUE13TDRvODFkd0k3ZEs4WC0tTkxibGs5RlUzUk53WjBsYUxnMXZDV2puU2pxczlyZGtIYnJSODVkZjRJdzM3TlNXbG9qbHYzT3lNUkRkc1lVcmhqeEVfUWRZRnRiUXpMV2djdWJ1REMxY0JudTVBUk0?oc=5)
-
----
-
-### [Studie warnt: Häufige Konservierungsstoffe könnten Herz und Blutdruck schädigen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05kVzd4WTNqWHc1eFlWVEpvWnpmUU1JZzM5U2xvUWFoR2IxcHltdnRPUHJhSkpOenZ6UnI1S3F2dncyZDVuaEhBRDlaaWlvZzdzTzJsZHV6ZHdjLTQ5ZkxlS3JWWVZNRGJva0R2am5yZ2pMd3RKRWZFX2JIaWR5SEI5RlVzcE9zMWx2di1xUTBndGJDYzkxelJuNlBXckhkTFcweXJzbDlFQWV6UDZj?oc=5)
 
 ---
 
