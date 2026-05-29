@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+
+2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+
+---
+
+### [Parkinson: Forscher schlagen Alarm - Schlechte Mundhygiene könnte geistigen Abbau beschleunigen](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRUNoN3hVRWo1aE5hcWZIR0JKSlhqRktabS1pNnpvelpoOV9NNndlUzFfZW5FZzlmcmY4Y1pJX0JQdTY5UFMzYnE2SDZRQWZBR1diRGxOeThaaDQ2ZjhtX2xGOC1wMk9IUm1kbFFyTmUwOWI3RmV6dThMZ2lQYUlKcmR6dzdoX0pKQ1VmU0RBZnE1LVFhcWxRcnJLcVRkX2pUVy1VdmoxQ054WHgtYWRoMkZvMXJsMHlVN0h1UmV1QlpOLURlSlN6RmVDRWt1d3NXQ1ZDZzFQVFlLeUU3UHp3MEIzM21sc3BsaUVJTnJoaw?oc=5)
+
+2026-05-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRUNoN3hVRWo1aE5hcWZIR0JKSlhqRktabS1pNnpvelpoOV9NNndlUzFfZW5FZzlmcmY4Y1pJX0JQdTY5UFMzYnE2SDZRQWZBR1diRGxOeThaaDQ2ZjhtX2xGOC1wMk9IUm1kbFFyTmUwOWI3RmV6dThMZ2lQYUlKcmR6dzdoX0pKQ1VmU0RBZnE1LVFhcWxRcnJLcVRkX2pUVy1VdmoxQ054WHgtYWRoMkZvMXJsMHlVN0h1UmV1QlpOLURlSlN6RmVDRWt1d3NXQ1ZDZzFQVFlLeUU3UHp3MEIzM21sc3BsaUVJTnJoaw?oc=5)
+
+---
 
 ### [Expertos defienden tratar la obesidad como una enfermedad crónica que va más allá del peso para frenar el riesgo cardiovascular y la diabetes - Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
 
 2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
+
+---
+
+### [Disease Interception bei Psoriasis-Arthritis: Biologika senken Übergänge - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+
+2026-05-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
 
 ---
 
@@ -70,11 +94,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Un proyecto de vacunación escolar en Lanzarote, premiado por la Asociación Española de Vacunología](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2h2bEpjUW5GWXNNQ2hqVDFsa2I5TmZINVVlNkdRWm5HUEsxLTNLaHloVGo0RDFmSFFRV0Q1ZDRjNnlLMnc0elRid1lTWlhDQmdReXdhSnltNWVFOTY1RXdRck1YaGlwV3RnMXhwRVp6T3Q2cGRNakx2bTh0YndyN0ptTGRSSUFFR2NKbGlwM3FxSXFoak52QUNlNmRscmJldTFndnhKald5Y2FFTk9uQVY2aVhpRFVmTWhDeVNTcWtGemZDNWpYVkZFcnJkZE9xMkctcHNHSDhnNTV1UG1RXzZLTG1fUngw0gHuAUFVX3lxTE1lNDJSbG5pcTBMTGZGenExMXJVOVdKZHBQQ2dvaDFiUTlneF9jOWd0ZWdNVmV5dDhZVWpqdkVlaGRVa3BtclQzdDBUSFVETm5oUmFKekhlUFA2V2I4eldHVDU3TFkzamNHNk5DUklReEdCbjBUQ3VnQXd2ejBiRmNfTXNadDN5UjRUdDJ0Y3FNTkFZMnhtaVg5UWNlUm1rdE1halRuakt2VlZ3Z1NLVF9idXVzSGFmUmlYNTYxLXZGem5RN3BJamFSUlRfVTM4ZFZaWEtzWXVxckgtdk5BZGR4ZHBQNTUtSWxRQTl6X2c?oc=5)
+### [Las Sociedades Españolas de Neumología y Cirugía Torácica y de Cardiología promueven la implantación de unidades cardiopulmonares para una atención más coordinada de los pacientes con EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">diabetes</span>
+2026-05-28 <span class="news-indication-tag">EPOC</span>
 
-來源：[Biosferadigital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2h2bEpjUW5GWXNNQ2hqVDFsa2I5TmZINVVlNkdRWm5HUEsxLTNLaHloVGo0RDFmSFFRV0Q1ZDRjNnlLMnc0elRid1lTWlhDQmdReXdhSnltNWVFOTY1RXdRck1YaGlwV3RnMXhwRVp6T3Q2cGRNakx2bTh0YndyN0ptTGRSSUFFR2NKbGlwM3FxSXFoak52QUNlNmRscmJldTFndnhKald5Y2FFTk9uQVY2aVhpRFVmTWhDeVNTcWtGemZDNWpYVkZFcnJkZE9xMkctcHNHSDhnNTV1UG1RXzZLTG1fUngw0gHuAUFVX3lxTE1lNDJSbG5pcTBMTGZGenExMXJVOVdKZHBQQ2dvaDFiUTlneF9jOWd0ZWdNVmV5dDhZVWpqdkVlaGRVa3BtclQzdDBUSFVETm5oUmFKekhlUFA2V2I4eldHVDU3TFkzamNHNk5DUklReEdCbjBUQ3VnQXd2ejBiRmNfTXNadDN5UjRUdDJ0Y3FNTkFZMnhtaVg5UWNlUm1rdE1halRuakt2VlZ3Z1NLVF9idXVzSGFmUmlYNTYxLXZGem5RN3BJamFSUlRfVTM4ZFZaWEtzWXVxckgtdk5BZGR4ZHBQNTUtSWxRQTl6X2c?oc=5)
+來源：[astrazeneca.es](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
+
+---
+
+### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+
+2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
 ---
 
@@ -94,27 +126,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [COPD: Fett- und zuckerreiche Kost schädigt Lungengewebe massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
-
-2026-05-28 <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
-
----
-
 ### [Thousands could unknowingly have diabetes as cases rise faster than predicted](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
 
 2026-05-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
-
----
-
-### [Typ-2-Diabetes: Schweregrad könnte mit Mikrobiom des Dünndarms zusammenhängen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXMxal9mQVVDLS04VGpxQnBuUlduWVZhTmtNdWM2RmFQa0VLQ3luVWJjVWo4VGRvSW96YmIzNVAxNmQ0elpxV2NnWUo2S1dyLUN3MjFhdXg2NHlVWWJzY2x3QTA3Z2VJZzB2anpDOXNRRGdKUU1xUGg1ZjJickxGd29WckNLTXZ0amdZSUVTR3hEQTJZVmtHVktuX3lyaW5ySmJrb25hMkptNE83SHd6VFhGa1lfUjZYbkhZXzRLNmkzWnVXZjk4Y0JoVU84T2NRNkJ2b0tBcHR3ZncwSUE?oc=5)
-
-2026-05-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXMxal9mQVVDLS04VGpxQnBuUlduWVZhTmtNdWM2RmFQa0VLQ3luVWJjVWo4VGRvSW96YmIzNVAxNmQ0elpxV2NnWUo2S1dyLUN3MjFhdXg2NHlVWWJzY2x3QTA3Z2VJZzB2anpDOXNRRGdKUU1xUGg1ZjJickxGd29WckNLTXZ0amdZSUVTR3hEQTJZVmtHVktuX3lyaW5ySmJrb25hMkptNE83SHd6VFhGa1lfUjZYbkhZXzRLNmkzWnVXZjk4Y0JoVU84T2NRNkJ2b0tBcHR3ZncwSUE?oc=5)
 
 ---
 

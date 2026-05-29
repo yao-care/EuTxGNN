@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/eslicarbazepine-acetate/
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Neue Selbsthilfegruppe für Epilepsie startet in Weiden](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
 
 2026-05-29 <span class="news-indication-tag">Epilepsie</span>
 
 來源：[Oberpfalzecho](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
-
----
-
-### [Alzheimer: Epilepsie-Mittel Levetiracetam zeigt vielversprechende Erfolge - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Levetiracetam</span> <span class="news-indication-tag">Epilepsie</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
 
 ---
 

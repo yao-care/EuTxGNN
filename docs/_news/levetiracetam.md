@@ -54,19 +54,19 @@ permalink: /news/levetiracetam/
 
 ## 相關新聞（2 則）
 
+### [Alzheimer: Levetiracetam als kosteneffizienter Kandidat für Drug Repurposing - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQclpuOXpYVnE5akZVeG90TUxQbzdjb0J5NGpaZXVpdDF4TkxuWHgxSTFSb285T21qVkY3anp2eExZNDl6bGNrRU5MSGozV0t1ZFE3ZnRUV0FnOUQ0RmhrN2IwVTdUTzdxdG0tQjRzYXhBYWZMdS1fWF83YjZYajBRVkNZejRfN3J5VHFoU3BuUGdVb3ZQMnJfSHExQWRhelIwc2tvUmxyeXV1b3RY?oc=5)
+
+2026-05-29 <span class="news-drug-tag">Levetiracetam</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQclpuOXpYVnE5akZVeG90TUxQbzdjb0J5NGpaZXVpdDF4TkxuWHgxSTFSb285T21qVkY3anp2eExZNDl6bGNrRU5MSGozV0t1ZFE3ZnRUV0FnOUQ0RmhrN2IwVTdUTzdxdG0tQjRzYXhBYWZMdS1fWF83YjZYajBRVkNZejRfN3J5VHFoU3BuUGdVb3ZQMnJfSHExQWRhelIwc2tvUmxyeXV1b3RY?oc=5)
+
+---
+
 ### [Neue Selbsthilfegruppe für Epilepsie startet in Weiden](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
 
 2026-05-29 <span class="news-indication-tag">Epilepsie</span>
 
 來源：[Oberpfalzecho](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
-
----
-
-### [Alzheimer: Epilepsie-Mittel Levetiracetam zeigt vielversprechende Erfolge - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Levetiracetam</span> <span class="news-indication-tag">Epilepsie</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
 
 ---
 

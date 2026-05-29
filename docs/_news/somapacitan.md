@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [Parkinson: Forscher schlagen Alarm - Schlechte Mundhygiene könnte geistigen Abbau beschleunigen](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRUNoN3hVRWo1aE5hcWZIR0JKSlhqRktabS1pNnpvelpoOV9NNndlUzFfZW5FZzlmcmY4Y1pJX0JQdTY5UFMzYnE2SDZRQWZBR1diRGxOeThaaDQ2ZjhtX2xGOC1wMk9IUm1kbFFyTmUwOWI3RmV6dThMZ2lQYUlKcmR6dzdoX0pKQ1VmU0RBZnE1LVFhcWxRcnJLcVRkX2pUVy1VdmoxQ054WHgtYWRoMkZvMXJsMHlVN0h1UmV1QlpOLURlSlN6RmVDRWt1d3NXQ1ZDZzFQVFlLeUU3UHp3MEIzM21sc3BsaUVJTnJoaw?oc=5)
+
+2026-05-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRUNoN3hVRWo1aE5hcWZIR0JKSlhqRktabS1pNnpvelpoOV9NNndlUzFfZW5FZzlmcmY4Y1pJX0JQdTY5UFMzYnE2SDZRQWZBR1diRGxOeThaaDQ2ZjhtX2xGOC1wMk9IUm1kbFFyTmUwOWI3RmV6dThMZ2lQYUlKcmR6dzdoX0pKQ1VmU0RBZnE1LVFhcWxRcnJLcVRkX2pUVy1VdmoxQ054WHgtYWRoMkZvMXJsMHlVN0h1UmV1QlpOLURlSlN6RmVDRWt1d3NXQ1ZDZzFQVFlLeUU3UHp3MEIzM21sc3BsaUVJTnJoaw?oc=5)
+
+---
+
+### [Cancer : ce médicament contre l’asthme pourrait aider à détruire les tumeurs](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
+
+2026-05-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
+
+---
 
 ### [Expertos defienden tratar la obesidad como una enfermedad crónica que va más allá del peso para frenar el riesgo cardiovascular y la diabetes - Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
 
@@ -62,27 +78,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [¿Estamos preparados para la próxima pandemia? La OMS lanza una advertencia que enciende todas las alarmas - El Periódico](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTJmWHlxTFFDSkpacHZlMS1uZVlkQkE0V25Fak0tZ2kwcUVERTlQZEZoaG9GbUg0TkhkN0lJMko4b2lyMjBEQlJ4VkFMSTlvaWR3WjgyYUZibHpQVUdJdVhwcTQzQ3lhMlloTkxMcV9JUHl3elBmdGhpNU5EeXBHa1JRbmtiZ0tkOWtkZ2hteHcyRWgzUWtxcFluejloOVJs0gGgAUFVX3lxTE9LVk13bXYyR0dGZTB0LURfMGZZUHZteWF3WW1RV29SX0xTdWZjbUVxam5Xczg1VmZSOHpWY3FOeGpWVU9VMEc4cm9saWVxR2gyUE1jZExhR0FiaUtRYnk3WjJwZzh1dEtiRDNyTW5TcFI2U3ZGV0p4WjZWNHpPU1NBQ2VPTnNtdVRrYU5sRnIzS2xrQVVDeG1TcnJnN2VONGc?oc=5)
-
-2026-05-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTJmWHlxTFFDSkpacHZlMS1uZVlkQkE0V25Fak0tZ2kwcUVERTlQZEZoaG9GbUg0TkhkN0lJMko4b2lyMjBEQlJ4VkFMSTlvaWR3WjgyYUZibHpQVUdJdVhwcTQzQ3lhMlloTkxMcV9JUHl3elBmdGhpNU5EeXBHa1JRbmtiZ0tkOWtkZ2hteHcyRWgzUWtxcFluejloOVJs0gGgAUFVX3lxTE9LVk13bXYyR0dGZTB0LURfMGZZUHZteWF3WW1RV29SX0xTdWZjbUVxam5Xczg1VmZSOHpWY3FOeGpWVU9VMEc4cm9saWVxR2gyUE1jZExhR0FiaUtRYnk3WjJwZzh1dEtiRDNyTW5TcFI2U3ZGV0p4WjZWNHpPU1NBQ2VPTnNtdVRrYU5sRnIzS2xrQVVDeG1TcnJnN2VONGc?oc=5)
-
----
-
 ### [Type 2 diabetes could be a sign of this deadly cancer and spotting it fast is crucial - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
 
 2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
-
----
-
-### [Un proyecto de vacunación escolar en Lanzarote, premiado por la Asociación Española de Vacunología](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2h2bEpjUW5GWXNNQ2hqVDFsa2I5TmZINVVlNkdRWm5HUEsxLTNLaHloVGo0RDFmSFFRV0Q1ZDRjNnlLMnc0elRid1lTWlhDQmdReXdhSnltNWVFOTY1RXdRck1YaGlwV3RnMXhwRVp6T3Q2cGRNakx2bTh0YndyN0ptTGRSSUFFR2NKbGlwM3FxSXFoak52QUNlNmRscmJldTFndnhKald5Y2FFTk9uQVY2aVhpRFVmTWhDeVNTcWtGemZDNWpYVkZFcnJkZE9xMkctcHNHSDhnNTV1UG1RXzZLTG1fUngw0gHuAUFVX3lxTE1lNDJSbG5pcTBMTGZGenExMXJVOVdKZHBQQ2dvaDFiUTlneF9jOWd0ZWdNVmV5dDhZVWpqdkVlaGRVa3BtclQzdDBUSFVETm5oUmFKekhlUFA2V2I4eldHVDU3TFkzamNHNk5DUklReEdCbjBUQ3VnQXd2ejBiRmNfTXNadDN5UjRUdDJ0Y3FNTkFZMnhtaVg5UWNlUm1rdE1halRuakt2VlZ3Z1NLVF9idXVzSGFmUmlYNTYxLXZGem5RN3BJamFSUlRfVTM4ZFZaWEtzWXVxckgtdk5BZGR4ZHBQNTUtSWxRQTl6X2c?oc=5)
-
-2026-05-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[Biosferadigital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2h2bEpjUW5GWXNNQ2hqVDFsa2I5TmZINVVlNkdRWm5HUEsxLTNLaHloVGo0RDFmSFFRV0Q1ZDRjNnlLMnc0elRid1lTWlhDQmdReXdhSnltNWVFOTY1RXdRck1YaGlwV3RnMXhwRVp6T3Q2cGRNakx2bTh0YndyN0ptTGRSSUFFR2NKbGlwM3FxSXFoak52QUNlNmRscmJldTFndnhKald5Y2FFTk9uQVY2aVhpRFVmTWhDeVNTcWtGemZDNWpYVkZFcnJkZE9xMkctcHNHSDhnNTV1UG1RXzZLTG1fUngw0gHuAUFVX3lxTE1lNDJSbG5pcTBMTGZGenExMXJVOVdKZHBQQ2dvaDFiUTlneF9jOWd0ZWdNVmV5dDhZVWpqdkVlaGRVa3BtclQzdDBUSFVETm5oUmFKekhlUFA2V2I4eldHVDU3TFkzamNHNk5DUklReEdCbjBUQ3VnQXd2ejBiRmNfTXNadDN5UjRUdDJ0Y3FNTkFZMnhtaVg5UWNlUm1rdE1halRuakt2VlZ3Z1NLVF9idXVzSGFmUmlYNTYxLXZGem5RN3BJamFSUlRfVTM4ZFZaWEtzWXVxckgtdk5BZGR4ZHBQNTUtSWxRQTl6X2c?oc=5)
 
 ---
 
@@ -99,22 +99,6 @@ permalink: /news/somapacitan/
 2026-05-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
-
----
-
-### [Pourquoi ce médicament contre l'asthme pourrait devenir une arme contre les cancers les plus agressifs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
-
-2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
-
----
-
-### [Typ-2-Diabetes: Schweregrad könnte mit Mikrobiom des Dünndarms zusammenhängen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXMxal9mQVVDLS04VGpxQnBuUlduWVZhTmtNdWM2RmFQa0VLQ3luVWJjVWo4VGRvSW96YmIzNVAxNmQ0elpxV2NnWUo2S1dyLUN3MjFhdXg2NHlVWWJzY2x3QTA3Z2VJZzB2anpDOXNRRGdKUU1xUGg1ZjJickxGd29WckNLTXZ0amdZSUVTR3hEQTJZVmtHVktuX3lyaW5ySmJrb25hMkptNE83SHd6VFhGa1lfUjZYbkhZXzRLNmkzWnVXZjk4Y0JoVU84T2NRNkJ2b0tBcHR3ZncwSUE?oc=5)
-
-2026-05-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXMxal9mQVVDLS04VGpxQnBuUlduWVZhTmtNdWM2RmFQa0VLQ3luVWJjVWo4VGRvSW96YmIzNVAxNmQ0elpxV2NnWUo2S1dyLUN3MjFhdXg2NHlVWWJzY2x3QTA3Z2VJZzB2anpDOXNRRGdKUU1xUGg1ZjJickxGd29WckNLTXZ0amdZSUVTR3hEQTJZVmtHVktuX3lyaW5ySmJrb25hMkptNE83SHd6VFhGa1lfUjZYbkhZXzRLNmkzWnVXZjk4Y0JoVU84T2NRNkJ2b0tBcHR3ZncwSUE?oc=5)
 
 ---
 

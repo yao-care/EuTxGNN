@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
+
+### [Cancer : ce médicament contre l’asthme pourrait aider à détruire les tumeurs](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
+
+2026-05-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
+
+---
 
 ### [Las palabras importan: la SEN publica una guía para comunicar mejor sobre la migraña](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
@@ -67,30 +75,6 @@ permalink: /news/regadenoson/
 2026-05-29 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMickFVX3lxTE1nSWtNTHZQejZtME9IZFdkX0c1aEhXNFdRS2RYeXBnajhidnczRS1fdG5pdnAtZWlMTGR1V0JVZ3ozenhIYkpvckFkNS1UaWNvZlhKQ1hjSHAxUWY0SDBDWS1FSENCZmFoVnlPU3d3cGx4QQ?oc=5)
-
----
-
-### [¿Estamos preparados para la próxima pandemia? La OMS lanza una advertencia que enciende todas las alarmas - El Periódico](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTJmWHlxTFFDSkpacHZlMS1uZVlkQkE0V25Fak0tZ2kwcUVERTlQZEZoaG9GbUg0TkhkN0lJMko4b2lyMjBEQlJ4VkFMSTlvaWR3WjgyYUZibHpQVUdJdVhwcTQzQ3lhMlloTkxMcV9JUHl3elBmdGhpNU5EeXBHa1JRbmtiZ0tkOWtkZ2hteHcyRWgzUWtxcFluejloOVJs0gGgAUFVX3lxTE9LVk13bXYyR0dGZTB0LURfMGZZUHZteWF3WW1RV29SX0xTdWZjbUVxam5Xczg1VmZSOHpWY3FOeGpWVU9VMEc4cm9saWVxR2gyUE1jZExhR0FiaUtRYnk3WjJwZzh1dEtiRDNyTW5TcFI2U3ZGV0p4WjZWNHpPU1NBQ2VPTnNtdVRrYU5sRnIzS2xrQVVDeG1TcnJnN2VONGc?oc=5)
-
-2026-05-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTJmWHlxTFFDSkpacHZlMS1uZVlkQkE0V25Fak0tZ2kwcUVERTlQZEZoaG9GbUg0TkhkN0lJMko4b2lyMjBEQlJ4VkFMSTlvaWR3WjgyYUZibHpQVUdJdVhwcTQzQ3lhMlloTkxMcV9JUHl3elBmdGhpNU5EeXBHa1JRbmtiZ0tkOWtkZ2hteHcyRWgzUWtxcFluejloOVJs0gGgAUFVX3lxTE9LVk13bXYyR0dGZTB0LURfMGZZUHZteWF3WW1RV29SX0xTdWZjbUVxam5Xczg1VmZSOHpWY3FOeGpWVU9VMEc4cm9saWVxR2gyUE1jZExhR0FiaUtRYnk3WjJwZzh1dEtiRDNyTW5TcFI2U3ZGV0p4WjZWNHpPU1NBQ2VPTnNtdVRrYU5sRnIzS2xrQVVDeG1TcnJnN2VONGc?oc=5)
-
----
-
-### [Olbia, boom di prestazioni in Neurologia e nuove terapie contro l’emicrania - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
-
-2026-05-28 <span class="news-indication-tag">emicrania</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
-
----
-
-### [Pourquoi ce médicament contre l'asthme pourrait devenir une arme contre les cancers les plus agressifs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
-
-2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [¿Estamos preparados para la próxima pandemia? La OMS lanza una advertencia que enciende todas las alarmas - El Periódico](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTJmWHlxTFFDSkpacHZlMS1uZVlkQkE0V25Fak0tZ2kwcUVERTlQZEZoaG9GbUg0TkhkN0lJMko4b2lyMjBEQlJ4VkFMSTlvaWR3WjgyYUZibHpQVUdJdVhwcTQzQ3lhMlloTkxMcV9JUHl3elBmdGhpNU5EeXBHa1JRbmtiZ0tkOWtkZ2hteHcyRWgzUWtxcFluejloOVJs0gGgAUFVX3lxTE9LVk13bXYyR0dGZTB0LURfMGZZUHZteWF3WW1RV29SX0xTdWZjbUVxam5Xczg1VmZSOHpWY3FOeGpWVU9VMEc4cm9saWVxR2gyUE1jZExhR0FiaUtRYnk3WjJwZzh1dEtiRDNyTW5TcFI2U3ZGV0p4WjZWNHpPU1NBQ2VPTnNtdVRrYU5sRnIzS2xrQVVDeG1TcnJnN2VONGc?oc=5)
+### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
 
-2026-05-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
+2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Periódico](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTJmWHlxTFFDSkpacHZlMS1uZVlkQkE0V25Fak0tZ2kwcUVERTlQZEZoaG9GbUg0TkhkN0lJMko4b2lyMjBEQlJ4VkFMSTlvaWR3WjgyYUZibHpQVUdJdVhwcTQzQ3lhMlloTkxMcV9JUHl3elBmdGhpNU5EeXBHa1JRbmtiZ0tkOWtkZ2hteHcyRWgzUWtxcFluejloOVJs0gGgAUFVX3lxTE9LVk13bXYyR0dGZTB0LURfMGZZUHZteWF3WW1RV29SX0xTdWZjbUVxam5Xczg1VmZSOHpWY3FOeGpWVU9VMEc4cm9saWVxR2gyUE1jZExhR0FiaUtRYnk3WjJwZzh1dEtiRDNyTW5TcFI2U3ZGV0p4WjZWNHpPU1NBQ2VPTnNtdVRrYU5sRnIzS2xrQVVDeG1TcnJnN2VONGc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+
+---
+
+### [Cancer : ce médicament contre l’asthme pourrait aider à détruire les tumeurs](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
+
+2026-05-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
+
+---
+
+### [Disease Interception bei Psoriasis-Arthritis: Biologika senken Übergänge - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+
+2026-05-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+
+---
+
+### [Las Sociedades Españolas de Neumología y Cirugía Torácica y de Cardiología promueven la implantación de unidades cardiopulmonares para una atención más coordinada de los pacientes con EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">EPOC</span>
+
+來源：[astrazeneca.es](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
+
+---
+
+### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+
+2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
 ---
 
@@ -67,30 +99,6 @@ permalink: /news/sarilumab/
 2026-05-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
-
----
-
-### [COPD: Fett- und zuckerreiche Kost schädigt Lungengewebe massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
-
-2026-05-28 <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
-
----
-
-### [Pourquoi ce médicament contre l'asthme pourrait devenir une arme contre les cancers les plus agressifs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
-
-2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDRpNXNxUTctcEhfMjNWX21HWV9vd0p4U21aTU1FVmoxYUdNeXlIWm5yUjdXM0VNYkY1RHhzNVduRUFRM1Z2Qlp2MFBxWmx4SmoxeFg1QmI1NnhZSVpsWE04UmNnenhUZTRvWnlIUXQ2ZU0wbjlDd3I4ZmxIYmFueThTT0JHbUoxV0RuVjFFaTZ3SjlRMEd6S2VpMkF4QXB2R3V0SGVCc01tXy1jMVlrNEhIYVJjRVnSAbwBQVVfeXFMUGZkY1BjeExuX3p0QndGWWNUdktYbU5adWpPVWZfYVVuOHpONmN4cWdNTDRJZ1BFSkI2QnYzUkJveXFsVHBSODVHV0RFUklYMWxkQTFSOXM1dG1qSHhlV0h5OFFqZjVRdjJseUhVOGRuMHJkYmgzdVBOeHNUT3NDSjNabDgwWnMtZmFjYzJlVW1LWDFhMFNRbjh1bU1Nb0o0WnNQSlI1MUNGcVhqbnhOckgyT3lYR0NpMkxIMVM?oc=5)
-
----
-
-### [Morbus Crohn bei Kindern: Remission auch ohne enterale Ernährungstherapie erreichen](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdi1HMi1JWWZGZDdLZ1liLWRlVTVNMTNnYW55YlRNVFVUZTJVNC1pV3JZMHVsSXI2bGNaX1JLQ0RZMEdBZFNqd1BoeUY5QWdKVUdmNDZlZENYdFcxQmw2T0RnM1JVbmpCdXFNMjlZaHd6X3BWc2Y1TXJYMXBRY1p3VDR3NDdWS29vZGhwY1VpcVZtaUFFOGVHbTV3b0VSWGIxUVhtWDFsNHVBenFjbWJYWFpiMXFWalZSTlltZ1lteC1zLWNfY0c0cHcybEwwQQ?oc=5)
-
-2026-05-27 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdi1HMi1JWWZGZDdLZ1liLWRlVTVNMTNnYW55YlRNVFVUZTJVNC1pV3JZMHVsSXI2bGNaX1JLQ0RZMEdBZFNqd1BoeUY5QWdKVUdmNDZlZENYdFcxQmw2T0RnM1JVbmpCdXFNMjlZaHd6X3BWc2Y1TXJYMXBRY1p3VDR3NDdWS29vZGhwY1VpcVZtaUFFOGVHbTV3b0VSWGIxUVhtWDFsNHVBenFjbWJYWFpiMXFWalZSTlltZ1lteC1zLWNfY0c0cHcybEwwQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [COPD: Fett- und zuckerreiche Kost schädigt Lungengewebe massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
+### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
 
-2026-05-28 <span class="news-indication-tag">copd</span>
+2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+
+---
+
+### [Las Sociedades Españolas de Neumología y Cirugía Torácica y de Cardiología promueven la implantación de unidades cardiopulmonares para una atención más coordinada de los pacientes con EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">EPOC</span>
+
+來源：[astrazeneca.es](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
 
 ---
 

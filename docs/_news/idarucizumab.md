@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
+
+### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+
+2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+
+---
+
+### [Disease Interception bei Psoriasis-Arthritis: Biologika senken Übergänge - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+
+2026-05-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+
+---
+
+### [Las Sociedades Españolas de Neumología y Cirugía Torácica y de Cardiología promueven la implantación de unidades cardiopulmonares para una atención más coordinada de los pacientes con EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
+
+2026-05-28 <span class="news-indication-tag">EPOC</span>
+
+來源：[astrazeneca.es](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
+
+---
+
+### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+
+2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+
+---
 
 ### [New depression treatment targets the immune system instead of the brain](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
-
----
-
-### [COPD: Fett- und zuckerreiche Kost schädigt Lungengewebe massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
-
-2026-05-28 <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW5VUkJXZ09ZXzJ3V3doM2lRWkFmaDM5LWpBSFJTaVhmVVVUUU5YM29QQlVhSGNOWVE3bTVnbDBBTUktQnlkMVF2Sm1XaVYwdENZblVEYVc2SnJEa0hUUkE3MmRLY2dtQUhoU3VRS0VwSlNab1RmZVQydnVTS2xEUTJOaE8yUnNVOHpiVV95TEN6ekF5TUU3N1hESndVYzMwUnhhdFFqT25uUGdFSHlF?oc=5)
 
 ---
 

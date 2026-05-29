@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="Florbetaben (18F) 有什麼相關新聞？">
-<strong>Florbetaben (18F)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetaben (18F)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/florbetaben-18f/
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [Las palabras importan: la SEN publica una guía para comunicar mejor sobre la migraña](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/florbetaben-18f/
 2026-05-29 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMickFVX3lxTE1nSWtNTHZQejZtME9IZFdkX0c1aEhXNFdRS2RYeXBnajhidnczRS1fdG5pdnAtZWlMTGR1V0JVZ3ozenhIYkpvckFkNS1UaWNvZlhKQ1hjSHAxUWY0SDBDWS1FSENCZmFoVnlPU3d3cGx4QQ?oc=5)
+
+---
+
+### [Disease Interception bei Psoriasis-Arthritis: Biologika senken Übergänge - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+
+2026-05-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
 
 ---
 
@@ -86,11 +94,11 @@ permalink: /news/florbetaben-18f/
 
 ---
 
-### [Olbia, boom di prestazioni in Neurologia e nuove terapie contro l’emicrania - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
+### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
-2026-05-28 <span class="news-indication-tag">emicrania</span>
+2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
 ---
 

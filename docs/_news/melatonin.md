@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### ["Je trouve cela discriminatoire" : en situation d'obésité morbide, Antoine ne peut plus se soigner faute de transport adapté - France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGtpVm55VjRsSXNKU0dlYTE3Z3VVVVZRNXVoUEg1SW9Rdm1OQjI2NWxtRmVUMnNUdzhLQWRrNW1Lb0FsclVEaXpqd2pNaVFFbFlIQkxSVlEyQlVuYTd2S0dYTGRibV9JQ2duUWNmZlV3aHk1cHNNQTlweDNfdEl0cy03TkJSXzhqb3V3a2t5Z25sbHNMOHRTc1dMN3BNdkFTWVFoOEs0Y2h6c2pnay1zX3hXd1dGazNyMWtQSkpwbXJMeW51OU9uMmpGa3lIdUZneV9BZFhaSVdLa3RsUEE2NGJFNUtyTV9PaDE2LTllM20zc1M2Z25FY0dWMjdYOGhVMnNpeVF6cUE3Q2NMTnV2djJtNUg3MWNmbDU1OGtIMVRYUkpvTzJBdFdlVjh5NkU?oc=5)
+
+2026-05-29 <span class="news-indication-tag">obésité</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGtpVm55VjRsSXNKU0dlYTE3Z3VVVVZRNXVoUEg1SW9Rdm1OQjI2NWxtRmVUMnNUdzhLQWRrNW1Lb0FsclVEaXpqd2pNaVFFbFlIQkxSVlEyQlVuYTd2S0dYTGRibV9JQ2duUWNmZlV3aHk1cHNNQTlweDNfdEl0cy03TkJSXzhqb3V3a2t5Z25sbHNMOHRTc1dMN3BNdkFTWVFoOEs0Y2h6c2pnay1zX3hXd1dGazNyMWtQSkpwbXJMeW51OU9uMmpGa3lIdUZneV9BZFhaSVdLa3RsUEE2NGJFNUtyTV9PaDE2LTllM20zc1M2Z25FY0dWMjdYOGhVMnNpeVF6cUE3Q2NMTnV2djJtNUg3MWNmbDU1OGtIMVRYUkpvTzJBdFdlVjh5NkU?oc=5)
+
+---
 
 ### [Las palabras importan: la SEN publica una guía para comunicar mejor sobre la migraña](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
@@ -70,11 +78,35 @@ permalink: /news/melatonin/
 
 ---
 
+### [La obesidad puede provocar cambios biológicos que favorecen la invasión del cáncer de mama - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjV3RXE3R1hKbEtKUGVZRnBGSl9IUjlnelBIMHpPRG9oLVVrT2phR3liYnhqSnBUaExLeUpKeEJEcGRjcDZ1SHZOb2t3RE1LdS14OW05djJQdGozd29sVVNlRHlYWnNHWGx6eks5VlpNM0Vha3MyTFJuU1pwd1FyNnJnbmpDRXQ1eFlvSVJNZ0NuR2JsMkZCU2k3Q0h6ellUaExJWDVLaVprYmFYVlRWYUVDVGJzY2E5NUtXeDJERdIBugFBVV95cUxNLUhLSW15a19jUmFVaUtPY3oyd21SeWdiMjlOZWtYVFpPQXh1ZlZuZUdmbGVDQTN6dGpXV2FtTUhYUHR1eXdhald5cDR6M1hITGdIVUtoWDdQSzVfcV9YWkItbHc4eC0zRlMtaHppcEx1T1JMaC1Db3NfT1lGc3diSHg5dkp3TEpXU1A1QnU0c2UzaWVORmdkUS1ZUzZ1NjZHMHY4YTVHZElMaW9qbGtKdEVjcnZRNFBpX1E?oc=5)
+
+2026-05-29 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjV3RXE3R1hKbEtKUGVZRnBGSl9IUjlnelBIMHpPRG9oLVVrT2phR3liYnhqSnBUaExLeUpKeEJEcGRjcDZ1SHZOb2t3RE1LdS14OW05djJQdGozd29sVVNlRHlYWnNHWGx6eks5VlpNM0Vha3MyTFJuU1pwd1FyNnJnbmpDRXQ1eFlvSVJNZ0NuR2JsMkZCU2k3Q0h6ellUaExJWDVLaVprYmFYVlRWYUVDVGJzY2E5NUtXeDJERdIBugFBVV95cUxNLUhLSW15a19jUmFVaUtPY3oyd21SeWdiMjlOZWtYVFpPQXh1ZlZuZUdmbGVDQTN6dGpXV2FtTUhYUHR1eXdhald5cDR6M1hITGdIVUtoWDdQSzVfcV9YWkItbHc4eC0zRlMtaHppcEx1T1JMaC1Db3NfT1lGc3diSHg5dkp3TEpXU1A1QnU0c2UzaWVORmdkUS1ZUzZ1NjZHMHY4YTVHZElMaW9qbGtKdEVjcnZRNFBpX1E?oc=5)
+
+---
+
 ### [Expertos defienden tratar la obesidad como una enfermedad crónica que va más allá del peso para frenar el riesgo cardiovascular y la diabetes - Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
 
 2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
+
+---
+
+### [La terapia senolítica reduce la variabilidad del latido cardíaco en modelos de obesidad - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWE1aHdjYWppakhFOEZSRWhCSGY3VjZLVjdpdlJ0bUVtc196V1o3R0RUT0g0eGxMNFA5eWFCOW9CNjQtSmpGLThQUzdaWF9kcVZoQUJuOWVLM09xQzBZNE5pUDMzMWxkbzM4MkJBcUw0UXhHQ2habnd5OXlyR1ZLU3NTQlpuaWd4ZzZTcHkxMDFyUE5ZMEwwVHlyN3kyUkxxUUV5UFdEd0FvOXNpUnRtRVhwSGktZFhrczU3SDB2WdIBugFBVV95cUxNYTNVbXBLWmE2R1JPVDlGZ3FRWG5RUlFMM3YtbXl3a2NLd3NnZ21xTjNPZFU0OEppRjJlN0tqa0VBMWNrWDhLODllaWR5Vk5QUThWOF9OQkx5ZzdtenFnS3p6NE5JMEhjaXMya1UtUlpONDFCMk5oOERuMzFSTmYxLUNXM3pwX3VnRGo0b1BieFZkdnR1YmtRVUhFN1dCRjFQZEdEX2p3YzJ3Ti1rSlFzbG5vajNqQkIyWXc?oc=5)
+
+2026-05-29 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWE1aHdjYWppakhFOEZSRWhCSGY3VjZLVjdpdlJ0bUVtc196V1o3R0RUT0g0eGxMNFA5eWFCOW9CNjQtSmpGLThQUzdaWF9kcVZoQUJuOWVLM09xQzBZNE5pUDMzMWxkbzM4MkJBcUw0UXhHQ2habnd5OXlyR1ZLU3NTQlpuaWd4ZzZTcHkxMDFyUE5ZMEwwVHlyN3kyUkxxUUV5UFdEd0FvOXNpUnRtRVhwSGktZFhrczU3SDB2WdIBugFBVV95cUxNYTNVbXBLWmE2R1JPVDlGZ3FRWG5RUlFMM3YtbXl3a2NLd3NnZ21xTjNPZFU0OEppRjJlN0tqa0VBMWNrWDhLODllaWR5Vk5QUThWOF9OQkx5ZzdtenFnS3p6NE5JMEhjaXMya1UtUlpONDFCMk5oOERuMzFSTmYxLUNXM3pwX3VnRGo0b1BieFZkdnR1YmtRVUhFN1dCRjFQZEdEX2p3YzJ3Ti1rSlFzbG5vajNqQkIyWXc?oc=5)
+
+---
+
+### [Weight Loss on GLP-1 Drugs Linked to Lower Risk of Disease, Study Finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
+
+2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
 
 ---
 
@@ -91,14 +123,6 @@ permalink: /news/melatonin/
 2026-05-28 <span class="news-indication-tag">obesidad</span>
 
 來源：[Ruvid](https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnRzdE1GdS1kc00wUVcwTkVpOXFOTjFJeFFfQ195UExsUVZEa0ZIazBoME5CNkFDcVNLQ1psUkdJOFZwWk9wMlBhT2hZTjRZTlQzMmZoNXhLX0E1NnhuTnMybGZ2UmtxWXNtZjNac3V3N0h4amg2TmtQUmxNdGkxTC1ZUW9KQTZqelh6ZHRQZi1HX2x2OEs5WlJWa1BuQ1V3T05GRG9VdEItN2tkQi1z?oc=5)
-
----
-
-### [Olbia, boom di prestazioni in Neurologia e nuove terapie contro l’emicrania - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
-
-2026-05-28 <span class="news-indication-tag">emicrania</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRDQ1YWNyazNGR0xPSjM5Mk1DbDVGUWJDQk15V1Q3MGpmb0pCQlJVT0x4cDN4ZzFsRUphNUFZeE5JanlwNHlYZWZodF9ZN1dxaXY1emhFenduREVUeFJFVlhXLTd5UjFNWHJqdkluaUNRbE50QXMtWGZFZHliOThWdVh6RnIyYzl0YnBCX29sTVRSaER2MFk2X3dPekJWcE55dkRWUURGa3BVamtlN0lSZTAtMVpSVnlwOVRFQjZvWjlBRXQ4TlNWeXNGX0RiOE02VjdiUEJxUEs5TzNqYllRQg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/zonisamide/
 ---
 
 <p class="key-answer" data-question="Zonisamide 有什麼相關新聞？">
-<strong>Zonisamide</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zonisamide</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/zonisamide/
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（29 則）
+
+### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+
+2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+
+---
+
+### [El diagnóstico precoz, principal desafío en patologías de la retina](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT2MzcEpBSjFwUldkVlBzcUpyYTNqTHpmRDkxc1VwZ29nWFRsdVNNVjZfeE5VMWZ6N0NCaEpNaVpmTk1sbXFjS1BsYVR1YTBGTVFqekZ4VlFfWXg1N0lyUW40ZzUzb2ZibTd0ZzRsZXVZa00zdHdPcXQyUUpScHJ2c1prNFMydnFvZVc2OVZyMTBiMXlZRHdPSmhiWmkydldkMDd0SDF1YVVkQmNDZW0zbXlBaldETFJJYUl5eDBWcm5PX3VTSmZoLWZ3dDk3QUkzdmJyWkdIUEJJS1NnMG9lSzc0NHlRUG9xU2VCTHBVVnNiUEsyS2JNTk13?oc=5)
+
+2026-05-29 <span class="news-indication-tag">AF</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT2MzcEpBSjFwUldkVlBzcUpyYTNqTHpmRDkxc1VwZ29nWFRsdVNNVjZfeE5VMWZ6N0NCaEpNaVpmTk1sbXFjS1BsYVR1YTBGTVFqekZ4VlFfWXg1N0lyUW40ZzUzb2ZibTd0ZzRsZXVZa00zdHdPcXQyUUpScHJ2c1prNFMydnFvZVc2OVZyMTBiMXlZRHdPSmhiWmkydldkMDd0SDF1YVVkQmNDZW0zbXlBaldETFJJYUl5eDBWcm5PX3VTSmZoLWZ3dDk3QUkzdmJyWkdIUEJJS1NnMG9lSzc0NHlRUG9xU2VCTHBVVnNiUEsyS2JNTk13?oc=5)
+
+---
+
+### [Consiglio europeo del 18-19 giugno affronta l’epidemia di ebola in RD Congo su richiesta di Meloni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimgFBVV95cUxONlBfV1diTjltenFZOUVzeU54dDNlYzlrUUlnTU5CUHFSUmoxU0kzaGR5Tl9mUE45RDdMYTEwQTFHbEJJSGJndjRwMmxkQzNyN29WWHVnLTJzRWtzTkxfT0NlckV4VFlDbEFEUjI0MTFuOFFTUm43YlpGWEF5X1dFTlNFSGN5UnFNR2RLSFhSWGhQcm1uYVl1NjNn?oc=5)
+
+2026-05-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimgFBVV95cUxONlBfV1diTjltenFZOUVzeU54dDNlYzlrUUlnTU5CUHFSUmoxU0kzaGR5Tl9mUE45RDdMYTEwQTFHbEJJSGJndjRwMmxkQzNyN29WWHVnLTJzRWtzTkxfT0NlckV4VFlDbEFEUjI0MTFuOFFTUm43YlpGWEF5X1dFTlNFSGN5UnFNR2RLSFhSWGhQcm1uYVl1NjNn?oc=5)
+
+---
 
 ### [Gesunder Schlaf könnte mit geringerem Risiko für gastrointestinale Krebserkrankungen assoziiert sein - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYU02NkMyMjNRVk9PbVg1dUJtREJidGc1TjkxNGJIMlFQNWFuemp1T1ZZcG51SFBVTVNKQi1KRmxqNDhiYW12a3ZfX2dxRllMUExIbVRfOFB5WThCa29EajlCY0ppVzF6cVJtREpLdWNDT2wtclE4OXh3cGkxay1acUg3aGxodTBGNGxzdDE1Wmx0U0hteXNzSXpibzJfc0hRcTg5ZVJMTDZVUThEcHp1aGx2LVNHSVBubkhaWjlaOGM5X0oxb3MwY0o5aVZKM2RyTE1BU1ZDMWZkRjZBNC1yNGtLMThCZlZLM3F5VzhMVUxBODhiOGRsa3B2UXpsdw?oc=5)
 
@@ -78,27 +102,19 @@ permalink: /news/zonisamide/
 
 ---
 
+### [El entrenamiento de alta intensidad puede afectar el ritmo cardíaco y la función del corazón en deportistas mayores de 35 años](https://news.google.com/rss/articles/CBMihwJBVV95cUxOMU5PYlhkNUNSZENOaUtFUGJWV1YxNXBaU0FNWVJ4bzg2bTZUZHFJVnlzaUxpUmgwSE4tRWltc1lEa1hVMGxEeHU3LTVtU1VLM2NCQzI4bE8wQWhvemc4WHk2akZ6YjJ6ZXlLVFNicW9UazY5aE1zd0s0YlBITlVvMC1xbm9pSVp1S3kxXy13RlpGeFdnZ0pObnpmNDYxQktEOGVMb2dMYnhyNlpWOXdqNVUtYnZSWC04SUwyMXFSTFNjaXA5Ni1CTTAwcm80cHMzRU5UWi1naXlKQUtyZEl6WFdmNXVmcXpiMjRLREYtV2hlYjFZdmJUaG5US2dmeWlvdENJY2RFZ9IBogJBVV95cUxNT0stOG9rQVVBSnlrVU14VUFnbS1WU3ptRXNXMTFCcW1vZzloUVlsNmxXR3V2VHhWbmEzV0hPZXkyanhDYUlwSGVjbXR2UV9qSERnLXlFZVdkeVAweUNFN0dNaFFNYi12LUVjR3BpMUswVEZWSmdTWmFPQ1lhMVdWOEhFSTZWMUVLQ0dvTnNHa25WbDc0c1d4YkM5b2NZMm9ma1JkYjA5cGNuNzNsQnFqSDB6Q05HSFFjZnNaMDBBR1NQVWJDdlZYUzJWOHRDanA0YmdUMVFJaVQ4LVlrSk80SHVSVTB1emQwSnNuZG1BalJXTmFoVVgyeHhQcWFFdldPSENsWEZsRk42UWJrX0RIN09MUFBvdElvenFlSkJvQ3JPZw?oc=5)
+
+2026-05-29 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMihwJBVV95cUxOMU5PYlhkNUNSZENOaUtFUGJWV1YxNXBaU0FNWVJ4bzg2bTZUZHFJVnlzaUxpUmgwSE4tRWltc1lEa1hVMGxEeHU3LTVtU1VLM2NCQzI4bE8wQWhvemc4WHk2akZ6YjJ6ZXlLVFNicW9UazY5aE1zd0s0YlBITlVvMC1xbm9pSVp1S3kxXy13RlpGeFdnZ0pObnpmNDYxQktEOGVMb2dMYnhyNlpWOXdqNVUtYnZSWC04SUwyMXFSTFNjaXA5Ni1CTTAwcm80cHMzRU5UWi1naXlKQUtyZEl6WFdmNXVmcXpiMjRLREYtV2hlYjFZdmJUaG5US2dmeWlvdENJY2RFZ9IBogJBVV95cUxNT0stOG9rQVVBSnlrVU14VUFnbS1WU3ptRXNXMTFCcW1vZzloUVlsNmxXR3V2VHhWbmEzV0hPZXkyanhDYUlwSGVjbXR2UV9qSERnLXlFZVdkeVAweUNFN0dNaFFNYi12LUVjR3BpMUswVEZWSmdTWmFPQ1lhMVdWOEhFSTZWMUVLQ0dvTnNHa25WbDc0c1d4YkM5b2NZMm9ma1JkYjA5cGNuNzNsQnFqSDB6Q05HSFFjZnNaMDBBR1NQVWJDdlZYUzJWOHRDanA0YmdUMVFJaVQ4LVlrSk80SHVSVTB1emQwSnNuZG1BalJXTmFoVVgyeHhQcWFFdldPSENsWEZsRk42UWJrX0RIN09MUFBvdElvenFlSkJvQ3JPZw?oc=5)
+
+---
+
 ### [Face à la circulation d'Ebola en Afrique centrale, l'Italie réclame que l'UE renforce la surveillance de ses frontières](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVHJGOExvckQxcmVhTG95eTZUNTJjdUtjOEY2VzBZal9LYkF5bk1lSllPQzFyTm5mdVdGaXd6SzRtbnJJYkU3NDd6N1BpaTVmX1A1Z1hCLWRLQUFkdVVpSEotSnhpXzFPX1NGRkhoMlFsS0t3WUZ2VDByb0pfTDQ1U3NSLXRhWFBEOWFNZjJvTWR3d3k2Q2x1ejRlblNfNVRPZHZ2NndpalB4OFJ5ZDJtV2g2VFIwR2JCcFd6dWtoN0tuV0ZSWWxmUDNSM29lX2tMTXlQM001TkdNLVRlWkRlM01BWVRCTFI4ZDBpQ29CZVUzMFlJNU1fYjFBRElEOTcwN0RKNmtBdGI?oc=5)
 
 2026-05-29 <span class="news-indication-tag">AF</span>
 
 來源：[franceinfo](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVHJGOExvckQxcmVhTG95eTZUNTJjdUtjOEY2VzBZal9LYkF5bk1lSllPQzFyTm5mdVdGaXd6SzRtbnJJYkU3NDd6N1BpaTVmX1A1Z1hCLWRLQUFkdVVpSEotSnhpXzFPX1NGRkhoMlFsS0t3WUZ2VDByb0pfTDQ1U3NSLXRhWFBEOWFNZjJvTWR3d3k2Q2x1ejRlblNfNVRPZHZ2NndpalB4OFJ5ZDJtV2g2VFIwR2JCcFd6dWtoN0tuV0ZSWWxmUDNSM29lX2tMTXlQM001TkdNLVRlWkRlM01BWVRCTFI4ZDBpQ29CZVUzMFlJNU1fYjFBRElEOTcwN0RKNmtBdGI?oc=5)
-
----
-
-### [Ebola, Meloni alla Ue: massima attenzione, rafforzare la vigilanza alle frontiere](https://news.google.com/rss/articles/CBMizgFBVV95cUxQSjN1aFg1MXg4cTFxdGUzQlB6WTZ6MFNrR09JTnpUVnZqRGNxYXE1cXJnYmlnNWlsU295OXVXZlY1eVVFLUtFVnM4Q1BMUXZOb1VtREo1c2Z6RWlqcFdLTGVJNERDV3BHdXRKdUM1X2RqZG1UbWJEOXl4a3NvbkFadHpRQkNQYVYzZDBBaTJZT0NnYmtXeFFtS2dtY05ZbVhkbUh5SG40U1N5d1dIT2hxTjZZTVhxcEhmX2VnT3dtcDZGOWlWQ2FnZG1DX3Z3QQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ItaliaOggi](https://news.google.com/rss/articles/CBMizgFBVV95cUxQSjN1aFg1MXg4cTFxdGUzQlB6WTZ6MFNrR09JTnpUVnZqRGNxYXE1cXJnYmlnNWlsU295OXVXZlY1eVVFLUtFVnM4Q1BMUXZOb1VtREo1c2Z6RWlqcFdLTGVJNERDV3BHdXRKdUM1X2RqZG1UbWJEOXl4a3NvbkFadHpRQkNQYVYzZDBBaTJZT0NnYmtXeFFtS2dtY05ZbVhkbUh5SG40U1N5d1dIT2hxTjZZTVhxcEhmX2VnT3dtcDZGOWlWQ2FnZG1DX3Z3QQ?oc=5)
-
----
-
-### [Almudena Nuño, dermatóloga: “Si aparentamos ser más jóvenes suele reflejar que estamos mejor por dentro”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSnNBSjNvbEdvaUZBcWZ5cGxWTHlYVm9VOVVpM05hdkcxUzRDc0swMWJXdEh6Z3VoV0dxbXJEa0NfUGlLbzlzbDZzekF1YWFMcS1Da1kyNm1jRHQyWUZPUWVwZkNkaDVXN2cyaFR3VG40QUo0MmtYWXBVRjN2akVTOXVOZmhlaXoteHNGZmdVVW5XLU9SZXA3dnZkSXphdGYtcWs4M0YteDZUaUl3S2h3c1JGM0J5eVliRXZGajVfbjVVOXUzWFpyaWVnMUJ6cXYzT1VZcFpEU3ExMUVRT1laSnlrZFNHbnVsZHJV0gHwAUFVX3lxTE1JREgyV2VGY1VnWk5BT1B4d0l4cUc4LXVGTkUzTlk1R3VQT3hObmtVZHFCcW80M2k4ejN4RTNEOEk5OHRLOERXVE1lcUtYaVlud2NITEkyR0Rhc3gyNjZXQUd6MF9fSHNyX2tHOGFCS0UwTzlyU2JyNWxWTzRXajBiWUhHckJzZG9GVk9oMWlpWXdCM1M4dkt5ODlPSzlfUkFIUF83TXRYNzRGRG5La3JMa0xHTDQwS2NCVXlINWQyX2dYVWFMZW9jQUlhZ01jMlhMY3FEdjhxNXZCSGY1QVg3a1hpOWpFckp6QTNXYzM2Mw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">AF</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSnNBSjNvbEdvaUZBcWZ5cGxWTHlYVm9VOVVpM05hdkcxUzRDc0swMWJXdEh6Z3VoV0dxbXJEa0NfUGlLbzlzbDZzekF1YWFMcS1Da1kyNm1jRHQyWUZPUWVwZkNkaDVXN2cyaFR3VG40QUo0MmtYWXBVRjN2akVTOXVOZmhlaXoteHNGZmdVVW5XLU9SZXA3dnZkSXphdGYtcWs4M0YteDZUaUl3S2h3c1JGM0J5eVliRXZGajVfbjVVOXUzWFpyaWVnMUJ6cXYzT1VZcFpEU3ExMUVRT1laSnlrZFNHbnVsZHJV0gHwAUFVX3lxTE1JREgyV2VGY1VnWk5BT1B4d0l4cUc4LXVGTkUzTlk1R3VQT3hObmtVZHFCcW80M2k4ejN4RTNEOEk5OHRLOERXVE1lcUtYaVlud2NITEkyR0Rhc3gyNjZXQUd6MF9fSHNyX2tHOGFCS0UwTzlyU2JyNWxWTzRXajBiWUhHckJzZG9GVk9oMWlpWXdCM1M4dkt5ODlPSzlfUkFIUF83TXRYNzRGRG5La3JMa0xHTDQwS2NCVXlINWQyX2dYVWFMZW9jQUlhZ01jMlhMY3FEdjhxNXZCSGY1QVg3a1hpOWpFckp6QTNXYzM2Mw?oc=5)
 
 ---
 
@@ -110,11 +126,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Pflanzen bremsen ihr Immunsystem, um Virusinfektionen zu überleben - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Zakp2V0kySUp1WUdTbV93LXctNGhTN3A5cDUzdWFabFdkMExkaFc1akVaS0VfdkZFWHZuMzJ1ODRud0tQcDFEZ3J2QQ?oc=5)
+### [Pflanzen bremsen ihr Immunsystem, um Virusinfektionen zu überleben - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjFER2NpQkVJaFpxb2dwVG1obExQUURTNkhxSEdCMHJJRDM0dmhXV21lc0FzU2k1UWR5QUZ1X3hhTDlCaHM3aVJldGdPRzFpZ093Vlhob0ROVTVwUS05Z0V1RlhkQ3VRbjhlQ0NRREJOY2hkdGN0Sm1rZnUyV1ZLRHA0ZWdrb0tQamVTZnRoUFRURVg1bnlOLS1tNmdCelNobjRzTWhEV2RVRm44eGJhQmJ3NENBdTdubkh4VExpZjZPQQ?oc=5)
 
 2026-05-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Zakp2V0kySUp1WUdTbV93LXctNGhTN3A5cDUzdWFabFdkMExkaFc1akVaS0VfdkZFWHZuMzJ1ODRud0tQcDFEZ3J2QQ?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjFER2NpQkVJaFpxb2dwVG1obExQUURTNkhxSEdCMHJJRDM0dmhXV21lc0FzU2k1UWR5QUZ1X3hhTDlCaHM3aVJldGdPRzFpZ093Vlhob0ROVTVwUS05Z0V1RlhkQ3VRbjhlQ0NRREJOY2hkdGN0Sm1rZnUyV1ZLRHA0ZWdrb0tQamVTZnRoUFRURVg1bnlOLS1tNmdCelNobjRzTWhEV2RVRm44eGJhQmJ3NENBdTdubkh4VExpZjZPQQ?oc=5)
 
 ---
 
@@ -198,11 +214,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Expertenwissen für Menschen mit Multipler Sklerose im ländlichen Raum - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VTctY2tkNUdDTk9ZSktlb1VPQXB0NGNhRmpCTlFyYnZqNWRnTmgyVWs0NW9xU3lnaTJ5MDlPc29ZNlVFaUswTkw0OA?oc=5)
+### [Pharmacist issues antidepressant 'hydrate' alert for anyone taking them - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3ZmSFlLclFlS0liaTEySm5BTHhEaFJMZ2xXSURSNUdGbE5ySUxWSGoxcHlucEtpTzJkOXY0TkExSzJhX1NCcUZERWktRlZhQjdITzUwYXVzWkh3Y2o2NFltN1dDandQMHJqaVV0QVdrWk05N0pJelJ5NjBzWTJJaElmU0I3a2JvQmkxNEx3?oc=5)
 
-2026-05-28 <span class="news-indication-tag">AF</span>
+2026-05-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VTctY2tkNUdDTk9ZSktlb1VPQXB0NGNhRmpCTlFyYnZqNWRnTmgyVWs0NW9xU3lnaTJ5MDlPc29ZNlVFaUswTkw0OA?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3ZmSFlLclFlS0liaTEySm5BTHhEaFJMZ2xXSURSNUdGbE5ySUxWSGoxcHlucEtpTzJkOXY0TkExSzJhX1NCcUZERWktRlZhQjdITzUwYXVzWkh3Y2o2NFltN1dDandQMHJqaVV0QVdrWk05N0pJelJ5NjBzWTJJaElmU0I3a2JvQmkxNEx3?oc=5)
 
 ---
 
@@ -219,6 +235,14 @@ permalink: /news/zonisamide/
 2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
 來源：[elDiario.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTR0MHlZVmhBaWNxSEl6VUhqM3REREZKaC02RnJpQ0R1MC1kZmVNOF9MemJSM1ZJWDduZ1U1cjlyOGZJbk16SDM3YjRmektRZXlDQjhiRlBsZmlvTnMwU0ZibXg5ZDEzSFo1TlZTa0dsREF1U0VrNnpwTXpMeHBiZTYxaUxleUVITnlWc0xucXp2eDFjczZkZ3gxMVVhVWJaZ3BkN2tSUE1RRDdKUlE?oc=5)
+
+---
+
+### [Sin pastillas y sin cirugía: científicos descubren la forma más sencilla de aliviar el dolor de la artritis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
+
+2026-05-28 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVdEajEydFlyX3RLY3Z6S1hydHI2Zmx3N1pwM1dLZ3J4NEg3NUI0QVZGU1o4elVRQlJhQ2Qta2U5WVBPLUxaT3ZvVUE3ckRWN0RNbjh1azgtbjk1UWI0b0dEU3k2ZG9EVkdyTkVFZGZIWE9ZZE9VOGRoT2ZOX2VncEowT3RYTDRZT25hQjZQOHBZNXBITlhRSnBQZjdLTzNqWW1MVW9GNWdycFpVczllc0N0a1VtQjNoYlJVZHNyVmZEclnSAcgBQVVfeXFMT0NqZUdMNm9wNk9EbG96Z1dsOXpNYWh2M0VJZUhOWnNhdTk1NDZTRlRHa3Z5T2w3OGJ1alJfY0RXRXY5VTdsaFNTdWtTcWE5X2FwTm9yN2lUdzRBT0JINzd5bjVFc21wTDcyc3l2bmFreWk1NzlmaEJUUl92c0p2S3Y1YmsxYmpjTkZjMW9yOEpjT2VaMF9LdEZ3YVE3bGNwVUpLTjgwRWFvaGVnbUFNUlRPZ3dfTlZRTnloZjlLZUxJS1hJcWcwM3k?oc=5)
 
 ---
 
@@ -246,14 +270,6 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Face à Ebola, la Thaïlande impose une restriction inédite à ses frontières - Toute la Thaïlande](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDYtOVRmSW04ZkJ0NjhiWWFmZUFWenJBc3NWV3RXeFJobW5oSTVoNG9vV1FKY3BTMkZxTlRWSWQ1NE12NmtwdTdSQnl0N3Z0cEVpVzIxSkVQcG1KcHhjcFZEZW8xSG1pYzh4X0xTSWlORjM2a0JFeXRQSm1hUlJJdlBrYjlUcVdudzUzVmVhMWNqcUJGdE54M1ZJSkdGaVNpRUpjRg?oc=5)
-
-2026-05-28 <span class="news-indication-tag">AF</span>
-
-來源：[Toute la Thaïlande](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDYtOVRmSW04ZkJ0NjhiWWFmZUFWenJBc3NWV3RXeFJobW5oSTVoNG9vV1FKY3BTMkZxTlRWSWQ1NE12NmtwdTdSQnl0N3Z0cEVpVzIxSkVQcG1KcHhjcFZEZW8xSG1pYzh4X0xTSWlORjM2a0JFeXRQSm1hUlJJdlBrYjlUcVdudzUzVmVhMWNqcUJGdE54M1ZJSkdGaVNpRUpjRg?oc=5)
-
----
-
 ### [HIV breakthrough removes need for daily pill - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2o1ZDBxUWkwalh4ZzJIbUlrNTdneVUwelNTNUh4RzNIUWNmOFRJLWhGLVBLRWdJaVhRbk9GRFZBU1VLQ2E0em1jSHdOS2lGd0hrak9xcWt5cXhvbzVpdk1BX2VweExSNl9nZUNxc19Eb1BGS1hmazdSRlh5U0ZpWmhhRDdkakRFanNHYVUyVHBZWTJaVUtHSGFaaGF0TUhxamZ4SUU3VQ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">AF</span>
@@ -262,51 +278,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [‘I thought I was getting a healthy glow... it nearly cost me my life’: NI woman’s sunbed warning after skin cancer diagnosis - Belfast Telegraph](https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ3A5clFFZFVRb3VfOGNyVVhqLVZEVS1Nb01BRTVqMThRQmNHMlU1aTdsLWQtbDFaVEx6WXA3YmRneHdQNWprUkZieGNLMU05eHJPbGpBc0pCZ2o3dlJ5UHJjdVFrbDVmU0VEMHNCd2pRUXNEOXlvX3NEdGJJV2lyWGpsWENrYS1paEZuVUNER0JaZkR4dGEtTURhbzFaZjdyUWlvT2N0WFRBS05RNUNNaDhfbkhLSmsteVlGU3JHd3EtSE91R253Y05GMzFPWjRMOUxLNnh4WXNFTmJJUkkzbTM1ZFpfQzdlSElpck9KMmdVZUxFbllVWTFubkxUSmFFdVJVbnhoNXRkQlphbUF5TGUwRnBUa2JCOFZrN19XWXhhcENzcWgyMnBvMzlGUQ?oc=5)
+### [Geruchssinn als Frühsignal: Was nachlassender Riechvermögen über Alterung verrät - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzFMSzJ2VmxadmpPbjlwTmxXUDRsLUl6U0tCTUFBN3g3Nm1NQnJfSklIaUUxLVR2RWMzMVhWUmRHSTNrTEx5UHpZRWU2SnIxNUJjdVVReUxCcGd0V21ob3JlT2hHbGlDN1ZLVElDck84RkpWclQtY3Bvd0ljbXc4VHJnbExQTldhVXFDZmpuSzBxVTZFNWdIVkt3MV96UkxPZ1JpcjdieTNFMHRhdDJRRGdYZzdtZw?oc=5)
 
-2026-05-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-05-28 <span class="news-indication-tag">AF</span>
 
-來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ3A5clFFZFVRb3VfOGNyVVhqLVZEVS1Nb01BRTVqMThRQmNHMlU1aTdsLWQtbDFaVEx6WXA3YmRneHdQNWprUkZieGNLMU05eHJPbGpBc0pCZ2o3dlJ5UHJjdVFrbDVmU0VEMHNCd2pRUXNEOXlvX3NEdGJJV2lyWGpsWENrYS1paEZuVUNER0JaZkR4dGEtTURhbzFaZjdyUWlvT2N0WFRBS05RNUNNaDhfbkhLSmsteVlGU3JHd3EtSE91R253Y05GMzFPWjRMOUxLNnh4WXNFTmJJUkkzbTM1ZFpfQzdlSElpck9KMmdVZUxFbllVWTFubkxUSmFFdVJVbnhoNXRkQlphbUF5TGUwRnBUa2JCOFZrN19XWXhhcENzcWgyMnBvMzlGUQ?oc=5)
-
----
-
-### [Why caffeine can sabotage deep sleep even when you still get eight hours - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1Jd2JIblBqMmJsaWF3blluU1RfUE8wMU5VLU9uLTlDeGxCSlR1YjVIUVB4TF9xVjJzV25DYWVsdFZTRlBjRzAzUE9HYkJha0xYbGpDUmMtbV80UjhQNDM1SHVKR2ZpYWgyLTF2N2RNWXBiRmNtb00zV0ROX1o?oc=5)
-
-2026-05-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1Jd2JIblBqMmJsaWF3blluU1RfUE8wMU5VLU9uLTlDeGxCSlR1YjVIUVB4TF9xVjJzV25DYWVsdFZTRlBjRzAzUE9HYkJha0xYbGpDUmMtbV80UjhQNDM1SHVKR2ZpYWgyLTF2N2RNWXBiRmNtb00zV0ROX1o?oc=5)
-
----
-
-### [Neue Bildgebungsmethode macht Parkinson-Prozesse erstmals im lebenden Gehirn sichtbar - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zUU8wZlFYZzFfR1AzWlkxNU4yTlFMcWU3NG5paWpqaWlNTkwtS1l1YzJtLVRPYkRTSmdIWU5hLV82VG4xdk9PaFlqYw?oc=5)
-
-2026-05-27 <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zUU8wZlFYZzFfR1AzWlkxNU4yTlFMcWU3NG5paWpqaWlNTkwtS1l1YzJtLVRPYkRTSmdIWU5hLV82VG4xdk9PaFlqYw?oc=5)
-
----
-
-### [Más envejecimiento, más trastornos neurológicos y mayor malestar: así está la salud cerebral en España](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ3I4RER5akZPVHNMZm5KS3R3T0ZZckJ4ZW1NZHZrQ0pSRTNhNXEwbm5SNnVqeTZkZEp1TWJKWTZIMDRGamNsTjVVZW9ZWTZkNE03VThjMXlTTWZfeGQ0MHJfSzRZdDRGOWJvX3FONGFIVzZBYmdtZUY2aXEwemVDZ2l4UVFaYjc1WlBMaW5Cb0FSeDRnN0hDclNCcHNhNjhtdjJaQ19hSnJtWXRMV044UEhJdDRCaWpOQmZVQ0dzYndTNUl0Z18yMGt1eG4xSm9VYUtQeVBuOTNfdDd2SS1UY25qOS3SAeoBQVVfeXFMT1VPWFlUTHRkeEZaSXBNNTQ0cXdjd0V5SV9nQVNlX3dkN3FUTnRhckE5SHRxdkgzWGRSOHNTUWlCdnBfdTUtZUlKamJNazE2NGtfWWhCX3JHUEJXa2IxSkktdXI2X195M0ZKZ2ZVQUdwaERSTTJUOS1ZLW9xUzVHcU1lM0k2X3IzTnp3MU1qdXR3eTVXSjF5SFdqeDFaVGtpcGhLSTdxZzNuN2FnallJNHB2SEJKdmowSGZic3Utb05NX282b2hoUGhOQ0o0T2RSejN2SWtfdWpwQVR5WFNnUHdQUk8wQkxKUjZ3?oc=5)
-
-2026-05-27 <span class="news-indication-tag">AF</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ3I4RER5akZPVHNMZm5KS3R3T0ZZckJ4ZW1NZHZrQ0pSRTNhNXEwbm5SNnVqeTZkZEp1TWJKWTZIMDRGamNsTjVVZW9ZWTZkNE03VThjMXlTTWZfeGQ0MHJfSzRZdDRGOWJvX3FONGFIVzZBYmdtZUY2aXEwemVDZ2l4UVFaYjc1WlBMaW5Cb0FSeDRnN0hDclNCcHNhNjhtdjJaQ19hSnJtWXRMV044UEhJdDRCaWpOQmZVQ0dzYndTNUl0Z18yMGt1eG4xSm9VYUtQeVBuOTNfdDd2SS1UY25qOS3SAeoBQVVfeXFMT1VPWFlUTHRkeEZaSXBNNTQ0cXdjd0V5SV9nQVNlX3dkN3FUTnRhckE5SHRxdkgzWGRSOHNTUWlCdnBfdTUtZUlKamJNazE2NGtfWWhCX3JHUEJXa2IxSkktdXI2X195M0ZKZ2ZVQUdwaERSTTJUOS1ZLW9xUzVHcU1lM0k2X3IzTnp3MU1qdXR3eTVXSjF5SFdqeDFaVGtpcGhLSTdxZzNuN2FnallJNHB2SEJKdmowSGZic3Utb05NX282b2hoUGhOQ0o0T2RSejN2SWtfdWpwQVR5WFNnUHdQUk8wQkxKUjZ3?oc=5)
-
----
-
-### [Gewichtszunahme während Schwangerschaft begrenzen: Beratung mittels App mäßig hilfreich - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVHJ4aHE0a3hEeWd0VFY4X2M3OEVMUHN3MU9Na3BJWHVELW5xRWdaaG1qYnRDQ3Bob1laNUhOQ0dGdm5HbWtIUmVtajFpWEx3eEl0VThKM1REbXNhVTNLckZxazBJTE5TdzllUzN4ZDZONlA5bDlHeEM2cVFtX01mVTRyd0F2ZGhiM21GeHFva0ZHbEFyTjdqOTFpRzRIdG52TGhfQVdUWnJIcENZbjZIZVhaVndUNi1MT0lQTUZkRWp1TXYwcEptYmZNbnJpU0I0SW5yZlhrLWkxbUdXMS1fY2Uxc2JEZlhHNnNoUFdFTQ?oc=5)
-
-2026-05-27 <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVHJ4aHE0a3hEeWd0VFY4X2M3OEVMUHN3MU9Na3BJWHVELW5xRWdaaG1qYnRDQ3Bob1laNUhOQ0dGdm5HbWtIUmVtajFpWEx3eEl0VThKM1REbXNhVTNLckZxazBJTE5TdzllUzN4ZDZONlA5bDlHeEM2cVFtX01mVTRyd0F2ZGhiM21GeHFva0ZHbEFyTjdqOTFpRzRIdG52TGhfQVdUWnJIcENZbjZIZVhaVndUNi1MT0lQTUZkRWp1TXYwcEptYmZNbnJpU0I0SW5yZlhrLWkxbUdXMS1fY2Uxc2JEZlhHNnNoUFdFTQ?oc=5)
-
----
-
-### [Alzheimer: Epilepsie-Mittel Levetiracetam zeigt vielversprechende Erfolge - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
-
-2026-05-27 <span class="news-drug-tag">Levetiracetam</span> <span class="news-indication-tag">Epilepsie</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2RIQU81QkRLUUR4SWdyd3Z2WWdrZnE3UE5oelpad0FmaHdGUGxyQUpJYzl5aTlhT214aHFrWGNDOElJS0ExQ2tTM0dCYWM4X2Z2ZVNsM2xQRWJnUkxYVUQ1R2ktTTFsNUNETWJyTFlneS1EWG9Vb09FamNVMTQyN1MtOXRIUlVuYldpbFRVYmlVMG8zcWtQakhSUWJSdVpfY0lHUVpQdDY4bW5WZmpPN25HeFhLamNZQl83cXJn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzFMSzJ2VmxadmpPbjlwTmxXUDRsLUl6U0tCTUFBN3g3Nm1NQnJfSklIaUUxLVR2RWMzMVhWUmRHSTNrTEx5UHpZRWU2SnIxNUJjdVVReUxCcGd0V21ob3JlT2hHbGlDN1ZLVElDck84RkpWclQtY3Bvd0ljbXc4VHJnbExQTldhVXFDZmpuSzBxVTZFNWdIVkt3MV96UkxPZ1JpcjdieTNFMHRhdDJRRGdYZzdtZw?oc=5)
 
 ---
 
