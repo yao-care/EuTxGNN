@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
-
----
-
-### [Parkinson: Forscher schlagen Alarm - Schlechte Mundhygiene könnte geistigen Abbau beschleunigen](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRUNoN3hVRWo1aE5hcWZIR0JKSlhqRktabS1pNnpvelpoOV9NNndlUzFfZW5FZzlmcmY4Y1pJX0JQdTY5UFMzYnE2SDZRQWZBR1diRGxOeThaaDQ2ZjhtX2xGOC1wMk9IUm1kbFFyTmUwOWI3RmV6dThMZ2lQYUlKcmR6dzdoX0pKQ1VmU0RBZnE1LVFhcWxRcnJLcVRkX2pUVy1VdmoxQ054WHgtYWRoMkZvMXJsMHlVN0h1UmV1QlpOLURlSlN6RmVDRWt1d3NXQ1ZDZzFQVFlLeUU3UHp3MEIzM21sc3BsaUVJTnJoaw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRUNoN3hVRWo1aE5hcWZIR0JKSlhqRktabS1pNnpvelpoOV9NNndlUzFfZW5FZzlmcmY4Y1pJX0JQdTY5UFMzYnE2SDZRQWZBR1diRGxOeThaaDQ2ZjhtX2xGOC1wMk9IUm1kbFFyTmUwOWI3RmV6dThMZ2lQYUlKcmR6dzdoX0pKQ1VmU0RBZnE1LVFhcWxRcnJLcVRkX2pUVy1VdmoxQ054WHgtYWRoMkZvMXJsMHlVN0h1UmV1QlpOLURlSlN6RmVDRWt1d3NXQ1ZDZzFQVFlLeUU3UHp3MEIzM21sc3BsaUVJTnJoaw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 ---
 
@@ -78,6 +70,14 @@ permalink: /news/vedolizumab/
 
 ---
 
+### [Glycémie perturbée, hydratation contrariée, instruments de suivi déréglés… Fortes chaleurs et diabète, une combinaison potentiellement risquée - Sud Ouest](https://news.google.com/rss/articles/CBMirgJBVV95cUxQaEh3T3BqYl96NVpyLWxoaXYyWVhlNGtNa0Y5bEtERWVJVkdibFhwaTg4U1lENnBJbC04VXMya09GLWl3bEc0Z3A5LXlvMUFOcU1IMGNqQXFrVFlzNWx2bWU2X2o2OXJGeXY4ekdMSElNeUZfcW9kR2g4Ukk1NUdRX2NueEhXSUtkQUJJcWk0bEdvVjZIYnhGS1pDNndtU1o2c25WV1Zud1h3VGRRbWI0cG9LWE1iY2hETks3N2lqY0VzR0JYLTF2dl9VYnNhZHJJcG92OTVZUUk3OXhPYTUwUDVtamVlcG5mUjQ5eXE0TGtEZ3lrYThHNkVFMmtkblN2YnVGcEV1WmxuT0NrbDJKX2Z6b3g1R1hvaXZ3NGtXaTlEVWtaVXVYWDVmeUIzQQ?oc=5)
+
+2026-05-29 <span class="news-indication-tag">diabète</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMirgJBVV95cUxQaEh3T3BqYl96NVpyLWxoaXYyWVhlNGtNa0Y5bEtERWVJVkdibFhwaTg4U1lENnBJbC04VXMya09GLWl3bEc0Z3A5LXlvMUFOcU1IMGNqQXFrVFlzNWx2bWU2X2o2OXJGeXY4ekdMSElNeUZfcW9kR2g4Ukk1NUdRX2NueEhXSUtkQUJJcWk0bEdvVjZIYnhGS1pDNndtU1o2c25WV1Zud1h3VGRRbWI0cG9LWE1iY2hETks3N2lqY0VzR0JYLTF2dl9VYnNhZHJJcG92OTVZUUk3OXhPYTUwUDVtamVlcG5mUjQ5eXE0TGtEZ3lrYThHNkVFMmtkblN2YnVGcEV1WmxuT0NrbDJKX2Z6b3g1R1hvaXZ3NGtXaTlEVWtaVXVYWDVmeUIzQQ?oc=5)
+
+---
+
 ### [Type 2 diabetes could be a sign of this deadly cancer and spotting it fast is crucial - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
 
 2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
@@ -86,27 +86,11 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Las Sociedades Españolas de Neumología y Cirugía Torácica y de Cardiología promueven la implantación de unidades cardiopulmonares para una atención más coordinada de los pacientes con EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
+### [Expertos promueven las unidades cardiopulmonares para los pacientes con EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFUwWkg4ZGNXRDJ4ZXFpWDhHaFA3SThaUjRoSThjYmRjeDlPRGVHUGR6Y3VNSzVFNTh4LU5rZ29GVjVkbkJ4R3h0cUM0X2tmMHlTbmw5NUF0S1JXYWd5R3V2TmtIWkx2c29KUzY1T0t4LUdpNU9IVTkxT01PMG9tWEZ3SzhRQVRWYmRHUURWWkxqZWdsRktTOEN0aThFQjdpNncwNUs0S1JfRjBFelI1M00wZWZRSTlDck02SXdXWUtESmtWTzlEZg?oc=5)
 
 2026-05-28 <span class="news-indication-tag">EPOC</span>
 
-來源：[astrazeneca.es](https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeTFXLVI5TWJPV2RBS1dpbVV2ekk5TFpxVWFpWDZkX0N4ZlVWWktPVjNHb0ZaQXFkZmc1T1dNeFpIbHNlVHFKWUFOWkRuM2RsXzlmSlF2Y2ZHdFhxM241dXptTnIxZVR4YjI5dk5DaEdQTEp5Y2R5anRQMlRQRnBoN3Rhd2lCamZwQk5rbzdvbk83Q0RFM216Z0hTMFlmQ2tlVUJVSkwtX210WGc2SXBpVkExdGJ6WlhFcDB3UDB6WWJGTklmRGJ1UVhxRGRneUF5MC1rUWFoV0JPRnVPT1UxbUxwQXBpOWtVRHpsNV9HRURXcXZfRWxBZW9rRmFScGR4ZVU2d2NIQTdBTGtSX29xbnFSRy1jMm84TFppYTlUS242bDdsMzdBcFB5Z19MSUQ3WmhDNlhXR0dPakNMeTVVZ0VUTnhIMlFZaGxCYmRTamdTOEhoRlg2azBHYjdPWmh5anZab0c3cDhXQVJ2eXBwQ0NmMTc3dFhhcWtWUQ?oc=5)
-
----
-
-### [Type 2 diabetes rising rapidly in young women - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
-
-2026-05-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDlOMTlSdkxXQXFWanRCSngxR3ViZFF0clFwMlFONThIVXlqMmRLcG45ZmJlQk9vMlBRODlIaldsZ2Y0cXdZMVl0X0k0WDlZU3lFUkI4dVNnSlJJWUlEQWRranU1VEN2Z2pCTDhMUDJ0S3lHR2hGM3lzV3RFQkxIMmhBNWxkTFk?oc=5)
-
----
-
-### [Thousands could unknowingly have diabetes as cases rise faster than predicted](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
-
-2026-05-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83d29QNW91OUwwVndqM3p4bnpmOTdVZU1NRG55OURmbl8yT3EtQ2N2MEd0eXFqdXd0RGR4OGJzYXBFX3o4cXBmQ0ZTMUlBZFpRbGJhUFJxU0JzVi16?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFUwWkg4ZGNXRDJ4ZXFpWDhHaFA3SThaUjRoSThjYmRjeDlPRGVHUGR6Y3VNSzVFNTh4LU5rZ29GVjVkbkJ4R3h0cUM0X2tmMHlTbmw5NUF0S1JXYWd5R3V2TmtIWkx2c29KUzY1T0t4LUdpNU9IVTkxT01PMG9tWEZ3SzhRQVRWYmRHUURWWkxqZWdsRktTOEN0aThFQjdpNncwNUs0S1JfRjBFelI1M00wZWZRSTlDck02SXdXWUtESmtWTzlEZg?oc=5)
 
 ---
 

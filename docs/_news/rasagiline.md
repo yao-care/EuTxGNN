@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Eight foods you should eat regularly to help lower your dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGh4bUQ5OUhWZmcxN3hrTld0Z1YxaUN5NTRRcU5MQ185N2dEdGFzbjdDSWlISnA3NDhBX0QwekZtbGM5amZLbGJNZ19ud3l5WjdFUEFkNElUbTROX1ZxQlAxcmdjYkNfODlnS1Z6b19WWUxvSE5jREhpX3hPX2tFd2o0Y21Ob2ZybnMxc3ZBMGZybk80cGVvMi12QmdQNkh1aGk5SjRlYw?oc=5)
 
 2026-05-29 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGh4bUQ5OUhWZmcxN3hrTld0Z1YxaUN5NTRRcU5MQ185N2dEdGFzbjdDSWlISnA3NDhBX0QwekZtbGM5amZLbGJNZ19ud3l5WjdFUEFkNElUbTROX1ZxQlAxcmdjYkNfODlnS1Z6b19WWUxvSE5jREhpX3hPX2tFd2o0Y21Ob2ZybnMxc3ZBMGZybk80cGVvMi12QmdQNkh1aGk5SjRlYw?oc=5)
+
+---
+
+### [Blood test could detect signs of Alzheimer’s ‘decades before symptoms’ - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BzeU4tSFo2WVFhbGtJcExmNnZJVWZUNmNSUGVzOUM5RDB5QTNwREVIQmhNdkVDa2RjdDk5dWpPUW1UMzBXOGxBUXNCSVJfSXV0V2M3VVdZcXUzVVViXzUzS3pwOVBaUFpScnV3VmFBaHFUbWstZE9YNDViQ29pcWhJMU1HNzlFSW43b0xfQl9XN18xRXRiTERiZmg1ZjVRTEpSdUVn?oc=5)
+
+2026-05-29 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BzeU4tSFo2WVFhbGtJcExmNnZJVWZUNmNSUGVzOUM5RDB5QTNwREVIQmhNdkVDa2RjdDk5dWpPUW1UMzBXOGxBUXNCSVJfSXV0V2M3VVdZcXUzVVViXzUzS3pwOVBaUFpScnV3VmFBaHFUbWstZE9YNDViQ29pcWhJMU1HNzlFSW43b0xfQl9XN18xRXRiTERiZmg1ZjVRTEpSdUVn?oc=5)
 
 ---
 
