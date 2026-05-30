@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="Abiraterone Acetate 有什麼相關新聞？">
-<strong>Abiraterone Acetate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abiraterone Acetate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abiraterone-acetate/
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### ['Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
+
+2026-05-29 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
+
+---
 
 ### [Las palabras importan: la SEN publica una guía para comunicar mejor sobre la migraña](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/abiraterone-acetate/
 
 ---
 
-### [Disease Interception bei Psoriasis-Arthritis: Biologika senken Übergänge - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+### [Herzinfarkt-Prävention: 99% hätten Risiken erkennen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPemhIU1VVWDV4bjhWZ2tHMS1uWEFaM3FhTXNwSERwS21KNFl4MFdNYXhjYnBLTVlXWnFfYnphU0ZvaXM5ZHE3ZktiMHVpY0wtNFhidk94VEM2aWtHekhQZ3JyQkJGUm9neXIwSVhlZlhod1ZtekEtQWRhcXVHRXFRNHZFWE91MW5pNVotMFVwS2gxNkM3WGpSUzl3ZmpjVEEwdkwtV0YzbzZzaU80Ml8xbXN5dURWS28?oc=5)
 
-2026-05-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+2026-05-28 <span class="news-indication-tag">heart failure</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPemhIU1VVWDV4bjhWZ2tHMS1uWEFaM3FhTXNwSERwS21KNFl4MFdNYXhjYnBLTVlXWnFfYnphU0ZvaXM5ZHE3ZktiMHVpY0wtNFhidk94VEM2aWtHekhQZ3JyQkJGUm9neXIwSVhlZlhod1ZtekEtQWRhcXVHRXFRNHZFWE91MW5pNVotMFVwS2gxNkM3WGpSUzl3ZmpjVEEwdkwtV0YzbzZzaU80Ml8xbXN5dURWS28?oc=5)
 
 ---
 
@@ -83,22 +91,6 @@ permalink: /news/abiraterone-acetate/
 2026-05-28 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR3A4YmtkbWF5dHQxTnotaTZlSm9TUmY0cGQ0dkN1U1pGX0xfa1dZVUFsRTBLS0taLVpMTmhxRlNnOEhUdW1vN2lNblRlS3BmU09Lajd1RlBNc0puWkJJ?oc=5)
-
----
-
-### [Precautionary recall of blood pressure medication (Crescent Pharma Limited Ramipril 2.5mg capsules) after packaging error](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNelBmTURseTdNTnNweEhBODVYanNyMzNkLWpvd2VLQnBzbmZsdmNsNXdYUE03Q0xhOXBPUVhKMTgxZ2xud3JUdzZ4UUY4M2xlSzhRc1Q2cGVHUUZRRVZtOEhid0JZd0J3bWJUdU9fS0RwZFJVanJCbEc0cHRfeTdmRGhWYXRpbU42WFNESHhiLU9BMmtBNmtIa1p3ZEJVOWx5X0RTVUlfRkpnYVBYekp5TExIdmFJNHpXOEJ5cHoxekpLZjdUX1RoU1pGREpPWXkwWmV1bjNpd1lTTHlqbGpNeTlCSDlDWGd0?oc=5)
-
-2026-05-28 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
-
-來源：[GOV.UK](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNelBmTURseTdNTnNweEhBODVYanNyMzNkLWpvd2VLQnBzbmZsdmNsNXdYUE03Q0xhOXBPUVhKMTgxZ2xud3JUdzZ4UUY4M2xlSzhRc1Q2cGVHUUZRRVZtOEhid0JZd0J3bWJUdU9fS0RwZFJVanJCbEc0cHRfeTdmRGhWYXRpbU42WFNESHhiLU9BMmtBNmtIa1p3ZEJVOWx5X0RTVUlfRkpnYVBYekp5TExIdmFJNHpXOEJ5cHoxekpLZjdUX1RoU1pGREpPWXkwWmV1bjNpd1lTTHlqbGpNeTlCSDlDWGd0?oc=5)
-
----
-
-### [New depression treatment targets the immune system instead of the brain](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSVczcl9SX0Y3anlXVkdMd1NXOVh0TVhOclI5TUd0SVZ0VkF3Y1hyQ0dOY2xuRkpUYkdzV05PSzUtYmtmTmZGNTRJMW42NktHam5md3FOT0hYN01ZLUo1eWhTM0p5MkpmcTlEeFlFSQ?oc=5)
 
 ---
 

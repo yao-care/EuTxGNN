@@ -54,11 +54,11 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（3 則）
 
-### [Demenz-Prävention: 45% aller Fälle durch Lebensstil vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1U0NmZHZ2NWa0Zpa3U2RkczVlJtelNMYW5JZXBUUk9GMVluUVpxbGktdXVMUWlKN1JfcGd0eE95eXY2YTYxaWczY2JIeGNJQlZ6RmRaVVJ3TVltVG1yemdVZmhLMmc3aE5uRG90VEw2aEdaaGNsNTJiOHF1MEdRblp0UURSZHJBSTctN3Rvd1ZnaHVqbVRuMVl1Rkh0a3NvNElSX0xGY1RKUVY1em9ldmZpM0g2M29MaUsw?oc=5)
+### [Demenz: 14 beeinflussbare Faktoren senken das Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFhTN0NNNXgxV2FSeVY0ek9zVzVxVnh1ajAzcFlpbU4tZ3R5dmJXU3pTZjZkLTFlMnpRdFVXM0pXblVhR1dQR3hrQl9zdkQwamxERWFyXzJfREZNN3I4N29fV1pjMTBoZ2F4UFJjeVNIdV9NMlNib3I2X2tZbXN3NzB4M2NGOUp4Vk9maFZPcnYybHl6WTU4SjhQZ3VmVHZBZ21aemFod2dEOVo4M0E3LQ?oc=5)
 
-2026-05-29 <span class="news-indication-tag">Schlaganfall</span>
+2026-05-30 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1U0NmZHZ2NWa0Zpa3U2RkczVlJtelNMYW5JZXBUUk9GMVluUVpxbGktdXVMUWlKN1JfcGd0eE95eXY2YTYxaWczY2JIeGNJQlZ6RmRaVVJ3TVltVG1yemdVZmhLMmc3aE5uRG90VEw2aEdaaGNsNTJiOHF1MEdRblp0UURSZHJBSTctN3Rvd1ZnaHVqbVRuMVl1Rkh0a3NvNElSX0xGY1RKUVY1em9ldmZpM0g2M29MaUsw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFhTN0NNNXgxV2FSeVY0ek9zVzVxVnh1ajAzcFlpbU4tZ3R5dmJXU3pTZjZkLTFlMnpRdFVXM0pXblVhR1dQR3hrQl9zdkQwamxERWFyXzJfREZNN3I4N29fV1pjMTBoZ2F4UFJjeVNIdV9NMlNib3I2X2tZbXN3NzB4M2NGOUp4Vk9maFZPcnYybHl6WTU4SjhQZ3VmVHZBZ21aemFod2dEOVo4M0E3LQ?oc=5)
 
 ---
 

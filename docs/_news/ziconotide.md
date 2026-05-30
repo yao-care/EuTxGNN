@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
 
-### [Why You Gain Weight During Menopause—and What to Do About It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
+### [Why You Gain Weight During Menopause and How to Manage It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
 
 2026-05-30 <span class="news-indication-tag">obesity</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
+
+---
+
+### [Obésité : le remboursement sous condition des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
+
+2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/ziconotide/
 2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
+
+---
+
+### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
+
+2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 ---
 
@@ -102,27 +118,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Expertos defienden tratar la obesidad como una enfermedad crónica que va más allá del peso para frenar el riesgo cardiovascular y la diabetes - Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
-
----
-
 ### [La terapia senolítica reduce la variabilidad del latido cardíaco en modelos de obesidad - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWE1aHdjYWppakhFOEZSRWhCSGY3VjZLVjdpdlJ0bUVtc196V1o3R0RUT0g0eGxMNFA5eWFCOW9CNjQtSmpGLThQUzdaWF9kcVZoQUJuOWVLM09xQzBZNE5pUDMzMWxkbzM4MkJBcUw0UXhHQ2habnd5OXlyR1ZLU3NTQlpuaWd4ZzZTcHkxMDFyUE5ZMEwwVHlyN3kyUkxxUUV5UFdEd0FvOXNpUnRtRVhwSGktZFhrczU3SDB2WdIBugFBVV95cUxNYTNVbXBLWmE2R1JPVDlGZ3FRWG5RUlFMM3YtbXl3a2NLd3NnZ21xTjNPZFU0OEppRjJlN0tqa0VBMWNrWDhLODllaWR5Vk5QUThWOF9OQkx5ZzdtenFnS3p6NE5JMEhjaXMya1UtUlpONDFCMk5oOERuMzFSTmYxLUNXM3pwX3VnRGo0b1BieFZkdnR1YmtRVUhFN1dCRjFQZEdEX2p3YzJ3Ti1rSlFzbG5vajNqQkIyWXc?oc=5)
 
 2026-05-29 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWE1aHdjYWppakhFOEZSRWhCSGY3VjZLVjdpdlJ0bUVtc196V1o3R0RUT0g0eGxMNFA5eWFCOW9CNjQtSmpGLThQUzdaWF9kcVZoQUJuOWVLM09xQzBZNE5pUDMzMWxkbzM4MkJBcUw0UXhHQ2habnd5OXlyR1ZLU3NTQlpuaWd4ZzZTcHkxMDFyUE5ZMEwwVHlyN3kyUkxxUUV5UFdEd0FvOXNpUnRtRVhwSGktZFhrczU3SDB2WdIBugFBVV95cUxNYTNVbXBLWmE2R1JPVDlGZ3FRWG5RUlFMM3YtbXl3a2NLd3NnZ21xTjNPZFU0OEppRjJlN0tqa0VBMWNrWDhLODllaWR5Vk5QUThWOF9OQkx5ZzdtenFnS3p6NE5JMEhjaXMya1UtUlpONDFCMk5oOERuMzFSTmYxLUNXM3pwX3VnRGo0b1BieFZkdnR1YmtRVUhFN1dCRjFQZEdEX2p3YzJ3Ti1rSlFzbG5vajNqQkIyWXc?oc=5)
-
----
-
-### [Obésité : le remboursement sous conditions des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
 
 ---
 
@@ -144,17 +144,9 @@ permalink: /news/ziconotide/
 
 ### [Cómo funcionan los nuevos fármacos para la obesidad - Marbella Chic](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFA5MXRLQzRVM1dFa053VjQzcWtSN0cxWGRmSlZxSGN6ejM0bFVnM2N0dWtKRlNpSFlfdDZIQXB2MEpTOUdvSlYwSmdnT1hJazB0b3NsZEFtS2V3MzRoREVCaGliT3paWWZnXzdEZkphVEprcWVlQUQ3V1pCd2JaSDlDWEx0OF9KNTFYdEdUWk9aTXZzcGlwNQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Marbella Chic](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFA5MXRLQzRVM1dFa053VjQzcWtSN0cxWGRmSlZxSGN6ejM0bFVnM2N0dWtKRlNpSFlfdDZIQXB2MEpTOUdvSlYwSmdnT1hJazB0b3NsZEFtS2V3MzRoREVCaGliT3paWWZnXzdEZkphVEprcWVlQUQ3V1pCd2JaSDlDWEx0OF9KNTFYdEdUWk9aTXZzcGlwNQ?oc=5)
-
----
-
-### [La obesidad y el sobrepeso infantil repuntaron tras la covid-19](https://news.google.com/rss/articles/CBMicEFVX3lxTE42SFJhakR5Y2Q3UkZhRVBhZzhpV1dtM1VYU2JlR3VEQllRZlBZWlM1WFJ5RXMzaU9UZDJaaG94cEc0cU5ORzlPZ3J3YkJEbERmSXlockdWTGFpZGFMUm8taHo1MFM4WFVRaUowNFpaUzDSAXZBVV95cUxPTFVfUXV3YS13QzRuYXlKSko5TmpETUVKNWo4ZUhBeXdQR2VmZUpZdVlmblJzeFFCY1U5MU8xVzFtMXpMWmlWRWZqRUZWNEtid1hlOU5TYXVPQi1NRWVXWFQ0bVBtM1dGa05YN0lNd2RwUDlnbnZ3?oc=5)
-
-2026-05-28 <span class="news-indication-tag">obesidad</span>
-
-來源：[aragonhoy.es](https://news.google.com/rss/articles/CBMicEFVX3lxTE42SFJhakR5Y2Q3UkZhRVBhZzhpV1dtM1VYU2JlR3VEQllRZlBZWlM1WFJ5RXMzaU9UZDJaaG94cEc0cU5ORzlPZ3J3YkJEbERmSXlockdWTGFpZGFMUm8taHo1MFM4WFVRaUowNFpaUzDSAXZBVV95cUxPTFVfUXV3YS13QzRuYXlKSko5TmpETUVKNWo4ZUhBeXdQR2VmZUpZdVlmblJzeFFCY1U5MU8xVzFtMXpMWmlWRWZqRUZWNEtid1hlOU5TYXVPQi1NRWVXWFQ0bVBtM1dGa05YN0lNd2RwUDlnbnZ3?oc=5)
 
 ---
 

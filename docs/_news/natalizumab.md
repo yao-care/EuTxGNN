@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（99.2%）</li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -62,19 +62,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Expertos defienden tratar la obesidad como una enfermedad crónica que va más allá del peso para frenar el riesgo cardiovascular y la diabetes - Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
+### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Colegio Oficial de Farmacéuticos de Madrid](https://news.google.com/rss/articles/CBMihAJBVV95cUxPa3JyRXM1WXVMUGtVYkJicWg1LXlham5KcllESEVZSVgyeGN3MlE0OEgzbENuSFA0eXNkTXR2eUt6b0JBS3ZZTHFxdXVkX0hUOWhKMk9UbEtJTUhvelJqSFRtUW1WY3lsU0c3QlllQklSLW9mNTlmbDlPSzY4ZERsZl9rUEF3RTBiOElzMmo3WVR4QS1ya0VzVUNjU0tubHV4Yk1tdk54Q3F1aWwxbkQ4bDBRbUQtRkMzNkE0NWNpWi0zTGR0RmxfQnVBWGZBbE9RVlg2cGNKWEdZdXdIU2RDbXRPdkM2UU13RXhxeG0yYnRBMDJTWEhGRzRESWZ6MDdBYzdkQg?oc=5)
-
----
-
-### [Disease Interception bei Psoriasis-Arthritis: Biologika senken Übergänge - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
-
-2026-05-29 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtHYmc0ZlJSZEV3c1N6a2dRakZObGEtUkpEX0NDSUZpTmkycW84bEh3YXhNamtnNnRfcUE1SGVTYm15T2M2Q1JvT3ZXZ0xTanVQdkpQS2NVZW1jQ3ZjQTA5RHNEck45dHpYT0pDbEV0amU2V0FXU1M1ZWp5eTh2OXRIclEyVEgwdzlYMmR4dW9NZUstOF9jaVd0bk9ENWFKWnpMNVJMWTU?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 ---
 
@@ -94,11 +86,19 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Expertos promueven las unidades cardiopulmonares para los pacientes con EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFUwWkg4ZGNXRDJ4ZXFpWDhHaFA3SThaUjRoSThjYmRjeDlPRGVHUGR6Y3VNSzVFNTh4LU5rZ29GVjVkbkJ4R3h0cUM0X2tmMHlTbmw5NUF0S1JXYWd5R3V2TmtIWkx2c29KUzY1T0t4LUdpNU9IVTkxT01PMG9tWEZ3SzhRQVRWYmRHUURWWkxqZWdsRktTOEN0aThFQjdpNncwNUs0S1JfRjBFelI1M00wZWZRSTlDck02SXdXWUtESmtWTzlEZg?oc=5)
+### [SEPAR y SEC piden la implantación de unidades cardiopulmonares para la atención de pacientes de EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeE0tbVVxOHVyOUljd1BjQzBLM3kzbV9Bam1naVc4aE16TXdnbHBDSDR1b3hVU0FyX0ZzaXI3ejBkUnIyQWJVZE9LMFREMTZfcXAzX1djc053TUVGWktuMGVTdVI4eHVrbzh6Z3oxWTNfU1l5R25aR1pDY3FiVUJoemtzRjVOaFJuLXhJUU9mRW94c1NDb29oRkdLazI1WGxHaUMwbXVlOXEwbnlIeTRkVXpkMm5ObW5nQU5pZ0U0S0t3MmI5U0FXM1hGeFhZT1ozWkxFSXYyTWJQVTdzREFfXzVNWU1vLS1zZ0s0?oc=5)
 
 2026-05-28 <span class="news-indication-tag">EPOC</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFUwWkg4ZGNXRDJ4ZXFpWDhHaFA3SThaUjRoSThjYmRjeDlPRGVHUGR6Y3VNSzVFNTh4LU5rZ29GVjVkbkJ4R3h0cUM0X2tmMHlTbmw5NUF0S1JXYWd5R3V2TmtIWkx2c29KUzY1T0t4LUdpNU9IVTkxT01PMG9tWEZ3SzhRQVRWYmRHUURWWkxqZWdsRktTOEN0aThFQjdpNncwNUs0S1JfRjBFelI1M00wZWZRSTlDck02SXdXWUtESmtWTzlEZg?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeE0tbVVxOHVyOUljd1BjQzBLM3kzbV9Bam1naVc4aE16TXdnbHBDSDR1b3hVU0FyX0ZzaXI3ejBkUnIyQWJVZE9LMFREMTZfcXAzX1djc053TUVGWktuMGVTdVI4eHVrbzh6Z3oxWTNfU1l5R25aR1pDY3FiVUJoemtzRjVOaFJuLXhJUU9mRW94c1NDb29oRkdLazI1WGxHaUMwbXVlOXEwbnlIeTRkVXpkMm5ObW5nQU5pZ0U0S0t3MmI5U0FXM1hGeFhZT1ozWkxFSXYyTWJQVTdzREFfXzVNWU1vLS1zZ0s0?oc=5)
+
+---
+
+### [Un stand de sensibilisation à l’asthme et à la BPCO à l’hôpital de Bagnols pour détecter des éventuels problèmes respiratoires - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
+
+2026-05-21 <span class="news-indication-tag">asthme</span> <span class="news-indication-tag">BPCO</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
 
 ---
 

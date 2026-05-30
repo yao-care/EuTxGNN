@@ -14,7 +14,7 @@ permalink: /news/risperidone/
 ---
 
 <p class="key-answer" data-question="Risperidone 有什麼相關新聞？">
-<strong>Risperidone</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Risperidone</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/risperidone/
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（22 則）
+
+### [Fármacos para adelgazar: por qué el peso regresa al dejar el tratamiento - La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJZMy01RlNSQm8zZkNqVWktQy04UFM4eUkxU19uWXJ3QmoxMVpHMU9kaTNDRWc1Z3pQZW1oZjNrOHVMVExnWUlLT3lCeU9yMmp1VXllYnI1V1JWbGJTYjlHOUZ1SEcxV1NhbzBaUHk1VUI0QWxJa0JsblNHODBicG9qd1p1YkIxTFQ3Ym5YNVlaX0c2M3lnbWE5dmNSNFlFMkNZTDdXamh1bk81bC1DbFB30gG3AUFVX3lxTE40dmprcndCbEozR2FyWHlZa2NLWVV5LXRnTmJSVnVOYWQ0NXZlMXRiSUM4S29fM01PQmYtV3FmNTZMXzk1b2E3eWpoZ3lpaVp5TGtoTVY4c1k5NVNrQzhjYS1pckM0d3RHSE9XNXNaODZDLTdtNlhRN1NtbGlIc3FVa2ZQZmd5UUZkZWlwOFB1Qk1qZGZYMlhUYmFnWkZudE9HeW5CZjJDQVlaVG9NbDAySU93aTItaw?oc=5)
+
+2026-05-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJZMy01RlNSQm8zZkNqVWktQy04UFM4eUkxU19uWXJ3QmoxMVpHMU9kaTNDRWc1Z3pQZW1oZjNrOHVMVExnWUlLT3lCeU9yMmp1VXllYnI1V1JWbGJTYjlHOUZ1SEcxV1NhbzBaUHk1VUI0QWxJa0JsblNHODBicG9qd1p1YkIxTFQ3Ym5YNVlaX0c2M3lnbWE5dmNSNFlFMkNZTDdXamh1bk81bC1DbFB30gG3AUFVX3lxTE40dmprcndCbEozR2FyWHlZa2NLWVV5LXRnTmJSVnVOYWQ0NXZlMXRiSUM4S29fM01PQmYtV3FmNTZMXzk1b2E3eWpoZ3lpaVp5TGtoTVY4c1k5NVNrQzhjYS1pckM0d3RHSE9XNXNaODZDLTdtNlhRN1NtbGlIc3FVa2ZQZmd5UUZkZWlwOFB1Qk1qZGZYMlhUYmFnWkZudE9HeW5CZjJDQVlaVG9NbDAySU93aTItaw?oc=5)
+
+---
+
+### ['Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
+
+2026-05-29 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
+
+---
+
+### [Ebola emergency deepens in mineral-rich Congo as WHO probes 906 suspected cases - Business Insider Africa](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0gzLXhSbEtHbWllTExXT194V0E4ZFAwbzZzeTJtXzlGOTdXTV82U2lFaWNHSGVNUFZhVnk4MlJSbnRFazBRb19acDdHSU9FcjRnWXNkWlNxS1FmcnFnUW12bzVDODJ6NDNMb1RGY3l1VHhxTVBMUGxBUFN0TkhiTHN0c1ZEWDBHbHU1TWNTd2s4TWNuVXJNY2pGRWRkd2ZsS1N4WWdwQ1JHRjRpcWdtbTM3WURHUjZ3OTRBWERYODE0U3FjVVhXbTZNYmpLUkRtbGFZUg?oc=5)
+
+2026-05-29 <span class="news-indication-tag">AF</span>
+
+來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0gzLXhSbEtHbWllTExXT194V0E4ZFAwbzZzeTJtXzlGOTdXTV82U2lFaWNHSGVNUFZhVnk4MlJSbnRFazBRb19acDdHSU9FcjRnWXNkWlNxS1FmcnFnUW12bzVDODJ6NDNMb1RGY3l1VHhxTVBMUGxBUFN0TkhiTHN0c1ZEWDBHbHU1TWNTd2s4TWNuVXJNY2pGRWRkd2ZsS1N4WWdwQ1JHRjRpcWdtbTM3WURHUjZ3OTRBWERYODE0U3FjVVhXbTZNYmpLUkRtbGFZUg?oc=5)
+
+---
 
 ### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
@@ -67,14 +91,6 @@ permalink: /news/risperidone/
 2026-05-29 <span class="news-indication-tag">AF</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT2MzcEpBSjFwUldkVlBzcUpyYTNqTHpmRDkxc1VwZ29nWFRsdVNNVjZfeE5VMWZ6N0NCaEpNaVpmTk1sbXFjS1BsYVR1YTBGTVFqekZ4VlFfWXg1N0lyUW40ZzUzb2ZibTd0ZzRsZXVZa00zdHdPcXQyUUpScHJ2c1prNFMydnFvZVc2OVZyMTBiMXlZRHdPSmhiWmkydldkMDd0SDF1YVVkQmNDZW0zbXlBaldETFJJYUl5eDBWcm5PX3VTSmZoLWZ3dDk3QUkzdmJyWkdIUEJJS1NnMG9lSzc0NHlRUG9xU2VCTHBVVnNiUEsyS2JNTk13?oc=5)
-
----
-
-### [Consiglio europeo del 18-19 giugno affronta l’epidemia di ebola in RD Congo su richiesta di Meloni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimgFBVV95cUxONlBfV1diTjltenFZOUVzeU54dDNlYzlrUUlnTU5CUHFSUmoxU0kzaGR5Tl9mUE45RDdMYTEwQTFHbEJJSGJndjRwMmxkQzNyN29WWHVnLTJzRWtzTkxfT0NlckV4VFlDbEFEUjI0MTFuOFFTUm43YlpGWEF5X1dFTlNFSGN5UnFNR2RLSFhSWGhQcm1uYVl1NjNn?oc=5)
-
-2026-05-29 <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimgFBVV95cUxONlBfV1diTjltenFZOUVzeU54dDNlYzlrUUlnTU5CUHFSUmoxU0kzaGR5Tl9mUE45RDdMYTEwQTFHbEJJSGJndjRwMmxkQzNyN29WWHVnLTJzRWtzTkxfT0NlckV4VFlDbEFEUjI0MTFuOFFTUm43YlpGWEF5X1dFTlNFSGN5UnFNR2RLSFhSWGhQcm1uYVl1NjNn?oc=5)
 
 ---
 
@@ -150,11 +166,19 @@ permalink: /news/risperidone/
 
 ---
 
-### [“Elle n’a pas de dupe” : cette crème anti-âge recommandée après certaines chimiothérapies affole les experts beauté - Pleine Vie](https://news.google.com/rss/articles/CBMihwJBVV95cUxPSWJIOW1nTmE4Y0cwR21qRjgzN2YyellqbmVyMk9BYVNTYnlWWjhwVjIyTV9tRUFSYkpMZ1VTb0Y1OVJJNVJ5MENieUk0eFhTVXQySFBqRW5sSi15Z3lNVlJJWGNxZTBfM0tnb3EySWY3NFVVcjFMbFVJbVV3Sm9lRFVKRnZrWFplZWp5bjUzamxFaW90dDRDZVhJUi1OdDBjdU5IWHNXUVphYWRSdlI0ajVfeGpYRzhtVnJ4dzk1ZlViZTVkY0NCYnRvcVA2cmhadHYwM1ZNNjVOTHZUZXZBT0RxM3R6ZXNRQW1KbXl5U2J1WEIwaVV4cDZjdlhUdzVwR3p5bW9HVQ?oc=5)
+### [Alzheimer bei Frauen: Östrogen-Mangel zerstört Gehirn-Struktur - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndvSkZBemxoYlhxSE9CTUV5LWt0NFl3OTdnNnZGNVNJOXRUTWZoZGVKVWN3eEhJSU1DalFfblNRLXRmczV6YW5YUmFGdHQwSkJsVzgtcW96VUYyRzNNMW1ScUxPYVBCSXpmdU1yY1JQWFJIRjNaVE9tS2ctdVZMblN5OTNXdExnQklnOEkyRmlaQXAwbjhmTTdBWUh6bFVTNzdQUG9LZFpsNXcwY24tdVZn?oc=5)
 
 2026-05-28 <span class="news-indication-tag">AF</span>
 
-來源：[Pleine Vie](https://news.google.com/rss/articles/CBMihwJBVV95cUxPSWJIOW1nTmE4Y0cwR21qRjgzN2YyellqbmVyMk9BYVNTYnlWWjhwVjIyTV9tRUFSYkpMZ1VTb0Y1OVJJNVJ5MENieUk0eFhTVXQySFBqRW5sSi15Z3lNVlJJWGNxZTBfM0tnb3EySWY3NFVVcjFMbFVJbVV3Sm9lRFVKRnZrWFplZWp5bjUzamxFaW90dDRDZVhJUi1OdDBjdU5IWHNXUVphYWRSdlI0ajVfeGpYRzhtVnJ4dzk1ZlViZTVkY0NCYnRvcVA2cmhadHYwM1ZNNjVOTHZUZXZBT0RxM3R6ZXNRQW1KbXl5U2J1WEIwaVV4cDZjdlhUdzVwR3p5bW9HVQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndvSkZBemxoYlhxSE9CTUV5LWt0NFl3OTdnNnZGNVNJOXRUTWZoZGVKVWN3eEhJSU1DalFfblNRLXRmczV6YW5YUmFGdHQwSkJsVzgtcW96VUYyRzNNMW1ScUxPYVBCSXpmdU1yY1JQWFJIRjNaVE9tS2ctdVZMblN5OTNXdExnQklnOEkyRmlaQXAwbjhmTTdBWUh6bFVTNzdQUG9LZFpsNXcwY24tdVZn?oc=5)
+
+---
+
+### [Demenz: Wer schlechter riecht, baut oft schneller körperlich ab – schon Jahre vorher](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdmEtOWx1YWt1RHRyS00wOE1DU25mNTdyWTlTNkJYTWxaRlFNZHhwaXZUNVZGZHRrdk5kOHF1R2RQVkNmUzZyT1M5ZlZJWXY0QkxFNTRxS0dEX1Y0X2F6U2Y5bGhteHIxeTUxZkU2azFmMm1hU0hJN1ctZm5lM21yczQzU0VXd3oxY0xVQ1FNYURWdHZiZGg0YW1SVE5hYks1bTlDR0dXLUVqbGlseFVJdkZqek1MblY2cU41eXRpX2V2MkVYeWRMY0RKYUxTR2haT3EtRnc2RlM3M3lFbjR2U1o4Zw?oc=5)
+
+2026-05-28 <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdmEtOWx1YWt1RHRyS00wOE1DU25mNTdyWTlTNkJYTWxaRlFNZHhwaXZUNVZGZHRrdk5kOHF1R2RQVkNmUzZyT1M5ZlZJWXY0QkxFNTRxS0dEX1Y0X2F6U2Y5bGhteHIxeTUxZkU2azFmMm1hU0hJN1ctZm5lM21yczQzU0VXd3oxY0xVQ1FNYURWdHZiZGg0YW1SVE5hYks1bTlDR0dXLUVqbGlseFVJdkZqek1MblY2cU41eXRpX2V2MkVYeWRMY0RKYUxTR2haT3EtRnc2RlM3M3lFbjR2U1o4Zw?oc=5)
 
 ---
 
@@ -174,17 +198,17 @@ permalink: /news/risperidone/
 
 ---
 
-### [Precautionary recall of blood pressure medication (Crescent Pharma Limited Ramipril 2.5mg capsules) after packaging error](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNelBmTURseTdNTnNweEhBODVYanNyMzNkLWpvd2VLQnBzbmZsdmNsNXdYUE03Q0xhOXBPUVhKMTgxZ2xud3JUdzZ4UUY4M2xlSzhRc1Q2cGVHUUZRRVZtOEhid0JZd0J3bWJUdU9fS0RwZFJVanJCbEc0cHRfeTdmRGhWYXRpbU42WFNESHhiLU9BMmtBNmtIa1p3ZEJVOWx5X0RTVUlfRkpnYVBYekp5TExIdmFJNHpXOEJ5cHoxekpLZjdUX1RoU1pGREpPWXkwWmV1bjNpd1lTTHlqbGpNeTlCSDlDWGd0?oc=5)
+### [BBC Dr Xand gives 'increased risk' update to Omeprazole and Lansoprazole users after study - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE50VVpiYnlUcXdXVzNOWVd4TzVBcWVjdG5KaF9pVkZOcGNCYWl2dEdMbUtRYXFHZ29oV3JoTmZ5NlhVcjlzTmIyOEl5aUtMQmZiRllFUG10Z1BBeE0wRlNvSG04aHh3Vk9DX0VlZlBDV2pEZ3VWOF92M2Rua2RXd9IBgwFBVV95cUxOWDhGSVd6ZWo1dE5tV2hIaWs4TjhKQWZoMzRudXZtUER4eG1OenVPQzVZT3ZpOHFidFdDazM1enU4eUFHUnZVZml1bmptcndtWlVHem9ETHBReWpGYXFsTS0xNEdZLXFWQjhhcEtTazlucWhsTGRoR3BTLXRXSzlnYkl5VQ?oc=5)
 
-2026-05-28 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+2026-05-28 <span class="news-drug-tag">Pantoprazole</span> <span class="news-indication-tag">AF</span>
 
-來源：[GOV.UK](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNelBmTURseTdNTnNweEhBODVYanNyMzNkLWpvd2VLQnBzbmZsdmNsNXdYUE03Q0xhOXBPUVhKMTgxZ2xud3JUdzZ4UUY4M2xlSzhRc1Q2cGVHUUZRRVZtOEhid0JZd0J3bWJUdU9fS0RwZFJVanJCbEc0cHRfeTdmRGhWYXRpbU42WFNESHhiLU9BMmtBNmtIa1p3ZEJVOWx5X0RTVUlfRkpnYVBYekp5TExIdmFJNHpXOEJ5cHoxekpLZjdUX1RoU1pGREpPWXkwWmV1bjNpd1lTTHlqbGpNeTlCSDlDWGd0?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE50VVpiYnlUcXdXVzNOWVd4TzVBcWVjdG5KaF9pVkZOcGNCYWl2dEdMbUtRYXFHZ29oV3JoTmZ5NlhVcjlzTmIyOEl5aUtMQmZiRllFUG10Z1BBeE0wRlNvSG04aHh3Vk9DX0VlZlBDV2pEZ3VWOF92M2Rua2RXd9IBgwFBVV95cUxOWDhGSVd6ZWo1dE5tV2hIaWs4TjhKQWZoMzRudXZtUER4eG1OenVPQzVZT3ZpOHFidFdDazM1enU4eUFHUnZVZml1bmptcndtWlVHem9ETHBReWpGYXFsTS0xNEdZLXFWQjhhcEtTazlucWhsTGRoR3BTLXRXSzlnYkl5VQ?oc=5)
 
 ---
 
 ### [Pharmacist issues antidepressant 'hydrate' alert for anyone taking them - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3ZmSFlLclFlS0liaTEySm5BTHhEaFJMZ2xXSURSNUdGbE5ySUxWSGoxcHlucEtpTzJkOXY0TkExSzJhX1NCcUZERWktRlZhQjdITzUwYXVzWkh3Y2o2NFltN1dDandQMHJqaVV0QVdrWk05N0pJelJ5NjBzWTJJaElmU0I3a2JvQmkxNEx3?oc=5)
 
-2026-05-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">AF</span>
+2026-05-28 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3ZmSFlLclFlS0liaTEySm5BTHhEaFJMZ2xXSURSNUdGbE5ySUxWSGoxcHlucEtpTzJkOXY0TkExSzJhX1NCcUZERWktRlZhQjdITzUwYXVzWkh3Y2o2NFltN1dDandQMHJqaVV0QVdrWk05N0pJelJ5NjBzWTJJaElmU0I3a2JvQmkxNEx3?oc=5)
 
@@ -198,59 +222,11 @@ permalink: /news/risperidone/
 
 ---
 
-### [Ozempic y otros GLP-1 no solo adelgazan, también protegen el corazón](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTR0MHlZVmhBaWNxSEl6VUhqM3REREZKaC02RnJpQ0R1MC1kZmVNOF9MemJSM1ZJWDduZ1U1cjlyOGZJbk16SDM3YjRmektRZXlDQjhiRlBsZmlvTnMwU0ZibXg5ZDEzSFo1TlZTa0dsREF1U0VrNnpwTXpMeHBiZTYxaUxleUVITnlWc0xucXp2eDFjczZkZ3gxMVVhVWJaZ3BkN2tSUE1RRDdKUlE?oc=5)
-
-2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTR0MHlZVmhBaWNxSEl6VUhqM3REREZKaC02RnJpQ0R1MC1kZmVNOF9MemJSM1ZJWDduZ1U1cjlyOGZJbk16SDM3YjRmektRZXlDQjhiRlBsZmlvTnMwU0ZibXg5ZDEzSFo1TlZTa0dsREF1U0VrNnpwTXpMeHBiZTYxaUxleUVITnlWc0xucXp2eDFjczZkZ3gxMVVhVWJaZ3BkN2tSUE1RRDdKUlE?oc=5)
-
----
-
-### [I spent £15k trying to lose weight… until 50p product helped me lose over 3st - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXBDZjc3UVVDWUlWVE9BS1U0V2h2MkxCNjZYdThpczZKSkFJTHFLbm5uLVYydzhqQWJCdW1laG5CSVV2Tzd2UTlDaVFzMzRnOXpNUGlWNmRxbGI2cVI0eGktSXVxR0xvWG5VVUdLOGF4Y0ZXVGxqS2JpTHZQeERFejFILUh6a0l3?oc=5)
-
-2026-05-28 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXBDZjc3UVVDWUlWVE9BS1U0V2h2MkxCNjZYdThpczZKSkFJTHFLbm5uLVYydzhqQWJCdW1laG5CSVV2Tzd2UTlDaVFzMzRnOXpNUGlWNmRxbGI2cVI0eGktSXVxR0xvWG5VVUdLOGF4Y0ZXVGxqS2JpTHZQeERFejFILUh6a0l3?oc=5)
-
----
-
 ### [Luka Cicin-Sain in die Kroatische Akademie der Wissenschaften und Künste gewählt - Helmholtz-Zentrum für Infektionsforschung](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY25lWmJlSUwwbGJrcGdnNVI3MFhjeTF3OUt3dWJ6eVlfLTF2N2lSODU2R1ljYV9kT1BFRXRfdm5wN2c2Z2duZ0l3cHQ5eWhLZ05tbDM4MGtQZGdNT3RnVW8ydUVpYkU3Wl9IV25SM2s5T2FHQ3p1bVZGdVM3M0dCVmRYMFN6blBHTmxnRmVSTzVTNTZGbDhtenk4a21xNmg2SHlSUEFyQUxFaDFZeldqckxsMS1iMFQ1bUxqRnVDWVFEcHlyWkM2clRQSFZQVnlwQVlRZUZnZE42bWt2V1lQcDVYM1VFZw?oc=5)
 
 2026-05-28 <span class="news-indication-tag">AF</span>
 
 來源：[Helmholtz-Zentrum für Infektionsforschung](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY25lWmJlSUwwbGJrcGdnNVI3MFhjeTF3OUt3dWJ6eVlfLTF2N2lSODU2R1ljYV9kT1BFRXRfdm5wN2c2Z2duZ0l3cHQ5eWhLZ05tbDM4MGtQZGdNT3RnVW8ydUVpYkU3Wl9IV25SM2s5T2FHQ3p1bVZGdVM3M0dCVmRYMFN6blBHTmxnRmVSTzVTNTZGbDhtenk4a21xNmg2SHlSUEFyQUxFaDFZeldqckxsMS1iMFQ1bUxqRnVDWVFEcHlyWkM2clRQSFZQVnlwQVlRZUZnZE42bWt2V1lQcDVYM1VFZw?oc=5)
-
----
-
-### [Frauengesundheit und Rauchprävention im Fokus der MS-Forschung - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMipAFBVV95cUxPY081TkFzWWlGSDd2cm9aUzRsekFNTXFwSW1ib2pYSGxobUpkMmhVT003emJsRC1LSUhrSWY5aGpiVFJDSTdJSHhCYi1kOUVNaVJlM1JYQ0xZSkEzY3VDTjJRXzZ0RWtPYTE2MEJGN0pSSWZhbEJxMS1JWnljWEtsUWJDeWt6V3RaS0N2UFhPM24wRFI2bDRVX1VxNEVNNk1nUGQ0dQ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMipAFBVV95cUxPY081TkFzWWlGSDd2cm9aUzRsekFNTXFwSW1ib2pYSGxobUpkMmhVT003emJsRC1LSUhrSWY5aGpiVFJDSTdJSHhCYi1kOUVNaVJlM1JYQ0xZSkEzY3VDTjJRXzZ0RWtPYTE2MEJGN0pSSWZhbEJxMS1JWnljWEtsUWJDeWt6V3RaS0N2UFhPM24wRFI2bDRVX1VxNEVNNk1nUGQ0dQ?oc=5)
-
----
-
-### [Consett man's message a year after stem cell donation to Australian boy](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xU1l2VGJGRWx0T1J6ekl0TzRNUmZWTjJxaEM0c3Q0dzExbjlPd181MTVfT1YwM25ZcktWWllPY2lRRC1aeGN6X0JyRXlnWXJEOHV4YnV4RHlRWURF?oc=5)
-
-2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xU1l2VGJGRWx0T1J6ekl0TzRNUmZWTjJxaEM0c3Q0dzExbjlPd181MTVfT1YwM25ZcktWWllPY2lRRC1aeGN6X0JyRXlnWXJEOHV4YnV4RHlRWURF?oc=5)
-
----
-
-### [HIV breakthrough removes need for daily pill - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2o1ZDBxUWkwalh4ZzJIbUlrNTdneVUwelNTNUh4RzNIUWNmOFRJLWhGLVBLRWdJaVhRbk9GRFZBU1VLQ2E0em1jSHdOS2lGd0hrak9xcWt5cXhvbzVpdk1BX2VweExSNl9nZUNxc19Eb1BGS1hmazdSRlh5U0ZpWmhhRDdkakRFanNHYVUyVHBZWTJaVUtHSGFaaGF0TUhxamZ4SUU3VQ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2o1ZDBxUWkwalh4ZzJIbUlrNTdneVUwelNTNUh4RzNIUWNmOFRJLWhGLVBLRWdJaVhRbk9GRFZBU1VLQ2E0em1jSHdOS2lGd0hrak9xcWt5cXhvbzVpdk1BX2VweExSNl9nZUNxc19Eb1BGS1hmazdSRlh5U0ZpWmhhRDdkakRFanNHYVUyVHBZWTJaVUtHSGFaaGF0TUhxamZ4SUU3VQ?oc=5)
-
----
-
-### [Geruchssinn als Frühsignal: Was nachlassender Riechvermögen über Alterung verrät - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzFMSzJ2VmxadmpPbjlwTmxXUDRsLUl6U0tCTUFBN3g3Nm1NQnJfSklIaUUxLVR2RWMzMVhWUmRHSTNrTEx5UHpZRWU2SnIxNUJjdVVReUxCcGd0V21ob3JlT2hHbGlDN1ZLVElDck84RkpWclQtY3Bvd0ljbXc4VHJnbExQTldhVXFDZmpuSzBxVTZFNWdIVkt3MV96UkxPZ1JpcjdieTNFMHRhdDJRRGdYZzdtZw?oc=5)
-
-2026-05-28 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzFMSzJ2VmxadmpPbjlwTmxXUDRsLUl6U0tCTUFBN3g3Nm1NQnJfSklIaUUxLVR2RWMzMVhWUmRHSTNrTEx5UHpZRWU2SnIxNUJjdVVReUxCcGd0V21ob3JlT2hHbGlDN1ZLVElDck84RkpWclQtY3Bvd0ljbXc4VHJnbExQTldhVXFDZmpuSzBxVTZFNWdIVkt3MV96UkxPZ1JpcjdieTNFMHRhdDJRRGdYZzdtZw?oc=5)
 
 ---
 

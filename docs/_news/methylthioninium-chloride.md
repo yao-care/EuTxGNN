@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/methylthioninium-chloride/
 
 ---
 
-### [Expertos promueven las unidades cardiopulmonares para los pacientes con EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFUwWkg4ZGNXRDJ4ZXFpWDhHaFA3SThaUjRoSThjYmRjeDlPRGVHUGR6Y3VNSzVFNTh4LU5rZ29GVjVkbkJ4R3h0cUM0X2tmMHlTbmw5NUF0S1JXYWd5R3V2TmtIWkx2c29KUzY1T0t4LUdpNU9IVTkxT01PMG9tWEZ3SzhRQVRWYmRHUURWWkxqZWdsRktTOEN0aThFQjdpNncwNUs0S1JfRjBFelI1M00wZWZRSTlDck02SXdXWUtESmtWTzlEZg?oc=5)
+### [SEPAR y SEC piden la implantación de unidades cardiopulmonares para la atención de pacientes de EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeE0tbVVxOHVyOUljd1BjQzBLM3kzbV9Bam1naVc4aE16TXdnbHBDSDR1b3hVU0FyX0ZzaXI3ejBkUnIyQWJVZE9LMFREMTZfcXAzX1djc053TUVGWktuMGVTdVI4eHVrbzh6Z3oxWTNfU1l5R25aR1pDY3FiVUJoemtzRjVOaFJuLXhJUU9mRW94c1NDb29oRkdLazI1WGxHaUMwbXVlOXEwbnlIeTRkVXpkMm5ObW5nQU5pZ0U0S0t3MmI5U0FXM1hGeFhZT1ozWkxFSXYyTWJQVTdzREFfXzVNWU1vLS1zZ0s0?oc=5)
 
 2026-05-28 <span class="news-indication-tag">EPOC</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFUwWkg4ZGNXRDJ4ZXFpWDhHaFA3SThaUjRoSThjYmRjeDlPRGVHUGR6Y3VNSzVFNTh4LU5rZ29GVjVkbkJ4R3h0cUM0X2tmMHlTbmw5NUF0S1JXYWd5R3V2TmtIWkx2c29KUzY1T0t4LUdpNU9IVTkxT01PMG9tWEZ3SzhRQVRWYmRHUURWWkxqZWdsRktTOEN0aThFQjdpNncwNUs0S1JfRjBFelI1M00wZWZRSTlDck02SXdXWUtESmtWTzlEZg?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeE0tbVVxOHVyOUljd1BjQzBLM3kzbV9Bam1naVc4aE16TXdnbHBDSDR1b3hVU0FyX0ZzaXI3ejBkUnIyQWJVZE9LMFREMTZfcXAzX1djc053TUVGWktuMGVTdVI4eHVrbzh6Z3oxWTNfU1l5R25aR1pDY3FiVUJoemtzRjVOaFJuLXhJUU9mRW94c1NDb29oRkdLazI1WGxHaUMwbXVlOXEwbnlIeTRkVXpkMm5ObW5nQU5pZ0U0S0t3MmI5U0FXM1hGeFhZT1ozWkxFSXYyTWJQVTdzREFfXzVNWU1vLS1zZ0s0?oc=5)
+
+---
+
+### [Un stand de sensibilisation à l’asthme et à la BPCO à l’hôpital de Bagnols pour détecter des éventuels problèmes respiratoires - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
+
+2026-05-21 <span class="news-indication-tag">asthme</span> <span class="news-indication-tag">BPCO</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
 
 ---
 

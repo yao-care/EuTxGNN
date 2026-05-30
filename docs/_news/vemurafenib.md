@@ -14,7 +14,7 @@ permalink: /news/vemurafenib/
 ---
 
 <p class="key-answer" data-question="Vemurafenib 有什麼相關新聞？">
-<strong>Vemurafenib</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vemurafenib</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,53 @@ permalink: /news/vemurafenib/
 <p><a href="{{ '/drugs/vemurafenib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（27 則）
+
+### [«A 27 anni avevo forti crampi addominali, ma non l'ho detto al medico. Poi mi è stato diagnosticato un tumore al quarto stadio» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTR5d2FCSUs1WUNTblRQUDRiR0NLdXI3RXB4TkVKN1hIZVFMcTFXM2hEdGlIYW9KVzBYeEoyUWtFenFOYjBmYlpMRk1MX1I2bFM2NGs0XzlnaFRTOWZHaHpKWlBLc2Y0bnZFMWtEeWx5OExFSkU3VG12VmQyMWpMMF91OG5RcU9ULXZkZmxMZWfSAYwBQVVfeXFMUEJEMllGU3dtRzB4UmpYcC1mZUNmbzlsN1BfZ3B5RHIwQ1R3Y0gwOHVtaEZXQmVoZXhGM2h4SDFUemdvc0d6MWFrQU15M1M0eXF3a19SMWJKaGZJeV80Skd6NGg4cEFIa1gzZFBZUFZmQ2llV09iSTBDQm5KbGY2MGYwU0hfcGFENFN5b3U?oc=5)
+
+2026-05-30 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTR5d2FCSUs1WUNTblRQUDRiR0NLdXI3RXB4TkVKN1hIZVFMcTFXM2hEdGlIYW9KVzBYeEoyUWtFenFOYjBmYlpMRk1MX1I2bFM2NGs0XzlnaFRTOWZHaHpKWlBLc2Y0bnZFMWtEeWx5OExFSkU3VG12VmQyMWpMMF91OG5RcU9ULXZkZmxMZWfSAYwBQVVfeXFMUEJEMllGU3dtRzB4UmpYcC1mZUNmbzlsN1BfZ3B5RHIwQ1R3Y0gwOHVtaEZXQmVoZXhGM2h4SDFUemdvc0d6MWFrQU15M1M0eXF3a19SMWJKaGZJeV80Skd6NGg4cEFIa1gzZFBZUFZmQ2llV09iSTBDQm5KbGY2MGYwU0hfcGFENFN5b3U?oc=5)
+
+---
+
+### [Lack of sleep ‘fuelling cancer surge in under 50s’ - The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkgtUkFJRDNIT01XczJlVVNhVHc0aTlsdGhzVDJaa2ZHbEZnQVhyeGEyNkNMbjhOT3Z3Z3pqLUZaVTVqUER5WXJ3WF8xYXI5SlYwbkNaMG9xV0M3Q1czaGdpNkJhNExWdEJBNGhfM2hESVdEZ0ZwOGRMMmFNZ3MzSExoclJVdWxubUxIRlc4ZC1xaUFoQTNtUA?oc=5)
+
+2026-05-30 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkgtUkFJRDNIT01XczJlVVNhVHc0aTlsdGhzVDJaa2ZHbEZnQVhyeGEyNkNMbjhOT3Z3Z3pqLUZaVTVqUER5WXJ3WF8xYXI5SlYwbkNaMG9xV0M3Q1czaGdpNkJhNExWdEJBNGhfM2hESVdEZ0ZwOGRMMmFNZ3MzSExoclJVdWxubUxIRlc4ZC1xaUFoQTNtUA?oc=5)
+
+---
+
+### [Behandlung mit hoher Präzision: Hildesheimer Experte setzt neue Technologie bei der Bestrahlung von Krebspatienten ein - Hildesheimer Allgemeine Zeitung](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbGdDejktdWVkdjJBMmlHc3h5b19jc3Zpd19kbVd6ZXVMb2tYNVBvZG4yRzIzZjBBUDFIMjQxQndwQnZxaW51UnVnUlNVcVlxekkyM25WSGdxWnY0bXhoSGFqNjF5UmJ1Z0NmZ1c5MGU2R3RwQ3pNT0NqLUt3dWNQTDBZYVlFd29XRE05blZYRVBXQ3JEWVhxaTJRcUQtZXBmclBuQXNfSGF1eWhSWHMzenBHbzAyNm9PbVdQTmJjQWJuZVBrcE1EWUFIOWVJYjVNTU9BV2R6UWtESWNTaTVCQzQ2bF9xa1JYalkxX1FETjVlVU5tWkoyREYyZU5oUjg?oc=5)
+
+2026-05-30 <span class="news-indication-tag">Krebs</span>
+
+來源：[Hildesheimer Allgemeine Zeitung](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbGdDejktdWVkdjJBMmlHc3h5b19jc3Zpd19kbVd6ZXVMb2tYNVBvZG4yRzIzZjBBUDFIMjQxQndwQnZxaW51UnVnUlNVcVlxekkyM25WSGdxWnY0bXhoSGFqNjF5UmJ1Z0NmZ1c5MGU2R3RwQ3pNT0NqLUt3dWNQTDBZYVlFd29XRE05blZYRVBXQ3JEWVhxaTJRcUQtZXBmclBuQXNfSGF1eWhSWHMzenBHbzAyNm9PbVdQTmJjQWJuZVBrcE1EWUFIOWVJYjVNTU9BV2R6UWtESWNTaTVCQzQ2bF9xa1JYalkxX1FETjVlVU5tWkoyREYyZU5oUjg?oc=5)
+
+---
+
+### ["C'est une révolution" : pourquoi le daraxonrasib, un nouveau traitement contre le cancer du pancréas, suscite de grands espoirs](https://news.google.com/rss/articles/CBMihAJBVV95cUxOMHh4M1ZVWU4xd0E1LVBrNVhFakFvUlR4cVhOUURHakJ4aU9CTkljNC1uaEhfYXhyQmRQODVDM0o0NkpfWlhlSlUzMi1sc2tMbmlqOEdacXZRenUtQ25jYlJQVmxmSWlQV0RKTWJibXJxVjdKVEFyR3pKUzFzSm9FSmJaOGlZQTBXS2YzNkxDWmhoVkZ0c1hmVkhMNVRmcUlVMjRQRlMxazdUQ2k1YS1ZVUlIekpiYkEwaHVWeUZNdkRpdllhdjIyMTMzWkJRNUxITzNiS3BPblF2enhQelpxdDEzdGk3MTd4Sk12NEIwUGd0bXpZTUIyNGd1NFdiR1VFNEpCSQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMihAJBVV95cUxOMHh4M1ZVWU4xd0E1LVBrNVhFakFvUlR4cVhOUURHakJ4aU9CTkljNC1uaEhfYXhyQmRQODVDM0o0NkpfWlhlSlUzMi1sc2tMbmlqOEdacXZRenUtQ25jYlJQVmxmSWlQV0RKTWJibXJxVjdKVEFyR3pKUzFzSm9FSmJaOGlZQTBXS2YzNkxDWmhoVkZ0c1hmVkhMNVRmcUlVMjRQRlMxazdUQ2k1YS1ZVUlIekpiYkEwaHVWeUZNdkRpdllhdjIyMTMzWkJRNUxITzNiS3BPblF2enhQelpxdDEzdGk3MTd4Sk12NEIwUGd0bXpZTUIyNGd1NFdiR1VFNEpCSQ?oc=5)
+
+---
+
+### [Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy - The Guardian](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjBybmxMaThPNlEwaG9rNnhaNE5ISk9ZWW5LdEx2U3NXM19yLXpZVXhTRXdkcXpGbEhWTm1ReVdOUVhlMUszU1QwT0NWVkJaOG5JOXA1Q2hfYldIOUFxMTVjNlBQU0dQME9kNDBQS3Q1YmgxSGh4WXZ1UmJ4bFZ5Vzl4bXJYX3Y4ME1fWTMxZ1hlMS1FODZaZm15UEpOQWNzcG80bHB3cmk0R3JtOEFsc0dPVmZsSmNzX0xYMThYZU1YQ24yRGlOLVpUcW1aQQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjBybmxMaThPNlEwaG9rNnhaNE5ISk9ZWW5LdEx2U3NXM19yLXpZVXhTRXdkcXpGbEhWTm1ReVdOUVhlMUszU1QwT0NWVkJaOG5JOXA1Q2hfYldIOUFxMTVjNlBQU0dQME9kNDBQS3Q1YmgxSGh4WXZ1UmJ4bFZ5Vzl4bXJYX3Y4ME1fWTMxZ1hlMS1FODZaZm15UEpOQWNzcG80bHB3cmk0R3JtOEFsc0dPVmZsSmNzX0xYMThYZU1YQ24yRGlOLVpUcW1aQQ?oc=5)
+
+---
 
 ### [Krebs: Forscher knacken erstmals Schutzschild gefährlicher Tumorzellen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm5yak4zbzZvUzZFSXlyUWlXM3dtRmY2T2x2ckVVV3BkenVxc0huY2I5S3Z0R1ZSOHdNSGdjSXNKY3lpSHpyMVZrV25uVUFwa3hNZmdIaE00TWZGWWFwbUk5V3BWUjhRQ2k0azNKNllOYnJWRFc4RzNFci02djQ5WHlvVG5KMDZsamtaamR0Q0N1QmVoX0lfUTd0VkNpRzNKaFI0OVRzc0hYQlBtYjAxVEZyUDBIdEMxeFBXYWVXaUhvTFdUUWo0QlpDNHF5RGh5SGlIVw?oc=5)
 
 2026-05-30 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm5yak4zbzZvUzZFSXlyUWlXM3dtRmY2T2x2ckVVV3BkenVxc0huY2I5S3Z0R1ZSOHdNSGdjSXNKY3lpSHpyMVZrV25uVUFwa3hNZmdIaE00TWZGWWFwbUk5V3BWUjhRQ2k0azNKNllOYnJWRFc4RzNFci02djQ5WHlvVG5KMDZsamtaamR0Q0N1QmVoX0lfUTd0VkNpRzNKaFI0OVRzc0hYQlBtYjAxVEZyUDBIdEMxeFBXYWVXaUhvTFdUUWo0QlpDNHF5RGh5SGlIVw?oc=5)
-
----
-
-### [Poor sleep linked to rising cancer risk in under-50s - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9JTDBLbmQzZ1N2eHptZ0E0aHlIVGZ6NmxmNHVTVkFlTHY2NFZZRDM4c0RBalZKb210Q1RCYmpQNE5nS21fY3Y2SXBYVmIzb2k2RDR4V2plM0s1N3A2cUhNdUpTWVRTN2M1S0lxQ3RCNjEzSTRndHFyU2RROUpGR0x3WWhiZzh1LXlpcDN1QU1qTG9nS0lKX29B?oc=5)
-
-2026-05-29 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9JTDBLbmQzZ1N2eHptZ0E0aHlIVGZ6NmxmNHVTVkFlTHY2NFZZRDM4c0RBalZKb210Q1RCYmpQNE5nS21fY3Y2SXBYVmIzb2k2RDR4V2plM0s1N3A2cUhNdUpTWVRTN2M1S0lxQ3RCNjEzSTRndHFyU2RROUpGR0x3WWhiZzh1LXlpcDN1QU1qTG9nS0lKX29B?oc=5)
-
----
-
-### [Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy - The Guardian](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjBybmxMaThPNlEwaG9rNnhaNE5ISk9ZWW5LdEx2U3NXM19yLXpZVXhTRXdkcXpGbEhWTm1ReVdOUVhlMUszU1QwT0NWVkJaOG5JOXA1Q2hfYldIOUFxMTVjNlBQU0dQME9kNDBQS3Q1YmgxSGh4WXZ1UmJ4bFZ5Vzl4bXJYX3Y4ME1fWTMxZ1hlMS1FODZaZm15UEpOQWNzcG80bHB3cmk0R3JtOEFsc0dPVmZsSmNzX0xYMThYZU1YQ24yRGlOLVpUcW1aQQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjBybmxMaThPNlEwaG9rNnhaNE5ISk9ZWW5LdEx2U3NXM19yLXpZVXhTRXdkcXpGbEhWTm1ReVdOUVhlMUszU1QwT0NWVkJaOG5JOXA1Q2hfYldIOUFxMTVjNlBQU0dQME9kNDBQS3Q1YmgxSGh4WXZ1UmJ4bFZ5Vzl4bXJYX3Y4ME1fWTMxZ1hlMS1FODZaZm15UEpOQWNzcG80bHB3cmk0R3JtOEFsc0dPVmZsSmNzX0xYMThYZU1YQ24yRGlOLVpUcW1aQQ?oc=5)
 
 ---
 
@@ -102,11 +126,11 @@ permalink: /news/vemurafenib/
 
 ---
 
-### [«A 27 anni avevo forti crampi addominali, ma non l'ho detto al medico. Poi mi è stato diagnosticato un tumore al quarto stadio» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTR5d2FCSUs1WUNTblRQUDRiR0NLdXI3RXB4TkVKN1hIZVFMcTFXM2hEdGlIYW9KVzBYeEoyUWtFenFOYjBmYlpMRk1MX1I2bFM2NGs0XzlnaFRTOWZHaHpKWlBLc2Y0bnZFMWtEeWx5OExFSkU3VG12VmQyMWpMMF91OG5RcU9ULXZkZmxMZWfSAYwBQVVfeXFMUEJEMllGU3dtRzB4UmpYcC1mZUNmbzlsN1BfZ3B5RHIwQ1R3Y0gwOHVtaEZXQmVoZXhGM2h4SDFUemdvc0d6MWFrQU15M1M0eXF3a19SMWJKaGZJeV80Skd6NGg4cEFIa1gzZFBZUFZmQ2llV09iSTBDQm5KbGY2MGYwU0hfcGFENFN5b3U?oc=5)
+### [Forscher untersuchen Zusammenhang zwischen Omega-3-Kapseln und Alzheimer - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnNTRnhlOVVBYTlTaTExMnBtdkdBeTF6U2ZCNmFNcE5Gb3RERGN6YVExd05EZVZyMjBXTHM4T1BHVWZ6M0FJa2U3LUdkWWVCVzVFYnpLMXppbHJkUF8tOFRtLUdBaVVJTEdWUWtNVVdBdkVlR3BQS2xjRE9NdFpIS2g5QktxM2Q5TTV2Y2k1aHB5NHF6WlFYbi1zS2VveDBfMEhsNm9MVEdpNWxYS0Nvb0pzNFFKV3JSMld5cTd4QVhhNlR6U3A5U0FFUXFTaUU?oc=5)
 
-2026-05-29 <span class="news-indication-tag">tumor</span>
+2026-05-29 <span class="news-indication-tag">Krebs</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTR5d2FCSUs1WUNTblRQUDRiR0NLdXI3RXB4TkVKN1hIZVFMcTFXM2hEdGlIYW9KVzBYeEoyUWtFenFOYjBmYlpMRk1MX1I2bFM2NGs0XzlnaFRTOWZHaHpKWlBLc2Y0bnZFMWtEeWx5OExFSkU3VG12VmQyMWpMMF91OG5RcU9ULXZkZmxMZWfSAYwBQVVfeXFMUEJEMllGU3dtRzB4UmpYcC1mZUNmbzlsN1BfZ3B5RHIwQ1R3Y0gwOHVtaEZXQmVoZXhGM2h4SDFUemdvc0d6MWFrQU15M1M0eXF3a19SMWJKaGZJeV80Skd6NGg4cEFIa1gzZFBZUFZmQ2llV09iSTBDQm5KbGY2MGYwU0hfcGFENFN5b3U?oc=5)
+來源：[Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnNTRnhlOVVBYTlTaTExMnBtdkdBeTF6U2ZCNmFNcE5Gb3RERGN6YVExd05EZVZyMjBXTHM4T1BHVWZ6M0FJa2U3LUdkWWVCVzVFYnpLMXppbHJkUF8tOFRtLUdBaVVJTEdWUWtNVVdBdkVlR3BQS2xjRE9NdFpIS2g5QktxM2Q5TTV2Y2k1aHB5NHF6WlFYbi1zS2VveDBfMEhsNm9MVEdpNWxYS0Nvb0pzNFFKV3JSMld5cTd4QVhhNlR6U3A5U0FFUXFTaUU?oc=5)
 
 ---
 
@@ -190,14 +214,6 @@ permalink: /news/vemurafenib/
 
 ---
 
-### [Prostatakrebs: Neuer T-Zell-Aktivator lässt PSA-Wert um 82% sinken - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxObFpOYUFZZzlTMkpSWDh3aG1pcmRBY0dMWklYU3ZHLTM4MU9tZ3RIeVlzdlhKTlNwR3pNbkpDYzJYdm5lSDNiWWQzU1FoM1Z1cDc4NjZpSV8zblBxa2xUN1NDdjkyYjIzUEFfREJuZHQ5TGdrenk1QkhGU1pidWZzWGF3X1U3eGdIeDZsc0tkcUpBLXlXYlVOZWhFSkxWRXlsUWdkRFc1Sk14N0J3UTc5UXptNGp5UQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxObFpOYUFZZzlTMkpSWDh3aG1pcmRBY0dMWklYU3ZHLTM4MU9tZ3RIeVlzdlhKTlNwR3pNbkpDYzJYdm5lSDNiWWQzU1FoM1Z1cDc4NjZpSV8zblBxa2xUN1NDdjkyYjIzUEFfREJuZHQ5TGdrenk1QkhGU1pidWZzWGF3X1U3eGdIeDZsc0tkcUpBLXlXYlVOZWhFSkxWRXlsUWdkRFc1Sk14N0J3UTc5UXptNGp5UQ?oc=5)
-
----
-
 ### [Cancer : l’histoire édifiante d’une application «miracle»... et déremboursée faute d’efficacité - Le Figaro Santé](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUhMY1M1N1QxM2lfTTE1c3B5YjI1eTRjcWxrQ0xEYWdZV3VuWDRVMHBiNzVUMjV0RWx2VEhlZGlaeGh1WXg5VWtydTQ5TVlKcGNjSFBQejZRSEsxTGpSNFAtYVlmRTdFVndGX1NndWlVc1FsazRCcm9xRjNFbk13UVh2WjJTeXhqSmV0aEN2TVhLa0RaYW4tNUxkT3NJYTU1QUpzcEd5Q0tBa1A0ekg0WVNIZlVTWndNM3VranJHak12QlQyS0s4R0dCcHU?oc=5)
 
 2026-05-29 <span class="news-indication-tag">cancer</span>
@@ -222,6 +238,14 @@ permalink: /news/vemurafenib/
 
 ---
 
+### [Prostatakrebs: T-Zell-Aktivierer VIR-5500 zeigt 82% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0MzZ2lZc2hfMktYQmJ6aE90Z2kwTzBCc2dlMHIyeEdUYWlhOFRmSVlrdmkwcW0wOWU3Q1dnWk91R3VqN2Z2MG1ybDlzU3FuczlKcll0ZERjX0xjUlBOODl1MHZ3M0lEZ1dCOVJzdzdLYTZfcmExYkZCak9KaWZ6MzZQTFNXWEhROU1KUTFxYkd5bzFlaFNZQ3NyVTVjTXlaM3JjcWtKR21ENHJ3RXF0SklkdDVOVnhtRWltTkxR?oc=5)
+
+2026-05-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0MzZ2lZc2hfMktYQmJ6aE90Z2kwTzBCc2dlMHIyeEdUYWlhOFRmSVlrdmkwcW0wOWU3Q1dnWk91R3VqN2Z2MG1ybDlzU3FuczlKcll0ZERjX0xjUlBOODl1MHZ3M0lEZ1dCOVJzdzdLYTZfcmExYkZCak9KaWZ6MzZQTFNXWEhROU1KUTFxYkd5bzFlaFNZQ3NyVTVjTXlaM3JjcWtKR21ENHJ3RXF0SklkdDVOVnhtRWltTkxR?oc=5)
+
+---
+
 ### [Weight Loss on GLP-1 Drugs Linked to Lower Risk of Disease, Study Finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
 
 2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
@@ -230,27 +254,19 @@ permalink: /news/vemurafenib/
 
 ---
 
+### [Ce composé chimique banal de votre salle de bain provoque des millions de naissances prématurées (et son remplaçant officiel est tout aussi redoutable)](https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ1BXTUd3MzJXaGtBLWd6emlLODRPblo1WW5Oa2JDS0R2aEVvaVB6WmRhcHVrTm1ZZVpUMEQ3WXpZQjFxS0hSSDhpWkxrNm12MThwNVNMa0p5N3hiU1I3V0FFcHNRRTVzbU5yUFR6QnRLamZwTDFSTnJCR2NLYUxsTUJMWC1PaVgxd0J6TUE5V0JRVjI4NWgtbFBld29JQjNwaXJWUzItYmxtMmJlMnVYN2plR1FmNXB0eVBHVGpacXBfTWxJYUNGQkR5WUxyMzZrUlp0QTV5R3JMYzY0ektTQkhpVkZLNWxDQnR1eEFtZ21yaFEybDVwaDdwSEVOQTI5Y3pn?oc=5)
+
+2026-05-28 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ1BXTUd3MzJXaGtBLWd6emlLODRPblo1WW5Oa2JDS0R2aEVvaVB6WmRhcHVrTm1ZZVpUMEQ3WXpZQjFxS0hSSDhpWkxrNm12MThwNVNMa0p5N3hiU1I3V0FFcHNRRTVzbU5yUFR6QnRLamZwTDFSTnJCR2NLYUxsTUJMWC1PaVgxd0J6TUE5V0JRVjI4NWgtbFBld29JQjNwaXJWUzItYmxtMmJlMnVYN2plR1FmNXB0eVBHVGpacXBfTWxJYUNGQkR5WUxyMzZrUlp0QTV5R3JMYzY0ektTQkhpVkZLNWxDQnR1eEFtZ21yaFEybDVwaDdwSEVOQTI5Y3pn?oc=5)
+
+---
+
 ### [Lungenkrebs-Früherkennung: Handtellergroßes Gerät erreicht 95% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXBpYXg3RlVxSHF4bUxTVk85bjMtTnlhLWV5c0xjSk03Q3dKM3Z4SzE1UHBiOEtVWmlYZVEwb21XUmlSSE95WmFUT29jbm9jNGZsYUhkbEpoVW9GX1dlZFZQdk02VWx5YUtpTHBOR29JNUI3TGdOeGxLSDZaYVp5emxrRTNMLWhUTWR6a2RMc0ZJUDdGRS1tU1hiWlAxV1ZUYVBvSllDSlhVN2d6aC1ZMkRxVXZCNEl3WFVKeg?oc=5)
 
 2026-05-28 <span class="news-indication-tag">tumor</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXBpYXg3RlVxSHF4bUxTVk85bjMtTnlhLWV5c0xjSk03Q3dKM3Z4SzE1UHBiOEtVWmlYZVEwb21XUmlSSE95WmFUT29jbm9jNGZsYUhkbEpoVW9GX1dlZFZQdk02VWx5YUtpTHBOR29JNUI3TGdOeGxLSDZaYVp5emxrRTNMLWhUTWR6a2RMc0ZJUDdGRS1tU1hiWlAxV1ZUYVBvSllDSlhVN2d6aC1ZMkRxVXZCNEl3WFVKeg?oc=5)
-
----
-
-### [Hautkrebs verrät sich über Wärme – Tattoo soll ihn früher erkennen - smart up news](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTFdnSTJDaUVUSXJGZV81SjRTdjlsM0pEMWlvRmJlNWhfMTk5U3M1WUU4YVlFRW1pTlZ4azMtUVdqUWw4dURtR0hhTllWUWhDUTVMWGJBY3Y1U191czljYW1mX3ZWR0wxUXFUSU50TTJQRC0xWTBhQXpoSURZSnVibjdIbllGWGg3a3hEMjNFV0hWdTlPRkI0S1ZiWXVjSi15dl8waW1uMFdfT0dI?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTFdnSTJDaUVUSXJGZV81SjRTdjlsM0pEMWlvRmJlNWhfMTk5U3M1WUU4YVlFRW1pTlZ4azMtUVdqUWw4dURtR0hhTllWUWhDUTVMWGJBY3Y1U191czljYW1mX3ZWR0wxUXFUSU50TTJQRC0xWTBhQXpoSURZSnVibjdIbllGWGg3a3hEMjNFV0hWdTlPRkI0S1ZiWXVjSi15dl8waW1uMFdfT0dI?oc=5)
-
----
-
-### [Consett man's message a year after stem cell donation to Australian boy](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xU1l2VGJGRWx0T1J6ekl0TzRNUmZWTjJxaEM0c3Q0dzExbjlPd181MTVfT1YwM25ZcktWWllPY2lRRC1aeGN6X0JyRXlnWXJEOHV4YnV4RHlRWURF?oc=5)
-
-2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xU1l2VGJGRWx0T1J6ekl0TzRNUmZWTjJxaEM0c3Q0dzExbjlPd181MTVfT1YwM25ZcktWWllPY2lRRC1aeGN6X0JyRXlnWXJEOHV4YnV4RHlRWURF?oc=5)
 
 ---
 
