@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。10 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。10 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>10 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>10 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,11 +38,11 @@ permalink: /news/obesity/
 
 ## 相關新聞（10 則）
 
-### [Why You Gain Weight During Menopause and How to Manage It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
+### [Los países ricos controlan sus niveles de obesidad pero en los pobre sigue disparada](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
 
 2026-05-30
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
 
 ---
 
@@ -94,19 +94,19 @@ permalink: /news/obesity/
 
 ---
 
+### [Why You Gain Weight During Menopause—and What to Do About It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
+
+2026-05-29
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
+
+---
+
 ### [Weight Loss on GLP-1 Drugs Linked to Lower Risk of Disease, Study Finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
 
 2026-05-28
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
-
----
-
-### [Una catedrática navarra aporta datos infantiles de España a un gran análisis mundial sobre obesidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzdpaUR5aW9QdC1ZdW5sdERNWmNFQ1Y3X2d1S1pXYTdhUl91VFB6VDI0UTZQVjVsVGNXaFVpUkpVR1B0U0NuZFNGel9ZV0dZX3BzMDdTWWY3c0ZUVTUyWHp4MVZSVlZJbmRSb1NSajRLeVpMVnlwb0xQRXFVbFFBdnlWR3FsZjUxeUtQZ1o1MXJxel9SUzMxZFdwSnFtUWlFNEp4VC1IV21RQkZJWXZCbmZmQW5xZ1drZzREUEFLUWt2VmFBZWYxZTk4YlptdVgxMUF3MF95NFVDclZnMTFsdDdEMzRGWGZFZ0HSAe8BQVVfeXFMTUZ5TjMxOXZkRVNJcTRsY1N3R2RfM1JfaVA0cmFxSTAwZjVxdThLVmpqY2xJeWc3TU1IaDNFN1ZFMmNGSkpVRWFJZlRlQlBkS0lrbGozWnhzUnhreVc0cE1lZWotbVlTaVZhVWhjUkc0SUN2bENlbWpkVVB0N2psREt6NGJvcTRncGxudkl0dW45S0kxem1LOHlCcy1MaDN6Nk5yWjA1bE1jNHRGYWZnVmFfd0U0aTBUWG5ZQW1LZHZmQVMzcmJlVWJkS2pnallPdjVKRnVoNkxUUlBaYU9DODlKdTZwR2o3MVBfUGNnUU0?oc=5)
-
-2026-05-28
-
-來源：[Navarra.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzdpaUR5aW9QdC1ZdW5sdERNWmNFQ1Y3X2d1S1pXYTdhUl91VFB6VDI0UTZQVjVsVGNXaFVpUkpVR1B0U0NuZFNGel9ZV0dZX3BzMDdTWWY3c0ZUVTUyWHp4MVZSVlZJbmRSb1NSajRLeVpMVnlwb0xQRXFVbFFBdnlWR3FsZjUxeUtQZ1o1MXJxel9SUzMxZFdwSnFtUWlFNEp4VC1IV21RQkZJWXZCbmZmQW5xZ1drZzREUEFLUWt2VmFBZWYxZTk4YlptdVgxMUF3MF95NFVDclZnMTFsdDdEMzRGWGZFZ0HSAe8BQVVfeXFMTUZ5TjMxOXZkRVNJcTRsY1N3R2RfM1JfaVA0cmFxSTAwZjVxdThLVmpqY2xJeWc3TU1IaDNFN1ZFMmNGSkpVRWFJZlRlQlBkS0lrbGozWnhzUnhreVc0cE1lZWotbVlTaVZhVWhjUkc0SUN2bENlbWpkVVB0N2psREt6NGJvcTRncGxudkl0dW45S0kxem1LOHlCcy1MaDN6Nk5yWjA1bE1jNHRGYWZnVmFfd0U0aTBUWG5ZQW1LZHZmQVMzcmJlVWJkS2pnallPdjVKRnVoNkxUUlBaYU9DODlKdTZwR2o3MVBfUGNnUU0?oc=5)
 
 ---
 

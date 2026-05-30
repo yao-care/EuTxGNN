@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（22 則）
 
-### [Día Mundial de la Esclerosis Múltiple: el manejo de la niebla mental y la fatiga crónica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSEhhUW5TTUVYdFpZdVlkRHlHcVNWenVKR3FXSm00ZkpZTW95akc5VXR6bkhaR1ZBTGtqUGd5UkpiWHByQzRyLWFLTi1tUWhseWNxZVhPZF9pWEk4Y19JQ0toRXBYY1BNZGxXQS02ZUJjNEVmd0FfdEEzOFNISWdXMG1udmROZGJxZHFueWRMaHVJRzBiY0dBZF9OaVFCX3h1bDVGNnZ6ZWZZbWZOT0tKV0NGYWZEdnJvQlNwaVZhVVlWVFJzOGpQdFhyS25RY2h4cndJ0gHuAUFVX3lxTE9HOUhDcEVsUzB0c29mQjhKWDFlWFViS2JUeW9iTVY1RjRrcFRUTWhhVDE2eklGYjNxd1FabDdJSGg3aklZSFJqRDg5cC14ZE1RbHlCUzJtTFJxQ3l1ZVFZWVJReU82ZFFpRkxMbGlTNl95cXZiVnRBaFM2MGJCWGRLdzBrN2VPZFYxRVFaZEloMTljcUlrYkxiU0xSR2hvUEt0ZHNmMlo3U1YyaDJRY2dYN0lBTUY5clhhRHF0cjVFWHJJbkVBYndLRjJJVWFTV0NsYjNFbjNuU205OWxTR3Q5c3EzR01OU0tSdlpENkE?oc=5)
+### [Hoffnung in der Multiple Sklerose Forschung - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRl9lUHBDTExkSDNMbWxPZFJkWjlhNmNpd3NVeHpWTEpoZmVENVFNX3NlelZrSVViT29DRGY4Q0pFZGJ2Wk1VSDVzdUVIWDNrZ3ZoZ3J4eFRGdmFPVXMwUFlXaWo2ajE2cENBWmdPZTZ0VHdaOEFtVEdSYVBJRDlZMGFEQlV2cVRmdDRndzlkOTkzb1g4?oc=5)
+
+2026-05-30 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRl9lUHBDTExkSDNMbWxPZFJkWjlhNmNpd3NVeHpWTEpoZmVENVFNX3NlelZrSVViT29DRGY4Q0pFZGJ2Wk1VSDVzdUVIWDNrZ3ZoZ3J4eFRGdmFPVXMwUFlXaWo2ajE2cENBWmdPZTZ0VHdaOEFtVEdSYVBJRDlZMGFEQlV2cVRmdDRndzlkOTkzb1g4?oc=5)
+
+---
+
+### [Multiple Sklerose: Neuer Protein-Test erkennt Erkrankung mit 94% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTAtNFdGdnVNNE1Va2dKQzNFS1N0ck1SSVBCeklLOGRuUFpha09jbThtWEZKY1lZdm5IeHczc2tfRUF4WkxWQVBHNUp0U21VUHJ5QmZqSGhuUTFKWlBibjhvS2RBWXh6Y2s1eDNMRU5JRWloYlpCVjBCbWFVUjZPWk8xMkQyMFdiY0o2VW1SUTdNWExtam5jTG5lWXFsNktiQTdGV2NDb1IxNW1TTkxRc3RqSkJZd2VkSGRz?oc=5)
+
+2026-05-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTAtNFdGdnVNNE1Va2dKQzNFS1N0ck1SSVBCeklLOGRuUFpha09jbThtWEZKY1lZdm5IeHczc2tfRUF4WkxWQVBHNUp0U21VUHJ5QmZqSGhuUTFKWlBibjhvS2RBWXh6Y2s1eDNMRU5JRWloYlpCVjBCbWFVUjZPWk8xMkQyMFdiY0o2VW1SUTdNWExtam5jTG5lWXFsNktiQTdGV2NDb1IxNW1TTkxRc3RqSkJZd2VkSGRz?oc=5)
+
+---
+
+### [La esclerosis múltiple: vivir con síntomas y adaptándose a «lo que surge en cada momento» - Vivir Ediciones](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdDZ2aFRaeWs1QmgyemZxdWl5UEhGSUJkTGNBVHdIeFNCOVdlYUJONk9fYUtkMUp5eG8xZkZPMlhJRFdBU0lKODM3aTFTanR0bWE2eEh4RUZ2bTk2bGtKdmxKQlp1MDRoQUlBTEZISTZJWWY2RWRXYUlqOWpPYi1BRGg1VWNYeDVlbzhSUzNpRFpCSmdEUnlEZVJOZWRVTFBXU0xlQ29GZnYtalhvYk4xWVpXOTY0Y0t4MTh2VENNd2tqaWpXYVRDd1BWdw?oc=5)
 
 2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSEhhUW5TTUVYdFpZdVlkRHlHcVNWenVKR3FXSm00ZkpZTW95akc5VXR6bkhaR1ZBTGtqUGd5UkpiWHByQzRyLWFLTi1tUWhseWNxZVhPZF9pWEk4Y19JQ0toRXBYY1BNZGxXQS02ZUJjNEVmd0FfdEEzOFNISWdXMG1udmROZGJxZHFueWRMaHVJRzBiY0dBZF9OaVFCX3h1bDVGNnZ6ZWZZbWZOT0tKV0NGYWZEdnJvQlNwaVZhVVlWVFJzOGpQdFhyS25RY2h4cndJ0gHuAUFVX3lxTE9HOUhDcEVsUzB0c29mQjhKWDFlWFViS2JUeW9iTVY1RjRrcFRUTWhhVDE2eklGYjNxd1FabDdJSGg3aklZSFJqRDg5cC14ZE1RbHlCUzJtTFJxQ3l1ZVFZWVJReU82ZFFpRkxMbGlTNl95cXZiVnRBaFM2MGJCWGRLdzBrN2VPZFYxRVFaZEloMTljcUlrYkxiU0xSR2hvUEt0ZHNmMlo3U1YyaDJRY2dYN0lBTUY5clhhRHF0cjVFWHJJbkVBYndLRjJJVWFTV0NsYjNFbjNuU205OWxTR3Q5c3EzR01OU0tSdlpENkE?oc=5)
+來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdDZ2aFRaeWs1QmgyemZxdWl5UEhGSUJkTGNBVHdIeFNCOVdlYUJONk9fYUtkMUp5eG8xZkZPMlhJRFdBU0lKODM3aTFTanR0bWE2eEh4RUZ2bTk2bGtKdmxKQlp1MDRoQUlBTEZISTZJWWY2RWRXYUlqOWpPYi1BRGg1VWNYeDVlbzhSUzNpRFpCSmdEUnlEZVJOZWRVTFBXU0xlQ29GZnYtalhvYk4xWVpXOTY0Y0t4MTh2VENNd2tqaWpXYVRDd1BWdw?oc=5)
+
+---
+
+### [Crème solaire : protection, efficacité... peut-on encore utiliser un tube ou un spray de l’an dernier sans danger pour sa peau](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdUpDS1hURERrZTFTXzRCdXo4S1Fvd1UtNGpJLWcwblBZcml4MDJFd3BqRnRQb2JTak9VWlFJU1ZMTFFaRlVqcm9FbGdmQndtRzJhd014SWdnS0pPdjZvektzX0VYUUpCanhXTm5UMGtEODVYblFXa1F3eVg3cnV0ODN5RWl3bTJfbUFfT2lFc0dFZE9zT0k2bEstV2tGSEtRUXRGUWRWXzcwTVVKNVZ5dW1qY0F2alQyUDNUSHI0N2g5Mi1Lb3M0Sk16S3BxZGVIQjNjZlpPRzFGSG85MGRkbV9vc2staUtMazlJOWptN1pza2NSdlFhZ1JocUU?oc=5)
+
+2026-05-30 <span class="news-indication-tag">MS</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdUpDS1hURERrZTFTXzRCdXo4S1Fvd1UtNGpJLWcwblBZcml4MDJFd3BqRnRQb2JTak9VWlFJU1ZMTFFaRlVqcm9FbGdmQndtRzJhd014SWdnS0pPdjZvektzX0VYUUpCanhXTm5UMGtEODVYblFXa1F3eVg3cnV0ODN5RWl3bTJfbUFfT2lFc0dFZE9zT0k2bEstV2tGSEtRUXRGUWRWXzcwTVVKNVZ5dW1qY0F2alQyUDNUSHI0N2g5Mi1Lb3M0Sk16S3BxZGVIQjNjZlpPRzFGSG85MGRkbV9vc2staUtMazlJOWptN1pza2NSdlFhZ1JocUU?oc=5)
 
 ---
 
@@ -67,6 +91,14 @@ permalink: /news/rotigotine/
 2026-05-30 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUlYNV94dTVqZjJieTRyeHgyQW84ekxFa2htS21JT1NKNU5jYzJjTWp0RC1FUUZyWG9helk2S0FFMW9hY1hLb24wVi1QNC1MWnFfOWZoN3A3OV9ndmlKcW4yZDlDTHZXRHd1V3R1enFyRlR3UVotZkRCVS1BQzQ4bkdYcnJ0Q0pkZXhxWDUxN0tVVndqcVdCOEh4N21ldnh1cDdxbm5yZXJ6ZVAtd21KVkVKcHk5MWpmSFp3ZlloYw?oc=5)
+
+---
+
+### [Los trastornos de salud mental son ahora la causa número 1 de discapacidad en todo el mundo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU4wQ1piZHBRTVUzNW1zZjBDNnBPakJtVlZKZ2U5OUYxbVZ6aGZ4aHBFWlJ5dEJmMDQ1emtwbFBBdmVEbGpKbzRyc0F5S1JrSnVYNWc1NVBGelFYYmRzSDAzeDRMd21FVm9aTGRNbWRjRG05RWpGdlhVT2s3b1lUVkFfUFIwcjUyM1M1YzY3Nnh1OE1rdXgzcWEzdXY4ZjBiQ0hrTkhMUmo4a1E2V2l3OC1CS1RHTXM4NVF0TDNmajRqdl9mXzNSbGdTYUhNUdIB6AFBVV95cUxONTdYMUVadm9wckZ1T2ZDbjA1Rm5iUDB3OWpBVHhibjR3SHFkbkxmaHdWUXo0TjcyY2dOMDNuUHk3bVFFMEtPRkVEQ3gyc1QtRUxYbzJwOWthQThvRm90YkRvY09qOHYyenY4OGNhUDI1WXFxTmR3SW01cDJtVmdSYnhUa1JucUVXRlhYX2hHT0ozM0dwRGRPcU9lSnpHN3k0WmRHTXJfSFN2V2l2YlZxUHNKVFVMQnhWb1VpZzFfaF9GSTFLbmQ2Q29Db05iRE5Nbk5iWFZDMm8xaEt5eUZSWGdvNk5KM3ZQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU4wQ1piZHBRTVUzNW1zZjBDNnBPakJtVlZKZ2U5OUYxbVZ6aGZ4aHBFWlJ5dEJmMDQ1emtwbFBBdmVEbGpKbzRyc0F5S1JrSnVYNWc1NVBGelFYYmRzSDAzeDRMd21FVm9aTGRNbWRjRG05RWpGdlhVT2s3b1lUVkFfUFIwcjUyM1M1YzY3Nnh1OE1rdXgzcWEzdXY4ZjBiQ0hrTkhMUmo4a1E2V2l3OC1CS1RHTXM4NVF0TDNmajRqdl9mXzNSbGdTYUhNUdIB6AFBVV95cUxONTdYMUVadm9wckZ1T2ZDbjA1Rm5iUDB3OWpBVHhibjR3SHFkbkxmaHdWUXo0TjcyY2dOMDNuUHk3bVFFMEtPRkVEQ3gyc1QtRUxYbzJwOWthQThvRm90YkRvY09qOHYyenY4OGNhUDI1WXFxTmR3SW01cDJtVmdSYnhUa1JucUVXRlhYX2hHT0ozM0dwRGRPcU9lSnpHN3k0WmRHTXJfSFN2V2l2YlZxUHNKVFVMQnhWb1VpZzFfaF9GSTFLbmQ2Q29Db05iRE5Nbk5iWFZDMm8xaEt5eUZSWGdvNk5KM3ZQ?oc=5)
 
 ---
 
@@ -182,14 +214,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Blood test could detect signs of Alzheimer’s ‘decades before symptoms’ - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BzeU4tSFo2WVFhbGtJcExmNnZJVWZUNmNSUGVzOUM5RDB5QTNwREVIQmhNdkVDa2RjdDk5dWpPUW1UMzBXOGxBUXNCSVJfSXV0V2M3VVdZcXUzVVViXzUzS3pwOVBaUFpScnV3VmFBaHFUbWstZE9YNDViQ29pcWhJMU1HNzlFSW43b0xfQl9XN18xRXRiTERiZmg1ZjVRTEpSdUVn?oc=5)
-
-2026-05-29 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BzeU4tSFo2WVFhbGtJcExmNnZJVWZUNmNSUGVzOUM5RDB5QTNwREVIQmhNdkVDa2RjdDk5dWpPUW1UMzBXOGxBUXNCSVJfSXV0V2M3VVdZcXUzVVViXzUzS3pwOVBaUFpScnV3VmFBaHFUbWstZE9YNDViQ29pcWhJMU1HNzlFSW43b0xfQl9XN18xRXRiTERiZmg1ZjVRTEpSdUVn?oc=5)
-
----
-
 ### [De combatir el cáncer a tratar lupus y esclerosis múltiple: así funciona la terapia CAR T - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN3FEYTdQRTFVZ0F4UmdwY1FoU0Nrdi1SeGhCQ1JVeWM2aVAzYnVhR1otYndZWE5VUnVYSEhiYTRRSlJEcTBMZ01OYzY1enBhWk1MZDlCMWRadmJ5endRazFHUm83RFR0MXY1cURCZ3RvMTdOU1Q1MnFNUnhFcWo5emdMaDJoQnMtYlM4VFhRb01JdXBCSWNkU2hPMGN0aFphRDRnX3ZaNUpxTWJwVEJZN09RR3hsRVhkYzU4V1VHSnA0SEotSElYWTByLVhhNHpNMmZQazVLbnByYm4yX21SMDdsSdIB6AFBVV95cUxNRGFRaTRRSkFOT2cyV01HMjd3cTJ5MjNKVFRjYlZ3bmFpU2FLNFlkdnlWaGJrSGxlSndzY05qeV8yTVVuTEVTYVp3eDQxY1laMkhUUHZVUFhCVEZyT05hQ0F1ekxvSGd2X3BQWUhVQnJLSzlSazZzVHdvYXhzTjhZRHE2RDRJS0w4dnZJZV9WZXJvdzdMWGlKbnZDVEhBajlDVGpNMmRlWW1rVXFNWnlEMUV4bXJITi0tNVQzQVkySEJCZjJ5RUF0Sjh4MjF5U2JDc1RMcy1YWmhMdkxMTUdySFgyOUNPRE9B?oc=5)
 
 2026-05-29 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -198,51 +222,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline - The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTVJzc21mMjdhUlZhZEIyNzRaOHhtNjFzc0RLNDBFUHhaZy1LMTF4blhjcjBkMDJoZERJU2ViTTQ0UmVoRXF6Z29RcW5wTy0zUzdRWkMzcExxUmlJWHQ0RndZT01Gem8tSzNIN3M0Q2pqN2x2SGVBdDV1eEhvbmdsUUhSRDdIM0pOODBPZnFPNnR6ZjNQRDFzSG9TanY4WFQ3Z0J3SHloZkp0d2RQN0pnb0l0T1RNY1dnZ05NYlN3?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTVJzc21mMjdhUlZhZEIyNzRaOHhtNjFzc0RLNDBFUHhaZy1LMTF4blhjcjBkMDJoZERJU2ViTTQ0UmVoRXF6Z29RcW5wTy0zUzdRWkMzcExxUmlJWHQ0RndZT01Gem8tSzNIN3M0Q2pqN2x2SGVBdDV1eEhvbmdsUUhSRDdIM0pOODBPZnFPNnR6ZjNQRDFzSG9TanY4WFQ3Z0J3SHloZkp0d2RQN0pnb0l0T1RNY1dnZ05NYlN3?oc=5)
-
----
-
 ### [Gene therapies to fix failing hearts gain steam after years in the doldrums](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR3A4YmtkbWF5dHQxTnotaTZlSm9TUmY0cGQ0dkN1U1pGX0xfa1dZVUFsRTBLS0taLVpMTmhxRlNnOEhUdW1vN2lNblRlS3BmU09Lajd1RlBNc0puWkJJ?oc=5)
 
 2026-05-28 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR3A4YmtkbWF5dHQxTnotaTZlSm9TUmY0cGQ0dkN1U1pGX0xfa1dZVUFsRTBLS0taLVpMTmhxRlNnOEhUdW1vN2lNblRlS3BmU09Lajd1RlBNc0puWkJJ?oc=5)
-
----
-
-### [Samsung und Mass General untersuchen die Galaxy Watch für GLP-1-Patienten.](https://news.google.com/rss/articles/CBMiigFBVV95cUxOTU1uNmgzd1Z6RjFaRnNFZkpDN19XSzgwLWthOGVJcXh6S0VOa1hLY3M2T2ptMEcxVTAyenNBQ1VFS3F1U0NTdDU2YTlUcFc4WHhOR1g2YlYybnpvZE1zT25UNTdfWHFJbG92VkpCcHNCdWFTck5sbjl4Uk5zQTQyLXYxdnZqbEtzQ1E?oc=5)
-
-2026-05-28 <span class="news-indication-tag">MS</span>
-
-來源：[de.qz.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxOTU1uNmgzd1Z6RjFaRnNFZkpDN19XSzgwLWthOGVJcXh6S0VOa1hLY3M2T2ptMEcxVTAyenNBQ1VFS3F1U0NTdDU2YTlUcFc4WHhOR1g2YlYybnpvZE1zT25UNTdfWHFJbG92VkpCcHNCdWFTck5sbjl4Uk5zQTQyLXYxdnZqbEtzQ1E?oc=5)
-
----
-
-### [Blutproteine sagen Multiple Sklerose bis zu 10 Jahre früher voraus - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUZ4YUJOMThEZFF0R3JPVU5HWHl5NjhnSnJtLU9Ndi1pMDJqSzAxd0dBcjNGYnB5VDJYSy0xaWppYllrYUdLR2hYX2RaNWQ4ZmFjcTNQd2F4YzVTWWlob0JqSnFtaHc1VFhfdGNrYjlKVHg4dmJzVmQ1VklSOWVKTjBNTWVlZ2RwOVBUYXJWX05qWDdybmdDYkFYRUFIaXFD?oc=5)
-
-2026-05-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUZ4YUJOMThEZFF0R3JPVU5HWHl5NjhnSnJtLU9Ndi1pMDJqSzAxd0dBcjNGYnB5VDJYSy0xaWppYllrYUdLR2hYX2RaNWQ4ZmFjcTNQd2F4YzVTWWlob0JqSnFtaHc1VFhfdGNrYjlKVHg4dmJzVmQ1VklSOWVKTjBNTWVlZ2RwOVBUYXJWX05qWDdybmdDYkFYRUFIaXFD?oc=5)
-
----
-
-### [Notée 100/100 sur Yuka, cette crème solaire de pharmacie est la numéro 1 de l’été 2026](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaVFURVd4UzNFczFVRm1YUy04ZWluOGtjdkNNN1VrZ1pFcTVZNnhHcnd6STlaVG1GS2xNT1lPRE5PWlBrVmZkMzJUZkVRM1hJNjU2c2huX0tKLVRsZHFtbUNyRV9EcWdZM2xJb3hQTnJQS3hRVnAxV1hFMGxNUjhPajJzV0w1X3JEblB3N1VSMmQ2RzFHY0hnQ1JSV0ViXzROTm56Y2tIVVN1NzM5YmRTRUpXTHRkUUNvWkZ1NXh4N01DOFVBdy05WU55MmZveVRfY0tZbHMyTTBMMlp2akE?oc=5)
-
-2026-05-28 <span class="news-indication-tag">MS</span>
-
-來源：[grazia.fr](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaVFURVd4UzNFczFVRm1YUy04ZWluOGtjdkNNN1VrZ1pFcTVZNnhHcnd6STlaVG1GS2xNT1lPRE5PWlBrVmZkMzJUZkVRM1hJNjU2c2huX0tKLVRsZHFtbUNyRV9EcWdZM2xJb3hQTnJQS3hRVnAxV1hFMGxNUjhPajJzV0w1X3JEblB3N1VSMmQ2RzFHY0hnQ1JSV0ViXzROTm56Y2tIVVN1NzM5YmRTRUpXTHRkUUNvWkZ1NXh4N01DOFVBdy05WU55MmZveVRfY0tZbHMyTTBMMlp2akE?oc=5)
-
----
-
-### [Rauchen und MS: Erkrankungsrisiko um 50% erhöht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlZ6SHgycTNicmlWYmRsMWh1c3d4MEdqaDRwZGNRdzdqZHRpVldXdjdRbVBPSnlLNTA3OV9kTkVBX0x3QU5CbDVGam1DYzBQc0ZFN1ZuN19SRGpGazUzUkRVSm5rY2Z1N2xUYlc1ZUdjVFJXb05rcGlWZFNYUEo3dFNhLWE5TTBEUGUyNmJ4UVlhZzUtMGF1WWQtTDhLUUFPNlNF?oc=5)
-
-2026-05-28 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlZ6SHgycTNicmlWYmRsMWh1c3d4MEdqaDRwZGNRdzdqZHRpVldXdjdRbVBPSnlLNTA3OV9kTkVBX0x3QU5CbDVGam1DYzBQc0ZFN1ZuN19SRGpGazUzUkRVSm5rY2Z1N2xUYlc1ZUdjVFJXb05rcGlWZFNYUEo3dFNhLWE5TTBEUGUyNmJ4UVlhZzUtMGF1WWQtTDhLUUFPNlNF?oc=5)
 
 ---
 

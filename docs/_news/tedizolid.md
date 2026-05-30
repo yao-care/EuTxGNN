@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="Tedizolid 有什麼相關新聞？">
-<strong>Tedizolid</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tedizolid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tedizolid/
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
+### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
 
 2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
-
----
-
-### [SEPAR y SEC piden la implantación de unidades cardiopulmonares para la atención de pacientes de EPOC y ECV coexistentes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeE0tbVVxOHVyOUljd1BjQzBLM3kzbV9Bam1naVc4aE16TXdnbHBDSDR1b3hVU0FyX0ZzaXI3ejBkUnIyQWJVZE9LMFREMTZfcXAzX1djc053TUVGWktuMGVTdVI4eHVrbzh6Z3oxWTNfU1l5R25aR1pDY3FiVUJoemtzRjVOaFJuLXhJUU9mRW94c1NDb29oRkdLazI1WGxHaUMwbXVlOXEwbnlIeTRkVXpkMm5ObW5nQU5pZ0U0S0t3MmI5U0FXM1hGeFhZT1ozWkxFSXYyTWJQVTdzREFfXzVNWU1vLS1zZ0s0?oc=5)
-
-2026-05-28 <span class="news-indication-tag">EPOC</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeE0tbVVxOHVyOUljd1BjQzBLM3kzbV9Bam1naVc4aE16TXdnbHBDSDR1b3hVU0FyX0ZzaXI3ejBkUnIyQWJVZE9LMFREMTZfcXAzX1djc053TUVGWktuMGVTdVI4eHVrbzh6Z3oxWTNfU1l5R25aR1pDY3FiVUJoemtzRjVOaFJuLXhJUU9mRW94c1NDb29oRkdLazI1WGxHaUMwbXVlOXEwbnlIeTRkVXpkMm5ObW5nQU5pZ0U0S0t3MmI5U0FXM1hGeFhZT1ozWkxFSXYyTWJQVTdzREFfXzVNWU1vLS1zZ0s0?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
 
 ---
 
