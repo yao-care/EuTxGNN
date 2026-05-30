@@ -3,7 +3,7 @@ layout: default
 title: "asthme（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthme（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthme（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
-<strong>asthme（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asthme（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Cancer : ce médicament contre l’asthme pourrait aider à détruire les tumeurs](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
 
 2026-05-29
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
-
----
-
-### [Un stand de sensibilisation à l’asthme et à la BPCO à l’hôpital de Bagnols pour détecter des éventuels problèmes respiratoires - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
-
-2026-05-21
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
 
 ---
 

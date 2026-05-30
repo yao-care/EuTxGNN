@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="Norethisterone 有什麼相關新聞？">
-<strong>Norethisterone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Norethisterone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/norethisterone/
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Cancer : ce médicament contre l’asthme pourrait aider à détruire les tumeurs](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
 
 2026-05-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
-
----
-
-### [Un stand de sensibilisation à l’asthme et à la BPCO à l’hôpital de Bagnols pour détecter des éventuels problèmes respiratoires - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
-
-2026-05-21 <span class="news-indication-tag">asthme</span> <span class="news-indication-tag">BPCO</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
 
 ---
 

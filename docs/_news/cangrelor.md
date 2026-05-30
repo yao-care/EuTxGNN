@@ -54,11 +54,11 @@ permalink: /news/cangrelor/
 
 ## 相關新聞（2 則）
 
-### [Herzinfarkt-Prävention: 99% hätten Risiken erkennen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPemhIU1VVWDV4bjhWZ2tHMS1uWEFaM3FhTXNwSERwS21KNFl4MFdNYXhjYnBLTVlXWnFfYnphU0ZvaXM5ZHE3ZktiMHVpY0wtNFhidk94VEM2aWtHekhQZ3JyQkJGUm9neXIwSVhlZlhod1ZtekEtQWRhcXVHRXFRNHZFWE91MW5pNVotMFVwS2gxNkM3WGpSUzl3ZmpjVEEwdkwtV0YzbzZzaU80Ml8xbXN5dURWS28?oc=5)
+### [Herzerkrankungen: 99% hätten durch Lebensstil verhindert werden können - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hKcWxhWHh6ZXFnZjBGQjlMM3lpMnlLcm5oXzNxdG1hVHBGYjlneXoxb3VnRVNiQTJlTzh4M3dXbjdET2lGbEhSRWFLZ2hDbHdjWU84bTNyOEhVVk5kX2NEMlE1cEhOZFlTTDNRcHpkd0Mybm9kTVA0T0M0OFFEUEg3MVJYdlhnUDFaU1M4RjljcmFRVTFtdjI2a25IaFcza2EyOHlxWGl2blEwZDllQi1pTWUweXdXSS1N?oc=5)
 
-2026-05-28 <span class="news-indication-tag">Herzerkrankung</span>
+2026-05-30 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPemhIU1VVWDV4bjhWZ2tHMS1uWEFaM3FhTXNwSERwS21KNFl4MFdNYXhjYnBLTVlXWnFfYnphU0ZvaXM5ZHE3ZktiMHVpY0wtNFhidk94VEM2aWtHekhQZ3JyQkJGUm9neXIwSVhlZlhod1ZtekEtQWRhcXVHRXFRNHZFWE91MW5pNVotMFVwS2gxNkM3WGpSUzl3ZmpjVEEwdkwtV0YzbzZzaU80Ml8xbXN5dURWS28?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hKcWxhWHh6ZXFnZjBGQjlMM3lpMnlLcm5oXzNxdG1hVHBGYjlneXoxb3VnRVNiQTJlTzh4M3dXbjdET2lGbEhSRWFLZ2hDbHdjWU84bTNyOEhVVk5kX2NEMlE1cEhOZFlTTDNRcHpkd0Mybm9kTVA0T0M0OFFEUEg3MVJYdlhnUDFaU1M4RjljcmFRVTFtdjI2a25IaFcza2EyOHlxWGl2blEwZDllQi1pTWUweXdXSS1N?oc=5)
 
 ---
 

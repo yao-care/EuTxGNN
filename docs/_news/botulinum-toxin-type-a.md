@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
-
----
-
-### [Un stand de sensibilisation à l’asthme et à la BPCO à l’hôpital de Bagnols pour détecter des éventuels problèmes respiratoires - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
-
-2026-05-21 <span class="news-indication-tag">asthme</span> <span class="news-indication-tag">BPCO</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 ---
 

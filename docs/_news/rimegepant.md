@@ -54,6 +54,14 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（4 則）
 
+### [Herzerkrankungen: 99% hätten durch Lebensstil verhindert werden können - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hKcWxhWHh6ZXFnZjBGQjlMM3lpMnlLcm5oXzNxdG1hVHBGYjlneXoxb3VnRVNiQTJlTzh4M3dXbjdET2lGbEhSRWFLZ2hDbHdjWU84bTNyOEhVVk5kX2NEMlE1cEhOZFlTTDNRcHpkd0Mybm9kTVA0T0M0OFFEUEg3MVJYdlhnUDFaU1M4RjljcmFRVTFtdjI2a25IaFcza2EyOHlxWGl2blEwZDllQi1pTWUweXdXSS1N?oc=5)
+
+2026-05-30 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hKcWxhWHh6ZXFnZjBGQjlMM3lpMnlLcm5oXzNxdG1hVHBGYjlneXoxb3VnRVNiQTJlTzh4M3dXbjdET2lGbEhSRWFLZ2hDbHdjWU84bTNyOEhVVk5kX2NEMlE1cEhOZFlTTDNRcHpkd0Mybm9kTVA0T0M0OFFEUEg3MVJYdlhnUDFaU1M4RjljcmFRVTFtdjI2a25IaFcza2EyOHlxWGl2blEwZDllQi1pTWUweXdXSS1N?oc=5)
+
+---
+
 ### [Las palabras importan: la SEN publica una guía para comunicar mejor sobre la migraña](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
 2026-05-29 <span class="news-indication-tag">migraña</span>
@@ -67,14 +75,6 @@ permalink: /news/rimegepant/
 2026-05-29 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMickFVX3lxTE1nSWtNTHZQejZtME9IZFdkX0c1aEhXNFdRS2RYeXBnajhidnczRS1fdG5pdnAtZWlMTGR1V0JVZ3ozenhIYkpvckFkNS1UaWNvZlhKQ1hjSHAxUWY0SDBDWS1FSENCZmFoVnlPU3d3cGx4QQ?oc=5)
-
----
-
-### [Herzinfarkt-Prävention: 99% hätten Risiken erkennen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPemhIU1VVWDV4bjhWZ2tHMS1uWEFaM3FhTXNwSERwS21KNFl4MFdNYXhjYnBLTVlXWnFfYnphU0ZvaXM5ZHE3ZktiMHVpY0wtNFhidk94VEM2aWtHekhQZ3JyQkJGUm9neXIwSVhlZlhod1ZtekEtQWRhcXVHRXFRNHZFWE91MW5pNVotMFVwS2gxNkM3WGpSUzl3ZmpjVEEwdkwtV0YzbzZzaU80Ml8xbXN5dURWS28?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPemhIU1VVWDV4bjhWZ2tHMS1uWEFaM3FhTXNwSERwS21KNFl4MFdNYXhjYnBLTVlXWnFfYnphU0ZvaXM5ZHE3ZktiMHVpY0wtNFhidk94VEM2aWtHekhQZ3JyQkJGUm9neXIwSVhlZlhod1ZtekEtQWRhcXVHRXFRNHZFWE91MW5pNVotMFVwS2gxNkM3WGpSUzl3ZmpjVEEwdkwtV0YzbzZzaU80Ml8xbXN5dURWS28?oc=5)
 
 ---
 

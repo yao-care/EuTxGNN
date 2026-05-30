@@ -54,11 +54,19 @@ permalink: /news/natalizumab/
 
 ## 相關新聞（6 則）
 
-### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+### [Sugar swaps that could help you lose 16lbs without trying - from breakfast favourite to cupboard staples - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNJNFU5LVFGbFpVYXcwaUdNNTl2RlJqVlJwQWRiUFd6Wm5NUEhsV1FWRG9GVjItRlo5UjkxanBYaHJINkY4SUU4SjRMX2puUFpkV1VkRkdmWDFnemhqTm4wRmU1dmM3dEFjX2hJVGJYOEhqOGxFMFZPaTF0UjV0R3ZMdDNBM05BMXUtY0ZyTHNsUjlWRWhzcUNB?oc=5)
+
+2026-05-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNJNFU5LVFGbFpVYXcwaUdNNTl2RlJqVlJwQWRiUFd6Wm5NUEhsV1FWRG9GVjItRlo5UjkxanBYaHJINkY4SUU4SjRMX2puUFpkV1VkRkdmWDFnemhqTm4wRmU1dmM3dEFjX2hJVGJYOEhqOGxFMFZPaTF0UjV0R3ZMdDNBM05BMXUtY0ZyTHNsUjlWRWhzcUNB?oc=5)
+
+---
+
+### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 ---
 
@@ -86,19 +94,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Type 2 diabetes could be a sign of this deadly cancer and spotting it fast is crucial - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
+### [La melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-05-29 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
-
----
-
-### [Un stand de sensibilisation à l’asthme et à la BPCO à l’hôpital de Bagnols pour détecter des éventuels problèmes respiratoires - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
-
-2026-05-21 <span class="news-indication-tag">asthme</span> <span class="news-indication-tag">BPCO</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
 ---
 

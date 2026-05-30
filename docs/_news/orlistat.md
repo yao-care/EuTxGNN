@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
+
+### ['Absolute warrior' baby who suffered stroke at birth celebrates first birthday - STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI3dGV1Y3U0bjY4ZmdrWUZNTVpadzhobkJIN3Z1NmJNc0NWX09JYkRvTGR1RjRVM0RoRm90eG56TVRNU2x5YlZBTXdSSkc0MVlnUHpUcXRyUkJWM01UQVNqejlTTWZTTjJrUzAyV0M4UmhOV3NRZG1PdWFFdm1MdTNXbnJ3SmVNbWdXZnQ0WmFvdDdtclEyODh0YWlSQTRoU2dQVXo2YlZvQW5namc?oc=5)
+
+2026-05-30 <span class="news-indication-tag">stroke</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI3dGV1Y3U0bjY4ZmdrWUZNTVpadzhobkJIN3Z1NmJNc0NWX09JYkRvTGR1RjRVM0RoRm90eG56TVRNU2x5YlZBTXdSSkc0MVlnUHpUcXRyUkJWM01UQVNqejlTTWZTTjJrUzAyV0M4UmhOV3NRZG1PdWFFdm1MdTNXbnJ3SmVNbWdXZnQ0WmFvdDdtclEyODh0YWlSQTRoU2dQVXo2YlZvQW5namc?oc=5)
+
+---
 
 ### [Los países ricos controlan sus niveles de obesidad pero en los pobre sigue disparada](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
 
@@ -110,22 +118,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Allarme sigarette elettroniche: «Danni irreversibili, progettati per intrappolare i più giovani». L'appello della regina Letizia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXRpWWw3b2NNb05NSVFFeXNnTFY1WlJvejh3YTRKYk9WYm1hMEozZnE5VEVuNnU5X2tZRGhfZXF0WEZvSWpyN1Y5S0pNRFdpdVBLeFFBalJGYWdpYl81RE9tb2IwV2YyS2tJMW92Z1F6SWRMSzBXa1llZm8wejVqNUdTZ0VsYVUzR0FWMktjcm5FNG5GMXV0NzFOZEdpb3lCSWxUdWE4blZDekFkblBZcUgwZEJJWUYzTGxHM1Y0RVhIMjdCd0xGcGVxQXo0UmVHTnVkb3lSblY0WVFXV3dETW94OUNYOHpvMFItMTNB0gHYAUFVX3lxTE9XNzVkaXZCaWh1aksta0UyZ29hTER2YVl6RDFzRWlsbmJhS3NERVJpc2RWZHl6ODhzaWEyN0xXZzYtRVNXYVI5ajd2U1ducFVRb3VJLXBIdXdhQlFzQnpBMUpERjQ0MTRhQ00yYUVHLU1tRjFqSE9Vc1ZQNndici05dXJpa2VyQURWLVJJOUptVDBQWXp5dlBDUEwzOFVLLXBleXVMVmp3ZVZuNHRiNHRDeE9zcDFBaXBiTFo2VFMxMWpPN21pVHhNWTdNeVM3SHBKeUYwS1k2OA?oc=5)
-
-2026-05-29 <span class="news-indication-tag">ictus</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXRpWWw3b2NNb05NSVFFeXNnTFY1WlJvejh3YTRKYk9WYm1hMEozZnE5VEVuNnU5X2tZRGhfZXF0WEZvSWpyN1Y5S0pNRFdpdVBLeFFBalJGYWdpYl81RE9tb2IwV2YyS2tJMW92Z1F6SWRMSzBXa1llZm8wejVqNUdTZ0VsYVUzR0FWMktjcm5FNG5GMXV0NzFOZEdpb3lCSWxUdWE4blZDekFkblBZcUgwZEJJWUYzTGxHM1Y0RVhIMjdCd0xGcGVxQXo0UmVHTnVkb3lSblY0WVFXV3dETW94OUNYOHpvMFItMTNB0gHYAUFVX3lxTE9XNzVkaXZCaWh1aksta0UyZ29hTER2YVl6RDFzRWlsbmJhS3NERVJpc2RWZHl6ODhzaWEyN0xXZzYtRVNXYVI5ajd2U1ducFVRb3VJLXBIdXdhQlFzQnpBMUpERjQ0MTRhQ00yYUVHLU1tRjFqSE9Vc1ZQNndici05dXJpa2VyQURWLVJJOUptVDBQWXp5dlBDUEwzOFVLLXBleXVMVmp3ZVZuNHRiNHRDeE9zcDFBaXBiTFo2VFMxMWpPN21pVHhNWTdNeVM3SHBKeUYwS1k2OA?oc=5)
-
----
-
-### [La terapia senolítica reduce la variabilidad del latido cardíaco en modelos de obesidad - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWE1aHdjYWppakhFOEZSRWhCSGY3VjZLVjdpdlJ0bUVtc196V1o3R0RUT0g0eGxMNFA5eWFCOW9CNjQtSmpGLThQUzdaWF9kcVZoQUJuOWVLM09xQzBZNE5pUDMzMWxkbzM4MkJBcUw0UXhHQ2habnd5OXlyR1ZLU3NTQlpuaWd4ZzZTcHkxMDFyUE5ZMEwwVHlyN3kyUkxxUUV5UFdEd0FvOXNpUnRtRVhwSGktZFhrczU3SDB2WdIBugFBVV95cUxNYTNVbXBLWmE2R1JPVDlGZ3FRWG5RUlFMM3YtbXl3a2NLd3NnZ21xTjNPZFU0OEppRjJlN0tqa0VBMWNrWDhLODllaWR5Vk5QUThWOF9OQkx5ZzdtenFnS3p6NE5JMEhjaXMya1UtUlpONDFCMk5oOERuMzFSTmYxLUNXM3pwX3VnRGo0b1BieFZkdnR1YmtRVUhFN1dCRjFQZEdEX2p3YzJ3Ti1rSlFzbG5vajNqQkIyWXc?oc=5)
-
-2026-05-29 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWE1aHdjYWppakhFOEZSRWhCSGY3VjZLVjdpdlJ0bUVtc196V1o3R0RUT0g0eGxMNFA5eWFCOW9CNjQtSmpGLThQUzdaWF9kcVZoQUJuOWVLM09xQzBZNE5pUDMzMWxkbzM4MkJBcUw0UXhHQ2habnd5OXlyR1ZLU3NTQlpuaWd4ZzZTcHkxMDFyUE5ZMEwwVHlyN3kyUkxxUUV5UFdEd0FvOXNpUnRtRVhwSGktZFhrczU3SDB2WdIBugFBVV95cUxNYTNVbXBLWmE2R1JPVDlGZ3FRWG5RUlFMM3YtbXl3a2NLd3NnZ21xTjNPZFU0OEppRjJlN0tqa0VBMWNrWDhLODllaWR5Vk5QUThWOF9OQkx5ZzdtenFnS3p6NE5JMEhjaXMya1UtUlpONDFCMk5oOERuMzFSTmYxLUNXM3pwX3VnRGo0b1BieFZkdnR1YmtRVUhFN1dCRjFQZEdEX2p3YzJ3Ti1rSlFzbG5vajNqQkIyWXc?oc=5)
-
----
-
 ### [Hypertonie: Polypille kann Schlaganfall-Rezidiv nach Hirnblutung vorbeugen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMa2tEUWl4VFRxZVk4OXJmbEhYZHU1SUVRYUNHbzgwbWE3MUdPWlNDeGp5VS1yMW9wdUxXMC1hVEk4WGdBX1lHeG9qbk5VZUQ2X1AwTW92el95bFRvaW5pY0t1VlBKUlVWbWliU3JWUnF1dVNtd0lmeXBnTkhnWFB6RWdhWlBZTjFxZUNoWnMzMEhFU0ZJX1NidXpUdkhMNXJvYlY5bHZIT2x0azdnaFpVbWxKNG5CTHI1di1VZG1KN2NLaldNdkdzNmpQV2NaRmFJcVVaWVVMQQ?oc=5)
 
 2026-05-29 <span class="news-indication-tag">Schlaganfall</span>
@@ -142,19 +134,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Weight Loss on GLP-1 Drugs Linked to Lower Risk of Disease, Study Finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
+### [La melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
-2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+2026-05-29 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
-
----
-
-### [Cómo funcionan los nuevos fármacos para la obesidad - Marbella Chic](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFA5MXRLQzRVM1dFa053VjQzcWtSN0cxWGRmSlZxSGN6ejM0bFVnM2N0dWtKRlNpSFlfdDZIQXB2MEpTOUdvSlYwSmdnT1hJazB0b3NsZEFtS2V3MzRoREVCaGliT3paWWZnXzdEZkphVEprcWVlQUQ3V1pCd2JaSDlDWEx0OF9KNTFYdEdUWk9aTXZzcGlwNQ?oc=5)
-
-2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Marbella Chic](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFA5MXRLQzRVM1dFa053VjQzcWtSN0cxWGRmSlZxSGN6ejM0bFVnM2N0dWtKRlNpSFlfdDZIQXB2MEpTOUdvSlYwSmdnT1hJazB0b3NsZEFtS2V3MzRoREVCaGliT3paWWZnXzdEZkphVEprcWVlQUQ3V1pCd2JaSDlDWEx0OF9KNTFYdEdUWk9aTXZzcGlwNQ?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
 ---
 

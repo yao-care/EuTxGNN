@@ -54,6 +54,14 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（6 則）
 
+### [Sugar swaps that could help you lose 16lbs without trying - from breakfast favourite to cupboard staples - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNJNFU5LVFGbFpVYXcwaUdNNTl2RlJqVlJwQWRiUFd6Wm5NUEhsV1FWRG9GVjItRlo5UjkxanBYaHJINkY4SUU4SjRMX2puUFpkV1VkRkdmWDFnemhqTm4wRmU1dmM3dEFjX2hJVGJYOEhqOGxFMFZPaTF0UjV0R3ZMdDNBM05BMXUtY0ZyTHNsUjlWRWhzcUNB?oc=5)
+
+2026-05-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNJNFU5LVFGbFpVYXcwaUdNNTl2RlJqVlJwQWRiUFd6Wm5NUEhsV1FWRG9GVjItRlo5UjkxanBYaHJINkY4SUU4SjRMX2puUFpkV1VkRkdmWDFnemhqTm4wRmU1dmM3dEFjX2hJVGJYOEhqOGxFMFZPaTF0UjV0R3ZMdDNBM05BMXUtY0ZyTHNsUjlWRWhzcUNB?oc=5)
+
+---
+
 ### [Cancer : ce médicament contre l’asthme pourrait aider à détruire les tumeurs](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTlZ1TmlabWJGZ1BKTzJKOEpFOUNkMHFYNThUcmIyTEZpTmlaNDNmMTlMc296ZzBja2FvRkJ2TWhrUEM0TmhfSkVjNlRMdEdnRXE4dkQ5cHVqOEpHeThET0ZqVG41VkRPY1lWb0xUdFpPQk1IRXc?oc=5)
 
 2026-05-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
@@ -86,19 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Type 2 diabetes could be a sign of this deadly cancer and spotting it fast is crucial - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
+### [La melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-05-29 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
-
----
-
-### [Un stand de sensibilisation à l’asthme et à la BPCO à l’hôpital de Bagnols pour détecter des éventuels problèmes respiratoires - Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
-
-2026-05-21 <span class="news-indication-tag">asthme</span> <span class="news-indication-tag">BPCO</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVDRaUWN6eU5rd0NjcVZJSGswaGZNcktLMC04U3Z4eS1LU0Q0aWJUTXJCOUR0UGNXeElEcmtRbU1VVlN1aENBZmdWaVdYVjBmM1RGdHkwNldkOGgybGZSdngtM2V5TGI3VTczRVVGMDU1VGJuQjNzQTdKUVduaWZYTG5PS2R6TnRPNEtJdVpzbHBjdlNkLWFFakJrMi1YbUlsN3FHMDFzWE1jOXk2bDJnc1FzLUszbmpPRVVCQk1ZbGQwRjByUV8wN0YwNVhSdXJpWkJBZ3h1ZjJXQW9JaWo0aTBYTUhMNnYzNGlLbFk5SEw5RGt6MFRLTlZqS2RyWm84RVhJ?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
 ---
 

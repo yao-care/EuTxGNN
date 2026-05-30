@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
 ### [Los países ricos controlan sus niveles de obesidad pero en los pobre sigue disparada](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
 
@@ -118,14 +118,6 @@ permalink: /news/melatonin/
 
 ---
 
-### [La terapia senolítica reduce la variabilidad del latido cardíaco en modelos de obesidad - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWE1aHdjYWppakhFOEZSRWhCSGY3VjZLVjdpdlJ0bUVtc196V1o3R0RUT0g0eGxMNFA5eWFCOW9CNjQtSmpGLThQUzdaWF9kcVZoQUJuOWVLM09xQzBZNE5pUDMzMWxkbzM4MkJBcUw0UXhHQ2habnd5OXlyR1ZLU3NTQlpuaWd4ZzZTcHkxMDFyUE5ZMEwwVHlyN3kyUkxxUUV5UFdEd0FvOXNpUnRtRVhwSGktZFhrczU3SDB2WdIBugFBVV95cUxNYTNVbXBLWmE2R1JPVDlGZ3FRWG5RUlFMM3YtbXl3a2NLd3NnZ21xTjNPZFU0OEppRjJlN0tqa0VBMWNrWDhLODllaWR5Vk5QUThWOF9OQkx5ZzdtenFnS3p6NE5JMEhjaXMya1UtUlpONDFCMk5oOERuMzFSTmYxLUNXM3pwX3VnRGo0b1BieFZkdnR1YmtRVUhFN1dCRjFQZEdEX2p3YzJ3Ti1rSlFzbG5vajNqQkIyWXc?oc=5)
-
-2026-05-29 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWE1aHdjYWppakhFOEZSRWhCSGY3VjZLVjdpdlJ0bUVtc196V1o3R0RUT0g0eGxMNFA5eWFCOW9CNjQtSmpGLThQUzdaWF9kcVZoQUJuOWVLM09xQzBZNE5pUDMzMWxkbzM4MkJBcUw0UXhHQ2habnd5OXlyR1ZLU3NTQlpuaWd4ZzZTcHkxMDFyUE5ZMEwwVHlyN3kyUkxxUUV5UFdEd0FvOXNpUnRtRVhwSGktZFhrczU3SDB2WdIBugFBVV95cUxNYTNVbXBLWmE2R1JPVDlGZ3FRWG5RUlFMM3YtbXl3a2NLd3NnZ21xTjNPZFU0OEppRjJlN0tqa0VBMWNrWDhLODllaWR5Vk5QUThWOF9OQkx5ZzdtenFnS3p6NE5JMEhjaXMya1UtUlpONDFCMk5oOERuMzFSTmYxLUNXM3pwX3VnRGo0b1BieFZkdnR1YmtRVUhFN1dCRjFQZEdEX2p3YzJ3Ti1rSlFzbG5vajNqQkIyWXc?oc=5)
-
----
-
 ### [Why You Gain Weight During Menopause—and What to Do About It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
 
 2026-05-29 <span class="news-indication-tag">obesity</span>
@@ -134,19 +126,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Weight Loss on GLP-1 Drugs Linked to Lower Risk of Disease, Study Finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
+### [La melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
-2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+2026-05-29 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
-
----
-
-### [Cómo funcionan los nuevos fármacos para la obesidad - Marbella Chic](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFA5MXRLQzRVM1dFa053VjQzcWtSN0cxWGRmSlZxSGN6ejM0bFVnM2N0dWtKRlNpSFlfdDZIQXB2MEpTOUdvSlYwSmdnT1hJazB0b3NsZEFtS2V3MzRoREVCaGliT3paWWZnXzdEZkphVEprcWVlQUQ3V1pCd2JaSDlDWEx0OF9KNTFYdEdUWk9aTXZzcGlwNQ?oc=5)
-
-2026-05-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Marbella Chic](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFA5MXRLQzRVM1dFa053VjQzcWtSN0cxWGRmSlZxSGN6ejM0bFVnM2N0dWtKRlNpSFlfdDZIQXB2MEpTOUdvSlYwSmdnT1hJazB0b3NsZEFtS2V3MzRoREVCaGliT3paWWZnXzdEZkphVEprcWVlQUQ3V1pCd2JaSDlDWEx0OF9KNTFYdEdUWk9aTXZzcGlwNQ?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
 ---
 

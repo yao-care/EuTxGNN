@@ -54,11 +54,19 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（6 則）
 
-### ['Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
+### [Herzerkrankungen: 99% hätten durch Lebensstil verhindert werden können - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hKcWxhWHh6ZXFnZjBGQjlMM3lpMnlLcm5oXzNxdG1hVHBGYjlneXoxb3VnRVNiQTJlTzh4M3dXbjdET2lGbEhSRWFLZ2hDbHdjWU84bTNyOEhVVk5kX2NEMlE1cEhOZFlTTDNRcHpkd0Mybm9kTVA0T0M0OFFEUEg3MVJYdlhnUDFaU1M4RjljcmFRVTFtdjI2a25IaFcza2EyOHlxWGl2blEwZDllQi1pTWUweXdXSS1N?oc=5)
 
-2026-05-30 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+2026-05-30 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hKcWxhWHh6ZXFnZjBGQjlMM3lpMnlLcm5oXzNxdG1hVHBGYjlneXoxb3VnRVNiQTJlTzh4M3dXbjdET2lGbEhSRWFLZ2hDbHdjWU84bTNyOEhVVk5kX2NEMlE1cEhOZFlTTDNRcHpkd0Mybm9kTVA0T0M0OFFEUEg3MVJYdlhnUDFaU1M4RjljcmFRVTFtdjI2a25IaFcza2EyOHlxWGl2blEwZDllQi1pTWUweXdXSS1N?oc=5)
+
+---
+
+### ['Absolute warrior' baby who suffered stroke at birth celebrates first birthday - STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI3dGV1Y3U0bjY4ZmdrWUZNTVpadzhobkJIN3Z1NmJNc0NWX09JYkRvTGR1RjRVM0RoRm90eG56TVRNU2x5YlZBTXdSSkc0MVlnUHpUcXRyUkJWM01UQVNqejlTTWZTTjJrUzAyV0M4UmhOV3NRZG1PdWFFdm1MdTNXbnJ3SmVNbWdXZnQ0WmFvdDdtclEyODh0YWlSQTRoU2dQVXo2YlZvQW5namc?oc=5)
+
+2026-05-30 <span class="news-indication-tag">stroke</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI3dGV1Y3U0bjY4ZmdrWUZNTVpadzhobkJIN3Z1NmJNc0NWX09JYkRvTGR1RjRVM0RoRm90eG56TVRNU2x5YlZBTXdSSkc0MVlnUHpUcXRyUkJWM01UQVNqejlTTWZTTjJrUzAyV0M4UmhOV3NRZG1PdWFFdm1MdTNXbnJ3SmVNbWdXZnQ0WmFvdDdtclEyODh0YWlSQTRoU2dQVXo2YlZvQW5namc?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Allarme sigarette elettroniche: «Danni irreversibili, progettati per intrappolare i più giovani». L'appello della regina Letizia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXRpWWw3b2NNb05NSVFFeXNnTFY1WlJvejh3YTRKYk9WYm1hMEozZnE5VEVuNnU5X2tZRGhfZXF0WEZvSWpyN1Y5S0pNRFdpdVBLeFFBalJGYWdpYl81RE9tb2IwV2YyS2tJMW92Z1F6SWRMSzBXa1llZm8wejVqNUdTZ0VsYVUzR0FWMktjcm5FNG5GMXV0NzFOZEdpb3lCSWxUdWE4blZDekFkblBZcUgwZEJJWUYzTGxHM1Y0RVhIMjdCd0xGcGVxQXo0UmVHTnVkb3lSblY0WVFXV3dETW94OUNYOHpvMFItMTNB0gHYAUFVX3lxTE9XNzVkaXZCaWh1aksta0UyZ29hTER2YVl6RDFzRWlsbmJhS3NERVJpc2RWZHl6ODhzaWEyN0xXZzYtRVNXYVI5ajd2U1ducFVRb3VJLXBIdXdhQlFzQnpBMUpERjQ0MTRhQ00yYUVHLU1tRjFqSE9Vc1ZQNndici05dXJpa2VyQURWLVJJOUptVDBQWXp5dlBDUEwzOFVLLXBleXVMVmp3ZVZuNHRiNHRDeE9zcDFBaXBiTFo2VFMxMWpPN21pVHhNWTdNeVM3SHBKeUYwS1k2OA?oc=5)
+### ['Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
 
-2026-05-29 <span class="news-indication-tag">ictus</span>
+2026-05-29 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXRpWWw3b2NNb05NSVFFeXNnTFY1WlJvejh3YTRKYk9WYm1hMEozZnE5VEVuNnU5X2tZRGhfZXF0WEZvSWpyN1Y5S0pNRFdpdVBLeFFBalJGYWdpYl81RE9tb2IwV2YyS2tJMW92Z1F6SWRMSzBXa1llZm8wejVqNUdTZ0VsYVUzR0FWMktjcm5FNG5GMXV0NzFOZEdpb3lCSWxUdWE4blZDekFkblBZcUgwZEJJWUYzTGxHM1Y0RVhIMjdCd0xGcGVxQXo0UmVHTnVkb3lSblY0WVFXV3dETW94OUNYOHpvMFItMTNB0gHYAUFVX3lxTE9XNzVkaXZCaWh1aksta0UyZ29hTER2YVl6RDFzRWlsbmJhS3NERVJpc2RWZHl6ODhzaWEyN0xXZzYtRVNXYVI5ajd2U1ducFVRb3VJLXBIdXdhQlFzQnpBMUpERjQ0MTRhQ00yYUVHLU1tRjFqSE9Vc1ZQNndici05dXJpa2VyQURWLVJJOUptVDBQWXp5dlBDUEwzOFVLLXBleXVMVmp3ZVZuNHRiNHRDeE9zcDFBaXBiTFo2VFMxMWpPN21pVHhNWTdNeVM3SHBKeUYwS1k2OA?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/telmisartan/
 2026-05-29 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMa2tEUWl4VFRxZVk4OXJmbEhYZHU1SUVRYUNHbzgwbWE3MUdPWlNDeGp5VS1yMW9wdUxXMC1hVEk4WGdBX1lHeG9qbk5VZUQ2X1AwTW92el95bFRvaW5pY0t1VlBKUlVWbWliU3JWUnF1dVNtd0lmeXBnTkhnWFB6RWdhWlBZTjFxZUNoWnMzMEhFU0ZJX1NidXpUdkhMNXJvYlY5bHZIT2x0azdnaFpVbWxKNG5CTHI1di1VZG1KN2NLaldNdkdzNmpQV2NaRmFJcVVaWVVMQQ?oc=5)
-
----
-
-### [Herzinfarkt-Prävention: 99% hätten Risiken erkennen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPemhIU1VVWDV4bjhWZ2tHMS1uWEFaM3FhTXNwSERwS21KNFl4MFdNYXhjYnBLTVlXWnFfYnphU0ZvaXM5ZHE3ZktiMHVpY0wtNFhidk94VEM2aWtHekhQZ3JyQkJGUm9neXIwSVhlZlhod1ZtekEtQWRhcXVHRXFRNHZFWE91MW5pNVotMFVwS2gxNkM3WGpSUzl3ZmpjVEEwdkwtV0YzbzZzaU80Ml8xbXN5dURWS28?oc=5)
-
-2026-05-28 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPemhIU1VVWDV4bjhWZ2tHMS1uWEFaM3FhTXNwSERwS21KNFl4MFdNYXhjYnBLTVlXWnFfYnphU0ZvaXM5ZHE3ZktiMHVpY0wtNFhidk94VEM2aWtHekhQZ3JyQkJGUm9neXIwSVhlZlhod1ZtekEtQWRhcXVHRXFRNHZFWE91MW5pNVotMFVwS2gxNkM3WGpSUzl3ZmpjVEEwdkwtV0YzbzZzaU80Ml8xbXN5dURWS28?oc=5)
 
 ---
 

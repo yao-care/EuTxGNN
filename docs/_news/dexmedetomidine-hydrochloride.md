@@ -54,14 +54,6 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ## 相關新聞（3 則）
 
-### ['Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
-
-2026-05-30 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
-
----
-
 ### [Las palabras importan: la SEN publica una guía para comunicar mejor sobre la migraña](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
 2026-05-29 <span class="news-indication-tag">migraña</span>
@@ -75,6 +67,14 @@ permalink: /news/dexmedetomidine-hydrochloride/
 2026-05-29 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMickFVX3lxTE1nSWtNTHZQejZtME9IZFdkX0c1aEhXNFdRS2RYeXBnajhidnczRS1fdG5pdnAtZWlMTGR1V0JVZ3ozenhIYkpvckFkNS1UaWNvZlhKQ1hjSHAxUWY0SDBDWS1FSENCZmFoVnlPU3d3cGx4QQ?oc=5)
+
+---
+
+### ['Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
+
+2026-05-29 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
 
 ---
 

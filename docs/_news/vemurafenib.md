@@ -14,7 +14,7 @@ permalink: /news/vemurafenib/
 ---
 
 <p class="key-answer" data-question="Vemurafenib 有什麼相關新聞？">
-<strong>Vemurafenib</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vemurafenib</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,43 @@ permalink: /news/vemurafenib/
 <p><a href="{{ '/drugs/vemurafenib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（33 則）
+
+### [Darmkrebs vorbeugen: Forscher kommen zu überraschendem Ergebnis beim Stuhltest](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
+
+2026-05-30 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
+
+---
+
+### [Un ensayo clínico "sin precedentes" muestra que una vacuna contra el cáncer puede erradicar tumores completos en pacientes](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjNkN2xnb1ZLUk1DeVhnbjBzMkEya1piZm9vSk4zYXprZEUxWS1IMWNGOHgwck5KdFN5OEtkNDJZZU5pc29QM0FsS2dXbENzd2Zmbm1pck5kUnJGYk9fbk9tYlI0VHZTWlh6Q1JOYWtRLVlQaFZucnlLQTNuajdiTE1ab19JM2FnT1pnZ21JT3RTNEthMEpZTDZmU2g0eHFZak13ZDhDNHFseEVQR08xb3MzNjV3X2xL?oc=5)
+
+2026-05-30 <span class="news-indication-tag">tumor</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjNkN2xnb1ZLUk1DeVhnbjBzMkEya1piZm9vSk4zYXprZEUxWS1IMWNGOHgwck5KdFN5OEtkNDJZZU5pc29QM0FsS2dXbENzd2Zmbm1pck5kUnJGYk9fbk9tYlI0VHZTWlh6Q1JOYWtRLVlQaFZucnlLQTNuajdiTE1ab19JM2FnT1pnZ21JT3RTNEthMEpZTDZmU2g0eHFZak13ZDhDNHFseEVQR08xb3MzNjV3X2xL?oc=5)
+
+---
+
+### [NHS cancer jab eradicates tumours - The Telegraph](https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2JVV0FBbUpqLTNIcEhiY1N0dzRBRlN4SnZMVzVNWUlvV3VWb1ROYW4zT2pVOEszcVpzVk03ajZwOUdpU3kyckdYelJNSE91d3EyaU5kV1lINU5CcnRRRDgyR2swLXlHb0hEOHczQ0tRSm9MOEQ1VUJDS1pHd1RKU0ZrUVU?oc=5)
+
+2026-05-30 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2JVV0FBbUpqLTNIcEhiY1N0dzRBRlN4SnZMVzVNWUlvV3VWb1ROYW4zT2pVOEszcVpzVk03ajZwOUdpU3kyckdYelJNSE91d3EyaU5kV1lINU5CcnRRRDgyR2swLXlHb0hEOHczQ0tRSm9MOEQ1VUJDS1pHd1RKU0ZrUVU?oc=5)
+
+---
+
+### [Cancer de la peau : des chercheurs ont conçu un «tatouage» capable de détecter un mélanome](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjZ3TmxmbENJSVZrWFBaUlhnQ1doaUpPaVl0eS1oX2xDVVZmdWpqTDNwY3gxb1dMMXFZaEsyR1VmNkFYMmZ6a0VmTjhhU0RxWlJaZ1QteXRtS0tKRWVBS3owRGVUN0ZfcTVpZ0tCU3haeERxem9FMDRiTmNzb0VqUm92TEFSVlVyUkNzQlcwNGFuSDZnNU9EeWRRU0Z1MTRLWWx2dmhfWHJDYlpTaHFIOU9IYjFtUdIBuwFBVV95cUxQbmxjOENzcGhhSTQ4dy1QaXZyazczMVRZWU1iOEJPRnNYekFtZzN0TnZOUzZTVTU2N1d4T3IwV1l2SVpxUWVUSkU5ZDQwUHFvMGUwNmFudndiLWU3ejJLd21SNkRzcVBiTF96VTEySjdURzB1VE1pWnFJcFpZazc1Nk5FZTVZbm1uaTZMaW9Ya1ZKRjRxOWxZRXlMek8yM0JSMXBLa1FBYlVhT296Vm1MX184SWU3V09Cb3Fv?oc=5)
+
+2026-05-30 <span class="news-indication-tag">cancer</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjZ3TmxmbENJSVZrWFBaUlhnQ1doaUpPaVl0eS1oX2xDVVZmdWpqTDNwY3gxb1dMMXFZaEsyR1VmNkFYMmZ6a0VmTjhhU0RxWlJaZ1QteXRtS0tKRWVBS3owRGVUN0ZfcTVpZ0tCU3haeERxem9FMDRiTmNzb0VqUm92TEFSVlVyUkNzQlcwNGFuSDZnNU9EeWRRU0Z1MTRLWWx2dmhfWHJDYlpTaHFIOU9IYjFtUdIBuwFBVV95cUxQbmxjOENzcGhhSTQ4dy1QaXZyazczMVRZWU1iOEJPRnNYekFtZzN0TnZOUzZTVTU2N1d4T3IwV1l2SVpxUWVUSkU5ZDQwUHFvMGUwNmFudndiLWU3ejJLd21SNkRzcVBiTF96VTEySjdURzB1VE1pWnFJcFpZazc1Nk5FZTVZbm1uaTZMaW9Ya1ZKRjRxOWxZRXlMek8yM0JSMXBLa1FBYlVhT296Vm1MX184SWU3V09Cb3Fv?oc=5)
+
+---
 
 ### [Trial of multi-cancer blood test among 142,000 NHS patients fails to meet main aim - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjEwNFF0OXpocTRublowMmM3TXQ3NXFYZUs4bnRBdmhqam1nX1RoRmplZ0tWQmhJTV9sV0xUbnhwbzhqTGt1VHdaYkFpTldVcU9rdmlCckY4ZGVtMkFMcTdQOHNzZldtNWZNSHBoSmxIRFBrOUl5WVpzZ0RQdTkzcUtGT3hONC0wWEV1SFVlS1hOb0RUVlctRHJoZVFBb0Rtd2RuVnBEbjFZUnRDelhtQVBXQ0lwdWpEYXRNblpGNnhDVXB5OEphcg?oc=5)
 
-2026-05-30 <span class="news-indication-tag">cancer</span>
+2026-05-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjEwNFF0OXpocTRublowMmM3TXQ3NXFYZUs4bnRBdmhqam1nX1RoRmplZ0tWQmhJTV9sV0xUbnhwbzhqTGt1VHdaYkFpTldVcU9rdmlCckY4ZGVtMkFMcTdQOHNzZldtNWZNSHBoSmxIRFBrOUl5WVpzZ0RQdTkzcUtGT3hONC0wWEV1SFVlS1hOb0RUVlctRHJoZVFBb0Rtd2RuVnBEbjFZUnRDelhtQVBXQ0lwdWpEYXRNblpGNnhDVXB5OEphcg?oc=5)
 
@@ -78,14 +110,6 @@ permalink: /news/vemurafenib/
 
 ---
 
-### [Darmkrebs vorbeugen: Forscher kommen zu überraschendem Ergebnis beim Stuhltest](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
-
-2026-05-30 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
-
----
-
 ### [Krebs: Forscher knacken erstmals Schutzschild gefährlicher Tumorzellen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm5yak4zbzZvUzZFSXlyUWlXM3dtRmY2T2x2ckVVV3BkenVxc0huY2I5S3Z0R1ZSOHdNSGdjSXNKY3lpSHpyMVZrV25uVUFwa3hNZmdIaE00TWZGWWFwbUk5V3BWUjhRQ2k0azNKNllOYnJWRFc4RzNFci02djQ5WHlvVG5KMDZsamtaamR0Q0N1QmVoX0lfUTd0VkNpRzNKaFI0OVRzc0hYQlBtYjAxVEZyUDBIdEMxeFBXYWVXaUhvTFdUUWo0QlpDNHF5RGh5SGlIVw?oc=5)
 
 2026-05-30 <span class="news-indication-tag">tumor</span>
@@ -99,22 +123,6 @@ permalink: /news/vemurafenib/
 2026-05-30 <span class="news-indication-tag">cancer</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMifEFVX3lxTE5Fa3AzaXVzMTlMYWdHcEd4WGhLak9CeGhaYnV3N1ZrSzJjcE80RXM1bkFyUnk4LWxrUHJ2R2NKM0VUUWkzVFRCQXhFb0FFUEtsQWs0TlJiVUtfUXpVNEliZzhsQVdqQzNhMHVlaEtaQUNCUXUyOFI2S1RSV3A?oc=5)
-
----
-
-### [Millions of breast cancer patients could safely avoid chemotherapy, study suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMzNCNGZqY3IzQ0pLa1pxd1Z0by0wVlNNZm8xNDFsSGhoZTRTb2VIY0tYZDVQY2RCamxMYWlHZ3pKdFltSVdPczh4UGtvVWZudkJjU2ZLMjZNbDl6?oc=5)
-
-2026-05-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMzNCNGZqY3IzQ0pLa1pxd1Z0by0wVlNNZm8xNDFsSGhoZTRTb2VIY0tYZDVQY2RCamxMYWlHZ3pKdFltSVdPczh4UGtvVWZudkJjU2ZLMjZNbDl6?oc=5)
-
----
-
-### [Lack of sleep ‘fuelling cancer surge in under 50s’ - The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkgtUkFJRDNIT01XczJlVVNhVHc0aTlsdGhzVDJaa2ZHbEZnQVhyeGEyNkNMbjhOT3Z3Z3pqLUZaVTVqUER5WXJ3WF8xYXI5SlYwbkNaMG9xV0M3Q1czaGdpNkJhNExWdEJBNGhfM2hESVdEZ0ZwOGRMMmFNZ3MzSExoclJVdWxubUxIRlc4ZC1xaUFoQTNtUA?oc=5)
-
-2026-05-30 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkgtUkFJRDNIT01XczJlVVNhVHc0aTlsdGhzVDJaa2ZHbEZnQVhyeGEyNkNMbjhOT3Z3Z3pqLUZaVTVqUER5WXJ3WF8xYXI5SlYwbkNaMG9xV0M3Q1czaGdpNkJhNExWdEJBNGhfM2hESVdEZ0ZwOGRMMmFNZ3MzSExoclJVdWxubUxIRlc4ZC1xaUFoQTNtUA?oc=5)
 
 ---
 
@@ -142,6 +150,14 @@ permalink: /news/vemurafenib/
 
 ---
 
+### [Poor sleep linked to rising cancer risk in under-50s - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9JTDBLbmQzZ1N2eHptZ0E0aHlIVGZ6NmxmNHVTVkFlTHY2NFZZRDM4c0RBalZKb210Q1RCYmpQNE5nS21fY3Y2SXBYVmIzb2k2RDR4V2plM0s1N3A2cUhNdUpTWVRTN2M1S0lxQ3RCNjEzSTRndHFyU2RROUpGR0x3WWhiZzh1LXlpcDN1QU1qTG9nS0lKX29B?oc=5)
+
+2026-05-30 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9JTDBLbmQzZ1N2eHptZ0E0aHlIVGZ6NmxmNHVTVkFlTHY2NFZZRDM4c0RBalZKb210Q1RCYmpQNE5nS21fY3Y2SXBYVmIzb2k2RDR4V2plM0s1N3A2cUhNdUpTWVRTN2M1S0lxQ3RCNjEzSTRndHFyU2RROUpGR0x3WWhiZzh1LXlpcDN1QU1qTG9nS0lKX29B?oc=5)
+
+---
+
 ### [Lung cancer deaths trace the rise and fall of smoking - Our World in Data](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWU9JLThVQUUtQkk4cHh4Qk43Q0lILTJaQ0UyRk5UVk9JSEw4RmNPNTVkSGRvZnhDSU1vMEhzQ2dmdVpDZ2Z4emd3clRYVWRlVzJkOThKR0l6MURxVTJUdnBMejMzZmhNcUNlLUwyZG5NenRBOVNEUjQxYWFhLVdwM1BMcDdieS1iOG1uTjQzS2c2ZFNXWkIySGl3?oc=5)
 
 2026-05-30 <span class="news-indication-tag">cancer</span>
@@ -150,7 +166,15 @@ permalink: /news/vemurafenib/
 
 ---
 
-### [Block on prostate screening lacks humanity, say MPs - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1BiQndEWEtkdGdxZk9SaWJkUUszcU4xd1ZFZGtVRTVsMVpYQWgwT0VWWDdhTUEwemxLYnozSk80NVExNnZMTXlubTQwYzhqRTJuOVZzSGNrWjludXpINXJzQ0lsY1NRTXd0RWEzZVRUWkpxNHFwVkhPeThxYkVDdy1YTUVBVWZQTzBmWUZBcFRnbS1nbWdYYmd2V2NkV3NBOTNFX1J3?oc=5)
+### [Genetic test could offer breast cancer patients chance to skip chemo - The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0NUbHlRNkJyUlNLLVRrcVZWRmpVcW02X21pNlBtMFNPNTBzOG1KeTlNbGh6R3Y3X2J5bzN1eHVzWVdyMVVxSV92bF9POXpiMWh6MURlVWt6cXRFazFyWWVJNlhJOWQ4c2s0Mk9iYUFvUWZ5b0VTS3FRVHRPZXRuRUVqdkhtQk1xMzYtRFZ2dC10UGZYOFJJN09HQTNLUzRkOWdMUURNbUNNamJQYlhR?oc=5)
+
+2026-05-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0NUbHlRNkJyUlNLLVRrcVZWRmpVcW02X21pNlBtMFNPNTBzOG1KeTlNbGh6R3Y3X2J5bzN1eHVzWVdyMVVxSV92bF9POXpiMWh6MURlVWt6cXRFazFyWWVJNlhJOWQ4c2s0Mk9iYUFvUWZ5b0VTS3FRVHRPZXRuRUVqdkhtQk1xMzYtRFZ2dC10UGZYOFJJN09HQTNLUzRkOWdMUURNbUNNamJQYlhR?oc=5)
+
+---
+
+### [Advice to restrict prostate screening ‘lacks humanity’, say MPs - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1BiQndEWEtkdGdxZk9SaWJkUUszcU4xd1ZFZGtVRTVsMVpYQWgwT0VWWDdhTUEwemxLYnozSk80NVExNnZMTXlubTQwYzhqRTJuOVZzSGNrWjludXpINXJzQ0lsY1NRTXd0RWEzZVRUWkpxNHFwVkhPeThxYkVDdy1YTUVBVWZQTzBmWUZBcFRnbS1nbWdYYmd2V2NkV3NBOTNFX1J3?oc=5)
 
 2026-05-29 <span class="news-indication-tag">cancer</span>
 
@@ -190,6 +214,14 @@ permalink: /news/vemurafenib/
 
 ---
 
+### [Krebs: „Ich bin selbst schuld“](https://news.google.com/rss/articles/CBMigwFBVV95cUxOcks1Q3ZXbFZQY1dBZWxWb2NCdVZjd0g4a2E4UDA1UTdLOVhORV9GTXJjb2NoM1FjdF9jeXpHREtpZUQ4bDBwNGRSdEowb09pMDJwQkJqakQySHU0X1N3ZG9pNDhTY25pNnhaZXoxQTM3MVNObi0wUllrTEZSdEl5d292TQ?oc=5)
+
+2026-05-29 <span class="news-indication-tag">Krebs</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOcks1Q3ZXbFZQY1dBZWxWb2NCdVZjd0g4a2E4UDA1UTdLOVhORV9GTXJjb2NoM1FjdF9jeXpHREtpZUQ4bDBwNGRSdEowb09pMDJwQkJqakQySHU0X1N3ZG9pNDhTY25pNnhaZXoxQTM3MVNObi0wUllrTEZSdEl5d292TQ?oc=5)
+
+---
+
 ### [Gesunder Schlaf könnte mit geringerem Risiko für gastrointestinale Krebserkrankungen assoziiert sein - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYU02NkMyMjNRVk9PbVg1dUJtREJidGc1TjkxNGJIMlFQNWFuemp1T1ZZcG51SFBVTVNKQi1KRmxqNDhiYW12a3ZfX2dxRllMUExIbVRfOFB5WThCa29EajlCY0ppVzF6cVJtREpLdWNDT2wtclE4OXh3cGkxay1acUg3aGxodTBGNGxzdDE1Wmx0U0hteXNzSXpibzJfc0hRcTg5ZVJMTDZVUThEcHp1aGx2LVNHSVBubkhaWjlaOGM5X0oxb3MwY0o5aVZKM2RyTE1BU1ZDMWZkRjZBNC1yNGtLMThCZlZLM3F5VzhMVUxBODhiOGRsa3B2UXpsdw?oc=5)
 
 2026-05-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -206,19 +238,19 @@ permalink: /news/vemurafenib/
 
 ---
 
+### [Only 20% of Sunscreens Meet Safety Standards. What to Know Before You Buy](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWpQSVBaNjlWMXRvbUFRcEU2M2RRZ1ZrYm1NNUF6UGtvMGV0cjQ5V3AxLTJDa3I4QjF2a3FGODdCYWlqdzNlMUVycUp0Q3NtamZLVE1Xd3IxUGNBcVJBd2VzZGZoQmVsOWt3cGZGdkQ0UXlScS05Ri1wUEt4VGY5SmRZU0NSZ1pSSHBmdWFkdmk2cDZCOWtCNW1jNjBMcmM?oc=5)
+
+2026-05-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWpQSVBaNjlWMXRvbUFRcEU2M2RRZ1ZrYm1NNUF6UGtvMGV0cjQ5V3AxLTJDa3I4QjF2a3FGODdCYWlqdzNlMUVycUp0Q3NtamZLVE1Xd3IxUGNBcVJBd2VzZGZoQmVsOWt3cGZGdkQ0UXlScS05Ri1wUEt4VGY5SmRZU0NSZ1pSSHBmdWFkdmk2cDZCOWtCNW1jNjBMcmM?oc=5)
+
+---
+
 ### [Semaglutide, perdere peso con i nuovi farmaci è associato a un rischio ridotto di malattie a reni, cuore e ossa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
 
 2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
-
----
-
-### [Fumo, il calo si ferma davanti ai giovani - Giornale di Brescia](https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0pBUkk1Z2FhaDdnWVZXbjJud0RFX29mUUozUFBaanFUQVZjdkowdzVuODktTURVRzFVM1I5X2M2azhZRlBudUM0bjE3NTNaeUFWVW1SQkxrSXNjYWFLenFxYVpGVFBXZVhJTlk2bDQzS0Q5b3lpZHlXRERPTWxmM0lOR3liVXU3VVBlcHBsajQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">tumor</span>
-
-來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0pBUkk1Z2FhaDdnWVZXbjJud0RFX29mUUozUFBaanFUQVZjdkowdzVuODktTURVRzFVM1I5X2M2azhZRlBudUM0bjE3NTNaeUFWVW1SQkxrSXNjYWFLenFxYVpGVFBXZVhJTlk2bDQzS0Q5b3lpZHlXRERPTWxmM0lOR3liVXU3VVBlcHBsajQ?oc=5)
 
 ---
 
@@ -262,14 +294,6 @@ permalink: /news/vemurafenib/
 
 ---
 
-### [Type 2 diabetes could be a sign of this deadly cancer and spotting it fast is crucial - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55Q0pNYkFtajRLclhLTjJqRDZmQXB3NUlBTVRyNnFVSXJRQU00Rm50R2o5Mmd6eTBJOFhSVkVSYkxzQ3J0dkhUbFpxeDFWWlhRMVRjUFFMdkdZUjlFb3NGSjVxNGEtdl9hMWNiLWNCanU4NW9uTk5SYm5PN1VRcl9BOE53QThyaWNtb1BB0gGTAUFVX3lxTE9SRkRWTjBrV3JaVmtwNUdPQUlNT202YUZTU250dTg0SzUxTnJ0X0VhblZZZ1NsVlQtOUdWdDBzVTNzUjFHSjZGWnoycGxEVml6bDV5NjJqdnppOFFnd0MxWm5JcVFVY1JCM203djBaMUJuaDlUV21YckVXdjJIVlNrQkRJLTJpRmxvS2swQXNMY0JCaw?oc=5)
-
----
-
 ### [Why More People in Their 30s Are Suddenly Getting Colon Cancer](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXRkWFh0ajROREZQM1Z5cHpqSmJnV1Y2N0M0MFBBNmVyNGRYZVd0ZFYwTXpPOGN5Q1lxUHItdDRvN29QalcxTGxQX3VaWjc1cldpZllaYnNWMWUtRm5hNlNTSmQtV05NQ09zUGNkdWE3TTVDRkVkNVo0WENFUzhTR3RIa0Q1ZVZzbHpxNWtSbnV0QQ?oc=5)
 
 2026-05-29 <span class="news-indication-tag">cancer</span>
@@ -288,7 +312,7 @@ permalink: /news/vemurafenib/
 
 ### [Weight Loss on GLP-1 Drugs Linked to Lower Risk of Disease, Study Finds](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
 
-2026-05-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+2026-05-28 <span class="news-indication-tag">cancer</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxWek1wNVUzRy1VdzMyTURFYjZFTFVJNGpyRmRXWTZVSUxrMzRIVmVjTjZTd0ZtSUZWR1BOZ05YZG14Ri1ldkloSUFIREhiRlZKckZlMXNDdFF5V3lXVVJ6eW9Sdk0wWjNsQTF5VVFOY1NWVzJob0ZwVjUwZzBPWElJcEdFcmpxbkVJcV9pMjhybTdsQ2c4YmNTVFoxRTRN?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Los trastornos de salud mental son ahora la causa número 1 de discapacidad en todo el mundo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU4wQ1piZHBRTVUzNW1zZjBDNnBPakJtVlZKZ2U5OUYxbVZ6aGZ4aHBFWlJ5dEJmMDQ1emtwbFBBdmVEbGpKbzRyc0F5S1JrSnVYNWc1NVBGelFYYmRzSDAzeDRMd21FVm9aTGRNbWRjRG05RWpGdlhVT2s3b1lUVkFfUFIwcjUyM1M1YzY3Nnh1OE1rdXgzcWEzdXY4ZjBiQ0hrTkhMUmo4a1E2V2l3OC1CS1RHTXM4NVF0TDNmajRqdl9mXzNSbGdTYUhNUdIB6AFBVV95cUxONTdYMUVadm9wckZ1T2ZDbjA1Rm5iUDB3OWpBVHhibjR3SHFkbkxmaHdWUXo0TjcyY2dOMDNuUHk3bVFFMEtPRkVEQ3gyc1QtRUxYbzJwOWthQThvRm90YkRvY09qOHYyenY4OGNhUDI1WXFxTmR3SW01cDJtVmdSYnhUa1JucUVXRlhYX2hHT0ozM0dwRGRPcU9lSnpHN3k0WmRHTXJfSFN2V2l2YlZxUHNKVFVMQnhWb1VpZzFfaF9GSTFLbmQ2Q29Db05iRE5Nbk5iWFZDMm8xaEt5eUZSWGdvNk5KM3ZQ?oc=5)
-
-2026-05-30 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU4wQ1piZHBRTVUzNW1zZjBDNnBPakJtVlZKZ2U5OUYxbVZ6aGZ4aHBFWlJ5dEJmMDQ1emtwbFBBdmVEbGpKbzRyc0F5S1JrSnVYNWc1NVBGelFYYmRzSDAzeDRMd21FVm9aTGRNbWRjRG05RWpGdlhVT2s3b1lUVkFfUFIwcjUyM1M1YzY3Nnh1OE1rdXgzcWEzdXY4ZjBiQ0hrTkhMUmo4a1E2V2l3OC1CS1RHTXM4NVF0TDNmajRqdl9mXzNSbGdTYUhNUdIB6AFBVV95cUxONTdYMUVadm9wckZ1T2ZDbjA1Rm5iUDB3OWpBVHhibjR3SHFkbkxmaHdWUXo0TjcyY2dOMDNuUHk3bVFFMEtPRkVEQ3gyc1QtRUxYbzJwOWthQThvRm90YkRvY09qOHYyenY4OGNhUDI1WXFxTmR3SW01cDJtVmdSYnhUa1JucUVXRlhYX2hHT0ozM0dwRGRPcU9lSnpHN3k0WmRHTXJfSFN2V2l2YlZxUHNKVFVMQnhWb1VpZzFfaF9GSTFLbmQ2Q29Db05iRE5Nbk5iWFZDMm8xaEt5eUZSWGdvNk5KM3ZQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

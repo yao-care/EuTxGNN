@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Obésité : le remboursement sous condition des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
 
 2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
-
----
-
-### [Pharmacist issues antidepressant 'hydrate' alert for anyone taking them - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3ZmSFlLclFlS0liaTEySm5BTHhEaFJMZ2xXSURSNUdGbE5ySUxWSGoxcHlucEtpTzJkOXY0TkExSzJhX1NCcUZERWktRlZhQjdITzUwYXVzWkh3Y2o2NFltN1dDandQMHJqaVV0QVdrWk05N0pJelJ5NjBzWTJJaElmU0I3a2JvQmkxNEx3?oc=5)
-
-2026-05-28 <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3ZmSFlLclFlS0liaTEySm5BTHhEaFJMZ2xXSURSNUdGbE5ySUxWSGoxcHlucEtpTzJkOXY0TkExSzJhX1NCcUZERWktRlZhQjdITzUwYXVzWkh3Y2o2NFltN1dDandQMHJqaVV0QVdrWk05N0pJelJ5NjBzWTJJaElmU0I3a2JvQmkxNEx3?oc=5)
 
 ---
 

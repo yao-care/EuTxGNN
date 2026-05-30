@@ -14,7 +14,7 @@ permalink: /news/pantoprazole/
 ---
 
 <p class="key-answer" data-question="Pantoprazole 有什麼相關新聞？">
-<strong>Pantoprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pantoprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/pantoprazole/
 <p><a href="{{ '/drugs/pantoprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [BBC Dr Xand gives 'increased risk' update to Omeprazole and Lansoprazole users after study - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE50VVpiYnlUcXdXVzNOWVd4TzVBcWVjdG5KaF9pVkZOcGNCYWl2dEdMbUtRYXFHZ29oV3JoTmZ5NlhVcjlzTmIyOEl5aUtMQmZiRllFUG10Z1BBeE0wRlNvSG04aHh3Vk9DX0VlZlBDV2pEZ3VWOF92M2Rua2RXd9IBgwFBVV95cUxOWDhGSVd6ZWo1dE5tV2hIaWs4TjhKQWZoMzRudXZtUER4eG1OenVPQzVZT3ZpOHFidFdDazM1enU4eUFHUnZVZml1bmptcndtWlVHem9ETHBReWpGYXFsTS0xNEdZLXFWQjhhcEtTazlucWhsTGRoR3BTLXRXSzlnYkl5VQ?oc=5)
-
-2026-05-28 <span class="news-drug-tag">Pantoprazole</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE50VVpiYnlUcXdXVzNOWVd4TzVBcWVjdG5KaF9pVkZOcGNCYWl2dEdMbUtRYXFHZ29oV3JoTmZ5NlhVcjlzTmIyOEl5aUtMQmZiRllFUG10Z1BBeE0wRlNvSG04aHh3Vk9DX0VlZlBDV2pEZ3VWOF92M2Rua2RXd9IBgwFBVV95cUxOWDhGSVd6ZWo1dE5tV2hIaWs4TjhKQWZoMzRudXZtUER4eG1OenVPQzVZT3ZpOHFidFdDazM1enU4eUFHUnZVZml1bmptcndtWlVHem9ETHBReWpGYXFsTS0xNEdZLXFWQjhhcEtTazlucWhsTGRoR3BTLXRXSzlnYkl5VQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

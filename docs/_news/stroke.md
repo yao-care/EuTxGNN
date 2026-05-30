@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,19 +41,19 @@ permalink: /news/stroke/
 
 ## 相關新聞（3 則）
 
+### ['Absolute warrior' baby who suffered stroke at birth celebrates first birthday - STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI3dGV1Y3U0bjY4ZmdrWUZNTVpadzhobkJIN3Z1NmJNc0NWX09JYkRvTGR1RjRVM0RoRm90eG56TVRNU2x5YlZBTXdSSkc0MVlnUHpUcXRyUkJWM01UQVNqejlTTWZTTjJrUzAyV0M4UmhOV3NRZG1PdWFFdm1MdTNXbnJ3SmVNbWdXZnQ0WmFvdDdtclEyODh0YWlSQTRoU2dQVXo2YlZvQW5namc?oc=5)
+
+2026-05-30
+
+來源：[STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI3dGV1Y3U0bjY4ZmdrWUZNTVpadzhobkJIN3Z1NmJNc0NWX09JYkRvTGR1RjRVM0RoRm90eG56TVRNU2x5YlZBTXdSSkc0MVlnUHpUcXRyUkJWM01UQVNqejlTTWZTTjJrUzAyV0M4UmhOV3NRZG1PdWFFdm1MdTNXbnJ3SmVNbWdXZnQ0WmFvdDdtclEyODh0YWlSQTRoU2dQVXo2YlZvQW5namc?oc=5)
+
+---
+
 ### [Demenz: 14 beeinflussbare Faktoren senken das Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFhTN0NNNXgxV2FSeVY0ek9zVzVxVnh1ajAzcFlpbU4tZ3R5dmJXU3pTZjZkLTFlMnpRdFVXM0pXblVhR1dQR3hrQl9zdkQwamxERWFyXzJfREZNN3I4N29fV1pjMTBoZ2F4UFJjeVNIdV9NMlNib3I2X2tZbXN3NzB4M2NGOUp4Vk9maFZPcnYybHl6WTU4SjhQZ3VmVHZBZ21aemFod2dEOVo4M0E3LQ?oc=5)
 
 2026-05-30
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFhTN0NNNXgxV2FSeVY0ek9zVzVxVnh1ajAzcFlpbU4tZ3R5dmJXU3pTZjZkLTFlMnpRdFVXM0pXblVhR1dQR3hrQl9zdkQwamxERWFyXzJfREZNN3I4N29fV1pjMTBoZ2F4UFJjeVNIdV9NMlNib3I2X2tZbXN3NzB4M2NGOUp4Vk9maFZPcnYybHl6WTU4SjhQZ3VmVHZBZ21aemFod2dEOVo4M0E3LQ?oc=5)
-
----
-
-### [Allarme sigarette elettroniche: «Danni irreversibili, progettati per intrappolare i più giovani». L'appello della regina Letizia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXRpWWw3b2NNb05NSVFFeXNnTFY1WlJvejh3YTRKYk9WYm1hMEozZnE5VEVuNnU5X2tZRGhfZXF0WEZvSWpyN1Y5S0pNRFdpdVBLeFFBalJGYWdpYl81RE9tb2IwV2YyS2tJMW92Z1F6SWRMSzBXa1llZm8wejVqNUdTZ0VsYVUzR0FWMktjcm5FNG5GMXV0NzFOZEdpb3lCSWxUdWE4blZDekFkblBZcUgwZEJJWUYzTGxHM1Y0RVhIMjdCd0xGcGVxQXo0UmVHTnVkb3lSblY0WVFXV3dETW94OUNYOHpvMFItMTNB0gHYAUFVX3lxTE9XNzVkaXZCaWh1aksta0UyZ29hTER2YVl6RDFzRWlsbmJhS3NERVJpc2RWZHl6ODhzaWEyN0xXZzYtRVNXYVI5ajd2U1ducFVRb3VJLXBIdXdhQlFzQnpBMUpERjQ0MTRhQ00yYUVHLU1tRjFqSE9Vc1ZQNndici05dXJpa2VyQURWLVJJOUptVDBQWXp5dlBDUEwzOFVLLXBleXVMVmp3ZVZuNHRiNHRDeE9zcDFBaXBiTFo2VFMxMWpPN21pVHhNWTdNeVM3SHBKeUYwS1k2OA?oc=5)
-
-2026-05-29
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNXRpWWw3b2NNb05NSVFFeXNnTFY1WlJvejh3YTRKYk9WYm1hMEozZnE5VEVuNnU5X2tZRGhfZXF0WEZvSWpyN1Y5S0pNRFdpdVBLeFFBalJGYWdpYl81RE9tb2IwV2YyS2tJMW92Z1F6SWRMSzBXa1llZm8wejVqNUdTZ0VsYVUzR0FWMktjcm5FNG5GMXV0NzFOZEdpb3lCSWxUdWE4blZDekFkblBZcUgwZEJJWUYzTGxHM1Y0RVhIMjdCd0xGcGVxQXo0UmVHTnVkb3lSblY0WVFXV3dETW94OUNYOHpvMFItMTNB0gHYAUFVX3lxTE9XNzVkaXZCaWh1aksta0UyZ29hTER2YVl6RDFzRWlsbmJhS3NERVJpc2RWZHl6ODhzaWEyN0xXZzYtRVNXYVI5ajd2U1ducFVRb3VJLXBIdXdhQlFzQnpBMUpERjQ0MTRhQ00yYUVHLU1tRjFqSE9Vc1ZQNndici05dXJpa2VyQURWLVJJOUptVDBQWXp5dlBDUEwzOFVLLXBleXVMVmp3ZVZuNHRiNHRDeE9zcDFBaXBiTFo2VFMxMWpPN21pVHhNWTdNeVM3SHBKeUYwS1k2OA?oc=5)
 
 ---
 
