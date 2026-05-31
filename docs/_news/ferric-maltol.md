@@ -54,6 +54,14 @@ permalink: /news/ferric-maltol/
 
 ## 相關新聞（4 則）
 
+### [Wie sich ME/CFS und Diabetes gegenseitig beeinflussen können - Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
+
+2026-05-31 <span class="news-indication-tag">diabetes</span>
+
+來源：[Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
+
+---
+
 ### [Sugar swaps that could help you lose 16lbs without trying - from breakfast favourite to cupboard staples - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNJNFU5LVFGbFpVYXcwaUdNNTl2RlJqVlJwQWRiUFd6Wm5NUEhsV1FWRG9GVjItRlo5UjkxanBYaHJINkY4SUU4SjRMX2puUFpkV1VkRkdmWDFnemhqTm4wRmU1dmM3dEFjX2hJVGJYOEhqOGxFMFZPaTF0UjV0R3ZMdDNBM05BMXUtY0ZyTHNsUjlWRWhzcUNB?oc=5)
 
 2026-05-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -70,19 +78,11 @@ permalink: /news/ferric-maltol/
 
 ---
 
-### [Semaglutide, perdere peso con i nuovi farmaci è associato a un rischio ridotto di malattie a reni, cuore e ossa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
+### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
-2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
-
----
-
-### [La melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 ---
 

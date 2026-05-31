@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li>heart disease（97.8%）</li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,9 +52,15 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Herzinfarkt und Schlaganfall: Fast 99% vollständig vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
+
+2026-05-31 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,27 +46,19 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 Epilepsie</span></li>
+<li>epilepsy（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Alzheimer: Levetiracetam als kosteneffizienter Kandidat für Drug Repurposing - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQclpuOXpYVnE5akZVeG90TUxQbzdjb0J5NGpaZXVpdDF4TkxuWHgxSTFSb285T21qVkY3anp2eExZNDl6bGNrRU5MSGozV0t1ZFE3ZnRUV0FnOUQ0RmhrN2IwVTdUTzdxdG0tQjRzYXhBYWZMdS1fWF83YjZYajBRVkNZejRfN3J5VHFoU3BuUGdVb3ZQMnJfSHExQWRhelIwc2tvUmxyeXV1b3RY?oc=5)
 
 2026-05-29 <span class="news-drug-tag">Levetiracetam</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQclpuOXpYVnE5akZVeG90TUxQbzdjb0J5NGpaZXVpdDF4TkxuWHgxSTFSb285T21qVkY3anp2eExZNDl6bGNrRU5MSGozV0t1ZFE3ZnRUV0FnOUQ0RmhrN2IwVTdUTzdxdG0tQjRzYXhBYWZMdS1fWF83YjZYajBRVkNZejRfN3J5VHFoU3BuUGdVb3ZQMnJfSHExQWRhelIwc2tvUmxyeXV1b3RY?oc=5)
-
----
-
-### [Neue Selbsthilfegruppe für Epilepsie startet in Weiden](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
-
-2026-05-29 <span class="news-indication-tag">Epilepsie</span>
-
-來源：[Oberpfalzecho](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
 
 ---
 

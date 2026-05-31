@@ -54,19 +54,27 @@ permalink: /news/rotigotine/
 
 ## 相關新聞（29 則）
 
+### [MS und Ernährung: Pflanzliche Kost senkt Demenzrisiko um 7% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVhrR2l0ZV9sWnBpQjRxN3R6ckRHSjIwVFdxYVpYbmVMZExGZl9YdWdpalMxS29XbEJSbmRlZDlGLVJZNmt2cU5ZekZveFgwemMtcy0yM0IxVkRzdkhWdXIzbDZTZGtPMmQxOG83SnNqTnZkNW1iZXplbGJTQ3pEZmszOHcyeDZuODh0SURzOVJIcE9ScHJHOHJHOTU1SFJ6XzhqY3V2aXlXMk9XOUI4cjFfMEMwZw?oc=5)
+
+2026-05-31 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVhrR2l0ZV9sWnBpQjRxN3R6ckRHSjIwVFdxYVpYbmVMZExGZl9YdWdpalMxS29XbEJSbmRlZDlGLVJZNmt2cU5ZekZveFgwemMtcy0yM0IxVkRzdkhWdXIzbDZTZGtPMmQxOG83SnNqTnZkNW1iZXplbGJTQ3pEZmszOHcyeDZuODh0SURzOVJIcE9ScHJHOHJHOTU1SFJ6XzhqY3V2aXlXMk9XOUI4cjFfMEMwZw?oc=5)
+
+---
+
+### [Aprender a convivir con la enfermedad de las mil caras: el reto invisible de la Esclerosis Múltiple - La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
+
+2026-05-31 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
+
+---
+
 ### [PMOS-Umbenennung: Polyzystisches Ovarsyndrom heißt jetzt anders - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWpyQXF5QllmVWtSM2MwVzJCYlo0OXZFT2E0WW1maW1hZHFnWV9Uak90QnhhZTlWb3h4MFNLVlNJNzkzcW1SQ0xSX2dHMjJUYkxTeFVTRDQteVpuMnAzZHkwY2wzOUtmNk01ZVpmNXVYbTE4a1VzNnVQTkVxQW9nS1VHTkNqMXVlMEc0Zk90YUQtUzQ0U1ZOMl84dktkeE9KRnVUcVcwMVpJZ3pvOWFuWGpR?oc=5)
 
 2026-05-31 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWpyQXF5QllmVWtSM2MwVzJCYlo0OXZFT2E0WW1maW1hZHFnWV9Uak90QnhhZTlWb3h4MFNLVlNJNzkzcW1SQ0xSX2dHMjJUYkxTeFVTRDQteVpuMnAzZHkwY2wzOUtmNk01ZVpmNXVYbTE4a1VzNnVQTkVxQW9nS1VHTkNqMXVlMEc0Zk90YUQtUzQ0U1ZOMl84dktkeE9KRnVUcVcwMVpJZ3pvOWFuWGpR?oc=5)
-
----
-
-### [Demenz-Prävention: Hochwertige Pflanzenkost senkt Risiko um 7% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFNTUWRtUkc2ODczT3pRVy14NUhDbzlrMTZOZDlHVTEtaGcyaXpxZHQzUFVPM1lwWXFsdDJlb1lKamZKWHZBcTVNcWE2eG5QOUU1dXg5RFlUMUlQM2Y1THFDWFNqYnI0Skp4RkFvbm5SN2t6a1ZabGNMUUxyM0xHRUZkcWR0UWs1UkFHd2d4QVhjZ1hUdHFLck83SDNvdXg3UjMxZzRkc2xpQVRfTE92ZjRUWVVpdmw4WkE?oc=5)
-
-2026-05-30 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFNTUWRtUkc2ODczT3pRVy14NUhDbzlrMTZOZDlHVTEtaGcyaXpxZHQzUFVPM1lwWXFsdDJlb1lKamZKWHZBcTVNcWE2eG5QOUU1dXg5RFlUMUlQM2Y1THFDWFNqYnI0Skp4RkFvbm5SN2t6a1ZabGNMUUxyM0xHRUZkcWR0UWs1UkFHd2d4QVhjZ1hUdHFLck83SDNvdXg3UjMxZzRkc2xpQVRfTE92ZjRUWVVpdmw4WkE?oc=5)
 
 ---
 
@@ -78,11 +86,27 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Por qué la elección del modelo de investigación es clave para mejorar los tratamientos para esclerosis múltiple](https://news.google.com/rss/articles/CBMigAJBVV95cUxOX0dnWUZmTS16d0lPTk5RT2tBUjY0MzIzNTkteHllb255QWVnMW9IdmtvZlR0Xy1US2wtM1VkQk04SXp4SzZKY3F5SllkTkVfZEJfUnpVOTdacUlGdFMtZC04LV9zSV9ZNzgtLV9jdTFjWXM5T1JabF9SM1k5YVg0WXd6QjZmcXZtOW00ME5CVC1fZXRJUWRaOFpEQmF6SVlybUtUbGQ1X1JlQ3U2UUtXM093eURWeG9qUTZQdGZfT2I4S1pxTGZtV3ViMGhZbmtDYks5ZlVVbDY4a0NiMmw1ek9oYVpzYTE0anhqM3JOTVJibnFtRmhFTUNFZWJQeVds0gGbAkFVX3lxTFBQc0xTcU5NVE12MkVnNGdkd3RuOVQtVHhFRDh1ZVdmVlVnUjE1QjVubHdFWXRBX0s4MHptMFFYVllfdS0tNTd2dkFaWGlTbGNLUEtpNEtpNTdiY19HSEw0Y0tEenRIQjY4Z1N6Nkl3MUd0dGNkNVhOZVFGMUNrSzJiaDQtOUc5MGtGTzFBRTJoUHJvRHNpZFo4amdQSDl5eXZFWUJ4eExEUkVxTGlWeTF5MVJ2c1YyYm5Qb2hYdHQ1RU91SmNKY0p3RGdsZUFNQlZBNHVNNGFFcHVmRWZvcUJ3b0dDdFBWWmN0elhQM1A4TmY0N0YwN0VLUGo4dUo3dUtxbkp4YXMzaDJIZ18waC1jeDRSdXQ2Xzc0TEU?oc=5)
+
+2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMigAJBVV95cUxOX0dnWUZmTS16d0lPTk5RT2tBUjY0MzIzNTkteHllb255QWVnMW9IdmtvZlR0Xy1US2wtM1VkQk04SXp4SzZKY3F5SllkTkVfZEJfUnpVOTdacUlGdFMtZC04LV9zSV9ZNzgtLV9jdTFjWXM5T1JabF9SM1k5YVg0WXd6QjZmcXZtOW00ME5CVC1fZXRJUWRaOFpEQmF6SVlybUtUbGQ1X1JlQ3U2UUtXM093eURWeG9qUTZQdGZfT2I4S1pxTGZtV3ViMGhZbmtDYks5ZlVVbDY4a0NiMmw1ek9oYVpzYTE0anhqM3JOTVJibnFtRmhFTUNFZWJQeVds0gGbAkFVX3lxTFBQc0xTcU5NVE12MkVnNGdkd3RuOVQtVHhFRDh1ZVdmVlVnUjE1QjVubHdFWXRBX0s4MHptMFFYVllfdS0tNTd2dkFaWGlTbGNLUEtpNEtpNTdiY19HSEw0Y0tEenRIQjY4Z1N6Nkl3MUd0dGNkNVhOZVFGMUNrSzJiaDQtOUc5MGtGTzFBRTJoUHJvRHNpZFo4amdQSDl5eXZFWUJ4eExEUkVxTGlWeTF5MVJ2c1YyYm5Qb2hYdHQ1RU91SmNKY0p3RGdsZUFNQlZBNHVNNGFFcHVmRWZvcUJ3b0dDdFBWWmN0elhQM1A4TmY0N0YwN0VLUGo4dUo3dUtxbkp4YXMzaDJIZ18waC1jeDRSdXQ2Xzc0TEU?oc=5)
+
+---
+
 ### [Nach Hantavirus-Ausbruch: Kreuzfahrtschiff „Hondius“ darf wieder auslaufen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVJBckdlY252MEpabnpkX0kwYlhTU0dDanN5bVlUbHJraWktLUtyY3lBZHVyNG5XUnd4R0M1aFV3bWNzV25jMHlxUWNubnk4WXpjNmo5S3JKdnU0UG5EblN5NURfME9BRjZZZXNQaVVWZnh2clJhY0dJeEdLT0ptNEU4N2ZZWnRIbUVpTUp6TUJVSkJoeE1DUjlEU2FqX3RFcUlqaHFUSXM4eEpKVjU4enRUR0liUVlyMnJhM0JWUEJSVkx3Mnpz?oc=5)
 
 2026-05-30 <span class="news-indication-tag">MS</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVJBckdlY252MEpabnpkX0kwYlhTU0dDanN5bVlUbHJraWktLUtyY3lBZHVyNG5XUnd4R0M1aFV3bWNzV25jMHlxUWNubnk4WXpjNmo5S3JKdnU0UG5EblN5NURfME9BRjZZZXNQaVVWZnh2clJhY0dJeEdLT0ptNEU4N2ZZWnRIbUVpTUp6TUJVSkJoeE1DUjlEU2FqX3RFcUlqaHFUSXM4eEpKVjU4enRUR0liUVlyMnJhM0JWUEJSVkx3Mnpz?oc=5)
+
+---
+
+### [Multiple Sklerose: 70% bessern kognitiven Nebel durch tägliches Training - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXU3c0V0ZEctSGNnTzhMcXFpT0lGNWpZVnMxdHFKNDVzSkZvS0R2TGxxcDdoUFR2LXlKdjRqQkdJSUlqNzgtNlk3N3U4UzV6NktnRE9WOGt0eU1KOXJ1NmJHNWJyZFNXV3NBYXRtbElIUktuSER4WVFsMnBrTzRrZHFOaDVJemhJeXRPdXhJWjZZNUh3UFBETHBybTU3UE0wc1JNLXhCZDhvNjcwckxTOU5oOVNxNzdIY1Fn?oc=5)
+
+2026-05-30 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXU3c0V0ZEctSGNnTzhMcXFpT0lGNWpZVnMxdHFKNDVzSkZvS0R2TGxxcDdoUFR2LXlKdjRqQkdJSUlqNzgtNlk3N3U4UzV6NktnRE9WOGt0eU1KOXJ1NmJHNWJyZFNXV3NBYXRtbElIUktuSER4WVFsMnBrTzRrZHFOaDVJemhJeXRPdXhJWjZZNUh3UFBETHBybTU3UE0wc1JNLXhCZDhvNjcwckxTOU5oOVNxNzdIY1Fn?oc=5)
 
 ---
 
@@ -94,14 +118,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [En España se diagnostican unos 2.000 nuevos casos de esclerosis múltiple cada año](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGdWbXF1T0Q0dWZkR0piZXJrNW5NamxLS0h6dV9DVmM3UlAyYmRfZ05pZFlOdzhfX0xFX3pscE9BdURKcVRWbUdfTE1lS0I5aUNpY3o3M0hKT3BFTVp5LUlJNG9DTkViU0hydjVnVmtDbnJIcTdrLXZJa3ZGYU5kc0NQRXRzOTFqVjBmdTlNakJWb09QaXlwWVFJTjl2bFU1UG5ubE8wakRuNmhza0F4N0VXTQ?oc=5)
-
-2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[CLMPress](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGdWbXF1T0Q0dWZkR0piZXJrNW5NamxLS0h6dV9DVmM3UlAyYmRfZ05pZFlOdzhfX0xFX3pscE9BdURKcVRWbUdfTE1lS0I5aUNpY3o3M0hKT3BFTVp5LUlJNG9DTkViU0hydjVnVmtDbnJIcTdrLXZJa3ZGYU5kc0NQRXRzOTFqVjBmdTlNakJWb09QaXlwWVFJTjl2bFU1UG5ubE8wakRuNmhza0F4N0VXTQ?oc=5)
-
----
-
 ### [TEMOIGNAGE. Journée mondiale de la Sclérose en Plaques : "Ça a commencé avec une béquille, deux béquilles, un déambulateur... " - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa1F6N1UxWEQ3OVhhMXc4M2dtUW9aV1BhNlBmYnlhU0oyX2tfX1ZBZ05CR1VXMmVfRGVuMnVjUGUxSzlQMVVhVnpaZmV3UE9XRW43dzg0TWhteDZTa0Y4Y19SNEh1QWJ4UVdaZ3BaSDhTM19rN3JDcmdvMF9PMktLMzRiU2dPRWtmR2hQUm5OOGdwdXlHZlFQdHB0T2YtYllLMmMwUlg4MkZYRVg5VnU0SDlGQmxnQkV3SXpVNlRDOXhxdjhfaUxCWjFnQmFXaDBhbFE2STNTSERZYWdtT2pPTVd5MjVEcmpMRWpDLW40TkhHRWI5djcyTkRnM0Nzdw?oc=5)
 
 2026-05-30 <span class="news-indication-tag">sclérose en plaques</span>
@@ -110,11 +126,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Ernährung und Entzündungen: Studie mit 92.000 zeigt 7% Demenz-Schutz - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnFnM2FqSlhyUkJkNlBiaTdRcWh5SFZ1Q0ZIRWtscGtZa0ctemN2TExEM3g3dFgtdlZhMUFFU0VFVkZteFFtV2J2elB0NFNjMFhrRkIyalFXSThaZnVHUGtKXzdmbVlxZlMxX1YyVnFGbXZCN3Vyc2JsUjIzSjNEQ0tGajJKQVVBdXNfdzJtMXhiVGFrSmc1MU1LN3BKZXFvbWhIOXNDaG9UVm1HQ1lHcg?oc=5)
+### [Multiple Sklerose: 15 Minuten Training verbessert Kognition um 70% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGJCQk9NczRFbmRqMkR3RVJoN1FOaUFQU0JLX1hhSllBRzlRbENZY2kxcFhTZF96Q3VvYm4zdlAwUkpDYmZQeE5wN2hBREE4dlNhMURlYmh2RTF1R3BFZnZlLUF0M2wtOGJxWDdvd19lTmFJM3B3UWw5S2JGbGNOMWNVNEF1aXpSMlpJenVleW5BQ0Z0dWVwdmR4SG1iMGtRYkxpWjFGQnRySk1uSmdxMTJ4d0otTUNJZzBsYU9B?oc=5)
 
-2026-05-30 <span class="news-indication-tag">MS</span>
+2026-05-30 <span class="news-indication-tag">Multiple Sklerose</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnFnM2FqSlhyUkJkNlBiaTdRcWh5SFZ1Q0ZIRWtscGtZa0ctemN2TExEM3g3dFgtdlZhMUFFU0VFVkZteFFtV2J2elB0NFNjMFhrRkIyalFXSThaZnVHUGtKXzdmbVlxZlMxX1YyVnFGbXZCN3Vyc2JsUjIzSjNEQ0tGajJKQVVBdXNfdzJtMXhiVGFrSmc1MU1LN3BKZXFvbWhIOXNDaG9UVm1HQ1lHcg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGJCQk9NczRFbmRqMkR3RVJoN1FOaUFQU0JLX1hhSllBRzlRbENZY2kxcFhTZF96Q3VvYm4zdlAwUkpDYmZQeE5wN2hBREE4dlNhMURlYmh2RTF1R3BFZnZlLUF0M2wtOGJxWDdvd19lTmFJM3B3UWw5S2JGbGNOMWNVNEF1aXpSMlpJenVleW5BQ0Z0dWVwdmR4SG1iMGtRYkxpWjFGQnRySk1uSmdxMTJ4d0otTUNJZzBsYU9B?oc=5)
 
 ---
 
@@ -142,6 +158,14 @@ permalink: /news/rotigotine/
 
 ---
 
+### [El río Segura se ilumina de naranja por el Día Mundial de la Esclerosis Múltiple - Murcia Plaza](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFNxR2ZoSXdsU3ZLVDBScndxNnZFdV85RkxjcGJNN1VMb2RBMDZCS0hvOEx2ZF94cVZjeU1FN3VpandVLXdtTlA0Vl9qSkZmUlQtel9KczdUbjJnYV9RZVV4S25oMVg3QUpJY0o5Nlo0NjVIUTJ2ODRaSU85ZDU2N0hZYlNsRDhTd29VaW5ia19zQm40WjlCMEIyMnp5el9DdXNTbVdJX2xncGlCcXpBUG9McG53aUFqTUttUTJXeGxuWExreEI4N3owaw?oc=5)
+
+2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Murcia Plaza](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFNxR2ZoSXdsU3ZLVDBScndxNnZFdV85RkxjcGJNN1VMb2RBMDZCS0hvOEx2ZF94cVZjeU1FN3VpandVLXdtTlA0Vl9qSkZmUlQtel9KczdUbjJnYV9RZVV4S25oMVg3QUpJY0o5Nlo0NjVIUTJ2ODRaSU85ZDU2N0hZYlNsRDhTd29VaW5ia19zQm40WjlCMEIyMnp5el9DdXNTbVdJX2xncGlCcXpBUG9McG53aUFqTUttUTJXeGxuWExreEI4N3owaw?oc=5)
+
+---
+
 ### [Forscher untersuchen Wirkung von Abnehmspritzen auf Demenz und Sucht - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcjkxQWlya1E5OTJENGdFOHBJUlBJb2hBSHAweGZuTzVPUGwtbWV0X3NPYThJYzlsc2UweGZhZkFKYkE5X05HQ0VLTDYxaVJmZ2dMcVNuTWZyck9aWGxZQzZGLXg1X2VsaVl1YXRxXy0tU041aDhiZjBMb0ZwNnJQZ0FKUlp5b2pjRlkyNi1PSGxkYXJRdEJ1MA?oc=5)
 
 2026-05-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
@@ -152,7 +176,7 @@ permalink: /news/rotigotine/
 
 ### [Hoffnung in der Multiple Sklerose Forschung - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRl9lUHBDTExkSDNMbWxPZFJkWjlhNmNpd3NVeHpWTEpoZmVENVFNX3NlelZrSVViT29DRGY4Q0pFZGJ2Wk1VSDVzdUVIWDNrZ3ZoZ3J4eFRGdmFPVXMwUFlXaWo2ajE2cENBWmdPZTZ0VHdaOEFtVEdSYVBJRDlZMGFEQlV2cVRmdDRndzlkOTkzb1g4?oc=5)
 
-2026-05-30 <span class="news-indication-tag">MS</span>
+2026-05-30 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRl9lUHBDTExkSDNMbWxPZFJkWjlhNmNpd3NVeHpWTEpoZmVENVFNX3NlelZrSVViT29DRGY4Q0pFZGJ2Wk1VSDVzdUVIWDNrZ3ZoZ3J4eFRGdmFPVXMwUFlXaWo2ajE2cENBWmdPZTZ0VHdaOEFtVEdSYVBJRDlZMGFEQlV2cVRmdDRndzlkOTkzb1g4?oc=5)
 
@@ -182,14 +206,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Ebola, la prima guarigione. Vaccino e farmaco contro virus, c'è una data](https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ5dzFUdS1abHluNzdtbjZzWFBaNmVVZkNBY3pKempvRTZaQlUyb0lncU1vY1U4QjZrSkxLMmI4U0RDbE81TmtsNWE4aXo4bGJZX0ZtS2ZKeE1sTmREMWVxZ0xHTXNfQkpVUWRWaVc5SXNLRFY0Z28ycnZ1Y2xwbWhmd1FOZVN1amJCY0lOb1E5VnRuV1ZRMXFaeFRBdw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ5dzFUdS1abHluNzdtbjZzWFBaNmVVZkNBY3pKempvRTZaQlUyb0lncU1vY1U4QjZrSkxLMmI4U0RDbE81TmtsNWE4aXo4bGJZX0ZtS2ZKeE1sTmREMWVxZ0xHTXNfQkpVUWRWaVc5SXNLRFY0Z28ycnZ1Y2xwbWhmd1FOZVN1amJCY0lOb1E5VnRuV1ZRMXFaeFRBdw?oc=5)
-
----
-
 ### [Heart surgeon warns people should avoid one drink he calls 'liquid death'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYm1zbVpFZ0RwNGtadURuaFZEc21sbVpMVVhiR3hma3gwcnRSTUpOX2NmWjFkSkNyYlBzUGpCZWxYcFp4TFFjQlRjVEo4blJtUFoyT3RTYTJBcW9VNmk2T3FEaE5mWUlqVHpZLVBlLUk1UUhJMTBsSGlCZjNuckxXdFBjTXdsY1J6Z1BVcWJzd0FBdw?oc=5)
 
 2026-05-29 <span class="news-indication-tag">MS</span>
@@ -214,6 +230,14 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Un estudio de Vall d’Hebron confirma la seguridad de las vacunas vivas atenuadas en personas con esclerosis múltiple](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZTJkaGI0Y2JYdmdHSHRWZk5DZjdOVGd2Vm8zcGM1WUVNcFE3Y0xKazBDNDl4b1E5VjVoNUpPZE41R3pLTnJMVURiQS1Ec3luNWpGVU5JYTJJYi0wWTl4QmFNREFWM3NyYjA0NWRRa3l3RnhaZTd6M2JyYk5IcnZuYTE1NElIV2h1NTlDa2JvX0FKN0hGR3Nid2phVFpPRXJrbWM2WkNybjVKOW51emtPXzRibHZocU92ejVON0NPYXhmNzRMLXNyaDl5aklkRlBFX0hYZUYyRlFsWnhXdEgzZWY3a0k2OS1jX0E?oc=5)
+
+2026-05-29 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZTJkaGI0Y2JYdmdHSHRWZk5DZjdOVGd2Vm8zcGM1WUVNcFE3Y0xKazBDNDl4b1E5VjVoNUpPZE41R3pLTnJMVURiQS1Ec3luNWpGVU5JYTJJYi0wWTl4QmFNREFWM3NyYjA0NWRRa3l3RnhaZTd6M2JyYk5IcnZuYTE1NElIV2h1NTlDa2JvX0FKN0hGR3Nid2phVFpPRXJrbWM2WkNybjVKOW51emtPXzRibHZocU92ejVON0NPYXhmNzRMLXNyaDl5aklkRlBFX0hYZUYyRlFsWnhXdEgzZWY3a0k2OS1jX0E?oc=5)
+
+---
+
 ### [Bei einem Eichsfelder Stammtisch geht es nicht ums Bier - Thüringer Allgemeine](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ0lzV1paTWREdEY2WWcxdFM0N1FGeUZWcUxsTUZsbE9LdHBGYm9lQ1dmdGtLZ0tKYnVMV1FDNkpJVnV5aUZNQldrY0R0OEFCeVM1RW9SaXN6TlROVVlBSk9vN0htQnpXREtjekVONk0xa3lBVUxDMEMtNEFNc2hLc05xb3lCbEtLSGQ4UkhfdnJXQlJfQUFsVXhXNkNwbzJWOXhIX1FhcjVUQlJJbGdpYURFd0tpa0lrVmZsZFJwb0paajBXSTdJeE40a3Y?oc=5)
 
 2026-05-29 <span class="news-indication-tag">MS</span>
@@ -230,19 +254,19 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Un estudio de Vall d'Hebron ve seguras las vacunas vivas atenuadas en personas con esceloris múltiple](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVhQUTRSMi1uVzczVF9qRXRXcHJlV2JsSFNRUHMxTk9OTlJKTHNKZGlSazNIUVAxLUJjbktyNWsxV19LVW5KNmg3YUg4Z0MxRHlxX1A1X25aSF9oX3dJdjlqUGNnb2VXNHZ6MFZLTUE3RVNGOF9iX1duWTN1WG1Fcmxic21GRlU1cldpazVEY0FpeGRhN0lEQ2dKQVhSd0hYSDI2QjZ0MlREdktmUlNwbU0zUWxwVmh5eVJIY1ZGbTZfOFFCeUhLWnUyMFAtWUlFR1Z2T19ERWJna0Z1Uy1NZjUyRVBuc3VWY2Fuem9R?oc=5)
-
-2026-05-29 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVhQUTRSMi1uVzczVF9qRXRXcHJlV2JsSFNRUHMxTk9OTlJKTHNKZGlSazNIUVAxLUJjbktyNWsxV19LVW5KNmg3YUg4Z0MxRHlxX1A1X25aSF9oX3dJdjlqUGNnb2VXNHZ6MFZLTUE3RVNGOF9iX1duWTN1WG1Fcmxic21GRlU1cldpazVEY0FpeGRhN0lEQ2dKQVhSd0hYSDI2QjZ0MlREdktmUlNwbU0zUWxwVmh5eVJIY1ZGbTZfOFFCeUhLWnUyMFAtWUlFR1Z2T19ERWJna0Z1Uy1NZjUyRVBuc3VWY2Fuem9R?oc=5)
-
----
-
 ### [Ebola, l'Italia invia esperti in Congo: dottoressa Msf sotto osservazione](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2I1ZElhYWJ5dWZvWU5FYmdHR3RZcWtYVUhEWFFRRVdwaURTX1RqbWVQOENPNmxTMFQyZ3l3Z3hDc0VuUHR3bjJucThIWlpDVmxSNWkxTVRrQVh0ZERYNE5INGNoM1UzNVpNS3JZa1puLXJQVDI5RS1rUDM3ZGg1RTJ6OHRteGlfSnNGZGduMXdySHNtSmVTR3lYXzJxb0ZMcVlrTlpTYldXVllrT3JsNmFtM1NLWHNnVUY0?oc=5)
 
 2026-05-29 <span class="news-indication-tag">MS</span>
 
 來源：[Tgcom24](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2I1ZElhYWJ5dWZvWU5FYmdHR3RZcWtYVUhEWFFRRVdwaURTX1RqbWVQOENPNmxTMFQyZ3l3Z3hDc0VuUHR3bjJucThIWlpDVmxSNWkxTVRrQVh0ZERYNE5INGNoM1UzNVpNS3JZa1puLXJQVDI5RS1rUDM3ZGg1RTJ6OHRteGlfSnNGZGduMXdySHNtSmVTR3lYXzJxb0ZMcVlrTlpTYldXVllrT3JsNmFtM1NLWHNnVUY0?oc=5)
+
+---
+
+### [5 alimentos cotidianos que ayudan a bajar el colesterol, según nutricionistas](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVV1VFVNUEwxWGF2aHlmR1J5UFdrNGxjYkhCT3NoelNRUU9BYVFMUlAtaDI4bEV2SFd0UFZIblpmOGVqRVh1ZTh3Wi00RU03dGo0cERlbUZrdFJJOWdabzdwN3FLRF96M2Q0US1NaDZGOUpGWldTRGw5dUwtX2NVaDNUcXlOSXlFSGE4UGJDMzZBcFRXWDJqZnZvQm1iQi0wQzBSQVFsZzBoVkZqR2pycTE3cHYzWlo2UWfSAdQBQVVfeXFMUDFaY0tKR01EVTVCQy1qanRCZGVlcDFWcjZKVDVUcVJmcXQzQlJWS21lblE1eWRVaGgzcDZtbGF0M1JMdnU5YzFzT0dsai1YaF9EcUJQNjloaURveHczMHloXzFCcVJ2N1FJMU5xYmEzbXRQSDdQWjZ3eHZqbVVPUGJlMDM5Q3czemludno1VlRYMHItamFvQWxWVVRuOFQ3b2JJUHQ2U3RPOFZVMjU1UE83RVlWcjhHVlpiSGljNGxjRnRpMFM2OVltTVhubG1WZ1RFQlE?oc=5)
+
+2026-05-29 <span class="news-indication-tag">MS</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVV1VFVNUEwxWGF2aHlmR1J5UFdrNGxjYkhCT3NoelNRUU9BYVFMUlAtaDI4bEV2SFd0UFZIblpmOGVqRVh1ZTh3Wi00RU03dGo0cERlbUZrdFJJOWdabzdwN3FLRF96M2Q0US1NaDZGOUpGWldTRGw5dUwtX2NVaDNUcXlOSXlFSGE4UGJDMzZBcFRXWDJqZnZvQm1iQi0wQzBSQVFsZzBoVkZqR2pycTE3cHYzWlo2UWfSAdQBQVVfeXFMUDFaY0tKR01EVTVCQy1qanRCZGVlcDFWcjZKVDVUcVJmcXQzQlJWS21lblE1eWRVaGgzcDZtbGF0M1JMdnU5YzFzT0dsai1YaF9EcUJQNjloaURveHczMHloXzFCcVJ2N1FJMU5xYmEzbXRQSDdQWjZ3eHZqbVVPUGJlMDM5Q3czemludno1VlRYMHItamFvQWxWVVRuOFQ3b2JJUHQ2U3RPOFZVMjU1UE83RVlWcjhHVlpiSGljNGxjRnRpMFM2OVltTVhubG1WZ1RFQlE?oc=5)
 
 ---
 
@@ -259,30 +283,6 @@ permalink: /news/rotigotine/
 2026-05-29 <span class="news-indication-tag">MS</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLWFJQmJUN3Z4Ri1kcHB4bUpuVTlEbUpTRmlwTnd1eGlCQ2hPV0hsRWMwNl9IamFJV3VjWk9wVkdCbUVmRE16N2stMG05LWpoUHJqSjJieXF3V0ZTMzNSRm9XTTZ0WFdiTFJTM1NR?oc=5)
-
----
-
-### [Pflanzen bremsen ihr Immunsystem, um Virusinfektionen zu überleben - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjFER2NpQkVJaFpxb2dwVG1obExQUURTNkhxSEdCMHJJRDM0dmhXV21lc0FzU2k1UWR5QUZ1X3hhTDlCaHM3aVJldGdPRzFpZ093Vlhob0ROVTVwUS05Z0V1RlhkQ3VRbjhlQ0NRREJOY2hkdGN0Sm1rZnUyV1ZLRHA0ZWdrb0tQamVTZnRoUFRURVg1bnlOLS1tNmdCelNobjRzTWhEV2RVRm44eGJhQmJ3NENBdTdubkh4VExpZjZPQQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjFER2NpQkVJaFpxb2dwVG1obExQUURTNkhxSEdCMHJJRDM0dmhXV21lc0FzU2k1UWR5QUZ1X3hhTDlCaHM3aVJldGdPRzFpZ093Vlhob0ROVTVwUS05Z0V1RlhkQ3VRbjhlQ0NRREJOY2hkdGN0Sm1rZnUyV1ZLRHA0ZWdrb0tQamVTZnRoUFRURVg1bnlOLS1tNmdCelNobjRzTWhEV2RVRm44eGJhQmJ3NENBdTdubkh4VExpZjZPQQ?oc=5)
-
----
-
-### [Liverpool students encouraged to donate items as they move out](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbFQyVGlHTHlsQ05rdEJzbWNtTnVkd2luS1BfVWJqLW1tUjFxdjM0MEFQYk5OUEg1RXNlWUtPbkEzX081MDdJNGp3NnJrNDY3SldiR1hRX2M4MFJQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbFQyVGlHTHlsQ05rdEJzbWNtTnVkd2luS1BfVWJqLW1tUjFxdjM0MEFQYk5OUEg1RXNlWUtPbkEzX081MDdJNGp3NnJrNDY3SldiR1hRX2M4MFJQ?oc=5)
-
----
-
-### [Wichtiges Gesundheitsrisiko: Warum dieses beliebte Alltags-Gadget bald Leben verändern könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQllua1dUTjBlRjZ2MGR2N2JMTjl0M0xhS3ZHTUgweEhUcTlCSW1OZVkwLXJ1dV9ham04MEJHUVQxOUZscW9TcFZONjc0alpvY2pBSzFsZnR0Qzk0cUt0VzNtcnF6aDlRZlNEeWY5LVc1TENhM3V4Vlh3Q1ZMckFVb0p1cE8zbkV4VVJZQ1VXLUptZGh2MXpWTzcxWjAzcjEtZlVrbmVLRGVVU19oajRwVFJITlpZNjc1cUVSdjFqaWhnS0JPZl9wSVFqWXYwTWtMOUlEc1BQSWp5SHFxSlFzRg?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span>
-
-來源：[giga.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQllua1dUTjBlRjZ2MGR2N2JMTjl0M0xhS3ZHTUgweEhUcTlCSW1OZVkwLXJ1dV9ham04MEJHUVQxOUZscW9TcFZONjc0alpvY2pBSzFsZnR0Qzk0cUt0VzNtcnF6aDlRZlNEeWY5LVc1TENhM3V4Vlh3Q1ZMckFVb0p1cE8zbkV4VVJZQ1VXLUptZGh2MXpWTzcxWjAzcjEtZlVrbmVLRGVVU19oajRwVFJITlpZNjc1cUVSdjFqaWhnS0JPZl9wSVFqWXYwTWtMOUlEc1BQSWp5SHFxSlFzRg?oc=5)
 
 ---
 

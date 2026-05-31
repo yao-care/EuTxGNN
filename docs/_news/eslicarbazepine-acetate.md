@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ permalink: /news/eslicarbazepine-acetate/
 <li>reading seizures（96.9%）</li>
 <li>trigeminal nerve neoplasm（95.9%）</li>
 <li>partial motor epilepsy（95.3%）</li>
-<li class="indication-matched">epilepsy（92.4%）<span class="indication-tag">📰 Epilepsie</span></li>
+<li>epilepsy（92.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Neue Selbsthilfegruppe für Epilepsie startet in Weiden](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
-
-2026-05-29 <span class="news-indication-tag">Epilepsie</span>
-
-來源：[Oberpfalzecho](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

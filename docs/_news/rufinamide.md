@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>61 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rufinamide</strong> 目前有 <strong>56 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（61 則）
+## 相關新聞（56 則）
+
+### [MS und Ernährung: Pflanzliche Kost senkt Demenzrisiko um 7% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVhrR2l0ZV9sWnBpQjRxN3R6ckRHSjIwVFdxYVpYbmVMZExGZl9YdWdpalMxS29XbEJSbmRlZDlGLVJZNmt2cU5ZekZveFgwemMtcy0yM0IxVkRzdkhWdXIzbDZTZGtPMmQxOG83SnNqTnZkNW1iZXplbGJTQ3pEZmszOHcyeDZuODh0SURzOVJIcE9ScHJHOHJHOTU1SFJ6XzhqY3V2aXlXMk9XOUI4cjFfMEMwZw?oc=5)
+
+2026-05-31 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVhrR2l0ZV9sWnBpQjRxN3R6ckRHSjIwVFdxYVpYbmVMZExGZl9YdWdpalMxS29XbEJSbmRlZDlGLVJZNmt2cU5ZekZveFgwemMtcy0yM0IxVkRzdkhWdXIzbDZTZGtPMmQxOG83SnNqTnZkNW1iZXplbGJTQ3pEZmszOHcyeDZuODh0SURzOVJIcE9ScHJHOHJHOTU1SFJ6XzhqY3V2aXlXMk9XOUI4cjFfMEMwZw?oc=5)
+
+---
+
+### [Darmkrebs vorbeugen: Forscher kommen zu überraschendem Ergebnis beim Stuhltest](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
+
+2026-05-31 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
+
+---
+
+### [Aprender a convivir con la enfermedad de las mil caras: el reto invisible de la Esclerosis Múltiple - La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
+
+2026-05-31 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
+
+---
 
 ### [PMOS-Umbenennung: Polyzystisches Ovarsyndrom heißt jetzt anders - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWpyQXF5QllmVWtSM2MwVzJCYlo0OXZFT2E0WW1maW1hZHFnWV9Uak90QnhhZTlWb3h4MFNLVlNJNzkzcW1SQ0xSX2dHMjJUYkxTeFVTRDQteVpuMnAzZHkwY2wzOUtmNk01ZVpmNXVYbTE4a1VzNnVQTkVxQW9nS1VHTkNqMXVlMEc0Zk90YUQtUzQ0U1ZOMl84dktkeE9KRnVUcVcwMVpJZ3pvOWFuWGpR?oc=5)
 
@@ -70,27 +94,19 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Darmkrebs vorbeugen: Forscher kommen zu überraschendem Ergebnis beim Stuhltest](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
-
-2026-05-31 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
-
----
-
-### [Demenz-Prävention: Hochwertige Pflanzenkost senkt Risiko um 7% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFNTUWRtUkc2ODczT3pRVy14NUhDbzlrMTZOZDlHVTEtaGcyaXpxZHQzUFVPM1lwWXFsdDJlb1lKamZKWHZBcTVNcWE2eG5QOUU1dXg5RFlUMUlQM2Y1THFDWFNqYnI0Skp4RkFvbm5SN2t6a1ZabGNMUUxyM0xHRUZkcWR0UWs1UkFHd2d4QVhjZ1hUdHFLck83SDNvdXg3UjMxZzRkc2xpQVRfTE92ZjRUWVVpdmw4WkE?oc=5)
-
-2026-05-30 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFNTUWRtUkc2ODczT3pRVy14NUhDbzlrMTZOZDlHVTEtaGcyaXpxZHQzUFVPM1lwWXFsdDJlb1lKamZKWHZBcTVNcWE2eG5QOUU1dXg5RFlUMUlQM2Y1THFDWFNqYnI0Skp4RkFvbm5SN2t6a1ZabGNMUUxyM0xHRUZkcWR0UWs1UkFHd2d4QVhjZ1hUdHFLck83SDNvdXg3UjMxZzRkc2xpQVRfTE92ZjRUWVVpdmw4WkE?oc=5)
-
----
-
 ### [El ébola demuestra que el mundo no está preparado para una pandemia, dice exdirector de los CDC - Bloomberg Línea](https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk11anhRemJpYnlOZjZXbWtuTnpCdG5lWWdMVjVLekt6RFBLdnVFbG9WZjhBdV80aFFUR0UwT0lNdHJTd2FiRzRwTjVDQVB5UWkyejU0QzVWV0QydW5YZElBc3RHX2tBZ09kb2E1dmFtNHRmWklFM0tFeWNzdFphREJXZkdJeU94UkRkczB4bEVTT0tGd25uZ0t0RXV2b1Y5M0prNlEyUkhtVldBaTFWeWNyVXgzR3FHMHhKSFRnYWdWbmpjaTZIRXlFNFrSAeABQVVfeXFMTWk2RFdoZTk5eW84NzFPcWxPRnlnekVvLTZDS0dKTVJtRUw3UmRlcVp0ZkEyNmpFa0ZnVlhrZjR6aXhQZmdmT3Vvem5WNEdVR3RKVjdQdTkzYzVmN3hmTHlxZ24tVnhveGI4VDdjUDdLUUJwQ3VPUWtWN1owZHpfQV9tUmZkd2hkQmxKZE1pT01idmI3Z2dTZ2twLUlGZGZXT1phTkRvTmlGUy05blhZSHZSVGk5VS1wX3JIYzQ5aG9WOXNYVlRnbzlHcHZEbTl5dkowc3hRQzJvYUJNZTV1d0g?oc=5)
 
 2026-05-30 <span class="news-indication-tag">MS</span>
 
 來源：[Bloomberg Línea](https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk11anhRemJpYnlOZjZXbWtuTnpCdG5lWWdMVjVLekt6RFBLdnVFbG9WZjhBdV80aFFUR0UwT0lNdHJTd2FiRzRwTjVDQVB5UWkyejU0QzVWV0QydW5YZElBc3RHX2tBZ09kb2E1dmFtNHRmWklFM0tFeWNzdFphREJXZkdJeU94UkRkczB4bEVTT0tGd25uZ0t0RXV2b1Y5M0prNlEyUkhtVldBaTFWeWNyVXgzR3FHMHhKSFRnYWdWbmpjaTZIRXlFNFrSAeABQVVfeXFMTWk2RFdoZTk5eW84NzFPcWxPRnlnekVvLTZDS0dKTVJtRUw3UmRlcVp0ZkEyNmpFa0ZnVlhrZjR6aXhQZmdmT3Vvem5WNEdVR3RKVjdQdTkzYzVmN3hmTHlxZ24tVnhveGI4VDdjUDdLUUJwQ3VPUWtWN1owZHpfQV9tUmZkd2hkQmxKZE1pT01idmI3Z2dTZ2twLUlGZGZXT1phTkRvTmlGUy05blhZSHZSVGk5VS1wX3JIYzQ5aG9WOXNYVlRnbzlHcHZEbTl5dkowc3hRQzJvYUJNZTV1d0g?oc=5)
+
+---
+
+### [Por qué la elección del modelo de investigación es clave para mejorar los tratamientos para esclerosis múltiple](https://news.google.com/rss/articles/CBMigAJBVV95cUxOX0dnWUZmTS16d0lPTk5RT2tBUjY0MzIzNTkteHllb255QWVnMW9IdmtvZlR0Xy1US2wtM1VkQk04SXp4SzZKY3F5SllkTkVfZEJfUnpVOTdacUlGdFMtZC04LV9zSV9ZNzgtLV9jdTFjWXM5T1JabF9SM1k5YVg0WXd6QjZmcXZtOW00ME5CVC1fZXRJUWRaOFpEQmF6SVlybUtUbGQ1X1JlQ3U2UUtXM093eURWeG9qUTZQdGZfT2I4S1pxTGZtV3ViMGhZbmtDYks5ZlVVbDY4a0NiMmw1ek9oYVpzYTE0anhqM3JOTVJibnFtRmhFTUNFZWJQeVds0gGbAkFVX3lxTFBQc0xTcU5NVE12MkVnNGdkd3RuOVQtVHhFRDh1ZVdmVlVnUjE1QjVubHdFWXRBX0s4MHptMFFYVllfdS0tNTd2dkFaWGlTbGNLUEtpNEtpNTdiY19HSEw0Y0tEenRIQjY4Z1N6Nkl3MUd0dGNkNVhOZVFGMUNrSzJiaDQtOUc5MGtGTzFBRTJoUHJvRHNpZFo4amdQSDl5eXZFWUJ4eExEUkVxTGlWeTF5MVJ2c1YyYm5Qb2hYdHQ1RU91SmNKY0p3RGdsZUFNQlZBNHVNNGFFcHVmRWZvcUJ3b0dDdFBWWmN0elhQM1A4TmY0N0YwN0VLUGo4dUo3dUtxbkp4YXMzaDJIZ18waC1jeDRSdXQ2Xzc0TEU?oc=5)
+
+2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMigAJBVV95cUxOX0dnWUZmTS16d0lPTk5RT2tBUjY0MzIzNTkteHllb255QWVnMW9IdmtvZlR0Xy1US2wtM1VkQk04SXp4SzZKY3F5SllkTkVfZEJfUnpVOTdacUlGdFMtZC04LV9zSV9ZNzgtLV9jdTFjWXM5T1JabF9SM1k5YVg0WXd6QjZmcXZtOW00ME5CVC1fZXRJUWRaOFpEQmF6SVlybUtUbGQ1X1JlQ3U2UUtXM093eURWeG9qUTZQdGZfT2I4S1pxTGZtV3ViMGhZbmtDYks5ZlVVbDY4a0NiMmw1ek9oYVpzYTE0anhqM3JOTVJibnFtRmhFTUNFZWJQeVds0gGbAkFVX3lxTFBQc0xTcU5NVE12MkVnNGdkd3RuOVQtVHhFRDh1ZVdmVlVnUjE1QjVubHdFWXRBX0s4MHptMFFYVllfdS0tNTd2dkFaWGlTbGNLUEtpNEtpNTdiY19HSEw0Y0tEenRIQjY4Z1N6Nkl3MUd0dGNkNVhOZVFGMUNrSzJiaDQtOUc5MGtGTzFBRTJoUHJvRHNpZFo4amdQSDl5eXZFWUJ4eExEUkVxTGlWeTF5MVJ2c1YyYm5Qb2hYdHQ1RU91SmNKY0p3RGdsZUFNQlZBNHVNNGFFcHVmRWZvcUJ3b0dDdFBWWmN0elhQM1A4TmY0N0YwN0VLUGo4dUo3dUtxbkp4YXMzaDJIZ18waC1jeDRSdXQ2Xzc0TEU?oc=5)
 
 ---
 
@@ -118,6 +134,14 @@ permalink: /news/rufinamide/
 
 ---
 
+### [Multiple Sklerose: 70% bessern kognitiven Nebel durch tägliches Training - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXU3c0V0ZEctSGNnTzhMcXFpT0lGNWpZVnMxdHFKNDVzSkZvS0R2TGxxcDdoUFR2LXlKdjRqQkdJSUlqNzgtNlk3N3U4UzV6NktnRE9WOGt0eU1KOXJ1NmJHNWJyZFNXV3NBYXRtbElIUktuSER4WVFsMnBrTzRrZHFOaDVJemhJeXRPdXhJWjZZNUh3UFBETHBybTU3UE0wc1JNLXhCZDhvNjcwckxTOU5oOVNxNzdIY1Fn?oc=5)
+
+2026-05-30 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXU3c0V0ZEctSGNnTzhMcXFpT0lGNWpZVnMxdHFKNDVzSkZvS0R2TGxxcDdoUFR2LXlKdjRqQkdJSUlqNzgtNlk3N3U4UzV6NktnRE9WOGt0eU1KOXJ1NmJHNWJyZFNXV3NBYXRtbElIUktuSER4WVFsMnBrTzRrZHFOaDVJemhJeXRPdXhJWjZZNUh3UFBETHBybTU3UE0wc1JNLXhCZDhvNjcwckxTOU5oOVNxNzdIY1Fn?oc=5)
+
+---
+
 ### [Un estudio internacional demuestra que una vacuna contra el cáncer puede acabar con tumores completos en los pacientes - Cadena SER](https://news.google.com/rss/articles/CBMiggJBVV95cUxNOHo1akR3dnVEUlQ3ckFic2ZfWC1sS1I4SDY4R3N4dkF2WTlSNmtjRTNvTzAzUEpnMnppdC1IOFFnQ1J6VXh3b3d6REg0b05EN0FBZEFFeEFKVHNmdG8xZUZzMU5ZVkZiOWt4RXVkRl9wN1JmS3o4azc0N2RQRjd1RW1EbFFRaFFtTDlmdTV2RW9ZUVQ2UU5lb3hTZG1EbkJtLTJTVEtWajNtaUlFeTJiMzAwcXVyRGhzcTNjWndpcEZwWjlzRTZWYWhlZEJPcW9uMUR3OHNTNjh3RC1QWnBkSVNDWXd5Y1lsSGtiV0JmWFVLYUpfVEpfdm9rNmEwWFJGUGfSAZYCQVVfeXFMT2EwVmllN1o2cFF0MnVjaW9WclZsZVpwVk1sWEM4SHFZZ3lGMUtNNm9DYnUySXZyY2RJdU5saDBJOWZnNzVOQzJUZkNFRVcweF80TlFxQlhoZ3VTTXdYZUh1YTE3U3hHQWZmM05OVkZjWGVTWFIzZTdHdjNBQlpDV3dXdnYwT29ETF9GVW5JUUpyc2dNWTY4UFhpTWpka0c0aTJmLWNTdmdjMGpEUi1yaWhIUjRDVFZET3NNLWI3T1k0SHI0Tzh6MktUcUV5VjV3UERtazhQOGlMNi1QdVU5UGh1UlIzRGxjbGhxcDd1a2FNSmdfOXpPc3NxMFJ6a2daSWxPcDBTSUVTeElZRXBnamFMNDRlUmc?oc=5)
 
 2026-05-30 <span class="news-indication-tag">tumor</span>
@@ -131,14 +155,6 @@ permalink: /news/rufinamide/
 2026-05-30 <span class="news-indication-tag">MS</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHZGSkhPNjFqUWpyeFlWX0RfOUc0d0hKcVUxMkdLUUkwejVUSHAzR3Faa2QwMzBsZDlCMlV2aGRtNFRSZTZJNUpfemk2bjVvOXNURWlKcVBQUmltZWtCUGxQUnBtRmpENWRsNmhIUHlVaDdHUFNLak5aaDRTNUR6cG8xRHlScUdRLURORzZfR2RNM2ZFOGpOOTlSM19NVmxKM2Q2Sl9qdE0yVS1oTUHSAbIBQVVfeXFMTzhSTTNqcTNZcVNOc0NrT2NEb2dXTm9vdS1hRFFCcVpBSEc3c3FXMFVwbU55QXFCTDVHdFRBeGtiSExRQWQ0b2pvY3RFMTgwWlBLWmY4c0t1ekVyVk9jRkhCX3dxRms1MlRybHdpcEpndEFOanJ6c0FBdXlCNGROZjNPdnFHYTlydk5fN1Z5Qkg5RFNVZUNGbnN0b2xVOTB4VEVNOFV6Qm1OZTV4VnFMUWRmZw?oc=5)
-
----
-
-### [En España se diagnostican unos 2.000 nuevos casos de esclerosis múltiple cada año](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGdWbXF1T0Q0dWZkR0piZXJrNW5NamxLS0h6dV9DVmM3UlAyYmRfZ05pZFlOdzhfX0xFX3pscE9BdURKcVRWbUdfTE1lS0I5aUNpY3o3M0hKT3BFTVp5LUlJNG9DTkViU0hydjVnVmtDbnJIcTdrLXZJa3ZGYU5kc0NQRXRzOTFqVjBmdTlNakJWb09QaXlwWVFJTjl2bFU1UG5ubE8wakRuNmhza0F4N0VXTQ?oc=5)
-
-2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[CLMPress](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGdWbXF1T0Q0dWZkR0piZXJrNW5NamxLS0h6dV9DVmM3UlAyYmRfZ05pZFlOdzhfX0xFX3pscE9BdURKcVRWbUdfTE1lS0I5aUNpY3o3M0hKT3BFTVp5LUlJNG9DTkViU0hydjVnVmtDbnJIcTdrLXZJa3ZGYU5kc0NQRXRzOTFqVjBmdTlNakJWb09QaXlwWVFJTjl2bFU1UG5ubE8wakRuNmhza0F4N0VXTQ?oc=5)
 
 ---
 
@@ -166,11 +182,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Ernährung und Entzündungen: Studie mit 92.000 zeigt 7% Demenz-Schutz - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnFnM2FqSlhyUkJkNlBiaTdRcWh5SFZ1Q0ZIRWtscGtZa0ctemN2TExEM3g3dFgtdlZhMUFFU0VFVkZteFFtV2J2elB0NFNjMFhrRkIyalFXSThaZnVHUGtKXzdmbVlxZlMxX1YyVnFGbXZCN3Vyc2JsUjIzSjNEQ0tGajJKQVVBdXNfdzJtMXhiVGFrSmc1MU1LN3BKZXFvbWhIOXNDaG9UVm1HQ1lHcg?oc=5)
+### [Multiple Sklerose: 15 Minuten Training verbessert Kognition um 70% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGJCQk9NczRFbmRqMkR3RVJoN1FOaUFQU0JLX1hhSllBRzlRbENZY2kxcFhTZF96Q3VvYm4zdlAwUkpDYmZQeE5wN2hBREE4dlNhMURlYmh2RTF1R3BFZnZlLUF0M2wtOGJxWDdvd19lTmFJM3B3UWw5S2JGbGNOMWNVNEF1aXpSMlpJenVleW5BQ0Z0dWVwdmR4SG1iMGtRYkxpWjFGQnRySk1uSmdxMTJ4d0otTUNJZzBsYU9B?oc=5)
 
-2026-05-30 <span class="news-indication-tag">MS</span>
+2026-05-30 <span class="news-indication-tag">Multiple Sklerose</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbnFnM2FqSlhyUkJkNlBiaTdRcWh5SFZ1Q0ZIRWtscGtZa0ctemN2TExEM3g3dFgtdlZhMUFFU0VFVkZteFFtV2J2elB0NFNjMFhrRkIyalFXSThaZnVHUGtKXzdmbVlxZlMxX1YyVnFGbXZCN3Vyc2JsUjIzSjNEQ0tGajJKQVVBdXNfdzJtMXhiVGFrSmc1MU1LN3BKZXFvbWhIOXNDaG9UVm1HQ1lHcg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGJCQk9NczRFbmRqMkR3RVJoN1FOaUFQU0JLX1hhSllBRzlRbENZY2kxcFhTZF96Q3VvYm4zdlAwUkpDYmZQeE5wN2hBREE4dlNhMURlYmh2RTF1R3BFZnZlLUF0M2wtOGJxWDdvd19lTmFJM3B3UWw5S2JGbGNOMWNVNEF1aXpSMlpJenVleW5BQ0Z0dWVwdmR4SG1iMGtRYkxpWjFGQnRySk1uSmdxMTJ4d0otTUNJZzBsYU9B?oc=5)
 
 ---
 
@@ -206,6 +222,14 @@ permalink: /news/rufinamide/
 
 ---
 
+### [El río Segura se ilumina de naranja por el Día Mundial de la Esclerosis Múltiple - Murcia Plaza](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFNxR2ZoSXdsU3ZLVDBScndxNnZFdV85RkxjcGJNN1VMb2RBMDZCS0hvOEx2ZF94cVZjeU1FN3VpandVLXdtTlA0Vl9qSkZmUlQtel9KczdUbjJnYV9RZVV4S25oMVg3QUpJY0o5Nlo0NjVIUTJ2ODRaSU85ZDU2N0hZYlNsRDhTd29VaW5ia19zQm40WjlCMEIyMnp5el9DdXNTbVdJX2xncGlCcXpBUG9McG53aUFqTUttUTJXeGxuWExreEI4N3owaw?oc=5)
+
+2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Murcia Plaza](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFNxR2ZoSXdsU3ZLVDBScndxNnZFdV85RkxjcGJNN1VMb2RBMDZCS0hvOEx2ZF94cVZjeU1FN3VpandVLXdtTlA0Vl9qSkZmUlQtel9KczdUbjJnYV9RZVV4S25oMVg3QUpJY0o5Nlo0NjVIUTJ2ODRaSU85ZDU2N0hZYlNsRDhTd29VaW5ia19zQm40WjlCMEIyMnp5el9DdXNTbVdJX2xncGlCcXpBUG9McG53aUFqTUttUTJXeGxuWExreEI4N3owaw?oc=5)
+
+---
+
 ### [Forscher untersuchen Wirkung von Abnehmspritzen auf Demenz und Sucht - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcjkxQWlya1E5OTJENGdFOHBJUlBJb2hBSHAweGZuTzVPUGwtbWV0X3NPYThJYzlsc2UweGZhZkFKYkE5X05HQ0VLTDYxaVJmZ2dMcVNuTWZyck9aWGxZQzZGLXg1X2VsaVl1YXRxXy0tU041aDhiZjBMb0ZwNnJQZ0FKUlp5b2pjRlkyNi1PSGxkYXJRdEJ1MA?oc=5)
 
 2026-05-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
@@ -216,7 +240,7 @@ permalink: /news/rufinamide/
 
 ### [Hoffnung in der Multiple Sklerose Forschung - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRl9lUHBDTExkSDNMbWxPZFJkWjlhNmNpd3NVeHpWTEpoZmVENVFNX3NlelZrSVViT29DRGY4Q0pFZGJ2Wk1VSDVzdUVIWDNrZ3ZoZ3J4eFRGdmFPVXMwUFlXaWo2ajE2cENBWmdPZTZ0VHdaOEFtVEdSYVBJRDlZMGFEQlV2cVRmdDRndzlkOTkzb1g4?oc=5)
 
-2026-05-30 <span class="news-indication-tag">MS</span>
+2026-05-30 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRl9lUHBDTExkSDNMbWxPZFJkWjlhNmNpd3NVeHpWTEpoZmVENVFNX3NlelZrSVViT29DRGY4Q0pFZGJ2Wk1VSDVzdUVIWDNrZ3ZoZ3J4eFRGdmFPVXMwUFlXaWo2ajE2cENBWmdPZTZ0VHdaOEFtVEdSYVBJRDlZMGFEQlV2cVRmdDRndzlkOTkzb1g4?oc=5)
 
@@ -262,14 +286,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Lack of sleep ‘fuelling cancer surge in under 50s’ - The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkgtUkFJRDNIT01XczJlVVNhVHc0aTlsdGhzVDJaa2ZHbEZnQVhyeGEyNkNMbjhOT3Z3Z3pqLUZaVTVqUER5WXJ3WF8xYXI5SlYwbkNaMG9xV0M3Q1czaGdpNkJhNExWdEJBNGhfM2hESVdEZ0ZwOGRMMmFNZ3MzSExoclJVdWxubUxIRlc4ZC1xaUFoQTNtUA?oc=5)
-
-2026-05-30 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkgtUkFJRDNIT01XczJlVVNhVHc0aTlsdGhzVDJaa2ZHbEZnQVhyeGEyNkNMbjhOT3Z3Z3pqLUZaVTVqUER5WXJ3WF8xYXI5SlYwbkNaMG9xV0M3Q1czaGdpNkJhNExWdEJBNGhfM2hESVdEZ0ZwOGRMMmFNZ3MzSExoclJVdWxubUxIRlc4ZC1xaUFoQTNtUA?oc=5)
-
----
-
 ### [Behandlung mit hoher Präzision: Hildesheimer Experte setzt neue Technologie bei der Bestrahlung von Krebspatienten ein - Hildesheimer Allgemeine Zeitung](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbGdDejktdWVkdjJBMmlHc3h5b19jc3Zpd19kbVd6ZXVMb2tYNVBvZG4yRzIzZjBBUDFIMjQxQndwQnZxaW51UnVnUlNVcVlxekkyM25WSGdxWnY0bXhoSGFqNjF5UmJ1Z0NmZ1c5MGU2R3RwQ3pNT0NqLUt3dWNQTDBZYVlFd29XRE05blZYRVBXQ3JEWVhxaTJRcUQtZXBmclBuQXNfSGF1eWhSWHMzenBHbzAyNm9PbVdQTmJjQWJuZVBrcE1EWUFIOWVJYjVNTU9BV2R6UWtESWNTaTVCQzQ2bF9xa1JYalkxX1FETjVlVU5tWkoyREYyZU5oUjg?oc=5)
 
 2026-05-30 <span class="news-indication-tag">Krebs</span>
@@ -310,19 +326,19 @@ permalink: /news/rufinamide/
 
 ---
 
+### [Poor sleep 'driving cancer in under-50s', experts fear - 8 signs you're at risk - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3p0ekEyNjdyTEtlOE5sTGdZY0ZJVWdpaWMtNzJfWERRa3hUS3pxb21GX2N0SFVGSVRDazVNNVYxa2doWkNtLXdsWlZnMzFiREhPOTZIZ29rQVI1anc4RzZUOGJOZ1RyY3pOc3N2a2RoeXEwWnVBTlQ1bEdYeDBmbTViYVNfQXNxU0pjNE1hUlEwVkxxUEpzSk9za2Q?oc=5)
+
+2026-05-29 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3p0ekEyNjdyTEtlOE5sTGdZY0ZJVWdpaWMtNzJfWERRa3hUS3pxb21GX2N0SFVGSVRDazVNNVYxa2doWkNtLXdsWlZnMzFiREhPOTZIZ29rQVI1anc4RzZUOGJOZ1RyY3pOc3N2a2RoeXEwWnVBTlQ1bEdYeDBmbTViYVNfQXNxU0pjNE1hUlEwVkxxUEpzSk9za2Q?oc=5)
+
+---
+
 ### [Scoperto un farmaco che rallenta la sclerosi multipla](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWx6TXdKc0dJTzRlM3d1RC0tdV9Od3EtQjI2aG16QmNydzJ2ZjdmWGJxRVBzX2RjQ2swWHlRdExjbFl1bFNwNEVuUGc1TGFKdzNPRGlYTzhIZE1kX0d4NUZObUlvLTRmQ3ZqTUJmWHM0THZQNEEta05HTDVNVW9sWms2bU5IOXc0STZ6V3dNbTc?oc=5)
 
 2026-05-29 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWx6TXdKc0dJTzRlM3d1RC0tdV9Od3EtQjI2aG16QmNydzJ2ZjdmWGJxRVBzX2RjQ2swWHlRdExjbFl1bFNwNEVuUGc1TGFKdzNPRGlYTzhIZE1kX0d4NUZObUlvLTRmQ3ZqTUJmWHM0THZQNEEta05HTDVNVW9sWms2bU5IOXc0STZ6V3dNbTc?oc=5)
-
----
-
-### [Ebola, la prima guarigione. Vaccino e farmaco contro virus, c'è una data](https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ5dzFUdS1abHluNzdtbjZzWFBaNmVVZkNBY3pKempvRTZaQlUyb0lncU1vY1U4QjZrSkxLMmI4U0RDbE81TmtsNWE4aXo4bGJZX0ZtS2ZKeE1sTmREMWVxZ0xHTXNfQkpVUWRWaVc5SXNLRFY0Z28ycnZ1Y2xwbWhmd1FOZVN1amJCY0lOb1E5VnRuV1ZRMXFaeFRBdw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ5dzFUdS1abHluNzdtbjZzWFBaNmVVZkNBY3pKempvRTZaQlUyb0lncU1vY1U4QjZrSkxLMmI4U0RDbE81TmtsNWE4aXo4bGJZX0ZtS2ZKeE1sTmREMWVxZ0xHTXNfQkpVUWRWaVc5SXNLRFY0Z28ycnZ1Y2xwbWhmd1FOZVN1amJCY0lOb1E5VnRuV1ZRMXFaeFRBdw?oc=5)
 
 ---
 
@@ -339,14 +355,6 @@ permalink: /news/rufinamide/
 2026-05-29 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOalJMdk1xenNaajFwMlJpUnd5YjdRUGNwZXBFdmNkdWNwQ3g2MmRmMm9WNkFVeTlqN3NTakd0Wkc5VzRkLTdrMlNNdzR0UU5CX0I4ZlpnVU4zclh4ZmNaWGNBUFVWN3dfTXVVOHVMYUEyYWt2UmlTRU1telNnMnNlc19kdEZYZUtpbFpWUGRyVTh4LXFlM3ExdlZ3U2JNT2Q0U0E1dVFQNEpVRFppUlEwSm81X2Z1R0NYSmNuVnNB?oc=5)
-
----
-
-### [«A 27 anni avevo forti crampi addominali, ma non l'ho detto al medico. Poi mi è stato diagnosticato un tumore al quarto stadio» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTR5d2FCSUs1WUNTblRQUDRiR0NLdXI3RXB4TkVKN1hIZVFMcTFXM2hEdGlIYW9KVzBYeEoyUWtFenFOYjBmYlpMRk1MX1I2bFM2NGs0XzlnaFRTOWZHaHpKWlBLc2Y0bnZFMWtEeWx5OExFSkU3VG12VmQyMWpMMF91OG5RcU9ULXZkZmxMZWfSAYwBQVVfeXFMUEJEMllGU3dtRzB4UmpYcC1mZUNmbzlsN1BfZ3B5RHIwQ1R3Y0gwOHVtaEZXQmVoZXhGM2h4SDFUemdvc0d6MWFrQU15M1M0eXF3a19SMWJKaGZJeV80Skd6NGg4cEFIa1gzZFBZUFZmQ2llV09iSTBDQm5KbGY2MGYwU0hfcGFENFN5b3U?oc=5)
-
-2026-05-29 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTR5d2FCSUs1WUNTblRQUDRiR0NLdXI3RXB4TkVKN1hIZVFMcTFXM2hEdGlIYW9KVzBYeEoyUWtFenFOYjBmYlpMRk1MX1I2bFM2NGs0XzlnaFRTOWZHaHpKWlBLc2Y0bnZFMWtEeWx5OExFSkU3VG12VmQyMWpMMF91OG5RcU9ULXZkZmxMZWfSAYwBQVVfeXFMUEJEMllGU3dtRzB4UmpYcC1mZUNmbzlsN1BfZ3B5RHIwQ1R3Y0gwOHVtaEZXQmVoZXhGM2h4SDFUemdvc0d6MWFrQU15M1M0eXF3a19SMWJKaGZJeV80Skd6NGg4cEFIa1gzZFBZUFZmQ2llV09iSTBDQm5KbGY2MGYwU0hfcGFENFN5b3U?oc=5)
 
 ---
 
@@ -414,11 +422,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Semaglutide, perdere peso con i nuovi farmaci è associato a un rischio ridotto di malattie a reni, cuore e ossa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
+### [Un estudio de Vall d’Hebron confirma la seguridad de las vacunas vivas atenuadas en personas con esclerosis múltiple](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZTJkaGI0Y2JYdmdHSHRWZk5DZjdOVGd2Vm8zcGM1WUVNcFE3Y0xKazBDNDl4b1E5VjVoNUpPZE41R3pLTnJMVURiQS1Ec3luNWpGVU5JYTJJYi0wWTl4QmFNREFWM3NyYjA0NWRRa3l3RnhaZTd6M2JyYk5IcnZuYTE1NElIV2h1NTlDa2JvX0FKN0hGR3Nid2phVFpPRXJrbWM2WkNybjVKOW51emtPXzRibHZocU92ejVON0NPYXhmNzRMLXNyaDl5aklkRlBFX0hYZUYyRlFsWnhXdEgzZWY3a0k2OS1jX0E?oc=5)
 
-2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+2026-05-29 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZTJkaGI0Y2JYdmdHSHRWZk5DZjdOVGd2Vm8zcGM1WUVNcFE3Y0xKazBDNDl4b1E5VjVoNUpPZE41R3pLTnJMVURiQS1Ec3luNWpGVU5JYTJJYi0wWTl4QmFNREFWM3NyYjA0NWRRa3l3RnhaZTd6M2JyYk5IcnZuYTE1NElIV2h1NTlDa2JvX0FKN0hGR3Nid2phVFpPRXJrbWM2WkNybjVKOW51emtPXzRibHZocU92ejVON0NPYXhmNzRMLXNyaDl5aklkRlBFX0hYZUYyRlFsWnhXdEgzZWY3a0k2OS1jX0E?oc=5)
 
 ---
 
@@ -454,22 +462,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Poumon, sein, colon : les médicaments de type Ozempic auraient-ils un effet bénéfique sur l’évolution de certains cancers ?](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPclFfQzRCZG9adlpGOXZKc2VvY19BSl9DRndTcV92a1JkLUM4T0ZSMlR5YmVWN1VCaFk5WWhjdVVXRHlJMG9ydnM0SnEzQzBhRVZJTFh2SFRjV0tGd1lCMzFVRUJYQUVEa29TRzFQODc5b3NsQnBwQTdjTDMzaXNZS281TUZLSURIZG9lOWdhMTRmUy1vV29uTnpRMWFvMW9aS2QwOE5oVGF3RlBQaGt5RXlzWnpIaGttcnlVU3VXQzlpZUNGcUdfMGhGLXhMUEg3dWJVMG8yRDMxQlNEaHNSLUg2OVNEVG5rbTB1VFdMbkF6YnM?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPclFfQzRCZG9adlpGOXZKc2VvY19BSl9DRndTcV92a1JkLUM4T0ZSMlR5YmVWN1VCaFk5WWhjdVVXRHlJMG9ydnM0SnEzQzBhRVZJTFh2SFRjV0tGd1lCMzFVRUJYQUVEa29TRzFQODc5b3NsQnBwQTdjTDMzaXNZS281TUZLSURIZG9lOWdhMTRmUy1vV29uTnpRMWFvMW9aS2QwOE5oVGF3RlBQaGt5RXlzWnpIaGttcnlVU3VXQzlpZUNGcUdfMGhGLXhMUEg3dWJVMG8yRDMxQlNEaHNSLUg2OVNEVG5rbTB1VFdMbkF6YnM?oc=5)
-
----
-
-### [Un estudio de Vall d'Hebron ve seguras las vacunas vivas atenuadas en personas con esceloris múltiple](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVhQUTRSMi1uVzczVF9qRXRXcHJlV2JsSFNRUHMxTk9OTlJKTHNKZGlSazNIUVAxLUJjbktyNWsxV19LVW5KNmg3YUg4Z0MxRHlxX1A1X25aSF9oX3dJdjlqUGNnb2VXNHZ6MFZLTUE3RVNGOF9iX1duWTN1WG1Fcmxic21GRlU1cldpazVEY0FpeGRhN0lEQ2dKQVhSd0hYSDI2QjZ0MlREdktmUlNwbU0zUWxwVmh5eVJIY1ZGbTZfOFFCeUhLWnUyMFAtWUlFR1Z2T19ERWJna0Z1Uy1NZjUyRVBuc3VWY2Fuem9R?oc=5)
-
-2026-05-29 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVhQUTRSMi1uVzczVF9qRXRXcHJlV2JsSFNRUHMxTk9OTlJKTHNKZGlSazNIUVAxLUJjbktyNWsxV19LVW5KNmg3YUg4Z0MxRHlxX1A1X25aSF9oX3dJdjlqUGNnb2VXNHZ6MFZLTUE3RVNGOF9iX1duWTN1WG1Fcmxic21GRlU1cldpazVEY0FpeGRhN0lEQ2dKQVhSd0hYSDI2QjZ0MlREdktmUlNwbU0zUWxwVmh5eVJIY1ZGbTZfOFFCeUhLWnUyMFAtWUlFR1Z2T19ERWJna0Z1Uy1NZjUyRVBuc3VWY2Fuem9R?oc=5)
-
----
-
 ### [Ebola, l'Italia invia esperti in Congo: dottoressa Msf sotto osservazione](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2I1ZElhYWJ5dWZvWU5FYmdHR3RZcWtYVUhEWFFRRVdwaURTX1RqbWVQOENPNmxTMFQyZ3l3Z3hDc0VuUHR3bjJucThIWlpDVmxSNWkxTVRrQVh0ZERYNE5INGNoM1UzNVpNS3JZa1puLXJQVDI5RS1rUDM3ZGg1RTJ6OHRteGlfSnNGZGduMXdySHNtSmVTR3lYXzJxb0ZMcVlrTlpTYldXVllrT3JsNmFtM1NLWHNnVUY0?oc=5)
 
 2026-05-29 <span class="news-indication-tag">MS</span>
@@ -486,6 +478,14 @@ permalink: /news/rufinamide/
 
 ---
 
+### [5 alimentos cotidianos que ayudan a bajar el colesterol, según nutricionistas](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVV1VFVNUEwxWGF2aHlmR1J5UFdrNGxjYkhCT3NoelNRUU9BYVFMUlAtaDI4bEV2SFd0UFZIblpmOGVqRVh1ZTh3Wi00RU03dGo0cERlbUZrdFJJOWdabzdwN3FLRF96M2Q0US1NaDZGOUpGWldTRGw5dUwtX2NVaDNUcXlOSXlFSGE4UGJDMzZBcFRXWDJqZnZvQm1iQi0wQzBSQVFsZzBoVkZqR2pycTE3cHYzWlo2UWfSAdQBQVVfeXFMUDFaY0tKR01EVTVCQy1qanRCZGVlcDFWcjZKVDVUcVJmcXQzQlJWS21lblE1eWRVaGgzcDZtbGF0M1JMdnU5YzFzT0dsai1YaF9EcUJQNjloaURveHczMHloXzFCcVJ2N1FJMU5xYmEzbXRQSDdQWjZ3eHZqbVVPUGJlMDM5Q3czemludno1VlRYMHItamFvQWxWVVRuOFQ3b2JJUHQ2U3RPOFZVMjU1UE83RVlWcjhHVlpiSGljNGxjRnRpMFM2OVltTVhubG1WZ1RFQlE?oc=5)
+
+2026-05-29 <span class="news-indication-tag">MS</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVV1VFVNUEwxWGF2aHlmR1J5UFdrNGxjYkhCT3NoelNRUU9BYVFMUlAtaDI4bEV2SFd0UFZIblpmOGVqRVh1ZTh3Wi00RU03dGo0cERlbUZrdFJJOWdabzdwN3FLRF96M2Q0US1NaDZGOUpGWldTRGw5dUwtX2NVaDNUcXlOSXlFSGE4UGJDMzZBcFRXWDJqZnZvQm1iQi0wQzBSQVFsZzBoVkZqR2pycTE3cHYzWlo2UWfSAdQBQVVfeXFMUDFaY0tKR01EVTVCQy1qanRCZGVlcDFWcjZKVDVUcVJmcXQzQlJWS21lblE1eWRVaGgzcDZtbGF0M1JMdnU5YzFzT0dsai1YaF9EcUJQNjloaURveHczMHloXzFCcVJ2N1FJMU5xYmEzbXRQSDdQWjZ3eHZqbVVPUGJlMDM5Q3czemludno1VlRYMHItamFvQWxWVVRuOFQ3b2JJUHQ2U3RPOFZVMjU1UE83RVlWcjhHVlpiSGljNGxjRnRpMFM2OVltTVhubG1WZ1RFQlE?oc=5)
+
+---
+
 ### [Eleonora e Omar, dalla sclerosi multipla all'amore nato dentro AISM: «Come volontari, partiamo dalle esperienze personali per aiutare i giovani con diagnosi. Il punto di forza della nostra relazione? Siamo una squadra: dove non arriva uno, arriva l'altro - Vanity Fair Italia](https://news.google.com/rss/articles/CBMihwJBVV95cUxOWk04SEs1ZHhXZUNyUnZKd3RVSllTdlNtR2txc2ExSXFydHdWUm95dzVUaDNjTnczTGF1YURNYWRlWEg1QURpQWFmdTNzdWxPLWxObXI5cFdrSEVfUVBKRElhQWhSSTJQUTdGeW5uOEZEekVjVXJmVjU1TlRaUkVvREljQnhhalk1b2N3QTdiWmY0cEowamFWYnNSWmd0dnA2dXcyZmVXcE5DV0s2U2pEZThtWUM4bGNZQTY4eHBaeTBrdDhhdWE1a2k3b0cxbnZ3d3JfZWRPdm9FWlUyWl9HVUFDOTV2V0pLQm40eEdtLUFTU3h1ME0zUEpYeGFTSTdwaTJZR0NaWQ?oc=5)
 
 2026-05-29 <span class="news-indication-tag">sclerosi multipla</span>
@@ -494,51 +494,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Cancer : l’histoire édifiante d’une application «miracle»... et déremboursée faute d’efficacité - Le Figaro Santé](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUhMY1M1N1QxM2lfTTE1c3B5YjI1eTRjcWxrQ0xEYWdZV3VuWDRVMHBiNzVUMjV0RWx2VEhlZGlaeGh1WXg5VWtydTQ5TVlKcGNjSFBQejZRSEsxTGpSNFAtYVlmRTdFVndGX1NndWlVc1FsazRCcm9xRjNFbk13UVh2WjJTeXhqSmV0aEN2TVhLa0RaYW4tNUxkT3NJYTU1QUpzcEd5Q0tBa1A0ekg0WVNIZlVTWndNM3VranJHak12QlQyS0s4R0dCcHU?oc=5)
-
-2026-05-29 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUhMY1M1N1QxM2lfTTE1c3B5YjI1eTRjcWxrQ0xEYWdZV3VuWDRVMHBiNzVUMjV0RWx2VEhlZGlaeGh1WXg5VWtydTQ5TVlKcGNjSFBQejZRSEsxTGpSNFAtYVlmRTdFVndGX1NndWlVc1FsazRCcm9xRjNFbk13UVh2WjJTeXhqSmV0aEN2TVhLa0RaYW4tNUxkT3NJYTU1QUpzcEd5Q0tBa1A0ekg0WVNIZlVTWndNM3VranJHak12QlQyS0s4R0dCcHU?oc=5)
-
----
-
 ### [Ebola, dottoressa Msf risultata negativa al test. Meloni: "Serve vigilare su frontiere" - Sky TG24](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLWFJQmJUN3Z4Ri1kcHB4bUpuVTlEbUpTRmlwTnd1eGlCQ2hPV0hsRWMwNl9IamFJV3VjWk9wVkdCbUVmRE16N2stMG05LWpoUHJqSjJieXF3V0ZTMzNSRm9XTTZ0WFdiTFJTM1NR?oc=5)
 
 2026-05-29 <span class="news-indication-tag">MS</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLWFJQmJUN3Z4Ri1kcHB4bUpuVTlEbUpTRmlwTnd1eGlCQ2hPV0hsRWMwNl9IamFJV3VjWk9wVkdCbUVmRE16N2stMG05LWpoUHJqSjJieXF3V0ZTMzNSRm9XTTZ0WFdiTFJTM1NR?oc=5)
-
----
-
-### [Pflanzen bremsen ihr Immunsystem, um Virusinfektionen zu überleben - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjFER2NpQkVJaFpxb2dwVG1obExQUURTNkhxSEdCMHJJRDM0dmhXV21lc0FzU2k1UWR5QUZ1X3hhTDlCaHM3aVJldGdPRzFpZ093Vlhob0ROVTVwUS05Z0V1RlhkQ3VRbjhlQ0NRREJOY2hkdGN0Sm1rZnUyV1ZLRHA0ZWdrb0tQamVTZnRoUFRURVg1bnlOLS1tNmdCelNobjRzTWhEV2RVRm44eGJhQmJ3NENBdTdubkh4VExpZjZPQQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjFER2NpQkVJaFpxb2dwVG1obExQUURTNkhxSEdCMHJJRDM0dmhXV21lc0FzU2k1UWR5QUZ1X3hhTDlCaHM3aVJldGdPRzFpZ093Vlhob0ROVTVwUS05Z0V1RlhkQ3VRbjhlQ0NRREJOY2hkdGN0Sm1rZnUyV1ZLRHA0ZWdrb0tQamVTZnRoUFRURVg1bnlOLS1tNmdCelNobjRzTWhEV2RVRm44eGJhQmJ3NENBdTdubkh4VExpZjZPQQ?oc=5)
-
----
-
-### [Liverpool students encouraged to donate items as they move out](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbFQyVGlHTHlsQ05rdEJzbWNtTnVkd2luS1BfVWJqLW1tUjFxdjM0MEFQYk5OUEg1RXNlWUtPbkEzX081MDdJNGp3NnJrNDY3SldiR1hRX2M4MFJQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbFQyVGlHTHlsQ05rdEJzbWNtTnVkd2luS1BfVWJqLW1tUjFxdjM0MEFQYk5OUEg1RXNlWUtPbkEzX081MDdJNGp3NnJrNDY3SldiR1hRX2M4MFJQ?oc=5)
-
----
-
-### [Wichtiges Gesundheitsrisiko: Warum dieses beliebte Alltags-Gadget bald Leben verändern könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQllua1dUTjBlRjZ2MGR2N2JMTjl0M0xhS3ZHTUgweEhUcTlCSW1OZVkwLXJ1dV9ham04MEJHUVQxOUZscW9TcFZONjc0alpvY2pBSzFsZnR0Qzk0cUt0VzNtcnF6aDlRZlNEeWY5LVc1TENhM3V4Vlh3Q1ZMckFVb0p1cE8zbkV4VVJZQ1VXLUptZGh2MXpWTzcxWjAzcjEtZlVrbmVLRGVVU19oajRwVFJITlpZNjc1cUVSdjFqaWhnS0JPZl9wSVFqWXYwTWtMOUlEc1BQSWp5SHFxSlFzRg?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span>
-
-來源：[giga.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQllua1dUTjBlRjZ2MGR2N2JMTjl0M0xhS3ZHTUgweEhUcTlCSW1OZVkwLXJ1dV9ham04MEJHUVQxOUZscW9TcFZONjc0alpvY2pBSzFsZnR0Qzk0cUt0VzNtcnF6aDlRZlNEeWY5LVc1TENhM3V4Vlh3Q1ZMckFVb0p1cE8zbkV4VVJZQ1VXLUptZGh2MXpWTzcxWjAzcjEtZlVrbmVLRGVVU19oajRwVFJITlpZNjc1cUVSdjFqaWhnS0JPZl9wSVFqWXYwTWtMOUlEc1BQSWp5SHFxSlFzRg?oc=5)
-
----
-
-### [Neue Selbsthilfegruppe für Epilepsie startet in Weiden](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
-
-2026-05-29 <span class="news-indication-tag">Epilepsie</span>
-
-來源：[Oberpfalzecho](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
 
 ---
 

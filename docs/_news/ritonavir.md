@@ -54,11 +54,11 @@ permalink: /news/ritonavir/
 
 ## 相關新聞（1 則）
 
-### [Una droga experimental ofrecería una “cura funcional” para algunos pacientes con hepatitis B crónica - Gizmodo en Español](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaWhEQXlIOEwtcWM4NFZpMGtnVVREMDF6VnhIdEhJUUU5MjhLTjdONDd3QUduN19IWWNfcXV1SUQ0M1R4ODdSbS1wV201blBBcnBPVWxCb1ZFN2QtSGhUdGpmY1BRdXZ3eEZ5dEVxcXRVNmpKeC1hZHJPLWhtTjJfdXIyYXZrVEcwcVhQSFFCMGxzT1c1cmY3Vmt4QmQ2Q0JLalNwWm5PY1JzWGVmaEFUdVJNcWJ2dy1VaHlOcS1UV0g3UmdOZl9oNWlJdEg?oc=5)
+### [Bepirovirsen logra la curación funcional en uno de cada cinco pacientes con hepatitis B crónica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
 
-2026-05-30 <span class="news-indication-tag">hepatitis</span>
+2026-05-31 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaWhEQXlIOEwtcWM4NFZpMGtnVVREMDF6VnhIdEhJUUU5MjhLTjdONDd3QUduN19IWWNfcXV1SUQ0M1R4ODdSbS1wV201blBBcnBPVWxCb1ZFN2QtSGhUdGpmY1BRdXZ3eEZ5dEVxcXRVNmpKeC1hZHJPLWhtTjJfdXIyYXZrVEcwcVhQSFFCMGxzT1c1cmY3Vmt4QmQ2Q0JLalNwWm5PY1JzWGVmaEFUdVJNcWJ2dy1VaHlOcS1UV0g3UmdOZl9oNWlJdEg?oc=5)
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
 
 ---
 

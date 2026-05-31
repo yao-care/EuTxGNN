@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,23 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Herzinfarkt und Schlaganfall: Fast 99% vollständig vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
+
+2026-05-31
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
+
+---
+
+### [«Fumo, ma sto bene»: lo pensano in molti, però il tabagista sano non esiste. E i nuovi prodotti non sono innocui - Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNeG1UaVFvanBsZng0TF9hTXcydGltSkJra1ByOHZEb0JsODJ3akZBTUFEYW9aWGNkYWRkbEh2N1ExZ1l1dDcwRk1NOFBNZ1E4RkFlYTZ6SmZ4SF9tUzR0d2NINi1SZWFhb1U4UU02b1RNUXkwUHJiMXVucEFDbG00dk5HREZRbU9ydzhPa1dZemVyZUc2YnJtQUp1NUI4TWlQY2laeWkzYkEwanBCdXkwWllYeXpBbE1YWUJ1S2ZuMVNpYTVPZWNfT2dXOE5DdExVY1BMdElhUU1JazI2MDNJM3Zrbkl1VGJOd0ExWGo4UkctaTlNaDk5MG5Td1BmeEptNTQ3bEozekplT1BpbEg3Q0ZlYnRveGJxWXAtMzQ3eTZLMHhOZHdydlpvS2tUaGFqUWVHdtIBugJBVV95cUxQLWs1ZmhELU84MUp6UzhKZU81eTRNRlFnNzMyZHJaZDdUT05wcVYybWgwZXhWQTg5ckNSTXR6blp6MTVpTzBpQm90RzA3ZnczQnJzTjRsR1pSTG5Uc0RIQXpBRVdPcURZMUNIaWFzOXFtSGh6eFpMYlBPZ2NNaWVnZVpMWnhMeTMxM2p6Z3NRUnphM3R0NTJGTDY2M01XWWlSVUpWRmE3ZGZSSlpBNlpHWF9zWVJnakJPazBpalk0a0F1WWhVUzctczh4LXVrVVJiVDR2alZzZXNiVDRTVzI0Y0NIVW9Gd2I5TlAxM3dJVWN3T21qZjJWOVp3TGYyeC04LUZXRS1rcHlpaG1WUmVEOUVXa005M0dEdDN2elpKSjF1bm85SEZCcDV6d3NzQ3BIYS12T3dCeEdjQQ?oc=5)
+
+2026-05-30
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNeG1UaVFvanBsZng0TF9hTXcydGltSkJra1ByOHZEb0JsODJ3akZBTUFEYW9aWGNkYWRkbEh2N1ExZ1l1dDcwRk1NOFBNZ1E4RkFlYTZ6SmZ4SF9tUzR0d2NINi1SZWFhb1U4UU02b1RNUXkwUHJiMXVucEFDbG00dk5HREZRbU9ydzhPa1dZemVyZUc2YnJtQUp1NUI4TWlQY2laeWkzYkEwanBCdXkwWllYeXpBbE1YWUJ1S2ZuMVNpYTVPZWNfT2dXOE5DdExVY1BMdElhUU1JazI2MDNJM3Zrbkl1VGJOd0ExWGo4UkctaTlNaDk5MG5Td1BmeEptNTQ3bEozekplT1BpbEg3Q0ZlYnRveGJxWXAtMzQ3eTZLMHhOZHdydlpvS2tUaGFqUWVHdtIBugJBVV95cUxQLWs1ZmhELU84MUp6UzhKZU81eTRNRlFnNzMyZHJaZDdUT05wcVYybWgwZXhWQTg5ckNSTXR6blp6MTVpTzBpQm90RzA3ZnczQnJzTjRsR1pSTG5Uc0RIQXpBRVdPcURZMUNIaWFzOXFtSGh6eFpMYlBPZ2NNaWVnZVpMWnhMeTMxM2p6Z3NRUnphM3R0NTJGTDY2M01XWWlSVUpWRmE3ZGZSSlpBNlpHWF9zWVJnakJPazBpalk0a0F1WWhVUzctczh4LXVrVVJiVDR2alZzZXNiVDRTVzI0Y0NIVW9Gd2I5TlAxM3dJVWN3T21qZjJWOVp3TGYyeC04LUZXRS1rcHlpaG1WUmVEOUVXa005M0dEdDN2elpKSjF1bm85SEZCcDV6d3NzQ3BIYS12T3dCeEdjQQ?oc=5)
+
+---
 
 ### ['Absolute warrior' baby who suffered stroke at birth celebrates first birthday - STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI3dGV1Y3U0bjY4ZmdrWUZNTVpadzhobkJIN3Z1NmJNc0NWX09JYkRvTGR1RjRVM0RoRm90eG56TVRNU2x5YlZBTXdSSkc0MVlnUHpUcXRyUkJWM01UQVNqejlTTWZTTjJrUzAyV0M4UmhOV3NRZG1PdWFFdm1MdTNXbnJ3SmVNbWdXZnQ0WmFvdDdtclEyODh0YWlSQTRoU2dQVXo2YlZvQW5namc?oc=5)
 
@@ -49,19 +65,19 @@ permalink: /news/stroke/
 
 ---
 
+### [Polypille gegen Schlaganfall: Dreifach-Kombination senkt Risiko signifikant - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0t3SnROeWJBZkxpQmhPTWZ3M2ktQy1KeUJYeEZVdUFKeGVoOHVaVDlBQWhmVXpoaHpSVnM5WTdXdG5kMmY2SGVBWHFZc2NXZ0hHNEJQSnlzYlcyX1d0SUJ4OXBmRGFJay1vd3dKR1lJb05ZVWh1SkV0TVNhT0E1RWZaeVpQRlU2UFdadzJVVEliMVpDMnl2U1ZvX05MVng5dmhuVHRjN2dsLTJ6SDhyUQ?oc=5)
+
+2026-05-30
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0t3SnROeWJBZkxpQmhPTWZ3M2ktQy1KeUJYeEZVdUFKeGVoOHVaVDlBQWhmVXpoaHpSVnM5WTdXdG5kMmY2SGVBWHFZc2NXZ0hHNEJQSnlzYlcyX1d0SUJ4OXBmRGFJay1vd3dKR1lJb05ZVWh1SkV0TVNhT0E1RWZaeVpQRlU2UFdadzJVVEliMVpDMnl2U1ZvX05MVng5dmhuVHRjN2dsLTJ6SDhyUQ?oc=5)
+
+---
+
 ### [Demenz: 14 beeinflussbare Faktoren senken das Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFhTN0NNNXgxV2FSeVY0ek9zVzVxVnh1ajAzcFlpbU4tZ3R5dmJXU3pTZjZkLTFlMnpRdFVXM0pXblVhR1dQR3hrQl9zdkQwamxERWFyXzJfREZNN3I4N29fV1pjMTBoZ2F4UFJjeVNIdV9NMlNib3I2X2tZbXN3NzB4M2NGOUp4Vk9maFZPcnYybHl6WTU4SjhQZ3VmVHZBZ21aemFod2dEOVo4M0E3LQ?oc=5)
 
 2026-05-30
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFhTN0NNNXgxV2FSeVY0ek9zVzVxVnh1ajAzcFlpbU4tZ3R5dmJXU3pTZjZkLTFlMnpRdFVXM0pXblVhR1dQR3hrQl9zdkQwamxERWFyXzJfREZNN3I4N29fV1pjMTBoZ2F4UFJjeVNIdV9NMlNib3I2X2tZbXN3NzB4M2NGOUp4Vk9maFZPcnYybHl6WTU4SjhQZ3VmVHZBZ21aemFod2dEOVo4M0E3LQ?oc=5)
-
----
-
-### [Hypertonie: Polypille kann Schlaganfall-Rezidiv nach Hirnblutung vorbeugen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMa2tEUWl4VFRxZVk4OXJmbEhYZHU1SUVRYUNHbzgwbWE3MUdPWlNDeGp5VS1yMW9wdUxXMC1hVEk4WGdBX1lHeG9qbk5VZUQ2X1AwTW92el95bFRvaW5pY0t1VlBKUlVWbWliU3JWUnF1dVNtd0lmeXBnTkhnWFB6RWdhWlBZTjFxZUNoWnMzMEhFU0ZJX1NidXpUdkhMNXJvYlY5bHZIT2x0azdnaFpVbWxKNG5CTHI1di1VZG1KN2NLaldNdkdzNmpQV2NaRmFJcVVaWVVMQQ?oc=5)
-
-2026-05-29
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMa2tEUWl4VFRxZVk4OXJmbEhYZHU1SUVRYUNHbzgwbWE3MUdPWlNDeGp5VS1yMW9wdUxXMC1hVEk4WGdBX1lHeG9qbk5VZUQ2X1AwTW92el95bFRvaW5pY0t1VlBKUlVWbWliU3JWUnF1dVNtd0lmeXBnTkhnWFB6RWdhWlBZTjFxZUNoWnMzMEhFU0ZJX1NidXpUdkhMNXJvYlY5bHZIT2x0azdnaFpVbWxKNG5CTHI1di1VZG1KN2NLaldNdkdzNmpQV2NaRmFJcVVaWVVMQQ?oc=5)
 
 ---
 

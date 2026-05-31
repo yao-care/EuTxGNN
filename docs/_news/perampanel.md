@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/perampanel/
 <li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
 <li>partial motor epilepsy（99.4%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
-<li class="indication-matched">epilepsy（99.0%）<span class="indication-tag">📰 Epilepsie</span></li>
+<li>epilepsy（99.0%）</li>
 <li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
 <li>trigeminal nerve neoplasm（98.7%）</li>
 <li>trigeminal neuralgia（97.2%）</li>
@@ -52,15 +52,9 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Neue Selbsthilfegruppe für Epilepsie startet in Weiden](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
-
-2026-05-29 <span class="news-indication-tag">Epilepsie</span>
-
-來源：[Oberpfalzecho](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlNkUHRKbFhBNENiUUc1dGFYRnNRMWg2MTNEWk5XNXdqRW1NcFJuUXNFdFo2bDEtdmxwcDU1eUVxazA2aUd3bEJ0bW82Nmp5YW9FbGFiVWZrS01TSTR3Zm50OEVLcDk4Z09aY0Q1ZW1rN0RGajZiV1RNMUh1UTBUSlU5REdxRDBLZ0N4M3k1WG9GYzhZd0tPR1RXQ2hNOF9mb1E?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

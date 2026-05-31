@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [Herzinfarkt und Schlaganfall: Fast 99% vollständig vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
+
+2026-05-31 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
+
+---
+
+### [«Fumo, ma sto bene»: lo pensano in molti, però il tabagista sano non esiste. E i nuovi prodotti non sono innocui - Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNeG1UaVFvanBsZng0TF9hTXcydGltSkJra1ByOHZEb0JsODJ3akZBTUFEYW9aWGNkYWRkbEh2N1ExZ1l1dDcwRk1NOFBNZ1E4RkFlYTZ6SmZ4SF9tUzR0d2NINi1SZWFhb1U4UU02b1RNUXkwUHJiMXVucEFDbG00dk5HREZRbU9ydzhPa1dZemVyZUc2YnJtQUp1NUI4TWlQY2laeWkzYkEwanBCdXkwWllYeXpBbE1YWUJ1S2ZuMVNpYTVPZWNfT2dXOE5DdExVY1BMdElhUU1JazI2MDNJM3Zrbkl1VGJOd0ExWGo4UkctaTlNaDk5MG5Td1BmeEptNTQ3bEozekplT1BpbEg3Q0ZlYnRveGJxWXAtMzQ3eTZLMHhOZHdydlpvS2tUaGFqUWVHdtIBugJBVV95cUxQLWs1ZmhELU84MUp6UzhKZU81eTRNRlFnNzMyZHJaZDdUT05wcVYybWgwZXhWQTg5ckNSTXR6blp6MTVpTzBpQm90RzA3ZnczQnJzTjRsR1pSTG5Uc0RIQXpBRVdPcURZMUNIaWFzOXFtSGh6eFpMYlBPZ2NNaWVnZVpMWnhMeTMxM2p6Z3NRUnphM3R0NTJGTDY2M01XWWlSVUpWRmE3ZGZSSlpBNlpHWF9zWVJnakJPazBpalk0a0F1WWhVUzctczh4LXVrVVJiVDR2alZzZXNiVDRTVzI0Y0NIVW9Gd2I5TlAxM3dJVWN3T21qZjJWOVp3TGYyeC04LUZXRS1rcHlpaG1WUmVEOUVXa005M0dEdDN2elpKSjF1bm85SEZCcDV6d3NzQ3BIYS12T3dCeEdjQQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">ictus</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNeG1UaVFvanBsZng0TF9hTXcydGltSkJra1ByOHZEb0JsODJ3akZBTUFEYW9aWGNkYWRkbEh2N1ExZ1l1dDcwRk1NOFBNZ1E4RkFlYTZ6SmZ4SF9tUzR0d2NINi1SZWFhb1U4UU02b1RNUXkwUHJiMXVucEFDbG00dk5HREZRbU9ydzhPa1dZemVyZUc2YnJtQUp1NUI4TWlQY2laeWkzYkEwanBCdXkwWllYeXpBbE1YWUJ1S2ZuMVNpYTVPZWNfT2dXOE5DdExVY1BMdElhUU1JazI2MDNJM3Zrbkl1VGJOd0ExWGo4UkctaTlNaDk5MG5Td1BmeEptNTQ3bEozekplT1BpbEg3Q0ZlYnRveGJxWXAtMzQ3eTZLMHhOZHdydlpvS2tUaGFqUWVHdtIBugJBVV95cUxQLWs1ZmhELU84MUp6UzhKZU81eTRNRlFnNzMyZHJaZDdUT05wcVYybWgwZXhWQTg5ckNSTXR6blp6MTVpTzBpQm90RzA3ZnczQnJzTjRsR1pSTG5Uc0RIQXpBRVdPcURZMUNIaWFzOXFtSGh6eFpMYlBPZ2NNaWVnZVpMWnhMeTMxM2p6Z3NRUnphM3R0NTJGTDY2M01XWWlSVUpWRmE3ZGZSSlpBNlpHWF9zWVJnakJPazBpalk0a0F1WWhVUzctczh4LXVrVVJiVDR2alZzZXNiVDRTVzI0Y0NIVW9Gd2I5TlAxM3dJVWN3T21qZjJWOVp3TGYyeC04LUZXRS1rcHlpaG1WUmVEOUVXa005M0dEdDN2elpKSjF1bm85SEZCcDV6d3NzQ3BIYS12T3dCeEdjQQ?oc=5)
+
+---
 
 ### ['Absolute warrior' baby who suffered stroke at birth celebrates first birthday - STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVI3dGV1Y3U0bjY4ZmdrWUZNTVpadzhobkJIN3Z1NmJNc0NWX09JYkRvTGR1RjRVM0RoRm90eG56TVRNU2x5YlZBTXdSSkc0MVlnUHpUcXRyUkJWM01UQVNqejlTTWZTTjJrUzAyV0M4UmhOV3NRZG1PdWFFdm1MdTNXbnJ3SmVNbWdXZnQ0WmFvdDdtclEyODh0YWlSQTRoU2dQVXo2YlZvQW5namc?oc=5)
 
@@ -67,6 +83,14 @@ permalink: /news/orlistat/
 2026-05-30 <span class="news-indication-tag">obesidad</span>
 
 來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
+
+---
+
+### [Polypille gegen Schlaganfall: Dreifach-Kombination senkt Risiko signifikant - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0t3SnROeWJBZkxpQmhPTWZ3M2ktQy1KeUJYeEZVdUFKeGVoOHVaVDlBQWhmVXpoaHpSVnM5WTdXdG5kMmY2SGVBWHFZc2NXZ0hHNEJQSnlzYlcyX1d0SUJ4OXBmRGFJay1vd3dKR1lJb05ZVWh1SkV0TVNhT0E1RWZaeVpQRlU2UFdadzJVVEliMVpDMnl2U1ZvX05MVng5dmhuVHRjN2dsLTJ6SDhyUQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0t3SnROeWJBZkxpQmhPTWZ3M2ktQy1KeUJYeEZVdUFKeGVoOHVaVDlBQWhmVXpoaHpSVnM5WTdXdG5kMmY2SGVBWHFZc2NXZ0hHNEJQSnlzYlcyX1d0SUJ4OXBmRGFJay1vd3dKR1lJb05ZVWh1SkV0TVNhT0E1RWZaeVpQRlU2UFdadzJVVEliMVpDMnl2U1ZvX05MVng5dmhuVHRjN2dsLTJ6SDhyUQ?oc=5)
 
 ---
 
@@ -86,14 +110,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [La obesidad condiciona la salud y requiere un abordaje médico integral e individualizado](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEpwMGpRdS1uVk5Ka1VpbURINDNUVk9jUnRBRkZ4X3ljMkVWbWVDb2ZzQkI5UG5wVGlJMUpnZnF2YWo5MFVvWkFjRnp3a05pcG9sWlFsa09fUy1QV0pNbTRhb2I4R2hRTjlMWE83WjF5M3c2a19NcFVFNDVRcXpyaTZOQXM0aFZGcC1fUGdvem9LNW9OMC1jQ29KTkhySkpERHBIWUNMZnhtMHVUUmpfeHVaaXhzcl9QaG1NZGVwQQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">obesidad</span>
-
-來源：[Noudiari.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEpwMGpRdS1uVk5Ka1VpbURINDNUVk9jUnRBRkZ4X3ljMkVWbWVDb2ZzQkI5UG5wVGlJMUpnZnF2YWo5MFVvWkFjRnp3a05pcG9sWlFsa09fUy1QV0pNbTRhb2I4R2hRTjlMWE83WjF5M3c2a19NcFVFNDVRcXpyaTZOQXM0aFZGcC1fUGdvem9LNW9OMC1jQ29KTkhySkpERHBIWUNMZnhtMHVUUmpfeHVaaXhzcl9QaG1NZGVwQQ?oc=5)
-
----
-
 ### ["Je trouve cela discriminatoire" : en situation d'obésité morbide, Antoine ne peut plus se soigner faute de transport adapté - France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGtpVm55VjRsSXNKU0dlYTE3Z3VVVVZRNXVoUEg1SW9Rdm1OQjI2NWxtRmVUMnNUdzhLQWRrNW1Lb0FsclVEaXpqd2pNaVFFbFlIQkxSVlEyQlVuYTd2S0dYTGRibV9JQ2duUWNmZlV3aHk1cHNNQTlweDNfdEl0cy03TkJSXzhqb3V3a2t5Z25sbHNMOHRTc1dMN3BNdkFTWVFoOEs0Y2h6c2pnay1zX3hXd1dGazNyMWtQSkpwbXJMeW51OU9uMmpGa3lIdUZneV9BZFhaSVdLa3RsUEE2NGJFNUtyTV9PaDE2LTllM20zc1M2Z25FY0dWMjdYOGhVMnNpeVF6cUE3Q2NMTnV2djJtNUg3MWNmbDU1OGtIMVRYUkpvTzJBdFdlVjh5NkU?oc=5)
 
 2026-05-29 <span class="news-indication-tag">obésité</span>
@@ -102,11 +118,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Semaglutide, perdere peso con i nuovi farmaci è associato a un rischio ridotto di malattie a reni, cuore e ossa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
+### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
-2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 ---
 
@@ -115,30 +131,6 @@ permalink: /news/orlistat/
 2026-05-29 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjV3RXE3R1hKbEtKUGVZRnBGSl9IUjlnelBIMHpPRG9oLVVrT2phR3liYnhqSnBUaExLeUpKeEJEcGRjcDZ1SHZOb2t3RE1LdS14OW05djJQdGozd29sVVNlRHlYWnNHWGx6eks5VlpNM0Vha3MyTFJuU1pwd1FyNnJnbmpDRXQ1eFlvSVJNZ0NuR2JsMkZCU2k3Q0h6ellUaExJWDVLaVprYmFYVlRWYUVDVGJzY2E5NUtXeDJERdIBugFBVV95cUxNLUhLSW15a19jUmFVaUtPY3oyd21SeWdiMjlOZWtYVFpPQXh1ZlZuZUdmbGVDQTN6dGpXV2FtTUhYUHR1eXdhald5cDR6M1hITGdIVUtoWDdQSzVfcV9YWkItbHc4eC0zRlMtaHppcEx1T1JMaC1Db3NfT1lGc3diSHg5dkp3TEpXU1A1QnU0c2UzaWVORmdkUS1ZUzZ1NjZHMHY4YTVHZElMaW9qbGtKdEVjcnZRNFBpX1E?oc=5)
-
----
-
-### [Hypertonie: Polypille kann Schlaganfall-Rezidiv nach Hirnblutung vorbeugen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMa2tEUWl4VFRxZVk4OXJmbEhYZHU1SUVRYUNHbzgwbWE3MUdPWlNDeGp5VS1yMW9wdUxXMC1hVEk4WGdBX1lHeG9qbk5VZUQ2X1AwTW92el95bFRvaW5pY0t1VlBKUlVWbWliU3JWUnF1dVNtd0lmeXBnTkhnWFB6RWdhWlBZTjFxZUNoWnMzMEhFU0ZJX1NidXpUdkhMNXJvYlY5bHZIT2x0azdnaFpVbWxKNG5CTHI1di1VZG1KN2NLaldNdkdzNmpQV2NaRmFJcVVaWVVMQQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbHVMa2tEUWl4VFRxZVk4OXJmbEhYZHU1SUVRYUNHbzgwbWE3MUdPWlNDeGp5VS1yMW9wdUxXMC1hVEk4WGdBX1lHeG9qbk5VZUQ2X1AwTW92el95bFRvaW5pY0t1VlBKUlVWbWliU3JWUnF1dVNtd0lmeXBnTkhnWFB6RWdhWlBZTjFxZUNoWnMzMEhFU0ZJX1NidXpUdkhMNXJvYlY5bHZIT2x0azdnaFpVbWxKNG5CTHI1di1VZG1KN2NLaldNdkdzNmpQV2NaRmFJcVVaWVVMQQ?oc=5)
-
----
-
-### [Why You Gain Weight During Menopause and How to Manage It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">obesity</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
-
----
-
-### [La melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
 ---
 

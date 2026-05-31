@@ -14,7 +14,7 @@ permalink: /news/ganirelix-acetate/
 ---
 
 <p class="key-answer" data-question="Ganirelix Acetate 有什麼相關新聞？">
-<strong>Ganirelix Acetate</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ganirelix Acetate</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/ganirelix-acetate/
 <p><a href="{{ '/drugs/ganirelix-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（17 則）
+
+### [Osteoporose: KI erkennt Risiken früh via Netzhautaufnahmen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmV2dnpfdGl0RUtxRmcxdWJrUWNYZjVfcUQxQk1vR1NUTEEwSTJoN1VxNU0tR1FtLTF2TVZ3WExsSXFuaWtqRHJPYnBxdHJWekFacUk1czBvcGdLOUE0TmtPd0tSSmd1UUxOcEZMYVRGYVp1Si13Ulg4RTllWTdCOTBXU3A5V1Y1M1hoQW54NXIyRTdRejlkV1VjY1dHOEpCUzNUY0NSR3VubkE?oc=5)
+
+2026-05-31 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmV2dnpfdGl0RUtxRmcxdWJrUWNYZjVfcUQxQk1vR1NUTEEwSTJoN1VxNU0tR1FtLTF2TVZ3WExsSXFuaWtqRHJPYnBxdHJWekFacUk1czBvcGdLOUE0TmtPd0tSSmd1UUxOcEZMYVRGYVp1Si13Ulg4RTllWTdCOTBXU3A5V1Y1M1hoQW54NXIyRTdRejlkV1VjY1dHOEpCUzNUY0NSR3VubkE?oc=5)
+
+---
+
+### [Aprender a convivir con la enfermedad de las mil caras: el reto invisible de la Esclerosis Múltiple - La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
+
+2026-05-31 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
+
+---
 
 ### [Demenz-Prävention: 45% aller Fälle durch Optimierung vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2VJbWh5dTdVdzMtMzZhZ05VSUREZllNRm1oNG5XNHdRZDV4ZUY3SkJqTUtRMnRPUXhHTmU3eTJxX09Hdk1UeENFR09wOWlZeXV3Vm9JNWlxUElQSEhnZFdWQ3VBSXdiTzJ3SC1rdExjR1FYa2hZTWV5Z3FVUUtPdW1XUHcydGJKOENHUlhYb2R1cWFBR0dLTF9VOGtxZGNLV3d0c04zRUZmenpLbnczN1hKMzVaYVlOWWM4Qg?oc=5)
 
@@ -62,27 +78,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Las cinco enfermedades cardíacas que pueden aparecer en deportistas mayores de 35 años por años de entrenam...](https://news.google.com/rss/articles/CBMigAJBVV95cUxOWlM1TnZoMFdzMGUtOEFZaVBPSWFESkNZQkE1dDJLekEtZFljM25MTXNWem1NOGl0cU5ZaHVxTXFoOTgwT0dSTGR0Y1dpQTNjZGtPeTdIb3pGcWNEOU4zSnJ1YVdqLTUtblk2YXN2NzJHdEYwSUNuZ2Y1NTV0V0JDT3A1WkZoRmhWS1lqWHN1UVhvSWVhU1JMVWVmb2FzRHRoc0cxOGYyX2dYdGZHTTRpVjVzUjI4TEg4a29STDZiT21oeDl5TGhZRlUyRUp1TlVVVDRmM0pYbkNPVmpyenp3TmQxdTlKeEJ1WWQ5eFhiYmZqQkZGVll6dzFzSGoyWWJX0gGGAkFVX3lxTE9zUWx5OXZMb0RJT3FRN05KbHJMdVhjMGhfemwxYXhzT1NZQ1V0R21JMjdENTRGbzVNLWlqMFpMczhLcnNOcXBXMDB6UHJxZXN4a3FhUmtBTW9jeGNqVlc4dkl6VGlaNnd5RV9KYUFuNjZGNmVWcG1vYmRFTG55a1RrMmRiUEQ3NzQ4V0VhbjdXWVNKXy1hMGx5RUR6ZWYwTEdLNlRGUGtmZDZER0FVWHBKRnpqZFBYd29oQ3ZRN1QtTFJJNkhldVUyNVVFMjBRN0FpM3JRSmZTaXU2MXQ1LXpaZEp4Y0VOMmgzb21acEVyZHVyNmhtb3hzTDJjamdtVGI5TUpidWc?oc=5)
+### [Dermatitis atópica: por qué no solo afecta la piel y requiere un abordaje integral](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXZ1ejVaeElXZFN1d2sxVG9Tdmcxc2NXYkF2X1hPV3hWRnFRNE9rb0hPTWhSM1J5dzM1UkxyUzZWWFQzdzZyUjVkOGI3NU9ZSmVCS2s5RUZqcVFDMEJ3Z2FPODRkNHBkVV9DejZYS3ZSTlVOTVhQaGVzY1dkbHFBVV96S25xNkxrSmgtSG9vSmJiTFgtYWlzbThBOFlTYmdQMkN4WVFwX0ZkcGNmSjJOaEVxb2ZIR1BZVXdFUExHR3I1VjRiNTZiR2FNMNIB5gFBVV95cUxOcGItWlBYTHlzaGUtSnFFNDRydVZQdXY5Z3lVN1dNMU5xYXpDSGlZaXlyYlZTOVpYbklEcW51UzZsdVVxbV9XQUtuY0VRYjJ6dUJJTXVLeTdFM0RQeFpYejNSclFYUUNIWU9qQXdQTy1RR1BINjBnbkpmMWN5R05PRGg3RTk2cmNFc1U4VFp6Zy1RS2w4eUh2U1Y1cm1nVWlEb2xWM0xMSzRxaXR3dy00X25SN2JmUHQwMndSakVzTkZlNzBwc1FxTHFYYmNXblN0Q01YdTd2eWs3clJHYmRYV05Eblc2dw?oc=5)
 
 2026-05-30 <span class="news-indication-tag">AF</span>
 
-來源：[debate.com.mx](https://news.google.com/rss/articles/CBMigAJBVV95cUxOWlM1TnZoMFdzMGUtOEFZaVBPSWFESkNZQkE1dDJLekEtZFljM25MTXNWem1NOGl0cU5ZaHVxTXFoOTgwT0dSTGR0Y1dpQTNjZGtPeTdIb3pGcWNEOU4zSnJ1YVdqLTUtblk2YXN2NzJHdEYwSUNuZ2Y1NTV0V0JDT3A1WkZoRmhWS1lqWHN1UVhvSWVhU1JMVWVmb2FzRHRoc0cxOGYyX2dYdGZHTTRpVjVzUjI4TEg4a29STDZiT21oeDl5TGhZRlUyRUp1TlVVVDRmM0pYbkNPVmpyenp3TmQxdTlKeEJ1WWQ5eFhiYmZqQkZGVll6dzFzSGoyWWJX0gGGAkFVX3lxTE9zUWx5OXZMb0RJT3FRN05KbHJMdVhjMGhfemwxYXhzT1NZQ1V0R21JMjdENTRGbzVNLWlqMFpMczhLcnNOcXBXMDB6UHJxZXN4a3FhUmtBTW9jeGNqVlc4dkl6VGlaNnd5RV9KYUFuNjZGNmVWcG1vYmRFTG55a1RrMmRiUEQ3NzQ4V0VhbjdXWVNKXy1hMGx5RUR6ZWYwTEdLNlRGUGtmZDZER0FVWHBKRnpqZFBYd29oQ3ZRN1QtTFJJNkhldVUyNVVFMjBRN0FpM3JRSmZTaXU2MXQ1LXpaZEp4Y0VOMmgzb21acEVyZHVyNmhtb3hzTDJjamdtVGI5TUpidWc?oc=5)
-
----
-
-### [Your risk of a lethal blood clot skyrockets after 40. Here’s how to protect yourself - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpWSDRvOE1oNlFiYW9QeXZXY2tXSmxRYjJLYjFhdXNFRzZCN2RsZFdSVjF4R2cwWUN2N3A0Q0NhVU5qWGxkZjY0ZGY4VnNXT19YNkhYSHFmMV9QbXFfMHlScEdPTmNtS2xhWEIwS0dsOEszYlN2dE0tVGMyWmY1WmY4ODBtMUlJNWJubmF1NmZHcE80aVRVbFc2dXNDOGhuZ1JWS2Fn?oc=5)
-
-2026-05-30 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEpWSDRvOE1oNlFiYW9QeXZXY2tXSmxRYjJLYjFhdXNFRzZCN2RsZFdSVjF4R2cwWUN2N3A0Q0NhVU5qWGxkZjY0ZGY4VnNXT19YNkhYSHFmMV9QbXFfMHlScEdPTmNtS2xhWEIwS0dsOEszYlN2dE0tVGMyWmY1WmY4ODBtMUlJNWJubmF1NmZHcE80aVRVbFc2dXNDOGhuZ1JWS2Fn?oc=5)
-
----
-
-### [Ebola, stretta sui viaggiatori in Italia](https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzVaSlk0Yl92ckJQSW41bFdCdXBmOFlZeVBYaFdSakJGVnFxZGFpTUtBYmlCdGZzU3U2MktGdk5lSUhhcEdhUVNaZHNYZkxOdUgwTzR1dWlwdGNSSDJJd0MwdWZ1dnlnYUtHRmNBWUI4V1JldHktM3FLSVVVaXNRZUVpY2VFdGpBTUVCd2ZLSXUzWFVqcFNsOUV2RmI?oc=5)
-
-2026-05-30 <span class="news-indication-tag">AF</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzVaSlk0Yl92ckJQSW41bFdCdXBmOFlZeVBYaFdSakJGVnFxZGFpTUtBYmlCdGZzU3U2MktGdk5lSUhhcEdhUVNaZHNYZkxOdUgwTzR1dWlwdGNSSDJJd0MwdWZ1dnlnYUtHRmNBWUI4V1JldHktM3FLSVVVaXNRZUVpY2VFdGpBTUVCd2ZLSXUzWFVqcFNsOUV2RmI?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXZ1ejVaeElXZFN1d2sxVG9Tdmcxc2NXYkF2X1hPV3hWRnFRNE9rb0hPTWhSM1J5dzM1UkxyUzZWWFQzdzZyUjVkOGI3NU9ZSmVCS2s5RUZqcVFDMEJ3Z2FPODRkNHBkVV9DejZYS3ZSTlVOTVhQaGVzY1dkbHFBVV96S25xNkxrSmgtSG9vSmJiTFgtYWlzbThBOFlTYmdQMkN4WVFwX0ZkcGNmSjJOaEVxb2ZIR1BZVXdFUExHR3I1VjRiNTZiR2FNMNIB5gFBVV95cUxOcGItWlBYTHlzaGUtSnFFNDRydVZQdXY5Z3lVN1dNMU5xYXpDSGlZaXlyYlZTOVpYbklEcW51UzZsdVVxbV9XQUtuY0VRYjJ6dUJJTXVLeTdFM0RQeFpYejNSclFYUUNIWU9qQXdQTy1RR1BINjBnbkpmMWN5R05PRGg3RTk2cmNFc1U4VFp6Zy1RS2w4eUh2U1Y1cm1nVWlEb2xWM0xMSzRxaXR3dy00X25SN2JmUHQwMndSakVzTkZlNzBwc1FxTHFYYmNXblN0Q01YdTd2eWs3clJHYmRYV05Eblc2dw?oc=5)
 
 ---
 
@@ -110,14 +110,6 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Nuevo sistema del SAS agiliza la detección del cáncer de mama con inteligencia artificial](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RTUlQTWdoWWhDeFhwUUhob3NtcXdzVXY3bS1WWTF6b1Q4WkhSZ09oWnRhdEh0Q25EdEQxRHdqeWFHVGxSQ29sY3doZ05sTUVJNmNHVWJSU2JOTUhGcGljUFpfUWQ1czli?oc=5)
-
-2026-05-30 <span class="news-indication-tag">AF</span>
-
-來源：[GNDiario](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RTUlQTWdoWWhDeFhwUUhob3NtcXdzVXY3bS1WWTF6b1Q4WkhSZ09oWnRhdEh0Q25EdEQxRHdqeWFHVGxSQ29sY3doZ05sTUVJNmNHVWJSU2JOTUhGcGljUFpfUWQ1czli?oc=5)
-
----
-
 ### [BBC doctor gives Omeprazole verdict after 'worrying news' - Birmingham Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlVaOGk3aU9uRHdsc29xbENyaTRIOVF2MW1LZldnM0VrTlJWZTVzOTAyQlRDV0dla2pHZklGS1g3a2s0NGR1SjRyWXlvRVNZUnZXaUNzMFNtMVBFTVFKRFE4aXpUNTlqMVB0MkNhVGJEa0pjbWI2aWRJZF9PM1E2MVdjQ3h5dy1XOHptb2g5T1NyMknSAZgBQVVfeXFMTTczRHZhTDlQcGhkWWJmYUdKNW9UX2dCVGNKVTFUWE80anByZ2RQdkdVdEJPeTcwMy03eUw5WFExUFd4QnJDTHZrT1cyaDQyZnRudHExdzdRSGxDZ1FILWJLZVdlZGl1ZjhKZVFDcGxQcmhtUzl5UEVtMUdGQm9ZN3o3X1psTHNZdTdVQ09zZFNqMlZvbFphR1I?oc=5)
 
 2026-05-30 <span class="news-drug-tag">Pantoprazole</span> <span class="news-indication-tag">AF</span>
@@ -126,19 +118,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Fármacos para adelgazar: por qué el peso regresa al dejar el tratamiento - La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJZMy01RlNSQm8zZkNqVWktQy04UFM4eUkxU19uWXJ3QmoxMVpHMU9kaTNDRWc1Z3pQZW1oZjNrOHVMVExnWUlLT3lCeU9yMmp1VXllYnI1V1JWbGJTYjlHOUZ1SEcxV1NhbzBaUHk1VUI0QWxJa0JsblNHODBicG9qd1p1YkIxTFQ3Ym5YNVlaX0c2M3lnbWE5dmNSNFlFMkNZTDdXamh1bk81bC1DbFB30gG3AUFVX3lxTE40dmprcndCbEozR2FyWHlZa2NLWVV5LXRnTmJSVnVOYWQ0NXZlMXRiSUM4S29fM01PQmYtV3FmNTZMXzk1b2E3eWpoZ3lpaVp5TGtoTVY4c1k5NVNrQzhjYS1pckM0d3RHSE9XNXNaODZDLTdtNlhRN1NtbGlIc3FVa2ZQZmd5UUZkZWlwOFB1Qk1qZGZYMlhUYmFnWkZudE9HeW5CZjJDQVlaVG9NbDAySU93aTItaw?oc=5)
-
-2026-05-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJZMy01RlNSQm8zZkNqVWktQy04UFM4eUkxU19uWXJ3QmoxMVpHMU9kaTNDRWc1Z3pQZW1oZjNrOHVMVExnWUlLT3lCeU9yMmp1VXllYnI1V1JWbGJTYjlHOUZ1SEcxV1NhbzBaUHk1VUI0QWxJa0JsblNHODBicG9qd1p1YkIxTFQ3Ym5YNVlaX0c2M3lnbWE5dmNSNFlFMkNZTDdXamh1bk81bC1DbFB30gG3AUFVX3lxTE40dmprcndCbEozR2FyWHlZa2NLWVV5LXRnTmJSVnVOYWQ0NXZlMXRiSUM4S29fM01PQmYtV3FmNTZMXzk1b2E3eWpoZ3lpaVp5TGtoTVY4c1k5NVNrQzhjYS1pckM0d3RHSE9XNXNaODZDLTdtNlhRN1NtbGlIc3FVa2ZQZmd5UUZkZWlwOFB1Qk1qZGZYMlhUYmFnWkZudE9HeW5CZjJDQVlaVG9NbDAySU93aTItaw?oc=5)
-
----
-
-### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 ---
 
@@ -182,14 +166,6 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Rainbow lights for Flintshire baby with one-in-a-million illness](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TTkZEeE5xLWZULVA3aTc1NEExUU1BU09ZbFUxSm5SUjZsZlFFbFpYM3IxMW5uYURvLV9DbVl0MmRXMW1xVmxmbUR2R2E1ZHVHanhNRVpDT0dWel9L?oc=5)
-
-2026-05-29 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TTkZEeE5xLWZULVA3aTc1NEExUU1BU09ZbFUxSm5SUjZsZlFFbFpYM3IxMW5uYURvLV9DbVl0MmRXMW1xVmxmbUR2R2E1ZHVHanhNRVpDT0dWel9L?oc=5)
-
----
-
 ### [Chikungunya, el virus tropical que ya afecta a miles de personas y ha dejado al menos 9 muertos - Diario de Avisos](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnJvN0FDbU5DWGZJNTU2VUYtb3dQbld3aGMyNlE1ck5fMjhtTzVDckJheXZJUUhEdG91bmJBLUoxU0lYam1odmE4eURESDBVTnhWdWRhdVYzNUFSYWlmWEtYZzFPTTJkRHJrYWdQR2x4d2RlVGxCb1ZnOHAxZ0pFLUJlcVhqV2Rwc1Bz?oc=5)
 
 2026-05-29 <span class="news-indication-tag">AF</span>
@@ -198,11 +174,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Pflanzen bremsen ihr Immunsystem, um Virusinfektionen zu überleben - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjFER2NpQkVJaFpxb2dwVG1obExQUURTNkhxSEdCMHJJRDM0dmhXV21lc0FzU2k1UWR5QUZ1X3hhTDlCaHM3aVJldGdPRzFpZ093Vlhob0ROVTVwUS05Z0V1RlhkQ3VRbjhlQ0NRREJOY2hkdGN0Sm1rZnUyV1ZLRHA0ZWdrb0tQamVTZnRoUFRURVg1bnlOLS1tNmdCelNobjRzTWhEV2RVRm44eGJhQmJ3NENBdTdubkh4VExpZjZPQQ?oc=5)
+### [Why the Congo Ebola outbreak has no quick fix](https://news.google.com/rss/articles/CBMia0FVX3lxTE93NkJoeXRzZG56R2lVbUU0U25BM19QcUYxMG5fVGZKWGRGX0tqcFM4Q2ZiQnZEQTM0UHdESFRGWHZ5ZkVXdi1aZXJKQ3ptb1lwUnZSSGV6bXpmQmJfTGtEeFdyQnhpSW1mWkFn?oc=5)
 
-2026-05-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-29 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjFER2NpQkVJaFpxb2dwVG1obExQUURTNkhxSEdCMHJJRDM0dmhXV21lc0FzU2k1UWR5QUZ1X3hhTDlCaHM3aVJldGdPRzFpZ093Vlhob0ROVTVwUS05Z0V1RlhkQ3VRbjhlQ0NRREJOY2hkdGN0Sm1rZnUyV1ZLRHA0ZWdrb0tQamVTZnRoUFRURVg1bnlOLS1tNmdCelNobjRzTWhEV2RVRm44eGJhQmJ3NENBdTdubkh4VExpZjZPQQ?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE93NkJoeXRzZG56R2lVbUU0U25BM19QcUYxMG5fVGZKWGRGX0tqcFM4Q2ZiQnZEQTM0UHdESFRGWHZ5ZkVXdi1aZXJKQ3ptb1lwUnZSSGV6bXpmQmJfTGtEeFdyQnhpSW1mWkFn?oc=5)
 
 ---
 

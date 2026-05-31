@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Wie sich ME/CFS und Diabetes gegenseitig beeinflussen können - Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
+
+2026-05-31 <span class="news-indication-tag">diabetes</span>
+
+來源：[Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
+
+---
 
 ### [Forscher untersuchen Wirkung von Abnehmspritzen auf Demenz und Sucht - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcjkxQWlya1E5OTJENGdFOHBJUlBJb2hBSHAweGZuTzVPUGwtbWV0X3NPYThJYzlsc2UweGZhZkFKYkE5X05HQ0VLTDYxaVJmZ2dMcVNuTWZyck9aWGxZQzZGLXg1X2VsaVl1YXRxXy0tU041aDhiZjBMb0ZwNnJQZ0FKUlp5b2pjRlkyNi1PSGxkYXJRdEJ1MA?oc=5)
 
@@ -80,7 +88,7 @@ permalink: /news/semaglutide/
 
 ### [Fármacos para adelgazar: por qué el peso regresa al dejar el tratamiento - La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJZMy01RlNSQm8zZkNqVWktQy04UFM4eUkxU19uWXJ3QmoxMVpHMU9kaTNDRWc1Z3pQZW1oZjNrOHVMVExnWUlLT3lCeU9yMmp1VXllYnI1V1JWbGJTYjlHOUZ1SEcxV1NhbzBaUHk1VUI0QWxJa0JsblNHODBicG9qd1p1YkIxTFQ3Ym5YNVlaX0c2M3lnbWE5dmNSNFlFMkNZTDdXamh1bk81bC1DbFB30gG3AUFVX3lxTE40dmprcndCbEozR2FyWHlZa2NLWVV5LXRnTmJSVnVOYWQ0NXZlMXRiSUM4S29fM01PQmYtV3FmNTZMXzk1b2E3eWpoZ3lpaVp5TGtoTVY4c1k5NVNrQzhjYS1pckM0d3RHSE9XNXNaODZDLTdtNlhRN1NtbGlIc3FVa2ZQZmd5UUZkZWlwOFB1Qk1qZGZYMlhUYmFnWkZudE9HeW5CZjJDQVlaVG9NbDAySU93aTItaw?oc=5)
 
-2026-05-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
+2026-05-30 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJZMy01RlNSQm8zZkNqVWktQy04UFM4eUkxU19uWXJ3QmoxMVpHMU9kaTNDRWc1Z3pQZW1oZjNrOHVMVExnWUlLT3lCeU9yMmp1VXllYnI1V1JWbGJTYjlHOUZ1SEcxV1NhbzBaUHk1VUI0QWxJa0JsblNHODBicG9qd1p1YkIxTFQ3Ym5YNVlaX0c2M3lnbWE5dmNSNFlFMkNZTDdXamh1bk81bC1DbFB30gG3AUFVX3lxTE40dmprcndCbEozR2FyWHlZa2NLWVV5LXRnTmJSVnVOYWQ0NXZlMXRiSUM4S29fM01PQmYtV3FmNTZMXzk1b2E3eWpoZ3lpaVp5TGtoTVY4c1k5NVNrQzhjYS1pckM0d3RHSE9XNXNaODZDLTdtNlhRN1NtbGlIc3FVa2ZQZmd5UUZkZWlwOFB1Qk1qZGZYMlhUYmFnWkZudE9HeW5CZjJDQVlaVG9NbDAySU93aTItaw?oc=5)
 
@@ -94,27 +102,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Semaglutide, perdere peso con i nuovi farmaci è associato a un rischio ridotto di malattie a reni, cuore e ossa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
+### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
-2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
-
----
-
-### [Poumon, sein, colon : les médicaments de type Ozempic auraient-ils un effet bénéfique sur l’évolution de certains cancers ?](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPclFfQzRCZG9adlpGOXZKc2VvY19BSl9DRndTcV92a1JkLUM4T0ZSMlR5YmVWN1VCaFk5WWhjdVVXRHlJMG9ydnM0SnEzQzBhRVZJTFh2SFRjV0tGd1lCMzFVRUJYQUVEa29TRzFQODc5b3NsQnBwQTdjTDMzaXNZS281TUZLSURIZG9lOWdhMTRmUy1vV29uTnpRMWFvMW9aS2QwOE5oVGF3RlBQaGt5RXlzWnpIaGttcnlVU3VXQzlpZUNGcUdfMGhGLXhMUEg3dWJVMG8yRDMxQlNEaHNSLUg2OVNEVG5rbTB1VFdMbkF6YnM?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPclFfQzRCZG9adlpGOXZKc2VvY19BSl9DRndTcV92a1JkLUM4T0ZSMlR5YmVWN1VCaFk5WWhjdVVXRHlJMG9ydnM0SnEzQzBhRVZJTFh2SFRjV0tGd1lCMzFVRUJYQUVEa29TRzFQODc5b3NsQnBwQTdjTDMzaXNZS281TUZLSURIZG9lOWdhMTRmUy1vV29uTnpRMWFvMW9aS2QwOE5oVGF3RlBQaGt5RXlzWnpIaGttcnlVU3VXQzlpZUNGcUdfMGhGLXhMUEg3dWJVMG8yRDMxQlNEaHNSLUg2OVNEVG5rbTB1VFdMbkF6YnM?oc=5)
-
----
-
-### [La melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 ---
 

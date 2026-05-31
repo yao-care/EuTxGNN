@@ -54,11 +54,11 @@ permalink: /news/idarucizumab/
 
 ## 相關新聞（1 則）
 
-### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
 
 ---
 
