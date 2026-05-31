@@ -54,6 +54,22 @@ permalink: /news/orlistat/
 
 ## 相關新聞（10 則）
 
+### [Schlaganfall-Rückfall: 80 Prozent der Fälle sind vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
+
+2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
+
+---
+
+### [Expertos destacan la relevancia de la farmacia comunitaria en el abordaje integral de la obesidad](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
+
+2026-05-31 <span class="news-indication-tag">obesidad</span>
+
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
+
+---
+
 ### [Alzheimer-Prävention: 14 Risikofaktoren senken Erkrankungsrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlgzdjJxUDYtNXExblBrNkxtNFF6TUg1aTJMblBsRVJyREJ4bzhwMWY4NnVCRVdoZjZQdTlnUkJtLVJiakQzNHhBN0FQMS14NjZpR2EybUNoaHBueG1ZQUxTSkZ2WXdFSjBFSTdKdHpITGtfeWtaTXJ6TDVFcUMwMHZIa0E4SWluSzh3RnlMb1FJUjJHZUw0SW1PUm5nTVVKUzRGaGtsZHhNVEJCMThSX2E1WTJZYzkydS05QWJHUQ?oc=5)
 
 2026-05-31 <span class="news-indication-tag">Schlaganfall</span>
@@ -70,19 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Les médicaments anti-obésité ont aussi un effet contre le cancer, selon des chercheurs américains](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3dQbUs3UHY1V0NTdDJlUTJaSlNDWTdpYXM2TWhmZVlQZUpEWlBtckxGX2w1QnpYVFBhUmNfM0p1UHJfOVVKbW5ORnZCb1htdk1hQzBNRmktLW4xVDB3MUZfVTY3bF9DTk0wNjNGaFEtNDBJQXJUWXNRLTRraDhycWNTdTg1YndzeWlaOEl4MkQxWkQ3czJaS2pSUGZzM0hXdVlCQml4VjVFYkNjZE1fcE9Obm43LTIwQWlTdHczOWIyLWNDT3czRjVCQjUyazhWTHVXRjZ6MFhRRzVQbmRxVXJR?oc=5)
+
+2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3dQbUs3UHY1V0NTdDJlUTJaSlNDWTdpYXM2TWhmZVlQZUpEWlBtckxGX2w1QnpYVFBhUmNfM0p1UHJfOVVKbW5ORnZCb1htdk1hQzBNRmktLW4xVDB3MUZfVTY3bF9DTk0wNjNGaFEtNDBJQXJUWXNRLTRraDhycWNTdTg1YndzeWlaOEl4MkQxWkQ3czJaS2pSUGZzM0hXdVlCQml4VjVFYkNjZE1fcE9Obm43LTIwQWlTdHczOWIyLWNDT3czRjVCQjUyazhWTHVXRjZ6MFhRRzVQbmRxVXJR?oc=5)
+
+---
+
 ### [Herzinfarkt und Schlaganfall: Fast 99% vollständig vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
 
 2026-05-31 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
-
----
-
-### [Dra. Juliana Mosciulsky: la obesidad debe tratarse como enfermedad crónica y no como decisión personal - Diario de Salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkhtV2tfLUFyVENyejB2RW5abzlmeE1XMmdlc1FOOFEtQTdocWNGMU1hM2VEb2l6RTRJTUhrVFh1OFhDSC1CbXoyNkwzczQ3a2VxMlJSbTl4Q1NiWGdRNEFhUE9oTFhkWWYtZHgyMEVUMWZpSFRxWXdLR2l2YTBPSm9pNjlnN09ncjVzdUZMR3NSOE5hV0JUYmlvWTE0cno1eWNLbWlzTUxIOHhCNWoxOFc3UFUyY2pzbUMwZWhYbFhLQ0Q5aGRON3QydUFoSW1lX183MWhmdWkzWEtWYmV4aGVGTVgwRWl5bFl2N3JR?oc=5)
-
-2026-05-30 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkhtV2tfLUFyVENyejB2RW5abzlmeE1XMmdlc1FOOFEtQTdocWNGMU1hM2VEb2l6RTRJTUhrVFh1OFhDSC1CbXoyNkwzczQ3a2VxMlJSbTl4Q1NiWGdRNEFhUE9oTFhkWWYtZHgyMEVUMWZpSFRxWXdLR2l2YTBPSm9pNjlnN09ncjVzdUZMR3NSOE5hV0JUYmlvWTE0cno1eWNLbWlzTUxIOHhCNWoxOFc3UFUyY2pzbUMwZWhYbFhLQ0Q5aGRON3QydUFoSW1lX183MWhmdWkzWEtWYmV4aGVGTVgwRWl5bFl2N3JR?oc=5)
 
 ---
 
@@ -110,27 +126,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Polypille gegen Schlaganfall: Dreifach-Kombination senkt Risiko signifikant - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0t3SnROeWJBZkxpQmhPTWZ3M2ktQy1KeUJYeEZVdUFKeGVoOHVaVDlBQWhmVXpoaHpSVnM5WTdXdG5kMmY2SGVBWHFZc2NXZ0hHNEJQSnlzYlcyX1d0SUJ4OXBmRGFJay1vd3dKR1lJb05ZVWh1SkV0TVNhT0E1RWZaeVpQRlU2UFdadzJVVEliMVpDMnl2U1ZvX05MVng5dmhuVHRjN2dsLTJ6SDhyUQ?oc=5)
-
-2026-05-30 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0t3SnROeWJBZkxpQmhPTWZ3M2ktQy1KeUJYeEZVdUFKeGVoOHVaVDlBQWhmVXpoaHpSVnM5WTdXdG5kMmY2SGVBWHFZc2NXZ0hHNEJQSnlzYlcyX1d0SUJ4OXBmRGFJay1vd3dKR1lJb05ZVWh1SkV0TVNhT0E1RWZaeVpQRlU2UFdadzJVVEliMVpDMnl2U1ZvX05MVng5dmhuVHRjN2dsLTJ6SDhyUQ?oc=5)
-
----
-
 ### [Obésité : le remboursement sous condition des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
 
 2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
-
----
-
-### ["Je trouve cela discriminatoire" : en situation d'obésité morbide, Antoine ne peut plus se soigner faute de transport adapté - France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGtpVm55VjRsSXNKU0dlYTE3Z3VVVVZRNXVoUEg1SW9Rdm1OQjI2NWxtRmVUMnNUdzhLQWRrNW1Lb0FsclVEaXpqd2pNaVFFbFlIQkxSVlEyQlVuYTd2S0dYTGRibV9JQ2duUWNmZlV3aHk1cHNNQTlweDNfdEl0cy03TkJSXzhqb3V3a2t5Z25sbHNMOHRTc1dMN3BNdkFTWVFoOEs0Y2h6c2pnay1zX3hXd1dGazNyMWtQSkpwbXJMeW51OU9uMmpGa3lIdUZneV9BZFhaSVdLa3RsUEE2NGJFNUtyTV9PaDE2LTllM20zc1M2Z25FY0dWMjdYOGhVMnNpeVF6cUE3Q2NMTnV2djJtNUg3MWNmbDU1OGtIMVRYUkpvTzJBdFdlVjh5NkU?oc=5)
-
-2026-05-29 <span class="news-indication-tag">obésité</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGtpVm55VjRsSXNKU0dlYTE3Z3VVVVZRNXVoUEg1SW9Rdm1OQjI2NWxtRmVUMnNUdzhLQWRrNW1Lb0FsclVEaXpqd2pNaVFFbFlIQkxSVlEyQlVuYTd2S0dYTGRibV9JQ2duUWNmZlV3aHk1cHNNQTlweDNfdEl0cy03TkJSXzhqb3V3a2t5Z25sbHNMOHRTc1dMN3BNdkFTWVFoOEs0Y2h6c2pnay1zX3hXd1dGazNyMWtQSkpwbXJMeW51OU9uMmpGa3lIdUZneV9BZFhaSVdLa3RsUEE2NGJFNUtyTV9PaDE2LTllM20zc1M2Z25FY0dWMjdYOGhVMnNpeVF6cUE3Q2NMTnV2djJtNUg3MWNmbDU1OGtIMVRYUkpvTzJBdFdlVjh5NkU?oc=5)
 
 ---
 

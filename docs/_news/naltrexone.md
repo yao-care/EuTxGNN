@@ -54,11 +54,19 @@ permalink: /news/naltrexone/
 
 ## 相關新聞（5 則）
 
-### [Dra. Juliana Mosciulsky: la obesidad debe tratarse como enfermedad crónica y no como decisión personal - Diario de Salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkhtV2tfLUFyVENyejB2RW5abzlmeE1XMmdlc1FOOFEtQTdocWNGMU1hM2VEb2l6RTRJTUhrVFh1OFhDSC1CbXoyNkwzczQ3a2VxMlJSbTl4Q1NiWGdRNEFhUE9oTFhkWWYtZHgyMEVUMWZpSFRxWXdLR2l2YTBPSm9pNjlnN09ncjVzdUZMR3NSOE5hV0JUYmlvWTE0cno1eWNLbWlzTUxIOHhCNWoxOFc3UFUyY2pzbUMwZWhYbFhLQ0Q5aGRON3QydUFoSW1lX183MWhmdWkzWEtWYmV4aGVGTVgwRWl5bFl2N3JR?oc=5)
+### [Expertos destacan la relevancia de la farmacia comunitaria en el abordaje integral de la obesidad](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
 
-2026-05-30 <span class="news-indication-tag">obesidad</span>
+2026-05-31 <span class="news-indication-tag">obesidad</span>
 
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkhtV2tfLUFyVENyejB2RW5abzlmeE1XMmdlc1FOOFEtQTdocWNGMU1hM2VEb2l6RTRJTUhrVFh1OFhDSC1CbXoyNkwzczQ3a2VxMlJSbTl4Q1NiWGdRNEFhUE9oTFhkWWYtZHgyMEVUMWZpSFRxWXdLR2l2YTBPSm9pNjlnN09ncjVzdUZMR3NSOE5hV0JUYmlvWTE0cno1eWNLbWlzTUxIOHhCNWoxOFc3UFUyY2pzbUMwZWhYbFhLQ0Q5aGRON3QydUFoSW1lX183MWhmdWkzWEtWYmV4aGVGTVgwRWl5bFl2N3JR?oc=5)
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
+
+---
+
+### [Les médicaments anti-obésité ont aussi un effet contre le cancer, selon des chercheurs américains](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3dQbUs3UHY1V0NTdDJlUTJaSlNDWTdpYXM2TWhmZVlQZUpEWlBtckxGX2w1QnpYVFBhUmNfM0p1UHJfOVVKbW5ORnZCb1htdk1hQzBNRmktLW4xVDB3MUZfVTY3bF9DTk0wNjNGaFEtNDBJQXJUWXNRLTRraDhycWNTdTg1YndzeWlaOEl4MkQxWkQ3czJaS2pSUGZzM0hXdVlCQml4VjVFYkNjZE1fcE9Obm43LTIwQWlTdHczOWIyLWNDT3czRjVCQjUyazhWTHVXRjZ6MFhRRzVQbmRxVXJR?oc=5)
+
+2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3dQbUs3UHY1V0NTdDJlUTJaSlNDWTdpYXM2TWhmZVlQZUpEWlBtckxGX2w1QnpYVFBhUmNfM0p1UHJfOVVKbW5ORnZCb1htdk1hQzBNRmktLW4xVDB3MUZfVTY3bF9DTk0wNjNGaFEtNDBJQXJUWXNRLTRraDhycWNTdTg1YndzeWlaOEl4MkQxWkQ3czJaS2pSUGZzM0hXdVlCQml4VjVFYkNjZE1fcE9Obm43LTIwQWlTdHczOWIyLWNDT3czRjVCQjUyazhWTHVXRjZ6MFhRRzVQbmRxVXJR?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/naltrexone/
 2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
-
----
-
-### ["Je trouve cela discriminatoire" : en situation d'obésité morbide, Antoine ne peut plus se soigner faute de transport adapté - France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGtpVm55VjRsSXNKU0dlYTE3Z3VVVVZRNXVoUEg1SW9Rdm1OQjI2NWxtRmVUMnNUdzhLQWRrNW1Lb0FsclVEaXpqd2pNaVFFbFlIQkxSVlEyQlVuYTd2S0dYTGRibV9JQ2duUWNmZlV3aHk1cHNNQTlweDNfdEl0cy03TkJSXzhqb3V3a2t5Z25sbHNMOHRTc1dMN3BNdkFTWVFoOEs0Y2h6c2pnay1zX3hXd1dGazNyMWtQSkpwbXJMeW51OU9uMmpGa3lIdUZneV9BZFhaSVdLa3RsUEE2NGJFNUtyTV9PaDE2LTllM20zc1M2Z25FY0dWMjdYOGhVMnNpeVF6cUE3Q2NMTnV2djJtNUg3MWNmbDU1OGtIMVRYUkpvTzJBdFdlVjh5NkU?oc=5)
-
-2026-05-29 <span class="news-indication-tag">obésité</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGtpVm55VjRsSXNKU0dlYTE3Z3VVVVZRNXVoUEg1SW9Rdm1OQjI2NWxtRmVUMnNUdzhLQWRrNW1Lb0FsclVEaXpqd2pNaVFFbFlIQkxSVlEyQlVuYTd2S0dYTGRibV9JQ2duUWNmZlV3aHk1cHNNQTlweDNfdEl0cy03TkJSXzhqb3V3a2t5Z25sbHNMOHRTc1dMN3BNdkFTWVFoOEs0Y2h6c2pnay1zX3hXd1dGazNyMWtQSkpwbXJMeW51OU9uMmpGa3lIdUZneV9BZFhaSVdLa3RsUEE2NGJFNUtyTV9PaDE2LTllM20zc1M2Z25FY0dWMjdYOGhVMnNpeVF6cUE3Q2NMTnV2djJtNUg3MWNmbDU1OGtIMVRYUkpvTzJBdFdlVjh5NkU?oc=5)
 
 ---
 

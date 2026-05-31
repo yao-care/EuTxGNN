@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Ibuprofen for joint pain: what you really need to know - The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdFlaMml2RWtwVkx4UndzZktUX0NPOE1mODhGdjd4ZmtpcFpMTFhFckRvemdod0dfV291YkwxOEZhTlRsLVhaWTVwVHczWnRBTlJncG51OHdMMGkxSlZySGxER1Zod2xlY3NER3Vac1dxbWk1TVIxYlhpc0xfQjRjZVJ5YnM0N3MtVnBBeVNWR1BzQQ?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Ibuprofen</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdFlaMml2RWtwVkx4UndzZktUX0NPOE1mODhGdjd4ZmtpcFpMTFhFckRvemdod0dfV291YkwxOEZhTlRsLVhaWTVwVHczWnRBTlJncG51OHdMMGkxSlZySGxER1Zod2xlY3NER3Vac1dxbWk1TVIxYlhpc0xfQjRjZVJ5YnM0N3MtVnBBeVNWR1BzQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

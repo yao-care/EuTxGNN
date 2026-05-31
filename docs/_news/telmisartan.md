@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Schlaganfall-Rückfall: 80 Prozent der Fälle sind vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
+
+2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
+
+---
 
 ### [Alzheimer-Prävention: 14 Risikofaktoren senken Erkrankungsrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlgzdjJxUDYtNXExblBrNkxtNFF6TUg1aTJMblBsRVJyREJ4bzhwMWY4NnVCRVdoZjZQdTlnUkJtLVJiakQzNHhBN0FQMS14NjZpR2EybUNoaHBueG1ZQUxTSkZ2WXdFSjBFSTdKdHpITGtfeWtaTXJ6TDVFcUMwMHZIa0E4SWluSzh3RnlMb1FJUjJHZUw0SW1PUm5nTVVKUzRGaGtsZHhNVEJCMThSX2E1WTJZYzkydS05QWJHUQ?oc=5)
 
@@ -80,7 +88,7 @@ permalink: /news/telmisartan/
 
 ### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
-2026-05-31 <span class="news-indication-tag">hypertension</span>
+2026-05-31 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
@@ -94,11 +102,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Polypille gegen Schlaganfall: Dreifach-Kombination senkt Risiko signifikant - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0t3SnROeWJBZkxpQmhPTWZ3M2ktQy1KeUJYeEZVdUFKeGVoOHVaVDlBQWhmVXpoaHpSVnM5WTdXdG5kMmY2SGVBWHFZc2NXZ0hHNEJQSnlzYlcyX1d0SUJ4OXBmRGFJay1vd3dKR1lJb05ZVWh1SkV0TVNhT0E1RWZaeVpQRlU2UFdadzJVVEliMVpDMnl2U1ZvX05MVng5dmhuVHRjN2dsLTJ6SDhyUQ?oc=5)
+### [The 8 Best Canned Foods for High Blood Pressure, Recommended by Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
 
-2026-05-30 <span class="news-indication-tag">Schlaganfall</span>
+2026-05-30 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0t3SnROeWJBZkxpQmhPTWZ3M2ktQy1KeUJYeEZVdUFKeGVoOHVaVDlBQWhmVXpoaHpSVnM5WTdXdG5kMmY2SGVBWHFZc2NXZ0hHNEJQSnlzYlcyX1d0SUJ4OXBmRGFJay1vd3dKR1lJb05ZVWh1SkV0TVNhT0E1RWZaeVpQRlU2UFdadzJVVEliMVpDMnl2U1ZvX05MVng5dmhuVHRjN2dsLTJ6SDhyUQ?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
 
 ---
 
