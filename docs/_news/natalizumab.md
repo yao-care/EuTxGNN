@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Sugar swaps that could help you lose 16lbs without trying - from breakfast favourite to cupboard staples - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNJNFU5LVFGbFpVYXcwaUdNNTl2RlJqVlJwQWRiUFd6Wm5NUEhsV1FWRG9GVjItRlo5UjkxanBYaHJINkY4SUU4SjRMX2puUFpkV1VkRkdmWDFnemhqTm4wRmU1dmM3dEFjX2hJVGJYOEhqOGxFMFZPaTF0UjV0R3ZMdDNBM05BMXUtY0ZyTHNsUjlWRWhzcUNB?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/natalizumab/
 
 ---
 
-### [COPD: Fett- und Zuckerstoffwechsel als neuer Treiber in der Lungenforschung - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
+### [Canicule : ces médicaments que des millions de Français prennent chaque jour deviennent dangereux dès 30 °C - Le Tribunal du Net](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVpxU1Z4MFNITmgxTFhiN2tCWGhxbjNzNGZQSWVnZ296d281TUVFZnJ3eVllMFl3aXdnNkJsdG8xTjcxVXp3RllmOC0wd0tWQTR1YWxnU0RJdWJmd3IydC1CSDlndVF3UEJfal93eS02LXB4UGVkdGd1YWVTQS0yUk9iUHhRaFNsOTBjbWhKR1Mwdw?oc=5)
+
+2026-05-30 <span class="news-indication-tag">diabète</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVpxU1Z4MFNITmgxTFhiN2tCWGhxbjNzNGZQSWVnZ296d281TUVFZnJ3eVllMFl3aXdnNkJsdG8xTjcxVXp3RllmOC0wd0tWQTR1YWxnU0RJdWJmd3IydC1CSDlndVF3UEJfal93eS02LXB4UGVkdGd1YWVTQS0yUk9iUHhRaFNsOTBjbWhKR1Mwdw?oc=5)
+
+---
+
+### [COPD: Ungesunder Lebensstil erhöht Erkrankungsrisiko um das Siebenfache - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
 
 2026-05-29 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBZVklNSUxFdUNaMmhoS0h4amJWaFFUY2VJTUFzcTcwZldKY19UUUp4eDMxYnYxZldtY0JGUl9tVUNUaHdOdXAyUFg2UlJ6azNZSmw1ZGtwcjM3c3Y4Q0Mxbm16M3QxT05ScWQxaC03NldvaHhKX21EQ1M3MEtzZ3JxNHJ2ckdaMDdrdWc5V0FsQ2lubFRhMi15MElYeWhURnctUHZEYnA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhaYnllcnFtWE1QanFLMmtiZklxM3pBV2IxTVJNMmEtRENYcGoxSDgwMXRyUmJDeVVRNWZZOTBtMFNDWnJFUzBUU2ppWk9ja1NFUHk5dnhOeHFDODJyczlPNXhlN0k1S0IzX0VtWmNmeTlKd2lrMjF1Wnl0bTJnTk5VRDJZLUd5ZGQ0OGp2anJmcmF4bTJQQlhRQjFhY0Z5Zk5JTk8waDVFWU85VFk3dGVpWjJDMXJnUHZVSg?oc=5)
 
 ---
 
@@ -75,22 +83,6 @@ permalink: /news/natalizumab/
 2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
-
----
-
-### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
----
-
-### [Glycémie perturbée, hydratation contrariée, instruments de suivi déréglés… Fortes chaleurs et diabète, une combinaison potentiellement risquée - Sud Ouest](https://news.google.com/rss/articles/CBMirgJBVV95cUxQaEh3T3BqYl96NVpyLWxoaXYyWVhlNGtNa0Y5bEtERWVJVkdibFhwaTg4U1lENnBJbC04VXMya09GLWl3bEc0Z3A5LXlvMUFOcU1IMGNqQXFrVFlzNWx2bWU2X2o2OXJGeXY4ekdMSElNeUZfcW9kR2g4Ukk1NUdRX2NueEhXSUtkQUJJcWk0bEdvVjZIYnhGS1pDNndtU1o2c25WV1Zud1h3VGRRbWI0cG9LWE1iY2hETks3N2lqY0VzR0JYLTF2dl9VYnNhZHJJcG92OTVZUUk3OXhPYTUwUDVtamVlcG5mUjQ5eXE0TGtEZ3lrYThHNkVFMmtkblN2YnVGcEV1WmxuT0NrbDJKX2Z6b3g1R1hvaXZ3NGtXaTlEVWtaVXVYWDVmeUIzQQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabète</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMirgJBVV95cUxQaEh3T3BqYl96NVpyLWxoaXYyWVhlNGtNa0Y5bEtERWVJVkdibFhwaTg4U1lENnBJbC04VXMya09GLWl3bEc0Z3A5LXlvMUFOcU1IMGNqQXFrVFlzNWx2bWU2X2o2OXJGeXY4ekdMSElNeUZfcW9kR2g4Ukk1NUdRX2NueEhXSUtkQUJJcWk0bEdvVjZIYnhGS1pDNndtU1o2c25WV1Zud1h3VGRRbWI0cG9LWE1iY2hETks3N2lqY0VzR0JYLTF2dl9VYnNhZHJJcG92OTVZUUk3OXhPYTUwUDVtamVlcG5mUjQ5eXE0TGtEZ3lrYThHNkVFMmtkblN2YnVGcEV1WmxuT0NrbDJKX2Z6b3g1R1hvaXZ3NGtXaTlEVWtaVXVYWDVmeUIzQQ?oc=5)
 
 ---
 

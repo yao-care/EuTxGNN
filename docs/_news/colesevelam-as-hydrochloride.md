@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Herzerkrankungen: 99% hätten durch Lebensstil verhindert werden können - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hKcWxhWHh6ZXFnZjBGQjlMM3lpMnlLcm5oXzNxdG1hVHBGYjlneXoxb3VnRVNiQTJlTzh4M3dXbjdET2lGbEhSRWFLZ2hDbHdjWU84bTNyOEhVVk5kX2NEMlE1cEhOZFlTTDNRcHpkd0Mybm9kTVA0T0M0OFFEUEg3MVJYdlhnUDFaU1M4RjljcmFRVTFtdjI2a25IaFcza2EyOHlxWGl2blEwZDllQi1pTWUweXdXSS1N?oc=5)
-
-2026-05-30 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hKcWxhWHh6ZXFnZjBGQjlMM3lpMnlLcm5oXzNxdG1hVHBGYjlneXoxb3VnRVNiQTJlTzh4M3dXbjdET2lGbEhSRWFLZ2hDbHdjWU84bTNyOEhVVk5kX2NEMlE1cEhOZFlTTDNRcHpkd0Mybm9kTVA0T0M0OFFEUEg3MVJYdlhnUDFaU1M4RjljcmFRVTFtdjI2a25IaFcza2EyOHlxWGl2blEwZDllQi1pTWUweXdXSS1N?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Sugar swaps that could help you lose 16lbs without trying - from breakfast favourite to cupboard staples - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNJNFU5LVFGbFpVYXcwaUdNNTl2RlJqVlJwQWRiUFd6Wm5NUEhsV1FWRG9GVjItRlo5UjkxanBYaHJINkY4SUU4SjRMX2puUFpkV1VkRkdmWDFnemhqTm4wRmU1dmM3dEFjX2hJVGJYOEhqOGxFMFZPaTF0UjV0R3ZMdDNBM05BMXUtY0ZyTHNsUjlWRWhzcUNB?oc=5)
 
 2026-05-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNJNFU5LVFGbFpVYXcwaUdNNTl2RlJqVlJwQWRiUFd6Wm5NUEhsV1FWRG9GVjItRlo5UjkxanBYaHJINkY4SUU4SjRMX2puUFpkV1VkRkdmWDFnemhqTm4wRmU1dmM3dEFjX2hJVGJYOEhqOGxFMFZPaTF0UjV0R3ZMdDNBM05BMXUtY0ZyTHNsUjlWRWhzcUNB?oc=5)
+
+---
+
+### [Canicule : ces médicaments que des millions de Français prennent chaque jour deviennent dangereux dès 30 °C - Le Tribunal du Net](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVpxU1Z4MFNITmgxTFhiN2tCWGhxbjNzNGZQSWVnZ296d281TUVFZnJ3eVllMFl3aXdnNkJsdG8xTjcxVXp3RllmOC0wd0tWQTR1YWxnU0RJdWJmd3IydC1CSDlndVF3UEJfal93eS02LXB4UGVkdGd1YWVTQS0yUk9iUHhRaFNsOTBjbWhKR1Mwdw?oc=5)
+
+2026-05-30 <span class="news-indication-tag">diabète</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVpxU1Z4MFNITmgxTFhiN2tCWGhxbjNzNGZQSWVnZ296d281TUVFZnJ3eVllMFl3aXdnNkJsdG8xTjcxVXp3RllmOC0wd0tWQTR1YWxnU0RJdWJmd3IydC1CSDlndVF3UEJfal93eS02LXB4UGVkdGd1YWVTQS0yUk9iUHhRaFNsOTBjbWhKR1Mwdw?oc=5)
 
 ---
 
@@ -78,35 +78,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
----
-
-### [Glycémie perturbée, hydratation contrariée, instruments de suivi déréglés… Fortes chaleurs et diabète, une combinaison potentiellement risquée - Sud Ouest](https://news.google.com/rss/articles/CBMirgJBVV95cUxQaEh3T3BqYl96NVpyLWxoaXYyWVhlNGtNa0Y5bEtERWVJVkdibFhwaTg4U1lENnBJbC04VXMya09GLWl3bEc0Z3A5LXlvMUFOcU1IMGNqQXFrVFlzNWx2bWU2X2o2OXJGeXY4ekdMSElNeUZfcW9kR2g4Ukk1NUdRX2NueEhXSUtkQUJJcWk0bEdvVjZIYnhGS1pDNndtU1o2c25WV1Zud1h3VGRRbWI0cG9LWE1iY2hETks3N2lqY0VzR0JYLTF2dl9VYnNhZHJJcG92OTVZUUk3OXhPYTUwUDVtamVlcG5mUjQ5eXE0TGtEZ3lrYThHNkVFMmtkblN2YnVGcEV1WmxuT0NrbDJKX2Z6b3g1R1hvaXZ3NGtXaTlEVWtaVXVYWDVmeUIzQQ?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabète</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMirgJBVV95cUxQaEh3T3BqYl96NVpyLWxoaXYyWVhlNGtNa0Y5bEtERWVJVkdibFhwaTg4U1lENnBJbC04VXMya09GLWl3bEc0Z3A5LXlvMUFOcU1IMGNqQXFrVFlzNWx2bWU2X2o2OXJGeXY4ekdMSElNeUZfcW9kR2g4Ukk1NUdRX2NueEhXSUtkQUJJcWk0bEdvVjZIYnhGS1pDNndtU1o2c25WV1Zud1h3VGRRbWI0cG9LWE1iY2hETks3N2lqY0VzR0JYLTF2dl9VYnNhZHJJcG92OTVZUUk3OXhPYTUwUDVtamVlcG5mUjQ5eXE0TGtEZ3lrYThHNkVFMmtkblN2YnVGcEV1WmxuT0NrbDJKX2Z6b3g1R1hvaXZ3NGtXaTlEVWtaVXVYWDVmeUIzQQ?oc=5)
-
----
-
 ### [La melatonina activa un mecanismo protector contra la obesidad y la diabetes tipo 2 - 65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
 
 2026-05-29 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[65 y más](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU5NWFnX09IVTlQMVdXdkRDQUNUVmo3b2RjSUJHUWNhLTlFVnQ1Qkl3RVpzTVRPUGhpWVZ6cHlsYTJJS1dxNkoxQmlid3pIX0twRUZFMjJmc3c0VXZrRHJDRjAzaG44bHVBN1M2YzZMd3ltcm53UlFzNzAxUmVXQmxWODEteU9FX19kOFh4VTNfQXBPTmFETDVMaUNoWEtMLUUybkN6WWlIdjI0SHc2azhqOC11NHNRc24yQm5aZ1pncjBqbHBGMC1EaDBXdFM5UXNySzNENA?oc=5)
-
----
-
-### [Gene therapies to fix failing hearts gain steam after years in the doldrums](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR3A4YmtkbWF5dHQxTnotaTZlSm9TUmY0cGQ0dkN1U1pGX0xfa1dZVUFsRTBLS0taLVpMTmhxRlNnOEhUdW1vN2lNblRlS3BmU09Lajd1RlBNc0puWkJJ?oc=5)
-
-2026-05-28 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR3A4YmtkbWF5dHQxTnotaTZlSm9TUmY0cGQ0dkN1U1pGX0xfa1dZVUFsRTBLS0taLVpMTmhxRlNnOEhUdW1vN2lNblRlS3BmU09Lajd1RlBNc0puWkJJ?oc=5)
 
 ---
 

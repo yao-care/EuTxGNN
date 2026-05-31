@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### ['Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
+### [Una droga experimental ofrecería una “cura funcional” para algunos pacientes con hepatitis B crónica - Gizmodo en Español](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaWhEQXlIOEwtcWM4NFZpMGtnVVREMDF6VnhIdEhJUUU5MjhLTjdONDd3QUduN19IWWNfcXV1SUQ0M1R4ODdSbS1wV201blBBcnBPVWxCb1ZFN2QtSGhUdGpmY1BRdXZ3eEZ5dEVxcXRVNmpKeC1hZHJPLWhtTjJfdXIyYXZrVEcwcVhQSFFCMGxzT1c1cmY3Vmt4QmQ2Q0JLalNwWm5PY1JzWGVmaEFUdVJNcWJ2dy1VaHlOcS1UV0g3UmdOZl9oNWlJdEg?oc=5)
 
-2026-05-29 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+2026-05-30 <span class="news-indication-tag">hepatitis</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVoS2xNdEp6Nm45X1lBeUdTaURtUlIyNGFJZnpZa0w5QU5nc296ZVlTN3NKRnl3LXliLVdkLW9uUUp3am5LQldOUUNmWE1DQnNFMjlNTi1IOElDZHdiUkVuMzgwX0Fnek5CcGZqQmlOd3FDc3pRQVBKNzMzMUN5NF9jZWRxUlNGZzZ5anJ2X2hfVmxvcU5TTlZXOWt6M2NhbXR0VEtBSi12Zw?oc=5)
-
----
-
-### [Un ensayo clínico logra tasas de curación funcional de hasta el 26% en pacientes con hepatitis B crónica - El Periódico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2xSc3VDcUJ3aWJiVnhtRUN2bHlmVXd3dkVpazNIZ3FxVklpSzJMeHg5U0Q5OFRyNXg5NzNaaWZad2NQS2xFMDNtWEVHSC1mVnRzNktQSm43eWRubW9WbGlQcXJGLXlhU05xMXpyWWR0RngyTDA4bFlUcUtKMUpPUVl2OW9FRDlDRmdKNEtORXdIcGpobHZHaWx2Z3R6cVNMQk45b0wzbHZLeW_SAasBQVVfeXFMT2hMR045Q3N2UFJNZEczUHdDckt4TEt3OHFXLUtETlIyV2U0OE1sYzB5RWR6TTBkdzhaeFh5SWdGSHZEc3hnOUhxd0lmUVlRRUM3RURROS1Ub0IxTHBnQmcxeVA1X0RDMlpxYVpaZXNBQ3ltR0dzUFJUcEQ4dzU1bVNpQzVJMTR2T0hUZkhOY3V2b2V5bTZ0TkVVWDdGSzcxTHdqU0p3d3V1cm84?oc=5)
-
-2026-05-29 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2xSc3VDcUJ3aWJiVnhtRUN2bHlmVXd3dkVpazNIZ3FxVklpSzJMeHg5U0Q5OFRyNXg5NzNaaWZad2NQS2xFMDNtWEVHSC1mVnRzNktQSm43eWRubW9WbGlQcXJGLXlhU05xMXpyWWR0RngyTDA4bFlUcUtKMUpPUVl2OW9FRDlDRmdKNEtORXdIcGpobHZHaWx2Z3R6cVNMQk45b0wzbHZLeW_SAasBQVVfeXFMT2hMR045Q3N2UFJNZEczUHdDckt4TEt3OHFXLUtETlIyV2U0OE1sYzB5RWR6TTBkdzhaeFh5SWdGSHZEc3hnOUhxd0lmUVlRRUM3RURROS1Ub0IxTHBnQmcxeVA1X0RDMlpxYVpaZXNBQ3ltR0dzUFJUcEQ4dzU1bVNpQzVJMTR2T0hUZkhOY3V2b2V5bTZ0TkVVWDdGSzcxTHdqU0p3d3V1cm84?oc=5)
+來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaWhEQXlIOEwtcWM4NFZpMGtnVVREMDF6VnhIdEhJUUU5MjhLTjdONDd3QUduN19IWWNfcXV1SUQ0M1R4ODdSbS1wV201blBBcnBPVWxCb1ZFN2QtSGhUdGpmY1BRdXZ3eEZ5dEVxcXRVNmpKeC1hZHJPLWhtTjJfdXIyYXZrVEcwcVhQSFFCMGxzT1c1cmY3Vmt4QmQ2Q0JLalNwWm5PY1JzWGVmaEFUdVJNcWJ2dy1VaHlOcS1UV0g3UmdOZl9oNWlJdEg?oc=5)
 
 ---
 

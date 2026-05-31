@@ -70,6 +70,14 @@ permalink: /news/ziconotide/
 
 ---
 
+### [La obesidad condiciona la salud y requiere un abordaje médico integral e individualizado](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEpwMGpRdS1uVk5Ka1VpbURINDNUVk9jUnRBRkZ4X3ljMkVWbWVDb2ZzQkI5UG5wVGlJMUpnZnF2YWo5MFVvWkFjRnp3a05pcG9sWlFsa09fUy1QV0pNbTRhb2I4R2hRTjlMWE83WjF5M3c2a19NcFVFNDVRcXpyaTZOQXM0aFZGcC1fUGdvem9LNW9OMC1jQ29KTkhySkpERHBIWUNMZnhtMHVUUmpfeHVaaXhzcl9QaG1NZGVwQQ?oc=5)
+
+2026-05-29 <span class="news-indication-tag">obesidad</span>
+
+來源：[Noudiari.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEpwMGpRdS1uVk5Ka1VpbURINDNUVk9jUnRBRkZ4X3ljMkVWbWVDb2ZzQkI5UG5wVGlJMUpnZnF2YWo5MFVvWkFjRnp3a05pcG9sWlFsa09fUy1QV0pNbTRhb2I4R2hRTjlMWE83WjF5M3c2a19NcFVFNDVRcXpyaTZOQXM0aFZGcC1fUGdvem9LNW9OMC1jQ29KTkhySkpERHBIWUNMZnhtMHVUUmpfeHVaaXhzcl9QaG1NZGVwQQ?oc=5)
+
+---
+
 ### ["Je trouve cela discriminatoire" : en situation d'obésité morbide, Antoine ne peut plus se soigner faute de transport adapté - France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGtpVm55VjRsSXNKU0dlYTE3Z3VVVVZRNXVoUEg1SW9Rdm1OQjI2NWxtRmVUMnNUdzhLQWRrNW1Lb0FsclVEaXpqd2pNaVFFbFlIQkxSVlEyQlVuYTd2S0dYTGRibV9JQ2duUWNmZlV3aHk1cHNNQTlweDNfdEl0cy03TkJSXzhqb3V3a2t5Z25sbHNMOHRTc1dMN3BNdkFTWVFoOEs0Y2h6c2pnay1zX3hXd1dGazNyMWtQSkpwbXJMeW51OU9uMmpGa3lIdUZneV9BZFhaSVdLa3RsUEE2NGJFNUtyTV9PaDE2LTllM20zc1M2Z25FY0dWMjdYOGhVMnNpeVF6cUE3Q2NMTnV2djJtNUg3MWNmbDU1OGtIMVRYUkpvTzJBdFdlVjh5NkU?oc=5)
 
 2026-05-29 <span class="news-indication-tag">obésité</span>
@@ -83,14 +91,6 @@ permalink: /news/ziconotide/
 2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc2lTNGxvZWlXRDViYXQwNjFDY3BkUUpBeGxmb09rX2h6bG85aXZYbnV1WExDb1doUklDSF9BOHlBNXJULVFON0JkSnZ2TGlQQ1dpOGtpSzdqQWppMDkxOXNWZkhMVFNpZ1lWekJZbjJhSGVlZkJKX2IxZm4yaHVfaTF1OUY2cmRzSGpmQjVvbVNHbENRRzFGNUFralZHVFdWZk43STY0NTV0aUhLSFAwWmF2RVlVZnhtYWlnZ3AxYzVONFltQzNPSTFWT2wwMXItNkFrcVZmcWtHVDZQMnBHQXV1bmx0c2RB?oc=5)
-
----
-
-### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 ---
 
@@ -118,7 +118,7 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Why You Gain Weight During Menopause—and What to Do About It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
+### [Why You Gain Weight During Menopause and How to Manage It](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5)
 
 2026-05-29 <span class="news-indication-tag">obesity</span>
 
