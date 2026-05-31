@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Herzinfarkt und Schlaganfall: Fast 99% vollständig vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazY0UzBiZUxMZjJFOTFiWjVIUHFaRG5Gc1NYdmg4Q1B4dVl5MnlOaHFPendBNjk1R3dJLUU4bmxOUXA1YkZQeE1zQUtUSG55MTM1RHQ4bWNMaHJTM000d0xwdUhFWnR0empFU1Q0Rk5yOTlVczdUMV9fbHY2WllHZEJ6UW01aU5TYkhzYXdqTXZta19lOTQtWDFmN2pPQnJ2bVVXdDBZNTBGTmhBeXM3Mko0b2JaSXBM?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-05-30 <span class="news-indication-tag">diabète</span>
 
 來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVpxU1Z4MFNITmgxTFhiN2tCWGhxbjNzNGZQSWVnZ296d281TUVFZnJ3eVllMFl3aXdnNkJsdG8xTjcxVXp3RllmOC0wd0tWQTR1YWxnU0RJdWJmd3IydC1CSDlndVF3UEJfal93eS02LXB4UGVkdGd1YWVTQS0yUk9iUHhRaFNsOTBjbWhKR1Mwdw?oc=5)
-
----
-
-### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 ---
 

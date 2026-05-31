@@ -54,6 +54,22 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（7 則）
 
+### [Dra. Juliana Mosciulsky: la obesidad debe tratarse como enfermedad crónica y no como decisión personal - Diario de Salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkhtV2tfLUFyVENyejB2RW5abzlmeE1XMmdlc1FOOFEtQTdocWNGMU1hM2VEb2l6RTRJTUhrVFh1OFhDSC1CbXoyNkwzczQ3a2VxMlJSbTl4Q1NiWGdRNEFhUE9oTFhkWWYtZHgyMEVUMWZpSFRxWXdLR2l2YTBPSm9pNjlnN09ncjVzdUZMR3NSOE5hV0JUYmlvWTE0cno1eWNLbWlzTUxIOHhCNWoxOFc3UFUyY2pzbUMwZWhYbFhLQ0Q5aGRON3QydUFoSW1lX183MWhmdWkzWEtWYmV4aGVGTVgwRWl5bFl2N3JR?oc=5)
+
+2026-05-30 <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkhtV2tfLUFyVENyejB2RW5abzlmeE1XMmdlc1FOOFEtQTdocWNGMU1hM2VEb2l6RTRJTUhrVFh1OFhDSC1CbXoyNkwzczQ3a2VxMlJSbTl4Q1NiWGdRNEFhUE9oTFhkWWYtZHgyMEVUMWZpSFRxWXdLR2l2YTBPSm9pNjlnN09ncjVzdUZMR3NSOE5hV0JUYmlvWTE0cno1eWNLbWlzTUxIOHhCNWoxOFc3UFUyY2pzbUMwZWhYbFhLQ0Q5aGRON3QydUFoSW1lX183MWhmdWkzWEtWYmV4aGVGTVgwRWl5bFl2N3JR?oc=5)
+
+---
+
+### [I farmaci glp-1 per dimagrire riducono l’appetito, aumentano il senso di sazietà e, in molti casi, cambiano le preferenze alimentari. Ma c'è un rischio sollevato dai nutrizionisti - Vanity Fair Italia](https://news.google.com/rss/articles/CBMingJBVV95cUxQOFNMZFhKNE9DMFR1RDQwNFIwRWl4bmMxY1MwbXJaSHdwa3daSWtSeHVJazdFeFBROE5TbVhSc1E2NDlQbWxZcmZ0Z00yeWxPN3U3SVh4TzJ2S0E5SXl6YzNtV3VXbnJSaUdLMlRvT01aN0pxU3JYdU1BZ0dVdjU2T3gwSGpROXh4dmRhMTVSQ3djSHM0bUcyRUNRam53VzR0YmVzQlUzSjRmVHVDQkZNZGxUZXYtUWlPZUQya1VGdWhlWGV5SVdEUzJHRXR5dUl1R0dNU21PZEVIRFJLTExPREJZRVB3aFR3aVh5MDU4YXJjMGduSmplRUxRWW1GU1Y2Mk0xLTV0UXhhRFQtcC1LMmJ5N1luZ3o2VXJoTUZR?oc=5)
+
+2026-05-30 <span class="news-indication-tag">obesità</span>
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMingJBVV95cUxQOFNMZFhKNE9DMFR1RDQwNFIwRWl4bmMxY1MwbXJaSHdwa3daSWtSeHVJazdFeFBROE5TbVhSc1E2NDlQbWxZcmZ0Z00yeWxPN3U3SVh4TzJ2S0E5SXl6YzNtV3VXbnJSaUdLMlRvT01aN0pxU3JYdU1BZ0dVdjU2T3gwSGpROXh4dmRhMTVSQ3djSHM0bUcyRUNRam53VzR0YmVzQlUzSjRmVHVDQkZNZGxUZXYtUWlPZUQya1VGdWhlWGV5SVdEUzJHRXR5dUl1R0dNU21PZEVIRFJLTExPREJZRVB3aFR3aVh5MDU4YXJjMGduSmplRUxRWW1GU1Y2Mk0xLTV0UXhhRFQtcC1LMmJ5N1luZ3o2VXJoTUZR?oc=5)
+
+---
+
 ### [Los países ricos controlan sus niveles de obesidad pero en los pobre sigue disparada](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
 
 2026-05-30 <span class="news-indication-tag">obesidad</span>
@@ -78,14 +94,6 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
----
-
 ### [Las palabras importan: la SEN publica una guía para comunicar mejor sobre la migraña](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGVweFdoVHBvb2t4Mi15NTRzNUk0UmF4ZDYwamRjNkhlMTFJZ0dEWnR6djdXYXh1bWE1Qm1JWlZraG80dlFzdUVRSHRLaWtYUk54ZFI5TnJoYmk5UUxyaHNJeXdBa1NDMV9weXRKZm9fM1JFUFJ4X2hCTE5WdU83WVJLNGUzVWFQeG9CNEV2NmF4MzJOUXJxcWhJRXMyV1dxc3BOdUxkbFRMUmlhTXE3MnF0bHU?oc=5)
 
 2026-05-29 <span class="news-indication-tag">migraña</span>
@@ -99,14 +107,6 @@ permalink: /news/ziconotide/
 2026-05-29 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMickFVX3lxTE1nSWtNTHZQejZtME9IZFdkX0c1aEhXNFdRS2RYeXBnajhidnczRS1fdG5pdnAtZWlMTGR1V0JVZ3ozenhIYkpvckFkNS1UaWNvZlhKQ1hjSHAxUWY0SDBDWS1FSENCZmFoVnlPU3d3cGx4QQ?oc=5)
-
----
-
-### [La obesidad puede provocar cambios biológicos que favorecen la invasión del cáncer de mama - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjV3RXE3R1hKbEtKUGVZRnBGSl9IUjlnelBIMHpPRG9oLVVrT2phR3liYnhqSnBUaExLeUpKeEJEcGRjcDZ1SHZOb2t3RE1LdS14OW05djJQdGozd29sVVNlRHlYWnNHWGx6eks5VlpNM0Vha3MyTFJuU1pwd1FyNnJnbmpDRXQ1eFlvSVJNZ0NuR2JsMkZCU2k3Q0h6ellUaExJWDVLaVprYmFYVlRWYUVDVGJzY2E5NUtXeDJERdIBugFBVV95cUxNLUhLSW15a19jUmFVaUtPY3oyd21SeWdiMjlOZWtYVFpPQXh1ZlZuZUdmbGVDQTN6dGpXV2FtTUhYUHR1eXdhald5cDR6M1hITGdIVUtoWDdQSzVfcV9YWkItbHc4eC0zRlMtaHppcEx1T1JMaC1Db3NfT1lGc3diSHg5dkp3TEpXU1A1QnU0c2UzaWVORmdkUS1ZUzZ1NjZHMHY4YTVHZElMaW9qbGtKdEVjcnZRNFBpX1E?oc=5)
-
-2026-05-29 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjV3RXE3R1hKbEtKUGVZRnBGSl9IUjlnelBIMHpPRG9oLVVrT2phR3liYnhqSnBUaExLeUpKeEJEcGRjcDZ1SHZOb2t3RE1LdS14OW05djJQdGozd29sVVNlRHlYWnNHWGx6eks5VlpNM0Vha3MyTFJuU1pwd1FyNnJnbmpDRXQ1eFlvSVJNZ0NuR2JsMkZCU2k3Q0h6ellUaExJWDVLaVprYmFYVlRWYUVDVGJzY2E5NUtXeDJERdIBugFBVV95cUxNLUhLSW15a19jUmFVaUtPY3oyd21SeWdiMjlOZWtYVFpPQXh1ZlZuZUdmbGVDQTN6dGpXV2FtTUhYUHR1eXdhald5cDR6M1hITGdIVUtoWDdQSzVfcV9YWkItbHc4eC0zRlMtaHppcEx1T1JMaC1Db3NfT1lGc3diSHg5dkp3TEpXU1A1QnU0c2UzaWVORmdkUS1ZUzZ1NjZHMHY4YTVHZElMaW9qbGtKdEVjcnZRNFBpX1E?oc=5)
 
 ---
 

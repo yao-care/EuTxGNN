@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/levetiracetam/
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Alzheimer: Levetiracetam als kosteneffizienter Kandidat für Drug Repurposing - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQclpuOXpYVnE5akZVeG90TUxQbzdjb0J5NGpaZXVpdDF4TkxuWHgxSTFSb285T21qVkY3anp2eExZNDl6bGNrRU5MSGozV0t1ZFE3ZnRUV0FnOUQ0RmhrN2IwVTdUTzdxdG0tQjRzYXhBYWZMdS1fWF83YjZYajBRVkNZejRfN3J5VHFoU3BuUGdVb3ZQMnJfSHExQWRhelIwc2tvUmxyeXV1b3RY?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Levetiracetam</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQclpuOXpYVnE5akZVeG90TUxQbzdjb0J5NGpaZXVpdDF4TkxuWHgxSTFSb285T21qVkY3anp2eExZNDl6bGNrRU5MSGozV0t1ZFE3ZnRUV0FnOUQ0RmhrN2IwVTdUTzdxdG0tQjRzYXhBYWZMdS1fWF83YjZYajBRVkNZejRfN3J5VHFoU3BuUGdVb3ZQMnJfSHExQWRhelIwc2tvUmxyeXV1b3RY?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

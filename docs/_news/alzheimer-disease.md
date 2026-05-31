@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（1 則）
 
-### [Eight foods you should eat regularly to help lower your dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGh4bUQ5OUhWZmcxN3hrTld0Z1YxaUN5NTRRcU5MQ185N2dEdGFzbjdDSWlISnA3NDhBX0QwekZtbGM5amZLbGJNZ19ud3l5WjdFUEFkNElUbTROX1ZxQlAxcmdjYkNfODlnS1Z6b19WWUxvSE5jREhpX3hPX2tFd2o0Y21Ob2ZybnMxc3ZBMGZybk80cGVvMi12QmdQNkh1aGk5SjRlYw?oc=5)
+### [The London couple at the heart of 'first-of-its-kind' Alzheimer's treatment](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXpwZ3NaRFc1bnlKcWM1NXVsWlhrbUhsTkVfdHVMNzA5ZEs1R1d5WXJlS1BXb2g5Z082TXYyNFlBV0tvZlJKNTF5MmI4b0FORmZINEhYVW9KZndvdUU1VGpoT2FpcFc2SXFQYVpvNFU0OGNBMU9CS2haRDUydDQxZ0ZjZTc2aTV1VElCQUo0cjlTMi1zMDd6eHpPX0N4SnFv0gGmAUFVX3lxTE5HUzVHV2NkclloZUFTUXVURmdWWENfV2k4cmo1T05KV2JlNTI1eWoyOG5OQWpTQ3N3TDRiLUxNT2p2UzM1Zjc1WE1ZdGhEUmw0WnVVRDk0Mlg0NENNMHNPdzhuMzl5Z09QVnVNbXhwMXJRdVdBMmR1ZXdTU3F4dnFDMTR4NGpaQWFxaEZsYWNSVEhpUGVJeThXWFZmVFZWcDlpVEhaOWc?oc=5)
 
-2026-05-29
+2026-05-31
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGh4bUQ5OUhWZmcxN3hrTld0Z1YxaUN5NTRRcU5MQ185N2dEdGFzbjdDSWlISnA3NDhBX0QwekZtbGM5amZLbGJNZ19ud3l5WjdFUEFkNElUbTROX1ZxQlAxcmdjYkNfODlnS1Z6b19WWUxvSE5jREhpX3hPX2tFd2o0Y21Ob2ZybnMxc3ZBMGZybk80cGVvMi12QmdQNkh1aGk5SjRlYw?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXpwZ3NaRFc1bnlKcWM1NXVsWlhrbUhsTkVfdHVMNzA5ZEs1R1d5WXJlS1BXb2g5Z082TXYyNFlBV0tvZlJKNTF5MmI4b0FORmZINEhYVW9KZndvdUU1VGpoT2FpcFc2SXFQYVpvNFU0OGNBMU9CS2haRDUydDQxZ0ZjZTc2aTV1VElCQUo0cjlTMi1zMDd6eHpPX0N4SnFv0gGmAUFVX3lxTE5HUzVHV2NkclloZUFTUXVURmdWWENfV2k4cmo1T05KV2JlNTI1eWoyOG5OQWpTQ3N3TDRiLUxNT2p2UzM1Zjc1WE1ZdGhEUmw0WnVVRDk0Mlg0NENNMHNPdzhuMzl5Z09QVnVNbXhwMXJRdVdBMmR1ZXdTU3F4dnFDMTR4NGpaQWFxaEZsYWNSVEhpUGVJeThXWFZmVFZWcDlpVEhaOWc?oc=5)
 
 ---
 

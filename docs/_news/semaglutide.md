@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Wie sich ME/CFS und Diabetes gegenseitig beeinflussen können - Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
 
@@ -99,14 +99,6 @@ permalink: /news/semaglutide/
 2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
-
----
-
-### [Expertos defienden tratar la obesidad como enfermedad crónica para frenar el riesgo cardiovascular y la diabetes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHdSN01jRnpWMzllYXlBM2JDaDNrVVVwbmM5eHdmRHFieUZYN1JQd1pfblFlTUFLY2puTlJ6MGNvdW1SQXVjcC1NYTdoSlhFaVR5MHlLYTREMkR4by1XNkZHVUJiN1Rfa1BZa0xpTmxLMGZVRXhvRnVuLU16eFROUkxTdUluVXFxRVU5MjhDZUEybW9oaVhfVkU1bTlYZHF4ZnJlWHVwcXFfMjhrSml3RFRWZHlfY0J3amNTMXdBbC1HbURfNXZLSV85amJoTkc4SHdqSEZlQ2Z3cWJOeEJ6Y3llaDIzcmhfMk9QSw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Bepirovirsen logra la curación funcional en uno de cada cinco pacientes con hepatitis B crónica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
 
 2026-05-31 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
+
+---
+
+### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
+
+2026-05-31 <span class="news-indication-tag">hypertension</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
 ---
 

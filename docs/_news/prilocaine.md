@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（23 則）
+
+### [World faces cancer workforce crisis with 100m staff shortfall, report warns - The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1ZkbUZITHNkdTQ4WTFWNlBXOWZoMWp6SmtYMnp2ZFZ2QlNYYkluYXFQQ19jam9jc3B1T2pOa1lhb25zUDdGMFJ0Mm43VU42R1NNWTZ1QlN0Y1UwWE1ZekxMWjZ5QWctZDBxRElIamxFd0RRNGgwUzZ5TElxVE5rd2xYaERodmhwQTJWVDFvaHVGSl84YWZPS09teW9xWVdsTDA0Z2d5RGs?oc=5)
+
+2026-05-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1ZkbUZITHNkdTQ4WTFWNlBXOWZoMWp6SmtYMnp2ZFZ2QlNYYkluYXFQQ19jam9jc3B1T2pOa1lhb25zUDdGMFJ0Mm43VU42R1NNWTZ1QlN0Y1UwWE1ZekxMWjZ5QWctZDBxRElIamxFd0RRNGgwUzZ5TElxVE5rd2xYaERodmhwQTJWVDFvaHVGSl84YWZPS09teW9xWVdsTDA0Z2d5RGs?oc=5)
+
+---
+
+### [«Fumo, ma sto bene»: lo pensano in molti, però il tabagista sano non esiste. E i nuovi prodotti non sono innocui - Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNeG1UaVFvanBsZng0TF9hTXcydGltSkJra1ByOHZEb0JsODJ3akZBTUFEYW9aWGNkYWRkbEh2N1ExZ1l1dDcwRk1NOFBNZ1E4RkFlYTZ6SmZ4SF9tUzR0d2NINi1SZWFhb1U4UU02b1RNUXkwUHJiMXVucEFDbG00dk5HREZRbU9ydzhPa1dZemVyZUc2YnJtQUp1NUI4TWlQY2laeWkzYkEwanBCdXkwWllYeXpBbE1YWUJ1S2ZuMVNpYTVPZWNfT2dXOE5DdExVY1BMdElhUU1JazI2MDNJM3Zrbkl1VGJOd0ExWGo4UkctaTlNaDk5MG5Td1BmeEptNTQ3bEozekplT1BpbEg3Q0ZlYnRveGJxWXAtMzQ3eTZLMHhOZHdydlpvS2tUaGFqUWVHdtIBugJBVV95cUxQLWs1ZmhELU84MUp6UzhKZU81eTRNRlFnNzMyZHJaZDdUT05wcVYybWgwZXhWQTg5ckNSTXR6blp6MTVpTzBpQm90RzA3ZnczQnJzTjRsR1pSTG5Uc0RIQXpBRVdPcURZMUNIaWFzOXFtSGh6eFpMYlBPZ2NNaWVnZVpMWnhMeTMxM2p6Z3NRUnphM3R0NTJGTDY2M01XWWlSVUpWRmE3ZGZSSlpBNlpHWF9zWVJnakJPazBpalk0a0F1WWhVUzctczh4LXVrVVJiVDR2alZzZXNiVDRTVzI0Y0NIVW9Gd2I5TlAxM3dJVWN3T21qZjJWOVp3TGYyeC04LUZXRS1rcHlpaG1WUmVEOUVXa005M0dEdDN2elpKSjF1bm85SEZCcDV6d3NzQ3BIYS12T3dCeEdjQQ?oc=5)
+
+2026-05-31 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNeG1UaVFvanBsZng0TF9hTXcydGltSkJra1ByOHZEb0JsODJ3akZBTUFEYW9aWGNkYWRkbEh2N1ExZ1l1dDcwRk1NOFBNZ1E4RkFlYTZ6SmZ4SF9tUzR0d2NINi1SZWFhb1U4UU02b1RNUXkwUHJiMXVucEFDbG00dk5HREZRbU9ydzhPa1dZemVyZUc2YnJtQUp1NUI4TWlQY2laeWkzYkEwanBCdXkwWllYeXpBbE1YWUJ1S2ZuMVNpYTVPZWNfT2dXOE5DdExVY1BMdElhUU1JazI2MDNJM3Zrbkl1VGJOd0ExWGo4UkctaTlNaDk5MG5Td1BmeEptNTQ3bEozekplT1BpbEg3Q0ZlYnRveGJxWXAtMzQ3eTZLMHhOZHdydlpvS2tUaGFqUWVHdtIBugJBVV95cUxQLWs1ZmhELU84MUp6UzhKZU81eTRNRlFnNzMyZHJaZDdUT05wcVYybWgwZXhWQTg5ckNSTXR6blp6MTVpTzBpQm90RzA3ZnczQnJzTjRsR1pSTG5Uc0RIQXpBRVdPcURZMUNIaWFzOXFtSGh6eFpMYlBPZ2NNaWVnZVpMWnhMeTMxM2p6Z3NRUnphM3R0NTJGTDY2M01XWWlSVUpWRmE3ZGZSSlpBNlpHWF9zWVJnakJPazBpalk0a0F1WWhVUzctczh4LXVrVVJiVDR2alZzZXNiVDRTVzI0Y0NIVW9Gd2I5TlAxM3dJVWN3T21qZjJWOVp3TGYyeC04LUZXRS1rcHlpaG1WUmVEOUVXa005M0dEdDN2elpKSjF1bm85SEZCcDV6d3NzQ3BIYS12T3dCeEdjQQ?oc=5)
+
+---
+
+### [Al Regina Margherita salvata una bambina affetta da scorbuto](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWhtQjQyV2FlNGNXZUtkZkx6ZGFVaE5hQWdHeTh1WXdnclh3Sm03cG1YNm8wUkh3N0UwbTMzajVVZ2otbHl4MHR0REg4dmVxdW9vUFlwWXBLMXlvOVlhVjQtZkJNV183cEdVYmlYd3Y4OVhjbUZLUVRPLUtEWFpxOVZYUEc2bmNtc0xmWHMxOGlsNTZITFlLYmlKdG1YSWtfVUJKVnY4VjNZOTNpNXhsQVZieXlxblNxSGtnb3YwWTJzN1NmU19jNXVVOG9uWkg2VS1Ca015clNRc2VjQl9jRkQ4T3otV1N4elkw0gHeAUFVX3lxTE94YXJZS0pmbVFNeVpnS2RrOTNVNEVsWXNkTzlFYUU0ZEdUOFhoT200Ry1uSjJkekI5cEZxd3kzOVRXeURUUTlfYnl4LThHR0c4cC10YjZ2STRza0ItQm9zcmhJTU4zT1FwSldLVEhlNHNYVGpBNjIteHA0SkFxSkswUFA0eE1lUnd6SjZtN3NuUXF3Y1JRNEJpSHN4cVNtRi1qWHA0dC1nVlB0RGZZQTc4blhubnNySi1aWHJvV1lOdWZFcjlwTXJ0UkdWcklDUmhITEZQd2x0T2NnSUFnUQ?oc=5)
+
+2026-05-31 <span class="news-indication-tag">AF</span>
+
+來源：[TargatoCN](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRWhtQjQyV2FlNGNXZUtkZkx6ZGFVaE5hQWdHeTh1WXdnclh3Sm03cG1YNm8wUkh3N0UwbTMzajVVZ2otbHl4MHR0REg4dmVxdW9vUFlwWXBLMXlvOVlhVjQtZkJNV183cEdVYmlYd3Y4OVhjbUZLUVRPLUtEWFpxOVZYUEc2bmNtc0xmWHMxOGlsNTZITFlLYmlKdG1YSWtfVUJKVnY4VjNZOTNpNXhsQVZieXlxblNxSGtnb3YwWTJzN1NmU19jNXVVOG9uWkg2VS1Ca015clNRc2VjQl9jRkQ4T3otV1N4elkw0gHeAUFVX3lxTE94YXJZS0pmbVFNeVpnS2RrOTNVNEVsWXNkTzlFYUU0ZEdUOFhoT200Ry1uSjJkekI5cEZxd3kzOVRXeURUUTlfYnl4LThHR0c4cC10YjZ2STRza0ItQm9zcmhJTU4zT1FwSldLVEhlNHNYVGpBNjIteHA0SkFxSkswUFA0eE1lUnd6SjZtN3NuUXF3Y1JRNEJpSHN4cVNtRi1qWHA0dC1nVlB0RGZZQTc4blhubnNySi1aWHJvV1lOdWZFcjlwTXJ0UkdWcklDUmhITEZQd2x0T2NnSUFnUQ?oc=5)
+
+---
 
 ### [Osteoporose: KI erkennt Risiken früh via Netzhautaufnahmen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmV2dnpfdGl0RUtxRmcxdWJrUWNYZjVfcUQxQk1vR1NUTEEwSTJoN1VxNU0tR1FtLTF2TVZ3WExsSXFuaWtqRHJPYnBxdHJWekFacUk1czBvcGdLOUE0TmtPd0tSSmd1UUxOcEZMYVRGYVp1Si13Ulg4RTllWTdCOTBXU3A5V1Y1M1hoQW54NXIyRTdRejlkV1VjY1dHOEpCUzNUY0NSR3VubkE?oc=5)
 
 2026-05-31 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmV2dnpfdGl0RUtxRmcxdWJrUWNYZjVfcUQxQk1vR1NUTEEwSTJoN1VxNU0tR1FtLTF2TVZ3WExsSXFuaWtqRHJPYnBxdHJWekFacUk1czBvcGdLOUE0TmtPd0tSSmd1UUxOcEZMYVRGYVp1Si13Ulg4RTllWTdCOTBXU3A5V1Y1M1hoQW54NXIyRTdRejlkV1VjY1dHOEpCUzNUY0NSR3VubkE?oc=5)
+
+---
+
+### [Entzündungen: Pflanzenkost senkt Demenzrisiko um 7 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZy1KMHlqZ1lfdlU4Qk5uZEVVTzZ0U3pWc0hCRmJ4aXVybUhXSzE4enVkbDhmNjNwZVpzTnZsR3hfTk9lb2xGT1lpemlWMkZ3S0hzYUhFaV9uWEJJYmEzLWluY0Q3MVdHcnRkZ3BWdm8zbm80bVlwQjZxbVMxbEVkRjhDaHBZZ25IRlZsdmZEbW10SU4zSklNeUowVWxoYlpocjVNbHNrZXJsd3c?oc=5)
+
+2026-05-31 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZy1KMHlqZ1lfdlU4Qk5uZEVVTzZ0U3pWc0hCRmJ4aXVybUhXSzE4enVkbDhmNjNwZVpzTnZsR3hfTk9lb2xGT1lpemlWMkZ3S0hzYUhFaV9uWEJJYmEzLWluY0Q3MVdHcnRkZ3BWdm8zbm80bVlwQjZxbVMxbEVkRjhDaHBZZ25IRlZsdmZEbW10SU4zSklNeUowVWxoYlpocjVNbHNrZXJsd3c?oc=5)
 
 ---
 
@@ -78,6 +110,22 @@ permalink: /news/prilocaine/
 
 ---
 
+### [I received a ‘death sentence’ diagnosis at 36 after my hip snapped running from the printer at work - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDFmSndPdTl5dDkydFBRRUM0aWx4WkRfdWxJa3JwbWxaa0d2SVRtb2RkRzVsMTM3ak9SeEtGNWJHUVB4QmhpWERhcUozQ2w0aFFVNVd0SnFPVXViaXRLc3BUOFp4RDVsQXJnQ2hjbnBiTWtHcXZlTDJPNFY3Nm51U3U0dTFYS01falVpXzN5dFk?oc=5)
+
+2026-05-30 <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDFmSndPdTl5dDkydFBRRUM0aWx4WkRfdWxJa3JwbWxaa0d2SVRtb2RkRzVsMTM3ak9SeEtGNWJHUVB4QmhpWERhcUozQ2w0aFFVNVd0SnFPVXViaXRLc3BUOFp4RDVsQXJnQ2hjbnBiTWtHcXZlTDJPNFY3Nm51U3U0dTFYS01falVpXzN5dFk?oc=5)
+
+---
+
+### [Gema Pizana, afectada de esclerosis múltiple en Elche: "Me diagnosticaron la enfermedad con 27 años y lo primero fue el miedo"](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlRKT3ZYY3BoSWZJYkZPNi1fMGpIZzcxQjR6Y2dSX3Qxa2xOc2dGU3ZQTUkxZjZ0WDFiRFF5QlNHNi1MWEtTSnZQTWRKaERRYk91ZnFLbkpzZmJSUG9MTmdMMDM4eEZYVWZlSi1IbFh6ZU1Od3RjQnpqak5XZ053UEtrTHg5Znc4OE9yMWNIM1pCb1k3SjJfT2M5RXZSRWl0My1VNWZ5cnpCMXRKcGxpbmIwamxLSUYySXBuMVdCSFlGZXZ6aXNzaENR0gHPAUFVX3lxTFBHbFYzNk5tOURXVDlFYjd3MGhhbGNjblBXaTBiRDNPYXFKb0NSS3FSejM1RFdRd0FidWhWRkVMZk42bV9lQUs0ZTJZUE1UYWFvS2VjeThzVkRLX3gwbVJqZmwzdVV2eldkdFBOM196aUl5NWMtOW8zU3hTbWFJajlWMU9YTzlUNm40dHVvaldXb2tPS0lDNkx0ZGtoaVRCWlduMEs2VVlLNzNxQmxUMk9Bc1dHLXViUWlEd1dMSzFZZ1M4Wkpubnd4ZVpTWmFqUQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+
+來源：[Información](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlRKT3ZYY3BoSWZJYkZPNi1fMGpIZzcxQjR6Y2dSX3Qxa2xOc2dGU3ZQTUkxZjZ0WDFiRFF5QlNHNi1MWEtTSnZQTWRKaERRYk91ZnFLbkpzZmJSUG9MTmdMMDM4eEZYVWZlSi1IbFh6ZU1Od3RjQnpqak5XZ053UEtrTHg5Znc4OE9yMWNIM1pCb1k3SjJfT2M5RXZSRWl0My1VNWZ5cnpCMXRKcGxpbmIwamxLSUYySXBuMVdCSFlGZXZ6aXNzaENR0gHPAUFVX3lxTFBHbFYzNk5tOURXVDlFYjd3MGhhbGNjblBXaTBiRDNPYXFKb0NSS3FSejM1RFdRd0FidWhWRkVMZk42bV9lQUs0ZTJZUE1UYWFvS2VjeThzVkRLX3gwbVJqZmwzdVV2eldkdFBOM196aUl5NWMtOW8zU3hTbWFJajlWMU9YTzlUNm40dHVvaldXb2tPS0lDNkx0ZGtoaVRCWlduMEs2VVlLNzNxQmxUMk9Bc1dHLXViUWlEd1dMSzFZZ1M4Wkpubnd4ZVpTWmFqUQ?oc=5)
+
+---
+
 ### [Dermatitis atópica: por qué no solo afecta la piel y requiere un abordaje integral](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXZ1ejVaeElXZFN1d2sxVG9Tdmcxc2NXYkF2X1hPV3hWRnFRNE9rb0hPTWhSM1J5dzM1UkxyUzZWWFQzdzZyUjVkOGI3NU9ZSmVCS2s5RUZqcVFDMEJ3Z2FPODRkNHBkVV9DejZYS3ZSTlVOTVhQaGVzY1dkbHFBVV96S25xNkxrSmgtSG9vSmJiTFgtYWlzbThBOFlTYmdQMkN4WVFwX0ZkcGNmSjJOaEVxb2ZIR1BZVXdFUExHR3I1VjRiNTZiR2FNMNIB5gFBVV95cUxOcGItWlBYTHlzaGUtSnFFNDRydVZQdXY5Z3lVN1dNMU5xYXpDSGlZaXlyYlZTOVpYbklEcW51UzZsdVVxbV9XQUtuY0VRYjJ6dUJJTXVLeTdFM0RQeFpYejNSclFYUUNIWU9qQXdQTy1RR1BINjBnbkpmMWN5R05PRGg3RTk2cmNFc1U4VFp6Zy1RS2w4eUh2U1Y1cm1nVWlEb2xWM0xMSzRxaXR3dy00X25SN2JmUHQwMndSakVzTkZlNzBwc1FxTHFYYmNXblN0Q01YdTd2eWs3clJHYmRYV05Eblc2dw?oc=5)
 
 2026-05-30 <span class="news-indication-tag">AF</span>
@@ -94,6 +142,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Los trastornos de salud mental son ahora la causa número 1 de discapacidad en todo el mundo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU4wQ1piZHBRTVUzNW1zZjBDNnBPakJtVlZKZ2U5OUYxbVZ6aGZ4aHBFWlJ5dEJmMDQ1emtwbFBBdmVEbGpKbzRyc0F5S1JrSnVYNWc1NVBGelFYYmRzSDAzeDRMd21FVm9aTGRNbWRjRG05RWpGdlhVT2s3b1lUVkFfUFIwcjUyM1M1YzY3Nnh1OE1rdXgzcWEzdXY4ZjBiQ0hrTkhMUmo4a1E2V2l3OC1CS1RHTXM4NVF0TDNmajRqdl9mXzNSbGdTYUhNUdIB6AFBVV95cUxONTdYMUVadm9wckZ1T2ZDbjA1Rm5iUDB3OWpBVHhibjR3SHFkbkxmaHdWUXo0TjcyY2dOMDNuUHk3bVFFMEtPRkVEQ3gyc1QtRUxYbzJwOWthQThvRm90YkRvY09qOHYyenY4OGNhUDI1WXFxTmR3SW01cDJtVmdSYnhUa1JucUVXRlhYX2hHT0ozM0dwRGRPcU9lSnpHN3k0WmRHTXJfSFN2V2l2YlZxUHNKVFVMQnhWb1VpZzFfaF9GSTFLbmQ2Q29Db05iRE5Nbk5iWFZDMm8xaEt5eUZSWGdvNk5KM3ZQ?oc=5)
+
+2026-05-30 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU4wQ1piZHBRTVUzNW1zZjBDNnBPakJtVlZKZ2U5OUYxbVZ6aGZ4aHBFWlJ5dEJmMDQ1emtwbFBBdmVEbGpKbzRyc0F5S1JrSnVYNWc1NVBGelFYYmRzSDAzeDRMd21FVm9aTGRNbWRjRG05RWpGdlhVT2s3b1lUVkFfUFIwcjUyM1M1YzY3Nnh1OE1rdXgzcWEzdXY4ZjBiQ0hrTkhMUmo4a1E2V2l3OC1CS1RHTXM4NVF0TDNmajRqdl9mXzNSbGdTYUhNUdIB6AFBVV95cUxONTdYMUVadm9wckZ1T2ZDbjA1Rm5iUDB3OWpBVHhibjR3SHFkbkxmaHdWUXo0TjcyY2dOMDNuUHk3bVFFMEtPRkVEQ3gyc1QtRUxYbzJwOWthQThvRm90YkRvY09qOHYyenY4OGNhUDI1WXFxTmR3SW01cDJtVmdSYnhUa1JucUVXRlhYX2hHT0ozM0dwRGRPcU9lSnpHN3k0WmRHTXJfSFN2V2l2YlZxUHNKVFVMQnhWb1VpZzFfaF9GSTFLbmQ2Q29Db05iRE5Nbk5iWFZDMm8xaEt5eUZSWGdvNk5KM3ZQ?oc=5)
+
+---
+
 ### [Breast cancer patient spared chemo through trial says it felt ‘like Christmas’ | ITV News](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlpGaUVfSEhPLXFzS2JjeElVMjBMRVZUR250WE1RVjBadGt1Q3hTeE5vcjl0NHB6SmRCSlhVM2RMUU5yOW9sWWhlbW4tbGVQbGlCZ09NMWM4RHN6U0FJYklYWmo4Qm9FZ05tM2RDUTJQZVpUMW5xaG9IX3BMZ1RZNlJhbFh6d0pEeTVTTlFBaUpwRWxvSlBaSTlLQ1E0aG9Edm9sOExFaWYySnoyWXRuc093?oc=5)
 
 2026-05-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -107,14 +163,6 @@ permalink: /news/prilocaine/
 2026-05-30 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Zdk01T2gyZTBPMldjRE5OOTRyMGxYNHFkWW5ybjV1UG9wbmY2d2pVQlV1eXZFUm9rOWpCa0Y4bGxzMHpwMlV5VC1yMXRfM2FVcF9md3JVZENhTnND?oc=5)
-
----
-
-### [BBC doctor gives Omeprazole verdict after 'worrying news' - Birmingham Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlVaOGk3aU9uRHdsc29xbENyaTRIOVF2MW1LZldnM0VrTlJWZTVzOTAyQlRDV0dla2pHZklGS1g3a2s0NGR1SjRyWXlvRVNZUnZXaUNzMFNtMVBFTVFKRFE4aXpUNTlqMVB0MkNhVGJEa0pjbWI2aWRJZF9PM1E2MVdjQ3h5dy1XOHptb2g5T1NyMknSAZgBQVVfeXFMTTczRHZhTDlQcGhkWWJmYUdKNW9UX2dCVGNKVTFUWE80anByZ2RQdkdVdEJPeTcwMy03eUw5WFExUFd4QnJDTHZrT1cyaDQyZnRudHExdzdRSGxDZ1FILWJLZVdlZGl1ZjhKZVFDcGxQcmhtUzl5UEVtMUdGQm9ZN3o3X1psTHNZdTdVQ09zZFNqMlZvbFphR1I?oc=5)
-
-2026-05-30 <span class="news-drug-tag">Pantoprazole</span> <span class="news-indication-tag">AF</span>
-
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlVaOGk3aU9uRHdsc29xbENyaTRIOVF2MW1LZldnM0VrTlJWZTVzOTAyQlRDV0dla2pHZklGS1g3a2s0NGR1SjRyWXlvRVNZUnZXaUNzMFNtMVBFTVFKRFE4aXpUNTlqMVB0MkNhVGJEa0pjbWI2aWRJZF9PM1E2MVdjQ3h5dy1XOHptb2g5T1NyMknSAZgBQVVfeXFMTTczRHZhTDlQcGhkWWJmYUdKNW9UX2dCVGNKVTFUWE80anByZ2RQdkdVdEJPeTcwMy03eUw5WFExUFd4QnJDTHZrT1cyaDQyZnRudHExdzdRSGxDZ1FILWJLZVdlZGl1ZjhKZVFDcGxQcmhtUzl5UEVtMUdGQm9ZN3o3X1psTHNZdTdVQ09zZFNqMlZvbFphR1I?oc=5)
 
 ---
 
@@ -179,22 +227,6 @@ permalink: /news/prilocaine/
 2026-05-29 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
 來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMickFVX3lxTE1nSWtNTHZQejZtME9IZFdkX0c1aEhXNFdRS2RYeXBnajhidnczRS1fdG5pdnAtZWlMTGR1V0JVZ3ozenhIYkpvckFkNS1UaWNvZlhKQ1hjSHAxUWY0SDBDWS1FSENCZmFoVnlPU3d3cGx4QQ?oc=5)
-
----
-
-### [Chikungunya, el virus tropical que ya afecta a miles de personas y ha dejado al menos 9 muertos - Diario de Avisos](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnJvN0FDbU5DWGZJNTU2VUYtb3dQbld3aGMyNlE1ck5fMjhtTzVDckJheXZJUUhEdG91bmJBLUoxU0lYam1odmE4eURESDBVTnhWdWRhdVYzNUFSYWlmWEtYZzFPTTJkRHJrYWdQR2x4d2RlVGxCb1ZnOHAxZ0pFLUJlcVhqV2Rwc1Bz?oc=5)
-
-2026-05-29 <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Avisos](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnJvN0FDbU5DWGZJNTU2VUYtb3dQbld3aGMyNlE1ck5fMjhtTzVDckJheXZJUUhEdG91bmJBLUoxU0lYam1odmE4eURESDBVTnhWdWRhdVYzNUFSYWlmWEtYZzFPTTJkRHJrYWdQR2x4d2RlVGxCb1ZnOHAxZ0pFLUJlcVhqV2Rwc1Bz?oc=5)
-
----
-
-### [Why the Congo Ebola outbreak has no quick fix](https://news.google.com/rss/articles/CBMia0FVX3lxTE93NkJoeXRzZG56R2lVbUU0U25BM19QcUYxMG5fVGZKWGRGX0tqcFM4Q2ZiQnZEQTM0UHdESFRGWHZ5ZkVXdi1aZXJKQ3ptb1lwUnZSSGV6bXpmQmJfTGtEeFdyQnhpSW1mWkFn?oc=5)
-
-2026-05-29 <span class="news-indication-tag">AF</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE93NkJoeXRzZG56R2lVbUU0U25BM19QcUYxMG5fVGZKWGRGX0tqcFM4Q2ZiQnZEQTM0UHdESFRGWHZ5ZkVXdi1aZXJKQ3ptb1lwUnZSSGV6bXpmQmJfTGtEeFdyQnhpSW1mWkFn?oc=5)
 
 ---
 
