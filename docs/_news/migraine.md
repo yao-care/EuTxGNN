@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Migräne（migraine） 相關新聞"
+title: "migraine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "migraine 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# Migräne（migraine） 相關新聞
+# migraine 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraine 有什麼相關新聞？">
+<strong>migraine</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraine」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -79,11 +79,11 @@ permalink: /news/migraine/
 
 ## 相關新聞（1 則）
 
-### [Rhinitis ist signifikant mit Migräne verbunden](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
+### [Brain freeze? Ice cream headaches can reveal a surprising amount about your health](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
-2026-06-01
+2026-05-30
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
 ---
 

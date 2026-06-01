@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Rhinitis ist signifikant mit Migräne verbunden](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
+### [Expertos coinciden en abordar la obesidad desde una perspectiva "crónica, compleja y multifactorial"](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdzV1cjRzSUEzd3lEUkZoWjhrdlZCTU95Q0N1Z0NZNDRIa2QwS05wVlZuczQzZlhxWHZHWDNvNU9nd3A4NzhCQUpjRWhmNGswaTNUcWt3aDVLWm1CSDBKSnN4VlNjbnVvWENuMFNhbnVYTlVfZ2VHQWtsaG1YdGhNUkdZZUtVcjFjUkZWaGF1WVJULTBXSGRXMDM1bUxqRF9hMW5oQWNub2ZxVm9KaXNtZkdzRkc4U2l6MFpYbWxTNnNPT01Mb0NiWWlSTGRaN3dtcDZ0dGk3OA?oc=5)
 
-2026-06-01 <span class="news-indication-tag">Migräne</span>
+2026-06-01 <span class="news-indication-tag">obesidad</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
-
----
-
-### [Estudios realizados por Novo Nordisk indican que semaglutida reduce peso y riesgo cardiovascular en mujeres con obesidad durante la menopausia](https://news.google.com/rss/articles/CBMigAJBVV95cUxNakNCR1NraEJydXlKc3hBM3V2cGNadUxmc0Y5QjRsT3UwLV9XM1o5VU51Sm5TbEtRUmpna0JkUU9va1VZVl82TW1fdXBINTdrcjJWV2wzRk5hUXVMYVBJOFgwal9aZV83d1dFZGEyZ25WeEtFUV9lSWJGLU8tWnhhZnN3bFZUMEtKTHpvSmdERk5QdzJRUXlnNFRTZGNZZHdUZlZhWldCWk9qN0laR3ZlZFVNNV9HTWQxM0ZXZ2lMTklFU0oxQXp2VG9YV0RIVzUwY0tSMk1zZGJ2ckVoa3VqcXBWYzZ5V2J6NkY2cjRaMjZnWUJtZTluV2tOR1FVMDlT?oc=5)
-
-2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMigAJBVV95cUxNakNCR1NraEJydXlKc3hBM3V2cGNadUxmc0Y5QjRsT3UwLV9XM1o5VU51Sm5TbEtRUmpna0JkUU9va1VZVl82TW1fdXBINTdrcjJWV2wzRk5hUXVMYVBJOFgwal9aZV83d1dFZGEyZ25WeEtFUV9lSWJGLU8tWnhhZnN3bFZUMEtKTHpvSmdERk5QdzJRUXlnNFRTZGNZZHdUZlZhWldCWk9qN0laR3ZlZFVNNV9HTWQxM0ZXZ2lMTklFU0oxQXp2VG9YV0RIVzUwY0tSMk1zZGJ2ckVoa3VqcXBWYzZ5V2J6NkY2cjRaMjZnWUJtZTluV2tOR1FVMDlT?oc=5)
-
----
-
-### [Expertos destacan la relevancia de la farmacia comunitaria en el abordaje integral de la obesidad](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
-
-2026-05-31 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdzV1cjRzSUEzd3lEUkZoWjhrdlZCTU95Q0N1Z0NZNDRIa2QwS05wVlZuczQzZlhxWHZHWDNvNU9nd3A4NzhCQUpjRWhmNGswaTNUcWt3aDVLWm1CSDBKSnN4VlNjbnVvWENuMFNhbnVYTlVfZ2VHQWtsaG1YdGhNUkdZZUtVcjFjUkZWaGF1WVJULTBXSGRXMDM1bUxqRF9hMW5oQWNub2ZxVm9KaXNtZkdzRkc4U2l6MFpYbWxTNnNPT01Mb0NiWWlSTGRaN3dtcDZ0dGk3OA?oc=5)
 
 ---
 
@@ -94,11 +78,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Los países ricos controlan sus niveles de obesidad pero en los pobre sigue disparada](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
+### [Brain freeze? Ice cream headaches can reveal a surprising amount about your health](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
-2026-05-30 <span class="news-indication-tag">obesidad</span>
+2026-05-30 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
 ---
 

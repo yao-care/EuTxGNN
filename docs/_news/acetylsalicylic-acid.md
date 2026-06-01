@@ -54,11 +54,11 @@ permalink: /news/acetylsalicylic-acid/
 
 ## 相關新聞（1 則）
 
-### [Rhinitis ist signifikant mit Migräne verbunden](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
+### [Brain freeze? Ice cream headaches can reveal a surprising amount about your health](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
-2026-06-01 <span class="news-indication-tag">Migräne</span>
+2026-05-30 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
 ---
 

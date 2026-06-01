@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
 
-### [Diabetes-Therapie: GLP-1-Medikamente senken Demenzrisiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3RKQWxoY2VXRFg1WURZSFY1TVlKOVpZWHdqX29tVldZU2d2R1ZKLUlVSWlZSGdiMmEzaXZqTjN5Z2NYN0xWbTAzLVFHWHNJRGR1UmhGUFdQdkJCd0lzSW96YTlKdVJYWTQ5Zl9haHRnaUJyX0hqN2ljRnEtU0p5eXNNSWVnWHNZZDVXb2hxaXVFSC1YUDFGSkFjcWJUZzhocjkyUVEyWmstWWMwdDlJNkxxTDczU1BPT2c?oc=5)
+### [Los cuerpos Ozempic que acaban en el quirófano - La Vanguardia](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEpOSmtGRURYY0pzMk5kc0RBMms3SVc0ajlHUm5pcHFDX0daVldtazVURjFTZDgwdkJJVXptaDhoNGJVR0RmZGZCMWpkdFFIMzkyMzY2RU5HQ1JiaktSbWJ0eDlvUFZndUdFb0lES1RBR3RoOUVjeUZuVE1PU1RJRF9fOGplTktSQ1Y2b1pJeW1sME3SAZgBQVVfeXFMTUdLTkJYb0FZMHlrbjdkS0poZkVhYmJUcXo5TTl2SXdrTGJObHk4NFhmOWxjTmZubG9SejhuYjZ2UjQxNmdhdzd1ZE9paTdoNkUzRW9VVEJsTUhvVWJmdjZSVzh4cnQwcG9WSmlmSFl0b0Q2TTFjVXYxMjRTRGxBVnMzZW5hQ3hPMjVEcEpNSkppZVFDTHNfMmw?oc=5)
 
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-01 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3RKQWxoY2VXRFg1WURZSFY1TVlKOVpZWHdqX29tVldZU2d2R1ZKLUlVSWlZSGdiMmEzaXZqTjN5Z2NYN0xWbTAzLVFHWHNJRGR1UmhGUFdQdkJCd0lzSW96YTlKdVJYWTQ5Zl9haHRnaUJyX0hqN2ljRnEtU0p5eXNNSWVnWHNZZDVXb2hxaXVFSC1YUDFGSkFjcWJUZzhocjkyUVEyWmstWWMwdDlJNkxxTDczU1BPT2c?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEpOSmtGRURYY0pzMk5kc0RBMms3SVc0ajlHUm5pcHFDX0daVldtazVURjFTZDgwdkJJVXptaDhoNGJVR0RmZGZCMWpkdFFIMzkyMzY2RU5HQ1JiaktSbWJ0eDlvUFZndUdFb0lES1RBR3RoOUVjeUZuVE1PU1RJRF9fOGplTktSQ1Y2b1pJeW1sME3SAZgBQVVfeXFMTUdLTkJYb0FZMHlrbjdkS0poZkVhYmJUcXo5TTl2SXdrTGJObHk4NFhmOWxjTmZubG9SejhuYjZ2UjQxNmdhdzd1ZE9paTdoNkUzRW9VVEJsTUhvVWJmdjZSVzh4cnQwcG9WSmlmSFl0b0Q2TTFjVXYxMjRTRGxBVnMzZW5hQ3hPMjVEcEpNSkppZVFDTHNfMmw?oc=5)
 
 ---
 
-### [Estudios realizados por Novo Nordisk indican que semaglutida reduce peso y riesgo cardiovascular en mujeres con obesidad durante la menopausia](https://news.google.com/rss/articles/CBMigAJBVV95cUxNakNCR1NraEJydXlKc3hBM3V2cGNadUxmc0Y5QjRsT3UwLV9XM1o5VU51Sm5TbEtRUmpna0JkUU9va1VZVl82TW1fdXBINTdrcjJWV2wzRk5hUXVMYVBJOFgwal9aZV83d1dFZGEyZ25WeEtFUV9lSWJGLU8tWnhhZnN3bFZUMEtKTHpvSmdERk5QdzJRUXlnNFRTZGNZZHdUZlZhWldCWk9qN0laR3ZlZFVNNV9HTWQxM0ZXZ2lMTklFU0oxQXp2VG9YV0RIVzUwY0tSMk1zZGJ2ckVoa3VqcXBWYzZ5V2J6NkY2cjRaMjZnWUJtZTluV2tOR1FVMDlT?oc=5)
+### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
-2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-06-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMigAJBVV95cUxNakNCR1NraEJydXlKc3hBM3V2cGNadUxmc0Y5QjRsT3UwLV9XM1o5VU51Sm5TbEtRUmpna0JkUU9va1VZVl82TW1fdXBINTdrcjJWV2wzRk5hUXVMYVBJOFgwal9aZV83d1dFZGEyZ25WeEtFUV9lSWJGLU8tWnhhZnN3bFZUMEtKTHpvSmdERk5QdzJRUXlnNFRTZGNZZHdUZlZhWldCWk9qN0laR3ZlZFVNNV9HTWQxM0ZXZ2lMTklFU0oxQXp2VG9YV0RIVzUwY0tSMk1zZGJ2ckVoa3VqcXBWYzZ5V2J6NkY2cjRaMjZnWUJtZTluV2tOR1FVMDlT?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
+
+---
+
+### [Diabetes: Zwei Stunden Gehen pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
+
+2026-06-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
+
+---
+
+### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
+
+2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
+
+---
+
+### [Un minuto di allenamento può bastare? L'esercizio snack combatte il diabete, lo studio](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
+
+2026-05-31 <span class="news-indication-tag">diabete</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
 
 ---
 
@@ -102,11 +126,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Fármacos para adelgazar: por qué el peso regresa al dejar el tratamiento - La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJZMy01RlNSQm8zZkNqVWktQy04UFM4eUkxU19uWXJ3QmoxMVpHMU9kaTNDRWc1Z3pQZW1oZjNrOHVMVExnWUlLT3lCeU9yMmp1VXllYnI1V1JWbGJTYjlHOUZ1SEcxV1NhbzBaUHk1VUI0QWxJa0JsblNHODBicG9qd1p1YkIxTFQ3Ym5YNVlaX0c2M3lnbWE5dmNSNFlFMkNZTDdXamh1bk81bC1DbFB30gG3AUFVX3lxTE40dmprcndCbEozR2FyWHlZa2NLWVV5LXRnTmJSVnVOYWQ0NXZlMXRiSUM4S29fM01PQmYtV3FmNTZMXzk1b2E3eWpoZ3lpaVp5TGtoTVY4c1k5NVNrQzhjYS1pckM0d3RHSE9XNXNaODZDLTdtNlhRN1NtbGlIc3FVa2ZQZmd5UUZkZWlwOFB1Qk1qZGZYMlhUYmFnWkZudE9HeW5CZjJDQVlaVG9NbDAySU93aTItaw?oc=5)
+### [¿Se recupera el peso al dejar Ozempic? Un gran estudio cuestiona el temido «efecto rebote»](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1YxU0hORDRGQUlTUDdsT05EZnBiVGszcldFRTRhdXRuU1BoTUFtbHg3VXUyMjBfa0xNenlJSFpVaDlQMkRKcFVyU3d1M3J2djRGa29NV2tDdE9SRHVRc3ozY1JFTElPb0lBVmdHMnRGdnFGcFhXYlV5aWlMRnNfT3AzWUVQS0VJREtMc1NjTjZ4YXlFc1FUdHM2a1pXWEdic2lUcGItaVppZk3SAbABQVVfeXFMUHJOVnhnT2Z0M2hBRmV5RUdCVVE5YlZKRGtQY2JQV2oxTEFjQVRGQ2RFTEU2N0pPU29EdFlyN0VJa005UkM1T3VMRnZSNEVJbEZDZkNwZWxuS1JYb3R6MElaZjQ5dzVOZEl2R21rYlRrMy14QlZFSDRNN1ZERE9OaTBvbl81M0tWcXhNTGVjV05wZDRxa2FWLXFRVGljcENkX1FaU0xydl9CN0NGLTVaeXQ?oc=5)
 
-2026-05-30 <span class="news-drug-tag">Semaglutide</span>
+2026-05-31 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJZMy01RlNSQm8zZkNqVWktQy04UFM4eUkxU19uWXJ3QmoxMVpHMU9kaTNDRWc1Z3pQZW1oZjNrOHVMVExnWUlLT3lCeU9yMmp1VXllYnI1V1JWbGJTYjlHOUZ1SEcxV1NhbzBaUHk1VUI0QWxJa0JsblNHODBicG9qd1p1YkIxTFQ3Ym5YNVlaX0c2M3lnbWE5dmNSNFlFMkNZTDdXamh1bk81bC1DbFB30gG3AUFVX3lxTE40dmprcndCbEozR2FyWHlZa2NLWVV5LXRnTmJSVnVOYWQ0NXZlMXRiSUM4S29fM01PQmYtV3FmNTZMXzk1b2E3eWpoZ3lpaVp5TGtoTVY4c1k5NVNrQzhjYS1pckM0d3RHSE9XNXNaODZDLTdtNlhRN1NtbGlIc3FVa2ZQZmd5UUZkZWlwOFB1Qk1qZGZYMlhUYmFnWkZudE9HeW5CZjJDQVlaVG9NbDAySU93aTItaw?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1YxU0hORDRGQUlTUDdsT05EZnBiVGszcldFRTRhdXRuU1BoTUFtbHg3VXUyMjBfa0xNenlJSFpVaDlQMkRKcFVyU3d1M3J2djRGa29NV2tDdE9SRHVRc3ozY1JFTElPb0lBVmdHMnRGdnFGcFhXYlV5aWlMRnNfT3AzWUVQS0VJREtMc1NjTjZ4YXlFc1FUdHM2a1pXWEdic2lUcGItaVppZk3SAbABQVVfeXFMUHJOVnhnT2Z0M2hBRmV5RUdCVVE5YlZKRGtQY2JQV2oxTEFjQVRGQ2RFTEU2N0pPU29EdFlyN0VJa005UkM1T3VMRnZSNEVJbEZDZkNwZWxuS1JYb3R6MElaZjQ5dzVOZEl2R21rYlRrMy14QlZFSDRNN1ZERE9OaTBvbl81M0tWcXhNTGVjV05wZDRxa2FWLXFRVGljcENkX1FaU0xydl9CN0NGLTVaeXQ?oc=5)
 
 ---
 

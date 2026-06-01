@@ -14,7 +14,7 @@ permalink: /news/sacituzumab-govitecan/
 ---
 
 <p class="key-answer" data-question="Sacituzumab Govitecan 有什麼相關新聞？">
-<strong>Sacituzumab Govitecan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacituzumab Govitecan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/sacituzumab-govitecan/
 <p><a href="{{ '/drugs/sacituzumab-govitecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
 
-### [Diabetes-Therapie: GLP-1-Medikamente senken Demenzrisiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3RKQWxoY2VXRFg1WURZSFY1TVlKOVpZWHdqX29tVldZU2d2R1ZKLUlVSWlZSGdiMmEzaXZqTjN5Z2NYN0xWbTAzLVFHWHNJRGR1UmhGUFdQdkJCd0lzSW96YTlKdVJYWTQ5Zl9haHRnaUJyX0hqN2ljRnEtU0p5eXNNSWVnWHNZZDVXb2hxaXVFSC1YUDFGSkFjcWJUZzhocjkyUVEyWmstWWMwdDlJNkxxTDczU1BPT2c?oc=5)
+### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
+
+2026-06-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
+
+---
+
+### [Diabetes: Zwei Stunden Gehen pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
+
+2026-06-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
+
+---
+
+### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
 
 2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3RKQWxoY2VXRFg1WURZSFY1TVlKOVpZWHdqX29tVldZU2d2R1ZKLUlVSWlZSGdiMmEzaXZqTjN5Z2NYN0xWbTAzLVFHWHNJRGR1UmhGUFdQdkJCd0lzSW96YTlKdVJYWTQ5Zl9haHRnaUJyX0hqN2ljRnEtU0p5eXNNSWVnWHNZZDVXb2hxaXVFSC1YUDFGSkFjcWJUZzhocjkyUVEyWmstWWMwdDlJNkxxTDczU1BPT2c?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
+
+---
+
+### [Un minuto di allenamento può bastare? L'esercizio snack combatte il diabete, lo studio](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
+
+2026-05-31 <span class="news-indication-tag">diabete</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
 
 ---
 

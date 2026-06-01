@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="Alpelisib 有什麼相關新聞？">
-<strong>Alpelisib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alpelisib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,21 @@ permalink: /news/alpelisib/
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Rhinitis ist signifikant mit Migräne verbunden](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
+### [Bluthochdruck: Kombinationstherapie hilft 66% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
 
-2026-06-01 <span class="news-indication-tag">Migräne</span>
+2026-06-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
-
----
-
-### [Schlaganfall-Rückfall: 80 Prozent der Fälle sind vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
-
-2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
 
 ---
 
-### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
+### [Brain freeze? Ice cream headaches can reveal a surprising amount about your health](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
-2026-05-31 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+2026-05-30 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
-
----
-
-### [The 8 Best Canned Foods for High Blood Pressure, Recommended by Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
-
-2026-05-30 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
 ---
 

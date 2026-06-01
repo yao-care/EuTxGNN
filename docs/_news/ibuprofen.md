@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Aurelio Rojas, cardiólogo, alerta sobre los peligros del ibuprofeno: "Uno de los peores fármacos para el corazón"](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXzEya2x2LUVYb3EtMm1YWmljekpDRlFlWHl4R0ZVNnRRdm1wT2hnLWdEbzRTUjZDTE01MDREU2dPVXZPbS02UFpKajB4c2wwSExWaUFCVnl4bUNyTGROajBhd0xaQzVHTXhYbmRZRnRXckZFN2tDMDhCeHk4NDBreC1KdGVXZVliQ2ZweFFXQU9pcWJja0VXUm1KOUJ6QTUtNFZhQ0pMYjROU2xpUlRJWnJkNGctaDU3Z2dwdnFkMzAyS0hFdjNaN1J0OXJTUXY20gHQAUFVX3lxTE4tOUo2eUloUzIycWVjQnhncG1hY2w4RFB0QzRFQV9MOWphN0hlbDdBTGhibHF5YVJXUFZZMzFGV01pT0F6SXdhMjVhY1ZKRXE0WHRiSHJvUnhNLVlsZ0hPMTNSaXhzTlhRdFpjeEtmeGk4OGhjbF9MODhGMTFBbzJRbXJkYzdjLXVrVHo3OE5OX080cXB0bTFlTy0taWVEcUlIdEpkSjhLbDM2WG1YTE1BNS1DNVNPODRWazJab0l5d0dXQzdXbHJjTUZqQjQ4MjE?oc=5)
+
+2026-06-01 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[MARCA](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXzEya2x2LUVYb3EtMm1YWmljekpDRlFlWHl4R0ZVNnRRdm1wT2hnLWdEbzRTUjZDTE01MDREU2dPVXZPbS02UFpKajB4c2wwSExWaUFCVnl4bUNyTGROajBhd0xaQzVHTXhYbmRZRnRXckZFN2tDMDhCeHk4NDBreC1KdGVXZVliQ2ZweFFXQU9pcWJja0VXUm1KOUJ6QTUtNFZhQ0pMYjROU2xpUlRJWnJkNGctaDU3Z2dwdnFkMzAyS0hFdjNaN1J0OXJTUXY20gHQAUFVX3lxTE4tOUo2eUloUzIycWVjQnhncG1hY2w4RFB0QzRFQV9MOWphN0hlbDdBTGhibHF5YVJXUFZZMzFGV01pT0F6SXdhMjVhY1ZKRXE0WHRiSHJvUnhNLVlsZ0hPMTNSaXhzTlhRdFpjeEtmeGk4OGhjbF9MODhGMTFBbzJRbXJkYzdjLXVrVHo3OE5OX080cXB0bTFlTy0taWVEcUlIdEpkSjhLbDM2WG1YTE1BNS1DNVNPODRWazJab0l5d0dXQzdXbHJjTUZqQjQ4MjE?oc=5)
+
+---
 
 
 <div class="disclaimer">

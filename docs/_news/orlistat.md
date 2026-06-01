@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Estudios realizados por Novo Nordisk indican que semaglutida reduce peso y riesgo cardiovascular en mujeres con obesidad durante la menopausia](https://news.google.com/rss/articles/CBMigAJBVV95cUxNakNCR1NraEJydXlKc3hBM3V2cGNadUxmc0Y5QjRsT3UwLV9XM1o5VU51Sm5TbEtRUmpna0JkUU9va1VZVl82TW1fdXBINTdrcjJWV2wzRk5hUXVMYVBJOFgwal9aZV83d1dFZGEyZ25WeEtFUV9lSWJGLU8tWnhhZnN3bFZUMEtKTHpvSmdERk5QdzJRUXlnNFRTZGNZZHdUZlZhWldCWk9qN0laR3ZlZFVNNV9HTWQxM0ZXZ2lMTklFU0oxQXp2VG9YV0RIVzUwY0tSMk1zZGJ2ckVoa3VqcXBWYzZ5V2J6NkY2cjRaMjZnWUJtZTluV2tOR1FVMDlT?oc=5)
+### [Herzinfarkt-Prävention: 99 Prozent aller Fälle durch Risikofaktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
-2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-06-01 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMigAJBVV95cUxNakNCR1NraEJydXlKc3hBM3V2cGNadUxmc0Y5QjRsT3UwLV9XM1o5VU51Sm5TbEtRUmpna0JkUU9va1VZVl82TW1fdXBINTdrcjJWV2wzRk5hUXVMYVBJOFgwal9aZV83d1dFZGEyZ25WeEtFUV9lSWJGLU8tWnhhZnN3bFZUMEtKTHpvSmdERk5QdzJRUXlnNFRTZGNZZHdUZlZhWldCWk9qN0laR3ZlZFVNNV9HTWQxM0ZXZ2lMTklFU0oxQXp2VG9YV0RIVzUwY0tSMk1zZGJ2ckVoa3VqcXBWYzZ5V2J6NkY2cjRaMjZnWUJtZTluV2tOR1FVMDlT?oc=5)
-
----
-
-### [Schlaganfall-Rückfall: 80 Prozent der Fälle sind vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
-
-2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
 ---
 
-### [Expertos destacan la relevancia de la farmacia comunitaria en el abordaje integral de la obesidad](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
+### [Expertos coinciden en abordar la obesidad desde una perspectiva "crónica, compleja y multifactorial"](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdzV1cjRzSUEzd3lEUkZoWjhrdlZCTU95Q0N1Z0NZNDRIa2QwS05wVlZuczQzZlhxWHZHWDNvNU9nd3A4NzhCQUpjRWhmNGswaTNUcWt3aDVLWm1CSDBKSnN4VlNjbnVvWENuMFNhbnVYTlVfZ2VHQWtsaG1YdGhNUkdZZUtVcjFjUkZWaGF1WVJULTBXSGRXMDM1bUxqRF9hMW5oQWNub2ZxVm9KaXNtZkdzRkc4U2l6MFpYbWxTNnNPT01Mb0NiWWlSTGRaN3dtcDZ0dGk3OA?oc=5)
 
-2026-05-31 <span class="news-indication-tag">obesidad</span>
+2026-06-01 <span class="news-indication-tag">obesidad</span>
 
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdzV1cjRzSUEzd3lEUkZoWjhrdlZCTU95Q0N1Z0NZNDRIa2QwS05wVlZuczQzZlhxWHZHWDNvNU9nd3A4NzhCQUpjRWhmNGswaTNUcWt3aDVLWm1CSDBKSnN4VlNjbnVvWENuMFNhbnVYTlVfZ2VHQWtsaG1YdGhNUkdZZUtVcjFjUkZWaGF1WVJULTBXSGRXMDM1bUxqRF9hMW5oQWNub2ZxVm9KaXNtZkdzRkc4U2l6MFpYbWxTNnNPT01Mb0NiWWlSTGRaN3dtcDZ0dGk3OA?oc=5)
 
 ---
 
-### [Herz-Kreislauf-Erkrankungen: Lebensstil schlägt Genetik um Faktor 2,7 - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmY2UTBxTkNBWDZZRTNCZTFtWHJCc0tLbnFwRlN4N2ViRTFfSHREOXlRd3h4X0hKVVA2TDNFcE81S3VMZTlZa2loenZJLVloX0dvRFRIcENFQW0tYTAyOFZvTHBKbG9Lb1VtQWdNRzJ0Q21zNkRDaTNlN2Q5Qkhyd05WMzRQekk4OU80UnBwV2FlOUFLY3JxWm9nYUhsM3c4aUhhZkpEZzBTYnJtUkp5VFBQVnU3cmdPcnc?oc=5)
+### [Bluthochdruck: Kombinationstherapie hilft 66% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
 
-2026-05-31 <span class="news-indication-tag">Schlaganfall</span>
+2026-06-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmY2UTBxTkNBWDZZRTNCZTFtWHJCc0tLbnFwRlN4N2ViRTFfSHREOXlRd3h4X0hKVVA2TDNFcE81S3VMZTlZa2loenZJLVloX0dvRFRIcENFQW0tYTAyOFZvTHBKbG9Lb1VtQWdNRzJ0Q21zNkRDaTNlN2Q5Qkhyd05WMzRQekk4OU80UnBwV2FlOUFLY3JxWm9nYUhsM3c4aUhhZkpEZzBTYnJtUkp5VFBQVnU3cmdPcnc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
 
 ---
 
@@ -107,14 +99,6 @@ permalink: /news/orlistat/
 2026-05-30 <span class="news-indication-tag">obesità</span>
 
 來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMingJBVV95cUxQOFNMZFhKNE9DMFR1RDQwNFIwRWl4bmMxY1MwbXJaSHdwa3daSWtSeHVJazdFeFBROE5TbVhSc1E2NDlQbWxZcmZ0Z00yeWxPN3U3SVh4TzJ2S0E5SXl6YzNtV3VXbnJSaUdLMlRvT01aN0pxU3JYdU1BZ0dVdjU2T3gwSGpROXh4dmRhMTVSQ3djSHM0bUcyRUNRam53VzR0YmVzQlUzSjRmVHVDQkZNZGxUZXYtUWlPZUQya1VGdWhlWGV5SVdEUzJHRXR5dUl1R0dNU21PZEVIRFJLTExPREJZRVB3aFR3aVh5MDU4YXJjMGduSmplRUxRWW1GU1Y2Mk0xLTV0UXhhRFQtcC1LMmJ5N1luZ3o2VXJoTUZR?oc=5)
-
----
-
-### [Los países ricos controlan sus niveles de obesidad pero en los pobre sigue disparada](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
-
-2026-05-30 <span class="news-indication-tag">obesidad</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
 
 ---
 

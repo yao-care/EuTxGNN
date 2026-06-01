@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Schlaganfall-Rückfall: 80 Prozent der Fälle sind vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
+### [Herzinfarkt-Prävention: 99 Prozent aller Fälle durch Risikofaktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
-2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-06-01 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
 ---
 
-### [Herz-Kreislauf-Erkrankungen: Lebensstil schlägt Genetik um Faktor 2,7 - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmY2UTBxTkNBWDZZRTNCZTFtWHJCc0tLbnFwRlN4N2ViRTFfSHREOXlRd3h4X0hKVVA2TDNFcE81S3VMZTlZa2loenZJLVloX0dvRFRIcENFQW0tYTAyOFZvTHBKbG9Lb1VtQWdNRzJ0Q21zNkRDaTNlN2Q5Qkhyd05WMzRQekk4OU80UnBwV2FlOUFLY3JxWm9nYUhsM3c4aUhhZkpEZzBTYnJtUkp5VFBQVnU3cmdPcnc?oc=5)
+### [Bluthochdruck: Kombinationstherapie hilft 66% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
 
-2026-05-31 <span class="news-indication-tag">Schlaganfall</span>
+2026-06-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmY2UTBxTkNBWDZZRTNCZTFtWHJCc0tLbnFwRlN4N2ViRTFfSHREOXlRd3h4X0hKVVA2TDNFcE81S3VMZTlZa2loenZJLVloX0dvRFRIcENFQW0tYTAyOFZvTHBKbG9Lb1VtQWdNRzJ0Q21zNkRDaTNlN2Q5Qkhyd05WMzRQekk4OU80UnBwV2FlOUFLY3JxWm9nYUhsM3c4aUhhZkpEZzBTYnJtUkp5VFBQVnU3cmdPcnc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
 
 ---
 
@@ -75,22 +75,6 @@ permalink: /news/telmisartan/
 2026-05-31 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitAJBVV95cUxNeG1UaVFvanBsZng0TF9hTXcydGltSkJra1ByOHZEb0JsODJ3akZBTUFEYW9aWGNkYWRkbEh2N1ExZ1l1dDcwRk1NOFBNZ1E4RkFlYTZ6SmZ4SF9tUzR0d2NINi1SZWFhb1U4UU02b1RNUXkwUHJiMXVucEFDbG00dk5HREZRbU9ydzhPa1dZemVyZUc2YnJtQUp1NUI4TWlQY2laeWkzYkEwanBCdXkwWllYeXpBbE1YWUJ1S2ZuMVNpYTVPZWNfT2dXOE5DdExVY1BMdElhUU1JazI2MDNJM3Zrbkl1VGJOd0ExWGo4UkctaTlNaDk5MG5Td1BmeEptNTQ3bEozekplT1BpbEg3Q0ZlYnRveGJxWXAtMzQ3eTZLMHhOZHdydlpvS2tUaGFqUWVHdtIBugJBVV95cUxQLWs1ZmhELU84MUp6UzhKZU81eTRNRlFnNzMyZHJaZDdUT05wcVYybWgwZXhWQTg5ckNSTXR6blp6MTVpTzBpQm90RzA3ZnczQnJzTjRsR1pSTG5Uc0RIQXpBRVdPcURZMUNIaWFzOXFtSGh6eFpMYlBPZ2NNaWVnZVpMWnhMeTMxM2p6Z3NRUnphM3R0NTJGTDY2M01XWWlSVUpWRmE3ZGZSSlpBNlpHWF9zWVJnakJPazBpalk0a0F1WWhVUzctczh4LXVrVVJiVDR2alZzZXNiVDRTVzI0Y0NIVW9Gd2I5TlAxM3dJVWN3T21qZjJWOVp3TGYyeC04LUZXRS1rcHlpaG1WUmVEOUVXa005M0dEdDN2elpKSjF1bm85SEZCcDV6d3NzQ3BIYS12T3dCeEdjQQ?oc=5)
-
----
-
-### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
-
-2026-05-31 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
-
----
-
-### [The 8 Best Canned Foods for High Blood Pressure, Recommended by Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
-
-2026-05-30 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
 
 ---
 
