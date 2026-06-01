@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Netupitant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [Bluthochdruck: Kombinationstherapie hilft 66% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
+### [Herzinfarkt-Prävention: 99 Prozent aller Fälle durch Risikofaktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
-2026-06-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
 ---
 
-### [Brain freeze? Ice cream headaches can reveal a surprising amount about your health](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
+### [Why Do Humans Snore? An Evolutionary Biologist Explains What’s Happening To Your Airway](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
 
-2026-05-30 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-05-31 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
+來源：[Forbes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
+
+---
+
+### [Bluthochdruck: Niedrig dosierte Kombinationen erreichen 66% Erfolg - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFpmNlBCYjFTSWs2WV9UUFBQV2JqMEoySDUxYVU5OWdLcV9BVEdna0pCZWhsa1BOalJkX0U2RGZfRzd1ampLLW4zY3JZSHBGaDhyYUhmS0s1V1ktX1htVGE3NGJHMUJpWURMV3g0MW05Vlk4WnJ1OUdIQmljVEZLbm9uS3gtdUZCX3hoeE85SzVrUERFVVZseUtvMW94ZEVCMEdIN2ZfVHlZZ2k3MEVUUWRYRGpfc05hMVBlaWRn?oc=5)
+
+2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFpmNlBCYjFTSWs2WV9UUFBQV2JqMEoySDUxYVU5OWdLcV9BVEdna0pCZWhsa1BOalJkX0U2RGZfRzd1ampLLW4zY3JZSHBGaDhyYUhmS0s1V1ktX1htVGE3NGJHMUJpWURMV3g0MW05Vlk4WnJ1OUdIQmljVEZLbm9uS3gtdUZCX3hoeE85SzVrUERFVVZseUtvMW94ZEVCMEdIN2ZfVHlZZ2k3MEVUUWRYRGpfc05hMVBlaWRn?oc=5)
+
+---
+
+### [The 8 Best Canned Foods for High Blood Pressure, Recommended by Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
+
+2026-05-30 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
 
 ---
 

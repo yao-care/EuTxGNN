@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Herzinfarkt-Prävention: 99 Prozent aller Fälle durch Risikofaktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
+
+2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
+
+---
 
 ### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
@@ -86,11 +94,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Fegato, è allarme. A rischio chi è obeso e chi ha il diabete 2 - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
+
+2026-05-31 <span class="news-indication-tag">diabete</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
+
+---
+
 ### [Diabetes: Dieser Pflanzenstoff verbessert Darmflora & Glukosestoffwechsel](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnlUUGUxM1FCNWpOdkNpSWlIMHYtaVFEMlRUNVBvNXVEellUQVJQVzA1TGRoYkRKVS1XZTVudGRBWHFiakZJVjdScnJuVi01ZFBleUFpUTkzdUlGbjluSHBrZ1o3MFBBS2dYQ0R4b2hnazVKZEhPVk85MzN6V0k3bFE4UlFESnhJT253ZF80M2dkTzJlbzFkRzFCTzdJRUpabjJIb3ViRDlrbk9uYnV3MTFBTlY4Qm9hYi1vNVZ6dHljODRyS29UY25iWQ?oc=5)
 
 2026-05-31 <span class="news-indication-tag">diabetes</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnlUUGUxM1FCNWpOdkNpSWlIMHYtaVFEMlRUNVBvNXVEellUQVJQVzA1TGRoYkRKVS1XZTVudGRBWHFiakZJVjdScnJuVi01ZFBleUFpUTkzdUlGbjluSHBrZ1o3MFBBS2dYQ0R4b2hnazVKZEhPVk85MzN6V0k3bFE4UlFESnhJT253ZF80M2dkTzJlbzFkRzFCTzdJRUpabjJIb3ViRDlrbk9uYnV3MTFBTlY4Qm9hYi1vNVZ6dHljODRyS29UY25iWQ?oc=5)
+
+---
+
+### [Why Do Humans Snore? An Evolutionary Biologist Explains What’s Happening To Your Airway](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
+
+2026-05-31 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
+
+來源：[Forbes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
 
 ---
 

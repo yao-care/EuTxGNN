@@ -14,7 +14,7 @@ permalink: /news/treosulfan/
 ---
 
 <p class="key-answer" data-question="Treosulfan 有什麼相關新聞？">
-<strong>Treosulfan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treosulfan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/treosulfan/
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
@@ -83,6 +83,14 @@ permalink: /news/treosulfan/
 2026-05-31 <span class="news-indication-tag">diabete</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
+
+---
+
+### [Fegato, è allarme. A rischio chi è obeso e chi ha il diabete 2 - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
+
+2026-05-31 <span class="news-indication-tag">diabete</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
 
 ---
 

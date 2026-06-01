@@ -54,19 +54,19 @@ permalink: /news/varenicline/
 
 ## 相關新聞（2 則）
 
-### [Bluthochdruck: Kombinationstherapie hilft 66% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
+### [Bluthochdruck: Niedrig dosierte Kombinationen erreichen 66% Erfolg - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFpmNlBCYjFTSWs2WV9UUFBQV2JqMEoySDUxYVU5OWdLcV9BVEdna0pCZWhsa1BOalJkX0U2RGZfRzd1ampLLW4zY3JZSHBGaDhyYUhmS0s1V1ktX1htVGE3NGJHMUJpWURMV3g0MW05Vlk4WnJ1OUdIQmljVEZLbm9uS3gtdUZCX3hoeE85SzVrUERFVVZseUtvMW94ZEVCMEdIN2ZfVHlZZ2k3MEVUUWRYRGpfc05hMVBlaWRn?oc=5)
 
-2026-06-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFpmNlBCYjFTSWs2WV9UUFBQV2JqMEoySDUxYVU5OWdLcV9BVEdna0pCZWhsa1BOalJkX0U2RGZfRzd1ampLLW4zY3JZSHBGaDhyYUhmS0s1V1ktX1htVGE3NGJHMUJpWURMV3g0MW05Vlk4WnJ1OUdIQmljVEZLbm9uS3gtdUZCX3hoeE85SzVrUERFVVZseUtvMW94ZEVCMEdIN2ZfVHlZZ2k3MEVUUWRYRGpfc05hMVBlaWRn?oc=5)
 
 ---
 
-### [Brain freeze? Ice cream headaches can reveal a surprising amount about your health](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
+### [The 8 Best Canned Foods for High Blood Pressure, Recommended by Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
 
-2026-05-30 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-05-30 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
 
 ---
 

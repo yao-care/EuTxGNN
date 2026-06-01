@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
+
+### [Así es el plan de Google para combatir varias enfermedades: liberará 32 millones de mosquitos modificados - El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVHVKWFZpby1ER1IxWmZrVUt1RVV5cmlCWUE5TEYtN3dNVVgwdXpTSkZRTkZ2SUhPRDB2bXVVb2U5MkdERkZNdm1kTGFXZ2psdC1fa3RlcC05VUdxcFJFd0NqVDk1Rl9rM1NvckRpOGo3ZXlDbUx1ZURBY1hRZTNmZ2dXSlNmbjkzUFhlRkNvR1V4WU5aVXNDTGpNbDhHcVVDOG01UFdZNHdJbFZGSUFvWkpkTVZkNERXMlpSMTV4VnpaR2xzNVlnN2xoQk5HUzdMaTJIcm1nM0RneEg3Y05V0gHkAUFVX3lxTE5OSUFseFQ2bFpFUUhVT3UyUE94U0lnVjVKM05OR1dTUWZOTG5GM0NETlMzbEV1b1ByYUZPUWZ2RDQyRl9NT2RIRHAza1M5MGFEbk5VaTdwWW5zbHBYalRDQ2RhSVowUDB5UTIxWll6LV8wckVXbngyY2V4QmY1dDBDSExOSGZLNnFqLWVwZ1ZndWJlck9QelRUd0V4cDRadkFCTFpKSF9WN282UTZ4ZlI0OHo1dldnVTZlVzY2VGU1blJpUTREZHdOakJEUnVkTGV5QVAta18wWWE3NFY2REhwbXRDSA?oc=5)
+
+2026-06-01
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVHVKWFZpby1ER1IxWmZrVUt1RVV5cmlCWUE5TEYtN3dNVVgwdXpTSkZRTkZ2SUhPRDB2bXVVb2U5MkdERkZNdm1kTGFXZ2psdC1fa3RlcC05VUdxcFJFd0NqVDk1Rl9rM1NvckRpOGo3ZXlDbUx1ZURBY1hRZTNmZ2dXSlNmbjkzUFhlRkNvR1V4WU5aVXNDTGpNbDhHcVVDOG01UFdZNHdJbFZGSUFvWkpkTVZkNERXMlpSMTV4VnpaR2xzNVlnN2xoQk5HUzdMaTJIcm1nM0RneEg3Y05V0gHkAUFVX3lxTE5OSUFseFQ2bFpFUUhVT3UyUE94U0lnVjVKM05OR1dTUWZOTG5GM0NETlMzbEV1b1ByYUZPUWZ2RDQyRl9NT2RIRHAza1M5MGFEbk5VaTdwWW5zbHBYalRDQ2RhSVowUDB5UTIxWll6LV8wckVXbngyY2V4QmY1dDBDSExOSGZLNnFqLWVwZ1ZndWJlck9QelRUd0V4cDRadkFCTFpKSF9WN282UTZ4ZlI0OHo1dldnVTZlVzY2VGU1blJpUTREZHdOakJEUnVkTGV5QVAta18wWWE3NFY2REhwbXRDSA?oc=5)
+
+---
 
 ### [La huella microbiana del adenoma persiste durante años y mantiene el riesgo de cáncer colorrectal - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2kwNWtVU1gySWFTQ3NDYy1ua1JmQkk4dE1kZ3Z1XzNqbUlyT3JOc0xjUUl5ZjhkWVhObzladXJSZ2dZSUNoZUZHTGx3aUUtaVV6OWNoM2lEaEMzU2ZSSHBNQkJUSkhTNmhxa2NWZmdWc3FPSEZEenF2T0RLaC14ay12Y3JHYTVCYjM0WE9YRnVaOWlNVXNQN2M0ZVhGbzROcGpaT2lnZnZ1TVN5UUMwTzJCMDgwSUxDMlJNdG1aOGx2b21Yd2ozLVB3?oc=5)
 
@@ -64,11 +72,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Schiff nach Hantavirus-Ausbruch desinfiziert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVlsU2I0b3VISjlDV0RPRlBkZEhxMXhISkZCS3FnUC05WkNNT1Z4Q0t2N0d6UjJWeldTaXRuS3FPTUJkY19ac1VkRzZRalpkUk96VEtEVWdmeG5xaU1DR3BHYVk4RVN0WXR1aVJhY0NFc0NFUDY3TmJiV1pKdmdwaFd0clFsUzF2Z3d6UjJlUndtS0lzOEpTY2w2Yk9YRWkwaG9fOFhxTmFCVEZOdDRPZnY4VQ?oc=5)
+### [Polyzystisches Ovarialsyndrom erhält neue Nomenklatur - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZElZZVNCNHV3WTYxc2ZlMDJTekZvU2JkTzB6bTJUWXRyODY1Nm02ZXNndXlmWmRuYzdoMU50NXBXNXBkLWF3OURIcnFwd25Ya3dXMnBucVBkYWdQclN3S05tY2tpNTlxaUZNa3B0SldpVWRWU01Gd3ZHcV80TkZCX1BOTGRwRURZQWJIYjdvTQ?oc=5)
 
 2026-06-01
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVlsU2I0b3VISjlDV0RPRlBkZEhxMXhISkZCS3FnUC05WkNNT1Z4Q0t2N0d6UjJWeldTaXRuS3FPTUJkY19ac1VkRzZRalpkUk96VEtEVWdmeG5xaU1DR3BHYVk4RVN0WXR1aVJhY0NFc0NFUDY3TmJiV1pKdmdwaFd0clFsUzF2Z3d6UjJlUndtS0lzOEpTY2w2Yk9YRWkwaG9fOFhxTmFCVEZOdDRPZnY4VQ?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZElZZVNCNHV3WTYxc2ZlMDJTekZvU2JkTzB6bTJUWXRyODY1Nm02ZXNndXlmWmRuYzdoMU50NXBXNXBkLWF3OURIcnFwd25Ya3dXMnBucVBkYWdQclN3S05tY2tpNTlxaUZNa3B0SldpVWRWU01Gd3ZHcV80TkZCX1BOTGRwRURZQWJIYjdvTQ?oc=5)
 
 ---
 
@@ -96,27 +104,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Novo Nordisk Aktie: PMOS-Definition am 12. Mai](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3lFYW1FU0JIUGE2TmEyT1hQd3lxSzVtaVhTT3F5UUZkdVUxTmVNU0Y2SnpXX1FDaTg0Q05pSEFtRkJlcXhXVlo4QlQ5Tjh5dGZpVVVqSEZSbGpucm5HR1lvMlBTQmJwa2otX0ZPSlBiU1hESmpoN25jRnJRbDdmQ3p0cGJQS3E2?oc=5)
-
-2026-05-31
-
-來源：[kapitalmarktexperten.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3lFYW1FU0JIUGE2TmEyT1hQd3lxSzVtaVhTT3F5UUZkdVUxTmVNU0Y2SnpXX1FDaTg0Q05pSEFtRkJlcXhXVlo4QlQ5Tjh5dGZpVVVqSEZSbGpucm5HR1lvMlBTQmJwa2otX0ZPSlBiU1hESmpoN25jRnJRbDdmQ3p0cGJQS3E2?oc=5)
-
----
-
 ### [Multiple Sklerose: Studie enthüllt Nutzen von Ocrelizumab bei schwerer PPMS](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFN5QWxSN0xweTRlUG5SNGs3Z3QwVHBfTmJGNlVrcTVBR1RWR2p5dXdlNDNaaFBRM1FaTGJ0RHZMMWYyaTlQZlEwbWo5WXFLeEJwU01mbC1ueFhNOF9zM2g5bEhqZVlJR1VoRjBtbDNwRmk4dTlrNHVGSHpYbFJjZWkwenVYcHY5bGNKdkFkOGwzOTgyc0dILUFtWmU5NVNadmt4UUhiaU9LUjhkRlkzcGpEVC1mM2w4Nm5HekV6NHBpeHBaLVR6dWNyQS0?oc=5)
 
 2026-05-31
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFN5QWxSN0xweTRlUG5SNGs3Z3QwVHBfTmJGNlVrcTVBR1RWR2p5dXdlNDNaaFBRM1FaTGJ0RHZMMWYyaTlQZlEwbWo5WXFLeEJwU01mbC1ueFhNOF9zM2g5bEhqZVlJR1VoRjBtbDNwRmk4dTlrNHVGSHpYbFJjZWkwenVYcHY5bGNKdkFkOGwzOTgyc0dILUFtWmU5NVNadmt4UUhiaU9LUjhkRlkzcGpEVC1mM2w4Nm5HekV6NHBpeHBaLVR6dWNyQS0?oc=5)
-
----
-
-### [MS und Ernährung: Pflanzliche Kost senkt Demenzrisiko um 7% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVhrR2l0ZV9sWnBpQjRxN3R6ckRHSjIwVFdxYVpYbmVMZExGZl9YdWdpalMxS29XbEJSbmRlZDlGLVJZNmt2cU5ZekZveFgwemMtcy0yM0IxVkRzdkhWdXIzbDZTZGtPMmQxOG83SnNqTnZkNW1iZXplbGJTQ3pEZmszOHcyeDZuODh0SURzOVJIcE9ScHJHOHJHOTU1SFJ6XzhqY3V2aXlXMk9XOUI4cjFfMEMwZw?oc=5)
-
-2026-05-31
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVhrR2l0ZV9sWnBpQjRxN3R6ckRHSjIwVFdxYVpYbmVMZExGZl9YdWdpalMxS29XbEJSbmRlZDlGLVJZNmt2cU5ZekZveFgwemMtcy0yM0IxVkRzdkhWdXIzbDZTZGtPMmQxOG83SnNqTnZkNW1iZXplbGJTQ3pEZmszOHcyeDZuODh0SURzOVJIcE9ScHJHOHJHOTU1SFJ6XzhqY3V2aXlXMk9XOUI4cjFfMEMwZw?oc=5)
 
 ---
 
@@ -133,22 +125,6 @@ permalink: /news/multiple-sclerosis/
 2026-05-30
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXU3c0V0ZEctSGNnTzhMcXFpT0lGNWpZVnMxdHFKNDVzSkZvS0R2TGxxcDdoUFR2LXlKdjRqQkdJSUlqNzgtNlk3N3U4UzV6NktnRE9WOGt0eU1KOXJ1NmJHNWJyZFNXV3NBYXRtbElIUktuSER4WVFsMnBrTzRrZHFOaDVJemhJeXRPdXhJWjZZNUh3UFBETHBybTU3UE0wc1JNLXhCZDhvNjcwckxTOU5oOVNxNzdIY1Fn?oc=5)
-
----
-
-### [TEMOIGNAGE. Journée mondiale de la Sclérose en Plaques : "Ça a commencé avec une béquille, deux béquilles, un déambulateur... " - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa1F6N1UxWEQ3OVhhMXc4M2dtUW9aV1BhNlBmYnlhU0oyX2tfX1ZBZ05CR1VXMmVfRGVuMnVjUGUxSzlQMVVhVnpaZmV3UE9XRW43dzg0TWhteDZTa0Y4Y19SNEh1QWJ4UVdaZ3BaSDhTM19rN3JDcmdvMF9PMktLMzRiU2dPRWtmR2hQUm5OOGdwdXlHZlFQdHB0T2YtYllLMmMwUlg4MkZYRVg5VnU0SDlGQmxnQkV3SXpVNlRDOXhxdjhfaUxCWjFnQmFXaDBhbFE2STNTSERZYWdtT2pPTVd5MjVEcmpMRWpDLW40TkhHRWI5djcyTkRnM0Nzdw?oc=5)
-
-2026-05-30
-
-來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa1F6N1UxWEQ3OVhhMXc4M2dtUW9aV1BhNlBmYnlhU0oyX2tfX1ZBZ05CR1VXMmVfRGVuMnVjUGUxSzlQMVVhVnpaZmV3UE9XRW43dzg0TWhteDZTa0Y4Y19SNEh1QWJ4UVdaZ3BaSDhTM19rN3JDcmdvMF9PMktLMzRiU2dPRWtmR2hQUm5OOGdwdXlHZlFQdHB0T2YtYllLMmMwUlg4MkZYRVg5VnU0SDlGQmxnQkV3SXpVNlRDOXhxdjhfaUxCWjFnQmFXaDBhbFE2STNTSERZYWdtT2pPTVd5MjVEcmpMRWpDLW40TkhHRWI5djcyTkRnM0Nzdw?oc=5)
-
----
-
-### [Trial of multi-cancer blood test among 142,000 NHS patients fails to meet main aim - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjEwNFF0OXpocTRublowMmM3TXQ3NXFYZUs4bnRBdmhqam1nX1RoRmplZ0tWQmhJTV9sV0xUbnhwbzhqTGt1VHdaYkFpTldVcU9rdmlCckY4ZGVtMkFMcTdQOHNzZldtNWZNSHBoSmxIRFBrOUl5WVpzZ0RQdTkzcUtGT3hONC0wWEV1SFVlS1hOb0RUVlctRHJoZVFBb0Rtd2RuVnBEbjFZUnRDelhtQVBXQ0lwdWpEYXRNblpGNnhDVXB5OEphcg?oc=5)
-
-2026-05-30
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjEwNFF0OXpocTRublowMmM3TXQ3NXFYZUs4bnRBdmhqam1nX1RoRmplZ0tWQmhJTV9sV0xUbnhwbzhqTGt1VHdaYkFpTldVcU9rdmlCckY4ZGVtMkFMcTdQOHNzZldtNWZNSHBoSmxIRFBrOUl5WVpzZ0RQdTkzcUtGT3hONC0wWEV1SFVlS1hOb0RUVlctRHJoZVFBb0Rtd2RuVnBEbjFZUnRDelhtQVBXQ0lwdWpEYXRNblpGNnhDVXB5OEphcg?oc=5)
 
 ---
 

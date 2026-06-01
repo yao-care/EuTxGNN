@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
@@ -145,6 +145,14 @@ permalink: /news/diabetes-mellitus/
 2026-05-31
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
+
+---
+
+### [Fegato, è allarme. A rischio chi è obeso e chi ha il diabete 2 - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
+
+2026-05-31
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
 
 ---
 

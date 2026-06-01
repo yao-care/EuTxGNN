@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Lilly lanza 'Razones de Peso' para alertar de la brecha de conocimiento y el estigma que rodean a la obesidad](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkJDUDZlR0kwNERZTi0tWmlZckZpRVd6TDV3S0tfZ2hZNGI2N0d4TlEwdTJydVJOSS1GYmRlR3JudUgwMk1KalJNME5Zcm93UTRRTTdtYlJCUlYxTjRiWDVXdzhkTnNDemF2ZlpDV2J6LUxvLUk0M2hoMWFhQ2xmWVd0SkhLOFE5aGxWa3FCMm90SlB5S1VPY1pJVVNNV2V6aGNSSUgtR2E4ckszeFBjOTdwVzctdWN5WkFRcFpoazZnaEVicG5KMmhBV3hkVWdGRnc?oc=5)
+
+2026-06-01 <span class="news-indication-tag">obesidad</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkJDUDZlR0kwNERZTi0tWmlZckZpRVd6TDV3S0tfZ2hZNGI2N0d4TlEwdTJydVJOSS1GYmRlR3JudUgwMk1KalJNME5Zcm93UTRRTTdtYlJCUlYxTjRiWDVXdzhkTnNDemF2ZlpDV2J6LUxvLUk0M2hoMWFhQ2xmWVd0SkhLOFE5aGxWa3FCMm90SlB5S1VPY1pJVVNNV2V6aGNSSUgtR2E4ckszeFBjOTdwVzctdWN5WkFRcFpoazZnaEVicG5KMmhBV3hkVWdGRnc?oc=5)
+
+---
+
+### [La Fundación Jiménez Díaz plantea un abordaje total de la obesidad: mucho más allá que la suma de calorías](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
+
+2026-06-01 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
+
+---
 
 ### [Herzinfarkt-Prävention: 99 Prozent aller Fälle durch Risikofaktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
-2026-06-01 <span class="news-indication-tag">Schlaganfall</span>
+2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
 ---
 
-### [Expertos coinciden en abordar la obesidad desde una perspectiva "crónica, compleja y multifactorial"](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdzV1cjRzSUEzd3lEUkZoWjhrdlZCTU95Q0N1Z0NZNDRIa2QwS05wVlZuczQzZlhxWHZHWDNvNU9nd3A4NzhCQUpjRWhmNGswaTNUcWt3aDVLWm1CSDBKSnN4VlNjbnVvWENuMFNhbnVYTlVfZ2VHQWtsaG1YdGhNUkdZZUtVcjFjUkZWaGF1WVJULTBXSGRXMDM1bUxqRF9hMW5oQWNub2ZxVm9KaXNtZkdzRkc4U2l6MFpYbWxTNnNPT01Mb0NiWWlSTGRaN3dtcDZ0dGk3OA?oc=5)
+### [Médicaments contre l'obésité bientôt remboursés : "Ils ont prouvé leur efficacité, j'ai perdu 35 kg en deux ans" - France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeWZ0ZUJYa1AwcFZOaEZTdnJPWVVFcXhyMWF4Z1RWQXFNdTZrRjMzcEpEX3pUQVk1d01rSWFxMHR6VGl5bGJIM0JBbVhuckNTUDFRV2dHM0dYVkhwNDdsNFV6dlRnVXVOSjBDSGZZeksyaU12cEs1NGpGa19FTWptb2dDSlpZN2ItMElnQjVMZ2JVd3NoUEZuS1c0WG9vck5iUmNXVG5qQzgtVEtOS196N3U5WExnVFZua1VOZ201Ui03a0piaWJnNEpHNnJUaktILTZCUG5hbkVxYzFDbl9ZNUVpNTZzVUhFN1QyOU50a1VxTHZCQVBIQU4xdmVuUGlidVEtOXlVOWROeDk3VG1NZVF1d0tvRFJ2bUs5LVp0dkVyUGJxcktrdkhtUQ?oc=5)
 
-2026-06-01 <span class="news-indication-tag">obesidad</span>
+2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdzV1cjRzSUEzd3lEUkZoWjhrdlZCTU95Q0N1Z0NZNDRIa2QwS05wVlZuczQzZlhxWHZHWDNvNU9nd3A4NzhCQUpjRWhmNGswaTNUcWt3aDVLWm1CSDBKSnN4VlNjbnVvWENuMFNhbnVYTlVfZ2VHQWtsaG1YdGhNUkdZZUtVcjFjUkZWaGF1WVJULTBXSGRXMDM1bUxqRF9hMW5oQWNub2ZxVm9KaXNtZkdzRkc4U2l6MFpYbWxTNnNPT01Mb0NiWWlSTGRaN3dtcDZ0dGk3OA?oc=5)
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeWZ0ZUJYa1AwcFZOaEZTdnJPWVVFcXhyMWF4Z1RWQXFNdTZrRjMzcEpEX3pUQVk1d01rSWFxMHR6VGl5bGJIM0JBbVhuckNTUDFRV2dHM0dYVkhwNDdsNFV6dlRnVXVOSjBDSGZZeksyaU12cEs1NGpGa19FTWptb2dDSlpZN2ItMElnQjVMZ2JVd3NoUEZuS1c0WG9vck5iUmNXVG5qQzgtVEtOS196N3U5WExnVFZua1VOZ201Ui03a0piaWJnNEpHNnJUaktILTZCUG5hbkVxYzFDbl9ZNUVpNTZzVUhFN1QyOU50a1VxTHZCQVBIQU4xdmVuUGlidVEtOXlVOWROeDk3VG1NZVF1d0tvRFJ2bUs5LVp0dkVyUGJxcktrdkhtUQ?oc=5)
 
 ---
 
-### [Bluthochdruck: Kombinationstherapie hilft 66% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
+### [Why Do Humans Snore? An Evolutionary Biologist Explains What’s Happening To Your Airway](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
 
-2026-06-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-05-31 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2FyTWhrV3V5dnBrTTZjSkotYWw3QzNfT18yZm1XUXp5QjhWTnZMdGo2RERuNkU3bDdrMEFDX0tLcXVtazNBYlpyamY4Zy1CaDd1SzF3Y21xVjV2QWtiZTRwd09ZeFItOGlxUG9YUFBGVElmNjE2c25QNjR3a19FZ1hyUEkzMVdtZUlEWXlpN0RfR29rVlVtckE3OUt1WFpPamxhN0NTQ1J5RHlySlpGcU5nNGs?oc=5)
+來源：[Forbes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [I farmaci glp-1 per dimagrire riducono l’appetito, aumentano il senso di sazietà e, in molti casi, cambiano le preferenze alimentari. Ma c'è un rischio sollevato dai nutrizionisti - Vanity Fair Italia](https://news.google.com/rss/articles/CBMingJBVV95cUxQOFNMZFhKNE9DMFR1RDQwNFIwRWl4bmMxY1MwbXJaSHdwa3daSWtSeHVJazdFeFBROE5TbVhSc1E2NDlQbWxZcmZ0Z00yeWxPN3U3SVh4TzJ2S0E5SXl6YzNtV3VXbnJSaUdLMlRvT01aN0pxU3JYdU1BZ0dVdjU2T3gwSGpROXh4dmRhMTVSQ3djSHM0bUcyRUNRam53VzR0YmVzQlUzSjRmVHVDQkZNZGxUZXYtUWlPZUQya1VGdWhlWGV5SVdEUzJHRXR5dUl1R0dNU21PZEVIRFJLTExPREJZRVB3aFR3aVh5MDU4YXJjMGduSmplRUxRWW1GU1Y2Mk0xLTV0UXhhRFQtcC1LMmJ5N1luZ3o2VXJoTUZR?oc=5)
+### [Bluthochdruck: Niedrig dosierte Kombinationen erreichen 66% Erfolg - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFpmNlBCYjFTSWs2WV9UUFBQV2JqMEoySDUxYVU5OWdLcV9BVEdna0pCZWhsa1BOalJkX0U2RGZfRzd1ampLLW4zY3JZSHBGaDhyYUhmS0s1V1ktX1htVGE3NGJHMUJpWURMV3g0MW05Vlk4WnJ1OUdIQmljVEZLbm9uS3gtdUZCX3hoeE85SzVrUERFVVZseUtvMW94ZEVCMEdIN2ZfVHlZZ2k3MEVUUWRYRGpfc05hMVBlaWRn?oc=5)
 
-2026-05-30 <span class="news-indication-tag">obesità</span>
+2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMingJBVV95cUxQOFNMZFhKNE9DMFR1RDQwNFIwRWl4bmMxY1MwbXJaSHdwa3daSWtSeHVJazdFeFBROE5TbVhSc1E2NDlQbWxZcmZ0Z00yeWxPN3U3SVh4TzJ2S0E5SXl6YzNtV3VXbnJSaUdLMlRvT01aN0pxU3JYdU1BZ0dVdjU2T3gwSGpROXh4dmRhMTVSQ3djSHM0bUcyRUNRam53VzR0YmVzQlUzSjRmVHVDQkZNZGxUZXYtUWlPZUQya1VGdWhlWGV5SVdEUzJHRXR5dUl1R0dNU21PZEVIRFJLTExPREJZRVB3aFR3aVh5MDU4YXJjMGduSmplRUxRWW1GU1Y2Mk0xLTV0UXhhRFQtcC1LMmJ5N1luZ3o2VXJoTUZR?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFpmNlBCYjFTSWs2WV9UUFBQV2JqMEoySDUxYVU5OWdLcV9BVEdna0pCZWhsa1BOalJkX0U2RGZfRzd1ampLLW4zY3JZSHBGaDhyYUhmS0s1V1ktX1htVGE3NGJHMUJpWURMV3g0MW05Vlk4WnJ1OUdIQmljVEZLbm9uS3gtdUZCX3hoeE85SzVrUERFVVZseUtvMW94ZEVCMEdIN2ZfVHlZZ2k3MEVUUWRYRGpfc05hMVBlaWRn?oc=5)
 
 ---
 

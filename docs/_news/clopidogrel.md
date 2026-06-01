@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="Clopidogrel 有什麼相關新聞？">
-<strong>Clopidogrel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Clopidogrel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,23 @@ permalink: /news/clopidogrel/
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Herzinfarkt-Prävention: 99 Prozent aller Fälle durch Risikofaktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
+
+2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
+
+---
+
+### [Why Do Humans Snore? An Evolutionary Biologist Explains What’s Happening To Your Airway](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
+
+2026-05-31 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
+
+來源：[Forbes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
+
+---
 
 
 <div class="disclaimer">

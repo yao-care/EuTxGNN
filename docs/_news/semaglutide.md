@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
-
-### [Los cuerpos Ozempic que acaban en el quirófano - La Vanguardia](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEpOSmtGRURYY0pzMk5kc0RBMms3SVc0ajlHUm5pcHFDX0daVldtazVURjFTZDgwdkJJVXptaDhoNGJVR0RmZGZCMWpkdFFIMzkyMzY2RU5HQ1JiaktSbWJ0eDlvUFZndUdFb0lES1RBR3RoOUVjeUZuVE1PU1RJRF9fOGplTktSQ1Y2b1pJeW1sME3SAZgBQVVfeXFMTUdLTkJYb0FZMHlrbjdkS0poZkVhYmJUcXo5TTl2SXdrTGJObHk4NFhmOWxjTmZubG9SejhuYjZ2UjQxNmdhdzd1ZE9paTdoNkUzRW9VVEJsTUhvVWJmdjZSVzh4cnQwcG9WSmlmSFl0b0Q2TTFjVXYxMjRTRGxBVnMzZW5hQ3hPMjVEcEpNSkppZVFDTHNfMmw?oc=5)
-
-2026-06-01 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEpOSmtGRURYY0pzMk5kc0RBMms3SVc0ajlHUm5pcHFDX0daVldtazVURjFTZDgwdkJJVXptaDhoNGJVR0RmZGZCMWpkdFFIMzkyMzY2RU5HQ1JiaktSbWJ0eDlvUFZndUdFb0lES1RBR3RoOUVjeUZuVE1PU1RJRF9fOGplTktSQ1Y2b1pJeW1sME3SAZgBQVVfeXFMTUdLTkJYb0FZMHlrbjdkS0poZkVhYmJUcXo5TTl2SXdrTGJObHk4NFhmOWxjTmZubG9SejhuYjZ2UjQxNmdhdzd1ZE9paTdoNkUzRW9VVEJsTUhvVWJmdjZSVzh4cnQwcG9WSmlmSFl0b0Q2TTFjVXYxMjRTRGxBVnMzZW5hQ3hPMjVEcEpNSkppZVFDTHNfMmw?oc=5)
-
----
+## 相關新聞（11 則）
 
 ### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
@@ -78,6 +70,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Médicaments contre l'obésité bientôt remboursés : "Ils ont prouvé leur efficacité, j'ai perdu 35 kg en deux ans" - France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeWZ0ZUJYa1AwcFZOaEZTdnJPWVVFcXhyMWF4Z1RWQXFNdTZrRjMzcEpEX3pUQVk1d01rSWFxMHR6VGl5bGJIM0JBbVhuckNTUDFRV2dHM0dYVkhwNDdsNFV6dlRnVXVOSjBDSGZZeksyaU12cEs1NGpGa19FTWptb2dDSlpZN2ItMElnQjVMZ2JVd3NoUEZuS1c0WG9vck5iUmNXVG5qQzgtVEtOS196N3U5WExnVFZua1VOZ201Ui03a0piaWJnNEpHNnJUaktILTZCUG5hbkVxYzFDbl9ZNUVpNTZzVUhFN1QyOU50a1VxTHZCQVBIQU4xdmVuUGlidVEtOXlVOWROeDk3VG1NZVF1d0tvRFJ2bUs5LVp0dkVyUGJxcktrdkhtUQ?oc=5)
+
+2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeWZ0ZUJYa1AwcFZOaEZTdnJPWVVFcXhyMWF4Z1RWQXFNdTZrRjMzcEpEX3pUQVk1d01rSWFxMHR6VGl5bGJIM0JBbVhuckNTUDFRV2dHM0dYVkhwNDdsNFV6dlRnVXVOSjBDSGZZeksyaU12cEs1NGpGa19FTWptb2dDSlpZN2ItMElnQjVMZ2JVd3NoUEZuS1c0WG9vck5iUmNXVG5qQzgtVEtOS196N3U5WExnVFZua1VOZ201Ui03a0piaWJnNEpHNnJUaktILTZCUG5hbkVxYzFDbl9ZNUVpNTZzVUhFN1QyOU50a1VxTHZCQVBIQU4xdmVuUGlidVEtOXlVOWROeDk3VG1NZVF1d0tvRFJ2bUs5LVp0dkVyUGJxcktrdkhtUQ?oc=5)
+
+---
+
 ### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
 
 2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -91,6 +91,14 @@ permalink: /news/semaglutide/
 2026-05-31 <span class="news-indication-tag">diabete</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
+
+---
+
+### [Fegato, è allarme. A rischio chi è obeso e chi ha il diabete 2 - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
+
+2026-05-31 <span class="news-indication-tag">diabete</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
 
 ---
 

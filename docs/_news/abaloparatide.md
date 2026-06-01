@@ -86,6 +86,14 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Fegato, è allarme. A rischio chi è obeso e chi ha il diabete 2 - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
+
+2026-05-31 <span class="news-indication-tag">diabete</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
+
+---
+
 ### [Diabetes: Dieser Pflanzenstoff verbessert Darmflora & Glukosestoffwechsel](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnlUUGUxM1FCNWpOdkNpSWlIMHYtaVFEMlRUNVBvNXVEellUQVJQVzA1TGRoYkRKVS1XZTVudGRBWHFiakZJVjdScnJuVi01ZFBleUFpUTkzdUlGbjluSHBrZ1o3MFBBS2dYQ0R4b2hnazVKZEhPVk85MzN6V0k3bFE4UlFESnhJT253ZF80M2dkTzJlbzFkRzFCTzdJRUpabjJIb3ViRDlrbk9uYnV3MTFBTlY4Qm9hYi1vNVZ6dHljODRyS29UY25iWQ?oc=5)
 
 2026-05-31 <span class="news-indication-tag">diabetes</span>
@@ -99,14 +107,6 @@ permalink: /news/abaloparatide/
 2026-05-31 <span class="news-indication-tag">diabetes</span>
 
 來源：[Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
-
----
-
-### [Brain freeze? Ice cream headaches can reveal a surprising amount about your health](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
-
-2026-05-30 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5)
 
 ---
 
