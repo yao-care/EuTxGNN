@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（15 則）
+
+### [Diabetes-Therapie: GLP-1-Medikamente senken Demenzrisiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3RKQWxoY2VXRFg1WURZSFY1TVlKOVpZWHdqX29tVldZU2d2R1ZKLUlVSWlZSGdiMmEzaXZqTjN5Z2NYN0xWbTAzLVFHWHNJRGR1UmhGUFdQdkJCd0lzSW96YTlKdVJYWTQ5Zl9haHRnaUJyX0hqN2ljRnEtU0p5eXNNSWVnWHNZZDVXb2hxaXVFSC1YUDFGSkFjcWJUZzhocjkyUVEyWmstWWMwdDlJNkxxTDczU1BPT2c?oc=5)
+
+2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3RKQWxoY2VXRFg1WURZSFY1TVlKOVpZWHdqX29tVldZU2d2R1ZKLUlVSWlZSGdiMmEzaXZqTjN5Z2NYN0xWbTAzLVFHWHNJRGR1UmhGUFdQdkJCd0lzSW96YTlKdVJYWTQ5Zl9haHRnaUJyX0hqN2ljRnEtU0p5eXNNSWVnWHNZZDVXb2hxaXVFSC1YUDFGSkFjcWJUZzhocjkyUVEyWmstWWMwdDlJNkxxTDczU1BPT2c?oc=5)
+
+---
+
+### [Bepirovirsen logra la curación funcional de la hepatitis B crónica en el 19% de los pacientes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
+
+2026-05-31 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
+
+---
+
+### [Novo Nordisk Aktie: PMOS-Definition am 12. Mai](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3lFYW1FU0JIUGE2TmEyT1hQd3lxSzVtaVhTT3F5UUZkdVUxTmVNU0Y2SnpXX1FDaTg0Q05pSEFtRkJlcXhXVlo4QlQ5Tjh5dGZpVVVqSEZSbGpucm5HR1lvMlBTQmJwa2otX0ZPSlBiU1hESmpoN25jRnJRbDdmQ3p0cGJQS3E2?oc=5)
+
+2026-05-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[kapitalmarktexperten.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3lFYW1FU0JIUGE2TmEyT1hQd3lxSzVtaVhTT3F5UUZkdVUxTmVNU0Y2SnpXX1FDaTg0Q05pSEFtRkJlcXhXVlo4QlQ5Tjh5dGZpVVVqSEZSbGpucm5HR1lvMlBTQmJwa2otX0ZPSlBiU1hESmpoN25jRnJRbDdmQ3p0cGJQS3E2?oc=5)
+
+---
+
+### [Five recover from Ebola - as Brazil investigates two suspected cases - Sky News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjFVdW5ydW93dWlrTTg3YS1yM1hzUTRSVWRVSGVGWEt3WmZ2czhSQ1ZIQTdtWnFGejZQQWtHSEg3ZkJrUVpXSFhUYUV3eHhSVzlMai1QNU9MUWYtV0N3c0t4bTRCT1JDUlJzMXVCdHI2MHhBZ1NYLXFYWUpzWjNUTWtkcG9hUjl6dmd6OEN0Ym1jWlNJZzVWZHgybzNKcnhZOVlXcQ?oc=5)
+
+2026-05-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjFVdW5ydW93dWlrTTg3YS1yM1hzUTRSVWRVSGVGWEt3WmZ2czhSQ1ZIQTdtWnFGejZQQWtHSEg3ZkJrUVpXSFhUYUV3eHhSVzlMai1QNU9MUWYtV0N3c0t4bTRCT1JDUlJzMXVCdHI2MHhBZ1NYLXFYWUpzWjNUTWtkcG9hUjl6dmd6OEN0Ym1jWlNJZzVWZHgybzNKcnhZOVlXcQ?oc=5)
+
+---
 
 ### [»Hondius« will nach Hantavirus-Ausbruch wieder mit Passagieren in See stechen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTlLR21fa2FOUHhPaXNvRTlBSzdVNkZzZHd3Ni1HVVhPTTRsRVhsZGVZejZRTVZLdmhfbmt0THJqUnVZLU56c2FPbjlfdG9BMlhNM1RrQzlPNTNtaGxHU2pmM3Fwd3FsVWtJMktnSTlvN09KbXJIR3JsVWFOZGpocU1JTzNQRVdxV195TjlnV3g5WjdlOWZad0RodjktOGp3QjIwQlNMWjVNeHZpaGRRZlJENlRrY3NrN05QRE9kb3FVWHV3elpfd3paX28yMndwUlNyTnA2QjI1cmc?oc=5)
 
@@ -78,14 +110,6 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Bepirovirsen logra la curación funcional en uno de cada cinco pacientes con hepatitis B crónica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
-
-2026-05-31 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
-
----
-
 ### [Aprender a convivir con la enfermedad de las mil caras: el reto invisible de la Esclerosis Múltiple - La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
 
 2026-05-31 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -94,19 +118,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [PMOS-Umbenennung: Polyzystisches Ovarsyndrom heißt jetzt anders - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWpyQXF5QllmVWtSM2MwVzJCYlo0OXZFT2E0WW1maW1hZHFnWV9Uak90QnhhZTlWb3h4MFNLVlNJNzkzcW1SQ0xSX2dHMjJUYkxTeFVTRDQteVpuMnAzZHkwY2wzOUtmNk01ZVpmNXVYbTE4a1VzNnVQTkVxQW9nS1VHTkNqMXVlMEc0Zk90YUQtUzQ0U1ZOMl84dktkeE9KRnVUcVcwMVpJZ3pvOWFuWGpR?oc=5)
+### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
-2026-05-31 <span class="news-indication-tag">MS</span>
+2026-05-31 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWpyQXF5QllmVWtSM2MwVzJCYlo0OXZFT2E0WW1maW1hZHFnWV9Uak90QnhhZTlWb3h4MFNLVlNJNzkzcW1SQ0xSX2dHMjJUYkxTeFVTRDQteVpuMnAzZHkwY2wzOUtmNk01ZVpmNXVYbTE4a1VzNnVQTkVxQW9nS1VHTkNqMXVlMEc0Zk90YUQtUzQ0U1ZOMl84dktkeE9KRnVUcVcwMVpJZ3pvOWFuWGpR?oc=5)
-
----
-
-### [El ébola demuestra que el mundo no está preparado para una pandemia, dice exdirector de los CDC - Bloomberg Línea](https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk11anhRemJpYnlOZjZXbWtuTnpCdG5lWWdMVjVLekt6RFBLdnVFbG9WZjhBdV80aFFUR0UwT0lNdHJTd2FiRzRwTjVDQVB5UWkyejU0QzVWV0QydW5YZElBc3RHX2tBZ09kb2E1dmFtNHRmWklFM0tFeWNzdFphREJXZkdJeU94UkRkczB4bEVTT0tGd25uZ0t0RXV2b1Y5M0prNlEyUkhtVldBaTFWeWNyVXgzR3FHMHhKSFRnYWdWbmpjaTZIRXlFNFrSAeABQVVfeXFMTWk2RFdoZTk5eW84NzFPcWxPRnlnekVvLTZDS0dKTVJtRUw3UmRlcVp0ZkEyNmpFa0ZnVlhrZjR6aXhQZmdmT3Vvem5WNEdVR3RKVjdQdTkzYzVmN3hmTHlxZ24tVnhveGI4VDdjUDdLUUJwQ3VPUWtWN1owZHpfQV9tUmZkd2hkQmxKZE1pT01idmI3Z2dTZ2twLUlGZGZXT1phTkRvTmlGUy05blhZSHZSVGk5VS1wX3JIYzQ5aG9WOXNYVlRnbzlHcHZEbTl5dkowc3hRQzJvYUJNZTV1d0g?oc=5)
-
-2026-05-30 <span class="news-indication-tag">MS</span>
-
-來源：[Bloomberg Línea](https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk11anhRemJpYnlOZjZXbWtuTnpCdG5lWWdMVjVLekt6RFBLdnVFbG9WZjhBdV80aFFUR0UwT0lNdHJTd2FiRzRwTjVDQVB5UWkyejU0QzVWV0QydW5YZElBc3RHX2tBZ09kb2E1dmFtNHRmWklFM0tFeWNzdFphREJXZkdJeU94UkRkczB4bEVTT0tGd25uZ0t0RXV2b1Y5M0prNlEyUkhtVldBaTFWeWNyVXgzR3FHMHhKSFRnYWdWbmpjaTZIRXlFNFrSAeABQVVfeXFMTWk2RFdoZTk5eW84NzFPcWxPRnlnekVvLTZDS0dKTVJtRUw3UmRlcVp0ZkEyNmpFa0ZnVlhrZjR6aXhQZmdmT3Vvem5WNEdVR3RKVjdQdTkzYzVmN3hmTHlxZ24tVnhveGI4VDdjUDdLUUJwQ3VPUWtWN1owZHpfQV9tUmZkd2hkQmxKZE1pT01idmI3Z2dTZ2twLUlGZGZXT1phTkRvTmlGUy05blhZSHZSVGk5VS1wX3JIYzQ5aG9WOXNYVlRnbzlHcHZEbTl5dkowc3hRQzJvYUJNZTV1d0g?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
 ---
 
@@ -134,38 +150,6 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Ebola spread in DR Congo 'deeply alarming', MSF warns](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TbG5LNlNSZEpOdUVQaUdIc2lwaEZCNHpNQVdpN1l3TFl0YU9RdDBURXVBYnNTYzNSVWM5RUhZMnI2d0ZiTXJGbWljaTJoTkZRbWtCaGo5VEpqWGVw?oc=5)
-
-2026-05-30 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TbG5LNlNSZEpOdUVQaUdIc2lwaEZCNHpNQVdpN1l3TFl0YU9RdDBURXVBYnNTYzNSVWM5RUhZMnI2d0ZiTXJGbWljaTJoTkZRbWtCaGo5VEpqWGVw?oc=5)
-
----
-
-### [When my husband started repeating himself, I knew something was wrong](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVYzZ2s4RnVIa3VpUWxNSzNLU3p0QTk2LWpSMUJTT2ZhT1hHRnRsNVdiLXNMRldOWUNwblV6eDV4dzNZS01sZkJHNjI1ai15eFloU2hha0pzV01pR1NEMmdSc0NGbHlVMUtfLTdZbkF3ZFN3cHlhTmFCOHNrNk04T0Q4OUgxTWtJVEtJRzdJNTI?oc=5)
-
-2026-05-30 <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVYzZ2s4RnVIa3VpUWxNSzNLU3p0QTk2LWpSMUJTT2ZhT1hHRnRsNVdiLXNMRldOWUNwblV6eDV4dzNZS01sZkJHNjI1ai15eFloU2hha0pzV01pR1NEMmdSc0NGbHlVMUtfLTdZbkF3ZFN3cHlhTmFCOHNrNk04T0Q4OUgxTWtJVEtJRzdJNTI?oc=5)
-
----
-
-### [El río Segura se ilumina de naranja por el Día Mundial de la Esclerosis Múltiple - Murcia Plaza](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFNxR2ZoSXdsU3ZLVDBScndxNnZFdV85RkxjcGJNN1VMb2RBMDZCS0hvOEx2ZF94cVZjeU1FN3VpandVLXdtTlA0Vl9qSkZmUlQtel9KczdUbjJnYV9RZVV4S25oMVg3QUpJY0o5Nlo0NjVIUTJ2ODRaSU85ZDU2N0hZYlNsRDhTd29VaW5ia19zQm40WjlCMEIyMnp5el9DdXNTbVdJX2xncGlCcXpBUG9McG53aUFqTUttUTJXeGxuWExreEI4N3owaw?oc=5)
-
-2026-05-30 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Murcia Plaza](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFNxR2ZoSXdsU3ZLVDBScndxNnZFdV85RkxjcGJNN1VMb2RBMDZCS0hvOEx2ZF94cVZjeU1FN3VpandVLXdtTlA0Vl9qSkZmUlQtel9KczdUbjJnYV9RZVV4S25oMVg3QUpJY0o5Nlo0NjVIUTJ2ODRaSU85ZDU2N0hZYlNsRDhTd29VaW5ia19zQm40WjlCMEIyMnp5el9DdXNTbVdJX2xncGlCcXpBUG9McG53aUFqTUttUTJXeGxuWExreEI4N3owaw?oc=5)
-
----
-
-### [Forscher untersuchen Wirkung von Abnehmspritzen auf Demenz und Sucht - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcjkxQWlya1E5OTJENGdFOHBJUlBJb2hBSHAweGZuTzVPUGwtbWV0X3NPYThJYzlsc2UweGZhZkFKYkE5X05HQ0VLTDYxaVJmZ2dMcVNuTWZyck9aWGxZQzZGLXg1X2VsaVl1YXRxXy0tU041aDhiZjBMb0ZwNnJQZ0FKUlp5b2pjRlkyNi1PSGxkYXJRdEJ1MA?oc=5)
-
-2026-05-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcjkxQWlya1E5OTJENGdFOHBJUlBJb2hBSHAweGZuTzVPUGwtbWV0X3NPYThJYzlsc2UweGZhZkFKYkE5X05HQ0VLTDYxaVJmZ2dMcVNuTWZyck9aWGxZQzZGLXg1X2VsaVl1YXRxXy0tU041aDhiZjBMb0ZwNnJQZ0FKUlp5b2pjRlkyNi1PSGxkYXJRdEJ1MA?oc=5)
-
----
-
 ### [Giornata mondiale della Sclerosi multipla, Aoui vince un bando del ministero della salute](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeVF4Q05mWVdTcmxkTHJhc01EdHNRMlRZd1FiaVV5b2JJWFJZRVZaTklFYXNUeUxLZkNkSWJhLTc4aGJVMTQ2ZGVzOUx3WWozdDhOeF92WmlkRlRsRXhWcGU3c0JnNTdJYXg1VHB6RXprZV9XeFd4Z2g2aUNQUHdMSV9Yckc3c2t4aFlsZ1YwR3RZdmg1MGlvZkVLekVjTjBTZGtMOXYyWEV1eUkzTlhEUXlsdzBmYUhJZzhFalJ4VlNRYXFzYlhQaGxvZVVpdzF0T3prRExKX3BrSVBpajhLendxQdIB6AFBVV95cUxNOXAtSHkyZXI5ZzRqV2plbFhuRExzQWU4cTZzWWY3OVJGaWNiUDI0bi1CQ1dGWXZDUnJTdjNWMlhwcWlYdWdSNGNvdmhOVXZqN1JXZmJEcFNCanE4UWIwakoxX2Z6cnhoVzZ2UVF2QWkzbUZZWmdNZS1welZkWkxfMVJXMDdMZzdDcVFpN01PT0RNQ0c5TUI3V1F3LTZrSW1BamE1eFBfNV91ajFNbkRWUzNBcDUzMU5TeXI2QWZ1N0M0U0RXdnd4c1l4SEVyNjYwaGlVM2hxaTdYeHJwY3pwbnZZaEoxeWlO?oc=5)
 
 2026-05-30 <span class="news-indication-tag">sclerosi multipla</span>
@@ -187,22 +171,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-05-30 <span class="news-indication-tag">MS</span>
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUhZcjVoM3JGYUNPM0dlY3ZhNVJRN0FlWEF3VGVLTFRzbER6dUhwUUxuc0RYTWdHTlhvT2JTbmxCMWM3R2FCZFlBM0pvcXA4WUhjMHJNSnlJNW9ObHI1YkxFYXpoQUNYWXZFcEQtaUh1V1BXU3B0N3ROdE5uZ2RHS2h6QlNmRzhpcHZ3ZjVQVE1BeHQwVmFFVVNYcktRaXZ3eTNiNVpxTHU1YjZIOEV6ODBfaThla2dEYkgxYWFZX3dEejBNb0E?oc=5)
-
----
-
-### [Scoperto un farmaco che rallenta la sclerosi multipla](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWx6TXdKc0dJTzRlM3d1RC0tdV9Od3EtQjI2aG16QmNydzJ2ZjdmWGJxRVBzX2RjQ2swWHlRdExjbFl1bFNwNEVuUGc1TGFKdzNPRGlYTzhIZE1kX0d4NUZObUlvLTRmQ3ZqTUJmWHM0THZQNEEta05HTDVNVW9sWms2bU5IOXc0STZ6V3dNbTc?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWx6TXdKc0dJTzRlM3d1RC0tdV9Od3EtQjI2aG16QmNydzJ2ZjdmWGJxRVBzX2RjQ2swWHlRdExjbFl1bFNwNEVuUGc1TGFKdzNPRGlYTzhIZE1kX0d4NUZObUlvLTRmQ3ZqTUJmWHM0THZQNEEta05HTDVNVW9sWms2bU5IOXc0STZ6V3dNbTc?oc=5)
-
----
-
-### [Heart surgeon warns people should avoid one drink he calls 'liquid death'](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYm1zbVpFZ0RwNGtadURuaFZEc21sbVpMVVhiR3hma3gwcnRSTUpOX2NmWjFkSkNyYlBzUGpCZWxYcFp4TFFjQlRjVEo4blJtUFoyT3RTYTJBcW9VNmk2T3FEaE5mWUlqVHpZLVBlLUk1UUhJMTBsSGlCZjNuckxXdFBjTXdsY1J6Z1BVcWJzd0FBdw?oc=5)
-
-2026-05-29 <span class="news-indication-tag">MS</span>
-
-來源：[UNILAD](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYm1zbVpFZ0RwNGtadURuaFZEc21sbVpMVVhiR3hma3gwcnRSTUpOX2NmWjFkSkNyYlBzUGpCZWxYcFp4TFFjQlRjVEo4blJtUFoyT3RTYTJBcW9VNmk2T3FEaE5mWUlqVHpZLVBlLUk1UUhJMTBsSGlCZjNuckxXdFBjTXdsY1J6Z1BVcWJzd0FBdw?oc=5)
 
 ---
 

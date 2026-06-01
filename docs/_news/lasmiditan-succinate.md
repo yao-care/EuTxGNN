@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Rhinitis ist signifikant mit Migräne verbunden](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
+
+2026-06-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlF2QzFTcFROS1NDdzhXUjc0VFdKTEZlczQ3NlBiVWpJMnQxYjdSR0c2VG1qaUpiV2pmTU8xLXR1d2RrOTdyeHZoaXVlaHZLZW9jc05vT3U2NzdLVFNxZHRfcmxGcmNiM0V0Yy1SZ3JycDZEbmJ6VjFkSVFOckVTY3dSanRFVHI3d0tLcWRLRWVzN2k5QVREME9rV0w?oc=5)
+
+---
+
+### [Estudios realizados por Novo Nordisk indican que semaglutida reduce peso y riesgo cardiovascular en mujeres con obesidad durante la menopausia](https://news.google.com/rss/articles/CBMigAJBVV95cUxNakNCR1NraEJydXlKc3hBM3V2cGNadUxmc0Y5QjRsT3UwLV9XM1o5VU51Sm5TbEtRUmpna0JkUU9va1VZVl82TW1fdXBINTdrcjJWV2wzRk5hUXVMYVBJOFgwal9aZV83d1dFZGEyZ25WeEtFUV9lSWJGLU8tWnhhZnN3bFZUMEtKTHpvSmdERk5QdzJRUXlnNFRTZGNZZHdUZlZhWldCWk9qN0laR3ZlZFVNNV9HTWQxM0ZXZ2lMTklFU0oxQXp2VG9YV0RIVzUwY0tSMk1zZGJ2ckVoa3VqcXBWYzZ5V2J6NkY2cjRaMjZnWUJtZTluV2tOR1FVMDlT?oc=5)
+
+2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMigAJBVV95cUxNakNCR1NraEJydXlKc3hBM3V2cGNadUxmc0Y5QjRsT3UwLV9XM1o5VU51Sm5TbEtRUmpna0JkUU9va1VZVl82TW1fdXBINTdrcjJWV2wzRk5hUXVMYVBJOFgwal9aZV83d1dFZGEyZ25WeEtFUV9lSWJGLU8tWnhhZnN3bFZUMEtKTHpvSmdERk5QdzJRUXlnNFRTZGNZZHdUZlZhWldCWk9qN0laR3ZlZFVNNV9HTWQxM0ZXZ2lMTklFU0oxQXp2VG9YV0RIVzUwY0tSMk1zZGJ2ckVoa3VqcXBWYzZ5V2J6NkY2cjRaMjZnWUJtZTluV2tOR1FVMDlT?oc=5)
+
+---
 
 ### [Expertos destacan la relevancia de la farmacia comunitaria en el abordaje integral de la obesidad](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDNYbFBtZk9mTTJhd0NrREZFakZzcVJ0VHI4ZThkT1ZYNVRUa3ZoQkhCU1Q3dEdrSXZINlhKS0ZKa05jZDdKdThDWUdManFaemV5ejJ5NHE4b2dBZ1pDeWhxYjJHZFl2a2wtWjFnTjkzSjlFaHQ1LXhkNG5JNFQ1WXltU2k2RHFOTVZ6NGNWck5lZ2s4bHQweFN2LWZHUEdCTkVlelJBWVZiSFdYM29TQkxfQnFHYlItSE1zemFsaHJmeXgyTllLVUJYMHk?oc=5)
 
@@ -83,14 +99,6 @@ permalink: /news/lasmiditan-succinate/
 2026-05-30 <span class="news-indication-tag">obesidad</span>
 
 來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkxxNzNsa21WNU11T3o0aWUzMjkzOU5IX0NtTndlSzdIZ2lTdkEtQjRzVGhjaTdHZnhjdXVnLTY4aWdmYXZvbGZMUXcxTVQ1VEhoc3B6MHJ1RjdJQWo1cXlJdG1XQ2NKak9hOWxuX3NENl9NSVZ0SndJaFd1cFdyMjNlRjZWczFWSS0za1M5aG1ZYjVNRURoUERjY3FHTkkxRmU4NXg5ajJrM2xo?oc=5)
-
----
-
-### [Obésité : le remboursement sous condition des médicaments Wegovy et Mounjaro, dès la mi-juin, salué par patients et soignants - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
-
-2026-05-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWXNWVDMtaWdVcWJiQVhsZmZBWHlmV3EzREhuSEdEMWV3R1dCU0taSjRqc0owNm5QNU9nMzVYNDZzeFFISDVkMFAyeGRxUGtycV9sbURXR1BPck5OMzI5YVI2d2JXOHYxTkl3VkdZS1JfaUphZUljVVd0X1ZYd2lHX1M2SXMyUm16bjNsNjlVODlmUmk1N3FQbW1nVEJ0V3BSVlZ6cVlvSE94RDRHQU51QkxvZDhSQlhobWpGOWpzU3FEM0xBSWJqRU54Q3ZMSHNfMTM3aG5NTWVmQ0VKanZXNlZnUzFLbkpQUmRyOEI4V2dwQzJITkV5bXczdld5SEhFRFhvZ0ZYTVo4M1FraVNWNWNBcU5wQUE5OTk4?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/givosiran/
 
 ## 相關新聞（4 則）
 
+### [Bepirovirsen logra la curación funcional de la hepatitis B crónica en el 19% de los pacientes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
+
+2026-05-31 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
+
+---
+
 ### [Schlaganfall-Rückfall: 80 Prozent der Fälle sind vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWI5S1BYaXdwaXYwWkpyWnhmcjlLYVFEbnR5RGpqSGtwdC1UT0VZTWt0dTR4VVlNVXBrQkZKRjYyWWlHZzdudlU5dXAwTGxuS3Rac1hVWHJTZC13bmx2RjZ0MnR1cHZkdE5TbW96ME8wZlo0SXRJUlh0NzU3OVhLX0ZyNGNYSjViQWJsX0pKeDFybXg5OWoyc043MkRYRFhUX1p3WVVPOFRQTmVUNXc?oc=5)
 
 2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -62,17 +70,9 @@ permalink: /news/givosiran/
 
 ---
 
-### [Bepirovirsen logra la curación funcional en uno de cada cinco pacientes con hepatitis B crónica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
-
-2026-05-31 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
-
----
-
 ### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
-2026-05-31 <span class="news-indication-tag">high blood pressure</span>
+2026-05-31 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 

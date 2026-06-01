@@ -54,11 +54,11 @@ permalink: /news/lamivudine/
 
 ## 相關新聞（1 則）
 
-### [Bepirovirsen logra la curación funcional en uno de cada cinco pacientes con hepatitis B crónica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
+### [Bepirovirsen logra la curación funcional de la hepatitis B crónica en el 19% de los pacientes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
 
 2026-05-31 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBSdDUxUk9jclBINFpabmY3R3Q0OXFRbFRXVkRwYkpaMXVrakdHYTg3bWZHWGZuQzJGckdEaVRnS1FmOENWME9WMXZ0WHhNUHZndW50VVExcXpKLV91czNibkktdk9HSHVHNlRNaHRCTUF5eGZNZDQ1YVREem53Q1VCVnE2YUVnSVMyUDMwSFREQ3JXV0laaDFqVEFUMmU4VkI5MjFWeW1fcHVNTXY0ZnJzb3E1enR6Ql94MzBn?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
 
 ---
 
