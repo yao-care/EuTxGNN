@@ -54,6 +54,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（11 則）
 
+### [« C’est dramatique » : diabète de type 2, infarctus… Les jeunes ont de plus en plus « des maladies de vieux » - Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+
+2026-06-01 <span class="news-indication-tag">diabète</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+
+---
+
 ### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
 2026-06-01 <span class="news-indication-tag">diabetes</span>
@@ -80,7 +88,7 @@ permalink: /news/semaglutide/
 
 ### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
 
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
 
@@ -131,14 +139,6 @@ permalink: /news/semaglutide/
 2026-05-31 <span class="news-indication-tag">diabetes</span>
 
 來源：[Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
-
----
-
-### [¿Se recupera el peso al dejar Ozempic? Un gran estudio cuestiona el temido «efecto rebote»](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1YxU0hORDRGQUlTUDdsT05EZnBiVGszcldFRTRhdXRuU1BoTUFtbHg3VXUyMjBfa0xNenlJSFpVaDlQMkRKcFVyU3d1M3J2djRGa29NV2tDdE9SRHVRc3ozY1JFTElPb0lBVmdHMnRGdnFGcFhXYlV5aWlMRnNfT3AzWUVQS0VJREtMc1NjTjZ4YXlFc1FUdHM2a1pXWEdic2lUcGItaVppZk3SAbABQVVfeXFMUHJOVnhnT2Z0M2hBRmV5RUdCVVE5YlZKRGtQY2JQV2oxTEFjQVRGQ2RFTEU2N0pPU29EdFlyN0VJa005UkM1T3VMRnZSNEVJbEZDZkNwZWxuS1JYb3R6MElaZjQ5dzVOZEl2R21rYlRrMy14QlZFSDRNN1ZERE9OaTBvbl81M0tWcXhNTGVjV05wZDRxa2FWLXFRVGljcENkX1FaU0xydl9CN0NGLTVaeXQ?oc=5)
-
-2026-05-31 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1YxU0hORDRGQUlTUDdsT05EZnBiVGszcldFRTRhdXRuU1BoTUFtbHg3VXUyMjBfa0xNenlJSFpVaDlQMkRKcFVyU3d1M3J2djRGa29NV2tDdE9SRHVRc3ozY1JFTElPb0lBVmdHMnRGdnFGcFhXYlV5aWlMRnNfT3AzWUVQS0VJREtMc1NjTjZ4YXlFc1FUdHM2a1pXWEdic2lUcGItaVppZk3SAbABQVVfeXFMUHJOVnhnT2Z0M2hBRmV5RUdCVVE5YlZKRGtQY2JQV2oxTEFjQVRGQ2RFTEU2N0pPU29EdFlyN0VJa005UkM1T3VMRnZSNEVJbEZDZkNwZWxuS1JYb3R6MElaZjQ5dzVOZEl2R21rYlRrMy14QlZFSDRNN1ZERE9OaTBvbl81M0tWcXhNTGVjV05wZDRxa2FWLXFRVGljcENkX1FaU0xydl9CN0NGLTVaeXQ?oc=5)
 
 ---
 

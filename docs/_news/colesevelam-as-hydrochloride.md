@@ -54,6 +54,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（9 則）
 
+### [« C’est dramatique » : diabète de type 2, infarctus… Les jeunes ont de plus en plus « des maladies de vieux » - Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+
+2026-06-01 <span class="news-indication-tag">diabète</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+
+---
+
 ### [Herzinfarkt-Prävention: 99 Prozent aller Fälle durch Risikofaktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGxyTTdWcWp3VjZ0UWduMHZKdmNyY04tdHg5OUF2NElPYWQyYy10VElMbjFkamxCQ3lEalFfVnowM3dJU0VZbmxRZktHa2NWekNCdXMzSlA2NkNjRlpJajlHekdreUt0cVp6Y0xTbWFNc003ckl6WjZRSEVUREZ2QjBVeTZJdEY0VWhWazcweXh4X1lpdG94VTQ1cFg0Y1ZxeUNTWU1QdkFSVU90bEJxSW1hMXZlTjJN?oc=5)
 
 2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -75,14 +83,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-06-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
-
----
-
-### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
-
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
 
 ---
 

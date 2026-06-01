@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### [Así es el plan de Google para combatir varias enfermedades: liberará 32 millones de mosquitos modificados - El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVHVKWFZpby1ER1IxWmZrVUt1RVV5cmlCWUE5TEYtN3dNVVgwdXpTSkZRTkZ2SUhPRDB2bXVVb2U5MkdERkZNdm1kTGFXZ2psdC1fa3RlcC05VUdxcFJFd0NqVDk1Rl9rM1NvckRpOGo3ZXlDbUx1ZURBY1hRZTNmZ2dXSlNmbjkzUFhlRkNvR1V4WU5aVXNDTGpNbDhHcVVDOG01UFdZNHdJbFZGSUFvWkpkTVZkNERXMlpSMTV4VnpaR2xzNVlnN2xoQk5HUzdMaTJIcm1nM0RneEg3Y05V0gHkAUFVX3lxTE5OSUFseFQ2bFpFUUhVT3UyUE94U0lnVjVKM05OR1dTUWZOTG5GM0NETlMzbEV1b1ByYUZPUWZ2RDQyRl9NT2RIRHAza1M5MGFEbk5VaTdwWW5zbHBYalRDQ2RhSVowUDB5UTIxWll6LV8wckVXbngyY2V4QmY1dDBDSExOSGZLNnFqLWVwZ1ZndWJlck9QelRUd0V4cDRadkFCTFpKSF9WN282UTZ4ZlI0OHo1dldnVTZlVzY2VGU1blJpUTREZHdOakJEUnVkTGV5QVAta18wWWE3NFY2REhwbXRDSA?oc=5)
+### [How long can humans live? We simply don’t know](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93QW1ma3doaDRKdmVxd2JvWnloOVpuMHc1Qm1OcERNZ1JkWTg3V21kMEdESkpXZ0tMMjd4YVlDUTQ1OHI4cWtwVmZwY2VQWm4wa3YtTDRiNlNjRlJycm5J?oc=5)
 
 2026-06-01 <span class="news-indication-tag">MS</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVHVKWFZpby1ER1IxWmZrVUt1RVV5cmlCWUE5TEYtN3dNVVgwdXpTSkZRTkZ2SUhPRDB2bXVVb2U5MkdERkZNdm1kTGFXZ2psdC1fa3RlcC05VUdxcFJFd0NqVDk1Rl9rM1NvckRpOGo3ZXlDbUx1ZURBY1hRZTNmZ2dXSlNmbjkzUFhlRkNvR1V4WU5aVXNDTGpNbDhHcVVDOG01UFdZNHdJbFZGSUFvWkpkTVZkNERXMlpSMTV4VnpaR2xzNVlnN2xoQk5HUzdMaTJIcm1nM0RneEg3Y05V0gHkAUFVX3lxTE5OSUFseFQ2bFpFUUhVT3UyUE94U0lnVjVKM05OR1dTUWZOTG5GM0NETlMzbEV1b1ByYUZPUWZ2RDQyRl9NT2RIRHAza1M5MGFEbk5VaTdwWW5zbHBYalRDQ2RhSVowUDB5UTIxWll6LV8wckVXbngyY2V4QmY1dDBDSExOSGZLNnFqLWVwZ1ZndWJlck9QelRUd0V4cDRadkFCTFpKSF9WN282UTZ4ZlI0OHo1dldnVTZlVzY2VGU1blJpUTREZHdOakJEUnVkTGV5QVAta18wWWE3NFY2REhwbXRDSA?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93QW1ma3doaDRKdmVxd2JvWnloOVpuMHc1Qm1OcERNZ1JkWTg3V21kMEdESkpXZ0tMMjd4YVlDUTQ1OHI4cWtwVmZwY2VQWm4wa3YtTDRiNlNjRlJycm5J?oc=5)
 
 ---
 
@@ -88,17 +88,9 @@ permalink: /news/sofosbuvir/
 
 ### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
 
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
-
----
-
-### [Bepirovirsen logra la curación funcional de la hepatitis B crónica en el 19% de los pacientes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
-
-2026-05-31 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
 
 ---
 
@@ -118,19 +110,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Women hope renaming PCOS health condition could help millions of women worldwide](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NVTVmUnk5Q2dpSmxkb2YzdDVjZGtBYXd4NTA2OU1WUFJsNk1NOGlaN1UxcDlJeEk1dV8wR3ZGc0hYazFBbHd6YVlEMFRWaUlNZ0RBcTVQa0tVdGNY?oc=5)
+
+2026-05-31 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NVTVmUnk5Q2dpSmxkb2YzdDVjZGtBYXd4NTA2OU1WUFJsNk1NOGlaN1UxcDlJeEk1dV8wR3ZGc0hYazFBbHd6YVlEMFRWaUlNZ0RBcTVQa0tVdGNY?oc=5)
+
+---
+
 ### [Aprender a convivir con la enfermedad de las mil caras: el reto invisible de la Esclerosis Múltiple - La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
 
 2026-05-31 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
-
----
-
-### [Multiple Sklerose: 70% bessern kognitiven Nebel durch tägliches Training - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXU3c0V0ZEctSGNnTzhMcXFpT0lGNWpZVnMxdHFKNDVzSkZvS0R2TGxxcDdoUFR2LXlKdjRqQkdJSUlqNzgtNlk3N3U4UzV6NktnRE9WOGt0eU1KOXJ1NmJHNWJyZFNXV3NBYXRtbElIUktuSER4WVFsMnBrTzRrZHFOaDVJemhJeXRPdXhJWjZZNUh3UFBETHBybTU3UE0wc1JNLXhCZDhvNjcwckxTOU5oOVNxNzdIY1Fn?oc=5)
-
-2026-05-30 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXU3c0V0ZEctSGNnTzhMcXFpT0lGNWpZVnMxdHFKNDVzSkZvS0R2TGxxcDdoUFR2LXlKdjRqQkdJSUlqNzgtNlk3N3U4UzV6NktnRE9WOGt0eU1KOXJ1NmJHNWJyZFNXV3NBYXRtbElIUktuSER4WVFsMnBrTzRrZHFOaDVJemhJeXRPdXhJWjZZNUh3UFBETHBybTU3UE0wc1JNLXhCZDhvNjcwckxTOU5oOVNxNzdIY1Fn?oc=5)
 
 ---
 

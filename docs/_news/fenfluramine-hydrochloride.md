@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Lilly lanza 'Razones de Peso' para alertar de la brecha de conocimiento y el estigma que rodean a la obesidad](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkJDUDZlR0kwNERZTi0tWmlZckZpRVd6TDV3S0tfZ2hZNGI2N0d4TlEwdTJydVJOSS1GYmRlR3JudUgwMk1KalJNME5Zcm93UTRRTTdtYlJCUlYxTjRiWDVXdzhkTnNDemF2ZlpDV2J6LUxvLUk0M2hoMWFhQ2xmWVd0SkhLOFE5aGxWa3FCMm90SlB5S1VPY1pJVVNNV2V6aGNSSUgtR2E4ckszeFBjOTdwVzctdWN5WkFRcFpoazZnaEVicG5KMmhBV3hkVWdGRnc?oc=5)
+### [El abordaje de la obesidad pasa por romper con el estigma del 'comer menos y moverse más' - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQU9XQUM5YUhVMzNITkdYVGJXRkJxQURwbXpfVnl4emtSc3FRZ3FmUWswR2xVSTFFdDZCX0h3T1ZMNTFvOTdYc2tTQW54T1VxQUpqQXdMY1JoaEIxYUJNdjEzVWNJM0R5TGEtMG5zVU9USnBxb1UzUzM3UnVYZnBmV2xOTEhNSVhGa1RzMzJTV19DcXFQUWsyX0ppVzVNamlWMU1pLUtBUTc3aWxuTmhfQkRVRWQ3U2hoaVBMRFZuOWtDd9IBvAFBVV95cUxPOXI5MUFQbU5pSmpOYThoQkY4Y1U2anVnNzdDdThLNlA5eWtHOTJidW1FeUpDaFNneFFHMENuWFhuRFRaZnVKeUhEM3BlczRfUXZGN00zSXUtUEIzQlppWnFvbTUwSWNWNGVNa2YtSms2MHd5WC1ZZUpmYllYeFY1ZHJwMWRNY25lUWNKMFRHVzRkallQT0trRmhMd2prZzdacFhySHppa1NNdFR2MzByZVFvMTdFQ3ZzU2stVA?oc=5)
 
 2026-06-01 <span class="news-indication-tag">obesidad</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkJDUDZlR0kwNERZTi0tWmlZckZpRVd6TDV3S0tfZ2hZNGI2N0d4TlEwdTJydVJOSS1GYmRlR3JudUgwMk1KalJNME5Zcm93UTRRTTdtYlJCUlYxTjRiWDVXdzhkTnNDemF2ZlpDV2J6LUxvLUk0M2hoMWFhQ2xmWVd0SkhLOFE5aGxWa3FCMm90SlB5S1VPY1pJVVNNV2V6aGNSSUgtR2E4ckszeFBjOTdwVzctdWN5WkFRcFpoazZnaEVicG5KMmhBV3hkVWdGRnc?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQU9XQUM5YUhVMzNITkdYVGJXRkJxQURwbXpfVnl4emtSc3FRZ3FmUWswR2xVSTFFdDZCX0h3T1ZMNTFvOTdYc2tTQW54T1VxQUpqQXdMY1JoaEIxYUJNdjEzVWNJM0R5TGEtMG5zVU9USnBxb1UzUzM3UnVYZnBmV2xOTEhNSVhGa1RzMzJTV19DcXFQUWsyX0ppVzVNamlWMU1pLUtBUTc3aWxuTmhfQkRVRWQ3U2hoaVBMRFZuOWtDd9IBvAFBVV95cUxPOXI5MUFQbU5pSmpOYThoQkY4Y1U2anVnNzdDdThLNlA5eWtHOTJidW1FeUpDaFNneFFHMENuWFhuRFRaZnVKeUhEM3BlczRfUXZGN00zSXUtUEIzQlppWnFvbTUwSWNWNGVNa2YtSms2MHd5WC1ZZUpmYllYeFY1ZHJwMWRNY25lUWNKMFRHVzRkallQT0trRmhMd2prZzdacFhySHppa1NNdFR2MzByZVFvMTdFQ3ZzU2stVA?oc=5)
 
 ---
 
-### [La Fundación Jiménez Díaz plantea un abordaje total de la obesidad: mucho más allá que la suma de calorías](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
+### [Obesità severa, intervento record con il Robot Da Vinci: rimosso utero di quasi 4 chili - Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
+
+2026-06-01 <span class="news-indication-tag">obesità</span>
+
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
+
+---
+
+### [Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbXNnVlNrcWU5ZnVDalhxcHZMTUtUVWRiN2IwbXFubFdPdDdUOFUwcWN5TlJDVWpTRnJCeXZYWW9EMXhIRTFKZVN0WTBTNWtDVG1DSFFtWlFfa3c5SjBr?oc=5)
+
+2026-06-01 <span class="news-indication-tag">obesity</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbXNnVlNrcWU5ZnVDalhxcHZMTUtUVWRiN2IwbXFubFdPdDdUOFUwcWN5TlJDVWpTRnJCeXZYWW9EMXhIRTFKZVN0WTBTNWtDVG1DSFFtWlFfa3c5SjBr?oc=5)
+
+---
+
+### [Lilly lanza la iniciativa 'Razones de Peso' para cambiar la percepción social sobre la obesidad y el sobrepeso - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1RPYjRVY3RVNndRMVVhektUTUY5eXkyRUN6MHVyekU5ajhDWlBtZEM2akdQcmR6WlUxZzI0dUFTMWN0dWtjd1hTMFd0UjQxTDg0SUxJMHRwLVFlYlRyTG9mRkppVl9mc3J3X2tCb0ktOTJzX29KaGpldWNBUjJZWVIyZG1mWnpjMEUxSm9LWHZkUkU0TS1wcVdWcDZSWG1FQ0VzeGxNZjhxQ3BRVEFyZ0xZXzZzMGJh?oc=5)
 
 2026-06-01 <span class="news-indication-tag">obesidad</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1RPYjRVY3RVNndRMVVhektUTUY5eXkyRUN6MHVyekU5ajhDWlBtZEM2akdQcmR6WlUxZzI0dUFTMWN0dWtjd1hTMFd0UjQxTDg0SUxJMHRwLVFlYlRyTG9mRkppVl9mc3J3X2tCb0ktOTJzX29KaGpldWNBUjJZWVIyZG1mWnpjMEUxSm9LWHZkUkU0TS1wcVdWcDZSWG1FQ0VzeGxNZjhxQ3BRVEFyZ0xZXzZzMGJh?oc=5)
 
 ---
 

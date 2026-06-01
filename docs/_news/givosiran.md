@@ -54,11 +54,11 @@ permalink: /news/givosiran/
 
 ## 相關新聞（3 則）
 
-### [Bepirovirsen logra la curación funcional de la hepatitis B crónica en el 19% de los pacientes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
+### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
-2026-05-31 <span class="news-indication-tag">hepatitis</span>
+2026-06-01 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBLdXllUkEyWlV1MjdxSkNJSEh3cnVIUXBoYnhsYmFRekxsNUNNMFp3UWlqLTd1SXFsbzFqc09NUkhqNDFXUjdzbWpBWDBHd3Z3NHMzdGl6aDdpYzBCYnI0Qm5KRS0xVnN1WnZCS0FmOWEzNTVqWDlfUHU2aVNUaUxWd1hIazluLUNxcFNrSmVwZlkxREhKOUVXS2J1cHJwQlhjQnktOG5jLVpsc21yMlpsdkt1YUJuMjI4SXpB?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabète（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
+description: "diabète（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabète（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,14 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（7 則）
 
+### [« C’est dramatique » : diabète de type 2, infarctus… Les jeunes ont de plus en plus « des maladies de vieux » - Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+
+2026-06-01
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+
+---
+
 ### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
 2026-06-01
@@ -129,14 +137,6 @@ permalink: /news/diabetes-mellitus/
 2026-06-01
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
-
----
-
-### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
-
-2026-06-01
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Tadalafil 有什麼相關新聞？">
-<strong>Tadalafil</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tadalafil</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tadalafil/
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（35 則）
 
-### [Yoga can reduce anxiety and insomnia for people living with cancer, study finds - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzJ0SW4zRzUzX1NCQVZyYjBtQ0FJbGhTSF9qdlB0NzVFVmd6SGp6S2E2eURGVGpPMUpXRkVMUkdYSlNmRDhZRGZWXzJKNnZGUmdiUS12elRCZ0R1S1NabEYxSUVmT0thM0Zzd2NjbXN2VW03OEszSHQ3WnFwcHVyNzZFZXctbFduUUE?oc=5)
+### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
 
-2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-01 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzJ0SW4zRzUzX1NCQVZyYjBtQ0FJbGhTSF9qdlB0NzVFVmd6SGp6S2E2eURGVGpPMUpXRkVMUkdYSlNmRDhZRGZWXzJKNnZGUmdiUS12elRCZ0R1S1NabEYxSUVmT0thM0Zzd2NjbXN2VW03OEszSHQ3WnFwcHVyNzZFZXctbFduUUE?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
+
+---
+
+### [Man who's injected Melanotan II for years shares before and after photos](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcklzYW5xT1MtRkN5N3U5bnphQXFCLXk2aU5ta1lidzFraGY5d2tQbFRNV1hDMU5kTl9Ta0pqSzRwN3ZxYUFQM3B1a0lvNUxHcm9iUDc2UnBnampybFNKZDM5bEtBbUhtNWRjT3RmNDZPX3BQRGNHMkdOdjBMcjV0ZlJFMEMwTDd1QnFQaGxFZGxxZmZpSXg2WlA2cTJBXzQ5R3pscWpRTld2dzl6cnJtcHAtV3ZLUQ?oc=5)
+
+2026-06-01 <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcklzYW5xT1MtRkN5N3U5bnphQXFCLXk2aU5ta1lidzFraGY5d2tQbFRNV1hDMU5kTl9Ta0pqSzRwN3ZxYUFQM3B1a0lvNUxHcm9iUDc2UnBnampybFNKZDM5bEtBbUhtNWRjT3RmNDZPX3BQRGNHMkdOdjBMcjV0ZlJFMEMwTDd1QnFQaGxFZGxxZmZpSXg2WlA2cTJBXzQ5R3pscWpRTld2dzl6cnJtcHAtV3ZLUQ?oc=5)
+
+---
+
+### [«Bevevo 8 caffè e riuscivo a dormire. Poi ho iniziato a sudare tanto di notte e scoperto di avere un tumore» - Il Messaggero](https://news.google.com/rss/articles/CBMiugFBVV95cUxPck1OSmxmcEhpYzl3QkphUVo4dFJPTEx3eUtmT016R3RLcXZaUWNsYWZXeXB0MjVyNkI4Q0FHNmFKYTNfNi1VY0t2Z2JXdUZ0YjA2eWZ3WjlSSGVtN0dROHBqM2JzSWZFd1Z4Y0pjQUdYOVQ3cjFZcURKZjk4THhxSGFxYVhtenFtOTZ4V0Q0ekxCTEhOSTZfdnd5WlVYSWYwOWlTUTNJY1c4clJqNDlXcHNDM2NnRmc1bWfSAbMBQVVfeXFMTXBRR3JybjhhRzZubVU0YTRCTUxOVlBwQ0FGMXBDS25oQm9rMXBzc0U1NkR6QWlnenR4T1hDQmhMdmV2S3ZaZms5MWRrU2VjMUUzWXYwUEVOVlJFdGtGMmMzdlhCamdsYjRqVm5LOW02SXpsT001bkpNR3UzalozdWRGTlFwU3lwUFZQTDhjVjZZcFlCY2pTMGFEMVpRTzZNV0REQlZSY3p6RzhkblpNRlFyZ1k?oc=5)
+
+2026-06-01 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiugFBVV95cUxPck1OSmxmcEhpYzl3QkphUVo4dFJPTEx3eUtmT016R3RLcXZaUWNsYWZXeXB0MjVyNkI4Q0FHNmFKYTNfNi1VY0t2Z2JXdUZ0YjA2eWZ3WjlSSGVtN0dROHBqM2JzSWZFd1Z4Y0pjQUdYOVQ3cjFZcURKZjk4THhxSGFxYVhtenFtOTZ4V0Q0ekxCTEhOSTZfdnd5WlVYSWYwOWlTUTNJY1c4clJqNDlXcHNDM2NnRmc1bWfSAbMBQVVfeXFMTXBRR3JybjhhRzZubVU0YTRCTUxOVlBwQ0FGMXBDS25oQm9rMXBzc0U1NkR6QWlnenR4T1hDQmhMdmV2S3ZaZms5MWRrU2VjMUUzWXYwUEVOVlJFdGtGMmMzdlhCamdsYjRqVm5LOW02SXpsT001bkpNR3UzalozdWRGTlFwU3lwUFZQTDhjVjZZcFlCY2pTMGFEMVpRTzZNV0REQlZSY3p6RzhkblpNRlFyZ1k?oc=5)
 
 ---
 
@@ -67,6 +83,14 @@ permalink: /news/tadalafil/
 2026-06-01 <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWThyRElMSGp2dU9kaC00T3dSekwySjdxRU4ya2tQWGg4d09FaDV5NjFFMENzeEhZVTctWUFucHEtRnJhRHBndlVzM3ptdGVUT1lVUmsyY2EwdjlfRDQ5bkU1MzNPMVZVQzZHUHdveWlTZGg4aVBjWmlJVFpZaVVSSmQxNVlNSlBONzdyWV94Zi1jV1pjX2JITGd5X3NuTVJfYkpZTkNmTmlkVDBBYkFhR3JjaVJrUWJzeHBOaWx1ajJjSmVSaDZVUzdCMm40NG9FSzFIeEo4OXNRMzdMUlNQalpfckFJTDA3Tlpwck1n?oc=5)
+
+---
+
+### [Impfallianz stellt 50 Millionen Dollar gegen Ebola bereit – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixAFBVV95cUxObGhibXhPNUxVc0xxZFZyRHhzc3hPUkZsRkJQSWFYXzdEd3JFTEtiTmJGZ0kzLXhWRVZ1ekRnR3ZpdFdEcDUzVTRxNVBwR0Y1TC1vZFAtZV9EWDRsaVlGQndTWXF5d1REWDEybmxKZHJGWkk3d0g2YVB6R2RWZ0Q4QmZ5SmpUSk5iQUx2eTFxUTByMENvUmN3c0VGOVlDdk8wOXZ6dGMzS3o5OGZCS2dreTBUdWVidTNybGstUUNhOEU4dXpt?oc=5)
+
+2026-06-01 <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixAFBVV95cUxObGhibXhPNUxVc0xxZFZyRHhzc3hPUkZsRkJQSWFYXzdEd3JFTEtiTmJGZ0kzLXhWRVZ1ekRnR3ZpdFdEcDUzVTRxNVBwR0Y1TC1vZFAtZV9EWDRsaVlGQndTWXF5d1REWDEybmxKZHJGWkk3d0g2YVB6R2RWZ0Q4QmZ5SmpUSk5iQUx2eTFxUTByMENvUmN3c0VGOVlDdk8wOXZ6dGMzS3o5OGZCS2dreTBUdWVidTNybGstUUNhOEU4dXpt?oc=5)
 
 ---
 
@@ -110,6 +134,14 @@ permalink: /news/tadalafil/
 
 ---
 
+### [Study Suggests Sweetener May Contribute to Liver Disease - Food Safety Magazine](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0Q1SmJDX25GSVBYSkRHYXc2Rm1wRHE0eVJCdHBfQjR1QWJHaTRvclpHUXBfUy11Zlkwa3JOalBXZERhNVB6OW1RekxYcmxSbjEtcU1SUjZzcU80eXRJdE1mV3QxNHl5cWdxRWE5NGkzYU42bkJDLUNOdGJSLVRBSl9TclN4OHJrZE8xTTlnVHVaSG1QMnN2OUdEYzJHTFVo?oc=5)
+
+2026-06-01 <span class="news-indication-tag">AF</span>
+
+來源：[Food Safety Magazine](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0Q1SmJDX25GSVBYSkRHYXc2Rm1wRHE0eVJCdHBfQjR1QWJHaTRvclpHUXBfUy11Zlkwa3JOalBXZERhNVB6OW1RekxYcmxSbjEtcU1SUjZzcU80eXRJdE1mV3QxNHl5cWdxRWE5NGkzYU42bkJDLUNOdGJSLVRBSl9TclN4OHJrZE8xTTlnVHVaSG1QMnN2OUdEYzJHTFVo?oc=5)
+
+---
+
 ### [Tragic Scots teenager, 18, died after ‘exam stress headaches’ turned out to be cancer - The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUZZQ2ktNFMtR0tNRi1ZNmxqM09OQkZTS2VaNHFseWl2TENTV1JQRFZEa2lvUlFPTVlPYi03UUF2UFBxZExfOXFBOUlYSHc3SzluOWN5VDhjQ29mT2JTTVdGNFhWQ1lheGwyQUFRS25HQnFPdFQtOEwwQkxveGxnZDZDZzFVb0o2UkUtY3RpR0NXMHJKVGc?oc=5)
 
 2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -134,11 +166,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Llamas named after Only Fools characters join herd](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PNnZNanFBbjV2bmEwcUE4OHUzQ2NOVDhTWU96emtQSFhYS0dVMHcyVDhMNE1WUVFsZC1Jb3hnSEFTU18xT3dZMDJOekF1bFRDVXRhdnFleFdSWllI?oc=5)
+### [Postman, 61, sues hospital after surgery on pancreas finds benign nodule - London Evening Standard](https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1g4ckt4cHliNHZHeU11RnZOa3hLTzctQktwNkppY2I4RlNJVW56WXdVY2VEREhKeTZZdmVCSy0xRkpJYVVpNDZaN2hYWDRPMzd1MXB5ZC0wZ2hXVEV0UWlocXNGOU5HTFNOemNyYWxZQ2QzbU1fY0xHVmFpa3pTVW11SUlNSWlZSHFHTGgyanBHUQ?oc=5)
 
 2026-06-01 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PNnZNanFBbjV2bmEwcUE4OHUzQ2NOVDhTWU96emtQSFhYS0dVMHcyVDhMNE1WUVFsZC1Jb3hnSEFTU18xT3dZMDJOekF1bFRDVXRhdnFleFdSWllI?oc=5)
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1g4ckt4cHliNHZHeU11RnZOa3hLTzctQktwNkppY2I4RlNJVW56WXdVY2VEREhKeTZZdmVCSy0xRkpJYVVpNDZaN2hYWDRPMzd1MXB5ZC0wZ2hXVEV0UWlocXNGOU5HTFNOemNyYWxZQ2QzbU1fY0xHVmFpa3pTVW11SUlNSWlZSHFHTGgyanBHUQ?oc=5)
 
 ---
 
@@ -147,14 +179,6 @@ permalink: /news/tadalafil/
 2026-06-01 <span class="news-indication-tag">AF</span>
 
 來源：[The Courier](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLU9lbXF6QnVGR2UzQXN2WTUweG1Eb3dETDhhbmR1SkNwZGlQRFdTQ094VzZ0MGRLMGI4a3o2Y2IyVHBreDIwZjViVjlOZnhIUjE1UWVQazhXb0RGSUc1T0gxZHFWMk9vQlRvU2dlY0dEYi1ZVUYtTG05TnpJTkdvU2NNRk83bDRMd2Nrbg?oc=5)
-
----
-
-### [Los usas a diario y los neurólogos avisan de que son los peores enemigos del cerebro](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkRRaVA4OEVuR3QyaVZza0t0RFBzTEMwWmhnVXhCZXdyVHNlbl9fdVd3YkxPcUgzVFhOX1lld0ZxRFZ0alVqb29ybGVCeFhXQTA5eGY4MHZrWm5MZ2poWGFoS2Y2SnhMWk5hZVdpOS1PX1A4cHZQWnFfWENQR0ZBaFBYM29WTk5POXgzMTRpazNFeXRKTThnR0s5RkJqQWNFR29z0gGoAUFVX3lxTE5iWEppbng5VzBJY3Z0eXRxWjNWVEREemlOX1NoMTFhU3pDX25kc25na1RLbHdZWjBZZzl4UDJiODk3SmhscW45V3l4WVNvRDU5LVVWY0ppZ2pSQkgweTFaV085T0xxdURQOGNIRUk2dGM1Q0hGRXRQYUZLZ0h0Sm1GcWlIX3JOQVo0VkE4NmN3WFZXWUtiRDJmWUtHUF9Ed3NVUzV3MFRaQQ?oc=5)
-
-2026-06-01 <span class="news-indication-tag">AF</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkRRaVA4OEVuR3QyaVZza0t0RFBzTEMwWmhnVXhCZXdyVHNlbl9fdVd3YkxPcUgzVFhOX1lld0ZxRFZ0alVqb29ybGVCeFhXQTA5eGY4MHZrWm5MZ2poWGFoS2Y2SnhMWk5hZVdpOS1PX1A4cHZQWnFfWENQR0ZBaFBYM29WTk5POXgzMTRpazNFeXRKTThnR0s5RkJqQWNFR29z0gGoAUFVX3lxTE5iWEppbng5VzBJY3Z0eXRxWjNWVEREemlOX1NoMTFhU3pDX25kc25na1RLbHdZWjBZZzl4UDJiODk3SmhscW45V3l4WVNvRDU5LVVWY0ppZ2pSQkgweTFaV085T0xxdURQOGNIRUk2dGM1Q0hGRXRQYUZLZ0h0Sm1GcWlIX3JOQVo0VkE4NmN3WFZXWUtiRDJmWUtHUF9Ed3NVUzV3MFRaQQ?oc=5)
 
 ---
 
@@ -171,22 +195,6 @@ permalink: /news/tadalafil/
 2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1ZkbUZITHNkdTQ4WTFWNlBXOWZoMWp6SmtYMnp2ZFZ2QlNYYkluYXFQQ19jam9jc3B1T2pOa1lhb25zUDdGMFJ0Mm43VU42R1NNWTZ1QlN0Y1UwWE1ZekxMWjZ5QWctZDBxRElIamxFd0RRNGgwUzZ5TElxVE5rd2xYaERodmhwQTJWVDFvaHVGSl84YWZPS09teW9xWVdsTDA0Z2d5RGs?oc=5)
-
----
-
-### [Five recover from Ebola - as Brazil investigates two suspected cases - Sky News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjFVdW5ydW93dWlrTTg3YS1yM1hzUTRSVWRVSGVGWEt3WmZ2czhSQ1ZIQTdtWnFGejZQQWtHSEg3ZkJrUVpXSFhUYUV3eHhSVzlMai1QNU9MUWYtV0N3c0t4bTRCT1JDUlJzMXVCdHI2MHhBZ1NYLXFYWUpzWjNUTWtkcG9hUjl6dmd6OEN0Ym1jWlNJZzVWZHgybzNKcnhZOVlXcQ?oc=5)
-
-2026-06-01 <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjFVdW5ydW93dWlrTTg3YS1yM1hzUTRSVWRVSGVGWEt3WmZ2czhSQ1ZIQTdtWnFGejZQQWtHSEg3ZkJrUVpXSFhUYUV3eHhSVzlMai1QNU9MUWYtV0N3c0t4bTRCT1JDUlJzMXVCdHI2MHhBZ1NYLXFYWUpzWjNUTWtkcG9hUjl6dmd6OEN0Ym1jWlNJZzVWZHgybzNKcnhZOVlXcQ?oc=5)
-
----
-
-### [Brote de ébola vs hantavirus: qué enfermedad es peor y cuál podría afectar más](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVZWTVJCU1ZiYllsdm1uSXJsMk5DRWVESTlZODN4Vjk4R29veloycFhMN1paVzZXd2JPY3F4ZXV2UzNQRTlhVzNDTUhQQnI4SWUzUG5sNjVvWkpWZGJEV0h2elJUOXM3UUxkN1dkbkE4dzdfMkFQS2NYWUc4VWJDa2hCbVI3Mlh3SVJLNVhYU3d2anoyNy1Yb2MzR1J2TnhaLV9FZEJtblM2OFB4LThsd2YxSUZDcGoyMXE5etIB1wFBVV95cUxPdVlGYXgzUThLUC1lVko2bDVzZTRPcVM1WDBaYlR5aTdBZ2NOalRaOXRGa2R6ZzNKVEJxMmpnVEN1SGVDRDBNdXNPVHZMQ1FxTVlqWU5FUUt6eGROMXZwa0FRWEZFdXNrU1dQUkItWXJRWVpERHhsUEZBZXlHS0NfY01KZzhqUEFEcDdDUGpybXlpZEQtWjVrRUthdFg0ak5WUDVxT0E2ejJHdDRZdXRDTmV1RFE0Y25fWE93aDNydV9fTERXSmdLdHhTdExOTWUtOHNURWFXYw?oc=5)
-
-2026-05-31 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVZWTVJCU1ZiYllsdm1uSXJsMk5DRWVESTlZODN4Vjk4R29veloycFhMN1paVzZXd2JPY3F4ZXV2UzNQRTlhVzNDTUhQQnI4SWUzUG5sNjVvWkpWZGJEV0h2elJUOXM3UUxkN1dkbkE4dzdfMkFQS2NYWUc4VWJDa2hCbVI3Mlh3SVJLNVhYU3d2anoyNy1Yb2MzR1J2TnhaLV9FZEJtblM2OFB4LThsd2YxSUZDcGoyMXE5etIB1wFBVV95cUxPdVlGYXgzUThLUC1lVko2bDVzZTRPcVM1WDBaYlR5aTdBZ2NOalRaOXRGa2R6ZzNKVEJxMmpnVEN1SGVDRDBNdXNPVHZMQ1FxTVlqWU5FUUt6eGROMXZwa0FRWEZFdXNrU1dQUkItWXJRWVpERHhsUEZBZXlHS0NfY01KZzhqUEFEcDdDUGpybXlpZEQtWjVrRUthdFg0ak5WUDVxT0E2ejJHdDRZdXRDTmV1RFE0Y25fWE93aDNydV9fTERXSmdLdHhTdExOTWUtOHNURWFXYw?oc=5)
 
 ---
 
@@ -246,19 +254,19 @@ permalink: /news/tadalafil/
 
 ---
 
+### [Ridere fa crescere il cervello dei bambini. E l'umorismo diventa strumento di resilienza rafforzando il sistema immunitario e migliorando la memoria - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ0J4OG9famRYUXZXOHdaZ0luV3doRm9sb1psNDlmbkNrVTdMaVlfSENZYUhaM0JJcnVhdHQtWWFkbzNUNFI5T3ZrMGd3ZlM3TDJkQnJ1Yno5eVhwQ25jZWNyckE2TWo3NXNIVWw2S3M5R1IwOW1Wb1hyNzFtbExZSkF0N0JHNzN2YVBLVFlWZVlzVEowUldrRENvb0lPWFFaazBlc3VpdzRjeGNJYkFLOGZDODRPWERuNHVLVzBpaHpyTzQyN1AyVmhjSU9fMFEyN29Pdy1kRnZoMVpUMmlWS252ODN3UXl5MlZNT2FwRkZkRmpKQ3gyUkRxNFNuY1dNMV9rUnhxWFVXZw?oc=5)
+
+2026-05-31 <span class="news-indication-tag">AF</span>
+
+來源：[Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ0J4OG9famRYUXZXOHdaZ0luV3doRm9sb1psNDlmbkNrVTdMaVlfSENZYUhaM0JJcnVhdHQtWWFkbzNUNFI5T3ZrMGd3ZlM3TDJkQnJ1Yno5eVhwQ25jZWNyckE2TWo3NXNIVWw2S3M5R1IwOW1Wb1hyNzFtbExZSkF0N0JHNzN2YVBLVFlWZVlzVEowUldrRENvb0lPWFFaazBlc3VpdzRjeGNJYkFLOGZDODRPWERuNHVLVzBpaHpyTzQyN1AyVmhjSU9fMFEyN29Pdy1kRnZoMVpUMmlWS252ODN3UXl5MlZNT2FwRkZkRmpKQ3gyUkRxNFNuY1dNMV9rUnhxWFVXZw?oc=5)
+
+---
+
 ### [Brazil monitors two patients for Ebola amid fears of spread from Africa - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkxQVDNnYzJDRWZqVkdxMjJxaXVHX1dab1dwX2FUVUpCak1BN0FHSEpwQ2RqOVY3TEFyLXhTajBVNjh2cVQtUHB3RndXYnRlOVZKWE5IdXNCN3IzdldiczNPUE1RSkVOT0xxNXFBZ084ZFhIaFp3NF8yMWFjZEZuU1prc0g4YU51SDB2VEprRDBEazRIUV9nTDBJa0Z0Skk?oc=5)
 
 2026-05-31 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkxQVDNnYzJDRWZqVkdxMjJxaXVHX1dab1dwX2FUVUpCak1BN0FHSEpwQ2RqOVY3TEFyLXhTajBVNjh2cVQtUHB3RndXYnRlOVZKWE5IdXNCN3IzdldiczNPUE1RSkVOT0xxNXFBZ084ZFhIaFp3NF8yMWFjZEZuU1prc0g4YU51SDB2VEprRDBEazRIUV9nTDBJa0Z0Skk?oc=5)
-
----
-
-### [Postman, 61, sues hospital after surgery on pancreas finds benign nodule - London Evening Standard](https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1g4ckt4cHliNHZHeU11RnZOa3hLTzctQktwNkppY2I4RlNJVW56WXdVY2VEREhKeTZZdmVCSy0xRkpJYVVpNDZaN2hYWDRPMzd1MXB5ZC0wZ2hXVEV0UWlocXNGOU5HTFNOemNyYWxZQ2QzbU1fY0xHVmFpa3pTVW11SUlNSWlZSHFHTGgyanBHUQ?oc=5)
-
-2026-05-31 <span class="news-indication-tag">AF</span>
-
-來源：[London Evening Standard](https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1g4ckt4cHliNHZHeU11RnZOa3hLTzctQktwNkppY2I4RlNJVW56WXdVY2VEREhKeTZZdmVCSy0xRkpJYVVpNDZaN2hYWDRPMzd1MXB5ZC0wZ2hXVEV0UWlocXNGOU5HTFNOemNyYWxZQ2QzbU1fY0xHVmFpa3pTVW11SUlNSWlZSHFHTGgyanBHUQ?oc=5)
 
 ---
 
