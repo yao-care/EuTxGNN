@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
-### [« C’est dramatique » : diabète de type 2, infarctus… Les jeunes ont de plus en plus « des maladies de vieux » - Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+### [Il magnesio aiuta a prevenire il diabete? - Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabete</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
+
+---
+
+### ["Nos enfants ont des maladies de vieux" : les experts alertent sur les ravages de la sédentarité chez les plus jeunes - Midi Libre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSnFHNGs4b2hrcGFIQW1VX1psTlN3TmlGdGNjT3JYWTlCVTZUU1lka3pxd1hLbTBRQ1prNGNDOUVLbjdHZ3F6VC1CanpNT1VORlJjZTVmSDFrRDkweUhBeGVQeWFlSk1vWUZFMEtyYkp2SzJQTkpVX3dDeXQtVUM0R2RZcVJNaU5wMkp4Si1qWUlWX0JNd2FMZkE2ck01bW1FeEJodFZEZUlDU2M0ajh2TTlGazdUY05WNmVaako3OENzRVhKOEtidjMtUUNENUs2MjZJaE03dzZhNXJ3aGZwVTdMRmtMOHZZdTAyajl0RTJSaHR3?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabète</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSnFHNGs4b2hrcGFIQW1VX1psTlN3TmlGdGNjT3JYWTlCVTZUU1lka3pxd1hLbTBRQ1prNGNDOUVLbjdHZ3F6VC1CanpNT1VORlJjZTVmSDFrRDkweUhBeGVQeWFlSk1vWUZFMEtyYkp2SzJQTkpVX3dDeXQtVUM0R2RZcVJNaU5wMkp4Si1qWUlWX0JNd2FMZkE2ck01bW1FeEJodFZEZUlDU2M0ajh2TTlGazdUY05WNmVaako3OENzRVhKOEtidjMtUUNENUs2MjZJaE03dzZhNXJ3aGZwVTdMRmtMOHZZdTAyajl0RTJSaHR3?oc=5)
+
+---
+
+### [Remboursement de Wegovy et Mounjaro dans l'obésité : les généralistes exclus pour des raisons financières, s'indigne MG France](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1VVY05YbVlDdmtSUk5lUlBrNjdoYlNBTk1PTTJ1cE5pYlFNcUduQjJSUFpJRUdlN3FyOHozSl9aT3ZYb0NMLVhBSXpIM0lKaTZqRW5QT0d6YXctX0VLSzVmOE5ZY3ZaZ0twWmk1M0J2SGJUSEY0Q3RPbkVMdHVibGtuaDc2dVZIeElFOFFZbDR1RnVHNi0wQWhDeU0wZFVZZWpLVFpNbk01N3dvMnhQVVNKVGsxV2tQdmc?oc=5)
+
+2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Egora](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1VVY05YbVlDdmtSUk5lUlBrNjdoYlNBTk1PTTJ1cE5pYlFNcUduQjJSUFpJRUdlN3FyOHozSl9aT3ZYb0NMLVhBSXpIM0lKaTZqRW5QT0d6YXctX0VLSzVmOE5ZY3ZaZ0twWmk1M0J2SGJUSEY0Q3RPbkVMdHVibGtuaDc2dVZIeElFOFFZbDR1RnVHNi0wQWhDeU0wZFVZZWpLVFpNbk01N3dvMnhQVVNKVGsxV2tQdmc?oc=5)
+
+---
+
+### [MONTCHANIN : Le diabète, un problème majeur de santé publique - Creusot Infos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBDR1lWZHJGLVN6LXEwTDJHU29tWmxqc2xYVm5rQUp0UUpYLXAyUHZsR0hQdld4UnduY2lkNGwyU3Q0bVRQcTV0RTVEVHR1aUVPb3d4X29oekhFTk5Sd2hNaXVwVkN1TzZXYXIzSnhIOS1ibGdVS2xYZ1FRZ29MWXJ0WE9XRmNoYzdNcFh2dlQycG92RnRsY3JJVWI2RlpsWFVpX29ZSHZhX3NaUnZsQXcyOWxDOTV6NGg4ZkZDNmQzdmN1LVpuZGM3aw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabète</span>
+
+來源：[Creusot Infos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBDR1lWZHJGLVN6LXEwTDJHU29tWmxqc2xYVm5rQUp0UUpYLXAyUHZsR0hQdld4UnduY2lkNGwyU3Q0bVRQcTV0RTVEVHR1aUVPb3d4X29oekhFTk5Sd2hNaXVwVkN1TzZXYXIzSnhIOS1ibGdVS2xYZ1FRZ29MWXJ0WE9XRmNoYzdNcFh2dlQycG92RnRsY3JJVWI2RlpsWFVpX29ZSHZhX3NaUnZsQXcyOWxDOTV6NGg4ZkZDNmQzdmN1LVpuZGM3aw?oc=5)
+
+---
+
+### [Fortes chaleurs et diabète: «En quelques jours, j’ai perdu 5 kg»](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUt0V0xsRDEwekluRXJ5RVBmUF9IQ0xZNHlaV3UyOUJOSzVyMnhmUF9hajY2LUJOeUZLNUZSd3pmdEV0VU0wRlYwTUNWVlJlNFk4YkRGb1VVT3VmdlpVQVVpWEtCM0IzUDJ4Tlg3eHV4ZEZaX29oQ3otbmU4VFlzNlhLdWIxWHhkRlpEc2dwQ1dnX2xCcmlrYXdHVG01OGsyZVdMbVA5TXloaUhqclpsQWZNWHpuMlZMcjRB?oc=5)
 
 2026-06-01 <span class="news-indication-tag">diabète</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+來源：[L'essentiel](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUt0V0xsRDEwekluRXJ5RVBmUF9IQ0xZNHlaV3UyOUJOSzVyMnhmUF9hajY2LUJOeUZLNUZSd3pmdEV0VU0wRlYwTUNWVlJlNFk4YkRGb1VVT3VmdlpVQVVpWEtCM0IzUDJ4Tlg3eHV4ZEZaX29oQ3otbmU4VFlzNlhLdWIxWHhkRlpEc2dwQ1dnX2xCcmlrYXdHVG01OGsyZVdMbVA5TXloaUhqclpsQWZNWHpuMlZMcjRB?oc=5)
 
 ---
 
@@ -75,14 +107,6 @@ permalink: /news/semaglutide/
 2026-06-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
-
----
-
-### [Médicaments contre l'obésité bientôt remboursés : "Ils ont prouvé leur efficacité, j'ai perdu 35 kg en deux ans" - France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeWZ0ZUJYa1AwcFZOaEZTdnJPWVVFcXhyMWF4Z1RWQXFNdTZrRjMzcEpEX3pUQVk1d01rSWFxMHR6VGl5bGJIM0JBbVhuckNTUDFRV2dHM0dYVkhwNDdsNFV6dlRnVXVOSjBDSGZZeksyaU12cEs1NGpGa19FTWptb2dDSlpZN2ItMElnQjVMZ2JVd3NoUEZuS1c0WG9vck5iUmNXVG5qQzgtVEtOS196N3U5WExnVFZua1VOZ201Ui03a0piaWJnNEpHNnJUaktILTZCUG5hbkVxYzFDbl9ZNUVpNTZzVUhFN1QyOU50a1VxTHZCQVBIQU4xdmVuUGlidVEtOXlVOWROeDk3VG1NZVF1d0tvRFJ2bUs5LVp0dkVyUGJxcktrdkhtUQ?oc=5)
-
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeWZ0ZUJYa1AwcFZOaEZTdnJPWVVFcXhyMWF4Z1RWQXFNdTZrRjMzcEpEX3pUQVk1d01rSWFxMHR6VGl5bGJIM0JBbVhuckNTUDFRV2dHM0dYVkhwNDdsNFV6dlRnVXVOSjBDSGZZeksyaU12cEs1NGpGa19FTWptb2dDSlpZN2ItMElnQjVMZ2JVd3NoUEZuS1c0WG9vck5iUmNXVG5qQzgtVEtOS196N3U5WExnVFZua1VOZ201Ui03a0piaWJnNEpHNnJUaktILTZCUG5hbkVxYzFDbl9ZNUVpNTZzVUhFN1QyOU50a1VxTHZCQVBIQU4xdmVuUGlidVEtOXlVOWROeDk3VG1NZVF1d0tvRFJ2bUs5LVp0dkVyUGJxcktrdkhtUQ?oc=5)
 
 ---
 
@@ -115,22 +139,6 @@ permalink: /news/semaglutide/
 2026-05-31 <span class="news-indication-tag">diabetes</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnlUUGUxM1FCNWpOdkNpSWlIMHYtaVFEMlRUNVBvNXVEellUQVJQVzA1TGRoYkRKVS1XZTVudGRBWHFiakZJVjdScnJuVi01ZFBleUFpUTkzdUlGbjluSHBrZ1o3MFBBS2dYQ0R4b2hnazVKZEhPVk85MzN6V0k3bFE4UlFESnhJT253ZF80M2dkTzJlbzFkRzFCTzdJRUpabjJIb3ViRDlrbk9uYnV3MTFBTlY4Qm9hYi1vNVZ6dHljODRyS29UY25iWQ?oc=5)
-
----
-
-### [Man on ‘super Ozempic’ weight loss jab shares results after two years](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWlhQU09YZWlGbWhhSGUxTkxKZzJPZVg0OExvOGRqRUhoQmdGcm9MQmN6WjhpQlh1TFc0Ukw1S0NJdFN6V1p1N0k4NC12emJWTFpuT2FHcERPZFBHekFkTmN5R2Y0Q1Fud1lqaTllaThkTUlpV1Z5ejh3RjJ2NkprRmEyMVBLM094QllmR2d6ZGc0MnJrVFR2LU1ROUZ4QzhoNkE?oc=5)
-
-2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[ladbible.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWlhQU09YZWlGbWhhSGUxTkxKZzJPZVg0OExvOGRqRUhoQmdGcm9MQmN6WjhpQlh1TFc0Ukw1S0NJdFN6V1p1N0k4NC12emJWTFpuT2FHcERPZFBHekFkTmN5R2Y0Q1Fud1lqaTllaThkTUlpV1Z5ejh3RjJ2NkprRmEyMVBLM094QllmR2d6ZGc0MnJrVFR2LU1ROUZ4QzhoNkE?oc=5)
-
----
-
-### [Les médicaments anti-obésité ont aussi un effet contre le cancer, selon des chercheurs américains](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3dQbUs3UHY1V0NTdDJlUTJaSlNDWTdpYXM2TWhmZVlQZUpEWlBtckxGX2w1QnpYVFBhUmNfM0p1UHJfOVVKbW5ORnZCb1htdk1hQzBNRmktLW4xVDB3MUZfVTY3bF9DTk0wNjNGaFEtNDBJQXJUWXNRLTRraDhycWNTdTg1YndzeWlaOEl4MkQxWkQ3czJaS2pSUGZzM0hXdVlCQml4VjVFYkNjZE1fcE9Obm43LTIwQWlTdHczOWIyLWNDT3czRjVCQjUyazhWTHVXRjZ6MFhRRzVQbmRxVXJR?oc=5)
-
-2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3dQbUs3UHY1V0NTdDJlUTJaSlNDWTdpYXM2TWhmZVlQZUpEWlBtckxGX2w1QnpYVFBhUmNfM0p1UHJfOVVKbW5ORnZCb1htdk1hQzBNRmktLW4xVDB3MUZfVTY3bF9DTk0wNjNGaFEtNDBJQXJUWXNRLTRraDhycWNTdTg1YndzeWlaOEl4MkQxWkQ3czJaS2pSUGZzM0hXdVlCQml4VjVFYkNjZE1fcE9Obm43LTIwQWlTdHczOWIyLWNDT3czRjVCQjUyazhWTHVXRjZ6MFhRRzVQbmRxVXJR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Marcher ne suffit pas : une étude américaine souligne l'importance d'intégrer une activité complémentaire pour rester en forme - La Provence](https://news.google.com/rss/articles/CBMiigJBVV95cUxNR2duZ0NfV0hucUhmMDhpV0I1LTVYSHZPdm92amc5RElUTUdMRGg0X0FOWko3RmRJdlZqSHdINENKZ0NNWGhCRjVZS2ZWbTgxOHBhZkxGcUFGcXhZUXRYaVlQUWVaTDVUcHdFODU2R2MtY3ZDYmZTV0o3WUJoYk5oeGpKMzdEWFpWa2IzS2xNS285QkJFUWdLV2dCQnVQV1JxREktS0xmSVlhbU05bE1zUUE2OUJtVHozcTBLdzN4dGlvdFpReW9wVFNYcTJYUWR4OEVzbFBiVWVFQUNZU2Y5MU9XR2JlOEp1YzRKQ29qRk9raGRrMUgyMWFMREpXczhJMFRQT2lrTWhpUQ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">dépression</span>
+
+來源：[La Provence](https://news.google.com/rss/articles/CBMiigJBVV95cUxNR2duZ0NfV0hucUhmMDhpV0I1LTVYSHZPdm92amc5RElUTUdMRGg0X0FOWko3RmRJdlZqSHdINENKZ0NNWGhCRjVZS2ZWbTgxOHBhZkxGcUFGcXhZUXRYaVlQUWVaTDVUcHdFODU2R2MtY3ZDYmZTV0o3WUJoYk5oeGpKMzdEWFpWa2IzS2xNS285QkJFUWdLV2dCQnVQV1JxREktS0xmSVlhbU05bE1zUUE2OUJtVHozcTBLdzN4dGlvdFpReW9wVFNYcTJYUWR4OEVzbFBiVWVFQUNZU2Y5MU9XR2JlOEp1YzRKQ29qRk9raGRrMUgyMWFMREpXczhJMFRQT2lrTWhpUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

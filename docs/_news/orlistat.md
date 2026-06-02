@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Obesità severa, intervento record con il Robot Da Vinci: rimosso utero di quasi 4 chili - Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
+### [La obesidad deja huellas epigenéticas en el ADN de los niños](https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUVyUDZkVjhzdThzZWZ1WXRLWEhnMDJBTHlXakw4Z1F6dmVQSVRDNHlyMC12eGdjTmphbVNkWF9INzlaNzRWTnppQ0htdUNHdW9CZUpLVXBJeEhxWWRXZmprT0JmN05FZmZPSHdDTWRiTU9XdHVQOUNhNEJMUFoxaEdiY1NPSG5La21GbFBDb0V5eGVhSzhqbmRDN2k3dTBNM3UzcVNwOHVCNmZMQXZBamZMcTQwdjc5eXZjdEJXQm85VXdyVzk4dE5uVEtNeUXSAc8BQVVfeXFMTXRZUVRZOVZwMDBLcGp1NU1qeHBxS0JjYmh5Z2VMakZhbENyV21ib053OFpZaGsyU3dLdkp0c04xb1M3ampacTM3NllnUVRCbzdTMEdWTmZTY2cwQzBlaHMzTW9Ha1dqandNV0dpejNzMlcta3BxbTluam90dUdyeWRlX016a0NJUXFMYWNSMHFqdmdTOHBUWURIUmNhZ1dxa01kVXdSQTVkV3FWNEVSZVlRQnpQOFBxY1YtM1FEMDJMNVFpNTEwRS11UkpseTFF?oc=5)
 
-2026-06-01 <span class="news-indication-tag">obesità</span>
+2026-06-02 <span class="news-indication-tag">obesidad</span>
 
-來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
+來源：[LaSexta](https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUVyUDZkVjhzdThzZWZ1WXRLWEhnMDJBTHlXakw4Z1F6dmVQSVRDNHlyMC12eGdjTmphbVNkWF9INzlaNzRWTnppQ0htdUNHdW9CZUpLVXBJeEhxWWRXZmprT0JmN05FZmZPSHdDTWRiTU9XdHVQOUNhNEJMUFoxaEdiY1NPSG5La21GbFBDb0V5eGVhSzhqbmRDN2k3dTBNM3UzcVNwOHVCNmZMQXZBamZMcTQwdjc5eXZjdEJXQm85VXdyVzk4dE5uVEtNeUXSAc8BQVVfeXFMTXRZUVRZOVZwMDBLcGp1NU1qeHBxS0JjYmh5Z2VMakZhbENyV21ib053OFpZaGsyU3dLdkp0c04xb1M3ampacTM3NllnUVRCbzdTMEdWTmZTY2cwQzBlaHMzTW9Ha1dqandNV0dpejNzMlcta3BxbTluam90dUdyeWRlX016a0NJUXFMYWNSMHFqdmdTOHBUWURIUmNhZ1dxa01kVXdSQTVkV3FWNEVSZVlRQnpQOFBxY1YtM1FEMDJMNVFpNTEwRS11UkpseTFF?oc=5)
+
+---
+
+### [La obesidad deja huellas en el ADN infantil más allá de la propia genética, según un nuevo estudio - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOazJFQ1VUWWsyQkZhbTJDaGhPUlZZOXYzWTdpTkNzMTRDNkZ3dFZoYS1TV1RfUFdZS0Jwa0JLbDNtdlI2ZWtneXBLMzBlRWdZalJKN1MtN3NUU2o2OGs0XzU4WnlZYjMwYmI5Y2ZCMzBOSGw3WkVxZjZsOWlEVFhzU1U0VGhfVU5ONkN5ckE2cmdoMmNCNzFjTEItaUVzd3NVMlRTeWdjNzVXaVZzcm5PSVE5a3RQN1JlRXgwT2tSOGxueUVrNm9nQmRn?oc=5)
+
+2026-06-02 <span class="news-indication-tag">obesidad</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOazJFQ1VUWWsyQkZhbTJDaGhPUlZZOXYzWTdpTkNzMTRDNkZ3dFZoYS1TV1RfUFdZS0Jwa0JLbDNtdlI2ZWtneXBLMzBlRWdZalJKN1MtN3NUU2o2OGs0XzU4WnlZYjMwYmI5Y2ZCMzBOSGw3WkVxZjZsOWlEVFhzU1U0VGhfVU5ONkN5ckE2cmdoMmNCNzFjTEItaUVzd3NVMlRTeWdjNzVXaVZzcm5PSVE5a3RQN1JlRXgwT2tSOGxueUVrNm9nQmRn?oc=5)
+
+---
+
+### [Remboursement de Wegovy et Mounjaro dans l'obésité : les généralistes exclus pour des raisons financières, s'indigne MG France](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1VVY05YbVlDdmtSUk5lUlBrNjdoYlNBTk1PTTJ1cE5pYlFNcUduQjJSUFpJRUdlN3FyOHozSl9aT3ZYb0NMLVhBSXpIM0lKaTZqRW5QT0d6YXctX0VLSzVmOE5ZY3ZaZ0twWmk1M0J2SGJUSEY0Q3RPbkVMdHVibGtuaDc2dVZIeElFOFFZbDR1RnVHNi0wQWhDeU0wZFVZZWpLVFpNbk01N3dvMnhQVVNKVGsxV2tQdmc?oc=5)
+
+2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Egora](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1VVY05YbVlDdmtSUk5lUlBrNjdoYlNBTk1PTTJ1cE5pYlFNcUduQjJSUFpJRUdlN3FyOHozSl9aT3ZYb0NMLVhBSXpIM0lKaTZqRW5QT0d6YXctX0VLSzVmOE5ZY3ZaZ0twWmk1M0J2SGJUSEY0Q3RPbkVMdHVibGtuaDc2dVZIeElFOFFZbDR1RnVHNi0wQWhDeU0wZFVZZWpLVFpNbk01N3dvMnhQVVNKVGsxV2tQdmc?oc=5)
+
+---
+
+### [El abordaje de la obesidad pasa por romper con el estigma del 'comer menos y moverse más' - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQU9XQUM5YUhVMzNITkdYVGJXRkJxQURwbXpfVnl4emtSc3FRZ3FmUWswR2xVSTFFdDZCX0h3T1ZMNTFvOTdYc2tTQW54T1VxQUpqQXdMY1JoaEIxYUJNdjEzVWNJM0R5TGEtMG5zVU9USnBxb1UzUzM3UnVYZnBmV2xOTEhNSVhGa1RzMzJTV19DcXFQUWsyX0ppVzVNamlWMU1pLUtBUTc3aWxuTmhfQkRVRWQ3U2hoaVBMRFZuOWtDd9IBvAFBVV95cUxPOXI5MUFQbU5pSmpOYThoQkY4Y1U2anVnNzdDdThLNlA5eWtHOTJidW1FeUpDaFNneFFHMENuWFhuRFRaZnVKeUhEM3BlczRfUXZGN00zSXUtUEIzQlppWnFvbTUwSWNWNGVNa2YtSms2MHd5WC1ZZUpmYllYeFY1ZHJwMWRNY25lUWNKMFRHVzRkallQT0trRmhMd2prZzdacFhySHppa1NNdFR2MzByZVFvMTdFQ3ZzU2stVA?oc=5)
+
+2026-06-01 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQU9XQUM5YUhVMzNITkdYVGJXRkJxQURwbXpfVnl4emtSc3FRZ3FmUWswR2xVSTFFdDZCX0h3T1ZMNTFvOTdYc2tTQW54T1VxQUpqQXdMY1JoaEIxYUJNdjEzVWNJM0R5TGEtMG5zVU9USnBxb1UzUzM3UnVYZnBmV2xOTEhNSVhGa1RzMzJTV19DcXFQUWsyX0ppVzVNamlWMU1pLUtBUTc3aWxuTmhfQkRVRWQ3U2hoaVBMRFZuOWtDd9IBvAFBVV95cUxPOXI5MUFQbU5pSmpOYThoQkY4Y1U2anVnNzdDdThLNlA5eWtHOTJidW1FeUpDaFNneFFHMENuWFhuRFRaZnVKeUhEM3BlczRfUXZGN00zSXUtUEIzQlppWnFvbTUwSWNWNGVNa2YtSms2MHd5WC1ZZUpmYllYeFY1ZHJwMWRNY25lUWNKMFRHVzRkallQT0trRmhMd2prZzdacFhySHppa1NNdFR2MzByZVFvMTdFQ3ZzU2stVA?oc=5)
 
 ---
 
@@ -70,51 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [La Fundación Jiménez Díaz plantea un abordaje total de la obesidad: mucho más allá que la suma de calorías](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
-
-2026-06-01 <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
-
----
-
-### [Médicaments contre l'obésité bientôt remboursés : "Ils ont prouvé leur efficacité, j'ai perdu 35 kg en deux ans" - France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeWZ0ZUJYa1AwcFZOaEZTdnJPWVVFcXhyMWF4Z1RWQXFNdTZrRjMzcEpEX3pUQVk1d01rSWFxMHR6VGl5bGJIM0JBbVhuckNTUDFRV2dHM0dYVkhwNDdsNFV6dlRnVXVOSjBDSGZZeksyaU12cEs1NGpGa19FTWptb2dDSlpZN2ItMElnQjVMZ2JVd3NoUEZuS1c0WG9vck5iUmNXVG5qQzgtVEtOS196N3U5WExnVFZua1VOZ201Ui03a0piaWJnNEpHNnJUaktILTZCUG5hbkVxYzFDbl9ZNUVpNTZzVUhFN1QyOU50a1VxTHZCQVBIQU4xdmVuUGlidVEtOXlVOWROeDk3VG1NZVF1d0tvRFJ2bUs5LVp0dkVyUGJxcktrdkhtUQ?oc=5)
-
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeWZ0ZUJYa1AwcFZOaEZTdnJPWVVFcXhyMWF4Z1RWQXFNdTZrRjMzcEpEX3pUQVk1d01rSWFxMHR6VGl5bGJIM0JBbVhuckNTUDFRV2dHM0dYVkhwNDdsNFV6dlRnVXVOSjBDSGZZeksyaU12cEs1NGpGa19FTWptb2dDSlpZN2ItMElnQjVMZ2JVd3NoUEZuS1c0WG9vck5iUmNXVG5qQzgtVEtOS196N3U5WExnVFZua1VOZ201Ui03a0piaWJnNEpHNnJUaktILTZCUG5hbkVxYzFDbl9ZNUVpNTZzVUhFN1QyOU50a1VxTHZCQVBIQU4xdmVuUGlidVEtOXlVOWROeDk3VG1NZVF1d0tvRFJ2bUs5LVp0dkVyUGJxcktrdkhtUQ?oc=5)
-
----
-
 ### [Why Do Humans Snore? An Evolutionary Biologist Explains What’s Happening To Your Airway](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
 
 2026-05-31 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Forbes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
-
----
-
-### [Fumo e sigarette elettroniche, i rischi spiegati dagli esperti: cosa dice Maurizio Varese - Il Tirreno](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMC0xRGZsTVFVdDlPNXYwUGFfSDF4cEZHTklENmVHYUtzUzY2aDFVV2dycUdSV09hS2pzQ0M1aXZEcmdHRVlaT25iUnFiMW1CYUN2X1lpQTZMT2hycDB4VjhzMDV4UEdtSFVOTDdNYnlRcHVDeGFnaVhSWXhwSzBhaEVSX3E2UTN0aVJWX0lnWWZUMldiZHpOS3N6NWxtZHVEQkowOWFYUFpubkdRbGlEakh5aWp2bnRFaXNxTXB2YVNMWDhRRGliSjFvU0hPSlItUDJsTmhfN01hMW9mbzNIZWdR?oc=5)
-
-2026-05-31 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMC0xRGZsTVFVdDlPNXYwUGFfSDF4cEZHTklENmVHYUtzUzY2aDFVV2dycUdSV09hS2pzQ0M1aXZEcmdHRVlaT25iUnFiMW1CYUN2X1lpQTZMT2hycDB4VjhzMDV4UEdtSFVOTDdNYnlRcHVDeGFnaVhSWXhwSzBhaEVSX3E2UTN0aVJWX0lnWWZUMldiZHpOS3N6NWxtZHVEQkowOWFYUFpubkdRbGlEakh5aWp2bnRFaXNxTXB2YVNMWDhRRGliSjFvU0hPSlItUDJsTmhfN01hMW9mbzNIZWdR?oc=5)
-
----
-
-### [Les médicaments anti-obésité ont aussi un effet contre le cancer, selon des chercheurs américains](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3dQbUs3UHY1V0NTdDJlUTJaSlNDWTdpYXM2TWhmZVlQZUpEWlBtckxGX2w1QnpYVFBhUmNfM0p1UHJfOVVKbW5ORnZCb1htdk1hQzBNRmktLW4xVDB3MUZfVTY3bF9DTk0wNjNGaFEtNDBJQXJUWXNRLTRraDhycWNTdTg1YndzeWlaOEl4MkQxWkQ3czJaS2pSUGZzM0hXdVlCQml4VjVFYkNjZE1fcE9Obm43LTIwQWlTdHczOWIyLWNDT3czRjVCQjUyazhWTHVXRjZ6MFhRRzVQbmRxVXJR?oc=5)
-
-2026-05-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM3dQbUs3UHY1V0NTdDJlUTJaSlNDWTdpYXM2TWhmZVlQZUpEWlBtckxGX2w1QnpYVFBhUmNfM0p1UHJfOVVKbW5ORnZCb1htdk1hQzBNRmktLW4xVDB3MUZfVTY3bF9DTk0wNjNGaFEtNDBJQXJUWXNRLTRraDhycWNTdTg1YndzeWlaOEl4MkQxWkQ3czJaS2pSUGZzM0hXdVlCQml4VjVFYkNjZE1fcE9Obm43LTIwQWlTdHczOWIyLWNDT3czRjVCQjUyazhWTHVXRjZ6MFhRRzVQbmRxVXJR?oc=5)
-
----
-
-### [Bluthochdruck: Niedrig dosierte Kombinationen erreichen 66% Erfolg - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFpmNlBCYjFTSWs2WV9UUFBQV2JqMEoySDUxYVU5OWdLcV9BVEdna0pCZWhsa1BOalJkX0U2RGZfRzd1ampLLW4zY3JZSHBGaDhyYUhmS0s1V1ktX1htVGE3NGJHMUJpWURMV3g0MW05Vlk4WnJ1OUdIQmljVEZLbm9uS3gtdUZCX3hoeE85SzVrUERFVVZseUtvMW94ZEVCMEdIN2ZfVHlZZ2k3MEVUUWRYRGpfc05hMVBlaWRn?oc=5)
-
-2026-05-31 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFpmNlBCYjFTSWs2WV9UUFBQV2JqMEoySDUxYVU5OWdLcV9BVEdna0pCZWhsa1BOalJkX0U2RGZfRzd1ampLLW4zY3JZSHBGaDhyYUhmS0s1V1ktX1htVGE3NGJHMUJpWURMV3g0MW05Vlk4WnJ1OUdIQmljVEZLbm9uS3gtdUZCX3hoeE85SzVrUERFVVZseUtvMW94ZEVCMEdIN2ZfVHlZZ2k3MEVUUWRYRGpfc05hMVBlaWRn?oc=5)
 
 ---
 

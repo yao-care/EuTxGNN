@@ -14,7 +14,7 @@ permalink: /news/insulin-aspart/
 ---
 
 <p class="key-answer" data-question="Insulin Aspart 有什麼相關新聞？">
-<strong>Insulin Aspart</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Aspart</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/insulin-aspart/
 <p><a href="{{ '/drugs/insulin-aspart/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
 
-### [« C’est dramatique » : diabète de type 2, infarctus… Les jeunes ont de plus en plus « des maladies de vieux » - Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+### [Il magnesio aiuta a prevenire il diabete? - Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabete</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
+
+---
+
+### ["Nos enfants ont des maladies de vieux" : les experts alertent sur les ravages de la sédentarité chez les plus jeunes - Midi Libre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSnFHNGs4b2hrcGFIQW1VX1psTlN3TmlGdGNjT3JYWTlCVTZUU1lka3pxd1hLbTBRQ1prNGNDOUVLbjdHZ3F6VC1CanpNT1VORlJjZTVmSDFrRDkweUhBeGVQeWFlSk1vWUZFMEtyYkp2SzJQTkpVX3dDeXQtVUM0R2RZcVJNaU5wMkp4Si1qWUlWX0JNd2FMZkE2ck01bW1FeEJodFZEZUlDU2M0ajh2TTlGazdUY05WNmVaako3OENzRVhKOEtidjMtUUNENUs2MjZJaE03dzZhNXJ3aGZwVTdMRmtMOHZZdTAyajl0RTJSaHR3?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabète</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSnFHNGs4b2hrcGFIQW1VX1psTlN3TmlGdGNjT3JYWTlCVTZUU1lka3pxd1hLbTBRQ1prNGNDOUVLbjdHZ3F6VC1CanpNT1VORlJjZTVmSDFrRDkweUhBeGVQeWFlSk1vWUZFMEtyYkp2SzJQTkpVX3dDeXQtVUM0R2RZcVJNaU5wMkp4Si1qWUlWX0JNd2FMZkE2ck01bW1FeEJodFZEZUlDU2M0ajh2TTlGazdUY05WNmVaako3OENzRVhKOEtidjMtUUNENUs2MjZJaE03dzZhNXJ3aGZwVTdMRmtMOHZZdTAyajl0RTJSaHR3?oc=5)
+
+---
+
+### [MONTCHANIN : Le diabète, un problème majeur de santé publique - Creusot Infos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBDR1lWZHJGLVN6LXEwTDJHU29tWmxqc2xYVm5rQUp0UUpYLXAyUHZsR0hQdld4UnduY2lkNGwyU3Q0bVRQcTV0RTVEVHR1aUVPb3d4X29oekhFTk5Sd2hNaXVwVkN1TzZXYXIzSnhIOS1ibGdVS2xYZ1FRZ29MWXJ0WE9XRmNoYzdNcFh2dlQycG92RnRsY3JJVWI2RlpsWFVpX29ZSHZhX3NaUnZsQXcyOWxDOTV6NGg4ZkZDNmQzdmN1LVpuZGM3aw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabète</span>
+
+來源：[Creusot Infos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBDR1lWZHJGLVN6LXEwTDJHU29tWmxqc2xYVm5rQUp0UUpYLXAyUHZsR0hQdld4UnduY2lkNGwyU3Q0bVRQcTV0RTVEVHR1aUVPb3d4X29oekhFTk5Sd2hNaXVwVkN1TzZXYXIzSnhIOS1ibGdVS2xYZ1FRZ29MWXJ0WE9XRmNoYzdNcFh2dlQycG92RnRsY3JJVWI2RlpsWFVpX29ZSHZhX3NaUnZsQXcyOWxDOTV6NGg4ZkZDNmQzdmN1LVpuZGM3aw?oc=5)
+
+---
+
+### [Fortes chaleurs et diabète: «En quelques jours, j’ai perdu 5 kg»](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUt0V0xsRDEwekluRXJ5RVBmUF9IQ0xZNHlaV3UyOUJOSzVyMnhmUF9hajY2LUJOeUZLNUZSd3pmdEV0VU0wRlYwTUNWVlJlNFk4YkRGb1VVT3VmdlpVQVVpWEtCM0IzUDJ4Tlg3eHV4ZEZaX29oQ3otbmU4VFlzNlhLdWIxWHhkRlpEc2dwQ1dnX2xCcmlrYXdHVG01OGsyZVdMbVA5TXloaUhqclpsQWZNWHpuMlZMcjRB?oc=5)
 
 2026-06-01 <span class="news-indication-tag">diabète</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
+來源：[L'essentiel](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUt0V0xsRDEwekluRXJ5RVBmUF9IQ0xZNHlaV3UyOUJOSzVyMnhmUF9hajY2LUJOeUZLNUZSd3pmdEV0VU0wRlYwTUNWVlJlNFk4YkRGb1VVT3VmdlpVQVVpWEtCM0IzUDJ4Tlg3eHV4ZEZaX29oQ3otbmU4VFlzNlhLdWIxWHhkRlpEc2dwQ1dnX2xCcmlrYXdHVG01OGsyZVdMbVA5TXloaUhqclpsQWZNWHpuMlZMcjRB?oc=5)
 
 ---
 
