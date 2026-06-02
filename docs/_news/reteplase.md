@@ -54,11 +54,11 @@ permalink: /news/reteplase/
 
 ## 相關新聞（1 則）
 
-### [Why Do Humans Snore? An Evolutionary Biologist Explains What’s Happening To Your Airway](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
+### [Herzerkrankungen: 99% vermeidbar – Gen-Editing, Medikamente und Prävention im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
 
-2026-05-31 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
+2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Forbes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFqOXdwSGthR2t5SzU2Uko3dlpnWEtnOFYzUjJPaTVSMFhtS1M0a3NaSmpWVlF3Q3NnajJUc3Y1aGlHTXQzNnEyME1rMG9UQWlSd3J5aExrWm9tTGtDaGVfT0ljcUhScjZhV0o2SXJ6X0tuVGZrX1FPQ3JrNlBIYTRPaUgycEtrSnlOaU14c21XVXNjV1JJNEVyYkpxOEtQTFNERWt4QjFudTEySlY5c1pWVU9hbVRobjRfckNYMW12eFZIbGNNWGJEdk1JbXRsQVNkTm53?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
 
 ---
 

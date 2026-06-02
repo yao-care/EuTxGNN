@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [I've donated part of my brain to help find a cure for dementia](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdEhtSzZRdTQtdlNvbk1hOFlITWJlX19odXA5cWViVHRmWDk2YnBnZ2RENXJjS0VCSGdfNTVLWEZWeWdjaU1zY0diU1dyUHFtV1Y2WkI5SHFocTNh?oc=5)
 
 2026-06-01 <span class="news-indication-tag">dementia</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdEhtSzZRdTQtdlNvbk1hOFlITWJlX19odXA5cWViVHRmWDk2YnBnZ2RENXJjS0VCSGdfNTVLWEZWeWdjaU1zY0diU1dyUHFtV1Y2WkI5SHFocTNh?oc=5)
+
+---
+
+### [Fitness coach offers free exercise for Parkinson's](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fY1hSOS1DbEZXY09yT09uWDZ1SUZfZlB6ZnNudjVXUXMtQkVGNDNsRnE1RTVfT0g3LTJzRk1FSGVSZjF2aTkxeTFpTmVKTUxmS2M5OUdvTzJ0dmNu?oc=5)
+
+2026-06-01 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fY1hSOS1DbEZXY09yT09uWDZ1SUZfZlB6ZnNudjVXUXMtQkVGNDNsRnE1RTVfT0g3LTJzRk1FSGVSZjF2aTkxeTFpTmVKTUxmS2M5OUdvTzJ0dmNu?oc=5)
 
 ---
 

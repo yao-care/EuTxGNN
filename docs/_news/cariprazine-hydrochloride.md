@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [You Just Found Out You Have Chronic Kidney Disease—This Is What Experts Recommend You Do First](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5)
+
+2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">chronic kidney disease</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5)
+
+---
 
 ### [Multiple-Sklerose-Therapie: Studie zeigt Fortschritte bei der MS-Behandlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXgzaTJKdTlJWUFieFhlLWtLeWExd1FJOXZXaW1wQWQxbEdDYzRoOXVrZktUNkdYRG85dDVxcTJBbTZDTXFDVnczdm1mVDNKaDBhSlcycFJyU1o0UjN6T25tNGcyWVFwbUhIRW1CYVNIYkd3cnhMS1FKVl9EVXJlUEU0QmtldjBON0I0QkpTaWpoeHFHMzZHRnNtWnZwdUg2cUZJTlJVTEhVZjFkcHRsVmFaYUVxOVAtZ3kyTUdBcS1IUFU2RHZoNDNWYWc?oc=5)
 
@@ -62,35 +70,35 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [David Samson, antropólogo: “Los humanos pasamos por un experimento evolutivo radical. Somos los primates que menos duermen” - EL PAÍS](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUXNITGxuMVludHd5bDlyQ095ODE3bkVrdGZzRVpveUEySU1XNlNtQUxCR1R2SVVwNms1N0lEOHdwNEl4NUZ1UUk2LTVLcjFFbHNoWnhlcWlMY1Z1UG9kZkpWRjFsNE5fenljR2YwYk5IOUtVM3VxYzRoTGMtZ2tJZmlHMWs3elU3c1JxX2x4amh5N0tfazQ2UkZCR1BOSnROaXVOOUp3clJYV1JWd24zR2I5TnFzdlJmUjI1Y3Y2dkpwLUZOZjNYa2pILVVuS0VRbzllWFZTU0hXWkFXQi1fTDI4cVRORUc1VzMzQUs1YXBmRjB4bTcwMlh2ZFJYb0pC0gGUAkFVX3lxTE5oTGtfZ3pOb0ZCY09RUUtfcVVYbG5RdVZCNUY0eFVULWFUZWo1SDZBV1FhNFpaOW51RWpLcmtYVHZLZ1NhQmo5U2JyczBjbDlzT2kwVFRGRlFXZnE2WkFoTlRoM0VkYXN2ZklxdHpBN0NkNi1hQTMwTWxlbjAxOHBOOTBXQjB1cEhlRmotZEF4cG9pWTgwQTB5WWREeVI5aTdkWXNydkQ0bmtValJ4aTFGcnhaTW94Ry0xYXpLR1RycDNnOVpadW83OVVVMVVlczhlUlk3MVVNRTdaX3N5dnhCRjc2RzVnWG1VYk1USk1OTEUwbDhxdFhXTjNmSm5nZE9vUl8wcWdWWVM1WDBIVWdNZFhZTg?oc=5)
+### [Nasenspray gegen die Alterung des Gehirns?](https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1FoX1VlN3pJeVN3WjNiTld6NE9kN2hnZnQybEl3dUpGbWhkbkpjZmxib3RrMTgwdXJjY21BV2ZoQ2pzU3YySEhvSi1Zb2RLeUFWUkpaQVYtZHR0R0xMdjQ3MUsydXFUZkluOHNRdHlwRnc3c2U4WkswZm5HRTdRSkJUMDYwdFVpVzNDTUhSWE43UQ?oc=5)
 
 2026-06-02 <span class="news-indication-tag">MS</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUXNITGxuMVludHd5bDlyQ095ODE3bkVrdGZzRVpveUEySU1XNlNtQUxCR1R2SVVwNms1N0lEOHdwNEl4NUZ1UUk2LTVLcjFFbHNoWnhlcWlMY1Z1UG9kZkpWRjFsNE5fenljR2YwYk5IOUtVM3VxYzRoTGMtZ2tJZmlHMWs3elU3c1JxX2x4amh5N0tfazQ2UkZCR1BOSnROaXVOOUp3clJYV1JWd24zR2I5TnFzdlJmUjI1Y3Y2dkpwLUZOZjNYa2pILVVuS0VRbzllWFZTU0hXWkFXQi1fTDI4cVRORUc1VzMzQUs1YXBmRjB4bTcwMlh2ZFJYb0pC0gGUAkFVX3lxTE5oTGtfZ3pOb0ZCY09RUUtfcVVYbG5RdVZCNUY0eFVULWFUZWo1SDZBV1FhNFpaOW51RWpLcmtYVHZLZ1NhQmo5U2JyczBjbDlzT2kwVFRGRlFXZnE2WkFoTlRoM0VkYXN2ZklxdHpBN0NkNi1hQTMwTWxlbjAxOHBOOTBXQjB1cEhlRmotZEF4cG9pWTgwQTB5WWREeVI5aTdkWXNydkQ0bmtValJ4aTFGcnhaTW94Ry0xYXpLR1RycDNnOVpadW83OVVVMVVlczhlUlk3MVVNRTdaX3N5dnhCRjc2RzVnWG1VYk1USk1OTEUwbDhxdFhXTjNmSm5nZE9vUl8wcWdWWVM1WDBIVWdNZFhZTg?oc=5)
+來源：[Telepolis](https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1FoX1VlN3pJeVN3WjNiTld6NE9kN2hnZnQybEl3dUpGbWhkbkpjZmxib3RrMTgwdXJjY21BV2ZoQ2pzU3YySEhvSi1Zb2RLeUFWUkpaQVYtZHR0R0xMdjQ3MUsydXFUZkluOHNRdHlwRnc3c2U4WkswZm5HRTdRSkJUMDYwdFVpVzNDTUhSWE43UQ?oc=5)
 
 ---
 
-### [Women, do blame your hormones — they’re affecting your health - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmgzWEtzRXF1a0F3VTJDdURIT1dlRndvdW9HZTZyVzItVElxellaRDhoVjBYLU1vNUh2RnV4Z0F0NzFBcFR0V2V5N29nWk5wZmtpNTRSTE01MFZUZkgyeEM1RzJqVFlXX2VldE1VN3Rianc5bnM2UEt2OEU5Wm81MEtNbGhUSndjbmtkeUtRcHRldmxvZFE2NWJ1clJ1NFNJSnpFSEJMdndTakFfQWZpNkx5MVhKNUVkeEV3aQ?oc=5)
+### [Cancer sufferer Amanda's desperate bid to fund new treatment against 'ticking timebomb' - Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWZ0ckZZWG43THpESkgyV21tWEJodllvTTRoVmp4N2NIOUJud0xXVEtKaUZKQUdDNlBRM0FDWFBOTDBIREw3UkplbEppclM4NUxFTUFaQUo2eUQzdTVzOUlBMEJ4Wm8zd29oNkJxTFdJSGpkQUhmbDljaGRoM0ZvTkVLLXprOW85Vjd1QVFzTTRxT1NiWjV4U9IBngFBVV95cUxQWGZJQlc1OF9IVU5GcGl1RlI1RVhfS1lQd1h5TTRoX0I1SFdMYm14dTNUUU10eC1CTDNneUNrVVF0enh2aDd1Z1hjTDlzaU03T3NNWnVyelFqdVlwLU5WdUVxMHhtN1VIekhzUFlCam53eWx6M2RJekVFSE5fbGdfR2pFaE5xNGdTbkNJZFgzM3J4bnFWSFdmX1ZDelNXUQ?oc=5)
 
-2026-06-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmgzWEtzRXF1a0F3VTJDdURIT1dlRndvdW9HZTZyVzItVElxellaRDhoVjBYLU1vNUh2RnV4Z0F0NzFBcFR0V2V5N29nWk5wZmtpNTRSTE01MFZUZkgyeEM1RzJqVFlXX2VldE1VN3Rianc5bnM2UEt2OEU5Wm81MEtNbGhUSndjbmtkeUtRcHRldmxvZFE2NWJ1clJ1NFNJSnpFSEJMdndTakFfQWZpNkx5MVhKNUVkeEV3aQ?oc=5)
+來源：[Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWZ0ckZZWG43THpESkgyV21tWEJodllvTTRoVmp4N2NIOUJud0xXVEtKaUZKQUdDNlBRM0FDWFBOTDBIREw3UkplbEppclM4NUxFTUFaQUo2eUQzdTVzOUlBMEJ4Wm8zd29oNkJxTFdJSGpkQUhmbDljaGRoM0ZvTkVLLXprOW85Vjd1QVFzTTRxT1NiWjV4U9IBngFBVV95cUxQWGZJQlc1OF9IVU5GcGl1RlI1RVhfS1lQd1h5TTRoX0I1SFdMYm14dTNUUU10eC1CTDNneUNrVVF0enh2aDd1Z1hjTDlzaU03T3NNWnVyelFqdVlwLU5WdUVxMHhtN1VIekhzUFlCam53eWx6M2RJekVFSE5fbGdfR2pFaE5xNGdTbkNJZFgzM3J4bnFWSFdmX1ZDelNXUQ?oc=5)
 
 ---
 
-### [How long can humans live? We simply don’t know](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93QW1ma3doaDRKdmVxd2JvWnloOVpuMHc1Qm1OcERNZ1JkWTg3V21kMEdESkpXZ0tMMjd4YVlDUTQ1OHI4cWtwVmZwY2VQWm4wa3YtTDRiNlNjRlJycm5J?oc=5)
+### [MS: 15 Minuten Training, neue Diagnostik und der Weg zu NEDA - it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlJQLUlSdzUzYkxYMk1YbHhaUDZvVmU1VDdpS0ktU2hzdHhjeTNuREpJcWJYTXBPNEEwT3hxYzBCb3Nqc0pic3RjVks3TmRWYjA2MS16MDRtb2x2YnUwT0FVUlFDc24wUFduc2tkeTV1Z1JjMzl2SVc1RXppUEstb2pZaDVadGJxN2FVdlBPTnZ2ZHRy?oc=5)
 
 2026-06-01 <span class="news-indication-tag">MS</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93QW1ma3doaDRKdmVxd2JvWnloOVpuMHc1Qm1OcERNZ1JkWTg3V21kMEdESkpXZ0tMMjd4YVlDUTQ1OHI4cWtwVmZwY2VQWm4wa3YtTDRiNlNjRlJycm5J?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlJQLUlSdzUzYkxYMk1YbHhaUDZvVmU1VDdpS0ktU2hzdHhjeTNuREpJcWJYTXBPNEEwT3hxYzBCb3Nqc0pic3RjVks3TmRWYjA2MS16MDRtb2x2YnUwT0FVUlFDc24wUFduc2tkeTV1Z1JjMzl2SVc1RXppUEstb2pZaDVadGJxN2FVdlBPTnZ2ZHRy?oc=5)
 
 ---
 
-### [Sanofi apuesta por la neuroinflamación crónica y los biomarcadores para frenar la EM - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1dGSVU3T1NmbHBjOHJzQTNEbFYzVHFIOHY3aUFBSElQWXlJS0xrejFlRTNlbV91YmZqam1jcEFaeHFvcXhUWGt0Mks1X3V2WEdjeGN3ejgweDM4QjREOFVnNTJxOW9OMEU3VjdBbVVfYXBENmZ3RnhmWHZkVHB3elRidEV4TE5oYTg0eTBZUHMwTFctR3ZKLVJYRmU1UGFpSzBBVWhkS045ZFhTZDdrRDFOTEV1Wm5QLWc2M2tXZXbSAbsBQVVfeXFMTklIaWNBdzBDeXpGVWRhS0NYYzExbmh1T2pQdWxmT2U2N3VqcG9tZlRpRHRTVG1zQzJtRWZaVlFXRm1ESUJCUGFlYTNmX3FZTk9ZaG4tcmVsSDF3RWJjdHJnUEc3Z1J1TzJrVXdzSDdTVl9JYUpzRnQxOU5hRWdVem93RjRNTHAwaXN5Wlgwc0QwOUVEYzczSE9zSEpEVWdSX25OcnNTTFFOWFRZRUhxVFVWd3pQYnA1TEwwdw?oc=5)
+### [Herzerkrankungen: 99% vermeidbar – Gen-Editing, Medikamente und Prävention im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
 
-2026-06-01 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">esclerosis múltiple</span>
+2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1dGSVU3T1NmbHBjOHJzQTNEbFYzVHFIOHY3aUFBSElQWXlJS0xrejFlRTNlbV91YmZqam1jcEFaeHFvcXhUWGt0Mks1X3V2WEdjeGN3ejgweDM4QjREOFVnNTJxOW9OMEU3VjdBbVVfYXBENmZ3RnhmWHZkVHB3elRidEV4TE5oYTg0eTBZUHMwTFctR3ZKLVJYRmU1UGFpSzBBVWhkS045ZFhTZDdrRDFOTEV1Wm5QLWc2M2tXZXbSAbsBQVVfeXFMTklIaWNBdzBDeXpGVWRhS0NYYzExbmh1T2pQdWxmT2U2N3VqcG9tZlRpRHRTVG1zQzJtRWZaVlFXRm1ESUJCUGFlYTNmX3FZTk9ZaG4tcmVsSDF3RWJjdHJnUEc3Z1J1TzJrVXdzSDdTVl9JYUpzRnQxOU5hRWdVem93RjRNTHAwaXN5Wlgwc0QwOUVEYzczSE9zSEpEVWdSX25OcnNTTFFOWFRZRUhxVFVWd3pQYnA1TEwwdw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
 
 ---
 
@@ -110,11 +118,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Multiple Sklerose: Acht Blut-Proteine verraten Krankheit Jahre früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUZUZzhYYTF5eU84a0JmVmE2TlBuUXFBRTV6OTU5bUpKNEhqTlFwZGlpZ09palpxWkRDYmkyeWZpRjhXWTZmMlBidWdrWTNFOUplVG0yQ2ZHOG5PRGtIeW9QeDhORkNjaFFRU3N1azNkRVU4ejJKOEd1bTljZ2IxVWtOVzZSTlNVZjBpTXFhWFM0VnVXMVVhTnVDeEh0dUE1dG93UWFyVklyUnFubWp2a0FXaDVmTEk?oc=5)
+### [Ebola, 43 morti e 263 casi confermati in Congo e Uganda - Sky TG24](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHdaUXdkb2syNGhlSmwxUUZqNDF3SEVLX0xzQkdGVEJzdWd4ZE02cFhiRW1WMExOT1d1REVUY3dEY2ZWaWF3M3pRYzFjWS1ueUIyZGlfdWlvYzNiX3ZibXdfeEM3MUFreFg1MWNCelMtM3pmTGF6bUJxNklGWm5EcloyMFNWUQ?oc=5)
 
 2026-05-31 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUZUZzhYYTF5eU84a0JmVmE2TlBuUXFBRTV6OTU5bUpKNEhqTlFwZGlpZ09palpxWkRDYmkyeWZpRjhXWTZmMlBidWdrWTNFOUplVG0yQ2ZHOG5PRGtIeW9QeDhORkNjaFFRU3N1azNkRVU4ejJKOEd1bTljZ2IxVWtOVzZSTlNVZjBpTXFhWFM0VnVXMVVhTnVDeEh0dUE1dG93UWFyVklyUnFubWp2a0FXaDVmTEk?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHdaUXdkb2syNGhlSmwxUUZqNDF3SEVLX0xzQkdGVEJzdWd4ZE02cFhiRW1WMExOT1d1REVUY3dEY2ZWaWF3M3pRYzFjWS1ueUIyZGlfdWlvYzNiX3ZibXdfeEM3MUFreFg1MWNCelMtM3pmTGF6bUJxNklGWm5EcloyMFNWUQ?oc=5)
 
 ---
 

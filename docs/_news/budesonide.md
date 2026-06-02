@@ -43,7 +43,7 @@ permalink: /news/budesonide/
 <li>polyp of ureter（99.7%）</li>
 <li>neoplastic polyp（99.7%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.6%）</li>
-<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asma</span></li>
+<li>asthma（99.5%）</li>
 <li>Crohn's colitis（99.3%）</li>
 <li>inflammatory bowel disease（99.2%）</li>
 <li>anus disease（99.0%）</li>
@@ -54,11 +54,11 @@ permalink: /news/budesonide/
 
 ## 相關新聞（1 則）
 
-### [Mikroprotein SMIM26 steuert den Stoffwechsel zwischen Mitochondrien und Cytoplasma - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVJiNW8xRkM0N3BMLUFlbXp2V1JkVl9Lc0JHclpBWkpRdXY4UlRjbkFiYnZhQl9LUXlXZkhpQV9qTW54V2ZwZ3I1blZfeXNOR0Q2TkR6eU5UYTZvdURFbWpWMVgyTk1vQzlsTlN6cUZucU04bWdFWEM5bHk1bl8wREtIcUp2b011SzJOQjY2MTNWU1pEMG9EWlBEOEctU3pydlRWN1c3ZnlsdUpfQXRBSEpLd1Y?oc=5)
+### [COPD verkürzt Lebenserwartung – auch bei Nichtrauchern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3A3T3BRQ05pb0E0NTRoVEtMLXd1bE5pUW1Dc1FlRWpQVWczYmlzSkcxUkc1Z0ZNVk1ZbEJuMVFUbHJkQmFYR24ycnBIS3RNVHoteEk2YlJTOGg2ckpkRDl5aHFhemxrRUtROEc3dzJ3NmRmQldkclR4ZS1tMUpjdnV6dDVsSl95c2p4ZUh1YTFyMzhyU00yRTFyNVY2Wmg5aUxlbFphQWNpeUQ0c21pOENWc0RFUWc5QkNuUUdR?oc=5)
 
-2026-05-31 <span class="news-indication-tag">asma</span>
+2026-06-02 <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVJiNW8xRkM0N3BMLUFlbXp2V1JkVl9Lc0JHclpBWkpRdXY4UlRjbkFiYnZhQl9LUXlXZkhpQV9qTW54V2ZwZ3I1blZfeXNOR0Q2TkR6eU5UYTZvdURFbWpWMVgyTk1vQzlsTlN6cUZucU04bWdFWEM5bHk1bl8wREtIcUp2b011SzJOQjY2MTNWU1pEMG9EWlBEOEctU3pydlRWN1c3ZnlsdUpfQXRBSEpLd1Y?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3A3T3BRQ05pb0E0NTRoVEtMLXd1bE5pUW1Dc1FlRWpQVWczYmlzSkcxUkc1Z0ZNVk1ZbEJuMVFUbHJkQmFYR24ycnBIS3RNVHoteEk2YlJTOGg2ckpkRDl5aHFhemxrRUtROEc3dzJ3NmRmQldkclR4ZS1tMUpjdnV6dDVsSl95c2p4ZUh1YTFyMzhyU00yRTFyNVY2Wmg5aUxlbFphQWNpeUQ0c21pOENWc0RFUWc5QkNuUUdR?oc=5)
 
 ---
 
