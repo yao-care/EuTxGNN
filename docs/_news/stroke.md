@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（1 則）
 
-### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmY4emZ6UWJaVVI0QlI5Zk5KdlV5SnlGcml0dkx1Y29SMFV5OW1qTV9tbDhEcHFWY1NycTRCUWVUdTEwNEJzdEp0aWRBU1lrLW13bGc4aVFiXzliZDdBVUVZWDhOX1k4YWFmUVJZSzVyUF9QbG5EaWpoZ2pzdDQ3dm5nZUp5MWY5Wkhub2FzdkZ0RU50emh6VzlGcmhRRHZQMmJvSTlDY2hfX3VTMFdGQ0Y2ODQ5ZXhWRTZZOThadzRFZw?oc=5)
+### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 2026-06-02
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmY4emZ6UWJaVVI0QlI5Zk5KdlV5SnlGcml0dkx1Y29SMFV5OW1qTV9tbDhEcHFWY1NycTRCUWVUdTEwNEJzdEp0aWRBU1lrLW13bGc4aVFiXzliZDdBVUVZWDhOX1k4YWFmUVJZSzVyUF9QbG5EaWpoZ2pzdDQ3dm5nZUp5MWY5Wkhub2FzdkZ0RU50emh6VzlGcmhRRHZQMmJvSTlDY2hfX3VTMFdGQ0Y2ODQ5ZXhWRTZZOThadzRFZw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 ---
 

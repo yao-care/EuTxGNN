@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li>heart disease（96.3%）</li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,15 +52,9 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Herzerkrankungen: 99% vermeidbar – Gen-Editing, Medikamente und Prävention im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
-
-2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

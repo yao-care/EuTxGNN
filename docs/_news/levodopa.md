@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [“Once It’s Gone, It’s Gone”: The Silent Brain-Sapper Striking Millions of Postmenopausal Women - Bored Panda](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeldmRXNPc2NMLXpEa1lOaHRlRTBHb09aV3pKVEVxVWtYazBicFFTQ0xndG1iM29zQTZLc2FQQmtaX2pCWXQ4MmtHNzJlVkQ4MWtWbXl0aUlQMkxjSUNPb1A4Q2pYd2dyYW92MVlHV3RvbHB4LWpVdXVqREI2Z21Wck5DQWZiczR3T2wwaWJKRVZnMkE?oc=5)
+
+2026-06-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeldmRXNPc2NMLXpEa1lOaHRlRTBHb09aV3pKVEVxVWtYazBicFFTQ0xndG1iM29zQTZLc2FQQmtaX2pCWXQ4MmtHNzJlVkQ4MWtWbXl0aUlQMkxjSUNPb1A4Q2pYd2dyYW92MVlHV3RvbHB4LWpVdXVqREI2Z21Wck5DQWZiczR3T2wwaWJKRVZnMkE?oc=5)
+
+---
 
 ### [I've donated part of my brain to help find a cure for dementia](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdEhtSzZRdTQtdlNvbk1hOFlITWJlX19odXA5cWViVHRmWDk2YnBnZ2RENXJjS0VCSGdfNTVLWEZWeWdjaU1zY0diU1dyUHFtV1Y2WkI5SHFocTNh?oc=5)
 

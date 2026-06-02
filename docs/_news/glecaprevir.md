@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Blut-Proteine und GLP-1: Neue Ansätze für frühe MS- und Alzheimer-Erkennung - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWpSVzI0TDhvb3ZEc01ZdGpTNzNieG0tYmVqMFlDYjgxWVRjaVV2cDMyVjJYSHFfMWhTU0h6VlJDTzBTV3VrRXBxS3ZscDJQbEtsTlBvZ3RMMGc2UlJRc0E1ZjVGUFQ0Tk9YM1p2SDl3YTB5WlNENHhvbHRwUnl3X0ZfZkJEMVJQQlJVcWt1RUktMy0yNGJlazFrY1NwTWRSZUY4RnpEWjN3UzFH?oc=5)
+
+2026-06-02 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWpSVzI0TDhvb3ZEc01ZdGpTNzNieG0tYmVqMFlDYjgxWVRjaVV2cDMyVjJYSHFfMWhTU0h6VlJDTzBTV3VrRXBxS3ZscDJQbEtsTlBvZ3RMMGc2UlJRc0E1ZjVGUFQ0Tk9YM1p2SDl3YTB5WlNENHhvbHRwUnl3X0ZfZkJEMVJQQlJVcWt1RUktMy0yNGJlazFrY1NwTWRSZUY4RnpEWjN3UzFH?oc=5)
+
+---
+
+### [Abnehmspritzen gegen Demenz: Prävention klappt, Therapie scheitert - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFtdnNuMmZnR243cHR6a1ZHOU5qX1I3TjVwbGlNVEF1X2RqTV9lSV9PUHYzZ1R2TWpWQ2NXZmlZekpKOUhic0swcHlwYTdCSFVFRkJkMHl0b0NPSTFqNmpzbl9RX0pHM0ZkX0IzZ3p5dmJjOG55enplMVJUVDdkNzJDd2FPaGx4aWRGTGRUUGRSVzVsdWFyR01wbmxuVm95UFdDQXdTYlowcTA3SkNjM0lHMEU?oc=5)
+
+2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFtdnNuMmZnR243cHR6a1ZHOU5qX1I3TjVwbGlNVEF1X2RqTV9lSV9PUHYzZ1R2TWpWQ2NXZmlZekpKOUhic0swcHlwYTdCSFVFRkJkMHl0b0NPSTFqNmpzbl9RX0pHM0ZkX0IzZ3p5dmJjOG55enplMVJUVDdkNzJDd2FPaGx4aWRGTGRUUGRSVzVsdWFyR01wbmxuVm95UFdDQXdTYlowcTA3SkNjM0lHMEU?oc=5)
+
+---
 
 ### [You Just Found Out You Have Chronic Kidney Disease—This Is What Experts Recommend You Do First](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5)
 
 2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">chronic kidney disease</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5)
+
+---
+
+### [Sclerosi multipla, a Livorno tre diagnosi al mese: «Ma adesso si può controllare» - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1B1dnQ3RVVSZjZ5bnZUVlRnZ1ZwdjRsUTQ0RFZUUHNDQmhqNGFtZ1V2dUxUS2U5VjVYeEVJbzBkYjBYcHZMcTNiVnpWRF9LNUNka3VwWUE2TkU2NTFWWC1ISF9mTG4tcUF5blpvamxPODZCb2pjaUxaX1Izay1YeDhPa1ptajlOdDNZa2gzeEpBdS1pemJsLVNWLTFUankxd1dMZk5iLVhmSG5zdTgxSlljb3dnOFZWRTR4cGFMMmNFUFAzX18xZ1JSRDBLN1ZLcy13b2padnhjUG93aVBB?oc=5)
+
+2026-06-02 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1B1dnQ3RVVSZjZ5bnZUVlRnZ1ZwdjRsUTQ0RFZUUHNDQmhqNGFtZ1V2dUxUS2U5VjVYeEVJbzBkYjBYcHZMcTNiVnpWRF9LNUNka3VwWUE2TkU2NTFWWC1ISF9mTG4tcUF5blpvamxPODZCb2pjaUxaX1Izay1YeDhPa1ptajlOdDNZa2gzeEpBdS1pemJsLVNWLTFUankxd1dMZk5iLVhmSG5zdTgxSlljb3dnOFZWRTR4cGFMMmNFUFAzX18xZ1JSRDBLN1ZLcy13b2padnhjUG93aVBB?oc=5)
+
+---
+
+### [Ebola in Congo e Uganda, crollano i casi sospetti: cosa sta succedendo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWl1b2xfRFFWRDZERS0wMHFzQW1MUU44TVVEZWRqbUExSW1RbkhDdVNuQ0FtZnd0RXlYY2RKbVEtajk0LVhnZXFjSVo3NUNFZlBoR0pUNFpFY3FHdjFpS3dBYUhvaFlZWDV6U2w1WURibFlMcVk5ZVpYSnZOLWZRR1NKdThDNG5Ka1JmX2djcXZhM19BcDhySVFKM0tOaFV6MEhnYkdtZmJFdEk?oc=5)
+
+2026-06-02 <span class="news-indication-tag">MS</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWl1b2xfRFFWRDZERS0wMHFzQW1MUU44TVVEZWRqbUExSW1RbkhDdVNuQ0FtZnd0RXlYY2RKbVEtajk0LVhnZXFjSVo3NUNFZlBoR0pUNFpFY3FHdjFpS3dBYUhvaFlZWDV6U2w1WURibFlMcVk5ZVpYSnZOLWZRR1NKdThDNG5Ka1JmX2djcXZhM19BcDhySVFKM0tOaFV6MEhnYkdtZmJFdEk?oc=5)
 
 ---
 
@@ -86,43 +118,19 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [MS: 15 Minuten Training, neue Diagnostik und der Weg zu NEDA - it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlJQLUlSdzUzYkxYMk1YbHhaUDZvVmU1VDdpS0ktU2hzdHhjeTNuREpJcWJYTXBPNEEwT3hxYzBCb3Nqc0pic3RjVks3TmRWYjA2MS16MDRtb2x2YnUwT0FVUlFDc24wUFduc2tkeTV1Z1JjMzl2SVc1RXppUEstb2pZaDVadGJxN2FVdlBPTnZ2ZHRy?oc=5)
+### [‘Wonder pill’ shrinks tumours in tests on six cancer types](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWZtdVBpb0pCVE95akRNYk1GNTc3bkRYVlFkWHhOSDB2NkUxUll4WWw4QUlJSXMtOGQxVkdJUFRtY19KNXZJRVFFekV0OWdwVlR5ajBSd0VZSUZOZmdjbF9hWDFUTjJ4dkpVM1lkZ2hDc195d2E3Mm9acTVrSkF1TGpCTlA1LWxvbUI5MGROQmFPV3lOcFE?oc=5)
+
+2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[thetimes.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWZtdVBpb0pCVE95akRNYk1GNTc3bkRYVlFkWHhOSDB2NkUxUll4WWw4QUlJSXMtOGQxVkdJUFRtY19KNXZJRVFFekV0OWdwVlR5ajBSd0VZSUZOZmdjbF9hWDFUTjJ4dkpVM1lkZ2hDc195d2E3Mm9acTVrSkF1TGpCTlA1LWxvbUI5MGROQmFPV3lOcFE?oc=5)
+
+---
+
+### [Heart surgeon claims 1 drink is 'liquid death' and warns you should never drink it — not alcohol - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5Dem5UWUF5SkRDZVFyVUFmTWtjZ083eThjM1RKdW1sOXZLVmE4OXl3SjBtRXo2ZWxITTJKMUQ0cFVmQ0VLeFJkaVd2VmstbTBiRVJ3Ti1ieVAyZFpuYUpLX1BtbVRoOUgxY09aelpMYnhUSGdRaWhnREpDWHVZS01Tc07SAYoBQVVfeXFMTVA1R1JJNTRONVNtenJRd19FelhhOXgxU3lMVlA1Q1poaE9XTlZkZjNUVktaSUhiQ0NCanlCcV9JTmdCNWt3WGZ4Uk5JYXU5WXFIbDEzRzk1WFlsN3l1N08xUGZxM3l5Tlp2NnViTXhhdFoya3NMVFVtellvbHp0ZTNLSHJIM09xb25R?oc=5)
 
 2026-06-01 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlJQLUlSdzUzYkxYMk1YbHhaUDZvVmU1VDdpS0ktU2hzdHhjeTNuREpJcWJYTXBPNEEwT3hxYzBCb3Nqc0pic3RjVks3TmRWYjA2MS16MDRtb2x2YnUwT0FVUlFDc24wUFduc2tkeTV1Z1JjMzl2SVc1RXppUEstb2pZaDVadGJxN2FVdlBPTnZ2ZHRy?oc=5)
-
----
-
-### [Herzerkrankungen: 99% vermeidbar – Gen-Editing, Medikamente und Prävention im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
-
-2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
-
----
-
-### [Épidémie d'Ebola : deux cas suspects détectés au Brésil, un autre en Italie, après l’alerte internationale de l'OMS - Orange Actualités](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNU0Nzb0ZraTUxRWpfRHcwV2gyUjZqZi1GVjlMTklNN185UFp6R25ySG5yQkFNZlJnbXRScV8xWWZrejNXQk1QYXB3NlFFbURhakhTUlNWa2pJNnBVNEVweWdZZmNXazBCdzNWTkpyM0N5QkFhWUtCNld5RHphcDFINm5VRGRuOGR2YUJFSzUzbC1Qbzk3OFZ4Q280YjNjTFd0c0NEMmtFSVB5Z1VPbWFSNnNaRlBWZThJbW85ZDEzX19zVXZEVHNGVTFobDNlQnlsN3V0bTRlcGRLYms2VkxYZEw1UVBmd0pNMV9pMEl6MlktUVNWd2c1REZn?oc=5)
-
-2026-06-01 <span class="news-indication-tag">MS</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNU0Nzb0ZraTUxRWpfRHcwV2gyUjZqZi1GVjlMTklNN185UFp6R25ySG5yQkFNZlJnbXRScV8xWWZrejNXQk1QYXB3NlFFbURhakhTUlNWa2pJNnBVNEVweWdZZmNXazBCdzNWTkpyM0N5QkFhWUtCNld5RHphcDFINm5VRGRuOGR2YUJFSzUzbC1Qbzk3OFZ4Q280YjNjTFd0c0NEMmtFSVB5Z1VPbWFSNnNaRlBWZThJbW85ZDEzX19zVXZEVHNGVTFobDNlQnlsN3V0bTRlcGRLYms2VkxYZEw1UVBmd0pNMV9pMEl6MlktUVNWd2c1REZn?oc=5)
-
----
-
-### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
-
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
-
----
-
-### [Ebola, 43 morti e 263 casi confermati in Congo e Uganda - Sky TG24](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHdaUXdkb2syNGhlSmwxUUZqNDF3SEVLX0xzQkdGVEJzdWd4ZE02cFhiRW1WMExOT1d1REVUY3dEY2ZWaWF3M3pRYzFjWS1ueUIyZGlfdWlvYzNiX3ZibXdfeEM3MUFreFg1MWNCelMtM3pmTGF6bUJxNklGWm5EcloyMFNWUQ?oc=5)
-
-2026-05-31 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHdaUXdkb2syNGhlSmwxUUZqNDF3SEVLX0xzQkdGVEJzdWd4ZE02cFhiRW1WMExOT1d1REVUY3dEY2ZWaWF3M3pRYzFjWS1ueUIyZGlfdWlvYzNiX3ZibXdfeEM3MUFreFg1MWNCelMtM3pmTGF6bUJxNklGWm5EcloyMFNWUQ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5Dem5UWUF5SkRDZVFyVUFmTWtjZ083eThjM1RKdW1sOXZLVmE4OXl3SjBtRXo2ZWxITTJKMUQ0cFVmQ0VLeFJkaVd2VmstbTBiRVJ3Ti1ieVAyZFpuYUpLX1BtbVRoOUgxY09aelpMYnhUSGdRaWhnREpDWHVZS01Tc07SAYoBQVVfeXFMTVA1R1JJNTRONVNtenJRd19FelhhOXgxU3lMVlA1Q1poaE9XTlZkZjNUVktaSUhiQ0NCanlCcV9JTmdCNWt3WGZ4Uk5JYXU5WXFIbDEzRzk1WFlsN3l1N08xUGZxM3l5Tlp2NnViTXhhdFoya3NMVFVtellvbHp0ZTNLSHJIM09xb25R?oc=5)
 
 ---
 

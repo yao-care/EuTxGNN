@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [43 associations contre les aliments ultra-transformés !](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaTVsWmFqRUNnZWxLQ3JQaDlHUHBMUGs3dVM4NGVKd2dxcXVRYXBCNlc0QlVvVWVUMDdQbjh3OGdYbkRTT1hyY3dTUVFMS01ISUZIeWFVOS15cHpFdjdqa0pBOG9PR1BndFRLRUlBQVJ6U3doMi1QeUpwelVUaFB3WWRkSGlvNjY3X2c2aF9CazhWdFNvUTUzLTVxdk80emd2UUZjRFN6cFVhck80WnFnRW50amI0Q0Jld29LelAzdG5IWVlZVzZEVk5wbExyblpLZXYxNmZpZHUzMVh4MC1ra3RqcVN6SzRKUU5La1VVWGlSTTRob2JfTnVpbw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaTVsWmFqRUNnZWxLQ3JQaDlHUHBMUGs3dVM4NGVKd2dxcXVRYXBCNlc0QlVvVWVUMDdQbjh3OGdYbkRTT1hyY3dTUVFMS01ISUZIeWFVOS15cHpFdjdqa0pBOG9PR1BndFRLRUlBQVJ6U3doMi1QeUpwelVUaFB3WWRkSGlvNjY3X2c2aF9CazhWdFNvUTUzLTVxdk80emd2UUZjRFN6cFVhck80WnFnRW50amI0Q0Jld29LelAzdG5IWVlZVzZEVk5wbExyblpLZXYxNmZpZHUzMVh4MC1ra3RqcVN6SzRKUU5La1VVWGlSTTRob2JfTnVpbw?oc=5)
+
+---
+
+### [Un constat alarmant : les jeunes sont rattrapés par des « maladies de vieux », faute de bouger assez - Le Télégramme](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYVN5eVc3Z0xQc2tJQko3Y25ES3NSZjg5eG5pS1NmZ1c4WFJ3NUp2dVd0Qy0ydjk4WS1WaURwd3FEMkNIcHVGMGtORVBlUUhZR2NkbnFPTlJMemk5UE5ZU1RMckx4N1JjcFlaSkc5a0FpSHNja2l1ZDdLMGxGWEFMV1ljUHhHTV9VN2pyVW5BWUJrbkNWV2lWN2k4eTdoOUVrZklNYUxYd281QUI4NlJoVjVaTklPM1RSbERzU3NDVzk1Z0UweHBKbGg1akVNVGJ4YUJ5TmxUcw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabète</span>
+
+來源：[Le Télégramme](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYVN5eVc3Z0xQc2tJQko3Y25ES3NSZjg5eG5pS1NmZ1c4WFJ3NUp2dVd0Qy0ydjk4WS1WaURwd3FEMkNIcHVGMGtORVBlUUhZR2NkbnFPTlJMemk5UE5ZU1RMckx4N1JjcFlaSkc5a0FpSHNja2l1ZDdLMGxGWEFMV1ljUHhHTV9VN2pyVW5BWUJrbkNWV2lWN2k4eTdoOUVrZklNYUxYd281QUI4NlJoVjVaTklPM1RSbERzU3NDVzk1Z0UweHBKbGg1akVNVGJ4YUJ5TmxUcw?oc=5)
+
+---
+
+### [Neues Projekt erforscht Zusammenhang von Diabetes und Herz-Kreislauf-Erkrankungen - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
+
+---
 
 ### [COPD verkürzt Lebenserwartung – auch bei Nichtrauchern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3A3T3BRQ05pb0E0NTRoVEtMLXd1bE5pUW1Dc1FlRWpQVWczYmlzSkcxUkc1Z0ZNVk1ZbEJuMVFUbHJkQmFYR24ycnBIS3RNVHoteEk2YlJTOGg2ckpkRDl5aHFhemxrRUtROEc3dzJ3NmRmQldkclR4ZS1tMUpjdnV6dDVsSl95c2p4ZUh1YTFyMzhyU00yRTFyNVY2Wmg5aUxlbFphQWNpeUQ0c21pOENWc0RFUWc5QkNuUUdR?oc=5)
 
 2026-06-02 <span class="news-indication-tag">copd</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3A3T3BRQ05pb0E0NTRoVEtMLXd1bE5pUW1Dc1FlRWpQVWczYmlzSkcxUkc1Z0ZNVk1ZbEJuMVFUbHJkQmFYR24ycnBIS3RNVHoteEk2YlJTOGg2ckpkRDl5aHFhemxrRUtROEc3dzJ3NmRmQldkclR4ZS1tMUpjdnV6dDVsSl95c2p4ZUh1YTFyMzhyU00yRTFyNVY2Wmg5aUxlbFphQWNpeUQ0c21pOENWc0RFUWc5QkNuUUdR?oc=5)
-
----
-
-### [«Nos enfants développent des maladies de vieux» : diabète de type 2, infarctus... Experts et scientifiques tirent la sonnette d’alarme - Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOUFBocGpfSXprSnBHYzNwU2MtSXZwTTctVWNHbFRnOHhTV0tSaTdmQzk1T1IyRFRtUVJoMmkxcmFuZUlYeWstZDl5T0MxdHpWYU42QlpWclFuc21sd3FsOFpNUFVIc2JrOW5xM2lEbXVWTHNDX2VCVjkyZXh0THg3S0wxbC1mNkoxSFVRaU1lTHJKOF9BSkV5Qm91aXZsekZ1VFNJRmJJejBuYzM3ZDl5SjBidHFOZWVtRmxFeUktR1cwYXl0aHR3b1RHb2c2c1ZhamtIb29YaE1wUzZ5RzBEeDdXeEx4ZWRiQ19xLXpJZnpNZDFnWDZPbjNfclhCdC1Ua2RDVkdKRUlwX0Joa1c4Sg?oc=5)
-
-2026-06-02 <span class="news-indication-tag">diabète</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOUFBocGpfSXprSnBHYzNwU2MtSXZwTTctVWNHbFRnOHhTV0tSaTdmQzk1T1IyRFRtUVJoMmkxcmFuZUlYeWstZDl5T0MxdHpWYU42QlpWclFuc21sd3FsOFpNUFVIc2JrOW5xM2lEbXVWTHNDX2VCVjkyZXh0THg3S0wxbC1mNkoxSFVRaU1lTHJKOF9BSkV5Qm91aXZsekZ1VFNJRmJJejBuYzM3ZDl5SjBidHFOZWVtRmxFeUktR1cwYXl0aHR3b1RHb2c2c1ZhamtIb29YaE1wUzZ5RzBEeDdXeEx4ZWRiQ19xLXpJZnpNZDFnWDZPbjNfclhCdC1Ua2RDVkdKRUlwX0Joa1c4Sg?oc=5)
 
 ---
 

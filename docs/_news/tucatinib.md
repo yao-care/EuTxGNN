@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="Tucatinib 有什麼相關新聞？">
-<strong>Tucatinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tucatinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tucatinib/
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Aurelio Rojas, cardiólogo, advierte sobre el consumo de ibuprofeno: «Aumenta el riesgo de infarto y trombosis y afecta a los riñones»](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
 
 2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
-
----
-
-### [Herzerkrankungen: 99% vermeidbar – Gen-Editing, Medikamente und Prävention im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
-
-2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
 
 ---
 

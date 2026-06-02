@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmY4emZ6UWJaVVI0QlI5Zk5KdlV5SnlGcml0dkx1Y29SMFV5OW1qTV9tbDhEcHFWY1NycTRCUWVUdTEwNEJzdEp0aWRBU1lrLW13bGc4aVFiXzliZDdBVUVZWDhOX1k4YWFmUVJZSzVyUF9QbG5EaWpoZ2pzdDQ3dm5nZUp5MWY5Wkhub2FzdkZ0RU50emh6VzlGcmhRRHZQMmJvSTlDY2hfX3VTMFdGQ0Y2ODQ5ZXhWRTZZOThadzRFZw?oc=5)
+### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmY4emZ6UWJaVVI0QlI5Zk5KdlV5SnlGcml0dkx1Y29SMFV5OW1qTV9tbDhEcHFWY1NycTRCUWVUdTEwNEJzdEp0aWRBU1lrLW13bGc4aVFiXzliZDdBVUVZWDhOX1k4YWFmUVJZSzVyUF9QbG5EaWpoZ2pzdDQ3dm5nZUp5MWY5Wkhub2FzdkZ0RU50emh6VzlGcmhRRHZQMmJvSTlDY2hfX3VTMFdGQ0Y2ODQ5ZXhWRTZZOThadzRFZw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/telmisartan/
 2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
-
----
-
-### [Herzerkrankungen: 99% vermeidbar – Gen-Editing, Medikamente und Prävention im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
-
-2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
 
 ---
 

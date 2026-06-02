@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>45 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（45 則）
+## 相關新聞（40 則）
 
-### [El encuentro SAFE HEARTS PLAN: Young Scientists Engaging with Europe’s Cardiovascular Health Strategy acerca a jóvenes investigadores las políticas europeas de salud cardiovascular en Europa](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3dqNGhsRDlxR2tYbFlKOXdLOHpGSldGYXlJQnhud2RudHZtOWhzUGMzeHBDWHNnRDBwU1A2YzVnUHkybGEtNmRfMTU5TWN5VEFzQ1p1ek9DblFuSUtyZUZjdld6SUQzRWlpM0dTc0dHdzdpRkhUSmluT1c5ZG1zT2NhZUl1TEthMi02R3haZFpCN2tkblJmanZ2YTk1UVJPTGE2Z1NUdjVhMGgyT1l5RWRoejY3cFV5cmRfUTRqTEk?oc=5)
+### [“Once It’s Gone, It’s Gone”: The Silent Brain-Sapper Striking Millions of Postmenopausal Women - Bored Panda](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeldmRXNPc2NMLXpEa1lOaHRlRTBHb09aV3pKVEVxVWtYazBicFFTQ0xndG1iM29zQTZLc2FQQmtaX2pCWXQ4MmtHNzJlVkQ4MWtWbXl0aUlQMkxjSUNPb1A4Q2pYd2dyYW92MVlHV3RvbHB4LWpVdXVqREI2Z21Wck5DQWZiczR3T2wwaWJKRVZnMkE?oc=5)
 
-2026-06-02 <span class="news-indication-tag">AF</span>
+2026-06-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[cnic.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3dqNGhsRDlxR2tYbFlKOXdLOHpGSldGYXlJQnhud2RudHZtOWhzUGMzeHBDWHNnRDBwU1A2YzVnUHkybGEtNmRfMTU5TWN5VEFzQ1p1ek9DblFuSUtyZUZjdld6SUQzRWlpM0dTc0dHdzdpRkhUSmluT1c5ZG1zT2NhZUl1TEthMi02R3haZFpCN2tkblJmanZ2YTk1UVJPTGE2Z1NUdjVhMGgyT1l5RWRoejY3cFV5cmRfUTRqTEk?oc=5)
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeldmRXNPc2NMLXpEa1lOaHRlRTBHb09aV3pKVEVxVWtYazBicFFTQ0xndG1iM29zQTZLc2FQQmtaX2pCWXQ4MmtHNzJlVkQ4MWtWbXl0aUlQMkxjSUNPb1A4Q2pYd2dyYW92MVlHV3RvbHB4LWpVdXVqREI2Z21Wck5DQWZiczR3T2wwaWJKRVZnMkE?oc=5)
 
 ---
 
-### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmY4emZ6UWJaVVI0QlI5Zk5KdlV5SnlGcml0dkx1Y29SMFV5OW1qTV9tbDhEcHFWY1NycTRCUWVUdTEwNEJzdEp0aWRBU1lrLW13bGc4aVFiXzliZDdBVUVZWDhOX1k4YWFmUVJZSzVyUF9QbG5EaWpoZ2pzdDQ3dm5nZUp5MWY5Wkhub2FzdkZ0RU50emh6VzlGcmhRRHZQMmJvSTlDY2hfX3VTMFdGQ0Y2ODQ5ZXhWRTZZOThadzRFZw?oc=5)
+### [Number of suspected Ebola cases falls by hundreds as testing ramps up - Ars Technica](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWnlLWjNlR2xSUndzZXFHQjFuNWxTaDJtZUx6YWY1eTJIM1lSc195MlMzQ290emh1UkNOSWtES0tvVUtaQXQ1S19SUTQ5SndrZ3RXVDF0VWFoME5OSnE4dVY5M3g2YW1BMGhGUlFSRVRiNUZ5clE4UFFna08zVEFjUERhTXpoOUZ0MmIyeFFmMFFJcXU1M2U4VkdycU5YXzNHalhIQTRkRG1iQk4tWXc?oc=5)
+
+2026-06-02 <span class="news-indication-tag">AF</span>
+
+來源：[Ars Technica](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWnlLWjNlR2xSUndzZXFHQjFuNWxTaDJtZUx6YWY1eTJIM1lSc195MlMzQ290emh1UkNOSWtES0tvVUtaQXQ1S19SUTQ5SndrZ3RXVDF0VWFoME5OSnE4dVY5M3g2YW1BMGhGUlFSRVRiNUZ5clE4UFFna08zVEFjUERhTXpoOUZ0MmIyeFFmMFFJcXU1M2U4VkdycU5YXzNHalhIQTRkRG1iQk4tWXc?oc=5)
+
+---
+
+### [La obesidad deja huellas en el ADN infantil más allá de la propia genética - Universidad de Granada](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkwxVlZLWGY1MUtfNlJjaEFQLXUtY3FaT244T3JjekRtRnMzVGxmNFFWQ1ZtUmp2TmRQTlMyOVhXaEdJV1ZrTUo1c0RwcHg2aHo2OUJ6YzNoNVNCQjAtbmE5bUY2UXJIQmg0S0VhU3dGR0RUN2hLcFQ3Y29wQXRNUFlDNkN0VUpRUlNSVEZaa2NIaExWaHo2eWRETWRqbU9y?oc=5)
+
+2026-06-02 <span class="news-indication-tag">obesidad</span>
+
+來源：[Universidad de Granada](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkwxVlZLWGY1MUtfNlJjaEFQLXUtY3FaT244T3JjekRtRnMzVGxmNFFWQ1ZtUmp2TmRQTlMyOVhXaEdJV1ZrTUo1c0RwcHg2aHo2OUJ6YzNoNVNCQjAtbmE5bUY2UXJIQmg0S0VhU3dGR0RUN2hLcFQ3Y29wQXRNUFlDNkN0VUpRUlNSVEZaa2NIaExWaHo2eWRETWRqbU9y?oc=5)
+
+---
+
+### [Virchow-Preis 2026 verliehen für Pionierarbeit im Kampf gegen Ebola, Stärkung der ...](https://news.google.com/rss/articles/CBMiWEFVX3lxTE10T1phc05WWm15NU91TDEzYUNIMFNCWFZid3AwS1gxbDlYOXA5Vy1vbUNFQm9zRWR5LWZBRlRzNmhyVXJ4Uk14WFZ4eUh1akUteTUtckJlZmg?oc=5)
+
+2026-06-02 <span class="news-indication-tag">AF</span>
+
+來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTE10T1phc05WWm15NU91TDEzYUNIMFNCWFZid3AwS1gxbDlYOXA5Vy1vbUNFQm9zRWR5LWZBRlRzNmhyVXJ4Uk14WFZ4eUh1akUteTUtckJlZmg?oc=5)
+
+---
+
+### [L'albicocca frutto "anticaldo": ricca di potassio, povera di sodio e utile per affrontare i raggi UV - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb1JHRzZpdnVXakE5azMxcWs5TEhiTDZVS1d6NTJGZ1NHOXotWnMxS3FNYXpTMTU4SGtpNDlpT2I5WFRtM2c2MG13OFpoUHdLLU9LWmJvRjc2dmpNNmdkT3dZMy1GdnI1NGRwYkxVcnE0Q0UyV1VBTHpqOU1nVU1yNVN4QmFSZlktWkQtNFdCLTV2aldlTlRxblpwX0w5N0lOekVUdzF5M192c1U0a2hqT1o4bnBXUERmT3ZaVll4Q0xFTWdZUU4yUnlNVjU4Wi1zSWZ3aVh6ajlrWS01Q01nVW9KWFI2N1hFUWVZUWdUYw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">AF</span>
+
+來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb1JHRzZpdnVXakE5azMxcWs5TEhiTDZVS1d6NTJGZ1NHOXotWnMxS3FNYXpTMTU4SGtpNDlpT2I5WFRtM2c2MG13OFpoUHdLLU9LWmJvRjc2dmpNNmdkT3dZMy1GdnI1NGRwYkxVcnE0Q0UyV1VBTHpqOU1nVU1yNVN4QmFSZlktWkQtNFdCLTV2aldlTlRxblpwX0w5N0lOekVUdzF5M192c1U0a2hqT1o4bnBXUERmT3ZaVll4Q0xFTWdZUU4yUnlNVjU4Wi1zSWZ3aVh6ajlrWS01Q01nVW9KWFI2N1hFUWVZUWdUYw?oc=5)
+
+---
+
+### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmY4emZ6UWJaVVI0QlI5Zk5KdlV5SnlGcml0dkx1Y29SMFV5OW1qTV9tbDhEcHFWY1NycTRCUWVUdTEwNEJzdEp0aWRBU1lrLW13bGc4aVFiXzliZDdBVUVZWDhOX1k4YWFmUVJZSzVyUF9QbG5EaWpoZ2pzdDQ3dm5nZUp5MWY5Wkhub2FzdkZ0RU50emh6VzlGcmhRRHZQMmJvSTlDY2hfX3VTMFdGQ0Y2ODQ5ZXhWRTZZOThadzRFZw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 ---
 
@@ -94,30 +126,6 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [La obesidad deja 120 marcas epigenéticas asociadas a la evolución de la resistencia a la insulina en niños y niñas - Gaceta Médica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3VQMUdwOHpOVm1uMk81THFsQ25MSjlTaGpZcTMtUTktSVBLc3Z3UFhHSXpGcDU1VE9ySFdkcmhGbktQaG9RSUN5SG9wM2wzTlgzbktTY1phaDJBamI3MzJsMTVKVjJvLXFiUHFCc3IyN2pJUGU2ZFdjdlVqY3Y3bzljVkZLNDFwbU5ON19FamY1V0JkY1A0eFRydXphdWpwOF9OZlVES1ZDX0lZZFNzOEY3ems4SVh4QlZISFoxaktNUWM?oc=5)
-
-2026-06-02 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3VQMUdwOHpOVm1uMk81THFsQ25MSjlTaGpZcTMtUTktSVBLc3Z3UFhHSXpGcDU1VE9ySFdkcmhGbktQaG9RSUN5SG9wM2wzTlgzbktTY1phaDJBamI3MzJsMTVKVjJvLXFiUHFCc3IyN2pJUGU2ZFdjdlVqY3Y3bzljVkZLNDFwbU5ON19FamY1V0JkY1A0eFRydXphdWpwOF9OZlVES1ZDX0lZZFNzOEY3ems4SVh4QlZISFoxaktNUWM?oc=5)
-
----
-
-### [Dermatologist explains what happens to your body after you take Melanotan II](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnVwNW1xZFB5bVItamZjWlpCTHFJOFc2MkhWaGx5elBfWVN2SmU2c3lueGpIU1diWEVTdnlYcXR5bmg4ZnJNV3VDbldTXzV6YW9wR1VyYWlGR3k1TW1oT3Z3QnlKSXktelFadGFKVVFjQXdUNG5TR3hXNXowWGpaLWhOd05wUXE1TXhZNDZkT0ZTZGVNTGhQYWw1ajc?oc=5)
-
-2026-06-02 <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnVwNW1xZFB5bVItamZjWlpCTHFJOFc2MkhWaGx5elBfWVN2SmU2c3lueGpIU1diWEVTdnlYcXR5bmg4ZnJNV3VDbldTXzV6YW9wR1VyYWlGR3k1TW1oT3Z3QnlKSXktelFadGFKVVFjQXdUNG5TR3hXNXowWGpaLWhOd05wUXE1TXhZNDZkT0ZTZGVNTGhQYWw1ajc?oc=5)
-
----
-
-### [Sevilla, en alerta por una grave enfermedad que afecta a los perros: «Las zonas periurbanas, como las más externas de Sevilla Este, tienen más riesgo»](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbXBUZ2VkOHFjbnV1TkIzbkVFQkxIRlNDMXA1eW9JbHZPeURsRDM4THAwNGtJZC1janVVeTJjTmMwYnllUVhxMFExVF9mNEFDeU85LXlqWXAzbkR1NDBSLTM1c1JPN1dOOUY2LUlCZW8xc2tHWktCQVdmVVE4UE5nUEhvZEFld2FVeFRiYklGN0c2bzhjSWZWczZzSWbSAaIBQVVfeXFMTTJ5SXdPSjdhOE5FMHpmb3BTVHE0QlZaRzdrZHdXbnFmaEt4UkE0UFd2VWVBUGZ2cmM0SUdxMm1tNTY3Y1doYTg1cUQwTHctc3FtVEhfWHd4U0R1eUxfWjZSc3dYNHhjem91LVU4SlptSVJmOEJUOUFSVkY3OE9XbGNtQll3RU05ZkQzRWEyVUx3X0NXMG00V0UzVlFYRFVJYTNR?oc=5)
-
-2026-06-02 <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbXBUZ2VkOHFjbnV1TkIzbkVFQkxIRlNDMXA1eW9JbHZPeURsRDM4THAwNGtJZC1janVVeTJjTmMwYnllUVhxMFExVF9mNEFDeU85LXlqWXAzbkR1NDBSLTM1c1JPN1dOOUY2LUlCZW8xc2tHWktCQVdmVVE4UE5nUEhvZEFld2FVeFRiYklGN0c2bzhjSWZWczZzSWbSAaIBQVVfeXFMTTJ5SXdPSjdhOE5FMHpmb3BTVHE0QlZaRzdrZHdXbnFmaEt4UkE0UFd2VWVBUGZ2cmM0SUdxMm1tNTY3Y1doYTg1cUQwTHctc3FtVEhfWHd4U0R1eUxfWjZSc3dYNHhjem91LVU4SlptSVJmOEJUOUFSVkY3OE9XbGNtQll3RU05ZkQzRWEyVUx3X0NXMG00V0UzVlFYRFVJYTNR?oc=5)
-
----
-
 ### [Neuer Ansatz gegen therapiebedingte Leukämien - Schutzmechanismus gegen DNA-Schäden nach Chemotherapien und Bestrahlung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jbmx4SnpIeW4yeEZJYnVlbXdQcEN6bTNDV0R4RnB3bmtBR0g3OVpLQ3VHb2Q5c05GM3B1UXhwWm9reTR4ZTdlRE9Dbw?oc=5)
 
 2026-06-02 <span class="news-indication-tag">AF</span>
@@ -126,11 +134,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [BBC doctor gives Omeprazole verdict after 'worrying news' - Birmingham Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlVaOGk3aU9uRHdsc29xbENyaTRIOVF2MW1LZldnM0VrTlJWZTVzOTAyQlRDV0dla2pHZklGS1g3a2s0NGR1SjRyWXlvRVNZUnZXaUNzMFNtMVBFTVFKRFE4aXpUNTlqMVB0MkNhVGJEa0pjbWI2aWRJZF9PM1E2MVdjQ3h5dy1XOHptb2g5T1NyMknSAZgBQVVfeXFMTTczRHZhTDlQcGhkWWJmYUdKNW9UX2dCVGNKVTFUWE80anByZ2RQdkdVdEJPeTcwMy03eUw5WFExUFd4QnJDTHZrT1cyaDQyZnRudHExdzdRSGxDZ1FILWJLZVdlZGl1ZjhKZVFDcGxQcmhtUzl5UEVtMUdGQm9ZN3o3X1psTHNZdTdVQ09zZFNqMlZvbFphR1I?oc=5)
+### [Infosalus.- El tratamiento de la obesidad debe ir acompañado de formación y seguimiento a largo plazo, según expertos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTRoSWJJUXhlTXBvVTQ2dzMwVHdmYWtKWWI4aGZndm5POG5zUU94Q3JvMGVXeFZsbXhtekZySXk4OUg0UE54Q2NMdjV3dmtOMG5jeFpBYk0tTl8zbG9EWjRQN2pVSkd1QkxIa1I5UzgzRDBaR2lrWm91NHJJNEpCbDFtczNQc29NYVV5dmFoekNqUnduREdBbEdEOThnNkpQdnlPaVJZSXVTX3JCcHNHSWphUUljNlpaQS1yb04zR0hPcGFPeFpqdnB2YjU3QUxqeW1VRDBDcXJQX2N6WDV6bW5MVkJ5Y3c?oc=5)
 
-2026-06-02 <span class="news-drug-tag">Pantoprazole</span> <span class="news-indication-tag">AF</span>
+2026-06-02 <span class="news-indication-tag">obesidad</span>
 
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlVaOGk3aU9uRHdsc29xbENyaTRIOVF2MW1LZldnM0VrTlJWZTVzOTAyQlRDV0dla2pHZklGS1g3a2s0NGR1SjRyWXlvRVNZUnZXaUNzMFNtMVBFTVFKRFE4aXpUNTlqMVB0MkNhVGJEa0pjbWI2aWRJZF9PM1E2MVdjQ3h5dy1XOHptb2g5T1NyMknSAZgBQVVfeXFMTTczRHZhTDlQcGhkWWJmYUdKNW9UX2dCVGNKVTFUWE80anByZ2RQdkdVdEJPeTcwMy03eUw5WFExUFd4QnJDTHZrT1cyaDQyZnRudHExdzdRSGxDZ1FILWJLZVdlZGl1ZjhKZVFDcGxQcmhtUzl5UEVtMUdGQm9ZN3o3X1psTHNZdTdVQ09zZFNqMlZvbFphR1I?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTRoSWJJUXhlTXBvVTQ2dzMwVHdmYWtKWWI4aGZndm5POG5zUU94Q3JvMGVXeFZsbXhtekZySXk4OUg0UE54Q2NMdjV3dmtOMG5jeFpBYk0tTl8zbG9EWjRQN2pVSkd1QkxIa1I5UzgzRDBaR2lrWm91NHJJNEpCbDFtczNQc29NYVV5dmFoekNqUnduREdBbEdEOThnNkpQdnlPaVJZSXVTX3JCcHNHSWphUUljNlpaQS1yb04zR0hPcGFPeFpqdnB2YjU3QUxqeW1VRDBDcXJQX2N6WDV6bW5MVkJ5Y3c?oc=5)
+
+---
+
+### [Warum viele Diäten scheitern: Stress, Blutzucker und Stoffwechsel rücken stärker in den Fokus](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlV0hmUkphRWV3RGNHVC1TLWd2WHM4NmNLTlJIQzhUbm5MNEZISENQSHFnbTZFdWcyWF8wT09YWGdnZUVvd2Z1LVBxMXhNZFlNVEt5WkdIMEs?oc=5)
+
+2026-06-02 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlV0hmUkphRWV3RGNHVC1TLWd2WHM4NmNLTlJIQzhUbm5MNEZISENQSHFnbTZFdWcyWF8wT09YWGdnZUVvd2Z1LVBxMXhNZFlNVEt5WkdIMEs?oc=5)
 
 ---
 
@@ -190,14 +206,6 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [How health workers in DR Congo are treating Ebola and staying safe](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwWDVKN1FSMGhCcEdUbDVjNDdOb0k5aHZ0SW5UdDhhSlpTZmZrZmIyWE03RDJVZ0hqWENkZG5RUENoVV9zMmFCY3FpUDh5MFNnS29kQzNjcEgzcDhu?oc=5)
-
-2026-06-01 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwWDVKN1FSMGhCcEdUbDVjNDdOb0k5aHZ0SW5UdDhhSlpTZmZrZmIyWE03RDJVZ0hqWENkZG5RUENoVV9zMmFCY3FpUDh5MFNnS29kQzNjcEgzcDhu?oc=5)
-
----
-
 ### [Two possible Ebola cases in Brazil ruled out as patients test negative](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZkhfVElkRkNzMlV0aGtYOTQ1OUlFLUdKUHBXZEFyX2RqUUdFWXNVRHZxdVhMVjdMWC1mcDJuR2NvdnVkTC15WklMRHJQM2NJQWJGVXk1SHRGcGxm?oc=5)
 
 2026-06-01 <span class="news-indication-tag">AF</span>
@@ -214,19 +222,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Dans le Morbihan, imbroglio autour d’une épidémie de gale qui affecte de nombreux enfants](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdHgtcVBydXl0TmE0YUQ3bWc1akpfOUpNV0RRbXNpU0h1UTZELTVDVmk2aEJaUEpOQVZrNkZUaDhUbFNvN2k4bUFWWXBlUTJnaVNITG84eWl3UkVFY1lKbEIzVHZiUnZhak42STBXSjhVUGI2WFZWUlAyVDhiT0pBREt5SzUzRGZ0MWRGX2dTcFpTVUYycmFhc0IwWk5LZ1ZSRmRXblVIc3dDV0IzdjFEel9hd3Q3S3VvQVVSX0JDb2JLM3JRQ1RUUXdVTFJuam5CTjJBMTJCUnpNS1A3T2JIcGVtYlNsWnZDVDc2TmFDT2ZJZ09HTjV1ZTM4ZnFwa00?oc=5)
+### [Dermatologist explains what happens to your body after you take Melanotan II](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnVwNW1xZFB5bVItamZjWlpCTHFJOFc2MkhWaGx5elBfWVN2SmU2c3lueGpIU1diWEVTdnlYcXR5bmg4ZnJNV3VDbldTXzV6YW9wR1VyYWlGR3k1TW1oT3Z3QnlKSXktelFadGFKVVFjQXdUNG5TR3hXNXowWGpaLWhOd05wUXE1TXhZNDZkT0ZTZGVNTGhQYWw1ajc?oc=5)
 
 2026-06-01 <span class="news-indication-tag">AF</span>
 
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdHgtcVBydXl0TmE0YUQ3bWc1akpfOUpNV0RRbXNpU0h1UTZELTVDVmk2aEJaUEpOQVZrNkZUaDhUbFNvN2k4bUFWWXBlUTJnaVNITG84eWl3UkVFY1lKbEIzVHZiUnZhak42STBXSjhVUGI2WFZWUlAyVDhiT0pBREt5SzUzRGZ0MWRGX2dTcFpTVUYycmFhc0IwWk5LZ1ZSRmRXblVIc3dDV0IzdjFEel9hd3Q3S3VvQVVSX0JDb2JLM3JRQ1RUUXdVTFJuam5CTjJBMTJCUnpNS1A3T2JIcGVtYlNsWnZDVDc2TmFDT2ZJZ09HTjV1ZTM4ZnFwa00?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnVwNW1xZFB5bVItamZjWlpCTHFJOFc2MkhWaGx5elBfWVN2SmU2c3lueGpIU1diWEVTdnlYcXR5bmg4ZnJNV3VDbldTXzV6YW9wR1VyYWlGR3k1TW1oT3Z3QnlKSXktelFadGFKVVFjQXdUNG5TR3hXNXowWGpaLWhOd05wUXE1TXhZNDZkT0ZTZGVNTGhQYWw1ajc?oc=5)
 
 ---
 
-### [«Bevevo otto caffè e riuscivo comunque a dormire dopo il lavoro. Poi ho iniziato a sudare tanto di notte e scoperto di avere un tumore»](https://news.google.com/rss/articles/CBMizgFBVV95cUxONmpQN0E1V0plTDJ2SUdrVDJsQUhOQUc3ZVdqRk81NU42NnVLOTZNamFjeTFFUkZqekFBWTRncEY0NEdDRUNRbVozeV9CN3J1SnZzaXo4RktNMEdqdGw4b0lCU3piVnNPN2R1YmNkN1pRTWw4bkdoZWdQcjdzU3otSzRYY0VOYmpqOVRwa0hUbzlJSnFjMzktb1FXNVFQekVPMUNMTmdFT2daUlZQVVROclM3ZUc0MkpMSTQ3RXFfSmFENS1mVXdGZXBaOVltQdIBuAFBVV95cUxQSEJQSlBOdUNFbUdEdEpIZ1huTjFqYUtuOE04c2Y3bjhwWTBVZHNDSFBnUHVpb1drWUt1cTBNNm1VZ0xVd2Y0SnlLQU9SRnpWM3Rsel9lMUpzNEFqLVZRSUYtYk5HWldDTTlkLW45TGlMZTNFZ1VaLU5LUFVma0lsUzFWNm5RMFNsa1RNRmVTUU43aHliUkplalQxeHNWbGgwdlFkdkw2S3pKdmlvRGVwMWg5WUtlZnF1?oc=5)
+### [«Bevevo otto caffè e riuscivo comunque a dormire dopo il lavoro. Poi ho iniziato a sudare tanto di notte e scoperto di avere un tumore»](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1ZPaFhDUEdXVWYwYWxHTFBJOWlvRWd6QUNLMzNHUGZfSG5qREZ4cVlVeVNxR1RyaDJfTkZMc3dMOS1zVVYwVk5mc0lPaThFdVIxU3RONTcycFppN1ZPUXVMb3ktcFBWd3Yyc1pWTXB2MXVNbEZSeTdEekVWV1J6TG42RzFZbjNYTEZ6QVRTSGcwSEZSTFN2eVAtMW9OSmVwSXYtbXRFM1FESmxzNU92NkpqYUlxdU11aXJ4S2EwSXhQMS15TlU0bVBod2lVRmppWUw1U0dB0gHAAUFVX3lxTE84RVRiNEt6U2RmUGZHYVI2b24xWDJPXzktYlYzcWVLXzVrSVRsX3MwT0dXSTA5RjZMU3RmN1dvcllYQlVJdmVROFlyTUdRRm1hbGpwNG1hcnNuOEVGaXMyN1o5R3NFaU5qM3V5SmZudXVIaTN6d0xoakY5cEJhQzZWX1RDU0pXX2pjUHBNR0s1UFQwTFRxMC1jODNlN2tUV2RNVm1zWHJfeXZ6UWhPektfZ29aR2RxeURlZGRTWE1VMw?oc=5)
 
 2026-06-01 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxONmpQN0E1V0plTDJ2SUdrVDJsQUhOQUc3ZVdqRk81NU42NnVLOTZNamFjeTFFUkZqekFBWTRncEY0NEdDRUNRbVozeV9CN3J1SnZzaXo4RktNMEdqdGw4b0lCU3piVnNPN2R1YmNkN1pRTWw4bkdoZWdQcjdzU3otSzRYY0VOYmpqOVRwa0hUbzlJSnFjMzktb1FXNVFQekVPMUNMTmdFT2daUlZQVVROclM3ZUc0MkpMSTQ3RXFfSmFENS1mVXdGZXBaOVltQdIBuAFBVV95cUxQSEJQSlBOdUNFbUdEdEpIZ1huTjFqYUtuOE04c2Y3bjhwWTBVZHNDSFBnUHVpb1drWUt1cTBNNm1VZ0xVd2Y0SnlLQU9SRnpWM3Rsel9lMUpzNEFqLVZRSUYtYk5HWldDTTlkLW45TGlMZTNFZ1VaLU5LUFVma0lsUzFWNm5RMFNsa1RNRmVTUU43aHliUkplalQxeHNWbGgwdlFkdkw2S3pKdmlvRGVwMWg5WUtlZnF1?oc=5)
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1ZPaFhDUEdXVWYwYWxHTFBJOWlvRWd6QUNLMzNHUGZfSG5qREZ4cVlVeVNxR1RyaDJfTkZMc3dMOS1zVVYwVk5mc0lPaThFdVIxU3RONTcycFppN1ZPUXVMb3ktcFBWd3Yyc1pWTXB2MXVNbEZSeTdEekVWV1J6TG42RzFZbjNYTEZ6QVRTSGcwSEZSTFN2eVAtMW9OSmVwSXYtbXRFM1FESmxzNU92NkpqYUlxdU11aXJ4S2EwSXhQMS15TlU0bVBod2lVRmppWUw1U0dB0gHAAUFVX3lxTE84RVRiNEt6U2RmUGZHYVI2b24xWDJPXzktYlYzcWVLXzVrSVRsX3MwT0dXSTA5RjZMU3RmN1dvcllYQlVJdmVROFlyTUdRRm1hbGpwNG1hcnNuOEVGaXMyN1o5R3NFaU5qM3V5SmZudXVIaTN6d0xoakY5cEJhQzZWX1RDU0pXX2pjUHBNR0s1UFQwTFRxMC1jODNlN2tUV2RNVm1zWHJfeXZ6UWhPektfZ29aR2RxeURlZGRTWE1VMw?oc=5)
 
 ---
 
@@ -246,19 +254,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Herzerkrankungen: 99% vermeidbar – Gen-Editing, Medikamente und Prävention im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
+### [Obesità severa, intervento record con il Robot Da Vinci: rimosso utero di quasi 4 chili - Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
 
-2026-06-01 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-01 <span class="news-indication-tag">obesità</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkxkUW9GbmU5Q2dUcDlJdHZ2bmRtcXQxdXRtTUNPckx4VG9EeWxLckgtTFdja3BzWUpUeUVOVzlvaW5TV3BaVk9OVDRfVHZ6UUs1U1IxNmE2c1dvUnJIUTRpZW5oN2tlQ2N1Qk1STHNkNmhUX0J2bk85aml0NVdmc2RXY29XZ0hybU14aEpRekhXbjNscFluUUt0Q005MERJMlNCMjBfVktqc1VxQUxnUg?oc=5)
-
----
-
-### [Erbgutschäden durch pflanzlichen Naturstoff Methyleugenol – wichtiger Reparaturmechanismus in Zellen entschlüsselt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tVktWQ3RvZUNsMkV2Y0xlWU9oT1h2RzhpTW96cndRS0huQnRULURhRWE3X3BfR3hKRkoxYlhKdXpBbWdQSnFRSk1QSQ?oc=5)
-
-2026-06-01 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tVktWQ3RvZUNsMkV2Y0xlWU9oT1h2RzhpTW96cndRS0huQnRULURhRWE3X3BfR3hKRkoxYlhKdXpBbWdQSnFRSk1QSQ?oc=5)
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
 
 ---
 
@@ -294,19 +294,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [La Fundación Jiménez Díaz plantea un abordaje total de la obesidad: mucho más allá que la suma de calorías](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
-
-2026-06-01 <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
-
----
-
 ### [Vitamin D in der Schwangerschaft könnte Kindergedächtnis stärken](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWZOeXpuNkpJdXdiWDFPRWZyRk9EbkhiSm93dWQya3M2elNaSXEtY1k3YUZlRHF1dkNtMlJxeVE5a2pSN0VkVk94U3JQbFJsdDA5WkdxSGdPaFdtMDRWSGlhTnA5VmpNMjBNV0xDbk5aSHlQZzZ4ZWJJZXBYb0xXNWZLekhFZ1ZGTmVrYUk2REFVUi16V0dydE1ISXl1UlJWNjRtdmN3c1E?oc=5)
 
 2026-06-01 <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWZOeXpuNkpJdXdiWDFPRWZyRk9EbkhiSm93dWQya3M2elNaSXEtY1k3YUZlRHF1dkNtMlJxeVE5a2pSN0VkVk94U3JQbFJsdDA5WkdxSGdPaFdtMDRWSGlhTnA5VmpNMjBNV0xDbk5aSHlQZzZ4ZWJJZXBYb0xXNWZLekhFZ1ZGTmVrYUk2REFVUi16V0dydE1ISXl1UlJWNjRtdmN3c1E?oc=5)
+
+---
+
+### [Schlechter Schlaf erhöht laut Studien das Krebsrisiko bei Unter-50-Jährigen - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEtEaGtyZERCYWpNQVZ3OUpZV2dQTXZVdXh6RU9lMmhRVF9sSFVxYWJ0Qm03NmlLNVFQSnBiWC1uRUNTcVFCbnBUUnpyWkJac2c5NXk2VFA0eDZZXzVVSklhanNEbHNGVE5QSFNRTnBoTk9md3lMZkUtVUNfaklMcjRLSmk4MHVXekZrOVFDNmZYVG9IeVNuRFFMQ1hlbngyaFRaNVh2aDZfQW4tZEE?oc=5)
+
+2026-06-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEtEaGtyZERCYWpNQVZ3OUpZV2dQTXZVdXh6RU9lMmhRVF9sSFVxYWJ0Qm03NmlLNVFQSnBiWC1uRUNTcVFCbnBUUnpyWkJac2c5NXk2VFA0eDZZXzVVSklhanNEbHNGVE5QSFNRTnBoTk9md3lMZkUtVUNfaklMcjRLSmk4MHVXekZrOVFDNmZYVG9IeVNuRFFMQ1hlbngyaFRaNVh2aDZfQW4tZEE?oc=5)
 
 ---
 
@@ -326,11 +326,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Tragic Scots teenager, 18, died after ‘exam stress headaches’ turned out to be cancer - The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUZZQ2ktNFMtR0tNRi1ZNmxqM09OQkZTS2VaNHFseWl2TENTV1JQRFZEa2lvUlFPTVlPYi03UUF2UFBxZExfOXFBOUlYSHc3SzluOWN5VDhjQ29mT2JTTVdGNFhWQ1lheGwyQUFRS25HQnFPdFQtOEwwQkxveGxnZDZDZzFVb0o2UkUtY3RpR0NXMHJKVGc?oc=5)
+### [Swindon woman ended up in coma with meningitis after being told 'take paracetamol' - Swindon Advertiser](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVGhiaXpRSTFndnVkUW1tcTNCTnlVOV9ZZmJ0Mm1jYXZ3VXZCWTlia1IzWnFpQVZvbV8taWRpcmRUa2dOTkVOQ0JjQjF6Qi1zRGZ6QzBGOFRFd01RVmlnZFV1MzJWUzdYb2NhZEVjZy1pZmpBS0VSZXF4YU51UG9uaVVVRGN1X0N6aEJ5WG9IOVd4TzFfU2NFM2NuZHRDUjE0eFdacQ?oc=5)
 
-2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-01 <span class="news-indication-tag">AF</span>
 
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUZZQ2ktNFMtR0tNRi1ZNmxqM09OQkZTS2VaNHFseWl2TENTV1JQRFZEa2lvUlFPTVlPYi03UUF2UFBxZExfOXFBOUlYSHc3SzluOWN5VDhjQ29mT2JTTVdGNFhWQ1lheGwyQUFRS25HQnFPdFQtOEwwQkxveGxnZDZDZzFVb0o2UkUtY3RpR0NXMHJKVGc?oc=5)
+來源：[Swindon Advertiser](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVGhiaXpRSTFndnVkUW1tcTNCTnlVOV9ZZmJ0Mm1jYXZ3VXZCWTlia1IzWnFpQVZvbV8taWRpcmRUa2dOTkVOQ0JjQjF6Qi1zRGZ6QzBGOFRFd01RVmlnZFV1MzJWUzdYb2NhZEVjZy1pZmpBS0VSZXF4YU51UG9uaVVVRGN1X0N6aEJ5WG9IOVd4TzFfU2NFM2NuZHRDUjE0eFdacQ?oc=5)
 
 ---
 
@@ -342,19 +342,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [BBC doctor gives Omeprazole verdict after 'worrying news' - Birmingham Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlVaOGk3aU9uRHdsc29xbENyaTRIOVF2MW1LZldnM0VrTlJWZTVzOTAyQlRDV0dla2pHZklGS1g3a2s0NGR1SjRyWXlvRVNZUnZXaUNzMFNtMVBFTVFKRFE4aXpUNTlqMVB0MkNhVGJEa0pjbWI2aWRJZF9PM1E2MVdjQ3h5dy1XOHptb2g5T1NyMknSAZgBQVVfeXFMTTczRHZhTDlQcGhkWWJmYUdKNW9UX2dCVGNKVTFUWE80anByZ2RQdkdVdEJPeTcwMy03eUw5WFExUFd4QnJDTHZrT1cyaDQyZnRudHExdzdRSGxDZ1FILWJLZVdlZGl1ZjhKZVFDcGxQcmhtUzl5UEVtMUdGQm9ZN3o3X1psTHNZdTdVQ09zZFNqMlZvbFphR1I?oc=5)
+
+2026-06-01 <span class="news-drug-tag">Pantoprazole</span> <span class="news-indication-tag">AF</span>
+
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlVaOGk3aU9uRHdsc29xbENyaTRIOVF2MW1LZldnM0VrTlJWZTVzOTAyQlRDV0dla2pHZklGS1g3a2s0NGR1SjRyWXlvRVNZUnZXaUNzMFNtMVBFTVFKRFE4aXpUNTlqMVB0MkNhVGJEa0pjbWI2aWRJZF9PM1E2MVdjQ3h5dy1XOHptb2g5T1NyMknSAZgBQVVfeXFMTTczRHZhTDlQcGhkWWJmYUdKNW9UX2dCVGNKVTFUWE80anByZ2RQdkdVdEJPeTcwMy03eUw5WFExUFd4QnJDTHZrT1cyaDQyZnRudHExdzdRSGxDZ1FILWJLZVdlZGl1ZjhKZVFDcGxQcmhtUzl5UEVtMUdGQm9ZN3o3X1psTHNZdTdVQ09zZFNqMlZvbFphR1I?oc=5)
+
+---
+
 ### [Neuartige Strukturvariante im Metallgitter entdeckt](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnNWYk9QUFhUc0ItYkpIcGpCUHFIUmNxdWktWktxSHRTTldpZmNlZGJrWURFMTNud1c4MzVPZXZXd2JyazV0NTAyeVZvYld2blY3b2dFaU5kOVdyZ1UzRnRGbV9BbG9TY201WHZaX0hNMzRRNXhEbWVjbFpfMEo2SVNvblA1RGNGWER5MExHT3U5UE1xYk9DM20wLVlNeTg?oc=5)
 
 2026-06-01 <span class="news-indication-tag">AF</span>
 
 來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnNWYk9QUFhUc0ItYkpIcGpCUHFIUmNxdWktWktxSHRTTldpZmNlZGJrWURFMTNud1c4MzVPZXZXd2JyazV0NTAyeVZvYld2blY3b2dFaU5kOVdyZ1UzRnRGbV9BbG9TY201WHZaX0hNMzRRNXhEbWVjbFpfMEo2SVNvblA1RGNGWER5MExHT3U5UE1xYk9DM20wLVlNeTg?oc=5)
-
----
-
-### [Has Dundee LEZ improved air pollution levels in the city after two years? - The Courier](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLU9lbXF6QnVGR2UzQXN2WTUweG1Eb3dETDhhbmR1SkNwZGlQRFdTQ094VzZ0MGRLMGI4a3o2Y2IyVHBreDIwZjViVjlOZnhIUjE1UWVQazhXb0RGSUc1T0gxZHFWMk9vQlRvU2dlY0dEYi1ZVUYtTG05TnpJTkdvU2NNRk83bDRMd2Nrbg?oc=5)
-
-2026-06-01 <span class="news-indication-tag">AF</span>
-
-來源：[The Courier](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLU9lbXF6QnVGR2UzQXN2WTUweG1Eb3dETDhhbmR1SkNwZGlQRFdTQ094VzZ0MGRLMGI4a3o2Y2IyVHBreDIwZjViVjlOZnhIUjE1UWVQazhXb0RGSUc1T0gxZHFWMk9vQlRvU2dlY0dEYi1ZVUYtTG05TnpJTkdvU2NNRk83bDRMd2Nrbg?oc=5)
 
 ---
 
@@ -371,46 +371,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-01 <span class="news-indication-tag">AF</span>
 
 來源：[Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHdZMDZ4eF9kZmowdjdpT2RSWTR2dTlVR3VienBZdV90N1AxeTBvTHYxUjhfbDZITTY0T0xub1JsdDFPLWZoZG1QYWNxeVhzdWJfSXZlSmVPcDZZSHhOX1lQd1RGWlB5OXhDWVZjOVdzUXpvV0VJZjB0UF81VGJEU25rRlZ0WnZGbVE1NQ?oc=5)
-
----
-
-### ['My husband found me collapsed on the floor after a brain bleed, I wasn't expected to survive' - Belfast Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUZ6T3EwTW9KQXJVdnAyRTJFYXg1NzhPQUJxQThac1g1OWJsUHB3emhsMzNjVHB2cVBXSU9rejFiendmMkR2ZmhaQ3RYM0tTYlUxaHRxUk91YzQ0SGs3ZTNlZlIwYlgwdTZjTGFETHJBUkRjVUlrakZUMU41b2x1amZUTTd5VHpHTkhudlZ4SkVzWGR3QjRpd9IBngFBVV95cUxPM2pXVmU2VHE4R2RMbGp2Vy1zemo2Mi1PMGN6Y2ZQZzZTNVdVZHNyVTA2VmhfSjF2NmI2SXVOaFI0bmNmb0pqODczSkl1YlN6OV8xLTJ4UXZ5Sng5Y3NzUkhpdnlnM1JIamFxaVlmY0RRaFZFaGRjRVZzbnIzN2lVVFpIUnhiWWdfM1NoUmNUazFPUWtaTUlLRE1BN3F2QQ?oc=5)
-
-2026-05-31 <span class="news-indication-tag">AF</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUZ6T3EwTW9KQXJVdnAyRTJFYXg1NzhPQUJxQThac1g1OWJsUHB3emhsMzNjVHB2cVBXSU9rejFiendmMkR2ZmhaQ3RYM0tTYlUxaHRxUk91YzQ0SGs3ZTNlZlIwYlgwdTZjTGFETHJBUkRjVUlrakZUMU41b2x1amZUTTd5VHpHTkhudlZ4SkVzWGR3QjRpd9IBngFBVV95cUxPM2pXVmU2VHE4R2RMbGp2Vy1zemo2Mi1PMGN6Y2ZQZzZTNVdVZHNyVTA2VmhfSjF2NmI2SXVOaFI0bmNmb0pqODczSkl1YlN6OV8xLTJ4UXZ5Sng5Y3NzUkhpdnlnM1JIamFxaVlmY0RRaFZFaGRjRVZzbnIzN2lVVFpIUnhiWWdfM1NoUmNUazFPUWtaTUlLRE1BN3F2QQ?oc=5)
-
----
-
-### [Woman's life 'saved' after hug from her mother](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yVTRwaGcxTG5mQ3pELWg0NTBCNmcwRmlTZzROdUF3SzhJVWZVTGRtNlAtQXItSDNuMG9KQW1ILXA1WW02WmpIWnpNMV9wR0dycHFoRERXWW9WdzFI?oc=5)
-
-2026-05-31 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yVTRwaGcxTG5mQ3pELWg0NTBCNmcwRmlTZzROdUF3SzhJVWZVTGRtNlAtQXItSDNuMG9KQW1ILXA1WW02WmpIWnpNMV9wR0dycHFoRERXWW9WdzFI?oc=5)
-
----
-
-### [Mysterious Origins of The Nicotine Molecule Are Finally Revealed](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmRDbEl5RXdra3hZVmlrM2RuX1lJMUZwSXBqZU1qMFBsNERuUWRwbEVuR1Y2SHF4UmhHRVNxdlBnbGtrVTdwTUJHTkplQktkbnY2NU5VeExCWDhWVnpyTjVXT3Zob1lRMHpyM0gtTGN3U3RpWllHUUVPYkVrSHpKay02OF9OcmFoLW9SWVVEbG13V0puZ2x4TQ?oc=5)
-
-2026-05-31 <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmRDbEl5RXdra3hZVmlrM2RuX1lJMUZwSXBqZU1qMFBsNERuUWRwbEVuR1Y2SHF4UmhHRVNxdlBnbGtrVTdwTUJHTkplQktkbnY2NU5VeExCWDhWVnpyTjVXT3Zob1lRMHpyM0gtTGN3U3RpWllHUUVPYkVrSHpKay02OF9OcmFoLW9SWVVEbG13V0puZ2x4TQ?oc=5)
-
----
-
-### [Douleurs articulaires : ajoutez ces 2 épices à votre café, vous ne souffrirez plus !](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaWRRMlhSM1cyMWg3eDNTRFQyMzZ2RzJWUkZ5dlBuTmFYVWp1bl92X0VLSTZwbXR6ZXNUUDFvVkotR2oxbzNHZGFodTFLRlZicWtUQThjREtVNWpWcVU0YnlaRmNxbll3dnpfUnpVNHVKa2dnejlWTGNtMldla3lmNl9xazcwUGJyUXpiRnBvWnJnNFkxMl9RN3FidUdwZEk2ZnFfSmtIQm9QZ1NoWV9MMmduS1JTelpJMl9LdXAzc0ZEOHFVNGJsc3lFeFBSWExy?oc=5)
-
-2026-05-31 <span class="news-indication-tag">AF</span>
-
-來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaWRRMlhSM1cyMWg3eDNTRFQyMzZ2RzJWUkZ5dlBuTmFYVWp1bl92X0VLSTZwbXR6ZXNUUDFvVkotR2oxbzNHZGFodTFLRlZicWtUQThjREtVNWpWcVU0YnlaRmNxbll3dnpfUnpVNHVKa2dnejlWTGNtMldla3lmNl9xazcwUGJyUXpiRnBvWnJnNFkxMl9RN3FidUdwZEk2ZnFfSmtIQm9QZ1NoWV9MMmduS1JTelpJMl9LdXAzc0ZEOHFVNGJsc3lFeFBSWExy?oc=5)
-
----
-
-### [4 Chair Exercises That Restore Hip Mobility Faster Than Yoga After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMiekFVX3lxTFA4ajB5QWh4cGl3OHl3LTdBOTFSNnAzQk9mN3VmSjRLRC1ISE9odXgyN24wTEFtZ2ZxWWRpakZkRjNteWJCZWhLRWNpQ3VwQ09OVEQxTFhlakVFdHpiSExMOGRJZmJRUDNkYXE3T1BfYWFoVHdDUzBEUklR?oc=5)
-
-2026-05-31 <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMiekFVX3lxTFA4ajB5QWh4cGl3OHl3LTdBOTFSNnAzQk9mN3VmSjRLRC1ISE9odXgyN24wTEFtZ2ZxWWRpakZkRjNteWJCZWhLRWNpQ3VwQ09OVEQxTFhlakVFdHpiSExMOGRJZmJRUDNkYXE3T1BfYWFoVHdDUzBEUklR?oc=5)
 
 ---
 

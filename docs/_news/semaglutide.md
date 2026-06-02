@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
 
-### [El uso de Ozempic se asocia con una reducción del 30 % en la incidencia de cáncer de mama](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmtMbUdJYmItN3VKbFhmaktLaVZrNmd6c0VZdVZpakxBeUNkUGVyTE40NldacHJhTEFpTXpUelNTSmNCMGlFS1FZVnBEcVNnYWJZNnBaTjJiZmpIR0c2M1dLMTNlVVVrVktpSm1ma2tXZ2k4VGxHcnR1LS1xd01Jbm84RUNqTEtHbnBJdHZDRENvblJSbE4ydVZBZ2l6LXptSUHSAacBQVVfeXFMTk56NnpIbTNNZlNYalZ1cjhfRC1xSzNKRUJielhMX0FHNVdDVmhNektWY1BsUUk0UTJhSHBfR3FWaFZjblh0RWVPbnFIQ0R4UlpvMnRqSWFCZ3BpTDA5a2M0OHA2UVYzS2JNdHJhM3NsSGZvWUhFOTZ2bDRFanJsWEMtZXVnOV9ndmJRbGlxSFFaMG1sZ0tpVDBxRjZRZzR4R0FaYW5IalU?oc=5)
+### [Abnehmspritzen gegen Demenz: Prävention klappt, Therapie scheitert - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFtdnNuMmZnR243cHR6a1ZHOU5qX1I3TjVwbGlNVEF1X2RqTV9lSV9PUHYzZ1R2TWpWQ2NXZmlZekpKOUhic0swcHlwYTdCSFVFRkJkMHl0b0NPSTFqNmpzbl9RX0pHM0ZkX0IzZ3p5dmJjOG55enplMVJUVDdkNzJDd2FPaGx4aWRGTGRUUGRSVzVsdWFyR01wbmxuVm95UFdDQXdTYlowcTA3SkNjM0lHMEU?oc=5)
 
-2026-06-02 <span class="news-drug-tag">Semaglutide</span>
+2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmtMbUdJYmItN3VKbFhmaktLaVZrNmd6c0VZdVZpakxBeUNkUGVyTE40NldacHJhTEFpTXpUelNTSmNCMGlFS1FZVnBEcVNnYWJZNnBaTjJiZmpIR0c2M1dLMTNlVVVrVktpSm1ma2tXZ2k4VGxHcnR1LS1xd01Jbm84RUNqTEtHbnBJdHZDRENvblJSbE4ydVZBZ2l6LXptSUHSAacBQVVfeXFMTk56NnpIbTNNZlNYalZ1cjhfRC1xSzNKRUJielhMX0FHNVdDVmhNektWY1BsUUk0UTJhSHBfR3FWaFZjblh0RWVPbnFIQ0R4UlpvMnRqSWFCZ3BpTDA5a2M0OHA2UVYzS2JNdHJhM3NsSGZvWUhFOTZ2bDRFanJsWEMtZXVnOV9ndmJRbGlxSFFaMG1sZ0tpVDBxRjZRZzR4R0FaYW5IalU?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFtdnNuMmZnR243cHR6a1ZHOU5qX1I3TjVwbGlNVEF1X2RqTV9lSV9PUHYzZ1R2TWpWQ2NXZmlZekpKOUhic0swcHlwYTdCSFVFRkJkMHl0b0NPSTFqNmpzbl9RX0pHM0ZkX0IzZ3p5dmJjOG55enplMVJUVDdkNzJDd2FPaGx4aWRGTGRUUGRSVzVsdWFyR01wbmxuVm95UFdDQXdTYlowcTA3SkNjM0lHMEU?oc=5)
 
 ---
 
-### [«Nos enfants développent des maladies de vieux» : diabète de type 2, infarctus... Experts et scientifiques tirent la sonnette d’alarme - Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOUFBocGpfSXprSnBHYzNwU2MtSXZwTTctVWNHbFRnOHhTV0tSaTdmQzk1T1IyRFRtUVJoMmkxcmFuZUlYeWstZDl5T0MxdHpWYU42QlpWclFuc21sd3FsOFpNUFVIc2JrOW5xM2lEbXVWTHNDX2VCVjkyZXh0THg3S0wxbC1mNkoxSFVRaU1lTHJKOF9BSkV5Qm91aXZsekZ1VFNJRmJJejBuYzM3ZDl5SjBidHFOZWVtRmxFeUktR1cwYXl0aHR3b1RHb2c2c1ZhamtIb29YaE1wUzZ5RzBEeDdXeEx4ZWRiQ19xLXpJZnpNZDFnWDZPbjNfclhCdC1Ua2RDVkdKRUlwX0Joa1c4Sg?oc=5)
+### [43 associations contre les aliments ultra-transformés !](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaTVsWmFqRUNnZWxLQ3JQaDlHUHBMUGs3dVM4NGVKd2dxcXVRYXBCNlc0QlVvVWVUMDdQbjh3OGdYbkRTT1hyY3dTUVFMS01ISUZIeWFVOS15cHpFdjdqa0pBOG9PR1BndFRLRUlBQVJ6U3doMi1QeUpwelVUaFB3WWRkSGlvNjY3X2c2aF9CazhWdFNvUTUzLTVxdk80emd2UUZjRFN6cFVhck80WnFnRW50amI0Q0Jld29LelAzdG5IWVlZVzZEVk5wbExyblpLZXYxNmZpZHUzMVh4MC1ra3RqcVN6SzRKUU5La1VVWGlSTTRob2JfTnVpbw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaTVsWmFqRUNnZWxLQ3JQaDlHUHBMUGs3dVM4NGVKd2dxcXVRYXBCNlc0QlVvVWVUMDdQbjh3OGdYbkRTT1hyY3dTUVFMS01ISUZIeWFVOS15cHpFdjdqa0pBOG9PR1BndFRLRUlBQVJ6U3doMi1QeUpwelVUaFB3WWRkSGlvNjY3X2c2aF9CazhWdFNvUTUzLTVxdk80emd2UUZjRFN6cFVhck80WnFnRW50amI0Q0Jld29LelAzdG5IWVlZVzZEVk5wbExyblpLZXYxNmZpZHUzMVh4MC1ra3RqcVN6SzRKUU5La1VVWGlSTTRob2JfTnVpbw?oc=5)
+
+---
+
+### [Un constat alarmant : les jeunes sont rattrapés par des « maladies de vieux », faute de bouger assez - Le Télégramme](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYVN5eVc3Z0xQc2tJQko3Y25ES3NSZjg5eG5pS1NmZ1c4WFJ3NUp2dVd0Qy0ydjk4WS1WaURwd3FEMkNIcHVGMGtORVBlUUhZR2NkbnFPTlJMemk5UE5ZU1RMckx4N1JjcFlaSkc5a0FpSHNja2l1ZDdLMGxGWEFMV1ljUHhHTV9VN2pyVW5BWUJrbkNWV2lWN2k4eTdoOUVrZklNYUxYd281QUI4NlJoVjVaTklPM1RSbERzU3NDVzk1Z0UweHBKbGg1akVNVGJ4YUJ5TmxUcw?oc=5)
 
 2026-06-02 <span class="news-indication-tag">diabète</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOUFBocGpfSXprSnBHYzNwU2MtSXZwTTctVWNHbFRnOHhTV0tSaTdmQzk1T1IyRFRtUVJoMmkxcmFuZUlYeWstZDl5T0MxdHpWYU42QlpWclFuc21sd3FsOFpNUFVIc2JrOW5xM2lEbXVWTHNDX2VCVjkyZXh0THg3S0wxbC1mNkoxSFVRaU1lTHJKOF9BSkV5Qm91aXZsekZ1VFNJRmJJejBuYzM3ZDl5SjBidHFOZWVtRmxFeUktR1cwYXl0aHR3b1RHb2c2c1ZhamtIb29YaE1wUzZ5RzBEeDdXeEx4ZWRiQ19xLXpJZnpNZDFnWDZPbjNfclhCdC1Ua2RDVkdKRUlwX0Joa1c4Sg?oc=5)
+來源：[Le Télégramme](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYVN5eVc3Z0xQc2tJQko3Y25ES3NSZjg5eG5pS1NmZ1c4WFJ3NUp2dVd0Qy0ydjk4WS1WaURwd3FEMkNIcHVGMGtORVBlUUhZR2NkbnFPTlJMemk5UE5ZU1RMckx4N1JjcFlaSkc5a0FpSHNja2l1ZDdLMGxGWEFMV1ljUHhHTV9VN2pyVW5BWUJrbkNWV2lWN2k4eTdoOUVrZklNYUxYd281QUI4NlJoVjVaTklPM1RSbERzU3NDVzk1Z0UweHBKbGg1akVNVGJ4YUJ5TmxUcw?oc=5)
+
+---
+
+### [Weight-loss drugs can cut breast cancer risk by up to 30%, studies suggest - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEhldlBiUTRFVzMxbm5mLWVfLWk5ZXdhRVhBMHg2M3EyUWJiRWNMTDdRMUEySjRKVXBZMmcwc2M2Rm5qc3NqWHhXTVNJQnV0dnpVNjhQWmljMGJQeEh1MWVEa3NTZFlGRDhjZTJZX1J5NE9XZUVIbGphZTh5MXJOcFVFS2FfaUVuQVAzMFA0N0RSaW8?oc=5)
+
+2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEhldlBiUTRFVzMxbm5mLWVfLWk5ZXdhRVhBMHg2M3EyUWJiRWNMTDdRMUEySjRKVXBZMmcwc2M2Rm5qc3NqWHhXTVNJQnV0dnpVNjhQWmljMGJQeEh1MWVEa3NTZFlGRDhjZTJZX1J5NE9XZUVIbGphZTh5MXJOcFVFS2FfaUVuQVAzMFA0N0RSaW8?oc=5)
+
+---
+
+### [Neues Projekt erforscht Zusammenhang von Diabetes und Herz-Kreislauf-Erkrankungen - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
 
 ---
 
@@ -107,14 +131,6 @@ permalink: /news/semaglutide/
 2026-06-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
-
----
-
-### [Abnehmspritze mit Nebenwirkungen? Das sagen neue Hirnforschungen über Ozempic - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
-
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0J4anY5aEtVZVpnSjVVS01ReUEtd29IQmpwbEtteWp6SmpOc0Izd0FKR1RCbEMtZnBTUG1DV2tmck8waHpWS3h4bFlnX09qbF9VWG5KX1hsYjZwNTRlVFdNRHctNGZLN3AxbFZua0lSTVpIbGlpY0RxWmZpdXRQSy01LTNLR1dvM1Q1NWQyaTRRdTdCdG5SaG1IOWhqaHRWM0JGd2NvWlc2VVZMQnp6czFfWTFSeTFYZHdv?oc=5)
 
 ---
 

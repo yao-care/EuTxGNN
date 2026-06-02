@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
-### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmY4emZ6UWJaVVI0QlI5Zk5KdlV5SnlGcml0dkx1Y29SMFV5OW1qTV9tbDhEcHFWY1NycTRCUWVUdTEwNEJzdEp0aWRBU1lrLW13bGc4aVFiXzliZDdBVUVZWDhOX1k4YWFmUVJZSzVyUF9QbG5EaWpoZ2pzdDQ3dm5nZUp5MWY5Wkhub2FzdkZ0RU50emh6VzlGcmhRRHZQMmJvSTlDY2hfX3VTMFdGQ0Y2ODQ5ZXhWRTZZOThadzRFZw?oc=5)
-
-2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmY4emZ6UWJaVVI0QlI5Zk5KdlV5SnlGcml0dkx1Y29SMFV5OW1qTV9tbDhEcHFWY1NycTRCUWVUdTEwNEJzdEp0aWRBU1lrLW13bGc4aVFiXzliZDdBVUVZWDhOX1k4YWFmUVJZSzVyUF9QbG5EaWpoZ2pzdDQ3dm5nZUp5MWY5Wkhub2FzdkZ0RU50emh6VzlGcmhRRHZQMmJvSTlDY2hfX3VTMFdGQ0Y2ODQ5ZXhWRTZZOThadzRFZw?oc=5)
-
----
-
-### [La obesidad deja 120 marcas epigenéticas asociadas a la evolución de la resistencia a la insulina en niños y niñas - Gaceta Médica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3VQMUdwOHpOVm1uMk81THFsQ25MSjlTaGpZcTMtUTktSVBLc3Z3UFhHSXpGcDU1VE9ySFdkcmhGbktQaG9RSUN5SG9wM2wzTlgzbktTY1phaDJBamI3MzJsMTVKVjJvLXFiUHFCc3IyN2pJUGU2ZFdjdlVqY3Y3bzljVkZLNDFwbU5ON19FamY1V0JkY1A0eFRydXphdWpwOF9OZlVES1ZDX0lZZFNzOEY3ems4SVh4QlZISFoxaktNUWM?oc=5)
+### [La obesidad deja huellas en el ADN infantil más allá de la propia genética - Universidad de Granada](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkwxVlZLWGY1MUtfNlJjaEFQLXUtY3FaT244T3JjekRtRnMzVGxmNFFWQ1ZtUmp2TmRQTlMyOVhXaEdJV1ZrTUo1c0RwcHg2aHo2OUJ6YzNoNVNCQjAtbmE5bUY2UXJIQmg0S0VhU3dGR0RUN2hLcFQ3Y29wQXRNUFlDNkN0VUpRUlNSVEZaa2NIaExWaHo2eWRETWRqbU9y?oc=5)
 
 2026-06-02 <span class="news-indication-tag">obesidad</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3VQMUdwOHpOVm1uMk81THFsQ25MSjlTaGpZcTMtUTktSVBLc3Z3UFhHSXpGcDU1VE9ySFdkcmhGbktQaG9RSUN5SG9wM2wzTlgzbktTY1phaDJBamI3MzJsMTVKVjJvLXFiUHFCc3IyN2pJUGU2ZFdjdlVqY3Y3bzljVkZLNDFwbU5ON19FamY1V0JkY1A0eFRydXphdWpwOF9OZlVES1ZDX0lZZFNzOEY3ems4SVh4QlZISFoxaktNUWM?oc=5)
+來源：[Universidad de Granada](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkwxVlZLWGY1MUtfNlJjaEFQLXUtY3FaT244T3JjekRtRnMzVGxmNFFWQ1ZtUmp2TmRQTlMyOVhXaEdJV1ZrTUo1c0RwcHg2aHo2OUJ6YzNoNVNCQjAtbmE5bUY2UXJIQmg0S0VhU3dGR0RUN2hLcFQ3Y29wQXRNUFlDNkN0VUpRUlNSVEZaa2NIaExWaHo2eWRETWRqbU9y?oc=5)
+
+---
+
+### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
+
+2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
+
+---
+
+### [Infosalus.- El tratamiento de la obesidad debe ir acompañado de formación y seguimiento a largo plazo, según expertos](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTRoSWJJUXhlTXBvVTQ2dzMwVHdmYWtKWWI4aGZndm5POG5zUU94Q3JvMGVXeFZsbXhtekZySXk4OUg0UE54Q2NMdjV3dmtOMG5jeFpBYk0tTl8zbG9EWjRQN2pVSkd1QkxIa1I5UzgzRDBaR2lrWm91NHJJNEpCbDFtczNQc29NYVV5dmFoekNqUnduREdBbEdEOThnNkpQdnlPaVJZSXVTX3JCcHNHSWphUUljNlpaQS1yb04zR0hPcGFPeFpqdnB2YjU3QUxqeW1VRDBDcXJQX2N6WDV6bW5MVkJ5Y3c?oc=5)
+
+2026-06-02 <span class="news-indication-tag">obesidad</span>
+
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTRoSWJJUXhlTXBvVTQ2dzMwVHdmYWtKWWI4aGZndm5POG5zUU94Q3JvMGVXeFZsbXhtekZySXk4OUg0UE54Q2NMdjV3dmtOMG5jeFpBYk0tTl8zbG9EWjRQN2pVSkd1QkxIa1I5UzgzRDBaR2lrWm91NHJJNEpCbDFtczNQc29NYVV5dmFoekNqUnduREdBbEdEOThnNkpQdnlPaVJZSXVTX3JCcHNHSWphUUljNlpaQS1yb04zR0hPcGFPeFpqdnB2YjU3QUxqeW1VRDBDcXJQX2N6WDV6bW5MVkJ5Y3c?oc=5)
+
+---
+
+### [Warum viele Diäten scheitern: Stress, Blutzucker und Stoffwechsel rücken stärker in den Fokus](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlV0hmUkphRWV3RGNHVC1TLWd2WHM4NmNLTlJIQzhUbm5MNEZISENQSHFnbTZFdWcyWF8wT09YWGdnZUVvd2Z1LVBxMXhNZFlNVEt5WkdIMEs?oc=5)
+
+2026-06-02 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlV0hmUkphRWV3RGNHVC1TLWd2WHM4NmNLTlJIQzhUbm5MNEZISENQSHFnbTZFdWcyWF8wT09YWGdnZUVvd2Z1LVBxMXhNZFlNVEt5WkdIMEs?oc=5)
 
 ---
 
@@ -86,19 +102,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Obesità severa, intervento record con il Robot Da Vinci: rimosso utero di quasi 4 chili - Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
+
+2026-06-01 <span class="news-indication-tag">obesità</span>
+
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
+
+---
+
 ### [Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbXNnVlNrcWU5ZnVDalhxcHZMTUtUVWRiN2IwbXFubFdPdDdUOFUwcWN5TlJDVWpTRnJCeXZYWW9EMXhIRTFKZVN0WTBTNWtDVG1DSFFtWlFfa3c5SjBr?oc=5)
 
 2026-06-01 <span class="news-indication-tag">obesity</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbXNnVlNrcWU5ZnVDalhxcHZMTUtUVWRiN2IwbXFubFdPdDdUOFUwcWN5TlJDVWpTRnJCeXZYWW9EMXhIRTFKZVN0WTBTNWtDVG1DSFFtWlFfa3c5SjBr?oc=5)
-
----
-
-### [La Fundación Jiménez Díaz plantea un abordaje total de la obesidad: mucho más allá que la suma de calorías](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
-
-2026-06-01 <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
 
 ---
 

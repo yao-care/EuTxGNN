@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [“Once It’s Gone, It’s Gone”: The Silent Brain-Sapper Striking Millions of Postmenopausal Women - Bored Panda](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeldmRXNPc2NMLXpEa1lOaHRlRTBHb09aV3pKVEVxVWtYazBicFFTQ0xndG1iM29zQTZLc2FQQmtaX2pCWXQ4MmtHNzJlVkQ4MWtWbXl0aUlQMkxjSUNPb1A4Q2pYd2dyYW92MVlHV3RvbHB4LWpVdXVqREI2Z21Wck5DQWZiczR3T2wwaWJKRVZnMkE?oc=5)
+
+2026-06-02
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeldmRXNPc2NMLXpEa1lOaHRlRTBHb09aV3pKVEVxVWtYazBicFFTQ0xndG1iM29zQTZLc2FQQmtaX2pCWXQ4MmtHNzJlVkQ4MWtWbXl0aUlQMkxjSUNPb1A4Q2pYd2dyYW92MVlHV3RvbHB4LWpVdXVqREI2Z21Wck5DQWZiczR3T2wwaWJKRVZnMkE?oc=5)
+
+---
 
 ### [I've donated part of my brain to help find a cure for dementia](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdEhtSzZRdTQtdlNvbk1hOFlITWJlX19odXA5cWViVHRmWDk2YnBnZ2RENXJjS0VCSGdfNTVLWEZWeWdjaU1zY0diU1dyUHFtV1Y2WkI5SHFocTNh?oc=5)
 
