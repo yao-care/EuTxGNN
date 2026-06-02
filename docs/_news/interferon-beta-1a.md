@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（5 則）
 
 ### [How long can humans live? We simply don’t know](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93QW1ma3doaDRKdmVxd2JvWnloOVpuMHc1Qm1OcERNZ1JkWTg3V21kMEdESkpXZ0tMMjd4YVlDUTQ1OHI4cWtwVmZwY2VQWm4wa3YtTDRiNlNjRlJycm5J?oc=5)
 
 2026-06-01 <span class="news-indication-tag">MS</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE93QW1ma3doaDRKdmVxd2JvWnloOVpuMHc1Qm1OcERNZ1JkWTg3V21kMEdESkpXZ0tMMjd4YVlDUTQ1OHI4cWtwVmZwY2VQWm4wa3YtTDRiNlNjRlJycm5J?oc=5)
-
----
-
-### [La huella microbiana del adenoma persiste durante años y mantiene el riesgo de cáncer colorrectal - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2kwNWtVU1gySWFTQ3NDYy1ua1JmQkk4dE1kZ3Z1XzNqbUlyT3JOc0xjUUl5ZjhkWVhObzladXJSZ2dZSUNoZUZHTGx3aUUtaVV6OWNoM2lEaEMzU2ZSSHBNQkJUSkhTNmhxa2NWZmdWc3FPSEZEenF2T0RLaC14ay12Y3JHYTVCYjM0WE9YRnVaOWlNVXNQN2M0ZVhGbzROcGpaT2lnZnZ1TVN5UUMwTzJCMDgwSUxDMlJNdG1aOGx2b21Yd2ozLVB3?oc=5)
-
-2026-06-01 <span class="news-indication-tag">MS</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2kwNWtVU1gySWFTQ3NDYy1ua1JmQkk4dE1kZ3Z1XzNqbUlyT3JOc0xjUUl5ZjhkWVhObzladXJSZ2dZSUNoZUZHTGx3aUUtaVV6OWNoM2lEaEMzU2ZSSHBNQkJUSkhTNmhxa2NWZmdWc3FPSEZEenF2T0RLaC14ay12Y3JHYTVCYjM0WE9YRnVaOWlNVXNQN2M0ZVhGbzROcGpaT2lnZnZ1TVN5UUMwTzJCMDgwSUxDMlJNdG1aOGx2b21Yd2ozLVB3?oc=5)
-
----
-
-### [Polyzystisches Ovarialsyndrom erhält neue Nomenklatur - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZElZZVNCNHV3WTYxc2ZlMDJTekZvU2JkTzB6bTJUWXRyODY1Nm02ZXNndXlmWmRuYzdoMU50NXBXNXBkLWF3OURIcnFwd25Ya3dXMnBucVBkYWdQclN3S05tY2tpNTlxaUZNa3B0SldpVWRWU01Gd3ZHcV80TkZCX1BOTGRwRURZQWJIYjdvTQ?oc=5)
-
-2026-06-01 <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZElZZVNCNHV3WTYxc2ZlMDJTekZvU2JkTzB6bTJUWXRyODY1Nm02ZXNndXlmWmRuYzdoMU50NXBXNXBkLWF3OURIcnFwd25Ya3dXMnBucVBkYWdQclN3S05tY2tpNTlxaUZNa3B0SldpVWRWU01Gd3ZHcV80TkZCX1BOTGRwRURZQWJIYjdvTQ?oc=5)
-
----
-
-### [Los avances en biomarcadores y biotecnología transforman el abordaje de la esclerosis múltiple](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmZrSllaU2c1dExTNjVmR0twMG9TVUUzbWd4SlQzNlhBRTB1dHlaaGJmSUx1MlhmM2k4bnRmSXJkOEdoXy1MVHhFOEFyc1lXMEFvQllwRTY2cUk5WkpmSDBwenp0QzNkdW1vU3NJeHNZM2tXUnpCRG41cGlYRXJQdkRnQW03bGktNHJEbDJwRnZIWHhUbGZCcjcwOTNMaEZYUE9HQjNYVnliRUEwa2Q2SGdMLTk0OHB6ZFpNRDlpYlNFUQ?oc=5)
-
-2026-06-01 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[pharmatech.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmZrSllaU2c1dExTNjVmR0twMG9TVUUzbWd4SlQzNlhBRTB1dHlaaGJmSUx1MlhmM2k4bnRmSXJkOEdoXy1MVHhFOEFyc1lXMEFvQllwRTY2cUk5WkpmSDBwenp0QzNkdW1vU3NJeHNZM2tXUnpCRG41cGlYRXJQdkRnQW03bGktNHJEbDJwRnZIWHhUbGZCcjcwOTNMaEZYUE9HQjNYVnliRUEwa2Q2SGdMLTk0OHB6ZFpNRDlpYlNFUQ?oc=5)
 
 ---
 
@@ -110,19 +86,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Women hope renaming PCOS health condition could help millions of women worldwide](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NVTVmUnk5Q2dpSmxkb2YzdDVjZGtBYXd4NTA2OU1WUFJsNk1NOGlaN1UxcDlJeEk1dV8wR3ZGc0hYazFBbHd6YVlEMFRWaUlNZ0RBcTVQa0tVdGNY?oc=5)
+### [Esclerosis: las mil caras de una enfermedad que paraliza - Diario de León](https://news.google.com/rss/articles/CBMingFBVV95cUxNRmRWSXZuRkdPQk5VVTYtdGMyTmlpQjVWLVZ1cjRRbEltc2dxUWNyM2pJSTVXblJ3WlZwUFl5WVZtZVVuZnNlQkEyM2dLajVLMVVsSG1SUThFNmZUNFJmZ25KNmpNM3BGVk00dEtXekhyQU9FbWZTUjBJWjFBOWdNZDMwU08yaUNqejZxcHA2bXltQnJQOTJJZzFlYU53Zw?oc=5)
 
-2026-05-31 <span class="news-indication-tag">MS</span>
+2026-05-31 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NVTVmUnk5Q2dpSmxkb2YzdDVjZGtBYXd4NTA2OU1WUFJsNk1NOGlaN1UxcDlJeEk1dV8wR3ZGc0hYazFBbHd6YVlEMFRWaUlNZ0RBcTVQa0tVdGNY?oc=5)
-
----
-
-### [Aprender a convivir con la enfermedad de las mil caras: el reto invisible de la Esclerosis Múltiple - La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
-
-2026-05-31 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXJENUJNMWFoZ1hqZ0NmNkUzNWZJU3lIYWhvOWd3R1BidjdFU1cyTXctZV9yWFcwWVlRT2RkUGZub3g5ZHkzZlJJVXRrSE94QTRmclBpamlXQWstckVpNk5NQnRqTEp6WVRsMkVwc1REN1hpNVkzVkg2eUNlcGdlYlRZYUw5X2tvWloxdVlwcGNELUZmbDh0TkhxVlFQZk1HTjBPRUlaZ3NRbEN1VEhXRHZWS2Z0NkNMM3BuX2NsOExDV2g3UlVJVGV30gHPAUFVX3lxTE14YVIxTnZvV01KQkhsdm92WThCcmppdVZTVVJsYnJxZXp3TnpYQkU0d0ZpQ0haSE40cUpCbmwzNWpHMkVsTERRaFdIRTV5eXNCQ2pXM3FGTnZ5bnI3VEdCemVNSTA5bzAwS3c0TUZBVzBWS3ZhSUtUWmpRVkpITGRlTlFMZ2dKWWhST0N5VXNhRzU3ZGtiSGd0QWgwYzZydExVTHdVN1lsWUQzRkhaSUc4U2h5ZzdBejNycXBBekdnRFlrZ2ZHazdzOHA1YlVkNA?oc=5)
+來源：[Diario de León](https://news.google.com/rss/articles/CBMingFBVV95cUxNRmRWSXZuRkdPQk5VVTYtdGMyTmlpQjVWLVZ1cjRRbEltc2dxUWNyM2pJSTVXblJ3WlZwUFl5WVZtZVVuZnNlQkEyM2dLajVLMVVsSG1SUThFNmZUNFJmZ25KNmpNM3BGVk00dEtXekhyQU9FbWZTUjBJWjFBOWdNZDMwU08yaUNqejZxcHA2bXltQnJQOTJJZzFlYU53Zw?oc=5)
 
 ---
 

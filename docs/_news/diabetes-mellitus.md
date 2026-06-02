@@ -3,7 +3,7 @@ layout: default
 title: "diabète（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabète（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
+description: "diabète（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [« C’est dramatique » : diabète de type 2, infarctus… Les jeunes ont de plus en plus « des maladies de vieux » - Le Parisien](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdjB2WnhweUpWWndta3RDN05fUUdjSi1WMmpRYUh6Y2VqVmtRWG1vUkFuX0RtZ19HUVkyUDhKNklPWmpIQ21NS3ctMmFVRjJKOExqMXRQT1lGaUxVNlBiQXYwRUhteXdyeldWZ0J1UlRlbndkWVJ3RVN1WnRSelg1X2Z3TDR6dXcyMVVQU0I3T3lRRUl2Z2RmYm5vdUZsZF9ORHdNZmFhTTU2VDJVcDVjOE1TVkFxZ2ZBUUJaZEhOcHhMYzBnTjU2dGUyMENfWlZFMERoVFRmQzBvRXJod0tHLVpoNHp6UjVQWWo1SmZOQlNNQTRnc1dBSkNsb2lYUXdfcXEwX2owNy1NUQ?oc=5)
 
@@ -161,14 +161,6 @@ permalink: /news/diabetes-mellitus/
 2026-05-31
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnlUUGUxM1FCNWpOdkNpSWlIMHYtaVFEMlRUNVBvNXVEellUQVJQVzA1TGRoYkRKVS1XZTVudGRBWHFiakZJVjdScnJuVi01ZFBleUFpUTkzdUlGbjluSHBrZ1o3MFBBS2dYQ0R4b2hnazVKZEhPVk85MzN6V0k3bFE4UlFESnhJT253ZF80M2dkTzJlbzFkRzFCTzdJRUpabjJIb3ViRDlrbk9uYnV3MTFBTlY4Qm9hYi1vNVZ6dHljODRyS29UY25iWQ?oc=5)
-
----
-
-### [Wie sich ME/CFS und Diabetes gegenseitig beeinflussen können - Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
-
-2026-05-31
-
-來源：[Rheinischer Spiegel](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5sV0RDcHFvTUQxNVl3WmxzWGZCUnBmVWlhOEdJb3NxX2pkMDRMTUJIdUpnSXNCLVpzaFRrUkFSQ1hKOXRrdTd3SEZEM0dDOHFDQXJyWmZzdTZnOUo2dTBJb1FxN1pOdEFZZV92czN5b0FpV2JaMUEwRTNLbTVhYlZ2cDBOcUpqMlU0ZzFoTkd4Z2RFU1BaUA?oc=5)
 
 ---
 

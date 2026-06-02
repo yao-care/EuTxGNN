@@ -14,7 +14,7 @@ permalink: /news/nivolumab/
 ---
 
 <p class="key-answer" data-question="Nivolumab 有什麼相關新聞？">
-<strong>Nivolumab</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nivolumab</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/nivolumab/
 <p><a href="{{ '/drugs/nivolumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（29 則）
 
-### [Tumori, un'iniezione può ridurre e in alcuni casi eliminare il cancro: lo studio - Il Tirreno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbklXcExULVZ2NjllZGxXOHpIVnBQQ3B3V1BXTlFCSGNlX200aXUzWVp6RzBvN1VHMjI4SDVUYlB4OWdDR0hFekRucWxja3VkeUJNOUZYemV0TjBpcHBocW5ENXZodEx4UUVjM0Vqbi02cHVBUld4NzhVdjVRY3lSV1ZfY09XZ09Reml2MU5SbjY4Y0NEd3ZmdWZKM2VpNFBCRDM0WHdBZnFiSHplV2ItcHpnbGlON2IxbVQwTlNYaUo2RUxrQ2VBMDdsa2RLV3ZvcDJrWW9UdEVQVHU5NHotTGVMcjY?oc=5)
+### [Melanoma, il vaccino a mRna taglia del 49% il rischio di recidiva a 5 anni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdURLUWRfMnF0V25aREw1NTB5SWZXWWNNc0pXU0ZuTEZiMFFPZHdDdGJ5SXdGZDNpQWZEU3RzZk5uZkJIb21wSk8xRmpGbkZpVmRxMUUwMlhYMTFFdWhMYjRSNnZOcmZZRVFLQmF1aUIzZmpQRjJ1OW9mZ3dZWldRTE1Ua0YzLXlzc21McDBUU0lzZGZtaFJVQ2VUVHpwSC10cGtCNktuTQ?oc=5)
 
 2026-06-01 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbklXcExULVZ2NjllZGxXOHpIVnBQQ3B3V1BXTlFCSGNlX200aXUzWVp6RzBvN1VHMjI4SDVUYlB4OWdDR0hFekRucWxja3VkeUJNOUZYemV0TjBpcHBocW5ENXZodEx4UUVjM0Vqbi02cHVBUld4NzhVdjVRY3lSV1ZfY09XZ09Reml2MU5SbjY4Y0NEd3ZmdWZKM2VpNFBCRDM0WHdBZnFiSHplV2ItcHpnbGlON2IxbVQwTlNYaUo2RUxrQ2VBMDdsa2RLV3ZvcDJrWW9UdEVQVHU5NHotTGVMcjY?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdURLUWRfMnF0V25aREw1NTB5SWZXWWNNc0pXU0ZuTEZiMFFPZHdDdGJ5SXdGZDNpQWZEU3RzZk5uZkJIb21wSk8xRmpGbkZpVmRxMUUwMlhYMTFFdWhMYjRSNnZOcmZZRVFLQmF1aUIzZmpQRjJ1OW9mZ3dZWldRTE1Ua0YzLXlzc21McDBUU0lzZGZtaFJVQ2VUVHpwSC10cGtCNktuTQ?oc=5)
 
 ---
 
-### [‘Wonder pill’ shrinks tumours in tests on six cancer types - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWZtdVBpb0pCVE95akRNYk1GNTc3bkRYVlFkWHhOSDB2NkUxUll4WWw4QUlJSXMtOGQxVkdJUFRtY19KNXZJRVFFekV0OWdwVlR5ajBSd0VZSUZOZmdjbF9hWDFUTjJ4dkpVM1lkZ2hDc195d2E3Mm9acTVrSkF1TGpCTlA1LWxvbUI5MGROQmFPV3lOcFE?oc=5)
+### [Un virus expérimental génétiquement modifié est parvenu à stopper l'un des cancers les plus mortels](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNldZSnRaR191eXROQ0tIRE95WUxmbWxNUmFrNWI4bUc2ZFRKTzZfclMtU3Q4b0dqRHY4M1FkeG9KLVBzZDNlamVET2dGTVZBaGd4ZS1ELW84OW1COGJLSjA4b1g0S2RiZk5LRGRXWFhTZFBXYjRNcTRmOC1DQ1VjZ3haYWZRQXd2WllOWF9hUkR3cGhMcW1SMTlhWDhkaWZYWDY1dzZHUW5CWGxHWldqSmZyNjlPLVVpQWtrVzd1WEdoLUxnbVNKUW1OelZBNlRlMkpN0gHYAUFVX3lxTE5VY09GdXNLaXBtOFNJTzZGcHFpemtwQm1PcmJHS3hfdWIyNzE2cFpUSW1qaHNLZTVFZnNSekVHVG1PazFrSUVBUGlYZmVHVk9ScXRDYXVtWFRmVDM2cVVzSE5QQ1Z4ZjI2TGxZWGZSUHVDZTdIVDZoTUYzb29zZnFVMFFTNU1hNzRDM2QtVXF5WkVtQlM5dmNVYzBYUHJ1eVZFemxYZUItSUFjNFh5cW5rUkhmUWpydzlxWFNUeXJSVU13d2dHMVNGZkNaRW5XSWpWb3BmanJVcA?oc=5)
 
 2026-06-01 <span class="news-indication-tag">cancer</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWZtdVBpb0pCVE95akRNYk1GNTc3bkRYVlFkWHhOSDB2NkUxUll4WWw4QUlJSXMtOGQxVkdJUFRtY19KNXZJRVFFekV0OWdwVlR5ajBSd0VZSUZOZmdjbF9hWDFUTjJ4dkpVM1lkZ2hDc195d2E3Mm9acTVrSkF1TGpCTlA1LWxvbUI5MGROQmFPV3lOcFE?oc=5)
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNldZSnRaR191eXROQ0tIRE95WUxmbWxNUmFrNWI4bUc2ZFRKTzZfclMtU3Q4b0dqRHY4M1FkeG9KLVBzZDNlamVET2dGTVZBaGd4ZS1ELW84OW1COGJLSjA4b1g0S2RiZk5LRGRXWFhTZFBXYjRNcTRmOC1DQ1VjZ3haYWZRQXd2WllOWF9hUkR3cGhMcW1SMTlhWDhkaWZYWDY1dzZHUW5CWGxHWldqSmZyNjlPLVVpQWtrVzd1WEdoLUxnbVNKUW1OelZBNlRlMkpN0gHYAUFVX3lxTE5VY09GdXNLaXBtOFNJTzZGcHFpemtwQm1PcmJHS3hfdWIyNzE2cFpUSW1qaHNLZTVFZnNSekVHVG1PazFrSUVBUGlYZmVHVk9ScXRDYXVtWFRmVDM2cVVzSE5QQ1Z4ZjI2TGxZWGZSUHVDZTdIVDZoTUYzb29zZnFVMFFTNU1hNzRDM2QtVXF5WkVtQlM5dmNVYzBYUHJ1eVZFemxYZUItSUFjNFh5cW5rUkhmUWpydzlxWFNUeXJSVU13d2dHMVNGZkNaRW5XSWpWb3BmanJVcA?oc=5)
 
 ---
 
-### [«Bevevo 8 caffè e riuscivo a dormire. Poi ho iniziato a sudare tanto di notte e scoperto di avere un tumore» - Il Messaggero](https://news.google.com/rss/articles/CBMiugFBVV95cUxPck1OSmxmcEhpYzl3QkphUVo4dFJPTEx3eUtmT016R3RLcXZaUWNsYWZXeXB0MjVyNkI4Q0FHNmFKYTNfNi1VY0t2Z2JXdUZ0YjA2eWZ3WjlSSGVtN0dROHBqM2JzSWZFd1Z4Y0pjQUdYOVQ3cjFZcURKZjk4THhxSGFxYVhtenFtOTZ4V0Q0ekxCTEhOSTZfdnd5WlVYSWYwOWlTUTNJY1c4clJqNDlXcHNDM2NnRmc1bWfSAbMBQVVfeXFMTXBRR3JybjhhRzZubVU0YTRCTUxOVlBwQ0FGMXBDS25oQm9rMXBzc0U1NkR6QWlnenR4T1hDQmhMdmV2S3ZaZms5MWRrU2VjMUUzWXYwUEVOVlJFdGtGMmMzdlhCamdsYjRqVm5LOW02SXpsT001bkpNR3UzalozdWRGTlFwU3lwUFZQTDhjVjZZcFlCY2pTMGFEMVpRTzZNV0REQlZSY3p6RzhkblpNRlFyZ1k?oc=5)
+### [Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVMxdmFLbnBxX1hpSlpDUDN3bGZMNDhyOTBZYkxwSHpiM3c4N1hORDI4akJLSERhZU5BdFNXSWpDckRGZW5xdzlYQVdQbV82SHVIVnkxUExKUjY2M2ZJdEY5bkNHbDYwcW5JY2s3bzBRam1qckFpTzJfRWtzYXA4R1NHR3NwMVZ1N1BfVlZuVHFwdEtRYmJxLXNjV1cxX2ZvbC1iQjMwaF9IcXExb3dUdQ?oc=5)
 
-2026-06-01 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-01 <span class="news-indication-tag">cancer</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiugFBVV95cUxPck1OSmxmcEhpYzl3QkphUVo4dFJPTEx3eUtmT016R3RLcXZaUWNsYWZXeXB0MjVyNkI4Q0FHNmFKYTNfNi1VY0t2Z2JXdUZ0YjA2eWZ3WjlSSGVtN0dROHBqM2JzSWZFd1Z4Y0pjQUdYOVQ3cjFZcURKZjk4THhxSGFxYVhtenFtOTZ4V0Q0ekxCTEhOSTZfdnd5WlVYSWYwOWlTUTNJY1c4clJqNDlXcHNDM2NnRmc1bWfSAbMBQVVfeXFMTXBRR3JybjhhRzZubVU0YTRCTUxOVlBwQ0FGMXBDS25oQm9rMXBzc0U1NkR6QWlnenR4T1hDQmhMdmV2S3ZaZms5MWRrU2VjMUUzWXYwUEVOVlJFdGtGMmMzdlhCamdsYjRqVm5LOW02SXpsT001bkpNR3UzalozdWRGTlFwU3lwUFZQTDhjVjZZcFlCY2pTMGFEMVpRTzZNV0REQlZSY3p6RzhkblpNRlFyZ1k?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVMxdmFLbnBxX1hpSlpDUDN3bGZMNDhyOTBZYkxwSHpiM3c4N1hORDI4akJLSERhZU5BdFNXSWpDckRGZW5xdzlYQVdQbV82SHVIVnkxUExKUjY2M2ZJdEY5bkNHbDYwcW5JY2s3bzBRam1qckFpTzJfRWtzYXA4R1NHR3NwMVZ1N1BfVlZuVHFwdEtRYmJxLXNjV1cxX2ZvbC1iQjMwaF9IcXExb3dUdQ?oc=5)
 
 ---
 
@@ -102,11 +102,27 @@ permalink: /news/nivolumab/
 
 ---
 
-### [Melanoma, il vaccino a mRna taglia del 49% il rischio di recidiva a 5 anni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdURLUWRfMnF0V25aREw1NTB5SWZXWWNNc0pXU0ZuTEZiMFFPZHdDdGJ5SXdGZDNpQWZEU3RzZk5uZkJIb21wSk8xRmpGbkZpVmRxMUUwMlhYMTFFdWhMYjRSNnZOcmZZRVFLQmF1aUIzZmpQRjJ1OW9mZ3dZWldRTE1Ua0YzLXlzc21McDBUU0lzZGZtaFJVQ2VUVHpwSC10cGtCNktuTQ?oc=5)
+### [«Bevevo otto caffè e riuscivo comunque a dormire dopo il lavoro. Poi ho iniziato a sudare tanto di notte e scoperto di avere un tumore»](https://news.google.com/rss/articles/CBMizgFBVV95cUxONmpQN0E1V0plTDJ2SUdrVDJsQUhOQUc3ZVdqRk81NU42NnVLOTZNamFjeTFFUkZqekFBWTRncEY0NEdDRUNRbVozeV9CN3J1SnZzaXo4RktNMEdqdGw4b0lCU3piVnNPN2R1YmNkN1pRTWw4bkdoZWdQcjdzU3otSzRYY0VOYmpqOVRwa0hUbzlJSnFjMzktb1FXNVFQekVPMUNMTmdFT2daUlZQVVROclM3ZUc0MkpMSTQ3RXFfSmFENS1mVXdGZXBaOVltQdIBuAFBVV95cUxQSEJQSlBOdUNFbUdEdEpIZ1huTjFqYUtuOE04c2Y3bjhwWTBVZHNDSFBnUHVpb1drWUt1cTBNNm1VZ0xVd2Y0SnlLQU9SRnpWM3Rsel9lMUpzNEFqLVZRSUYtYk5HWldDTTlkLW45TGlMZTNFZ1VaLU5LUFVma0lsUzFWNm5RMFNsa1RNRmVTUU43aHliUkplalQxeHNWbGgwdlFkdkw2S3pKdmlvRGVwMWg5WUtlZnF1?oc=5)
+
+2026-06-01 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxONmpQN0E1V0plTDJ2SUdrVDJsQUhOQUc3ZVdqRk81NU42NnVLOTZNamFjeTFFUkZqekFBWTRncEY0NEdDRUNRbVozeV9CN3J1SnZzaXo4RktNMEdqdGw4b0lCU3piVnNPN2R1YmNkN1pRTWw4bkdoZWdQcjdzU3otSzRYY0VOYmpqOVRwa0hUbzlJSnFjMzktb1FXNVFQekVPMUNMTmdFT2daUlZQVVROclM3ZUc0MkpMSTQ3RXFfSmFENS1mVXdGZXBaOVltQdIBuAFBVV95cUxQSEJQSlBOdUNFbUdEdEpIZ1huTjFqYUtuOE04c2Y3bjhwWTBVZHNDSFBnUHVpb1drWUt1cTBNNm1VZ0xVd2Y0SnlLQU9SRnpWM3Rsel9lMUpzNEFqLVZRSUYtYk5HWldDTTlkLW45TGlMZTNFZ1VaLU5LUFVma0lsUzFWNm5RMFNsa1RNRmVTUU43aHliUkplalQxeHNWbGgwdlFkdkw2S3pKdmlvRGVwMWg5WUtlZnF1?oc=5)
+
+---
+
+### [Postman sues NHS over major surgery to remove cancer he DIDN'T have - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEd5YlB4eHVQb0VtTUhDZVp5ZlVVdktvRXhlRnM0cko2MmNDWHNFVHo3MHkySHl3RmllbGVvNTMtMElqaW9VQWdzTk1sV2U5UUIzRV9hRnVmMmh1cUlqcGd0ODlGNU5PQklpbmVDR0w5VnVpa2xBb3BNMXhyYmU5NU9SS0twbmVZUzdsS3NOb2Q0Nks2ZXFucXln?oc=5)
+
+2026-06-01 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEd5YlB4eHVQb0VtTUhDZVp5ZlVVdktvRXhlRnM0cko2MmNDWHNFVHo3MHkySHl3RmllbGVvNTMtMElqaW9VQWdzTk1sV2U5UUIzRV9hRnVmMmh1cUlqcGd0ODlGNU5PQklpbmVDR0w5VnVpa2xBb3BNMXhyYmU5NU9SS0twbmVZUzdsS3NOb2Q0Nks2ZXFucXln?oc=5)
+
+---
+
+### [Tumori, un'iniezione può ridurre e in alcuni casi eliminare il cancro: lo studio](https://news.google.com/rss/articles/CBMimgFBVV95cUxQY2JRWjYwckhiQy1rUlQ0TkhpXzRTLVg1YUhGNmxKcFRCNzZxTjVJcUx0TFFFRFUyX3hUVW54ZDFBUWdVOFBENUZnT0hpZjVPSm9LaXZra3gxM1JQcUF2a0l5Q0VVRWlZQUtIZElwbHpZUG5rMEJwMEVKMTlRZUNMSmYzRFZJUVVkdWNMOEpvZEN6WW9lVUhoNk53?oc=5)
 
 2026-06-01 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdURLUWRfMnF0V25aREw1NTB5SWZXWWNNc0pXU0ZuTEZiMFFPZHdDdGJ5SXdGZDNpQWZEU3RzZk5uZkJIb21wSk8xRmpGbkZpVmRxMUUwMlhYMTFFdWhMYjRSNnZOcmZZRVFLQmF1aUIzZmpQRjJ1OW9mZ3dZWldRTE1Ua0YzLXlzc21McDBUU0lzZGZtaFJVQ2VUVHpwSC10cGtCNktuTQ?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxQY2JRWjYwckhiQy1rUlQ0TkhpXzRTLVg1YUhGNmxKcFRCNzZxTjVJcUx0TFFFRFUyX3hUVW54ZDFBUWdVOFBENUZnT0hpZjVPSm9LaXZra3gxM1JQcUF2a0l5Q0VVRWlZQUtIZElwbHpZUG5rMEJwMEVKMTlRZUNMSmYzRFZJUVVkdWNMOEpvZEN6WW9lVUhoNk53?oc=5)
 
 ---
 
@@ -136,7 +152,7 @@ permalink: /news/nivolumab/
 
 ### [Un ensayo clínico demuestra que una vacuna contra el cáncer puede erradicar tumores completos en los pacientes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXhKZlZ3QUJtODM3Ym9ycGFSbHFlZ0lFd3hxM19DNHlEdjJvWjY1bWduRGhtODJxWU1RMjFGTkR2UmQ1akJHZGtFRkcyODFxd2NxdFdIMTlDV1dXekFPSXI2SmJoT3ZOQ1hYT3QxTEhlMDJHNzBDUXItZmhzNWhaZlVWQXdpWDRKWW5vWHgzVzFvMzN4WWlxZDg2bGlLVlVfa0t1cFNBTnlZalVpZUJNSlE2NFVDVzg2SkRzRE1fdTQzNE3SAcgBQVVfeXFMT2phejY1MGpCMDMwbzJ1Y1pkN0JHTW5Hcko2UE0yTXlPQ2RoU0hsRlFHYjlTSDlpMHo5bEc0ZDMxOVFCVkJtUlFRYXBzWlVPSUpBSkg1anh1OXVRLXRmdjZhRkNFUUxHTXlyRG50REI2eERZUHQxU3BydjJvdjFDc2QxMk95eWNoeFFJNWM3dzhYR2l0OTNxYmc1c2RLN0ZoQ0tvNGdVcm5RRll2VExsUXIwc0tVV3NMb3lxT0cxanVySXplZlRNNXA?oc=5)
 
-2026-06-01 <span class="news-indication-tag">tumor</span>
+2026-06-01 <span class="news-indication-tag">cancer</span>
 
 來源：[elDiario.es](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXhKZlZ3QUJtODM3Ym9ycGFSbHFlZ0lFd3hxM19DNHlEdjJvWjY1bWduRGhtODJxWU1RMjFGTkR2UmQ1akJHZGtFRkcyODFxd2NxdFdIMTlDV1dXekFPSXI2SmJoT3ZOQ1hYT3QxTEhlMDJHNzBDUXItZmhzNWhaZlVWQXdpWDRKWW5vWHgzVzFvMzN4WWlxZDg2bGlLVlVfa0t1cFNBTnlZalVpZUJNSlE2NFVDVzg2SkRzRE1fdTQzNE3SAcgBQVVfeXFMT2phejY1MGpCMDMwbzJ1Y1pkN0JHTW5Hcko2UE0yTXlPQ2RoU0hsRlFHYjlTSDlpMHo5bEc0ZDMxOVFCVkJtUlFRYXBzWlVPSUpBSkg1anh1OXVRLXRmdjZhRkNFUUxHTXlyRG50REI2eERZUHQxU3BydjJvdjFDc2QxMk95eWNoeFFJNWM3dzhYR2l0OTNxYmc1c2RLN0ZoQ0tvNGdVcm5RRll2VExsUXIwc0tVV3NMb3lxT0cxanVySXplZlRNNXA?oc=5)
 
@@ -144,7 +160,7 @@ permalink: /news/nivolumab/
 
 ### [Harrogate woman, 92, first in UK for new cancer treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0V0FOb1BhRjRqM1ZyYVE4eFB2Ums0d3NWYjJLVGgyMlVBYmtIZC1TMDRGNTU3dERwZ2FwUHMtQWhkVnh1czFZck9wd2ZrNG95dUNlMWRqNzR1ZlBD?oc=5)
 
-2026-06-01 <span class="news-indication-tag">cancer</span>
+2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0V0FOb1BhRjRqM1ZyYVE4eFB2Ums0d3NWYjJLVGgyMlVBYmtIZC1TMDRGNTU3dERwZ2FwUHMtQWhkVnh1czFZck9wd2ZrNG95dUNlMWRqNzR1ZlBD?oc=5)
 
@@ -171,14 +187,6 @@ permalink: /news/nivolumab/
 2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUZZQ2ktNFMtR0tNRi1ZNmxqM09OQkZTS2VaNHFseWl2TENTV1JQRFZEa2lvUlFPTVlPYi03UUF2UFBxZExfOXFBOUlYSHc3SzluOWN5VDhjQ29mT2JTTVdGNFhWQ1lheGwyQUFRS25HQnFPdFQtOEwwQkxveGxnZDZDZzFVb0o2UkUtY3RpR0NXMHJKVGc?oc=5)
-
----
-
-### [Cancer du pancréas : "On a ouvert une porte" avec ce nouveau médicament, salue l'oncologue Fabrice André](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ2lpb2cxUldFQ0NxRTZITjRDMXA0STdXU0JLb3lHNGMxUWt4aUVRUWM5RnlNaDVlcnBtQks3Y1RZbHpaVmJlSXNITmJoUG9IcjFiM1pGQXc2WmVUSzFzb1MwX2VKV2tzT01BM1lvRVR4Wmd1Q3FnZ09LcXlNTEY0RXc1WjhENHhLRDBKMGJEMTRwTjNaaFUwT2EtMGxOejdoSHg0U3RLRE1VbHRGUjBSajdKd1RJU2pJM2VjQ2pqZ3BtYVg4M0o0bzQxZ2tZbGdmOUN5VzZ6WlFjSHVuVGtYN3RhMHk1Zw?oc=5)
-
-2026-06-01 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ2lpb2cxUldFQ0NxRTZITjRDMXA0STdXU0JLb3lHNGMxUWt4aUVRUWM5RnlNaDVlcnBtQks3Y1RZbHpaVmJlSXNITmJoUG9IcjFiM1pGQXc2WmVUSzFzb1MwX2VKV2tzT01BM1lvRVR4Wmd1Q3FnZ09LcXlNTEY0RXc1WjhENHhLRDBKMGJEMTRwTjNaaFUwT2EtMGxOejdoSHg0U3RLRE1VbHRGUjBSajdKd1RJU2pJM2VjQ2pqZ3BtYVg4M0o0bzQxZ2tZbGdmOUN5VzZ6WlFjSHVuVGtYN3RhMHk1Zw?oc=5)
 
 ---
 
@@ -262,14 +270,6 @@ permalink: /news/nivolumab/
 
 ---
 
-### [Darmkrebs: Archäen beeinflussen Tumorwachstum massiv - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUFnUzljSk9JUzNxMnoycHYwcl8zVjVCM0xSTndueFJ0QnQxeHAxRXdiaTB1RGx5Q1puWmZjM21sbURYV29ZYjEzaGs3Rk9uVG91azJJd3VKSFJfOWVaTnB6NXNNOVFGcWhhZW95T3BYc2lLSVN5dnRsVk9icmozNFBvcmRXZ2dGeVJBeTlYNXMzNFdIYlMzUzlQUEVNSWQwY3M0?oc=5)
-
-2026-05-31 <span class="news-indication-tag">tumor</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUFnUzljSk9JUzNxMnoycHYwcl8zVjVCM0xSTndueFJ0QnQxeHAxRXdiaTB1RGx5Q1puWmZjM21sbURYV29ZYjEzaGs3Rk9uVG91azJJd3VKSFJfOWVaTnB6NXNNOVFGcWhhZW95T3BYc2lLSVN5dnRsVk9icmozNFBvcmRXZ2dGeVJBeTlYNXMzNFdIYlMzUzlQUEVNSWQwY3M0?oc=5)
-
----
-
 ### [Médecine. Comment des avatars de tumeurs peuvent prédire l’efficacité des traitements - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzZwLWV4UXl3OHBuUkdaQ21tWTZ2Ty1jQ3BGNERUbHlCRmhRNHN1TWgyZVI4d2lxLTJGZzlpbndwWUJUZHl6cTdlNHlxQ0ZZRXlUdENSYVlOa3hUeGRJc1hOMHh0dHJQaTFfNkY4ZnVHU1E1b2JjR0hReHdzMlp2V3dELUFIRDQzLXo4NHlfa1FtbU0tbDVKZEZyd195amJodWZuekNkMVI5NWVVQUY3bVdCUXhUZTd5QjY5ZjlfQURuUkhNYkE4dTd1c2VRV0RldVE?oc=5)
 
 2026-05-31 <span class="news-indication-tag">cancer</span>
@@ -283,14 +283,6 @@ permalink: /news/nivolumab/
 2026-05-31 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMikAJBVV95cUxNSkVmUmJxMVhmeEplakFoYnpNbFVkb2o2eEZteXdiWndwXzlod0xGYlhyazhBM2s2TU9UWUJSeWYtQzRleTBoZnN6VjE2MkJ0MVI3dTJHT1NFQ2xWUkRMRzR4WENfT2hJelc3WThSeHV3ZGJ2dWNCQ21BeXdJX2pTeGc4aHRWbkRHTTFCdEdoY3V4WFROT0NaT2UxaXJHR1hYZ25mSHUtelBuaHJXZ2ZZOTBCX1Vfa205dDItd3ZjbURqMzFvQ0pwTFZfYnJwSE9ic3RsTFdMWGkyREtmZFBhWEFZSWJWTW1TNllwaHhpcFdfYjhmQnpBYm16dWktWmlIWklzc0FlSmprSGM3a2piQQ?oc=5)
-
----
-
-### [Should there be mass prostate cancer screening? Discuss - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPU09hajMzUk0tNHh5aEJXNlRwdHE2YzYwV1EtMFB0TDRoZXhNNXdOWklESkJXc3pfaXAxLUxsd2M3bC0tTW1EcjlVeEViY0ZoUnBqV0hNbktLMG5vOTZDNWZPMFo5M1hGWkVOTXdjNmdYWnZLYjJfcXIyVVpWQ05OYzFkOVk3NmtxUXVSSktsT3dldWs?oc=5)
-
-2026-05-30 <span class="news-indication-tag">cancer</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPU09hajMzUk0tNHh5aEJXNlRwdHE2YzYwV1EtMFB0TDRoZXhNNXdOWklESkJXc3pfaXAxLUxsd2M3bC0tTW1EcjlVeEViY0ZoUnBqV0hNbktLMG5vOTZDNWZPMFo5M1hGWkVOTXdjNmdYWnZLYjJfcXIyVVpWQ05OYzFkOVk3NmtxUXVSSktsT3dldWs?oc=5)
 
 ---
 

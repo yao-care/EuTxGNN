@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [El abordaje de la obesidad pasa por romper con el estigma del 'comer menos y moverse más' - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQU9XQUM5YUhVMzNITkdYVGJXRkJxQURwbXpfVnl4emtSc3FRZ3FmUWswR2xVSTFFdDZCX0h3T1ZMNTFvOTdYc2tTQW54T1VxQUpqQXdMY1JoaEIxYUJNdjEzVWNJM0R5TGEtMG5zVU9USnBxb1UzUzM3UnVYZnBmV2xOTEhNSVhGa1RzMzJTV19DcXFQUWsyX0ppVzVNamlWMU1pLUtBUTc3aWxuTmhfQkRVRWQ3U2hoaVBMRFZuOWtDd9IBvAFBVV95cUxPOXI5MUFQbU5pSmpOYThoQkY4Y1U2anVnNzdDdThLNlA5eWtHOTJidW1FeUpDaFNneFFHMENuWFhuRFRaZnVKeUhEM3BlczRfUXZGN00zSXUtUEIzQlppWnFvbTUwSWNWNGVNa2YtSms2MHd5WC1ZZUpmYllYeFY1ZHJwMWRNY25lUWNKMFRHVzRkallQT0trRmhMd2prZzdacFhySHppa1NNdFR2MzByZVFvMTdFQ3ZzU2stVA?oc=5)
-
-2026-06-01 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQU9XQUM5YUhVMzNITkdYVGJXRkJxQURwbXpfVnl4emtSc3FRZ3FmUWswR2xVSTFFdDZCX0h3T1ZMNTFvOTdYc2tTQW54T1VxQUpqQXdMY1JoaEIxYUJNdjEzVWNJM0R5TGEtMG5zVU9USnBxb1UzUzM3UnVYZnBmV2xOTEhNSVhGa1RzMzJTV19DcXFQUWsyX0ppVzVNamlWMU1pLUtBUTc3aWxuTmhfQkRVRWQ3U2hoaVBMRFZuOWtDd9IBvAFBVV95cUxPOXI5MUFQbU5pSmpOYThoQkY4Y1U2anVnNzdDdThLNlA5eWtHOTJidW1FeUpDaFNneFFHMENuWFhuRFRaZnVKeUhEM3BlczRfUXZGN00zSXUtUEIzQlppWnFvbTUwSWNWNGVNa2YtSms2MHd5WC1ZZUpmYllYeFY1ZHJwMWRNY25lUWNKMFRHVzRkallQT0trRmhMd2prZzdacFhySHppa1NNdFR2MzByZVFvMTdFQ3ZzU2stVA?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Obesità severa, intervento record con il Robot Da Vinci: rimosso utero di quasi 4 chili - Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
 
@@ -78,11 +70,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Lilly lanza la iniciativa 'Razones de Peso' para cambiar la percepción social sobre la obesidad y el sobrepeso - Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1RPYjRVY3RVNndRMVVhektUTUY5eXkyRUN6MHVyekU5ajhDWlBtZEM2akdQcmR6WlUxZzI0dUFTMWN0dWtjd1hTMFd0UjQxTDg0SUxJMHRwLVFlYlRyTG9mRkppVl9mc3J3X2tCb0ktOTJzX29KaGpldWNBUjJZWVIyZG1mWnpjMEUxSm9LWHZkUkU0TS1wcVdWcDZSWG1FQ0VzeGxNZjhxQ3BRVEFyZ0xZXzZzMGJh?oc=5)
+### [La Fundación Jiménez Díaz plantea un abordaje total de la obesidad: mucho más allá que la suma de calorías](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
 
 2026-06-01 <span class="news-indication-tag">obesidad</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd1RPYjRVY3RVNndRMVVhektUTUY5eXkyRUN6MHVyekU5ajhDWlBtZEM2akdQcmR6WlUxZzI0dUFTMWN0dWtjd1hTMFd0UjQxTDg0SUxJMHRwLVFlYlRyTG9mRkppVl9mc3J3X2tCb0ktOTJzX29KaGpldWNBUjJZWVIyZG1mWnpjMEUxSm9LWHZkUkU0TS1wcVdWcDZSWG1FQ0VzeGxNZjhxQ3BRVEFyZ0xZXzZzMGJh?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTc2WDM3SHJlWHRxZ2ZYOXhsS3RRcVcybVBvZlRmeHRWNm5WVmxnNTZHTFVTWjNheFIwX2w3YW9DZmpYdXFjYlZpX0lpYlVkVmdObF96RXJiNF9YTDdoblpNLWxlZHgwenU2Z3JkbHpLNHhocER0NmlEeDQ1YWdIY1E3U2c1TkQ5bElsOVF3VHJsaEJuQm9SeXIyS3VNbk4zVmk1eVl1anNjUk56YXl3RjdRRnlhb0EtRXMtZ0k3WTZfeUZfcFpFSDRpd2t4MlBldWluUVZ2cUtZUGFudm0zU2pZaDlWXzd1Wmc?oc=5)
 
 ---
 
