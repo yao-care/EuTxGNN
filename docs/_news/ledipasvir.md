@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
+
+### [Medizintalk: Multiple Sklerose: Von der Diagnose bis zu modernen Therapien - Kölner Stadt](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkVpQXNmWWtPMGNJOEtsMTNiSjREdDJoUHV1UlZtaklHcjJxN0UtTERDUWtMVnlBS3lISzQzR0l6UnNTanpuU00yOWZzTnJFLUwybTFvX01DdDlHVFd3NzdxZFNlbnVsOGxfdDFyVWp1MGxJajR0UXNpYmJ3cFNib1ptM3BHaTk1YllqdTdIaC1SOFBNZFBXaFBlQUtDRmFSUTctMVZhZ2NRMXFuNkVnYzhGMTNGVlh4anNjZw?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
+
+來源：[Kölner Stadt-Anzeiger](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkVpQXNmWWtPMGNJOEtsMTNiSjREdDJoUHV1UlZtaklHcjJxN0UtTERDUWtMVnlBS3lISzQzR0l6UnNTanpuU00yOWZzTnJFLUwybTFvX01DdDlHVFd3NzdxZFNlbnVsOGxfdDFyVWp1MGxJajR0UXNpYmJ3cFNib1ptM3BHaTk1YllqdTdIaC1SOFBNZFBXaFBlQUtDRmFSUTctMVZhZ2NRMXFuNkVnYzhGMTNGVlh4anNjZw?oc=5)
+
+---
+
+### [Multiple Sklerose schließt Organspende nicht grundsätzlich aus - Deutscher Presseindex](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUl0YjM0ZGxSM3BhSnZYTHFtNnkxOGxjc05sU0xpTlVuSnBfdUxCdGRhTnN6UjdSdGpadzZ3NFRwc1Nsd044cGVLaExvSkU0QmFiRkVHeVBqa0FUQ1h3TDcxTzR5Q1JDamFOaTNzREVQaklaU1VXdnprLU1yRjFreXRiMklqcjVFd1dJRkV6alBIZ0xaN2pEMFV4UW13X2o0UUF5SVJkSzE5clVB?oc=5)
+
+2026-06-03 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Deutscher Presseindex](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUl0YjM0ZGxSM3BhSnZYTHFtNnkxOGxjc05sU0xpTlVuSnBfdUxCdGRhTnN6UjdSdGpadzZ3NFRwc1Nsd044cGVLaExvSkU0QmFiRkVHeVBqa0FUQ1h3TDcxTzR5Q1JDamFOaTNzREVQaklaU1VXdnprLU1yRjFreXRiMklqcjVFd1dJRkV6alBIZ0xaN2pEMFV4UW13X2o0UUF5SVJkSzE5clVB?oc=5)
+
+---
+
+### [Primeros datos claramente positivos de los inhibidores de BTK en la esclerosis múltiple recurrente-remitente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG9tNTlTM2pPcV9tQTYtVmFWaEwyVzM0NFY3Q3VfVXpoYV8tZTZnSXl2eXFPMG1sLUtpTWptUXBKNHBCYVBteHZ2ajR0dGZhdEpxOFhCQk1yV3Y5Q1hNTGlGdFphblhnRzBIcGhuZ28zWERyTG9VaWQ1UzJhODROYVhra0RzdF9FRHZzMTY3YmVHSGV4ZnBOODdXS1VXNHVmQ2cxYXQ3RUM?oc=5)
+
+2026-06-03 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG9tNTlTM2pPcV9tQTYtVmFWaEwyVzM0NFY3Q3VfVXpoYV8tZTZnSXl2eXFPMG1sLUtpTWptUXBKNHBCYVBteHZ2ajR0dGZhdEpxOFhCQk1yV3Y5Q1hNTGlGdFphblhnRzBIcGhuZ28zWERyTG9VaWQ1UzJhODROYVhra0RzdF9FRHZzMTY3YmVHSGV4ZnBOODdXS1VXNHVmQ2cxYXQ3RUM?oc=5)
+
+---
 
 ### [La crisis climática al nivel de una emergencia sanitaria mundial: la inédita petición de los científicos a la OMS - Meteored España](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEZ0VXBkZXdMZWpzSnV2Wl9WVDd4YVF3ZENxazhFdjg0U0tZbkVjZTZqUjdPVmtkUFVmcUNqMjkwRnk0aFRzQTVzcXNSUGJpLWlDV0R0ZGdmdDBfLS1kYm96MHdwX1dlUHlWOXVSc1FpSEpIMU5BUkZhRnZnWjZKbkEwbDd2TGRNNEtPZGd3VFpKOFVPM184SHlMNkQ1QWRNM3poZjMwOUtFLVVKTmtpWE5jUXJfOFlHeXJBQnNNU2txVUgzZU8wWEo5a01LSER2Vk9CVjU4OWI0Q1daRzl4UFE5VmJNbS1y?oc=5)
 
 2026-06-03 <span class="news-indication-tag">MS</span>
 
 來源：[Meteored España](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEZ0VXBkZXdMZWpzSnV2Wl9WVDd4YVF3ZENxazhFdjg0U0tZbkVjZTZqUjdPVmtkUFVmcUNqMjkwRnk0aFRzQTVzcXNSUGJpLWlDV0R0ZGdmdDBfLS1kYm96MHdwX1dlUHlWOXVSc1FpSEpIMU5BUkZhRnZnWjZKbkEwbDd2TGRNNEtPZGd3VFpKOFVPM184SHlMNkQ1QWRNM3poZjMwOUtFLVVKTmtpWE5jUXJfOFlHeXJBQnNNU2txVUgzZU8wWEo5a01LSER2Vk9CVjU4OWI0Q1daRzl4UFE5VmJNbS1y?oc=5)
-
----
-
-### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0loV0FLczQyN1ZoVGl2cVY1RWJ2Z0E3eEVCLVktRDVvODg5Z3ZxOVdsNndNSE13Qi1HcUs5Q2tTaVhJaGItdnI0WVFCMEZpR1NFU0k0Q003UHoxcmVWZmlkQjIzY3dja0J1TW5GT2pXaUxpOGowaklYSUNTUW56MDVYUzlVblNQYzVaNTllekI3R2JoX2FwX1JKdF9lRzlxWUhxZFpUMG9DTzRtcEUybTVFOXFISUZTUnFPcnlJOTlKYzZxMldPWGhaVkFrVTI5MnMtUV9KUUxwVG5vZ3NGckRsbWJBQ1dBOHhHWU9Tbw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">MS</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0loV0FLczQyN1ZoVGl2cVY1RWJ2Z0E3eEVCLVktRDVvODg5Z3ZxOVdsNndNSE13Qi1HcUs5Q2tTaVhJaGItdnI0WVFCMEZpR1NFU0k0Q003UHoxcmVWZmlkQjIzY3dja0J1TW5GT2pXaUxpOGowaklYSUNTUW56MDVYUzlVblNQYzVaNTllekI3R2JoX2FwX1JKdF9lRzlxWUhxZFpUMG9DTzRtcEUybTVFOXFISUZTUnFPcnlJOTlKYzZxMldPWGhaVkFrVTI5MnMtUV9KUUxwVG5vZ3NGckRsbWJBQ1dBOHhHWU9Tbw?oc=5)
 
 ---
 
@@ -102,14 +118,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [2 scientists charged with bringing deactivated mpox virus into the US and lying to authorities](https://news.google.com/rss/articles/CBMibkFVX3lxTE9kMzhMckxfd211WXJLUFEwdnpJZmRhekRhS09sRzh4Rm9nbk1RYjR4TmlDYVFnNjBHWENIWHRBU0RoTFN2UjhGQWpqNmJCaTFOUXZFTWVHZ2pFT2tEa2RGWW1RNWNwSURrN1BJcHRR?oc=5)
-
-2026-06-02 <span class="news-indication-tag">MS</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTE9kMzhMckxfd211WXJLUFEwdnpJZmRhekRhS09sRzh4Rm9nbk1RYjR4TmlDYVFnNjBHWENIWHRBU0RoTFN2UjhGQWpqNmJCaTFOUXZFTWVHZ2pFT2tEa2RGWW1RNWNwSURrN1BJcHRR?oc=5)
-
----
-
 ### [PCOS heißt jetzt PMOS: Medizin erkennt Stoffwechsel-Kern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazlDUHBGMFEtQkw0TmpTT0NUUENrQ1ltdVhBUkRYTGFCWHlvNUR4S0pTbVpfa215QUFrdEVhdkVJM2JacEJzMTFpVGlSMWVLMzN6UWZsZVlGZmdPeG96bG41LTR5S0xYZFdWVEN2eDMyaVpEelZmQU03SDQtVXpBNDhsSjJOdUtFZUxKLUl4LWo2aFZQRm13eHJpX2diQVItcHN1Wk1ROHA?oc=5)
 
 2026-06-02 <span class="news-indication-tag">MS</span>
@@ -134,19 +142,35 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Multiple-Sklerose-Therapie: Studie zeigt Fortschritte bei der MS-Behandlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXgzaTJKdTlJWUFieFhlLWtLeWExd1FJOXZXaW1wQWQxbEdDYzRoOXVrZktUNkdYRG85dDVxcTJBbTZDTXFDVnczdm1mVDNKaDBhSlcycFJyU1o0UjN6T25tNGcyWVFwbUhIRW1CYVNIYkd3cnhMS1FKVl9EVXJlUEU0QmtldjBON0I0QkpTaWpoeHFHMzZHRnNtWnZwdUg2cUZJTlJVTEhVZjFkcHRsVmFaYUVxOVAtZ3kyTUdBcS1IUFU2RHZoNDNWYWc?oc=5)
+### [Genital herpes rising in England, despite overall drop in sexually transmitted infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
 
-2026-06-02 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
+2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXgzaTJKdTlJWUFieFhlLWtLeWExd1FJOXZXaW1wQWQxbEdDYzRoOXVrZktUNkdYRG85dDVxcTJBbTZDTXFDVnczdm1mVDNKaDBhSlcycFJyU1o0UjN6T25tNGcyWVFwbUhIRW1CYVNIYkd3cnhMS1FKVl9EVXJlUEU0QmtldjBON0I0QkpTaWpoeHFHMzZHRnNtWnZwdUg2cUZJTlJVTEhVZjFkcHRsVmFaYUVxOVAtZ3kyTUdBcS1IUFU2RHZoNDNWYWc?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
 
 ---
 
-### [Cancer sufferer Amanda's desperate bid to fund new treatment against 'ticking timebomb' - Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWZ0ckZZWG43THpESkgyV21tWEJodllvTTRoVmp4N2NIOUJud0xXVEtKaUZKQUdDNlBRM0FDWFBOTDBIREw3UkplbEppclM4NUxFTUFaQUo2eUQzdTVzOUlBMEJ4Wm8zd29oNkJxTFdJSGpkQUhmbDljaGRoM0ZvTkVLLXprOW85Vjd1QVFzTTRxT1NiWjV4U9IBngFBVV95cUxQWGZJQlc1OF9IVU5GcGl1RlI1RVhfS1lQd1h5TTRoX0I1SFdMYm14dTNUUU10eC1CTDNneUNrVVF0enh2aDd1Z1hjTDlzaU03T3NNWnVyelFqdVlwLU5WdUVxMHhtN1VIekhzUFlCam53eWx6M2RJekVFSE5fbGdfR2pFaE5xNGdTbkNJZFgzM3J4bnFWSFdmX1ZDelNXUQ?oc=5)
+### [Hormone therapy use for menopause declines despite proven benefits, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWs2N3lrRGg4MWdOSVJYTUs3VjNpUHJyLVdOaTBkTlhjYTZkUUNycTdvY0xYYXU4SnhoTTRDOWdVOUV3UUZZekpfM215WHljTEdOQXhUZ0QzZ0ltVEJFU19rR1VFRmV4cUZIemRzMUo5WXdRSjlvU0p0RUZZWGc0TXpSd096U3NCXy1JR25B?oc=5)
 
 2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWZ0ckZZWG43THpESkgyV21tWEJodllvTTRoVmp4N2NIOUJud0xXVEtKaUZKQUdDNlBRM0FDWFBOTDBIREw3UkplbEppclM4NUxFTUFaQUo2eUQzdTVzOUlBMEJ4Wm8zd29oNkJxTFdJSGpkQUhmbDljaGRoM0ZvTkVLLXprOW85Vjd1QVFzTTRxT1NiWjV4U9IBngFBVV95cUxQWGZJQlc1OF9IVU5GcGl1RlI1RVhfS1lQd1h5TTRoX0I1SFdMYm14dTNUUU10eC1CTDNneUNrVVF0enh2aDd1Z1hjTDlzaU03T3NNWnVyelFqdVlwLU5WdUVxMHhtN1VIekhzUFlCam53eWx6M2RJekVFSE5fbGdfR2pFaE5xNGdTbkNJZFgzM3J4bnFWSFdmX1ZDelNXUQ?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWs2N3lrRGg4MWdOSVJYTUs3VjNpUHJyLVdOaTBkTlhjYTZkUUNycTdvY0xYYXU4SnhoTTRDOWdVOUV3UUZZekpfM215WHljTEdOQXhUZ0QzZ0ltVEJFU19rR1VFRmV4cUZIemRzMUo5WXdRSjlvU0p0RUZZWGc0TXpSd096U3NCXy1JR25B?oc=5)
+
+---
+
+### [Donanemab bremst Alzheimerprogression über drei Jahre - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUJldF9RclRqWHJEZ2dwWC13cW42R3h5QjdaTWZoQXVTWWowZEQ4eW0wTG5hTmEwY0xhSDBZR3Flc0czbENPZ0JTYWV5REJVY1BVUWVOX1QwcXUxcTBSbW9DUzFpdjluWEdQV3hPQS1ZbURET0xaeW5IRXJSVHI2QWxlRUh1VzA3TUt3R3ZITzNMOE4xUkYyZFcyY2R0ZHM2X0t5VkhKZFhXZFZHZnVUb3FyZXZBVHZwS0hWXzR3?oc=5)
+
+2026-06-02 <span class="news-indication-tag">MS</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUJldF9RclRqWHJEZ2dwWC13cW42R3h5QjdaTWZoQXVTWWowZEQ4eW0wTG5hTmEwY0xhSDBZR3Flc0czbENPZ0JTYWV5REJVY1BVUWVOX1QwcXUxcTBSbW9DUzFpdjluWEdQV3hPQS1ZbURET0xaeW5IRXJSVHI2QWxlRUh1VzA3TUt3R3ZITzNMOE4xUkYyZFcyY2R0ZHM2X0t5VkhKZFhXZFZHZnVUb3FyZXZBVHZwS0hWXzR3?oc=5)
+
+---
+
+### [MSD anuncia resultados positivos de sacituzumab tirumotecán para cáncer de endometrio](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWJBSUNyN2hBN1lvWHlWZ1lTLTNaYmhPVGd1MU5iZ2tzNG1JREFhWEYyR2tZMkN2cHhFQWdrQ1JqZzNIOTBwbmFoM21pNW1RZGkyd1VDYkFmNlB5UXpLYmQ0VVptZ0lEQ0NyZjJYRGV0VkJ4cUJUYWo1djJsVS11aVlKOFBPY3BpX3d6LTJwa3VDUnNUZ0UzSkpwVnk5YzBoWDNZQXRWOGN4elZHdFRkX0ttak9KR2RpMlMwU2F6VGQtSFdNQWxidm9VXzZwUzg2cXc5Y3QxRHBOWVh1VmZN?oc=5)
+
+2026-06-01 <span class="news-indication-tag">MS</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWJBSUNyN2hBN1lvWHlWZ1lTLTNaYmhPVGd1MU5iZ2tzNG1JREFhWEYyR2tZMkN2cHhFQWdrQ1JqZzNIOTBwbmFoM21pNW1RZGkyd1VDYkFmNlB5UXpLYmQ0VVptZ0lEQ0NyZjJYRGV0VkJ4cUJUYWo1djJsVS11aVlKOFBPY3BpX3d6LTJwa3VDUnNUZ0UzSkpwVnk5YzBoWDNZQXRWOGN4elZHdFRkX0ttak9KR2RpMlMwU2F6VGQtSFdNQWxidm9VXzZwUzg2cXc5Y3QxRHBOWVh1VmZN?oc=5)
 
 ---
 

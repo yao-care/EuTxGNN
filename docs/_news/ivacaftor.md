@@ -62,11 +62,11 @@ permalink: /news/ivacaftor/
 
 ---
 
-### [Deutivacaftor/tezacaftor/vanzacaftor, con reembolso en España para personas con fibrosis quística](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVhSVWVET3hZZG1SVTBNMDVmQlhuWUwwdHVieUNYbVRkMmhpYTdqVU5NRy1jQ0VWUVgyMF9JNXpja1Joa2ROSGpIbjJTZ1YwekZmcko2eWEyNlFDQ0JCWGoyRmgydGFpelpicnJocmdqT0RZS1ByV3NqRl9mSlNHTnNPT2xyckRLRUNvSTdJVmktZENvYVVMOWJVeFh2UnZwOF83MjNMQ1F5WkVYZV9leHF1VkNCSTRYUkdDSQ?oc=5)
+### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
 
-2026-06-02 <span class="news-drug-tag">Ivacaftor</span> <span class="news-drug-tag">Tezacaftor</span> <span class="news-indication-tag">AF</span>
+2026-06-02 <span class="news-indication-tag">arthritis</span>
 
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVhSVWVET3hZZG1SVTBNMDVmQlhuWUwwdHVieUNYbVRkMmhpYTdqVU5NRy1jQ0VWUVgyMF9JNXpja1Joa2ROSGpIbjJTZ1YwekZmcko2eWEyNlFDQ0JCWGoyRmgydGFpelpicnJocmdqT0RZS1ByV3NqRl9mSlNHTnNPT2xyckRLRUNvSTdJVmktZENvYVVMOWJVeFh2UnZwOF83MjNMQ1F5WkVYZV9leHF1VkNCSTRYUkdDSQ?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
 
 ---
 

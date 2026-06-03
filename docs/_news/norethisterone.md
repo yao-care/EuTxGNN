@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="Norethisterone 有什麼相關新聞？">
-<strong>Norethisterone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Norethisterone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/norethisterone/
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Atemwegserkrankungen: 1,3 Millionen leiden, was hilft dir wirklich bei Asthma?](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnQ4VmtWWUhoUXEwbl9rR0t6dlpRcFlmYUdFVDdPNFlsbGdQQ1FONF9VSmdSVy1lVmxkZlNvbDIzeTA1TFBubTRwTUdPcmx0eGt3N3JkbkdYc00xUjBCRUFrSXMzTU9ZVXpoNEZVN2lTMVdlZmNzVUpNZTdaUktDcnBlZTgxNmw0Z2xYYXRVTGRxb3VKcjVLcjdyc2hseTh2eko5ZmxYd3dmR0FmTHc?oc=5)
+
+2026-06-02 <span class="news-indication-tag">asthma</span>
+
+來源：[MeinBezirk.at](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnQ4VmtWWUhoUXEwbl9rR0t6dlpRcFlmYUdFVDdPNFlsbGdQQ1FONF9VSmdSVy1lVmxkZlNvbDIzeTA1TFBubTRwTUdPcmx0eGt3N3JkbkdYc00xUjBCRUFrSXMzTU9ZVXpoNEZVN2lTMVdlZmNzVUpNZTdaUktDcnBlZTgxNmw0Z2xYYXRVTGRxb3VKcjVLcjdyc2hseTh2eko5ZmxYd3dmR0FmTHc?oc=5)
+
+---
 
 
 <div class="disclaimer">

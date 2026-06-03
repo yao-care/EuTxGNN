@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（3 則）
+
+### [Pancréas, désescalade thérapeutique et Ozempic: des avancées sur le front de la lutte anti-cancer](https://news.google.com/rss/articles/CBMilgJBVV95cUxPaUhjS2M0SFowTGtCb3Z0QTNMMHVhNTcybEZuWHdmNVRJNm1HMElVcWtGLWZYSl9PVDdJUTlXemNBZFVlcnhiMUEybjJ1aDFsdWxFQVM4Z2otSmhTQTh1WUFrbDV5VzhLSnZyU204dWcwWWhLMkVYYy1adGxHTEU4Y0xWSUxFWFVMTjNHZzRpcm9JaFl6WjFTcC1SZ2FUVEdTdklNcXplWDNvWFgyM2RRc081VmNnOXlwZU1sZkRXN1pjNllfSTc2MGI2WkVKWU1PN21lblpYT0R6SUxkSEFhUm9pbE91MlRxSFJFS1p1RHJualY1QUdQcXhMRlV5YlhkUEcyaXJ6bUV4TTNPYWVyRkM5Q3hjZ9IBmwJBVV95cUxOWWZ3c2RWRHdIa3V5UHMwYXVGUXloanVEdVZGQ0hfeHh6Zi1QS3hMSlFxWE5PbzNhejhGczdHdExZRnJhSVpVYXRzYmNGN3hoUnZzbUZGc05ZN182RUdNUmNINkZaMXJPME1hUXZsUS1EdVpldGh6dzZnajVqVS0xRzFFM1VEZU10RHJpMzdfZTl4MlY4MGhad3ZUTHRZd2pjMXFpWElILUtCbHYyUjVONDJQNG1IQ1dHamZhcVE3cTdiM3NxTTZNak8yM25FbzAzbDVMeUhpZ3dDTmV4UE9rTjd1cm5naExXLUVhTEV2TTN3SkJwTjRzeGpBUHBNMC1yS09NWFJXNGdLdkwyN3ozT01pU09uZC05U2xr?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Boursorama](https://news.google.com/rss/articles/CBMilgJBVV95cUxPaUhjS2M0SFowTGtCb3Z0QTNMMHVhNTcybEZuWHdmNVRJNm1HMElVcWtGLWZYSl9PVDdJUTlXemNBZFVlcnhiMUEybjJ1aDFsdWxFQVM4Z2otSmhTQTh1WUFrbDV5VzhLSnZyU204dWcwWWhLMkVYYy1adGxHTEU4Y0xWSUxFWFVMTjNHZzRpcm9JaFl6WjFTcC1SZ2FUVEdTdklNcXplWDNvWFgyM2RRc081VmNnOXlwZU1sZkRXN1pjNllfSTc2MGI2WkVKWU1PN21lblpYT0R6SUxkSEFhUm9pbE91MlRxSFJFS1p1RHJualY1QUdQcXhMRlV5YlhkUEcyaXJ6bUV4TTNPYWVyRkM5Q3hjZ9IBmwJBVV95cUxOWWZ3c2RWRHdIa3V5UHMwYXVGUXloanVEdVZGQ0hfeHh6Zi1QS3hMSlFxWE5PbzNhejhGczdHdExZRnJhSVpVYXRzYmNGN3hoUnZzbUZGc05ZN182RUdNUmNINkZaMXJPME1hUXZsUS1EdVpldGh6dzZnajVqVS0xRzFFM1VEZU10RHJpMzdfZTl4MlY4MGhad3ZUTHRZd2pjMXFpWElILUtCbHYyUjVONDJQNG1IQ1dHamZhcVE3cTdiM3NxTTZNak8yM25FbzAzbDVMeUhpZ3dDTmV4UE9rTjd1cm5naExXLUVhTEV2TTN3SkJwTjRzeGpBUHBNMC1yS09NWFJXNGdLdkwyN3ozT01pU09uZC05U2xr?oc=5)
+
+---
 
 ### [La nueva era de la obesidad exige fármacos, músculo y seguimiento a largo plazo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3NpaThUNlZQYW9fOWZpa0F0VndXTTh5V1JNRk9tN1lIMkpMR0MxWlZUSVVqanYzUTU4Z01aR21ZWi1reTBhNzFzekVjb1FuWXFER3RHMWtURGNHSEtRUXh2Qzg4QzVrSC1NdmRGdDhZSmhBMExQaTVxMEFvc3pmb0p3R3BJcUFwMGt4TzNtcjRWQVVuNUtnOU9KSmNXVlh3eUNFc1Q1NXdhbzFPdTJkb2NjTHRwd2RJVTlQZE1n0gG4AUFVX3lxTE1MYUc2dUNRbGxpM1JwTjBoMGMweUd1WUhMXzdvNVBLeGlmLXhqS05OTTdkTDIwUkctNGtvaFhhMGpCMEN3NTRxWDNOREIyWWZYYU15TmZVaG81dnBSUGt6UnNLQm1WVmxJTFRHemxsLVhXT09YM25aZ19KX2d5eDhVcjNtRFhEWGNuYWJmTGdpaGtHT2FYTWkySVRBMVh1T01UTXFRbEd5VUxpSGFrWEx2d0VLMjBjZmU?oc=5)
 
@@ -62,51 +70,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Pancréas, désescalade thérapeutique, Ozempic : quelles avancées récentes sur le front de la lutte anti-cancer ? - Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFVQWGhfT3JQYTdCRHVZcmJ5VjdmTlhaVlU2ZU9rSEl5SGhSa1FOUUtjaDZoRGdlX25tTEFULXhVN091Y0licFdlUjNud2wyTDFVYXVYbkdpNzJwSVhMU1FiMGpzQW13T3prSmVNV3RmOThSakhRMF9zQUR1SWlUcU52ZHNISlNJQjN3RmhEWjlIQXFlVkJEMkVxUXFTMG1UR1o4SXZjT0lGZUVuX2lKMkFqSEJrODBVcGJTOGRtN0lDVDY1RFlSVWVmUlBVdkJ6bDNLeWxOczZLcjRGMHFmVEl3?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFVQWGhfT3JQYTdCRHVZcmJ5VjdmTlhaVlU2ZU9rSEl5SGhSa1FOUUtjaDZoRGdlX25tTEFULXhVN091Y0licFdlUjNud2wyTDFVYXVYbkdpNzJwSVhMU1FiMGpzQW13T3prSmVNV3RmOThSakhRMF9zQUR1SWlUcU52ZHNISlNJQjN3RmhEWjlIQXFlVkJEMkVxUXFTMG1UR1o4SXZjT0lGZUVuX2lKMkFqSEJrODBVcGJTOGRtN0lDVDY1RFlSVWVmUlBVdkJ6bDNLeWxOczZLcjRGMHFmVEl3?oc=5)
-
----
-
 ### [La obesidad deja huellas en el ADN infantil más allá de la propia genética - Universidad de Granada](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkwxVlZLWGY1MUtfNlJjaEFQLXUtY3FaT244T3JjekRtRnMzVGxmNFFWQ1ZtUmp2TmRQTlMyOVhXaEdJV1ZrTUo1c0RwcHg2aHo2OUJ6YzNoNVNCQjAtbmE5bUY2UXJIQmg0S0VhU3dGR0RUN2hLcFQ3Y29wQXRNUFlDNkN0VUpRUlNSVEZaa2NIaExWaHo2eWRETWRqbU9y?oc=5)
 
 2026-06-02 <span class="news-indication-tag">obesidad</span>
 
 來源：[Universidad de Granada](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkwxVlZLWGY1MUtfNlJjaEFQLXUtY3FaT244T3JjekRtRnMzVGxmNFFWQ1ZtUmp2TmRQTlMyOVhXaEdJV1ZrTUo1c0RwcHg2aHo2OUJ6YzNoNVNCQjAtbmE5bUY2UXJIQmg0S0VhU3dGR0RUN2hLcFQ3Y29wQXRNUFlDNkN0VUpRUlNSVEZaa2NIaExWaHo2eWRETWRqbU9y?oc=5)
-
----
-
-### [Wolverhampton obesity management service opens to self-referrals](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DZHhDN2hYb3FUYUxKZ2J3b2xsZzRpbzlCVUNBTW5oMVd3b3FTU1QzOXk1QVY3cmZXczZGUTJLNUdKNm9TT09vbVFkYjRtaWtrZ2dhM0d4ZVBiWGxE?oc=5)
-
-2026-06-02 <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DZHhDN2hYb3FUYUxKZ2J3b2xsZzRpbzlCVUNBTW5oMVd3b3FTU1QzOXk1QVY3cmZXczZGUTJLNUdKNm9TT09vbVFkYjRtaWtrZ2dhM0d4ZVBiWGxE?oc=5)
-
----
-
-### [Remboursement de Wegovy et Mounjaro dans l'obésité : les généralistes exclus pour des raisons financières, s'indigne MG France](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1VVY05YbVlDdmtSUk5lUlBrNjdoYlNBTk1PTTJ1cE5pYlFNcUduQjJSUFpJRUdlN3FyOHozSl9aT3ZYb0NMLVhBSXpIM0lKaTZqRW5QT0d6YXctX0VLSzVmOE5ZY3ZaZ0twWmk1M0J2SGJUSEY0Q3RPbkVMdHVibGtuaDc2dVZIeElFOFFZbDR1RnVHNi0wQWhDeU0wZFVZZWpLVFpNbk01N3dvMnhQVVNKVGsxV2tQdmc?oc=5)
-
-2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Egora](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1VVY05YbVlDdmtSUk5lUlBrNjdoYlNBTk1PTTJ1cE5pYlFNcUduQjJSUFpJRUdlN3FyOHozSl9aT3ZYb0NMLVhBSXpIM0lKaTZqRW5QT0d6YXctX0VLSzVmOE5ZY3ZaZ0twWmk1M0J2SGJUSEY0Q3RPbkVMdHVibGtuaDc2dVZIeElFOFFZbDR1RnVHNi0wQWhDeU0wZFVZZWpLVFpNbk01N3dvMnhQVVNKVGsxV2tQdmc?oc=5)
-
----
-
-### [Obesità severa, intervento record con il Robot Da Vinci: rimosso utero di quasi 4 chili - Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
-
-2026-06-01 <span class="news-indication-tag">obesità</span>
-
-來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1NCYzdnTS1xOFdzd0lXbXgtNzFlNTU3Sk1aSklLRVVYOGJDUkNrb0NGTHJhMlRDNXZSU1BFUTF3N0FRcVhhalFONE5qZk0tOWl6aXpZUDh1RHhiaHJmdk5RZlVtNXdYcUFXQ3lTVmJZQ2Y0VUlTMU0tTW5pS0VRZGdqRnpSTkQ0Y1dpN0JB?oc=5)
-
----
-
-### [Obesity doesn’t equate to ill health: why the ‘disease’ label doesn’t always fit](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbXNnVlNrcWU5ZnVDalhxcHZMTUtUVWRiN2IwbXFubFdPdDdUOFUwcWN5TlJDVWpTRnJCeXZYWW9EMXhIRTFKZVN0WTBTNWtDVG1DSFFtWlFfa3c5SjBr?oc=5)
-
-2026-06-01 <span class="news-indication-tag">obesity</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kbXNnVlNrcWU5ZnVDalhxcHZMTUtUVWRiN2IwbXFubFdPdDdUOFUwcWN5TlJDVWpTRnJCeXZYWW9EMXhIRTFKZVN0WTBTNWtDVG1DSFFtWlFfa3c5SjBr?oc=5)
 
 ---
 
