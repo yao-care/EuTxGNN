@@ -54,11 +54,11 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（10 則）
 
-### [Vorhofflimmern und Diabetes – gefährliches Duo fürs Herz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERHBNb1BhemwyVXg5RURkaW5KMzZyVXFTVFFJN2NQRnB5Mml5VTBXcDhJUnZVR1kyOVlhWmtNeHhiOE8ydTZGaXdwdw?oc=5)
+### [Los GLP-1 emergen en ASCO como posible vía de prevención del cáncer de mama](https://news.google.com/rss/articles/CBMiekFVX3lxTE9OenVqaDA5N2tiXzBSUmxPMEJUN0ZCUXc3a05MNDBnVlczZEp0SnFFbFQ5RnBkVTlhRUdMUTVBVFhhel9XUDhJNld1SVBoWmNuUzN2MmhBQ2twdVVmeGpNOVl1a0NacGJqaGJTSk14b09sTkhoTVhWaDdR?oc=5)
 
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERHBNb1BhemwyVXg5RURkaW5KMzZyVXFTVFFJN2NQRnB5Mml5VTBXcDhJUnZVR1kyOVlhWmtNeHhiOE8ydTZGaXdwdw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiekFVX3lxTE9OenVqaDA5N2tiXzBSUmxPMEJUN0ZCUXc3a05MNDBnVlczZEp0SnFFbFQ5RnBkVTlhRUdMUTVBVFhhel9XUDhJNld1SVBoWmNuUzN2MmhBQ2twdVVmeGpNOVl1a0NacGJqaGJTSk14b09sTkhoTVhWaDdR?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Ozempic: el medicamento que podría convertirse en el nuevo escudo contra el cáncer de mama](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenI0Z1M0T3VweHVmT0RCREZyVWRZekNNbWdSU2hMLTJELTlsbEJ5NnhKN3FneEF6NFlDS1AxYV8xUl9ibmJQdG0tUUI3X2dtaUZLM3Fnc3dnVGQxMF9RSGlZNnoyOXlYbTI5MXlSLXR0X3huc1FvVVFmTnRfaDdlUVVpM2hLUWdDOUJNR3F6SGU4eWFhUnFtMXRmd3RkX180Z2NUS0twT0J0eUHSAbABQVVfeXFMTk4zRnNtZHRxS1ZvNWxLME1IRXNKMGliTFNKRms2S2JwTjgtZWthTTViOXV4Wkl0RjVPaHdSVGZnbVltNXhiUno2WmpsNVZncTI3QnV5azdnRnZNSzhKdWJPZzFPMHdEQjdqSVNaTkVXc1d3dTMxaFdYcXU0ODZGdkQ4bW94cEJEbGxKLVVjVnlWZzQzRlRVNjNQUUtES2hqUDdNNlYtOXpDdWt6anF3RUE?oc=5)
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span>
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Hoy](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenI0Z1M0T3VweHVmT0RCREZyVWRZekNNbWdSU2hMLTJELTlsbEJ5NnhKN3FneEF6NFlDS1AxYV8xUl9ibmJQdG0tUUI3X2dtaUZLM3Fnc3dnVGQxMF9RSGlZNnoyOXlYbTI5MXlSLXR0X3huc1FvVVFmTnRfaDdlUVVpM2hLUWdDOUJNR3F6SGU4eWFhUnFtMXRmd3RkX180Z2NUS0twT0J0eUHSAbABQVVfeXFMTk4zRnNtZHRxS1ZvNWxLME1IRXNKMGliTFNKRms2S2JwTjgtZWthTTViOXV4Wkl0RjVPaHdSVGZnbVltNXhiUno2WmpsNVZncTI3QnV5azdnRnZNSzhKdWJPZzFPMHdEQjdqSVNaTkVXc1d3dTMxaFdYcXU0ODZGdkQ4bW94cEJEbGxKLVVjVnlWZzQzRlRVNjNQUUtES2hqUDdNNlYtOXpDdWt6anF3RUE?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
 ---
 
@@ -104,7 +104,7 @@ permalink: /news/semaglutide/
 
 ### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
 

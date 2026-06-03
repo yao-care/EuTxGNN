@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Vorhofflimmern und Diabetes – gefährliches Duo fürs Herz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERHBNb1BhemwyVXg5RURkaW5KMzZyVXFTVFFJN2NQRnB5Mml5VTBXcDhJUnZVR1kyOVlhWmtNeHhiOE8ydTZGaXdwdw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERHBNb1BhemwyVXg5RURkaW5KMzZyVXFTVFFJN2NQRnB5Mml5VTBXcDhJUnZVR1kyOVlhWmtNeHhiOE8ydTZGaXdwdw?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Designstudierende entwickeln Armband-Idee für Kinder mit Typ-1-Diabetes – Eure Erfahrungen sind gefragt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbTNheWhvblRsek5aSm1WTC1XeUZQVGQ1TXFoTk03cWZySC1fMDA5ZmVUOEJaaHg3ZGE1ckMxbEU3Nm1ucElULVNwcFJKNElIdDNoZHF0WnpsRGpaV1FVbHJPMTZqWkVzaE8yeXNqazdIM25YNGNYV240R29iMTctMnlPTWFYSXJWVXFSNkJLLURfRHNxYjVUUHBJUFNBWEh3cGRHYjB5ZjVrWnBaQW5HMExxdzNmbC0xcnkxZ2xRX3VMMHBwdWRwc1piUFhoWmZ1Q0tzSHgyUHlFbXM?oc=5)
 
@@ -78,11 +70,27 @@ permalink: /news/metformin/
 
 ---
 
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
+
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
+
+---
+
 ### [BBC doctor warning on taking naproxen, metformin and letharoxine - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGRnU253Qm1uVk8teHBMRXQ1VEoxTERoVUQzNks0NjgzNkZOalFVQXBiUWVSOXprdlh4TEJULVJrd0t1ZTNTV3FsdmNqd1FnNnJ4LXV6ZGVaUVJYNEpWZ0FjZUkxQXpncng0V3lTMDBCeEJHM3NNOUZVSzl6UzRpTWFDbGVGZzA?oc=5)
 
 2026-06-03 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGRnU253Qm1uVk8teHBMRXQ1VEoxTERoVUQzNks0NjgzNkZOalFVQXBiUWVSOXprdlh4TEJULVJrd0t1ZTNTV3FsdmNqd1FnNnJ4LXV6ZGVaUVJYNEpWZ0FjZUkxQXpncng0V3lTMDBCeEJHM3NNOUZVSzl6UzRpTWFDbGVGZzA?oc=5)
+
+---
+
+### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
 
 ---
 

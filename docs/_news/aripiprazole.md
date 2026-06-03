@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="Aripiprazole 有什麼相關新聞？">
-<strong>Aripiprazole</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aripiprazole</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/aripiprazole/
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（28 則）
 
-### [Vorhofflimmern und Diabetes – gefährliches Duo fürs Herz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERHBNb1BhemwyVXg5RURkaW5KMzZyVXFTVFFJN2NQRnB5Mml5VTBXcDhJUnZVR1kyOVlhWmtNeHhiOE8ydTZGaXdwdw?oc=5)
+### [So viele Stunden Schlaf senken das Risiko für Demenz – ärztliche Einschätzung - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUhCSzVfdWNfVmNQalp5NThDTUQ3bFNXdTNCZWxkVTl0dXlpRkQ4QVNKMHNpYWRVZVpYNzV1Ynd5Z3FVNWw1dlU4M2Nrai1nc1hXWTh1eWtYNERNVzVESEdfQnRRUzNvSkROSl8wM3VXalZzQ2NtMVpfZWV0ekMxMzVzQnc2SDZuSXF3X0ItSUdibW1lT1h1enZGZHJkS1NhTUxkVHQ0ZHgwdFRoYjFn?oc=5)
 
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERHBNb1BhemwyVXg5RURkaW5KMzZyVXFTVFFJN2NQRnB5Mml5VTBXcDhJUnZVR1kyOVlhWmtNeHhiOE8ydTZGaXdwdw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUhCSzVfdWNfVmNQalp5NThDTUQ3bFNXdTNCZWxkVTl0dXlpRkQ4QVNKMHNpYWRVZVpYNzV1Ynd5Z3FVNWw1dlU4M2Nrai1nc1hXWTh1eWtYNERNVzVESEdfQnRRUzNvSkROSl8wM3VXalZzQ2NtMVpfZWV0ekMxMzVzQnc2SDZuSXF3X0ItSUdibW1lT1h1enZGZHJkS1NhTUxkVHQ0ZHgwdFRoYjFn?oc=5)
+
+---
+
+### [DRC Ebola outbreak could have begun as early as January, WHO chief says - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm9kVHo5bkhsNUxiWk0yQ3YwcWFiZllncWZocWxQUVpZaG93YnJ5bVZoZzJ0Nk81SHoxN1VnWkFSRUVCa3kyMEhiU1hsUnpraHdKTU5PdTNzRl9fVVJWdG5HZVNmRmI3cXBnQnBoU2EyQkhVRmtGd1QzbXJtYUxnNjBRYXJDZlBwUlV6ZEM4c2h0clhQZ3NQTER5NVRDTFpfMlYyclQ1Z2xpLTM0Q1NPZnB5aDFQdDg0YWo2Qm9VMFpjOXQ1LTk4Zg?oc=5)
+
+2026-06-03 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm9kVHo5bkhsNUxiWk0yQ3YwcWFiZllncWZocWxQUVpZaG93YnJ5bVZoZzJ0Nk81SHoxN1VnWkFSRUVCa3kyMEhiU1hsUnpraHdKTU5PdTNzRl9fVVJWdG5HZVNmRmI3cXBnQnBoU2EyQkhVRmtGd1QzbXJtYUxnNjBRYXJDZlBwUlV6ZEM4c2h0clhQZ3NQTER5NVRDTFpfMlYyclQ1Z2xpLTM0Q1NPZnB5aDFQdDg0YWo2Qm9VMFpjOXQ1LTk4Zg?oc=5)
+
+---
+
+### [Wenn Flüssigkeiten zu Gläsern werden - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NT0o4WW1lUkIwQzdkMkNRMDdMWmVuV3dWaDk3SmVFenowamhEd2xMa1Z3S0swanl1RmxJWnZ1VGJtdkRjcmViMVhUNA?oc=5)
+
+2026-06-03 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NT0o4WW1lUkIwQzdkMkNRMDdMWmVuV3dWaDk3SmVFenowamhEd2xMa1Z3S0swanl1RmxJWnZ1VGJtdkRjcmViMVhUNA?oc=5)
 
 ---
 
@@ -94,11 +110,19 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Fett-Trick schützt vor Zelltod - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE55RHBONHNVSE5oczJ1VDRvU1huc3doUlc0TmdNeHJHaVZ2Wm5oUjg0dnowY2lzNDY2LWhrTXhRVGZTU1k?oc=5)
+### [Fett-Trick schützt vor Zelltod - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE55RHBONHNVSE5oczJ1VDRvU1huc3doUlc0TmdNeHJHaVZ2Wm5oUjg0dnowY2lzNDY2LWhrTXhRVGZTU1k?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE55RHBONHNVSE5oczJ1VDRvU1huc3doUlc0TmdNeHJHaVZ2Wm5oUjg0dnowY2lzNDY2LWhrTXhRVGZTU1k?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE55RHBONHNVSE5oczJ1VDRvU1huc3doUlc0TmdNeHJHaVZ2Wm5oUjg0dnowY2lzNDY2LWhrTXhRVGZTU1k?oc=5)
+
+---
+
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
+
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
 ---
 
@@ -110,27 +134,11 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [REM-Schlaf-Mangel: Zwei Stunden weniger senken die Leistung um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVAxVWFoYnZwWDQwemw0YXZjQmkybkNTajBLR0c3cXphUUNWcXYzVXd5QVNPa0NyN3VUNW1ZYnpUVjJNaE1URjhBaG1DQndDSHJmLTFmNkZqWU5uV19hbks4LUs5Q2FjN1RuUTR3c2EzbkxpMHh5dk1ZSXBjWWd6eWtSMXlSR1A1U1kyQVRQRDE3M0pSWHc0ZUtNZlpxbjN2RGZiemdNMEtMQTVvaXk3bWpGU2xicThUd295SDdn?oc=5)
-
-2026-06-03 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVAxVWFoYnZwWDQwemw0YXZjQmkybkNTajBLR0c3cXphUUNWcXYzVXd5QVNPa0NyN3VUNW1ZYnpUVjJNaE1URjhBaG1DQndDSHJmLTFmNkZqWU5uV19hbks4LUs5Q2FjN1RuUTR3c2EzbkxpMHh5dk1ZSXBjWWd6eWtSMXlSR1A1U1kyQVRQRDE3M0pSWHc0ZUtNZlpxbjN2RGZiemdNMEtMQTVvaXk3bWpGU2xicThUd295SDdn?oc=5)
-
----
-
 ### [»Kekskrümel unterm Himmelszelt«: Eine Zeitreise in sieben Tagen - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0lRNjZ2N2RyUnBwMWVKdk8tMTVDbTl4S01DV2pJd1JOWkZFV1lKUEdEYmxJWjNYeV9ac3N1SFFhbkJkT2p5NmVNbHllVXVUcXEyY1dveUFXWjVHbzRNZEJyZmtoRmNGb0h6MGRSdm5rblpFQWZvc0dJcGpHX20wd1ZqSTVsNlVVeE1YSkNDSQ?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
 
 來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0lRNjZ2N2RyUnBwMWVKdk8tMTVDbTl4S01DV2pJd1JOWkZFV1lKUEdEYmxJWjNYeV9ac3N1SFFhbkJkT2p5NmVNbHllVXVUcXEyY1dveUFXWjVHbzRNZEJyZmtoRmNGb0h6MGRSdm5rblpFQWZvc0dJcGpHX20wd1ZqSTVsNlVVeE1YSkNDSQ?oc=5)
-
----
-
-### [Ecografía pulmonar en pequeños rumiantes: aplicaciones prácticas para un diagnóstico rápido y fiable - Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnl0eGlpaC1QOUliTnEya2N3bnVQTWl2U2Q3dENhNmdTR2xlbFVBUDN6RXFOd2tUSHdzN0kzZHo5UTVVQThOZE9FT2htd2RaSjRVdnNSUnZhMHdaS0lIM1VnVlFCR1NVMkY5ekVfMl9iVUc4V3RseFJGUE51dE04T25OVXY4NzFndFctUjNnWU4zcXJkZWctTGVGY0ZXaXZyT2tKYU5GM3JUME9jdGszUXVEblVzeWtwTl9GdzZHaVlhV3UtWlMxc1d5c2t3MDg?oc=5)
-
-2026-06-02 <span class="news-indication-tag">AF</span>
-
-來源：[Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnl0eGlpaC1QOUliTnEya2N3bnVQTWl2U2Q3dENhNmdTR2xlbFVBUDN6RXFOd2tUSHdzN0kzZHo5UTVVQThOZE9FT2htd2RaSjRVdnNSUnZhMHdaS0lIM1VnVlFCR1NVMkY5ekVfMl9iVUc4V3RseFJGUE51dE04T25OVXY4NzFndFctUjNnWU4zcXJkZWctTGVGY0ZXaXZyT2tKYU5GM3JUME9jdGszUXVEblVzeWtwTl9GdzZHaVlhV3UtWlMxc1d5c2t3MDg?oc=5)
 
 ---
 
@@ -214,14 +222,6 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [„Hondius“ soll wieder in See stechen - THB - Täglicher Hafenbericht](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTRWYzNVbnlSYmRxc3RGcDBVdmM5clhTWkZYQ0Vkel9uaURiZEVvb0hKc2RuN3hQMHF0V2VBZEpoX2dXZ2ZnTi1OcWVCbnF0MlZvd2Q1NUFSeTkzNzJfYjNfZGhaQ3piWTFJWEVzcU5LcU8taUZPTngzaWFvOXZvYWFwQk1JYVJGVWJfLTJib2sxNFJ3b284?oc=5)
-
-2026-06-02 <span class="news-indication-tag">AF</span>
-
-來源：[THB - Täglicher Hafenbericht](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTRWYzNVbnlSYmRxc3RGcDBVdmM5clhTWkZYQ0Vkel9uaURiZEVvb0hKc2RuN3hQMHF0V2VBZEpoX2dXZ2ZnTi1OcWVCbnF0MlZvd2Q1NUFSeTkzNzJfYjNfZGhaQ3piWTFJWEVzcU5LcU8taUZPTngzaWFvOXZvYWFwQk1JYVJGVWJfLTJib2sxNFJ3b284?oc=5)
-
----
-
 ### [Genital herpes rising in England, despite overall drop in sexually transmitted infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
 
 2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -230,35 +230,11 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [The 2 'deadliest' vaping flavours revealed - as worst offending e-cigs 'can alter over 3000 genes' - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzVNTlpjaFVJdTYyczlreXFhajlRaExMNDliUjNOaDZ0VlFZeDdYcW9ZOHNBTmVzaE1mMVVlb0hDRDVDRmo3ZFExUnRtRUZ5SmxBbnhoejNpcFZmTmREa2FLVVkzNWNPSFpCT2ljUDFsODNFTG92U1ZSVExYdzduaFBrVThIV0dITWZNVkl6OA?oc=5)
-
-2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzVNTlpjaFVJdTYyczlreXFhajlRaExMNDliUjNOaDZ0VlFZeDdYcW9ZOHNBTmVzaE1mMVVlb0hDRDVDRmo3ZFExUnRtRUZ5SmxBbnhoejNpcFZmTmREa2FLVVkzNWNPSFpCT2ljUDFsODNFTG92U1ZSVExYdzduaFBrVThIV0dITWZNVkl6OA?oc=5)
-
----
-
 ### [Sevilla, en alerta por una grave enfermedad que afecta a los perros: «Las zonas periurbanas, como las más externas de Sevilla Este, tienen más riesgo»](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbXBUZ2VkOHFjbnV1TkIzbkVFQkxIRlNDMXA1eW9JbHZPeURsRDM4THAwNGtJZC1janVVeTJjTmMwYnllUVhxMFExVF9mNEFDeU85LXlqWXAzbkR1NDBSLTM1c1JPN1dOOUY2LUlCZW8xc2tHWktCQVdmVVE4UE5nUEhvZEFld2FVeFRiYklGN0c2bzhjSWZWczZzSWbSAaIBQVVfeXFMTTJ5SXdPSjdhOE5FMHpmb3BTVHE0QlZaRzdrZHdXbnFmaEt4UkE0UFd2VWVBUGZ2cmM0SUdxMm1tNTY3Y1doYTg1cUQwTHctc3FtVEhfWHd4U0R1eUxfWjZSc3dYNHhjem91LVU4SlptSVJmOEJUOUFSVkY3OE9XbGNtQll3RU05ZkQzRWEyVUx3X0NXMG00V0UzVlFYRFVJYTNR?oc=5)
 
 2026-06-02 <span class="news-indication-tag">AF</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbXBUZ2VkOHFjbnV1TkIzbkVFQkxIRlNDMXA1eW9JbHZPeURsRDM4THAwNGtJZC1janVVeTJjTmMwYnllUVhxMFExVF9mNEFDeU85LXlqWXAzbkR1NDBSLTM1c1JPN1dOOUY2LUlCZW8xc2tHWktCQVdmVVE4UE5nUEhvZEFld2FVeFRiYklGN0c2bzhjSWZWczZzSWbSAaIBQVVfeXFMTTJ5SXdPSjdhOE5FMHpmb3BTVHE0QlZaRzdrZHdXbnFmaEt4UkE0UFd2VWVBUGZ2cmM0SUdxMm1tNTY3Y1doYTg1cUQwTHctc3FtVEhfWHd4U0R1eUxfWjZSc3dYNHhjem91LVU4SlptSVJmOEJUOUFSVkY3OE9XbGNtQll3RU05ZkQzRWEyVUx3X0NXMG00V0UzVlFYRFVJYTNR?oc=5)
-
----
-
-### [Neuer Ansatz gegen therapiebedingte Leukämien - Schutzmechanismus gegen DNA-Schäden nach Chemotherapien und Bestrahlung - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PSk8tLVZNVzVLR243cnlGZXJjUE1YSlVFMllwQ2RkZGdmRE9CUDE3ekxqdGxaUER6b3BQenhBZ1FILTlLMVk1T2d5VQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PSk8tLVZNVzVLR243cnlGZXJjUE1YSlVFMllwQ2RkZGdmRE9CUDE3ekxqdGxaUER6b3BQenhBZ1FILTlLMVk1T2d5VQ?oc=5)
-
----
-
-### [After a freak accident at the alpaca farm my toddler stopped walking](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDllQzF3WUZrMUY2ZVM3RW5WVnlIR1B5S21xRWhCaUEwNGUwSFJ1cVNoTEZlWXM4MzlKR3hRU04za3B3YzI5WXFlenp0OXZGb3g5U2dmenhYTk5fT2RTOW5FWUp3NWF6ZFl2Z1E4NmotcHZjel8wYnM4UkxYdGFYakM4ZXh4Rk8zdmttVGNmRGpYMGtCNlRQadIBngFBVV95cUxQRlhpOXJLLUpNUUNRZlRvN1AyU3Bib2RhMVR2cUtxNU9DZHl6X21Cb1EtcU03aXRBUVU0MFZLLWduMDE3bUpNeU5nUTcydEFYcUlYaGhZYk1od0lxbGxRYm1wLTFaS1ZQdm1NRDhUS2RaX0djRWpjcHVON1RhSHRzRE1OS1JORVNZc1lCNFV6MWdqanFUamdWMU91MTc0UQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">AF</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDllQzF3WUZrMUY2ZVM3RW5WVnlIR1B5S21xRWhCaUEwNGUwSFJ1cVNoTEZlWXM4MzlKR3hRU04za3B3YzI5WXFlenp0OXZGb3g5U2dmenhYTk5fT2RTOW5FWUp3NWF6ZFl2Z1E4NmotcHZjel8wYnM4UkxYdGFYakM4ZXh4Rk8zdmttVGNmRGpYMGtCNlRQadIBngFBVV95cUxQRlhpOXJLLUpNUUNRZlRvN1AyU3Bib2RhMVR2cUtxNU9DZHl6X21Cb1EtcU03aXRBUVU0MFZLLWduMDE3bUpNeU5nUTcydEFYcUlYaGhZYk1od0lxbGxRYm1wLTFaS1ZQdm1NRDhUS2RaX0djRWpjcHVON1RhSHRzRE1OS1JORVNZc1lCNFV6MWdqanFUamdWMU91MTc0UQ?oc=5)
 
 ---
 
@@ -294,43 +270,11 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Con la caffeina sonno pessimo anche dormendo 8 ore](https://news.google.com/rss/articles/CBMif0FVX3lxTE5JRzVhZ3lqTjc1NmE5RnhZdG16QjFha0l4blF6SVFlajFfNzVQQ2E3N20wZm5YOUVqY3VOVVdJdENSQ2lQTzgtNHVUdW0wOXNUYzhUdk0weW41TzlxYnJ5eHNjc1E1UG9BS3F1S0lobzJKMVlCWHNZRDlQSjBmZ0k?oc=5)
+### [Some hantavirus-exposed cruise ship passengers return home to finish quarantine](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVlvUDdGOXVwbEtLQUtBM0plVjR0Sk9Ga3NIU2Y2RmJBaDd4UHNZNVNxaElfaXp4blpZVWxJVGhfd1Y1amJUQzZoY1IyNXVZdjFzVFowQ0lYUHlfdFFuN1d4S0laT2YzcWRLczRHU0VaYkJ1RGdMZGxPbG8xbUlBU0dCUUFLdw?oc=5)
 
 2026-06-02 <span class="news-indication-tag">AF</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMif0FVX3lxTE5JRzVhZ3lqTjc1NmE5RnhZdG16QjFha0l4blF6SVFlajFfNzVQQ2E3N20wZm5YOUVqY3VOVVdJdENSQ2lQTzgtNHVUdW0wOXNUYzhUdk0weW41TzlxYnJ5eHNjc1E1UG9BS3F1S0lobzJKMVlCWHNZRDlQSjBmZ0k?oc=5)
-
----
-
-### [Two possible Ebola cases in Brazil ruled out as patients test negative](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZkhfVElkRkNzMlV0aGtYOTQ1OUlFLUdKUHBXZEFyX2RqUUdFWXNVRHZxdVhMVjdMWC1mcDJuR2NvdnVkTC15WklMRHJQM2NJQWJGVXk1SHRGcGxm?oc=5)
-
-2026-06-01 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZkhfVElkRkNzMlV0aGtYOTQ1OUlFLUdKUHBXZEFyX2RqUUdFWXNVRHZxdVhMVjdMWC1mcDJuR2NvdnVkTC15WklMRHJQM2NJQWJGVXk1SHRGcGxm?oc=5)
-
----
-
-### [Women, do blame your hormones — they’re affecting your health - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmgzWEtzRXF1a0F3VTJDdURIT1dlRndvdW9HZTZyVzItVElxellaRDhoVjBYLU1vNUh2RnV4Z0F0NzFBcFR0V2V5N29nWk5wZmtpNTRSTE01MFZUZkgyeEM1RzJqVFlXX2VldE1VN3Rianc5bnM2UEt2OEU5Wm81MEtNbGhUSndjbmtkeUtRcHRldmxvZFE2NWJ1clJ1NFNJSnpFSEJMdndTakFfQWZpNkx5MVhKNUVkeEV3aQ?oc=5)
-
-2026-06-01 <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmgzWEtzRXF1a0F3VTJDdURIT1dlRndvdW9HZTZyVzItVElxellaRDhoVjBYLU1vNUh2RnV4Z0F0NzFBcFR0V2V5N29nWk5wZmtpNTRSTE01MFZUZkgyeEM1RzJqVFlXX2VldE1VN3Rianc5bnM2UEt2OEU5Wm81MEtNbGhUSndjbmtkeUtRcHRldmxvZFE2NWJ1clJ1NFNJSnpFSEJMdndTakFfQWZpNkx5MVhKNUVkeEV3aQ?oc=5)
-
----
-
-### [Der Lauf der Gestirne im Dämmerungslicht - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkEtb2NCeXJjYWhzVDRremp4Z3hLQ00wbDA3NGtNZ0U1WDRsSXVJT2d5NUNXdjBwSXg5dnhxdEhIOVFoajdTdUFWTlVfdGxQN3c4Z19UMjRNd3J4S2VUdlZ4dXl4NFc4R2Y1SGcwWko5N3FJNzRrWGdGVWVxX0ZCYkI5Q0tpUy1lak1jVndkNnRBdzlFN1RvV0VWWk14LWUz?oc=5)
-
-2026-06-01 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkEtb2NCeXJjYWhzVDRremp4Z3hLQ00wbDA3NGtNZ0U1WDRsSXVJT2d5NUNXdjBwSXg5dnhxdEhIOVFoajdTdUFWTlVfdGxQN3c4Z19UMjRNd3J4S2VUdlZ4dXl4NFc4R2Y1SGcwWko5N3FJNzRrWGdGVWVxX0ZCYkI5Q0tpUy1lak1jVndkNnRBdzlFN1RvV0VWWk14LWUz?oc=5)
-
----
-
-### [‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success | Cancer research - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlVcGw4d05qWDlHVFBjT2wzQWpnSkUzMUZ3dkNqOWlKNXduWnJvN3FVUTd6SHBHM29DOXAweGY5YmdMOXJQaElkVHZGTG9BVmRQeF8yamQ2RmFTR182Y2FNQnVwcmE3empVSDdWT2ZaVU9rbEdaZzFQWE9tZGFGRk5lTm9ycFpQSi1xYU95VlhmWHppNjB4bU1sQjZaSk0?oc=5)
-
-2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlVcGw4d05qWDlHVFBjT2wzQWpnSkUzMUZ3dkNqOWlKNXduWnJvN3FVUTd6SHBHM29DOXAweGY5YmdMOXJQaElkVHZGTG9BVmRQeF8yamQ2RmFTR182Y2FNQnVwcmE3empVSDdWT2ZaVU9rbEdaZzFQWE9tZGFGRk5lTm9ycFpQSi1xYU95VlhmWHppNjB4bU1sQjZaSk0?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVlvUDdGOXVwbEtLQUtBM0plVjR0Sk9Ga3NIU2Y2RmJBaDd4UHNZNVNxaElfaXp4blpZVWxJVGhfd1Y1amJUQzZoY1IyNXVZdjFzVFowQ0lYUHlfdFFuN1d4S0laT2YzcWRLczRHU0VaYkJ1RGdMZGxPbG8xbUlBU0dCUUFLdw?oc=5)
 
 ---
 

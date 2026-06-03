@@ -14,7 +14,7 @@ permalink: /news/valsartan/
 ---
 
 <p class="key-answer" data-question="Valsartan 有什麼相關新聞？">
-<strong>Valsartan</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Valsartan</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/valsartan/
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（37 則）
+## 相關新聞（29 則）
 
 ### [Steigende Krebsinzidenzen bei Jüngeren mit klassischen Risikofaktoren nur teilweise erklärbar - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxONkF3a2l2RTRoZ01TdkcyN2VPZVJRZU5LeEJyYmxTNHQycjNYR05NVDBwNWw3OC03eFZVcng2T3gwOVdZYmk5eDZ6MUtaTWVrMDVQcXEyOFFGdTFKOHRzMWliRTd5UHZrTnBxOEdsR2RVWURha25uODhoQ2NUc1dDYkxQTWd5SlFFQ3FCUnpwTHNFTl9UNG1ZYW5OcGpfd01ZR29CMFVCZ01PS2ZROWZKX1RMdnFodFpGSkRDWmJ1OXBnVkJOZ0I0NVVGRG5nWUs5anhCZGdSbHoyNVhkOVJaWmZ6TldaOHFoWnE2SEQzd09XX1Vo?oc=5)
 
@@ -120,17 +120,9 @@ permalink: /news/valsartan/
 
 ### [Tumore alla prostata aggressivo, un nuovo farmaco aggiunto alla terapia standard migliora le probabilità di guarigione - Corriere della Sera](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOZ3dFUlY2eDNnckEzaEd3d2NzYWJqVDIxeXN5RU5tdWhidkRyS2pqQ0NrNUQ1Q3VTV3NHOE55SThKQTd6QUdvUXByOEw2dmpfOVAxNkxrVEJSVk9Edi03bldJem9RR1pBaUhYUGNTZFdlcmNYOTg3a1VCa3ZZbjdWd0tpMWVPMk95ZmFhWTRwQ0FwYTFncDRVdExsRlFaaGx4a0pDcHFyeUhOQ053T0dCTnA4dnZmRjc4WDJXX1ZTbG9FSk9RSWtrNWhwNVUxbWVwYWFQWXB2V2QyOWJpWGFudnYzVEhNRkVsMVdvdjAwU1F6ZlQ3ZDZncDloSjhlVkVUb29uZVdocXdXai0tQktWQWdMTHRjOEE0b21mcE5BYUFwYnVsUG1xQi1XNU9zaWR0QkVGNzRESkJEVmRsdGthNy1GWdIByAJBVV95cUxORC1nM0VKdFE2ZEdGTGk2Vm1LeWxaUEgzUEdHLXZQZzZDUW1MdHZVVldvZzNMV2s5alFkRzduWHlmLWVfUlgtajM0aGtnYU1TdFg2MDBDTzFWaElGRFFfQ3hlS1o0cGdXb2hUeWNiaUtoLWdCaWdkNlRQb2hwTXdaTEFHYlF2UjZLY3BYaDAyNEhPMzB1bXNUQUl3NEJBTC1YQlprU29jcmFzb084S3FPT3I3SlIyTFYzVkl3YnpsOFlvTWNnZTVzSGFIOC1iek1OVkhDUXpRaDVGcU5LR3hMM1d5bUdVdmk0T3M2dHA4aEVfeXVvSnhid0tSU0dfeWswbTBCSjE4aE9sSVZFbDBIV1BNSVBQSFpvUmVpNHlwS0swQzVrNzNxMDFmbXJqQUs2LXJDNHVjMS02aThPaW8ydUxjSFVRcGlT?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">tumor</span>
+2026-06-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOZ3dFUlY2eDNnckEzaEd3d2NzYWJqVDIxeXN5RU5tdWhidkRyS2pqQ0NrNUQ1Q3VTV3NHOE55SThKQTd6QUdvUXByOEw2dmpfOVAxNkxrVEJSVk9Edi03bldJem9RR1pBaUhYUGNTZFdlcmNYOTg3a1VCa3ZZbjdWd0tpMWVPMk95ZmFhWTRwQ0FwYTFncDRVdExsRlFaaGx4a0pDcHFyeUhOQ053T0dCTnA4dnZmRjc4WDJXX1ZTbG9FSk9RSWtrNWhwNVUxbWVwYWFQWXB2V2QyOWJpWGFudnYzVEhNRkVsMVdvdjAwU1F6ZlQ3ZDZncDloSjhlVkVUb29uZVdocXdXai0tQktWQWdMTHRjOEE0b21mcE5BYUFwYnVsUG1xQi1XNU9zaWR0QkVGNzRESkJEVmRsdGthNy1GWdIByAJBVV95cUxORC1nM0VKdFE2ZEdGTGk2Vm1LeWxaUEgzUEdHLXZQZzZDUW1MdHZVVldvZzNMV2s5alFkRzduWHlmLWVfUlgtajM0aGtnYU1TdFg2MDBDTzFWaElGRFFfQ3hlS1o0cGdXb2hUeWNiaUtoLWdCaWdkNlRQb2hwTXdaTEFHYlF2UjZLY3BYaDAyNEhPMzB1bXNUQUl3NEJBTC1YQlprU29jcmFzb084S3FPT3I3SlIyTFYzVkl3YnpsOFlvTWNnZTVzSGFIOC1iek1OVkhDUXpRaDVGcU5LR3hMM1d5bUdVdmk0T3M2dHA4aEVfeXVvSnhid0tSU0dfeWswbTBCSjE4aE9sSVZFbDBIV1BNSVBQSFpvUmVpNHlwS0swQzVrNzNxMDFmbXJqQUs2LXJDNHVjMS02aThPaW8ydUxjSFVRcGlT?oc=5)
-
----
-
-### [Aliments ultra-transformés : on s’empoisonne sans le savoir - Bon Pote](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpnYVNsM1FUaWdBVEphNHdPXzVzenQ3OEI5aElMTUZxV0ZZVVdMVEtXOHpTMXZMT01Tc1g5WFZDMTB6b2dQMzg2MFFuSnkxRW8xVzdyR3FRS0RzaU1JTlBLWXBNcDFIVDRGMlo4ZjlCQzRKNFlNQ2Z5YnFHY0Zkcm94OA?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span>
-
-來源：[Bon Pote](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpnYVNsM1FUaWdBVEphNHdPXzVzenQ3OEI5aElMTUZxV0ZZVVdMVEtXOHpTMXZMT01Tc1g5WFZDMTB6b2dQMzg2MFFuSnkxRW8xVzdyR3FRS0RzaU1JTlBLWXBNcDFIVDRGMlo4ZjlCQzRKNFlNQ2Z5YnFHY0Zkcm94OA?oc=5)
 
 ---
 
@@ -142,27 +134,19 @@ permalink: /news/valsartan/
 
 ---
 
-### [Los oncólogos, sorprendidos: el importante avance que se ha hecho en la investigación del cáncer de páncreas - Diario AS](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVJWbFRtY3dZbmlxYWZ2OUhsMkljRW5vOURnNG9DV2VQbi1QbVdwM2gzOUgwY1BTV0R3NEt6d0VjZFZSLWNhb09LVDg4LWhyWWgxTmhBLU9ROWNGZm1GTlpFZzFsNVNvWjY0OGxvYW9KVlprQkgtWUJVVTZHUldZQnk2bnFCbXdEaTVTOUtaT1cyVGJINUZKek11UE45UTc3SUU2RzFKUTdoTUh5RU4xUHRNUW1qeXB2Y0RDbVhYc3lXWXNTcG81cXE3WHlsS28td0lQRXA5VXQ5bXMzRUNlMjg1cmNpd9IB-gFBVV95cUxOcFM3MEN3akRITHQ3N2FkRFAyMTVZNlRPcndPaVYwTDN1NENEeUhhdS1GS3FNTklQV1RPWkhLZUFrUWJHOTN3U292OXhuZjhhWF9Tb2FJR0IzY0diY3I0WURNdGhsc2g1QjQ3a1FDanJrS1l5VGhRWWNRcXJoa3JDSmpNUzlOeFhRbFc2bFZIYzV6N3Z1NVJ2MXZROUlxc1p4MW51QUFlXzlwQTNUY0NIVnFSNWhDaDRWM252MmtVXzlMS0JvdXpoRTdmWHNhZ3I0bUtNMjJ0NzZQMEZIeTVLamJPMG9MaGE5eXdMdEplVzkwckhDcjlKTWZR?oc=5)
+### [MFAT, il grasso che guarisce. Artrosi, sport e tumori nella nuova era della medicina rigenerativa - Vanity Fair Italia](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzJKSDZ1NnFBLU50cG5RSXhBSFBqa05tSll0RjdMSm4yUGhVZ2pCQ3hsYkluS1RnMTV5VFVoTDRleHpudnByNHllYVk5QVlnRHF2eC1RR2hEVjlEYV9SbFc0X0dMVlJxd21PNFUtTGo0R1Q0WGtXbmUwaHlyUWJ2azRKeVJLUEZzc2VLNWNwM3Z0eGJpZzlva1M5XzNWcGw2Z1RZUDh3bmZGWXdqN3kyX2tQUTV4Q3JJZi1qcktFTEVMbjNvYmM0?oc=5)
 
 2026-06-03 <span class="news-indication-tag">tumor</span>
 
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRVJWbFRtY3dZbmlxYWZ2OUhsMkljRW5vOURnNG9DV2VQbi1QbVdwM2gzOUgwY1BTV0R3NEt6d0VjZFZSLWNhb09LVDg4LWhyWWgxTmhBLU9ROWNGZm1GTlpFZzFsNVNvWjY0OGxvYW9KVlprQkgtWUJVVTZHUldZQnk2bnFCbXdEaTVTOUtaT1cyVGJINUZKek11UE45UTc3SUU2RzFKUTdoTUh5RU4xUHRNUW1qeXB2Y0RDbVhYc3lXWXNTcG81cXE3WHlsS28td0lQRXA5VXQ5bXMzRUNlMjg1cmNpd9IB-gFBVV95cUxOcFM3MEN3akRITHQ3N2FkRFAyMTVZNlRPcndPaVYwTDN1NENEeUhhdS1GS3FNTklQV1RPWkhLZUFrUWJHOTN3U292OXhuZjhhWF9Tb2FJR0IzY0diY3I0WURNdGhsc2g1QjQ3a1FDanJrS1l5VGhRWWNRcXJoa3JDSmpNUzlOeFhRbFc2bFZIYzV6N3Z1NVJ2MXZROUlxc1p4MW51QUFlXzlwQTNUY0NIVnFSNWhDaDRWM252MmtVXzlMS0JvdXpoRTdmWHNhZ3I0bUtNMjJ0NzZQMEZIeTVLamJPMG9MaGE5eXdMdEplVzkwckhDcjlKTWZR?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzJKSDZ1NnFBLU50cG5RSXhBSFBqa05tSll0RjdMSm4yUGhVZ2pCQ3hsYkluS1RnMTV5VFVoTDRleHpudnByNHllYVk5QVlnRHF2eC1RR2hEVjlEYV9SbFc0X0dMVlJxd21PNFUtTGo0R1Q0WGtXbmUwaHlyUWJ2azRKeVJLUEZzc2VLNWNwM3Z0eGJpZzlva1M5XzNWcGw2Z1RZUDh3bmZGWXdqN3kyX2tQUTV4Q3JJZi1qcktFTEVMbjNvYmM0?oc=5)
 
 ---
 
-### [Los ‘apellidos’ del tumor revelan la clave del tratamiento en la oncología de precisión - EL PAÍS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTRtNlNkWHVtS3JYeWVFSElMNDFnbUlyd1ZXWUdXSDZZcTVwa28wZ1BFUWVNdlRxU2ZKVnFkTUxrbkNaZ1lPSkxsSXduTmJSdXB3bzA0bk5Qdlo2TjdZMHd6RTZvaU83S2U1SUF5NVdPNnhDUm5ZVmhaWjR0Sm9yRmdFNlRDVWZqUC1YWnFUX3ZDQmRMejlRd3o2MGZzVnNGczFtM2FjR1I5MkVEUHNSY1lXNkNLVFFHSDJIMElhVlZFNU9idTcycnc0YkJXMTVsOHJ2S9IB6AFBVV95cUxQd2c1enh1S1pMWkdMdFBHRGdxZ2IyOFhtVlVLWWFmZzM3V0JtU285b2xkdFZnaXQyTkRvVkRjWEhkT0Z3dm80UktSTVhNQU1jMHNDX0Y5ZTlGTFhoaW94ZWZZVXpYZXFZWE5MN0JhOS1nMEtkSmZYZThaOWxMTklJTDNsUks3QXFPZUl6ZlBUY2djMTZWRUpEMGVhbVE3YWxLcXltdlJMNGJuVmR0TEZVQmpDQUQ5TkdOVTFLWWhEU2xGNUhSa0hjZXdxS3NzQUkzQ0tuREtLVG5oRnBVU294cEZhTWU3Q0gw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">tumor</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTRtNlNkWHVtS3JYeWVFSElMNDFnbUlyd1ZXWUdXSDZZcTVwa28wZ1BFUWVNdlRxU2ZKVnFkTUxrbkNaZ1lPSkxsSXduTmJSdXB3bzA0bk5Qdlo2TjdZMHd6RTZvaU83S2U1SUF5NVdPNnhDUm5ZVmhaWjR0Sm9yRmdFNlRDVWZqUC1YWnFUX3ZDQmRMejlRd3o2MGZzVnNGczFtM2FjR1I5MkVEUHNSY1lXNkNLVFFHSDJIMElhVlZFNU9idTcycnc0YkJXMTVsOHJ2S9IB6AFBVV95cUxQd2c1enh1S1pMWkdMdFBHRGdxZ2IyOFhtVlVLWWFmZzM3V0JtU285b2xkdFZnaXQyTkRvVkRjWEhkT0Z3dm80UktSTVhNQU1jMHNDX0Y5ZTlGTFhoaW94ZWZZVXpYZXFZWE5MN0JhOS1nMEtkSmZYZThaOWxMTklJTDNsUks3QXFPZUl6ZlBUY2djMTZWRUpEMGVhbVE3YWxLcXltdlJMNGJuVmR0TEZVQmpDQUQ5TkdOVTFLWWhEU2xGNUhSa0hjZXdxS3NzQUkzQ0tuREtLVG5oRnBVU294cEZhTWU3Q0gw?oc=5)
-
----
-
-### [Doctors hail drug that spares bladder cancer patients ‘life-changing’ surgery - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkVCZmEzYTFUcmYwZlBUUFZaYUNhQ1Zfa0NpUHM3NmRNazNIVGE5QXRISUgyR04xTXNLcVc2SlkyQlYwYVkzQjI3U29McWp4Wmlzc1pXNHRQb3NjSkpaeHJyOVp0T2xab2RndXVpVEdtX3FJWlppTmVkQ3pPaUxFbmRycjFIVDVVR015cEk5LVVmcFVqazJvREtzaVFpZmZ3RkE?oc=5)
+### [Weight-loss drugs can cut breast cancer risk by up to 30%, studies suggest - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEhldlBiUTRFVzMxbm5mLWVfLWk5ZXdhRVhBMHg2M3EyUWJiRWNMTDdRMUEySjRKVXBZMmcwc2M2Rm5qc3NqWHhXTVNJQnV0dnpVNjhQWmljMGJQeEh1MWVEa3NTZFlGRDhjZTJZX1J5NE9XZUVIbGphZTh5MXJOcFVFS2FfaUVuQVAzMFA0N0RSaW8?oc=5)
 
 2026-06-03 <span class="news-indication-tag">cancer</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkVCZmEzYTFUcmYwZlBUUFZaYUNhQ1Zfa0NpUHM3NmRNazNIVGE5QXRISUgyR04xTXNLcVc2SlkyQlYwYVkzQjI3U29McWp4Wmlzc1pXNHRQb3NjSkpaeHJyOVp0T2xab2RndXVpVEdtX3FJWlppTmVkQ3pPaUxFbmRycjFIVDVVR015cEk5LVVmcFVqazJvREtzaVFpZmZ3RkE?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEhldlBiUTRFVzMxbm5mLWVfLWk5ZXdhRVhBMHg2M3EyUWJiRWNMTDdRMUEySjRKVXBZMmcwc2M2Rm5qc3NqWHhXTVNJQnV0dnpVNjhQWmljMGJQeEh1MWVEa3NTZFlGRDhjZTJZX1J5NE9XZUVIbGphZTh5MXJOcFVFS2FfaUVuQVAzMFA0N0RSaW8?oc=5)
 
 ---
 
@@ -222,14 +206,6 @@ permalink: /news/valsartan/
 
 ---
 
-### [Kardiorenales-metabolisches Syndrom erhöht womöglich Krebsrisiko – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPczhmVTIzemZENFlEQm5TemtHUmRpaGlNclY4bmgtYUVnX1cxY3JuSzViUW9HVE9LQk9uSzZ1RWpnYWZ5MkRDM0RwYjZ5MDI3YnFtUGZ2RmV3VUZZN3N5WU0xM1pmRDk1OE1FaTc2RERqc1FBWGpsektQN3BLcnJ0azQ3V2MyVlFEZUJ0NG5yUG1EZzg1MEJETXdHaHkzNTZyeUowTzFUTUctU3ZOUlZ6TnBOeGM1TWZaemU2eW5RZXF4aU9OaXUxOUpsZWZjUQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPczhmVTIzemZENFlEQm5TemtHUmRpaGlNclY4bmgtYUVnX1cxY3JuSzViUW9HVE9LQk9uSzZ1RWpnYWZ5MkRDM0RwYjZ5MDI3YnFtUGZ2RmV3VUZZN3N5WU0xM1pmRDk1OE1FaTc2RERqc1FBWGpsektQN3BLcnJ0azQ3V2MyVlFEZUJ0NG5yUG1EZzg1MEJETXdHaHkzNTZyeUowTzFUTUctU3ZOUlZ6TnBOeGM1TWZaemU2eW5RZXF4aU9OaXUxOUpsZWZjUQ?oc=5)
-
----
-
 ### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
 
 2026-06-02 <span class="news-indication-tag">high blood pressure</span>
@@ -238,19 +214,11 @@ permalink: /news/valsartan/
 
 ---
 
-### [Lower cancer and heart disease risk with two tablespoons of one daily food - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
+### [La revolucionaria vacuna contra el cáncer de piel que reduce a la mitad el riesgo de que el tumor regrese - Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxNSWh0OExwaVN3MjdYaWc3aDlNa0RPdTM5MUpJNEo3X0s3Mm81dXVqU1A3NGdnSXJLN3A5QzZ0Ymg0d3Z2NV9KZmFGQmIzWFo5THh5QmpXbHBqM3JiWUVqTjhKYjgtNnVpa2RhOVNjQ0RpR3VycThvMnZfS3pnQlBRb1NmOUdINmRYRlNkMk5GSXlqYTJXeFFCZFN1c2xJdGo1ZldiamFHSktlU2pLTWdkRW4weWpPWjF2b041MmpFTjRFQTUyaWh0Q2ZqT2dvbUxJaC1kTG9jQ01iR0pBOC1BbUMtekFFTG1qUEt6clpQazhmaDVVYmhfRG5LZllxRDJja3ZudXhaYy0wYXdTWnc?oc=5)
 
-2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-06-02 <span class="news-indication-tag">tumor</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
-
----
-
-### [Weight-loss jabs ‘slash cancer risk and boost survival rates’ - The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmRuamN1anB6MGwxdjM2TUlGdUNuVnoyM3NQUm1YYm85YXd5WUdLYW1iUUNaUG11ZjJWQ3BSdkFXOG5LVlZzLTlIM3VFSElqWmJES1B2LXhINVRfNzNUUlVGZ1gtc2YwNlMzVWpqQXFGWHh2Y2ptakNLMjdtSXBQRWlKQmtFNUdmREhzM0V4TDMzV2huTFlQWkdCelFEY0Z6Y0RNX0VvSQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">cancer</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmRuamN1anB6MGwxdjM2TUlGdUNuVnoyM3NQUm1YYm85YXd5WUdLYW1iUUNaUG11ZjJWQ3BSdkFXOG5LVlZzLTlIM3VFSElqWmJES1B2LXhINVRfNzNUUlVGZ1gtc2YwNlMzVWpqQXFGWHh2Y2ptakNLMjdtSXBQRWlKQmtFNUdmREhzM0V4TDMzV2huTFlQWkdCelFEY0Z6Y0RNX0VvSQ?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxNSWh0OExwaVN3MjdYaWc3aDlNa0RPdTM5MUpJNEo3X0s3Mm81dXVqU1A3NGdnSXJLN3A5QzZ0Ymg0d3Z2NV9KZmFGQmIzWFo5THh5QmpXbHBqM3JiWUVqTjhKYjgtNnVpa2RhOVNjQ0RpR3VycThvMnZfS3pnQlBRb1NmOUdINmRYRlNkMk5GSXlqYTJXeFFCZFN1c2xJdGo1ZldiamFHSktlU2pLTWdkRW4weWpPWjF2b041MmpFTjRFQTUyaWh0Q2ZqT2dvbUxJaC1kTG9jQ01iR0pBOC1BbUMtekFFTG1qUEt6clpQazhmaDVVYmhfRG5LZllxRDJja3ZudXhaYy0wYXdTWnc?oc=5)
 
 ---
 
@@ -264,7 +232,7 @@ permalink: /news/valsartan/
 
 ### [The 2 'deadliest' vaping flavours revealed - as worst offending e-cigs 'can alter over 3000 genes' - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzVNTlpjaFVJdTYyczlreXFhajlRaExMNDliUjNOaDZ0VlFZeDdYcW9ZOHNBTmVzaE1mMVVlb0hDRDVDRmo3ZFExUnRtRUZ5SmxBbnhoejNpcFZmTmREa2FLVVkzNWNPSFpCT2ljUDFsODNFTG92U1ZSVExYdzduaFBrVThIV0dITWZNVkl6OA?oc=5)
 
-2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-02 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzVNTlpjaFVJdTYyczlreXFhajlRaExMNDliUjNOaDZ0VlFZeDdYcW9ZOHNBTmVzaE1mMVVlb0hDRDVDRmo3ZFExUnRtRUZ5SmxBbnhoejNpcFZmTmREa2FLVVkzNWNPSFpCT2ljUDFsODNFTG92U1ZSVExYdzduaFBrVThIV0dITWZNVkl6OA?oc=5)
 
@@ -315,38 +283,6 @@ permalink: /news/valsartan/
 2026-06-01 <span class="news-indication-tag">cancer</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwTHV0elJmYURpQ0FRVDM0QlFyVmpLWEM4R3pOQlQ1MVJwM3lNb1hzeW1GYTVhZFV0Mk9rZjJXRmFXWDdqZUEtLTZPSjFTeW1OQmM3Mko1YWJLTmVzMXlV?oc=5)
-
----
-
-### [‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success | Cancer research - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlVcGw4d05qWDlHVFBjT2wzQWpnSkUzMUZ3dkNqOWlKNXduWnJvN3FVUTd6SHBHM29DOXAweGY5YmdMOXJQaElkVHZGTG9BVmRQeF8yamQ2RmFTR182Y2FNQnVwcmE3empVSDdWT2ZaVU9rbEdaZzFQWE9tZGFGRk5lTm9ycFpQSi1xYU95VlhmWHppNjB4bU1sQjZaSk0?oc=5)
-
-2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlVcGw4d05qWDlHVFBjT2wzQWpnSkUzMUZ3dkNqOWlKNXduWnJvN3FVUTd6SHBHM29DOXAweGY5YmdMOXJQaElkVHZGTG9BVmRQeF8yamQ2RmFTR182Y2FNQnVwcmE3empVSDdWT2ZaVU9rbEdaZzFQWE9tZGFGRk5lTm9ycFpQSi1xYU95VlhmWHppNjB4bU1sQjZaSk0?oc=5)
-
----
-
-### [Tumore al colon-retto metastatico e non operabile: scoperta la “sentinella” che predice il beneficio delle cure - La Nazione](https://news.google.com/rss/articles/CBMihgFBVV95cUxPMjZvMGpESFBxMzZ5RWtMcTJpNEJfMlN0aWZZMFg4UXE5eVd1cDBnR1J6N0ZEWnhXOG1zalQwTGtxRm1yMnMtbkxENzlBSWhuaHA4M0ZzREExNGVfUktZYUdIQncxbmdqdUpnMURmeTRQczVUQWVZeGI0bS1ZYS1fTDc0Q3B5UQ?oc=5)
-
-2026-06-01 <span class="news-indication-tag">tumor</span>
-
-來源：[La Nazione](https://news.google.com/rss/articles/CBMihgFBVV95cUxPMjZvMGpESFBxMzZ5RWtMcTJpNEJfMlN0aWZZMFg4UXE5eVd1cDBnR1J6N0ZEWnhXOG1zalQwTGtxRm1yMnMtbkxENzlBSWhuaHA4M0ZzREExNGVfUktZYUdIQncxbmdqdUpnMURmeTRQczVUQWVZeGI0bS1ZYS1fTDc0Q3B5UQ?oc=5)
-
----
-
-### [Postman sues NHS over major surgery to remove cancer he DIDN'T have - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEd5YlB4eHVQb0VtTUhDZVp5ZlVVdktvRXhlRnM0cko2MmNDWHNFVHo3MHkySHl3RmllbGVvNTMtMElqaW9VQWdzTk1sV2U5UUIzRV9hRnVmMmh1cUlqcGd0ODlGNU5PQklpbmVDR0w5VnVpa2xBb3BNMXhyYmU5NU9SS0twbmVZUzdsS3NOb2Q0Nks2ZXFucXln?oc=5)
-
-2026-06-01 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEd5YlB4eHVQb0VtTUhDZVp5ZlVVdktvRXhlRnM0cko2MmNDWHNFVHo3MHkySHl3RmllbGVvNTMtMElqaW9VQWdzTk1sV2U5UUIzRV9hRnVmMmh1cUlqcGd0ODlGNU5PQklpbmVDR0w5VnVpa2xBb3BNMXhyYmU5NU9SS0twbmVZUzdsS3NOb2Q0Nks2ZXFucXln?oc=5)
-
----
-
-### [6h par nuit après 45 ans : vous croyez tenir, votre tension et votre poids disent le contraire - Modes et travaux](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOd21hTllYazg1WWR0c0ZYcU5sUG00UW9YdlM0cVZrU3FkaHZKYTdpQTdwREtnZmVEbERLcHlaVF90anllVXk4cG9iSzBqQ3QzVDlZdzI0SFlaR1lpYzBwOHpjclpIN0tSVXlDblVCMUdtQ1ZjMGhLelgxZG9VN0FHbUJPMDc5bDQyX1B5T2xLNHAxMzgzaDlMb2RUTFNrN01YYU9yZ0YzZGVxUXJlNmtZUWVGM1RDVWxnMHdkdXo3V1FYc2JKaGl3Z0FPaWNfU2hBaUo5NjRCQkFyVFgxZHVNNW1xckFyWEZvUXlEb2ItLVlkX0p0cTVZRU41c2lhbTlrM2VqMk0yci1CSkk?oc=5)
-
-2026-06-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Modes et travaux](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOd21hTllYazg1WWR0c0ZYcU5sUG00UW9YdlM0cVZrU3FkaHZKYTdpQTdwREtnZmVEbERLcHlaVF90anllVXk4cG9iSzBqQ3QzVDlZdzI0SFlaR1lpYzBwOHpjclpIN0tSVXlDblVCMUdtQ1ZjMGhLelgxZG9VN0FHbUJPMDc5bDQyX1B5T2xLNHAxMzgzaDlMb2RUTFNrN01YYU9yZ0YzZGVxUXJlNmtZUWVGM1RDVWxnMHdkdXo3V1FYc2JKaGl3Z0FPaWNfU2hBaUo5NjRCQkFyVFgxZHVNNW1xckFyWEZvUXlEb2ItLVlkX0p0cTVZRU41c2lhbTlrM2VqMk0yci1CSkk?oc=5)
 
 ---
 

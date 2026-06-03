@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（5 則）
 
+### [La obesidad deja huellas epigenéticas en el ADN infantil - IM Médico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcThEaEJHcXdIUEFfV0hfTmxKSE5Uc1k2emdESHNHcU9ZSzhXSEFqU3VTY2xLcy00QWhxQlFFS3lkbl9ZQktyaUtCV2VHRXlId241OXVWblNTSnlBdmtkUkxlNVZWLWx1M3Y1MFVEdHZsRk4tTHBBOGNuMXBtbDBvU0lON0FnZS14UTRyX016a0x2ZzRXWmJEcGFOTTJGVmxlX2ltMERTdWJxdjJqNHR2dNIBqwFBVV95cUxPaEswb0hCdTdOVjVKazZmN3lndTJhbUw5YlpLRmhUUmdiZEt6elR3ZDd5cjZtTEVlX2JKem54aWZEMzNlLTc3LV9URTFrQk9NOEFqV2VxdEVoT3pFa0EyQnBwa01ob0MwNHdoUmNnWjl2ajZSUnJfWHJqS1cycWR6dkdLQzdEVkZJMFBuOEl4RktiRmxIdGt2STVBbVhydkNJTE94dU8tQ25obTQ?oc=5)
+
+2026-06-03 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcThEaEJHcXdIUEFfV0hfTmxKSE5Uc1k2emdESHNHcU9ZSzhXSEFqU3VTY2xLcy00QWhxQlFFS3lkbl9ZQktyaUtCV2VHRXlId241OXVWblNTSnlBdmtkUkxlNVZWLWx1M3Y1MFVEdHZsRk4tTHBBOGNuMXBtbDBvU0lON0FnZS14UTRyX016a0x2ZzRXWmJEcGFOTTJGVmxlX2ltMERTdWJxdjJqNHR2dNIBqwFBVV95cUxPaEswb0hCdTdOVjVKazZmN3lndTJhbUw5YlpLRmhUUmdiZEt6elR3ZDd5cjZtTEVlX2JKem54aWZEMzNlLTc3LV9URTFrQk9NOEFqV2VxdEVoT3pFa0EyQnBwa01ob0MwNHdoUmNnWjl2ajZSUnJfWHJqS1cycWR6dkdLQzdEVkZJMFBuOEl4RktiRmxIdGt2STVBbVhydkNJTE94dU8tQ25obTQ?oc=5)
+
+---
+
 ### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
 
 2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -75,14 +83,6 @@ permalink: /news/orlistat/
 2026-06-03 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3NpaThUNlZQYW9fOWZpa0F0VndXTTh5V1JNRk9tN1lIMkpMR0MxWlZUSVVqanYzUTU4Z01aR21ZWi1reTBhNzFzekVjb1FuWXFER3RHMWtURGNHSEtRUXh2Qzg4QzVrSC1NdmRGdDhZSmhBMExQaTVxMEFvc3pmb0p3R3BJcUFwMGt4TzNtcjRWQVVuNUtnOU9KSmNXVlh3eUNFc1Q1NXdhbzFPdTJkb2NjTHRwd2RJVTlQZE1n0gG4AUFVX3lxTE1MYUc2dUNRbGxpM1JwTjBoMGMweUd1WUhMXzdvNVBLeGlmLXhqS05OTTdkTDIwUkctNGtvaFhhMGpCMEN3NTRxWDNOREIyWWZYYU15TmZVaG81dnBSUGt6UnNLQm1WVmxJTFRHemxsLVhXT09YM25aZ19KX2d5eDhVcjNtRFhEWGNuYWJmTGdpaGtHT2FYTWkySVRBMVh1T01UTXFRbEd5VUxpSGFrWEx2d0VLMjBjZmU?oc=5)
-
----
-
-### [La obesidad deja huellas en el ADN infantil más allá de la propia genética - Universidad de Granada](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkwxVlZLWGY1MUtfNlJjaEFQLXUtY3FaT244T3JjekRtRnMzVGxmNFFWQ1ZtUmp2TmRQTlMyOVhXaEdJV1ZrTUo1c0RwcHg2aHo2OUJ6YzNoNVNCQjAtbmE5bUY2UXJIQmg0S0VhU3dGR0RUN2hLcFQ3Y29wQXRNUFlDNkN0VUpRUlNSVEZaa2NIaExWaHo2eWRETWRqbU9y?oc=5)
-
-2026-06-02 <span class="news-indication-tag">obesidad</span>
-
-來源：[Universidad de Granada](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkwxVlZLWGY1MUtfNlJjaEFQLXUtY3FaT244T3JjekRtRnMzVGxmNFFWQ1ZtUmp2TmRQTlMyOVhXaEdJV1ZrTUo1c0RwcHg2aHo2OUJ6YzNoNVNCQjAtbmE5bUY2UXJIQmg0S0VhU3dGR0RUN2hLcFQ3Y29wQXRNUFlDNkN0VUpRUlNSVEZaa2NIaExWaHo2eWRETWRqbU9y?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。17 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>17 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,45 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（17 則）
+
+### [Ebola, Oms: "Entro 2-3 settimane al via test con farmaco preventivo"](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdExYLTJzOGd6RERLQ01QM0lNRFpHbmItLVFYbEdaUXFYa0xXaVI2SlVEMmF4dlEta3IxOGdsbHI3QzFld2l4VXBXSzlIU2JBWmoxZ2pmZENqZWRNZzNBLU1uU0IzRmZWcWZHNUlUY2szWXk1bTBXSlJoa2xiZENJNVdXQ3oza2EyWW9zNlQ2S0xudmphOEU3Uzh0Y9IBaEFVX3lxTE1nVzJ2TnNfaVJGMXg4d09BYWljbGFKOTJ2cDRRM0VuUGhRbUI0clpvYS1GVkpPWEV5X2ZsSzh3N0dpRFlZWXdSdG5jUlBDamJhMVJmVUVGOVRBa0EwNzNtdk5IN1V2Tjdx?oc=5)
+
+2026-06-03
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdExYLTJzOGd6RERLQ01QM0lNRFpHbmItLVFYbEdaUXFYa0xXaVI2SlVEMmF4dlEta3IxOGdsbHI3QzFld2l4VXBXSzlIU2JBWmoxZ2pmZENqZWRNZzNBLU1uU0IzRmZWcWZHNUlUY2szWXk1bTBXSlJoa2xiZENJNVdXQ3oza2EyWW9zNlQ2S0xudmphOEU3Uzh0Y9IBaEFVX3lxTE1nVzJ2TnNfaVJGMXg4d09BYWljbGFKOTJ2cDRRM0VuUGhRbUI0clpvYS1GVkpPWEV5X2ZsSzh3N0dpRFlZWXdSdG5jUlBDamJhMVJmVUVGOVRBa0EwNzNtdk5IN1V2Tjdx?oc=5)
+
+---
+
+### [Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
+
+2026-06-03
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
+
+---
 
 ### [Medizintalk: Multiple Sklerose: Von der Diagnose bis zu modernen Therapien - Kölner Stadt](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkVpQXNmWWtPMGNJOEtsMTNiSjREdDJoUHV1UlZtaklHcjJxN0UtTERDUWtMVnlBS3lISzQzR0l6UnNTanpuU00yOWZzTnJFLUwybTFvX01DdDlHVFd3NzdxZFNlbnVsOGxfdDFyVWp1MGxJajR0UXNpYmJ3cFNib1ptM3BHaTk1YllqdTdIaC1SOFBNZFBXaFBlQUtDRmFSUTctMVZhZ2NRMXFuNkVnYzhGMTNGVlh4anNjZw?oc=5)
 
 2026-06-03
 
 來源：[Kölner Stadt-Anzeiger](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkVpQXNmWWtPMGNJOEtsMTNiSjREdDJoUHV1UlZtaklHcjJxN0UtTERDUWtMVnlBS3lISzQzR0l6UnNTanpuU00yOWZzTnJFLUwybTFvX01DdDlHVFd3NzdxZFNlbnVsOGxfdDFyVWp1MGxJajR0UXNpYmJ3cFNib1ptM3BHaTk1YllqdTdIaC1SOFBNZFBXaFBlQUtDRmFSUTctMVZhZ2NRMXFuNkVnYzhGMTNGVlh4anNjZw?oc=5)
+
+---
+
+### [Sin Nombre Hantavirus Strain Kills One In Arizona](https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5)
+
+2026-06-03
+
+來源：[Forbes](https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5)
+
+---
+
+### [Los expertos reclaman una respuesta interdisciplinar para proteger a la población del impacto del cambio climático - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJ0cVQ4NjlIUlRSbUhrV1RCZENuNFVJYTJ2bE1kSjdVRlZqdnFJVEFtZXpWWHFvSng0RVV3aXktY3J0R0s1Mk9COTBIc2VJWUppYXNneURXM3Z5QXpES3JOWTRwU3o2OTg3dzFxdmVHVXlPU3BWNkhQYzNxSEMxckxNNmtMRlljTFBXaHhXTFUzVHZneGtiX04xM1ZWQWRMakh1UkVSN1p5UXkzc0w4aEJ5WQ?oc=5)
+
+2026-06-03
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJ0cVQ4NjlIUlRSbUhrV1RCZENuNFVJYTJ2bE1kSjdVRlZqdnFJVEFtZXpWWHFvSng0RVV3aXktY3J0R0s1Mk9COTBIc2VJWUppYXNneURXM3Z5QXpES3JOWTRwU3o2OTg3dzFxdmVHVXlPU3BWNkhQYzNxSEMxckxNNmtMRlljTFBXaHhXTFUzVHZneGtiX04xM1ZWQWRMakh1UkVSN1p5UXkzc0w4aEJ5WQ?oc=5)
 
 ---
 
@@ -72,35 +104,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Primeros datos claramente positivos de los inhibidores de BTK en la esclerosis múltiple recurrente-remitente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG9tNTlTM2pPcV9tQTYtVmFWaEwyVzM0NFY3Q3VfVXpoYV8tZTZnSXl2eXFPMG1sLUtpTWptUXBKNHBCYVBteHZ2ajR0dGZhdEpxOFhCQk1yV3Y5Q1hNTGlGdFphblhnRzBIcGhuZ28zWERyTG9VaWQ1UzJhODROYVhra0RzdF9FRHZzMTY3YmVHSGV4ZnBOODdXS1VXNHVmQ2cxYXQ3RUM?oc=5)
-
-2026-06-03
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG9tNTlTM2pPcV9tQTYtVmFWaEwyVzM0NFY3Q3VfVXpoYV8tZTZnSXl2eXFPMG1sLUtpTWptUXBKNHBCYVBteHZ2ajR0dGZhdEpxOFhCQk1yV3Y5Q1hNTGlGdFphblhnRzBIcGhuZ28zWERyTG9VaWQ1UzJhODROYVhra0RzdF9FRHZzMTY3YmVHSGV4ZnBOODdXS1VXNHVmQ2cxYXQ3RUM?oc=5)
-
----
-
-### [La crisis climática al nivel de una emergencia sanitaria mundial: la inédita petición de los científicos a la OMS - Meteored España](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEZ0VXBkZXdMZWpzSnV2Wl9WVDd4YVF3ZENxazhFdjg0U0tZbkVjZTZqUjdPVmtkUFVmcUNqMjkwRnk0aFRzQTVzcXNSUGJpLWlDV0R0ZGdmdDBfLS1kYm96MHdwX1dlUHlWOXVSc1FpSEpIMU5BUkZhRnZnWjZKbkEwbDd2TGRNNEtPZGd3VFpKOFVPM184SHlMNkQ1QWRNM3poZjMwOUtFLVVKTmtpWE5jUXJfOFlHeXJBQnNNU2txVUgzZU8wWEo5a01LSER2Vk9CVjU4OWI0Q1daRzl4UFE5VmJNbS1y?oc=5)
-
-2026-06-03
-
-來源：[Meteored España](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEZ0VXBkZXdMZWpzSnV2Wl9WVDd4YVF3ZENxazhFdjg0U0tZbkVjZTZqUjdPVmtkUFVmcUNqMjkwRnk0aFRzQTVzcXNSUGJpLWlDV0R0ZGdmdDBfLS1kYm96MHdwX1dlUHlWOXVSc1FpSEpIMU5BUkZhRnZnWjZKbkEwbDd2TGRNNEtPZGd3VFpKOFVPM184SHlMNkQ1QWRNM3poZjMwOUtFLVVKTmtpWE5jUXJfOFlHeXJBQnNNU2txVUgzZU8wWEo5a01LSER2Vk9CVjU4OWI0Q1daRzl4UFE5VmJNbS1y?oc=5)
-
----
-
 ### [Samsung und das Massachusetts General Hospital starten gemeinsame Studie zu Stoffwechseltherapien](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
 
 2026-06-03
 
 來源：[samsung.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
-
----
-
-### [Epidemia di Ebola in Congo: 344 casi confermati, 60 morti](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1BvUXRuZzNZN0FjX1lNcmhiU0dwc3hkOHBRelZXTUVPaks5YlByWDYwbHBHMzlGRWVmWGU4a0M3MW0ydzA3MXltU0FkRVJsdFpTT0hUSGhaS25sdWxvZGdIT2QzSzhOWjhySkNqWm8tUHZ3UGRyRmxEX3pPclFIVHNFTjQ4V29PZG4yRTlsZGhBUkZsTTYwSi1DSy1VU2otV1p3QUVVb2dwMFlqdDdFTmxSd1ZFM2gzWkI0eg?oc=5)
-
-2026-06-03
-
-來源：[ItaliaOggi](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1BvUXRuZzNZN0FjX1lNcmhiU0dwc3hkOHBRelZXTUVPaks5YlByWDYwbHBHMzlGRWVmWGU4a0M3MW0ydzA3MXltU0FkRVJsdFpTT0hUSGhaS25sdWxvZGdIT2QzSzhOWjhySkNqWm8tUHZ3UGRyRmxEX3pPclFIVHNFTjQ4V29PZG4yRTlsZGhBUkZsTTYwSi1DSy1VU2otV1p3QUVVb2dwMFlqdDdFTmxSd1ZFM2gzWkI0eg?oc=5)
 
 ---
 
@@ -152,6 +160,22 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Hantavirus: La OMS lanza un mensaje de calma tras valorar el estado actual del brote - Andalucía Información](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXlRM3RQUGRQVWtFSTBfZ2RUS1F2RW9MNlRFM2dZRVBhakpGOG16c0J6U0VvbWQxN3RxblhTZjZFR2VfemtiVUV2d3NhTXgxN09IQ1JlUU9HbE04WjE5LVQwcUdZcl9uM01vLUlJeHhYQWoxR1hpeTUwZ3p0eHZUVXZPNXViMFRRY1BZU3VqRjVVUncyaDg2TFZKdTRSaG8zc1J4VkdNT1JDSW5VWWtfRVUwel9yUjRTWEI0MGgwR1Y4SWwtUExsay00eENkNTAwQ2Y4Wm1vWdIB3AFBVV95cUxNWnBCM1RsNmhkNlRuUmxqNkN6dEpvWkN6cWVodWNpNElETC1Vc29MZE9ibmtYTWZDcFRJSkZVTVlEZHk3QUUzdUhzaW1uMlQyTEJSaEFSa25VSVR4LVdCQUJaNUUyM2dMZmNqQmFvR3c2VnNHTlZPOFFHLXQ4MWRGdmhBYjNCcXlpbGo3TjV0Ri1hWUtUaWJLNjVIOTAzZzhoMkJZX2NOdTcxOGNMcHFRR2kyWDZZT19KLTZTQjYxTXB0TnF0Q3N4OEtKLXhHUnJ0b3l5VTQxa1pmeUIw?oc=5)
+
+2026-06-02
+
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXlRM3RQUGRQVWtFSTBfZ2RUS1F2RW9MNlRFM2dZRVBhakpGOG16c0J6U0VvbWQxN3RxblhTZjZFR2VfemtiVUV2d3NhTXgxN09IQ1JlUU9HbE04WjE5LVQwcUdZcl9uM01vLUlJeHhYQWoxR1hpeTUwZ3p0eHZUVXZPNXViMFRRY1BZU3VqRjVVUncyaDg2TFZKdTRSaG8zc1J4VkdNT1JDSW5VWWtfRVUwel9yUjRTWEI0MGgwR1Y4SWwtUExsay00eENkNTAwQ2Y4Wm1vWdIB3AFBVV95cUxNWnBCM1RsNmhkNlRuUmxqNkN6dEpvWkN6cWVodWNpNElETC1Vc29MZE9ibmtYTWZDcFRJSkZVTVlEZHk3QUUzdUhzaW1uMlQyTEJSaEFSa25VSVR4LVdCQUJaNUUyM2dMZmNqQmFvR3c2VnNHTlZPOFFHLXQ4MWRGdmhBYjNCcXlpbGo3TjV0Ri1hWUtUaWJLNjVIOTAzZzhoMkJZX2NOdTcxOGNMcHFRR2kyWDZZT19KLTZTQjYxTXB0TnF0Q3N4OEtKLXhHUnJ0b3l5VTQxa1pmeUIw?oc=5)
+
+---
+
+### [Pflanzliche Ernährung als MS-Begleittherapie: 7% weniger Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdW1jNmx5SmdObjhWT0s4bk1KZmlkaVNNWFNVSkU5OHNMaHVFUjBDREQySjIzX2x1X25yeS12djRkSmVBQWFsMnlzM2QyUjRjaVctUUpCNFlOU3V4anRER08zUEk5Zmx3V0VkY1Q4cjdST1gzcF9odl9ZaE9UbVRmVGdZNVpMeGVlNnZNTE5UaHFTMkNDdmJreHh6TWs3QlRLQmc?oc=5)
+
+2026-06-02
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdW1jNmx5SmdObjhWT0s4bk1KZmlkaVNNWFNVSkU5OHNMaHVFUjBDREQySjIzX2x1X25yeS12djRkSmVBQWFsMnlzM2QyUjRjaVctUUpCNFlOU3V4anRER08zUEk5Zmx3V0VkY1Q4cjdST1gzcF9odl9ZaE9UbVRmVGdZNVpMeGVlNnZNTE5UaHFTMkNDdmJreHh6TWs3QlRLQmc?oc=5)
+
+---
+
 ### [Hormone therapy use for menopause declines despite proven benefits, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWs2N3lrRGg4MWdOSVJYTUs3VjNpUHJyLVdOaTBkTlhjYTZkUUNycTdvY0xYYXU4SnhoTTRDOWdVOUV3UUZZekpfM215WHljTEdOQXhUZ0QzZ0ltVEJFU19rR1VFRmV4cUZIemRzMUo5WXdRSjlvU0p0RUZZWGc0TXpSd096U3NCXy1JR25B?oc=5)
 
 2026-06-02
@@ -165,14 +189,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-02
 
 來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUJldF9RclRqWHJEZ2dwWC13cW42R3h5QjdaTWZoQXVTWWowZEQ4eW0wTG5hTmEwY0xhSDBZR3Flc0czbENPZ0JTYWV5REJVY1BVUWVOX1QwcXUxcTBSbW9DUzFpdjluWEdQV3hPQS1ZbURET0xaeW5IRXJSVHI2QWxlRUh1VzA3TUt3R3ZITzNMOE4xUkYyZFcyY2R0ZHM2X0t5VkhKZFhXZFZHZnVUb3FyZXZBVHZwS0hWXzR3?oc=5)
-
----
-
-### [MSD anuncia resultados positivos de sacituzumab tirumotecán para cáncer de endometrio](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWJBSUNyN2hBN1lvWHlWZ1lTLTNaYmhPVGd1MU5iZ2tzNG1JREFhWEYyR2tZMkN2cHhFQWdrQ1JqZzNIOTBwbmFoM21pNW1RZGkyd1VDYkFmNlB5UXpLYmQ0VVptZ0lEQ0NyZjJYRGV0VkJ4cUJUYWo1djJsVS11aVlKOFBPY3BpX3d6LTJwa3VDUnNUZ0UzSkpwVnk5YzBoWDNZQXRWOGN4elZHdFRkX0ttak9KR2RpMlMwU2F6VGQtSFdNQWxidm9VXzZwUzg2cXc5Y3QxRHBOWVh1VmZN?oc=5)
-
-2026-06-01
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWJBSUNyN2hBN1lvWHlWZ1lTLTNaYmhPVGd1MU5iZ2tzNG1JREFhWEYyR2tZMkN2cHhFQWdrQ1JqZzNIOTBwbmFoM21pNW1RZGkyd1VDYkFmNlB5UXpLYmQ0VVptZ0lEQ0NyZjJYRGV0VkJ4cUJUYWo1djJsVS11aVlKOFBPY3BpX3d6LTJwa3VDUnNUZ0UzSkpwVnk5YzBoWDNZQXRWOGN4elZHdFRkX0ttak9KR2RpMlMwU2F6VGQtSFdNQWxidm9VXzZwUzg2cXc5Y3QxRHBOWVh1VmZN?oc=5)
 
 ---
 
