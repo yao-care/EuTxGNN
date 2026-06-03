@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [COPD verkürzt Lebenserwartung – auch bei Nichtrauchern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3A3T3BRQ05pb0E0NTRoVEtMLXd1bE5pUW1Dc1FlRWpQVWczYmlzSkcxUkc1Z0ZNVk1ZbEJuMVFUbHJkQmFYR24ycnBIS3RNVHoteEk2YlJTOGg2ckpkRDl5aHFhemxrRUtROEc3dzJ3NmRmQldkclR4ZS1tMUpjdnV6dDVsSl95c2p4ZUh1YTFyMzhyU00yRTFyNVY2Wmg5aUxlbFphQWNpeUQ0c21pOENWc0RFUWc5QkNuUUdR?oc=5)
-
-2026-06-02 <span class="news-indication-tag">copd</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3A3T3BRQ05pb0E0NTRoVEtMLXd1bE5pUW1Dc1FlRWpQVWczYmlzSkcxUkc1Z0ZNVk1ZbEJuMVFUbHJkQmFYR24ycnBIS3RNVHoteEk2YlJTOGg2ckpkRDl5aHFhemxrRUtROEc3dzJ3NmRmQldkclR4ZS1tMUpjdnV6dDVsSl95c2p4ZUh1YTFyMzhyU00yRTFyNVY2Wmg5aUxlbFphQWNpeUQ0c21pOENWc0RFUWc5QkNuUUdR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

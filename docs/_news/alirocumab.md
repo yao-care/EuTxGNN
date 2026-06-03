@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [You Just Found Out You Have Chronic Kidney Disease—This Is What Experts Recommend You Do First](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5)
-
-2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">chronic kidney disease</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

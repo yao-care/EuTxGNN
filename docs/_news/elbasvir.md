@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### [Blut-Proteine und GLP-1: Neue Ansätze für frühe MS- und Alzheimer-Erkennung - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWpSVzI0TDhvb3ZEc01ZdGpTNzNieG0tYmVqMFlDYjgxWVRjaVV2cDMyVjJYSHFfMWhTU0h6VlJDTzBTV3VrRXBxS3ZscDJQbEtsTlBvZ3RMMGc2UlJRc0E1ZjVGUFQ0Tk9YM1p2SDl3YTB5WlNENHhvbHRwUnl3X0ZfZkJEMVJQQlJVcWt1RUktMy0yNGJlazFrY1NwTWRSZUY4RnpEWjN3UzFH?oc=5)
-
-2026-06-02 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWpSVzI0TDhvb3ZEc01ZdGpTNzNieG0tYmVqMFlDYjgxWVRjaVV2cDMyVjJYSHFfMWhTU0h6VlJDTzBTV3VrRXBxS3ZscDJQbEtsTlBvZ3RMMGc2UlJRc0E1ZjVGUFQ0Tk9YM1p2SDl3YTB5WlNENHhvbHRwUnl3X0ZfZkJEMVJQQlJVcWt1RUktMy0yNGJlazFrY1NwTWRSZUY4RnpEWjN3UzFH?oc=5)
-
----
-
-### [Abnehmspritzen gegen Demenz: Prävention klappt, Therapie scheitert - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFtdnNuMmZnR243cHR6a1ZHOU5qX1I3TjVwbGlNVEF1X2RqTV9lSV9PUHYzZ1R2TWpWQ2NXZmlZekpKOUhic0swcHlwYTdCSFVFRkJkMHl0b0NPSTFqNmpzbl9RX0pHM0ZkX0IzZ3p5dmJjOG55enplMVJUVDdkNzJDd2FPaGx4aWRGTGRUUGRSVzVsdWFyR01wbmxuVm95UFdDQXdTYlowcTA3SkNjM0lHMEU?oc=5)
+### [GLP-1-Wirkstoffe reduzieren Demenzrisiko – und greifen Entzündung an - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BqclI4ZTIxcFdhQkNKWVFwNHQwSXNhZU1uUWo0YnZiaG9kbFRsaVhaR216c05qSkpvenhsdFN3UGZNeEZOeUUySk1JbExCclJicURsWVdtU1ViQjZ4UHd6LVRKN2QyX0ZPU3A3QUVXY20tVWQyaGJnLVZmUXdZQU1WcWlvV2lKYUY0SjhsX1YwNlhFN2RERlQ4QXhGWkdP?oc=5)
 
 2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFtdnNuMmZnR243cHR6a1ZHOU5qX1I3TjVwbGlNVEF1X2RqTV9lSV9PUHYzZ1R2TWpWQ2NXZmlZekpKOUhic0swcHlwYTdCSFVFRkJkMHl0b0NPSTFqNmpzbl9RX0pHM0ZkX0IzZ3p5dmJjOG55enplMVJUVDdkNzJDd2FPaGx4aWRGTGRUUGRSVzVsdWFyR01wbmxuVm95UFdDQXdTYlowcTA3SkNjM0lHMEU?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BqclI4ZTIxcFdhQkNKWVFwNHQwSXNhZU1uUWo0YnZiaG9kbFRsaVhaR216c05qSkpvenhsdFN3UGZNeEZOeUUySk1JbExCclJicURsWVdtU1ViQjZ4UHd6LVRKN2QyX0ZPU3A3QUVXY20tVWQyaGJnLVZmUXdZQU1WcWlvV2lKYUY0SjhsX1YwNlhFN2RERlQ4QXhGWkdP?oc=5)
 
 ---
 
-### [You Just Found Out You Have Chronic Kidney Disease—This Is What Experts Recommend You Do First](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5)
+### [Multiple Sklerose: Acht Blutproteine zeigen Ausbruch sechs Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXRLTlA3MFF6b0dZQkZCcEs4aklHTnU3QzVjZ2R5S3BHRHR6aVVFSkhvdGxmd21oclZ0RV9hUEVlOHQ2SG9abkktUlg1d1FBOUpCeWd2N1pqcW1TUkdibXlFRWc3bFlOcTJUeG1LeTMwTFN5VXBxb1NnREx5MEJLR001WDJNODI0X3I0X0pQUVotd0lXM291ZzNFNDBqTTZpcVdseW5CWURWM2YwS3hDYXRTWS1aTnd6V1NFOA?oc=5)
 
-2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">chronic kidney disease</span>
+2026-06-02 <span class="news-indication-tag">MS</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXRLTlA3MFF6b0dZQkZCcEs4aklHTnU3QzVjZ2R5S3BHRHR6aVVFSkhvdGxmd21oclZ0RV9hUEVlOHQ2SG9abkktUlg1d1FBOUpCeWd2N1pqcW1TUkdibXlFRWc3bFlOcTJUeG1LeTMwTFN5VXBxb1NnREx5MEJLR001WDJNODI0X3I0X0pQUVotd0lXM291ZzNFNDBqTTZpcVdseW5CWURWM2YwS3hDYXRTWS1aTnd6V1NFOA?oc=5)
 
 ---
 
@@ -94,19 +86,19 @@ permalink: /news/elbasvir/
 
 ---
 
+### [Genital herpes rising in England, despite overall drop in sexually transmitted infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
+
+2026-06-02 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
+
+---
+
 ### [Multiple-Sklerose-Therapie: Studie zeigt Fortschritte bei der MS-Behandlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXgzaTJKdTlJWUFieFhlLWtLeWExd1FJOXZXaW1wQWQxbEdDYzRoOXVrZktUNkdYRG85dDVxcTJBbTZDTXFDVnczdm1mVDNKaDBhSlcycFJyU1o0UjN6T25tNGcyWVFwbUhIRW1CYVNIYkd3cnhMS1FKVl9EVXJlUEU0QmtldjBON0I0QkpTaWpoeHFHMzZHRnNtWnZwdUg2cUZJTlJVTEhVZjFkcHRsVmFaYUVxOVAtZ3kyTUdBcS1IUFU2RHZoNDNWYWc?oc=5)
 
 2026-06-02 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXgzaTJKdTlJWUFieFhlLWtLeWExd1FJOXZXaW1wQWQxbEdDYzRoOXVrZktUNkdYRG85dDVxcTJBbTZDTXFDVnczdm1mVDNKaDBhSlcycFJyU1o0UjN6T25tNGcyWVFwbUhIRW1CYVNIYkd3cnhMS1FKVl9EVXJlUEU0QmtldjBON0I0QkpTaWpoeHFHMzZHRnNtWnZwdUg2cUZJTlJVTEhVZjFkcHRsVmFaYUVxOVAtZ3kyTUdBcS1IUFU2RHZoNDNWYWc?oc=5)
-
----
-
-### [Nasenspray gegen die Alterung des Gehirns?](https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1FoX1VlN3pJeVN3WjNiTld6NE9kN2hnZnQybEl3dUpGbWhkbkpjZmxib3RrMTgwdXJjY21BV2ZoQ2pzU3YySEhvSi1Zb2RLeUFWUkpaQVYtZHR0R0xMdjQ3MUsydXFUZkluOHNRdHlwRnc3c2U4WkswZm5HRTdRSkJUMDYwdFVpVzNDTUhSWE43UQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">MS</span>
-
-來源：[Telepolis](https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1FoX1VlN3pJeVN3WjNiTld6NE9kN2hnZnQybEl3dUpGbWhkbkpjZmxib3RrMTgwdXJjY21BV2ZoQ2pzU3YySEhvSi1Zb2RLeUFWUkpaQVYtZHR0R0xMdjQ3MUsydXFUZkluOHNRdHlwRnc3c2U4WkswZm5HRTdRSkJUMDYwdFVpVzNDTUhSWE43UQ?oc=5)
 
 ---
 
@@ -118,19 +110,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [‘Wonder pill’ shrinks tumours in tests on six cancer types](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWZtdVBpb0pCVE95akRNYk1GNTc3bkRYVlFkWHhOSDB2NkUxUll4WWw4QUlJSXMtOGQxVkdJUFRtY19KNXZJRVFFekV0OWdwVlR5ajBSd0VZSUZOZmdjbF9hWDFUTjJ4dkpVM1lkZ2hDc195d2E3Mm9acTVrSkF1TGpCTlA1LWxvbUI5MGROQmFPV3lOcFE?oc=5)
+### [Donanemab bremst Alzheimerprogression über drei Jahre - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUJldF9RclRqWHJEZ2dwWC13cW42R3h5QjdaTWZoQXVTWWowZEQ4eW0wTG5hTmEwY0xhSDBZR3Flc0czbENPZ0JTYWV5REJVY1BVUWVOX1QwcXUxcTBSbW9DUzFpdjluWEdQV3hPQS1ZbURET0xaeW5IRXJSVHI2QWxlRUh1VzA3TUt3R3ZITzNMOE4xUkYyZFcyY2R0ZHM2X0t5VkhKZFhXZFZHZnVUb3FyZXZBVHZwS0hWXzR3?oc=5)
 
-2026-06-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-02 <span class="news-indication-tag">MS</span>
 
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWZtdVBpb0pCVE95akRNYk1GNTc3bkRYVlFkWHhOSDB2NkUxUll4WWw4QUlJSXMtOGQxVkdJUFRtY19KNXZJRVFFekV0OWdwVlR5ajBSd0VZSUZOZmdjbF9hWDFUTjJ4dkpVM1lkZ2hDc195d2E3Mm9acTVrSkF1TGpCTlA1LWxvbUI5MGROQmFPV3lOcFE?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUJldF9RclRqWHJEZ2dwWC13cW42R3h5QjdaTWZoQXVTWWowZEQ4eW0wTG5hTmEwY0xhSDBZR3Flc0czbENPZ0JTYWV5REJVY1BVUWVOX1QwcXUxcTBSbW9DUzFpdjluWEdQV3hPQS1ZbURET0xaeW5IRXJSVHI2QWxlRUh1VzA3TUt3R3ZITzNMOE4xUkYyZFcyY2R0ZHM2X0t5VkhKZFhXZFZHZnVUb3FyZXZBVHZwS0hWXzR3?oc=5)
 
 ---
 
-### [Heart surgeon claims 1 drink is 'liquid death' and warns you should never drink it — not alcohol - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5Dem5UWUF5SkRDZVFyVUFmTWtjZ083eThjM1RKdW1sOXZLVmE4OXl3SjBtRXo2ZWxITTJKMUQ0cFVmQ0VLeFJkaVd2VmstbTBiRVJ3Ti1ieVAyZFpuYUpLX1BtbVRoOUgxY09aelpMYnhUSGdRaWhnREpDWHVZS01Tc07SAYoBQVVfeXFMTVA1R1JJNTRONVNtenJRd19FelhhOXgxU3lMVlA1Q1poaE9XTlZkZjNUVktaSUhiQ0NCanlCcV9JTmdCNWt3WGZ4Uk5JYXU5WXFIbDEzRzk1WFlsN3l1N08xUGZxM3l5Tlp2NnViTXhhdFoya3NMVFVtellvbHp0ZTNLSHJIM09xb25R?oc=5)
+### [Polyzystisches Ovarialsyndrom erhält neue Nomenklatur - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZElZZVNCNHV3WTYxc2ZlMDJTekZvU2JkTzB6bTJUWXRyODY1Nm02ZXNndXlmWmRuYzdoMU50NXBXNXBkLWF3OURIcnFwd25Ya3dXMnBucVBkYWdQclN3S05tY2tpNTlxaUZNa3B0SldpVWRWU01Gd3ZHcV80TkZCX1BOTGRwRURZQWJIYjdvTQ?oc=5)
 
 2026-06-01 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5Dem5UWUF5SkRDZVFyVUFmTWtjZ083eThjM1RKdW1sOXZLVmE4OXl3SjBtRXo2ZWxITTJKMUQ0cFVmQ0VLeFJkaVd2VmstbTBiRVJ3Ti1ieVAyZFpuYUpLX1BtbVRoOUgxY09aelpMYnhUSGdRaWhnREpDWHVZS01Tc07SAYoBQVVfeXFMTVA1R1JJNTRONVNtenJRd19FelhhOXgxU3lMVlA1Q1poaE9XTlZkZjNUVktaSUhiQ0NCanlCcV9JTmdCNWt3WGZ4Uk5JYXU5WXFIbDEzRzk1WFlsN3l1N08xUGZxM3l5Tlp2NnViTXhhdFoya3NMVFVtellvbHp0ZTNLSHJIM09xb25R?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZElZZVNCNHV3WTYxc2ZlMDJTekZvU2JkTzB6bTJUWXRyODY1Nm02ZXNndXlmWmRuYzdoMU50NXBXNXBkLWF3OURIcnFwd25Ya3dXMnBucVBkYWdQclN3S05tY2tpNTlxaUZNa3B0SldpVWRWU01Gd3ZHcV80TkZCX1BOTGRwRURZQWJIYjdvTQ?oc=5)
 
 ---
 

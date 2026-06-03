@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
-### [Abnehmspritzen gegen Demenz: Prävention klappt, Therapie scheitert - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFtdnNuMmZnR243cHR6a1ZHOU5qX1I3TjVwbGlNVEF1X2RqTV9lSV9PUHYzZ1R2TWpWQ2NXZmlZekpKOUhic0swcHlwYTdCSFVFRkJkMHl0b0NPSTFqNmpzbl9RX0pHM0ZkX0IzZ3p5dmJjOG55enplMVJUVDdkNzJDd2FPaGx4aWRGTGRUUGRSVzVsdWFyR01wbmxuVm95UFdDQXdTYlowcTA3SkNjM0lHMEU?oc=5)
+### [GLP-1-Wirkstoffe reduzieren Demenzrisiko – und greifen Entzündung an - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BqclI4ZTIxcFdhQkNKWVFwNHQwSXNhZU1uUWo0YnZiaG9kbFRsaVhaR216c05qSkpvenhsdFN3UGZNeEZOeUUySk1JbExCclJicURsWVdtU1ViQjZ4UHd6LVRKN2QyX0ZPU3A3QUVXY20tVWQyaGJnLVZmUXdZQU1WcWlvV2lKYUY0SjhsX1YwNlhFN2RERlQ4QXhGWkdP?oc=5)
 
 2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFFtdnNuMmZnR243cHR6a1ZHOU5qX1I3TjVwbGlNVEF1X2RqTV9lSV9PUHYzZ1R2TWpWQ2NXZmlZekpKOUhic0swcHlwYTdCSFVFRkJkMHl0b0NPSTFqNmpzbl9RX0pHM0ZkX0IzZ3p5dmJjOG55enplMVJUVDdkNzJDd2FPaGx4aWRGTGRUUGRSVzVsdWFyR01wbmxuVm95UFdDQXdTYlowcTA3SkNjM0lHMEU?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BqclI4ZTIxcFdhQkNKWVFwNHQwSXNhZU1uUWo0YnZiaG9kbFRsaVhaR216c05qSkpvenhsdFN3UGZNeEZOeUUySk1JbExCclJicURsWVdtU1ViQjZ4UHd6LVRKN2QyX0ZPU3A3QUVXY20tVWQyaGJnLVZmUXdZQU1WcWlvV2lKYUY0SjhsX1YwNlhFN2RERlQ4QXhGWkdP?oc=5)
 
 ---
 
@@ -78,19 +78,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Weight-loss drugs can cut breast cancer risk by up to 30%, studies suggest - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEhldlBiUTRFVzMxbm5mLWVfLWk5ZXdhRVhBMHg2M3EyUWJiRWNMTDdRMUEySjRKVXBZMmcwc2M2Rm5qc3NqWHhXTVNJQnV0dnpVNjhQWmljMGJQeEh1MWVEa3NTZFlGRDhjZTJZX1J5NE9XZUVIbGphZTh5MXJOcFVFS2FfaUVuQVAzMFA0N0RSaW8?oc=5)
-
-2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEhldlBiUTRFVzMxbm5mLWVfLWk5ZXdhRVhBMHg2M3EyUWJiRWNMTDdRMUEySjRKVXBZMmcwc2M2Rm5qc3NqWHhXTVNJQnV0dnpVNjhQWmljMGJQeEh1MWVEa3NTZFlGRDhjZTJZX1J5NE9XZUVIbGphZTh5MXJOcFVFS2FfaUVuQVAzMFA0N0RSaW8?oc=5)
-
----
-
 ### [Neues Projekt erforscht Zusammenhang von Diabetes und Herz-Kreislauf-Erkrankungen - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
 
 2026-06-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
+
+---
+
+### [El uso de Ozempic se asocia con una reducción del 30 % en la incidencia de cáncer de mama](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmtMbUdJYmItN3VKbFhmaktLaVZrNmd6c0VZdVZpakxBeUNkUGVyTE40NldacHJhTEFpTXpUelNTSmNCMGlFS1FZVnBEcVNnYWJZNnBaTjJiZmpIR0c2M1dLMTNlVVVrVktpSm1ma2tXZ2k4VGxHcnR1LS1xd01Jbm84RUNqTEtHbnBJdHZDRENvblJSbE4ydVZBZ2l6LXptSUHSAacBQVVfeXFMTk56NnpIbTNNZlNYalZ1cjhfRC1xSzNKRUJielhMX0FHNVdDVmhNektWY1BsUUk0UTJhSHBfR3FWaFZjblh0RWVPbnFIQ0R4UlpvMnRqSWFCZ3BpTDA5a2M0OHA2UVYzS2JNdHJhM3NsSGZvWUhFOTZ2bDRFanJsWEMtZXVnOV9ndmJRbGlxSFFaMG1sZ0tpVDBxRjZRZzR4R0FaYW5IalU?oc=5)
+
+2026-06-02 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmtMbUdJYmItN3VKbFhmaktLaVZrNmd6c0VZdVZpakxBeUNkUGVyTE40NldacHJhTEFpTXpUelNTSmNCMGlFS1FZVnBEcVNnYWJZNnBaTjJiZmpIR0c2M1dLMTNlVVVrVktpSm1ma2tXZ2k4VGxHcnR1LS1xd01Jbm84RUNqTEtHbnBJdHZDRENvblJSbE4ydVZBZ2l6LXptSUHSAacBQVVfeXFMTk56NnpIbTNNZlNYalZ1cjhfRC1xSzNKRUJielhMX0FHNVdDVmhNektWY1BsUUk0UTJhSHBfR3FWaFZjblh0RWVPbnFIQ0R4UlpvMnRqSWFCZ3BpTDA5a2M0OHA2UVYzS2JNdHJhM3NsSGZvWUhFOTZ2bDRFanJsWEMtZXVnOV9ndmJRbGlxSFFaMG1sZ0tpVDBxRjZRZzR4R0FaYW5IalU?oc=5)
 
 ---
 
@@ -126,27 +126,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabetes: Zwei Stunden Gehen pro Woche senken Risiko um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
+### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
 2026-06-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1iVld0ZGptbF9hYmtVdlphQy0xdGp4NmtvS0M5TVd6eUpQS3JTbmwxV1VYcXROSVJXN0hkd3RJdTR4bjNlYndLTG13VE1pM3RMRktWeGpBN0Y0ekFPRTFnemtDT2U4eTFEM0lBc0VqRkd0WWFVRUpoMm5IbXY4Mk82aVV0Vlc3MHVfVzg5ZXRoX1lYbmJuOUpDWDdzVDR5ZERtLUZfRVlhcnlBTmdSXzNmN3E?oc=5)
-
----
-
-### [Un minuto di allenamento può bastare? L'esercizio snack combatte il diabete, lo studio](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
-
-2026-05-31 <span class="news-indication-tag">diabete</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0d0XzdaRGdWNnlMbHBER0dzTTRKS1JkYURYdjVDeWxJVXRwQW5HYUlvYnJwS1hYemxpRTZXbUFXeHQ2QkdocnEzdGt4WEtJVjQ4NVloOGswNDd1MFljZ1ZrSkNuM1h6bk83QmNURlBicHEtX21KZkpxQnlXdHkxNDQwWFJMQVAtM2ZvOVhycUdoUENmck5uUXp3UQ?oc=5)
-
----
-
-### [Fegato, è allarme. A rischio chi è obeso e chi ha il diabete 2 - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
-
-2026-05-31 <span class="news-indication-tag">diabete</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEdNX0twTkRJMEFJdWNuX0w3dnYyTlFTeEg3MG1BWWpfdDhjSFphNTAyVjBqcEtpQklUN0swdGlMZDRWUWVuVWVVZ2dTRmZCbVBZZld0SEFVelllbWJid2pEc2FoNk9OcFQtSHpNMHVOQUVsNXJUNFBSXzhIZlI4Q3JfcVRoRHhmdVpyS2tCWWEtdjhITDNxakZjQ2ZkSXpZLVBtbkh4aUFwempSOWJDYllhQl9uNTjSAbwBQVVfeXFMUExBNjNJcGtyYWRwQ2lud1RXdGkwY0hYYnREUm04NGVqTzhhLXZHZVlsQ3A5a2tsMkZLV2d3cEZNcGFrazhicXpYVllmeXBVV2p2aElCWmR3YlFRU1B3MDZBdmNMTXJseG1CNVhqZHJDSFF1WV9QS1UtNnBSbUVwRTVjbC12N1hZcGN6SS10TVlLNWd1SjdtM3NPbldHeWZhdW04bDBuVFBZTnhydWdjODIwYlZpTUNhVHRIMkg?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="Tenecteplase 有什麼相關新聞？">
-<strong>Tenecteplase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenecteplase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tenecteplase/
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Two hours of strength training a week may help you live longer - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZmWHFrbmIwX0tobnRxUm9DMy0zX0xYUkNTdlBvODhHUFFhRUhFSjZLeHUta2QzUXhPQnIzZWFFaGFBcWRwdjZYejlsTzI2VDY4Tm9DMUtuMzNCVzl5c0t3WmVNU1ZFSU1wZDVTZjR6LUNLaVRMZEkzRmNqLXg1RGxVa3NQWkVUc0hWcjhqSUFSQQ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZmWHFrbmIwX0tobnRxUm9DMy0zX0xYUkNTdlBvODhHUFFhRUhFSjZLeHUta2QzUXhPQnIzZWFFaGFBcWRwdjZYejlsTzI2VDY4Tm9DMUtuMzNCVzl5c0t3WmVNU1ZFSU1wZDVTZjR6LUNLaVRMZEkzRmNqLXg1RGxVa3NQWkVUc0hWcjhqSUFSQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

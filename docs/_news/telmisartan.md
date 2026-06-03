@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Two hours of strength training a week may help you live longer - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZmWHFrbmIwX0tobnRxUm9DMy0zX0xYUkNTdlBvODhHUFFhRUhFSjZLeHUta2QzUXhPQnIzZWFFaGFBcWRwdjZYejlsTzI2VDY4Tm9DMUtuMzNCVzl5c0t3WmVNU1ZFSU1wZDVTZjR6LUNLaVRMZEkzRmNqLXg1RGxVa3NQWkVUc0hWcjhqSUFSQQ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZmWHFrbmIwX0tobnRxUm9DMy0zX0xYUkNTdlBvODhHUFFhRUhFSjZLeHUta2QzUXhPQnIzZWFFaGFBcWRwdjZYejlsTzI2VDY4Tm9DMUtuMzNCVzl5c0t3WmVNU1ZFSU1wZDVTZjR6LUNLaVRMZEkzRmNqLXg1RGxVa3NQWkVUc0hWcjhqSUFSQQ?oc=5)
+
+---
 
 ### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
+
+---
+
+### [At 50, I lost three stone and cured my high blood pressure - The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm1iUW0wX3pnYlZENU1ET2J4aExyNWJKNGVxcm5SUzh5R2I0RGZISGVtUXNlOWpSZXduaFRXVXRhLXFpV3RQNk5ndl8tQTVibjMxVmNSa2UxNFp0X1NNNFktT2ZLcHZ1b0s3Z0VsYXVma2JFekYzNzFSdnA5bkcyd0hyTEZYR2J1aTZna3Z3WQ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm1iUW0wX3pnYlZENU1ET2J4aExyNWJKNGVxcm5SUzh5R2I0RGZISGVtUXNlOWpSZXduaFRXVXRhLXFpV3RQNk5ndl8tQTVibjMxVmNSa2UxNFp0X1NNNFktT2ZLcHZ1b0s3Z0VsYXVma2JFekYzNzFSdnA5bkcyd0hyTEZYR2J1aTZna3Z3WQ?oc=5)
 
 ---
 
