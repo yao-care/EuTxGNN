@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Two hours of strength training a week may help you live longer - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZmWHFrbmIwX0tobnRxUm9DMy0zX0xYUkNTdlBvODhHUFFhRUhFSjZLeHUta2QzUXhPQnIzZWFFaGFBcWRwdjZYejlsTzI2VDY4Tm9DMUtuMzNCVzl5c0t3WmVNU1ZFSU1wZDVTZjR6LUNLaVRMZEkzRmNqLXg1RGxVa3NQWkVUc0hWcjhqSUFSQQ?oc=5)
-
-2026-06-02
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZmWHFrbmIwX0tobnRxUm9DMy0zX0xYUkNTdlBvODhHUFFhRUhFSjZLeHUta2QzUXhPQnIzZWFFaGFBcWRwdjZYejlsTzI2VDY4Tm9DMUtuMzNCVzl5c0t3WmVNU1ZFSU1wZDVTZjR6LUNLaVRMZEkzRmNqLXg1RGxVa3NQWkVUc0hWcjhqSUFSQQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [“Once It’s Gone, It’s Gone”: The Silent Brain-Sapper Striking Millions of Postmenopausal Women - Bored Panda](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeldmRXNPc2NMLXpEa1lOaHRlRTBHb09aV3pKVEVxVWtYazBicFFTQ0xndG1iM29zQTZLc2FQQmtaX2pCWXQ4MmtHNzJlVkQ4MWtWbXl0aUlQMkxjSUNPb1A4Q2pYd2dyYW92MVlHV3RvbHB4LWpVdXVqREI2Z21Wck5DQWZiczR3T2wwaWJKRVZnMkE?oc=5)
 

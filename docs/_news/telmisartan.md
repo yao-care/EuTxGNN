@@ -54,19 +54,35 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（6 則）
 
-### [Two hours of strength training a week may help you live longer - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZmWHFrbmIwX0tobnRxUm9DMy0zX0xYUkNTdlBvODhHUFFhRUhFSjZLeHUta2QzUXhPQnIzZWFFaGFBcWRwdjZYejlsTzI2VDY4Tm9DMUtuMzNCVzl5c0t3WmVNU1ZFSU1wZDVTZjR6LUNLaVRMZEkzRmNqLXg1RGxVa3NQWkVUc0hWcjhqSUFSQQ?oc=5)
+### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
 
-2026-06-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span>
+2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPczZmWHFrbmIwX0tobnRxUm9DMy0zX0xYUkNTdlBvODhHUFFhRUhFSjZLeHUta2QzUXhPQnIzZWFFaGFBcWRwdjZYejlsTzI2VDY4Tm9DMUtuMzNCVzl5c0t3WmVNU1ZFSU1wZDVTZjR6LUNLaVRMZEkzRmNqLXg1RGxVa3NQWkVUc0hWcjhqSUFSQQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
 
 ---
 
-### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
+### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
+
+2026-06-02 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
+
+---
+
+### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
+
+---
+
+### [Lower cancer and heart disease risk with two tablespoons of one daily food - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
 
 ---
 
@@ -83,22 +99,6 @@ permalink: /news/telmisartan/
 2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
-
----
-
-### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
-
-2026-06-01 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
-
----
-
-### [The 8 Best Canned Foods for High Blood Pressure, Recommended by Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
-
-2026-05-30 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
 
 ---
 

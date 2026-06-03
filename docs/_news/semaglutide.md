@@ -54,19 +54,59 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（10 則）
 
-### [GLP-1-Wirkstoffe reduzieren Demenzrisiko – und greifen Entzündung an - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BqclI4ZTIxcFdhQkNKWVFwNHQwSXNhZU1uUWo0YnZiaG9kbFRsaVhaR216c05qSkpvenhsdFN3UGZNeEZOeUUySk1JbExCclJicURsWVdtU1ViQjZ4UHd6LVRKN2QyX0ZPU3A3QUVXY20tVWQyaGJnLVZmUXdZQU1WcWlvV2lKYUY0SjhsX1YwNlhFN2RERlQ4QXhGWkdP?oc=5)
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
-2026-06-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BqclI4ZTIxcFdhQkNKWVFwNHQwSXNhZU1uUWo0YnZiaG9kbFRsaVhaR216c05qSkpvenhsdFN3UGZNeEZOeUUySk1JbExCclJicURsWVdtU1ViQjZ4UHd6LVRKN2QyX0ZPU3A3QUVXY20tVWQyaGJnLVZmUXdZQU1WcWlvV2lKYUY0SjhsX1YwNlhFN2RERlQ4QXhGWkdP?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
 ---
 
-### [43 associations contre les aliments ultra-transformés !](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaTVsWmFqRUNnZWxLQ3JQaDlHUHBMUGs3dVM4NGVKd2dxcXVRYXBCNlc0QlVvVWVUMDdQbjh3OGdYbkRTT1hyY3dTUVFMS01ISUZIeWFVOS15cHpFdjdqa0pBOG9PR1BndFRLRUlBQVJ6U3doMi1QeUpwelVUaFB3WWRkSGlvNjY3X2c2aF9CazhWdFNvUTUzLTVxdk80emd2UUZjRFN6cFVhck80WnFnRW50amI0Q0Jld29LelAzdG5IWVlZVzZEVk5wbExyblpLZXYxNmZpZHUzMVh4MC1ra3RqcVN6SzRKUU5La1VVWGlSTTRob2JfTnVpbw?oc=5)
+### [Ozempic: el medicamento que podría convertirse en el nuevo escudo contra el cáncer de mama](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenI0Z1M0T3VweHVmT0RCREZyVWRZekNNbWdSU2hMLTJELTlsbEJ5NnhKN3FneEF6NFlDS1AxYV8xUl9ibmJQdG0tUUI3X2dtaUZLM3Fnc3dnVGQxMF9RSGlZNnoyOXlYbTI5MXlSLXR0X3huc1FvVVFmTnRfaDdlUVVpM2hLUWdDOUJNR3F6SGU4eWFhUnFtMXRmd3RkX180Z2NUS0twT0J0eUHSAbABQVVfeXFMTk4zRnNtZHRxS1ZvNWxLME1IRXNKMGliTFNKRms2S2JwTjgtZWthTTViOXV4Wkl0RjVPaHdSVGZnbVltNXhiUno2WmpsNVZncTI3QnV5azdnRnZNSzhKdWJPZzFPMHdEQjdqSVNaTkVXc1d3dTMxaFdYcXU0ODZGdkQ4bW94cEJEbGxKLVVjVnlWZzQzRlRVNjNQUUtES2hqUDdNNlYtOXpDdWt6anF3RUE?oc=5)
 
-2026-06-02 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaTVsWmFqRUNnZWxLQ3JQaDlHUHBMUGs3dVM4NGVKd2dxcXVRYXBCNlc0QlVvVWVUMDdQbjh3OGdYbkRTT1hyY3dTUVFMS01ISUZIeWFVOS15cHpFdjdqa0pBOG9PR1BndFRLRUlBQVJ6U3doMi1QeUpwelVUaFB3WWRkSGlvNjY3X2c2aF9CazhWdFNvUTUzLTVxdk80emd2UUZjRFN6cFVhck80WnFnRW50amI0Q0Jld29LelAzdG5IWVlZVzZEVk5wbExyblpLZXYxNmZpZHUzMVh4MC1ra3RqcVN6SzRKUU5La1VVWGlSTTRob2JfTnVpbw?oc=5)
+來源：[Hoy](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenI0Z1M0T3VweHVmT0RCREZyVWRZekNNbWdSU2hMLTJELTlsbEJ5NnhKN3FneEF6NFlDS1AxYV8xUl9ibmJQdG0tUUI3X2dtaUZLM3Fnc3dnVGQxMF9RSGlZNnoyOXlYbTI5MXlSLXR0X3huc1FvVVFmTnRfaDdlUVVpM2hLUWdDOUJNR3F6SGU4eWFhUnFtMXRmd3RkX180Z2NUS0twT0J0eUHSAbABQVVfeXFMTk4zRnNtZHRxS1ZvNWxLME1IRXNKMGliTFNKRms2S2JwTjgtZWthTTViOXV4Wkl0RjVPaHdSVGZnbVltNXhiUno2WmpsNVZncTI3QnV5azdnRnZNSzhKdWJPZzFPMHdEQjdqSVNaTkVXc1d3dTMxaFdYcXU0ODZGdkQ4bW94cEJEbGxKLVVjVnlWZzQzRlRVNjNQUUtES2hqUDdNNlYtOXpDdWt6anF3RUE?oc=5)
+
+---
+
+### [Samsung und das Massachusetts General Hospital starten gemeinsame Studie zu Stoffwechseltherapien](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[samsung.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
+
+---
+
+### [Aliments ultra-transformés : on s’empoisonne sans le savoir - Bon Pote](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpnYVNsM1FUaWdBVEphNHdPXzVzenQ3OEI5aElMTUZxV0ZZVVdMVEtXOHpTMXZMT01Tc1g5WFZDMTB6b2dQMzg2MFFuSnkxRW8xVzdyR3FRS0RzaU1JTlBLWXBNcDFIVDRGMlo4ZjlCQzRKNFlNQ2Z5YnFHY0Zkcm94OA?oc=5)
+
+2026-06-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Bon Pote](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpnYVNsM1FUaWdBVEphNHdPXzVzenQ3OEI5aElMTUZxV0ZZVVdMVEtXOHpTMXZMT01Tc1g5WFZDMTB6b2dQMzg2MFFuSnkxRW8xVzdyR3FRS0RzaU1JTlBLWXBNcDFIVDRGMlo4ZjlCQzRKNFlNQ2Z5YnFHY0Zkcm94OA?oc=5)
+
+---
+
+### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+
+---
+
+### [Pancréas, désescalade thérapeutique, Ozempic : quelles avancées récentes sur le front de la lutte anti-cancer ? - Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFVQWGhfT3JQYTdCRHVZcmJ5VjdmTlhaVlU2ZU9rSEl5SGhSa1FOUUtjaDZoRGdlX25tTEFULXhVN091Y0licFdlUjNud2wyTDFVYXVYbkdpNzJwSVhMU1FiMGpzQW13T3prSmVNV3RmOThSakhRMF9zQUR1SWlUcU52ZHNISlNJQjN3RmhEWjlIQXFlVkJEMkVxUXFTMG1UR1o4SXZjT0lGZUVuX2lKMkFqSEJrODBVcGJTOGRtN0lDVDY1RFlSVWVmUlBVdkJ6bDNLeWxOczZLcjRGMHFmVEl3?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFVQWGhfT3JQYTdCRHVZcmJ5VjdmTlhaVlU2ZU9rSEl5SGhSa1FOUUtjaDZoRGdlX25tTEFULXhVN091Y0licFdlUjNud2wyTDFVYXVYbkdpNzJwSVhMU1FiMGpzQW13T3prSmVNV3RmOThSakhRMF9zQUR1SWlUcU52ZHNISlNJQjN3RmhEWjlIQXFlVkJEMkVxUXFTMG1UR1o4SXZjT0lGZUVuX2lKMkFqSEJrODBVcGJTOGRtN0lDVDY1RFlSVWVmUlBVdkJ6bDNLeWxOczZLcjRGMHFmVEl3?oc=5)
+
+---
+
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
 ---
 
@@ -78,22 +118,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Neues Projekt erforscht Zusammenhang von Diabetes und Herz-Kreislauf-Erkrankungen - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
-
----
-
-### [El uso de Ozempic se asocia con una reducción del 30 % en la incidencia de cáncer de mama](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmtMbUdJYmItN3VKbFhmaktLaVZrNmd6c0VZdVZpakxBeUNkUGVyTE40NldacHJhTEFpTXpUelNTSmNCMGlFS1FZVnBEcVNnYWJZNnBaTjJiZmpIR0c2M1dLMTNlVVVrVktpSm1ma2tXZ2k4VGxHcnR1LS1xd01Jbm84RUNqTEtHbnBJdHZDRENvblJSbE4ydVZBZ2l6LXptSUHSAacBQVVfeXFMTk56NnpIbTNNZlNYalZ1cjhfRC1xSzNKRUJielhMX0FHNVdDVmhNektWY1BsUUk0UTJhSHBfR3FWaFZjblh0RWVPbnFIQ0R4UlpvMnRqSWFCZ3BpTDA5a2M0OHA2UVYzS2JNdHJhM3NsSGZvWUhFOTZ2bDRFanJsWEMtZXVnOV9ndmJRbGlxSFFaMG1sZ0tpVDBxRjZRZzR4R0FaYW5IalU?oc=5)
-
-2026-06-02 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmtMbUdJYmItN3VKbFhmaktLaVZrNmd6c0VZdVZpakxBeUNkUGVyTE40NldacHJhTEFpTXpUelNTSmNCMGlFS1FZVnBEcVNnYWJZNnBaTjJiZmpIR0c2M1dLMTNlVVVrVktpSm1ma2tXZ2k4VGxHcnR1LS1xd01Jbm84RUNqTEtHbnBJdHZDRENvblJSbE4ydVZBZ2l6LXptSUHSAacBQVVfeXFMTk56NnpIbTNNZlNYalZ1cjhfRC1xSzNKRUJielhMX0FHNVdDVmhNektWY1BsUUk0UTJhSHBfR3FWaFZjblh0RWVPbnFIQ0R4UlpvMnRqSWFCZ3BpTDA5a2M0OHA2UVYzS2JNdHJhM3NsSGZvWUhFOTZ2bDRFanJsWEMtZXVnOV9ndmJRbGlxSFFaMG1sZ0tpVDBxRjZRZzR4R0FaYW5IalU?oc=5)
-
----
-
 ### [Il magnesio aiuta a prevenire il diabete? - Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
 
 2026-06-02 <span class="news-indication-tag">diabete</span>
@@ -102,35 +126,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [MONTCHANIN : Le diabète, un problème majeur de santé publique - Creusot Infos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBDR1lWZHJGLVN6LXEwTDJHU29tWmxqc2xYVm5rQUp0UUpYLXAyUHZsR0hQdld4UnduY2lkNGwyU3Q0bVRQcTV0RTVEVHR1aUVPb3d4X29oekhFTk5Sd2hNaXVwVkN1TzZXYXIzSnhIOS1ibGdVS2xYZ1FRZ29MWXJ0WE9XRmNoYzdNcFh2dlQycG92RnRsY3JJVWI2RlpsWFVpX29ZSHZhX3NaUnZsQXcyOWxDOTV6NGg4ZkZDNmQzdmN1LVpuZGM3aw?oc=5)
-
-2026-06-02 <span class="news-indication-tag">diabète</span>
-
-來源：[Creusot Infos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBDR1lWZHJGLVN6LXEwTDJHU29tWmxqc2xYVm5rQUp0UUpYLXAyUHZsR0hQdld4UnduY2lkNGwyU3Q0bVRQcTV0RTVEVHR1aUVPb3d4X29oekhFTk5Sd2hNaXVwVkN1TzZXYXIzSnhIOS1ibGdVS2xYZ1FRZ29MWXJ0WE9XRmNoYzdNcFh2dlQycG92RnRsY3JJVWI2RlpsWFVpX29ZSHZhX3NaUnZsQXcyOWxDOTV6NGg4ZkZDNmQzdmN1LVpuZGM3aw?oc=5)
-
----
-
-### [Fortes chaleurs et diabète: «En quelques jours, j’ai perdu 5 kg»](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUt0V0xsRDEwekluRXJ5RVBmUF9IQ0xZNHlaV3UyOUJOSzVyMnhmUF9hajY2LUJOeUZLNUZSd3pmdEV0VU0wRlYwTUNWVlJlNFk4YkRGb1VVT3VmdlpVQVVpWEtCM0IzUDJ4Tlg3eHV4ZEZaX29oQ3otbmU4VFlzNlhLdWIxWHhkRlpEc2dwQ1dnX2xCcmlrYXdHVG01OGsyZVdMbVA5TXloaUhqclpsQWZNWHpuMlZMcjRB?oc=5)
-
-2026-06-01 <span class="news-indication-tag">diabète</span>
-
-來源：[L'essentiel](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUt0V0xsRDEwekluRXJ5RVBmUF9IQ0xZNHlaV3UyOUJOSzVyMnhmUF9hajY2LUJOeUZLNUZSd3pmdEV0VU0wRlYwTUNWVlJlNFk4YkRGb1VVT3VmdlpVQVVpWEtCM0IzUDJ4Tlg3eHV4ZEZaX29oQ3otbmU4VFlzNlhLdWIxWHhkRlpEc2dwQ1dnX2xCcmlrYXdHVG01OGsyZVdMbVA5TXloaUhqclpsQWZNWHpuMlZMcjRB?oc=5)
-
----
-
 ### [Remboursement de Wegovy et Mounjaro dans l'obésité : les généralistes exclus pour des raisons financières, s'indigne MG France](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1VVY05YbVlDdmtSUk5lUlBrNjdoYlNBTk1PTTJ1cE5pYlFNcUduQjJSUFpJRUdlN3FyOHozSl9aT3ZYb0NMLVhBSXpIM0lKaTZqRW5QT0d6YXctX0VLSzVmOE5ZY3ZaZ0twWmk1M0J2SGJUSEY0Q3RPbkVMdHVibGtuaDc2dVZIeElFOFFZbDR1RnVHNi0wQWhDeU0wZFVZZWpLVFpNbk01N3dvMnhQVVNKVGsxV2tQdmc?oc=5)
 
 2026-06-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Egora](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1VVY05YbVlDdmtSUk5lUlBrNjdoYlNBTk1PTTJ1cE5pYlFNcUduQjJSUFpJRUdlN3FyOHozSl9aT3ZYb0NMLVhBSXpIM0lKaTZqRW5QT0d6YXctX0VLSzVmOE5ZY3ZaZ0twWmk1M0J2SGJUSEY0Q3RPbkVMdHVibGtuaDc2dVZIeElFOFFZbDR1RnVHNi0wQWhDeU0wZFVZZWpLVFpNbk01N3dvMnhQVVNKVGsxV2tQdmc?oc=5)
-
----
-
-### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
-
-2026-06-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
 ---
 

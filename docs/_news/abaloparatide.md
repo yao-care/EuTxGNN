@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（4 則）
 
-### [43 associations contre les aliments ultra-transformés !](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaTVsWmFqRUNnZWxLQ3JQaDlHUHBMUGs3dVM4NGVKd2dxcXVRYXBCNlc0QlVvVWVUMDdQbjh3OGdYbkRTT1hyY3dTUVFMS01ISUZIeWFVOS15cHpFdjdqa0pBOG9PR1BndFRLRUlBQVJ6U3doMi1QeUpwelVUaFB3WWRkSGlvNjY3X2c2aF9CazhWdFNvUTUzLTVxdk80emd2UUZjRFN6cFVhck80WnFnRW50amI0Q0Jld29LelAzdG5IWVlZVzZEVk5wbExyblpLZXYxNmZpZHUzMVh4MC1ra3RqcVN6SzRKUU5La1VVWGlSTTRob2JfTnVpbw?oc=5)
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
-2026-06-02 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaTVsWmFqRUNnZWxLQ3JQaDlHUHBMUGs3dVM4NGVKd2dxcXVRYXBCNlc0QlVvVWVUMDdQbjh3OGdYbkRTT1hyY3dTUVFMS01ISUZIeWFVOS15cHpFdjdqa0pBOG9PR1BndFRLRUlBQVJ6U3doMi1QeUpwelVUaFB3WWRkSGlvNjY3X2c2aF9CazhWdFNvUTUzLTVxdk80emd2UUZjRFN6cFVhck80WnFnRW50amI0Q0Jld29LelAzdG5IWVlZVzZEVk5wbExyblpLZXYxNmZpZHUzMVh4MC1ra3RqcVN6SzRKUU5La1VVWGlSTTRob2JfTnVpbw?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
+
+---
+
+### [Aliments ultra-transformés : on s’empoisonne sans le savoir - Bon Pote](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpnYVNsM1FUaWdBVEphNHdPXzVzenQ3OEI5aElMTUZxV0ZZVVdMVEtXOHpTMXZMT01Tc1g5WFZDMTB6b2dQMzg2MFFuSnkxRW8xVzdyR3FRS0RzaU1JTlBLWXBNcDFIVDRGMlo4ZjlCQzRKNFlNQ2Z5YnFHY0Zkcm94OA?oc=5)
+
+2026-06-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Bon Pote](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpnYVNsM1FUaWdBVEphNHdPXzVzenQ3OEI5aElMTUZxV0ZZVVdMVEtXOHpTMXZMT01Tc1g5WFZDMTB6b2dQMzg2MFFuSnkxRW8xVzdyR3FRS0RzaU1JTlBLWXBNcDFIVDRGMlo4ZjlCQzRKNFlNQ2Z5YnFHY0Zkcm94OA?oc=5)
 
 ---
 
@@ -70,43 +78,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Neues Projekt erforscht Zusammenhang von Diabetes und Herz-Kreislauf-Erkrankungen - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDRod2s0R1otWmMweEN2cVl6ME5XbkJPQzVVbHQxeEVSamJjdFE3bDhqZDBmWEJqc0QzWTg3Q2Q2aXI1dmVoYmJ4OXdHbmtyVV9NRUFZV0llRnktUFpPSm1JUkJ6aEFWdmpXRW9Tb2tMbmJRR0wySklJXy1DVDUxLTFBMnRDeEdrUEQ5d1NsV2dIREJQTmphOEZJaEtXWHpCek4zeExPVUZCaHhETXRQTWNoT2Z1d2ZVUXBSQms0eERYQTMteEhHQWF2SQ?oc=5)
-
----
-
 ### [Il magnesio aiuta a prevenire il diabete? - Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
 
 2026-06-02 <span class="news-indication-tag">diabete</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
-
----
-
-### [MONTCHANIN : Le diabète, un problème majeur de santé publique - Creusot Infos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBDR1lWZHJGLVN6LXEwTDJHU29tWmxqc2xYVm5rQUp0UUpYLXAyUHZsR0hQdld4UnduY2lkNGwyU3Q0bVRQcTV0RTVEVHR1aUVPb3d4X29oekhFTk5Sd2hNaXVwVkN1TzZXYXIzSnhIOS1ibGdVS2xYZ1FRZ29MWXJ0WE9XRmNoYzdNcFh2dlQycG92RnRsY3JJVWI2RlpsWFVpX29ZSHZhX3NaUnZsQXcyOWxDOTV6NGg4ZkZDNmQzdmN1LVpuZGM3aw?oc=5)
-
-2026-06-02 <span class="news-indication-tag">diabète</span>
-
-來源：[Creusot Infos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBDR1lWZHJGLVN6LXEwTDJHU29tWmxqc2xYVm5rQUp0UUpYLXAyUHZsR0hQdld4UnduY2lkNGwyU3Q0bVRQcTV0RTVEVHR1aUVPb3d4X29oekhFTk5Sd2hNaXVwVkN1TzZXYXIzSnhIOS1ibGdVS2xYZ1FRZ29MWXJ0WE9XRmNoYzdNcFh2dlQycG92RnRsY3JJVWI2RlpsWFVpX29ZSHZhX3NaUnZsQXcyOWxDOTV6NGg4ZkZDNmQzdmN1LVpuZGM3aw?oc=5)
-
----
-
-### [Fortes chaleurs et diabète: «En quelques jours, j’ai perdu 5 kg»](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUt0V0xsRDEwekluRXJ5RVBmUF9IQ0xZNHlaV3UyOUJOSzVyMnhmUF9hajY2LUJOeUZLNUZSd3pmdEV0VU0wRlYwTUNWVlJlNFk4YkRGb1VVT3VmdlpVQVVpWEtCM0IzUDJ4Tlg3eHV4ZEZaX29oQ3otbmU4VFlzNlhLdWIxWHhkRlpEc2dwQ1dnX2xCcmlrYXdHVG01OGsyZVdMbVA5TXloaUhqclpsQWZNWHpuMlZMcjRB?oc=5)
-
-2026-06-01 <span class="news-indication-tag">diabète</span>
-
-來源：[L'essentiel](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUt0V0xsRDEwekluRXJ5RVBmUF9IQ0xZNHlaV3UyOUJOSzVyMnhmUF9hajY2LUJOeUZLNUZSd3pmdEV0VU0wRlYwTUNWVlJlNFk4YkRGb1VVT3VmdlpVQVVpWEtCM0IzUDJ4Tlg3eHV4ZEZaX29oQ3otbmU4VFlzNlhLdWIxWHhkRlpEc2dwQ1dnX2xCcmlrYXdHVG01OGsyZVdMbVA5TXloaUhqclpsQWZNWHpuMlZMcjRB?oc=5)
-
----
-
-### [DZD bei den ADA Scientific Sessions 2026 - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
-
-2026-06-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX19FQnBmZnN1SnUzSXpTWHNsTFNhQVlWOF8ycGVqSVNWOGJlUldyVm9nMmVLUHVBRDZmakZwcXZEcGVPcldIb0pDNVRBYTJMbUVOLWVZWjdLLTlXT2ZhbUd1M05nTlZuanpSd1lweW1PMm5JWjBKbHVR?oc=5)
 
 ---
 

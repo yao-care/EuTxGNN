@@ -54,6 +54,22 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（4 則）
 
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+---
+
+### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
+
+2026-06-02 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
+
+---
+
 ### [At 50, I lost three stone and cured my high blood pressure - The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm1iUW0wX3pnYlZENU1ET2J4aExyNWJKNGVxcm5SUzh5R2I0RGZISGVtUXNlOWpSZXduaFRXVXRhLXFpV3RQNk5ndl8tQTVibjMxVmNSa2UxNFp0X1NNNFktT2ZLcHZ1b0s3Z0VsYXVma2JFekYzNzFSdnA5bkcyd0hyTEZYR2J1aTZna3Z3WQ?oc=5)
 
 2026-06-02 <span class="news-indication-tag">high blood pressure</span>
@@ -67,22 +83,6 @@ permalink: /news/elexacaftor/
 2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
-
----
-
-### [4 High-Fat Foods You Should Be Eating to Lower High Blood Pressure, According to Experts](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
-
-2026-06-01 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZiUGlFU2l0aHpDbGRNbTRraE84eGQtVDNUbFJ6NjMxTjc4UjNjZVIzUzNaS1ViTnJtUEFsZ3E4MnRrb0tWN0RVbm00WHdmUlhuS1RJYkdTTFV6SERJSjRjZ2FMUjNMSEZ4UVNRNU1aWmpJUkJvNWZ0bFYyeEVTMkltVndMbE11?oc=5)
-
----
-
-### [The 8 Best Canned Foods for High Blood Pressure, Recommended by Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
-
-2026-05-30 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjRod3ZWUHdpWjJSWWhuN2E3elBudUV4dmtwd1plTWQ4ZmJITWNLSVdJdXVaM2pkc0Z6b2JucjVMVnJmX0d5cW1tWXRNTHhRTGNqS3FEbnpOUlpYZUljN0llZ0x5QzVpN1ZZbEhkeWlBY0hvNnBRODNHSG5GdDBjbnY3NA?oc=5)
 
 ---
 

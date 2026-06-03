@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,69 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
 
-### [GLP-1-Wirkstoffe reduzieren Demenzrisiko – und greifen Entzündung an - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BqclI4ZTIxcFdhQkNKWVFwNHQwSXNhZU1uUWo0YnZiaG9kbFRsaVhaR216c05qSkpvenhsdFN3UGZNeEZOeUUySk1JbExCclJicURsWVdtU1ViQjZ4UHd6LVRKN2QyX0ZPU3A3QUVXY20tVWQyaGJnLVZmUXdZQU1WcWlvV2lKYUY0SjhsX1YwNlhFN2RERlQ4QXhGWkdP?oc=5)
+### [La crisis climática al nivel de una emergencia sanitaria mundial: la inédita petición de los científicos a la OMS - Meteored España](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEZ0VXBkZXdMZWpzSnV2Wl9WVDd4YVF3ZENxazhFdjg0U0tZbkVjZTZqUjdPVmtkUFVmcUNqMjkwRnk0aFRzQTVzcXNSUGJpLWlDV0R0ZGdmdDBfLS1kYm96MHdwX1dlUHlWOXVSc1FpSEpIMU5BUkZhRnZnWjZKbkEwbDd2TGRNNEtPZGd3VFpKOFVPM184SHlMNkQ1QWRNM3poZjMwOUtFLVVKTmtpWE5jUXJfOFlHeXJBQnNNU2txVUgzZU8wWEo5a01LSER2Vk9CVjU4OWI0Q1daRzl4UFE5VmJNbS1y?oc=5)
+
+2026-06-03
+
+來源：[Meteored España](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEZ0VXBkZXdMZWpzSnV2Wl9WVDd4YVF3ZENxazhFdjg0U0tZbkVjZTZqUjdPVmtkUFVmcUNqMjkwRnk0aFRzQTVzcXNSUGJpLWlDV0R0ZGdmdDBfLS1kYm96MHdwX1dlUHlWOXVSc1FpSEpIMU5BUkZhRnZnWjZKbkEwbDd2TGRNNEtPZGd3VFpKOFVPM184SHlMNkQ1QWRNM3poZjMwOUtFLVVKTmtpWE5jUXJfOFlHeXJBQnNNU2txVUgzZU8wWEo5a01LSER2Vk9CVjU4OWI0Q1daRzl4UFE5VmJNbS1y?oc=5)
+
+---
+
+### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0loV0FLczQyN1ZoVGl2cVY1RWJ2Z0E3eEVCLVktRDVvODg5Z3ZxOVdsNndNSE13Qi1HcUs5Q2tTaVhJaGItdnI0WVFCMEZpR1NFU0k0Q003UHoxcmVWZmlkQjIzY3dja0J1TW5GT2pXaUxpOGowaklYSUNTUW56MDVYUzlVblNQYzVaNTllekI3R2JoX2FwX1JKdF9lRzlxWUhxZFpUMG9DTzRtcEUybTVFOXFISUZTUnFPcnlJOTlKYzZxMldPWGhaVkFrVTI5MnMtUV9KUUxwVG5vZ3NGckRsbWJBQ1dBOHhHWU9Tbw?oc=5)
+
+2026-06-03
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0loV0FLczQyN1ZoVGl2cVY1RWJ2Z0E3eEVCLVktRDVvODg5Z3ZxOVdsNndNSE13Qi1HcUs5Q2tTaVhJaGItdnI0WVFCMEZpR1NFU0k0Q003UHoxcmVWZmlkQjIzY3dja0J1TW5GT2pXaUxpOGowaklYSUNTUW56MDVYUzlVblNQYzVaNTllekI3R2JoX2FwX1JKdF9lRzlxWUhxZFpUMG9DTzRtcEUybTVFOXFISUZTUnFPcnlJOTlKYzZxMldPWGhaVkFrVTI5MnMtUV9KUUxwVG5vZ3NGckRsbWJBQ1dBOHhHWU9Tbw?oc=5)
+
+---
+
+### [Samsung und das Massachusetts General Hospital starten gemeinsame Studie zu Stoffwechseltherapien](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
+
+2026-06-03
+
+來源：[samsung.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
+
+---
+
+### [Epidemia di Ebola in Congo: 344 casi confermati, 60 morti](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1BvUXRuZzNZN0FjX1lNcmhiU0dwc3hkOHBRelZXTUVPaks5YlByWDYwbHBHMzlGRWVmWGU4a0M3MW0ydzA3MXltU0FkRVJsdFpTT0hUSGhaS25sdWxvZGdIT2QzSzhOWjhySkNqWm8tUHZ3UGRyRmxEX3pPclFIVHNFTjQ4V29PZG4yRTlsZGhBUkZsTTYwSi1DSy1VU2otV1p3QUVVb2dwMFlqdDdFTmxSd1ZFM2gzWkI0eg?oc=5)
+
+2026-06-03
+
+來源：[ItaliaOggi](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1BvUXRuZzNZN0FjX1lNcmhiU0dwc3hkOHBRelZXTUVPaks5YlByWDYwbHBHMzlGRWVmWGU4a0M3MW0ydzA3MXltU0FkRVJsdFpTT0hUSGhaS25sdWxvZGdIT2QzSzhOWjhySkNqWm8tUHZ3UGRyRmxEX3pPclFIVHNFTjQ4V29PZG4yRTlsZGhBUkZsTTYwSi1DSy1VU2otV1p3QUVVb2dwMFlqdDdFTmxSd1ZFM2gzWkI0eg?oc=5)
+
+---
+
+### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+
+2026-06-03
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+
+---
+
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+2026-06-03
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+---
+
+### [2 scientists charged with bringing deactivated mpox virus into the US and lying to authorities](https://news.google.com/rss/articles/CBMibkFVX3lxTE9kMzhMckxfd211WXJLUFEwdnpJZmRhekRhS09sRzh4Rm9nbk1RYjR4TmlDYVFnNjBHWENIWHRBU0RoTFN2UjhGQWpqNmJCaTFOUXZFTWVHZ2pFT2tEa2RGWW1RNWNwSURrN1BJcHRR?oc=5)
 
 2026-06-02
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BqclI4ZTIxcFdhQkNKWVFwNHQwSXNhZU1uUWo0YnZiaG9kbFRsaVhaR216c05qSkpvenhsdFN3UGZNeEZOeUUySk1JbExCclJicURsWVdtU1ViQjZ4UHd6LVRKN2QyX0ZPU3A3QUVXY20tVWQyaGJnLVZmUXdZQU1WcWlvV2lKYUY0SjhsX1YwNlhFN2RERlQ4QXhGWkdP?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTE9kMzhMckxfd211WXJLUFEwdnpJZmRhekRhS09sRzh4Rm9nbk1RYjR4TmlDYVFnNjBHWENIWHRBU0RoTFN2UjhGQWpqNmJCaTFOUXZFTWVHZ2pFT2tEa2RGWW1RNWNwSURrN1BJcHRR?oc=5)
+
+---
+
+### [PCOS heißt jetzt PMOS: Medizin erkennt Stoffwechsel-Kern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazlDUHBGMFEtQkw0TmpTT0NUUENrQ1ltdVhBUkRYTGFCWHlvNUR4S0pTbVpfa215QUFrdEVhdkVJM2JacEJzMTFpVGlSMWVLMzN6UWZsZVlGZmdPeG96bG41LTR5S0xYZFdWVEN2eDMyaVpEelZmQU03SDQtVXpBNDhsSjJOdUtFZUxKLUl4LWo2aFZQRm13eHJpX2diQVItcHN1Wk1ROHA?oc=5)
+
+2026-06-02
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazlDUHBGMFEtQkw0TmpTT0NUUENrQ1ltdVhBUkRYTGFCWHlvNUR4S0pTbVpfa215QUFrdEVhdkVJM2JacEJzMTFpVGlSMWVLMzN6UWZsZVlGZmdPeG96bG41LTR5S0xYZFdWVEN2eDMyaVpEelZmQU03SDQtVXpBNDhsSjJOdUtFZUxKLUl4LWo2aFZQRm13eHJpX2diQVItcHN1Wk1ROHA?oc=5)
 
 ---
 
@@ -80,22 +136,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Ebola in Congo e Uganda, crollano i casi sospetti: cosa sta succedendo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWl1b2xfRFFWRDZERS0wMHFzQW1MUU44TVVEZWRqbUExSW1RbkhDdVNuQ0FtZnd0RXlYY2RKbVEtajk0LVhnZXFjSVo3NUNFZlBoR0pUNFpFY3FHdjFpS3dBYUhvaFlZWDV6U2w1WURibFlMcVk5ZVpYSnZOLWZRR1NKdThDNG5Ka1JmX2djcXZhM19BcDhySVFKM0tOaFV6MEhnYkdtZmJFdEk?oc=5)
-
-2026-06-02
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWl1b2xfRFFWRDZERS0wMHFzQW1MUU44TVVEZWRqbUExSW1RbkhDdVNuQ0FtZnd0RXlYY2RKbVEtajk0LVhnZXFjSVo3NUNFZlBoR0pUNFpFY3FHdjFpS3dBYUhvaFlZWDV6U2w1WURibFlMcVk5ZVpYSnZOLWZRR1NKdThDNG5Ka1JmX2djcXZhM19BcDhySVFKM0tOaFV6MEhnYkdtZmJFdEk?oc=5)
-
----
-
-### [Genital herpes rising in England, despite overall drop in sexually transmitted infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
-
-2026-06-02
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
-
----
-
 ### [Multiple-Sklerose-Therapie: Studie zeigt Fortschritte bei der MS-Behandlung](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXgzaTJKdTlJWUFieFhlLWtLeWExd1FJOXZXaW1wQWQxbEdDYzRoOXVrZktUNkdYRG85dDVxcTJBbTZDTXFDVnczdm1mVDNKaDBhSlcycFJyU1o0UjN6T25tNGcyWVFwbUhIRW1CYVNIYkd3cnhMS1FKVl9EVXJlUEU0QmtldjBON0I0QkpTaWpoeHFHMzZHRnNtWnZwdUg2cUZJTlJVTEhVZjFkcHRsVmFaYUVxOVAtZ3kyTUdBcS1IUFU2RHZoNDNWYWc?oc=5)
 
 2026-06-02
@@ -109,22 +149,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-02
 
 來源：[Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWZ0ckZZWG43THpESkgyV21tWEJodllvTTRoVmp4N2NIOUJud0xXVEtKaUZKQUdDNlBRM0FDWFBOTDBIREw3UkplbEppclM4NUxFTUFaQUo2eUQzdTVzOUlBMEJ4Wm8zd29oNkJxTFdJSGpkQUhmbDljaGRoM0ZvTkVLLXprOW85Vjd1QVFzTTRxT1NiWjV4U9IBngFBVV95cUxQWGZJQlc1OF9IVU5GcGl1RlI1RVhfS1lQd1h5TTRoX0I1SFdMYm14dTNUUU10eC1CTDNneUNrVVF0enh2aDd1Z1hjTDlzaU03T3NNWnVyelFqdVlwLU5WdUVxMHhtN1VIekhzUFlCam53eWx6M2RJekVFSE5fbGdfR2pFaE5xNGdTbkNJZFgzM3J4bnFWSFdmX1ZDelNXUQ?oc=5)
-
----
-
-### [Donanemab bremst Alzheimerprogression über drei Jahre - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUJldF9RclRqWHJEZ2dwWC13cW42R3h5QjdaTWZoQXVTWWowZEQ4eW0wTG5hTmEwY0xhSDBZR3Flc0czbENPZ0JTYWV5REJVY1BVUWVOX1QwcXUxcTBSbW9DUzFpdjluWEdQV3hPQS1ZbURET0xaeW5IRXJSVHI2QWxlRUh1VzA3TUt3R3ZITzNMOE4xUkYyZFcyY2R0ZHM2X0t5VkhKZFhXZFZHZnVUb3FyZXZBVHZwS0hWXzR3?oc=5)
-
-2026-06-02
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUJldF9RclRqWHJEZ2dwWC13cW42R3h5QjdaTWZoQXVTWWowZEQ4eW0wTG5hTmEwY0xhSDBZR3Flc0czbENPZ0JTYWV5REJVY1BVUWVOX1QwcXUxcTBSbW9DUzFpdjluWEdQV3hPQS1ZbURET0xaeW5IRXJSVHI2QWxlRUh1VzA3TUt3R3ZITzNMOE4xUkYyZFcyY2R0ZHM2X0t5VkhKZFhXZFZHZnVUb3FyZXZBVHZwS0hWXzR3?oc=5)
-
----
-
-### [Polyzystisches Ovarialsyndrom erhält neue Nomenklatur - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZElZZVNCNHV3WTYxc2ZlMDJTekZvU2JkTzB6bTJUWXRyODY1Nm02ZXNndXlmWmRuYzdoMU50NXBXNXBkLWF3OURIcnFwd25Ya3dXMnBucVBkYWdQclN3S05tY2tpNTlxaUZNa3B0SldpVWRWU01Gd3ZHcV80TkZCX1BOTGRwRURZQWJIYjdvTQ?oc=5)
-
-2026-06-01
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZElZZVNCNHV3WTYxc2ZlMDJTekZvU2JkTzB6bTJUWXRyODY1Nm02ZXNndXlmWmRuYzdoMU50NXBXNXBkLWF3OURIcnFwd25Ya3dXMnBucVBkYWdQclN3S05tY2tpNTlxaUZNa3B0SldpVWRWU01Gd3ZHcV80TkZCX1BOTGRwRURZQWJIYjdvTQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+---
 
 ### [Aurelio Rojas, cardiólogo, advierte sobre el consumo de ibuprofeno: «Aumenta el riesgo de infarto y trombosis y afecta a los riñones»](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
 
