@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（1 則）
 
-### [BBC doctor warning on taking naproxen, metformin and letharoxine - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGRnU253Qm1uVk8teHBMRXQ1VEoxTERoVUQzNks0NjgzNkZOalFVQXBiUWVSOXprdlh4TEJULVJrd0t1ZTNTV3FsdmNqd1FnNnJ4LXV6ZGVaUVJYNEpWZ0FjZUkxQXpncng0V3lTMDBCeEJHM3NNOUZVSzl6UzRpTWFDbGVGZzA?oc=5)
+### [Aurelio Rojas, cardiólogo: "El ibuprofeno es uno de los peores fármacos para el corazón" - Gaceta de salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT3U4T3B2SktfTTlYUU4wbnE3TXk4M29IbFhORV9BNFZQMVN2YWxrWHlHSnFYemtvRDhQdmxHWUticUVobXhSZVF6ZnFiZjZDcHNJOEpOR05UazdOcDMxN3B2LVdwdjRzaFN0VkVwS2VIWWlWR2pOWnNjS25MSnRuTmlYSkowaU9aWGJ1ZVVRTGd0dkNqVjZIdUdlR0U1TEJ1TDdhM0VhbW56bnNlNkVTbXVDWnltRW1FYUZMLTlYUTJEZS1kYV9Wa1RYWXhtRC1fQnAzVkZsT0tHUUJFQlowU2ZBOWpORUNVdmlrVGl3?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span>
+2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGRnU253Qm1uVk8teHBMRXQ1VEoxTERoVUQzNks0NjgzNkZOalFVQXBiUWVSOXprdlh4TEJULVJrd0t1ZTNTV3FsdmNqd1FnNnJ4LXV6ZGVaUVJYNEpWZ0FjZUkxQXpncng0V3lTMDBCeEJHM3NNOUZVSzl6UzRpTWFDbGVGZzA?oc=5)
-
----
-
-### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
----
-
-### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
-
-2026-06-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
-
----
-
-### [Aurelio Rojas, cardiólogo, advierte sobre el consumo de ibuprofeno: «Aumenta el riesgo de infarto y trombosis y afecta a los riñones»](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
-
-2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT3U4T3B2SktfTTlYUU4wbnE3TXk4M29IbFhORV9BNFZQMVN2YWxrWHlHSnFYemtvRDhQdmxHWUticUVobXhSZVF6ZnFiZjZDcHNJOEpOR05UazdOcDMxN3B2LVdwdjRzaFN0VkVwS2VIWWlWR2pOWnNjS25MSnRuTmlYSkowaU9aWGJ1ZVVRTGd0dkNqVjZIdUdlR0U1TEJ1TDdhM0VhbW56bnNlNkVTbXVDWnltRW1FYUZMLTlYUTJEZS1kYV9Wa1RYWXhtRC1fQnAzVkZsT0tHUUJFQlowU2ZBOWpORUNVdmlrVGl3?oc=5)
 
 ---
 

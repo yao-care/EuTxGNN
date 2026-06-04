@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
 
-### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
+### [Schlaganfall-Warnzeichen mit dieser Methode rechtzeitig erkennen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG80VE9EbmdBNlhWSE9lSkJRV21MN1M2Rm9Xa1F3QUlUcmJJbTduZ0FxcXh3dFJyMDU3TE05clZJYmtHN25WNVZtQW0wdk5fUmxBUGViNEtCZGF3eTNqTmhocm5namcwd2RPX3ZQb0QyWElkZmZjRkZQT0tsd25hT054bXNnSTBtWThWQkFlUHZtUkF6LThKcXZ1ckd2eVA5OWFsWUN2SmFDRzgwckFETmJhcWp3dkg3RDZGVm4tdDgyZUk?oc=5)
 
-2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
-
----
-
-### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
-
-2026-06-02 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG80VE9EbmdBNlhWSE9lSkJRV21MN1M2Rm9Xa1F3QUlUcmJJbTduZ0FxcXh3dFJyMDU3TE05clZJYmtHN25WNVZtQW0wdk5fUmxBUGViNEtCZGF3eTNqTmhocm5namcwd2RPX3ZQb0QyWElkZmZjRkZQT0tsd25hT054bXNnSTBtWThWQkFlUHZtUkF6LThKcXZ1ckd2eVA5OWFsWUN2SmFDRzgwckFETmJhcWp3dkg3RDZGVm4tdDgyZUk?oc=5)
 
 ---
 
@@ -75,22 +67,6 @@ permalink: /news/telmisartan/
 2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
-
----
-
-### [At 50, I lost three stone and cured my high blood pressure - The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm1iUW0wX3pnYlZENU1ET2J4aExyNWJKNGVxcm5SUzh5R2I0RGZISGVtUXNlOWpSZXduaFRXVXRhLXFpV3RQNk5ndl8tQTVibjMxVmNSa2UxNFp0X1NNNFktT2ZLcHZ1b0s3Z0VsYXVma2JFekYzNzFSdnA5bkcyd0hyTEZYR2J1aTZna3Z3WQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWm1iUW0wX3pnYlZENU1ET2J4aExyNWJKNGVxcm5SUzh5R2I0RGZISGVtUXNlOWpSZXduaFRXVXRhLXFpV3RQNk5ndl8tQTVibjMxVmNSa2UxNFp0X1NNNFktT2ZLcHZ1b0s3Z0VsYXVma2JFekYzNzFSdnA5bkcyd0hyTEZYR2J1aTZna3Z3WQ?oc=5)
-
----
-
-### [Aurelio Rojas, cardiólogo, advierte sobre el consumo de ibuprofeno: «Aumenta el riesgo de infarto y trombosis y afecta a los riñones»](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
-
-2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHEwcFhMYWJ0eEYwM2VHNnJzdXhRd1dTYi1SWjVJUDFoSVAtS1daZzJBSTBnMkpodk1ZN2FUYnR4aEo2RG5sYjRELVAzSVpBSXRkdms0aEdlSEVsODJCVWoyVVdVczc4RUVtaV9qaUdBVG5uamZJZDlTYjgwWXBiV1h0dHlWQ3BJaV82b0w0bjIweEh4MGdkdlFEdFFxckdSdUNPcDB5X1FKcjVYYmtB0gG0AUFVX3lxTFBYcEdfUmJGR3k4V3k2R3A4endwYURtUlJPQkFzLUdlTXJ5bnh5ZXJzMzhOeTlEbUY4TGdNSWIxRlpSUTlteDNfWS0zOExDZU9ic1ZOc0o5OGZDNWRRaHVwaXJ4eU83MTVUM0NXMm9DdFQ2RzlaNGRod3FrZVFkN2hsTzRnUUxjajBpRjdWZDYzcUZXN3Q1OXhoeFJfTFB6LXlhLTJaaXpab3ZOZzROZlB4b0g5eA?oc=5)
 
 ---
 

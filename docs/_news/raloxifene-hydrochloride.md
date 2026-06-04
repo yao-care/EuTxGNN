@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
+### [Schlaganfall-Warnzeichen mit dieser Methode rechtzeitig erkennen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG80VE9EbmdBNlhWSE9lSkJRV21MN1M2Rm9Xa1F3QUlUcmJJbTduZ0FxcXh3dFJyMDU3TE05clZJYmtHN25WNVZtQW0wdk5fUmxBUGViNEtCZGF3eTNqTmhocm5namcwd2RPX3ZQb0QyWElkZmZjRkZQT0tsd25hT054bXNnSTBtWThWQkFlUHZtUkF6LThKcXZ1ckd2eVA5OWFsWUN2SmFDRzgwckFETmJhcWp3dkg3RDZGVm4tdDgyZUk?oc=5)
 
-2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG80VE9EbmdBNlhWSE9lSkJRV21MN1M2Rm9Xa1F3QUlUcmJJbTduZ0FxcXh3dFJyMDU3TE05clZJYmtHN25WNVZtQW0wdk5fUmxBUGViNEtCZGF3eTNqTmhocm5namcwd2RPX3ZQb0QyWElkZmZjRkZQT0tsd25hT054bXNnSTBtWThWQkFlUHZtUkF6LThKcXZ1ckd2eVA5OWFsWUN2SmFDRzgwckFETmJhcWp3dkg3RDZGVm4tdDgyZUk?oc=5)
 
 ---
 

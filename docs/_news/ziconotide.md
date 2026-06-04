@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [La obesidad deja huellas epigenéticas en el ADN infantil - IM Médico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcThEaEJHcXdIUEFfV0hfTmxKSE5Uc1k2emdESHNHcU9ZSzhXSEFqU3VTY2xLcy00QWhxQlFFS3lkbl9ZQktyaUtCV2VHRXlId241OXVWblNTSnlBdmtkUkxlNVZWLWx1M3Y1MFVEdHZsRk4tTHBBOGNuMXBtbDBvU0lON0FnZS14UTRyX016a0x2ZzRXWmJEcGFOTTJGVmxlX2ltMERTdWJxdjJqNHR2dNIBqwFBVV95cUxPaEswb0hCdTdOVjVKazZmN3lndTJhbUw5YlpLRmhUUmdiZEt6elR3ZDd5cjZtTEVlX2JKem54aWZEMzNlLTc3LV9URTFrQk9NOEFqV2VxdEVoT3pFa0EyQnBwa01ob0MwNHdoUmNnWjl2ajZSUnJfWHJqS1cycWR6dkdLQzdEVkZJMFBuOEl4RktiRmxIdGt2STVBbVhydkNJTE94dU8tQ25obTQ?oc=5)
 
@@ -62,19 +62,27 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Pancréas, désescalade thérapeutique et Ozempic: des avancées sur le front de la lutte anti-cancer](https://news.google.com/rss/articles/CBMilgJBVV95cUxPaUhjS2M0SFowTGtCb3Z0QTNMMHVhNTcybEZuWHdmNVRJNm1HMElVcWtGLWZYSl9PVDdJUTlXemNBZFVlcnhiMUEybjJ1aDFsdWxFQVM4Z2otSmhTQTh1WUFrbDV5VzhLSnZyU204dWcwWWhLMkVYYy1adGxHTEU4Y0xWSUxFWFVMTjNHZzRpcm9JaFl6WjFTcC1SZ2FUVEdTdklNcXplWDNvWFgyM2RRc081VmNnOXlwZU1sZkRXN1pjNllfSTc2MGI2WkVKWU1PN21lblpYT0R6SUxkSEFhUm9pbE91MlRxSFJFS1p1RHJualY1QUdQcXhMRlV5YlhkUEcyaXJ6bUV4TTNPYWVyRkM5Q3hjZ9IBmwJBVV95cUxOWWZ3c2RWRHdIa3V5UHMwYXVGUXloanVEdVZGQ0hfeHh6Zi1QS3hMSlFxWE5PbzNhejhGczdHdExZRnJhSVpVYXRzYmNGN3hoUnZzbUZGc05ZN182RUdNUmNINkZaMXJPME1hUXZsUS1EdVpldGh6dzZnajVqVS0xRzFFM1VEZU10RHJpMzdfZTl4MlY4MGhad3ZUTHRZd2pjMXFpWElILUtCbHYyUjVONDJQNG1IQ1dHamZhcVE3cTdiM3NxTTZNak8yM25FbzAzbDVMeUhpZ3dDTmV4UE9rTjd1cm5naExXLUVhTEV2TTN3SkJwTjRzeGpBUHBNMC1yS09NWFJXNGdLdkwyN3ozT01pU09uZC05U2xr?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Boursorama](https://news.google.com/rss/articles/CBMilgJBVV95cUxPaUhjS2M0SFowTGtCb3Z0QTNMMHVhNTcybEZuWHdmNVRJNm1HMElVcWtGLWZYSl9PVDdJUTlXemNBZFVlcnhiMUEybjJ1aDFsdWxFQVM4Z2otSmhTQTh1WUFrbDV5VzhLSnZyU204dWcwWWhLMkVYYy1adGxHTEU4Y0xWSUxFWFVMTjNHZzRpcm9JaFl6WjFTcC1SZ2FUVEdTdklNcXplWDNvWFgyM2RRc081VmNnOXlwZU1sZkRXN1pjNllfSTc2MGI2WkVKWU1PN21lblpYT0R6SUxkSEFhUm9pbE91MlRxSFJFS1p1RHJualY1QUdQcXhMRlV5YlhkUEcyaXJ6bUV4TTNPYWVyRkM5Q3hjZ9IBmwJBVV95cUxOWWZ3c2RWRHdIa3V5UHMwYXVGUXloanVEdVZGQ0hfeHh6Zi1QS3hMSlFxWE5PbzNhejhGczdHdExZRnJhSVpVYXRzYmNGN3hoUnZzbUZGc05ZN182RUdNUmNINkZaMXJPME1hUXZsUS1EdVpldGh6dzZnajVqVS0xRzFFM1VEZU10RHJpMzdfZTl4MlY4MGhad3ZUTHRZd2pjMXFpWElILUtCbHYyUjVONDJQNG1IQ1dHamZhcVE3cTdiM3NxTTZNak8yM25FbzAzbDVMeUhpZ3dDTmV4UE9rTjd1cm5naExXLUVhTEV2TTN3SkJwTjRzeGpBUHBNMC1yS09NWFJXNGdLdkwyN3ozT01pU09uZC05U2xr?oc=5)
-
----
-
 ### [La nueva era de la obesidad exige fármacos, músculo y seguimiento a largo plazo - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3NpaThUNlZQYW9fOWZpa0F0VndXTTh5V1JNRk9tN1lIMkpMR0MxWlZUSVVqanYzUTU4Z01aR21ZWi1reTBhNzFzekVjb1FuWXFER3RHMWtURGNHSEtRUXh2Qzg4QzVrSC1NdmRGdDhZSmhBMExQaTVxMEFvc3pmb0p3R3BJcUFwMGt4TzNtcjRWQVVuNUtnOU9KSmNXVlh3eUNFc1Q1NXdhbzFPdTJkb2NjTHRwd2RJVTlQZE1n0gG4AUFVX3lxTE1MYUc2dUNRbGxpM1JwTjBoMGMweUd1WUhMXzdvNVBLeGlmLXhqS05OTTdkTDIwUkctNGtvaFhhMGpCMEN3NTRxWDNOREIyWWZYYU15TmZVaG81dnBSUGt6UnNLQm1WVmxJTFRHemxsLVhXT09YM25aZ19KX2d5eDhVcjNtRFhEWGNuYWJmTGdpaGtHT2FYTWkySVRBMVh1T01UTXFRbEd5VUxpSGFrWEx2d0VLMjBjZmU?oc=5)
 
 2026-06-03 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3NpaThUNlZQYW9fOWZpa0F0VndXTTh5V1JNRk9tN1lIMkpMR0MxWlZUSVVqanYzUTU4Z01aR21ZWi1reTBhNzFzekVjb1FuWXFER3RHMWtURGNHSEtRUXh2Qzg4QzVrSC1NdmRGdDhZSmhBMExQaTVxMEFvc3pmb0p3R3BJcUFwMGt4TzNtcjRWQVVuNUtnOU9KSmNXVlh3eUNFc1Q1NXdhbzFPdTJkb2NjTHRwd2RJVTlQZE1n0gG4AUFVX3lxTE1MYUc2dUNRbGxpM1JwTjBoMGMweUd1WUhMXzdvNVBLeGlmLXhqS05OTTdkTDIwUkctNGtvaFhhMGpCMEN3NTRxWDNOREIyWWZYYU15TmZVaG81dnBSUGt6UnNLQm1WVmxJTFRHemxsLVhXT09YM25aZ19KX2d5eDhVcjNtRFhEWGNuYWJmTGdpaGtHT2FYTWkySVRBMVh1T01UTXFRbEd5VUxpSGFrWEx2d0VLMjBjZmU?oc=5)
+
+---
+
+### [Pancréas, désescalade thérapeutique, Ozempic : quelles avancées récentes sur le front de la lutte anti-cancer ? - Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFVQWGhfT3JQYTdCRHVZcmJ5VjdmTlhaVlU2ZU9rSEl5SGhSa1FOUUtjaDZoRGdlX25tTEFULXhVN091Y0licFdlUjNud2wyTDFVYXVYbkdpNzJwSVhMU1FiMGpzQW13T3prSmVNV3RmOThSakhRMF9zQUR1SWlUcU52ZHNISlNJQjN3RmhEWjlIQXFlVkJEMkVxUXFTMG1UR1o4SXZjT0lGZUVuX2lKMkFqSEJrODBVcGJTOGRtN0lDVDY1RFlSVWVmUlBVdkJ6bDNLeWxOczZLcjRGMHFmVEl3?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFVQWGhfT3JQYTdCRHVZcmJ5VjdmTlhaVlU2ZU9rSEl5SGhSa1FOUUtjaDZoRGdlX25tTEFULXhVN091Y0licFdlUjNud2wyTDFVYXVYbkdpNzJwSVhMU1FiMGpzQW13T3prSmVNV3RmOThSakhRMF9zQUR1SWlUcU52ZHNISlNJQjN3RmhEWjlIQXFlVkJEMkVxUXFTMG1UR1o4SXZjT0lGZUVuX2lKMkFqSEJrODBVcGJTOGRtN0lDVDY1RFlSVWVmUlBVdkJ6bDNLeWxOczZLcjRGMHFmVEl3?oc=5)
+
+---
+
+### [Wissenswerte - Metabolischer BMI zeigt Gesundheitsrisiko an - rbb24 Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2NsTkRTUy1IcXI0SHVCSU9OUVZrYkE5bGRPazB4SFlKZjhDVzBFMDh4S1JZR2pSSHNDZHVtRHUyazJpX1BKYnFsXzZiUFVIS3dveHNMSG1Tdm9UczNhekNOTkc1cHZxd0djZndwYmdwQmkzZEpaNDNMT2JVZGVpUEdONlR3b2huTVM4aTJuN0x0OEk2UEJIaXlpdlRoQlRTRHFjMVVIRmdibVdHdkdURWxRbzhOZmdEQnc?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Fettleibigkeit</span>
+
+來源：[rbb24 Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2NsTkRTUy1IcXI0SHVCSU9OUVZrYkE5bGRPazB4SFlKZjhDVzBFMDh4S1JZR2pSSHNDZHVtRHUyazJpX1BKYnFsXzZiUFVIS3dveHNMSG1Tdm9UczNhekNOTkc1cHZxd0djZndwYmdwQmkzZEpaNDNMT2JVZGVpUEdONlR3b2huTVM4aTJuN0x0OEk2UEJIaXlpdlRoQlRTRHFjMVVIRmdibVdHdkdURWxRbzhOZmdEQnc?oc=5)
 
 ---
 

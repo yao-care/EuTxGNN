@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [La obesidad deja huellas epigenéticas en el ADN infantil - IM Médico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcThEaEJHcXdIUEFfV0hfTmxKSE5Uc1k2emdESHNHcU9ZSzhXSEFqU3VTY2xLcy00QWhxQlFFS3lkbl9ZQktyaUtCV2VHRXlId241OXVWblNTSnlBdmtkUkxlNVZWLWx1M3Y1MFVEdHZsRk4tTHBBOGNuMXBtbDBvU0lON0FnZS14UTRyX016a0x2ZzRXWmJEcGFOTTJGVmxlX2ltMERTdWJxdjJqNHR2dNIBqwFBVV95cUxPaEswb0hCdTdOVjVKazZmN3lndTJhbUw5YlpLRmhUUmdiZEt6elR3ZDd5cjZtTEVlX2JKem54aWZEMzNlLTc3LV9URTFrQk9NOEFqV2VxdEVoT3pFa0EyQnBwa01ob0MwNHdoUmNnWjl2ajZSUnJfWHJqS1cycWR6dkdLQzdEVkZJMFBuOEl4RktiRmxIdGt2STVBbVhydkNJTE94dU8tQ25obTQ?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
+### [Schlaganfall-Warnzeichen mit dieser Methode rechtzeitig erkennen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG80VE9EbmdBNlhWSE9lSkJRV21MN1M2Rm9Xa1F3QUlUcmJJbTduZ0FxcXh3dFJyMDU3TE05clZJYmtHN25WNVZtQW0wdk5fUmxBUGViNEtCZGF3eTNqTmhocm5namcwd2RPX3ZQb0QyWElkZmZjRkZQT0tsd25hT054bXNnSTBtWThWQkFlUHZtUkF6LThKcXZ1ckd2eVA5OWFsWUN2SmFDRzgwckFETmJhcWp3dkg3RDZGVm4tdDgyZUk?oc=5)
 
-2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
-
----
-
-### [Pancréas, désescalade thérapeutique et Ozempic: des avancées sur le front de la lutte anti-cancer](https://news.google.com/rss/articles/CBMilgJBVV95cUxPaUhjS2M0SFowTGtCb3Z0QTNMMHVhNTcybEZuWHdmNVRJNm1HMElVcWtGLWZYSl9PVDdJUTlXemNBZFVlcnhiMUEybjJ1aDFsdWxFQVM4Z2otSmhTQTh1WUFrbDV5VzhLSnZyU204dWcwWWhLMkVYYy1adGxHTEU4Y0xWSUxFWFVMTjNHZzRpcm9JaFl6WjFTcC1SZ2FUVEdTdklNcXplWDNvWFgyM2RRc081VmNnOXlwZU1sZkRXN1pjNllfSTc2MGI2WkVKWU1PN21lblpYT0R6SUxkSEFhUm9pbE91MlRxSFJFS1p1RHJualY1QUdQcXhMRlV5YlhkUEcyaXJ6bUV4TTNPYWVyRkM5Q3hjZ9IBmwJBVV95cUxOWWZ3c2RWRHdIa3V5UHMwYXVGUXloanVEdVZGQ0hfeHh6Zi1QS3hMSlFxWE5PbzNhejhGczdHdExZRnJhSVpVYXRzYmNGN3hoUnZzbUZGc05ZN182RUdNUmNINkZaMXJPME1hUXZsUS1EdVpldGh6dzZnajVqVS0xRzFFM1VEZU10RHJpMzdfZTl4MlY4MGhad3ZUTHRZd2pjMXFpWElILUtCbHYyUjVONDJQNG1IQ1dHamZhcVE3cTdiM3NxTTZNak8yM25FbzAzbDVMeUhpZ3dDTmV4UE9rTjd1cm5naExXLUVhTEV2TTN3SkJwTjRzeGpBUHBNMC1yS09NWFJXNGdLdkwyN3ozT01pU09uZC05U2xr?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Boursorama](https://news.google.com/rss/articles/CBMilgJBVV95cUxPaUhjS2M0SFowTGtCb3Z0QTNMMHVhNTcybEZuWHdmNVRJNm1HMElVcWtGLWZYSl9PVDdJUTlXemNBZFVlcnhiMUEybjJ1aDFsdWxFQVM4Z2otSmhTQTh1WUFrbDV5VzhLSnZyU204dWcwWWhLMkVYYy1adGxHTEU4Y0xWSUxFWFVMTjNHZzRpcm9JaFl6WjFTcC1SZ2FUVEdTdklNcXplWDNvWFgyM2RRc081VmNnOXlwZU1sZkRXN1pjNllfSTc2MGI2WkVKWU1PN21lblpYT0R6SUxkSEFhUm9pbE91MlRxSFJFS1p1RHJualY1QUdQcXhMRlV5YlhkUEcyaXJ6bUV4TTNPYWVyRkM5Q3hjZ9IBmwJBVV95cUxOWWZ3c2RWRHdIa3V5UHMwYXVGUXloanVEdVZGQ0hfeHh6Zi1QS3hMSlFxWE5PbzNhejhGczdHdExZRnJhSVpVYXRzYmNGN3hoUnZzbUZGc05ZN182RUdNUmNINkZaMXJPME1hUXZsUS1EdVpldGh6dzZnajVqVS0xRzFFM1VEZU10RHJpMzdfZTl4MlY4MGhad3ZUTHRZd2pjMXFpWElILUtCbHYyUjVONDJQNG1IQ1dHamZhcVE3cTdiM3NxTTZNak8yM25FbzAzbDVMeUhpZ3dDTmV4UE9rTjd1cm5naExXLUVhTEV2TTN3SkJwTjRzeGpBUHBNMC1yS09NWFJXNGdLdkwyN3ozT01pU09uZC05U2xr?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG80VE9EbmdBNlhWSE9lSkJRV21MN1M2Rm9Xa1F3QUlUcmJJbTduZ0FxcXh3dFJyMDU3TE05clZJYmtHN25WNVZtQW0wdk5fUmxBUGViNEtCZGF3eTNqTmhocm5namcwd2RPX3ZQb0QyWElkZmZjRkZQT0tsd25hT054bXNnSTBtWThWQkFlUHZtUkF6LThKcXZ1ckd2eVA5OWFsWUN2SmFDRzgwckFETmJhcWp3dkg3RDZGVm4tdDgyZUk?oc=5)
 
 ---
 
@@ -86,11 +78,27 @@ permalink: /news/orlistat/
 
 ---
 
+### [Pancréas, désescalade thérapeutique, Ozempic : quelles avancées récentes sur le front de la lutte anti-cancer ? - Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFVQWGhfT3JQYTdCRHVZcmJ5VjdmTlhaVlU2ZU9rSEl5SGhSa1FOUUtjaDZoRGdlX25tTEFULXhVN091Y0licFdlUjNud2wyTDFVYXVYbkdpNzJwSVhMU1FiMGpzQW13T3prSmVNV3RmOThSakhRMF9zQUR1SWlUcU52ZHNISlNJQjN3RmhEWjlIQXFlVkJEMkVxUXFTMG1UR1o4SXZjT0lGZUVuX2lKMkFqSEJrODBVcGJTOGRtN0lDVDY1RFlSVWVmUlBVdkJ6bDNLeWxOczZLcjRGMHFmVEl3?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFVQWGhfT3JQYTdCRHVZcmJ5VjdmTlhaVlU2ZU9rSEl5SGhSa1FOUUtjaDZoRGdlX25tTEFULXhVN091Y0licFdlUjNud2wyTDFVYXVYbkdpNzJwSVhMU1FiMGpzQW13T3prSmVNV3RmOThSakhRMF9zQUR1SWlUcU52ZHNISlNJQjN3RmhEWjlIQXFlVkJEMkVxUXFTMG1UR1o4SXZjT0lGZUVuX2lKMkFqSEJrODBVcGJTOGRtN0lDVDY1RFlSVWVmUlBVdkJ6bDNLeWxOczZLcjRGMHFmVEl3?oc=5)
+
+---
+
 ### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
+
+---
+
+### [Wissenswerte - Metabolischer BMI zeigt Gesundheitsrisiko an - rbb24 Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2NsTkRTUy1IcXI0SHVCSU9OUVZrYkE5bGRPazB4SFlKZjhDVzBFMDh4S1JZR2pSSHNDZHVtRHUyazJpX1BKYnFsXzZiUFVIS3dveHNMSG1Tdm9UczNhekNOTkc1cHZxd0djZndwYmdwQmkzZEpaNDNMT2JVZGVpUEdONlR3b2huTVM4aTJuN0x0OEk2UEJIaXlpdlRoQlRTRHFjMVVIRmdibVdHdkdURWxRbzhOZmdEQnc?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Fettleibigkeit</span>
+
+來源：[rbb24 Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2NsTkRTUy1IcXI0SHVCSU9OUVZrYkE5bGRPazB4SFlKZjhDVzBFMDh4S1JZR2pSSHNDZHVtRHUyazJpX1BKYnFsXzZiUFVIS3dveHNMSG1Tdm9UczNhekNOTkc1cHZxd0djZndwYmdwQmkzZEpaNDNMT2JVZGVpUEdONlR3b2huTVM4aTJuN0x0OEk2UEJIaXlpdlRoQlRTRHFjMVVIRmdibVdHdkdURWxRbzhOZmdEQnc?oc=5)
 
 ---
 

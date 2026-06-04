@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Alzheimer, la scoperta di UniTo: una nuova molecola riduce placche e infiammazione cerebrale - La Stampa](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3plYTN1TjBKMDYya0s0NE9KamVncFFWa1FuRDFVb09HY3JpbEFEUG4tXzFtd2F0RjlVZUFXUUpNbl9ZMXJPSmpkc0NyX2YyNHJfYmctM09qT2JmWGdVVnlHWFZLSm1mT3NhRTQ5ekdKSVRSMC05eUdZaFJjQ09MbWRzMnhGdWxEazdaVERYQ29NNkFqank5YWtFVUhQQjRTbDRyZUMwX1VuQVhqYldDLUdFNnhEZVFnajVOaWFxVjdQcGpJb0JfOGo1SDFzNGV0OTFuTtIB2gFBVV95cUxNTmtva2pZSzhCWUdrUVJrSHF0Uy04NS1QNWQ1X0JUckpnYm5lekF2MWZoMFh0d3R6bXBYNmxIeUpIZHFsUWRpWUwwNlZPb0o0am81Z29WM25VMVZSbEtsajFXbWU0OHFva2tiSjhvSzBaR2U4aTA5YkM1NGZ5clJlVjN0ZGNKc3Uxb0NrZzgxVU5oRnFZUTk5bnBBSFo2eTRUbnA2RHJxZTRZMy1TbVVMSWZmdDJFWjQ1UUlHeDFtemtveU1aeG1IcGMtcU5lVkRGQVNUZUE5ZHJ1UQ?oc=5)
 
 2026-06-03 <span class="news-indication-tag">malattia di Alzheimer</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3plYTN1TjBKMDYya0s0NE9KamVncFFWa1FuRDFVb09HY3JpbEFEUG4tXzFtd2F0RjlVZUFXUUpNbl9ZMXJPSmpkc0NyX2YyNHJfYmctM09qT2JmWGdVVnlHWFZLSm1mT3NhRTQ5ekdKSVRSMC05eUdZaFJjQ09MbWRzMnhGdWxEazdaVERYQ29NNkFqank5YWtFVUhQQjRTbDRyZUMwX1VuQVhqYldDLUdFNnhEZVFnajVOaWFxVjdQcGpJb0JfOGo1SDFzNGV0OTFuTtIB2gFBVV95cUxNTmtva2pZSzhCWUdrUVJrSHF0Uy04NS1QNWQ1X0JUckpnYm5lekF2MWZoMFh0d3R6bXBYNmxIeUpIZHFsUWRpWUwwNlZPb0o0am81Z29WM25VMVZSbEtsajFXbWU0OHFva2tiSjhvSzBaR2U4aTA5YkM1NGZ5clJlVjN0ZGNKc3Uxb0NrZzgxVU5oRnFZUTk5bnBBSFo2eTRUbnA2RHJxZTRZMy1TbVVMSWZmdDJFWjQ1UUlHeDFtemtveU1aeG1IcGMtcU5lVkRGQVNUZUE5ZHJ1UQ?oc=5)
-
----
-
-### [The conversation women aren't having with their doctors about menopause and memory loss isn't just overdue — it may be one of the most important health decisions of their fifties - Space Daily](https://news.google.com/rss/articles/CBMipwJBVV95cUxNcHN1MlJBUUN2T3dLZnY0bmNITURpQ2YyTmZyUHFmNEItT2JzdkdSYVBZOWhoYXI4TlRqbUF4NDlGR05nUGttekhqVGxkU2lLSkRZRWIxdUZNZG9ZeWtWSnRWYjFDT2xpR282U0RJU3V6LVNVVFpGOVlDbGhYUU41dW5kVmY1bjJzaVlqbE1EdkhYN1FTU3ZEUDZJZXYtRHE5S3prNlotV1ozaGZ4bS1ZRk9EeVZDdE9fVDF3S245dEs5aXJ5cjdOeS1hV2pPb1FJY0RISmpRaURpZFFXZmx1c2dlZER5N0FweUt5a1JjMHJEeG5NZnlVR2pjZXdWOENyWWRvaXljUUl4dEV6VTFFd0xNZWpkSERxVmFTMUlxVm1KYmpWb1hr?oc=5)
-
-2026-06-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[Space Daily](https://news.google.com/rss/articles/CBMipwJBVV95cUxNcHN1MlJBUUN2T3dLZnY0bmNITURpQ2YyTmZyUHFmNEItT2JzdkdSYVBZOWhoYXI4TlRqbUF4NDlGR05nUGttekhqVGxkU2lLSkRZRWIxdUZNZG9ZeWtWSnRWYjFDT2xpR282U0RJU3V6LVNVVFpGOVlDbGhYUU41dW5kVmY1bjJzaVlqbE1EdkhYN1FTU3ZEUDZJZXYtRHE5S3prNlotV1ozaGZ4bS1ZRk9EeVZDdE9fVDF3S245dEs5aXJ5cjdOeS1hV2pPb1FJY0RISmpRaURpZFFXZmx1c2dlZER5N0FweUt5a1JjMHJEeG5NZnlVR2pjZXdWOENyWWRvaXljUUl4dEV6VTFFd0xNZWpkSERxVmFTMUlxVm1KYmpWb1hr?oc=5)
-
----
-
-### [I've donated part of my brain to help find a cure for dementia](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdEhtSzZRdTQtdlNvbk1hOFlITWJlX19odXA5cWViVHRmWDk2YnBnZ2RENXJjS0VCSGdfNTVLWEZWeWdjaU1zY0diU1dyUHFtV1Y2WkI5SHFocTNh?oc=5)
-
-2026-06-01 <span class="news-indication-tag">dementia</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdEhtSzZRdTQtdlNvbk1hOFlITWJlX19odXA5cWViVHRmWDk2YnBnZ2RENXJjS0VCSGdfNTVLWEZWeWdjaU1zY0diU1dyUHFtV1Y2WkI5SHFocTNh?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/pegfilgrastim/
 
 ## 相關新聞（5 則）
 
+### [Vorhofflimmern und Diabetes – gefährliches Duo fürs Herz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiowFBVV95cUxQempfRUR0SHUzTUF6TWNlazhzaHUySlRaTFJzeE5Uam1MVWtoUmgyWW5vUGVhSVBKQkJEMWRtTGZ1N0RneEVJWEtHcTYybEpLSlJtaHYtSkhybm5aSzRzR3J4dUhrc0wxSmdkVVVmRHVpUjB6RlA5bVhvbGdqNnY0UWYtMHRISFE0SjVkN2Y4amxrbURKTmpCdGdPN1drRlBueVBj?oc=5)
+
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiowFBVV95cUxQempfRUR0SHUzTUF6TWNlazhzaHUySlRaTFJzeE5Uam1MVWtoUmgyWW5vUGVhSVBKQkJEMWRtTGZ1N0RneEVJWEtHcTYybEpLSlJtaHYtSkhybm5aSzRzR3J4dUhrc0wxSmdkVVVmRHVpUjB6RlA5bVhvbGdqNnY0UWYtMHRISFE0SjVkN2Y4amxrbURKTmpCdGdPN1drRlBueVBj?oc=5)
+
+---
+
 ### [Designstudierende entwickeln Armband-Idee für Kinder mit Typ-1-Diabetes – Eure Erfahrungen sind gefragt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbTNheWhvblRsek5aSm1WTC1XeUZQVGQ1TXFoTk03cWZySC1fMDA5ZmVUOEJaaHg3ZGE1ckMxbEU3Nm1ucElULVNwcFJKNElIdDNoZHF0WnpsRGpaV1FVbHJPMTZqWkVzaE8yeXNqazdIM25YNGNYV240R29iMTctMnlPTWFYSXJWVXFSNkJLLURfRHNxYjVUUHBJUFNBWEh3cGRHYjB5ZjVrWnBaQW5HMExxdzNmbC0xcnkxZ2xRX3VMMHBwdWRwc1piUFhoWmZ1Q0tzSHgyUHlFbXM?oc=5)
 
 2026-06-03 <span class="news-indication-tag">diabetes</span>
@@ -70,27 +78,19 @@ permalink: /news/pegfilgrastim/
 
 ---
 
-### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
-
----
-
-### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
-
----
-
 ### [Immunité, glycémie, poids… Voici pourquoi il est essentiel d'entretenir sa masse musculaire - Europe 1](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlJ2V3lYbWtqMHlUSU1ENUZRY2RQSVUtbmg5dkxNQi12T2lFWjRCTlFxdGloMG8xZWRuUnQwb0VMLTg0clBKSjNVTTJJdXBPOHhHZEhfbTluZWlBVG1CU1FxeS1qWnhuVS1FVFhVY09QT1VHaXZQODlGWWVrWTJmVE5OU2dOU1YwR1Y4REFZQVdEc0VOakJhMk56WDVoVlJDb1dLcjd6Yk1PS0VORnpoWnI3aDdXeTFPSWhjcEQ3OG0?oc=5)
 
 2026-06-03 <span class="news-indication-tag">diabète</span>
 
 來源：[Europe 1](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlJ2V3lYbWtqMHlUSU1ENUZRY2RQSVUtbmg5dkxNQi12T2lFWjRCTlFxdGloMG8xZWRuUnQwb0VMLTg0clBKSjNVTTJJdXBPOHhHZEhfbTluZWlBVG1CU1FxeS1qWnhuVS1FVFhVY09QT1VHaXZQODlGWWVrWTJmVE5OU2dOU1YwR1Y4REFZQVdEc0VOakJhMk56WDVoVlJDb1dLcjd6Yk1PS0VORnpoWnI3aDdXeTFPSWhjcEQ3OG0?oc=5)
+
+---
+
+### [Wissenswerte - Metabolischer BMI zeigt Gesundheitsrisiko an - rbb24 Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2NsTkRTUy1IcXI0SHVCSU9OUVZrYkE5bGRPazB4SFlKZjhDVzBFMDh4S1JZR2pSSHNDZHVtRHUyazJpX1BKYnFsXzZiUFVIS3dveHNMSG1Tdm9UczNhekNOTkc1cHZxd0djZndwYmdwQmkzZEpaNDNMT2JVZGVpUEdONlR3b2huTVM4aTJuN0x0OEk2UEJIaXlpdlRoQlRTRHFjMVVIRmdibVdHdkdURWxRbzhOZmdEQnc?oc=5)
+
+2026-06-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Fettleibigkeit</span>
+
+來源：[rbb24 Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2NsTkRTUy1IcXI0SHVCSU9OUVZrYkE5bGRPazB4SFlKZjhDVzBFMDh4S1JZR2pSSHNDZHVtRHUyazJpX1BKYnFsXzZiUFVIS3dveHNMSG1Tdm9UczNhekNOTkc1cHZxd0djZndwYmdwQmkzZEpaNDNMT2JVZGVpUEdONlR3b2huTVM4aTJuN0x0OEk2UEJIaXlpdlRoQlRTRHFjMVVIRmdibVdHdkdURWxRbzhOZmdEQnc?oc=5)
 
 ---
 
