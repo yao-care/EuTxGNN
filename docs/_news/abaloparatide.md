@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
-### [Vorhofflimmern und Diabetes – gefährliches Duo fürs Herz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiowFBVV95cUxQempfRUR0SHUzTUF6TWNlazhzaHUySlRaTFJzeE5Uam1MVWtoUmgyWW5vUGVhSVBKQkJEMWRtTGZ1N0RneEVJWEtHcTYybEpLSlJtaHYtSkhybm5aSzRzR3J4dUhrc0wxSmdkVVVmRHVpUjB6RlA5bVhvbGdqNnY0UWYtMHRISFE0SjVkN2Y4amxrbURKTmpCdGdPN1drRlBueVBj?oc=5)
+### [Identifican subtipos de diabetes tipo 2 en Cataluña - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU25lOWRuZDVlTG1CaXdwdk9iRks5LUNkLXQ0MWplaGMwZWhCX3pOUlc0QTFqbm43UWVaZ29XT2x3bk1qak9oSVpiNVI2cVJjRERmb2xwNXdVeGNfM214WWRrTU96Z0JRem1uQldLbURFODR4WnAwTmtqODB2TjlNbUduWDZpUkNwNm8tSUpPdmY?oc=5)
 
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-06-04 <span class="news-indication-tag">diabetes</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiowFBVV95cUxQempfRUR0SHUzTUF6TWNlazhzaHUySlRaTFJzeE5Uam1MVWtoUmgyWW5vUGVhSVBKQkJEMWRtTGZ1N0RneEVJWEtHcTYybEpLSlJtaHYtSkhybm5aSzRzR3J4dUhrc0wxSmdkVVVmRHVpUjB6RlA5bVhvbGdqNnY0UWYtMHRISFE0SjVkN2Y4amxrbURKTmpCdGdPN1drRlBueVBj?oc=5)
+來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU25lOWRuZDVlTG1CaXdwdk9iRks5LUNkLXQ0MWplaGMwZWhCX3pOUlc0QTFqbm43UWVaZ29XT2x3bk1qak9oSVpiNVI2cVJjRERmb2xwNXdVeGNfM214WWRrTU96Z0JRem1uQldLbURFODR4WnAwTmtqODB2TjlNbUduWDZpUkNwNm8tSUpPdmY?oc=5)
+
+---
+
+### [Prädiabetes: Sechs unterschätzte Warnsignale erkennen und handeln - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQblBkY1hKZ19nN1g5bVZXeHl0ckQ3bzRVbTFpSlA4ZkhIbzd2R21yVzBtY2xjbms5TncyRzE4c1IxZnhtZnI5REpZTWtBODlKdzgzdVNfOHhCRWlMRVk2ZWp2NWotUDVWUy1mYjRJTDRKUmNFd3NVZHJVMU5DekJzUS1RWnl4RVBjZjhlU0otRWIxcUxEd3dVZ1dJR19ub1pTQVh2eHBFOC03T2lLcUlhekxtMlVtdw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQblBkY1hKZ19nN1g5bVZXeHl0ckQ3bzRVbTFpSlA4ZkhIbzd2R21yVzBtY2xjbms5TncyRzE4c1IxZnhtZnI5REpZTWtBODlKdzgzdVNfOHhCRWlMRVk2ZWp2NWotUDVWUy1mYjRJTDRKUmNFd3NVZHJVMU5DekJzUS1RWnl4RVBjZjhlU0otRWIxcUxEd3dVZ1dJR19ub1pTQVh2eHBFOC03T2lLcUlhekxtMlVtdw?oc=5)
+
+---
+
+### [Más allá de los sofocos: cómo afecta la menopausia a la salud cardiovascular - Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
 
 ---
 
@@ -78,19 +94,19 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Immunité, glycémie, poids… Voici pourquoi il est essentiel d'entretenir sa masse musculaire - Europe 1](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlJ2V3lYbWtqMHlUSU1ENUZRY2RQSVUtbmg5dkxNQi12T2lFWjRCTlFxdGloMG8xZWRuUnQwb0VMLTg0clBKSjNVTTJJdXBPOHhHZEhfbTluZWlBVG1CU1FxeS1qWnhuVS1FVFhVY09QT1VHaXZQODlGWWVrWTJmVE5OU2dOU1YwR1Y4REFZQVdEc0VOakJhMk56WDVoVlJDb1dLcjd6Yk1PS0VORnpoWnI3aDdXeTFPSWhjcEQ3OG0?oc=5)
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
-2026-06-03 <span class="news-indication-tag">diabète</span>
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[Europe 1](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlJ2V3lYbWtqMHlUSU1ENUZRY2RQSVUtbmg5dkxNQi12T2lFWjRCTlFxdGloMG8xZWRuUnQwb0VMLTg0clBKSjNVTTJJdXBPOHhHZEhfbTluZWlBVG1CU1FxeS1qWnhuVS1FVFhVY09QT1VHaXZQODlGWWVrWTJmVE5OU2dOU1YwR1Y4REFZQVdEc0VOakJhMk56WDVoVlJDb1dLcjd6Yk1PS0VORnpoWnI3aDdXeTFPSWhjcEQ3OG0?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
 ---
 
-### [Wissenswerte - Metabolischer BMI zeigt Gesundheitsrisiko an - rbb24 Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2NsTkRTUy1IcXI0SHVCSU9OUVZrYkE5bGRPazB4SFlKZjhDVzBFMDh4S1JZR2pSSHNDZHVtRHUyazJpX1BKYnFsXzZiUFVIS3dveHNMSG1Tdm9UczNhekNOTkc1cHZxd0djZndwYmdwQmkzZEpaNDNMT2JVZGVpUEdONlR3b2huTVM4aTJuN0x0OEk2UEJIaXlpdlRoQlRTRHFjMVVIRmdibVdHdkdURWxRbzhOZmdEQnc?oc=5)
+### [Immunité, glycémie, poids… Voici pourquoi il est essentiel d'entretenir sa masse musculaire - Europe 1](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlJ2V3lYbWtqMHlUSU1ENUZRY2RQSVUtbmg5dkxNQi12T2lFWjRCTlFxdGloMG8xZWRuUnQwb0VMLTg0clBKSjNVTTJJdXBPOHhHZEhfbTluZWlBVG1CU1FxeS1qWnhuVS1FVFhVY09QT1VHaXZQODlGWWVrWTJmVE5OU2dOU1YwR1Y4REFZQVdEc0VOakJhMk56WDVoVlJDb1dLcjd6Yk1PS0VORnpoWnI3aDdXeTFPSWhjcEQ3OG0?oc=5)
 
-2026-06-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Fettleibigkeit</span>
+2026-06-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
-來源：[rbb24 Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2NsTkRTUy1IcXI0SHVCSU9OUVZrYkE5bGRPazB4SFlKZjhDVzBFMDh4S1JZR2pSSHNDZHVtRHUyazJpX1BKYnFsXzZiUFVIS3dveHNMSG1Tdm9UczNhekNOTkc1cHZxd0djZndwYmdwQmkzZEpaNDNMT2JVZGVpUEdONlR3b2huTVM4aTJuN0x0OEk2UEJIaXlpdlRoQlRTRHFjMVVIRmdibVdHdkdURWxRbzhOZmdEQnc?oc=5)
+來源：[Europe 1](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlJ2V3lYbWtqMHlUSU1ENUZRY2RQSVUtbmg5dkxNQi12T2lFWjRCTlFxdGloMG8xZWRuUnQwb0VMLTg0clBKSjNVTTJJdXBPOHhHZEhfbTluZWlBVG1CU1FxeS1qWnhuVS1FVFhVY09QT1VHaXZQODlGWWVrWTJmVE5OU2dOU1YwR1Y4REFZQVdEc0VOakJhMk56WDVoVlJDb1dLcjd6Yk1PS0VORnpoWnI3aDdXeTFPSWhjcEQ3OG0?oc=5)
 
 ---
 

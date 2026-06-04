@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
 
-### [Aurelio Rojas, cardiólogo: "El ibuprofeno es uno de los peores fármacos para el corazón" - Gaceta de salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT3U4T3B2SktfTTlYUU4wbnE3TXk4M29IbFhORV9BNFZQMVN2YWxrWHlHSnFYemtvRDhQdmxHWUticUVobXhSZVF6ZnFiZjZDcHNJOEpOR05UazdOcDMxN3B2LVdwdjRzaFN0VkVwS2VIWWlWR2pOWnNjS25MSnRuTmlYSkowaU9aWGJ1ZVVRTGd0dkNqVjZIdUdlR0U1TEJ1TDdhM0VhbW56bnNlNkVTbXVDWnltRW1FYUZMLTlYUTJEZS1kYV9Wa1RYWXhtRC1fQnAzVkZsT0tHUUJFQlowU2ZBOWpORUNVdmlrVGl3?oc=5)
+### [Aurelio Rojas, cardiólogo: "El consumo de ibuprofeno para dolores de corazón, aumenta el riesgo de infarto y trombosis"](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMC1WS05mVy1VOXlZTVczektHU1RSSHhvc0tyUWVodGJZeG1XaE9ZTUh0Mlk3VXl1WHMxTjBYNHNOS09DZ1FidzNveGp3RHJUblBZTm1TeTk3ZUkwdW01RXNGQTVUX3lXeFVQQlRKZWI5ZHhpME43LXd0QktPX0lHcTg0bFNXZFN2SkNuMGlYSXdNUmdDeUpWeTd3Z0dXOTA0T3BvdlY0U3FFa3M2VVlUel9ydTJ3X1prZlB2Q1pmQk9MdTNGelZsSjc1WFRZTVJ3akk0VlBOYVhMRFFUUlNlUnk5TDJvMkplVmRPMHpsaGFGY2l0U0hralVscllFZUnSAYQCQVVfeXFMT1l3Y2k0aTFXcVVYOWREaFNUdWJqcHJ6OWVVSjMxSFJNOFJFSGVXdHNVcjkzY1ZmbWQzaEoxZWFpa2RhaTl4cW1MaWtQZk5zSW9Dc2lzUmVOT1Z1OGpwNXROU2lVdEI4bmRVVUdESjVOTS1Gd3VrbWc2YnNIWkh2YTg4d2NWWG5rQ3J4R014cWY2RGNRaWZDV3IwTE45TU5HcEhMNGtOV2ZvbGpYUXRibzhvUFVTXzctSERwVUR4aGtjdmtTWEZjd2VLQl9iM1N5bDQ3S2pZZXpyY2p1bU5hRzlXRU0wY2w1TjhxWUlUam9tMjctbUFOUEhZcWZnakt1NjVldnM?oc=5)
 
-2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT3U4T3B2SktfTTlYUU4wbnE3TXk4M29IbFhORV9BNFZQMVN2YWxrWHlHSnFYemtvRDhQdmxHWUticUVobXhSZVF6ZnFiZjZDcHNJOEpOR05UazdOcDMxN3B2LVdwdjRzaFN0VkVwS2VIWWlWR2pOWnNjS25MSnRuTmlYSkowaU9aWGJ1ZVVRTGd0dkNqVjZIdUdlR0U1TEJ1TDdhM0VhbW56bnNlNkVTbXVDWnltRW1FYUZMLTlYUTJEZS1kYV9Wa1RYWXhtRC1fQnAzVkZsT0tHUUJFQlowU2ZBOWpORUNVdmlrVGl3?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMC1WS05mVy1VOXlZTVczektHU1RSSHhvc0tyUWVodGJZeG1XaE9ZTUh0Mlk3VXl1WHMxTjBYNHNOS09DZ1FidzNveGp3RHJUblBZTm1TeTk3ZUkwdW01RXNGQTVUX3lXeFVQQlRKZWI5ZHhpME43LXd0QktPX0lHcTg0bFNXZFN2SkNuMGlYSXdNUmdDeUpWeTd3Z0dXOTA0T3BvdlY0U3FFa3M2VVlUel9ydTJ3X1prZlB2Q1pmQk9MdTNGelZsSjc1WFRZTVJ3akk0VlBOYVhMRFFUUlNlUnk5TDJvMkplVmRPMHpsaGFGY2l0U0hralVscllFZUnSAYQCQVVfeXFMT1l3Y2k0aTFXcVVYOWREaFNUdWJqcHJ6OWVVSjMxSFJNOFJFSGVXdHNVcjkzY1ZmbWQzaEoxZWFpa2RhaTl4cW1MaWtQZk5zSW9Dc2lzUmVOT1Z1OGpwNXROU2lVdEI4bmRVVUdESjVOTS1Gd3VrbWc2YnNIWkh2YTg4d2NWWG5rQ3J4R014cWY2RGNRaWZDV3IwTE45TU5HcEhMNGtOV2ZvbGpYUXRibzhvUFVTXzctSERwVUR4aGtjdmtTWEZjd2VLQl9iM1N5bDQ3S2pZZXpyY2p1bU5hRzlXRU0wY2w1TjhxWUlUam9tMjctbUFOUEhZcWZnakt1NjVldnM?oc=5)
+
+---
+
+### [BBC doctor warning on taking naproxen, metformin and letharoxine - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGRnU253Qm1uVk8teHBMRXQ1VEoxTERoVUQzNks0NjgzNkZOalFVQXBiUWVSOXprdlh4TEJULVJrd0t1ZTNTV3FsdmNqd1FnNnJ4LXV6ZGVaUVJYNEpWZ0FjZUkxQXpncng0V3lTMDBCeEJHM3NNOUZVSzl6UzRpTWFDbGVGZzA?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGRnU253Qm1uVk8teHBMRXQ1VEoxTERoVUQzNks0NjgzNkZOalFVQXBiUWVSOXprdlh4TEJULVJrd0t1ZTNTV3FsdmNqd1FnNnJ4LXV6ZGVaUVJYNEpWZ0FjZUkxQXpncng0V3lTMDBCeEJHM3NNOUZVSzl6UzRpTWFDbGVGZzA?oc=5)
+
+---
+
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+---
+
+### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
 
 ---
 

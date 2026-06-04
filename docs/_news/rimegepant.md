@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Más allá de los sofocos: cómo afecta la menopausia a la salud cardiovascular - Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
+
+---
+
+### [Lower cancer and heart disease risk with two tablespoons of one daily food - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
+
+---
 
 
 <div class="disclaimer">

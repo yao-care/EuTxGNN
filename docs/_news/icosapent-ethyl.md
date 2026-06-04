@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li>heart disease（98.0%）</li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 heart disease</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,9 +52,31 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+---
+
+### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
+
+---
+
+### [Lower cancer and heart disease risk with two tablespoons of one daily food - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
+
+---
 
 
 <div class="disclaimer">

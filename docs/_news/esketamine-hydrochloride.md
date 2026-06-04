@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Lange vor den ersten Symptomen: So verrät sich Alzheimer bereits ab den 40ern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
+
+---
 
 
 <div class="disclaimer">

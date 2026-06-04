@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（19 則）
+
+### [La EMA y las agencias africanas evalúan siete candidatos contra el brote de virus Bundibugyo](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
+
+---
+
+### [MS-Diagnose: Bluttest mit 94% Genauigkeit sechs Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmtRWFRqOHIza2dVbHlVckNKZGlQWVJzY0hVQnpXUC0xWS1mRW92ejlJUm82eDJSNU1FZHpkZXQ0akJzemswOVVVV3lIVnVnb3ZRSXdqMnVrSUpEcV9qOHZnYmNTZDMyOUZUaU9IVlE5ZFV4UmhZdk1tVWFhQXVjVlBXaTdibHZ2VEdTUWNfQjRFNjF6NXg1d1NVb0RiZ1Fua1Iycl9zbWdsbW1HMFd5QzZwSHV3YjA?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmtRWFRqOHIza2dVbHlVckNKZGlQWVJzY0hVQnpXUC0xWS1mRW92ejlJUm82eDJSNU1FZHpkZXQ0akJzemswOVVVV3lIVnVnb3ZRSXdqMnVrSUpEcV9qOHZnYmNTZDMyOUZUaU9IVlE5ZFV4UmhZdk1tVWFhQXVjVlBXaTdibHZ2VEdTUWNfQjRFNjF6NXg1d1NVb0RiZ1Fua1Iycl9zbWdsbW1HMFd5QzZwSHV3YjA?oc=5)
+
+---
+
+### [Demenzprävention: Pflanzenkost senkt Risiko um bis zu 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQi1xSkRhX0NDRS01NXRQZ2doZXdqX2kyblNVWHIxcEwwMkcxTmEyQlN3c1F0d3V4aVl2b09SU21uWDdBcUhXbm5uRW54MFhKZ1BDdGJfcDFmemgtUUlxNG5jRmIyTlhUelZqYTN6RmFjaG9sWFBtb3UwNkVOemotSmFwOHh5R2g0OTdPQkRMQ1Z6V1pwdVY0TmtDYzlFRmtBSVh4UkVSNUt5RVFBcVhNVG9WOA?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQi1xSkRhX0NDRS01NXRQZ2doZXdqX2kyblNVWHIxcEwwMkcxTmEyQlN3c1F0d3V4aVl2b09SU21uWDdBcUhXbm5uRW54MFhKZ1BDdGJfcDFmemgtUUlxNG5jRmIyTlhUelZqYTN6RmFjaG9sWFBtb3UwNkVOemotSmFwOHh5R2g0OTdPQkRMQ1Z6V1pwdVY0TmtDYzlFRmtBSVh4UkVSNUt5RVFBcVhNVG9WOA?oc=5)
+
+---
+
+### [Abnehmmedikamente senken Brustkrebsrisiko laut Studie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
+
+2026-06-04 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
+
+---
+
+### [Lange vor den ersten Symptomen: So verrät sich Alzheimer bereits ab den 40ern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
+
+---
 
 ### [Ebola, Oms: "Entro 2-3 settimane al via test con farmaco preventivo"](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdExYLTJzOGd6RERLQ01QM0lNRFpHbmItLVFYbEdaUXFYa0xXaVI2SlVEMmF4dlEta3IxOGdsbHI3QzFld2l4VXBXSzlIU2JBWmoxZ2pmZENqZWRNZzNBLU1uU0IzRmZWcWZHNUlUY2szWXk1bTBXSlJoa2xiZENJNVdXQ3oza2EyWW9zNlQ2S0xudmphOEU3Uzh0Y9IBaEFVX3lxTE1nVzJ2TnNfaVJGMXg4d09BYWljbGFKOTJ2cDRRM0VuUGhRbUI0clpvYS1GVkpPWEV5X2ZsSzh3N0dpRFlZWXdSdG5jUlBDamJhMVJmVUVGOVRBa0EwNzNtdk5IN1V2Tjdx?oc=5)
 
@@ -70,6 +110,22 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [The 2 hours-a-week weights plan - The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxONVVDMFRhMERNV3dnVncyVEZFZkJpYlRFaUVYZ25EZUpPWUlhdU9zbG5YSGdoZmVCVTEwemlBZ3J5bzFDXy1Ka2NIeVdYeGJ1SVhTdkUtMWhkclRYV0hmTlBuYUp6VldDNUctTXdSQzZldkJFOXdmUC1pd3R0OWIxRWpxMkZDNHNRN3RxMnd2YzJRcTNNNFljejNwcGRKeXRMaTh5RGZKTTFyQThMNWw0aWFPR1JobUJfdHJMNXk5OA?oc=5)
+
+2026-06-03 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxONVVDMFRhMERNV3dnVncyVEZFZkJpYlRFaUVYZ25EZUpPWUlhdU9zbG5YSGdoZmVCVTEwemlBZ3J5bzFDXy1Ka2NIeVdYeGJ1SVhTdkUtMWhkclRYV0hmTlBuYUp6VldDNUctTXdSQzZldkJFOXdmUC1pd3R0OWIxRWpxMkZDNHNRN3RxMnd2YzJRcTNNNFljejNwcGRKeXRMaTh5RGZKTTFyQThMNWw0aWFPR1JobUJfdHJMNXk5OA?oc=5)
+
+---
+
+### [Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
+
+2026-06-03 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
+
+---
+
 ### [Medizintalk: Multiple Sklerose: Von der Diagnose bis zu modernen Therapien - Kölner Stadt](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkVpQXNmWWtPMGNJOEtsMTNiSjREdDJoUHV1UlZtaklHcjJxN0UtTERDUWtMVnlBS3lISzQzR0l6UnNTanpuU00yOWZzTnJFLUwybTFvX01DdDlHVFd3NzdxZFNlbnVsOGxfdDFyVWp1MGxJajR0UXNpYmJ3cFNib1ptM3BHaTk1YllqdTdIaC1SOFBNZFBXaFBlQUtDRmFSUTctMVZhZ2NRMXFuNkVnYzhGMTNGVlh4anNjZw?oc=5)
 
 2026-06-03 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
@@ -78,11 +134,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Los expertos reclaman una respuesta interdisciplinar para proteger a la población del impacto del cambio climático - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJ0cVQ4NjlIUlRSbUhrV1RCZENuNFVJYTJ2bE1kSjdVRlZqdnFJVEFtZXpWWHFvSng0RVV3aXktY3J0R0s1Mk9COTBIc2VJWUppYXNneURXM3Z5QXpES3JOWTRwU3o2OTg3dzFxdmVHVXlPU3BWNkhQYzNxSEMxckxNNmtMRlljTFBXaHhXTFUzVHZneGtiX04xM1ZWQWRMakh1UkVSN1p5UXkzc0w4aEJ5WQ?oc=5)
+### [I started chemotherapy at 27 weeks pregnant — no one can say I gave up](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSl9fcjBuS2huVTIxR1ZFdHdMbTRDMFF6Q3d3U2p3aW14UUQ2WFdZQjlXSVJqRWk4U19BM1hqbDRYT1RsNC1Yak02a2ZubFRyamtHeEt2QjhsZ2xyYzNkZ3dvLWttUUxSRTZia2NCajJ3cGdyS0ZGNlhnR0l5cnlrS3ZPOGR1SzNPZDRMaU15ZkNXajg4dnU4Q3RJWFRLQnIx0gGmAUFVX3lxTE4wUEw0Qk9qUy1xdDRKb0s3ekxLSzlFN2lWTUx3S00walY3QlZ3dDRGd0JGb3Y2c0VudUZsM1NjeWhUX2t1QXhjY19WdFRuUUJQa2RTQTBIWERHaTJtUDhwVnFFWnJabERsRGtRZFVXMkNYU0x2R2pBenpjQktrTTZrMlNXeGFfR3NyZ1VoaEN3aXdSNFlNbzdDQXZ6M19QM3NGTjJiVkE?oc=5)
 
-2026-06-03 <span class="news-indication-tag">MS</span>
+2026-06-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEJ0cVQ4NjlIUlRSbUhrV1RCZENuNFVJYTJ2bE1kSjdVRlZqdnFJVEFtZXpWWHFvSng0RVV3aXktY3J0R0s1Mk9COTBIc2VJWUppYXNneURXM3Z5QXpES3JOWTRwU3o2OTg3dzFxdmVHVXlPU3BWNkhQYzNxSEMxckxNNmtMRlljTFBXaHhXTFUzVHZneGtiX04xM1ZWQWRMakh1UkVSN1p5UXkzc0w4aEJ5WQ?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSl9fcjBuS2huVTIxR1ZFdHdMbTRDMFF6Q3d3U2p3aW14UUQ2WFdZQjlXSVJqRWk4U19BM1hqbDRYT1RsNC1Yak02a2ZubFRyamtHeEt2QjhsZ2xyYzNkZ3dvLWttUUxSRTZia2NCajJ3cGdyS0ZGNlhnR0l5cnlrS3ZPOGR1SzNPZDRMaU15ZkNXajg4dnU4Q3RJWFRLQnIx0gGmAUFVX3lxTE4wUEw0Qk9qUy1xdDRKb0s3ekxLSzlFN2lWTUx3S00walY3QlZ3dDRGd0JGb3Y2c0VudUZsM1NjeWhUX2t1QXhjY19WdFRuUUJQa2RTQTBIWERHaTJtUDhwVnFFWnJabERsRGtRZFVXMkNYU0x2R2pBenpjQktrTTZrMlNXeGFfR3NyZ1VoaEN3aXdSNFlNbzdDQXZ6M19QM3NGTjJiVkE?oc=5)
 
 ---
 
@@ -102,19 +158,19 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Lange vor den ersten Symptomen: So verrät sich Alzheimer bereits ab den 40ern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmVnYVFKcG84T3hDZmRncmpIdlYxUTFLR0ptNi1rUVZoVGcxMnBWcldYaWF1c1BsbjI0NVNSQ0RfYjlxenhWZHVqak5DQkdfOEZUejRYSkpxNHo3VFB1ek5jTHVuTWhxMUwzSFFPTURGYVFIcldVY09RaU1NV0tvNURDS3hKR0RvODFDYzFyazF0S3dRTFNReUh3NmRiNGpzdGhwcg?oc=5)
-
-2026-06-03 <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmVnYVFKcG84T3hDZmRncmpIdlYxUTFLR0ptNi1rUVZoVGcxMnBWcldYaWF1c1BsbjI0NVNSQ0RfYjlxenhWZHVqak5DQkdfOEZUejRYSkpxNHo3VFB1ek5jTHVuTWhxMUwzSFFPTURGYVFIcldVY09RaU1NV0tvNURDS3hKR0RvODFDYzFyazF0S3dRTFNReUh3NmRiNGpzdGhwcg?oc=5)
-
----
-
 ### [Samsung und das Massachusetts General Hospital starten gemeinsame Studie zu Stoffwechseltherapien](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
 
 2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[samsung.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
+
+---
+
+### [Two men charged with trying to smuggle vials of mpox virus into the US - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
+
+2026-06-03 <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
 
 ---
 
@@ -126,27 +182,27 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Multiple Sklerose: Acht Blutproteine zeigen Ausbruch sechs Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXRLTlA3MFF6b0dZQkZCcEs4aklHTnU3QzVjZ2R5S3BHRHR6aVVFSkhvdGxmd21oclZ0RV9hUEVlOHQ2SG9abkktUlg1d1FBOUpCeWd2N1pqcW1TUkdibXlFRWc3bFlOcTJUeG1LeTMwTFN5VXBxb1NnREx5MEJLR001WDJNODI0X3I0X0pQUVotd0lXM291ZzNFNDBqTTZpcVdseW5CWURWM2YwS3hDYXRTWS1aTnd6V1NFOA?oc=5)
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
-2026-06-02 <span class="news-indication-tag">MS</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXRLTlA3MFF6b0dZQkZCcEs4aklHTnU3QzVjZ2R5S3BHRHR6aVVFSkhvdGxmd21oclZ0RV9hUEVlOHQ2SG9abkktUlg1d1FBOUpCeWd2N1pqcW1TUkdibXlFRWc3bFlOcTJUeG1LeTMwTFN5VXBxb1NnREx5MEJLR001WDJNODI0X3I0X0pQUVotd0lXM291ZzNFNDBqTTZpcVdseW5CWURWM2YwS3hDYXRTWS1aTnd6V1NFOA?oc=5)
-
----
-
-### [Sclerosi multipla, a Livorno tre diagnosi al mese: «Ma adesso si può controllare» - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1B1dnQ3RVVSZjZ5bnZUVlRnZ1ZwdjRsUTQ0RFZUUHNDQmhqNGFtZ1V2dUxUS2U5VjVYeEVJbzBkYjBYcHZMcTNiVnpWRF9LNUNka3VwWUE2TkU2NTFWWC1ISF9mTG4tcUF5blpvamxPODZCb2pjaUxaX1Izay1YeDhPa1ptajlOdDNZa2gzeEpBdS1pemJsLVNWLTFUankxd1dMZk5iLVhmSG5zdTgxSlljb3dnOFZWRTR4cGFMMmNFUFAzX18xZ1JSRDBLN1ZLcy13b2padnhjUG93aVBB?oc=5)
-
-2026-06-02 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1B1dnQ3RVVSZjZ5bnZUVlRnZ1ZwdjRsUTQ0RFZUUHNDQmhqNGFtZ1V2dUxUS2U5VjVYeEVJbzBkYjBYcHZMcTNiVnpWRF9LNUNka3VwWUE2TkU2NTFWWC1ISF9mTG4tcUF5blpvamxPODZCb2pjaUxaX1Izay1YeDhPa1ptajlOdDNZa2gzeEpBdS1pemJsLVNWLTFUankxd1dMZk5iLVhmSG5zdTgxSlljb3dnOFZWRTR4cGFMMmNFUFAzX18xZ1JSRDBLN1ZLcy13b2padnhjUG93aVBB?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
 ---
 
-### [Pflanzliche Ernährung als MS-Begleittherapie: 7% weniger Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdW1jNmx5SmdObjhWT0s4bk1KZmlkaVNNWFNVSkU5OHNMaHVFUjBDREQySjIzX2x1X25yeS12djRkSmVBQWFsMnlzM2QyUjRjaVctUUpCNFlOU3V4anRER08zUEk5Zmx3V0VkY1Q4cjdST1gzcF9odl9ZaE9UbVRmVGdZNVpMeGVlNnZNTE5UaHFTMkNDdmJreHh6TWs3QlRLQmc?oc=5)
+### [Ce légume est celui qui contient le plus de pesticides](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGRTR2RmRHViUEwtSFJiRG9HVko5Y2hyYmRmZHplLXhTbUdWYlVHbGdUZFYxcmZTY2FQQk96YzdacTh6eWZxZWU4ZUZWRXVqcWhnVVFVU3dNUFlKQXpCNnJ5bk9KMWV2T3M0SGc1VGMxMmJuX3R1ZC1JcDFwaEY0ZkxXZzM2RUtiN0hwRTRYVWMxOTJ5TC0wVFIzZG5XNThNOFdRREZ0bE01TEt2eExtX08tZUN5elRWZHBYbmdMZFFWaG1CaGgySkdQYWU3SEU?oc=5)
 
 2026-06-02 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdW1jNmx5SmdObjhWT0s4bk1KZmlkaVNNWFNVSkU5OHNMaHVFUjBDREQySjIzX2x1X25yeS12djRkSmVBQWFsMnlzM2QyUjRjaVctUUpCNFlOU3V4anRER08zUEk5Zmx3V0VkY1Q4cjdST1gzcF9odl9ZaE9UbVRmVGdZNVpMeGVlNnZNTE5UaHFTMkNDdmJreHh6TWs3QlRLQmc?oc=5)
+來源：[parismatch.be](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGRTR2RmRHViUEwtSFJiRG9HVko5Y2hyYmRmZHplLXhTbUdWYlVHbGdUZFYxcmZTY2FQQk96YzdacTh6eWZxZWU4ZUZWRXVqcWhnVVFVU3dNUFlKQXpCNnJ5bk9KMWV2T3M0SGc1VGMxMmJuX3R1ZC1JcDFwaEY0ZkxXZzM2RUtiN0hwRTRYVWMxOTJ5TC0wVFIzZG5XNThNOFdRREZ0bE01TEt2eExtX08tZUN5elRWZHBYbmdMZFFWaG1CaGgySkdQYWU3SEU?oc=5)
+
+---
+
+### [Genital herpes rising in England, despite overall drop in sexually transmitted infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
+
+2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="Riociguat 有什麼相關新聞？">
-<strong>Riociguat</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Riociguat</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/riociguat/
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（32 則）
+
+### [La EMA y las agencias africanas evalúan siete candidatos contra el brote de virus Bundibugyo](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
+
+---
+
+### [Hypertension : ces deux aliments faciles à cuisiner pourraient réduire le risque jusqu'à 30 % - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">hypertension</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
+
+---
 
 ### [So viele Stunden Schlaf senken das Risiko für Demenz – ärztliche Einschätzung - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUhCSzVfdWNfVmNQalp5NThDTUQ3bFNXdTNCZWxkVTl0dXlpRkQ4QVNKMHNpYWRVZVpYNzV1Ynd5Z3FVNWw1dlU4M2Nrai1nc1hXWTh1eWtYNERNVzVESEdfQnRRUzNvSkROSl8wM3VXalZzQ2NtMVpfZWV0ekMxMzVzQnc2SDZuSXF3X0ItSUdibW1lT1h1enZGZHJkS1NhTUxkVHQ0ZHgwdFRoYjFn?oc=5)
 
@@ -70,19 +86,59 @@ permalink: /news/riociguat/
 
 ---
 
-### [Vorhofflimmern und Diabetes – gefährliches Duo fürs Herz - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiowFBVV95cUxQempfRUR0SHUzTUF6TWNlazhzaHUySlRaTFJzeE5Uam1MVWtoUmgyWW5vUGVhSVBKQkJEMWRtTGZ1N0RneEVJWEtHcTYybEpLSlJtaHYtSkhybm5aSzRzR3J4dUhrc0wxSmdkVVVmRHVpUjB6RlA5bVhvbGdqNnY0UWYtMHRISFE0SjVkN2Y4amxrbURKTmpCdGdPN1drRlBueVBj?oc=5)
+### [Más allá de los sofocos: cómo afecta la menopausia a la salud cardiovascular - Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
 
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiowFBVV95cUxQempfRUR0SHUzTUF6TWNlazhzaHUySlRaTFJzeE5Uam1MVWtoUmgyWW5vUGVhSVBKQkJEMWRtTGZ1N0RneEVJWEtHcTYybEpLSlJtaHYtSkhybm5aSzRzR3J4dUhrc0wxSmdkVVVmRHVpUjB6RlA5bVhvbGdqNnY0UWYtMHRISFE0SjVkN2Y4amxrbURKTmpCdGdPN1drRlBueVBj?oc=5)
+來源：[Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
 
 ---
 
-### [Wenn Flüssigkeiten zu Gläsern werden - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NT0o4WW1lUkIwQzdkMkNRMDdMWmVuV3dWaDk3SmVFenowamhEd2xMa1Z3S0swanl1RmxJWnZ1VGJtdkRjcmViMVhUNA?oc=5)
+### [Aurelio Rojas, cardiólogo: "El consumo de ibuprofeno para dolores de corazón, aumenta el riesgo de infarto y trombosis"](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMC1WS05mVy1VOXlZTVczektHU1RSSHhvc0tyUWVodGJZeG1XaE9ZTUh0Mlk3VXl1WHMxTjBYNHNOS09DZ1FidzNveGp3RHJUblBZTm1TeTk3ZUkwdW01RXNGQTVUX3lXeFVQQlRKZWI5ZHhpME43LXd0QktPX0lHcTg0bFNXZFN2SkNuMGlYSXdNUmdDeUpWeTd3Z0dXOTA0T3BvdlY0U3FFa3M2VVlUel9ydTJ3X1prZlB2Q1pmQk9MdTNGelZsSjc1WFRZTVJ3akk0VlBOYVhMRFFUUlNlUnk5TDJvMkplVmRPMHpsaGFGY2l0U0hralVscllFZUnSAYQCQVVfeXFMT1l3Y2k0aTFXcVVYOWREaFNUdWJqcHJ6OWVVSjMxSFJNOFJFSGVXdHNVcjkzY1ZmbWQzaEoxZWFpa2RhaTl4cW1MaWtQZk5zSW9Dc2lzUmVOT1Z1OGpwNXROU2lVdEI4bmRVVUdESjVOTS1Gd3VrbWc2YnNIWkh2YTg4d2NWWG5rQ3J4R014cWY2RGNRaWZDV3IwTE45TU5HcEhMNGtOV2ZvbGpYUXRibzhvUFVTXzctSERwVUR4aGtjdmtTWEZjd2VLQl9iM1N5bDQ3S2pZZXpyY2p1bU5hRzlXRU0wY2w1TjhxWUlUam9tMjctbUFOUEhZcWZnakt1NjVldnM?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMC1WS05mVy1VOXlZTVczektHU1RSSHhvc0tyUWVodGJZeG1XaE9ZTUh0Mlk3VXl1WHMxTjBYNHNOS09DZ1FidzNveGp3RHJUblBZTm1TeTk3ZUkwdW01RXNGQTVUX3lXeFVQQlRKZWI5ZHhpME43LXd0QktPX0lHcTg0bFNXZFN2SkNuMGlYSXdNUmdDeUpWeTd3Z0dXOTA0T3BvdlY0U3FFa3M2VVlUel9ydTJ3X1prZlB2Q1pmQk9MdTNGelZsSjc1WFRZTVJ3akk0VlBOYVhMRFFUUlNlUnk5TDJvMkplVmRPMHpsaGFGY2l0U0hralVscllFZUnSAYQCQVVfeXFMT1l3Y2k0aTFXcVVYOWREaFNUdWJqcHJ6OWVVSjMxSFJNOFJFSGVXdHNVcjkzY1ZmbWQzaEoxZWFpa2RhaTl4cW1MaWtQZk5zSW9Dc2lzUmVOT1Z1OGpwNXROU2lVdEI4bmRVVUdESjVOTS1Gd3VrbWc2YnNIWkh2YTg4d2NWWG5rQ3J4R014cWY2RGNRaWZDV3IwTE45TU5HcEhMNGtOV2ZvbGpYUXRibzhvUFVTXzctSERwVUR4aGtjdmtTWEZjd2VLQl9iM1N5bDQ3S2pZZXpyY2p1bU5hRzlXRU0wY2w1TjhxWUlUam9tMjctbUFOUEhZcWZnakt1NjVldnM?oc=5)
+
+---
+
+### [Ebola spreads to new areas of DR Congo as outbreak widens - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTFIM0F0UHU4U010S0p1cGpBQlN6dWdhUVoyaWlpQzdiZm9HcWNmX3JSemZhWmE0UUpPVnp1T3hkU0x0cEg4NTdaUnJ6VjVrcVdxNFJTSWdQR290bUZ0WWxhdWFaYUwwck9YQkZpV1l5ejNkNzdyX3JualJJUDUzRkpuS00?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NT0o4WW1lUkIwQzdkMkNRMDdMWmVuV3dWaDk3SmVFenowamhEd2xMa1Z3S0swanl1RmxJWnZ1VGJtdkRjcmViMVhUNA?oc=5)
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTFIM0F0UHU4U010S0p1cGpBQlN6dWdhUVoyaWlpQzdiZm9HcWNmX3JSemZhWmE0UUpPVnp1T3hkU0x0cEg4NTdaUnJ6VjVrcVdxNFJTSWdQR290bUZ0WWxhdWFaYUwwck9YQkZpV1l5ejNkNzdyX3JualJJUDUzRkpuS00?oc=5)
+
+---
+
+### [Web-Seminar zu Ebolafieber - RKI](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ254OTJfLWJfQzVGN29obnItcHlFMzVqMXZ4M0lPR29feGVrU0I5TkZROWNhSDc3cVFJbndXWWs4dm5NV2ZkQ3JYMWRGdXBJU3NnYVlfalNlNVNyck53WGp5ZTFyLXBoMWF1SGNJSy04Y3h3QUltYVR6TEdzZl95eEZsNW1yTXBvTEl0OTM4Ry1IcGx2ZU9V?oc=5)
+
+2026-06-03 <span class="news-indication-tag">AF</span>
+
+來源：[RKI - Startseite](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ254OTJfLWJfQzVGN29obnItcHlFMzVqMXZ4M0lPR29feGVrU0I5TkZROWNhSDc3cVFJbndXWWs4dm5NV2ZkQ3JYMWRGdXBJU3NnYVlfalNlNVNyck53WGp5ZTFyLXBoMWF1SGNJSy04Y3h3QUltYVR6TEdzZl95eEZsNW1yTXBvTEl0OTM4Ry1IcGx2ZU9V?oc=5)
+
+---
+
+### [Wenn Flüssigkeiten zu Gläsern werden - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmJEWnhfVGQ4dllXODhwQXZoUHlaMGJQaUtBZmR5TVNobTgtYjVHZXRQVzVyVVlwMlhheXhKV3VlVFdFaEFmR0gxczBtZTRvY2hKSE91TFZ1ZFBzX0FTanNCZlk5S2NiM180QWhoRkRtT1llZEFMbEhWQ3ZDejY4VFVIVnhOZHNmT014WVFWN05DNlNaVkNoUmJ0TWs?oc=5)
+
+2026-06-03 <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmJEWnhfVGQ4dllXODhwQXZoUHlaMGJQaUtBZmR5TVNobTgtYjVHZXRQVzVyVVlwMlhheXhKV3VlVFdFaEFmR0gxczBtZTRvY2hKSE91TFZ1ZFBzX0FTanNCZlk5S2NiM180QWhoRkRtT1llZEFMbEhWQ3ZDejY4VFVIVnhOZHNmT014WVFWN05DNlNaVkNoUmJ0TWs?oc=5)
+
+---
+
+### [Medizin – Virchow-Preis für Pioniere im Kampf gegen Ebola](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxzcUN4MThxckJpOXVCeGVOSElpQzJaOVJtX2Z1YmtpckFfTzhLYTc4b19LNTkyWjVXRTlyV010S3RZdVVzWTFfeDNxbWwtYnc2Ung4RDFIeWtxcU5US2M3NjFlSTd6RmlRS2VtclVfdjQ2ZGxrVGJ3aHVzUnRMTDdWOXV6V3VxWkxHRDNGYTgwcUtTTWdkc0NLaEZ1VUcza2QtRzZB?oc=5)
+
+2026-06-03 <span class="news-indication-tag">AF</span>
+
+來源：[nd-aktuell.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxzcUN4MThxckJpOXVCeGVOSElpQzJaOVJtX2Z1YmtpckFfTzhLYTc4b19LNTkyWjVXRTlyV010S3RZdVVzWTFfeDNxbWwtYnc2Ung4RDFIeWtxcU5US2M3NjFlSTd6RmlRS2VtclVfdjQ2ZGxrVGJ3aHVzUnRMTDdWOXV6V3VxWkxHRDNGYTgwcUtTTWdkc0NLaEZ1VUcza2QtRzZB?oc=5)
+
+---
+
+### [Dithmarschen: Bluthochdruck ist ein ernst zu nehmender stiller Killer - Boyens Medien](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnh0Q1MyOFFSMjZ0cXItRl9oNzNLVEdoLXU4Ujh6NTV4RzVtYUkyWlZYUjlHNVAxVkxJdDgtSFJrZ2hsTzFXN2otajd4TGhXQmFUbVFQMHZEcnBlTnhaM0gwMXpRclctekE1VWk0ZmE1R3RMNGVFTHQzMEQxNmtkUGdLZk5Sa255Q25kNVM5aVB5bkNpMmM0Vnc4bFFZMWQ4NXRmY1FxWHRUaDBteFgzcXFBal9taWJNYVp4b0xpSGExQ3VFLWNZc2V3?oc=5)
+
+2026-06-03 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Boyens Medien](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnh0Q1MyOFFSMjZ0cXItRl9oNzNLVEdoLXU4Ujh6NTV4RzVtYUkyWlZYUjlHNVAxVkxJdDgtSFJrZ2hsTzFXN2otajd4TGhXQmFUbVFQMHZEcnBlTnhaM0gwMXpRclctekE1VWk0ZmE1R3RMNGVFTHQzMEQxNmtkUGdLZk5Sa255Q25kNVM5aVB5bkNpMmM0Vnc4bFFZMWQ4NXRmY1FxWHRUaDBteFgzcXFBal9taWJNYVp4b0xpSGExQ3VFLWNZc2V3?oc=5)
 
 ---
 
@@ -102,6 +158,14 @@ permalink: /news/riociguat/
 
 ---
 
+### [My sick paedophilic thoughts were so bad I wanted to be locked up - it’s a disorder that affects one million people - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDJheUNmOHQ3TDU3SXlIZ1p2aExBQ25mTUQwSDA1NG1aTDFVMkwwVGtCeGNqdjZtTElXQzlPZERRMmNiX3ZISU9UOFVhNWx1Zm5Ib0hINkNuS18yMHNqV2tVYVVXTmpzT0syTmpCTHdTZHprWUlFSERDY2dRYnVfX1JIR2U?oc=5)
+
+2026-06-03 <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDJheUNmOHQ3TDU3SXlIZ1p2aExBQ25mTUQwSDA1NG1aTDFVMkwwVGtCeGNqdjZtTElXQzlPZERRMmNiX3ZISU9UOFVhNWx1Zm5Ib0hINkNuS18yMHNqV2tVYVVXTmpzT0syTmpCTHdTZHprWUlFSERDY2dRYnVfX1JIR2U?oc=5)
+
+---
+
 ### [Fett-Trick schützt vor Zelltod - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcENMRnZnVkg1dmEwNGxKRDJLT3k5Uzd3OUNDS05KRjVXVGhDakdnaTladkkzeG16YjgtU3h4WGZTM0l6ZDlCUFdjQURiMDVFWnliSTNNNW1ZYXFYVERvdkt0SG9jX3pPU0VIMUYxMWRVNGd4Yi1WLW9aZ0ozdExXYm41X0doYnVFY1BtSHRfbnZRamM?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
@@ -110,11 +174,27 @@ permalink: /news/riociguat/
 
 ---
 
-### [Novo Nordisk lanza la píldora Wegovy para adelgazar en los Emiratos Árabes Unidos - Investing.com España](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMUVIREdSYmhiN3dXbGczMjBJY09jQ0dJazVwd3dTVWhKbmxHWDl1Ym9ibDdUVElVQXV0VWF4ZF9hQS1UV25DTmFYakFDaEJKajFuV1B4TW5MZk0xM1dqUHVGTDYxYXRoZld3bTJ6T016X0lHYV8tcVluUTBZM3BvZjNPWWRVRS1TdW9ib19uR052djZMMjhOdVY0cnZVOWNYYWh5Q21CSWE1NXRMZzc3SXNRSmhPQkFidWdEOUJmSW0zZm1FNFRZZmRkZUFsOXhkRzNJdl9PMThjQQ?oc=5)
+### [Breakthrough cancer injection to be tested in Portugal after “unprecedented” trial results - Portugal Resident](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEtBU3FNNTRSYmFZZTViS1h6Ti0wRDc3am0xaUI0azlvcEFaNkl6R1djb2RueDVwd3VkNk5XX2YzMTVacEdIaU1MVnR4TTF2QWJtNk5BU0c4R21vXzdsMHpYbjZUczVMNk5ib1FlcXlaZUo2MURLSnN3SkdpRmJBY1dpQk03R2pkRzJBR0xIZFd1RE82YnNGZFpsMWxqYTFmZnBCWlIwU1JqWnRaU2R6ejNjQUY2bUZsNG1Pb0lGcw?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Investing.com España](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMUVIREdSYmhiN3dXbGczMjBJY09jQ0dJazVwd3dTVWhKbmxHWDl1Ym9ibDdUVElVQXV0VWF4ZF9hQS1UV25DTmFYakFDaEJKajFuV1B4TW5MZk0xM1dqUHVGTDYxYXRoZld3bTJ6T016X0lHYV8tcVluUTBZM3BvZjNPWWRVRS1TdW9ib19uR052djZMMjhOdVY0cnZVOWNYYWh5Q21CSWE1NXRMZzc3SXNRSmhPQkFidWdEOUJmSW0zZm1FNFRZZmRkZUFsOXhkRzNJdl9PMThjQQ?oc=5)
+來源：[Portugal Resident](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEtBU3FNNTRSYmFZZTViS1h6Ti0wRDc3am0xaUI0azlvcEFaNkl6R1djb2RueDVwd3VkNk5XX2YzMTVacEdIaU1MVnR4TTF2QWJtNk5BU0c4R21vXzdsMHpYbjZUczVMNk5ib1FlcXlaZUo2MURLSnN3SkdpRmJBY1dpQk03R2pkRzJBR0xIZFd1RE82YnNGZFpsMWxqYTFmZnBCWlIwU1JqWnRaU2R6ejNjQUY2bUZsNG1Pb0lGcw?oc=5)
+
+---
+
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
+
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
+
+---
+
+### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury | Neuroscience - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
+
+2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
 
 ---
 
@@ -134,6 +214,14 @@ permalink: /news/riociguat/
 
 ---
 
+### [Los ‘apellidos’ del tumor revelan la clave del tratamiento en la oncología de precisión - EL PAÍS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTRtNlNkWHVtS3JYeWVFSElMNDFnbUlyd1ZXWUdXSDZZcTVwa28wZ1BFUWVNdlRxU2ZKVnFkTUxrbkNaZ1lPSkxsSXduTmJSdXB3bzA0bk5Qdlo2TjdZMHd6RTZvaU83S2U1SUF5NVdPNnhDUm5ZVmhaWjR0Sm9yRmdFNlRDVWZqUC1YWnFUX3ZDQmRMejlRd3o2MGZzVnNGczFtM2FjR1I5MkVEUHNSY1lXNkNLVFFHSDJIMElhVlZFNU9idTcycnc0YkJXMTVsOHJ2S9IB6AFBVV95cUxQd2c1enh1S1pMWkdMdFBHRGdxZ2IyOFhtVlVLWWFmZzM3V0JtU285b2xkdFZnaXQyTkRvVkRjWEhkT0Z3dm80UktSTVhNQU1jMHNDX0Y5ZTlGTFhoaW94ZWZZVXpYZXFZWE5MN0JhOS1nMEtkSmZYZThaOWxMTklJTDNsUks3QXFPZUl6ZlBUY2djMTZWRUpEMGVhbVE3YWxLcXltdlJMNGJuVmR0TEZVQmpDQUQ5TkdOVTFLWWhEU2xGNUhSa0hjZXdxS3NzQUkzQ0tuREtLVG5oRnBVU294cEZhTWU3Q0gw?oc=5)
+
+2026-06-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTRtNlNkWHVtS3JYeWVFSElMNDFnbUlyd1ZXWUdXSDZZcTVwa28wZ1BFUWVNdlRxU2ZKVnFkTUxrbkNaZ1lPSkxsSXduTmJSdXB3bzA0bk5Qdlo2TjdZMHd6RTZvaU83S2U1SUF5NVdPNnhDUm5ZVmhaWjR0Sm9yRmdFNlRDVWZqUC1YWnFUX3ZDQmRMejlRd3o2MGZzVnNGczFtM2FjR1I5MkVEUHNSY1lXNkNLVFFHSDJIMElhVlZFNU9idTcycnc0YkJXMTVsOHJ2S9IB6AFBVV95cUxQd2c1enh1S1pMWkdMdFBHRGdxZ2IyOFhtVlVLWWFmZzM3V0JtU285b2xkdFZnaXQyTkRvVkRjWEhkT0Z3dm80UktSTVhNQU1jMHNDX0Y5ZTlGTFhoaW94ZWZZVXpYZXFZWE5MN0JhOS1nMEtkSmZYZThaOWxMTklJTDNsUks3QXFPZUl6ZlBUY2djMTZWRUpEMGVhbVE3YWxLcXltdlJMNGJuVmR0TEZVQmpDQUQ5TkdOVTFLWWhEU2xGNUhSa0hjZXdxS3NzQUkzQ0tuREtLVG5oRnBVU294cEZhTWU3Q0gw?oc=5)
+
+---
+
 ### [Sonne in H-Alpha - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMif0FVX3lxTE45empRSUhRcFl3TG1Yb3RZc19kenFRVTlZM0VIR2ItUmJKMWFDa25yVVYxMDJtNDl0bWdheG96YW56dUozVXNNMEZ2UHBrZEFhWW9QZElTcTBhVVBSTmM3aUpCaEFEM0hkMTB4amZkdndhUWI5MGdlck9abmJjMDA?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
@@ -142,27 +230,43 @@ permalink: /news/riociguat/
 
 ---
 
-### [À quel point doit-on manger des fibres?](https://news.google.com/rss/articles/CBMipgFBVV95cUxPdy1Tck1mcnZGZldVbVBrSTF0RTE5aFlLVkhCaTdxYy01dnhIVHI0WjhYQ2E5N3U0UmdpRGlqQWxleG1zb1pCdThCU2lHMkUwcnZrbExQajBhT3E2bE1OVWpiRXBGQWlfQmhmVk9VLWVQT196bjdRYjlIQUF5dHlPVU8tZUlOeTVlOXVIVWRNMVpSRkNfU1plZUhteW00dmhEZElVQlNB?oc=5)
-
-2026-06-02 <span class="news-indication-tag">AFib</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMipgFBVV95cUxPdy1Tck1mcnZGZldVbVBrSTF0RTE5aFlLVkhCaTdxYy01dnhIVHI0WjhYQ2E5N3U0UmdpRGlqQWxleG1zb1pCdThCU2lHMkUwcnZrbExQajBhT3E2bE1OVWpiRXBGQWlfQmhmVk9VLWVQT196bjdRYjlIQUF5dHlPVU8tZUlOeTVlOXVIVWRNMVpSRkNfU1plZUhteW00dmhEZElVQlNB?oc=5)
-
----
-
-### [La miopía infantil pone en guardia a los ópticos: revisiones desde los 6 años](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWdPS1A1MDZ6RXRXU0tXdHMxcmd6cGtqZ3gyMG1COGkwRl9LcHAxUWZUZ2lzaW9wV1pkdG9QZ2FPVWJrNzFLbElPZFljd1p2VVBCaHlLZ3RINFRqRmJtTF9FQ2JoMDJIZWlJcGsxWkZNa0dVMnVjX3BDZkk5VGdxNlhuY1JuZERQeXdyVUhILXpvYXpfbHVtckJ3NV9vblhDcEE?oc=5)
+### [Ecografía pulmonar en pequeños rumiantes: aplicaciones prácticas para un diagnóstico rápido y fiable - Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnl0eGlpaC1QOUliTnEya2N3bnVQTWl2U2Q3dENhNmdTR2xlbFVBUDN6RXFOd2tUSHdzN0kzZHo5UTVVQThOZE9FT2htd2RaSjRVdnNSUnZhMHdaS0lIM1VnVlFCR1NVMkY5ekVfMl9iVUc4V3RseFJGUE51dE04T25OVXY4NzFndFctUjNnWU4zcXJkZWctTGVGY0ZXaXZyT2tKYU5GM3JUME9jdGszUXVEblVzeWtwTl9GdzZHaVlhV3UtWlMxc1d5c2t3MDg?oc=5)
 
 2026-06-02 <span class="news-indication-tag">AF</span>
 
-來源：[Modaengafas.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWdPS1A1MDZ6RXRXU0tXdHMxcmd6cGtqZ3gyMG1COGkwRl9LcHAxUWZUZ2lzaW9wV1pkdG9QZ2FPVWJrNzFLbElPZFljd1p2VVBCaHlLZ3RINFRqRmJtTF9FQ2JoMDJIZWlJcGsxWkZNa0dVMnVjX3BDZkk5VGdxNlhuY1JuZERQeXdyVUhILXpvYXpfbHVtckJ3NV9vblhDcEE?oc=5)
+來源：[Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnl0eGlpaC1QOUliTnEya2N3bnVQTWl2U2Q3dENhNmdTR2xlbFVBUDN6RXFOd2tUSHdzN0kzZHo5UTVVQThOZE9FT2htd2RaSjRVdnNSUnZhMHdaS0lIM1VnVlFCR1NVMkY5ekVfMl9iVUc4V3RseFJGUE51dE04T25OVXY4NzFndFctUjNnWU4zcXJkZWctTGVGY0ZXaXZyT2tKYU5GM3JUME9jdGszUXVEblVzeWtwTl9GdzZHaVlhV3UtWlMxc1d5c2t3MDg?oc=5)
 
 ---
 
-### [L'albicocca frutto "anticaldo": ricca di potassio, povera di sodio e utile per affrontare i raggi UV - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb1JHRzZpdnVXakE5azMxcWs5TEhiTDZVS1d6NTJGZ1NHOXotWnMxS3FNYXpTMTU4SGtpNDlpT2I5WFRtM2c2MG13OFpoUHdLLU9LWmJvRjc2dmpNNmdkT3dZMy1GdnI1NGRwYkxVcnE0Q0UyV1VBTHpqOU1nVU1yNVN4QmFSZlktWkQtNFdCLTV2aldlTlRxblpwX0w5N0lOekVUdzF5M192c1U0a2hqT1o4bnBXUERmT3ZaVll4Q0xFTWdZUU4yUnlNVjU4Wi1zSWZ3aVh6ajlrWS01Q01nVW9KWFI2N1hFUWVZUWdUYw?oc=5)
+### [Angus woman ‘fighting for life’ after being left unable to eat due to rare food allergy - The Courier](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX01iVXNvU2gtUEpEcnZxM2ZyYmd0UGdjOTROZUQ0YXhqRnMtOFVfVk56OWdZS1lyTkstN1dWUDZDVFJiLWhCZVp1MkMtQkJxRy1ONnF4SVZJOU9Yc2tZY2cxblZfcWY0a1pVdXRXbmFUTWUwQTMxTXlwMjlUQXVTcQ?oc=5)
 
 2026-06-02 <span class="news-indication-tag">AF</span>
 
-來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb1JHRzZpdnVXakE5azMxcWs5TEhiTDZVS1d6NTJGZ1NHOXotWnMxS3FNYXpTMTU4SGtpNDlpT2I5WFRtM2c2MG13OFpoUHdLLU9LWmJvRjc2dmpNNmdkT3dZMy1GdnI1NGRwYkxVcnE0Q0UyV1VBTHpqOU1nVU1yNVN4QmFSZlktWkQtNFdCLTV2aldlTlRxblpwX0w5N0lOekVUdzF5M192c1U0a2hqT1o4bnBXUERmT3ZaVll4Q0xFTWdZUU4yUnlNVjU4Wi1zSWZ3aVh6ajlrWS01Q01nVW9KWFI2N1hFUWVZUWdUYw?oc=5)
+來源：[The Courier](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX01iVXNvU2gtUEpEcnZxM2ZyYmd0UGdjOTROZUQ0YXhqRnMtOFVfVk56OWdZS1lyTkstN1dWUDZDVFJiLWhCZVp1MkMtQkJxRy1ONnF4SVZJOU9Yc2tZY2cxblZfcWY0a1pVdXRXbmFUTWUwQTMxTXlwMjlUQXVTcQ?oc=5)
+
+---
+
+### [El encuentro SAFE HEARTS PLAN: Young Scientists Engaging with Europe’s Cardiovascular Health Strategy acerca a jóvenes investigadores las políticas europeas de salud cardiovascular en Europa](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3dqNGhsRDlxR2tYbFlKOXdLOHpGSldGYXlJQnhud2RudHZtOWhzUGMzeHBDWHNnRDBwU1A2YzVnUHkybGEtNmRfMTU5TWN5VEFzQ1p1ek9DblFuSUtyZUZjdld6SUQzRWlpM0dTc0dHdzdpRkhUSmluT1c5ZG1zT2NhZUl1TEthMi02R3haZFpCN2tkblJmanZ2YTk1UVJPTGE2Z1NUdjVhMGgyT1l5RWRoejY3cFV5cmRfUTRqTEk?oc=5)
+
+2026-06-02 <span class="news-indication-tag">AF</span>
+
+來源：[cnic.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3dqNGhsRDlxR2tYbFlKOXdLOHpGSldGYXlJQnhud2RudHZtOWhzUGMzeHBDWHNnRDBwU1A2YzVnUHkybGEtNmRfMTU5TWN5VEFzQ1p1ek9DblFuSUtyZUZjdld6SUQzRWlpM0dTc0dHdzdpRkhUSmluT1c5ZG1zT2NhZUl1TEthMi02R3haZFpCN2tkblJmanZ2YTk1UVJPTGE2Z1NUdjVhMGgyT1l5RWRoejY3cFV5cmRfUTRqTEk?oc=5)
+
+---
+
+### [Could a gut microbe help reduce weight regain after dieting? New study suggests it might - The Conversation](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMm9Kb1pBZmozbF85SWZCcmtPa0JFaWk5S242b0Z0ZFZ4eU5IUi1zT0o5RmVOUkJ3LXFaS3pLMnBpM194b1k5bHBRUFI2U21MbkEzYjE1VTV6b0pBdXhFY3dKTmFuMjhRSkhYSnA1UTdfdGJaUldEeVhuZTB6QnRsVG43YlI3UnFiVF8wRnBkWTlqazhKYnh6UVZhekFQZF8xSk53cWpsc0ZMejMzVnZfaEVEOEE2a0VCcWRkV1hMQQ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMm9Kb1pBZmozbF85SWZCcmtPa0JFaWk5S242b0Z0ZFZ4eU5IUi1zT0o5RmVOUkJ3LXFaS3pLMnBpM194b1k5bHBRUFI2U21MbkEzYjE1VTV6b0pBdXhFY3dKTmFuMjhRSkhYSnA1UTdfdGJaUldEeVhuZTB6QnRsVG43YlI3UnFiVF8wRnBkWTlqazhKYnh6UVZhekFQZF8xSk53cWpsc0ZMejMzVnZfaEVEOEE2a0VCcWRkV1hMQQ?oc=5)
+
+---
+
+### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
+
+2026-06-02 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
 
 ---
 
@@ -190,11 +294,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Aurelio Rojas, cardiólogo: "El ibuprofeno es uno de los peores fármacos para el corazón" - Gaceta de salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT3U4T3B2SktfTTlYUU4wbnE3TXk4M29IbFhORV9BNFZQMVN2YWxrWHlHSnFYemtvRDhQdmxHWUticUVobXhSZVF6ZnFiZjZDcHNJOEpOR05UazdOcDMxN3B2LVdwdjRzaFN0VkVwS2VIWWlWR2pOWnNjS25MSnRuTmlYSkowaU9aWGJ1ZVVRTGd0dkNqVjZIdUdlR0U1TEJ1TDdhM0VhbW56bnNlNkVTbXVDWnltRW1FYUZMLTlYUTJEZS1kYV9Wa1RYWXhtRC1fQnAzVkZsT0tHUUJFQlowU2ZBOWpORUNVdmlrVGl3?oc=5)
+### [Genital herpes rising in England, despite overall drop in sexually transmitted infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
 
-2026-06-02 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">AF</span>
+2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT3U4T3B2SktfTTlYUU4wbnE3TXk4M29IbFhORV9BNFZQMVN2YWxrWHlHSnFYemtvRDhQdmxHWUticUVobXhSZVF6ZnFiZjZDcHNJOEpOR05UazdOcDMxN3B2LVdwdjRzaFN0VkVwS2VIWWlWR2pOWnNjS25MSnRuTmlYSkowaU9aWGJ1ZVVRTGd0dkNqVjZIdUdlR0U1TEJ1TDdhM0VhbW56bnNlNkVTbXVDWnltRW1FYUZMLTlYUTJEZS1kYV9Wa1RYWXhtRC1fQnAzVkZsT0tHUUJFQlowU2ZBOWpORUNVdmlrVGl3?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
 
 ---
 

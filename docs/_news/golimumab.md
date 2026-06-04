@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+---
+
+### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
+
+2026-06-02 <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
+
+---
 
 
 <div class="disclaimer">
