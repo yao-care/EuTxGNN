@@ -14,7 +14,7 @@ permalink: /news/spironolactone/
 ---
 
 <p class="key-answer" data-question="Spironolactone 有什麼相關新聞？">
-<strong>Spironolactone</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Spironolactone</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/spironolactone/
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（40 則）
+## 相關新聞（38 則）
 
-### [„Für ein längeres Leben“: 97-jähriger Krebsforscher erklärt, warum er nie satt vom Tisch aufsteht - smart up news](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWllN1RfdFloSlFpUXhxUDdpSHN6VUYwazlOZjFoOFU0bWoybk9vODZKRW1yWUg5Q3FFa01PdF9GejdpX2JsS0JOREZKYTMwWWE0MVhnMk9WSldvQVlTUWdzZWJIOW13WGtCSGJQTlhjRnFEREZGMlVSZmtZdVpFbWhfcG5EX05rVmptVnB0Zjd4UzlLeHh2SlVndFFmQ2R2WVE?oc=5)
+### [Pisa, intervento record: paziente salvato dal tumore quando sembrava quasi incurabile – Il “miracolo” del super team - Il Tirreno](https://news.google.com/rss/articles/CBMihwJBVV95cUxNYldEUlJVeFZ5T2x1SGkteHlyV2pFOFhrY1FVRFNXRkl0VTJyd1U4SEExOHlkUFFyU2p5dlplMlV6cVJ6Q1lXWGdQRmQyN0JGUG9zQ3oyTzZHa3pEMWpMem41NmE1a19jVUNWZ2NGR1g5TXRMSE5yWkxKUGJWZXQ1OFlEQi0xd3EzVjY2MGg5d1REOUFpcGJwOFlmSmxRYkpaeG9SNkxOZW1JTURmNjVNS2ZSd0U3ak84OFlybXdtWnRpaUM5ejNkcEJBMGJzSHdhREpacDdvdV82WkZQMnpHUEFHaUZKbWxFRXRJZ2JKRTZMVFVTVGFLNXFTc0llbVY2Q2pVOVozNA?oc=5)
 
-2026-06-04 <span class="news-indication-tag">Krebs</span>
+2026-06-04 <span class="news-indication-tag">carcinoma</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWllN1RfdFloSlFpUXhxUDdpSHN6VUYwazlOZjFoOFU0bWoybk9vODZKRW1yWUg5Q3FFa01PdF9GejdpX2JsS0JOREZKYTMwWWE0MVhnMk9WSldvQVlTUWdzZWJIOW13WGtCSGJQTlhjRnFEREZGMlVSZmtZdVpFbWhfcG5EX05rVmptVnB0Zjd4UzlLeHh2SlVndFFmQ2R2WVE?oc=5)
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMihwJBVV95cUxNYldEUlJVeFZ5T2x1SGkteHlyV2pFOFhrY1FVRFNXRkl0VTJyd1U4SEExOHlkUFFyU2p5dlplMlV6cVJ6Q1lXWGdQRmQyN0JGUG9zQ3oyTzZHa3pEMWpMem41NmE1a19jVUNWZ2NGR1g5TXRMSE5yWkxKUGJWZXQ1OFlEQi0xd3EzVjY2MGg5d1REOUFpcGJwOFlmSmxRYkpaeG9SNkxOZW1JTURmNjVNS2ZSd0U3ak84OFlybXdtWnRpaUM5ejNkcEJBMGJzSHdhREpacDdvdV82WkZQMnpHUEFHaUZKbWxFRXRJZ2JKRTZMVFVTVGFLNXFTc0llbVY2Q2pVOVozNA?oc=5)
+
+---
+
+### [España logrará el nuevo tratamiento frente a cáncer de páncreas en dos años - Redacción Médica](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQU5SaEUxdnpkWXR1RXFMSlpIelFkUGxvcWEzd016TW1hMVU1Q3VWeGJqbGRCNUZ3RnpiNlFJWTIwa0phMHpDRm9aa1lfNHc4akpCYUlwSVVaV1ZBMUN2WFpsOEhkdmdUT2NTR3RDOWpnUXVfb3YzM1YwWExtczBOVjY3bzR5YUY1U2xVUEs1WXQ3SEJmZ2hEakZwb2d0bmgyRmtfZHBLMS1xWnBKWWpWOUhUTjBmV0FQTngwR3pOOHdhOURfZ01ySVNPY0NRc3Y0SUc2bHBB0gHWAUFVX3lxTE9iZHlnU1F4ZUpwS3dnRUNWZ0ZvVG5OM0F0OWRXeVFoR2pNUi1OMDdDWm5oQzJtcGJFaHBKVmJvTDRzT0N5MmEydWoyUzZZSWxHUDB5Q0xaaFk0Mk52Qk9NdmV0VnBmYVhTUEhHSnFzSmpkVS0yZGhDWTkxMl9sYzJDT3lDQjkwOVBZRFYyMXU3STQ3dXBDRENXRGVJdUxHRl9QMWpkcFNPYUlqN0dDX3hITThOX01ITTk4NjdNLXBuc0dSUS1JVVNWcnFud0pTUVA0cHBiUkE?oc=5)
+
+2026-06-04 <span class="news-indication-tag">tumor</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQU5SaEUxdnpkWXR1RXFMSlpIelFkUGxvcWEzd016TW1hMVU1Q3VWeGJqbGRCNUZ3RnpiNlFJWTIwa0phMHpDRm9aa1lfNHc4akpCYUlwSVVaV1ZBMUN2WFpsOEhkdmdUT2NTR3RDOWpnUXVfb3YzM1YwWExtczBOVjY3bzR5YUY1U2xVUEs1WXQ3SEJmZ2hEakZwb2d0bmgyRmtfZHBLMS1xWnBKWWpWOUhUTjBmV0FQTngwR3pOOHdhOURfZ01ySVNPY0NRc3Y0SUc2bHBB0gHWAUFVX3lxTE9iZHlnU1F4ZUpwS3dnRUNWZ0ZvVG5OM0F0OWRXeVFoR2pNUi1OMDdDWm5oQzJtcGJFaHBKVmJvTDRzT0N5MmEydWoyUzZZSWxHUDB5Q0xaaFk0Mk52Qk9NdmV0VnBmYVhTUEhHSnFzSmpkVS0yZGhDWTkxMl9sYzJDT3lDQjkwOVBZRFYyMXU3STQ3dXBDRENXRGVJdUxHRl9QMWpkcFNPYUlqN0dDX3hITThOX01ITTk4NjdNLXBuc0dSUS1JVVNWcnFud0pTUVA0cHBiUkE?oc=5)
+
+---
+
+### [Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
+
+2026-06-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
 
 ---
 
@@ -70,27 +86,11 @@ permalink: /news/spironolactone/
 
 ---
 
-### [Un "cruce prohibido" en el ADN impulsa los cánceres más agresivos](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFhpVFdJeF9EMkJBZUdhUzVRdU9hNlo3d0lGU2tCdl9JMmJpNHQ3QkkxMkZQS2RvSS1YZzlhUnpmSWlleHhKUEYzRUlkNGlMWnZSRW9PZHcwMVMwQzd4R0wzT1RsS0pFVEozUlRrS1ltazJVS3VZbjBoRC1ndk9iRzhkRlNPejR6NVVOdDAzeDRfTE4zdHhVbndmZzN2bG5NVjlJSlh5X0hhalA5a0liLVdsZzl5ay1Kdkc4QjVDMS1lNXYtWDlzYjJwY2NfT096ZnVUVnFTZ9IB1wFBVV95cUxOb1BvaVQ5V2F3SHpfRE5aVnZEYlEycHNPLUFCLVlNSnNZcUpZa2VMRWI3QjJKcW9uUUt6YXNnOFcxSjFOeUpCWDY3ci14eDgtSnQycENEc2E2WmhES0Z1RThfd3owOXI5RFFnTUNaRE40SU1xMXJvZ1I4cnQzNG1RX2M2VHFFa2E3ZXF1ODNRVk93X29UVlJXWmxrWVhfVU13amF6ZDJuOFR4Ml9iczhBMy1tYjZMdndoYkN5anFkSUIyZ2htNGhIV1lBU3BnQTNxSi1HRHpfdw?oc=5)
-
-2026-06-04 <span class="news-indication-tag">tumor</span>
-
-來源：[LaSexta](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFhpVFdJeF9EMkJBZUdhUzVRdU9hNlo3d0lGU2tCdl9JMmJpNHQ3QkkxMkZQS2RvSS1YZzlhUnpmSWlleHhKUEYzRUlkNGlMWnZSRW9PZHcwMVMwQzd4R0wzT1RsS0pFVEozUlRrS1ltazJVS3VZbjBoRC1ndk9iRzhkRlNPejR6NVVOdDAzeDRfTE4zdHhVbndmZzN2bG5NVjlJSlh5X0hhalA5a0liLVdsZzl5ay1Kdkc4QjVDMS1lNXYtWDlzYjJwY2NfT096ZnVUVnFTZ9IB1wFBVV95cUxOb1BvaVQ5V2F3SHpfRE5aVnZEYlEycHNPLUFCLVlNSnNZcUpZa2VMRWI3QjJKcW9uUUt6YXNnOFcxSjFOeUpCWDY3ci14eDgtSnQycENEc2E2WmhES0Z1RThfd3owOXI5RFFnTUNaRE40SU1xMXJvZ1I4cnQzNG1RX2M2VHFFa2E3ZXF1ODNRVk93X29UVlJXWmxrWVhfVU13amF6ZDJuOFR4Ml9iczhBMy1tYjZMdndoYkN5anFkSUIyZ2htNGhIV1lBU3BnQTNxSi1HRHpfdw?oc=5)
-
----
-
 ### [Degradar KRAS logra una marcada regresión del cáncer de pulmón en modelos de estudio](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PQXRVMGdCQXlQYkJFY0o1eGlzOWdSaFdCNDQwUGlTZEpkMUNTdFhvaEYtaTRienBxYnZhREVNeDRnOV9wUEtFNTdqeVVTOUhlWVozMjNRbnp2YWxrLXBtMVRoT2hkT3FibVdJZGJNY0V2d1dBNlgw?oc=5)
 
 2026-06-04 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Genotipia](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PQXRVMGdCQXlQYkJFY0o1eGlzOWdSaFdCNDQwUGlTZEpkMUNTdFhvaEYtaTRienBxYnZhREVNeDRnOV9wUEtFNTdqeVVTOUhlWVozMjNRbnp2YWxrLXBtMVRoT2hkT3FibVdJZGJNY0V2d1dBNlgw?oc=5)
-
----
-
-### [Selon une étude, les Français les plus modestes sont davantage exposés aux formes de cancers les plus graves](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdXdnTzFGcXktVXY2LVJLQ3FWUXU4WGc2UkkwU2VRcl9fNWVoajR6UjR6bHBXY0FKVW5rdHJzcWZZTVZpR0tqc3lKYzA2cHJ4bGpCR2xQLVFqRGVRU1FwTXpNbFFmX2pZakRJNm5udFJfLThqSk5vMmY5UWlGLVZaOUhiM2J6TlhDR3lYaGxEQnR6ckprcWVYb0xCQWlKcHNuVUdhYjl0X1RyVEFyaDdpU3dGWWVwQllzcGtRRzZPSUs0WWs3c0NadU1LZnpHWFIwUWhXOVpnMVVwY3QyQXhCVGhn?oc=5)
-
-2026-06-04 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdXdnTzFGcXktVXY2LVJLQ3FWUXU4WGc2UkkwU2VRcl9fNWVoajR6UjR6bHBXY0FKVW5rdHJzcWZZTVZpR0tqc3lKYzA2cHJ4bGpCR2xQLVFqRGVRU1FwTXpNbFFmX2pZakRJNm5udFJfLThqSk5vMmY5UWlGLVZaOUhiM2J6TlhDR3lYaGxEQnR6ckprcWVYb0xCQWlKcHNuVUdhYjl0X1RyVEFyaDdpU3dGWWVwQllzcGtRRzZPSUs0WWs3c0NadU1LZnpHWFIwUWhXOVpnMVVwY3QyQXhCVGhn?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ permalink: /news/spironolactone/
 
 ---
 
-### [Un 'caballo de Troya' contra el cáncer logra resultados prometedores en tumores de hígado y páncreas](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY0s4RlROalJ6RTdVSHJDYlFLdm1FUDl4R0JuMzVyTXRib0tITkZ6d0t4Z3dkTFdQNUhRZXZhd1NoQ3RCNzVvVmdlQ3Q5akEyRlg2djkxYUI0dkNoMDdqdHJ4SXVTQWdEbzZVYklrRlZiLTdkblA2S3VOODEtS1JxYUE3a25id0hwUXpqTS1zMUZXLUxiMzB0T0RSSGtnYWZjbnRrNkREZFVDd3hpVnE5WEZNUVVjRUN3S2hwWm5UMnRBVHhJaDZxNzAwNUxMQ3ByOHJiLXo5SXVta0FTLVVNMW9EY0U4cUpLWWJJ?oc=5)
+### [Face au cancer, les Français les plus modestes sont davantage exposés aux formes les plus graves](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMEY4dnhDSjE5cG5zQWs3MWo1ZEN3c2VaQTFyUjFiMDFsd01zT215Q1N2QWFOV3B6TkFpMkxQNGp4TTdFU1c2N2VSNVYySjdlSTlhVVYwMWlURkFfdk4xSDhQS1ZPOV8zS1IyZ2xGa256WUdPeDlaUmNzSm9IQnM0SHUxT2RBb0JubmdYUm55T3Zoc1RiUFlQWWJrMDJHdzNQcGJhUGtISGhnbWV5bV9LNVJRLU1zeEIzVnlEWG5GVkpuVXFWWXF3V0dFY1RfeUV3SDVYTmRXVVFpcC1sNXNGakRwUGN5V29IYmQwdWJXd3kzY2RyQVpQLVNTWXBhQQ?oc=5)
 
-2026-06-04 <span class="news-indication-tag">tumor</span>
+2026-06-04 <span class="news-indication-tag">cancer</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY0s4RlROalJ6RTdVSHJDYlFLdm1FUDl4R0JuMzVyTXRib0tITkZ6d0t4Z3dkTFdQNUhRZXZhd1NoQ3RCNzVvVmdlQ3Q5akEyRlg2djkxYUI0dkNoMDdqdHJ4SXVTQWdEbzZVYklrRlZiLTdkblA2S3VOODEtS1JxYUE3a25id0hwUXpqTS1zMUZXLUxiMzB0T0RSSGtnYWZjbnRrNkREZFVDd3hpVnE5WEZNUVVjRUN3S2hwWm5UMnRBVHhJaDZxNzAwNUxMQ3ByOHJiLXo5SXVta0FTLVVNMW9EY0U4cUpLWWJJ?oc=5)
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMEY4dnhDSjE5cG5zQWs3MWo1ZEN3c2VaQTFyUjFiMDFsd01zT215Q1N2QWFOV3B6TkFpMkxQNGp4TTdFU1c2N2VSNVYySjdlSTlhVVYwMWlURkFfdk4xSDhQS1ZPOV8zS1IyZ2xGa256WUdPeDlaUmNzSm9IQnM0SHUxT2RBb0JubmdYUm55T3Zoc1RiUFlQWWJrMDJHdzNQcGJhUGtISGhnbWV5bV9LNVJRLU1zeEIzVnlEWG5GVkpuVXFWWXF3V0dFY1RfeUV3SDVYTmRXVVFpcC1sNXNGakRwUGN5V29IYmQwdWJXd3kzY2RyQVpQLVNTWXBhQQ?oc=5)
 
 ---
 
@@ -130,7 +130,7 @@ permalink: /news/spironolactone/
 
 2026-06-04 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
 
 ---
 
@@ -142,9 +142,17 @@ permalink: /news/spironolactone/
 
 ---
 
+### [L'aspirina può favorire la scoperta precoce del tumore alla vescica](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRG41M21YT3NpWk5odUVzUEVWSzFvczlTMzlCOFQ2cXdMN1dQbEFBeWRGX0hKS1dQeWlaa0J1MVhxQUxkTExTTUVqbVkzNzRQRTV3bmRaSkZfMHo3NjIwRmRmWFVMTkVEUTl5VmVyTnhGUm9lNUJVdW55YjhoQmF3LXNYVEFnS3BobFJkNXJ3?oc=5)
+
+2026-06-04 <span class="news-indication-tag">tumor</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRG41M21YT3NpWk5odUVzUEVWSzFvczlTMzlCOFQ2cXdMN1dQbEFBeWRGX0hKS1dQeWlaa0J1MVhxQUxkTExTTUVqbVkzNzRQRTV3bmRaSkZfMHo3NjIwRmRmWFVMTkVEUTl5VmVyTnhGUm9lNUJVdW55YjhoQmF3LXNYVEFnS3BobFJkNXJ3?oc=5)
+
+---
+
 ### [Darmgesundheit 2026: Neue Mikrobiom-Studien zeigen Einfluss auf Immunsystem und Gehirn - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlpyM0R5OFhZR2ZhU0ZHeEcyeEg3OV9qRHBlZU5NY3NCcGNrQ0FBQ2tjQXVQb2k3MjBKMDFCX1JtTFhXQnhiWkV6czd0UHZxOE15S084c3RJS2RCdk52Mkc5U1dYbXYwZ3JGOGZKWEMwZ3lnZmZnbllCODdTV1hNQ0hsNFRVVGZqN3doN19IR0RMdWtxYlpYYldoZElIc2pqUmM1WHpHVlpIU1J3WEdiQ3l4QmgtLTh2?oc=5)
 
-2026-06-03 <span class="news-indication-tag">Krebs</span>
+2026-06-03 <span class="news-indication-tag">tumor</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlpyM0R5OFhZR2ZhU0ZHeEcyeEg3OV9qRHBlZU5NY3NCcGNrQ0FBQ2tjQXVQb2k3MjBKMDFCX1JtTFhXQnhiWkV6czd0UHZxOE15S084c3RJS2RCdk52Mkc5U1dYbXYwZ3JGOGZKWEMwZ3lnZmZnbllCODdTV1hNQ0hsNFRVVGZqN3doN19IR0RMdWtxYlpYYldoZElIc2pqUmM1WHpHVlpIU1J3WEdiQ3l4QmgtLTh2?oc=5)
 
@@ -166,11 +174,11 @@ permalink: /news/spironolactone/
 
 ---
 
-### [La oncóloga que probó en Madrid la prometedora terapia del cáncer de páncreas: "Entramos en el ensayo por los pelos" - El Confidencial](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaC11d2lFOE43emxRRTFNSnpyOHBlSUFHMmo4djhGREx3T1kzYWl3RjZDWEMxUG1jTmw3TldiSENOTG1ZM29Cb3BFZng0c1FVRkVyMTg0WjFHMGcwOGhVRkhHSmE1OS1BV0JUaGdpMXNtY2hxUURGWWFKeG5rX0YzNmRlYmJtbERqRXhlb1ppMUlvMktaMkxzaVFMV1J6bUZsaFg5OGExTzZ3TkloNGdDTg?oc=5)
+### [À partir de quand un aliment est-il considéré comme ultra-transformé ? - National Geographic](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXhfQXMtTVJHZnRieWVQcUhudkhQVGMtRGE2SENOeXVIeUh0NEhuREhiVHJkd0tSdEZoRDdCRng3V0lZOGVEV1NJalYzVnotdjdpTDJIR2hSblJ4RmNOSWhHeHE4NGZFWk5fbmxzdEJ4bEp0eUJKalVmVmR3b3RGbXhDdjR2UFhjeEY3bm9aZTdaNk9ONldqZnd5TUZaSDdieE94aXhpYzlZMWM2aEpqdE92Wk5hMUItamc?oc=5)
 
-2026-06-03 <span class="news-indication-tag">tumor</span>
+2026-06-03 <span class="news-indication-tag">cancer</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaC11d2lFOE43emxRRTFNSnpyOHBlSUFHMmo4djhGREx3T1kzYWl3RjZDWEMxUG1jTmw3TldiSENOTG1ZM29Cb3BFZng0c1FVRkVyMTg0WjFHMGcwOGhVRkhHSmE1OS1BV0JUaGdpMXNtY2hxUURGWWFKeG5rX0YzNmRlYmJtbERqRXhlb1ppMUlvMktaMkxzaVFMV1J6bUZsaFg5OGExTzZ3TkloNGdDTg?oc=5)
+來源：[National Geographic](https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXhfQXMtTVJHZnRieWVQcUhudkhQVGMtRGE2SENOeXVIeUh0NEhuREhiVHJkd0tSdEZoRDdCRng3V0lZOGVEV1NJalYzVnotdjdpTDJIR2hSblJ4RmNOSWhHeHE4NGZFWk5fbmxzdEJ4bEp0eUJKalVmVmR3b3RGbXhDdjR2UFhjeEY3bm9aZTdaNk9ONldqZnd5TUZaSDdieE94aXhpYzlZMWM2aEpqdE92Wk5hMUItamc?oc=5)
 
 ---
 
@@ -246,11 +254,11 @@ permalink: /news/spironolactone/
 
 ---
 
-### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
 2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX0NQTEJ6YXk4cDNqVXhNYkVtSGNCLXZKbU9XOTZoYnVKY0pVMTVCMTRoZzhMekhsZ3dERkxWVERiTDc1WlBZaVdhejhncEVMYXgtOWpYdWc4bHR5cllmaG1JcThPUF9HR1VSdUxiTXZ6aFJUX28taXRoeEp0eEg1d1R2eENTVzVCUUo2LUJNS0Z2cG9JcmpmSnJwTEdvMFhPZUR1Zy1idU51bGJyWk5CVHdiS0JIOWQ1UkRqdFdQY2dwbTVWSEh4UzdrNjFJX1hSTE9oMkZkdEZjZE9rVGlDOQ?oc=5)
 
 ---
 
@@ -262,19 +270,19 @@ permalink: /news/spironolactone/
 
 ---
 
+### [Teenager went to dentist with toothache - then was given just three weeks to live - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Nsb1VVdUQ3Q1c2bzUwWXcwaUxmeGs2SE9heU1DVnhfb0o4aTU5M3EtSVUwX0o1ak1CVXpZb3BlT3lMMHoxZG9kVzEzQXdaRi1JN0xpbk1LTThWX2U1eF94ZDI1ZkdXcHVWdldGZmRPNUNTLXptcWNyZ0trWDBCY0hMaUPSAYoBQVVfeXFMT2FzdUo1RjJFYWFJMFZ6QXdwVjYtSzlWdk03eXRFb2F2Wk83ZGxRZEVLaFBlQ2FQV25HWFZkdV85UTFsNWNjLTBCXzQyYWlrWG00eUp5Mk5EOHBYbUJDTXNhcEE1TU1yNU1GMkpscVAtcVh3QmlpOUlWYUFVSTRrSTR3TDhxVlRYODJB?oc=5)
+
+2026-06-03 <span class="news-indication-tag">cancer</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Nsb1VVdUQ3Q1c2bzUwWXcwaUxmeGs2SE9heU1DVnhfb0o4aTU5M3EtSVUwX0o1ak1CVXpZb3BlT3lMMHoxZG9kVzEzQXdaRi1JN0xpbk1LTThWX2U1eF94ZDI1ZkdXcHVWdldGZmRPNUNTLXptcWNyZ0trWDBCY0hMaUPSAYoBQVVfeXFMT2FzdUo1RjJFYWFJMFZ6QXdwVjYtSzlWdk03eXRFb2F2Wk83ZGxRZEVLaFBlQ2FQV25HWFZkdV85UTFsNWNjLTBCXzQyYWlrWG00eUp5Mk5EOHBYbUJDTXNhcEE1TU1yNU1GMkpscVAtcVh3QmlpOUlWYUFVSTRrSTR3TDhxVlRYODJB?oc=5)
+
+---
+
 ### [Tumore del pancreas, una nuova terapia allunga la sopravvivenza. I dati presentati all'ASCO](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYVBlQXVIZ1NOWUdab3c0c3hvaWl4OHE4TXUwTzRITHY5cjhMUkZfci14dXdvRlNtdmg0M3IwM1hxaWh2aDJ1TW9hU3NTV09ReEZFbTQ5enJ3eEZ5N29TNjZiTGxRcVF2dG1OeUJnRlFaWmVLNkNtSS1QNVh3aEZkSnRoanM0TnBwM0IxZDdFR3NBODllTjM4V1YyeHA5RDVNMFR5TXE4aGp0M09nNzFxUUJ1WXIwenk1bUxDY29MXzduSDBBTWc?oc=5)
 
 2026-06-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Doctor33](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYVBlQXVIZ1NOWUdab3c0c3hvaWl4OHE4TXUwTzRITHY5cjhMUkZfci14dXdvRlNtdmg0M3IwM1hxaWh2aDJ1TW9hU3NTV09ReEZFbTQ5enJ3eEZ5N29TNjZiTGxRcVF2dG1OeUJnRlFaWmVLNkNtSS1QNVh3aEZkSnRoanM0TnBwM0IxZDdFR3NBODllTjM4V1YyeHA5RDVNMFR5TXE4aGp0M09nNzFxUUJ1WXIwenk1bUxDY29MXzduSDBBTWc?oc=5)
-
----
-
-### [Aliments ultra-transformés : on s’empoisonne sans le savoir - Bon Pote](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpnYVNsM1FUaWdBVEphNHdPXzVzenQ3OEI5aElMTUZxV0ZZVVdMVEtXOHpTMXZMT01Tc1g5WFZDMTB6b2dQMzg2MFFuSnkxRW8xVzdyR3FRS0RzaU1JTlBLWXBNcDFIVDRGMlo4ZjlCQzRKNFlNQ2Z5YnFHY0Zkcm94OA?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span>
-
-來源：[Bon Pote](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWpnYVNsM1FUaWdBVEphNHdPXzVzenQ3OEI5aElMTUZxV0ZZVVdMVEtXOHpTMXZMT01Tc1g5WFZDMTB6b2dQMzg2MFFuSnkxRW8xVzdyR3FRS0RzaU1JTlBLWXBNcDFIVDRGMlo4ZjlCQzRKNFlNQ2Z5YnFHY0Zkcm94OA?oc=5)
 
 ---
 
@@ -286,11 +294,11 @@ permalink: /news/spironolactone/
 
 ---
 
-### [Los ‘apellidos’ del tumor revelan la clave del tratamiento en la oncología de precisión - EL PAÍS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTRtNlNkWHVtS3JYeWVFSElMNDFnbUlyd1ZXWUdXSDZZcTVwa28wZ1BFUWVNdlRxU2ZKVnFkTUxrbkNaZ1lPSkxsSXduTmJSdXB3bzA0bk5Qdlo2TjdZMHd6RTZvaU83S2U1SUF5NVdPNnhDUm5ZVmhaWjR0Sm9yRmdFNlRDVWZqUC1YWnFUX3ZDQmRMejlRd3o2MGZzVnNGczFtM2FjR1I5MkVEUHNSY1lXNkNLVFFHSDJIMElhVlZFNU9idTcycnc0YkJXMTVsOHJ2S9IB6AFBVV95cUxQd2c1enh1S1pMWkdMdFBHRGdxZ2IyOFhtVlVLWWFmZzM3V0JtU285b2xkdFZnaXQyTkRvVkRjWEhkT0Z3dm80UktSTVhNQU1jMHNDX0Y5ZTlGTFhoaW94ZWZZVXpYZXFZWE5MN0JhOS1nMEtkSmZYZThaOWxMTklJTDNsUks3QXFPZUl6ZlBUY2djMTZWRUpEMGVhbVE3YWxLcXltdlJMNGJuVmR0TEZVQmpDQUQ5TkdOVTFLWWhEU2xGNUhSa0hjZXdxS3NzQUkzQ0tuREtLVG5oRnBVU294cEZhTWU3Q0gw?oc=5)
+### ['To hear our baby has cancer is world-shattering'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43cktPdnNlRkd0UDBLanhIeWlyTmNmZkpadFJtNVl2MWpiSWF3dVlhYkRNS1FRREZHTlZyeWFqYnQ0SW1BSDBGWFI5YlUwakd2UGppem51b3UzUUdR?oc=5)
 
-2026-06-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-indication-tag">cancer</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTRtNlNkWHVtS3JYeWVFSElMNDFnbUlyd1ZXWUdXSDZZcTVwa28wZ1BFUWVNdlRxU2ZKVnFkTUxrbkNaZ1lPSkxsSXduTmJSdXB3bzA0bk5Qdlo2TjdZMHd6RTZvaU83S2U1SUF5NVdPNnhDUm5ZVmhaWjR0Sm9yRmdFNlRDVWZqUC1YWnFUX3ZDQmRMejlRd3o2MGZzVnNGczFtM2FjR1I5MkVEUHNSY1lXNkNLVFFHSDJIMElhVlZFNU9idTcycnc0YkJXMTVsOHJ2S9IB6AFBVV95cUxQd2c1enh1S1pMWkdMdFBHRGdxZ2IyOFhtVlVLWWFmZzM3V0JtU285b2xkdFZnaXQyTkRvVkRjWEhkT0Z3dm80UktSTVhNQU1jMHNDX0Y5ZTlGTFhoaW94ZWZZVXpYZXFZWE5MN0JhOS1nMEtkSmZYZThaOWxMTklJTDNsUks3QXFPZUl6ZlBUY2djMTZWRUpEMGVhbVE3YWxLcXltdlJMNGJuVmR0TEZVQmpDQUQ5TkdOVTFLWWhEU2xGNUhSa0hjZXdxS3NzQUkzQ0tuREtLVG5oRnBVU294cEZhTWU3Q0gw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43cktPdnNlRkd0UDBLanhIeWlyTmNmZkpadFJtNVl2MWpiSWF3dVlhYkRNS1FRREZHTlZyeWFqYnQ0SW1BSDBGWFI5YlUwakd2UGppem51b3UzUUdR?oc=5)
 
 ---
 
@@ -310,6 +318,14 @@ permalink: /news/spironolactone/
 
 ---
 
+### [CKM-Syndrom: Studie zeigt deutlich erhöhtes Krebsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlFjaVZqMktKcW9oaTliQ1VDd2lYazFzckdHQV9DRzNOd1NvSnhDeUZwVDBXWnpSLXJ1RVFMVXNRaUpoWDk2MzVxNUY5cEJUOWtqbzBRdHJJNy1kYWlQeW9aMXRLWEg2U0tlRGdmQ3RtdjBXMkdWWHRNTGxhQVR5ZVVHM3FuVlFCY1R5UHBIV2hyMG1rQ2hIWktralZuc3FVN0VFZXNxTQ?oc=5)
+
+2026-06-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlFjaVZqMktKcW9oaTliQ1VDd2lYazFzckdHQV9DRzNOd1NvSnhDeUZwVDBXWnpSLXJ1RVFMVXNRaUpoWDk2MzVxNUY5cEJUOWtqbzBRdHJJNy1kYWlQeW9aMXRLWEg2U0tlRGdmQ3RtdjBXMkdWWHRNTGxhQVR5ZVVHM3FuVlFCY1R5UHBIV2hyMG1rQ2hIWktralZuc3FVN0VFZXNxTQ?oc=5)
+
+---
+
 ### [Cancer : les bonnes nouvelles du grand congrès annuel d’oncologie - La Croix](https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1NLWGJXaVBpc2VSUzlKZmNheGs4N2N6c2VydGR3WFlCaGJzbXhuOHlqaTZtTUlCNlotdkpTTVNNTkZ4S2lNSEpqdjlBcXgycHd5QzRGeUFsT2RxbWUwUkZWdEJ2Rk9halVFQkZ4Y1pMNUo3V0ZoV2trTi1GM2lrbDlRbmFOR2hBRlplX0ZLa2M4dURJTzBHaG4xY1pHaUR2b2gxUDVn?oc=5)
 
 2026-06-02 <span class="news-indication-tag">cancer</span>
@@ -326,14 +342,6 @@ permalink: /news/spironolactone/
 
 ---
 
-### [Cancer : ces cas n’ont pas été diagnostiqués pendant le Covid](https://news.google.com/rss/articles/CBMidEFVX3lxTE1hYVJjOFhrRXZ0ek5DTjhuNFJ0cUVyOHBUcTdZV19iMkZENnBqS1VwcXFKUzFmWnJrMzZHcXMySTA0c1dvc095Wk92T2ZrN1padVpnakJNSU1rSGRrMjNWRlY0QnBmbWdreDRvbGFQUVBXWXY2?oc=5)
-
-2026-06-02 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidEFVX3lxTE1hYVJjOFhrRXZ0ek5DTjhuNFJ0cUVyOHBUcTdZV19iMkZENnBqS1VwcXFKUzFmWnJrMzZHcXMySTA0c1dvc095Wk92T2ZrN1padVpnakJNSU1rSGRrMjNWRlY0QnBmbWdreDRvbGFQUVBXWXY2?oc=5)
-
----
-
 ### [The hidden dangers of YOUR sleep habits - from 'SB syndrome' & new cancer fears - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2tQYzNKVW5EbXV2M2RKWmM3aHpUdHRQQVZQQm5rQWVfcmNaV3dITnNnbG80dHFqbTFMcjFSNjJ3Q2NsOEdtcllLMUJCTkgtaEEzMjFYMXE4REVPU0gzMDcxSWJ2dmQtRWhHZURhVEVPVGZFUy1ETl9vVUJNUU9qbkJMcGY0VHZBdENXeWx6MlFXQTQ?oc=5)
 
 2026-06-02 <span class="news-indication-tag">cancer</span>
@@ -342,35 +350,11 @@ permalink: /news/spironolactone/
 
 ---
 
-### [Kardiorenales-metabolisches Syndrom erhöht womöglich Krebsrisiko – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPczhmVTIzemZENFlEQm5TemtHUmRpaGlNclY4bmgtYUVnX1cxY3JuSzViUW9HVE9LQk9uSzZ1RWpnYWZ5MkRDM0RwYjZ5MDI3YnFtUGZ2RmV3VUZZN3N5WU0xM1pmRDk1OE1FaTc2RERqc1FBWGpsektQN3BLcnJ0azQ3V2MyVlFEZUJ0NG5yUG1EZzg1MEJETXdHaHkzNTZyeUowTzFUTUctU3ZOUlZ6TnBOeGM1TWZaemU2eW5RZXF4aU9OaXUxOUpsZWZjUQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPczhmVTIzemZENFlEQm5TemtHUmRpaGlNclY4bmgtYUVnX1cxY3JuSzViUW9HVE9LQk9uSzZ1RWpnYWZ5MkRDM0RwYjZ5MDI3YnFtUGZ2RmV3VUZZN3N5WU0xM1pmRDk1OE1FaTc2RERqc1FBWGpsektQN3BLcnJ0azQ3V2MyVlFEZUJ0NG5yUG1EZzg1MEJETXdHaHkzNTZyeUowTzFUTUctU3ZOUlZ6TnBOeGM1TWZaemU2eW5RZXF4aU9OaXUxOUpsZWZjUQ?oc=5)
-
----
-
 ### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
 
 2026-06-02 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
-
----
-
-### [Lower cancer and heart disease risk with two tablespoons of one daily food - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYktzWnZqMGI5XzFVQ213aEtqcEJ1RUpSWm1lYURvc3dqOGFROUg3RWJscnRsdlpjdTVDWTdQN0ZCdnlNeFVqYWdtd3BWMGVoLTQ5dFNsQ3BwYVNzUFNrbWtKVzlPUF9LN0h3SnVKWGptSi1VSTd2MDVxd3lhell0WGd6QdIBiAFBVV95cUxOTmZIeHBoYTdDU3dWUlQ3VUw1TzVyWnJhQVI5S1hETkhBcGFacVZ4bElMc1VHaE9KMnhId0lSQklUVGlwaElfT0pRdXpLNlNxcTNfYXdseUp5WFZCOU1pUkdDaThxUUxQTmQ2bnFCb3YxajVSNTlFSHZwamVVcG1GY3Z4VWVfTkdJ?oc=5)
-
----
-
-### [The 2 'deadliest' vaping flavours revealed - as worst offending e-cigs 'can alter over 3000 genes' - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzVNTlpjaFVJdTYyczlreXFhajlRaExMNDliUjNOaDZ0VlFZeDdYcW9ZOHNBTmVzaE1mMVVlb0hDRDVDRmo3ZFExUnRtRUZ5SmxBbnhoejNpcFZmTmREa2FLVVkzNWNPSFpCT2ljUDFsODNFTG92U1ZSVExYdzduaFBrVThIV0dITWZNVkl6OA?oc=5)
-
-2026-06-02 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzVNTlpjaFVJdTYyczlreXFhajlRaExMNDliUjNOaDZ0VlFZeDdYcW9ZOHNBTmVzaE1mMVVlb0hDRDVDRmo3ZFExUnRtRUZ5SmxBbnhoejNpcFZmTmREa2FLVVkzNWNPSFpCT2ljUDFsODNFTG92U1ZSVExYdzduaFBrVThIV0dITWZNVkl6OA?oc=5)
 
 ---
 

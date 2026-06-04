@@ -54,6 +54,14 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（3 則）
 
+### [Tecnalia lidera un prototipo pionero no invasivo para tratar el ictus o el Parkinson sin cirugía](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc0FIX2Nqb1FHY2ppS3pCbThFbEJGclVJclhpNExFY1llSHR0TXNWeXg2a1FPc2J2MGlhYU5KTE4xTHRVQy1yc1pTRC1vZVhNMDhNYnBrQnhVTzVJeUFSX1JGMUdLUzJKZDRDbkNqZjUzcmpxVEwtbmFRY0daczZ3QWxIcHZrZGduc2JUQTBQUWs2SEJPbFptdzJvXzdIYmc0by16STBRcm8xa3REQkpQT0JhaGJaVVZ3YngyeFYxM3Exb0hKbWRUeHhyeU9LdFJNS1RaMEtEejk?oc=5)
+
+2026-06-04 <span class="news-indication-tag">ictus</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc0FIX2Nqb1FHY2ppS3pCbThFbEJGclVJclhpNExFY1llSHR0TXNWeXg2a1FPc2J2MGlhYU5KTE4xTHRVQy1yc1pTRC1vZVhNMDhNYnBrQnhVTzVJeUFSX1JGMUdLUzJKZDRDbkNqZjUzcmpxVEwtbmFRY0daczZ3QWxIcHZrZGduc2JUQTBQUWs2SEJPbFptdzJvXzdIYmc0by16STBRcm8xa3REQkpQT0JhaGJaVVZ3YngyeFYxM3Exb0hKbWRUeHhyeU9LdFJNS1RaMEtEejk?oc=5)
+
+---
+
 ### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury | Neuroscience - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
 
 2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -67,14 +75,6 @@ permalink: /news/simvastatin/
 2026-06-03 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG80VE9EbmdBNlhWSE9lSkJRV21MN1M2Rm9Xa1F3QUlUcmJJbTduZ0FxcXh3dFJyMDU3TE05clZJYmtHN25WNVZtQW0wdk5fUmxBUGViNEtCZGF3eTNqTmhocm5namcwd2RPX3ZQb0QyWElkZmZjRkZQT0tsd25hT054bXNnSTBtWThWQkFlUHZtUkF6LThKcXZ1ckd2eVA5OWFsWUN2SmFDRzgwckFETmJhcWp3dkg3RDZGVm4tdDgyZUk?oc=5)
-
----
-
-### [DSG Stroke Summer School: Kompaktes Update zur Schlaganfall-Medizin - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
-
-2026-06-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTRFdzVNbEVhaFJieTJKekRRREY0YXh3T3FqVEFFU2dCMVFOY3JvX1ZmZDg5c29XV0w3bnlFbFIxcHg4NmY3bGFVTDZzTzdsVjRNenByUk5BYWVvZm1qZ3p5cEZDYXktbmRuZ1NlN0tNdzRyRld4OUVkZ3pTWFMzQnc5Nnl5VWJaM2QwdWxmcjlYNFRPWEZTS0ZoTU55MzFsVnl5anVBVDF0OEUycEc0UA?oc=5)
 
 ---
 

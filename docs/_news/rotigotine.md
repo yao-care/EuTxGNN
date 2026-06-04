@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
+
+### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+
+---
+
+### [“Ahora… ¡Al abordaje!”, lema de la campaña 2026 del Día Mundial de la Esclerosis Múltiple](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0xSUV8xamJvZi1MTGd5N2hFMENHTnNSTERUNnVWVUtGR1JnMENnTGQ1alZRUk0xZTRIZDZpSDBPdXdteEk1Y1lnS1JadDZEdjhzTlBxeEVPOFFpOC16UXRzMGVURDRGWHkzYzFYdFNpb2J6ODdYbkl0YXczTml3bkJIU0xNU09CMF9SQmkwVG5ESkhQd2JWTXcweTNnQmxRdmlxd0ZpSzJ5QUJwRFF6R2JNajJ6WEp5OENUUkt2OHZ6Zw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[infoaguilas.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0xSUV8xamJvZi1MTGd5N2hFMENHTnNSTERUNnVWVUtGR1JnMENnTGQ1alZRUk0xZTRIZDZpSDBPdXdteEk1Y1lnS1JadDZEdjhzTlBxeEVPOFFpOC16UXRzMGVURDRGWHkzYzFYdFNpb2J6ODdYbkl0YXczTml3bkJIU0xNU09CMF9SQmkwVG5ESkhQd2JWTXcweTNnQmxRdmlxd0ZpSzJ5QUJwRFF6R2JNajJ6WEp5OENUUkt2OHZ6Zw?oc=5)
+
+---
+
+### [UKE Hamburg: Ebola, Hantavirus, Corona – bremst der Datenschutz die Forschung aus? - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMVZXdW1GOXozeE5Ib2hpUjlpNFJVbGpycGtVdkZEckJHUGtEaW8xMmxCaFJnSUVvajltQVhkVExXanBGQ2ZBRU0teWtRdmhmV0YyTFpjOW4xSlNVcWMwc0d6LXFxYVQ1M3VndEFlbldKYS1CUW1US1ByMWl5d042Y2dEaUdqOWpGVW1yZXQ2VjRFSmFuaTZ3NUxsNkN0NFM2enZJWmhfYWlOdGYybEltSE5zMXBNcW9qNlNhZ2VtV2lWbFRBVmRJSEZwdFRsanp1ZmF0bXZKQQ?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMVZXdW1GOXozeE5Ib2hpUjlpNFJVbGpycGtVdkZEckJHUGtEaW8xMmxCaFJnSUVvajltQVhkVExXanBGQ2ZBRU0teWtRdmhmV0YyTFpjOW4xSlNVcWMwc0d6LXFxYVQ1M3VndEFlbldKYS1CUW1US1ByMWl5d042Y2dEaUdqOWpGVW1yZXQ2VjRFSmFuaTZ3NUxsNkN0NFM2enZJWmhfYWlOdGYybEltSE5zMXBNcW9qNlNhZ2VtV2lWbFRBVmRJSEZwdFRsanp1ZmF0bXZKQQ?oc=5)
+
+---
+
+### [L'allarme dell'Oms: "Un milione e mezzo di morti l'anno per cibo contaminato"](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDVDbjhmeEV1RjBFM2k4THpva3MzdjVKdHZ5Nk5CNE8zeHVwd1E1YWRTaVFDSTJCN1hiVjFJclR2OWhzcWhweERqSmVfcU1lQk4xWXZZSjh2TE0yZHhSOEJNR0RzTFgtVW9mN0VIak53Qkt0MGtiZlVFSVNRWnRJdTJwbzJuSmhvMmYzb2FhSjB0cE1neDh2c2ZwYnJxLUZ6YkhfVDNwQWE5bjVrMkd1a2czUnfSAWhBVV95cUxOdWRSbWF6MjZvVzRVVTJEWHVmUmI0R2hwenVBZV96OVRENjVNZjNab1d6bXhBVDYzUzFCbm92cTlXV1BaNUM4YmtPNXh2QWx0X0xCa0lnWmFpSDZpd3NqNVZJeWx2SVNoRA?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDVDbjhmeEV1RjBFM2k4THpva3MzdjVKdHZ5Nk5CNE8zeHVwd1E1YWRTaVFDSTJCN1hiVjFJclR2OWhzcWhweERqSmVfcU1lQk4xWXZZSjh2TE0yZHhSOEJNR0RzTFgtVW9mN0VIak53Qkt0MGtiZlVFSVNRWnRJdTJwbzJuSmhvMmYzb2FhSjB0cE1neDh2c2ZwYnJxLUZ6YkhfVDNwQWE5bjVrMkd1a2czUnfSAWhBVV95cUxOdWRSbWF6MjZvVzRVVTJEWHVmUmI0R2hwenVBZV96OVRENjVNZjNab1d6bXhBVDYzUzFCbm92cTlXV1BaNUM4YmtPNXh2QWx0X0xCa0lnWmFpSDZpd3NqNVZJeWx2SVNoRA?oc=5)
+
+---
 
 ### [La EMA y las agencias africanas evalúan siete candidatos contra el brote de virus Bundibugyo](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
 
 2026-06-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
+
+---
+
+### [GLP-1-Therapien: Demenzrisiko bei Diabetes um 53% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeENKVHN2aGxjV1dvZk8tS2w5bHR1bVVuV3lqUWZkZWVzNUtQc2JpUlhaTlVEcXMyU3VUb0ptV1hKc24zdWxfYkJDU1Radzl2SnJWd1ZqTlNWMmotOUIyV2dlcjNPeE5MemVEWGQxTk1wOGcyTEVCd0xSbmJfOHVORVFyVUdlQWp4MmV4M3VzbEtPZ3E5YURscE12Mk5fSlZWaU9qbmNJZ1VwbVl0bkRkRVRR?oc=5)
+
+2026-06-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeENKVHN2aGxjV1dvZk8tS2w5bHR1bVVuV3lqUWZkZWVzNUtQc2JpUlhaTlVEcXMyU3VUb0ptV1hKc24zdWxfYkJDU1Radzl2SnJWd1ZqTlNWMmotOUIyV2dlcjNPeE5MemVEWGQxTk1wOGcyTEVCd0xSbmJfOHVORVFyVUdlQWp4MmV4M3VzbEtPZ3E5YURscE12Mk5fSlZWaU9qbmNJZ1VwbVl0bkRkRVRR?oc=5)
 
 ---
 
@@ -82,13 +122,13 @@ permalink: /news/rotigotine/
 
 2026-06-04 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
 
 ---
 
 ### [Lange vor den ersten Symptomen: So verrät sich Alzheimer bereits ab den 40ern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
 
-2026-06-04 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-06-04 <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
 
@@ -107,14 +147,6 @@ permalink: /news/rotigotine/
 2026-06-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[diepta.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHcxM0dpVmVpSC1yMGI5RzlpNGVRZDdOTzNOMTRONmlSN1ExT1RKOVFNQ0NLN0JSTi1sNmRnN250Z3A2Y3FTQVBRUTZVaTZTWldWaFN6bXBMaXhSeDFSZ0xJNHloMzEydWs2Q2FTSGQ2U2dHTC1zZkh0U1p2Rkwxdjhzd1hSd195WGRaeWxkR2pYT01xUUlQZjhDQXZ4WVk?oc=5)
-
----
-
-### [The 2 hours-a-week weights plan - The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxONVVDMFRhMERNV3dnVncyVEZFZkJpYlRFaUVYZ25EZUpPWUlhdU9zbG5YSGdoZmVCVTEwemlBZ3J5bzFDXy1Ka2NIeVdYeGJ1SVhTdkUtMWhkclRYV0hmTlBuYUp6VldDNUctTXdSQzZldkJFOXdmUC1pd3R0OWIxRWpxMkZDNHNRN3RxMnd2YzJRcTNNNFljejNwcGRKeXRMaTh5RGZKTTFyQThMNWw0aWFPR1JobUJfdHJMNXk5OA?oc=5)
-
-2026-06-03 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxONVVDMFRhMERNV3dnVncyVEZFZkJpYlRFaUVYZ25EZUpPWUlhdU9zbG5YSGdoZmVCVTEwemlBZ3J5bzFDXy1Ka2NIeVdYeGJ1SVhTdkUtMWhkclRYV0hmTlBuYUp6VldDNUctTXdSQzZldkJFOXdmUC1pd3R0OWIxRWpxMkZDNHNRN3RxMnd2YzJRcTNNNFljejNwcGRKeXRMaTh5RGZKTTFyQThMNWw0aWFPR1JobUJfdHJMNXk5OA?oc=5)
 
 ---
 
@@ -166,19 +198,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Two men charged with trying to smuggle vials of mpox virus into the US - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
+### [Two gym sessions a week are the key to a long life - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxObGRTQTNKV3JHZ3E3cXhYaTNKYjRITDdzQ3NVU3cwbFpvdkxFdVpLYUl1Q2ZXdmViTmM3dUhkNHpNUEZ4UmxfOHo4MThrS01BQS1ic1lUM0xfbHZsRjZsalhEZG9rUDdvUWpNQW84YXZRSVlCejMyN21HMU5RTWRjd1ZVOFJxbWE0OEttdW53?oc=5)
 
 2026-06-03 <span class="news-indication-tag">MS</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
-
----
-
-### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxObGRTQTNKV3JHZ3E3cXhYaTNKYjRITDdzQ3NVU3cwbFpvdkxFdVpLYUl1Q2ZXdmViTmM3dUhkNHpNUEZ4UmxfOHo4MThrS01BQS1ic1lUM0xfbHZsRjZsalhEZG9rUDdvUWpNQW84YXZRSVlCejMyN21HMU5RTWRjd1ZVOFJxbWE0OEttdW53?oc=5)
 
 ---
 
@@ -187,22 +211,6 @@ permalink: /news/rotigotine/
 2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
----
-
-### [Ce légume est celui qui contient le plus de pesticides](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGRTR2RmRHViUEwtSFJiRG9HVko5Y2hyYmRmZHplLXhTbUdWYlVHbGdUZFYxcmZTY2FQQk96YzdacTh6eWZxZWU4ZUZWRXVqcWhnVVFVU3dNUFlKQXpCNnJ5bk9KMWV2T3M0SGc1VGMxMmJuX3R1ZC1JcDFwaEY0ZkxXZzM2RUtiN0hwRTRYVWMxOTJ5TC0wVFIzZG5XNThNOFdRREZ0bE01TEt2eExtX08tZUN5elRWZHBYbmdMZFFWaG1CaGgySkdQYWU3SEU?oc=5)
-
-2026-06-02 <span class="news-indication-tag">MS</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGRTR2RmRHViUEwtSFJiRG9HVko5Y2hyYmRmZHplLXhTbUdWYlVHbGdUZFYxcmZTY2FQQk96YzdacTh6eWZxZWU4ZUZWRXVqcWhnVVFVU3dNUFlKQXpCNnJ5bk9KMWV2T3M0SGc1VGMxMmJuX3R1ZC1JcDFwaEY0ZkxXZzM2RUtiN0hwRTRYVWMxOTJ5TC0wVFIzZG5XNThNOFdRREZ0bE01TEt2eExtX08tZUN5elRWZHBYbmdMZFFWaG1CaGgySkdQYWU3SEU?oc=5)
-
----
-
-### [Genital herpes rising in England, despite overall drop in sexually transmitted infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
-
-2026-06-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FTEcyNEdxblNaYTB2Z3BTVjdNNjZjbTdJSkVaTFZkd01ZTkFRSzJLZW1FMEUtOWxQTURCdFpQTmJoREd0TFVxRTA1T1dhRlN2S2xEbEtNZTV6d3Ra?oc=5)
 
 ---
 

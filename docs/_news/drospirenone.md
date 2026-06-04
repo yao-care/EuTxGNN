@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/drospirenone/
 2026-06-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
-
----
-
-### [Atemwegserkrankungen: 1,3 Millionen leiden, was hilft dir wirklich bei Asthma?](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnQ4VmtWWUhoUXEwbl9rR0t6dlpRcFlmYUdFVDdPNFlsbGdQQ1FONF9VSmdSVy1lVmxkZlNvbDIzeTA1TFBubTRwTUdPcmx0eGt3N3JkbkdYc00xUjBCRUFrSXMzTU9ZVXpoNEZVN2lTMVdlZmNzVUpNZTdaUktDcnBlZTgxNmw0Z2xYYXRVTGRxb3VKcjVLcjdyc2hseTh2eko5ZmxYd3dmR0FmTHc?oc=5)
-
-2026-06-02 <span class="news-indication-tag">asthma</span>
-
-來源：[MeinBezirk.at](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnQ4VmtWWUhoUXEwbl9rR0t6dlpRcFlmYUdFVDdPNFlsbGdQQ1FONF9VSmdSVy1lVmxkZlNvbDIzeTA1TFBubTRwTUdPcmx0eGt3N3JkbkdYc00xUjBCRUFrSXMzTU9ZVXpoNEZVN2lTMVdlZmNzVUpNZTdaUktDcnBlZTgxNmw0Z2xYYXRVTGRxb3VKcjVLcjdyc2hseTh2eko5ZmxYd3dmR0FmTHc?oc=5)
 
 ---
 

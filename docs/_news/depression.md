@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ permalink: /news/depression/
 
 ## 相關新聞（1 則）
 
-### [Lange vor den ersten Symptomen: So verrät sich Alzheimer bereits ab den 40ern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
+### [La depresión acelera el crecimiento maligno en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUx4a0JQb0VtXzNnTUhFZURhbXNvZTdXaTJ2cHQ3Vm12V2EyMnNNR29WU1htaU5jcmtvRkRsVXJIRG9vTkliLW4yZjdhWEtoOXVWNzEyOVU4WDZWck1BSEFSb3haQ0o3eDlLTFNiWGYxN1pXVGJCNzJYZUxyX2hHWWd3ZzdMc2d5T1lJeDF2Q0x3RlBRc3ZIQm1RSEJtaXJCdlhxZXpEZDFFUlVfck91QnlMUzV6Y2luZDJF0gG2AUFVX3lxTFBDOENGZnBDUTJLeTdqajJuZVhDUHRiQU13dDV2MFBaSG4ySzRUd2tsNzloYXBWSVhaYWdWRWhMWnhna2dSZDI0RjlRazNXOHNYTFRQREhFNnJQRFphRXBCREF0SE44NWlWOWI5N2NyM2tIWkJTanBWSlRpMWt0ZEIxRXE1VTdvRktKdl9hZGpiQTdLekl4cEtUcnpDV3FjaDVvTUZzSlpjcFB3WXZIQkUwbGtYX1FR?oc=5)
 
 2026-06-04
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUx4a0JQb0VtXzNnTUhFZURhbXNvZTdXaTJ2cHQ3Vm12V2EyMnNNR29WU1htaU5jcmtvRkRsVXJIRG9vTkliLW4yZjdhWEtoOXVWNzEyOVU4WDZWck1BSEFSb3haQ0o3eDlLTFNiWGYxN1pXVGJCNzJYZUxyX2hHWWd3ZzdMc2d5T1lJeDF2Q0x3RlBRc3ZIQm1RSEJtaXJCdlhxZXpEZDFFUlVfck91QnlMUzV6Y2luZDJF0gG2AUFVX3lxTFBDOENGZnBDUTJLeTdqajJuZVhDUHRiQU13dDV2MFBaSG4ySzRUd2tsNzloYXBWSVhaYWdWRWhMWnhna2dSZDI0RjlRazNXOHNYTFRQREhFNnJQRFphRXBCREF0SE44NWlWOWI5N2NyM2tIWkJTanBWSlRpMWt0ZEIxRXE1VTdvRktKdl9hZGpiQTdLekl4cEtUcnpDV3FjaDVvTUZzSlpjcFB3WXZIQkUwbGtYX1FR?oc=5)
 
 ---
 
