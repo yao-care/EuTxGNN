@@ -54,11 +54,11 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（2 則）
 
-### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+### [A cheap arthritis drug shows promise treating RSV in early study - Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+2026-06-03 <span class="news-indication-tag">arthritis</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+來源：[Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
 
 ---
 

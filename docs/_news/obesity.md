@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesità（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesità（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Diabetes-Risiko: 20 Gesundheitsmarker schlagen BMI um Längen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
+
+2026-06-04
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
+
+---
 
 ### [Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
 

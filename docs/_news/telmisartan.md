@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Tecnalia lidera un prototipo pionero no invasivo para tratar el ictus o el Parkinson sin cirugía](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc0FIX2Nqb1FHY2ppS3pCbThFbEJGclVJclhpNExFY1llSHR0TXNWeXg2a1FPc2J2MGlhYU5KTE4xTHRVQy1yc1pTRC1vZVhNMDhNYnBrQnhVTzVJeUFSX1JGMUdLUzJKZDRDbkNqZjUzcmpxVEwtbmFRY0daczZ3QWxIcHZrZGduc2JUQTBQUWs2SEJPbFptdzJvXzdIYmc0by16STBRcm8xa3REQkpQT0JhaGJaVVZ3YngyeFYxM3Exb0hKbWRUeHhyeU9LdFJNS1RaMEtEejk?oc=5)
+### [Investigadores españoles desarrollan una nueva vía para tratar el ictus o el párkinson sin necesidad de - La Razón](https://news.google.com/rss/articles/CBMiogJBVV95cUxPaGs4TEdScTZyMnotMmtETFdtVS1MMzUtQmNadFhZcTgtTVRUR1hkOEdzbVlocWI2c3c2UkRMMVdBc1hCc2RSQlZEWHV3aEI1Tnh6ZmVQdG8xZF9lUV9PRks2S0FQUWt1STU5dW9GdWdjUmFaZXNOQzNpR3FBYXlqb0pYcFIxd3BOZEZJZGpGSE43UWh1SmVOSzh6Sl9sd0U4WEhwN0I2TGxQSjM1VG5OSnU2elpoSlFXekNIQmlnX3N4RVd5amNUVElSQVBYNWVGemM4Wkx5ZUdESkZFMU1KZ2Q0Y3BUdjhoM194UUduNlk1RmZjZzFMWEMyZDg4blljdDhZWG1LbW9BcHB0OWVRQ1VtTU93Tk5peTc3blZ0bW9mQdIBtgJBVV95cUxOb25Da0hiQ29MZS1aMGd1TEZMUGFWOUlMY3FXbmphSnNoVkRzd2ZBTTlrTEMtNkNYVHVVRk1rXzE0bGhoR1Npa05BWURUQ3lSaHFwM083VmJaYjIzOUdUalQxdkowMzVUa2psMkZOYzFtMkZoTFdaajUzSjdtRGJKZWZNOENFempONGNDWF9rOU9LelFOeWNIYTVjSWFxbEdzcUt5d3lPRmZkWTdoV0ZCMG1YbjRIVjFsbUJKTFBiZjQ0SXJXaTJQRlVqSnlDSlVDM2pTR0NLamhyTFloM3FEbU9GU1FnejE0bTBpd1lXMmdFcWEwWGwyQ0M4bEwxeG5NTjNaNno5d0Flb0tiTHNYZkVsN2xueUNqUHhpaklDMmpIWEVxN0s5Y2NUSUNyRm1GOXg3RWN3?oc=5)
 
 2026-06-04 <span class="news-indication-tag">ictus</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc0FIX2Nqb1FHY2ppS3pCbThFbEJGclVJclhpNExFY1llSHR0TXNWeXg2a1FPc2J2MGlhYU5KTE4xTHRVQy1yc1pTRC1vZVhNMDhNYnBrQnhVTzVJeUFSX1JGMUdLUzJKZDRDbkNqZjUzcmpxVEwtbmFRY0daczZ3QWxIcHZrZGduc2JUQTBQUWs2SEJPbFptdzJvXzdIYmc0by16STBRcm8xa3REQkpQT0JhaGJaVVZ3YngyeFYxM3Exb0hKbWRUeHhyeU9LdFJNS1RaMEtEejk?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMiogJBVV95cUxPaGs4TEdScTZyMnotMmtETFdtVS1MMzUtQmNadFhZcTgtTVRUR1hkOEdzbVlocWI2c3c2UkRMMVdBc1hCc2RSQlZEWHV3aEI1Tnh6ZmVQdG8xZF9lUV9PRks2S0FQUWt1STU5dW9GdWdjUmFaZXNOQzNpR3FBYXlqb0pYcFIxd3BOZEZJZGpGSE43UWh1SmVOSzh6Sl9sd0U4WEhwN0I2TGxQSjM1VG5OSnU2elpoSlFXekNIQmlnX3N4RVd5amNUVElSQVBYNWVGemM4Wkx5ZUdESkZFMU1KZ2Q0Y3BUdjhoM194UUduNlk1RmZjZzFMWEMyZDg4blljdDhZWG1LbW9BcHB0OWVRQ1VtTU93Tk5peTc3blZ0bW9mQdIBtgJBVV95cUxOb25Da0hiQ29MZS1aMGd1TEZMUGFWOUlMY3FXbmphSnNoVkRzd2ZBTTlrTEMtNkNYVHVVRk1rXzE0bGhoR1Npa05BWURUQ3lSaHFwM083VmJaYjIzOUdUalQxdkowMzVUa2psMkZOYzFtMkZoTFdaajUzSjdtRGJKZWZNOENFempONGNDWF9rOU9LelFOeWNIYTVjSWFxbEdzcUt5d3lPRmZkWTdoV0ZCMG1YbjRIVjFsbUJKTFBiZjQ0SXJXaTJQRlVqSnlDSlVDM2pTR0NLamhyTFloM3FEbU9GU1FnejE0bTBpd1lXMmdFcWEwWGwyQ0M4bEwxeG5NTjNaNno5d0Flb0tiTHNYZkVsN2xueUNqUHhpaklDMmpIWEVxN0s5Y2NUSUNyRm1GOXg3RWN3?oc=5)
 
 ---
 
@@ -107,14 +107,6 @@ permalink: /news/telmisartan/
 2026-06-03 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG80VE9EbmdBNlhWSE9lSkJRV21MN1M2Rm9Xa1F3QUlUcmJJbTduZ0FxcXh3dFJyMDU3TE05clZJYmtHN25WNVZtQW0wdk5fUmxBUGViNEtCZGF3eTNqTmhocm5namcwd2RPX3ZQb0QyWElkZmZjRkZQT0tsd25hT054bXNnSTBtWThWQkFlUHZtUkF6LThKcXZ1ckd2eVA5OWFsWUN2SmFDRzgwckFETmJhcWp3dkg3RDZGVm4tdDgyZUk?oc=5)
-
----
-
-### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
-
-2026-06-02 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [844 millions de personnes ont une maladie rénale chronique — et la moitié l'ignorent faute d'un test urinaire à 5 euros](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbUhVRGtPZEVlY19Ia2E1di1KbWRuTGcxX3NDMk1BZjg2bDZQbF9Wc3hqMGhNMnQxWFRMMmd1eFl5VEtFSURqSmRZUWNvdEFCZXJSZUljTEItOXdadkU3VUNKX3dJZmM0Sm5yam9GemNheDYzT19mS1piZFZic0VRTzd1aGYxMG1TZjhtdDhMV3QxREplelh1N0JjNHg1ZjNHOEtkVlJzOHV5LWRjUlRDSXVGVkRXLXBZUERCUDhkQ1BERnltWC1fVUhpMUQ0QXBmWWtqdjNR?oc=5)
+
+2026-06-04 <span class="news-indication-tag">maladie rénale chronique</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbUhVRGtPZEVlY19Ia2E1di1KbWRuTGcxX3NDMk1BZjg2bDZQbF9Wc3hqMGhNMnQxWFRMMmd1eFl5VEtFSURqSmRZUWNvdEFCZXJSZUljTEItOXdadkU3VUNKX3dJZmM0Sm5yam9GemNheDYzT19mS1piZFZic0VRTzd1aGYxMG1TZjhtdDhMV3QxREplelh1N0JjNHg1ZjNHOEtkVlJzOHV5LWRjUlRDSXVGVkRXLXBZUERCUDhkQ1BERnltWC1fVUhpMUQ0QXBmWWtqdjNR?oc=5)
+
+---
 
 
 <div class="disclaimer">

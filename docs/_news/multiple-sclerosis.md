@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。20 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>20 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（14 則）
 
 ### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
 
@@ -85,38 +85,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-04
 
 來源：[Tgcom24](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDVDbjhmeEV1RjBFM2k4THpva3MzdjVKdHZ5Nk5CNE8zeHVwd1E1YWRTaVFDSTJCN1hiVjFJclR2OWhzcWhweERqSmVfcU1lQk4xWXZZSjh2TE0yZHhSOEJNR0RzTFgtVW9mN0VIak53Qkt0MGtiZlVFSVNRWnRJdTJwbzJuSmhvMmYzb2FhSjB0cE1neDh2c2ZwYnJxLUZ6YkhfVDNwQWE5bjVrMkd1a2czUnfSAWhBVV95cUxOdWRSbWF6MjZvVzRVVTJEWHVmUmI0R2hwenVBZV96OVRENjVNZjNab1d6bXhBVDYzUzFCbm92cTlXV1BaNUM4YmtPNXh2QWx0X0xCa0lnWmFpSDZpd3NqNVZJeWx2SVNoRA?oc=5)
-
----
-
-### [La EMA y las agencias africanas evalúan siete candidatos contra el brote de virus Bundibugyo](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
-
-2026-06-04
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
-
----
-
-### [GLP-1-Therapien: Demenzrisiko bei Diabetes um 53% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeENKVHN2aGxjV1dvZk8tS2w5bHR1bVVuV3lqUWZkZWVzNUtQc2JpUlhaTlVEcXMyU3VUb0ptV1hKc24zdWxfYkJDU1Radzl2SnJWd1ZqTlNWMmotOUIyV2dlcjNPeE5MemVEWGQxTk1wOGcyTEVCd0xSbmJfOHVORVFyVUdlQWp4MmV4M3VzbEtPZ3E5YURscE12Mk5fSlZWaU9qbmNJZ1VwbVl0bkRkRVRR?oc=5)
-
-2026-06-04
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeENKVHN2aGxjV1dvZk8tS2w5bHR1bVVuV3lqUWZkZWVzNUtQc2JpUlhaTlVEcXMyU3VUb0ptV1hKc24zdWxfYkJDU1Radzl2SnJWd1ZqTlNWMmotOUIyV2dlcjNPeE5MemVEWGQxTk1wOGcyTEVCd0xSbmJfOHVORVFyVUdlQWp4MmV4M3VzbEtPZ3E5YURscE12Mk5fSlZWaU9qbmNJZ1VwbVl0bkRkRVRR?oc=5)
-
----
-
-### [MS-Diagnose: Bluttest mit 94% Genauigkeit sechs Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmtRWFRqOHIza2dVbHlVckNKZGlQWVJzY0hVQnpXUC0xWS1mRW92ejlJUm82eDJSNU1FZHpkZXQ0akJzemswOVVVV3lIVnVnb3ZRSXdqMnVrSUpEcV9qOHZnYmNTZDMyOUZUaU9IVlE5ZFV4UmhZdk1tVWFhQXVjVlBXaTdibHZ2VEdTUWNfQjRFNjF6NXg1d1NVb0RiZ1Fua1Iycl9zbWdsbW1HMFd5QzZwSHV3YjA?oc=5)
-
-2026-06-04
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmtRWFRqOHIza2dVbHlVckNKZGlQWVJzY0hVQnpXUC0xWS1mRW92ejlJUm82eDJSNU1FZHpkZXQ0akJzemswOVVVV3lIVnVnb3ZRSXdqMnVrSUpEcV9qOHZnYmNTZDMyOUZUaU9IVlE5ZFV4UmhZdk1tVWFhQXVjVlBXaTdibHZ2VEdTUWNfQjRFNjF6NXg1d1NVb0RiZ1Fua1Iycl9zbWdsbW1HMFd5QzZwSHV3YjA?oc=5)
-
----
-
-### [Demenzprävention: Pflanzenkost senkt Risiko um bis zu 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQi1xSkRhX0NDRS01NXRQZ2doZXdqX2kyblNVWHIxcEwwMkcxTmEyQlN3c1F0d3V4aVl2b09SU21uWDdBcUhXbm5uRW54MFhKZ1BDdGJfcDFmemgtUUlxNG5jRmIyTlhUelZqYTN6RmFjaG9sWFBtb3UwNkVOemotSmFwOHh5R2g0OTdPQkRMQ1Z6V1pwdVY0TmtDYzlFRmtBSVh4UkVSNUt5RVFBcVhNVG9WOA?oc=5)
-
-2026-06-04
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPQi1xSkRhX0NDRS01NXRQZ2doZXdqX2kyblNVWHIxcEwwMkcxTmEyQlN3c1F0d3V4aVl2b09SU21uWDdBcUhXbm5uRW54MFhKZ1BDdGJfcDFmemgtUUlxNG5jRmIyTlhUelZqYTN6RmFjaG9sWFBtb3UwNkVOemotSmFwOHh5R2g0OTdPQkRMQ1Z6V1pwdVY0TmtDYzlFRmtBSVh4UkVSNUt5RVFBcVhNVG9WOA?oc=5)
 
 ---
 
@@ -184,35 +152,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Datos positivos de los inhibidores de BTK en esclerosis múltiple](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG9tNTlTM2pPcV9tQTYtVmFWaEwyVzM0NFY3Q3VfVXpoYV8tZTZnSXl2eXFPMG1sLUtpTWptUXBKNHBCYVBteHZ2ajR0dGZhdEpxOFhCQk1yV3Y5Q1hNTGlGdFphblhnRzBIcGhuZ28zWERyTG9VaWQ1UzJhODROYVhra0RzdF9FRHZzMTY3YmVHSGV4ZnBOODdXS1VXNHVmQ2cxYXQ3RUM?oc=5)
-
-2026-06-03
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUG9tNTlTM2pPcV9tQTYtVmFWaEwyVzM0NFY3Q3VfVXpoYV8tZTZnSXl2eXFPMG1sLUtpTWptUXBKNHBCYVBteHZ2ajR0dGZhdEpxOFhCQk1yV3Y5Q1hNTGlGdFphblhnRzBIcGhuZ28zWERyTG9VaWQ1UzJhODROYVhra0RzdF9FRHZzMTY3YmVHSGV4ZnBOODdXS1VXNHVmQ2cxYXQ3RUM?oc=5)
-
----
-
 ### [Samsung und das Massachusetts General Hospital starten gemeinsame Studie zu Stoffwechseltherapien](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
 
 2026-06-03
 
-來源：[samsung.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
+來源：[Samsung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
 
 ---
 
-### [Two gym sessions a week are the key to a long life - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxObGRTQTNKV3JHZ3E3cXhYaTNKYjRITDdzQ3NVU3cwbFpvdkxFdVpLYUl1Q2ZXdmViTmM3dUhkNHpNUEZ4UmxfOHo4MThrS01BQS1ic1lUM0xfbHZsRjZsalhEZG9rUDdvUWpNQW84YXZRSVlCejMyN21HMU5RTWRjd1ZVOFJxbWE0OEttdW53?oc=5)
+### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
 
 2026-06-03
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxObGRTQTNKV3JHZ3E3cXhYaTNKYjRITDdzQ3NVU3cwbFpvdkxFdVpLYUl1Q2ZXdmViTmM3dUhkNHpNUEZ4UmxfOHo4MThrS01BQS1ic1lUM0xfbHZsRjZsalhEZG9rUDdvUWpNQW84YXZRSVlCejMyN21HMU5RTWRjd1ZVOFJxbWE0OEttdW53?oc=5)
-
----
-
-### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
-2026-06-03
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
 
 ---
 

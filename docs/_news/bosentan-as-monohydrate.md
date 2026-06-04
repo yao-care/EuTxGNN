@@ -14,7 +14,7 @@ permalink: /news/bosentan-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="Bosentan (As Monohydrate) 有什麼相關新聞？">
-<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bosentan-as-monohydrate/
 <p><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Hypertension : ces deux aliments faciles à cuisiner pourraient réduire le risque jusqu'à 30 % - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/bosentan-as-monohydrate/
 2026-06-03 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[COPE](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMC1WS05mVy1VOXlZTVczektHU1RSSHhvc0tyUWVodGJZeG1XaE9ZTUh0Mlk3VXl1WHMxTjBYNHNOS09DZ1FidzNveGp3RHJUblBZTm1TeTk3ZUkwdW01RXNGQTVUX3lXeFVQQlRKZWI5ZHhpME43LXd0QktPX0lHcTg0bFNXZFN2SkNuMGlYSXdNUmdDeUpWeTd3Z0dXOTA0T3BvdlY0U3FFa3M2VVlUel9ydTJ3X1prZlB2Q1pmQk9MdTNGelZsSjc1WFRZTVJ3akk0VlBOYVhMRFFUUlNlUnk5TDJvMkplVmRPMHpsaGFGY2l0U0hralVscllFZUnSAYQCQVVfeXFMT1l3Y2k0aTFXcVVYOWREaFNUdWJqcHJ6OWVVSjMxSFJNOFJFSGVXdHNVcjkzY1ZmbWQzaEoxZWFpa2RhaTl4cW1MaWtQZk5zSW9Dc2lzUmVOT1Z1OGpwNXROU2lVdEI4bmRVVUdESjVOTS1Gd3VrbWc2YnNIWkh2YTg4d2NWWG5rQ3J4R014cWY2RGNRaWZDV3IwTE45TU5HcEhMNGtOV2ZvbGpYUXRibzhvUFVTXzctSERwVUR4aGtjdmtTWEZjd2VLQl9iM1N5bDQ3S2pZZXpyY2p1bU5hRzlXRU0wY2w1TjhxWUlUam9tMjctbUFOUEhZcWZnakt1NjVldnM?oc=5)
+
+---
+
+### [A cheap arthritis drug shows promise treating RSV in early study - Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
+
+2026-06-03 <span class="news-indication-tag">arthritis</span>
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
 
 ---
 
@@ -86,27 +94,11 @@ permalink: /news/bosentan-as-monohydrate/
 
 ---
 
-### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
----
-
 ### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
 
 2026-06-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
-
----
-
-### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
-
-2026-06-02 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
 
 ---
 

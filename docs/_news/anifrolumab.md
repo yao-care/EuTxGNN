@@ -14,7 +14,7 @@ permalink: /news/anifrolumab/
 ---
 
 <p class="key-answer" data-question="Anifrolumab 有什麼相關新聞？">
-<strong>Anifrolumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Anifrolumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/anifrolumab/
 <p><a href="{{ '/drugs/anifrolumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [Diese Lebensmittel können Demenzrisiko um 58 Prozent erhöhen](https://news.google.com/rss/articles/CBMidEFVX3lxTFBnRGhLOUpwMTQtbEduTU1CRWFxNElqSFJiTzZrVWJmNkxMT1NuTkdobTJXVENjSjg4U0JKNFhJZkVDY1dxS0xVM05XX2VRTlBqb3ljeC1FaUFwM3IzTnpCenNtQnhFNGhDRllqNzBZY0FVRVRq?oc=5)
+
+2026-06-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMidEFVX3lxTFBnRGhLOUpwMTQtbEduTU1CRWFxNElqSFJiTzZrVWJmNkxMT1NuTkdobTJXVENjSjg4U0JKNFhJZkVDY1dxS0xVM05XX2VRTlBqb3ljeC1FaUFwM3IzTnpCenNtQnhFNGhDRllqNzBZY0FVRVRq?oc=5)
+
+---
+
+### [Diabetes-Risiko: 20 Gesundheitsmarker schlagen BMI um Längen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
+
+2026-06-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Fettleber geht mit Glukagonresistenz einher – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHhqa1M5czB6TzRLYUJkZWxuSmxQWXJfMkx3ZlM5NHNtSU5TQzQxR0lSYVZFODZVTEdPTlNLUFpNS1A2ZTNHUXQzZ1RVbFJJWHgwWTlnaEc3N2ttb3FnV3NoUjBnOU9VTXEzenFqRUJPQlI2dFZVSzREdlpla2ZiQi1GdXc3LVhYWE9DaFVvcl9ja2tNT29NQXZQWTBPQjRYTVdEbVI4cmJwd2RaWDdpVVJRbnphZjdQTkVkM1Y2TV93R2U3b21rajVxelVzcURNYjl2MGR1S3o4NFBD?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/anifrolumab/
 
 ---
 
-### [GLP-1-Therapien: Demenzrisiko bei Diabetes um 53% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeENKVHN2aGxjV1dvZk8tS2w5bHR1bVVuV3lqUWZkZWVzNUtQc2JpUlhaTlVEcXMyU3VUb0ptV1hKc24zdWxfYkJDU1Radzl2SnJWd1ZqTlNWMmotOUIyV2dlcjNPeE5MemVEWGQxTk1wOGcyTEVCd0xSbmJfOHVORVFyVUdlQWp4MmV4M3VzbEtPZ3E5YURscE12Mk5fSlZWaU9qbmNJZ1VwbVl0bkRkRVRR?oc=5)
+### [Tirzepatida (Mounjaro®), el agonista dual GIP/GLP-1 de Lilly, demuestra los beneficios de su uso temprano en diabetes tipo 2](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdTBOM1hwWmVHUjNacUVuWlFUeHFWbm96VVI4WHdHX2p2U0RmUVNITXliRDlldGhzSERoX3lnV2ZoOXNoaC1SSHhOZUpQWlF3NTc5QjRONWVoT2tHdDA0djc3QUZ4SUlFYzJRalNzSmRfWEtxVnRTWHB1MTVKVlFTZktsR2FGa1FabXhPQzE5QnNSenFMS3N0MGttaEpMamlpbjBPWlNHMlNvVUJodTJHQWdtbjRJTWJwYTdORnRYdDFfUl9PSkp6TGZGQ1NiX2ZSNkFsUWRWdDB4Q1A3elVGZFNDaDVIRGg5cHl2dUd2SThTcjIxMENvdUttbTktRldu0gGGAkFVX3lxTE9CcFlnU0VtNXU4WjhlVTBQSUQ0Z1JiMnlubjRMekZuNF9PV08tdVdrdEhlVm5qdmUtYXZZbzhQQmpVYUhONEVDWUgyNkVXN3B4anhaMURpcl95V0tNdzM4SUY0LXVCZTN6UHJlTWNnUElYbURSNHpGdkRuOVU2WC1MV0trWUNpRkMtX3BlakhjMjFaZmdadk9EV2czRGNLdlN2VVVuQ1lXUEw1UVMwV2Eza1YxMDB2N0JHdW1Za2RhRUwxZFBMXzlVbi1XeVctVXlSUXdGWnNQWXlJcHF3U3BySHlMWXI0UWt3N1FSb1N6Z09yRkVOUGdFeW1LbHBmbWFwVndWdWc?oc=5)
 
-2026-06-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeENKVHN2aGxjV1dvZk8tS2w5bHR1bVVuV3lqUWZkZWVzNUtQc2JpUlhaTlVEcXMyU3VUb0ptV1hKc24zdWxfYkJDU1Radzl2SnJWd1ZqTlNWMmotOUIyV2dlcjNPeE5MemVEWGQxTk1wOGcyTEVCd0xSbmJfOHVORVFyVUdlQWp4MmV4M3VzbEtPZ3E5YURscE12Mk5fSlZWaU9qbmNJZ1VwbVl0bkRkRVRR?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdTBOM1hwWmVHUjNacUVuWlFUeHFWbm96VVI4WHdHX2p2U0RmUVNITXliRDlldGhzSERoX3lnV2ZoOXNoaC1SSHhOZUpQWlF3NTc5QjRONWVoT2tHdDA0djc3QUZ4SUlFYzJRalNzSmRfWEtxVnRTWHB1MTVKVlFTZktsR2FGa1FabXhPQzE5QnNSenFMS3N0MGttaEpMamlpbjBPWlNHMlNvVUJodTJHQWdtbjRJTWJwYTdORnRYdDFfUl9PSkp6TGZGQ1NiX2ZSNkFsUWRWdDB4Q1A3elVGZFNDaDVIRGg5cHl2dUd2SThTcjIxMENvdUttbTktRldu0gGGAkFVX3lxTE9CcFlnU0VtNXU4WjhlVTBQSUQ0Z1JiMnlubjRMekZuNF9PV08tdVdrdEhlVm5qdmUtYXZZbzhQQmpVYUhONEVDWUgyNkVXN3B4anhaMURpcl95V0tNdzM4SUY0LXVCZTN6UHJlTWNnUElYbURSNHpGdkRuOVU2WC1MV0trWUNpRkMtX3BlakhjMjFaZmdadk9EV2czRGNLdlN2VVVuQ1lXUEw1UVMwV2Eza1YxMDB2N0JHdW1Za2RhRUwxZFBMXzlVbi1XeVctVXlSUXdGWnNQWXlJcHF3U3BySHlMWXI0UWt3N1FSb1N6Z09yRkVOUGdFeW1LbHBmbWFwVndWdWc?oc=5)
 
 ---
 
@@ -86,27 +102,19 @@ permalink: /news/anifrolumab/
 
 ---
 
-### [C’est quoi « les oreilles Ozempic », cet effet secondaire de la perte de poids par Wegovy et Mounjaro dont personne ne parle ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
-
----
-
-### [Mounjaro demuestra beneficios en su uso temprano en diabetes tipo 2 - Gaceta Médica](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYy1QTFM1eEdadWtJbzAzcUJIcTBScHJQZTN1LWMzSExzdV82d1kxU1Z4aXVSMEZGLVlRdjE1UFJpQWpSTW1EVDgwZFdybnRuLTF2NWRzUFBkVk5vVVNJbUt4Q2F3RG12ZFJrUVRNZUw0c0dTODhwWTE1a2haVkpFcVlMWTVCTHJtcGdpcVZ3ZXlvQQ?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYy1QTFM1eEdadWtJbzAzcUJIcTBScHJQZTN1LWMzSExzdV82d1kxU1Z4aXVSMEZGLVlRdjE1UFJpQWpSTW1EVDgwZFdybnRuLTF2NWRzUFBkVk5vVVNJbUt4Q2F3RG12ZFJrUVRNZUw0c0dTODhwWTE1a2haVkpFcVlMWTVCTHJtcGdpcVZ3ZXlvQQ?oc=5)
-
----
-
 ### [Designstudierende entwickeln Armband-Idee für Kinder mit Typ-1-Diabetes – Eure Erfahrungen sind gefragt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbTNheWhvblRsek5aSm1WTC1XeUZQVGQ1TXFoTk03cWZySC1fMDA5ZmVUOEJaaHg3ZGE1ckMxbEU3Nm1ucElULVNwcFJKNElIdDNoZHF0WnpsRGpaV1FVbHJPMTZqWkVzaE8yeXNqazdIM25YNGNYV240R29iMTctMnlPTWFYSXJWVXFSNkJLLURfRHNxYjVUUHBJUFNBWEh3cGRHYjB5ZjVrWnBaQW5HMExxdzNmbC0xcnkxZ2xRX3VMMHBwdWRwc1piUFhoWmZ1Q0tzSHgyUHlFbXM?oc=5)
 
 2026-06-03 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbTNheWhvblRsek5aSm1WTC1XeUZQVGQ1TXFoTk03cWZySC1fMDA5ZmVUOEJaaHg3ZGE1ckMxbEU3Nm1ucElULVNwcFJKNElIdDNoZHF0WnpsRGpaV1FVbHJPMTZqWkVzaE8yeXNqazdIM25YNGNYV240R29iMTctMnlPTWFYSXJWVXFSNkJLLURfRHNxYjVUUHBJUFNBWEh3cGRHYjB5ZjVrWnBaQW5HMExxdzNmbC0xcnkxZ2xRX3VMMHBwdWRwc1piUFhoWmZ1Q0tzSHgyUHlFbXM?oc=5)
+
+---
+
+### [Investigan la relación de los horarios tardíos de comidas y sueño españoles con la diabetes - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGZ4QmhjLUcyQkNJUHBkWS1PaXNWXy1zRmJtV040dnBiQ0lZTFpZOXk4ZTRyT2o0Y0tjSkxSZ01uZ0JzaXNBd3U1Zk9RLS1ocW9pUHp3elI1Sk04V1lhR3hUMDBiZ0JSM0xRZjZ3VmNXR0QtOWYzMkw2R2Y1MFpadl9WaDZldHMzNlpHblA2Q2RjXzdKdjVSb0l4Y0NZdk1mVjBfNnlpSjZVd3oxVmZ5N0lqeDBxUnZHWGk5T1Nvc9IBugFBVV95cUxNY25TWFFrcFJ4ZW03Wk50VVFhOGtQSk50Q1Z5Zm1Mck1oUklBVnRRVXdXQmZJZXpwbzRrZUFXSnBudmVreWRxUmQzdHZuVXpiMllzdGFISF84aUVYeHRIa0hVRTB5cEpaMU9FV1VwRnFkSnFURTZhRWJ4cHlhRnpuSjF2LUtVX0hjVWwwN0lSeS1DeDh5WFpINldiRGhVeU5LbU1iSEFBal9wbUNsT0xUX0U0WUhUXy1CTlE?oc=5)
+
+2026-06-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGZ4QmhjLUcyQkNJUHBkWS1PaXNWXy1zRmJtV040dnBiQ0lZTFpZOXk4ZTRyT2o0Y0tjSkxSZ01uZ0JzaXNBd3U1Zk9RLS1ocW9pUHp3elI1Sk04V1lhR3hUMDBiZ0JSM0xRZjZ3VmNXR0QtOWYzMkw2R2Y1MFpadl9WaDZldHMzNlpHblA2Q2RjXzdKdjVSb0l4Y0NZdk1mVjBfNnlpSjZVd3oxVmZ5N0lqeDBxUnZHWGk5T1Nvc9IBugFBVV95cUxNY25TWFFrcFJ4ZW03Wk50VVFhOGtQSk50Q1Z5Zm1Mck1oUklBVnRRVXdXQmZJZXpwbzRrZUFXSnBudmVreWRxUmQzdHZuVXpiMllzdGFISF84aUVYeHRIa0hVRTB5cEpaMU9FV1VwRnFkSnFURTZhRWJ4cHlhRnpuSjF2LUtVX0hjVWwwN0lSeS1DeDh5WFpINldiRGhVeU5LbU1iSEFBal9wbUNsT0xUX0U0WUhUXy1CTlE?oc=5)
 
 ---
 
@@ -131,6 +139,14 @@ permalink: /news/anifrolumab/
 2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiigJBVV95cUxOY0dqMWEzbF8zTS1CYXNmUkNyRHFJZGU3OF9Gd1NIZG8tRGs5X2g2MGVmNGwzMlFVMm13Y2dRcVhuS283aDA1WGRFeVZpU1hzdDNiT1hxU0lWMUlwbkh1ZkpCRUxoY3pYY0lueDhnVWZTcC16REVaclptX0JVT0NNX2RlckxJUGZhOGZZTFZSbXRaXzhSX1FUcm9CRHZxZ2J5ZjNMSGZQUjZuWWlWU2xKclU2Sjktc3BFWXBtTm1CTmNXd1JvNTczT0ppSGVJVUpzdzhKWWVfaUFIcU5IOGcyUjN5SmNnenpBQXNCekFsTEQ0ZjVEZ0NzbWw2VGhBdHNNeWtib2paYkoxQQ?oc=5)
+
+---
+
+### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
 
 ---
 

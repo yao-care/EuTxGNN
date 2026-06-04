@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Kinderernährung: Obst senkt Angst, Snacks verstärken Unruhe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmVDanFlVDgtWFpZcjdhRkdPSEt6Q0t4LVhHZ1lyVi00eXc5UmNaS2hvRXY4RTI0d2hyTWVaQmctUU1oTHFncFBMV0JmQlQybzNjZUNJTnlhczMtLXlodkNCXzllZVBfVkNzTW9qeFNXZDcybmU1cVdNNG9VSjA0bi14bVV3U1V5VXpxM3plYVhURUY0V0JtcEtSdDBoZ2NGQy1hanZJZVRUSlRS?oc=5)
+
+2026-06-04 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmVDanFlVDgtWFpZcjdhRkdPSEt6Q0t4LVhHZ1lyVi00eXc5UmNaS2hvRXY4RTI0d2hyTWVaQmctUU1oTHFncFBMV0JmQlQybzNjZUNJTnlhczMtLXlodkNCXzllZVBfVkNzTW9qeFNXZDcybmU1cVdNNG9VSjA0bi14bVV3U1V5VXpxM3plYVhURUY0V0JtcEtSdDBoZ2NGQy1hanZJZVRUSlRS?oc=5)
+
+---
+
+### [Dépression, anxiété : ce trait de personnalité qui fragilise les jeunes adultes](https://news.google.com/rss/articles/CBMie0FVX3lxTFBPOUNGZVhSTndXellTRTVGMUhMUnNCaVdoSXJFVjV6YkhVTzNidm5wMTJWT3dJbEg4REIta0ZDcHRReHoyOEUtbmx4VWRCTlRIMlRLQ013WUFnVmN4aVI3UUJsRDlNRm1nVUdqdkVGY0dHaFNwZEZrQVhJdw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">dépression</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMie0FVX3lxTFBPOUNGZVhSTndXellTRTVGMUhMUnNCaVdoSXJFVjV6YkhVTzNidm5wMTJWT3dJbEg4REIta0ZDcHRReHoyOEUtbmx4VWRCTlRIMlRLQ013WUFnVmN4aVI3UUJsRDlNRm1nVUdqdkVGY0dHaFNwZEZrQVhJdw?oc=5)
+
+---
 
 ### [La depresión acelera el crecimiento maligno en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUx4a0JQb0VtXzNnTUhFZURhbXNvZTdXaTJ2cHQ3Vm12V2EyMnNNR29WU1htaU5jcmtvRkRsVXJIRG9vTkliLW4yZjdhWEtoOXVWNzEyOVU4WDZWck1BSEFSb3haQ0o3eDlLTFNiWGYxN1pXVGJCNzJYZUxyX2hHWWd3ZzdMc2d5T1lJeDF2Q0x3RlBRc3ZIQm1RSEJtaXJCdlhxZXpEZDFFUlVfck91QnlMUzV6Y2luZDJF0gG2AUFVX3lxTFBDOENGZnBDUTJLeTdqajJuZVhDUHRiQU13dDV2MFBaSG4ySzRUd2tsNzloYXBWSVhaYWdWRWhMWnhna2dSZDI0RjlRazNXOHNYTFRQREhFNnJQRFphRXBCREF0SE44NWlWOWI5N2NyM2tIWkJTanBWSlRpMWt0ZEIxRXE1VTdvRktKdl9hZGpiQTdLekl4cEtUcnpDV3FjaDVvTUZzSlpjcFB3WXZIQkUwbGtYX1FR?oc=5)
 

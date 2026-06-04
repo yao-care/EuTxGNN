@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="Degarelix 有什麼相關新聞？">
-<strong>Degarelix</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Degarelix</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/degarelix/
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（30 則）
 
 ### [Gesunde Schwangerschaften zeigen aktive Plazentakontraktionen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTBNT05jQWRuTHNSUFRSYmZ4UEJERU4yYmF0OVltemd2bXg5VHl5OG9fVXo5cHFON0JmZFhOMXNMM3JLSl9nQnR6RnhhM05yQ1NNTkVCZV9RVFZ4R0g3c3JHQngxQnlsWTY0LXBvQlBYRGtNb0k1bFhhVHh1d19lZ1Vpekh1MFRnYXBfQk9weTVWNldJM3RVNmEzSkZtbVdZMzg3YkJ2OGlodEV4c2hRX1UxdFFaOWY3TWlfa3cxWWhaalJQb0d2RmRR?oc=5)
 
@@ -86,17 +86,17 @@ permalink: /news/degarelix/
 
 ---
 
-### [Forschung aus Jena entschlüsselt neue Form bakterieller Virusabwehr - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMixAFBVV95cUxPTndzN3RVR2JjVjA1TUtZWnA4MUlaME1vYnMwb1JpWVZEcm1lbGxQYVd1YVVJRUJLMTlyeXNUYU13LWNXNzZhRm5nMDNwcHRGNU1QVjNpdmtFY3VqaVVfZFN6TlBpcHQtaUtHdFVkNjB6OHFCM3ZkTXEyOHh4OERLT2V0TnJuZ1Qtd1JCQVNGcXZxZm90ZG5qNGtfYlZoa0tzYTNScnVTd3pvb1lTQVFfYmVtWmhQQXQ4a1V3RW5VWmMxc1Jl?oc=5)
+### [Neues antivirales Antibiotikum - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZWt4Z0RKQ3RaOTZoRHFXRFkzblRUMGo3NEZLRUZ6aTdrYU9QVnhhWEJYcTJlbW0tLUUwTFlYbEJLV05KWEZwajdQRQ?oc=5)
 
 2026-06-04 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMixAFBVV95cUxPTndzN3RVR2JjVjA1TUtZWnA4MUlaME1vYnMwb1JpWVZEcm1lbGxQYVd1YVVJRUJLMTlyeXNUYU13LWNXNzZhRm5nMDNwcHRGNU1QVjNpdmtFY3VqaVVfZFN6TlBpcHQtaUtHdFVkNjB6OHFCM3ZkTXEyOHh4OERLT2V0TnJuZ1Qtd1JCQVNGcXZxZm90ZG5qNGtfYlZoa0tzYTNScnVTd3pvb1lTQVFfYmVtWmhQQXQ4a1V3RW5VWmMxc1Jl?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZWt4Z0RKQ3RaOTZoRHFXRFkzblRUMGo3NEZLRUZ6aTdrYU9QVnhhWEJYcTJlbW0tLUUwTFlYbEJLV05KWEZwajdQRQ?oc=5)
 
 ---
 
 ### [La EMA y las agencias africanas evalúan siete candidatos contra el brote de virus Bundibugyo](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
 
-2026-06-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-04 <span class="news-indication-tag">AF</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVkVmZxd0xFMnpSUTEwdV9aeFV4RDF0aGFoTEZpY2dqdGFSTXNRMjVqMHFXLTRJU25HQjR0bWpQV3M5bjdOQ0VQYnd1dk1OTzVlMWV4MVE2ZmFnSTg3TUwxMlRfZU1fVkhaa2xQeHh0dEhkUXgxRWZLQnJSX3pvUzFSQnRxUjRTaUlYdlVqMFdhbEpuX2Z3WVp1STAwaGJrTzZRT2p1Y1pRYnBURV9tZlAxYW5Nam96TWN4bmQwQUc2Y3JHN2c?oc=5)
 
@@ -110,11 +110,27 @@ permalink: /news/degarelix/
 
 ---
 
-### [Longevity: Verlangsamt Kaffee das Altern? Studie liefert faszinierende Beweise - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQllrRkdqdkR2MV93VFdQbFNMX0tXSW9heVdycU5lclVlc2xid2g0RzJQUDNvcDgyQTJHTGFvMVByYXpUVWk3YTFnalRLdWdpYWsybG1YRWlPTkF3MW1TeFU0YU1NS2dyNUNKVUpLRXpDT3VQS1o1T0lTRS1IVlJCYWJqVEJkZDkyLUJCRFYxdW9HQy1ncXAwWndaR05Yck13M1hHd2IweGxCbXE5eXJnX3k3STZGUy1Zd1lB?oc=5)
+### [The race to combat Ebola: what vaccines and treatments are being developed and how long will it take? - The Guardian](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTN5NWR3MmNYX1U0N04wUDVmbTlNWTlINjJpelRQNEs1ZU5rR0NBLVJiQVYtbUVteVVaWE5DZElaWUFFZk5feS1Oc1o3c1lmY3BHMjh5MTBkZnp6ZlZhOS05Z3ZjbTJxdXlpd3lMdDFfTFNmbVJEYUFmdWhqbWxodE44UWNuMjNRcVlWdkZ5WkE0QzVuWUI3YjdDaGUwU0lEaFNsNV9yUEJfdFNaQVZkTVhBRDMxa0w5bTVQbS1MX3QyZDlwR05LWjkyQWZyejR1NVlLbkZPUUx0bmdfNUtTUjJROXZFVkJVSi1DUzM4TQ?oc=5)
 
 2026-06-04 <span class="news-indication-tag">AF</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQllrRkdqdkR2MV93VFdQbFNMX0tXSW9heVdycU5lclVlc2xid2g0RzJQUDNvcDgyQTJHTGFvMVByYXpUVWk3YTFnalRLdWdpYWsybG1YRWlPTkF3MW1TeFU0YU1NS2dyNUNKVUpLRXpDT3VQS1o1T0lTRS1IVlJCYWJqVEJkZDkyLUJCRFYxdW9HQy1ncXAwWndaR05Yck13M1hHd2IweGxCbXE5eXJnX3k3STZGUy1Zd1lB?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTN5NWR3MmNYX1U0N04wUDVmbTlNWTlINjJpelRQNEs1ZU5rR0NBLVJiQVYtbUVteVVaWE5DZElaWUFFZk5feS1Oc1o3c1lmY3BHMjh5MTBkZnp6ZlZhOS05Z3ZjbTJxdXlpd3lMdDFfTFNmbVJEYUFmdWhqbWxodE44UWNuMjNRcVlWdkZ5WkE0QzVuWUI3YjdDaGUwU0lEaFNsNV9yUEJfdFNaQVZkTVhBRDMxa0w5bTVQbS1MX3QyZDlwR05LWjkyQWZyejR1NVlLbkZPUUx0bmdfNUtTUjJROXZFVkJVSi1DUzM4TQ?oc=5)
+
+---
+
+### [Sheffield hospital patient gives robot surgery the 'thumbs up'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HbkdMT3pUOGo0OWZkcFliYXFnUEg1Ui01N1pEUks0RFdWRXRGY0VPbS1oREk1emNiNVNuYUhpVzJpVm1sUS1UVFJWNVd6dVFkRFhkZ3pGMTlSTE9M?oc=5)
+
+2026-06-04 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HbkdMT3pUOGo0OWZkcFliYXFnUEg1Ui01N1pEUks0RFdWRXRGY0VPbS1oREk1emNiNVNuYUhpVzJpVm1sUS1UVFJWNVd6dVFkRFhkZ3pGMTlSTE9M?oc=5)
+
+---
+
+### [This mysterious lung disease affects millions of people — but a drug tested in mice shows promise](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qR0w2cXY3a3p2T2xQUDVPcjBTWWJxa0I1a3p0ak9zZm1WckZOM3ltV2ZsNkpjcUY2ZThJeFVHTUp3N0dlWkxNOVF2OXRDUXVUSlB0R3JJeTI1NWdpQldr?oc=5)
+
+2026-06-04 <span class="news-indication-tag">AF</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qR0w2cXY3a3p2T2xQUDVPcjBTWWJxa0I1a3p0ak9zZm1WckZOM3ltV2ZsNkpjcUY2ZThJeFVHTUp3N0dlWkxNOVF2OXRDUXVUSlB0R3JJeTI1NWdpQldr?oc=5)
 
 ---
 
@@ -150,11 +166,11 @@ permalink: /news/degarelix/
 
 ---
 
-### [Ebola spreads to new areas of DR Congo as outbreak widens - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTFIM0F0UHU4U010S0p1cGpBQlN6dWdhUVoyaWlpQzdiZm9HcWNmX3JSemZhWmE0UUpPVnp1T3hkU0x0cEg4NTdaUnJ6VjVrcVdxNFJTSWdQR290bUZ0WWxhdWFaYUwwck9YQkZpV1l5ejNkNzdyX3JualJJUDUzRkpuS00?oc=5)
+### [DRC Ebola outbreak could have begun as early as January, WHO chief says | Global development - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm9kVHo5bkhsNUxiWk0yQ3YwcWFiZllncWZocWxQUVpZaG93YnJ5bVZoZzJ0Nk81SHoxN1VnWkFSRUVCa3kyMEhiU1hsUnpraHdKTU5PdTNzRl9fVVJWdG5HZVNmRmI3cXBnQnBoU2EyQkhVRmtGd1QzbXJtYUxnNjBRYXJDZlBwUlV6ZEM4c2h0clhQZ3NQTER5NVRDTFpfMlYyclQ1Z2xpLTM0Q1NPZnB5aDFQdDg0YWo2Qm9VMFpjOXQ1LTk4Zg?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
 
-來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTFIM0F0UHU4U010S0p1cGpBQlN6dWdhUVoyaWlpQzdiZm9HcWNmX3JSemZhWmE0UUpPVnp1T3hkU0x0cEg4NTdaUnJ6VjVrcVdxNFJTSWdQR290bUZ0WWxhdWFaYUwwck9YQkZpV1l5ejNkNzdyX3JualJJUDUzRkpuS00?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm9kVHo5bkhsNUxiWk0yQ3YwcWFiZllncWZocWxQUVpZaG93YnJ5bVZoZzJ0Nk81SHoxN1VnWkFSRUVCa3kyMEhiU1hsUnpraHdKTU5PdTNzRl9fVVJWdG5HZVNmRmI3cXBnQnBoU2EyQkhVRmtGd1QzbXJtYUxnNjBRYXJDZlBwUlV6ZEM4c2h0clhQZ3NQTER5NVRDTFpfMlYyclQ1Z2xpLTM0Q1NPZnB5aDFQdDg0YWo2Qm9VMFpjOXQ1LTk4Zg?oc=5)
 
 ---
 
@@ -174,6 +190,14 @@ permalink: /news/degarelix/
 
 ---
 
+### ["Entdecken Sie Ihre Kraft" – Gesundheit auf allen Ebenen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2xMOVo5ZGtBb3hma0VBckxqd0NnOVQ3azVFVDFnOXozOUV3VWgwX3JvVi16MG9seFpDTTZIeVdQUmxELWx6MFlwTk1SeTI1LXZnU095Q1IxZ21WekVlanBnNmVYaDlfUEVpLVlZUldfQmdMR3EtQXhoR0NlMl9MbG45dWRZMURZM0pZOFpLTXRLX2ZGd0luUy1rT3BQOGxycnhpR0dydm1uZDhOMlpxcUhmX19HUEhIZFE?oc=5)
+
+2026-06-03 <span class="news-indication-tag">AF</span>
+
+來源：[MeinBezirk.at](https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2xMOVo5ZGtBb3hma0VBckxqd0NnOVQ3azVFVDFnOXozOUV3VWgwX3JvVi16MG9seFpDTTZIeVdQUmxELWx6MFlwTk1SeTI1LXZnU095Q1IxZ21WekVlanBnNmVYaDlfUEVpLVlZUldfQmdMR3EtQXhoR0NlMl9MbG45dWRZMURZM0pZOFpLTXRLX2ZGd0luUy1rT3BQOGxycnhpR0dydm1uZDhOMlpxcUhmX19HUEhIZFE?oc=5)
+
+---
+
 ### [I've flown to Turkey for life-saving £200K liver op after NHS denied me surgery - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE40ekFaZFdSeHZ6aUp0SVd0TE1VcEVfSEFIOEpRLWdUWlRtQkFaVlNObExZMTNsY2UzdEl4bXRhNy1uNklfTjJZdnlVbHk0WWhfcExfWWhSV0NVaVI0V3pkOEtEWEZ1ZHBUS2hRR2NfREhoUVVHX1htZWVJaGZxUms?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
@@ -182,19 +206,19 @@ permalink: /news/degarelix/
 
 ---
 
-### [Unsichtbare Todesursache Sepsis: Warum Deutschland ein Wahrnehmungsproblem hat - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX1h0OXFKYVZCNlMyUjlfV3BPYmdBaGFvQUYzdGx4WnBzSnVYSmtaNnlpQ3AwaHZ1bDdvV1lUQTlGbkZQcEM4WlV6NDl4eXppN2F1ZTJha2ZXYWcyRE9nYXpYUEFaZkFIMVhBdEpaMUZHREtERnpXcW9WakxCMHlkdi1Qc00wMlM2d0xhTmV5djlzUVZFVFFoMnBsTktSWWdxWjRRZzAxaXJBczR6VTZwaGxsdk9yUjAybHVtR1JwWC1Uckx2dkxkOUcwVENWVzlR?oc=5)
+### [Unsichtbare Todesursache Sepsis: Warum Deutschland ein Wahrnehmungsproblem hat - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZTm9QYm5IQW9KZnhqQUtOQW1aMXEzSzliMWhtNm4wVmE4SW10WWs2enhnM09MMXdMOU5WQkJjdUk2eWdDRlFva3Blbw?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX1h0OXFKYVZCNlMyUjlfV3BPYmdBaGFvQUYzdGx4WnBzSnVYSmtaNnlpQ3AwaHZ1bDdvV1lUQTlGbkZQcEM4WlV6NDl4eXppN2F1ZTJha2ZXYWcyRE9nYXpYUEFaZkFIMVhBdEpaMUZHREtERnpXcW9WakxCMHlkdi1Qc00wMlM2d0xhTmV5djlzUVZFVFFoMnBsTktSWWdxWjRRZzAxaXJBczR6VTZwaGxsdk9yUjAybHVtR1JwWC1Uckx2dkxkOUcwVENWVzlR?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZTm9QYm5IQW9KZnhqQUtOQW1aMXEzSzliMWhtNm4wVmE4SW10WWs2enhnM09MMXdMOU5WQkJjdUk2eWdDRlFva3Blbw?oc=5)
 
 ---
 
-### [Deux virologues inculpés pour avoir importé le virus mpox aux États-Unis - 20 Minutes](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnVpZzJEMW9WQ0VPLUk4QnMtRWtIODZZTTFvZ08wcGFIUG14VklQUnFEOUhBVDhqeHMwY2c2THBkOEFaZ3FGMGtZb1VTakZsVnRfejc2cUhRTU80N1YwS1hEeXdhZWgtSWdOTnB1QXVCamxFVE9oTUhWYnR0N1k4dEpjc2ppQWZYNDBzRjhsRU5tcUVzdGRHRlg0YlpuM0wxR3RKRVFNREpjU1JMRGN3UkZ2LU1uQjZIX2ZqNzdmOFBRdWM0TExGMmM1U19CUk5pQU9uaGF1T0s?oc=5)
+### [Deux virologues inculpés aux Etats-Unis pour avoir tenté d’importer le virus monkeypox d’Afrique - Le Monde.fr](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLVNLaEV6bXdtcVFtajdyMlFIM2Rqa1kwbFRPQ3RvTHpYM0k5OWdzMFdDNVNlemtsTUxOWnFselFlelpYZ0lHV01PMEd2TE9JSHlRTnd0cU5NY3BZanRHQVNmcXRUTko0LS1oUHV2VFJmaGNGUjNmTldyQl9wQzNnRjNMVE1nWFZFTllkdnZjRjcwcDYtQmhIODBlbk9VbWFSODIyVnVyOHFuUTlzYmJ2bXlBaHhjN3ZrMndodFA4RF9nSThqZzcxSnRYNnhyVzNWLWx0QU9jSk9JUmpWRVNkVWktcWpmcmhPdDlZYU1YTUpGRGFKMllj?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
 
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnVpZzJEMW9WQ0VPLUk4QnMtRWtIODZZTTFvZ08wcGFIUG14VklQUnFEOUhBVDhqeHMwY2c2THBkOEFaZ3FGMGtZb1VTakZsVnRfejc2cUhRTU80N1YwS1hEeXdhZWgtSWdOTnB1QXVCamxFVE9oTUhWYnR0N1k4dEpjc2ppQWZYNDBzRjhsRU5tcUVzdGRHRlg0YlpuM0wxR3RKRVFNREpjU1JMRGN3UkZ2LU1uQjZIX2ZqNzdmOFBRdWM0TExGMmM1U19CUk5pQU9uaGF1T0s?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLVNLaEV6bXdtcVFtajdyMlFIM2Rqa1kwbFRPQ3RvTHpYM0k5OWdzMFdDNVNlemtsTUxOWnFselFlelpYZ0lHV01PMEd2TE9JSHlRTnd0cU5NY3BZanRHQVNmcXRUTko0LS1oUHV2VFJmaGNGUjNmTldyQl9wQzNnRjNMVE1nWFZFTllkdnZjRjcwcDYtQmhIODBlbk9VbWFSODIyVnVyOHFuUTlzYmJ2bXlBaHhjN3ZrMndodFA4RF9nSThqZzcxSnRYNnhyVzNWLWx0QU9jSk9JUmpWRVNkVWktcWpmcmhPdDlZYU1YTUpGRGFKMllj?oc=5)
 
 ---
 
@@ -230,6 +254,14 @@ permalink: /news/degarelix/
 
 ---
 
+### [Miastenia Gravis, l’incidenza nell’Isola è fra le più alte al mondo: chi colpisce, i sintomi e le terapie - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzBhQy1iODRHR0VUY3BlQXFpUEg1cGswNVpxRkJ6ckpzYVc4dzZNcVBNWERJRUYxdk5YajJBdXBWSVU5OG9nb3dDRUpFVGwwc0dmSUl2TWtWM3FaMHJ6eWxXZVFfMjZGdGFVdWRJN2tyUXF5Y19tYkxLTlpHR041c0FWYVNlNjNYeUdQMkJUZ3NNY1dZejhfcmlldzhBWWpYRV9CUThVWF9jUHVKbEQtc25seml2MFdEeWN3M2ZmQS1mVUFST29OZFltSDZvTms4elRjcTdmelRQM3M?oc=5)
+
+2026-06-03 <span class="news-indication-tag">AF</span>
+
+來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzBhQy1iODRHR0VUY3BlQXFpUEg1cGswNVpxRkJ6ckpzYVc4dzZNcVBNWERJRUYxdk5YajJBdXBWSVU5OG9nb3dDRUpFVGwwc0dmSUl2TWtWM3FaMHJ6eWxXZVFfMjZGdGFVdWRJN2tyUXF5Y19tYkxLTlpHR041c0FWYVNlNjNYeUdQMkJUZ3NNY1dZejhfcmlldzhBWWpYRV9CUThVWF9jUHVKbEQtc25seml2MFdEeWN3M2ZmQS1mVUFST29OZFltSDZvTms4elRjcTdmelRQM3M?oc=5)
+
+---
+
 ### [»Kekskrümel unterm Himmelszelt«: Eine Zeitreise in sieben Tagen - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0lRNjZ2N2RyUnBwMWVKdk8tMTVDbTl4S01DV2pJd1JOWkZFV1lKUEdEYmxJWjNYeV9ac3N1SFFhbkJkT2p5NmVNbHllVXVUcXEyY1dveUFXWjVHbzRNZEJyZmtoRmNGb0h6MGRSdm5rblpFQWZvc0dJcGpHX20wd1ZqSTVsNlVVeE1YSkNDSQ?oc=5)
 
 2026-06-03 <span class="news-indication-tag">AF</span>
@@ -246,27 +278,19 @@ permalink: /news/degarelix/
 
 ---
 
-### [Ecografía pulmonar en pequeños rumiantes: aplicaciones prácticas para un diagnóstico rápido y fiable - Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnl0eGlpaC1QOUliTnEya2N3bnVQTWl2U2Q3dENhNmdTR2xlbFVBUDN6RXFOd2tUSHdzN0kzZHo5UTVVQThOZE9FT2htd2RaSjRVdnNSUnZhMHdaS0lIM1VnVlFCR1NVMkY5ekVfMl9iVUc4V3RseFJGUE51dE04T25OVXY4NzFndFctUjNnWU4zcXJkZWctTGVGY0ZXaXZyT2tKYU5GM3JUME9jdGszUXVEblVzeWtwTl9GdzZHaVlhV3UtWlMxc1d5c2t3MDg?oc=5)
+### [Two men charged with trying to smuggle vials of mpox virus into the US - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
 
-2026-06-02 <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-indication-tag">AF</span>
 
-來源：[Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnl0eGlpaC1QOUliTnEya2N3bnVQTWl2U2Q3dENhNmdTR2xlbFVBUDN6RXFOd2tUSHdzN0kzZHo5UTVVQThOZE9FT2htd2RaSjRVdnNSUnZhMHdaS0lIM1VnVlFCR1NVMkY5ekVfMl9iVUc4V3RseFJGUE51dE04T25OVXY4NzFndFctUjNnWU4zcXJkZWctTGVGY0ZXaXZyT2tKYU5GM3JUME9jdGszUXVEblVzeWtwTl9GdzZHaVlhV3UtWlMxc1d5c2t3MDg?oc=5)
-
----
-
-### [Angus woman ‘fighting for life’ after being left unable to eat due to rare food allergy - The Courier](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX01iVXNvU2gtUEpEcnZxM2ZyYmd0UGdjOTROZUQ0YXhqRnMtOFVfVk56OWdZS1lyTkstN1dWUDZDVFJiLWhCZVp1MkMtQkJxRy1ONnF4SVZJOU9Yc2tZY2cxblZfcWY0a1pVdXRXbmFUTWUwQTMxTXlwMjlUQXVTcQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">AF</span>
-
-來源：[The Courier](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX01iVXNvU2gtUEpEcnZxM2ZyYmd0UGdjOTROZUQ0YXhqRnMtOFVfVk56OWdZS1lyTkstN1dWUDZDVFJiLWhCZVp1MkMtQkJxRy1ONnF4SVZJOU9Yc2tZY2cxblZfcWY0a1pVdXRXbmFUTWUwQTMxTXlwMjlUQXVTcQ?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
 
 ---
 
-### [Could a gut microbe help reduce weight regain after dieting? New study suggests it might - The Conversation](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMm9Kb1pBZmozbF85SWZCcmtPa0JFaWk5S242b0Z0ZFZ4eU5IUi1zT0o5RmVOUkJ3LXFaS3pLMnBpM194b1k5bHBRUFI2U21MbkEzYjE1VTV6b0pBdXhFY3dKTmFuMjhRSkhYSnA1UTdfdGJaUldEeVhuZTB6QnRsVG43YlI3UnFiVF8wRnBkWTlqazhKYnh6UVZhekFQZF8xSk53cWpsc0ZMejMzVnZfaEVEOEE2a0VCcWRkV1hMQQ?oc=5)
+### [Sonne in H-Alpha - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMif0FVX3lxTE45empRSUhRcFl3TG1Yb3RZc19kenFRVTlZM0VIR2ItUmJKMWFDa25yVVYxMDJtNDl0bWdheG96YW56dUozVXNNMEZ2UHBrZEFhWW9QZElTcTBhVVBSTmM3aUpCaEFEM0hkMTB4amZkdndhUWI5MGdlck9abmJjMDA?oc=5)
 
-2026-06-02 <span class="news-indication-tag">AF</span>
+2026-06-03 <span class="news-indication-tag">AF</span>
 
-來源：[The Conversation](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMm9Kb1pBZmozbF85SWZCcmtPa0JFaWk5S242b0Z0ZFZ4eU5IUi1zT0o5RmVOUkJ3LXFaS3pLMnBpM194b1k5bHBRUFI2U21MbkEzYjE1VTV6b0pBdXhFY3dKTmFuMjhRSkhYSnA1UTdfdGJaUldEeVhuZTB6QnRsVG43YlI3UnFiVF8wRnBkWTlqazhKYnh6UVZhekFQZF8xSk53cWpsc0ZMejMzVnZfaEVEOEE2a0VCcWRkV1hMQQ?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMif0FVX3lxTE45empRSUhRcFl3TG1Yb3RZc19kenFRVTlZM0VIR2ItUmJKMWFDa25yVVYxMDJtNDl0bWdheG96YW56dUozVXNNMEZ2UHBrZEFhWW9QZElTcTBhVVBSTmM3aUpCaEFEM0hkMTB4amZkdndhUWI5MGdlck9abmJjMDA?oc=5)
 
 ---
 

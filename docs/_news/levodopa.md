@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [A Single Lifestyle Change Could Lower Your Risk of Dementia by 16%](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlBhYU5CRWtMV3NyU2VvLVc4NGpBVDBMQmVWeDVScmVwNldRMEZVZEpvU0hHRTJ3ajU1b2NVd1hVaUw0QU50RFRHUU5oMlRzOEJxMXZZRXdoVVZhR3E5UEdkeGdXakc1LUZoU2lxUm9GZjAxTmRmbTMxbHlPbmgzcXRHaEtaUjRCdWpDTjMxeDIyQ2FMVnpFUkxR?oc=5)
 
 2026-06-04 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlBhYU5CRWtMV3NyU2VvLVc4NGpBVDBMQmVWeDVScmVwNldRMEZVZEpvU0hHRTJ3ajU1b2NVd1hVaUw0QU50RFRHUU5oMlRzOEJxMXZZRXdoVVZhR3E5UEdkeGdXakc1LUZoU2lxUm9GZjAxTmRmbTMxbHlPbmgzcXRHaEtaUjRCdWpDTjMxeDIyQ2FMVnpFUkxR?oc=5)
+
+---
+
+### [« Il ne faut pas s’écarter du monde »: face à la maladie de Parkinson, ce couple cultive « l’espoir » et sa vie sociale](https://news.google.com/rss/articles/CBMingJBVV95cUxOcDdKRThUOGhqekRfbkZETkFIWHBGbnhWMWF2OEVSNmdJWDFncDlHN1ktZEJzNmZYd0JuZ3dSM0h1MEhJWTBMeUdlZ0JqUDJrNUtZY3VlUzdmX001eV9wSjhMeURIa2hNTFhmQUZMZkhhUW9zWUxaQnZLdzZOcjF4RHQ2M0ZXTGRqMEFlTWhzbkNTRjJ3clJmaERaaXNQZWNyc0dMSUhnRzdMXzN3RFZKQ2Y2RkZIQVFrcUFpUWZ1SEQ2Rl9sb0tLX2pWbHJ3Tll0VHByUlZHSUU2OC1ibG9RUk9aUk85RFpwR1otOVB1M0NWV05yTjl6TEtLS0lhRUFiQ1NzM01rZ3YzbG1zdjFIY2JteGprTUluQTRxQmlB?oc=5)
+
+2026-06-04 <span class="news-indication-tag">maladie de Parkinson</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMingJBVV95cUxOcDdKRThUOGhqekRfbkZETkFIWHBGbnhWMWF2OEVSNmdJWDFncDlHN1ktZEJzNmZYd0JuZ3dSM0h1MEhJWTBMeUdlZ0JqUDJrNUtZY3VlUzdmX001eV9wSjhMeURIa2hNTFhmQUZMZkhhUW9zWUxaQnZLdzZOcjF4RHQ2M0ZXTGRqMEFlTWhzbkNTRjJ3clJmaERaaXNQZWNyc0dMSUhnRzdMXzN3RFZKQ2Y2RkZIQVFrcUFpUWZ1SEQ2Rl9sb0tLX2pWbHJ3Tll0VHByUlZHSUU2OC1ibG9RUk9aUk85RFpwR1otOVB1M0NWV05yTjl6TEtLS0lhRUFiQ1NzM01rZ3YzbG1zdjFIY2JteGprTUluQTRxQmlB?oc=5)
 
 ---
 

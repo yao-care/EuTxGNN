@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="Apixaban 有什麼相關新聞？">
-<strong>Apixaban</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apixaban</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/apixaban/
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Hypertension : ces deux aliments faciles à cuisiner pourraient réduire le risque jusqu'à 30 % - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
 
@@ -78,6 +78,14 @@ permalink: /news/apixaban/
 
 ---
 
+### [A cheap arthritis drug shows promise treating RSV in early study - Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
+
+2026-06-03 <span class="news-indication-tag">arthritis</span>
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
+
+---
+
 ### [Dithmarschen: Bluthochdruck ist ein ernst zu nehmender stiller Killer - Boyens Medien](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnh0Q1MyOFFSMjZ0cXItRl9oNzNLVEdoLXU4Ujh6NTV4RzVtYUkyWlZYUjlHNVAxVkxJdDgtSFJrZ2hsTzFXN2otajd4TGhXQmFUbVFQMHZEcnBlTnhaM0gwMXpRclctekE1VWk0ZmE1R3RMNGVFTHQzMEQxNmtkUGdLZk5Sa255Q25kNVM5aVB5bkNpMmM0Vnc4bFFZMWQ4NXRmY1FxWHRUaDBteFgzcXFBal9taWJNYVp4b0xpSGExQ3VFLWNZc2V3?oc=5)
 
 2026-06-03 <span class="news-indication-tag">Bluthochdruck</span>
@@ -94,27 +102,11 @@ permalink: /news/apixaban/
 
 ---
 
-### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
----
-
 ### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
 
 2026-06-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
-
----
-
-### [Ranking high blood pressure drug combinations from most to least tolerated - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
-
-2026-06-02 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5)
 
 ---
 

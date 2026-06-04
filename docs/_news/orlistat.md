@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [Tecnalia lidera un prototipo pionero no invasivo para tratar el ictus o el Parkinson sin cirugía](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc0FIX2Nqb1FHY2ppS3pCbThFbEJGclVJclhpNExFY1llSHR0TXNWeXg2a1FPc2J2MGlhYU5KTE4xTHRVQy1yc1pTRC1vZVhNMDhNYnBrQnhVTzVJeUFSX1JGMUdLUzJKZDRDbkNqZjUzcmpxVEwtbmFRY0daczZ3QWxIcHZrZGduc2JUQTBQUWs2SEJPbFptdzJvXzdIYmc0by16STBRcm8xa3REQkpQT0JhaGJaVVZ3YngyeFYxM3Exb0hKbWRUeHhyeU9LdFJNS1RaMEtEejk?oc=5)
+### [Diabetes-Risiko: 20 Gesundheitsmarker schlagen BMI um Längen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
+
+2026-06-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
+
+---
+
+### [Investigadores españoles desarrollan una nueva vía para tratar el ictus o el párkinson sin necesidad de - La Razón](https://news.google.com/rss/articles/CBMiogJBVV95cUxPaGs4TEdScTZyMnotMmtETFdtVS1MMzUtQmNadFhZcTgtTVRUR1hkOEdzbVlocWI2c3c2UkRMMVdBc1hCc2RSQlZEWHV3aEI1Tnh6ZmVQdG8xZF9lUV9PRks2S0FQUWt1STU5dW9GdWdjUmFaZXNOQzNpR3FBYXlqb0pYcFIxd3BOZEZJZGpGSE43UWh1SmVOSzh6Sl9sd0U4WEhwN0I2TGxQSjM1VG5OSnU2elpoSlFXekNIQmlnX3N4RVd5amNUVElSQVBYNWVGemM4Wkx5ZUdESkZFMU1KZ2Q0Y3BUdjhoM194UUduNlk1RmZjZzFMWEMyZDg4blljdDhZWG1LbW9BcHB0OWVRQ1VtTU93Tk5peTc3blZ0bW9mQdIBtgJBVV95cUxOb25Da0hiQ29MZS1aMGd1TEZMUGFWOUlMY3FXbmphSnNoVkRzd2ZBTTlrTEMtNkNYVHVVRk1rXzE0bGhoR1Npa05BWURUQ3lSaHFwM083VmJaYjIzOUdUalQxdkowMzVUa2psMkZOYzFtMkZoTFdaajUzSjdtRGJKZWZNOENFempONGNDWF9rOU9LelFOeWNIYTVjSWFxbEdzcUt5d3lPRmZkWTdoV0ZCMG1YbjRIVjFsbUJKTFBiZjQ0SXJXaTJQRlVqSnlDSlVDM2pTR0NLamhyTFloM3FEbU9GU1FnejE0bTBpd1lXMmdFcWEwWGwyQ0M4bEwxeG5NTjNaNno5d0Flb0tiTHNYZkVsN2xueUNqUHhpaklDMmpIWEVxN0s5Y2NUSUNyRm1GOXg3RWN3?oc=5)
 
 2026-06-04 <span class="news-indication-tag">ictus</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc0FIX2Nqb1FHY2ppS3pCbThFbEJGclVJclhpNExFY1llSHR0TXNWeXg2a1FPc2J2MGlhYU5KTE4xTHRVQy1yc1pTRC1vZVhNMDhNYnBrQnhVTzVJeUFSX1JGMUdLUzJKZDRDbkNqZjUzcmpxVEwtbmFRY0daczZ3QWxIcHZrZGduc2JUQTBQUWs2SEJPbFptdzJvXzdIYmc0by16STBRcm8xa3REQkpQT0JhaGJaVVZ3YngyeFYxM3Exb0hKbWRUeHhyeU9LdFJNS1RaMEtEejk?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMiogJBVV95cUxPaGs4TEdScTZyMnotMmtETFdtVS1MMzUtQmNadFhZcTgtTVRUR1hkOEdzbVlocWI2c3c2UkRMMVdBc1hCc2RSQlZEWHV3aEI1Tnh6ZmVQdG8xZF9lUV9PRks2S0FQUWt1STU5dW9GdWdjUmFaZXNOQzNpR3FBYXlqb0pYcFIxd3BOZEZJZGpGSE43UWh1SmVOSzh6Sl9sd0U4WEhwN0I2TGxQSjM1VG5OSnU2elpoSlFXekNIQmlnX3N4RVd5amNUVElSQVBYNWVGemM4Wkx5ZUdESkZFMU1KZ2Q0Y3BUdjhoM194UUduNlk1RmZjZzFMWEMyZDg4blljdDhZWG1LbW9BcHB0OWVRQ1VtTU93Tk5peTc3blZ0bW9mQdIBtgJBVV95cUxOb25Da0hiQ29MZS1aMGd1TEZMUGFWOUlMY3FXbmphSnNoVkRzd2ZBTTlrTEMtNkNYVHVVRk1rXzE0bGhoR1Npa05BWURUQ3lSaHFwM083VmJaYjIzOUdUalQxdkowMzVUa2psMkZOYzFtMkZoTFdaajUzSjdtRGJKZWZNOENFempONGNDWF9rOU9LelFOeWNIYTVjSWFxbEdzcUt5d3lPRmZkWTdoV0ZCMG1YbjRIVjFsbUJKTFBiZjQ0SXJXaTJQRlVqSnlDSlVDM2pTR0NLamhyTFloM3FEbU9GU1FnejE0bTBpd1lXMmdFcWEwWGwyQ0M4bEwxeG5NTjNaNno5d0Flb0tiTHNYZkVsN2xueUNqUHhpaklDMmpIWEVxN0s5Y2NUSUNyRm1GOXg3RWN3?oc=5)
 
 ---
 
@@ -80,7 +88,7 @@ permalink: /news/orlistat/
 
 ### [C’est quoi « les oreilles Ozempic », cet effet secondaire de la perte de poids par Wegovy et Mounjaro dont personne ne parle ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
 
