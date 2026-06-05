@@ -14,7 +14,7 @@ permalink: /news/certolizumab-pegol/
 ---
 
 <p class="key-answer" data-question="Certolizumab Pegol 有什麼相關新聞？">
-<strong>Certolizumab Pegol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Certolizumab Pegol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/certolizumab-pegol/
 <p><a href="{{ '/drugs/certolizumab-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [A cheap arthritis drug shows promise treating RSV in early study - Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
-2026-06-03 <span class="news-indication-tag">arthritis</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
-來源：[Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
-
----
-
-### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
-
-2026-06-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
 ---
 

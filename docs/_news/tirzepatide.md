@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Tirzepatida (Mounjaro®), el agonista dual GIP/GLP-1 de Lilly, demuestra los beneficios de su uso temprano en diabetes tipo 2](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdTBOM1hwWmVHUjNacUVuWlFUeHFWbm96VVI4WHdHX2p2U0RmUVNITXliRDlldGhzSERoX3lnV2ZoOXNoaC1SSHhOZUpQWlF3NTc5QjRONWVoT2tHdDA0djc3QUZ4SUlFYzJRalNzSmRfWEtxVnRTWHB1MTVKVlFTZktsR2FGa1FabXhPQzE5QnNSenFMS3N0MGttaEpMamlpbjBPWlNHMlNvVUJodTJHQWdtbjRJTWJwYTdORnRYdDFfUl9PSkp6TGZGQ1NiX2ZSNkFsUWRWdDB4Q1A3elVGZFNDaDVIRGg5cHl2dUd2SThTcjIxMENvdUttbTktRldu0gGGAkFVX3lxTE9CcFlnU0VtNXU4WjhlVTBQSUQ0Z1JiMnlubjRMekZuNF9PV08tdVdrdEhlVm5qdmUtYXZZbzhQQmpVYUhONEVDWUgyNkVXN3B4anhaMURpcl95V0tNdzM4SUY0LXVCZTN6UHJlTWNnUElYbURSNHpGdkRuOVU2WC1MV0trWUNpRkMtX3BlakhjMjFaZmdadk9EV2czRGNLdlN2VVVuQ1lXUEw1UVMwV2Eza1YxMDB2N0JHdW1Za2RhRUwxZFBMXzlVbi1XeVctVXlSUXdGWnNQWXlJcHF3U3BySHlMWXI0UWt3N1FSb1N6Z09yRkVOUGdFeW1LbHBmbWFwVndWdWc?oc=5)
 
@@ -70,27 +70,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [A cheap arthritis drug shows promise treating RSV in early study - Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
-
-2026-06-03 <span class="news-indication-tag">arthritis</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGNqb3BjTlptX2hBTTExSExPX0ZnSkQ2eWZQYzFoM0RORVFlaVVRSnV4aG1DUFRoS1EycFF3T1RPMU1vdEI0dGpyNVJWNFdrZjBrTl9qakUwel82aTAwQ0ZQdDBxd01vSzRRNkdLa2xEcDZKNjk2bUd2QUI2UGt2QTlmRS13ekVORGNxemZPN0NlcXZEOGY2MXBWNmEzZnIzbUF2U2dXOGxUdE5kUEh2VUNPSW0?oc=5)
-
----
-
 ### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
----
-
-### [Largest study of knee osteoarthritis tissue reveals core biological pathways underlying the disease - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
-
-2026-06-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXVpdWRGclplSTZiRElDYTlreVBjM3l6azVjR0ZJSWVYOF94cFY0Q1VYOVJxN0VZU09hVlFraHZ5cEszOHkwR1ZVYW1qS1hVbnhmSUNCOGJxMHpHU244YzFFVDNnNExUN2tEWC1DYllRQVhPd1VTeUdWNlY5SHRuLVR5MEgxVUh5R2x4VWIyZw?oc=5)
 
 ---
 

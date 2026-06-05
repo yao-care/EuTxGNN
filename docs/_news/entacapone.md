@@ -54,14 +54,6 @@ permalink: /news/entacapone/
 
 ## 相關新聞（3 則）
 
-### [A Single Lifestyle Change Could Lower Your Risk of Dementia by 16%](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlBhYU5CRWtMV3NyU2VvLVc4NGpBVDBMQmVWeDVScmVwNldRMEZVZEpvU0hHRTJ3ajU1b2NVd1hVaUw0QU50RFRHUU5oMlRzOEJxMXZZRXdoVVZhR3E5UEdkeGdXakc1LUZoU2lxUm9GZjAxTmRmbTMxbHlPbmgzcXRHaEtaUjRCdWpDTjMxeDIyQ2FMVnpFUkxR?oc=5)
-
-2026-06-04 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlBhYU5CRWtMV3NyU2VvLVc4NGpBVDBMQmVWeDVScmVwNldRMEZVZEpvU0hHRTJ3ajU1b2NVd1hVaUw0QU50RFRHUU5oMlRzOEJxMXZZRXdoVVZhR3E5UEdkeGdXakc1LUZoU2lxUm9GZjAxTmRmbTMxbHlPbmgzcXRHaEtaUjRCdWpDTjMxeDIyQ2FMVnpFUkxR?oc=5)
-
----
-
 ### [« Il ne faut pas s’écarter du monde »: face à la maladie de Parkinson, ce couple cultive « l’espoir » et sa vie sociale](https://news.google.com/rss/articles/CBMingJBVV95cUxOcDdKRThUOGhqekRfbkZETkFIWHBGbnhWMWF2OEVSNmdJWDFncDlHN1ktZEJzNmZYd0JuZ3dSM0h1MEhJWTBMeUdlZ0JqUDJrNUtZY3VlUzdmX001eV9wSjhMeURIa2hNTFhmQUZMZkhhUW9zWUxaQnZLdzZOcjF4RHQ2M0ZXTGRqMEFlTWhzbkNTRjJ3clJmaERaaXNQZWNyc0dMSUhnRzdMXzN3RFZKQ2Y2RkZIQVFrcUFpUWZ1SEQ2Rl9sb0tLX2pWbHJ3Tll0VHByUlZHSUU2OC1ibG9RUk9aUk85RFpwR1otOVB1M0NWV05yTjl6TEtLS0lhRUFiQ1NzM01rZ3YzbG1zdjFIY2JteGprTUluQTRxQmlB?oc=5)
 
 2026-06-04 <span class="news-indication-tag">maladie de Parkinson</span>
@@ -70,11 +62,19 @@ permalink: /news/entacapone/
 
 ---
 
-### [Alzheimer, la scoperta di UniTo: una nuova molecola riduce placche e infiammazione cerebrale - La Stampa](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3plYTN1TjBKMDYya0s0NE9KamVncFFWa1FuRDFVb09HY3JpbEFEUG4tXzFtd2F0RjlVZUFXUUpNbl9ZMXJPSmpkc0NyX2YyNHJfYmctM09qT2JmWGdVVnlHWFZLSm1mT3NhRTQ5ekdKSVRSMC05eUdZaFJjQ09MbWRzMnhGdWxEazdaVERYQ29NNkFqank5YWtFVUhQQjRTbDRyZUMwX1VuQVhqYldDLUdFNnhEZVFnajVOaWFxVjdQcGpJb0JfOGo1SDFzNGV0OTFuTtIB2gFBVV95cUxNTmtva2pZSzhCWUdrUVJrSHF0Uy04NS1QNWQ1X0JUckpnYm5lekF2MWZoMFh0d3R6bXBYNmxIeUpIZHFsUWRpWUwwNlZPb0o0am81Z29WM25VMVZSbEtsajFXbWU0OHFva2tiSjhvSzBaR2U4aTA5YkM1NGZ5clJlVjN0ZGNKc3Uxb0NrZzgxVU5oRnFZUTk5bnBBSFo2eTRUbnA2RHJxZTRZMy1TbVVMSWZmdDJFWjQ1UUlHeDFtemtveU1aeG1IcGMtcU5lVkRGQVNUZUE5ZHJ1UQ?oc=5)
+### [Svolta contro l'Alzheimer: scoperta una molecola che riduce i danni al cervello](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUdrWGcyRmhHR1dFRXMyWjJZTFRDWllmM1ZaR1JzcERDZ0ZjbXplbDFNWDFpMjg4Z19WanM3RGFEQVFyOEVzRFRBXzVmdEV5YXBfSDFPWFFoRzlMcGFPUWpvWHZXRE1fWW9VM3MzcHdKWlVnMTY5QWFSSUlZbkRHampieU5WTDg?oc=5)
 
-2026-06-03 <span class="news-indication-tag">malattia di Alzheimer</span>
+2026-06-04 <span class="news-indication-tag">malattia di Alzheimer</span>
 
-來源：[La Stampa](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3plYTN1TjBKMDYya0s0NE9KamVncFFWa1FuRDFVb09HY3JpbEFEUG4tXzFtd2F0RjlVZUFXUUpNbl9ZMXJPSmpkc0NyX2YyNHJfYmctM09qT2JmWGdVVnlHWFZLSm1mT3NhRTQ5ekdKSVRSMC05eUdZaFJjQ09MbWRzMnhGdWxEazdaVERYQ29NNkFqank5YWtFVUhQQjRTbDRyZUMwX1VuQVhqYldDLUdFNnhEZVFnajVOaWFxVjdQcGpJb0JfOGo1SDFzNGV0OTFuTtIB2gFBVV95cUxNTmtva2pZSzhCWUdrUVJrSHF0Uy04NS1QNWQ1X0JUckpnYm5lekF2MWZoMFh0d3R6bXBYNmxIeUpIZHFsUWRpWUwwNlZPb0o0am81Z29WM25VMVZSbEtsajFXbWU0OHFva2tiSjhvSzBaR2U4aTA5YkM1NGZ5clJlVjN0ZGNKc3Uxb0NrZzgxVU5oRnFZUTk5bnBBSFo2eTRUbnA2RHJxZTRZMy1TbVVMSWZmdDJFWjQ1UUlHeDFtemtveU1aeG1IcGMtcU5lVkRGQVNUZUE5ZHJ1UQ?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUdrWGcyRmhHR1dFRXMyWjJZTFRDWllmM1ZaR1JzcERDZ0ZjbXplbDFNWDFpMjg4Z19WanM3RGFEQVFyOEVzRFRBXzVmdEV5YXBfSDFPWFFoRzlMcGFPUWpvWHZXRE1fWW9VM3MzcHdKWlVnMTY5QWFSSUlZbkRHampieU5WTDg?oc=5)
+
+---
+
+### [Ultra-processed foods linked to 58 per cent rise in dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
+
+2026-06-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（18 則）
 
 ### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
 
-2026-06-04 <span class="news-indication-tag">MS</span>
+2026-06-05 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+
+---
+
+### [Demenz-Prävention: GLP-1-Medikamente senken Risiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
+
+2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
+
+---
+
+### [Ultra-processed food harms tied to content not manufacture, review says - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHB4TUtXcEpRRHRISkdCd3VnTFZKNDhuOFgzU1FxUVJjVFJvNTYxTDgxalFiTFhXYjh5d052Y25QMXZjT1hxTjNNQjhseW83NFNCdlQtNW1fTVZMVWJOcnNIYlBzcXpNUFFlVGtUeW0wMEZBeWxxWmFhT2FhYm5VMDgxUXk?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span>
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHB4TUtXcEpRRHRISkdCd3VnTFZKNDhuOFgzU1FxUVJjVFJvNTYxTDgxalFiTFhXYjh5d052Y25QMXZjT1hxTjNNQjhseW83NFNCdlQtNW1fTVZMVWJOcnNIYlBzcXpNUFFlVGtUeW0wMEZBeWxxWmFhT2FhYm5VMDgxUXk?oc=5)
 
 ---
 
@@ -86,6 +102,14 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [MS-Diagnose: Bluttest mit 94% Genauigkeit sechs Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmtRWFRqOHIza2dVbHlVckNKZGlQWVJzY0hVQnpXUC0xWS1mRW92ejlJUm82eDJSNU1FZHpkZXQ0akJzemswOVVVV3lIVnVnb3ZRSXdqMnVrSUpEcV9qOHZnYmNTZDMyOUZUaU9IVlE5ZFV4UmhZdk1tVWFhQXVjVlBXaTdibHZ2VEdTUWNfQjRFNjF6NXg1d1NVb0RiZ1Fua1Iycl9zbWdsbW1HMFd5QzZwSHV3YjA?oc=5)
+
+2026-06-04 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmtRWFRqOHIza2dVbHlVckNKZGlQWVJzY0hVQnpXUC0xWS1mRW92ejlJUm82eDJSNU1FZHpkZXQ0akJzemswOVVVV3lIVnVnb3ZRSXdqMnVrSUpEcV9qOHZnYmNTZDMyOUZUaU9IVlE5ZFV4UmhZdk1tVWFhQXVjVlBXaTdibHZ2VEdTUWNfQjRFNjF6NXg1d1NVb0RiZ1Fua1Iycl9zbWdsbW1HMFd5QzZwSHV3YjA?oc=5)
+
+---
+
 ### [Abnehmmedikamente senken Brustkrebsrisiko laut Studie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
 
 2026-06-04 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
@@ -102,14 +126,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Ebola, Oms: "Entro 2-3 settimane al via test con farmaco preventivo"](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdExYLTJzOGd6RERLQ01QM0lNRFpHbmItLVFYbEdaUXFYa0xXaVI2SlVEMmF4dlEta3IxOGdsbHI3QzFld2l4VXBXSzlIU2JBWmoxZ2pmZENqZWRNZzNBLU1uU0IzRmZWcWZHNUlUY2szWXk1bTBXSlJoa2xiZENJNVdXQ3oza2EyWW9zNlQ2S0xudmphOEU3Uzh0Y9IBaEFVX3lxTE1nVzJ2TnNfaVJGMXg4d09BYWljbGFKOTJ2cDRRM0VuUGhRbUI0clpvYS1GVkpPWEV5X2ZsSzh3N0dpRFlZWXdSdG5jUlBDamJhMVJmVUVGOVRBa0EwNzNtdk5IN1V2Tjdx?oc=5)
-
-2026-06-03 <span class="news-indication-tag">MS</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdExYLTJzOGd6RERLQ01QM0lNRFpHbmItLVFYbEdaUXFYa0xXaVI2SlVEMmF4dlEta3IxOGdsbHI3QzFld2l4VXBXSzlIU2JBWmoxZ2pmZENqZWRNZzNBLU1uU0IzRmZWcWZHNUlUY2szWXk1bTBXSlJoa2xiZENJNVdXQ3oza2EyWW9zNlQ2S0xudmphOEU3Uzh0Y9IBaEFVX3lxTE1nVzJ2TnNfaVJGMXg4d09BYWljbGFKOTJ2cDRRM0VuUGhRbUI0clpvYS1GVkpPWEV5X2ZsSzh3N0dpRFlZWXdSdG5jUlBDamJhMVJmVUVGOVRBa0EwNzNtdk5IN1V2Tjdx?oc=5)
-
----
-
 ### [PCOS heißt jetzt PMOS: Das steckt hinter dem neuen Namen | DIE PTA](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHcxM0dpVmVpSC1yMGI5RzlpNGVRZDdOTzNOMTRONmlSN1ExT1RKOVFNQ0NLN0JSTi1sNmRnN250Z3A2Y3FTQVBRUTZVaTZTWldWaFN6bXBMaXhSeDFSZ0xJNHloMzEydWs2Q2FTSGQ2U2dHTC1zZkh0U1p2Rkwxdjhzd1hSd195WGRaeWxkR2pYT01xUUlQZjhDQXZ4WVk?oc=5)
 
 2026-06-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -118,19 +134,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [Ultra-processed foods linked to 58 per cent rise in dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
+
+2026-06-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
+
+---
+
 ### [Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
 
 2026-06-03 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
-
----
-
-### [Medizintalk: Multiple Sklerose: Von der Diagnose bis zu modernen Therapien - Kölner Stadt](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkVpQXNmWWtPMGNJOEtsMTNiSjREdDJoUHV1UlZtaklHcjJxN0UtTERDUWtMVnlBS3lISzQzR0l6UnNTanpuU00yOWZzTnJFLUwybTFvX01DdDlHVFd3NzdxZFNlbnVsOGxfdDFyVWp1MGxJajR0UXNpYmJ3cFNib1ptM3BHaTk1YllqdTdIaC1SOFBNZFBXaFBlQUtDRmFSUTctMVZhZ2NRMXFuNkVnYzhGMTNGVlh4anNjZw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">MS</span>
-
-來源：[Kölner Stadt-Anzeiger](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkVpQXNmWWtPMGNJOEtsMTNiSjREdDJoUHV1UlZtaklHcjJxN0UtTERDUWtMVnlBS3lISzQzR0l6UnNTanpuU00yOWZzTnJFLUwybTFvX01DdDlHVFd3NzdxZFNlbnVsOGxfdDFyVWp1MGxJajR0UXNpYmJ3cFNib1ptM3BHaTk1YllqdTdIaC1SOFBNZFBXaFBlQUtDRmFSUTctMVZhZ2NRMXFuNkVnYzhGMTNGVlh4anNjZw?oc=5)
 
 ---
 
@@ -152,17 +168,33 @@ permalink: /news/pibrentasvir/
 
 ### [Samsung und das Massachusetts General Hospital starten gemeinsame Studie zu Stoffwechseltherapien](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-06-03 <span class="news-indication-tag">MS</span>
 
 來源：[Samsung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
 
 ---
 
-### [Abnehmspritzen könnten vor Demenz schützen – erste Forschungsergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+### [L'OMS ha detto che i casi sospetti di ebola in Congo sono 116, e non oltre 900 come segnalato nei giorni scorsi - Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUm1HWmV4MnJOVVFBRXQ1aGVHblJUblpCdGlNWVgtQ1NCTFFnc0cxaS1vX29EZXhCSlliU1FVMXoxWVNreDFZV0tjWWlrd09adVJQbmh5Y09uQkdyVVhHcmFBempkRmtwMkpF?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-03 <span class="news-indication-tag">MS</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUgzUWx6NTdXRXMtM1VmZmdkdmRVbHJqdVBLd1BtUVRmdkVvSlNLUzdreVVtQkludmVtckFkMmVXRTlPbXRKT1cxMXFSRFdaQzIxcEJ5TFB3YVVtOUdsVFA5NUVhTlM4U09TVTNHaHd3UndJdVhndDJHYXVVWDZtRzJfdkJwNFI3VGFKMFgxUk5SaUlvVnVzdFBhVW0weXRFMV9sUlJLNkNYQzlVT0lz?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUm1HWmV4MnJOVVFBRXQ1aGVHblJUblpCdGlNWVgtQ1NCTFFnc0cxaS1vX29EZXhCSlliU1FVMXoxWVNreDFZV0tjWWlrd09adVJQbmh5Y09uQkdyVVhHcmFBempkRmtwMkpF?oc=5)
+
+---
+
+### [Two men charged with trying to smuggle vials of mpox virus into the US - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
+
+2026-06-03 <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
+
+---
+
+### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
 ---
 

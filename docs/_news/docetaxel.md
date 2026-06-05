@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Docetaxel</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（35 則）
+
+### [Krebs: Durchbruch in der Forschung – Neue Ergebnisse im Kampf gegen Krebs-Rückfälle](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+
+2026-06-05 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+
+---
 
 ### [Nueva estrategia terapéutica frente al melanoma avanzado y otros tumores metastásicos](https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHVkTDdCbjRYVVZqbUhQcE9mbFZWYlRQSEJsTTFfNEpURkEyMUx3Z204VGhQOXU1SUpmWGtaV3ZQMU1OeWZPYkM0VUJhYkJhNzd3Nnl5MFF4MlVQLU1va2ROWUUtQmNKaE10aTVxN0Y3VmNSM3dIMFFGdWFiOGwtYTdUVzFWOENGbDBBQmh4UUNCWG5qeWFNcENXZkl5NVdTN1pv?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/docetaxel/
 
 ---
 
-### ['Every minute counts when it comes to new ovarian cancer treatment'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YMktpaUNTX2cxYnk0Z19lZkhjdHU5bU5pTm1TN2pacmdzREl0dE1yQ19sZVBTLWJuZEhfUUF2LTJneDkyX0k0a2hfbEVxMksxUnE4cXU2SjRCOEFM?oc=5)
+### [‘I love gardening but was struggling to do it - then they found the tumour’ - Kent Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3FkWG4ydnVOS1pPR0VHY1FSMXhLak9XQXFtYmRkOWFUNG04dzVNZ2pfdlhZblNzLURZTG9ubm9zRHV3dnFrRUxWWkVIbzFjaktjdHlwZlk4WUNWSWEtcy0zdHlveDROWTBPci03VnFLNFl0dFB1YmFnWHloT3hPTU96S3NHQ2NBWHUxaENydVQwX2lvanVZZXl6VlhlblBFQTc0RjFlYjlEUQ?oc=5)
 
-2026-06-04 <span class="news-indication-tag">cancer</span>
+2026-06-04 <span class="news-indication-tag">tumour</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YMktpaUNTX2cxYnk0Z19lZkhjdHU5bU5pTm1TN2pacmdzREl0dE1yQ19sZVBTLWJuZEhfUUF2LTJneDkyX0k0a2hfbEVxMksxUnE4cXU2SjRCOEFM?oc=5)
+來源：[Kent Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3FkWG4ydnVOS1pPR0VHY1FSMXhLak9XQXFtYmRkOWFUNG04dzVNZ2pfdlhZblNzLURZTG9ubm9zRHV3dnFrRUxWWkVIbzFjaktjdHlwZlk4WUNWSWEtcy0zdHlveDROWTBPci03VnFLNFl0dFB1YmFnWHloT3hPTU96S3NHQ2NBWHUxaENydVQwX2lvanVZZXl6VlhlblBFQTc0RjFlYjlEUQ?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ permalink: /news/docetaxel/
 2026-06-04 <span class="news-indication-tag">carcinoma</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMidkFVX3lxTE5SZUNKcjhVWUVBLTkyQUxwcm1wQXFORnBhSDBhdkw2X24zQi1QcDZMRTJZemM0M0w4dmNraHZBSmVRSTBxTkVSODZoaW1BbUtJTWxycFNVUy1HanlWRVBJQlVubTJucWxrekhRUkxrLWFEZW9zNXc?oc=5)
+
+---
+
+### [ASCO 2026: Los anticuerpos conjugados llegan a múltiples tumores - El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3R0ZDZYNDRBalNUbGtLbEk1Z3RzRjNfSnlEOHpHTFhYM2d3RzNSRUNIS2NBNHdnQ0lNQURKNEUtclg4TnhzWlZtNDV4Rm5sMExwVzZpMjdUZnpJelBlQmFaOHE5dDZjTjU0VTh4ZExrWi0xM01YSklwRWV6X0Zvc0RtVTJxdEE2aGVBWlEwNFg3ZFYxajR2YmN5OFI?oc=5)
+
+2026-06-04 <span class="news-indication-tag">cancer</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3R0ZDZYNDRBalNUbGtLbEk1Z3RzRjNfSnlEOHpHTFhYM2d3RzNSRUNIS2NBNHdnQ0lNQURKNEUtclg4TnhzWlZtNDV4Rm5sMExwVzZpMjdUZnpJelBlQmFaOHE5dDZjTjU0VTh4ZExrWi0xM01YSklwRWV6X0Zvc0RtVTJxdEE2aGVBWlEwNFg3ZFYxajR2YmN5OFI?oc=5)
 
 ---
 
@@ -107,6 +123,14 @@ permalink: /news/docetaxel/
 2026-06-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
+
+---
+
+### [Life-prolonging drug for advanced ovarian cancer gets go-ahead in England - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3pBcFg4RU9zZTk3Z3ZqS0FITS1XRER5SWVUTzRjRzhhZk5HcjBneW8ybXRiN2tycnZiNlZYdnRQSWtDc28za3dRcmhRSFVmcFNNbmRheFdHc1oxQzFVdWduVTNCR1ZNLWoxa2dNRVhCb2g2SUpxaXlkb18zMzlqWV9FMTlWYk5RS2UyWVpJRXM?oc=5)
+
+2026-06-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3pBcFg4RU9zZTk3Z3ZqS0FITS1XRER5SWVUTzRjRzhhZk5HcjBneW8ybXRiN2tycnZiNlZYdnRQSWtDc28za3dRcmhRSFVmcFNNbmRheFdHc1oxQzFVdWduVTNCR1ZNLWoxa2dNRVhCb2g2SUpxaXlkb18zMzlqWV9FMTlWYk5RS2UyWVpJRXM?oc=5)
 
 ---
 
@@ -198,6 +222,14 @@ permalink: /news/docetaxel/
 
 ---
 
+### [Teen who went to dentist with toothache given just 3 weeks left to live after shock diagnosis](https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0NxZjA4ZlpqQWhfOTJfcHNWQkN0eTVXZWloNWhhcDFPRktNcnJDTWdDUkZNYVVsVjJjOVdvcnhHd1ZQOERwbTJLamg2Y1B0UW42SEx0S05hck5pdHduZklWdzJvMTNuOG1xSVVMZGQxUEJsUUx6cWI2dzhpcnRZTDlsVnlmZmVvakJiRDZ5VHFiR1hCUXc?oc=5)
+
+2026-06-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[UNILAD](https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0NxZjA4ZlpqQWhfOTJfcHNWQkN0eTVXZWloNWhhcDFPRktNcnJDTWdDUkZNYVVsVjJjOVdvcnhHd1ZQOERwbTJLamg2Y1B0UW42SEx0S05hck5pdHduZklWdzJvMTNuOG1xSVVMZGQxUEJsUUx6cWI2dzhpcnRZTDlsVnlmZmVvakJiRDZ5VHFiR1hCUXc?oc=5)
+
+---
+
 ### [Nei e tumori della pelle, il dermatologo Mercuri: “Non conta quanto è scuro: c'è la regola ABCDE”](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdVFQTlBoM1AwMUdyN3RjQnNST1ZPTDVYMlNtcVFkY0FfczdyZ2Vfd0hodGhTbDl5cU1LeHhkTUtPWkRHdVN0ZE5BelhXX25lV28zaEJ6Y2Ytd04wY2kyNHlYclZ2UlZvdV9KVzVuUWFxaXoyYW1sUnBiWnFIMW42M3AycS0xMTdSalJYWWxXZS1RdV90U1FSNTdYbTlMTEpQUEZpbmphWTZXNXhnLWlVeGlZQ3JYaW5ScGNweG9HTDVUTHg1Yk5CWjV5Zl9VazFv?oc=5)
 
 2026-06-03 <span class="news-indication-tag">tumor</span>
@@ -214,19 +246,19 @@ permalink: /news/docetaxel/
 
 ---
 
-### [Dijon. Cancers de la peau : « Il faut regarder ses grains de beauté en suivant la règle ‘‘ABCDE’’ » - Le Bien Public](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVVSUVlGZ0lYakhQcGN0NmltMVhvNS1BbHZ6QXBnZ1R4MVJtZjJiRkNKZnpQTlZFd3pvNFhQTjF5cVV4RlNnVjBNZHZqdi1DeExmZkE3VWpjOHVfVnkzbmVYbEdlVS1NaUNERUFCMDlZcExXMEI5eDY4Umg0WDJEZHVnUFJLOVhZT2VLYk1YMWhYNDFNa001ZEdCSERpb0VDaERNTUkybWNLZHh6UGlBZFBWMWlsdzhMN2ExNW5TbnU0QQ?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Bien Public](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVVSUVlGZ0lYakhQcGN0NmltMVhvNS1BbHZ6QXBnZ1R4MVJtZjJiRkNKZnpQTlZFd3pvNFhQTjF5cVV4RlNnVjBNZHZqdi1DeExmZkE3VWpjOHVfVnkzbmVYbEdlVS1NaUNERUFCMDlZcExXMEI5eDY4Umg0WDJEZHVnUFJLOVhZT2VLYk1YMWhYNDFNa001ZEdCSERpb0VDaERNTUkybWNLZHh6UGlBZFBWMWlsdzhMN2ExNW5TbnU0QQ?oc=5)
-
----
-
 ### [Tumore al cervello, un cerotto intelligente contro il glioblastoma: cos'è e come funziona - Il Messaggero](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelJQczV6LW5FNzR6VFVTa21Xck53V25GdnJPVXkzWUx2UGNvMmw1RnV1N3VSaDBBNWFOajRwaVZyWXVxc0txOWlLbzh4dmxQXzJ0U3pndHYySk1LTFdpQlVpV3RwMUNITXlOVmNZTXQ3UmFDd1IzamFac2daSzFHd3RJNnFSTFdtRXAzSHJKLUVvQzllODhBQy1takJQbElwbmNxemJ2QkZ0Znh2ZlVKeHZVUW5ZMnhmRk9XYjA0WDLSAb4BQVVfeXFMTmRtZFRIMmZFUXZVdGN5RzhibGxqY2Q3Zi03cXhWa1lVQXBQLTllajNfbUZnV1E3anh1akpuQUJFMU1VajNVRnpMZmd1LXpfUTVpTkdTMlBKaXYxUllRSjBLVHlIQ3FXeXp2anU1NXduaUh1YUk3OHRFeDZXc05VaHNvcGhNcG05UkdsNnUtMzNmVWN4SWZCeHozZXVUMmFVdzMwQkFmd0FFRG9CcXRYYzJKYkhkRXhtS1VlNEtRZw?oc=5)
 
 2026-06-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelJQczV6LW5FNzR6VFVTa21Xck53V25GdnJPVXkzWUx2UGNvMmw1RnV1N3VSaDBBNWFOajRwaVZyWXVxc0txOWlLbzh4dmxQXzJ0U3pndHYySk1LTFdpQlVpV3RwMUNITXlOVmNZTXQ3UmFDd1IzamFac2daSzFHd3RJNnFSTFdtRXAzSHJKLUVvQzllODhBQy1takJQbElwbmNxemJ2QkZ0Znh2ZlVKeHZVUW5ZMnhmRk9XYjA0WDLSAb4BQVVfeXFMTmRtZFRIMmZFUXZVdGN5RzhibGxqY2Q3Zi03cXhWa1lVQXBQLTllajNfbUZnV1E3anh1akpuQUJFMU1VajNVRnpMZmd1LXpfUTVpTkdTMlBKaXYxUllRSjBLVHlIQ3FXeXp2anU1NXduaUh1YUk3OHRFeDZXc05VaHNvcGhNcG05UkdsNnUtMzNmVWN4SWZCeHozZXVUMmFVdzMwQkFmd0FFRG9CcXRYYzJKYkhkRXhtS1VlNEtRZw?oc=5)
+
+---
+
+### [Amateur sleuth exposes basic blunder in scores of cancer studies - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbENxT1FXMGJZMEdVYm5Lc0E3N0xFNUlNWnRiWTIwTXQwRjM5ZnVKWjB6MV9sdWF6RlhfTjNmMW44THFWOS1XdG5HQ2pVMTNKN19Yc09BWWlEdER0ZlFsTjkweldtQmN5ak1uRlNxNkpiMDlpRFNWOGM0RzZvZ1hJN3hJbFU5U2lndzgtNzBZbGhVc0Z5ZHdtY2dWWFFhSDA?oc=5)
+
+2026-06-03 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbENxT1FXMGJZMEdVYm5Lc0E3N0xFNUlNWnRiWTIwTXQwRjM5ZnVKWjB6MV9sdWF6RlhfTjNmMW44THFWOS1XdG5HQ2pVMTNKN19Yc09BWWlEdER0ZlFsTjkweldtQmN5ak1uRlNxNkpiMDlpRFNWOGM0RzZvZ1hJN3hJbFU5U2lndzgtNzBZbGhVc0Z5ZHdtY2dWWFFhSDA?oc=5)
 
 ---
 
@@ -270,19 +302,19 @@ permalink: /news/docetaxel/
 
 ---
 
+### [Dijon. Cancers de la peau : « Il faut regarder ses grains de beauté en suivant la règle ‘‘ABCDE’’ » - Le Bien Public](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVVSUVlGZ0lYakhQcGN0NmltMVhvNS1BbHZ6QXBnZ1R4MVJtZjJiRkNKZnpQTlZFd3pvNFhQTjF5cVV4RlNnVjBNZHZqdi1DeExmZkE3VWpjOHVfVnkzbmVYbEdlVS1NaUNERUFCMDlZcExXMEI5eDY4Umg0WDJEZHVnUFJLOVhZT2VLYk1YMWhYNDFNa001ZEdCSERpb0VDaERNTUkybWNLZHh6UGlBZFBWMWlsdzhMN2ExNW5TbnU0QQ?oc=5)
+
+2026-06-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Bien Public](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVVSUVlGZ0lYakhQcGN0NmltMVhvNS1BbHZ6QXBnZ1R4MVJtZjJiRkNKZnpQTlZFd3pvNFhQTjF5cVV4RlNnVjBNZHZqdi1DeExmZkE3VWpjOHVfVnkzbmVYbEdlVS1NaUNERUFCMDlZcExXMEI5eDY4Umg0WDJEZHVnUFJLOVhZT2VLYk1YMWhYNDFNa001ZEdCSERpb0VDaERNTUkybWNLZHh6UGlBZFBWMWlsdzhMN2ExNW5TbnU0QQ?oc=5)
+
+---
+
 ### [Tumore del pancreas, diagnosi precoce su cisti a rischio: ecco chi deve fare attenzione - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2w2QTVyRVhqVmJreUFIZkhEREpCUHg1RWFveXpIR3k4SUxjSDdxdzdCUTFqQktWMGpBQ0tzd3FpQ2toWi1GdlNmdzhGUDFpMFMwYmFuNEVJb1R1azF3bEpFYUpERk01QUlyRllrV2RMVERXX05TalRtS2VRUVBtMDlVUVFZRjBmOTBhc2RSR2xBZ3lyVHE4bl9ZbnRfdWRoRDdTVDJ5QXI4YUUzNW9leXRfcHJUbEhQ?oc=5)
 
 2026-06-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2w2QTVyRVhqVmJreUFIZkhEREpCUHg1RWFveXpIR3k4SUxjSDdxdzdCUTFqQktWMGpBQ0tzd3FpQ2toWi1GdlNmdzhGUDFpMFMwYmFuNEVJb1R1azF3bEpFYUpERk01QUlyRllrV2RMVERXX05TalRtS2VRUVBtMDlVUVFZRjBmOTBhc2RSR2xBZ3lyVHE4bl9ZbnRfdWRoRDdTVDJ5QXI4YUUzNW9leXRfcHJUbEhQ?oc=5)
-
----
-
-### [Teenager went to dentist with toothache - then was given just three weeks to live - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Nsb1VVdUQ3Q1c2bzUwWXcwaUxmeGs2SE9heU1DVnhfb0o4aTU5M3EtSVUwX0o1ak1CVXpZb3BlT3lMMHoxZG9kVzEzQXdaRi1JN0xpbk1LTThWX2U1eF94ZDI1ZkdXcHVWdldGZmRPNUNTLXptcWNyZ0trWDBCY0hMaUPSAYoBQVVfeXFMT2FzdUo1RjJFYWFJMFZ6QXdwVjYtSzlWdk03eXRFb2F2Wk83ZGxRZEVLaFBlQ2FQV25HWFZkdV85UTFsNWNjLTBCXzQyYWlrWG00eUp5Mk5EOHBYbUJDTXNhcEE1TU1yNU1GMkpscVAtcVh3QmlpOUlWYUFVSTRrSTR3TDhxVlRYODJB?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1Nsb1VVdUQ3Q1c2bzUwWXcwaUxmeGs2SE9heU1DVnhfb0o4aTU5M3EtSVUwX0o1ak1CVXpZb3BlT3lMMHoxZG9kVzEzQXdaRi1JN0xpbk1LTThWX2U1eF94ZDI1ZkdXcHVWdldGZmRPNUNTLXptcWNyZ0trWDBCY0hMaUPSAYoBQVVfeXFMT2FzdUo1RjJFYWFJMFZ6QXdwVjYtSzlWdk03eXRFb2F2Wk83ZGxRZEVLaFBlQ2FQV25HWFZkdV85UTFsNWNjLTBCXzQyYWlrWG00eUp5Mk5EOHBYbUJDTXNhcEE1TU1yNU1GMkpscVAtcVh3QmlpOUlWYUFVSTRrSTR3TDhxVlRYODJB?oc=5)
 
 ---
 
@@ -294,35 +326,11 @@ permalink: /news/docetaxel/
 
 ---
 
-### [Cannabinoide gegen Glioblastom und Brustkrebs: Budapester Meta-Analyse zeigt konsistente Anti-Tumor-Effekte - Hanf Magazin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXhwS0o3LUx3Qmc0cVgtME5DVVh0d21xd0p0ajBRVDJDc1FnTjVXamZCdnQxeVE0MnVQZ1ZZR2hFekkzSXA2cXRPMHF0akJ4aVB2bEZyejdWRXN2QXJYTHhiNEFCVzVyQWJqakxUWG1DdGtYcm5nLUlzNGVnblotZ0RySC1kQkNFcDFfSlBPbVdpQW01QjVpdHhZaEo1djRMSlNBR3RaRzhRR1FneElLcmVZTE9qVVdBM09yNnJ0N1FvM2JNMVBWbUpyLWl0eGQ5OHZrSw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">tumor</span>
-
-來源：[Hanf Magazin](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXhwS0o3LUx3Qmc0cVgtME5DVVh0d21xd0p0ajBRVDJDc1FnTjVXamZCdnQxeVE0MnVQZ1ZZR2hFekkzSXA2cXRPMHF0akJ4aVB2bEZyejdWRXN2QXJYTHhiNEFCVzVyQWJqakxUWG1DdGtYcm5nLUlzNGVnblotZ0RySC1kQkNFcDFfSlBPbVdpQW01QjVpdHhZaEo1djRMSlNBR3RaRzhRR1FneElLcmVZTE9qVVdBM09yNnJ0N1FvM2JNMVBWbUpyLWl0eGQ5OHZrSw?oc=5)
-
----
-
-### ['To hear our baby has cancer is world-shattering'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43cktPdnNlRkd0UDBLanhIeWlyTmNmZkpadFJtNVl2MWpiSWF3dVlhYkRNS1FRREZHTlZyeWFqYnQ0SW1BSDBGWFI5YlUwakd2UGppem51b3UzUUdR?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE43cktPdnNlRkd0UDBLanhIeWlyTmNmZkpadFJtNVl2MWpiSWF3dVlhYkRNS1FRREZHTlZyeWFqYnQ0SW1BSDBGWFI5YlUwakd2UGppem51b3UzUUdR?oc=5)
-
----
-
 ### [Weight-loss drugs can cut breast cancer risk by up to 30%, studies suggest - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEhldlBiUTRFVzMxbm5mLWVfLWk5ZXdhRVhBMHg2M3EyUWJiRWNMTDdRMUEySjRKVXBZMmcwc2M2Rm5qc3NqWHhXTVNJQnV0dnpVNjhQWmljMGJQeEh1MWVEa3NTZFlGRDhjZTJZX1J5NE9XZUVIbGphZTh5MXJOcFVFS2FfaUVuQVAzMFA0N0RSaW8?oc=5)
 
 2026-06-03 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEhldlBiUTRFVzMxbm5mLWVfLWk5ZXdhRVhBMHg2M3EyUWJiRWNMTDdRMUEySjRKVXBZMmcwc2M2Rm5qc3NqWHhXTVNJQnV0dnpVNjhQWmljMGJQeEh1MWVEa3NTZFlGRDhjZTJZX1J5NE9XZUVIbGphZTh5MXJOcFVFS2FfaUVuQVAzMFA0N0RSaW8?oc=5)
-
----
-
-### [Eierstockkrebs: Bluttest-Ansätze erhöhen die Chancen auf frühe Erkennung - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUgzQTBnZVZHcDB4WGJuYk9kZ1AtYVFjU0pONllXNWtLZzQyeUVESUZzNTBzSnlwQUU5a0ZiUG5MTVFJNlZRN1V4X3RTS0ZrRS1tN3RoeE5SMmMzLUlGUXo3VTctY2UxdklIUUliM2hkREhxaGxMdmxDWlcxOTJsaHBjVTdaZTU1d1phSVJPSjBzM19XbHZvWEdmczJJc0M0eDFEZV8yTThOUQ?oc=5)
-
-2026-06-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUgzQTBnZVZHcDB4WGJuYk9kZ1AtYVFjU0pONllXNWtLZzQyeUVESUZzNTBzSnlwQUU5a0ZiUG5MTVFJNlZRN1V4X3RTS0ZrRS1tN3RoeE5SMmMzLUlGUXo3VTctY2UxdklIUUliM2hkREhxaGxMdmxDWlcxOTJsaHBjVTdaZTU1d1phSVJPSjBzM19XbHZvWEdmczJJc0M0eDFEZV8yTThOUQ?oc=5)
 
 ---
 
