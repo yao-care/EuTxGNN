@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obésité（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
+<strong>obésité（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,13 +36,37 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
+
+2026-06-05
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
+
+---
+
+### [Prävention von Diabetes und Adipositas – Deutschland hat Nachholbedarf - Gelbe Liste](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeS1tb1JMWENncUxEU0c1TFJoZjFjSkh2T1lOOWpZNVlGMFQtSTZvbDAtaGhOYXRqcnAyczhSN1RYRzJJbE1VaUVNUVFESXBYbS1sVE9PQWZXczA2QWJteXg2ZEZ6RGF5bzQ5QzZoS01PV3h5aU9NLTNzWWJNbFpub3dYSQ?oc=5)
+
+2026-06-05
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeS1tb1JMWENncUxEU0c1TFJoZjFjSkh2T1lOOWpZNVlGMFQtSTZvbDAtaGhOYXRqcnAyczhSN1RYRzJJbE1VaUVNUVFESXBYbS1sVE9PQWZXczA2QWJteXg2ZEZ6RGF5bzQ5QzZoS01PV3h5aU9NLTNzWWJNbFpub3dYSQ?oc=5)
+
+---
 
 ### [La obesidad durante la infancia puede dejar "huellas" químicas en el ADN de los niños](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaExCWTJjU3BpMkpZbHMtRHc1dm44VUtxd3pxV3RXckV2bll1cVZFSUc2WHRBQUNlNldXU2Ffd2xQUDIybGNFQkl1MGVzcDVQajMtZFN3R2l3YV9oNGU4T1ZpUTRCQ05lZVhCQlFUbjZnQ0RnbmtWUjNCNHdnZWFEb0QtbG5uLVpKaE1iMXI3MlRuUHNFRk0wVW83ck5QaGJCNlVoRFJYZ0VFZURBekZ0bkFfN08xNEoyY0RBNXZIRUhLa2dp?oc=5)
 
 2026-06-05
 
 來源：[Telecinco](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaExCWTJjU3BpMkpZbHMtRHc1dm44VUtxd3pxV3RXckV2bll1cVZFSUc2WHRBQUNlNldXU2Ffd2xQUDIybGNFQkl1MGVzcDVQajMtZFN3R2l3YV9oNGU4T1ZpUTRCQ05lZVhCQlFUbjZnQ0RnbmtWUjNCNHdnZWFEb0QtbG5uLVpKaE1iMXI3MlRuUHNFRk0wVW83ck5QaGJCNlVoRFJYZ0VFZURBekZ0bkFfN08xNEoyY0RBNXZIRUhLa2dp?oc=5)
+
+---
+
+### [Obesidad y menopausia elevan el riesgo cardiovascular en mujeres; alertan sobre síntomas silenciosos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1FvSE8wQW5pSXFXZEhsbVBUX2t2OWlwWVQteU51bVF2ZXczWGoyQmgteGxuVFNRTmo5R1REOVdaNllzQUhRQVpvQm1YMnpudTVHLXNvUTV0aFF3b2lTX0dLS0xxX2pXWHJXQkFmeHU4elF5YnRpRm1uMUFLalBzWGQtVlBIb0ItS21VYmxnbE9uZ0hVM1N4dTUwTWticnNXY0I5NFhTanQ3TGM5MDRyQi1ocmF2NXJvcVBMQXg0WkZQWldUdUQyWkpaUEJXOWtLVDNkeA?oc=5)
+
+2026-06-05
+
+來源：[Potosinoticias.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1FvSE8wQW5pSXFXZEhsbVBUX2t2OWlwWVQteU51bVF2ZXczWGoyQmgteGxuVFNRTmo5R1REOVdaNllzQUhRQVpvQm1YMnpudTVHLXNvUTV0aFF3b2lTX0dLS0xxX2pXWHJXQkFmeHU4elF5YnRpRm1uMUFLalBzWGQtVlBIb0ItS21VYmxnbE9uZ0hVM1N4dTUwTWticnNXY0I5NFhTanQ3TGM5MDRyQi1ocmF2NXJvcVBMQXg0WkZQWldUdUQyWkpaUEJXOWtLVDNkeA?oc=5)
 
 ---
 
@@ -62,27 +86,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Más allá de los sofocos: cómo afecta la menopausia a la salud cardiovascular - Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
+### [« Les traitements contre l’obésité mettent en ébullition des pans entiers de l’économie » - Le Monde.fr](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbGxsa19oTkhNaGI0cFNJYTBtSWd5UmhGUFhWWVd5c2R3MzdVMWJPQW5Ea1phMGw4UEs5QXJMaDlOeDBDdFRtc3U5NzZKTURBVW5pMVJtQTY3X1Zsek1ncjl4cTJGNC12R0YxY3E5TjhkQ0JNbWR5VFFqQUN2bU5xb3FHTlVxdTRiZ1NzWXI2VUVubVNkTG1RS2ZpZlI5SEdOaFhjZW5YSVcxeGJwNmJVY3NKVktsbERYZXdneUhoeFhWZGJJYk9DcnpxSnZxNV9qdUo3d0pXVlNyZXlmdUFnMW9aZnRkRFI5UXc?oc=5)
 
-2026-06-03
+2026-06-04
 
-來源：[Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
-
----
-
-### [Diabetes-Prävention: Neue Strategien gegen die Volkskrankheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTRQcTBscVhBeEs4cjRwNnB5bnFBY0xBaTAtNVJUTkduaWxEYWYzUzd6U0V6R3FGLXBEemFmMWJhLVlHT3BKZFRKcEpFTWpXR0thQ1Y1VWV1TmlkTlZZbW9odkNjdHZ5eTRYOTBTekZBMDRWeDZoQkxfYXBxdTNLejgxS05UbGVxVTJ3Z0toRzRua1NJSXdJWDBZNHdoQkh5Wms1RFAxT3VfazgydHBV?oc=5)
-
-2026-06-03
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTRQcTBscVhBeEs4cjRwNnB5bnFBY0xBaTAtNVJUTkduaWxEYWYzUzd6U0V6R3FGLXBEemFmMWJhLVlHT3BKZFRKcEpFTWpXR0thQ1Y1VWV1TmlkTlZZbW9odkNjdHZ5eTRYOTBTekZBMDRWeDZoQkxfYXBxdTNLejgxS05UbGVxVTJ3Z0toRzRua1NJSXdJWDBZNHdoQkh5Wms1RFAxT3VfazgydHBV?oc=5)
-
----
-
-### [C’est quoi « les oreilles Ozempic », cet effet secondaire de la perte de poids par Wegovy et Mounjaro dont personne ne parle ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
-
-2026-06-03
-
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbGxsa19oTkhNaGI0cFNJYTBtSWd5UmhGUFhWWVd5c2R3MzdVMWJPQW5Ea1phMGw4UEs5QXJMaDlOeDBDdFRtc3U5NzZKTURBVW5pMVJtQTY3X1Zsek1ncjl4cTJGNC12R0YxY3E5TjhkQ0JNbWR5VFFqQUN2bU5xb3FHTlVxdTRiZ1NzWXI2VUVubVNkTG1RS2ZpZlI5SEdOaFhjZW5YSVcxeGJwNmJVY3NKVktsbERYZXdneUhoeFhWZGJJYk9DcnpxSnZxNV9qdUo3d0pXVlNyZXlmdUFnMW9aZnRkRFI5UXc?oc=5)
 
 ---
 

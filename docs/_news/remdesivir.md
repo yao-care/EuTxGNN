@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Frühe Menopause: Herzerkrankungsrisiko steigt um 40 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJFX1F3NV9aRWNnNXNfSHZsb2lfSXFLam04bmNVRDZoSC1acDFfTHdCOE11dlZnT1RwbElDcWltbFp6R0xNUGF0VVIzYkFTWlFaS212STJOSUc5bUlLSkhNRzdoOGdkMDdBTXZwTzV5c3lBeU02RkJfbmx0eUJBTXF4enVUWTg1M2R4X3FaV2RweWN6UTZELWs4WXptMlNRbndMcDR2eUJDY1VJ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJFX1F3NV9aRWNnNXNfSHZsb2lfSXFLam04bmNVRDZoSC1acDFfTHdCOE11dlZnT1RwbElDcWltbFp6R0xNUGF0VVIzYkFTWlFaS212STJOSUc5bUlLSkhNRzdoOGdkMDdBTXZwTzV5c3lBeU02RkJfbmx0eUJBTXF4enVUWTg1M2R4X3FaV2RweWN6UTZELWs4WXptMlNRbndMcDR2eUJDY1VJ?oc=5)
+
+---
+
+### [Cuáles son las tres vacunas candidatas para frenar el brote de ébola y cómo funcionan - El Debate](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdm5IS3pRM2RmWEtBb0dveDRoZmxoMHdpcUFmcnBKY3FzNzlFeWZkYjN0WXphbFo0UVpmaGxnUDYtYnY4NmdxTkRTZjhNNGVESVZ4YjRRd1gydy1NVzRCU1ZCR1E4OGxBazRGZk53SUhTNUg3N2pNcjVzZ0tqX2Fyc3h5cEFkNHQ0UE1BbzdtS3kzQUNGazVRb0NVd1FweG1VdmJmdUkzRktybkREZWR1TVhIMDdRX3lraEtrQ0RVNzbSAcYBQVVfeXFMUDFxOFJNZDlwYV9mQ1BZMGQ2LWFGVXlyNWFBNGdTcTR5LWxoM3NpeG91aWJuMExORnQyd1ZiemEyMFNndGN0bnEwRUhwbmo2VWl1cFk1NUNobjNodmdGdlhTLU12MldXZC1ZWkI1RG85eW10Sm9mME1ZQXp1d25GdUQtR1NKSTFMdmxmSkF3WEhaRjdMTU0tdlJyS0s1MmFZQkJIRHVrS0FHZUY5UHZXZEp3LTVWSWNXbFZpY0t5TWRIN0stYWxR?oc=5)
+
+2026-06-05 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdm5IS3pRM2RmWEtBb0dveDRoZmxoMHdpcUFmcnBKY3FzNzlFeWZkYjN0WXphbFo0UVpmaGxnUDYtYnY4NmdxTkRTZjhNNGVESVZ4YjRRd1gydy1NVzRCU1ZCR1E4OGxBazRGZk53SUhTNUg3N2pNcjVzZ0tqX2Fyc3h5cEFkNHQ0UE1BbzdtS3kzQUNGazVRb0NVd1FweG1VdmJmdUkzRktybkREZWR1TVhIMDdRX3lraEtrQ0RVNzbSAcYBQVVfeXFMUDFxOFJNZDlwYV9mQ1BZMGQ2LWFGVXlyNWFBNGdTcTR5LWxoM3NpeG91aWJuMExORnQyd1ZiemEyMFNndGN0bnEwRUhwbmo2VWl1cFk1NUNobjNodmdGdlhTLU12MldXZC1ZWkI1RG85eW10Sm9mME1ZQXp1d25GdUQtR1NKSTFMdmxmSkF3WEhaRjdMTU0tdlJyS0s1MmFZQkJIRHVrS0FHZUY5UHZXZEp3LTVWSWNXbFZpY0t5TWRIN0stYWxR?oc=5)
+
+---
 
 
 <div class="disclaimer">

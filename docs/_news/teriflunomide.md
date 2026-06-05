@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/teriflunomide/
 <li>dense granule disease（97.8%）</li>
 <li>penile fibromatosis（97.3%）</li>
 <li>Ledderhose disease（97.2%）</li>
-<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 MS</span></li>
+<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 sclérose en plaques</span></li>
 <li>chronic hepatitis C virus infection（97.0%）</li>
 <li>palmar fibromatosis（96.9%）</li>
 <li>CMM7（96.8%）</li>
@@ -52,13 +52,21 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
 
 ### [Diese 2 Ernährungsweisen bremsen die Gewichtszunahme in den Wechseljahren besonders gut](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlZoekJsZHpjUlpfQUE1NEZQelRiX3VndUFwUUhPVVB4bEc4amRGYzRXZHRURUN1dzVIMk1ieFZIVHliSTFvNzBxZmZPMzZMWXVuTGdRX1ktOWJjSkNRdlYyQjVyQ0hXamZYZUdKV0ozODY4bGNjT0hiR1pXZG13NDJrRkthUU5pS1lRTWd2UUxHTFVrUFc0Tmx6OEpRUlVMWTE3clJIRTZuY1pnbnpFZw?oc=5)
 
 2026-06-05 <span class="news-indication-tag">MS</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlZoekJsZHpjUlpfQUE1NEZQelRiX3VndUFwUUhPVVB4bEc4amRGYzRXZHRURUN1dzVIMk1ieFZIVHliSTFvNzBxZmZPMzZMWXVuTGdRX1ktOWJjSkNRdlYyQjVyQ0hXamZYZUdKV0ozODY4bGNjT0hiR1pXZG13NDJrRkthUU5pS1lRTWd2UUxHTFVrUFc0Tmx6OEpRUlVMWTE3clJIRTZuY1pnbnpFZw?oc=5)
+
+---
+
+### [Embryoneneinnistung: Zilien-Biomarker mit 80% Vorhersagegenauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlpsRDBTMVhwLWg1NFUzSUdGd2FoZHMxYzRBRl82b1JJVTg4QUlfYmlwZ1QyN3JNVThRVm1pZ3FfNEJVc0wxdGtLR3pfbUs0aGFPOUNQbVozODFGVjJyUFNsM0w4dnVRT21xOFVxdG5vS0syeGVIY1FNRXdzYkpGZ05iX1J4S3lscTJTMnNSdGZoQTVLOENSSmJtUlN1Yi1tMVE?oc=5)
+
+2026-06-05 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlpsRDBTMVhwLWg1NFUzSUdGd2FoZHMxYzRBRl82b1JJVTg4QUlfYmlwZ1QyN3JNVThRVm1pZ3FfNEJVc0wxdGtLR3pfbUs0aGFPOUNQbVozODFGVjJyUFNsM0w4dnVRT21xOFVxdG5vS0syeGVIY1FNRXdzYkpGZ05iX1J4S3lscTJTMnNSdGZoQTVLOENSSmJtUlN1Yi1tMVE?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [La hepatitis B, más cerca de una cura: un nuevo fármaco logra resultados inéditos - National Geographic España](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjR2ZHlxeXc2UnVCNFpfa2lHR2RZNHZNS2NOaW96TzBJY3JvbUhCMVNHRWkyTUFlUE9xS1VJNlAzR1VzNi05LWJxQmtPUy1nd2hwYnB4YUROdWpleU5rVXdJSHRNMEExMlFCWGxzTnQ5eS1Jck5zenZoaEh1VzBRZTluQ2tBTW9EQlZyMUtIUHJpcXhLR2JIUjFiSlA5RFhIaXNWOXlUMkhLXzFhNDdtTQ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">hepatitis</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjR2ZHlxeXc2UnVCNFpfa2lHR2RZNHZNS2NOaW96TzBJY3JvbUhCMVNHRWkyTUFlUE9xS1VJNlAzR1VzNi05LWJxQmtPUy1nd2hwYnB4YUROdWpleU5rVXdJSHRNMEExMlFCWGxzTnQ5eS1Jck5zenZoaEh1VzBRZTluQ2tBTW9EQlZyMUtIUHJpcXhLR2JIUjFiSlA5RFhIaXNWOXlUMkhLXzFhNDdtTQ?oc=5)
+
+---
+
 ### [¿Estamos preparados para la próxima pandemia? La OMS lanza una advertencia que enciende todas las alarmas - El Periódico](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmptSEdSRVBMTWoyeWNEeVdhcWNtZHBFbF9zcnZJUk9ocldQXzZ4aTVsZXRQd1JVczA4MDBsS2lZVGNSWVJKQl9OY2t3RHNjNUZia3lmTGRqZHpRT0E2T0FSVF9YdmZDcTd5VXhBcFdRd1AtZk01Q1ozeVZfeE1HdjhCSXdkTkM3cF9VOTVobnoxdWhVeGdoWFJETXJZSHJ00gGgAUFVX3lxTFBBam1yTzlzSC14Wms1bWJaTmtTckU0bFZ3aThabmhWVGJXaXotMjVhRkdPNFh5ZXVIMkVVdlMzMmRyZ1BzLXZWa0NkVzgyRUoxWV9zOGVrZEJ6TFZ3UFluaHAzVjBFSWhZNTROV2RmeWtTc0cxckY3R0NsZnp4VmdNZE5hV2k3d1VYYmlTeWRydzQ3clFHQkZqR213NkptQl8?oc=5)
 
 2026-06-05 <span class="news-indication-tag">MS</span>
 
 來源：[El Periódico](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmptSEdSRVBMTWoyeWNEeVdhcWNtZHBFbF9zcnZJUk9ocldQXzZ4aTVsZXRQd1JVczA4MDBsS2lZVGNSWVJKQl9OY2t3RHNjNUZia3lmTGRqZHpRT0E2T0FSVF9YdmZDcTd5VXhBcFdRd1AtZk01Q1ozeVZfeE1HdjhCSXdkTkM3cF9VOTVobnoxdWhVeGdoWFJETXJZSHJ00gGgAUFVX3lxTFBBam1yTzlzSC14Wms1bWJaTmtTckU0bFZ3aThabmhWVGJXaXotMjVhRkdPNFh5ZXVIMkVVdlMzMmRyZ1BzLXZWa0NkVzgyRUoxWV9zOGVrZEJ6TFZ3UFluaHAzVjBFSWhZNTROV2RmeWtTc0cxckY3R0NsZnp4VmdNZE5hV2k3d1VYYmlTeWRydzQ3clFHQkZqR213NkptQl8?oc=5)
-
----
-
-### [Studie: Möglicher Effekt von Abnehmspritze auf Brustkrebs-Risiko](https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1ZWaURqMW1uSFMxeFo0a3VkemdMS0xmYXRtdnh6dkdRYldyd2tVZkRSWTVIMkNBa0t2SWdBRWZzM3ZXdmRSNk50VFpUODB0UXV0YUtaMDFBSzAybF9hOGlGZllHcjF1VVhoOFdscm9uVlhmRUU4OHhTSC1FNU5MaXk4NnR2Q3pTOTQxMzREcmV4RDJrZkpKSU9QQnNnY1UtVGQ1bjEyMF9FWXkyb00tRHA5OEpIVURhQUpPTTZsMmIwRnRqS2V6N2Vn?oc=5)
-
-2026-06-05 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1ZWaURqMW1uSFMxeFo0a3VkemdMS0xmYXRtdnh6dkdRYldyd2tVZkRSWTVIMkNBa0t2SWdBRWZzM3ZXdmRSNk50VFpUODB0UXV0YUtaMDFBSzAybF9hOGlGZllHcjF1VVhoOFdscm9uVlhmRUU4OHhTSC1FNU5MaXk4NnR2Q3pTOTQxMzREcmV4RDJrZkpKSU9QQnNnY1UtVGQ1bjEyMF9FWXkyb00tRHA5OEpIVURhQUpPTTZsMmIwRnRqS2V6N2Vn?oc=5)
 
 ---
 
@@ -94,19 +102,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Dans cette grande ville du Sud, 200 000 nouveaux moustiques tigres apparaissent chaque semaine - Journal des Femmes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSkNNc0t5c3MwZk5iZ2o0dTlwMDZabktrcGhCRnBwQjNFN0JXQ2pnbDBNQWpNRzRnTkpfZ1RhWnJ6NG9Lc2Vja29TMEw3WU1EUDdybnVfX2ZuU29yeE5IdXdoa3dBNGJKaVJWMDQxWjFCTjFPcnNRV1g4U1lwcU1EQ3EwTHNJZkJOb1JyNzJ3elYzWkZxY2lmZkVueWFVWXVUYmQ1YWZZeVp5M1lqMU9OdmtRTGNObGhYUVVrNlVvYU1BaUFaZlNXaG80dE1GUngxV1dQdTZ6TUVOSjg?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span>
-
-來源：[Journal des Femmes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSkNNc0t5c3MwZk5iZ2o0dTlwMDZabktrcGhCRnBwQjNFN0JXQ2pnbDBNQWpNRzRnTkpfZ1RhWnJ6NG9Lc2Vja29TMEw3WU1EUDdybnVfX2ZuU29yeE5IdXdoa3dBNGJKaVJWMDQxWjFCTjFPcnNRV1g4U1lwcU1EQ3EwTHNJZkJOb1JyNzJ3elYzWkZxY2lmZkVueWFVWXVUYmQ1YWZZeVp5M1lqMU9OdmtRTGNObGhYUVVrNlVvYU1BaUFaZlNXaG80dE1GUngxV1dQdTZ6TUVOSjg?oc=5)
-
----
-
-### [Demenz-Prävention: GLP-1-Medikamente senken Risiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
+### [Demenz: Diabetes-Medikamente senken Risiko um 53 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOERkaDg1RzNLUlRrS1pjdm5PUW5GNXhXdGZtYWZkTFlJRkhsWVJIVjkyTXFmQjF4NnBJY2thekk5VnJiY25XUFg1cFpkQWhteHFMMVFaei12Z0VCRE1GWVgwOGEtbUt2TmdxaDVLM1BzWmxSRHRDNlcyb05IbV9nMExWQjlqbzZRajZ3Sl93YlRxc1hjc1ZzUjd3M3o2eWVwdUdCbFFFMA?oc=5)
 
 2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOERkaDg1RzNLUlRrS1pjdm5PUW5GNXhXdGZtYWZkTFlJRkhsWVJIVjkyTXFmQjF4NnBJY2thekk5VnJiY25XUFg1cFpkQWhteHFMMVFaei12Z0VCRE1GWVgwOGEtbUt2TmdxaDVLM1BzWmxSRHRDNlcyb05IbV9nMExWQjlqbzZRajZ3Sl93YlRxc1hjc1ZzUjd3M3o2eWVwdUdCbFFFMA?oc=5)
+
+---
+
+### [Cuáles son las tres vacunas candidatas para frenar el brote de ébola y cómo funcionan - El Debate](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdm5IS3pRM2RmWEtBb0dveDRoZmxoMHdpcUFmcnBKY3FzNzlFeWZkYjN0WXphbFo0UVpmaGxnUDYtYnY4NmdxTkRTZjhNNGVESVZ4YjRRd1gydy1NVzRCU1ZCR1E4OGxBazRGZk53SUhTNUg3N2pNcjVzZ0tqX2Fyc3h5cEFkNHQ0UE1BbzdtS3kzQUNGazVRb0NVd1FweG1VdmJmdUkzRktybkREZWR1TVhIMDdRX3lraEtrQ0RVNzbSAcYBQVVfeXFMUDFxOFJNZDlwYV9mQ1BZMGQ2LWFGVXlyNWFBNGdTcTR5LWxoM3NpeG91aWJuMExORnQyd1ZiemEyMFNndGN0bnEwRUhwbmo2VWl1cFk1NUNobjNodmdGdlhTLU12MldXZC1ZWkI1RG85eW10Sm9mME1ZQXp1d25GdUQtR1NKSTFMdmxmSkF3WEhaRjdMTU0tdlJyS0s1MmFZQkJIRHVrS0FHZUY5UHZXZEp3LTVWSWNXbFZpY0t5TWRIN0stYWxR?oc=5)
+
+2026-06-05 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdm5IS3pRM2RmWEtBb0dveDRoZmxoMHdpcUFmcnBKY3FzNzlFeWZkYjN0WXphbFo0UVpmaGxnUDYtYnY4NmdxTkRTZjhNNGVESVZ4YjRRd1gydy1NVzRCU1ZCR1E4OGxBazRGZk53SUhTNUg3N2pNcjVzZ0tqX2Fyc3h5cEFkNHQ0UE1BbzdtS3kzQUNGazVRb0NVd1FweG1VdmJmdUkzRktybkREZWR1TVhIMDdRX3lraEtrQ0RVNzbSAcYBQVVfeXFMUDFxOFJNZDlwYV9mQ1BZMGQ2LWFGVXlyNWFBNGdTcTR5LWxoM3NpeG91aWJuMExORnQyd1ZiemEyMFNndGN0bnEwRUhwbmo2VWl1cFk1NUNobjNodmdGdlhTLU12MldXZC1ZWkI1RG85eW10Sm9mME1ZQXp1d25GdUQtR1NKSTFMdmxmSkF3WEhaRjdMTU0tdlJyS0s1MmFZQkJIRHVrS0FHZUY5UHZXZEp3LTVWSWNXbFZpY0t5TWRIN0stYWxR?oc=5)
 
 ---
 
@@ -118,6 +126,14 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [School to undergo testing after several teachers diagnosed with cancer - The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFFuYUZIdVJkNUJWbi1hX0t1TmFIdHQxUU1oeThNM0V4QnFFV1FodlYyTlBnM1J4UDRDdnRlQ0FDNWtJTHdTdE1KcE1nWFhVSFZtb19fdUlPaWlQWHRKdk96aDBoUFVSV0ZvNGZycGgxVTFPNWw5cE9DZG9QMUZZMGhCdVUyQkEtUVh2eUdXYzBmVXhzbWlxNkNQT0p4MXpkMExQbS1SNjJyRDVadXRYTG1zQzY5dw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFFuYUZIdVJkNUJWbi1hX0t1TmFIdHQxUU1oeThNM0V4QnFFV1FodlYyTlBnM1J4UDRDdnRlQ0FDNWtJTHdTdE1KcE1nWFhVSFZtb19fdUlPaWlQWHRKdk96aDBoUFVSV0ZvNGZycGgxVTFPNWw5cE9DZG9QMUZZMGhCdVUyQkEtUVh2eUdXYzBmVXhzbWlxNkNQT0p4MXpkMExQbS1SNjJyRDVadXRYTG1zQzY5dw?oc=5)
+
+---
+
 ### [Vitamin D and calcium may not support bone health as much as thought: study - Global News](https://news.google.com/rss/articles/CBMie0FVX3lxTE5IOVRLQmF6ay15b1N4YkRkdU1hakIwRi1CZjYwM3dYSmthc2RpRDJRUDVyMGVKb1hkZVhoUUpZbGUyamx4amhFUGJYNWQza0M4RDV4ck8zRzRhSWRpdUE0eU52c3lmRXBpQUI4Y2gzOHdhb0pqVlE4M0JHVQ?oc=5)
 
 2026-06-04 <span class="news-indication-tag">MS</span>
@@ -126,11 +142,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Researchers Solve the Mystery Behind a Billion-Dollar Dental Implant Disease](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJwZUNMbGdrdkJKOTIxeF83RVU2c3VieEZfUkNLTFFOaEVwSmhzVkxaSjkxNkh1UHZRR1hZNUlzRDdWakFUeUNWaGp2Snp6N3E2eFotcXYzamhud2p5RU4zdVpqODlaZGRXYlFNQV9Qclh1NnIybTZmLV9ZY3BXSGR0TVhNaWhISm9VMFljcm1QRDdqZFF5MHY1TWZNWHpoOXRRZg?oc=5)
+### [Journal retracts study linking hepatitis vaccine to autism that was included in CDC review - Retraction Watch](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTJoYjYxWUhvMEF0cVA0blZvY21iMDluQ0Y4NUc5NnFtdUxiMXVhMzVCU2NZVFVPaXFiVm9ocVlvMnFreFprZ0hjck1xanN4VE8xOFA3YWtiR3h6azJVdlNFTk9SWnBiMnZ3ekUwbkc0ZDhJcWxTbEkzazV6MDVybjNGRDN0TTc2NHRSUFJ5a3Bhczd2TVJOR0dlN1k0eHlmQjVvN3lWS0FiQWN0dHhyODdrTVFwN3lBejlCT3Z0RzhtUTNvQ01xU1NB?oc=5)
 
-2026-06-04 <span class="news-indication-tag">MS</span>
+2026-06-04 <span class="news-indication-tag">hepatitis</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJwZUNMbGdrdkJKOTIxeF83RVU2c3VieEZfUkNLTFFOaEVwSmhzVkxaSjkxNkh1UHZRR1hZNUlzRDdWakFUeUNWaGp2Snp6N3E2eFotcXYzamhud2p5RU4zdVpqODlaZGRXYlFNQV9Qclh1NnIybTZmLV9ZY3BXSGR0TVhNaWhISm9VMFljcm1QRDdqZFF5MHY1TWZNWHpoOXRRZg?oc=5)
+來源：[Retraction Watch](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTJoYjYxWUhvMEF0cVA0blZvY21iMDluQ0Y4NUc5NnFtdUxiMXVhMzVCU2NZVFVPaXFiVm9ocVlvMnFreFprZ0hjck1xanN4VE8xOFA3YWtiR3h6azJVdlNFTk9SWnBiMnZ3ekUwbkc0ZDhJcWxTbEkzazV6MDVybjNGRDN0TTc2NHRSUFJ5a3Bhczd2TVJOR0dlN1k0eHlmQjVvN3lWS0FiQWN0dHhyODdrTVFwN3lBejlCT3Z0RzhtUTNvQ01xU1NB?oc=5)
 
 ---
 
@@ -147,14 +163,6 @@ permalink: /news/teriflunomide/
 2026-06-04 <span class="news-indication-tag">MS</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMVZXdW1GOXozeE5Ib2hpUjlpNFJVbGpycGtVdkZEckJHUGtEaW8xMmxCaFJnSUVvajltQVhkVExXanBGQ2ZBRU0teWtRdmhmV0YyTFpjOW4xSlNVcWMwc0d6LXFxYVQ1M3VndEFlbldKYS1CUW1US1ByMWl5d042Y2dEaUdqOWpGVW1yZXQ2VjRFSmFuaTZ3NUxsNkN0NFM2enZJWmhfYWlOdGYybEltSE5zMXBNcW9qNlNhZ2VtV2lWbFRBVmRJSEZwdFRsanp1ZmF0bXZKQQ?oc=5)
-
----
-
-### [L'allarme dell'Oms: "Un milione e mezzo di morti l'anno per cibo contaminato"](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDVDbjhmeEV1RjBFM2k4THpva3MzdjVKdHZ5Nk5CNE8zeHVwd1E1YWRTaVFDSTJCN1hiVjFJclR2OWhzcWhweERqSmVfcU1lQk4xWXZZSjh2TE0yZHhSOEJNR0RzTFgtVW9mN0VIak53Qkt0MGtiZlVFSVNRWnRJdTJwbzJuSmhvMmYzb2FhSjB0cE1neDh2c2ZwYnJxLUZ6YkhfVDNwQWE5bjVrMkd1a2czUnfSAWhBVV95cUxOdWRSbWF6MjZvVzRVVTJEWHVmUmI0R2hwenVBZV96OVRENjVNZjNab1d6bXhBVDYzUzFCbm92cTlXV1BaNUM4YmtPNXh2QWx0X0xCa0lnWmFpSDZpd3NqNVZJeWx2SVNoRA?oc=5)
-
-2026-06-04 <span class="news-indication-tag">MS</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDVDbjhmeEV1RjBFM2k4THpva3MzdjVKdHZ5Nk5CNE8zeHVwd1E1YWRTaVFDSTJCN1hiVjFJclR2OWhzcWhweERqSmVfcU1lQk4xWXZZSjh2TE0yZHhSOEJNR0RzTFgtVW9mN0VIak53Qkt0MGtiZlVFSVNRWnRJdTJwbzJuSmhvMmYzb2FhSjB0cE1neDh2c2ZwYnJxLUZ6YkhfVDNwQWE5bjVrMkd1a2czUnfSAWhBVV95cUxOdWRSbWF6MjZvVzRVVTJEWHVmUmI0R2hwenVBZV96OVRENjVNZjNab1d6bXhBVDYzUzFCbm92cTlXV1BaNUM4YmtPNXh2QWx0X0xCa0lnWmFpSDZpd3NqNVZJeWx2SVNoRA?oc=5)
 
 ---
 
@@ -190,19 +198,19 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Studie: Abnehmspritzen senken Brustkrebsrisiko um bis zu 30 Prozent](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnFfTURmSS0tdUt0cTVMdlNNeUZLb0EtTDliLVJKS19FOFZRbFFXODhmVHBzYUc3OXphOEN1VnJkOGMxSmJpOU44NGVxT3J6RUVjNUpWT2RFcjRUTTlYeW1hMXA1Um1hWjNGWC1reG1ITVdKVHR5bnVBa0dqVnhvc085RElJMkw0aHFFUmZua1R5T3pyMF9XY0M1YU5RUjd0U0dKenA2X1doWjJPN2Z5X0dn?oc=5)
+
+2026-06-04 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnFfTURmSS0tdUt0cTVMdlNNeUZLb0EtTDliLVJKS19FOFZRbFFXODhmVHBzYUc3OXphOEN1VnJkOGMxSmJpOU44NGVxT3J6RUVjNUpWT2RFcjRUTTlYeW1hMXA1Um1hWjNGWC1reG1ITVdKVHR5bnVBa0dqVnhvc085RElJMkw0aHFFUmZua1R5T3pyMF9XY0M1YU5RUjd0U0dKenA2X1doWjJPN2Z5X0dn?oc=5)
+
+---
+
 ### [« C’est le projet d’une vie » : comment cette Bretonne veut révolutionner le traitement de la sclérose en plaques - Le Télégramme](https://news.google.com/rss/articles/CBMipAJBVV95cUxOaVViRkJfZVV0Sy0zNDJYTExKSXlUMDQwX0liLUt2TlJtdi1TMS1aeWFPXzgxM016SDMtMVA0NXFZZzMybEFXeE82YTR1V3NQbUJrRUJKYjZpT2d3ajlTblpjdkdCNXNhQ05aeEVKZ2NmdnBDWlJYMkdpZG5ZcnZGMDhYTkNLaF9WRE9mMXNKOHIzYVl0enBTOVlEczQ0S3RTRWtLb25kNU9LaUc4S3A1MC1fanZMNklwUWdua2dDdDBMZDhxRWdVMzRmV09XWnF5UGd4STROSUlBbUJVVUE2OFdCZGswUFJhanBmNWRrNUx5RE5ESTI4Q09fREhVT0FoVDZobHVvbzRBT2hvVFV4OHVkSXJZVFNEVm55cC14T0FZRkRv?oc=5)
 
 2026-06-04 <span class="news-indication-tag">sclérose en plaques</span>
 
 來源：[Le Télégramme](https://news.google.com/rss/articles/CBMipAJBVV95cUxOaVViRkJfZVV0Sy0zNDJYTExKSXlUMDQwX0liLUt2TlJtdi1TMS1aeWFPXzgxM016SDMtMVA0NXFZZzMybEFXeE82YTR1V3NQbUJrRUJKYjZpT2d3ajlTblpjdkdCNXNhQ05aeEVKZ2NmdnBDWlJYMkdpZG5ZcnZGMDhYTkNLaF9WRE9mMXNKOHIzYVl0enBTOVlEczQ0S3RTRWtLb25kNU9LaUc4S3A1MC1fanZMNklwUWdua2dDdDBMZDhxRWdVMzRmV09XWnF5UGd4STROSUlBbUJVVUE2OFdCZGswUFJhanBmNWRrNUx5RE5ESTI4Q09fREhVT0FoVDZobHVvbzRBT2hvVFV4OHVkSXJZVFNEVm55cC14T0FZRkRv?oc=5)
-
----
-
-### [PCOS heißt jetzt PMOS: Das steckt hinter dem neuen Namen | DIE PTA](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHcxM0dpVmVpSC1yMGI5RzlpNGVRZDdOTzNOMTRONmlSN1ExT1RKOVFNQ0NLN0JSTi1sNmRnN250Z3A2Y3FTQVBRUTZVaTZTWldWaFN6bXBMaXhSeDFSZ0xJNHloMzEydWs2Q2FTSGQ2U2dHTC1zZkh0U1p2Rkwxdjhzd1hSd195WGRaeWxkR2pYT01xUUlQZjhDQXZ4WVk?oc=5)
-
-2026-06-03 <span class="news-indication-tag">MS</span>
-
-來源：[diepta.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHcxM0dpVmVpSC1yMGI5RzlpNGVRZDdOTzNOMTRONmlSN1ExT1RKOVFNQ0NLN0JSTi1sNmRnN250Z3A2Y3FTQVBRUTZVaTZTWldWaFN6bXBMaXhSeDFSZ0xJNHloMzEydWs2Q2FTSGQ2U2dHTC1zZkh0U1p2Rkwxdjhzd1hSd195WGRaeWxkR2pYT01xUUlQZjhDQXZ4WVk?oc=5)
 
 ---
 

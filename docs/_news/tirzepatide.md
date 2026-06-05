@@ -62,11 +62,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [C’est quoi « les oreilles Ozempic », cet effet secondaire de la perte de poids par Wegovy et Mounjaro dont personne ne parle ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
+### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
 
 ---
 

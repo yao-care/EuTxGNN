@@ -14,7 +14,7 @@ permalink: /news/guanfacine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Guanfacine Hydrochloride 有什麼相關新聞？">
-<strong>Guanfacine Hydrochloride</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guanfacine Hydrochloride</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/guanfacine-hydrochloride/
 <p><a href="{{ '/drugs/guanfacine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（23 則）
+
+### [WHO announces £386m plan to fight Ebola outbreak as number of cases rises - Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDFMM1Y4dVprRmphVWd3RjlBZnVoNEdHMjFRVTRjSmNaVUE4MnNsWVZKWTdvdUtHMjBKVmFWanVvc0hOVnEzcWtxWlVuWmIyVElkTmhhakdMMjNfQk1PQk1fc0tsQkdTZElqMHVoaEt3eUpaaENsUHltQ1NTNll6Z0t0aGpYWHplY2c4SDFYaGFjY2dkNkFWckpzanB3OHdBbVdyMklqUS1mRE9q?oc=5)
+
+2026-06-05 <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDFMM1Y4dVprRmphVWd3RjlBZnVoNEdHMjFRVTRjSmNaVUE4MnNsWVZKWTdvdUtHMjBKVmFWanVvc0hOVnEzcWtxWlVuWmIyVElkTmhhakdMMjNfQk1PQk1fc0tsQkdTZElqMHVoaEt3eUpaaENsUHltQ1NTNll6Z0t0aGpYWHplY2c4SDFYaGFjY2dkNkFWckpzanB3OHdBbVdyMklqUS1mRE9q?oc=5)
+
+---
+
+### [Estas son las reglas para conservar los fármacos con el calor y evitar riesgos para la salud - Gaceta de salud](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWWZfM29MZGZTOGJ6QkwwMTZVNEtfejVQdGVabEl4WjZXSXo4d0xzTzdkY1BZTkI3WDRZUWk4blhEVFFycE9PN1N1cUZpY1dQWWJZMHhuY3E2UWNCQ2pFdEppaEJtRURMMDFzMW82VzhqQ1l3a1hfUVJiTkdsUENrakNoUlIwTmFkcmNkbTdMMkVPT1JuRlZ0aVFhWG10cEY3QVBESm9QTEdVckswcjZfZUF0ZGQzTHFZSVlkQzdZRjV2SWhxa19SWUhVejBMNUVVcHZTc0dIRXBOc2tndm9xYS16WWpWeGdxR0JraEt5ajlVSHRuNWZ5WA?oc=5)
+
+2026-06-05 <span class="news-indication-tag">AF</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWWZfM29MZGZTOGJ6QkwwMTZVNEtfejVQdGVabEl4WjZXSXo4d0xzTzdkY1BZTkI3WDRZUWk4blhEVFFycE9PN1N1cUZpY1dQWWJZMHhuY3E2UWNCQ2pFdEppaEJtRURMMDFzMW82VzhqQ1l3a1hfUVJiTkdsUENrakNoUlIwTmFkcmNkbTdMMkVPT1JuRlZ0aVFhWG10cEY3QVBESm9QTEdVckswcjZfZUF0ZGQzTHFZSVlkQzdZRjV2SWhxa19SWUhVejBMNUVVcHZTc0dIRXBOc2tndm9xYS16WWpWeGdxR0JraEt5ajlVSHRuNWZ5WA?oc=5)
+
+---
+
+### [Historique : le tout premier vaccin conçu par intelligence artificielle vient d'être administré à 39 personnes - Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQzNzLTNLZlA2NGJQNDc3SGFfdXF2a3pydUxkX0VFWXRZMF9jTGc1MEQ3VDJGVV9UYjFabzNCUG8xNHVDYUI0NXVyWmxwT1dMYU5yd3VONXpJWnVURE5CYTZFYkVpODRwY2lCMlRBNWFQY3ByVEN1THB0YkNVYVFsbHZpOWFaX1NQbTR6bzhTcUcyZTF1UjJxS3lQZGRfMjZwb1dzM2dNM0hmcFNEWkZVZHhTQ3dEU0thTnBRV2Z3SS11dV9YcjA0bGVBbFRYOWdHdzVzUGVmdWRROXhmNzJzREZqblZETHZYSFlOLWlrUzB3bU04REVTQU1DTlFUUzRLLUZZN0l4ODQ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">AF</span>
+
+來源：[Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQzNzLTNLZlA2NGJQNDc3SGFfdXF2a3pydUxkX0VFWXRZMF9jTGc1MEQ3VDJGVV9UYjFabzNCUG8xNHVDYUI0NXVyWmxwT1dMYU5yd3VONXpJWnVURE5CYTZFYkVpODRwY2lCMlRBNWFQY3ByVEN1THB0YkNVYVFsbHZpOWFaX1NQbTR6bzhTcUcyZTF1UjJxS3lQZGRfMjZwb1dzM2dNM0hmcFNEWkZVZHhTQ3dEU0thTnBRV2Z3SS11dV9YcjA0bGVBbFRYOWdHdzVzUGVmdWRROXhmNzJzREZqblZETHZYSFlOLWlrUzB3bU04REVTQU1DTlFUUzRLLUZZN0l4ODQ?oc=5)
+
+---
 
 ### [Diabetes und Vorhofflimmern: 61% höheres Sterberisiko durch Kombination - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2p5N09zalZGNEs1UllvYTZhTDJWNWtGdHpKUHExVnRxR0dVM0U3U0xRMWJiSzdvV0t2Q3hHbGZoY05Jejc3NHUzejNoM19XbHhEZXhvaXFCMzNoUGtZaWhXN3NZLU5zVVk0MnpsMUxKTzZxNjFFQjR6TGJDYm1YWHdfUl9tRXB2eVpMTV9URVJPeHFGOTNFYlVDdUNsVW9CMkxtaTBTbDhpVGZsVEVYT25qeUlOdw?oc=5)
 
 2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2p5N09zalZGNEs1UllvYTZhTDJWNWtGdHpKUHExVnRxR0dVM0U3U0xRMWJiSzdvV0t2Q3hHbGZoY05Jejc3NHUzejNoM19XbHhEZXhvaXFCMzNoUGtZaWhXN3NZLU5zVVk0MnpsMUxKTzZxNjFFQjR6TGJDYm1YWHdfUl9tRXB2eVpMTV9URVJPeHFGOTNFYlVDdUNsVW9CMkxtaTBTbDhpVGZsVEVYT25qeUlOdw?oc=5)
+
+---
+
+### [Hallan el origen de dos brotes de norovirus de un hospital madrileño en 2024](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlNJRkVaR0d5SWJrNjEtSG05RXhwZHJpMGFydFZrSnl0eW83QmFmQXVZaWdLSHJaSDJXZFlheXFFR0xGaTBDd1h2LThyVzJRMVc2OHBvbVhWWXhSOVdTcXJYUWZfVDg1bFdxM29wdksybVl1eFI3WW9JbHVVY2l6X3M5OFdvaUhCSWdBNkNYbWxOejlWUXR2VlhnekRrU3h5WG4yVGtGTHplcFdwM2trTTVB?oc=5)
+
+2026-06-05 <span class="news-indication-tag">AF</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlNJRkVaR0d5SWJrNjEtSG05RXhwZHJpMGFydFZrSnl0eW83QmFmQXVZaWdLSHJaSDJXZFlheXFFR0xGaTBDd1h2LThyVzJRMVc2OHBvbVhWWXhSOVdTcXJYUWZfVDg1bFdxM29wdksybVl1eFI3WW9JbHVVY2l6X3M5OFdvaUhCSWdBNkNYbWxOejlWUXR2VlhnekRrU3h5WG4yVGtGTHplcFdwM2trTTVB?oc=5)
 
 ---
 
@@ -96,17 +128,25 @@ permalink: /news/guanfacine-hydrochloride/
 
 ### [Cuáles son las tres vacunas candidatas para frenar el brote de ébola y cómo funcionan - El Debate](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdm5IS3pRM2RmWEtBb0dveDRoZmxoMHdpcUFmcnBKY3FzNzlFeWZkYjN0WXphbFo0UVpmaGxnUDYtYnY4NmdxTkRTZjhNNGVESVZ4YjRRd1gydy1NVzRCU1ZCR1E4OGxBazRGZk53SUhTNUg3N2pNcjVzZ0tqX2Fyc3h5cEFkNHQ0UE1BbzdtS3kzQUNGazVRb0NVd1FweG1VdmJmdUkzRktybkREZWR1TVhIMDdRX3lraEtrQ0RVNzbSAcYBQVVfeXFMUDFxOFJNZDlwYV9mQ1BZMGQ2LWFGVXlyNWFBNGdTcTR5LWxoM3NpeG91aWJuMExORnQyd1ZiemEyMFNndGN0bnEwRUhwbmo2VWl1cFk1NUNobjNodmdGdlhTLU12MldXZC1ZWkI1RG85eW10Sm9mME1ZQXp1d25GdUQtR1NKSTFMdmxmSkF3WEhaRjdMTU0tdlJyS0s1MmFZQkJIRHVrS0FHZUY5UHZXZEp3LTVWSWNXbFZpY0t5TWRIN0stYWxR?oc=5)
 
-2026-06-05 <span class="news-indication-tag">AF</span>
+2026-06-05 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdm5IS3pRM2RmWEtBb0dveDRoZmxoMHdpcUFmcnBKY3FzNzlFeWZkYjN0WXphbFo0UVpmaGxnUDYtYnY4NmdxTkRTZjhNNGVESVZ4YjRRd1gydy1NVzRCU1ZCR1E4OGxBazRGZk53SUhTNUg3N2pNcjVzZ0tqX2Fyc3h5cEFkNHQ0UE1BbzdtS3kzQUNGazVRb0NVd1FweG1VdmJmdUkzRktybkREZWR1TVhIMDdRX3lraEtrQ0RVNzbSAcYBQVVfeXFMUDFxOFJNZDlwYV9mQ1BZMGQ2LWFGVXlyNWFBNGdTcTR5LWxoM3NpeG91aWJuMExORnQyd1ZiemEyMFNndGN0bnEwRUhwbmo2VWl1cFk1NUNobjNodmdGdlhTLU12MldXZC1ZWkI1RG85eW10Sm9mME1ZQXp1d25GdUQtR1NKSTFMdmxmSkF3WEhaRjdMTU0tdlJyS0s1MmFZQkJIRHVrS0FHZUY5UHZXZEp3LTVWSWNXbFZpY0t5TWRIN0stYWxR?oc=5)
 
 ---
 
-### ['World-first' vaccine designed by artificial intelligence](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12UmdObXF4dldNelJBaWFsenpDSTFQTENQOXdYeF96THpOLTg0MjlVeElTTFBVNVVxWFZoeTZkX05JbkdTaGJubkFtTlkwbE9td1phRkd0SWV6Nld4?oc=5)
+### [Obesidad y menopausia elevan el riesgo cardiovascular en mujeres; alertan sobre síntomas silenciosos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1FvSE8wQW5pSXFXZEhsbVBUX2t2OWlwWVQteU51bVF2ZXczWGoyQmgteGxuVFNRTmo5R1REOVdaNllzQUhRQVpvQm1YMnpudTVHLXNvUTV0aFF3b2lTX0dLS0xxX2pXWHJXQkFmeHU4elF5YnRpRm1uMUFLalBzWGQtVlBIb0ItS21VYmxnbE9uZ0hVM1N4dTUwTWticnNXY0I5NFhTanQ3TGM5MDRyQi1ocmF2NXJvcVBMQXg0WkZQWldUdUQyWkpaUEJXOWtLVDNkeA?oc=5)
 
-2026-06-04 <span class="news-indication-tag">AF</span>
+2026-06-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12UmdObXF4dldNelJBaWFsenpDSTFQTENQOXdYeF96THpOLTg0MjlVeElTTFBVNVVxWFZoeTZkX05JbkdTaGJubkFtTlkwbE9td1phRkd0SWV6Nld4?oc=5)
+來源：[Potosinoticias.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1FvSE8wQW5pSXFXZEhsbVBUX2t2OWlwWVQteU51bVF2ZXczWGoyQmgteGxuVFNRTmo5R1REOVdaNllzQUhRQVpvQm1YMnpudTVHLXNvUTV0aFF3b2lTX0dLS0xxX2pXWHJXQkFmeHU4elF5YnRpRm1uMUFLalBzWGQtVlBIb0ItS21VYmxnbE9uZ0hVM1N4dTUwTWticnNXY0I5NFhTanQ3TGM5MDRyQi1ocmF2NXJvcVBMQXg0WkZQWldUdUQyWkpaUEJXOWtLVDNkeA?oc=5)
+
+---
+
+### [School to undergo testing after several teachers diagnosed with cancer - The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFFuYUZIdVJkNUJWbi1hX0t1TmFIdHQxUU1oeThNM0V4QnFFV1FodlYyTlBnM1J4UDRDdnRlQ0FDNWtJTHdTdE1KcE1nWFhVSFZtb19fdUlPaWlQWHRKdk96aDBoUFVSV0ZvNGZycGgxVTFPNWw5cE9DZG9QMUZZMGhCdVUyQkEtUVh2eUdXYzBmVXhzbWlxNkNQT0p4MXpkMExQbS1SNjJyRDVadXRYTG1zQzY5dw?oc=5)
+
+2026-06-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFFuYUZIdVJkNUJWbi1hX0t1TmFIdHQxUU1oeThNM0V4QnFFV1FodlYyTlBnM1J4UDRDdnRlQ0FDNWtJTHdTdE1KcE1nWFhVSFZtb19fdUlPaWlQWHRKdk96aDBoUFVSV0ZvNGZycGgxVTFPNWw5cE9DZG9QMUZZMGhCdVUyQkEtUVh2eUdXYzBmVXhzbWlxNkNQT0p4MXpkMExQbS1SNjJyRDVadXRYTG1zQzY5dw?oc=5)
 
 ---
 
@@ -131,14 +171,6 @@ permalink: /news/guanfacine-hydrochloride/
 2026-06-04 <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcXRnSlRhVFpPR20ybV9DOElDR0dHYTQzX1BrRDZXa0FOVkVjRkxjb0ZWd2lYZFA4UWlBSXpHbEh0OG9QYThfUTRmRlhxQXR1SlBJTlNCRkpCTndoYWE5MzZCLTdsdE9iaFhmcVVUek5QU290dXhZMzZjcld4THFiamZWOUlwM2lwdnFlSm9PMzhxZEdyUC1GVWFraElPS0xDdEdkYTkxWTRrbEd6TTdhVmk5TnpMT09jU296MnkzQmV2cVpLa0NtTTIzczhrVF9wSjY4VktCa1c?oc=5)
-
----
-
-### [Estos son los medicamentos que pueden resultar peligrosos durante una ola de calor](https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh5d3pqbUZad0NfVUR2bHdmdnJBWlI1WXdWTDdBbUYtTjhxQklzQ0xzekItcmxacDBLVFAxb2JrbTVqOGcyZVAxSngzQmtnbkp0bWFFSEhyOFFBM2ZnYmhieWxwRGVqMXVaTXdxSWo4RGFkbmFZZTZxay1vYVJlZXBfNThrRG9udjd0YlVWRWtiSnRoeFFrM2RtWV94bzdjMlHSAacBQVVfeXFMTmM4Z0I3OXVHSWUyZF90Q3B6Vm5FRHhjV3E2dmVhM1ZXXy1ORnZtckxFdzBzTHAtMnVJajQ5NXZVdzBOQWkxNE9zX0VjUDNBNnNMVVRwVmJZT04xRXZkNWxLWnhLM0VFU0F0LVVUSmZjTjhMQ3JRcEQ4cUx4WEZHdlRCbHVsUWdPRGxNeUxkb2hwQlVybXlmZnIyaWpmcXpiWDNzbWxCMGs?oc=5)
-
-2026-06-04 <span class="news-indication-tag">AF</span>
-
-來源：[Hoy](https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh5d3pqbUZad0NfVUR2bHdmdnJBWlI1WXdWTDdBbUYtTjhxQklzQ0xzekItcmxacDBLVFAxb2JrbTVqOGcyZVAxSngzQmtnbkp0bWFFSEhyOFFBM2ZnYmhieWxwRGVqMXVaTXdxSWo4RGFkbmFZZTZxay1vYVJlZXBfNThrRG9udjd0YlVWRWtiSnRoeFFrM2RtWV94bzdjMlHSAacBQVVfeXFMTmM4Z0I3OXVHSWUyZF90Q3B6Vm5FRHhjV3E2dmVhM1ZXXy1ORnZtckxFdzBzTHAtMnVJajQ5NXZVdzBOQWkxNE9zX0VjUDNBNnNMVVRwVmJZT04xRXZkNWxLWnhLM0VFU0F0LVVUSmZjTjhMQ3JRcEQ4cUx4WEZHdlRCbHVsUWdPRGxNeUxkb2hwQlVybXlmZnIyaWpmcXpiWDNzbWxCMGs?oc=5)
 
 ---
 
@@ -174,6 +206,14 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
+### [The race to combat Ebola: what vaccines and treatments are being developed and how long will it take? - The Guardian](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTN5NWR3MmNYX1U0N04wUDVmbTlNWTlINjJpelRQNEs1ZU5rR0NBLVJiQVYtbUVteVVaWE5DZElaWUFFZk5feS1Oc1o3c1lmY3BHMjh5MTBkZnp6ZlZhOS05Z3ZjbTJxdXlpd3lMdDFfTFNmbVJEYUFmdWhqbWxodE44UWNuMjNRcVlWdkZ5WkE0QzVuWUI3YjdDaGUwU0lEaFNsNV9yUEJfdFNaQVZkTVhBRDMxa0w5bTVQbS1MX3QyZDlwR05LWjkyQWZyejR1NVlLbkZPUUx0bmdfNUtTUjJROXZFVkJVSi1DUzM4TQ?oc=5)
+
+2026-06-04 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTN5NWR3MmNYX1U0N04wUDVmbTlNWTlINjJpelRQNEs1ZU5rR0NBLVJiQVYtbUVteVVaWE5DZElaWUFFZk5feS1Oc1o3c1lmY3BHMjh5MTBkZnp6ZlZhOS05Z3ZjbTJxdXlpd3lMdDFfTFNmbVJEYUFmdWhqbWxodE44UWNuMjNRcVlWdkZ5WkE0QzVuWUI3YjdDaGUwU0lEaFNsNV9yUEJfdFNaQVZkTVhBRDMxa0w5bTVQbS1MX3QyZDlwR05LWjkyQWZyejR1NVlLbkZPUUx0bmdfNUtTUjJROXZFVkJVSi1DUzM4TQ?oc=5)
+
+---
+
 ### [Sheffield hospital patient gives robot surgery the 'thumbs up'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HbkdMT3pUOGo0OWZkcFliYXFnUEg1Ui01N1pEUks0RFdWRXRGY0VPbS1oREk1emNiNVNuYUhpVzJpVm1sUS1UVFJWNVd6dVFkRFhkZ3pGMTlSTE9M?oc=5)
 
 2026-06-04 <span class="news-indication-tag">AF</span>
@@ -195,30 +235,6 @@ permalink: /news/guanfacine-hydrochloride/
 2026-06-03 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUhCSzVfdWNfVmNQalp5NThDTUQ3bFNXdTNCZWxkVTl0dXlpRkQ4QVNKMHNpYWRVZVpYNzV1Ynd5Z3FVNWw1dlU4M2Nrai1nc1hXWTh1eWtYNERNVzVESEdfQnRRUzNvSkROSl8wM3VXalZzQ2NtMVpfZWV0ekMxMzVzQnc2SDZuSXF3X0ItSUdibW1lT1h1enZGZHJkS1NhTUxkVHQ0ZHgwdFRoYjFn?oc=5)
-
----
-
-### [Más allá de los sofocos: cómo afecta la menopausia a la salud cardiovascular - Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
-
-2026-06-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Crónica Global](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFpoTlRhbnBfY3AtalRtUjBITnR6WlRCd0JPZHF5bGk0MEdFNlFxS2pjNDdqVGkybnZFZ3JkM0t1UTNlZW5xaW4wbzRiWW1UVzhmaUJCdFhJUF9pU1puX3hYN3lfVms0N0RES2dPOGFzZF9QWGtZdEdGWDFfNnFRQTI4bzVBVGJmenNuRXVrYkk5TVZiY1JwdVJrVlRRRHAzTUhYVERIbTJrVHpWTHB3THpRZ3hqU2pUS1NLTWJ6bU9IVlVnVUtRa2JJVjfSAdIBQVVfeXFMTUEtajNWUU5OTWtoNllWLWZwM3ZqVE53WmhCU2pHRVJ3SF9Oa1pMTm8xd29CZGEtMXFELUJTeHVqRUxDMFR6a2l3YzR5SzhNQy1KZlZWMUYwQmZuOVNZcVNkYVdjb2RSM1Q2NUpaOWZ3TzJTN2o2NVhUa29KZjFiMmhJMWNjcFZxU2R6WGVfMzgzamQ5TG9BeFZDRzJaWUNSbkdMOVNDejZYNkJKZDlOVGY4NEpkYlJxV2M5ZklYbFhXRTkyQ3VKdUlsWWUxTHBUcWZ3?oc=5)
-
----
-
-### [Teen who went to dentist with toothache given just 3 weeks left to live after shock diagnosis](https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0NxZjA4ZlpqQWhfOTJfcHNWQkN0eTVXZWloNWhhcDFPRktNcnJDTWdDUkZNYVVsVjJjOVdvcnhHd1ZQOERwbTJLamg2Y1B0UW42SEx0S05hck5pdHduZklWdzJvMTNuOG1xSVVMZGQxUEJsUUx6cWI2dzhpcnRZTDlsVnlmZmVvakJiRDZ5VHFiR1hCUXc?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[UNILAD](https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0NxZjA4ZlpqQWhfOTJfcHNWQkN0eTVXZWloNWhhcDFPRktNcnJDTWdDUkZNYVVsVjJjOVdvcnhHd1ZQOERwbTJLamg2Y1B0UW42SEx0S05hck5pdHduZklWdzJvMTNuOG1xSVVMZGQxUEJsUUx6cWI2dzhpcnRZTDlsVnlmZmVvakJiRDZ5VHFiR1hCUXc?oc=5)
-
----
-
-### [Wenn Flüssigkeiten zu Gläsern werden - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmJEWnhfVGQ4dllXODhwQXZoUHlaMGJQaUtBZmR5TVNobTgtYjVHZXRQVzVyVVlwMlhheXhKV3VlVFdFaEFmR0gxczBtZTRvY2hKSE91TFZ1ZFBzX0FTanNCZlk5S2NiM180QWhoRkRtT1llZEFMbEhWQ3ZDejY4VFVIVnhOZHNmT014WVFWN05DNlNaVkNoUmJ0TWs?oc=5)
-
-2026-06-03 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmJEWnhfVGQ4dllXODhwQXZoUHlaMGJQaUtBZmR5TVNobTgtYjVHZXRQVzVyVVlwMlhheXhKV3VlVFdFaEFmR0gxczBtZTRvY2hKSE91TFZ1ZFBzX0FTanNCZlk5S2NiM180QWhoRkRtT1llZEFMbEhWQ3ZDejY4VFVIVnhOZHNmT014WVFWN05DNlNaVkNoUmJ0TWs?oc=5)
 
 ---
 

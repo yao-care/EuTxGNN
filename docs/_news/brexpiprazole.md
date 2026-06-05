@@ -62,11 +62,11 @@ permalink: /news/brexpiprazole/
 
 ---
 
-### [Kinderernährung: Obst senkt Angst, Snacks verstärken Unruhe - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmVDanFlVDgtWFpZcjdhRkdPSEt6Q0t4LVhHZ1lyVi00eXc5UmNaS2hvRXY4RTI0d2hyTWVaQmctUU1oTHFncFBMV0JmQlQybzNjZUNJTnlhczMtLXlodkNCXzllZVBfVkNzTW9qeFNXZDcybmU1cVdNNG9VSjA0bi14bVV3U1V5VXpxM3plYVhURUY0V0JtcEtSdDBoZ2NGQy1hanZJZVRUSlRS?oc=5)
+### [Kinderernährung stärkt Psyche über Darm-Hirn-Achse – ohne Supplement-Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2NhdXlGaEhhME1vZXhEd1VCWlJzZWNSVzRqbXJ2QzRMMFZSTzcxQzZLUmdUWm81eFpVX19lLURRckdGYnNOTVhrWk1SWHZUMEV2VkdQbzNTTmZWbzFpLTFMelVwSGd1b09wcFhkai03b0ZEa3J1YlJUOGhyNGVqWkpoNkVMN01mdmdGY2h4U0xXSFRPV2RnNzZRXzhsM0phTVJKS3VIOVd1ckE?oc=5)
 
 2026-06-04 <span class="news-indication-tag">depression</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmVDanFlVDgtWFpZcjdhRkdPSEt6Q0t4LVhHZ1lyVi00eXc5UmNaS2hvRXY4RTI0d2hyTWVaQmctUU1oTHFncFBMV0JmQlQybzNjZUNJTnlhczMtLXlodkNCXzllZVBfVkNzTW9qeFNXZDcybmU1cVdNNG9VSjA0bi14bVV3U1V5VXpxM3plYVhURUY0V0JtcEtSdDBoZ2NGQy1hanZJZVRUSlRS?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2NhdXlGaEhhME1vZXhEd1VCWlJzZWNSVzRqbXJ2QzRMMFZSTzcxQzZLUmdUWm81eFpVX19lLURRckdGYnNOTVhrWk1SWHZUMEV2VkdQbzNTTmZWbzFpLTFMelVwSGd1b09wcFhkai03b0ZEa3J1YlJUOGhyNGVqWkpoNkVMN01mdmdGY2h4U0xXSFRPV2RnNzZRXzhsM0phTVJKS3VIOVd1ckE?oc=5)
 
 ---
 

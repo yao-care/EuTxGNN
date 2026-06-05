@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（15 則）
 
 ### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
 
@@ -110,6 +110,14 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Prävention von Diabetes und Adipositas – Deutschland hat Nachholbedarf - Gelbe Liste](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeS1tb1JMWENncUxEU0c1TFJoZjFjSkh2T1lOOWpZNVlGMFQtSTZvbDAtaGhOYXRqcnAyczhSN1RYRzJJbE1VaUVNUVFESXBYbS1sVE9PQWZXczA2QWJteXg2ZEZ6RGF5bzQ5QzZoS01PV3h5aU9NLTNzWWJNbFpub3dYSQ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeS1tb1JMWENncUxEU0c1TFJoZjFjSkh2T1lOOWpZNVlGMFQtSTZvbDAtaGhOYXRqcnAyczhSN1RYRzJJbE1VaUVNUVFESXBYbS1sVE9PQWZXczA2QWJteXg2ZEZ6RGF5bzQ5QzZoS01PV3h5aU9NLTNzWWJNbFpub3dYSQ?oc=5)
+
+---
+
 ### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 2026-06-05 <span class="news-indication-tag">diabetes</span>
@@ -118,19 +126,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Demenz: Diabetes-Medikamente senken Risiko um 53 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOERkaDg1RzNLUlRrS1pjdm5PUW5GNXhXdGZtYWZkTFlJRkhsWVJIVjkyTXFmQjF4NnBJY2thekk5VnJiY25XUFg1cFpkQWhteHFMMVFaei12Z0VCRE1GWVgwOGEtbUt2TmdxaDVLM1BzWmxSRHRDNlcyb05IbV9nMExWQjlqbzZRajZ3Sl93YlRxc1hjc1ZzUjd3M3o2eWVwdUdCbFFFMA?oc=5)
+
+2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOERkaDg1RzNLUlRrS1pjdm5PUW5GNXhXdGZtYWZkTFlJRkhsWVJIVjkyTXFmQjF4NnBJY2thekk5VnJiY25XUFg1cFpkQWhteHFMMVFaei12Z0VCRE1GWVgwOGEtbUt2TmdxaDVLM1BzWmxSRHRDNlcyb05IbV9nMExWQjlqbzZRajZ3Sl93YlRxc1hjc1ZzUjd3M3o2eWVwdUdCbFFFMA?oc=5)
+
+---
+
 ### [El IRBLleida contribuye a mejorar el tratamiento precoz de la diabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmVJNExDNmtwOFpZTl9iWXp3TTJaRUFoN0Utek9JeW5PTmdhMlZvWDhLUTNzcDVTSWoza1dfT0tCR3BGVG9zb3o5OWJlVy1tRkQ2U1hfeVVfSXlyN2QzSkRBbm9WZVpaaWp1QUFKekt4YU5faTRMOG1oUFgwUTJoSUNXb0JpLU9UN2JmaExwNWpzeTRhanFMTm9vMUlDVVVGY0tlTVQ4Rkl1Z1ZuTHFrVW5SMDVfdHg1Nk1jd00yUQ?oc=5)
 
 2026-06-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[Segre.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmVJNExDNmtwOFpZTl9iWXp3TTJaRUFoN0Utek9JeW5PTmdhMlZvWDhLUTNzcDVTSWoza1dfT0tCR3BGVG9zb3o5OWJlVy1tRkQ2U1hfeVVfSXlyN2QzSkRBbm9WZVpaaWp1QUFKekt4YU5faTRMOG1oUFgwUTJoSUNXb0JpLU9UN2JmaExwNWpzeTRhanFMTm9vMUlDVVVGY0tlTVQ4Rkl1Z1ZuTHFrVW5SMDVfdHg1Nk1jd00yUQ?oc=5)
-
----
-
-### [Demenz-Prävention: GLP-1-Medikamente senken Risiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
 
 ---
 
@@ -163,22 +171,6 @@ permalink: /news/somapacitan/
 2026-06-04 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQblBkY1hKZ19nN1g5bVZXeHl0ckQ3bzRVbTFpSlA4ZkhIbzd2R21yVzBtY2xjbms5TncyRzE4c1IxZnhtZnI5REpZTWtBODlKdzgzdVNfOHhCRWlMRVk2ZWp2NWotUDVWUy1mYjRJTDRKUmNFd3NVZHJVMU5DekJzUS1RWnl4RVBjZjhlU0otRWIxcUxEd3dVZ1dJR19ub1pTQVh2eHBFOC03T2lLcUlhekxtMlVtdw?oc=5)
-
----
-
-### [Diabetes-Prävention: Neue Strategien gegen die Volkskrankheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTRQcTBscVhBeEs4cjRwNnB5bnFBY0xBaTAtNVJUTkduaWxEYWYzUzd6U0V6R3FGLXBEemFmMWJhLVlHT3BKZFRKcEpFTWpXR0thQ1Y1VWV1TmlkTlZZbW9odkNjdHZ5eTRYOTBTekZBMDRWeDZoQkxfYXBxdTNLejgxS05UbGVxVTJ3Z0toRzRua1NJSXdJWDBZNHdoQkh5Wms1RFAxT3VfazgydHBV?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTRQcTBscVhBeEs4cjRwNnB5bnFBY0xBaTAtNVJUTkduaWxEYWYzUzd6U0V6R3FGLXBEemFmMWJhLVlHT3BKZFRKcEpFTWpXR0thQ1Y1VWV1TmlkTlZZbW9odkNjdHZ5eTRYOTBTekZBMDRWeDZoQkxfYXBxdTNLejgxS05UbGVxVTJ3Z0toRzRua1NJSXdJWDBZNHdoQkh5Wms1RFAxT3VfazgydHBV?oc=5)
-
----
-
-### [C’est quoi « les oreilles Ozempic », cet effet secondaire de la perte de poids par Wegovy et Mounjaro dont personne ne parle ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
 
 ---
 

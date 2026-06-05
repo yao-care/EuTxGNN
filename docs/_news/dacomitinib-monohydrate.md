@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Frühe Menopause: Herzerkrankungsrisiko steigt um 40 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJFX1F3NV9aRWNnNXNfSHZsb2lfSXFLam04bmNVRDZoSC1acDFfTHdCOE11dlZnT1RwbElDcWltbFp6R0xNUGF0VVIzYkFTWlFaS212STJOSUc5bUlLSkhNRzdoOGdkMDdBTXZwTzV5c3lBeU02RkJfbmx0eUJBTXF4enVUWTg1M2R4X3FaV2RweWN6UTZELWs4WXptMlNRbndMcDR2eUJDY1VJ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJFX1F3NV9aRWNnNXNfSHZsb2lfSXFLam04bmNVRDZoSC1acDFfTHdCOE11dlZnT1RwbElDcWltbFp6R0xNUGF0VVIzYkFTWlFaS212STJOSUc5bUlLSkhNRzdoOGdkMDdBTXZwTzV5c3lBeU02RkJfbmx0eUJBTXF4enVUWTg1M2R4X3FaV2RweWN6UTZELWs4WXptMlNRbndMcDR2eUJDY1VJ?oc=5)
+
+---
 
 ### [Hypertension : ces deux aliments faciles à cuisiner pourraient réduire le risque jusqu'à 30 % - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
 

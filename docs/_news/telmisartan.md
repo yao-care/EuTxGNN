@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Frühe Menopause: Herzerkrankungsrisiko steigt um 40 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJFX1F3NV9aRWNnNXNfSHZsb2lfSXFLam04bmNVRDZoSC1acDFfTHdCOE11dlZnT1RwbElDcWltbFp6R0xNUGF0VVIzYkFTWlFaS212STJOSUc5bUlLSkhNRzdoOGdkMDdBTXZwTzV5c3lBeU02RkJfbmx0eUJBTXF4enVUWTg1M2R4X3FaV2RweWN6UTZELWs4WXptMlNRbndMcDR2eUJDY1VJ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJFX1F3NV9aRWNnNXNfSHZsb2lfSXFLam04bmNVRDZoSC1acDFfTHdCOE11dlZnT1RwbElDcWltbFp6R0xNUGF0VVIzYkFTWlFaS212STJOSUc5bUlLSkhNRzdoOGdkMDdBTXZwTzV5c3lBeU02RkJfbmx0eUJBTXF4enVUWTg1M2R4X3FaV2RweWN6UTZELWs4WXptMlNRbndMcDR2eUJDY1VJ?oc=5)
+
+---
 
 ### [Tecnalia lidera un prototipo pionero no invasivo para tratar el ictus o el Parkinson sin cirugía](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2pWcDk2WDNVMXVncUxXLTBJc29XTGl1dG95S3hnV0ZhM0p5ZWlRY0VBczgxaVAyZ0J1SjM0alhBUng4UnUxcTdsWHZtLW9pcVhWMk1EMU9BNkZlR0VKdWJUdlhtdmF2RWlrWkNYdkpSbVVSV1BVVFRlUTNoak41N0hDUWNDX25qR1VQbnYtOUdKY1k3dVVBclpXbkpKQdIBowFBVV95cUxONWduVXhDdm80dlZDVDlTSm1OWnVtZHJzNGF0Qm5fN0F3eC05UXNEWTZfeTV0RzU5QVA1UkFyVWZQTU5XRkdDU3ppdklDVk9uamlrOWtIYWlZSzMzdEkta0RjMlVZcFJNekxlVWg4Y1E3S2hyeDU1NUxzYW84VEdoeXNoZ3VFTm5xQkpUdF9SZDhzbVcxeUswMEY2dE5ZVVZYX2lR?oc=5)
 
