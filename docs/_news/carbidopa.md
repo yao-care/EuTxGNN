@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [« Il ne faut pas s’écarter du monde »: face à la maladie de Parkinson, ce couple cultive « l’espoir » et sa vie sociale](https://news.google.com/rss/articles/CBMingJBVV95cUxOcDdKRThUOGhqekRfbkZETkFIWHBGbnhWMWF2OEVSNmdJWDFncDlHN1ktZEJzNmZYd0JuZ3dSM0h1MEhJWTBMeUdlZ0JqUDJrNUtZY3VlUzdmX001eV9wSjhMeURIa2hNTFhmQUZMZkhhUW9zWUxaQnZLdzZOcjF4RHQ2M0ZXTGRqMEFlTWhzbkNTRjJ3clJmaERaaXNQZWNyc0dMSUhnRzdMXzN3RFZKQ2Y2RkZIQVFrcUFpUWZ1SEQ2Rl9sb0tLX2pWbHJ3Tll0VHByUlZHSUU2OC1ibG9RUk9aUk85RFpwR1otOVB1M0NWV05yTjl6TEtLS0lhRUFiQ1NzM01rZ3YzbG1zdjFIY2JteGprTUluQTRxQmlB?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/carbidopa/
 2026-06-04 <span class="news-indication-tag">malattia di Alzheimer</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUdrWGcyRmhHR1dFRXMyWjJZTFRDWllmM1ZaR1JzcERDZ0ZjbXplbDFNWDFpMjg4Z19WanM3RGFEQVFyOEVzRFRBXzVmdEV5YXBfSDFPWFFoRzlMcGFPUWpvWHZXRE1fWW9VM3MzcHdKWlVnMTY5QWFSSUlZbkRHampieU5WTDg?oc=5)
-
----
-
-### [Ultra-processed foods linked to 58 per cent rise in dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
-
-2026-06-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">multiple sclerosis</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
 
 ---
 

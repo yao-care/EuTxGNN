@@ -3,7 +3,7 @@ layout: default
 title: "malattia di Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "malattia di Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "malattia di Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="malattia di Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>malattia di Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>malattia di Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Svolta contro l'Alzheimer: scoperta una molecola che riduce i danni al cervello](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUdrWGcyRmhHR1dFRXMyWjJZTFRDWllmM1ZaR1JzcERDZ0ZjbXplbDFNWDFpMjg4Z19WanM3RGFEQVFyOEVzRFRBXzVmdEV5YXBfSDFPWFFoRzlMcGFPUWpvWHZXRE1fWW9VM3MzcHdKWlVnMTY5QWFSSUlZbkRHampieU5WTDg?oc=5)
 
 2026-06-04
 
 來源：[AGI](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUdrWGcyRmhHR1dFRXMyWjJZTFRDWllmM1ZaR1JzcERDZ0ZjbXplbDFNWDFpMjg4Z19WanM3RGFEQVFyOEVzRFRBXzVmdEV5YXBfSDFPWFFoRzlMcGFPUWpvWHZXRE1fWW9VM3MzcHdKWlVnMTY5QWFSSUlZbkRHampieU5WTDg?oc=5)
-
----
-
-### [Ultra-processed foods linked to 58 per cent rise in dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
-
-2026-06-03
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
 
 ---
 

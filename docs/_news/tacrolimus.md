@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [«È utile contro dermatite e psoriasi», scoperto nel sistema nervoso un interruttore in grado di spegnere il prurito - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHBJSDR2YTlLWldrdnBKVkJYQk9TaXh3cWo1VXpwMVZ0Z0ZWa1VkVW51bFRLVXJmMkVpclVieVRheUstQTNpZ1FxQlFZMWgxSGNybGJ0a0JkaG5UU0F1R2Y1eWZjdjJtM1J3WXZIYkVmZlN6dHprRXQ2Y2VzcnI1Q3V1YU80bW9kdVdldlJhbU9LcDJvSTRTa1BqRE5ZRzlmbm5Md3hzV0tibVFwVUU1WHlxbDVBRzJJeFJF0gG0AUFVX3lxTE1MeDlqM0djQXNhYzdWUEtjbW03OWplUGE5SkFKVW1NNnpzRnNHN3NSYTlMN1VBVUNNVDFnRGFCOVJaSzZDZGg2UGs0OFYxdzNEOHc4SnFrM3NYaEVfR2RZV0g0WGpISUtBeFp2VlYzNnpGbldXcmlGd1lkVEFDQlBhUkhPZUxUQ1QyMERacWFISU1WVzVLQTRJcG9RSmNzcUVhaWExSlprenA4dGMtOFdDUHFlYg?oc=5)
 
 2026-06-04 <span class="news-indication-tag">soriasi</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHBJSDR2YTlLWldrdnBKVkJYQk9TaXh3cWo1VXpwMVZ0Z0ZWa1VkVW51bFRLVXJmMkVpclVieVRheUstQTNpZ1FxQlFZMWgxSGNybGJ0a0JkaG5UU0F1R2Y1eWZjdjJtM1J3WXZIYkVmZlN6dHprRXQ2Y2VzcnI1Q3V1YU80bW9kdVdldlJhbU9LcDJvSTRTa1BqRE5ZRzlmbm5Md3hzV0tibVFwVUU1WHlxbDVBRzJJeFJF0gG0AUFVX3lxTE1MeDlqM0djQXNhYzdWUEtjbW03OWplUGE5SkFKVW1NNnpzRnNHN3NSYTlMN1VBVUNNVDFnRGFCOVJaSzZDZGg2UGs0OFYxdzNEOHc4SnFrM3NYaEVfR2RZV0g0WGpISUtBeFp2VlYzNnpGbldXcmlGd1lkVEFDQlBhUkhPZUxUQ1QyMERacWFISU1WVzVLQTRJcG9RSmNzcUVhaWExSlprenA4dGMtOFdDUHFlYg?oc=5)
-
----
-
-### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
 
 ---
 

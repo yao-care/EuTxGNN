@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。18 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>18 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,29 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（15 則）
+
+### [GLP-1-Therapien senken Demenzrisiko: Bluttests, Biomarker und KI im Fokus - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDdJOFIyTkt5SWZGamhsWDRpZkx4WkFwMjFPc2dkV2kwOFhvaVB1dGIyVThrUlVuUHBsaXN3U3d4T1R2LTF0OENkaE5DMkxUZTZ5WFIxaUhUaFN2T05QWm5nb00xVGFTZkVuLTYtT25CSkV2N0xuVzM4bVdIQUNoeDJUQ29kczNmSlRSMlBTZ05US29Fc0hBWnlieDZnbDJoWDFRYkJB?oc=5)
+
+2026-06-05
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDdJOFIyTkt5SWZGamhsWDRpZkx4WkFwMjFPc2dkV2kwOFhvaVB1dGIyVThrUlVuUHBsaXN3U3d4T1R2LTF0OENkaE5DMkxUZTZ5WFIxaUhUaFN2T05QWm5nb00xVGFTZkVuLTYtT25CSkV2N0xuVzM4bVdIQUNoeDJUQ29kczNmSlRSMlBTZ05US29Fc0hBWnlieDZnbDJoWDFRYkJB?oc=5)
+
+---
+
+### [Studie: Möglicher Effekt von Abnehmspritze auf Brustkrebs-Risiko](https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1ZWaURqMW1uSFMxeFo0a3VkemdMS0xmYXRtdnh6dkdRYldyd2tVZkRSWTVIMkNBa0t2SWdBRWZzM3ZXdmRSNk50VFpUODB0UXV0YUtaMDFBSzAybF9hOGlGZllHcjF1VVhoOFdscm9uVlhmRUU4OHhTSC1FNU5MaXk4NnR2Q3pTOTQxMzREcmV4RDJrZkpKSU9QQnNnY1UtVGQ1bjEyMF9FWXkyb00tRHA5OEpIVURhQUpPTTZsMmIwRnRqS2V6N2Vn?oc=5)
+
+2026-06-05
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1ZWaURqMW1uSFMxeFo0a3VkemdMS0xmYXRtdnh6dkdRYldyd2tVZkRSWTVIMkNBa0t2SWdBRWZzM3ZXdmRSNk50VFpUODB0UXV0YUtaMDFBSzAybF9hOGlGZllHcjF1VVhoOFdscm9uVlhmRUU4OHhTSC1FNU5MaXk4NnR2Q3pTOTQxMzREcmV4RDJrZkpKSU9QQnNnY1UtVGQ1bjEyMF9FWXkyb00tRHA5OEpIVURhQUpPTTZsMmIwRnRqS2V6N2Vn?oc=5)
+
+---
 
 ### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
 
 2026-06-05
 
 來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
-
----
-
-### [Demenz-Prävention: GLP-1-Medikamente senken Risiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
-
-2026-06-05
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
 
 ---
 
@@ -104,6 +112,22 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Cardiologist says eating 1 fruit is great for heart health and cutting risk of disease - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2VoSFJWa21xYnhXV1pIYWY1N0NHTXVEbUpSMU4xM3ZPMVF4RGFta0lDcVkwY1pxRE1RNVppczNQRWJfdDZwcHFXTnJBZXVtNmVMM2QtdEJXVkFIRHROTUVPdk1qWGo4UzVjVVNaWXFyV1lIWFEzQVBNUkpBTWdoN3FfZTLSAYoBQVVfeXFMUGl5a0twcGFuZUdGRWVtR3IwRlN2ZFlzQi1MX25WMXZGbEt3N1ZlOTNkT1U3ZHpoR25FLVZmaU9HV3B3LW43NHNTODhQeWROX1I3U09qMExNOUVrblVOT0J5VEtObThkWUVpOHpEZEpudU9hN2dHVG5BT2JaS0ZlTGNfVWdDaU5tYm53?oc=5)
+
+2026-06-04
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2VoSFJWa21xYnhXV1pIYWY1N0NHTXVEbUpSMU4xM3ZPMVF4RGFta0lDcVkwY1pxRE1RNVppczNQRWJfdDZwcHFXTnJBZXVtNmVMM2QtdEJXVkFIRHROTUVPdk1qWGo4UzVjVVNaWXFyV1lIWFEzQVBNUkpBTWdoN3FfZTLSAYoBQVVfeXFMUGl5a0twcGFuZUdGRWVtR3IwRlN2ZFlzQi1MX25WMXZGbEt3N1ZlOTNkT1U3ZHpoR25FLVZmaU9HV3B3LW43NHNTODhQeWROX1I3U09qMExNOUVrblVOT0J5VEtObThkWUVpOHpEZEpudU9hN2dHVG5BT2JaS0ZlTGNfVWdDaU5tYm53?oc=5)
+
+---
+
+### [Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
+
+2026-06-04
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
+
+---
+
 ### [MS-Diagnose: Bluttest mit 94% Genauigkeit sechs Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmtRWFRqOHIza2dVbHlVckNKZGlQWVJzY0hVQnpXUC0xWS1mRW92ejlJUm82eDJSNU1FZHpkZXQ0akJzemswOVVVV3lIVnVnb3ZRSXdqMnVrSUpEcV9qOHZnYmNTZDMyOUZUaU9IVlE5ZFV4UmhZdk1tVWFhQXVjVlBXaTdibHZ2VEdTUWNfQjRFNjF6NXg1d1NVb0RiZ1Fua1Iycl9zbWdsbW1HMFd5QzZwSHV3YjA?oc=5)
 
 2026-06-04
@@ -112,19 +136,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Abnehmmedikamente senken Brustkrebsrisiko laut Studie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
+### [« C’est le projet d’une vie » : comment cette Bretonne veut révolutionner le traitement de la sclérose en plaques - Le Télégramme](https://news.google.com/rss/articles/CBMipAJBVV95cUxOaVViRkJfZVV0Sy0zNDJYTExKSXlUMDQwX0liLUt2TlJtdi1TMS1aeWFPXzgxM016SDMtMVA0NXFZZzMybEFXeE82YTR1V3NQbUJrRUJKYjZpT2d3ajlTblpjdkdCNXNhQ05aeEVKZ2NmdnBDWlJYMkdpZG5ZcnZGMDhYTkNLaF9WRE9mMXNKOHIzYVl0enBTOVlEczQ0S3RTRWtLb25kNU9LaUc4S3A1MC1fanZMNklwUWdua2dDdDBMZDhxRWdVMzRmV09XWnF5UGd4STROSUlBbUJVVUE2OFdCZGswUFJhanBmNWRrNUx5RE5ESTI4Q09fREhVT0FoVDZobHVvbzRBT2hvVFV4OHVkSXJZVFNEVm55cC14T0FZRkRv?oc=5)
 
 2026-06-04
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnMTFndVVRUS0zcWxFU1JzUkNNZWE2T1FpdEh6UVpvYjl3ZHkxa3k1elJTZ00xMGlMX2RoRUJVekV6ekJxdzFjX3dHN3BNSjV3bUkzYk1LR0Vrb2dBVWtwWEF6NjA5dmR1MUFCZDIycHVvWnc3UEoxQlRUZndEVk4zZjRTTGQxdkd2ci04QW9Gcks4bkNXQ1JxUTQwX0g4YVJ5NTNJOG9VTlFPUW5pbW1sYWNTWTg?oc=5)
-
----
-
-### [Lange vor den ersten Symptomen: So verrät sich Alzheimer bereits ab den 40ern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
-
-2026-06-04
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmMtQWxueVNLMzBid1lmaDZHcE9SempQVUJMcTFtdERneWN4Z1h3VlZIUjNLMzJleWJlU1MyTDB2OXJlOVM3MWhHclJfNG9IMTBCQnI2d2lCa09CM1gzckhUT0dVdk5fbjlJWDFaN1lTVU0tVVU3UmwtWjVORjVEZjVaSjVVLWVPNnJsbmdUYlNobVBEQ1F6Y1I4RUNvR3drRXZNTw?oc=5)
+來源：[Le Télégramme](https://news.google.com/rss/articles/CBMipAJBVV95cUxOaVViRkJfZVV0Sy0zNDJYTExKSXlUMDQwX0liLUt2TlJtdi1TMS1aeWFPXzgxM016SDMtMVA0NXFZZzMybEFXeE82YTR1V3NQbUJrRUJKYjZpT2d3ajlTblpjdkdCNXNhQ05aeEVKZ2NmdnBDWlJYMkdpZG5ZcnZGMDhYTkNLaF9WRE9mMXNKOHIzYVl0enBTOVlEczQ0S3RTRWtLb25kNU9LaUc4S3A1MC1fanZMNklwUWdua2dDdDBMZDhxRWdVMzRmV09XWnF5UGd4STROSUlBbUJVVUE2OFdCZGswUFJhanBmNWRrNUx5RE5ESTI4Q09fREhVT0FoVDZobHVvbzRBT2hvVFV4OHVkSXJZVFNEVm55cC14T0FZRkRv?oc=5)
 
 ---
 
@@ -136,27 +152,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Ultra-processed foods linked to 58 per cent rise in dementia risk - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
+### [The 2 hours-a-week weights plan - The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxONVVDMFRhMERNV3dnVncyVEZFZkJpYlRFaUVYZ25EZUpPWUlhdU9zbG5YSGdoZmVCVTEwemlBZ3J5bzFDXy1Ka2NIeVdYeGJ1SVhTdkUtMWhkclRYV0hmTlBuYUp6VldDNUctTXdSQzZldkJFOXdmUC1pd3R0OWIxRWpxMkZDNHNRN3RxMnd2YzJRcTNNNFljejNwcGRKeXRMaTh5RGZKTTFyQThMNWw0aWFPR1JobUJfdHJMNXk5OA?oc=5)
 
 2026-06-03
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHRpLWt1V3p5YUdIVDhwSW91anAwRDZib0pOaVZrRGpEeG9EOEw1ZkVGcXdzTWZWRGIydFhMQV8zS1MwRC0ySk9OcXAtMnpLSWJmbThick5rTV94Y1ZyRWhfV3NsQ05TQmsxNFFpX2otRElDZng1cnRob0lXZGF6WGdtaWZ6OVhEQlpIQ0dnSTE1ZHJhX0ZiUEdyWjhaSEpXdlczRg?oc=5)
-
----
-
-### [Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
-
-2026-06-03
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5)
-
----
-
-### [I started chemotherapy at 27 weeks pregnant — no one can say I gave up](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSl9fcjBuS2huVTIxR1ZFdHdMbTRDMFF6Q3d3U2p3aW14UUQ2WFdZQjlXSVJqRWk4U19BM1hqbDRYT1RsNC1Yak02a2ZubFRyamtHeEt2QjhsZ2xyYzNkZ3dvLWttUUxSRTZia2NCajJ3cGdyS0ZGNlhnR0l5cnlrS3ZPOGR1SzNPZDRMaU15ZkNXajg4dnU4Q3RJWFRLQnIx0gGmAUFVX3lxTE4wUEw0Qk9qUy1xdDRKb0s3ekxLSzlFN2lWTUx3S00walY3QlZ3dDRGd0JGb3Y2c0VudUZsM1NjeWhUX2t1QXhjY19WdFRuUUJQa2RTQTBIWERHaTJtUDhwVnFFWnJabERsRGtRZFVXMkNYU0x2R2pBenpjQktrTTZrMlNXeGFfR3NyZ1VoaEN3aXdSNFlNbzdDQXZ6M19QM3NGTjJiVkE?oc=5)
-
-2026-06-03
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSl9fcjBuS2huVTIxR1ZFdHdMbTRDMFF6Q3d3U2p3aW14UUQ2WFdZQjlXSVJqRWk4U19BM1hqbDRYT1RsNC1Yak02a2ZubFRyamtHeEt2QjhsZ2xyYzNkZ3dvLWttUUxSRTZia2NCajJ3cGdyS0ZGNlhnR0l5cnlrS3ZPOGR1SzNPZDRMaU15ZkNXajg4dnU4Q3RJWFRLQnIx0gGmAUFVX3lxTE4wUEw0Qk9qUy1xdDRKb0s3ekxLSzlFN2lWTUx3S00walY3QlZ3dDRGd0JGb3Y2c0VudUZsM1NjeWhUX2t1QXhjY19WdFRuUUJQa2RTQTBIWERHaTJtUDhwVnFFWnJabERsRGtRZFVXMkNYU0x2R2pBenpjQktrTTZrMlNXeGFfR3NyZ1VoaEN3aXdSNFlNbzdDQXZ6M19QM3NGTjJiVkE?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxONVVDMFRhMERNV3dnVncyVEZFZkJpYlRFaUVYZ25EZUpPWUlhdU9zbG5YSGdoZmVCVTEwemlBZ3J5bzFDXy1Ka2NIeVdYeGJ1SVhTdkUtMWhkclRYV0hmTlBuYUp6VldDNUctTXdSQzZldkJFOXdmUC1pd3R0OWIxRWpxMkZDNHNRN3RxMnd2YzJRcTNNNFljejNwcGRKeXRMaTh5RGZKTTFyQThMNWw0aWFPR1JobUJfdHJMNXk5OA?oc=5)
 
 ---
 
@@ -168,35 +168,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Samsung und das Massachusetts General Hospital starten gemeinsame Studie zu Stoffwechseltherapien](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
+### [Samsungs neuer Gesundheits-Plan: Diese Smartwatch-Sensoren sollen bald eine riskante Nebenwirkung im Blick behalten](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTmlGMTM2SlJLcmVYSHc1LWdqMzNlSElaRjBzOS0zLUVSODBMTVJ1b1U5Z0UwdTlBLWNDcXBucVNjeDA4NXlFaDdmS1J1MEZxUlRicVhEM0pZWHZ6TnhqeTdRUEcxWUMzMkx5MXhSOGxTSFNUWmJkc3ZzbXRJamFrWVVnUEdOSk5idFU4c2hXSXJCVE9oeFRIeTdUUWNwVUhnWTNoLTBTRW5jWVlqcWNhcG5uN0V6X0xncTUxZENzLVJ1Ql9jZ2Y3blJLMmxmcXhITGxTQVJUbEd3VVNmUHB4RGJOOGlLLWZLd0stSmJZRkw3S3FxSF9aLUtJYw?oc=5)
 
 2026-06-03
 
-來源：[Samsung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJZSXpucG85Y1VHdzhaR1hZU1cwV2VhbC1DVnk4bW5xRDZ4SkJpTU1zZl9SSTNqMDhhY0NadkdPZFpYUVZvXy1ib1k5VWxvQy01ZlJhNnFZdEd4RjczUEJlc00wWk9TdVdfR2VSUmM1cTRvYUNZd0ZfLXozN1Q5SnItT3lHR1ladGxValZ5RHpVYzh0YkY3eGZ3RlJVNlNCSFlIQkJ0UGgxdHJobzJfWjV5ZGZOUlhXUmlUQ0JBN1ZSUHc?oc=5)
-
----
-
-### [L'OMS ha detto che i casi sospetti di ebola in Congo sono 116, e non oltre 900 come segnalato nei giorni scorsi - Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUm1HWmV4MnJOVVFBRXQ1aGVHblJUblpCdGlNWVgtQ1NCTFFnc0cxaS1vX29EZXhCSlliU1FVMXoxWVNreDFZV0tjWWlrd09adVJQbmh5Y09uQkdyVVhHcmFBempkRmtwMkpF?oc=5)
-
-2026-06-03
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUm1HWmV4MnJOVVFBRXQ1aGVHblJUblpCdGlNWVgtQ1NCTFFnc0cxaS1vX29EZXhCSlliU1FVMXoxWVNreDFZV0tjWWlrd09adVJQbmh5Y09uQkdyVVhHcmFBempkRmtwMkpF?oc=5)
-
----
-
-### [Two men charged with trying to smuggle vials of mpox virus into the US - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
-
-2026-06-03
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXJUM2xBVnhxSHZWYU5lUWtya2NodnQtZmZPYU1jWTRCT2JrRDJlRm1DOGFheFcxY3lkVDh6Vm9KR1ItQVZyc2ZfNVRVLW9TN0JaOXhuYmlqblI3R1Fhd0R0cWswWlRzSEtnSjhOVEhVd0ZqOFJvU2hObzU0clBYTlktdUxwUXJPTVpiTUEydTlQamV6QTZqMGJFSGJWRXpoLWEwMFNfUFdEd0U?oc=5)
-
----
-
-### [Weight-loss drugs may prevent thousands of knee replacements, study suggests - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
-
-2026-06-03
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGlXRHZlY0dVZW02NjhxNGY5V2dpRElTYVhHZm5IemRwT2ZtYmpraFlnRVJIQkZkQU1PbThiTVBLN2RfekNEdWZFZUhwa0xqZjJRRmxoLWZMajJhRVRCeG1FUjFLUTZRbElGUjdmaXVrSDJtek42SG9paFRmNmFTZk9pX25yV01hSUF6NFFBUTlOXzg0M1ltaTBTMnFCajVBOFFwQw?oc=5)
+來源：[giga.de](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTmlGMTM2SlJLcmVYSHc1LWdqMzNlSElaRjBzOS0zLUVSODBMTVJ1b1U5Z0UwdTlBLWNDcXBucVNjeDA4NXlFaDdmS1J1MEZxUlRicVhEM0pZWHZ6TnhqeTdRUEcxWUMzMkx5MXhSOGxTSFNUWmJkc3ZzbXRJamFrWVVnUEdOSk5idFU4c2hXSXJCVE9oeFRIeTdUUWNwVUhnWTNoLTBTRW5jWVlqcWNhcG5uN0V6X0xncTUxZENzLVJ1Ql9jZ2Y3blJLMmxmcXhITGxTQVJUbEd3VVNmUHB4RGJOOGlLLWZLd0stSmJZRkw3S3FxSF9aLUtJYw?oc=5)
 
 ---
 

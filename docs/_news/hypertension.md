@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Hypertension : ces deux aliments faciles à cuisiner pourraient réduire le risque jusqu'à 30 % - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
 
 2026-06-04
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
-
----
-
-### [Aurelio Rojas, cardiólogo: "El consumo de ibuprofeno para dolores de corazón, aumenta el riesgo de infarto y trombosis"](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMC1WS05mVy1VOXlZTVczektHU1RSSHhvc0tyUWVodGJZeG1XaE9ZTUh0Mlk3VXl1WHMxTjBYNHNOS09DZ1FidzNveGp3RHJUblBZTm1TeTk3ZUkwdW01RXNGQTVUX3lXeFVQQlRKZWI5ZHhpME43LXd0QktPX0lHcTg0bFNXZFN2SkNuMGlYSXdNUmdDeUpWeTd3Z0dXOTA0T3BvdlY0U3FFa3M2VVlUel9ydTJ3X1prZlB2Q1pmQk9MdTNGelZsSjc1WFRZTVJ3akk0VlBOYVhMRFFUUlNlUnk5TDJvMkplVmRPMHpsaGFGY2l0U0hralVscllFZUnSAYQCQVVfeXFMT1l3Y2k0aTFXcVVYOWREaFNUdWJqcHJ6OWVVSjMxSFJNOFJFSGVXdHNVcjkzY1ZmbWQzaEoxZWFpa2RhaTl4cW1MaWtQZk5zSW9Dc2lzUmVOT1Z1OGpwNXROU2lVdEI4bmRVVUdESjVOTS1Gd3VrbWc2YnNIWkh2YTg4d2NWWG5rQ3J4R014cWY2RGNRaWZDV3IwTE45TU5HcEhMNGtOV2ZvbGpYUXRibzhvUFVTXzctSERwVUR4aGtjdmtTWEZjd2VLQl9iM1N5bDQ3S2pZZXpyY2p1bU5hRzlXRU0wY2w1TjhxWUlUam9tMjctbUFOUEhZcWZnakt1NjVldnM?oc=5)
-
-2026-06-03
-
-來源：[COPE](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMC1WS05mVy1VOXlZTVczektHU1RSSHhvc0tyUWVodGJZeG1XaE9ZTUh0Mlk3VXl1WHMxTjBYNHNOS09DZ1FidzNveGp3RHJUblBZTm1TeTk3ZUkwdW01RXNGQTVUX3lXeFVQQlRKZWI5ZHhpME43LXd0QktPX0lHcTg0bFNXZFN2SkNuMGlYSXdNUmdDeUpWeTd3Z0dXOTA0T3BvdlY0U3FFa3M2VVlUel9ydTJ3X1prZlB2Q1pmQk9MdTNGelZsSjc1WFRZTVJ3akk0VlBOYVhMRFFUUlNlUnk5TDJvMkplVmRPMHpsaGFGY2l0U0hralVscllFZUnSAYQCQVVfeXFMT1l3Y2k0aTFXcVVYOWREaFNUdWJqcHJ6OWVVSjMxSFJNOFJFSGVXdHNVcjkzY1ZmbWQzaEoxZWFpa2RhaTl4cW1MaWtQZk5zSW9Dc2lzUmVOT1Z1OGpwNXROU2lVdEI4bmRVVUdESjVOTS1Gd3VrbWc2YnNIWkh2YTg4d2NWWG5rQ3J4R014cWY2RGNRaWZDV3IwTE45TU5HcEhMNGtOV2ZvbGpYUXRibzhvUFVTXzctSERwVUR4aGtjdmtTWEZjd2VLQl9iM1N5bDQ3S2pZZXpyY2p1bU5hRzlXRU0wY2w1TjhxWUlUam9tMjctbUFOUEhZcWZnakt1NjVldnM?oc=5)
 
 ---
 

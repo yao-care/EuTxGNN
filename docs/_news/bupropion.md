@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [La obesidad durante la infancia puede dejar "huellas" químicas en el ADN de los niños](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaExCWTJjU3BpMkpZbHMtRHc1dm44VUtxd3pxV3RXckV2bll1cVZFSUc2WHRBQUNlNldXU2Ffd2xQUDIybGNFQkl1MGVzcDVQajMtZFN3R2l3YV9oNGU4T1ZpUTRCQ05lZVhCQlFUbjZnQ0RnbmtWUjNCNHdnZWFEb0QtbG5uLVpKaE1iMXI3MlRuUHNFRk0wVW83ck5QaGJCNlVoRFJYZ0VFZURBekZ0bkFfN08xNEoyY0RBNXZIRUhLa2dp?oc=5)
+
+2026-06-05 <span class="news-indication-tag">obesidad</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaExCWTJjU3BpMkpZbHMtRHc1dm44VUtxd3pxV3RXckV2bll1cVZFSUc2WHRBQUNlNldXU2Ffd2xQUDIybGNFQkl1MGVzcDVQajMtZFN3R2l3YV9oNGU4T1ZpUTRCQ05lZVhCQlFUbjZnQ0RnbmtWUjNCNHdnZWFEb0QtbG5uLVpKaE1iMXI3MlRuUHNFRk0wVW83ck5QaGJCNlVoRFJYZ0VFZURBekZ0bkFfN08xNEoyY0RBNXZIRUhLa2dp?oc=5)
+
+---
 
 ### [Diabetes-Risiko: 20 Gesundheitsmarker schlagen BMI um Längen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
 
@@ -78,35 +86,19 @@ permalink: /news/bupropion/
 
 ---
 
+### [Diabetes-Prävention: Neue Strategien gegen die Volkskrankheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTRQcTBscVhBeEs4cjRwNnB5bnFBY0xBaTAtNVJUTkduaWxEYWYzUzd6U0V6R3FGLXBEemFmMWJhLVlHT3BKZFRKcEpFTWpXR0thQ1Y1VWV1TmlkTlZZbW9odkNjdHZ5eTRYOTBTekZBMDRWeDZoQkxfYXBxdTNLejgxS05UbGVxVTJ3Z0toRzRua1NJSXdJWDBZNHdoQkh5Wms1RFAxT3VfazgydHBV?oc=5)
+
+2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTRQcTBscVhBeEs4cjRwNnB5bnFBY0xBaTAtNVJUTkduaWxEYWYzUzd6U0V6R3FGLXBEemFmMWJhLVlHT3BKZFRKcEpFTWpXR0thQ1Y1VWV1TmlkTlZZbW9odkNjdHZ5eTRYOTBTekZBMDRWeDZoQkxfYXBxdTNLejgxS05UbGVxVTJ3Z0toRzRua1NJSXdJWDBZNHdoQkh5Wms1RFAxT3VfazgydHBV?oc=5)
+
+---
+
 ### [C’est quoi « les oreilles Ozempic », cet effet secondaire de la perte de poids par Wegovy et Mounjaro dont personne ne parle ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
 
-2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
-
----
-
-### [Especialistas destacan la necesidad de acompañamiento prolongado en los tratamientos contra la obesidad - Hablando en Plata](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSlllRV9TajZyMnVEOGFZTWhGZ1o2WkExdWloSWhaXzB1UUlDRE5Ta0hVa2JvRWdHM210aUUwa3hodlVpZUtKSEx5cUw3MVRmeDhmdWtOQkpBZEx3bFNWdzJ0YWtjLW9oU1JDNmptS1lIVlB0VENvMGswZjJYelRTaXFIc2J3OVZCYkxNYmpwV3NJaHJHcXB6cHJKQ2RMUjFBYUZtNEo1TDV6OVZMelNsZkx5VHRxNGk2eWVPLVJRQWIzZDlZNXF0bEVOMUNTRkZVejllSGNrYVA2QVc1eENXRG02LWdobTFBMkVj0gHrAUFVX3lxTE4waGdSR3k3UEF1T3dqZWR5NDRuNVpJY3RBS0s2ZWkxeFNaRmNGZHY5ald0YnloRjZRRXQtWnlkVlJpSTE1ay1FY0dVYnBiZnp6TExjd1dCbVFJSElDS0FVVE9CRzBCdWhVZzZ2a2RCdXhHamFMTWIyUE5kWkVLMmpJS01YeXJFOThjdWVac3ZYY2thTzIzajJBWFVhMkFneU1jSnFxdFhlNGVpVDhxaS1qaFh0bTNfZUNoc0o3ZlR0YWhRTEFobXg4WTg1MzFFaTJvMTZCNFJnRnV3cHhnNkNuRk4yazhxLUZUbVU?oc=5)
-
-2026-06-03 <span class="news-indication-tag">obesidad</span>
-
-來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSlllRV9TajZyMnVEOGFZTWhGZ1o2WkExdWloSWhaXzB1UUlDRE5Ta0hVa2JvRWdHM210aUUwa3hodlVpZUtKSEx5cUw3MVRmeDhmdWtOQkpBZEx3bFNWdzJ0YWtjLW9oU1JDNmptS1lIVlB0VENvMGswZjJYelRTaXFIc2J3OVZCYkxNYmpwV3NJaHJHcXB6cHJKQ2RMUjFBYUZtNEo1TDV6OVZMelNsZkx5VHRxNGk2eWVPLVJRQWIzZDlZNXF0bEVOMUNTRkZVejllSGNrYVA2QVc1eENXRG02LWdobTFBMkVj0gHrAUFVX3lxTE4waGdSR3k3UEF1T3dqZWR5NDRuNVpJY3RBS0s2ZWkxeFNaRmNGZHY5ald0YnloRjZRRXQtWnlkVlJpSTE1ay1FY0dVYnBiZnp6TExjd1dCbVFJSElDS0FVVE9CRzBCdWhVZzZ2a2RCdXhHamFMTWIyUE5kWkVLMmpJS01YeXJFOThjdWVac3ZYY2thTzIzajJBWFVhMkFneU1jSnFxdFhlNGVpVDhxaS1qaFh0bTNfZUNoc0o3ZlR0YWhRTEFobXg4WTg1MzFFaTJvMTZCNFJnRnV3cHhnNkNuRk4yazhxLUZUbVU?oc=5)
-
----
-
-### [Ni genética ni destino escrito: así se pueden revertir los daños biológicos de la obesidad en los niños - Gaceta de salud](https://news.google.com/rss/articles/CBMiigJBVV95cUxOY0dqMWEzbF8zTS1CYXNmUkNyRHFJZGU3OF9Gd1NIZG8tRGs5X2g2MGVmNGwzMlFVMm13Y2dRcVhuS283aDA1WGRFeVZpU1hzdDNiT1hxU0lWMUlwbkh1ZkpCRUxoY3pYY0lueDhnVWZTcC16REVaclptX0JVT0NNX2RlckxJUGZhOGZZTFZSbXRaXzhSX1FUcm9CRHZxZ2J5ZjNMSGZQUjZuWWlWU2xKclU2Sjktc3BFWXBtTm1CTmNXd1JvNTczT0ppSGVJVUpzdzhKWWVfaUFIcU5IOGcyUjN5SmNnenpBQXNCekFsTEQ0ZjVEZ0NzbWw2VGhBdHNNeWtib2paYkoxQQ?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiigJBVV95cUxOY0dqMWEzbF8zTS1CYXNmUkNyRHFJZGU3OF9Gd1NIZG8tRGs5X2g2MGVmNGwzMlFVMm13Y2dRcVhuS283aDA1WGRFeVZpU1hzdDNiT1hxU0lWMUlwbkh1ZkpCRUxoY3pYY0lueDhnVWZTcC16REVaclptX0JVT0NNX2RlckxJUGZhOGZZTFZSbXRaXzhSX1FUcm9CRHZxZ2J5ZjNMSGZQUjZuWWlWU2xKclU2Sjktc3BFWXBtTm1CTmNXd1JvNTczT0ppSGVJVUpzdzhKWWVfaUFIcU5IOGcyUjN5SmNnenpBQXNCekFsTEQ0ZjVEZ0NzbWw2VGhBdHNNeWtib2paYkoxQQ?oc=5)
-
----
-
-### [Immunité, glycémie, poids… Voici pourquoi il est essentiel d'entretenir sa masse musculaire - Europe 1](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlJ2V3lYbWtqMHlUSU1ENUZRY2RQSVUtbmg5dkxNQi12T2lFWjRCTlFxdGloMG8xZWRuUnQwb0VMLTg0clBKSjNVTTJJdXBPOHhHZEhfbTluZWlBVG1CU1FxeS1qWnhuVS1FVFhVY09QT1VHaXZQODlGWWVrWTJmVE5OU2dOU1YwR1Y4REFZQVdEc0VOakJhMk56WDVoVlJDb1dLcjd6Yk1PS0VORnpoWnI3aDdXeTFPSWhjcEQ3OG0?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlJ2V3lYbWtqMHlUSU1ENUZRY2RQSVUtbmg5dkxNQi12T2lFWjRCTlFxdGloMG8xZWRuUnQwb0VMLTg0clBKSjNVTTJJdXBPOHhHZEhfbTluZWlBVG1CU1FxeS1qWnhuVS1FVFhVY09QT1VHaXZQODlGWWVrWTJmVE5OU2dOU1YwR1Y4REFZQVdEc0VOakJhMk56WDVoVlJDb1dLcjd6Yk1PS0VORnpoWnI3aDdXeTFPSWhjcEQ3OG0?oc=5)
 
 ---
 
