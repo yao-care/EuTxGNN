@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（18 則）
 
-### [GLP-1-Therapien senken Demenzrisiko: Bluttests, Biomarker und KI im Fokus - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDdJOFIyTkt5SWZGamhsWDRpZkx4WkFwMjFPc2dkV2kwOFhvaVB1dGIyVThrUlVuUHBsaXN3U3d4T1R2LTF0OENkaE5DMkxUZTZ5WFIxaUhUaFN2T05QWm5nb00xVGFTZkVuLTYtT25CSkV2N0xuVzM4bVdIQUNoeDJUQ29kczNmSlRSMlBTZ05US29Fc0hBWnlieDZnbDJoWDFRYkJB?oc=5)
+### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
 
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDdJOFIyTkt5SWZGamhsWDRpZkx4WkFwMjFPc2dkV2kwOFhvaVB1dGIyVThrUlVuUHBsaXN3U3d4T1R2LTF0OENkaE5DMkxUZTZ5WFIxaUhUaFN2T05QWm5nb00xVGFTZkVuLTYtT25CSkV2N0xuVzM4bVdIQUNoeDJUQ29kczNmSlRSMlBTZ05US29Fc0hBWnlieDZnbDJoWDFRYkJB?oc=5)
+來源：[Vademecum.es](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
+
+---
+
+### [Ozempic y cáncer de mama: "Se observa un freno a la inflamación sistémica" - Diario de Sevilla](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMXVmQmpsa3RSanAxVWdsT1I2dnB3R3BtVHpMWUlZQXU4WlFneUh4RC1UZDJTQWo4UU96RDJNV3ltV1dKd01JWTB2LTB4Rk03enp2UFVIQi1naXVpaHhWSjloeFJTTFlNamRtbnlJQ3JzVnZiVVpZZi0xR3J1cTM3TGI2RzBPQmxwOGpEVG4yUXBtQdIBlwFBVV95cUxOaVFiZWN4VVdVcGEwZ0RzcThaSUxNR3N5UkdSd0hwY3l0blo1U0l3T0I3WGdJcWdSVGhVRlVlY19WamJjdDNSQVlVbkg5dnZQX3BIZWhKbEo2a3VHbmJod0NaREhSNE94WUI1a1pRWmtSdm5rZXJ4Q0NwQzFPWEN0ZmZxSndHbldCNlFCNnE4cjZudW9VN1dJ?oc=5)
+
+2026-06-05 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMXVmQmpsa3RSanAxVWdsT1I2dnB3R3BtVHpMWUlZQXU4WlFneUh4RC1UZDJTQWo4UU96RDJNV3ltV1dKd01JWTB2LTB4Rk03enp2UFVIQi1naXVpaHhWSjloeFJTTFlNamRtbnlJQ3JzVnZiVVpZZi0xR3J1cTM3TGI2RzBPQmxwOGpEVG4yUXBtQdIBlwFBVV95cUxOaVFiZWN4VVdVcGEwZ0RzcThaSUxNR3N5UkdSd0hwY3l0blo1U0l3T0I3WGdJcWdSVGhVRlVlY19WamJjdDNSQVlVbkg5dnZQX3BIZWhKbEo2a3VHbmJod0NaREhSNE94WUI1a1pRWmtSdm5rZXJ4Q0NwQzFPWEN0ZmZxSndHbldCNlFCNnE4cjZudW9VN1dJ?oc=5)
+
+---
+
+### [Typ-1-Diabetes: Neuer Antikörper verzögert Ausbruch um 2,5 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEFPNzlxenZfVGdXVHJHd01RX2J6aDdWZXJmYlh2ejliLU1DZk5LVmZDbFRpRjhyQXFqU3NaVUcxVkJjRU9leTNSd2oxTFBQQWZ1QTFFSzB1Rl96Nl9HRU9KdWp4TUllYUstUHBqODNhX0h2UkkwdXFwcG5pTF9obkx1Rk9KV0tsbGkyRzNzSFVRbHlURjhzekpzSFpRN2pqSno1RDVMc1dZM0dmc1kyS0RqZFQ?oc=5)
+
+2026-06-05 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEFPNzlxenZfVGdXVHJHd01RX2J6aDdWZXJmYlh2ejliLU1DZk5LVmZDbFRpRjhyQXFqU3NaVUcxVkJjRU9leTNSd2oxTFBQQWZ1QTFFSzB1Rl96Nl9HRU9KdWp4TUllYUstUHBqODNhX0h2UkkwdXFwcG5pTF9obkx1Rk9KV0tsbGkyRzNzSFVRbHlURjhzekpzSFpRN2pqSno1RDVMc1dZM0dmc1kyS0RqZFQ?oc=5)
+
+---
+
+### [Diabetes und Vorhofflimmern: 61% höheres Sterberisiko durch Kombination - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2p5N09zalZGNEs1UllvYTZhTDJWNWtGdHpKUHExVnRxR0dVM0U3U0xRMWJiSzdvV0t2Q3hHbGZoY05Jejc3NHUzejNoM19XbHhEZXhvaXFCMzNoUGtZaWhXN3NZLU5zVVk0MnpsMUxKTzZxNjFFQjR6TGJDYm1YWHdfUl9tRXB2eVpMTV9URVJPeHFGOTNFYlVDdUNsVW9CMkxtaTBTbDhpVGZsVEVYT25qeUlOdw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2p5N09zalZGNEs1UllvYTZhTDJWNWtGdHpKUHExVnRxR0dVM0U3U0xRMWJiSzdvV0t2Q3hHbGZoY05Jejc3NHUzejNoM19XbHhEZXhvaXFCMzNoUGtZaWhXN3NZLU5zVVk0MnpsMUxKTzZxNjFFQjR6TGJDYm1YWHdfUl9tRXB2eVpMTV9URVJPeHFGOTNFYlVDdUNsVW9CMkxtaTBTbDhpVGZsVEVYT25qeUlOdw?oc=5)
+
+---
+
+### [Diabetes tipo 5, la nueva y desconocida categoría de la enfermedad que divide a científicos y médicos](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JcjhWdVZTUXJhQ1VtdEZkUlkyU00wSGRKVEdJX1lSeDlpQV94cEFuR0VlbVFHM2RRS09Md2hUUDFLaDVLdEFIdXhhcGdTQ2NOVU5qYlNRTDA0RTjSAWBBVV95cUxOV3JMaUc0Uzlsci1xLVU5cXo4Zk8tVldxWExSSkpDclFSM2RVejFWSHVuMzZfYTVWTURzR0h5MUxyb2VXTmFMeng2bXZ0WXRuUlhxcmN2Vm0wLUEtOUhHcnY?oc=5)
+
+2026-06-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JcjhWdVZTUXJhQ1VtdEZkUlkyU00wSGRKVEdJX1lSeDlpQV94cEFuR0VlbVFHM2RRS09Md2hUUDFLaDVLdEFIdXhhcGdTQ2NOVU5qYlNRTDA0RTjSAWBBVV95cUxOV3JMaUc0Uzlsci1xLVU5cXo4Zk8tVldxWExSSkpDclFSM2RVejFWSHVuMzZfYTVWTURzR0h5MUxyb2VXTmFMeng2bXZ0WXRuUlhxcmN2Vm0wLUEtOUhHcnY?oc=5)
+
+---
+
+### [Diabetes: Pflanzenstoff verbessert Darmflora & Glukosestoffwechsel](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR01oXy1Ka2RWbHZSMU9kWTdUU3F2T085bzNJOENmV2J2dVFvWlkxcnduTElBM1Y1MUJYTUpMWnY5LTZBR0lIVWxLNVJWbjAzSG9xOTNKeHkyRTRmOE4tdGpPUEhyTFhZbVBOV20xRFh5eHloZ0F1Z1hOazJQaVRxNFhVV0ZkWmdIQkhTcGxvMC1ScEFjRjVjOXlaRUlUTFgzUEcwTmFVeVZxSVFOTmpqUE1QbVo4cFkyRHN3SnNjd1hudw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR01oXy1Ka2RWbHZSMU9kWTdUU3F2T085bzNJOENmV2J2dVFvWlkxcnduTElBM1Y1MUJYTUpMWnY5LTZBR0lIVWxLNVJWbjAzSG9xOTNKeHkyRTRmOE4tdGpPUEhyTFhZbVBOV20xRFh5eHloZ0F1Z1hOazJQaVRxNFhVV0ZkWmdIQkhTcGxvMC1ScEFjRjVjOXlaRUlUTFgzUEcwTmFVeVZxSVFOTmpqUE1QbVo4cFkyRHN3SnNjd1hudw?oc=5)
 
 ---
 
@@ -78,11 +118,27 @@ permalink: /news/semaglutide/
 
 ---
 
+### [The GLP-1 workout: how to train if you’re on fat jabs - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjhReG9HTlhLTUNXcUYxV3NmR0tXay15Q1JGUTFHLWdLVkxhaWl3TnJoSnYtejNLYWtneGpwSlFTRVgyNVpKbXpTNkNKOHVNeGRyOWZkVXpEMHlRaU56ZlJsS3ZTV2ZoWmsySnFvSVk3VHRPdEplRjFmREJZZl9EWnpQUlo3cXM?oc=5)
+
+2026-06-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjhReG9HTlhLTUNXcUYxV3NmR0tXay15Q1JGUTFHLWdLVkxhaWl3TnJoSnYtejNLYWtneGpwSlFTRVgyNVpKbXpTNkNKOHVNeGRyOWZkVXpEMHlRaU56ZlJsS3ZTV2ZoWmsySnFvSVk3VHRPdEplRjFmREJZZl9EWnpQUlo3cXM?oc=5)
+
+---
+
 ### [El IRBLleida contribuye a mejorar el tratamiento precoz de la diabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmVJNExDNmtwOFpZTl9iWXp3TTJaRUFoN0Utek9JeW5PTmdhMlZvWDhLUTNzcDVTSWoza1dfT0tCR3BGVG9zb3o5OWJlVy1tRkQ2U1hfeVVfSXlyN2QzSkRBbm9WZVpaaWp1QUFKekt4YU5faTRMOG1oUFgwUTJoSUNXb0JpLU9UN2JmaExwNWpzeTRhanFMTm9vMUlDVVVGY0tlTVQ4Rkl1Z1ZuTHFrVW5SMDVfdHg1Nk1jd00yUQ?oc=5)
 
 2026-06-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[Segre.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmVJNExDNmtwOFpZTl9iWXp3TTJaRUFoN0Utek9JeW5PTmdhMlZvWDhLUTNzcDVTSWoza1dfT0tCR3BGVG9zb3o5OWJlVy1tRkQ2U1hfeVVfSXlyN2QzSkRBbm9WZVpaaWp1QUFKekt4YU5faTRMOG1oUFgwUTJoSUNXb0JpLU9UN2JmaExwNWpzeTRhanFMTm9vMUlDVVVGY0tlTVQ4Rkl1Z1ZuTHFrVW5SMDVfdHg1Nk1jd00yUQ?oc=5)
+
+---
+
+### [Demenz-Prävention: GLP-1-Medikamente senken Risiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
+
+2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjEzWHFTbGItYnY4NVVNU2U5WjN6SW9zMU1Ddk9ZUXFNOVFrR1NKbUxScXdrcjdiN0FiNnZUSGdkOFNCMTgzcTItWXJhdjZ3bThtSGJ2MGpuSThtNnBvMXZFTGpHS0tiRXItOFNzSEt2MTBEMnd2UElDZm1HeFJGaF9oN1dqdUNlVlRMZ3pocm15cjkwaEVsdEQtNW00My1KWDhHa0hzLXNNT3Nmd3h0cHRmZw?oc=5)
 
 ---
 
@@ -94,19 +150,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Typ-2-Diabetes: Fettleber geht mit Glukagonresistenz einher – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHhqa1M5czB6TzRLYUJkZWxuSmxQWXJfMkx3ZlM5NHNtSU5TQzQxR0lSYVZFODZVTEdPTlNLUFpNS1A2ZTNHUXQzZ1RVbFJJWHgwWTlnaEc3N2ttb3FnV3NoUjBnOU9VTXEzenFqRUJPQlI2dFZVSzREdlpla2ZiQi1GdXc3LVhYWE9DaFVvcl9ja2tNT29NQXZQWTBPQjRYTVdEbVI4cmJwd2RaWDdpVVJRbnphZjdQTkVkM1Y2TV93R2U3b21rajVxelVzcURNYjl2MGR1S3o4NFBD?oc=5)
+### [Typ-2-Diabetes: Fettleber geht mit Glukagonresistenz einher – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNSW42U0NjTjc5U2t5UGJQamc2MVRwd3JSaGpRM3VqdGFBTFVfOVZ5U1ZjOEk5aTljelBnRjVFaUZjT3R5bi1JTHM2S2V5VzhvbVBNSmZVQTRlWFEyNHBsc0FyajZGR1ktVWJKR01wNkc3T3E4V0tZX2ZaaElPWFVqcmxpSFRQUURHZGVtS3Iwa0p3T0U5eHZwdW9KekpPcVB6VFNFdmptNWlvcTRsMzJiWF9iMW43cEo1SzFwNElmUGI0SE9tUGc?oc=5)
 
 2026-06-04 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHhqa1M5czB6TzRLYUJkZWxuSmxQWXJfMkx3ZlM5NHNtSU5TQzQxR0lSYVZFODZVTEdPTlNLUFpNS1A2ZTNHUXQzZ1RVbFJJWHgwWTlnaEc3N2ttb3FnV3NoUjBnOU9VTXEzenFqRUJPQlI2dFZVSzREdlpla2ZiQi1GdXc3LVhYWE9DaFVvcl9ja2tNT29NQXZQWTBPQjRYTVdEbVI4cmJwd2RaWDdpVVJRbnphZjdQTkVkM1Y2TV93R2U3b21rajVxelVzcURNYjl2MGR1S3o4NFBD?oc=5)
-
----
-
-### [Tirzepatida (Mounjaro®), el agonista dual GIP/GLP-1 de Lilly, demuestra los beneficios de su uso temprano en diabetes tipo 2](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdTBOM1hwWmVHUjNacUVuWlFUeHFWbm96VVI4WHdHX2p2U0RmUVNITXliRDlldGhzSERoX3lnV2ZoOXNoaC1SSHhOZUpQWlF3NTc5QjRONWVoT2tHdDA0djc3QUZ4SUlFYzJRalNzSmRfWEtxVnRTWHB1MTVKVlFTZktsR2FGa1FabXhPQzE5QnNSenFMS3N0MGttaEpMamlpbjBPWlNHMlNvVUJodTJHQWdtbjRJTWJwYTdORnRYdDFfUl9PSkp6TGZGQ1NiX2ZSNkFsUWRWdDB4Q1A3elVGZFNDaDVIRGg5cHl2dUd2SThTcjIxMENvdUttbTktRldu0gGGAkFVX3lxTE9CcFlnU0VtNXU4WjhlVTBQSUQ0Z1JiMnlubjRMekZuNF9PV08tdVdrdEhlVm5qdmUtYXZZbzhQQmpVYUhONEVDWUgyNkVXN3B4anhaMURpcl95V0tNdzM4SUY0LXVCZTN6UHJlTWNnUElYbURSNHpGdkRuOVU2WC1MV0trWUNpRkMtX3BlakhjMjFaZmdadk9EV2czRGNLdlN2VVVuQ1lXUEw1UVMwV2Eza1YxMDB2N0JHdW1Za2RhRUwxZFBMXzlVbi1XeVctVXlSUXdGWnNQWXlJcHF3U3BySHlMWXI0UWt3N1FSb1N6Z09yRkVOUGdFeW1LbHBmbWFwVndWdWc?oc=5)
-
-2026-06-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdTBOM1hwWmVHUjNacUVuWlFUeHFWbm96VVI4WHdHX2p2U0RmUVNITXliRDlldGhzSERoX3lnV2ZoOXNoaC1SSHhOZUpQWlF3NTc5QjRONWVoT2tHdDA0djc3QUZ4SUlFYzJRalNzSmRfWEtxVnRTWHB1MTVKVlFTZktsR2FGa1FabXhPQzE5QnNSenFMS3N0MGttaEpMamlpbjBPWlNHMlNvVUJodTJHQWdtbjRJTWJwYTdORnRYdDFfUl9PSkp6TGZGQ1NiX2ZSNkFsUWRWdDB4Q1A3elVGZFNDaDVIRGg5cHl2dUd2SThTcjIxMENvdUttbTktRldu0gGGAkFVX3lxTE9CcFlnU0VtNXU4WjhlVTBQSUQ0Z1JiMnlubjRMekZuNF9PV08tdVdrdEhlVm5qdmUtYXZZbzhQQmpVYUhONEVDWUgyNkVXN3B4anhaMURpcl95V0tNdzM4SUY0LXVCZTN6UHJlTWNnUElYbURSNHpGdkRuOVU2WC1MV0trWUNpRkMtX3BlakhjMjFaZmdadk9EV2czRGNLdlN2VVVuQ1lXUEw1UVMwV2Eza1YxMDB2N0JHdW1Za2RhRUwxZFBMXzlVbi1XeVctVXlSUXdGWnNQWXlJcHF3U3BySHlMWXI0UWt3N1FSb1N6Z09yRkVOUGdFeW1LbHBmbWFwVndWdWc?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNSW42U0NjTjc5U2t5UGJQamc2MVRwd3JSaGpRM3VqdGFBTFVfOVZ5U1ZjOEk5aTljelBnRjVFaUZjT3R5bi1JTHM2S2V5VzhvbVBNSmZVQTRlWFEyNHBsc0FyajZGR1ktVWJKR01wNkc3T3E4V0tZX2ZaaElPWFVqcmxpSFRQUURHZGVtS3Iwa0p3T0U5eHZwdW9KekpPcVB6VFNFdmptNWlvcTRsMzJiWF9iMW43cEo1SzFwNElmUGI0SE9tUGc?oc=5)
 
 ---
 
@@ -126,22 +174,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [À Chalon-sur-Saône, la semaine de prévention du diabète bat son plein](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkNRY01KblZsdlZ2WFI1MnJOZHUtNUxjRHkyVWt2c182UGVlbk0wQXRuNDZZNEdvRUJxd1JPR20yTFE0WUFraFdxdUNJREtLSDFqcnd2RHo4RUtGRmxiSlZnOF9XaUhDc3VnM2RVUGtDMWU3REFCbWhLUEZ1aThCSnlyeVBRS0p3cEdkRnZvUTZYWDI5cmFuN1V5YkdNSVNXOGtGVU1IVHZoZWZ2dFMzdnplNDF2ci1qTEJtQkJnc0xpdw?oc=5)
-
-2026-06-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AF</span>
-
-來源：[Info-Chalon.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkNRY01KblZsdlZ2WFI1MnJOZHUtNUxjRHkyVWt2c182UGVlbk0wQXRuNDZZNEdvRUJxd1JPR20yTFE0WUFraFdxdUNJREtLSDFqcnd2RHo4RUtGRmxiSlZnOF9XaUhDc3VnM2RVUGtDMWU3REFCbWhLUEZ1aThCSnlyeVBRS0p3cEdkRnZvUTZYWDI5cmFuN1V5YkdNSVNXOGtGVU1IVHZoZWZ2dFMzdnplNDF2ci1qTEJtQkJnc0xpdw?oc=5)
-
----
-
-### [Los fármacos para adelgazar reducen hasta un 30% el riesgo de cáncer de mama](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjVzQ1Z1aFJIbTNCeloyTDlYOFlIOXMyR0MwQkM5dVkyNzJtY0pmZm1KM2xNMGZwRUlqNG52NXgwZEN6RGlsRkJFbER4cFZNZU5NcUJ4aTdPR0NLMVdoRmVsbmNuVXFPUVlmNy10WjVHVzhZSVY4ZERGdloxSDU3UVVWRFBNU0JtUkp2WDBmcS0tRl9yRFJVZGRPSVZ5YVprNmd2WnhJR1NiYmtfcGtHendRZ2liLXBWWnB4Uk42M214bV9qc1MzVy1Mbw?oc=5)
-
-2026-06-04 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjVzQ1Z1aFJIbTNCeloyTDlYOFlIOXMyR0MwQkM5dVkyNzJtY0pmZm1KM2xNMGZwRUlqNG52NXgwZEN6RGlsRkJFbER4cFZNZU5NcUJ4aTdPR0NLMVdoRmVsbmNuVXFPUVlmNy10WjVHVzhZSVY4ZERGdloxSDU3UVVWRFBNU0JtUkp2WDBmcS0tRl9yRFJVZGRPSVZ5YVprNmd2WnhJR1NiYmtfcGtHendRZ2liLXBWWnB4Uk42M214bV9qc1MzVy1Mbw?oc=5)
-
----
-
 ### [Diabetes-Prävention: Neue Strategien gegen die Volkskrankheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTRQcTBscVhBeEs4cjRwNnB5bnFBY0xBaTAtNVJUTkduaWxEYWYzUzd6U0V6R3FGLXBEemFmMWJhLVlHT3BKZFRKcEpFTWpXR0thQ1Y1VWV1TmlkTlZZbW9odkNjdHZ5eTRYOTBTekZBMDRWeDZoQkxfYXBxdTNLejgxS05UbGVxVTJ3Z0toRzRua1NJSXdJWDBZNHdoQkh5Wms1RFAxT3VfazgydHBV?oc=5)
 
 2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
@@ -158,51 +190,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Vorhofflimmern und Diabetes – gefährliches Duo fürs Herz - gesundheit adhoc](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTBPbUFIZllhUzdNZkFSY0k2NHVlVVdFcFZIRHMzS2xESWwxOE1VUEs1OHEwSHhCWkF4cUt4SzlVOGdsNGJnRG5XVXUybktYQWtMVklJb3RraDVPcnozVVpvQ01SUVhHV0tvS1ZSQWdRSGN4cGZwVnhrMWxpMzhIczZZLUdRY0VuUlZ3cUttTUVPdWM?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[gesundheit adhoc](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTBPbUFIZllhUzdNZkFSY0k2NHVlVVdFcFZIRHMzS2xESWwxOE1VUEs1OHEwSHhCWkF4cUt4SzlVOGdsNGJnRG5XVXUybktYQWtMVklJb3RraDVPcnozVVpvQ01SUVhHV0tvS1ZSQWdRSGN4cGZwVnhrMWxpMzhIczZZLUdRY0VuUlZ3cUttTUVPdWM?oc=5)
-
----
-
-### [Designstudierende entwickeln Armband-Idee für Kinder mit Typ-1-Diabetes – Eure Erfahrungen sind gefragt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbTNheWhvblRsek5aSm1WTC1XeUZQVGQ1TXFoTk03cWZySC1fMDA5ZmVUOEJaaHg3ZGE1ckMxbEU3Nm1ucElULVNwcFJKNElIdDNoZHF0WnpsRGpaV1FVbHJPMTZqWkVzaE8yeXNqazdIM25YNGNYV240R29iMTctMnlPTWFYSXJWVXFSNkJLLURfRHNxYjVUUHBJUFNBWEh3cGRHYjB5ZjVrWnBaQW5HMExxdzNmbC0xcnkxZ2xRX3VMMHBwdWRwc1piUFhoWmZ1Q0tzSHgyUHlFbXM?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbTNheWhvblRsek5aSm1WTC1XeUZQVGQ1TXFoTk03cWZySC1fMDA5ZmVUOEJaaHg3ZGE1ckMxbEU3Nm1ucElULVNwcFJKNElIdDNoZHF0WnpsRGpaV1FVbHJPMTZqWkVzaE8yeXNqazdIM25YNGNYV240R29iMTctMnlPTWFYSXJWVXFSNkJLLURfRHNxYjVUUHBJUFNBWEh3cGRHYjB5ZjVrWnBaQW5HMExxdzNmbC0xcnkxZ2xRX3VMMHBwdWRwc1piUFhoWmZ1Q0tzSHgyUHlFbXM?oc=5)
-
----
-
-### [Typ-1-Diabetes: Teplizumab verzögert Ausbruch um bis zu 3 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUJ4cVRKeVU0SWF0bk9zdmdJSzYtb1VsSGdEcWM3eDFVcThESDE0d0RDaUNqSzFPWlZGRUpYcU1IV3N0YzlHbHRkMVBVWHBXbnpvRzNQT0hab2ZhVzdubFZCZlBxWG1lZXV2NGRwUl9pRG96ZldndG5fOFlHQWgyX2RhV1pyVWd0c1o5WTJyMkxIWXF2UHNscUNrc245Y3BXSURkTjVpZnNMdEkzSXN2TTBR?oc=5)
-
-2026-06-03 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUJ4cVRKeVU0SWF0bk9zdmdJSzYtb1VsSGdEcWM3eDFVcThESDE0d0RDaUNqSzFPWlZGRUpYcU1IV3N0YzlHbHRkMVBVWHBXbnpvRzNQT0hab2ZhVzdubFZCZlBxWG1lZXV2NGRwUl9pRG96ZldndG5fOFlHQWgyX2RhV1pyVWd0c1o5WTJyMkxIWXF2UHNscUNrc245Y3BXSURkTjVpZnNMdEkzSXN2TTBR?oc=5)
-
----
-
-### [Investigan la relación de los horarios tardíos de comidas y sueño españoles con la diabetes - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGZ4QmhjLUcyQkNJUHBkWS1PaXNWXy1zRmJtV040dnBiQ0lZTFpZOXk4ZTRyT2o0Y0tjSkxSZ01uZ0JzaXNBd3U1Zk9RLS1ocW9pUHp3elI1Sk04V1lhR3hUMDBiZ0JSM0xRZjZ3VmNXR0QtOWYzMkw2R2Y1MFpadl9WaDZldHMzNlpHblA2Q2RjXzdKdjVSb0l4Y0NZdk1mVjBfNnlpSjZVd3oxVmZ5N0lqeDBxUnZHWGk5T1Nvc9IBugFBVV95cUxNY25TWFFrcFJ4ZW03Wk50VVFhOGtQSk50Q1Z5Zm1Mck1oUklBVnRRVXdXQmZJZXpwbzRrZUFXSnBudmVreWRxUmQzdHZuVXpiMllzdGFISF84aUVYeHRIa0hVRTB5cEpaMU9FV1VwRnFkSnFURTZhRWJ4cHlhRnpuSjF2LUtVX0hjVWwwN0lSeS1DeDh5WFpINldiRGhVeU5LbU1iSEFBal9wbUNsT0xUX0U0WUhUXy1CTlE?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGZ4QmhjLUcyQkNJUHBkWS1PaXNWXy1zRmJtV040dnBiQ0lZTFpZOXk4ZTRyT2o0Y0tjSkxSZ01uZ0JzaXNBd3U1Zk9RLS1ocW9pUHp3elI1Sk04V1lhR3hUMDBiZ0JSM0xRZjZ3VmNXR0QtOWYzMkw2R2Y1MFpadl9WaDZldHMzNlpHblA2Q2RjXzdKdjVSb0l4Y0NZdk1mVjBfNnlpSjZVd3oxVmZ5N0lqeDBxUnZHWGk5T1Nvc9IBugFBVV95cUxNY25TWFFrcFJ4ZW03Wk50VVFhOGtQSk50Q1Z5Zm1Mck1oUklBVnRRVXdXQmZJZXpwbzRrZUFXSnBudmVreWRxUmQzdHZuVXpiMllzdGFISF84aUVYeHRIa0hVRTB5cEpaMU9FV1VwRnFkSnFURTZhRWJ4cHlhRnpuSjF2LUtVX0hjVWwwN0lSeS1DeDh5WFpINldiRGhVeU5LbU1iSEFBal9wbUNsT0xUX0U0WUhUXy1CTlE?oc=5)
-
----
-
-### [Popular GLP-1 drug may slow down biological aging, analysis indicates - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXloTUVzeVFZbXV1amRtT2RhZ3dpQXhLS21SYmVHSDdYd0ItZW1FampJUHdjalJsOUI0WVRZa1FwTkRYd2FtYUprT21CX1NwNWdxLUdGY2Ixd1ZYQm9UUTJhZExTeGlIS19MSURqU05Za2hEUF9GY3g0VngwV09mczdBZw?oc=5)
+### [Popular Weight-Loss Drug Found To Slow Biological Aging in Landmark Human Trial](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1NacDBJek5OMW1fUkUzMHdkNVBCaEhpS05VR0E1WlNrd1F4QjBhWXNac0lWYVFXMnhMQ3g1bDhwR19Mc0lVZzB6a1dxclMzbWZkalBHVjFTV2NfVkM2OHRDUHFleTM3dWhKR2xscm9rWjREUkRaektfeFI4Vll0Um5zeFl4NGp0VlRsVjM5bHJZN1daZW40Z3FCY21kUG9wYjczSl9SM2U?oc=5)
 
 2026-06-03 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXloTUVzeVFZbXV1amRtT2RhZ3dpQXhLS21SYmVHSDdYd0ItZW1FampJUHdjalJsOUI0WVRZa1FwTkRYd2FtYUprT21CX1NwNWdxLUdGY2Ixd1ZYQm9UUTJhZExTeGlIS19MSURqU05Za2hEUF9GY3g0VngwV09mczdBZw?oc=5)
-
----
-
-### [Il magnesio aiuta a prevenire il diabete? - Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
-
-2026-06-03 <span class="news-indication-tag">diabete</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1ZkeGZjTWRpakdINThRYUhHSXMwb2V1MGE2bW05YUZpeFJnLTJWYWVWaG5IcVJEQTR1VUUtRWUtbXdRUlEtQkdCMVUyNEFWT0VMNnNNcTR5RElQa1pfYlZ1OUM0MlJEUEVueGFxUFdXbzgwa2Q2bHhybE5hLUJqRTVneks1UlIxUngtTDF5Mlh6cnZ0WkVtUnRUUEtLQW5oQnRLbDRjUWZ3eXhsYnJDdzdQOFBTQXQ5WU4xM1p4VlhOaUI3dzluN3pXSnhWaTRF0gHWAUFVX3lxTE83Ny00NXRpWU9lclIyX3JkTmFORFZVOGNlVDFEX1Nqak5PaWpaMDRINFd4WW5kZHlBM1BGQUUtMzRGVnNPcU9fTlpiZDJOTUxXOG1TUWVSMk5oZkl4bW1hSE5wUzU5aHJ6OFF4d0hxQTdiUVdhME1YU0ZNRVJfdGRNb2VlNldibGo2Ymo2aWZEam9pR05ROFZhQ1RFejVxTlhzM01zcDNwT3NfX3RpSnFDVmE4Ti1MUjJ5aVp0bHprNG96a3A2NGF0RXpCbWhPaUVPT2pZbVE?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1NacDBJek5OMW1fUkUzMHdkNVBCaEhpS05VR0E1WlNrd1F4QjBhWXNac0lWYVFXMnhMQ3g1bDhwR19Mc0lVZzB6a1dxclMzbWZkalBHVjFTV2NfVkM2OHRDUHFleTM3dWhKR2xscm9rWjREUkRaektfeFI4Vll0Um5zeFl4NGp0VlRsVjM5bHJZN1daZW40Z3FCY21kUG9wYjczSl9SM2U?oc=5)
 
 ---
 

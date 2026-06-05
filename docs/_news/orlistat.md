@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [La obesidad durante la infancia puede dejar "huellas" químicas en el ADN de los niños](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaExCWTJjU3BpMkpZbHMtRHc1dm44VUtxd3pxV3RXckV2bll1cVZFSUc2WHRBQUNlNldXU2Ffd2xQUDIybGNFQkl1MGVzcDVQajMtZFN3R2l3YV9oNGU4T1ZpUTRCQ05lZVhCQlFUbjZnQ0RnbmtWUjNCNHdnZWFEb0QtbG5uLVpKaE1iMXI3MlRuUHNFRk0wVW83ck5QaGJCNlVoRFJYZ0VFZURBekZ0bkFfN08xNEoyY0RBNXZIRUhLa2dp?oc=5)
 
@@ -107,14 +107,6 @@ permalink: /news/orlistat/
 2026-06-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMixAFBVV95cUxPblVXZEN0YTd5clZBeFBOYllhT2JTa1FLNnpsTWs5akM0VHh1UDNrdi1OZ3ZSdGZyWFhVeElEUFF4NHllLVdRdTdzOW95SXRaZE1WNDZQMl9tdTNJY3RwLXZ4anVjbmpIUTQ4WkFjNHVFZ2prQlpkcGxUX0Zicmwyc3NqYl9tcmUzSzNyRG1GTjJJdnVVaVdwOUJVR0x1UWN0Z196OGkzS3c3NURPa3ZwM2tGYWxfeEl5U0N0YkxLcVozeUU3?oc=5)
-
----
-
-### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury | Neuroscience - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
 
 ---
 

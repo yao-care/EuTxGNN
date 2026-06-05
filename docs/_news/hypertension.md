@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "hypertension 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "hypertension 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# hypertension 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hypertension 有什麼相關新聞？">
+<strong>hypertension</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hypertension」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Hypertension : ces deux aliments faciles à cuisiner pourraient réduire le risque jusqu'à 30 % - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
 
 2026-06-04
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
-
----
-
-### [Dithmarschen: Bluthochdruck ist ein ernst zu nehmender stiller Killer - Boyens Medien](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnh0Q1MyOFFSMjZ0cXItRl9oNzNLVEdoLXU4Ujh6NTV4RzVtYUkyWlZYUjlHNVAxVkxJdDgtSFJrZ2hsTzFXN2otajd4TGhXQmFUbVFQMHZEcnBlTnhaM0gwMXpRclctekE1VWk0ZmE1R3RMNGVFTHQzMEQxNmtkUGdLZk5Sa255Q25kNVM5aVB5bkNpMmM0Vnc4bFFZMWQ4NXRmY1FxWHRUaDBteFgzcXFBal9taWJNYVp4b0xpSGExQ3VFLWNZc2V3?oc=5)
-
-2026-06-03
-
-來源：[Boyens Medien](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnh0Q1MyOFFSMjZ0cXItRl9oNzNLVEdoLXU4Ujh6NTV4RzVtYUkyWlZYUjlHNVAxVkxJdDgtSFJrZ2hsTzFXN2otajd4TGhXQmFUbVFQMHZEcnBlTnhaM0gwMXpRclctekE1VWk0ZmE1R3RMNGVFTHQzMEQxNmtkUGdLZk5Sa255Q25kNVM5aVB5bkNpMmM0Vnc4bFFZMWQ4NXRmY1FxWHRUaDBteFgzcXFBal9taWJNYVp4b0xpSGExQ3VFLWNZc2V3?oc=5)
 
 ---
 

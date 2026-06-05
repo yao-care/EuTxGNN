@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Tecnalia lidera un prototipo pionero no invasivo para tratar el ictus o el Parkinson sin cirugía](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2pWcDk2WDNVMXVncUxXLTBJc29XTGl1dG95S3hnV0ZhM0p5ZWlRY0VBczgxaVAyZ0J1SjM0alhBUng4UnUxcTdsWHZtLW9pcVhWMk1EMU9BNkZlR0VKdWJUdlhtdmF2RWlrWkNYdkpSbVVSV1BVVFRlUTNoak41N0hDUWNDX25qR1VQbnYtOUdKY1k3dVVBclpXbkpKQdIBowFBVV95cUxONWduVXhDdm80dlZDVDlTSm1OWnVtZHJzNGF0Qm5fN0F3eC05UXNEWTZfeTV0RzU5QVA1UkFyVWZQTU5XRkdDU3ppdklDVk9uamlrOWtIYWlZSzMzdEkta0RjMlVZcFJNekxlVWg4Y1E3S2hyeDU1NUxzYW84VEdoeXNoZ3VFTm5xQkpUdF9SZDhzbVcxeUswMEY2dE5ZVVZYX2lR?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/telmisartan/
 2026-06-04 <span class="news-indication-tag">hypertension</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHpFdzRuY01Ed3lsRmdRMnZxdy15RUhYclhWQzFPdVkwSzNHcEtBT2UzOGwxTUpXLUh6aTlhVXJ0Z0VKaEZ3UlRGcWI2UUp3bVAtVVlCRzRBeDRuSU5FQVdFYk9NdTItbVVKRUtWRThCOE9ycXJQeWVTODV6V2YtdnhFWXE5QWE0dERSZzVpS2o3STBQVE5aR2hsSVM5RlQ1c1MyUEtFQmNxNGlaNmxMd0F1b3NydWtRUXNKczVMOG85ejZPZjd3OFREdHhoNDg0QkFhajdlSGNGRzBzT1JTNFh2Vm11ZldiZXY0Q1ZCRGl6dng4NXNnYkVzbw?oc=5)
-
----
-
-### [Dithmarschen: Bluthochdruck ist ein ernst zu nehmender stiller Killer - Boyens Medien](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnh0Q1MyOFFSMjZ0cXItRl9oNzNLVEdoLXU4Ujh6NTV4RzVtYUkyWlZYUjlHNVAxVkxJdDgtSFJrZ2hsTzFXN2otajd4TGhXQmFUbVFQMHZEcnBlTnhaM0gwMXpRclctekE1VWk0ZmE1R3RMNGVFTHQzMEQxNmtkUGdLZk5Sa255Q25kNVM5aVB5bkNpMmM0Vnc4bFFZMWQ4NXRmY1FxWHRUaDBteFgzcXFBal9taWJNYVp4b0xpSGExQ3VFLWNZc2V3?oc=5)
-
-2026-06-03 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Boyens Medien](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUnh0Q1MyOFFSMjZ0cXItRl9oNzNLVEdoLXU4Ujh6NTV4RzVtYUkyWlZYUjlHNVAxVkxJdDgtSFJrZ2hsTzFXN2otajd4TGhXQmFUbVFQMHZEcnBlTnhaM0gwMXpRclctekE1VWk0ZmE1R3RMNGVFTHQzMEQxNmtkUGdLZk5Sa255Q25kNVM5aVB5bkNpMmM0Vnc4bFFZMWQ4NXRmY1FxWHRUaDBteFgzcXFBal9taWJNYVp4b0xpSGExQ3VFLWNZc2V3?oc=5)
-
----
-
-### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury | Neuroscience - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
 
 ---
 

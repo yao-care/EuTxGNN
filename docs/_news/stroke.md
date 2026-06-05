@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Tecnalia lidera un prototipo pionero no invasivo para tratar el ictus o el Parkinson sin cirugía](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2pWcDk2WDNVMXVncUxXLTBJc29XTGl1dG95S3hnV0ZhM0p5ZWlRY0VBczgxaVAyZ0J1SjM0alhBUng4UnUxcTdsWHZtLW9pcVhWMk1EMU9BNkZlR0VKdWJUdlhtdmF2RWlrWkNYdkpSbVVSV1BVVFRlUTNoak41N0hDUWNDX25qR1VQbnYtOUdKY1k3dVVBclpXbkpKQdIBowFBVV95cUxONWduVXhDdm80dlZDVDlTSm1OWnVtZHJzNGF0Qm5fN0F3eC05UXNEWTZfeTV0RzU5QVA1UkFyVWZQTU5XRkdDU3ppdklDVk9uamlrOWtIYWlZSzMzdEkta0RjMlVZcFJNekxlVWg4Y1E3S2hyeDU1NUxzYW84VEdoeXNoZ3VFTm5xQkpUdF9SZDhzbVcxeUswMEY2dE5ZVVZYX2lR?oc=5)
 
 2026-06-04
 
 來源：[Deia](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2pWcDk2WDNVMXVncUxXLTBJc29XTGl1dG95S3hnV0ZhM0p5ZWlRY0VBczgxaVAyZ0J1SjM0alhBUng4UnUxcTdsWHZtLW9pcVhWMk1EMU9BNkZlR0VKdWJUdlhtdmF2RWlrWkNYdkpSbVVSV1BVVFRlUTNoak41N0hDUWNDX25qR1VQbnYtOUdKY1k3dVVBclpXbkpKQdIBowFBVV95cUxONWduVXhDdm80dlZDVDlTSm1OWnVtZHJzNGF0Qm5fN0F3eC05UXNEWTZfeTV0RzU5QVA1UkFyVWZQTU5XRkdDU3ppdklDVk9uamlrOWtIYWlZSzMzdEkta0RjMlVZcFJNekxlVWg4Y1E3S2hyeDU1NUxzYW84VEdoeXNoZ3VFTm5xQkpUdF9SZDhzbVcxeUswMEY2dE5ZVVZYX2lR?oc=5)
-
----
-
-### [The doctor who mends broken brains: why there is room for hope after a stroke or head injury | Neuroscience - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
-
-2026-06-03
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3FGS2l5eWpMc2YxTXZvNEpaYnM2TXlOZmVrSXhGSWdNUzluR3JoQjlGaE5mVF9GeDN3eloySFhULThDOTRkbTNaeGNremV6RW5WNlNIY1lOTm9NelVqRDItZ2ZiWklUdl9oRjRrNC1tZDBqVXB0Mmh5M3JIMS1iZnNkc3F5d243cDFsaDZOQ0k0Sm5PSWxrQk52Y2o1UGw2LXVwQU96Zkx2aUZBM1RuZ0NGUGxPbTQ0b0J1eUV1Y1h4dw?oc=5)
 
 ---
 

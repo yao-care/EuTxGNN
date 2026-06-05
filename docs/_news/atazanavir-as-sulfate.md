@@ -14,7 +14,7 @@ permalink: /news/atazanavir-as-sulfate/
 ---
 
 <p class="key-answer" data-question="Atazanavir (As Sulfate) 有什麼相關新聞？">
-<strong>Atazanavir (As Sulfate)</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Atazanavir (As Sulfate)</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/atazanavir-as-sulfate/
 <p><a href="{{ '/drugs/atazanavir-as-sulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（28 則）
+
+### [Darmkrebs vorbeugen: Forscher kommen zu überraschendem Ergebnis beim Stuhltest](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
+
+2026-06-05 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHd3NlFpWERlZFhXMmh0VVd0ZjhDUURSb1VQN1hINHl4NnZIYWRWeTBjTXByV2JHc1ZsUWdNSzBzTlhMLWRXS1ZpaEV2QjV2eWFIazFzRFFWenVXb3FuX0dwSlU0Nk8xQnJraXpiOEZmbTdudnNrZ1ZmNU95QS1iQUhndGFHSGpFTUxYQnpHM29LRWR4RWJoeGloakkwUFI5Z3RfRlR4bk1FU2stYWlEUXRzdGNRS3g5ckp4WjBLZTVmdS1KbHZDOTgzNHN2a2xzNXo4SXZERzI0SW1BZ3Jv?oc=5)
+
+---
+
+### [Krebs: Durchbruch in der Forschung – Neue Ergebnisse im Kampf gegen Krebs-Rückfälle](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+
+2026-06-05 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+
+---
+
+### [Linfoma di Hodgkin: cos'è, sintomi, possibile cura e tasso di sopravvivenza - Sky TG24](https://news.google.com/rss/articles/CBMingFBVV95cUxNT3lPbWw3dmswcXotVWhwcGF6cnBaZ0dlTFMxQWpWOWtRbkR0Yzd5a0h4SnMwVDZ0OUw1TXdvanhLbFpHbDFaQ2lvODFmMU1GMy1FR0ZhR1JNY2t4eDBQRmpWMDk3WkFqTGUtSElkWllzOTJ4SFZCZXhPVWJhbDB6RURnWXp3SHNwcEZHcG9HamYtS3RQMmp6alZiSmR5Zw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">tumor</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMingFBVV95cUxNT3lPbWw3dmswcXotVWhwcGF6cnBaZ0dlTFMxQWpWOWtRbkR0Yzd5a0h4SnMwVDZ0OUw1TXdvanhLbFpHbDFaQ2lvODFmMU1GMy1FR0ZhR1JNY2t4eDBQRmpWMDk3WkFqTGUtSElkWllzOTJ4SFZCZXhPVWJhbDB6RURnWXp3SHNwcEZHcG9HamYtS3RQMmp6alZiSmR5Zw?oc=5)
+
+---
+
+### [Diabetes und Vorhofflimmern: 61% höheres Sterberisiko durch Kombination - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2p5N09zalZGNEs1UllvYTZhTDJWNWtGdHpKUHExVnRxR0dVM0U3U0xRMWJiSzdvV0t2Q3hHbGZoY05Jejc3NHUzejNoM19XbHhEZXhvaXFCMzNoUGtZaWhXN3NZLU5zVVk0MnpsMUxKTzZxNjFFQjR6TGJDYm1YWHdfUl9tRXB2eVpMTV9URVJPeHFGOTNFYlVDdUNsVW9CMkxtaTBTbDhpVGZsVEVYT25qeUlOdw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2p5N09zalZGNEs1UllvYTZhTDJWNWtGdHpKUHExVnRxR0dVM0U3U0xRMWJiSzdvV0t2Q3hHbGZoY05Jejc3NHUzejNoM19XbHhEZXhvaXFCMzNoUGtZaWhXN3NZLU5zVVk0MnpsMUxKTzZxNjFFQjR6TGJDYm1YWHdfUl9tRXB2eVpMTV9URVJPeHFGOTNFYlVDdUNsVW9CMkxtaTBTbDhpVGZsVEVYT25qeUlOdw?oc=5)
+
+---
+
+### [La medicina de precisión, la IA y los anticuerpos conjugados marcan el tratamiento del cáncer - El médico interactivo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0FlQTJwNTM5aFlSWUluN0ZpYXc4Z180YTdXSWV4MVhDTTNTeXU2VC1URU5GNXQxMW5RN3Zfd3dqeTA5aXBvY3o4QjZ0Y09XZEctV05mLV9CM0dwZ0tSN19uaFQxa0pGSjVwYWkxRy12V2tsajhXVHU0c1BEbUQ3UHVBLU81aF9tM0VZcHlNdDBvbWhyYnI5UVJzNnNXRk1HNG9LUFZwZDhvMGlYMTdhazNYT0JUb0FsS0IzQ3ZIMTlkck0?oc=5)
+
+2026-06-05 <span class="news-indication-tag">tumor</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0FlQTJwNTM5aFlSWUluN0ZpYXc4Z180YTdXSWV4MVhDTTNTeXU2VC1URU5GNXQxMW5RN3Zfd3dqeTA5aXBvY3o4QjZ0Y09XZEctV05mLV9CM0dwZ0tSN19uaFQxa0pGSjVwYWkxRy12V2tsajhXVHU0c1BEbUQ3UHVBLU81aF9tM0VZcHlNdDBvbWhyYnI5UVJzNnNXRk1HNG9LUFZwZDhvMGlYMTdhazNYT0JUb0FsS0IzQ3ZIMTlkck0?oc=5)
+
+---
 
 ### [Studie: Möglicher Effekt von Abnehmspritze auf Brustkrebs-Risiko](https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1ZWaURqMW1uSFMxeFo0a3VkemdMS0xmYXRtdnh6dkdRYldyd2tVZkRSWTVIMkNBa0t2SWdBRWZzM3ZXdmRSNk50VFpUODB0UXV0YUtaMDFBSzAybF9hOGlGZllHcjF1VVhoOFdscm9uVlhmRUU4OHhTSC1FNU5MaXk4NnR2Q3pTOTQxMzREcmV4RDJrZkpKSU9QQnNnY1UtVGQ1bjEyMF9FWXkyb00tRHA5OEpIVURhQUpPTTZsMmIwRnRqS2V6N2Vn?oc=5)
 
@@ -67,6 +107,30 @@ permalink: /news/atazanavir-as-sulfate/
 2026-06-05 <span class="news-indication-tag">tumor</span>
 
 來源：[Genotipia](https://news.google.com/rss/articles/CBMie0FVX3lxTE51MFJVNW4wX3h6N2ZnazRGeXc4cTFzTEZieHlaWFktZGJ4Wl9VU1VjTmhsc3RiTmhTTkJSMzZOd2gzNXJ1SlhXUDVLMk41T0F3Q2hOUGFWZFp0THctLWRZUFI1ZTRCZDZqM0Y2eEVGRHcxTUpEcDdZcWJtVQ?oc=5)
+
+---
+
+### [North Wales mum 'with IBS' given months to live - North Wales Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlo4OUNmRUhGQk1XNDRfb1N1YzVhTFAzZklPX0kwRVgtc2NlWjRYVWQxbk1qVEh0bTI4bVdnR09CQk5VOFRsVkdQcWQzUHlmT1VGNk11Q1BueWlkRVRtN2dhbE90V0NycWxhMEFRLUlDSHFxVnViVmFVVTVMVzgtREFXZUFwaFVhU3Yw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">cancer</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlo4OUNmRUhGQk1XNDRfb1N1YzVhTFAzZklPX0kwRVgtc2NlWjRYVWQxbk1qVEh0bTI4bVdnR09CQk5VOFRsVkdQcWQzUHlmT1VGNk11Q1BueWlkRVRtN2dhbE90V0NycWxhMEFRLUlDSHFxVnViVmFVVTVMVzgtREFXZUFwaFVhU3Yw?oc=5)
+
+---
+
+### [Descubren una posible nueva vía terapéutica contra tumores neuroendocrinos raros](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVZuTFNscmc5ak9KTlY5b203U3lEeEhaazVfTTVoV0xQTGdiU1pQRnpXekNreDJ1Sm5Hb2xkWmJWeEpQSHMtdXY0OEdzM0RwblZub05SUFpOYl8yVlAyZW9nMkNEZ1ZOaVg5QzhJQnlPTzNtN2lfQjZNTVNkUkJ6NDlIWHZ4M19jTUZlX2ZjZEJIRjdyTERiZFB4MVRhVjBwVkxTOEEtWllWeWViS2ZfUTRHR3ZDWFh0SUFSY0ctYkhpazNadUY4NHJiMUctZw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">tumor</span>
+
+來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVZuTFNscmc5ak9KTlY5b203U3lEeEhaazVfTTVoV0xQTGdiU1pQRnpXekNreDJ1Sm5Hb2xkWmJWeEpQSHMtdXY0OEdzM0RwblZub05SUFpOYl8yVlAyZW9nMkNEZ1ZOaVg5QzhJQnlPTzNtN2lfQjZNTVNkUkJ6NDlIWHZ4M19jTUZlX2ZjZEJIRjdyTERiZFB4MVRhVjBwVkxTOEEtWllWeWViS2ZfUTRHR3ZDWFh0SUFSY0ctYkhpazNadUY4NHJiMUctZw?oc=5)
+
+---
+
+### [Man misdiagnosed with cancer for seven years](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtN3ozT1YzcG9RSjZPd3pUTDVzbmJhbU05SkE2OWdhQlhzQTFfNVhReXpEMFdSdWhxRXdDeGFyQ0lkZVhEWlNJTkQyalVpcVNoZ1c2aUpWR2dFVW5K?oc=5)
+
+2026-06-05 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtN3ozT1YzcG9RSjZPd3pUTDVzbmJhbU05SkE2OWdhQlhzQTFfNVhReXpEMFdSdWhxRXdDeGFyQ0lkZVhEWlNJTkQyalVpcVNoZ1c2aUpWR2dFVW5K?oc=5)
 
 ---
 
@@ -115,14 +179,6 @@ permalink: /news/atazanavir-as-sulfate/
 2026-06-04 <span class="news-indication-tag">carcinoma</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMidkFVX3lxTE5SZUNKcjhVWUVBLTkyQUxwcm1wQXFORnBhSDBhdkw2X24zQi1QcDZMRTJZemM0M0w4dmNraHZBSmVRSTBxTkVSODZoaW1BbUtJTWxycFNVUy1HanlWRVBJQlVubTJucWxrekhRUkxrLWFEZW9zNXc?oc=5)
-
----
-
-### [ASCO 2026: Los anticuerpos conjugados llegan a múltiples tumores - El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3R0ZDZYNDRBalNUbGtLbEk1Z3RzRjNfSnlEOHpHTFhYM2d3RzNSRUNIS2NBNHdnQ0lNQURKNEUtclg4TnhzWlZtNDV4Rm5sMExwVzZpMjdUZnpJelBlQmFaOHE5dDZjTjU0VTh4ZExrWi0xM01YSklwRWV6X0Zvc0RtVTJxdEE2aGVBWlEwNFg3ZFYxajR2YmN5OFI?oc=5)
-
-2026-06-04 <span class="news-indication-tag">cancer</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3R0ZDZYNDRBalNUbGtLbEk1Z3RzRjNfSnlEOHpHTFhYM2d3RzNSRUNIS2NBNHdnQ0lNQURKNEUtclg4TnhzWlZtNDV4Rm5sMExwVzZpMjdUZnpJelBlQmFaOHE5dDZjTjU0VTh4ZExrWi0xM01YSklwRWV6X0Zvc0RtVTJxdEE2aGVBWlEwNFg3ZFYxajR2YmN5OFI?oc=5)
 
 ---
 
@@ -219,70 +275,6 @@ permalink: /news/atazanavir-as-sulfate/
 2026-06-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdVFQTlBoM1AwMUdyN3RjQnNST1ZPTDVYMlNtcVFkY0FfczdyZ2Vfd0hodGhTbDl5cU1LeHhkTUtPWkRHdVN0ZE5BelhXX25lV28zaEJ6Y2Ytd04wY2kyNHlYclZ2UlZvdV9KVzVuUWFxaXoyYW1sUnBiWnFIMW42M3AycS0xMTdSalJYWWxXZS1RdV90U1FSNTdYbTlMTEpQUEZpbmphWTZXNXhnLWlVeGlZQ3JYaW5ScGNweG9HTDVUTHg1Yk5CWjV5Zl9VazFv?oc=5)
-
----
-
-### [Steigende Krebsinzidenzen bei Jüngeren mit klassischen Risikofaktoren nur teilweise erklärbar - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxONkF3a2l2RTRoZ01TdkcyN2VPZVJRZU5LeEJyYmxTNHQycjNYR05NVDBwNWw3OC03eFZVcng2T3gwOVdZYmk5eDZ6MUtaTWVrMDVQcXEyOFFGdTFKOHRzMWliRTd5UHZrTnBxOEdsR2RVWURha25uODhoQ2NUc1dDYkxQTWd5SlFFQ3FCUnpwTHNFTl9UNG1ZYW5OcGpfd01ZR29CMFVCZ01PS2ZROWZKX1RMdnFodFpGSkRDWmJ1OXBnVkJOZ0I0NVVGRG5nWUs5anhCZGdSbHoyNVhkOVJaWmZ6TldaOHFoWnE2SEQzd09XX1Vo?oc=5)
-
-2026-06-03 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxONkF3a2l2RTRoZ01TdkcyN2VPZVJRZU5LeEJyYmxTNHQycjNYR05NVDBwNWw3OC03eFZVcng2T3gwOVdZYmk5eDZ6MUtaTWVrMDVQcXEyOFFGdTFKOHRzMWliRTd5UHZrTnBxOEdsR2RVWURha25uODhoQ2NUc1dDYkxQTWd5SlFFQ3FCUnpwTHNFTl9UNG1ZYW5OcGpfd01ZR29CMFVCZ01PS2ZROWZKX1RMdnFodFpGSkRDWmJ1OXBnVkJOZ0I0NVVGRG5nWUs5anhCZGdSbHoyNVhkOVJaWmZ6TldaOHFoWnE2SEQzd09XX1Vo?oc=5)
-
----
-
-### [Tumore al cervello, un cerotto intelligente contro il glioblastoma: cos'è e come funziona - Il Messaggero](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelJQczV6LW5FNzR6VFVTa21Xck53V25GdnJPVXkzWUx2UGNvMmw1RnV1N3VSaDBBNWFOajRwaVZyWXVxc0txOWlLbzh4dmxQXzJ0U3pndHYySk1LTFdpQlVpV3RwMUNITXlOVmNZTXQ3UmFDd1IzamFac2daSzFHd3RJNnFSTFdtRXAzSHJKLUVvQzllODhBQy1takJQbElwbmNxemJ2QkZ0Znh2ZlVKeHZVUW5ZMnhmRk9XYjA0WDLSAb4BQVVfeXFMTmRtZFRIMmZFUXZVdGN5RzhibGxqY2Q3Zi03cXhWa1lVQXBQLTllajNfbUZnV1E3anh1akpuQUJFMU1VajNVRnpMZmd1LXpfUTVpTkdTMlBKaXYxUllRSjBLVHlIQ3FXeXp2anU1NXduaUh1YUk3OHRFeDZXc05VaHNvcGhNcG05UkdsNnUtMzNmVWN4SWZCeHozZXVUMmFVdzMwQkFmd0FFRG9CcXRYYzJKYkhkRXhtS1VlNEtRZw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelJQczV6LW5FNzR6VFVTa21Xck53V25GdnJPVXkzWUx2UGNvMmw1RnV1N3VSaDBBNWFOajRwaVZyWXVxc0txOWlLbzh4dmxQXzJ0U3pndHYySk1LTFdpQlVpV3RwMUNITXlOVmNZTXQ3UmFDd1IzamFac2daSzFHd3RJNnFSTFdtRXAzSHJKLUVvQzllODhBQy1takJQbElwbmNxemJ2QkZ0Znh2ZlVKeHZVUW5ZMnhmRk9XYjA0WDLSAb4BQVVfeXFMTmRtZFRIMmZFUXZVdGN5RzhibGxqY2Q3Zi03cXhWa1lVQXBQLTllajNfbUZnV1E3anh1akpuQUJFMU1VajNVRnpMZmd1LXpfUTVpTkdTMlBKaXYxUllRSjBLVHlIQ3FXeXp2anU1NXduaUh1YUk3OHRFeDZXc05VaHNvcGhNcG05UkdsNnUtMzNmVWN4SWZCeHozZXVUMmFVdzMwQkFmd0FFRG9CcXRYYzJKYkhkRXhtS1VlNEtRZw?oc=5)
-
----
-
-### [Darmkrebs: Tumor-DNA hilft bei Entscheidung über Chemotherapie](https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3djLXBUQVp1OV84OGFDVXpSZGU2U0F5dWM5b3IwRHV2cnRHMk80SWdWVUc2ZURieEl1TjU5SFpEdGJVVXFEX0steVhMX3lTQUhJbllQZWd2UGwzT3lqdjR1WWU1dmRybXRtRWE2R1VmVjE5YmRmbzRMMzZOQW1KbjdWN25DS1NpSHc?oc=5)
-
-2026-06-03 <span class="news-indication-tag">tumor</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3djLXBUQVp1OV84OGFDVXpSZGU2U0F5dWM5b3IwRHV2cnRHMk80SWdWVUc2ZURieEl1TjU5SFpEdGJVVXFEX0steVhMX3lTQUhJbllQZWd2UGwzT3lqdjR1WWU1dmRybXRtRWE2R1VmVjE5YmRmbzRMMzZOQW1KbjdWN25DS1NpSHc?oc=5)
-
----
-
-### [Cancro della prostata, la terapia ormonale «intensificata» riduce il rischio recidiva - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWhzc2J2UEtWVGJzcjcyYWlnZ3N6ZkdIUi1EakI5d1FqNl92S0JtN3k3UVhLeUFOQVl2bm9IS2UtYXV2Vjc5cjBqNjdoTkhqajhheXM1LUxJS1FRRkp0aDdTcWNBZ3hJTmhBVnBjcUxnX2tOaFM5TEU5c0RLWmNzUS10Z3NicnAxUllQZjhHTWswRlJpZExERGFEWk9rckV1c3ZERHNONFJoZ2N5eWx0Rw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWhzc2J2UEtWVGJzcjcyYWlnZ3N6ZkdIUi1EakI5d1FqNl92S0JtN3k3UVhLeUFOQVl2bm9IS2UtYXV2Vjc5cjBqNjdoTkhqajhheXM1LUxJS1FRRkp0aDdTcWNBZ3hJTmhBVnBjcUxnX2tOaFM5TEU5c0RLWmNzUS10Z3NicnAxUllQZjhHTWswRlJpZExERGFEWk9rckV1c3ZERHNONFJoZ2N5eWx0Rw?oc=5)
-
----
-
-### [Cancer du sein : une prise de sang pourrait repérer plus tôt la résistance aux traitements](https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSlpOVEJTWktBYVAzMGFPZDhDb2RhNE56NlRmSDRhdmNhOHF5OWFnMGQ1elJjZ0otZU4xZWk0eURacURMWHlFSVFoRmV4WFJlZ2RPeDBUTURpelRyRjlhN3hsX3BnUFYwWFRUeGZtS0pFTDJya3ZhdVBvSQ?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSlpOVEJTWktBYVAzMGFPZDhDb2RhNE56NlRmSDRhdmNhOHF5OWFnMGQ1elJjZ0otZU4xZWk0eURacURMWHlFSVFoRmV4WFJlZ2RPeDBUTURpelRyRjlhN3hsX3BnUFYwWFRUeGZtS0pFTDJya3ZhdVBvSQ?oc=5)
-
----
-
-### [Breakthrough cancer injection to be tested in Portugal after “unprecedented” trial results - Portugal Resident](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEtBU3FNNTRSYmFZZTViS1h6Ti0wRDc3am0xaUI0azlvcEFaNkl6R1djb2RueDVwd3VkNk5XX2YzMTVacEdIaU1MVnR4TTF2QWJtNk5BU0c4R21vXzdsMHpYbjZUczVMNk5ib1FlcXlaZUo2MURLSnN3SkdpRmJBY1dpQk03R2pkRzJBR0xIZFd1RE82YnNGZFpsMWxqYTFmZnBCWlIwU1JqWnRaU2R6ejNjQUY2bUZsNG1Pb0lGcw?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Portugal Resident](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEtBU3FNNTRSYmFZZTViS1h6Ti0wRDc3am0xaUI0azlvcEFaNkl6R1djb2RueDVwd3VkNk5XX2YzMTVacEdIaU1MVnR4TTF2QWJtNk5BU0c4R21vXzdsMHpYbjZUczVMNk5ib1FlcXlaZUo2MURLSnN3SkdpRmJBY1dpQk03R2pkRzJBR0xIZFd1RE82YnNGZFpsMWxqYTFmZnBCWlIwU1JqWnRaU2R6ejNjQUY2bUZsNG1Pb0lGcw?oc=5)
-
----
-
-### [Dijon. Cancers de la peau : « Il faut regarder ses grains de beauté en suivant la règle ‘‘ABCDE’’ » - Le Bien Public](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVVSUVlGZ0lYakhQcGN0NmltMVhvNS1BbHZ6QXBnZ1R4MVJtZjJiRkNKZnpQTlZFd3pvNFhQTjF5cVV4RlNnVjBNZHZqdi1DeExmZkE3VWpjOHVfVnkzbmVYbEdlVS1NaUNERUFCMDlZcExXMEI5eDY4Umg0WDJEZHVnUFJLOVhZT2VLYk1YMWhYNDFNa001ZEdCSERpb0VDaERNTUkybWNLZHh6UGlBZFBWMWlsdzhMN2ExNW5TbnU0QQ?oc=5)
-
-2026-06-03 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Bien Public](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVVSUVlGZ0lYakhQcGN0NmltMVhvNS1BbHZ6QXBnZ1R4MVJtZjJiRkNKZnpQTlZFd3pvNFhQTjF5cVV4RlNnVjBNZHZqdi1DeExmZkE3VWpjOHVfVnkzbmVYbEdlVS1NaUNERUFCMDlZcExXMEI5eDY4Umg0WDJEZHVnUFJLOVhZT2VLYk1YMWhYNDFNa001ZEdCSERpb0VDaERNTUkybWNLZHh6UGlBZFBWMWlsdzhMN2ExNW5TbnU0QQ?oc=5)
-
----
-
-### [Tumore del pancreas, diagnosi precoce su cisti a rischio: ecco chi deve fare attenzione - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2w2QTVyRVhqVmJreUFIZkhEREpCUHg1RWFveXpIR3k4SUxjSDdxdzdCUTFqQktWMGpBQ0tzd3FpQ2toWi1GdlNmdzhGUDFpMFMwYmFuNEVJb1R1azF3bEpFYUpERk01QUlyRllrV2RMVERXX05TalRtS2VRUVBtMDlVUVFZRjBmOTBhc2RSR2xBZ3lyVHE4bl9ZbnRfdWRoRDdTVDJ5QXI4YUUzNW9leXRfcHJUbEhQ?oc=5)
-
-2026-06-03 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2w2QTVyRVhqVmJreUFIZkhEREpCUHg1RWFveXpIR3k4SUxjSDdxdzdCUTFqQktWMGpBQ0tzd3FpQ2toWi1GdlNmdzhGUDFpMFMwYmFuNEVJb1R1azF3bEpFYUpERk01QUlyRllrV2RMVERXX05TalRtS2VRUVBtMDlVUVFZRjBmOTBhc2RSR2xBZ3lyVHE4bl9ZbnRfdWRoRDdTVDJ5QXI4YUUzNW9leXRfcHJUbEhQ?oc=5)
 
 ---
 

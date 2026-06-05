@@ -14,7 +14,7 @@ permalink: /news/fluticasone-propionate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Propionate 有什麼相關新聞？">
-<strong>Fluticasone Propionate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Propionate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/fluticasone-propionate/
 <p><a href="{{ '/drugs/fluticasone-propionate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [59º Congreso SEPAR: ¿Deben utilizarse los mismos biológicos en el asma y en la EPOC? - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmM0N3RQVV85R3otQUZYUTdnWF95V19Ha3VnNUphMHRBaHZiUG1NYVhLYk1ucFo4bHlhUXJlUS00QjVmOXI4UkJGM1Rwd2NmZTZEWFFuSnB4WnhiLVFtZ0ljNHlhQU00MWRJTGk4SlppMDNXWk5aanpyaGUwbUhoTWc4ZHdrcVJXMXFXQ0RYM2hXQ0Z5UmFTSk5Qc19nbFNiXzgtekNjOHpiTjd4LU1RZGQ2UDAzNkXSAbIBQVVfeXFMTVR0TGFjcDBHWnE0M1NETmlKYldVNFZDWW4ya1VCRWJRZ2FYX1lYeVJadFVhanR2cWxUZUVHU05jSlcyU0tianJrb0R6OTlaT1hmZWE4Mmc3UDFYbkhpVm80Q1RhSXR4a29PSDl0djMxREstZnJvdS05dHdqYjVDRmVxcGU5akx3eDlodE04Z0FtTFVZN0Vlb1AtYWNDaEVRNUx4aC1Odm94RGJIVEVZUC1mQQ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmM0N3RQVV85R3otQUZYUTdnWF95V19Ha3VnNUphMHRBaHZiUG1NYVhLYk1ucFo4bHlhUXJlUS00QjVmOXI4UkJGM1Rwd2NmZTZEWFFuSnB4WnhiLVFtZ0ljNHlhQU00MWRJTGk4SlppMDNXWk5aanpyaGUwbUhoTWc4ZHdrcVJXMXFXQ0RYM2hXQ0Z5UmFTSk5Qc19nbFNiXzgtekNjOHpiTjd4LU1RZGQ2UDAzNkXSAbIBQVVfeXFMTVR0TGFjcDBHWnE0M1NETmlKYldVNFZDWW4ya1VCRWJRZ2FYX1lYeVJadFVhanR2cWxUZUVHU05jSlcyU0tianJrb0R6OTlaT1hmZWE4Mmc3UDFYbkhpVm80Q1RhSXR4a29PSDl0djMxREstZnJvdS05dHdqYjVDRmVxcGU5akx3eDlodE04Z0FtTFVZN0Vlb1AtYWNDaEVRNUx4aC1Odm94RGJIVEVZUC1mQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
