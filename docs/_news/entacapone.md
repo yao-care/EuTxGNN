@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Svolta contro l'Alzheimer: scoperta una molecola che riduce i danni al cervello](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUdrWGcyRmhHR1dFRXMyWjJZTFRDWllmM1ZaR1JzcERDZ0ZjbXplbDFNWDFpMjg4Z19WanM3RGFEQVFyOEVzRFRBXzVmdEV5YXBfSDFPWFFoRzlMcGFPUWpvWHZXRE1fWW9VM3MzcHdKWlVnMTY5QWFSSUlZbkRHampieU5WTDg?oc=5)
-
-2026-06-04 <span class="news-indication-tag">malattia di Alzheimer</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUdrWGcyRmhHR1dFRXMyWjJZTFRDWllmM1ZaR1JzcERDZ0ZjbXplbDFNWDFpMjg4Z19WanM3RGFEQVFyOEVzRFRBXzVmdEV5YXBfSDFPWFFoRzlMcGFPUWpvWHZXRE1fWW9VM3MzcHdKWlVnMTY5QWFSSUlZbkRHampieU5WTDg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Neue Hoffnung bei Depressionen: Rheumamedikament zeigt gute Ergebnisse](https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0MwV1Qtcnp0clpMVmR2RFNRU2dMZDU3aldjY3IxOEpPSWhzS1IxQVFuclEtbmNQLWJDVzEyN3R1OEhmblJJVGhHdDhaTUpaWm5tc0xRWlpjQ1FDSnZVeFNsQVJEREVxUHdCMFp3NVNkN1RVV3loSm9wakVBWEdVN1pkdl93ZWlCak5xc2g1TVdtSGhVZ1RwdnBxWUVaRU0?oc=5)
 
 2026-06-05
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0MwV1Qtcnp0clpMVmR2RFNRU2dMZDU3aldjY3IxOEpPSWhzS1IxQVFuclEtbmNQLWJDVzEyN3R1OEhmblJJVGhHdDhaTUpaWm5tc0xRWlpjQ1FDSnZVeFNsQVJEREVxUHdCMFp3NVNkN1RVV3loSm9wakVBWEdVN1pkdl93ZWlCak5xc2g1TVdtSGhVZ1RwdnBxWUVaRU0?oc=5)
-
----
-
-### [Kinderernährung stärkt Psyche über Darm-Hirn-Achse – ohne Supplement-Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2NhdXlGaEhhME1vZXhEd1VCWlJzZWNSVzRqbXJ2QzRMMFZSTzcxQzZLUmdUWm81eFpVX19lLURRckdGYnNOTVhrWk1SWHZUMEV2VkdQbzNTTmZWbzFpLTFMelVwSGd1b09wcFhkai03b0ZEa3J1YlJUOGhyNGVqWkpoNkVMN01mdmdGY2h4U0xXSFRPV2RnNzZRXzhsM0phTVJKS3VIOVd1ckE?oc=5)
-
-2026-06-04
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2NhdXlGaEhhME1vZXhEd1VCWlJzZWNSVzRqbXJ2QzRMMFZSTzcxQzZLUmdUWm81eFpVX19lLURRckdGYnNOTVhrWk1SWHZUMEV2VkdQbzNTTmZWbzFpLTFMelVwSGd1b09wcFhkai03b0ZEa3J1YlJUOGhyNGVqWkpoNkVMN01mdmdGY2h4U0xXSFRPV2RnNzZRXzhsM0phTVJKS3VIOVd1ckE?oc=5)
 
 ---
 

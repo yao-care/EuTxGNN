@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [La hepatitis B, más cerca de una cura: un nuevo fármaco logra resultados inéditos - National Geographic España](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjR2ZHlxeXc2UnVCNFpfa2lHR2RZNHZNS2NOaW96TzBJY3JvbUhCMVNHRWkyTUFlUE9xS1VJNlAzR1VzNi05LWJxQmtPUy1nd2hwYnB4YUROdWpleU5rVXdJSHRNMEExMlFCWGxzTnQ5eS1Jck5zenZoaEh1VzBRZTluQ2tBTW9EQlZyMUtIUHJpcXhLR2JIUjFiSlA5RFhIaXNWOXlUMkhLXzFhNDdtTQ?oc=5)
 
 2026-06-05 <span class="news-indication-tag">hepatitis</span>
 
 來源：[National Geographic España](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjR2ZHlxeXc2UnVCNFpfa2lHR2RZNHZNS2NOaW96TzBJY3JvbUhCMVNHRWkyTUFlUE9xS1VJNlAzR1VzNi05LWJxQmtPUy1nd2hwYnB4YUROdWpleU5rVXdJSHRNMEExMlFCWGxzTnQ5eS1Jck5zenZoaEh1VzBRZTluQ2tBTW9EQlZyMUtIUHJpcXhLR2JIUjFiSlA5RFhIaXNWOXlUMkhLXzFhNDdtTQ?oc=5)
+
+---
+
+### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
+
+2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 ---
 
