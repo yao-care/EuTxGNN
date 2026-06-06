@@ -54,11 +54,11 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（1 則）
 
-### [Frühe Menopause: Herzerkrankungsrisiko steigt um 40 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJFX1F3NV9aRWNnNXNfSHZsb2lfSXFLam04bmNVRDZoSC1acDFfTHdCOE11dlZnT1RwbElDcWltbFp6R0xNUGF0VVIzYkFTWlFaS212STJOSUc5bUlLSkhNRzdoOGdkMDdBTXZwTzV5c3lBeU02RkJfbmx0eUJBTXF4enVUWTg1M2R4X3FaV2RweWN6UTZELWs4WXptMlNRbndMcDR2eUJDY1VJ?oc=5)
+### [Frauenherzen: Frühe Menopause erhöht Infarktrisiko um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbldjZGpyMGlVSGthWGdzMWJXeE12MXVYQ2g1ZDE2LU5BT3dDejJLYkZWSkhyTExLRG5oSGxzLVpVUENKRlJuVnFuTVhYYmx2UVN1MWhkVHdKTEx3dVJCVVJjX0JsU1JhN2p4NnJOS0Q3bm12TF9GdHpDR3E4ZEFBWmt1c0FfUWozdHZsMmZ1Sy1NYnk2LVlwNHZBNTNrQ01wcFBwZzFvZGVwMnpsdG1YLW1NUE4?oc=5)
 
-2026-06-05 <span class="news-indication-tag">Herzerkrankung</span>
+2026-06-06 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGJFX1F3NV9aRWNnNXNfSHZsb2lfSXFLam04bmNVRDZoSC1acDFfTHdCOE11dlZnT1RwbElDcWltbFp6R0xNUGF0VVIzYkFTWlFaS212STJOSUc5bUlLSkhNRzdoOGdkMDdBTXZwTzV5c3lBeU02RkJfbmx0eUJBTXF4enVUWTg1M2R4X3FaV2RweWN6UTZELWs4WXptMlNRbndMcDR2eUJDY1VJ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbldjZGpyMGlVSGthWGdzMWJXeE12MXVYQ2g1ZDE2LU5BT3dDejJLYkZWSkhyTExLRG5oSGxzLVpVUENKRlJuVnFuTVhYYmx2UVN1MWhkVHdKTEx3dVJCVVJjX0JsU1JhN2p4NnJOS0Q3bm12TF9GdHpDR3E4ZEFBWmt1c0FfUWozdHZsMmZ1Sy1NYnk2LVlwNHZBNTNrQ01wcFBwZzFvZGVwMnpsdG1YLW1NUE4?oc=5)
 
 ---
 

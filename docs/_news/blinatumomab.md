@@ -14,7 +14,7 @@ permalink: /news/blinatumomab/
 ---
 
 <p class="key-answer" data-question="Blinatumomab 有什麼相關新聞？">
-<strong>Blinatumomab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Blinatumomab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/blinatumomab/
 <li>pseudo-von Willebrand disease（94.1%）</li>
 <li>drug-induced osteoporosis（92.7%）</li>
 <li>severe nonproliferative diabetic retinopathy（89.2%）</li>
-<li class="indication-matched">psoriasis（88.9%）<span class="indication-tag">📰 soriasi</span></li>
+<li>psoriasis（88.9%）</li>
 <li>Ledderhose disease（88.4%）</li>
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（87.9%）</li>
 <li>penile fibromatosis（87.8%）</li>
@@ -52,7 +52,15 @@ permalink: /news/blinatumomab/
 <p><a href="{{ '/drugs/blinatumomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
+
+### [Marcher 30 minutes par jour réduirait de 40 % le risque de diabète de type 2 selon une vaste étude](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
+
+2026-06-06 <span class="news-indication-tag">diabète</span>
+
+來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
+
+---
 
 ### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEhGYTA0U2RfS2JPZmxRNHF6U3NVUWVkRUt0REtjWWRfdzFFMmZaaUFFa2dabU5hOUVRUG1DZUkxaVoxQks4WHhuTFhLYUd1RldNTUNiNWhGalBtRUp0QmE5bU1PcmxXX0lTTjlwd3hSUXFrRmlrYjR1YTFmSExzbDhIQVdXc01jNkdEOV9Rd3FTX0dINlFGUlZISlNlaEpTZnZDcEE3NjJySWJYeXMzaHVjNA?oc=5)
 
@@ -70,27 +78,11 @@ permalink: /news/blinatumomab/
 
 ---
 
-### [Diabetes-Medikament senkt Demenzrisiko um 53 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
-
----
-
 ### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
 
 2026-06-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[Vademecum.es](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
-
----
-
-### [Pourquoi est-il primordial de stimuler vos muscles à tout âge ? - Corse Matin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0Y0Wkp4eDNLaVNheHpRTlBRRmlYMG1DY2pfd3Z0Y0Z2MUotbUFYd3UzMWhFTGhCbWJUaUU0MFI0TDVlMmdhYmRoNS0wYTFQcDV3MU1sVndSRkVFU3ppc2xUSnpTNTFiQVVodkE1WUpDQnBXb3hCV0t3TW1QaVRqZUpaYnE4eXk1YVhZME4zdmxNb3k4U28zTGxTaXNBUW5RSjRFVTJuUXdhUzZEOFg3Ti1xeW5rSzM4?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corse Matin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0Y0Wkp4eDNLaVNheHpRTlBRRmlYMG1DY2pfd3Z0Y0Z2MUotbUFYd3UzMWhFTGhCbWJUaUU0MFI0TDVlMmdhYmRoNS0wYTFQcDV3MU1sVndSRkVFU3ppc2xUSnpTNTFiQVVodkE1WUpDQnBXb3hCV0t3TW1QaVRqZUpaYnE4eXk1YVhZME4zdmxNb3k4U28zTGxTaXNBUW5RSjRFVTJuUXdhUzZEOFg3Ti1xeW5rSzM4?oc=5)
 
 ---
 
@@ -131,22 +123,6 @@ permalink: /news/blinatumomab/
 2026-06-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[Segre.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmVJNExDNmtwOFpZTl9iWXp3TTJaRUFoN0Utek9JeW5PTmdhMlZvWDhLUTNzcDVTSWoza1dfT0tCR3BGVG9zb3o5OWJlVy1tRkQ2U1hfeVVfSXlyN2QzSkRBbm9WZVpaaWp1QUFKekt4YU5faTRMOG1oUFgwUTJoSUNXb0JpLU9UN2JmaExwNWpzeTRhanFMTm9vMUlDVVVGY0tlTVQ4Rkl1Z1ZuTHFrVW5SMDVfdHg1Nk1jd00yUQ?oc=5)
-
----
-
-### [Diabetes-Risiko: 20 Gesundheitsmarker schlagen BMI um Längen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
-
-2026-06-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
-
----
-
-### [«È utile contro dermatite e psoriasi», scoperto nel sistema nervoso un interruttore in grado di spegnere il prurito - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHBJSDR2YTlLWldrdnBKVkJYQk9TaXh3cWo1VXpwMVZ0Z0ZWa1VkVW51bFRLVXJmMkVpclVieVRheUstQTNpZ1FxQlFZMWgxSGNybGJ0a0JkaG5UU0F1R2Y1eWZjdjJtM1J3WXZIYkVmZlN6dHprRXQ2Y2VzcnI1Q3V1YU80bW9kdVdldlJhbU9LcDJvSTRTa1BqRE5ZRzlmbm5Md3hzV0tibVFwVUU1WHlxbDVBRzJJeFJF0gG0AUFVX3lxTE1MeDlqM0djQXNhYzdWUEtjbW03OWplUGE5SkFKVW1NNnpzRnNHN3NSYTlMN1VBVUNNVDFnRGFCOVJaSzZDZGg2UGs0OFYxdzNEOHc4SnFrM3NYaEVfR2RZV0g0WGpISUtBeFp2VlYzNnpGbldXcmlGd1lkVEFDQlBhUkhPZUxUQ1QyMERacWFISU1WVzVLQTRJcG9RSmNzcUVhaWExSlprenA4dGMtOFdDUHFlYg?oc=5)
-
-2026-06-04 <span class="news-indication-tag">soriasi</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHBJSDR2YTlLWldrdnBKVkJYQk9TaXh3cWo1VXpwMVZ0Z0ZWa1VkVW51bFRLVXJmMkVpclVieVRheUstQTNpZ1FxQlFZMWgxSGNybGJ0a0JkaG5UU0F1R2Y1eWZjdjJtM1J3WXZIYkVmZlN6dHprRXQ2Y2VzcnI1Q3V1YU80bW9kdVdldlJhbU9LcDJvSTRTa1BqRE5ZRzlmbm5Md3hzV0tibVFwVUU1WHlxbDVBRzJJeFJF0gG0AUFVX3lxTE1MeDlqM0djQXNhYzdWUEtjbW03OWplUGE5SkFKVW1NNnpzRnNHN3NSYTlMN1VBVUNNVDFnRGFCOVJaSzZDZGg2UGs0OFYxdzNEOHc4SnFrM3NYaEVfR2RZV0g0WGpISUtBeFp2VlYzNnpGbldXcmlGd1lkVEFDQlBhUkhPZUxUQ1QyMERacWFISU1WVzVLQTRJcG9RSmNzcUVhaWExSlprenA4dGMtOFdDUHFlYg?oc=5)
 
 ---
 

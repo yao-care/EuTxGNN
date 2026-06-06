@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（13 則）
 
-### [La Región de Murcia registró 75 nuevos diagnósticos de hepatitis C en 2025, la cifra más baja desde 2013 - Europa Press](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVR4VlhLNEYyYkhYam55ZGhwX0tJNHpFX3RlQUk2WFY0U0t2Z2pVb1l5WVpaRXBhV0NIV0lxQ1FmVW1OZ3R0NmhySjl1Si1mY0J3ejJNdFZvWFZoaVVkckV0OEFhOXBMbzYyOVVOUl9zb2VjU3lZRkxKeTdKT0V5VFl6NzR3ODE5Y2J4ZjNmUkVmU0Ryc0k2MFVRbGJ5dGxoSzdaLUJrdFFiYmtzZWlSMjI4WXRJcDU3aUZ2M05jVkN4QnExc2Y4anhDaVpTYXdMaXpJdHNuellzUQ?oc=5)
+### [La Región de Murcia registró 75 nuevos diagnósticos de hepatitis C en 2025, la cifra más baja desde 2013 - La Verdad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFRjUlgtNkZiNktNVTFwbE5jZEFsZy1UdDJSd0NJY05GWDRaZGxjLUhZVDg0N0JLVWFVaVhqVW1QOXNGaHFwMEs2a0tSRU9EXzZCeC0yU1JYVDRlclFvdW5sQVp3bThIMi11aEdBNWtBbE5UaUVrV29xSDlpN1ZHbEpmVGxjZmVZMnBVQzMwTVItaURXT0NmdUdhT3gtX052UlRKamZZMnNlX3dNQlZZN9IBtgFBVV95cUxQVEdtaDBuUXV4dmRjVnJGRlJXdEVUV09SOXVweFAyM1BwRjVHallxRk5Ic2FZaHhjcHc0OW4yT183ZWJvRzFUeTR3U3kzYkluTVBHZWNGc1ZlaU9NbTB2Z1R3Z0ZqdUpsOVE5T09fZHI4QzJUX0J2RDZjenJQZGhGQm80bVhrUVFLTEM4SmlWNzVUWXVTV1FySGs4XzdCTXh4VWhxbWxFOWZBNGo1bGRpNXprQWQwQQ?oc=5)
 
 2026-06-06 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Europa Press](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVR4VlhLNEYyYkhYam55ZGhwX0tJNHpFX3RlQUk2WFY0U0t2Z2pVb1l5WVpaRXBhV0NIV0lxQ1FmVW1OZ3R0NmhySjl1Si1mY0J3ejJNdFZvWFZoaVVkckV0OEFhOXBMbzYyOVVOUl9zb2VjU3lZRkxKeTdKT0V5VFl6NzR3ODE5Y2J4ZjNmUkVmU0Ryc0k2MFVRbGJ5dGxoSzdaLUJrdFFiYmtzZWlSMjI4WXRJcDU3aUZ2M05jVkN4QnExc2Y4anhDaVpTYXdMaXpJdHNuellzUQ?oc=5)
+來源：[La Verdad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFRjUlgtNkZiNktNVTFwbE5jZEFsZy1UdDJSd0NJY05GWDRaZGxjLUhZVDg0N0JLVWFVaVhqVW1QOXNGaHFwMEs2a0tSRU9EXzZCeC0yU1JYVDRlclFvdW5sQVp3bThIMi11aEdBNWtBbE5UaUVrV29xSDlpN1ZHbEpmVGxjZmVZMnBVQzMwTVItaURXT0NmdUdhT3gtX052UlRKamZZMnNlX3dNQlZZN9IBtgFBVV95cUxQVEdtaDBuUXV4dmRjVnJGRlJXdEVUV09SOXVweFAyM1BwRjVHallxRk5Ic2FZaHhjcHc0OW4yT183ZWJvRzFUeTR3U3kzYkluTVBHZWNGc1ZlaU9NbTB2Z1R3Z0ZqdUpsOVE5T09fZHI4QzJUX0J2RDZjenJQZGhGQm80bVhrUVFLTEM4SmlWNzVUWXVTV1FySGs4XzdCTXh4VWhxbWxFOWZBNGo1bGRpNXprQWQwQQ?oc=5)
 
 ---
 
-### [Los científicos coinciden: estos son los hábitos que debes seguir por la mañana para reducir el riesgo de deme - Diario AS](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONVA5bzJpdy1TQ1JnN1hWYTVNa1p6eFBVMEVGWW1CRFZHU2EtWEphTllxM1E4UTlpRG9RbmZMMlpfNjByeDlhUlNxQ3JlTzkxdGVmQ1JhVkxSbkdSVWNRWEdEc1VIN05feTdqNjhwc296OFY0ZzNDQTFGVXo5SndyZjBsdmZQVkRKeWRsSTJBOVFBM3FUSG5iMU04VDRSTnJZQTRBX01jWEZUOHlTTzUyRml6QzJadzg4RUxFd1JkNjd4YUkzNmNRVzVidmkwU2d5d2dGcld4YWs5VHpjOGtzdEpvR0RNZU9nTmRJ0gH_AUFVX3lxTE5pWTF0V19BR05yMkd0Z25sLWpvTDlyUU00bmJObHVxOXE0TG1jeTFTSllicUV6ajFGU3Y4Rm0xNF9lV1RKVGJ4cDF1QWlRdE5FS015X2ZYcUVtTllsSk85cFUyQUNkaFl0MlJBSTd1a014MG5hV0F2MTlmdVFvQk92NXF6WjhBUzA0OXRRNl9yZHR2U2dFbmR4SUZFd3VZa2FCN3RhWklOVG5DZXBxN0t3am5jclkwTmJwSU9rb3R5TWdOUlRPd0RrQTQwSzhnWFkzWmc5enNVem9wS0J4UE5WNUFUYjUtTndGcHNXdmZtMXBsa2t0R1NGWk5GUE5sOA?oc=5)
+### [Investigadores chinos desmontan la recomendación de la OMS: se necesitan 10 horas semanales de ejercicio](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
 
 2026-06-06 <span class="news-indication-tag">MS</span>
 
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONVA5bzJpdy1TQ1JnN1hWYTVNa1p6eFBVMEVGWW1CRFZHU2EtWEphTllxM1E4UTlpRG9RbmZMMlpfNjByeDlhUlNxQ3JlTzkxdGVmQ1JhVkxSbkdSVWNRWEdEc1VIN05feTdqNjhwc296OFY0ZzNDQTFGVXo5SndyZjBsdmZQVkRKeWRsSTJBOVFBM3FUSG5iMU04VDRSTnJZQTRBX01jWEZUOHlTTzUyRml6QzJadzg4RUxFd1JkNjd4YUkzNmNRVzVidmkwU2d5d2dGcld4YWs5VHpjOGtzdEpvR0RNZU9nTmRJ0gH_AUFVX3lxTE5pWTF0V19BR05yMkd0Z25sLWpvTDlyUU00bmJObHVxOXE0TG1jeTFTSllicUV6ajFGU3Y4Rm0xNF9lV1RKVGJ4cDF1QWlRdE5FS015X2ZYcUVtTllsSk85cFUyQUNkaFl0MlJBSTd1a014MG5hV0F2MTlmdVFvQk92NXF6WjhBUzA0OXRRNl9yZHR2U2dFbmR4SUZFd3VZa2FCN3RhWklOVG5DZXBxN0t3am5jclkwTmJwSU9rb3R5TWdOUlRPd0RrQTQwSzhnWFkzWmc5enNVem9wS0J4UE5WNUFUYjUtTndGcHNXdmZtMXBsa2t0R1NGWk5GUE5sOA?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
+
+---
+
+### [GLP-1 senkt Demenzrisiko: 53 % weniger bei Typ-2 und was Unternehmen wissen müssen - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQaklvRFpoUjRYbE9IcWUyWXhfNDBMeGN0MjNSV2lnZ0h6MkM5ejRMcld4YlQ5SVdJSkFhcUNCRmotVU9SZldzQ2RNcXpxUWVTLXBLTXh1TnV0YmY2UGNsQW9nT3JhUmxSLTVZNGp6RVJ3VFQtN21neDZkQjl4eGFibnFVUlczai1fRDRJNkZpQWhKSTdReF9ocnQ5WTFuRF9SUkpLWm1iLTFFeDZtZTZJdDhB?oc=5)
+
+2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQaklvRFpoUjRYbE9IcWUyWXhfNDBMeGN0MjNSV2lnZ0h6MkM5ejRMcld4YlQ5SVdJSkFhcUNCRmotVU9SZldzQ2RNcXpxUWVTLXBLTXh1TnV0YmY2UGNsQW9nT3JhUmxSLTVZNGp6RVJ3VFQtN21neDZkQjl4eGFibnFVUlczai1fRDRJNkZpQWhKSTdReF9ocnQ5WTFuRF9SUkpLWm1iLTFFeDZtZTZJdDhB?oc=5)
 
 ---
 
@@ -86,14 +94,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Diabetes-Medikament senkt Demenzrisiko um 53 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
-
----
-
 ### [Hautärztin klärt auf – Verhindert Sonnencreme die Vitamin-D-Bildung?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
 
 2026-06-05 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
@@ -102,19 +102,19 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Why autism symptoms can ease during a fever — and how to mimic it - Boing Boing](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M5WVc2RGpxR3djdGVLRUVyVjdtX3NSMjZ2eFpSUFl3Wk9TWkUyWjNkZWY0YkRqTHBnNFpXNk5mSXl4YWJtRFJWZk0wLUVoNkVfVzhreUc3S2dRVGxQYi1Gbm9JcUZpZ3hRa2g5SXFtMjRLTzdEbUU2ZTZzOURCT0g4aVVWbEdSTkFqUWVYakNHTWVUM25EQ2JsSnB4TUdFWWxmWtIBqgFBVV95cUxNeGFXYUZiVXNUbzhRTmNVbGZkMjBNSWlMc1I0S3pRd3pndVNjLWw1Rlp2OFM0cERrUjZjVzRHRFNrN25LeDBmMERZNFhaQVFzOHc2LXBUYkhJX2k2STJHWWNwZWhmT21WU1BUU3RoRWtBVFlaRVdnZVBjbWxrTFpvWFJ2cW1qVVcyeDY3VVF1WVdRSFdud2daLUxfRTBtVk15MnVVUHJFNjVuQQ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">MS</span>
+
+來源：[Boing Boing](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M5WVc2RGpxR3djdGVLRUVyVjdtX3NSMjZ2eFpSUFl3Wk9TWkUyWjNkZWY0YkRqTHBnNFpXNk5mSXl4YWJtRFJWZk0wLUVoNkVfVzhreUc3S2dRVGxQYi1Gbm9JcUZpZ3hRa2g5SXFtMjRLTzdEbUU2ZTZzOURCT0g4aVVWbEdSTkFqUWVYakNHTWVUM25EQ2JsSnB4TUdFWWxmWtIBqgFBVV95cUxNeGFXYUZiVXNUbzhRTmNVbGZkMjBNSWlMc1I0S3pRd3pndVNjLWw1Rlp2OFM0cERrUjZjVzRHRFNrN25LeDBmMERZNFhaQVFzOHc2LXBUYkhJX2k2STJHWWNwZWhmT21WU1BUU3RoRWtBVFlaRVdnZVBjbWxrTFpvWFJ2cW1qVVcyeDY3VVF1WVdRSFdud2daLUxfRTBtVk15MnVVUHJFNjVuQQ?oc=5)
+
+---
+
 ### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
 2026-06-05 <span class="news-indication-tag">hepatitis</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
-
----
-
-### [Künstliche Intelligenz als «Game Changer» in der Entwicklung neuer Impfstoffe](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUI2VzlWc0ZUN3V2U1l3eGx1R3dQbEtVb0c1V0ktVkhQOHl5VHFOMGd4M2twWTRWY1FlOTN2VElzMFFSdkVoN2ZGNmpiS19nVVVSeTFXUk1iUHFyV2xjODJUMC1tcTRabU10VHJjTElUX0RtYmJhcjlIdEtsZm1kWFFackxXYzd3eHhYZ3Brd2FfMXVicVY4cFVfR2FCZmFHUnZRamJRbXRkbm9ULUM5NjZRcm41SjUyWmJN?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span>
-
-來源：[Watson](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUI2VzlWc0ZUN3V2U1l3eGx1R3dQbEtVb0c1V0ktVkhQOHl5VHFOMGd4M2twWTRWY1FlOTN2VElzMFFSdkVoN2ZGNmpiS19nVVVSeTFXUk1iUHFyV2xjODJUMC1tcTRabU10VHJjTElUX0RtYmJhcjlIdEtsZm1kWFFackxXYzd3eHhYZ3Brd2FfMXVicVY4cFVfR2FCZmFHUnZRamJRbXRkbm9ULUM5NjZRcm41SjUyWmJN?oc=5)
 
 ---
 
@@ -142,14 +142,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Die unsichtbare Todesursache](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
-
----
-
 ### [An avocado a day may help control blood sugar, study claims - Medical News Today](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzc5V2NPak5rR05WMlN2SlFUNUhpSEJCaEJLTDJxb2RfOUZSZEhhNWJaLXlHbVNpVXpUeXFNSnFBeUVoWmJtVnd4SzhnS18tRUJiRFZBUFpBUFVQQmhlc0FWQ1FjU19PTHU2UThkOHVERG83VHZOLTBKMDNOX2d3ZXRHdE1iU1NpQm5GOU05NHI?oc=5)
 
 2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -163,30 +155,6 @@ permalink: /news/teriflunomide/
 2026-06-04 <span class="news-indication-tag">MS</span>
 
 來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHB4TUtXcEpRRHRISkdCd3VnTFZKNDhuOFgzU1FxUVJjVFJvNTYxTDgxalFiTFhXYjh5d052Y25QMXZjT1hxTjNNQjhseW83NFNCdlQtNW1fTVZMVWJOcnNIYlBzcXpNUFFlVGtUeW0wMEZBeWxxWmFhT2FhYm5VMDgxUXk?oc=5)
-
----
-
-### [“Ahora… ¡Al abordaje!”, lema de la campaña 2026 del Día Mundial de la Esclerosis Múltiple - La Actualidad](https://news.google.com/rss/articles/CBMizAFBVV95cUxPTEsxZzBWcUhIRkZFR1otVHBDeWRpakFtczdPeWVNTzgyUEIzZ0M3TlZLX082d1lfRmowT3BHbGxyaVpoUTgxV2VhVDdqVHVQQTZ5RlNfM1FkS3VGRWpRTEN6VEFYMFBlOU9OOXZDYUdXMDZkREp2NDZYa2ZENE1McEZYb21EVGNnNWJpakZpVzJkRHJwb1pFV25QRkNyT3doNnpHdVZ2bGlKTWg0c0VsalM0R09Oa2ZyN1Nob2h2SmxVRmYzOXhEOEJ3TzA?oc=5)
-
-2026-06-04 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[La Actualidad](https://news.google.com/rss/articles/CBMizAFBVV95cUxPTEsxZzBWcUhIRkZFR1otVHBDeWRpakFtczdPeWVNTzgyUEIzZ0M3TlZLX082d1lfRmowT3BHbGxyaVpoUTgxV2VhVDdqVHVQQTZ5RlNfM1FkS3VGRWpRTEN6VEFYMFBlOU9OOXZDYUdXMDZkREp2NDZYa2ZENE1McEZYb21EVGNnNWJpakZpVzJkRHJwb1pFV25QRkNyT3doNnpHdVZ2bGlKTWg0c0VsalM0R09Oa2ZyN1Nob2h2SmxVRmYzOXhEOEJ3TzA?oc=5)
-
----
-
-### [Journal retracts study linking hepatitis vaccine to autism that was included in CDC review - Retraction Watch](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTJoYjYxWUhvMEF0cVA0blZvY21iMDluQ0Y4NUc5NnFtdUxiMXVhMzVCU2NZVFVPaXFiVm9ocVlvMnFreFprZ0hjck1xanN4VE8xOFA3YWtiR3h6azJVdlNFTk9SWnBiMnZ3ekUwbkc0ZDhJcWxTbEkzazV6MDVybjNGRDN0TTc2NHRSUFJ5a3Bhczd2TVJOR0dlN1k0eHlmQjVvN3lWS0FiQWN0dHhyODdrTVFwN3lBejlCT3Z0RzhtUTNvQ01xU1NB?oc=5)
-
-2026-06-04 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Retraction Watch](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTJoYjYxWUhvMEF0cVA0blZvY21iMDluQ0Y4NUc5NnFtdUxiMXVhMzVCU2NZVFVPaXFiVm9ocVlvMnFreFprZ0hjck1xanN4VE8xOFA3YWtiR3h6azJVdlNFTk9SWnBiMnZ3ekUwbkc0ZDhJcWxTbEkzazV6MDVybjNGRDN0TTc2NHRSUFJ5a3Bhczd2TVJOR0dlN1k0eHlmQjVvN3lWS0FiQWN0dHhyODdrTVFwN3lBejlCT3Z0RzhtUTNvQ01xU1NB?oc=5)
-
----
-
-### ["Breaking New Ground": Man Reveals Results After Injecting Himself With Unregulated Tanning Peptide Melanotan 2 - Bored Panda](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOei1qcnJVZUhMZTFWNVhHekx2Y2xSZklOQkhSZGp3UGRxWGpZTXd6WjNZelk4SzdlMElmMXEtMFlVUThYNzN3N1FidTJGSU1xTnY3cVR3NkxmNURRdzktalB1SmhMS1dycGZCanV3T3VOWG9BNTZPRll6NXpZdVFBWHA5VnZzbEo2b3p3?oc=5)
-
-2026-06-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOei1qcnJVZUhMZTFWNVhHekx2Y2xSZklOQkhSZGp3UGRxWGpZTXd6WjNZelk4SzdlMElmMXEtMFlVUThYNzN3N1FidTJGSU1xTnY3cVR3NkxmNURRdzktalB1SmhMS1dycGZCanV3T3VOWG9BNTZPRll6NXpZdVFBWHA5VnZzbEo2b3p3?oc=5)
 
 ---
 

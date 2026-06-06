@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abacavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [La Región de Murcia registró 75 nuevos diagnósticos de hepatitis C en 2025, la cifra más baja desde 2013 - Europa Press](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVR4VlhLNEYyYkhYam55ZGhwX0tJNHpFX3RlQUk2WFY0U0t2Z2pVb1l5WVpaRXBhV0NIV0lxQ1FmVW1OZ3R0NmhySjl1Si1mY0J3ejJNdFZvWFZoaVVkckV0OEFhOXBMbzYyOVVOUl9zb2VjU3lZRkxKeTdKT0V5VFl6NzR3ODE5Y2J4ZjNmUkVmU0Ryc0k2MFVRbGJ5dGxoSzdaLUJrdFFiYmtzZWlSMjI4WXRJcDU3aUZ2M05jVkN4QnExc2Y4anhDaVpTYXdMaXpJdHNuellzUQ?oc=5)
+### [La Región de Murcia registró 75 nuevos diagnósticos de hepatitis C en 2025, la cifra más baja desde 2013 - La Verdad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFRjUlgtNkZiNktNVTFwbE5jZEFsZy1UdDJSd0NJY05GWDRaZGxjLUhZVDg0N0JLVWFVaVhqVW1QOXNGaHFwMEs2a0tSRU9EXzZCeC0yU1JYVDRlclFvdW5sQVp3bThIMi11aEdBNWtBbE5UaUVrV29xSDlpN1ZHbEpmVGxjZmVZMnBVQzMwTVItaURXT0NmdUdhT3gtX052UlRKamZZMnNlX3dNQlZZN9IBtgFBVV95cUxQVEdtaDBuUXV4dmRjVnJGRlJXdEVUV09SOXVweFAyM1BwRjVHallxRk5Ic2FZaHhjcHc0OW4yT183ZWJvRzFUeTR3U3kzYkluTVBHZWNGc1ZlaU9NbTB2Z1R3Z0ZqdUpsOVE5T09fZHI4QzJUX0J2RDZjenJQZGhGQm80bVhrUVFLTEM4SmlWNzVUWXVTV1FySGs4XzdCTXh4VWhxbWxFOWZBNGo1bGRpNXprQWQwQQ?oc=5)
 
 2026-06-06 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Europa Press](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVR4VlhLNEYyYkhYam55ZGhwX0tJNHpFX3RlQUk2WFY0U0t2Z2pVb1l5WVpaRXBhV0NIV0lxQ1FmVW1OZ3R0NmhySjl1Si1mY0J3ejJNdFZvWFZoaVVkckV0OEFhOXBMbzYyOVVOUl9zb2VjU3lZRkxKeTdKT0V5VFl6NzR3ODE5Y2J4ZjNmUkVmU0Ryc0k2MFVRbGJ5dGxoSzdaLUJrdFFiYmtzZWlSMjI4WXRJcDU3aUZ2M05jVkN4QnExc2Y4anhDaVpTYXdMaXpJdHNuellzUQ?oc=5)
+來源：[La Verdad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFRjUlgtNkZiNktNVTFwbE5jZEFsZy1UdDJSd0NJY05GWDRaZGxjLUhZVDg0N0JLVWFVaVhqVW1QOXNGaHFwMEs2a0tSRU9EXzZCeC0yU1JYVDRlclFvdW5sQVp3bThIMi11aEdBNWtBbE5UaUVrV29xSDlpN1ZHbEpmVGxjZmVZMnBVQzMwTVItaURXT0NmdUdhT3gtX052UlRKamZZMnNlX3dNQlZZN9IBtgFBVV95cUxQVEdtaDBuUXV4dmRjVnJGRlJXdEVUV09SOXVweFAyM1BwRjVHallxRk5Ic2FZaHhjcHc0OW4yT183ZWJvRzFUeTR3U3kzYkluTVBHZWNGc1ZlaU9NbTB2Z1R3Z0ZqdUpsOVE5T09fZHI4QzJUX0J2RDZjenJQZGhGQm80bVhrUVFLTEM4SmlWNzVUWXVTV1FySGs4XzdCTXh4VWhxbWxFOWZBNGo1bGRpNXprQWQwQQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/abacavir/
 2026-06-05 <span class="news-indication-tag">hepatitis</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
-
----
-
-### [Journal retracts study linking hepatitis vaccine to autism that was included in CDC review - Retraction Watch](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTJoYjYxWUhvMEF0cVA0blZvY21iMDluQ0Y4NUc5NnFtdUxiMXVhMzVCU2NZVFVPaXFiVm9ocVlvMnFreFprZ0hjck1xanN4VE8xOFA3YWtiR3h6azJVdlNFTk9SWnBiMnZ3ekUwbkc0ZDhJcWxTbEkzazV6MDVybjNGRDN0TTc2NHRSUFJ5a3Bhczd2TVJOR0dlN1k0eHlmQjVvN3lWS0FiQWN0dHhyODdrTVFwN3lBejlCT3Z0RzhtUTNvQ01xU1NB?oc=5)
-
-2026-06-04 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Retraction Watch](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTJoYjYxWUhvMEF0cVA0blZvY21iMDluQ0Y4NUc5NnFtdUxiMXVhMzVCU2NZVFVPaXFiVm9ocVlvMnFreFprZ0hjck1xanN4VE8xOFA3YWtiR3h6azJVdlNFTk9SWnBiMnZ3ekUwbkc0ZDhJcWxTbEkzazV6MDVybjNGRDN0TTc2NHRSUFJ5a3Bhczd2TVJOR0dlN1k0eHlmQjVvN3lWS0FiQWN0dHhyODdrTVFwN3lBejlCT3Z0RzhtUTNvQ01xU1NB?oc=5)
 
 ---
 

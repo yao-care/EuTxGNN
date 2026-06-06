@@ -14,7 +14,7 @@ permalink: /news/onasemnogene-abeparvovec/
 ---
 
 <p class="key-answer" data-question="Onasemnogene Abeparvovec 有什麼相關新聞？">
-<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/onasemnogene-abeparvovec/
 <p><a href="{{ '/drugs/onasemnogene-abeparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（29 則）
 
-### [Un nuevo tratamiento en cáncer de páncreas aumenta la supervivencia y reduce el riesgo de muerte - Salud a Diario](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUtHRGx3NktWdU8wUTN3UFFBRkxMU3hSQ2hoVl82cVFudUgtNWJ3NHI4bEdaWmpRbFlyeHhMbFVDVXpYcG83dzlVTVVIQUxaUkFESjd3bU5Tb1JzOFlfQ0otT28tWll2N21uOVJYYVlrVzBXcUhMbmw3QnVmRXJiazNONHI3WWtnM1g0SWtWdzkzbkhYR3pXVzRwNmYyWHpmc0ozWUUzeDV4eDlSQmZrTlMwb2F4RWlrWTR0cE5wQVc2ZVQzcVZ6cllSNkJRa1dI?oc=5)
+### [Marcher 30 minutes par jour réduirait de 40 % le risque de diabète de type 2 selon une vaste étude](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
+
+2026-06-06 <span class="news-indication-tag">diabète</span>
+
+來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
+
+---
+
+### [Un nuevo fármaco oral duplica la supervivencia frente a quimioterapia en cáncer pancreático metastásico - Andalucía Información](https://news.google.com/rss/articles/CBMigAJBVV95cUxQSWxEdHM3QnRJTnhkQk1lam1jcEdCUGc0M0lSZHAtcWtrUVc2YnhONUZ1WmxLeEJqeFVacjdTRzJrWTkydE5ZS3huUkZBbWxIcl84S2x3WXY4cXBaSTV2Rng0MjdKSzFMcFF2Q3hfNXZaelVPTlItd25RSXF2V2wtdkxIMEt1QUtYTTZ5bk1CbDdza2tiQ3lvcXlwNU9BNEtIQlhMc2ZrOEYwd3lWVlNBeUFhdDhQWWV2XzBNRWswS3hXTTJadlktOGJuSzJ0MHFSaFJnT19QdDl0dWNySkNHeGF1Um9CbVNKM3U2YXdMd3JpMFROT25WN2JCbEY3OGxV0gGGAkFVX3lxTE1KVGZSeGRMcUJMdU9CUDBmUVNlUDR0NHN0TmdhYl9IdDF6QktxQVNnRl9XS2dGYjMxUVlYc1ZSb1hScnlUR1NHN1loQmZZell2TFVjUEZ6YU9JRklxWFUxdkpSVW9GVGZ3bWp2RjhteTFPR29TXy1HdXRRRFZGYlZuUjluMVk2TFM2dzB3V0lXVW8yaDlacHVDT1diQS1zb0hQWFFJRmpZSjl4U05GQ2xCMFlmQldkaGNKbEttWjVPaTdNSlQ5WF90R2FnVk1Zakl3SXgxLTZmSFVhQ3JuN0NlQ2JoUGU4SUJ1NTVLSWppUUo0LU5YcnYxRzBKMWpYc2tMbmJJeEE?oc=5)
 
 2026-06-06 <span class="news-indication-tag">cancer</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUtHRGx3NktWdU8wUTN3UFFBRkxMU3hSQ2hoVl82cVFudUgtNWJ3NHI4bEdaWmpRbFlyeHhMbFVDVXpYcG83dzlVTVVIQUxaUkFESjd3bU5Tb1JzOFlfQ0otT28tWll2N21uOVJYYVlrVzBXcUhMbmw3QnVmRXJiazNONHI3WWtnM1g0SWtWdzkzbkhYR3pXVzRwNmYyWHpmc0ozWUUzeDV4eDlSQmZrTlMwb2F4RWlrWTR0cE5wQVc2ZVQzcVZ6cllSNkJRa1dI?oc=5)
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMigAJBVV95cUxQSWxEdHM3QnRJTnhkQk1lam1jcEdCUGc0M0lSZHAtcWtrUVc2YnhONUZ1WmxLeEJqeFVacjdTRzJrWTkydE5ZS3huUkZBbWxIcl84S2x3WXY4cXBaSTV2Rng0MjdKSzFMcFF2Q3hfNXZaelVPTlItd25RSXF2V2wtdkxIMEt1QUtYTTZ5bk1CbDdza2tiQ3lvcXlwNU9BNEtIQlhMc2ZrOEYwd3lWVlNBeUFhdDhQWWV2XzBNRWswS3hXTTJadlktOGJuSzJ0MHFSaFJnT19QdDl0dWNySkNHeGF1Um9CbVNKM3U2YXdMd3JpMFROT25WN2JCbEY3OGxV0gGGAkFVX3lxTE1KVGZSeGRMcUJMdU9CUDBmUVNlUDR0NHN0TmdhYl9IdDF6QktxQVNnRl9XS2dGYjMxUVlYc1ZSb1hScnlUR1NHN1loQmZZell2TFVjUEZ6YU9JRklxWFUxdkpSVW9GVGZ3bWp2RjhteTFPR29TXy1HdXRRRFZGYlZuUjluMVk2TFM2dzB3V0lXVW8yaDlacHVDT1diQS1zb0hQWFFJRmpZSjl4U05GQ2xCMFlmQldkaGNKbEttWjVPaTdNSlQ5WF90R2FnVk1Zakl3SXgxLTZmSFVhQ3JuN0NlQ2JoUGU4SUJ1NTVLSWppUUo0LU5YcnYxRzBKMWpYc2tMbmJJeEE?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/onasemnogene-abeparvovec/
 2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0RiengwUGtBbGlHX3NsbGUwd2ZkUDkwQ1B5YUQzaDlHWTR3MHd4eS1pTERZbDhQdnRtUTZqd1ZTZGw0cktvZFFNdVM4U1hwdzF2eEZsbW43bzB4LVFEaWhqV0NfVFZGdmhVYTBzV2NFeDhsaXJhNXEwVVo3R2JTRUU4dzdueGdWT2hSM2VwT0EzLUFfNm9qOXpfYjljaTR1eXRfQW9OZUNGbTJ0SWdTMWgwNEx5QWhyejFUc3VIVGlOUFhzS0NYdXJORG4?oc=5)
+
+---
+
+### [VIDEO. Cancer de la prostate : cette technologie innovante qui permet de traiter la maladie sans opération - France 3 Régions](https://news.google.com/rss/articles/CBMirAJBVV95cUxPOUQ5N2ZlVzQ2czdsU3JDRG9wOUlreEFQUnF6RG1jSUVzajJ4QnR0YkpjM1IxM1IySDhkZ2pfTGhLR3k5ZjRlVGZFYlhLS2hXM0hoNmJTZ0lYMWFHQm9BdEtnVTV2dngtSThqVjZWNkt2bnpWLVRIN0JMbmoxM2tFZmVwcmVydVYtb2JhNlpUX2JxNUdFOFZoVE9STnQ4Vm4wNkd1a1p0VlQxc0ozYlVJM2lRUnhOS3RYQTRUVW1tRjlSSVphdGo4S1NsZkhqdjlvLV9WTjY0alROckc2ajR5UDl3c2s0V2Z6UTNuNTBKZ0o3SVBoNkZIemtqOGVvY2ZRUjg5Ul9yM2k5TDNveHEtU0lqMmdBV012eWpqYlptbXJkZFJSaVdoRVROMHk?oc=5)
+
+2026-06-06 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirAJBVV95cUxPOUQ5N2ZlVzQ2czdsU3JDRG9wOUlreEFQUnF6RG1jSUVzajJ4QnR0YkpjM1IxM1IySDhkZ2pfTGhLR3k5ZjRlVGZFYlhLS2hXM0hoNmJTZ0lYMWFHQm9BdEtnVTV2dngtSThqVjZWNkt2bnpWLVRIN0JMbmoxM2tFZmVwcmVydVYtb2JhNlpUX2JxNUdFOFZoVE9STnQ4Vm4wNkd1a1p0VlQxc0ozYlVJM2lRUnhOS3RYQTRUVW1tRjlSSVphdGo4S1NsZkhqdjlvLV9WTjY0alROckc2ajR5UDl3c2s0V2Z6UTNuNTBKZ0o3SVBoNkZIemtqOGVvY2ZRUjg5Ul9yM2k5TDNveHEtU0lqMmdBV012eWpqYlptbXJkZFJSaVdoRVROMHk?oc=5)
 
 ---
 
@@ -110,19 +126,19 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Diabetes-Medikament senkt Demenzrisiko um 53 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
-
----
-
 ### [Hautärztin klärt auf – Verhindert Sonnencreme die Vitamin-D-Bildung?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
 
 2026-06-05 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[Heute](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
+
+---
+
+### [El doctor Javier Cortés Castán, reconocido entre los «2026 Giants of Cancer Care»](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
+
+2026-06-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
 
 ---
 
@@ -198,14 +214,6 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Pourquoi est-il primordial de stimuler vos muscles à tout âge ? - Corse Matin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0Y0Wkp4eDNLaVNheHpRTlBRRmlYMG1DY2pfd3Z0Y0Z2MUotbUFYd3UzMWhFTGhCbWJUaUU0MFI0TDVlMmdhYmRoNS0wYTFQcDV3MU1sVndSRkVFU3ppc2xUSnpTNTFiQVVodkE1WUpDQnBXb3hCV0t3TW1QaVRqZUpaYnE4eXk1YVhZME4zdmxNb3k4U28zTGxTaXNBUW5RSjRFVTJuUXdhUzZEOFg3Ti1xeW5rSzM4?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corse Matin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0Y0Wkp4eDNLaVNheHpRTlBRRmlYMG1DY2pfd3Z0Y0Z2MUotbUFYd3UzMWhFTGhCbWJUaUU0MFI0TDVlMmdhYmRoNS0wYTFQcDV3MU1sVndSRkVFU3ppc2xUSnpTNTFiQVVodkE1WUpDQnBXb3hCV0t3TW1QaVRqZUpaYnE4eXk1YVhZME4zdmxNb3k4U28zTGxTaXNBUW5RSjRFVTJuUXdhUzZEOFg3Ti1xeW5rSzM4?oc=5)
-
----
-
 ### [Diabetes: Pflanzenstoff verbessert Darmflora & Glukosestoffwechsel](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR01oXy1Ka2RWbHZSMU9kWTdUU3F2T085bzNJOENmV2J2dVFvWlkxcnduTElBM1Y1MUJYTUpMWnY5LTZBR0lIVWxLNVJWbjAzSG9xOTNKeHkyRTRmOE4tdGpPUEhyTFhZbVBOV20xRFh5eHloZ0F1Z1hOazJQaVRxNFhVV0ZkWmdIQkhTcGxvMC1ScEFjRjVjOXlaRUlUTFgzUEcwTmFVeVZxSVFOTmpqUE1QbVo4cFkyRHN3SnNjd1hudw?oc=5)
 
 2026-06-05 <span class="news-indication-tag">diabetes</span>
@@ -262,43 +270,19 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
+### [Contre les maladies de la peau, le CHU de Nice lance un dispositif unique en France](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcG1aWm02QkdLWWYzQVdPMzFKLXItVFdHTktoWkFZclJLeXowU2pweTZJWXRSM1FWSDgwOVhTVTYwdWNaanBvd3ZvYTFuRE1yOGExUFNwckp0SVVvQ2dvS2pocVlMdTdTUm5PSFF1eUJDQmtZSWdSZjNXZWJIQUZHWXZZU0syaDlvWnowV0NMQ2h1aWJSdk50Q1lLTlEwYmxOQ1JHX3NRNjg3cG5LNUIyM3JtbUlXLWxOazhWLWpRN2RGd1h1MXBVSHhRNkxWeTl3bWs2QnJFY2hNbk5MT292TlNNbGw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">cancer</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcG1aWm02QkdLWWYzQVdPMzFKLXItVFdHTktoWkFZclJLeXowU2pweTZJWXRSM1FWSDgwOVhTVTYwdWNaanBvd3ZvYTFuRE1yOGExUFNwckp0SVVvQ2dvS2pocVlMdTdTUm5PSFF1eUJDQmtZSWdSZjNXZWJIQUZHWXZZU0syaDlvWnowV0NMQ2h1aWJSdk50Q1lLTlEwYmxOQ1JHX3NRNjg3cG5LNUIyM3JtbUlXLWxOazhWLWpRN2RGd1h1MXBVSHhRNkxWeTl3bWs2QnJFY2hNbk5MT292TlNNbGw?oc=5)
+
+---
+
 ### [El IRBLleida contribuye a mejorar el tratamiento precoz de la diabetes](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmVJNExDNmtwOFpZTl9iWXp3TTJaRUFoN0Utek9JeW5PTmdhMlZvWDhLUTNzcDVTSWoza1dfT0tCR3BGVG9zb3o5OWJlVy1tRkQ2U1hfeVVfSXlyN2QzSkRBbm9WZVpaaWp1QUFKekt4YU5faTRMOG1oUFgwUTJoSUNXb0JpLU9UN2JmaExwNWpzeTRhanFMTm9vMUlDVVVGY0tlTVQ4Rkl1Z1ZuTHFrVW5SMDVfdHg1Nk1jd00yUQ?oc=5)
 
 2026-06-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[Segre.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmVJNExDNmtwOFpZTl9iWXp3TTJaRUFoN0Utek9JeW5PTmdhMlZvWDhLUTNzcDVTSWoza1dfT0tCR3BGVG9zb3o5OWJlVy1tRkQ2U1hfeVVfSXlyN2QzSkRBbm9WZVpaaWp1QUFKekt4YU5faTRMOG1oUFgwUTJoSUNXb0JpLU9UN2JmaExwNWpzeTRhanFMTm9vMUlDVVVGY0tlTVQ4Rkl1Z1ZuTHFrVW5SMDVfdHg1Nk1jd00yUQ?oc=5)
-
----
-
-### [Un verre par jour n'est pas sans danger — ce que 843 études disent vraiment sur l'alcool et le cancer](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGNnSHg3MVY1TEpPS3ZjUzAxZ0RMVk9TNGtVeU40SlMxR3RRTXk4ZlRBcnpmR0JSdFJ1STdtOXZCUWdUUlhidHhnZE5zblVPSEQ4U1RBblo0RHB5WllqM0FQdXRZNjJDTjI5eUUwUk9ENktEWVBob2R2R0ZZVUQ4M19tRzZLdkVzTUxfc0dYVWM2X0dvUUJiaGI2Z0pmTmFwOW02Tnpfc3JVekJ1bFVUclotb1B0TXFKdGxTUEpn?oc=5)
-
-2026-06-04 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGNnSHg3MVY1TEpPS3ZjUzAxZ0RMVk9TNGtVeU40SlMxR3RRTXk4ZlRBcnpmR0JSdFJ1STdtOXZCUWdUUlhidHhnZE5zblVPSEQ4U1RBblo0RHB5WllqM0FQdXRZNjJDTjI5eUUwUk9ENktEWVBob2R2R0ZZVUQ4M19tRzZLdkVzTUxfc0dYVWM2X0dvUUJiaGI2Z0pmTmFwOW02Tnpfc3JVekJ1bFVUclotb1B0TXFKdGxTUEpn?oc=5)
-
----
-
-### [Diabetes-Risiko: 20 Gesundheitsmarker schlagen BMI um Längen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
-
-2026-06-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
-
----
-
-### ["Breaking New Ground": Man Reveals Results After Injecting Himself With Unregulated Tanning Peptide Melanotan 2 - Bored Panda](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOei1qcnJVZUhMZTFWNVhHekx2Y2xSZklOQkhSZGp3UGRxWGpZTXd6WjNZelk4SzdlMElmMXEtMFlVUThYNzN3N1FidTJGSU1xTnY3cVR3NkxmNURRdzktalB1SmhMS1dycGZCanV3T3VOWG9BNTZPRll6NXpZdVFBWHA5VnZzbEo2b3p3?oc=5)
-
-2026-06-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOei1qcnJVZUhMZTFWNVhHekx2Y2xSZklOQkhSZGp3UGRxWGpZTXd6WjNZelk4SzdlMElmMXEtMFlVUThYNzN3N1FidTJGSU1xTnY3cVR3NkxmNURRdzktalB1SmhMS1dycGZCanV3T3VOWG9BNTZPRll6NXpZdVFBWHA5VnZzbEo2b3p3?oc=5)
-
----
-
-### ['Every minute counts when it comes to new ovarian cancer treatment'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YMktpaUNTX2cxYnk0Z19lZkhjdHU5bU5pTm1TN2pacmdzREl0dE1yQ19sZVBTLWJuZEhfUUF2LTJneDkyX0k0a2hfbEVxMksxUnE4cXU2SjRCOEFM?oc=5)
-
-2026-06-04 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YMktpaUNTX2cxYnk0Z19lZkhjdHU5bU5pTm1TN2pacmdzREl0dE1yQ19sZVBTLWJuZEhfUUF2LTJneDkyX0k0a2hfbEVxMksxUnE4cXU2SjRCOEFM?oc=5)
 
 ---
 
