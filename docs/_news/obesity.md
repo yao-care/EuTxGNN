@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obésité（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
+<strong>obésité（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,14 +38,6 @@ permalink: /news/obesity/
 
 ## 相關新聞（7 則）
 
-### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
-
-2026-06-05
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
-
----
-
 ### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
 
 2026-06-05
@@ -59,6 +51,14 @@ permalink: /news/obesity/
 2026-06-05
 
 來源：[Telecinco](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaExCWTJjU3BpMkpZbHMtRHc1dm44VUtxd3pxV3RXckV2bll1cVZFSUc2WHRBQUNlNldXU2Ffd2xQUDIybGNFQkl1MGVzcDVQajMtZFN3R2l3YV9oNGU4T1ZpUTRCQ05lZVhCQlFUbjZnQ0RnbmtWUjNCNHdnZWFEb0QtbG5uLVpKaE1iMXI3MlRuUHNFRk0wVW83ck5QaGJCNlVoRFJYZ0VFZURBekZ0bkFfN08xNEoyY0RBNXZIRUhLa2dp?oc=5)
+
+---
+
+### [Perdere peso non diminuisce il rischio di ammalarsi. Colpa della memoria dell’obesità - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXBXV00yNnBQcEhNaFNrUWhYN0dRTzIyQ2hVeEkzOVJmNWVMQ2syM1VTM0JHZkdvbXdlWGlfQWdJdWVyRmhmbzdvTnlwNFlYQm1yajlXcGtWLXMyU25jdHduU0RHN1ZmWHl4d3F2dG1Sdi1Sem9xRF9oX1pNWDUwZFFrcVFnRFVFakhnXzJqLXI5bTMxUTk2YVEzTUNMRHQ5bTBzOWFBb0hVRjQybzNRWGRkZDd3eVd2RGFEQVJXZnpfSkhYeDBTNW0tcjJhMUY1aFp4X3hzR1l1NWFZ0gHiAUFVX3lxTE9ybWMtdE5HSUVlcktsYmoycXRDM0VuU08zMVRqNmYtUGZmM1R4dnRENk1NcVV5WDcxZkxvMXltczdjWUJ3cDduZ2dtTGxaN1gxXzRXcVp6cDZYRkxGWXhiRmEyZmVBamZaUzk2cXJzelRMWUNpZ2JhMVVvbkZJYjBJN3dRU0V0VlVQOGlVWmQwRjNldzJsVEZVc0FfSjBfOUctLU1WMmVNX1JoemNybnJuY1U5QXpQcjNiTWp6R3ZsMHlxQnJoZlp2YVgxRzNyVk5BSHpkRXZwZU43TFdCdVBuSmc?oc=5)
+
+2026-06-05
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXBXV00yNnBQcEhNaFNrUWhYN0dRTzIyQ2hVeEkzOVJmNWVMQ2syM1VTM0JHZkdvbXdlWGlfQWdJdWVyRmhmbzdvTnlwNFlYQm1yajlXcGtWLXMyU25jdHduU0RHN1ZmWHl4d3F2dG1Sdi1Sem9xRF9oX1pNWDUwZFFrcVFnRFVFakhnXzJqLXI5bTMxUTk2YVEzTUNMRHQ5bTBzOWFBb0hVRjQybzNRWGRkZDd3eVd2RGFEQVJXZnpfSkhYeDBTNW0tcjJhMUY1aFp4X3hzR1l1NWFZ0gHiAUFVX3lxTE9ybWMtdE5HSUVlcktsYmoycXRDM0VuU08zMVRqNmYtUGZmM1R4dnRENk1NcVV5WDcxZkxvMXltczdjWUJ3cDduZ2dtTGxaN1gxXzRXcVp6cDZYRkxGWXhiRmEyZmVBamZaUzk2cXJzelRMWUNpZ2JhMVVvbkZJYjBJN3dRU0V0VlVQOGlVWmQwRjNldzJsVEZVc0FfSjBfOUctLU1WMmVNX1JoemNybnJuY1U5QXpQcjNiTWp6R3ZsMHlxQnJoZlp2YVgxRzNyVk5BSHpkRXZwZU43TFdCdVBuSmc?oc=5)
 
 ---
 

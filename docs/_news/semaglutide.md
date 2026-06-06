@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
+
+### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEhGYTA0U2RfS2JPZmxRNHF6U3NVUWVkRUt0REtjWWRfdzFFMmZaaUFFa2dabU5hOUVRUG1DZUkxaVoxQks4WHhuTFhLYUd1RldNTUNiNWhGalBtRUp0QmE5bU1PcmxXX0lTTjlwd3hSUXFrRmlrYjR1YTFmSExzbDhIQVdXc01jNkdEOV9Rd3FTX0dINlFGUlZISlNlaEpTZnZDcEE3NjJySWJYeXMzaHVjNA?oc=5)
+
+2026-06-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEhGYTA0U2RfS2JPZmxRNHF6U3NVUWVkRUt0REtjWWRfdzFFMmZaaUFFa2dabU5hOUVRUG1DZUkxaVoxQks4WHhuTFhLYUd1RldNTUNiNWhGalBtRUp0QmE5bU1PcmxXX0lTTjlwd3hSUXFrRmlrYjR1YTFmSExzbDhIQVdXc01jNkdEOV9Rd3FTX0dINlFGUlZISlNlaEpTZnZDcEE3NjJySWJYeXMzaHVjNA?oc=5)
+
+---
 
 ### [Teplizumab & neue CGM-Sensoren: KI-taugliche T1D-Früherkennung rückt näher - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHJNWjhPRjR5QTgtQmhXektOanpfZVhiMXRjX1dnUF9MaXJIbERyTFVIZXJTdGtVMzlJZkNNQXBVSW44eG1TYlVxTmd6Z0xnTkNSTENLTUFuRk9xV1JWTjl5SFRKVkZscVM4aVBVZEpGTU1QYzhkdU9OdXR2MkRDRWxIQUczVzRGSHR3d3R1LVZ1NUxZV1k1ejE3dU91a0Rsdm5Qajk3WVBmdw?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
+### [Diabetes-Medikament senkt Demenzrisiko um 53 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
 
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
 
 ---
 
@@ -102,14 +110,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [GLP-1-Therapien senken Demenzrisiko: Bluttests, Biomarker und KI im Fokus - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDdJOFIyTkt5SWZGamhsWDRpZkx4WkFwMjFPc2dkV2kwOFhvaVB1dGIyVThrUlVuUHBsaXN3U3d4T1R2LTF0OENkaE5DMkxUZTZ5WFIxaUhUaFN2T05QWm5nb00xVGFTZkVuLTYtT25CSkV2N0xuVzM4bVdIQUNoeDJUQ29kczNmSlRSMlBTZ05US29Fc0hBWnlieDZnbDJoWDFRYkJB?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDdJOFIyTkt5SWZGamhsWDRpZkx4WkFwMjFPc2dkV2kwOFhvaVB1dGIyVThrUlVuUHBsaXN3U3d4T1R2LTF0OENkaE5DMkxUZTZ5WFIxaUhUaFN2T05QWm5nb00xVGFTZkVuLTYtT25CSkV2N0xuVzM4bVdIQUNoeDJUQ29kczNmSlRSMlBTZ05US29Fc0hBWnlieDZnbDJoWDFRYkJB?oc=5)
-
----
-
 ### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
@@ -136,7 +136,7 @@ permalink: /news/semaglutide/
 
 ### [The GLP-1 workout: how to train if you’re on fat jabs - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjhReG9HTlhLTUNXcUYxV3NmR0tXay15Q1JGUTFHLWdLVkxhaWl3TnJoSnYtejNLYWtneGpwSlFTRVgyNVpKbXpTNkNKOHVNeGRyOWZkVXpEMHlRaU56ZlJsS3ZTV2ZoWmsySnFvSVk3VHRPdEplRjFmREJZZl9EWnpQUlo3cXM?oc=5)
 
-2026-06-05 <span class="news-drug-tag">Semaglutide</span>
+2026-06-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjhReG9HTlhLTUNXcUYxV3NmR0tXay15Q1JGUTFHLWdLVkxhaWl3TnJoSnYtejNLYWtneGpwSlFTRVgyNVpKbXpTNkNKOHVNeGRyOWZkVXpEMHlRaU56ZlJsS3ZTV2ZoWmsySnFvSVk3VHRPdEplRjFmREJZZl9EWnpQUlo3cXM?oc=5)
 
@@ -155,14 +155,6 @@ permalink: /news/semaglutide/
 2026-06-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
-
----
-
-### [Prädiabetes: Sechs unterschätzte Warnsignale erkennen und handeln - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQblBkY1hKZ19nN1g5bVZXeHl0ckQ3bzRVbTFpSlA4ZkhIbzd2R21yVzBtY2xjbms5TncyRzE4c1IxZnhtZnI5REpZTWtBODlKdzgzdVNfOHhCRWlMRVk2ZWp2NWotUDVWUy1mYjRJTDRKUmNFd3NVZHJVMU5DekJzUS1RWnl4RVBjZjhlU0otRWIxcUxEd3dVZ1dJR19ub1pTQVh2eHBFOC03T2lLcUlhekxtMlVtdw?oc=5)
-
-2026-06-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQblBkY1hKZ19nN1g5bVZXeHl0ckQ3bzRVbTFpSlA4ZkhIbzd2R21yVzBtY2xjbms5TncyRzE4c1IxZnhtZnI5REpZTWtBODlKdzgzdVNfOHhCRWlMRVk2ZWp2NWotUDVWUy1mYjRJTDRKUmNFd3NVZHJVMU5DekJzUS1RWnl4RVBjZjhlU0otRWIxcUxEd3dVZ1dJR19ub1pTQVh2eHBFOC03T2lLcUlhekxtMlVtdw?oc=5)
 
 ---
 

@@ -54,14 +54,6 @@ permalink: /news/orlistat/
 
 ## 相關新聞（8 則）
 
-### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
-
----
-
 ### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
 
 2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
@@ -78,6 +70,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Perdere peso non diminuisce il rischio di ammalarsi. Colpa della memoria dell’obesità - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXBXV00yNnBQcEhNaFNrUWhYN0dRTzIyQ2hVeEkzOVJmNWVMQ2syM1VTM0JHZkdvbXdlWGlfQWdJdWVyRmhmbzdvTnlwNFlYQm1yajlXcGtWLXMyU25jdHduU0RHN1ZmWHl4d3F2dG1Sdi1Sem9xRF9oX1pNWDUwZFFrcVFnRFVFakhnXzJqLXI5bTMxUTk2YVEzTUNMRHQ5bTBzOWFBb0hVRjQybzNRWGRkZDd3eVd2RGFEQVJXZnpfSkhYeDBTNW0tcjJhMUY1aFp4X3hzR1l1NWFZ0gHiAUFVX3lxTE9ybWMtdE5HSUVlcktsYmoycXRDM0VuU08zMVRqNmYtUGZmM1R4dnRENk1NcVV5WDcxZkxvMXltczdjWUJ3cDduZ2dtTGxaN1gxXzRXcVp6cDZYRkxGWXhiRmEyZmVBamZaUzk2cXJzelRMWUNpZ2JhMVVvbkZJYjBJN3dRU0V0VlVQOGlVWmQwRjNldzJsVEZVc0FfSjBfOUctLU1WMmVNX1JoemNybnJuY1U5QXpQcjNiTWp6R3ZsMHlxQnJoZlp2YVgxRzNyVk5BSHpkRXZwZU43TFdCdVBuSmc?oc=5)
+
+2026-06-05 <span class="news-indication-tag">obesità</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXBXV00yNnBQcEhNaFNrUWhYN0dRTzIyQ2hVeEkzOVJmNWVMQ2syM1VTM0JHZkdvbXdlWGlfQWdJdWVyRmhmbzdvTnlwNFlYQm1yajlXcGtWLXMyU25jdHduU0RHN1ZmWHl4d3F2dG1Sdi1Sem9xRF9oX1pNWDUwZFFrcVFnRFVFakhnXzJqLXI5bTMxUTk2YVEzTUNMRHQ5bTBzOWFBb0hVRjQybzNRWGRkZDd3eVd2RGFEQVJXZnpfSkhYeDBTNW0tcjJhMUY1aFp4X3hzR1l1NWFZ0gHiAUFVX3lxTE9ybWMtdE5HSUVlcktsYmoycXRDM0VuU08zMVRqNmYtUGZmM1R4dnRENk1NcVV5WDcxZkxvMXltczdjWUJ3cDduZ2dtTGxaN1gxXzRXcVp6cDZYRkxGWXhiRmEyZmVBamZaUzk2cXJzelRMWUNpZ2JhMVVvbkZJYjBJN3dRU0V0VlVQOGlVWmQwRjNldzJsVEZVc0FfSjBfOUctLU1WMmVNX1JoemNybnJuY1U5QXpQcjNiTWp6R3ZsMHlxQnJoZlp2YVgxRzNyVk5BSHpkRXZwZU43TFdCdVBuSmc?oc=5)
+
+---
+
 ### [Obesidad y menopausia elevan el riesgo cardiovascular en mujeres; alertan sobre síntomas silenciosos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1FvSE8wQW5pSXFXZEhsbVBUX2t2OWlwWVQteU51bVF2ZXczWGoyQmgteGxuVFNRTmo5R1REOVdaNllzQUhRQVpvQm1YMnpudTVHLXNvUTV0aFF3b2lTX0dLS0xxX2pXWHJXQkFmeHU4elF5YnRpRm1uMUFLalBzWGQtVlBIb0ItS21VYmxnbE9uZ0hVM1N4dTUwTWticnNXY0I5NFhTanQ3TGM5MDRyQi1ocmF2NXJvcVBMQXg0WkZQWldUdUQyWkpaUEJXOWtLVDNkeA?oc=5)
 
 2026-06-05 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -86,19 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Un casco 'made in Euskadi' para frenar el daño cerebral del ictus - El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
+
+2026-06-04 <span class="news-indication-tag">ictus</span>
+
+來源：[El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
+
+---
+
 ### [Diabetes-Risiko: 20 Gesundheitsmarker schlagen BMI um Längen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
 
 2026-06-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2J1alpUOV9CeUxrSmlXMFBVTTJyWHZ6cXhoQXNadFduVWZYMUJ4Y2ZUQkJFcnp4Z200Yy1kcm1HSUtyazJrdW16a09iUkRLTFJwMmI4a21pRkN5bnJUa0VlWlhzeFN3SXNDYmFtUFFjbnJKZEhYWVFQRm9JRHpiZE1vTUJtYmN6STU4QzJKcV8yMEViVDdiVzI3c1BCd19CTFRkZk01VFppZXRNbUE?oc=5)
-
----
-
-### [Tecnalia lidera un prototipo pionero no invasivo para tratar el ictus o el Parkinson sin cirugía](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2pWcDk2WDNVMXVncUxXLTBJc29XTGl1dG95S3hnV0ZhM0p5ZWlRY0VBczgxaVAyZ0J1SjM0alhBUng4UnUxcTdsWHZtLW9pcVhWMk1EMU9BNkZlR0VKdWJUdlhtdmF2RWlrWkNYdkpSbVVSV1BVVFRlUTNoak41N0hDUWNDX25qR1VQbnYtOUdKY1k3dVVBclpXbkpKQdIBowFBVV95cUxONWduVXhDdm80dlZDVDlTSm1OWnVtZHJzNGF0Qm5fN0F3eC05UXNEWTZfeTV0RzU5QVA1UkFyVWZQTU5XRkdDU3ppdklDVk9uamlrOWtIYWlZSzMzdEkta0RjMlVZcFJNekxlVWg4Y1E3S2hyeDU1NUxzYW84VEdoeXNoZ3VFTm5xQkpUdF9SZDhzbVcxeUswMEY2dE5ZVVZYX2lR?oc=5)
-
-2026-06-04 <span class="news-indication-tag">ictus</span>
-
-來源：[Deia](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2pWcDk2WDNVMXVncUxXLTBJc29XTGl1dG95S3hnV0ZhM0p5ZWlRY0VBczgxaVAyZ0J1SjM0alhBUng4UnUxcTdsWHZtLW9pcVhWMk1EMU9BNkZlR0VKdWJUdlhtdmF2RWlrWkNYdkpSbVVSV1BVVFRlUTNoak41N0hDUWNDX25qR1VQbnYtOUdKY1k3dVVBclpXbkpKQdIBowFBVV95cUxONWduVXhDdm80dlZDVDlTSm1OWnVtZHJzNGF0Qm5fN0F3eC05UXNEWTZfeTV0RzU5QVA1UkFyVWZQTU5XRkdDU3ppdklDVk9uamlrOWtIYWlZSzMzdEkta0RjMlVZcFJNekxlVWg4Y1E3S2hyeDU1NUxzYW84VEdoeXNoZ3VFTm5xQkpUdF9SZDhzbVcxeUswMEY2dE5ZVVZYX2lR?oc=5)
 
 ---
 

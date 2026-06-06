@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="Aripiprazole 有什麼相關新聞？">
-<strong>Aripiprazole</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aripiprazole</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/aripiprazole/
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（18 則）
+
+### ["Je me grattais jusqu’au sang" : atteint d’eczéma depuis sa naissance, Hippolyte raconte 29 ans de démangeaisons et de regards - Midi Libre](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcklHUGMwMlNIUTF4SmlUMUM5OGtUOGFjTS1SQkFSUHp4Z1lHemJfZWZYZmJ5d3ZFZ3FDLWViaTM1UmVUREd5T29SNHhYYW03V0YzQmpsQjd3YmY2ZGY5MWJLaWNDMUR4RTRmOUc2OHduY2txX0FENXNWVE4xVU1mVEFNN2M0RU8tREEwc2pvdHozdnBVd0pqR2RiMG9IVkdrVlE0SFppN0ZZMHIwOHRBQjZ3NUVfUE56ZzlUcU9CTDNHRTNJTTlHam5OellsSExuVFRQWFZydEg3WEJlSWJJdy1OdGg4ZzdOMG1HRFFudTZBSG9QcHJRRHg5MUE?oc=5)
+
+2026-06-06 <span class="news-indication-tag">AF</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcklHUGMwMlNIUTF4SmlUMUM5OGtUOGFjTS1SQkFSUHp4Z1lHemJfZWZYZmJ5d3ZFZ3FDLWViaTM1UmVUREd5T29SNHhYYW03V0YzQmpsQjd3YmY2ZGY5MWJLaWNDMUR4RTRmOUc2OHduY2txX0FENXNWVE4xVU1mVEFNN2M0RU8tREEwc2pvdHozdnBVd0pqR2RiMG9IVkdrVlE0SFppN0ZZMHIwOHRBQjZ3NUVfUE56ZzlUcU9CTDNHRTNJTTlHam5OellsSExuVFRQWFZydEg3WEJlSWJJdy1OdGg4ZzdOMG1HRFFudTZBSG9QcHJRRHg5MUE?oc=5)
+
+---
+
+### [Ebola spread in central Africa could match 2014 record outbreak, US health officials say - The Guardian](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmpKcHpQYWctSF9vWS1tcWluMUVGNGp1SzBQRW9pdXVoanh4ZWxVaGVfWmdYRUpCTVI1UkdOak91cHdnQkdMUXlxWmVlUXBzTWw4UC1pdkplcllYNWNWYlpjaXNVYy1sc3FfMzNGUlFOcm44QVBtTUM4M09iY1AxVi04cUlocWJybW1uZHVERERwckV6TlJNWWNUUWRqLUZvNHFBZXRxdjFndjBEMkJOaU51LU9qMUhjREswMms0OVJJNGx4Uzg0QWg2TmtzUQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmpKcHpQYWctSF9vWS1tcWluMUVGNGp1SzBQRW9pdXVoanh4ZWxVaGVfWmdYRUpCTVI1UkdOak91cHdnQkdMUXlxWmVlUXBzTWw4UC1pdkplcllYNWNWYlpjaXNVYy1sc3FfMzNGUlFOcm44QVBtTUM4M09iY1AxVi04cUlocWJybW1uZHVERERwckV6TlJNWWNUUWRqLUZvNHFBZXRxdjFndjBEMkJOaU51LU9qMUhjREswMms0OVJJNGx4Uzg0QWg2TmtzUQ?oc=5)
+
+---
 
 ### [WHO announces £386m plan to fight Ebola outbreak as number of cases rises - Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDFMM1Y4dVprRmphVWd3RjlBZnVoNEdHMjFRVTRjSmNaVUE4MnNsWVZKWTdvdUtHMjBKVmFWanVvc0hOVnEzcWtxWlVuWmIyVElkTmhhakdMMjNfQk1PQk1fc0tsQkdTZElqMHVoaEt3eUpaaENsUHltQ1NTNll6Z0t0aGpYWHplY2c4SDFYaGFjY2dkNkFWckpzanB3OHdBbVdyMklqUS1mRE9q?oc=5)
 
@@ -67,22 +83,6 @@ permalink: /news/aripiprazole/
 2026-06-05 <span class="news-indication-tag">AF</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWWZfM29MZGZTOGJ6QkwwMTZVNEtfejVQdGVabEl4WjZXSXo4d0xzTzdkY1BZTkI3WDRZUWk4blhEVFFycE9PN1N1cUZpY1dQWWJZMHhuY3E2UWNCQ2pFdEppaEJtRURMMDFzMW82VzhqQ1l3a1hfUVJiTkdsUENrakNoUlIwTmFkcmNkbTdMMkVPT1JuRlZ0aVFhWG10cEY3QVBESm9QTEdVckswcjZfZUF0ZGQzTHFZSVlkQzdZRjV2SWhxa19SWUhVejBMNUVVcHZTc0dIRXBOc2tndm9xYS16WWpWeGdxR0JraEt5ajlVSHRuNWZ5WA?oc=5)
-
----
-
-### [Historique : le tout premier vaccin conçu par intelligence artificielle vient d'être administré à 39 personnes - Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQzNzLTNLZlA2NGJQNDc3SGFfdXF2a3pydUxkX0VFWXRZMF9jTGc1MEQ3VDJGVV9UYjFabzNCUG8xNHVDYUI0NXVyWmxwT1dMYU5yd3VONXpJWnVURE5CYTZFYkVpODRwY2lCMlRBNWFQY3ByVEN1THB0YkNVYVFsbHZpOWFaX1NQbTR6bzhTcUcyZTF1UjJxS3lQZGRfMjZwb1dzM2dNM0hmcFNEWkZVZHhTQ3dEU0thTnBRV2Z3SS11dV9YcjA0bGVBbFRYOWdHdzVzUGVmdWRROXhmNzJzREZqblZETHZYSFlOLWlrUzB3bU04REVTQU1DTlFUUzRLLUZZN0l4ODQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQzNzLTNLZlA2NGJQNDc3SGFfdXF2a3pydUxkX0VFWXRZMF9jTGc1MEQ3VDJGVV9UYjFabzNCUG8xNHVDYUI0NXVyWmxwT1dMYU5yd3VONXpJWnVURE5CYTZFYkVpODRwY2lCMlRBNWFQY3ByVEN1THB0YkNVYVFsbHZpOWFaX1NQbTR6bzhTcUcyZTF1UjJxS3lQZGRfMjZwb1dzM2dNM0hmcFNEWkZVZHhTQ3dEU0thTnBRV2Z3SS11dV9YcjA0bGVBbFRYOWdHdzVzUGVmdWRROXhmNzJzREZqblZETHZYSFlOLWlrUzB3bU04REVTQU1DTlFUUzRLLUZZN0l4ODQ?oc=5)
-
----
-
-### [Hallan el origen de dos brotes de norovirus de un hospital madrileño en 2024](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlNJRkVaR0d5SWJrNjEtSG05RXhwZHJpMGFydFZrSnl0eW83QmFmQXVZaWdLSHJaSDJXZFlheXFFR0xGaTBDd1h2LThyVzJRMVc2OHBvbVhWWXhSOVdTcXJYUWZfVDg1bFdxM29wdksybVl1eFI3WW9JbHVVY2l6X3M5OFdvaUhCSWdBNkNYbWxOejlWUXR2VlhnekRrU3h5WG4yVGtGTHplcFdwM2trTTVB?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlNJRkVaR0d5SWJrNjEtSG05RXhwZHJpMGFydFZrSnl0eW83QmFmQXVZaWdLSHJaSDJXZFlheXFFR0xGaTBDd1h2LThyVzJRMVc2OHBvbVhWWXhSOVdTcXJYUWZfVDg1bFdxM29wdksybVl1eFI3WW9JbHVVY2l6X3M5OFdvaUhCSWdBNkNYbWxOejlWUXR2VlhnekRrU3h5WG4yVGtGTHplcFdwM2trTTVB?oc=5)
 
 ---
 
@@ -126,14 +126,6 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Scolarité, carrière, estime de soi : les cicatrices invisibles de l’eczéma - Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjg3UElZUlh4YU9lbi1LZUZkRzVqRzlZLV9sRGdoeUFlbjVYRUNyejVtVXNqTmNqYTdlNW5yNjItSTVTT254anFkMFBTcElpcjJJV3FxS2xCYTZwWG9zLWNIRE5OcHNuU2VydENLejFzTi05MjZOZUJBVTVOVFM2X1Fnd0xGMEVCR2dxQ3g4clpCbkRKVHlKVGZONlBTaE94TXFpMmp4U0FZVDgtb01uOTN6ZE0?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjg3UElZUlh4YU9lbi1LZUZkRzVqRzlZLV9sRGdoeUFlbjVYRUNyejVtVXNqTmNqYTdlNW5yNjItSTVTT254anFkMFBTcElpcjJJV3FxS2xCYTZwWG9zLWNIRE5OcHNuU2VydENLejFzTi05MjZOZUJBVTVOVFM2X1Fnd0xGMEVCR2dxQ3g4clpCbkRKVHlKVGZONlBTaE94TXFpMmp4U0FZVDgtb01uOTN6ZE0?oc=5)
-
----
-
 ### [Cuáles son las tres vacunas candidatas para frenar el brote de ébola y cómo funcionan - El Debate](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdm5IS3pRM2RmWEtBb0dveDRoZmxoMHdpcUFmcnBKY3FzNzlFeWZkYjN0WXphbFo0UVpmaGxnUDYtYnY4NmdxTkRTZjhNNGVESVZ4YjRRd1gydy1NVzRCU1ZCR1E4OGxBazRGZk53SUhTNUg3N2pNcjVzZ0tqX2Fyc3h5cEFkNHQ0UE1BbzdtS3kzQUNGazVRb0NVd1FweG1VdmJmdUkzRktybkREZWR1TVhIMDdRX3lraEtrQ0RVNzbSAcYBQVVfeXFMUDFxOFJNZDlwYV9mQ1BZMGQ2LWFGVXlyNWFBNGdTcTR5LWxoM3NpeG91aWJuMExORnQyd1ZiemEyMFNndGN0bnEwRUhwbmo2VWl1cFk1NUNobjNodmdGdlhTLU12MldXZC1ZWkI1RG85eW10Sm9mME1ZQXp1d25GdUQtR1NKSTFMdmxmSkF3WEhaRjdMTU0tdlJyS0s1MmFZQkJIRHVrS0FHZUY5UHZXZEp3LTVWSWNXbFZpY0t5TWRIN0stYWxR?oc=5)
 
 2026-06-05 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -150,19 +142,11 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Pourquoi Google a demandé l’autorisation de lâcher 32 millions de moustiques en Californie et en Floride - Le Figaro](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3drS0tsczhwS0Vtd0MxSW9wRlZxMFVCSTdmd3dCYlZJTWRLZ2NHbGxJbk9BeFFwblF6VWpMZldza2hNUmpMT3lCdEpJZUhpVXR2bzg4Y1BRMzduM1g2Yk91al9OUElyNS1SVmplUHpMb19IaHRfNkgxRGZkQlpNa0dkUXlkcm9Tam9rLUhHblFhZTcxbnAyV1doNVJBSWVqYXBwV3BvYTBUWTBXT1JzbUpxUEpoV1k5SW1qUUVseFRHLTFQVW5jbDJTN09nampIaUhJd1R2eGc2ZlFvR1VB?oc=5)
+### ["Breaking New Ground": Man Reveals Results After Injecting Himself With Unregulated Tanning Peptide Melanotan 2 - Bored Panda](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOei1qcnJVZUhMZTFWNVhHekx2Y2xSZklOQkhSZGp3UGRxWGpZTXd6WjNZelk4SzdlMElmMXEtMFlVUThYNzN3N1FidTJGSU1xTnY3cVR3NkxmNURRdzktalB1SmhMS1dycGZCanV3T3VOWG9BNTZPRll6NXpZdVFBWHA5VnZzbEo2b3p3?oc=5)
 
-2026-06-05 <span class="news-indication-tag">AF</span>
+2026-06-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Le Figaro](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3drS0tsczhwS0Vtd0MxSW9wRlZxMFVCSTdmd3dCYlZJTWRLZ2NHbGxJbk9BeFFwblF6VWpMZldza2hNUmpMT3lCdEpJZUhpVXR2bzg4Y1BRMzduM1g2Yk91al9OUElyNS1SVmplUHpMb19IaHRfNkgxRGZkQlpNa0dkUXlkcm9Tam9rLUhHblFhZTcxbnAyV1doNVJBSWVqYXBwV3BvYTBUWTBXT1JzbUpxUEpoV1k5SW1qUUVseFRHLTFQVW5jbDJTN09nampIaUhJd1R2eGc2ZlFvR1VB?oc=5)
-
----
-
-### [School to undergo testing after several teachers diagnosed with cancer - The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFFuYUZIdVJkNUJWbi1hX0t1TmFIdHQxUU1oeThNM0V4QnFFV1FodlYyTlBnM1J4UDRDdnRlQ0FDNWtJTHdTdE1KcE1nWFhVSFZtb19fdUlPaWlQWHRKdk96aDBoUFVSV0ZvNGZycGgxVTFPNWw5cE9DZG9QMUZZMGhCdVUyQkEtUVh2eUdXYzBmVXhzbWlxNkNQT0p4MXpkMExQbS1SNjJyRDVadXRYTG1zQzY5dw?oc=5)
-
-2026-06-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFFuYUZIdVJkNUJWbi1hX0t1TmFIdHQxUU1oeThNM0V4QnFFV1FodlYyTlBnM1J4UDRDdnRlQ0FDNWtJTHdTdE1KcE1nWFhVSFZtb19fdUlPaWlQWHRKdk96aDBoUFVSV0ZvNGZycGgxVTFPNWw5cE9DZG9QMUZZMGhCdVUyQkEtUVh2eUdXYzBmVXhzbWlxNkNQT0p4MXpkMExQbS1SNjJyRDVadXRYTG1zQzY5dw?oc=5)
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOei1qcnJVZUhMZTFWNVhHekx2Y2xSZklOQkhSZGp3UGRxWGpZTXd6WjNZelk4SzdlMElmMXEtMFlVUThYNzN3N1FidTJGSU1xTnY3cVR3NkxmNURRdzktalB1SmhMS1dycGZCanV3T3VOWG9BNTZPRll6NXpZdVFBWHA5VnZzbEo2b3p3?oc=5)
 
 ---
 
@@ -190,14 +174,6 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Neues antivirales Antibiotikum - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZWt4Z0RKQ3RaOTZoRHFXRFkzblRUMGo3NEZLRUZ6aTdrYU9QVnhhWEJYcTJlbW0tLUUwTFlYbEJLV05KWEZwajdQRQ?oc=5)
-
-2026-06-04 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZWt4Z0RKQ3RaOTZoRHFXRFkzblRUMGo3NEZLRUZ6aTdrYU9QVnhhWEJYcTJlbW0tLUUwTFlYbEJLV05KWEZwajdQRQ?oc=5)
-
----
-
 ### [Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
 
 2026-06-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
@@ -219,22 +195,6 @@ permalink: /news/aripiprazole/
 2026-06-04 <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTN5NWR3MmNYX1U0N04wUDVmbTlNWTlINjJpelRQNEs1ZU5rR0NBLVJiQVYtbUVteVVaWE5DZElaWUFFZk5feS1Oc1o3c1lmY3BHMjh5MTBkZnp6ZlZhOS05Z3ZjbTJxdXlpd3lMdDFfTFNmbVJEYUFmdWhqbWxodE44UWNuMjNRcVlWdkZ5WkE0QzVuWUI3YjdDaGUwU0lEaFNsNV9yUEJfdFNaQVZkTVhBRDMxa0w5bTVQbS1MX3QyZDlwR05LWjkyQWZyejR1NVlLbkZPUUx0bmdfNUtTUjJROXZFVkJVSi1DUzM4TQ?oc=5)
-
----
-
-### [Sheffield hospital patient gives robot surgery the 'thumbs up'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HbkdMT3pUOGo0OWZkcFliYXFnUEg1Ui01N1pEUks0RFdWRXRGY0VPbS1oREk1emNiNVNuYUhpVzJpVm1sUS1UVFJWNVd6dVFkRFhkZ3pGMTlSTE9M?oc=5)
-
-2026-06-04 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HbkdMT3pUOGo0OWZkcFliYXFnUEg1Ui01N1pEUks0RFdWRXRGY0VPbS1oREk1emNiNVNuYUhpVzJpVm1sUS1UVFJWNVd6dVFkRFhkZ3pGMTlSTE9M?oc=5)
-
----
-
-### [This mysterious lung disease affects millions of people — but a drug tested in mice shows promise](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qR0w2cXY3a3p2T2xQUDVPcjBTWWJxa0I1a3p0ak9zZm1WckZOM3ltV2ZsNkpjcUY2ZThJeFVHTUp3N0dlWkxNOVF2OXRDUXVUSlB0R3JJeTI1NWdpQldr?oc=5)
-
-2026-06-04 <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qR0w2cXY3a3p2T2xQUDVPcjBTWWJxa0I1a3p0ak9zZm1WckZOM3ltV2ZsNkpjcUY2ZThJeFVHTUp3N0dlWkxNOVF2OXRDUXVUSlB0R3JJeTI1NWdpQldr?oc=5)
 
 ---
 

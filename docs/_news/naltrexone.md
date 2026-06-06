@@ -54,14 +54,6 @@ permalink: /news/naltrexone/
 
 ## 相關新聞（7 則）
 
-### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
-
----
-
 ### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
 
 2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
@@ -75,6 +67,14 @@ permalink: /news/naltrexone/
 2026-06-05 <span class="news-indication-tag">obesidad</span>
 
 來源：[Telecinco](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaExCWTJjU3BpMkpZbHMtRHc1dm44VUtxd3pxV3RXckV2bll1cVZFSUc2WHRBQUNlNldXU2Ffd2xQUDIybGNFQkl1MGVzcDVQajMtZFN3R2l3YV9oNGU4T1ZpUTRCQ05lZVhCQlFUbjZnQ0RnbmtWUjNCNHdnZWFEb0QtbG5uLVpKaE1iMXI3MlRuUHNFRk0wVW83ck5QaGJCNlVoRFJYZ0VFZURBekZ0bkFfN08xNEoyY0RBNXZIRUhLa2dp?oc=5)
+
+---
+
+### [Perdere peso non diminuisce il rischio di ammalarsi. Colpa della memoria dell’obesità - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXBXV00yNnBQcEhNaFNrUWhYN0dRTzIyQ2hVeEkzOVJmNWVMQ2syM1VTM0JHZkdvbXdlWGlfQWdJdWVyRmhmbzdvTnlwNFlYQm1yajlXcGtWLXMyU25jdHduU0RHN1ZmWHl4d3F2dG1Sdi1Sem9xRF9oX1pNWDUwZFFrcVFnRFVFakhnXzJqLXI5bTMxUTk2YVEzTUNMRHQ5bTBzOWFBb0hVRjQybzNRWGRkZDd3eVd2RGFEQVJXZnpfSkhYeDBTNW0tcjJhMUY1aFp4X3hzR1l1NWFZ0gHiAUFVX3lxTE9ybWMtdE5HSUVlcktsYmoycXRDM0VuU08zMVRqNmYtUGZmM1R4dnRENk1NcVV5WDcxZkxvMXltczdjWUJ3cDduZ2dtTGxaN1gxXzRXcVp6cDZYRkxGWXhiRmEyZmVBamZaUzk2cXJzelRMWUNpZ2JhMVVvbkZJYjBJN3dRU0V0VlVQOGlVWmQwRjNldzJsVEZVc0FfSjBfOUctLU1WMmVNX1JoemNybnJuY1U5QXpQcjNiTWp6R3ZsMHlxQnJoZlp2YVgxRzNyVk5BSHpkRXZwZU43TFdCdVBuSmc?oc=5)
+
+2026-06-05 <span class="news-indication-tag">obesità</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXBXV00yNnBQcEhNaFNrUWhYN0dRTzIyQ2hVeEkzOVJmNWVMQ2syM1VTM0JHZkdvbXdlWGlfQWdJdWVyRmhmbzdvTnlwNFlYQm1yajlXcGtWLXMyU25jdHduU0RHN1ZmWHl4d3F2dG1Sdi1Sem9xRF9oX1pNWDUwZFFrcVFnRFVFakhnXzJqLXI5bTMxUTk2YVEzTUNMRHQ5bTBzOWFBb0hVRjQybzNRWGRkZDd3eVd2RGFEQVJXZnpfSkhYeDBTNW0tcjJhMUY1aFp4X3hzR1l1NWFZ0gHiAUFVX3lxTE9ybWMtdE5HSUVlcktsYmoycXRDM0VuU08zMVRqNmYtUGZmM1R4dnRENk1NcVV5WDcxZkxvMXltczdjWUJ3cDduZ2dtTGxaN1gxXzRXcVp6cDZYRkxGWXhiRmEyZmVBamZaUzk2cXJzelRMWUNpZ2JhMVVvbkZJYjBJN3dRU0V0VlVQOGlVWmQwRjNldzJsVEZVc0FfSjBfOUctLU1WMmVNX1JoemNybnJuY1U5QXpQcjNiTWp6R3ZsMHlxQnJoZlp2YVgxRzNyVk5BSHpkRXZwZU43TFdCdVBuSmc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tremelimumab/
 ---
 
 <p class="key-answer" data-question="Tremelimumab 有什麼相關新聞？">
-<strong>Tremelimumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tremelimumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tremelimumab/
 <p><a href="{{ '/drugs/tremelimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEhGYTA0U2RfS2JPZmxRNHF6U3NVUWVkRUt0REtjWWRfdzFFMmZaaUFFa2dabU5hOUVRUG1DZUkxaVoxQks4WHhuTFhLYUd1RldNTUNiNWhGalBtRUp0QmE5bU1PcmxXX0lTTjlwd3hSUXFrRmlrYjR1YTFmSExzbDhIQVdXc01jNkdEOV9Rd3FTX0dINlFGUlZISlNlaEpTZnZDcEE3NjJySWJYeXMzaHVjNA?oc=5)
+
+2026-06-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEhGYTA0U2RfS2JPZmxRNHF6U3NVUWVkRUt0REtjWWRfdzFFMmZaaUFFa2dabU5hOUVRUG1DZUkxaVoxQks4WHhuTFhLYUd1RldNTUNiNWhGalBtRUp0QmE5bU1PcmxXX0lTTjlwd3hSUXFrRmlrYjR1YTFmSExzbDhIQVdXc01jNkdEOV9Rd3FTX0dINlFGUlZISlNlaEpTZnZDcEE3NjJySWJYeXMzaHVjNA?oc=5)
+
+---
 
 ### [Teplizumab & neue CGM-Sensoren: KI-taugliche T1D-Früherkennung rückt näher - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHJNWjhPRjR5QTgtQmhXektOanpfZVhiMXRjX1dnUF9MaXJIbERyTFVIZXJTdGtVMzlJZkNNQXBVSW44eG1TYlVxTmd6Z0xnTkNSTENLTUFuRk9xV1JWTjl5SFRKVkZscVM4aVBVZEpGTU1QYzhkdU9OdXR2MkRDRWxIQUczVzRGSHR3d3R1LVZ1NUxZV1k1ejE3dU91a0Rsdm5Qajk3WVBmdw?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/tremelimumab/
 
 ---
 
-### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
+### [Diabetes-Medikament senkt Demenzrisiko um 53 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
 
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3BTcmQxM192RjVGUzlEWDJmTUxjZ1F1cWl1djZudkFEOERPaEhKQjZXcFZvQVpwQU1xN2d5TlBKODA3WS1DVnZyYzVYZlgwZ2d4WlBNd0VOMWdTcEpWSDFodnZtcFRkdWJrTndqV1FkalZhN1RCeXBOUU93SGxYa0xQb2w4eUk5Zm5nTzdJaTVvdzIxV01fZ05vd29qSGd0TWNKQmZzaTNtNnkwQWNobGJZdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWlva2Q1YzYwQWUyRGxGNDlYRjJpSUtKVVpKa0o3UVpEY0RFak02dTBhODBQcFppYThHeU4xNTlhYm53c1pWUllIWUYzS1l5QzlBdVJuRHIzYWlsRm5HSnBndzI3dUcySWNSc2tYcVlBUHV2Z1NZRE90cGViZHpkUWx1eXozSmtvY2JHamYyeDBSR0FaWktOOHJPRW9Kc1hhTGRB?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/tremelimumab/
 2026-06-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR01oXy1Ka2RWbHZSMU9kWTdUU3F2T085bzNJOENmV2J2dVFvWlkxcnduTElBM1Y1MUJYTUpMWnY5LTZBR0lIVWxLNVJWbjAzSG9xOTNKeHkyRTRmOE4tdGpPUEhyTFhZbVBOV20xRFh5eHloZ0F1Z1hOazJQaVRxNFhVV0ZkWmdIQkhTcGxvMC1ScEFjRjVjOXlaRUlUTFgzUEcwTmFVeVZxSVFOTmpqUE1QbVo4cFkyRHN3SnNjd1hudw?oc=5)
-
----
-
-### [GLP-1-Therapien senken Demenzrisiko: Bluttests, Biomarker und KI im Fokus - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDdJOFIyTkt5SWZGamhsWDRpZkx4WkFwMjFPc2dkV2kwOFhvaVB1dGIyVThrUlVuUHBsaXN3U3d4T1R2LTF0OENkaE5DMkxUZTZ5WFIxaUhUaFN2T05QWm5nb00xVGFTZkVuLTYtT25CSkV2N0xuVzM4bVdIQUNoeDJUQ29kczNmSlRSMlBTZ05US29Fc0hBWnlieDZnbDJoWDFRYkJB?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDdJOFIyTkt5SWZGamhsWDRpZkx4WkFwMjFPc2dkV2kwOFhvaVB1dGIyVThrUlVuUHBsaXN3U3d4T1R2LTF0OENkaE5DMkxUZTZ5WFIxaUhUaFN2T05QWm5nb00xVGFTZkVuLTYtT25CSkV2N0xuVzM4bVdIQUNoeDJUQ29kczNmSlRSMlBTZ05US29Fc0hBWnlieDZnbDJoWDFRYkJB?oc=5)
 
 ---
 
@@ -139,14 +139,6 @@ permalink: /news/tremelimumab/
 2026-06-04 <span class="news-drug-tag">Durvalumab</span> <span class="news-drug-tag">Tremelimumab</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVMtZ3U2RGlQM01NRHBzVXhmNElLT09JT182RkI2QjFwVFdzVm9YYjFMV0xEeXRvSFJHMF9YY1J5OTI0NkhEX0tlRW44Tlg0TWVJMERhd0ktRnBoUDhlbDB3UUZxQi1kMWhWVU5najdVMjJVbE9yYWFFcURiQWxPRFNfb0lqLXMxWkVqRUtEazVUdjQzbEhCdzFLQ3hiaGVnRENJLUNBTlRPTWNZakkwdzZ1WDItR3BRVUpUVnpMZWFVZ9IBvAFBVV95cUxOcDBPMHR0RWhkZDRrSTdtMWtkU1U3RHpPa005V3ZiZXlkbXYyMGlLTkJFTnY2YWM1NjEtM3pzaEJYRzllaFg0S1VOWWhmekVsM3JLck9TUE9NamtFTkEwNV9ramQ5VHU1YW5MSWJMOGRVbFhGYlA3X193djRxTm15RW15TU5zMC0zMi1sOTFsNVBsMVN5UGRtZ04wNy1nbUo5WVBtZENoVU40MTM3d1JQRTI1NHMyXzhNMDhQbQ?oc=5)
-
----
-
-### [Prädiabetes: Sechs unterschätzte Warnsignale erkennen und handeln - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQblBkY1hKZ19nN1g5bVZXeHl0ckQ3bzRVbTFpSlA4ZkhIbzd2R21yVzBtY2xjbms5TncyRzE4c1IxZnhtZnI5REpZTWtBODlKdzgzdVNfOHhCRWlMRVk2ZWp2NWotUDVWUy1mYjRJTDRKUmNFd3NVZHJVMU5DekJzUS1RWnl4RVBjZjhlU0otRWIxcUxEd3dVZ1dJR19ub1pTQVh2eHBFOC03T2lLcUlhekxtMlVtdw?oc=5)
-
-2026-06-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQblBkY1hKZ19nN1g5bVZXeHl0ckQ3bzRVbTFpSlA4ZkhIbzd2R21yVzBtY2xjbms5TncyRzE4c1IxZnhtZnI5REpZTWtBODlKdzgzdVNfOHhCRWlMRVk2ZWp2NWotUDVWUy1mYjRJTDRKUmNFd3NVZHJVMU5DekJzUS1RWnl4RVBjZjhlU0otRWIxcUxEd3dVZ1dJR19ub1pTQVh2eHBFOC03T2lLcUlhekxtMlVtdw?oc=5)
 
 ---
 

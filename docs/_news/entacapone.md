@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Une étude menée sur près d'un million de patients vient de révéler un lien inattendu entre le vaccin contre la grippe et la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPazBYTjVtVG54a3N5QW9ZaHZ4dDJfeW1TR01zdGNUWlBmT2JhU1NXS25GelRGbmJTbHBmTnMzYWlBamNmdDY1cW9EajdGVy0tTnBhQlMxSFl1ejl6XzFfMkJVM08xU05SRUJnZnFLT0VmOFVLUF80YnNQbGFnTFN0S0VNMlV4X1RLcE5rSFB1YldiZjBFbzhZS29hZnprS0hkbHNWUVAzTWN1LWUxbzdNN1BwRjk1d1BYVlFLVWoxenBqMlVvM1ZhcTU3R0VaSXZLcll4SUVaN0R6UXJ1UVlmZjZMWUszMnVnZWhDR255cEVNNUdzek13ZHBXVQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPazBYTjVtVG54a3N5QW9ZaHZ4dDJfeW1TR01zdGNUWlBmT2JhU1NXS25GelRGbmJTbHBmTnMzYWlBamNmdDY1cW9EajdGVy0tTnBhQlMxSFl1ejl6XzFfMkJVM08xU05SRUJnZnFLT0VmOFVLUF80YnNQbGFnTFN0S0VNMlV4X1RLcE5rSFB1YldiZjBFbzhZS29hZnprS0hkbHNWUVAzTWN1LWUxbzdNN1BwRjk1d1BYVlFLVWoxenBqMlVvM1ZhcTU3R0VaSXZLcll4SUVaN0R6UXJ1UVlmZjZMWUszMnVnZWhDR255cEVNNUdzek13ZHBXVQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
