@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Neue Hoffnung bei Depressionen: Rheumamedikament zeigt gute Ergebnisse](https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0MwV1Qtcnp0clpMVmR2RFNRU2dMZDU3aldjY3IxOEpPSWhzS1IxQVFuclEtbmNQLWJDVzEyN3R1OEhmblJJVGhHdDhaTUpaWm5tc0xRWlpjQ1FDSnZVeFNsQVJEREVxUHdCMFp3NVNkN1RVV3loSm9wakVBWEdVN1pkdl93ZWlCak5xc2g1TVdtSGhVZ1RwdnBxWUVaRU0?oc=5)
-
-2026-06-05 <span class="news-indication-tag">depression</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0MwV1Qtcnp0clpMVmR2RFNRU2dMZDU3aldjY3IxOEpPSWhzS1IxQVFuclEtbmNQLWJDVzEyN3R1OEhmblJJVGhHdDhaTUpaWm5tc0xRWlpjQ1FDSnZVeFNsQVJEREVxUHdCMFp3NVNkN1RVV3loSm9wakVBWEdVN1pkdl93ZWlCak5xc2g1TVdtSGhVZ1RwdnBxWUVaRU0?oc=5)
-
----
-
-### [La depresión acelera el crecimiento maligno en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUx4a0JQb0VtXzNnTUhFZURhbXNvZTdXaTJ2cHQ3Vm12V2EyMnNNR29WU1htaU5jcmtvRkRsVXJIRG9vTkliLW4yZjdhWEtoOXVWNzEyOVU4WDZWck1BSEFSb3haQ0o3eDlLTFNiWGYxN1pXVGJCNzJYZUxyX2hHWWd3ZzdMc2d5T1lJeDF2Q0x3RlBRc3ZIQm1RSEJtaXJCdlhxZXpEZDFFUlVfck91QnlMUzV6Y2luZDJF0gG2AUFVX3lxTFBDOENGZnBDUTJLeTdqajJuZVhDUHRiQU13dDV2MFBaSG4ySzRUd2tsNzloYXBWSVhaYWdWRWhMWnhna2dSZDI0RjlRazNXOHNYTFRQREhFNnJQRFphRXBCREF0SE44NWlWOWI5N2NyM2tIWkJTanBWSlRpMWt0ZEIxRXE1VTdvRktKdl9hZGpiQTdLekl4cEtUcnpDV3FjaDVvTUZzSlpjcFB3WXZIQkUwbGtYX1FR?oc=5)
-
-2026-06-04 <span class="news-indication-tag">depresión</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUx4a0JQb0VtXzNnTUhFZURhbXNvZTdXaTJ2cHQ3Vm12V2EyMnNNR29WU1htaU5jcmtvRkRsVXJIRG9vTkliLW4yZjdhWEtoOXVWNzEyOVU4WDZWck1BSEFSb3haQ0o3eDlLTFNiWGYxN1pXVGJCNzJYZUxyX2hHWWd3ZzdMc2d5T1lJeDF2Q0x3RlBRc3ZIQm1RSEJtaXJCdlhxZXpEZDFFUlVfck91QnlMUzV6Y2luZDJF0gG2AUFVX3lxTFBDOENGZnBDUTJLeTdqajJuZVhDUHRiQU13dDV2MFBaSG4ySzRUd2tsNzloYXBWSVhaYWdWRWhMWnhna2dSZDI0RjlRazNXOHNYTFRQREhFNnJQRFphRXBCREF0SE44NWlWOWI5N2NyM2tIWkJTanBWSlRpMWt0ZEIxRXE1VTdvRktKdl9hZGpiQTdLekl4cEtUcnpDV3FjaDVvTUZzSlpjcFB3WXZIQkUwbGtYX1FR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

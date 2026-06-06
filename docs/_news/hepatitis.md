@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,13 +53,21 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [La hepatitis B, más cerca de una cura: un nuevo fármaco logra resultados inéditos - National Geographic España](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjR2ZHlxeXc2UnVCNFpfa2lHR2RZNHZNS2NOaW96TzBJY3JvbUhCMVNHRWkyTUFlUE9xS1VJNlAzR1VzNi05LWJxQmtPUy1nd2hwYnB4YUROdWpleU5rVXdJSHRNMEExMlFCWGxzTnQ5eS1Jck5zenZoaEh1VzBRZTluQ2tBTW9EQlZyMUtIUHJpcXhLR2JIUjFiSlA5RFhIaXNWOXlUMkhLXzFhNDdtTQ?oc=5)
+### [La Región de Murcia registró 75 nuevos diagnósticos de hepatitis C en 2025, la cifra más baja desde 2013 - Europa Press](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVR4VlhLNEYyYkhYam55ZGhwX0tJNHpFX3RlQUk2WFY0U0t2Z2pVb1l5WVpaRXBhV0NIV0lxQ1FmVW1OZ3R0NmhySjl1Si1mY0J3ejJNdFZvWFZoaVVkckV0OEFhOXBMbzYyOVVOUl9zb2VjU3lZRkxKeTdKT0V5VFl6NzR3ODE5Y2J4ZjNmUkVmU0Ryc0k2MFVRbGJ5dGxoSzdaLUJrdFFiYmtzZWlSMjI4WXRJcDU3aUZ2M05jVkN4QnExc2Y4anhDaVpTYXdMaXpJdHNuellzUQ?oc=5)
+
+2026-06-06
+
+來源：[Europa Press](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVR4VlhLNEYyYkhYam55ZGhwX0tJNHpFX3RlQUk2WFY0U0t2Z2pVb1l5WVpaRXBhV0NIV0lxQ1FmVW1OZ3R0NmhySjl1Si1mY0J3ejJNdFZvWFZoaVVkckV0OEFhOXBMbzYyOVVOUl9zb2VjU3lZRkxKeTdKT0V5VFl6NzR3ODE5Y2J4ZjNmUkVmU0Ryc0k2MFVRbGJ5dGxoSzdaLUJrdFFiYmtzZWlSMjI4WXRJcDU3aUZ2M05jVkN4QnExc2Y4anhDaVpTYXdMaXpJdHNuellzUQ?oc=5)
+
+---
+
+### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
 2026-06-05
 
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjR2ZHlxeXc2UnVCNFpfa2lHR2RZNHZNS2NOaW96TzBJY3JvbUhCMVNHRWkyTUFlUE9xS1VJNlAzR1VzNi05LWJxQmtPUy1nd2hwYnB4YUROdWpleU5rVXdJSHRNMEExMlFCWGxzTnQ5eS1Jck5zenZoaEh1VzBRZTluQ2tBTW9EQlZyMUtIUHJpcXhLR2JIUjFiSlA5RFhIaXNWOXlUMkhLXzFhNDdtTQ?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
 ---
 

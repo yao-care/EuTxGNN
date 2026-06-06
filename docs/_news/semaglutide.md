@@ -94,11 +94,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Ozempic y cáncer de mama: "Se observa un freno a la inflamación sistémica" - Diario de Sevilla](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMXVmQmpsa3RSanAxVWdsT1I2dnB3R3BtVHpMWUlZQXU4WlFneUh4RC1UZDJTQWo4UU96RDJNV3ltV1dKd01JWTB2LTB4Rk03enp2UFVIQi1naXVpaHhWSjloeFJTTFlNamRtbnlJQ3JzVnZiVVpZZi0xR3J1cTM3TGI2RzBPQmxwOGpEVG4yUXBtQdIBlwFBVV95cUxOaVFiZWN4VVdVcGEwZ0RzcThaSUxNR3N5UkdSd0hwY3l0blo1U0l3T0I3WGdJcWdSVGhVRlVlY19WamJjdDNSQVlVbkg5dnZQX3BIZWhKbEo2a3VHbmJod0NaREhSNE94WUI1a1pRWmtSdm5rZXJ4Q0NwQzFPWEN0ZmZxSndHbldCNlFCNnE4cjZudW9VN1dJ?oc=5)
+### [Pourquoi est-il primordial de stimuler vos muscles à tout âge ? - Corse Matin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0Y0Wkp4eDNLaVNheHpRTlBRRmlYMG1DY2pfd3Z0Y0Z2MUotbUFYd3UzMWhFTGhCbWJUaUU0MFI0TDVlMmdhYmRoNS0wYTFQcDV3MU1sVndSRkVFU3ppc2xUSnpTNTFiQVVodkE1WUpDQnBXb3hCV0t3TW1QaVRqZUpaYnE4eXk1YVhZME4zdmxNb3k4U28zTGxTaXNBUW5RSjRFVTJuUXdhUzZEOFg3Ti1xeW5rSzM4?oc=5)
 
-2026-06-05 <span class="news-drug-tag">Semaglutide</span>
+2026-06-05 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
 
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMXVmQmpsa3RSanAxVWdsT1I2dnB3R3BtVHpMWUlZQXU4WlFneUh4RC1UZDJTQWo4UU96RDJNV3ltV1dKd01JWTB2LTB4Rk03enp2UFVIQi1naXVpaHhWSjloeFJTTFlNamRtbnlJQ3JzVnZiVVpZZi0xR3J1cTM3TGI2RzBPQmxwOGpEVG4yUXBtQdIBlwFBVV95cUxOaVFiZWN4VVdVcGEwZ0RzcThaSUxNR3N5UkdSd0hwY3l0blo1U0l3T0I3WGdJcWdSVGhVRlVlY19WamJjdDNSQVlVbkg5dnZQX3BIZWhKbEo2a3VHbmJod0NaREhSNE94WUI1a1pRWmtSdm5rZXJ4Q0NwQzFPWEN0ZmZxSndHbldCNlFCNnE4cjZudW9VN1dJ?oc=5)
+來源：[Corse Matin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0Y0Wkp4eDNLaVNheHpRTlBRRmlYMG1DY2pfd3Z0Y0Z2MUotbUFYd3UzMWhFTGhCbWJUaUU0MFI0TDVlMmdhYmRoNS0wYTFQcDV3MU1sVndSRkVFU3ppc2xUSnpTNTFiQVVodkE1WUpDQnBXb3hCV0t3TW1QaVRqZUpaYnE4eXk1YVhZME4zdmxNb3k4U28zTGxTaXNBUW5RSjRFVTJuUXdhUzZEOFg3Ti1xeW5rSzM4?oc=5)
 
 ---
 
@@ -136,7 +136,7 @@ permalink: /news/semaglutide/
 
 ### [The GLP-1 workout: how to train if you’re on fat jabs - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjhReG9HTlhLTUNXcUYxV3NmR0tXay15Q1JGUTFHLWdLVkxhaWl3TnJoSnYtejNLYWtneGpwSlFTRVgyNVpKbXpTNkNKOHVNeGRyOWZkVXpEMHlRaU56ZlJsS3ZTV2ZoWmsySnFvSVk3VHRPdEplRjFmREJZZl9EWnpQUlo3cXM?oc=5)
 
-2026-06-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span>
+2026-06-05 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjhReG9HTlhLTUNXcUYxV3NmR0tXay15Q1JGUTFHLWdLVkxhaWl3TnJoSnYtejNLYWtneGpwSlFTRVgyNVpKbXpTNkNKOHVNeGRyOWZkVXpEMHlRaU56ZlJsS3ZTV2ZoWmsySnFvSVk3VHRPdEplRjFmREJZZl9EWnpQUlo3cXM?oc=5)
 
