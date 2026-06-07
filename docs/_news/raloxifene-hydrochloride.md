@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [El 90% de los factores de riesgo asociados al ictus se pueden modificar](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXlPYV9aVk53ci12Vm5mUVQ0U1Q3ZV9Taml3djFqeTJOU2Z1T1F2Zk1GNDRPWlpZUnhNaXhXQjlmZ3pFaFdoY0JQZUNmM2hMZFB5cGNEbDJWWUk4WnVPRHRRdE5rOGVUYnJZVWNNTHZhR3VSZkVGc1BmQ2lyUmdMVU1qcDFoRjBhRXBzLTJSdw?oc=5)
+### [El 90% de los factores de riesgo asociados al ictus se pueden modificar - Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGs5WW9yaXFYb3IwVk10SEpOVmpIbW1sUFZRelNJN3ZaS05pNC10YkJSWHFRY3JybnpxUVdBMkVYMnRtdEVBZk5sZG04d3dVX1pMOV9fUjZ0OXhxc0d6bk9JYVBULUhXd25MNWN5S1BPYWloTkJBMFRqMUhoSjZUaUJUWjVXeTEwenBHMGd3WmlwOGNwamRVN3kxRzIwNmhQ0gGmAUFVX3lxTFAxYTlUUDhmQXFQWFZ6ZjlSbktzS1hmV0FQcFhWcG1naFhsdnV5NzVSVl9HcHZTLVBsWTk0SXFxenFLWVdabUI3QVNrem9IYVhhSFhGM2FsTmxOdGs2ZEt3X0lLRUF2Z2NZaHRSeF9JS1FWcEFTZGZiamFlVEZZYUo1RHBXaG5YRkdvUk9zNUtyaWRoZklUVHRCVlY1c0hNZjl1SlpZX3c?oc=5)
 
 2026-06-06 <span class="news-indication-tag">ictus</span>
 
-來源：[Deia](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXlPYV9aVk53ci12Vm5mUVQ0U1Q3ZV9Taml3djFqeTJOU2Z1T1F2Zk1GNDRPWlpZUnhNaXhXQjlmZ3pFaFdoY0JQZUNmM2hMZFB5cGNEbDJWWUk4WnVPRHRRdE5rOGVUYnJZVWNNTHZhR3VSZkVGc1BmQ2lyUmdMVU1qcDFoRjBhRXBzLTJSdw?oc=5)
-
----
-
-### [Un casco 'made in Euskadi' para frenar el daño cerebral del ictus - El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
-
-2026-06-04 <span class="news-indication-tag">ictus</span>
-
-來源：[El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGs5WW9yaXFYb3IwVk10SEpOVmpIbW1sUFZRelNJN3ZaS05pNC10YkJSWHFRY3JybnpxUVdBMkVYMnRtdEVBZk5sZG04d3dVX1pMOV9fUjZ0OXhxc0d6bk9JYVBULUhXd25MNWN5S1BPYWloTkJBMFRqMUhoSjZUaUJUWjVXeTEwenBHMGd3WmlwOGNwamRVN3kxRzIwNmhQ0gGmAUFVX3lxTFAxYTlUUDhmQXFQWFZ6ZjlSbktzS1hmV0FQcFhWcG1naFhsdnV5NzVSVl9HcHZTLVBsWTk0SXFxenFLWVdabUI3QVNrem9IYVhhSFhGM2FsTmxOdGs2ZEt3X0lLRUF2Z2NZaHRSeF9JS1FWcEFTZGZiamFlVEZZYUo1RHBXaG5YRkdvUk9zNUtyaWRoZklUVHRCVlY1c0hNZjl1SlpZX3c?oc=5)
 
 ---
 

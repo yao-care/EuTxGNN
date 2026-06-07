@@ -54,6 +54,14 @@ permalink: /news/pegfilgrastim/
 
 ## 相關新聞（9 則）
 
+### [Marcado CE para la primera tecnología de detección dual de glucosa y cuerpos cetónicos en diabetes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
+
+---
+
 ### [Marcher 30 minutes par jour réduirait de 40 % le risque de diabète de type 2 selon une vaste étude](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
 
 2026-06-06 <span class="news-indication-tag">diabète</span>
@@ -91,14 +99,6 @@ permalink: /news/pegfilgrastim/
 2026-06-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR01oXy1Ka2RWbHZSMU9kWTdUU3F2T085bzNJOENmV2J2dVFvWlkxcnduTElBM1Y1MUJYTUpMWnY5LTZBR0lIVWxLNVJWbjAzSG9xOTNKeHkyRTRmOE4tdGpPUEhyTFhZbVBOV20xRFh5eHloZ0F1Z1hOazJQaVRxNFhVV0ZkWmdIQkhTcGxvMC1ScEFjRjVjOXlaRUlUTFgzUEcwTmFVeVZxSVFOTmpqUE1QbVo4cFkyRHN3SnNjd1hudw?oc=5)
-
----
-
-### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/elotuzumab/
 
 ## 相關新聞（21 則）
 
+### [«L'aspirina può aiutare a scoprire precocemente i sintomi del cancro alla prostata»: lo studio - Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUcwcjRVa0M0M1YzOGJXSUVuWXhjYVV3YzhOWXdvY1lNN3FXOVJTaFdLN204UGR6ajlFa1d0bzdXdDhCc1E3REVzZGJaSlZiRVcyUjhqRXZJQ0ZHRXF4STd6LWRoTEZoY1U4RzE0Q0VWSENjazdhMTNOOGQtQzh5X2ZjU29TajAzQm9KeGxmeHZIVUw3eEpWTFRFUHFRYWFZcTRzaVRuWDJnNDI30gGiAUFVX3lxTE55bnYxV0c2eG1NZXNfazZwOTgwVVJvRDc3c2Y2UEJtN3ZJcFVKU3VkM3pQMDVEZFhDNHZSRTZ1WE9IMXpXbFBVRWktSkk3aU5HWHQtbUEtbEhoQ0R0THBMT0tCOVl4MUR6eDhKTldMMUlYcWszU2tlUkcwd2N6dGNaVVJWelZzc0thbVEtZ0c3dFNGRnQ2cVdfNV80MmQzdEtwZw?oc=5)
+
+2026-06-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUcwcjRVa0M0M1YzOGJXSUVuWXhjYVV3YzhOWXdvY1lNN3FXOVJTaFdLN204UGR6ajlFa1d0bzdXdDhCc1E3REVzZGJaSlZiRVcyUjhqRXZJQ0ZHRXF4STd6LWRoTEZoY1U4RzE0Q0VWSENjazdhMTNOOGQtQzh5X2ZjU29TajAzQm9KeGxmeHZIVUw3eEpWTFRFUHFRYWFZcTRzaVRuWDJnNDI30gGiAUFVX3lxTE55bnYxV0c2eG1NZXNfazZwOTgwVVJvRDc3c2Y2UEJtN3ZJcFVKU3VkM3pQMDVEZFhDNHZSRTZ1WE9IMXpXbFBVRWktSkk3aU5HWHQtbUEtbEhoQ0R0THBMT0tCOVl4MUR6eDhKTldMMUlYcWszU2tlUkcwd2N6dGNaVVJWelZzc0thbVEtZ0c3dFNGRnQ2cVdfNV80MmQzdEtwZw?oc=5)
+
+---
+
 ### [Un nuevo fármaco oral duplica la supervivencia frente a quimioterapia en cáncer pancreático metastásico - Andalucía Información](https://news.google.com/rss/articles/CBMigAJBVV95cUxQSWxEdHM3QnRJTnhkQk1lam1jcEdCUGc0M0lSZHAtcWtrUVc2YnhONUZ1WmxLeEJqeFVacjdTRzJrWTkydE5ZS3huUkZBbWxIcl84S2x3WXY4cXBaSTV2Rng0MjdKSzFMcFF2Q3hfNXZaelVPTlItd25RSXF2V2wtdkxIMEt1QUtYTTZ5bk1CbDdza2tiQ3lvcXlwNU9BNEtIQlhMc2ZrOEYwd3lWVlNBeUFhdDhQWWV2XzBNRWswS3hXTTJadlktOGJuSzJ0MHFSaFJnT19QdDl0dWNySkNHeGF1Um9CbVNKM3U2YXdMd3JpMFROT25WN2JCbEY3OGxV0gGGAkFVX3lxTE1KVGZSeGRMcUJMdU9CUDBmUVNlUDR0NHN0TmdhYl9IdDF6QktxQVNnRl9XS2dGYjMxUVlYc1ZSb1hScnlUR1NHN1loQmZZell2TFVjUEZ6YU9JRklxWFUxdkpSVW9GVGZ3bWp2RjhteTFPR29TXy1HdXRRRFZGYlZuUjluMVk2TFM2dzB3V0lXVW8yaDlacHVDT1diQS1zb0hQWFFJRmpZSjl4U05GQ2xCMFlmQldkaGNKbEttWjVPaTdNSlQ5WF90R2FnVk1Zakl3SXgxLTZmSFVhQ3JuN0NlQ2JoUGU4SUJ1NTVLSWppUUo0LU5YcnYxRzBKMWpYc2tMbmJJeEE?oc=5)
 
 2026-06-06 <span class="news-indication-tag">cancer</span>
@@ -67,6 +75,14 @@ permalink: /news/elotuzumab/
 2026-06-06 <span class="news-indication-tag">Krebs</span>
 
 來源：[t3n](https://news.google.com/rss/articles/CBMid0FVX3lxTE9UWld3UFI5VEpWM3JmbUw2dV9QWXE1b1Z1aG5Td2M5RExFanlHSDhyVUlsYmloZS1aNzhqZFJDWVFWZERSNUpDeURSUUZBWUNsVDN1UnZjVGY4Um5lWWtsMWxhc3FHRE0tc3dYWnVCNGxxQWYzTnM4?oc=5)
+
+---
+
+### [My son’s bedwetting was CANCER - we were completely floored after blaming half-term symptoms on a virus - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
 
 ---
 
@@ -94,14 +110,6 @@ permalink: /news/elotuzumab/
 
 ---
 
-### [El Hospital Provincial de Castelló analiza los avances expuestos en el Congreso Americano de Oncología - Castellón Plaza](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZlJ3OVowZEE3VFRoVzdPUFhfZEdBZHd6amszbXl0UlByaEtDZjhFbnRKazlrLXVNcXhheDBBU2gxVVNvXzZNS0RMeV9hNXVfdXc0YXNTbWdheld3VHdOMkpLajh0QmpnS3ZOQWcxR0tOM3R4TkpISHZheURQa3ZqNEhEZ1c0M3pybFhWSXJ2ZjRBS1Awa2htaVpmVFdLSnIwY0dhNHRoVzJNcGtFaUhsbVpoUEEtTEtzaGxrN2gyM05HNjZkX0JHWGgtR0NiNU1jUGFSZXY1cXR1RXRoYWVtRFZSOGpLdw?oc=5)
-
-2026-06-06 <span class="news-indication-tag">tumor</span>
-
-來源：[Castellón Plaza](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZlJ3OVowZEE3VFRoVzdPUFhfZEdBZHd6amszbXl0UlByaEtDZjhFbnRKazlrLXVNcXhheDBBU2gxVVNvXzZNS0RMeV9hNXVfdXc0YXNTbWdheld3VHdOMkpLajh0QmpnS3ZOQWcxR0tOM3R4TkpISHZheURQa3ZqNEhEZ1c0M3pybFhWSXJ2ZjRBS1Awa2htaVpmVFdLSnIwY0dhNHRoVzJNcGtFaUhsbVpoUEEtTEtzaGxrN2gyM05HNjZkX0JHWGgtR0NiNU1jUGFSZXY1cXR1RXRoYWVtRFZSOGpLdw?oc=5)
-
----
-
 ### [Hautärztin klärt auf – Verhindert Sonnencreme die Vitamin-D-Bildung?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
 
 2026-06-05 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
@@ -110,11 +118,27 @@ permalink: /news/elotuzumab/
 
 ---
 
+### [IA, medicina de precisión, inmunoterapia...El Hospital Provincial de Castelló analiza los avances expuestos en el Congreso Americano de Oncología - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhTSkRLSmNOc1o1WDg4a09kdE1tQWI4eXhqczFlNDhqZTZ1Q1VEeWpMR052Nk9zWThDQzE2alFfMnE0WjFVd0l2cUpDQmtvN1FVdnNvWWRSOVZLTXJFM0VWWXh4QXJrVTV4SWpLWTBkMWNOZzhwUlFKZWl0SWlXTnBkS0M4VEpfbGVBMnBWN2RwWEozVEVsVWExZHVVSXBFUnRwYU9ELXpUWnFxdVpWbnZNRkxTdi14TTFKNlI5NzVZdXo3UjRlZtIBzgFBVV95cUxORDM1em1wamFhbGRWU1owVEVJX0l3azcwdk8tQmVuRjN4bkVoNDhiWUtMSkpibG5ldUxnbnN5YmFSUnpjX05zVUxXZkctVnRQdnJTQVFkLUpPM3FfTWgwWFh2RWxfQ2doMU1FVk0yZW5uSm1Lb3FWY3VENEZPRDhvUE9MdzJ6QzhSYTlGeXRTX3MxMlMyLVdkckt3WGNZY2dDaHB5bUE4bUlVdmVBYnhKVXBWMlN1cDRlLTFLYlIxd2o2U0pkcUJLaV91WVlkZw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">tumor</span>
+
+來源：[El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhTSkRLSmNOc1o1WDg4a09kdE1tQWI4eXhqczFlNDhqZTZ1Q1VEeWpMR052Nk9zWThDQzE2alFfMnE0WjFVd0l2cUpDQmtvN1FVdnNvWWRSOVZLTXJFM0VWWXh4QXJrVTV4SWpLWTBkMWNOZzhwUlFKZWl0SWlXTnBkS0M4VEpfbGVBMnBWN2RwWEozVEVsVWExZHVVSXBFUnRwYU9ELXpUWnFxdVpWbnZNRkxTdi14TTFKNlI5NzVZdXo3UjRlZtIBzgFBVV95cUxORDM1em1wamFhbGRWU1owVEVJX0l3azcwdk8tQmVuRjN4bkVoNDhiWUtMSkpibG5ldUxnbnN5YmFSUnpjX05zVUxXZkctVnRQdnJTQVFkLUpPM3FfTWgwWFh2RWxfQ2doMU1FVk0yZW5uSm1Lb3FWY3VENEZPRDhvUE9MdzJ6QzhSYTlGeXRTX3MxMlMyLVdkckt3WGNZY2dDaHB5bUE4bUlVdmVBYnhKVXBWMlN1cDRlLTFLYlIxd2o2U0pkcUJLaV91WVlkZw?oc=5)
+
+---
+
 ### [El doctor Javier Cortés Castán, reconocido entre los «2026 Giants of Cancer Care»](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
 
 2026-06-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
+
+---
+
+### [Linfoma di Hodgkin, nuove speranze per i malati: terapia mirata efficace in 1 paziente su 2 con recidive. Italia protagonista - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDY4N0s0ajc1ODdacEVQWENGZG9QZ1pOdFY4RjltNllzRXE0YV9DRVJpZ1daazVuTVBrSXR2U0t5d2UtNFJ4VEw1OExXRUtJODJWUmJkel9ISzB2R0VkYmd5NWNhckJoVDk3b0V5Y3dYcFduUS1KUGFJYmVlRXluM255UkhXelVnQjJZMVZ3?oc=5)
+
+2026-06-05 <span class="news-indication-tag">tumor</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDY4N0s0ajc1ODdacEVQWENGZG9QZ1pOdFY4RjltNllzRXE0YV9DRVJpZ1daazVuTVBrSXR2U0t5d2UtNFJ4VEw1OExXRUtJODJWUmJkel9ISzB2R0VkYmd5NWNhckJoVDk3b0V5Y3dYcFduUS1KUGFJYmVlRXluM255UkhXelVnQjJZMVZ3?oc=5)
 
 ---
 
@@ -147,14 +171,6 @@ permalink: /news/elotuzumab/
 2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
-
----
-
-### [Linfoma di Hodgkin: cos'è, sintomi, possibile cura e tasso di sopravvivenza - Sky TG24](https://news.google.com/rss/articles/CBMingFBVV95cUxNT3lPbWw3dmswcXotVWhwcGF6cnBaZ0dlTFMxQWpWOWtRbkR0Yzd5a0h4SnMwVDZ0OUw1TXdvanhLbFpHbDFaQ2lvODFmMU1GMy1FR0ZhR1JNY2t4eDBQRmpWMDk3WkFqTGUtSElkWllzOTJ4SFZCZXhPVWJhbDB6RURnWXp3SHNwcEZHcG9HamYtS3RQMmp6alZiSmR5Zw?oc=5)
-
-2026-06-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMingFBVV95cUxNT3lPbWw3dmswcXotVWhwcGF6cnBaZ0dlTFMxQWpWOWtRbkR0Yzd5a0h4SnMwVDZ0OUw1TXdvanhLbFpHbDFaQ2lvODFmMU1GMy1FR0ZhR1JNY2t4eDBQRmpWMDk3WkFqTGUtSElkWllzOTJ4SFZCZXhPVWJhbDB6RURnWXp3SHNwcEZHcG9HamYtS3RQMmp6alZiSmR5Zw?oc=5)
 
 ---
 
@@ -203,22 +219,6 @@ permalink: /news/elotuzumab/
 2026-06-05 <span class="news-indication-tag">tumor</span>
 
 來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVZuTFNscmc5ak9KTlY5b203U3lEeEhaazVfTTVoV0xQTGdiU1pQRnpXekNreDJ1Sm5Hb2xkWmJWeEpQSHMtdXY0OEdzM0RwblZub05SUFpOYl8yVlAyZW9nMkNEZ1ZOaVg5QzhJQnlPTzNtN2lfQjZNTVNkUkJ6NDlIWHZ4M19jTUZlX2ZjZEJIRjdyTERiZFB4MVRhVjBwVkxTOEEtWllWeWViS2ZfUTRHR3ZDWFh0SUFSY0ctYkhpazNadUY4NHJiMUctZw?oc=5)
-
----
-
-### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
----
-
-### [Contre les maladies de la peau, le CHU de Nice lance un dispositif unique en France](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcG1aWm02QkdLWWYzQVdPMzFKLXItVFdHTktoWkFZclJLeXowU2pweTZJWXRSM1FWSDgwOVhTVTYwdWNaanBvd3ZvYTFuRE1yOGExUFNwckp0SVVvQ2dvS2pocVlMdTdTUm5PSFF1eUJDQmtZSWdSZjNXZWJIQUZHWXZZU0syaDlvWnowV0NMQ2h1aWJSdk50Q1lLTlEwYmxOQ1JHX3NRNjg3cG5LNUIyM3JtbUlXLWxOazhWLWpRN2RGd1h1MXBVSHhRNkxWeTl3bWs2QnJFY2hNbk5MT292TlNNbGw?oc=5)
-
-2026-06-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcG1aWm02QkdLWWYzQVdPMzFKLXItVFdHTktoWkFZclJLeXowU2pweTZJWXRSM1FWSDgwOVhTVTYwdWNaanBvd3ZvYTFuRE1yOGExUFNwckp0SVVvQ2dvS2pocVlMdTdTUm5PSFF1eUJDQmtZSWdSZjNXZWJIQUZHWXZZU0syaDlvWnowV0NMQ2h1aWJSdk50Q1lLTlEwYmxOQ1JHX3NRNjg3cG5LNUIyM3JtbUlXLWxOazhWLWpRN2RGd1h1MXBVSHhRNkxWeTl3bWs2QnJFY2hNbk5MT292TlNNbGw?oc=5)
 
 ---
 

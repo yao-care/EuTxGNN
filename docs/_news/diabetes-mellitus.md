@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabète（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabète（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabète（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,14 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（9 則）
 
+### [Marcado CE para la primera tecnología de detección dual de glucosa y cuerpos cetónicos en diabetes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
+
+2026-06-06
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
+
+---
+
 ### [Marcher 30 minutes par jour réduirait de 40 % le risque de diabète de type 2 selon une vaste étude](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
 
 2026-06-06
@@ -153,14 +161,6 @@ permalink: /news/diabetes-mellitus/
 2026-06-05
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR01oXy1Ka2RWbHZSMU9kWTdUU3F2T085bzNJOENmV2J2dVFvWlkxcnduTElBM1Y1MUJYTUpMWnY5LTZBR0lIVWxLNVJWbjAzSG9xOTNKeHkyRTRmOE4tdGpPUEhyTFhZbVBOV20xRFh5eHloZ0F1Z1hOazJQaVRxNFhVV0ZkWmdIQkhTcGxvMC1ScEFjRjVjOXlaRUlUTFgzUEcwTmFVeVZxSVFOTmpqUE1QbVo4cFkyRHN3SnNjd1hudw?oc=5)
-
----
-
-### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
-2026-06-05
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 ---
 

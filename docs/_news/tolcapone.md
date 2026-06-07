@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [These games are proven to lower your dementia risk – play them here - The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2ViWFY4bnpFVUdRRUF0YzY2bGlzeUt2YzdTMExudldZdG5kdU56WVRUYTlLRnlqSVgtTDRWRFJadTVYOHRLRFJZSFljSFgyek1kU3NpOE05dkttNkd0SU1qS25tQWpjQ0VfRXVyTlNYdy1vSmRva3dDNWMwMGNyTzA4QmdfM2QtX2RmNGJRQQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">dementia</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2ViWFY4bnpFVUdRRUF0YzY2bGlzeUt2YzdTMExudldZdG5kdU56WVRUYTlLRnlqSVgtTDRWRFJadTVYOHRLRFJZSFljSFgyek1kU3NpOE05dkttNkd0SU1qS25tQWpjQ0VfRXVyTlNYdy1vSmRva3dDNWMwMGNyTzA4QmdfM2QtX2RmNGJRQQ?oc=5)
+
+---
+
+### [Leeds man told he just drank 'too much tea' - it was serious condition - Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
+
+---
 
 ### [Une étude menée sur près d'un million de patients vient de révéler un lien inattendu entre le vaccin contre la grippe et la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPazBYTjVtVG54a3N5QW9ZaHZ4dDJfeW1TR01zdGNUWlBmT2JhU1NXS25GelRGbmJTbHBmTnMzYWlBamNmdDY1cW9EajdGVy0tTnBhQlMxSFl1ejl6XzFfMkJVM08xU05SRUJnZnFLT0VmOFVLUF80YnNQbGFnTFN0S0VNMlV4X1RLcE5rSFB1YldiZjBFbzhZS29hZnprS0hkbHNWUVAzTWN1LWUxbzdNN1BwRjk1d1BYVlFLVWoxenBqMlVvM1ZhcTU3R0VaSXZLcll4SUVaN0R6UXJ1UVlmZjZMWUszMnVnZWhDR255cEVNNUdzek13ZHBXVQ?oc=5)
 

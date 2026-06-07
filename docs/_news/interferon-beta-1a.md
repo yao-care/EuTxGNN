@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,61 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（15 則）
+
+### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+
+---
+
+### [Demenz-Prävention: Semaglutid senkt Risiko bei Diabetikern um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRy11T0Vadi0xbzB3TW5sTTNBUm1rX0d6UXY2QWJORkdnVm8wTFY0ZC1zZ2JqbXpFWFdCYTRKS1NXdUlEczBtdUJYb2xYVm1LLVNNa0NUSWhGYjI1RkZOOGNoNktuaEdpYkEtMUJCc3EyMGtXVHpCUmJaelBBZVRNRlBqX25mRWlBQWRQOFQ0OXFMcFJ6ejdHU2d2SElfV3RTSTJKdXM5cmJ3MFppS1V4eXFrbTl2M1FlNnY5T0NR?oc=5)
+
+2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRy11T0Vadi0xbzB3TW5sTTNBUm1rX0d6UXY2QWJORkdnVm8wTFY0ZC1zZ2JqbXpFWFdCYTRKS1NXdUlEczBtdUJYb2xYVm1LLVNNa0NUSWhGYjI1RkZOOGNoNktuaEdpYkEtMUJCc3EyMGtXVHpCUmJaelBBZVRNRlBqX25mRWlBQWRQOFQ0OXFMcFJ6ejdHU2d2SElfV3RTSTJKdXM5cmJ3MFppS1V4eXFrbTl2M1FlNnY5T0NR?oc=5)
+
+---
+
+### [Darmflora schützt Gehirn: Kurzkettige Fettsäuren senken Alzheimer-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2c5aDNfdXhYNjE4b2VTM2hLcXVGOWhMUERob2xFN2N2dEV2NGpaQ3hrNTJIMEhLcEFqdVdyN2ctYTk1dlJtTVU0d3MtQlQ2U3NGdTItcFIyRk15YTgwZjVOMWZQTTR4aXJqczZoNVFVZUVNVDdMTks5Qmc3THV0blNOUzU4Qm9ab0h2NmVFOE9hLUJ2ZVlRcXE1TVkyR1psN0hseU90azJ4YzUyODVfWlFldnowSkU2VE1kbHJXWQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2c5aDNfdXhYNjE4b2VTM2hLcXVGOWhMUERob2xFN2N2dEV2NGpaQ3hrNTJIMEhLcEFqdVdyN2ctYTk1dlJtTVU0d3MtQlQ2U3NGdTItcFIyRk15YTgwZjVOMWZQTTR4aXJqczZoNVFVZUVNVDdMTks5Qmc3THV0blNOUzU4Qm9ab0h2NmVFOE9hLUJ2ZVlRcXE1TVkyR1psN0hseU90azJ4YzUyODVfWlFldnowSkU2VE1kbHJXWQ?oc=5)
+
+---
+
+### [Autism may have two distinct subtypes based on brain connectivity patterns - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRuNVFvS0ZwMjczRTF0OTBUenBuVHdmNHRIQkliZnVHcElheDVRRm5Tb04tS1dTNFVURGxJV0pxaUlvYWRZTVVVYjRZZElVZlg4OGhRUjluUnhlVG9HOFJEMjRJZE44MExHUVlkV0VWaEplQ0YwaWxjRDd3ZmRvazlXV0h6M3M?oc=5)
+
+2026-06-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRuNVFvS0ZwMjczRTF0OTBUenBuVHdmNHRIQkliZnVHcElheDVRRm5Tb04tS1dTNFVURGxJV0pxaUlvYWRZTVVVYjRZZElVZlg4OGhRUjluUnhlVG9HOFJEMjRJZE44MExHUVlkV0VWaEplQ0YwaWxjRDd3ZmRvazlXV0h6M3M?oc=5)
+
+---
+
+### [My son’s bedwetting was CANCER - we were completely floored after blaming half-term symptoms on a virus - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
+
+---
+
+### [Leeds man told he just drank 'too much tea' - it was serious condition - Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
+
+---
 
 ### [Investigadores chinos desmontan la recomendación de la OMS: se necesitan 10 horas semanales de ejercicio](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
 
 2026-06-06 <span class="news-indication-tag">MS</span>
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
-
----
-
-### [GLP-1 senkt Demenzrisiko: 53 % weniger bei Typ-2 und was Unternehmen wissen müssen - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQaklvRFpoUjRYbE9IcWUyWXhfNDBMeGN0MjNSV2lnZ0h6MkM5ejRMcld4YlQ5SVdJSkFhcUNCRmotVU9SZldzQ2RNcXpxUWVTLXBLTXh1TnV0YmY2UGNsQW9nT3JhUmxSLTVZNGp6RVJ3VFQtN21neDZkQjl4eGFibnFVUlczai1fRDRJNkZpQWhKSTdReF9ocnQ5WTFuRF9SUkpLWm1iLTFFeDZtZTZJdDhB?oc=5)
-
-2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQaklvRFpoUjRYbE9IcWUyWXhfNDBMeGN0MjNSV2lnZ0h6MkM5ejRMcld4YlQ5SVdJSkFhcUNCRmotVU9SZldzQ2RNcXpxUWVTLXBLTXh1TnV0YmY2UGNsQW9nT3JhUmxSLTVZNGp6RVJ3VFQtN21neDZkQjl4eGFibnFVUlczai1fRDRJNkZpQWhKSTdReF9ocnQ5WTFuRF9SUkpLWm1iLTFFeDZtZTZJdDhB?oc=5)
 
 ---
 
@@ -78,11 +118,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Mikrobiom 2026: Propionsäure steigert MS-Abwehr um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOajRrdDFTTldUdmh2SEo3U0p1MVFIMU5KWF9ISVRkRHdrZlBXUFN6bWMxcFRWTmNPUHhRVFgzRG16OGxkd1g1ZkcwUEVzb296RVdVZzdaMFRQTDN3dHpHLVVZQ0U3S1hDcDZPWTdHdUladGxIdW1fMG43OGhRaUJfRDd1WGg5UEhuT1RWeThRbXVLd0pQMVgyeU5aRHNwcjhMTy11VWVYQlJzajl2Um5v?oc=5)
+### [The 30-minute strength workout that will help you live longer – and boost your brain - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREhPUkhZVkU3OGZsRFdtTXkzZmxnMDZlc2Y1WGFoT1RmOUFjUVBVN1Q4MHJsVWpYcUpOSFhaTFI5T2dsRWQtZGN6UDhLYS05UXZYemJhSE5oTmdwMVRwdmVWeGs5UjZjZk11OVgzU3dRRXpfSVptbnpOakJ4LU9VNWQyN1FUeDFvX1o4T3FfVW5zU2JuNEFGVFdIOENFUWNtRmMzM0c2QXJGalg0OXRuMnlTZmxRVlUzTEE?oc=5)
 
-2026-06-05 <span class="news-indication-tag">MS</span>
+2026-06-06 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOajRrdDFTTldUdmh2SEo3U0p1MVFIMU5KWF9ISVRkRHdrZlBXUFN6bWMxcFRWTmNPUHhRVFgzRG16OGxkd1g1ZkcwUEVzb296RVdVZzdaMFRQTDN3dHpHLVVZQ0U3S1hDcDZPWTdHdUladGxIdW1fMG43OGhRaUJfRDd1WGg5UEhuT1RWeThRbXVLd0pQMVgyeU5aRHNwcjhMTy11VWVYQlJzajl2Um5v?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREhPUkhZVkU3OGZsRFdtTXkzZmxnMDZlc2Y1WGFoT1RmOUFjUVBVN1Q4MHJsVWpYcUpOSFhaTFI5T2dsRWQtZGN6UDhLYS05UXZYemJhSE5oTmdwMVRwdmVWeGs5UjZjZk11OVgzU3dRRXpfSVptbnpOakJ4LU9VNWQyN1FUeDFvX1o4T3FfVW5zU2JuNEFGVFdIOENFUWNtRmMzM0c2QXJGalg0OXRuMnlTZmxRVlUzTEE?oc=5)
 
 ---
 
@@ -118,11 +158,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [I was fit & healthy at 22 when I dropped down 'dead' in bathroom…my heart stopped after 2 weeks of 'silent' symptoms - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGlkWHBWS2hIVGNXRF9qYUYtOE1YWWMwdVpwTHZ3dHY3THd0TFNwY0o4cUZOV2MweFpyRmNncHA0eVlEdnBNUndyaGdFakNFd0l5ekpzX0Y2eHYySHBKeWpXc0JJTGFiNU8taEJTSDllNkJFS3VPaFBmTW1WMENkZWpxZWlPR0U?oc=5)
+### [Die unsichtbare Todesursache](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
 
 2026-06-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGlkWHBWS2hIVGNXRF9qYUYtOE1YWWMwdVpwTHZ3dHY3THd0TFNwY0o4cUZOV2MweFpyRmNncHA0eVlEdnBNUndyaGdFakNFd0l5ekpzX0Y2eHYySHBKeWpXc0JJTGFiNU8taEJTSDllNkJFS3VPaFBmTW1WMENkZWpxZWlPR0U?oc=5)
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
 
 ---
 
@@ -131,14 +171,6 @@ permalink: /news/interferon-beta-1a/
 2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzc5V2NPak5rR05WMlN2SlFUNUhpSEJCaEJLTDJxb2RfOUZSZEhhNWJaLXlHbVNpVXpUeXFNSnFBeUVoWmJtVnd4SzhnS18tRUJiRFZBUFpBUFVQQmhlc0FWQ1FjU19PTHU2UThkOHVERG83VHZOLTBKMDNOX2d3ZXRHdE1iU1NpQm5GOU05NHI?oc=5)
-
----
-
-### [Ultra-processed food harms tied to content not manufacture, review says - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHB4TUtXcEpRRHRISkdCd3VnTFZKNDhuOFgzU1FxUVJjVFJvNTYxTDgxalFiTFhXYjh5d052Y25QMXZjT1hxTjNNQjhseW83NFNCdlQtNW1fTVZMVWJOcnNIYlBzcXpNUFFlVGtUeW0wMEZBeWxxWmFhT2FhYm5VMDgxUXk?oc=5)
-
-2026-06-04 <span class="news-indication-tag">MS</span>
-
-來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHB4TUtXcEpRRHRISkdCd3VnTFZKNDhuOFgzU1FxUVJjVFJvNTYxTDgxalFiTFhXYjh5d052Y25QMXZjT1hxTjNNQjhseW83NFNCdlQtNW1fTVZMVWJOcnNIYlBzcXpNUFFlVGtUeW0wMEZBeWxxWmFhT2FhYm5VMDgxUXk?oc=5)
 
 ---
 

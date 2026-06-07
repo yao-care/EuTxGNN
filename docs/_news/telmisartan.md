@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Frauenherzen: Frühe Menopause erhöht Infarktrisiko um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbldjZGpyMGlVSGthWGdzMWJXeE12MXVYQ2g1ZDE2LU5BT3dDejJLYkZWSkhyTExLRG5oSGxzLVpVUENKRlJuVnFuTVhYYmx2UVN1MWhkVHdKTEx3dVJCVVJjX0JsU1JhN2p4NnJOS0Q3bm12TF9GdHpDR3E4ZEFBWmt1c0FfUWozdHZsMmZ1Sy1NYnk2LVlwNHZBNTNrQ01wcFBwZzFvZGVwMnpsdG1YLW1NUE4?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [El 90% de los factores de riesgo asociados al ictus se pueden modificar](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXlPYV9aVk53ci12Vm5mUVQ0U1Q3ZV9Taml3djFqeTJOU2Z1T1F2Zk1GNDRPWlpZUnhNaXhXQjlmZ3pFaFdoY0JQZUNmM2hMZFB5cGNEbDJWWUk4WnVPRHRRdE5rOGVUYnJZVWNNTHZhR3VSZkVGc1BmQ2lyUmdMVU1qcDFoRjBhRXBzLTJSdw?oc=5)
+### [El 90% de los factores de riesgo asociados al ictus se pueden modificar - Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGs5WW9yaXFYb3IwVk10SEpOVmpIbW1sUFZRelNJN3ZaS05pNC10YkJSWHFRY3JybnpxUVdBMkVYMnRtdEVBZk5sZG04d3dVX1pMOV9fUjZ0OXhxc0d6bk9JYVBULUhXd25MNWN5S1BPYWloTkJBMFRqMUhoSjZUaUJUWjVXeTEwenBHMGd3WmlwOGNwamRVN3kxRzIwNmhQ0gGmAUFVX3lxTFAxYTlUUDhmQXFQWFZ6ZjlSbktzS1hmV0FQcFhWcG1naFhsdnV5NzVSVl9HcHZTLVBsWTk0SXFxenFLWVdabUI3QVNrem9IYVhhSFhGM2FsTmxOdGs2ZEt3X0lLRUF2Z2NZaHRSeF9JS1FWcEFTZGZiamFlVEZZYUo1RHBXaG5YRkdvUk9zNUtyaWRoZklUVHRCVlY1c0hNZjl1SlpZX3c?oc=5)
 
 2026-06-06 <span class="news-indication-tag">ictus</span>
 
-來源：[Deia](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXlPYV9aVk53ci12Vm5mUVQ0U1Q3ZV9Taml3djFqeTJOU2Z1T1F2Zk1GNDRPWlpZUnhNaXhXQjlmZ3pFaFdoY0JQZUNmM2hMZFB5cGNEbDJWWUk4WnVPRHRRdE5rOGVUYnJZVWNNTHZhR3VSZkVGc1BmQ2lyUmdMVU1qcDFoRjBhRXBzLTJSdw?oc=5)
-
----
-
-### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
----
-
-### [Un casco 'made in Euskadi' para frenar el daño cerebral del ictus - El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
-
-2026-06-04 <span class="news-indication-tag">ictus</span>
-
-來源：[El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGs5WW9yaXFYb3IwVk10SEpOVmpIbW1sUFZRelNJN3ZaS05pNC10YkJSWHFRY3JybnpxUVdBMkVYMnRtdEVBZk5sZG04d3dVX1pMOV9fUjZ0OXhxc0d6bk9JYVBULUhXd25MNWN5S1BPYWloTkJBMFRqMUhoSjZUaUJUWjVXeTEwenBHMGd3WmlwOGNwamRVN3kxRzIwNmhQ0gGmAUFVX3lxTFAxYTlUUDhmQXFQWFZ6ZjlSbktzS1hmV0FQcFhWcG1naFhsdnV5NzVSVl9HcHZTLVBsWTk0SXFxenFLWVdabUI3QVNrem9IYVhhSFhGM2FsTmxOdGs2ZEt3X0lLRUF2Z2NZaHRSeF9JS1FWcEFTZGZiamFlVEZZYUo1RHBXaG5YRkdvUk9zNUtyaWRoZklUVHRCVlY1c0hNZjl1SlpZX3c?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,15 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
-
-### [OBScore statt BMI: KI-gestützte Risikobewertung für Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWZiRC1QOG9Ta0d4SEJSNmo4OUhXTU5qN1YtVHM1cHZ1TUtiUi1WbkhiTFliU0NDWTdBNVFvWDZGMTdYTXplVER6M3Y3anhQSUhscFZRU0FDNF82S2NsWmZxS2F1Q1RaVWp6TDQ0NHQ4dFZSMjNmQ0lMSllvVUFXU085ME9BeEotNXJCM3djYlcyMzBYMGxCQVlheTgwSEhZd1BvRzhuTQ?oc=5)
-
-2026-06-06
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWZiRC1QOG9Ta0d4SEJSNmo4OUhXTU5qN1YtVHM1cHZ1TUtiUi1WbkhiTFliU0NDWTdBNVFvWDZGMTdYTXplVER6M3Y3anhQSUhscFZRU0FDNF82S2NsWmZxS2F1Q1RaVWp6TDQ0NHQ4dFZSMjNmQ0lMSllvVUFXU085ME9BeEotNXJCM3djYlcyMzBYMGxCQVlheTgwSEhZd1BvRzhuTQ?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Lilly impulsa "Razones de Peso" para visibilizar la obesidad - Revista Pharma Market](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2JIRE1abGQwZG5XRWxJa3laZ1pielFLNmtfMjRuYk5EVkh4ck1HNnRVWDBjXzlkLVAyLTdpTUdDN0MwQkFLamRjSkZ4WTZjRUdTUTh2ZjYzclpTWjRSNjhUS200cGd1MEJfM1h1Zk43NVZPc2llUnRvRmtZeWxwWGtqOExLYzVuQ1YyWG9BX0FsQVFBbnJr?oc=5)
 

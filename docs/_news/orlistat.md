@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [OBScore statt BMI: KI-gestützte Risikobewertung für Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWZiRC1QOG9Ta0d4SEJSNmo4OUhXTU5qN1YtVHM1cHZ1TUtiUi1WbkhiTFliU0NDWTdBNVFvWDZGMTdYTXplVER6M3Y3anhQSUhscFZRU0FDNF82S2NsWmZxS2F1Q1RaVWp6TDQ0NHQ4dFZSMjNmQ0lMSllvVUFXU085ME9BeEotNXJCM3djYlcyMzBYMGxCQVlheTgwSEhZd1BvRzhuTQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWZiRC1QOG9Ta0d4SEJSNmo4OUhXTU5qN1YtVHM1cHZ1TUtiUi1WbkhiTFliU0NDWTdBNVFvWDZGMTdYTXplVER6M3Y3anhQSUhscFZRU0FDNF82S2NsWmZxS2F1Q1RaVWp6TDQ0NHQ4dFZSMjNmQ0lMSllvVUFXU085ME9BeEotNXJCM3djYlcyMzBYMGxCQVlheTgwSEhZd1BvRzhuTQ?oc=5)
-
----
-
-### [El 90% de los factores de riesgo asociados al ictus se pueden modificar](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXlPYV9aVk53ci12Vm5mUVQ0U1Q3ZV9Taml3djFqeTJOU2Z1T1F2Zk1GNDRPWlpZUnhNaXhXQjlmZ3pFaFdoY0JQZUNmM2hMZFB5cGNEbDJWWUk4WnVPRHRRdE5rOGVUYnJZVWNNTHZhR3VSZkVGc1BmQ2lyUmdMVU1qcDFoRjBhRXBzLTJSdw?oc=5)
+### [El 90% de los factores de riesgo asociados al ictus se pueden modificar - Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGs5WW9yaXFYb3IwVk10SEpOVmpIbW1sUFZRelNJN3ZaS05pNC10YkJSWHFRY3JybnpxUVdBMkVYMnRtdEVBZk5sZG04d3dVX1pMOV9fUjZ0OXhxc0d6bk9JYVBULUhXd25MNWN5S1BPYWloTkJBMFRqMUhoSjZUaUJUWjVXeTEwenBHMGd3WmlwOGNwamRVN3kxRzIwNmhQ0gGmAUFVX3lxTFAxYTlUUDhmQXFQWFZ6ZjlSbktzS1hmV0FQcFhWcG1naFhsdnV5NzVSVl9HcHZTLVBsWTk0SXFxenFLWVdabUI3QVNrem9IYVhhSFhGM2FsTmxOdGs2ZEt3X0lLRUF2Z2NZaHRSeF9JS1FWcEFTZGZiamFlVEZZYUo1RHBXaG5YRkdvUk9zNUtyaWRoZklUVHRCVlY1c0hNZjl1SlpZX3c?oc=5)
 
 2026-06-06 <span class="news-indication-tag">ictus</span>
 
-來源：[Deia](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXlPYV9aVk53ci12Vm5mUVQ0U1Q3ZV9Taml3djFqeTJOU2Z1T1F2Zk1GNDRPWlpZUnhNaXhXQjlmZ3pFaFdoY0JQZUNmM2hMZFB5cGNEbDJWWUk4WnVPRHRRdE5rOGVUYnJZVWNNTHZhR3VSZkVGc1BmQ2lyUmdMVU1qcDFoRjBhRXBzLTJSdw?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGs5WW9yaXFYb3IwVk10SEpOVmpIbW1sUFZRelNJN3ZaS05pNC10YkJSWHFRY3JybnpxUVdBMkVYMnRtdEVBZk5sZG04d3dVX1pMOV9fUjZ0OXhxc0d6bk9JYVBULUhXd25MNWN5S1BPYWloTkJBMFRqMUhoSjZUaUJUWjVXeTEwenBHMGd3WmlwOGNwamRVN3kxRzIwNmhQ0gGmAUFVX3lxTFAxYTlUUDhmQXFQWFZ6ZjlSbktzS1hmV0FQcFhWcG1naFhsdnV5NzVSVl9HcHZTLVBsWTk0SXFxenFLWVdabUI3QVNrem9IYVhhSFhGM2FsTmxOdGs2ZEt3X0lLRUF2Z2NZaHRSeF9JS1FWcEFTZGZiamFlVEZZYUo1RHBXaG5YRkdvUk9zNUtyaWRoZklUVHRCVlY1c0hNZjl1SlpZX3c?oc=5)
 
 ---
 
@@ -107,14 +99,6 @@ permalink: /news/orlistat/
 2026-06-05 <span class="news-indication-tag">obesità</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXBXV00yNnBQcEhNaFNrUWhYN0dRTzIyQ2hVeEkzOVJmNWVMQ2syM1VTM0JHZkdvbXdlWGlfQWdJdWVyRmhmbzdvTnlwNFlYQm1yajlXcGtWLXMyU25jdHduU0RHN1ZmWHl4d3F2dG1Sdi1Sem9xRF9oX1pNWDUwZFFrcVFnRFVFakhnXzJqLXI5bTMxUTk2YVEzTUNMRHQ5bTBzOWFBb0hVRjQybzNRWGRkZDd3eVd2RGFEQVJXZnpfSkhYeDBTNW0tcjJhMUY1aFp4X3hzR1l1NWFZ0gHiAUFVX3lxTE9ybWMtdE5HSUVlcktsYmoycXRDM0VuU08zMVRqNmYtUGZmM1R4dnRENk1NcVV5WDcxZkxvMXltczdjWUJ3cDduZ2dtTGxaN1gxXzRXcVp6cDZYRkxGWXhiRmEyZmVBamZaUzk2cXJzelRMWUNpZ2JhMVVvbkZJYjBJN3dRU0V0VlVQOGlVWmQwRjNldzJsVEZVc0FfSjBfOUctLU1WMmVNX1JoemNybnJuY1U5QXpQcjNiTWp6R3ZsMHlxQnJoZlp2YVgxRzNyVk5BSHpkRXZwZU43TFdCdVBuSmc?oc=5)
-
----
-
-### [Un casco 'made in Euskadi' para frenar el daño cerebral del ictus - El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
-
-2026-06-04 <span class="news-indication-tag">ictus</span>
-
-來源：[El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
 
 ---
 

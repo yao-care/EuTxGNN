@@ -54,9 +54,17 @@ permalink: /news/vernakalant-hydrochloride/
 
 ## 相關新聞（27 則）
 
+### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+
+---
+
 ### [Demenz-Risiko: Diese Faktoren treffen Frauen stärker als Männer - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUE4tMmJlNW1fRDFpY3RnX092VEVCVGI3RXh1dHVyQkhOdWVybUUxVlpYcWFPUVdFcnNmVHptTmdaLUJfc1VxSTJ4RU96YnpGRnpnajEyMEpzVjhQRGJZVVpSd2hQeDJsdGxCcnVzNTNrRDdYV3VycE02TlV4TTg0MFNtQlFBOUR2SnNZNHlRel9SN1Q0eEZZSDF2ZU5OVjgwNERDSXNuUng0QnYxNDJvaGdJM2hOUU9uT1c5N053YkFaSHpkTUZV?oc=5)
 
-2026-06-06 <span class="news-indication-tag">AF</span>
+2026-06-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUE4tMmJlNW1fRDFpY3RnX092VEVCVGI3RXh1dHVyQkhOdWVybUUxVlpYcWFPUVdFcnNmVHptTmdaLUJfc1VxSTJ4RU96YnpGRnpnajEyMEpzVjhQRGJZVVpSd2hQeDJsdGxCcnVzNTNrRDdYV3VycE02TlV4TTg0MFNtQlFBOUR2SnNZNHlRel9SN1Q0eEZZSDF2ZU5OVjgwNERDSXNuUng0QnYxNDJvaGdJM2hOUU9uT1c5N053YkFaSHpkTUZV?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [OBScore statt BMI: KI-gestützte Risikobewertung für Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWZiRC1QOG9Ta0d4SEJSNmo4OUhXTU5qN1YtVHM1cHZ1TUtiUi1WbkhiTFliU0NDWTdBNVFvWDZGMTdYTXplVER6M3Y3anhQSUhscFZRU0FDNF82S2NsWmZxS2F1Q1RaVWp6TDQ0NHQ4dFZSMjNmQ0lMSllvVUFXU085ME9BeEotNXJCM3djYlcyMzBYMGxCQVlheTgwSEhZd1BvRzhuTQ?oc=5)
+### [Les médecins ont tranché : cette boisson du matin qu'on adore abîme pourtant le cerveau chaque jour](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
 
-2026-06-06 <span class="news-indication-tag">Adipositas</span>
+2026-06-06 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWZiRC1QOG9Ta0d4SEJSNmo4OUhXTU5qN1YtVHM1cHZ1TUtiUi1WbkhiTFliU0NDWTdBNVFvWDZGMTdYTXplVER6M3Y3anhQSUhscFZRU0FDNF82S2NsWmZxS2F1Q1RaVWp6TDQ0NHQ4dFZSMjNmQ0lMSllvVUFXU085ME9BeEotNXJCM3djYlcyMzBYMGxCQVlheTgwSEhZd1BvRzhuTQ?oc=5)
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
 
 ---
 
@@ -94,11 +102,27 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [El 90% de los factores de riesgo asociados al ictus se pueden modificar](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXlPYV9aVk53ci12Vm5mUVQ0U1Q3ZV9Taml3djFqeTJOU2Z1T1F2Zk1GNDRPWlpZUnhNaXhXQjlmZ3pFaFdoY0JQZUNmM2hMZFB5cGNEbDJWWUk4WnVPRHRRdE5rOGVUYnJZVWNNTHZhR3VSZkVGc1BmQ2lyUmdMVU1qcDFoRjBhRXBzLTJSdw?oc=5)
+### [My son’s bedwetting was CANCER - we were completely floored after blaming half-term symptoms on a virus - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
+
+---
+
+### [El 90% de los factores de riesgo asociados al ictus se pueden modificar - Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGs5WW9yaXFYb3IwVk10SEpOVmpIbW1sUFZRelNJN3ZaS05pNC10YkJSWHFRY3JybnpxUVdBMkVYMnRtdEVBZk5sZG04d3dVX1pMOV9fUjZ0OXhxc0d6bk9JYVBULUhXd25MNWN5S1BPYWloTkJBMFRqMUhoSjZUaUJUWjVXeTEwenBHMGd3WmlwOGNwamRVN3kxRzIwNmhQ0gGmAUFVX3lxTFAxYTlUUDhmQXFQWFZ6ZjlSbktzS1hmV0FQcFhWcG1naFhsdnV5NzVSVl9HcHZTLVBsWTk0SXFxenFLWVdabUI3QVNrem9IYVhhSFhGM2FsTmxOdGs2ZEt3X0lLRUF2Z2NZaHRSeF9JS1FWcEFTZGZiamFlVEZZYUo1RHBXaG5YRkdvUk9zNUtyaWRoZklUVHRCVlY1c0hNZjl1SlpZX3c?oc=5)
 
 2026-06-06 <span class="news-indication-tag">ictus</span>
 
-來源：[Deia](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXlPYV9aVk53ci12Vm5mUVQ0U1Q3ZV9Taml3djFqeTJOU2Z1T1F2Zk1GNDRPWlpZUnhNaXhXQjlmZ3pFaFdoY0JQZUNmM2hMZFB5cGNEbDJWWUk4WnVPRHRRdE5rOGVUYnJZVWNNTHZhR3VSZkVGc1BmQ2lyUmdMVU1qcDFoRjBhRXBzLTJSdw?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGs5WW9yaXFYb3IwVk10SEpOVmpIbW1sUFZRelNJN3ZaS05pNC10YkJSWHFRY3JybnpxUVdBMkVYMnRtdEVBZk5sZG04d3dVX1pMOV9fUjZ0OXhxc0d6bk9JYVBULUhXd25MNWN5S1BPYWloTkJBMFRqMUhoSjZUaUJUWjVXeTEwenBHMGd3WmlwOGNwamRVN3kxRzIwNmhQ0gGmAUFVX3lxTFAxYTlUUDhmQXFQWFZ6ZjlSbktzS1hmV0FQcFhWcG1naFhsdnV5NzVSVl9HcHZTLVBsWTk0SXFxenFLWVdabUI3QVNrem9IYVhhSFhGM2FsTmxOdGs2ZEt3X0lLRUF2Z2NZaHRSeF9JS1FWcEFTZGZiamFlVEZZYUo1RHBXaG5YRkdvUk9zNUtyaWRoZklUVHRCVlY1c0hNZjl1SlpZX3c?oc=5)
+
+---
+
+### [How Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain - Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5)
+
+2026-06-06 <span class="news-indication-tag">AF</span>
+
+來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5)
 
 ---
 
@@ -206,14 +230,6 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [I was fit & healthy at 22 when I dropped down 'dead' in bathroom…my heart stopped after 2 weeks of 'silent' symptoms - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGlkWHBWS2hIVGNXRF9qYUYtOE1YWWMwdVpwTHZ3dHY3THd0TFNwY0o4cUZOV2MweFpyRmNncHA0eVlEdnBNUndyaGdFakNFd0l5ekpzX0Y2eHYySHBKeWpXc0JJTGFiNU8taEJTSDllNkJFS3VPaFBmTW1WMENkZWpxZWlPR0U?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGlkWHBWS2hIVGNXRF9qYUYtOE1YWWMwdVpwTHZ3dHY3THd0TFNwY0o4cUZOV2MweFpyRmNncHA0eVlEdnBNUndyaGdFakNFd0l5ekpzX0Y2eHYySHBKeWpXc0JJTGFiNU8taEJTSDllNkJFS3VPaFBmTW1WMENkZWpxZWlPR0U?oc=5)
-
----
-
 ### [Miranza da un paso adelante en la rehabilitación de la orbitopatía tiroidea](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZnell1VUlZYlc5YzVCQ3p1ckZWUm9BTHBsTWlRYUlqem1ld01lVlBYVDZoUnVpNTB5OHJmbFQ5UF9lRWQtdWhfWlZzUzZlNU9MbndWdUVOSUVsOVhxR09IMnhWYUdTeTNRaUp1VUt2SGMzY2U0NHNNNE41dGpiaFZKb0VzSFhlNGp1VUd3OVBVZHRUN1pGYXZDSURESU84?oc=5)
 
 2026-06-05 <span class="news-indication-tag">AF</span>
@@ -224,17 +240,9 @@ permalink: /news/vernakalant-hydrochloride/
 
 ### [Die unsichtbare Todesursache](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
 
-2026-06-05 <span class="news-indication-tag">AF</span>
+2026-06-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
-
----
-
-### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 ---
 
@@ -259,14 +267,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-05 <span class="news-indication-tag">obesità</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXBXV00yNnBQcEhNaFNrUWhYN0dRTzIyQ2hVeEkzOVJmNWVMQ2syM1VTM0JHZkdvbXdlWGlfQWdJdWVyRmhmbzdvTnlwNFlYQm1yajlXcGtWLXMyU25jdHduU0RHN1ZmWHl4d3F2dG1Sdi1Sem9xRF9oX1pNWDUwZFFrcVFnRFVFakhnXzJqLXI5bTMxUTk2YVEzTUNMRHQ5bTBzOWFBb0hVRjQybzNRWGRkZDd3eVd2RGFEQVJXZnpfSkhYeDBTNW0tcjJhMUY1aFp4X3hzR1l1NWFZ0gHiAUFVX3lxTE9ybWMtdE5HSUVlcktsYmoycXRDM0VuU08zMVRqNmYtUGZmM1R4dnRENk1NcVV5WDcxZkxvMXltczdjWUJ3cDduZ2dtTGxaN1gxXzRXcVp6cDZYRkxGWXhiRmEyZmVBamZaUzk2cXJzelRMWUNpZ2JhMVVvbkZJYjBJN3dRU0V0VlVQOGlVWmQwRjNldzJsVEZVc0FfSjBfOUctLU1WMmVNX1JoemNybnJuY1U5QXpQcjNiTWp6R3ZsMHlxQnJoZlp2YVgxRzNyVk5BSHpkRXZwZU43TFdCdVBuSmc?oc=5)
-
----
-
-### [Un casco 'made in Euskadi' para frenar el daño cerebral del ictus - El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
-
-2026-06-04 <span class="news-indication-tag">ictus</span>
-
-來源：[El Correo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUR3MkxoUm5wNW1EWDhSVG5fcDlweVgxLTYtaFhxaG5VZ1I4dGh0STBqNTZua0dKRkFJcmdkZlpZMjl2b3M4U1lxRXYyaG5oREVYeXNDMWlaM19LZEt0WGVXckt4ajFKRUJxNHptU3hJZzczbXBHc0dwYW10WWphUmd2R0pqUGt4MlZ6a2E2MFVISmI1c3AzbDBTZEtwdDZZejl1amhKTnlqc0pW?oc=5)
 
 ---
 

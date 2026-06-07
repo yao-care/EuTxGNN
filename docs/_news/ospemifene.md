@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="Ospemifene 有什麼相關新聞？">
-<strong>Ospemifene</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ospemifene</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ospemifene/
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Frauenherzen: Frühe Menopause erhöht Infarktrisiko um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbldjZGpyMGlVSGthWGdzMWJXeE12MXVYQ2g1ZDE2LU5BT3dDejJLYkZWSkhyTExLRG5oSGxzLVpVUENKRlJuVnFuTVhYYmx2UVN1MWhkVHdKTEx3dVJCVVJjX0JsU1JhN2p4NnJOS0Q3bm12TF9GdHpDR3E4ZEFBWmt1c0FfUWozdHZsMmZ1Sy1NYnk2LVlwNHZBNTNrQ01wcFBwZzFvZGVwMnpsdG1YLW1NUE4?oc=5)
 
 2026-06-06 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbldjZGpyMGlVSGthWGdzMWJXeE12MXVYQ2g1ZDE2LU5BT3dDejJLYkZWSkhyTExLRG5oSGxzLVpVUENKRlJuVnFuTVhYYmx2UVN1MWhkVHdKTEx3dVJCVVJjX0JsU1JhN2p4NnJOS0Q3bm12TF9GdHpDR3E4ZEFBWmt1c0FfUWozdHZsMmZ1Sy1NYnk2LVlwNHZBNTNrQ01wcFBwZzFvZGVwMnpsdG1YLW1NUE4?oc=5)
-
----
-
-### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 ---
 

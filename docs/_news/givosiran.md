@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [La Región de Murcia registró 75 nuevos diagnósticos de hepatitis C en 2025, la cifra más baja desde 2013 - La Verdad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFRjUlgtNkZiNktNVTFwbE5jZEFsZy1UdDJSd0NJY05GWDRaZGxjLUhZVDg0N0JLVWFVaVhqVW1QOXNGaHFwMEs2a0tSRU9EXzZCeC0yU1JYVDRlclFvdW5sQVp3bThIMi11aEdBNWtBbE5UaUVrV29xSDlpN1ZHbEpmVGxjZmVZMnBVQzMwTVItaURXT0NmdUdhT3gtX052UlRKamZZMnNlX3dNQlZZN9IBtgFBVV95cUxQVEdtaDBuUXV4dmRjVnJGRlJXdEVUV09SOXVweFAyM1BwRjVHallxRk5Ic2FZaHhjcHc0OW4yT183ZWJvRzFUeTR3U3kzYkluTVBHZWNGc1ZlaU9NbTB2Z1R3Z0ZqdUpsOVE5T09fZHI4QzJUX0J2RDZjenJQZGhGQm80bVhrUVFLTEM4SmlWNzVUWXVTV1FySGs4XzdCTXh4VWhxbWxFOWZBNGo1bGRpNXprQWQwQQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/givosiran/
 2026-06-05 <span class="news-indication-tag">hepatitis</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
-
----
-
-### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 ---
 

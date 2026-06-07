@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。20 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。22 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>20 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>22 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,15 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（22 則）
+
+### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+
+2026-06-07
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+
+---
 
 ### [Demenz-Risiko: Diese Faktoren treffen Frauen stärker als Männer - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUE4tMmJlNW1fRDFpY3RnX092VEVCVGI3RXh1dHVyQkhOdWVybUUxVlpYcWFPUVdFcnNmVHptTmdaLUJfc1VxSTJ4RU96YnpGRnpnajEyMEpzVjhQRGJZVVpSd2hQeDJsdGxCcnVzNTNrRDdYV3VycE02TlV4TTg0MFNtQlFBOUR2SnNZNHlRel9SN1Q0eEZZSDF2ZU5OVjgwNERDSXNuUng0QnYxNDJvaGdJM2hOUU9uT1c5N053YkFaSHpkTUZV?oc=5)
 
@@ -93,11 +101,35 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [Les médecins ont tranché : cette boisson du matin qu'on adore abîme pourtant le cerveau chaque jour](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
+
+2026-06-06
+
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
+
+---
+
 ### [Crise de la quarantaine disparue : le basculement inquiétant de la santé mentale qui frappe désormais les jeunes adultes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZHowVlpueDlMbVdYWmt0aHJaRGpvQUg2aGUwTkd4NkV2aGQxSGZCa0ZsRDBCVFZtZ25jUDFsX3d6T3U2bmNnYTIzTFItZmZubUIxVnZaa3owMy04SGdpSkRTSTEyUDVtbWRBN1NTQUJmaVgxNGVLZ3kyZ3VRNlc4MnQ4d1hnajRUTTdaYUN5bTJ3U2V5UXFtSmFwVkEySEJRZXBxTG5xUzdQVGVURlJrNWs2SU5wLWhGaDgwR0hpeG1VQkxPeUNqbDRoS1V5WnRoNGJxdmJJQjhLZw?oc=5)
 
 2026-06-06
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZHowVlpueDlMbVdYWmt0aHJaRGpvQUg2aGUwTkd4NkV2aGQxSGZCa0ZsRDBCVFZtZ25jUDFsX3d6T3U2bmNnYTIzTFItZmZubUIxVnZaa3owMy04SGdpSkRTSTEyUDVtbWRBN1NTQUJmaVgxNGVLZ3kyZ3VRNlc4MnQ4d1hnajRUTTdaYUN5bTJ3U2V5UXFtSmFwVkEySEJRZXBxTG5xUzdQVGVURlJrNWs2SU5wLWhGaDgwR0hpeG1VQkxPeUNqbDRoS1V5WnRoNGJxdmJJQjhLZw?oc=5)
+
+---
+
+### [My son’s bedwetting was CANCER - we were completely floored after blaming half-term symptoms on a virus - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
+
+2026-06-06
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
+
+---
+
+### [How Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain - Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5)
+
+2026-06-06
+
+來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5)
 
 ---
 
@@ -189,14 +221,6 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [I was fit & healthy at 22 when I dropped down 'dead' in bathroom…my heart stopped after 2 weeks of 'silent' symptoms - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGlkWHBWS2hIVGNXRF9qYUYtOE1YWWMwdVpwTHZ3dHY3THd0TFNwY0o4cUZOV2MweFpyRmNncHA0eVlEdnBNUndyaGdFakNFd0l5ekpzX0Y2eHYySHBKeWpXc0JJTGFiNU8taEJTSDllNkJFS3VPaFBmTW1WMENkZWpxZWlPR0U?oc=5)
-
-2026-06-05
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGlkWHBWS2hIVGNXRF9qYUYtOE1YWWMwdVpwTHZ3dHY3THd0TFNwY0o4cUZOV2MweFpyRmNncHA0eVlEdnBNUndyaGdFakNFd0l5ekpzX0Y2eHYySHBKeWpXc0JJTGFiNU8taEJTSDllNkJFS3VPaFBmTW1WMENkZWpxZWlPR0U?oc=5)
-
----
-
 ### [Miranza da un paso adelante en la rehabilitación de la orbitopatía tiroidea](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZnell1VUlZYlc5YzVCQ3p1ckZWUm9BTHBsTWlRYUlqem1ld01lVlBYVDZoUnVpNTB5OHJmbFQ5UF9lRWQtdWhfWlZzUzZlNU9MbndWdUVOSUVsOVhxR09IMnhWYUdTeTNRaUp1VUt2SGMzY2U0NHNNNE41dGpiaFZKb0VzSFhlNGp1VUd3OVBVZHRUN1pGYXZDSURESU84?oc=5)
 
 2026-06-05
@@ -210,14 +234,6 @@ permalink: /news/atrial-fibrillation/
 2026-06-05
 
 來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
-
----
-
-### [Kardiovaskuläres Risiko bei Typ-1-Diabetes – positive und negative Trends - Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
-
-2026-06-05
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijgFBVV95cUxObUZBS3lBakxBNWNVLTdSUE5FdmJ1UVQ0WktQSF9pSENvdkVvdHRaWXZMcGRPQi1wY3hwdUZ6a2pZTFZBZWNJU0pydzBiQThwVWMzanBEOHl0SHFxaWI1d1ZmVHUwNUVySTFNdU1Sd3ZCOWFGRUQ1dU90T2pOd1lOOVdMcFlnXzNRRmRyU0NR?oc=5)
 
 ---
 

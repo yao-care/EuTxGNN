@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [OBScore statt BMI: KI-gestützte Risikobewertung für Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWZiRC1QOG9Ta0d4SEJSNmo4OUhXTU5qN1YtVHM1cHZ1TUtiUi1WbkhiTFliU0NDWTdBNVFvWDZGMTdYTXplVER6M3Y3anhQSUhscFZRU0FDNF82S2NsWmZxS2F1Q1RaVWp6TDQ0NHQ4dFZSMjNmQ0lMSllvVUFXU085ME9BeEotNXJCM3djYlcyMzBYMGxCQVlheTgwSEhZd1BvRzhuTQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWZiRC1QOG9Ta0d4SEJSNmo4OUhXTU5qN1YtVHM1cHZ1TUtiUi1WbkhiTFliU0NDWTdBNVFvWDZGMTdYTXplVER6M3Y3anhQSUhscFZRU0FDNF82S2NsWmZxS2F1Q1RaVWp6TDQ0NHQ4dFZSMjNmQ0lMSllvVUFXU085ME9BeEotNXJCM3djYlcyMzBYMGxCQVlheTgwSEhZd1BvRzhuTQ?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Lilly impulsa "Razones de Peso" para visibilizar la obesidad - Revista Pharma Market](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2JIRE1abGQwZG5XRWxJa3laZ1pielFLNmtfMjRuYk5EVkh4ck1HNnRVWDBjXzlkLVAyLTdpTUdDN0MwQkFLamRjSkZ4WTZjRUdTUTh2ZjYzclpTWjRSNjhUS200cGd1MEJfM1h1Zk43NVZPc2llUnRvRmtZeWxwWGtqOExLYzVuQ1YyWG9BX0FsQVFBbnJr?oc=5)
 
