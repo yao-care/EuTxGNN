@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Bluthochdruck: 50% der Patienten nehmen Medikamente unregelmäßig - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
+
+2026-06-07 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
+
+---
 
 ### [Frauenherzen: Frühe Menopause erhöht Infarktrisiko um 40% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbldjZGpyMGlVSGthWGdzMWJXeE12MXVYQ2g1ZDE2LU5BT3dDejJLYkZWSkhyTExLRG5oSGxzLVpVUENKRlJuVnFuTVhYYmx2UVN1MWhkVHdKTEx3dVJCVVJjX0JsU1JhN2p4NnJOS0Q3bm12TF9GdHpDR3E4ZEFBWmt1c0FfUWozdHZsMmZ1Sy1NYnk2LVlwNHZBNTNrQ01wcFBwZzFvZGVwMnpsdG1YLW1NUE4?oc=5)
 

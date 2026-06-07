@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Diabetes-Medikamente senken Alzheimer-Risiko um bis zu 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+### [Damián Duartes, reumatólogo: “Cuando una articulación se inflama, le llamamos artritis. La artrosis aparece a medida que vamos creciendo” - La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
 
-2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-07 <span class="news-indication-tag">artritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
+
+---
+
+### [La personalización de parámetros y objetivos, clave para optimizar el uso de myLoop powered by CamAPS FX en niños y adolescentes con diabetes tipo 1](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
+
+2026-06-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/cabotegravir/
 2026-06-06 <span class="news-indication-tag">diabète</span>
 
 來源：[Zinfos974](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzM1d2JwbXdLOEE1US1CODg3YjFoTUxZLUZzSlBfZG9hbXhmaURya09QNUhYckJJVXlYdUJtWk85UUgwZGNPRC1aZEctV3ZiNHZqajRELXVhdTVJNzhzRGVubUEwaVpZMWJWNmJMcXdBYWpEX3V2RTdoRnpYU0RvN2htMkl3VjNzYXluUGlyR0FfZ05ISDRJcllFZF9UUW5FU0tWQ2R3Z2Ita1NOVWhGNjJDRmhVS2trZjlLZFY3aHR0RVVMR2J2TFBLdW50bWVJR3F1VV9HeFQ?oc=5)
+
+---
+
+### [GLP-1 senkt Demenzrisiko – doch bei Alzheimer bringt es wenig - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
+
+2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
 
 ---
 

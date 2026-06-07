@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Bluthochdruck: 50% der Patienten nehmen Medikamente unregelmäßig - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
+
+2026-06-07 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
+
+---
 
 ### [La Región de Murcia registró 75 nuevos diagnósticos de hepatitis C en 2025, la cifra más baja desde 2013 - La Verdad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFRjUlgtNkZiNktNVTFwbE5jZEFsZy1UdDJSd0NJY05GWDRaZGxjLUhZVDg0N0JLVWFVaVhqVW1QOXNGaHFwMEs2a0tSRU9EXzZCeC0yU1JYVDRlclFvdW5sQVp3bThIMi11aEdBNWtBbE5UaUVrV29xSDlpN1ZHbEpmVGxjZmVZMnBVQzMwTVItaURXT0NmdUdhT3gtX052UlRKamZZMnNlX3dNQlZZN9IBtgFBVV95cUxQVEdtaDBuUXV4dmRjVnJGRlJXdEVUV09SOXVweFAyM1BwRjVHallxRk5Ic2FZaHhjcHc0OW4yT183ZWJvRzFUeTR3U3kzYkluTVBHZWNGc1ZlaU9NbTB2Z1R3Z0ZqdUpsOVE5T09fZHI4QzJUX0J2RDZjenJQZGhGQm80bVhrUVFLTEM4SmlWNzVUWXVTV1FySGs4XzdCTXh4VWhxbWxFOWZBNGo1bGRpNXprQWQwQQ?oc=5)
 

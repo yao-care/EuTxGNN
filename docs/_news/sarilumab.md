@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Damián Duartes, reumatólogo: “Cuando una articulación se inflama, le llamamos artritis. La artrosis aparece a medida que vamos creciendo” - La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
+
+2026-06-07 <span class="news-indication-tag">artritis</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
+
+---
 
 ### [Ce médicament contre l'asthme pourrait réactiver les défenses immunitaires contre le cancer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0RiengwUGtBbGlHX3NsbGUwd2ZkUDkwQ1B5YUQzaDlHWTR3MHd4eS1pTERZbDhQdnRtUTZqd1ZTZGw0cktvZFFNdVM4U1hwdzF2eEZsbW43bzB4LVFEaWhqV0NfVFZGdmhVYTBzV2NFeDhsaXJhNXEwVVo3R2JTRUU4dzdueGdWT2hSM2VwT0EzLUFfNm9qOXpfYjljaTR1eXRfQW9OZUNGbTJ0SWdTMWgwNEx5QWhyejFUc3VIVGlOUFhzS0NYdXJORG4?oc=5)
 

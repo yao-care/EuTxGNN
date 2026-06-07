@@ -54,6 +54,46 @@ permalink: /news/cetrorelix-as-acetate/
 
 ## 相關新聞（24 則）
 
+### [Nicht hungrig ins Bett: Charité-Professor empfiehlt diesen kleinen Snack zum Einschlafen](https://news.google.com/rss/articles/CBMigwJBVV95cUxNQUNjUkpNRS1lWGsyUzVFZG1xMDJlVUtQZVV1NGk5WmZVUVAtbmswZU0wUk1VTUVHZ25VVzhHSTFhckF1OEVBSW5fMHNJbHc5R3g5UXlpOG1UYWxndWpZTTZUY3d1V0hYbUktRF9hWWtYdmtUWVpPSGpjczJFLWU2SUVseXhrSDdRQkdncHpMSEZiWXZPN1VfM1RCNnlJS3JHZ1U0WTV1ZnNMUFhBS1ZnY0l1NlUwc05xZEtlb2h1bnhobDZyUVZ2TUVkRnBkMEhFUzJSazZyYVluajJKMjNhd3p6V3JaTllxcTFGaEJ3aTNhZmEyU3FWWjZkVm5kQUFlY3hF?oc=5)
+
+2026-06-07 <span class="news-indication-tag">AF</span>
+
+來源：[CHIP](https://news.google.com/rss/articles/CBMigwJBVV95cUxNQUNjUkpNRS1lWGsyUzVFZG1xMDJlVUtQZVV1NGk5WmZVUVAtbmswZU0wUk1VTUVHZ25VVzhHSTFhckF1OEVBSW5fMHNJbHc5R3g5UXlpOG1UYWxndWpZTTZUY3d1V0hYbUktRF9hWWtYdmtUWVpPSGpjczJFLWU2SUVseXhrSDdRQkdncHpMSEZiWXZPN1VfM1RCNnlJS3JHZ1U0WTV1ZnNMUFhBS1ZnY0l1NlUwc05xZEtlb2h1bnhobDZyUVZ2TUVkRnBkMEhFUzJSazZyYVluajJKMjNhd3p6V3JaTllxcTFGaEJ3aTNhZmEyU3FWWjZkVm5kQUFlY3hF?oc=5)
+
+---
+
+### [Cómo identificar que se está revirtiendo el hígado graso: tres señales que indican mejoría pese a ser ‘silenciosas’](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMXFUWjdtd0tpMXJfQVdKNGx0SU03SlRUaFUxS1ZwWU0ySlVtaHhnX0RqdUlXT2lWZGhvV05GangxUGxtNU1EX19oTDlCTXZjenQzdmt5MHpHTHBob013QVA3NmpRT1c2Q0RVV0FBamRFQ2JqY2dQMUtRa0Jia1pmWEctZHA4R0xiaGdGdVV6a2xXNXAzVFRUQVVTNlFtWmZtNm92ZnBuZ0VZS1dmV2hNbW5INVRMOWtrLWJzVGc0MUF5SXgwc0Y1T3BKV19FTDZSX3VicllBcTFPbWxJRXIwMHVvNFl6SkdjM1VB0gGGAkFVX3lxTE1KWnd6eU5qOVh0SUs4eGNVUHRyZk9wc2dZaW80OVFfMGFIVVVHTmRiNHVNZ1I2a2s4YjBuOHJYcFJVeVItM280bzVLVFdUb0NVeW5mUTYzekhIbXM0NHhKRXdRU3RKeUs3TFE5dVpabGJCTEdHOXFpWjlYdVZ6b1pUTXVXQmZYeFVrOGhKLVZxZmhDTXViSUNlbGZRR2tPYUQyOF9EdE91QW8zU1J6TW1fQXoxTlh6eExGdjNwY1Q2am5oRnFQOGU2Sy1LWkpDZ3I4cllQZ3NITEdIaFI2Wjg1ZUFEVVNZcEE3RlU2UHpYQlV0OXRuTVVVOGkxS0gxWnU4aDVZNkE?oc=5)
+
+2026-06-07 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMXFUWjdtd0tpMXJfQVdKNGx0SU03SlRUaFUxS1ZwWU0ySlVtaHhnX0RqdUlXT2lWZGhvV05GangxUGxtNU1EX19oTDlCTXZjenQzdmt5MHpHTHBob013QVA3NmpRT1c2Q0RVV0FBamRFQ2JqY2dQMUtRa0Jia1pmWEctZHA4R0xiaGdGdVV6a2xXNXAzVFRUQVVTNlFtWmZtNm92ZnBuZ0VZS1dmV2hNbW5INVRMOWtrLWJzVGc0MUF5SXgwc0Y1T3BKV19FTDZSX3VicllBcTFPbWxJRXIwMHVvNFl6SkdjM1VB0gGGAkFVX3lxTE1KWnd6eU5qOVh0SUs4eGNVUHRyZk9wc2dZaW80OVFfMGFIVVVHTmRiNHVNZ1I2a2s4YjBuOHJYcFJVeVItM280bzVLVFdUb0NVeW5mUTYzekhIbXM0NHhKRXdRU3RKeUs3TFE5dVpabGJCTEdHOXFpWjlYdVZ6b1pUTXVXQmZYeFVrOGhKLVZxZmhDTXViSUNlbGZRR2tPYUQyOF9EdE91QW8zU1J6TW1fQXoxTlh6eExGdjNwY1Q2am5oRnFQOGU2Sy1LWkpDZ3I4cllQZ3NITEdIaFI2Wjg1ZUFEVVNZcEE3RlU2UHpYQlV0OXRuTVVVOGkxS0gxWnU4aDVZNkE?oc=5)
+
+---
+
+### [Woman loses 6st after health scare and does something she couldn’t for 10 years - South Wales Argus](https://news.google.com/rss/articles/CBMingFBVV95cUxNdHAyMGlRUXFMNXR4Zmd1R29zaHZKOTMtRUd2dlJnY0ZLb3ZFemtCbHh5Ml9JN25wT0VPV2YzS081dzMtS3ROSjEzeWZsSEhNLVE3cHF5YzhzM3U5RGZIenFqd0cwMXNZc1VsLWpwNG5qaTYxSTktOEpLYlRLWHQwcnB4MWdEZUhHZXpDTC1aSWxmSXdrOWx2aGFNVGJudw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">AF</span>
+
+來源：[South Wales Argus](https://news.google.com/rss/articles/CBMingFBVV95cUxNdHAyMGlRUXFMNXR4Zmd1R29zaHZKOTMtRUd2dlJnY0ZLb3ZFemtCbHh5Ml9JN25wT0VPV2YzS081dzMtS3ROSjEzeWZsSEhNLVE3cHF5YzhzM3U5RGZIenFqd0cwMXNZc1VsLWpwNG5qaTYxSTktOEpLYlRLWHQwcnB4MWdEZUhHZXpDTC1aSWxmSXdrOWx2aGFNVGJudw?oc=5)
+
+---
+
+### [Richard Scolyer: Pioneering Australian doctor dies after brain cancer battle](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
+
+2026-06-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
+
+---
+
+### [El síndrome de ovario poliquístico sigue afectando incluso en la menopausia](https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hhSjJTNFRPMzNHcTB4OFVENXlUMVNzNUJyc1JoRXZNdVEyaEw3WlY4UFZuMTBWRTVTcnZnNklCRTZ2SWdycWxHN3BuUjJwTm5DWFpGb3loZllaYjhUWlhIUXNnTW53M2tWODRLOE1tNXZwYy10VERTUUZ6QkhOS1NsQnJwR1lPVkU4YTBqajBqUVlVTEl1am9RT0k1SUI4dUZGTlBIcmlKazA3dzZqX1N6WGlKdE0?oc=5)
+
+2026-06-07 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hhSjJTNFRPMzNHcTB4OFVENXlUMVNzNUJyc1JoRXZNdVEyaEw3WlY4UFZuMTBWRTVTcnZnNklCRTZ2SWdycWxHN3BuUjJwTm5DWFpGb3loZllaYjhUWlhIUXNnTW53M2tWODRLOE1tNXZwYy10VERTUUZ6QkhOS1NsQnJwR1lPVkU4YTBqajBqUVlVTEl1am9RT0k1SUI4dUZGTlBIcmlKazA3dzZqX1N6WGlKdE0?oc=5)
+
+---
+
 ### [US insurers’ move to back vaccines sends ‘powerful’ message about safety of shots, experts say - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUtlWXFBUWdxMDJVVnEzTWttZHJpOFlkRHdJdDE4ZndBbF9xVnNtTXF4M1M3SVd0N0xxSzd5UG1iTXU4dTktMWhORXg2WmV3cEZHdnNoSGVQZXE0Q19zWU1nblZUcEpnb29NWTNXT1JzQXg4a3BSNzdvSmJCNXYxbHNHeXVpOHlX?oc=5)
 
 2026-06-07 <span class="news-indication-tag">AF</span>
@@ -78,14 +118,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Ebola, Pregliasco: “Congo, forse solo la punta dell’iceberg”. Esperti Usa: “Potrebbe diventare una delle più grandi epidemie mai registrate” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
-
-2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
-
----
-
 ### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
 2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -104,7 +136,7 @@ permalink: /news/cetrorelix-as-acetate/
 
 ### [Demenz-Risiko: Diese Faktoren treffen Frauen stärker als Männer - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUE4tMmJlNW1fRDFpY3RnX092VEVCVGI3RXh1dHVyQkhOdWVybUUxVlpYcWFPUVdFcnNmVHptTmdaLUJfc1VxSTJ4RU96YnpGRnpnajEyMEpzVjhQRGJZVVpSd2hQeDJsdGxCcnVzNTNrRDdYV3VycE02TlV4TTg0MFNtQlFBOUR2SnNZNHlRel9SN1Q0eEZZSDF2ZU5OVjgwNERDSXNuUng0QnYxNDJvaGdJM2hOUU9uT1c5N053YkFaSHpkTUZV?oc=5)
 
-2026-06-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-06 <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUE4tMmJlNW1fRDFpY3RnX092VEVCVGI3RXh1dHVyQkhOdWVybUUxVlpYcWFPUVdFcnNmVHptTmdaLUJfc1VxSTJ4RU96YnpGRnpnajEyMEpzVjhQRGJZVVpSd2hQeDJsdGxCcnVzNTNrRDdYV3VycE02TlV4TTg0MFNtQlFBOUR2SnNZNHlRel9SN1Q0eEZZSDF2ZU5OVjgwNERDSXNuUng0QnYxNDJvaGdJM2hOUU9uT1c5N053YkFaSHpkTUZV?oc=5)
 
@@ -152,7 +184,7 @@ permalink: /news/cetrorelix-as-acetate/
 
 ### [Leeds man told he just drank 'too much tea' - it was serious condition - Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
 
-2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-06 <span class="news-indication-tag">AF</span>
 
 來源：[Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
 
@@ -211,38 +243,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-06-05 <span class="news-indication-tag">AF</span>
 
 來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjFhMFVTTV9EV3M5V1JPU05fWllDcUs1SUVuV2FVc0VNSHR3YTJ3bDFPM0p4Q0lZWnNIczFvdDJKT2QwakxiTXBWWnBXLWJ4Nzd0YVp6OThkakVxLU9JQ1czcUctS3lTQk9CQ1drOGFZNTVZVmJiZ2RQZjYzYlhEbGlGWW9nd0RKS2ZYMXVjUmxxZEl6YW9XMEtEWkNYcU5oOFZj0gGuAUFVX3lxTE1rS19nVGF3clZ4SHd1VTVCZkx5THRTbkFIN0JVU1I4eGswR2w1Wnl4czRfQWloOXdMUTVIcUtOTXk3X1FwTkk4d1JpY21HLWM4ekdYeWF4QVUzck56VDRTNzhUSndHNTI3VWo5czh5aXZ0d2sxUjByTVNtQ3RpNV9JZGpBU1FaX2dXS2E1Z19RVTlDdkdDbS1pTE1DZW0xempKMnVmV3djSjhoVzBuUQ?oc=5)
-
----
-
-### [Le “premier” vaccin conçu avec l'IA a été testé sur des humains : voici comment il pourrait nous protéger de la prochaine pandémie](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yTDZTWmEwZk1pWjdNdG9tNWt1alUyNWI1akR3YThoS1JBRjQzVWxTZEdxbjI0SGpURkh5VjhQRUN3eTRVcHl5UnlWTmZzcUNpUENqTm14ejByT3I1ZVQ4ZVh5VkR3czZfVERnUkRTaUxybDlrRWQyTw?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[Presse-citron](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yTDZTWmEwZk1pWjdNdG9tNWt1alUyNWI1akR3YThoS1JBRjQzVWxTZEdxbjI0SGpURkh5VjhQRUN3eTRVcHl5UnlWTmZzcUNpUENqTm14ejByT3I1ZVQ4ZVh5VkR3czZfVERnUkRTaUxybDlrRWQyTw?oc=5)
-
----
-
-### [Los médicos en alerta por la patología que casi nadie sabe que tiene y cada vez es más común en España](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEg2clB5a0ppdHNsTkVUa1lIZTNZUG5FRUd1RFdvZUJqWnFoS3dnSHVTQUhHaW9sQTZ2TzFCa1A5V3JldkRtWTExSlRnc0I3cFdGWWhIczV2WmhzWlBvREhYaVBvLUFLQ0QzRVluVWp0cjljZVNOaGlfTDhGbjE4MmxLNHBrNTczamZXZjJGSUZsb1RnT0dmanBDMHFhdm1EQk01bVZEQ2FxbWZYZzh6djhBUTR5ZlXSAbwBQVVfeXFMTW42Yl84elhuMzg0MEZYSERNdTNWZ1FqbVAtTDdBRVl3dV9GSUNaT2tLdXBtOEpndXRFTFFjTDBIZFBCa2s5bG9tczVDY3RkMmhBbUpDdGFRSk8zTGZJb1Z3LUgyTnp5WXVXbndZRTNkeWNIMmdFMGpNenF0NU1pVF9fMlFKLTJmUXVvNHFKTjhNSHAtZTBNNTFOTDllQmlJUnd0SUxMWVB6eEdhZUpobklXb2NxcWRGbWhzZGQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEg2clB5a0ppdHNsTkVUa1lIZTNZUG5FRUd1RFdvZUJqWnFoS3dnSHVTQUhHaW9sQTZ2TzFCa1A5V3JldkRtWTExSlRnc0I3cFdGWWhIczV2WmhzWlBvREhYaVBvLUFLQ0QzRVluVWp0cjljZVNOaGlfTDhGbjE4MmxLNHBrNTczamZXZjJGSUZsb1RnT0dmanBDMHFhdm1EQk01bVZEQ2FxbWZYZzh6djhBUTR5ZlXSAbwBQVVfeXFMTW42Yl84elhuMzg0MEZYSERNdTNWZ1FqbVAtTDdBRVl3dV9GSUNaT2tLdXBtOEpndXRFTFFjTDBIZFBCa2s5bG9tczVDY3RkMmhBbUpDdGFRSk8zTGZJb1Z3LUgyTnp5WXVXbndZRTNkeWNIMmdFMGpNenF0NU1pVF9fMlFKLTJmUXVvNHFKTjhNSHAtZTBNNTFOTDllQmlJUnd0SUxMWVB6eEdhZUpobklXb2NxcWRGbWhzZGQ?oc=5)
-
----
-
-### [El doctor Javier Cortés Castán, reconocido entre los «2026 Giants of Cancer Care»](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
-
-2026-06-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
-
----
-
-### [Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tUGp0M1Mya3k4SFprLTNIMFZ0RW1pc0QwNE9rLU9Ja0l5bWx1QWJqQ2pvcXd3bXI3dGpKWjBqUHNTQ1poU0JaZ20zR18xSGpWYWloU0RaWG5NbDNT?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tUGp0M1Mya3k4SFprLTNIMFZ0RW1pc0QwNE9rLU9Ja0l5bWx1QWJqQ2pvcXd3bXI3dGpKWjBqUHNTQ1poU0JaZ20zR18xSGpWYWloU0RaWG5NbDNT?oc=5)
 
 ---
 

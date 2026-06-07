@@ -14,7 +14,7 @@ permalink: /news/brigatinib/
 ---
 
 <p class="key-answer" data-question="Brigatinib 有什麼相關新聞？">
-<strong>Brigatinib</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brigatinib</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/brigatinib/
 <p><a href="{{ '/drugs/brigatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [NHS hospitals adopt faster, more accurate at-home bladder cancer test - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW43SlBQZ1hzZFNNb2JqR0xTQUcyOUYxVGI0MHAwb2o0ZFowZWNiMlFudDMxMjdYTmxjWm01ejJXdlk4M1dNaHQyNGpRdjFrc3R3LVZReG9rNzltcjZhR09jYUU2M3VrSm5SdDJTSF81SVJRRXBTQTlqR0dSSVRKNkljbHFTLUhtY2taN012bmhaYzN3WWNqeEFTRlNxQzlSNFQ3QjVR?oc=5)
+
+2026-06-07 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW43SlBQZ1hzZFNNb2JqR0xTQUcyOUYxVGI0MHAwb2o0ZFowZWNiMlFudDMxMjdYTmxjWm01ejJXdlk4M1dNaHQyNGpRdjFrc3R3LVZReG9rNzltcjZhR09jYUU2M3VrSm5SdDJTSF81SVJRRXBTQTlqR0dSSVRKNkljbHFTLUhtY2taN012bmhaYzN3WWNqeEFTRlNxQzlSNFQ3QjVR?oc=5)
+
+---
+
+### [Así devora el cáncer a las células sanas para sobrevivir - Libertad Digital](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWl1UERjVEpud2RfUE9YeHhzNndIWWk1YXBKS25rR1RiT1Z3bjEwdGJmT2JuQWNhQ053VnNFbkdOZzBxVF85X1BnSU5kcEk3TUZaZlpPU2xKc3NReVBabXE4cExyQ3A3OVFaVnRoTUJVcWY5Qk9qSmZKN2ZEWW9RNXpwSXdNNlJ3b00zRVZ1OEp3LW5DQkRHcjBpSldjbGl1el93MFdKRUpybER2MVRRbkdscVc1LVZXV2FfZFpHbUhweC1Edk93XzlOYVBwZ9IB2AFBVV95cUxPQ1lQWl9fRV83OTZfUTNyMFFIWGkySlVtOFo3RU1zbThRbjZaRVA4dE4tQWNjS0lRUFoxTWFnMjVsZnJoM1M0bnJZZldaU3d6V3Rjd21CbzBIUDdFb0pWVTFsdkNJcW9uWmk0Vlowb1VyNGE3NmtEUUhlMXNCd3YyUEZ6X2FtVi0zV3pic0F2ZnlER0Y3RElCeDc0eGxqTndDNXM4YTVvUmhRa3lzNlVvRTB3YVVwdnk0ZHFscGlkdzdrdWNVRC1OeWZJcGczOGJ2M2R2UHRGcGY?oc=5)
+
+2026-06-07 <span class="news-indication-tag">tumor</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWl1UERjVEpud2RfUE9YeHhzNndIWWk1YXBKS25rR1RiT1Z3bjEwdGJmT2JuQWNhQ053VnNFbkdOZzBxVF85X1BnSU5kcEk3TUZaZlpPU2xKc3NReVBabXE4cExyQ3A3OVFaVnRoTUJVcWY5Qk9qSmZKN2ZEWW9RNXpwSXdNNlJ3b00zRVZ1OEp3LW5DQkRHcjBpSldjbGl1el93MFdKRUpybER2MVRRbkdscVc1LVZXV2FfZFpHbUhweC1Edk93XzlOYVBwZ9IB2AFBVV95cUxPQ1lQWl9fRV83OTZfUTNyMFFIWGkySlVtOFo3RU1zbThRbjZaRVA4dE4tQWNjS0lRUFoxTWFnMjVsZnJoM1M0bnJZZldaU3d6V3Rjd21CbzBIUDdFb0pWVTFsdkNJcW9uWmk0Vlowb1VyNGE3NmtEUUhlMXNCd3YyUEZ6X2FtVi0zV3pic0F2ZnlER0Y3RElCeDc0eGxqTndDNXM4YTVvUmhRa3lzNlVvRTB3YVVwdnk0ZHFscGlkdzdrdWNVRC1OeWZJcGczOGJ2M2R2UHRGcGY?oc=5)
+
+---
+
+### [Richard Scolyer: Pioneering Australian doctor dies after brain cancer battle](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
+
+2026-06-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
+
+---
+
+### [Santé : après le congrès américain ASCO, les oncologues de Bergonié annoncent des avancées majeures sur le traitement des cancers - Sud Ouest](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPd2ZPQm4ta0RhdHpOZzVNeFBLQVJtRGd0aEIzUVFvX3ViTk1mdW1oRUsyNFVvS2ZERXlvRlNuXzZLLXpGN003YV9kZ1NnSUxzQmxEYkNUbUtfOHJPM2x0Uy1xcDR4Y2dWU0U0Mmxlb0tiSDE0TGNyb3lzRl8zVk90SFBZb1B5WjMzdEY1amNnRW9fb0xmMmxOTmJDODgwOVVhVzRtTC1waFVVN3UwV0pHREpaby1NbnZZa1Vqbi1GeXRyNGdIZy1tY3ZLRWFVUHlHb3VmcHJsOERHcW5RZm1qUUM5WmFSSnJhbHlkVHZRUlQ5OUVoYTVpazRIdWl2UQ?oc=5)
+
+2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPd2ZPQm4ta0RhdHpOZzVNeFBLQVJtRGd0aEIzUVFvX3ViTk1mdW1oRUsyNFVvS2ZERXlvRlNuXzZLLXpGN003YV9kZ1NnSUxzQmxEYkNUbUtfOHJPM2x0Uy1xcDR4Y2dWU0U0Mmxlb0tiSDE0TGNyb3lzRl8zVk90SFBZb1B5WjMzdEY1amNnRW9fb0xmMmxOTmJDODgwOVVhVzRtTC1waFVVN3UwV0pHREpaby1NbnZZa1Vqbi1GeXRyNGdIZy1tY3ZLRWFVUHlHb3VmcHJsOERHcW5RZm1qUUM5WmFSSnJhbHlkVHZRUlQ5OUVoYTVpazRIdWl2UQ?oc=5)
+
+---
 
 ### [Ce cancer touche principalement les tout-petits](https://news.google.com/rss/articles/CBMif0FVX3lxTE9vYWtLOEdac0YwWE4teUZ2aFYyRkhjWDdXa0RTY1VZVWtST0cwQ0Y4NFJQaXlzQjVrM091WXMyY01xRFQ2dTdIdTAtUVhBY05XQi1HWEFKTEp4ZkdKWmJnVlphM3FPRjN1QlpwQUlDYnAyWDFJeVNLWVc4bVU5VWs?oc=5)
 
@@ -83,6 +115,14 @@ permalink: /news/brigatinib/
 2026-06-07 <span class="news-indication-tag">carcinoma</span>
 
 來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMinwFBVV95cUxQclM1SzFBLVByNER4bk1KcFZiUjRGa1lQVlVYck9KV1d2bW9KcE9aVWgtS2lXNFhheEY3REVEQ0tIbUpPbjhONXRBLVpmUzlkWWlMOU4xUlgyNHViWU9oVTFNNlJra2gxMjRGdkNQOHBldjh5bS1EMXdvcmZWTXRXOXA0WG9qSXhZTlRVRDNPT3owZU1uZ19zWk1MajZzRkXSAaQBQVVfeXFMT1RKSUFkd2JlREdhV05jWk5PM21mcnJZUkU2OUZMcjVOeUFGcFZyZU5kTTZzNmhOdjRoVlZFcEU5cjAxTFc3MEJQX3VSSy1MdGR6MF9iNklVWEhJN3FOSTBSb1lPci1Sa0lHXzFvaWlvdXB3MkI0Z1VQcGh2aXpzdlM1eHJnbGdYTGpIdmxpY2VCNVZCUmpjNE5Vbm9KekFxV1gwVFo?oc=5)
+
+---
+
+### [Tumore al cervello, una ricerca dell'Unical scopre le cellule che resistono alle cure - Gazzetta del Sud](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZk1JSDVieG9IVmFJQ2pqaFZMa0JZVmtwVmgtSkhyUUpFUEZqcF9ERk9WUExnMHFlWUp3U25wRlUzU0hYZXdLTzY5NXBtQUFJUTdIYXFGQ2ZRbzFGREM2Vk84WmZFN0t6dmhnTF9VZ0k2bEw3WVFQNDdKcWdpRGw2RTVMMDFxWFRqVXI4NXA5VlFscjJwMkZQMmpHY1Y4QVlTMnFpY2tkZ2t4aEhLemc1d1NseTJCejVQMF92QjZIQjc3dUVia3Z3RzFmc0NYUDkxSHEyQkxkRWVOY2p6QzBjaWZPRFBNMmYwRGNTMC13UXJuVThibi12b01weHY2WTZVQ2RlWGxB?oc=5)
+
+2026-06-07 <span class="news-indication-tag">tumor</span>
+
+來源：[Gazzetta del Sud](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZk1JSDVieG9IVmFJQ2pqaFZMa0JZVmtwVmgtSkhyUUpFUEZqcF9ERk9WUExnMHFlWUp3U25wRlUzU0hYZXdLTzY5NXBtQUFJUTdIYXFGQ2ZRbzFGREM2Vk84WmZFN0t6dmhnTF9VZ0k2bEw3WVFQNDdKcWdpRGw2RTVMMDFxWFRqVXI4NXA5VlFscjJwMkZQMmpHY1Y4QVlTMnFpY2tkZ2t4aEhLemc1d1NseTJCejVQMF92QjZIQjc3dUVia3Z3RzFmc0NYUDkxSHEyQkxkRWVOY2p6QzBjaWZPRFBNMmYwRGNTMC13UXJuVThibi12b01weHY2WTZVQ2RlWGxB?oc=5)
 
 ---
 
@@ -147,38 +187,6 @@ permalink: /news/brigatinib/
 2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXJYNWtMZ3VYS01wYWZhQVQ0WndWeEUtTk1Od3padENEdHNjdDhyeWF3ZTR0dEl5anpxbjNrOVFuQkVzM04tOFFrQjNNYXFfVlo1RUdFQ1ZoeVMtZmZCYVBoMlpIM2dDcGJDSHRMOUxua2gwVjhNb2ZOT0F4X21OT3dLS3Nrc3k4ZzA5RWo0cVZJZWQzblNNQ0I3dUZXQjM0?oc=5)
-
----
-
-### [El doctor Javier Cortés Castán, reconocido entre los «2026 Giants of Cancer Care»](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
-
-2026-06-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
-
----
-
-### [Linfoma di Hodgkin, nuove speranze per i malati: terapia mirata efficace in 1 paziente su 2 con recidive. Italia protagonista - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDY4N0s0ajc1ODdacEVQWENGZG9QZ1pOdFY4RjltNllzRXE0YV9DRVJpZ1daazVuTVBrSXR2U0t5d2UtNFJ4VEw1OExXRUtJODJWUmJkel9ISzB2R0VkYmd5NWNhckJoVDk3b0V5Y3dYcFduUS1KUGFJYmVlRXluM255UkhXelVnQjJZMVZ3?oc=5)
-
-2026-06-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDY4N0s0ajc1ODdacEVQWENGZG9QZ1pOdFY4RjltNllzRXE0YV9DRVJpZ1daazVuTVBrSXR2U0t5d2UtNFJ4VEw1OExXRUtJODJWUmJkel9ISzB2R0VkYmd5NWNhckJoVDk3b0V5Y3dYcFduUS1KUGFJYmVlRXluM255UkhXelVnQjJZMVZ3?oc=5)
-
----
-
-### [The right’s culture war over prostate cancer screening is damaging trust in medicine | Polly Toynbee - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3NFYnZUY1l4N0J0UlhJRmpZb0VwcV9kdVJJNWpsRFBzLWhZLTFvSmpTVVk1OW1mM1FBbkptRHZ6M3IxN3NXMnkyM0NmSlBsRFVfX0pBYTlLTkhLcXltS2ZTUTYzVXhOZWRWZUZvSFgteEQ3cFVMU2lCaEQ0a3E5X1FIdFBxSkVJTWFXdEZzS2lQUUpEQVk4Y0ZoM3ZOd25FcDNXY2gtQjA0cG80UHVnQy1TY0RCdE5fQWxQSUhDemM?oc=5)
-
-2026-06-05 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3NFYnZUY1l4N0J0UlhJRmpZb0VwcV9kdVJJNWpsRFBzLWhZLTFvSmpTVVk1OW1mM1FBbkptRHZ6M3IxN3NXMnkyM0NmSlBsRFVfX0pBYTlLTkhLcXltS2ZTUTYzVXhOZWRWZUZvSFgteEQ3cFVMU2lCaEQ0a3E5X1FIdFBxSkVJTWFXdEZzS2lQUUpEQVk4Y0ZoM3ZOd25FcDNXY2gtQjA0cG80UHVnQy1TY0RCdE5fQWxQSUhDemM?oc=5)
-
----
-
-### [“Mio padre malato terminale di cancro al pancreas, autorizzate il farmaco daraxonrasib in Italia”: il dolore di Giorgio](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaGZuNVo5RE16bm9PNjNYYmRaWjYyV3cxX19ScFVvZ2pSdHl5X0lJMENZcTdRb0Znb0tSMHZrdjAtOEdrR2JVcThCOUxqWlpqWnFtVERKdUNMZGt4UEhZX1pDc3ZhWi1FUDRZY0tldmhkMEZ4bmpMemdFdFdRSS1QdVQzM1FnZ0FLU1FGVkpMLUFwN2YtZHNvRncwdmtqeF9ZZDJsb0lhZW93U2RDNTVDblBKdVFZRXNwOXhsSU1mVEJXSllCUG1TUHRxZ29ZZHotVHVHRlVSa0JaVFdYR2lrbmhKa0JwN0hiTjh4UDYzZXo?oc=5)
-
-2026-06-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaGZuNVo5RE16bm9PNjNYYmRaWjYyV3cxX19ScFVvZ2pSdHl5X0lJMENZcTdRb0Znb0tSMHZrdjAtOEdrR2JVcThCOUxqWlpqWnFtVERKdUNMZGt4UEhZX1pDc3ZhWi1FUDRZY0tldmhkMEZ4bmpMemdFdFdRSS1QdVQzM1FnZ0FLU1FGVkpMLUFwN2YtZHNvRncwdmtqeF9ZZDJsb0lhZW93U2RDNTVDblBKdVFZRXNwOXhsSU1mVEJXSllCUG1TUHRxZ29ZZHotVHVHRlVSa0JaVFdYR2lrbmhKa0JwN0hiTjh4UDYzZXo?oc=5)
 
 ---
 

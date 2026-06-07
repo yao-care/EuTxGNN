@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
 
 ### [Una médica derriba el mito de qué pasa con la vitamina D si tomas mucho el sol este verano: "No hay motivo para suspenderla" - El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3kweEVjemVQbkVaZm5rYlpZQTg4V2FjSmpkTWpwRFktYWFGZW1IMWZfemdmWWR5SXY0bEhhUEE2TC1LcW8xODJrTG82YUt3SWZrRjdGa1FCUlJKdVFkTjJtblZwQ0p2X2IzZ3ptX3pWbmRvQnZxSkdTbG1hT2Q2SUtaSG81cmVDSGJBekxCeHhhSTRyUjF3b0NLajJXSzFjVWJ1MjREeUhJY2E1XzIxYzg4ZWQ2ZEd5eDlteFpZX3JVQkhMV2NUYlRBYUlNc2FNakx5OE5jaEZFd9IB7gFBVV95cUxQQ3ZfX2ptbVZWcnJwcEFKYnBBNERIR29KN1JlemZVVzlxRTBnaG9mMVJlREtvVk5ZUndPNkxRdkk5VWJmRlhpOGtQSmhmdTB2eGdLYzRGYThOVFZoWGkzcWRWMFQ4WndCdWg2RVlTT2ZfMFZOWG0tOWNOZExzblBzcFV3dkEwX2ZDYkdVanRpNmduUG5tT3o4SnR0TWFDRVV6cGduQkFJMXVHXzBLUjcxdTVOMDkzTlhoYVJvVnRVaEdrVHVGc3JmemxrMXhBbVlTcE54aVZ2Tk1YSUp0QTJDRlYtV0gyNzlxSmJWUlhB?oc=5)
 
@@ -70,19 +70,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Ebola, Pregliasco: “Congo, forse solo la punta dell’iceberg”. Esperti Usa: “Potrebbe diventare una delle più grandi epidemie mai registrate” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+### [You don’t need to lift weights for strength training – these exercises count too - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
 
-2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-07 <span class="news-indication-tag">MS</span>
 
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
-
----
-
-### [Diabetes-Medikamente senken Alzheimer-Risiko um bis zu 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
-
-2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
 
 ---
 
@@ -118,6 +110,14 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [GLP-1 senkt Demenzrisiko – doch bei Alzheimer bringt es wenig - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
+
+2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
+
+---
+
 ### [Bepirovirsen in Phase 3: 20% funktionelle Heilung bei chronischer Hepatitis B - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
 
 2026-06-06 <span class="news-indication-tag">hepatitis</span>
@@ -134,35 +134,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Leeds man told he just drank 'too much tea' - it was serious condition - Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
-
----
-
-### [Investigadores chinos desmontan la recomendación de la OMS: se necesitan 10 horas semanales de ejercicio](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
+### [Un hallazgo accidental cambia lo que se creía sobre la gripe y abre la puerta a nuevos tratamientos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQUxxeTBSeXBHb3VLa3hnSzVhSTVtOXFrT0hzQV9vSWVqZjd2T05iR0JnZ3dJcEstc3J3N1B1X08takZtN1JTMXpVSThZbzRUTUJoS3ViUTVmM2FBMzJ2UjBmRlotMXFIdklRRE1Mb0xMS2E3RDNGRTJROVp3VXVLcVY4YUVCMUZxWHBWcFJuWUVEQzJoS191ZGZiWU1pby16Y1NKR2F4RlJVWEItR0NBRnV0empjUFJxUnVHOHpRMmZtRGlfYnA2UHlvNUNNS3plZDRtSWNISW42NmNGcGd6Yy1vY0VLOXlSQnduc3VBV3AzYllwa0E?oc=5)
 
 2026-06-06 <span class="news-indication-tag">MS</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
-
----
-
-### [The 30-minute strength workout that will help you live longer – and boost your brain - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREhPUkhZVkU3OGZsRFdtTXkzZmxnMDZlc2Y1WGFoT1RmOUFjUVBVN1Q4MHJsVWpYcUpOSFhaTFI5T2dsRWQtZGN6UDhLYS05UXZYemJhSE5oTmdwMVRwdmVWeGs5UjZjZk11OVgzU3dRRXpfSVptbnpOakJ4LU9VNWQyN1FUeDFvX1o4T3FfVW5zU2JuNEFGVFdIOENFUWNtRmMzM0c2QXJGalg0OXRuMnlTZmxRVlUzTEE?oc=5)
-
-2026-06-06 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREhPUkhZVkU3OGZsRFdtTXkzZmxnMDZlc2Y1WGFoT1RmOUFjUVBVN1Q4MHJsVWpYcUpOSFhaTFI5T2dsRWQtZGN6UDhLYS05UXZYemJhSE5oTmdwMVRwdmVWeGs5UjZjZk11OVgzU3dRRXpfSVptbnpOakJ4LU9VNWQyN1FUeDFvX1o4T3FfVW5zU2JuNEFGVFdIOENFUWNtRmMzM0c2QXJGalg0OXRuMnlTZmxRVlUzTEE?oc=5)
-
----
-
-### [Why autism symptoms can ease during a fever — and how to mimic it - Boing Boing](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M5WVc2RGpxR3djdGVLRUVyVjdtX3NSMjZ2eFpSUFl3Wk9TWkUyWjNkZWY0YkRqTHBnNFpXNk5mSXl4YWJtRFJWZk0wLUVoNkVfVzhreUc3S2dRVGxQYi1Gbm9JcUZpZ3hRa2g5SXFtMjRLTzdEbUU2ZTZzOURCT0g4aVVWbEdSTkFqUWVYakNHTWVUM25EQ2JsSnB4TUdFWWxmWtIBqgFBVV95cUxNeGFXYUZiVXNUbzhRTmNVbGZkMjBNSWlMc1I0S3pRd3pndVNjLWw1Rlp2OFM0cERrUjZjVzRHRFNrN25LeDBmMERZNFhaQVFzOHc2LXBUYkhJX2k2STJHWWNwZWhmT21WU1BUU3RoRWtBVFlaRVdnZVBjbWxrTFpvWFJ2cW1qVVcyeDY3VVF1WVdRSFdud2daLUxfRTBtVk15MnVVUHJFNjVuQQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span>
-
-來源：[Boing Boing](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M5WVc2RGpxR3djdGVLRUVyVjdtX3NSMjZ2eFpSUFl3Wk9TWkUyWjNkZWY0YkRqTHBnNFpXNk5mSXl4YWJtRFJWZk0wLUVoNkVfVzhreUc3S2dRVGxQYi1Gbm9JcUZpZ3hRa2g5SXFtMjRLTzdEbUU2ZTZzOURCT0g4aVVWbEdSTkFqUWVYakNHTWVUM25EQ2JsSnB4TUdFWWxmWtIBqgFBVV95cUxNeGFXYUZiVXNUbzhRTmNVbGZkMjBNSWlMc1I0S3pRd3pndVNjLWw1Rlp2OFM0cERrUjZjVzRHRFNrN25LeDBmMERZNFhaQVFzOHc2LXBUYkhJX2k2STJHWWNwZWhmT21WU1BUU3RoRWtBVFlaRVdnZVBjbWxrTFpvWFJ2cW1qVVcyeDY3VVF1WVdRSFdud2daLUxfRTBtVk15MnVVUHJFNjVuQQ?oc=5)
+來源：[MSN](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQUxxeTBSeXBHb3VLa3hnSzVhSTVtOXFrT0hzQV9vSWVqZjd2T05iR0JnZ3dJcEstc3J3N1B1X08takZtN1JTMXpVSThZbzRUTUJoS3ViUTVmM2FBMzJ2UjBmRlotMXFIdklRRE1Mb0xMS2E3RDNGRTJROVp3VXVLcVY4YUVCMUZxWHBWcFJuWUVEQzJoS191ZGZiWU1pby16Y1NKR2F4RlJVWEItR0NBRnV0empjUFJxUnVHOHpRMmZtRGlfYnA2UHlvNUNNS3plZDRtSWNISW42NmNGcGd6Yy1vY0VLOXlSQnduc3VBV3AzYllwa0E?oc=5)
 
 ---
 

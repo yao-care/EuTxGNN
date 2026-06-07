@@ -14,7 +14,7 @@ permalink: /news/insulin-glargine/
 ---
 
 <p class="key-answer" data-question="Insulin Glargine 有什麼相關新聞？">
-<strong>Insulin Glargine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Glargine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/insulin-glargine/
 <p><a href="{{ '/drugs/insulin-glargine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Diabetes-Medikamente senken Alzheimer-Risiko um bis zu 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+### [La personalización de parámetros y objetivos, clave para optimizar el uso de myLoop powered by CamAPS FX en niños y adolescentes con diabetes tipo 1](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
 
-2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
 
 ---
 
@@ -83,6 +83,14 @@ permalink: /news/insulin-glargine/
 2026-06-06 <span class="news-indication-tag">diabète</span>
 
 來源：[Zinfos974](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzM1d2JwbXdLOEE1US1CODg3YjFoTUxZLUZzSlBfZG9hbXhmaURya09QNUhYckJJVXlYdUJtWk85UUgwZGNPRC1aZEctV3ZiNHZqajRELXVhdTVJNzhzRGVubUEwaVpZMWJWNmJMcXdBYWpEX3V2RTdoRnpYU0RvN2htMkl3VjNzYXluUGlyR0FfZ05ISDRJcllFZF9UUW5FU0tWQ2R3Z2Ita1NOVWhGNjJDRmhVS2trZjlLZFY3aHR0RVVMR2J2TFBLdW50bWVJR3F1VV9HeFQ?oc=5)
+
+---
+
+### [GLP-1 senkt Demenzrisiko – doch bei Alzheimer bringt es wenig - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
+
+2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
 
 ---
 
