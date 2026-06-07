@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [These games are proven to lower your dementia risk – play them here - The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2ViWFY4bnpFVUdRRUF0YzY2bGlzeUt2YzdTMExudldZdG5kdU56WVRUYTlLRnlqSVgtTDRWRFJadTVYOHRLRFJZSFljSFgyek1kU3NpOE05dkttNkd0SU1qS25tQWpjQ0VfRXVyTlNYdy1vSmRva3dDNWMwMGNyTzA4QmdfM2QtX2RmNGJRQQ?oc=5)
-
-2026-06-06
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2ViWFY4bnpFVUdRRUF0YzY2bGlzeUt2YzdTMExudldZdG5kdU56WVRUYTlLRnlqSVgtTDRWRFJadTVYOHRLRFJZSFljSFgyek1kU3NpOE05dkttNkd0SU1qS25tQWpjQ0VfRXVyTlNYdy1vSmRva3dDNWMwMGNyTzA4QmdfM2QtX2RmNGJRQQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Une étude menée sur près d'un million de patients vient de révéler un lien inattendu entre le vaccin contre la grippe et la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPazBYTjVtVG54a3N5QW9ZaHZ4dDJfeW1TR01zdGNUWlBmT2JhU1NXS25GelRGbmJTbHBmTnMzYWlBamNmdDY1cW9EajdGVy0tTnBhQlMxSFl1ejl6XzFfMkJVM08xU05SRUJnZnFLT0VmOFVLUF80YnNQbGFnTFN0S0VNMlV4X1RLcE5rSFB1YldiZjBFbzhZS29hZnprS0hkbHNWUVAzTWN1LWUxbzdNN1BwRjk1d1BYVlFLVWoxenBqMlVvM1ZhcTU3R0VaSXZLcll4SUVaN0R6UXJ1UVlmZjZMWUszMnVnZWhDR255cEVNNUdzek13ZHBXVQ?oc=5)
 

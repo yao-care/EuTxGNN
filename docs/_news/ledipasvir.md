@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（15 則）
 
 ### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
 2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
-
----
-
-### [Demenz-Prävention: Semaglutid senkt Risiko bei Diabetikern um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRy11T0Vadi0xbzB3TW5sTTNBUm1rX0d6UXY2QWJORkdnVm8wTFY0ZC1zZ2JqbXpFWFdCYTRKS1NXdUlEczBtdUJYb2xYVm1LLVNNa0NUSWhGYjI1RkZOOGNoNktuaEdpYkEtMUJCc3EyMGtXVHpCUmJaelBBZVRNRlBqX25mRWlBQWRQOFQ0OXFMcFJ6ejdHU2d2SElfV3RTSTJKdXM5cmJ3MFppS1V4eXFrbTl2M1FlNnY5T0NR?oc=5)
-
-2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRy11T0Vadi0xbzB3TW5sTTNBUm1rX0d6UXY2QWJORkdnVm8wTFY0ZC1zZ2JqbXpFWFdCYTRKS1NXdUlEczBtdUJYb2xYVm1LLVNNa0NUSWhGYjI1RkZOOGNoNktuaEdpYkEtMUJCc3EyMGtXVHpCUmJaelBBZVRNRlBqX25mRWlBQWRQOFQ0OXFMcFJ6ejdHU2d2SElfV3RTSTJKdXM5cmJ3MFppS1V4eXFrbTl2M1FlNnY5T0NR?oc=5)
-
----
-
-### [Darmflora schützt Gehirn: Kurzkettige Fettsäuren senken Alzheimer-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2c5aDNfdXhYNjE4b2VTM2hLcXVGOWhMUERob2xFN2N2dEV2NGpaQ3hrNTJIMEhLcEFqdVdyN2ctYTk1dlJtTVU0d3MtQlQ2U3NGdTItcFIyRk15YTgwZjVOMWZQTTR4aXJqczZoNVFVZUVNVDdMTks5Qmc3THV0blNOUzU4Qm9ab0h2NmVFOE9hLUJ2ZVlRcXE1TVkyR1psN0hseU90azJ4YzUyODVfWlFldnowSkU2VE1kbHJXWQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2c5aDNfdXhYNjE4b2VTM2hLcXVGOWhMUERob2xFN2N2dEV2NGpaQ3hrNTJIMEhLcEFqdVdyN2ctYTk1dlJtTVU0d3MtQlQ2U3NGdTItcFIyRk15YTgwZjVOMWZQTTR4aXJqczZoNVFVZUVNVDdMTks5Qmc3THV0blNOUzU4Qm9ab0h2NmVFOE9hLUJ2ZVlRcXE1TVkyR1psN0hseU90azJ4YzUyODVfWlFldnowSkU2VE1kbHJXWQ?oc=5)
 
 ---
 
@@ -94,6 +78,14 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [GLP-1 senkt Demenzrisiko – doch bei Alzheimer bringt es wenig - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
+
+2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
+
+---
+
 ### [My son’s bedwetting was CANCER - we were completely floored after blaming half-term symptoms on a virus - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
 
 2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -104,25 +96,9 @@ permalink: /news/ledipasvir/
 
 ### [Leeds man told he just drank 'too much tea' - it was serious condition - Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
 
-2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
-
----
-
-### [Investigadores chinos desmontan la recomendación de la OMS: se necesitan 10 horas semanales de ejercicio](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
-
-2026-06-06 <span class="news-indication-tag">MS</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
-
----
-
-### [Bluttest für Multiple Sklerose: 22 Proteine sollen Diagnose früher ermöglichen - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1NKQk53M3dNbnpHUmxYXzFseGFwRWxzWDlneHNsVlJVcWh1bURtZEE3aHUzaktxejA5UnR1c3VfSjczR3Y1OXU4X0pHNjgxYmhxbTRETlR5Y2dWYU0tU01YTHUxNVhMb1hMWS1NTXJQY1EwV2g4c2t3UVRPTEtVb0hUQkxzME44TEZuajVMUHN5dXRocEgtM2xFbUdNbEtLOVZ2OGhDZVg0NFdDY21paTRR?oc=5)
-
-2026-06-06 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1NKQk53M3dNbnpHUmxYXzFseGFwRWxzWDlneHNsVlJVcWh1bURtZEE3aHUzaktxejA5UnR1c3VfSjczR3Y1OXU4X0pHNjgxYmhxbTRETlR5Y2dWYU0tU01YTHUxNVhMb1hMWS1NTXJQY1EwV2g4c2t3UVRPTEtVb0hUQkxzME44TEZuajVMUHN5dXRocEgtM2xFbUdNbEtLOVZ2OGhDZVg0NFdDY21paTRR?oc=5)
 
 ---
 
@@ -150,6 +126,14 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [PMOS statt PCOS: Neue Diagnose für eine Million Frauen - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHBYMDhXYW9XZ3lwN01udGdXNVNQYXhIdTFTYmNaZEJwbko3UWRTRkV5LVB6Qjd0MXc3SExlQzNzcS16b0swWXFocklmMkhyQWN3Z1BtRll5aVF4VExvRFJHNi1hb2NqeVJQZS02V0pqX3k0N016WFAxRk1nNzJoRlFub0VPaXVqZVZubEI4bkxCX01mMjlnbjFoZmd0T3lvUV9UUGhR?oc=5)
+
+2026-06-05 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHBYMDhXYW9XZ3lwN01udGdXNVNQYXhIdTFTYmNaZEJwbko3UWRTRkV5LVB6Qjd0MXc3SExlQzNzcS16b0swWXFocklmMkhyQWN3Z1BtRll5aVF4VExvRFJHNi1hb2NqeVJQZS02V0pqX3k0N016WFAxRk1nNzJoRlFub0VPaXVqZVZubEI4bkxCX01mMjlnbjFoZmd0T3lvUV9UUGhR?oc=5)
+
+---
+
 ### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
 2026-06-05 <span class="news-indication-tag">hepatitis</span>
@@ -166,27 +150,27 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Embryoneneinnistung: Zilien-Biomarker mit 80% Vorhersagegenauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlpsRDBTMVhwLWg1NFUzSUdGd2FoZHMxYzRBRl82b1JJVTg4QUlfYmlwZ1QyN3JNVThRVm1pZ3FfNEJVc0wxdGtLR3pfbUs0aGFPOUNQbVozODFGVjJyUFNsM0w4dnVRT21xOFVxdG5vS0syeGVIY1FNRXdzYkpGZ05iX1J4S3lscTJTMnNSdGZoQTVLOENSSmJtUlN1Yi1tMVE?oc=5)
+### [IA crea il primo vaccino universale anti-pandemie](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGpxSXZ5b2t1WGd4aFJYNEFzNmgxZWFGSkdBUG51OHl0ZG9xa2ZJNUpkRkk5TEpwSVVMTlk4WjgxdlA0WEh4dHBwSy1NY3MtMzRWdy0ybDU0TjhxeWJfUnUtZFY1NlR2a1hsN21mVDYyeEFUT0ZtVTg5cm05R2dmX0V4Q0YtU1lyeWc?oc=5)
 
 2026-06-05 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlpsRDBTMVhwLWg1NFUzSUdGd2FoZHMxYzRBRl82b1JJVTg4QUlfYmlwZ1QyN3JNVThRVm1pZ3FfNEJVc0wxdGtLR3pfbUs0aGFPOUNQbVozODFGVjJyUFNsM0w4dnVRT21xOFVxdG5vS0syeGVIY1FNRXdzYkpGZ05iX1J4S3lscTJTMnNSdGZoQTVLOENSSmJtUlN1Yi1tMVE?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGpxSXZ5b2t1WGd4aFJYNEFzNmgxZWFGSkdBUG51OHl0ZG9xa2ZJNUpkRkk5TEpwSVVMTlk4WjgxdlA0WEh4dHBwSy1NY3MtMzRWdy0ybDU0TjhxeWJfUnUtZFY1NlR2a1hsN21mVDYyeEFUT0ZtVTg5cm05R2dmX0V4Q0YtU1lyeWc?oc=5)
 
 ---
 
-### [Die unsichtbare Todesursache](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
+### [Sepsis-Risiko: Wie schnell bakterielle Infektionen lebensbedrohlich werden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGdCX0NLMmlHVklvVVpUX2JZM0ZFbko2NmloRlJFSGw1Wm5mRlptTUFpY3dvUWV0aWVlc2VGZGhIQXpyal85ZUV3SWJ6SndXOEFNSENoYTZGMEJvVVYxdXdHVUxETk5BaVNVTzdNSGVXbGpoWXY2QncxMktrMHE2VFJBSHVNb05OV1hQX2c4bEJoVHdnbzVXcWEtcEdEb1R1M2pTVmM2NXpOOUI1M1RrdU40dHgzV3RTNDNfNkVlUQ?oc=5)
 
 2026-06-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGdCX0NLMmlHVklvVVpUX2JZM0ZFbko2NmloRlJFSGw1Wm5mRlptTUFpY3dvUWV0aWVlc2VGZGhIQXpyal85ZUV3SWJ6SndXOEFNSENoYTZGMEJvVVYxdXdHVUxETk5BaVNVTzdNSGVXbGpoWXY2QncxMktrMHE2VFJBSHVNb05OV1hQX2c4bEJoVHdnbzVXcWEtcEdEb1R1M2pTVmM2NXpOOUI1M1RrdU40dHgzV3RTNDNfNkVlUQ?oc=5)
 
 ---
 
-### [An avocado a day may help control blood sugar, study claims - Medical News Today](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzc5V2NPak5rR05WMlN2SlFUNUhpSEJCaEJLTDJxb2RfOUZSZEhhNWJaLXlHbVNpVXpUeXFNSnFBeUVoWmJtVnd4SzhnS18tRUJiRFZBUFpBUFVQQmhlc0FWQ1FjU19PTHU2UThkOHVERG83VHZOLTBKMDNOX2d3ZXRHdE1iU1NpQm5GOU05NHI?oc=5)
+### [Un estudio asocia “huellas antivirales” a tipos de esclerosis múltiple - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTQ1eTgwSGZldHhzY1pPakx1Q21YcjM0U0NRdW52bEF2NTJ0MGJHWmhseFlkS1R6a0xEeEhOdmh4U01oaTQ5N1hiczlZdDViczFJOVVYUXlRNlpFVzNLQ0U4MGZiRzlONU93S01UcHQwMjVSZ1pVZmVZeWRFNjJ1elFmZ2lrX1B0WWRIV1htcHR2Nm10ME5NSWt6aWhqX3F5NUdBLWk5ejFnbTZJeGZTVk02TnBpdHNNUEJNcjBkOEvSAcABQVVfeXFMT3VBLVVDZ3JsQWU3YVhrSVQ3cS1jNUhldWpxM1VOUzEtUGh2dlVkX2JuRGQ2SU5MSTlpOFljYmVlVDR3eG1keDZNdnYtbDk3T1VzN0NTNjkyMUpZemVBdzdTTVBGdlF6TkpDdGZ5RElaX19sV1VCSmJicTNpWG1ld19saUgxS295UU8xeXJDUWNIMnBzcGtEZ2V2ZW5nQ3lmS21lQmVsdHVDZU9Ua3J4UjVJQks5ZDRuN3J5cGJ1ZU1j?oc=5)
 
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzc5V2NPak5rR05WMlN2SlFUNUhpSEJCaEJLTDJxb2RfOUZSZEhhNWJaLXlHbVNpVXpUeXFNSnFBeUVoWmJtVnd4SzhnS18tRUJiRFZBUFpBUFVQQmhlc0FWQ1FjU19PTHU2UThkOHVERG83VHZOLTBKMDNOX2d3ZXRHdE1iU1NpQm5GOU05NHI?oc=5)
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTQ1eTgwSGZldHhzY1pPakx1Q21YcjM0U0NRdW52bEF2NTJ0MGJHWmhseFlkS1R6a0xEeEhOdmh4U01oaTQ5N1hiczlZdDViczFJOVVYUXlRNlpFVzNLQ0U4MGZiRzlONU93S01UcHQwMjVSZ1pVZmVZeWRFNjJ1elFmZ2lrX1B0WWRIV1htcHR2Nm10ME5NSWt6aWhqX3F5NUdBLWk5ejFnbTZJeGZTVk02TnBpdHNNUEJNcjBkOEvSAcABQVVfeXFMT3VBLVVDZ3JsQWU3YVhrSVQ3cS1jNUhldWpxM1VOUzEtUGh2dlVkX2JuRGQ2SU5MSTlpOFljYmVlVDR3eG1keDZNdnYtbDk3T1VzN0NTNjkyMUpZemVBdzdTTVBGdlF6TkpDdGZ5RElaX19sV1VCSmJicTNpWG1ld19saUgxS295UU8xeXJDUWNIMnBzcGtEZ2V2ZW5nQ3lmS21lQmVsdHVDZU9Ua3J4UjVJQks5ZDRuN3J5cGJ1ZU1j?oc=5)
 
 ---
 

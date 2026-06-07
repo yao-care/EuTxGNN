@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Gefitinib</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（20 則）
+
+### [Voici comment des chercheurs ont réussi à produire un médicament anticancer essentiel grâce à de la levure - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
+
+2026-06-07 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
+
+---
+
+### [Así es la esperanzadora revolución molecular que ya planta cara al cáncer - La Razón](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEpmLWxGbnJ2cF9MeDF5QVp5X3NMeWtVU3RZc0Q5XzhBOS1HWkRvcU40UHFUM2ZxNHZLdHp3RzhSbDhTWEhXY1B4YUZsdGk4LXdxSE1DaWR1NzRFTk41U1dtc1BWTzllQ3h2Y3BCd2hHdUlJQ2hhWlh1V182R3l4cHlUdGVzVmY1TmpVcWF3TVdyRkMtTkV2VEFUdjNVdUpBOFhsMFhaTkxiemt4MkVFRjZ0QkhYYUlRWEp6TFBjdDdBbEdsTm5V0gHbAUFVX3lxTE9BQWdRSWliN0Z1NUFSbG1LS0dTNk9rdjlnYzIxX045QjNBSWhPTFpEM19FS2hhZEpsdDZiakdKUG9Pc2g0SzJTTU9IWjlnZFEtWGJhNXN3MUN0U3JkQkotX3Y5Qk9uOVlWTXlkdmg4UzhlaV8zWU9aa2NOWHo5c0lnR3UwRWUwMzhSOU5YUmJSY2NNZVM0SnVydXI1WWhZdUJnREZVeWpla2IyT3R4ekpJWkdKSWlVYzRUV2tPSVl5VnNEbVJRNFhTcGt1UURuLUlva2ZPcDY2Vlpubw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEpmLWxGbnJ2cF9MeDF5QVp5X3NMeWtVU3RZc0Q5XzhBOS1HWkRvcU40UHFUM2ZxNHZLdHp3RzhSbDhTWEhXY1B4YUZsdGk4LXdxSE1DaWR1NzRFTk41U1dtc1BWTzllQ3h2Y3BCd2hHdUlJQ2hhWlh1V182R3l4cHlUdGVzVmY1TmpVcWF3TVdyRkMtTkV2VEFUdjNVdUpBOFhsMFhaTkxiemt4MkVFRjZ0QkhYYUlRWEp6TFBjdDdBbEdsTm5V0gHbAUFVX3lxTE9BQWdRSWliN0Z1NUFSbG1LS0dTNk9rdjlnYzIxX045QjNBSWhPTFpEM19FS2hhZEpsdDZiakdKUG9Pc2g0SzJTTU9IWjlnZFEtWGJhNXN3MUN0U3JkQkotX3Y5Qk9uOVlWTXlkdmg4UzhlaV8zWU9aa2NOWHo5c0lnR3UwRWUwMzhSOU5YUmJSY2NNZVM0SnVydXI1WWhZdUJnREZVeWpla2IyT3R4ekpJWkdKSWlVYzRUV2tPSVl5VnNEbVJRNFhTcGt1UURuLUlva2ZPcDY2Vlpubw?oc=5)
+
+---
+
+### [La técnica que ha permitido operar en el CHUS a 50 pacientes con carcinoma basocelular complejo - El Correo Gallego](https://news.google.com/rss/articles/CBMinwFBVV95cUxQclM1SzFBLVByNER4bk1KcFZiUjRGa1lQVlVYck9KV1d2bW9KcE9aVWgtS2lXNFhheEY3REVEQ0tIbUpPbjhONXRBLVpmUzlkWWlMOU4xUlgyNHViWU9oVTFNNlJra2gxMjRGdkNQOHBldjh5bS1EMXdvcmZWTXRXOXA0WG9qSXhZTlRVRDNPT3owZU1uZ19zWk1MajZzRkXSAaQBQVVfeXFMT1RKSUFkd2JlREdhV05jWk5PM21mcnJZUkU2OUZMcjVOeUFGcFZyZU5kTTZzNmhOdjRoVlZFcEU5cjAxTFc3MEJQX3VSSy1MdGR6MF9iNklVWEhJN3FOSTBSb1lPci1Sa0lHXzFvaWlvdXB3MkI0Z1VQcGh2aXpzdlM1eHJnbGdYTGpIdmxpY2VCNVZCUmpjNE5Vbm9KekFxV1gwVFo?oc=5)
+
+2026-06-07 <span class="news-indication-tag">carcinoma</span>
+
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMinwFBVV95cUxQclM1SzFBLVByNER4bk1KcFZiUjRGa1lQVlVYck9KV1d2bW9KcE9aVWgtS2lXNFhheEY3REVEQ0tIbUpPbjhONXRBLVpmUzlkWWlMOU4xUlgyNHViWU9oVTFNNlJra2gxMjRGdkNQOHBldjh5bS1EMXdvcmZWTXRXOXA0WG9qSXhZTlRVRDNPT3owZU1uZ19zWk1MajZzRkXSAaQBQVVfeXFMT1RKSUFkd2JlREdhV05jWk5PM21mcnJZUkU2OUZMcjVOeUFGcFZyZU5kTTZzNmhOdjRoVlZFcEU5cjAxTFc3MEJQX3VSSy1MdGR6MF9iNklVWEhJN3FOSTBSb1lPci1Sa0lHXzFvaWlvdXB3MkI0Z1VQcGh2aXpzdlM1eHJnbGdYTGpIdmxpY2VCNVZCUmpjNE5Vbm9KekFxV1gwVFo?oc=5)
+
+---
 
 ### [«L'aspirina può aiutare a scoprire precocemente i sintomi del cancro alla prostata»: lo studio - Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUcwcjRVa0M0M1YzOGJXSUVuWXhjYVV3YzhOWXdvY1lNN3FXOVJTaFdLN204UGR6ajlFa1d0bzdXdDhCc1E3REVzZGJaSlZiRVcyUjhqRXZJQ0ZHRXF4STd6LWRoTEZoY1U4RzE0Q0VWSENjazdhMTNOOGQtQzh5X2ZjU29TajAzQm9KeGxmeHZIVUw3eEpWTFRFUHFRYWFZcTRzaVRuWDJnNDI30gGiAUFVX3lxTE55bnYxV0c2eG1NZXNfazZwOTgwVVJvRDc3c2Y2UEJtN3ZJcFVKU3VkM3pQMDVEZFhDNHZSRTZ1WE9IMXpXbFBVRWktSkk3aU5HWHQtbUEtbEhoQ0R0THBMT0tCOVl4MUR6eDhKTldMMUlYcWszU2tlUkcwd2N6dGNaVVJWelZzc0thbVEtZ0c3dFNGRnQ2cVdfNV80MmQzdEtwZw?oc=5)
 
@@ -102,14 +126,6 @@ permalink: /news/gefitinib/
 
 ---
 
-### [These games are proven to lower your dementia risk – play them here - The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2ViWFY4bnpFVUdRRUF0YzY2bGlzeUt2YzdTMExudldZdG5kdU56WVRUYTlLRnlqSVgtTDRWRFJadTVYOHRLRFJZSFljSFgyek1kU3NpOE05dkttNkd0SU1qS25tQWpjQ0VfRXVyTlNYdy1vSmRva3dDNWMwMGNyTzA4QmdfM2QtX2RmNGJRQQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">dementia</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2ViWFY4bnpFVUdRRUF0YzY2bGlzeUt2YzdTMExudldZdG5kdU56WVRUYTlLRnlqSVgtTDRWRFJadTVYOHRLRFJZSFljSFgyek1kU3NpOE05dkttNkd0SU1qS25tQWpjQ0VfRXVyTlNYdy1vSmRva3dDNWMwMGNyTzA4QmdfM2QtX2RmNGJRQQ?oc=5)
-
----
-
 ### [Une étude menée sur près d'un million de patients vient de révéler un lien inattendu entre le vaccin contre la grippe et la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPazBYTjVtVG54a3N5QW9ZaHZ4dDJfeW1TR01zdGNUWlBmT2JhU1NXS25GelRGbmJTbHBmTnMzYWlBamNmdDY1cW9EajdGVy0tTnBhQlMxSFl1ejl6XzFfMkJVM08xU05SRUJnZnFLT0VmOFVLUF80YnNQbGFnTFN0S0VNMlV4X1RLcE5rSFB1YldiZjBFbzhZS29hZnprS0hkbHNWUVAzTWN1LWUxbzdNN1BwRjk1d1BYVlFLVWoxenBqMlVvM1ZhcTU3R0VaSXZLcll4SUVaN0R6UXJ1UVlmZjZMWUszMnVnZWhDR255cEVNNUdzek13ZHBXVQ?oc=5)
 
 2026-06-06 <span class="news-indication-tag">maladie d'Alzheimer</span>
@@ -131,14 +147,6 @@ permalink: /news/gefitinib/
 2026-06-05 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[Heute](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
-
----
-
-### [IA, medicina de precisión, inmunoterapia...El Hospital Provincial de Castelló analiza los avances expuestos en el Congreso Americano de Oncología - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhTSkRLSmNOc1o1WDg4a09kdE1tQWI4eXhqczFlNDhqZTZ1Q1VEeWpMR052Nk9zWThDQzE2alFfMnE0WjFVd0l2cUpDQmtvN1FVdnNvWWRSOVZLTXJFM0VWWXh4QXJrVTV4SWpLWTBkMWNOZzhwUlFKZWl0SWlXTnBkS0M4VEpfbGVBMnBWN2RwWEozVEVsVWExZHVVSXBFUnRwYU9ELXpUWnFxdVpWbnZNRkxTdi14TTFKNlI5NzVZdXo3UjRlZtIBzgFBVV95cUxORDM1em1wamFhbGRWU1owVEVJX0l3azcwdk8tQmVuRjN4bkVoNDhiWUtMSkpibG5ldUxnbnN5YmFSUnpjX05zVUxXZkctVnRQdnJTQVFkLUpPM3FfTWgwWFh2RWxfQ2doMU1FVk0yZW5uSm1Lb3FWY3VENEZPRDhvUE9MdzJ6QzhSYTlGeXRTX3MxMlMyLVdkckt3WGNZY2dDaHB5bUE4bUlVdmVBYnhKVXBWMlN1cDRlLTFLYlIxd2o2U0pkcUJLaV91WVlkZw?oc=5)
-
-2026-06-05 <span class="news-indication-tag">tumor</span>
-
-來源：[El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhTSkRLSmNOc1o1WDg4a09kdE1tQWI4eXhqczFlNDhqZTZ1Q1VEeWpMR052Nk9zWThDQzE2alFfMnE0WjFVd0l2cUpDQmtvN1FVdnNvWWRSOVZLTXJFM0VWWXh4QXJrVTV4SWpLWTBkMWNOZzhwUlFKZWl0SWlXTnBkS0M4VEpfbGVBMnBWN2RwWEozVEVsVWExZHVVSXBFUnRwYU9ELXpUWnFxdVpWbnZNRkxTdi14TTFKNlI5NzVZdXo3UjRlZtIBzgFBVV95cUxORDM1em1wamFhbGRWU1owVEVJX0l3azcwdk8tQmVuRjN4bkVoNDhiWUtMSkpibG5ldUxnbnN5YmFSUnpjX05zVUxXZkctVnRQdnJTQVFkLUpPM3FfTWgwWFh2RWxfQ2doMU1FVk0yZW5uSm1Lb3FWY3VENEZPRDhvUE9MdzJ6QzhSYTlGeXRTX3MxMlMyLVdkckt3WGNZY2dDaHB5bUE4bUlVdmVBYnhKVXBWMlN1cDRlLTFLYlIxd2o2U0pkcUJLaV91WVlkZw?oc=5)
 
 ---
 
@@ -198,35 +206,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
-
-2026-06-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
-
----
-
-### [Nueva estrategia experimental reduce la metástasis del melanoma y mejora la respuesta a la inmunoterapia](https://news.google.com/rss/articles/CBMie0FVX3lxTE51MFJVNW4wX3h6N2ZnazRGeXc4cTFzTEZieHlaWFktZGJ4Wl9VU1VjTmhsc3RiTmhTTkJSMzZOd2gzNXJ1SlhXUDVLMk41T0F3Q2hOUGFWZFp0THctLWRZUFI1ZTRCZDZqM0Y2eEVGRHcxTUpEcDdZcWJtVQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Genotipia](https://news.google.com/rss/articles/CBMie0FVX3lxTE51MFJVNW4wX3h6N2ZnazRGeXc4cTFzTEZieHlaWFktZGJ4Wl9VU1VjTmhsc3RiTmhTTkJSMzZOd2gzNXJ1SlhXUDVLMk41T0F3Q2hOUGFWZFp0THctLWRZUFI1ZTRCZDZqM0Y2eEVGRHcxTUpEcDdZcWJtVQ?oc=5)
-
----
-
-### [North Wales mum 'with IBS' given months to live - North Wales Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlo4OUNmRUhGQk1XNDRfb1N1YzVhTFAzZklPX0kwRVgtc2NlWjRYVWQxbk1qVEh0bTI4bVdnR09CQk5VOFRsVkdQcWQzUHlmT1VGNk11Q1BueWlkRVRtN2dhbE90V0NycWxhMEFRLUlDSHFxVnViVmFVVTVMVzgtREFXZUFwaFVhU3Yw?oc=5)
+### [A healthier gut may be key to cancer care](https://news.google.com/rss/articles/CBMifkFVX3lxTE9PZmxGQjBhZkJRMFNNUm9XZlJBRkNNNXloZlc1SVNkV25IeWZ5OXlDam44MWFCeFJNcEVkZVFKUVZMWjd6U25vdHRYZHRSTmlkV1VVVUFmak03NmcxUFlJRDFOYmVNRzBsS3llZFlCRG44N0tNU1VDVWdWY1pjUQ?oc=5)
 
 2026-06-05 <span class="news-indication-tag">cancer</span>
 
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlo4OUNmRUhGQk1XNDRfb1N1YzVhTFAzZklPX0kwRVgtc2NlWjRYVWQxbk1qVEh0bTI4bVdnR09CQk5VOFRsVkdQcWQzUHlmT1VGNk11Q1BueWlkRVRtN2dhbE90V0NycWxhMEFRLUlDSHFxVnViVmFVVTVMVzgtREFXZUFwaFVhU3Yw?oc=5)
-
----
-
-### [Descubren una posible nueva vía terapéutica contra tumores neuroendocrinos raros](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVZuTFNscmc5ak9KTlY5b203U3lEeEhaazVfTTVoV0xQTGdiU1pQRnpXekNreDJ1Sm5Hb2xkWmJWeEpQSHMtdXY0OEdzM0RwblZub05SUFpOYl8yVlAyZW9nMkNEZ1ZOaVg5QzhJQnlPTzNtN2lfQjZNTVNkUkJ6NDlIWHZ4M19jTUZlX2ZjZEJIRjdyTERiZFB4MVRhVjBwVkxTOEEtWllWeWViS2ZfUTRHR3ZDWFh0SUFSY0ctYkhpazNadUY4NHJiMUctZw?oc=5)
-
-2026-06-05 <span class="news-indication-tag">tumor</span>
-
-來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVZuTFNscmc5ak9KTlY5b203U3lEeEhaazVfTTVoV0xQTGdiU1pQRnpXekNreDJ1Sm5Hb2xkWmJWeEpQSHMtdXY0OEdzM0RwblZub05SUFpOYl8yVlAyZW9nMkNEZ1ZOaVg5QzhJQnlPTzNtN2lfQjZNTVNkUkJ6NDlIWHZ4M19jTUZlX2ZjZEJIRjdyTERiZFB4MVRhVjBwVkxTOEEtWllWeWViS2ZfUTRHR3ZDWFh0SUFSY0ctYkhpazNadUY4NHJiMUctZw?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMifkFVX3lxTE9PZmxGQjBhZkJRMFNNUm9XZlJBRkNNNXloZlc1SVNkV25IeWZ5OXlDam44MWFCeFJNcEVkZVFKUVZMWjd6U25vdHRYZHRSTmlkV1VVVUFmak03NmcxUFlJRDFOYmVNRzBsS3llZFlCRG44N0tNU1VDVWdWY1pjUQ?oc=5)
 
 ---
 

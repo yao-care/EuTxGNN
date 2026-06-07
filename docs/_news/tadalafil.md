@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Tadalafil 有什麼相關新聞？">
-<strong>Tadalafil</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tadalafil</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tadalafil/
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（25 則）
+
+### [Kalanchoe-Saft: Flavonoide senken Blutzucker und stärken Immunsystem - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3FQbkF4blFkQ3U0Wm94ZFFrUnp5XzdjQ1NqY3k5LWJ3OE1tczM3YWRycVREUG40SlNTVXJleEcyV2lfeXhkRHd5NUFnNm5UaktGek82cm9XSjFVTVB6UW91MU8zSkVNMmpmYVhVRjZyR0VNWEVHam90cDNUSjlrQm1JUEdZS2lZRHV1YTl6ZzJmVG9mMTdyYnJzdExzN1BNa2RReTRSWFJFaTNFYTNGOG5MVk5WdExG?oc=5)
+
+2026-06-07 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3FQbkF4blFkQ3U0Wm94ZFFrUnp5XzdjQ1NqY3k5LWJ3OE1tczM3YWRycVREUG40SlNTVXJleEcyV2lfeXhkRHd5NUFnNm5UaktGek82cm9XSjFVTVB6UW91MU8zSkVNMmpmYVhVRjZyR0VNWEVHam90cDNUSjlrQm1JUEdZS2lZRHV1YTl6ZzJmVG9mMTdyYnJzdExzN1BNa2RReTRSWFJFaTNFYTNGOG5MVk5WdExG?oc=5)
+
+---
 
 ### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
 2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+
+---
+
+### [South Africa commits $72 million in bid to shed its status as the country with the world's largest HIV epidemic - Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">AF</span>
+
+來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
 
 ---
 
@@ -118,6 +134,14 @@ permalink: /news/tadalafil/
 
 ---
 
+### [Leeds man told he just drank 'too much tea' - it was serious condition - Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
+
+---
+
 ### [How Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain - Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5)
 
 2026-06-06 <span class="news-indication-tag">AF</span>
@@ -150,11 +174,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### ["Je me grattais jusqu’au sang" : atteint d’eczéma depuis sa naissance, Hippolyte raconte 29 ans de démangeaisons et de regards - Midi Libre](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcklHUGMwMlNIUTF4SmlUMUM5OGtUOGFjTS1SQkFSUHp4Z1lHemJfZWZYZmJ5d3ZFZ3FDLWViaTM1UmVUREd5T29SNHhYYW03V0YzQmpsQjd3YmY2ZGY5MWJLaWNDMUR4RTRmOUc2OHduY2txX0FENXNWVE4xVU1mVEFNN2M0RU8tREEwc2pvdHozdnBVd0pqR2RiMG9IVkdrVlE0SFppN0ZZMHIwOHRBQjZ3NUVfUE56ZzlUcU9CTDNHRTNJTTlHam5OellsSExuVFRQWFZydEg3WEJlSWJJdy1OdGg4ZzdOMG1HRFFudTZBSG9QcHJRRHg5MUE?oc=5)
+### [« Des progrès formidables »… La révolution discrète des traitements contre l’eczéma - 20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnJhTkZEd0hvTmhHX0o2dDEyQm8wQmVXbkl5NFRWckdJODZKd0pJdnhWemZ5MnZsYW85UTM1OGd2cURqaE1DclpkUDFXS1RPb0I0aHJtWEZnbEcxa3hna3k0Qkg3ZDE5cWVTdFBsY1EyaGhNU2ZiTFRxMjB1ZlJOVnh5UUNPZGRHeGV6M1lVTEdqYWVrRENzSTFIbkJ1OWZ0RHhjbE5rbEVpUDc4ZS1KbVJzaWVpOHJyRWlxdnc0MFpJNG9IekpLNXdR?oc=5)
 
 2026-06-06 <span class="news-indication-tag">AF</span>
 
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcklHUGMwMlNIUTF4SmlUMUM5OGtUOGFjTS1SQkFSUHp4Z1lHemJfZWZYZmJ5d3ZFZ3FDLWViaTM1UmVUREd5T29SNHhYYW03V0YzQmpsQjd3YmY2ZGY5MWJLaWNDMUR4RTRmOUc2OHduY2txX0FENXNWVE4xVU1mVEFNN2M0RU8tREEwc2pvdHozdnBVd0pqR2RiMG9IVkdrVlE0SFppN0ZZMHIwOHRBQjZ3NUVfUE56ZzlUcU9CTDNHRTNJTTlHam5OellsSExuVFRQWFZydEg3WEJlSWJJdy1OdGg4ZzdOMG1HRFFudTZBSG9QcHJRRHg5MUE?oc=5)
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnJhTkZEd0hvTmhHX0o2dDEyQm8wQmVXbkl5NFRWckdJODZKd0pJdnhWemZ5MnZsYW85UTM1OGd2cURqaE1DclpkUDFXS1RPb0I0aHJtWEZnbEcxa3hna3k0Qkg3ZDE5cWVTdFBsY1EyaGhNU2ZiTFRxMjB1ZlJOVnh5UUNPZGRHeGV6M1lVTEdqYWVrRENzSTFIbkJ1OWZ0RHhjbE5rbEVpUDc4ZS1KbVJzaWVpOHJyRWlxdnc0MFpJNG9IekpLNXdR?oc=5)
 
 ---
 
@@ -174,6 +198,22 @@ permalink: /news/tadalafil/
 
 ---
 
+### [Le “premier” vaccin conçu avec l'IA a été testé sur des humains : voici comment il pourrait nous protéger de la prochaine pandémie](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yTDZTWmEwZk1pWjdNdG9tNWt1alUyNWI1akR3YThoS1JBRjQzVWxTZEdxbjI0SGpURkh5VjhQRUN3eTRVcHl5UnlWTmZzcUNpUENqTm14ejByT3I1ZVQ4ZVh5VkR3czZfVERnUkRTaUxybDlrRWQyTw?oc=5)
+
+2026-06-05 <span class="news-indication-tag">AF</span>
+
+來源：[Presse-citron](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yTDZTWmEwZk1pWjdNdG9tNWt1alUyNWI1akR3YThoS1JBRjQzVWxTZEdxbjI0SGpURkh5VjhQRUN3eTRVcHl5UnlWTmZzcUNpUENqTm14ejByT3I1ZVQ4ZVh5VkR3czZfVERnUkRTaUxybDlrRWQyTw?oc=5)
+
+---
+
+### [Los médicos en alerta por la patología que casi nadie sabe que tiene y cada vez es más común en España](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEg2clB5a0ppdHNsTkVUa1lIZTNZUG5FRUd1RFdvZUJqWnFoS3dnSHVTQUhHaW9sQTZ2TzFCa1A5V3JldkRtWTExSlRnc0I3cFdGWWhIczV2WmhzWlBvREhYaVBvLUFLQ0QzRVluVWp0cjljZVNOaGlfTDhGbjE4MmxLNHBrNTczamZXZjJGSUZsb1RnT0dmanBDMHFhdm1EQk01bVZEQ2FxbWZYZzh6djhBUTR5ZlXSAbwBQVVfeXFMTW42Yl84elhuMzg0MEZYSERNdTNWZ1FqbVAtTDdBRVl3dV9GSUNaT2tLdXBtOEpndXRFTFFjTDBIZFBCa2s5bG9tczVDY3RkMmhBbUpDdGFRSk8zTGZJb1Z3LUgyTnp5WXVXbndZRTNkeWNIMmdFMGpNenF0NU1pVF9fMlFKLTJmUXVvNHFKTjhNSHAtZTBNNTFOTDllQmlJUnd0SUxMWVB6eEdhZUpobklXb2NxcWRGbWhzZGQ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEg2clB5a0ppdHNsTkVUa1lIZTNZUG5FRUd1RFdvZUJqWnFoS3dnSHVTQUhHaW9sQTZ2TzFCa1A5V3JldkRtWTExSlRnc0I3cFdGWWhIczV2WmhzWlBvREhYaVBvLUFLQ0QzRVluVWp0cjljZVNOaGlfTDhGbjE4MmxLNHBrNTczamZXZjJGSUZsb1RnT0dmanBDMHFhdm1EQk01bVZEQ2FxbWZYZzh6djhBUTR5ZlXSAbwBQVVfeXFMTW42Yl84elhuMzg0MEZYSERNdTNWZ1FqbVAtTDdBRVl3dV9GSUNaT2tLdXBtOEpndXRFTFFjTDBIZFBCa2s5bG9tczVDY3RkMmhBbUpDdGFRSk8zTGZJb1Z3LUgyTnp5WXVXbndZRTNkeWNIMmdFMGpNenF0NU1pVF9fMlFKLTJmUXVvNHFKTjhNSHAtZTBNNTFOTDllQmlJUnd0SUxMWVB6eEdhZUpobklXb2NxcWRGbWhzZGQ?oc=5)
+
+---
+
 ### [El doctor Javier Cortés Castán, reconocido entre los «2026 Giants of Cancer Care»](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
 
 2026-06-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -182,27 +222,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [WHO announces £386m plan to fight Ebola outbreak as number of cases rises - Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDFMM1Y4dVprRmphVWd3RjlBZnVoNEdHMjFRVTRjSmNaVUE4MnNsWVZKWTdvdUtHMjBKVmFWanVvc0hOVnEzcWtxWlVuWmIyVElkTmhhakdMMjNfQk1PQk1fc0tsQkdTZElqMHVoaEt3eUpaaENsUHltQ1NTNll6Z0t0aGpYWHplY2c4SDFYaGFjY2dkNkFWckpzanB3OHdBbVdyMklqUS1mRE9q?oc=5)
+### [Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tUGp0M1Mya3k4SFprLTNIMFZ0RW1pc0QwNE9rLU9Ja0l5bWx1QWJqQ2pvcXd3bXI3dGpKWjBqUHNTQ1poU0JaZ20zR18xSGpWYWloU0RaWG5NbDNT?oc=5)
 
 2026-06-05 <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDFMM1Y4dVprRmphVWd3RjlBZnVoNEdHMjFRVTRjSmNaVUE4MnNsWVZKWTdvdUtHMjBKVmFWanVvc0hOVnEzcWtxWlVuWmIyVElkTmhhakdMMjNfQk1PQk1fc0tsQkdTZElqMHVoaEt3eUpaaENsUHltQ1NTNll6Z0t0aGpYWHplY2c4SDFYaGFjY2dkNkFWckpzanB3OHdBbVdyMklqUS1mRE9q?oc=5)
-
----
-
-### [Estas son las reglas para conservar los fármacos con el calor y evitar riesgos para la salud - Gaceta de salud](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWWZfM29MZGZTOGJ6QkwwMTZVNEtfejVQdGVabEl4WjZXSXo4d0xzTzdkY1BZTkI3WDRZUWk4blhEVFFycE9PN1N1cUZpY1dQWWJZMHhuY3E2UWNCQ2pFdEppaEJtRURMMDFzMW82VzhqQ1l3a1hfUVJiTkdsUENrakNoUlIwTmFkcmNkbTdMMkVPT1JuRlZ0aVFhWG10cEY3QVBESm9QTEdVckswcjZfZUF0ZGQzTHFZSVlkQzdZRjV2SWhxa19SWUhVejBMNUVVcHZTc0dIRXBOc2tndm9xYS16WWpWeGdxR0JraEt5ajlVSHRuNWZ5WA?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWWZfM29MZGZTOGJ6QkwwMTZVNEtfejVQdGVabEl4WjZXSXo4d0xzTzdkY1BZTkI3WDRZUWk4blhEVFFycE9PN1N1cUZpY1dQWWJZMHhuY3E2UWNCQ2pFdEppaEJtRURMMDFzMW82VzhqQ1l3a1hfUVJiTkdsUENrakNoUlIwTmFkcmNkbTdMMkVPT1JuRlZ0aVFhWG10cEY3QVBESm9QTEdVckswcjZfZUF0ZGQzTHFZSVlkQzdZRjV2SWhxa19SWUhVejBMNUVVcHZTc0dIRXBOc2tndm9xYS16WWpWeGdxR0JraEt5ajlVSHRuNWZ5WA?oc=5)
-
----
-
-### [Davvero i farmaci anti-obesità combattono il cancro? Cosa dicono le ultime ricerche (e perché occorre molta prudenza) - Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
-
-2026-06-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1B5QUhfTGlyZjRRUnQta3VMZE1IUVNUOWlkZFE0SmdLUlFVS2hRd25jd1Z5dmZ5QTJiUF8tVGMzSTNRc3hsS0Z2VWExXzZFNjVTcmpIaG5ySFJSdXM4ZllGRGdBb0o2Q2JXUmFjRmdoZHI3OU1RT3JRaHNrNDZUSng5Y0RFbl9OWUlfd01fbDVqNW9nbF8tc1JmamIyMXN6M215TkxWOHMxWmVfbGR1c2FIQ3ZkOHd0T2hNSTB2Z2hYandUUVpZemEtNNIB0AFBVV95cUxQQThqWXJuNnRGeG5XYWZ4Sjl1c1NHMUNZM2FzRTRZR21XX0piT2ZuTFR0YXd3d3cyODFETTlsWF9XSEpaYnNuZWYxVXZmZFVoelRKcGtkWjd4UEFUdXNhaHlVRkZOa3dMb2pVSVYtZV9HRDhnQ2lpU0U0dGdETlRtZFhVMnB2MGwtaFZNYkdTZFJpTGNIVkFBbEVQQ1VMajNKWUJOT0FYQkhEdzVpZ1dteGxWY3NRbk1VN0llT1FreGVSSm1fU0F0bU5qbkFaUEY5?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tUGp0M1Mya3k4SFprLTNIMFZ0RW1pc0QwNE9rLU9Ja0l5bWx1QWJqQ2pvcXd3bXI3dGpKWjBqUHNTQ1poU0JaZ20zR18xSGpWYWloU0RaWG5NbDNT?oc=5)
 
 ---
 
@@ -222,19 +246,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Die unsichtbare Todesursache](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
+### [Sepsis-Risiko: Wie schnell bakterielle Infektionen lebensbedrohlich werden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGdCX0NLMmlHVklvVVpUX2JZM0ZFbko2NmloRlJFSGw1Wm5mRlptTUFpY3dvUWV0aWVlc2VGZGhIQXpyal85ZUV3SWJ6SndXOEFNSENoYTZGMEJvVVYxdXdHVUxETk5BaVNVTzdNSGVXbGpoWXY2QncxMktrMHE2VFJBSHVNb05OV1hQX2c4bEJoVHdnbzVXcWEtcEdEb1R1M2pTVmM2NXpOOUI1M1RrdU40dHgzV3RTNDNfNkVlUQ?oc=5)
 
 2026-06-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZY0p6S1lNUUdvZElRQzRXMHRyZVJWTGY3YTBJQ1NvRjdVQTluaFNYSVJ2ZnVtcmFDOTlJb3gybUhUMVNxV0QzbGVuVXBiaS1mVU9OOGFobVpuSUIxSVZPR1JEakNDS2tFSzdN?oc=5)
-
----
-
-### [An avocado a day may help control blood sugar, study claims - Medical News Today](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzc5V2NPak5rR05WMlN2SlFUNUhpSEJCaEJLTDJxb2RfOUZSZEhhNWJaLXlHbVNpVXpUeXFNSnFBeUVoWmJtVnd4SzhnS18tRUJiRFZBUFpBUFVQQmhlc0FWQ1FjU19PTHU2UThkOHVERG83VHZOLTBKMDNOX2d3ZXRHdE1iU1NpQm5GOU05NHI?oc=5)
-
-2026-06-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzc5V2NPak5rR05WMlN2SlFUNUhpSEJCaEJLTDJxb2RfOUZSZEhhNWJaLXlHbVNpVXpUeXFNSnFBeUVoWmJtVnd4SzhnS18tRUJiRFZBUFpBUFVQQmhlc0FWQ1FjU19PTHU2UThkOHVERG83VHZOLTBKMDNOX2d3ZXRHdE1iU1NpQm5GOU05NHI?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGdCX0NLMmlHVklvVVpUX2JZM0ZFbko2NmloRlJFSGw1Wm5mRlptTUFpY3dvUWV0aWVlc2VGZGhIQXpyal85ZUV3SWJ6SndXOEFNSENoYTZGMEJvVVYxdXdHVUxETk5BaVNVTzdNSGVXbGpoWXY2QncxMktrMHE2VFJBSHVNb05OV1hQX2c4bEJoVHdnbzVXcWEtcEdEb1R1M2pTVmM2NXpOOUI1M1RrdU40dHgzV3RTNDNfNkVlUQ?oc=5)
 
 ---
 
