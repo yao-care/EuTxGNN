@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Lilly impulsa "Razones de Peso" para visibilizar la obesidad - Revista Pharma Market](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2JIRE1abGQwZG5XRWxJa3laZ1pielFLNmtfMjRuYk5EVkh4ck1HNnRVWDBjXzlkLVAyLTdpTUdDN0MwQkFLamRjSkZ4WTZjRUdTUTh2ZjYzclpTWjRSNjhUS200cGd1MEJfM1h1Zk43NVZPc2llUnRvRmtZeWxwWGtqOExLYzVuQ1YyWG9BX0FsQVFBbnJr?oc=5)
 
 2026-06-06
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2JIRE1abGQwZG5XRWxJa3laZ1pielFLNmtfMjRuYk5EVkh4ck1HNnRVWDBjXzlkLVAyLTdpTUdDN0MwQkFLamRjSkZ4WTZjRUdTUTh2ZjYzclpTWjRSNjhUS200cGd1MEJfM1h1Zk43NVZPc2llUnRvRmtZeWxwWGtqOExLYzVuQ1YyWG9BX0FsQVFBbnJr?oc=5)
-
----
-
-### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
-
-2026-06-05
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
 
 ---
 

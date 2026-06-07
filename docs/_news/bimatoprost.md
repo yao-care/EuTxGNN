@@ -54,11 +54,35 @@ permalink: /news/bimatoprost/
 
 ## 相關新聞（24 則）
 
-### [Kalanchoe-Saft: Flavonoide senken Blutzucker und stärken Immunsystem - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3FQbkF4blFkQ3U0Wm94ZFFrUnp5XzdjQ1NqY3k5LWJ3OE1tczM3YWRycVREUG40SlNTVXJleEcyV2lfeXhkRHd5NUFnNm5UaktGek82cm9XSjFVTVB6UW91MU8zSkVNMmpmYVhVRjZyR0VNWEVHam90cDNUSjlrQm1JUEdZS2lZRHV1YTl6ZzJmVG9mMTdyYnJzdExzN1BNa2RReTRSWFJFaTNFYTNGOG5MVk5WdExG?oc=5)
+### [US insurers’ move to back vaccines sends ‘powerful’ message about safety of shots, experts say - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUtlWXFBUWdxMDJVVnEzTWttZHJpOFlkRHdJdDE4ZndBbF9xVnNtTXF4M1M3SVd0N0xxSzd5UG1iTXU4dTktMWhORXg2WmV3cEZHdnNoSGVQZXE0Q19zWU1nblZUcEpnb29NWTNXT1JzQXg4a3BSNzdvSmJCNXYxbHNHeXVpOHlX?oc=5)
 
 2026-06-07 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3FQbkF4blFkQ3U0Wm94ZFFrUnp5XzdjQ1NqY3k5LWJ3OE1tczM3YWRycVREUG40SlNTVXJleEcyV2lfeXhkRHd5NUFnNm5UaktGek82cm9XSjFVTVB6UW91MU8zSkVNMmpmYVhVRjZyR0VNWEVHam90cDNUSjlrQm1JUEdZS2lZRHV1YTl6ZzJmVG9mMTdyYnJzdExzN1BNa2RReTRSWFJFaTNFYTNGOG5MVk5WdExG?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUtlWXFBUWdxMDJVVnEzTWttZHJpOFlkRHdJdDE4ZndBbF9xVnNtTXF4M1M3SVd0N0xxSzd5UG1iTXU4dTktMWhORXg2WmV3cEZHdnNoSGVQZXE0Q19zWU1nblZUcEpnb29NWTNXT1JzQXg4a3BSNzdvSmJCNXYxbHNHeXVpOHlX?oc=5)
+
+---
+
+### [Sepsis: Deutschland hat ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
+
+---
+
+### [La Unidad Afectivo Sexual refuerza su labor de prevención y detección de las ITS - Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGZPTTQ0Rll4YldVQVg4ZlZiWTYtdTVJWHN6UlNKTG8zSzVSZk9jVjhBNFM1eW9CVWlqMjF5ZmQ5WE01YTNKR0JOTVBfVENsNDYxZWtrd01tVGZuNTkyQlktWE94eU1GejNGc21LN2NaN1U1M0NoanBJQlNHcUdIR2VMTC1NUGo5RHBHbkFNWHM3aWtWVTVBYzZVelBMR1h5LXhRdExIRFBUeEFTT3hxQktib2JFLVQzOV9hZi1OVWVWc0RL0gHKAUFVX3lxTE4tdE5OMTZmdmt2MDRoNnkwcVhpUTg0YXRud2k0bzJNT252aDJKZlM5SExfcWZkMWZ6Sy1FLU85Q0Qyd0ZyUk05LUZZUlhXcmZUb2FKdld6SGlueFZ2aF9FX291UWZpVlRuLWZMZlJoQ0kwRHZEWEJ2dmJaVW43NFpJU1Y5MWs5V2wzN3VISTAzVXpNQkgwazJzZ1BNeE1FQ21VVmNnc1ZhcFdiWjcybE1iaGVkaHlqbFZSU0ExUWdyX1Rtc0hxdzY5WHc?oc=5)
+
+2026-06-07 <span class="news-indication-tag">AF</span>
+
+來源：[Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGZPTTQ0Rll4YldVQVg4ZlZiWTYtdTVJWHN6UlNKTG8zSzVSZk9jVjhBNFM1eW9CVWlqMjF5ZmQ5WE01YTNKR0JOTVBfVENsNDYxZWtrd01tVGZuNTkyQlktWE94eU1GejNGc21LN2NaN1U1M0NoanBJQlNHcUdIR2VMTC1NUGo5RHBHbkFNWHM3aWtWVTVBYzZVelBMR1h5LXhRdExIRFBUeEFTT3hxQktib2JFLVQzOV9hZi1OVWVWc0RL0gHKAUFVX3lxTE4tdE5OMTZmdmt2MDRoNnkwcVhpUTg0YXRud2k0bzJNT252aDJKZlM5SExfcWZkMWZ6Sy1FLU85Q0Qyd0ZyUk05LUZZUlhXcmZUb2FKdld6SGlueFZ2aF9FX291UWZpVlRuLWZMZlJoQ0kwRHZEWEJ2dmJaVW43NFpJU1Y5MWs5V2wzN3VISTAzVXpNQkgwazJzZ1BNeE1FQ21VVmNnc1ZhcFdiWjcybE1iaGVkaHlqbFZSU0ExUWdyX1Rtc0hxdzY5WHc?oc=5)
+
+---
+
+### [Ebola, Pregliasco: “Congo, forse solo la punta dell’iceberg”. Esperti Usa: “Potrebbe diventare una delle più grandi epidemie mai registrate” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
 
 ---
 
@@ -72,7 +96,7 @@ permalink: /news/bimatoprost/
 
 ### [South Africa commits $72 million in bid to shed its status as the country with the world's largest HIV epidemic - Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
 
-2026-06-06 <span class="news-indication-tag">AF</span>
+2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
 
@@ -166,14 +190,6 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [« Des progrès formidables »… La révolution discrète des traitements contre l’eczéma - 20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnJhTkZEd0hvTmhHX0o2dDEyQm8wQmVXbkl5NFRWckdJODZKd0pJdnhWemZ5MnZsYW85UTM1OGd2cURqaE1DclpkUDFXS1RPb0I0aHJtWEZnbEcxa3hna3k0Qkg3ZDE5cWVTdFBsY1EyaGhNU2ZiTFRxMjB1ZlJOVnh5UUNPZGRHeGV6M1lVTEdqYWVrRENzSTFIbkJ1OWZ0RHhjbE5rbEVpUDc4ZS1KbVJzaWVpOHJyRWlxdnc0MFpJNG9IekpLNXdR?oc=5)
-
-2026-06-06 <span class="news-indication-tag">AF</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnJhTkZEd0hvTmhHX0o2dDEyQm8wQmVXbkl5NFRWckdJODZKd0pJdnhWemZ5MnZsYW85UTM1OGd2cURqaE1DclpkUDFXS1RPb0I0aHJtWEZnbEcxa3hna3k0Qkg3ZDE5cWVTdFBsY1EyaGhNU2ZiTFRxMjB1ZlJOVnh5UUNPZGRHeGV6M1lVTEdqYWVrRENzSTFIbkJ1OWZ0RHhjbE5rbEVpUDc4ZS1KbVJzaWVpOHJyRWlxdnc0MFpJNG9IekpLNXdR?oc=5)
-
----
-
 ### [Removing ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXJYNWtMZ3VYS01wYWZhQVQ0WndWeEUtTk1Od3padENEdHNjdDhyeWF3ZTR0dEl5anpxbjNrOVFuQkVzM04tOFFrQjNNYXFfVlo1RUdFQ1ZoeVMtZmZCYVBoMlpIM2dDcGJDSHRMOUxua2gwVjhNb2ZOT0F4X21OT3dLS3Nrc3k4ZzA5RWo0cVZJZWQzblNNQ0I3dUZXQjM0?oc=5)
 
 2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -187,6 +203,14 @@ permalink: /news/bimatoprost/
 2026-06-06 <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmpKcHpQYWctSF9vWS1tcWluMUVGNGp1SzBQRW9pdXVoanh4ZWxVaGVfWmdYRUpCTVI1UkdOak91cHdnQkdMUXlxWmVlUXBzTWw4UC1pdkplcllYNWNWYlpjaXNVYy1sc3FfMzNGUlFOcm44QVBtTUM4M09iY1AxVi04cUlocWJybW1uZHVERERwckV6TlJNWWNUUWRqLUZvNHFBZXRxdjFndjBEMkJOaU51LU9qMUhjREswMms0OVJJNGx4Uzg0QWg2TmtzUQ?oc=5)
+
+---
+
+### [Estudio del ISCIII y Hospital de Getafe analiza brotes de norovirus - Diario Occidente](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjFhMFVTTV9EV3M5V1JPU05fWllDcUs1SUVuV2FVc0VNSHR3YTJ3bDFPM0p4Q0lZWnNIczFvdDJKT2QwakxiTXBWWnBXLWJ4Nzd0YVp6OThkakVxLU9JQ1czcUctS3lTQk9CQ1drOGFZNTVZVmJiZ2RQZjYzYlhEbGlGWW9nd0RKS2ZYMXVjUmxxZEl6YW9XMEtEWkNYcU5oOFZj0gGuAUFVX3lxTE1rS19nVGF3clZ4SHd1VTVCZkx5THRTbkFIN0JVU1I4eGswR2w1Wnl4czRfQWloOXdMUTVIcUtOTXk3X1FwTkk4d1JpY21HLWM4ekdYeWF4QVUzck56VDRTNzhUSndHNTI3VWo5czh5aXZ0d2sxUjByTVNtQ3RpNV9JZGpBU1FaX2dXS2E1Z19RVTlDdkdDbS1pTE1DZW0xempKMnVmV3djSjhoVzBuUQ?oc=5)
+
+2026-06-05 <span class="news-indication-tag">AF</span>
+
+來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjFhMFVTTV9EV3M5V1JPU05fWllDcUs1SUVuV2FVc0VNSHR3YTJ3bDFPM0p4Q0lZWnNIczFvdDJKT2QwakxiTXBWWnBXLWJ4Nzd0YVp6OThkakVxLU9JQ1czcUctS3lTQk9CQ1drOGFZNTVZVmJiZ2RQZjYzYlhEbGlGWW9nd0RKS2ZYMXVjUmxxZEl6YW9XMEtEWkNYcU5oOFZj0gGuAUFVX3lxTE1rS19nVGF3clZ4SHd1VTVCZkx5THRTbkFIN0JVU1I4eGswR2w1Wnl4czRfQWloOXdMUTVIcUtOTXk3X1FwTkk4d1JpY21HLWM4ekdYeWF4QVUzck56VDRTNzhUSndHNTI3VWo5czh5aXZ0d2sxUjByTVNtQ3RpNV9JZGpBU1FaX2dXS2E1Z19RVTlDdkdDbS1pTE1DZW0xempKMnVmV3djSjhoVzBuUQ?oc=5)
 
 ---
 
@@ -219,30 +243,6 @@ permalink: /news/bimatoprost/
 2026-06-05 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tUGp0M1Mya3k4SFprLTNIMFZ0RW1pc0QwNE9rLU9Ja0l5bWx1QWJqQ2pvcXd3bXI3dGpKWjBqUHNTQ1poU0JaZ20zR18xSGpWYWloU0RaWG5NbDNT?oc=5)
-
----
-
-### [Pourquoi est-il primordial de stimuler vos muscles à tout âge ? - Corse Matin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0Y0Wkp4eDNLaVNheHpRTlBRRmlYMG1DY2pfd3Z0Y0Z2MUotbUFYd3UzMWhFTGhCbWJUaUU0MFI0TDVlMmdhYmRoNS0wYTFQcDV3MU1sVndSRkVFU3ppc2xUSnpTNTFiQVVodkE1WUpDQnBXb3hCV0t3TW1QaVRqZUpaYnE4eXk1YVhZME4zdmxNb3k4U28zTGxTaXNBUW5RSjRFVTJuUXdhUzZEOFg3Ti1xeW5rSzM4?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[Corse Matin](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0Y0Wkp4eDNLaVNheHpRTlBRRmlYMG1DY2pfd3Z0Y0Z2MUotbUFYd3UzMWhFTGhCbWJUaUU0MFI0TDVlMmdhYmRoNS0wYTFQcDV3MU1sVndSRkVFU3ppc2xUSnpTNTFiQVVodkE1WUpDQnBXb3hCV0t3TW1QaVRqZUpaYnE4eXk1YVhZME4zdmxNb3k4U28zTGxTaXNBUW5RSjRFVTJuUXdhUzZEOFg3Ti1xeW5rSzM4?oc=5)
-
----
-
-### [Miranza da un paso adelante en la rehabilitación de la orbitopatía tiroidea](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZnell1VUlZYlc5YzVCQ3p1ckZWUm9BTHBsTWlRYUlqem1ld01lVlBYVDZoUnVpNTB5OHJmbFQ5UF9lRWQtdWhfWlZzUzZlNU9MbndWdUVOSUVsOVhxR09IMnhWYUdTeTNRaUp1VUt2SGMzY2U0NHNNNE41dGpiaFZKb0VzSFhlNGp1VUd3OVBVZHRUN1pGYXZDSURESU84?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[Modaengafas.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFZnell1VUlZYlc5YzVCQ3p1ckZWUm9BTHBsTWlRYUlqem1ld01lVlBYVDZoUnVpNTB5OHJmbFQ5UF9lRWQtdWhfWlZzUzZlNU9MbndWdUVOSUVsOVhxR09IMnhWYUdTeTNRaUp1VUt2SGMzY2U0NHNNNE41dGpiaFZKb0VzSFhlNGp1VUd3OVBVZHRUN1pGYXZDSURESU84?oc=5)
-
----
-
-### [Sepsis-Risiko: Wie schnell bakterielle Infektionen lebensbedrohlich werden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGdCX0NLMmlHVklvVVpUX2JZM0ZFbko2NmloRlJFSGw1Wm5mRlptTUFpY3dvUWV0aWVlc2VGZGhIQXpyal85ZUV3SWJ6SndXOEFNSENoYTZGMEJvVVYxdXdHVUxETk5BaVNVTzdNSGVXbGpoWXY2QncxMktrMHE2VFJBSHVNb05OV1hQX2c4bEJoVHdnbzVXcWEtcEdEb1R1M2pTVmM2NXpOOUI1M1RrdU40dHgzV3RTNDNfNkVlUQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGdCX0NLMmlHVklvVVpUX2JZM0ZFbko2NmloRlJFSGw1Wm5mRlptTUFpY3dvUWV0aWVlc2VGZGhIQXpyal85ZUV3SWJ6SndXOEFNSENoYTZGMEJvVVYxdXdHVUxETk5BaVNVTzdNSGVXbGpoWXY2QncxMktrMHE2VFJBSHVNb05OV1hQX2c4bEJoVHdnbzVXcWEtcEdEb1R1M2pTVmM2NXpOOUI1M1RrdU40dHgzV3RTNDNfNkVlUQ?oc=5)
 
 ---
 

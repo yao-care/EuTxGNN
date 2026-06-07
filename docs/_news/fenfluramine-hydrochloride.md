@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Lilly impulsa "Razones de Peso" para visibilizar la obesidad - Revista Pharma Market](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2JIRE1abGQwZG5XRWxJa3laZ1pielFLNmtfMjRuYk5EVkh4ck1HNnRVWDBjXzlkLVAyLTdpTUdDN0MwQkFLamRjSkZ4WTZjRUdTUTh2ZjYzclpTWjRSNjhUS200cGd1MEJfM1h1Zk43NVZPc2llUnRvRmtZeWxwWGtqOExLYzVuQ1YyWG9BX0FsQVFBbnJr?oc=5)
 
 2026-06-06 <span class="news-indication-tag">obesidad</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2JIRE1abGQwZG5XRWxJa3laZ1pielFLNmtfMjRuYk5EVkh4ck1HNnRVWDBjXzlkLVAyLTdpTUdDN0MwQkFLamRjSkZ4WTZjRUdTUTh2ZjYzclpTWjRSNjhUS200cGd1MEJfM1h1Zk43NVZPc2llUnRvRmtZeWxwWGtqOExLYzVuQ1YyWG9BX0FsQVFBbnJr?oc=5)
-
----
-
-### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
 
 ---
 

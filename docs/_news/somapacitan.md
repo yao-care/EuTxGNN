@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthme</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（5 則）
+
+### [Diabetes-Medikamente senken Alzheimer-Risiko um bis zu 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+
+2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+
+---
 
 ### [Marcado CE para la primera tecnología de detección dual de glucosa y cuerpos cetónicos en diabetes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
 
@@ -78,51 +86,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [GLP-1 senkt Demenzrisiko – doch bei Alzheimer bringt es wenig - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
-
-2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
-
----
-
 ### [Ce médicament contre l'asthme pourrait réactiver les défenses immunitaires contre le cancer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0RiengwUGtBbGlHX3NsbGUwd2ZkUDkwQ1B5YUQzaDlHWTR3MHd4eS1pTERZbDhQdnRtUTZqd1ZTZGw0cktvZFFNdVM4U1hwdzF2eEZsbW43bzB4LVFEaWhqV0NfVFZGdmhVYTBzV2NFeDhsaXJhNXEwVVo3R2JTRUU4dzdueGdWT2hSM2VwT0EzLUFfNm9qOXpfYjljaTR1eXRfQW9OZUNGbTJ0SWdTMWgwNEx5QWhyejFUc3VIVGlOUFhzS0NYdXJORG4?oc=5)
 
 2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0RiengwUGtBbGlHX3NsbGUwd2ZkUDkwQ1B5YUQzaDlHWTR3MHd4eS1pTERZbDhQdnRtUTZqd1ZTZGw0cktvZFFNdVM4U1hwdzF2eEZsbW43bzB4LVFEaWhqV0NfVFZGdmhVYTBzV2NFeDhsaXJhNXEwVVo3R2JTRUU4dzdueGdWT2hSM2VwT0EzLUFfNm9qOXpfYjljaTR1eXRfQW9OZUNGbTJ0SWdTMWgwNEx5QWhyejFUc3VIVGlOUFhzS0NYdXJORG4?oc=5)
-
----
-
-### [Typ-1-Diabetes: Screening findet 81% der Fälle früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWllyQm1FMVgxQ1p6UEFwNWRHajF2UmMwdkpzRko3SnZZWnE4UXAyaUtSMTNtWVVyZ0tCVWpnOTJBWk1lQ2hpdWc2WEpDWFNOclpRQkt3eGVtZUpXUFJ5ZzcwcWRWaDNOY29meEJ0OGF1U2pyN1pkUC1TUUJoSGk0alFTMWhfMEJlWmtzeFdSS0piSXNQWk9reGlYdEpZWkpFLVhrcFZGeWlEZjJx?oc=5)
-
-2026-06-06 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWllyQm1FMVgxQ1p6UEFwNWRHajF2UmMwdkpzRko3SnZZWnE4UXAyaUtSMTNtWVVyZ0tCVWpnOTJBWk1lQ2hpdWc2WEpDWFNOclpRQkt3eGVtZUpXUFJ5ZzcwcWRWaDNOY29meEJ0OGF1U2pyN1pkUC1TUUJoSGk0alFTMWhfMEJlWmtzeFdSS0piSXNQWk9reGlYdEpZWkpFLVhrcFZGeWlEZjJx?oc=5)
-
----
-
-### [Diabetes-Prävention: 10.000 Schritte senken Risiko um 14 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEhGYTA0U2RfS2JPZmxRNHF6U3NVUWVkRUt0REtjWWRfdzFFMmZaaUFFa2dabU5hOUVRUG1DZUkxaVoxQks4WHhuTFhLYUd1RldNTUNiNWhGalBtRUp0QmE5bU1PcmxXX0lTTjlwd3hSUXFrRmlrYjR1YTFmSExzbDhIQVdXc01jNkdEOV9Rd3FTX0dINlFGUlZISlNlaEpTZnZDcEE3NjJySWJYeXMzaHVjNA?oc=5)
-
-2026-06-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEhGYTA0U2RfS2JPZmxRNHF6U3NVUWVkRUt0REtjWWRfdzFFMmZaaUFFa2dabU5hOUVRUG1DZUkxaVoxQks4WHhuTFhLYUd1RldNTUNiNWhGalBtRUp0QmE5bU1PcmxXX0lTTjlwd3hSUXFrRmlrYjR1YTFmSExzbDhIQVdXc01jNkdEOV9Rd3FTX0dINlFGUlZISlNlaEpTZnZDcEE3NjJySWJYeXMzaHVjNA?oc=5)
-
----
-
-### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Vademecum.es](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
-
----
-
-### [59º Congreso SEPAR: ¿Deben utilizarse los mismos biológicos en el asma y en la EPOC? - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmM0N3RQVV85R3otQUZYUTdnWF95V19Ha3VnNUphMHRBaHZiUG1NYVhLYk1ucFo4bHlhUXJlUS00QjVmOXI4UkJGM1Rwd2NmZTZEWFFuSnB4WnhiLVFtZ0ljNHlhQU00MWRJTGk4SlppMDNXWk5aanpyaGUwbUhoTWc4ZHdrcVJXMXFXQ0RYM2hXQ0Z5UmFTSk5Qc19nbFNiXzgtekNjOHpiTjd4LU1RZGQ2UDAzNkXSAbIBQVVfeXFMTVR0TGFjcDBHWnE0M1NETmlKYldVNFZDWW4ya1VCRWJRZ2FYX1lYeVJadFVhanR2cWxUZUVHU05jSlcyU0tianJrb0R6OTlaT1hmZWE4Mmc3UDFYbkhpVm80Q1RhSXR4a29PSDl0djMxREstZnJvdS05dHdqYjVDRmVxcGU5akx3eDlodE04Z0FtTFVZN0Vlb1AtYWNDaEVRNUx4aC1Odm94RGJIVEVZUC1mQQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmM0N3RQVV85R3otQUZYUTdnWF95V19Ha3VnNUphMHRBaHZiUG1NYVhLYk1ucFo4bHlhUXJlUS00QjVmOXI4UkJGM1Rwd2NmZTZEWFFuSnB4WnhiLVFtZ0ljNHlhQU00MWRJTGk4SlppMDNXWk5aanpyaGUwbUhoTWc4ZHdrcVJXMXFXQ0RYM2hXQ0Z5UmFTSk5Qc19nbFNiXzgtekNjOHpiTjd4LU1RZGQ2UDAzNkXSAbIBQVVfeXFMTVR0TGFjcDBHWnE0M1NETmlKYldVNFZDWW4ya1VCRWJRZ2FYX1lYeVJadFVhanR2cWxUZUVHU05jSlcyU0tianJrb0R6OTlaT1hmZWE4Mmc3UDFYbkhpVm80Q1RhSXR4a29PSDl0djMxREstZnJvdS05dHdqYjVDRmVxcGU5akx3eDlodE04Z0FtTFVZN0Vlb1AtYWNDaEVRNUx4aC1Odm94RGJIVEVZUC1mQQ?oc=5)
 
 ---
 

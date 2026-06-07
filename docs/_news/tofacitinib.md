@@ -14,7 +14,7 @@ permalink: /news/tofacitinib/
 ---
 
 <p class="key-answer" data-question="Tofacitinib 有什麼相關新聞？">
-<strong>Tofacitinib</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tofacitinib</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tofacitinib/
 <p><a href="{{ '/drugs/tofacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（15 則）
+
+### [Ce cancer touche principalement les tout-petits](https://news.google.com/rss/articles/CBMif0FVX3lxTE9vYWtLOEdac0YwWE4teUZ2aFYyRkhjWDdXa0RTY1VZVWtST0cwQ0Y4NFJQaXlzQjVrM091WXMyY01xRFQ2dTdIdTAtUVhBY05XQi1HWEFKTEp4ZkdKWmJnVlphM3FPRjN1QlpwQUlDYnAyWDFJeVNLWVc4bVU5VWs?oc=5)
+
+2026-06-07 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMif0FVX3lxTE9vYWtLOEdac0YwWE4teUZ2aFYyRkhjWDdXa0RTY1VZVWtST0cwQ0Y4NFJQaXlzQjVrM091WXMyY01xRFQ2dTdIdTAtUVhBY05XQi1HWEFKTEp4ZkdKWmJnVlphM3FPRjN1QlpwQUlDYnAyWDFJeVNLWVc4bVU5VWs?oc=5)
+
+---
 
 ### [Voici comment des chercheurs ont réussi à produire un médicament anticancer essentiel grâce à de la levure - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
 
@@ -134,14 +142,6 @@ permalink: /news/tofacitinib/
 
 ---
 
-### [Hautärztin klärt auf – Verhindert Sonnencreme die Vitamin-D-Bildung?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
-
-2026-06-05 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[Heute](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
-
----
-
 ### [El doctor Javier Cortés Castán, reconocido entre los «2026 Giants of Cancer Care»](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTI3dzBjcjhjV1FaaDlCNG9BT3JBMktNUnlzcWRfMGdENXQ1ZUZLMThKYWxtLVZwNmw3NTlnNUFRMmtBcHBJemRSUkhOY044elhTSWxKRndPczJpUTVDWVAxNU1MaGxPaWIzZXNzSW80ZU0xYk1PQzNLR1FGUER5bnNrSWFGRG5SZktRZ2VSbl9nX1R0OHVNZ1Eza0g2UTjSAaQBQVVfeXFMTjUyRGVYb1d2QzFRTEdMWnRIY0JVZDhzczFOa2lidjY4QkpxeTJBWlFrZVAzZFc1Tjl1QlI0MURoZ3V6TklZcmR2NTRDN3lZT2d1ZmR6N3dGV0ZBNGJvNTV1amQtc3VidGMzR1ZYTVh2WVg3M2tpNEFYTDdlTHpwY201b3A2eUpjVW1YTWpWcFlhTXd4UWxHRVRobExLck1Td3FQRTY?oc=5)
 
 2026-06-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -171,46 +171,6 @@ permalink: /news/tofacitinib/
 2026-06-05 <span class="news-indication-tag">tumor</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaGZuNVo5RE16bm9PNjNYYmRaWjYyV3cxX19ScFVvZ2pSdHl5X0lJMENZcTdRb0Znb0tSMHZrdjAtOEdrR2JVcThCOUxqWlpqWnFtVERKdUNMZGt4UEhZX1pDc3ZhWi1FUDRZY0tldmhkMEZ4bmpMemdFdFdRSS1QdVQzM1FnZ0FLU1FGVkpMLUFwN2YtZHNvRncwdmtqeF9ZZDJsb0lhZW93U2RDNTVDblBKdVFZRXNwOXhsSU1mVEJXSllCUG1TUHRxZ29ZZHotVHVHRlVSa0JaVFdYR2lrbmhKa0JwN0hiTjh4UDYzZXo?oc=5)
-
----
-
-### [Tumore prostata: bene le nuove strategie, ma senza dimenticare ruolo radioterapia - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFVzcjh3N3ktRUtrRlN1ODdidE1CRmJKUnNjdlRiMVowTkFCNUNQYk1JQ2M5NU1vU3BrQ2R6SGIwZ3NCSlVVR2E2ZFZOc0ZtRkdzZUNsVHVhVGlTZlQ0OHpJMDVlU09odUFRSmdfNUJ3T0xxazFyTEVUeXFOQkthN0ZVS05DeHA5aWNVbVJUV3RPZG5pQ25Ea1pIS3JPclJuNnhpUVBsYzh2ZjlyVnJjb1FUSGJZb2NI?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Apalutamide</span> <span class="news-indication-tag">tumor</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFVzcjh3N3ktRUtrRlN1ODdidE1CRmJKUnNjdlRiMVowTkFCNUNQYk1JQ2M5NU1vU3BrQ2R6SGIwZ3NCSlVVR2E2ZFZOc0ZtRkdzZUNsVHVhVGlTZlQ0OHpJMDVlU09odUFRSmdfNUJ3T0xxazFyTEVUeXFOQkthN0ZVS05DeHA5aWNVbVJUV3RPZG5pQ25Ea1pIS3JPclJuNnhpUVBsYzh2ZjlyVnJjb1FUSGJZb2NI?oc=5)
-
----
-
-### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
-
----
-
-### [« Une grande tristesse » : atteinte d’un cancer cérébral incurable, Louise Marteau, 4 ans, est décédée en Mayenne](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEVPeHhJbi11WlFtSWZMQjJzTE1sYTBNbkFyWUZNWHNpbzRZY3Zwekt0S1Qta0dhcUhUdUl3Q2VFTnpSYnVGTDAxTG1UQkxlV0Q3Wi1qNG81Vl8xSEx4SEN5NllVellNNF9RdTZFUTNMcXFFbndoaGJxYU1TUmVsMW1uMVRKUHF4UWtvRnB1c3VIRE1qYW5GZjZWNHRsdmV3MDdBUnotdGhVWENjU0lkQVFnS1UzNFlHTUN3TFlYOUlqbGI5U1hINWhvVF9CZ3AtVFhIM2dhZGN1UnVaRHhMR0t2WWo0QmMzMjU2XzhkeTV4cUpXa2ZlRE9KU1o4M21jQnpMRzJ4UGE?oc=5)
-
-2026-06-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEVPeHhJbi11WlFtSWZMQjJzTE1sYTBNbkFyWUZNWHNpbzRZY3Zwekt0S1Qta0dhcUhUdUl3Q2VFTnpSYnVGTDAxTG1UQkxlV0Q3Wi1qNG81Vl8xSEx4SEN5NllVellNNF9RdTZFUTNMcXFFbndoaGJxYU1TUmVsMW1uMVRKUHF4UWtvRnB1c3VIRE1qYW5GZjZWNHRsdmV3MDdBUnotdGhVWENjU0lkQVFnS1UzNFlHTUN3TFlYOUlqbGI5U1hINWhvVF9CZ3AtVFhIM2dhZGN1UnVaRHhMR0t2WWo0QmMzMjU2XzhkeTV4cUpXa2ZlRE9KU1o4M21jQnpMRzJ4UGE?oc=5)
-
----
-
-### [A healthier gut may be key to cancer care](https://news.google.com/rss/articles/CBMifkFVX3lxTE9PZmxGQjBhZkJRMFNNUm9XZlJBRkNNNXloZlc1SVNkV25IeWZ5OXlDam44MWFCeFJNcEVkZVFKUVZMWjd6U25vdHRYZHRSTmlkV1VVVUFmak03NmcxUFlJRDFOYmVNRzBsS3llZFlCRG44N0tNU1VDVWdWY1pjUQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">cancer</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMifkFVX3lxTE9PZmxGQjBhZkJRMFNNUm9XZlJBRkNNNXloZlc1SVNkV25IeWZ5OXlDam44MWFCeFJNcEVkZVFKUVZMWjd6U25vdHRYZHRSTmlkV1VVVUFmak03NmcxUFlJRDFOYmVNRzBsS3llZFlCRG44N0tNU1VDVWdWY1pjUQ?oc=5)
-
----
-
-### [59º Congreso SEPAR: ¿Deben utilizarse los mismos biológicos en el asma y en la EPOC? - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmM0N3RQVV85R3otQUZYUTdnWF95V19Ha3VnNUphMHRBaHZiUG1NYVhLYk1ucFo4bHlhUXJlUS00QjVmOXI4UkJGM1Rwd2NmZTZEWFFuSnB4WnhiLVFtZ0ljNHlhQU00MWRJTGk4SlppMDNXWk5aanpyaGUwbUhoTWc4ZHdrcVJXMXFXQ0RYM2hXQ0Z5UmFTSk5Qc19nbFNiXzgtekNjOHpiTjd4LU1RZGQ2UDAzNkXSAbIBQVVfeXFMTVR0TGFjcDBHWnE0M1NETmlKYldVNFZDWW4ya1VCRWJRZ2FYX1lYeVJadFVhanR2cWxUZUVHU05jSlcyU0tianJrb0R6OTlaT1hmZWE4Mmc3UDFYbkhpVm80Q1RhSXR4a29PSDl0djMxREstZnJvdS05dHdqYjVDRmVxcGU5akx3eDlodE04Z0FtTFVZN0Vlb1AtYWNDaEVRNUx4aC1Odm94RGJIVEVZUC1mQQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmM0N3RQVV85R3otQUZYUTdnWF95V19Ha3VnNUphMHRBaHZiUG1NYVhLYk1ucFo4bHlhUXJlUS00QjVmOXI4UkJGM1Rwd2NmZTZEWFFuSnB4WnhiLVFtZ0ljNHlhQU00MWRJTGk4SlppMDNXWk5aanpyaGUwbUhoTWc4ZHdrcVJXMXFXQ0RYM2hXQ0Z5UmFTSk5Qc19nbFNiXzgtekNjOHpiTjd4LU1RZGQ2UDAzNkXSAbIBQVVfeXFMTVR0TGFjcDBHWnE0M1NETmlKYldVNFZDWW4ya1VCRWJRZ2FYX1lYeVJadFVhanR2cWxUZUVHU05jSlcyU0tianJrb0R6OTlaT1hmZWE4Mmc3UDFYbkhpVm80Q1RhSXR4a29PSDl0djMxREstZnJvdS05dHdqYjVDRmVxcGU5akx3eDlodE04Z0FtTFVZN0Vlb1AtYWNDaEVRNUx4aC1Odm94RGJIVEVZUC1mQQ?oc=5)
 
 ---
 

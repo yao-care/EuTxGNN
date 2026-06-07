@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Vademecum.es](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThKM1NMMUh1czRKdkJKZXdnYVpZclVPdUpjbjN0SEc0WU1peC1zTUdtLUJMVVZlaDQ5T0stcXJjVmRuR3FDdTVNSGFCN0Jucm8ydTJzSER4aE91QnpXM3I1WjBtQmRJWU4tT1BYcjQwbU5PQk5HS3ZOOEVadjdVWnhUMXlSYnNCYlBkS05uS3ZmUzJxdjV1ZkhEQjRwWFdCTFc2cjMtZ2xMczFTakJSN2duR2dFRnJJZXZyLS1BS0R0a1VyY3pLcHBQdjhLMExUMEZISDBidXRoWGNid3hua2FWVGlxdVBiUE4wUEVBdTlhUVJ4QXktZ2paR1pxcFNYWnItYW1zb3k?oc=5)
-
----
-
-### [Ozempic, Mounjaro… ces médicaments amaigrissants pourraient-ils aussi réduire le risque de cancer ?](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
-
-2026-06-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWRpWWFXMmZrdW1GUFJwY0M2THdUc3lmc3QtdmV2emRralJKVlgwN0ZIam4xMk5UQ19hUG5tUHpaZ0xEWTcyVS1ER29BUk1rT0ZzSXU5WkRqNU1vdG9lb1RnS2lMWF9kVENiUFNQTmgyMG9oSnBZYjNUdGNPV08zME43WG9aQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

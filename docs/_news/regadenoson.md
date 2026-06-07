@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Ce médicament contre l'asthme pourrait réactiver les défenses immunitaires contre le cancer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0RiengwUGtBbGlHX3NsbGUwd2ZkUDkwQ1B5YUQzaDlHWTR3MHd4eS1pTERZbDhQdnRtUTZqd1ZTZGw0cktvZFFNdVM4U1hwdzF2eEZsbW43bzB4LVFEaWhqV0NfVFZGdmhVYTBzV2NFeDhsaXJhNXEwVVo3R2JTRUU4dzdueGdWT2hSM2VwT0EzLUFfNm9qOXpfYjljaTR1eXRfQW9OZUNGbTJ0SWdTMWgwNEx5QWhyejFUc3VIVGlOUFhzS0NYdXJORG4?oc=5)
 
 2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0RiengwUGtBbGlHX3NsbGUwd2ZkUDkwQ1B5YUQzaDlHWTR3MHd4eS1pTERZbDhQdnRtUTZqd1ZTZGw0cktvZFFNdVM4U1hwdzF2eEZsbW43bzB4LVFEaWhqV0NfVFZGdmhVYTBzV2NFeDhsaXJhNXEwVVo3R2JTRUU4dzdueGdWT2hSM2VwT0EzLUFfNm9qOXpfYjljaTR1eXRfQW9OZUNGbTJ0SWdTMWgwNEx5QWhyejFUc3VIVGlOUFhzS0NYdXJORG4?oc=5)
-
----
-
-### [59º Congreso SEPAR: ¿Deben utilizarse los mismos biológicos en el asma y en la EPOC? - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmM0N3RQVV85R3otQUZYUTdnWF95V19Ha3VnNUphMHRBaHZiUG1NYVhLYk1ucFo4bHlhUXJlUS00QjVmOXI4UkJGM1Rwd2NmZTZEWFFuSnB4WnhiLVFtZ0ljNHlhQU00MWRJTGk4SlppMDNXWk5aanpyaGUwbUhoTWc4ZHdrcVJXMXFXQ0RYM2hXQ0Z5UmFTSk5Qc19nbFNiXzgtekNjOHpiTjd4LU1RZGQ2UDAzNkXSAbIBQVVfeXFMTVR0TGFjcDBHWnE0M1NETmlKYldVNFZDWW4ya1VCRWJRZ2FYX1lYeVJadFVhanR2cWxUZUVHU05jSlcyU0tianJrb0R6OTlaT1hmZWE4Mmc3UDFYbkhpVm80Q1RhSXR4a29PSDl0djMxREstZnJvdS05dHdqYjVDRmVxcGU5akx3eDlodE04Z0FtTFVZN0Vlb1AtYWNDaEVRNUx4aC1Odm94RGJIVEVZUC1mQQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmM0N3RQVV85R3otQUZYUTdnWF95V19Ha3VnNUphMHRBaHZiUG1NYVhLYk1ucFo4bHlhUXJlUS00QjVmOXI4UkJGM1Rwd2NmZTZEWFFuSnB4WnhiLVFtZ0ljNHlhQU00MWRJTGk4SlppMDNXWk5aanpyaGUwbUhoTWc4ZHdrcVJXMXFXQ0RYM2hXQ0Z5UmFTSk5Qc19nbFNiXzgtekNjOHpiTjd4LU1RZGQ2UDAzNkXSAbIBQVVfeXFMTVR0TGFjcDBHWnE0M1NETmlKYldVNFZDWW4ya1VCRWJRZ2FYX1lYeVJadFVhanR2cWxUZUVHU05jSlcyU0tianJrb0R6OTlaT1hmZWE4Mmc3UDFYbkhpVm80Q1RhSXR4a29PSDl0djMxREstZnJvdS05dHdqYjVDRmVxcGU5akx3eDlodE04Z0FtTFVZN0Vlb1AtYWNDaEVRNUx4aC1Odm94RGJIVEVZUC1mQQ?oc=5)
 
 ---
 

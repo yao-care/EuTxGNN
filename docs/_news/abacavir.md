@@ -62,11 +62,11 @@ permalink: /news/abacavir/
 
 ---
 
-### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
+### [Bepirovirsen in Phase 3: 20% funktionelle Heilung bei chronischer Hepatitis B - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
 
-2026-06-05 <span class="news-indication-tag">hepatitis</span>
+2026-06-06 <span class="news-indication-tag">hepatitis</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
 
 ---
 

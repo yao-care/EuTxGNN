@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
+
+### [Una médica derriba el mito de qué pasa con la vitamina D si tomas mucho el sol este verano: "No hay motivo para suspenderla" - El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3kweEVjemVQbkVaZm5rYlpZQTg4V2FjSmpkTWpwRFktYWFGZW1IMWZfemdmWWR5SXY0bEhhUEE2TC1LcW8xODJrTG82YUt3SWZrRjdGa1FCUlJKdVFkTjJtblZwQ0p2X2IzZ3ptX3pWbmRvQnZxSkdTbG1hT2Q2SUtaSG81cmVDSGJBekxCeHhhSTRyUjF3b0NLajJXSzFjVWJ1MjREeUhJY2E1XzIxYzg4ZWQ2ZEd5eDlteFpZX3JVQkhMV2NUYlRBYUlNc2FNakx5OE5jaEZFd9IB7gFBVV95cUxQQ3ZfX2ptbVZWcnJwcEFKYnBBNERIR29KN1JlemZVVzlxRTBnaG9mMVJlREtvVk5ZUndPNkxRdkk5VWJmRlhpOGtQSmhmdTB2eGdLYzRGYThOVFZoWGkzcWRWMFQ4WndCdWg2RVlTT2ZfMFZOWG0tOWNOZExzblBzcFV3dkEwX2ZDYkdVanRpNmduUG5tT3o4SnR0TWFDRVV6cGduQkFJMXVHXzBLUjcxdTVOMDkzTlhoYVJvVnRVaEdrVHVGc3JmemxrMXhBbVlTcE54aVZ2Tk1YSUp0QTJDRlYtV0gyNzlxSmJWUlhB?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span>
+
+來源：[El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3kweEVjemVQbkVaZm5rYlpZQTg4V2FjSmpkTWpwRFktYWFGZW1IMWZfemdmWWR5SXY0bEhhUEE2TC1LcW8xODJrTG82YUt3SWZrRjdGa1FCUlJKdVFkTjJtblZwQ0p2X2IzZ3ptX3pWbmRvQnZxSkdTbG1hT2Q2SUtaSG81cmVDSGJBekxCeHhhSTRyUjF3b0NLajJXSzFjVWJ1MjREeUhJY2E1XzIxYzg4ZWQ2ZEd5eDlteFpZX3JVQkhMV2NUYlRBYUlNc2FNakx5OE5jaEZFd9IB7gFBVV95cUxQQ3ZfX2ptbVZWcnJwcEFKYnBBNERIR29KN1JlemZVVzlxRTBnaG9mMVJlREtvVk5ZUndPNkxRdkk5VWJmRlhpOGtQSmhmdTB2eGdLYzRGYThOVFZoWGkzcWRWMFQ4WndCdWg2RVlTT2ZfMFZOWG0tOWNOZExzblBzcFV3dkEwX2ZDYkdVanRpNmduUG5tT3o4SnR0TWFDRVV6cGduQkFJMXVHXzBLUjcxdTVOMDkzTlhoYVJvVnRVaEdrVHVGc3JmemxrMXhBbVlTcE54aVZ2Tk1YSUp0QTJDRlYtV0gyNzlxSmJWUlhB?oc=5)
+
+---
+
+### [Sepsis: Deutschland hat ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
+
+---
+
+### [Ebola, Pregliasco: “Congo, forse solo la punta dell’iceberg”. Esperti Usa: “Potrebbe diventare una delle più grandi epidemie mai registrate” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+
+---
+
+### [Diabetes-Medikamente senken Alzheimer-Risiko um bis zu 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+
+2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRpNTRzbFhndzFaa2VDYm9pM3pocTU5TGxvVzU5LW95QjItYVdoMjR2OTNDWnB3dE1XUy1zUVh4a2hYUWVZRGx6WEJaa0ZRU2tDMjZKZ08zT2l6OEtIRTRYellJM3lCZzBSYXBWblhlczhDUTc0VldOeXpFX3BrdS1hbXczemFKUl9wUDNyNV9XcGtMMVh0dzlRLUZNMURPRXV0YXRDSEpqOHlwNlpVaEhjbmQ?oc=5)
+
+---
 
 ### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
@@ -62,19 +94,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [South Africa commits $72 million in bid to shed its status as the country with the world's largest HIV epidemic - Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
+
+---
+
 ### [Autism may have two distinct subtypes based on brain connectivity patterns - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRuNVFvS0ZwMjczRTF0OTBUenBuVHdmNHRIQkliZnVHcElheDVRRm5Tb04tS1dTNFVURGxJV0pxaUlvYWRZTVVVYjRZZElVZlg4OGhRUjluUnhlVG9HOFJEMjRJZE44MExHUVlkV0VWaEplQ0YwaWxjRDd3ZmRvazlXV0h6M3M?oc=5)
 
 2026-06-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRuNVFvS0ZwMjczRTF0OTBUenBuVHdmNHRIQkliZnVHcElheDVRRm5Tb04tS1dTNFVURGxJV0pxaUlvYWRZTVVVYjRZZElVZlg4OGhRUjluUnhlVG9HOFJEMjRJZE44MExHUVlkV0VWaEplQ0YwaWxjRDd3ZmRvazlXV0h6M3M?oc=5)
-
----
-
-### [GLP-1 senkt Demenzrisiko – doch bei Alzheimer bringt es wenig - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
-
-2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
 
 ---
 
@@ -94,6 +126,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Investigadores chinos desmontan la recomendación de la OMS: se necesitan 10 horas semanales de ejercicio](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
+
+2026-06-06 <span class="news-indication-tag">MS</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMimwJBVV95cUxNR18xaUxFV0ZOMGxMYkZYdjRGTGVJdEtQelRBUW9ETjhGVTZyTFpJMlEzb0plRnVueW5FVUgxQ0RTN2hfZkdhRlVWTnNkYmh0V1lDamVXcFJ4TkhMcHBVdFR0d3BxdXl0SWdfZU40SEgzRm82bnB0UHdiM1U4MWFpb3V5MWV5dXpmNjA1SjNrc1JQQk9kQ0NJZFlGQkYtbjFtejlBN24xS3o1cGxOTkFMbEFoem0xTU9LcnRjcEh5YzB6WnVwRHNPZEdpQUNESFRVcUYyZzl3UUs5V2xkbFprNVp1bU4xMlUtYkhMSWp3bkhmSnZ3OXRpS1pxclFGQmtxeTZ0VDk5MnJTYVV1U0g3dEo3ODhIcmVIZ0ln0gGgAkFVX3lxTE4tNXd2RXN1d1lOb1pqaEtPVG8tdmV1TG1DNUNzQkVKXzdWdnUya3JDSE4wY0paV3ZfeklpX2lkRFRLZUVna1VFTjh5TFZfdExLZnkyXzJSckp5ZmlkN3QwdWFDTWI5UlBBOVpSMkF1bmNCLWJoWjdhZ0o4UFlFUml0U0kwYXpEVjB3ZXYySGhqWmg3UERsc2ZseXJpdkFYdHY2YUltdnZ6Y0g0empGcVN6aTU2aURVLUlXRXpId09MVXlmX19EZVhzV2g3ME5jR0xOYmJtS1dSVlRjYzZTVnBIa0liLVBOR3FBaXU2VmI1T3VvUnFwZzRsYkoybEtJVldBVENGcnBFUU15OHVObDRZbWRhaGRJOUVmaXAtQkppaA?oc=5)
+
+---
+
 ### [The 30-minute strength workout that will help you live longer – and boost your brain - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxQREhPUkhZVkU3OGZsRFdtTXkzZmxnMDZlc2Y1WGFoT1RmOUFjUVBVN1Q4MHJsVWpYcUpOSFhaTFI5T2dsRWQtZGN6UDhLYS05UXZYemJhSE5oTmdwMVRwdmVWeGs5UjZjZk11OVgzU3dRRXpfSVptbnpOakJ4LU9VNWQyN1FUeDFvX1o4T3FfVW5zU2JuNEFGVFdIOENFUWNtRmMzM0c2QXJGalg0OXRuMnlTZmxRVlUzTEE?oc=5)
 
 2026-06-06 <span class="news-indication-tag">MS</span>
@@ -102,59 +142,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Hautärztin klärt auf – Verhindert Sonnencreme die Vitamin-D-Bildung?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
-
-2026-06-05 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[Heute](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWU4SnRuLVVQdGJDM182VFFsUy10SlQ2dHdOX095c0tNOVhxQ2FuYlIwck1KSzhwdWw5cS15MXZ4S01NRU5rZmtCb1BpemJwMFRtQm03UnoyNGs3YWZ5T2NBcThrNklQOTg3dnVqSU85SE1YMldMQl9mbmVkOU9nVVlwQ242aGVB?oc=5)
-
----
-
 ### [Why autism symptoms can ease during a fever — and how to mimic it - Boing Boing](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M5WVc2RGpxR3djdGVLRUVyVjdtX3NSMjZ2eFpSUFl3Wk9TWkUyWjNkZWY0YkRqTHBnNFpXNk5mSXl4YWJtRFJWZk0wLUVoNkVfVzhreUc3S2dRVGxQYi1Gbm9JcUZpZ3hRa2g5SXFtMjRLTzdEbUU2ZTZzOURCT0g4aVVWbEdSTkFqUWVYakNHTWVUM25EQ2JsSnB4TUdFWWxmWtIBqgFBVV95cUxNeGFXYUZiVXNUbzhRTmNVbGZkMjBNSWlMc1I0S3pRd3pndVNjLWw1Rlp2OFM0cERrUjZjVzRHRFNrN25LeDBmMERZNFhaQVFzOHc2LXBUYkhJX2k2STJHWWNwZWhmT21WU1BUU3RoRWtBVFlaRVdnZVBjbWxrTFpvWFJ2cW1qVVcyeDY3VVF1WVdRSFdud2daLUxfRTBtVk15MnVVUHJFNjVuQQ?oc=5)
 
 2026-06-05 <span class="news-indication-tag">MS</span>
 
 來源：[Boing Boing](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3M5WVc2RGpxR3djdGVLRUVyVjdtX3NSMjZ2eFpSUFl3Wk9TWkUyWjNkZWY0YkRqTHBnNFpXNk5mSXl4YWJtRFJWZk0wLUVoNkVfVzhreUc3S2dRVGxQYi1Gbm9JcUZpZ3hRa2g5SXFtMjRLTzdEbUU2ZTZzOURCT0g4aVVWbEdSTkFqUWVYakNHTWVUM25EQ2JsSnB4TUdFWWxmWtIBqgFBVV95cUxNeGFXYUZiVXNUbzhRTmNVbGZkMjBNSWlMc1I0S3pRd3pndVNjLWw1Rlp2OFM0cERrUjZjVzRHRFNrN25LeDBmMERZNFhaQVFzOHc2LXBUYkhJX2k2STJHWWNwZWhmT21WU1BUU3RoRWtBVFlaRVdnZVBjbWxrTFpvWFJ2cW1qVVcyeDY3VVF1WVdRSFdud2daLUxfRTBtVk15MnVVUHJFNjVuQQ?oc=5)
-
----
-
-### [PMOS statt PCOS: Neue Diagnose für eine Million Frauen - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHBYMDhXYW9XZ3lwN01udGdXNVNQYXhIdTFTYmNaZEJwbko3UWRTRkV5LVB6Qjd0MXc3SExlQzNzcS16b0swWXFocklmMkhyQWN3Z1BtRll5aVF4VExvRFJHNi1hb2NqeVJQZS02V0pqX3k0N016WFAxRk1nNzJoRlFub0VPaXVqZVZubEI4bkxCX01mMjlnbjFoZmd0T3lvUV9UUGhR?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHBYMDhXYW9XZ3lwN01udGdXNVNQYXhIdTFTYmNaZEJwbko3UWRTRkV5LVB6Qjd0MXc3SExlQzNzcS16b0swWXFocklmMkhyQWN3Z1BtRll5aVF4VExvRFJHNi1hb2NqeVJQZS02V0pqX3k0N016WFAxRk1nNzJoRlFub0VPaXVqZVZubEI4bkxCX01mMjlnbjFoZmd0T3lvUV9UUGhR?oc=5)
-
----
-
-### [Diese 2 Ernährungsweisen bremsen die Gewichtszunahme in den Wechseljahren besonders gut](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlZoekJsZHpjUlpfQUE1NEZQelRiX3VndUFwUUhPVVB4bEc4amRGYzRXZHRURUN1dzVIMk1ieFZIVHliSTFvNzBxZmZPMzZMWXVuTGdRX1ktOWJjSkNRdlYyQjVyQ0hXamZYZUdKV0ozODY4bGNjT0hiR1pXZG13NDJrRkthUU5pS1lRTWd2UUxHTFVrUFc0Tmx6OEpRUlVMWTE3clJIRTZuY1pnbnpFZw?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlZoekJsZHpjUlpfQUE1NEZQelRiX3VndUFwUUhPVVB4bEc4amRGYzRXZHRURUN1dzVIMk1ieFZIVHliSTFvNzBxZmZPMzZMWXVuTGdRX1ktOWJjSkNRdlYyQjVyQ0hXamZYZUdKV0ozODY4bGNjT0hiR1pXZG13NDJrRkthUU5pS1lRTWd2UUxHTFVrUFc0Tmx6OEpRUlVMWTE3clJIRTZuY1pnbnpFZw?oc=5)
-
----
-
-### [IA crea il primo vaccino universale anti-pandemie](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGpxSXZ5b2t1WGd4aFJYNEFzNmgxZWFGSkdBUG51OHl0ZG9xa2ZJNUpkRkk5TEpwSVVMTlk4WjgxdlA0WEh4dHBwSy1NY3MtMzRWdy0ybDU0TjhxeWJfUnUtZFY1NlR2a1hsN21mVDYyeEFUT0ZtVTg5cm05R2dmX0V4Q0YtU1lyeWc?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGpxSXZ5b2t1WGd4aFJYNEFzNmgxZWFGSkdBUG51OHl0ZG9xa2ZJNUpkRkk5TEpwSVVMTlk4WjgxdlA0WEh4dHBwSy1NY3MtMzRWdy0ybDU0TjhxeWJfUnUtZFY1NlR2a1hsN21mVDYyeEFUT0ZtVTg5cm05R2dmX0V4Q0YtU1lyeWc?oc=5)
-
----
-
-### [Sepsis-Risiko: Wie schnell bakterielle Infektionen lebensbedrohlich werden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGdCX0NLMmlHVklvVVpUX2JZM0ZFbko2NmloRlJFSGw1Wm5mRlptTUFpY3dvUWV0aWVlc2VGZGhIQXpyal85ZUV3SWJ6SndXOEFNSENoYTZGMEJvVVYxdXdHVUxETk5BaVNVTzdNSGVXbGpoWXY2QncxMktrMHE2VFJBSHVNb05OV1hQX2c4bEJoVHdnbzVXcWEtcEdEb1R1M2pTVmM2NXpOOUI1M1RrdU40dHgzV3RTNDNfNkVlUQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGdCX0NLMmlHVklvVVpUX2JZM0ZFbko2NmloRlJFSGw1Wm5mRlptTUFpY3dvUWV0aWVlc2VGZGhIQXpyal85ZUV3SWJ6SndXOEFNSENoYTZGMEJvVVYxdXdHVUxETk5BaVNVTzdNSGVXbGpoWXY2QncxMktrMHE2VFJBSHVNb05OV1hQX2c4bEJoVHdnbzVXcWEtcEdEb1R1M2pTVmM2NXpOOUI1M1RrdU40dHgzV3RTNDNfNkVlUQ?oc=5)
-
----
-
-### [Un estudio asocia “huellas antivirales” a tipos de esclerosis múltiple - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTQ1eTgwSGZldHhzY1pPakx1Q21YcjM0U0NRdW52bEF2NTJ0MGJHWmhseFlkS1R6a0xEeEhOdmh4U01oaTQ5N1hiczlZdDViczFJOVVYUXlRNlpFVzNLQ0U4MGZiRzlONU93S01UcHQwMjVSZ1pVZmVZeWRFNjJ1elFmZ2lrX1B0WWRIV1htcHR2Nm10ME5NSWt6aWhqX3F5NUdBLWk5ejFnbTZJeGZTVk02TnBpdHNNUEJNcjBkOEvSAcABQVVfeXFMT3VBLVVDZ3JsQWU3YVhrSVQ3cS1jNUhldWpxM1VOUzEtUGh2dlVkX2JuRGQ2SU5MSTlpOFljYmVlVDR3eG1keDZNdnYtbDk3T1VzN0NTNjkyMUpZemVBdzdTTVBGdlF6TkpDdGZ5RElaX19sV1VCSmJicTNpWG1ld19saUgxS295UU8xeXJDUWNIMnBzcGtEZ2V2ZW5nQ3lmS21lQmVsdHVDZU9Ua3J4UjVJQks5ZDRuN3J5cGJ1ZU1j?oc=5)
-
-2026-06-05 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTQ1eTgwSGZldHhzY1pPakx1Q21YcjM0U0NRdW52bEF2NTJ0MGJHWmhseFlkS1R6a0xEeEhOdmh4U01oaTQ5N1hiczlZdDViczFJOVVYUXlRNlpFVzNLQ0U4MGZiRzlONU93S01UcHQwMjVSZ1pVZmVZeWRFNjJ1elFmZ2lrX1B0WWRIV1htcHR2Nm10ME5NSWt6aWhqX3F5NUdBLWk5ejFnbTZJeGZTVk02TnBpdHNNUEJNcjBkOEvSAcABQVVfeXFMT3VBLVVDZ3JsQWU3YVhrSVQ3cS1jNUhldWpxM1VOUzEtUGh2dlVkX2JuRGQ2SU5MSTlpOFljYmVlVDR3eG1keDZNdnYtbDk3T1VzN0NTNjkyMUpZemVBdzdTTVBGdlF6TkpDdGZ5RElaX19sV1VCSmJicTNpWG1ld19saUgxS295UU8xeXJDUWNIMnBzcGtEZ2V2ZW5nQ3lmS21lQmVsdHVDZU9Ua3J4UjVJQks5ZDRuN3J5cGJ1ZU1j?oc=5)
 
 ---
 
