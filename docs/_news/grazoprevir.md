@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
 
-### ["Je me considère comme un phénix" : un nouveau traitement permet de ralentir la progression de la sclérose en plaques](https://news.google.com/rss/articles/CBMijAJBVV95cUxNaEZnQTNyc2REcHlaS2JKdjBWN1BpejMwQVN6NlFEOUd6VVY2OEdfSnd0VlZjcy1QN25ZdGkwbFpIeUROVC1hT0o4bmhCYkRZTEczSl9pMkN4ZXZSZFBCLTBJZFIxUk03T3pSbW9reklqLUFqaTAwUUg0dTg3N0t5UDBZWk5YczFqc3V5TWhUdnBWMnVJem95M0FCd0JsOHROYWZoQ09qdFJEYW1qb1ZGdW1Sb1dES2VDcmJJZkI2T2pKcXEtdzk5ZXdVbHhNZ2U1X1NzMnhpNXlzNG1SdEtIYk1fVnh2aTY3aEl1QXVYLTkwWkJpRVNQb19lUE5LNnlvZEtSak4wN1kzdy00?oc=5)
+### [Corona, Ebola, Hantavirus: Bremst der Datenschutz die Forschung auch in Hamburg aus? - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3FldDZGd1ZaQUg1UVdYNUZDYjlhRXVuYXA2WGlOdmRmVGlxSXJhYzU4ekVxRWFBZFJkN25wcE5mY0JXeTFlcDhIbkhJdlVxcjU1RVF1aU5yS2VjUEIxcjNIbjNlX19laGZVeU82dm9yNFlrb1g3SjNDd1ZvaDRIM0xXNFRvbHpieEhKcE13RldZMS1WVGoyUzR1NnRLd3pPcVc3bUdlWWpnQkV0SDBkdEZnQ2wwcjYxRlZRMkk3SHFkTkg2SWp0VFk3NzhKZTA1OTRacGNoQWhuWVR6TF9r?oc=5)
 
-2026-06-08 <span class="news-indication-tag">sclérose en plaques</span>
+2026-06-08 <span class="news-indication-tag">MS</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMijAJBVV95cUxNaEZnQTNyc2REcHlaS2JKdjBWN1BpejMwQVN6NlFEOUd6VVY2OEdfSnd0VlZjcy1QN25ZdGkwbFpIeUROVC1hT0o4bmhCYkRZTEczSl9pMkN4ZXZSZFBCLTBJZFIxUk03T3pSbW9reklqLUFqaTAwUUg0dTg3N0t5UDBZWk5YczFqc3V5TWhUdnBWMnVJem95M0FCd0JsOHROYWZoQ09qdFJEYW1qb1ZGdW1Sb1dES2VDcmJJZkI2T2pKcXEtdzk5ZXdVbHhNZ2U1X1NzMnhpNXlzNG1SdEtIYk1fVnh2aTY3aEl1QXVYLTkwWkJpRVNQb19lUE5LNnlvZEtSak4wN1kzdy00?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3FldDZGd1ZaQUg1UVdYNUZDYjlhRXVuYXA2WGlOdmRmVGlxSXJhYzU4ekVxRWFBZFJkN25wcE5mY0JXeTFlcDhIbkhJdlVxcjU1RVF1aU5yS2VjUEIxcjNIbjNlX19laGZVeU82dm9yNFlrb1g3SjNDd1ZvaDRIM0xXNFRvbHpieEhKcE13RldZMS1WVGoyUzR1NnRLd3pPcVc3bUdlWWpnQkV0SDBkdEZnQ2wwcjYxRlZRMkk3SHFkTkg2SWp0VFk3NzhKZTA1OTRacGNoQWhuWVR6TF9r?oc=5)
+
+---
+
+### [«Ebola arriverà a 20.000 contagi» - La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+
+---
+
+### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+
+---
+
+### [Los epidemiólogos alertan del aumento de las infecciones de transmisión sexual emergentes y multirresistentes](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">hepatitis</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
 
 ---
 
@@ -72,17 +96,17 @@ permalink: /news/grazoprevir/
 
 ### [Demenzrisiko: Semaglutid senkt Erkrankungsrate um bis zu 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
 
 ---
 
-### [La OMS alerta del crecimiento de una enfermedad que afecta cada vez a más menores en Europa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFpsY2xRMWpxLVpaN2lrY1NoVU9odzM1NXVKMW5KUnZwTWx2WEc2SE5YQTF5Uk9BS3gxR2thcXptMWg1aVA4OW1sQUF0YWZFeE9rQTBzVWJrOWtxUVdiVmY0c0lGaU9lOWo4ZDQydjFuN0VxMzlwWkhKVHp1bWtxRHBBUnFSb0tid1NyQUpmbndzazBsUUVhZ2lUd3RDU3RBZnhlczlXX1ZRczBRdW54ZlZnQ0FkZHlGX0pESUFadFJsR1FtN2NqWE1QbjNUdWs1UEtF?oc=5)
+### ["Je me considère comme un phénix" : un nouveau traitement permet de ralentir la progression de la sclérose en plaques](https://news.google.com/rss/articles/CBMijAJBVV95cUxNaEZnQTNyc2REcHlaS2JKdjBWN1BpejMwQVN6NlFEOUd6VVY2OEdfSnd0VlZjcy1QN25ZdGkwbFpIeUROVC1hT0o4bmhCYkRZTEczSl9pMkN4ZXZSZFBCLTBJZFIxUk03T3pSbW9reklqLUFqaTAwUUg0dTg3N0t5UDBZWk5YczFqc3V5TWhUdnBWMnVJem95M0FCd0JsOHROYWZoQ09qdFJEYW1qb1ZGdW1Sb1dES2VDcmJJZkI2T2pKcXEtdzk5ZXdVbHhNZ2U1X1NzMnhpNXlzNG1SdEtIYk1fVnh2aTY3aEl1QXVYLTkwWkJpRVNQb19lUE5LNnlvZEtSak4wN1kzdy00?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-indication-tag">sclérose en plaques</span>
 
-來源：[Cuatro](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFpsY2xRMWpxLVpaN2lrY1NoVU9odzM1NXVKMW5KUnZwTWx2WEc2SE5YQTF5Uk9BS3gxR2thcXptMWg1aVA4OW1sQUF0YWZFeE9rQTBzVWJrOWtxUVdiVmY0c0lGaU9lOWo4ZDQydjFuN0VxMzlwWkhKVHp1bWtxRHBBUnFSb0tid1NyQUpmbndzazBsUUVhZ2lUd3RDU3RBZnhlczlXX1ZRczBRdW54ZlZnQ0FkZHlGX0pESUFadFJsR1FtN2NqWE1QbjNUdWs1UEtF?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMijAJBVV95cUxNaEZnQTNyc2REcHlaS2JKdjBWN1BpejMwQVN6NlFEOUd6VVY2OEdfSnd0VlZjcy1QN25ZdGkwbFpIeUROVC1hT0o4bmhCYkRZTEczSl9pMkN4ZXZSZFBCLTBJZFIxUk03T3pSbW9reklqLUFqaTAwUUg0dTg3N0t5UDBZWk5YczFqc3V5TWhUdnBWMnVJem95M0FCd0JsOHROYWZoQ09qdFJEYW1qb1ZGdW1Sb1dES2VDcmJJZkI2T2pKcXEtdzk5ZXdVbHhNZ2U1X1NzMnhpNXlzNG1SdEtIYk1fVnh2aTY3aEl1QXVYLTkwWkJpRVNQb19lUE5LNnlvZEtSak4wN1kzdy00?oc=5)
 
 ---
 
@@ -118,6 +142,14 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Can Eating Avocado Improve Health and Lower Your Risk of Diabetes?](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
+
+---
+
 ### [Sepsis: Deutschland hat ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
 
 2026-06-07 <span class="news-indication-tag">MS</span>
@@ -126,19 +158,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Ebola, Pregliasco: “Congo, forse solo la punta dell’iceberg”. Esperti Usa: “Potrebbe diventare una delle più grandi epidemie mai registrate” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
-2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-07 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
-
----
-
-### [You don’t need to lift weights for strength training – these exercises count too - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
-
-2026-06-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
 ---
 
@@ -147,22 +171,6 @@ permalink: /news/grazoprevir/
 2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
-
----
-
-### [Autism may have two distinct subtypes based on brain connectivity patterns - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRuNVFvS0ZwMjczRTF0OTBUenBuVHdmNHRIQkliZnVHcElheDVRRm5Tb04tS1dTNFVURGxJV0pxaUlvYWRZTVVVYjRZZElVZlg4OGhRUjluUnhlVG9HOFJEMjRJZE44MExHUVlkV0VWaEplQ0YwaWxjRDd3ZmRvazlXV0h6M3M?oc=5)
-
-2026-06-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRuNVFvS0ZwMjczRTF0OTBUenBuVHdmNHRIQkliZnVHcElheDVRRm5Tb04tS1dTNFVURGxJV0pxaUlvYWRZTVVVYjRZZElVZlg4OGhRUjluUnhlVG9HOFJEMjRJZE44MExHUVlkV0VWaEplQ0YwaWxjRDd3ZmRvazlXV0h6M3M?oc=5)
-
----
-
-### [Bepirovirsen in Phase 3: 20% funktionelle Heilung bei chronischer Hepatitis B - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
-
-2026-06-06 <span class="news-indication-tag">hepatitis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
 
 ---
 

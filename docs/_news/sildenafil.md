@@ -14,7 +14,7 @@ permalink: /news/sildenafil/
 ---
 
 <p class="key-answer" data-question="Sildenafil 有什麼相關新聞？">
-<strong>Sildenafil</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sildenafil</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/sildenafil/
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（19 則）
 
-### [Los endocrinos alertan del aumento del hígado graso en niños y jóvenes - La Razón](https://news.google.com/rss/articles/CBMivAFBVV95cUxPc09qcWUzVlltSTM2Z1ExS2t1VDBJMXpWaGY4QlVaUHo1X2ZxbTUtQ0ZGN2pndFREUmRFbFg4ZWZlMDdaVGYtRDAwd1pCeGlOOUdkR0x2a2tKb0Y0SmRIa3o0UWhKRG9pQ2dsdk80VE5fU0ZYV3htS1F3Z0tqVVVwcUV5ZC1HNU9TaThUNmZjVm1YbmRvQnRPNWZxdnloVkY1bDhnQXN2MGJRaERoQ0pubHpkc3ZsXzhWanRzR9IB0AFBVV95cUxPR2tsQk8tdkczLVEtSXQ4cmpDUDRBaWF5OTlKd1BhNDdvMUs4aUoxZUZtdjI5ZFoxa0hkVll6OFRtZUVENURYVGVZd0kzYnFuU3lIYTB1VXdIaHFlc2ZjX3ZvWS0tdEVFTFpxMDZQY1VhY0RSbGV5bmtnNEwwMTl5VGVMMUdyeGtRX2hRUWY1dmlfcnNBblFhQ3VidjhlTUExdFp0VU9BMHc0OHhXX0hDZ0JKWEJMTFoweDBzdURMWXpVOUw2ci1CM0VHeFNCVEdx?oc=5)
+### [Boy died after strep A not diagnosed, inquest hears](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4WWN4QkRVdTlSYUlBd25PT3FKMEJhR19JSjg2bmRQMXRsOGxPd0oxVEtVWUNFMjBLa1NXTHZfdnRoNm9zcy1DUzJqU2YtajQ0TEgxTHJKRVUwSGR5?oc=5)
 
 2026-06-08 <span class="news-indication-tag">AF</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMivAFBVV95cUxPc09qcWUzVlltSTM2Z1ExS2t1VDBJMXpWaGY4QlVaUHo1X2ZxbTUtQ0ZGN2pndFREUmRFbFg4ZWZlMDdaVGYtRDAwd1pCeGlOOUdkR0x2a2tKb0Y0SmRIa3o0UWhKRG9pQ2dsdk80VE5fU0ZYV3htS1F3Z0tqVVVwcUV5ZC1HNU9TaThUNmZjVm1YbmRvQnRPNWZxdnloVkY1bDhnQXN2MGJRaERoQ0pubHpkc3ZsXzhWanRzR9IB0AFBVV95cUxPR2tsQk8tdkczLVEtSXQ4cmpDUDRBaWF5OTlKd1BhNDdvMUs4aUoxZUZtdjI5ZFoxa0hkVll6OFRtZUVENURYVGVZd0kzYnFuU3lIYTB1VXdIaHFlc2ZjX3ZvWS0tdEVFTFpxMDZQY1VhY0RSbGV5bmtnNEwwMTl5VGVMMUdyeGtRX2hRUWY1dmlfcnNBblFhQ3VidjhlTUExdFp0VU9BMHc0OHhXX0hDZ0JKWEJMTFoweDBzdURMWXpVOUw2ci1CM0VHeFNCVEdx?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4WWN4QkRVdTlSYUlBd25PT3FKMEJhR19JSjg2bmRQMXRsOGxPd0oxVEtVWUNFMjBLa1NXTHZfdnRoNm9zcy1DUzJqU2YtajQ0TEgxTHJKRVUwSGR5?oc=5)
 
 ---
 
-### [La enfermedad renal crónica afecta a uno de cada siete españoles y la mayoría no lo sabe - Valencia Plaza](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFdfTWlRd0I5UzdrZ2RGQ3lLVkRDcTdDdk9mTnlmU085S1pwazljVVU5dWQxMFBDbkNvRThUb0ZSeEU5WFZuY2V0eGU5a2pGMUJaaHc5UjlieVpreEtxbWdwV25xMklMcVBfS1JBOFZtZmNIUjJHRXBDOFNjZ2Z3YWU0X2tST2lRbmVVbUUtd0JDaDRjMzJ4WGxtSTVrSlpYUF9LZ29kRWpqeVJRUkMzamozUEhtc0pJWVVOMHhBNUk5WmpMalF2eDRKV0VFTW5aNVRpT0xhOA?oc=5)
+### [Hormon als Booster bei antidepressiver Behandlung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVY0TE94UGFGMi1BQVF4dld6WngxSGlDWEQ4R1Z1YndZbUctcldReFdLSHItT0l0d0RSTHdhYlZFaU84X2o5MjFHdThsdEpLX1UyaE9jMzhRa0NIWE0zanNuUGtGcjYzdmlSTEc5ZDQ0YlFfdjQwdmd4cXltQmlOSVktRDVMX3llMDB6OUIyN1VQd09sZjN3VjR3?oc=5)
 
-2026-06-08 <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-indication-tag">AF</span>
 
-來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFdfTWlRd0I5UzdrZ2RGQ3lLVkRDcTdDdk9mTnlmU085S1pwazljVVU5dWQxMFBDbkNvRThUb0ZSeEU5WFZuY2V0eGU5a2pGMUJaaHc5UjlieVpreEtxbWdwV25xMklMcVBfS1JBOFZtZmNIUjJHRXBDOFNjZ2Z3YWU0X2tST2lRbmVVbUUtd0JDaDRjMzJ4WGxtSTVrSlpYUF9LZ29kRWpqeVJRUkMzamozUEhtc0pJWVVOMHhBNUk5WmpMalF2eDRKV0VFTW5aNVRpT0xhOA?oc=5)
-
----
-
-### [Milella: «Tumore al pancreas, c’è la svolta: ecco il farmaco che raddoppia la sopravvivenza»](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT3Nyc18zMW5BWVBDUlk3aExDSk5taEhwNzg0WXFDSDhUdEhvLTAyMTdJZkhSNGdfdVhHeDRxd3ViRzVuVFE3WVVDNngyS1hzcXA2VEhtbjZiZVI0LXVIYmtxOHBoSzZsYlNjS3pOMXBKNmo5MGh5ODYyVWlBYnE3VlhvNmhYay1JY05iZWNJV1lyUnl2TVN3RkM0SGJCQTZuMU5tLWlzbGRtdEJQQjdSNS0xVHFkb3NNZXpIX29KOEdMSG50czhRVkpCZm1ZVWxKa3FCWE9jOFpKVmlGMlZWaTh30gHnAUFVX3lxTE1GcGNPcWROQzJ3TGZpb2ZlT0hqdV9tbEx3dTl0dlMzMjItUzhaOVZFZHB6WThHLU93MURmcW5FRG1CVWR4Q1dHaXZKUllDdTlsMldzdWlYdzNQODZRYjZrYmM0anRhdUZHWm5CUVNNY2g3R04xNzFEclkyYVBXcF92OC1vRGREdTBpQUFpejNoWTBFTXhEempyNi1LLXl6VHMzbF8tZi14X05QT3F0R2FINnNFeGVNZXk2eGJZY2xjZ19LZ3dwY2p0UUlrV0N0aUJ1Ny16M0tMbkV5MjNsY2JSREdLRm5NTQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[L'Arena](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT3Nyc18zMW5BWVBDUlk3aExDSk5taEhwNzg0WXFDSDhUdEhvLTAyMTdJZkhSNGdfdVhHeDRxd3ViRzVuVFE3WVVDNngyS1hzcXA2VEhtbjZiZVI0LXVIYmtxOHBoSzZsYlNjS3pOMXBKNmo5MGh5ODYyVWlBYnE3VlhvNmhYay1JY05iZWNJV1lyUnl2TVN3RkM0SGJCQTZuMU5tLWlzbGRtdEJQQjdSNS0xVHFkb3NNZXpIX29KOEdMSG50czhRVkpCZm1ZVWxKa3FCWE9jOFpKVmlGMlZWaTh30gHnAUFVX3lxTE1GcGNPcWROQzJ3TGZpb2ZlT0hqdV9tbEx3dTl0dlMzMjItUzhaOVZFZHB6WThHLU93MURmcW5FRG1CVWR4Q1dHaXZKUllDdTlsMldzdWlYdzNQODZRYjZrYmM0anRhdUZHWm5CUVNNY2g3R04xNzFEclkyYVBXcF92OC1vRGREdTBpQUFpejNoWTBFTXhEempyNi1LLXl6VHMzbF8tZi14X05QT3F0R2FINnNFeGVNZXk2eGJZY2xjZ19LZ3dwY2p0UUlrV0N0aUJ1Ny16M0tMbkV5MjNsY2JSREdLRm5NTQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVY0TE94UGFGMi1BQVF4dld6WngxSGlDWEQ4R1Z1YndZbUctcldReFdLSHItT0l0d0RSTHdhYlZFaU84X2o5MjFHdThsdEpLX1UyaE9jMzhRa0NIWE0zanNuUGtGcjYzdmlSTEc5ZDQ0YlFfdjQwdmd4cXltQmlOSVktRDVMX3llMDB6OUIyN1VQd09sZjN3VjR3?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [La OMS alerta del crecimiento de una enfermedad que afecta cada vez a más menores en Europa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFpsY2xRMWpxLVpaN2lrY1NoVU9odzM1NXVKMW5KUnZwTWx2WEc2SE5YQTF5Uk9BS3gxR2thcXptMWg1aVA4OW1sQUF0YWZFeE9rQTBzVWJrOWtxUVdiVmY0c0lGaU9lOWo4ZDQydjFuN0VxMzlwWkhKVHp1bWtxRHBBUnFSb0tid1NyQUpmbndzazBsUUVhZ2lUd3RDU3RBZnhlczlXX1ZRczBRdW54ZlZnQ0FkZHlGX0pESUFadFJsR1FtN2NqWE1QbjNUdWs1UEtF?oc=5)
+### [Mum died at 47 after six months of 'living hell' with common illness - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE5nWjFlelZaRDJFSURUeGFQdE01RVIxVWstcFVNQmdudXE5c3ZsUHFzT1E3OUFpUXZ0QkJ3Qmw1ZVdWRlRZTFBqTEZWc3ZaLWtQOG93M2lIb3ZRQUl4MV9TU3ZvQWpXYzV4N3dXUFlZUU5PT3UwREHSAXtBVV95cUxQX0dFVU5YTDh0SEVGa0IyeXY0bGxWM2RoSGpmRGFvemN3bkdkQm05LVRETDBDQl9ZWlZXU1EtQnBJektSbE9FdEhZQ0g2MnNPekZmV3RPLXpEQXM2a0dObWFteTZxczJ2cGpDYTRLbW01QmZJaG5ZdUJ5dk0?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-indication-tag">AF</span>
 
-來源：[Cuatro](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFpsY2xRMWpxLVpaN2lrY1NoVU9odzM1NXVKMW5KUnZwTWx2WEc2SE5YQTF5Uk9BS3gxR2thcXptMWg1aVA4OW1sQUF0YWZFeE9rQTBzVWJrOWtxUVdiVmY0c0lGaU9lOWo4ZDQydjFuN0VxMzlwWkhKVHp1bWtxRHBBUnFSb0tid1NyQUpmbndzazBsUUVhZ2lUd3RDU3RBZnhlczlXX1ZRczBRdW54ZlZnQ0FkZHlGX0pESUFadFJsR1FtN2NqWE1QbjNUdWs1UEtF?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE5nWjFlelZaRDJFSURUeGFQdE01RVIxVWstcFVNQmdudXE5c3ZsUHFzT1E3OUFpUXZ0QkJ3Qmw1ZVdWRlRZTFBqTEZWc3ZaLWtQOG93M2lIb3ZRQUl4MV9TU3ZvQWpXYzV4N3dXUFlZUU5PT3UwREHSAXtBVV95cUxQX0dFVU5YTDh0SEVGa0IyeXY0bGxWM2RoSGpmRGFvemN3bkdkQm05LVRETDBDQl9ZWlZXU1EtQnBJektSbE9FdEhZQ0g2MnNPekZmV3RPLXpEQXM2a0dObWFteTZxczJ2cGpDYTRLbW01QmZJaG5ZdUJ5dk0?oc=5)
 
 ---
 
@@ -99,6 +91,14 @@ permalink: /news/sildenafil/
 2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+
+---
+
+### [Hungría sacrifica cerca de 3.000 cerdos tras detectar los primeros focos de PPA en granjas](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSXhZZ0hGYmxEUWpsNmpPWWk5Y0tDQ1FrYWR4VGZXVVZpVHVKNzQ3enNudzRaTEREX3ZtdWIyTkpQUURDVzYtNDlldGJrZnpjY1JiUFdFdG9hQmtBaUNUUG9Ydm92ZDdVZzIteTJxanRYam9OUkdxeXJ6ZWotVVBxbjJRTllXY1J0blFwS1RKSURyVXQwQU9FMGpOdUFWZ29wVTJHR0Y1bHh3YzhsVnd4Um9xVnNYMDlES21jZDZseTdpcEliVHJCMVVINHlZX3prOFZBb1ZjaXFfQQ?oc=5)
+
+2026-06-07 <span class="news-indication-tag">AF</span>
+
+來源：[Eurocarne](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSXhZZ0hGYmxEUWpsNmpPWWk5Y0tDQ1FrYWR4VGZXVVZpVHVKNzQ3enNudzRaTEREX3ZtdWIyTkpQUURDVzYtNDlldGJrZnpjY1JiUFdFdG9hQmtBaUNUUG9Ydm92ZDdVZzIteTJxanRYam9OUkdxeXJ6ZWotVVBxbjJRTllXY1J0blFwS1RKSURyVXQwQU9FMGpOdUFWZ29wVTJHR0Y1bHh3YzhsVnd4Um9xVnNYMDlES21jZDZseTdpcEliVHJCMVVINHlZX3prOFZBb1ZjaXFfQQ?oc=5)
 
 ---
 
@@ -126,19 +126,19 @@ permalink: /news/sildenafil/
 
 ---
 
+### [Can Eating Avocado Improve Health and Lower Your Risk of Diabetes?](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
+
+---
+
 ### [Woman loses 6st after health scare and does something she couldn’t for 10 years - South Wales Argus](https://news.google.com/rss/articles/CBMingFBVV95cUxNdHAyMGlRUXFMNXR4Zmd1R29zaHZKOTMtRUd2dlJnY0ZLb3ZFemtCbHh5Ml9JN25wT0VPV2YzS081dzMtS3ROSjEzeWZsSEhNLVE3cHF5YzhzM3U5RGZIenFqd0cwMXNZc1VsLWpwNG5qaTYxSTktOEpLYlRLWHQwcnB4MWdEZUhHZXpDTC1aSWxmSXdrOWx2aGFNVGJudw?oc=5)
 
 2026-06-07 <span class="news-indication-tag">AF</span>
 
 來源：[South Wales Argus](https://news.google.com/rss/articles/CBMingFBVV95cUxNdHAyMGlRUXFMNXR4Zmd1R29zaHZKOTMtRUd2dlJnY0ZLb3ZFemtCbHh5Ml9JN25wT0VPV2YzS081dzMtS3ROSjEzeWZsSEhNLVE3cHF5YzhzM3U5RGZIenFqd0cwMXNZc1VsLWpwNG5qaTYxSTktOEpLYlRLWHQwcnB4MWdEZUhHZXpDTC1aSWxmSXdrOWx2aGFNVGJudw?oc=5)
-
----
-
-### [El síndrome de ovario poliquístico sigue afectando incluso en la menopausia](https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hhSjJTNFRPMzNHcTB4OFVENXlUMVNzNUJyc1JoRXZNdVEyaEw3WlY4UFZuMTBWRTVTcnZnNklCRTZ2SWdycWxHN3BuUjJwTm5DWFpGb3loZllaYjhUWlhIUXNnTW53M2tWODRLOE1tNXZwYy10VERTUUZ6QkhOS1NsQnJwR1lPVkU4YTBqajBqUVlVTEl1am9RT0k1SUI4dUZGTlBIcmlKazA3dzZqX1N6WGlKdE0?oc=5)
-
-2026-06-07 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0hhSjJTNFRPMzNHcTB4OFVENXlUMVNzNUJyc1JoRXZNdVEyaEw3WlY4UFZuMTBWRTVTcnZnNklCRTZ2SWdycWxHN3BuUjJwTm5DWFpGb3loZllaYjhUWlhIUXNnTW53M2tWODRLOE1tNXZwYy10VERTUUZ6QkhOS1NsQnJwR1lPVkU4YTBqajBqUVlVTEl1am9RT0k1SUI4dUZGTlBIcmlKazA3dzZqX1N6WGlKdE0?oc=5)
 
 ---
 
@@ -150,11 +150,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Ebola, Pregliasco: “Congo, forse solo la punta dell’iceberg”. Esperti Usa: “Potrebbe diventare una delle più grandi epidemie mai registrate” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+### [Everyone has heard of creatine. But you haven't heard what it does to your brain and mood after 50](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLaHpnVjlNWjRFa095aUstVkVpOUk3MnhrYU01YU5WY0JPVkRqalpaRVIzS2llVmMxX0RPRUlLUnhpcFRsZjMzMy1vQTNRN2w0R2FTR2Z4b1FYbk5DR1R3X05B?oc=5)
 
-2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-07 <span class="news-indication-tag">AF</span>
 
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+來源：[mensfitness.co.uk](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLaHpnVjlNWjRFa095aUstVkVpOUk3MnhrYU01YU5WY0JPVkRqalpaRVIzS2llVmMxX0RPRUlLUnhpcFRsZjMzMy1vQTNRN2w0R2FTR2Z4b1FYbk5DR1R3X05B?oc=5)
 
 ---
 
@@ -163,6 +163,22 @@ permalink: /news/sildenafil/
 2026-06-07 <span class="news-indication-tag">AF</span>
 
 來源：[News.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQWFqOHdleGVFaHJpUnNDSFZ5bXBqUjZvbFNKR2xTdDQ4Y2xZSFJVWF9wTWNack5pSXFhWG5KR0ZtWUVnQ1A4eVowTmpiemhENmc4dHFaTmhWa0lxQ3UxaDF6NXhFbzFaUXJRVklDTWQ4aHhmSDNMT3lMc081ZE9ObkJjQzE5Qm9hTFlTM21vYjFXR0ozQVA3UVhmSjRQYndsYnRqTG5xR2JOTWtDOGh2RTFqOGxlS3kxbXVsWUhILVdBcEh1LTN4T2J5clRwZUE?oc=5)
+
+---
+
+### [La doctora Triviño explica por qué aumenta el riesgo cardiovascular durante la menopausia - El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3IwRXJ6Yl9Ob2UzVzV0T1VKRE9jbUVFWEVIc2lfSjZxMkcwZXRtSWg0dUdvMjI5Q1RTcU9tVndQZ3VjdFdyMUZoQTRjUnM3c1J4TnlfLTEwUEI0Vy1wVFRtbDg2Wk1HY0Z0UFdIYWJPMXNNU1VHY0FZMXhKdEYtR05COHk2dGJCeW5DdjEyMkttWTMzVFVtSFpDaWc2bGRCQ1pZdkx3S2MzWnc3Qks4a3pIZTJkR2s5elBheEJLcEczbEFjdFZhQWJhYUtidjdRV0Y1OGU2V1dzd9IB3wFBVV95cUxNb3U0TmMwZ3p6d2pDTUt0dzdyS0o4ZldZbTZaYl9Nam9mVjZPWFZEVGRfdGlXVDFYajBWWnBkb2dyY2JtZ2xtb012SlozWVI5LWdLM3dTR3Fwc0t1UVdVQWhRT3AtVERabHNfejU5c0lhTjkxX2FESldhWDNBbURrSHFWVURYVWRsM1ZWNUdUUjNCWFpkN2tHUzVjZ05hYURLVDE0YXdzTjRMSjNvTVZIaXZFWE5wRVRjNlFodENzTG8xR2pDd2JpSGVfWEFULUJlekxzODNsZVNkdU9uU3Rv?oc=5)
+
+2026-06-07 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3IwRXJ6Yl9Ob2UzVzV0T1VKRE9jbUVFWEVIc2lfSjZxMkcwZXRtSWg0dUdvMjI5Q1RTcU9tVndQZ3VjdFdyMUZoQTRjUnM3c1J4TnlfLTEwUEI0Vy1wVFRtbDg2Wk1HY0Z0UFdIYWJPMXNNU1VHY0FZMXhKdEYtR05COHk2dGJCeW5DdjEyMkttWTMzVFVtSFpDaWc2bGRCQ1pZdkx3S2MzWnc3Qks4a3pIZTJkR2s5elBheEJLcEczbEFjdFZhQWJhYUtidjdRV0Y1OGU2V1dzd9IB3wFBVV95cUxNb3U0TmMwZ3p6d2pDTUt0dzdyS0o4ZldZbTZaYl9Nam9mVjZPWFZEVGRfdGlXVDFYajBWWnBkb2dyY2JtZ2xtb012SlozWVI5LWdLM3dTR3Fwc0t1UVdVQWhRT3AtVERabHNfejU5c0lhTjkxX2FESldhWDNBbURrSHFWVURYVWRsM1ZWNUdUUjNCWFpkN2tHUzVjZ05hYURLVDE0YXdzTjRMSjNvTVZIaXZFWE5wRVRjNlFodENzTG8xR2pDd2JpSGVfWEFULUJlekxzODNsZVNkdU9uU3Rv?oc=5)
+
+---
+
+### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+
+2026-06-07 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
 ---
 
@@ -187,14 +203,6 @@ permalink: /news/sildenafil/
 2026-06-06 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
 
 來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
-
----
-
-### [Crise de la quarantaine disparue : le basculement inquiétant de la santé mentale qui frappe désormais les jeunes adultes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZHowVlpueDlMbVdYWmt0aHJaRGpvQUg2aGUwTkd4NkV2aGQxSGZCa0ZsRDBCVFZtZ25jUDFsX3d6T3U2bmNnYTIzTFItZmZubUIxVnZaa3owMy04SGdpSkRTSTEyUDVtbWRBN1NTQUJmaVgxNGVLZ3kyZ3VRNlc4MnQ4d1hnajRUTTdaYUN5bTJ3U2V5UXFtSmFwVkEySEJRZXBxTG5xUzdQVGVURlJrNWs2SU5wLWhGaDgwR0hpeG1VQkxPeUNqbDRoS1V5WnRoNGJxdmJJQjhLZw?oc=5)
-
-2026-06-06 <span class="news-indication-tag">AF</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZHowVlpueDlMbVdYWmt0aHJaRGpvQUg2aGUwTkd4NkV2aGQxSGZCa0ZsRDBCVFZtZ25jUDFsX3d6T3U2bmNnYTIzTFItZmZubUIxVnZaa3owMy04SGdpSkRTSTEyUDVtbWRBN1NTQUJmaVgxNGVLZ3kyZ3VRNlc4MnQ4d1hnajRUTTdaYUN5bTJ3U2V5UXFtSmFwVkEySEJRZXBxTG5xUzdQVGVURlJrNWs2SU5wLWhGaDgwR0hpeG1VQkxPeUNqbDRoS1V5WnRoNGJxdmJJQjhLZw?oc=5)
 
 ---
 

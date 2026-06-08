@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
 ### [Darm-Gehirn-Achse: Propionsäure steigert MS-Abwehrzellen um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
 
 2026-06-08
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
+
+---
+
+### [Children who sleep poorly ‘turn into depressed teenagers’ - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjQ3N0xLNzBlTERxb2NHNTVmcl9IRnM0Nk05NXpDdDY5MHhpWUtGaDRWcGdOdUZQYlZMdzZULUdPSE4xeV93NmJzcUNRWnAybmNsbU1SRmVWd0J3SmtHc09TTVIxenZ4MzR4V2RrbjRwVHFqX1EycGNXSE1saXVINTZ1cW9JcW1VSkRCZXp3Mldqc2RZVTljeW9Ia3hMLUx2bExnUVg0YnpjVjZEZEE?oc=5)
+
+2026-06-07
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjQ3N0xLNzBlTERxb2NHNTVmcl9IRnM0Nk05NXpDdDY5MHhpWUtGaDRWcGdOdUZQYlZMdzZULUdPSE4xeV93NmJzcUNRWnAybmNsbU1SRmVWd0J3SmtHc09TTVIxenZ4MzR4V2RrbjRwVHFqX1EycGNXSE1saXVINTZ1cW9JcW1VSkRCZXp3Mldqc2RZVTljeW9Ia3hMLUx2bExnUVg0YnpjVjZEZEE?oc=5)
+
+---
+
+### [Rheumamittel gegen Depression: 54% Remissionsrate in Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTJSeUlobXpnM1Iwai1zZEtwbXN1MzlWY0xXWDVES1hnUm1wRVpxaXplTTZ0dlgxMTJQbDNNb1FIdTVDR2I1cTNFYkxGX3RaU210QWZPdUZXYTV1MzFfQ29IWnQwVVhkOVNDaUhUV2R3RF9aNDl0ZDJudkx6WVE1c0RTZno4TVA2UVR2VDk1RmhhT0lZczJUWlEyRHlDa1ZBams3ZnFfc2p4dmhITlhRRFZ0LVA?oc=5)
+
+2026-06-06
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTJSeUlobXpnM1Iwai1zZEtwbXN1MzlWY0xXWDVES1hnUm1wRVpxaXplTTZ0dlgxMTJQbDNNb1FIdTVDR2I1cTNFYkxGX3RaU210QWZPdUZXYTV1MzFfQ29IWnQwVVhkOVNDaUhUV2R3RF9aNDl0ZDJudkx6WVE1c0RTZno4TVA2UVR2VDk1RmhhT0lZczJUWlEyRHlDa1ZBams3ZnFfc2p4dmhITlhRRFZ0LVA?oc=5)
 
 ---
 

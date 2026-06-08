@@ -14,7 +14,7 @@ permalink: /news/treosulfan/
 ---
 
 <p class="key-answer" data-question="Treosulfan 有什麼相關新聞？">
-<strong>Treosulfan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treosulfan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/treosulfan/
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Demenzrisiko: Semaglutid senkt Erkrankungsrate um bis zu 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+
+---
 
 ### [¿Es verdad que los adultos no pueden digerir la leche? - Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
 
@@ -70,19 +78,19 @@ permalink: /news/treosulfan/
 
 ---
 
-### [Resistencia a la insulina: el paso anterior a la diabetes que se puede revertir](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU0gG-AUFVX3lxTE1BdU1rUGdSbWZfbzg4LS1iZkhIcnJ4VWVDZHEzZmhvZ29aUXBsNXphbHlPcVRmdTFmZExSQlVUVWJtN1B1MEdTTXFJMEhiWHRpZ0J3WVJKY2N2ZGVadG9FVGVMOUp4NmVsOGYzeGtCZnVIemhPRzNseFVBdG9VVFRpLVRGLVcxaUVaOHd3dWl3WldqM2tZUWhUUU9OQ011dWN2WlNvcndNTnhnNzluRlI4T3FjYnVnU1JVcmkybGc?oc=5)
-
-2026-06-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU0gG-AUFVX3lxTE1BdU1rUGdSbWZfbzg4LS1iZkhIcnJ4VWVDZHEzZmhvZ29aUXBsNXphbHlPcVRmdTFmZExSQlVUVWJtN1B1MEdTTXFJMEhiWHRpZ0J3WVJKY2N2ZGVadG9FVGVMOUp4NmVsOGYzeGtCZnVIemhPRzNseFVBdG9VVFRpLVRGLVcxaUVaOHd3dWl3WldqM2tZUWhUUU9OQ011dWN2WlNvcndNTnhnNzluRlI4T3FjYnVnU1JVcmkybGc?oc=5)
-
----
-
 ### [La personalización de parámetros y objetivos, clave para optimizar el uso de myLoop powered by CamAPS FX en niños y adolescentes con diabetes tipo 1](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
 
 2026-06-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
+
+---
+
+### [Can Eating Avocado Improve Health and Lower Your Risk of Diabetes?](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
 
 ---
 

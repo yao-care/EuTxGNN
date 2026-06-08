@@ -54,19 +54,19 @@ permalink: /news/givosiran/
 
 ## 相關新聞（2 則）
 
+### [Los epidemiólogos alertan del aumento de las infecciones de transmisión sexual emergentes y multirresistentes](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">hepatitis</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
+
+---
+
 ### [Bluthochdruck: 50% der Patienten nehmen Medikamente unregelmäßig - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
 
 2026-06-07 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
-
----
-
-### [Bepirovirsen in Phase 3: 20% funktionelle Heilung bei chronischer Hepatitis B - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
-
-2026-06-06 <span class="news-indication-tag">hepatitis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
 
 ---
 
