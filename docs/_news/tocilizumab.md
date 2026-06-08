@@ -14,7 +14,7 @@ permalink: /news/tocilizumab/
 ---
 
 <p class="key-answer" data-question="Tocilizumab 有什麼相關新聞？">
-<strong>Tocilizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tocilizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tocilizumab/
 <p><a href="{{ '/drugs/tocilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Monoartrite infiammatoria, al Rizzoli uno studio per nuove cure. “Colpisce anche persone giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
+### [Monoartrite infiammatoria, lo studio per le nuove cure. “Colpisce anche i giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
 
 2026-06-08 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
+
+---
+
+### [Hormon als Booster bei antidepressiver Behandlung - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
+
+2026-06-08 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
 
 ---
 

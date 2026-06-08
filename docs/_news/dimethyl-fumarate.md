@@ -14,7 +14,7 @@ permalink: /news/dimethyl-fumarate/
 ---
 
 <p class="key-answer" data-question="Dimethyl Fumarate 有什麼相關新聞？">
-<strong>Dimethyl Fumarate</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dimethyl Fumarate</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/dimethyl-fumarate/
 <p><a href="{{ '/drugs/dimethyl-fumarate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（37 則）
+
+### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+
+---
 
 ### [Krebs: Durchbruch in der Forschung – Neue Ergebnisse im Kampf gegen Krebs-Rückfälle](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
 
 2026-06-08 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+
+---
+
+### [«Ebola arriverà a 20.000 contagi» - La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+
+---
+
+### [Richard Scolyer, acclaimed melanoma researcher who tried experimental treatment on his own brain cancer – obituary - The Guardian](https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHpGNUg3N3ZBWnluNkJNVFE3MUs0VzlZMHIwQmtaNktFUkJWSTl0bl9DdFBoX3doWHlDdHl4T3BFWHdtcm5ib2Z0aFdKR1d0ak5LdzN4V1ppWTR1TktoOXRPY01oWmU3WWloSFlKanZhSGpPUVl0WWU4U2ZPenBJQnI1UXFScDIwMXBNOFl3dlRiRUZteWd0RktwOHJodWcyb2JMQVBoMjREZy1JYlU3al9RMXJScXZ5ZjRubmM5aGN1QjUxMHMw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHpGNUg3N3ZBWnluNkJNVFE3MUs0VzlZMHIwQmtaNktFUkJWSTl0bl9DdFBoX3doWHlDdHl4T3BFWHdtcm5ib2Z0aFdKR1d0ak5LdzN4V1ppWTR1TktoOXRPY01oWmU3WWloSFlKanZhSGpPUVl0WWU4U2ZPenBJQnI1UXFScDIwMXBNOFl3dlRiRUZteWd0RktwOHJodWcyb2JMQVBoMjREZy1JYlU3al9RMXJScXZ5ZjRubmM5aGN1QjUxMHMw?oc=5)
+
+---
+
+### [First-in-human-Studie: Vielversprechender PET-Tracer zeigt hochauflösende Bildgebung des sympathischen Nervensystems - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
 
 ---
 
@@ -78,19 +110,27 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [«Ebola arriverà a 20.000 contagi» - La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+### [Lutte contre le cancer : des percées majeures annoncées](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zNWRmYVZDYTVXWHhrQ3BwR09yNjRBMVhYRk5heDlHRUhXMkF3cGxyLXdFaUY1bXQyWkxsVWp4LUx5QjA3RkY1ZzJDbmlTWVZSX1h6SlZBSEFaRTV5ZVJMMGlpeHJObjBRX25ydFAyWHh0M1lhOEs2ZnFfVQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">cancer</span>
 
-來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zNWRmYVZDYTVXWHhrQ3BwR09yNjRBMVhYRk5heDlHRUhXMkF3cGxyLXdFaUY1bXQyWkxsVWp4LUx5QjA3RkY1ZzJDbmlTWVZSX1h6SlZBSEFaRTV5ZVJMMGlpeHJObjBRX25ydFAyWHh0M1lhOEs2ZnFfVQ?oc=5)
 
 ---
 
-### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+
+---
+
+### [Fatigue, insomnie, anxiété... Cette activité physique réduit les symptômes liés au cancer, c'est prouvé](https://news.google.com/rss/articles/CBMifEFVX3lxTE96TWp1Smp2MnhVX2JVMGc5bHR5UWhhelVqd1NreGxGZ2k2eXFTdG9YR1BRTkE1VlJPa0llSFFDSko0QWlfTjZlRk51ODhUVUNocEJndWNFU0NzX1ZCdUppWUpyeVNvRTRlNjNYSjlycnpZMlE3c3VvRS1iT0Q?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE96TWp1Smp2MnhVX2JVMGc5bHR5UWhhelVqd1NreGxGZ2k2eXFTdG9YR1BRTkE1VlJPa0llSFFDSko0QWlfTjZlRk51ODhUVUNocEJndWNFU0NzX1ZCdUppWUpyeVNvRTRlNjNYSjlycnpZMlE3c3VvRS1iT0Q?oc=5)
 
 ---
 
@@ -102,14 +142,6 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Why are so many young people getting cancer? What researchers do and don't know](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PWExObnlZYlF0V3FhREtsQVNGTVY0WlF2bzJwZGZkRld0TDlRVUlRRTdiaS1aai1OUEE4d1JmUTJRanJlRG5UbkJkNDAwOUFMZGw1Q3RBOUYzOUJNbDBn?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cancer</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PWExObnlZYlF0V3FhREtsQVNGTVY0WlF2bzJwZGZkRld0TDlRVUlRRTdiaS1aai1OUEE4d1JmUTJRanJlRG5UbkJkNDAwOUFMZGw1Q3RBOUYzOUJNbDBn?oc=5)
-
----
-
 ### [Un estudio en moscas revela cómo algunos tumores eliminan células sanas vecinas para crecer - Salud a Diario](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZlpIQ0xHR2ZYRUJKNWZSUngwSk1ESklEN3NiMEFxSnpQY3laa3B3TUhxaWc0djlyYVUwTE5zallnRG1FMzBZeExzLVB3bWxnSzhkTmlpZmhPSG9uQm5zVjl4dHRZUElSYm9MM2s4Ml9sNEhMbGVIdGFQZG9aVURmeFY4SzNjQlBHcmdGYWIydFJpelJYVG1sT0NTbkhWRFhHRFRObDdVNHRYdkdPek1DaXpTcUM5aWdNZkhPbllWNjlYaG9UVXp2SVpxRXd0dVE?oc=5)
 
 2026-06-08 <span class="news-indication-tag">tumor</span>
@@ -118,11 +150,27 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
+### [Cancer : les « anticorps conjugués » vont-ils bientôt remplacer la chimiothérapie classique ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHBwTjB2ZG1FY2k5Mmtoel90dHVTemhMclpWVmJmZDNSZ0VjRWl5RlNySDY2Z0d1ODRaVGs1dS05Wi14Z043WHlfT3JCcnhoMUt3SjlZVGhiSERyZXZwUEFDLWkxekd5eS02cW1LVW5WUTRKWGYtUVpGdTEtX3ZsbFl4dXc4TS1DdmVXQjF0bnlHcC1OS0FoZjVzS0RkZUJsdllqNVNLNjJ6aXFDR1hUWUhSYWtmWWZQX0pLNGtfMk5XVkN3ODZ4WU9HbkhVZWF3WnFnTzZ0S2tvZw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHBwTjB2ZG1FY2k5Mmtoel90dHVTemhMclpWVmJmZDNSZ0VjRWl5RlNySDY2Z0d1ODRaVGs1dS05Wi14Z043WHlfT3JCcnhoMUt3SjlZVGhiSERyZXZwUEFDLWkxekd5eS02cW1LVW5WUTRKWGYtUVpGdTEtX3ZsbFl4dXc4TS1DdmVXQjF0bnlHcC1OS0FoZjVzS0RkZUJsdllqNVNLNjJ6aXFDR1hUWUhSYWtmWWZQX0pLNGtfMk5XVkN3ODZ4WU9HbkhVZWF3WnFnTzZ0S2tvZw?oc=5)
+
+---
+
 ### [Naked mole-rats age so slowly, resist cancer so well and survive oxygen loss so strangely that researchers now study them as one of nature’s best clues to human ageing. - Space Daily](https://news.google.com/rss/articles/CBMimwJBVV95cUxPQjlVZHhDaW1Db285MHJ0QzFfVEQ4WXp4QzFWWklpcG1yMmt1ZWdWZ1pYNlI1Y2tfa3RQYXNaclZtUmFMOEk4dlFwdTNaeUJkc0pMSE5ZcmxoLVFLZU1jUnBjaUFncmNsc1l3QmhndE82elNFNVlQeUVNcGlDblExSEhuQm03ZXpJblQ4d2ZGMDNHY2VEUHo1TDd4R3FfcGNqT1QteGpYdThwVUlOeVNsN011QjQ1NWVMVWViMkJ5R3hYN1J4YTg5QTNEN0FXaXNUQ0pjVG1mTEZTTU52TlFRUXlxV2Exc2VNS2RkNTBLTnh4TEZ6SzN6WUtQN2V6NTZpa2Nibi1SeFR0MkFWSUpxRGd4c0lhQy15MEN3?oc=5)
 
 2026-06-08 <span class="news-indication-tag">cancer</span>
 
 來源：[Space Daily](https://news.google.com/rss/articles/CBMimwJBVV95cUxPQjlVZHhDaW1Db285MHJ0QzFfVEQ4WXp4QzFWWklpcG1yMmt1ZWdWZ1pYNlI1Y2tfa3RQYXNaclZtUmFMOEk4dlFwdTNaeUJkc0pMSE5ZcmxoLVFLZU1jUnBjaUFncmNsc1l3QmhndE82elNFNVlQeUVNcGlDblExSEhuQm03ZXpJblQ4d2ZGMDNHY2VEUHo1TDd4R3FfcGNqT1QteGpYdThwVUlOeVNsN011QjQ1NWVMVWViMkJ5R3hYN1J4YTg5QTNEN0FXaXNUQ0pjVG1mTEZTTU52TlFRUXlxV2Exc2VNS2RkNTBLTnh4TEZ6SzN6WUtQN2V6NTZpa2Nibi1SeFR0MkFWSUpxRGd4c0lhQy15MEN3?oc=5)
+
+---
+
+### ["Parkinson-Impfung" gibt Hoffnung für Betroffene](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNS0xS3lDdHRQazVZNHJzZFJuZ3licW02XzBzZV9Nd2FObG1yeUFrSE9ORmFsai1qUndBYVgxTC02dUM2Y1Y4RmVaaXRzSTk2NXgxdUtReGpEb081RlQ3TC12UDB0VmRObUFZa2tJRkY3eEU0QUZTaXY2YTRUQ3NOT3hWMHVzUFFLQ19hcllZZlVZTWVKZGl6X2RKQ1ZYendBaWQzQ3VZY0xrR3U4MXROSllVVXk0azQ3QjhrbTBtcXpNRmFJMTNoU05uSmY0Zw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[Kurier](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNS0xS3lDdHRQazVZNHJzZFJuZ3licW02XzBzZV9Nd2FObG1yeUFrSE9ORmFsai1qUndBYVgxTC02dUM2Y1Y4RmVaaXRzSTk2NXgxdUtReGpEb081RlQ3TC12UDB0VmRObUFZa2tJRkY3eEU0QUZTaXY2YTRUQ3NOT3hWMHVzUFFLQ19hcllZZlVZTWVKZGl6X2RKQ1ZYendBaWQzQ3VZY0xrR3U4MXROSllVVXk0azQ3QjhrbTBtcXpNRmFJMTNoU05uSmY0Zw?oc=5)
 
 ---
 
@@ -166,11 +214,11 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Demenzrisiko: Semaglutid senkt Erkrankungsrate um bis zu 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+### [Semaglutid: Neue Studie belegt 53-Prozent-Schutz vor Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlJfUFZYMk04eUNkMDE2ME4tbDdQNzEyTGsya0xwRnZHTnY0RG4wVU1PTkx2VHpCdEUtOGY4S0JCR1UzdHNQOXlObGpHd3NCMEpRSWV5c05DcFVLdHduUHY5c09ZS2psbm9ad1ozNUZnanN2LTcyODNwZnVhT2cwZ2F0S0I1RHQ5a01XN1NZUl9BcU5WUUVjS0xGdmJ1X3RGal9fOFZINUNPbEE?oc=5)
 
-2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlJfUFZYMk04eUNkMDE2ME4tbDdQNzEyTGsya0xwRnZHTnY0RG4wVU1PTkx2VHpCdEUtOGY4S0JCR1UzdHNQOXlObGpHd3NCMEpRSWV5c05DcFVLdHduUHY5c09ZS2psbm9ad1ozNUZnanN2LTcyODNwZnVhT2cwZ2F0S0I1RHQ5a01XN1NZUl9BcU5WUUVjS0xGdmJ1X3RGal9fOFZINUNPbEE?oc=5)
 
 ---
 
@@ -182,11 +230,11 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
 
 ---
 
@@ -208,7 +256,7 @@ permalink: /news/dimethyl-fumarate/
 
 ### [Darm-Gehirn-Achse: Propionsäure steigert MS-Abwehrzellen um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
 
-2026-06-08 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
 
@@ -254,14 +302,6 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Santé : après le congrès américain ASCO, les oncologues de Bergonié annoncent des avancées majeures sur le traitement des cancers - Sud Ouest](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPd2ZPQm4ta0RhdHpOZzVNeFBLQVJtRGd0aEIzUVFvX3ViTk1mdW1oRUsyNFVvS2ZERXlvRlNuXzZLLXpGN003YV9kZ1NnSUxzQmxEYkNUbUtfOHJPM2x0Uy1xcDR4Y2dWU0U0Mmxlb0tiSDE0TGNyb3lzRl8zVk90SFBZb1B5WjMzdEY1amNnRW9fb0xmMmxOTmJDODgwOVVhVzRtTC1waFVVN3UwV0pHREpaby1NbnZZa1Vqbi1GeXRyNGdIZy1tY3ZLRWFVUHlHb3VmcHJsOERHcW5RZm1qUUM5WmFSSnJhbHlkVHZRUlQ5OUVoYTVpazRIdWl2UQ?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancer</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPd2ZPQm4ta0RhdHpOZzVNeFBLQVJtRGd0aEIzUVFvX3ViTk1mdW1oRUsyNFVvS2ZERXlvRlNuXzZLLXpGN003YV9kZ1NnSUxzQmxEYkNUbUtfOHJPM2x0Uy1xcDR4Y2dWU0U0Mmxlb0tiSDE0TGNyb3lzRl8zVk90SFBZb1B5WjMzdEY1amNnRW9fb0xmMmxOTmJDODgwOVVhVzRtTC1waFVVN3UwV0pHREpaby1NbnZZa1Vqbi1GeXRyNGdIZy1tY3ZLRWFVUHlHb3VmcHJsOERHcW5RZm1qUUM5WmFSSnJhbHlkVHZRUlQ5OUVoYTVpazRIdWl2UQ?oc=5)
-
----
-
 ### [Como in Salute, a Erba il 10 giugno l'incontro sul tema dello screening per la lotta contro il cancro](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
 
 2026-06-07 <span class="news-indication-tag">cancro</span>
@@ -278,14 +318,6 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [«Personne n’en parlait il y a vingt ans» : le dépistage de la «maladie du foie gras» reste très insuffisant malgré sa forte fréquence - Le Figaro Santé](https://news.google.com/rss/articles/CBMigAJBVV95cUxPVDZzUTVNbzl2Y1Y0TzFNQmFtYlhRRThBTXhpUURKTV9QV2dROEFKSmRmQTBHT3NmVy1TZWNjZGpiUTRwSzdrakFyMFhFZGxwWl9LbzA3VGctclBTQlFUdG5Nb1lzUXFvNGdmWmtHNHN5Vko4RWRxRmJzWHlCUUpaQ05pSXVMY3pYRjM2bnpZd1RTNVNvZFVqWXZXSGxoVFNsMTJZaXJNN1pyMGhpbVlwUnRpUmsxQ2V5c2FiekhyWFlTYnVfb2xVNXBmOHRQZkpXdERkbEFMbmlUSXpIay1NeXhNaHJFMFp6cHgzQ2VYQzlwWVBmZTNhRUJDNnl5QnpN?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMigAJBVV95cUxPVDZzUTVNbzl2Y1Y0TzFNQmFtYlhRRThBTXhpUURKTV9QV2dROEFKSmRmQTBHT3NmVy1TZWNjZGpiUTRwSzdrakFyMFhFZGxwWl9LbzA3VGctclBTQlFUdG5Nb1lzUXFvNGdmWmtHNHN5Vko4RWRxRmJzWHlCUUpaQ05pSXVMY3pYRjM2bnpZd1RTNVNvZFVqWXZXSGxoVFNsMTJZaXJNN1pyMGhpbVlwUnRpUmsxQ2V5c2FiekhyWFlTYnVfb2xVNXBmOHRQZkpXdERkbEFMbmlUSXpIay1NeXhNaHJFMFp6cHgzQ2VYQzlwWVBmZTNhRUJDNnl5QnpN?oc=5)
-
----
-
 ### [Voici comment des chercheurs ont réussi à produire un médicament anticancer essentiel grâce à de la levure - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
 
 2026-06-07 <span class="news-indication-tag">cancer</span>
@@ -294,11 +326,11 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Tumore al cervello, una ricerca dell'Unical scopre le cellule che resistono alle cure - Gazzetta del Sud](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZk1JSDVieG9IVmFJQ2pqaFZMa0JZVmtwVmgtSkhyUUpFUEZqcF9ERk9WUExnMHFlWUp3U25wRlUzU0hYZXdLTzY5NXBtQUFJUTdIYXFGQ2ZRbzFGREM2Vk84WmZFN0t6dmhnTF9VZ0k2bEw3WVFQNDdKcWdpRGw2RTVMMDFxWFRqVXI4NXA5VlFscjJwMkZQMmpHY1Y4QVlTMnFpY2tkZ2t4aEhLemc1d1NseTJCejVQMF92QjZIQjc3dUVia3Z3RzFmc0NYUDkxSHEyQkxkRWVOY2p6QzBjaWZPRFBNMmYwRGNTMC13UXJuVThibi12b01weHY2WTZVQ2RlWGxB?oc=5)
+### [You don’t need to lift weights for strength training – these exercises count too - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
 
-2026-06-07 <span class="news-indication-tag">tumor</span>
+2026-06-07 <span class="news-indication-tag">MS</span>
 
-來源：[Gazzetta del Sud](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZk1JSDVieG9IVmFJQ2pqaFZMa0JZVmtwVmgtSkhyUUpFUEZqcF9ERk9WUExnMHFlWUp3U25wRlUzU0hYZXdLTzY5NXBtQUFJUTdIYXFGQ2ZRbzFGREM2Vk84WmZFN0t6dmhnTF9VZ0k2bEw3WVFQNDdKcWdpRGw2RTVMMDFxWFRqVXI4NXA5VlFscjJwMkZQMmpHY1Y4QVlTMnFpY2tkZ2t4aEhLemc1d1NseTJCejVQMF92QjZIQjc3dUVia3Z3RzFmc0NYUDkxSHEyQkxkRWVOY2p6QzBjaWZPRFBNMmYwRGNTMC13UXJuVThibi12b01weHY2WTZVQ2RlWGxB?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
 
 ---
 
@@ -310,19 +342,11 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [South Africa commits $72 million in bid to shed its status as the country with the world's largest HIV epidemic - Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
+### [Researchers Discover a Hidden Vitamin D Problem That Persists Year-Round](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNoRnhOQjFwRWRvc0JDaWMzOFBWR2x2YXJPNUxUUjNtSEZXSFZUbGpfV1dTNTVHcloteXhQR0taOGE2TkZLN3Nmb3d6LWQ5Nlo3VXNwR3dqLUNJNkc3dWM0M2RNYUMtUmlYMVFIQ09IV0VEeVY5QnEyRHRvWXptZ1JvWHlmUWY3bkRkaXlmSFk4anZlMDFVWHZoWUY2ekE?oc=5)
 
 2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
-
----
-
-### [«L'aspirina può aiutare a scoprire precocemente i sintomi del cancro alla prostata»: lo studio - Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUcwcjRVa0M0M1YzOGJXSUVuWXhjYVV3YzhOWXdvY1lNN3FXOVJTaFdLN204UGR6ajlFa1d0bzdXdDhCc1E3REVzZGJaSlZiRVcyUjhqRXZJQ0ZHRXF4STd6LWRoTEZoY1U4RzE0Q0VWSENjazdhMTNOOGQtQzh5X2ZjU29TajAzQm9KeGxmeHZIVUw3eEpWTFRFUHFRYWFZcTRzaVRuWDJnNDI30gGiAUFVX3lxTE55bnYxV0c2eG1NZXNfazZwOTgwVVJvRDc3c2Y2UEJtN3ZJcFVKU3VkM3pQMDVEZFhDNHZSRTZ1WE9IMXpXbFBVRWktSkk3aU5HWHQtbUEtbEhoQ0R0THBMT0tCOVl4MUR6eDhKTldMMUlYcWszU2tlUkcwd2N6dGNaVVJWelZzc0thbVEtZ0c3dFNGRnQ2cVdfNV80MmQzdEtwZw?oc=5)
-
-2026-06-06 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUcwcjRVa0M0M1YzOGJXSUVuWXhjYVV3YzhOWXdvY1lNN3FXOVJTaFdLN204UGR6ajlFa1d0bzdXdDhCc1E3REVzZGJaSlZiRVcyUjhqRXZJQ0ZHRXF4STd6LWRoTEZoY1U4RzE0Q0VWSENjazdhMTNOOGQtQzh5X2ZjU29TajAzQm9KeGxmeHZIVUw3eEpWTFRFUHFRYWFZcTRzaVRuWDJnNDI30gGiAUFVX3lxTE55bnYxV0c2eG1NZXNfazZwOTgwVVJvRDc3c2Y2UEJtN3ZJcFVKU3VkM3pQMDVEZFhDNHZSRTZ1WE9IMXpXbFBVRWktSkk3aU5HWHQtbUEtbEhoQ0R0THBMT0tCOVl4MUR6eDhKTldMMUlYcWszU2tlUkcwd2N6dGNaVVJWelZzc0thbVEtZ0c3dFNGRnQ2cVdfNV80MmQzdEtwZw?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNoRnhOQjFwRWRvc0JDaWMzOFBWR2x2YXJPNUxUUjNtSEZXSFZUbGpfV1dTNTVHcloteXhQR0taOGE2TkZLN3Nmb3d6LWQ5Nlo3VXNwR3dqLUNJNkc3dWM0M2RNYUMtUmlYMVFIQ09IV0VEeVY5QnEyRHRvWXptZ1JvWHlmUWY3bkRkaXlmSFk4anZlMDFVWHZoWUY2ekE?oc=5)
 
 ---
 

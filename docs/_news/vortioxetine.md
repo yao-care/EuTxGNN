@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Darm-Gehirn-Achse: Propionsäure steigert MS-Abwehrzellen um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
+### [Hormon als Booster bei antidepressiver Behandlung - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
 
 ---
 
@@ -67,22 +67,6 @@ permalink: /news/vortioxetine/
 2026-06-07 <span class="news-indication-tag">depression</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjQ3N0xLNzBlTERxb2NHNTVmcl9IRnM0Nk05NXpDdDY5MHhpWUtGaDRWcGdOdUZQYlZMdzZULUdPSE4xeV93NmJzcUNRWnAybmNsbU1SRmVWd0J3SmtHc09TTVIxenZ4MzR4V2RrbjRwVHFqX1EycGNXSE1saXVINTZ1cW9JcW1VSkRCZXp3Mldqc2RZVTljeW9Ia3hMLUx2bExnUVg0YnpjVjZEZEE?oc=5)
-
----
-
-### [Rheumamittel gegen Depression: 54% Remissionsrate in Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTJSeUlobXpnM1Iwai1zZEtwbXN1MzlWY0xXWDVES1hnUm1wRVpxaXplTTZ0dlgxMTJQbDNNb1FIdTVDR2I1cTNFYkxGX3RaU210QWZPdUZXYTV1MzFfQ29IWnQwVVhkOVNDaUhUV2R3RF9aNDl0ZDJudkx6WVE1c0RTZno4TVA2UVR2VDk1RmhhT0lZczJUWlEyRHlDa1ZBams3ZnFfc2p4dmhITlhRRFZ0LVA?oc=5)
-
-2026-06-06 <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTJSeUlobXpnM1Iwai1zZEtwbXN1MzlWY0xXWDVES1hnUm1wRVpxaXplTTZ0dlgxMTJQbDNNb1FIdTVDR2I1cTNFYkxGX3RaU210QWZPdUZXYTV1MzFfQ29IWnQwVVhkOVNDaUhUV2R3RF9aNDl0ZDJudkx6WVE1c0RTZno4TVA2UVR2VDk1RmhhT0lZczJUWlEyRHlDa1ZBams3ZnFfc2p4dmhITlhRRFZ0LVA?oc=5)
-
----
-
-### [Les médecins ont tranché : cette boisson du matin qu'on adore abîme pourtant le cerveau chaque jour](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
-
-2026-06-06 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
-
-來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
 
 ---
 

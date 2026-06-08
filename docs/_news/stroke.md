@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC（stroke） 相關新聞"
+title: "CVA（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "CVA（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# AVC（stroke） 相關新聞
+# CVA（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="CVA（stroke） 有什麼相關新聞？">
+<strong>CVA（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「CVA」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
+
+2026-06-08
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
+
+---
 
 ### [« Elles minimisent les risques » : les femmes sont de plus en plus touchées par des problèmes cardiaques - Le Progrès](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJXS25EOFNpRjE0UzFCWlVpSC1QUmQ0UElQbFNWWEVzWDVWZFpGZ0xOc3hGcGtBaDB2V2tUYU5lNnJxcWJ2UmYwaHlfWGVibFY3OVhPZVc2RnhaMFc4VE50ODdpMDllNld3ajJlNWlhcWhBNGRvSWh1aXhHbjJrSlVzNmdWaEJVQXhua3hEVkJUdm55dmpFZ191VkpLME9OTVdpN2lZbDRjdjkwZ1E?oc=5)
 

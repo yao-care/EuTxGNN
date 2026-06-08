@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
+
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
+
+---
+
+### [Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
+
+2026-06-08 <span class="news-indication-tag">CVA</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
+
+---
 
 ### [¿Es verdad que los adultos no pueden digerir la leche? - Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
 

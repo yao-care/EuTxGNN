@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
+
+2026-06-08 <span class="news-indication-tag">CVA</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
+
+---
 
 ### [« Elles minimisent les risques » : les femmes sont de plus en plus touchées par des problèmes cardiaques - Le Progrès](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJXS25EOFNpRjE0UzFCWlVpSC1QUmQ0UElQbFNWWEVzWDVWZFpGZ0xOc3hGcGtBaDB2V2tUYU5lNnJxcWJ2UmYwaHlfWGVibFY3OVhPZVc2RnhaMFc4VE50ODdpMDllNld3ajJlNWlhcWhBNGRvSWh1aXhHbjJrSlVzNmdWaEJVQXhua3hEVkJUdm55dmpFZ191VkpLME9OTVdpN2lZbDRjdjkwZ1E?oc=5)
 

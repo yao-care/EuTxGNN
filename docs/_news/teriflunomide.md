@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（19 則）
 
-### [Corona, Ebola, Hantavirus: Bremst der Datenschutz die Forschung auch in Hamburg aus? - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3FldDZGd1ZaQUg1UVdYNUZDYjlhRXVuYXA2WGlOdmRmVGlxSXJhYzU4ekVxRWFBZFJkN25wcE5mY0JXeTFlcDhIbkhJdlVxcjU1RVF1aU5yS2VjUEIxcjNIbjNlX19laGZVeU82dm9yNFlrb1g3SjNDd1ZvaDRIM0xXNFRvbHpieEhKcE13RldZMS1WVGoyUzR1NnRLd3pPcVc3bUdlWWpnQkV0SDBkdEZnQ2wwcjYxRlZRMkk3SHFkTkg2SWp0VFk3NzhKZTA1OTRacGNoQWhuWVR6TF9r?oc=5)
+### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
 
 2026-06-08 <span class="news-indication-tag">MS</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3FldDZGd1ZaQUg1UVdYNUZDYjlhRXVuYXA2WGlOdmRmVGlxSXJhYzU4ekVxRWFBZFJkN25wcE5mY0JXeTFlcDhIbkhJdlVxcjU1RVF1aU5yS2VjUEIxcjNIbjNlX19laGZVeU82dm9yNFlrb1g3SjNDd1ZvaDRIM0xXNFRvbHpieEhKcE13RldZMS1WVGoyUzR1NnRLd3pPcVc3bUdlWWpnQkV0SDBkdEZnQ2wwcjYxRlZRMkk3SHFkTkg2SWp0VFk3NzhKZTA1OTRacGNoQWhuWVR6TF9r?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
 
 ---
 
@@ -70,19 +70,43 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+### [First-in-human-Studie: Vielversprechender PET-Tracer zeigt hochauflösende Bildgebung des sympathischen Nervensystems - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
 
 ---
 
-### [Los epidemiólogos alertan del aumento de las infecciones de transmisión sexual emergentes y multirresistentes](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
+### [Corona, Ebola, Hantavirus: Bremst der Datenschutz die Forschung auch in Hamburg aus? - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3FldDZGd1ZaQUg1UVdYNUZDYjlhRXVuYXA2WGlOdmRmVGlxSXJhYzU4ekVxRWFBZFJkN25wcE5mY0JXeTFlcDhIbkhJdlVxcjU1RVF1aU5yS2VjUEIxcjNIbjNlX19laGZVeU82dm9yNFlrb1g3SjNDd1ZvaDRIM0xXNFRvbHpieEhKcE13RldZMS1WVGoyUzR1NnRLd3pPcVc3bUdlWWpnQkV0SDBkdEZnQ2wwcjYxRlZRMkk3SHFkTkg2SWp0VFk3NzhKZTA1OTRacGNoQWhuWVR6TF9r?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3FldDZGd1ZaQUg1UVdYNUZDYjlhRXVuYXA2WGlOdmRmVGlxSXJhYzU4ekVxRWFBZFJkN25wcE5mY0JXeTFlcDhIbkhJdlVxcjU1RVF1aU5yS2VjUEIxcjNIbjNlX19laGZVeU82dm9yNFlrb1g3SjNDd1ZvaDRIM0xXNFRvbHpieEhKcE13RldZMS1WVGoyUzR1NnRLd3pPcVc3bUdlWWpnQkV0SDBkdEZnQ2wwcjYxRlZRMkk3SHFkTkg2SWp0VFk3NzhKZTA1OTRacGNoQWhuWVR6TF9r?oc=5)
+
+---
+
+### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+
+---
+
+### [Infecciones de transmision sexual: una experta de Epidemiología avisa de bacterias superresistentes en España - Diario de Avisos](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnFsN3dmRUFzNEFuMzhPZ1BNbUZYQU5NalZCZE5CblRiMmhSOW85Y1ZXcDFxV0kwT0V4aUViZDJ4YWlUX2gxN1cyYmx5bTJmR01sbi1xRnhpRHN2VzE1ZDVVcC15WXM2aEZfQ05HRmQycWlkT25yZ1YxUHFfNlVvNm9CZm1Zb00xUV9yZlBJRdIBlAFBVV95cUxNX1BYU0hnNkVRQkU1cklRUlRfaVFtQzhfUHFsU1M5UTJhNkhGMzZJTkJzblF1aVFONXE0YU1TbnNYTnJWTVIzbXdSY0g4N1psazEzMC1PT0p1RzMyUExEbGZhbjJsWWhUdjlFMU41cEFrZ0twaURab2ZveFJZNXZmR2czQVlGV25FWmRkV3o1eEc0RHd5?oc=5)
 
 2026-06-08 <span class="news-indication-tag">hepatitis</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
+來源：[Diario de Avisos](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnFsN3dmRUFzNEFuMzhPZ1BNbUZYQU5NalZCZE5CblRiMmhSOW85Y1ZXcDFxV0kwT0V4aUViZDJ4YWlUX2gxN1cyYmx5bTJmR01sbi1xRnhpRHN2VzE1ZDVVcC15WXM2aEZfQ05HRmQycWlkT25yZ1YxUHFfNlVvNm9CZm1Zb00xUV9yZlBJRdIBlAFBVV95cUxNX1BYU0hnNkVRQkU1cklRUlRfaVFtQzhfUHFsU1M5UTJhNkhGMzZJTkJzblF1aVFONXE0YU1TbnNYTnJWTVIzbXdSY0g4N1psazEzMC1PT0p1RzMyUExEbGZhbjJsWWhUdjlFMU41cEFrZ0twaURab2ZveFJZNXZmR2czQVlGV25FWmRkV3o1eEc0RHd5?oc=5)
+
+---
+
+### ["Parkinson-Impfung" gibt Hoffnung für Betroffene](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNS0xS3lDdHRQazVZNHJzZFJuZ3licW02XzBzZV9Nd2FObG1yeUFrSE9ORmFsai1qUndBYVgxTC02dUM2Y1Y4RmVaaXRzSTk2NXgxdUtReGpEb081RlQ3TC12UDB0VmRObUFZa2tJRkY3eEU0QUZTaXY2YTRUQ3NOT3hWMHVzUFFLQ19hcllZZlVZTWVKZGl6X2RKQ1ZYendBaWQzQ3VZY0xrR3U4MXROSllVVXk0azQ3QjhrbTBtcXpNRmFJMTNoU05uSmY0Zw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[Kurier](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNS0xS3lDdHRQazVZNHJzZFJuZ3licW02XzBzZV9Nd2FObG1yeUFrSE9ORmFsai1qUndBYVgxTC02dUM2Y1Y4RmVaaXRzSTk2NXgxdUtReGpEb081RlQ3TC12UDB0VmRObUFZa2tJRkY3eEU0QUZTaXY2YTRUQ3NOT3hWMHVzUFFLQ19hcllZZlVZTWVKZGl6X2RKQ1ZYendBaWQzQ3VZY0xrR3U4MXROSllVVXk0azQ3QjhrbTBtcXpNRmFJMTNoU05uSmY0Zw?oc=5)
 
 ---
 
@@ -94,11 +118,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Demenzrisiko: Semaglutid senkt Erkrankungsrate um bis zu 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+### [Semaglutid: Neue Studie belegt 53-Prozent-Schutz vor Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlJfUFZYMk04eUNkMDE2ME4tbDdQNzEyTGsya0xwRnZHTnY0RG4wVU1PTkx2VHpCdEUtOGY4S0JCR1UzdHNQOXlObGpHd3NCMEpRSWV5c05DcFVLdHduUHY5c09ZS2psbm9ad1ozNUZnanN2LTcyODNwZnVhT2cwZ2F0S0I1RHQ5a01XN1NZUl9BcU5WUUVjS0xGdmJ1X3RGal9fOFZINUNPbEE?oc=5)
 
-2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlJfUFZYMk04eUNkMDE2ME4tbDdQNzEyTGsya0xwRnZHTnY0RG4wVU1PTkx2VHpCdEUtOGY4S0JCR1UzdHNQOXlObGpHd3NCMEpRSWV5c05DcFVLdHduUHY5c09ZS2psbm9ad1ozNUZnanN2LTcyODNwZnVhT2cwZ2F0S0I1RHQ5a01XN1NZUl9BcU5WUUVjS0xGdmJ1X3RGal9fOFZINUNPbEE?oc=5)
 
 ---
 
@@ -110,11 +134,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
 
 ---
 
@@ -136,7 +160,7 @@ permalink: /news/teriflunomide/
 
 ### [Darm-Gehirn-Achse: Propionsäure steigert MS-Abwehrzellen um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
 
-2026-06-08 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
 
@@ -158,6 +182,14 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [You don’t need to lift weights for strength training – these exercises count too - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
+
+---
+
 ### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
 2026-06-07 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -166,11 +198,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [South Africa commits $72 million in bid to shed its status as the country with the world's largest HIV epidemic - Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
+### [Researchers Discover a Hidden Vitamin D Problem That Persists Year-Round](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNoRnhOQjFwRWRvc0JDaWMzOFBWR2x2YXJPNUxUUjNtSEZXSFZUbGpfV1dTNTVHcloteXhQR0taOGE2TkZLN3Nmb3d6LWQ5Nlo3VXNwR3dqLUNJNkc3dWM0M2RNYUMtUmlYMVFIQ09IV0VEeVY5QnEyRHRvWXptZ1JvWHlmUWY3bkRkaXlmSFk4anZlMDFVWHZoWUY2ekE?oc=5)
 
 2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNoRnhOQjFwRWRvc0JDaWMzOFBWR2x2YXJPNUxUUjNtSEZXSFZUbGpfV1dTNTVHcloteXhQR0taOGE2TkZLN3Nmb3d6LWQ5Nlo3VXNwR3dqLUNJNkc3dWM0M2RNYUMtUmlYMVFIQ09IV0VEeVY5QnEyRHRvWXptZ1JvWHlmUWY3bkRkaXlmSFk4anZlMDFVWHZoWUY2ekE?oc=5)
 
 ---
 

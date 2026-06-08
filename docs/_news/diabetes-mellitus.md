@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,13 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Demenzrisiko: Semaglutid senkt Erkrankungsrate um bis zu 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
 2026-06-08
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
 ---
 
@@ -169,14 +169,6 @@ permalink: /news/diabetes-mellitus/
 2026-06-06
 
 來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
-
----
-
-### [Marcher 30 minutes par jour réduirait de 40 % le risque de diabète de type 2 selon une vaste étude](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
-
-2026-06-06
-
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
 
 ---
 

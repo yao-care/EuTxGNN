@@ -54,11 +54,11 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（3 則）
 
-### [David Vivas, cardiólogo: "Gracias a los avances, muchos niños con cardiopatías congénitas pueden llevar una vida prácticamente normal"](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlNDRDdTeld3V1oxRFI4SVBvOGhsRzJOdzM3TWFuV1JyMUNoWDB5NXVPNUVObm14c1Zqb1oyVDBxNlNpaGdtR1hJOEJtWncxSHI5VEdDcnpGSDVUb21MRFRHZmdRby1xR2ozS2dyTV9NMldHRjVaOVJVYnR6cU9Rc3otcDdRcWJkTnpN?oc=5)
+### [Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
 
-2026-06-08 <span class="news-indication-tag">cardiopatía</span>
+2026-06-08 <span class="news-indication-tag">CVA</span>
 
-來源：[HOLA](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlNDRDdTeld3V1oxRFI4SVBvOGhsRzJOdzM3TWFuV1JyMUNoWDB5NXVPNUVObm14c1Zqb1oyVDBxNlNpaGdtR1hJOEJtWncxSHI5VEdDcnpGSDVUb21MRFRHZmdRby1xR2ozS2dyTV9NMldHRjVaOVJVYnR6cU9Rc3otcDdRcWJkTnpN?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
 
 ---
 

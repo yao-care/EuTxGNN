@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,17 +52,9 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [David Vivas, cardiólogo: "Gracias a los avances, muchos niños con cardiopatías congénitas pueden llevar una vida prácticamente normal"](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlNDRDdTeld3V1oxRFI4SVBvOGhsRzJOdzM3TWFuV1JyMUNoWDB5NXVPNUVObm14c1Zqb1oyVDBxNlNpaGdtR1hJOEJtWncxSHI5VEdDcnpGSDVUb21MRFRHZmdRby1xR2ozS2dyTV9NMldHRjVaOVJVYnR6cU9Rc3otcDdRcWJkTnpN?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[HOLA](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlNDRDdTeld3V1oxRFI4SVBvOGhsRzJOdzM3TWFuV1JyMUNoWDB5NXVPNUVObm14c1Zqb1oyVDBxNlNpaGdtR1hJOEJtWncxSHI5VEdDcnpGSDVUb21MRFRHZmdRby1xR2ozS2dyTV9NMldHRjVaOVJVYnR6cU9Rc3otcDdRcWJkTnpN?oc=5)
-
----
-
-### [Monoartrite infiammatoria, al Rizzoli uno studio per nuove cure. “Colpisce anche persone giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
+### [Monoartrite infiammatoria, lo studio per le nuove cure. “Colpisce anche i giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
 
 2026-06-08 <span class="news-indication-tag">artrite</span>
 

@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [David Vivas, cardiólogo: "Gracias a los avances, muchos niños con cardiopatías congénitas pueden llevar una vida prácticamente normal"](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlNDRDdTeld3V1oxRFI4SVBvOGhsRzJOdzM3TWFuV1JyMUNoWDB5NXVPNUVObm14c1Zqb1oyVDBxNlNpaGdtR1hJOEJtWncxSHI5VEdDcnpGSDVUb21MRFRHZmdRby1xR2ozS2dyTV9NMldHRjVaOVJVYnR6cU9Rc3otcDdRcWJkTnpN?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[HOLA](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlNDRDdTeld3V1oxRFI4SVBvOGhsRzJOdzM3TWFuV1JyMUNoWDB5NXVPNUVObm14c1Zqb1oyVDBxNlNpaGdtR1hJOEJtWncxSHI5VEdDcnpGSDVUb21MRFRHZmdRby1xR2ozS2dyTV9NMldHRjVaOVJVYnR6cU9Rc3otcDdRcWJkTnpN?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Bluthochdruck: 50% der Patienten nehmen Medikamente unregelmäßig - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
 

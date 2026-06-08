@@ -14,7 +14,7 @@ permalink: /news/risperidone/
 ---
 
 <p class="key-answer" data-question="Risperidone 有什麼相關新聞？">
-<strong>Risperidone</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Risperidone</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,25 @@ permalink: /news/risperidone/
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
 
-### [Boy died after strep A not diagnosed, inquest hears](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4WWN4QkRVdTlSYUlBd25PT3FKMEJhR19JSjg2bmRQMXRsOGxPd0oxVEtVWUNFMjBLa1NXTHZfdnRoNm9zcy1DUzJqU2YtajQ0TEgxTHJKRVUwSGR5?oc=5)
+### [First-in-human-Studie: Vielversprechender PET-Tracer zeigt hochauflösende Bildgebung des sympathischen Nervensystems - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
+
+---
+
+### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+
+---
+
+### [Waterlooville boy, 5, died after strep A not diagnosed, inquest hears](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4WWN4QkRVdTlSYUlBd25PT3FKMEJhR19JSjg2bmRQMXRsOGxPd0oxVEtVWUNFMjBLa1NXTHZfdnRoNm9zcy1DUzJqU2YtajQ0TEgxTHJKRVUwSGR5?oc=5)
 
 2026-06-08 <span class="news-indication-tag">AF</span>
 
@@ -62,19 +78,19 @@ permalink: /news/risperidone/
 
 ---
 
-### [Hormon als Booster bei antidepressiver Behandlung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVY0TE94UGFGMi1BQVF4dld6WngxSGlDWEQ4R1Z1YndZbUctcldReFdLSHItT0l0d0RSTHdhYlZFaU84X2o5MjFHdThsdEpLX1UyaE9jMzhRa0NIWE0zanNuUGtGcjYzdmlSTEc5ZDQ0YlFfdjQwdmd4cXltQmlOSVktRDVMX3llMDB6OUIyN1VQd09sZjN3VjR3?oc=5)
+### [Hormon als Booster bei antidepressiver Behandlung - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVY0TE94UGFGMi1BQVF4dld6WngxSGlDWEQ4R1Z1YndZbUctcldReFdLSHItT0l0d0RSTHdhYlZFaU84X2o5MjFHdThsdEpLX1UyaE9jMzhRa0NIWE0zanNuUGtGcjYzdmlSTEc5ZDQ0YlFfdjQwdmd4cXltQmlOSVktRDVMX3llMDB6OUIyN1VQd09sZjN3VjR3?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
 
 ---
 
-### [Moderater Kaffee- und Teekonsum mit geringerem Demenzrisiko assoziiert - Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnpvVmRJSUgxR2pyREpxbVplUGZETVJxQm5udG1CdFpRYURCTVZkNlpadTU5bTY2QXZRSGltdFB2TS1wekZMQnQ4a3hRbFdOSG1fNW5aSUtNdC1oODh2UGlHaGdvN0ZXeC1JMGtIUHJQNXp6TmRpRTdXNDlVYU5KQlI0b29IeFA1U0Voc0RMX0lOeFNyV2NIVVVn?oc=5)
+### [Woman'almost died' after sharing drinks with friends in Reading nightclub - Reading Chronicle](https://news.google.com/rss/articles/CBMimwFBVV95cUxQc29yWTg3Vm1pYVYtWkNMdnpHclV6TFJHaWdWaTQ0SHdCb3Q5ZGRnMlRTR204SE01RFE0UGVuaDZqWDkzZFNLMXBfaGh4bjdkbzFmdmlFWG9FN3BvM3dHVFFnTjN6SUR3TW9xaHFsZWR2cXZDZ2hWdlVUaTViQUNjc0tIdXZKa0R0RDZEZFRSYWhrUTFUNHVFWDFQUQ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">AF</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnpvVmRJSUgxR2pyREpxbVplUGZETVJxQm5udG1CdFpRYURCTVZkNlpadTU5bTY2QXZRSGltdFB2TS1wekZMQnQ4a3hRbFdOSG1fNW5aSUtNdC1oODh2UGlHaGdvN0ZXeC1JMGtIUHJQNXp6TmRpRTdXNDlVYU5KQlI0b29IeFA1U0Voc0RMX0lOeFNyV2NIVVVn?oc=5)
+來源：[Reading Chronicle](https://news.google.com/rss/articles/CBMimwFBVV95cUxQc29yWTg3Vm1pYVYtWkNMdnpHclV6TFJHaWdWaTQ0SHdCb3Q5ZGRnMlRTR204SE01RFE0UGVuaDZqWDkzZFNLMXBfaGh4bjdkbzFmdmlFWG9FN3BvM3dHVFFnTjN6SUR3TW9xaHFsZWR2cXZDZ2hWdlVUaTViQUNjc0tIdXZKa0R0RDZEZFRSYWhrUTFUNHVFWDFQUQ?oc=5)
 
 ---
 
@@ -86,11 +102,11 @@ permalink: /news/risperidone/
 
 ---
 
-### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/risperidone/
 2026-06-07 <span class="news-indication-tag">AF</span>
 
 來源：[Grazia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVzB2LVkwakRJYVhiQjZUUFlnSUJoTWVMTk9YcU50MXptWUh4cWtaNHVMQVdha0JlcmNvVWliR3BuZDR0RmdGcjVxeFl0SHVwVWJjWHVOVy1YQ24yZU5NZ09HVTJQc2toQUFTS3NneGZpa3E2VEZxbExPZkgzZW1VTS1scFpZMHE5M3VGb0NwQ08teGN2QjZkdmcwdlJiNE9OQ19QZ0lpS2xMUTFKNkRMU1kzOVRQakJXdWIzOEgyYjROd0RhenRLdVNDN21zb1BTNHN2RlNtQVNzS0ttQVF3Tnl0UGZJOGE3M3BUY0xR?oc=5)
-
----
-
-### [Schlafen gegen Demenz? Wissenschaftler zeigen jetzt, warum Schlaf so wichtig ist - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDdNWjZTcFpaTjBXanBpQlhPdk1vRnRTV0ktUC1ISjJOSS1XellSR1B1STdjSmdpazdPUHJMa1Q5SlhCRWR1S0dVNzBmVG1MakRtREdnWW1qcHVwMV9BQnhGZEdRVGdwdVBkMHR5VDVlTVZ4ckZDWFF1WVB3eEFWckZvclNzYlkyWTd0aURRc0ZuLXZEdkozOG1PYkJiWmVRck9aSlN2cFRoU2ZXUVBhTWxpWHUtYTU1Tmg3UWhLMlJiU3ZyOS15Tkt4eGVSMVc3?oc=5)
-
-2026-06-07 <span class="news-indication-tag">AF</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDdNWjZTcFpaTjBXanBpQlhPdk1vRnRTV0ktUC1ISjJOSS1XellSR1B1STdjSmdpazdPUHJMa1Q5SlhCRWR1S0dVNzBmVG1MakRtREdnWW1qcHVwMV9BQnhGZEdRVGdwdVBkMHR5VDVlTVZ4ckZDWFF1WVB3eEFWckZvclNzYlkyWTd0aURRc0ZuLXZEdkozOG1PYkJiWmVRck9aSlN2cFRoU2ZXUVBhTWxpWHUtYTU1Tmg3UWhLMlJiU3ZyOS15Tkt4eGVSMVc3?oc=5)
 
 ---
 
@@ -139,6 +147,14 @@ permalink: /news/risperidone/
 2026-06-07 <span class="news-indication-tag">AF</span>
 
 來源：[South Wales Argus](https://news.google.com/rss/articles/CBMingFBVV95cUxNdHAyMGlRUXFMNXR4Zmd1R29zaHZKOTMtRUd2dlJnY0ZLb3ZFemtCbHh5Ml9JN25wT0VPV2YzS081dzMtS3ROSjEzeWZsSEhNLVE3cHF5YzhzM3U5RGZIenFqd0cwMXNZc1VsLWpwNG5qaTYxSTktOEpLYlRLWHQwcnB4MWdEZUhHZXpDTC1aSWxmSXdrOWx2aGFNVGJudw?oc=5)
+
+---
+
+### [US insurers’ move to back vaccines sends ‘powerful’ message about safety of shots, experts say - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUtlWXFBUWdxMDJVVnEzTWttZHJpOFlkRHdJdDE4ZndBbF9xVnNtTXF4M1M3SVd0N0xxSzd5UG1iTXU4dTktMWhORXg2WmV3cEZHdnNoSGVQZXE0Q19zWU1nblZUcEpnb29NWTNXT1JzQXg4a3BSNzdvSmJCNXYxbHNHeXVpOHlX?oc=5)
+
+2026-06-07 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUtlWXFBUWdxMDJVVnEzTWttZHJpOFlkRHdJdDE4ZndBbF9xVnNtTXF4M1M3SVd0N0xxSzd5UG1iTXU4dTktMWhORXg2WmV3cEZHdnNoSGVQZXE0Q19zWU1nblZUcEpnb29NWTNXT1JzQXg4a3BSNzdvSmJCNXYxbHNHeXVpOHlX?oc=5)
 
 ---
 
@@ -184,7 +200,7 @@ permalink: /news/risperidone/
 
 ### [Researchers Discover a Hidden Vitamin D Problem That Persists Year-Round](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNoRnhOQjFwRWRvc0JDaWMzOFBWR2x2YXJPNUxUUjNtSEZXSFZUbGpfV1dTNTVHcloteXhQR0taOGE2TkZLN3Nmb3d6LWQ5Nlo3VXNwR3dqLUNJNkc3dWM0M2RNYUMtUmlYMVFIQ09IV0VEeVY5QnEyRHRvWXptZ1JvWHlmUWY3bkRkaXlmSFk4anZlMDFVWHZoWUY2ekE?oc=5)
 
-2026-06-06 <span class="news-indication-tag">AF</span>
+2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNoRnhOQjFwRWRvc0JDaWMzOFBWR2x2YXJPNUxUUjNtSEZXSFZUbGpfV1dTNTVHcloteXhQR0taOGE2TkZLN3Nmb3d6LWQ5Nlo3VXNwR3dqLUNJNkc3dWM0M2RNYUMtUmlYMVFIQ09IV0VEeVY5QnEyRHRvWXptZ1JvWHlmUWY3bkRkaXlmSFk4anZlMDFVWHZoWUY2ekE?oc=5)
 
@@ -192,17 +208,9 @@ permalink: /news/risperidone/
 
 ### [South Africa commits $72 million in bid to shed its status as the country with the world's largest HIV epidemic - Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
 
-2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-06 <span class="news-indication-tag">AF</span>
 
 來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
-
----
-
-### [Les médecins ont tranché : cette boisson du matin qu'on adore abîme pourtant le cerveau chaque jour](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
-
-2026-06-06 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
-
-來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
 
 ---
 

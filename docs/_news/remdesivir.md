@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [David Vivas, cardiólogo: "Gracias a los avances, muchos niños con cardiopatías congénitas pueden llevar una vida prácticamente normal"](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlNDRDdTeld3V1oxRFI4SVBvOGhsRzJOdzM3TWFuV1JyMUNoWDB5NXVPNUVObm14c1Zqb1oyVDBxNlNpaGdtR1hJOEJtWncxSHI5VEdDcnpGSDVUb21MRFRHZmdRby1xR2ozS2dyTV9NMldHRjVaOVJVYnR6cU9Rc3otcDdRcWJkTnpN?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[HOLA](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlNDRDdTeld3V1oxRFI4SVBvOGhsRzJOdzM3TWFuV1JyMUNoWDB5NXVPNUVObm14c1Zqb1oyVDBxNlNpaGdtR1hJOEJtWncxSHI5VEdDcnpGSDVUb21MRFRHZmdRby1xR2ozS2dyTV9NMldHRjVaOVJVYnR6cU9Rc3otcDdRcWJkTnpN?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
 
