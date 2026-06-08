@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
-### [Una médica derriba el mito de qué pasa con la vitamina D si tomas mucho el sol este verano: "No hay motivo para suspenderla" - El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3kweEVjemVQbkVaZm5rYlpZQTg4V2FjSmpkTWpwRFktYWFGZW1IMWZfemdmWWR5SXY0bEhhUEE2TC1LcW8xODJrTG82YUt3SWZrRjdGa1FCUlJKdVFkTjJtblZwQ0p2X2IzZ3ptX3pWbmRvQnZxSkdTbG1hT2Q2SUtaSG81cmVDSGJBekxCeHhhSTRyUjF3b0NLajJXSzFjVWJ1MjREeUhJY2E1XzIxYzg4ZWQ2ZEd5eDlteFpZX3JVQkhMV2NUYlRBYUlNc2FNakx5OE5jaEZFd9IB7gFBVV95cUxQQ3ZfX2ptbVZWcnJwcEFKYnBBNERIR29KN1JlemZVVzlxRTBnaG9mMVJlREtvVk5ZUndPNkxRdkk5VWJmRlhpOGtQSmhmdTB2eGdLYzRGYThOVFZoWGkzcWRWMFQ4WndCdWg2RVlTT2ZfMFZOWG0tOWNOZExzblBzcFV3dkEwX2ZDYkdVanRpNmduUG5tT3o4SnR0TWFDRVV6cGduQkFJMXVHXzBLUjcxdTVOMDkzTlhoYVJvVnRVaEdrVHVGc3JmemxrMXhBbVlTcE54aVZ2Tk1YSUp0QTJDRlYtV0gyNzlxSmJWUlhB?oc=5)
+### [Demenzrisiko: Semaglutid senkt Erkrankungsrisiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmVvRmQ3S2JQd2tRdFdMc1h0TUZFUTAwMHl4Rm5YRURVZkpkVkd1UE1yR0JSTFQybTBrU0g1QWt2OW5QQzJhc2VGQk56V0FBUHRPRUNxeTE2QzVONE03ek1Wd1B6bnlGZWVtQlRrTGRFVUdwaFFBcVdzN19IeDdNNXMyME9xWVNadFByZ016d3A3Z0tzTG8wM2pzYzg0c3VhVlh3X29tU016cmo3UFFz?oc=5)
 
-2026-06-07 <span class="news-indication-tag">MS</span>
+2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3kweEVjemVQbkVaZm5rYlpZQTg4V2FjSmpkTWpwRFktYWFGZW1IMWZfemdmWWR5SXY0bEhhUEE2TC1LcW8xODJrTG82YUt3SWZrRjdGa1FCUlJKdVFkTjJtblZwQ0p2X2IzZ3ptX3pWbmRvQnZxSkdTbG1hT2Q2SUtaSG81cmVDSGJBekxCeHhhSTRyUjF3b0NLajJXSzFjVWJ1MjREeUhJY2E1XzIxYzg4ZWQ2ZEd5eDlteFpZX3JVQkhMV2NUYlRBYUlNc2FNakx5OE5jaEZFd9IB7gFBVV95cUxQQ3ZfX2ptbVZWcnJwcEFKYnBBNERIR29KN1JlemZVVzlxRTBnaG9mMVJlREtvVk5ZUndPNkxRdkk5VWJmRlhpOGtQSmhmdTB2eGdLYzRGYThOVFZoWGkzcWRWMFQ4WndCdWg2RVlTT2ZfMFZOWG0tOWNOZExzblBzcFV3dkEwX2ZDYkdVanRpNmduUG5tT3o4SnR0TWFDRVV6cGduQkFJMXVHXzBLUjcxdTVOMDkzTlhoYVJvVnRVaEdrVHVGc3JmemxrMXhBbVlTcE54aVZ2Tk1YSUp0QTJDRlYtV0gyNzlxSmJWUlhB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmVvRmQ3S2JQd2tRdFdMc1h0TUZFUTAwMHl4Rm5YRURVZkpkVkd1UE1yR0JSTFQybTBrU0g1QWt2OW5QQzJhc2VGQk56V0FBUHRPRUNxeTE2QzVONE03ek1Wd1B6bnlGZWVtQlRrTGRFVUdwaFFBcVdzN19IeDdNNXMyME9xWVNadFByZ016d3A3Z0tzTG8wM2pzYzg0c3VhVlh3X29tU016cmo3UFFz?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [You don’t need to lift weights for strength training – these exercises count too - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
+### [Ebola, Pregliasco: “Congo, forse solo la punta dell’iceberg”. Esperti Usa: “Potrebbe diventare una delle più grandi epidemie mai registrate” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
 
-2026-06-07 <span class="news-indication-tag">MS</span>
+2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
 
 ---
 
@@ -110,14 +110,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [GLP-1 senkt Demenzrisiko – doch bei Alzheimer bringt es wenig - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
-
-2026-06-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDR3VlVYWF84TGZVRWtHVUxRR1V2R3U4T2VYN1A4bmdsR29QSjBUWHMzQWsxanZMWGhQYVEzRkMtYy1OY2JfZEVHRVJZUVRFZ2FUS2ptTElkNFJSMElURW5xRnN2TEx5Sk52ekJZOHZxNG5jSEYzd1VOVktrZnZ5MXRpOWpZdW1uQWRtRzFrTDR5dktTOHc?oc=5)
-
----
-
 ### [Bepirovirsen in Phase 3: 20% funktionelle Heilung bei chronischer Hepatitis B - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
 
 2026-06-06 <span class="news-indication-tag">hepatitis</span>
@@ -126,19 +118,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [My son’s bedwetting was CANCER - we were completely floored after blaming half-term symptoms on a virus - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
-
----
-
 ### [Un hallazgo accidental cambia lo que se creía sobre la gripe y abre la puerta a nuevos tratamientos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQUxxeTBSeXBHb3VLa3hnSzVhSTVtOXFrT0hzQV9vSWVqZjd2T05iR0JnZ3dJcEstc3J3N1B1X08takZtN1JTMXpVSThZbzRUTUJoS3ViUTVmM2FBMzJ2UjBmRlotMXFIdklRRE1Mb0xMS2E3RDNGRTJROVp3VXVLcVY4YUVCMUZxWHBWcFJuWUVEQzJoS191ZGZiWU1pby16Y1NKR2F4RlJVWEItR0NBRnV0empjUFJxUnVHOHpRMmZtRGlfYnA2UHlvNUNNS3plZDRtSWNISW42NmNGcGd6Yy1vY0VLOXlSQnduc3VBV3AzYllwa0E?oc=5)
 
 2026-06-06 <span class="news-indication-tag">MS</span>
 
-來源：[MSN](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQUxxeTBSeXBHb3VLa3hnSzVhSTVtOXFrT0hzQV9vSWVqZjd2T05iR0JnZ3dJcEstc3J3N1B1X08takZtN1JTMXpVSThZbzRUTUJoS3ViUTVmM2FBMzJ2UjBmRlotMXFIdklRRE1Mb0xMS2E3RDNGRTJROVp3VXVLcVY4YUVCMUZxWHBWcFJuWUVEQzJoS191ZGZiWU1pby16Y1NKR2F4RlJVWEItR0NBRnV0empjUFJxUnVHOHpRMmZtRGlfYnA2UHlvNUNNS3plZDRtSWNISW42NmNGcGd6Yy1vY0VLOXlSQnduc3VBV3AzYllwa0E?oc=5)
+來源：[msn.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQUxxeTBSeXBHb3VLa3hnSzVhSTVtOXFrT0hzQV9vSWVqZjd2T05iR0JnZ3dJcEstc3J3N1B1X08takZtN1JTMXpVSThZbzRUTUJoS3ViUTVmM2FBMzJ2UjBmRlotMXFIdklRRE1Mb0xMS2E3RDNGRTJROVp3VXVLcVY4YUVCMUZxWHBWcFJuWUVEQzJoS191ZGZiWU1pby16Y1NKR2F4RlJVWEItR0NBRnV0empjUFJxUnVHOHpRMmZtRGlfYnA2UHlvNUNNS3plZDRtSWNISW42NmNGcGd6Yy1vY0VLOXlSQnduc3VBV3AzYllwa0E?oc=5)
+
+---
+
+### [Ricardo Ruiz, dermatólogo: «La piel no es solo estética, refleja cómo envejece el organismo» - El Debate](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTVsOVFJRDVMclZoRGJpU1U3dkRHcDM5b0ZFc3BPUl9zaHRpZVdVYmpjT05mVHBIYnl1VWl0MlNJMGZsaDNrZUhZQjE1RHVkLVRZVkpzWVNfZ3Z3VjdRUUp3VmNDSE0zMUJ6djJiN1psLXViTzIwV0JGdWpXQlJ1Q0tYdU50TGdnZTJ5QndORk1SSkwxZGZ1RTJXWUlfR0l4WDF4VUx2RkNwbS1maUtZU0hRcVhqeTlSNjJsb2JpRnNKLTZpRERSSVMxNENfRzJnVUdKM3Q2TEFKSkNfWW9UVm1CZ0lId03SAewBQVVfeXFMT2ZXYXFMeGg0ZzJnTjhzUUFibUUyNlVTOHd6dHJzZkRwRmtOaEU0QzN5TFdjZjFrWnVreE9fWGlKRHRvU1JLclo5aEZTTlRLdk1FaWxYeXBjaFVkR3lIZWxabUZFQnRqM1FGemxhRmZ2SVhGVmx2LVJNb2VQdDRKT2xlSGJKOHhGeFlVSm9EYTNsREhpd3JqV0s5ZExNZkZfNGFVSEszNlZKU1ZjeFQ0MG1xczBmSnUwUUgzY21jUGtkMjBEZFBIZW9Ldi1jX1czR0RCdjl1eW5COTRvUi1fZG9DUlRHWDZGaFlwMTk?oc=5)
+
+2026-06-06 <span class="news-indication-tag">MS</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTVsOVFJRDVMclZoRGJpU1U3dkRHcDM5b0ZFc3BPUl9zaHRpZVdVYmpjT05mVHBIYnl1VWl0MlNJMGZsaDNrZUhZQjE1RHVkLVRZVkpzWVNfZ3Z3VjdRUUp3VmNDSE0zMUJ6djJiN1psLXViTzIwV0JGdWpXQlJ1Q0tYdU50TGdnZTJ5QndORk1SSkwxZGZ1RTJXWUlfR0l4WDF4VUx2RkNwbS1maUtZU0hRcVhqeTlSNjJsb2JpRnNKLTZpRERSSVMxNENfRzJnVUdKM3Q2TEFKSkNfWW9UVm1CZ0lId03SAewBQVVfeXFMT2ZXYXFMeGg0ZzJnTjhzUUFibUUyNlVTOHd6dHJzZkRwRmtOaEU0QzN5TFdjZjFrWnVreE9fWGlKRHRvU1JLclo5aEZTTlRLdk1FaWxYeXBjaFVkR3lIZWxabUZFQnRqM1FGemxhRmZ2SVhGVmx2LVJNb2VQdDRKT2xlSGJKOHhGeFlVSm9EYTNsREhpd3JqV0s5ZExNZkZfNGFVSEszNlZKU1ZjeFQ0MG1xczBmSnUwUUgzY21jUGtkMjBEZFBIZW9Ldi1jX1czR0RCdjl1eW5COTRvUi1fZG9DUlRHWDZGaFlwMTk?oc=5)
 
 ---
 

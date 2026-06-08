@@ -14,7 +14,7 @@ permalink: /news/methylnaltrexone-bromide/
 ---
 
 <p class="key-answer" data-question="Methylnaltrexone Bromide 有什麼相關新聞？">
-<strong>Methylnaltrexone Bromide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylnaltrexone Bromide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/methylnaltrexone-bromide/
 <p><a href="{{ '/drugs/methylnaltrexone-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [I’m a cancer surgeon and have prostate cancer. I don’t want screening - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWh4aF81WTBmUDV1ZVZXX2NmWGEwSmNhOGNaMFlvQ0ctTEFObGtWcjZJcTgtWnMtSXJBc3FjSmtBUUxBZXpldDZ3bktLY2xDNF9pTmRacGRrdFJtelctVGhZSjlTcFBSeWJOSTJ5TG9qN0FuaXZtTWUwdEtROW84STFUZjdqZ3dKS014Y3B5M29mdTBWZ0IxUENqS2RxSkdYN0xjejJ3MUlzNnpkQnpSajU4M1dtNFJ5YjQ5VGZ5Z1I?oc=5)
+
+2026-06-07 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWh4aF81WTBmUDV1ZVZXX2NmWGEwSmNhOGNaMFlvQ0ctTEFObGtWcjZJcTgtWnMtSXJBc3FjSmtBUUxBZXpldDZ3bktLY2xDNF9pTmRacGRrdFJtelctVGhZSjlTcFBSeWJOSTJ5TG9qN0FuaXZtTWUwdEtROW84STFUZjdqZ3dKS014Y3B5M29mdTBWZ0IxUENqS2RxSkdYN0xjejJ3MUlzNnpkQnpSajU4M1dtNFJ5YjQ5VGZ5Z1I?oc=5)
+
+---
 
 ### [NHS hospitals adopt faster, more accurate at-home bladder cancer test - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW43SlBQZ1hzZFNNb2JqR0xTQUcyOUYxVGI0MHAwb2o0ZFowZWNiMlFudDMxMjdYTmxjWm01ejJXdlk4M1dNaHQyNGpRdjFrc3R3LVZReG9rNzltcjZhR09jYUU2M3VrSm5SdDJTSF81SVJRRXBTQTlqR0dSSVRKNkljbHFTLUhtY2taN012bmhaYzN3WWNqeEFTRlNxQzlSNFQ3QjVR?oc=5)
 
@@ -70,9 +78,9 @@ permalink: /news/methylnaltrexone-bromide/
 
 ---
 
-### [Richard Scolyer: Pioneering Australian doctor dies after brain cancer battle](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
+### [Richard Scolyer: Australian doctor who underwent world-first brain tumour treatment dies](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
 
-2026-06-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-07 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
 
@@ -83,6 +91,14 @@ permalink: /news/methylnaltrexone-bromide/
 2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPd2ZPQm4ta0RhdHpOZzVNeFBLQVJtRGd0aEIzUVFvX3ViTk1mdW1oRUsyNFVvS2ZERXlvRlNuXzZLLXpGN003YV9kZ1NnSUxzQmxEYkNUbUtfOHJPM2x0Uy1xcDR4Y2dWU0U0Mmxlb0tiSDE0TGNyb3lzRl8zVk90SFBZb1B5WjMzdEY1amNnRW9fb0xmMmxOTmJDODgwOVVhVzRtTC1waFVVN3UwV0pHREpaby1NbnZZa1Vqbi1GeXRyNGdIZy1tY3ZLRWFVUHlHb3VmcHJsOERHcW5RZm1qUUM5WmFSSnJhbHlkVHZRUlQ5OUVoYTVpazRIdWl2UQ?oc=5)
+
+---
+
+### [Como in Salute, a Erba il 10 giugno l'incontro sul tema dello screening per la lotta contro il cancro](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">cancro</span>
+
+來源：[Erbanotizie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
 
 ---
 
@@ -150,27 +166,19 @@ permalink: /news/methylnaltrexone-bromide/
 
 ---
 
-### [My son’s bedwetting was CANCER - we were completely floored after blaming half-term symptoms on a virus - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
-
----
-
-### [Ce médicament contre l'asthme pourrait réactiver les défenses immunitaires contre le cancer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0RiengwUGtBbGlHX3NsbGUwd2ZkUDkwQ1B5YUQzaDlHWTR3MHd4eS1pTERZbDhQdnRtUTZqd1ZTZGw0cktvZFFNdVM4U1hwdzF2eEZsbW43bzB4LVFEaWhqV0NfVFZGdmhVYTBzV2NFeDhsaXJhNXEwVVo3R2JTRUU4dzdueGdWT2hSM2VwT0EzLUFfNm9qOXpfYjljaTR1eXRfQW9OZUNGbTJ0SWdTMWgwNEx5QWhyejFUc3VIVGlOUFhzS0NYdXJORG4?oc=5)
-
-2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asthme</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0RiengwUGtBbGlHX3NsbGUwd2ZkUDkwQ1B5YUQzaDlHWTR3MHd4eS1pTERZbDhQdnRtUTZqd1ZTZGw0cktvZFFNdVM4U1hwdzF2eEZsbW43bzB4LVFEaWhqV0NfVFZGdmhVYTBzV2NFeDhsaXJhNXEwVVo3R2JTRUU4dzdueGdWT2hSM2VwT0EzLUFfNm9qOXpfYjljaTR1eXRfQW9OZUNGbTJ0SWdTMWgwNEx5QWhyejFUc3VIVGlOUFhzS0NYdXJORG4?oc=5)
-
----
-
 ### [VIDEO. Cancer de la prostate : cette technologie innovante qui permet de traiter la maladie sans opération - France 3 Régions](https://news.google.com/rss/articles/CBMirAJBVV95cUxPOUQ5N2ZlVzQ2czdsU3JDRG9wOUlreEFQUnF6RG1jSUVzajJ4QnR0YkpjM1IxM1IySDhkZ2pfTGhLR3k5ZjRlVGZFYlhLS2hXM0hoNmJTZ0lYMWFHQm9BdEtnVTV2dngtSThqVjZWNkt2bnpWLVRIN0JMbmoxM2tFZmVwcmVydVYtb2JhNlpUX2JxNUdFOFZoVE9STnQ4Vm4wNkd1a1p0VlQxc0ozYlVJM2lRUnhOS3RYQTRUVW1tRjlSSVphdGo4S1NsZkhqdjlvLV9WTjY0alROckc2ajR5UDl3c2s0V2Z6UTNuNTBKZ0o3SVBoNkZIemtqOGVvY2ZRUjg5Ul9yM2k5TDNveHEtU0lqMmdBV012eWpqYlptbXJkZFJSaVdoRVROMHk?oc=5)
 
 2026-06-06 <span class="news-indication-tag">cancer</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMirAJBVV95cUxPOUQ5N2ZlVzQ2czdsU3JDRG9wOUlreEFQUnF6RG1jSUVzajJ4QnR0YkpjM1IxM1IySDhkZ2pfTGhLR3k5ZjRlVGZFYlhLS2hXM0hoNmJTZ0lYMWFHQm9BdEtnVTV2dngtSThqVjZWNkt2bnpWLVRIN0JMbmoxM2tFZmVwcmVydVYtb2JhNlpUX2JxNUdFOFZoVE9STnQ4Vm4wNkd1a1p0VlQxc0ozYlVJM2lRUnhOS3RYQTRUVW1tRjlSSVphdGo4S1NsZkhqdjlvLV9WTjY0alROckc2ajR5UDl3c2s0V2Z6UTNuNTBKZ0o3SVBoNkZIemtqOGVvY2ZRUjg5Ul9yM2k5TDNveHEtU0lqMmdBV012eWpqYlptbXJkZFJSaVdoRVROMHk?oc=5)
+
+---
+
+### [KI-gestützte ctDNA-Tests und Herzschutz: weniger Nebenwirkungen bei Krebstherapie - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2RadDJja0xIQ3ZWdkVtaDVvbFNIZFoxRm1hNkZxa3BOalNndm0yYXVyaDE1ZENleVhWWmV3azNKblZpQnRBOGFJNGg1S1d4anEzb0NBT0lQVFpsbjRrN1hOT1htWS1LaTBmLUMzVmlRZkIwQlE3ZzB4cGdpa1pSdDVxYlhwekJ3dzdIdmJPMlJIajFxazhjZTlST1ZHV1NmUFpoUjBUQ2h0WWRud2Fxck5sUQ?oc=5)
+
+2026-06-06 <span class="news-indication-tag">Krebs</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2RadDJja0xIQ3ZWdkVtaDVvbFNIZFoxRm1hNkZxa3BOalNndm0yYXVyaDE1ZENleVhWWmV3azNKblZpQnRBOGFJNGg1S1d4anEzb0NBT0lQVFpsbjRrN1hOT1htWS1LaTBmLUMzVmlRZkIwQlE3ZzB4cGdpa1pSdDVxYlhwekJ3dzdIdmJPMlJIajFxazhjZTlST1ZHV1NmUFpoUjBUQ2h0WWRud2Fxck5sUQ?oc=5)
 
 ---
 

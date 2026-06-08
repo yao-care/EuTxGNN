@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="Fentanyl 有什麼相關新聞？">
-<strong>Fentanyl</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fentanyl</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/fentanyl/
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（21 則）
 
-### [Nicht hungrig ins Bett: Charité-Professor empfiehlt diesen kleinen Snack zum Einschlafen](https://news.google.com/rss/articles/CBMigwJBVV95cUxNQUNjUkpNRS1lWGsyUzVFZG1xMDJlVUtQZVV1NGk5WmZVUVAtbmswZU0wUk1VTUVHZ25VVzhHSTFhckF1OEVBSW5fMHNJbHc5R3g5UXlpOG1UYWxndWpZTTZUY3d1V0hYbUktRF9hWWtYdmtUWVpPSGpjczJFLWU2SUVseXhrSDdRQkdncHpMSEZiWXZPN1VfM1RCNnlJS3JHZ1U0WTV1ZnNMUFhBS1ZnY0l1NlUwc05xZEtlb2h1bnhobDZyUVZ2TUVkRnBkMEhFUzJSazZyYVluajJKMjNhd3p6V3JaTllxcTFGaEJ3aTNhZmEyU3FWWjZkVm5kQUFlY3hF?oc=5)
+### [Ecco cosa rivela di voi la psicologia se comprate il caffè al bar ogni mattina (e non c’entra il risparmio)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVzB2LVkwakRJYVhiQjZUUFlnSUJoTWVMTk9YcU50MXptWUh4cWtaNHVMQVdha0JlcmNvVWliR3BuZDR0RmdGcjVxeFl0SHVwVWJjWHVOVy1YQ24yZU5NZ09HVTJQc2toQUFTS3NneGZpa3E2VEZxbExPZkgzZW1VTS1scFpZMHE5M3VGb0NwQ08teGN2QjZkdmcwdlJiNE9OQ19QZ0lpS2xMUTFKNkRMU1kzOVRQakJXdWIzOEgyYjROd0RhenRLdVNDN21zb1BTNHN2RlNtQVNzS0ttQVF3Tnl0UGZJOGE3M3BUY0xR?oc=5)
 
 2026-06-07 <span class="news-indication-tag">AF</span>
 
-來源：[CHIP](https://news.google.com/rss/articles/CBMigwJBVV95cUxNQUNjUkpNRS1lWGsyUzVFZG1xMDJlVUtQZVV1NGk5WmZVUVAtbmswZU0wUk1VTUVHZ25VVzhHSTFhckF1OEVBSW5fMHNJbHc5R3g5UXlpOG1UYWxndWpZTTZUY3d1V0hYbUktRF9hWWtYdmtUWVpPSGpjczJFLWU2SUVseXhrSDdRQkdncHpMSEZiWXZPN1VfM1RCNnlJS3JHZ1U0WTV1ZnNMUFhBS1ZnY0l1NlUwc05xZEtlb2h1bnhobDZyUVZ2TUVkRnBkMEhFUzJSazZyYVluajJKMjNhd3p6V3JaTllxcTFGaEJ3aTNhZmEyU3FWWjZkVm5kQUFlY3hF?oc=5)
+來源：[Grazia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVzB2LVkwakRJYVhiQjZUUFlnSUJoTWVMTk9YcU50MXptWUh4cWtaNHVMQVdha0JlcmNvVWliR3BuZDR0RmdGcjVxeFl0SHVwVWJjWHVOVy1YQ24yZU5NZ09HVTJQc2toQUFTS3NneGZpa3E2VEZxbExPZkgzZW1VTS1scFpZMHE5M3VGb0NwQ08teGN2QjZkdmcwdlJiNE9OQ19QZ0lpS2xMUTFKNkRMU1kzOVRQakJXdWIzOEgyYjROd0RhenRLdVNDN21zb1BTNHN2RlNtQVNzS0ttQVF3Tnl0UGZJOGE3M3BUY0xR?oc=5)
+
+---
+
+### [People warned to cover up when visiting beaches and countryside in North Wales - North Wales Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0NZRk1GcGdnbkNUX3RiRGdDTGRnaHA4cmFoNFU3QmdKYWYxWmJka2JEb2hkVFhwTG1nd1VoQlNzM1VwU2tqV2lCbHctRTVtRlAwZGF0bFM5Z3A3NTBrMXVlS205TUFaZnNxajZFV29WblRpTEFsS0pmSkVzTkFmRWRWYmloV01WYVZEcjBuNU1Lcms1?oc=5)
+
+2026-06-07 <span class="news-indication-tag">AF</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0NZRk1GcGdnbkNUX3RiRGdDTGRnaHA4cmFoNFU3QmdKYWYxWmJka2JEb2hkVFhwTG1nd1VoQlNzM1VwU2tqV2lCbHctRTVtRlAwZGF0bFM5Z3A3NTBrMXVlS205TUFaZnNxajZFV29WblRpTEFsS0pmSkVzTkFmRWRWYmloV01WYVZEcjBuNU1Lcms1?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/fentanyl/
 2026-06-07 <span class="news-indication-tag">AF</span>
 
 來源：[South Wales Argus](https://news.google.com/rss/articles/CBMingFBVV95cUxNdHAyMGlRUXFMNXR4Zmd1R29zaHZKOTMtRUd2dlJnY0ZLb3ZFemtCbHh5Ml9JN25wT0VPV2YzS081dzMtS3ROSjEzeWZsSEhNLVE3cHF5YzhzM3U5RGZIenFqd0cwMXNZc1VsLWpwNG5qaTYxSTktOEpLYlRLWHQwcnB4MWdEZUhHZXpDTC1aSWxmSXdrOWx2aGFNVGJudw?oc=5)
-
----
-
-### [Richard Scolyer: Pioneering Australian doctor dies after brain cancer battle](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbUQyeFZCdk4tdUlJNm5tamVSNkhSZERPdEpJSHpCNmdPM0FmMHd0ai00dk9YYmc4WTl0dGdNUkY0Z3ZvZ0NOemxFQnV4S2hubjF6Y0U0LVczQXZi?oc=5)
 
 ---
 
@@ -115,6 +115,22 @@ permalink: /news/fentanyl/
 2026-06-07 <span class="news-indication-tag">AF</span>
 
 來源：[Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGZPTTQ0Rll4YldVQVg4ZlZiWTYtdTVJWHN6UlNKTG8zSzVSZk9jVjhBNFM1eW9CVWlqMjF5ZmQ5WE01YTNKR0JOTVBfVENsNDYxZWtrd01tVGZuNTkyQlktWE94eU1GejNGc21LN2NaN1U1M0NoanBJQlNHcUdIR2VMTC1NUGo5RHBHbkFNWHM3aWtWVTVBYzZVelBMR1h5LXhRdExIRFBUeEFTT3hxQktib2JFLVQzOV9hZi1OVWVWc0RL0gHKAUFVX3lxTE4tdE5OMTZmdmt2MDRoNnkwcVhpUTg0YXRud2k0bzJNT252aDJKZlM5SExfcWZkMWZ6Sy1FLU85Q0Qyd0ZyUk05LUZZUlhXcmZUb2FKdld6SGlueFZ2aF9FX291UWZpVlRuLWZMZlJoQ0kwRHZEWEJ2dmJaVW43NFpJU1Y5MWs5V2wzN3VISTAzVXpNQkgwazJzZ1BNeE1FQ21VVmNnc1ZhcFdiWjcybE1iaGVkaHlqbFZSU0ExUWdyX1Rtc0hxdzY5WHc?oc=5)
+
+---
+
+### [Ebola, Pregliasco: “Congo, forse solo la punta dell’iceberg”. Esperti Usa: “Potrebbe diventare una delle più grandi epidemie mai registrate” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+
+2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2V0aG9FV0ZLNjQ2R3B2Q1lCeHRXdzltaFZmanFOM3RITXVRdHJVQUdRaGRPSC1JWWpBMURoa1lPVk5vS2JuYlE3MllwdXQ1SWRxRzB4T3V1dkJqUmtYMzdWYkV2NFZIblZkMDdkVEtINV9mREJpOHc1YmNUdXRyandDMk1YUEFJd3Jlaw?oc=5)
+
+---
+
+### [La doctora Triviño explica por qué aumenta el riesgo cardiovascular durante la menopausia - El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3IwRXJ6Yl9Ob2UzVzV0T1VKRE9jbUVFWEVIc2lfSjZxMkcwZXRtSWg0dUdvMjI5Q1RTcU9tVndQZ3VjdFdyMUZoQTRjUnM3c1J4TnlfLTEwUEI0Vy1wVFRtbDg2Wk1HY0Z0UFdIYWJPMXNNU1VHY0FZMXhKdEYtR05COHk2dGJCeW5DdjEyMkttWTMzVFVtSFpDaWc2bGRCQ1pZdkx3S2MzWnc3Qks4a3pIZTJkR2s5elBheEJLcEczbEFjdFZhQWJhYUtidjdRV0Y1OGU2V1dzd9IB3wFBVV95cUxNb3U0TmMwZ3p6d2pDTUt0dzdyS0o4ZldZbTZaYl9Nam9mVjZPWFZEVGRfdGlXVDFYajBWWnBkb2dyY2JtZ2xtb012SlozWVI5LWdLM3dTR3Fwc0t1UVdVQWhRT3AtVERabHNfejU5c0lhTjkxX2FESldhWDNBbURrSHFWVURYVWRsM1ZWNUdUUjNCWFpkN2tHUzVjZ05hYURLVDE0YXdzTjRMSjNvTVZIaXZFWE5wRVRjNlFodENzTG8xR2pDd2JpSGVfWEFULUJlekxzODNsZVNkdU9uU3Rv?oc=5)
+
+2026-06-07 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3IwRXJ6Yl9Ob2UzVzV0T1VKRE9jbUVFWEVIc2lfSjZxMkcwZXRtSWg0dUdvMjI5Q1RTcU9tVndQZ3VjdFdyMUZoQTRjUnM3c1J4TnlfLTEwUEI0Vy1wVFRtbDg2Wk1HY0Z0UFdIYWJPMXNNU1VHY0FZMXhKdEYtR05COHk2dGJCeW5DdjEyMkttWTMzVFVtSFpDaWc2bGRCQ1pZdkx3S2MzWnc3Qks4a3pIZTJkR2s5elBheEJLcEczbEFjdFZhQWJhYUtidjdRV0Y1OGU2V1dzd9IB3wFBVV95cUxNb3U0TmMwZ3p6d2pDTUt0dzdyS0o4ZldZbTZaYl9Nam9mVjZPWFZEVGRfdGlXVDFYajBWWnBkb2dyY2JtZ2xtb012SlozWVI5LWdLM3dTR3Fwc0t1UVdVQWhRT3AtVERabHNfejU5c0lhTjkxX2FESldhWDNBbURrSHFWVURYVWRsM1ZWNUdUUjNCWFpkN2tHUzVjZ05hYURLVDE0YXdzTjRMSjNvTVZIaXZFWE5wRVRjNlFodENzTG8xR2pDd2JpSGVfWEFULUJlekxzODNsZVNkdU9uU3Rv?oc=5)
 
 ---
 
@@ -174,30 +190,6 @@ permalink: /news/fentanyl/
 
 ---
 
-### [My son’s bedwetting was CANCER - we were completely floored after blaming half-term symptoms on a virus - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVURUTkVlQm5fSnpRVlFNbGE2SUJ0ZkdCMWh6aGJtN1VhSFVza1kxU2FoUmxqQkl6SHN2UHZsaTkwV2kwYUpYS0J4aEdVSFdDbXBHalNhRTVua2xNVGt5ZjZVMXJjd1lFczhZZFVFZEFyMTBiLVNUeWJFTUNOMkNTNWxWNEotQQ?oc=5)
-
----
-
-### [Leeds man told he just drank 'too much tea' - it was serious condition - Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">AF</span>
-
-來源：[Leeds Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGE2NEp0SWI0SGp1TmFMQ1JsMk9nWEVQZnFxTThZZHFoeFloTkR5SERJN3VmN0Y3aUVjbnE0bnAxc0Y0VE44R1hhenpBeDQzbV9tR01YT2VLQ2N6c01IMUtsNzZKN0c3T01IU2c4YTlfWXpweGJvUFZxLWJPcU9QS3hTUWxBUQ?oc=5)
-
----
-
-### [How Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain - Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5)
-
-2026-06-06 <span class="news-indication-tag">AF</span>
-
-來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMU1vRmdWTkJaUEJiWlNlYTl3d2FZajBkWDJqRlBxNl9WdlVyWUFpMEREV1A3amhCbkdTZVY1RnZaTGxWVm9MX01Eb0tzT1BlSm1HcFhnMW5OZ3lUckFSbXNqWmZpQTloNXluaHNhY3pHYnZSbEZjeHlOVFA1WGExRXdhNDNDdHU2N3JQZjhDSXNIcjJQVW9hbDRheFd5aEVDQ3B6cHFHUWtRQjczTHd5bjZSUWpBcVBKb01GeUx6cmpFZGtiZThFWHU3dDdGU1RucnROaG5Pcw?oc=5)
-
----
-
 ### [Six surprising signs of chronic inflammation and how to beat it - The Telegraph](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNW40alUyZ2RvMHFsODRMTTM3R3pqeUJMdTNkWFdabzRzSjJkX3h0VjBvV1d6RmxQdGJERXE5Vy1SSDVfTEVFbEpMa2JhazRycnoydXFxTmZwUm91MWVPQ09LT1BYWFpCN3BibzFDanB1TjlkVFpoUW5WSmtIVDNGUF9SdW9fWm9xNXAyOXljdU1hMjQ2aHBUYzdOX09MZGFnZFpubWZVb1FVd193U3VjY3BicnRhZktmN3FVbTJ3?oc=5)
 
 2026-06-06 <span class="news-indication-tag">AF</span>
@@ -214,14 +206,6 @@ permalink: /news/fentanyl/
 
 ---
 
-### [L’Afrique du Sud lance les premières injections d’un traitement préventif révolutionnaire contre le VIH](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS0lCQmRMRHRXLVlRWXpJaDBpbWRla2t2cDRNYUdpVWoxaFRBOHNiQlI5a2NBX21CYkNnUG9BTU9KRWtEMkJJVGRKdXhQR1E1UC00a2o1cmc1RC1NZks3em1xZGF6SFpQXzF3RHdRVFEyb2Q4WG5mM09MdFNXOEpoRUp1NHhpNVZ3ZUoxSnZrTE54NjFqTW51Z0hOaVc1ZzBaakFQWG0yVnBUNTZLRFdiX25lTHVQNk4yM3g5WE9OTWhqN3l1azN1alMwRy1LTFpUeWdFQ09hU3k3UHliRXViVjVyMXg0UzN2amRVM29R?oc=5)
-
-2026-06-06 <span class="news-indication-tag">AF</span>
-
-來源：[RFI](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS0lCQmRMRHRXLVlRWXpJaDBpbWRla2t2cDRNYUdpVWoxaFRBOHNiQlI5a2NBX21CYkNnUG9BTU9KRWtEMkJJVGRKdXhQR1E1UC00a2o1cmc1RC1NZks3em1xZGF6SFpQXzF3RHdRVFEyb2Q4WG5mM09MdFNXOEpoRUp1NHhpNVZ3ZUoxSnZrTE54NjFqTW51Z0hOaVc1ZzBaakFQWG0yVnBUNTZLRFdiX25lTHVQNk4yM3g5WE9OTWhqN3l1azN1alMwRy1LTFpUeWdFQ09hU3k3UHliRXViVjVyMXg0UzN2amRVM29R?oc=5)
-
----
-
 ### [Removing ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXJYNWtMZ3VYS01wYWZhQVQ0WndWeEUtTk1Od3padENEdHNjdDhyeWF3ZTR0dEl5anpxbjNrOVFuQkVzM04tOFFrQjNNYXFfVlo1RUdFQ1ZoeVMtZmZCYVBoMlpIM2dDcGJDSHRMOUxua2gwVjhNb2ZOT0F4X21OT3dLS3Nrc3k4ZzA5RWo0cVZJZWQzblNNQ0I3dUZXQjM0?oc=5)
 
 2026-06-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -235,14 +219,6 @@ permalink: /news/fentanyl/
 2026-06-06 <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmpKcHpQYWctSF9vWS1tcWluMUVGNGp1SzBQRW9pdXVoanh4ZWxVaGVfWmdYRUpCTVI1UkdOak91cHdnQkdMUXlxWmVlUXBzTWw4UC1pdkplcllYNWNWYlpjaXNVYy1sc3FfMzNGUlFOcm44QVBtTUM4M09iY1AxVi04cUlocWJybW1uZHVERERwckV6TlJNWWNUUWRqLUZvNHFBZXRxdjFndjBEMkJOaU51LU9qMUhjREswMms0OVJJNGx4Uzg0QWg2TmtzUQ?oc=5)
-
----
-
-### [Estudio del ISCIII y Hospital de Getafe analiza brotes de norovirus - Diario Occidente](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjFhMFVTTV9EV3M5V1JPU05fWllDcUs1SUVuV2FVc0VNSHR3YTJ3bDFPM0p4Q0lZWnNIczFvdDJKT2QwakxiTXBWWnBXLWJ4Nzd0YVp6OThkakVxLU9JQ1czcUctS3lTQk9CQ1drOGFZNTVZVmJiZ2RQZjYzYlhEbGlGWW9nd0RKS2ZYMXVjUmxxZEl6YW9XMEtEWkNYcU5oOFZj0gGuAUFVX3lxTE1rS19nVGF3clZ4SHd1VTVCZkx5THRTbkFIN0JVU1I4eGswR2w1Wnl4czRfQWloOXdMUTVIcUtOTXk3X1FwTkk4d1JpY21HLWM4ekdYeWF4QVUzck56VDRTNzhUSndHNTI3VWo5czh5aXZ0d2sxUjByTVNtQ3RpNV9JZGpBU1FaX2dXS2E1Z19RVTlDdkdDbS1pTE1DZW0xempKMnVmV3djSjhoVzBuUQ?oc=5)
-
-2026-06-05 <span class="news-indication-tag">AF</span>
-
-來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjFhMFVTTV9EV3M5V1JPU05fWllDcUs1SUVuV2FVc0VNSHR3YTJ3bDFPM0p4Q0lZWnNIczFvdDJKT2QwakxiTXBWWnBXLWJ4Nzd0YVp6OThkakVxLU9JQ1czcUctS3lTQk9CQ1drOGFZNTVZVmJiZ2RQZjYzYlhEbGlGWW9nd0RKS2ZYMXVjUmxxZEl6YW9XMEtEWkNYcU5oOFZj0gGuAUFVX3lxTE1rS19nVGF3clZ4SHd1VTVCZkx5THRTbkFIN0JVU1I4eGswR2w1Wnl4czRfQWloOXdMUTVIcUtOTXk3X1FwTkk4d1JpY21HLWM4ekdYeWF4QVUzck56VDRTNzhUSndHNTI3VWo5czh5aXZ0d2sxUjByTVNtQ3RpNV9JZGpBU1FaX2dXS2E1Z19RVTlDdkdDbS1pTE1DZW0xempKMnVmV3djSjhoVzBuUQ?oc=5)
 
 ---
 

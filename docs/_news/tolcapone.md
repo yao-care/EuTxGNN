@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [You don’t need to lift weights for strength training – these exercises count too - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
+
+2026-06-07 <span class="news-indication-tag">dementia</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
+
+---
 
 ### [Une étude menée sur près d'un million de patients vient de révéler un lien inattendu entre le vaccin contre la grippe et la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPazBYTjVtVG54a3N5QW9ZaHZ4dDJfeW1TR01zdGNUWlBmT2JhU1NXS25GelRGbmJTbHBmTnMzYWlBamNmdDY1cW9EajdGVy0tTnBhQlMxSFl1ejl6XzFfMkJVM08xU05SRUJnZnFLT0VmOFVLUF80YnNQbGFnTFN0S0VNMlV4X1RLcE5rSFB1YldiZjBFbzhZS29hZnprS0hkbHNWUVAzTWN1LWUxbzdNN1BwRjk1d1BYVlFLVWoxenBqMlVvM1ZhcTU3R0VaSXZLcll4SUVaN0R6UXJ1UVlmZjZMWUszMnVnZWhDR255cEVNNUdzek13ZHBXVQ?oc=5)
 
