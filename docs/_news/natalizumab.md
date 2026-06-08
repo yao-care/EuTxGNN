@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [¿Es verdad que los adultos no pueden digerir la leche? - Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
+
+---
+
+### [I’ve helped 150 people reverse their type 2 diabetes. This is how - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
+
+---
 
 ### [Resistencia a la insulina: el paso anterior a la diabetes que se puede revertir](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU0gG-AUFVX3lxTE1BdU1rUGdSbWZfbzg4LS1iZkhIcnJ4VWVDZHEzZmhvZ29aUXBsNXphbHlPcVRmdTFmZExSQlVUVWJtN1B1MEdTTXFJMEhiWHRpZ0J3WVJKY2N2ZGVadG9FVGVMOUp4NmVsOGYzeGtCZnVIemhPRzNseFVBdG9VVFRpLVRGLVcxaUVaOHd3dWl3WldqM2tZUWhUUU9OQ011dWN2WlNvcndNTnhnNzluRlI4T3FjYnVnU1JVcmkybGc?oc=5)
 
@@ -70,6 +86,14 @@ permalink: /news/natalizumab/
 
 ---
 
+### [I’m a nutritionist — here are 6 ways to reduce type 2 diabetes risk and boost heart health - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
+
+2026-06-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
+
+---
+
 ### [Marcado CE para la primera tecnología de detección dual de glucosa y cuerpos cetónicos en diabetes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
 
 2026-06-06 <span class="news-indication-tag">diabetes</span>
@@ -83,14 +107,6 @@ permalink: /news/natalizumab/
 2026-06-06 <span class="news-indication-tag">diabète</span>
 
 來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
-
----
-
-### [Le CHU recherche encore 700 participants pour son étude mesurant l’ampleur du diabète et du prédiabète à La Réunion](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzM1d2JwbXdLOEE1US1CODg3YjFoTUxZLUZzSlBfZG9hbXhmaURya09QNUhYckJJVXlYdUJtWk85UUgwZGNPRC1aZEctV3ZiNHZqajRELXVhdTVJNzhzRGVubUEwaVpZMWJWNmJMcXdBYWpEX3V2RTdoRnpYU0RvN2htMkl3VjNzYXluUGlyR0FfZ05ISDRJcllFZF9UUW5FU0tWQ2R3Z2Ita1NOVWhGNjJDRmhVS2trZjlLZFY3aHR0RVVMR2J2TFBLdW50bWVJR3F1VV9HeFQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">diabète</span>
-
-來源：[Zinfos974](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzM1d2JwbXdLOEE1US1CODg3YjFoTUxZLUZzSlBfZG9hbXhmaURya09QNUhYckJJVXlYdUJtWk85UUgwZGNPRC1aZEctV3ZiNHZqajRELXVhdTVJNzhzRGVubUEwaVpZMWJWNmJMcXdBYWpEX3V2RTdoRnpYU0RvN2htMkl3VjNzYXluUGlyR0FfZ05ISDRJcllFZF9UUW5FU0tWQ2R3Z2Ita1NOVWhGNjJDRmhVS2trZjlLZFY3aHR0RVVMR2J2TFBLdW50bWVJR3F1VV9HeFQ?oc=5)
 
 ---
 

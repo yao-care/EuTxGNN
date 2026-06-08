@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
 
-### [Demenzrisiko: Semaglutid senkt Erkrankungsrisiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmVvRmQ3S2JQd2tRdFdMc1h0TUZFUTAwMHl4Rm5YRURVZkpkVkd1UE1yR0JSTFQybTBrU0g1QWt2OW5QQzJhc2VGQk56V0FBUHRPRUNxeTE2QzVONE03ek1Wd1B6bnlGZWVtQlRrTGRFVUdwaFFBcVdzN19IeDdNNXMyME9xWVNadFByZ016d3A3Z0tzTG8wM2pzYzg0c3VhVlh3X29tU016cmo3UFFz?oc=5)
+### [Demenzrisiko: Semaglutid senkt Erkrankungsrate um bis zu 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
 
-2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmVvRmQ3S2JQd2tRdFdMc1h0TUZFUTAwMHl4Rm5YRURVZkpkVkd1UE1yR0JSTFQybTBrU0g1QWt2OW5QQzJhc2VGQk56V0FBUHRPRUNxeTE2QzVONE03ek1Wd1B6bnlGZWVtQlRrTGRFVUdwaFFBcVdzN19IeDdNNXMyME9xWVNadFByZ016d3A3Z0tzTG8wM2pzYzg0c3VhVlh3X29tU016cmo3UFFz?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+
+---
+
+### [¿Es verdad que los adultos no pueden digerir la leche? - Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
+
+---
+
+### [Warum Ozempic bei jedem Zehnten kaum anschlägt](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTzhoWmowa3pTOFdxSUl6cFR0eUp5aERzT0VCT3ktN29iZmh2ZXk4aFI0dGpxejBTZzNGWGdmaWZIdVlMVFVVWlMwZjlKaS1JT3g1eTVqOG5GRG42dWxiMWhwVUkxZXBJTDFuSS1ONDdiMjdtYXBjSGVSSjAwMHBzSUVRT1diQ3o1M0NoUnBTajZHNGZZSjZVZllTN05HakRua084UUd5VXhVZUFaNUpEY1BscURXZU9yX3F0ajkyVVVrZG0wTFhCRHZ3d2JoSUZNQ1FfMHZqM1dJTjZmWXZkS1VfTG92dXZ6Z1d5djRCRWpTUDYyRWUyeGVnQk10dklkUklvcVJERVZUd1BFRVNIdVVqMXI3ZXVwbkhsRzVrTDhmdUROMndEcw?oc=5)
+
+2026-06-08 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTzhoWmowa3pTOFdxSUl6cFR0eUp5aERzT0VCT3ktN29iZmh2ZXk4aFI0dGpxejBTZzNGWGdmaWZIdVlMVFVVWlMwZjlKaS1JT3g1eTVqOG5GRG42dWxiMWhwVUkxZXBJTDFuSS1ONDdiMjdtYXBjSGVSSjAwMHBzSUVRT1diQ3o1M0NoUnBTajZHNGZZSjZVZllTN05HakRua084UUd5VXhVZUFaNUpEY1BscURXZU9yX3F0ajkyVVVrZG0wTFhCRHZ3d2JoSUZNQ1FfMHZqM1dJTjZmWXZkS1VfTG92dXZ6Z1d5djRCRWpTUDYyRWUyeGVnQk10dklkUklvcVJERVZUd1BFRVNIdVVqMXI3ZXVwbkhsRzVrTDhmdUROMndEcw?oc=5)
+
+---
+
+### [I’ve helped 150 people reverse their type 2 diabetes. This is how - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
+
+---
+
+### [¿Existe el Ozempic de la despensa? - La Vanguardia](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmhDblpNQkxiSEduWkQ4Q3F3bGNPeVZOc280VjVDZl8tX2t5Q0Mta1hjeW41NVJlYlc3dTZES1VsdDY3STdidWxIckxhc3lLSmhHY2d5R1k2Vi0xV0dsbVZCa1RDREYwcUszcTdsdDY0cnppN29CbTZ2N2pnY1pwQkFadF9rbFFHeVE2QkFadllpcGtFQWI40gGcAUFVX3lxTE56RVJPTVdYWUp2VkxmZWpaakNUN0todVhLQ3BDbXlZVEljUU8zQXZKRUNSNnFGbm45aU1hTllQME1UaDhaSnVyVHZHdk1aMWdpTTlBdVRqcUZRdDVhTUdZZkJBc2pzVG1tVkZqd0N6dk1vVFVmN3BLVHEwWWN5Z2JRejlvNUoyOENFaEVZREdaVUtlS3JRUHFvck11Yg?oc=5)
+
+2026-06-08 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmhDblpNQkxiSEduWkQ4Q3F3bGNPeVZOc280VjVDZl8tX2t5Q0Mta1hjeW41NVJlYlc3dTZES1VsdDY3STdidWxIckxhc3lLSmhHY2d5R1k2Vi0xV0dsbVZCa1RDREYwcUszcTdsdDY0cnppN29CbTZ2N2pnY1pwQkFadF9rbFFHeVE2QkFadllpcGtFQWI40gGcAUFVX3lxTE56RVJPTVdYWUp2VkxmZWpaakNUN0todVhLQ3BDbXlZVEljUU8zQXZKRUNSNnFGbm45aU1hTllQME1UaDhaSnVyVHZHdk1aMWdpTTlBdVRqcUZRdDVhTUdZZkJBc2pzVG1tVkZqd0N6dk1vVFVmN3BLVHEwWWN5Z2JRejlvNUoyOENFaEVZREdaVUtlS3JRUHFvck11Yg?oc=5)
 
 ---
 
@@ -78,11 +110,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Santé : après le congrès américain ASCO, les oncologues de Bergonié annoncent des avancées majeures sur le traitement des cancers - Sud Ouest](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPd2ZPQm4ta0RhdHpOZzVNeFBLQVJtRGd0aEIzUVFvX3ViTk1mdW1oRUsyNFVvS2ZERXlvRlNuXzZLLXpGN003YV9kZ1NnSUxzQmxEYkNUbUtfOHJPM2x0Uy1xcDR4Y2dWU0U0Mmxlb0tiSDE0TGNyb3lzRl8zVk90SFBZb1B5WjMzdEY1amNnRW9fb0xmMmxOTmJDODgwOVVhVzRtTC1waFVVN3UwV0pHREpaby1NbnZZa1Vqbi1GeXRyNGdIZy1tY3ZLRWFVUHlHb3VmcHJsOERHcW5RZm1qUUM5WmFSSnJhbHlkVHZRUlQ5OUVoYTVpazRIdWl2UQ?oc=5)
+### [I’m a nutritionist — here are 6 ways to reduce type 2 diabetes risk and boost heart health - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
 
-2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
+2026-06-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPd2ZPQm4ta0RhdHpOZzVNeFBLQVJtRGd0aEIzUVFvX3ViTk1mdW1oRUsyNFVvS2ZERXlvRlNuXzZLLXpGN003YV9kZ1NnSUxzQmxEYkNUbUtfOHJPM2x0Uy1xcDR4Y2dWU0U0Mmxlb0tiSDE0TGNyb3lzRl8zVk90SFBZb1B5WjMzdEY1amNnRW9fb0xmMmxOTmJDODgwOVVhVzRtTC1waFVVN3UwV0pHREpaby1NbnZZa1Vqbi1GeXRyNGdIZy1tY3ZLRWFVUHlHb3VmcHJsOERHcW5RZm1qUUM5WmFSSnJhbHlkVHZRUlQ5OUVoYTVpazRIdWl2UQ?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
 
 ---
 
@@ -99,14 +131,6 @@ permalink: /news/semaglutide/
 2026-06-06 <span class="news-indication-tag">diabète</span>
 
 來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
-
----
-
-### [Le CHU recherche encore 700 participants pour son étude mesurant l’ampleur du diabète et du prédiabète à La Réunion](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzM1d2JwbXdLOEE1US1CODg3YjFoTUxZLUZzSlBfZG9hbXhmaURya09QNUhYckJJVXlYdUJtWk85UUgwZGNPRC1aZEctV3ZiNHZqajRELXVhdTVJNzhzRGVubUEwaVpZMWJWNmJMcXdBYWpEX3V2RTdoRnpYU0RvN2htMkl3VjNzYXluUGlyR0FfZ05ISDRJcllFZF9UUW5FU0tWQ2R3Z2Ita1NOVWhGNjJDRmhVS2trZjlLZFY3aHR0RVVMR2J2TFBLdW50bWVJR3F1VV9HeFQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">diabète</span>
-
-來源：[Zinfos974](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzM1d2JwbXdLOEE1US1CODg3YjFoTUxZLUZzSlBfZG9hbXhmaURya09QNUhYckJJVXlYdUJtWk85UUgwZGNPRC1aZEctV3ZiNHZqajRELXVhdTVJNzhzRGVubUEwaVpZMWJWNmJMcXdBYWpEX3V2RTdoRnpYU0RvN2htMkl3VjNzYXluUGlyR0FfZ05ISDRJcllFZF9UUW5FU0tWQ2R3Z2Ita1NOVWhGNjJDRmhVS2trZjlLZFY3aHR0RVVMR2J2TFBLdW50bWVJR3F1VV9HeFQ?oc=5)
 
 ---
 

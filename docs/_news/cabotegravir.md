@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [¿Es verdad que los adultos no pueden digerir la leche? - Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
+
+---
+
+### [I’ve helped 150 people reverse their type 2 diabetes. This is how - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
+
+---
 
 ### [Resistencia a la insulina: el paso anterior a la diabetes que se puede revertir](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU0gG-AUFVX3lxTE1BdU1rUGdSbWZfbzg4LS1iZkhIcnJ4VWVDZHEzZmhvZ29aUXBsNXphbHlPcVRmdTFmZExSQlVUVWJtN1B1MEdTTXFJMEhiWHRpZ0J3WVJKY2N2ZGVadG9FVGVMOUp4NmVsOGYzeGtCZnVIemhPRzNseFVBdG9VVFRpLVRGLVcxaUVaOHd3dWl3WldqM2tZUWhUUU9OQ011dWN2WlNvcndNTnhnNzluRlI4T3FjYnVnU1JVcmkybGc?oc=5)
 
@@ -62,19 +78,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Damián Duartes, reumatólogo: “Cuando una articulación se inflama, le llamamos artritis. La artrosis aparece a medida que vamos creciendo” - La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
-
-2026-06-07 <span class="news-indication-tag">artritis</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
-
----
-
 ### [La personalización de parámetros y objetivos, clave para optimizar el uso de myLoop powered by CamAPS FX en niños y adolescentes con diabetes tipo 1](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
 
 2026-06-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
+
+---
+
+### [I’m a nutritionist — here are 6 ways to reduce type 2 diabetes risk and boost heart health - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
+
+2026-06-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/cabotegravir/
 2026-06-06 <span class="news-indication-tag">diabète</span>
 
 來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWVyNDBOVjZBWExGSmJkSHVmMHpCelJ2cVNQa3JDWEZBZWtJX1NGRXJZOXp3NldpaXRnMjY5cUg3a293eU9GUnBmNlV3eHNjT0RNdFBkc3R2dDJwQ3VsYVQwS3E5MmxXLW5BVExKeFlfbjZvVDBadXR6T1haSUJCZ2tWUUpIVDkwWHhnYWg1T0xyUzkza0pXa3hjbmVFVnc4cVpFd01zTF9PRDZvSDliMngwLTZ6WktoWTYtVkUzeWRybGRKZnc?oc=5)
-
----
-
-### [Le CHU recherche encore 700 participants pour son étude mesurant l’ampleur du diabète et du prédiabète à La Réunion](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzM1d2JwbXdLOEE1US1CODg3YjFoTUxZLUZzSlBfZG9hbXhmaURya09QNUhYckJJVXlYdUJtWk85UUgwZGNPRC1aZEctV3ZiNHZqajRELXVhdTVJNzhzRGVubUEwaVpZMWJWNmJMcXdBYWpEX3V2RTdoRnpYU0RvN2htMkl3VjNzYXluUGlyR0FfZ05ISDRJcllFZF9UUW5FU0tWQ2R3Z2Ita1NOVWhGNjJDRmhVS2trZjlLZFY3aHR0RVVMR2J2TFBLdW50bWVJR3F1VV9HeFQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">diabète</span>
-
-來源：[Zinfos974](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzM1d2JwbXdLOEE1US1CODg3YjFoTUxZLUZzSlBfZG9hbXhmaURya09QNUhYckJJVXlYdUJtWk85UUgwZGNPRC1aZEctV3ZiNHZqajRELXVhdTVJNzhzRGVubUEwaVpZMWJWNmJMcXdBYWpEX3V2RTdoRnpYU0RvN2htMkl3VjNzYXluUGlyR0FfZ05ISDRJcllFZF9UUW5FU0tWQ2R3Z2Ita1NOVWhGNjJDRmhVS2trZjlLZFY3aHR0RVVMR2J2TFBLdW50bWVJR3F1VV9HeFQ?oc=5)
 
 ---
 

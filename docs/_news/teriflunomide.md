@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,75 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（14 則）
 
-### [Demenzrisiko: Semaglutid senkt Erkrankungsrisiko um 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmVvRmQ3S2JQd2tRdFdMc1h0TUZFUTAwMHl4Rm5YRURVZkpkVkd1UE1yR0JSTFQybTBrU0g1QWt2OW5QQzJhc2VGQk56V0FBUHRPRUNxeTE2QzVONE03ek1Wd1B6bnlGZWVtQlRrTGRFVUdwaFFBcVdzN19IeDdNNXMyME9xWVNadFByZ016d3A3Z0tzTG8wM2pzYzg0c3VhVlh3X29tU016cmo3UFFz?oc=5)
+### ["Je me considère comme un phénix" : un nouveau traitement permet de ralentir la progression de la sclérose en plaques](https://news.google.com/rss/articles/CBMijAJBVV95cUxNaEZnQTNyc2REcHlaS2JKdjBWN1BpejMwQVN6NlFEOUd6VVY2OEdfSnd0VlZjcy1QN25ZdGkwbFpIeUROVC1hT0o4bmhCYkRZTEczSl9pMkN4ZXZSZFBCLTBJZFIxUk03T3pSbW9reklqLUFqaTAwUUg0dTg3N0t5UDBZWk5YczFqc3V5TWhUdnBWMnVJem95M0FCd0JsOHROYWZoQ09qdFJEYW1qb1ZGdW1Sb1dES2VDcmJJZkI2T2pKcXEtdzk5ZXdVbHhNZ2U1X1NzMnhpNXlzNG1SdEtIYk1fVnh2aTY3aEl1QXVYLTkwWkJpRVNQb19lUE5LNnlvZEtSak4wN1kzdy00?oc=5)
 
-2026-06-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">sclérose en plaques</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmVvRmQ3S2JQd2tRdFdMc1h0TUZFUTAwMHl4Rm5YRURVZkpkVkd1UE1yR0JSTFQybTBrU0g1QWt2OW5QQzJhc2VGQk56V0FBUHRPRUNxeTE2QzVONE03ek1Wd1B6bnlGZWVtQlRrTGRFVUdwaFFBcVdzN19IeDdNNXMyME9xWVNadFByZ016d3A3Z0tzTG8wM2pzYzg0c3VhVlh3X29tU016cmo3UFFz?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMijAJBVV95cUxNaEZnQTNyc2REcHlaS2JKdjBWN1BpejMwQVN6NlFEOUd6VVY2OEdfSnd0VlZjcy1QN25ZdGkwbFpIeUROVC1hT0o4bmhCYkRZTEczSl9pMkN4ZXZSZFBCLTBJZFIxUk03T3pSbW9reklqLUFqaTAwUUg0dTg3N0t5UDBZWk5YczFqc3V5TWhUdnBWMnVJem95M0FCd0JsOHROYWZoQ09qdFJEYW1qb1ZGdW1Sb1dES2VDcmJJZkI2T2pKcXEtdzk5ZXdVbHhNZ2U1X1NzMnhpNXlzNG1SdEtIYk1fVnh2aTY3aEl1QXVYLTkwWkJpRVNQb19lUE5LNnlvZEtSak4wN1kzdy00?oc=5)
+
+---
+
+### [El Dr. Jaume Sastre Garriga recibe el Premio Esclerosis Múltiple 2025 de la Sociedad Española de Neurología - Vall d'Hebron Barcelona Hospital Campus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3JXT0hMdnZxWHN2WEhyallLc2ltMElJWEtvWVZza1NhR2FUem1aMmxOb2F1Z1hmWVBtX2VJVFhzekFTT1QzOFB4cklpdjZXU2w2SmNBTGsyOFNyclBiQ3RwbUgzYUl4Sk9OeTZsMHZRQndCZFEwc3ZqSUNlOFQzRTZQWUVOQ3NlZUt2cGJYbmR3ZkM4WTFFZHlDTDRHMldpMEdtZUF6Y3p5ZWIwZWtXaThkRTRic2NDZThhTVhPNHpWZGVwRlQzQWViWnQxT2JRdHA5MmhKTGx0NmRFTE9tSFFLeUh2bFkyRkNSSg?oc=5)
+
+2026-06-08 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Vall d'Hebron Barcelona Hospital Campus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3JXT0hMdnZxWHN2WEhyallLc2ltMElJWEtvWVZza1NhR2FUem1aMmxOb2F1Z1hmWVBtX2VJVFhzekFTT1QzOFB4cklpdjZXU2w2SmNBTGsyOFNyclBiQ3RwbUgzYUl4Sk9OeTZsMHZRQndCZFEwc3ZqSUNlOFQzRTZQWUVOQ3NlZUt2cGJYbmR3ZkM4WTFFZHlDTDRHMldpMEdtZUF6Y3p5ZWIwZWtXaThkRTRic2NDZThhTVhPNHpWZGVwRlQzQWViWnQxT2JRdHA5MmhKTGx0NmRFTE9tSFFLeUh2bFkyRkNSSg?oc=5)
+
+---
+
+### [Demenzrisiko: Semaglutid senkt Erkrankungsrate um bis zu 53% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2pkamMzUVp6NldtakViQXhsQ0FGbEtRNjVxbFIxZ1ZLT19nczBMS0E0UmJhcVpZOG4zZUMtS1VCQWJDZFBDazJGODR1RjhQV3Y5Zms3b3djVU40ZG1VSDBWYjZOREJkVlA2Y0ZvR0Zvamk2ZFJYbk1YdzQwUldBVGNLWTZCeXN1VUlNMlRKblY2YXVmRHpBdUJuQi1fY3ZxUEpmd0kxWmQxcEdfWkd6YmRCa0p2UQ?oc=5)
+
+---
+
+### [La OMS alerta del crecimiento de una enfermedad que afecta cada vez a más menores en Europa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFpsY2xRMWpxLVpaN2lrY1NoVU9odzM1NXVKMW5KUnZwTWx2WEc2SE5YQTF5Uk9BS3gxR2thcXptMWg1aVA4OW1sQUF0YWZFeE9rQTBzVWJrOWtxUVdiVmY0c0lGaU9lOWo4ZDQydjFuN0VxMzlwWkhKVHp1bWtxRHBBUnFSb0tid1NyQUpmbndzazBsUUVhZ2lUd3RDU3RBZnhlczlXX1ZRczBRdW54ZlZnQ0FkZHlGX0pESUFadFJsR1FtN2NqWE1QbjNUdWs1UEtF?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Cuatro](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdFpsY2xRMWpxLVpaN2lrY1NoVU9odzM1NXVKMW5KUnZwTWx2WEc2SE5YQTF5Uk9BS3gxR2thcXptMWg1aVA4OW1sQUF0YWZFeE9rQTBzVWJrOWtxUVdiVmY0c0lGaU9lOWo4ZDQydjFuN0VxMzlwWkhKVHp1bWtxRHBBUnFSb0tid1NyQUpmbndzazBsUUVhZ2lUd3RDU3RBZnhlczlXX1ZRczBRdW54ZlZnQ0FkZHlGX0pESUFadFJsR1FtN2NqWE1QbjNUdWs1UEtF?oc=5)
+
+---
+
+### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+
+---
+
+### [GLP1-RA überzeugt bei Alkoholabhängigkeit](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3p5c1B6ZVpYdXhQQWYzcG8tZjlnX3o5bzJ5MFg0OTVuYjlYVHZBT2JqT29nc0JCS3dJa0xVVkJWTTJ2ZG9jYVBWcHI2QzEtc0p0OXVEYS1IOHFjdlYtbEEyeEU5OGkyZDJOUFFPNjFGRXUxdFV5a2d2X2tfZzR2NmhQMGt3VmF0ZmxXQmlrY3AwVFE?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3p5c1B6ZVpYdXhQQWYzcG8tZjlnX3o5bzJ5MFg0OTVuYjlYVHZBT2JqT29nc0JCS3dJa0xVVkJWTTJ2ZG9jYVBWcHI2QzEtc0p0OXVEYS1IOHFjdlYtbEEyeEU5OGkyZDJOUFFPNjFGRXUxdFV5a2d2X2tfZzR2NmhQMGt3VmF0ZmxXQmlrY3AwVFE?oc=5)
+
+---
+
+### [« Le plus dur, c’est le regard des autres » : à 41 ans, atteinte de sclérose en plaques, elle raconte son quotidien - Le JSL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmU2YWg1eDdId1dfd2I4OXBJdVM2dzRwZ2JlRVFMZ01BMDg4QmZTc1RRSEhsUlJ1X1dNQmo0YlBoeVM3cFBITUdENjhNNm1oTTRXczlNc0xZbUIwS1dpRk9JUFdVdmZmcUYzcHRmNnNiUkNPUHZrNVNabEMzT0Q2dUR5eGxJSlQ2eEdwYTZONGhMamllY1hJTXgyazN1SUJ0SFFWbWlQOHVUTEZPT1FnYk5tOEN2aG1rbUYzRjhldFE5bng1RFRVQg?oc=5)
+
+2026-06-08 <span class="news-indication-tag">MS</span>
+
+來源：[Le JSL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmU2YWg1eDdId1dfd2I4OXBJdVM2dzRwZ2JlRVFMZ01BMDg4QmZTc1RRSEhsUlJ1X1dNQmo0YlBoeVM3cFBITUdENjhNNm1oTTRXczlNc0xZbUIwS1dpRk9JUFdVdmZmcUYzcHRmNnNiUkNPUHZrNVNabEMzT0Q2dUR5eGxJSlQ2eEdwYTZONGhMamllY1hJTXgyazN1SUJ0SFFWbWlQOHVUTEZPT1FnYk5tOEN2aG1rbUYzRjhldFE5bng1RFRVQg?oc=5)
+
+---
+
+### [Darm-Gehirn-Achse: Propionsäure steigert MS-Abwehrzellen um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
+
+2026-06-08 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
 
 ---
 
 ### [Sepsis: Deutschland hat ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
 
-2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-07 <span class="news-indication-tag">MS</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
 
@@ -78,11 +134,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Vacunas para el ébola - La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+### [You don’t need to lift weights for strength training – these exercises count too - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
 
-2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbkRyc1hodXlRcDZVRGtHM29XLWJhX1NycFNqZExNaEJJeU51bGx3eXJOcTNYVmdMb0ZuUDE3RWszMVBUOTBqTkJtUURyaEttU0U5R2Y2S0lXdUlqWFRtWk9nbWJkdWIzNng2aTdLR053a3RBWmNLb3NicTZqNjlTc2prQnZPZGPSAZsBQVVfeXFMTlJFVjhDc3JGNEVtTWhaODJndHZwcDZlU0hOWFZMaWRycC1WYnBQR0xaQ0ZCT3BrTlhqUlRESzFKc3lFUGh2VkFPUngtSVJkQmtkVktfY2lPQ1I1WXdOY1R1XzVBM053OTdhcnZNUTNqV05NVmNyV3RRUVowaDNqc2Y3b2FTNkpTbkZEOEFseE9icjExdFlKa0o3SE0?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNXzUzelJYb2IzTTdTZUpaRDI4TmJfOURDU193STE1dk5VUVhsU3pzaHRtWlNJMS12dm1oMTVSeTdmWGV3am5heUFyS0dqYklSM2Q2UC1CSTZKODAwQ0FDWmM2N3FFRkVyalZCMVdFMFRjU25BNEVtUm4tZlJ6b3ZMSy1tYk9JU1hBWnhoVGJZSGVPbTRjMDlHekhJOTdxYVFjWjhhRXdR?oc=5)
 
 ---
 
@@ -91,14 +147,6 @@ permalink: /news/teriflunomide/
 2026-06-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Business Insider Africa](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVOM0N6V0NOckRKcUd0VHZoR1pFMkNpSXByWUNpWnNJbWVVZ0N3SDNJcGhOeFdQeVVJTFJQQk52RlNjZ1RnTTBHOVNTbURkaXo5aVEycW85Uzl4YVRUQlctendZRWdKQzduNG8wNUx3U2hUS3l6ci1pVl9lVVRYTTZiMEVXQmI2VlV1c1B4UWtkYVNSc00tQUxicVBNMnJDLWhZMkNoejhwVVN3bFY5YUpuMkw2dV9iNUxKbkVfRkxrZ0F6TVdZRlVmTTVSN25nQlRoTDZPUlN6QQ?oc=5)
-
----
-
-### [La Región de Murcia registró 75 nuevos diagnósticos de hepatitis C en 2025, la cifra más baja desde 2013 - La Verdad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFRjUlgtNkZiNktNVTFwbE5jZEFsZy1UdDJSd0NJY05GWDRaZGxjLUhZVDg0N0JLVWFVaVhqVW1QOXNGaHFwMEs2a0tSRU9EXzZCeC0yU1JYVDRlclFvdW5sQVp3bThIMi11aEdBNWtBbE5UaUVrV29xSDlpN1ZHbEpmVGxjZmVZMnBVQzMwTVItaURXT0NmdUdhT3gtX052UlRKamZZMnNlX3dNQlZZN9IBtgFBVV95cUxQVEdtaDBuUXV4dmRjVnJGRlJXdEVUV09SOXVweFAyM1BwRjVHallxRk5Ic2FZaHhjcHc0OW4yT183ZWJvRzFUeTR3U3kzYkluTVBHZWNGc1ZlaU9NbTB2Z1R3Z0ZqdUpsOVE5T09fZHI4QzJUX0J2RDZjenJQZGhGQm80bVhrUVFLTEM4SmlWNzVUWXVTV1FySGs4XzdCTXh4VWhxbWxFOWZBNGo1bGRpNXprQWQwQQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">hepatitis</span>
-
-來源：[La Verdad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFRjUlgtNkZiNktNVTFwbE5jZEFsZy1UdDJSd0NJY05GWDRaZGxjLUhZVDg0N0JLVWFVaVhqVW1QOXNGaHFwMEs2a0tSRU9EXzZCeC0yU1JYVDRlclFvdW5sQVp3bThIMi11aEdBNWtBbE5UaUVrV29xSDlpN1ZHbEpmVGxjZmVZMnBVQzMwTVItaURXT0NmdUdhT3gtX052UlRKamZZMnNlX3dNQlZZN9IBtgFBVV95cUxQVEdtaDBuUXV4dmRjVnJGRlJXdEVUV09SOXVweFAyM1BwRjVHallxRk5Ic2FZaHhjcHc0OW4yT183ZWJvRzFUeTR3U3kzYkluTVBHZWNGc1ZlaU9NbTB2Z1R3Z0ZqdUpsOVE5T09fZHI4QzJUX0J2RDZjenJQZGhGQm80bVhrUVFLTEM4SmlWNzVUWXVTV1FySGs4XzdCTXh4VWhxbWxFOWZBNGo1bGRpNXprQWQwQQ?oc=5)
 
 ---
 
@@ -115,22 +163,6 @@ permalink: /news/teriflunomide/
 2026-06-06 <span class="news-indication-tag">hepatitis</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaW92aVFZSlN1ZkZZdGZxUjJfa2J5Tk9rUDNMa2NrUTUwcDZGbTRaZDBTTzlocEh1LUZfbUx1NjJMUUdzdXg4d3R6ZGtoVkpVZXVMVGVJQWd6aDdES3NtdG9RcFZXQWtNOGVHSkxIN3RSR1JhNUtXd2RPWDIyX2hReHJRdjNGSnlBeW4yVVJhQ2ZJSFdxX2tMSFBPbVV1R1ZzQjYxejg2WFJmams?oc=5)
-
----
-
-### [Un hallazgo accidental cambia lo que se creía sobre la gripe y abre la puerta a nuevos tratamientos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQUxxeTBSeXBHb3VLa3hnSzVhSTVtOXFrT0hzQV9vSWVqZjd2T05iR0JnZ3dJcEstc3J3N1B1X08takZtN1JTMXpVSThZbzRUTUJoS3ViUTVmM2FBMzJ2UjBmRlotMXFIdklRRE1Mb0xMS2E3RDNGRTJROVp3VXVLcVY4YUVCMUZxWHBWcFJuWUVEQzJoS191ZGZiWU1pby16Y1NKR2F4RlJVWEItR0NBRnV0empjUFJxUnVHOHpRMmZtRGlfYnA2UHlvNUNNS3plZDRtSWNISW42NmNGcGd6Yy1vY0VLOXlSQnduc3VBV3AzYllwa0E?oc=5)
-
-2026-06-06 <span class="news-indication-tag">MS</span>
-
-來源：[msn.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQUxxeTBSeXBHb3VLa3hnSzVhSTVtOXFrT0hzQV9vSWVqZjd2T05iR0JnZ3dJcEstc3J3N1B1X08takZtN1JTMXpVSThZbzRUTUJoS3ViUTVmM2FBMzJ2UjBmRlotMXFIdklRRE1Mb0xMS2E3RDNGRTJROVp3VXVLcVY4YUVCMUZxWHBWcFJuWUVEQzJoS191ZGZiWU1pby16Y1NKR2F4RlJVWEItR0NBRnV0empjUFJxUnVHOHpRMmZtRGlfYnA2UHlvNUNNS3plZDRtSWNISW42NmNGcGd6Yy1vY0VLOXlSQnduc3VBV3AzYllwa0E?oc=5)
-
----
-
-### [Ricardo Ruiz, dermatólogo: «La piel no es solo estética, refleja cómo envejece el organismo» - El Debate](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTVsOVFJRDVMclZoRGJpU1U3dkRHcDM5b0ZFc3BPUl9zaHRpZVdVYmpjT05mVHBIYnl1VWl0MlNJMGZsaDNrZUhZQjE1RHVkLVRZVkpzWVNfZ3Z3VjdRUUp3VmNDSE0zMUJ6djJiN1psLXViTzIwV0JGdWpXQlJ1Q0tYdU50TGdnZTJ5QndORk1SSkwxZGZ1RTJXWUlfR0l4WDF4VUx2RkNwbS1maUtZU0hRcVhqeTlSNjJsb2JpRnNKLTZpRERSSVMxNENfRzJnVUdKM3Q2TEFKSkNfWW9UVm1CZ0lId03SAewBQVVfeXFMT2ZXYXFMeGg0ZzJnTjhzUUFibUUyNlVTOHd6dHJzZkRwRmtOaEU0QzN5TFdjZjFrWnVreE9fWGlKRHRvU1JLclo5aEZTTlRLdk1FaWxYeXBjaFVkR3lIZWxabUZFQnRqM1FGemxhRmZ2SVhGVmx2LVJNb2VQdDRKT2xlSGJKOHhGeFlVSm9EYTNsREhpd3JqV0s5ZExNZkZfNGFVSEszNlZKU1ZjeFQ0MG1xczBmSnUwUUgzY21jUGtkMjBEZFBIZW9Ldi1jX1czR0RCdjl1eW5COTRvUi1fZG9DUlRHWDZGaFlwMTk?oc=5)
-
-2026-06-06 <span class="news-indication-tag">MS</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTVsOVFJRDVMclZoRGJpU1U3dkRHcDM5b0ZFc3BPUl9zaHRpZVdVYmpjT05mVHBIYnl1VWl0MlNJMGZsaDNrZUhZQjE1RHVkLVRZVkpzWVNfZ3Z3VjdRUUp3VmNDSE0zMUJ6djJiN1psLXViTzIwV0JGdWpXQlJ1Q0tYdU50TGdnZTJ5QndORk1SSkwxZGZ1RTJXWUlfR0l4WDF4VUx2RkNwbS1maUtZU0hRcVhqeTlSNjJsb2JpRnNKLTZpRERSSVMxNENfRzJnVUdKM3Q2TEFKSkNfWW9UVm1CZ0lId03SAewBQVVfeXFMT2ZXYXFMeGg0ZzJnTjhzUUFibUUyNlVTOHd6dHJzZkRwRmtOaEU0QzN5TFdjZjFrWnVreE9fWGlKRHRvU1JLclo5aEZTTlRLdk1FaWxYeXBjaFVkR3lIZWxabUZFQnRqM1FGemxhRmZ2SVhGVmx2LVJNb2VQdDRKT2xlSGJKOHhGeFlVSm9EYTNsREhpd3JqV0s5ZExNZkZfNGFVSEszNlZKU1ZjeFQ0MG1xczBmSnUwUUgzY21jUGtkMjBEZFBIZW9Ldi1jX1czR0RCdjl1eW5COTRvUi1fZG9DUlRHWDZGaFlwMTk?oc=5)
 
 ---
 

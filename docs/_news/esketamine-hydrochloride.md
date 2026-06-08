@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Darm-Gehirn-Achse: Propionsäure steigert MS-Abwehrzellen um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
+
+2026-06-08 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
+
+---
+
+### [Les médecins ont tranché : cette boisson du matin qu'on adore abîme pourtant le cerveau chaque jour](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
+
+2026-06-06 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
+
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhEX0p6Y0hLSl9sRm1BOXhWZHdLUXp4WjFOUnc4VEdPakk5Zl92MFNacHByMjVyQ0pNQ0t3Qk1JM3djcVJURmdlanU0UnJlV1pOWTFKTFU3OVdYTFZGcmVNWllDcUl1TnpvVkRGdUFIcmhNRWNKV1RuSU1WY0xXdXpBT0MzdWhoMzRHVjI5UW5yLW0yem43WEJlU1h4cHpQNGNwT1JfNkhZSUtXdFpjWkN5TWFJdU1JRGxuM3BaRDFpNUlQNEUwdzQ4QnV4UzhRcjVPRU9FX3VyZlFUZzlHWlZvWjRUVUE?oc=5)
+
+---
 
 
 <div class="disclaimer">

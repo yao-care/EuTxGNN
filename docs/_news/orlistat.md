@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [La doctora Triviño explica por qué aumenta el riesgo cardiovascular durante la menopausia - El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3IwRXJ6Yl9Ob2UzVzV0T1VKRE9jbUVFWEVIc2lfSjZxMkcwZXRtSWg0dUdvMjI5Q1RTcU9tVndQZ3VjdFdyMUZoQTRjUnM3c1J4TnlfLTEwUEI0Vy1wVFRtbDg2Wk1HY0Z0UFdIYWJPMXNNU1VHY0FZMXhKdEYtR05COHk2dGJCeW5DdjEyMkttWTMzVFVtSFpDaWc2bGRCQ1pZdkx3S2MzWnc3Qks4a3pIZTJkR2s5elBheEJLcEczbEFjdFZhQWJhYUtidjdRV0Y1OGU2V1dzd9IB3wFBVV95cUxNb3U0TmMwZ3p6d2pDTUt0dzdyS0o4ZldZbTZaYl9Nam9mVjZPWFZEVGRfdGlXVDFYajBWWnBkb2dyY2JtZ2xtb012SlozWVI5LWdLM3dTR3Fwc0t1UVdVQWhRT3AtVERabHNfejU5c0lhTjkxX2FESldhWDNBbURrSHFWVURYVWRsM1ZWNUdUUjNCWFpkN2tHUzVjZ05hYURLVDE0YXdzTjRMSjNvTVZIaXZFWE5wRVRjNlFodENzTG8xR2pDd2JpSGVfWEFULUJlekxzODNsZVNkdU9uU3Rv?oc=5)
+### [¿Es verdad que los adultos no pueden digerir la leche? - Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
 
-2026-06-07 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3IwRXJ6Yl9Ob2UzVzV0T1VKRE9jbUVFWEVIc2lfSjZxMkcwZXRtSWg0dUdvMjI5Q1RTcU9tVndQZ3VjdFdyMUZoQTRjUnM3c1J4TnlfLTEwUEI0Vy1wVFRtbDg2Wk1HY0Z0UFdIYWJPMXNNU1VHY0FZMXhKdEYtR05COHk2dGJCeW5DdjEyMkttWTMzVFVtSFpDaWc2bGRCQ1pZdkx3S2MzWnc3Qks4a3pIZTJkR2s5elBheEJLcEczbEFjdFZhQWJhYUtidjdRV0Y1OGU2V1dzd9IB3wFBVV95cUxNb3U0TmMwZ3p6d2pDTUt0dzdyS0o4ZldZbTZaYl9Nam9mVjZPWFZEVGRfdGlXVDFYajBWWnBkb2dyY2JtZ2xtb012SlozWVI5LWdLM3dTR3Fwc0t1UVdVQWhRT3AtVERabHNfejU5c0lhTjkxX2FESldhWDNBbURrSHFWVURYVWRsM1ZWNUdUUjNCWFpkN2tHUzVjZ05hYURLVDE0YXdzTjRMSjNvTVZIaXZFWE5wRVRjNlFodENzTG8xR2pDd2JpSGVfWEFULUJlekxzODNsZVNkdU9uU3Rv?oc=5)
-
----
-
-### [El 90% de los factores de riesgo asociados al ictus se pueden modificar - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxPTnB4emF4ZVljTzQ4TEJrS3NWT1VqeFRvY2hQOGdTbjV3Ti1uR1dlc1g3RHd0SlRhU09FNkh5dTNLQlQ0dmROZmc4ZzNaUE9XeDd2aUdBUjZKNTEtenktRks4b0tBVU5YMUpodmQzSkgzWXc3SFY1b2lCcGNIZXRoWE8waXBKNS1OQ3Q2NThhdmlDV1UzVzV5azYyWngyd9IBowFBVV95cUxPOXdLTU9aSjg3cFNyX2g5Q0F5NjlwWXFzUE9mZVEyQ2Rla3NNWlBmUW8zMmZQczBxU2JBZVo5WUVaT2tkRmc3Y0R5aHlFYjlmcnQ3elF1SXJYLWV5ZWNqb015NFR2WDNvY2tYcFFtOG9ETHRwejhlM2h1bmxtang4OHgxeDFXWklIbHhkaEFxQWUyNWRRb2x1YXFNVlRTRGMzS0w0?oc=5)
-
-2026-06-06 <span class="news-indication-tag">ictus</span>
-
-來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxPTnB4emF4ZVljTzQ4TEJrS3NWT1VqeFRvY2hQOGdTbjV3Ti1uR1dlc1g3RHd0SlRhU09FNkh5dTNLQlQ0dmROZmc4ZzNaUE9XeDd2aUdBUjZKNTEtenktRks4b0tBVU5YMUpodmQzSkgzWXc3SFY1b2lCcGNIZXRoWE8waXBKNS1OQ3Q2NThhdmlDV1UzVzV5azYyWngyd9IBowFBVV95cUxPOXdLTU9aSjg3cFNyX2g5Q0F5NjlwWXFzUE9mZVEyQ2Rla3NNWlBmUW8zMmZQczBxU2JBZVo5WUVaT2tkRmc3Y0R5aHlFYjlmcnQ3elF1SXJYLWV5ZWNqb015NFR2WDNvY2tYcFFtOG9ETHRwejhlM2h1bmxtang4OHgxeDFXWklIbHhkaEFxQWUyNWRRb2x1YXFNVlRTRGMzS0w0?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
 
 ---
 
-### [Lilly impulsa "Razones de Peso" para visibilizar la obesidad - Revista Pharma Market](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2JIRE1abGQwZG5XRWxJa3laZ1pielFLNmtfMjRuYk5EVkh4ck1HNnRVWDBjXzlkLVAyLTdpTUdDN0MwQkFLamRjSkZ4WTZjRUdTUTh2ZjYzclpTWjRSNjhUS200cGd1MEJfM1h1Zk43NVZPc2llUnRvRmtZeWxwWGtqOExLYzVuQ1YyWG9BX0FsQVFBbnJr?oc=5)
+### [Cristina Petratti: “No podemos reducir el problema de la obesidad a comer menos y moverse más" - Men's Health](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYVQ0VkdZMFNMemxDcnRLNHEzSmkyTkdhcTRtbF9ERVpyajhfU2NKZUw0VUQyQnRIcjB2SDlYc2ZQeHJwWWRNc2RnaFVUbWttQi1LQUUzem9VVE1rYlNRNHozejNDbG9tV0xRREUyZ0s2aFVtSWo1SnN5ekJxejRaMm5uNm15NEhyaGduVjZSNzJPTWgyRkdPRWs1UW53LS1UZzFEb3ppeXpOOFNVbm11NkFjUy1YbldfeUhua2kwVkl1TnRpWHhTNnBEUk95VXRVV2xrMWJ4Xy0zTUY5UzIwc0NRMjRpOEwyV2hFQ2JFUWx5d0lvalVCTkRn?oc=5)
 
-2026-06-06 <span class="news-indication-tag">obesidad</span>
+2026-06-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2JIRE1abGQwZG5XRWxJa3laZ1pielFLNmtfMjRuYk5EVkh4ck1HNnRVWDBjXzlkLVAyLTdpTUdDN0MwQkFLamRjSkZ4WTZjRUdTUTh2ZjYzclpTWjRSNjhUS200cGd1MEJfM1h1Zk43NVZPc2llUnRvRmtZeWxwWGtqOExLYzVuQ1YyWG9BX0FsQVFBbnJr?oc=5)
+來源：[Men's Health](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYVQ0VkdZMFNMemxDcnRLNHEzSmkyTkdhcTRtbF9ERVpyajhfU2NKZUw0VUQyQnRIcjB2SDlYc2ZQeHJwWWRNc2RnaFVUbWttQi1LQUUzem9VVE1rYlNRNHozejNDbG9tV0xRREUyZ0s2aFVtSWo1SnN5ekJxejRaMm5uNm15NEhyaGduVjZSNzJPTWgyRkdPRWs1UW53LS1UZzFEb3ppeXpOOFNVbm11NkFjUy1YbldfeUhua2kwVkl1TnRpWHhTNnBEUk95VXRVV2xrMWJ4Xy0zTUY5UzIwc0NRMjRpOEwyV2hFQ2JFUWx5d0lvalVCTkRn?oc=5)
 
 ---
 

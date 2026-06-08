@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El 90% de los factores de riesgo asociados al ictus se pueden modificar - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxPTnB4emF4ZVljTzQ4TEJrS3NWT1VqeFRvY2hQOGdTbjV3Ti1uR1dlc1g3RHd0SlRhU09FNkh5dTNLQlQ0dmROZmc4ZzNaUE9XeDd2aUdBUjZKNTEtenktRks4b0tBVU5YMUpodmQzSkgzWXc3SFY1b2lCcGNIZXRoWE8waXBKNS1OQ3Q2NThhdmlDV1UzVzV5azYyWngyd9IBowFBVV95cUxPOXdLTU9aSjg3cFNyX2g5Q0F5NjlwWXFzUE9mZVEyQ2Rla3NNWlBmUW8zMmZQczBxU2JBZVo5WUVaT2tkRmc3Y0R5aHlFYjlmcnQ3elF1SXJYLWV5ZWNqb015NFR2WDNvY2tYcFFtOG9ETHRwejhlM2h1bmxtang4OHgxeDFXWklIbHhkaEFxQWUyNWRRb2x1YXFNVlRTRGMzS0w0?oc=5)
-
-2026-06-06 <span class="news-indication-tag">ictus</span>
-
-來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxPTnB4emF4ZVljTzQ4TEJrS3NWT1VqeFRvY2hQOGdTbjV3Ti1uR1dlc1g3RHd0SlRhU09FNkh5dTNLQlQ0dmROZmc4ZzNaUE9XeDd2aUdBUjZKNTEtenktRks4b0tBVU5YMUpodmQzSkgzWXc3SFY1b2lCcGNIZXRoWE8waXBKNS1OQ3Q2NThhdmlDV1UzVzV5azYyWngyd9IBowFBVV95cUxPOXdLTU9aSjg3cFNyX2g5Q0F5NjlwWXFzUE9mZVEyQ2Rla3NNWlBmUW8zMmZQczBxU2JBZVo5WUVaT2tkRmc3Y0R5aHlFYjlmcnQ3elF1SXJYLWV5ZWNqb015NFR2WDNvY2tYcFFtOG9ETHRwejhlM2h1bmxtang4OHgxeDFXWklIbHhkaEFxQWUyNWRRb2x1YXFNVlRTRGMzS0w0?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

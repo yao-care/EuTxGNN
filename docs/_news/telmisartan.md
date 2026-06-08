@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Bluthochdruck: 50% der Patienten nehmen Medikamente unregelmäßig - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/telmisartan/
 2026-06-06 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbldjZGpyMGlVSGthWGdzMWJXeE12MXVYQ2g1ZDE2LU5BT3dDejJLYkZWSkhyTExLRG5oSGxzLVpVUENKRlJuVnFuTVhYYmx2UVN1MWhkVHdKTEx3dVJCVVJjX0JsU1JhN2p4NnJOS0Q3bm12TF9GdHpDR3E4ZEFBWmt1c0FfUWozdHZsMmZ1Sy1NYnk2LVlwNHZBNTNrQ01wcFBwZzFvZGVwMnpsdG1YLW1NUE4?oc=5)
-
----
-
-### [El 90% de los factores de riesgo asociados al ictus se pueden modificar - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxPTnB4emF4ZVljTzQ4TEJrS3NWT1VqeFRvY2hQOGdTbjV3Ti1uR1dlc1g3RHd0SlRhU09FNkh5dTNLQlQ0dmROZmc4ZzNaUE9XeDd2aUdBUjZKNTEtenktRks4b0tBVU5YMUpodmQzSkgzWXc3SFY1b2lCcGNIZXRoWE8waXBKNS1OQ3Q2NThhdmlDV1UzVzV5azYyWngyd9IBowFBVV95cUxPOXdLTU9aSjg3cFNyX2g5Q0F5NjlwWXFzUE9mZVEyQ2Rla3NNWlBmUW8zMmZQczBxU2JBZVo5WUVaT2tkRmc3Y0R5aHlFYjlmcnQ3elF1SXJYLWV5ZWNqb015NFR2WDNvY2tYcFFtOG9ETHRwejhlM2h1bmxtang4OHgxeDFXWklIbHhkaEFxQWUyNWRRb2x1YXFNVlRTRGMzS0w0?oc=5)
-
-2026-06-06 <span class="news-indication-tag">ictus</span>
-
-來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxPTnB4emF4ZVljTzQ4TEJrS3NWT1VqeFRvY2hQOGdTbjV3Ti1uR1dlc1g3RHd0SlRhU09FNkh5dTNLQlQ0dmROZmc4ZzNaUE9XeDd2aUdBUjZKNTEtenktRks4b0tBVU5YMUpodmQzSkgzWXc3SFY1b2lCcGNIZXRoWE8waXBKNS1OQ3Q2NThhdmlDV1UzVzV5azYyWngyd9IBowFBVV95cUxPOXdLTU9aSjg3cFNyX2g5Q0F5NjlwWXFzUE9mZVEyQ2Rla3NNWlBmUW8zMmZQczBxU2JBZVo5WUVaT2tkRmc3Y0R5aHlFYjlmcnQ3elF1SXJYLWV5ZWNqb015NFR2WDNvY2tYcFFtOG9ETHRwejhlM2h1bmxtang4OHgxeDFXWklIbHhkaEFxQWUyNWRRb2x1YXFNVlRTRGMzS0w0?oc=5)
 
 ---
 
