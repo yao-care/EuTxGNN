@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Las mujeres con la menopausia adelantada tienen mayor riesgo de padecer un ictus o un infarto - EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+
+---
+
+### [‘Stroke and brain injury? We are potentially sitting on a time bomb’ - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
+
+2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
+
+---
 
 ### [Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
 

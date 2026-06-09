@@ -54,6 +54,14 @@ permalink: /news/angiotensin-ii-acetate/
 
 ## 相關新聞（7 則）
 
+### [La diabetes gestacional afecta al 10% de las embarazadas y puede marcar la salud del bebé - Diario Sur](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Q5Z3JTN2pTeHdxclpCYXR5Z09lclZaZDlSeHdlVkY4N1NhdzlnT3lvU3ZFdkVmRDAzeEVTZnhnMldwNS1aR3phcDhELTJSVEk4TkowcVBMMHdlTlVVaElhTWk1S2pzN1FDMWt3ckUtcTJmd2pPNVJVRmxDYVQ0NVpsRlZHb29pTDB6dXA5WndOSDMxUllGaGYxMC1SamtrX0U1SFVNcXZ3WWJqOFVaZzJMc1VUOEF1RUhVYTBR0gHDAUFVX3lxTFAwdThnOU5xd0lfbFN4V0VzMUVSZ1FXMU1aajkyRmhjS19PeE8waC1yV0pfQy10eHA5UEpVNTJYTHBxNl9fMkRxNGVNYThDaTEtREV2bk9BcHlwdHRZcmotUmJjbmlUeTdvSzh2SWd6NXA5Q3ZJVll5VklNc3Z6eE9KX2VDQzBhbFQ3QnN1cjIyb1NBeGdjejN5OHpwaGdsZlZPUVBMTDZ4NjlIa3YwN3F1a2s1UnJEVnFtWFZ3ZXFfWFRLRQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Q5Z3JTN2pTeHdxclpCYXR5Z09lclZaZDlSeHdlVkY4N1NhdzlnT3lvU3ZFdkVmRDAzeEVTZnhnMldwNS1aR3phcDhELTJSVEk4TkowcVBMMHdlTlVVaElhTWk1S2pzN1FDMWt3ckUtcTJmd2pPNVJVRmxDYVQ0NVpsRlZHb29pTDB6dXA5WndOSDMxUllGaGYxMC1SamtrX0U1SFVNcXZ3WWJqOFVaZzJMc1VUOEF1RUhVYTBR0gHDAUFVX3lxTFAwdThnOU5xd0lfbFN4V0VzMUVSZ1FXMU1aajkyRmhjS19PeE8waC1yV0pfQy10eHA5UEpVNTJYTHBxNl9fMkRxNGVNYThDaTEtREV2bk9BcHlwdHRZcmotUmJjbmlUeTdvSzh2SWd6NXA5Q3ZJVll5VklNc3Z6eE9KX2VDQzBhbFQ3QnN1cjIyb1NBeGdjejN5OHpwaGdsZlZPUVBMTDZ4NjlIa3YwN3F1a2s1UnJEVnFtWFZ3ZXFfWFRLRQ?oc=5)
+
+---
+
 ### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
@@ -99,14 +107,6 @@ permalink: /news/angiotensin-ii-acetate/
 2026-06-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
-
----
-
-### [Marcado CE para la primera tecnología de detección dual de glucosa y cuerpos cetónicos en diabetes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [La diabetes gestacional afecta al 10% de las embarazadas y puede marcar la salud del bebé - Diario Sur](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Q5Z3JTN2pTeHdxclpCYXR5Z09lclZaZDlSeHdlVkY4N1NhdzlnT3lvU3ZFdkVmRDAzeEVTZnhnMldwNS1aR3phcDhELTJSVEk4TkowcVBMMHdlTlVVaElhTWk1S2pzN1FDMWt3ckUtcTJmd2pPNVJVRmxDYVQ0NVpsRlZHb29pTDB6dXA5WndOSDMxUllGaGYxMC1SamtrX0U1SFVNcXZ3WWJqOFVaZzJMc1VUOEF1RUhVYTBR0gHDAUFVX3lxTFAwdThnOU5xd0lfbFN4V0VzMUVSZ1FXMU1aajkyRmhjS19PeE8waC1yV0pfQy10eHA5UEpVNTJYTHBxNl9fMkRxNGVNYThDaTEtREV2bk9BcHlwdHRZcmotUmJjbmlUeTdvSzh2SWd6NXA5Q3ZJVll5VklNc3Z6eE9KX2VDQzBhbFQ3QnN1cjIyb1NBeGdjejN5OHpwaGdsZlZPUVBMTDZ4NjlIa3YwN3F1a2s1UnJEVnFtWFZ3ZXFfWFRLRQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Q5Z3JTN2pTeHdxclpCYXR5Z09lclZaZDlSeHdlVkY4N1NhdzlnT3lvU3ZFdkVmRDAzeEVTZnhnMldwNS1aR3phcDhELTJSVEk4TkowcVBMMHdlTlVVaElhTWk1S2pzN1FDMWt3ckUtcTJmd2pPNVJVRmxDYVQ0NVpsRlZHb29pTDB6dXA5WndOSDMxUllGaGYxMC1SamtrX0U1SFVNcXZ3WWJqOFVaZzJMc1VUOEF1RUhVYTBR0gHDAUFVX3lxTFAwdThnOU5xd0lfbFN4V0VzMUVSZ1FXMU1aajkyRmhjS19PeE8waC1yV0pfQy10eHA5UEpVNTJYTHBxNl9fMkRxNGVNYThDaTEtREV2bk9BcHlwdHRZcmotUmJjbmlUeTdvSzh2SWd6NXA5Q3ZJVll5VklNc3Z6eE9KX2VDQzBhbFQ3QnN1cjIyb1NBeGdjejN5OHpwaGdsZlZPUVBMTDZ4NjlIa3YwN3F1a2s1UnJEVnFtWFZ3ZXFfWFRLRQ?oc=5)
+
+---
 
 ### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
@@ -86,6 +94,14 @@ permalink: /news/sacubitril/
 
 ---
 
+### [Damián Duartes, reumatólogo: “Cuando una articulación se inflama, le llamamos artritis. La artrosis aparece a medida que vamos creciendo” - La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
+
+2026-06-07 <span class="news-indication-tag">artritis</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
+
+---
+
 ### [La personalización de parámetros y objetivos, clave para optimizar el uso de myLoop powered by CamAPS FX en niños y adolescentes con diabetes tipo 1](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
 
 2026-06-07 <span class="news-indication-tag">diabetes</span>
@@ -107,14 +123,6 @@ permalink: /news/sacubitril/
 2026-06-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
-
----
-
-### [Marcado CE para la primera tecnología de detección dual de glucosa y cuerpos cetónicos en diabetes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
 
 ---
 

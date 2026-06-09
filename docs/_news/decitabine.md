@@ -14,7 +14,7 @@ permalink: /news/decitabine/
 ---
 
 <p class="key-answer" data-question="Decitabine 有什麼相關新聞？">
-<strong>Decitabine</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Decitabine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/decitabine/
 <p><a href="{{ '/drugs/decitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（22 則）
 
 ### [Krebs: Durchbruch in der Forschung – Neue Ergebnisse im Kampf gegen Krebs-Rückfälle](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
 
-2026-06-08 <span class="news-indication-tag">Krebs</span>
+2026-06-09 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
 
 ---
 
-### [Richard Scolyer, acclaimed melanoma researcher who tried experimental treatment on his own brain cancer – obituary - The Guardian](https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHpGNUg3N3ZBWnluNkJNVFE3MUs0VzlZMHIwQmtaNktFUkJWSTl0bl9DdFBoX3doWHlDdHl4T3BFWHdtcm5ib2Z0aFdKR1d0ak5LdzN4V1ppWTR1TktoOXRPY01oWmU3WWloSFlKanZhSGpPUVl0WWU4U2ZPenBJQnI1UXFScDIwMXBNOFl3dlRiRUZteWd0RktwOHJodWcyb2JMQVBoMjREZy1JYlU3al9RMXJScXZ5ZjRubmM5aGN1QjUxMHMw?oc=5)
+### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">cancer</span>
+2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHpGNUg3N3ZBWnluNkJNVFE3MUs0VzlZMHIwQmtaNktFUkJWSTl0bl9DdFBoX3doWHlDdHl4T3BFWHdtcm5ib2Z0aFdKR1d0ak5LdzN4V1ppWTR1TktoOXRPY01oWmU3WWloSFlKanZhSGpPUVl0WWU4U2ZPenBJQnI1UXFScDIwMXBNOFl3dlRiRUZteWd0RktwOHJodWcyb2JMQVBoMjREZy1JYlU3al9RMXJScXZ5ZjRubmM5aGN1QjUxMHMw?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/decitabine/
 2026-06-08 <span class="news-indication-tag">tumor</span>
 
 來源：[COPE](https://news.google.com/rss/articles/CBMimgJBVV95cUxNem1lekpTQjdFTXRwd2Y5WTRaOHlpOFYwM2V3V1ByWkoxaE9tUEJPMmlmaVdyVDhBYnlPTmVBY1pIaU9TNDZOLURrSUliNThfQjBMTHVmQXh6UXJLLU9IRjlZNzRpcmdyOS10MWw2VkV6T3VlcmVGcFdyelFuOWI2V2FzaFhxM3RrWXdLLUNUYWRYTkxxTWxOU3ZET19mVnByVVQzeG5iU0NMRTctX0FvUFM2NXJQSnY1R2xYVzhSTkIteVJWZGliWTZka0xVVmhPSy14UEFJX18wVXZTMTlIbnJ2YkVldXloR041bWpuTEo4VUZOYmV0bWlQeWhxNVpYcFAxS0pCT0tJSGJjM25mRWxHS1RVNXVKdGfSAZ8CQVVfeXFMT002V3EzVlNid1RhaDVZWWJhbUE1TXhqRFA0QTExRTd6Y053QnZVNUhQQXN4aDBkYU5JQXNWWFU1TWV4WVhLMnFLT1BFS1lwLXIxUWFsQkR6LVdMakdTREVONjdtZGVOWWdXZnFoV0pkakxyNnQ0ZFdWUEtJb0JKcE5Rd21IRXpiSW5XeEtGcU1NbEpvVWNuRnlSOTk3WU1mb3pCSkRHcUxmUTJLNVhvaHgzam5VWjlreFRSd2t6ZFVzTmZWSFZRb0hNSC1OSHBBVTlVZmhJLVNzblk1dnRsOGEzWDR3blJCbHhSN0V4UE9udGl5X2pENExTM1JhQW5kZjhrMl9KOFlzRkFXM1l4Z043c01ITndycDR5S01qQ0k?oc=5)
+
+---
+
+### [Richard Scolyer, pathologist who was his own guinea pig as he fought brain cancer – obituary - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEE0VzJEUnlyNE9SQ3pyU2xTSTg2WVJnOHVUT0xNZUJJZXZLZW14VWZYZWRQYTVsbDFxYllrNDF1enAyUUhYa1BBSWNwSDA1UmJXUXJfQ3JUTy1TOVJHeWlkVjJCemxEM2pUY3hnTG9PdmFwUTNYdXlKMEVRb2dNRi1lYXd4R3FSVlEwT1JCS0t6cmhGZXU4ZjR6OWhIQ1JxeHl1bHk1dFlWYmp4XzNF?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEE0VzJEUnlyNE9SQ3pyU2xTSTg2WVJnOHVUT0xNZUJJZXZLZW14VWZYZWRQYTVsbDFxYllrNDF1enAyUUhYa1BBSWNwSDA1UmJXUXJfQ3JUTy1TOVJHeWlkVjJCemxEM2pUY3hnTG9PdmFwUTNYdXlKMEVRb2dNRi1lYXd4R3FSVlEwT1JCS0t6cmhGZXU4ZjR6OWhIQ1JxeHl1bHk1dFlWYmp4XzNF?oc=5)
 
 ---
 
@@ -88,7 +96,7 @@ permalink: /news/decitabine/
 
 ### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
@@ -118,11 +126,27 @@ permalink: /news/decitabine/
 
 ---
 
+### [Nuevo avance de la medicina de precisión que desarrolla tratamientos personalizados contra el cáncer de pulmón - Saber Vivir](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUFfTHlFcXJVcS1nT19lTktMZVBTNU8xV1FWc1RWbUNyTzFXa1JSZWJ4ZWUxNFlCdkZVNnlCRExMSXJKeEtnTFRiU2x4NzU2NTdiQS03WG92NlhSd2JDaFlhQ0xTbmJSUmI3VDI1ODVWb0Mwa1p4eDJaX1dUQ2FiYlZRQjV0RzZ4TmVNYnhFOV85OUNHaVRPYlRxQzVaTURrT2lFNGRmMlFlcTY4eHAzLUQxVVFpUHJEenRCV1R3YThhUXJieTAxNm10TnJiRXVmT0FuaWJia2ROdw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">tumor</span>
+
+來源：[Saber Vivir](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUFfTHlFcXJVcS1nT19lTktMZVBTNU8xV1FWc1RWbUNyTzFXa1JSZWJ4ZWUxNFlCdkZVNnlCRExMSXJKeEtnTFRiU2x4NzU2NTdiQS03WG92NlhSd2JDaFlhQ0xTbmJSUmI3VDI1ODVWb0Mwa1p4eDJaX1dUQ2FiYlZRQjV0RzZ4TmVNYnhFOV85OUNHaVRPYlRxQzVaTURrT2lFNGRmMlFlcTY4eHAzLUQxVVFpUHJEenRCV1R3YThhUXJieTAxNm10TnJiRXVmT0FuaWJia2ROdw?oc=5)
+
+---
+
 ### [Cancer : les « anticorps conjugués » vont-ils bientôt remplacer la chimiothérapie classique ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHBwTjB2ZG1FY2k5Mmtoel90dHVTemhMclpWVmJmZDNSZ0VjRWl5RlNySDY2Z0d1ODRaVGs1dS05Wi14Z043WHlfT3JCcnhoMUt3SjlZVGhiSERyZXZwUEFDLWkxekd5eS02cW1LVW5WUTRKWGYtUVpGdTEtX3ZsbFl4dXc4TS1DdmVXQjF0bnlHcC1OS0FoZjVzS0RkZUJsdllqNVNLNjJ6aXFDR1hUWUhSYWtmWWZQX0pLNGtfMk5XVkN3ODZ4WU9HbkhVZWF3WnFnTzZ0S2tvZw?oc=5)
 
 2026-06-08 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVHBwTjB2ZG1FY2k5Mmtoel90dHVTemhMclpWVmJmZDNSZ0VjRWl5RlNySDY2Z0d1ODRaVGs1dS05Wi14Z043WHlfT3JCcnhoMUt3SjlZVGhiSERyZXZwUEFDLWkxekd5eS02cW1LVW5WUTRKWGYtUVpGdTEtX3ZsbFl4dXc4TS1DdmVXQjF0bnlHcC1OS0FoZjVzS0RkZUJsdllqNVNLNjJ6aXFDR1hUWUhSYWtmWWZQX0pLNGtfMk5XVkN3ODZ4WU9HbkhVZWF3WnFnTzZ0S2tvZw?oc=5)
+
+---
+
+### [Morto Richard Scolyer: sfidò il glioblastoma con una cura innovativa su se stesso](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGpIWHRYSXgyWVVGclNVaHdPMFVDbldvRUozbjlZZVhfYWV5OTFuRFFqR2lMeEFSaU9qdXl0QlBQWjRfbmFiLTgyQUVyeUlRTUd6WlBwT0o5SkFBekcxS3h0U0RZNGIyTWVlQzdLRWpMejkweVQ0cmNxTy16VmFMTGdlZDZ0UUt0c1ZZejRuZzZQeThRYmpyeV9iZVlLXy1nQVpTZlFCMlFTNVc0X25ETkctMlJzcDV3ZmFrdWo3YnFwMzM5ODN3aENWb2lJQ2tCNV9COUdFUW1wUQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">tumor</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGpIWHRYSXgyWVVGclNVaHdPMFVDbldvRUozbjlZZVhfYWV5OTFuRFFqR2lMeEFSaU9qdXl0QlBQWjRfbmFiLTgyQUVyeUlRTUd6WlBwT0o5SkFBekcxS3h0U0RZNGIyTWVlQzdLRWpMejkweVQ0cmNxTy16VmFMTGdlZDZ0UUt0c1ZZejRuZzZQeThRYmpyeV9iZVlLXy1nQVpTZlFCMlFTNVc0X25ETkctMlJzcDV3ZmFrdWo3YnFwMzM5ODN3aENWb2lJQ2tCNV9COUdFUW1wUQ?oc=5)
 
 ---
 
@@ -171,14 +195,6 @@ permalink: /news/decitabine/
 2026-06-08 <span class="news-indication-tag">cancer</span>
 
 來源：[El Confidencial](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwVzZRVWJHVkpjNGFKWXlhbHVEaVgwekNXUXRWbndoX0ZsbkhCdjBYNU1DTFdPR0gxRHZRdF9FTFFTMWwwdzdwZGtyQ1JjYVpuZUF1cU1EV3ZzbExxXy05UTNUU2Ewbkp5ZTVYYTM3eWRhR084THYtbnJ3WnR5clFMXzN0RWJKNTY5bW9TTWRZZ25rOWV1dXV3Q2s0aUpCdVdPRHVhbUdHaTY3X2U5b255MA?oc=5)
-
----
-
-### [Eliminar las 'capas de invisibilidad' y la saltarse la quimioterapia de forma segura: nuevas armas en la lucha contra el cáncer](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNlgzanZOb3o2M1JmN1pVTDI4UG4wQXlnOWZveDlHR0d4LTVaLTBlc08tWkladUk3VzFWMTg0UVlTSFVVWjc3Rk1Iejh3bTNkRGdGUkVYVGRKNExqZW1UX3hMY0F4cWdKUUlUU2s3Nm9iWWdpcGNfS2xYOHpDdDJ5elhkN3RudnU0VGFaXzFzZ3JfTFRSSnZUWjNybjFOTk1ySEV1MkR4enFwcDFieUxBMUxLbEoyeXhZZFFGUm53eUc3WWVUTV8tY3JNUFAyb0lranhtcnVDWnZWajlPZDZGZw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cancer</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNlgzanZOb3o2M1JmN1pVTDI4UG4wQXlnOWZveDlHR0d4LTVaLTBlc08tWkladUk3VzFWMTg0UVlTSFVVWjc3Rk1Iejh3bTNkRGdGUkVYVGRKNExqZW1UX3hMY0F4cWdKUUlUU2s3Nm9iWWdpcGNfS2xYOHpDdDJ5elhkN3RudnU0VGFaXzFzZ3JfTFRSSnZUWjNybjFOTk1ySEV1MkR4enFwcDFieUxBMUxLbEoyeXhZZFFGUm53eUc3WWVUTV8tY3JNUFAyb0lranhtcnVDWnZWajlPZDZGZw?oc=5)
 
 ---
 

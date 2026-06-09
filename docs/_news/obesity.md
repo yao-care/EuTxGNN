@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
 
-2026-06-08
+2026-06-09
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
+
+---
+
+### [Las mujeres con la menopausia adelantada tienen mayor riesgo de padecer un ictus o un infarto - EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+
+2026-06-08
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+
+---
+
+### [Remboursement de Wegovy et Mounjaro : une manne pour les pharmaciens ? - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFRUVXF2NUwyazRwUU16MXpiZmMzajhRcVNtV2tOZnZJRzc2NW0zQWRZbFBEWU03cHhLRmVYWmUwLXBfMTlaelBhWUtVLUtuVVVFRU1jNkdQbVY5aU11ekFBdFMwWEtKMEc4dkdPRVZsMDB4dzItTENMc3Z2bklERjR3QjBDV2VoN29vUmVOazVvekhROVJpT0hiTTdxRXdoSHdVUWUzUkxYaXllWUxOb3ZJQ0tGNTVWT1ZEMTFkbw?oc=5)
+
+2026-06-08
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFRUVXF2NUwyazRwUU16MXpiZmMzajhRcVNtV2tOZnZJRzc2NW0zQWRZbFBEWU03cHhLRmVYWmUwLXBfMTlaelBhWUtVLUtuVVVFRU1jNkdQbVY5aU11ekFBdFMwWEtKMEc4dkdPRVZsMDB4dzItTENMc3Z2bklERjR3QjBDV2VoN29vUmVOazVvekhROVJpT0hiTTdxRXdoSHdVUWUzUkxYaXllWUxOb3ZJQ0tGNTVWT1ZEMTFkbw?oc=5)
 
 ---
 
@@ -51,14 +67,6 @@ permalink: /news/obesity/
 2026-06-08
 
 來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1BIZFQ1TklacF9ZOWsxTXdfWUh0YlNybWRHUURJMC03andPYVJ6ZkNTOE5YbW8wcWxTZk95SEJQdVNNZGE1c3ByYTgwQmhYaHZFVzRGdDM1bkg4RzZqaW1FREp3dndWU1R4X3ZyZjZSTElSdTBlRTZPYWJwVEhhUWJWcDFVamRqc0RPa3FjYlhneWhjXy1XaEJWZTdYRlhFRFR4Ym1wVXl2aVdvdkJ4YlBtbU0?oc=5)
-
----
-
-### [La doctora Triviño explica por qué aumenta el riesgo cardiovascular durante la menopausia - El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3IwRXJ6Yl9Ob2UzVzV0T1VKRE9jbUVFWEVIc2lfSjZxMkcwZXRtSWg0dUdvMjI5Q1RTcU9tVndQZ3VjdFdyMUZoQTRjUnM3c1J4TnlfLTEwUEI0Vy1wVFRtbDg2Wk1HY0Z0UFdIYWJPMXNNU1VHY0FZMXhKdEYtR05COHk2dGJCeW5DdjEyMkttWTMzVFVtSFpDaWc2bGRCQ1pZdkx3S2MzWnc3Qks4a3pIZTJkR2s5elBheEJLcEczbEFjdFZhQWJhYUtidjdRV0Y1OGU2V1dzd9IB3wFBVV95cUxNb3U0TmMwZ3p6d2pDTUt0dzdyS0o4ZldZbTZaYl9Nam9mVjZPWFZEVGRfdGlXVDFYajBWWnBkb2dyY2JtZ2xtb012SlozWVI5LWdLM3dTR3Fwc0t1UVdVQWhRT3AtVERabHNfejU5c0lhTjkxX2FESldhWDNBbURrSHFWVURYVWRsM1ZWNUdUUjNCWFpkN2tHUzVjZ05hYURLVDE0YXdzTjRMSjNvTVZIaXZFWE5wRVRjNlFodENzTG8xR2pDd2JpSGVfWEFULUJlekxzODNsZVNkdU9uU3Rv?oc=5)
-
-2026-06-07
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3IwRXJ6Yl9Ob2UzVzV0T1VKRE9jbUVFWEVIc2lfSjZxMkcwZXRtSWg0dUdvMjI5Q1RTcU9tVndQZ3VjdFdyMUZoQTRjUnM3c1J4TnlfLTEwUEI0Vy1wVFRtbDg2Wk1HY0Z0UFdIYWJPMXNNU1VHY0FZMXhKdEYtR05COHk2dGJCeW5DdjEyMkttWTMzVFVtSFpDaWc2bGRCQ1pZdkx3S2MzWnc3Qks4a3pIZTJkR2s5elBheEJLcEczbEFjdFZhQWJhYUtidjdRV0Y1OGU2V1dzd9IB3wFBVV95cUxNb3U0TmMwZ3p6d2pDTUt0dzdyS0o4ZldZbTZaYl9Nam9mVjZPWFZEVGRfdGlXVDFYajBWWnBkb2dyY2JtZ2xtb012SlozWVI5LWdLM3dTR3Fwc0t1UVdVQWhRT3AtVERabHNfejU5c0lhTjkxX2FESldhWDNBbURrSHFWVURYVWRsM1ZWNUdUUjNCWFpkN2tHUzVjZ05hYURLVDE0YXdzTjRMSjNvTVZIaXZFWE5wRVRjNlFodENzTG8xR2pDd2JpSGVfWEFULUJlekxzODNsZVNkdU9uU3Rv?oc=5)
 
 ---
 

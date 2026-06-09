@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,35 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
 
 ### [Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
 
 ---
 
+### [La diabetes gestacional afecta al 10% de las embarazadas y puede marcar la salud del bebé - Diario Sur](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Q5Z3JTN2pTeHdxclpCYXR5Z09lclZaZDlSeHdlVkY4N1NhdzlnT3lvU3ZFdkVmRDAzeEVTZnhnMldwNS1aR3phcDhELTJSVEk4TkowcVBMMHdlTlVVaElhTWk1S2pzN1FDMWt3ckUtcTJmd2pPNVJVRmxDYVQ0NVpsRlZHb29pTDB6dXA5WndOSDMxUllGaGYxMC1SamtrX0U1SFVNcXZ3WWJqOFVaZzJMc1VUOEF1RUhVYTBR0gHDAUFVX3lxTFAwdThnOU5xd0lfbFN4V0VzMUVSZ1FXMU1aajkyRmhjS19PeE8waC1yV0pfQy10eHA5UEpVNTJYTHBxNl9fMkRxNGVNYThDaTEtREV2bk9BcHlwdHRZcmotUmJjbmlUeTdvSzh2SWd6NXA5Q3ZJVll5VklNc3Z6eE9KX2VDQzBhbFQ3QnN1cjIyb1NBeGdjejN5OHpwaGdsZlZPUVBMTDZ4NjlIa3YwN3F1a2s1UnJEVnFtWFZ3ZXFfWFRLRQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Q5Z3JTN2pTeHdxclpCYXR5Z09lclZaZDlSeHdlVkY4N1NhdzlnT3lvU3ZFdkVmRDAzeEVTZnhnMldwNS1aR3phcDhELTJSVEk4TkowcVBMMHdlTlVVaElhTWk1S2pzN1FDMWt3ckUtcTJmd2pPNVJVRmxDYVQ0NVpsRlZHb29pTDB6dXA5WndOSDMxUllGaGYxMC1SamtrX0U1SFVNcXZ3WWJqOFVaZzJMc1VUOEF1RUhVYTBR0gHDAUFVX3lxTFAwdThnOU5xd0lfbFN4V0VzMUVSZ1FXMU1aajkyRmhjS19PeE8waC1yV0pfQy10eHA5UEpVNTJYTHBxNl9fMkRxNGVNYThDaTEtREV2bk9BcHlwdHRZcmotUmJjbmlUeTdvSzh2SWd6NXA5Q3ZJVll5VklNc3Z6eE9KX2VDQzBhbFQ3QnN1cjIyb1NBeGdjejN5OHpwaGdsZlZPUVBMTDZ4NjlIa3YwN3F1a2s1UnJEVnFtWFZ3ZXFfWFRLRQ?oc=5)
+
+---
+
+### [Inyecciones para bajar de peso abren una nueva pregunta sobre el riesgo de cáncer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHpCeEh5LTN3WGF0NGQ1dUpCTE50c1Z6S3Y0NnNYM2g1NXF6OG9HNzdXUjJnUmY2cWFBckJoSEhKSVI2c1dYTDRnUGFqVTdVYWM0RXR0TXRrMmR4elBTS0VKRTkyOHZhcmU0aHZ0ZUNMdkZiTmlkMWFGMHZPdno4SHM1Q3g1U2ZZV3JTbHZXaHlOTVZGWFFEMnNRalRBbDBKb3c5Q0ZIS1EyTDA5aW92dm1KUU92NmRP?oc=5)
+
+2026-06-08 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[nacion.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHpCeEh5LTN3WGF0NGQ1dUpCTE50c1Z6S3Y0NnNYM2g1NXF6OG9HNzdXUjJnUmY2cWFBckJoSEhKSVI2c1dYTDRnUGFqVTdVYWM0RXR0TXRrMmR4elBTS0VKRTkyOHZhcmU0aHZ0ZUNMdkZiTmlkMWFGMHZPdno4SHM1Q3g1U2ZZV3JTbHZXaHlOTVZGWFFEMnNRalRBbDBKb3c5Q0ZIS1EyTDA5aW92dm1KUU92NmRP?oc=5)
+
+---
+
 ### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
@@ -86,11 +102,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Semaglutid: Neue Studie belegt 53-Prozent-Schutz vor Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlJfUFZYMk04eUNkMDE2ME4tbDdQNzEyTGsya0xwRnZHTnY0RG4wVU1PTkx2VHpCdEUtOGY4S0JCR1UzdHNQOXlObGpHd3NCMEpRSWV5c05DcFVLdHduUHY5c09ZS2psbm9ad1ozNUZnanN2LTcyODNwZnVhT2cwZ2F0S0I1RHQ5a01XN1NZUl9BcU5WUUVjS0xGdmJ1X3RGal9fOFZINUNPbEE?oc=5)
+### [Remboursement de Wegovy et Mounjaro : une manne pour les pharmaciens ? - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFRUVXF2NUwyazRwUU16MXpiZmMzajhRcVNtV2tOZnZJRzc2NW0zQWRZbFBEWU03cHhLRmVYWmUwLXBfMTlaelBhWUtVLUtuVVVFRU1jNkdQbVY5aU11ekFBdFMwWEtKMEc4dkdPRVZsMDB4dzItTENMc3Z2bklERjR3QjBDV2VoN29vUmVOazVvekhROVJpT0hiTTdxRXdoSHdVUWUzUkxYaXllWUxOb3ZJQ0tGNTVWT1ZEMTFkbw?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlJfUFZYMk04eUNkMDE2ME4tbDdQNzEyTGsya0xwRnZHTnY0RG4wVU1PTkx2VHpCdEUtOGY4S0JCR1UzdHNQOXlObGpHd3NCMEpRSWV5c05DcFVLdHduUHY5c09ZS2psbm9ad1ozNUZnanN2LTcyODNwZnVhT2cwZ2F0S0I1RHQ5a01XN1NZUl9BcU5WUUVjS0xGdmJ1X3RGal9fOFZINUNPbEE?oc=5)
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFRUVXF2NUwyazRwUU16MXpiZmMzajhRcVNtV2tOZnZJRzc2NW0zQWRZbFBEWU03cHhLRmVYWmUwLXBfMTlaelBhWUtVLUtuVVVFRU1jNkdQbVY5aU11ekFBdFMwWEtKMEc4dkdPRVZsMDB4dzItTENMc3Z2bklERjR3QjBDV2VoN29vUmVOazVvekhROVJpT0hiTTdxRXdoSHdVUWUzUkxYaXllWUxOb3ZJQ0tGNTVWT1ZEMTFkbw?oc=5)
 
 ---
 
@@ -139,14 +155,6 @@ permalink: /news/semaglutide/
 2026-06-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNRcHJ4NEQ4N1lzT3RvOXpFczI5VTQ1SndneEI3TFBUSkd6YXdkclkxUFBSeWtxX1k5anBPUVNjQXFPcTFFZTlQaXh5MzNQOUxhOWtDMDJ4bnZCeEdDLXBfYUJHSDVOQzNnd0hlX29OSkJOakhBNVNTUE1xeWI2OHZB0gGHAUFVX3lxTE9HZHMxTXBjV2xVVEhMLUlRaVUtMF9TQ25QUlA0VHlSejRWU2kxOEpOanhHbFhSYWd1R3RnMkp2elFtNWRxZVJ4a3h5enozaWlkeVlHNUpZZzVqVUZTQnlUaHBaWlRCTDZ1eVNBTnV3V0dXaTRaTTl1aDhUdUNQaHBPZDUtRE1qSQ?oc=5)
-
----
-
-### [Marcado CE para la primera tecnología de detección dual de glucosa y cuerpos cetónicos en diabetes](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
-
-2026-06-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pyWUotUGx6a3dobzZQMS13eUpmQm5HU3d5al9YU2tfZERDeTJNd3NWWmtaNFdmTUdqSWFiN3VJZzAzdl9XdmhqSHBMajJ0VXVoVHF2N3FLZUN0ckxTWlJjWG84SnhuWU9NY2w5MTdKZE5WOEdWTXZoemJueHJNTkNaaWRuRTRxbFIyeGxvSGpLRHN0eWR3a25JVTJ3OGxGcExfYVZXZlczYU9rUDI3cFU4VUlfSHBBZmJKd2tYUGhPUQ?oc=5)
 
 ---
 
