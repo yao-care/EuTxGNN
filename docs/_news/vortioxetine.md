@@ -54,11 +54,19 @@ permalink: /news/vortioxetine/
 
 ## 相關新聞（3 則）
 
-### [Gehirn, Emotionen und Darm: Wie Kultur, Stress und das soziale Umfeld die Darmgesundheit prägen - Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
+### [La ciberviolencia sexual tiene un impacto medible en la salud de las mujeres - El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEZzS0w0RVZmaW1DSEJMVlpoNnNzRmYtMWJPbmtZT1h4blBWenpZcXBoakJxdTZwa21MMW5LNFVKQU9RRU9kUExWcTlxaWlneGxheXdjVU5FM2ZRRl9ieFVaellVeFQtMG9hcDhYYzI0alZIMlhzc2FkcjRUUWZFTFMtVUJLZ0JwMU5SSFdYZE95akd1UXlZLWtTc1p5M3lGektCZWs2eDN2LUdMeWc?oc=5)
 
-2026-06-09 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-06-09 <span class="news-indication-tag">depresión</span>
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEZzS0w0RVZmaW1DSEJMVlpoNnNzRmYtMWJPbmtZT1h4blBWenpZcXBoakJxdTZwa21MMW5LNFVKQU9RRU9kUExWcTlxaWlneGxheXdjVU5FM2ZRRl9ieFVaellVeFQtMG9hcDhYYzI0alZIMlhzc2FkcjRUUWZFTFMtVUJLZ0JwMU5SSFdYZE95akd1UXlZLWtTc1p5M3lGektCZWs2eDN2LUdMeWc?oc=5)
+
+---
+
+### [Dépression post-partum : ce nouveau test pourrait repérer les femmes à risque pendant la grossesse - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWYycU5PaC1uX3Jhd1NIUV9BUW54NEViWkdsaWFBYlJQOTFCZEtNeVNpMDg0VTlJYmRkcUwtZXVBYnE0OGgtTU9QVDBraF9PbzdaWmktTFBmVkJvVVExVmJCd3RRaDM0ZzVGaVd4ajJXUlJmQzRQN2NMZTVLLWtVem1veFRhTmVqOHdCbGVFanJKOFVMLTRYTnYwNy1hWHhGV3Z5cWk5RVJ0V055N2QwZFdhMjlXaEE3V2M1RlZ5UFhsZTlaMmlzQUtBTnBNUWJaYXZvcXYxNzNoSHF5dUpXNVlTOFVuLTFtNzZoeDJyZXU?oc=5)
+
+2026-06-09 <span class="news-indication-tag">dépression</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWYycU5PaC1uX3Jhd1NIUV9BUW54NEViWkdsaWFBYlJQOTFCZEtNeVNpMDg0VTlJYmRkcUwtZXVBYnE0OGgtTU9QVDBraF9PbzdaWmktTFBmVkJvVVExVmJCd3RRaDM0ZzVGaVd4ajJXUlJmQzRQN2NMZTVLLWtVem1veFRhTmVqOHdCbGVFanJKOFVMLTRYTnYwNy1hWHhGV3Z5cWk5RVJ0V055N2QwZFdhMjlXaEE3V2M1RlZ5UFhsZTlaMmlzQUtBTnBNUWJaYXZvcXYxNzNoSHF5dUpXNVlTOFVuLTFtNzZoeDJyZXU?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/vortioxetine/
 2026-06-08 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
-
----
-
-### [Children who sleep poorly ‘turn into depressed teenagers’ - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjQ3N0xLNzBlTERxb2NHNTVmcl9IRnM0Nk05NXpDdDY5MHhpWUtGaDRWcGdOdUZQYlZMdzZULUdPSE4xeV93NmJzcUNRWnAybmNsbU1SRmVWd0J3SmtHc09TTVIxenZ4MzR4V2RrbjRwVHFqX1EycGNXSE1saXVINTZ1cW9JcW1VSkRCZXp3Mldqc2RZVTljeW9Ia3hMLUx2bExnUVg0YnpjVjZEZEE?oc=5)
-
-2026-06-07 <span class="news-indication-tag">depression</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjQ3N0xLNzBlTERxb2NHNTVmcl9IRnM0Nk05NXpDdDY5MHhpWUtGaDRWcGdOdUZQYlZMdzZULUdPSE4xeV93NmJzcUNRWnAybmNsbU1SRmVWd0J3SmtHc09TTVIxenZ4MzR4V2RrbjRwVHFqX1EycGNXSE1saXVINTZ1cW9JcW1VSkRCZXp3Mldqc2RZVTljeW9Ia3hMLUx2bExnUVg0YnpjVjZEZEE?oc=5)
 
 ---
 

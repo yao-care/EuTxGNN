@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Schon ein Light- oder Zero-Getränk täglich erhöht das Diabetes-Risiko massiv](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+
+2026-06-09
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+
+---
 
 ### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
@@ -129,6 +137,14 @@ permalink: /news/diabetes-mellitus/
 2026-06-08
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
+
+---
+
+### [Resistencia a la insulina: el paso anterior a la diabetes que se puede revertir](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
+
+2026-06-07
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
 
 ---
 

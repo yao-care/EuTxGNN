@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Schon ein Light- oder Zero-Getränk täglich erhöht das Diabetes-Risiko massiv](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+
+2026-06-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+
+---
 
 ### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Damián Duartes, reumatólogo: “Cuando una articulación se inflama, le llamamos artritis. La artrosis aparece a medida que vamos creciendo” - La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
+### [Resistencia a la insulina: el paso anterior a la diabetes que se puede revertir](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
 
-2026-06-07 <span class="news-indication-tag">artritis</span>
+2026-06-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMigwJBVV95cUxOVUlEa3pTUXJEeDVyaHFCVDFlc3o1RV8yRFB5SVpQRTVTU2VVZnV3YjdTejBZLVdJZTVmV19uNVFxbUFoLVFieVdfTG52QkcxNFFVVEpmTFM3VkJaYVZwQmFmeUNreFBPVnVkWmM3WGpobXZ0c0dJYnlIdVpfVXdYMXVtcnctRmVvMmRjcVQyR19QYUZHeEp5UUM3SWdwdUxGdjNNX0VBSnR5a1MyODNKbE8yNXVJakpxSjhickJqTzg3WnFUR21KNmVjN051ZFZTcENmY3ZvTlFKZ1JZQU0xUlA1RGtGM09XaFZHOHo2ZGhtekF3NWs5ZG9WTGN3ejhhMkIw0gGIAkFVX3lxTE95MXdQdFZmbXQ4ZzNTZDBJcXBOUGZiR2d0ak1MVmNabWNYNGoyWWdCaWN2c0dhTmNfUndMRkd6WnpyMVB6Vy1ONE5YMHhaRkk1WGxxNENkMXFmODc2R0N4dGZPcW5EOWNqdDVnN1RtaE5HWVM0M2V6YURTT1VaX2ZJdTFGX3FSalYyb0NzQ0JWZVh3WDJRWjNuWEZEMHUydE9wQ2NDT2xYMWZyODNjOEsxYW9NM0tVcWV4SXVRQVJOVzNKWFpYVFZ3Rmk0RHE5UlgwMWM4ekhuS2Vwd0FGdzZfdUQ1Q0RzdkpJdGJEZFUwM3pCcm1JamdWaUQ2emNXa0NnSzBtQXhsbA?oc=5)
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
 
 ---
 
@@ -96,7 +104,7 @@ permalink: /news/sacubitril/
 
 ### [Can Eating Avocado Improve Health and Lower Your Risk of Diabetes?](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
 
-2026-06-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
 

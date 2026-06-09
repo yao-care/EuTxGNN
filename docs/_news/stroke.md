@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# AVC（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,21 +39,29 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Why midlife is the danger zone for having a stroke (and how to avoid one) - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
+
+2026-06-09
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
+
+---
+
+### [Mujeres en perimenopausia tienen el doble de riesgo de enfermedad cardiovascular, según estudio - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2U2b0FvMXdfYllNcVJqd3JwUDlsaWRhbXp3S0ZybGx1QkZTVFYxWVJSWnJzM3g1NFplRDBJdG5HSVJTY0dsbVI4cVhlVEV1el9YNkZCS0tiLTk0ODBnZnRDZzV3cGpOdTd4bElqTjdaM0FFc01BcjhPZnpfTU5ZQkkyZW1Oa0pCeVZ0bThFN3NuRmx0Vnhra2FPUXlPUG4tSHdLWjN0Y3ZGTG96VVhCMWg3cEg5TlFsMlRnTkVWMnBJMl9kUEFXemNrT0c3dU00MEI0MWRyQm9jUWJocGFPSEM0Skw0a19VVFd30gHwAUFVX3lxTE9MVHlVY2l3b3pKb0FfYmdyS2RmOGNsdld6LXRETHo4ckFtcXd6ek9aU2REV2szSVNzaFowSFFiQ1BhTVZMd3M5aE13WmxPX2tNYmJjdWQ4cVBrUTlwUFZucEtzSERkZnpsaWRfMnNvOEtieVFxYVl5YjdtcUpCeUtxVkY1WE05Rm8xVHR1VkFLc2o4SlpndW1YQzVNNXNQc3kweEdqVzVSVXJpY21ySDBpdWZwNzhuMEJoN2pMQWVfU2tvUllkdnU2S3JLZHk0dGV0bThreFUxUmNncWhSRWlpMUpXb3B0REVXeDV6S2NyWA?oc=5)
+
+2026-06-09
+
+來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2U2b0FvMXdfYllNcVJqd3JwUDlsaWRhbXp3S0ZybGx1QkZTVFYxWVJSWnJzM3g1NFplRDBJdG5HSVJTY0dsbVI4cVhlVEV1el9YNkZCS0tiLTk0ODBnZnRDZzV3cGpOdTd4bElqTjdaM0FFc01BcjhPZnpfTU5ZQkkyZW1Oa0pCeVZ0bThFN3NuRmx0Vnhra2FPUXlPUG4tSHdLWjN0Y3ZGTG96VVhCMWg3cEg5TlFsMlRnTkVWMnBJMl9kUEFXemNrT0c3dU00MEI0MWRyQm9jUWJocGFPSEM0Skw0a19VVFd30gHwAUFVX3lxTE9MVHlVY2l3b3pKb0FfYmdyS2RmOGNsdld6LXRETHo4ckFtcXd6ek9aU2REV2szSVNzaFowSFFiQ1BhTVZMd3M5aE13WmxPX2tNYmJjdWQ4cVBrUTlwUFZucEtzSERkZnpsaWRfMnNvOEtieVFxYVl5YjdtcUpCeUtxVkY1WE05Rm8xVHR1VkFLc2o4SlpndW1YQzVNNXNQc3kweEdqVzVSVXJpY21ySDBpdWZwNzhuMEJoN2pMQWVfU2tvUllkdnU2S3JLZHk0dGV0bThreFUxUmNncWhSRWlpMUpXb3B0REVXeDV6S2NyWA?oc=5)
+
+---
 
 ### [7 millions de Français prennent ce médicament qui augmente le risque d'AVC chez les plus de 65 ans selon une nouvelle étude](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
 
 2026-06-09
 
 來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
-
----
-
-### [Menopausia: El impacto invisible para la salud metabólica y cardiovascular](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVd2bURtN2tTMnRHUU9mNUczZVlfdDhhRUIwUUtEczdBMzRGeG5tQk5jOHBqY0lubTJtSVowZXlBT25kVjhzMjdIVmI1TTB0YUFoMWpWZkowSmswWWZ2dU83YzNDZHREXzFNTEcwbUs0cVNiN3pkbklFTXBqS29TWjUtTGFMRy1HYkFjLVpzZ3FVLWtRTGRNRml4WkZJeGs0c1VaR2gwbzU5TEliRUE4SkVTVVB0NnRfSk1SbmFfbmZmQWRJbWx2WndUTGNkV2NXQ0NET0V4NzV3UE1RT0VDUVpWcTfSAeQBQVVfeXFMTm1Xdm1EbTdrUzJ0R1FPZjVHM2VZX3Q4YUVCMFFLRHM3QTM0RnhubUJOYzhwamNJbm0ybUlaMGV5QU9uZFY4czI3SFZiNU0wdGFBaDFqVmZKMEprMFlmdnVPN2MzQ2R0RF8xTUxHMG1LNHFTYjd6ZG5JRU1waktvU1o1LUxhTEctR2JBYy1ac2dxVS1rUUxkTUZpeFpGSXhrNHNVWkdoMG81OUxJYkVBOEpFU1VQdDZ0X0pNUm5hX25mZkFkSW1sdlp3VExjZFdjV0NDRE9FeDc1d1BNUU9FQ1FaVnE3?oc=5)
-
-2026-06-08
-
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVd2bURtN2tTMnRHUU9mNUczZVlfdDhhRUIwUUtEczdBMzRGeG5tQk5jOHBqY0lubTJtSVowZXlBT25kVjhzMjdIVmI1TTB0YUFoMWpWZkowSmswWWZ2dU83YzNDZHREXzFNTEcwbUs0cVNiN3pkbklFTXBqS29TWjUtTGFMRy1HYkFjLVpzZ3FVLWtRTGRNRml4WkZJeGs0c1VaR2gwbzU5TEliRUE4SkVTVVB0NnRfSk1SbmFfbmZmQWRJbWx2WndUTGNkV2NXQ0NET0V4NzV3UE1RT0VDUVpWcTfSAeQBQVVfeXFMTm1Xdm1EbTdrUzJ0R1FPZjVHM2VZX3Q4YUVCMFFLRHM3QTM0RnhubUJOYzhwamNJbm0ybUlaMGV5QU9uZFY4czI3SFZiNU0wdGFBaDFqVmZKMEprMFlmdnVPN2MzQ2R0RF8xTUxHMG1LNHFTYjd6ZG5JRU1waktvU1o1LUxhTEctR2JBYy1ac2dxVS1rUUxkTUZpeFpGSXhrNHNVWkdoMG81OUxJYkVBOEpFU1VQdDZ0X0pNUm5hX25mZkFkSW1sdlp3VExjZFdjV0NDRE9FeDc1d1BNUU9FQ1FaVnE3?oc=5)
 
 ---
 

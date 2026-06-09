@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。18 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。17 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>18 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>17 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（17 則）
 
 ### [Gehirn, Emotionen und Darm: Wie Kultur, Stress und das soziale Umfeld die Darmgesundheit prägen - Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
 
@@ -96,22 +96,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Falso que la Organización Mundial de Salud confirmó 149 nuevos casos de hantavirus](https://news.google.com/rss/articles/CBMib0FVX3lxTFBPY0JCMUQyak9JWWNJVWxEaC14U1RBOU5fUzE0eGxlbGh2UnF5RzNRdDY1RXNvUTFRLU1tUWZzalBRVGRtdkgzQUhUMmhqUmRDcDhDckdZT3AwamIybm81NUFPa0ljX3hLMEtQN2lqRQ?oc=5)
-
-2026-06-08
-
-來源：[Cotejo.info](https://news.google.com/rss/articles/CBMib0FVX3lxTFBPY0JCMUQyak9JWWNJVWxEaC14U1RBOU5fUzE0eGxlbGh2UnF5RzNRdDY1RXNvUTFRLU1tUWZzalBRVGRtdkgzQUhUMmhqUmRDcDhDckdZT3AwamIybm81NUFPa0ljX3hLMEtQN2lqRQ?oc=5)
-
----
-
-### [Wegovy weight-loss jab to be offered on NHS in Scotland - STV News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVFrVWIzMGY4alNVVS16d2V2eGNmYlpmU2lOcTA0S3lTdHJycUFORGRrM2tMNVc0VTMtcjdPbERCNTVlOHRoQXRocVhDZWVrOUg0SEdXeFFmY3pJSC0zbUxjUktuOG80c2tvZG1nS3hid1M1VThWV0hRU0t1dTY3dEJKSkNvdGloeG9HRA?oc=5)
-
-2026-06-08
-
-來源：[STV News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVFrVWIzMGY4alNVVS16d2V2eGNmYlpmU2lOcTA0S3lTdHJycUFORGRrM2tMNVc0VTMtcjdPbERCNTVlOHRoQXRocVhDZWVrOUg0SEdXeFFmY3pJSC0zbUxjUktuOG80c2tvZG1nS3hid1M1VThWV0hRU0t1dTY3dEJKSkNvdGloeG9HRA?oc=5)
-
----
-
 ### [First-in-human-Studie: Vielversprechender PET-Tracer zeigt hochauflösende Bildgebung des sympathischen Nervensystems - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
 
 2026-06-08
@@ -128,6 +112,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Lutte contre le cancer : des percées majeures annoncées](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zNWRmYVZDYTVXWHhrQ3BwR09yNjRBMVhYRk5heDlHRUhXMkF3cGxyLXdFaUY1bXQyWkxsVWp4LUx5QjA3RkY1ZzJDbmlTWVZSX1h6SlZBSEFaRTV5ZVJMMGlpeHJObjBRX25ydFAyWHh0M1lhOEs2ZnFfVQ?oc=5)
+
+2026-06-08
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zNWRmYVZDYTVXWHhrQ3BwR09yNjRBMVhYRk5heDlHRUhXMkF3cGxyLXdFaUY1bXQyWkxsVWp4LUx5QjA3RkY1ZzJDbmlTWVZSX1h6SlZBSEFaRTV5ZVJMMGlpeHJObjBRX25ydFAyWHh0M1lhOEs2ZnFfVQ?oc=5)
+
+---
+
 ### [Ce médicament représente un immense espoir pour les malades : un nouveau traitement contre la sclérose en plaques bientôt autorisé sur le marché](https://news.google.com/rss/articles/CBMinwJBVV95cUxPTDhvc2dWODloaE5PNUttTnYtS2tkRGRzVFhKRzF2bXlvVzV5Q0E2NS1UNjVvUzhVY1FzS3djamd0Y2h6TjJLZmlmR0NUZDNQY1dhVDhyMVRzOWYyMFVoeXB2bWdFNHlfRmJUUDlMOVQxT0tzOE1XamNaN194b0tVRnFvMGRHaFdJNXk0MDd2RXduMk1lOUtaUUF4Q2t1Y2tOdUpSQWN6R0ljeGM0VzRoU3dJWXFDR3REUFpOSHY0QTEtVUp1VXE0T2tLU3hONnBycC1MN2RBVzByWUNXQXdpYm5Nd2hHcHV4MTdoamczNUE3MGI3TE1PN1lqUlVPWGQ1Mmw2V2IzdXc4UXN6RGkyVmhvTE1VLTlhYkJLTTFjdw?oc=5)
 
 2026-06-08
@@ -141,6 +133,14 @@ permalink: /news/multiple-sclerosis/
 2026-06-08
 
 來源：[Vall d'Hebron Barcelona Hospital Campus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3JXT0hMdnZxWHN2WEhyallLc2ltMElJWEtvWVZza1NhR2FUem1aMmxOb2F1Z1hmWVBtX2VJVFhzekFTT1QzOFB4cklpdjZXU2w2SmNBTGsyOFNyclBiQ3RwbUgzYUl4Sk9OeTZsMHZRQndCZFEwc3ZqSUNlOFQzRTZQWUVOQ3NlZUt2cGJYbmR3ZkM4WTFFZHlDTDRHMldpMEdtZUF6Y3p5ZWIwZWtXaThkRTRic2NDZThhTVhPNHpWZGVwRlQzQWViWnQxT2JRdHA5MmhKTGx0NmRFTE9tSFFLeUh2bFkyRkNSSg?oc=5)
+
+---
+
+### [Ebola crisis exposes ‘preventable’ pandemic risk, say leaders](https://news.google.com/rss/articles/CBMingFBVV95cUxNWmFBLUhMZllCT01LcklVSXphbWMwdG44RHo3M3ZRNDVnZWZWUlNPSFVPczVOV19SeE9wVmJlcXpSRzJodkdZR3QwMldiLUR6RFJkblB1cHgwZ1N2cmRlMEtBN05yUVNmMjVEOGIzMnJJVllqRXYyazZUQUpwYjlXNWRyaS11d01mcmZEYTFkS1VpMnFNMHlOdVlJMGRZUQ?oc=5)
+
+2026-06-08
+
+來源：[politico.eu](https://news.google.com/rss/articles/CBMingFBVV95cUxNWmFBLUhMZllCT01LcklVSXphbWMwdG44RHo3M3ZRNDVnZWZWUlNPSFVPczVOV19SeE9wVmJlcXpSRzJodkdZR3QwMldiLUR6RFJkblB1cHgwZ1N2cmRlMEtBN05yUVNmMjVEOGIzMnJJVllqRXYyazZUQUpwYjlXNWRyaS11d01mcmZEYTFkS1VpMnFNMHlOdVlJMGRZUQ?oc=5)
 
 ---
 
@@ -189,14 +189,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-07
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
-
----
-
-### [Sepsis: Deutschland hat ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
-
-2026-06-07
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
 
 ---
 

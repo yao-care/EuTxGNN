@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds - The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRm9ON0ZLclM1WS1RWVB3Q256VFRydWIwaVhrN1FIOUo2eUNLa3lySjgxMjhZTEE4RE1mLXE1RmxwcUdqVGp2NGdjRl8tUGV3LXRDYllIVzVFVFRwTWFxSm5GY2J5RXJQSldhMzV2UGlyTzRsY0hLd1R2M0lQS3N4T2xQYkNTRWU4NHNILXRLeWZ5eXhoRU95SGtIczQzOGhlM1ZmZFRhRTY?oc=5)
+
+2026-06-09 <span class="news-indication-tag">dementia</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRm9ON0ZLclM1WS1RWVB3Q256VFRydWIwaVhrN1FIOUo2eUNLa3lySjgxMjhZTEE4RE1mLXE1RmxwcUdqVGp2NGdjRl8tUGV3LXRDYllIVzVFVFRwTWFxSm5GY2J5RXJQSldhMzV2UGlyTzRsY0hLd1R2M0lQS3N4T2xQYkNTRWU4NHNILXRLeWZ5eXhoRU95SGtIczQzOGhlM1ZmZFRhRTY?oc=5)
+
+---
 
 
 <div class="disclaimer">
