@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Antisense-Wirkstoff Bepirovirsen kann Hepatitis B häufig kurieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
+
+2026-06-09
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
+
+---
 
 ### [Los epidemiólogos alertan del aumento de las infecciones de transmisión sexual emergentes y multirresistentes](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
 

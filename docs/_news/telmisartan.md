@@ -54,6 +54,14 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（6 則）
 
+### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
+
+2026-06-09 <span class="news-indication-tag">ictus</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
+
+---
+
 ### [Why midlife is the danger zone for having a stroke (and how to avoid one) - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
 
 2026-06-09 <span class="news-indication-tag">stroke</span>
@@ -70,14 +78,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Mujeres en perimenopausia tienen el doble de riesgo de enfermedad cardiovascular, según estudio - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2U2b0FvMXdfYllNcVJqd3JwUDlsaWRhbXp3S0ZybGx1QkZTVFYxWVJSWnJzM3g1NFplRDBJdG5HSVJTY0dsbVI4cVhlVEV1el9YNkZCS0tiLTk0ODBnZnRDZzV3cGpOdTd4bElqTjdaM0FFc01BcjhPZnpfTU5ZQkkyZW1Oa0pCeVZ0bThFN3NuRmx0Vnhra2FPUXlPUG4tSHdLWjN0Y3ZGTG96VVhCMWg3cEg5TlFsMlRnTkVWMnBJMl9kUEFXemNrT0c3dU00MEI0MWRyQm9jUWJocGFPSEM0Skw0a19VVFd30gHwAUFVX3lxTE9MVHlVY2l3b3pKb0FfYmdyS2RmOGNsdld6LXRETHo4ckFtcXd6ek9aU2REV2szSVNzaFowSFFiQ1BhTVZMd3M5aE13WmxPX2tNYmJjdWQ4cVBrUTlwUFZucEtzSERkZnpsaWRfMnNvOEtieVFxYVl5YjdtcUpCeUtxVkY1WE05Rm8xVHR1VkFLc2o4SlpndW1YQzVNNXNQc3kweEdqVzVSVXJpY21ySDBpdWZwNzhuMEJoN2pMQWVfU2tvUllkdnU2S3JLZHk0dGV0bThreFUxUmNncWhSRWlpMUpXb3B0REVXeDV6S2NyWA?oc=5)
-
-2026-06-09 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2U2b0FvMXdfYllNcVJqd3JwUDlsaWRhbXp3S0ZybGx1QkZTVFYxWVJSWnJzM3g1NFplRDBJdG5HSVJTY0dsbVI4cVhlVEV1el9YNkZCS0tiLTk0ODBnZnRDZzV3cGpOdTd4bElqTjdaM0FFc01BcjhPZnpfTU5ZQkkyZW1Oa0pCeVZ0bThFN3NuRmx0Vnhra2FPUXlPUG4tSHdLWjN0Y3ZGTG96VVhCMWg3cEg5TlFsMlRnTkVWMnBJMl9kUEFXemNrT0c3dU00MEI0MWRyQm9jUWJocGFPSEM0Skw0a19VVFd30gHwAUFVX3lxTE9MVHlVY2l3b3pKb0FfYmdyS2RmOGNsdld6LXRETHo4ckFtcXd6ek9aU2REV2szSVNzaFowSFFiQ1BhTVZMd3M5aE13WmxPX2tNYmJjdWQ4cVBrUTlwUFZucEtzSERkZnpsaWRfMnNvOEtieVFxYVl5YjdtcUpCeUtxVkY1WE05Rm8xVHR1VkFLc2o4SlpndW1YQzVNNXNQc3kweEdqVzVSVXJpY21ySDBpdWZwNzhuMEJoN2pMQWVfU2tvUllkdnU2S3JLZHk0dGV0bThreFUxUmNncWhSRWlpMUpXb3B0REVXeDV6S2NyWA?oc=5)
-
----
-
 ### [7 millions de Français prennent ce médicament qui augmente le risque d'AVC chez les plus de 65 ans selon une nouvelle étude](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
 
 2026-06-09 <span class="news-indication-tag">AVC</span>
@@ -86,19 +86,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [‘Stroke and brain injury? We are potentially sitting on a time bomb’ - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
+### [‘Stroke and brain injury? We are potentially sitting on a time bomb’](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
 2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
+來源：[thetimes.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
 ---
 
-### [Bluthochdruck: 50% der Patienten nehmen Medikamente unregelmäßig - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
+### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
-2026-06-07 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
 ---
 

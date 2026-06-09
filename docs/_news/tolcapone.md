@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds - The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRm9ON0ZLclM1WS1RWVB3Q256VFRydWIwaVhrN1FIOUo2eUNLa3lySjgxMjhZTEE4RE1mLXE1RmxwcUdqVGp2NGdjRl8tUGV3LXRDYllIVzVFVFRwTWFxSm5GY2J5RXJQSldhMzV2UGlyTzRsY0hLd1R2M0lQS3N4T2xQYkNTRWU4NHNILXRLeWZ5eXhoRU95SGtIczQzOGhlM1ZmZFRhRTY?oc=5)
 
 2026-06-09 <span class="news-indication-tag">dementia</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRm9ON0ZLclM1WS1RWVB3Q256VFRydWIwaVhrN1FIOUo2eUNLa3lySjgxMjhZTEE4RE1mLXE1RmxwcUdqVGp2NGdjRl8tUGV3LXRDYllIVzVFVFRwTWFxSm5GY2J5RXJQSldhMzV2UGlyTzRsY0hLd1R2M0lQS3N4T2xQYkNTRWU4NHNILXRLeWZ5eXhoRU95SGtIczQzOGhlM1ZmZFRhRTY?oc=5)
+
+---
+
+### [Single high dose of psilocybin temporarily restores lost abilities in an 80-year-old Alzheimer's patient - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV0anpiNE5qMnFaQ3lMUExRck1DUklpeFBKR29HUl9zOVFBakd0ZXdMZUY1WldVN3VoYTNqaVA1QjQ4ektSVThaNlN3Ni1fT3F3bVl0UjlPSG5DSm5lRXh2SC1BVi1jRnVRS2tMejV4bW5JeHBZcjNLZml3RHg1MGtIS0djbVdh?oc=5)
+
+2026-06-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV0anpiNE5qMnFaQ3lMUExRck1DUklpeFBKR29HUl9zOVFBakd0ZXdMZUY1WldVN3VoYTNqaVA1QjQ4ektSVThaNlN3Ni1fT3F3bVl0UjlPSG5DSm5lRXh2SC1BVi1jRnVRS2tMejV4bW5JeHBZcjNLZml3RHg1MGtIS0djbVdh?oc=5)
 
 ---
 

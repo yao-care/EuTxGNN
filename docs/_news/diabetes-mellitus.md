@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,21 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Schon ein Light- oder Zero-Getränk täglich erhöht das Diabetes-Risiko massiv](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
 
 2026-06-09
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+來源：[Aponet](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+
+---
+
+### [Las infecciones representan la tercera causa subyacente de muerte en la diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd19UOWFMR0JrVE40YUZzQlJ4Wl8tZVlkcGVFclpjM1g0aFV4NVBqM1NSUHJWcFlkTDVLQVlzSkh1bnRhNnVoT1NjNlRTMERBWUJDR1lqdlUxTkpXZlExcldQdWw0eVlvNjg5YmxFOXNiV1MyUjF3dTNQUjlXenZtUVJSWE9uT2QtbkNtNGhBWkxWSDMxTDhJU0lMM0dGQjRSdEVIS1Y5WlYwWGMtaUtESFJYTk9LWVpZUWdDWjdTcXV6V2vSAb4BQVVfeXFMTUJEaVVfa1dkcW04OGZGNDlibW5PVXVfdjdRdXdYaFA1Vnk1czE2VjI4TzNTTFdaZXc0aEM2YVNrWVpVdFREVkc1aUJhNUtXa0NiYU9Nc2ZTckIxamZhR0x4cUUzZm1maVFMXzdvckRwSll6OExPZDV5UlFacHlPSTRnbTBoeXNNQ3NPSFdValBNYzB0NzJOZnpRc19yWHF2R2JzZFlLNk82WmN1WGhNSlNfTGlDVWFYQmF1Um5DQQ?oc=5)
+
+2026-06-08
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd19UOWFMR0JrVE40YUZzQlJ4Wl8tZVlkcGVFclpjM1g0aFV4NVBqM1NSUHJWcFlkTDVLQVlzSkh1bnRhNnVoT1NjNlRTMERBWUJDR1lqdlUxTkpXZlExcldQdWw0eVlvNjg5YmxFOXNiV1MyUjF3dTNQUjlXenZtUVJSWE9uT2QtbkNtNGhBWkxWSDMxTDhJU0lMM0dGQjRSdEVIS1Y5WlYwWGMtaUtESFJYTk9LWVpZUWdDWjdTcXV6V2vSAb4BQVVfeXFMTUJEaVVfa1dkcW04OGZGNDlibW5PVXVfdjdRdXdYaFA1Vnk1czE2VjI4TzNTTFdaZXc0aEM2YVNrWVpVdFREVkc1aUJhNUtXa0NiYU9Nc2ZTckIxamZhR0x4cUUzZm1maVFMXzdvckRwSll6OExPZDV5UlFacHlPSTRnbTBoeXNNQ3NPSFdValBNYzB0NzJOZnpRc19yWHF2R2JzZFlLNk82WmN1WGhNSlNfTGlDVWFYQmF1Um5DQQ?oc=5)
 
 ---
 
@@ -145,22 +153,6 @@ permalink: /news/diabetes-mellitus/
 2026-06-07
 
 來源：[elDiario.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
-
----
-
-### [La personalización de parámetros y objetivos, clave para optimizar el uso de myLoop powered by CamAPS FX en niños y adolescentes con diabetes tipo 1](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
-
-2026-06-07
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3puN3BOY1dtTzM4MUhYQ3dNUW80M1hfQnV0YWJYczR4aHdnUzZfNXgyci1Wa3FNY0hGV200dkJMYVRYaTNSdEcxVnBRQWxxLXpPd2pOdV9Wd0RDeXRyX19XUmR3LUtLSm9KMTJCaExfNW1kZkxzc3N0Ukh0WGNMNFNqMXVubGxrRk5JRmdlMVZkcVZWZFZEWjVwcmQ3bDFSREJTaGhtZkNpYlEwZlMwb082WWM0UnIwTWphN0dubk02NFYyTXJaRVZscnNsX3JYcjMxRVdBSkZpSU1CVFJWMDVRWWFXTzlHbURYQVVaVHdPQndsWDNUMWVWV2t2elpfZS02VGp0OA?oc=5)
-
----
-
-### [Can Eating Avocado Improve Health and Lower Your Risk of Diabetes?](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
-
-2026-06-07
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
 
 ---
 

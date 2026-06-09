@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（22 則）
 
-### [Gehirn, Emotionen und Darm: Wie Kultur, Stress und das soziale Umfeld die Darmgesundheit prägen - Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
+### [New Study Exposes Problem With Protein Products As Experts Warn Labels May Mislead Consumers About Benefits - Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBiaUw0TVRnWDNNMU9ONzBmZUM3Zkt6N2dZOG91M3FxNy1XUTJHemNVa1BPQWc0TGVZM0FJMGlxMGxMZlVLMFFydjVKMFlIbzgyYkNMQ0Q0QThzaXFrUUtFaHpiNmFid2phQ21kQ0lGSkRIZ1BxdVJwV2dwUk5PaWNoZUNBSUN5R2R4c00zRFp5VVNmb0xmaXRB?oc=5)
 
 2026-06-09 <span class="news-indication-tag">MS</span>
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBiaUw0TVRnWDNNMU9ONzBmZUM3Zkt6N2dZOG91M3FxNy1XUTJHemNVa1BPQWc0TGVZM0FJMGlxMGxMZlVLMFFydjVKMFlIbzgyYkNMQ0Q0QThzaXFrUUtFaHpiNmFid2phQ21kQ0lGSkRIZ1BxdVJwV2dwUk5PaWNoZUNBSUN5R2R4c00zRFp5VVNmb0xmaXRB?oc=5)
+
+---
+
+### [Incrementar el conocimiento sobre deterioro cognitivo en esclerosis múltiple, clave para su detección, abordaje y seguimiento](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVJoVDNHdHJDLXU3d1RjSWpQRUZhMlJZMnhOSFV4eVIxU25HU1pQcW5LeUgwWHpjRTZRTWZmMWdkdHZOTzM3ek5Vd05OenBzWkhwZHRZRjZFMzBaandtTGUwMnZmZWFXZ2dJeWRPOHBCNDl6MEFHcXhZNFlaamtSTC0wVmZOV3RaSWRBeXJXV1JxRDhObFUyNWx4SjBfemozOWpzVE1zbUZLdnQ3cHJ2Q1hTQmZfb0hRMGdKNVA0MVg5OHFEdmJRc053NGF5a254UFJTMjl0VHRVSEx2QTF1aEFmZ1plVUE?oc=5)
+
+2026-06-09 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVJoVDNHdHJDLXU3d1RjSWpQRUZhMlJZMnhOSFV4eVIxU25HU1pQcW5LeUgwWHpjRTZRTWZmMWdkdHZOTzM3ek5Vd05OenBzWkhwZHRZRjZFMzBaandtTGUwMnZmZWFXZ2dJeWRPOHBCNDl6MEFHcXhZNFlaamtSTC0wVmZOV3RaSWRBeXJXV1JxRDhObFUyNWx4SjBfemozOWpzVE1zbUZLdnQ3cHJ2Q1hTQmZfb0hRMGdKNVA0MVg5OHFEdmJRc053NGF5a254UFJTMjl0VHRVSEx2QTF1aEFmZ1plVUE?oc=5)
+
+---
+
+### [Antisense-Wirkstoff Bepirovirsen kann Hepatitis B häufig kurieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
+
+2026-06-09 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
+
+---
+
+### [Après 70 ans, ce légume oublié rajeunit le cerveau de 11 ans selon une méta-analyse de 183 études - Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUdKczI3U09BMUYtWkI3SmlYVXpoeEx0UEZ5UHluSGhrb3pBeVJNbWl2T24zZWhTQmZIdzhBaG8wR1AyWUh1Vkx4Y2wwVTR2cFdaSnhyWGIzWThkN3VpWnpqeFV0QTVmTnhnMy1qc3FVem5DcW45TGZwemthbm9mZWNiWXh3ZkR4bDYzWjJ3?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUdKczI3U09BMUYtWkI3SmlYVXpoeEx0UEZ5UHluSGhrb3pBeVJNbWl2T24zZWhTQmZIdzhBaG8wR1AyWUh1Vkx4Y2wwVTR2cFdaSnhyWGIzWThkN3VpWnpqeFV0QTVmTnhnMy1qc3FVem5DcW45TGZwemthbm9mZWNiWXh3ZkR4bDYzWjJ3?oc=5)
+
+---
+
+### [Sepsis: Wir haben hierzulande ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDVjcUNzdkVjREYwR0pueTdfX1FzdTVobk9yRUp2WFRQempQOU5uTVZYWTcxMXRpbDhuM3dWT1JmRV9KdGtFRHc0ajlVdm1yendaVGIzVS10b1VDSW1nTF9USW10REtOTnlyU3pqQ1dlZ1VIbHJKUFJOd2xjb2xaVlpZUWp3SmVEUFlpM1hoaFlnejROSWxjVzZ6Yjc1OGgyelRpTVFTR3FNV0pwSGt0ZDhCOA?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDVjcUNzdkVjREYwR0pueTdfX1FzdTVobk9yRUp2WFRQempQOU5uTVZYWTcxMXRpbDhuM3dWT1JmRV9KdGtFRHc0ajlVdm1yendaVGIzVS10b1VDSW1nTF9USW10REtOTnlyU3pqQ1dlZ1VIbHJKUFJOd2xjb2xaVlpZUWp3SmVEUFlpM1hoaFlnejROSWxjVzZ6Yjc1OGgyelRpTVFTR3FNV0pwSGt0ZDhCOA?oc=5)
+
+---
+
+### [Ebola und andere Ausbrüche: Experten dringen auf Abschluss des WHO-Pandemievertrags – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWkpUTjJLa2dNWW15SEhNS2hJWEJPUGNCRHFvLW9ILTdpQ1F2TEZ6cURINlBnUUtzeUVLX0R5cUtselRGanVVRXBkNzg5NmEwd1JKTmV5cTJlOGp5Mm5TU25NUEN6a1pTWFFmOUs1cG8tNlJUWWJvLXNOOUVQeWZxOFhwcDlRRVcwblFvaGI0c0xnaHlCVExhSlp0d2gzQlRjZ1dFVnloRE9fbjRDV01UUno5RjlXLWw4Z1FORnNIa1ZkX0RwSFhDU3VMbWJaNGEyNzB3OTFPQ2NHVjRibEhIR29KMnBSZw?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWkpUTjJLa2dNWW15SEhNS2hJWEJPUGNCRHFvLW9ILTdpQ1F2TEZ6cURINlBnUUtzeUVLX0R5cUtselRGanVVRXBkNzg5NmEwd1JKTmV5cTJlOGp5Mm5TU25NUEN6a1pTWFFmOUs1cG8tNlJUWWJvLXNOOUVQeWZxOFhwcDlRRVcwblFvaGI0c0xnaHlCVExhSlp0d2gzQlRjZ1dFVnloRE9fbjRDV01UUno5RjlXLWw4Z1FORnNIa1ZkX0RwSFhDU3VMbWJaNGEyNzB3OTFPQ2NHVjRibEhIR29KMnBSZw?oc=5)
+
+---
+
+### [Single high dose of psilocybin temporarily restores lost abilities in an 80-year-old Alzheimer's patient - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV0anpiNE5qMnFaQ3lMUExRck1DUklpeFBKR29HUl9zOVFBakd0ZXdMZUY1WldVN3VoYTNqaVA1QjQ4ektSVThaNlN3Ni1fT3F3bVl0UjlPSG5DSm5lRXh2SC1BVi1jRnVRS2tMejV4bW5JeHBZcjNLZml3RHg1MGtIS0djbVdh?oc=5)
+
+2026-06-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV0anpiNE5qMnFaQ3lMUExRck1DUklpeFBKR29HUl9zOVFBakd0ZXdMZUY1WldVN3VoYTNqaVA1QjQ4ektSVThaNlN3Ni1fT3F3bVl0UjlPSG5DSm5lRXh2SC1BVi1jRnVRS2tMejV4bW5JeHBZcjNLZml3RHg1MGtIS0djbVdh?oc=5)
 
 ---
 
@@ -67,6 +115,14 @@ permalink: /news/teriflunomide/
 2026-06-09 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
+
+---
+
+### [Brave woman who lost two babies teams up with pal to help grieving families - Greenock Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPOG1yV0hTamFmOVpsUi10WUZlVVR6ZVg5TVJaeS1rQ1d1RVF1Z0lzNmJYTXpiSG5aV0lROHdGOXRUbU9Cb011YVdYLVUwWGZVWnJCaU9wTFhaSG44c3k0RnBxSjVOMlZPejBkVW1Nc0d1QWJkUm1kT2daNEdyMFI0TlE0ZXpzNkc5RzctT3BfbkkxZGdIRUhVS1RMWTE1Zw?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPOG1yV0hTamFmOVpsUi10WUZlVVR6ZVg5TVJaeS1rQ1d1RVF1Z0lzNmJYTXpiSG5aV0lROHdGOXRUbU9Cb011YVdYLVUwWGZVWnJCaU9wTFhaSG44c3k0RnBxSjVOMlZPejBkVW1Nc0d1QWJkUm1kT2daNEdyMFI0TlE0ZXpzNkc5RzctT3BfbkkxZGdIRUhVS1RMWTE1Zw?oc=5)
 
 ---
 
@@ -102,22 +158,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Corona, Ebola, Hantavirus: Bremst der Datenschutz die Forschung auch in Hamburg aus? - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3FldDZGd1ZaQUg1UVdYNUZDYjlhRXVuYXA2WGlOdmRmVGlxSXJhYzU4ekVxRWFBZFJkN25wcE5mY0JXeTFlcDhIbkhJdlVxcjU1RVF1aU5yS2VjUEIxcjNIbjNlX19laGZVeU82dm9yNFlrb1g3SjNDd1ZvaDRIM0xXNFRvbHpieEhKcE13RldZMS1WVGoyUzR1NnRLd3pPcVc3bUdlWWpnQkV0SDBkdEZnQ2wwcjYxRlZRMkk3SHFkTkg2SWp0VFk3NzhKZTA1OTRacGNoQWhuWVR6TF9r?oc=5)
-
-2026-06-08 <span class="news-indication-tag">MS</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3FldDZGd1ZaQUg1UVdYNUZDYjlhRXVuYXA2WGlOdmRmVGlxSXJhYzU4ekVxRWFBZFJkN25wcE5mY0JXeTFlcDhIbkhJdlVxcjU1RVF1aU5yS2VjUEIxcjNIbjNlX19laGZVeU82dm9yNFlrb1g3SjNDd1ZvaDRIM0xXNFRvbHpieEhKcE13RldZMS1WVGoyUzR1NnRLd3pPcVc3bUdlWWpnQkV0SDBkdEZnQ2wwcjYxRlZRMkk3SHFkTkg2SWp0VFk3NzhKZTA1OTRacGNoQWhuWVR6TF9r?oc=5)
-
----
-
-### [Lutte contre le cancer : des percées majeures annoncées](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zNWRmYVZDYTVXWHhrQ3BwR09yNjRBMVhYRk5heDlHRUhXMkF3cGxyLXdFaUY1bXQyWkxsVWp4LUx5QjA3RkY1ZzJDbmlTWVZSX1h6SlZBSEFaRTV5ZVJMMGlpeHJObjBRX25ydFAyWHh0M1lhOEs2ZnFfVQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zNWRmYVZDYTVXWHhrQ3BwR09yNjRBMVhYRk5heDlHRUhXMkF3cGxyLXdFaUY1bXQyWkxsVWp4LUx5QjA3RkY1ZzJDbmlTWVZSX1h6SlZBSEFaRTV5ZVJMMGlpeHJObjBRX25ydFAyWHh0M1lhOEs2ZnFfVQ?oc=5)
-
----
-
 ### [Los epidemiólogos alertan del aumento de las infecciones de transmisión sexual emergentes y multirresistentes](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
 
 2026-06-08 <span class="news-indication-tag">hepatitis</span>
@@ -144,7 +184,7 @@ permalink: /news/teriflunomide/
 
 ### [Ebola crisis exposes ‘preventable’ pandemic risk, say leaders](https://news.google.com/rss/articles/CBMingFBVV95cUxNWmFBLUhMZllCT01LcklVSXphbWMwdG44RHo3M3ZRNDVnZWZWUlNPSFVPczVOV19SeE9wVmJlcXpSRzJodkdZR3QwMldiLUR6RFJkblB1cHgwZ1N2cmRlMEtBN05yUVNmMjVEOGIzMnJJVllqRXYyazZUQUpwYjlXNWRyaS11d01mcmZEYTFkS1VpMnFNMHlOdVlJMGRZUQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[politico.eu](https://news.google.com/rss/articles/CBMingFBVV95cUxNWmFBLUhMZllCT01LcklVSXphbWMwdG44RHo3M3ZRNDVnZWZWUlNPSFVPczVOV19SeE9wVmJlcXpSRzJodkdZR3QwMldiLUR6RFJkblB1cHgwZ1N2cmRlMEtBN05yUVNmMjVEOGIzMnJJVllqRXYyazZUQUpwYjlXNWRyaS11d01mcmZEYTFkS1VpMnFNMHlOdVlJMGRZUQ?oc=5)
 
@@ -187,14 +227,6 @@ permalink: /news/teriflunomide/
 2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdjJCWmV6RjB2Rk1LSE1GMFFCdG1QcU4xa1Y1TjFaWDZUUW9pTVJ0VlRPNGtzMHp6NzEyZE5IOW5ONFJMYmwxelE5dktKNEh2a2lkRUNULWwwMlZlN1VfcFltQXNrVnhBZGdVbUxfRFdMd0djZ2lNSUE5TWIwQ01kVDhmLUN5QlBFVmVlZjB2YjBGekpENTZUUlZDekNlSDM1SWRKSjJraw?oc=5)
-
----
-
-### [Can Eating Avocado Improve Health and Lower Your Risk of Diabetes?](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
-
-2026-06-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxOazBUQmpMd1hRZ2VxZktGcS03YWl4MG8xZE4tUG9LRnBiekdxZXZCMmZxN1ZHbEp4NVhpbjhJcFlvb3VCekh5UTBDOUJQbHFCa012VnNLLW5NLURSb0VSUHdaMlNqTHljaG82Wm9LeDNHanRSaWxTZzZub1RrdXppeUNDSURBMkI3MW1qVVpEUV9Xdw?oc=5)
 
 ---
 

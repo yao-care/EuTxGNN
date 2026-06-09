@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Los avances en obesidad chocan con una respuesta sanitaria y social poco acorde a su complejidad - Somos Pacientes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3NjckQwU0paSVVWY0xWSWF5aTNUdERxM1M0dUlWMDVjWS1aM1NoS193UnMyQjlxQkw5MXlRb3ZQZlp3RlBWbnZ3S1htSDFUNFVNZERyN1BGQ3pYRDNFYVdyR3FCUDk2Y2V4MnpHZHpaMU1MOHkyeWs5OG0tNHRUemhBSU1mWjZjaTRNZFVocG5ucWItWFBQc2xHZTB0TUhabFQ4aEE0NXpRaW50MDNGTllTcHZoaThyaUg2dTdycGVRV21pUEx2S2NkVjhaUU4xQzdzTVFDc1pfYjB0Y3hjQ1IzVWozNzR2RDhJ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">obesidad</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3NjckQwU0paSVVWY0xWSWF5aTNUdERxM1M0dUlWMDVjWS1aM1NoS193UnMyQjlxQkw5MXlRb3ZQZlp3RlBWbnZ3S1htSDFUNFVNZERyN1BGQ3pYRDNFYVdyR3FCUDk2Y2V4MnpHZHpaMU1MOHkyeWs5OG0tNHRUemhBSU1mWjZjaTRNZFVocG5ucWItWFBQc2xHZTB0TUhabFQ4aEE0NXpRaW50MDNGTllTcHZoaThyaUg2dTdycGVRV21pUEx2S2NkVjhaUU4xQzdzTVFDc1pfYjB0Y3hjQ1IzVWozNzR2RDhJ?oc=5)
+
+---
+
+### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
+
+2026-06-09 <span class="news-indication-tag">ictus</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
+
+---
 
 ### [Why midlife is the danger zone for having a stroke (and how to avoid one) - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
 
@@ -62,19 +78,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Los endocrinos avisan: el aumento de la obesidad infantil incrementa los casos de hígado graso](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFU2RVkzNTZJSmF0elBBckNvaGMxQzlKZmNpODI0QmF6czBnZGo1b1Jvb1I3aTlhMURhM2RncjdsaE1rdzJ3SlFKMjdTWnpEV2MtTmNmcWwtNTFyU2t1bTY0MlhQYS1NVVZJQmcwb1VkN05CQ3N3UlRSUW1Tclg5ZmcxcENjblQwN1cwdmthWHZMQTdpMURCUG1jVUFPZ2N2TVlCOVZJLVRrendCY1HSAbMBQVVfeXFMTUJaaVI0bjloVU4wSmtGRExrY0s4bUtnV2liTWVWOTBmV2NFbi1sQjlIWkh3M1ZhTHFnenA4T3JMTE04cWltX1JFdWNmY3BQRmRfaEhRUExkWG9fdGN1YWJuejJfaGRhNmk3TmNNblk5RkVCRExVYlNZa2tFUUlyWjdzMWlIR1VwUldjVnhWY3h3cGxIejBiTlRPMjFSX2VNYjdGRnR1cE1kMEJxX3llZ0xVN2s?oc=5)
+### [Comer menos y moverse más: «Esto no es un consejo médico, es un eslogan que hizo mucho daño» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd3VvU0ltYnJtTWVkMmZxeUhNYVFxUUYtX0Z4cEZCZHkwUllXZHZiZjZ6N05IWkdyV0VEQTlaRlpLUnB6UHRINi1tOEJ4aFBXVDBDX2lYRU0zcE5YY3dvTzlkY0Vld1diRmxQYW1CSUtvWkJlZVZWMTJVQWZyUkxLTU5mbXl6b1lDZzctd2liMEdIcnNkZXlOcVBTQWNUZk9jd1hWTmpUUzRuLXMxdWJPTjIwdC1KV2RJQ2NmTnF3ZEdDYVluczUtSk1ZLU9YVG9iLWs4dEwyblZmUWlQRTNnZ2RHTEdHZw?oc=5)
 
-2026-06-09 <span class="news-indication-tag">obesidad</span>
+2026-06-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFU2RVkzNTZJSmF0elBBckNvaGMxQzlKZmNpODI0QmF6czBnZGo1b1Jvb1I3aTlhMURhM2RncjdsaE1rdzJ3SlFKMjdTWnpEV2MtTmNmcWwtNTFyU2t1bTY0MlhQYS1NVVZJQmcwb1VkN05CQ3N3UlRSUW1Tclg5ZmcxcENjblQwN1cwdmthWHZMQTdpMURCUG1jVUFPZ2N2TVlCOVZJLVRrendCY1HSAbMBQVVfeXFMTUJaaVI0bjloVU4wSmtGRExrY0s4bUtnV2liTWVWOTBmV2NFbi1sQjlIWkh3M1ZhTHFnenA4T3JMTE04cWltX1JFdWNmY3BQRmRfaEhRUExkWG9fdGN1YWJuejJfaGRhNmk3TmNNblk5RkVCRExVYlNZa2tFUUlyWjdzMWlIR1VwUldjVnhWY3h3cGxIejBiTlRPMjFSX2VNYjdGRnR1cE1kMEJxX3llZ0xVN2s?oc=5)
-
----
-
-### [Mujeres en perimenopausia tienen el doble de riesgo de enfermedad cardiovascular, según estudio - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2U2b0FvMXdfYllNcVJqd3JwUDlsaWRhbXp3S0ZybGx1QkZTVFYxWVJSWnJzM3g1NFplRDBJdG5HSVJTY0dsbVI4cVhlVEV1el9YNkZCS0tiLTk0ODBnZnRDZzV3cGpOdTd4bElqTjdaM0FFc01BcjhPZnpfTU5ZQkkyZW1Oa0pCeVZ0bThFN3NuRmx0Vnhra2FPUXlPUG4tSHdLWjN0Y3ZGTG96VVhCMWg3cEg5TlFsMlRnTkVWMnBJMl9kUEFXemNrT0c3dU00MEI0MWRyQm9jUWJocGFPSEM0Skw0a19VVFd30gHwAUFVX3lxTE9MVHlVY2l3b3pKb0FfYmdyS2RmOGNsdld6LXRETHo4ckFtcXd6ek9aU2REV2szSVNzaFowSFFiQ1BhTVZMd3M5aE13WmxPX2tNYmJjdWQ4cVBrUTlwUFZucEtzSERkZnpsaWRfMnNvOEtieVFxYVl5YjdtcUpCeUtxVkY1WE05Rm8xVHR1VkFLc2o4SlpndW1YQzVNNXNQc3kweEdqVzVSVXJpY21ySDBpdWZwNzhuMEJoN2pMQWVfU2tvUllkdnU2S3JLZHk0dGV0bThreFUxUmNncWhSRWlpMUpXb3B0REVXeDV6S2NyWA?oc=5)
-
-2026-06-09 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ2U2b0FvMXdfYllNcVJqd3JwUDlsaWRhbXp3S0ZybGx1QkZTVFYxWVJSWnJzM3g1NFplRDBJdG5HSVJTY0dsbVI4cVhlVEV1el9YNkZCS0tiLTk0ODBnZnRDZzV3cGpOdTd4bElqTjdaM0FFc01BcjhPZnpfTU5ZQkkyZW1Oa0pCeVZ0bThFN3NuRmx0Vnhra2FPUXlPUG4tSHdLWjN0Y3ZGTG96VVhCMWg3cEg5TlFsMlRnTkVWMnBJMl9kUEFXemNrT0c3dU00MEI0MWRyQm9jUWJocGFPSEM0Skw0a19VVFd30gHwAUFVX3lxTE9MVHlVY2l3b3pKb0FfYmdyS2RmOGNsdld6LXRETHo4ckFtcXd6ek9aU2REV2szSVNzaFowSFFiQ1BhTVZMd3M5aE13WmxPX2tNYmJjdWQ4cVBrUTlwUFZucEtzSERkZnpsaWRfMnNvOEtieVFxYVl5YjdtcUpCeUtxVkY1WE05Rm8xVHR1VkFLc2o4SlpndW1YQzVNNXNQc3kweEdqVzVSVXJpY21ySDBpdWZwNzhuMEJoN2pMQWVfU2tvUllkdnU2S3JLZHk0dGV0bThreFUxUmNncWhSRWlpMUpXb3B0REVXeDV6S2NyWA?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd3VvU0ltYnJtTWVkMmZxeUhNYVFxUUYtX0Z4cEZCZHkwUllXZHZiZjZ6N05IWkdyV0VEQTlaRlpLUnB6UHRINi1tOEJ4aFBXVDBDX2lYRU0zcE5YY3dvTzlkY0Vld1diRmxQYW1CSUtvWkJlZVZWMTJVQWZyUkxLTU5mbXl6b1lDZzctd2liMEdIcnNkZXlOcVBTQWNUZk9jd1hWTmpUUzRuLXMxdWJPTjIwdC1KV2RJQ2NmTnF3ZEdDYVluczUtSk1ZLU9YVG9iLWs4dEwyblZmUWlQRTNnZ2RHTEdHZw?oc=5)
 
 ---
 
@@ -86,19 +94,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [‘Stroke and brain injury? We are potentially sitting on a time bomb’ - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
+### [Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
 
 ---
 
-### [New drug to stop 'Ozempic butt' muscle loss side effect of obesity jabs](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNbkszVi1qZUlnOUVtZk9DbnE1azF3cXlTNVRBcFp1eWNnODNJd1dHTmFRZVQ2ZTY4YUpBZE45Rk1IOHpFdU5CenVKdlRrQThUdFdwQTFtdmVpUkI5?oc=5)
+### [‘Stroke and brain injury? We are potentially sitting on a time bomb’](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNbkszVi1qZUlnOUVtZk9DbnE1azF3cXlTNVRBcFp1eWNnODNJd1dHTmFRZVQ2ZTY4YUpBZE45Rk1IOHpFdU5CenVKdlRrQThUdFdwQTFtdmVpUkI5?oc=5)
+來源：[thetimes.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
 ---
 

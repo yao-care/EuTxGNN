@@ -62,19 +62,19 @@ permalink: /news/netupitant/
 
 ---
 
+### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+
+---
+
 ### [Allergische Rhinitis als Risikofaktor für Migräne - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
 
 2026-06-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
-
----
-
-### [Bluthochdruck: 50% der Patienten nehmen Medikamente unregelmäßig - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
-
-2026-06-07 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0p2Zy1laXJlWmZfREhPdnhmMXRXeVY2ZFgyUzlsRWNJRkpKaGpKaEo3eDFHcFpKYWNKcHp2NEJzS29HbEg3ZU9HcERLcEw4T1BaWjlnS0lhNkFaeExBZEpac2xrYW1xWHNKVTA0ZHE0eU1YWld3UjVCSi1NNzlueXA1NHVCLVV2Z0VOaXc5dmhFbEY1bS1jWlhjNW5JcUotbzVONy1RTjVYTVZBYjZGUlpxRHMxQWJHWno2anFB?oc=5)
 
 ---
 
