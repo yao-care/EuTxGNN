@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Gehirn, Emotionen und Darm: Wie Kultur, Stress und das soziale Umfeld die Darmgesundheit prägen - Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
+
+2026-06-09
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
+
+---
 
 ### [Hormon als Booster bei antidepressiver Behandlung - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
 

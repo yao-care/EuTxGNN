@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Las mujeres con la menopausia adelantada tienen mayor riesgo de padecer un ictus o un infarto - EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+### [7 millions de Français prennent ce médicament qui augmente le risque d'AVC chez les plus de 65 ans selon une nouvelle étude](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
 
-2026-06-08 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+2026-06-09 <span class="news-indication-tag">AVC</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
+
+---
+
+### [Menopausia: El impacto invisible para la salud metabólica y cardiovascular](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVd2bURtN2tTMnRHUU9mNUczZVlfdDhhRUIwUUtEczdBMzRGeG5tQk5jOHBqY0lubTJtSVowZXlBT25kVjhzMjdIVmI1TTB0YUFoMWpWZkowSmswWWZ2dU83YzNDZHREXzFNTEcwbUs0cVNiN3pkbklFTXBqS29TWjUtTGFMRy1HYkFjLVpzZ3FVLWtRTGRNRml4WkZJeGs0c1VaR2gwbzU5TEliRUE4SkVTVVB0NnRfSk1SbmFfbmZmQWRJbWx2WndUTGNkV2NXQ0NET0V4NzV3UE1RT0VDUVpWcTfSAeQBQVVfeXFMTm1Xdm1EbTdrUzJ0R1FPZjVHM2VZX3Q4YUVCMFFLRHM3QTM0RnhubUJOYzhwamNJbm0ybUlaMGV5QU9uZFY4czI3SFZiNU0wdGFBaDFqVmZKMEprMFlmdnVPN2MzQ2R0RF8xTUxHMG1LNHFTYjd6ZG5JRU1waktvU1o1LUxhTEctR2JBYy1ac2dxVS1rUUxkTUZpeFpGSXhrNHNVWkdoMG81OUxJYkVBOEpFU1VQdDZ0X0pNUm5hX25mZkFkSW1sdlp3VExjZFdjV0NDRE9FeDc1d1BNUU9FQ1FaVnE3?oc=5)
+
+2026-06-08 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVd2bURtN2tTMnRHUU9mNUczZVlfdDhhRUIwUUtEczdBMzRGeG5tQk5jOHBqY0lubTJtSVowZXlBT25kVjhzMjdIVmI1TTB0YUFoMWpWZkowSmswWWZ2dU83YzNDZHREXzFNTEcwbUs0cVNiN3pkbklFTXBqS29TWjUtTGFMRy1HYkFjLVpzZ3FVLWtRTGRNRml4WkZJeGs0c1VaR2gwbzU5TEliRUE4SkVTVVB0NnRfSk1SbmFfbmZmQWRJbWx2WndUTGNkV2NXQ0NET0V4NzV3UE1RT0VDUVpWcTfSAeQBQVVfeXFMTm1Xdm1EbTdrUzJ0R1FPZjVHM2VZX3Q4YUVCMFFLRHM3QTM0RnhubUJOYzhwamNJbm0ybUlaMGV5QU9uZFY4czI3SFZiNU0wdGFBaDFqVmZKMEprMFlmdnVPN2MzQ2R0RF8xTUxHMG1LNHFTYjd6ZG5JRU1waktvU1o1LUxhTEctR2JBYy1ac2dxVS1rUUxkTUZpeFpGSXhrNHNVWkdoMG81OUxJYkVBOEpFU1VQdDZ0X0pNUm5hX25mZkFkSW1sdlp3VExjZFdjV0NDRE9FeDc1d1BNUU9FQ1FaVnE3?oc=5)
 
 ---
 
@@ -67,22 +75,6 @@ permalink: /news/simvastatin/
 2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
-
----
-
-### [Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
-
-2026-06-08 <span class="news-indication-tag">CVA</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
-
----
-
-### [« Elles minimisent les risques » : les femmes sont de plus en plus touchées par des problèmes cardiaques - Le Progrès](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJXS25EOFNpRjE0UzFCWlVpSC1QUmQ0UElQbFNWWEVzWDVWZFpGZ0xOc3hGcGtBaDB2V2tUYU5lNnJxcWJ2UmYwaHlfWGVibFY3OVhPZVc2RnhaMFc4VE50ODdpMDllNld3ajJlNWlhcWhBNGRvSWh1aXhHbjJrSlVzNmdWaEJVQXhua3hEVkJUdm55dmpFZ191VkpLME9OTVdpN2lZbDRjdjkwZ1E?oc=5)
-
-2026-06-08 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJXS25EOFNpRjE0UzFCWlVpSC1QUmQ0UElQbFNWWEVzWDVWZFpGZ0xOc3hGcGtBaDB2V2tUYU5lNnJxcWJ2UmYwaHlfWGVibFY3OVhPZVc2RnhaMFc4VE50ODdpMDllNld3ajJlNWlhcWhBNGRvSWh1aXhHbjJrSlVzNmdWaEJVQXhua3hEVkJUdm55dmpFZ191VkpLME9OTVdpN2lZbDRjdjkwZ1E?oc=5)
 
 ---
 

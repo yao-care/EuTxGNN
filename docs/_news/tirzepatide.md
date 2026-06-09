@@ -56,7 +56,7 @@ permalink: /news/tirzepatide/
 
 ### [Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
 
-2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Remboursement de Wegovy et Mounjaro : une manne pour les pharmaciens ? - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFRUVXF2NUwyazRwUU16MXpiZmMzajhRcVNtV2tOZnZJRzc2NW0zQWRZbFBEWU03cHhLRmVYWmUwLXBfMTlaelBhWUtVLUtuVVVFRU1jNkdQbVY5aU11ekFBdFMwWEtKMEc4dkdPRVZsMDB4dzItTENMc3Z2bklERjR3QjBDV2VoN29vUmVOazVvekhROVJpT0hiTTdxRXdoSHdVUWUzUkxYaXllWUxOb3ZJQ0tGNTVWT1ZEMTFkbw?oc=5)
+### [Quels sont ces deux médicaments contre l’obésité qui seront remboursés à partir du 15 juin ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnJZN3BUZGhBZGVNMTJhN25RbERCYlFQRl9mcUtNQUplMVpSb1RDanFYS21GYm93cVBlSXVSWkpZRGxEUHBKSkJOdk1mM2JFUlI3NVF1a0RLakNZVlFmSlhTTm9qMnl2cUdpM0xBanBDdG9iUGJrNE1ZeGRxVW85QUV3NzE3SFpHYTVxQS05Mzg4cmdsUzRqeV9rdmRLLWVCV0dpc3A5Z0hKZThtRFZsZU83cGl6SV90ZVozaktuLVkzbkkzWGVDZnJDdFNHQ29QcGRDWk56bFM5ZDJ2d3JhWndR?oc=5)
 
 2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFRUVXF2NUwyazRwUU16MXpiZmMzajhRcVNtV2tOZnZJRzc2NW0zQWRZbFBEWU03cHhLRmVYWmUwLXBfMTlaelBhWUtVLUtuVVVFRU1jNkdQbVY5aU11ekFBdFMwWEtKMEc4dkdPRVZsMDB4dzItTENMc3Z2bklERjR3QjBDV2VoN29vUmVOazVvekhROVJpT0hiTTdxRXdoSHdVUWUzUkxYaXllWUxOb3ZJQ0tGNTVWT1ZEMTFkbw?oc=5)
+來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnJZN3BUZGhBZGVNMTJhN25RbERCYlFQRl9mcUtNQUplMVpSb1RDanFYS21GYm93cVBlSXVSWkpZRGxEUHBKSkJOdk1mM2JFUlI3NVF1a0RLakNZVlFmSlhTTm9qMnl2cUdpM0xBanBDdG9iUGJrNE1ZeGRxVW85QUV3NzE3SFpHYTVxQS05Mzg4cmdsUzRqeV9rdmRLLWVCV0dpc3A5Z0hKZThtRFZsZU83cGl6SV90ZVozaktuLVkzbkkzWGVDZnJDdFNHQ29QcGRDWk56bFM5ZDJ2d3JhWndR?oc=5)
 
 ---
 

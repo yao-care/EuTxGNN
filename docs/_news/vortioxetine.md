@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Gehirn, Emotionen und Darm: Wie Kultur, Stress und das soziale Umfeld die Darmgesundheit prägen - Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
+
+---
 
 ### [Hormon als Booster bei antidepressiver Behandlung - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
 

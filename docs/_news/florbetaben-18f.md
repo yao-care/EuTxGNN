@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="Florbetaben (18F) 有什麼相關新聞？">
-<strong>Florbetaben (18F)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetaben (18F)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/florbetaben-18f/
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Monoartrite infiammatoria, lo studio per le nuove cure. “Colpisce anche i giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
 
 2026-06-08 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
+
+---
+
+### [Allergische Rhinitis als Risikofaktor für Migräne - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">Migräne</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
 
 ---
 

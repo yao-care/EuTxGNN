@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Monoartrite infiammatoria, lo studio per le nuove cure. “Colpisce anche i giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
 
 2026-06-08 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
-
----
-
-### [Guías clínicas para el manejo de la enfermedad de Crohn en adultos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUZxSTF3VG1YUG1Ddk5TMmFEQ3g5MWdLNE5UX2tMeVNDUks4U0VodzhHY0JfVzVTRkVabGlDaDU4aEhodkZIVzQxaGs2VlhxcHVuZEZDVGxCSVpKSmtvYlM3M3ZqaG1jbFV0Y1d1eUlaMW5qWTgzLVNROXlWa2Z2UEVYRnhkb3hzVWNrR1Z5dkc0MmpseGpYYm9aUzNfbC1iTlpHWGp3c1NfQXBzS3V2ZWVUUjFGanVqQ1RfNmhJeUc?oc=5)
-
-2026-06-08 <span class="news-indication-tag">enfermedad de Crohn</span>
-
-來源：[saval.cl](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUZxSTF3VG1YUG1Ddk5TMmFEQ3g5MWdLNE5UX2tMeVNDUks4U0VodzhHY0JfVzVTRkVabGlDaDU4aEhodkZIVzQxaGs2VlhxcHVuZEZDVGxCSVpKSmtvYlM3M3ZqaG1jbFV0Y1d1eUlaMW5qWTgzLVNROXlWa2Z2UEVYRnhkb3hzVWNrR1Z5dkc0MmpseGpYYm9aUzNfbC1iTlpHWGp3c1NfQXBzS3V2ZWVUUjFGanVqQ1RfNmhJeUc?oc=5)
 
 ---
 

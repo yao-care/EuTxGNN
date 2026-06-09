@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Avanafil</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（27 則）
 
 ### [Krebs: Durchbruch in der Forschung – Neue Ergebnisse im Kampf gegen Krebs-Rückfälle](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
 
@@ -62,11 +62,43 @@ permalink: /news/avanafil/
 
 ---
 
-### [Las mujeres con la menopausia adelantada tienen mayor riesgo de padecer un ictus o un infarto - EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+### [Warum immer mehr Menschen wegen Hautkrebs behandelt werden - und wie man sich schützt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVA3X1J2aV9FbE9LWUIzUkowUGI2WW9EVmdFRjdwa2pURnE1TjdfbEtXTXB1VENicmtjNlFyWmo1UU8zZklyOG5sSWlZWVNGMDVmWFZleUoyd1hXb0RBNkt0dFRzOFY4WVpXSWFtLXpsQnBvT3lhY2FLZWpwd1ozRld5b3BjLXBJSGk4UWJId0NVZjUySkhBcm1TdDF5cWFlV3JUdUc3NFR6YzFaUFFXTzdIMnZhVWQxajdpX182Q1hxLWtNcVNF?oc=5)
 
-2026-06-08 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+2026-06-09 <span class="news-indication-tag">Krebs</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+來源：[NDR.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVA3X1J2aV9FbE9LWUIzUkowUGI2WW9EVmdFRjdwa2pURnE1TjdfbEtXTXB1VENicmtjNlFyWmo1UU8zZklyOG5sSWlZWVNGMDVmWFZleUoyd1hXb0RBNkt0dFRzOFY4WVpXSWFtLXpsQnBvT3lhY2FLZWpwd1ozRld5b3BjLXBJSGk4UWJId0NVZjUySkhBcm1TdDF5cWFlV3JUdUc3NFR6YzFaUFFXTzdIMnZhVWQxajdpX182Q1hxLWtNcVNF?oc=5)
+
+---
+
+### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
+
+---
+
+### [7 millions de Français prennent ce médicament qui augmente le risque d'AVC chez les plus de 65 ans selon une nouvelle étude](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
+
+2026-06-09 <span class="news-indication-tag">AVC</span>
+
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
+
+---
+
+### [Menopausia: El impacto invisible para la salud metabólica y cardiovascular](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVd2bURtN2tTMnRHUU9mNUczZVlfdDhhRUIwUUtEczdBMzRGeG5tQk5jOHBqY0lubTJtSVowZXlBT25kVjhzMjdIVmI1TTB0YUFoMWpWZkowSmswWWZ2dU83YzNDZHREXzFNTEcwbUs0cVNiN3pkbklFTXBqS29TWjUtTGFMRy1HYkFjLVpzZ3FVLWtRTGRNRml4WkZJeGs0c1VaR2gwbzU5TEliRUE4SkVTVVB0NnRfSk1SbmFfbmZmQWRJbWx2WndUTGNkV2NXQ0NET0V4NzV3UE1RT0VDUVpWcTfSAeQBQVVfeXFMTm1Xdm1EbTdrUzJ0R1FPZjVHM2VZX3Q4YUVCMFFLRHM3QTM0RnhubUJOYzhwamNJbm0ybUlaMGV5QU9uZFY4czI3SFZiNU0wdGFBaDFqVmZKMEprMFlmdnVPN2MzQ2R0RF8xTUxHMG1LNHFTYjd6ZG5JRU1waktvU1o1LUxhTEctR2JBYy1ac2dxVS1rUUxkTUZpeFpGSXhrNHNVWkdoMG81OUxJYkVBOEpFU1VQdDZ0X0pNUm5hX25mZkFkSW1sdlp3VExjZFdjV0NDRE9FeDc1d1BNUU9FQ1FaVnE3?oc=5)
+
+2026-06-08 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVd2bURtN2tTMnRHUU9mNUczZVlfdDhhRUIwUUtEczdBMzRGeG5tQk5jOHBqY0lubTJtSVowZXlBT25kVjhzMjdIVmI1TTB0YUFoMWpWZkowSmswWWZ2dU83YzNDZHREXzFNTEcwbUs0cVNiN3pkbklFTXBqS29TWjUtTGFMRy1HYkFjLVpzZ3FVLWtRTGRNRml4WkZJeGs0c1VaR2gwbzU5TEliRUE4SkVTVVB0NnRfSk1SbmFfbmZmQWRJbWx2WndUTGNkV2NXQ0NET0V4NzV3UE1RT0VDUVpWcTfSAeQBQVVfeXFMTm1Xdm1EbTdrUzJ0R1FPZjVHM2VZX3Q4YUVCMFFLRHM3QTM0RnhubUJOYzhwamNJbm0ybUlaMGV5QU9uZFY4czI3SFZiNU0wdGFBaDFqVmZKMEprMFlmdnVPN2MzQ2R0RF8xTUxHMG1LNHFTYjd6ZG5JRU1waktvU1o1LUxhTEctR2JBYy1ac2dxVS1rUUxkTUZpeFpGSXhrNHNVWkdoMG81OUxJYkVBOEpFU1VQdDZ0X0pNUm5hX25mZkFkSW1sdlp3VExjZFdjV0NDRE9FeDc1d1BNUU9FQ1FaVnE3?oc=5)
+
+---
+
+### [‘Transformative’ new UK vaccine could prevent bowel and ovarian cancer in world first](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3E3S1V2SW9LRWFmMWI3UzBRWjEySUN1SDdEYWMyQlczcU91OEFmSGlpcFJWV0dkQ3ZFVWFsSl8tZEMyOFhBTzdMOXBCRzVfRkVaR1JUZnpKa01IRTBydWJCSTBUZndoQzBnRzh5SXZHSGo5NWtHbVZ0S2t6ZTJkZ1dhVEltQUxkZG5lN0NtWQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3E3S1V2SW9LRWFmMWI3UzBRWjEySUN1SDdEYWMyQlczcU91OEFmSGlpcFJWV0dkQ3ZFVWFsSl8tZEMyOFhBTzdMOXBCRzVfRkVaR1JUZnpKa01IRTBydWJCSTBUZndoQzBnRzh5SXZHSGo5NWtHbVZ0S2t6ZTJkZ1dhVEltQUxkZG5lN0NtWQ?oc=5)
 
 ---
 
@@ -78,11 +110,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
+### ['I just want my life back after doctors found problem deep inside my brain' - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
 
 ---
 
@@ -91,14 +123,6 @@ permalink: /news/avanafil/
 2026-06-08 <span class="news-indication-tag">tumor</span>
 
 來源：[COPE](https://news.google.com/rss/articles/CBMimgJBVV95cUxNem1lekpTQjdFTXRwd2Y5WTRaOHlpOFYwM2V3V1ByWkoxaE9tUEJPMmlmaVdyVDhBYnlPTmVBY1pIaU9TNDZOLURrSUliNThfQjBMTHVmQXh6UXJLLU9IRjlZNzRpcmdyOS10MWw2VkV6T3VlcmVGcFdyelFuOWI2V2FzaFhxM3RrWXdLLUNUYWRYTkxxTWxOU3ZET19mVnByVVQzeG5iU0NMRTctX0FvUFM2NXJQSnY1R2xYVzhSTkIteVJWZGliWTZka0xVVmhPSy14UEFJX18wVXZTMTlIbnJ2YkVldXloR041bWpuTEo4VUZOYmV0bWlQeWhxNVpYcFAxS0pCT0tJSGJjM25mRWxHS1RVNXVKdGfSAZ8CQVVfeXFMT002V3EzVlNid1RhaDVZWWJhbUE1TXhqRFA0QTExRTd6Y053QnZVNUhQQXN4aDBkYU5JQXNWWFU1TWV4WVhLMnFLT1BFS1lwLXIxUWFsQkR6LVdMakdTREVONjdtZGVOWWdXZnFoV0pkakxyNnQ0ZFdWUEtJb0JKcE5Rd21IRXpiSW5XeEtGcU1NbEpvVWNuRnlSOTk3WU1mb3pCSkRHcUxmUTJLNVhvaHgzam5VWjlreFRSd2t6ZFVzTmZWSFZRb0hNSC1OSHBBVTlVZmhJLVNzblk1dnRsOGEzWDR3blJCbHhSN0V4UE9udGl5X2pENExTM1JhQW5kZjhrMl9KOFlzRkFXM1l4Z043c01ITndycDR5S01qQ0k?oc=5)
-
----
-
-### [Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
-
-2026-06-08 <span class="news-indication-tag">CVA</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
 
 ---
 
@@ -118,11 +142,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+### [Stoffwechsel-Schalter gegen Lungenkrebs - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1blZPTEs3Z1hJSkU2Q25BT2JGSTVud2RyN1JRTVhrMWp3MnZtMjRQMloxUFRqS2FNTk12dG5Hd25COVhzc01aQjZMaw?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
+2026-06-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1blZPTEs3Z1hJSkU2Q25BT2JGSTVud2RyN1JRTVhrMWp3MnZtMjRQMloxUFRqS2FNTk12dG5Hd25COVhzc01aQjZMaw?oc=5)
 
 ---
 
@@ -214,19 +238,19 @@ permalink: /news/avanafil/
 
 ---
 
-### [« Elles minimisent les risques » : les femmes sont de plus en plus touchées par des problèmes cardiaques - Le Progrès](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJXS25EOFNpRjE0UzFCWlVpSC1QUmQ0UElQbFNWWEVzWDVWZFpGZ0xOc3hGcGtBaDB2V2tUYU5lNnJxcWJ2UmYwaHlfWGVibFY3OVhPZVc2RnhaMFc4VE50ODdpMDllNld3ajJlNWlhcWhBNGRvSWh1aXhHbjJrSlVzNmdWaEJVQXhua3hEVkJUdm55dmpFZ191VkpLME9OTVdpN2lZbDRjdjkwZ1E?oc=5)
+### [«Cancro al seno, i farmaci per la perdita di peso riducono il rischio di tumore fino al 30%» - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
 
-2026-06-08 <span class="news-indication-tag">AVC</span>
+2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJXS25EOFNpRjE0UzFCWlVpSC1QUmQ0UElQbFNWWEVzWDVWZFpGZ0xOc3hGcGtBaDB2V2tUYU5lNnJxcWJ2UmYwaHlfWGVibFY3OVhPZVc2RnhaMFc4VE50ODdpMDllNld3ajJlNWlhcWhBNGRvSWh1aXhHbjJrSlVzNmdWaEJVQXhua3hEVkJUdm55dmpFZ191VkpLME9OTVdpN2lZbDRjdjkwZ1E?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
 
 ---
 
-### [La dieta sí podría complementar los tratamientos oncológicos, ¿pero qué más hace falta? - El Confidencial](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwVzZRVWJHVkpjNGFKWXlhbHVEaVgwekNXUXRWbndoX0ZsbkhCdjBYNU1DTFdPR0gxRHZRdF9FTFFTMWwwdzdwZGtyQ1JjYVpuZUF1cU1EV3ZzbExxXy05UTNUU2Ewbkp5ZTVYYTM3eWRhR084THYtbnJ3WnR5clFMXzN0RWJKNTY5bW9TTWRZZ25rOWV1dXV3Q2s0aUpCdVdPRHVhbUdHaTY3X2U5b255MA?oc=5)
+### [Metabolismo y desarrollo tumoral: ¿Pueden dieta y ejercicio ayudar a tratar el cáncer?](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09Ka1BiSHN2cTdVU3hYaFNCQUlraEdSSmlJbDEtRE1qUktPdFJfU3hOLWNTZ01IZ1o4Z2RlTW1jc2M0RzNOM01XbWtWU2JGa2RrMDZBZmo5MUc5ZXJpeTNJMnIzV2JGWE5QZjV0QWVuMUszRE9RaE1hNEdPekxoSm9lbExyVWQyeHBNX0pQR1R5T1YtckZ6Q0tqZ1VuaktaTWpJeHVBV19MZjVHZjVLUw?oc=5)
 
 2026-06-08 <span class="news-indication-tag">cancer</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwVzZRVWJHVkpjNGFKWXlhbHVEaVgwekNXUXRWbndoX0ZsbkhCdjBYNU1DTFdPR0gxRHZRdF9FTFFTMWwwdzdwZGtyQ1JjYVpuZUF1cU1EV3ZzbExxXy05UTNUU2Ewbkp5ZTVYYTM3eWRhR084THYtbnJ3WnR5clFMXzN0RWJKNTY5bW9TTWRZZ25rOWV1dXV3Q2s0aUpCdVdPRHVhbUdHaTY3X2U5b255MA?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09Ka1BiSHN2cTdVU3hYaFNCQUlraEdSSmlJbDEtRE1qUktPdFJfU3hOLWNTZ01IZ1o4Z2RlTW1jc2M0RzNOM01XbWtWU2JGa2RrMDZBZmo5MUc5ZXJpeTNJMnIzV2JGWE5QZjV0QWVuMUszRE9RaE1hNEdPekxoSm9lbExyVWQyeHBNX0pQR1R5T1YtckZ6Q0tqZ1VuaktaTWpJeHVBV19MZjVHZjVLUw?oc=5)
 
 ---
 
@@ -243,22 +267,6 @@ permalink: /news/avanafil/
 2026-06-07 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW43SlBQZ1hzZFNNb2JqR0xTQUcyOUYxVGI0MHAwb2o0ZFowZWNiMlFudDMxMjdYTmxjWm01ejJXdlk4M1dNaHQyNGpRdjFrc3R3LVZReG9rNzltcjZhR09jYUU2M3VrSm5SdDJTSF81SVJRRXBTQTlqR0dSSVRKNkljbHFTLUhtY2taN012bmhaYzN3WWNqeEFTRlNxQzlSNFQ3QjVR?oc=5)
-
----
-
-### [Como in Salute, a Erba il 10 giugno l'incontro sul tema dello screening per la lotta contro il cancro](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancro</span>
-
-來源：[Erbanotizie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
-
----
-
-### [Voici comment des chercheurs ont réussi à produire un médicament anticancer essentiel grâce à de la levure - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
 
 ---
 

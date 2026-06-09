@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dronedarone</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（21 則）
 
-### [Las mujeres con la menopausia adelantada tienen mayor riesgo de padecer un ictus o un infarto - EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+### [Wie Neandertaler-Gene unsere Reaktion auf DNA-Viren prägen](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHRNSE1nQzJnZDc4dEtEQm5OYi1iTnhDSzcwYXdtSlBRVS1uRHlWR1lUYnQtQnEyeVVTZ2QyUXgwcnkwNGlheksxU1djaWNNZUwwWHdmTEgzdTJUTVlMcWJIcEZoc3M0NEFYQUFpTGdzZllpaHQ1WmdteGpTaVNwVTlnd0JmZ3B4SmtROGQ0eW1sZW8zUzFMZ3RZdUxic1RiWkVSQUhIMzcxVGs?oc=5)
 
-2026-06-08 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+2026-06-09 <span class="news-indication-tag">AF</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3hZdXBRMDF2MFdyT0J5c3VHX0JEb3Z2OWdXVnYzZWZHMFhlQVhNMXlWaERHTnVSZl9SN2JVcDNEZWpqcG1XM2F2RlI5Y3FqQ1NIV210XzdibXRVWDBjY1hNMkZ6TmJDX3RlaVFWbEd0SHE1d2xnNFZPS1lQS2xOaDdSUElnSkx2dHJ4RXRNMkw3VTNJRXZmOVFDeE56TGFLMnBZVjRCZDkwUV8tQXRkTWM1X0JuM3M3MjdteUpoRlF6R0NhdkVoV2U3RnBsNlowYXlqN1lSWEE5Wjd2aC1J0gHzAUFVX3lxTE9vOGlKekRmdkl6RE10Z3VGM2FBTXpuLXIwbjE4NEgxajJ2Z1NDZ0NiV1U3ellPT1F5NHUtSXVVSGl0Z3ZkUml3clRRTTlFMjlXMm4wdWh1VVFJeF9MZlJTTFJsaENmdExXQTUzVVU4QzBzc3dWYlZTaG1TdHdHYnhXREVlZzA3eHNFdEgxRk1ldk5MeDBSRzZwSlVYQUxoRDVoeUZWNFpiMTItcGhWNzZCaTBrSklSekRyRGhPV05weENtZWQzYlJRdU5kZmVPSVQwQ1RoT2pFN21fYzBMUFBjcHF5SlA0aFhHdGx5MEFibkZmRQ?oc=5)
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHRNSE1nQzJnZDc4dEtEQm5OYi1iTnhDSzcwYXdtSlBRVS1uRHlWR1lUYnQtQnEyeVVTZ2QyUXgwcnkwNGlheksxU1djaWNNZUwwWHdmTEgzdTJUTVlMcWJIcEZoc3M0NEFYQUFpTGdzZllpaHQ1WmdteGpTaVNwVTlnd0JmZ3B4SmtROGQ0eW1sZW8zUzFMZ3RZdUxic1RiWkVSQUhIMzcxVGs?oc=5)
 
 ---
 
-### [La diabetes gestacional afecta al 10% de las embarazadas y puede marcar la salud del bebé - Diario Sur](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Q5Z3JTN2pTeHdxclpCYXR5Z09lclZaZDlSeHdlVkY4N1NhdzlnT3lvU3ZFdkVmRDAzeEVTZnhnMldwNS1aR3phcDhELTJSVEk4TkowcVBMMHdlTlVVaElhTWk1S2pzN1FDMWt3ckUtcTJmd2pPNVJVRmxDYVQ0NVpsRlZHb29pTDB6dXA5WndOSDMxUllGaGYxMC1SamtrX0U1SFVNcXZ3WWJqOFVaZzJMc1VUOEF1RUhVYTBR0gHDAUFVX3lxTFAwdThnOU5xd0lfbFN4V0VzMUVSZ1FXMU1aajkyRmhjS19PeE8waC1yV0pfQy10eHA5UEpVNTJYTHBxNl9fMkRxNGVNYThDaTEtREV2bk9BcHlwdHRZcmotUmJjbmlUeTdvSzh2SWd6NXA5Q3ZJVll5VklNc3Z6eE9KX2VDQzBhbFQ3QnN1cjIyb1NBeGdjejN5OHpwaGdsZlZPUVBMTDZ4NjlIa3YwN3F1a2s1UnJEVnFtWFZ3ZXFfWFRLRQ?oc=5)
+### [La razón por la que los médicos insisten en una analítica anual desde los 40 años - El Debate](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWN1TUhSaE9QLUwyRk9JWE5XQkhldGxuNURlUmZra2t0b3ZvcjQzeTNHWTBlM0NsSUxxUEF6LWhBalRaODJpX3ZxcS16Sy1RVHB4alpmZWNRazY4enBKUWwwaUlyWXBpT1FTMi1iZ3ZEV1Vtd1UyVFk0Z3ByWEczN25ieHQ5VWNycFJXX0h5VWU1VlhodExVMTRPb1FLUVR6c0l4RWJ3RjR3bTJQV3djRVc5aWZWQWJDNUg3eXFESdIBxAFBVV95cUxPNjBDakp2RmwwUHQwNVlMY3R4Z1BKbDAxTmVRN2FIZVNPTzhidVJacEsza2ROa2JKRTJWb1JWaDFfNWdISFJQT1hfa0lDSlBOMHZsLWZ4WW5tcmZWbFk5LTM0TFI2UWNMSU1BbklfejlxT3hjR0lpZ3lhcUV1UXAtWVZkU3BLdk9wVDloWU4xRlBDbWUxbV9POS1VaEZwZE1BTHRZXzRCRUg2QkhWNEdKWDlxR3RUOHkwc3RDc1pUUnRSM25v?oc=5)
 
-2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-06-09 <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">AF</span>
 
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Q5Z3JTN2pTeHdxclpCYXR5Z09lclZaZDlSeHdlVkY4N1NhdzlnT3lvU3ZFdkVmRDAzeEVTZnhnMldwNS1aR3phcDhELTJSVEk4TkowcVBMMHdlTlVVaElhTWk1S2pzN1FDMWt3ckUtcTJmd2pPNVJVRmxDYVQ0NVpsRlZHb29pTDB6dXA5WndOSDMxUllGaGYxMC1SamtrX0U1SFVNcXZ3WWJqOFVaZzJMc1VUOEF1RUhVYTBR0gHDAUFVX3lxTFAwdThnOU5xd0lfbFN4V0VzMUVSZ1FXMU1aajkyRmhjS19PeE8waC1yV0pfQy10eHA5UEpVNTJYTHBxNl9fMkRxNGVNYThDaTEtREV2bk9BcHlwdHRZcmotUmJjbmlUeTdvSzh2SWd6NXA5Q3ZJVll5VklNc3Z6eE9KX2VDQzBhbFQ3QnN1cjIyb1NBeGdjejN5OHpwaGdsZlZPUVBMTDZ4NjlIa3YwN3F1a2s1UnJEVnFtWFZ3ZXFfWFRLRQ?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWN1TUhSaE9QLUwyRk9JWE5XQkhldGxuNURlUmZra2t0b3ZvcjQzeTNHWTBlM0NsSUxxUEF6LWhBalRaODJpX3ZxcS16Sy1RVHB4alpmZWNRazY4enBKUWwwaUlyWXBpT1FTMi1iZ3ZEV1Vtd1UyVFk0Z3ByWEczN25ieHQ5VWNycFJXX0h5VWU1VlhodExVMTRPb1FLUVR6c0l4RWJ3RjR3bTJQV3djRVc5aWZWQWJDNUg3eXFESdIBxAFBVV95cUxPNjBDakp2RmwwUHQwNVlMY3R4Z1BKbDAxTmVRN2FIZVNPTzhidVJacEsza2ROa2JKRTJWb1JWaDFfNWdISFJQT1hfa0lDSlBOMHZsLWZ4WW5tcmZWbFk5LTM0TFI2UWNMSU1BbklfejlxT3hjR0lpZ3lhcUV1UXAtWVZkU3BLdk9wVDloWU4xRlBDbWUxbV9POS1VaEZwZE1BTHRZXzRCRUg2QkhWNEdKWDlxR3RUOHkwc3RDc1pUUnRSM25v?oc=5)
+
+---
+
+### [7 millions de Français prennent ce médicament qui augmente le risque d'AVC chez les plus de 65 ans selon une nouvelle étude](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
+
+2026-06-09 <span class="news-indication-tag">AVC</span>
+
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
+
+---
+
+### [Menopausia: El impacto invisible para la salud metabólica y cardiovascular](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVd2bURtN2tTMnRHUU9mNUczZVlfdDhhRUIwUUtEczdBMzRGeG5tQk5jOHBqY0lubTJtSVowZXlBT25kVjhzMjdIVmI1TTB0YUFoMWpWZkowSmswWWZ2dU83YzNDZHREXzFNTEcwbUs0cVNiN3pkbklFTXBqS29TWjUtTGFMRy1HYkFjLVpzZ3FVLWtRTGRNRml4WkZJeGs0c1VaR2gwbzU5TEliRUE4SkVTVVB0NnRfSk1SbmFfbmZmQWRJbWx2WndUTGNkV2NXQ0NET0V4NzV3UE1RT0VDUVpWcTfSAeQBQVVfeXFMTm1Xdm1EbTdrUzJ0R1FPZjVHM2VZX3Q4YUVCMFFLRHM3QTM0RnhubUJOYzhwamNJbm0ybUlaMGV5QU9uZFY4czI3SFZiNU0wdGFBaDFqVmZKMEprMFlmdnVPN2MzQ2R0RF8xTUxHMG1LNHFTYjd6ZG5JRU1waktvU1o1LUxhTEctR2JBYy1ac2dxVS1rUUxkTUZpeFpGSXhrNHNVWkdoMG81OUxJYkVBOEpFU1VQdDZ0X0pNUm5hX25mZkFkSW1sdlp3VExjZFdjV0NDRE9FeDc1d1BNUU9FQ1FaVnE3?oc=5)
+
+2026-06-08 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVd2bURtN2tTMnRHUU9mNUczZVlfdDhhRUIwUUtEczdBMzRGeG5tQk5jOHBqY0lubTJtSVowZXlBT25kVjhzMjdIVmI1TTB0YUFoMWpWZkowSmswWWZ2dU83YzNDZHREXzFNTEcwbUs0cVNiN3pkbklFTXBqS29TWjUtTGFMRy1HYkFjLVpzZ3FVLWtRTGRNRml4WkZJeGs0c1VaR2gwbzU5TEliRUE4SkVTVVB0NnRfSk1SbmFfbmZmQWRJbWx2WndUTGNkV2NXQ0NET0V4NzV3UE1RT0VDUVpWcTfSAeQBQVVfeXFMTm1Xdm1EbTdrUzJ0R1FPZjVHM2VZX3Q4YUVCMFFLRHM3QTM0RnhubUJOYzhwamNJbm0ybUlaMGV5QU9uZFY4czI3SFZiNU0wdGFBaDFqVmZKMEprMFlmdnVPN2MzQ2R0RF8xTUxHMG1LNHFTYjd6ZG5JRU1waktvU1o1LUxhTEctR2JBYy1ac2dxVS1rUUxkTUZpeFpGSXhrNHNVWkdoMG81OUxJYkVBOEpFU1VQdDZ0X0pNUm5hX25mZkFkSW1sdlp3VExjZFdjV0NDRE9FeDc1d1BNUU9FQ1FaVnE3?oc=5)
 
 ---
 
@@ -78,6 +94,14 @@ permalink: /news/dronedarone/
 
 ---
 
+### ['I just want my life back after doctors found problem deep inside my brain' - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
+
+---
+
 ### [First-in-human-Studie: Vielversprechender PET-Tracer zeigt hochauflösende Bildgebung des sympathischen Nervensystems - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
 
 2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -86,27 +110,19 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
-
----
-
-### [Virus mutants, Ebola, Covid, grippe aviaire… : des chercheurs ont conçu avec l’IA un « super vaccin » révolutionnaire - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
-
-2026-06-08 <span class="news-indication-tag">CVA</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEFrVmpueF92WUJONmFKZGpsMGw1TXJBczYyemUzbTJzWFd4N1RlSUx2eXdOT0drNjJyb09lLUdxaDhKYjBfVWVUalZHR3BfWGttZHFVZDE4Q2N5T0pwWmduRERWaDRhUUtiVERrQ3Jyc1QtVFFmbDUyd1dUMTh2cGl1d1F3S2VZa25ON2c1NE8tYzh2aDhqM21oTDJwV0RxdkZnUm4tdGdyU1pEMUFUYjMxTzZTRzk4V3EzVzdJNEdNbzBVTlRlTnJZTVhBakI5ck9jUXFpd1E1TlJhbWFCLWZZQ2NOZnU3Q3F2VkJ3?oc=5)
-
----
-
 ### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+
+---
+
+### [Stoffwechsel-Schalter gegen Lungenkrebs - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1blZPTEs3Z1hJSkU2Q25BT2JGSTVud2RyN1JRTVhrMWp3MnZtMjRQMloxUFRqS2FNTk12dG5Hd25COVhzc01aQjZMaw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1blZPTEs3Z1hJSkU2Q25BT2JGSTVud2RyN1JRTVhrMWp3MnZtMjRQMloxUFRqS2FNTk12dG5Hd25COVhzc01aQjZMaw?oc=5)
 
 ---
 
@@ -126,6 +142,14 @@ permalink: /news/dronedarone/
 
 ---
 
+### [Ebola : Ebola : Nouvelles restrictions d’entrée à Maurice](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTU1ZHFDNXdJNGlJNmZRX1FBdkZ6NVFRQndKc3hsTUYyb3FtUVNhYmR3NnAzd1JkeHZPUUs4UFI5MkJNWjFKOHhxa1I0V2JNb1J1NDc2VWFWTms1R2k4R2lZNXlBYXhwbFhNeUxIR1VCNUJpQk9ubHBNSXNwa0dTZQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">AF</span>
+
+來源：[lexpress.mu](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTU1ZHFDNXdJNGlJNmZRX1FBdkZ6NVFRQndKc3hsTUYyb3FtUVNhYmR3NnAzd1JkeHZPUUs4UFI5MkJNWjFKOHhxa1I0V2JNb1J1NDc2VWFWTms1R2k4R2lZNXlBYXhwbFhNeUxIR1VCNUJpQk9ubHBNSXNwa0dTZQ?oc=5)
+
+---
+
 ### [Woman'almost died' after sharing drinks with friends in Reading nightclub - Reading Chronicle](https://news.google.com/rss/articles/CBMimwFBVV95cUxQc29yWTg3Vm1pYVYtWkNMdnpHclV6TFJHaWdWaTQ0SHdCb3Q5ZGRnMlRTR204SE01RFE0UGVuaDZqWDkzZFNLMXBfaGh4bjdkbzFmdmlFWG9FN3BvM3dHVFFnTjN6SUR3TW9xaHFsZWR2cXZDZ2hWdlVUaTViQUNjc0tIdXZKa0R0RDZEZFRSYWhrUTFUNHVFWDFQUQ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">AF</span>
@@ -134,19 +158,19 @@ permalink: /news/dronedarone/
 
 ---
 
+### [University meningitis case is off-campus student](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PWFhUOFpXeFpDNk5Bd000a1VOQkh2Q0g2LVJocmtmSFpGN1N5dmRwQ2ZZZnlwQjkwbnppN0wtV2tMc3ZzQnNoSC0xRU1lX1ZDREpoT092R2VUN1B2?oc=5)
+
+2026-06-08 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PWFhUOFpXeFpDNk5Bd000a1VOQkh2Q0g2LVJocmtmSFpGN1N5dmRwQ2ZZZnlwQjkwbnppN0wtV2tMc3ZzQnNoSC0xRU1lX1ZDREpoT092R2VUN1B2?oc=5)
+
+---
+
 ### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
-
----
-
-### [« Elles minimisent les risques » : les femmes sont de plus en plus touchées par des problèmes cardiaques - Le Progrès](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJXS25EOFNpRjE0UzFCWlVpSC1QUmQ0UElQbFNWWEVzWDVWZFpGZ0xOc3hGcGtBaDB2V2tUYU5lNnJxcWJ2UmYwaHlfWGVibFY3OVhPZVc2RnhaMFc4VE50ODdpMDllNld3ajJlNWlhcWhBNGRvSWh1aXhHbjJrSlVzNmdWaEJVQXhua3hEVkJUdm55dmpFZ191VkpLME9OTVdpN2lZbDRjdjkwZ1E?oc=5)
-
-2026-06-08 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJXS25EOFNpRjE0UzFCWlVpSC1QUmQ0UElQbFNWWEVzWDVWZFpGZ0xOc3hGcGtBaDB2V2tUYU5lNnJxcWJ2UmYwaHlfWGVibFY3OVhPZVc2RnhaMFc4VE50ODdpMDllNld3ajJlNWlhcWhBNGRvSWh1aXhHbjJrSlVzNmdWaEJVQXhua3hEVkJUdm55dmpFZ191VkpLME9OTVdpN2lZbDRjdjkwZ1E?oc=5)
 
 ---
 
@@ -182,11 +206,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [La Unidad Afectivo Sexual refuerza su labor de prevención y detección de las ITS - Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGZPTTQ0Rll4YldVQVg4ZlZiWTYtdTVJWHN6UlNKTG8zSzVSZk9jVjhBNFM1eW9CVWlqMjF5ZmQ5WE01YTNKR0JOTVBfVENsNDYxZWtrd01tVGZuNTkyQlktWE94eU1GejNGc21LN2NaN1U1M0NoanBJQlNHcUdIR2VMTC1NUGo5RHBHbkFNWHM3aWtWVTVBYzZVelBMR1h5LXhRdExIRFBUeEFTT3hxQktib2JFLVQzOV9hZi1OVWVWc0RL0gHKAUFVX3lxTE4tdE5OMTZmdmt2MDRoNnkwcVhpUTg0YXRud2k0bzJNT252aDJKZlM5SExfcWZkMWZ6Sy1FLU85Q0Qyd0ZyUk05LUZZUlhXcmZUb2FKdld6SGlueFZ2aF9FX291UWZpVlRuLWZMZlJoQ0kwRHZEWEJ2dmJaVW43NFpJU1Y5MWs5V2wzN3VISTAzVXpNQkgwazJzZ1BNeE1FQ21VVmNnc1ZhcFdiWjcybE1iaGVkaHlqbFZSU0ExUWdyX1Rtc0hxdzY5WHc?oc=5)
+### [La Unidad Afectivo Sexual refuerza su labor de prevención y detección de las ITS en el Día Nacional de Concienciación - Ceuta Actualidad](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMk5CcDFNc3dMVnRUU3FkRXYwR2RDQ0hwZWJPN2ZVYXUzNDU5VzdlQ0FJWGJxdV9wZWs1RjZncWhwOHhMLVQ4Y0FNZFBmTmtkcU5CQzdFc0w4a215LXRNRjM4QXNOSngyYUUwR081MXV0U3ZvZFdTZnpxMG1fVUdfVkhLdUk0NjZiWENTeDBISlBwaUFla3VldDBjZ25Gc0c5QVdXRzRwN2NFNGVCRkh0UnY3a1VJZGZDUmd3VVRCVWJzR0xZNk5SVUs5LU9zYjAzek0tZ2xMUF9pTWxOQThxOVV5a0FobDlLYm9Fb1dKRmF3ZkpQSnY0VNIB_gFBVV95cUxPdk1oX3FVMTdvVW1DdktmeUw3bDVuM01vS19CUHJaMzJjWVJwalVLWTBJM1FSVThid2ozeFAzaFJtXzRGVVZsSUp2SkdudU56MlpLZTFwUkJ1dDhCQkh5bGxsaThfSENCVm5iZU5EQl9veTdBZjJlbmJTR0h2WWVzQU1jNGRGZS1RTC1KbEdaZHNES3U4bl90cWFib1pWelpLTkdFclVfREs5T0N6bkJwdXNudUVITF9HNGY2MVVkeVRwdm9PZ0N3S3lqZ05yei1Pa0RDN0M2d3dEX3R4U2M2cVQtblRUaTAwdG5rZzNmOTBVOFQzWklLdldibkZEdw?oc=5)
 
 2026-06-07 <span class="news-indication-tag">AF</span>
 
-來源：[Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGZPTTQ0Rll4YldVQVg4ZlZiWTYtdTVJWHN6UlNKTG8zSzVSZk9jVjhBNFM1eW9CVWlqMjF5ZmQ5WE01YTNKR0JOTVBfVENsNDYxZWtrd01tVGZuNTkyQlktWE94eU1GejNGc21LN2NaN1U1M0NoanBJQlNHcUdIR2VMTC1NUGo5RHBHbkFNWHM3aWtWVTVBYzZVelBMR1h5LXhRdExIRFBUeEFTT3hxQktib2JFLVQzOV9hZi1OVWVWc0RL0gHKAUFVX3lxTE4tdE5OMTZmdmt2MDRoNnkwcVhpUTg0YXRud2k0bzJNT252aDJKZlM5SExfcWZkMWZ6Sy1FLU85Q0Qyd0ZyUk05LUZZUlhXcmZUb2FKdld6SGlueFZ2aF9FX291UWZpVlRuLWZMZlJoQ0kwRHZEWEJ2dmJaVW43NFpJU1Y5MWs5V2wzN3VISTAzVXpNQkgwazJzZ1BNeE1FQ21VVmNnc1ZhcFdiWjcybE1iaGVkaHlqbFZSU0ExUWdyX1Rtc0hxdzY5WHc?oc=5)
+來源：[Ceuta Actualidad](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMk5CcDFNc3dMVnRUU3FkRXYwR2RDQ0hwZWJPN2ZVYXUzNDU5VzdlQ0FJWGJxdV9wZWs1RjZncWhwOHhMLVQ4Y0FNZFBmTmtkcU5CQzdFc0w4a215LXRNRjM4QXNOSngyYUUwR081MXV0U3ZvZFdTZnpxMG1fVUdfVkhLdUk0NjZiWENTeDBISlBwaUFla3VldDBjZ25Gc0c5QVdXRzRwN2NFNGVCRkh0UnY3a1VJZGZDUmd3VVRCVWJzR0xZNk5SVUs5LU9zYjAzek0tZ2xMUF9pTWxOQThxOVV5a0FobDlLYm9Fb1dKRmF3ZkpQSnY0VNIB_gFBVV95cUxPdk1oX3FVMTdvVW1DdktmeUw3bDVuM01vS19CUHJaMzJjWVJwalVLWTBJM1FSVThid2ozeFAzaFJtXzRGVVZsSUp2SkdudU56MlpLZTFwUkJ1dDhCQkh5bGxsaThfSENCVm5iZU5EQl9veTdBZjJlbmJTR0h2WWVzQU1jNGRGZS1RTC1KbEdaZHNES3U4bl90cWFib1pWelpLTkdFclVfREs5T0N6bkJwdXNudUVITF9HNGY2MVVkeVRwdm9PZ0N3S3lqZ05yei1Pa0RDN0M2d3dEX3R4U2M2cVQtblRUaTAwdG5rZzNmOTBVOFQzWklLdldibkZEdw?oc=5)
 
 ---
 
@@ -195,14 +219,6 @@ permalink: /news/dronedarone/
 2026-06-07 <span class="news-indication-tag">AF</span>
 
 來源：[mensfitness.co.uk](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLaHpnVjlNWjRFa095aUstVkVpOUk3MnhrYU01YU5WY0JPVkRqalpaRVIzS2llVmMxX0RPRUlLUnhpcFRsZjMzMy1vQTNRN2w0R2FTR2Z4b1FYbk5DR1R3X05B?oc=5)
-
----
-
-### [Chronic Wasting Disease: Zombie-Krankheit könnte auf Menschen überspringen - Forscher schlagen Alarm](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQWFqOHdleGVFaHJpUnNDSFZ5bXBqUjZvbFNKR2xTdDQ4Y2xZSFJVWF9wTWNack5pSXFhWG5KR0ZtWUVnQ1A4eVowTmpiemhENmc4dHFaTmhWa0lxQ3UxaDF6NXhFbzFaUXJRVklDTWQ4aHhmSDNMT3lMc081ZE9ObkJjQzE5Qm9hTFlTM21vYjFXR0ozQVA3UVhmSjRQYndsYnRqTG5xR2JOTWtDOGh2RTFqOGxlS3kxbXVsWUhILVdBcEh1LTN4T2J5clRwZUE?oc=5)
-
-2026-06-07 <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQWFqOHdleGVFaHJpUnNDSFZ5bXBqUjZvbFNKR2xTdDQ4Y2xZSFJVWF9wTWNack5pSXFhWG5KR0ZtWUVnQ1A4eVowTmpiemhENmc4dHFaTmhWa0lxQ3UxaDF6NXhFbzFaUXJRVklDTWQ4aHhmSDNMT3lMc081ZE9ObkJjQzE5Qm9hTFlTM21vYjFXR0ozQVA3UVhmSjRQYndsYnRqTG5xR2JOTWtDOGh2RTFqOGxlS3kxbXVsWUhILVdBcEh1LTN4T2J5clRwZUE?oc=5)
 
 ---
 

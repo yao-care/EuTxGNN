@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rufinamide</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（39 則）
+## 相關新聞（40 則）
 
-### [Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
+### [Gehirn, Emotionen und Darm: Wie Kultur, Stress und das soziale Umfeld die Darmgesundheit prägen - Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
 
-2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-06-09 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQendXMHlIWFZGX2dqeTBPVjBzd1BGLVhFejZaQlpadWJUZFBrVWNpRWF0d1VxSlowRkp6UzExX2RGbDRHVW5DUmtyMWVOdVRpOHhST1ZVUUlpWHNpUWpyRm4yOHltR0YxWlp1WERNR2hFdE4xNGo0N0wzSUV6T2dvQThGaXVudGNYQUhweUdhUDNYY3BWdzdfNEw2NW9jTXR4V2pxbjhHRWdUOU90R2ZHV1dPcy1hT1RELUFQdUJ0VQ?oc=5)
 
 ---
 
@@ -78,11 +78,43 @@ permalink: /news/rufinamide/
 
 ---
 
+### [Warum immer mehr Menschen wegen Hautkrebs behandelt werden - und wie man sich schützt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVA3X1J2aV9FbE9LWUIzUkowUGI2WW9EVmdFRjdwa2pURnE1TjdfbEtXTXB1VENicmtjNlFyWmo1UU8zZklyOG5sSWlZWVNGMDVmWFZleUoyd1hXb0RBNkt0dFRzOFY4WVpXSWFtLXpsQnBvT3lhY2FLZWpwd1ozRld5b3BjLXBJSGk4UWJId0NVZjUySkhBcm1TdDF5cWFlV3JUdUc3NFR6YzFaUFFXTzdIMnZhVWQxajdpX182Q1hxLWtNcVNF?oc=5)
+
+2026-06-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[NDR.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVA3X1J2aV9FbE9LWUIzUkowUGI2WW9EVmdFRjdwa2pURnE1TjdfbEtXTXB1VENicmtjNlFyWmo1UU8zZklyOG5sSWlZWVNGMDVmWFZleUoyd1hXb0RBNkt0dFRzOFY4WVpXSWFtLXpsQnBvT3lhY2FLZWpwd1ozRld5b3BjLXBJSGk4UWJId0NVZjUySkhBcm1TdDF5cWFlV3JUdUc3NFR6YzFaUFFXTzdIMnZhVWQxajdpX182Q1hxLWtNcVNF?oc=5)
+
+---
+
+### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
+
+---
+
 ### [“Tenemos que conseguir una atención más equitativa e integral para los pacientes de esclerosis múltiple”](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkpEN0U4OGF2NlNCdXJaVnF6SDZHT0l2OVItMmxIOHBJNjBxcm94NVRCOC1mQ3d1RVktN0kzSmU1RUlVU3JBdXlSbjVyZUJWc1N2RXd2WnlRUlN5NHdmM0llOXF2c1NUTE52ZWV0ZkVWVmJLNlVCanlQOFFadXpmNEp5Z3dLZHNGRHRfbUhGSHNjUQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[caixabank.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkpEN0U4OGF2NlNCdXJaVnF6SDZHT0l2OVItMmxIOHBJNjBxcm94NVRCOC1mQ3d1RVktN0kzSmU1RUlVU3JBdXlSbjVyZUJWc1N2RXd2WnlRUlN5NHdmM0llOXF2c1NUTE52ZWV0ZkVWVmJLNlVCanlQOFFadXpmNEp5Z3dLZHNGRHRfbUhGSHNjUQ?oc=5)
+
+---
+
+### [«Ebola arriverà a 20.000 contagi» - La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+
+---
+
+### [‘Transformative’ new UK vaccine could prevent bowel and ovarian cancer in world first](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3E3S1V2SW9LRWFmMWI3UzBRWjEySUN1SDdEYWMyQlczcU91OEFmSGlpcFJWV0dkQ3ZFVWFsSl8tZEMyOFhBTzdMOXBCRzVfRkVaR1JUZnpKa01IRTBydWJCSTBUZndoQzBnRzh5SXZHSGo5NWtHbVZ0S2t6ZTJkZ1dhVEltQUxkZG5lN0NtWQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3E3S1V2SW9LRWFmMWI3UzBRWjEySUN1SDdEYWMyQlczcU91OEFmSGlpcFJWV0dkQ3ZFVWFsSl8tZEMyOFhBTzdMOXBCRzVfRkVaR1JUZnpKa01IRTBydWJCSTBUZndoQzBnRzh5SXZHSGo5NWtHbVZ0S2t6ZTJkZ1dhVEltQUxkZG5lN0NtWQ?oc=5)
 
 ---
 
@@ -94,19 +126,19 @@ permalink: /news/rufinamide/
 
 ---
 
-### [«Ebola arriverà a 20.000 contagi» - La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+### [Wegovy weight-loss jab to be offered on NHS in Scotland - STV News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVFrVWIzMGY4alNVVS16d2V2eGNmYlpmU2lOcTA0S3lTdHJycUFORGRrM2tMNVc0VTMtcjdPbERCNTVlOHRoQXRocVhDZWVrOUg0SEdXeFFmY3pJSC0zbUxjUktuOG80c2tvZG1nS3hid1M1VThWV0hRU0t1dTY3dEJKSkNvdGloeG9HRA?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
+來源：[STV News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVFrVWIzMGY4alNVVS16d2V2eGNmYlpmU2lOcTA0S3lTdHJycUFORGRrM2tMNVc0VTMtcjdPbERCNTVlOHRoQXRocVhDZWVrOUg0SEdXeFFmY3pJSC0zbUxjUktuOG80c2tvZG1nS3hid1M1VThWV0hRU0t1dTY3dEJKSkNvdGloeG9HRA?oc=5)
 
 ---
 
-### [Actualité | Coupe du monde 2026 : Mbemba, Meschack, Mayele et deux autres Léopards détenteurs du passeport congolais interdits d’entrée au Canada](https://news.google.com/rss/articles/CBMilAJBVV95cUxNTFdrblNHSmpCc3RwbU1jb21qSTJzRjJ3ZTYwZzJvQ3J4cU5sRXktclN4V3RCbmpxd1JDS3JqYmota2tjdDJKR3pJc3VlaGJwbC1GY3NQTG9JejRrSVJhdURXWjJmOWlNWkZJTkdpNFNFSVc2cGdadWVvRVZzekxRY2FzVjBBeU1OQjBXdW55c28weDRTbDJVdElQOHh6eHB3VjRtWk5lbnBBeldlZDNSVkdDTlZ0cXc5QnJ6SnBwNDdDNFNPRURYQ2RPUUFKQlJROG95MWVyQkpKRnh4Z1R1ME8yZ0J3blFLU2F5U204VFhOd1lJUFhiV2pBTnNRVzZVNmhNTmZZb3E2U0xPU3d2QzAzTDQ?oc=5)
+### ['I just want my life back after doctors found problem deep inside my brain' - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[mediacongo.net](https://news.google.com/rss/articles/CBMilAJBVV95cUxNTFdrblNHSmpCc3RwbU1jb21qSTJzRjJ3ZTYwZzJvQ3J4cU5sRXktclN4V3RCbmpxd1JDS3JqYmota2tjdDJKR3pJc3VlaGJwbC1GY3NQTG9JejRrSVJhdURXWjJmOWlNWkZJTkdpNFNFSVc2cGdadWVvRVZzekxRY2FzVjBBeU1OQjBXdW55c28weDRTbDJVdElQOHh6eHB3VjRtWk5lbnBBeldlZDNSVkdDTlZ0cXc5QnJ6SnBwNDdDNFNPRURYQ2RPUUFKQlJROG95MWVyQkpKRnh4Z1R1ME8yZ0J3blFLU2F5U204VFhOd1lJUFhiV2pBTnNRVzZVNmhNTmZZb3E2U0xPU3d2QzAzTDQ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
 
 ---
 
@@ -115,14 +147,6 @@ permalink: /news/rufinamide/
 2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
-
----
-
-### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
 ---
 
@@ -158,11 +182,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+### [Stoffwechsel-Schalter gegen Lungenkrebs - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1blZPTEs3Z1hJSkU2Q25BT2JGSTVud2RyN1JRTVhrMWp3MnZtMjRQMloxUFRqS2FNTk12dG5Hd25COVhzc01aQjZMaw?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
+2026-06-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1blZPTEs3Z1hJSkU2Q25BT2JGSTVud2RyN1JRTVhrMWp3MnZtMjRQMloxUFRqS2FNTk12dG5Hd25COVhzc01aQjZMaw?oc=5)
 
 ---
 
@@ -278,6 +302,22 @@ permalink: /news/rufinamide/
 
 ---
 
+### [«Cancro al seno, i farmaci per la perdita di peso riducono il rischio di tumore fino al 30%» - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
+
+---
+
+### [Metabolismo y desarrollo tumoral: ¿Pueden dieta y ejercicio ayudar a tratar el cáncer?](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09Ka1BiSHN2cTdVU3hYaFNCQUlraEdSSmlJbDEtRE1qUktPdFJfU3hOLWNTZ01IZ1o4Z2RlTW1jc2M0RzNOM01XbWtWU2JGa2RrMDZBZmo5MUc5ZXJpeTNJMnIzV2JGWE5QZjV0QWVuMUszRE9RaE1hNEdPekxoSm9lbExyVWQyeHBNX0pQR1R5T1YtckZ6Q0tqZ1VuaktaTWpJeHVBV19MZjVHZjVLUw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09Ka1BiSHN2cTdVU3hYaFNCQUlraEdSSmlJbDEtRE1qUktPdFJfU3hOLWNTZ01IZ1o4Z2RlTW1jc2M0RzNOM01XbWtWU2JGa2RrMDZBZmo5MUc5ZXJpeTNJMnIzV2JGWE5QZjV0QWVuMUszRE9RaE1hNEdPekxoSm9lbExyVWQyeHBNX0pQR1R5T1YtckZ6Q0tqZ1VuaktaTWpJeHVBV19MZjVHZjVLUw?oc=5)
+
+---
+
 ### [GLP1-RA überzeugt bei Alkoholabhängigkeit](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3p5c1B6ZVpYdXhQQWYzcG8tZjlnX3o5bzJ5MFg0OTVuYjlYVHZBT2JqT29nc0JCS3dJa0xVVkJWTTJ2ZG9jYVBWcHI2QzEtc0p0OXVEYS1IOHFjdlYtbEEyeEU5OGkyZDJOUFFPNjFGRXUxdFV5a2d2X2tfZzR2NmhQMGt3VmF0ZmxXQmlrY3AwVFE?oc=5)
 
 2026-06-08 <span class="news-indication-tag">MS</span>
@@ -291,22 +331,6 @@ permalink: /news/rufinamide/
 2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[Le JSL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmU2YWg1eDdId1dfd2I4OXBJdVM2dzRwZ2JlRVFMZ01BMDg4QmZTc1RRSEhsUlJ1X1dNQmo0YlBoeVM3cFBITUdENjhNNm1oTTRXczlNc0xZbUIwS1dpRk9JUFdVdmZmcUYzcHRmNnNiUkNPUHZrNVNabEMzT0Q2dUR5eGxJSlQ2eEdwYTZONGhMamllY1hJTXgyazN1SUJ0SFFWbWlQOHVUTEZPT1FnYk5tOEN2aG1rbUYzRjhldFE5bng1RFRVQg?oc=5)
-
----
-
-### [Darm-Gehirn-Achse: Propionsäure steigert MS-Abwehrzellen um 30% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
-
-2026-06-08 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpIWU5SZWFhQWttWHFkNnU2ZDU3OG9JYUV6MUpOYUs1RkluMHEtd21ZT2Y0S0JCc0xkMWtTSm56SmVlTzZDM1R6RF84cDFxYl81X1RXQm5QTVpqVXVaS2VsdzVPczFQaWZvdnJPdjR0NUtIUFBwaVBTbDZwNFdPRXVmdnltWi13VFE1SFRsYWxYRUVJSkdqSnpQRkEyQzgzNjdzUkJUYVlSRXlUdEVObnc2WVdYX0U3WWhB?oc=5)
-
----
-
-### [La dieta sí podría complementar los tratamientos oncológicos, ¿pero qué más hace falta? - El Confidencial](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwVzZRVWJHVkpjNGFKWXlhbHVEaVgwekNXUXRWbndoX0ZsbkhCdjBYNU1DTFdPR0gxRHZRdF9FTFFTMWwwdzdwZGtyQ1JjYVpuZUF1cU1EV3ZzbExxXy05UTNUU2Ewbkp5ZTVYYTM3eWRhR084THYtbnJ3WnR5clFMXzN0RWJKNTY5bW9TTWRZZ25rOWV1dXV3Q2s0aUpCdVdPRHVhbUdHaTY3X2U5b255MA?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cancer</span>
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwVzZRVWJHVkpjNGFKWXlhbHVEaVgwekNXUXRWbndoX0ZsbkhCdjBYNU1DTFdPR0gxRHZRdF9FTFFTMWwwdzdwZGtyQ1JjYVpuZUF1cU1EV3ZzbExxXy05UTNUU2Ewbkp5ZTVYYTM3eWRhR084THYtbnJ3WnR5clFMXzN0RWJKNTY5bW9TTWRZZ25rOWV1dXV3Q2s0aUpCdVdPRHVhbUdHaTY3X2U5b255MA?oc=5)
 
 ---
 
@@ -342,27 +366,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Como in Salute, a Erba il 10 giugno l'incontro sul tema dello screening per la lotta contro il cancro](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancro</span>
-
-來源：[Erbanotizie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
-
----
-
 ### [Sepsis: Deutschland hat ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
 
 2026-06-07 <span class="news-indication-tag">MS</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlVBdFhsLU5ManB3cUQwT19WVEc0VU9HeW0xem1iTDFlYmtMY0lnc0tvYXQ4SVVtQ3RjZ3NGdHgzZTFVVWNacldxUWZLWENEOGMzd21hMC0xdk5PQlFUaElqQzRibGJxc2FvTWNTRURZQ2dFRjkyTzVXX0lQYzlGMU8tSEs2VTFDSlR1UzJjZmU5ZTNMdW9YeFYwdDVCUEVFc3MwNnZUeUt2eUk?oc=5)
-
----
-
-### [Voici comment des chercheurs ont réussi à produire un médicament anticancer essentiel grâce à de la levure - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
 
 ---
 

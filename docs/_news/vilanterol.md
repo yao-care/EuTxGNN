@@ -14,7 +14,7 @@ permalink: /news/vilanterol/
 ---
 
 <p class="key-answer" data-question="Vilanterol 有什麼相關新聞？">
-<strong>Vilanterol</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vilanterol</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/vilanterol/
 <p><a href="{{ '/drugs/vilanterol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（24 則）
 
 ### [Krebs: Durchbruch in der Forschung – Neue Ergebnisse im Kampf gegen Krebs-Rückfälle](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
 
@@ -62,11 +62,35 @@ permalink: /news/vilanterol/
 
 ---
 
+### [Warum immer mehr Menschen wegen Hautkrebs behandelt werden - und wie man sich schützt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVA3X1J2aV9FbE9LWUIzUkowUGI2WW9EVmdFRjdwa2pURnE1TjdfbEtXTXB1VENicmtjNlFyWmo1UU8zZklyOG5sSWlZWVNGMDVmWFZleUoyd1hXb0RBNkt0dFRzOFY4WVpXSWFtLXpsQnBvT3lhY2FLZWpwd1ozRld5b3BjLXBJSGk4UWJId0NVZjUySkhBcm1TdDF5cWFlV3JUdUc3NFR6YzFaUFFXTzdIMnZhVWQxajdpX182Q1hxLWtNcVNF?oc=5)
+
+2026-06-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[NDR.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVA3X1J2aV9FbE9LWUIzUkowUGI2WW9EVmdFRjdwa2pURnE1TjdfbEtXTXB1VENicmtjNlFyWmo1UU8zZklyOG5sSWlZWVNGMDVmWFZleUoyd1hXb0RBNkt0dFRzOFY4WVpXSWFtLXpsQnBvT3lhY2FLZWpwd1ozRld5b3BjLXBJSGk4UWJId0NVZjUySkhBcm1TdDF5cWFlV3JUdUc3NFR6YzFaUFFXTzdIMnZhVWQxajdpX182Q1hxLWtNcVNF?oc=5)
+
+---
+
 ### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
+
+---
+
+### [‘Transformative’ new UK vaccine could prevent bowel and ovarian cancer in world first](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3E3S1V2SW9LRWFmMWI3UzBRWjEySUN1SDdEYWMyQlczcU91OEFmSGlpcFJWV0dkQ3ZFVWFsSl8tZEMyOFhBTzdMOXBCRzVfRkVaR1JUZnpKa01IRTBydWJCSTBUZndoQzBnRzh5SXZHSGo5NWtHbVZ0S2t6ZTJkZ1dhVEltQUxkZG5lN0NtWQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3E3S1V2SW9LRWFmMWI3UzBRWjEySUN1SDdEYWMyQlczcU91OEFmSGlpcFJWV0dkQ3ZFVWFsSl8tZEMyOFhBTzdMOXBCRzVfRkVaR1JUZnpKa01IRTBydWJCSTBUZndoQzBnRzh5SXZHSGo5NWtHbVZ0S2t6ZTJkZ1dhVEltQUxkZG5lN0NtWQ?oc=5)
+
+---
+
+### ['I just want my life back after doctors found problem deep inside my brain' - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
+
+2026-06-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
 
 ---
 
@@ -94,11 +118,11 @@ permalink: /news/vilanterol/
 
 ---
 
-### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+### [Stoffwechsel-Schalter gegen Lungenkrebs - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1blZPTEs3Z1hJSkU2Q25BT2JGSTVud2RyN1JRTVhrMWp3MnZtMjRQMloxUFRqS2FNTk12dG5Hd25COVhzc01aQjZMaw?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
+2026-06-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1blZPTEs3Z1hJSkU2Q25BT2JGSTVud2RyN1JRTVhrMWp3MnZtMjRQMloxUFRqS2FNTk12dG5Hd25COVhzc01aQjZMaw?oc=5)
 
 ---
 
@@ -190,11 +214,19 @@ permalink: /news/vilanterol/
 
 ---
 
-### [La dieta sí podría complementar los tratamientos oncológicos, ¿pero qué más hace falta? - El Confidencial](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwVzZRVWJHVkpjNGFKWXlhbHVEaVgwekNXUXRWbndoX0ZsbkhCdjBYNU1DTFdPR0gxRHZRdF9FTFFTMWwwdzdwZGtyQ1JjYVpuZUF1cU1EV3ZzbExxXy05UTNUU2Ewbkp5ZTVYYTM3eWRhR084THYtbnJ3WnR5clFMXzN0RWJKNTY5bW9TTWRZZ25rOWV1dXV3Q2s0aUpCdVdPRHVhbUdHaTY3X2U5b255MA?oc=5)
+### [«Cancro al seno, i farmaci per la perdita di peso riducono il rischio di tumore fino al 30%» - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
+
+2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
+
+---
+
+### [Metabolismo y desarrollo tumoral: ¿Pueden dieta y ejercicio ayudar a tratar el cáncer?](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09Ka1BiSHN2cTdVU3hYaFNCQUlraEdSSmlJbDEtRE1qUktPdFJfU3hOLWNTZ01IZ1o4Z2RlTW1jc2M0RzNOM01XbWtWU2JGa2RrMDZBZmo5MUc5ZXJpeTNJMnIzV2JGWE5QZjV0QWVuMUszRE9RaE1hNEdPekxoSm9lbExyVWQyeHBNX0pQR1R5T1YtckZ6Q0tqZ1VuaktaTWpJeHVBV19MZjVHZjVLUw?oc=5)
 
 2026-06-08 <span class="news-indication-tag">cancer</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwVzZRVWJHVkpjNGFKWXlhbHVEaVgwekNXUXRWbndoX0ZsbkhCdjBYNU1DTFdPR0gxRHZRdF9FTFFTMWwwdzdwZGtyQ1JjYVpuZUF1cU1EV3ZzbExxXy05UTNUU2Ewbkp5ZTVYYTM3eWRhR084THYtbnJ3WnR5clFMXzN0RWJKNTY5bW9TTWRZZ25rOWV1dXV3Q2s0aUpCdVdPRHVhbUdHaTY3X2U5b255MA?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09Ka1BiSHN2cTdVU3hYaFNCQUlraEdSSmlJbDEtRE1qUktPdFJfU3hOLWNTZ01IZ1o4Z2RlTW1jc2M0RzNOM01XbWtWU2JGa2RrMDZBZmo5MUc5ZXJpeTNJMnIzV2JGWE5QZjV0QWVuMUszRE9RaE1hNEdPekxoSm9lbExyVWQyeHBNX0pQR1R5T1YtckZ6Q0tqZ1VuaktaTWpJeHVBV19MZjVHZjVLUw?oc=5)
 
 ---
 
@@ -211,22 +243,6 @@ permalink: /news/vilanterol/
 2026-06-07 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQW43SlBQZ1hzZFNNb2JqR0xTQUcyOUYxVGI0MHAwb2o0ZFowZWNiMlFudDMxMjdYTmxjWm01ejJXdlk4M1dNaHQyNGpRdjFrc3R3LVZReG9rNzltcjZhR09jYUU2M3VrSm5SdDJTSF81SVJRRXBTQTlqR0dSSVRKNkljbHFTLUhtY2taN012bmhaYzN3WWNqeEFTRlNxQzlSNFQ3QjVR?oc=5)
-
----
-
-### [Como in Salute, a Erba il 10 giugno l'incontro sul tema dello screening per la lotta contro il cancro](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancro</span>
-
-來源：[Erbanotizie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFlCenZza3JGUXpiUHRjekNrWERfbWx4VGxINVVjb1Rvb0tZZFhxRldpLW5jamY1UWlaRDhJcnRBOFpEak1hOTBpTm80VW5KanlrbWlFalFscmFMamw4TVNudkRZV1o3cEM1X3Voc3RQa0xaVTFnM3Mza0syMTJ2c2F6cGVOczhfaGpkRl81OW81aGpBUnVvYUZNT1V3SUN0SzFZaFh1VTFFNlB4cmx0d1FwbmNhTFBWeTB2WXlQcE9wMTFRM3ZNQ0tqQWFmWHoydGY0bE4ydw?oc=5)
-
----
-
-### [Voici comment des chercheurs ont réussi à produire un médicament anticancer essentiel grâce à de la levure - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
-
-2026-06-07 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTHlnYzg4dzR5cW9JTkM4SHhhYTFSdEppOGY0NUxsUEowNm9KclA3Ym9RVEpycXdCQXg5RjVVWVpiNGsyZXctbnVoN254MkprU2xkRmZVRDhkM0QwZmVISFVmWkdhdV8xM0JybGk4QUtWT2VHVl9sd3FYdTRjOUNzcVdwVThhcko2QVN4SEtibFhiQUNtNzJlMHNkZGFJLVJSREhXU2dUT0g2WDd2dFNIVFVNT0Q2X01CMEZZY3FORUhSazExR2JRa3JRRENIeEliQXZlWEhLb3dqdkZQaWU5UWhSd0k?oc=5)
 
 ---
 
