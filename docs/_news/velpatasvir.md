@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（15 則）
+
+### [„Wir unterschätzen viel zu oft, wie verletzlich Sepsis-Patienten sind“ - RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
+
+---
 
 ### [Cattle in England to get tuberculosis vaccine from 2030 as badger cull to end - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlVRd3V1Ynp4cDhkbHloelYxR0NLNjdyaUhfNnpGTldLa3Zpd2E2UXVmenJ6bnZrS3JhQVRwUGthX1QyMjRDRnRZOWpLOUlHZ3MwMXp5QUR4NGIwaFpVcU4zN2tVcjF6Z05lUjZvR0xiOXNIOTJqNzFFVVppN0FxVGI1TktyRHBXdkRWVnlNOG9RUUZFTzYxQ1VQcw?oc=5)
 
@@ -94,22 +102,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Après 70 ans, ce légume oublié rajeunit le cerveau de 11 ans selon une méta-analyse de 183 études - Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUdKczI3U09BMUYtWkI3SmlYVXpoeEx0UEZ5UHluSGhrb3pBeVJNbWl2T24zZWhTQmZIdzhBaG8wR1AyWUh1Vkx4Y2wwVTR2cFdaSnhyWGIzWThkN3VpWnpqeFV0QTVmTnhnMy1qc3FVem5DcW45TGZwemthbm9mZWNiWXh3ZkR4bDYzWjJ3?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span>
-
-來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUdKczI3U09BMUYtWkI3SmlYVXpoeEx0UEZ5UHluSGhrb3pBeVJNbWl2T24zZWhTQmZIdzhBaG8wR1AyWUh1Vkx4Y2wwVTR2cFdaSnhyWGIzWThkN3VpWnpqeFV0QTVmTnhnMy1qc3FVem5DcW45TGZwemthbm9mZWNiWXh3ZkR4bDYzWjJ3?oc=5)
-
----
-
-### [Sepsis: Wir haben hierzulande ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDVjcUNzdkVjREYwR0pueTdfX1FzdTVobk9yRUp2WFRQempQOU5uTVZYWTcxMXRpbDhuM3dWT1JmRV9KdGtFRHc0ajlVdm1yendaVGIzVS10b1VDSW1nTF9USW10REtOTnlyU3pqQ1dlZ1VIbHJKUFJOd2xjb2xaVlpZUWp3SmVEUFlpM1hoaFlnejROSWxjVzZ6Yjc1OGgyelRpTVFTR3FNV0pwSGt0ZDhCOA?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDVjcUNzdkVjREYwR0pueTdfX1FzdTVobk9yRUp2WFRQempQOU5uTVZYWTcxMXRpbDhuM3dWT1JmRV9KdGtFRHc0ajlVdm1yendaVGIzVS10b1VDSW1nTF9USW10REtOTnlyU3pqQ1dlZ1VIbHJKUFJOd2xjb2xaVlpZUWp3SmVEUFlpM1hoaFlnejROSWxjVzZ6Yjc1OGgyelRpTVFTR3FNV0pwSGt0ZDhCOA?oc=5)
-
----
-
 ### [Ebola und andere Ausbrüche: Experten dringen auf Abschluss des WHO-Pandemievertrags – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWkpUTjJLa2dNWW15SEhNS2hJWEJPUGNCRHFvLW9ILTdpQ1F2TEZ6cURINlBnUUtzeUVLX0R5cUtselRGanVVRXBkNzg5NmEwd1JKTmV5cTJlOGp5Mm5TU25NUEN6a1pTWFFmOUs1cG8tNlJUWWJvLXNOOUVQeWZxOFhwcDlRRVcwblFvaGI0c0xnaHlCVExhSlp0d2gzQlRjZ1dFVnloRE9fbjRDV01UUno5RjlXLWw4Z1FORnNIa1ZkX0RwSFhDU3VMbWJaNGEyNzB3OTFPQ2NHVjRibEhIR29KMnBSZw?oc=5)
 
 2026-06-09 <span class="news-indication-tag">MS</span>
@@ -118,11 +110,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Single high dose of psilocybin temporarily restores lost abilities in an 80-year-old Alzheimer's patient - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV0anpiNE5qMnFaQ3lMUExRck1DUklpeFBKR29HUl9zOVFBakd0ZXdMZUY1WldVN3VoYTNqaVA1QjQ4ektSVThaNlN3Ni1fT3F3bVl0UjlPSG5DSm5lRXh2SC1BVi1jRnVRS2tMejV4bW5JeHBZcjNLZml3RHg1MGtIS0djbVdh?oc=5)
+### [Summer berries can be full of pesticides. Learn the best ways to wash them](https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1VFelVfcXdrTDRTRWRwYmd5dnVodDJFUjJUODFnQzRmcWFrQXdrTkwyWTJ2elF5bmxaNEN2bS1DazhPY2hmS1RtYWRJZ3lHYTRoNF83QnBnSkZvSVo2YU1GYXFDbmhERDFFVXJWTUlTQk1TbjdOczhFdjFiUUh1Z0xR?oc=5)
 
-2026-06-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-06-09 <span class="news-indication-tag">MS</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV0anpiNE5qMnFaQ3lMUExRck1DUklpeFBKR29HUl9zOVFBakd0ZXdMZUY1WldVN3VoYTNqaVA1QjQ4ektSVThaNlN3Ni1fT3F3bVl0UjlPSG5DSm5lRXh2SC1BVi1jRnVRS2tMejV4bW5JeHBZcjNLZml3RHg1MGtIS0djbVdh?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1VFelVfcXdrTDRTRWRwYmd5dnVodDJFUjJUODFnQzRmcWFrQXdrTkwyWTJ2elF5bmxaNEN2bS1DazhPY2hmS1RtYWRJZ3lHYTRoNF83QnBnSkZvSVo2YU1GYXFDbmhERDFFVXJWTUlTQk1TbjdOczhFdjFiUUh1Z0xR?oc=5)
 
 ---
 
@@ -139,22 +131,6 @@ permalink: /news/velpatasvir/
 2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
-
----
-
-### [Why you always wake up between 2am and 4am — and what to do about it](https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYXhDSDBiaXlIa1k4aDR5NVd1LXUzYXY4dzFvME1DMC0ta0lJaTB5UmpsZ2RvZ1NEYWkxVk9UNHF6ZjVBU1VqRlNQNVJRZU9xVEJFcWU4NnNmOUZzTUthVW9GN3dkNmp0OGRKeg?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYXhDSDBiaXlIa1k4aDR5NVd1LXUzYXY4dzFvME1DMC0ta0lJaTB5UmpsZ2RvZ1NEYWkxVk9UNHF6ZjVBU1VqRlNQNVJRZU9xVEJFcWU4NnNmOUZzTUthVW9GN3dkNmp0OGRKeg?oc=5)
-
----
-
-### [“Tenemos que conseguir una atención más equitativa e integral para los pacientes de esclerosis múltiple”](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkpEN0U4OGF2NlNCdXJaVnF6SDZHT0l2OVItMmxIOHBJNjBxcm94NVRCOC1mQ3d1RVktN0kzSmU1RUlVU3JBdXlSbjVyZUJWc1N2RXd2WnlRUlN5NHdmM0llOXF2c1NUTE52ZWV0ZkVWVmJLNlVCanlQOFFadXpmNEp5Z3dLZHNGRHRfbUhGSHNjUQ?oc=5)
-
-2026-06-09 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[caixabank.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkpEN0U4OGF2NlNCdXJaVnF6SDZHT0l2OVItMmxIOHBJNjBxcm94NVRCOC1mQ3d1RVktN0kzSmU1RUlVU3JBdXlSbjVyZUJWc1N2RXd2WnlRUlN5NHdmM0llOXF2c1NUTE52ZWV0ZkVWVmJLNlVCanlQOFFadXpmNEp5Z3dLZHNGRHRfbUhGSHNjUQ?oc=5)
 
 ---
 
@@ -182,51 +158,19 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Semaglutid gegen Sucht: Studie belegt 50% weniger Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
+
+2026-06-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
+
+---
+
 ### [Ce médicament représente un immense espoir pour les malades : un nouveau traitement contre la sclérose en plaques bientôt autorisé sur le marché](https://news.google.com/rss/articles/CBMinwJBVV95cUxPTDhvc2dWODloaE5PNUttTnYtS2tkRGRzVFhKRzF2bXlvVzV5Q0E2NS1UNjVvUzhVY1FzS3djamd0Y2h6TjJLZmlmR0NUZDNQY1dhVDhyMVRzOWYyMFVoeXB2bWdFNHlfRmJUUDlMOVQxT0tzOE1XamNaN194b0tVRnFvMGRHaFdJNXk0MDd2RXduMk1lOUtaUUF4Q2t1Y2tOdUpSQWN6R0ljeGM0VzRoU3dJWXFDR3REUFpOSHY0QTEtVUp1VXE0T2tLU3hONnBycC1MN2RBVzByWUNXQXdpYm5Nd2hHcHV4MTdoamczNUE3MGI3TE1PN1lqUlVPWGQ1Mmw2V2IzdXc4UXN6RGkyVmhvTE1VLTlhYkJLTTFjdw?oc=5)
 
 2026-06-08 <span class="news-indication-tag">sclérose en plaques</span>
 
 來源：[L'Indépendant](https://news.google.com/rss/articles/CBMinwJBVV95cUxPTDhvc2dWODloaE5PNUttTnYtS2tkRGRzVFhKRzF2bXlvVzV5Q0E2NS1UNjVvUzhVY1FzS3djamd0Y2h6TjJLZmlmR0NUZDNQY1dhVDhyMVRzOWYyMFVoeXB2bWdFNHlfRmJUUDlMOVQxT0tzOE1XamNaN194b0tVRnFvMGRHaFdJNXk0MDd2RXduMk1lOUtaUUF4Q2t1Y2tOdUpSQWN6R0ljeGM0VzRoU3dJWXFDR3REUFpOSHY0QTEtVUp1VXE0T2tLU3hONnBycC1MN2RBVzByWUNXQXdpYm5Nd2hHcHV4MTdoamczNUE3MGI3TE1PN1lqUlVPWGQ1Mmw2V2IzdXc4UXN6RGkyVmhvTE1VLTlhYkJLTTFjdw?oc=5)
-
----
-
-### [El Dr. Jaume Sastre Garriga recibe el Premio Esclerosis Múltiple 2025 de la Sociedad Española de Neurología - Vall d'Hebron Barcelona Hospital Campus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3JXT0hMdnZxWHN2WEhyallLc2ltMElJWEtvWVZza1NhR2FUem1aMmxOb2F1Z1hmWVBtX2VJVFhzekFTT1QzOFB4cklpdjZXU2w2SmNBTGsyOFNyclBiQ3RwbUgzYUl4Sk9OeTZsMHZRQndCZFEwc3ZqSUNlOFQzRTZQWUVOQ3NlZUt2cGJYbmR3ZkM4WTFFZHlDTDRHMldpMEdtZUF6Y3p5ZWIwZWtXaThkRTRic2NDZThhTVhPNHpWZGVwRlQzQWViWnQxT2JRdHA5MmhKTGx0NmRFTE9tSFFLeUh2bFkyRkNSSg?oc=5)
-
-2026-06-08 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Vall d'Hebron Barcelona Hospital Campus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3JXT0hMdnZxWHN2WEhyallLc2ltMElJWEtvWVZza1NhR2FUem1aMmxOb2F1Z1hmWVBtX2VJVFhzekFTT1QzOFB4cklpdjZXU2w2SmNBTGsyOFNyclBiQ3RwbUgzYUl4Sk9OeTZsMHZRQndCZFEwc3ZqSUNlOFQzRTZQWUVOQ3NlZUt2cGJYbmR3ZkM4WTFFZHlDTDRHMldpMEdtZUF6Y3p5ZWIwZWtXaThkRTRic2NDZThhTVhPNHpWZGVwRlQzQWViWnQxT2JRdHA5MmhKTGx0NmRFTE9tSFFLeUh2bFkyRkNSSg?oc=5)
-
----
-
-### [Ebola crisis exposes ‘preventable’ pandemic risk, say leaders](https://news.google.com/rss/articles/CBMingFBVV95cUxNWmFBLUhMZllCT01LcklVSXphbWMwdG44RHo3M3ZRNDVnZWZWUlNPSFVPczVOV19SeE9wVmJlcXpSRzJodkdZR3QwMldiLUR6RFJkblB1cHgwZ1N2cmRlMEtBN05yUVNmMjVEOGIzMnJJVllqRXYyazZUQUpwYjlXNWRyaS11d01mcmZEYTFkS1VpMnFNMHlOdVlJMGRZUQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">MS</span>
-
-來源：[politico.eu](https://news.google.com/rss/articles/CBMingFBVV95cUxNWmFBLUhMZllCT01LcklVSXphbWMwdG44RHo3M3ZRNDVnZWZWUlNPSFVPczVOV19SeE9wVmJlcXpSRzJodkdZR3QwMldiLUR6RFJkblB1cHgwZ1N2cmRlMEtBN05yUVNmMjVEOGIzMnJJVllqRXYyazZUQUpwYjlXNWRyaS11d01mcmZEYTFkS1VpMnFNMHlOdVlJMGRZUQ?oc=5)
-
----
-
-### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
-
----
-
-### [«Cancro al seno, i farmaci per la perdita di peso riducono il rischio di tumore fino al 30%» - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
-
----
-
-### [GLP1-RA überzeugt bei Alkoholabhängigkeit](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3p5c1B6ZVpYdXhQQWYzcG8tZjlnX3o5bzJ5MFg0OTVuYjlYVHZBT2JqT29nc0JCS3dJa0xVVkJWTTJ2ZG9jYVBWcHI2QzEtc0p0OXVEYS1IOHFjdlYtbEEyeEU5OGkyZDJOUFFPNjFGRXUxdFV5a2d2X2tfZzR2NmhQMGt3VmF0ZmxXQmlrY3AwVFE?oc=5)
-
-2026-06-08 <span class="news-indication-tag">MS</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3p5c1B6ZVpYdXhQQWYzcG8tZjlnX3o5bzJ5MFg0OTVuYjlYVHZBT2JqT29nc0JCS3dJa0xVVkJWTTJ2ZG9jYVBWcHI2QzEtc0p0OXVEYS1IOHFjdlYtbEEyeEU5OGkyZDJOUFFPNjFGRXUxdFV5a2d2X2tfZzR2NmhQMGt3VmF0ZmxXQmlrY3AwVFE?oc=5)
 
 ---
 

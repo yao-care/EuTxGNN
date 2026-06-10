@@ -54,6 +54,14 @@ permalink: /news/tucatinib/
 
 ## 相關新聞（4 則）
 
+### [Si te duele la cabeza al comer helado, la ciencia tiene una explicación y una advertencia - Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
+
+2026-06-10 <span class="news-indication-tag">migraña</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
+
+---
+
 ### [The best fruit and veg to slash heart disease risk revealed - full list - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
 
 2026-06-09 <span class="news-indication-tag">heart disease</span>
@@ -62,11 +70,11 @@ permalink: /news/tucatinib/
 
 ---
 
-### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+### [Vorhofflimmern und Diabetes: 61% höheres Risiko für vorzeitigen Tod - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/tucatinib/
 2026-06-08 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
-
----
-
-### [Allergische Rhinitis als Risikofaktor für Migräne - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
 
 ---
 

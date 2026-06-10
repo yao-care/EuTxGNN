@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Si te duele la cabeza al comer helado, la ciencia tiene una explicación y una advertencia - Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
+
+2026-06-10 <span class="news-indication-tag">migraña</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
+
+---
 
 ### [Le 15 juin va tout changer pour des centaines de Français : ce traitement est enfin remboursé !](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
 
-2026-06-09 <span class="news-indication-tag">obésité</span>
+2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
 
@@ -86,14 +94,6 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Fatty liver disease: 5 science-backed steps an NHS doctor followed to reverse the condition - The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
-
-2026-06-09 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
-
----
-
 ### [Comer menos y moverse más: «Esto no es un consejo médico, es un eslogan que hizo mucho daño» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd3VvU0ltYnJtTWVkMmZxeUhNYVFxUUYtX0Z4cEZCZHkwUllXZHZiZjZ6N05IWkdyV0VEQTlaRlpLUnB6UHRINi1tOEJ4aFBXVDBDX2lYRU0zcE5YY3dvTzlkY0Vld1diRmxQYW1CSUtvWkJlZVZWMTJVQWZyUkxLTU5mbXl6b1lDZzctd2liMEdIcnNkZXlOcVBTQWNUZk9jd1hWTmpUUzRuLXMxdWJPTjIwdC1KV2RJQ2NmTnF3ZEdDYVluczUtSk1ZLU9YVG9iLWs4dEwyblZmUWlQRTNnZ2RHTEdHZw?oc=5)
 
 2026-06-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
@@ -110,19 +110,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [La obesidad deja huellas epigenéticas en el ADN de los niños](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUmxNQ3lwcHlDNVp6YTZWRmFna3U0VTVkUDJUdzF6YUxQTlo5QWpWTEJlRVVRa3lXTUVGVXN1WVA3VFN3R3pnVlN6VUhJLTlha0NscnM2Q3QxREZvam5KQ0xlbEE1OWR2bjJ1NmZOejRrc1Y2cjZpWHh2djhROEE?oc=5)
+### [Semaglutid gegen Sucht: Studie belegt 50% weniger Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
 
-2026-06-08 <span class="news-indication-tag">obesidad</span>
+2026-06-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Radiocable.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUmxNQ3lwcHlDNVp6YTZWRmFna3U0VTVkUDJUdzF6YUxQTlo5QWpWTEJlRVVRa3lXTUVGVXN1WVA3VFN3R3pnVlN6VUhJLTlha0NscnM2Q3QxREZvam5KQ0xlbEE1OWR2bjJ1NmZOejRrc1Y2cjZpWHh2djhROEE?oc=5)
-
----
-
-### [Allergische Rhinitis als Risikofaktor für Migräne - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
 
 ---
 

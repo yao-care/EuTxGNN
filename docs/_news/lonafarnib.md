@@ -62,11 +62,11 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+### [Vorhofflimmern und Diabetes: 61% höheres Risiko für vorzeitigen Tod - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 ---
 

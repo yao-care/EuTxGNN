@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="Aripiprazole 有什麼相關新聞？">
-<strong>Aripiprazole</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aripiprazole</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,61 @@ permalink: /news/aripiprazole/
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（21 則）
+
+### [Gedächtnistests per Smartphone erfassen kognitive Veränderungen schneller als Standardverfahren - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCczhtT01HMmJJLXlkemlsaFppWDJVbG9zX2w5bVNHN29pSm8ybU0zdGYxNEh0NzNEXzhCdHlkWER3WUU2U3ZOOEcwTQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCczhtT01HMmJJLXlkemlsaFppWDJVbG9zX2w5bVNHN29pSm8ybU0zdGYxNEh0NzNEXzhCdHlkWER3WUU2U3ZOOEcwTQ?oc=5)
+
+---
+
+### [La inteligencia artificial podría detectar el cáncer de mama con hasta seis años de antelación](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmN3UHBMcUs0X2UzLWlaT2pKR2pqUWtLdGdHVjBUUVJLRF9rQk9wN3hERUloY2Z2LTJpZmttUDNSeTVNVkYzY01KZDRFNy1tQVZ5QVlMMkZCZDRFaTBCV2lsSTdKZkdQQzhZdktidElkaXJJaXJtWkVhSEZCUm1vLTdNak8xSWt3VWZvZlpVYjhRXzhpNUZHdVFPaFhPWjVkbU10Ml83RG5KcUU2ZGVEdVlqTGNlZUhfX29ha1FhamZZZEFlWVFLQ204T2Z2ZW5YTTVQbDZCYzdZazFCNF9FUlRDejliUQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmN3UHBMcUs0X2UzLWlaT2pKR2pqUWtLdGdHVjBUUVJLRF9rQk9wN3hERUloY2Z2LTJpZmttUDNSeTVNVkYzY01KZDRFNy1tQVZ5QVlMMkZCZDRFaTBCV2lsSTdKZkdQQzhZdktidElkaXJJaXJtWkVhSEZCUm1vLTdNak8xSWt3VWZvZlpVYjhRXzhpNUZHdVFPaFhPWjVkbU10Ml83RG5KcUU2ZGVEdVlqTGNlZUhfX29ha1FhamZZZEFlWVFLQ204T2Z2ZW5YTTVQbDZCYzdZazFCNF9FUlRDejliUQ?oc=5)
+
+---
+
+### [La «crisi del settimo anno» di cani e gatti: come affrontare l'inizio di una vecchiaia che diventa sempre più lunga - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+
+---
+
+### [Kaffee gegen Alterung – Wissenschaftler finden überraschenden Wirkstoff - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
+
+---
+
+### [Therapieresistente Depression: Charité startet DHEA-Studie mit 2,3 Millionen Euro - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVMwbURJdmdha0x5SlhOVmdxcTBpUDJSbTU0UHJlM0c2OGJCUmxySUg3NlRyNm5fNEdYZzlwa2x3aVE1cElYUG45Zy14UFNrNWNma2ZhUHJuelVIWElnNlNaVVN2X3ZDcTBXYmotc1Bmd2FuU3VuYkxQNWl0d0NiM1h5bFozdVkwS2kwclA3QmEtc3ZTMDVIakZOTjFrQW85U196Nk5CdGJRazg1NlM4QkhrTTQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVMwbURJdmdha0x5SlhOVmdxcTBpUDJSbTU0UHJlM0c2OGJCUmxySUg3NlRyNm5fNEdYZzlwa2x3aVE1cElYUG45Zy14UFNrNWNma2ZhUHJuelVIWElnNlNaVVN2X3ZDcTBXYmotc1Bmd2FuU3VuYkxQNWl0d0NiM1h5bFozdVkwS2kwclA3QmEtc3ZTMDVIakZOTjFrQW85U196Nk5CdGJRazg1NlM4QkhrTTQ?oc=5)
+
+---
+
+### [„Wir unterschätzen viel zu oft, wie verletzlich Sepsis-Patienten sind“ - RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
+
+---
 
 ### [Scandal as thousands of NHS staff across England exposed to cancer-causing chemical dubbed 'next asbestos' - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFpQSllaUl9PZHpoM2NrTmNBNVFtQnJJTWxOVFJFVmZuekZ0bmhTdjVCeUJubllPbmR3Vy1USmRfcl9keERoc0d1UnVQcEVoOXdYdHdwNmlRNTJkcFJRMW43dW5ydjV4VXVGdF91ZHFFQnhyUXdmc1BJbUJ2bUhKcHpEZEpLbVF3WFdlZ3BvTGlyaVJ0b3QyUW85TzZtOWJmVFlPZQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFpQSllaUl9PZHpoM2NrTmNBNVFtQnJJTWxOVFJFVmZuekZ0bmhTdjVCeUJubllPbmR3Vy1USmRfcl9keERoc0d1UnVQcEVoOXdYdHdwNmlRNTJkcFJRMW43dW5ydjV4VXVGdF91ZHFFQnhyUXdmc1BJbUJ2bUhKcHpEZEpLbVF3WFdlZ3BvTGlyaVJ0b3QyUW85TzZtOWJmVFlPZQ?oc=5)
-
----
-
-### [Cardiff woman with acute myeloid leukaemia says leaving twin is 'unthinkable'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00SGFxSXVrVFQwc2wwdlRHNGRNRS11VU15bndlN1hub3g5OUdLXzFKZUp5YjhRTWlDMGotekNCN3pRT3p1NU8tZHVwVEkxZnpjMngtUFhNb1RjVlhr?oc=5)
-
-2026-06-09 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00SGFxSXVrVFQwc2wwdlRHNGRNRS11VU15bndlN1hub3g5OUdLXzFKZUp5YjhRTWlDMGotekNCN3pRT3p1NU8tZHVwVEkxZnpjMngtUFhNb1RjVlhr?oc=5)
 
 ---
 
@@ -83,22 +123,6 @@ permalink: /news/aripiprazole/
 2026-06-09 <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkFfaXJyMEV4aVRaVk1LR0xNcUNmX3BqdmRsNnRBT2hzSWJTcE5JdVBseDV4RnhBZkMtcm9INlF3dndIcDMyblNUMThSVEdHSFl1UEJNSHdlSnpMelVBeGV0TEZPYnV2djRoY1FmT1ZHR3M4ZWZUN05JTnZXdGhWSk0zU3BQbHZVcWFtclJma3hsX3JVbW1GZVVQcjI3b2EwOVYxRzJWMjBaY3o2Qmp1OUVzekR6R0t0TUZDRmtzT0xIaGFTYkpZYnRQNV9KZw?oc=5)
-
----
-
-### [La IA detecta señales de cáncer de mama seis años antes que el radiólogo](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSE8wa3ZTMzFDS1ppUVE2VTJCUGFUWUZYZUN3TFJ0RzEzSDZMUkxfYXNXM1U0MHJCblJxR1dIWWVybHAtb3JPVWJ2ZnBEVkdxNF9OZElWWXVDUE1hWW9WOERXa1hBRGRYdFFjRjh6WXRudEZyR3lydktZREllTm5tbkxFSy1nVlFWVEJzdFp3MTRFZ9IBlwFBVV95cUxPczVsYXJVMEZGUGc4b184ZE5zbVBRMEFzejNNTlI1ZnRrRHJJOE1kTDdaZDFjMXZlcVVmYjJBeWxQRGVmOXZxUG5tRzl0ZlVkWDM4emQ3dVBGNmo1amlRUzBBNkpnUm5wQ1FuS3UyaS1rQ2oybHJJUDRPeUhuVk1GeGVHSWRaUlFFTVhBREZ2VEdtTXBIbVVR?oc=5)
-
-2026-06-09 <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSE8wa3ZTMzFDS1ppUVE2VTJCUGFUWUZYZUN3TFJ0RzEzSDZMUkxfYXNXM1U0MHJCblJxR1dIWWVybHAtb3JPVWJ2ZnBEVkdxNF9OZElWWXVDUE1hWW9WOERXa1hBRGRYdFFjRjh6WXRudEZyR3lydktZREllTm5tbkxFSy1nVlFWVEJzdFp3MTRFZ9IBlwFBVV95cUxPczVsYXJVMEZGUGc4b184ZE5zbVBRMEFzejNNTlI1ZnRrRHJJOE1kTDdaZDFjMXZlcVVmYjJBeWxQRGVmOXZxUG5tRzl0ZlVkWDM4emQ3dVBGNmo1amlRUzBBNkpnUm5wQ1FuS3UyaS1rQ2oybHJJUDRPeUhuVk1GeGVHSWRaUlFFTVhBREZ2VEdtTXBIbVVR?oc=5)
-
----
-
-### [Sepsis: Wir haben hierzulande ein Wahrnehmungsproblem](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDVjcUNzdkVjREYwR0pueTdfX1FzdTVobk9yRUp2WFRQempQOU5uTVZYWTcxMXRpbDhuM3dWT1JmRV9KdGtFRHc0ajlVdm1yendaVGIzVS10b1VDSW1nTF9USW10REtOTnlyU3pqQ1dlZ1VIbHJKUFJOd2xjb2xaVlpZUWp3SmVEUFlpM1hoaFlnejROSWxjVzZ6Yjc1OGgyelRpTVFTR3FNV0pwSGt0ZDhCOA?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDVjcUNzdkVjREYwR0pueTdfX1FzdTVobk9yRUp2WFRQempQOU5uTVZYWTcxMXRpbDhuM3dWT1JmRV9KdGtFRHc0ajlVdm1yendaVGIzVS10b1VDSW1nTF9USW10REtOTnlyU3pqQ1dlZ1VIbHJKUFJOd2xjb2xaVlpZUWp3SmVEUFlpM1hoaFlnejROSWxjVzZ6Yjc1OGgyelRpTVFTR3FNV0pwSGt0ZDhCOA?oc=5)
 
 ---
 
@@ -134,14 +158,6 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [La crema da giorno con SPF 50 che illumina il viso e aiuta a contrastare le macchie scure](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0dncUlaY3Fjc3l6R2hFeXNFVEdDTjh6WVcxd0N2WTV3RW54eFhOQmMxM3ZfZzI5bEtGbzRseXlGdHlDc3BlTXhTWHNUMFV2RHB6bVB1V1pMRmNqZkQxVC05VFFlN0FxenJjeVIzOGp2ay1BQmlKV1VCRkhPdWlHb1hzWDZWbFI3WVNTeDRYa29BSDZVcVF6UXV4WUJGOW8?oc=5)
-
-2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[ELLE](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0dncUlaY3Fjc3l6R2hFeXNFVEdDTjh6WVcxd0N2WTV3RW54eFhOQmMxM3ZfZzI5bEtGbzRseXlGdHlDc3BlTXhTWHNUMFV2RHB6bVB1V1pMRmNqZkQxVC05VFFlN0FxenJjeVIzOGp2ay1BQmlKV1VCRkhPdWlHb1hzWDZWbFI3WVNTeDRYa29BSDZVcVF6UXV4WUJGOW8?oc=5)
-
----
-
 ### [Wie Neandertaler-Gene unsere Reaktion auf DNA-Viren prägen](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHRNSE1nQzJnZDc4dEtEQm5OYi1iTnhDSzcwYXdtSlBRVS1uRHlWR1lUYnQtQnEyeVVTZ2QyUXgwcnkwNGlheksxU1djaWNNZUwwWHdmTEgzdTJUTVlMcWJIcEZoc3M0NEFYQUFpTGdzZllpaHQ1WmdteGpTaVNwVTlnd0JmZ3B4SmtROGQ0eW1sZW8zUzFMZ3RZdUxic1RiWkVSQUhIMzcxVGs?oc=5)
 
 2026-06-09 <span class="news-indication-tag">AF</span>
@@ -152,7 +168,7 @@ permalink: /news/aripiprazole/
 
 ### [Fatty liver disease: 5 science-backed steps an NHS doctor followed to reverse the condition - The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
 
-2026-06-09 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-06-09 <span class="news-indication-tag">AF</span>
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
 
@@ -182,43 +198,11 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Tumori, arriva a Catania la Flash Therapy (è la prima al Sud): cure più mirate e con meno effetti collaterali - La Sicilia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjNZb3VQTXYxYW4xLUExaEl0SHFzSlFBM1RpTWRDQ2g4bFcza29LUGhTZVZLUUFGVEI3b1VvYTR4UFlNQlNjdUtyeVJMQkpXeHJQZHB1QUJuTGlxSWtsWWtTeThuSW4zdm8tcWRPMnRidlNCWlRObjc1ZFZhNDVmay1ER0FmVXAwaGE3RXFSUXFZLWlxcnpjOWxSXzFyRFZ3NHg4UU10bXlSRGx0Tko3OExnSjhTZW1paWZhRTUwS1BadWctRkRnVHBJQ19VZi05amMzUm5FY1h5WFR0b0E?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Sicilia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjNZb3VQTXYxYW4xLUExaEl0SHFzSlFBM1RpTWRDQ2g4bFcza29LUGhTZVZLUUFGVEI3b1VvYTR4UFlNQlNjdUtyeVJMQkpXeHJQZHB1QUJuTGlxSWtsWWtTeThuSW4zdm8tcWRPMnRidlNCWlRObjc1ZFZhNDVmay1ER0FmVXAwaGE3RXFSUXFZLWlxcnpjOWxSXzFyRFZ3NHg4UU10bXlSRGx0Tko3OExnSjhTZW1paWZhRTUwS1BadWctRkRnVHBJQ19VZi05amMzUm5FY1h5WFR0b0E?oc=5)
-
----
-
-### ['I just want my life back after doctors found problem deep inside my brain' - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
-
----
-
-### [Studie: Warum auch entkoffeinierter Kaffee vor Alterung schützt - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSllqRFBMWkpSRTdFSkJuMDB0bVVmNGdVdm5lajA3SGZjNFFhWG42TE9jZlR0YXdxZ1Y5cFJ0UTJzNVpPQU1Geks0WnJxQVRvNXRoOXM0NzJDQUdFM2ctVFNSOTk0OHF1azN2MWRxdThuNlhROFYwY1dIcXdVX2Y3OXNSMG9HZzN4bG5XMGZvcG1FOGhGanZGMXRvVTlzTzg1?oc=5)
-
-2026-06-08 <span class="news-indication-tag">AF</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSllqRFBMWkpSRTdFSkJuMDB0bVVmNGdVdm5lajA3SGZjNFFhWG42TE9jZlR0YXdxZ1Y5cFJ0UTJzNVpPQU1Geks0WnJxQVRvNXRoOXM0NzJDQUdFM2ctVFNSOTk0OHF1azN2MWRxdThuNlhROFYwY1dIcXdVX2Y3OXNSMG9HZzN4bG5XMGZvcG1FOGhGanZGMXRvVTlzTzg1?oc=5)
-
----
-
-### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+### [Vorhofflimmern und Diabetes: 61% höheres Risiko für vorzeitigen Tod - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
-
----
-
-### [Hormon als Booster bei antidepressiver Behandlung - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
-
-2026-06-08 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 ---
 
@@ -230,11 +214,11 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Neuer Wirkstoff könnte die Entwicklung von Alzheimer bremsen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+### [MHH-Experte zur Parkinson-Krankheit im Interview: Welche Rolle der Schlaf spielt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVFVDSVZfZHpESGNlMnBldElJNWtUT0R1bzdxVVdGVmgyV2FpRXBuNDltSjN6MUIzUDIxdDk4YnhEZjhHQndqVmQ0cjgxdl95SENGeDBSNDVMVkVSUFpKeXRBd0FJVG41ai14OUFFYlBlc0ZCZFMxVEhuTURTM1BxMGljM1RfcWNOWkVrV0haUzdXLWFHaDB3WjdWcHRUUnhCd0JsQURWR3hNcXBzeC15OTdnVnJZX2xMOEtuOXRmRkw4MGh1dTJSdzJibDQzcTB6Q0NoQTQ1dTDSAfQBQVVfeXFMTzF6WGlqRTY4X3J4bE00TzlJLTFYZXlvdmlpZG9hMnlwUE1FX09vY0hkSHBORWIxUTFGWTZtdTNqV0t1eTBkV0E0Ml9oRkttX0tQekZ0SEwydFlzajdGSG9ELVk0dEd1Mi00bng0ZW0wTWVsOE9KX19YZmtyNGNNM0ItU2VVNFM1dzhRTDRTdVZYT0V0VDdqeXg1Wjd2ZmVZZ3Y5UV9LVEFQMGR2aGpFNmR2OWdxcHZQNV9jTEI3TTFjZWNZQmhXeHVsQ0VuaTY4YU1scmtzZXhFOUZCR0R5SnVETExrM08td2NfcU5VRDlEQmFCTA?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-07 <span class="news-indication-tag">Parkinson-Krankheit</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXBFMHBvV21LWFprc2ZBMVRYdWI2MXh4dmVHWmhRbl9MM1BOeFYyNjR2OWx6Szl6bVR3akd2XzQtdWhsd1owY05KRWVSb01lczh6VkRQdGhmUnlCQkl1dTB0NE93a2loQ1JielhNNEFvaFlaREI4YTVxckxOQzZ2dHVrNFBOVmpubVZVNVk0UWptMW5vUTlFQmJWV3g0N2U3T1BxejhMeTJLRHVrOXBTdFp1ZHZFSUdBOXFJ?oc=5)
+來源：[HAZ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVFVDSVZfZHpESGNlMnBldElJNWtUT0R1bzdxVVdGVmgyV2FpRXBuNDltSjN6MUIzUDIxdDk4YnhEZjhHQndqVmQ0cjgxdl95SENGeDBSNDVMVkVSUFpKeXRBd0FJVG41ai14OUFFYlBlc0ZCZFMxVEhuTURTM1BxMGljM1RfcWNOWkVrV0haUzdXLWFHaDB3WjdWcHRUUnhCd0JsQURWR3hNcXBzeC15OTdnVnJZX2xMOEtuOXRmRkw4MGh1dTJSdzJibDQzcTB6Q0NoQTQ1dTDSAfQBQVVfeXFMTzF6WGlqRTY4X3J4bE00TzlJLTFYZXlvdmlpZG9hMnlwUE1FX09vY0hkSHBORWIxUTFGWTZtdTNqV0t1eTBkV0E0Ml9oRkttX0tQekZ0SEwydFlzajdGSG9ELVk0dEd1Mi00bng0ZW0wTWVsOE9KX19YZmtyNGNNM0ItU2VVNFM1dzhRTDRTdVZYT0V0VDdqeXg1Wjd2ZmVZZ3Y5UV9LVEFQMGR2aGpFNmR2OWdxcHZQNV9jTEI3TTFjZWNZQmhXeHVsQ0VuaTY4YU1scmtzZXhFOUZCR0R5SnVETExrM08td2NfcU5VRDlEQmFCTA?oc=5)
 
 ---
 

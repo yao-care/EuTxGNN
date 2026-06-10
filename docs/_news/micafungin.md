@@ -14,7 +14,7 @@ permalink: /news/micafungin/
 ---
 
 <p class="key-answer" data-question="Micafungin 有什麼相關新聞？">
-<strong>Micafungin</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Micafungin</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/micafungin/
 <p><a href="{{ '/drugs/micafungin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（24 則）
+
+### [Wie Krebs schon im Keim bezwungen werden kann](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUx0Q3JFMFVGMTVpZU9QSVQ0WFgtajd1TGJyWGdCTUl4anRUcld3bHVXOFBXUVpNbF9yNU4yVTF4X2E0ZDFUU1dvN0F2b3VfQUo1QUVWS1BaaG1zMGNtcFhSejBqMzU5OTZzRWc0MFltTGR2ZHcwQnI1QjFqN296NjVmMjA5RFVwYlJUTnBjSVdWeUlyajNqMG1pcE5ucXdwTGpBeGhUVGhGWVF2Y2V1Vg?oc=5)
+
+2026-06-10 <span class="news-indication-tag">tumor</span>
+
+來源：[STERN.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUx0Q3JFMFVGMTVpZU9QSVQ0WFgtajd1TGJyWGdCTUl4anRUcld3bHVXOFBXUVpNbF9yNU4yVTF4X2E0ZDFUU1dvN0F2b3VfQUo1QUVWS1BaaG1zMGNtcFhSejBqMzU5OTZzRWc0MFltTGR2ZHcwQnI1QjFqN296NjVmMjA5RFVwYlJUTnBjSVdWeUlyajNqMG1pcE5ucXdwTGpBeGhUVGhGWVF2Y2V1Vg?oc=5)
+
+---
+
+### [Spedali Civili, cosa significa essere Comprehensive Cancer Center - Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
+
+2026-06-10 <span class="news-indication-tag">cancer</span>
+
+來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
+
+---
+
+### [Krebs: Durchbruch in der Forschung – Neue Ergebnisse im Kampf gegen Krebs-Rückfälle](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+
+---
 
 ### [Advanced radiotherapy for prostate cancer to cut sessions from 20 to five](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wLVpUc19vbk5vRmc4eGYxc1VmSFRKOHVIRlg1VmIwZWlaTTBzSmhvbWQzNEFUM2F4bk9udThvYkdrUmkxeTBRZU5jQ2EyejdvVGZYSWJONDFRNno4?oc=5)
 
@@ -70,11 +94,11 @@ permalink: /news/micafungin/
 
 ---
 
-### [Krebs: Durchbruch in der Forschung – Neue Ergebnisse im Kampf gegen Krebs-Rückfälle](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+### [Saône-et-Loire. Cancer du poumon : non-fumeur depuis 45 ans, il en est à sa cinquième chimiothérapie - Le JSL](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk5rSzlmWkYzY3RHR3k1YUZaQzZETjVVSWViUnBlXzY1aXBZaXdvbjY3NElfZjNJLW5SUkZ5a3E4S0NHYnJtbXVfZDdvRkFlclRLMEJwS0tBeUJwRmJ5TDZFcHZqdnkwdktGSGJQeUVEalJDdERMSmVOWGVlalNoNHBCZnpSQ3R1VXJTYWlGQU1KZmNLbUZRX3g3UjN3ai1Na3lWOWFvT3RvRC14OU9UdlJDSlVLc0duZ0xfNg?oc=5)
 
-2026-06-09 <span class="news-indication-tag">Krebs</span>
+2026-06-09 <span class="news-indication-tag">cancer</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSHZJYUxBN3A4U1ZnNHpPUHRFc2V1clk5VE5mSmtoSW5FVFhtbkw3dGMtcmhTbW5UQ3dlNXJCN0o3WjVQd3RhNVU3STVETXFDODExLWZ1a1libVZMTkszaE1GTDhqV3FKVDRBV3NrUEd2aHJsQ2stTHNzSS1zbmJwRjhNYU1LWk1xLUlhekdNdGJmNXRLb1NnTG1hU0JSeVlFZWZ4MFF3Tjk2QlVXTmtDaTBZRGYydVNnbV91bmx5a0ZabEVObXpDVlIzdjJRUDlpZ19GaGkwQlZTNTNpLVhlSnBUVG4?oc=5)
+來源：[Le JSL](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk5rSzlmWkYzY3RHR3k1YUZaQzZETjVVSWViUnBlXzY1aXBZaXdvbjY3NElfZjNJLW5SUkZ5a3E4S0NHYnJtbXVfZDdvRkFlclRLMEJwS0tBeUJwRmJ5TDZFcHZqdnkwdktGSGJQeUVEalJDdERMSmVOWGVlalNoNHBCZnpSQ3R1VXJTYWlGQU1KZmNLbUZRX3g3UjN3ai1Na3lWOWFvT3RvRC14OU9UdlJDSlVLc0duZ0xfNg?oc=5)
 
 ---
 
@@ -91,6 +115,14 @@ permalink: /news/micafungin/
 2026-06-09 <span class="news-indication-tag">cancer</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJKdFBiVTBkVEFkQnJQWGFMX1duUTJXaHR0QTBpelhJWDdkblljdlFtYVVSSTdJTGV0cW8tWkRZTEhEMzNhN200ZzExV3p6bVBUTlppem5LRXI4WkFKUkctandlQS11T3FpV0w3bThHQ08tRWR3QjRlSEg0b1JBVGVyR0hXVFpuTG1razVjU3ZXakxYc015X2RPMjF5RkJGeVltS01ycXZwVFBpaXVQMV9UUm5XbUliNU1YRm1B0gG4AUFVX3lxTE5iVDRJVVl2WXB6WmlHTERtTzcyMFQ5a1BmUHJ3S0ZuTGZSb2lsTFc4VUI0UWxIYkh3c3ZtTzZveHRNV3Y2ai1tTWM0dmNrT25GN29ISklqNF9tei03RUtUX3hVNlB6TzYzT2RLU0VvVTkzaFhtQVN5VTVPbGl4SjRlekF4bElvSWpTMVFxNGEyTHJZbVdjTHFfcG9QOFZJSWlOX2NzbnMyVmF4QVFRbVFkLV9CRjhCTWs?oc=5)
+
+---
+
+### ["On veut aller vite pour que les premiers patients d’Occitanie disposent de ces thérapies" : les chercheurs-cliniciens de Toulouse soutenus dans la lutte contre le cancer par une fondation et une famille de vignerons du Lot](https://news.google.com/rss/articles/CBMingJBVV95cUxPaFF5MzJUdUp5U0tSTG9JUjVoOFFiUTIzRlRMZjkySDRaZTdweHFINTAweV9wZ0E1Qmh2YXhkRkJsWWNBRnZpdzhYenRiemlrWjVFVlo4ZXFfNGhkZ0xNVkNqck1qbEttSF9GSThCelMza2RvRXowV2lWekdaYlYxMXhMbXZtWXQyRWY3azlsVDIzeU9kVUxJcy1RN3o1cmY5V1hmM2ZwX0hjTVJtZXMteFFxcDJQdzAyTnEyNml0RngxUWVEMGFFU2ZGSGRlVHhXWDNMbEJzWDNWeVZvNV9WRG5rUGxBYk02MklYUzlyajh6aDNTTnZJelpYelNBVllsM0t5RC1GZm9ZdWVXU18xSlF4U1dkQ0pQSGpndGpB?oc=5)
+
+2026-06-09 <span class="news-indication-tag">cancer</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMingJBVV95cUxPaFF5MzJUdUp5U0tSTG9JUjVoOFFiUTIzRlRMZjkySDRaZTdweHFINTAweV9wZ0E1Qmh2YXhkRkJsWWNBRnZpdzhYenRiemlrWjVFVlo4ZXFfNGhkZ0xNVkNqck1qbEttSF9GSThCelMza2RvRXowV2lWekdaYlYxMXhMbXZtWXQyRWY3azlsVDIzeU9kVUxJcy1RN3o1cmY5V1hmM2ZwX0hjTVJtZXMteFFxcDJQdzAyTnEyNml0RngxUWVEMGFFU2ZGSGRlVHhXWDNMbEJzWDNWeVZvNV9WRG5rUGxBYk02MklYUzlyajh6aDNTTnZJelpYelNBVllsM0t5RC1GZm9ZdWVXU18xSlF4U1dkQ0pQSGpndGpB?oc=5)
 
 ---
 
@@ -118,19 +150,19 @@ permalink: /news/micafungin/
 
 ---
 
-### [Spedali Civili, cosa significa essere Comprehensive Cancer Center - Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
-
-2026-06-09 <span class="news-indication-tag">cancer</span>
-
-來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
-
----
-
 ### [« La nuit, l’hôpital change de visage » : plongée au cœur de l’Institut Curie, spécialisé dans la lutte contre le cancer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWktnbFAydS00UHAwajZqNmlFWUptTTRTNnhvUU0ybE5ManRjUjhDdmJ2SDNJOGdVRUc2X3I3cExLbm9JaXVVMTV2TklOQ3dqZThROHV5Mk5aSTk4eTE2WndNVWNOTE55eFVxOVVySFlaMXR4YU1adE1hZHNEajVTNUYzOEJKaVZjdmFWX215d08taGtJMnN6QjNFR3BBRV81NUpDOVRqSHZQOW1KNGVHQWFROTZMdmxVNVl1TXlpeFNWYW9FVFZTbS1VMXZreldYc281cmh5VTZ4c2VDTnl0aXg1dWI?oc=5)
 
 2026-06-09 <span class="news-indication-tag">cancer</span>
 
 來源：[parismatch.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWktnbFAydS00UHAwajZqNmlFWUptTTRTNnhvUU0ybE5ManRjUjhDdmJ2SDNJOGdVRUc2X3I3cExLbm9JaXVVMTV2TklOQ3dqZThROHV5Mk5aSTk4eTE2WndNVWNOTE55eFVxOVVySFlaMXR4YU1adE1hZHNEajVTNUYzOEJKaVZjdmFWX215d08taGtJMnN6QjNFR3BBRV81NUpDOVRqSHZQOW1KNGVHQWFROTZMdmxVNVl1TXlpeFNWYW9FVFZTbS1VMXZreldYc281cmh5VTZ4c2VDTnl0aXg1dWI?oc=5)
+
+---
+
+### [Früher eine Alterskrankheit: Dieser Krebs trifft jetzt immer mehr Junge](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdEY2VjI4S1FCOWczVzNwRzhJMk5lTVBXanNqMGdSeVRGdjBTQUtua3lSdEhiRC1RWnl2T1U0aHlObzY4NHE0emJYb0IzYjBGUDBMbmpzVVZiWlpzTGNTTW5LM2drUXIzeHVOSnRnMkNJUnh3YUJrX0NVT3V3RDlMQ2gzakltNlY4eFdudXZjX3JOY19yUC1kYmM5ZlQzY1V2eUk1Rl8xQUpYR0ZvOURHcE9NQ0VLcXpQOXc?oc=5)
+
+2026-06-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[Telepolis](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdEY2VjI4S1FCOWczVzNwRzhJMk5lTVBXanNqMGdSeVRGdjBTQUtua3lSdEhiRC1RWnl2T1U0aHlObzY4NHE0emJYb0IzYjBGUDBMbmpzVVZiWlpzTGNTTW5LM2drUXIzeHVOSnRnMkNJUnh3YUJrX0NVT3V3RDlMQ2gzakltNlY4eFdudXZjX3JOY19yUC1kYmM5ZlQzY1V2eUk1Rl8xQUpYR0ZvOURHcE9NQ0VLcXpQOXc?oc=5)
 
 ---
 
@@ -142,22 +174,6 @@ permalink: /news/micafungin/
 
 ---
 
-### [La crema da giorno con SPF 50 che illumina il viso e aiuta a contrastare le macchie scure](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0dncUlaY3Fjc3l6R2hFeXNFVEdDTjh6WVcxd0N2WTV3RW54eFhOQmMxM3ZfZzI5bEtGbzRseXlGdHlDc3BlTXhTWHNUMFV2RHB6bVB1V1pMRmNqZkQxVC05VFFlN0FxenJjeVIzOGp2ay1BQmlKV1VCRkhPdWlHb1hzWDZWbFI3WVNTeDRYa29BSDZVcVF6UXV4WUJGOW8?oc=5)
-
-2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[ELLE](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0dncUlaY3Fjc3l6R2hFeXNFVEdDTjh6WVcxd0N2WTV3RW54eFhOQmMxM3ZfZzI5bEtGbzRseXlGdHlDc3BlTXhTWHNUMFV2RHB6bVB1V1pMRmNqZkQxVC05VFFlN0FxenJjeVIzOGp2ay1BQmlKV1VCRkhPdWlHb1hzWDZWbFI3WVNTeDRYa29BSDZVcVF6UXV4WUJGOW8?oc=5)
-
----
-
-### [Charity raises £1m in 12 months for cancer centre](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CQWJ3QWxBVW11dWFIZ043Q3c1Sy0xdVZOV3ItZUNwckJYeEFqNnhMc0xWdC1ueXFlbDBsMlF1TU5xZHFTT2FFdkxnd3VhSFl3eGZ4VG5TODlZZ0ho?oc=5)
-
-2026-06-09 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CQWJ3QWxBVW11dWFIZ043Q3c1Sy0xdVZOV3ItZUNwckJYeEFqNnhMc0xWdC1ueXFlbDBsMlF1TU5xZHFTT2FFdkxnd3VhSFl3eGZ4VG5TODlZZ0ho?oc=5)
-
----
-
 ### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -166,27 +182,19 @@ permalink: /news/micafungin/
 
 ---
 
-### [Saône-et-Loire. Cancer du poumon : non-fumeur depuis 45 ans, il en est à sa cinquième chimiothérapie - Le JSL](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk5rSzlmWkYzY3RHR3k1YUZaQzZETjVVSWViUnBlXzY1aXBZaXdvbjY3NElfZjNJLW5SUkZ5a3E4S0NHYnJtbXVfZDdvRkFlclRLMEJwS0tBeUJwRmJ5TDZFcHZqdnkwdktGSGJQeUVEalJDdERMSmVOWGVlalNoNHBCZnpSQ3R1VXJTYWlGQU1KZmNLbUZRX3g3UjN3ai1Na3lWOWFvT3RvRC14OU9UdlJDSlVLc0duZ0xfNg?oc=5)
+### [‘Transformative’ new UK vaccine could prevent bowel and ovarian cancer in world first - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3E3S1V2SW9LRWFmMWI3UzBRWjEySUN1SDdEYWMyQlczcU91OEFmSGlpcFJWV0dkQ3ZFVWFsSl8tZEMyOFhBTzdMOXBCRzVfRkVaR1JUZnpKa01IRTBydWJCSTBUZndoQzBnRzh5SXZHSGo5NWtHbVZ0S2t6ZTJkZ1dhVEltQUxkZG5lN0NtWQ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">cancer</span>
 
-來源：[Le JSL](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk5rSzlmWkYzY3RHR3k1YUZaQzZETjVVSWViUnBlXzY1aXBZaXdvbjY3NElfZjNJLW5SUkZ5a3E4S0NHYnJtbXVfZDdvRkFlclRLMEJwS0tBeUJwRmJ5TDZFcHZqdnkwdktGSGJQeUVEalJDdERMSmVOWGVlalNoNHBCZnpSQ3R1VXJTYWlGQU1KZmNLbUZRX3g3UjN3ai1Na3lWOWFvT3RvRC14OU9UdlJDSlVLc0duZ0xfNg?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3E3S1V2SW9LRWFmMWI3UzBRWjEySUN1SDdEYWMyQlczcU91OEFmSGlpcFJWV0dkQ3ZFVWFsSl8tZEMyOFhBTzdMOXBCRzVfRkVaR1JUZnpKa01IRTBydWJCSTBUZndoQzBnRzh5SXZHSGo5NWtHbVZ0S2t6ZTJkZ1dhVEltQUxkZG5lN0NtWQ?oc=5)
 
 ---
 
-### [Tumori, arriva a Catania la Flash Therapy (è la prima al Sud): cure più mirate e con meno effetti collaterali - La Sicilia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjNZb3VQTXYxYW4xLUExaEl0SHFzSlFBM1RpTWRDQ2g4bFcza29LUGhTZVZLUUFGVEI3b1VvYTR4UFlNQlNjdUtyeVJMQkpXeHJQZHB1QUJuTGlxSWtsWWtTeThuSW4zdm8tcWRPMnRidlNCWlRObjc1ZFZhNDVmay1ER0FmVXAwaGE3RXFSUXFZLWlxcnpjOWxSXzFyRFZ3NHg4UU10bXlSRGx0Tko3OExnSjhTZW1paWZhRTUwS1BadWctRkRnVHBJQ19VZi05amMzUm5FY1h5WFR0b0E?oc=5)
+### [Vorhofflimmern und Diabetes: 61% höheres Risiko für vorzeitigen Tod - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[La Sicilia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjNZb3VQTXYxYW4xLUExaEl0SHFzSlFBM1RpTWRDQ2g4bFcza29LUGhTZVZLUUFGVEI3b1VvYTR4UFlNQlNjdUtyeVJMQkpXeHJQZHB1QUJuTGlxSWtsWWtTeThuSW4zdm8tcWRPMnRidlNCWlRObjc1ZFZhNDVmay1ER0FmVXAwaGE3RXFSUXFZLWlxcnpjOWxSXzFyRFZ3NHg4UU10bXlSRGx0Tko3OExnSjhTZW1paWZhRTUwS1BadWctRkRnVHBJQ19VZi05amMzUm5FY1h5WFR0b0E?oc=5)
-
----
-
-### ['I just want my life back after doctors found problem deep inside my brain' - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rdVR1c0wtanpjVy1NQXhQeGptMV9fVkhQZWZFRlNCd3lxT1RhVllMc2trWUJFMlJkeFZqOUdfaDRTX2pkb2ZyMUtRWVl1MG9DVnQ5dW1TbllYS2VqZDFBSV9BMmNWUTRld2w4MjBOYTFFZEHSAXhBVV95cUxOWC0wZS1nbDAwX3Bpd0JWaFBOd3NlMTBkdVdoVTdBVDVVbkVaVjRzWURLczVwWVVzUFVCQVpSUlFmQjFBUUdqQXJia2FSQVJFRENubWFHeW5HMGo0aldXYzkzZjNTUmQ0SWxOVUVZNXc5aVozQTRsNTQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 ---
 
@@ -206,14 +214,6 @@ permalink: /news/micafungin/
 
 ---
 
-### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
-
----
-
 ### [Un estudio en moscas revela cómo algunos tumores eliminan células sanas vecinas para crecer - Salud a Diario](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZlpIQ0xHR2ZYRUJKNWZSUngwSk1ESklEN3NiMEFxSnpQY3laa3B3TUhxaWc0djlyYVUwTE5zallnRG1FMzBZeExzLVB3bWxnSzhkTmlpZmhPSG9uQm5zVjl4dHRZUElSYm9MM2s4Ml9sNEhMbGVIdGFQZG9aVURmeFY4SzNjQlBHcmdGYWIydFJpelJYVG1sT0NTbkhWRFhHRFRObDdVNHRYdkdPek1DaXpTcUM5aWdNZkhPbllWNjlYaG9UVXp2SVpxRXd0dVE?oc=5)
 
 2026-06-08 <span class="news-indication-tag">tumor</span>
@@ -230,14 +230,6 @@ permalink: /news/micafungin/
 
 ---
 
-### [Morto Richard Scolyer: sfidò il glioblastoma con una cura innovativa su se stesso](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGpIWHRYSXgyWVVGclNVaHdPMFVDbldvRUozbjlZZVhfYWV5OTFuRFFqR2lMeEFSaU9qdXl0QlBQWjRfbmFiLTgyQUVyeUlRTUd6WlBwT0o5SkFBekcxS3h0U0RZNGIyTWVlQzdLRWpMejkweVQ0cmNxTy16VmFMTGdlZDZ0UUt0c1ZZejRuZzZQeThRYmpyeV9iZVlLXy1nQVpTZlFCMlFTNVc0X25ETkctMlJzcDV3ZmFrdWo3YnFwMzM5ODN3aENWb2lJQ2tCNV9COUdFUW1wUQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGpIWHRYSXgyWVVGclNVaHdPMFVDbldvRUozbjlZZVhfYWV5OTFuRFFqR2lMeEFSaU9qdXl0QlBQWjRfbmFiLTgyQUVyeUlRTUd6WlBwT0o5SkFBekcxS3h0U0RZNGIyTWVlQzdLRWpMejkweVQ0cmNxTy16VmFMTGdlZDZ0UUt0c1ZZejRuZzZQeThRYmpyeV9iZVlLXy1nQVpTZlFCMlFTNVc0X25ETkctMlJzcDV3ZmFrdWo3YnFwMzM5ODN3aENWb2lJQ2tCNV9COUdFUW1wUQ?oc=5)
-
----
-
 ### [Creatine May Supercharge Cancer-Fighting Immune Cells - Technology Networks](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGZib3Q2VXlGdmJEbGhEcmw3bWpJT1RuM2VzSjNOQkJ5RnZSbWxNZFhxdlkzUVBmWFJEc0tPWFVlQlE4b2NJUUx0ampsQVpCeFl1TTlxdFZFa0V0T2tncnJadE5mSXNuR2NQNFpjdE1yWWcwS0VjZVh0LTVDLTB5ZER5djNDNE9XWXJiNF9EbGJkdzBycHZwUXFUak41anhPb04zX3FfcDlOTDkwZFpjUlZ2SVNtN2M?oc=5)
 
 2026-06-08 <span class="news-indication-tag">cancer</span>
@@ -251,22 +243,6 @@ permalink: /news/micafungin/
 2026-06-08 <span class="news-indication-tag">tumor</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRnpXdkhCT0lRV2VCck5uZjc1ai1HZkdVb1ZoZllmQUFoMWItMjhpelF2TWZ1WjA3VlVGejZIWkRrM2hZREUzU3N2V0JUZ2VpOVdCeFZyVUR6TFl0UFV5dmxTNnVQZmZtYURTcnFIcXlSWFplbGtRMUZqUkxETlRpZm5oUHY1aFl2MkJWZ1NwY2RzTkV1dUZGVF92RDc0c29RQTRrcHFFRFpjM2dUbHdHd3FVZ1REaGJtaFdBTWNCekthRUU2R1VnbGdUOVYyd2k0ZHMxUEFqeVNXcmU5THpSQUU4SkZsYWpoS1JUZ1IzY24?oc=5)
-
----
-
-### [«Cancro al seno, i farmaci per la perdita di peso riducono il rischio di tumore fino al 30%» - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
-
----
-
-### [Metabolismo y desarrollo tumoral: ¿Pueden dieta y ejercicio ayudar a tratar el cáncer?](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09Ka1BiSHN2cTdVU3hYaFNCQUlraEdSSmlJbDEtRE1qUktPdFJfU3hOLWNTZ01IZ1o4Z2RlTW1jc2M0RzNOM01XbWtWU2JGa2RrMDZBZmo5MUc5ZXJpeTNJMnIzV2JGWE5QZjV0QWVuMUszRE9RaE1hNEdPekxoSm9lbExyVWQyeHBNX0pQR1R5T1YtckZ6Q0tqZ1VuaktaTWpJeHVBV19MZjVHZjVLUw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">cancer</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa09Ka1BiSHN2cTdVU3hYaFNCQUlraEdSSmlJbDEtRE1qUktPdFJfU3hOLWNTZ01IZ1o4Z2RlTW1jc2M0RzNOM01XbWtWU2JGa2RrMDZBZmo5MUc5ZXJpeTNJMnIzV2JGWE5QZjV0QWVuMUszRE9RaE1hNEdPekxoSm9lbExyVWQyeHBNX0pQR1R5T1YtckZ6Q0tqZ1VuaktaTWpJeHVBV19MZjVHZjVLUw?oc=5)
 
 ---
 

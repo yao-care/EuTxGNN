@@ -14,7 +14,7 @@ permalink: /news/angiotensin-ii-acetate/
 ---
 
 <p class="key-answer" data-question="Angiotensin Ii Acetate 有什麼相關新聞？">
-<strong>Angiotensin Ii Acetate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Angiotensin Ii Acetate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/angiotensin-ii-acetate/
 <p><a href="{{ '/drugs/angiotensin-ii-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
+
+### [Las infecciones son un 'gran riesgo para la salud' de las personas con diabetes, advierte un gran estudio](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3B5Nkkwdkt4d3U1YzNBU3FsbWpiX1BYbGx2UVE4YTVwMDktNlJKZS1pT21WcXpOczJUTkc1Rkl3M0oxLXB3dTdyRlBDREFaeEI3aVpma1ZZT2RvalRCQy03RDltTnV0aFBNdUNiTFpnN0t4Y0NKWGJ2dGhKSE9YUTFWeFlibDlZb3BnVGZEdnNybjZ1TFBJbEg0NjhrcEN4Q0FCUFBKRnNmQXl6LTdTUFBva0k5V3Z3UnowLXp4bVRoYkE1bTJMSUQwMmVKSHJEWWgzSENFaEh6dktG0gH3AUFVX3lxTE5QYXluakhEWjFmOHdnVmlTcjdGcGZHdnNrY0hkNFVmc2JnS1k2TzhjNDB4NEFHTHlYazQ5VzRUNXYtZ0hWNllxZmJsSWU5dTJSOTBnelVWdFl0NEQ4QzZ6UTdrSUt0bTZfaUQ2T0s0eHhKdHg0ZzlPTnJUcnlPbXVBSWNDc0E3MkRONDc4NVpncW1RQTQ0U1lMLUNrTFRCLWQ1ak9LenYxbktMTVJLUXpVYWttaFExR3ZudVNjbklHUFNBNFBmd3YwQU5ScDlYemxvTDEwRVc3RUNxM3l5VHkyX01YcW42dXpkVlotOWcwNGZlUkV1aDA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3B5Nkkwdkt4d3U1YzNBU3FsbWpiX1BYbGx2UVE4YTVwMDktNlJKZS1pT21WcXpOczJUTkc1Rkl3M0oxLXB3dTdyRlBDREFaeEI3aVpma1ZZT2RvalRCQy03RDltTnV0aFBNdUNiTFpnN0t4Y0NKWGJ2dGhKSE9YUTFWeFlibDlZb3BnVGZEdnNybjZ1TFBJbEg0NjhrcEN4Q0FCUFBKRnNmQXl6LTdTUFBva0k5V3Z3UnowLXp4bVRoYkE1bTJMSUQwMmVKSHJEWWgzSENFaEh6dktG0gH3AUFVX3lxTE5QYXluakhEWjFmOHdnVmlTcjdGcGZHdnNrY0hkNFVmc2JnS1k2TzhjNDB4NEFHTHlYazQ5VzRUNXYtZ0hWNllxZmJsSWU5dTJSOTBnelVWdFl0NEQ4QzZ6UTdrSUt0bTZfaUQ2T0s0eHhKdHg0ZzlPTnJUcnlPbXVBSWNDc0E3MkRONDc4NVpncW1RQTQ0U1lMLUNrTFRCLWQ1ak9LenYxbktMTVJLUXpVYWttaFExR3ZudVNjbklHUFNBNFBmd3YwQU5ScDlYemxvTDEwRVc3RUNxM3l5VHkyX01YcW42dXpkVlotOWcwNGZlUkV1aDA?oc=5)
+
+---
 
 ### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
@@ -62,35 +70,11 @@ permalink: /news/angiotensin-ii-acetate/
 
 ---
 
-### [TB vaccine from the 1920s shows promise in diabetes trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dEJOMFVuM2VyQ3VyM0VYYWh3RGR3bjQ2S0dHeE5fbUFOU2VMS1ZsREtvOUlSd2liVE9CRjVDWXBEU2xYY3IydVFxZDVScGFiTkIwX05kU3UtM0l0Mzdr?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dEJOMFVuM2VyQ3VyM0VYYWh3RGR3bjQ2S0dHeE5fbUFOU2VMS1ZsREtvOUlSd2liVE9CRjVDWXBEU2xYY3IydVFxZDVScGFiTkIwX05kU3UtM0l0Mzdr?oc=5)
-
----
-
-### [Las infecciones representan la tercera causa subyacente de muerte en la diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd19UOWFMR0JrVE40YUZzQlJ4Wl8tZVlkcGVFclpjM1g0aFV4NVBqM1NSUHJWcFlkTDVLQVlzSkh1bnRhNnVoT1NjNlRTMERBWUJDR1lqdlUxTkpXZlExcldQdWw0eVlvNjg5YmxFOXNiV1MyUjF3dTNQUjlXenZtUVJSWE9uT2QtbkNtNGhBWkxWSDMxTDhJU0lMM0dGQjRSdEVIS1Y5WlYwWGMtaUtESFJYTk9LWVpZUWdDWjdTcXV6V2vSAb4BQVVfeXFMTUJEaVVfa1dkcW04OGZGNDlibW5PVXVfdjdRdXdYaFA1Vnk1czE2VjI4TzNTTFdaZXc0aEM2YVNrWVpVdFREVkc1aUJhNUtXa0NiYU9Nc2ZTckIxamZhR0x4cUUzZm1maVFMXzdvckRwSll6OExPZDV5UlFacHlPSTRnbTBoeXNNQ3NPSFdValBNYzB0NzJOZnpRc19yWHF2R2JzZFlLNk82WmN1WGhNSlNfTGlDVWFYQmF1Um5DQQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd19UOWFMR0JrVE40YUZzQlJ4Wl8tZVlkcGVFclpjM1g0aFV4NVBqM1NSUHJWcFlkTDVLQVlzSkh1bnRhNnVoT1NjNlRTMERBWUJDR1lqdlUxTkpXZlExcldQdWw0eVlvNjg5YmxFOXNiV1MyUjF3dTNQUjlXenZtUVJSWE9uT2QtbkNtNGhBWkxWSDMxTDhJU0lMM0dGQjRSdEVIS1Y5WlYwWGMtaUtESFJYTk9LWVpZUWdDWjdTcXV6V2vSAb4BQVVfeXFMTUJEaVVfa1dkcW04OGZGNDlibW5PVXVfdjdRdXdYaFA1Vnk1czE2VjI4TzNTTFdaZXc0aEM2YVNrWVpVdFREVkc1aUJhNUtXa0NiYU9Nc2ZTckIxamZhR0x4cUUzZm1maVFMXzdvckRwSll6OExPZDV5UlFacHlPSTRnbTBoeXNNQ3NPSFdValBNYzB0NzJOZnpRc19yWHF2R2JzZFlLNk82WmN1WGhNSlNfTGlDVWFYQmF1Um5DQQ?oc=5)
-
----
-
-### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
+### [Vorhofflimmern und Diabetes: 61% höheres Risiko für vorzeitigen Tod - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
-
----
-
-### [I’ve helped 150 people reverse their type 2 diabetes. This is how - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
-
-2026-06-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
 
 ---
 

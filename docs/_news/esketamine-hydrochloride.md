@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Therapieresistente Depression: Charité startet DHEA-Studie mit 2,3 Millionen Euro - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVMwbURJdmdha0x5SlhOVmdxcTBpUDJSbTU0UHJlM0c2OGJCUmxySUg3NlRyNm5fNEdYZzlwa2x3aVE1cElYUG45Zy14UFNrNWNma2ZhUHJuelVIWElnNlNaVVN2X3ZDcTBXYmotc1Bmd2FuU3VuYkxQNWl0d0NiM1h5bFozdVkwS2kwclA3QmEtc3ZTMDVIakZOTjFrQW85U196Nk5CdGJRazg1NlM4QkhrTTQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVMwbURJdmdha0x5SlhOVmdxcTBpUDJSbTU0UHJlM0c2OGJCUmxySUg3NlRyNm5fNEdYZzlwa2x3aVE1cElYUG45Zy14UFNrNWNma2ZhUHJuelVIWElnNlNaVVN2X3ZDcTBXYmotc1Bmd2FuU3VuYkxQNWl0d0NiM1h5bFozdVkwS2kwclA3QmEtc3ZTMDVIakZOTjFrQW85U196Nk5CdGJRazg1NlM4QkhrTTQ?oc=5)
+
+---
 
 ### [Dépression post-partum : un nouveau test sanguin pourrait repérer les femmes à risque dès la grossesse](https://news.google.com/rss/articles/CBMifEFVX3lxTE5TSGFhcnVxU3VzVXItbnRLam5zUGNvbnFYWGxQWG9YclNnNTNhamswS3F6VkljMUNaamZyMTc5X2UxZUduWm9kZGVMWTZtN3RXS2lIaVFFMnBNQS04VklnajhUZzlpbDZRbzVLWHV1djBzOEtwYm5pRGJmWGs?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ---
 
-### [Hormon als Booster bei antidepressiver Behandlung - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
+### [La ciberviolencia sexual tiene un impacto medible en la salud de las mujeres - El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEZzS0w0RVZmaW1DSEJMVlpoNnNzRmYtMWJPbmtZT1h4blBWenpZcXBoakJxdTZwa21MMW5LNFVKQU9RRU9kUExWcTlxaWlneGxheXdjVU5FM2ZRRl9ieFVaellVeFQtMG9hcDhYYzI0alZIMlhzc2FkcjRUUWZFTFMtVUJLZ0JwMU5SSFdYZE95akd1UXlZLWtTc1p5M3lGektCZWs2eDN2LUdMeWc?oc=5)
 
-2026-06-08 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-09 <span class="news-indication-tag">depresión</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYk84aFI2TzE1NGU3bkFtN0ZJSVJEVXBtd2s1SGktZ1ZvWHh6YlE1cEQ3dGhRUGtJMFV0ZVVpYWtaRjBOa2JyQ1FrSQ?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEZzS0w0RVZmaW1DSEJMVlpoNnNzRmYtMWJPbmtZT1h4blBWenpZcXBoakJxdTZwa21MMW5LNFVKQU9RRU9kUExWcTlxaWlneGxheXdjVU5FM2ZRRl9ieFVaellVeFQtMG9hcDhYYzI0alZIMlhzc2FkcjRUUWZFTFMtVUJLZ0JwMU5SSFdYZE95akd1UXlZLWtTc1p5M3lGektCZWs2eDN2LUdMeWc?oc=5)
 
 ---
 

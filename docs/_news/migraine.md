@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Migräne（migraine） 相關新聞"
+title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# Migräne（migraine） 相關新聞
+# migraña（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
+<strong>migraña（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -79,11 +79,11 @@ permalink: /news/migraine/
 
 ## 相關新聞（1 則）
 
-### [Allergische Rhinitis als Risikofaktor für Migräne - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
+### [Si te duele la cabeza al comer helado, la ciencia tiene una explicación y una advertencia - Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
 
-2026-06-08
+2026-06-10
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRE1kRVZiazJIYXRsOHRKdDVUNFZOYzZkS2U1cDNka3phdW1fRkpSc2JMVWlvVVc4U0RQdE8xbW1mZTJ4UmtkV1c1Q2RkU3NLRUhjM1NYMFpLR3o3TmRQZ3RkZ2prWTFPdmh1aFJNZjFZdVVnWUJlLVd3Wi1mWDFkUy13emR4NzJxSTRyUUVjdw?oc=5)
+來源：[Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
 
 ---
 

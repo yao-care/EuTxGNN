@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Las mujeres con la menopausia adelantada tienen mayor riesgo de sufrir un ictus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVI2Wm1qVW5Nd19YdHBVeURmSzZvVzlON2dZb0RVUktBWkkzalk1ME9jN3BUbHlBaVdIUFZEWXlEeXZ0am55aExOdXhINlNpakswV2xtWnZfZFdkNUxTN2o5VXVpVVpOWGtrdWVRc3JVSnVZOHo4NzZOU2J3U1N1ZnRkZ2Q0Tmh3SWZhd0pPNkFyX0JuTjlyRlNrYjY2QkpNeFI3UmhZVkZ2SXR5OEJGbm1qbUlvS2lIc3JRdWpmcW9vSVhrazhESGl5WVY2cVNJandz?oc=5)
+### [Doppelt hält besser: DAPT nach Schlaganfall - mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
+
+---
+
+### [Quel est ce médicament, pris par 7 millions de Français, qui provoquerait des troubles cognitifs - La République des Pyrénées](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcWZRdlRSczI1WTNDVEpsbzFxVXA3QmJIaklZbzR0Z2hyeDR0dGw4ZERSOTBlUm9zVFlOMmxQMXV3cHd0SGZRNW1MclFTTEEyb0VXd0tjWFk0ZEluV2FnZ0F2LWNTOHdlcE5lajhPSHlfeU1ON0tIcVVIQko3RmZiSWtfUmp1SWloX2RuMVprQnVWamNoV3YzMUJpcGxsSV9oT2xzczJsdFZTc09ub3JRSzlDNF90MGRuVUdiUHN3andQeTRuWUo0dzdpSVkzOWgyaG5UZXJtd2ZXXzJBbHA1Q3gyYlFUOGM?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AVC</span>
+
+來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcWZRdlRSczI1WTNDVEpsbzFxVXA3QmJIaklZbzR0Z2hyeDR0dGw4ZERSOTBlUm9zVFlOMmxQMXV3cHd0SGZRNW1MclFTTEEyb0VXd0tjWFk0ZEluV2FnZ0F2LWNTOHdlcE5lajhPSHlfeU1ON0tIcVVIQko3RmZiSWtfUmp1SWloX2RuMVprQnVWamNoV3YzMUJpcGxsSV9oT2xzczJsdFZTc09ub3JRSzlDNF90MGRuVUdiUHN3andQeTRuWUo0dzdpSVkzOWgyaG5UZXJtd2ZXXzJBbHA1Q3gyYlFUOGM?oc=5)
+
+---
+
+### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
 
 2026-06-09 <span class="news-indication-tag">ictus</span>
 
-來源：[MUNDIARIO](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVI2Wm1qVW5Nd19YdHBVeURmSzZvVzlON2dZb0RVUktBWkkzalk1ME9jN3BUbHlBaVdIUFZEWXlEeXZ0am55aExOdXhINlNpakswV2xtWnZfZFdkNUxTN2o5VXVpVVpOWGtrdWVRc3JVSnVZOHo4NzZOU2J3U1N1ZnRkZ2Q0Tmh3SWZhd0pPNkFyX0JuTjlyRlNrYjY2QkpNeFI3UmhZVkZ2SXR5OEJGbm1qbUlvS2lIc3JRdWpmcW9vSVhrazhESGl5WVY2cVNJandz?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-06-09 <span class="news-indication-tag">stroke</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
-
----
-
-### [7 millions de Français prennent ce médicament qui augmente le risque d'AVC chez les plus de 65 ans selon une nouvelle étude](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
-
-2026-06-09 <span class="news-indication-tag">AVC</span>
-
-來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1NRTW5iTUdMTlIzbDlXRGJiTEtQZ1lQMkF6VllyNlJZYU93ejlsY0ZtSmJqLS1LSW5mUVlfeFAzMHJQOEcwdktLRk1NS29icm1PaFZCQXpVSWczeV9tVUQ2RFN4b2xOa3Z4VXBWbEtkMUxMbTMyYTJVdlVDd1pZRndBOFpNNURMTzFsdjVyekdXbFdOQmRWbEVsY1lmUWV0Qm0tdlpjdTJRbG1SWEFMZFM4UDZ3X2FDcDdVZk9yNDNRVU1Wc1FsYU55OFMxbVFHOHBIVWhYXzc0azIyYkZuNGFFQVV2NVVSWUJmVFNPdkhwOUhNNDVXbmtPSEJsdFE?oc=5)
 
 ---
 

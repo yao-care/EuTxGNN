@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Le 15 juin va tout changer pour des centaines de Français : ce traitement est enfin remboursé !](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
+
+2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
+
+---
 
 ### [I've lost 6st on Mounjaro but I can't put up with the side effects anymore - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHh5djdoLU5wRGlmSm1tRjY5YnRTM2RBbkdhVkRYajA0TFBub183OUpFbXQ5SGVxX2ZKaWg3WHdsWXNsVC0tT0YxbTJ3M3RqX05BZFlzbTkwNnBXZXFVMVBFSWNNWFcyV3RFNFNWNV9JLUVTSHFtZE9QMWFha1Y2NDFlRXNhalhNZ2NFNGJPbG54Q2tt?oc=5)
 
