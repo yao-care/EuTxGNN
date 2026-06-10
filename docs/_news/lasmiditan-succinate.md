@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [Obesità, Francia rimborserà farmaci a pazienti gravi. Sio: “Anche l’Italia segua questa strada"](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYTFocE1PQXliSV8zNF9xbmZDbGxuUXhfRkpsUWhwVG5FcjlsTXJfdkV0Q1Fib0JHdDdseEVURUF5NUw3VUlCRlluQjgyN3BJT2hNT0ZzOG51V09xenlCenc2WXVZQVhqWU9Sd0ZydURYZWdyMS04Z1VEQURsaGhfbnFLLW9oWmV3bUd6UXE2YzY5SWljMDJnSmozSzBUdGR3d0dMMDFlUndNY18wbUwzREVwbmxVcEVzcHIyYWJDMHFHSEs5MnpXUUR0ZERweDBxNFhfdWRZSjY3MHZmX2JHUmN2M21UQ1dYemwwX3JVX25UWlpCZDFHd0g3VmlPTEtX0gGGAkFVX3lxTE9pdHNudTZxWnhyMEFEczl1T3Z1d1U2VDJSU3pxaE9BZTlOTC1jd0Y0OEV0S2djVWdRZHZ0S1p4QVZ1cmZLN0FvWDdjUEhYVkpGZUw2c0ZnaXB6S3VGbW9GZnJZZmtjcGdScmtVOUlBLUlmS3I5OXNwSjZGQWl6dlhjVzBXaTZKM2l5c0NvM0Vmb3lUVkpNcXEyWG91dmRwdkczeUFRMjM5R3hWbTVOSnAxYzAxNEgxNkpDVGpwTk9QMTV4WFJlMnlPd05BWGdzUHAxbXZPZHZqNDcxMkQ0U1hhYTREcnhhX2s1SU9pWVFqZEc4YzFWbEJUREF2S3lmaEhvQmNseHc?oc=5)
+
+2026-06-10 <span class="news-indication-tag">obesità</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYTFocE1PQXliSV8zNF9xbmZDbGxuUXhfRkpsUWhwVG5FcjlsTXJfdkV0Q1Fib0JHdDdseEVURUF5NUw3VUlCRlluQjgyN3BJT2hNT0ZzOG51V09xenlCenc2WXVZQVhqWU9Sd0ZydURYZWdyMS04Z1VEQURsaGhfbnFLLW9oWmV3bUd6UXE2YzY5SWljMDJnSmozSzBUdGR3d0dMMDFlUndNY18wbUwzREVwbmxVcEVzcHIyYWJDMHFHSEs5MnpXUUR0ZERweDBxNFhfdWRZSjY3MHZmX2JHUmN2M21UQ1dYemwwX3JVX25UWlpCZDFHd0g3VmlPTEtX0gGGAkFVX3lxTE9pdHNudTZxWnhyMEFEczl1T3Z1d1U2VDJSU3pxaE9BZTlOTC1jd0Y0OEV0S2djVWdRZHZ0S1p4QVZ1cmZLN0FvWDdjUEhYVkpGZUw2c0ZnaXB6S3VGbW9GZnJZZmtjcGdScmtVOUlBLUlmS3I5OXNwSjZGQWl6dlhjVzBXaTZKM2l5c0NvM0Vmb3lUVkpNcXEyWG91dmRwdkczeUFRMjM5R3hWbTVOSnAxYzAxNEgxNkpDVGpwTk9QMTV4WFJlMnlPd05BWGdzUHAxbXZPZHZqNDcxMkQ0U1hhYTREcnhhX2s1SU9pWVFqZEc4YzFWbEJUREF2S3lmaEhvQmNseHc?oc=5)
+
+---
+
+### [Síndrome CKM: así quieren frenar el riesgo combinado de corazón, riñón y metabólico](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaUdVOFdCN1FhNmpVOGhEZzBVM2lSaDBPaGp3UkdnY3FXZGI4SWdvWWNGcW1PZVZPVUotYjVsTkczVjhYcjlHRENTcnNtQ1JhLTU5RzBpZVJQYTFTRGJ0SG9TZmI5azMxc0FsMUoydXBBZ19nYkh6dkRXNTRTV3lBYUctdlN4YURkTG5NaGtTb2QtajZMWDFWNHFUYTB0LVkxTl9sZll0ck9CNGxqdXlkdGNIbkUxVElvY3BDNkRHSmxXTzJYenk3MGUwanpESEVMNGtWS1RnXzVHeGU5bjRtcA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaUdVOFdCN1FhNmpVOGhEZzBVM2lSaDBPaGp3UkdnY3FXZGI4SWdvWWNGcW1PZVZPVUotYjVsTkczVjhYcjlHRENTcnNtQ1JhLTU5RzBpZVJQYTFTRGJ0SG9TZmI5azMxc0FsMUoydXBBZ19nYkh6dkRXNTRTV3lBYUctdlN4YURkTG5NaGtTb2QtajZMWDFWNHFUYTB0LVkxTl9sZll0ck9CNGxqdXlkdGNIbkUxVElvY3BDNkRHSmxXTzJYenk3MGUwanpESEVMNGtWS1RnXzVHeGU5bjRtcA?oc=5)
+
+---
+
+### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
+
+---
 
 ### [Si te duele la cabeza al comer helado, la ciencia tiene una explicación y una advertencia - Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
 
@@ -107,14 +131,6 @@ permalink: /news/lasmiditan-succinate/
 2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
-
----
-
-### [Semaglutid gegen Sucht: Studie belegt 50% weniger Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
-
-2026-06-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
 
 ---
 

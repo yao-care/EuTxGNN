@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dronedarone</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（23 則）
 
-### [Gedächtnistests per Smartphone erfassen kognitive Veränderungen schneller als Standardverfahren - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCczhtT01HMmJJLXlkemlsaFppWDJVbG9zX2w5bVNHN29pSm8ybU0zdGYxNEh0NzNEXzhCdHlkWER3WUU2U3ZOOEcwTQ?oc=5)
+### [Läuserückfallfieber: Wie der Erreger dem Immunsystem entkommt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlcnltdWJoaUZBTndqdkJTdmkzMF9PRDZNb3hNTWQ2MFBPTV9ZWGtWeHNmRjhuRkNsU0VFRXd1YjB1cDRmOWdJOVVSQQ?oc=5)
 
 2026-06-10 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCczhtT01HMmJJLXlkemlsaFppWDJVbG9zX2w5bVNHN29pSm8ybU0zdGYxNEh0NzNEXzhCdHlkWER3WUU2U3ZOOEcwTQ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlcnltdWJoaUZBTndqdkJTdmkzMF9PRDZNb3hNTWQ2MFBPTV9ZWGtWeHNmRjhuRkNsU0VFRXd1YjB1cDRmOWdJOVVSQQ?oc=5)
+
+---
+
+### [Angst im Genom: Neue genetische Zusammenhänge mit Angstsymptomen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnS0RTQURRSXhiNGVTYXIxcVZrMlJnMGRVRlluLU0tWVFTbjVEN3czWklOZzVZN3lIQ01BNklnYzVvWVpteUZqUkVFUQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnS0RTQURRSXhiNGVTYXIxcVZrMlJnMGRVRlluLU0tWVFTbjVEN3czWklOZzVZN3lIQ01BNklnYzVvWVpteUZqUkVFUQ?oc=5)
+
+---
+
+### [La «crisi del settimo anno» di cani e gatti: come affrontare l'inizio di una vecchiaia che diventa sempre più lunga - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [La «crisi del settimo anno» di cani e gatti: come affrontare l'inizio di una vecchiaia che diventa sempre più lunga - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
 
-2026-06-10 <span class="news-indication-tag">AF</span>
+2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
 
 ---
 
@@ -126,6 +142,14 @@ permalink: /news/dronedarone/
 
 ---
 
+### [Cardiff woman with acute myeloid leukaemia says leaving twin is 'unthinkable'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00SGFxSXVrVFQwc2wwdlRHNGRNRS11VU15bndlN1hub3g5OUdLXzFKZUp5YjhRTWlDMGotekNCN3pRT3p1NU8tZHVwVEkxZnpjMngtUFhNb1RjVlhr?oc=5)
+
+2026-06-09 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00SGFxSXVrVFQwc2wwdlRHNGRNRS11VU15bndlN1hub3g5OUdLXzFKZUp5YjhRTWlDMGotekNCN3pRT3p1NU8tZHVwVEkxZnpjMngtUFhNb1RjVlhr?oc=5)
+
+---
+
 ### [Waterlooville boy's rash 'slipped my mind', doctor tells inquest](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SYnVRWmZERlpUV0JqQUQ0RlAwcWpBSnFKMkxibUo1VkhDekRESmVvS1J0VWFTamxjTURyRENvWVpza3d5TTZySktfUElaNDN1Nmd4UWxGZFVOSUMz?oc=5)
 
 2026-06-09 <span class="news-indication-tag">AF</span>
@@ -158,14 +182,6 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Hígado graso: siete recomendaciones para evitar el malestar y mejorar la digestión](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGNlX3pfUjNPN29yOFhXSUVhR2RKT1k2Vmo1NkJUb2NDaTRkamJMOVBzbE5tdWFTdDFJcE1XVWhVWjhlRERmVmdzMk1DZGdfWTJnT1l5REJxNzk1YWkxSDdjNWNudFpfZWwwYlFDWFFfZFBmTmVtRjRUa3JVZ1dlYVVWX2FyU3g2cUF1R2lBUFFGMGNWcHNyLUJsSnJ5ZVg0TThxdTJ1dmVWeXZkQVJBYmoxaWdYZXY3MFZuVXBn0gHYAUFVX3lxTFBaX2xQS1pQcFo1WDBCTWRrMVVMQnh6emt1YnJ2am1XajNtTDh3aU1xdnVHNktnNU1icDJLbW1pQ2s0RVduY1A3RmZiNFhxb09XTmpsNllKUEx3N2UyYVFUSF9SYUxvSzdrTnhsSmdiSU9tZFJYRXlBdG9iSlB2X09pa3NEeXJvSUJOOFhvZ25BNzhQRXdjRk9fVXF3cy1HWWwyd0lzRlNGSXBEZ0tiTHlnWEl6RjVaWWFlYXdkb0ZVVmU3RnRkV013UjZ6cHEzTmlIRDlZTVI2Tg?oc=5)
-
-2026-06-09 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGNlX3pfUjNPN29yOFhXSUVhR2RKT1k2Vmo1NkJUb2NDaTRkamJMOVBzbE5tdWFTdDFJcE1XVWhVWjhlRERmVmdzMk1DZGdfWTJnT1l5REJxNzk1YWkxSDdjNWNudFpfZWwwYlFDWFFfZFBmTmVtRjRUa3JVZ1dlYVVWX2FyU3g2cUF1R2lBUFFGMGNWcHNyLUJsSnJ5ZVg0TThxdTJ1dmVWeXZkQVJBYmoxaWdYZXY3MFZuVXBn0gHYAUFVX3lxTFBaX2xQS1pQcFo1WDBCTWRrMVVMQnh6emt1YnJ2am1XajNtTDh3aU1xdnVHNktnNU1icDJLbW1pQ2s0RVduY1A3RmZiNFhxb09XTmpsNllKUEx3N2UyYVFUSF9SYUxvSzdrTnhsSmdiSU9tZFJYRXlBdG9iSlB2X09pa3NEeXJvSUJOOFhvZ25BNzhQRXdjRk9fVXF3cy1HWWwyd0lzRlNGSXBEZ0tiTHlnWEl6RjVaWWFlYXdkb0ZVVmU3RnRkV013UjZ6cHEzTmlIRDlZTVI2Tg?oc=5)
-
----
-
 ### [Parkinson-Kongress 2026 im Video – DPG e. V. - Deutsche Gesellschaft für Parkinson und Bewegungsstörungen](https://news.google.com/rss/articles/CBMikgFBVV95cUxNcm5JWDZrZ3p4OXdmcW05TVdEV256M3hfVlJZSTcxejJwQ1QzT0taeENSRzZtNFlKa1RobTd0UnJXM1Q4SlVxZDNIV1pkS3BEeHhRYkxzQ29RZVJUX0hnckhyeUZNTVpMQlk5ZlVUY3B2Q3k4SklaeVZuUTB1SHJ4b25EWWdVaTQxcE1YRGR1SEloQQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">AF</span>
@@ -176,7 +192,7 @@ permalink: /news/dronedarone/
 
 ### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
 
-2026-06-09 <span class="news-indication-tag">ictus</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
 
@@ -198,14 +214,6 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Fatty liver disease: 5 science-backed steps an NHS doctor followed to reverse the condition - The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
-
-2026-06-09 <span class="news-indication-tag">AF</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
-
----
-
 ### [One daily drink no longer looks harmless, as alcohol's risks rewrite moderate drinking rules - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDZtUEtkb01kZHFhSGNTUzZpWXZCN2NNTXVCblBnTHR1N2NYYTRFZV9VdWRUanlHaV9sQzladkNXSEJBM3d1U0pMZzFXMG9DQUI2anNkTF9UQzVrYkJQMWdtRVF1b1M1cVJIcGo5UGJ2Y0NHdjFJaUozOGpJWEVDblRFSENzZUZN?oc=5)
 
 2026-06-09 <span class="news-indication-tag">AF</span>
@@ -214,35 +222,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Congo says Ebola deaths top 100 as armed groups threaten response](https://news.google.com/rss/articles/CBMizwFBVV95cUxPODNLY0oxZEVHb1RHZ1JsUWFJeVFFWVVyR0tCNmNFcFBsdXNoeHdPTDBmTUVWV0NwQ3RXZXJCcXRZaDBuU1RUbXNOUTR0VjcxOFN3WTZMZzU3Z1pyZW5pNnZfOEIyOGg1VGFNMnMzSGdKY2JzRG0wRnJvZnplNEJjTExUM3BQRzhBZDNYWVdsZzM4SXJQcjN6X2FtaXFuWXlzTDREaER4bEVMY3QtbWtERWtHOHYyVl9UOVBQa05Kejk1aUNlT1o0amJVYnRUdnc?oc=5)
-
-2026-06-08 <span class="news-indication-tag">AF</span>
-
-來源：[Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxPODNLY0oxZEVHb1RHZ1JsUWFJeVFFWVVyR0tCNmNFcFBsdXNoeHdPTDBmTUVWV0NwQ3RXZXJCcXRZaDBuU1RUbXNOUTR0VjcxOFN3WTZMZzU3Z1pyZW5pNnZfOEIyOGg1VGFNMnMzSGdKY2JzRG0wRnJvZnplNEJjTExUM3BQRzhBZDNYWVdsZzM4SXJQcjN6X2FtaXFuWXlzTDREaER4bEVMY3QtbWtERWtHOHYyVl9UOVBQa05Kejk1aUNlT1o0amJVYnRUdnc?oc=5)
-
----
-
 ### [‘Stroke and brain injury? We are potentially sitting on a time bomb’ - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
 2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
-
----
-
-### [Vorhofflimmern und Diabetes: 61% höheres Risiko für vorzeitigen Tod - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
-
-2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
-
----
-
-### [Caffè e salute: quanti berne per proteggere il cervello - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmttb1BkdTdZYlRCWVJCYmRhQ3NBU0IxV1A1TUt0b2RrRjVuMnNGb2JFSmpueFZWaGt4R2pOTVhYUUx5dE5pODNGV0hOMndZYXo2SjZHbW5VaHFtT3R5NFA5RkR2dDBHUDRVaVo5R2VpVDFmd2lJM3ZWSGl4dW1tMHU2eThGY01jX1E?oc=5)
-
-2026-06-08 <span class="news-indication-tag">AF</span>
-
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmttb1BkdTdZYlRCWVJCYmRhQ3NBU0IxV1A1TUt0b2RrRjVuMnNGb2JFSmpueFZWaGt4R2pOTVhYUUx5dE5pODNGV0hOMndZYXo2SjZHbW5VaHFtT3R5NFA5RkR2dDBHUDRVaVo5R2VpVDFmd2lJM3ZWSGl4dW1tMHU2eThGY01jX1E?oc=5)
 
 ---
 

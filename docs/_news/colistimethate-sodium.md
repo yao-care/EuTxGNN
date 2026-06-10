@@ -54,11 +54,11 @@ permalink: /news/colistimethate-sodium/
 
 ## 相關新聞（1 則）
 
-### [Monoartrite infiammatoria, lo studio per le nuove cure. “Colpisce anche i giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
+### [Diabetes und Bluthochdruck: 70% der Nierenversagen-Patienten betroffen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
 
-2026-06-08 <span class="news-indication-tag">artrite</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
 
 ---
 

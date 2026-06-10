@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Le 15 juin va tout changer pour des centaines de Français : ce traitement est enfin remboursé !](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/tirzepatide/
 2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
-
----
-
-### [Monoartrite infiammatoria, lo studio per le nuove cure. “Colpisce anche i giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
-
-2026-06-08 <span class="news-indication-tag">artrite</span>
-
-來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
 
 ---
 

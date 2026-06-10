@@ -54,19 +54,27 @@ permalink: /news/interferon-beta-1a/
 
 ## 相關新聞（13 則）
 
+### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
+
+---
+
+### [Vaccination ‘should replace badger culls’ to end bovine TB - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
+
+2026-06-10 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
+
+---
+
 ### [„Wir unterschätzen viel zu oft, wie verletzlich Sepsis-Patienten sind“ - RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
 
 2026-06-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
-
----
-
-### [Cattle in England to get tuberculosis vaccine from 2030 as badger cull to end - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlVRd3V1Ynp4cDhkbHloelYxR0NLNjdyaUhfNnpGTldLa3Zpd2E2UXVmenJ6bnZrS3JhQVRwUGthX1QyMjRDRnRZOWpLOUlHZ3MwMXp5QUR4NGIwaFpVcU4zN2tVcjF6Z05lUjZvR0xiOXNIOTJqNzFFVVppN0FxVGI1TktyRHBXdkRWVnlNOG9RUUZFTzYxQ1VQcw?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlVRd3V1Ynp4cDhkbHloelYxR0NLNjdyaUhfNnpGTldLa3Zpd2E2UXVmenJ6bnZrS3JhQVRwUGthX1QyMjRDRnRZOWpLOUlHZ3MwMXp5QUR4NGIwaFpVcU4zN2tVcjF6Z05lUjZvR0xiOXNIOTJqNzFFVVppN0FxVGI1TktyRHBXdkRWVnlNOG9RUUZFTzYxQ1VQcw?oc=5)
 
 ---
 
@@ -118,6 +126,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [The best fruit and veg to slash heart disease risk revealed - full list - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
+
+2026-06-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
+
+---
+
 ### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -139,22 +155,6 @@ permalink: /news/interferon-beta-1a/
 2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
-
----
-
-### [Semaglutid gegen Sucht: Studie belegt 50% weniger Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
-
-2026-06-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
-
----
-
-### [Ce médicament représente un immense espoir pour les malades : un nouveau traitement contre la sclérose en plaques bientôt autorisé sur le marché](https://news.google.com/rss/articles/CBMinwJBVV95cUxPTDhvc2dWODloaE5PNUttTnYtS2tkRGRzVFhKRzF2bXlvVzV5Q0E2NS1UNjVvUzhVY1FzS3djamd0Y2h6TjJLZmlmR0NUZDNQY1dhVDhyMVRzOWYyMFVoeXB2bWdFNHlfRmJUUDlMOVQxT0tzOE1XamNaN194b0tVRnFvMGRHaFdJNXk0MDd2RXduMk1lOUtaUUF4Q2t1Y2tOdUpSQWN6R0ljeGM0VzRoU3dJWXFDR3REUFpOSHY0QTEtVUp1VXE0T2tLU3hONnBycC1MN2RBVzByWUNXQXdpYm5Nd2hHcHV4MTdoamczNUE3MGI3TE1PN1lqUlVPWGQ1Mmw2V2IzdXc4UXN6RGkyVmhvTE1VLTlhYkJLTTFjdw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMinwJBVV95cUxPTDhvc2dWODloaE5PNUttTnYtS2tkRGRzVFhKRzF2bXlvVzV5Q0E2NS1UNjVvUzhVY1FzS3djamd0Y2h6TjJLZmlmR0NUZDNQY1dhVDhyMVRzOWYyMFVoeXB2bWdFNHlfRmJUUDlMOVQxT0tzOE1XamNaN194b0tVRnFvMGRHaFdJNXk0MDd2RXduMk1lOUtaUUF4Q2t1Y2tOdUpSQWN6R0ljeGM0VzRoU3dJWXFDR3REUFpOSHY0QTEtVUp1VXE0T2tLU3hONnBycC1MN2RBVzByWUNXQXdpYm5Nd2hHcHV4MTdoamczNUE3MGI3TE1PN1lqUlVPWGQ1Mmw2V2IzdXc4UXN6RGkyVmhvTE1VLTlhYkJLTTFjdw?oc=5)
 
 ---
 

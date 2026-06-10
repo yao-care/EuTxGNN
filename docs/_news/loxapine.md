@@ -14,7 +14,7 @@ permalink: /news/loxapine/
 ---
 
 <p class="key-answer" data-question="Loxapine 有什麼相關新聞？">
-<strong>Loxapine</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Loxapine</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/loxapine/
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（31 則）
 
-### [Gedächtnistests per Smartphone erfassen kognitive Veränderungen schneller als Standardverfahren - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCczhtT01HMmJJLXlkemlsaFppWDJVbG9zX2w5bVNHN29pSm8ybU0zdGYxNEh0NzNEXzhCdHlkWER3WUU2U3ZOOEcwTQ?oc=5)
+### [Läuserückfallfieber: Wie der Erreger dem Immunsystem entkommt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlcnltdWJoaUZBTndqdkJTdmkzMF9PRDZNb3hNTWQ2MFBPTV9ZWGtWeHNmRjhuRkNsU0VFRXd1YjB1cDRmOWdJOVVSQQ?oc=5)
 
 2026-06-10 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCczhtT01HMmJJLXlkemlsaFppWDJVbG9zX2w5bVNHN29pSm8ybU0zdGYxNEh0NzNEXzhCdHlkWER3WUU2U3ZOOEcwTQ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlcnltdWJoaUZBTndqdkJTdmkzMF9PRDZNb3hNTWQ2MFBPTV9ZWGtWeHNmRjhuRkNsU0VFRXd1YjB1cDRmOWdJOVVSQQ?oc=5)
+
+---
+
+### [Angst im Genom: Neue genetische Zusammenhänge mit Angstsymptomen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnS0RTQURRSXhiNGVTYXIxcVZrMlJnMGRVRlluLU0tWVFTbjVEN3czWklOZzVZN3lIQ01BNklnYzVvWVpteUZqUkVFUQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnS0RTQURRSXhiNGVTYXIxcVZrMlJnMGRVRlluLU0tWVFTbjVEN3czWklOZzVZN3lIQ01BNklnYzVvWVpteUZqUkVFUQ?oc=5)
+
+---
+
+### [La «crisi del settimo anno» di cani e gatti: come affrontare l'inizio di una vecchiaia che diventa sempre più lunga - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
 
 ---
 
@@ -70,11 +86,27 @@ permalink: /news/loxapine/
 
 ---
 
-### [La «crisi del settimo anno» di cani e gatti: come affrontare l'inizio di una vecchiaia che diventa sempre più lunga - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
 
-2026-06-10 <span class="news-indication-tag">AF</span>
+2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
+
+---
+
+### [Vaccination ‘should replace badger culls’ to end bovine TB - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
+
+2026-06-10 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
+
+---
+
+### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
 
 ---
 
@@ -102,19 +134,19 @@ permalink: /news/loxapine/
 
 ---
 
-### [Cattle in England to get tuberculosis vaccine from 2030 as badger cull to end - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlVRd3V1Ynp4cDhkbHloelYxR0NLNjdyaUhfNnpGTldLa3Zpd2E2UXVmenJ6bnZrS3JhQVRwUGthX1QyMjRDRnRZOWpLOUlHZ3MwMXp5QUR4NGIwaFpVcU4zN2tVcjF6Z05lUjZvR0xiOXNIOTJqNzFFVVppN0FxVGI1TktyRHBXdkRWVnlNOG9RUUZFTzYxQ1VQcw?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlVRd3V1Ynp4cDhkbHloelYxR0NLNjdyaUhfNnpGTldLa3Zpd2E2UXVmenJ6bnZrS3JhQVRwUGthX1QyMjRDRnRZOWpLOUlHZ3MwMXp5QUR4NGIwaFpVcU4zN2tVcjF6Z05lUjZvR0xiOXNIOTJqNzFFVVppN0FxVGI1TktyRHBXdkRWVnlNOG9RUUZFTzYxQ1VQcw?oc=5)
-
----
-
 ### [Scandal as thousands of NHS staff across England exposed to cancer-causing chemical dubbed 'next asbestos' - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFpQSllaUl9PZHpoM2NrTmNBNVFtQnJJTWxOVFJFVmZuekZ0bmhTdjVCeUJubllPbmR3Vy1USmRfcl9keERoc0d1UnVQcEVoOXdYdHdwNmlRNTJkcFJRMW43dW5ydjV4VXVGdF91ZHFFQnhyUXdmc1BJbUJ2bUhKcHpEZEpLbVF3WFdlZ3BvTGlyaVJ0b3QyUW85TzZtOWJmVFlPZQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFpQSllaUl9PZHpoM2NrTmNBNVFtQnJJTWxOVFJFVmZuekZ0bmhTdjVCeUJubllPbmR3Vy1USmRfcl9keERoc0d1UnVQcEVoOXdYdHdwNmlRNTJkcFJRMW43dW5ydjV4VXVGdF91ZHFFQnhyUXdmc1BJbUJ2bUhKcHpEZEpLbVF3WFdlZ3BvTGlyaVJ0b3QyUW85TzZtOWJmVFlPZQ?oc=5)
+
+---
+
+### [Cardiff woman with acute myeloid leukaemia says leaving twin is 'unthinkable'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00SGFxSXVrVFQwc2wwdlRHNGRNRS11VU15bndlN1hub3g5OUdLXzFKZUp5YjhRTWlDMGotekNCN3pRT3p1NU8tZHVwVEkxZnpjMngtUFhNb1RjVlhr?oc=5)
+
+2026-06-09 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00SGFxSXVrVFQwc2wwdlRHNGRNRS11VU15bndlN1hub3g5OUdLXzFKZUp5YjhRTWlDMGotekNCN3pRT3p1NU8tZHVwVEkxZnpjMngtUFhNb1RjVlhr?oc=5)
 
 ---
 
@@ -190,14 +222,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [Hígado graso: siete recomendaciones para evitar el malestar y mejorar la digestión](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGNlX3pfUjNPN29yOFhXSUVhR2RKT1k2Vmo1NkJUb2NDaTRkamJMOVBzbE5tdWFTdDFJcE1XVWhVWjhlRERmVmdzMk1DZGdfWTJnT1l5REJxNzk1YWkxSDdjNWNudFpfZWwwYlFDWFFfZFBmTmVtRjRUa3JVZ1dlYVVWX2FyU3g2cUF1R2lBUFFGMGNWcHNyLUJsSnJ5ZVg0TThxdTJ1dmVWeXZkQVJBYmoxaWdYZXY3MFZuVXBn0gHYAUFVX3lxTFBaX2xQS1pQcFo1WDBCTWRrMVVMQnh6emt1YnJ2am1XajNtTDh3aU1xdnVHNktnNU1icDJLbW1pQ2s0RVduY1A3RmZiNFhxb09XTmpsNllKUEx3N2UyYVFUSF9SYUxvSzdrTnhsSmdiSU9tZFJYRXlBdG9iSlB2X09pa3NEeXJvSUJOOFhvZ25BNzhQRXdjRk9fVXF3cy1HWWwyd0lzRlNGSXBEZ0tiTHlnWEl6RjVaWWFlYXdkb0ZVVmU3RnRkV013UjZ6cHEzTmlIRDlZTVI2Tg?oc=5)
-
-2026-06-09 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGNlX3pfUjNPN29yOFhXSUVhR2RKT1k2Vmo1NkJUb2NDaTRkamJMOVBzbE5tdWFTdDFJcE1XVWhVWjhlRERmVmdzMk1DZGdfWTJnT1l5REJxNzk1YWkxSDdjNWNudFpfZWwwYlFDWFFfZFBmTmVtRjRUa3JVZ1dlYVVWX2FyU3g2cUF1R2lBUFFGMGNWcHNyLUJsSnJ5ZVg0TThxdTJ1dmVWeXZkQVJBYmoxaWdYZXY3MFZuVXBn0gHYAUFVX3lxTFBaX2xQS1pQcFo1WDBCTWRrMVVMQnh6emt1YnJ2am1XajNtTDh3aU1xdnVHNktnNU1icDJLbW1pQ2s0RVduY1A3RmZiNFhxb09XTmpsNllKUEx3N2UyYVFUSF9SYUxvSzdrTnhsSmdiSU9tZFJYRXlBdG9iSlB2X09pa3NEeXJvSUJOOFhvZ25BNzhQRXdjRk9fVXF3cy1HWWwyd0lzRlNGSXBEZ0tiTHlnWEl6RjVaWWFlYXdkb0ZVVmU3RnRkV013UjZ6cHEzTmlIRDlZTVI2Tg?oc=5)
-
----
-
 ### [Parkinson-Kongress 2026 im Video – DPG e. V. - Deutsche Gesellschaft für Parkinson und Bewegungsstörungen](https://news.google.com/rss/articles/CBMikgFBVV95cUxNcm5JWDZrZ3p4OXdmcW05TVdEV256M3hfVlJZSTcxejJwQ1QzT0taeENSRzZtNFlKa1RobTd0UnJXM1Q4SlVxZDNIV1pkS3BEeHhRYkxzQ29RZVJUX0hnckhyeUZNTVpMQlk5ZlVUY3B2Q3k4SklaeVZuUTB1SHJ4b25EWWdVaTQxcE1YRGR1SEloQQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">AF</span>
@@ -222,11 +246,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Fatty liver disease: 5 science-backed steps an NHS doctor followed to reverse the condition - The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
+### [The best fruit and veg to slash heart disease risk revealed - full list - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
 
-2026-06-09 <span class="news-indication-tag">AF</span>
+2026-06-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
 
 ---
 
@@ -246,14 +270,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [Congo says Ebola deaths top 100 as armed groups threaten response](https://news.google.com/rss/articles/CBMizwFBVV95cUxPODNLY0oxZEVHb1RHZ1JsUWFJeVFFWVVyR0tCNmNFcFBsdXNoeHdPTDBmTUVWV0NwQ3RXZXJCcXRZaDBuU1RUbXNOUTR0VjcxOFN3WTZMZzU3Z1pyZW5pNnZfOEIyOGg1VGFNMnMzSGdKY2JzRG0wRnJvZnplNEJjTExUM3BQRzhBZDNYWVdsZzM4SXJQcjN6X2FtaXFuWXlzTDREaER4bEVMY3QtbWtERWtHOHYyVl9UOVBQa05Kejk1aUNlT1o0amJVYnRUdnc?oc=5)
-
-2026-06-08 <span class="news-indication-tag">AF</span>
-
-來源：[Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxPODNLY0oxZEVHb1RHZ1JsUWFJeVFFWVVyR0tCNmNFcFBsdXNoeHdPTDBmTUVWV0NwQ3RXZXJCcXRZaDBuU1RUbXNOUTR0VjcxOFN3WTZMZzU3Z1pyZW5pNnZfOEIyOGg1VGFNMnMzSGdKY2JzRG0wRnJvZnplNEJjTExUM3BQRzhBZDNYWVdsZzM4SXJQcjN6X2FtaXFuWXlzTDREaER4bEVMY3QtbWtERWtHOHYyVl9UOVBQa05Kejk1aUNlT1o0amJVYnRUdnc?oc=5)
-
----
-
 ### [«Ebola arriverà a 20.000 contagi» - La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">MS</span>
@@ -270,43 +286,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Vorhofflimmern und Diabetes: 61% höheres Risiko für vorzeitigen Tod - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
-
-2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
-
----
-
 ### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
 2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
-
----
-
-### [Semaglutid gegen Sucht: Studie belegt 50% weniger Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
-
-2026-06-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
-
----
-
-### [Ce médicament représente un immense espoir pour les malades : un nouveau traitement contre la sclérose en plaques bientôt autorisé sur le marché](https://news.google.com/rss/articles/CBMinwJBVV95cUxPTDhvc2dWODloaE5PNUttTnYtS2tkRGRzVFhKRzF2bXlvVzV5Q0E2NS1UNjVvUzhVY1FzS3djamd0Y2h6TjJLZmlmR0NUZDNQY1dhVDhyMVRzOWYyMFVoeXB2bWdFNHlfRmJUUDlMOVQxT0tzOE1XamNaN194b0tVRnFvMGRHaFdJNXk0MDd2RXduMk1lOUtaUUF4Q2t1Y2tOdUpSQWN6R0ljeGM0VzRoU3dJWXFDR3REUFpOSHY0QTEtVUp1VXE0T2tLU3hONnBycC1MN2RBVzByWUNXQXdpYm5Nd2hHcHV4MTdoamczNUE3MGI3TE1PN1lqUlVPWGQ1Mmw2V2IzdXc4UXN6RGkyVmhvTE1VLTlhYkJLTTFjdw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMinwJBVV95cUxPTDhvc2dWODloaE5PNUttTnYtS2tkRGRzVFhKRzF2bXlvVzV5Q0E2NS1UNjVvUzhVY1FzS3djamd0Y2h6TjJLZmlmR0NUZDNQY1dhVDhyMVRzOWYyMFVoeXB2bWdFNHlfRmJUUDlMOVQxT0tzOE1XamNaN194b0tVRnFvMGRHaFdJNXk0MDd2RXduMk1lOUtaUUF4Q2t1Y2tOdUpSQWN6R0ljeGM0VzRoU3dJWXFDR3REUFpOSHY0QTEtVUp1VXE0T2tLU3hONnBycC1MN2RBVzByWUNXQXdpYm5Nd2hHcHV4MTdoamczNUE3MGI3TE1PN1lqUlVPWGQ1Mmw2V2IzdXc4UXN6RGkyVmhvTE1VLTlhYkJLTTFjdw?oc=5)
-
----
-
-### [Caffè e salute: quanti berne per proteggere il cervello - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmttb1BkdTdZYlRCWVJCYmRhQ3NBU0IxV1A1TUt0b2RrRjVuMnNGb2JFSmpueFZWaGt4R2pOTVhYUUx5dE5pODNGV0hOMndZYXo2SjZHbW5VaHFtT3R5NFA5RkR2dDBHUDRVaVo5R2VpVDFmd2lJM3ZWSGl4dW1tMHU2eThGY01jX1E?oc=5)
-
-2026-06-08 <span class="news-indication-tag">AF</span>
-
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmttb1BkdTdZYlRCWVJCYmRhQ3NBU0IxV1A1TUt0b2RrRjVuMnNGb2JFSmpueFZWaGt4R2pOTVhYUUx5dE5pODNGV0hOMndZYXo2SjZHbW5VaHFtT3R5NFA5RkR2dDBHUDRVaVo5R2VpVDFmd2lJM3ZWSGl4dW1tMHU2eThGY01jX1E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Si te duele la cabeza al comer helado, la ciencia tiene una explicación y una advertencia - Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
 
 2026-06-10 <span class="news-indication-tag">migraña</span>
 
 來源：[Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
-
----
-
-### [Monoartrite infiammatoria, lo studio per le nuove cure. “Colpisce anche i giovani” - Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
-
-2026-06-08 <span class="news-indication-tag">artrite</span>
-
-來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVJJMTUyU0tONGxJR0g2Y0RBdjl3eUVLUE9TX1R1UlhMbHFfajV2OGVydXlvT29sOGlXTEZYMlNSd1hieWxUVmRGclRac3oydTZ4VjA5ZmJHUnhMSWFTcDRBZ2FNYkhsclFEdVE1b3l0RVgyeG0yVWR6WnBXZThITGR4dTh0NjdlYVFFQWNiY0dyNlc1?oc=5)
 
 ---
 

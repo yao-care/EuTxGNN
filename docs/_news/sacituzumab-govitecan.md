@@ -14,7 +14,7 @@ permalink: /news/sacituzumab-govitecan/
 ---
 
 <p class="key-answer" data-question="Sacituzumab Govitecan 有什麼相關新聞？">
-<strong>Sacituzumab Govitecan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacituzumab Govitecan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sacituzumab-govitecan/
 <p><a href="{{ '/drugs/sacituzumab-govitecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
+
+### [La IA podría predecir la diabetes tipo 2 10 años antes - Canal Diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSGZJaXRrZVVkZHBZX1hwd2hNUDA3MzdFZjhlM0VFMWh3Z0JUQWk1cm1ETklueXhwb3NnLXAwajhJdUxxU09fdVM1aXRWcTl5X0hGWjhtTXdEQ2czei1INXpYT2s5Z0F2dzBXTE0yOGFZa3pDejVj?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSGZJaXRrZVVkZHBZX1hwd2hNUDA3MzdFZjhlM0VFMWh3Z0JUQWk1cm1ETklueXhwb3NnLXAwajhJdUxxU09fdVM1aXRWcTl5X0hGWjhtTXdEQ2czei1INXpYT2s5Z0F2dzBXTE0yOGFZa3pDejVj?oc=5)
+
+---
+
+### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+
+---
 
 ### [Las infecciones son un 'gran riesgo para la salud' de las personas con diabetes, advierte un gran estudio](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3B5Nkkwdkt4d3U1YzNBU3FsbWpiX1BYbGx2UVE4YTVwMDktNlJKZS1pT21WcXpOczJUTkc1Rkl3M0oxLXB3dTdyRlBDREFaeEI3aVpma1ZZT2RvalRCQy03RDltTnV0aFBNdUNiTFpnN0t4Y0NKWGJ2dGhKSE9YUTFWeFlibDlZb3BnVGZEdnNybjZ1TFBJbEg0NjhrcEN4Q0FCUFBKRnNmQXl6LTdTUFBva0k5V3Z3UnowLXp4bVRoYkE1bTJMSUQwMmVKSHJEWWgzSENFaEh6dktG0gH3AUFVX3lxTE5QYXluakhEWjFmOHdnVmlTcjdGcGZHdnNrY0hkNFVmc2JnS1k2TzhjNDB4NEFHTHlYazQ5VzRUNXYtZ0hWNllxZmJsSWU5dTJSOTBnelVWdFl0NEQ4QzZ6UTdrSUt0bTZfaUQ2T0s0eHhKdHg0ZzlPTnJUcnlPbXVBSWNDc0E3MkRONDc4NVpncW1RQTQ0U1lMLUNrTFRCLWQ1ak9LenYxbktMTVJLUXpVYWttaFExR3ZudVNjbklHUFNBNFBmd3YwQU5ScDlYemxvTDEwRVc3RUNxM3l5VHkyX01YcW42dXpkVlotOWcwNGZlUkV1aDA?oc=5)
 
@@ -70,11 +86,19 @@ permalink: /news/sacituzumab-govitecan/
 
 ---
 
-### [Vorhofflimmern und Diabetes: 61% höheres Risiko für vorzeitigen Tod - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
+### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
 
-2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNkUHgzdXNKb1J4blFYelltQ3Y3UExQMlVhenFsb1F2UVMxQmZXcWtlYXR4N3lON2lJV1h0NTZvRlc1Ulo3MkkwMGM1N1lVLVZ1c2xZY1hlOXdjV1JEMmhJYjFxVWVTcEh1ZDBXbDFXTEowVFljY2xHeEJybklvWnRtRHkwdGtqMjRFaVhYMlZYWVRYaE1uZE5ydXJsaHMwYk9fN0RvS0ZETTZ3UmRabzNTTnhNZjJfY3NEag?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
+
+---
+
+### [Diabetes und Bluthochdruck: 70% der Nierenversagen-Patienten betroffen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
+
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
 
 ---
 

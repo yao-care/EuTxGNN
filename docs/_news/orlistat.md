@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
 ### [Doppelt hält besser: DAPT nach Schlaganfall - mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
 
 2026-06-10 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
+
+---
+
+### [Obesità, Francia rimborserà farmaci a pazienti gravi. Sio: “Anche l’Italia segua questa strada"](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYTFocE1PQXliSV8zNF9xbmZDbGxuUXhfRkpsUWhwVG5FcjlsTXJfdkV0Q1Fib0JHdDdseEVURUF5NUw3VUlCRlluQjgyN3BJT2hNT0ZzOG51V09xenlCenc2WXVZQVhqWU9Sd0ZydURYZWdyMS04Z1VEQURsaGhfbnFLLW9oWmV3bUd6UXE2YzY5SWljMDJnSmozSzBUdGR3d0dMMDFlUndNY18wbUwzREVwbmxVcEVzcHIyYWJDMHFHSEs5MnpXUUR0ZERweDBxNFhfdWRZSjY3MHZmX2JHUmN2M21UQ1dYemwwX3JVX25UWlpCZDFHd0g3VmlPTEtX0gGGAkFVX3lxTE9pdHNudTZxWnhyMEFEczl1T3Z1d1U2VDJSU3pxaE9BZTlOTC1jd0Y0OEV0S2djVWdRZHZ0S1p4QVZ1cmZLN0FvWDdjUEhYVkpGZUw2c0ZnaXB6S3VGbW9GZnJZZmtjcGdScmtVOUlBLUlmS3I5OXNwSjZGQWl6dlhjVzBXaTZKM2l5c0NvM0Vmb3lUVkpNcXEyWG91dmRwdkczeUFRMjM5R3hWbTVOSnAxYzAxNEgxNkpDVGpwTk9QMTV4WFJlMnlPd05BWGdzUHAxbXZPZHZqNDcxMkQ0U1hhYTREcnhhX2s1SU9pWVFqZEc4YzFWbEJUREF2S3lmaEhvQmNseHc?oc=5)
+
+2026-06-10 <span class="news-indication-tag">obesità</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYTFocE1PQXliSV8zNF9xbmZDbGxuUXhfRkpsUWhwVG5FcjlsTXJfdkV0Q1Fib0JHdDdseEVURUF5NUw3VUlCRlluQjgyN3BJT2hNT0ZzOG51V09xenlCenc2WXVZQVhqWU9Sd0ZydURYZWdyMS04Z1VEQURsaGhfbnFLLW9oWmV3bUd6UXE2YzY5SWljMDJnSmozSzBUdGR3d0dMMDFlUndNY18wbUwzREVwbmxVcEVzcHIyYWJDMHFHSEs5MnpXUUR0ZERweDBxNFhfdWRZSjY3MHZmX2JHUmN2M21UQ1dYemwwX3JVX25UWlpCZDFHd0g3VmlPTEtX0gGGAkFVX3lxTE9pdHNudTZxWnhyMEFEczl1T3Z1d1U2VDJSU3pxaE9BZTlOTC1jd0Y0OEV0S2djVWdRZHZ0S1p4QVZ1cmZLN0FvWDdjUEhYVkpGZUw2c0ZnaXB6S3VGbW9GZnJZZmtjcGdScmtVOUlBLUlmS3I5OXNwSjZGQWl6dlhjVzBXaTZKM2l5c0NvM0Vmb3lUVkpNcXEyWG91dmRwdkczeUFRMjM5R3hWbTVOSnAxYzAxNEgxNkpDVGpwTk9QMTV4WFJlMnlPd05BWGdzUHAxbXZPZHZqNDcxMkQ0U1hhYTREcnhhX2s1SU9pWVFqZEc4YzFWbEJUREF2S3lmaEhvQmNseHc?oc=5)
+
+---
+
+### [Síndrome CKM: así quieren frenar el riesgo combinado de corazón, riñón y metabólico](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaUdVOFdCN1FhNmpVOGhEZzBVM2lSaDBPaGp3UkdnY3FXZGI4SWdvWWNGcW1PZVZPVUotYjVsTkczVjhYcjlHRENTcnNtQ1JhLTU5RzBpZVJQYTFTRGJ0SG9TZmI5azMxc0FsMUoydXBBZ19nYkh6dkRXNTRTV3lBYUctdlN4YURkTG5NaGtTb2QtajZMWDFWNHFUYTB0LVkxTl9sZll0ck9CNGxqdXlkdGNIbkUxVElvY3BDNkRHSmxXTzJYenk3MGUwanpESEVMNGtWS1RnXzVHeGU5bjRtcA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaUdVOFdCN1FhNmpVOGhEZzBVM2lSaDBPaGp3UkdnY3FXZGI4SWdvWWNGcW1PZVZPVUotYjVsTkczVjhYcjlHRENTcnNtQ1JhLTU5RzBpZVJQYTFTRGJ0SG9TZmI5azMxc0FsMUoydXBBZ19nYkh6dkRXNTRTV3lBYUctdlN4YURkTG5NaGtTb2QtajZMWDFWNHFUYTB0LVkxTl9sZll0ck9CNGxqdXlkdGNIbkUxVElvY3BDNkRHSmxXTzJYenk3MGUwanpESEVMNGtWS1RnXzVHeGU5bjRtcA?oc=5)
+
+---
+
+### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
 
 ---
 
@@ -88,7 +112,7 @@ permalink: /news/orlistat/
 
 ### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
 
-2026-06-09 <span class="news-indication-tag">ictus</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
 
@@ -139,14 +163,6 @@ permalink: /news/orlistat/
 2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
-
----
-
-### [Semaglutid gegen Sucht: Studie belegt 50% weniger Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
-
-2026-06-08 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVV6YTlCMFZ4eEZYMzE0bFotMDVOMGlnUlA3SWl2aVVVZ3hJMzRsekpyUGhzRVlwQzBhcmp0NDFLSFBEM3JHblh1R1AtMS0tdktmQ2dSNHVGSXI5UW5pMVdZejlxNUpHNUhSejE3M0VXSlZxMHEyMWdEM2FaX19RMDd5ZnR4V3NTbFJ6b25IYk1lNk9MN2h2LTdrNTk4WVUteGJzaTdTVHRPWkdpQTExLTZwOW5kY0U?oc=5)
 
 ---
 

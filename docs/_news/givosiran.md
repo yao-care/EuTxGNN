@@ -62,11 +62,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Los epidemiólogos alertan del aumento de las infecciones de transmisión sexual emergentes y multirresistentes](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
+### [Diabetes und Bluthochdruck: 70% der Nierenversagen-Patienten betroffen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
 
-2026-06-08 <span class="news-indication-tag">hepatitis</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXVlX2R2NU41X1lwemZnRDNSLWVjeFo2WXlZbmxkcTJnMDd1dmVXSGZNN3Q0cUc5RzNuYzJ0RS1Pb1R3YThfZlFfWkNrVlRzZXdySUU5MUhIdFRNY3ZaUEpkTTM5U1pTZDhhWUJEUHBrS1F1LVFOcmE1dzdvN0owRVFqeXZaYkVsaUFreE5nUllSNm5TRURrOGlsVTNuSGxqendJLUttTUs0U1pUQzVaSlhXMGZKckNiUENnNW9RakRZUXdFM3FNVzQzUjhxZlJ2ZVN0T0tHcnhkZlFKQ2dWZWx5RUllWDlrSTQ3bGpyYnpBZw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
 
 ---
 
