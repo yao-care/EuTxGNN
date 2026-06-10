@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Lungenultraschall erkennt Fortschreiten von Lungenveränderungen bei rheumatoider Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
+
+---
+
+### [Ensayo clínico cambia paradigma en la prevención de artritis reumatoide - La Web de la Salud](https://news.google.com/rss/articles/CBMioAFBVV95cUxQU01xS3RjeWg4MUMwXzEtNDlsX0x6NTNiVTRnS2RBc0NtMmlVXzc4LWVYLW5ZdFN6M1QyNURWb3pyQmdfd2dXRHJYRWRleFpkNTNIMG1uem1iVXNqSWJWT05iUGZoYlVXNGh3UldKWFN3MldvUjZTQmlEYWNaTnpxbWxZQm5oekJMVFN1X1FNU29QdUt0NWxMTHdlenlUellq?oc=5)
+
+2026-06-10 <span class="news-indication-tag">artritis</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMioAFBVV95cUxQU01xS3RjeWg4MUMwXzEtNDlsX0x6NTNiVTRnS2RBc0NtMmlVXzc4LWVYLW5ZdFN6M1QyNURWb3pyQmdfd2dXRHJYRWRleFpkNTNIMG1uem1iVXNqSWJWT05iUGZoYlVXNGh3UldKWFN3MldvUjZTQmlEYWNaTnpxbWxZQm5oekJMVFN1X1FNU29QdUt0NWxMTHdlenlUellq?oc=5)
+
+---
 
 ### [Si te duele la cabeza al comer helado, la ciencia tiene una explicación y una advertencia - Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
 

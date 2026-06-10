@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Hypertension artérielle : bientôt un dépistage rémunéré en officine - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
+
+2026-06-10 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
+
+---
 
 ### [Si te duele la cabeza al comer helado, la ciencia tiene una explicación y una advertencia - Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
 

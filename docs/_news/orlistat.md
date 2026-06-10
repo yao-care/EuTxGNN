@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（9 則）
+
+### [Deux nouvelles approches permettent de limiter la reprise de poids après un traitement contre l’obésité - Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
+
+2026-06-10 <span class="news-indication-tag">obésité</span>
+
+來源：[Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
+
+---
+
+### [Come cureremo diabete e obesità nei prossimi anni? Ecco il futuro delle terapie - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
+
+---
 
 ### [Doppelt hält besser: DAPT nach Schlaganfall - mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
 
 2026-06-10 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
-
----
-
-### [Obesità, Francia rimborserà farmaci a pazienti gravi. Sio: “Anche l’Italia segua questa strada"](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYTFocE1PQXliSV8zNF9xbmZDbGxuUXhfRkpsUWhwVG5FcjlsTXJfdkV0Q1Fib0JHdDdseEVURUF5NUw3VUlCRlluQjgyN3BJT2hNT0ZzOG51V09xenlCenc2WXVZQVhqWU9Sd0ZydURYZWdyMS04Z1VEQURsaGhfbnFLLW9oWmV3bUd6UXE2YzY5SWljMDJnSmozSzBUdGR3d0dMMDFlUndNY18wbUwzREVwbmxVcEVzcHIyYWJDMHFHSEs5MnpXUUR0ZERweDBxNFhfdWRZSjY3MHZmX2JHUmN2M21UQ1dYemwwX3JVX25UWlpCZDFHd0g3VmlPTEtX0gGGAkFVX3lxTE9pdHNudTZxWnhyMEFEczl1T3Z1d1U2VDJSU3pxaE9BZTlOTC1jd0Y0OEV0S2djVWdRZHZ0S1p4QVZ1cmZLN0FvWDdjUEhYVkpGZUw2c0ZnaXB6S3VGbW9GZnJZZmtjcGdScmtVOUlBLUlmS3I5OXNwSjZGQWl6dlhjVzBXaTZKM2l5c0NvM0Vmb3lUVkpNcXEyWG91dmRwdkczeUFRMjM5R3hWbTVOSnAxYzAxNEgxNkpDVGpwTk9QMTV4WFJlMnlPd05BWGdzUHAxbXZPZHZqNDcxMkQ0U1hhYTREcnhhX2s1SU9pWVFqZEc4YzFWbEJUREF2S3lmaEhvQmNseHc?oc=5)
-
-2026-06-10 <span class="news-indication-tag">obesità</span>
-
-來源：[RaiNews](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYTFocE1PQXliSV8zNF9xbmZDbGxuUXhfRkpsUWhwVG5FcjlsTXJfdkV0Q1Fib0JHdDdseEVURUF5NUw3VUlCRlluQjgyN3BJT2hNT0ZzOG51V09xenlCenc2WXVZQVhqWU9Sd0ZydURYZWdyMS04Z1VEQURsaGhfbnFLLW9oWmV3bUd6UXE2YzY5SWljMDJnSmozSzBUdGR3d0dMMDFlUndNY18wbUwzREVwbmxVcEVzcHIyYWJDMHFHSEs5MnpXUUR0ZERweDBxNFhfdWRZSjY3MHZmX2JHUmN2M21UQ1dYemwwX3JVX25UWlpCZDFHd0g3VmlPTEtX0gGGAkFVX3lxTE9pdHNudTZxWnhyMEFEczl1T3Z1d1U2VDJSU3pxaE9BZTlOTC1jd0Y0OEV0S2djVWdRZHZ0S1p4QVZ1cmZLN0FvWDdjUEhYVkpGZUw2c0ZnaXB6S3VGbW9GZnJZZmtjcGdScmtVOUlBLUlmS3I5OXNwSjZGQWl6dlhjVzBXaTZKM2l5c0NvM0Vmb3lUVkpNcXEyWG91dmRwdkczeUFRMjM5R3hWbTVOSnAxYzAxNEgxNkpDVGpwTk9QMTV4WFJlMnlPd05BWGdzUHAxbXZPZHZqNDcxMkQ0U1hhYTREcnhhX2s1SU9pWVFqZEc4YzFWbEJUREF2S3lmaEhvQmNseHc?oc=5)
 
 ---
 
@@ -78,27 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
-2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
----
-
 ### [Quel est ce médicament, pris par 7 millions de Français, qui provoquerait des troubles cognitifs - La République des Pyrénées](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcWZRdlRSczI1WTNDVEpsbzFxVXA3QmJIaklZbzR0Z2hyeDR0dGw4ZERSOTBlUm9zVFlOMmxQMXV3cHd0SGZRNW1MclFTTEEyb0VXd0tjWFk0ZEluV2FnZ0F2LWNTOHdlcE5lajhPSHlfeU1ON0tIcVVIQko3RmZiSWtfUmp1SWloX2RuMVprQnVWamNoV3YzMUJpcGxsSV9oT2xzczJsdFZTc09ub3JRSzlDNF90MGRuVUdiUHN3andQeTRuWUo0dzdpSVkzOWgyaG5UZXJtd2ZXXzJBbHA1Q3gyYlFUOGM?oc=5)
 
 2026-06-10 <span class="news-indication-tag">AVC</span>
 
 來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcWZRdlRSczI1WTNDVEpsbzFxVXA3QmJIaklZbzR0Z2hyeDR0dGw4ZERSOTBlUm9zVFlOMmxQMXV3cHd0SGZRNW1MclFTTEEyb0VXd0tjWFk0ZEluV2FnZ0F2LWNTOHdlcE5lajhPSHlfeU1ON0tIcVVIQko3RmZiSWtfUmp1SWloX2RuMVprQnVWamNoV3YzMUJpcGxsSV9oT2xzczJsdFZTc09ub3JRSzlDNF90MGRuVUdiUHN3andQeTRuWUo0dzdpSVkzOWgyaG5UZXJtd2ZXXzJBbHA1Q3gyYlFUOGM?oc=5)
-
----
-
-### [Le 15 juin va tout changer pour des centaines de Français : ce traitement est enfin remboursé !](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
-
-2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
 
 ---
 
@@ -110,35 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
-
----
-
 ### [Why midlife is the danger zone for having a stroke (and how to avoid one) - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
 
 2026-06-09 <span class="news-indication-tag">stroke</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
-
----
-
-### [Deux nouvelles approches permettent de limiter la reprise de poids après un traitement contre l’obésité - Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
-
-2026-06-09 <span class="news-indication-tag">obésité</span>
-
-來源：[Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
-
----
-
-### [Ozempic y Wegovy se asocian a un 41% menos de riesgo de cáncer en personas con obesidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajhTRDN5UlVneEhmNFZrcFpvMG9OUThqY1FYZlUzUnRWdXBWbklKUXYtUVJCTmlqTHdvbVh1UDNreFZpX1JDY19GWTBJLV80SUtkMzFUcTRVd29zeDNIS2J1aC1ZNllFM25FTHZNd2xlblpiTm0yakNKNGZSSXAzTFJSOFBuaTNVQm1HWTJNUkJteUJlMWplR01KOFk5UUFab0d3ejRjbk9TYm01YmVHb25LRXZ2eTZOeHhoN2VKbXlDWk9Vc3N0YTdfalYteFhzNS0w?oc=5)
-
-2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajhTRDN5UlVneEhmNFZrcFpvMG9OUThqY1FYZlUzUnRWdXBWbklKUXYtUVJCTmlqTHdvbVh1UDNreFZpX1JDY19GWTBJLV80SUtkMzFUcTRVd29zeDNIS2J1aC1ZNllFM25FTHZNd2xlblpiTm0yakNKNGZSSXAzTFJSOFBuaTNVQm1HWTJNUkJteUJlMWplR01KOFk5UUFab0d3ejRjbk9TYm01YmVHb25LRXZ2eTZOeHhoN2VKbXlDWk9Vc3N0YTdfalYteFhzNS0w?oc=5)
 
 ---
 
@@ -155,14 +123,6 @@ permalink: /news/orlistat/
 2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
-
----
-
-### [‘Stroke and brain injury? We are potentially sitting on a time bomb’ - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
-
-2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/damoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Damoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/damoctocog-alfa-pegol/
 <p><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（24 則）
 
-### [Tratamiento revolucionario contra el cáncer: investigadores israelíes desarrollan una terapia que frena tumores sin usar medicamentos - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
+### [Infecciones y diabetes: un riesgo subestimado que crece con la epidemia global - Reporte Asia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHVfaWxSQUFVY1ZtYjVKMHhLNmJ0aXhHR3Q4SjFJaUtGRUJPQTZHRHFrMEx6UWUtNUdLVDg1R2NUWlFEWWRWMERDTDhKS1FYWHdYWm9reXpJeUQzQnlWTU9COGdpeHFfdGtlN2luTTFxUWwxWlZnQjNWUHV3YXFuaGQ3M3RwMktEdVVFLXlSZm16Zk9VaW5BMWhtWkJfZ0pjcEVibHgtSGFIZkNnRzVoa2dKRjByX05yOVVN?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[Reporte Asia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHVfaWxSQUFVY1ZtYjVKMHhLNmJ0aXhHR3Q4SjFJaUtGRUJPQTZHRHFrMEx6UWUtNUdLVDg1R2NUWlFEWWRWMERDTDhKS1FYWHdYWm9reXpJeUQzQnlWTU9COGdpeHFfdGtlN2luTTFxUWwxWlZnQjNWUHV3YXFuaGQ3M3RwMktEdVVFLXlSZm16Zk9VaW5BMWhtWkJfZ0pjcEVibHgtSGFIZkNnRzVoa2dKRjByX05yOVVN?oc=5)
+
+---
+
+### [La clave podría estar en el ARN: Salamanca busca nuevas armas contra el cáncer de próstata - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1dObmZhQUl6OXpVei00Wm5QUTYxSXk0WVB6TmlSUUJYLUdzOElrekFQcXNJeWZURU5YX2ZOeUYzY25vTGZVYVFEQVFxLTgzMV94V0F0N0J1VUIzcEdWNnVzZUl5dHFzSmltbXpZNE8tLU0wVG1aTmE3elJLUi1vTWxHT0VOd0VDY2xpVmx6ZEhaOEJHbFV3T3FTRFZnZ2VpOGNnVnIyalBrTGdvVkI0dzd3a2ZnZHQzOEdqUXItMEdvNlMzVnNaeFNzak5valoyam9GdA?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
 
-來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
+來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1dObmZhQUl6OXpVei00Wm5QUTYxSXk0WVB6TmlSUUJYLUdzOElrekFQcXNJeWZURU5YX2ZOeUYzY25vTGZVYVFEQVFxLTgzMV94V0F0N0J1VUIzcEdWNnVzZUl5dHFzSmltbXpZNE8tLU0wVG1aTmE3elJLUi1vTWxHT0VOd0VDY2xpVmx6ZEhaOEJHbFV3T3FTRFZnZ2VpOGNnVnIyalBrTGdvVkI0dzd3a2ZnZHQzOEdqUXItMEdvNlMzVnNaeFNzak5valoyam9GdA?oc=5)
+
+---
+
+### [Vous pensez qu’un verre d’alcool de temps en temps est sans danger ? Une étude sérieuse remet tout en question - Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXpmSGxkaFNMTUhrUVdFU3kycXRORTUzTzVTZFJqR3MtNHpTVnlWNWt4YnAzZ3d5X3RlUEFfVUZrZnhiZTB2YTZ6VGNaMWRBcnVyX09FYTl4cmJsZTUtXzB6V0NYRXVUeUZ6d3JDSTFrVDlSNW5RRnZBMVkxSnoxTUt1THRFUmRQYmNjNkR3?oc=5)
+
+2026-06-10 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXpmSGxkaFNMTUhrUVdFU3kycXRORTUzTzVTZFJqR3MtNHpTVnlWNWt4YnAzZ3d5X3RlUEFfVUZrZnhiZTB2YTZ6VGNaMWRBcnVyX09FYTl4cmJsZTUtXzB6V0NYRXVUeUZ6d3JDSTFrVDlSNW5RRnZBMVkxSnoxTUt1THRFUmRQYmNjNkR3?oc=5)
+
+---
+
+### [Light-Limos laut Studie nicht mit Leberkrebs verbunden – zuckrige Softdrinks schon](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE4xM0QtWkF0c0JrMVhkaXdYb1B3M3RndUVoNktLZkFDSjA0d0tBSzMxUDRueUQxZmxoOFk3UXc5Vzl4WXExMjZwc1lJQ0FRRE1oUDFMLU9fT0lHS3llZFFTenRzVFc3WXBoXzVkSGJFQ3hxdHpqN0JaQzlDMjBxekJUNjZvWDhselF0cFQyTUtvVDdrTXpESGQzaVhsR0hDNnh6d3pFeXFKMS01VWR3bWRpcmdFNERMMkZzd3BBTWkwUG5wbWxCdA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE4xM0QtWkF0c0JrMVhkaXdYb1B3M3RndUVoNktLZkFDSjA0d0tBSzMxUDRueUQxZmxoOFk3UXc5Vzl4WXExMjZwc1lJQ0FRRE1oUDFMLU9fT0lHS3llZFFTenRzVFc3WXBoXzVkSGJFQ3hxdHpqN0JaQzlDMjBxekJUNjZvWDhselF0cFQyTUtvVDdrTXpESGQzaVhsR0hDNnh6d3pFeXFKMS01VWR3bWRpcmdFNERMMkZzd3BBTWkwUG5wbWxCdA?oc=5)
+
+---
+
+### [Krebsproteine stoppen, noch bevor sie entstehen? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRnMEpZODZJT1lkb0U3SkVMdmdNYnMwS0pQLWN6OURPQXVTalJnSU5nSWJKNGZpenpkVVoyemNENE9VYUhaUHVjWlNLWWd5T0xoRkhFUE5BRk5YMHlRTmpfMmoxc1k0Q3p4blBGQi1jbG50dUtUTGVyT0ItaFBUemJpUXV1N3JrcHhMY0xESlYzdTdHV1AydVJqVjdLM1hmdUEzRGRRYw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRnMEpZODZJT1lkb0U3SkVMdmdNYnMwS0pQLWN6OURPQXVTalJnSU5nSWJKNGZpenpkVVoyemNENE9VYUhaUHVjWlNLWWd5T0xoRkhFUE5BRk5YMHlRTmpfMmoxc1k0Q3p4blBGQi1jbG50dUtUTGVyT0ItaFBUemJpUXV1N3JrcHhMY0xESlYzdTdHV1AydVJqVjdLM1hmdUEzRGRRYw?oc=5)
 
 ---
 
@@ -70,19 +102,27 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
+### [Come cureremo diabete e obesità nei prossimi anni? Ecco il futuro delle terapie - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
+
+---
+
+### [Israel desarrolla un tratamiento revolucionario contra el cáncer, basado en una terapia que frena tumores sin usar medicamentos - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
+
+2026-06-10 <span class="news-indication-tag">tumor</span>
+
+來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
+
+---
+
 ### [La IA podría predecir la diabetes tipo 2 10 años antes - Canal Diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSGZJaXRrZVVkZHBZX1hwd2hNUDA3MzdFZjhlM0VFMWh3Z0JUQWk1cm1ETklueXhwb3NnLXAwajhJdUxxU09fdVM1aXRWcTl5X0hGWjhtTXdEQ2czei1INXpYT2s5Z0F2dzBXTE0yOGFZa3pDejVj?oc=5)
 
 2026-06-10 <span class="news-indication-tag">diabetes</span>
 
 來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSGZJaXRrZVVkZHBZX1hwd2hNUDA3MzdFZjhlM0VFMWh3Z0JUQWk1cm1ETklueXhwb3NnLXAwajhJdUxxU09fdVM1aXRWcTl5X0hGWjhtTXdEQ2czei1INXpYT2s5Z0F2dzBXTE0yOGFZa3pDejVj?oc=5)
-
----
-
-### [La pista escondida en el ARN que podría ayudar a tratar y frenar el cáncer de próstata, el tumor más frecuente en hombres](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1Ytc3I0bl9TMmpuRWU5Ym1OcE5hbkFYZlZZT2xaMUtHR01lZzd0OGNkZFFnVVV6bEp5Qlp5SGJsMTl4VjlrLXI5N00xVnVlVU1JM0pDVFVGY08tNXpoTlhTVzB2bG9od0dmQklUMDlhcFZkZWg1b2N0ZzVYSkhTLWlRZllNSWVPdTJZNHVVUzhNYXM2LUozMWV2U3QzMjhPWEQ2Z01jQU83LW91Q2t6a0NuNXFsYVBDZDZrTHIzaFdfZEJNbjZNX0sxSnhqZU5sSGRCbWtQZE5MTzVa?oc=5)
-
-2026-06-10 <span class="news-indication-tag">tumor</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1Ytc3I0bl9TMmpuRWU5Ym1OcE5hbkFYZlZZT2xaMUtHR01lZzd0OGNkZFFnVVV6bEp5Qlp5SGJsMTl4VjlrLXI5N00xVnVlVU1JM0pDVFVGY08tNXpoTlhTVzB2bG9od0dmQklUMDlhcFZkZWg1b2N0ZzVYSkhTLWlRZllNSWVPdTJZNHVVUzhNYXM2LUozMWV2U3QzMjhPWEQ2Z01jQU83LW91Q2t6a0NuNXFsYVBDZDZrTHIzaFdfZEJNbjZNX0sxSnhqZU5sSGRCbWtQZE5MTzVa?oc=5)
 
 ---
 
@@ -110,30 +150,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Spedali Civili, cosa significa essere Comprehensive Cancer Center - Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
-
----
-
-### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
----
-
-### [Las infecciones son un 'gran riesgo para la salud' de las personas con diabetes, advierte un gran estudio](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3B5Nkkwdkt4d3U1YzNBU3FsbWpiX1BYbGx2UVE4YTVwMDktNlJKZS1pT21WcXpOczJUTkc1Rkl3M0oxLXB3dTdyRlBDREFaeEI3aVpma1ZZT2RvalRCQy03RDltTnV0aFBNdUNiTFpnN0t4Y0NKWGJ2dGhKSE9YUTFWeFlibDlZb3BnVGZEdnNybjZ1TFBJbEg0NjhrcEN4Q0FCUFBKRnNmQXl6LTdTUFBva0k5V3Z3UnowLXp4bVRoYkE1bTJMSUQwMmVKSHJEWWgzSENFaEh6dktG0gH3AUFVX3lxTE5QYXluakhEWjFmOHdnVmlTcjdGcGZHdnNrY0hkNFVmc2JnS1k2TzhjNDB4NEFHTHlYazQ5VzRUNXYtZ0hWNllxZmJsSWU5dTJSOTBnelVWdFl0NEQ4QzZ6UTdrSUt0bTZfaUQ2T0s0eHhKdHg0ZzlPTnJUcnlPbXVBSWNDc0E3MkRONDc4NVpncW1RQTQ0U1lMLUNrTFRCLWQ1ak9LenYxbktMTVJLUXpVYWttaFExR3ZudVNjbklHUFNBNFBmd3YwQU5ScDlYemxvTDEwRVc3RUNxM3l5VHkyX01YcW42dXpkVlotOWcwNGZlUkV1aDA?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3B5Nkkwdkt4d3U1YzNBU3FsbWpiX1BYbGx2UVE4YTVwMDktNlJKZS1pT21WcXpOczJUTkc1Rkl3M0oxLXB3dTdyRlBDREFaeEI3aVpma1ZZT2RvalRCQy03RDltTnV0aFBNdUNiTFpnN0t4Y0NKWGJ2dGhKSE9YUTFWeFlibDlZb3BnVGZEdnNybjZ1TFBJbEg0NjhrcEN4Q0FCUFBKRnNmQXl6LTdTUFBva0k5V3Z3UnowLXp4bVRoYkE1bTJMSUQwMmVKSHJEWWgzSENFaEh6dktG0gH3AUFVX3lxTE5QYXluakhEWjFmOHdnVmlTcjdGcGZHdnNrY0hkNFVmc2JnS1k2TzhjNDB4NEFHTHlYazQ5VzRUNXYtZ0hWNllxZmJsSWU5dTJSOTBnelVWdFl0NEQ4QzZ6UTdrSUt0bTZfaUQ2T0s0eHhKdHg0ZzlPTnJUcnlPbXVBSWNDc0E3MkRONDc4NVpncW1RQTQ0U1lMLUNrTFRCLWQ1ak9LenYxbktMTVJLUXpVYWttaFExR3ZudVNjbklHUFNBNFBmd3YwQU5ScDlYemxvTDEwRVc3RUNxM3l5VHkyX01YcW42dXpkVlotOWcwNGZlUkV1aDA?oc=5)
-
----
-
 ### [Scandal as thousands of NHS staff across England exposed to cancer-causing chemical dubbed 'next asbestos' - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFpQSllaUl9PZHpoM2NrTmNBNVFtQnJJTWxOVFJFVmZuekZ0bmhTdjVCeUJubllPbmR3Vy1USmRfcl9keERoc0d1UnVQcEVoOXdYdHdwNmlRNTJkcFJRMW43dW5ydjV4VXVGdF91ZHFFQnhyUXdmc1BJbUJ2bUhKcHpEZEpLbVF3WFdlZ3BvTGlyaVJ0b3QyUW85TzZtOWJmVFlPZQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -152,17 +168,17 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
 ---
 
-### [Un inhibidor proteico de RAS induce regresión en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJKdFBiVTBkVEFkQnJQWGFMX1duUTJXaHR0QTBpelhJWDdkblljdlFtYVVSSTdJTGV0cW8tWkRZTEhEMzNhN200ZzExV3p6bVBUTlppem5LRXI4WkFKUkctandlQS11T3FpV0w3bThHQ08tRWR3QjRlSEg0b1JBVGVyR0hXVFpuTG1razVjU3ZXakxYc015X2RPMjF5RkJGeVltS01ycXZwVFBpaXVQMV9UUm5XbUliNU1YRm1B0gG4AUFVX3lxTE5iVDRJVVl2WXB6WmlHTERtTzcyMFQ5a1BmUHJ3S0ZuTGZSb2lsTFc4VUI0UWxIYkh3c3ZtTzZveHRNV3Y2ai1tTWM0dmNrT25GN29ISklqNF9tei03RUtUX3hVNlB6TzYzT2RLU0VvVTkzaFhtQVN5VTVPbGl4SjRlekF4bElvSWpTMVFxNGEyTHJZbVdjTHFfcG9QOFZJSWlOX2NzbnMyVmF4QVFRbVFkLV9CRjhCTWs?oc=5)
+### [Diabetes und Herzerkrankungen: Neue Diagnostik senkt Risiko schneller - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
-2026-06-09 <span class="news-indication-tag">cancer</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJKdFBiVTBkVEFkQnJQWGFMX1duUTJXaHR0QTBpelhJWDdkblljdlFtYVVSSTdJTGV0cW8tWkRZTEhEMzNhN200ZzExV3p6bVBUTlppem5LRXI4WkFKUkctandlQS11T3FpV0w3bThHQ08tRWR3QjRlSEg0b1JBVGVyR0hXVFpuTG1razVjU3ZXakxYc015X2RPMjF5RkJGeVltS01ycXZwVFBpaXVQMV9UUm5XbUliNU1YRm1B0gG4AUFVX3lxTE5iVDRJVVl2WXB6WmlHTERtTzcyMFQ5a1BmUHJ3S0ZuTGZSb2lsTFc4VUI0UWxIYkh3c3ZtTzZveHRNV3Y2ai1tTWM0dmNrT25GN29ISklqNF9tei03RUtUX3hVNlB6TzYzT2RLU0VvVTkzaFhtQVN5VTVPbGl4SjRlekF4bElvSWpTMVFxNGEyTHJZbVdjTHFfcG9QOFZJSWlOX2NzbnMyVmF4QVFRbVFkLV9CRjhCTWs?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
 ---
 
@@ -171,14 +187,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-06-09 <span class="news-indication-tag">cancer</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMingJBVV95cUxPaFF5MzJUdUp5U0tSTG9JUjVoOFFiUTIzRlRMZjkySDRaZTdweHFINTAweV9wZ0E1Qmh2YXhkRkJsWWNBRnZpdzhYenRiemlrWjVFVlo4ZXFfNGhkZ0xNVkNqck1qbEttSF9GSThCelMza2RvRXowV2lWekdaYlYxMXhMbXZtWXQyRWY3azlsVDIzeU9kVUxJcy1RN3o1cmY5V1hmM2ZwX0hjTVJtZXMteFFxcDJQdzAyTnEyNml0RngxUWVEMGFFU2ZGSGRlVHhXWDNMbEJzWDNWeVZvNV9WRG5rUGxBYk02MklYUzlyajh6aDNTTnZJelpYelNBVllsM0t5RC1GZm9ZdWVXU18xSlF4U1dkQ0pQSGpndGpB?oc=5)
-
----
-
-### [Früher Brustkrebs: OPTIMA-Studie erweitert Evidenz für De-Eskalation](https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE9wbEdzd3A5Yi13M3FSZTZsODVYOExNRW5QTUxCaVp0aWlUVnJxY0lOV2kwNlhmUFV2X2RFc3MtVVRLTlR1T3VJR191SnQ3RDlvd1Z4NjY3YVZCTXZ6eE9lcjZZT1dDclNQdEQtZms1bW1vLUFFOFh1cXlCZHZBdlpaVnhqNWlOZkptMXJIN2U0ME9VRFM0Vi1icnBEdWdpcGFuQzQ0TjIwLUpBemYxOWFpcDcyczJjQ0d1RXBPUF9jdW5QNU8w?oc=5)
-
-2026-06-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE9wbEdzd3A5Yi13M3FSZTZsODVYOExNRW5QTUxCaVp0aWlUVnJxY0lOV2kwNlhmUFV2X2RFc3MtVVRLTlR1T3VJR191SnQ3RDlvd1Z4NjY3YVZCTXZ6eE9lcjZZT1dDclNQdEQtZms1bW1vLUFFOFh1cXlCZHZBdlpaVnhqNWlOZkptMXJIN2U0ME9VRFM0Vi1icnBEdWdpcGFuQzQ0TjIwLUpBemYxOWFpcDcyczJjQ0d1RXBPUF9jdW5QNU8w?oc=5)
 
 ---
 
@@ -222,22 +230,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Fettleber wird häufig unterschätzt](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DNHA4RTZnemVmNGdMQmgyWk1WdmZhc2Vybnplcm5OeHE0STdWRFlwMVBNd1I1MDJQT21BaEd0bzNrRjN2OUxhZ3ZHVlJROHNUUTFKejI0RTlQRUZlbzNVZklWdFlNam9HUFJDblVOM1M4MVlUMVE?oc=5)
-
-2026-06-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DNHA4RTZnemVmNGdMQmgyWk1WdmZhc2Vybnplcm5OeHE0STdWRFlwMVBNd1I1MDJQT21BaEd0bzNrRjN2OUxhZ3ZHVlJROHNUUTFKejI0RTlQRUZlbzNVZklWdFlNam9HUFJDblVOM1M4MVlUMVE?oc=5)
-
----
-
-### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
-
----
-
 ### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -251,14 +243,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
-
----
-
-### [Tumore al pancreas, un nuovo farmaco raddoppia la sopravvivenza media dei pazienti - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHU2TlNFdGpSMnNkLS1JSFJwaFd5UkZldmstQjg4dnpkMFV0NXRfbnEzU052OVl0VTJaZHNnaGppdkFJTGEyYnhTWkNGUUVfZzgtSjlpd2dWRlJKR2tpOXpHMnN4d2U0UzBnQ2FWb21RSnVVWEJpV1RCS1BMVFFoS1ZSSW9IaGRVZVUtRmhOZ1dHRzhoelVOUjFvUGtmTDdDVmxOYTJ1VkxrSEFuYkRNS2hPbllCNW0zbGN1OEN1M043Z3BWeV9qUVJXQjFmQzhKNHc2NVFKTE15aGo2aGt5V2lR?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHU2TlNFdGpSMnNkLS1JSFJwaFd5UkZldmstQjg4dnpkMFV0NXRfbnEzU052OVl0VTJaZHNnaGppdkFJTGEyYnhTWkNGUUVfZzgtSjlpd2dWRlJKR2tpOXpHMnN4d2U0UzBnQ2FWb21RSnVVWEJpV1RCS1BMVFFoS1ZSSW9IaGRVZVUtRmhOZ1dHRzhoelVOUjFvUGtmTDdDVmxOYTJ1VkxrSEFuYkRNS2hPbllCNW0zbGN1OEN1M043Z3BWeV9qUVJXQjFmQzhKNHc2NVFKTE15aGo2aGt5V2lR?oc=5)
 
 ---
 

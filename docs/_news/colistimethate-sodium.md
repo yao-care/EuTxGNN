@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
+
+### [Lungenultraschall erkennt Fortschreiten von Lungenveränderungen bei rheumatoider Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
+
+---
+
+### [Ensayo clínico cambia paradigma en la prevención de artritis reumatoide - La Web de la Salud](https://news.google.com/rss/articles/CBMioAFBVV95cUxQU01xS3RjeWg4MUMwXzEtNDlsX0x6NTNiVTRnS2RBc0NtMmlVXzc4LWVYLW5ZdFN6M1QyNURWb3pyQmdfd2dXRHJYRWRleFpkNTNIMG1uem1iVXNqSWJWT05iUGZoYlVXNGh3UldKWFN3MldvUjZTQmlEYWNaTnpxbWxZQm5oekJMVFN1X1FNU29QdUt0NWxMTHdlenlUellq?oc=5)
+
+2026-06-10 <span class="news-indication-tag">artritis</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMioAFBVV95cUxQU01xS3RjeWg4MUMwXzEtNDlsX0x6NTNiVTRnS2RBc0NtMmlVXzc4LWVYLW5ZdFN6M1QyNURWb3pyQmdfd2dXRHJYRWRleFpkNTNIMG1uem1iVXNqSWJWT05iUGZoYlVXNGh3UldKWFN3MldvUjZTQmlEYWNaTnpxbWxZQm5oekJMVFN1X1FNU29QdUt0NWxMTHdlenlUellq?oc=5)
+
+---
+
+### [Hypertension artérielle : bientôt un dépistage rémunéré en officine - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
+
+2026-06-10 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
+
+---
 
 ### [Diabetes und Bluthochdruck: 70% der Nierenversagen-Patienten betroffen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
 

@@ -54,6 +54,22 @@ permalink: /news/asenapine-maleate/
 
 ## 相關新聞（31 則）
 
+### [Krebsproteine stoppen, noch bevor sie entstehen? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRnMEpZODZJT1lkb0U3SkVMdmdNYnMwS0pQLWN6OURPQXVTalJnSU5nSWJKNGZpenpkVVoyemNENE9VYUhaUHVjWlNLWWd5T0xoRkhFUE5BRk5YMHlRTmpfMmoxc1k0Q3p4blBGQi1jbG50dUtUTGVyT0ItaFBUemJpUXV1N3JrcHhMY0xESlYzdTdHV1AydVJqVjdLM1hmdUEzRGRRYw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRnMEpZODZJT1lkb0U3SkVMdmdNYnMwS0pQLWN6OURPQXVTalJnSU5nSWJKNGZpenpkVVoyemNENE9VYUhaUHVjWlNLWWd5T0xoRkhFUE5BRk5YMHlRTmpfMmoxc1k0Q3p4blBGQi1jbG50dUtUTGVyT0ItaFBUemJpUXV1N3JrcHhMY0xESlYzdTdHV1AydVJqVjdLM1hmdUEzRGRRYw?oc=5)
+
+---
+
+### [Aficionados del futbol: están siendo vigilados](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEduWUUwMDBjZXZuX3dZeHlYNGZwVjVCUjg1TG5WZk9MaUR6R2RRTGl1dDJPdmQwT25Xak1nVWdIUVlnNnhZc2hweEdVTzN2NExsVFVMNW9UWkxMMXp4SVJUUkJ4T2N4RzV6b1RGcllKY1lua0RjWEdXeVQtTWhvV0V3?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEduWUUwMDBjZXZuX3dZeHlYNGZwVjVCUjg1TG5WZk9MaUR6R2RRTGl1dDJPdmQwT25Xak1nVWdIUVlnNnhZc2hweEdVTzN2NExsVFVMNW9UWkxMMXp4SVJUUkJ4T2N4RzV6b1RGcllKY1lua0RjWEdXeVQtTWhvV0V3?oc=5)
+
+---
+
 ### [Läuserückfallfieber: Wie der Erreger dem Immunsystem entkommt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlcnltdWJoaUZBTndqdkJTdmkzMF9PRDZNb3hNTWQ2MFBPTV9ZWGtWeHNmRjhuRkNsU0VFRXd1YjB1cDRmOWdJOVVSQQ?oc=5)
 
 2026-06-10 <span class="news-indication-tag">AF</span>
@@ -62,19 +78,19 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [Angst im Genom: Neue genetische Zusammenhänge mit Angstsymptomen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnS0RTQURRSXhiNGVTYXIxcVZrMlJnMGRVRlluLU0tWVFTbjVEN3czWklOZzVZN3lIQ01BNklnYzVvWVpteUZqUkVFUQ?oc=5)
+### [Darmmikrobiom-Metabolite als potenzielle Marker früher kognitiver Defizite - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2h1bmlGNDJ5ZGFuM3N5WDYzYzVEcUwyYUpMbEJ5SGRTSEROcEZRUFZCTzE1QmwySUJYTmt4WUczYmdVYV95M3ctV2s2SmUyQzBHOFctRk5zQlpaNWdiNlJuRlZIU2lYYWpQa3lKcTBfWF94aWdRLW9COGF4RnVWXzNIcXJJOFVqY0ZyelcyclNYdw?oc=5)
 
-2026-06-10 <span class="news-indication-tag">AF</span>
+2026-06-10 <span class="news-indication-tag">MS</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnS0RTQURRSXhiNGVTYXIxcVZrMlJnMGRVRlluLU0tWVFTbjVEN3czWklOZzVZN3lIQ01BNklnYzVvWVpteUZqUkVFUQ?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2h1bmlGNDJ5ZGFuM3N5WDYzYzVEcUwyYUpMbEJ5SGRTSEROcEZRUFZCTzE1QmwySUJYTmt4WUczYmdVYV95M3ctV2s2SmUyQzBHOFctRk5zQlpaNWdiNlJuRlZIU2lYYWpQa3lKcTBfWF94aWdRLW9COGF4RnVWXzNIcXJJOFVqY0ZyelcyclNYdw?oc=5)
 
 ---
 
-### [La «crisi del settimo anno» di cani e gatti: come affrontare l'inizio di una vecchiaia che diventa sempre più lunga - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+### [Gedächtnistests per Smartphone erfassen kognitive Veränderungen schneller als Standardverfahren - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCczhtT01HMmJJLXlkemlsaFppWDJVbG9zX2w5bVNHN29pSm8ybU0zdGYxNEh0NzNEXzhCdHlkWER3WUU2U3ZOOEcwTQ?oc=5)
 
 2026-06-10 <span class="news-indication-tag">AF</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCczhtT01HMmJJLXlkemlsaFppWDJVbG9zX2w5bVNHN29pSm8ybU0zdGYxNEh0NzNEXzhCdHlkWER3WUU2U3ZOOEcwTQ?oc=5)
 
 ---
 
@@ -83,30 +99,6 @@ permalink: /news/asenapine-maleate/
 2026-06-10 <span class="news-indication-tag">AF</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmN3UHBMcUs0X2UzLWlaT2pKR2pqUWtLdGdHVjBUUVJLRF9rQk9wN3hERUloY2Z2LTJpZmttUDNSeTVNVkYzY01KZDRFNy1tQVZ5QVlMMkZCZDRFaTBCV2lsSTdKZkdQQzhZdktidElkaXJJaXJtWkVhSEZCUm1vLTdNak8xSWt3VWZvZlpVYjhRXzhpNUZHdVFPaFhPWjVkbU10Ml83RG5KcUU2ZGVEdVlqTGNlZUhfX29ha1FhamZZZEFlWVFLQ204T2Z2ZW5YTTVQbDZCYzdZazFCNF9FUlRDejliUQ?oc=5)
-
----
-
-### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
-2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
----
-
-### [Vaccination ‘should replace badger culls’ to end bovine TB - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
-
-2026-06-10 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
-
----
-
-### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
 
 ---
 
@@ -126,11 +118,27 @@ permalink: /news/asenapine-maleate/
 
 ---
 
+### [TDAH : un défi du quotidien](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDM3WnBxYS1qdkxOZGJVc0o4UDAyOHpfTWd5ZjN0VWNrVGM0R0pvOFpwYlJoZXoyVExTb0xLUFpxd19vOEhzQTFac2w3UjdsOWR2VUFUZC1iWXIySDNxZk9mclZUcXZKNTY3WjdBT0t4N1poQy0yVGd3b0hzb2tCby1GMWdsNFFoUk9qQm9Uc1V4VWVrTzNUTzFB?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[martinique.franceantilles.fr](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDM3WnBxYS1qdkxOZGJVc0o4UDAyOHpfTWd5ZjN0VWNrVGM0R0pvOFpwYlJoZXoyVExTb0xLUFpxd19vOEhzQTFac2w3UjdsOWR2VUFUZC1iWXIySDNxZk9mclZUcXZKNTY3WjdBT0t4N1poQy0yVGd3b0hzb2tCby1GMWdsNFFoUk9qQm9Uc1V4VWVrTzNUTzFB?oc=5)
+
+---
+
 ### [„Wir unterschätzen viel zu oft, wie verletzlich Sepsis-Patienten sind“ - RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
 
 2026-06-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
+
+---
+
+### ['I'm a doctor - if I had high cholesterol I'd eat these 4 foods' - Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlVBSkRpQ2tzM2lwQk9FSUhmUnAzLTg0ekdDTnZja0gzWDJrdXUtZ1Bkb2E2UFREMjYyV2pLaFdoMm5QeUlTN1dPTVotaERmbDhqU1dYRk9uR1BCM2pNZEM0MUcxOHNGendCV2poWWIxQkwxclB6ZzlqUEJpS1hqQldDSng0alnSAYwBQVVfeXFMTjVna2tCSndKdk1xeDBzdGNLQmxqbndJQmhvZ1dSSWJxWTZ2RFQxaVhIODdWQXhDSk9VN1RERC1GdFp2a0dScC1ubDJGTjk0VlFqNHg5bXpnUWRLQy1WM294Q2M4akI5Qy1PTWxsUzlyVDZTTDkzV1Y5U3hYWUhtX0EzTzdSRXlGSEUzb1Q?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlVBSkRpQ2tzM2lwQk9FSUhmUnAzLTg0ekdDTnZja0gzWDJrdXUtZ1Bkb2E2UFREMjYyV2pLaFdoMm5QeUlTN1dPTVotaERmbDhqU1dYRk9uR1BCM2pNZEM0MUcxOHNGendCV2poWWIxQkwxclB6ZzlqUEJpS1hqQldDSng0alnSAYwBQVVfeXFMTjVna2tCSndKdk1xeDBzdGNLQmxqbndJQmhvZ1dSSWJxWTZ2RFQxaVhIODdWQXhDSk9VN1RERC1GdFp2a0dScC1ubDJGTjk0VlFqNHg5bXpnUWRLQy1WM294Q2M4akI5Qy1PTWxsUzlyVDZTTDkzV1Y5U3hYWUhtX0EzTzdSRXlGSEUzb1Q?oc=5)
 
 ---
 
@@ -166,14 +174,6 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
-
----
-
 ### [Incrementar el conocimiento sobre deterioro cognitivo en esclerosis múltiple, clave para su detección, abordaje y seguimiento](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVJoVDNHdHJDLXU3d1RjSWpQRUZhMlJZMnhOSFV4eVIxU25HU1pQcW5LeUgwWHpjRTZRTWZmMWdkdHZOTzM3ek5Vd05OenBzWkhwZHRZRjZFMzBaandtTGUwMnZmZWFXZ2dJeWRPOHBCNDl6MEFHcXhZNFlaamtSTC0wVmZOV3RaSWRBeXJXV1JxRDhObFUyNWx4SjBfemozOWpzVE1zbUZLdnQ3cHJ2Q1hTQmZfb0hRMGdKNVA0MVg5OHFEdmJRc053NGF5a254UFJTMjl0VHRVSEx2QTF1aEFmZ1plVUE?oc=5)
 
 2026-06-09 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -187,6 +187,14 @@ permalink: /news/asenapine-maleate/
 2026-06-09 <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkFfaXJyMEV4aVRaVk1LR0xNcUNmX3BqdmRsNnRBT2hzSWJTcE5JdVBseDV4RnhBZkMtcm9INlF3dndIcDMyblNUMThSVEdHSFl1UEJNSHdlSnpMelVBeGV0TEZPYnV2djRoY1FmT1ZHR3M4ZWZUN05JTnZXdGhWSk0zU3BQbHZVcWFtclJma3hsX3JVbW1GZVVQcjI3b2EwOVYxRzJWMjBaY3o2Qmp1OUVzekR6R0t0TUZDRmtzT0xIaGFTYkpZYnRQNV9KZw?oc=5)
+
+---
+
+### [Diabetes und Herzerkrankungen: Neue Diagnostik senkt Risiko schneller - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
+
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
 ---
 
@@ -230,6 +238,14 @@ permalink: /news/asenapine-maleate/
 
 ---
 
+### [Sclerosi multipla: la “malattia del bacio” aumenta il rischio di sviluppare la patologia - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGQ0R19NTGxNSkpBZjFGRkRwNUVmY3Y0dVNyWVR3RDhjMEVsTmFJZ2JjVnNkQWV2TWdrRkJVTzNQb1ZZQ1hCOWZxb2MxNHluanVMY0ZXcW1xYVpwZk16VTJ2NXVZNGxhWWVZRDlhRnRXcWFCZUtwMlNYNjc4T1hieHAtcGtzTlhTUERzNWF6M21MVVkyOE9nSndMVDVLVXdXSm96NENaeF9XUzRHcGxZU1hTX3d0THl0UUdGNWlUYWxkbjIzOHc3SHo2WWpWUWlVWG5VWDBB?oc=5)
+
+2026-06-09 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGQ0R19NTGxNSkpBZjFGRkRwNUVmY3Y0dVNyWVR3RDhjMEVsTmFJZ2JjVnNkQWV2TWdrRkJVTzNQb1ZZQ1hCOWZxb2MxNHluanVMY0ZXcW1xYVpwZk16VTJ2NXVZNGxhWWVZRDlhRnRXcWFCZUtwMlNYNjc4T1hieHAtcGtzTlhTUERzNWF6M21MVVkyOE9nSndMVDVLVXdXSm96NENaeF9XUzRHcGxZU1hTX3d0THl0UUdGNWlUYWxkbjIzOHc3SHo2WWpWUWlVWG5VWDBB?oc=5)
+
+---
+
 ### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
 
 2026-06-09 <span class="news-indication-tag">MS</span>
@@ -238,19 +254,19 @@ permalink: /news/asenapine-maleate/
 
 ---
 
+### [World’s first AI-designed vaccine explained - The Conversation](https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWJBQ2JYbWcwcFZONHZpOXdIaWR2SENSdTVIZ0FGMzJrZ3NBWGlXcGFjbVNTSnY0dGl6cG5Ub0NobTMxSGEzWWVJN0sxZlJQWEZSc0RQRWhtNnQyZjVtb3ktUV9vUTRSa2FEdGk2aFdObVRKZ2lLdUFHVUpPUlZ4MjB4TQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWJBQ2JYbWcwcFZONHZpOXdIaWR2SENSdTVIZ0FGMzJrZ3NBWGlXcGFjbVNTSnY0dGl6cG5Ub0NobTMxSGEzWWVJN0sxZlJQWEZSc0RQRWhtNnQyZjVtb3ktUV9vUTRSa2FEdGk2aFdObVRKZ2lLdUFHVUpPUlZ4MjB4TQ?oc=5)
+
+---
+
 ### [Wie Neandertaler-Gene unsere Reaktion auf DNA-Viren prägen](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHRNSE1nQzJnZDc4dEtEQm5OYi1iTnhDSzcwYXdtSlBRVS1uRHlWR1lUYnQtQnEyeVVTZ2QyUXgwcnkwNGlheksxU1djaWNNZUwwWHdmTEgzdTJUTVlMcWJIcEZoc3M0NEFYQUFpTGdzZllpaHQ1WmdteGpTaVNwVTlnd0JmZ3B4SmtROGQ0eW1sZW8zUzFMZ3RZdUxic1RiWkVSQUhIMzcxVGs?oc=5)
 
 2026-06-09 <span class="news-indication-tag">AF</span>
 
 來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHRNSE1nQzJnZDc4dEtEQm5OYi1iTnhDSzcwYXdtSlBRVS1uRHlWR1lUYnQtQnEyeVVTZ2QyUXgwcnkwNGlheksxU1djaWNNZUwwWHdmTEgzdTJUTVlMcWJIcEZoc3M0NEFYQUFpTGdzZllpaHQ1WmdteGpTaVNwVTlnd0JmZ3B4SmtROGQ0eW1sZW8zUzFMZ3RZdUxic1RiWkVSQUhIMzcxVGs?oc=5)
-
----
-
-### [The best fruit and veg to slash heart disease risk revealed - full list - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
-
-2026-06-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
 
 ---
 
@@ -275,22 +291,6 @@ permalink: /news/asenapine-maleate/
 2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
-
----
-
-### [‘Stroke and brain injury? We are potentially sitting on a time bomb’ - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
-
-2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
-
----
-
-### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
-
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
 ---
 

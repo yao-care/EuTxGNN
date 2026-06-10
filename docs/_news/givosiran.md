@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Antisense-Wirkstoff Bepirovirsen kann Hepatitis B häufig kurieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
+### [Hypertension artérielle : bientôt un dépistage rémunéré en officine - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
 
-2026-06-09 <span class="news-indication-tag">hepatitis</span>
+2026-06-10 <span class="news-indication-tag">hypertension</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
+
+---
+
+### [Kann mit Bepirovirsen eine Hepatitis-B-Infektion geheilt werden? - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
 
 ---
 

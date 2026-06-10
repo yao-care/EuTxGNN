@@ -14,7 +14,7 @@ permalink: /news/nelarabine/
 ---
 
 <p class="key-answer" data-question="Nelarabine 有什麼相關新聞？">
-<strong>Nelarabine</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nelarabine</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/nelarabine/
 <p><a href="{{ '/drugs/nelarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（30 則）
 
-### [Tratamiento revolucionario contra el cáncer: investigadores israelíes desarrollan una terapia que frena tumores sin usar medicamentos - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
+### [La clave podría estar en el ARN: Salamanca busca nuevas armas contra el cáncer de próstata - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1dObmZhQUl6OXpVei00Wm5QUTYxSXk0WVB6TmlSUUJYLUdzOElrekFQcXNJeWZURU5YX2ZOeUYzY25vTGZVYVFEQVFxLTgzMV94V0F0N0J1VUIzcEdWNnVzZUl5dHFzSmltbXpZNE8tLU0wVG1aTmE3elJLUi1vTWxHT0VOd0VDY2xpVmx6ZEhaOEJHbFV3T3FTRFZnZ2VpOGNnVnIyalBrTGdvVkI0dzd3a2ZnZHQzOEdqUXItMEdvNlMzVnNaeFNzak5valoyam9GdA?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
 
-來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
+來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1dObmZhQUl6OXpVei00Wm5QUTYxSXk0WVB6TmlSUUJYLUdzOElrekFQcXNJeWZURU5YX2ZOeUYzY25vTGZVYVFEQVFxLTgzMV94V0F0N0J1VUIzcEdWNnVzZUl5dHFzSmltbXpZNE8tLU0wVG1aTmE3elJLUi1vTWxHT0VOd0VDY2xpVmx6ZEhaOEJHbFV3T3FTRFZnZ2VpOGNnVnIyalBrTGdvVkI0dzd3a2ZnZHQzOEdqUXItMEdvNlMzVnNaeFNzak5valoyam9GdA?oc=5)
+
+---
+
+### [Vous pensez qu’un verre d’alcool de temps en temps est sans danger ? Une étude sérieuse remet tout en question - Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXpmSGxkaFNMTUhrUVdFU3kycXRORTUzTzVTZFJqR3MtNHpTVnlWNWt4YnAzZ3d5X3RlUEFfVUZrZnhiZTB2YTZ6VGNaMWRBcnVyX09FYTl4cmJsZTUtXzB6V0NYRXVUeUZ6d3JDSTFrVDlSNW5RRnZBMVkxSnoxTUt1THRFUmRQYmNjNkR3?oc=5)
+
+2026-06-10 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXpmSGxkaFNMTUhrUVdFU3kycXRORTUzTzVTZFJqR3MtNHpTVnlWNWt4YnAzZ3d5X3RlUEFfVUZrZnhiZTB2YTZ6VGNaMWRBcnVyX09FYTl4cmJsZTUtXzB6V0NYRXVUeUZ6d3JDSTFrVDlSNW5RRnZBMVkxSnoxTUt1THRFUmRQYmNjNkR3?oc=5)
+
+---
+
+### [Light-Limos laut Studie nicht mit Leberkrebs verbunden – zuckrige Softdrinks schon](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE4xM0QtWkF0c0JrMVhkaXdYb1B3M3RndUVoNktLZkFDSjA0d0tBSzMxUDRueUQxZmxoOFk3UXc5Vzl4WXExMjZwc1lJQ0FRRE1oUDFMLU9fT0lHS3llZFFTenRzVFc3WXBoXzVkSGJFQ3hxdHpqN0JaQzlDMjBxekJUNjZvWDhselF0cFQyTUtvVDdrTXpESGQzaVhsR0hDNnh6d3pFeXFKMS01VWR3bWRpcmdFNERMMkZzd3BBTWkwUG5wbWxCdA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE4xM0QtWkF0c0JrMVhkaXdYb1B3M3RndUVoNktLZkFDSjA0d0tBSzMxUDRueUQxZmxoOFk3UXc5Vzl4WXExMjZwc1lJQ0FRRE1oUDFMLU9fT0lHS3llZFFTenRzVFc3WXBoXzVkSGJFQ3hxdHpqN0JaQzlDMjBxekJUNjZvWDhselF0cFQyTUtvVDdrTXpESGQzaVhsR0hDNnh6d3pFeXFKMS01VWR3bWRpcmdFNERMMkZzd3BBTWkwUG5wbWxCdA?oc=5)
+
+---
+
+### [Krebsproteine stoppen, noch bevor sie entstehen? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRnMEpZODZJT1lkb0U3SkVMdmdNYnMwS0pQLWN6OURPQXVTalJnSU5nSWJKNGZpenpkVVoyemNENE9VYUhaUHVjWlNLWWd5T0xoRkhFUE5BRk5YMHlRTmpfMmoxc1k0Q3p4blBGQi1jbG50dUtUTGVyT0ItaFBUemJpUXV1N3JrcHhMY0xESlYzdTdHV1AydVJqVjdLM1hmdUEzRGRRYw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRnMEpZODZJT1lkb0U3SkVMdmdNYnMwS0pQLWN6OURPQXVTalJnSU5nSWJKNGZpenpkVVoyemNENE9VYUhaUHVjWlNLWWd5T0xoRkhFUE5BRk5YMHlRTmpfMmoxc1k0Q3p4blBGQi1jbG50dUtUTGVyT0ItaFBUemJpUXV1N3JrcHhMY0xESlYzdTdHV1AydVJqVjdLM1hmdUEzRGRRYw?oc=5)
 
 ---
 
@@ -70,11 +94,11 @@ permalink: /news/nelarabine/
 
 ---
 
-### [La pista escondida en el ARN que podría ayudar a tratar y frenar el cáncer de próstata, el tumor más frecuente en hombres](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1Ytc3I0bl9TMmpuRWU5Ym1OcE5hbkFYZlZZT2xaMUtHR01lZzd0OGNkZFFnVVV6bEp5Qlp5SGJsMTl4VjlrLXI5N00xVnVlVU1JM0pDVFVGY08tNXpoTlhTVzB2bG9od0dmQklUMDlhcFZkZWg1b2N0ZzVYSkhTLWlRZllNSWVPdTJZNHVVUzhNYXM2LUozMWV2U3QzMjhPWEQ2Z01jQU83LW91Q2t6a0NuNXFsYVBDZDZrTHIzaFdfZEJNbjZNX0sxSnhqZU5sSGRCbWtQZE5MTzVa?oc=5)
+### [Israel desarrolla un tratamiento revolucionario contra el cáncer, basado en una terapia que frena tumores sin usar medicamentos - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1Ytc3I0bl9TMmpuRWU5Ym1OcE5hbkFYZlZZT2xaMUtHR01lZzd0OGNkZFFnVVV6bEp5Qlp5SGJsMTl4VjlrLXI5N00xVnVlVU1JM0pDVFVGY08tNXpoTlhTVzB2bG9od0dmQklUMDlhcFZkZWg1b2N0ZzVYSkhTLWlRZllNSWVPdTJZNHVVUzhNYXM2LUozMWV2U3QzMjhPWEQ2Z01jQU83LW91Q2t6a0NuNXFsYVBDZDZrTHIzaFdfZEJNbjZNX0sxSnhqZU5sSGRCbWtQZE5MTzVa?oc=5)
+來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
 
 ---
 
@@ -86,19 +110,19 @@ permalink: /news/nelarabine/
 
 ---
 
+### [Darmmikrobiom-Metabolite als potenzielle Marker früher kognitiver Defizite - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2h1bmlGNDJ5ZGFuM3N5WDYzYzVEcUwyYUpMbEJ5SGRTSEROcEZRUFZCTzE1QmwySUJYTmt4WUczYmdVYV95M3ctV2s2SmUyQzBHOFctRk5zQlpaNWdiNlJuRlZIU2lYYWpQa3lKcTBfWF94aWdRLW9COGF4RnVWXzNIcXJJOFVqY0ZyelcyclNYdw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2h1bmlGNDJ5ZGFuM3N5WDYzYzVEcUwyYUpMbEJ5SGRTSEROcEZRUFZCTzE1QmwySUJYTmt4WUczYmdVYV95M3ctV2s2SmUyQzBHOFctRk5zQlpaNWdiNlJuRlZIU2lYYWpQa3lKcTBfWF94aWdRLW9COGF4RnVWXzNIcXJJOFVqY0ZyelcyclNYdw?oc=5)
+
+---
+
 ### [Tumore alla prostata: un nuovo protocollo di screening dimezza le biopsie inutili - La Stampa](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWG04NzVNYW90Q1dnbG9tM1NHTDhQUzd6Ny1UWnlaQllNRzBTOFlpaGlrVHBjWUUwV0lFT3llUEZKUFp0d2dTSmZ5RmtHemdLeFIwRXpOZ1ZxVmJLNVRvN2Nnb00wNzNXdEdEM0R1RDZENE5iUUtzMjROellpS3pLakZHaHB0WG9mb194ZEtzSmJRWTBFZTBGQU13U294NU3SAaQBQVVfeXFMTmRXV1NSWWI0ZV9teHJQSldxRjFJbFRiLTFmMko3djhHS0h4S3BlbTQxZ0FRbWc3UGZGd01zeTExeE9fSDlIVDV0ejlMZXlCdC1XNG9qcVllTlcxb3V2SWxmbzBaOGxWX0xfWEVNUVpHaVZOQ21iTFJtQVczSFdYUmZsU3JtRXh3c0JjUWViMkc0OVNweklFdHZ3cERIMEpHak5CdkM?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWG04NzVNYW90Q1dnbG9tM1NHTDhQUzd6Ny1UWnlaQllNRzBTOFlpaGlrVHBjWUUwV0lFT3llUEZKUFp0d2dTSmZ5RmtHemdLeFIwRXpOZ1ZxVmJLNVRvN2Nnb00wNzNXdEdEM0R1RDZENE5iUUtzMjROellpS3pLakZHaHB0WG9mb194ZEtzSmJRWTBFZTBGQU13U294NU3SAaQBQVVfeXFMTmRXV1NSWWI0ZV9teHJQSldxRjFJbFRiLTFmMko3djhHS0h4S3BlbTQxZ0FRbWc3UGZGd01zeTExeE9fSDlIVDV0ejlMZXlCdC1XNG9qcVllTlcxb3V2SWxmbzBaOGxWX0xfWEVNUVpHaVZOQ21iTFJtQVczSFdYUmZsU3JtRXh3c0JjUWViMkc0OVNweklFdHZ3cERIMEpHak5CdkM?oc=5)
-
----
-
-### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
-2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
 
 ---
 
@@ -110,35 +134,19 @@ permalink: /news/nelarabine/
 
 ---
 
-### [Vaccination ‘should replace badger culls’ to end bovine TB - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
-
-2026-06-10 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
-
----
-
-### [Spedali Civili, cosa significa essere Comprehensive Cancer Center - Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
-
----
-
-### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
----
-
 ### [„Wir unterschätzen viel zu oft, wie verletzlich Sepsis-Patienten sind“ - RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
 
 2026-06-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[RP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVdKYnhRU2tFUTNwWFJjdHlKWmpSVE1ENnpndDhKNUp5MlY3X3ZGMGpsNUs0MmF6dVJDLUFfMWc0UjVRWTRBT0s3aVRRNFpKV2h3d2xWR3FWLUQteHBPdmVfRzJmYllRNkllV0hyRXR0bk1TdjJtcnFmenRlMEVvVEkzYzBlTG5DckVGQUI3QXRrbmhSRDBTRlA0ck1YbVVITXhHblRDUi1jbDNWQzZmVGtXNA?oc=5)
+
+---
+
+### ['I'm a doctor - if I had high cholesterol I'd eat these 4 foods' - Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlVBSkRpQ2tzM2lwQk9FSUhmUnAzLTg0ekdDTnZja0gzWDJrdXUtZ1Bkb2E2UFREMjYyV2pLaFdoMm5QeUlTN1dPTVotaERmbDhqU1dYRk9uR1BCM2pNZEM0MUcxOHNGendCV2poWWIxQkwxclB6ZzlqUEJpS1hqQldDSng0alnSAYwBQVVfeXFMTjVna2tCSndKdk1xeDBzdGNLQmxqbndJQmhvZ1dSSWJxWTZ2RFQxaVhIODdWQXhDSk9VN1RERC1GdFp2a0dScC1ubDJGTjk0VlFqNHg5bXpnUWRLQy1WM294Q2M4akI5Qy1PTWxsUzlyVDZTTDkzV1Y5U3hYWUhtX0EzTzdSRXlGSEUzb1Q?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlVBSkRpQ2tzM2lwQk9FSUhmUnAzLTg0ekdDTnZja0gzWDJrdXUtZ1Bkb2E2UFREMjYyV2pLaFdoMm5QeUlTN1dPTVotaERmbDhqU1dYRk9uR1BCM2pNZEM0MUcxOHNGendCV2poWWIxQkwxclB6ZzlqUEJpS1hqQldDSng0alnSAYwBQVVfeXFMTjVna2tCSndKdk1xeDBzdGNLQmxqbndJQmhvZ1dSSWJxWTZ2RFQxaVhIODdWQXhDSk9VN1RERC1GdFp2a0dScC1ubDJGTjk0VlFqNHg5bXpnUWRLQy1WM294Q2M4akI5Qy1PTWxsUzlyVDZTTDkzV1Y5U3hYWUhtX0EzTzdSRXlGSEUzb1Q?oc=5)
 
 ---
 
@@ -168,7 +176,7 @@ permalink: /news/nelarabine/
 
 ### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
@@ -182,11 +190,11 @@ permalink: /news/nelarabine/
 
 ---
 
-### [Un inhibidor proteico de RAS induce regresión en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJKdFBiVTBkVEFkQnJQWGFMX1duUTJXaHR0QTBpelhJWDdkblljdlFtYVVSSTdJTGV0cW8tWkRZTEhEMzNhN200ZzExV3p6bVBUTlppem5LRXI4WkFKUkctandlQS11T3FpV0w3bThHQ08tRWR3QjRlSEg0b1JBVGVyR0hXVFpuTG1razVjU3ZXakxYc015X2RPMjF5RkJGeVltS01ycXZwVFBpaXVQMV9UUm5XbUliNU1YRm1B0gG4AUFVX3lxTE5iVDRJVVl2WXB6WmlHTERtTzcyMFQ5a1BmUHJ3S0ZuTGZSb2lsTFc4VUI0UWxIYkh3c3ZtTzZveHRNV3Y2ai1tTWM0dmNrT25GN29ISklqNF9tei03RUtUX3hVNlB6TzYzT2RLU0VvVTkzaFhtQVN5VTVPbGl4SjRlekF4bElvSWpTMVFxNGEyTHJZbVdjTHFfcG9QOFZJSWlOX2NzbnMyVmF4QVFRbVFkLV9CRjhCTWs?oc=5)
+### [Diabetes und Herzerkrankungen: Neue Diagnostik senkt Risiko schneller - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
-2026-06-09 <span class="news-indication-tag">cancer</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJKdFBiVTBkVEFkQnJQWGFMX1duUTJXaHR0QTBpelhJWDdkblljdlFtYVVSSTdJTGV0cW8tWkRZTEhEMzNhN200ZzExV3p6bVBUTlppem5LRXI4WkFKUkctandlQS11T3FpV0w3bThHQ08tRWR3QjRlSEg0b1JBVGVyR0hXVFpuTG1razVjU3ZXakxYc015X2RPMjF5RkJGeVltS01ycXZwVFBpaXVQMV9UUm5XbUliNU1YRm1B0gG4AUFVX3lxTE5iVDRJVVl2WXB6WmlHTERtTzcyMFQ5a1BmUHJ3S0ZuTGZSb2lsTFc4VUI0UWxIYkh3c3ZtTzZveHRNV3Y2ai1tTWM0dmNrT25GN29ISklqNF9tei03RUtUX3hVNlB6TzYzT2RLU0VvVTkzaFhtQVN5VTVPbGl4SjRlekF4bElvSWpTMVFxNGEyTHJZbVdjTHFfcG9QOFZJSWlOX2NzbnMyVmF4QVFRbVFkLV9CRjhCTWs?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
 ---
 
@@ -203,14 +211,6 @@ permalink: /news/nelarabine/
 2026-06-09 <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWkpUTjJLa2dNWW15SEhNS2hJWEJPUGNCRHFvLW9ILTdpQ1F2TEZ6cURINlBnUUtzeUVLX0R5cUtselRGanVVRXBkNzg5NmEwd1JKTmV5cTJlOGp5Mm5TU25NUEN6a1pTWFFmOUs1cG8tNlJUWWJvLXNOOUVQeWZxOFhwcDlRRVcwblFvaGI0c0xnaHlCVExhSlp0d2gzQlRjZ1dFVnloRE9fbjRDV01UUno5RjlXLWw4Z1FORnNIa1ZkX0RwSFhDU3VMbWJaNGEyNzB3OTFPQ2NHVjRibEhIR29KMnBSZw?oc=5)
-
----
-
-### [Früher Brustkrebs: OPTIMA-Studie erweitert Evidenz für De-Eskalation](https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE9wbEdzd3A5Yi13M3FSZTZsODVYOExNRW5QTUxCaVp0aWlUVnJxY0lOV2kwNlhmUFV2X2RFc3MtVVRLTlR1T3VJR191SnQ3RDlvd1Z4NjY3YVZCTXZ6eE9lcjZZT1dDclNQdEQtZms1bW1vLUFFOFh1cXlCZHZBdlpaVnhqNWlOZkptMXJIN2U0ME9VRFM0Vi1icnBEdWdpcGFuQzQ0TjIwLUpBemYxOWFpcDcyczJjQ0d1RXBPUF9jdW5QNU8w?oc=5)
-
-2026-06-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE9wbEdzd3A5Yi13M3FSZTZsODVYOExNRW5QTUxCaVp0aWlUVnJxY0lOV2kwNlhmUFV2X2RFc3MtVVRLTlR1T3VJR191SnQ3RDlvd1Z4NjY3YVZCTXZ6eE9lcjZZT1dDclNQdEQtZms1bW1vLUFFOFh1cXlCZHZBdlpaVnhqNWlOZkptMXJIN2U0ME9VRFM0Vi1icnBEdWdpcGFuQzQ0TjIwLUpBemYxOWFpcDcyczJjQ0d1RXBPUF9jdW5QNU8w?oc=5)
 
 ---
 
@@ -254,6 +254,14 @@ permalink: /news/nelarabine/
 
 ---
 
+### [Sclerosi multipla: la “malattia del bacio” aumenta il rischio di sviluppare la patologia - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGQ0R19NTGxNSkpBZjFGRkRwNUVmY3Y0dVNyWVR3RDhjMEVsTmFJZ2JjVnNkQWV2TWdrRkJVTzNQb1ZZQ1hCOWZxb2MxNHluanVMY0ZXcW1xYVpwZk16VTJ2NXVZNGxhWWVZRDlhRnRXcWFCZUtwMlNYNjc4T1hieHAtcGtzTlhTUERzNWF6M21MVVkyOE9nSndMVDVLVXdXSm96NENaeF9XUzRHcGxZU1hTX3d0THl0UUdGNWlUYWxkbjIzOHc3SHo2WWpWUWlVWG5VWDBB?oc=5)
+
+2026-06-09 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGQ0R19NTGxNSkpBZjFGRkRwNUVmY3Y0dVNyWVR3RDhjMEVsTmFJZ2JjVnNkQWV2TWdrRkJVTzNQb1ZZQ1hCOWZxb2MxNHluanVMY0ZXcW1xYVpwZk16VTJ2NXVZNGxhWWVZRDlhRnRXcWFCZUtwMlNYNjc4T1hieHAtcGtzTlhTUERzNWF6M21MVVkyOE9nSndMVDVLVXdXSm96NENaeF9XUzRHcGxZU1hTX3d0THl0UUdGNWlUYWxkbjIzOHc3SHo2WWpWUWlVWG5VWDBB?oc=5)
+
+---
+
 ### [Los avances en cirugía de precisión transforman el tratamiento de los tumores cerebrales](https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1dITDhLOHA4aFJyVXhldHlTcUdZNFQ2eThzbFVCMkVyTTE1NzN5WGE3RmVMQ0JobTJ5Vmp3elRMeGduRkVaRWFJNmlhVHBEUzQ1Zk9oVFdUSHZJTzYyR3MwNXhoMUdHaExPTUNiLXhwM1lhMjdLTS1mM2Z5RDZLalpaN3RfOGdFYXZ6UENsMllRQjl5blNhQUVsQXJhNXd0ZEV0UTdFSE9acjZoOVd0WXpWd05DWkpwQ2F2RNIBwgFBVV95cUxQUWdlSnVhWnNYSHlhREpieGdFTUpUQjFWY0ZMZS1yV3pyV3dSMUY1R3BGUS01eTVvZWIyZGRVXzNUWm01ZFdtVjNCa3FWbDlQMjV3ZElMVUkyaDh4akNOT0ItUGpkSWtYRTBkWkpEMlZ3ekFuV05sQzhuM3FtelMwTDhWOWtMLTZ1REV3X2tmTkhhNURGYXlnNXFGNnJZeTNEcnNWWVpwXzRfdjNKaURMbWVENmhGOVNnRlItQVdxNkJNUQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">tumor</span>
@@ -270,22 +278,6 @@ permalink: /news/nelarabine/
 
 ---
 
-### [Fettleber wird häufig unterschätzt](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DNHA4RTZnemVmNGdMQmgyWk1WdmZhc2Vybnplcm5OeHE0STdWRFlwMVBNd1I1MDJQT21BaEd0bzNrRjN2OUxhZ3ZHVlJROHNUUTFKejI0RTlQRUZlbzNVZklWdFlNam9HUFJDblVOM1M4MVlUMVE?oc=5)
-
-2026-06-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DNHA4RTZnemVmNGdMQmgyWk1WdmZhc2Vybnplcm5OeHE0STdWRFlwMVBNd1I1MDJQT21BaEd0bzNrRjN2OUxhZ3ZHVlJROHNUUTFKejI0RTlQRUZlbzNVZklWdFlNam9HUFJDblVOM1M4MVlUMVE?oc=5)
-
----
-
-### [The best fruit and veg to slash heart disease risk revealed - full list - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
-
-2026-06-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
-
----
-
 ### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -299,22 +291,6 @@ permalink: /news/nelarabine/
 2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
-
----
-
-### [Tumore al pancreas, un nuovo farmaco raddoppia la sopravvivenza media dei pazienti - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHU2TlNFdGpSMnNkLS1JSFJwaFd5UkZldmstQjg4dnpkMFV0NXRfbnEzU052OVl0VTJaZHNnaGppdkFJTGEyYnhTWkNGUUVfZzgtSjlpd2dWRlJKR2tpOXpHMnN4d2U0UzBnQ2FWb21RSnVVWEJpV1RCS1BMVFFoS1ZSSW9IaGRVZVUtRmhOZ1dHRzhoelVOUjFvUGtmTDdDVmxOYTJ1VkxrSEFuYkRNS2hPbllCNW0zbGN1OEN1M043Z3BWeV9qUVJXQjFmQzhKNHc2NVFKTE15aGo2aGt5V2lR?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHU2TlNFdGpSMnNkLS1JSFJwaFd5UkZldmstQjg4dnpkMFV0NXRfbnEzU052OVl0VTJaZHNnaGppdkFJTGEyYnhTWkNGUUVfZzgtSjlpd2dWRlJKR2tpOXpHMnN4d2U0UzBnQ2FWb21RSnVVWEJpV1RCS1BMVFFoS1ZSSW9IaGRVZVUtRmhOZ1dHRzhoelVOUjFvUGtmTDdDVmxOYTJ1VkxrSEFuYkRNS2hPbllCNW0zbGN1OEN1M043Z3BWeV9qUVJXQjFmQzhKNHc2NVFKTE15aGo2aGt5V2lR?oc=5)
-
----
-
-### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
-
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
 ---
 

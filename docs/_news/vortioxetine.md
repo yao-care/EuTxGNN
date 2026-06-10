@@ -62,19 +62,19 @@ permalink: /news/vortioxetine/
 
 ---
 
-### [Dépression post-partum : un nouveau test sanguin pourrait repérer les femmes à risque dès la grossesse](https://news.google.com/rss/articles/CBMifEFVX3lxTE5TSGFhcnVxU3VzVXItbnRLam5zUGNvbnFYWGxQWG9YclNnNTNhamswS3F6VkljMUNaamZyMTc5X2UxZUduWm9kZGVMWTZtN3RXS2lIaVFFMnBNQS04VklnajhUZzlpbDZRbzVLWHV1djBzOEtwYm5pRGJmWGs?oc=5)
-
-2026-06-09 <span class="news-indication-tag">dépression</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMifEFVX3lxTE5TSGFhcnVxU3VzVXItbnRLam5zUGNvbnFYWGxQWG9YclNnNTNhamswS3F6VkljMUNaamZyMTc5X2UxZUduWm9kZGVMWTZtN3RXS2lIaVFFMnBNQS04VklnajhUZzlpbDZRbzVLWHV1djBzOEtwYm5pRGJmWGs?oc=5)
-
----
-
 ### [La ciberviolencia sexual tiene un impacto medible en la salud de las mujeres - El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEZzS0w0RVZmaW1DSEJMVlpoNnNzRmYtMWJPbmtZT1h4blBWenpZcXBoakJxdTZwa21MMW5LNFVKQU9RRU9kUExWcTlxaWlneGxheXdjVU5FM2ZRRl9ieFVaellVeFQtMG9hcDhYYzI0alZIMlhzc2FkcjRUUWZFTFMtVUJLZ0JwMU5SSFdYZE95akd1UXlZLWtTc1p5M3lGektCZWs2eDN2LUdMeWc?oc=5)
 
 2026-06-09 <span class="news-indication-tag">depresión</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEZzS0w0RVZmaW1DSEJMVlpoNnNzRmYtMWJPbmtZT1h4blBWenpZcXBoakJxdTZwa21MMW5LNFVKQU9RRU9kUExWcTlxaWlneGxheXdjVU5FM2ZRRl9ieFVaellVeFQtMG9hcDhYYzI0alZIMlhzc2FkcjRUUWZFTFMtVUJLZ0JwMU5SSFdYZE95akd1UXlZLWtTc1p5M3lGektCZWs2eDN2LUdMeWc?oc=5)
+
+---
+
+### [Dépression post-partum : ce nouveau test pourrait repérer les femmes à risque pendant la grossesse - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWYycU5PaC1uX3Jhd1NIUV9BUW54NEViWkdsaWFBYlJQOTFCZEtNeVNpMDg0VTlJYmRkcUwtZXVBYnE0OGgtTU9QVDBraF9PbzdaWmktTFBmVkJvVVExVmJCd3RRaDM0ZzVGaVd4ajJXUlJmQzRQN2NMZTVLLWtVem1veFRhTmVqOHdCbGVFanJKOFVMLTRYTnYwNy1hWHhGV3Z5cWk5RVJ0V055N2QwZFdhMjlXaEE3V2M1RlZ5UFhsZTlaMmlzQUtBTnBNUWJaYXZvcXYxNzNoSHF5dUpXNVlTOFVuLTFtNzZoeDJyZXU?oc=5)
+
+2026-06-09 <span class="news-indication-tag">dépression</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWYycU5PaC1uX3Jhd1NIUV9BUW54NEViWkdsaWFBYlJQOTFCZEtNeVNpMDg0VTlJYmRkcUwtZXVBYnE0OGgtTU9QVDBraF9PbzdaWmktTFBmVkJvVVExVmJCd3RRaDM0ZzVGaVd4ajJXUlJmQzRQN2NMZTVLLWtVem1veFRhTmVqOHdCbGVFanJKOFVMLTRYTnYwNy1hWHhGV3Z5cWk5RVJ0V055N2QwZFdhMjlXaEE3V2M1RlZ5UFhsZTlaMmlzQUtBTnBNUWJaYXZvcXYxNzNoSHF5dUpXNVlTOFVuLTFtNzZoeDJyZXU?oc=5)
 
 ---
 

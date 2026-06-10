@@ -3,7 +3,7 @@ layout: default
 title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,21 +85,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
-2026-06-10
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
----
-
-### [The best fruit and veg to slash heart disease risk revealed - full list - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
+### [Diabetes und Herzerkrankungen: Neue Diagnostik senkt Risiko schneller - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
 2026-06-09
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
 ---
 

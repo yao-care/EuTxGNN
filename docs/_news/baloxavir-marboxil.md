@@ -14,7 +14,7 @@ permalink: /news/baloxavir-marboxil/
 ---
 
 <p class="key-answer" data-question="Baloxavir Marboxil 有什麼相關新聞？">
-<strong>Baloxavir Marboxil</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Baloxavir Marboxil</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/baloxavir-marboxil/
 <p><a href="{{ '/drugs/baloxavir-marboxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（21 則）
 
-### [Tratamiento revolucionario contra el cáncer: investigadores israelíes desarrollan una terapia que frena tumores sin usar medicamentos - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
+### [La clave podría estar en el ARN: Salamanca busca nuevas armas contra el cáncer de próstata - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1dObmZhQUl6OXpVei00Wm5QUTYxSXk0WVB6TmlSUUJYLUdzOElrekFQcXNJeWZURU5YX2ZOeUYzY25vTGZVYVFEQVFxLTgzMV94V0F0N0J1VUIzcEdWNnVzZUl5dHFzSmltbXpZNE8tLU0wVG1aTmE3elJLUi1vTWxHT0VOd0VDY2xpVmx6ZEhaOEJHbFV3T3FTRFZnZ2VpOGNnVnIyalBrTGdvVkI0dzd3a2ZnZHQzOEdqUXItMEdvNlMzVnNaeFNzak5valoyam9GdA?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
 
-來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
+來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1dObmZhQUl6OXpVei00Wm5QUTYxSXk0WVB6TmlSUUJYLUdzOElrekFQcXNJeWZURU5YX2ZOeUYzY25vTGZVYVFEQVFxLTgzMV94V0F0N0J1VUIzcEdWNnVzZUl5dHFzSmltbXpZNE8tLU0wVG1aTmE3elJLUi1vTWxHT0VOd0VDY2xpVmx6ZEhaOEJHbFV3T3FTRFZnZ2VpOGNnVnIyalBrTGdvVkI0dzd3a2ZnZHQzOEdqUXItMEdvNlMzVnNaeFNzak5valoyam9GdA?oc=5)
+
+---
+
+### [Vous pensez qu’un verre d’alcool de temps en temps est sans danger ? Une étude sérieuse remet tout en question - Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXpmSGxkaFNMTUhrUVdFU3kycXRORTUzTzVTZFJqR3MtNHpTVnlWNWt4YnAzZ3d5X3RlUEFfVUZrZnhiZTB2YTZ6VGNaMWRBcnVyX09FYTl4cmJsZTUtXzB6V0NYRXVUeUZ6d3JDSTFrVDlSNW5RRnZBMVkxSnoxTUt1THRFUmRQYmNjNkR3?oc=5)
+
+2026-06-10 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXpmSGxkaFNMTUhrUVdFU3kycXRORTUzTzVTZFJqR3MtNHpTVnlWNWt4YnAzZ3d5X3RlUEFfVUZrZnhiZTB2YTZ6VGNaMWRBcnVyX09FYTl4cmJsZTUtXzB6V0NYRXVUeUZ6d3JDSTFrVDlSNW5RRnZBMVkxSnoxTUt1THRFUmRQYmNjNkR3?oc=5)
+
+---
+
+### [Light-Limos laut Studie nicht mit Leberkrebs verbunden – zuckrige Softdrinks schon](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE4xM0QtWkF0c0JrMVhkaXdYb1B3M3RndUVoNktLZkFDSjA0d0tBSzMxUDRueUQxZmxoOFk3UXc5Vzl4WXExMjZwc1lJQ0FRRE1oUDFMLU9fT0lHS3llZFFTenRzVFc3WXBoXzVkSGJFQ3hxdHpqN0JaQzlDMjBxekJUNjZvWDhselF0cFQyTUtvVDdrTXpESGQzaVhsR0hDNnh6d3pFeXFKMS01VWR3bWRpcmdFNERMMkZzd3BBTWkwUG5wbWxCdA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE4xM0QtWkF0c0JrMVhkaXdYb1B3M3RndUVoNktLZkFDSjA0d0tBSzMxUDRueUQxZmxoOFk3UXc5Vzl4WXExMjZwc1lJQ0FRRE1oUDFMLU9fT0lHS3llZFFTenRzVFc3WXBoXzVkSGJFQ3hxdHpqN0JaQzlDMjBxekJUNjZvWDhselF0cFQyTUtvVDdrTXpESGQzaVhsR0hDNnh6d3pFeXFKMS01VWR3bWRpcmdFNERMMkZzd3BBTWkwUG5wbWxCdA?oc=5)
+
+---
+
+### [Krebsproteine stoppen, noch bevor sie entstehen? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRnMEpZODZJT1lkb0U3SkVMdmdNYnMwS0pQLWN6OURPQXVTalJnSU5nSWJKNGZpenpkVVoyemNENE9VYUhaUHVjWlNLWWd5T0xoRkhFUE5BRk5YMHlRTmpfMmoxc1k0Q3p4blBGQi1jbG50dUtUTGVyT0ItaFBUemJpUXV1N3JrcHhMY0xESlYzdTdHV1AydVJqVjdLM1hmdUEzRGRRYw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRnMEpZODZJT1lkb0U3SkVMdmdNYnMwS0pQLWN6OURPQXVTalJnSU5nSWJKNGZpenpkVVoyemNENE9VYUhaUHVjWlNLWWd5T0xoRkhFUE5BRk5YMHlRTmpfMmoxc1k0Q3p4blBGQi1jbG50dUtUTGVyT0ItaFBUemJpUXV1N3JrcHhMY0xESlYzdTdHV1AydVJqVjdLM1hmdUEzRGRRYw?oc=5)
 
 ---
 
@@ -70,11 +94,11 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [La pista escondida en el ARN que podría ayudar a tratar y frenar el cáncer de próstata, el tumor más frecuente en hombres](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1Ytc3I0bl9TMmpuRWU5Ym1OcE5hbkFYZlZZT2xaMUtHR01lZzd0OGNkZFFnVVV6bEp5Qlp5SGJsMTl4VjlrLXI5N00xVnVlVU1JM0pDVFVGY08tNXpoTlhTVzB2bG9od0dmQklUMDlhcFZkZWg1b2N0ZzVYSkhTLWlRZllNSWVPdTJZNHVVUzhNYXM2LUozMWV2U3QzMjhPWEQ2Z01jQU83LW91Q2t6a0NuNXFsYVBDZDZrTHIzaFdfZEJNbjZNX0sxSnhqZU5sSGRCbWtQZE5MTzVa?oc=5)
+### [Israel desarrolla un tratamiento revolucionario contra el cáncer, basado en una terapia que frena tumores sin usar medicamentos - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1Ytc3I0bl9TMmpuRWU5Ym1OcE5hbkFYZlZZT2xaMUtHR01lZzd0OGNkZFFnVVV6bEp5Qlp5SGJsMTl4VjlrLXI5N00xVnVlVU1JM0pDVFVGY08tNXpoTlhTVzB2bG9od0dmQklUMDlhcFZkZWg1b2N0ZzVYSkhTLWlRZllNSWVPdTJZNHVVUzhNYXM2LUozMWV2U3QzMjhPWEQ2Z01jQU83LW91Q2t6a0NuNXFsYVBDZDZrTHIzaFdfZEJNbjZNX0sxSnhqZU5sSGRCbWtQZE5MTzVa?oc=5)
+來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSEIwdE01TWw3aFh3X3VSVVNnNTVxZWY2UFgxc2xBZGJITGUwSjRkRVdCYi02RTZ1WnJOcWc2NjRYNE9iamRpQ0N3eXU0NUJNUzdIVEY0RDVWLV9VeTgxUVg2VGgzaG80N2s3OEVQVzlMQ0kzaHo3NHJ6c25tbTkybkltREEzR24yRC01dzNWSm9QcTRsQXJaSXladm5aQ0xmX0ZkREFtYnN5aG5tbFh4T2FPbjJYei00Q0VyUklOdlZQS1djWXJINWNlNmlqYUVYWjROejdVRXVaM0tQRFhraVZZVExHTUZBd3MycWs1R0I0MGZEMXhpTUFGdFBGSW8?oc=5)
 
 ---
 
@@ -102,19 +126,11 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Spedali Civili, cosa significa essere Comprehensive Cancer Center - Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
+### [Kann mit Bepirovirsen eine Hepatitis-B-Infektion geheilt werden? - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
 
-2026-06-10 <span class="news-indication-tag">cancer</span>
+2026-06-10 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblppTi1WZkw2bmh5ZUtyN21WZEptS0hzZDkwOC1hUEdVSW4wYVRLRTYybkhqLTRPNG0wWXEyb1FScE5XaC05NFBvSjRfZmxKTGNySGwzQko1NzR3dmNlSFFNaTVPQzNfczJXOUpEMkxuTlZBd0RaODZWRUg3NWh3UmlWZGpBbmZBLUN1Qjd4QW1lTVdQLVpKVENoTVptUC0zRjVRRUhxT1J2d0RYWUpSNVZ3U2VKYm8wQ1E?oc=5)
-
----
-
-### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
 
 ---
 
@@ -136,25 +152,17 @@ permalink: /news/baloxavir-marboxil/
 
 ### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
 ---
 
-### [Un inhibidor proteico de RAS induce regresión en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJKdFBiVTBkVEFkQnJQWGFMX1duUTJXaHR0QTBpelhJWDdkblljdlFtYVVSSTdJTGV0cW8tWkRZTEhEMzNhN200ZzExV3p6bVBUTlppem5LRXI4WkFKUkctandlQS11T3FpV0w3bThHQ08tRWR3QjRlSEg0b1JBVGVyR0hXVFpuTG1razVjU3ZXakxYc015X2RPMjF5RkJGeVltS01ycXZwVFBpaXVQMV9UUm5XbUliNU1YRm1B0gG4AUFVX3lxTE5iVDRJVVl2WXB6WmlHTERtTzcyMFQ5a1BmUHJ3S0ZuTGZSb2lsTFc4VUI0UWxIYkh3c3ZtTzZveHRNV3Y2ai1tTWM0dmNrT25GN29ISklqNF9tei03RUtUX3hVNlB6TzYzT2RLU0VvVTkzaFhtQVN5VTVPbGl4SjRlekF4bElvSWpTMVFxNGEyTHJZbVdjTHFfcG9QOFZJSWlOX2NzbnMyVmF4QVFRbVFkLV9CRjhCTWs?oc=5)
+### [Diabetes und Herzerkrankungen: Neue Diagnostik senkt Risiko schneller - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
-2026-06-09 <span class="news-indication-tag">cancer</span>
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVJKdFBiVTBkVEFkQnJQWGFMX1duUTJXaHR0QTBpelhJWDdkblljdlFtYVVSSTdJTGV0cW8tWkRZTEhEMzNhN200ZzExV3p6bVBUTlppem5LRXI4WkFKUkctandlQS11T3FpV0w3bThHQ08tRWR3QjRlSEg0b1JBVGVyR0hXVFpuTG1razVjU3ZXakxYc015X2RPMjF5RkJGeVltS01ycXZwVFBpaXVQMV9UUm5XbUliNU1YRm1B0gG4AUFVX3lxTE5iVDRJVVl2WXB6WmlHTERtTzcyMFQ5a1BmUHJ3S0ZuTGZSb2lsTFc4VUI0UWxIYkh3c3ZtTzZveHRNV3Y2ai1tTWM0dmNrT25GN29ISklqNF9tei03RUtUX3hVNlB6TzYzT2RLU0VvVTkzaFhtQVN5VTVPbGl4SjRlekF4bElvSWpTMVFxNGEyTHJZbVdjTHFfcG9QOFZJSWlOX2NzbnMyVmF4QVFRbVFkLV9CRjhCTWs?oc=5)
-
----
-
-### [Antisense-Wirkstoff Bepirovirsen kann Hepatitis B häufig kurieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
-
-2026-06-09 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
 ---
 
@@ -163,14 +171,6 @@ permalink: /news/baloxavir-marboxil/
 2026-06-09 <span class="news-indication-tag">cancer</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMingJBVV95cUxPaFF5MzJUdUp5U0tSTG9JUjVoOFFiUTIzRlRMZjkySDRaZTdweHFINTAweV9wZ0E1Qmh2YXhkRkJsWWNBRnZpdzhYenRiemlrWjVFVlo4ZXFfNGhkZ0xNVkNqck1qbEttSF9GSThCelMza2RvRXowV2lWekdaYlYxMXhMbXZtWXQyRWY3azlsVDIzeU9kVUxJcy1RN3o1cmY5V1hmM2ZwX0hjTVJtZXMteFFxcDJQdzAyTnEyNml0RngxUWVEMGFFU2ZGSGRlVHhXWDNMbEJzWDNWeVZvNV9WRG5rUGxBYk02MklYUzlyajh6aDNTTnZJelpYelNBVllsM0t5RC1GZm9ZdWVXU18xSlF4U1dkQ0pQSGpndGpB?oc=5)
-
----
-
-### [Früher Brustkrebs: OPTIMA-Studie erweitert Evidenz für De-Eskalation](https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE9wbEdzd3A5Yi13M3FSZTZsODVYOExNRW5QTUxCaVp0aWlUVnJxY0lOV2kwNlhmUFV2X2RFc3MtVVRLTlR1T3VJR191SnQ3RDlvd1Z4NjY3YVZCTXZ6eE9lcjZZT1dDclNQdEQtZms1bW1vLUFFOFh1cXlCZHZBdlpaVnhqNWlOZkptMXJIN2U0ME9VRFM0Vi1icnBEdWdpcGFuQzQ0TjIwLUpBemYxOWFpcDcyczJjQ0d1RXBPUF9jdW5QNU8w?oc=5)
-
-2026-06-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE9wbEdzd3A5Yi13M3FSZTZsODVYOExNRW5QTUxCaVp0aWlUVnJxY0lOV2kwNlhmUFV2X2RFc3MtVVRLTlR1T3VJR191SnQ3RDlvd1Z4NjY3YVZCTXZ6eE9lcjZZT1dDclNQdEQtZms1bW1vLUFFOFh1cXlCZHZBdlpaVnhqNWlOZkptMXJIN2U0ME9VRFM0Vi1icnBEdWdpcGFuQzQ0TjIwLUpBemYxOWFpcDcyczJjQ0d1RXBPUF9jdW5QNU8w?oc=5)
 
 ---
 
@@ -214,27 +214,11 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Fettleber wird häufig unterschätzt](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DNHA4RTZnemVmNGdMQmgyWk1WdmZhc2Vybnplcm5OeHE0STdWRFlwMVBNd1I1MDJQT21BaEd0bzNrRjN2OUxhZ3ZHVlJROHNUUTFKejI0RTlQRUZlbzNVZklWdFlNam9HUFJDblVOM1M4MVlUMVE?oc=5)
-
-2026-06-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DNHA4RTZnemVmNGdMQmgyWk1WdmZhc2Vybnplcm5OeHE0STdWRFlwMVBNd1I1MDJQT21BaEd0bzNrRjN2OUxhZ3ZHVlJROHNUUTFKejI0RTlQRUZlbzNVZklWdFlNam9HUFJDblVOM1M4MVlUMVE?oc=5)
-
----
-
 ### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
-
----
-
-### [Tumore al pancreas, un nuovo farmaco raddoppia la sopravvivenza media dei pazienti - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHU2TlNFdGpSMnNkLS1JSFJwaFd5UkZldmstQjg4dnpkMFV0NXRfbnEzU052OVl0VTJaZHNnaGppdkFJTGEyYnhTWkNGUUVfZzgtSjlpd2dWRlJKR2tpOXpHMnN4d2U0UzBnQ2FWb21RSnVVWEJpV1RCS1BMVFFoS1ZSSW9IaGRVZVUtRmhOZ1dHRzhoelVOUjFvUGtmTDdDVmxOYTJ1VkxrSEFuYkRNS2hPbllCNW0zbGN1OEN1M043Z3BWeV9qUVJXQjFmQzhKNHc2NVFKTE15aGo2aGt5V2lR?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHU2TlNFdGpSMnNkLS1JSFJwaFd5UkZldmstQjg4dnpkMFV0NXRfbnEzU052OVl0VTJaZHNnaGppdkFJTGEyYnhTWkNGUUVfZzgtSjlpd2dWRlJKR2tpOXpHMnN4d2U0UzBnQ2FWb21RSnVVWEJpV1RCS1BMVFFoS1ZSSW9IaGRVZVUtRmhOZ1dHRzhoelVOUjFvUGtmTDdDVmxOYTJ1VkxrSEFuYkRNS2hPbllCNW0zbGN1OEN1M043Z3BWeV9qUVJXQjFmQzhKNHc2NVFKTE15aGo2aGt5V2lR?oc=5)
 
 ---
 

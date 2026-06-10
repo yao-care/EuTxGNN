@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Doppelt hält besser: DAPT nach Schlaganfall - mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
 
@@ -70,27 +70,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
-
----
-
 ### [Why midlife is the danger zone for having a stroke (and how to avoid one) - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
 
 2026-06-09 <span class="news-indication-tag">stroke</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
-
----
-
-### [‘Stroke and brain injury? We are potentially sitting on a time bomb’ - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
-
-2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
 ---
 

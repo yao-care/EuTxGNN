@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（7 則）
 
-### [Obesità, Francia rimborserà farmaci a pazienti gravi. Sio: “Anche l’Italia segua questa strada"](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYTFocE1PQXliSV8zNF9xbmZDbGxuUXhfRkpsUWhwVG5FcjlsTXJfdkV0Q1Fib0JHdDdseEVURUF5NUw3VUlCRlluQjgyN3BJT2hNT0ZzOG51V09xenlCenc2WXVZQVhqWU9Sd0ZydURYZWdyMS04Z1VEQURsaGhfbnFLLW9oWmV3bUd6UXE2YzY5SWljMDJnSmozSzBUdGR3d0dMMDFlUndNY18wbUwzREVwbmxVcEVzcHIyYWJDMHFHSEs5MnpXUUR0ZERweDBxNFhfdWRZSjY3MHZmX2JHUmN2M21UQ1dYemwwX3JVX25UWlpCZDFHd0g3VmlPTEtX0gGGAkFVX3lxTE9pdHNudTZxWnhyMEFEczl1T3Z1d1U2VDJSU3pxaE9BZTlOTC1jd0Y0OEV0S2djVWdRZHZ0S1p4QVZ1cmZLN0FvWDdjUEhYVkpGZUw2c0ZnaXB6S3VGbW9GZnJZZmtjcGdScmtVOUlBLUlmS3I5OXNwSjZGQWl6dlhjVzBXaTZKM2l5c0NvM0Vmb3lUVkpNcXEyWG91dmRwdkczeUFRMjM5R3hWbTVOSnAxYzAxNEgxNkpDVGpwTk9QMTV4WFJlMnlPd05BWGdzUHAxbXZPZHZqNDcxMkQ0U1hhYTREcnhhX2s1SU9pWVFqZEc4YzFWbEJUREF2S3lmaEhvQmNseHc?oc=5)
+### [Deux nouvelles approches permettent de limiter la reprise de poids après un traitement contre l’obésité - Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
 
-2026-06-10 <span class="news-indication-tag">obesità</span>
+2026-06-10 <span class="news-indication-tag">obésité</span>
 
-來源：[RaiNews](https://news.google.com/rss/articles/CBMigAJBVV95cUxOYTFocE1PQXliSV8zNF9xbmZDbGxuUXhfRkpsUWhwVG5FcjlsTXJfdkV0Q1Fib0JHdDdseEVURUF5NUw3VUlCRlluQjgyN3BJT2hNT0ZzOG51V09xenlCenc2WXVZQVhqWU9Sd0ZydURYZWdyMS04Z1VEQURsaGhfbnFLLW9oWmV3bUd6UXE2YzY5SWljMDJnSmozSzBUdGR3d0dMMDFlUndNY18wbUwzREVwbmxVcEVzcHIyYWJDMHFHSEs5MnpXUUR0ZERweDBxNFhfdWRZSjY3MHZmX2JHUmN2M21UQ1dYemwwX3JVX25UWlpCZDFHd0g3VmlPTEtX0gGGAkFVX3lxTE9pdHNudTZxWnhyMEFEczl1T3Z1d1U2VDJSU3pxaE9BZTlOTC1jd0Y0OEV0S2djVWdRZHZ0S1p4QVZ1cmZLN0FvWDdjUEhYVkpGZUw2c0ZnaXB6S3VGbW9GZnJZZmtjcGdScmtVOUlBLUlmS3I5OXNwSjZGQWl6dlhjVzBXaTZKM2l5c0NvM0Vmb3lUVkpNcXEyWG91dmRwdkczeUFRMjM5R3hWbTVOSnAxYzAxNEgxNkpDVGpwTk9QMTV4WFJlMnlPd05BWGdzUHAxbXZPZHZqNDcxMkQ0U1hhYTREcnhhX2s1SU9pWVFqZEc4YzFWbEJUREF2S3lmaEhvQmNseHc?oc=5)
+來源：[Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
+
+---
+
+### [Come cureremo diabete e obesità nei prossimi anni? Ecco il futuro delle terapie - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
 
 ---
 
@@ -70,14 +78,6 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
-2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
----
-
 ### [Si te duele la cabeza al comer helado, la ciencia tiene una explicación y una advertencia - Diario AS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWGxCNGN6S0k5SW1YRU4wZk1aWEE1ZmZ1b2lkdmZhWEhfR2tXZFNvUlExODJqUDliU2Z1RG5IUFVZNEhsMXJVLTRUMzUzUEVrU0gyVFRsZnE2RFk0NEpmcm0yQl9VSkRvRXoxNUF4UjJHbHV1em5ubzM5bHpLcFdsbDBjcFJURDVrNUtxc1RMeUhRRHExMms0VVJUQ2N0OWtPSjFvd2hiUi1NYnVCUHlKSHQ4cVhYcUNLMndHelZER3FNYWFkbnVXTVdZRTVrd9IB4gFBVV95cUxPTmVnd0R1dGR6ZFdtY3ltX2htZ0ZWSFRlNlVkQkZhaXI5QllXUi1YZ0JDOE83TE9DbUp1RS1Cbk1mRXVPeGgyWXQ3dzJkOFpvVllyd2w0bTlCa2stTjM1RWZVTG9oSDhwNmRXM3h1cUFnWWJEc25zSzV0YTJub0NYRnV4ckRjT3JCRk5rT3RhejMyYUFsT3UzUjVNZFFLWUdqTmZ1ZG14YURySk5pNGJ6dENZRkU1UXhHRFdUM3FwdV9lREoydU5PeFM4SGV0d0pnU3ZVeWxnNFYwMXBlbzhxNmx3?oc=5)
 
 2026-06-10 <span class="news-indication-tag">migraña</span>
@@ -86,35 +86,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Le 15 juin va tout changer pour des centaines de Français : ce traitement est enfin remboursé !](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
-
-2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
-
----
-
 ### [Los avances en obesidad chocan con una respuesta sanitaria y social poco acorde a su complejidad - Somos Pacientes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3NjckQwU0paSVVWY0xWSWF5aTNUdERxM1M0dUlWMDVjWS1aM1NoS193UnMyQjlxQkw5MXlRb3ZQZlp3RlBWbnZ3S1htSDFUNFVNZERyN1BGQ3pYRDNFYVdyR3FCUDk2Y2V4MnpHZHpaMU1MOHkyeWs5OG0tNHRUemhBSU1mWjZjaTRNZFVocG5ucWItWFBQc2xHZTB0TUhabFQ4aEE0NXpRaW50MDNGTllTcHZoaThyaUg2dTdycGVRV21pUEx2S2NkVjhaUU4xQzdzTVFDc1pfYjB0Y3hjQ1IzVWozNzR2RDhJ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">obesidad</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3NjckQwU0paSVVWY0xWSWF5aTNUdERxM1M0dUlWMDVjWS1aM1NoS193UnMyQjlxQkw5MXlRb3ZQZlp3RlBWbnZ3S1htSDFUNFVNZERyN1BGQ3pYRDNFYVdyR3FCUDk2Y2V4MnpHZHpaMU1MOHkyeWs5OG0tNHRUemhBSU1mWjZjaTRNZFVocG5ucWItWFBQc2xHZTB0TUhabFQ4aEE0NXpRaW50MDNGTllTcHZoaThyaUg2dTdycGVRV21pUEx2S2NkVjhaUU4xQzdzTVFDc1pfYjB0Y3hjQ1IzVWozNzR2RDhJ?oc=5)
-
----
-
-### [Deux nouvelles approches permettent de limiter la reprise de poids après un traitement contre l’obésité - Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
-
-2026-06-09 <span class="news-indication-tag">obésité</span>
-
-來源：[Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
-
----
-
-### [Ozempic y Wegovy se asocian a un 41% menos de riesgo de cáncer en personas con obesidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajhTRDN5UlVneEhmNFZrcFpvMG9OUThqY1FYZlUzUnRWdXBWbklKUXYtUVJCTmlqTHdvbVh1UDNreFZpX1JDY19GWTBJLV80SUtkMzFUcTRVd29zeDNIS2J1aC1ZNllFM25FTHZNd2xlblpiTm0yakNKNGZSSXAzTFJSOFBuaTNVQm1HWTJNUkJteUJlMWplR01KOFk5UUFab0d3ejRjbk9TYm01YmVHb25LRXZ2eTZOeHhoN2VKbXlDWk9Vc3N0YTdfalYteFhzNS0w?oc=5)
-
-2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajhTRDN5UlVneEhmNFZrcFpvMG9OUThqY1FYZlUzUnRWdXBWbklKUXYtUVJCTmlqTHdvbVh1UDNreFZpX1JDY19GWTBJLV80SUtkMzFUcTRVd29zeDNIS2J1aC1ZNllFM25FTHZNd2xlblpiTm0yakNKNGZSSXAzTFJSOFBuaTNVQm1HWTJNUkJteUJlMWplR01KOFk5UUFab0d3ejRjbk9TYm01YmVHb25LRXZ2eTZOeHhoN2VKbXlDWk9Vc3N0YTdfalYteFhzNS0w?oc=5)
 
 ---
 

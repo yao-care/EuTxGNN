@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（12 則）
 
-### [Semaglutid reduziert Alkoholkonsum bei Adipositas und Alkoholabhängigkeit - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
-2026-06-10 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3NuSzFUYnppMFo5MU9tSzhqV1gtcnVycmFsZ2VHV21wVnkzdlhXNi1XUlNUZ0pHTngySFBwekZlM21NLWJQc2VlN1NMeHFvaktHQkF3SXVwcjkxYm5LRFlQYUpVZEo4b0lKWXpqaWhOVnF5X1l5Y0JSdC11aXIzZGxvRHFjZFhCUG5IUDdPdUZCdw?oc=5)
-
----
-
-### [Vaccination ‘should replace badger culls’ to end bovine TB - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
+### [Darmmikrobiom-Metabolite als potenzielle Marker früher kognitiver Defizite - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2h1bmlGNDJ5ZGFuM3N5WDYzYzVEcUwyYUpMbEJ5SGRTSEROcEZRUFZCTzE1QmwySUJYTmt4WUczYmdVYV95M3ctV2s2SmUyQzBHOFctRk5zQlpaNWdiNlJuRlZIU2lYYWpQa3lKcTBfWF94aWdRLW9COGF4RnVWXzNIcXJJOFVqY0ZyelcyclNYdw?oc=5)
 
 2026-06-10 <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2h1bmlGNDJ5ZGFuM3N5WDYzYzVEcUwyYUpMbEJ5SGRTSEROcEZRUFZCTzE1QmwySUJYTmt4WUczYmdVYV95M3ctV2s2SmUyQzBHOFctRk5zQlpaNWdiNlJuRlZIU2lYYWpQa3lKcTBfWF94aWdRLW9COGF4RnVWXzNIcXJJOFVqY0ZyelcyclNYdw?oc=5)
+
+---
+
+### [Kann mit Bepirovirsen eine Hepatitis-B-Infektion geheilt werden? - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
 
 ---
 
@@ -78,6 +78,14 @@ permalink: /news/teriflunomide/
 
 ---
 
+### ['I'm a doctor - if I had high cholesterol I'd eat these 4 foods' - Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlVBSkRpQ2tzM2lwQk9FSUhmUnAzLTg0ekdDTnZja0gzWDJrdXUtZ1Bkb2E2UFREMjYyV2pLaFdoMm5QeUlTN1dPTVotaERmbDhqU1dYRk9uR1BCM2pNZEM0MUcxOHNGendCV2poWWIxQkwxclB6ZzlqUEJpS1hqQldDSng0alnSAYwBQVVfeXFMTjVna2tCSndKdk1xeDBzdGNLQmxqbndJQmhvZ1dSSWJxWTZ2RFQxaVhIODdWQXhDSk9VN1RERC1GdFp2a0dScC1ubDJGTjk0VlFqNHg5bXpnUWRLQy1WM294Q2M4akI5Qy1PTWxsUzlyVDZTTDkzV1Y5U3hYWUhtX0EzTzdSRXlGSEUzb1Q?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlVBSkRpQ2tzM2lwQk9FSUhmUnAzLTg0ekdDTnZja0gzWDJrdXUtZ1Bkb2E2UFREMjYyV2pLaFdoMm5QeUlTN1dPTVotaERmbDhqU1dYRk9uR1BCM2pNZEM0MUcxOHNGendCV2poWWIxQkwxclB6ZzlqUEJpS1hqQldDSng0alnSAYwBQVVfeXFMTjVna2tCSndKdk1xeDBzdGNLQmxqbndJQmhvZ1dSSWJxWTZ2RFQxaVhIODdWQXhDSk9VN1RERC1GdFp2a0dScC1ubDJGTjk0VlFqNHg5bXpnUWRLQy1WM294Q2M4akI5Qy1PTWxsUzlyVDZTTDkzV1Y5U3hYWUhtX0EzTzdSRXlGSEUzb1Q?oc=5)
+
+---
+
 ### [New Study Exposes Problem With Protein Products As Experts Warn Labels May Mislead Consumers About Benefits - Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBiaUw0TVRnWDNNMU9ONzBmZUM3Zkt6N2dZOG91M3FxNy1XUTJHemNVa1BPQWc0TGVZM0FJMGlxMGxMZlVLMFFydjVKMFlIbzgyYkNMQ0Q0QThzaXFrUUtFaHpiNmFid2phQ21kQ0lGSkRIZ1BxdVJwV2dwUk5PaWNoZUNBSUN5R2R4c00zRFp5VVNmb0xmaXRB?oc=5)
 
 2026-06-09 <span class="news-indication-tag">MS</span>
@@ -86,27 +94,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
-
----
-
 ### [Incrementar el conocimiento sobre deterioro cognitivo en esclerosis múltiple, clave para su detección, abordaje y seguimiento](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVJoVDNHdHJDLXU3d1RjSWpQRUZhMlJZMnhOSFV4eVIxU25HU1pQcW5LeUgwWHpjRTZRTWZmMWdkdHZOTzM3ek5Vd05OenBzWkhwZHRZRjZFMzBaandtTGUwMnZmZWFXZ2dJeWRPOHBCNDl6MEFHcXhZNFlaamtSTC0wVmZOV3RaSWRBeXJXV1JxRDhObFUyNWx4SjBfemozOWpzVE1zbUZLdnQ3cHJ2Q1hTQmZfb0hRMGdKNVA0MVg5OHFEdmJRc053NGF5a254UFJTMjl0VHRVSEx2QTF1aEFmZ1plVUE?oc=5)
 
 2026-06-09 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVJoVDNHdHJDLXU3d1RjSWpQRUZhMlJZMnhOSFV4eVIxU25HU1pQcW5LeUgwWHpjRTZRTWZmMWdkdHZOTzM3ek5Vd05OenBzWkhwZHRZRjZFMzBaandtTGUwMnZmZWFXZ2dJeWRPOHBCNDl6MEFHcXhZNFlaamtSTC0wVmZOV3RaSWRBeXJXV1JxRDhObFUyNWx4SjBfemozOWpzVE1zbUZLdnQ3cHJ2Q1hTQmZfb0hRMGdKNVA0MVg5OHFEdmJRc053NGF5a254UFJTMjl0VHRVSEx2QTF1aEFmZ1plVUE?oc=5)
-
----
-
-### [Antisense-Wirkstoff Bepirovirsen kann Hepatitis B häufig kurieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
-
-2026-06-09 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQbW5HOEhaM3N6MDE4aENkRWNvZzNMcDMxOVRDajFYd2dfdkVkdlZSYThqZE1YMlE4bDBsNTVvdWw0ZmN2VXFic0VOcGlNZmF6VE5HTV9kNjZXWGlMRllpRHhyck5oTzlHdjdjSkhNNEtuS2Ryd096QUFBVGV1b1FXSlZZeThOUFY5U0Ffc0tVWlBCZ01vdEhXM2lBM0NxUzhYVEYyMG1vbkVKZVJPQlhHcFFwVHhobWI2OEJsSGFmVnlvTGxnR0lsRTRGdFFXT00?oc=5)
 
 ---
 
@@ -126,19 +118,19 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Sclerosi multipla: la “malattia del bacio” aumenta il rischio di sviluppare la patologia - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGQ0R19NTGxNSkpBZjFGRkRwNUVmY3Y0dVNyWVR3RDhjMEVsTmFJZ2JjVnNkQWV2TWdrRkJVTzNQb1ZZQ1hCOWZxb2MxNHluanVMY0ZXcW1xYVpwZk16VTJ2NXVZNGxhWWVZRDlhRnRXcWFCZUtwMlNYNjc4T1hieHAtcGtzTlhTUERzNWF6M21MVVkyOE9nSndMVDVLVXdXSm96NENaeF9XUzRHcGxZU1hTX3d0THl0UUdGNWlUYWxkbjIzOHc3SHo2WWpWUWlVWG5VWDBB?oc=5)
+
+2026-06-09 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVGQ0R19NTGxNSkpBZjFGRkRwNUVmY3Y0dVNyWVR3RDhjMEVsTmFJZ2JjVnNkQWV2TWdrRkJVTzNQb1ZZQ1hCOWZxb2MxNHluanVMY0ZXcW1xYVpwZk16VTJ2NXVZNGxhWWVZRDlhRnRXcWFCZUtwMlNYNjc4T1hieHAtcGtzTlhTUERzNWF6M21MVVkyOE9nSndMVDVLVXdXSm96NENaeF9XUzRHcGxZU1hTX3d0THl0UUdGNWlUYWxkbjIzOHc3SHo2WWpWUWlVWG5VWDBB?oc=5)
+
+---
+
 ### [„So kann man bis zu 15 Prozent der Kalorien einsparen – ohne Ernährungsumstellung“](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
 
 2026-06-09 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVlQcVVrVmI3Rmtpd3I0aTQ4YjdNSEFPR2lacW9kVE5lN20ycEM5TmdCcl9STFc1b0JBaEJzLXJKVXdXNDNyWTAwbXo2anI0My1TZHpYQTdBX3NkZllJakNvWmRiNzl4aVltdUVlRzN0WlFxNVdpVU1odkxMX2pQVmJGM0w1VzlieGVURWNIRzhmN0EzWm9kYU5nS2FaRXFoeWo5aGtjNUh3Y3QtYnN3U3ZJM1pJVmpHLVhhMl95RzhjandrOVZOdGtITjIwZnJZY1FzaTNPcGZ5TUM2ZmE1RlhwM1lDZ0hDOUQxay1FVUQyVnp2VW5FQUd0cWFZRGZiTmowcmxwanA?oc=5)
-
----
-
-### [The best fruit and veg to slash heart disease risk revealed - full list - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
-
-2026-06-09 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdUp4Z29IMkFCbDM5SHVZUHBOTndKSXAzLWlKVFRfOVhFYzlBdFotOHR4WUhXbkdocFpCRjM1eDZMTGIxU0xDTGM3ZjdEeFZvZVlNWFRKSjZIdk9HUkpzenhvdGk0emZ2UzlSZktOUDY0aUc3akhLc3g4VG1YWHNHMnY3aGZmUlJGMDhLLXM3QVc2cWfSAZgBQVVfeXFMUGpod1RuWEU5dEVXdHBXdjFNSGhBNGRHTkpudHVrVXgxZVNfZDUyS1JUTFVLdGZEZkl4MVZuWDlGS05MdEdfX3dnNXpJeFpEaXBLWkxwSVhMQUNtT3NPNXR0MmpsYTBkZnkybFdrY2ZaQmlLa1BEdGJOaGt1ckViOGl5bjZjcHk3N2gtZ0hTWmZFbVkyUHVYc1k?oc=5)
 
 ---
 
@@ -155,14 +147,6 @@ permalink: /news/teriflunomide/
 2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
-
----
-
-### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
-
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
 ---
 
