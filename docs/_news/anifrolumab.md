@@ -54,11 +54,19 @@ permalink: /news/anifrolumab/
 
 ## 相關新聞（5 則）
 
-### [Schon ein Light- oder Zero-Getränk täglich erhöht das Diabetes-Risiko massiv](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
+
+---
+
+### [TB vaccine from the 1920s shows promise in diabetes trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dEJOMFVuM2VyQ3VyM0VYYWh3RGR3bjQ2S0dHeE5fbUFOU2VMS1ZsREtvOUlSd2liVE9CRjVDWXBEU2xYY3IydVFxZDVScGFiTkIwX05kU3UtM0l0Mzdr?oc=5)
 
 2026-06-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[Aponet](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dEJOMFVuM2VyQ3VyM0VYYWh3RGR3bjQ2S0dHeE5fbUFOU2VMS1ZsREtvOUlSd2liVE9CRjVDWXBEU2xYY3IydVFxZDVScGFiTkIwX05kU3UtM0l0Mzdr?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/anifrolumab/
 2026-06-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
-
----
-
-### [Resistencia a la insulina: el paso anterior a la diabetes que se puede revertir](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
-
-2026-06-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
 
 ---
 

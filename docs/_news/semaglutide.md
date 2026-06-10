@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### [Schon ein Light- oder Zero-Getränk täglich erhöht das Diabetes-Risiko massiv](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
+
+---
+
+### [TB vaccine from the 1920s shows promise in diabetes trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dEJOMFVuM2VyQ3VyM0VYYWh3RGR3bjQ2S0dHeE5fbUFOU2VMS1ZsREtvOUlSd2liVE9CRjVDWXBEU2xYY3IydVFxZDVScGFiTkIwX05kU3UtM0l0Mzdr?oc=5)
 
 2026-06-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[Aponet](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnczSkxnekl4b2dEZ0ZMc1ZDeHNSZ3cyUlFUTEZYMnJyNmxzZGRzOEZ0UHpSYl9HeVRFNDhTbUlnaTFSbF82YlRHbHVkekNraEhMX0wzZ3FTbFF5a3poTFdfVHRwSC1GaWJWem9kT0ZWZW4wbnVyeUdJY2ZNV0RXdE8tc0pXZU55Zm9BN3VEMEY1ZlFNUmt5TkkzZDIyVEtvNHlWbG1LSlR4T3VfUHZGZU9nazg?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dEJOMFVuM2VyQ3VyM0VYYWh3RGR3bjQ2S0dHeE5fbUFOU2VMS1ZsREtvOUlSd2liVE9CRjVDWXBEU2xYY3IydVFxZDVScGFiTkIwX05kU3UtM0l0Mzdr?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Ozempic y Wegovy se asocian a un 41% menos de riesgo de cáncer en personas con obesidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajhTRDN5UlVneEhmNFZrcFpvMG9OUThqY1FYZlUzUnRWdXBWbklKUXYtUVJCTmlqTHdvbVh1UDNreFZpX1JDY19GWTBJLV80SUtkMzFUcTRVd29zeDNIS2J1aC1ZNllFM25FTHZNd2xlblpiTm0yakNKNGZSSXAzTFJSOFBuaTNVQm1HWTJNUkJteUJlMWplR01KOFk5UUFab0d3ejRjbk9TYm01YmVHb25LRXZ2eTZOeHhoN2VKbXlDWk9Vc3N0YTdfalYteFhzNS0w?oc=5)
+
+2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajhTRDN5UlVneEhmNFZrcFpvMG9OUThqY1FYZlUzUnRWdXBWbklKUXYtUVJCTmlqTHdvbVh1UDNreFZpX1JDY19GWTBJLV80SUtkMzFUcTRVd29zeDNIS2J1aC1ZNllFM25FTHZNd2xlblpiTm0yakNKNGZSSXAzTFJSOFBuaTNVQm1HWTJNUkJteUJlMWplR01KOFk5UUFab0d3ejRjbk9TYm01YmVHb25LRXZ2eTZOeHhoN2VKbXlDWk9Vc3N0YTdfalYteFhzNS0w?oc=5)
+
+---
+
 ### [Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
 
 2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5)
-
----
-
-### [Wegovy weight-loss jab to be offered on NHS in Scotland - STV News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVFrVWIzMGY4alNVVS16d2V2eGNmYlpmU2lOcTA0S3lTdHJycUFORGRrM2tMNVc0VTMtcjdPbERCNTVlOHRoQXRocVhDZWVrOUg0SEdXeFFmY3pJSC0zbUxjUktuOG80c2tvZG1nS3hid1M1VThWV0hRU0t1dTY3dEJKSkNvdGloeG9HRA?oc=5)
-
-2026-06-08 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVFrVWIzMGY4alNVVS16d2V2eGNmYlpmU2lOcTA0S3lTdHJycUFORGRrM2tMNVc0VTMtcjdPbERCNTVlOHRoQXRocVhDZWVrOUg0SEdXeFFmY3pJSC0zbUxjUktuOG80c2tvZG1nS3hid1M1VThWV0hRU0t1dTY3dEJKSkNvdGloeG9HRA?oc=5)
 
 ---
 
@@ -94,6 +102,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
+
+---
+
 ### [Fatales Duo: Vorhofflimmern und Diabetes - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHJoYnNQUEhSem5ETVpGZFRBb090cXVrbk9vZDJ2c1FNN0VVTG40VXMzSWdYeXhoTG1abUNXZklpN3NEV2VucXZFVnZteHBSQU9DcFh4Y2syNzB4Z1dvam12djBNeVNMZE5BRi1kb0hGak9OUTBHM1MwQlBSSGYwbWxMWHRsMWl5ZVFkaFdySQ?oc=5)
 
 2026-06-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
@@ -102,35 +118,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Cette star a arrêté l’Ozempic après une seule injection à cause du « cauchemar » des effets secondaires - Le HuffPost](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb2hyNElWaUU1X3UxRTloVGxZVTJkNkhfbmhLYldud2ViWnZfUTFBWEVNclA5WlpJaHdLNHV0UXVYbUdqc05Pa2VldnhsbG53SEl3a29ma0JXX0hoMXZNQS1zb0JtaXBlWlN6SWZuN2hFZFdlS0pkdTlqRUlLT3FxVkwzWC1qMm43WU9DTXJsb2RYOTF4Slh4RGhRQS02RjBLUnpQNG5NQUxjZFhuc2QxNDJMbzRGUDhtSUZMRE1Rc25xeUc3MjFOVFl5bm9sd1hWb1RfNVdHN3UzdzhLcUdqMUEwbkZfcGVSSjFaTVRRMm5PSkY0SXhPU2tZYU94dVU?oc=5)
-
-2026-06-08 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Le HuffPost](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb2hyNElWaUU1X3UxRTloVGxZVTJkNkhfbmhLYldud2ViWnZfUTFBWEVNclA5WlpJaHdLNHV0UXVYbUdqc05Pa2VldnhsbG53SEl3a29ma0JXX0hoMXZNQS1zb0JtaXBlWlN6SWZuN2hFZFdlS0pkdTlqRUlLT3FxVkwzWC1qMm43WU9DTXJsb2RYOTF4Slh4RGhRQS02RjBLUnpQNG5NQUxjZFhuc2QxNDJMbzRGUDhtSUZMRE1Rc25xeUc3MjFOVFl5bm9sd1hWb1RfNVdHN3UzdzhLcUdqMUEwbkZfcGVSSjFaTVRRMm5PSkY0SXhPU2tZYU94dVU?oc=5)
-
----
-
-### [Quels sont ces deux médicaments contre l’obésité qui seront remboursés à partir du 15 juin ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnJZN3BUZGhBZGVNMTJhN25RbERCYlFQRl9mcUtNQUplMVpSb1RDanFYS21GYm93cVBlSXVSWkpZRGxEUHBKSkJOdk1mM2JFUlI3NVF1a0RLakNZVlFmSlhTTm9qMnl2cUdpM0xBanBDdG9iUGJrNE1ZeGRxVW85QUV3NzE3SFpHYTVxQS05Mzg4cmdsUzRqeV9rdmRLLWVCV0dpc3A5Z0hKZThtRFZsZU83cGl6SV90ZVozaktuLVkzbkkzWGVDZnJDdFNHQ29QcGRDWk56bFM5ZDJ2d3JhWndR?oc=5)
-
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnJZN3BUZGhBZGVNMTJhN25RbERCYlFQRl9mcUtNQUplMVpSb1RDanFYS21GYm93cVBlSXVSWkpZRGxEUHBKSkJOdk1mM2JFUlI3NVF1a0RLakNZVlFmSlhTTm9qMnl2cUdpM0xBanBDdG9iUGJrNE1ZeGRxVW85QUV3NzE3SFpHYTVxQS05Mzg4cmdsUzRqeV9rdmRLLWVCV0dpc3A5Z0hKZThtRFZsZU83cGl6SV90ZVozaktuLVkzbkkzWGVDZnJDdFNHQ29QcGRDWk56bFM5ZDJ2d3JhWndR?oc=5)
-
----
-
 ### [I’ve helped 150 people reverse their type 2 diabetes. This is how - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
 
 2026-06-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3VMN2JDZ0dTQTNONHdXODNxcVlBSnVJQ1BEbWRyajhoNTVaUVlZVENpLUc4NnU2V0lJN0llNG5RVURIS0toVFAyNGJrdjg2eERGZlhOVnVTaG5CNGJfeVo3dE5wMEZiZEUyRnNpalFRTVV4X0NQX0NjRmhPQnlkdnFhVXRnRHg0enp2bFpDMjA1emlnQTg5T1NlTHpYVGo3MTFtZmlsdlE?oc=5)
-
----
-
-### [Resistencia a la insulina: el paso anterior a la diabetes que se puede revertir](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
-
-2026-06-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEstZk84R3dfcm9IS2I5VHU0aGh2OF9vRTVoakYtdWE5T0FMbUI2V3l0V0NBT3NWR2ZtTDc0TGE0aXZLM19yUGQtOWFyUzZPSlNnNFNjS3RTNUJrVi1QdkVOMlpHOUQ1aEV2MUUxUGd5eXdFdlBMQzhpSjdyNjJnVWFJeHBxS1VtYXIxUDBfNkRIc1RXWEc0dVBQbWJYcUtGMTRVcEpPNWduWWF1VFhtSk1GZlpXRXBU?oc=5)
 
 ---
 

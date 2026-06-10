@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Le 15 juin va tout changer pour des centaines de Français : ce traitement est enfin remboursé !](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3djNWZtTjFiUFhVR08xMTY4NjVlZWFBR2VKbThFREZwelkwMG15VmFUTzVhWDN0Qnh4cFRsTHlOR3lxaUFURGprQ2VHQ2gzS1A2SXR2c2pGSTg2UnJtQWR6X3FQSXI1ZXE1WnZoN3RXc0I3WFBJLVlaU3E4MlUtQnpJcWNtaTlBRGdEb3paWHpHeTF5WjFfbkprRmxFdFRISzRTMlhQZ2p3ejVuWlJmUmpYa3RWQQ?oc=5)
+
+---
 
 ### [Los avances en obesidad chocan con una respuesta sanitaria y social poco acorde a su complejidad - Somos Pacientes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3NjckQwU0paSVVWY0xWSWF5aTNUdERxM1M0dUlWMDVjWS1aM1NoS193UnMyQjlxQkw5MXlRb3ZQZlp3RlBWbnZ3S1htSDFUNFVNZERyN1BGQ3pYRDNFYVdyR3FCUDk2Y2V4MnpHZHpaMU1MOHkyeWs5OG0tNHRUemhBSU1mWjZjaTRNZFVocG5ucWItWFBQc2xHZTB0TUhabFQ4aEE0NXpRaW50MDNGTllTcHZoaThyaUg2dTdycGVRV21pUEx2S2NkVjhaUU4xQzdzTVFDc1pfYjB0Y3hjQ1IzVWozNzR2RDhJ?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [La edad de la menopausia importa: aumenta el riesgo de sufrir un ictus o infarto - Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
+### [Las mujeres con la menopausia adelantada tienen mayor riesgo de sufrir un ictus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVI2Wm1qVW5Nd19YdHBVeURmSzZvVzlON2dZb0RVUktBWkkzalk1ME9jN3BUbHlBaVdIUFZEWXlEeXZ0am55aExOdXhINlNpakswV2xtWnZfZFdkNUxTN2o5VXVpVVpOWGtrdWVRc3JVSnVZOHo4NzZOU2J3U1N1ZnRkZ2Q0Tmh3SWZhd0pPNkFyX0JuTjlyRlNrYjY2QkpNeFI3UmhZVkZ2SXR5OEJGbm1qbUlvS2lIc3JRdWpmcW9vSVhrazhESGl5WVY2cVNJandz?oc=5)
 
 2026-06-09 <span class="news-indication-tag">ictus</span>
 
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEpCSDVXejFfYnFsX0xPLWlpMUs2dTljLWwwUnY3MDUtbGJqZm5uQnVMUkxZUzFYM0Zad0FaVmV6MTNGS1NNRzd0VGhEUWRhMWFtdDZLNU9vSXJhb2h5WFY1alExS1BZWnRURnRreU5KOHZaT3lsc01ESEE1T2c5VV9FZm44UXR5WkVxMHdMNXhiM0lNWkdYZnFyc0RUc0EwcVZTSlhrbHBua0J5T1Y1N2F4eHcxenZIMWRWcjZnS0FId3h4YWZWT0NlQnhNZVFHVURNejRoZTVGRG1mQkZlTWpUZHFqU2dP?oc=5)
+來源：[MUNDIARIO](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVI2Wm1qVW5Nd19YdHBVeURmSzZvVzlON2dZb0RVUktBWkkzalk1ME9jN3BUbHlBaVdIUFZEWXlEeXZ0am55aExOdXhINlNpakswV2xtWnZfZFdkNUxTN2o5VXVpVVpOWGtrdWVRc3JVSnVZOHo4NzZOU2J3U1N1ZnRkZ2Q0Tmh3SWZhd0pPNkFyX0JuTjlyRlNrYjY2QkpNeFI3UmhZVkZ2SXR5OEJGbm1qbUlvS2lIc3JRdWpmcW9vSVhrazhESGl5WVY2cVNJandz?oc=5)
 
 ---
 
@@ -75,6 +83,30 @@ permalink: /news/orlistat/
 2026-06-09 <span class="news-indication-tag">stroke</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZBNWNLY3hpNjBzYWtfSnpvbENkUXVQUzI4d3FuYVVtSTJ4QmxLU1JSVTEzdTh2R1JyVloyNFZtdEFQR3hFRUJRZUZsa1NJSmFMelIzUDMxUnY1WmNZbWlBWUlBXzhNTjRoa3A1N09RWlpoZWF5cnlUNWhuc1Q3MHgzVk5lSHlWd1JCRFloOG91d2dEcVlQZmVfOXdDbDJSU2NMYzVJY1YzYzlZdV9EUlJaWWtoWUFtMmc?oc=5)
+
+---
+
+### [Deux nouvelles approches permettent de limiter la reprise de poids après un traitement contre l’obésité - Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
+
+2026-06-09 <span class="news-indication-tag">obésité</span>
+
+來源：[Le Temps](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2lQSldYalJQN3dkUGRDRWU1UEh6M0NudjJHYi1Ndk5Sd19acmNMRHNDQjdBV2VNZlF2Y1N3Vi1mRTRwWloydUdZcTNPS3lmQ3UzdUUzbHhqRWNXTHp6RGc2UW9SbXNvaEZyMk1MOFh5ZFJ5RGpQbHhzOHUxcFZIXzYxN3dhYWkwbXhYTW1iWk5CdDVQUlZhNno0RjdMR0hJdzVaUkxmSERpR05udTdPUzRBYlNqdUduMTBGT2ktemlOU0ZYUzNncXNhVjN2bEt0dm5ScDkyTDc?oc=5)
+
+---
+
+### [Ozempic y Wegovy se asocian a un 41% menos de riesgo de cáncer en personas con obesidad](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajhTRDN5UlVneEhmNFZrcFpvMG9OUThqY1FYZlUzUnRWdXBWbklKUXYtUVJCTmlqTHdvbVh1UDNreFZpX1JDY19GWTBJLV80SUtkMzFUcTRVd29zeDNIS2J1aC1ZNllFM25FTHZNd2xlblpiTm0yakNKNGZSSXAzTFJSOFBuaTNVQm1HWTJNUkJteUJlMWplR01KOFk5UUFab0d3ejRjbk9TYm01YmVHb25LRXZ2eTZOeHhoN2VKbXlDWk9Vc3N0YTdfalYteFhzNS0w?oc=5)
+
+2026-06-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajhTRDN5UlVneEhmNFZrcFpvMG9OUThqY1FYZlUzUnRWdXBWbklKUXYtUVJCTmlqTHdvbVh1UDNreFZpX1JDY19GWTBJLV80SUtkMzFUcTRVd29zeDNIS2J1aC1ZNllFM25FTHZNd2xlblpiTm0yakNKNGZSSXAzTFJSOFBuaTNVQm1HWTJNUkJteUJlMWplR01KOFk5UUFab0d3ejRjbk9TYm01YmVHb25LRXZ2eTZOeHhoN2VKbXlDWk9Vc3N0YTdfalYteFhzNS0w?oc=5)
+
+---
+
+### [Fatty liver disease: 5 science-backed steps an NHS doctor followed to reverse the condition - The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
+
+2026-06-09 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFHaVJVdWpzTVNiYXVDdFEyR0oyVWxZNVNiN19Vbm11S1BQYUF4U2FLSGlhU1VtX1ZpWHlKZjNiR1d4bUVuMklRbjk5aXRpeklvU2xXWm5pUWlURm0zWXItY2kyaFpyTnMzTm9Kd1B3Z2QxS0pGWFNIOUxIcFcySF9MR21jWGFNcmppc0hHaGVwZXZ5VGFMV1ZidWtJOTJ0amJOSURlYmxfaG1uRGdGcHdXT0ltbC1xYzk5Y2FkVDgzMkFwVTMyalRFTmsxbjBjTDhvaThSRWE1YU82UU5Rei1BQ29iM3ZtbkFGWjFHUzJicVVrZGdkTDNmRdIBgwJBVV95cUxQX1NPeW5FNU1WODVvakJTQnJVUHJidFJwQ2pGdzFMa1FvUTBDUW15eDRhODVUVjJqVFo4eU51Z25GX1BNQzFvVnNHZzJRVGMyYzZQcUZuczVoU3k3bE9Jb1R1cEktZjA5bGhmRWpvemhRTE9SNzFNTHFyZUFtYUJWMnFSaldlRkR4R2dJREhZR2t6a19nWU01b3Bpemo4LUJvajZqSTlqdVVKZW9oLXdyODZYUkEyS3dYMVpnMkVzcmV5VTE5Sm9VeWFFcnQtM0lzR01scWx0NWotWnZGNTRfcWdzQkttVWxFZzFRYVFvTVN4aU9pZU1OVTlQMUlNd0hRemNv?oc=5)
 
 ---
 
@@ -102,19 +134,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [‘Stroke and brain injury? We are potentially sitting on a time bomb’](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
+### [‘Stroke and brain injury? We are potentially sitting on a time bomb’ - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
 2026-06-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
-
----
-
-### [Quels sont ces deux médicaments contre l’obésité qui seront remboursés à partir du 15 juin ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnJZN3BUZGhBZGVNMTJhN25RbERCYlFQRl9mcUtNQUplMVpSb1RDanFYS21GYm93cVBlSXVSWkpZRGxEUHBKSkJOdk1mM2JFUlI3NVF1a0RLakNZVlFmSlhTTm9qMnl2cUdpM0xBanBDdG9iUGJrNE1ZeGRxVW85QUV3NzE3SFpHYTVxQS05Mzg4cmdsUzRqeV9rdmRLLWVCV0dpc3A5Z0hKZThtRFZsZU83cGl6SV90ZVozaktuLVkzbkkzWGVDZnJDdFNHQ29QcGRDWk56bFM5ZDJ2d3JhWndR?oc=5)
-
-2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnJZN3BUZGhBZGVNMTJhN25RbERCYlFQRl9mcUtNQUplMVpSb1RDanFYS21GYm93cVBlSXVSWkpZRGxEUHBKSkJOdk1mM2JFUlI3NVF1a0RLakNZVlFmSlhTTm9qMnl2cUdpM0xBanBDdG9iUGJrNE1ZeGRxVW85QUV3NzE3SFpHYTVxQS05Mzg4cmdsUzRqeV9rdmRLLWVCV0dpc3A5Z0hKZThtRFZsZU83cGl6SV90ZVozaktuLVkzbkkzWGVDZnJDdFNHQ29QcGRDWk56bFM5ZDJ2d3JhWndR?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQelJrSzdyaDI4Sm5HNERBbjJZc0pnQzJ6clRmM3FaZl9FS3dzSVJXMXFrSVBNa3FYV0lubkxFS0tZRmUxN21RRTN6SXV0Rlp0VDBGWFlPWFlhUHJETDdMZW8tQmx2bHdsMzl5U1B6RTFSX2hNZ2RSWlZSUnpzWmdvSHVIRUVWYlZBR21EV0VHaGRpMmJZdGRrVnhRM09scDJIa3cwN3hvTk5GYVIyb0R3X0VIRDB6R2RTVmk3cl9CWXpscU5mUlczWUVZMF9fUnM?oc=5)
 
 ---
 
@@ -123,14 +147,6 @@ permalink: /news/orlistat/
 2026-06-08 <span class="news-indication-tag">obesidad</span>
 
 來源：[Radiocable.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUmxNQ3lwcHlDNVp6YTZWRmFna3U0VTVkUDJUdzF6YUxQTlo5QWpWTEJlRVVRa3lXTUVGVXN1WVA3VFN3R3pnVlN6VUhJLTlha0NscnM2Q3QxREZvam5KQ0xlbEE1OWR2bjJ1NmZOejRrc1Y2cjZpWHh2djhROEE?oc=5)
-
----
-
-### [«Cancro al seno, i farmaci per la perdita di peso riducono il rischio di tumore fino al 30%» - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
-
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
 
 ---
 

@@ -54,11 +54,27 @@ permalink: /news/glecaprevir/
 
 ## 相關新聞（22 則）
 
+### [Cattle in England to get tuberculosis vaccine from 2030 as badger cull to end - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlVRd3V1Ynp4cDhkbHloelYxR0NLNjdyaUhfNnpGTldLa3Zpd2E2UXVmenJ6bnZrS3JhQVRwUGthX1QyMjRDRnRZOWpLOUlHZ3MwMXp5QUR4NGIwaFpVcU4zN2tVcjF6Z05lUjZvR0xiOXNIOTJqNzFFVVppN0FxVGI1TktyRHBXdkRWVnlNOG9RUUZFTzYxQ1VQcw?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlVRd3V1Ynp4cDhkbHloelYxR0NLNjdyaUhfNnpGTldLa3Zpd2E2UXVmenJ6bnZrS3JhQVRwUGthX1QyMjRDRnRZOWpLOUlHZ3MwMXp5QUR4NGIwaFpVcU4zN2tVcjF6Z05lUjZvR0xiOXNIOTJqNzFFVVppN0FxVGI1TktyRHBXdkRWVnlNOG9RUUZFTzYxQ1VQcw?oc=5)
+
+---
+
 ### [New Study Exposes Problem With Protein Products As Experts Warn Labels May Mislead Consumers About Benefits - Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBiaUw0TVRnWDNNMU9ONzBmZUM3Zkt6N2dZOG91M3FxNy1XUTJHemNVa1BPQWc0TGVZM0FJMGlxMGxMZlVLMFFydjVKMFlIbzgyYkNMQ0Q0QThzaXFrUUtFaHpiNmFid2phQ21kQ0lGSkRIZ1BxdVJwV2dwUk5PaWNoZUNBSUN5R2R4c00zRFp5VVNmb0xmaXRB?oc=5)
 
 2026-06-09 <span class="news-indication-tag">MS</span>
 
 來源：[Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBiaUw0TVRnWDNNMU9ONzBmZUM3Zkt6N2dZOG91M3FxNy1XUTJHemNVa1BPQWc0TGVZM0FJMGlxMGxMZlVLMFFydjVKMFlIbzgyYkNMQ0Q0QThzaXFrUUtFaHpiNmFid2phQ21kQ0lGSkRIZ1BxdVJwV2dwUk5PaWNoZUNBSUN5R2R4c00zRFp5VVNmb0xmaXRB?oc=5)
+
+---
+
+### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
+
+2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
 ---
 
@@ -104,7 +120,7 @@ permalink: /news/glecaprevir/
 
 ### [Single high dose of psilocybin temporarily restores lost abilities in an 80-year-old Alzheimer's patient - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV0anpiNE5qMnFaQ3lMUExRck1DUklpeFBKR29HUl9zOVFBakd0ZXdMZUY1WldVN3VoYTNqaVA1QjQ4ektSVThaNlN3Ni1fT3F3bVl0UjlPSG5DSm5lRXh2SC1BVi1jRnVRS2tMejV4bW5JeHBZcjNLZml3RHg1MGtIS0djbVdh?oc=5)
 
-2026-06-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV0anpiNE5qMnFaQ3lMUExRck1DUklpeFBKR29HUl9zOVFBakd0ZXdMZUY1WldVN3VoYTNqaVA1QjQ4ektSVThaNlN3Ni1fT3F3bVl0UjlPSG5DSm5lRXh2SC1BVi1jRnVRS2tMejV4bW5JeHBZcjNLZml3RHg1MGtIS0djbVdh?oc=5)
 
@@ -118,19 +134,19 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Brave woman who lost two babies teams up with pal to help grieving families - Greenock Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPOG1yV0hTamFmOVpsUi10WUZlVVR6ZVg5TVJaeS1rQ1d1RVF1Z0lzNmJYTXpiSG5aV0lROHdGOXRUbU9Cb011YVdYLVUwWGZVWnJCaU9wTFhaSG44c3k0RnBxSjVOMlZPejBkVW1Nc0d1QWJkUm1kT2daNEdyMFI0TlE0ZXpzNkc5RzctT3BfbkkxZGdIRUhVS1RMWTE1Zw?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span>
-
-來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPOG1yV0hTamFmOVpsUi10WUZlVVR6ZVg5TVJaeS1rQ1d1RVF1Z0lzNmJYTXpiSG5aV0lROHdGOXRUbU9Cb011YVdYLVUwWGZVWnJCaU9wTFhaSG44c3k0RnBxSjVOMlZPejBkVW1Nc0d1QWJkUm1kT2daNEdyMFI0TlE0ZXpzNkc5RzctT3BfbkkxZGdIRUhVS1RMWTE1Zw?oc=5)
-
----
-
 ### [Oncologia: in Italia il farmaco contro la malattia genetica che induce dieci tumori - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
+
+---
+
+### [Why you always wake up between 2am and 4am — and what to do about it](https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYXhDSDBiaXlIa1k4aDR5NVd1LXUzYXY4dzFvME1DMC0ta0lJaTB5UmpsZ2RvZ1NEYWkxVk9UNHF6ZjVBU1VqRlNQNVJRZU9xVEJFcWU4NnNmOUZzTUthVW9GN3dkNmp0OGRKeg?oc=5)
+
+2026-06-09 <span class="news-indication-tag">MS</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYXhDSDBiaXlIa1k4aDR5NVd1LXUzYXY4dzFvME1DMC0ta0lJaTB5UmpsZ2RvZ1NEYWkxVk9UNHF6ZjVBU1VqRlNQNVJRZU9xVEJFcWU4NnNmOUZzTUthVW9GN3dkNmp0OGRKeg?oc=5)
 
 ---
 
@@ -144,17 +160,17 @@ permalink: /news/glecaprevir/
 
 ### [«Ebola arriverà a 20.000 contagi» - La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
 
-2026-06-09 <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
 
 ---
 
-### [First-in-human-Studie: Vielversprechender PET-Tracer zeigt hochauflösende Bildgebung des sympathischen Nervensystems - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
+### [Weight-loss jab Wegovy to be offered on NHS in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
-2026-06-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR2lZSDd4RVZzbmh3MEtrZTFXZUFiLTFldFBFaW95bElLWGQ2OWJPanIwaklRVjBqOTBaTW56Y2cxUlRpM1ZZRGI2OA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdVlwN2Vabm83THZmT0xJRS1EQlI3SzU5VnQwMmg0ckdMa29RcVR2UXBQRjBIcVNHTFpPWVlFZ284cGdrZVFLT0ZpTW1fVjFhYzd3R01WcG50TFUw?oc=5)
 
 ---
 
@@ -200,7 +216,7 @@ permalink: /news/glecaprevir/
 
 ### [«Cancro al seno, i farmaci per la perdita di peso riducono il rischio di tumore fino al 30%» - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
 
-2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
+2026-06-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnpSR1cxQ3NLdGJJSXBwRk9yZExsSnNKZ3lja2ZONEJsSFlncmJpbG93VjZrNGxvZlhVZHAzaUc3VnlpOUt0MjRoRkdKbzdicGwwOXpyZkxRam4wSm40NlozQXM3bDZvVWpFNlFlXzVjSWtsMjVGM05uUWI4Yl9PZ0pkczZlTjlCN0RVakg5ZEREdkVqSmNzMXJsTU1fckEzT1BkcVN5NkxuQdIBpwFBVV95cUxQYzJjVzR6WHplNFlJSU9VZV9Vck5iazlQWlplTHpPZEVaa3VSOTREeXB4dnZHdVlsUnRGQ0NVZWdIY3YzaGJkdmJ0R29pdmd5cXoxTGtpeC1VOUUyOVloVW92YV9NYU52ak1KNjVQazBHeVNETEd6a0JadWcyTHdBQ1lEX0ZqLWtBR0R6M1JLOWQtbFR2TWsyLXZHQkVSam9yQ05VZE1hbw?oc=5)
 
@@ -211,22 +227,6 @@ permalink: /news/glecaprevir/
 2026-06-08 <span class="news-indication-tag">MS</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3p5c1B6ZVpYdXhQQWYzcG8tZjlnX3o5bzJ5MFg0OTVuYjlYVHZBT2JqT29nc0JCS3dJa0xVVkJWTTJ2ZG9jYVBWcHI2QzEtc0p0OXVEYS1IOHFjdlYtbEEyeEU5OGkyZDJOUFFPNjFGRXUxdFV5a2d2X2tfZzR2NmhQMGt3VmF0ZmxXQmlrY3AwVFE?oc=5)
-
----
-
-### [« Le plus dur, c’est le regard des autres » : à 41 ans, atteinte de sclérose en plaques, elle raconte son quotidien - Le JSL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmU2YWg1eDdId1dfd2I4OXBJdVM2dzRwZ2JlRVFMZ01BMDg4QmZTc1RRSEhsUlJ1X1dNQmo0YlBoeVM3cFBITUdENjhNNm1oTTRXczlNc0xZbUIwS1dpRk9JUFdVdmZmcUYzcHRmNnNiUkNPUHZrNVNabEMzT0Q2dUR5eGxJSlQ2eEdwYTZONGhMamllY1hJTXgyazN1SUJ0SFFWbWlQOHVUTEZPT1FnYk5tOEN2aG1rbUYzRjhldFE5bng1RFRVQg?oc=5)
-
-2026-06-08 <span class="news-indication-tag">MS</span>
-
-來源：[Le JSL](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmU2YWg1eDdId1dfd2I4OXBJdVM2dzRwZ2JlRVFMZ01BMDg4QmZTc1RRSEhsUlJ1X1dNQmo0YlBoeVM3cFBITUdENjhNNm1oTTRXczlNc0xZbUIwS1dpRk9JUFdVdmZmcUYzcHRmNnNiUkNPUHZrNVNabEMzT0Q2dUR5eGxJSlQ2eEdwYTZONGhMamllY1hJTXgyazN1SUJ0SFFWbWlQOHVUTEZPT1FnYk5tOEN2aG1rbUYzRjhldFE5bng1RFRVQg?oc=5)
-
----
-
-### [The Probiotic Breakthrough for Natural Anxiety Relief and Better Mental Health](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdjJCWmV6RjB2Rk1LSE1GMFFCdG1QcU4xa1Y1TjFaWDZUUW9pTVJ0VlRPNGtzMHp6NzEyZE5IOW5ONFJMYmwxelE5dktKNEh2a2lkRUNULWwwMlZlN1VfcFltQXNrVnhBZGdVbUxfRFdMd0djZ2lNSUE5TWIwQ01kVDhmLUN5QlBFVmVlZjB2YjBGekpENTZUUlZDekNlSDM1SWRKSjJraw?oc=5)
-
-2026-06-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdjJCWmV6RjB2Rk1LSE1GMFFCdG1QcU4xa1Y1TjFaWDZUUW9pTVJ0VlRPNGtzMHp6NzEyZE5IOW5ONFJMYmwxelE5dktKNEh2a2lkRUNULWwwMlZlN1VfcFltQXNrVnhBZGdVbUxfRFdMd0djZ2lNSUE5TWIwQ01kVDhmLUN5QlBFVmVlZjB2YjBGekpENTZUUlZDekNlSDM1SWRKSjJraw?oc=5)
 
 ---
 
