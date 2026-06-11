@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
+
+2026-06-11
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
+
+---
 
 ### [Metabolisch unauffällige Adipositas wohl nicht gutartig](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Los avances en obesidad chocan con una respuesta sanitaria y social poco acorde a su complejidad - Somos Pacientes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3NjckQwU0paSVVWY0xWSWF5aTNUdERxM1M0dUlWMDVjWS1aM1NoS193UnMyQjlxQkw5MXlRb3ZQZlp3RlBWbnZ3S1htSDFUNFVNZERyN1BGQ3pYRDNFYVdyR3FCUDk2Y2V4MnpHZHpaMU1MOHkyeWs5OG0tNHRUemhBSU1mWjZjaTRNZFVocG5ucWItWFBQc2xHZTB0TUhabFQ4aEE0NXpRaW50MDNGTllTcHZoaThyaUg2dTdycGVRV21pUEx2S2NkVjhaUU4xQzdzTVFDc1pfYjB0Y3hjQ1IzVWozNzR2RDhJ?oc=5)
+### [Weight loss jabs are being linked to ‘Ozempic butt’ — a new drug might stop it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
 
-2026-06-09
+2026-06-10
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3NjckQwU0paSVVWY0xWSWF5aTNUdERxM1M0dUlWMDVjWS1aM1NoS193UnMyQjlxQkw5MXlRb3ZQZlp3RlBWbnZ3S1htSDFUNFVNZERyN1BGQ3pYRDNFYVdyR3FCUDk2Y2V4MnpHZHpaMU1MOHkyeWs5OG0tNHRUemhBSU1mWjZjaTRNZFVocG5ucWItWFBQc2xHZTB0TUhabFQ4aEE0NXpRaW50MDNGTllTcHZoaThyaUg2dTdycGVRV21pUEx2S2NkVjhaUU4xQzdzTVFDc1pfYjB0Y3hjQ1IzVWozNzR2RDhJ?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
 
 ---
 

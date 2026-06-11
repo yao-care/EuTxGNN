@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Plasma-Vitamin-C und Hirnnetzwerke: Studie verknüpft Werte mit grauer Substanz und DMN-Connectivity - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">asma</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

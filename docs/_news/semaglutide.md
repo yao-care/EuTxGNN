@@ -54,11 +54,27 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（9 則）
 
-### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
+### [Diabetes y salud oral, una asignatura pendiente: “La sensibilización entre pacientes y profesionales es fundamental”](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEZENFBlcjU4MXBoX1Azd1NFQnBkLVExOGJWNVcyV1N6ZVRIOUpMeDBkYzNtaVFySFpOd2NMd1V0bHpZWUtFUXZMZ0JPLUc2U3lzMFNfQ1k4M3ZmaDcyN0lMeDFDUkhCdUp1cHlWcUdjQ0VsSDJXS1BTUXE1ZEZMU01pY3haT0I1VGpWUlRwcVIxZVBRTEhBZGVIM2ZrNXB1OThJZmhrRTVIVndlVVRldzdsVWdLYWFETXhIZFhwNlg1YWxQUWFIaTdJV0hxWkRZZ3lDcjZLLUE0ZnNvVnlLR1YxeGpzVW94N1lQOXFQazI0MEgzbFdXeTZn?oc=5)
 
-2026-06-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">diabetes</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEZENFBlcjU4MXBoX1Azd1NFQnBkLVExOGJWNVcyV1N6ZVRIOUpMeDBkYzNtaVFySFpOd2NMd1V0bHpZWUtFUXZMZ0JPLUc2U3lzMFNfQ1k4M3ZmaDcyN0lMeDFDUkhCdUp1cHlWcUdjQ0VsSDJXS1BTUXE1ZEZMU01pY3haT0I1VGpWUlRwcVIxZVBRTEhBZGVIM2ZrNXB1OThJZmhrRTVIVndlVVRldzdsVWdLYWFETXhIZFhwNlg1YWxQUWFIaTdJV0hxWkRZZ3lDcjZLLUE0ZnNvVnlLR1YxeGpzVW94N1lQOXFQazI0MEgzbFdXeTZn?oc=5)
+
+---
+
+### [Überblick zu GLP-1-Rezeptoragonisten: Große Chancen – und etliche Risiken](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
+
+2026-06-11 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
+
+---
+
+### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
+
+2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
 ---
 
@@ -86,14 +102,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [La IA podría predecir la diabetes tipo 2 10 años antes - Canal Diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSGZJaXRrZVVkZHBZX1hwd2hNUDA3MzdFZjhlM0VFMWh3Z0JUQWk1cm1ETklueXhwb3NnLXAwajhJdUxxU09fdVM1aXRWcTl5X0hGWjhtTXdEQ2czei1INXpYT2s5Z0F2dzBXTE0yOGFZa3pDejVj?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSGZJaXRrZVVkZHBZX1hwd2hNUDA3MzdFZjhlM0VFMWh3Z0JUQWk1cm1ETklueXhwb3NnLXAwajhJdUxxU09fdVM1aXRWcTl5X0hGWjhtTXdEQ2czei1INXpYT2s5Z0F2dzBXTE0yOGFZa3pDejVj?oc=5)
-
----
-
 ### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
 
 2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
@@ -104,7 +112,7 @@ permalink: /news/semaglutide/
 
 ### [Weight loss jabs are being linked to ‘Ozempic butt’ — a new drug might stop it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
 
-2026-06-10 <span class="news-drug-tag">Semaglutide</span>
+2026-06-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
 
@@ -115,14 +123,6 @@ permalink: /news/semaglutide/
 2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
-
----
-
-### [Chi è Valter Longo, il biochimico noto per la dieta della longevità - Sky TG24](https://news.google.com/rss/articles/CBMid0FVX3lxTE5lWTAyV2p3eHRWQmhNaTNOakphZzNOc2pfaEVra3JOdE9fSHFBMFNrbXVieUFDbGVGaWRveFVhT25VRHloQ0l0Z1huNkhMaTE5QVZjbkRuekVEbVE4TXlFeTRaYjFQMGxWSmRDaENJTF8zMXBfUUtF?oc=5)
-
-2026-06-09 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMid0FVX3lxTE5lWTAyV2p3eHRWQmhNaTNOakphZzNOc2pfaEVra3JOdE9fSHFBMFNrbXVieUFDbGVGaWRveFVhT25VRHloQ0l0Z1huNkhMaTE5QVZjbkRuekVEbVE4TXlFeTRaYjFQMGxWSmRDaENJTF8zMXBfUUtF?oc=5)
 
 ---
 

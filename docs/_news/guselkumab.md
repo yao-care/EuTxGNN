@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Diabetes y salud oral, una asignatura pendiente: “La sensibilización entre pacientes y profesionales es fundamental”](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEZENFBlcjU4MXBoX1Azd1NFQnBkLVExOGJWNVcyV1N6ZVRIOUpMeDBkYzNtaVFySFpOd2NMd1V0bHpZWUtFUXZMZ0JPLUc2U3lzMFNfQ1k4M3ZmaDcyN0lMeDFDUkhCdUp1cHlWcUdjQ0VsSDJXS1BTUXE1ZEZMU01pY3haT0I1VGpWUlRwcVIxZVBRTEhBZGVIM2ZrNXB1OThJZmhrRTVIVndlVVRldzdsVWdLYWFETXhIZFhwNlg1YWxQUWFIaTdJV0hxWkRZZ3lDcjZLLUE0ZnNvVnlLR1YxeGpzVW94N1lQOXFQazI0MEgzbFdXeTZn?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEZENFBlcjU4MXBoX1Azd1NFQnBkLVExOGJWNVcyV1N6ZVRIOUpMeDBkYzNtaVFySFpOd2NMd1V0bHpZWUtFUXZMZ0JPLUc2U3lzMFNfQ1k4M3ZmaDcyN0lMeDFDUkhCdUp1cHlWcUdjQ0VsSDJXS1BTUXE1ZEZMU01pY3haT0I1VGpWUlRwcVIxZVBRTEhBZGVIM2ZrNXB1OThJZmhrRTVIVndlVVRldzdsVWdLYWFETXhIZFhwNlg1YWxQUWFIaTdJV0hxWkRZZ3lDcjZLLUE0ZnNvVnlLR1YxeGpzVW94N1lQOXFQazI0MEgzbFdXeTZn?oc=5)
+
+---
+
+### [Überblick zu GLP-1-Rezeptoragonisten: Große Chancen – und etliche Risiken](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
+
+2026-06-11 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
+
+---
+
+### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
+
+2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
+
+---
 
 ### [Diabetes & Bluthochdruck: hohes Risiko für Nierenversagen - it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1poX2o5dXlHaVgzU2F1SWNpSmJsSkFpWTV1VkNHTEVPUE50UklQZ3NYNWNidXZaTjA2U1I0SjVlWGhmY2J2VldOd2FNckE4QVRPTlZIWDZGOGxzWUNIdnB1RVhZQTFybjdqcVJNcWxETU4zakx2TkJnUFVHaTNTTEE5LWxzSU9Hc0lkdjNJejg?oc=5)
 
@@ -67,14 +91,6 @@ permalink: /news/guselkumab/
 2026-06-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
-
----
-
-### [La IA podría predecir la diabetes tipo 2 10 años antes - Canal Diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSGZJaXRrZVVkZHBZX1hwd2hNUDA3MzdFZjhlM0VFMWh3Z0JUQWk1cm1ETklueXhwb3NnLXAwajhJdUxxU09fdVM1aXRWcTl5X0hGWjhtTXdEQ2czei1INXpYT2s5Z0F2dzBXTE0yOGFZa3pDejVj?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSGZJaXRrZVVkZHBZX1hwd2hNUDA3MzdFZjhlM0VFMWh3Z0JUQWk1cm1ETklueXhwb3NnLXAwajhJdUxxU09fdVM1aXRWcTl5X0hGWjhtTXdEQ2czei1INXpYT2s5Z0F2dzBXTE0yOGFZa3pDejVj?oc=5)
 
 ---
 

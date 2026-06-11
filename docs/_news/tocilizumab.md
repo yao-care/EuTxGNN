@@ -14,7 +14,7 @@ permalink: /news/tocilizumab/
 ---
 
 <p class="key-answer" data-question="Tocilizumab 有什麼相關新聞？">
-<strong>Tocilizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tocilizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tocilizumab/
 <p><a href="{{ '/drugs/tocilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
-
-2026-06-11 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Desarrollan fármaco que podría frenar la aparición de la artritis reumatoide, revela ensayo clínico - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGdYZlNEZEJ2TzJUSEd4ZVFOTzZzMjdOZ3JlY29VN0lfbjlPejhhNXlrWWZDcXRFYVJURXNRMG1VNE5JY0dOSFdUY0Nod1hobVo1NG1QYU15bExkaGtXUzk0RGMxNllOaTJUSmx2S1Q3NGFCWWZicVcwRE5WcDNpNG5YNXpxR2pxaTJMbl9QcWlIMUtxWVc1OWhSUDBnZ1ViTVh3NTVRWUZQLTZ5cTlrMHNFT1pmT2FKamR3RWV5R2FybUgxRWJQcVNra3pVQVd0ekJTMXVzQ1g0ZElXcFlNc3JBZUpLS21qSXBwQXJDWTFUUdIB9wFBVV95cUxNZFlwRV9yTzQxMVA5MlpzVmo1Nmp6QlJOQ01aSjNPQmQyRFhMN0NfLVF5a2NBZzRNOWUzZkR2UFBKb0M5aUtiQXRyR3FaYk16OWdaRTFBT29XVkwxUGRBVi1raEZHSW5ILVdkYUdjRDd1aDR2RDQ1MUo0UE9nUGZ1d0E5a29fNEhKRnBvMUFYTHV6QWFOQk5MZGxDYVJHQnlud3NDN2hndTZJWFdQOHoxU3U3dmw5WFEyYTdxRUxlSHFsOGIyamgyQk5kYnRNV25kVkNWaGRDeFRYbnUyTHJBbmVMZFNlWF9VYWVZYl81REFYVzhJUERN?oc=5)
 

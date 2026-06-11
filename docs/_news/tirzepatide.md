@@ -70,11 +70,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [I've lost 6st on Mounjaro but I can't put up with the side effects anymore - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHh5djdoLU5wRGlmSm1tRjY5YnRTM2RBbkdhVkRYajA0TFBub183OUpFbXQ5SGVxX2ZKaWg3WHdsWXNsVC0tT0YxbTJ3M3RqX05BZFlzbTkwNnBXZXFVMVBFSWNNWFcyV3RFNFNWNV9JLUVTSHFtZE9QMWFha1Y2NDFlRXNhalhNZ2NFNGJPbG54Q2tt?oc=5)
+### [Weight loss jabs are being linked to ‘Ozempic butt’ — a new drug might stop it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
 
-2026-06-09 <span class="news-drug-tag">Tirzepatide</span>
+2026-06-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHh5djdoLU5wRGlmSm1tRjY5YnRTM2RBbkdhVkRYajA0TFBub183OUpFbXQ5SGVxX2ZKaWg3WHdsWXNsVC0tT0YxbTJ3M3RqX05BZFlzbTkwNnBXZXFVMVBFSWNNWFcyV3RFNFNWNV9JLUVTSHFtZE9QMWFha1Y2NDFlRXNhalhNZ2NFNGJPbG54Q2tt?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
 
 ---
 

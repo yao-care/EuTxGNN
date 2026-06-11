@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="Florbetaben (18F) 有什麼相關新聞？">
-<strong>Florbetaben (18F)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetaben (18F)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/florbetaben-18f/
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [Desarrollan fármaco que podría frenar la aparición de la artritis reumatoide, revela ensayo clínico - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGdYZlNEZEJ2TzJUSEd4ZVFOTzZzMjdOZ3JlY29VN0lfbjlPejhhNXlrWWZDcXRFYVJURXNRMG1VNE5JY0dOSFdUY0Nod1hobVo1NG1QYU15bExkaGtXUzk0RGMxNllOaTJUSmx2S1Q3NGFCWWZicVcwRE5WcDNpNG5YNXpxR2pxaTJMbl9QcWlIMUtxWVc1OWhSUDBnZ1ViTVh3NTVRWUZQLTZ5cTlrMHNFT1pmT2FKamR3RWV5R2FybUgxRWJQcVNra3pVQVd0ekJTMXVzQ1g0ZElXcFlNc3JBZUpLS21qSXBwQXJDWTFUUdIB9wFBVV95cUxNZFlwRV9yTzQxMVA5MlpzVmo1Nmp6QlJOQ01aSjNPQmQyRFhMN0NfLVF5a2NBZzRNOWUzZkR2UFBKb0M5aUtiQXRyR3FaYk16OWdaRTFBT29XVkwxUGRBVi1raEZHSW5ILVdkYUdjRDd1aDR2RDQ1MUo0UE9nUGZ1d0E5a29fNEhKRnBvMUFYTHV6QWFOQk5MZGxDYVJHQnlud3NDN2hndTZJWFdQOHoxU3U3dmw5WFEyYTdxRUxlSHFsOGIyamgyQk5kYnRNV25kVkNWaGRDeFRYbnUyTHJBbmVMZFNlWF9VYWVZYl81REFYVzhJUERN?oc=5)
 
@@ -91,6 +91,14 @@ permalink: /news/florbetaben-18f/
 2026-06-10 <span class="news-indication-tag">hypertension</span>
 
 來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
+
+---
+
+### [Tea is good for your health but the way you drink it matters, study finds - Yahoo News UK](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlluNlo4Z0hMbWpOc2FZYjVNRW5IaHJMa2E4X1hRUWZhbF9hbXJPQnpMWnMtaVpnMW9yNlZZZWFFV0c5UXVCWWxlYWhpR0ZLQ1pmVFVnRzVRWU81U3R0UjNtT0t3WkdrSzE0T2dNUjlfVjVoTGJaTUdjNkw4WDQ2d243RGJ4TDZNdk9IeFAwMWhnUG00SXdSYlJ2NDdXb0hyLU1MUF9YcWpsYVU2ZTkzLXEtNA?oc=5)
+
+2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlluNlo4Z0hMbWpOc2FZYjVNRW5IaHJMa2E4X1hRUWZhbF9hbXJPQnpMWnMtaVpnMW9yNlZZZWFFV0c5UXVCWWxlYWhpR0ZLQ1pmVFVnRzVRWU81U3R0UjNtT0t3WkdrSzE0T2dNUjlfVjVoTGJaTUdjNkw4WDQ2d243RGJ4TDZNdk9IeFAwMWhnUG00SXdSYlJ2NDdXb0hyLU1MUF9YcWpsYVU2ZTkzLXEtNA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（6 則）
+
+### [Trente minutes de vélo par jour abaisseraient de 35 % le risque de dépression selon les chercheurs](https://news.google.com/rss/articles/CBMixgFBVV95cUxPemFIN2ExSFdpbUszbTh6dWt4MExQaU55cGJYU3YwOEZvWko3bXJLQXphcTJ4alc4VFJYTTRLcjRFRDN1cVZWSzg2TFNBWXQxckFBeENaTDVYazlyN29jQTdseDNlX0pCdGl0RkxQc1JDZHI0ME1EODc5Rjg2SGpNbl9raFdaZ0JLbmMzd2N6UXkwemxJajJjUURvUHVSTU9iMVI3b0FHM2VTLUp1eGVSb01jM2FmZzQ0YVdiWS16Unl5TWlMcWc?oc=5)
+
+2026-06-11 <span class="news-indication-tag">dépression</span>
+
+來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixgFBVV95cUxPemFIN2ExSFdpbUszbTh6dWt4MExQaU55cGJYU3YwOEZvWko3bXJLQXphcTJ4alc4VFJYTTRLcjRFRDN1cVZWSzg2TFNBWXQxckFBeENaTDVYazlyN29jQTdseDNlX0pCdGl0RkxQc1JDZHI0ME1EODc5Rjg2SGpNbl9raFdaZ0JLbmMzd2N6UXkwemxJajJjUURvUHVSTU9iMVI3b0FHM2VTLUp1eGVSb01jM2FmZzQ0YVdiWS16Unl5TWlMcWc?oc=5)
+
+---
+
+### [Unregelmäßige Mahlzeiten und Depression: Was Studien belegen](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTJaSUVCb2NGYlZOUndGMmxIU1V6SzRZWG0zM3dYd0RMMGg3ekdZOURsVTNhazh2bl9Lb0xtZkdTT0VXbm9fMFZDOE5iTG9MRG5LZnppbi1uZzlJQjFmM05rckZlM3lENERxSXVBYnNfTmZ0VkJhLWlHZXBWUm9JTGEtb1dLdmloeklEN1JFUTZ6QQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">depression</span>
+
+來源：[RiffReporter](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTJaSUVCb2NGYlZOUndGMmxIU1V6SzRZWG0zM3dYd0RMMGg3ekdZOURsVTNhazh2bl9Lb0xtZkdTT0VXbm9fMFZDOE5iTG9MRG5LZnppbi1uZzlJQjFmM05rckZlM3lENERxSXVBYnNfTmZ0VkJhLWlHZXBWUm9JTGEtb1dLdmloeklEN1JFUTZ6QQ?oc=5)
+
+---
 
 ### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
 
-2026-06-11 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span>
+2026-06-11 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+
+---
+
+### [Überblick zu GLP-1-Rezeptoragonisten: Große Chancen – und etliche Risiken](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
+
+2026-06-11 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
+
+---
+
+### [GLP-1 Drugs Reduce Depression, Boost Stress-Calming Gut Bacteria - Neuroscience News](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdjQ0Uk5DcDZvb0wtNVFQaklyTllHdU5XaVlaSlhrQzh3Y25pLVJHTnBwMUphLW04bDJIblRWbk43SHhhQUZRV01wME9NOFdUSlJRZkd1eWFyZzBjOTRBN0piUjJyOEtsQmQ1V21ZWFk?oc=5)
+
+2026-06-10 <span class="news-indication-tag">depression</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdjQ0Uk5DcDZvb0wtNVFQaklyTllHdU5XaVlaSlhrQzh3Y25pLVJHTnBwMUphLW04bDJIblRWbk43SHhhQUZRV01wME9NOFdUSlJRZkd1eWFyZzBjOTRBN0piUjJyOEtsQmQ1V21ZWFk?oc=5)
 
 ---
 

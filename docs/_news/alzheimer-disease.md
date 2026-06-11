@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,29 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Après deux décennies de recherche, un traitement prometteur ralentit enfin Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWNENFdXZUFFU29VMFF1dEczdzcyVS1QNVRyT3BVQWE2b1hXbkZXa21falJzdzdhdkx5TVZmRk9YQXpGV0pZQkE4ZXQzTHlVYTB5bUVzMWNkcnQxRzRFZExiR2xyZ3c5c0wxRHVlV2pDUUJZYzFrNnNTU2ZSaEZITUI0cVB1MnJvcGpJdHdxUGU0S3Vyby1jalVNN0E2MDNYWExhN2RteHdkM2NGOUw1RTJwaVFQTHhGM3hjOU0wOG4wd2dxemlNNThpWGZiVlE0cXRESEJQVjM5TS11bll5UURLOWs4ZGs?oc=5)
+
+2026-06-11
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWNENFdXZUFFU29VMFF1dEczdzcyVS1QNVRyT3BVQWE2b1hXbkZXa21falJzdzdhdkx5TVZmRk9YQXpGV0pZQkE4ZXQzTHlVYTB5bUVzMWNkcnQxRzRFZExiR2xyZ3c5c0wxRHVlV2pDUUJZYzFrNnNTU2ZSaEZITUI0cVB1MnJvcGpJdHdxUGU0S3Vyby1jalVNN0E2MDNYWExhN2RteHdkM2NGOUw1RTJwaVFQTHhGM3hjOU0wOG4wd2dxemlNNThpWGZiVlE0cXRESEJQVjM5TS11bll5UURLOWs4ZGs?oc=5)
+
+---
 
 ### [The professor who thinks the shingles vaccine is the key to dementia prevention - The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXpCWUdwOTJRUDZjTE4xSFBJTFZFX1I4d3A4LTBtUmZCaGVTeXRIUlFaMnNRMEdpaFk0dm5vblhCOTVUbDhtSUxfN20zemFkOUw0V19aWGl5RmE2MG1ZYlUtMVBhUHdtU1BFaUlFZk9kbjBhNDZhaFVLQ0pWZ1R1dWEySk9IVnVsMnF3Y1lNVk5ucnEwSmJsZHlLN25rMVB4TXdoR0w1R1kyT3g4N0E?oc=5)
 
 2026-06-10
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXpCWUdwOTJRUDZjTE4xSFBJTFZFX1I4d3A4LTBtUmZCaGVTeXRIUlFaMnNRMEdpaFk0dm5vblhCOTVUbDhtSUxfN20zemFkOUw0V19aWGl5RmE2MG1ZYlUtMVBhUHdtU1BFaUlFZk9kbjBhNDZhaFVLQ0pWZ1R1dWEySk9IVnVsMnF3Y1lNVk5ucnEwSmJsZHlLN25rMVB4TXdoR0w1R1kyT3g4N0E?oc=5)
-
----
-
-### [‘You’re treated like this is the end’: Meet the dementia rebels – diagnosed and determined to change people’s minds - The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRm9ON0ZLclM1WS1RWVB3Q256VFRydWIwaVhrN1FIOUo2eUNLa3lySjgxMjhZTEE4RE1mLXE1RmxwcUdqVGp2NGdjRl8tUGV3LXRDYllIVzVFVFRwTWFxSm5GY2J5RXJQSldhMzV2UGlyTzRsY0hLd1R2M0lQS3N4T2xQYkNTRWU4NHNILXRLeWZ5eXhoRU95SGtIczQzOGhlM1ZmZFRhRTY?oc=5)
-
-2026-06-09
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRm9ON0ZLclM1WS1RWVB3Q256VFRydWIwaVhrN1FIOUo2eUNLa3lySjgxMjhZTEE4RE1mLXE1RmxwcUdqVGp2NGdjRl8tUGV3LXRDYllIVzVFVFRwTWFxSm5GY2J5RXJQSldhMzV2UGlyTzRsY0hLd1R2M0lQS3N4T2xQYkNTRWU4NHNILXRLeWZ5eXhoRU95SGtIczQzOGhlM1ZmZFRhRTY?oc=5)
-
----
-
-### [A popular joint pain supplement may accelerate dementia - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ0VoVUYxMFdpOWFkU1lLWGVLc0MxbVFHc2ZhZkplQjdFSFluZVA2TmRRcnFWaUxDdmozNzMzNTRuNE9FcGxDR3FxcGNDNjgwcFBoM2xIczhkM2lqb201emd2QUFVeGhCYm9DTGlQenc2YU8tNTlXcng3Rnp1dzl2YUVjWmlYQzA3cnc?oc=5)
-
-2026-06-09
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ0VoVUYxMFdpOWFkU1lLWGVLc0MxbVFHc2ZhZkplQjdFSFluZVA2TmRRcnFWaUxDdmozNzMzNTRuNE9FcGxDR3FxcGNDNjgwcFBoM2xIczhkM2lqb201emd2QUFVeGhCYm9DTGlQenc2YU8tNTlXcng3Rnp1dzl2YUVjWmlYQzA3cnc?oc=5)
 
 ---
 
