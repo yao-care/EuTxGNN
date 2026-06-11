@@ -14,7 +14,7 @@ permalink: /news/laronidase/
 ---
 
 <p class="key-answer" data-question="Laronidase 有什麼相關新聞？">
-<strong>Laronidase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Laronidase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/laronidase/
 <p><a href="{{ '/drugs/laronidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [The largest genetic study of anxiety symptom severity to date has found the condition is not only heritable but shows significant genetic overlap with heart disease, gut disorders, and migraine, in findings researchers describe as an important step forward in un - Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
 
 2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
 
 來源：[Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
-
----
-
-### [Tea is good for your health but the way you drink it matters, study finds - Yahoo News UK](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlluNlo4Z0hMbWpOc2FZYjVNRW5IaHJMa2E4X1hRUWZhbF9hbXJPQnpMWnMtaVpnMW9yNlZZZWFFV0c5UXVCWWxlYWhpR0ZLQ1pmVFVnRzVRWU81U3R0UjNtT0t3WkdrSzE0T2dNUjlfVjVoTGJaTUdjNkw4WDQ2d243RGJ4TDZNdk9IeFAwMWhnUG00SXdSYlJ2NDdXb0hyLU1MUF9YcWpsYVU2ZTkzLXEtNA?oc=5)
-
-2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlluNlo4Z0hMbWpOc2FZYjVNRW5IaHJMa2E4X1hRUWZhbF9hbXJPQnpMWnMtaVpnMW9yNlZZZWFFV0c5UXVCWWxlYWhpR0ZLQ1pmVFVnRzVRWU81U3R0UjNtT0t3WkdrSzE0T2dNUjlfVjVoTGJaTUdjNkw4WDQ2d243RGJ4TDZNdk9IeFAwMWhnUG00SXdSYlJ2NDdXb0hyLU1MUF9YcWpsYVU2ZTkzLXEtNA?oc=5)
 
 ---
 

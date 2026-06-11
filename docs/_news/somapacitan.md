@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthme</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,13 +52,29 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [Plasma-Vitamin-C und Hirnnetzwerke: Studie verknüpft Werte mit grauer Substanz und DMN-Connectivity - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
-2026-06-11 <span class="news-indication-tag">asma</span>
+2026-06-11 <span class="news-indication-tag">asthme</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
+
+---
+
+### [“Las personas con diabetes tipo 2, cuando utilizan sensores en líquido intersticial con insulina basal, mejoran su control glucémico global y pueden reducir significativamente las complicaciones agudas”](https://news.google.com/rss/articles/CBMivwJBVV95cUxNZU1uUWt5RVpvRmZqTWQ0R1JRSGN3VFVnY0xaSlVNeVJWLXBpcFJ5TkY5S2cyclkxaHJaWTNYLUFTa3hrOUYwT2VUbGVBdzk0b0RRWUVlRnd5WEUzcnc5ZmZNMEx3VDB4ZkMxTEw2cWg4dXVOZGNrMzkzLVpDVFk3MlF2ak5RMGh5Z0puUklyWmRKcDZLaWFWVWFaVU00T1ZpOVRrcDB0VjRFRG9mWldNUUN3NkdfXzZyb3ltRGZuQlVkNGVVdHdkWHpFN1BqdllyX0Nqd1MzS1g3d1F6N1VzVXE0empiY3IxdWF3bVNpeV9pR1BlSWpZLS13OFRGQmV3SzR3bVplNnlCVnF1RUU1T2V5T1JVZC1WRjN2b2ZPb2dWR2JSeDc1NGo4NzNETVhSUzVxWU5oUlN3MTVRN21F?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMivwJBVV95cUxNZU1uUWt5RVpvRmZqTWQ0R1JRSGN3VFVnY0xaSlVNeVJWLXBpcFJ5TkY5S2cyclkxaHJaWTNYLUFTa3hrOUYwT2VUbGVBdzk0b0RRWUVlRnd5WEUzcnc5ZmZNMEx3VDB4ZkMxTEw2cWg4dXVOZGNrMzkzLVpDVFk3MlF2ak5RMGh5Z0puUklyWmRKcDZLaWFWVWFaVU00T1ZpOVRrcDB0VjRFRG9mWldNUUN3NkdfXzZyb3ltRGZuQlVkNGVVdHdkWHpFN1BqdllyX0Nqd1MzS1g3d1F6N1VzVXE0empiY3IxdWF3bVNpeV9pR1BlSWpZLS13OFRGQmV3SzR3bVplNnlCVnF1RUU1T2V5T1JVZC1WRjN2b2ZPb2dWR2JSeDc1NGo4NzNETVhSUzVxWU5oUlN3MTVRN21F?oc=5)
+
+---
+
+### [Buchtip: Schöpfe Kraft aus deiner Krankheit – ein Mutmachbuch über das Leben mit Typ-1-Diabetes von Bajai Resch](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
 
 ---
 
@@ -78,19 +94,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Blutdruck-Medikamente: Kalziumkanalblocker erhöhen Nierenschaden-Risiko um 33% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
+
+---
+
 ### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
 2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
-
----
-
-### [Diabetes & Bluthochdruck: hohes Risiko für Nierenversagen - it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1poX2o5dXlHaVgzU2F1SWNpSmJsSkFpWTV1VkNHTEVPUE50UklQZ3NYNWNidXZaTjA2U1I0SjVlWGhmY2J2VldOd2FNckE4QVRPTlZIWDZGOGxzWUNIdnB1RVhZQTFybjdqcVJNcWxETU4zakx2TkJnUFVHaTNTTEE5LWxzSU9Hc0lkdjNJejg?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1poX2o5dXlHaVgzU2F1SWNpSmJsSkFpWTV1VkNHTEVPUE50UklQZ3NYNWNidXZaTjA2U1I0SjVlWGhmY2J2VldOd2FNckE4QVRPTlZIWDZGOGxzWUNIdnB1RVhZQTFybjdqcVJNcWxETU4zakx2TkJnUFVHaTNTTEE5LWxzSU9Hc0lkdjNJejg?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/somapacitan/
 2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
----
-
-### [Eating 1 popular fruit each day can 'ward off cancer and slash blood sugar levels' - Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
 
-### [Gilead, GeSIDA y APECS impulsan los primeros algoritmos clínicos para mejorar la atención del VIH en población migrante y en personas que practican chemsex - Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVZkX3hHZWNla0pxWkgtY2FSdlExOGJSbDgxcGcwdDdVbXJIeFU3VndCMXBsRGtNWGFqa1gtN3YtMXdzd3hibEYzQ1lGLWMzeENLMGkta2gtVW9DNG1rQ3FySEk5ZXZFTVVpeEg3SklnNVpGREtCdmgtS0ZBRmkzQTgyRVNkRDRjTmsyTG9NRkhDeVlOa1JYR0FnRXp2QVZucXluZFBsMDBYYi1sVFdF?oc=5)
+### [La Fisioterapia, herramienta esencial ante la esclerosis múltiple (EM) - Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5yTXg2LTczbEF0VVNpdHBaUVdIT3JXYkduZk5PR1VIZVVSNjJyQWNFMVkxRU1pMDgwRXVFbHVrYWprWWhNeWk1UzlnVUYxN0RmTGJDdDlIQ0YtMlNWV3VQdDEtM1pWcndlVEp2cjEyRUJELTk5VkZIMl9KNE5RS2pVWF9zWTdhVS0wbUNXRWhkQ012VDZoMXJWckRLWnVuQi1DRkF4WFRTT1VTb0RGZzFwUjNMZ1gwNkpDLWU5RmpxVGRlV09CWmV5SU9Ld9IBzgFBVV95cUxQWFNkV0tESVZrb2I4bUtJZkpvTi02cXFVYVVqejVyYy1ST3dMZ0lRaW01ZExQZFU2NVBXbXpsQVg4YTBYVG5lczVkZ2FRVjdfb1pjYmt6RFFwdUlwT1BHcS10bmtjRUJsSUIxTjBid2tOYXpiVHV2dzE0VHJRamJKZGRwRWFCbDVFbExyOFQ0alJ3OUpfSDl4WmhSckt5N1JtUkpzSHBlQ1lYaWFtOFB1LVBLajJoT1pwU0VnaW5vWVJIQUpaQ2ZyclB5bGc2Zw?oc=5)
 
-2026-06-11 <span class="news-indication-tag">MS</span>
+2026-06-11 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVZkX3hHZWNla0pxWkgtY2FSdlExOGJSbDgxcGcwdDdVbXJIeFU3VndCMXBsRGtNWGFqa1gtN3YtMXdzd3hibEYzQ1lGLWMzeENLMGkta2gtVW9DNG1rQ3FySEk5ZXZFTVVpeEg3SklnNVpGREtCdmgtS0ZBRmkzQTgyRVNkRDRjTmsyTG9NRkhDeVlOa1JYR0FnRXp2QVZucXluZFBsMDBYYi1sVFdF?oc=5)
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5yTXg2LTczbEF0VVNpdHBaUVdIT3JXYkduZk5PR1VIZVVSNjJyQWNFMVkxRU1pMDgwRXVFbHVrYWprWWhNeWk1UzlnVUYxN0RmTGJDdDlIQ0YtMlNWV3VQdDEtM1pWcndlVEp2cjEyRUJELTk5VkZIMl9KNE5RS2pVWF9zWTdhVS0wbUNXRWhkQ012VDZoMXJWckRLWnVuQi1DRkF4WFRTT1VTb0RGZzFwUjNMZ1gwNkpDLWU5RmpxVGRlV09CWmV5SU9Ld9IBzgFBVV95cUxQWFNkV0tESVZrb2I4bUtJZkpvTi02cXFVYVVqejVyYy1ST3dMZ0lRaW01ZExQZFU2NVBXbXpsQVg4YTBYVG5lczVkZ2FRVjdfb1pjYmt6RFFwdUlwT1BHcS10bmtjRUJsSUIxTjBid2tOYXpiVHV2dzE0VHJRamJKZGRwRWFCbDVFbExyOFQ0alJ3OUpfSDl4WmhSckt5N1JtUkpzSHBlQ1lYaWFtOFB1LVBLajJoT1pwU0VnaW5vWVJIQUpaQ2ZyclB5bGc2Zw?oc=5)
 
 ---
 
-### [A cracked coffin, a funeral and the hunt for Ebola's patient zero](https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3NhQ1hQX2sxNmdNeHZDcXNwdE1LQkpVLUNtV1h6WFlDNmZHNGE3RndvcmRCVnpRaGxPVjdmTjJCaU5WMVdJM1dZemd2RThtM3Fqc1FWRmlhRF9qMlRkUEI2N25mRTVjWGZjeUFDNnluYld2bTRrZWRNZnNUQlJ0VS0ycUVYRkdXWWpJVHpMWG1qUHVaUmtKbmFZb2w?oc=5)
+### ['Painful' sexually transmitted infection that condoms don't prevent is on the rise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
 
-2026-06-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">MS</span>
 
-來源：[Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3NhQ1hQX2sxNmdNeHZDcXNwdE1LQkpVLUNtV1h6WFlDNmZHNGE3RndvcmRCVnpRaGxPVjdmTjJCaU5WMVdJM1dZemd2RThtM3Fqc1FWRmlhRF9qMlRkUEI2N25mRTVjWGZjeUFDNnluYld2bTRrZWRNZnNUQlJ0VS0ycUVYRkdXWWpJVHpMWG1qUHVaUmtKbmFZb2w?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
 
 ---
 
@@ -104,7 +104,7 @@ permalink: /news/elbasvir/
 
 ### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
-2026-06-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-06-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
@@ -118,27 +118,19 @@ permalink: /news/elbasvir/
 
 ---
 
+### [The World Cup Could Spread More Than Soccer Fever, Experts Warn](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdE4yZElSaVUwc1VsNjhuT2RBT0p0Mk1sWGtBY1I0dkVxbzBKakt2TnJQM3UwTWROQkUzSzIxY0NNcU9Pa3JPcDkybHZ5UXJtdnpyT2lPYjgzNEtjbDVqRWFLUjRjaXVRVGh3SHc5M090OEZ5Ykh6Y0dud090NGZfek0wQlg1cjhXNXUzTFZIUUJHOGlhOGc?oc=5)
+
+2026-06-11 <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdE4yZElSaVUwc1VsNjhuT2RBT0p0Mk1sWGtBY1I0dkVxbzBKakt2TnJQM3UwTWROQkUzSzIxY0NNcU9Pa3JPcDkybHZ5UXJtdnpyT2lPYjgzNEtjbDVqRWFLUjRjaXVRVGh3SHc5M090OEZ5Ykh6Y0dud090NGZfek0wQlg1cjhXNXUzTFZIUUJHOGlhOGc?oc=5)
+
+---
+
 ### [The largest genetic study of anxiety symptom severity to date has found the condition is not only heritable but shows significant genetic overlap with heart disease, gut disorders, and migraine, in findings researchers describe as an important step forward in un - Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
 
 2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
 
 來源：[Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
-
----
-
-### [KI-Impfstoff: Cambridge testet erstmals KI-designtes Antigen am Menschen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1B6ZjRWSzkxSkNfYk01OTBKX2N0Tmx6c3VwbGgwZG9KalUxemQ4NnAycGQ1cU4xZERxUWdjakV5VG9hd3VOSllJTnJUM3habkhuaHpvcFBPRUV4aG5XVXE5OWU5cEU0OWlVMXgtVTlfWmVQRDk5eTY4NUJWNnladUItSG5UTjFKdXhpSUdpd0xtQWtlR25LOUVJbWx6MUpCUkxLT1dwV3lTRWlLNXhKOS01NllhT05BQ3BQZw?oc=5)
-
-2026-06-10 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1B6ZjRWSzkxSkNfYk01OTBKX2N0Tmx6c3VwbGgwZG9KalUxemQ4NnAycGQ1cU4xZERxUWdjakV5VG9hd3VOSllJTnJUM3habkhuaHpvcFBPRUV4aG5XVXE5OWU5cEU0OWlVMXgtVTlfWmVQRDk5eTY4NUJWNnladUItSG5UTjFKdXhpSUdpd0xtQWtlR25LOUVJbWx6MUpCUkxLT1dwV3lTRWlLNXhKOS01NllhT05BQ3BQZw?oc=5)
-
----
-
-### [Tea is good for your health but the way you drink it matters, study finds - Yahoo News UK](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlluNlo4Z0hMbWpOc2FZYjVNRW5IaHJMa2E4X1hRUWZhbF9hbXJPQnpMWnMtaVpnMW9yNlZZZWFFV0c5UXVCWWxlYWhpR0ZLQ1pmVFVnRzVRWU81U3R0UjNtT0t3WkdrSzE0T2dNUjlfVjVoTGJaTUdjNkw4WDQ2d243RGJ4TDZNdk9IeFAwMWhnUG00SXdSYlJ2NDdXb0hyLU1MUF9YcWpsYVU2ZTkzLXEtNA?oc=5)
-
-2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlluNlo4Z0hMbWpOc2FZYjVNRW5IaHJMa2E4X1hRUWZhbF9hbXJPQnpMWnMtaVpnMW9yNlZZZWFFV0c5UXVCWWxlYWhpR0ZLQ1pmVFVnRzVRWU81U3R0UjNtT0t3WkdrSzE0T2dNUjlfVjVoTGJaTUdjNkw4WDQ2d243RGJ4TDZNdk9IeFAwMWhnUG00SXdSYlJ2NDdXb0hyLU1MUF9YcWpsYVU2ZTkzLXEtNA?oc=5)
 
 ---
 

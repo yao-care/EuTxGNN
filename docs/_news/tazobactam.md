@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Plasma-Vitamin-C und Hirnnetzwerke: Studie verknüpft Werte mit grauer Substanz und DMN-Connectivity - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
-2026-06-11 <span class="news-indication-tag">asma</span>
+2026-06-11 <span class="news-indication-tag">asthme</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
-
----
-
-### [Desarrollan fármaco que podría frenar la aparición de la artritis reumatoide, revela ensayo clínico - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGdYZlNEZEJ2TzJUSEd4ZVFOTzZzMjdOZ3JlY29VN0lfbjlPejhhNXlrWWZDcXRFYVJURXNRMG1VNE5JY0dOSFdUY0Nod1hobVo1NG1QYU15bExkaGtXUzk0RGMxNllOaTJUSmx2S1Q3NGFCWWZicVcwRE5WcDNpNG5YNXpxR2pxaTJMbl9QcWlIMUtxWVc1OWhSUDBnZ1ViTVh3NTVRWUZQLTZ5cTlrMHNFT1pmT2FKamR3RWV5R2FybUgxRWJQcVNra3pVQVd0ekJTMXVzQ1g0ZElXcFlNc3JBZUpLS21qSXBwQXJDWTFUUdIB9wFBVV95cUxNZFlwRV9yTzQxMVA5MlpzVmo1Nmp6QlJOQ01aSjNPQmQyRFhMN0NfLVF5a2NBZzRNOWUzZkR2UFBKb0M5aUtiQXRyR3FaYk16OWdaRTFBT29XVkwxUGRBVi1raEZHSW5ILVdkYUdjRDd1aDR2RDQ1MUo0UE9nUGZ1d0E5a29fNEhKRnBvMUFYTHV6QWFOQk5MZGxDYVJHQnlud3NDN2hndTZJWFdQOHoxU3U3dmw5WFEyYTdxRUxlSHFsOGIyamgyQk5kYnRNV25kVkNWaGRDeFRYbnUyTHJBbmVMZFNlWF9VYWVZYl81REFYVzhJUERN?oc=5)
-
-2026-06-11 <span class="news-indication-tag">artritis</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGdYZlNEZEJ2TzJUSEd4ZVFOTzZzMjdOZ3JlY29VN0lfbjlPejhhNXlrWWZDcXRFYVJURXNRMG1VNE5JY0dOSFdUY0Nod1hobVo1NG1QYU15bExkaGtXUzk0RGMxNllOaTJUSmx2S1Q3NGFCWWZicVcwRE5WcDNpNG5YNXpxR2pxaTJMbl9QcWlIMUtxWVc1OWhSUDBnZ1ViTVh3NTVRWUZQLTZ5cTlrMHNFT1pmT2FKamR3RWV5R2FybUgxRWJQcVNra3pVQVd0ekJTMXVzQ1g0ZElXcFlNc3JBZUpLS21qSXBwQXJDWTFUUdIB9wFBVV95cUxNZFlwRV9yTzQxMVA5MlpzVmo1Nmp6QlJOQ01aSjNPQmQyRFhMN0NfLVF5a2NBZzRNOWUzZkR2UFBKb0M5aUtiQXRyR3FaYk16OWdaRTFBT29XVkwxUGRBVi1raEZHSW5ILVdkYUdjRDd1aDR2RDQ1MUo0UE9nUGZ1d0E5a29fNEhKRnBvMUFYTHV6QWFOQk5MZGxDYVJHQnlud3NDN2hndTZJWFdQOHoxU3U3dmw5WFEyYTdxRUxlSHFsOGIyamgyQk5kYnRNV25kVkNWaGRDeFRYbnUyTHJBbmVMZFNlWF9VYWVZYl81REFYVzhJUERN?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 ---
 

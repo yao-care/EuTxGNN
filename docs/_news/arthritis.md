@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "artritis（arthritis） 相關新聞"
+title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artritis（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# artritis（arthritis） 相關新聞
+# arthritis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="artritis（arthritis） 有什麼相關新聞？">
-<strong>artritis（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
+<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「artritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,15 +101,7 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Desarrollan fármaco que podría frenar la aparición de la artritis reumatoide, revela ensayo clínico - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGdYZlNEZEJ2TzJUSEd4ZVFOTzZzMjdOZ3JlY29VN0lfbjlPejhhNXlrWWZDcXRFYVJURXNRMG1VNE5JY0dOSFdUY0Nod1hobVo1NG1QYU15bExkaGtXUzk0RGMxNllOaTJUSmx2S1Q3NGFCWWZicVcwRE5WcDNpNG5YNXpxR2pxaTJMbl9QcWlIMUtxWVc1OWhSUDBnZ1ViTVh3NTVRWUZQLTZ5cTlrMHNFT1pmT2FKamR3RWV5R2FybUgxRWJQcVNra3pVQVd0ekJTMXVzQ1g0ZElXcFlNc3JBZUpLS21qSXBwQXJDWTFUUdIB9wFBVV95cUxNZFlwRV9yTzQxMVA5MlpzVmo1Nmp6QlJOQ01aSjNPQmQyRFhMN0NfLVF5a2NBZzRNOWUzZkR2UFBKb0M5aUtiQXRyR3FaYk16OWdaRTFBT29XVkwxUGRBVi1raEZHSW5ILVdkYUdjRDd1aDR2RDQ1MUo0UE9nUGZ1d0E5a29fNEhKRnBvMUFYTHV6QWFOQk5MZGxDYVJHQnlud3NDN2hndTZJWFdQOHoxU3U3dmw5WFEyYTdxRUxlSHFsOGIyamgyQk5kYnRNV25kVkNWaGRDeFRYbnUyTHJBbmVMZFNlWF9VYWVZYl81REFYVzhJUERN?oc=5)
-
-2026-06-11
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGdYZlNEZEJ2TzJUSEd4ZVFOTzZzMjdOZ3JlY29VN0lfbjlPejhhNXlrWWZDcXRFYVJURXNRMG1VNE5JY0dOSFdUY0Nod1hobVo1NG1QYU15bExkaGtXUzk0RGMxNllOaTJUSmx2S1Q3NGFCWWZicVcwRE5WcDNpNG5YNXpxR2pxaTJMbl9QcWlIMUtxWVc1OWhSUDBnZ1ViTVh3NTVRWUZQLTZ5cTlrMHNFT1pmT2FKamR3RWV5R2FybUgxRWJQcVNra3pVQVd0ekJTMXVzQ1g0ZElXcFlNc3JBZUpLS21qSXBwQXJDWTFUUdIB9wFBVV95cUxNZFlwRV9yTzQxMVA5MlpzVmo1Nmp6QlJOQ01aSjNPQmQyRFhMN0NfLVF5a2NBZzRNOWUzZkR2UFBKb0M5aUtiQXRyR3FaYk16OWdaRTFBT29XVkwxUGRBVi1raEZHSW5ILVdkYUdjRDd1aDR2RDQ1MUo0UE9nUGZ1d0E5a29fNEhKRnBvMUFYTHV6QWFOQk5MZGxDYVJHQnlud3NDN2hndTZJWFdQOHoxU3U3dmw5WFEyYTdxRUxlSHFsOGIyamgyQk5kYnRNV25kVkNWaGRDeFRYbnUyTHJBbmVMZFNlWF9VYWVZYl81REFYVzhJUERN?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Lungenultraschall erkennt Fortschreiten von Lungenveränderungen bei rheumatoider Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
 

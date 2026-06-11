@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="Aripiprazole 有什麼相關新聞？">
-<strong>Aripiprazole</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aripiprazole</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/aripiprazole/
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（16 則）
 
-### [CNIC y Fundación AstraZeneca reúnen a jóvenes científicos para impulsar la estrategia cardiovascular 'SAFE HEARTS PLAN'](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdERqc1RCR1c0RDZZT1dsemEwbDh2N2hXU3l3bU1UbnZEZmt5dVJ5NjBzalJ5MEZXdVBMeVY3ZHVRVUFBYzA3NXZ5Y3lBR0RDMkxjX1g1UjdpWi1UYW80VER6b09JZXdWTDVCOGpCM1RBdl83X3E2Wld4ZmpKRjZCMXJrMmpfNGxSQUNoWExHbUl5ME1qWEFKcWc2NkwweC1mWXdtRjExeTBwTmdLV1VuU19jM2V2ZG50NWlYeHNHdk9nYkVNTVhNMDhfLXI1MUlsaDVLd1VkcmV4czE4UVlKT0prT3RKcWdIRU9abFJLaE55LVhpd01ZaDlhdmYxWGdaSGVJT2Nkb0xpNE0?oc=5)
+### [El plan cardiovascular europeo reta a España a acelerar su despliegue en el SNS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXZ6Z1pEYnlxRFRvREdXTjFzejZnb1NtNVlrTFhYM2ZoR3FacEpCYVJOdTk0UWp3T25OeXE3TDRGbXhlS1VOTGhwRDU5aTR0NEZSbVg5dk5WdmtmZ0wyR0R4WjRxS1hlQUVtY0FUOUhzc080UG54U0d4elBQdDBHTF9UeDNHMUgwSUtOMHYyRVRTU3dkX1d0N1kyTHFFVTVWeDBOdWF0UENLUjZwZ2E2cTVKMXU?oc=5)
 
 2026-06-11 <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdERqc1RCR1c0RDZZT1dsemEwbDh2N2hXU3l3bU1UbnZEZmt5dVJ5NjBzalJ5MEZXdVBMeVY3ZHVRVUFBYzA3NXZ5Y3lBR0RDMkxjX1g1UjdpWi1UYW80VER6b09JZXdWTDVCOGpCM1RBdl83X3E2Wld4ZmpKRjZCMXJrMmpfNGxSQUNoWExHbUl5ME1qWEFKcWc2NkwweC1mWXdtRjExeTBwTmdLV1VuU19jM2V2ZG50NWlYeHNHdk9nYkVNTVhNMDhfLXI1MUlsaDVLd1VkcmV4czE4UVlKT0prT3RKcWdIRU9abFJLaE55LVhpd01ZaDlhdmYxWGdaSGVJT2Nkb0xpNE0?oc=5)
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXZ6Z1pEYnlxRFRvREdXTjFzejZnb1NtNVlrTFhYM2ZoR3FacEpCYVJOdTk0UWp3T25OeXE3TDRGbXhlS1VOTGhwRDU5aTR0NEZSbVg5dk5WdmtmZ0wyR0R4WjRxS1hlQUVtY0FUOUhzc080UG54U0d4elBQdDBHTF9UeDNHMUgwSUtOMHYyRVRTU3dkX1d0N1kyTHFFVTVWeDBOdWF0UENLUjZwZ2E2cTVKMXU?oc=5)
 
 ---
 
-### [Mitos, bulos y verdades del cáncer de próstata - La Vanguardia](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0dkQ19hUUlaeTBhRllhTnpsYV85aWtlNVVnV1JWOWhFMnp6T1lnaGY2aHltS0NNaVVTMzVxMzBQUlQxT2lKZ01SME8zbk9fdWRfUDQ5eVoxcEVuRXhjRXp2eV9rVU0ydjJxd0FKaDVTcGtKSUhJZTMxcEd0LXFyNEtoLXNnR2t0N1IzMjBjQnQxN1VkcVBXTtIBngFBVV95cUxQay14ZmhlYTlvcDBPdGVYZU5tRFZhbTh6cnI5UjF0alZFc3NpLTJjWTc2THdQZVJnd3gyWGFBTkxhdzlwWEhlZGV5WlBHbnJybWZ4TVVFejdJRmtvdW5WZ3hsYTNhNHNiRmdlYjZtX3hIZEVoRnpOMDFUZXRnMFR0VXJiSENfWVdLaWNzY3ZsTW5IcTZIWWh5VnpiYXVTQQ?oc=5)
+### [Hampshire boy's hospital treatment was appropriate, inquest told](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSkFRclBtb3dZSGgtVUgzTnpXZ2FsMXY3YS1HY215ZHNZVkJOTXVfaVpvQ1ZLQk1VaXZJWHVtRWZpWmFJWm9mZWVtRXh0THFDdXhBNlg4NlNtZ0lN?oc=5)
 
-2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0dkQ19hUUlaeTBhRllhTnpsYV85aWtlNVVnV1JWOWhFMnp6T1lnaGY2aHltS0NNaVVTMzVxMzBQUlQxT2lKZ01SME8zbk9fdWRfUDQ5eVoxcEVuRXhjRXp2eV9rVU0ydjJxd0FKaDVTcGtKSUhJZTMxcEd0LXFyNEtoLXNnR2t0N1IzMjBjQnQxN1VkcVBXTtIBngFBVV95cUxQay14ZmhlYTlvcDBPdGVYZU5tRFZhbTh6cnI5UjF0alZFc3NpLTJjWTc2THdQZVJnd3gyWGFBTkxhdzlwWEhlZGV5WlBHbnJybWZ4TVVFejdJRmtvdW5WZ3hsYTNhNHNiRmdlYjZtX3hIZEVoRnpOMDFUZXRnMFR0VXJiSENfWVdLaWNzY3ZsTW5IcTZIWWh5VnpiYXVTQQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSkFRclBtb3dZSGgtVUgzTnpXZ2FsMXY3YS1HY215ZHNZVkJOTXVfaVpvQ1ZLQk1VaXZJWHVtRWZpWmFJWm9mZWVtRXh0THFDdXhBNlg4NlNtZ0lN?oc=5)
 
 ---
 
-### [A cracked coffin, a funeral and the hunt for Ebola's patient zero](https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3NhQ1hQX2sxNmdNeHZDcXNwdE1LQkpVLUNtV1h6WFlDNmZHNGE3RndvcmRCVnpRaGxPVjdmTjJCaU5WMVdJM1dZemd2RThtM3Fqc1FWRmlhRF9qMlRkUEI2N25mRTVjWGZjeUFDNnluYld2bTRrZWRNZnNUQlJ0VS0ycUVYRkdXWWpJVHpMWG1qUHVaUmtKbmFZb2w?oc=5)
+### [Buchtip: Schöpfe Kraft aus deiner Krankheit – ein Mutmachbuch über das Leben mit Typ-1-Diabetes von Bajai Resch](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
 
-2026-06-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3NhQ1hQX2sxNmdNeHZDcXNwdE1LQkpVLUNtV1h6WFlDNmZHNGE3RndvcmRCVnpRaGxPVjdmTjJCaU5WMVdJM1dZemd2RThtM3Fqc1FWRmlhRF9qMlRkUEI2N25mRTVjWGZjeUFDNnluYld2bTRrZWRNZnNUQlJ0VS0ycUVYRkdXWWpJVHpMWG1qUHVaUmtKbmFZb2w?oc=5)
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
 
 ---
 
@@ -94,11 +94,27 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Gemma Bes, nutricionista de la Rafa Nadal Academy: “A partir de los 55 años no se necesitan dietas extremas ni estrategias agresivas; hay que priorizar adherencia y equilibrio” - La Vanguardia](https://news.google.com/rss/articles/CBMitwJBVV95cUxNWFBJNzh5X0M1dVZUNHZycTZXZ2R3S2U1SXhGa2dYREp5YzF0VmROQ3FsXzVvcG5UNGVrLU8xSGhRSmtTWjIwTV9TYkctQm5wUUdOZ0VaTVJEcmY4ZlJEMUpETDlxa2pMM2hCcGJRMlVBcEhFbG5NU0paS3QwMThOaU5WNHVGOGU0T3pwMk9raWFBNm8yMmNxeDNXY0pXdEwyTVpvX0xjWHdRN253TzdzRmFhRlFEVEx0MXdiN3NpVmctdURwV1IzdFRnSTVZTHFieGp6WF9VSERLUUFjU08zSEt6NnVIRFUzeVc0N09mZ0NBaEdnU3R2QmVLR21CMEo3b1RpOHlndHpQQ082Z1ExXzZGU1NuXzhEdlJYWHJxYnBKRGt5UEFhaEpYWEJfWHVyYjRDMDVHRdIBvAJBVV95cUxNbU8zWjVXQmd5b0RSSUxlQ2RjcUQ1SEdBWHJPbGg3bTJ0QURpYy1tRS1MaERTMmhDR2tKdzNBdUQxOHNsRU5DU3lqbGNQY3JYb05iWmZfRWIwZHNUaGN5NE4za0lscVRnQU51VGMxaktjVE1ia1BzNy1tYVltOGFPZ2Zqb09PME1TZjRCeUJSU1ZSUi0wUDEwbTVDeTlqWXJ3QS1oclNmeUtYaGpVVHlocTBPcndldFJaSS1Ia1FxNVJmcDdUYW5KdDlZcWxrY1RRWDhlNTMtSnFfb3loVzJGUHl4MnhFc1hkUUpkNTFxYmY5Nmk0SllPSmQ2dkwteXE2aGhIanFscGZUNmVVeEowUU9ZQlhUQWF5QnA4TlQyWEM2cmJZMjR2SWhuMFcxVVBSSWw4dDg4eDNjbUFN?oc=5)
+### [Día del Cáncer de Próstata: el tumor que más afecta a los hombres no da síntomas pero puede detectarse a tiempo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
 
-2026-06-11 <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMitwJBVV95cUxNWFBJNzh5X0M1dVZUNHZycTZXZ2R3S2U1SXhGa2dYREp5YzF0VmROQ3FsXzVvcG5UNGVrLU8xSGhRSmtTWjIwTV9TYkctQm5wUUdOZ0VaTVJEcmY4ZlJEMUpETDlxa2pMM2hCcGJRMlVBcEhFbG5NU0paS3QwMThOaU5WNHVGOGU0T3pwMk9raWFBNm8yMmNxeDNXY0pXdEwyTVpvX0xjWHdRN253TzdzRmFhRlFEVEx0MXdiN3NpVmctdURwV1IzdFRnSTVZTHFieGp6WF9VSERLUUFjU08zSEt6NnVIRFUzeVc0N09mZ0NBaEdnU3R2QmVLR21CMEo3b1RpOHlndHpQQ082Z1ExXzZGU1NuXzhEdlJYWHJxYnBKRGt5UEFhaEpYWEJfWHVyYjRDMDVHRdIBvAJBVV95cUxNbU8zWjVXQmd5b0RSSUxlQ2RjcUQ1SEdBWHJPbGg3bTJ0QURpYy1tRS1MaERTMmhDR2tKdzNBdUQxOHNsRU5DU3lqbGNQY3JYb05iWmZfRWIwZHNUaGN5NE4za0lscVRnQU51VGMxaktjVE1ia1BzNy1tYVltOGFPZ2Zqb09PME1TZjRCeUJSU1ZSUi0wUDEwbTVDeTlqWXJ3QS1oclNmeUtYaGpVVHlocTBPcndldFJaSS1Ia1FxNVJmcDdUYW5KdDlZcWxrY1RRWDhlNTMtSnFfb3loVzJGUHl4MnhFc1hkUUpkNTFxYmY5Nmk0SllPSmQ2dkwteXE2aGhIanFscGZUNmVVeEowUU9ZQlhUQWF5QnA4TlQyWEM2cmJZMjR2SWhuMFcxVVBSSWw4dDg4eDNjbUFN?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
+
+---
+
+### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
+
+2026-06-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
+
+---
+
+### [Benefits Of Drinking Saffron Water In The Morning](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHBZUG84Rmppa2FCVjBIWnhLR3pBTktvOWowX2VRd05hbEMyUmdHVjBVNEthbzhaTHFISTZnQWNoTnVrdndILXNwZjNSNlNmMFNJN2MyVWw5ZzFTRHhkRnl5Y2c1aUE1MzluZFpLUTM1MUE2QVNTdUJZSWN3QXNGQzQ3RlNFTHJqbmtSbVhSa1JmRl84Y2RPYkQyTkVSSXJLQlFZ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">AF</span>
+
+來源：[NDTV](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHBZUG84Rmppa2FCVjBIWnhLR3pBTktvOWowX2VRd05hbEMyUmdHVjBVNEthbzhaTHFISTZnQWNoTnVrdndILXNwZjNSNlNmMFNJN2MyVWw5ZzFTRHhkRnl5Y2c1aUE1MzluZFpLUTM1MUE2QVNTdUJZSWN3QXNGQzQ3RlNFTHJqbmtSbVhSa1JmRl84Y2RPYkQyTkVSSXJLQlFZ?oc=5)
 
 ---
 
@@ -163,38 +179,6 @@ permalink: /news/aripiprazole/
 2026-06-10 <span class="news-indication-tag">AF</span>
 
 來源：[martinique.franceantilles.fr](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDM3WnBxYS1qdkxOZGJVc0o4UDAyOHpfTWd5ZjN0VWNrVGM0R0pvOFpwYlJoZXoyVExTb0xLUFpxd19vOEhzQTFac2w3UjdsOWR2VUFUZC1iWXIySDNxZk9mclZUcXZKNTY3WjdBT0t4N1poQy0yVGd3b0hzb2tCby1GMWdsNFFoUk9qQm9Uc1V4VWVrTzNUTzFB?oc=5)
-
----
-
-### [Scandal as thousands of NHS staff across England exposed to cancer-causing chemical dubbed 'next asbestos' - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFpQSllaUl9PZHpoM2NrTmNBNVFtQnJJTWxOVFJFVmZuekZ0bmhTdjVCeUJubllPbmR3Vy1USmRfcl9keERoc0d1UnVQcEVoOXdYdHdwNmlRNTJkcFJRMW43dW5ydjV4VXVGdF91ZHFFQnhyUXdmc1BJbUJ2bUhKcHpEZEpLbVF3WFdlZ3BvTGlyaVJ0b3QyUW85TzZtOWJmVFlPZQ?oc=5)
-
-2026-06-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFpQSllaUl9PZHpoM2NrTmNBNVFtQnJJTWxOVFJFVmZuekZ0bmhTdjVCeUJubllPbmR3Vy1USmRfcl9keERoc0d1UnVQcEVoOXdYdHdwNmlRNTJkcFJRMW43dW5ydjV4VXVGdF91ZHFFQnhyUXdmc1BJbUJ2bUhKcHpEZEpLbVF3WFdlZ3BvTGlyaVJ0b3QyUW85TzZtOWJmVFlPZQ?oc=5)
-
----
-
-### [Cardiff woman with acute myeloid leukaemia says leaving twin is 'unthinkable'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00SGFxSXVrVFQwc2wwdlRHNGRNRS11VU15bndlN1hub3g5OUdLXzFKZUp5YjhRTWlDMGotekNCN3pRT3p1NU8tZHVwVEkxZnpjMngtUFhNb1RjVlhr?oc=5)
-
-2026-06-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00SGFxSXVrVFQwc2wwdlRHNGRNRS11VU15bndlN1hub3g5OUdLXzFKZUp5YjhRTWlDMGotekNCN3pRT3p1NU8tZHVwVEkxZnpjMngtUFhNb1RjVlhr?oc=5)
-
----
-
-### [Mammografie-KI erkennt Herzinfarkt-Risiko 4- bis 8-fach erhöht - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1dHWjFhRDktT0ZvakRUOVl3M2c5WTYyQ0p4SUFYS09lUjlrVzZlQnVKYkxtdGxRN3BDeFlPTkhPMVV6ZnN5OU93UU13eWtxcmRYcGJ5NERnWVhKdk1hdzcwN1ZwRFByenBlQW1OYTdSVm9Wc3NiWjFueFlLTXpxOXhlQkZGVUthSm1ibUNYMkpNVVJnV3VMX3A3U2FSZkdNMm1zcXEyUjItSHNJMGNpVw?oc=5)
-
-2026-06-09 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1dHWjFhRDktT0ZvakRUOVl3M2c5WTYyQ0p4SUFYS09lUjlrVzZlQnVKYkxtdGxRN3BDeFlPTkhPMVV6ZnN5OU93UU13eWtxcmRYcGJ5NERnWVhKdk1hdzcwN1ZwRFByenBlQW1OYTdSVm9Wc3NiWjFueFlLTXpxOXhlQkZGVUthSm1ibUNYMkpNVVJnV3VMX3A3U2FSZkdNMm1zcXEyUjItSHNJMGNpVw?oc=5)
-
----
-
-### [Ultraschall-Patch kann Schwangerschaft kontinuierlich beobachten – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkFfaXJyMEV4aVRaVk1LR0xNcUNmX3BqdmRsNnRBT2hzSWJTcE5JdVBseDV4RnhBZkMtcm9INlF3dndIcDMyblNUMThSVEdHSFl1UEJNSHdlSnpMelVBeGV0TEZPYnV2djRoY1FmT1ZHR3M4ZWZUN05JTnZXdGhWSk0zU3BQbHZVcWFtclJma3hsX3JVbW1GZVVQcjI3b2EwOVYxRzJWMjBaY3o2Qmp1OUVzekR6R0t0TUZDRmtzT0xIaGFTYkpZYnRQNV9KZw?oc=5)
-
-2026-06-09 <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkFfaXJyMEV4aVRaVk1LR0xNcUNmX3BqdmRsNnRBT2hzSWJTcE5JdVBseDV4RnhBZkMtcm9INlF3dndIcDMyblNUMThSVEdHSFl1UEJNSHdlSnpMelVBeGV0TEZPYnV2djRoY1FmT1ZHR3M4ZWZUN05JTnZXdGhWSk0zU3BQbHZVcWFtclJma3hsX3JVbW1GZVVQcjI3b2EwOVYxRzJWMjBaY3o2Qmp1OUVzekR6R0t0TUZDRmtzT0xIaGFTYkpZYnRQNV9KZw?oc=5)
 
 ---
 

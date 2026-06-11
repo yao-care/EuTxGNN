@@ -54,19 +54,19 @@ permalink: /news/orlistat/
 
 ## 相關新聞（7 則）
 
+### [Adipositas-Forschung 2026: Neue Daten stellen alte Lehrmeinungen infrage - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3dHa3UyM1pMc1F2SnRhSzJXa3dERUs3OVg3U3BieUd4dnhuQzVQLTY3QVFGMkwxZzRZZnNxWXN3NjhqaW9DTG11amNNdXlDTmxLNmVYUFNQZ0NJNUFaZXNPYUkybjlZTFR2bTVMemlNOS1CWUZjNlhfR2U4Y3g5c1YxTzlpYWN5dF93MXg0cTREZ3owdmdxbF8wcUo2cW1qMGpwUV9iNlRRRjh1TVcyZ0ItWkdWdUdtendfVQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3dHa3UyM1pMc1F2SnRhSzJXa3dERUs3OVg3U3BieUd4dnhuQzVQLTY3QVFGMkwxZzRZZnNxWXN3NjhqaW9DTG11amNNdXlDTmxLNmVYUFNQZ0NJNUFaZXNPYUkybjlZTFR2bTVMemlNOS1CWUZjNlhfR2U4Y3g5c1YxTzlpYWN5dF93MXg0cTREZ3owdmdxbF8wcUo2cW1qMGpwUV9iNlRRRjh1TVcyZ0ItWkdWdUdtendfVQ?oc=5)
+
+---
+
 ### [Il 99% di infarti e ictus è collegato a 4 fattori di rischio: i risultati del maxi studio su JACC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
 
 2026-06-11 <span class="news-indication-tag">ictus</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
-
----
-
-### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
-
-2026-06-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
 ---
 

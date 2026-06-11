@@ -54,11 +54,11 @@ permalink: /news/indacaterol-maleate/
 
 ## 相關新聞（1 則）
 
-### [Plasma-Vitamin-C und Hirnnetzwerke: Studie verknüpft Werte mit grauer Substanz und DMN-Connectivity - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
-2026-06-11 <span class="news-indication-tag">asma</span>
+2026-06-11 <span class="news-indication-tag">asthme</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 ---
 

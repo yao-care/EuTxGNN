@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthme（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asthme（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthme（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
+<strong>asthme（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,11 +77,11 @@ permalink: /news/asthma/
 
 ## 相關新聞（1 則）
 
-### [Plasma-Vitamin-C und Hirnnetzwerke: Studie verknüpft Werte mit grauer Substanz und DMN-Connectivity - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 2026-06-11
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJqNDJUZTZwa3BZZmlEakNFVHZGbi00TFdmczkxTzZqR3YwMXFqRkY3ZXdnVDYzLTN1dU5jRmsyNlBpS0Zobm01V0FHNTYyU3BQRkRYNkdQWWtNUnRSUU83Rm83UnpGYkV4VUU1UE1Qa0prdzBwcHVXWDA5NldSQlNjX2tPX21zWUN3Z3RpYzhkeDA2MTYwaVh4LWhoanBlWDZfSnVhRUdpN0x2MXZZNUxDZTdncEo4LTBpVV83UlpyT0V3T25NVGgzWQ?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 ---
 

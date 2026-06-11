@@ -54,11 +54,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（5 則）
 
-### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
+### [Adipositas-Forschung 2026: Neue Daten stellen alte Lehrmeinungen infrage - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3dHa3UyM1pMc1F2SnRhSzJXa3dERUs3OVg3U3BieUd4dnhuQzVQLTY3QVFGMkwxZzRZZnNxWXN3NjhqaW9DTG11amNNdXlDTmxLNmVYUFNQZ0NJNUFaZXNPYUkybjlZTFR2bTVMemlNOS1CWUZjNlhfR2U4Y3g5c1YxTzlpYWN5dF93MXg0cTREZ3owdmdxbF8wcUo2cW1qMGpwUV9iNlRRRjh1TVcyZ0ItWkdWdUdtendfVQ?oc=5)
 
-2026-06-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-06-11 <span class="news-indication-tag">Adipositas</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3dHa3UyM1pMc1F2SnRhSzJXa3dERUs3OVg3U3BieUd4dnhuQzVQLTY3QVFGMkwxZzRZZnNxWXN3NjhqaW9DTG11amNNdXlDTmxLNmVYUFNQZ0NJNUFaZXNPYUkybjlZTFR2bTVMemlNOS1CWUZjNlhfR2U4Y3g5c1YxTzlpYWN5dF93MXg0cTREZ3owdmdxbF8wcUo2cW1qMGpwUV9iNlRRRjh1TVcyZ0ItWkdWdUdtendfVQ?oc=5)
 
 ---
 

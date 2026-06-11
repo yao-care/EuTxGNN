@@ -14,7 +14,7 @@ permalink: /news/ranolazine/
 ---
 
 <p class="key-answer" data-question="Ranolazine 有什麼相關新聞？">
-<strong>Ranolazine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ranolazine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/ranolazine/
 <p><a href="{{ '/drugs/ranolazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Desarrollan fármaco que podría frenar la aparición de la artritis reumatoide, revela ensayo clínico - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGdYZlNEZEJ2TzJUSEd4ZVFOTzZzMjdOZ3JlY29VN0lfbjlPejhhNXlrWWZDcXRFYVJURXNRMG1VNE5JY0dOSFdUY0Nod1hobVo1NG1QYU15bExkaGtXUzk0RGMxNllOaTJUSmx2S1Q3NGFCWWZicVcwRE5WcDNpNG5YNXpxR2pxaTJMbl9QcWlIMUtxWVc1OWhSUDBnZ1ViTVh3NTVRWUZQLTZ5cTlrMHNFT1pmT2FKamR3RWV5R2FybUgxRWJQcVNra3pVQVd0ekJTMXVzQ1g0ZElXcFlNc3JBZUpLS21qSXBwQXJDWTFUUdIB9wFBVV95cUxNZFlwRV9yTzQxMVA5MlpzVmo1Nmp6QlJOQ01aSjNPQmQyRFhMN0NfLVF5a2NBZzRNOWUzZkR2UFBKb0M5aUtiQXRyR3FaYk16OWdaRTFBT29XVkwxUGRBVi1raEZHSW5ILVdkYUdjRDd1aDR2RDQ1MUo0UE9nUGZ1d0E5a29fNEhKRnBvMUFYTHV6QWFOQk5MZGxDYVJHQnlud3NDN2hndTZJWFdQOHoxU3U3dmw5WFEyYTdxRUxlSHFsOGIyamgyQk5kYnRNV25kVkNWaGRDeFRYbnUyTHJBbmVMZFNlWF9VYWVZYl81REFYVzhJUERN?oc=5)
-
-2026-06-11 <span class="news-indication-tag">artritis</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRGdYZlNEZEJ2TzJUSEd4ZVFOTzZzMjdOZ3JlY29VN0lfbjlPejhhNXlrWWZDcXRFYVJURXNRMG1VNE5JY0dOSFdUY0Nod1hobVo1NG1QYU15bExkaGtXUzk0RGMxNllOaTJUSmx2S1Q3NGFCWWZicVcwRE5WcDNpNG5YNXpxR2pxaTJMbl9QcWlIMUtxWVc1OWhSUDBnZ1ViTVh3NTVRWUZQLTZ5cTlrMHNFT1pmT2FKamR3RWV5R2FybUgxRWJQcVNra3pVQVd0ekJTMXVzQ1g0ZElXcFlNc3JBZUpLS21qSXBwQXJDWTFUUdIB9wFBVV95cUxNZFlwRV9yTzQxMVA5MlpzVmo1Nmp6QlJOQ01aSjNPQmQyRFhMN0NfLVF5a2NBZzRNOWUzZkR2UFBKb0M5aUtiQXRyR3FaYk16OWdaRTFBT29XVkwxUGRBVi1raEZHSW5ILVdkYUdjRDd1aDR2RDQ1MUo0UE9nUGZ1d0E5a29fNEhKRnBvMUFYTHV6QWFOQk5MZGxDYVJHQnlud3NDN2hndTZJWFdQOHoxU3U3dmw5WFEyYTdxRUxlSHFsOGIyamgyQk5kYnRNV25kVkNWaGRDeFRYbnUyTHJBbmVMZFNlWF9VYWVZYl81REFYVzhJUERN?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Lungenultraschall erkennt Fortschreiten von Lungenveränderungen bei rheumatoider Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
 
