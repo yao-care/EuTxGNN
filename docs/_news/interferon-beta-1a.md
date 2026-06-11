@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
-### [Darmmikrobiom-Metabolite als potenzielle Marker früher kognitiver Defizite - Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2h1bmlGNDJ5ZGFuM3N5WDYzYzVEcUwyYUpMbEJ5SGRTSEROcEZRUFZCTzE1QmwySUJYTmt4WUczYmdVYV95M3ctV2s2SmUyQzBHOFctRk5zQlpaNWdiNlJuRlZIU2lYYWpQa3lKcTBfWF94aWdRLW9COGF4RnVWXzNIcXJJOFVqY0ZyelcyclNYdw?oc=5)
+### [Mutation-dependent responses to sleep and exercise in clonal haematopoiesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VS1FLWktxSlRyVlFkcXE0ck9qbUptMXZWTzNmS2l4eTFaVkdVc05mYk96QkRBR0E2MFdxUHBJVGU0M2lKbVRnX1ZXS3NrVmVMZXlkOW02WjJQam9udnhn?oc=5)
+
+2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VS1FLWktxSlRyVlFkcXE0ck9qbUptMXZWTzNmS2l4eTFaVkdVc05mYk96QkRBR0E2MFdxUHBJVGU0M2lKbVRnX1ZXS3NrVmVMZXlkOW02WjJQam9udnhn?oc=5)
+
+---
+
+### [Vaccination ‘should replace badger culls’ to end bovine TB - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
 
 2026-06-10 <span class="news-indication-tag">MS</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2h1bmlGNDJ5ZGFuM3N5WDYzYzVEcUwyYUpMbEJ5SGRTSEROcEZRUFZCTzE1QmwySUJYTmt4WUczYmdVYV95M3ctV2s2SmUyQzBHOFctRk5zQlpaNWdiNlJuRlZIU2lYYWpQa3lKcTBfWF94aWdRLW9COGF4RnVWXzNIcXJJOFVqY0ZyelcyclNYdw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2NseGNpaGdsWFZuUy1IejhMQUNDa2NLZlo0TXMzUWxvbWkzREx6aHF2My1TOXF2YTNXbzdFSXNHZmpFNUdURVZhUGdFd1NvcVhaYWZUS0xOLW1jc2JvaW5OZXBzUy1mU09tZ0VodHRUdFd5UllMYUg3QmFraUw4ZzRGSUxJZXBZRHpFNUcwMzdsN0tVMXhMU3Q3Wk9qeDlLZ2tmVDVZN3M?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [New Study Exposes Problem With Protein Products As Experts Warn Labels May Mislead Consumers About Benefits - Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBiaUw0TVRnWDNNMU9ONzBmZUM3Zkt6N2dZOG91M3FxNy1XUTJHemNVa1BPQWc0TGVZM0FJMGlxMGxMZlVLMFFydjVKMFlIbzgyYkNMQ0Q0QThzaXFrUUtFaHpiNmFid2phQ21kQ0lGSkRIZ1BxdVJwV2dwUk5PaWNoZUNBSUN5R2R4c00zRFp5VVNmb0xmaXRB?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBiaUw0TVRnWDNNMU9ONzBmZUM3Zkt6N2dZOG91M3FxNy1XUTJHemNVa1BPQWc0TGVZM0FJMGlxMGxMZlVLMFFydjVKMFlIbzgyYkNMQ0Q0QThzaXFrUUtFaHpiNmFid2phQ21kQ0lGSkRIZ1BxdVJwV2dwUk5PaWNoZUNBSUN5R2R4c00zRFp5VVNmb0xmaXRB?oc=5)
-
----
-
 ### [Incrementar el conocimiento sobre deterioro cognitivo en esclerosis múltiple, clave para su detección, abordaje y seguimiento](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNVJoVDNHdHJDLXU3d1RjSWpQRUZhMlJZMnhOSFV4eVIxU25HU1pQcW5LeUgwWHpjRTZRTWZmMWdkdHZOTzM3ek5Vd05OenBzWkhwZHRZRjZFMzBaandtTGUwMnZmZWFXZ2dJeWRPOHBCNDl6MEFHcXhZNFlaamtSTC0wVmZOV3RaSWRBeXJXV1JxRDhObFUyNWx4SjBfemozOWpzVE1zbUZLdnQ3cHJ2Q1hTQmZfb0hRMGdKNVA0MVg5OHFEdmJRc053NGF5a254UFJTMjl0VHRVSEx2QTF1aEFmZ1plVUE?oc=5)
 
 2026-06-09 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -99,14 +99,6 @@ permalink: /news/interferon-beta-1a/
 2026-06-09 <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWkpUTjJLa2dNWW15SEhNS2hJWEJPUGNCRHFvLW9ILTdpQ1F2TEZ6cURINlBnUUtzeUVLX0R5cUtselRGanVVRXBkNzg5NmEwd1JKTmV5cTJlOGp5Mm5TU25NUEN6a1pTWFFmOUs1cG8tNlJUWWJvLXNOOUVQeWZxOFhwcDlRRVcwblFvaGI0c0xnaHlCVExhSlp0d2gzQlRjZ1dFVnloRE9fbjRDV01UUno5RjlXLWw4Z1FORnNIa1ZkX0RwSFhDU3VMbWJaNGEyNzB3OTFPQ2NHVjRibEhIR29KMnBSZw?oc=5)
-
----
-
-### [Summer berries can be full of pesticides. Learn the best ways to wash them](https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1VFelVfcXdrTDRTRWRwYmd5dnVodDJFUjJUODFnQzRmcWFrQXdrTkwyWTJ2elF5bmxaNEN2bS1DazhPY2hmS1RtYWRJZ3lHYTRoNF83QnBnSkZvSVo2YU1GYXFDbmhERDFFVXJWTUlTQk1TbjdOczhFdjFiUUh1Z0xR?oc=5)
-
-2026-06-09 <span class="news-indication-tag">MS</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1VFelVfcXdrTDRTRWRwYmd5dnVodDJFUjJUODFnQzRmcWFrQXdrTkwyWTJ2elF5bmxaNEN2bS1DazhPY2hmS1RtYWRJZ3lHYTRoNF83QnBnSkZvSVo2YU1GYXFDbmhERDFFVXJWTUlTQk1TbjdOczhFdjFiUUh1Z0xR?oc=5)
 
 ---
 
@@ -131,14 +123,6 @@ permalink: /news/interferon-beta-1a/
 2026-06-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0VsdjMtZlVodjIwakpRX1QydEhva1NobkVYbktnVzRtRXY0ZnZBTWRQQ2Z2ZWpsZkJfUDF4dzIzOW1IcVRlUmM2Rkk3S3RHM0Y3YjF5SERYeldUaTg3T2pPbU1PYm01b3VMYUZXV3NzVFVoRVkwV3BkU2dBSHVoa190ZThtUndMWjd6ZzlWcnNwcEx0R1F5SmVRQThMRTAtS3p2TlU2S1RLeWtBbDhTVXlOTQ?oc=5)
-
----
-
-### [«Ebola arriverà a 20.000 contagi» - La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
-
-2026-06-08 <span class="news-indication-tag">MS</span>
-
-來源：[La Verità](https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQTVrYUp2emlGWXN3d1VPU0lNRFBsSnJwbFlZZG0xV2xXaHlWQUotRlMxTGRxZW9iMDYxNnhsLVFiWDVmUlNRWHJNeVctbHhOY2ttQXpkTlVjR0xRSTJKeWJ1QWpONG5XSUtCNW5uYjA2LWgyYmJVZ0xXeXQ?oc=5)
 
 ---
 

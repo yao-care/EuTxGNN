@@ -62,11 +62,11 @@ permalink: /news/agomelatine/
 
 ---
 
-### [La ciberviolencia sexual tiene un impacto medible en la salud de las mujeres - El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEZzS0w0RVZmaW1DSEJMVlpoNnNzRmYtMWJPbmtZT1h4blBWenpZcXBoakJxdTZwa21MMW5LNFVKQU9RRU9kUExWcTlxaWlneGxheXdjVU5FM2ZRRl9ieFVaellVeFQtMG9hcDhYYzI0alZIMlhzc2FkcjRUUWZFTFMtVUJLZ0JwMU5SSFdYZE95akd1UXlZLWtTc1p5M3lGektCZWs2eDN2LUdMeWc?oc=5)
+### [Ciberviolencia sexual vinculada a depresión y ansiedad en mujeres - Vivir Ediciones](https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUhEb3Z3cVhCOGl3Sm5LWXBGRlh6OVFLbGtsb2VVTU0yaE41Skl4bGJabHI1S3JVcVNmR3VPbXNjOGFkdFJkQVpTWkNRX2J2ZUppYk9GLXJsTHIzTUhrVnlwZTMwbEdWUDVUX1lIblNLTE1HOG9LeU1wWERBS09uQWxjUmxwUTQ?oc=5)
 
 2026-06-09 <span class="news-indication-tag">depresión</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEZzS0w0RVZmaW1DSEJMVlpoNnNzRmYtMWJPbmtZT1h4blBWenpZcXBoakJxdTZwa21MMW5LNFVKQU9RRU9kUExWcTlxaWlneGxheXdjVU5FM2ZRRl9ieFVaellVeFQtMG9hcDhYYzI0alZIMlhzc2FkcjRUUWZFTFMtVUJLZ0JwMU5SSFdYZE95akd1UXlZLWtTc1p5M3lGektCZWs2eDN2LUdMeWc?oc=5)
+來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUhEb3Z3cVhCOGl3Sm5LWXBGRlh6OVFLbGtsb2VVTU0yaE41Skl4bGJabHI1S3JVcVNmR3VPbXNjOGFkdFJkQVpTWkNRX2J2ZUppYk9GLXJsTHIzTUhrVnlwZTMwbEdWUDVUX1lIblNLTE1HOG9LeU1wWERBS09uQWxjUmxwUTQ?oc=5)
 
 ---
 

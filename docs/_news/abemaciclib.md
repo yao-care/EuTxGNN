@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Mutation-dependent responses to sleep and exercise in clonal haematopoiesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VS1FLWktxSlRyVlFkcXE0ck9qbUptMXZWTzNmS2l4eTFaVkdVc05mYk96QkRBR0E2MFdxUHBJVGU0M2lKbVRnX1ZXS3NrVmVMZXlkOW02WjJQam9udnhn?oc=5)
+
+2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VS1FLWktxSlRyVlFkcXE0ck9qbUptMXZWTzNmS2l4eTFaVkdVc05mYk96QkRBR0E2MFdxUHBJVGU0M2lKbVRnX1ZXS3NrVmVMZXlkOW02WjJQam9udnhn?oc=5)
+
+---
 
 ### [Lungenultraschall erkennt Fortschreiten von Lungenveränderungen bei rheumatoider Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
 

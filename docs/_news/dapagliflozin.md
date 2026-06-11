@@ -14,7 +14,7 @@ permalink: /news/dapagliflozin/
 ---
 
 <p class="key-answer" data-question="Dapagliflozin 有什麼相關新聞？">
-<strong>Dapagliflozin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dapagliflozin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dapagliflozin/
 <p><a href="{{ '/drugs/dapagliflozin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Blutdruck-Medikamente: Kalziumkanalblocker erhöhen Nierenschaden-Risiko um 33% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
+
+---
 
 ### [Infecciones y diabetes: un riesgo subestimado que crece con la epidemia global - Reporte Asia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHVfaWxSQUFVY1ZtYjVKMHhLNmJ0aXhHR3Q4SjFJaUtGRUJPQTZHRHFrMEx6UWUtNUdLVDg1R2NUWlFEWWRWMERDTDhKS1FYWHdYWm9reXpJeUQzQnlWTU9COGdpeHFfdGtlN2luTTFxUWwxWlZnQjNWUHV3YXFuaGQ3M3RwMktEdVVFLXlSZm16Zk9VaW5BMWhtWkJfZ0pjcEVibHgtSGFIZkNnRzVoa2dKRjByX05yOVVN?oc=5)
 
@@ -67,14 +75,6 @@ permalink: /news/dapagliflozin/
 2026-06-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
-
----
-
-### [Dapagliflozin senkt Herzschwäche-Risiko um 82 Prozent bei Genträgern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjhvY2FsQV9PWmhFZ0lwaDY4TXQ4Q0p2SEJyTmotMUxYOV9TbXJpbXg0eWJWb3BYUXJ0X3lDSG9LS0FDbkhZcVVrbmlKY2RPWTlSNkE1bm1rTTVXT1dGZVdNT2dvOXZTSnp3aWJ2OFhnMHkzUUpCSDRTMGFoVDhfNzF5OVg1ZnhnRXJxV0lDV2dJa2wyMUJCVE1NSklZOXlsWHlUT3dmZnlyeHRXYUlSTmhXVkxPNUxkUEZF?oc=5)
-
-2026-06-10 <span class="news-drug-tag">Dapagliflozin</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjhvY2FsQV9PWmhFZ0lwaDY4TXQ4Q0p2SEJyTmotMUxYOV9TbXJpbXg0eWJWb3BYUXJ0X3lDSG9LS0FDbkhZcVVrbmlKY2RPWTlSNkE1bm1rTTVXT1dGZVdNT2dvOXZTSnp3aWJ2OFhnMHkzUUpCSDRTMGFoVDhfNzF5OVg1ZnhnRXJxV0lDV2dJa2wyMUJCVE1NSklZOXlsWHlUT3dmZnlyeHRXYUlSTmhXVkxPNUxkUEZF?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ permalink: /news/dapagliflozin/
 2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
-
----
-
-### [Diabetes und Bluthochdruck: 70% der Nierenversagen-Patienten betroffen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdWUGNZNUNJNi1SQ3V2dkdjSklMY2V5TXN2Y2NueW84WUI0VXZsRk1jaGtWeEZFTjBaQlFVd3Ixc3JmRU9kZmQtdXRGb3dNUDZQNUhUdkVZN3ZrX0NXOExBTXV1SUdXb2pIWjlWbkhGTE9yT1dtRUZjNmlveGZYTkNoOVJlNk9IZjBwN2JoOWttSnR1NUlpS1puaEMtRS1MQU95VW9tRFAtbG90c0EycE1RdlVNdw?oc=5)
 
 ---
 
