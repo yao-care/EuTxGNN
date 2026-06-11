@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [Blutdruck-Medikamente: Kalziumkanalblocker erhöhen Nierenschaden-Risiko um 33% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
+### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
 ---
 
-### [Infecciones y diabetes: un riesgo subestimado que crece con la epidemia global - Reporte Asia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHVfaWxSQUFVY1ZtYjVKMHhLNmJ0aXhHR3Q4SjFJaUtGRUJPQTZHRHFrMEx6UWUtNUdLVDg1R2NUWlFEWWRWMERDTDhKS1FYWHdYWm9reXpJeUQzQnlWTU9COGdpeHFfdGtlN2luTTFxUWwxWlZnQjNWUHV3YXFuaGQ3M3RwMktEdVVFLXlSZm16Zk9VaW5BMWhtWkJfZ0pjcEVibHgtSGFIZkNnRzVoa2dKRjByX05yOVVN?oc=5)
+### [Cara Ozempic: cómo recuperar el volumen facial después de adelgazar - El Economista](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2tNY0NJbmZ2RVdWa28wM3lPMGRLNEZNcWtMMWtOOW5FaHJhN1FDUC05N0lqNnA3SDBtWVRaYkt5eUlYWkZucjJrTy04anFtQTFTNTJxRmk0U3BQX0hYLVdWOFZGRk5PSXphVngxMnItdGVGZ0VSUUpBWFVHZWtxa3ljZjFVbTg1cUthdEtjVE9kUFFrOENWdkhnTnF5SVFBVW5MVG1JeDdsWktpekxGYjdDa1NhWEpXejVFNzVrblE4dmZYZFpSaE1wRm1JZm5LWEVnUzFpSGJ6YVI3ZWs5ZFFnMHh0Zjh5V1VYaNIB1wFBVV95cUxPUWZDc0pHcWhSU3FzSlRjb0VsaEhEcXZzRDUwN3pkYkNwUDdkRV9QazhVRzgyMUxKV2pLOHhuS1ptUFpkaVdac01fZ0NUZThKNVZxd3lFY2N4TWRReFlmZmNIQzhiMHY2QnFxMktxZ3FjNmxUNFMySW1zbG94NnRrRFBXM0NUS2xWd0tQeVVtUHV5YmU2M3dfNkhKX2pSY3cxVTBldGd3UGlncTQ0anZleFNiZ0ZlOUtaX3NqMkFtNGRLQUhUa253WkhkQklNWXRFeTlUbVJfOA?oc=5)
 
-2026-06-10 <span class="news-indication-tag">diabetes</span>
+2026-06-10 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Reporte Asia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHVfaWxSQUFVY1ZtYjVKMHhLNmJ0aXhHR3Q4SjFJaUtGRUJPQTZHRHFrMEx6UWUtNUdLVDg1R2NUWlFEWWRWMERDTDhKS1FYWHdYWm9reXpJeUQzQnlWTU9COGdpeHFfdGtlN2luTTFxUWwxWlZnQjNWUHV3YXFuaGQ3M3RwMktEdVVFLXlSZm16Zk9VaW5BMWhtWkJfZ0pjcEVibHgtSGFIZkNnRzVoa2dKRjByX05yOVVN?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2tNY0NJbmZ2RVdWa28wM3lPMGRLNEZNcWtMMWtOOW5FaHJhN1FDUC05N0lqNnA3SDBtWVRaYkt5eUlYWkZucjJrTy04anFtQTFTNTJxRmk0U3BQX0hYLVdWOFZGRk5PSXphVngxMnItdGVGZ0VSUUpBWFVHZWtxa3ljZjFVbTg1cUthdEtjVE9kUFFrOENWdkhnTnF5SVFBVW5MVG1JeDdsWktpekxGYjdDa1NhWEpXejVFNzVrblE4dmZYZFpSaE1wRm1JZm5LWEVnUzFpSGJ6YVI3ZWs5ZFFnMHh0Zjh5V1VYaNIB1wFBVV95cUxPUWZDc0pHcWhSU3FzSlRjb0VsaEhEcXZzRDUwN3pkYkNwUDdkRV9QazhVRzgyMUxKV2pLOHhuS1ptUFpkaVdac01fZ0NUZThKNVZxd3lFY2N4TWRReFlmZmNIQzhiMHY2QnFxMktxZ3FjNmxUNFMySW1zbG94NnRrRFBXM0NUS2xWd0tQeVVtUHV5YmU2M3dfNkhKX2pSY3cxVTBldGd3UGlncTQ0anZleFNiZ0ZlOUtaX3NqMkFtNGRLQUhUa253WkhkQklNWXRFeTlUbVJfOA?oc=5)
+
+---
+
+### [Diabetes & Bluthochdruck: hohes Risiko für Nierenversagen - it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1poX2o5dXlHaVgzU2F1SWNpSmJsSkFpWTV1VkNHTEVPUE50UklQZ3NYNWNidXZaTjA2U1I0SjVlWGhmY2J2VldOd2FNckE4QVRPTlZIWDZGOGxzWUNIdnB1RVhZQTFybjdqcVJNcWxETU4zakx2TkJnUFVHaTNTTEE5LWxzSU9Hc0lkdjNJejg?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1poX2o5dXlHaVgzU2F1SWNpSmJsSkFpWTV1VkNHTEVPUE50UklQZ3NYNWNidXZaTjA2U1I0SjVlWGhmY2J2VldOd2FNckE4QVRPTlZIWDZGOGxzWUNIdnB1RVhZQTFybjdqcVJNcWxETU4zakx2TkJnUFVHaTNTTEE5LWxzSU9Hc0lkdjNJejg?oc=5)
 
 ---
 
@@ -86,6 +94,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+
+---
+
 ### [Weight loss jabs are being linked to ‘Ozempic butt’ — a new drug might stop it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
 
 2026-06-10 <span class="news-drug-tag">Semaglutide</span>
@@ -99,14 +115,6 @@ permalink: /news/semaglutide/
 2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWVBYldjTDh5Y0ZONnlHX1V2aE8wT3FmTmt2enZQcnVLZzduR0VtdkFRdE9VVTlaNnJVZTFyeVd1eFFCZFRtczc2YkhPNjQ2ZUc3Sm1MUjZqMFlGOGpiNXIxd3ZKdHFFSHZrNEM5Tm0xd0p2Q2NfbDV0aXdkVVdUeEREelIwZzRMSkE0ZHFvSlhLMnNoU3RB0gGcAUFVX3lxTE4wcGRRa25VckdWUm80Y1JCU3kwdlNYSnVsY1IzdU9LR3NEN0dkeFlUOGVEZmRqWnFHX2hXb1c5Qjl6aExXejZscUJLclNsZzJHVWwzbjZRTDVSMGxjR2tKdXVLLXRGV1N0ZVNiaUZHUXljSUo5eW81bnZBUXdZV0hJdllNU2hmSDgweTlIWWNTWUlPaWVLV1A5YW9wYQ?oc=5)
-
----
-
-### [Diabetes und Herzerkrankungen: Neue Diagnostik senkt Risiko schneller - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
-
-2026-06-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTUydzUzRzg1Qk9WdkcyQW52QXpNOXc4bkNvYnJPNXVUS1hfQm9oNkhRRFpDeVVuRFV1OXRGaWc3TkhfUmFENXROTDljX3dKM0h5WTdvemxXSlRiYkwyb0FVTjRRdkgyZ1h6alBVTU9WMkE5T3BWSUdIRFAxWmxWNnlRZmliYXNPQmVZLW9NSDgzelV5bUFMd1d2OHQxX0RhY2c?oc=5)
 
 ---
 

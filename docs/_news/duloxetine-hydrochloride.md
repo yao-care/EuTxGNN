@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Therapieresistente Depression: Charité startet DHEA-Studie mit 2,3 Millionen Euro - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVMwbURJdmdha0x5SlhOVmdxcTBpUDJSbTU0UHJlM0c2OGJCUmxySUg3NlRyNm5fNEdYZzlwa2x3aVE1cElYUG45Zy14UFNrNWNma2ZhUHJuelVIWElnNlNaVVN2X3ZDcTBXYmotc1Bmd2FuU3VuYkxQNWl0d0NiM1h5bFozdVkwS2kwclA3QmEtc3ZTMDVIakZOTjFrQW85U196Nk5CdGJRazg1NlM4QkhrTTQ?oc=5)
+### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+
+2026-06-11 <span class="news-drug-tag">Tocilizumab</span> <span class="news-indication-tag">depression</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+
+---
+
+### [Kaffee gegen Alterung – Wissenschaftler finden überraschenden Wirkstoff - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
 
 2026-06-10 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVMwbURJdmdha0x5SlhOVmdxcTBpUDJSbTU0UHJlM0c2OGJCUmxySUg3NlRyNm5fNEdYZzlwa2x3aVE1cElYUG45Zy14UFNrNWNma2ZhUHJuelVIWElnNlNaVVN2X3ZDcTBXYmotc1Bmd2FuU3VuYkxQNWl0d0NiM1h5bFozdVkwS2kwclA3QmEtc3ZTMDVIakZOTjFrQW85U196Nk5CdGJRazg1NlM4QkhrTTQ?oc=5)
-
----
-
-### [Ciberviolencia sexual vinculada a depresión y ansiedad en mujeres - Vivir Ediciones](https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUhEb3Z3cVhCOGl3Sm5LWXBGRlh6OVFLbGtsb2VVTU0yaE41Skl4bGJabHI1S3JVcVNmR3VPbXNjOGFkdFJkQVpTWkNRX2J2ZUppYk9GLXJsTHIzTUhrVnlwZTMwbEdWUDVUX1lIblNLTE1HOG9LeU1wWERBS09uQWxjUmxwUTQ?oc=5)
-
-2026-06-09 <span class="news-indication-tag">depresión</span>
-
-來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUhEb3Z3cVhCOGl3Sm5LWXBGRlh6OVFLbGtsb2VVTU0yaE41Skl4bGJabHI1S3JVcVNmR3VPbXNjOGFkdFJkQVpTWkNRX2J2ZUppYk9GLXJsTHIzTUhrVnlwZTMwbEdWUDVUX1lIblNLTE1HOG9LeU1wWERBS09uQWxjUmxwUTQ?oc=5)
-
----
-
-### [Dépression post-partum : ce nouveau test pourrait repérer les femmes à risque pendant la grossesse - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWYycU5PaC1uX3Jhd1NIUV9BUW54NEViWkdsaWFBYlJQOTFCZEtNeVNpMDg0VTlJYmRkcUwtZXVBYnE0OGgtTU9QVDBraF9PbzdaWmktTFBmVkJvVVExVmJCd3RRaDM0ZzVGaVd4ajJXUlJmQzRQN2NMZTVLLWtVem1veFRhTmVqOHdCbGVFanJKOFVMLTRYTnYwNy1hWHhGV3Z5cWk5RVJ0V055N2QwZFdhMjlXaEE3V2M1RlZ5UFhsZTlaMmlzQUtBTnBNUWJaYXZvcXYxNzNoSHF5dUpXNVlTOFVuLTFtNzZoeDJyZXU?oc=5)
-
-2026-06-09 <span class="news-indication-tag">dépression</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWYycU5PaC1uX3Jhd1NIUV9BUW54NEViWkdsaWFBYlJQOTFCZEtNeVNpMDg0VTlJYmRkcUwtZXVBYnE0OGgtTU9QVDBraF9PbzdaWmktTFBmVkJvVVExVmJCd3RRaDM0ZzVGaVd4ajJXUlJmQzRQN2NMZTVLLWtVem1veFRhTmVqOHdCbGVFanJKOFVMLTRYTnYwNy1hWHhGV3Z5cWk5RVJ0V055N2QwZFdhMjlXaEE3V2M1RlZ5UFhsZTlaMmlzQUtBTnBNUWJaYXZvcXYxNzNoSHF5dUpXNVlTOFVuLTFtNzZoeDJyZXU?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
 
 ---
 

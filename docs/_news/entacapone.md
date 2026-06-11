@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [The professor who thinks the shingles vaccine is the key to dementia prevention - The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXpCWUdwOTJRUDZjTE4xSFBJTFZFX1I4d3A4LTBtUmZCaGVTeXRIUlFaMnNRMEdpaFk0dm5vblhCOTVUbDhtSUxfN20zemFkOUw0V19aWGl5RmE2MG1ZYlUtMVBhUHdtU1BFaUlFZk9kbjBhNDZhaFVLQ0pWZ1R1dWEySk9IVnVsMnF3Y1lNVk5ucnEwSmJsZHlLN25rMVB4TXdoR0w1R1kyT3g4N0E?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/entacapone/
 2026-06-09 <span class="news-indication-tag">dementia</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ0VoVUYxMFdpOWFkU1lLWGVLc0MxbVFHc2ZhZkplQjdFSFluZVA2TmRRcnFWaUxDdmozNzMzNTRuNE9FcGxDR3FxcGNDNjgwcFBoM2xIczhkM2lqb201emd2QUFVeGhCYm9DTGlQenc2YU8tNTlXcng3Rnp1dzl2YUVjWmlYQzA3cnc?oc=5)
-
----
-
-### [MHH-Experte zur Parkinson-Krankheit im Interview: Welche Rolle der Schlaf spielt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVFVDSVZfZHpESGNlMnBldElJNWtUT0R1bzdxVVdGVmgyV2FpRXBuNDltSjN6MUIzUDIxdDk4YnhEZjhHQndqVmQ0cjgxdl95SENGeDBSNDVMVkVSUFpKeXRBd0FJVG41ai14OUFFYlBlc0ZCZFMxVEhuTURTM1BxMGljM1RfcWNOWkVrV0haUzdXLWFHaDB3WjdWcHRUUnhCd0JsQURWR3hNcXBzeC15OTdnVnJZX2xMOEtuOXRmRkw4MGh1dTJSdzJibDQzcTB6Q0NoQTQ1dTDSAfQBQVVfeXFMTzF6WGlqRTY4X3J4bE00TzlJLTFYZXlvdmlpZG9hMnlwUE1FX09vY0hkSHBORWIxUTFGWTZtdTNqV0t1eTBkV0E0Ml9oRkttX0tQekZ0SEwydFlzajdGSG9ELVk0dEd1Mi00bng0ZW0wTWVsOE9KX19YZmtyNGNNM0ItU2VVNFM1dzhRTDRTdVZYT0V0VDdqeXg1Wjd2ZmVZZ3Y5UV9LVEFQMGR2aGpFNmR2OWdxcHZQNV9jTEI3TTFjZWNZQmhXeHVsQ0VuaTY4YU1scmtzZXhFOUZCR0R5SnVETExrM08td2NfcU5VRDlEQmFCTA?oc=5)
-
-2026-06-07 <span class="news-indication-tag">Parkinson-Krankheit</span> <span class="news-indication-tag">AF</span>
-
-來源：[HAZ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVFVDSVZfZHpESGNlMnBldElJNWtUT0R1bzdxVVdGVmgyV2FpRXBuNDltSjN6MUIzUDIxdDk4YnhEZjhHQndqVmQ0cjgxdl95SENGeDBSNDVMVkVSUFpKeXRBd0FJVG41ai14OUFFYlBlc0ZCZFMxVEhuTURTM1BxMGljM1RfcWNOWkVrV0haUzdXLWFHaDB3WjdWcHRUUnhCd0JsQURWR3hNcXBzeC15OTdnVnJZX2xMOEtuOXRmRkw4MGh1dTJSdzJibDQzcTB6Q0NoQTQ1dTDSAfQBQVVfeXFMTzF6WGlqRTY4X3J4bE00TzlJLTFYZXlvdmlpZG9hMnlwUE1FX09vY0hkSHBORWIxUTFGWTZtdTNqV0t1eTBkV0E0Ml9oRkttX0tQekZ0SEwydFlzajdGSG9ELVk0dEd1Mi00bng0ZW0wTWVsOE9KX19YZmtyNGNNM0ItU2VVNFM1dzhRTDRTdVZYT0V0VDdqeXg1Wjd2ZmVZZ3Y5UV9LVEFQMGR2aGpFNmR2OWdxcHZQNV9jTEI3TTFjZWNZQmhXeHVsQ0VuaTY4YU1scmtzZXhFOUZCR0R5SnVETExrM08td2NfcU5VRDlEQmFCTA?oc=5)
 
 ---
 

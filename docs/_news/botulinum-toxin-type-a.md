@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [MHH-Experte zur Parkinson-Krankheit im Interview: Welche Rolle der Schlaf spielt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVFVDSVZfZHpESGNlMnBldElJNWtUT0R1bzdxVVdGVmgyV2FpRXBuNDltSjN6MUIzUDIxdDk4YnhEZjhHQndqVmQ0cjgxdl95SENGeDBSNDVMVkVSUFpKeXRBd0FJVG41ai14OUFFYlBlc0ZCZFMxVEhuTURTM1BxMGljM1RfcWNOWkVrV0haUzdXLWFHaDB3WjdWcHRUUnhCd0JsQURWR3hNcXBzeC15OTdnVnJZX2xMOEtuOXRmRkw4MGh1dTJSdzJibDQzcTB6Q0NoQTQ1dTDSAfQBQVVfeXFMTzF6WGlqRTY4X3J4bE00TzlJLTFYZXlvdmlpZG9hMnlwUE1FX09vY0hkSHBORWIxUTFGWTZtdTNqV0t1eTBkV0E0Ml9oRkttX0tQekZ0SEwydFlzajdGSG9ELVk0dEd1Mi00bng0ZW0wTWVsOE9KX19YZmtyNGNNM0ItU2VVNFM1dzhRTDRTdVZYT0V0VDdqeXg1Wjd2ZmVZZ3Y5UV9LVEFQMGR2aGpFNmR2OWdxcHZQNV9jTEI3TTFjZWNZQmhXeHVsQ0VuaTY4YU1scmtzZXhFOUZCR0R5SnVETExrM08td2NfcU5VRDlEQmFCTA?oc=5)
-
-2026-06-07 <span class="news-indication-tag">Parkinson-Krankheit</span> <span class="news-indication-tag">AF</span>
-
-來源：[HAZ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVFVDSVZfZHpESGNlMnBldElJNWtUT0R1bzdxVVdGVmgyV2FpRXBuNDltSjN6MUIzUDIxdDk4YnhEZjhHQndqVmQ0cjgxdl95SENGeDBSNDVMVkVSUFpKeXRBd0FJVG41ai14OUFFYlBlc0ZCZFMxVEhuTURTM1BxMGljM1RfcWNOWkVrV0haUzdXLWFHaDB3WjdWcHRUUnhCd0JsQURWR3hNcXBzeC15OTdnVnJZX2xMOEtuOXRmRkw4MGh1dTJSdzJibDQzcTB6Q0NoQTQ1dTDSAfQBQVVfeXFMTzF6WGlqRTY4X3J4bE00TzlJLTFYZXlvdmlpZG9hMnlwUE1FX09vY0hkSHBORWIxUTFGWTZtdTNqV0t1eTBkV0E0Ml9oRkttX0tQekZ0SEwydFlzajdGSG9ELVk0dEd1Mi00bng0ZW0wTWVsOE9KX19YZmtyNGNNM0ItU2VVNFM1dzhRTDRTdVZYT0V0VDdqeXg1Wjd2ZmVZZ3Y5UV9LVEFQMGR2aGpFNmR2OWdxcHZQNV9jTEI3TTFjZWNZQmhXeHVsQ0VuaTY4YU1scmtzZXhFOUZCR0R5SnVETExrM08td2NfcU5VRDlEQmFCTA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
