@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+---
 
 ### [La obesidad global cambia de ritmo entre descensos y aumentos](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
 
@@ -67,22 +75,6 @@ permalink: /news/orlistat/
 2026-06-11 <span class="news-indication-tag">ictus</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
-
----
-
-### [Metabolisch unauffällige Adipositas wohl nicht gutartig](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
-
-2026-06-11 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
-
----
-
-### [Difunden las primeras directrices, a nivel mundial, sobre el síndrome cardiorrenal-metabólico - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFpWSmhESXdIRHpUVl9XandSNGlGS3FvUEJ2Rk1rcW1aUXFHenE1SGNjVE5TMll5TEx5d3hBMDNOTXBvSjZvMVBtNTNrR3RBWDZxZ0NtY3U4NzRQcFU1TDRqRjJITDhyVlNqSkxIZ3FNLTB2LUVtZnF1X3dDdGpWVmwya3VCMFpzNlRrMG5TN3NKSUlQZUZHNGFSSHJiWU85YXMySFV5dEtVYjZJTzIxS1Bncjh5NWd0aEltR9IBtwFBVV95cUxNc1dZMnhKelpGUkx3ZHMySHFqYjFXMm1JbG1YVXQ1d1FucUhBU0ZOX1VFbnk2MEZkZkY3aUhRanNCMDZPc1ZXTVVBZkNoOWRocWhsb0I1anN1X0ZUSTBLQlk5MmcxZzl2VHV4MkNFSV9NQ01ZLWlURm9Kc1doZDhIWGRNTktPQUtSUzg5SkhxX256UnJES3dISzB0VE54a3c2b1FLdkhwNGNQTkRLaDdjUC12VXo3NjA?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFpWSmhESXdIRHpUVl9XandSNGlGS3FvUEJ2Rk1rcW1aUXFHenE1SGNjVE5TMll5TEx5d3hBMDNOTXBvSjZvMVBtNTNrR3RBWDZxZ0NtY3U4NzRQcFU1TDRqRjJITDhyVlNqSkxIZ3FNLTB2LUVtZnF1X3dDdGpWVmwya3VCMFpzNlRrMG5TN3NKSUlQZUZHNGFSSHJiWU85YXMySFV5dEtVYjZJTzIxS1Bncjh5NWd0aEltR9IBtwFBVV95cUxNc1dZMnhKelpGUkx3ZHMySHFqYjFXMm1JbG1YVXQ1d1FucUhBU0ZOX1VFbnk2MEZkZkY3aUhRanNCMDZPc1ZXTVVBZkNoOWRocWhsb0I1anN1X0ZUSTBLQlk5MmcxZzl2VHV4MkNFSV9NQ01ZLWlURm9Kc1doZDhIWGRNTktPQUtSUzg5SkhxX256UnJES3dISzB0VE54a3c2b1FLdkhwNGNQTkRLaDdjUC12VXo3NjA?oc=5)
 
 ---
 

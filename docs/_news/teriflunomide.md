@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
+
+### [A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
+
+---
 
 ### [Hepatitis B: 20 Prozent funktionelle Heilung in Phase-3-Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
 
 2026-06-12 <span class="news-indication-tag">hepatitis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
+
+---
+
+### [A Major Update Just Hit Cholesterol Guidelines – Here’s What Every Adult Needs To Know](https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0ZwQXIwVFJMN1JaT2JIQzhjX0taTy1BS01mRXFZcnlmQ2pyYUNhUnJqT2FGZWtUZDctRXV6VHhzaHkwSTREbmZieVB3YWVSUWJzWXlLeFh3LTktejNUUEI3cXY1MUJmV05PQVg3S3kxTGtQOWxWZzBCSDV3SDlXVUhvdGtyRGhwN1dMSEJ1SndwSUtDYUcyMVpVSnluUFUyVjNoSHNyanQ5dVZNRHc?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0ZwQXIwVFJMN1JaT2JIQzhjX0taTy1BS01mRXFZcnlmQ2pyYUNhUnJqT2FGZWtUZDctRXV6VHhzaHkwSTREbmZieVB3YWVSUWJzWXlLeFh3LTktejNUUEI3cXY1MUJmV05PQVg3S3kxTGtQOWxWZzBCSDV3SDlXVUhvdGtyRGhwN1dMSEJ1SndwSUtDYUcyMVpVSnluUFUyVjNoSHNyanQ5dVZNRHc?oc=5)
 
 ---
 
@@ -86,27 +102,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [A Small Part of Your Brain May Still Be Listening Under Anesthesia](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFNKOUlNTlRtMzBxbWhObTVWZmVJZktnRTM2Yk5jSkR4NXRjZ215RGdVRXRGd3M4dGdtTG9rQjZmNkRiTjROMzNZQjV5V2VWY0VtTW43Y2UyWlo4S1A0YWthR1pvQmNoRFdUNENBeHNaTnNJVFNLeU5jenJJUDRwNmJpOC1TVWFwX3ZidEtzWGtWMENsZ1hLNXZiRQ?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFNKOUlNTlRtMzBxbWhObTVWZmVJZktnRTM2Yk5jSkR4NXRjZ215RGdVRXRGd3M4dGdtTG9rQjZmNkRiTjROMzNZQjV5V2VWY0VtTW43Y2UyWlo4S1A0YWthR1pvQmNoRFdUNENBeHNaTnNJVFNLeU5jenJJUDRwNmJpOC1TVWFwX3ZidEtzWGtWMENsZ1hLNXZiRQ?oc=5)
-
----
-
 ### [Multiple Sklerose: Keto-Diät reduziert Fatigue und Schwäche messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYy1KZUlybWdBVFIxeHZhNHdrSTZKN0xpeEZtajUxM1JNeXBYakhYUVUtakc3WE9EcVdtQ0FjZ3c5ZklNMDVjTHJpajlCVHhrQkcwQmxNWExjQUp1VkU0MEg2UWl0bUEtTUZodnpNTExSMGxyQUNrdG1BX1puN3ZIZWR2OHJqTzZIWHlGZlZ3X2lKNWJYNUNBMC1DR3FlaTgwc2J0V2RZak5ZUGZzRGpFZmxhMkNEc2xI?oc=5)
 
 2026-06-11 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYy1KZUlybWdBVFIxeHZhNHdrSTZKN0xpeEZtajUxM1JNeXBYakhYUVUtakc3WE9EcVdtQ0FjZ3c5ZklNMDVjTHJpajlCVHhrQkcwQmxNWExjQUp1VkU0MEg2UWl0bUEtTUZodnpNTExSMGxyQUNrdG1BX1puN3ZIZWR2OHJqTzZIWHlGZlZ3X2lKNWJYNUNBMC1DR3FlaTgwc2J0V2RZak5ZUGZzRGpFZmxhMkNEc2xI?oc=5)
-
----
-
-### [Alzheimer, nuova molecola riduce placche e infiammazione - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVVIUlIzNEtLVzVGOVZabHNXUjk1N2ZtWmtueEktTjAwaVNqVjNKTU1Sbk9iWXVoYWk3R3JOazFJTlYtS2xTazdGV3ZxaEVObEVla0xFTVRJM2pHa0tjLVQ2ZDFPd29NcV9zUDdxSzFOU3pwYjctTnlKOGlqMEk3QUVJWWpBYVRtMmlWY0VRS0I?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span>
-
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVVIUlIzNEtLVzVGOVZabHNXUjk1N2ZtWmtueEktTjAwaVNqVjNKTU1Sbk9iWXVoYWk3R3JOazFJTlYtS2xTazdGV3ZxaEVObEVla0xFTVRJM2pHa0tjLVQ2ZDFPd29NcV9zUDdxSzFOU3pwYjctTnlKOGlqMEk3QUVJWWpBYVRtMmlWY0VRS0I?oc=5)
 
 ---
 
@@ -118,19 +118,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### ["Faire caca dans un petit pot, ça peut dégoûter" : ces chercheurs ont inventé un dépistage du cancer colorectal par prise de sang, un test révolutionnaire - France 3 Régions](https://news.google.com/rss/articles/CBMizgJBVV95cUxPVnRZQXBVSzJZOXJVTTlBTU9lZEF2ZmxFWWdVUHNoOTFScHZYUFVWdWttcE9vNm5FaDBJNVlDbTU5UURMazBoYWE1MFV1T3R4UlhoR0VXNGZyY2FxSFFVUWU2YjlBVkx1SXY1X2gybm9iVHBOS0VsSWk4bEJWM3c5Ym15TTNkWnhUZXZxUlRJSFF0RzNXMkpQb3RBS0JLZ2ZVWk5qNUNfc1dFNmxRaHBYUUFzejY1R1V2Uko4VlZleFNtbVI0djQ5N2lHdERfQ0ctcHE2bW5iN1BWc2pFeW11b0lOanRGU2R4N2hiUWMyYzhObTBQUmdhTEdrRldGdVlPbk1ZbWJ3aDlnaW05TEotNlFpSzZYbFYyRTIyNXVjTWVBeEVyVmJMNDZwR1VGdWVhTkdzMmQ5RS1GTHJzRHhyeTFsdmxnbmJzc1VYbGh3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMizgJBVV95cUxPVnRZQXBVSzJZOXJVTTlBTU9lZEF2ZmxFWWdVUHNoOTFScHZYUFVWdWttcE9vNm5FaDBJNVlDbTU5UURMazBoYWE1MFV1T3R4UlhoR0VXNGZyY2FxSFFVUWU2YjlBVkx1SXY1X2gybm9iVHBOS0VsSWk4bEJWM3c5Ym15TTNkWnhUZXZxUlRJSFF0RzNXMkpQb3RBS0JLZ2ZVWk5qNUNfc1dFNmxRaHBYUUFzejY1R1V2Uko4VlZleFNtbVI0djQ5N2lHdERfQ0ctcHE2bW5iN1BWc2pFeW11b0lOanRGU2R4N2hiUWMyYzhObTBQUmdhTEdrRldGdVlPbk1ZbWJ3aDlnaW05TEotNlFpSzZYbFYyRTIyNXVjTWVBeEVyVmJMNDZwR1VGdWVhTkdzMmQ5RS1GTHJzRHhyeTFsdmxnbmJzc1VYbGh3?oc=5)
-
----
-
-### [«A 31 anni, dopo che è nato mio figlio, ho sentito formicolii alle gambe e mi hanno diagnosticato la sclerosi multipla» - Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVNrcU5rSDhYVzQ3UDdUVFIxTDY4YWRDYW1JbDNMamZZVjJwX1hZamFLcjRrUzEzR2s4VUxhcEd6aThUVElPck1IbWtDN2pjV3ZKR2drYmg1c3ppMkFaMkhOTzE2WXZ4MFI1dTAyNHA0UmFtQlFZOV9qUlFQdXZfM2Q0ckk0ckYtVnp0bDFjUC1SNUXSAYgBQVVfeXFMTVl4MmJvTjViNmxJcHJYc3VZbXNKNGNPdjJsSldCUGVBY3FWQUY5aXF2a3Y3Nk10eWdPcUo4Y0dsYWpxU0NNMzY2MUpKTzJ3NzdESjZ3UURBVEVVN3EtVFVyOWl2X2t3aVJTd2ZILTBnMkVRN1NEOXMzYTNjclA4T3JGbW1oc1paVA?oc=5)
+### [«A 31 anni, dopo che è nato mio figlio, ho sentito formicolii alle gambe e mi hanno diagnosticato la sclerosi multipla» - Il Messaggero](https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUtYMHBPakV2QW1aLWJrcHYwclZhckZkWWg3MnNJXzFvR0lmb3ZRRDFkM2d6cGdCamJ5aVdnanpSYXAtb25wNHhuSGlIVnpJZFYyUlBlUFgwUlhSS1BjQWx2bWJheUctblQ2N1RuSnlKSlJXc05sbjN1TkRldFhRbG1abmZJbEw0Wktfb3UxbjhCdlE1RkVzV0gwQdIBkAFBVV95cUxNZWphdjVzcHlkVm05emM2UFY1d0pmYzBzOENzQmhOMjB0LUVDQUxvdWlMMkRKRjB3aGthclZWaS1hUnljSTYyU2xPVGFwSHRra1dVdmJCTVF1SHJtbUYyei1YaTlMUlV1UElaMFp2N0Vsa0dGQlRhSjdaa3k2LVNadG1sTEFEeGZTUnRwem85TGg?oc=5)
 
 2026-06-11 <span class="news-indication-tag">sclerosi multipla</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVNrcU5rSDhYVzQ3UDdUVFIxTDY4YWRDYW1JbDNMamZZVjJwX1hZamFLcjRrUzEzR2s4VUxhcEd6aThUVElPck1IbWtDN2pjV3ZKR2drYmg1c3ppMkFaMkhOTzE2WXZ4MFI1dTAyNHA0UmFtQlFZOV9qUlFQdXZfM2Q0ckk0ckYtVnp0bDFjUC1SNUXSAYgBQVVfeXFMTVl4MmJvTjViNmxJcHJYc3VZbXNKNGNPdjJsSldCUGVBY3FWQUY5aXF2a3Y3Nk10eWdPcUo4Y0dsYWpxU0NNMzY2MUpKTzJ3NzdESjZ3UURBVEVVN3EtVFVyOWl2X2t3aVJTd2ZILTBnMkVRN1NEOXMzYTNjclA4T3JGbW1oc1paVA?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUtYMHBPakV2QW1aLWJrcHYwclZhckZkWWg3MnNJXzFvR0lmb3ZRRDFkM2d6cGdCamJ5aVdnanpSYXAtb25wNHhuSGlIVnpJZFYyUlBlUFgwUlhSS1BjQWx2bWJheUctblQ2N1RuSnlKSlJXc05sbjN1TkRldFhRbG1abmZJbEw0Wktfb3UxbjhCdlE1RkVzV0gwQdIBkAFBVV95cUxNZWphdjVzcHlkVm05emM2UFY1d0pmYzBzOENzQmhOMjB0LUVDQUxvdWlMMkRKRjB3aGthclZWaS1hUnljSTYyU2xPVGFwSHRra1dVdmJCTVF1SHJtbUYyei1YaTlMUlV1UElaMFp2N0Vsa0dGQlRhSjdaa3k2LVNadG1sTEFEeGZTUnRwem85TGg?oc=5)
 
 ---
 
@@ -150,14 +142,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [The World Cup Could Spread More Than Soccer Fever, Experts Warn](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdE4yZElSaVUwc1VsNjhuT2RBT0p0Mk1sWGtBY1I0dkVxbzBKakt2TnJQM3UwTWROQkUzSzIxY0NNcU9Pa3JPcDkybHZ5UXJtdnpyT2lPYjgzNEtjbDVqRWFLUjRjaXVRVGh3SHc5M090OEZ5Ykh6Y0dud090NGZfek0wQlg1cjhXNXUzTFZIUUJHOGlhOGc?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdE4yZElSaVUwc1VsNjhuT2RBT0p0Mk1sWGtBY1I0dkVxbzBKakt2TnJQM3UwTWROQkUzSzIxY0NNcU9Pa3JPcDkybHZ5UXJtdnpyT2lPYjgzNEtjbDVqRWFLUjRjaXVRVGh3SHc5M090OEZ5Ykh6Y0dud090NGZfek0wQlg1cjhXNXUzTFZIUUJHOGlhOGc?oc=5)
-
----
-
 ### [The largest genetic study of anxiety symptom severity to date has found the condition is not only heritable but shows significant genetic overlap with heart disease, gut disorders, and migraine, in findings researchers describe as an important step forward in un - Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
 
 2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
@@ -171,6 +155,14 @@ permalink: /news/teriflunomide/
 2026-06-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Economist](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWFnRFZLbVZYWjVKLS0xSG5jTG5QZGtfQk9VUzgxbFJOdzZhSFg4c1JvcU1MQzRfbnR1OUF0NUtTakZqeWcwT0J2U2ZvZWZENzd6Q2U3aEZnaGRUaWVYN2s5Vjk0YVdIZmdRY3drWnJZRV90SVBGcm5kcENwZ3NIaC1yY2swYTZiN1ZGU2JORG1GUkJHal9YbmNjT1JoM2NzUHpZSHpYZkUyR2plLTlJ?oc=5)
+
+---
+
+### [Forschende des Deutschen Diabetes-Zentrums warnen vor gesundheitlichen Fehlinformationen in Sozialen Medien - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
+
+2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
 
 ---
 

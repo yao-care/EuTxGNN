@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Regarder du sport rend moins déprimé — une étude sur 7 000 personnes vient d'en identifier le mécanisme neurologique](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUp0cWVWdndRejRRT3FiWktHcW1Nb3FVckJra2xIdndySmh1WHhueXBrelNNYVhnd0Y4cjVleWtDZmUxcUZCdDVGTUROYWY2aEd4Q2RVLXFzWWw2LW04bWtVUDU1Y3FtMW1rSGdrY2oyYzhhQ09lN2lIYTlkZzAtNFdEVlUweUFqTzhmNzdwdU52UUFBN3J3bU83ck9RZHhqZWpDbG5PME1ualBKT2JadnA2N2RCcDlobkV2QTdoUXhNT1B0b2hxZk9kWndsYjk0LVNB?oc=5)
+### [Selon une étude, les personnes adeptes des horaires de repas irréguliers s'exposent à la dépression !](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkFxYzBja2xocWhOSFp2WC02ci1CVkVxS1RGQXJuUVJLV2dIRTQ0ZGNoTWtCRzhPbVFYUHRxbmJQMi1KVWROS1hTUlpjQ2pDS193Zzh6S1pWbE9wMjVlNkswUmM1WDhWVFFGb0FKaW9QdHJuYVJaQklCazhhZy1EWGVma0hsSlN2TXBPQ1c1dnB5YlQxRXhvbmdrVE52S1VUcHprdjhrbU45eEZiTHVqMEk4bUNkZXkycGNxUW9R?oc=5)
 
-2026-06-11 <span class="news-indication-tag">dépression</span>
+2026-06-12 <span class="news-indication-tag">dépression</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUp0cWVWdndRejRRT3FiWktHcW1Nb3FVckJra2xIdndySmh1WHhueXBrelNNYVhnd0Y4cjVleWtDZmUxcUZCdDVGTUROYWY2aEd4Q2RVLXFzWWw2LW04bWtVUDU1Y3FtMW1rSGdrY2oyYzhhQ09lN2lIYTlkZzAtNFdEVlUweUFqTzhmNzdwdU52UUFBN3J3bU83ck9RZHhqZWpDbG5PME1ualBKT2JadnA2N2RCcDlobkV2QTdoUXhNT1B0b2hxZk9kWndsYjk0LVNB?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkFxYzBja2xocWhOSFp2WC02ci1CVkVxS1RGQXJuUVJLV2dIRTQ0ZGNoTWtCRzhPbVFYUHRxbmJQMi1KVWROS1hTUlpjQ2pDS193Zzh6S1pWbE9wMjVlNkswUmM1WDhWVFFGb0FKaW9QdHJuYVJaQklCazhhZy1EWGVma0hsSlN2TXBPQ1c1dnB5YlQxRXhvbmdrVE52S1VUcHprdjhrbU45eEZiTHVqMEk4bUNkZXkycGNxUW9R?oc=5)
+
+---
+
+### [32º Congreso SEMG: La depresión en el paciente mayor suele pasar desapercibida porque no siempre se presenta con tristeza - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlRLc0FZTm00ZUVwNHoyTkxMNDhqX05ZaTB0M1R1ZjZQUExlWWJPTEVzMXg4cVFIbVkzeXUwcEpBcGMtMDJYd3JmN01KTnZsWVJ3Qk56LU5kZ25lR2dZZXZKUUFXU0tQRnUxeHFiNnRJTWRHTnd0SmkyVjhrV1RsdmdKeEltU1drQV9weUZiaTh2cVN0RXZpd2VFazNMSHNUc2lSVjh6Wk11d09fcmNKTkZVazlMSDJfOTBV0gG2AUFVX3lxTE9VVGREU2hyWGtlU0NwX1R5SFBQdW9KdUJwQ0dXRWl1c2V3MlQ5T2s3N3ZxU1ptNGVkSDFjVUl2ZlV6RVBNVHo3RjVOcXltbkNybW0xNEdNeVhMSHNFdFQyWlpHMUhkajB2NFRWYVdMRlROd2E0RlB0Ql9JbFJlTDdMVy1hcTUtTW5jVHdsWVR6SHZ0cXA2dDlCVDd4b3AzTkl4Z2FHVjZqODh1QW9vMnRqTmtrME9B?oc=5)
+
+2026-06-12 <span class="news-indication-tag">depresión</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlRLc0FZTm00ZUVwNHoyTkxMNDhqX05ZaTB0M1R1ZjZQUExlWWJPTEVzMXg4cVFIbVkzeXUwcEpBcGMtMDJYd3JmN01KTnZsWVJ3Qk56LU5kZ25lR2dZZXZKUUFXU0tQRnUxeHFiNnRJTWRHTnd0SmkyVjhrV1RsdmdKeEltU1drQV9weUZiaTh2cVN0RXZpd2VFazNMSHNUc2lSVjh6Wk11d09fcmNKTkZVazlMSDJfOTBV0gG2AUFVX3lxTE9VVGREU2hyWGtlU0NwX1R5SFBQdW9KdUJwQ0dXRWl1c2V3MlQ5T2s3N3ZxU1ptNGVkSDFjVUl2ZlV6RVBNVHo3RjVOcXltbkNybW0xNEdNeVhMSHNFdFQyWlpHMUhkajB2NFRWYVdMRlROd2E0RlB0Ql9JbFJlTDdMVy1hcTUtTW5jVHdsWVR6SHZ0cXA2dDlCVDd4b3AzTkl4Z2FHVjZqODh1QW9vMnRqTmtrME9B?oc=5)
+
+---
+
+### [Länger schlafen im Alter, weniger Depressionen?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2diVEphXy1UM1UwZ0RfNGJZVkx0dkU3RXg0UjEta2l2M1VpdURlVlpYZEdzM1U5MkFhcTlQMG1Wd3BhNURFVUdTS1B4MTN0ampkLVdjVVcxYlgzdTg1Wk1EcnBsRFRuX1JmUFJkYTRqYldwOFBOSmY1SFBfSFBzaThOY1prcWVGOHhOckFPcmoxYnhldm5J?oc=5)
+
+2026-06-12 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2diVEphXy1UM1UwZ0RfNGJZVkx0dkU3RXg0UjEta2l2M1VpdURlVlpYZEdzM1U5MkFhcTlQMG1Wd3BhNURFVUdTS1B4MTN0ampkLVdjVVcxYlgzdTg1Wk1EcnBsRFRuX1JmUFJkYTRqYldwOFBOSmY1SFBfSFBzaThOY1prcWVGOHhOckFPcmoxYnhldm5J?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ---
 
-### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+### [Charité startet DHEA-Studie gegen therapieresistente Depression mit 2,3 Mio. - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1JodGZRWVA0ZmphXzMwYUtuMEtBb2hGN09DZk90ejQ3Vlp1c3VFZUdVNVJ0VUdPVlFLcENaQ1lzNDk4WVBfMzh1eEp4R0taRUg0TUZZNktDUFB5QjI1N1NsMXA1Ynd4SFh6TUY2X0NJejZPTGxVWFdMYXpEdlVVaVRIbTY0NEdwS2p5Z2o5Wl8yandKdS10bDVYcUxLMk9NZWlvN3Z5NmVndw?oc=5)
 
-2026-06-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">depression</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1JodGZRWVA0ZmphXzMwYUtuMEtBb2hGN09DZk90ejQ3Vlp1c3VFZUdVNVJ0VUdPVlFLcENaQ1lzNDk4WVBfMzh1eEp4R0taRUg0TUZZNktDUFB5QjI1N1NsMXA1Ynd4SFh6TUY2X0NJejZPTGxVWFdMYXpEdlVVaVRIbTY0NEdwS2p5Z2o5Wl8yandKdS10bDVYcUxLMk9NZWlvN3Z5NmVndw?oc=5)
 
 ---
 

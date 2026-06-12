@@ -3,7 +3,7 @@ layout: default
 title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
-<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Waist Size and Muscle Mass: Predictors of Prognosis in CKD](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkE1UnFOUWxva3Jkc3JCN1RFcWttcGxaODNoc1pQZE9UYWVCaTR1d3FyUUZEOWtHeFN2c0RLWUlaak0tY0Nna1dsa25IT0pWemNHdnVpZC1IRmd2cmRtTEV1Mm92S1F1MDlHUF9xUkMtSmRPTHlwRmRBZVUyRGxvVGdFdHNnUUxWbEt6aWNNbFA3eFBPR3JlMW8zcVdNM0x1eFhv?oc=5)
+
+2026-06-11
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkE1UnFOUWxva3Jkc3JCN1RFcWttcGxaODNoc1pQZE9UYWVCaTR1d3FyUUZEOWtHeFN2c0RLWUlaak0tY0Nna1dsa25IT0pWemNHdnVpZC1IRmd2cmRtTEV1Mm92S1F1MDlHUF9xUkMtSmRPTHlwRmRBZVUyRGxvVGdFdHNnUUxWbEt6aWNNbFA3eFBPR3JlMW8zcVdNM0x1eFhv?oc=5)
+
+---
 
 ### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 

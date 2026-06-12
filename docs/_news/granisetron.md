@@ -14,7 +14,7 @@ permalink: /news/granisetron/
 ---
 
 <p class="key-answer" data-question="Granisetron 有什麼相關新聞？">
-<strong>Granisetron</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Granisetron</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/granisetron/
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（21 則）
+
+### [El CNIC y la Fundación AstraZeneca reúnen en Madrid a jóvenes científicos y líderes europeos para impulsar la estrategia cardiovascular SAFE HEARTS PLAN'](https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHdOdUJqZWtHblNQdmtFRlZDbTJiVHg0aWFvQzMyUlZhUzBxLVR0a3JuOUZMZVJwcUF0d2VFcDk4dmpDRXZOeEN0b1FyMjc0ZXBzRjNmOEV4WFFSdU00QlRrWXVuOUJrTnl0RHlkdTVTeG1MNUJMN1hqY1BXempHSUxzUkN5R2M3c3BjTEhDVmxrQjBrTS1SY2p0Y3gwSVRkR1VndVlSZjFmWHd5UW4tbG9PS1BVaUNEdWpuX3EwNHduVkZWLWNMSXpKeDZFaUsyLW8wdHRGVmo1ek0wQmZzX1k5eGJiRkVOUkVVTWZfWVJnc210VTN0eVpZX1IzMS0zMjlrYVNtaDBBaUI3?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHdOdUJqZWtHblNQdmtFRlZDbTJiVHg0aWFvQzMyUlZhUzBxLVR0a3JuOUZMZVJwcUF0d2VFcDk4dmpDRXZOeEN0b1FyMjc0ZXBzRjNmOEV4WFFSdU00QlRrWXVuOUJrTnl0RHlkdTVTeG1MNUJMN1hqY1BXempHSUxzUkN5R2M3c3BjTEhDVmxrQjBrTS1SY2p0Y3gwSVRkR1VndVlSZjFmWHd5UW4tbG9PS1BVaUNEdWpuX3EwNHduVkZWLWNMSXpKeDZFaUsyLW8wdHRGVmo1ek0wQmZzX1k5eGJiRkVOUkVVTWZfWVJnc210VTN0eVpZX1IzMS0zMjlrYVNtaDBBaUI3?oc=5)
+
+---
+
+### [Versteck im zentralen Nervensystem: Mit Hirnorganoiden die Biologie des Ebola-Virus besser verstehen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBoWkltUkV2bUd1SkN0WlVfZlBkS0VQbUJxRTRsVUg5X1puSjZxZjl6cWFNTmpfSENGa2psRmxDbWZSVVE?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBoWkltUkV2bUd1SkN0WlVfZlBkS0VQbUJxRTRsVUg5X1puSjZxZjl6cWFNTmpfSENGa2psRmxDbWZSVVE?oc=5)
+
+---
+
+### [Eine Abendroutine verschiebt den Schlaf kleiner Kinder deutlich - Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHNzdTZGeWt2UjEzREdkUHR0dm9XRlB0X3JCQnl3WHZObmxLSU9RREEtYTRfdkRJWmM2RGxFX1ZZdzlCUGppblhmOS1sU1lUUS1RMzFUN3h4cXN1STctTTIwR3JfMm5vbnlldjBkRWZZYjFhRWlaOTBNRTRhRFBIbGpxRDI5N3lmckJTMnNUYlk1VUM2cFFwYXJNVUxGX0JUWWQwRjVyUm1nLWRQSDVVdHlDVzF1VEdBRzZsWjE5MU9MNW1sei04eA?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHNzdTZGeWt2UjEzREdkUHR0dm9XRlB0X3JCQnl3WHZObmxLSU9RREEtYTRfdkRJWmM2RGxFX1ZZdzlCUGppblhmOS1sU1lUUS1RMzFUN3h4cXN1STctTTIwR3JfMm5vbnlldjBkRWZZYjFhRWlaOTBNRTRhRFBIbGpxRDI5N3lmckJTMnNUYlk1VUM2cFFwYXJNVUxGX0JUWWQwRjVyUm1nLWRQSDVVdHlDVzF1VEdBRzZsWjE5MU9MNW1sei04eA?oc=5)
+
+---
+
+### [Parkinson-Frühwarnsystem: Wie Spuren im Darm die Krankheit Jahre vor ersten Symptomen verraten](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUl9leU1Mb0VNWlZ2MFkteUtyejljcmozS01pdXR5dTJjamtvbzJtcnI2TVc2cHlEeVBaV3pMVU4yU3B6d0x2UkpfdGdkYU1LWUJqOTBCdWFrejdPM2duVnEtc3c1TFJpVVl3MUdMTW9HRXVYS3lIVXhxbk9IWG5wc2JHRnhkZF82MTNkOTdnU3ozQ3lWN0NCZlB0OTFVd0RPSFN5Q21qWQ?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[Ludwigshafen24](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUl9leU1Mb0VNWlZ2MFkteUtyejljcmozS01pdXR5dTJjamtvbzJtcnI2TVc2cHlEeVBaV3pMVU4yU3B6d0x2UkpfdGdkYU1LWUJqOTBCdWFrejdPM2duVnEtc3c1TFJpVVl3MUdMTW9HRXVYS3lIVXhxbk9IWG5wc2JHRnhkZF82MTNkOTdnU3ozQ3lWN0NCZlB0OTFVd0RPSFN5Q21qWQ?oc=5)
+
+---
+
+### [A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
+
+---
 
 ### [La obesidad global cambia de ritmo entre descensos y aumentos](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
 
@@ -67,6 +107,22 @@ permalink: /news/granisetron/
 2026-06-12 <span class="news-indication-tag">AF</span>
 
 來源：[zm-online](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWNfX01uV0s5ZGVYTkxucWg2S3l6TXNmX0N0MlNnT2FIZmZwR243OHFUSThKYVJ3WG1hbnliQXRZdm1TNTI1bHlqWVpMekpUNm5teEh6eC0yYjRKbzUxZURmNmM1dmo1VTVTMi1mNnB2X01MSVlmY05KeG9rdVBPZzIzd0M?oc=5)
+
+---
+
+### [Länger schlafen im Alter, weniger Depressionen?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2diVEphXy1UM1UwZ0RfNGJZVkx0dkU3RXg0UjEta2l2M1VpdURlVlpYZEdzM1U5MkFhcTlQMG1Wd3BhNURFVUdTS1B4MTN0ampkLVdjVVcxYlgzdTg1Wk1EcnBsRFRuX1JmUFJkYTRqYldwOFBOSmY1SFBfSFBzaThOY1prcWVGOHhOckFPcmoxYnhldm5J?oc=5)
+
+2026-06-12 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2diVEphXy1UM1UwZ0RfNGJZVkx0dkU3RXg0UjEta2l2M1VpdURlVlpYZEdzM1U5MkFhcTlQMG1Wd3BhNURFVUdTS1B4MTN0ampkLVdjVVcxYlgzdTg1Wk1EcnBsRFRuX1JmUFJkYTRqYldwOFBOSmY1SFBfSFBzaThOY1prcWVGOHhOckFPcmoxYnhldm5J?oc=5)
+
+---
+
+### [Dad with cancer left in £4,500 debt after company mistakenly paid him - Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
+
+2026-06-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
 
 ---
 
@@ -86,11 +142,19 @@ permalink: /news/granisetron/
 
 ---
 
-### ['I've never been this good' – revolutionary immune reset puts lupus in remission](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTd1dweXFkZVE4Q0pQYzVFYlBuc19SbGhnd2R3eFg2VG5RMWJ5RUlRR1FXMW5QOENneUxZaFNKWlA0WHIwa3RFRUZfUHplLXB2QTJvTWRSc01UUi12?oc=5)
+### [Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
 
-2026-06-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTd1dweXFkZVE4Q0pQYzVFYlBuc19SbGhnd2R3eFg2VG5RMWJ5RUlRR1FXMW5QOENneUxZaFNKWlA0WHIwa3RFRUZfUHplLXB2QTJvTWRSc01UUi12?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
+
+---
+
+### [Thousands of young people to be offered two-dose MenB vaccine](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGVwZElrMmZKeU11S3BNczVEWVZYbnU3RU5ZUi1XYTh6UE00UW9HVlNET0luNmd5VGkyQWZSOGlnUjBBR2IwMXpET0xIZWFLdG9OTmlHMENxNnBCSnQzSTIxR0tUcjZ4ZWJkcnVDVXhSaXgtYlVZRE5PRTlrRnNMUGpGN0FndFZfclFiclhIY3hObWE2eFZ4aVppT2c?oc=5)
+
+2026-06-11 <span class="news-indication-tag">AF</span>
+
+來源：[GOV.UK](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGVwZElrMmZKeU11S3BNczVEWVZYbnU3RU5ZUi1XYTh6UE00UW9HVlNET0luNmd5VGkyQWZSOGlnUjBBR2IwMXpET0xIZWFLdG9OTmlHMENxNnBCSnQzSTIxR0tUcjZ4ZWJkcnVDVXhSaXgtYlVZRE5PRTlrRnNMUGpGN0FndFZfclFiclhIY3hObWE2eFZ4aVppT2c?oc=5)
 
 ---
 
@@ -99,6 +163,14 @@ permalink: /news/granisetron/
 2026-06-11 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSkFRclBtb3dZSGgtVUgzTnpXZ2FsMXY3YS1HY215ZHNZVkJOTXVfaVpvQ1ZLQk1VaXZJWHVtRWZpWmFJWm9mZWVtRXh0THFDdXhBNlg4NlNtZ0lN?oc=5)
+
+---
+
+### [La science le confirme : le thé peut aider à vivre plus longtemps, mais tout dépend de sa préparation - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZnZObFQ2OG5yZHN1UzhUZkdCaHFudnA4SWp3MENKa0hjTHRXRTlmdGRWVHpNWDRkSndLV0ZpN3NWS3VNZWt3dHBCNFpCYzdKbktnVEEwdmN1RHVlaGxVbHc4RDZVT2dVYzBZMDNSYTNjbmxxREVFUWRxOU9rU1BFZWE5d3ljMXhYN0R0dEdQdzVWbklCSm9jaG1VQ2U1cmhFQ3RnN0NmSE1QNHhmcTduUVYwUlVPY0VhNW9vY3B0R18tZXYtbjZHUTM5TWN1Y0J1STltOFlYSkNydUdn?oc=5)
+
+2026-06-11 <span class="news-indication-tag">AF</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZnZObFQ2OG5yZHN1UzhUZkdCaHFudnA4SWp3MENKa0hjTHRXRTlmdGRWVHpNWDRkSndLV0ZpN3NWS3VNZWt3dHBCNFpCYzdKbktnVEEwdmN1RHVlaGxVbHc4RDZVT2dVYzBZMDNSYTNjbmxxREVFUWRxOU9rU1BFZWE5d3ljMXhYN0R0dEdQdzVWbklCSm9jaG1VQ2U1cmhFQ3RnN0NmSE1QNHhmcTduUVYwUlVPY0VhNW9vY3B0R18tZXYtbjZHUTM5TWN1Y0J1STltOFlYSkNydUdn?oc=5)
 
 ---
 
@@ -118,19 +190,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+### [I’m a diabetes dietitian — do one thing after every meal to keep blood sugar on track - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGFVNnRZbHZYVnM1S1JmRzRUV3QyUXk2b2FhR050eVh3VFdXNXdkX0s5RU81UmJhZUJjdGZIeGh1MXpnbmxwQTJNS3piTmlFUWJMWUhTVnl6eGwzV3I5c2c2OFV5WVUtb2tpeFVwYk4tak9LRGk3d0oyWnZQNm8xd1l0dTVGOW9NOEJzS3hkZmtUMzTSAZgBQVVfeXFMUF9tRkRLMDd2M25DZmJPQWUwbEc3TmFVSmhkNHh1TllSNjFDREdEanotNDhINjhPNEpUZkpYbUFSQ3hLcjVFaDQycmM5MGxMMEhMalVObWxEcVB0U2UyTTZnRXprVUdpRTBiZG10cjRUQTdQUk1WVGt3empYOHZSNnRULUJTb2FDZ25kaUl0N05OckZQVGhxcDA?oc=5)
 
-2026-06-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
-
----
-
-### [The World Cup Could Spread More Than Soccer Fever, Experts Warn](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdE4yZElSaVUwc1VsNjhuT2RBT0p0Mk1sWGtBY1I0dkVxbzBKakt2TnJQM3UwTWROQkUzSzIxY0NNcU9Pa3JPcDkybHZ5UXJtdnpyT2lPYjgzNEtjbDVqRWFLUjRjaXVRVGh3SHc5M090OEZ5Ykh6Y0dud090NGZfek0wQlg1cjhXNXUzTFZIUUJHOGlhOGc?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdE4yZElSaVUwc1VsNjhuT2RBT0p0Mk1sWGtBY1I0dkVxbzBKakt2TnJQM3UwTWROQkUzSzIxY0NNcU9Pa3JPcDkybHZ5UXJtdnpyT2lPYjgzNEtjbDVqRWFLUjRjaXVRVGh3SHc5M090OEZ5Ykh6Y0dud090NGZfek0wQlg1cjhXNXUzTFZIUUJHOGlhOGc?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGFVNnRZbHZYVnM1S1JmRzRUV3QyUXk2b2FhR050eVh3VFdXNXdkX0s5RU81UmJhZUJjdGZIeGh1MXpnbmxwQTJNS3piTmlFUWJMWUhTVnl6eGwzV3I5c2c2OFV5WVUtb2tpeFVwYk4tak9LRGk3d0oyWnZQNm8xd1l0dTVGOW9NOEJzS3hkZmtUMzTSAZgBQVVfeXFMUF9tRkRLMDd2M25DZmJPQWUwbEc3TmFVSmhkNHh1TllSNjFDREdEanotNDhINjhPNEpUZkpYbUFSQ3hLcjVFaDQycmM5MGxMMEhMalVObWxEcVB0U2UyTTZnRXprVUdpRTBiZG10cjRUQTdQUk1WVGt3empYOHZSNnRULUJTb2FDZ25kaUl0N05OckZQVGhxcDA?oc=5)
 
 ---
 
@@ -155,30 +219,6 @@ permalink: /news/granisetron/
 2026-06-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMilgFBVV95cUxOc1FDbGdJWWRaRXBMd0ZDNmY2ZWN6MTB5NEkzMTlzNXlsRkUzWVhoS09ubDd0cXZ1LUpVeUNfT1dpTFdtR24wb1NQcDUzUDJfWEVWTThFQlh3MmY2eDVSWDh1TFlGLV9jVUp5a0NEZ2tQakl1QUJtT0xaUU95WTdtZlhYRm45N0oyZ05MOF8zZXVRUnQxTEE?oc=5)
-
----
-
-### [Angst im Genom: Neue genetische Zusammenhänge mit Angstsymptomen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOG1QWkY2UGxxc1hXLW42Skgtb2ZHM010UmJzanFHaHVKZktTOUxOelVyc2pTQjgyUDViZTE3QmtCTHU3Sks0TzVTZFV3b0xKVWNFMUN6WVVxdGd6Q1JFWDRfN3V2Qklub0NZQU5fdWU1eERQeTBZM0xqNDl0bkJWQVZLeEZhN0FKaUJJdEhYRnZ6SUVJOFlWUHdjOXM0bGhYV3U5dnhsUzRnYzgzS3c3SW80ZzNSYnc4STJYQVRpWQ?oc=5)
-
-2026-06-10 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOG1QWkY2UGxxc1hXLW42Skgtb2ZHM010UmJzanFHaHVKZktTOUxOelVyc2pTQjgyUDViZTE3QmtCTHU3Sks0TzVTZFV3b0xKVWNFMUN6WVVxdGd6Q1JFWDRfN3V2Qklub0NZQU5fdWU1eERQeTBZM0xqNDl0bkJWQVZLeEZhN0FKaUJJdEhYRnZ6SUVJOFlWUHdjOXM0bGhYV3U5dnhsUzRnYzgzS3c3SW80ZzNSYnc4STJYQVRpWQ?oc=5)
-
----
-
-### [Gedächtnistests per Smartphone erfassen kognitive Veränderungen schneller als Standardverfahren - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV0dQWXlOU2FPZ21JYUFjd0FCdkVzOE1JaHBzdUpKWlkyamdvRXFnU3RCMHFpeGhIb293ZUV2ZW9hVE9UTWpqa1Q2VTNvUGsxbEtEdjR4R1RzR18zenY1UU5KRURhcHlaTkJxbmpHNEc0Z3JDNXVJX2FpM3A2bWRRQ3FTd09sZkJUaE9TNjYwRFFEMXFJRXN3Y0Fhbm1XU0Q5S0lWb3luZEF1Y1BrWGFNT21NaVNpR2NGU0RwZEZNN19TTVpnS2hPNVQxSG5raVJ3UE4yVWNSVk5ObU1MSThhbDVEdGc2Szd3WGRz?oc=5)
-
-2026-06-10 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV0dQWXlOU2FPZ21JYUFjd0FCdkVzOE1JaHBzdUpKWlkyamdvRXFnU3RCMHFpeGhIb293ZUV2ZW9hVE9UTWpqa1Q2VTNvUGsxbEtEdjR4R1RzR18zenY1UU5KRURhcHlaTkJxbmpHNEc0Z3JDNXVJX2FpM3A2bWRRQ3FTd09sZkJUaE9TNjYwRFFEMXFJRXN3Y0Fhbm1XU0Q5S0lWb3luZEF1Y1BrWGFNT21NaVNpR2NGU0RwZEZNN19TTVpnS2hPNVQxSG5raVJ3UE4yVWNSVk5ObU1MSThhbDVEdGc2Szd3WGRz?oc=5)
-
----
-
-### [La «crisi del settimo anno» di cani e gatti: come affrontare l'inizio di una vecchiaia che diventa sempre più lunga - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
-
-2026-06-10 <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxOUmhONGFIUG15Q1lLQjlieFFKcnpQRHc4cXZocHYyTEt1Uy1rVzBiTFdhTDZwSlZ4RkxNWlZnbkxIU0cwNGJZNUpfOVIwM1MyVE9pSkM4aXRMMmpROGZtSTVmS2I4eUcwV2NYOXRYczJNNzlRaXIzaWNPckNCUG5UZkk2SmZzaGNNRV8xay1va080ckxaRU9nVkpOM1prRWpJMTlMUVE3eFl6cXZfU1lWdjYxLUZpUy1ZV0FnT0ZFTVBMWmVHWVpMOUZaMmktVHd5aGlnVWRCbWNNYW1WRndRTXZ6anI4cjZaTWZqTkNUVWUwN1puWFN4VVM2T0hQSjBJVXBncEwwNm8yWm1Ia0V3SVZOM1ZzYkcwTDl6UHYxTTJCQ2EzRm5jUGJxZnlqZ9IBswJBVV95cUxORXMzVVVNb3ZqX0Yta01zalFWYlVId0M5Vmw3Q3p6VDNVUVFNbEpfeFJ1U3hjRFdVVXhMS1psdFRVNThWWW1tNktoSjVKU21tLVlsNWZ6cTF4aEFiVkMyUmhXMV9UYzZzM1NlYzNTSFFiYmNkQTVSNERESllsQ3ZaMGNXSzhfUmNnZHZUdlU0YmJ3SHVSa1FDMVY1cmpUcm11R3JRTTM2OUJ4UXdnUE5DcmVhQVRlMmgySXNiR212WXVHc2d3UlZFbXJhV3FjdWpXd1VZTFJFNFhNel9vcEZxOEZrdmZpenZNdnY5LU9rcEZmbllneVZtVUF5ZU9fYXlhYks0NVJhSUp1R3I4UC1SOHoyR3lrZDFUMC1KdUJxNVN1aWFtV2lBM2NTcWFWa3hFMS04?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="Azathioprine 有什麼相關新聞？">
-<strong>Azathioprine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azathioprine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/azathioprine/
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Neue mögliche Ursache für Morbus Crohn und Colitis ulcerosa entdeckt](https://news.google.com/rss/articles/CBMie0FVX3lxTE5rTEx2V0dvUTY4Tk5nZ3g3dmxlSlBoWW1fczZNWnNpc1lWaGtvYTl3TjlFdzQ2UFNSbHJGQjRMMGZ4UTZHeDRVUTc0cTJJLXFBXzh1dzljMExjSnFGbEQzRkdncGlRck5CQW9aUFB2ai1BdEIxYkRXR3hVdw?oc=5)
-
-2026-06-12 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMie0FVX3lxTE5rTEx2V0dvUTY4Tk5nZ3g3dmxlSlBoWW1fczZNWnNpc1lWaGtvYTl3TjlFdzQ2UFNSbHJGQjRMMGZ4UTZHeDRVUTc0cTJJLXFBXzh1dzljMExjSnFGbEQzRkdncGlRck5CQW9aUFB2ai1BdEIxYkRXR3hVdw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

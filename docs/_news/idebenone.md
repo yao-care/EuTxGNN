@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="Idebenone 有什麼相關新聞？">
-<strong>Idebenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idebenone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/idebenone/
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Blutdruck-Medikamente: Kalziumkanalblocker erhöhen Nierenschaden-Risiko um 33% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
 
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
-
----
-
-### [Hypertension artérielle : bientôt un dépistage rémunéré en officine - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
-
-2026-06-10 <span class="news-indication-tag">hypertension</span>
-
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
 
 ---
 

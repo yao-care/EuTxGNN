@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,29 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+2026-06-12
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+---
 
 ### [La obesidad global cambia de ritmo entre descensos y aumentos](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
 
 2026-06-12
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
-
----
-
-### [Metabolisch unauffällige Adipositas wohl nicht gutartig](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
-
-2026-06-11
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
-
----
-
-### [Difunden las primeras directrices, a nivel mundial, sobre el síndrome cardiorrenal-metabólico - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFpWSmhESXdIRHpUVl9XandSNGlGS3FvUEJ2Rk1rcW1aUXFHenE1SGNjVE5TMll5TEx5d3hBMDNOTXBvSjZvMVBtNTNrR3RBWDZxZ0NtY3U4NzRQcFU1TDRqRjJITDhyVlNqSkxIZ3FNLTB2LUVtZnF1X3dDdGpWVmwya3VCMFpzNlRrMG5TN3NKSUlQZUZHNGFSSHJiWU85YXMySFV5dEtVYjZJTzIxS1Bncjh5NWd0aEltR9IBtwFBVV95cUxNc1dZMnhKelpGUkx3ZHMySHFqYjFXMm1JbG1YVXQ1d1FucUhBU0ZOX1VFbnk2MEZkZkY3aUhRanNCMDZPc1ZXTVVBZkNoOWRocWhsb0I1anN1X0ZUSTBLQlk5MmcxZzl2VHV4MkNFSV9NQ01ZLWlURm9Kc1doZDhIWGRNTktPQUtSUzg5SkhxX256UnJES3dISzB0VE54a3c2b1FLdkhwNGNQTkRLaDdjUC12VXo3NjA?oc=5)
-
-2026-06-10
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFpWSmhESXdIRHpUVl9XandSNGlGS3FvUEJ2Rk1rcW1aUXFHenE1SGNjVE5TMll5TEx5d3hBMDNOTXBvSjZvMVBtNTNrR3RBWDZxZ0NtY3U4NzRQcFU1TDRqRjJITDhyVlNqSkxIZ3FNLTB2LUVtZnF1X3dDdGpWVmwya3VCMFpzNlRrMG5TN3NKSUlQZUZHNGFSSHJiWU85YXMySFV5dEtVYjZJTzIxS1Bncjh5NWd0aEltR9IBtwFBVV95cUxNc1dZMnhKelpGUkx3ZHMySHFqYjFXMm1JbG1YVXQ1d1FucUhBU0ZOX1VFbnk2MEZkZkY3aUhRanNCMDZPc1ZXTVVBZkNoOWRocWhsb0I1anN1X0ZUSTBLQlk5MmcxZzl2VHV4MkNFSV9NQ01ZLWlURm9Kc1doZDhIWGRNTktPQUtSUzg5SkhxX256UnJES3dISzB0VE54a3c2b1FLdkhwNGNQTkRLaDdjUC12VXo3NjA?oc=5)
 
 ---
 
