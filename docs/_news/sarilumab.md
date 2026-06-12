@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 2026-06-11 <span class="news-indication-tag">asthme</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
-
----
-
-### [Lungenultraschall erkennt Fortschreiten von Lungenveränderungen bei rheumatoider Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
-
-2026-06-10 <span class="news-indication-tag">arthritis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
 
 ---
 

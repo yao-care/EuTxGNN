@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（25 則）
+
+### [UK school leavers and new students to be offered meningitis B vaccine - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2Z2S0NpdGVvNDJILW8zQ29iZUFZUm1WSnFOd1FHcmU5U2dkczlweU1rQWNyYjRKcFhmUlNDd1RIcXlLemRueXBfd3dTY19oOWV5ZE9FREZxLUtERWxwR1dtRzhOUHBrOXJ4enZ4LU1adFp3SFpDY1QzY1pZd2twdE9YbnY4WklzcGtEWjBtUGRWTXpYR0FObk1KaV9EbHA2SG5ZdXp0UGZOLU5yT3dLZzhleHBYbU9M?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2Z2S0NpdGVvNDJILW8zQ29iZUFZUm1WSnFOd1FHcmU5U2dkczlweU1rQWNyYjRKcFhmUlNDd1RIcXlLemRueXBfd3dTY19oOWV5ZE9FREZxLUtERWxwR1dtRzhOUHBrOXJ4enZ4LU1adFp3SFpDY1QzY1pZd2twdE9YbnY4WklzcGtEWjBtUGRWTXpYR0FObk1KaV9EbHA2SG5ZdXp0UGZOLU5yT3dLZzhleHBYbU9M?oc=5)
+
+---
+
+### [Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
+
+2026-06-11 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
+
+---
 
 ### [Adipositas-Forschung 2026: Neue Daten stellen alte Lehrmeinungen infrage - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3dHa3UyM1pMc1F2SnRhSzJXa3dERUs3OVg3U3BieUd4dnhuQzVQLTY3QVFGMkwxZzRZZnNxWXN3NjhqaW9DTG11amNNdXlDTmxLNmVYUFNQZ0NJNUFaZXNPYUkybjlZTFR2bTVMemlNOS1CWUZjNlhfR2U4Y3g5c1YxTzlpYWN5dF93MXg0cTREZ3owdmdxbF8wcUo2cW1qMGpwUV9iNlRRRjh1TVcyZ0ItWkdWdUdtendfVQ?oc=5)
 
@@ -75,6 +91,14 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-11 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSkFRclBtb3dZSGgtVUgzTnpXZ2FsMXY3YS1HY215ZHNZVkJOTXVfaVpvQ1ZLQk1VaXZJWHVtRWZpWmFJWm9mZWVtRXh0THFDdXhBNlg4NlNtZ0lN?oc=5)
+
+---
+
+### [Nueve bulos sobre el cáncer de próstata](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNmhOekFSY0tJYkx5REhfUzVET21Jc3lrMWtiWXgxcUxVUkhHTzFMbE01dWZnMUdwbDRFQ0I2WmpEWnY2LXNEcHJwYjNNWjNEVlJLd2FLS0ZQSnpTMWhZdjZiVmU5cG9KNXBzYQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[efesalud.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNmhOekFSY0tJYkx5REhfUzVET21Jc3lrMWtiWXgxcUxVUkhHTzFMbE01dWZnMUdwbDRFQ0I2WmpEWnY2LXNEcHJwYjNNWjNEVlJLd2FLS0ZQSnpTMWhZdjZiVmU5cG9KNXBzYQ?oc=5)
 
 ---
 
@@ -102,19 +126,27 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+### [El hígado graso puede avanzar sin síntomas: éstas son las siete recomendaciones clave de los expertos](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW9VWTNheC1lQ2JEUUNRaGUySGpGd3JhZUpOUVVNVVZXZ2NEVHFZZGEzaWVRQWlWMUNPSTFWMldYNEgtckNmSjdlM0oybVIxcWFQdWY4RVh3alRiRHFhSnF1aFd3cmtZdHJEc1h6R1NHVDR1TU9VQkRzYWpMSG9ocWYxQnp6XzlhMVlGNUhHTHU5SmRwa1IxUGNabjMzd3hVMEgybGVmTUJoNDhSN2MyeDJmWHo1WDR0U2JZWWpaSdIBxAFBVV95cUxOT3BfREpTaGpFNkJ1Q3g4WEdFVVZoU3hwRXR5Y1cyaUd5VlM1R2UxLUZ6YUZEaXJVa0ZGWUNZM2Q2dWhXdlNMeVhSZGpJaURIZTRza3daN1JHTlFLa1BjbUZ2X2NscG5vRmZIRm16cFlnSTF5eHZpdzJJT054ZGRZcWMya0lFT1Z3ZTlPMGdydWxGMmNERzlCckRhUnlNT3I3MGZORDYyd05DRVpGNFplV0x3SXlsaGgzb0hyTi0tSnczOTJh?oc=5)
 
-2026-06-11 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">obesidad</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW9VWTNheC1lQ2JEUUNRaGUySGpGd3JhZUpOUVVNVVZXZ2NEVHFZZGEzaWVRQWlWMUNPSTFWMldYNEgtckNmSjdlM0oybVIxcWFQdWY4RVh3alRiRHFhSnF1aFd3cmtZdHJEc1h6R1NHVDR1TU9VQkRzYWpMSG9ocWYxQnp6XzlhMVlGNUhHTHU5SmRwa1IxUGNabjMzd3hVMEgybGVmTUJoNDhSN2MyeDJmWHo1WDR0U2JZWWpaSdIBxAFBVV95cUxOT3BfREpTaGpFNkJ1Q3g4WEdFVVZoU3hwRXR5Y1cyaUd5VlM1R2UxLUZ6YUZEaXJVa0ZGWUNZM2Q2dWhXdlNMeVhSZGpJaURIZTRza3daN1JHTlFLa1BjbUZ2X2NscG5vRmZIRm16cFlnSTF5eHZpdzJJT054ZGRZcWMya0lFT1Z3ZTlPMGdydWxGMmNERzlCckRhUnlNT3I3MGZORDYyd05DRVpGNFplV0x3SXlsaGgzb0hyTi0tSnczOTJh?oc=5)
 
 ---
 
-### [Día del Cáncer de Próstata: el tumor que más afecta a los hombres no da síntomas pero puede detectarse a tiempo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
+### [Kaffee: Zwei bis drei Tassen senken Depressions-Risiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5EbGJXb1pBUEVXWG9EWDQtaUMtbXpMcDlnM1FiY0tZaDdaaTRqTHBkT2QyMGR0S2psZnduTnZyYXltbVJ3enRWalhzYnJpdFVZeGxoWEZ0X3RlR1Zsb3F0YVhrYTNQQ2VNZ3J0T2dkOHEwakMyRjMwVlpaamRVdWRWUHpRQzI2QVNMZWNxS0VHczNGXzZYNENIOGdUTzAzRGZ0aGZ0dWtrUTZWblk5Vw?oc=5)
 
-2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5EbGJXb1pBUEVXWG9EWDQtaUMtbXpMcDlnM1FiY0tZaDdaaTRqTHBkT2QyMGR0S2psZnduTnZyYXltbVJ3enRWalhzYnJpdFVZeGxoWEZ0X3RlR1Zsb3F0YVhrYTNQQ2VNZ3J0T2dkOHEwakMyRjMwVlpaamRVdWRWUHpRQzI2QVNMZWNxS0VHczNGXzZYNENIOGdUTzAzRGZ0aGZ0dWtrUTZWblk5Vw?oc=5)
+
+---
+
+### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+
+2026-06-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
 
 ---
 
@@ -144,7 +176,7 @@ permalink: /news/vernakalant-hydrochloride/
 
 ### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
-2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
@@ -171,14 +203,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMilgFBVV95cUxOc1FDbGdJWWRaRXBMd0ZDNmY2ZWN6MTB5NEkzMTlzNXlsRkUzWVhoS09ubDd0cXZ1LUpVeUNfT1dpTFdtR24wb1NQcDUzUDJfWEVWTThFQlh3MmY2eDVSWDh1TFlGLV9jVUp5a0NEZ2tQakl1QUJtT0xaUU95WTdtZlhYRm45N0oyZ05MOF8zZXVRUnQxTEE?oc=5)
-
----
-
-### [Come cureremo diabete e obesità nei prossimi anni? Ecco il futuro delle terapie - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
 
 ---
 
@@ -219,14 +243,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
-
----
-
-### [Kaffee gegen Alterung – Wissenschaftler finden überraschenden Wirkstoff - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
-
-2026-06-10 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
 
 ---
 

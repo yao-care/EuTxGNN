@@ -14,7 +14,7 @@ permalink: /news/elafibranor/
 ---
 
 <p class="key-answer" data-question="Elafibranor 有什麼相關新聞？">
-<strong>Elafibranor</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elafibranor</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/elafibranor/
 <p><a href="{{ '/drugs/elafibranor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（35 則）
+
+### [Herpes zoster am Auge bei Immungesunden kein Hinweis auf erhöhtes Krebsrisiko](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
+
+2026-06-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
+
+---
+
+### [UK school leavers and new students to be offered meningitis B vaccine - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2Z2S0NpdGVvNDJILW8zQ29iZUFZUm1WSnFOd1FHcmU5U2dkczlweU1rQWNyYjRKcFhmUlNDd1RIcXlLemRueXBfd3dTY19oOWV5ZE9FREZxLUtERWxwR1dtRzhOUHBrOXJ4enZ4LU1adFp3SFpDY1QzY1pZd2twdE9YbnY4WklzcGtEWjBtUGRWTXpYR0FObk1KaV9EbHA2SG5ZdXp0UGZOLU5yT3dLZzhleHBYbU9M?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2Z2S0NpdGVvNDJILW8zQ29iZUFZUm1WSnFOd1FHcmU5U2dkczlweU1rQWNyYjRKcFhmUlNDd1RIcXlLemRueXBfd3dTY19oOWV5ZE9FREZxLUtERWxwR1dtRzhOUHBrOXJ4enZ4LU1adFp3SFpDY1QzY1pZd2twdE9YbnY4WklzcGtEWjBtUGRWTXpYR0FObk1KaV9EbHA2SG5ZdXp0UGZOLU5yT3dLZzhleHBYbU9M?oc=5)
+
+---
 
 ### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
 
 2026-06-11 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
+
+---
+
+### [Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
+
+2026-06-11 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
 
 ---
 
@@ -75,6 +99,14 @@ permalink: /news/elafibranor/
 2026-06-11 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSkFRclBtb3dZSGgtVUgzTnpXZ2FsMXY3YS1HY215ZHNZVkJOTXVfaVpvQ1ZLQk1VaXZJWHVtRWZpWmFJWm9mZWVtRXh0THFDdXhBNlg4NlNtZ0lN?oc=5)
+
+---
+
+### [Nueve bulos sobre el cáncer de próstata](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNmhOekFSY0tJYkx5REhfUzVET21Jc3lrMWtiWXgxcUxVUkhHTzFMbE01dWZnMUdwbDRFQ0I2WmpEWnY2LXNEcHJwYjNNWjNEVlJLd2FLS0ZQSnpTMWhZdjZiVmU5cG9KNXBzYQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[efesalud.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNmhOekFSY0tJYkx5REhfUzVET21Jc3lrMWtiWXgxcUxVUkhHTzFMbE01dWZnMUdwbDRFQ0I2WmpEWnY2LXNEcHJwYjNNWjNEVlJLd2FLS0ZQSnpTMWhZdjZiVmU5cG9KNXBzYQ?oc=5)
 
 ---
 
@@ -110,19 +142,27 @@ permalink: /news/elafibranor/
 
 ---
 
-### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+### [Cancer colorectal : les chercheurs découvrent ce qui transforme un polype en cancer](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbmlqcmZUUTB5Y0dpZ1pwendfb29aZS1GTlBNRXJnb3cwVnJaWjJZaldlMU1IQ040RmpIMDhZWXFCMmFzRGhJRHBJWGNobEtOdUJxYjk3bmo3TXRQNkhqdTEyTzlwMFNKMnc?oc=5)
 
-2026-06-11 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">cancer</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbmlqcmZUUTB5Y0dpZ1pwendfb29aZS1GTlBNRXJnb3cwVnJaWjJZaldlMU1IQ040RmpIMDhZWXFCMmFzRGhJRHBJWGNobEtOdUJxYjk3bmo3TXRQNkhqdTEyTzlwMFNKMnc?oc=5)
 
 ---
 
-### [Día del Cáncer de Próstata: el tumor que más afecta a los hombres no da síntomas pero puede detectarse a tiempo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
+### [Kaffee: Zwei bis drei Tassen senken Depressions-Risiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5EbGJXb1pBUEVXWG9EWDQtaUMtbXpMcDlnM1FiY0tZaDdaaTRqTHBkT2QyMGR0S2psZnduTnZyYXltbVJ3enRWalhzYnJpdFVZeGxoWEZ0X3RlR1Zsb3F0YVhrYTNQQ2VNZ3J0T2dkOHEwakMyRjMwVlpaamRVdWRWUHpRQzI2QVNMZWNxS0VHczNGXzZYNENIOGdUTzAzRGZ0aGZ0dWtrUTZWblk5Vw?oc=5)
 
-2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5EbGJXb1pBUEVXWG9EWDQtaUMtbXpMcDlnM1FiY0tZaDdaaTRqTHBkT2QyMGR0S2psZnduTnZyYXltbVJ3enRWalhzYnJpdFVZeGxoWEZ0X3RlR1Zsb3F0YVhrYTNQQ2VNZ3J0T2dkOHEwakMyRjMwVlpaamRVdWRWUHpRQzI2QVNMZWNxS0VHczNGXzZYNENIOGdUTzAzRGZ0aGZ0dWtrUTZWblk5Vw?oc=5)
+
+---
+
+### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
+
+2026-06-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
 
 ---
 
@@ -182,14 +222,6 @@ permalink: /news/elafibranor/
 
 ---
 
-### [Cancer colorectal : de la lésion précancéreuse, au cancer, on sait pourquoi certains développe une tumeur - Europe 1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTG9LaXRTdVZ1d2ZJdVRTVk02R1pyZzVpNW40TlFRTXlqV2hUVEw1WjdheWpUTGtzTDFSU1ZaSG03amRKbUtnaWFsQ1NaNUJLYzgybVJJaVljb3dRckpNYjAwbmRlVzlNSWtEdEVFaUJ3UkVaVV9YZ0IxbzVFVUc1cDdUSGRJNEY3SUZpdjVpYTJpWTVrOXlDRjRRcmhpdU8tWXJwQjhjd0NpS3lDeVBaY3BoVVozMFFLM3VNQ01aenJFc2xGRXhRaTV3dlpuUDdRTE5V0gHYAUFVX3lxTFB3N1VtTTI3N2FpQXJwZmYzekZhUHhHSzR2ZnByOHo2M0hnbDhDT2s2QnJXaDFzM0xvUDlSWFFQZ0xPWE1TZGhsYmR2bDlsR3BfTWxrRmRvejlyb1JYdk5HZUM5TVZ3MDQyekUtZVJkeWk0dlRUQUlTX1R2clB4bFlJTUxTWHlsS0xYWTZDRFhlMk5XTkRNczI3eDdSd0NKWUtxb2JUc19ndkNXM1lrWWpweUZROVY1RGduelBZLU9HaUxEZ3VZeXVQdXUwVkZOTU00RW5ta1ByUg?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTG9LaXRTdVZ1d2ZJdVRTVk02R1pyZzVpNW40TlFRTXlqV2hUVEw1WjdheWpUTGtzTDFSU1ZaSG03amRKbUtnaWFsQ1NaNUJLYzgybVJJaVljb3dRckpNYjAwbmRlVzlNSWtEdEVFaUJ3UkVaVV9YZ0IxbzVFVUc1cDdUSGRJNEY3SUZpdjVpYTJpWTVrOXlDRjRRcmhpdU8tWXJwQjhjd0NpS3lDeVBaY3BoVVozMFFLM3VNQ01aenJFc2xGRXhRaTV3dlpuUDdRTE5V0gHYAUFVX3lxTFB3N1VtTTI3N2FpQXJwZmYzekZhUHhHSzR2ZnByOHo2M0hnbDhDT2s2QnJXaDFzM0xvUDlSWFFQZ0xPWE1TZGhsYmR2bDlsR3BfTWxrRmRvejlyb1JYdk5HZUM5TVZ3MDQyekUtZVJkeWk0dlRUQUlTX1R2clB4bFlJTUxTWHlsS0xYWTZDRFhlMk5XTkRNczI3eDdSd0NKWUtxb2JUc19ndkNXM1lrWWpweUZROVY1RGduelBZLU9HaUxEZ3VZeXVQdXUwVkZOTU00RW5ta1ByUg?oc=5)
-
----
-
 ### [Tumore alla prostata: la rivoluzione di cure e diagnosi, cruciale controllarsi dai 50 anni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJHNjVHNGhrLXRyTVlMekhaTlU0bTVPVHp4LThub0FsZWo0MThRMWJocmZ4T0NhTms3Z2NndXlRSU5PampMN2JWeUNnVV9QdzlmUEpVTjBqTnZEc3hhTFNqQmdNQW8zN1NkajI5Z1JabnQySVVFTHNZMnRqVTR2U1lpR1lJMG1RMDh3RU5UdEVDLW1XVjRyQjRZM0xFQkk2SjhrWDBhOFpHbDdsM1dlXzlKclM?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
@@ -208,7 +240,7 @@ permalink: /news/elafibranor/
 
 ### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
-2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
@@ -254,6 +286,14 @@ permalink: /news/elafibranor/
 
 ---
 
+### ['Cutting-edge' prostate cancer treatment to be rolled out by NHS from next week - Sky News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQalJ5bkFvVHNXZXlabjd1VlRjekNBakg0UDgwa3pHd1VUNGh4aVhkRE9jcVYxY0stdTI5S2FwSVBFdmtjUTZTNkRqa3pqclV3MWRhU19aalFkZWJrQ0RTX1pXNmhPbU83OEdOdHVobnQ0NFJQSDNTTUZzV2NNOFI2dzRxUkMzYUhZaExaX1M3TGlLbEQyRTVLVGZqWklublhZWldvbENJaHZKYXRkUFgtbWJhZw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">cancer</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQalJ5bkFvVHNXZXlabjd1VlRjekNBakg0UDgwa3pHd1VUNGh4aVhkRE9jcVYxY0stdTI5S2FwSVBFdmtjUTZTNkRqa3pqclV3MWRhU19aalFkZWJrQ0RTX1pXNmhPbU83OEdOdHVobnQ0NFJQSDNTTUZzV2NNOFI2dzRxUkMzYUhZaExaX1M3TGlLbEQyRTVLVGZqWklublhZWldvbENJaHZKYXRkUFgtbWJhZw?oc=5)
+
+---
+
 ### [Gedächtnistests per Smartphone erfassen kognitive Veränderungen schneller als Standardverfahren - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV0dQWXlOU2FPZ21JYUFjd0FCdkVzOE1JaHBzdUpKWlkyamdvRXFnU3RCMHFpeGhIb293ZUV2ZW9hVE9UTWpqa1Q2VTNvUGsxbEtEdjR4R1RzR18zenY1UU5KRURhcHlaTkJxbmpHNEc0Z3JDNXVJX2FpM3A2bWRRQ3FTd09sZkJUaE9TNjYwRFFEMXFJRXN3Y0Fhbm1XU0Q5S0lWb3luZEF1Y1BrWGFNT21NaVNpR2NGU0RwZEZNN19TTVpnS2hPNVQxSG5raVJ3UE4yVWNSVk5ObU1MSThhbDVEdGc2Szd3WGRz?oc=5)
 
 2026-06-10 <span class="news-indication-tag">AF</span>
@@ -283,22 +323,6 @@ permalink: /news/elafibranor/
 2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
----
-
-### [Prostate beam therapy spares patients daily hospital trips - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWVGQVhoWjg0SVd0eW8xRnp5MndhZzBQLWwtODlqWVZZX1JaS1BsaGMtOFpFdXJjRml5Wm1qbVVRR1FtSU93aGVkc1dyd29CNWVaMlBLMXJzR3RGSEJIaF8zVlFfa09xUUp6Q3hRbkY2bklFNk9wMVB0QmZySjhKOUhNZGc3TUx6aHdTc0ZjS2lrZDF0RGVDaTNCRHQ0Z0E0Y1NTWWdn?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWVGQVhoWjg0SVd0eW8xRnp5MndhZzBQLWwtODlqWVZZX1JaS1BsaGMtOFpFdXJjRml5Wm1qbVVRR1FtSU93aGVkc1dyd29CNWVaMlBLMXJzR3RGSEJIaF8zVlFfa09xUUp6Q3hRbkY2bklFNk9wMVB0QmZySjhKOUhNZGc3TUx6aHdTc0ZjS2lrZDF0RGVDaTNCRHQ0Z0E0Y1NTWWdn?oc=5)
-
----
-
-### [Kaffee gegen Alterung – Wissenschaftler finden überraschenden Wirkstoff - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
-
-2026-06-10 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
 
 ---
 

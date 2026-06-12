@@ -14,7 +14,7 @@ permalink: /news/lebrikizumab/
 ---
 
 <p class="key-answer" data-question="Lebrikizumab 有什麼相關新聞？">
-<strong>Lebrikizumab</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lebrikizumab</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/lebrikizumab/
 <p><a href="{{ '/drugs/lebrikizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（25 則）
+
+### [Herpes zoster am Auge bei Immungesunden kein Hinweis auf erhöhtes Krebsrisiko](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
+
+2026-06-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
+
+---
 
 ### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [“Las personas con diabetes tipo 2, cuando utilizan sensores en líquido intersticial con insulina basal, mejoran su control glucémico global y pueden reducir significativamente las complicaciones agudas”](https://news.google.com/rss/articles/CBMivwJBVV95cUxNZU1uUWt5RVpvRmZqTWQ0R1JRSGN3VFVnY0xaSlVNeVJWLXBpcFJ5TkY5S2cyclkxaHJaWTNYLUFTa3hrOUYwT2VUbGVBdzk0b0RRWUVlRnd5WEUzcnc5ZmZNMEx3VDB4ZkMxTEw2cWg4dXVOZGNrMzkzLVpDVFk3MlF2ak5RMGh5Z0puUklyWmRKcDZLaWFWVWFaVU00T1ZpOVRrcDB0VjRFRG9mWldNUUN3NkdfXzZyb3ltRGZuQlVkNGVVdHdkWHpFN1BqdllyX0Nqd1MzS1g3d1F6N1VzVXE0empiY3IxdWF3bVNpeV9pR1BlSWpZLS13OFRGQmV3SzR3bVplNnlCVnF1RUU1T2V5T1JVZC1WRjN2b2ZPb2dWR2JSeDc1NGo4NzNETVhSUzVxWU5oUlN3MTVRN21F?oc=5)
+### [Nueve bulos sobre el cáncer de próstata](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNmhOekFSY0tJYkx5REhfUzVET21Jc3lrMWtiWXgxcUxVUkhHTzFMbE01dWZnMUdwbDRFQ0I2WmpEWnY2LXNEcHJwYjNNWjNEVlJLd2FLS0ZQSnpTMWhZdjZiVmU5cG9KNXBzYQ?oc=5)
 
-2026-06-11 <span class="news-indication-tag">diabetes</span>
+2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivwJBVV95cUxNZU1uUWt5RVpvRmZqTWQ0R1JRSGN3VFVnY0xaSlVNeVJWLXBpcFJ5TkY5S2cyclkxaHJaWTNYLUFTa3hrOUYwT2VUbGVBdzk0b0RRWUVlRnd5WEUzcnc5ZmZNMEx3VDB4ZkMxTEw2cWg4dXVOZGNrMzkzLVpDVFk3MlF2ak5RMGh5Z0puUklyWmRKcDZLaWFWVWFaVU00T1ZpOVRrcDB0VjRFRG9mWldNUUN3NkdfXzZyb3ltRGZuQlVkNGVVdHdkWHpFN1BqdllyX0Nqd1MzS1g3d1F6N1VzVXE0empiY3IxdWF3bVNpeV9pR1BlSWpZLS13OFRGQmV3SzR3bVplNnlCVnF1RUU1T2V5T1JVZC1WRjN2b2ZPb2dWR2JSeDc1NGo4NzNETVhSUzVxWU5oUlN3MTVRN21F?oc=5)
+來源：[efesalud.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNmhOekFSY0tJYkx5REhfUzVET21Jc3lrMWtiWXgxcUxVUkhHTzFMbE01dWZnMUdwbDRFQ0I2WmpEWnY2LXNEcHJwYjNNWjNEVlJLd2FLS0ZQSnpTMWhZdjZiVmU5cG9KNXBzYQ?oc=5)
 
 ---
 
@@ -102,19 +110,11 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Überblick zu GLP-1-Rezeptoragonisten: Große Chancen – und etliche Risiken](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
+### [Cancer colorectal : les chercheurs découvrent ce qui transforme un polype en cancer](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbmlqcmZUUTB5Y0dpZ1pwendfb29aZS1GTlBNRXJnb3cwVnJaWjJZaldlMU1IQ040RmpIMDhZWXFCMmFzRGhJRHBJWGNobEtOdUJxYjk3bmo3TXRQNkhqdTEyTzlwMFNKMnc?oc=5)
 
-2026-06-11 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+2026-06-11 <span class="news-indication-tag">cancer</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
-
----
-
-### [Día del Cáncer de Próstata: el tumor que más afecta a los hombres no da síntomas pero puede detectarse a tiempo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbmlqcmZUUTB5Y0dpZ1pwendfb29aZS1GTlBNRXJnb3cwVnJaWjJZaldlMU1IQ040RmpIMDhZWXFCMmFzRGhJRHBJWGNobEtOdUJxYjk3bmo3TXRQNkhqdTEyTzlwMFNKMnc?oc=5)
 
 ---
 
@@ -166,14 +166,6 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Cancer colorectal : de la lésion précancéreuse, au cancer, on sait pourquoi certains développe une tumeur - Europe 1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTG9LaXRTdVZ1d2ZJdVRTVk02R1pyZzVpNW40TlFRTXlqV2hUVEw1WjdheWpUTGtzTDFSU1ZaSG03amRKbUtnaWFsQ1NaNUJLYzgybVJJaVljb3dRckpNYjAwbmRlVzlNSWtEdEVFaUJ3UkVaVV9YZ0IxbzVFVUc1cDdUSGRJNEY3SUZpdjVpYTJpWTVrOXlDRjRRcmhpdU8tWXJwQjhjd0NpS3lDeVBaY3BoVVozMFFLM3VNQ01aenJFc2xGRXhRaTV3dlpuUDdRTE5V0gHYAUFVX3lxTFB3N1VtTTI3N2FpQXJwZmYzekZhUHhHSzR2ZnByOHo2M0hnbDhDT2s2QnJXaDFzM0xvUDlSWFFQZ0xPWE1TZGhsYmR2bDlsR3BfTWxrRmRvejlyb1JYdk5HZUM5TVZ3MDQyekUtZVJkeWk0dlRUQUlTX1R2clB4bFlJTUxTWHlsS0xYWTZDRFhlMk5XTkRNczI3eDdSd0NKWUtxb2JUc19ndkNXM1lrWWpweUZROVY1RGduelBZLU9HaUxEZ3VZeXVQdXUwVkZOTU00RW5ta1ByUg?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTG9LaXRTdVZ1d2ZJdVRTVk02R1pyZzVpNW40TlFRTXlqV2hUVEw1WjdheWpUTGtzTDFSU1ZaSG03amRKbUtnaWFsQ1NaNUJLYzgybVJJaVljb3dRckpNYjAwbmRlVzlNSWtEdEVFaUJ3UkVaVV9YZ0IxbzVFVUc1cDdUSGRJNEY3SUZpdjVpYTJpWTVrOXlDRjRRcmhpdU8tWXJwQjhjd0NpS3lDeVBaY3BoVVozMFFLM3VNQ01aenJFc2xGRXhRaTV3dlpuUDdRTE5V0gHYAUFVX3lxTFB3N1VtTTI3N2FpQXJwZmYzekZhUHhHSzR2ZnByOHo2M0hnbDhDT2s2QnJXaDFzM0xvUDlSWFFQZ0xPWE1TZGhsYmR2bDlsR3BfTWxrRmRvejlyb1JYdk5HZUM5TVZ3MDQyekUtZVJkeWk0dlRUQUlTX1R2clB4bFlJTUxTWHlsS0xYWTZDRFhlMk5XTkRNczI3eDdSd0NKWUtxb2JUc19ndkNXM1lrWWpweUZROVY1RGduelBZLU9HaUxEZ3VZeXVQdXUwVkZOTU00RW5ta1ByUg?oc=5)
-
----
-
 ### [Tumore alla prostata: la rivoluzione di cure e diagnosi, cruciale controllarsi dai 50 anni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJHNjVHNGhrLXRyTVlMekhaTlU0bTVPVHp4LThub0FsZWo0MThRMWJocmZ4T0NhTms3Z2NndXlRSU5PampMN2JWeUNnVV9QdzlmUEpVTjBqTnZEc3hhTFNqQmdNQW8zN1NkajI5Z1JabnQySVVFTHNZMnRqVTR2U1lpR1lJMG1RMDh3RU5UdEVDLW1XVjRyQjRZM0xFQkk2SjhrWDBhOFpHbDdsM1dlXzlKclM?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
@@ -192,7 +184,7 @@ permalink: /news/lebrikizumab/
 
 ### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
-2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
@@ -230,11 +222,11 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Come cureremo diabete e obesità nei prossimi anni? Ecco il futuro delle terapie - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
+### ['Cutting-edge' prostate cancer treatment to be rolled out by NHS from next week - Sky News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQalJ5bkFvVHNXZXlabjd1VlRjekNBakg0UDgwa3pHd1VUNGh4aVhkRE9jcVYxY0stdTI5S2FwSVBFdmtjUTZTNkRqa3pqclV3MWRhU19aalFkZWJrQ0RTX1pXNmhPbU83OEdOdHVobnQ0NFJQSDNTTUZzV2NNOFI2dzRxUkMzYUhZaExaX1M3TGlLbEQyRTVLVGZqWklublhZWldvbENJaHZKYXRkUFgtbWJhZw?oc=5)
 
-2026-06-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-06-10 <span class="news-indication-tag">cancer</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQalJ5bkFvVHNXZXlabjd1VlRjekNBakg0UDgwa3pHd1VUNGh4aVhkRE9jcVYxY0stdTI5S2FwSVBFdmtjUTZTNkRqa3pqclV3MWRhU19aalFkZWJrQ0RTX1pXNmhPbU83OEdOdHVobnQ0NFJQSDNTTUZzV2NNOFI2dzRxUkMzYUhZaExaX1M3TGlLbEQyRTVLVGZqWklublhZWldvbENJaHZKYXRkUFgtbWJhZw?oc=5)
 
 ---
 
@@ -259,14 +251,6 @@ permalink: /news/lebrikizumab/
 2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
----
-
-### [Prostate beam therapy spares patients daily hospital trips - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWVGQVhoWjg0SVd0eW8xRnp5MndhZzBQLWwtODlqWVZZX1JaS1BsaGMtOFpFdXJjRml5Wm1qbVVRR1FtSU93aGVkc1dyd29CNWVaMlBLMXJzR3RGSEJIaF8zVlFfa09xUUp6Q3hRbkY2bklFNk9wMVB0QmZySjhKOUhNZGc3TUx6aHdTc0ZjS2lrZDF0RGVDaTNCRHQ0Z0E0Y1NTWWdn?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWVGQVhoWjg0SVd0eW8xRnp5MndhZzBQLWwtODlqWVZZX1JaS1BsaGMtOFpFdXJjRml5Wm1qbVVRR1FtSU93aGVkc1dyd29CNWVaMlBLMXJzR3RGSEJIaF8zVlFfa09xUUp6Q3hRbkY2bklFNk9wMVB0QmZySjhKOUhNZGc3TUx6aHdTc0ZjS2lrZDF0RGVDaTNCRHQ0Z0E0Y1NTWWdn?oc=5)
 
 ---
 

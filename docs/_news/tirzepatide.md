@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Lungenultraschall erkennt Fortschreiten von Lungenveränderungen bei rheumatoider Arthritis - Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
-
-2026-06-10 <span class="news-indication-tag">arthritis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTZ1NWIxNFBFbWttVENFcWVoMi02QXkwbDV5WTVFYlF5UnVMbGRiSG00Sk1Fd3FLN3dBY3VjTW4wVjZZMGdXZFd6WWxaLUVaeDluUXk0enVzeXdrTmctMUhnOE1vYWdqZThXNDllZVVCSmRMSnlXdDZ4UjFzbUhiSFRTdkxfNDAtQ2xqUzQ1SUlvcnVMdTdCc1czYUEwRGcyY2pNekVxakM0WHk4VHJVZ0hDcw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Weight loss jabs are being linked to ‘Ozempic butt’ — a new drug might stop it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
 

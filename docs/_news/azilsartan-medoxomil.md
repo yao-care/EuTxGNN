@@ -54,11 +54,27 @@ permalink: /news/azilsartan-medoxomil/
 
 ## 相關新聞（27 則）
 
+### [Herpes zoster am Auge bei Immungesunden kein Hinweis auf erhöhtes Krebsrisiko](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
+
+2026-06-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
+
+---
+
 ### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
 
 2026-06-11 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
+
+---
+
+### [Nueve bulos sobre el cáncer de próstata](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNmhOekFSY0tJYkx5REhfUzVET21Jc3lrMWtiWXgxcUxVUkhHTzFMbE01dWZnMUdwbDRFQ0I2WmpEWnY2LXNEcHJwYjNNWjNEVlJLd2FLS0ZQSnpTMWhZdjZiVmU5cG9KNXBzYQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[efesalud.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNmhOekFSY0tJYkx5REhfUzVET21Jc3lrMWtiWXgxcUxVUkhHTzFMbE01dWZnMUdwbDRFQ0I2WmpEWnY2LXNEcHJwYjNNWjNEVlJLd2FLS0ZQSnpTMWhZdjZiVmU5cG9KNXBzYQ?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [El ejercicio que los cardiólogos recomiendan para bajar la presión arterial sin medicamentos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMk4xcWhqMTZ1T0lRZ1FTTkhVeFo2ZzRMV1pNTjZCc29yS1FDV3lzWXUyOVVJb29mMmtaVlk4Y09kbWk3eGZPWWZiN3ZZd3JHLU1rV3hoeEZFU1JKOFpubm9CbHJJc3JSbk5keE5kWkJFcnoyNGxvZzcyc29malBDaGQtTmJ3RjJ5Y0tobVRVM3FBWlNvMHU1VDZOaUZIVEZ4OWJIOUtVUE5TWGYxZVFMdzdVSUZpdjFDdHhYaFF6dlRJZGlJRmJIWjRpNkVvRzA3a1UtN0lIdWtaZ9IB9AFBVV95cUxPV25TaElOMzNtQVBoeFZMLUNDTXE1NW9WelJLRDdZVmlGdy1oZHhGZnFpeHU1NzN6b2NGRGp3U0F2RlliTlJaUjMwT1QyeVVOajVtZGRmU2luM1NlQ1Z0THltbnJpQjR2akk3amxOWkEtSXRaY1NmYnVfdnRFbk9qLXBIVGlfd056dmtVUTJHamt6LWVrLXdqYjJKU2dMWVJ3OXlDNjlqN2VZY0ZWdGFsckhsTHkzdkN3cHBGRkVNdVVZci0xSHpqak1ZNTJDR1pTVzJDQW1uSExFeDgxMU5OMHZhdDJfSUlqVUxsWFM5aDFPMFRq?oc=5)
-
-2026-06-11 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMk4xcWhqMTZ1T0lRZ1FTTkhVeFo2ZzRMV1pNTjZCc29yS1FDV3lzWXUyOVVJb29mMmtaVlk4Y09kbWk3eGZPWWZiN3ZZd3JHLU1rV3hoeEZFU1JKOFpubm9CbHJJc3JSbk5keE5kWkJFcnoyNGxvZzcyc29malBDaGQtTmJ3RjJ5Y0tobVRVM3FBWlNvMHU1VDZOaUZIVEZ4OWJIOUtVUE5TWGYxZVFMdzdVSUZpdjFDdHhYaFF6dlRJZGlJRmJIWjRpNkVvRzA3a1UtN0lIdWtaZ9IB9AFBVV95cUxPV25TaElOMzNtQVBoeFZMLUNDTXE1NW9WelJLRDdZVmlGdy1oZHhGZnFpeHU1NzN6b2NGRGp3U0F2RlliTlJaUjMwT1QyeVVOajVtZGRmU2luM1NlQ1Z0THltbnJpQjR2akk3amxOWkEtSXRaY1NmYnVfdnRFbk9qLXBIVGlfd056dmtVUTJHamt6LWVrLXdqYjJKU2dMWVJ3OXlDNjlqN2VZY0ZWdGFsckhsTHkzdkN3cHBGRkVNdVVZci0xSHpqak1ZNTJDR1pTVzJDQW1uSExFeDgxMU5OMHZhdDJfSUlqVUxsWFM5aDFPMFRq?oc=5)
-
----
-
 ### [Il 99% di infarti e ictus è collegato a 4 fattori di rischio: i risultati del maxi studio su JACC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
 
 2026-06-11 <span class="news-indication-tag">ictus</span>
@@ -94,19 +102,19 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
+### [Cancer colorectal : les chercheurs découvrent ce qui transforme un polype en cancer](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbmlqcmZUUTB5Y0dpZ1pwendfb29aZS1GTlBNRXJnb3cwVnJaWjJZaldlMU1IQ040RmpIMDhZWXFCMmFzRGhJRHBJWGNobEtOdUJxYjk3bmo3TXRQNkhqdTEyTzlwMFNKMnc?oc=5)
+
+2026-06-11 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbmlqcmZUUTB5Y0dpZ1pwendfb29aZS1GTlBNRXJnb3cwVnJaWjJZaldlMU1IQ040RmpIMDhZWXFCMmFzRGhJRHBJWGNobEtOdUJxYjk3bmo3TXRQNkhqdTEyTzlwMFNKMnc?oc=5)
+
+---
+
 ### [Marathonienne et végétarienne elle apprend à 44 ans quʼelle a fait un infarctus sans le savoir](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
 
 2026-06-11 <span class="news-indication-tag">hypertension</span>
 
 來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
-
----
-
-### [Día del Cáncer de Próstata: el tumor que más afecta a los hombres no da síntomas pero puede detectarse a tiempo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhqNXFYek9QdkhTYzRVSnNraXNnZUJfUnRYb2xjTDhxVVk1RW1seHBCNW1RcGprdWJZekR6bFlwLXJveDFwUWFfVmdOUUVVNjFjSmNoZktWdFNfS3l4R2NXbnRSckZnTURuMzA1eXFPQ1JNWkROeVFXaFpmQUJuSWFaU1FiZkpGZHFHeXhJRkRPNXg1eDhaYy1ndGJTazlfRUlZS25zeEliazJfamVRaGl3WE0yaXNMT2pEZUV3Y0lwa1NYR2puU0tpdnFGclk3RFZqUC12US1ZNmpCWnVmZTBBZklqcTjSAYICQVVfeXFMUFBWM0dfSURpcXktUnMwUlRfSkhmNGQ5YjJ0REJZZHVzblBlTTNlcG1SQmNORzVxMHFzZjJpZ0ZQZ2JIMnZNbzlSWEd4UTNNZ01vYXBfSmZWYUh1ZkRYWENLUWFWaTRXek8yNGUtM2pqOEkzNHNfYkFFVmlZajNuQ0VzWnFmb1BhMjZaR3J2VXY4NlNIVGQyV2tnV29hemgzSjM5YnNsYklzcXFUWnhhaXNrX0JlS1ZVM1R6a1doOHlfNGJmVUdMTlJBWXluRmo0Q1dtT2JGUzBLNTlJUHVBLTFPeWhmLVNYc2ItUDAybTBxTGRudlV0UGNiYmhJYm9RZkF3?oc=5)
 
 ---
 
@@ -166,14 +174,6 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Cancer colorectal : de la lésion précancéreuse, au cancer, on sait pourquoi certains développe une tumeur - Europe 1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTG9LaXRTdVZ1d2ZJdVRTVk02R1pyZzVpNW40TlFRTXlqV2hUVEw1WjdheWpUTGtzTDFSU1ZaSG03amRKbUtnaWFsQ1NaNUJLYzgybVJJaVljb3dRckpNYjAwbmRlVzlNSWtEdEVFaUJ3UkVaVV9YZ0IxbzVFVUc1cDdUSGRJNEY3SUZpdjVpYTJpWTVrOXlDRjRRcmhpdU8tWXJwQjhjd0NpS3lDeVBaY3BoVVozMFFLM3VNQ01aenJFc2xGRXhRaTV3dlpuUDdRTE5V0gHYAUFVX3lxTFB3N1VtTTI3N2FpQXJwZmYzekZhUHhHSzR2ZnByOHo2M0hnbDhDT2s2QnJXaDFzM0xvUDlSWFFQZ0xPWE1TZGhsYmR2bDlsR3BfTWxrRmRvejlyb1JYdk5HZUM5TVZ3MDQyekUtZVJkeWk0dlRUQUlTX1R2clB4bFlJTUxTWHlsS0xYWTZDRFhlMk5XTkRNczI3eDdSd0NKWUtxb2JUc19ndkNXM1lrWWpweUZROVY1RGduelBZLU9HaUxEZ3VZeXVQdXUwVkZOTU00RW5ta1ByUg?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTG9LaXRTdVZ1d2ZJdVRTVk02R1pyZzVpNW40TlFRTXlqV2hUVEw1WjdheWpUTGtzTDFSU1ZaSG03amRKbUtnaWFsQ1NaNUJLYzgybVJJaVljb3dRckpNYjAwbmRlVzlNSWtEdEVFaUJ3UkVaVV9YZ0IxbzVFVUc1cDdUSGRJNEY3SUZpdjVpYTJpWTVrOXlDRjRRcmhpdU8tWXJwQjhjd0NpS3lDeVBaY3BoVVozMFFLM3VNQ01aenJFc2xGRXhRaTV3dlpuUDdRTE5V0gHYAUFVX3lxTFB3N1VtTTI3N2FpQXJwZmYzekZhUHhHSzR2ZnByOHo2M0hnbDhDT2s2QnJXaDFzM0xvUDlSWFFQZ0xPWE1TZGhsYmR2bDlsR3BfTWxrRmRvejlyb1JYdk5HZUM5TVZ3MDQyekUtZVJkeWk0dlRUQUlTX1R2clB4bFlJTUxTWHlsS0xYWTZDRFhlMk5XTkRNczI3eDdSd0NKWUtxb2JUc19ndkNXM1lrWWpweUZROVY1RGduelBZLU9HaUxEZ3VZeXVQdXUwVkZOTU00RW5ta1ByUg?oc=5)
-
----
-
 ### [Tumore alla prostata: la rivoluzione di cure e diagnosi, cruciale controllarsi dai 50 anni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJHNjVHNGhrLXRyTVlMekhaTlU0bTVPVHp4LThub0FsZWo0MThRMWJocmZ4T0NhTms3Z2NndXlRSU5PampMN2JWeUNnVV9QdzlmUEpVTjBqTnZEc3hhTFNqQmdNQW8zN1NkajI5Z1JabnQySVVFTHNZMnRqVTR2U1lpR1lJMG1RMDh3RU5UdEVDLW1XVjRyQjRZM0xFQkk2SjhrWDBhOFpHbDdsM1dlXzlKclM?oc=5)
 
 2026-06-10 <span class="news-indication-tag">tumor</span>
@@ -230,6 +230,14 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
+### ['Cutting-edge' prostate cancer treatment to be rolled out by NHS from next week - Sky News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQalJ5bkFvVHNXZXlabjd1VlRjekNBakg0UDgwa3pHd1VUNGh4aVhkRE9jcVYxY0stdTI5S2FwSVBFdmtjUTZTNkRqa3pqclV3MWRhU19aalFkZWJrQ0RTX1pXNmhPbU83OEdOdHVobnQ0NFJQSDNTTUZzV2NNOFI2dzRxUkMzYUhZaExaX1M3TGlLbEQyRTVLVGZqWklublhZWldvbENJaHZKYXRkUFgtbWJhZw?oc=5)
+
+2026-06-10 <span class="news-indication-tag">cancer</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQalJ5bkFvVHNXZXlabjd1VlRjekNBakg0UDgwa3pHd1VUNGh4aVhkRE9jcVYxY0stdTI5S2FwSVBFdmtjUTZTNkRqa3pqclV3MWRhU19aalFkZWJrQ0RTX1pXNmhPbU83OEdOdHVobnQ0NFJQSDNTTUZzV2NNOFI2dzRxUkMzYUhZaExaX1M3TGlLbEQyRTVLVGZqWklublhZWldvbENJaHZKYXRkUFgtbWJhZw?oc=5)
+
+---
+
 ### [Doppelt hält besser: DAPT nach Schlaganfall - mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
 
 2026-06-10 <span class="news-indication-tag">Schlaganfall</span>
@@ -259,14 +267,6 @@ permalink: /news/azilsartan-medoxomil/
 2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
----
-
-### [Prostate beam therapy spares patients daily hospital trips - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWVGQVhoWjg0SVd0eW8xRnp5MndhZzBQLWwtODlqWVZZX1JaS1BsaGMtOFpFdXJjRml5Wm1qbVVRR1FtSU93aGVkc1dyd29CNWVaMlBLMXJzR3RGSEJIaF8zVlFfa09xUUp6Q3hRbkY2bklFNk9wMVB0QmZySjhKOUhNZGc3TUx6aHdTc0ZjS2lrZDF0RGVDaTNCRHQ0Z0E0Y1NTWWdn?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWVGQVhoWjg0SVd0eW8xRnp5MndhZzBQLWwtODlqWVZZX1JaS1BsaGMtOFpFdXJjRml5Wm1qbVVRR1FtSU93aGVkc1dyd29CNWVaMlBLMXJzR3RGSEJIaF8zVlFfa09xUUp6Q3hRbkY2bklFNk9wMVB0QmZySjhKOUhNZGc3TUx6aHdTc0ZjS2lrZDF0RGVDaTNCRHQ0Z0E0Y1NTWWdn?oc=5)
 
 ---
 

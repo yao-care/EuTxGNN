@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [El ejercicio que los cardiólogos recomiendan para bajar la presión arterial sin medicamentos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMk4xcWhqMTZ1T0lRZ1FTTkhVeFo2ZzRMV1pNTjZCc29yS1FDV3lzWXUyOVVJb29mMmtaVlk4Y09kbWk3eGZPWWZiN3ZZd3JHLU1rV3hoeEZFU1JKOFpubm9CbHJJc3JSbk5keE5kWkJFcnoyNGxvZzcyc29malBDaGQtTmJ3RjJ5Y0tobVRVM3FBWlNvMHU1VDZOaUZIVEZ4OWJIOUtVUE5TWGYxZVFMdzdVSUZpdjFDdHhYaFF6dlRJZGlJRmJIWjRpNkVvRzA3a1UtN0lIdWtaZ9IB9AFBVV95cUxPV25TaElOMzNtQVBoeFZMLUNDTXE1NW9WelJLRDdZVmlGdy1oZHhGZnFpeHU1NzN6b2NGRGp3U0F2RlliTlJaUjMwT1QyeVVOajVtZGRmU2luM1NlQ1Z0THltbnJpQjR2akk3amxOWkEtSXRaY1NmYnVfdnRFbk9qLXBIVGlfd056dmtVUTJHamt6LWVrLXdqYjJKU2dMWVJ3OXlDNjlqN2VZY0ZWdGFsckhsTHkzdkN3cHBGRkVNdVVZci0xSHpqak1ZNTJDR1pTVzJDQW1uSExFeDgxMU5OMHZhdDJfSUlqVUxsWFM5aDFPMFRq?oc=5)
-
-2026-06-11 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMk4xcWhqMTZ1T0lRZ1FTTkhVeFo2ZzRMV1pNTjZCc29yS1FDV3lzWXUyOVVJb29mMmtaVlk4Y09kbWk3eGZPWWZiN3ZZd3JHLU1rV3hoeEZFU1JKOFpubm9CbHJJc3JSbk5keE5kWkJFcnoyNGxvZzcyc29malBDaGQtTmJ3RjJ5Y0tobVRVM3FBWlNvMHU1VDZOaUZIVEZ4OWJIOUtVUE5TWGYxZVFMdzdVSUZpdjFDdHhYaFF6dlRJZGlJRmJIWjRpNkVvRzA3a1UtN0lIdWtaZ9IB9AFBVV95cUxPV25TaElOMzNtQVBoeFZMLUNDTXE1NW9WelJLRDdZVmlGdy1oZHhGZnFpeHU1NzN6b2NGRGp3U0F2RlliTlJaUjMwT1QyeVVOajVtZGRmU2luM1NlQ1Z0THltbnJpQjR2akk3amxOWkEtSXRaY1NmYnVfdnRFbk9qLXBIVGlfd056dmtVUTJHamt6LWVrLXdqYjJKU2dMWVJ3OXlDNjlqN2VZY0ZWdGFsckhsTHkzdkN3cHBGRkVNdVVZci0xSHpqak1ZNTJDR1pTVzJDQW1uSExFeDgxMU5OMHZhdDJfSUlqVUxsWFM5aDFPMFRq?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Marathonienne et végétarienne elle apprend à 44 ans quʼelle a fait un infarctus sans le savoir](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
 

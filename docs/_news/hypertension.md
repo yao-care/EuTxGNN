@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [El ejercicio que los cardiólogos recomiendan para bajar la presión arterial sin medicamentos](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMk4xcWhqMTZ1T0lRZ1FTTkhVeFo2ZzRMV1pNTjZCc29yS1FDV3lzWXUyOVVJb29mMmtaVlk4Y09kbWk3eGZPWWZiN3ZZd3JHLU1rV3hoeEZFU1JKOFpubm9CbHJJc3JSbk5keE5kWkJFcnoyNGxvZzcyc29malBDaGQtTmJ3RjJ5Y0tobVRVM3FBWlNvMHU1VDZOaUZIVEZ4OWJIOUtVUE5TWGYxZVFMdzdVSUZpdjFDdHhYaFF6dlRJZGlJRmJIWjRpNkVvRzA3a1UtN0lIdWtaZ9IB9AFBVV95cUxPV25TaElOMzNtQVBoeFZMLUNDTXE1NW9WelJLRDdZVmlGdy1oZHhGZnFpeHU1NzN6b2NGRGp3U0F2RlliTlJaUjMwT1QyeVVOajVtZGRmU2luM1NlQ1Z0THltbnJpQjR2akk3amxOWkEtSXRaY1NmYnVfdnRFbk9qLXBIVGlfd056dmtVUTJHamt6LWVrLXdqYjJKU2dMWVJ3OXlDNjlqN2VZY0ZWdGFsckhsTHkzdkN3cHBGRkVNdVVZci0xSHpqak1ZNTJDR1pTVzJDQW1uSExFeDgxMU5OMHZhdDJfSUlqVUxsWFM5aDFPMFRq?oc=5)
-
-2026-06-11
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMk4xcWhqMTZ1T0lRZ1FTTkhVeFo2ZzRMV1pNTjZCc29yS1FDV3lzWXUyOVVJb29mMmtaVlk4Y09kbWk3eGZPWWZiN3ZZd3JHLU1rV3hoeEZFU1JKOFpubm9CbHJJc3JSbk5keE5kWkJFcnoyNGxvZzcyc29malBDaGQtTmJ3RjJ5Y0tobVRVM3FBWlNvMHU1VDZOaUZIVEZ4OWJIOUtVUE5TWGYxZVFMdzdVSUZpdjFDdHhYaFF6dlRJZGlJRmJIWjRpNkVvRzA3a1UtN0lIdWtaZ9IB9AFBVV95cUxPV25TaElOMzNtQVBoeFZMLUNDTXE1NW9WelJLRDdZVmlGdy1oZHhGZnFpeHU1NzN6b2NGRGp3U0F2RlliTlJaUjMwT1QyeVVOajVtZGRmU2luM1NlQ1Z0THltbnJpQjR2akk3amxOWkEtSXRaY1NmYnVfdnRFbk9qLXBIVGlfd056dmtVUTJHamt6LWVrLXdqYjJKU2dMWVJ3OXlDNjlqN2VZY0ZWdGFsckhsTHkzdkN3cHBGRkVNdVVZci0xSHpqak1ZNTJDR1pTVzJDQW1uSExFeDgxMU5OMHZhdDJfSUlqVUxsWFM5aDFPMFRq?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Marathonienne et végétarienne elle apprend à 44 ans quʼelle a fait un infarctus sans le savoir](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
 

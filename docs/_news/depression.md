@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。6 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>6 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Trente minutes de vélo par jour abaisseraient de 35 % le risque de dépression selon les chercheurs](https://news.google.com/rss/articles/CBMixgFBVV95cUxPemFIN2ExSFdpbUszbTh6dWt4MExQaU55cGJYU3YwOEZvWko3bXJLQXphcTJ4alc4VFJYTTRLcjRFRDN1cVZWSzg2TFNBWXQxckFBeENaTDVYazlyN29jQTdseDNlX0pCdGl0RkxQc1JDZHI0ME1EODc5Rjg2SGpNbl9raFdaZ0JLbmMzd2N6UXkwemxJajJjUURvUHVSTU9iMVI3b0FHM2VTLUp1eGVSb01jM2FmZzQ0YVdiWS16Unl5TWlMcWc?oc=5)
+### [Regarder du sport rend moins déprimé — une étude sur 7 000 personnes vient d'en identifier le mécanisme neurologique](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUp0cWVWdndRejRRT3FiWktHcW1Nb3FVckJra2xIdndySmh1WHhueXBrelNNYVhnd0Y4cjVleWtDZmUxcUZCdDVGTUROYWY2aEd4Q2RVLXFzWWw2LW04bWtVUDU1Y3FtMW1rSGdrY2oyYzhhQ09lN2lIYTlkZzAtNFdEVlUweUFqTzhmNzdwdU52UUFBN3J3bU83ck9RZHhqZWpDbG5PME1ualBKT2JadnA2N2RCcDlobkV2QTdoUXhNT1B0b2hxZk9kWndsYjk0LVNB?oc=5)
 
 2026-06-11
 
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixgFBVV95cUxPemFIN2ExSFdpbUszbTh6dWt4MExQaU55cGJYU3YwOEZvWko3bXJLQXphcTJ4alc4VFJYTTRLcjRFRDN1cVZWSzg2TFNBWXQxckFBeENaTDVYazlyN29jQTdseDNlX0pCdGl0RkxQc1JDZHI0ME1EODc5Rjg2SGpNbl9raFdaZ0JLbmMzd2N6UXkwemxJajJjUURvUHVSTU9iMVI3b0FHM2VTLUp1eGVSb01jM2FmZzQ0YVdiWS16Unl5TWlMcWc?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUp0cWVWdndRejRRT3FiWktHcW1Nb3FVckJra2xIdndySmh1WHhueXBrelNNYVhnd0Y4cjVleWtDZmUxcUZCdDVGTUROYWY2aEd4Q2RVLXFzWWw2LW04bWtVUDU1Y3FtMW1rSGdrY2oyYzhhQ09lN2lIYTlkZzAtNFdEVlUweUFqTzhmNzdwdU52UUFBN3J3bU83ck9RZHhqZWpDbG5PME1ualBKT2JadnA2N2RCcDlobkV2QTdoUXhNT1B0b2hxZk9kWndsYjk0LVNB?oc=5)
 
 ---
 
@@ -53,6 +53,14 @@ permalink: /news/depression/
 
 ---
 
+### [Kaffee: Zwei bis drei Tassen senken Depressions-Risiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5EbGJXb1pBUEVXWG9EWDQtaUMtbXpMcDlnM1FiY0tZaDdaaTRqTHBkT2QyMGR0S2psZnduTnZyYXltbVJ3enRWalhzYnJpdFVZeGxoWEZ0X3RlR1Zsb3F0YVhrYTNQQ2VNZ3J0T2dkOHEwakMyRjMwVlpaamRVdWRWUHpRQzI2QVNMZWNxS0VHczNGXzZYNENIOGdUTzAzRGZ0aGZ0dWtrUTZWblk5Vw?oc=5)
+
+2026-06-11
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5EbGJXb1pBUEVXWG9EWDQtaUMtbXpMcDlnM1FiY0tZaDdaaTRqTHBkT2QyMGR0S2psZnduTnZyYXltbVJ3enRWalhzYnJpdFVZeGxoWEZ0X3RlR1Zsb3F0YVhrYTNQQ2VNZ3J0T2dkOHEwakMyRjMwVlpaamRVdWRWUHpRQzI2QVNMZWNxS0VHczNGXzZYNENIOGdUTzAzRGZ0aGZ0dWtrUTZWblk5Vw?oc=5)
+
+---
+
 ### [Depression: Rheuma-Medikament zeigt überraschende Wirkung in Studie](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZrTWpQcXBqTU43dFRURnhzWFpXOFJKa3o1dDBzSEVDNG1GYW1fWExIdTJmX0M3WjhvSlF6ZGVvSHl3c3pKWnhXemROaGlIVVA5b2s4eWEwVFFVRGZTQUpqTFZSQnlkR0M5Z0VBUnV2OHRRSXdUYVRpY1Z6RFJfblc0SzZDUmY5VlMxNHduZkVGQ0RxdzFXUkpPNDJLMG90NnZSdHpn?oc=5)
 
 2026-06-11
@@ -61,27 +69,11 @@ permalink: /news/depression/
 
 ---
 
-### [Überblick zu GLP-1-Rezeptoragonisten: Große Chancen – und etliche Risiken](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
-
-2026-06-11
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
-
----
-
 ### [GLP-1 Drugs Reduce Depression, Boost Stress-Calming Gut Bacteria - Neuroscience News](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdjQ0Uk5DcDZvb0wtNVFQaklyTllHdU5XaVlaSlhrQzh3Y25pLVJHTnBwMUphLW04bDJIblRWbk43SHhhQUZRV01wME9NOFdUSlJRZkd1eWFyZzBjOTRBN0piUjJyOEtsQmQ1V21ZWFk?oc=5)
 
 2026-06-10
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdjQ0Uk5DcDZvb0wtNVFQaklyTllHdU5XaVlaSlhrQzh3Y25pLVJHTnBwMUphLW04bDJIblRWbk43SHhhQUZRV01wME9NOFdUSlJRZkd1eWFyZzBjOTRBN0piUjJyOEtsQmQ1V21ZWFk?oc=5)
-
----
-
-### [Kaffee gegen Alterung – Wissenschaftler finden überraschenden Wirkstoff - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
-
-2026-06-10
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUZBbXFIaFduYnpOU191TEZ3TDF2SWVqRjVMb1VYTWVqMlU5dXFXc1NyeG1ya3ZjLXFUbmd2U254b0FRNEp6a3NJUUhoU2RFZGNtY3g1alNiQ2RqTjdFZlVPaGxhTGxBVXNMcWczRUttRWR6NzhTbkVOemVHaVc5cnhQclVFSGpNVzhRUjZOMG9SR1pHSFNYcjQxWDdJTUc0NmwzNllaenVNd2R4S0ltVXlxOTVHNnM?oc=5)
 
 ---
 

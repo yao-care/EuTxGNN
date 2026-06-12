@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
 
 ### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 2026-06-11 <span class="news-indication-tag">asthme</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
-
----
-
-### [“Las personas con diabetes tipo 2, cuando utilizan sensores en líquido intersticial con insulina basal, mejoran su control glucémico global y pueden reducir significativamente las complicaciones agudas”](https://news.google.com/rss/articles/CBMivwJBVV95cUxNZU1uUWt5RVpvRmZqTWQ0R1JRSGN3VFVnY0xaSlVNeVJWLXBpcFJ5TkY5S2cyclkxaHJaWTNYLUFTa3hrOUYwT2VUbGVBdzk0b0RRWUVlRnd5WEUzcnc5ZmZNMEx3VDB4ZkMxTEw2cWg4dXVOZGNrMzkzLVpDVFk3MlF2ak5RMGh5Z0puUklyWmRKcDZLaWFWVWFaVU00T1ZpOVRrcDB0VjRFRG9mWldNUUN3NkdfXzZyb3ltRGZuQlVkNGVVdHdkWHpFN1BqdllyX0Nqd1MzS1g3d1F6N1VzVXE0empiY3IxdWF3bVNpeV9pR1BlSWpZLS13OFRGQmV3SzR3bVplNnlCVnF1RUU1T2V5T1JVZC1WRjN2b2ZPb2dWR2JSeDc1NGo4NzNETVhSUzVxWU5oUlN3MTVRN21F?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivwJBVV95cUxNZU1uUWt5RVpvRmZqTWQ0R1JRSGN3VFVnY0xaSlVNeVJWLXBpcFJ5TkY5S2cyclkxaHJaWTNYLUFTa3hrOUYwT2VUbGVBdzk0b0RRWUVlRnd5WEUzcnc5ZmZNMEx3VDB4ZkMxTEw2cWg4dXVOZGNrMzkzLVpDVFk3MlF2ak5RMGh5Z0puUklyWmRKcDZLaWFWVWFaVU00T1ZpOVRrcDB0VjRFRG9mWldNUUN3NkdfXzZyb3ltRGZuQlVkNGVVdHdkWHpFN1BqdllyX0Nqd1MzS1g3d1F6N1VzVXE0empiY3IxdWF3bVNpeV9pR1BlSWpZLS13OFRGQmV3SzR3bVplNnlCVnF1RUU1T2V5T1JVZC1WRjN2b2ZPb2dWR2JSeDc1NGo4NzNETVhSUzVxWU5oUlN3MTVRN21F?oc=5)
 
 ---
 
@@ -86,14 +78,6 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Überblick zu GLP-1-Rezeptoragonisten: Große Chancen – und etliche Risiken](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
-
-2026-06-11 <span class="news-drug-tag">Glucagon</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEVQMFE1ZkJrWUFOWEZkeEQxU2FzZ0Y0bk9OLUpEcmJ4cVNxQS1uNlQ5V1F3cTVvN01hVmV3VV9jR1Q5SXRudVJ4MDExbmVLd0dVRTJBRHBYUHA0eWRZWDVINm9qcGU4cG9TNnpUMVVLNVAteXlFN0tia2g1MzVvbnVTMW9naFhHRXFsM3BhVXpxTnZtSHc1clVib1NzZWlWZjRJZ1Z4M0J3eEFzZThXai0yYw?oc=5)
-
----
-
 ### [Blutdruck-Medikamente: Kalziumkanalblocker erhöhen Nierenschaden-Risiko um 33% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
 
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
@@ -104,17 +88,9 @@ permalink: /news/somapacitan/
 
 ### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
 
-2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
-
----
-
-### [Come cureremo diabete e obesità nei prossimi anni? Ecco il futuro delle terapie - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenB6NTdmTzRMWFBLQ3o1MG0yck80UnhPSkVSR0JEcjlqZkVyRjRVaVBkMXhFSFh0T2t4ZjZVdEZQN3UtUlgzbE1ocFNJemd4NVVpWEszZWJSSWJhNmxmajgxOWk1cFFET1lLVGtMYm83eGtuc1prcEU1b0tOVjJsUmxwZkdnb29wS2VrTktFUjYxdHdHM0llNnFqTkFzQUZ3YVBiYXBXVHhvQQ?oc=5)
 
 ---
 
