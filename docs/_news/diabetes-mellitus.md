@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
 ### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
 
@@ -169,22 +169,6 @@ permalink: /news/diabetes-mellitus/
 2026-06-11
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
-
----
-
-### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
-
-2026-06-10
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
-
----
-
-### [Forschende des Deutschen Diabetes-Zentrums warnen vor gesundheitlichen Fehlinformationen in Sozialen Medien - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
-
-2026-06-10
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
 
 ---
 

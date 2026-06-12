@@ -54,11 +54,11 @@ permalink: /news/lamivudine/
 
 ## 相關新聞（1 則）
 
-### [Hepatitis B: 20 Prozent funktionelle Heilung in Phase-3-Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
+### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
-2026-06-12 <span class="news-indication-tag">hepatitis</span>
+2026-06-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
 ---
 

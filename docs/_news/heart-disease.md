@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "cardiovascular disease（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiovascular disease（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# cardiovascular disease（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiovascular disease（heart disease） 有什麼相關新聞？">
+<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiovascular disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,13 +85,21 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [The largest genetic study of anxiety symptom severity to date has found the condition is not only heritable but shows significant genetic overlap with heart disease, gut disorders, and migraine, in findings researchers describe as an important step forward in un - Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
+### [4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2M1WVdQdVFWOENHdHFqaWd6OUZmbU1LZlpiRUl6Z1VzR0VaNmJjejVVTVFjaWpWZDNzWnlyLVgyWFdfZmFjd1dTMUc5R0tkTlVFTnVNS3BBSldneHFaTDQ3NmU5a1JBek5MUVlNdmp5cTFEX0h0bjJSNHpwTjcxb1d4NDlmeC1Z?oc=5)
 
-2026-06-10
+2026-06-12
 
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2M1WVdQdVFWOENHdHFqaWd6OUZmbU1LZlpiRUl6Z1VzR0VaNmJjejVVTVFjaWpWZDNzWnlyLVgyWFdfZmFjd1dTMUc5R0tkTlVFTnVNS3BBSldneHFaTDQ3NmU5a1JBek5MUVlNdmp5cTFEX0h0bjJSNHpwTjcxb1d4NDlmeC1Z?oc=5)
+
+---
+
+### [The people of Okinawa, Japan only eat until they are about 80 percent full, then stop — and the practice has been linked in multiple peer-reviewed studies to lower rates of cardiovascular disease, slower biological aging, and a measurable extension of healthy - Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxNVkRJTVREbTVSbHJhcHJIYW1pUmFESVVoclZsS0xSUm9DWUNyZ3NnMGFzM0JubEI1UlBDZUd6MmhpdTVvWTNDc00tbFNzUmFxUm9JRlg3Ulp1Q3pMM3B1clRyVFJyeVVxSGp6Tmd4ai1JS2k3Zkx6RzA1RFVzbUx3R18tb0ZYbUk2SkdHc0Rqb1pKQ2UxN1BXVlp3X0h3VUxZN0J3c1lpOUU1OExhNlo5YzIzclNOWWVBbTA2TEczWi00eFF5WlhxWkM0S0ZWdVowa3dKNk11SkxBcW9BeUJ2ZjFsVFFGbThHOWxEeEI3TFl6bWhGRnRnclAtQmFwWEFHN1pveERGNkgta29fdmhIekI0dzFFdGdTTEpUTnJReFBrVVdVVFhNRGJMSzN3YVRCdkkwOXZhOVpzUQ?oc=5)
+
+2026-06-12
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxNVkRJTVREbTVSbHJhcHJIYW1pUmFESVVoclZsS0xSUm9DWUNyZ3NnMGFzM0JubEI1UlBDZUd6MmhpdTVvWTNDc00tbFNzUmFxUm9JRlg3Ulp1Q3pMM3B1clRyVFJyeVVxSGp6Tmd4ai1JS2k3Zkx6RzA1RFVzbUx3R18tb0ZYbUk2SkdHc0Rqb1pKQ2UxN1BXVlp3X0h3VUxZN0J3c1lpOUU1OExhNlo5YzIzclNOWWVBbTA2TEczWi00eFF5WlhxWkM0S0ZWdVowa3dKNk11SkxBcW9BeUJ2ZjFsVFFGbThHOWxEeEI3TFl6bWhGRnRnclAtQmFwWEFHN1pveERGNkgta29fdmhIekI0dzFFdGdTTEpUTnJReFBrVVdVVFhNRGJMSzN3YVRCdkkwOXZhOVpzUQ?oc=5)
 
 ---
 

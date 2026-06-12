@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Obésité : les conditions de prescription de Wegovy et Mounjaro revues avant leur remboursement - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+
+---
 
 ### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
 
@@ -70,19 +78,35 @@ permalink: /news/melatonin/
 
 ---
 
-### [The largest genetic study of anxiety symptom severity to date has found the condition is not only heritable but shows significant genetic overlap with heart disease, gut disorders, and migraine, in findings researchers describe as an important step forward in un - Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
+### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
 
-2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
 
 ---
 
-### [5 hábitos saludables para salvar a tu cuerpo del hígado graso](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1h4VnlXbUtScXprU1R2RkhxV2dtMTllWUR4QmNXLVM1T0dGa0wtcHhtanV0WXQ1dG5FbDRDMWNDclFDWGdIeTBrVFhoWjkzVklPOG4xM0YtNTZhRkE0TFdSX08yWGhJQm5SS0g2aGFzVHVzbGR2blZKc1BSbXBUeVJSTlFQQnRwR0tvUTluYnFMSXNZak9zdE1KSjdqejEyQ0VjZFdKd9IBwgFBVV95cUxQa3JGeWNSelpTQ0tJdGJrTkp2MXp4bDRLVHBVNnVrb1lQWW4wdHRSVXlldU00R0lUdUpPVnRTR3B4a2c2SUtmOFJJN3JQREVwb3pyS0pBYU1UQ2VTVnQzajZncG9OZFd1X2pDVkdVelFZdFBOdG13ai1UVUNoRkdEWFo3cDd6Y3d3ZmFzY044SDZlbTI4N2loVjU1bURyd0ZEaHMxbDFrYnJSTGZrWGdjbVpLenpRNVJPRUJ2dFRhcE00Zw?oc=5)
+### [Surpoids des enfants : les leçons de l’expérience positive du Chili, entre pictogrammes dissuasifs et marketing interdit - Le Monde.fr](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSVBSaUU0b3NtZWVGMXQ5NXJTV2dqeWJ1RHBZdVEwbl9yUThlaF83ZzlfaDhiM01ZYjJmVUYtTGJ5ZmsyMHFHdUZqa3lpb2pYTGpVY0g0YVMxQk9TUmNtUC0wOVVOZUNBbDh1c3RmMzFZeVJGSVFfdjdaa0Rrb3JKYzJQOVlTdDBCNjJvQXV4MFd1STZkZER0VWhSeGN0Wm8yNnlMa3Rpd1puY2NvbWNkZ25jb0xmZTE1U0xVTzNmWVo2TFB3NEJvTmhHWVdGbWp2bFlud1MxQ0ZSTmFVZThxUGVqeDlpSVBkT2RYNUxSNHlBd0xobHlJOHVkVUFSclN5TlpfVVVjUzVZYXduczhJ?oc=5)
 
-2026-06-10 <span class="news-indication-tag">obesidad</span>
+2026-06-12 <span class="news-indication-tag">obésité</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1h4VnlXbUtScXprU1R2RkhxV2dtMTllWUR4QmNXLVM1T0dGa0wtcHhtanV0WXQ1dG5FbDRDMWNDclFDWGdIeTBrVFhoWjkzVklPOG4xM0YtNTZhRkE0TFdSX08yWGhJQm5SS0g2aGFzVHVzbGR2blZKc1BSbXBUeVJSTlFQQnRwR0tvUTluYnFMSXNZak9zdE1KSjdqejEyQ0VjZFdKd9IBwgFBVV95cUxQa3JGeWNSelpTQ0tJdGJrTkp2MXp4bDRLVHBVNnVrb1lQWW4wdHRSVXlldU00R0lUdUpPVnRTR3B4a2c2SUtmOFJJN3JQREVwb3pyS0pBYU1UQ2VTVnQzajZncG9OZFd1X2pDVkdVelFZdFBOdG13ai1UVUNoRkdEWFo3cDd6Y3d3ZmFzY044SDZlbTI4N2loVjU1bURyd0ZEaHMxbDFrYnJSTGZrWGdjbVpLenpRNVJPRUJ2dFRhcE00Zw?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSVBSaUU0b3NtZWVGMXQ5NXJTV2dqeWJ1RHBZdVEwbl9yUThlaF83ZzlfaDhiM01ZYjJmVUYtTGJ5ZmsyMHFHdUZqa3lpb2pYTGpVY0g0YVMxQk9TUmNtUC0wOVVOZUNBbDh1c3RmMzFZeVJGSVFfdjdaa0Rrb3JKYzJQOVlTdDBCNjJvQXV4MFd1STZkZER0VWhSeGN0Wm8yNnlMa3Rpd1puY2NvbWNkZ25jb0xmZTE1U0xVTzNmWVo2TFB3NEJvTmhHWVdGbWp2bFlud1MxQ0ZSTmFVZThxUGVqeDlpSVBkT2RYNUxSNHlBd0xobHlJOHVkVUFSclN5TlpfVVVjUzVZYXduczhJ?oc=5)
+
+---
+
+### [El hígado graso puede avanzar sin síntomas: éstas son las siete recomendaciones clave de los expertos](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW9VWTNheC1lQ2JEUUNRaGUySGpGd3JhZUpOUVVNVVZXZ2NEVHFZZGEzaWVRQWlWMUNPSTFWMldYNEgtckNmSjdlM0oybVIxcWFQdWY4RVh3alRiRHFhSnF1aFd3cmtZdHJEc1h6R1NHVDR1TU9VQkRzYWpMSG9ocWYxQnp6XzlhMVlGNUhHTHU5SmRwa1IxUGNabjMzd3hVMEgybGVmTUJoNDhSN2MyeDJmWHo1WDR0U2JZWWpaSdIBxAFBVV95cUxOT3BfREpTaGpFNkJ1Q3g4WEdFVVZoU3hwRXR5Y1cyaUd5VlM1R2UxLUZ6YUZEaXJVa0ZGWUNZM2Q2dWhXdlNMeVhSZGpJaURIZTRza3daN1JHTlFLa1BjbUZ2X2NscG5vRmZIRm16cFlnSTF5eHZpdzJJT054ZGRZcWMya0lFT1Z3ZTlPMGdydWxGMmNERzlCckRhUnlNT3I3MGZORDYyd05DRVpGNFplV0x3SXlsaGgzb0hyTi0tSnczOTJh?oc=5)
+
+2026-06-11 <span class="news-indication-tag">obesidad</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW9VWTNheC1lQ2JEUUNRaGUySGpGd3JhZUpOUVVNVVZXZ2NEVHFZZGEzaWVRQWlWMUNPSTFWMldYNEgtckNmSjdlM0oybVIxcWFQdWY4RVh3alRiRHFhSnF1aFd3cmtZdHJEc1h6R1NHVDR1TU9VQkRzYWpMSG9ocWYxQnp6XzlhMVlGNUhHTHU5SmRwa1IxUGNabjMzd3hVMEgybGVmTUJoNDhSN2MyeDJmWHo1WDR0U2JZWWpaSdIBxAFBVV95cUxOT3BfREpTaGpFNkJ1Q3g4WEdFVVZoU3hwRXR5Y1cyaUd5VlM1R2UxLUZ6YUZEaXJVa0ZGWUNZM2Q2dWhXdlNMeVhSZGpJaURIZTRza3daN1JHTlFLa1BjbUZ2X2NscG5vRmZIRm16cFlnSTF5eHZpdzJJT054ZGRZcWMya0lFT1Z3ZTlPMGdydWxGMmNERzlCckRhUnlNT3I3MGZORDYyd05DRVpGNFplV0x3SXlsaGgzb0hyTi0tSnczOTJh?oc=5)
+
+---
+
+### [Metabolisch unauffällige Adipositas wohl nicht gutartig](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
+
+2026-06-11 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
 
 ---
 

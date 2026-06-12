@@ -54,6 +54,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（9 則）
 
+### [Obésité : les conditions de prescription de Wegovy et Mounjaro revues avant leur remboursement - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+
+---
+
 ### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
 
 2026-06-12 <span class="news-indication-tag">diabetes</span>
@@ -67,6 +75,14 @@ permalink: /news/semaglutide/
 2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+---
+
+### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
 
 ---
 
@@ -107,22 +123,6 @@ permalink: /news/semaglutide/
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
-
----
-
-### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
-
-2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
-
----
-
-### [Forschende des Deutschen Diabetes-Zentrums warnen vor gesundheitlichen Fehlinformationen in Sozialen Medien - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
 
 ---
 

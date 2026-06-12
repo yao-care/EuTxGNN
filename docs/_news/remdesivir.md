@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [The largest genetic study of anxiety symptom severity to date has found the condition is not only heritable but shows significant genetic overlap with heart disease, gut disorders, and migraine, in findings researchers describe as an important step forward in un - Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
+### [Gilead moviliza una donación de remdesivir de apoyo a la respuesta al ébola - Redacción Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUks0OWFUMW5nYkZCVEpQUDBEVm9SYk1ZUDNKTTgtd2xOeEk4eGItSngyYko0dTBOdUJ0Y2xjLVFBQnVwYnhKM1BDNnpUbWpXSUY1QzQyMEE1MkpzQ0gyTVpFNkRPQmhzRjNHZV9LOXcxWjRvMmNJekJFTFR6Z2dFenJxR2NoVG5FNUtfdDVXdlFXakkwcGc5RnR2U3FaWWhfZW1iNF9UNzdFRDNiZGQtOWRuSnhtXzI5cXE3MlJoVXh3QdIBwgFBVV95cUxPa1hES2hNMS1sZzBUemF6QjB4UzNjMHFHZEN1eWZFSV80S3NVTEY2azRkVXZRS2dzd0pGaS1QNWN6N21RaU9xaDdiMDBZUm5nTFlPMXZfODlETUtrUUxuYjZnSEhkNkswSXRzS1Yta00taWFNWHlKaXRmRzlNWno1MlBMZnZtMThRZlJOemE4bVFIb0UzaUl5Si1ZSUlHS0tqRk9DYWs5SXVoUWlWZDRCZ3NPZ3I4OG5obzZnYlpneTQzUQ?oc=5)
 
-2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+2026-06-12 <span class="news-drug-tag">Remdesivir</span>
 
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUks0OWFUMW5nYkZCVEpQUDBEVm9SYk1ZUDNKTTgtd2xOeEk4eGItSngyYko0dTBOdUJ0Y2xjLVFBQnVwYnhKM1BDNnpUbWpXSUY1QzQyMEE1MkpzQ0gyTVpFNkRPQmhzRjNHZV9LOXcxWjRvMmNJekJFTFR6Z2dFenJxR2NoVG5FNUtfdDVXdlFXakkwcGc5RnR2U3FaWWhfZW1iNF9UNzdFRDNiZGQtOWRuSnhtXzI5cXE3MlJoVXh3QdIBwgFBVV95cUxPa1hES2hNMS1sZzBUemF6QjB4UzNjMHFHZEN1eWZFSV80S3NVTEY2azRkVXZRS2dzd0pGaS1QNWN6N21RaU9xaDdiMDBZUm5nTFlPMXZfODlETUtrUUxuYjZnSEhkNkswSXRzS1Yta00taWFNWHlKaXRmRzlNWno1MlBMZnZtMThRZlJOemE4bVFIb0UzaUl5Si1ZSUlHS0tqRk9DYWs5SXVoUWlWZDRCZ3NPZ3I4OG5obzZnYlpneTQzUQ?oc=5)
+
+---
+
+### [4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2M1WVdQdVFWOENHdHFqaWd6OUZmbU1LZlpiRUl6Z1VzR0VaNmJjejVVTVFjaWpWZDNzWnlyLVgyWFdfZmFjd1dTMUc5R0tkTlVFTnVNS3BBSldneHFaTDQ3NmU5a1JBek5MUVlNdmp5cTFEX0h0bjJSNHpwTjcxb1d4NDlmeC1Z?oc=5)
+
+2026-06-12 <span class="news-indication-tag">heart disease</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2M1WVdQdVFWOENHdHFqaWd6OUZmbU1LZlpiRUl6Z1VzR0VaNmJjejVVTVFjaWpWZDNzWnlyLVgyWFdfZmFjd1dTMUc5R0tkTlVFTnVNS3BBSldneHFaTDQ3NmU5a1JBek5MUVlNdmp5cTFEX0h0bjJSNHpwTjcxb1d4NDlmeC1Z?oc=5)
+
+---
+
+### [The people of Okinawa, Japan only eat until they are about 80 percent full, then stop — and the practice has been linked in multiple peer-reviewed studies to lower rates of cardiovascular disease, slower biological aging, and a measurable extension of healthy - Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxNVkRJTVREbTVSbHJhcHJIYW1pUmFESVVoclZsS0xSUm9DWUNyZ3NnMGFzM0JubEI1UlBDZUd6MmhpdTVvWTNDc00tbFNzUmFxUm9JRlg3Ulp1Q3pMM3B1clRyVFJyeVVxSGp6Tmd4ai1JS2k3Zkx6RzA1RFVzbUx3R18tb0ZYbUk2SkdHc0Rqb1pKQ2UxN1BXVlp3X0h3VUxZN0J3c1lpOUU1OExhNlo5YzIzclNOWWVBbTA2TEczWi00eFF5WlhxWkM0S0ZWdVowa3dKNk11SkxBcW9BeUJ2ZjFsVFFGbThHOWxEeEI3TFl6bWhGRnRnclAtQmFwWEFHN1pveERGNkgta29fdmhIekI0dzFFdGdTTEpUTnJReFBrVVdVVFhNRGJMSzN3YVRCdkkwOXZhOVpzUQ?oc=5)
+
+2026-06-12 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxNVkRJTVREbTVSbHJhcHJIYW1pUmFESVVoclZsS0xSUm9DWUNyZ3NnMGFzM0JubEI1UlBDZUd6MmhpdTVvWTNDc00tbFNzUmFxUm9JRlg3Ulp1Q3pMM3B1clRyVFJyeVVxSGp6Tmd4ai1JS2k3Zkx6RzA1RFVzbUx3R18tb0ZYbUk2SkdHc0Rqb1pKQ2UxN1BXVlp3X0h3VUxZN0J3c1lpOUU1OExhNlo5YzIzclNOWWVBbTA2TEczWi00eFF5WlhxWkM0S0ZWdVowa3dKNk11SkxBcW9BeUJ2ZjFsVFFGbThHOWxEeEI3TFl6bWhGRnRnclAtQmFwWEFHN1pveERGNkgta29fdmhIekI0dzFFdGdTTEpUTnJReFBrVVdVVFhNRGJMSzN3YVRCdkkwOXZhOVpzUQ?oc=5)
 
 ---
 

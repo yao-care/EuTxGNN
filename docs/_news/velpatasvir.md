@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（10 則）
 
 ### [A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
 
 2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
-
----
-
-### [Hepatitis B: 20 Prozent funktionelle Heilung in Phase-3-Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
-
-2026-06-12 <span class="news-indication-tag">hepatitis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
-
----
-
-### [A Major Update Just Hit Cholesterol Guidelines – Here’s What Every Adult Needs To Know](https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0ZwQXIwVFJMN1JaT2JIQzhjX0taTy1BS01mRXFZcnlmQ2pyYUNhUnJqT2FGZWtUZDctRXV6VHhzaHkwSTREbmZieVB3YWVSUWJzWXlLeFh3LTktejNUUEI3cXY1MUJmV05PQVg3S3kxTGtQOWxWZzBCSDV3SDlXVUhvdGtyRGhwN1dMSEJ1SndwSUtDYUcyMVpVSnluUFUyVjNoSHNyanQ5dVZNRHc?oc=5)
-
-2026-06-12 <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0ZwQXIwVFJMN1JaT2JIQzhjX0taTy1BS01mRXFZcnlmQ2pyYUNhUnJqT2FGZWtUZDctRXV6VHhzaHkwSTREbmZieVB3YWVSUWJzWXlLeFh3LTktejNUUEI3cXY1MUJmV05PQVg3S3kxTGtQOWxWZzBCSDV3SDlXVUhvdGtyRGhwN1dMSEJ1SndwSUtDYUcyMVpVSnluUFUyVjNoSHNyanQ5dVZNRHc?oc=5)
 
 ---
 
@@ -110,6 +94,14 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
+
+2026-06-11 <span class="news-indication-tag">hepatitis</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
+
+---
+
 ### [Omeprazole users with heartburn told they face 'two problems' by practitioner - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjhmemdrMW5hSC1hTVR5QjlOQ01tVFVrOTZIRUlLREQ0QkhBbS1PbEw3bjZOc0UzTmRMSTdBNzl6Z0dfTWZFV1BSR00yWURCRUIwVGxnNnphMHZYbWNDeXJlSGxNcWlDT1V5dXZpMUdWbWNWRkItNVlhRXN1cW45RGVyTGhTbDFXcEHSAY8BQVVfeXFMT0FEbmxoRFNzWHg2dGFGZXdiOU9ZRi1IODBvazllM0VqdHBCU1NWV3l0SzdTdVpNMlJmaHZ0d0lwZW1BN2c2NHFEeE5iTUJKUUVGQ21ZQUhkdi04U2xlY3MtUTJPVzIzUmU0SlRqZjYyc3FqQmhfQWNjakxtV0pmbXItU2x0Rkdra1MxT3pDTXM?oc=5)
 
 2026-06-11 <span class="news-indication-tag">MS</span>
@@ -139,30 +131,6 @@ permalink: /news/velpatasvir/
 2026-06-11 <span class="news-indication-tag">MS</span>
 
 來源：[Bocholter Borkener Volksblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxPclhlOHh2ZEtjTkVjQ2tUUC1pb3JBUE81WkVWSkVNNkpUVGNsY3hCVENDT0JlaV9zZmZhMnBTRUZvanBXSzlvc0hRRnZncF9ZdG5HSUVqT0FmeE1zakg5MmMyQkY1eU1JMmFHR0VNN2thelpCMC1IUDRRYndaRUlMLUhUd0FFRk1COEF5S0UzbTl3aW96NEZJQWdLT2xiazBfQU9VRlRQUDJ2WmxEaWJqcUxyQW5jRGZKUjdFXw?oc=5)
-
----
-
-### [The largest genetic study of anxiety symptom severity to date has found the condition is not only heritable but shows significant genetic overlap with heart disease, gut disorders, and migraine, in findings researchers describe as an important step forward in un - Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
-
-2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
-
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
-
----
-
-### [New techniques can predict and prevent lung cancer - The Economist](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWFnRFZLbVZYWjVKLS0xSG5jTG5QZGtfQk9VUzgxbFJOdzZhSFg4c1JvcU1MQzRfbnR1OUF0NUtTakZqeWcwT0J2U2ZvZWZENzd6Q2U3aEZnaGRUaWVYN2s5Vjk0YVdIZmdRY3drWnJZRV90SVBGcm5kcENwZ3NIaC1yY2swYTZiN1ZGU2JORG1GUkJHal9YbmNjT1JoM2NzUHpZSHpYZkUyR2plLTlJ?oc=5)
-
-2026-06-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWFnRFZLbVZYWjVKLS0xSG5jTG5QZGtfQk9VUzgxbFJOdzZhSFg4c1JvcU1MQzRfbnR1OUF0NUtTakZqeWcwT0J2U2ZvZWZENzd6Q2U3aEZnaGRUaWVYN2s5Vjk0YVdIZmdRY3drWnJZRV90SVBGcm5kcENwZ3NIaC1yY2swYTZiN1ZGU2JORG1GUkJHal9YbmNjT1JoM2NzUHpZSHpYZkUyR2plLTlJ?oc=5)
-
----
-
-### [Forschende des Deutschen Diabetes-Zentrums warnen vor gesundheitlichen Fehlinformationen in Sozialen Medien - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
 
 ---
 

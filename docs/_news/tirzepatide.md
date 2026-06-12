@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Obésité : les conditions de prescription de Wegovy et Mounjaro revues avant leur remboursement - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+
+---
 
 
 <div class="disclaimer">

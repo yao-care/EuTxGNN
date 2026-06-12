@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2M1WVdQdVFWOENHdHFqaWd6OUZmbU1LZlpiRUl6Z1VzR0VaNmJjejVVTVFjaWpWZDNzWnlyLVgyWFdfZmFjd1dTMUc5R0tkTlVFTnVNS3BBSldneHFaTDQ3NmU5a1JBek5MUVlNdmp5cTFEX0h0bjJSNHpwTjcxb1d4NDlmeC1Z?oc=5)
+
+2026-06-12 <span class="news-indication-tag">heart disease</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2M1WVdQdVFWOENHdHFqaWd6OUZmbU1LZlpiRUl6Z1VzR0VaNmJjejVVTVFjaWpWZDNzWnlyLVgyWFdfZmFjd1dTMUc5R0tkTlVFTnVNS3BBSldneHFaTDQ3NmU5a1JBek5MUVlNdmp5cTFEX0h0bjJSNHpwTjcxb1d4NDlmeC1Z?oc=5)
+
+---
 
 ### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+---
+
+### [The people of Okinawa, Japan only eat until they are about 80 percent full, then stop — and the practice has been linked in multiple peer-reviewed studies to lower rates of cardiovascular disease, slower biological aging, and a measurable extension of healthy - Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxNVkRJTVREbTVSbHJhcHJIYW1pUmFESVVoclZsS0xSUm9DWUNyZ3NnMGFzM0JubEI1UlBDZUd6MmhpdTVvWTNDc00tbFNzUmFxUm9JRlg3Ulp1Q3pMM3B1clRyVFJyeVVxSGp6Tmd4ai1JS2k3Zkx6RzA1RFVzbUx3R18tb0ZYbUk2SkdHc0Rqb1pKQ2UxN1BXVlp3X0h3VUxZN0J3c1lpOUU1OExhNlo5YzIzclNOWWVBbTA2TEczWi00eFF5WlhxWkM0S0ZWdVowa3dKNk11SkxBcW9BeUJ2ZjFsVFFGbThHOWxEeEI3TFl6bWhGRnRnclAtQmFwWEFHN1pveERGNkgta29fdmhIekI0dzFFdGdTTEpUTnJReFBrVVdVVFhNRGJMSzN3YVRCdkkwOXZhOVpzUQ?oc=5)
+
+2026-06-12 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMiugJBVV95cUxNVkRJTVREbTVSbHJhcHJIYW1pUmFESVVoclZsS0xSUm9DWUNyZ3NnMGFzM0JubEI1UlBDZUd6MmhpdTVvWTNDc00tbFNzUmFxUm9JRlg3Ulp1Q3pMM3B1clRyVFJyeVVxSGp6Tmd4ai1JS2k3Zkx6RzA1RFVzbUx3R18tb0ZYbUk2SkdHc0Rqb1pKQ2UxN1BXVlp3X0h3VUxZN0J3c1lpOUU1OExhNlo5YzIzclNOWWVBbTA2TEczWi00eFF5WlhxWkM0S0ZWdVowa3dKNk11SkxBcW9BeUJ2ZjFsVFFGbThHOWxEeEI3TFl6bWhGRnRnclAtQmFwWEFHN1pveERGNkgta29fdmhIekI0dzFFdGdTTEpUTnJReFBrVVdVVFhNRGJMSzN3YVRCdkkwOXZhOVpzUQ?oc=5)
 
 ---
 
@@ -107,30 +123,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
-
----
-
-### [The largest genetic study of anxiety symptom severity to date has found the condition is not only heritable but shows significant genetic overlap with heart disease, gut disorders, and migraine, in findings researchers describe as an important step forward in un - Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
-
-2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
-
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
-
----
-
-### [Breakthrough for 800 Million Patients? Kidney Disease Drug Shows Powerful New Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
-
-2026-06-10 <span class="news-drug-tag">Darolutamide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMi0taHV5NTBveHloNjhUR1VMcmJ5aktUQzc1NmozRGlVNl9pQTlkZUpTUHMxR3Vob3pkbTY3bUNkclFCd0pyZkVFcE9xUEVreG1yc0RYb2J3RWptNHYxdTBacGtXRVdiV1Jab3BqRXo2TjNfeFZjVy1KdlNYNWhVcnFGS3dQQlNLQWxlMi1OMDNtUHdfUFYwMC1heVpvb2VNeWlaSDNPbjNCaU1PWFlOZw?oc=5)
-
----
-
-### [Forschende des Deutschen Diabetes-Zentrums warnen vor gesundheitlichen Fehlinformationen in Sozialen Medien - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkVfQktQMW5Gam84WllSMFBFRk5wT2tiWFVWS0cyZlM3eXNvMFhEb3ZnWDE0QVE0c3VnLUl5R3pQbDN0NExkVU1QZWNaNjA0clVOTTEyMHFmUHJWdk9oc1RRM2NKWFVKdEszeHhuWlpleVJFOFJid28yVDgtbkh5T2ZJREliSUNOR0hReGphNXE5S0gxU1VfYjREZmNta3pscTYwNzRTMjI4OUI2bl9uMGtJS01OZlk5emRxZ1JtTUFQUFBDd0JET3hqZFI5Tno4MHZr?oc=5)
 
 ---
 
