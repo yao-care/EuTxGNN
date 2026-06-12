@@ -54,11 +54,11 @@ permalink: /news/elvitegravir/
 
 ## 相關新聞（1 則）
 
-### [Kann mit Bepirovirsen eine Hepatitis-B-Infektion geheilt werden? - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
+### [Hepatitis B: 20 Prozent funktionelle Heilung in Phase-3-Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
 
-2026-06-10 <span class="news-indication-tag">hepatitis</span>
+2026-06-12 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
+
+### [Más del 50% de las personas con diabetes en España ha perdido al menos una pieza dental - El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
+
+2026-06-12 <span class="news-indication-tag">diabetes</span>
+
+來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
+
+---
 
 ### [Buchtip: Schöpfe Kraft aus deiner Krankheit – ein Mutmachbuch über das Leben mit Typ-1-Diabetes von Bajai Resch](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
 
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
-
----
-
-### [Diabetes y salud oral, una asignatura pendiente: “La sensibilización entre pacientes y profesionales es fundamental”](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEZENFBlcjU4MXBoX1Azd1NFQnBkLVExOGJWNVcyV1N6ZVRIOUpMeDBkYzNtaVFySFpOd2NMd1V0bHpZWUtFUXZMZ0JPLUc2U3lzMFNfQ1k4M3ZmaDcyN0lMeDFDUkhCdUp1cHlWcUdjQ0VsSDJXS1BTUXE1ZEZMU01pY3haT0I1VGpWUlRwcVIxZVBRTEhBZGVIM2ZrNXB1OThJZmhrRTVIVndlVVRldzdsVWdLYWFETXhIZFhwNlg1YWxQUWFIaTdJV0hxWkRZZ3lDcjZLLUE0ZnNvVnlLR1YxeGpzVW94N1lQOXFQazI0MEgzbFdXeTZn?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEZENFBlcjU4MXBoX1Azd1NFQnBkLVExOGJWNVcyV1N6ZVRIOUpMeDBkYzNtaVFySFpOd2NMd1V0bHpZWUtFUXZMZ0JPLUc2U3lzMFNfQ1k4M3ZmaDcyN0lMeDFDUkhCdUp1cHlWcUdjQ0VsSDJXS1BTUXE1ZEZMU01pY3haT0I1VGpWUlRwcVIxZVBRTEhBZGVIM2ZrNXB1OThJZmhrRTVIVndlVVRldzdsVWdLYWFETXhIZFhwNlg1YWxQUWFIaTdJV0hxWkRZZ3lDcjZLLUE0ZnNvVnlLR1YxeGpzVW94N1lQOXFQazI0MEgzbFdXeTZn?oc=5)
-
----
-
-### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
-
-2026-06-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
 ---
 
@@ -94,19 +86,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+### [Difunden las primeras directrices, a nivel mundial, sobre el síndrome cardiorrenal-metabólico - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFpWSmhESXdIRHpUVl9XandSNGlGS3FvUEJ2Rk1rcW1aUXFHenE1SGNjVE5TMll5TEx5d3hBMDNOTXBvSjZvMVBtNTNrR3RBWDZxZ0NtY3U4NzRQcFU1TDRqRjJITDhyVlNqSkxIZ3FNLTB2LUVtZnF1X3dDdGpWVmwya3VCMFpzNlRrMG5TN3NKSUlQZUZHNGFSSHJiWU85YXMySFV5dEtVYjZJTzIxS1Bncjh5NWd0aEltR9IBtwFBVV95cUxNc1dZMnhKelpGUkx3ZHMySHFqYjFXMm1JbG1YVXQ1d1FucUhBU0ZOX1VFbnk2MEZkZkY3aUhRanNCMDZPc1ZXTVVBZkNoOWRocWhsb0I1anN1X0ZUSTBLQlk5MmcxZzl2VHV4MkNFSV9NQ01ZLWlURm9Kc1doZDhIWGRNTktPQUtSUzg5SkhxX256UnJES3dISzB0VE54a3c2b1FLdkhwNGNQTkRLaDdjUC12VXo3NjA?oc=5)
 
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
----
-
-### [Weight loss jabs are being linked to ‘Ozempic butt’ — a new drug might stop it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
-
-2026-06-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEo1SGk0OEZUVE1oUlN4ZFdveUtzc3Q5cElTUTN0X3NBSU04MGstb2M0U1VnbXdGVmRZU1lwYlRXQjItdTdNeGlPeHFFR0I4eHVDZTV2eEY0OGxCSzQtSGdlSHJpVFB2THhDSGpkVmpxS0hIRnNPcUdFSVJ2b0J1eTEwemd0MVVPUUh3QlhJSmZVUVdfeFVub0MyQW5rUllF0gGmAUFVX3lxTE5TaUxoMUdEaHdWZVFpMmFEbzdoOWZVSFNaSi1mdkhWLW0xeFhjSENrcWhzVXY0dUdqUWhwR0J6bzVNbDZVV2JycGpiSF9mc1RHajE2UDVHM1dwTE4wU3A2RkQ0UXQzWEtzSGpHa2JzN0w3VmFOVk13bHpKZVZndDBpWFlYbWttcER3cVpXb2t1MWZRU1p3T3d4eXpZMWdzWnFBcHdJa0E?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFpWSmhESXdIRHpUVl9XandSNGlGS3FvUEJ2Rk1rcW1aUXFHenE1SGNjVE5TMll5TEx5d3hBMDNOTXBvSjZvMVBtNTNrR3RBWDZxZ0NtY3U4NzRQcFU1TDRqRjJITDhyVlNqSkxIZ3FNLTB2LUVtZnF1X3dDdGpWVmwya3VCMFpzNlRrMG5TN3NKSUlQZUZHNGFSSHJiWU85YXMySFV5dEtVYjZJTzIxS1Bncjh5NWd0aEltR9IBtwFBVV95cUxNc1dZMnhKelpGUkx3ZHMySHFqYjFXMm1JbG1YVXQ1d1FucUhBU0ZOX1VFbnk2MEZkZkY3aUhRanNCMDZPc1ZXTVVBZkNoOWRocWhsb0I1anN1X0ZUSTBLQlk5MmcxZzl2VHV4MkNFSV9NQ01ZLWlURm9Kc1doZDhIWGRNTktPQUtSUzg5SkhxX256UnJES3dISzB0VE54a3c2b1FLdkhwNGNQTkRLaDdjUC12VXo3NjA?oc=5)
 
 ---
 

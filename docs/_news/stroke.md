@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Il 99% di infarti e ictus è collegato a 4 fattori di rischio: i risultati del maxi studio su JACC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
 
 2026-06-11
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
-
----
-
-### [Doppelt hält besser: DAPT nach Schlaganfall - mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
-
-2026-06-10
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMiywJBVV95cUxOeHdXUW42Y1VpaEQzRWFoLWJueWpIdkdfcHRFNHRqOGxXeUJTbUo3MWRTRzMxY1M0WnNKSHI2QU82eE5CSmc4Vm41VXdlZjNTQk1oYXdRSVNYLXBtZDNEMjhIOHdoRUhkMjlDYWpFUDhYb2x1V3F4ZG5wRGVkMzVydmNOZkliVVl3QU81eEhEVi1Ca0FSQVE2cDNXeDI1S2RNTTlhMk9NWmZyZDVRQ3pRTlhRUVpTNHl3enN5bEFmTnZmUWhWNXVqWFkxa2ZVdkxtSUloU3d2bHZKZjhTYkVGQXhXaVNYMlUzaUdpbTJBVjMxZ0dJOGx2d3RULWhpY3BxSHZWaUU0S20zS0JweUxPeVZ3N1hDc21SNEwwUlYzUlNqYmhLMWY4YnI0VldINVVWMjVkN1BJaS1SeUdaUnJMT3dDd01rTEJZSTBR?oc=5)
 
 ---
 

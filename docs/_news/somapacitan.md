@@ -54,6 +54,14 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（6 則）
 
+### [Más del 50% de las personas con diabetes en España ha perdido al menos una pieza dental - El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
+
+2026-06-12 <span class="news-indication-tag">diabetes</span>
+
+來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
+
+---
+
 ### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 2026-06-11 <span class="news-indication-tag">asthme</span>
@@ -67,14 +75,6 @@ permalink: /news/somapacitan/
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
-
----
-
-### [Diabetes y salud oral, una asignatura pendiente: “La sensibilización entre pacientes y profesionales es fundamental”](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEZENFBlcjU4MXBoX1Azd1NFQnBkLVExOGJWNVcyV1N6ZVRIOUpMeDBkYzNtaVFySFpOd2NMd1V0bHpZWUtFUXZMZ0JPLUc2U3lzMFNfQ1k4M3ZmaDcyN0lMeDFDUkhCdUp1cHlWcUdjQ0VsSDJXS1BTUXE1ZEZMU01pY3haT0I1VGpWUlRwcVIxZVBRTEhBZGVIM2ZrNXB1OThJZmhrRTVIVndlVVRldzdsVWdLYWFETXhIZFhwNlg1YWxQUWFIaTdJV0hxWkRZZ3lDcjZLLUE0ZnNvVnlLR1YxeGpzVW94N1lQOXFQazI0MEgzbFdXeTZn?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEZENFBlcjU4MXBoX1Azd1NFQnBkLVExOGJWNVcyV1N6ZVRIOUpMeDBkYzNtaVFySFpOd2NMd1V0bHpZWUtFUXZMZ0JPLUc2U3lzMFNfQ1k4M3ZmaDcyN0lMeDFDUkhCdUp1cHlWcUdjQ0VsSDJXS1BTUXE1ZEZMU01pY3haT0I1VGpWUlRwcVIxZVBRTEhBZGVIM2ZrNXB1OThJZmhrRTVIVndlVVRldzdsVWdLYWFETXhIZFhwNlg1YWxQUWFIaTdJV0hxWkRZZ3lDcjZLLUE0ZnNvVnlLR1YxeGpzVW94N1lQOXFQazI0MEgzbFdXeTZn?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+### [Difunden las primeras directrices, a nivel mundial, sobre el síndrome cardiorrenal-metabólico - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFpWSmhESXdIRHpUVl9XandSNGlGS3FvUEJ2Rk1rcW1aUXFHenE1SGNjVE5TMll5TEx5d3hBMDNOTXBvSjZvMVBtNTNrR3RBWDZxZ0NtY3U4NzRQcFU1TDRqRjJITDhyVlNqSkxIZ3FNLTB2LUVtZnF1X3dDdGpWVmwya3VCMFpzNlRrMG5TN3NKSUlQZUZHNGFSSHJiWU85YXMySFV5dEtVYjZJTzIxS1Bncjh5NWd0aEltR9IBtwFBVV95cUxNc1dZMnhKelpGUkx3ZHMySHFqYjFXMm1JbG1YVXQ1d1FucUhBU0ZOX1VFbnk2MEZkZkY3aUhRanNCMDZPc1ZXTVVBZkNoOWRocWhsb0I1anN1X0ZUSTBLQlk5MmcxZzl2VHV4MkNFSV9NQ01ZLWlURm9Kc1doZDhIWGRNTktPQUtSUzg5SkhxX256UnJES3dISzB0VE54a3c2b1FLdkhwNGNQTkRLaDdjUC12VXo3NjA?oc=5)
 
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFpWSmhESXdIRHpUVl9XandSNGlGS3FvUEJ2Rk1rcW1aUXFHenE1SGNjVE5TMll5TEx5d3hBMDNOTXBvSjZvMVBtNTNrR3RBWDZxZ0NtY3U4NzRQcFU1TDRqRjJITDhyVlNqSkxIZ3FNLTB2LUVtZnF1X3dDdGpWVmwya3VCMFpzNlRrMG5TN3NKSUlQZUZHNGFSSHJiWU85YXMySFV5dEtVYjZJTzIxS1Bncjh5NWd0aEltR9IBtwFBVV95cUxNc1dZMnhKelpGUkx3ZHMySHFqYjFXMm1JbG1YVXQ1d1FucUhBU0ZOX1VFbnk2MEZkZkY3aUhRanNCMDZPc1ZXTVVBZkNoOWRocWhsb0I1anN1X0ZUSTBLQlk5MmcxZzl2VHV4MkNFSV9NQ01ZLWlURm9Kc1doZDhIWGRNTktPQUtSUzg5SkhxX256UnJES3dISzB0VE54a3c2b1FLdkhwNGNQTkRLaDdjUC12VXo3NjA?oc=5)
 
 ---
 

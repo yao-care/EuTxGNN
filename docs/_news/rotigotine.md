@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（14 則）
 
-### [‘Painful’ sexually transmitted infection that condoms don’t prevent is on the rise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVg?oc=5)
+### [Un integratore accelera la progressione dell'Alzheimer: il farmaco, lo studio, i risultati - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2ZUYlZlc21sQUdyeVJMLVpqSVZXTEVOVzRvc184MDRrR002OWN4MXJlTFVBS3ZnNGZ6d3NSdEtoVHpSRWd1TFJtMHdJdXlTMVgyVGtudS1FaGZuSWcyeGdTc2tDbWl4bTdaX21WT0wxMlFlUjl0NVcyenotVWJNVXd5S0l0WU5KaTRHSllPY0dkWkstRExHWEJfQ1BCdTkxb19BVWdyWVNVZ1Fpbm5tQ2xZQTVTbVhKU1BQUGhrUVNRYkRkZnpUVUlWWjAzdmJFbHVyUkJJb0d0OXBOcE5kMldKY01TUTc5WEE?oc=5)
 
 2026-06-11 <span class="news-indication-tag">MS</span>
 
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVg?oc=5)
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2ZUYlZlc21sQUdyeVJMLVpqSVZXTEVOVzRvc184MDRrR002OWN4MXJlTFVBS3ZnNGZ6d3NSdEtoVHpSRWd1TFJtMHdJdXlTMVgyVGtudS1FaGZuSWcyeGdTc2tDbWl4bTdaX21WT0wxMlFlUjl0NVcyenotVWJNVXd5S0l0WU5KaTRHSllPY0dkWkstRExHWEJfQ1BCdTkxb19BVWdyWVNVZ1Fpbm5tQ2xZQTVTbVhKU1BQUGhrUVNRYkRkZnpUVUlWWjAzdmJFbHVyUkJJb0d0OXBOcE5kMldKY01TUTc5WEE?oc=5)
+
+---
+
+### [Warum Frauen mit ADHS stärker unter PMS leiden – Facharzt klärt auf - Berliner Morgenpost](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRiWkJYMWJyTm5hTHlGMC1aUjZMeVVhNUFtSkI3VE52RUVrRzd6RzVzX3hRSkZRbmpkNjAwcWdtTFM3cDhBcF9NVnBUYWg0aVRlOV9JSUVJd3I3Ti1hSXRnYVR5YkJ4Z05aM1Y1aVNaZmxDT0N5NlM2dTFmSjNPbXozZFRiaWFDRFhXRzMxMzNXRXRSTEVJMzY0OUwzNlk4?oc=5)
+
+2026-06-11 <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRiWkJYMWJyTm5hTHlGMC1aUjZMeVVhNUFtSkI3VE52RUVrRzd6RzVzX3hRSkZRbmpkNjAwcWdtTFM3cDhBcF9NVnBUYWg0aVRlOV9JSUVJd3I3Ti1hSXRnYVR5YkJ4Z05aM1Y1aVNaZmxDT0N5NlM2dTFmSjNPbXozZFRiaWFDRFhXRzMxMzNXRXRSTEVJMzY0OUwzNlk4?oc=5)
+
+---
+
+### ['Painful' sexually transmitted infection that condoms don't prevent is on the rise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
+
+2026-06-11 <span class="news-indication-tag">MS</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/rotigotine/
 2026-06-11 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYy1KZUlybWdBVFIxeHZhNHdrSTZKN0xpeEZtajUxM1JNeXBYakhYUVUtakc3WE9EcVdtQ0FjZ3c5ZklNMDVjTHJpajlCVHhrQkcwQmxNWExjQUp1VkU0MEg2UWl0bUEtTUZodnpNTExSMGxyQUNrdG1BX1puN3ZIZWR2OHJqTzZIWHlGZlZ3X2lKNWJYNUNBMC1DR3FlaTgwc2J0V2RZak5ZUGZzRGpFZmxhMkNEc2xI?oc=5)
+
+---
+
+### [Alzheimer, nuova molecola riduce placche e infiammazione - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVVIUlIzNEtLVzVGOVZabHNXUjk1N2ZtWmtueEktTjAwaVNqVjNKTU1Sbk9iWXVoYWk3R3JOazFJTlYtS2xTazdGV3ZxaEVObEVla0xFTVRJM2pHa0tjLVQ2ZDFPd29NcV9zUDdxSzFOU3pwYjctTnlKOGlqMEk3QUVJWWpBYVRtMmlWY0VRS0I?oc=5)
+
+2026-06-11 <span class="news-indication-tag">MS</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVVIUlIzNEtLVzVGOVZabHNXUjk1N2ZtWmtueEktTjAwaVNqVjNKTU1Sbk9iWXVoYWk3R3JOazFJTlYtS2xTazdGV3ZxaEVObEVla0xFTVRJM2pHa0tjLVQ2ZDFPd29NcV9zUDdxSzFOU3pwYjctTnlKOGlqMEk3QUVJWWpBYVRtMmlWY0VRS0I?oc=5)
 
 ---
 
@@ -104,7 +128,7 @@ permalink: /news/rotigotine/
 
 ### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
-2026-06-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-11 <span class="news-indication-tag">MS</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
@@ -120,7 +144,7 @@ permalink: /news/rotigotine/
 
 ### [The World Cup Could Spread More Than Soccer Fever, Experts Warn](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdE4yZElSaVUwc1VsNjhuT2RBT0p0Mk1sWGtBY1I0dkVxbzBKakt2TnJQM3UwTWROQkUzSzIxY0NNcU9Pa3JPcDkybHZ5UXJtdnpyT2lPYjgzNEtjbDVqRWFLUjRjaXVRVGh3SHc5M090OEZ5Ykh6Y0dud090NGZfek0wQlg1cjhXNXUzTFZIUUJHOGlhOGc?oc=5)
 
-2026-06-11 <span class="news-indication-tag">MS</span>
+2026-06-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdE4yZElSaVUwc1VsNjhuT2RBT0p0Mk1sWGtBY1I0dkVxbzBKakt2TnJQM3UwTWROQkUzSzIxY0NNcU9Pa3JPcDkybHZ5UXJtdnpyT2lPYjgzNEtjbDVqRWFLUjRjaXVRVGh3SHc5M090OEZ5Ykh6Y0dud090NGZfek0wQlg1cjhXNXUzTFZIUUJHOGlhOGc?oc=5)
 
@@ -131,6 +155,14 @@ permalink: /news/rotigotine/
 2026-06-10 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
 
 來源：[Space Daily](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNTJ3bkZhT29jbE9hZU92VG9veEpUcVQzRkNMR0Q0aGc5LVFjUktqMExOWTAtcDZoN2ZxSWRjS1pITVFpaHdCS2RYSHRTdldMak9EMFNBa3FaRUtad0s3azcyQktCV3lfVGtHS2hjN2d5eGFtZlJqMGdpdjJCaGtnbW0wLWVlVnc3cTlnN0ZaZHJhNWRSVFcyeHl4V1J1LUQ2NHljQ25LZzM5bXJ1NXdaVmFNVUtZMXRXNzJ4eG1OVjBZNlpaS1JQUmd4R0taTU1QYW9iQjVNRmNSakFzaHFWQ3hPUDlQem5McTBzdVJjMUhLSElra1g5cWp2dWduTFhRUUZ5Z0NGZWo3NmRxb01CRHQzVVB0S1MtdVhHNDdGZTJDUTZ1V2U3ZVBwd2JzR1dKbVpKWlBjdUkzWW5kUmk2LXVn?oc=5)
+
+---
+
+### [New techniques can predict and prevent lung cancer - The Economist](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWFnRFZLbVZYWjVKLS0xSG5jTG5QZGtfQk9VUzgxbFJOdzZhSFg4c1JvcU1MQzRfbnR1OUF0NUtTakZqeWcwT0J2U2ZvZWZENzd6Q2U3aEZnaGRUaWVYN2s5Vjk0YVdIZmdRY3drWnJZRV90SVBGcm5kcENwZ3NIaC1yY2swYTZiN1ZGU2JORG1GUkJHal9YbmNjT1JoM2NzUHpZSHpYZkUyR2plLTlJ?oc=5)
+
+2026-06-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWFnRFZLbVZYWjVKLS0xSG5jTG5QZGtfQk9VUzgxbFJOdzZhSFg4c1JvcU1MQzRfbnR1OUF0NUtTakZqeWcwT0J2U2ZvZWZENzd6Q2U3aEZnaGRUaWVYN2s5Vjk0YVdIZmdRY3drWnJZRV90SVBGcm5kcENwZ3NIaC1yY2swYTZiN1ZGU2JORG1GUkJHal9YbmNjT1JoM2NzUHpZSHpYZkUyR2plLTlJ?oc=5)
 
 ---
 

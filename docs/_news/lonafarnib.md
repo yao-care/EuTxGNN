@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 heart disease</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,15 +52,7 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Marathonienne et végétarienne elle apprend à 44 ans quʼelle a fait un infarctus sans le savoir](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
-
-2026-06-11 <span class="news-indication-tag">hypertension</span>
-
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Blutdruck-Medikamente: Kalziumkanalblocker erhöhen Nierenschaden-Risiko um 33% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
 
@@ -83,14 +75,6 @@ permalink: /news/lonafarnib/
 2026-06-10 <span class="news-indication-tag">hypertension</span>
 
 來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
-
----
-
-### [Diabetes und Vorhofflimmern: Kombination erhöht Sterblichkeit um 61% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
-
-2026-06-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pid18tdFBNN1ZCMW1ta0hNeEpHVFRnWGZ0aDBGRFJQSFJCLUxvakhXZUN0TGlxSm51V2ZIV3VyVHZKU0tPSlAwUWlncnlZUUw5M09VWXZWQjhUbEc3WjVCRHlSdlQ2eEhlRkliYUU5MHdlWUJOSzdYdDBTVXBWOFYxZ1JUZ2daOTNxRHlKZHN3dGsxU2JWOWZsWEg3TnhxX2JsamlzQnQ4dGttcmZwV3VCdFgwYU0?oc=5)
 
 ---
 

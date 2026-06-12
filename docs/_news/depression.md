@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Regarder du sport rend moins déprimé — une étude sur 7 000 personnes vient d'en identifier le mécanisme neurologique](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUp0cWVWdndRejRRT3FiWktHcW1Nb3FVckJra2xIdndySmh1WHhueXBrelNNYVhnd0Y4cjVleWtDZmUxcUZCdDVGTUROYWY2aEd4Q2RVLXFzWWw2LW04bWtVUDU1Y3FtMW1rSGdrY2oyYzhhQ09lN2lIYTlkZzAtNFdEVlUweUFqTzhmNzdwdU52UUFBN3J3bU83ck9RZHhqZWpDbG5PME1ualBKT2JadnA2N2RCcDlobkV2QTdoUXhNT1B0b2hxZk9kWndsYjk0LVNB?oc=5)
 
 2026-06-11
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUp0cWVWdndRejRRT3FiWktHcW1Nb3FVckJra2xIdndySmh1WHhueXBrelNNYVhnd0Y4cjVleWtDZmUxcUZCdDVGTUROYWY2aEd4Q2RVLXFzWWw2LW04bWtVUDU1Y3FtMW1rSGdrY2oyYzhhQ09lN2lIYTlkZzAtNFdEVlUweUFqTzhmNzdwdU52UUFBN3J3bU83ck9RZHhqZWpDbG5PME1ualBKT2JadnA2N2RCcDlobkV2QTdoUXhNT1B0b2hxZk9kWndsYjk0LVNB?oc=5)
-
----
-
-### [Unregelmäßige Mahlzeiten und Depression: Was Studien belegen](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTJaSUVCb2NGYlZOUndGMmxIU1V6SzRZWG0zM3dYd0RMMGg3ekdZOURsVTNhazh2bl9Lb0xtZkdTT0VXbm9fMFZDOE5iTG9MRG5LZnppbi1uZzlJQjFmM05rckZlM3lENERxSXVBYnNfTmZ0VkJhLWlHZXBWUm9JTGEtb1dLdmloeklEN1JFUTZ6QQ?oc=5)
-
-2026-06-11
-
-來源：[RiffReporter](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTJaSUVCb2NGYlZOUndGMmxIU1V6SzRZWG0zM3dYd0RMMGg3ekdZOURsVTNhazh2bl9Lb0xtZkdTT0VXbm9fMFZDOE5iTG9MRG5LZnppbi1uZzlJQjFmM05rckZlM3lENERxSXVBYnNfTmZ0VkJhLWlHZXBWUm9JTGEtb1dLdmloeklEN1JFUTZ6QQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="Febuxostat 有什麼相關新聞？">
-<strong>Febuxostat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Febuxostat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/febuxostat/
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Marathonienne et végétarienne elle apprend à 44 ans quʼelle a fait un infarctus sans le savoir](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
-
-2026-06-11 <span class="news-indication-tag">hypertension</span>
-
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Blutdruck-Medikamente: Kalziumkanalblocker erhöhen Nierenschaden-Risiko um 33% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
 

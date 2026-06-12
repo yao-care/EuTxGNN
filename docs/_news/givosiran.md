@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Marathonienne et végétarienne elle apprend à 44 ans quʼelle a fait un infarctus sans le savoir](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
+### [Hepatitis B: 20 Prozent funktionelle Heilung in Phase-3-Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
 
-2026-06-11 <span class="news-indication-tag">hypertension</span>
+2026-06-12 <span class="news-indication-tag">hepatitis</span>
 
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0hlVzN1eWNJeWN6T3gyV0xoMDMwNEM3UDIwTGxYR2NqWnZJUHdIQlZpYTZSYU1waElzek1oZktzSzVubVM0OW02VEVSUVZVM0xfalh1X0JLdTBab3hjZjFqR25HZllrOXlJckFKRnc4LTE0ZG1WMW9MeU5QQ2pnZDBkSF9mUjVGRGJtVHBfUVUzUTYweU9YYXdFYzBKZDY5UnBkdWlEalVYUzF3THVDVUJzQlNlSVJYb2F0UUMzcmZiRjNuYWllWDNB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNenhoU0lQU0pRZUpMX3V0VGZXWVBtQ0laX2RIWk1kOHVrSGkyb1RrRU5lVnV3V3h0X1dJeUR3Wmtkd2VyMXhydHJHVkhVc3VHSmkzZHlhRmFmX295YTQzVUItOXh0LWREOXJySDl0eWtJRHZIb0pJWmpXdWtyX3N3WmRCRVBaUzZtc2VwdlFpRjdtWWVUTG9lQ2hHMTdwNnpGY1FvZ1VwWDNzMmc3YXFr?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/givosiran/
 2026-06-10 <span class="news-indication-tag">hypertension</span>
 
 來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQm5Na2tNX29nUzJJcThpdTkzYVI1RURkTzh1T192VTNiWWcwMHh5YmU3NjNTMmVYRUMxUXhYdkpsOUp1SEhuR1BJOC1fY0M2cHVhREh4MURTQkROVm1JLV91MjA0S1RnbTB0NVdoZTB4NktOTGhHS2t5OE4wdzR5ZzhaazNSZTQxMlpjMkpJRUJFRjhMQmdpT2RWakRyOV9CUDRVcHAxTmVGVW9HVlFIVE83bTZJRVFCLTBlMGVVRTA5UlZFdUcwbi00RHNQWXNY?oc=5)
-
----
-
-### [Kann mit Bepirovirsen eine Hepatitis-B-Infektion geheilt werden? - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
-
-2026-06-10 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWlPSXVPUDhHY3RZdkcwRW9RZUNTVnNpQjFPUmxmczJIVXVsZF9SOV9JRlplOHFRZWNYdlBTOXB0ZzA1azB5WE4yVFJaa3dGVTdCWXJIWTBkOVRyRjdxNENzbXotZmp6S002eHp2WHpjSmFRUTdWUDlBMElOV1FzdVlael9NOU96WFVxdlNxVzFmNkEwaXZHOWR3SndhMF9iVzlTZ3A1UXNObnk1RWVQR0tIcmREWHU2YW4tLVpSMnpNODVaRXNGbA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Regarder du sport rend moins déprimé — une étude sur 7 000 personnes vient d'en identifier le mécanisme neurologique](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUp0cWVWdndRejRRT3FiWktHcW1Nb3FVckJra2xIdndySmh1WHhueXBrelNNYVhnd0Y4cjVleWtDZmUxcUZCdDVGTUROYWY2aEd4Q2RVLXFzWWw2LW04bWtVUDU1Y3FtMW1rSGdrY2oyYzhhQ09lN2lIYTlkZzAtNFdEVlUweUFqTzhmNzdwdU52UUFBN3J3bU83ck9RZHhqZWpDbG5PME1ualBKT2JadnA2N2RCcDlobkV2QTdoUXhNT1B0b2hxZk9kWndsYjk0LVNB?oc=5)
 
 2026-06-11 <span class="news-indication-tag">dépression</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUp0cWVWdndRejRRT3FiWktHcW1Nb3FVckJra2xIdndySmh1WHhueXBrelNNYVhnd0Y4cjVleWtDZmUxcUZCdDVGTUROYWY2aEd4Q2RVLXFzWWw2LW04bWtVUDU1Y3FtMW1rSGdrY2oyYzhhQ09lN2lIYTlkZzAtNFdEVlUweUFqTzhmNzdwdU52UUFBN3J3bU83ck9RZHhqZWpDbG5PME1ualBKT2JadnA2N2RCcDlobkV2QTdoUXhNT1B0b2hxZk9kWndsYjk0LVNB?oc=5)
-
----
-
-### [Unregelmäßige Mahlzeiten und Depression: Was Studien belegen](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTJaSUVCb2NGYlZOUndGMmxIU1V6SzRZWG0zM3dYd0RMMGg3ekdZOURsVTNhazh2bl9Lb0xtZkdTT0VXbm9fMFZDOE5iTG9MRG5LZnppbi1uZzlJQjFmM05rckZlM3lENERxSXVBYnNfTmZ0VkJhLWlHZXBWUm9JTGEtb1dLdmloeklEN1JFUTZ6QQ?oc=5)
-
-2026-06-11 <span class="news-indication-tag">depression</span>
-
-來源：[RiffReporter](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTJaSUVCb2NGYlZOUndGMmxIU1V6SzRZWG0zM3dYd0RMMGg3ekdZOURsVTNhazh2bl9Lb0xtZkdTT0VXbm9fMFZDOE5iTG9MRG5LZnppbi1uZzlJQjFmM05rckZlM3lENERxSXVBYnNfTmZ0VkJhLWlHZXBWUm9JTGEtb1dLdmloeklEN1JFUTZ6QQ?oc=5)
 
 ---
 
