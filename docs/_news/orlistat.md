@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Aumentan casos de hígado graso en jóvenes - Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
 
@@ -62,19 +62,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Remboursement de Wegovy et Mounjaro : précision sur l’IMC de référence pour y avoir droit - Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT1V2SGRfQk9SSFlzSnRtR3J2QkhkVzNWNGRYQ3BhMUhob0plXzFCMUdpRy15MFEtWXgxOE9WUVlOS2dJcXdYTEI0U2d4SmdXRkN3N0hodG5kb2FLZlRPTDlSOVZwUjJVaV9PV2pFOExaUWhFM3hlMExXMjZaaFVQRDdLMlNGTlI5YloyYmE3RkNxUFU1aTBUaVRPakJka0F1TVNpLTVxRmJfSzllWkhJSXh0YjhnSmdINEJJbGtzVmxCYjdwcmplMG5PZDlMcGxlcE5VVkJ0NkpEcmxOVzNVVGliYmxWUHNRMlhiUmd6N0w1aWM?oc=5)
+### [Wegovy et Mounjaro remboursés dans l’obésité : les généralistes écartés de la première prescription](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNXpDV0xNMlhVakJLaW54M2V5RnhSZ2hrMkR5ZVZxMEtJRVNaQVI3VjdFMV85Q0pYbzJTSEdwZnBRalNVbjZoNUVnUkxhMzhUWVZKR1lJMDNPUURMdDJLSmlFdDJjT3JnUjFRMlFiVlVrS3BsSFlObjE2VTFuSDVwbHU4b0tlUV9mUEw4MHpYWExlcU1Ga202bTVwZG1LRk13QUxzX2xsQ1pldmFVUjNTVXdWeG54dG0tQmFtamhJRi1EWUI0T1U1c1VYR1dEUFNNUm12cmRqT2pudk1SSHlWOVVVZHpRdw?oc=5)
 
 2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT1V2SGRfQk9SSFlzSnRtR3J2QkhkVzNWNGRYQ3BhMUhob0plXzFCMUdpRy15MFEtWXgxOE9WUVlOS2dJcXdYTEI0U2d4SmdXRkN3N0hodG5kb2FLZlRPTDlSOVZwUjJVaV9PV2pFOExaUWhFM3hlMExXMjZaaFVQRDdLMlNGTlI5YloyYmE3RkNxUFU1aTBUaVRPakJka0F1TVNpLTVxRmJfSzllWkhJSXh0YjhnSmdINEJJbGtzVmxCYjdwcmplMG5PZDlMcGxlcE5VVkJ0NkpEcmxOVzNVVGliYmxWUHNRMlhiUmd6N0w1aWM?oc=5)
+來源：[Caducée.net](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNXpDV0xNMlhVakJLaW54M2V5RnhSZ2hrMkR5ZVZxMEtJRVNaQVI3VjdFMV85Q0pYbzJTSEdwZnBRalNVbjZoNUVnUkxhMzhUWVZKR1lJMDNPUURMdDJLSmlFdDJjT3JnUjFRMlFiVlVrS3BsSFlObjE2VTFuSDVwbHU4b0tlUV9mUEw4MHpYWExlcU1Ga202bTVwZG1LRk13QUxzX2xsQ1pldmFVUjNTVXdWeG54dG0tQmFtamhJRi1EWUI0T1U1c1VYR1dEUFNNUm12cmRqT2pudk1SSHlWOVVVZHpRdw?oc=5)
 
 ---
 
-### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+### [Los médicos recuerdan que la obesidad, la diabetes, el daño renal y el riesgo vascular no son enfermedades aisladas](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
 
 2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/orlistat/
 2026-06-12 <span class="news-indication-tag">obésité</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSVBSaUU0b3NtZWVGMXQ5NXJTV2dqeWJ1RHBZdVEwbl9yUThlaF83ZzlfaDhiM01ZYjJmVUYtTGJ5ZmsyMHFHdUZqa3lpb2pYTGpVY0g0YVMxQk9TUmNtUC0wOVVOZUNBbDh1c3RmMzFZeVJGSVFfdjdaa0Rrb3JKYzJQOVlTdDBCNjJvQXV4MFd1STZkZER0VWhSeGN0Wm8yNnlMa3Rpd1puY2NvbWNkZ25jb0xmZTE1U0xVTzNmWVo2TFB3NEJvTmhHWVdGbWp2bFlud1MxQ0ZSTmFVZThxUGVqeDlpSVBkT2RYNUxSNHlBd0xobHlJOHVkVUFSclN5TlpfVVVjUzVZYXduczhJ?oc=5)
-
----
-
-### [Il 99% di infarti e ictus è collegato a 4 fattori di rischio: i risultati del maxi studio su JACC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">ictus</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
 
 ---
 

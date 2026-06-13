@@ -54,6 +54,14 @@ permalink: /news/loxapine/
 
 ## 相關新聞（25 則）
 
+### [Jóvenes investigadores debaten sobre salud cardiovascular en Madrid - Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
+
+2026-06-13 <span class="news-indication-tag">AF</span>
+
+來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
+
+---
+
 ### [Japón estudia el origen de las canas y descubre por casualidad que deberías alegrarte de tenerlas - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
 
 2026-06-13 <span class="news-indication-tag">MS</span>
@@ -67,14 +75,6 @@ permalink: /news/loxapine/
 2026-06-13 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5)
-
----
-
-### [Sardines en boîte : les ventes s’affolent ! Autrefois ringardes, pourquoi sont-elles de nouveau à la mode](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeVFPMVROeHVnM0hyNWZIc2htQURhNlZGTkVhbl9PSGxUT1ZlZW5vVW9zRE5GMno0Y0FiU0VIcWJCeUNPSXVzMTdJSjZCeFBrWkdPOHJXai1qTkh3MnV0VmZxS2JZX19yYlN0UzFqNktwUkdKaEIwcnh3Vl9BRXFtdklwdDRmbHdYVlcyS0JRR3RYdG1WNG5oeldCcDNkV1hYRld5am16cUFVLUpFWkpZbS12eUhyYUNuVnk5Y0Q1TmFDSkNxQmF0LWh6ak1PaksxaGJRVEhQLW05T0VkV3JYV3hB?oc=5)
-
-2026-06-13 <span class="news-indication-tag">AF</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeVFPMVROeHVnM0hyNWZIc2htQURhNlZGTkVhbl9PSGxUT1ZlZW5vVW9zRE5GMno0Y0FiU0VIcWJCeUNPSXVzMTdJSjZCeFBrWkdPOHJXai1qTkh3MnV0VmZxS2JZX19yYlN0UzFqNktwUkdKaEIwcnh3Vl9BRXFtdklwdDRmbHdYVlcyS0JRR3RYdG1WNG5oeldCcDNkV1hYRld5am16cUFVLUpFWkpZbS12eUhyYUNuVnk5Y0Q1TmFDSkNxQmF0LWh6ak1PaksxaGJRVEhQLW05T0VkV3JYV3hB?oc=5)
 
 ---
 
@@ -102,6 +102,22 @@ permalink: /news/loxapine/
 
 ---
 
+### [Revision der McDonald-Kriterien für Multiple Sklerose von 2024 - mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
+
+2026-06-12 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
+
+---
+
+### [«L'epidemia di Ebola continua a diffondersi nell'est del Congo»](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span>
+
+來源：[cdt.ch](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
+
+---
+
 ### [VIH : la lutte contre la maladie est « mise en danger » par la chute de l’aide internationale, prévient l’ONU - Le Monde.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVKSWVhbC0weTQ2SkpCbUpIMWx3cm50Q2d3X3FBREhsUDRhTGZpZjZSNDJCZjZBQmdzbDJhUFlzWUNwdHRkcW1NaVE0QjAybzJZWVRMbHdTRnh0cjE2aTd1VFlVMHVFSWVGdjZCaEg2T3M3ZEdyOVk3R1ZnNTFZM2RCOVg3cFV4M2p6QU41amI0MmIyX3E0QkVDN1JLZWdkbzdBT0l4V3dHcmVGRDVEOGJDQ2l3UmdNcmMwZ2lOejhRRGFlVlVORmVRN0t2S3pESGhiZ21UbkM0MmNaWkpFVVhnZHpuaXlheHdYcTdIaVo0QU5XMXV3Z1IzUjZqQkE?oc=5)
 
 2026-06-12 <span class="news-indication-tag">AF</span>
@@ -118,11 +134,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [El CNIC y la Fundación AstraZeneca reúnen en Madrid a jóvenes científicos y líderes europeos para impulsar la estrategia cardiovascular SAFE HEARTS PLAN'](https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHdOdUJqZWtHblNQdmtFRlZDbTJiVHg0aWFvQzMyUlZhUzBxLVR0a3JuOUZMZVJwcUF0d2VFcDk4dmpDRXZOeEN0b1FyMjc0ZXBzRjNmOEV4WFFSdU00QlRrWXVuOUJrTnl0RHlkdTVTeG1MNUJMN1hqY1BXempHSUxzUkN5R2M3c3BjTEhDVmxrQjBrTS1SY2p0Y3gwSVRkR1VndVlSZjFmWHd5UW4tbG9PS1BVaUNEdWpuX3EwNHduVkZWLWNMSXpKeDZFaUsyLW8wdHRGVmo1ek0wQmZzX1k5eGJiRkVOUkVVTWZfWVJnc210VTN0eVpZX1IzMS0zMjlrYVNtaDBBaUI3?oc=5)
+### [150 000 personnes suivies durant 30 ans. Verdict ? Le combo « cardio + muscu », c’est le top pour la longévité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2pSMGRmczByaDVRQkhHekh0UFZidXE5OVlFMUdfWU1TUVYyNmh6NTFFbllva2dTZ2I3YW1oZ3ZlRVpyQUhwOWRndk90MXZ4azhzWldILU5GZHlrX0lrYm4zVVloT3hDWGVPZldleDZ0Mk1DYk9EbGM5aUhIY2JXWnhZVThUSGpJQThKYno2T2JHMktzWUxCZGdpbDRiWWQ1X2EwYWRGQ2lJTHZaUGRCV3ZUaldkdThqUUhwc3R2eWEycVo1NlBET1JXVkw4UjlXTkxQYUtNY05xTVVvNW12bWxB?oc=5)
 
 2026-06-12 <span class="news-indication-tag">AF</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHdOdUJqZWtHblNQdmtFRlZDbTJiVHg0aWFvQzMyUlZhUzBxLVR0a3JuOUZMZVJwcUF0d2VFcDk4dmpDRXZOeEN0b1FyMjc0ZXBzRjNmOEV4WFFSdU00QlRrWXVuOUJrTnl0RHlkdTVTeG1MNUJMN1hqY1BXempHSUxzUkN5R2M3c3BjTEhDVmxrQjBrTS1SY2p0Y3gwSVRkR1VndVlSZjFmWHd5UW4tbG9PS1BVaUNEdWpuX3EwNHduVkZWLWNMSXpKeDZFaUsyLW8wdHRGVmo1ek0wQmZzX1k5eGJiRkVOUkVVTWZfWVJnc210VTN0eVpZX1IzMS0zMjlrYVNtaDBBaUI3?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2pSMGRmczByaDVRQkhHekh0UFZidXE5OVlFMUdfWU1TUVYyNmh6NTFFbllva2dTZ2I3YW1oZ3ZlRVpyQUhwOWRndk90MXZ4azhzWldILU5GZHlrX0lrYm4zVVloT3hDWGVPZldleDZ0Mk1DYk9EbGM5aUhIY2JXWnhZVThUSGpJQThKYno2T2JHMktzWUxCZGdpbDRiWWQ1X2EwYWRGQ2lJTHZaUGRCV3ZUaldkdThqUUhwc3R2eWEycVo1NlBET1JXVkw4UjlXTkxQYUtNY05xTVVvNW12bWxB?oc=5)
 
 ---
 
@@ -131,6 +147,14 @@ permalink: /news/loxapine/
 2026-06-12 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBoWkltUkV2bUd1SkN0WlVfZlBkS0VQbUJxRTRsVUg5X1puSjZxZjl6cWFNTmpfSENGa2psRmxDbWZSVVE?oc=5)
+
+---
+
+### ['I'm a doctor - this is what I'd eat if I had high cholesterol' - RSVP Live](https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[RSVP Live](https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5)
 
 ---
 
@@ -158,11 +182,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Dad with cancer left in £4,500 debt after company mistakenly paid him - Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
+### [Dad with cancer £4,500 in debt after work accidentally paid him - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUGNvb19vSWVlUm54VDdtOF9ONVZYQWNRQno1ZDFDWjRlRExPOTJjWUxGLUpvT0dJWUJyQ3Nrb0Y5N285U2x3cjRqWmktUUl3Z3R4MnF4OHM5MG9fQmpwTWViRC00S3gtdTFuUzRMcl9FcEJXMHRNLXB6RGfSAYIBQVVfeXFMT2ExaUdqRVJpREJ0UGdMQldtd1Q1TnpPU2lFQjJnX3VvT2lUeFFwaEdFRHBXVTB0bHZKempEU09PTmhUbEdfU3JTOHdCeDQtMXQzX0JidndBX0dkZ1VoTmlBeUExLXpwQVZZWkJ2TkJWWmRyNDc0VVp6RHpVcGtxN3B1dw?oc=5)
 
 2026-06-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUGNvb19vSWVlUm54VDdtOF9ONVZYQWNRQno1ZDFDWjRlRExPOTJjWUxGLUpvT0dJWUJyQ3Nrb0Y5N285U2x3cjRqWmktUUl3Z3R4MnF4OHM5MG9fQmpwTWViRC00S3gtdTFuUzRMcl9FcEJXMHRNLXB6RGfSAYIBQVVfeXFMT2ExaUdqRVJpREJ0UGdMQldtd1Q1TnpPU2lFQjJnX3VvT2lUeFFwaEdFRHBXVTB0bHZKempEU09PTmhUbEdfU3JTOHdCeDQtMXQzX0JidndBX0dkZ1VoTmlBeUExLXpwQVZZWkJ2TkJWWmRyNDc0VVp6RHpVcGtxN3B1dw?oc=5)
 
 ---
 
@@ -187,14 +211,6 @@ permalink: /news/loxapine/
 2026-06-12 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWC01dklPN1RZTVQ1ZDVWbVRuWlNJc25NeXgtSGJkYk5lUUxOQWczMVN2elNxMUdIRG0xbmlZZ1BadTY1NTVtNXljZnYzX0w1MnFNd284SkdaYzkxNHItT0wwQksyVlFkeVF6YldEQkJHTHd4LTNqTmRuZHNoT1hmbFNBb0N1TTZnZ1NyRmh0akRpQ2hOYzdCc2hzRmotWGdSQWFkZUp3Q1JTazg?oc=5)
-
----
-
-### [Calls for horses to be vaccinated following equine flu outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OGl2cU5iS0R6Y096TW1GLV9rZV9mekFKNUUtQ3NLMzNZSV9QYVZxV1Z2OXVvcWZEME9HMW1GUmQwRnItQTRySGwwX1d6STlvdks1dkszcTZqTVdM?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OGl2cU5iS0R6Y096TW1GLV9rZV9mekFKNUUtQ3NLMzNZSV9QYVZxV1Z2OXVvcWZEME9HMW1GUmQwRnItQTRySGwwX1d6STlvdks1dkszcTZqTVdM?oc=5)
 
 ---
 
@@ -235,22 +251,6 @@ permalink: /news/loxapine/
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
-
----
-
-### ['Painful' sexually transmitted infection that condoms don't prevent is on the rise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
-
----
-
-### [5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
 
 ---
 

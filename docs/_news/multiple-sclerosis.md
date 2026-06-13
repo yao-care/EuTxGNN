@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。7 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>7 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
 
 ### [Japón estudia el origen de las canas y descubre por casualidad que deberías alegrarte de tenerlas - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
 
@@ -72,11 +72,35 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Revision der McDonald-Kriterien für Multiple Sklerose von 2024 - mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
+
+2026-06-12
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
+
+---
+
+### [«L'epidemia di Ebola continua a diffondersi nell'est del Congo»](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
+
+2026-06-12
+
+來源：[cdt.ch](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
+
+---
+
 ### [Magic mushrooms and Alzheimer’s: what one remarkable case can tell us - The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
 
 2026-06-12
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
+
+---
+
+### ['I'm a doctor - this is what I'd eat if I had high cholesterol' - RSVP Live](https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5)
+
+2026-06-12
+
+來源：[RSVP Live](https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5)
 
 ---
 
@@ -101,14 +125,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-11
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRiWkJYMWJyTm5hTHlGMC1aUjZMeVVhNUFtSkI3VE52RUVrRzd6RzVzX3hRSkZRbmpkNjAwcWdtTFM3cDhBcF9NVnBUYWg0aVRlOV9JSUVJd3I3Ti1hSXRnYVR5YkJ4Z05aM1Y1aVNaZmxDT0N5NlM2dTFmSjNPbXozZFRiaWFDRFhXRzMxMzNXRXRSTEVJMzY0OUwzNlk4?oc=5)
-
----
-
-### ['Painful' sexually transmitted infection that condoms don't prevent is on the rise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
-
-2026-06-11
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
 
 ---
 

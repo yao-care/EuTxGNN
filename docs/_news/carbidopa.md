@@ -54,6 +54,14 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（4 則）
 
+### [A Supplement For Joint Pain Could Accelerate Alzheimer's Memory Loss](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDNHMVdvbnVMS01WVEZjdFotNmVKZENEYk5RaUhXRmVGUzVPY3g3Q3hQX0VQWE4wQWN4aE9TTnJFUzhOY2Y2S2F5aHRtUWJrS3Y5YUpBREtoeHh4a3IxcTBKdnpkWU9WZlkwaUVqUEtVU0FyWVVNdHZsNjJ0dTF6RU4ybTdRNTRkVV93d0JjNXNIZXRub2NHa25TMEk?oc=5)
+
+2026-06-13 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDNHMVdvbnVMS01WVEZjdFotNmVKZENEYk5RaUhXRmVGUzVPY3g3Q3hQX0VQWE4wQWN4aE9TTnJFUzhOY2Y2S2F5aHRtUWJrS3Y5YUpBREtoeHh4a3IxcTBKdnpkWU9WZlkwaUVqUEtVU0FyWVVNdHZsNjJ0dTF6RU4ybTdRNTRkVV93d0JjNXNIZXRub2NHa25TMEk?oc=5)
+
+---
+
 ### [Dementia care scandal: 'No one likes to ask what happens when the money runs out?'](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeElKMUVwVjhFSmcwV0o1ejBvQ1c2Z3FXaV9CWGN0VzFxcWJNYnhBX0tacFFiOWhqZHAtal9GY1JOREtFbTJaWXIwM09ic2twRnRfcDJrOXY5MUFwSXBPbFFwOEk5T05DYkZGLWJobzRUclh5LTg5R3hCOGttRk94eW9oakdPNkMydHNHOW9mX1NrNTBnV2h1YjM0dlNoUEnSAaQBQVVfeXFMT2Q4Qm1XWkcySldfY0xvMlEtMllRLThhQ202ME11RmVXNVlPRHp6eWM1R2IxZVA0MUFpdnhSb3pZSUs1QS1VMmVTelltSU1meXQzVTRGbTdBWHloa0I3aXZkenZDMkkxc1VHQXZDRjN2QWdzTnV5aFRZTzBWRlMyS1NsVFgzQ2JoUk1PeVkxaDJYYlA0Q3BaRkRaQVJxc2hyanJNSjE?oc=5)
 
 2026-06-12 <span class="news-indication-tag">dementia</span>
@@ -67,14 +75,6 @@ permalink: /news/carbidopa/
 2026-06-12 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
-
----
-
-### [Scientists Found a New Alzheimer's Trigger, And a Drug to Slow It in Mice](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT004SmtQMTlIVDFWejVDMXk0UWJ3dXR3Uld5ejRlQVRyMUZHbnhpNjZJOFZMVFBnUlpYcXJHYzA3d3QtU2paZjdTLWVNR3FjNHBSWS1ldHhnczJyN2tyNXlkNko2OWJ5RndKcUtaelNZVVlzenozZUFKZnN5RGl0ODg5dzBNd1dJd2oxR1VoTTFscVItMjhFbkpidGo0VFRZS3c?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT004SmtQMTlIVDFWejVDMXk0UWJ3dXR3Uld5ejRlQVRyMUZHbnhpNjZJOFZMVFBnUlpYcXJHYzA3d3QtU2paZjdTLWVNR3FjNHBSWS1ldHhnczJyN2tyNXlkNko2OWJ5RndKcUtaelNZVVlzenozZUFKZnN5RGl0ODg5dzBNd1dJd2oxR1VoTTFscVItMjhFbkpidGo0VFRZS3c?oc=5)
 
 ---
 

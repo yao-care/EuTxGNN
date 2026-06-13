@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Il 99% di infarti e ictus è collegato a 4 fattori di rischio: i risultati del maxi studio su JACC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">ictus</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

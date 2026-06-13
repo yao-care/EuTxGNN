@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+
+2026-06-13 <span class="news-indication-tag">asma</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+
+---
+
+### ["El asma puede controlarse mucho mejor que hace unos años" - IM Médico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWtOY2pRYmcwVG42eVBzX2pKa2JUaV8tMWVWVUYybVNGNzVMb0VaYmJOU3NaMkhVMXJTOThNUFlXWmd3S1dVTW9VSTZaVURfX0M2WDI1RDQ0Y2dqc3FiLU4yMGMwSUlTNS1rUVoyTnd2ZkJkRFZQM0hYOE9BMS1wdXR4TkFjU1RvalhQa2Z6OGxSZnRJb213cDV3NkhLTVk4bVpmQnBrWDJtTkw0WXZsU9IBqwFBVV95cUxPN2g1c3J2RV9TZ1JrTEZzX3g0X0dYOVpadjdkMEVEckVjaXI5amhvSGdGRDdjTXd2UzdndmVYSGpoYkppWnplUzBIM09ZcWdQNjJDa2xzb2hjLTdLV1hMR2dPa25VWjBfdG5Ua2RjYzRJWXI0b1V1UGdCSmJ0N1JURUFwUkxWc0wxZHBaNHdPckwxZ3lSMVhvMzlObEYwRmhYaGItcWhoWXNSYmM?oc=5)
+
+2026-06-12 <span class="news-indication-tag">asma</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWtOY2pRYmcwVG42eVBzX2pKa2JUaV8tMWVWVUYybVNGNzVMb0VaYmJOU3NaMkhVMXJTOThNUFlXWmd3S1dVTW9VSTZaVURfX0M2WDI1RDQ0Y2dqc3FiLU4yMGMwSUlTNS1rUVoyTnd2ZkJkRFZQM0hYOE9BMS1wdXR4TkFjU1RvalhQa2Z6OGxSZnRJb213cDV3NkhLTVk4bVpmQnBrWDJtTkw0WXZsU9IBqwFBVV95cUxPN2g1c3J2RV9TZ1JrTEZzX3g0X0dYOVpadjdkMEVEckVjaXI5amhvSGdGRDdjTXd2UzdndmVYSGpoYkppWnplUzBIM09ZcWdQNjJDa2xzb2hjLTdLV1hMR2dPa25VWjBfdG5Ua2RjYzRJWXI0b1V1UGdCSmJ0N1JURUFwUkxWc0wxZHBaNHdPckwxZ3lSMVhvMzlObEYwRmhYaGItcWhoWXNSYmM?oc=5)
+
+---
 
 ### [I livelli di vitamina C nel plasma condizionano la connettività e il volume cerebrale negli anziani - Corriere della Sera](https://news.google.com/rss/articles/CBMiowJBVV95cUxNaVJnaUs0eXNUaEJ2Zy1ZZ3Y2dm0zeEVNbHd2VXhiV0RmZ1lRQU5CMk1OblF0bHVYS2ZOUXJOZUdwRXMzT20wc3NDYklUN21QQi11N0x4eW1DUXZpbG5YS1lnS3FaRERhUHNzWEJOTjZQZ2tpVGpFSXF5OTdnekhyUUhheXA5ZjRBdVNtZ0tjMl90ajZ4Y1hIX2xrd3FINWpsbHBPZS1mYlZIVmo4TFJpWlFhZmhubWR3MGI0N0JHVC1VZVdtVmoxQUJfM3Vpb2hxTThhTmpaUzBnXzVCYktBZG12b09HNXdhZWgtal9QeGFySnpaeGQwdmFIM0RmTVN1YXo0NWpKb0s4alhoWDQ2U0hzY05UNGplSGx1Q2FUY1dwazDSAagCQVVfeXFMT2lURHpOeUlmMmw2R2FHbFZqSnY1MHNTZ2RsS1pSNmJJWGFaY08ycWVUMHVfUkZTM1NTZkxpdGVKMm5SbUtsZVlrZFJrMnJsY0EzZWs3OGdmSFFoeXRHakNoMzFVX3ZCdkpQUjlxcnBubE52YU0yNnd3eTZuWmFZWVZZMHZjbFVKMWZISkFmSXhseXZsRVJncFozc2F6R0VwWkVabW9DbWczQjZmVmJmZC1VNTFHRUhBa29GQXQ1b0V4YnFrR0JkdFZXaVM4d0sxLWFtSjl3WE8xUHhVeGlwRmlWQjM2bXV1dndsaWJLem1oNU1jRjBBZTVOaWNwdW5CYjFPMVZPQ3ZTRG94NHEwclRZcW02WFBfaUozeGd6YzFTMnNSeTdndGg?oc=5)
 

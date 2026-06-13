@@ -14,7 +14,7 @@ permalink: /news/risperidone/
 ---
 
 <p class="key-answer" data-question="Risperidone 有什麼相關新聞？">
-<strong>Risperidone</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Risperidone</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/risperidone/
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（18 則）
+
+### [Jóvenes investigadores debaten sobre salud cardiovascular en Madrid - Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
+
+2026-06-13 <span class="news-indication-tag">AF</span>
+
+來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
+
+---
 
 ### [RFK Jr can be a crank, but he’s not wrong about Lyme disease - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5)
 
 2026-06-13 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5)
-
----
-
-### [Sardines en boîte : les ventes s’affolent ! Autrefois ringardes, pourquoi sont-elles de nouveau à la mode](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeVFPMVROeHVnM0hyNWZIc2htQURhNlZGTkVhbl9PSGxUT1ZlZW5vVW9zRE5GMno0Y0FiU0VIcWJCeUNPSXVzMTdJSjZCeFBrWkdPOHJXai1qTkh3MnV0VmZxS2JZX19yYlN0UzFqNktwUkdKaEIwcnh3Vl9BRXFtdklwdDRmbHdYVlcyS0JRR3RYdG1WNG5oeldCcDNkV1hYRld5am16cUFVLUpFWkpZbS12eUhyYUNuVnk5Y0Q1TmFDSkNxQmF0LWh6ak1PaksxaGJRVEhQLW05T0VkV3JYV3hB?oc=5)
-
-2026-06-13 <span class="news-indication-tag">AF</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeVFPMVROeHVnM0hyNWZIc2htQURhNlZGTkVhbl9PSGxUT1ZlZW5vVW9zRE5GMno0Y0FiU0VIcWJCeUNPSXVzMTdJSjZCeFBrWkdPOHJXai1qTkh3MnV0VmZxS2JZX19yYlN0UzFqNktwUkdKaEIwcnh3Vl9BRXFtdklwdDRmbHdYVlcyS0JRR3RYdG1WNG5oeldCcDNkV1hYRld5am16cUFVLUpFWkpZbS12eUhyYUNuVnk5Y0Q1TmFDSkNxQmF0LWh6ak1PaksxaGJRVEhQLW05T0VkV3JYV3hB?oc=5)
 
 ---
 
@@ -102,11 +102,11 @@ permalink: /news/risperidone/
 
 ---
 
-### [El CNIC y la Fundación AstraZeneca reúnen en Madrid a jóvenes científicos y líderes europeos para impulsar la estrategia cardiovascular SAFE HEARTS PLAN'](https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHdOdUJqZWtHblNQdmtFRlZDbTJiVHg0aWFvQzMyUlZhUzBxLVR0a3JuOUZMZVJwcUF0d2VFcDk4dmpDRXZOeEN0b1FyMjc0ZXBzRjNmOEV4WFFSdU00QlRrWXVuOUJrTnl0RHlkdTVTeG1MNUJMN1hqY1BXempHSUxzUkN5R2M3c3BjTEhDVmxrQjBrTS1SY2p0Y3gwSVRkR1VndVlSZjFmWHd5UW4tbG9PS1BVaUNEdWpuX3EwNHduVkZWLWNMSXpKeDZFaUsyLW8wdHRGVmo1ek0wQmZzX1k5eGJiRkVOUkVVTWZfWVJnc210VTN0eVpZX1IzMS0zMjlrYVNtaDBBaUI3?oc=5)
+### [150 000 personnes suivies durant 30 ans. Verdict ? Le combo « cardio + muscu », c’est le top pour la longévité - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2pSMGRmczByaDVRQkhHekh0UFZidXE5OVlFMUdfWU1TUVYyNmh6NTFFbllva2dTZ2I3YW1oZ3ZlRVpyQUhwOWRndk90MXZ4azhzWldILU5GZHlrX0lrYm4zVVloT3hDWGVPZldleDZ0Mk1DYk9EbGM5aUhIY2JXWnhZVThUSGpJQThKYno2T2JHMktzWUxCZGdpbDRiWWQ1X2EwYWRGQ2lJTHZaUGRCV3ZUaldkdThqUUhwc3R2eWEycVo1NlBET1JXVkw4UjlXTkxQYUtNY05xTVVvNW12bWxB?oc=5)
 
 2026-06-12 <span class="news-indication-tag">AF</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHdOdUJqZWtHblNQdmtFRlZDbTJiVHg0aWFvQzMyUlZhUzBxLVR0a3JuOUZMZVJwcUF0d2VFcDk4dmpDRXZOeEN0b1FyMjc0ZXBzRjNmOEV4WFFSdU00QlRrWXVuOUJrTnl0RHlkdTVTeG1MNUJMN1hqY1BXempHSUxzUkN5R2M3c3BjTEhDVmxrQjBrTS1SY2p0Y3gwSVRkR1VndVlSZjFmWHd5UW4tbG9PS1BVaUNEdWpuX3EwNHduVkZWLWNMSXpKeDZFaUsyLW8wdHRGVmo1ek0wQmZzX1k5eGJiRkVOUkVVTWZfWVJnc210VTN0eVpZX1IzMS0zMjlrYVNtaDBBaUI3?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2pSMGRmczByaDVRQkhHekh0UFZidXE5OVlFMUdfWU1TUVYyNmh6NTFFbllva2dTZ2I3YW1oZ3ZlRVpyQUhwOWRndk90MXZ4azhzWldILU5GZHlrX0lrYm4zVVloT3hDWGVPZldleDZ0Mk1DYk9EbGM5aUhIY2JXWnhZVThUSGpJQThKYno2T2JHMktzWUxCZGdpbDRiWWQ1X2EwYWRGQ2lJTHZaUGRCV3ZUaldkdThqUUhwc3R2eWEycVo1NlBET1JXVkw4UjlXTkxQYUtNY05xTVVvNW12bWxB?oc=5)
 
 ---
 
@@ -115,6 +115,14 @@ permalink: /news/risperidone/
 2026-06-12 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBoWkltUkV2bUd1SkN0WlVfZlBkS0VQbUJxRTRsVUg5X1puSjZxZjl6cWFNTmpfSENGa2psRmxDbWZSVVE?oc=5)
+
+---
+
+### ['I'm a doctor - this is what I'd eat if I had high cholesterol' - RSVP Live](https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[RSVP Live](https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5)
 
 ---
 
@@ -142,11 +150,11 @@ permalink: /news/risperidone/
 
 ---
 
-### [Dad with cancer left in £4,500 debt after company mistakenly paid him - Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
+### [Dad with cancer £4,500 in debt after work accidentally paid him - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUGNvb19vSWVlUm54VDdtOF9ONVZYQWNRQno1ZDFDWjRlRExPOTJjWUxGLUpvT0dJWUJyQ3Nrb0Y5N285U2x3cjRqWmktUUl3Z3R4MnF4OHM5MG9fQmpwTWViRC00S3gtdTFuUzRMcl9FcEJXMHRNLXB6RGfSAYIBQVVfeXFMT2ExaUdqRVJpREJ0UGdMQldtd1Q1TnpPU2lFQjJnX3VvT2lUeFFwaEdFRHBXVTB0bHZKempEU09PTmhUbEdfU3JTOHdCeDQtMXQzX0JidndBX0dkZ1VoTmlBeUExLXpwQVZZWkJ2TkJWWmRyNDc0VVp6RHpVcGtxN3B1dw?oc=5)
 
 2026-06-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUGNvb19vSWVlUm54VDdtOF9ONVZYQWNRQno1ZDFDWjRlRExPOTJjWUxGLUpvT0dJWUJyQ3Nrb0Y5N285U2x3cjRqWmktUUl3Z3R4MnF4OHM5MG9fQmpwTWViRC00S3gtdTFuUzRMcl9FcEJXMHRNLXB6RGfSAYIBQVVfeXFMT2ExaUdqRVJpREJ0UGdMQldtd1Q1TnpPU2lFQjJnX3VvT2lUeFFwaEdFRHBXVTB0bHZKempEU09PTmhUbEdfU3JTOHdCeDQtMXQzX0JidndBX0dkZ1VoTmlBeUExLXpwQVZZWkJ2TkJWWmRyNDc0VVp6RHpVcGtxN3B1dw?oc=5)
 
 ---
 
@@ -163,14 +171,6 @@ permalink: /news/risperidone/
 2026-06-12 <span class="news-indication-tag">AF</span>
 
 來源：[RFI](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUGE2QUtfWkpaMG44ZzQ4czVCSWdjQ1IxSHJuR3dLTkJPOFlkQjVHMVhjZnN1NF9OMnN4UVk2MGhtRzFSUWU2TFFHb0FUT1dfZHUwbkJrQVN4WGpYdnB6OEljSFV2X19GZTlSclJzS3cxYUNyOHpYMTJXa1ZmT3NydlhaVGdGSzZjWW1FZ3hlQTNOTzI5RjhsUkoxLUJMTlkzUVMyV19JdFF3Mm9yUU5ZRlJsQ0tBQ0MzU0N6bGRfeGtfejZTaTMzdnJQVi1nMVptdHNrMWFFS1N6ajdJNXRoeWhUSQ?oc=5)
-
----
-
-### [Calls for horses to be vaccinated following equine flu outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OGl2cU5iS0R6Y096TW1GLV9rZV9mekFKNUUtQ3NLMzNZSV9QYVZxV1Z2OXVvcWZEME9HMW1GUmQwRnItQTRySGwwX1d6STlvdks1dkszcTZqTVdM?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OGl2cU5iS0R6Y096TW1GLV9rZV9mekFKNUUtQ3NLMzNZSV9QYVZxV1Z2OXVvcWZEME9HMW1GUmQwRnItQTRySGwwX1d6STlvdks1dkszcTZqTVdM?oc=5)
 
 ---
 
@@ -195,14 +195,6 @@ permalink: /news/risperidone/
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
-
----
-
-### [5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/concizumab/
 ---
 
 <p class="key-answer" data-question="Concizumab 有什麼相關新聞？">
-<strong>Concizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Concizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/concizumab/
 <p><a href="{{ '/drugs/concizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
+
+2026-06-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
+
+---
 
 ### [Diabetes und Infektionen: Typ-1 deutlich stärker gefährdet als Typ 2 - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
 
@@ -62,19 +70,11 @@ permalink: /news/concizumab/
 
 ---
 
-### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
-
-2026-06-12 <span class="news-indication-tag">diabetes</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
-
----
-
-### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+### [Los médicos recuerdan que la obesidad, la diabetes, el daño renal y el riesgo vascular no son enfermedades aisladas](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
 
 2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/concizumab/
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
-
----
-
-### [5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
 
 ---
 
