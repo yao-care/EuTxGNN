@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
 
 ### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
 
 2026-06-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
+
+---
+
+### [Vitamin C may help preserve brain gray matter volume as we age - Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
+
+2026-06-12 <span class="news-indication-tag">asma</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/somapacitan/
 2026-06-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
+
+---
+
+### [I livelli di vitamina C nel plasma condizionano la connettività e il volume cerebrale negli anziani - Corriere della Sera](https://news.google.com/rss/articles/CBMiowJBVV95cUxNaVJnaUs0eXNUaEJ2Zy1ZZ3Y2dm0zeEVNbHd2VXhiV0RmZ1lRQU5CMk1OblF0bHVYS2ZOUXJOZUdwRXMzT20wc3NDYklUN21QQi11N0x4eW1DUXZpbG5YS1lnS3FaRERhUHNzWEJOTjZQZ2tpVGpFSXF5OTdnekhyUUhheXA5ZjRBdVNtZ0tjMl90ajZ4Y1hIX2xrd3FINWpsbHBPZS1mYlZIVmo4TFJpWlFhZmhubWR3MGI0N0JHVC1VZVdtVmoxQUJfM3Vpb2hxTThhTmpaUzBnXzVCYktBZG12b09HNXdhZWgtal9QeGFySnpaeGQwdmFIM0RmTVN1YXo0NWpKb0s4alhoWDQ2U0hzY05UNGplSGx1Q2FUY1dwazDSAagCQVVfeXFMT2lURHpOeUlmMmw2R2FHbFZqSnY1MHNTZ2RsS1pSNmJJWGFaY08ycWVUMHVfUkZTM1NTZkxpdGVKMm5SbUtsZVlrZFJrMnJsY0EzZWs3OGdmSFFoeXRHakNoMzFVX3ZCdkpQUjlxcnBubE52YU0yNnd3eTZuWmFZWVZZMHZjbFVKMWZISkFmSXhseXZsRVJncFozc2F6R0VwWkVabW9DbWczQjZmVmJmZC1VNTFHRUhBa29GQXQ1b0V4YnFrR0JkdFZXaVM4d0sxLWFtSjl3WE8xUHhVeGlwRmlWQjM2bXV1dndsaWJLem1oNU1jRjBBZTVOaWNwdW5CYjFPMVZPQ3ZTRG94NHEwclRZcW02WFBfaUozeGd6YzFTMnNSeTdndGg?oc=5)
+
+2026-06-12 <span class="news-indication-tag">asma</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiowJBVV95cUxNaVJnaUs0eXNUaEJ2Zy1ZZ3Y2dm0zeEVNbHd2VXhiV0RmZ1lRQU5CMk1OblF0bHVYS2ZOUXJOZUdwRXMzT20wc3NDYklUN21QQi11N0x4eW1DUXZpbG5YS1lnS3FaRERhUHNzWEJOTjZQZ2tpVGpFSXF5OTdnekhyUUhheXA5ZjRBdVNtZ0tjMl90ajZ4Y1hIX2xrd3FINWpsbHBPZS1mYlZIVmo4TFJpWlFhZmhubWR3MGI0N0JHVC1VZVdtVmoxQUJfM3Vpb2hxTThhTmpaUzBnXzVCYktBZG12b09HNXdhZWgtal9QeGFySnpaeGQwdmFIM0RmTVN1YXo0NWpKb0s4alhoWDQ2U0hzY05UNGplSGx1Q2FUY1dwazDSAagCQVVfeXFMT2lURHpOeUlmMmw2R2FHbFZqSnY1MHNTZ2RsS1pSNmJJWGFaY08ycWVUMHVfUkZTM1NTZkxpdGVKMm5SbUtsZVlrZFJrMnJsY0EzZWs3OGdmSFFoeXRHakNoMzFVX3ZCdkpQUjlxcnBubE52YU0yNnd3eTZuWmFZWVZZMHZjbFVKMWZISkFmSXhseXZsRVJncFozc2F6R0VwWkVabW9DbWczQjZmVmJmZC1VNTFHRUhBa29GQXQ1b0V4YnFrR0JkdFZXaVM4d0sxLWFtSjl3WE8xUHhVeGlwRmlWQjM2bXV1dndsaWJLem1oNU1jRjBBZTVOaWNwdW5CYjFPMVZPQ3ZTRG94NHEwclRZcW02WFBfaUozeGd6YzFTMnNSeTdndGg?oc=5)
 
 ---
 
@@ -99,6 +115,14 @@ permalink: /news/somapacitan/
 2026-06-11 <span class="news-indication-tag">diabetes</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2c0cHl2YXlaZkYzRGxfQTJza2tJNmpnQnYtM2gycnNHTWpWd21VSkFueVFXQmNJMFFsbHk0bGFXeDhyY2ZpakFJN3hZMW1aTXA2c3hUZDJzUHMzQmppVHEzNjZKc2d1QXpQQVU5NmE3MGhvRG13ZHBlOWNIVVAwczE1Y1RZdjNzZkd3ZWk1SzVsQnZhTGVhUzBWRW5ZemRtQjRaT1V5Y3g2Sk90c1BXZzRyT3dIYVE?oc=5)
+
+---
+
+### [5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
 
 ---
 

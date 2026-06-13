@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Inquest jury concludes Hampshire boy died of natural causes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
+
+---
 
 ### [A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
 
@@ -62,11 +70,35 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Magic mushrooms and Alzheimer’s: what one remarkable case can tell us - The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
+
+2026-06-12 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
+
+---
+
+### [Multiple Sklerose: Ketogene Diät reduziert Fatigue messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWC01dklPN1RZTVQ1ZDVWbVRuWlNJc25NeXgtSGJkYk5lUUxOQWczMVN2elNxMUdIRG0xbmlZZ1BadTY1NTVtNXljZnYzX0w1MnFNd284SkdaYzkxNHItT0wwQksyVlFkeVF6YldEQkJHTHd4LTNqTmRuZHNoT1hmbFNBb0N1TTZnZ1NyRmh0akRpQ2hOYzdCc2hzRmotWGdSQWFkZUp3Q1JTazg?oc=5)
+
+2026-06-12 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWC01dklPN1RZTVQ1ZDVWbVRuWlNJc25NeXgtSGJkYk5lUUxOQWczMVN2elNxMUdIRG0xbmlZZ1BadTY1NTVtNXljZnYzX0w1MnFNd284SkdaYzkxNHItT0wwQksyVlFkeVF6YldEQkJHTHd4LTNqTmRuZHNoT1hmbFNBb0N1TTZnZ1NyRmh0akRpQ2hOYzdCc2hzRmotWGdSQWFkZUp3Q1JTazg?oc=5)
+
+---
+
 ### [Un integratore accelera la progressione dell'Alzheimer: il farmaco, lo studio, i risultati - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2ZUYlZlc21sQUdyeVJMLVpqSVZXTEVOVzRvc184MDRrR002OWN4MXJlTFVBS3ZnNGZ6d3NSdEtoVHpSRWd1TFJtMHdJdXlTMVgyVGtudS1FaGZuSWcyeGdTc2tDbWl4bTdaX21WT0wxMlFlUjl0NVcyenotVWJNVXd5S0l0WU5KaTRHSllPY0dkWkstRExHWEJfQ1BCdTkxb19BVWdyWVNVZ1Fpbm5tQ2xZQTVTbVhKU1BQUGhrUVNRYkRkZnpUVUlWWjAzdmJFbHVyUkJJb0d0OXBOcE5kMldKY01TUTc5WEE?oc=5)
 
 2026-06-11 <span class="news-indication-tag">MS</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2ZUYlZlc21sQUdyeVJMLVpqSVZXTEVOVzRvc184MDRrR002OWN4MXJlTFVBS3ZnNGZ6d3NSdEtoVHpSRWd1TFJtMHdJdXlTMVgyVGtudS1FaGZuSWcyeGdTc2tDbWl4bTdaX21WT0wxMlFlUjl0NVcyenotVWJNVXd5S0l0WU5KaTRHSllPY0dkWkstRExHWEJfQ1BCdTkxb19BVWdyWVNVZ1Fpbm5tQ2xZQTVTbVhKU1BQUGhrUVNRYkRkZnpUVUlWWjAzdmJFbHVyUkJJb0d0OXBOcE5kMldKY01TUTc5WEE?oc=5)
+
+---
+
+### [Herzgesundheit in den Wechseljahren im Kreis Bergstraße - Bergsträsser Anzeiger](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWnRqVzQ4UDY5VTFzMFpQRlp3dHFYMzJfY3NacnM1eHc2dzg2ckJ3ZWNKLTJmbXhJRThkS1ZaXzlZOUlOOFVPeURiYW9hY1lQTUU3V0lxVUtxQUxBbHcwU290Smkzd3otREFRSW1MemxtWEpmT2ZremZoSDVYNi13eGV1WmlfZC0tb2gzb21MNzNDNGJsWDN5aExuLU1CT2I4cG9YNUlPYU0xeFJIUWs2aGYwLS12X1lyVE9OX3l5ajUyRW1HenpubWxoOVQ5aHJqU3FYdFc0dktkODFHd1AtR21WWGFBZGdyUm9PeGo4MHJWelg4Nm5fOA?oc=5)
+
+2026-06-11 <span class="news-indication-tag">MS</span>
+
+來源：[Bergsträsser Anzeiger](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWnRqVzQ4UDY5VTFzMFpQRlp3dHFYMzJfY3NacnM1eHc2dzg2ckJ3ZWNKLTJmbXhJRThkS1ZaXzlZOUlOOFVPeURiYW9hY1lQTUU3V0lxVUtxQUxBbHcwU290Smkzd3otREFRSW1MemxtWEpmT2ZremZoSDVYNi13eGV1WmlfZC0tb2gzb21MNzNDNGJsWDN5aExuLU1CT2I4cG9YNUlPYU0xeFJIUWs2aGYwLS12X1lyVE9OX3l5ajUyRW1HenpubWxoOVQ5aHJqU3FYdFc0dktkODFHd1AtR21WWGFBZGdyUm9PeGo4MHJWelg4Nm5fOA?oc=5)
 
 ---
 
@@ -86,14 +118,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Multiple Sklerose: Keto-Diät reduziert Fatigue und Schwäche messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYy1KZUlybWdBVFIxeHZhNHdrSTZKN0xpeEZtajUxM1JNeXBYakhYUVUtakc3WE9EcVdtQ0FjZ3c5ZklNMDVjTHJpajlCVHhrQkcwQmxNWExjQUp1VkU0MEg2UWl0bUEtTUZodnpNTExSMGxyQUNrdG1BX1puN3ZIZWR2OHJqTzZIWHlGZlZ3X2lKNWJYNUNBMC1DR3FlaTgwc2J0V2RZak5ZUGZzRGpFZmxhMkNEc2xI?oc=5)
-
-2026-06-11 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYy1KZUlybWdBVFIxeHZhNHdrSTZKN0xpeEZtajUxM1JNeXBYakhYUVUtakc3WE9EcVdtQ0FjZ3c5ZklNMDVjTHJpajlCVHhrQkcwQmxNWExjQUp1VkU0MEg2UWl0bUEtTUZodnpNTExSMGxyQUNrdG1BX1puN3ZIZWR2OHJqTzZIWHlGZlZ3X2lKNWJYNUNBMC1DR3FlaTgwc2J0V2RZak5ZUGZzRGpFZmxhMkNEc2xI?oc=5)
-
----
-
 ### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
 2026-06-11 <span class="news-indication-tag">hepatitis</span>
@@ -104,7 +128,7 @@ permalink: /news/grazoprevir/
 
 ### [Omeprazole users with heartburn told they face 'two problems' by practitioner - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjhmemdrMW5hSC1hTVR5QjlOQ01tVFVrOTZIRUlLREQ0QkhBbS1PbEw3bjZOc0UzTmRMSTdBNzl6Z0dfTWZFV1BSR00yWURCRUIwVGxnNnphMHZYbWNDeXJlSGxNcWlDT1V5dXZpMUdWbWNWRkItNVlhRXN1cW45RGVyTGhTbDFXcEHSAY8BQVVfeXFMT0FEbmxoRFNzWHg2dGFGZXdiOU9ZRi1IODBvazllM0VqdHBCU1NWV3l0SzdTdVpNMlJmaHZ0d0lwZW1BN2c2NHFEeE5iTUJKUUVGQ21ZQUhkdi04U2xlY3MtUTJPVzIzUmU0SlRqZjYyc3FqQmhfQWNjakxtV0pmbXItU2x0Rkdra1MxT3pDTXM?oc=5)
 
-2026-06-11 <span class="news-indication-tag">MS</span>
+2026-06-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjhmemdrMW5hSC1hTVR5QjlOQ01tVFVrOTZIRUlLREQ0QkhBbS1PbEw3bjZOc0UzTmRMSTdBNzl6Z0dfTWZFV1BSR00yWURCRUIwVGxnNnphMHZYbWNDeXJlSGxNcWlDT1V5dXZpMUdWbWNWRkItNVlhRXN1cW45RGVyTGhTbDFXcEHSAY8BQVVfeXFMT0FEbmxoRFNzWHg2dGFGZXdiOU9ZRi1IODBvazllM0VqdHBCU1NWV3l0SzdTdVpNMlJmaHZ0d0lwZW1BN2c2NHFEeE5iTUJKUUVGQ21ZQUhkdi04U2xlY3MtUTJPVzIzUmU0SlRqZjYyc3FqQmhfQWNjakxtV0pmbXItU2x0Rkdra1MxT3pDTXM?oc=5)
 
@@ -115,14 +139,6 @@ permalink: /news/grazoprevir/
 2026-06-11 <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUtYMHBPakV2QW1aLWJrcHYwclZhckZkWWg3MnNJXzFvR0lmb3ZRRDFkM2d6cGdCamJ5aVdnanpSYXAtb25wNHhuSGlIVnpJZFYyUlBlUFgwUlhSS1BjQWx2bWJheUctblQ2N1RuSnlKSlJXc05sbjN1TkRldFhRbG1abmZJbEw0Wktfb3UxbjhCdlE1RkVzV0gwQdIBkAFBVV95cUxNZWphdjVzcHlkVm05emM2UFY1d0pmYzBzOENzQmhOMjB0LUVDQUxvdWlMMkRKRjB3aGthclZWaS1hUnljSTYyU2xPVGFwSHRra1dVdmJCTVF1SHJtbUYyei1YaTlMUlV1UElaMFp2N0Vsa0dGQlRhSjdaa3k2LVNadG1sTEFEeGZTUnRwem85TGg?oc=5)
-
----
-
-### [The hidden cost of weight-loss drugs: scurvy, anaemia, bleeding gums - The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2JzcjlZLVpZU1B4bFlBcGhMX2tLbkhJWE9CMVBEME1USHFPanRDODNDSVc3djlBVjFIaU1EWnZ0S01tV2E2RjhFUXhhaGpLU0ZuNl8yMnJUcU44d3JMbXo1SjhKbUVOY3hZRmloR3NmRFdEOEdmTGdqVjhGOU1uZVdfR2hDRi1YT3RLakdBd2Z5NG5UTGc3NjhlT0Fmb3NZeUxqWTBDX2hlTWNPZjBlaUlMcGRFZjVsOEl1Unh1X1JxeERta0tOeURhVWF6QQ?oc=5)
 
 ---
 

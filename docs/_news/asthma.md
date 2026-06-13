@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthme（asthma） 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthme（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthme（asthma） 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
-<strong>asthme（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,23 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Vitamin C may help preserve brain gray matter volume as we age - Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
+
+2026-06-12
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
+
+---
+
+### [I livelli di vitamina C nel plasma condizionano la connettività e il volume cerebrale negli anziani - Corriere della Sera](https://news.google.com/rss/articles/CBMiowJBVV95cUxNaVJnaUs0eXNUaEJ2Zy1ZZ3Y2dm0zeEVNbHd2VXhiV0RmZ1lRQU5CMk1OblF0bHVYS2ZOUXJOZUdwRXMzT20wc3NDYklUN21QQi11N0x4eW1DUXZpbG5YS1lnS3FaRERhUHNzWEJOTjZQZ2tpVGpFSXF5OTdnekhyUUhheXA5ZjRBdVNtZ0tjMl90ajZ4Y1hIX2xrd3FINWpsbHBPZS1mYlZIVmo4TFJpWlFhZmhubWR3MGI0N0JHVC1VZVdtVmoxQUJfM3Vpb2hxTThhTmpaUzBnXzVCYktBZG12b09HNXdhZWgtal9QeGFySnpaeGQwdmFIM0RmTVN1YXo0NWpKb0s4alhoWDQ2U0hzY05UNGplSGx1Q2FUY1dwazDSAagCQVVfeXFMT2lURHpOeUlmMmw2R2FHbFZqSnY1MHNTZ2RsS1pSNmJJWGFaY08ycWVUMHVfUkZTM1NTZkxpdGVKMm5SbUtsZVlrZFJrMnJsY0EzZWs3OGdmSFFoeXRHakNoMzFVX3ZCdkpQUjlxcnBubE52YU0yNnd3eTZuWmFZWVZZMHZjbFVKMWZISkFmSXhseXZsRVJncFozc2F6R0VwWkVabW9DbWczQjZmVmJmZC1VNTFHRUhBa29GQXQ1b0V4YnFrR0JkdFZXaVM4d0sxLWFtSjl3WE8xUHhVeGlwRmlWQjM2bXV1dndsaWJLem1oNU1jRjBBZTVOaWNwdW5CYjFPMVZPQ3ZTRG94NHEwclRZcW02WFBfaUozeGd6YzFTMnNSeTdndGg?oc=5)
+
+2026-06-12
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiowJBVV95cUxNaVJnaUs0eXNUaEJ2Zy1ZZ3Y2dm0zeEVNbHd2VXhiV0RmZ1lRQU5CMk1OblF0bHVYS2ZOUXJOZUdwRXMzT20wc3NDYklUN21QQi11N0x4eW1DUXZpbG5YS1lnS3FaRERhUHNzWEJOTjZQZ2tpVGpFSXF5OTdnekhyUUhheXA5ZjRBdVNtZ0tjMl90ajZ4Y1hIX2xrd3FINWpsbHBPZS1mYlZIVmo4TFJpWlFhZmhubWR3MGI0N0JHVC1VZVdtVmoxQUJfM3Vpb2hxTThhTmpaUzBnXzVCYktBZG12b09HNXdhZWgtal9QeGFySnpaeGQwdmFIM0RmTVN1YXo0NWpKb0s4alhoWDQ2U0hzY05UNGplSGx1Q2FUY1dwazDSAagCQVVfeXFMT2lURHpOeUlmMmw2R2FHbFZqSnY1MHNTZ2RsS1pSNmJJWGFaY08ycWVUMHVfUkZTM1NTZkxpdGVKMm5SbUtsZVlrZFJrMnJsY0EzZWs3OGdmSFFoeXRHakNoMzFVX3ZCdkpQUjlxcnBubE52YU0yNnd3eTZuWmFZWVZZMHZjbFVKMWZISkFmSXhseXZsRVJncFozc2F6R0VwWkVabW9DbWczQjZmVmJmZC1VNTFHRUhBa29GQXQ1b0V4YnFrR0JkdFZXaVM4d0sxLWFtSjl3WE8xUHhVeGlwRmlWQjM2bXV1dndsaWJLem1oNU1jRjBBZTVOaWNwdW5CYjFPMVZPQ3ZTRG94NHEwclRZcW02WFBfaUozeGd6YzFTMnNSeTdndGg?oc=5)
+
+---
 
 ### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Obésité : les conditions de prescription de Wegovy et Mounjaro revues avant leur remboursement - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
 
@@ -78,14 +78,6 @@ permalink: /news/naltrexone/
 
 ---
 
-### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
----
-
 ### [Surpoids des enfants : les leçons de l’expérience positive du Chili, entre pictogrammes dissuasifs et marketing interdit - Le Monde.fr](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSVBSaUU0b3NtZWVGMXQ5NXJTV2dqeWJ1RHBZdVEwbl9yUThlaF83ZzlfaDhiM01ZYjJmVUYtTGJ5ZmsyMHFHdUZqa3lpb2pYTGpVY0g0YVMxQk9TUmNtUC0wOVVOZUNBbDh1c3RmMzFZeVJGSVFfdjdaa0Rrb3JKYzJQOVlTdDBCNjJvQXV4MFd1STZkZER0VWhSeGN0Wm8yNnlMa3Rpd1puY2NvbWNkZ25jb0xmZTE1U0xVTzNmWVo2TFB3NEJvTmhHWVdGbWp2bFlud1MxQ0ZSTmFVZThxUGVqeDlpSVBkT2RYNUxSNHlBd0xobHlJOHVkVUFSclN5TlpfVVVjUzVZYXduczhJ?oc=5)
 
 2026-06-12 <span class="news-indication-tag">obésité</span>
@@ -94,11 +86,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [El hígado graso puede avanzar sin síntomas: éstas son las siete recomendaciones clave de los expertos](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW9VWTNheC1lQ2JEUUNRaGUySGpGd3JhZUpOUVVNVVZXZ2NEVHFZZGEzaWVRQWlWMUNPSTFWMldYNEgtckNmSjdlM0oybVIxcWFQdWY4RVh3alRiRHFhSnF1aFd3cmtZdHJEc1h6R1NHVDR1TU9VQkRzYWpMSG9ocWYxQnp6XzlhMVlGNUhHTHU5SmRwa1IxUGNabjMzd3hVMEgybGVmTUJoNDhSN2MyeDJmWHo1WDR0U2JZWWpaSdIBxAFBVV95cUxOT3BfREpTaGpFNkJ1Q3g4WEdFVVZoU3hwRXR5Y1cyaUd5VlM1R2UxLUZ6YUZEaXJVa0ZGWUNZM2Q2dWhXdlNMeVhSZGpJaURIZTRza3daN1JHTlFLa1BjbUZ2X2NscG5vRmZIRm16cFlnSTF5eHZpdzJJT054ZGRZcWMya0lFT1Z3ZTlPMGdydWxGMmNERzlCckRhUnlNT3I3MGZORDYyd05DRVpGNFplV0x3SXlsaGgzb0hyTi0tSnczOTJh?oc=5)
+### [Endocrinólogos alertan de aumento de hígado graso en niños - El médico interactivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRGVmZFItQ0lZZjJIWWdNaWFjblJkdWQycnlZc3Q0aTZJTy1QcGtYZ24xUXIxQjJXZlV4U3ZkaDNPakl6d2c2ZzgzOUkzWHBDbWJWOHhnU3RlTVFFdDVfeTM1N3ZCNzlwdEZ6VjBtbDJKbWsxWDJES3hnbzVWeGlzZHFGdkVRVm03YlRSYy1DNEpsZ1dtczVfbktpY2dZX1JjcnI0VmVVTFZlMTA4eEg1b1Fna08zRk5jUUNXSjFHV2RIbGtkTnhQXzYyUkVnWEZFN2RZUjFIdm5sbF9fZENQSDRTbw?oc=5)
 
 2026-06-11 <span class="news-indication-tag">obesidad</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW9VWTNheC1lQ2JEUUNRaGUySGpGd3JhZUpOUVVNVVZXZ2NEVHFZZGEzaWVRQWlWMUNPSTFWMldYNEgtckNmSjdlM0oybVIxcWFQdWY4RVh3alRiRHFhSnF1aFd3cmtZdHJEc1h6R1NHVDR1TU9VQkRzYWpMSG9ocWYxQnp6XzlhMVlGNUhHTHU5SmRwa1IxUGNabjMzd3hVMEgybGVmTUJoNDhSN2MyeDJmWHo1WDR0U2JZWWpaSdIBxAFBVV95cUxOT3BfREpTaGpFNkJ1Q3g4WEdFVVZoU3hwRXR5Y1cyaUd5VlM1R2UxLUZ6YUZEaXJVa0ZGWUNZM2Q2dWhXdlNMeVhSZGpJaURIZTRza3daN1JHTlFLa1BjbUZ2X2NscG5vRmZIRm16cFlnSTF5eHZpdzJJT054ZGRZcWMya0lFT1Z3ZTlPMGdydWxGMmNERzlCckRhUnlNT3I3MGZORDYyd05DRVpGNFplV0x3SXlsaGgzb0hyTi0tSnczOTJh?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRGVmZFItQ0lZZjJIWWdNaWFjblJkdWQycnlZc3Q0aTZJTy1QcGtYZ24xUXIxQjJXZlV4U3ZkaDNPakl6d2c2ZzgzOUkzWHBDbWJWOHhnU3RlTVFFdDVfeTM1N3ZCNzlwdEZ6VjBtbDJKbWsxWDJES3hnbzVWeGlzZHFGdkVRVm03YlRSYy1DNEpsZ1dtczVfbktpY2dZX1JjcnI0VmVVTFZlMTA4eEg1b1Fna08zRk5jUUNXSjFHV2RIbGtkTnhQXzYyUkVnWEZFN2RZUjFIdm5sbF9fZENQSDRTbw?oc=5)
 
 ---
 

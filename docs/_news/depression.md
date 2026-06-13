@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Depression: Charité testet Hormon DHEA als Zusatztherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wbWRiT2NaOHcyTjF4TzdGaWRacmpRdVduOUgwSzNGSWxqNjVqTFkzUXM0N3gzUkRxVEhFdDlTUDJUNnlQRDZjTkJFdTEzNndjT21mcVk5em5xX3FxYmFYMk05TUtac3lQVVRZZ1FBTm9JVk5yT3ZvQVlSV2doSU10N0pKYzJ1cFA1OGN6MUw0TEp1aVA3cjZRX3J5c2lCRE5yUWI3QnI?oc=5)
+
+2026-06-13
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wbWRiT2NaOHcyTjF4TzdGaWRacmpRdVduOUgwSzNGSWxqNjVqTFkzUXM0N3gzUkRxVEhFdDlTUDJUNnlQRDZjTkJFdTEzNndjT21mcVk5em5xX3FxYmFYMk05TUtac3lQVVRZZ1FBTm9JVk5yT3ZvQVlSV2doSU10N0pKYzJ1cFA1OGN6MUw0TEp1aVA3cjZRX3J5c2lCRE5yUWI3QnI?oc=5)
+
+---
 
 ### [Selon une étude, les personnes adeptes des horaires de repas irréguliers s'exposent à la dépression !](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkFxYzBja2xocWhOSFp2WC02ci1CVkVxS1RGQXJuUVJLV2dIRTQ0ZGNoTWtCRzhPbVFYUHRxbmJQMi1KVWROS1hTUlpjQ2pDS193Zzh6S1pWbE9wMjVlNkswUmM1WDhWVFFGb0FKaW9QdHJuYVJaQklCazhhZy1EWGVma0hsSlN2TXBPQ1c1dnB5YlQxRXhvbmdrVE52S1VUcHprdjhrbU45eEZiTHVqMEk4bUNkZXkycGNxUW9R?oc=5)
 
@@ -45,27 +53,11 @@ permalink: /news/depression/
 
 ---
 
-### [Depression isn’t just in the head: Scientists find altered genetic activity in white blood cells](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2MwMXh5c2w1RV9PU3kycVhpZ1VXM2o1cXBBcUlrTE1sRUxZLUlWWmRkNEh3azIzdzVwUnNWQndETjdxVmM5X3NyRHA2Rk14TUF3M0NJSTlobXF2UF9VUHFSWVJIU3lKU1kwUXFsX29xd2o2MTdoVjQ1U0NycHV2XzN2SGo2SU50YmYyOHBUTEdmUjB5cnFDSHZNeU9jYVR4S285Zk1EUzNuSjY4dDhOcjlJcnVIWjhfM3VZ?oc=5)
-
-2026-06-12
-
-來源：[PsyPost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2MwMXh5c2w1RV9PU3kycVhpZ1VXM2o1cXBBcUlrTE1sRUxZLUlWWmRkNEh3azIzdzVwUnNWQndETjdxVmM5X3NyRHA2Rk14TUF3M0NJSTlobXF2UF9VUHFSWVJIU3lKU1kwUXFsX29xd2o2MTdoVjQ1U0NycHV2XzN2SGo2SU50YmYyOHBUTEdmUjB5cnFDSHZNeU9jYVR4S285Zk1EUzNuSjY4dDhOcjlJcnVIWjhfM3VZ?oc=5)
-
----
-
 ### [Kaffee: Zwei bis drei Tassen senken Depressions-Risiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5EbGJXb1pBUEVXWG9EWDQtaUMtbXpMcDlnM1FiY0tZaDdaaTRqTHBkT2QyMGR0S2psZnduTnZyYXltbVJ3enRWalhzYnJpdFVZeGxoWEZ0X3RlR1Zsb3F0YVhrYTNQQ2VNZ3J0T2dkOHEwakMyRjMwVlpaamRVdWRWUHpRQzI2QVNMZWNxS0VHczNGXzZYNENIOGdUTzAzRGZ0aGZ0dWtrUTZWblk5Vw?oc=5)
 
 2026-06-11
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5EbGJXb1pBUEVXWG9EWDQtaUMtbXpMcDlnM1FiY0tZaDdaaTRqTHBkT2QyMGR0S2psZnduTnZyYXltbVJ3enRWalhzYnJpdFVZeGxoWEZ0X3RlR1Zsb3F0YVhrYTNQQ2VNZ3J0T2dkOHEwakMyRjMwVlpaamRVdWRWUHpRQzI2QVNMZWNxS0VHczNGXzZYNENIOGdUTzAzRGZ0aGZ0dWtrUTZWblk5Vw?oc=5)
-
----
-
-### [Charité startet DHEA-Studie gegen therapieresistente Depression mit 2,3 Mio. - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1JodGZRWVA0ZmphXzMwYUtuMEtBb2hGN09DZk90ejQ3Vlp1c3VFZUdVNVJ0VUdPVlFLcENaQ1lzNDk4WVBfMzh1eEp4R0taRUg0TUZZNktDUFB5QjI1N1NsMXA1Ynd4SFh6TUY2X0NJejZPTGxVWFdMYXpEdlVVaVRIbTY0NEdwS2p5Z2o5Wl8yandKdS10bDVYcUxLMk9NZWlvN3Z5NmVndw?oc=5)
-
-2026-06-11
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1JodGZRWVA0ZmphXzMwYUtuMEtBb2hGN09DZk90ejQ3Vlp1c3VFZUdVNVJ0VUdPVlFLcENaQ1lzNDk4WVBfMzh1eEp4R0taRUg0TUZZNktDUFB5QjI1N1NsMXA1Ynd4SFh6TUY2X0NJejZPTGxVWFdMYXpEdlVVaVRIbTY0NEdwS2p5Z2o5Wl8yandKdS10bDVYcUxLMk9NZWlvN3Z5NmVndw?oc=5)
 
 ---
 

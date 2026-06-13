@@ -14,7 +14,7 @@ permalink: /news/sitagliptin/
 ---
 
 <p class="key-answer" data-question="Sitagliptin 有什麼相關新聞？">
-<strong>Sitagliptin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Sitagliptin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/sitagliptin/
 <p><a href="{{ '/drugs/sitagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
 ### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
 
@@ -72,6 +72,14 @@ permalink: /news/sitagliptin/
 2026-06-11 <span class="news-indication-tag">diabetes</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2c0cHl2YXlaZkYzRGxfQTJza2tJNmpnQnYtM2gycnNHTWpWd21VSkFueVFXQmNJMFFsbHk0bGFXeDhyY2ZpakFJN3hZMW1aTXA2c3hUZDJzUHMzQmppVHEzNjZKc2d1QXpQQVU5NmE3MGhvRG13ZHBlOWNIVVAwczE1Y1RZdjNzZkd3ZWk1SzVsQnZhTGVhUzBWRW5ZemRtQjRaT1V5Y3g2Sk90c1BXZzRyT3dIYVE?oc=5)
+
+---
+
+### [5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/erlotinib/
 ---
 
 <p class="key-answer" data-question="Erlotinib 有什麼相關新聞？">
-<strong>Erlotinib</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erlotinib</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/erlotinib/
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
-
-### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
-
-2026-06-12 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
-
----
+## 相關新聞（16 則）
 
 ### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/erlotinib/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs besser verstehen: Rieke Schleinhege erhält Promotionspreis der Uni Münster - Medizinische Fakultät Münster](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHliSmlOM2xmYlp2NVhSWHpWVE13MmsxRFlvQXNrWE5SSmhKSEk1N1NNMWNFa3pHMkwzMGVaN3F4VjBnZGpvN3ZuRFVqVThJc2ljckVrTDNfQnlibF9uQVg4VU1zZExmeE84UjA5VjZRc0hkRVpBekcycU1BRFp3ang2WXNkWU9YNXlfUDVJNXhFVllYYmdKaXIyR21yclB3bnlHb1pRRmJPVjE3RHhEanlBZC04YkpwSWRnRkU1eGl2bUVVal9NTzFYQTZWQTJlY1lRYzZsY0xnVUNkV0NrckxOZUNCcmVUYVRESDZn?oc=5)
+### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
-2026-06-12 <span class="news-indication-tag">Krebs</span>
+2026-06-12 <span class="news-indication-tag">tumor</span>
 
-來源：[Medizinische Fakultät Münster](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdHliSmlOM2xmYlp2NVhSWHpWVE13MmsxRFlvQXNrWE5SSmhKSEk1N1NNMWNFa3pHMkwzMGVaN3F4VjBnZGpvN3ZuRFVqVThJc2ljckVrTDNfQnlibF9uQVg4VU1zZExmeE84UjA5VjZRc0hkRVpBekcycU1BRFp3ang2WXNkWU9YNXlfUDVJNXhFVllYYmdKaXIyR21yclB3bnlHb1pRRmJPVjE3RHhEanlBZC04YkpwSWRnRkU1eGl2bUVVal9NTzFYQTZWQTJlY1lRYzZsY0xnVUNkV0NrckxOZUNCcmVUYVRESDZn?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ permalink: /news/erlotinib/
 
 ---
 
-### [Osalan ha reunido al sector de la madera para abordar la prevención del adenocarcinoma de fosas nasales y senos paranasales - Gobierno Vasco](https://news.google.com/rss/articles/CBMiigJBVV95cUxQelhRSlVHTWpuUmg3WlFlNFVFVXZUM21mbGpqTm5UeG5Md0Fuc2hRT1hhdnFBRFp0djc0SWJla3kyWXJYZVdYcEJnaTFwcWNxUk5HVkRaQkNRUjc2bzdiNmpxTXNfMzhmbi0ybnhnZy1oaFNhZFU3QVQyTUVJWG1lbUdDWHZsclByZXY1N21ZLU5SODFKYjktNUluSHRZT2FPaXhPZnJMVHdrZVJTcm1IZ3NOTGFPM1c0b0pOWWdhaTBxeVo0RF9tOE1IOFRqakpKUjRoRjI2UWtpQU93TDFRTnRiTHhKYUFJU2hnc1VUQmFwb0NLN0VtN3U3cEdYd1VKMHR3VWpQa2FnQQ?oc=5)
+### [Avances en cánceres de mama, de próstata, pulmón, tumores GIST y mieloma múltiple](https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3I2dW9xSHo4VUk4RzdWbWV6QXd4bUd2ZmVLRFpjbXZKZVIwNFdBakFrYmVpQW93UkZLTFk3R2pvTVVJX0U3S29IbkhlNGJfY0pMb29ZRmYyX2FYbm92ZVdjNEk3aGVxWklPcE9rVEtiRDBoY3RIcHZ0eHRjZ2hQbUhlczFkQ04tXzd1UDF1T1VsemM5akYxcTBFOUlubk9NZ3VYa2g2aw?oc=5)
 
-2026-06-12 <span class="news-indication-tag">carcinoma</span>
+2026-06-12 <span class="news-indication-tag">tumor</span>
 
-來源：[Euskadi.eus](https://news.google.com/rss/articles/CBMiigJBVV95cUxQelhRSlVHTWpuUmg3WlFlNFVFVXZUM21mbGpqTm5UeG5Md0Fuc2hRT1hhdnFBRFp0djc0SWJla3kyWXJYZVdYcEJnaTFwcWNxUk5HVkRaQkNRUjc2bzdiNmpxTXNfMzhmbi0ybnhnZy1oaFNhZFU3QVQyTUVJWG1lbUdDWHZsclByZXY1N21ZLU5SODFKYjktNUluSHRZT2FPaXhPZnJMVHdrZVJTcm1IZ3NOTGFPM1c0b0pOWWdhaTBxeVo0RF9tOE1IOFRqakpKUjRoRjI2UWtpQU93TDFRTnRiTHhKYUFJU2hnc1VUQmFwb0NLN0VtN3U3cEdYd1VKMHR3VWpQa2FnQQ?oc=5)
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3I2dW9xSHo4VUk4RzdWbWV6QXd4bUd2ZmVLRFpjbXZKZVIwNFdBakFrYmVpQW93UkZLTFk3R2pvTVVJX0U3S29IbkhlNGJfY0pMb29ZRmYyX2FYbm92ZVdjNEk3aGVxWklPcE9rVEtiRDBoY3RIcHZ0eHRjZ2hQbUhlczFkQ04tXzd1UDF1T1VsemM5akYxcTBFOUlubk9NZ3VYa2g2aw?oc=5)
 
 ---
 
@@ -110,11 +102,19 @@ permalink: /news/erlotinib/
 
 ---
 
-### [Candiolo raddoppia: ecco come cambierà il centro oncologico con 200 milioni di investimento - La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxORHN5UkRCX0NHVzdoVm9aRTdYaUExem1JbXhoanozVEYwdTdQY1dEc3JBRGV6bUtuQktLUHBWMzB1cG94V00tYzZROHZzRU9RSEhOd0xPQlVJX0p6S1F4bTFpY2xFaTBoZmFxbG56ZlhQejhReENGcFB6RHJ0dHVXelFpbmpCTzQycS0za283X3RrTVV4dElCUThUeXpLSWRFVExlbUZR0gGrAUFVX3lxTE5sZzZzNjVEVkZRaFFmYzBheVM2RHFKZU9LcklmVHFpTDZKV2w4ejY1dU5jSmJMU0oweU9laXRSX1BxZ21mU3AtSjYtSEZTQ3JYc2tqQy16Tk9DQnhyRDFKdWY2ODJBdHJUNG9PNGVpbjJIV1d1TGpfWnFHb2pSS3I2MWtNZGd2elM2bEpJQVh0S2haVXZTcDdrcGE3TllKSmgyQndZQW5IT1FMbw?oc=5)
+### [Magic mushrooms and Alzheimer’s: what one remarkable case can tell us - The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
 
-2026-06-12 <span class="news-indication-tag">tumor</span>
+2026-06-12 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxORHN5UkRCX0NHVzdoVm9aRTdYaUExem1JbXhoanozVEYwdTdQY1dEc3JBRGV6bUtuQktLUHBWMzB1cG94V00tYzZROHZzRU9RSEhOd0xPQlVJX0p6S1F4bTFpY2xFaTBoZmFxbG56ZlhQejhReENGcFB6RHJ0dHVXelFpbmpCTzQycS0za283X3RrTVV4dElCUThUeXpLSWRFVExlbUZR0gGrAUFVX3lxTE5sZzZzNjVEVkZRaFFmYzBheVM2RHFKZU9LcklmVHFpTDZKV2w4ejY1dU5jSmJMU0oweU9laXRSX1BxZ21mU3AtSjYtSEZTQ3JYc2tqQy16Tk9DQnhyRDFKdWY2ODJBdHJUNG9PNGVpbjJIV1d1TGpfWnFHb2pSS3I2MWtNZGd2elM2bEpJQVh0S2haVXZTcDdrcGE3TllKSmgyQndZQW5IT1FMbw?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
+
+---
+
+### [Scientists Found a New Alzheimer's Trigger, And a Drug to Slow It in Mice](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT004SmtQMTlIVDFWejVDMXk0UWJ3dXR3Uld5ejRlQVRyMUZHbnhpNjZJOFZMVFBnUlpYcXJHYzA3d3QtU2paZjdTLWVNR3FjNHBSWS1ldHhnczJyN2tyNXlkNko2OWJ5RndKcUtaelNZVVlzenozZUFKZnN5RGl0ODg5dzBNd1dJd2oxR1VoTTFscVItMjhFbkpidGo0VFRZS3c?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT004SmtQMTlIVDFWejVDMXk0UWJ3dXR3Uld5ejRlQVRyMUZHbnhpNjZJOFZMVFBnUlpYcXJHYzA3d3QtU2paZjdTLWVNR3FjNHBSWS1ldHhnczJyN2tyNXlkNko2OWJ5RndKcUtaelNZVVlzenozZUFKZnN5RGl0ODg5dzBNd1dJd2oxR1VoTTFscVItMjhFbkpidGo0VFRZS3c?oc=5)
 
 ---
 
@@ -126,19 +126,19 @@ permalink: /news/erlotinib/
 
 ---
 
-### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
----
-
 ### [Herpes zoster am Auge bei Immungesunden kein Hinweis auf erhöhtes Krebsrisiko](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
 
 2026-06-12 <span class="news-indication-tag">Krebs</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
+
+---
+
+### [Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
+
+2026-06-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
 
 ---
 
@@ -163,14 +163,6 @@ permalink: /news/erlotinib/
 2026-06-11 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jYmNscjA1bGt1cjNPaXFDcmhRM1lOaXdVT1pZcFJMbHBtZ1RSUVZ5dWpiZDVXSGg3aUZMbEhoX25COFVYblBEVzBWN0ZJV1ZkbHFNak5XN1lwNl9GZTNXX3psUmNBc200eVpWS3I0Q2VIYVZBeGhJUS1xbkFIUQ?oc=5)
-
----
-
-### [Sonne: der mythos vom gesunden sonnenlook zerbricht! - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzl4QVZ6X0hVVXp4Z2prNWtuWVB6N0hvTDBWdTFNS0ROWlJ4YVhMUHkxUzFjbGlYSlNOTnJLSFh0SnlzWVJxMU9WdUVqTGEwbTJIdk9EWUtQNUF4Wm5Jd2pPeGFGeEVxZmxoeWtZSERJUTduS3ltWHI4d2lRbVVhWnhJSlp5aUhKMlE?oc=5)
-
-2026-06-11 <span class="news-indication-tag">Krebs</span>
-
-來源：[TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzl4QVZ6X0hVVXp4Z2prNWtuWVB6N0hvTDBWdTFNS0ROWlJ4YVhMUHkxUzFjbGlYSlNOTnJLSFh0SnlzWVJxMU9WdUVqTGEwbTJIdk9EWUtQNUF4Wm5Jd2pPeGFGeEVxZmxoeWtZSERJUTduS3ltWHI4d2lRbVVhWnhJSlp5aUhKMlE?oc=5)
 
 ---
 

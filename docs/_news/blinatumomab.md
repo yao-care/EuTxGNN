@@ -14,7 +14,7 @@ permalink: /news/blinatumomab/
 ---
 
 <p class="key-answer" data-question="Blinatumomab 有什麼相關新聞？">
-<strong>Blinatumomab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Blinatumomab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/blinatumomab/
 <li>pseudo-von Willebrand disease（94.1%）</li>
 <li>drug-induced osteoporosis（92.7%）</li>
 <li>severe nonproliferative diabetic retinopathy（89.2%）</li>
-<li>psoriasis（88.9%）</li>
+<li class="indication-matched">psoriasis（88.9%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>Ledderhose disease（88.4%）</li>
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（87.9%）</li>
 <li>penile fibromatosis（87.8%）</li>
@@ -52,7 +52,15 @@ permalink: /news/blinatumomab/
 <p><a href="{{ '/drugs/blinatumomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [32º Congreso SEMG: La psoriasis obliga a mirar más allá de la piel para prevenir complicaciones cardiovasculares - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2plNU1rMHhqVWxyaWt2RngycUFiNGxKMjkxalF5RFE3ZXBzOXZjUG5NclhyS1FpX1phdldyVEQ4Q211dGdzWXJnTFdpQ2R4ZlF6MkdEVmxtbkZNYThGQm51RDd4YlJNcTkxeDNjalE2TG80elF4VjlNQy1fNEFfamhDcExvZEU0RFhKWGNXbzV3V3libWNDeXZCMlg0c3NyaXJxclM0a01BVjB6R1ptajNoRDFkTThvZ1HSAbQBQVVfeXFMT1BfYllkbVlBYzdEcm9KYWl1eEtoVHc3WDZRenNSaHJhcktWMDNkRzRaa2JneXpRNzVXSnFMbE9KcDcwSmZ5NnVwUXRLYjRyZnMxdzE4QXJJOEpRUkZBMzN1Q1VkY3lIUmJjRHkxS1VveXhkd2NWVElvcVRuTm9SaElMdE83X2Yyd1psa0lKVnF1VmZHSHRsN1dGTXhSWkZuMWE3dnE4RG9RSkhlNnJ0aWs1dGlW?oc=5)
+
+2026-06-12 <span class="news-indication-tag">psoriasis</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2plNU1rMHhqVWxyaWt2RngycUFiNGxKMjkxalF5RFE3ZXBzOXZjUG5NclhyS1FpX1phdldyVEQ4Q211dGdzWXJnTFdpQ2R4ZlF6MkdEVmxtbkZNYThGQm51RDd4YlJNcTkxeDNjalE2TG80elF4VjlNQy1fNEFfamhDcExvZEU0RFhKWGNXbzV3V3libWNDeXZCMlg0c3NyaXJxclM0a01BVjB6R1ptajNoRDFkTThvZ1HSAbQBQVVfeXFMT1BfYllkbVlBYzdEcm9KYWl1eEtoVHc3WDZRenNSaHJhcktWMDNkRzRaa2JneXpRNzVXSnFMbE9KcDcwSmZ5NnVwUXRLYjRyZnMxdzE4QXJJOEpRUkZBMzN1Q1VkY3lIUmJjRHkxS1VveXhkd2NWVElvcVRuTm9SaElMdE83X2Yyd1psa0lKVnF1VmZHSHRsN1dGTXhSWkZuMWE3dnE4RG9RSkhlNnJ0aWs1dGlW?oc=5)
+
+---
 
 ### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3RaXzgyQlNDTVA2M0Y1SU1Qa19ZcEowUkk2RlNuQVlzR182ZDh3VERMZ0l3VXJNVW11TmJ3YWpnQ0hLeGloZlRRQVIxVnhXRWwwcVViNkRKNl9tS0x2dFh1aU5KUGxkckVNem1EWm5VVFQwS0p6UUNPQU42OEZuNXFwZ1o2RHhzMHBUUTVvTGVoLUh2dTFLcGFmTERXdl9q?oc=5)
 
@@ -91,6 +99,14 @@ permalink: /news/blinatumomab/
 2026-06-11 <span class="news-indication-tag">diabetes</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2c0cHl2YXlaZkYzRGxfQTJza2tJNmpnQnYtM2gycnNHTWpWd21VSkFueVFXQmNJMFFsbHk0bGFXeDhyY2ZpakFJN3hZMW1aTXA2c3hUZDJzUHMzQmppVHEzNjZKc2d1QXpQQVU5NmE3MGhvRG13ZHBlOWNIVVAwczE1Y1RZdjNzZkd3ZWk1SzVsQnZhTGVhUzBWRW5ZemRtQjRaT1V5Y3g2Sk90c1BXZzRyT3dIYVE?oc=5)
+
+---
+
+### [5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
 
 ---
 

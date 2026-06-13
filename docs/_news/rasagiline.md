@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Magic mushrooms and Alzheimer’s: what one remarkable case can tell us - The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
+
+2026-06-12 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
+
+---
+
+### [Scientists Found a New Alzheimer's Trigger, And a Drug to Slow It in Mice](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT004SmtQMTlIVDFWejVDMXk0UWJ3dXR3Uld5ejRlQVRyMUZHbnhpNjZJOFZMVFBnUlpYcXJHYzA3d3QtU2paZjdTLWVNR3FjNHBSWS1ldHhnczJyN2tyNXlkNko2OWJ5RndKcUtaelNZVVlzenozZUFKZnN5RGl0ODg5dzBNd1dJd2oxR1VoTTFscVItMjhFbkpidGo0VFRZS3c?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT004SmtQMTlIVDFWejVDMXk0UWJ3dXR3Uld5ejRlQVRyMUZHbnhpNjZJOFZMVFBnUlpYcXJHYzA3d3QtU2paZjdTLWVNR3FjNHBSWS1ldHhnczJyN2tyNXlkNko2OWJ5RndKcUtaelNZVVlzenozZUFKZnN5RGl0ODg5dzBNd1dJd2oxR1VoTTFscVItMjhFbkpidGo0VFRZS3c?oc=5)
+
+---
 
 
 <div class="disclaimer">

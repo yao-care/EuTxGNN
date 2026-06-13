@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Gilead moviliza una donación de remdesivir de apoyo a la respuesta al ébola - Redacción Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUks0OWFUMW5nYkZCVEpQUDBEVm9SYk1ZUDNKTTgtd2xOeEk4eGItSngyYko0dTBOdUJ0Y2xjLVFBQnVwYnhKM1BDNnpUbWpXSUY1QzQyMEE1MkpzQ0gyTVpFNkRPQmhzRjNHZV9LOXcxWjRvMmNJekJFTFR6Z2dFenJxR2NoVG5FNUtfdDVXdlFXakkwcGc5RnR2U3FaWWhfZW1iNF9UNzdFRDNiZGQtOWRuSnhtXzI5cXE3MlJoVXh3QdIBwgFBVV95cUxPa1hES2hNMS1sZzBUemF6QjB4UzNjMHFHZEN1eWZFSV80S3NVTEY2azRkVXZRS2dzd0pGaS1QNWN6N21RaU9xaDdiMDBZUm5nTFlPMXZfODlETUtrUUxuYjZnSEhkNkswSXRzS1Yta00taWFNWHlKaXRmRzlNWno1MlBMZnZtMThRZlJOemE4bVFIb0UzaUl5Si1ZSUlHS0tqRk9DYWs5SXVoUWlWZDRCZ3NPZ3I4OG5obzZnYlpneTQzUQ?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Remdesivir</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUks0OWFUMW5nYkZCVEpQUDBEVm9SYk1ZUDNKTTgtd2xOeEk4eGItSngyYko0dTBOdUJ0Y2xjLVFBQnVwYnhKM1BDNnpUbWpXSUY1QzQyMEE1MkpzQ0gyTVpFNkRPQmhzRjNHZV9LOXcxWjRvMmNJekJFTFR6Z2dFenJxR2NoVG5FNUtfdDVXdlFXakkwcGc5RnR2U3FaWWhfZW1iNF9UNzdFRDNiZGQtOWRuSnhtXzI5cXE3MlJoVXh3QdIBwgFBVV95cUxPa1hES2hNMS1sZzBUemF6QjB4UzNjMHFHZEN1eWZFSV80S3NVTEY2azRkVXZRS2dzd0pGaS1QNWN6N21RaU9xaDdiMDBZUm5nTFlPMXZfODlETUtrUUxuYjZnSEhkNkswSXRzS1Yta00taWFNWHlKaXRmRzlNWno1MlBMZnZtMThRZlJOemE4bVFIb0UzaUl5Si1ZSUlHS0tqRk9DYWs5SXVoUWlWZDRCZ3NPZ3I4OG5obzZnYlpneTQzUQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2M1WVdQdVFWOENHdHFqaWd6OUZmbU1LZlpiRUl6Z1VzR0VaNmJjejVVTVFjaWpWZDNzWnlyLVgyWFdfZmFjd1dTMUc5R0tkTlVFTnVNS3BBSldneHFaTDQ3NmU5a1JBek5MUVlNdmp5cTFEX0h0bjJSNHpwTjcxb1d4NDlmeC1Z?oc=5)
 

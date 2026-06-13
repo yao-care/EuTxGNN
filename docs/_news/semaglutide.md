@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Aumentan las intervenciones de cirugía estética tras el auge de los nuevos fármacos adelgazantes](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEx2VjVuRGlmT3B4R1BieGV3YWJ4aVh6c1FEOF9PSE1qenRjTDBYTlVLMUNleXFWak05dlp0ZVFQeEtrYlZ6alp6dDFZeC01X04wak5vM09YWTVKZXhBOGpjRFN6T045WVdTTHlVbkhIZnhLR3oxSktRMzV5M2xITE55REZsTUg4TmpUNmpfUnBfcGlVVkFLbldreGR3Q2phajNQVFdiNEdfWGkycVhOYWFUVFF0RTlfQ2QxUDA0Zw?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEx2VjVuRGlmT3B4R1BieGV3YWJ4aVh6c1FEOF9PSE1qenRjTDBYTlVLMUNleXFWak05dlp0ZVFQeEtrYlZ6alp6dDFZeC01X04wak5vM09YWTVKZXhBOGpjRFN6T045WVdTTHlVbkhIZnhLR3oxSktRMzV5M2xITE55REZsTUg4TmpUNmpfUnBfcGlVVkFLbldreGR3Q2phajNQVFdiNEdfWGkycVhOYWFUVFF0RTlfQ2QxUDA0Zw?oc=5)
+
+---
 
 ### [Obésité : les conditions de prescription de Wegovy et Mounjaro revues avant leur remboursement - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
 
@@ -78,14 +86,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
----
-
 ### [Más del 50% de las personas con diabetes en España ha perdido al menos una pieza dental - El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
 
 2026-06-12 <span class="news-indication-tag">diabetes</span>
@@ -107,6 +107,14 @@ permalink: /news/semaglutide/
 2026-06-11 <span class="news-indication-tag">diabetes</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2c0cHl2YXlaZkYzRGxfQTJza2tJNmpnQnYtM2gycnNHTWpWd21VSkFueVFXQmNJMFFsbHk0bGFXeDhyY2ZpakFJN3hZMW1aTXA2c3hUZDJzUHMzQmppVHEzNjZKc2d1QXpQQVU5NmE3MGhvRG13ZHBlOWNIVVAwczE1Y1RZdjNzZkd3ZWk1SzVsQnZhTGVhUzBWRW5ZemRtQjRaT1V5Y3g2Sk90c1BXZzRyT3dIYVE?oc=5)
+
+---
+
+### [5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
+
+2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
 
 ---
 
