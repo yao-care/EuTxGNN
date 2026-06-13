@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+### [Aging brain health: Vitamin C levels linked to gray matter volume - Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
-2026-06-13 <span class="news-indication-tag">asma</span>
+2026-06-12 <span class="news-indication-tag">asma</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/fluticasone-furoate/
 2026-06-12 <span class="news-indication-tag">asma</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWtOY2pRYmcwVG42eVBzX2pKa2JUaV8tMWVWVUYybVNGNzVMb0VaYmJOU3NaMkhVMXJTOThNUFlXWmd3S1dVTW9VSTZaVURfX0M2WDI1RDQ0Y2dqc3FiLU4yMGMwSUlTNS1rUVoyTnd2ZkJkRFZQM0hYOE9BMS1wdXR4TkFjU1RvalhQa2Z6OGxSZnRJb213cDV3NkhLTVk4bVpmQnBrWDJtTkw0WXZsU9IBqwFBVV95cUxPN2g1c3J2RV9TZ1JrTEZzX3g0X0dYOVpadjdkMEVEckVjaXI5amhvSGdGRDdjTXd2UzdndmVYSGpoYkppWnplUzBIM09ZcWdQNjJDa2xzb2hjLTdLV1hMR2dPa25VWjBfdG5Ua2RjYzRJWXI0b1V1UGdCSmJ0N1JURUFwUkxWc0wxZHBaNHdPckwxZ3lSMVhvMzlObEYwRmhYaGItcWhoWXNSYmM?oc=5)
+
+---
+
+### [32º Congreso SEMG: Las exacerbaciones de la EPOC aumentan de forma significativa el riesgo cardiovascular - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFVJU2VOV2pOcDJBVDRGNDZ3a0pwTnI3X0NQYkJFOHFQQ1RJYTl5UXgzRklRS2ljTU5UZFByakxYc1NlS2dsWUxPYlBmWWprSkZSVl96Q3dsWFFyaDZrTUQ5V0toU1lfZmlDNVE4Nmp4M2duNmpfdUVCNGwwa3dEdVdBekVOSkpsOWZZZ2RHQmFVUkc1S3h1dExZZWVxaGhIUXF6LW1GT1I4cTBmTG9RMjlLZks2Ulh2VzZOddIBtwFBVV95cUxQbVdYTlZET1hKalZNRFhpNWhMcEJ2MTA3ekV3SElTSXU3c3JQNmlYejZBQW85aHE3b1hRWndKRE5ZS3pHdHhOaUtDcW02R2IyeFJkVnNQdXd5Q2szTGEtanItSDNpRjhBWkJKTUptZ2ZiTHVMR3NLeUdCT1V2aXhnYjFJRy1mbkVjQVdwaFJHZm9pSHd2WmxZZDN6VU1hZnJMU1BYXy05cFFjWUhRLXZ4OXpFWW1FTG8?oc=5)
+
+2026-06-12 <span class="news-indication-tag">EPOC</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFVJU2VOV2pOcDJBVDRGNDZ3a0pwTnI3X0NQYkJFOHFQQ1RJYTl5UXgzRklRS2ljTU5UZFByakxYc1NlS2dsWUxPYlBmWWprSkZSVl96Q3dsWFFyaDZrTUQ5V0toU1lfZmlDNVE4Nmp4M2duNmpfdUVCNGwwa3dEdVdBekVOSkpsOWZZZ2RHQmFVUkc1S3h1dExZZWVxaGhIUXF6LW1GT1I4cTBmTG9RMjlLZks2Ulh2VzZOddIBtwFBVV95cUxQbVdYTlZET1hKalZNRFhpNWhMcEJ2MTA3ekV3SElTSXU3c3JQNmlYejZBQW85aHE3b1hRWndKRE5ZS3pHdHhOaUtDcW02R2IyeFJkVnNQdXd5Q2szTGEtanItSDNpRjhBWkJKTUptZ2ZiTHVMR3NLeUdCT1V2aXhnYjFJRy1mbkVjQVdwaFJHZm9pSHd2WmxZZDN6VU1hZnJMU1BYXy05cFFjWUhRLXZ4OXpFWW1FTG8?oc=5)
 
 ---
 

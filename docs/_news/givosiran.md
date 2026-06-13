@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [GC5107: Hepatitis-B-Impfstoff im Fokus von Green Cross - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPakgxUkVvcFZGb0xxd0lFUHFON3BJb0prd0U1QW5pbWRORkc3dTk1a3Y2Rk56SkFFX1VNNTdyTEVQdnJwV3RQUUprMDhRQXdhWC1qQmMtYllHOVlzTFZZbXZiTE9JckhYbTdZOHl1ZGl6Y0NHMjEwdTJKZUIzSTVQZG1kaFlJNVlVRmFZS09VbG4yaGQ4azc3ZjJnYVVZbnlnQUpVc3lkLXFQNkhkZFN1QWVn?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/givosiran/
 2026-06-12 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2NsZ3VyT0NRMjNhOWVscTY4X0VTWXF6d3dLb20td19HNVdXRWdWVjdoQk1PbjV0cEVkODFLcXhyNzBtM2hCMjJTeGE1MWFia0oxbmdOenZzcEIzUFAyWVRpNEd6UGJPXy1WbGZubUNkU1dtSVBmWHpPVVoxWUQ5Rm5mREx4MTY1eC1J0gGQAUFVX3lxTE5PU3FMd2g3WG1LZTRuM3RFNjY0cHUzeWRvMTFqMmZGUzQ5dzl2STh3cHhaQkpiMGFCQ1gxYmh5ZFh1TG4zTzZYZ1BjX3h1YktxcE10X2hZWTlSZ2NSVWJ2S29ybGNndk1ERno4VEJEZXY5c2tQNzVWelJPeGw5ZlM2VnpaYzBqbF83V0tXVzlWcA?oc=5)
-
----
-
-### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
-
-2026-06-11 <span class="news-indication-tag">hepatitis</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
 ---
 

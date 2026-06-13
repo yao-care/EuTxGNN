@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
 
-2026-06-13 <span class="news-indication-tag">asma</span>
+2026-06-13 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
+
+---
+
+### [Aging brain health: Vitamin C levels linked to gray matter volume - Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
+
+2026-06-12 <span class="news-indication-tag">asma</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
 ### [Aumentan casos de hígado graso en jóvenes - Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Los médicos recuerdan que la obesidad, la diabetes, el daño renal y el riesgo vascular no son enfermedades aisladas](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
+### [Un estudio destaca los probables efectos positivos de la política antiobesidad en Chile - France 24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzIxVkNCZUt0d1c4cUN6MnlQbktmSDMzcDd1MnJ0TzJhMUdxa3BwN0VRcjdQTkRoRkMwcU40bjZyUlh2bzZYaUV4SXhRUFd3NG5EVHJ2QlJTVkszUHlCVWtvX1UxOVkweUtvTWllaW5xZkc3S1JDQWg4TGV1ZHFyX21fdjZMdlhlT0Q5aXdXRUF4YncxWmNsejl5T2ZJWkQzTzk5Y2xHWTdHa2VNXzVZYTRDZ2NIQ19CNUVFZl94YkxrM0hOdTdHRFZYLUxJUjV6d1gyVkQxZUVEZWFWakE?oc=5)
+
+2026-06-12 <span class="news-indication-tag">obesidad</span>
+
+來源：[France 24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzIxVkNCZUt0d1c4cUN6MnlQbktmSDMzcDd1MnJ0TzJhMUdxa3BwN0VRcjdQTkRoRkMwcU40bjZyUlh2bzZYaUV4SXhRUFd3NG5EVHJ2QlJTVkszUHlCVWtvX1UxOVkweUtvTWllaW5xZkc3S1JDQWg4TGV1ZHFyX21fdjZMdlhlT0Q5aXdXRUF4YncxWmNsejl5T2ZJWkQzTzk5Y2xHWTdHa2VNXzVZYTRDZ2NIQ19CNUVFZl94YkxrM0hOdTdHRFZYLUxJUjV6d1gyVkQxZUVEZWFWakE?oc=5)
+
+---
+
+### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
 
 2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/lasmiditan-succinate/
 2026-06-12 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
+
+---
+
+### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
 
 ---
 

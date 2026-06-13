@@ -14,7 +14,7 @@ permalink: /news/rilpivirine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Rilpivirine Hydrochloride 有什麼相關新聞？">
-<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/rilpivirine-hydrochloride/
 <p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [GC5107: Hepatitis-B-Impfstoff im Fokus von Green Cross - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPakgxUkVvcFZGb0xxd0lFUHFON3BJb0prd0U1QW5pbWRORkc3dTk1a3Y2Rk56SkFFX1VNNTdyTEVQdnJwV3RQUUprMDhRQXdhWC1qQmMtYllHOVlzTFZZbXZiTE9JckhYbTdZOHl1ZGl6Y0NHMjEwdTJKZUIzSTVQZG1kaFlJNVlVRmFZS09VbG4yaGQ4azc3ZjJnYVVZbnlnQUpVc3lkLXFQNkhkZFN1QWVn?oc=5)
 
 2026-06-13 <span class="news-indication-tag">hepatitis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPakgxUkVvcFZGb0xxd0lFUHFON3BJb0prd0U1QW5pbWRORkc3dTk1a3Y2Rk56SkFFX1VNNTdyTEVQdnJwV3RQUUprMDhRQXdhWC1qQmMtYllHOVlzTFZZbXZiTE9JckhYbTdZOHl1ZGl6Y0NHMjEwdTJKZUIzSTVQZG1kaFlJNVlVRmFZS09VbG4yaGQ4azc3ZjJnYVVZbnlnQUpVc3lkLXFQNkhkZFN1QWVn?oc=5)
-
----
-
-### [Hepatitis: Therapie verspricht erstmals „funktionelle Heilung“ chronischer HBV-Infektion](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
-
-2026-06-11 <span class="news-indication-tag">hepatitis</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2RZQWpBUEFER3VwRFljLTVHT19fVDU0NjgzX2VKMlBpU2haZTgwcnZaOWJlSHBkTDlMc0VfMkFVcWIyZVJrd0hDMS0xaDJkMk04OEV0akdiSkF0d3p5ZHVBcU9HWU8yUGNMXy1GbUo1REYwalBCYk83WHhycHhTMk00VzAwMXNiMndZcTdjMFJaeXEtNERkdEpfaHBsNFc4NXkyaUFVb0RrZnZLYVhZQTc0a1FvdVVoamszam52SVc1YWhRczRNUE5OQk5Sd2gtdFgtLUpNaUNieWhncHY2eGZPYjRIVTVf?oc=5)
 
 ---
 

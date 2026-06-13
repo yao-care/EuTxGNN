@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
+
+2026-06-13 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
+
+---
 
 ### [Wegovy et Mounjaro remboursés dans l’obésité : les généralistes écartés de la première prescription](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNXpDV0xNMlhVakJLaW54M2V5RnhSZ2hrMkR5ZVZxMEtJRVNaQVI3VjdFMV85Q0pYbzJTSEdwZnBRalNVbjZoNUVnUkxhMzhUWVZKR1lJMDNPUURMdDJLSmlFdDJjT3JnUjFRMlFiVlVrS3BsSFlObjE2VTFuSDVwbHU4b0tlUV9mUEw4MHpYWExlcU1Ga202bTVwZG1LRk13QUxzX2xsQ1pldmFVUjNTVXdWeG54dG0tQmFtamhJRi1EWUI0T1U1c1VYR1dEUFNNUm12cmRqT2pudk1SSHlWOVVVZHpRdw?oc=5)
 

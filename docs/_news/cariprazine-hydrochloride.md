@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [Japón estudia el origen de las canas y descubre por casualidad que deberías alegrarte de tenerlas - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### ["Enfermedades de las multitudes" a las que podrías estar expuesto en esta Copa Mundial de Futbol](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRDN0p0bVQ0cVhPelpiQzdKSFptZVJncEZtWkJJdkpVb1pZTy1LSUh3a1VJaUdFUnNYVmlyQ3BqRDZjQkZrOGZuVWoxUnVncXZkenNTTWk4LXRuMU9ycUF6STlOLUxkdnlpYUlyTDV0bmRZazMwYUYxT0sxeGw1UlV3bmRaLVBfQ2ZSWEZWNW1HSVJZZm5TaUlDR3hySEZUZTFWZV84RkRFaEZhbmlJVFJydk9vejJNVXpWeFFCUWs3SVp4eFpJ?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span>
+
+來源：[laopinion.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRDN0p0bVQ0cVhPelpiQzdKSFptZVJncEZtWkJJdkpVb1pZTy1LSUh3a1VJaUdFUnNYVmlyQ3BqRDZjQkZrOGZuVWoxUnVncXZkenNTTWk4LXRuMU9ycUF6STlOLUxkdnlpYUlyTDV0bmRZazMwYUYxT0sxeGw1UlV3bmRaLVBfQ2ZSWEZWNW1HSVJZZm5TaUlDR3hySEZUZTFWZV84RkRFaEZhbmlJVFJydk9vejJNVXpWeFFCUWs3SVp4eFpJ?oc=5)
+
+---
+
 ### [Revision der McDonald-Kriterien für Multiple Sklerose von 2024 - mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
 
 2026-06-12 <span class="news-indication-tag">Multiple Sklerose</span>
@@ -78,11 +86,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [«L'epidemia di Ebola continua a diffondersi nell'est del Congo»](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
+### [Alzheimer, il farmaco che accelera la malattia: ecco cosa evitare | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0dWUjRMem1Ob2plaU1abzEzZFcxWGxMVFpkV1BYUHBSdjhHOEhzbWItaDMwRV93eS1kUlByT05peW8tREpIOVhoM2hibHgwcTNKYmVlVmg0YXFRR3AzRWJSOHdFc2NqNXpXVlFha0YzeDJETkJJUi00cm5aWnBXYU1reXNnUTh3QVNSNkhQM0tZOHZzNldEYXF4cFlnQU1uYmQ1WmxVMVVXclBV0gGwAUFVX3lxTFA1elhNSjJsLTc2NUJQVmZVSTNPRDdmM3lLWUhFcUVSVUVUbG44TEZscEI0S1I5ZklVQzJDUG04ak9sQlZjRDRmUl9lYVdpVEZfa3VWbk5tYURlNzkzTEdJS1MtRURmamt1anpDaF9QdEtvTndiV0lzMmJ1NlNsd2FHYmtaM011enhlbzlEUDNQTmNDUlJUSi0zVUQ2NXg3QnlFbkxhbVNIamN6TG1NRE9L?oc=5)
 
 2026-06-12 <span class="news-indication-tag">MS</span>
 
-來源：[cdt.ch](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0dWUjRMem1Ob2plaU1abzEzZFcxWGxMVFpkV1BYUHBSdjhHOEhzbWItaDMwRV93eS1kUlByT05peW8tREpIOVhoM2hibHgwcTNKYmVlVmg0YXFRR3AzRWJSOHdFc2NqNXpXVlFha0YzeDJETkJJUi00cm5aWnBXYU1reXNnUTh3QVNSNkhQM0tZOHZzNldEYXF4cFlnQU1uYmQ1WmxVMVVXclBV0gGwAUFVX3lxTFA1elhNSjJsLTc2NUJQVmZVSTNPRDdmM3lLWUhFcUVSVUVUbG44TEZscEI0S1I5ZklVQzJDUG04ak9sQlZjRDRmUl9lYVdpVEZfa3VWbk5tYURlNzkzTEdJS1MtRURmamt1anpDaF9QdEtvTndiV0lzMmJ1NlNsd2FHYmtaM011enhlbzlEUDNQTmNDUlJUSi0zVUQ2NXg3QnlFbkxhbVNIamN6TG1NRE9L?oc=5)
+
+---
+
+### [«L'epidemia di Ebola continua a diffondersi nell'est del Congo» - Corriere del Ticino](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
+
+2026-06-12 <span class="news-indication-tag">MS</span>
+
+來源：[Corriere del Ticino](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
 
 ---
 
@@ -110,19 +126,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Un integratore accelera la progressione dell'Alzheimer: il farmaco, lo studio, i risultati - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2ZUYlZlc21sQUdyeVJMLVpqSVZXTEVOVzRvc184MDRrR002OWN4MXJlTFVBS3ZnNGZ6d3NSdEtoVHpSRWd1TFJtMHdJdXlTMVgyVGtudS1FaGZuSWcyeGdTc2tDbWl4bTdaX21WT0wxMlFlUjl0NVcyenotVWJNVXd5S0l0WU5KaTRHSllPY0dkWkstRExHWEJfQ1BCdTkxb19BVWdyWVNVZ1Fpbm5tQ2xZQTVTbVhKU1BQUGhrUVNRYkRkZnpUVUlWWjAzdmJFbHVyUkJJb0d0OXBOcE5kMldKY01TUTc5WEE?oc=5)
+### [Sysmex lanza un kit de análisis para la detección de un biomarcador relacionado con el Alzheimer](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRDFTaXFnVEVIMWNiRi1ET1QtYmcxaENFeUhEY0lvdFlRWWJ5cGQ2RE9WNms4TjFYWlVTZ2dGYnZhOThhZjFwekpfSkxWTzlKTVNsTUk4WjA5bWpSNGZWNmVqeEh1eEstdDlNVGlBcnhKUDgzOWRCc0RXcWNLblRLR1hEOGhpQ0RHZ0JrUzdPSklQNkdhNkhnalBSRUhnV2xlOG5GRldWVWx2ZUNiclhqd1BnVFRuQko3bTcydVgyaVJnX2ZwV1RBcGEwRTFkUW1xQkhzakdGY01pTW0x0gHiAUFVX3lxTE56U3M3TkFjSjFBdVJ2dEsxZmdDbVhBMkc4dGhvU3Q0OFhOSHk0QkVrbDVvbFI2aFp3Q2cyYlVuWUtVSWtkWlRlT0EtMWJ6QjFxMlc2aVR0Z20xZ3dERHNsLUlzWTNhbE03Z2RWUWhLeTRBZnRIZV9BcnlCb19BUklrQnRoSVF0UlVTcldza0dvZlA2UXVEY0E2UkFzLVVrZFJNQy05UUxDZGZxdjdIdUIwZlJITEY0RHlLd0dnbldaeUFDQWlLNWVkOEtxUmpKdUlvZ2JYY19xbXRzRU9mNmxLYkE?oc=5)
 
-2026-06-11 <span class="news-indication-tag">MS</span>
+2026-06-12 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">MS</span>
 
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2ZUYlZlc21sQUdyeVJMLVpqSVZXTEVOVzRvc184MDRrR002OWN4MXJlTFVBS3ZnNGZ6d3NSdEtoVHpSRWd1TFJtMHdJdXlTMVgyVGtudS1FaGZuSWcyeGdTc2tDbWl4bTdaX21WT0wxMlFlUjl0NVcyenotVWJNVXd5S0l0WU5KaTRHSllPY0dkWkstRExHWEJfQ1BCdTkxb19BVWdyWVNVZ1Fpbm5tQ2xZQTVTbVhKU1BQUGhrUVNRYkRkZnpUVUlWWjAzdmJFbHVyUkJJb0d0OXBOcE5kMldKY01TUTc5WEE?oc=5)
-
----
-
-### [Warum Frauen mit ADHS stärker unter PMS leiden – Facharzt klärt auf - Berliner Morgenpost](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRiWkJYMWJyTm5hTHlGMC1aUjZMeVVhNUFtSkI3VE52RUVrRzd6RzVzX3hRSkZRbmpkNjAwcWdtTFM3cDhBcF9NVnBUYWg0aVRlOV9JSUVJd3I3Ti1hSXRnYVR5YkJ4Z05aM1Y1aVNaZmxDT0N5NlM2dTFmSjNPbXozZFRiaWFDRFhXRzMxMzNXRXRSTEVJMzY0OUwzNlk4?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRiWkJYMWJyTm5hTHlGMC1aUjZMeVVhNUFtSkI3VE52RUVrRzd6RzVzX3hRSkZRbmpkNjAwcWdtTFM3cDhBcF9NVnBUYWg0aVRlOV9JSUVJd3I3Ti1hSXRnYVR5YkJ4Z05aM1Y1aVNaZmxDT0N5NlM2dTFmSjNPbXozZFRiaWFDRFhXRzMxMzNXRXRSTEVJMzY0OUwzNlk4?oc=5)
+來源：[Alimarket.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRDFTaXFnVEVIMWNiRi1ET1QtYmcxaENFeUhEY0lvdFlRWWJ5cGQ2RE9WNms4TjFYWlVTZ2dGYnZhOThhZjFwekpfSkxWTzlKTVNsTUk4WjA5bWpSNGZWNmVqeEh1eEstdDlNVGlBcnhKUDgzOWRCc0RXcWNLblRLR1hEOGhpQ0RHZ0JrUzdPSklQNkdhNkhnalBSRUhnV2xlOG5GRldWVWx2ZUNiclhqd1BnVFRuQko3bTcydVgyaVJnX2ZwV1RBcGEwRTFkUW1xQkhzakdGY01pTW0x0gHiAUFVX3lxTE56U3M3TkFjSjFBdVJ2dEsxZmdDbVhBMkc4dGhvU3Q0OFhOSHk0QkVrbDVvbFI2aFp3Q2cyYlVuWUtVSWtkWlRlT0EtMWJ6QjFxMlc2aVR0Z20xZ3dERHNsLUlzWTNhbE03Z2RWUWhLeTRBZnRIZV9BcnlCb19BUklrQnRoSVF0UlVTcldza0dvZlA2UXVEY0E2UkFzLVVrZFJNQy05UUxDZGZxdjdIdUIwZlJITEY0RHlLd0dnbldaeUFDQWlLNWVkOEtxUmpKdUlvZ2JYY19xbXRzRU9mNmxLYkE?oc=5)
 
 ---
 

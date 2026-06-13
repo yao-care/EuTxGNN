@@ -14,7 +14,7 @@ permalink: /news/damoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Damoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/damoctocog-alfa-pegol/
 <p><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（23 則）
 
 ### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
 2026-06-13 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
+
+---
+
+### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+2026-06-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [Tumorbehandlung: Endoskopischer Ultraschall erreicht 82% Kontrolle - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjJucWJVUXhsajd6ckNoOTYybU9HMG5icUtlYnU5SC1RNS13dlRWc3czYVpNb1RuSmpPbEtaSE05QlBYN2VKRnNvUG9nWmFLNmpHQl92SEZNek5rNXlzQ3lRS1JKbHc3TkxCMXpfS2JBUkdZX0JBejUwUGEzdnFSMXplMWZET0xBaW9pRUFoRGt5Ym4yQV9vWm5KV01DeTd3RFVDazFJd0diREFuSGdjYTBzTkhmME9EeVFDVzZB?oc=5)
+
+2026-06-13 <span class="news-indication-tag">tumor</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjJucWJVUXhsajd6ckNoOTYybU9HMG5icUtlYnU5SC1RNS13dlRWc3czYVpNb1RuSmpPbEtaSE05QlBYN2VKRnNvUG9nWmFLNmpHQl92SEZNek5rNXlzQ3lRS1JKbHc3TkxCMXpfS2JBUkdZX0JBejUwUGEzdnFSMXplMWZET0xBaW9pRUFoRGt5Ym4yQV9vWm5KV01DeTd3RFVDazFJd0diREFuSGdjYTBzTkhmME9EeVFDVzZB?oc=5)
+
+---
+
+### [Aroa y Carmen, dermatólogas de Albacete, advierten: "Es el principal factor de riesgo para el cáncer de piel" - El Digital de Albacete](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdUswN2JfVzBob2ZPYTQ4Wnp1cUtWMDJBMzA2cUpNb2I1ZlZFbXg1V1MyVGlya2ZYeFNGVGNNME9qMmswVU1FUjduWmpwNVlHVmx4SDBxM0VwWWoyOUxLd2pGV1VWVUh4dldwcXRKWmJBVy1vY2NfcklKWElFLUFESW1sNy1VQlFZSXNnUXhNa2J1Vk1weFdTUElBWHJ3eUNyTHhraTVSTkx4b3N6UHFyNlFiMjczNEtfZmZja3hBRnp3TEpLMmRwUDJidTFtejVFaVVrVFR4Nm1tc2FtRW5JeHhBY3NKaDA?oc=5)
+
+2026-06-13 <span class="news-indication-tag">tumor</span>
+
+來源：[El Digital de Albacete](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdUswN2JfVzBob2ZPYTQ4Wnp1cUtWMDJBMzA2cUpNb2I1ZlZFbXg1V1MyVGlya2ZYeFNGVGNNME9qMmswVU1FUjduWmpwNVlHVmx4SDBxM0VwWWoyOUxLd2pGV1VWVUh4dldwcXRKWmJBVy1vY2NfcklKWElFLUFESW1sNy1VQlFZSXNnUXhNa2J1Vk1weFdTUElBWHJ3eUNyTHhraTVSTkx4b3N6UHFyNlFiMjczNEtfZmZja3hBRnp3TEpLMmRwUDJidTFtejVFaVVrVFR4Nm1tc2FtRW5JeHhBY3NKaDA?oc=5)
 
 ---
 
@@ -70,35 +94,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Thymus-Gesundheit: Neuer Score senkt Krebsrisiko um 36 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVc1dGZJbXhhbFlHWWFCVmxMU2swQl9jenBIanFqS3UtX0lNeUJ3UzR3NmxwelJMSjNBbHRpZ05nV1BfV0Vyd0JNb0t5cklBWFZEMU5KR1BRakZpX1g5UDRocmpwTkVKWWtwbmpZU1hpTVZyR1dic2pFLWpwUWZIYXowSUVtMzNOSnRPaXVid2xvQmdLaUpqemtkNjRmaGRTRFZqMnZHdHVGeWVlSG5J?oc=5)
-
-2026-06-13 <span class="news-indication-tag">tumor</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVc1dGZJbXhhbFlHWWFCVmxMU2swQl9jenBIanFqS3UtX0lNeUJ3UzR3NmxwelJMSjNBbHRpZ05nV1BfV0Vyd0JNb0t5cklBWFZEMU5KR1BRakZpX1g5UDRocmpwTkVKWWtwbmpZU1hpTVZyR1dic2pFLWpwUWZIYXowSUVtMzNOSnRPaXVid2xvQmdLaUpqemtkNjRmaGRTRFZqMnZHdHVGeWVlSG5J?oc=5)
-
----
-
 ### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
 
 2026-06-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
----
-
-### [La regla del ABCDE: el método para saber si un lunar es peligroso y diagnosticar a tiempo el cáncer de piel más agresivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjI1MU5ZS1JkTnBMWnB4SklQeHBzSjduNGJMQy1FSTlwNUhhYV9TaXBRQUY1SDhVVkVseWVqeHNyejl0dEZtRUZQdHZvVGpTbTJKWHpOQkZHa2dsZklDMnNHQnlHY1lFdzJ2cC1tc3plamtTVUJmNW5PYVVITXNqbUJEOXliSzRZOWUtY3IyTm1QY29semkzTWx5ODFGZENTOHc4S1ZYUFYyOU1fWFHSAbMBQVVfeXFMT014Z085Y2UwM3hyUW45bFlrRnVzbmMzUjlzLUNRZzg5QU1ETWNyM3d2c3ptLUVIaHAzSXloS01xVUVVX29NRnFYR2NoYzZWN21HdFU2NzZWbDhITDBOdVpZYjVaZzZxWGRoUTAzTGpMX01CZXRMa3ZuejJyeFAwV3FvaTJIa3ZZZElJcUh4aFczWm95SVUwUHlJUkk0YkpzeHFfeUxKajllZkIySzRzaEZ0T00?oc=5)
-
-2026-06-13 <span class="news-indication-tag">tumor</span>
-
-來源：[Leonoticias](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjI1MU5ZS1JkTnBMWnB4SklQeHBzSjduNGJMQy1FSTlwNUhhYV9TaXBRQUY1SDhVVkVseWVqeHNyejl0dEZtRUZQdHZvVGpTbTJKWHpOQkZHa2dsZklDMnNHQnlHY1lFdzJ2cC1tc3plamtTVUJmNW5PYVVITXNqbUJEOXliSzRZOWUtY3IyTm1QY29semkzTWx5ODFGZENTOHc4S1ZYUFYyOU1fWFHSAbMBQVVfeXFMT014Z085Y2UwM3hyUW45bFlrRnVzbmMzUjlzLUNRZzg5QU1ETWNyM3d2c3ptLUVIaHAzSXloS01xVUVVX29NRnFYR2NoYzZWN21HdFU2NzZWbDhITDBOdVpZYjVaZzZxWGRoUTAzTGpMX01CZXRMa3ZuejJyeFAwV3FvaTJIa3ZZZElJcUh4aFczWm95SVUwUHlJUkk0YkpzeHFfeUxKajllZkIySzRzaEZ0T00?oc=5)
-
----
-
-### [Las señales de alerta de un posible tumor cerebral que los médicos piden no ignorar](https://news.google.com/rss/articles/CBMiygFBVV95cUxObmlkUl85NzU0anJmSGkydzJDenMxMmZNNHRnSUtYYWx3Qy1ESkpRNmd4MDAteEJOLU9uajlIdEFmZW5jSDFTdkNNdXctNGptREU3VTJicnFZbE1MbWxjT0dwX2xmLTR1eUFBdDdEcXd4SGVaTDg4YU9rMzVPeHVONkxKZkZQTjZGbW12em5JWmFSZGNpMEE0bEpENFZYeVRkOHBOcG5CaXJJS3Nud0R0cmhDeEI0QTVadlJNNXoyeTlibFpiR0dXYmp30gHkAUFVX3lxTE9KZG5sN19pbk5WSnFrLWQ2Rzlpd1JSSXoxdXJVOGJpQ3dJamlXenEtcUZzM1ExMmg1TWNyRnp2YzVfNG9HaDdvVTBXbHhWN0NCV0FUUndMdzdiaFE0djZVV1NTbDc3STE3SEprUmpEM08wUDh1THZkN3phYXlmOUN0N2J5R2Jldm5GNkpobGlwS3FJN2lTQkM4cWU2UVBvX1RmZ1ZVWG5RRUhmbzFCdHg3VGs1R3JPZmNYeG03OE9ZTlJTQ2RiYXQtUlVXU2w5ZlpRS0JEYU9GSjJ4elU5bDNnTk9wbg?oc=5)
-
-2026-06-13 <span class="news-indication-tag">tumor</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiygFBVV95cUxObmlkUl85NzU0anJmSGkydzJDenMxMmZNNHRnSUtYYWx3Qy1ESkpRNmd4MDAteEJOLU9uajlIdEFmZW5jSDFTdkNNdXctNGptREU3VTJicnFZbE1MbWxjT0dwX2xmLTR1eUFBdDdEcXd4SGVaTDg4YU9rMzVPeHVONkxKZkZQTjZGbW12em5JWmFSZGNpMEE0bEpENFZYeVRkOHBOcG5CaXJJS3Nud0R0cmhDeEI0QTVadlJNNXoyeTlibFpiR0dXYmp30gHkAUFVX3lxTE9KZG5sN19pbk5WSnFrLWQ2Rzlpd1JSSXoxdXJVOGJpQ3dJamlXenEtcUZzM1ExMmg1TWNyRnp2YzVfNG9HaDdvVTBXbHhWN0NCV0FUUndMdzdiaFE0djZVV1NTbDc3STE3SEprUmpEM08wUDh1THZkN3phYXlmOUN0N2J5R2Jldm5GNkpobGlwS3FJN2lTQkM4cWU2UVBvX1RmZ1ZVWG5RRUhmbzFCdHg3VGs1R3JPZmNYeG03OE9ZTlJTQ2RiYXQtUlVXU2w5ZlpRS0JEYU9GSjJ4elU5bDNnTk9wbg?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-06-13 <span class="news-indication-tag">cancer</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzBhMXUyRWNWM0x0d29oeWtmTHpKLURSZ3VUVVhHM25RSzJEcDBnUGJfZC1PbkRIM01qbW9TQUtzVFNlNkFwWXc4eGZ0TXZ0SDJaMjc3MmREaEMyZG1rTlQ0RFoyczd0M0cxNl9xUDdDVWRvSEZTTXktYk1QVloxd1hCS05oTlhPVFJPaXhyZ00yMlpHTVRJa2g3dzFaWThSQWt1TFRyY1JwNzREYzFaT1hIZjl2Yi1fcUFOMVdhM0VDblhOVV93eHZuYW5XQnpvckx5cW9Gd3Zva1c2WGRXRWt4a0RCVlZEbHU5dGxoalc?oc=5)
-
----
-
-### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
-
-2026-06-13 <span class="news-indication-tag">asma</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
 ---
 
@@ -166,11 +158,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Los médicos recuerdan que la obesidad, la diabetes, el daño renal y el riesgo vascular no son enfermedades aisladas](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
+### [Aging brain health: Vitamin C levels linked to gray matter volume - Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
-2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-06-12 <span class="news-indication-tag">asma</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
 ---
 
@@ -182,17 +174,17 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Dad with cancer £4,500 in debt after work accidentally paid him - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUGNvb19vSWVlUm54VDdtOF9ONVZYQWNRQno1ZDFDWjRlRExPOTJjWUxGLUpvT0dJWUJyQ3Nrb0Y5N285U2x3cjRqWmktUUl3Z3R4MnF4OHM5MG9fQmpwTWViRC00S3gtdTFuUzRMcl9FcEJXMHRNLXB6RGfSAYIBQVVfeXFMT2ExaUdqRVJpREJ0UGdMQldtd1Q1TnpPU2lFQjJnX3VvT2lUeFFwaEdFRHBXVTB0bHZKempEU09PTmhUbEdfU3JTOHdCeDQtMXQzX0JidndBX0dkZ1VoTmlBeUExLXpwQVZZWkJ2TkJWWmRyNDc0VVp6RHpVcGtxN3B1dw?oc=5)
+### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
 
-2026-06-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUGNvb19vSWVlUm54VDdtOF9ONVZYQWNRQno1ZDFDWjRlRExPOTJjWUxGLUpvT0dJWUJyQ3Nrb0Y5N285U2x3cjRqWmktUUl3Z3R4MnF4OHM5MG9fQmpwTWViRC00S3gtdTFuUzRMcl9FcEJXMHRNLXB6RGfSAYIBQVVfeXFMT2ExaUdqRVJpREJ0UGdMQldtd1Q1TnpPU2lFQjJnX3VvT2lUeFFwaEdFRHBXVTB0bHZKempEU09PTmhUbEdfU3JTOHdCeDQtMXQzX0JidndBX0dkZ1VoTmlBeUExLXpwQVZZWkJ2TkJWWmRyNDc0VVp6RHpVcGtxN3B1dw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
 
 ---
 
 ### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
 
-2026-06-12 <span class="news-indication-tag">cancro</span>
+2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
 
@@ -203,6 +195,14 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-06-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
+
+---
+
+### [Dad with cancer left in £4,500 debt after company mistakenly paid him - Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
+
+2026-06-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
 
 ---
 
@@ -235,22 +235,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-06-11 <span class="news-indication-tag">asthme</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
-
----
-
-### [Tumore del pancreas, la terapia che ha fatto applaudire gli oncologi spiegata dall'esperta - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMipgFBVV95cUxOLU9vZGdqb0JnVEpLOEd6ZTNlenFZY0ltcExKVHpZQUNGazM2YWF1bTJDcnhIZUZsbUhhTDIxVEdIUktZbGlOQTd2RERIWm9pQm50eDB4NGNZdGdoQXlMeGxIOWxjLWh1ZGhyTGdVeEVnTy1JZlFBcFhZbHFoRm04UjBYdzB0LUxCTi1lTUF1YmlYdTJ1Y0c3OUFMT0RaVzNWTEd0aWpR?oc=5)
-
-2026-06-11 <span class="news-indication-tag">tumor</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMipgFBVV95cUxOLU9vZGdqb0JnVEpLOEd6ZTNlenFZY0ltcExKVHpZQUNGazM2YWF1bTJDcnhIZUZsbUhhTDIxVEdIUktZbGlOQTd2RERIWm9pQm50eDB4NGNZdGdoQXlMeGxIOWxjLWh1ZGhyTGdVeEVnTy1JZlFBcFhZbHFoRm04UjBYdzB0LUxCTi1lTUF1YmlYdTJ1Y0c3OUFMT0RaVzNWTEd0aWpR?oc=5)
-
----
-
-### [Buchtip: Schöpfe Kraft aus deiner Krankheit – ein Mutmachbuch über das Leben mit Typ-1-Diabetes von Bajai Resch](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
 
 ---
 

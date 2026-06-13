@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
+
+2026-06-13 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
+
+---
 
 ### [32º Congreso SEMG: La psoriasis obliga a mirar más allá de la piel para prevenir complicaciones cardiovasculares - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2plNU1rMHhqVWxyaWt2RngycUFiNGxKMjkxalF5RFE3ZXBzOXZjUG5NclhyS1FpX1phdldyVEQ4Q211dGdzWXJnTFdpQ2R4ZlF6MkdEVmxtbkZNYThGQm51RDd4YlJNcTkxeDNjalE2TG80elF4VjlNQy1fNEFfamhDcExvZEU0RFhKWGNXbzV3V3libWNDeXZCMlg0c3NyaXJxclM0a01BVjB6R1ptajNoRDFkTThvZ1HSAbQBQVVfeXFMT1BfYllkbVlBYzdEcm9KYWl1eEtoVHc3WDZRenNSaHJhcktWMDNkRzRaa2JneXpRNzVXSnFMbE9KcDcwSmZ5NnVwUXRLYjRyZnMxdzE4QXJJOEpRUkZBMzN1Q1VkY3lIUmJjRHkxS1VveXhkd2NWVElvcVRuTm9SaElMdE83X2Yyd1psa0lKVnF1VmZHSHRsN1dGTXhSWkZuMWE3dnE4RG9RSkhlNnJ0aWs1dGlW?oc=5)
 

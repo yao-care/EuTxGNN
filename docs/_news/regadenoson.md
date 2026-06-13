@@ -54,11 +54,11 @@ permalink: /news/regadenoson/
 
 ## 相關新聞（4 則）
 
-### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+### [Aging brain health: Vitamin C levels linked to gray matter volume - Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
-2026-06-13 <span class="news-indication-tag">asma</span>
+2026-06-12 <span class="news-indication-tag">asma</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
 ---
 

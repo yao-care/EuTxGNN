@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [El nutricionista Antonio Escribano alerta del uso de Ozempic para adelgazar: «Cuando se deja de tomar se engorda el doble de lo que se ha perdido»](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmI5ODRwUFBQdnM0OUdwTXZ3LWM4MllUeHZyaERsZnJLcWZSd0d2bUVINVkzSXR4YjV1YVZUZDYtMDdzSWlwV1luTGJZVGktc0MwenhoY2hoaXh6UzBoMTJ0Y2dXaFUtX0N1b3dxR2U2SlZZMThjMk8tOWhFbE1kQXhzOGJQWlZUbVZyUjNtUzFtWmwwNEg4dWk2WlFQcmF3bDNaM3dtRm8xSmV6NVk0bmdhZklWbEtz0gG-AUFVX3lxTE9uWmg5cThfeGJXUWdXSHh0TTZObTF6SnFfdm41S2VLa0xfcnQ2RkdoM2hkenBLTVlKN2NCMWVOYVdteXJ2YWRKVDI1dFlGYjgtTk1TSlp6Ry1YdXEtUS1EWHZqN2E5Ykw3cENXY2JLMkNtWXZWanh6eXZsX3VEVklZRkhnV0FLS3l1MmJ4MDZrWjk5MjRaa0NDWU5Ld3ZfRk5aVlFaSERsTjlaWDg4UG9OalVIZXpLYnNPMWtIRHc?oc=5)
 
@@ -94,19 +94,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [El fármaco 'adelgazante' que preserva músculo, pero sin mejoras en fuerza - Redacción Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdEVic3ZiTnF2N0w1eTNOdjlaRmpQbHBjRjFJNFJOUVN5VXlRSTRLSnZHcU42NHVVbm51ZDBNVDl3dUtBVXcxOXVqMkNSbVpZbXprQWIzbEVtOW1WeHhmTG5SVUVHUEdBSjhNeHNScUlQM3Z3Y2d2X19pbGp0MG9kMHBRZUhrazVuLV9abm5jRHJjcE12YWJudTdSMFd3WWJCZ0FlYlg5VnVUZXVsbGlmQm5ubnBCM2FyRERvTnpJQU9Vd9IBwgFBVV95cUxNT0FNOC1qQWRrSnZ5YXNLRll2OTc2emlsOVB0LXZpR19oblpiOEZwc2h5YmU5SU5KTEZsYURqLXNDdUtraVgtc09KWUJNVGl1Y2VjVnZwc1pWd2ZCWWNRZmdMMmRXT3laV0NFOXdOaE1uOExfRWZEbVkxQzhFX0dWSmZ6VmtEc0Q2akYzZTFmRXoyM18zb3VWSU1QVFB2bUFQNHhoby12bFN5Q3NMeGdGVVZjQy1IdzQtbmMzQUlfUThuZw?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdEVic3ZiTnF2N0w1eTNOdjlaRmpQbHBjRjFJNFJOUVN5VXlRSTRLSnZHcU42NHVVbm51ZDBNVDl3dUtBVXcxOXVqMkNSbVpZbXprQWIzbEVtOW1WeHhmTG5SVUVHUEdBSjhNeHNScUlQM3Z3Y2d2X19pbGp0MG9kMHBRZUhrazVuLV9abm5jRHJjcE12YWJudTdSMFd3WWJCZ0FlYlg5VnVUZXVsbGlmQm5ubnBCM2FyRERvTnpJQU9Vd9IBwgFBVV95cUxNT0FNOC1qQWRrSnZ5YXNLRll2OTc2emlsOVB0LXZpR19oblpiOEZwc2h5YmU5SU5KTEZsYURqLXNDdUtraVgtc09KWUJNVGl1Y2VjVnZwc1pWd2ZCWWNRZmdMMmRXT3laV0NFOXdOaE1uOExfRWZEbVkxQzhFX0dWSmZ6VmtEc0Q2akYzZTFmRXoyM18zb3VWSU1QVFB2bUFQNHhoby12bFN5Q3NMeGdGVVZjQy1IdzQtbmMzQUlfUThuZw?oc=5)
-
----
-
-### [Los médicos recuerdan que la obesidad, la diabetes, el daño renal y el riesgo vascular no son enfermedades aisladas](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
+### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
 
 2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+---
+
+### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/semaglutide/
 2026-06-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
-
----
-
-### [Buchtip: Schöpfe Kraft aus deiner Krankheit – ein Mutmachbuch über das Leben mit Typ-1-Diabetes von Bajai Resch](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
 
 ---
 

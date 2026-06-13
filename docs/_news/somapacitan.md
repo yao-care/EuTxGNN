@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
 
 2026-06-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
----
-
-### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
-
-2026-06-13 <span class="news-indication-tag">asma</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Los médicos recuerdan que la obesidad, la diabetes, el daño renal y el riesgo vascular no son enfermedades aisladas](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
+### [Aging brain health: Vitamin C levels linked to gray matter volume - Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
-2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-06-12 <span class="news-indication-tag">asma</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0loQ2c1WFdNS2k5NWFUaDRQWEQ3M3h5c1hIcms4UHVNZFBOa1FjcHQ1VDhYQjVUUHZNNXhjcFZ6MzQ5YnhjcC01eXp6OHpZV2ZsZmZQeHNKTnhXVFZvQV8wc0FyZFpvbC1hRjNLS0JMbW0ySGhDd0l6Um1BZ2ZKdEVLbkZZUFM2ZVY5RDZ3WnE1Uk9KYUxoZ2VXUGt6d2FLbXRkeUF6ZDY5VkJwVlVXRUhNcFB6d2JkZGw1ZHNKZG1TQmpXdFhaSGFsWms4QXhWYkExQWRrUDlBNmM3MVhFa1R0bWVHdm9tZEZjZkVKTUptdGdmQmtOLQ?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
 ---
 
@@ -91,6 +83,14 @@ permalink: /news/somapacitan/
 2026-06-12 <span class="news-indication-tag">asma</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWtOY2pRYmcwVG42eVBzX2pKa2JUaV8tMWVWVUYybVNGNzVMb0VaYmJOU3NaMkhVMXJTOThNUFlXWmd3S1dVTW9VSTZaVURfX0M2WDI1RDQ0Y2dqc3FiLU4yMGMwSUlTNS1rUVoyTnd2ZkJkRFZQM0hYOE9BMS1wdXR4TkFjU1RvalhQa2Z6OGxSZnRJb213cDV3NkhLTVk4bVpmQnBrWDJtTkw0WXZsU9IBqwFBVV95cUxPN2g1c3J2RV9TZ1JrTEZzX3g0X0dYOVpadjdkMEVEckVjaXI5amhvSGdGRDdjTXd2UzdndmVYSGpoYkppWnplUzBIM09ZcWdQNjJDa2xzb2hjLTdLV1hMR2dPa25VWjBfdG5Ua2RjYzRJWXI0b1V1UGdCSmJ0N1JURUFwUkxWc0wxZHBaNHdPckwxZ3lSMVhvMzlObEYwRmhYaGItcWhoWXNSYmM?oc=5)
+
+---
+
+### [32º Congreso SEMG: La obesidad, la diabetes, el daño renal y el riesgo vascular forman parte del mismo problema - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/somapacitan/
 2026-06-11 <span class="news-indication-tag">asthme</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
-
----
-
-### [Buchtip: Schöpfe Kraft aus deiner Krankheit – ein Mutmachbuch über das Leben mit Typ-1-Diabetes von Bajai Resch](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlVvQWpoaklxeDJnWkktaXl2ZTV6QlVwcHVMb29aMjRLUU02MldvNE9CTXJtVUVHMzUtV3hYT2dabGpEbnZXV1ZEM2JqNVlIRjh1WFlqeWhOSTQ3YzZQeTB1NVJmUnB0WkhBY3VJNTlKZl84X29fcm5QUHNDOWVoNWxSQmhEUW1feUJJRWFndVpTdHViR0pWekwtaHJ3eVVpMlI4ZDctS1B2T29nTVc1NjFfLW5uYy1IOWNNaEd6RFJUbjJWbmF1TUFlQjA?oc=5)
 
 ---
 
