@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Diabetes und Infektionen: Typ-1 deutlich stärker gefährdet als Typ 2 - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
+
+2026-06-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
+
+---
 
 ### [Aumentan las intervenciones de cirugía estética tras el auge de los nuevos fármacos adelgazantes](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEx2VjVuRGlmT3B4R1BieGV3YWJ4aVh6c1FEOF9PSE1qenRjTDBYTlVLMUNleXFWak05dlp0ZVFQeEtrYlZ6alp6dDFZeC01X04wak5vM09YWTVKZXhBOGpjRFN6T045WVdTTHlVbkhIZnhLR3oxSktRMzV5M2xITE55REZsTUg4TmpUNmpfUnBfcGlVVkFLbldreGR3Q2phajNQVFdiNEdfWGkycVhOYWFUVFF0RTlfQ2QxUDA0Zw?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Obésité : les conditions de prescription de Wegovy et Mounjaro revues avant leur remboursement - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+### [¿Hay algo que Ozempic y compañía no puedan hacer?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3RsWUR6Z0xwbnVJODVDb2JVYVdoSnh2dEFIN3p1YUhzTlZmZ092NVVDeVBxV0pOcnNhemJ6ei15QVhveFRKd0QwQWdnSVo0SExXdFkzX3NmaUkzVUR6U0U1ZTBCNHdFN0h3aDVqcXpQZ2NLUVQtWHcyRHJWRVNYUm1nQW9BN3daTGVaYzhJY0g1U0pvY3NNS2hrNHZVVFlrNDRoWlNub3RrZ2vSAasBQVVfeXFMT1AySGJXQVRzRTRmQlQwUlFKQzFZVll1eWdwSHpPVjV5Nk9CeUtKN280cUJiWGtJQkZGcWlxbktPRGFUa1I5TUJwSDhIZHpEUi1MbWotVG0tTjNXRGk4REl6ZGVVWGZFRUZERFhnNlBTMDZpVE1sZXA4MldBN1dmaGZFQkFhZUpzZTNkUnlZZmNDdWNRblBuUzRlUGJPZ3FjSWlZeTA2X3RzaHZB?oc=5)
+
+2026-06-12 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[DW](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3RsWUR6Z0xwbnVJODVDb2JVYVdoSnh2dEFIN3p1YUhzTlZmZ092NVVDeVBxV0pOcnNhemJ6ei15QVhveFRKd0QwQWdnSVo0SExXdFkzX3NmaUkzVUR6U0U1ZTBCNHdFN0h3aDVqcXpQZ2NLUVQtWHcyRHJWRVNYUm1nQW9BN3daTGVaYzhJY0g1U0pvY3NNS2hrNHZVVFlrNDRoWlNub3RrZ2vSAasBQVVfeXFMT1AySGJXQVRzRTRmQlQwUlFKQzFZVll1eWdwSHpPVjV5Nk9CeUtKN280cUJiWGtJQkZGcWlxbktPRGFUa1I5TUJwSDhIZHpEUi1MbWotVG0tTjNXRGk4REl6ZGVVWGZFRUZERFhnNlBTMDZpVE1sZXA4MldBN1dmaGZFQkFhZUpzZTNkUnlZZmNDdWNRblBuUzRlUGJPZ3FjSWlZeTA2X3RzaHZB?oc=5)
+
+---
+
+### [Remboursement de Wegovy et Mounjaro : précision sur l’IMC de référence pour y avoir droit - Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT1V2SGRfQk9SSFlzSnRtR3J2QkhkVzNWNGRYQ3BhMUhob0plXzFCMUdpRy15MFEtWXgxOE9WUVlOS2dJcXdYTEI0U2d4SmdXRkN3N0hodG5kb2FLZlRPTDlSOVZwUjJVaV9PV2pFOExaUWhFM3hlMExXMjZaaFVQRDdLMlNGTlI5YloyYmE3RkNxUFU1aTBUaVRPakJka0F1TVNpLTVxRmJfSzllWkhJSXh0YjhnSmdINEJJbGtzVmxCYjdwcmplMG5PZDlMcGxlcE5VVkJ0NkpEcmxOVzNVVGliYmxWUHNRMlhiUmd6N0w1aWM?oc=5)
 
 2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+來源：[Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT1V2SGRfQk9SSFlzSnRtR3J2QkhkVzNWNGRYQ3BhMUhob0plXzFCMUdpRy15MFEtWXgxOE9WUVlOS2dJcXdYTEI0U2d4SmdXRkN3N0hodG5kb2FLZlRPTDlSOVZwUjJVaV9PV2pFOExaUWhFM3hlMExXMjZaaFVQRDdLMlNGTlI5YloyYmE3RkNxUFU1aTBUaVRPakJka0F1TVNpLTVxRmJfSzllWkhJSXh0YjhnSmdINEJJbGtzVmxCYjdwcmplMG5PZDlMcGxlcE5VVkJ0NkpEcmxOVzNVVGliYmxWUHNRMlhiUmd6N0w1aWM?oc=5)
 
 ---
 
@@ -102,35 +118,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabetes und Infektionen: Studie zeigt, wie stark das Risiko unterschätzt wird](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2c0cHl2YXlaZkYzRGxfQTJza2tJNmpnQnYtM2gycnNHTWpWd21VSkFueVFXQmNJMFFsbHk0bGFXeDhyY2ZpakFJN3hZMW1aTXA2c3hUZDJzUHMzQmppVHEzNjZKc2d1QXpQQVU5NmE3MGhvRG13ZHBlOWNIVVAwczE1Y1RZdjNzZkd3ZWk1SzVsQnZhTGVhUzBWRW5ZemRtQjRaT1V5Y3g2Sk90c1BXZzRyT3dIYVE?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2c0cHl2YXlaZkYzRGxfQTJza2tJNmpnQnYtM2gycnNHTWpWd21VSkFueVFXQmNJMFFsbHk0bGFXeDhyY2ZpakFJN3hZMW1aTXA2c3hUZDJzUHMzQmppVHEzNjZKc2d1QXpQQVU5NmE3MGhvRG13ZHBlOWNIVVAwczE1Y1RZdjNzZkd3ZWk1SzVsQnZhTGVhUzBWRW5ZemRtQjRaT1V5Y3g2Sk90c1BXZzRyT3dIYVE?oc=5)
-
----
-
 ### [5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
 
 2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Eat This Not That](https://news.google.com/rss/articles/CBMieEFVX3lxTE83a1pSR1otOEZfS1FoaVFqQWhhenpxQkRsRnI1Z0cwWWdVazFSaGdrSnJTZUpHVnk3ZlJqY3VuOVpXY3hxVTM1ekNIZEo4NF9qTkx1SFM0OHY4VEt2MkFURnFWS21SbDVpYzdxVGFWcGZnQTFtTU9YUQ?oc=5)
-
----
-
-### [I’m a diabetes dietitian — do one thing after every meal to keep blood sugar on track - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGFVNnRZbHZYVnM1S1JmRzRUV3QyUXk2b2FhR050eVh3VFdXNXdkX0s5RU81UmJhZUJjdGZIeGh1MXpnbmxwQTJNS3piTmlFUWJMWUhTVnl6eGwzV3I5c2c2OFV5WVUtb2tpeFVwYk4tak9LRGk3d0oyWnZQNm8xd1l0dTVGOW9NOEJzS3hkZmtUMzTSAZgBQVVfeXFMUF9tRkRLMDd2M25DZmJPQWUwbEc3TmFVSmhkNHh1TllSNjFDREdEanotNDhINjhPNEpUZkpYbUFSQ3hLcjVFaDQycmM5MGxMMEhMalVObWxEcVB0U2UyTTZnRXprVUdpRTBiZG10cjRUQTdQUk1WVGt3empYOHZSNnRULUJTb2FDZ25kaUl0N05OckZQVGhxcDA?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGFVNnRZbHZYVnM1S1JmRzRUV3QyUXk2b2FhR050eVh3VFdXNXdkX0s5RU81UmJhZUJjdGZIeGh1MXpnbmxwQTJNS3piTmlFUWJMWUhTVnl6eGwzV3I5c2c2OFV5WVUtb2tpeFVwYk4tak9LRGk3d0oyWnZQNm8xd1l0dTVGOW9NOEJzS3hkZmtUMzTSAZgBQVVfeXFMUF9tRkRLMDd2M25DZmJPQWUwbEc3TmFVSmhkNHh1TllSNjFDREdEanotNDhINjhPNEpUZkpYbUFSQ3hLcjVFaDQycmM5MGxMMEhMalVObWxEcVB0U2UyTTZnRXprVUdpRTBiZG10cjRUQTdQUk1WVGt3empYOHZSNnRULUJTb2FDZ25kaUl0N05OckZQVGhxcDA?oc=5)
-
----
-
-### [Blutdruck-Medikamente: Kalziumkanalblocker erhöhen Nierenschaden-Risiko um 33% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
-
-2026-06-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtUlNQNE5mOUk4ejByd2tuSVdVTUJCMjI0MEdia2lXOWRLdkJWVHNWbnM4TDZRMlZUX2V6OUFKcGw5OEVBbHBQZDZSS3hXclBLbm93NDBPTV96bnlmNU5JaWxqanVoV3Vwb2lqbGM1QjZwVUpaTy1pZDVxdmN4QmFpTjVjNUFjVTdCMlgwNXg3dk9hQ1dVSHpMUTJoTG5fNTl4R2JvR1dzenF6U3BRSU9qTnF4V2NRaFBPTg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Obésité : les conditions de prescription de Wegovy et Mounjaro revues avant leur remboursement - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+### [Aumentan casos de hígado graso en jóvenes - Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
+
+2026-06-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
+
+---
+
+### [Remboursement de Wegovy et Mounjaro : précision sur l’IMC de référence pour y avoir droit - Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT1V2SGRfQk9SSFlzSnRtR3J2QkhkVzNWNGRYQ3BhMUhob0plXzFCMUdpRy15MFEtWXgxOE9WUVlOS2dJcXdYTEI0U2d4SmdXRkN3N0hodG5kb2FLZlRPTDlSOVZwUjJVaV9PV2pFOExaUWhFM3hlMExXMjZaaFVQRDdLMlNGTlI5YloyYmE3RkNxUFU1aTBUaVRPakJka0F1TVNpLTVxRmJfSzllWkhJSXh0YjhnSmdINEJJbGtzVmxCYjdwcmplMG5PZDlMcGxlcE5VVkJ0NkpEcmxOVzNVVGliYmxWUHNRMlhiUmd6N0w1aWM?oc=5)
 
 2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiggJBVV95cUxOc0ZVeHIzd3phUGs5ZVlLVkdIX1AwejgwY1NvNndsMTgySjBoVURmRlI5eHBOdERFS19lRTZkOHRhRkRSWk1qRlZLZ2ZYYTJVSWlXYUh6anZZaXVFZzdBUjlET1lZZEJxaDU3MEVfRjQ4R1VRcEVJNkJ0Wmp5Q0x3VTlRbm9MSHlaMEdncmVBdDBTS0lFazEyQUtvbkpWdEQwb3ZKbkZFeHJCVHRLem1tZk5zT0tQNUlTc0JSc0pTalhoMWZMMFhlRE9PbTZkNElxUXN3UTU2dU1xVXhEWl9EYmRybURpaVBqLXlRamx4Y3d3eGRFTGl2WlZVbXR5aGZKSGc?oc=5)
+來源：[Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT1V2SGRfQk9SSFlzSnRtR3J2QkhkVzNWNGRYQ3BhMUhob0plXzFCMUdpRy15MFEtWXgxOE9WUVlOS2dJcXdYTEI0U2d4SmdXRkN3N0hodG5kb2FLZlRPTDlSOVZwUjJVaV9PV2pFOExaUWhFM3hlMExXMjZaaFVQRDdLMlNGTlI5YloyYmE3RkNxUFU1aTBUaVRPakJka0F1TVNpLTVxRmJfSzllWkhJSXh0YjhnSmdINEJJbGtzVmxCYjdwcmplMG5PZDlMcGxlcE5VVkJ0NkpEcmxOVzNVVGliYmxWUHNRMlhiUmd6N0w1aWM?oc=5)
 
 ---
 
@@ -91,22 +99,6 @@ permalink: /news/orlistat/
 2026-06-11 <span class="news-indication-tag">ictus</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUktEa1lTS3BFUl81Z1duby1SODJBckN0NWVHSkFfNEFKUHJyZDlvN3NQbjNQM1MwVG16M3hOQzFjUEVfQV9CdzljaU45LUlVVk1US2otRnlHUk1hbVI3V0FRSVZ3bC1zT1Q1VktLVnZYcVJXUlBYTnlqSnRBZ1R2S1l3UVM5eG8ybzlzTWpha3FkNVJNVlliVXFMZDN0NV9YS0dQN0ZZRGtIVzVyQVRJNmRCTEVVaGJQMHJzZEFsV183ZDk1ZTlpWHM4NDBnY1gyX1NCMzl3?oc=5)
-
----
-
-### [Endocrinólogos alertan de aumento de hígado graso en niños - El médico interactivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRGVmZFItQ0lZZjJIWWdNaWFjblJkdWQycnlZc3Q0aTZJTy1QcGtYZ24xUXIxQjJXZlV4U3ZkaDNPakl6d2c2ZzgzOUkzWHBDbWJWOHhnU3RlTVFFdDVfeTM1N3ZCNzlwdEZ6VjBtbDJKbWsxWDJES3hnbzVWeGlzZHFGdkVRVm03YlRSYy1DNEpsZ1dtczVfbktpY2dZX1JjcnI0VmVVTFZlMTA4eEg1b1Fna08zRk5jUUNXSjFHV2RIbGtkTnhQXzYyUkVnWEZFN2RZUjFIdm5sbF9fZENQSDRTbw?oc=5)
-
-2026-06-11 <span class="news-indication-tag">obesidad</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRGVmZFItQ0lZZjJIWWdNaWFjblJkdWQycnlZc3Q0aTZJTy1QcGtYZ24xUXIxQjJXZlV4U3ZkaDNPakl6d2c2ZzgzOUkzWHBDbWJWOHhnU3RlTVFFdDVfeTM1N3ZCNzlwdEZ6VjBtbDJKbWsxWDJES3hnbzVWeGlzZHFGdkVRVm03YlRSYy1DNEpsZ1dtczVfbktpY2dZX1JjcnI0VmVVTFZlMTA4eEg1b1Fna08zRk5jUUNXSjFHV2RIbGtkTnhQXzYyUkVnWEZFN2RZUjFIdm5sbF9fZENQSDRTbw?oc=5)
-
----
-
-### [Metabolisch unauffällige Adipositas wohl nicht gutartig](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
-
-2026-06-11 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVRFY2VNRGxPYUFUQzVlTXBYVThJTXNCa2hfazRzTEJZbkJqNC10NENVYkRFNEg4YmxlRDNpWkhSeWNWeGR4NU9GVDNXanU2SndwWWVXMU5nc2NDNUlXVnZmSDJkckNQWGUwNVZHM2dxUzNFVjhNbWlqWk1UT3oxeUJCMHNUMEZjTjI4ZmhRMC1DYllneUtlQ2ZndlQteVVUaWVNSURKS0Y?oc=5)
 
 ---
 

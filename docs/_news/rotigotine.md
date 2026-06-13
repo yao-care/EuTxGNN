@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（7 則）
+
+### [Japón estudia el origen de las canas y descubre por casualidad que deberías alegrarte de tenerlas - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
+
+2026-06-13 <span class="news-indication-tag">MS</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
+
+---
 
 ### [Inquest jury concludes Hampshire boy died of natural causes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
 
 2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
-
----
-
-### [A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
-
-2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5)
 
 ---
 
@@ -94,14 +94,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Herzgesundheit in den Wechseljahren im Kreis Bergstraße - Bergsträsser Anzeiger](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWnRqVzQ4UDY5VTFzMFpQRlp3dHFYMzJfY3NacnM1eHc2dzg2ckJ3ZWNKLTJmbXhJRThkS1ZaXzlZOUlOOFVPeURiYW9hY1lQTUU3V0lxVUtxQUxBbHcwU290Smkzd3otREFRSW1MemxtWEpmT2ZremZoSDVYNi13eGV1WmlfZC0tb2gzb21MNzNDNGJsWDN5aExuLU1CT2I4cG9YNUlPYU0xeFJIUWs2aGYwLS12X1lyVE9OX3l5ajUyRW1HenpubWxoOVQ5aHJqU3FYdFc0dktkODFHd1AtR21WWGFBZGdyUm9PeGo4MHJWelg4Nm5fOA?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span>
-
-來源：[Bergsträsser Anzeiger](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWnRqVzQ4UDY5VTFzMFpQRlp3dHFYMzJfY3NacnM1eHc2dzg2ckJ3ZWNKLTJmbXhJRThkS1ZaXzlZOUlOOFVPeURiYW9hY1lQTUU3V0lxVUtxQUxBbHcwU290Smkzd3otREFRSW1MemxtWEpmT2ZremZoSDVYNi13eGV1WmlfZC0tb2gzb21MNzNDNGJsWDN5aExuLU1CT2I4cG9YNUlPYU0xeFJIUWs2aGYwLS12X1lyVE9OX3l5ajUyRW1HenpubWxoOVQ5aHJqU3FYdFc0dktkODFHd1AtR21WWGFBZGdyUm9PeGo4MHJWelg4Nm5fOA?oc=5)
-
----
-
 ### [Warum Frauen mit ADHS stärker unter PMS leiden – Facharzt klärt auf - Berliner Morgenpost](https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzRiWkJYMWJyTm5hTHlGMC1aUjZMeVVhNUFtSkI3VE52RUVrRzd6RzVzX3hRSkZRbmpkNjAwcWdtTFM3cDhBcF9NVnBUYWg0aVRlOV9JSUVJd3I3Ti1hSXRnYVR5YkJ4Z05aM1Y1aVNaZmxDT0N5NlM2dTFmSjNPbXozZFRiaWFDRFhXRzMxMzNXRXRSTEVJMzY0OUwzNlk4?oc=5)
 
 2026-06-11 <span class="news-indication-tag">MS</span>
@@ -115,30 +107,6 @@ permalink: /news/rotigotine/
 2026-06-11 <span class="news-indication-tag">MS</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXy1DX0s1T2o1azJWWDJ0X3FlM3dUVThfN0ktNlU3dTRTeEo4YXVfOEFlc1RkZmJsRTRSb3g4M3RtdDJVbVJPMDlBcWlFejdKQjNKU3B5T3E1MVVaWjdhRGhrQVdtMVR6c2JOdXZzU2VDTkljYlFSUmNJWFl3d3NiNWo1Y1Ezb0ZETmVYVE92Qjd4UENYZ25vTG41QW5QNndBeTBRUmZFbVjSAa4BQVVfeXFMUHVWbnFTaDZiWEtONF9mZTlNUW5TMFZhU21vVWplQ0RfTzAyVnkyVnVrSEdnaUlpd3VKazNZNm9odVpsSXZDd1hGMjNmS0FaTWRwbmpmcTNaRXIwRzExMl95bWs3Nl9SMDI2VDBKdEtEWW91dWFIclFEZGdzX0RBRHZqWlBaakZBOUktV3RpNFllVmRhRS1YMnVZN0RYd3BENUFrYzhPSlQ4RWN0ZGRn?oc=5)
-
----
-
-### [Omeprazole users with heartburn told they face 'two problems' by practitioner - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjhmemdrMW5hSC1hTVR5QjlOQ01tVFVrOTZIRUlLREQ0QkhBbS1PbEw3bjZOc0UzTmRMSTdBNzl6Z0dfTWZFV1BSR00yWURCRUIwVGxnNnphMHZYbWNDeXJlSGxNcWlDT1V5dXZpMUdWbWNWRkItNVlhRXN1cW45RGVyTGhTbDFXcEHSAY8BQVVfeXFMT0FEbmxoRFNzWHg2dGFGZXdiOU9ZRi1IODBvazllM0VqdHBCU1NWV3l0SzdTdVpNMlJmaHZ0d0lwZW1BN2c2NHFEeE5iTUJKUUVGQ21ZQUhkdi04U2xlY3MtUTJPVzIzUmU0SlRqZjYyc3FqQmhfQWNjakxtV0pmbXItU2x0Rkdra1MxT3pDTXM?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjhmemdrMW5hSC1hTVR5QjlOQ01tVFVrOTZIRUlLREQ0QkhBbS1PbEw3bjZOc0UzTmRMSTdBNzl6Z0dfTWZFV1BSR00yWURCRUIwVGxnNnphMHZYbWNDeXJlSGxNcWlDT1V5dXZpMUdWbWNWRkItNVlhRXN1cW45RGVyTGhTbDFXcEHSAY8BQVVfeXFMT0FEbmxoRFNzWHg2dGFGZXdiOU9ZRi1IODBvazllM0VqdHBCU1NWV3l0SzdTdVpNMlJmaHZ0d0lwZW1BN2c2NHFEeE5iTUJKUUVGQ21ZQUhkdi04U2xlY3MtUTJPVzIzUmU0SlRqZjYyc3FqQmhfQWNjakxtV0pmbXItU2x0Rkdra1MxT3pDTXM?oc=5)
-
----
-
-### [«A 31 anni, dopo che è nato mio figlio, ho sentito formicolii alle gambe e mi hanno diagnosticato la sclerosi multipla» - Il Messaggero](https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUtYMHBPakV2QW1aLWJrcHYwclZhckZkWWg3MnNJXzFvR0lmb3ZRRDFkM2d6cGdCamJ5aVdnanpSYXAtb25wNHhuSGlIVnpJZFYyUlBlUFgwUlhSS1BjQWx2bWJheUctblQ2N1RuSnlKSlJXc05sbjN1TkRldFhRbG1abmZJbEw0Wktfb3UxbjhCdlE1RkVzV0gwQdIBkAFBVV95cUxNZWphdjVzcHlkVm05emM2UFY1d0pmYzBzOENzQmhOMjB0LUVDQUxvdWlMMkRKRjB3aGthclZWaS1hUnljSTYyU2xPVGFwSHRra1dVdmJCTVF1SHJtbUYyei1YaTlMUlV1UElaMFp2N0Vsa0dGQlRhSjdaa3k2LVNadG1sTEFEeGZTUnRwem85TGg?oc=5)
-
-2026-06-11 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUtYMHBPakV2QW1aLWJrcHYwclZhckZkWWg3MnNJXzFvR0lmb3ZRRDFkM2d6cGdCamJ5aVdnanpSYXAtb25wNHhuSGlIVnpJZFYyUlBlUFgwUlhSS1BjQWx2bWJheUctblQ2N1RuSnlKSlJXc05sbjN1TkRldFhRbG1abmZJbEw0Wktfb3UxbjhCdlE1RkVzV0gwQdIBkAFBVV95cUxNZWphdjVzcHlkVm05emM2UFY1d0pmYzBzOENzQmhOMjB0LUVDQUxvdWlMMkRKRjB3aGthclZWaS1hUnljSTYyU2xPVGFwSHRra1dVdmJCTVF1SHJtbUYyei1YaTlMUlV1UElaMFp2N0Vsa0dGQlRhSjdaa3k2LVNadG1sTEFEeGZTUnRwem85TGg?oc=5)
-
----
-
-### [Ein Bus und VR-Technologie zu MS: Augustahospital Anholt rückt Krankheit in den Fokus - Bocholter Borkener Volksblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxPclhlOHh2ZEtjTkVjQ2tUUC1pb3JBUE81WkVWSkVNNkpUVGNsY3hCVENDT0JlaV9zZmZhMnBTRUZvanBXSzlvc0hRRnZncF9ZdG5HSUVqT0FmeE1zakg5MmMyQkY1eU1JMmFHR0VNN2thelpCMC1IUDRRYndaRUlMLUhUd0FFRk1COEF5S0UzbTl3aW96NEZJQWdLT2xiazBfQU9VRlRQUDJ2WmxEaWJqcUxyQW5jRGZKUjdFXw?oc=5)
-
-2026-06-11 <span class="news-indication-tag">MS</span>
-
-來源：[Bocholter Borkener Volksblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxPclhlOHh2ZEtjTkVjQ2tUUC1pb3JBUE81WkVWSkVNNkpUVGNsY3hCVENDT0JlaV9zZmZhMnBTRUZvanBXSzlvc0hRRnZncF9ZdG5HSUVqT0FmeE1zakg5MmMyQkY1eU1JMmFHR0VNN2thelpCMC1IUDRRYndaRUlMLUhUd0FFRk1COEF5S0UzbTl3aW96NEZJQWdLT2xiazBfQU9VRlRQUDJ2WmxEaWJqcUxyQW5jRGZKUjdFXw?oc=5)
 
 ---
 
