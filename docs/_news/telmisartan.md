@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Unbemerkt und tückisch: Diese fünf Faktoren erhöhen Ihr Schlaganfallrisiko massiv - Gießener Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnRVVkJKMHM5b3RMbzZvcGUydGhRR1p4Nm5maGpjN2w4RG1FOGZiUWVmeXB4RU42ZHBDVkY0aGRSNFB3WHhRRW9wMVpyTzk0dHZNbXVjSGp3aEVmeHQ1N3EwUFNDMVBzeGFtQ2ppNXdkVGt4Q1A0d19wTm4wVkhGOWhoSUotalNINzJnWFJJc1huanVWa3U1bGtVVzNMbXVaQ1FUWF9YRjMwRGZvcGFISXVaLVBwTDRGUEs2M1N2aTcxek1DV2t4aWRkZ0NFdw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Gießener Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnRVVkJKMHM5b3RMbzZvcGUydGhRR1p4Nm5maGpjN2w4RG1FOGZiUWVmeXB4RU42ZHBDVkY0aGRSNFB3WHhRRW9wMVpyTzk0dHZNbXVjSGp3aEVmeHQ1N3EwUFNDMVBzeGFtQ2ppNXdkVGt4Q1A0d19wTm4wVkhGOWhoSUotalNINzJnWFJJc1huanVWa3U1bGtVVzNMbXVaQ1FUWF9YRjMwRGZvcGFISXVaLVBwTDRGUEs2M1N2aTcxek1DV2t4aWRkZ0NFdw?oc=5)
+
+---
 
 ### [Not all fruits and vegetables are equal when it comes to heart health, our research shows - The Conversation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5)
 

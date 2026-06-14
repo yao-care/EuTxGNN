@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [32º Congreso SEMG: Las exacerbaciones de la EPOC aumentan de forma significativa el riesgo cardiovascular - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFVJU2VOV2pOcDJBVDRGNDZ3a0pwTnI3X0NQYkJFOHFQQ1RJYTl5UXgzRklRS2ljTU5UZFByakxYc1NlS2dsWUxPYlBmWWprSkZSVl96Q3dsWFFyaDZrTUQ5V0toU1lfZmlDNVE4Nmp4M2duNmpfdUVCNGwwa3dEdVdBekVOSkpsOWZZZ2RHQmFVUkc1S3h1dExZZWVxaGhIUXF6LW1GT1I4cTBmTG9RMjlLZks2Ulh2VzZOddIBtwFBVV95cUxQbVdYTlZET1hKalZNRFhpNWhMcEJ2MTA3ekV3SElTSXU3c3JQNmlYejZBQW85aHE3b1hRWndKRE5ZS3pHdHhOaUtDcW02R2IyeFJkVnNQdXd5Q2szTGEtanItSDNpRjhBWkJKTUptZ2ZiTHVMR3NLeUdCT1V2aXhnYjFJRy1mbkVjQVdwaFJHZm9pSHd2WmxZZDN6VU1hZnJMU1BYXy05cFFjWUhRLXZ4OXpFWW1FTG8?oc=5)
-
-2026-06-12 <span class="news-indication-tag">EPOC</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFVJU2VOV2pOcDJBVDRGNDZ3a0pwTnI3X0NQYkJFOHFQQ1RJYTl5UXgzRklRS2ljTU5UZFByakxYc1NlS2dsWUxPYlBmWWprSkZSVl96Q3dsWFFyaDZrTUQ5V0toU1lfZmlDNVE4Nmp4M2duNmpfdUVCNGwwa3dEdVdBekVOSkpsOWZZZ2RHQmFVUkc1S3h1dExZZWVxaGhIUXF6LW1GT1I4cTBmTG9RMjlLZks2Ulh2VzZOddIBtwFBVV95cUxQbVdYTlZET1hKalZNRFhpNWhMcEJ2MTA3ekV3SElTSXU3c3JQNmlYejZBQW85aHE3b1hRWndKRE5ZS3pHdHhOaUtDcW02R2IyeFJkVnNQdXd5Q2szTGEtanItSDNpRjhBWkJKTUptZ2ZiTHVMR3NLeUdCT1V2aXhnYjFJRy1mbkVjQVdwaFJHZm9pSHd2WmxZZDN6VU1hZnJMU1BYXy05cFFjWUhRLXZ4OXpFWW1FTG8?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

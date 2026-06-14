@@ -54,19 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（2 則）
 
+### [Médicaments anti-obésité : début du remboursement de Wegovy et Mounjaro en France mais les contraintes seront strictes - Sud Ouest](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb3ZaeEpzQXJFcERyZ1RTaXdmNmxHVEF6eGRJbUNxV19lUE5Pb3ZiSFY1WW10WXZVUlBBQklfcDNOQTZLZmx6a2xWdkZFbnI5MmZEeldUSUFqNFpwTTJFQlpYNHBOUTE1TTVIRjRjSXBMaXdkSTFGeTJrbldoS0JaNWU5bV9MMkstYzhqNTZXU1p6ZEh6YXNzSm1NT21nMGdUcW5aRDM0UVU0NDNTb2c4aGdEUG5oeTBSdHMzR0Fsb2p5d2hVTl9NOXlFMWI1ckQwdVpEZkZMZFdJVUtjWXlrWk9tTFExNGFTdWZsdFJ1OXM?oc=5)
+
+2026-06-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb3ZaeEpzQXJFcERyZ1RTaXdmNmxHVEF6eGRJbUNxV19lUE5Pb3ZiSFY1WW10WXZVUlBBQklfcDNOQTZLZmx6a2xWdkZFbnI5MmZEeldUSUFqNFpwTTJFQlpYNHBOUTE1TTVIRjRjSXBMaXdkSTFGeTJrbldoS0JaNWU5bV9MMkstYzhqNTZXU1p6ZEh6YXNzSm1NT21nMGdUcW5aRDM0UVU0NDNTb2c4aGdEUG5oeTBSdHMzR0Fsb2p5d2hVTl9NOXlFMWI1ckQwdVpEZkZMZFdJVUtjWXlrWk9tTFExNGFTdWZsdFJ1OXM?oc=5)
+
+---
+
 ### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
 
 2026-06-13 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
-
----
-
-### [Wegovy et Mounjaro remboursés dans l’obésité : les généralistes écartés de la première prescription](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNXpDV0xNMlhVakJLaW54M2V5RnhSZ2hrMkR5ZVZxMEtJRVNaQVI3VjdFMV85Q0pYbzJTSEdwZnBRalNVbjZoNUVnUkxhMzhUWVZKR1lJMDNPUURMdDJLSmlFdDJjT3JnUjFRMlFiVlVrS3BsSFlObjE2VTFuSDVwbHU4b0tlUV9mUEw4MHpYWExlcU1Ga202bTVwZG1LRk13QUxzX2xsQ1pldmFVUjNTVXdWeG54dG0tQmFtamhJRi1EWUI0T1U1c1VYR1dEUFNNUm12cmRqT2pudk1SSHlWOVVVZHpRdw?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Caducée.net](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNXpDV0xNMlhVakJLaW54M2V5RnhSZ2hrMkR5ZVZxMEtJRVNaQVI3VjdFMV85Q0pYbzJTSEdwZnBRalNVbjZoNUVnUkxhMzhUWVZKR1lJMDNPUURMdDJLSmlFdDJjT3JnUjFRMlFiVlVrS3BsSFlObjE2VTFuSDVwbHU4b0tlUV9mUEw4MHpYWExlcU1Ga202bTVwZG1LRk13QUxzX2xsQ1pldmFVUjNTVXdWeG54dG0tQmFtamhJRi1EWUI0T1U1c1VYR1dEUFNNUm12cmRqT2pudk1SSHlWOVVVZHpRdw?oc=5)
 
 ---
 

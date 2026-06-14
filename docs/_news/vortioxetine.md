@@ -62,11 +62,11 @@ permalink: /news/vortioxetine/
 
 ---
 
-### [Depression: Charité testet Hormon DHEA als Zusatztherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wbWRiT2NaOHcyTjF4TzdGaWRacmpRdVduOUgwSzNGSWxqNjVqTFkzUXM0N3gzUkRxVEhFdDlTUDJUNnlQRDZjTkJFdTEzNndjT21mcVk5em5xX3FxYmFYMk05TUtac3lQVVRZZ1FBTm9JVk5yT3ZvQVlSV2doSU10N0pKYzJ1cFA1OGN6MUw0TEp1aVA3cjZRX3J5c2lCRE5yUWI3QnI?oc=5)
+### [Charité startet DHEA-Studie zur Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
 
 2026-06-13 <span class="news-indication-tag">depression</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wbWRiT2NaOHcyTjF4TzdGaWRacmpRdVduOUgwSzNGSWxqNjVqTFkzUXM0N3gzUkRxVEhFdDlTUDJUNnlQRDZjTkJFdTEzNndjT21mcVk5em5xX3FxYmFYMk05TUtac3lQVVRZZ1FBTm9JVk5yT3ZvQVlSV2doSU10N0pKYzJ1cFA1OGN6MUw0TEp1aVA3cjZRX3J5c2lCRE5yUWI3QnI?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
 
 ---
 

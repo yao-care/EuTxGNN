@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（5 則）
 
-### [Specialists Are Practically Begging People To Eat These 3 Foods That Actually Lower Dementia Risk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
+### [El Alzheimer podría comenzar mucho antes de lo que imaginamos - Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
 
 2026-06-13
 
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
+
+---
+
+### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc1RnljcHNQZlZSUHlWelBucnh6aUtXSy1QeVdZRGVmTklIeXh5SVNuVEZLN1RxQTEwUTVuUVV1aUdxRHBra3VOOTFzZy1BcFBrZVl1U0M2WUJ2d3E3TThTaGxtamN4X2xOY3U2bHVic241MENqUjhIVDRhMkRaVTRFbU85LU52ZUZTZNIBkgFBVV95cUxPbXZqcEJNSnlJNnZnTEVCU0U2MmdySmZsb3FKQTAtdDA4YWxxcmtDZGhWY3A4M3NkcW9WYUIzNkx5elJveGlYbUE1SXNCWFNkampyRnkwSWlIaXU2QzNSMHZZa210NTFUNXRiZmJRMzZ4cnhnOEp2T1RnQXpaQXRzdTBEZkNDd3ZhRFcyRUlFOENVdw?oc=5)
+
+2026-06-13
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc1RnljcHNQZlZSUHlWelBucnh6aUtXSy1QeVdZRGVmTklIeXh5SVNuVEZLN1RxQTEwUTVuUVV1aUdxRHBra3VOOTFzZy1BcFBrZVl1U0M2WUJ2d3E3TThTaGxtamN4X2xOY3U2bHVic241MENqUjhIVDRhMkRaVTRFbU85LU52ZUZTZNIBkgFBVV95cUxPbXZqcEJNSnlJNnZnTEVCU0U2MmdySmZsb3FKQTAtdDA4YWxxcmtDZGhWY3A4M3NkcW9WYUIzNkx5elJveGlYbUE1SXNCWFNkampyRnkwSWlIaXU2QzNSMHZZa210NTFUNXRiZmJRMzZ4cnhnOEp2T1RnQXpaQXRzdTBEZkNDd3ZhRFcyRUlFOENVdw?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/alzheimer-disease/
 2026-06-12
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZckV1NHU2MlFkWS0wak1manJ6WkE4NlVrZDFyY0E1ZnN5WkIybjFxc29wUnlRdzR3b3BoUU1ZWFlXY2ZWZFlyMXFLbS0tWDlaRmVyTHJaMEhxa2dQUzI0a1VXbjdKOGhPZzR2eXp3?oc=5)
-
----
-
-### [Sysmex lanza un kit de análisis para la detección de un biomarcador relacionado con el Alzheimer](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRDFTaXFnVEVIMWNiRi1ET1QtYmcxaENFeUhEY0lvdFlRWWJ5cGQ2RE9WNms4TjFYWlVTZ2dGYnZhOThhZjFwekpfSkxWTzlKTVNsTUk4WjA5bWpSNGZWNmVqeEh1eEstdDlNVGlBcnhKUDgzOWRCc0RXcWNLblRLR1hEOGhpQ0RHZ0JrUzdPSklQNkdhNkhnalBSRUhnV2xlOG5GRldWVWx2ZUNiclhqd1BnVFRuQko3bTcydVgyaVJnX2ZwV1RBcGEwRTFkUW1xQkhzakdGY01pTW0x0gHiAUFVX3lxTE56U3M3TkFjSjFBdVJ2dEsxZmdDbVhBMkc4dGhvU3Q0OFhOSHk0QkVrbDVvbFI2aFp3Q2cyYlVuWUtVSWtkWlRlT0EtMWJ6QjFxMlc2aVR0Z20xZ3dERHNsLUlzWTNhbE03Z2RWUWhLeTRBZnRIZV9BcnlCb19BUklrQnRoSVF0UlVTcldza0dvZlA2UXVEY0E2UkFzLVVrZFJNQy05UUxDZGZxdjdIdUIwZlJITEY0RHlLd0dnbldaeUFDQWlLNWVkOEtxUmpKdUlvZ2JYY19xbXRzRU9mNmxLYkE?oc=5)
-
-2026-06-12
-
-來源：[Alimarket.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRDFTaXFnVEVIMWNiRi1ET1QtYmcxaENFeUhEY0lvdFlRWWJ5cGQ2RE9WNms4TjFYWlVTZ2dGYnZhOThhZjFwekpfSkxWTzlKTVNsTUk4WjA5bWpSNGZWNmVqeEh1eEstdDlNVGlBcnhKUDgzOWRCc0RXcWNLblRLR1hEOGhpQ0RHZ0JrUzdPSklQNkdhNkhnalBSRUhnV2xlOG5GRldWVWx2ZUNiclhqd1BnVFRuQko3bTcydVgyaVJnX2ZwV1RBcGEwRTFkUW1xQkhzakdGY01pTW0x0gHiAUFVX3lxTE56U3M3TkFjSjFBdVJ2dEsxZmdDbVhBMkc4dGhvU3Q0OFhOSHk0QkVrbDVvbFI2aFp3Q2cyYlVuWUtVSWtkWlRlT0EtMWJ6QjFxMlc2aVR0Z20xZ3dERHNsLUlzWTNhbE03Z2RWUWhLeTRBZnRIZV9BcnlCb19BUklrQnRoSVF0UlVTcldza0dvZlA2UXVEY0E2UkFzLVVrZFJNQy05UUxDZGZxdjdIdUIwZlJITEY0RHlLd0dnbldaeUFDQWlLNWVkOEtxUmpKdUlvZ2JYY19xbXRzRU9mNmxLYkE?oc=5)
 
 ---
 

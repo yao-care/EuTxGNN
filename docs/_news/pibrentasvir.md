@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [El Alzheimer podría comenzar mucho antes de lo que imaginamos - Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
+
+2026-06-13 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
+
+---
 
 ### [Sanidad refuerza la vigilancia y control de las enfermedades transmitidas por mosquitos o garrapatas - Valencia Plaza](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2JUVjlGdUdINm55bjFxckhBUmFyZ2ppcFNZT1ZfQ3F0ZW0yYmctdXRydzFtYzZOOWRHX1FwbUpvNkJjSlhaaGlQbDVGZHVwY19Remt1YVV4SEdfQ0hRSThneFhnYmVndjQ3d0JvZ2hncER3Q2hWcFVZQWRHYnNyeUpMYm53N01ZVjJDcE1VdkYtcUo1UUgwRzJwWjNNam5YQVVyUlFscTJBVFNjNDRvVllJcktyc0oxczVGWkExTUwtMGJSdzhtblZEN3VJbklnRm9ZSjF2aUJrREVDSzlCQ1U4MnFEWVJ2YkJrSEZSVktLTnRR?oc=5)
 
 2026-06-13 <span class="news-indication-tag">MS</span>
 
 來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2JUVjlGdUdINm55bjFxckhBUmFyZ2ppcFNZT1ZfQ3F0ZW0yYmctdXRydzFtYzZOOWRHX1FwbUpvNkJjSlhaaGlQbDVGZHVwY19Remt1YVV4SEdfQ0hRSThneFhnYmVndjQ3d0JvZ2hncER3Q2hWcFVZQWRHYnNyeUpMYm53N01ZVjJDcE1VdkYtcUo1UUgwRzJwWjNNam5YQVVyUlFscTJBVFNjNDRvVllJcktyc0oxczVGWkExTUwtMGJSdzhtblZEN3VJbklnRm9ZSjF2aUJrREVDSzlCQ1U4MnFEWVJ2YkJrSEZSVktLTnRR?oc=5)
+
+---
+
+### [Japón estudia el origen de las canas y descubre por casualidad que deberías alegrarte de tenerlas - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
+
+2026-06-13 <span class="news-indication-tag">MS</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
 
 ---
 
@@ -70,19 +86,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [El hígado graso, un reto en el 32% de la población - Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFBxZlg5U1Z4bnpDVzdiWTR3NVloRERQelV5UzUxamV3T053bmMtNndJaTVOWWtKZGhZVXlsQV9XZkEtVW1RQUF4TmoyQS1adkd5RGpzRzBXT252RVhJMWdsWEg4bkRuX1kwTkxv?oc=5)
+
+2026-06-13 <span class="news-indication-tag">MS</span>
+
+來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFBxZlg5U1Z4bnpDVzdiWTR3NVloRERQelV5UzUxamV3T053bmMtNndJaTVOWWtKZGhZVXlsQV9XZkEtVW1RQUF4TmoyQS1adkd5RGpzRzBXT252RVhJMWdsWEg4bkRuX1kwTkxv?oc=5)
+
+---
+
 ### [Inquest jury concludes Hampshire boy died of natural causes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
 
 2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
-
----
-
-### ["Enfermedades de las multitudes" a las que podrías estar expuesto en esta Copa Mundial de Futbol](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRDN0p0bVQ0cVhPelpiQzdKSFptZVJncEZtWkJJdkpVb1pZTy1LSUh3a1VJaUdFUnNYVmlyQ3BqRDZjQkZrOGZuVWoxUnVncXZkenNTTWk4LXRuMU9ycUF6STlOLUxkdnlpYUlyTDV0bmRZazMwYUYxT0sxeGw1UlV3bmRaLVBfQ2ZSWEZWNW1HSVJZZm5TaUlDR3hySEZUZTFWZV84RkRFaEZhbmlJVFJydk9vejJNVXpWeFFCUWs3SVp4eFpJ?oc=5)
-
-2026-06-12 <span class="news-indication-tag">MS</span>
-
-來源：[laopinion.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXRDN0p0bVQ0cVhPelpiQzdKSFptZVJncEZtWkJJdkpVb1pZTy1LSUh3a1VJaUdFUnNYVmlyQ3BqRDZjQkZrOGZuVWoxUnVncXZkenNTTWk4LXRuMU9ycUF6STlOLUxkdnlpYUlyTDV0bmRZazMwYUYxT0sxeGw1UlV3bmRaLVBfQ2ZSWEZWNW1HSVJZZm5TaUlDR3hySEZUZTFWZV84RkRFaEZhbmlJVFJydk9vejJNVXpWeFFCUWs3SVp4eFpJ?oc=5)
 
 ---
 
@@ -115,30 +131,6 @@ permalink: /news/pibrentasvir/
 2026-06-12 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
-
----
-
-### ['I'm a doctor - this is what I'd eat if I had high cholesterol' - RSVP Live](https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5)
-
-2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[RSVP Live](https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5)
-
----
-
-### [Multiple Sklerose: Ketogene Diät reduziert Fatigue messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWC01dklPN1RZTVQ1ZDVWbVRuWlNJc25NeXgtSGJkYk5lUUxOQWczMVN2elNxMUdIRG0xbmlZZ1BadTY1NTVtNXljZnYzX0w1MnFNd284SkdaYzkxNHItT0wwQksyVlFkeVF6YldEQkJHTHd4LTNqTmRuZHNoT1hmbFNBb0N1TTZnZ1NyRmh0akRpQ2hOYzdCc2hzRmotWGdSQWFkZUp3Q1JTazg?oc=5)
-
-2026-06-12 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWC01dklPN1RZTVQ1ZDVWbVRuWlNJc25NeXgtSGJkYk5lUUxOQWczMVN2elNxMUdIRG0xbmlZZ1BadTY1NTVtNXljZnYzX0w1MnFNd284SkdaYzkxNHItT0wwQksyVlFkeVF6YldEQkJHTHd4LTNqTmRuZHNoT1hmbFNBb0N1TTZnZ1NyRmh0akRpQ2hOYzdCc2hzRmotWGdSQWFkZUp3Q1JTazg?oc=5)
-
----
-
-### [Sysmex lanza un kit de análisis para la detección de un biomarcador relacionado con el Alzheimer](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRDFTaXFnVEVIMWNiRi1ET1QtYmcxaENFeUhEY0lvdFlRWWJ5cGQ2RE9WNms4TjFYWlVTZ2dGYnZhOThhZjFwekpfSkxWTzlKTVNsTUk4WjA5bWpSNGZWNmVqeEh1eEstdDlNVGlBcnhKUDgzOWRCc0RXcWNLblRLR1hEOGhpQ0RHZ0JrUzdPSklQNkdhNkhnalBSRUhnV2xlOG5GRldWVWx2ZUNiclhqd1BnVFRuQko3bTcydVgyaVJnX2ZwV1RBcGEwRTFkUW1xQkhzakdGY01pTW0x0gHiAUFVX3lxTE56U3M3TkFjSjFBdVJ2dEsxZmdDbVhBMkc4dGhvU3Q0OFhOSHk0QkVrbDVvbFI2aFp3Q2cyYlVuWUtVSWtkWlRlT0EtMWJ6QjFxMlc2aVR0Z20xZ3dERHNsLUlzWTNhbE03Z2RWUWhLeTRBZnRIZV9BcnlCb19BUklrQnRoSVF0UlVTcldza0dvZlA2UXVEY0E2UkFzLVVrZFJNQy05UUxDZGZxdjdIdUIwZlJITEY0RHlLd0dnbldaeUFDQWlLNWVkOEtxUmpKdUlvZ2JYY19xbXRzRU9mNmxLYkE?oc=5)
-
-2026-06-12 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Alimarket.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRDFTaXFnVEVIMWNiRi1ET1QtYmcxaENFeUhEY0lvdFlRWWJ5cGQ2RE9WNms4TjFYWlVTZ2dGYnZhOThhZjFwekpfSkxWTzlKTVNsTUk4WjA5bWpSNGZWNmVqeEh1eEstdDlNVGlBcnhKUDgzOWRCc0RXcWNLblRLR1hEOGhpQ0RHZ0JrUzdPSklQNkdhNkhnalBSRUhnV2xlOG5GRldWVWx2ZUNiclhqd1BnVFRuQko3bTcydVgyaVJnX2ZwV1RBcGEwRTFkUW1xQkhzakdGY01pTW0x0gHiAUFVX3lxTE56U3M3TkFjSjFBdVJ2dEsxZmdDbVhBMkc4dGhvU3Q0OFhOSHk0QkVrbDVvbFI2aFp3Q2cyYlVuWUtVSWtkWlRlT0EtMWJ6QjFxMlc2aVR0Z20xZ3dERHNsLUlzWTNhbE03Z2RWUWhLeTRBZnRIZV9BcnlCb19BUklrQnRoSVF0UlVTcldza0dvZlA2UXVEY0E2UkFzLVVrZFJNQy05UUxDZGZxdjdIdUIwZlJITEY0RHlLd0dnbldaeUFDQWlLNWVkOEtxUmpKdUlvZ2JYY19xbXRzRU9mNmxLYkE?oc=5)
 
 ---
 

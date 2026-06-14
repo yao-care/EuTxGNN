@@ -14,7 +14,7 @@ permalink: /news/tegafur/
 ---
 
 <p class="key-answer" data-question="Tegafur 有什麼相關新聞？">
-<strong>Tegafur</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tegafur</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tegafur/
 <p><a href="{{ '/drugs/tegafur/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
 
 ### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
 2026-06-14 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [Désinformation sur les réseaux sociaux : des utilisateurs affirment que des vermifuges sont capables de guérir des cancers avancés !](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
+
+2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
 
 ---
 
@@ -78,11 +86,19 @@ permalink: /news/tegafur/
 
 ---
 
-### [Mehr Sonnentage: Wie UV-Strahlung unser Leben verändert - Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
+### ["Combinaison, casquette et on tartine" : rappel des bons réflexes pour se protéger du soleil et prévenir les cancers de la peau - France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPNWlEZWIxQ0NjWEpKTmJGWHVJUlFnRkRtZWNtMU85WW1CSm1MZDVxZ1pRcDlZQV80Nkx5YWIxc3Nzb3JqU1E1MTZGRzhTblFPOXhaQWhsMmZmVmY5N2VwUWo1RXhocjFHb2Etc0toTnNBeThQX1pnZDZaNFJlcXdOaVB3Tk9TMFJJbFkyMkVfUkxhVGVmVDFCSXZib0xCZTc3V1BNZE0tNE5RNUF2dTF6Rm1NTjd0YUxRb0txbGRWYXdjUjZaaVAyT1hwZXVydU1jcnpIWVJQRmdhY1AzMzgxMnVXVEMwWm1jekxDR3lhdUxGOFpsMlNJUmNvYjdET1J1Z1Ryb0pGQkI4ZTRrWEdKb0ZYZkdSUDdQaEhoQjlTTmMxZ3l6TE13TngwRQ?oc=5)
 
-2026-06-13 <span class="news-indication-tag">Krebs</span>
+2026-06-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPNWlEZWIxQ0NjWEpKTmJGWHVJUlFnRkRtZWNtMU85WW1CSm1MZDVxZ1pRcDlZQV80Nkx5YWIxc3Nzb3JqU1E1MTZGRzhTblFPOXhaQWhsMmZmVmY5N2VwUWo1RXhocjFHb2Etc0toTnNBeThQX1pnZDZaNFJlcXdOaVB3Tk9TMFJJbFkyMkVfUkxhVGVmVDFCSXZib0xCZTc3V1BNZE0tNE5RNUF2dTF6Rm1NTjd0YUxRb0txbGRWYXdjUjZaaVAyT1hwZXVydU1jcnpIWVJQRmdhY1AzMzgxMnVXVEMwWm1jekxDR3lhdUxGOFpsMlNJUmNvYjdET1J1Z1Ryb0pGQkI4ZTRrWEdKb0ZYZkdSUDdQaEhoQjlTTmMxZ3l6TE13TngwRQ?oc=5)
+
+---
+
+### [Las señales de alerta de un posible tumor cerebral que los médicos piden no ignorar](https://news.google.com/rss/articles/CBMiygFBVV95cUxObmlkUl85NzU0anJmSGkydzJDenMxMmZNNHRnSUtYYWx3Qy1ESkpRNmd4MDAteEJOLU9uajlIdEFmZW5jSDFTdkNNdXctNGptREU3VTJicnFZbE1MbWxjT0dwX2xmLTR1eUFBdDdEcXd4SGVaTDg4YU9rMzVPeHVONkxKZkZQTjZGbW12em5JWmFSZGNpMEE0bEpENFZYeVRkOHBOcG5CaXJJS3Nud0R0cmhDeEI0QTVadlJNNXoyeTlibFpiR0dXYmp30gHkAUFVX3lxTE9KZG5sN19pbk5WSnFrLWQ2Rzlpd1JSSXoxdXJVOGJpQ3dJamlXenEtcUZzM1ExMmg1TWNyRnp2YzVfNG9HaDdvVTBXbHhWN0NCV0FUUndMdzdiaFE0djZVV1NTbDc3STE3SEprUmpEM08wUDh1THZkN3phYXlmOUN0N2J5R2Jldm5GNkpobGlwS3FJN2lTQkM4cWU2UVBvX1RmZ1ZVWG5RRUhmbzFCdHg3VGs1R3JPZmNYeG03OE9ZTlJTQ2RiYXQtUlVXU2w5ZlpRS0JEYU9GSjJ4elU5bDNnTk9wbg?oc=5)
+
+2026-06-13 <span class="news-indication-tag">tumor</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiygFBVV95cUxObmlkUl85NzU0anJmSGkydzJDenMxMmZNNHRnSUtYYWx3Qy1ESkpRNmd4MDAteEJOLU9uajlIdEFmZW5jSDFTdkNNdXctNGptREU3VTJicnFZbE1MbWxjT0dwX2xmLTR1eUFBdDdEcXd4SGVaTDg4YU9rMzVPeHVONkxKZkZQTjZGbW12em5JWmFSZGNpMEE0bEpENFZYeVRkOHBOcG5CaXJJS3Nud0R0cmhDeEI0QTVadlJNNXoyeTlibFpiR0dXYmp30gHkAUFVX3lxTE9KZG5sN19pbk5WSnFrLWQ2Rzlpd1JSSXoxdXJVOGJpQ3dJamlXenEtcUZzM1ExMmg1TWNyRnp2YzVfNG9HaDdvVTBXbHhWN0NCV0FUUndMdzdiaFE0djZVV1NTbDc3STE3SEprUmpEM08wUDh1THZkN3phYXlmOUN0N2J5R2Jldm5GNkpobGlwS3FJN2lTQkM4cWU2UVBvX1RmZ1ZVWG5RRUhmbzFCdHg3VGs1R3JPZmNYeG03OE9ZTlJTQ2RiYXQtUlVXU2w5ZlpRS0JEYU9GSjJ4elU5bDNnTk9wbg?oc=5)
 
 ---
 
@@ -94,19 +110,11 @@ permalink: /news/tegafur/
 
 ---
 
-### ["Aujourd'hui, trouver un dermatologue, ça se compte en années" : comment faire dépister un mélanome ? - France 3 Régions](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzBhMXUyRWNWM0x0d29oeWtmTHpKLURSZ3VUVVhHM25RSzJEcDBnUGJfZC1PbkRIM01qbW9TQUtzVFNlNkFwWXc4eGZ0TXZ0SDJaMjc3MmREaEMyZG1rTlQ0RFoyczd0M0cxNl9xUDdDVWRvSEZTTXktYk1QVloxd1hCS05oTlhPVFJPaXhyZ00yMlpHTVRJa2g3dzFaWThSQWt1TFRyY1JwNzREYzFaT1hIZjl2Yi1fcUFOMVdhM0VDblhOVV93eHZuYW5XQnpvckx5cW9Gd3Zva1c2WGRXRWt4a0RCVlZEbHU5dGxoalc?oc=5)
+### [Avances en cánceres de mama, de próstata, pulmón, tumores GIST y mieloma múltiple](https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3I2dW9xSHo4VUk4RzdWbWV6QXd4bUd2ZmVLRFpjbXZKZVIwNFdBakFrYmVpQW93UkZLTFk3R2pvTVVJX0U3S29IbkhlNGJfY0pMb29ZRmYyX2FYbm92ZVdjNEk3aGVxWklPcE9rVEtiRDBoY3RIcHZ0eHRjZ2hQbUhlczFkQ04tXzd1UDF1T1VsemM5akYxcTBFOUlubk9NZ3VYa2g2aw?oc=5)
 
-2026-06-13 <span class="news-indication-tag">cancer</span>
+2026-06-12 <span class="news-indication-tag">tumor</span>
 
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzBhMXUyRWNWM0x0d29oeWtmTHpKLURSZ3VUVVhHM25RSzJEcDBnUGJfZC1PbkRIM01qbW9TQUtzVFNlNkFwWXc4eGZ0TXZ0SDJaMjc3MmREaEMyZG1rTlQ0RFoyczd0M0cxNl9xUDdDVWRvSEZTTXktYk1QVloxd1hCS05oTlhPVFJPaXhyZ00yMlpHTVRJa2g3dzFaWThSQWt1TFRyY1JwNzREYzFaT1hIZjl2Yi1fcUFOMVdhM0VDblhOVV93eHZuYW5XQnpvckx5cW9Gd3Zva1c2WGRXRWt4a0RCVlZEbHU5dGxoalc?oc=5)
-
----
-
-### [La marche rapide réduirait de 30 % le risque de cancer du côlon selon une étude américaine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUFPR3RiZ3dKR01fVUxHZHdFb2NEclU2UHJiQlZBTkstWWVQNFR3bVU3bFR1cWgxRU8zRE9PWE15cEVTeTRiODlTc2hidmNIVFdNSjJOekpaN3VIWHlRZ2NmenNLVml5bGt4VWpRNDAtOE5DSFVsajE4eWRHMkZYQ19NUEVEVi1oMXZUd3I0am45bVM1RmFKSW5saHlRRmxtYUswN0dfcWtDckZwS3lDeGZIZmhTOFRBeUd3?oc=5)
-
-2026-06-13 <span class="news-indication-tag">cancer</span>
-
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUFPR3RiZ3dKR01fVUxHZHdFb2NEclU2UHJiQlZBTkstWWVQNFR3bVU3bFR1cWgxRU8zRE9PWE15cEVTeTRiODlTc2hidmNIVFdNSjJOekpaN3VIWHlRZ2NmenNLVml5bGt4VWpRNDAtOE5DSFVsajE4eWRHMkZYQ19NUEVEVi1oMXZUd3I0am45bVM1RmFKSW5saHlRRmxtYUswN0dfcWtDckZwS3lDeGZIZmhTOFRBeUd3?oc=5)
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3I2dW9xSHo4VUk4RzdWbWV6QXd4bUd2ZmVLRFpjbXZKZVIwNFdBakFrYmVpQW93UkZLTFk3R2pvTVVJX0U3S29IbkhlNGJfY0pMb29ZRmYyX2FYbm92ZVdjNEk3aGVxWklPcE9rVEtiRDBoY3RIcHZ0eHRjZ2hQbUhlczFkQ04tXzd1UDF1T1VsemM5akYxcTBFOUlubk9NZ3VYa2g2aw?oc=5)
 
 ---
 
@@ -131,38 +139,6 @@ permalink: /news/tegafur/
 2026-06-12 <span class="news-indication-tag">tumor</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxORHN5UkRCX0NHVzdoVm9aRTdYaUExem1JbXhoanozVEYwdTdQY1dEc3JBRGV6bUtuQktLUHBWMzB1cG94V00tYzZROHZzRU9RSEhOd0xPQlVJX0p6S1F4bTFpY2xFaTBoZmFxbG56ZlhQejhReENGcFB6RHJ0dHVXelFpbmpCTzQycS0za283X3RrTVV4dElCUThUeXpLSWRFVExlbUZR0gGrAUFVX3lxTE5sZzZzNjVEVkZRaFFmYzBheVM2RHFKZU9LcklmVHFpTDZKV2w4ejY1dU5jSmJMU0oweU9laXRSX1BxZ21mU3AtSjYtSEZTQ3JYc2tqQy16Tk9DQnhyRDFKdWY2ODJBdHJUNG9PNGVpbjJIV1d1TGpfWnFHb2pSS3I2MWtNZGd2elM2bEpJQVh0S2haVXZTcDdrcGE3TllKSmgyQndZQW5IT1FMbw?oc=5)
-
----
-
-### [Medicina de precisión permite personalizar el tratamiento del cáncer según la biología de cada tumor - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWGFDZDRGYklYOHdtcDhrMGphRFBvdS1icXprT1NaeXhvLWZCSnM3WWFoVkR5Q1JuTm1UX1lKVzNYc3JTV2llTGk0M200YlRDUmpRWGx4dkxqVktaSEZlaG9KNHY4aS1kZnlNalczaFR5bi1NdFBqdng1WXpJQjM4MHpGYUh0cXU3Z050QjRLbWpPa3U2TEZlNERMbjUxbWJJREh4VVYyeHMyVUtZejFYNm5NdmFKWC1qNUlDSzhGQW5NQzY1VFZVWm5GUlVOWklob0hzQTNyOTdnRGxzMWxYdVRXMWctSUY3TUdDZ1NJcELSAfYBQVVfeXFMTV80Z2ZabWxGMER1bDVhR2ltSmZTak1mMnF6N3ByS2VNZnBoUFd6WE54ZU5xcS1lOXc4bl9neEowbS1oTC1lZUc0V2NTbkFIcWZpN01keG1adldSSGE1N1VPWkFhcm5MeHlEYkFWOEtIbG9ROTJfX0ttVVRhLUZlaUVsbkQ5ejQ1TlZucWV5OHZQdHd6YVl5dmtUblhVa3RGWF9qTTdNaG9ZZVM3aW5kVlpKVG1feElYcTVFNVZ4ODFEQVh2dFdaTEVyaFdUbW8xMlZhaXNhN09UcjlPR05FTjNiS0RTa3A2dHJpSXByZVdTdXJVTmpR?oc=5)
-
-2026-06-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWGFDZDRGYklYOHdtcDhrMGphRFBvdS1icXprT1NaeXhvLWZCSnM3WWFoVkR5Q1JuTm1UX1lKVzNYc3JTV2llTGk0M200YlRDUmpRWGx4dkxqVktaSEZlaG9KNHY4aS1kZnlNalczaFR5bi1NdFBqdng1WXpJQjM4MHpGYUh0cXU3Z050QjRLbWpPa3U2TEZlNERMbjUxbWJJREh4VVYyeHMyVUtZejFYNm5NdmFKWC1qNUlDSzhGQW5NQzY1VFZVWm5GUlVOWklob0hzQTNyOTdnRGxzMWxYdVRXMWctSUY3TUdDZ1NJcELSAfYBQVVfeXFMTV80Z2ZabWxGMER1bDVhR2ltSmZTak1mMnF6N3ByS2VNZnBoUFd6WE54ZU5xcS1lOXc4bl9neEowbS1oTC1lZUc0V2NTbkFIcWZpN01keG1adldSSGE1N1VPWkFhcm5MeHlEYkFWOEtIbG9ROTJfX0ttVVRhLUZlaUVsbkQ5ejQ1TlZucWV5OHZQdHd6YVl5dmtUblhVa3RGWF9qTTdNaG9ZZVM3aW5kVlpKVG1feElYcTVFNVZ4ODFEQVh2dFdaTEVyaFdUbW8xMlZhaXNhN09UcjlPR05FTjNiS0RTa3A2dHJpSXByZVdTdXJVTmpR?oc=5)
-
----
-
-### [Dad with cancer left in £4,500 debt after company mistakenly paid him - Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
-
-2026-06-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
-
----
-
-### [SMOP (SOPK) : «Je pensais être la seule touchée par l’hirsutisme, je n’osais pas en parler» - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmNZbjd5V3ZocW9uazk2a0xJSEppRXlkVUtlNGR3NVdMcHdEd25nS09wbzJtM2pFOEl3RHdpb085VVFvaXd0WVRjdFVpT1Q3YmZNejBGUXpna3l1WmRrUllOZGt0VnpnTWl6VzN0WXRHNU1OZ1ZITTBfNHNVWFlvYjRSQ2M4bVF3ak1KVkZlS0JuMTUtRENLaFJORXpBVHVkdWhvTHQ0b2pqUE9FeU1YZGd3N1hneVBKT0ZoTU9Ya2pGdw?oc=5)
-
-2026-06-12 <span class="news-indication-tag">cancer</span>
-
-來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmNZbjd5V3ZocW9uazk2a0xJSEppRXlkVUtlNGR3NVdMcHdEd25nS09wbzJtM2pFOEl3RHdpb085VVFvaXd0WVRjdFVpT1Q3YmZNejBGUXpna3l1WmRrUllOZGt0VnpnTWl6VzN0WXRHNU1OZ1ZITTBfNHNVWFlvYjRSQ2M4bVF3ak1KVkZlS0JuMTUtRENLaFJORXpBVHVkdWhvTHQ0b2pqUE9FeU1YZGd3N1hneVBKT0ZoTU9Ya2pGdw?oc=5)
-
----
-
-### [Herpes zoster am Auge bei Immungesunden kein Hinweis auf erhöhtes Krebsrisiko](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
-
-2026-06-12 <span class="news-indication-tag">Krebs</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
 
 ---
 
