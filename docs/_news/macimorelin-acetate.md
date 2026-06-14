@@ -14,7 +14,7 @@ permalink: /news/macimorelin-acetate/
 ---
 
 <p class="key-answer" data-question="Macimorelin Acetate 有什麼相關新聞？">
-<strong>Macimorelin Acetate</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macimorelin Acetate</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/macimorelin-acetate/
 <p><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（16 則）
 
 ### [Jóvenes investigadores debaten sobre salud cardiovascular en Madrid - Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
 
@@ -86,19 +86,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Charité startet DHEA-Studie zur Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
-
----
-
 ### [Inquest jury concludes Hampshire boy died of natural causes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
 
 2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
+
+---
+
+### [Young people urged to get meningitis B vaccine](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdXlGLTh1S0pwV3NSNWFLNGtLbWxqM1FkWmF3YVM4SmxBbUpiMnhlWnNWOHQzN1ZzNGphMEpVMzRHakhtbXE4bzdFQmpHZzRaeXpTRHJFUlFreFZq?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdXlGLTh1S0pwV3NSNWFLNGtLbWxqM1FkWmF3YVM4SmxBbUpiMnhlWnNWOHQzN1ZzNGphMEpVMzRHakhtbXE4bzdFQmpHZzRaeXpTRHJFUlFreFZq?oc=5)
 
 ---
 
@@ -115,22 +115,6 @@ permalink: /news/macimorelin-acetate/
 2026-06-12 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5)
-
----
-
-### [VIH : la lutte contre la maladie est « mise en danger » par la chute de l’aide internationale, prévient l’ONU - Le Monde.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVKSWVhbC0weTQ2SkpCbUpIMWx3cm50Q2d3X3FBREhsUDRhTGZpZjZSNDJCZjZBQmdzbDJhUFlzWUNwdHRkcW1NaVE0QjAybzJZWVRMbHdTRnh0cjE2aTd1VFlVMHVFSWVGdjZCaEg2T3M3ZEdyOVk3R1ZnNTFZM2RCOVg3cFV4M2p6QU41amI0MmIyX3E0QkVDN1JLZWdkbzdBT0l4V3dHcmVGRDVEOGJDQ2l3UmdNcmMwZ2lOejhRRGFlVlVORmVRN0t2S3pESGhiZ21UbkM0MmNaWkpFVVhnZHpuaXlheHdYcTdIaVo0QU5XMXV3Z1IzUjZqQkE?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVKSWVhbC0weTQ2SkpCbUpIMWx3cm50Q2d3X3FBREhsUDRhTGZpZjZSNDJCZjZBQmdzbDJhUFlzWUNwdHRkcW1NaVE0QjAybzJZWVRMbHdTRnh0cjE2aTd1VFlVMHVFSWVGdjZCaEg2T3M3ZEdyOVk3R1ZnNTFZM2RCOVg3cFV4M2p6QU41amI0MmIyX3E0QkVDN1JLZWdkbzdBT0l4V3dHcmVGRDVEOGJDQ2l3UmdNcmMwZ2lOejhRRGFlVlVORmVRN0t2S3pESGhiZ21UbkM0MmNaWkpFVVhnZHpuaXlheHdYcTdIaVo0QU5XMXV3Z1IzUjZqQkE?oc=5)
-
----
-
-### [Herzinfarkte bei Jungen: 42 Prozent mehr Fälle durch Extremarbeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTIzRmZiaHB5dmItaHZxaTBwSUtnS0NZZGhjemQyckpwU0tSRmNCbjJseWF6d18yRXhpRmI4cHFUczJLaFFjV0JLT0llenZTaHVyOXZqZ1RUQmRlTFA2cllEX1BqdUJrckk5aHUyYjA3MkJON0NMeW1FUXc4dlA5TldIbGtyaEhsWTg2WWZSbkJrZjIwaHBrUlNjQnNzTGtaMXVMWFNmZzhnQ2tManJqYWVOMzc?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTIzRmZiaHB5dmItaHZxaTBwSUtnS0NZZGhjemQyckpwU0tSRmNCbjJseWF6d18yRXhpRmI4cHFUczJLaFFjV0JLT0llenZTaHVyOXZqZ1RUQmRlTFA2cllEX1BqdUJrckk5aHUyYjA3MkJON0NMeW1FUXc4dlA5TldIbGtyaEhsWTg2WWZSbkJrZjIwaHBrUlNjQnNzTGtaMXVMWFNmZzhnQ2tManJqYWVOMzc?oc=5)
 
 ---
 
@@ -195,14 +179,6 @@ permalink: /news/macimorelin-acetate/
 2026-06-12 <span class="news-indication-tag">AF</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVhnYXZVV1haSk5JNWc1RXk2RW15RXUxSlJxWUFIWFVJMEYtUGpQSnZKZXR0cmtibWxUMzRYV0ZiWUlPbEdlMVdYY2RfdjU5ejJFTnlwQjcwQlJyM0lLTW43QWx6U3hCNUlLbXN4d01tLTNET0dNNElPR0RXdy1CVUtLanFUd1VFMTcxYjhnTkotcm1UUW5WYUdHRm1ybS1Wc2FZMndjLWlFVEFBaWxSNkpPc2hNNERCWTlPd3BKenduWXAzWl9LTDdieENkakx3M2h5RXU5dGVtOXpU?oc=5)
-
----
-
-### [Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
 
 ---
 

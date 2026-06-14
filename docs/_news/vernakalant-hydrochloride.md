@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（19 則）
 
 ### [Jóvenes investigadores debaten sobre salud cardiovascular en Madrid - Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-13 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5)
-
----
-
-### [Aumentan casos de hígado graso en jóvenes - Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
-
-2026-06-13 <span class="news-indication-tag">obesidad</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
 
 ---
 
@@ -94,19 +86,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Charité startet DHEA-Studie zur Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
-
----
-
 ### [Inquest jury concludes Hampshire boy died of natural causes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
 
 2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
+
+---
+
+### [Young people urged to get meningitis B vaccine](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdXlGLTh1S0pwV3NSNWFLNGtLbWxqM1FkWmF3YVM4SmxBbUpiMnhlWnNWOHQzN1ZzNGphMEpVMzRHakhtbXE4bzdFQmpHZzRaeXpTRHJFUlFreFZq?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdXlGLTh1S0pwV3NSNWFLNGtLbWxqM1FkWmF3YVM4SmxBbUpiMnhlWnNWOHQzN1ZzNGphMEpVMzRHakhtbXE4bzdFQmpHZzRaeXpTRHJFUlFreFZq?oc=5)
 
 ---
 
@@ -131,22 +123,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-12 <span class="news-indication-tag">obesidad</span>
 
 來源：[France 24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzIxVkNCZUt0d1c4cUN6MnlQbktmSDMzcDd1MnJ0TzJhMUdxa3BwN0VRcjdQTkRoRkMwcU40bjZyUlh2bzZYaUV4SXhRUFd3NG5EVHJ2QlJTVkszUHlCVWtvX1UxOVkweUtvTWllaW5xZkc3S1JDQWg4TGV1ZHFyX21fdjZMdlhlT0Q5aXdXRUF4YncxWmNsejl5T2ZJWkQzTzk5Y2xHWTdHa2VNXzVZYTRDZ2NIQ19CNUVFZl94YkxrM0hOdTdHRFZYLUxJUjV6d1gyVkQxZUVEZWFWakE?oc=5)
-
----
-
-### [VIH : la lutte contre la maladie est « mise en danger » par la chute de l’aide internationale, prévient l’ONU - Le Monde.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVKSWVhbC0weTQ2SkpCbUpIMWx3cm50Q2d3X3FBREhsUDRhTGZpZjZSNDJCZjZBQmdzbDJhUFlzWUNwdHRkcW1NaVE0QjAybzJZWVRMbHdTRnh0cjE2aTd1VFlVMHVFSWVGdjZCaEg2T3M3ZEdyOVk3R1ZnNTFZM2RCOVg3cFV4M2p6QU41amI0MmIyX3E0QkVDN1JLZWdkbzdBT0l4V3dHcmVGRDVEOGJDQ2l3UmdNcmMwZ2lOejhRRGFlVlVORmVRN0t2S3pESGhiZ21UbkM0MmNaWkpFVVhnZHpuaXlheHdYcTdIaVo0QU5XMXV3Z1IzUjZqQkE?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVKSWVhbC0weTQ2SkpCbUpIMWx3cm50Q2d3X3FBREhsUDRhTGZpZjZSNDJCZjZBQmdzbDJhUFlzWUNwdHRkcW1NaVE0QjAybzJZWVRMbHdTRnh0cjE2aTd1VFlVMHVFSWVGdjZCaEg2T3M3ZEdyOVk3R1ZnNTFZM2RCOVg3cFV4M2p6QU41amI0MmIyX3E0QkVDN1JLZWdkbzdBT0l4V3dHcmVGRDVEOGJDQ2l3UmdNcmMwZ2lOejhRRGFlVlVORmVRN0t2S3pESGhiZ21UbkM0MmNaWkpFVVhnZHpuaXlheHdYcTdIaVo0QU5XMXV3Z1IzUjZqQkE?oc=5)
-
----
-
-### [Herzinfarkte bei Jungen: 42 Prozent mehr Fälle durch Extremarbeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTIzRmZiaHB5dmItaHZxaTBwSUtnS0NZZGhjemQyckpwU0tSRmNCbjJseWF6d18yRXhpRmI4cHFUczJLaFFjV0JLT0llenZTaHVyOXZqZ1RUQmRlTFA2cllEX1BqdUJrckk5aHUyYjA3MkJON0NMeW1FUXc4dlA5TldIbGtyaEhsWTg2WWZSbkJrZjIwaHBrUlNjQnNzTGtaMXVMWFNmZzhnQ2tManJqYWVOMzc?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTIzRmZiaHB5dmItaHZxaTBwSUtnS0NZZGhjemQyckpwU0tSRmNCbjJseWF6d18yRXhpRmI4cHFUczJLaFFjV0JLT0llenZTaHVyOXZqZ1RUQmRlTFA2cllEX1BqdUJrckk5aHUyYjA3MkJON0NMeW1FUXc4dlA5TldIbGtyaEhsWTg2WWZSbkJrZjIwaHBrUlNjQnNzTGtaMXVMWFNmZzhnQ2tManJqYWVOMzc?oc=5)
 
 ---
 
@@ -198,14 +174,6 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
----
-
 ### [Dad with cancer left in £4,500 debt after company mistakenly paid him - Plymouth Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5xRGhmeUZIeDdza1BLTE9rU0MycF9nVUduS2pDUEdJbi10Ui1GbGsxTEhwNk1MeGJYeWJLcnNRS1NtcTdHbUs4Mml0YXIyV3I2Zk1sZ3N0Qzg2V050bUVRZEh5akJ2SkR3ZkJiWTY1UEp2X2QzTW1GeElHNzBJb0JRNTh0dnV5V0V2OU0zZw?oc=5)
 
 2026-06-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -235,14 +203,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-12 <span class="news-indication-tag">AF</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVhnYXZVV1haSk5JNWc1RXk2RW15RXUxSlJxWUFIWFVJMEYtUGpQSnZKZXR0cmtibWxUMzRYV0ZiWUlPbEdlMVdYY2RfdjU5ejJFTnlwQjcwQlJyM0lLTW43QWx6U3hCNUlLbXN4d01tLTNET0dNNElPR0RXdy1CVUtLanFUd1VFMTcxYjhnTkotcm1UUW5WYUdHRm1ybS1Wc2FZMndjLWlFVEFBaWxSNkpPc2hNNERCWTlPd3BKenduWXAzWl9LTDdieENkakx3M2h5RXU5dGVtOXpU?oc=5)
-
----
-
-### [Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
 
 ---
 

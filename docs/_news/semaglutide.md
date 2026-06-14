@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [El nutricionista Antonio Escribano alerta del uso de Ozempic para adelgazar: «Cuando se deja de tomar se engorda el doble de lo que se ha perdido»](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmI5ODRwUFBQdnM0OUdwTXZ3LWM4MllUeHZyaERsZnJLcWZSd0d2bUVINVkzSXR4YjV1YVZUZDYtMDdzSWlwV1luTGJZVGktc0MwenhoY2hoaXh6UzBoMTJ0Y2dXaFUtX0N1b3dxR2U2SlZZMThjMk8tOWhFbE1kQXhzOGJQWlZUbVZyUjNtUzFtWmwwNEg4dWk2WlFQcmF3bDNaM3dtRm8xSmV6NVk0bmdhZklWbEtz0gG-AUFVX3lxTE9uWmg5cThfeGJXUWdXSHh0TTZObTF6SnFfdm41S2VLa0xfcnQ2RkdoM2hkenBLTVlKN2NCMWVOYVdteXJ2YWRKVDI1dFlGYjgtTk1TSlp6Ry1YdXEtUS1EWHZqN2E5Ykw3cENXY2JLMkNtWXZWanh6eXZsX3VEVklZRkhnV0FLS3l1MmJ4MDZrWjk5MjRaa0NDWU5Ld3ZfRk5aVlFaSERsTjlaWDg4UG9OalVIZXpLYnNPMWtIRHc?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/semaglutide/
 2026-06-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
----
-
-### [Diabetes und Infektionen: Typ-1 deutlich stärker gefährdet als Typ 2 - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
+### [Diabète : réinventer l’apéro d’été sans renoncer au plaisir - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5uR2V2TkVxQkRjQkx3YTlVV25oaGlMUVFBWmZEUkhwT005MTN2d0k2R3J5Y0UxNFFhZmJDZkxZektkdWZpaDVsOE1oS0VrdWtkY3dFbzJOSDJQbDAxRDJiQ293OXRZeTJXWXd6eS10ZUl6NDh6OWNTMjgxZWhXSVVHdVZubW9ucEdjdTBCdDNXY2pXNUFJWW1jWm5HNXZpT1R3bUNvc3dSWkVjZUNpMg?oc=5)
 
-2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
+2026-06-12 <span class="news-indication-tag">diabète</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5uR2V2TkVxQkRjQkx3YTlVV25oaGlMUVFBWmZEUkhwT005MTN2d0k2R3J5Y0UxNFFhZmJDZkxZektkdWZpaDVsOE1oS0VrdWtkY3dFbzJOSDJQbDAxRDJiQ293OXRZeTJXWXd6eS10ZUl6NDh6OWNTMjgxZWhXSVVHdVZubW9ucEdjdTBCdDNXY2pXNUFJWW1jWm5HNXZpT1R3bUNvc3dSWkVjZUNpMg?oc=5)
 
 ---
 

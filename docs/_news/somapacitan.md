@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthme</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -62,11 +62,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabetes und Infektionen: Typ-1 deutlich stärker gefährdet als Typ 2 - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
+### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
-2026-06-13 <span class="news-indication-tag">diabetes</span>
+2026-06-13 <span class="news-indication-tag">asma</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
 ---
 
@@ -94,6 +94,14 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Diabète : réinventer l’apéro d’été sans renoncer au plaisir - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5uR2V2TkVxQkRjQkx3YTlVV25oaGlMUVFBWmZEUkhwT005MTN2d0k2R3J5Y0UxNFFhZmJDZkxZektkdWZpaDVsOE1oS0VrdWtkY3dFbzJOSDJQbDAxRDJiQ293OXRZeTJXWXd6eS10ZUl6NDh6OWNTMjgxZWhXSVVHdVZubW9ucEdjdTBCdDNXY2pXNUFJWW1jWm5HNXZpT1R3bUNvc3dSWkVjZUNpMg?oc=5)
+
+2026-06-12 <span class="news-indication-tag">diabète</span>
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5uR2V2TkVxQkRjQkx3YTlVV25oaGlMUVFBWmZEUkhwT005MTN2d0k2R3J5Y0UxNFFhZmJDZkxZektkdWZpaDVsOE1oS0VrdWtkY3dFbzJOSDJQbDAxRDJiQ293OXRZeTJXWXd6eS10ZUl6NDh6OWNTMjgxZWhXSVVHdVZubW9ucEdjdTBCdDNXY2pXNUFJWW1jWm5HNXZpT1R3bUNvc3dSWkVjZUNpMg?oc=5)
+
+---
+
 ### [Más del 50% de las personas con diabetes en España ha perdido al menos una pieza dental - El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXRuNDlzMU5HYlZVcURoMUw5c2gxSE0tRjZIU1V1ckE5OFUxUjRtT0hsNjJYaG5jbDVFZndYLTNRTmdZNTZ5d3ljbmEyWWc1ODZzRlpwQzZyZjdBS19fZ1ZGb3ExbTRaUVNTZ3BFdXpReDZzS0R6bHdDcXFBOXlQeDdaYll6NVZFM2NhOEQ0QndtY19vWU8xUVFzSmd1RHh4TkpCNldmTVhUa2g0YVE?oc=5)
 
 2026-06-12 <span class="news-indication-tag">diabetes</span>
@@ -107,14 +115,6 @@ permalink: /news/somapacitan/
 2026-06-12 <span class="news-indication-tag">asma</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiowJBVV95cUxNaVJnaUs0eXNUaEJ2Zy1ZZ3Y2dm0zeEVNbHd2VXhiV0RmZ1lRQU5CMk1OblF0bHVYS2ZOUXJOZUdwRXMzT20wc3NDYklUN21QQi11N0x4eW1DUXZpbG5YS1lnS3FaRERhUHNzWEJOTjZQZ2tpVGpFSXF5OTdnekhyUUhheXA5ZjRBdVNtZ0tjMl90ajZ4Y1hIX2xrd3FINWpsbHBPZS1mYlZIVmo4TFJpWlFhZmhubWR3MGI0N0JHVC1VZVdtVmoxQUJfM3Vpb2hxTThhTmpaUzBnXzVCYktBZG12b09HNXdhZWgtal9QeGFySnpaeGQwdmFIM0RmTVN1YXo0NWpKb0s4alhoWDQ2U0hzY05UNGplSGx1Q2FUY1dwazDSAagCQVVfeXFMT2lURHpOeUlmMmw2R2FHbFZqSnY1MHNTZ2RsS1pSNmJJWGFaY08ycWVUMHVfUkZTM1NTZkxpdGVKMm5SbUtsZVlrZFJrMnJsY0EzZWs3OGdmSFFoeXRHakNoMzFVX3ZCdkpQUjlxcnBubE52YU0yNnd3eTZuWmFZWVZZMHZjbFVKMWZISkFmSXhseXZsRVJncFozc2F6R0VwWkVabW9DbWczQjZmVmJmZC1VNTFHRUhBa29GQXQ1b0V4YnFrR0JkdFZXaVM4d0sxLWFtSjl3WE8xUHhVeGlwRmlWQjM2bXV1dndsaWJLem1oNU1jRjBBZTVOaWNwdW5CYjFPMVZPQ3ZTRG94NHEwclRZcW02WFBfaUozeGd6YzFTMnNSeTdndGg?oc=5)
-
----
-
-### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
-
-2026-06-11 <span class="news-indication-tag">asthme</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 ---
 

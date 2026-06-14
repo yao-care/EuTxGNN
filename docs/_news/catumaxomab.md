@@ -14,7 +14,7 @@ permalink: /news/catumaxomab/
 ---
 
 <p class="key-answer" data-question="Catumaxomab 有什麼相關新聞？">
-<strong>Catumaxomab</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Catumaxomab</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,29 @@ permalink: /news/catumaxomab/
 <p><a href="{{ '/drugs/catumaxomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
-
-### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
-
-2026-06-13 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
-
----
+## 相關新聞（18 則）
 
 ### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
-2026-06-13 <span class="news-indication-tag">Krebs</span>
+2026-06-14 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
 ---
 
-### [Tumorbehandlung: Endoskopischer Ultraschall erreicht 82% Kontrolle - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjJucWJVUXhsajd6ckNoOTYybU9HMG5icUtlYnU5SC1RNS13dlRWc3czYVpNb1RuSmpPbEtaSE05QlBYN2VKRnNvUG9nWmFLNmpHQl92SEZNek5rNXlzQ3lRS1JKbHc3TkxCMXpfS2JBUkdZX0JBejUwUGEzdnFSMXplMWZET0xBaW9pRUFoRGt5Ym4yQV9vWm5KV01DeTd3RFVDazFJd0diREFuSGdjYTBzTkhmME9EeVFDVzZB?oc=5)
+### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
-2026-06-13 <span class="news-indication-tag">tumor</span>
+2026-06-14 <span class="news-indication-tag">tumor</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjJucWJVUXhsajd6ckNoOTYybU9HMG5icUtlYnU5SC1RNS13dlRWc3czYVpNb1RuSmpPbEtaSE05QlBYN2VKRnNvUG9nWmFLNmpHQl92SEZNek5rNXlzQ3lRS1JKbHc3TkxCMXpfS2JBUkdZX0JBejUwUGEzdnFSMXplMWZET0xBaW9pRUFoRGt5Ym4yQV9vWm5KV01DeTd3RFVDazFJd0diREFuSGdjYTBzTkhmME9EeVFDVzZB?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
 ---
 
-### [Aroa y Carmen, dermatólogas de Albacete, advierten: "Es el principal factor de riesgo para el cáncer de piel" - El Digital de Albacete](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdUswN2JfVzBob2ZPYTQ4Wnp1cUtWMDJBMzA2cUpNb2I1ZlZFbXg1V1MyVGlya2ZYeFNGVGNNME9qMmswVU1FUjduWmpwNVlHVmx4SDBxM0VwWWoyOUxLd2pGV1VWVUh4dldwcXRKWmJBVy1vY2NfcklKWElFLUFESW1sNy1VQlFZSXNnUXhNa2J1Vk1weFdTUElBWHJ3eUNyTHhraTVSTkx4b3N6UHFyNlFiMjczNEtfZmZja3hBRnp3TEpLMmRwUDJidTFtejVFaVVrVFR4Nm1tc2FtRW5JeHhBY3NKaDA?oc=5)
+### [A New Path to Preventing Cancer - Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMickFVX3lxTE1yMmMyZlJVNFNUYkFNTjBMZmpMMHpra3ByVzZlZ3g1R3FEdkluYnBreUMyOHh2SGVHX2xScmVDWnZWcV9DUmk5ZEVMcXk2MjFrcHAzc05HcjlNMzA2YmFwa1F4X2ZHbEVZZFJVRWlDSmdydw?oc=5)
 
-2026-06-13 <span class="news-indication-tag">tumor</span>
+2026-06-13 <span class="news-indication-tag">cancer</span>
 
-來源：[El Digital de Albacete](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdUswN2JfVzBob2ZPYTQ4Wnp1cUtWMDJBMzA2cUpNb2I1ZlZFbXg1V1MyVGlya2ZYeFNGVGNNME9qMmswVU1FUjduWmpwNVlHVmx4SDBxM0VwWWoyOUxLd2pGV1VWVUh4dldwcXRKWmJBVy1vY2NfcklKWElFLUFESW1sNy1VQlFZSXNnUXhNa2J1Vk1weFdTUElBWHJ3eUNyTHhraTVSTkx4b3N6UHFyNlFiMjczNEtfZmZja3hBRnp3TEpLMmRwUDJidTFtejVFaVVrVFR4Nm1tc2FtRW5JeHhBY3NKaDA?oc=5)
+來源：[Ground Truths | Eric Topol](https://news.google.com/rss/articles/CBMickFVX3lxTE1yMmMyZlJVNFNUYkFNTjBMZmpMMHpra3ByVzZlZ3g1R3FEdkluYnBreUMyOHh2SGVHX2xScmVDWnZWcV9DUmk5ZEVMcXk2MjFrcHAzc05HcjlNMzA2YmFwa1F4X2ZHbEVZZFJVRWlDSmdydw?oc=5)
 
 ---
 
@@ -126,14 +118,6 @@ permalink: /news/catumaxomab/
 
 ---
 
-### [Diabetes und Infektionen: Typ-1 deutlich stärker gefährdet als Typ 2 - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
-
----
-
 ### [Osalan ha reunido al sector de la madera para abordar la prevención del adenocarcinoma de fosas nasales y senos paranasales - Gobierno Vasco](https://news.google.com/rss/articles/CBMiigJBVV95cUxQelhRSlVHTWpuUmg3WlFlNFVFVXZUM21mbGpqTm5UeG5Md0Fuc2hRT1hhdnFBRFp0djc0SWJla3kyWXJYZVdYcEJnaTFwcWNxUk5HVkRaQkNRUjc2bzdiNmpxTXNfMzhmbi0ybnhnZy1oaFNhZFU3QVQyTUVJWG1lbUdDWHZsclByZXY1N21ZLU5SODFKYjktNUluSHRZT2FPaXhPZnJMVHdrZVJTcm1IZ3NOTGFPM1c0b0pOWWdhaTBxeVo0RF9tOE1IOFRqakpKUjRoRjI2UWtpQU93TDFRTnRiTHhKYUFJU2hnc1VUQmFwb0NLN0VtN3U3cEdYd1VKMHR3VWpQa2FnQQ?oc=5)
 
 2026-06-12 <span class="news-indication-tag">carcinoma</span>
@@ -147,6 +131,14 @@ permalink: /news/catumaxomab/
 2026-06-12 <span class="news-indication-tag">cancer</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMifkFVX3lxTFBNR2hNXzZyRFFoay1aSHZHcERBRmxESVRwUGtaOUtrbzd2TVhkN2pGNURVOWw2b2w0N0dUM0d5QXJPUVR4ZzlRaFJneW9wREc2c3M3MXdxVGE1X3lUdjQxbWJnWHQ4aklNQ2ZQajhiQkVnV1NMT1lRX1NaQWxvdw?oc=5)
+
+---
+
+### [Candiolo raddoppia: ecco come cambierà il centro oncologico con 200 milioni di investimento - La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxORHN5UkRCX0NHVzdoVm9aRTdYaUExem1JbXhoanozVEYwdTdQY1dEc3JBRGV6bUtuQktLUHBWMzB1cG94V00tYzZROHZzRU9RSEhOd0xPQlVJX0p6S1F4bTFpY2xFaTBoZmFxbG56ZlhQejhReENGcFB6RHJ0dHVXelFpbmpCTzQycS0za283X3RrTVV4dElCUThUeXpLSWRFVExlbUZR0gGrAUFVX3lxTE5sZzZzNjVEVkZRaFFmYzBheVM2RHFKZU9LcklmVHFpTDZKV2w4ejY1dU5jSmJMU0oweU9laXRSX1BxZ21mU3AtSjYtSEZTQ3JYc2tqQy16Tk9DQnhyRDFKdWY2ODJBdHJUNG9PNGVpbjJIV1d1TGpfWnFHb2pSS3I2MWtNZGd2elM2bEpJQVh0S2haVXZTcDdrcGE3TllKSmgyQndZQW5IT1FMbw?oc=5)
+
+2026-06-12 <span class="news-indication-tag">tumor</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMipgFBVV95cUxORHN5UkRCX0NHVzdoVm9aRTdYaUExem1JbXhoanozVEYwdTdQY1dEc3JBRGV6bUtuQktLUHBWMzB1cG94V00tYzZROHZzRU9RSEhOd0xPQlVJX0p6S1F4bTFpY2xFaTBoZmFxbG56ZlhQejhReENGcFB6RHJ0dHVXelFpbmpCTzQycS0za283X3RrTVV4dElCUThUeXpLSWRFVExlbUZR0gGrAUFVX3lxTE5sZzZzNjVEVkZRaFFmYzBheVM2RHFKZU9LcklmVHFpTDZKV2w4ejY1dU5jSmJMU0oweU9laXRSX1BxZ21mU3AtSjYtSEZTQ3JYc2tqQy16Tk9DQnhyRDFKdWY2ODJBdHJUNG9PNGVpbjJIV1d1TGpfWnFHb2pSS3I2MWtNZGd2elM2bEpJQVh0S2haVXZTcDdrcGE3TllKSmgyQndZQW5IT1FMbw?oc=5)
 
 ---
 
@@ -166,11 +158,11 @@ permalink: /news/catumaxomab/
 
 ---
 
-### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
+### [Diabète : réinventer l’apéro d’été sans renoncer au plaisir - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5uR2V2TkVxQkRjQkx3YTlVV25oaGlMUVFBWmZEUkhwT005MTN2d0k2R3J5Y0UxNFFhZmJDZkxZektkdWZpaDVsOE1oS0VrdWtkY3dFbzJOSDJQbDAxRDJiQ293OXRZeTJXWXd6eS10ZUl6NDh6OWNTMjgxZWhXSVVHdVZubW9ucEdjdTBCdDNXY2pXNUFJWW1jWm5HNXZpT1R3bUNvc3dSWkVjZUNpMg?oc=5)
 
-2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
+2026-06-12 <span class="news-indication-tag">diabète</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5uR2V2TkVxQkRjQkx3YTlVV25oaGlMUVFBWmZEUkhwT005MTN2d0k2R3J5Y0UxNFFhZmJDZkxZektkdWZpaDVsOE1oS0VrdWtkY3dFbzJOSDJQbDAxRDJiQ293OXRZeTJXWXd6eS10ZUl6NDh6OWNTMjgxZWhXSVVHdVZubW9ucEdjdTBCdDNXY2pXNUFJWW1jWm5HNXZpT1R3bUNvc3dSWkVjZUNpMg?oc=5)
 
 ---
 
@@ -190,19 +182,19 @@ permalink: /news/catumaxomab/
 
 ---
 
+### [SMOP (SOPK) : «Je pensais être la seule touchée par l’hirsutisme, je n’osais pas en parler» - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmNZbjd5V3ZocW9uazk2a0xJSEppRXlkVUtlNGR3NVdMcHdEd25nS09wbzJtM2pFOEl3RHdpb085VVFvaXd0WVRjdFVpT1Q3YmZNejBGUXpna3l1WmRrUllOZGt0VnpnTWl6VzN0WXRHNU1OZ1ZITTBfNHNVWFlvYjRSQ2M4bVF3ak1KVkZlS0JuMTUtRENLaFJORXpBVHVkdWhvTHQ0b2pqUE9FeU1YZGd3N1hneVBKT0ZoTU9Ya2pGdw?oc=5)
+
+2026-06-12 <span class="news-indication-tag">cancer</span>
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmNZbjd5V3ZocW9uazk2a0xJSEppRXlkVUtlNGR3NVdMcHdEd25nS09wbzJtM2pFOEl3RHdpb085VVFvaXd0WVRjdFVpT1Q3YmZNejBGUXpna3l1WmRrUllOZGt0VnpnTWl6VzN0WXRHNU1OZ1ZITTBfNHNVWFlvYjRSQ2M4bVF3ak1KVkZlS0JuMTUtRENLaFJORXpBVHVkdWhvTHQ0b2pqUE9FeU1YZGd3N1hneVBKT0ZoTU9Ya2pGdw?oc=5)
+
+---
+
 ### [Herpes zoster am Auge bei Immungesunden kein Hinweis auf erhöhtes Krebsrisiko](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
 
 2026-06-12 <span class="news-indication-tag">Krebs</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZjbkpGUzVwOE5XcFBnOUR5U1huM0dtOE03djlDQ3ZXdGlOUjY3eVd4eFZFYzM1UnFlaXNzQm80cUM4d3VFcEdsZnBRaUJQUkJ4UngtY01uUjhCR2tITTdiRVl3LVRmVXQ1UHVJLW1WZi1nMlE2VG5JNUF1bjlKOXVWb3VpQ2pFUWVYYlRHQ05lWE1PQlBtUEhDZS1aTnVGdmVSZE1HQjhEM0paOFc0Zlg4ZnpqcC1RNzg2QnUycC1YV3ZCSXc?oc=5)
-
----
-
-### [Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
 
 ---
 

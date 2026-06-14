@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（20 則）
 
 ### [Jóvenes investigadores debaten sobre salud cardiovascular en Madrid - Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
 
@@ -78,19 +78,19 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+
+2026-06-13 <span class="news-indication-tag">asma</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
+
+---
+
 ### [DMLA : ces deux innovations qui pourraient métamorphoser la vie des patients - Le Figaro Santé](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHg2eGlCaC1Xa2V2WHFHT3U4cFlKY2pOcjhyd003WWN2T0NjQUJheGFfMVRTYTVzVHViT2VqS092VmtWNXFPNHJEN09DU28zek9XTTd1bTBMc0pTS19xeVJ0NUFIUjhaT0tmZ1dsUE5PZjJfSzN2UlNmZGU2SHI0b2QzLTBCMk0yRUxJOG43d1A2cHlVZkxqMVNzT2g5TWFvWlA1bTE3dGNkU3FPdjU0VzNNOTFVNWJhSFE?oc=5)
 
 2026-06-13 <span class="news-drug-tag">Aflibercept</span> <span class="news-indication-tag">AF</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHg2eGlCaC1Xa2V2WHFHT3U4cFlKY2pOcjhyd003WWN2T0NjQUJheGFfMVRTYTVzVHViT2VqS092VmtWNXFPNHJEN09DU28zek9XTTd1bTBMc0pTS19xeVJ0NUFIUjhaT0tmZ1dsUE5PZjJfSzN2UlNmZGU2SHI0b2QzLTBCMk0yRUxJOG43d1A2cHlVZkxqMVNzT2g5TWFvWlA1bTE3dGNkU3FPdjU0VzNNOTFVNWJhSFE?oc=5)
-
----
-
-### [Charité startet DHEA-Studie zur Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
 
 ---
 
@@ -102,6 +102,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Young people urged to get meningitis B vaccine](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdXlGLTh1S0pwV3NSNWFLNGtLbWxqM1FkWmF3YVM4SmxBbUpiMnhlWnNWOHQzN1ZzNGphMEpVMzRHakhtbXE4bzdFQmpHZzRaeXpTRHJFUlFreFZq?oc=5)
+
+2026-06-12 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EdXlGLTh1S0pwV3NSNWFLNGtLbWxqM1FkWmF3YVM4SmxBbUpiMnhlWnNWOHQzN1ZzNGphMEpVMzRHakhtbXE4bzdFQmpHZzRaeXpTRHJFUlFreFZq?oc=5)
+
+---
+
 ### [Europa entra en una nueva era oncológica marcada por la aceleración de terapias dirigidas y el desafío regulatorio](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFNFb0Jua0c1dnlodWtLbE9CdEVHZng5QkRFenVIVUtSU0owM2YtTmd2RlVrTXpaOU1Ya3lfa3d6aEUyZ3B2VVo2WjNmZHc0R3hPT0g1cWUxNmlzbkY4ZXlzZXFSWHViVGZYMnhNdFAyb0R6MmlOZzE1R3hNZXlaWjdJYkp0Ni1yeXpDeUVVVXNtcjJscV94S1pfVTdwZ1ZVOWdGdU0tWjNNV1dtWTQ2Z1Yyc2xwbXExVU9zcFhuTnJZV0JmSnk2T3pJc1FGM3hYc09Hci15aWoxUW5JVXRfMGhaaWk2TjNR?oc=5)
 
 2026-06-12 <span class="news-indication-tag">AF</span>
@@ -110,27 +118,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [VIH : la lutte contre la maladie est « mise en danger » par la chute de l’aide internationale, prévient l’ONU - Le Monde.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVKSWVhbC0weTQ2SkpCbUpIMWx3cm50Q2d3X3FBREhsUDRhTGZpZjZSNDJCZjZBQmdzbDJhUFlzWUNwdHRkcW1NaVE0QjAybzJZWVRMbHdTRnh0cjE2aTd1VFlVMHVFSWVGdjZCaEg2T3M3ZEdyOVk3R1ZnNTFZM2RCOVg3cFV4M2p6QU41amI0MmIyX3E0QkVDN1JLZWdkbzdBT0l4V3dHcmVGRDVEOGJDQ2l3UmdNcmMwZ2lOejhRRGFlVlVORmVRN0t2S3pESGhiZ21UbkM0MmNaWkpFVVhnZHpuaXlheHdYcTdIaVo0QU5XMXV3Z1IzUjZqQkE?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkVKSWVhbC0weTQ2SkpCbUpIMWx3cm50Q2d3X3FBREhsUDRhTGZpZjZSNDJCZjZBQmdzbDJhUFlzWUNwdHRkcW1NaVE0QjAybzJZWVRMbHdTRnh0cjE2aTd1VFlVMHVFSWVGdjZCaEg2T3M3ZEdyOVk3R1ZnNTFZM2RCOVg3cFV4M2p6QU41amI0MmIyX3E0QkVDN1JLZWdkbzdBT0l4V3dHcmVGRDVEOGJDQ2l3UmdNcmMwZ2lOejhRRGFlVlVORmVRN0t2S3pESGhiZ21UbkM0MmNaWkpFVVhnZHpuaXlheHdYcTdIaVo0QU5XMXV3Z1IzUjZqQkE?oc=5)
-
----
-
 ### [Aging brain health: Vitamin C levels linked to gray matter volume - Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
 
 2026-06-12 <span class="news-indication-tag">asma</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5)
-
----
-
-### [Herzinfarkte bei Jungen: 42 Prozent mehr Fälle durch Extremarbeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTIzRmZiaHB5dmItaHZxaTBwSUtnS0NZZGhjemQyckpwU0tSRmNCbjJseWF6d18yRXhpRmI4cHFUczJLaFFjV0JLT0llenZTaHVyOXZqZ1RUQmRlTFA2cllEX1BqdUJrckk5aHUyYjA3MkJON0NMeW1FUXc4dlA5TldIbGtyaEhsWTg2WWZSbkJrZjIwaHBrUlNjQnNzTGtaMXVMWFNmZzhnQ2tManJqYWVOMzc?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTIzRmZiaHB5dmItaHZxaTBwSUtnS0NZZGhjemQyckpwU0tSRmNCbjJseWF6d18yRXhpRmI4cHFUczJLaFFjV0JLT0llenZTaHVyOXZqZ1RUQmRlTFA2cllEX1BqdUJrckk5aHUyYjA3MkJON0NMeW1FUXc4dlA5TldIbGtyaEhsWTg2WWZSbkJrZjIwaHBrUlNjQnNzTGtaMXVMWFNmZzhnQ2tManJqYWVOMzc?oc=5)
 
 ---
 
@@ -219,22 +211,6 @@ permalink: /news/prilocaine/
 2026-06-12 <span class="news-indication-tag">AF</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVhnYXZVV1haSk5JNWc1RXk2RW15RXUxSlJxWUFIWFVJMEYtUGpQSnZKZXR0cmtibWxUMzRYV0ZiWUlPbEdlMVdYY2RfdjU5ejJFTnlwQjcwQlJyM0lLTW43QWx6U3hCNUlLbXN4d01tLTNET0dNNElPR0RXdy1CVUtLanFUd1VFMTcxYjhnTkotcm1UUW5WYUdHRm1ybS1Wc2FZMndjLWlFVEFBaWxSNkpPc2hNNERCWTlPd3BKenduWXAzWl9LTDdieENkakx3M2h5RXU5dGVtOXpU?oc=5)
-
----
-
-### [Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
-
-2026-06-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5)
-
----
-
-### [Vivre avec un chat n'aggrave pas l'asthme des enfants — une étude nationale suédoise vient de le démontrer à grande échelle](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
-
-2026-06-11 <span class="news-indication-tag">asthme</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2Vrdl80MHhGNEcwMUloWHlxa1ptTUhDcTc0U09ZeHVsNWZPb0Z6My1IS0dURmJsLUpfN3B2SDRZN2hSd3lXZEltTWVSRVJKcHh3VFB5Y2hKeW1TWWI0cElNRkhRODNUaXhtQ2J2d240b2ZISFpZRjUwdkFtei1SbjJXYm56TkNNeXV5WnpOTlJ6ZkI4SjdMTnlQb0wxbWtaaTdTTVJUOS0tSU9FVlFicFJGbGNIYkFMVjBZUTE1R0FLTE50RDdNdjNRQzI5VlNxWlA1TEV5V0M0bTg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/migalastat-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Migalastat Hydrochloride 有什麼相關新聞？">
-<strong>Migalastat Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Migalastat Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/migalastat-hydrochloride/
 <p><a href="{{ '/drugs/migalastat-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [I’m a doctor — cut down on these foods if you have high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2NsZ3VyT0NRMjNhOWVscTY4X0VTWXF6d3dLb20td19HNVdXRWdWVjdoQk1PbjV0cEVkODFLcXhyNzBtM2hCMjJTeGE1MWFia0oxbmdOenZzcEIzUFAyWVRpNEd6UGJPXy1WbGZubUNkU1dtSVBmWHpPVVoxWUQ5Rm5mREx4MTY1eC1J0gGQAUFVX3lxTE5PU3FMd2g3WG1LZTRuM3RFNjY0cHUzeWRvMTFqMmZGUzQ5dzl2STh3cHhaQkpiMGFCQ1gxYmh5ZFh1TG4zTzZYZ1BjX3h1YktxcE10X2hZWTlSZ2NSVWJ2S29ybGNndk1ERno4VEJEZXY5c2tQNzVWelJPeGw5ZlM2VnpaYzBqbF83V0tXVzlWcA?oc=5)
-
-2026-06-12 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2NsZ3VyT0NRMjNhOWVscTY4X0VTWXF6d3dLb20td19HNVdXRWdWVjdoQk1PbjV0cEVkODFLcXhyNzBtM2hCMjJTeGE1MWFia0oxbmdOenZzcEIzUFAyWVRpNEd6UGJPXy1WbGZubUNkU1dtSVBmWHpPVVoxWUQ5Rm5mREx4MTY1eC1J0gGQAUFVX3lxTE5PU3FMd2g3WG1LZTRuM3RFNjY0cHUzeWRvMTFqMmZGUzQ5dzl2STh3cHhaQkpiMGFCQ1gxYmh5ZFh1TG4zTzZYZ1BjX3h1YktxcE10X2hZWTlSZ2NSVWJ2S29ybGNndk1ERno4VEJEZXY5c2tQNzVWelJPeGw5ZlM2VnpaYzBqbF83V0tXVzlWcA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

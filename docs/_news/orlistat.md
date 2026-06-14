@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Aumentan casos de hígado graso en jóvenes - Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
-
-2026-06-13 <span class="news-indication-tag">obesidad</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Wegovy et Mounjaro remboursés dans l’obésité : les généralistes écartés de la première prescription](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNXpDV0xNMlhVakJLaW54M2V5RnhSZ2hrMkR5ZVZxMEtJRVNaQVI3VjdFMV85Q0pYbzJTSEdwZnBRalNVbjZoNUVnUkxhMzhUWVZKR1lJMDNPUURMdDJLSmlFdDJjT3JnUjFRMlFiVlVrS3BsSFlObjE2VTFuSDVwbHU4b0tlUV9mUEw4MHpYWExlcU1Ga202bTVwZG1LRk13QUxzX2xsQ1pldmFVUjNTVXdWeG54dG0tQmFtamhJRi1EWUI0T1U1c1VYR1dEUFNNUm12cmRqT2pudk1SSHlWOVVVZHpRdw?oc=5)
 
@@ -91,14 +83,6 @@ permalink: /news/orlistat/
 2026-06-12 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
-
----
-
-### [I farmaci per dimagrire stanno entrando nella ricerca sul cancro - Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZcVRxUFdQbmFlbnEzc1BCdnpTUEExYVZlaWlnb2wwd1lGSlFSb210X2FuMjN0bEo5STdQUUQzNkNaRWNJdFBVNEhWd3VVeVJNV0ZJc2hkS2pFWDNVSzBweEhya1pGTnQ3NU4xaXpFX0xEMkRsR1VHRV9B?oc=5)
 
 ---
 

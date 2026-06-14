@@ -62,14 +62,6 @@ permalink: /news/blinatumomab/
 
 ---
 
-### [Diabetes und Infektionen: Typ-1 deutlich stärker gefährdet als Typ 2 - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZBaXVJaEk0TFVtblFtWXFtLUY1dUVNWDE2Ujh2cVQwMnhMa1dDczFzU1FLYXdlYzQxQXZlSGRNS292RHdrY0JZMHRId2pqazIzZVJPZGVoaFprZWVwdTFxenNuVXM3MnVTMUJvNEQyVWstMUtEWl9kNWRqbmJSeDh1SGJLS3ZuRm5YaHVGNDJWLTQ2VG4yTHdZVUpVOHNQM0Mw?oc=5)
-
----
-
 ### [32º Congreso SEMG: La psoriasis obliga a mirar más allá de la piel para prevenir complicaciones cardiovasculares - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2plNU1rMHhqVWxyaWt2RngycUFiNGxKMjkxalF5RFE3ZXBzOXZjUG5NclhyS1FpX1phdldyVEQ4Q211dGdzWXJnTFdpQ2R4ZlF6MkdEVmxtbkZNYThGQm51RDd4YlJNcTkxeDNjalE2TG80elF4VjlNQy1fNEFfamhDcExvZEU0RFhKWGNXbzV3V3libWNDeXZCMlg0c3NyaXJxclM0a01BVjB6R1ptajNoRDFkTThvZ1HSAbQBQVVfeXFMT1BfYllkbVlBYzdEcm9KYWl1eEtoVHc3WDZRenNSaHJhcktWMDNkRzRaa2JneXpRNzVXSnFMbE9KcDcwSmZ5NnVwUXRLYjRyZnMxdzE4QXJJOEpRUkZBMzN1Q1VkY3lIUmJjRHkxS1VveXhkd2NWVElvcVRuTm9SaElMdE83X2Yyd1psa0lKVnF1VmZHSHRsN1dGTXhSWkZuMWE3dnE4RG9RSkhlNnJ0aWs1dGlW?oc=5)
 
 2026-06-12 <span class="news-indication-tag">psoriasis</span>
@@ -83,6 +75,14 @@ permalink: /news/blinatumomab/
 2026-06-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUVsTFVMQXpBX2N2X1JQSjRMVWRoa2hQQnNZUkdhZnBiOHV5ZjhwRWRqLU5Db1lIaWY0TzRaZUNOU2k3MGc1MmRoWjF4QXo1NUNFTUJ1M21uNVQxNmVLaFlWTVo0YXFLeWRjbFRaX3lTNERlOG9ZaW5IMVZObU5GYWdSc0hTR0FBR3NGblc5NnQxM0FXUzBuXzVEaFE4OFpFSWF0YTBtZDlHckx5cC1Mc0RSUElGQnA50gGzAUFVX3lxTE55VHk1V21OUTRYQTdacjlWcFMxUl9RVFZWaGlKM1JLVk92Z0hlV2haWmtpT19GdmxqdEM3TVU5NUU0T25rMnJ3N1B0SmZESjZMT3hzZnlXczBFZVVWMU4wX2lSNUd3Q1VMX004eHNqQldmTXhxZnUtM2Q2VnZnaFFvYWk0WlMwaTc5V2lxV2J0eEFfY3hjU3dVUzIwV3haOVRoMkkzUmgySEFVQWRudXFuVmNn?oc=5)
+
+---
+
+### [Diabète : réinventer l’apéro d’été sans renoncer au plaisir - Pourquoi Docteur](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5uR2V2TkVxQkRjQkx3YTlVV25oaGlMUVFBWmZEUkhwT005MTN2d0k2R3J5Y0UxNFFhZmJDZkxZektkdWZpaDVsOE1oS0VrdWtkY3dFbzJOSDJQbDAxRDJiQ293OXRZeTJXWXd6eS10ZUl6NDh6OWNTMjgxZWhXSVVHdVZubW9ucEdjdTBCdDNXY2pXNUFJWW1jWm5HNXZpT1R3bUNvc3dSWkVjZUNpMg?oc=5)
+
+2026-06-12 <span class="news-indication-tag">diabète</span>
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUk5uR2V2TkVxQkRjQkx3YTlVV25oaGlMUVFBWmZEUkhwT005MTN2d0k2R3J5Y0UxNFFhZmJDZkxZektkdWZpaDVsOE1oS0VrdWtkY3dFbzJOSDJQbDAxRDJiQ293OXRZeTJXWXd6eS10ZUl6NDh6OWNTMjgxZWhXSVVHdVZubW9ucEdjdTBCdDNXY2pXNUFJWW1jWm5HNXZpT1R3bUNvc3dSWkVjZUNpMg?oc=5)
 
 ---
 
