@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Depressionen: Kopfkühlung könnte bei der Behandlung helfen](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGIxMnN0TzRxYmVTQ0xEQ0xKdF9JUmxOY3pwU1ViTkFHdEJPNzM2a1hKbWd1UmFEczU5Zy1uOGVoWUFUTDdwXzRwM05CUUJOTkJzd2daRFlqaDJFWS1uNDcyVmVSVU90VHVzelBZZ3l2eGlNcFNFU2NqOUR1VVZVNjJxaTFWemY1UFozSHk5RG9rTjJMZjNuaWFyTnNiVTV1QWJHVWtULUlRRUlhWTJ1ZkU5M2pUVHVrWWZxOQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/vortioxetine/
 2026-06-13 <span class="news-indication-tag">depression</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
-
----
-
-### [32º Congreso SEMG: La depresión en el paciente mayor suele pasar desapercibida porque no siempre se presenta con tristeza - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlRLc0FZTm00ZUVwNHoyTkxMNDhqX05ZaTB0M1R1ZjZQUExlWWJPTEVzMXg4cVFIbVkzeXUwcEpBcGMtMDJYd3JmN01KTnZsWVJ3Qk56LU5kZ25lR2dZZXZKUUFXU0tQRnUxeHFiNnRJTWRHTnd0SmkyVjhrV1RsdmdKeEltU1drQV9weUZiaTh2cVN0RXZpd2VFazNMSHNUc2lSVjh6Wk11d09fcmNKTkZVazlMSDJfOTBV0gG2AUFVX3lxTE9VVGREU2hyWGtlU0NwX1R5SFBQdW9KdUJwQ0dXRWl1c2V3MlQ5T2s3N3ZxU1ptNGVkSDFjVUl2ZlV6RVBNVHo3RjVOcXltbkNybW0xNEdNeVhMSHNFdFQyWlpHMUhkajB2NFRWYVdMRlROd2E0RlB0Ql9JbFJlTDdMVy1hcTUtTW5jVHdsWVR6SHZ0cXA2dDlCVDd4b3AzTkl4Z2FHVjZqODh1QW9vMnRqTmtrME9B?oc=5)
-
-2026-06-12 <span class="news-indication-tag">depresión</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlRLc0FZTm00ZUVwNHoyTkxMNDhqX05ZaTB0M1R1ZjZQUExlWWJPTEVzMXg4cVFIbVkzeXUwcEpBcGMtMDJYd3JmN01KTnZsWVJ3Qk56LU5kZ25lR2dZZXZKUUFXU0tQRnUxeHFiNnRJTWRHTnd0SmkyVjhrV1RsdmdKeEltU1drQV9weUZiaTh2cVN0RXZpd2VFazNMSHNUc2lSVjh6Wk11d09fcmNKTkZVazlMSDJfOTBV0gG2AUFVX3lxTE9VVGREU2hyWGtlU0NwX1R5SFBQdW9KdUJwQ0dXRWl1c2V3MlQ5T2s3N3ZxU1ptNGVkSDFjVUl2ZlV6RVBNVHo3RjVOcXltbkNybW0xNEdNeVhMSHNFdFQyWlpHMUhkajB2NFRWYVdMRlROd2E0RlB0Ql9JbFJlTDdMVy1hcTUtTW5jVHdsWVR6SHZ0cXA2dDlCVDd4b3AzTkl4Z2FHVjZqODh1QW9vMnRqTmtrME9B?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Un macroestudio mundial con la participación de la UAL determina que existe una ‘brecha global’ en la obesidad - UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+
+2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+
+---
 
 ### [Unbemerkt und tückisch: Diese fünf Faktoren erhöhen Ihr Schlaganfallrisiko massiv - Gießener Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnRVVkJKMHM5b3RMbzZvcGUydGhRR1p4Nm5maGpjN2w4RG1FOGZiUWVmeXB4RU42ZHBDVkY0aGRSNFB3WHhRRW9wMVpyTzk0dHZNbXVjSGp3aEVmeHQ1N3EwUFNDMVBzeGFtQ2ppNXdkVGt4Q1A0d19wTm4wVkhGOWhoSUotalNINzJnWFJJc1huanVWa3U1bGtVVzNMbXVaQ1FUWF9YRjMwRGZvcGFISXVaLVBwTDRGUEs2M1N2aTcxek1DV2t4aWRkZ0NFdw?oc=5)
 
 2026-06-14 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Gießener Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnRVVkJKMHM5b3RMbzZvcGUydGhRR1p4Nm5maGpjN2w4RG1FOGZiUWVmeXB4RU42ZHBDVkY0aGRSNFB3WHhRRW9wMVpyTzk0dHZNbXVjSGp3aEVmeHQ1N3EwUFNDMVBzeGFtQ2ppNXdkVGt4Q1A0d19wTm4wVkhGOWhoSUotalNINzJnWFJJc1huanVWa3U1bGtVVzNMbXVaQ1FUWF9YRjMwRGZvcGFISXVaLVBwTDRGUEs2M1N2aTcxek1DV2t4aWRkZ0NFdw?oc=5)
+
+---
+
+### [Los neurólogos explican cuál es el primer síntoma que suele aparecer antes de un ictus](https://news.google.com/rss/articles/CBMixgFBVV95cUxQLXRieGEwUnZXVU11dmJJU2lmWmxNTklqTHBXMEJyM2ZCN1NqeHhCeHdBM3g5ZzNOaU9SMk9LSEFSamVIUTAxWmtsdGNpaWd4eUIyQlZZbUtxNnpoRTlkeE5nSmYxVldCMlNzMDdWNjRGenpncVhGU1diRXRsQkxRR2syUzhCcWFlRkVSZlRaTXRpY0gtQmRIQk45Um00QVVPWWw1dG1rQTdPVi1xY20zQ1oxVGYyZE5iOXFHYmFRNzFPNnlOakE?oc=5)
+
+2026-06-14 <span class="news-indication-tag">ictus</span>
+
+來源：[Cuatro](https://news.google.com/rss/articles/CBMixgFBVV95cUxQLXRieGEwUnZXVU11dmJJU2lmWmxNTklqTHBXMEJyM2ZCN1NqeHhCeHdBM3g5ZzNOaU9SMk9LSEFSamVIUTAxWmtsdGNpaWd4eUIyQlZZbUtxNnpoRTlkeE5nSmYxVldCMlNzMDdWNjRGenpncVhGU1diRXRsQkxRR2syUzhCcWFlRkVSZlRaTXRpY0gtQmRIQk45Um00QVVPWWw1dG1rQTdPVi1xY20zQ1oxVGYyZE5iOXFHYmFRNzFPNnlOakE?oc=5)
 
 ---
 
@@ -70,19 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Un estudio destaca los probables efectos positivos de la política antiobesidad en Chile - France 24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzIxVkNCZUt0d1c4cUN6MnlQbktmSDMzcDd1MnJ0TzJhMUdxa3BwN0VRcjdQTkRoRkMwcU40bjZyUlh2bzZYaUV4SXhRUFd3NG5EVHJ2QlJTVkszUHlCVWtvX1UxOVkweUtvTWllaW5xZkc3S1JDQWg4TGV1ZHFyX21fdjZMdlhlT0Q5aXdXRUF4YncxWmNsejl5T2ZJWkQzTzk5Y2xHWTdHa2VNXzVZYTRDZ2NIQ19CNUVFZl94YkxrM0hOdTdHRFZYLUxJUjV6d1gyVkQxZUVEZWFWakE?oc=5)
+### [Neue Forschung zeigt: 99 Prozent der Herzinfarkte und Schlaganfälle gehen auf vier zentrale Risiken zurück - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDNCRUlXYUVtX2xjdDVKVng3bDJHbXd0Q2dORDktQmo4TWx0YmpQeWE1NnBBeEFqTXZ4WVlJd2NWMThhVjZJOWtOSHhyS3ZPVGZ1cG5JR1Q4QW1wdEowWW0xLUVaVy1qNVhKTG42bXNGS2JlVlN6RGVEU1ZuOWpOME5GWFNFUXJlYTlPWDBnTlFWLXBHanBOY1YxOFhQU1BZWjZGT0FCdFNsNVplSjBjZ2JaNWRZXzhiaGhZdXhjcHAwTHBfaG9wNUVNaDZIcHU1X3o3UldmLWRtUVdxUnQ4NnB0OA?oc=5)
 
-2026-06-12 <span class="news-indication-tag">obesidad</span>
+2026-06-14 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[France 24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzIxVkNCZUt0d1c4cUN6MnlQbktmSDMzcDd1MnJ0TzJhMUdxa3BwN0VRcjdQTkRoRkMwcU40bjZyUlh2bzZYaUV4SXhRUFd3NG5EVHJ2QlJTVkszUHlCVWtvX1UxOVkweUtvTWllaW5xZkc3S1JDQWg4TGV1ZHFyX21fdjZMdlhlT0Q5aXdXRUF4YncxWmNsejl5T2ZJWkQzTzk5Y2xHWTdHa2VNXzVZYTRDZ2NIQ19CNUVFZl94YkxrM0hOdTdHRFZYLUxJUjV6d1gyVkQxZUVEZWFWakE?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDNCRUlXYUVtX2xjdDVKVng3bDJHbXd0Q2dORDktQmo4TWx0YmpQeWE1NnBBeEFqTXZ4WVlJd2NWMThhVjZJOWtOSHhyS3ZPVGZ1cG5JR1Q4QW1wdEowWW0xLUVaVy1qNVhKTG42bXNGS2JlVlN6RGVEU1ZuOWpOME5GWFNFUXJlYTlPWDBnTlFWLXBHanBOY1YxOFhQU1BZWjZGT0FCdFNsNVplSjBjZ2JaNWRZXzhiaGhZdXhjcHAwTHBfaG9wNUVNaDZIcHU1X3o3UldmLWRtUVdxUnQ4NnB0OA?oc=5)
 
 ---
 
-### [La obesidad global cambia de ritmo entre descensos y aumentos](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
+### [Un estudio destaca los probables efectos positivos de la política antiobesidad en Chile - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGVjSTQydnZpdWZ4S0hfT01aSV9vSmx3dHpOTGYwRk5rREU3NjRpUVhobDYwV1FHS0dBRmdHQ3F1QUx4VXFQMThqT0ZvcHBnNmQ2VjJtemFtek1WdnlFRmExS3ZsREp1WEQ2c0dsR0JzY20xZjh0RTdEaDUyTUtfRVJJRmczWUF6Tm5qSmZsd3g0YVQ1WElwWWdkSy1RTTB3d3dHRDBXbEJJaW1FN2pXdmJZbnRCdG83NE0tTDhrNVJfNkFIU1Z4TDBn?oc=5)
 
-2026-06-12 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-12 <span class="news-indication-tag">obesidad</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
+來源：[SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGVjSTQydnZpdWZ4S0hfT01aSV9vSmx3dHpOTGYwRk5rREU3NjRpUVhobDYwV1FHS0dBRmdHQ3F1QUx4VXFQMThqT0ZvcHBnNmQ2VjJtemFtek1WdnlFRmExS3ZsREp1WEQ2c0dsR0JzY20xZjh0RTdEaDUyTUtfRVJJRmczWUF6Tm5qSmZsd3g0YVQ1WElwWWdkSy1RTTB3d3dHRDBXbEJJaW1FN2pXdmJZbnRCdG83NE0tTDhrNVJfNkFIU1Z4TDBn?oc=5)
 
 ---
 

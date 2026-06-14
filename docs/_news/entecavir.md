@@ -54,11 +54,11 @@ permalink: /news/entecavir/
 
 ## 相關新聞（1 則）
 
-### [GC5107: Hepatitis-B-Impfstoff im Fokus von Green Cross - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPakgxUkVvcFZGb0xxd0lFUHFON3BJb0prd0U1QW5pbWRORkc3dTk1a3Y2Rk56SkFFX1VNNTdyTEVQdnJwV3RQUUprMDhRQXdhWC1qQmMtYllHOVlzTFZZbXZiTE9JckhYbTdZOHl1ZGl6Y0NHMjEwdTJKZUIzSTVQZG1kaFlJNVlVRmFZS09VbG4yaGQ4azc3ZjJnYVVZbnlnQUpVc3lkLXFQNkhkZFN1QWVn?oc=5)
+### [GC5107: Rekombinanter Hepatitis-B-Impfstoff von Green Cross im B2B-Fokus - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3NXV0tzQkZrWmZsVU5UOGNtdm5YOW5xeHU3V3gxT2JqMVNTR1RGTTBVSllZS043cUdtdHVDUUJ4a0Z3ck5BNkxTNllQeFNGUEU5YnpERjFBd2ZOODJhV28xNmRSZE1aZ3FFRFhBZVBIM3MzUlZqbk80UEJHWWFlU3plSV95eWlIa3BpLXd3T0JSN1pSRzRWM1NpODBEUHRQMzdiVTN3?oc=5)
 
 2026-06-13 <span class="news-indication-tag">hepatitis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPakgxUkVvcFZGb0xxd0lFUHFON3BJb0prd0U1QW5pbWRORkc3dTk1a3Y2Rk56SkFFX1VNNTdyTEVQdnJwV3RQUUprMDhRQXdhWC1qQmMtYllHOVlzTFZZbXZiTE9JckhYbTdZOHl1ZGl6Y0NHMjEwdTJKZUIzSTVQZG1kaFlJNVlVRmFZS09VbG4yaGQ4azc3ZjJnYVVZbnlnQUpVc3lkLXFQNkhkZFN1QWVn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3NXV0tzQkZrWmZsVU5UOGNtdm5YOW5xeHU3V3gxT2JqMVNTR1RGTTBVSllZS043cUdtdHVDUUJ4a0Z3ck5BNkxTNllQeFNGUEU5YnpERjFBd2ZOODJhV28xNmRSZE1aZ3FFRFhBZVBIM3MzUlZqbk80UEJHWWFlU3plSV95eWlIa3BpLXd3T0JSN1pSRzRWM1NpODBEUHRQMzdiVTN3?oc=5)
 
 ---
 

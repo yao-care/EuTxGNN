@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="Degarelix 有什麼相關新聞？">
-<strong>Degarelix</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Degarelix</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/degarelix/
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
-
-### [El cáncer de próstata: la enfermedad que afectará a 1 de cada 8 españoles y que requiere prevención](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTdjZmtqU0tIS3VnMW5TcWFSV0JMdEk2WG5WVTZ3LTZMd2x1c0xub3M1S0Zzb1VBVmcydmhyaWVwTjYtUkxYczJlNXBFMUgwaTlaRmZUTk9WMl9GOTF2NWJqRTdhRkZfMWIxenhtbWhmRzh5Y0J5RFI1REozZ2cwSUdkTFRHR0M5LXM0NkZFa0dTQk1Bam0yWktfYnB5bEFNYWtpRi12Q29WV3J6RVVob3E2WXJaSVo2ZF80Vk91LTPSAcABQVVfeXFMTjdHRmlJbGg1aWk4elVaVjN2NlVtVWpCdTZjdnNzcl9pTkRpZ2JlLTNwUzJZTVhjQlBOa1kyMWJkUks4NENUd1R6SDlPZGs2X00wVm44M203alplendObWppalFoNGFpMXQ4SkZUMTB4dmdvQ2RlWnRXMVNHUUNnQzk5bzdPc3pUVnV5S0daTDc5dFRVU3I5QmgteDdCWi16c0hKc1lxRnUySngtVVBKMTFUT25QS2lmN1B4UTZkVS1N?oc=5)
-
-2026-06-14 <span class="news-indication-tag">AF</span>
-
-來源：[MARCA](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTdjZmtqU0tIS3VnMW5TcWFSV0JMdEk2WG5WVTZ3LTZMd2x1c0xub3M1S0Zzb1VBVmcydmhyaWVwTjYtUkxYczJlNXBFMUgwaTlaRmZUTk9WMl9GOTF2NWJqRTdhRkZfMWIxenhtbWhmRzh5Y0J5RFI1REozZ2cwSUdkTFRHR0M5LXM0NkZFa0dTQk1Bam0yWktfYnB5bEFNYWtpRi12Q29WV3J6RVVob3E2WXJaSVo2ZF80Vk91LTPSAcABQVVfeXFMTjdHRmlJbGg1aWk4elVaVjN2NlVtVWpCdTZjdnNzcl9pTkRpZ2JlLTNwUzJZTVhjQlBOa1kyMWJkUks4NENUd1R6SDlPZGs2X00wVm44M203alplendObWppalFoNGFpMXQ4SkZUMTB4dmdvQ2RlWnRXMVNHUUNnQzk5bzdPc3pUVnV5S0daTDc5dFRVU3I5QmgteDdCWi16c0hKc1lxRnUySngtVVBKMTFUT25QS2lmN1B4UTZkVS1N?oc=5)
-
----
+## 相關新聞（14 則）
 
 ### [NHS staff battling wave of food supplement disinformation - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUZ3a0REMjFZRlNDbzdBWDRsc1hLbUlINHNldDhyTlNMRjkySjNMaXBhYWJMVGxRQzkwX0NQT3R4VGlJNEhBdW4tUTBuUlE5eEFPbWt5bV9LRWxRalB0Wll4WlZCYkdWTGpJSEx5SWlrM3A3M3Z1UWhFeUNqYUtwVTRsbU9FdUNzLUc5SzRjbFhlNHQwZk1IZEtGd2cwMFpFNXZVcnRPRDZrb1pVMy1CaE1hMU0zX3M?oc=5)
 
 2026-06-14 <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUZ3a0REMjFZRlNDbzdBWDRsc1hLbUlINHNldDhyTlNMRjkySjNMaXBhYWJMVGxRQzkwX0NQT3R4VGlJNEhBdW4tUTBuUlE5eEFPbWt5bV9LRWxRalB0Wll4WlZCYkdWTGpJSEx5SWlrM3A3M3Z1UWhFeUNqYUtwVTRsbU9FdUNzLUc5SzRjbFhlNHQwZk1IZEtGd2cwMFpFNXZVcnRPRDZrb1pVMy1CaE1hMU0zX3M?oc=5)
+
+---
+
+### [Un macroestudio mundial con la participación de la UAL determina que existe una ‘brecha global’ en la obesidad - UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+
+2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/degarelix/
 
 ---
 
-### [Meningitis B survivor in Harpenden urges uptake of vaccine](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9naXQ3MVlaM3FyVkVhbzhSNEJ6TG45dEdMNDJ4a2h6X2c0ZEU1YXFvNUJiWGFfbU9fMkZNX3FzWWszVWxJSTBuZDZSeHhPZTZtU0w5Q0dJTzRmZlpf?oc=5)
+### [La ciencia lo confirma: si sufres un infarto, es mejor que afecte al ventrículo derecho - El Debate](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFJJQUZjUnlyZExvdUlQVC1DWUhMcXV5RGJZYmttVUdVaVoycFZ0NkFJOHh5SC1vTUo2eWlwV0hCVDFxdGlZTF9HUzJwN1NhZS1uWm5YRFdRN000SGtUOVYtS1hveElabXh2cERHWWYtU1ROYWJJam8yVFkteF9pWUVzcTh3Z3Y1dzVDdmR6dHFSMHRNMnJCc0lXVTAyOVhOT1N5WnhiTC1qLWRoejBiRUpyc3h1Q2NTOVZmOHA1Ujk0MTJYWmh6UkIwSURXQdIB0wFBVV95cUxOOW5vYTA2YjduUlJOZHgxXy1PRHB3WDVtWGtSSG5ieGc5TmRSY3M1c001bXlORzdDRWEzR29CZ1BfSWkweHVqQ1Fua3kzX0dHWkl1ZHlmVzBpTDRLMnZIX3F3blBlNWJOUC0tMDFON0YtWnZiSloweFpXdWY0eG52MERGYlp2d2lLbi0tT2poaVdMbkFBTEp5WTMyUGZibzJMcm1sQUZTc2lrR0VLbmVNY29fNTNjRjdfRWhoNy1VaGNvUEZVVmtLWW1iYjh4a01JNDJJ?oc=5)
 
 2026-06-14 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9naXQ3MVlaM3FyVkVhbzhSNEJ6TG45dEdMNDJ4a2h6X2c0ZEU1YXFvNUJiWGFfbU9fMkZNX3FzWWszVWxJSTBuZDZSeHhPZTZtU0w5Q0dJTzRmZlpf?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFJJQUZjUnlyZExvdUlQVC1DWUhMcXV5RGJZYmttVUdVaVoycFZ0NkFJOHh5SC1vTUo2eWlwV0hCVDFxdGlZTF9HUzJwN1NhZS1uWm5YRFdRN000SGtUOVYtS1hveElabXh2cERHWWYtU1ROYWJJam8yVFkteF9pWUVzcTh3Z3Y1dzVDdmR6dHFSMHRNMnJCc0lXVTAyOVhOT1N5WnhiTC1qLWRoejBiRUpyc3h1Q2NTOVZmOHA1Ujk0MTJYWmh6UkIwSURXQdIB0wFBVV95cUxOOW5vYTA2YjduUlJOZHgxXy1PRHB3WDVtWGtSSG5ieGc5TmRSY3M1c001bXlORzdDRWEzR29CZ1BfSWkweHVqQ1Fua3kzX0dHWkl1ZHlmVzBpTDRLMnZIX3F3blBlNWJOUC0tMDFON0YtWnZiSloweFpXdWY0eG52MERGYlp2d2lLbi0tT2poaVdMbkFBTEp5WTMyUGZibzJMcm1sQUZTc2lrR0VLbmVNY29fNTNjRjdfRWhoNy1VaGNvUEZVVmtLWW1iYjh4a01JNDJJ?oc=5)
 
 ---
 
@@ -110,6 +110,14 @@ permalink: /news/degarelix/
 
 ---
 
+### [„Unterschätzte Gefahr“: Lebensgefährliche Sepsis kann im Mund beginnen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVh6SldHS196a3pJaWw2ZmJ5eHZGS0hxTXNseUlHNHdzZy1PZEFHdUVkb2U5c3hHSzFQR3o4T1BRZkQ4MW5lYVh2YldqeW9ydEJybjU1a3JOc1FlYlR5cDVtVFdyenRlM3VjMjhBSExFaHNhMEowblF3SzZiWU5qQzZzQ2ZJTFhrV2NndEpfRGdtYjM3SndFQkNSaGttZDlGMzM2SFh4MzljdzZSNG9CYWlpTQ?oc=5)
+
+2026-06-13 <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVh6SldHS196a3pJaWw2ZmJ5eHZGS0hxTXNseUlHNHdzZy1PZEFHdUVkb2U5c3hHSzFQR3o4T1BRZkQ4MW5lYVh2YldqeW9ydEJybjU1a3JOc1FlYlR5cDVtVFdyenRlM3VjMjhBSExFaHNhMEowblF3SzZiWU5qQzZzQ2ZJTFhrV2NndEpfRGdtYjM3SndFQkNSaGttZDlGMzM2SFh4MzljdzZSNG9CYWlpTQ?oc=5)
+
+---
+
 ### [Jóvenes investigadores debaten sobre salud cardiovascular en Madrid - Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
 
 2026-06-13 <span class="news-indication-tag">AF</span>
@@ -118,19 +126,19 @@ permalink: /news/degarelix/
 
 ---
 
-### [Un estudio destaca las diferencias entre ultraprocesados y recomienda no demonizar los saludables - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZmNQVC1QeGlxU0k0TjEzUlBxMWYtUmhZQWNWRUdzSm04UEM2UjdkUm1lbGpsOUI5aHlwQ0NXV2FGaUxlbmFMbVRUczRMeTNGWGZQUTNZQjExMzRhRjh0dHZXV1lJTER1RmJqeVlyQTI1eUFfRGRvUnVQSURQMDRWa25PZ0lCaWU5R3NHQ3NwNUNuaUdIR0YxQzhGMEpTNVoyOVNSZWNWSmdWb1BOa2NtM0xNc3lfVmMxY2VrWlljTkhEekt2X2ZxZGxtMEZlTk1EbjJzdFdfdGlxZVE1MmswRTFwTFZVSFFjdGVTd0xEei0?oc=5)
+### [RFK Jr can be a crank, but he’s not wrong about Lyme disease - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5)
 
 2026-06-13 <span class="news-indication-tag">AF</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZmNQVC1QeGlxU0k0TjEzUlBxMWYtUmhZQWNWRUdzSm04UEM2UjdkUm1lbGpsOUI5aHlwQ0NXV2FGaUxlbmFMbVRUczRMeTNGWGZQUTNZQjExMzRhRjh0dHZXV1lJTER1RmJqeVlyQTI1eUFfRGRvUnVQSURQMDRWa25PZ0lCaWU5R3NHQ3NwNUNuaUdIR0YxQzhGMEpTNVoyOVNSZWNWSmdWb1BOa2NtM0xNc3lfVmMxY2VrWlljTkhEekt2X2ZxZGxtMEZlTk1EbjJzdFdfdGlxZVE1MmswRTFwTFZVSFFjdGVTd0xEei0?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5)
 
 ---
 
-### [El aumento de casos de cáncer en menores de 50 preocupa a los médicos: las causas cada vez son más concretas](https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3ppbDY4ZmF0Y3pKU3JqNG9DVnQ4SnQ5MlQ5cVRUMXBaVWtzTEFtUkw4cjliS0tTbjRPNFNORVMzeXlneHU3T0g3MFVZQmUxLWI1SmVISnV2VXJ1MjNucS1FM2U1dnluUGtMQm1FTGxtXzhlRHBKZ1YxQWxWSVA5Y3JYUXA0cjhGbF9sU3V6WUcxN2VVeVRuZWpNcjFEMEROaEJua20tb1RFMW1Ed3dFazBIVEhmbU1tOFUtYm1BOUdvY3d1LVhIWFBLVQ?oc=5)
+### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
-2026-06-13 <span class="news-indication-tag">AF</span>
+2026-06-13 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Cuatro](https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3ppbDY4ZmF0Y3pKU3JqNG9DVnQ4SnQ5MlQ5cVRUMXBaVWtzTEFtUkw4cjliS0tTbjRPNFNORVMzeXlneHU3T0g3MFVZQmUxLWI1SmVISnV2VXJ1MjNucS1FM2U1dnluUGtMQm1FTGxtXzhlRHBKZ1YxQWxWSVA5Y3JYUXA0cjhGbF9sU3V6WUcxN2VVeVRuZWpNcjFEMEROaEJua20tb1RFMW1Ed3dFazBIVEhmbU1tOFUtYm1BOUdvY3d1LVhIWFBLVQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
 ---
 
@@ -155,30 +163,6 @@ permalink: /news/degarelix/
 2026-06-12 <span class="news-indication-tag">AF</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFNFb0Jua0c1dnlodWtLbE9CdEVHZng5QkRFenVIVUtSU0owM2YtTmd2RlVrTXpaOU1Ya3lfa3d6aEUyZ3B2VVo2WjNmZHc0R3hPT0g1cWUxNmlzbkY4ZXlzZXFSWHViVGZYMnhNdFAyb0R6MmlOZzE1R3hNZXlaWjdJYkp0Ni1yeXpDeUVVVXNtcjJscV94S1pfVTdwZ1ZVOWdGdU0tWjNNV1dtWTQ2Z1Yyc2xwbXExVU9zcFhuTnJZV0JmSnk2T3pJc1FGM3hYc09Hci15aWoxUW5JVXRfMGhaaWk2TjNR?oc=5)
-
----
-
-### [Eine Abendroutine verschiebt den Schlaf kleiner Kinder deutlich - Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHNzdTZGeWt2UjEzREdkUHR0dm9XRlB0X3JCQnl3WHZObmxLSU9RREEtYTRfdkRJWmM2RGxFX1ZZdzlCUGppblhmOS1sU1lUUS1RMzFUN3h4cXN1STctTTIwR3JfMm5vbnlldjBkRWZZYjFhRWlaOTBNRTRhRFBIbGpxRDI5N3lmckJTMnNUYlk1VUM2cFFwYXJNVUxGX0JUWWQwRjVyUm1nLWRQSDVVdHlDVzF1VEdBRzZsWjE5MU9MNW1sei04eA?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHNzdTZGeWt2UjEzREdkUHR0dm9XRlB0X3JCQnl3WHZObmxLSU9RREEtYTRfdkRJWmM2RGxFX1ZZdzlCUGppblhmOS1sU1lUUS1RMzFUN3h4cXN1STctTTIwR3JfMm5vbnlldjBkRWZZYjFhRWlaOTBNRTRhRFBIbGpxRDI5N3lmckJTMnNUYlk1VUM2cFFwYXJNVUxGX0JUWWQwRjVyUm1nLWRQSDVVdHlDVzF1VEdBRzZsWjE5MU9MNW1sei04eA?oc=5)
-
----
-
-### [La obesidad global cambia de ritmo entre descensos y aumentos](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
-
-2026-06-12 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0M3TGdYV19XZlVYWUEtUG15MGdiZngzS0Q0Yk9fZUNDU2lrRlRMNnUwMktsN01xcG9hTVVYUWJkTTd5Vjg2Tk9RSm1RcnpxNmRROHA0cmplY2xRZktJVHJoTExjQThnZU53T1RNN2hrM2E5ZHRWZjhqS29zdDBqLXFCbDNhUUkyWDZLcjJOVjZnNzVvTXBFU1FWVThYeHlrM2xHYS1nbjVhQ1I1eXpDNDdR?oc=5)
-
----
-
-### [Funding cuts and repressive laws raise risk of new HIV epidemic, says UNAids - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTRCUTMzYW5zNmZMakp0cGNycENkYlpCVVVQV3hLcXJrT1FrU01zdHdGRGZpc0ZvRGdoT0dWbUpOdFNuR3JUdHpDZU1zcFVOR0Q3M1NTbTUyZUlJTE9jbkI5RzFQaEI5QlJzTW5jN0dMWlFzUmtZX2R3WXF1X1VWTTBISGNzTGtqZzJaanIwMzdwbGxuWXowV0ZFRWIwVk5QUzl1QlJJZDVIWEk1SjZCcGpMNnJYdVlKbWM0bTVOTDNHODVPTkZqdzZYMFI?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTRCUTMzYW5zNmZMakp0cGNycENkYlpCVVVQV3hLcXJrT1FrU01zdHdGRGZpc0ZvRGdoT0dWbUpOdFNuR3JUdHpDZU1zcFVOR0Q3M1NTbTUyZUlJTE9jbkI5RzFQaEI5QlJzTW5jN0dMWlFzUmtZX2R3WXF1X1VWTTBISGNzTGtqZzJaanIwMzdwbGxuWXowV0ZFRWIwVk5QUzl1QlJJZDVIWEk1SjZCcGpMNnJYdVlKbWM0bTVOTDNHODVPTkZqdzZYMFI?oc=5)
 
 ---
 

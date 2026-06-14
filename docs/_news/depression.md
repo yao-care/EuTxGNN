@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# depression 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depression 有什麼相關新聞？">
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Depressionen: Kopfkühlung könnte bei der Behandlung helfen](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGIxMnN0TzRxYmVTQ0xEQ0xKdF9JUmxOY3pwU1ViTkFHdEJPNzM2a1hKbWd1UmFEczU5Zy1uOGVoWUFUTDdwXzRwM05CUUJOTkJzd2daRFlqaDJFWS1uNDcyVmVSVU90VHVzelBZZ3l2eGlNcFNFU2NqOUR1VVZVNjJxaTFWemY1UFozSHk5RG9rTjJMZjNuaWFyTnNiVTV1QWJHVWtULUlRRUlhWTJ1ZkU5M2pUVHVrWWZxOQ?oc=5)
 
@@ -50,14 +50,6 @@ permalink: /news/depression/
 2026-06-13
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
-
----
-
-### [32º Congreso SEMG: La depresión en el paciente mayor suele pasar desapercibida porque no siempre se presenta con tristeza - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlRLc0FZTm00ZUVwNHoyTkxMNDhqX05ZaTB0M1R1ZjZQUExlWWJPTEVzMXg4cVFIbVkzeXUwcEpBcGMtMDJYd3JmN01KTnZsWVJ3Qk56LU5kZ25lR2dZZXZKUUFXU0tQRnUxeHFiNnRJTWRHTnd0SmkyVjhrV1RsdmdKeEltU1drQV9weUZiaTh2cVN0RXZpd2VFazNMSHNUc2lSVjh6Wk11d09fcmNKTkZVazlMSDJfOTBV0gG2AUFVX3lxTE9VVGREU2hyWGtlU0NwX1R5SFBQdW9KdUJwQ0dXRWl1c2V3MlQ5T2s3N3ZxU1ptNGVkSDFjVUl2ZlV6RVBNVHo3RjVOcXltbkNybW0xNEdNeVhMSHNFdFQyWlpHMUhkajB2NFRWYVdMRlROd2E0RlB0Ql9JbFJlTDdMVy1hcTUtTW5jVHdsWVR6SHZ0cXA2dDlCVDd4b3AzTkl4Z2FHVjZqODh1QW9vMnRqTmtrME9B?oc=5)
-
-2026-06-12
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlRLc0FZTm00ZUVwNHoyTkxMNDhqX05ZaTB0M1R1ZjZQUExlWWJPTEVzMXg4cVFIbVkzeXUwcEpBcGMtMDJYd3JmN01KTnZsWVJ3Qk56LU5kZ25lR2dZZXZKUUFXU0tQRnUxeHFiNnRJTWRHTnd0SmkyVjhrV1RsdmdKeEltU1drQV9weUZiaTh2cVN0RXZpd2VFazNMSHNUc2lSVjh6Wk11d09fcmNKTkZVazlMSDJfOTBV0gG2AUFVX3lxTE9VVGREU2hyWGtlU0NwX1R5SFBQdW9KdUJwQ0dXRWl1c2V3MlQ5T2s3N3ZxU1ptNGVkSDFjVUl2ZlV6RVBNVHo3RjVOcXltbkNybW0xNEdNeVhMSHNFdFQyWlpHMUhkajB2NFRWYVdMRlROd2E0RlB0Ql9JbFJlTDdMVy1hcTUtTW5jVHdsWVR6SHZ0cXA2dDlCVDd4b3AzTkl4Z2FHVjZqODh1QW9vMnRqTmtrME9B?oc=5)
 
 ---
 

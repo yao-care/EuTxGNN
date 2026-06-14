@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
 ### [El Alzheimer podría comenzar mucho antes de lo que imaginamos - Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
 
@@ -78,19 +78,19 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [GC5107: Hepatitis-B-Impfstoff im Fokus von Green Cross - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPakgxUkVvcFZGb0xxd0lFUHFON3BJb0prd0U1QW5pbWRORkc3dTk1a3Y2Rk56SkFFX1VNNTdyTEVQdnJwV3RQUUprMDhRQXdhWC1qQmMtYllHOVlzTFZZbXZiTE9JckhYbTdZOHl1ZGl6Y0NHMjEwdTJKZUIzSTVQZG1kaFlJNVlVRmFZS09VbG4yaGQ4azc3ZjJnYVVZbnlnQUpVc3lkLXFQNkhkZFN1QWVn?oc=5)
+### [GC5107: Rekombinanter Hepatitis-B-Impfstoff von Green Cross im B2B-Fokus - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3NXV0tzQkZrWmZsVU5UOGNtdm5YOW5xeHU3V3gxT2JqMVNTR1RGTTBVSllZS043cUdtdHVDUUJ4a0Z3ck5BNkxTNllQeFNGUEU5YnpERjFBd2ZOODJhV28xNmRSZE1aZ3FFRFhBZVBIM3MzUlZqbk80UEJHWWFlU3plSV95eWlIa3BpLXd3T0JSN1pSRzRWM1NpODBEUHRQMzdiVTN3?oc=5)
 
 2026-06-13 <span class="news-indication-tag">hepatitis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPakgxUkVvcFZGb0xxd0lFUHFON3BJb0prd0U1QW5pbWRORkc3dTk1a3Y2Rk56SkFFX1VNNTdyTEVQdnJwV3RQUUprMDhRQXdhWC1qQmMtYllHOVlzTFZZbXZiTE9JckhYbTdZOHl1ZGl6Y0NHMjEwdTJKZUIzSTVQZG1kaFlJNVlVRmFZS09VbG4yaGQ4azc3ZjJnYVVZbnlnQUpVc3lkLXFQNkhkZFN1QWVn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3NXV0tzQkZrWmZsVU5UOGNtdm5YOW5xeHU3V3gxT2JqMVNTR1RGTTBVSllZS043cUdtdHVDUUJ4a0Z3ck5BNkxTNllQeFNGUEU5YnpERjFBd2ZOODJhV28xNmRSZE1aZ3FFRFhBZVBIM3MzUlZqbk80UEJHWWFlU3plSV95eWlIa3BpLXd3T0JSN1pSRzRWM1NpODBEUHRQMzdiVTN3?oc=5)
 
 ---
 
-### [El hígado graso, un reto en el 32% de la población - Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFBxZlg5U1Z4bnpDVzdiWTR3NVloRERQelV5UzUxamV3T053bmMtNndJaTVOWWtKZGhZVXlsQV9XZkEtVW1RQUF4TmoyQS1adkd5RGpzRzBXT252RVhJMWdsWEg4bkRuX1kwTkxv?oc=5)
+### [Aumentan los casos de hígado graso entre niños y jóvenes - Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
 
 2026-06-13 <span class="news-indication-tag">MS</span>
 
-來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMia0FVX3lxTFBxZlg5U1Z4bnpDVzdiWTR3NVloRERQelV5UzUxamV3T053bmMtNndJaTVOWWtKZGhZVXlsQV9XZkEtVW1RQUF4TmoyQS1adkd5RGpzRzBXT252RVhJMWdsWEg4bkRuX1kwTkxv?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
 
 ---
 
@@ -110,27 +110,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Alzheimer, il farmaco che accelera la malattia: ecco cosa evitare | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0dWUjRMem1Ob2plaU1abzEzZFcxWGxMVFpkV1BYUHBSdjhHOEhzbWItaDMwRV93eS1kUlByT05peW8tREpIOVhoM2hibHgwcTNKYmVlVmg0YXFRR3AzRWJSOHdFc2NqNXpXVlFha0YzeDJETkJJUi00cm5aWnBXYU1reXNnUTh3QVNSNkhQM0tZOHZzNldEYXF4cFlnQU1uYmQ1WmxVMVVXclBV0gGwAUFVX3lxTFA1elhNSjJsLTc2NUJQVmZVSTNPRDdmM3lLWUhFcUVSVUVUbG44TEZscEI0S1I5ZklVQzJDUG04ak9sQlZjRDRmUl9lYVdpVEZfa3VWbk5tYURlNzkzTEdJS1MtRURmamt1anpDaF9QdEtvTndiV0lzMmJ1NlNsd2FHYmtaM011enhlbzlEUDNQTmNDUlJUSi0zVUQ2NXg3QnlFbkxhbVNIamN6TG1NRE9L?oc=5)
-
-2026-06-12 <span class="news-indication-tag">MS</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0dWUjRMem1Ob2plaU1abzEzZFcxWGxMVFpkV1BYUHBSdjhHOEhzbWItaDMwRV93eS1kUlByT05peW8tREpIOVhoM2hibHgwcTNKYmVlVmg0YXFRR3AzRWJSOHdFc2NqNXpXVlFha0YzeDJETkJJUi00cm5aWnBXYU1reXNnUTh3QVNSNkhQM0tZOHZzNldEYXF4cFlnQU1uYmQ1WmxVMVVXclBV0gGwAUFVX3lxTFA1elhNSjJsLTc2NUJQVmZVSTNPRDdmM3lLWUhFcUVSVUVUbG44TEZscEI0S1I5ZklVQzJDUG04ak9sQlZjRDRmUl9lYVdpVEZfa3VWbk5tYURlNzkzTEdJS1MtRURmamt1anpDaF9QdEtvTndiV0lzMmJ1NlNsd2FHYmtaM011enhlbzlEUDNQTmNDUlJUSi0zVUQ2NXg3QnlFbkxhbVNIamN6TG1NRE9L?oc=5)
-
----
-
 ### [«L'epidemia di Ebola continua a diffondersi nell'est del Congo» - Corriere del Ticino](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
 
 2026-06-12 <span class="news-indication-tag">MS</span>
 
 來源：[Corriere del Ticino](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
-
----
-
-### [Magic mushrooms and Alzheimer’s: what one remarkable case can tell us - The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
-
-2026-06-12 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5)
 
 ---
 
