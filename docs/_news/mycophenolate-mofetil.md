@@ -14,7 +14,7 @@ permalink: /news/mycophenolate-mofetil/
 ---
 
 <p class="key-answer" data-question="Mycophenolate Mofetil 有什麼相關新聞？">
-<strong>Mycophenolate Mofetil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mycophenolate Mofetil</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/mycophenolate-mofetil/
 <p><a href="{{ '/drugs/mycophenolate-mofetil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（17 則）
+
+### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
+
+---
 
 ### [NHS staff battling wave of food supplement disinformation - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUZ3a0REMjFZRlNDbzdBWDRsc1hLbUlINHNldDhyTlNMRjkySjNMaXBhYWJMVGxRQzkwX0NQT3R4VGlJNEhBdW4tUTBuUlE5eEFPbWt5bV9LRWxRalB0Wll4WlZCYkdWTGpJSEx5SWlrM3A3M3Z1UWhFeUNqYUtwVTRsbU9FdUNzLUc5SzRjbFhlNHQwZk1IZEtGd2cwMFpFNXZVcnRPRDZrb1pVMy1CaE1hMU0zX3M?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Un macroestudio mundial con la participación de la UAL determina que existe una ‘brecha global’ en la obesidad - UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+### [Rätselhafte Wunden und ein falscher Verdacht](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmpfazRpd3JDdTNJN3ZIRnctVXFhcXg4UTR2NzBSajQyNHBsdUVsTjVxdUVlamFQc2pybkhVYWRZS0pMX0pLbXcxaUREOW5Zc0pDRldMcGFIT0RlTE14eHdydXhZX1hoeFl5UFpxdWltaGh5dXV2dXl0SXdjME1WWGJmSU5YWlVCeTNGc0thUC1vOTIxV29KQmxJZlprZElvdE5GbXJDcjl3a0k1d3c?oc=5)
 
-2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-14 <span class="news-indication-tag">AF</span>
 
-來源：[UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+來源：[STERN.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmpfazRpd3JDdTNJN3ZIRnctVXFhcXg4UTR2NzBSajQyNHBsdUVsTjVxdUVlamFQc2pybkhVYWRZS0pMX0pLbXcxaUREOW5Zc0pDRldMcGFIT0RlTE14eHdydXhZX1hoeFl5UFpxdWltaGh5dXV2dXl0SXdjME1WWGJmSU5YWlVCeTNGc0thUC1vOTIxV29KQmxJZlprZElvdE5GbXJDcjl3a0k1d3c?oc=5)
+
+---
+
+### [Un estudio desmonta el falso mito de los gatos y el asma infantil - Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
+
+2026-06-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
 
 ---
 
@@ -86,19 +102,19 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Blutdruck: Rote-Bete-Saft senkt Werte bei Senioren deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjJ2d3pSSHpHYlE4NDc3MVhBeVIzTTF5dHNULXdHOGFRQ3dzZzdtTkluMEtuNGJ6X3RtMFQzZVlqMDJ5blRnZ1ktUzlyanB5bzNaeFlDZ1RhLWllclpZUmpFdURHSjJOS1pMeHFMMG44UE4wbXhTVTJVM3lYR1NfNlhCNWREQm84U2RZSnZfak56WEFSWmxEaVlJT1ZGQkh2aEpjdjJTRDRRTTA?oc=5)
-
-2026-06-14 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjJ2d3pSSHpHYlE4NDc3MVhBeVIzTTF5dHNULXdHOGFRQ3dzZzdtTkluMEtuNGJ6X3RtMFQzZVlqMDJ5blRnZ1ktUzlyanB5bzNaeFlDZ1RhLWllclpZUmpFdURHSjJOS1pMeHFMMG44UE4wbXhTVTJVM3lYR1NfNlhCNWREQm84U2RZSnZfak56WEFSWmxEaVlJT1ZGQkh2aEpjdjJTRDRRTTA?oc=5)
-
----
-
 ### [La ciencia lo confirma: si sufres un infarto, es mejor que afecte al ventrículo derecho - El Debate](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFJJQUZjUnlyZExvdUlQVC1DWUhMcXV5RGJZYmttVUdVaVoycFZ0NkFJOHh5SC1vTUo2eWlwV0hCVDFxdGlZTF9HUzJwN1NhZS1uWm5YRFdRN000SGtUOVYtS1hveElabXh2cERHWWYtU1ROYWJJam8yVFkteF9pWUVzcTh3Z3Y1dzVDdmR6dHFSMHRNMnJCc0lXVTAyOVhOT1N5WnhiTC1qLWRoejBiRUpyc3h1Q2NTOVZmOHA1Ujk0MTJYWmh6UkIwSURXQdIB0wFBVV95cUxOOW5vYTA2YjduUlJOZHgxXy1PRHB3WDVtWGtSSG5ieGc5TmRSY3M1c001bXlORzdDRWEzR29CZ1BfSWkweHVqQ1Fua3kzX0dHWkl1ZHlmVzBpTDRLMnZIX3F3blBlNWJOUC0tMDFON0YtWnZiSloweFpXdWY0eG52MERGYlp2d2lLbi0tT2poaVdMbkFBTEp5WTMyUGZibzJMcm1sQUZTc2lrR0VLbmVNY29fNTNjRjdfRWhoNy1VaGNvUEZVVmtLWW1iYjh4a01JNDJJ?oc=5)
 
 2026-06-14 <span class="news-indication-tag">AF</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFJJQUZjUnlyZExvdUlQVC1DWUhMcXV5RGJZYmttVUdVaVoycFZ0NkFJOHh5SC1vTUo2eWlwV0hCVDFxdGlZTF9HUzJwN1NhZS1uWm5YRFdRN000SGtUOVYtS1hveElabXh2cERHWWYtU1ROYWJJam8yVFkteF9pWUVzcTh3Z3Y1dzVDdmR6dHFSMHRNMnJCc0lXVTAyOVhOT1N5WnhiTC1qLWRoejBiRUpyc3h1Q2NTOVZmOHA1Ujk0MTJYWmh6UkIwSURXQdIB0wFBVV95cUxOOW5vYTA2YjduUlJOZHgxXy1PRHB3WDVtWGtSSG5ieGc5TmRSY3M1c001bXlORzdDRWEzR29CZ1BfSWkweHVqQ1Fua3kzX0dHWkl1ZHlmVzBpTDRLMnZIX3F3blBlNWJOUC0tMDFON0YtWnZiSloweFpXdWY0eG52MERGYlp2d2lLbi0tT2poaVdMbkFBTEp5WTMyUGZibzJMcm1sQUZTc2lrR0VLbmVNY29fNTNjRjdfRWhoNy1VaGNvUEZVVmtLWW1iYjh4a01JNDJJ?oc=5)
+
+---
+
+### [El hígado, clave para entender nuestra salud metabólica - La Razón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkhCNGpQLXhCSTY2TmtxcFhQLWpIVUZvS3lYWXo5QWdFOFFMWnZNTjhsSTBYY09KVVhsSHVKeTduZUlHdGJHZ1BSd1FOajA2T1BzYW5HYkd4WkRTVlAyVHlQZ0YxcV9wTnpKRENCLVVlOHJ6M1NkanpZdDdCZVJLZVJRT1J1Y3hqajZHZTNSS0RmZkxCemxhYlZyWVZWRzQtQ0F5dHNKTjdvWlhjQWM2STdfb9IBxwFBVV95cUxOdTBxVjY1VEtocHdsUjlPdW5pZjZpai1TX09tOFhBb1pVQ1ZaMkZ2YkJRRUx2Rkc4MFBKZC03WlkwcjZDZm9Vak1UWUNoUnB2czctM2ZxMmZHWU5ka3pFeUgwbzJJSzFYcUtCc0VrcVRqaGZOOWJjV2IzRVF3VjdUMUlMTFdFdzFaYlZuMmtaVFlsRjZSaVlvRDRrR0k0UENmcWI3RnJqRTJ0YVkyMWlnYUFWekY2a0Ixc2VMWVBfNlE4VnMtS1Mw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkhCNGpQLXhCSTY2TmtxcFhQLWpIVUZvS3lYWXo5QWdFOFFMWnZNTjhsSTBYY09KVVhsSHVKeTduZUlHdGJHZ1BSd1FOajA2T1BzYW5HYkd4WkRTVlAyVHlQZ0YxcV9wTnpKRENCLVVlOHJ6M1NkanpZdDdCZVJLZVJRT1J1Y3hqajZHZTNSS0RmZkxCemxhYlZyWVZWRzQtQ0F5dHNKTjdvWlhjQWM2STdfb9IBxwFBVV95cUxOdTBxVjY1VEtocHdsUjlPdW5pZjZpai1TX09tOFhBb1pVQ1ZaMkZ2YkJRRUx2Rkc4MFBKZC03WlkwcjZDZm9Vak1UWUNoUnB2czctM2ZxMmZHWU5ka3pFeUgwbzJJSzFYcUtCc0VrcVRqaGZOOWJjV2IzRVF3VjdUMUlMTFdFdzFaYlZuMmtaVFlsRjZSaVlvRDRrR0k0UENmcWI3RnJqRTJ0YVkyMWlnYUFWekY2a0Ixc2VMWVBfNlE4VnMtS1Mw?oc=5)
 
 ---
 
@@ -126,14 +142,6 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Jóvenes investigadores debaten sobre salud cardiovascular en Madrid - Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">AF</span>
-
-來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
-
----
-
 ### [Sanidad refuerza la vigilancia y control de las enfermedades transmitidas por mosquitos o garrapatas - Valencia Plaza](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2JUVjlGdUdINm55bjFxckhBUmFyZ2ppcFNZT1ZfQ3F0ZW0yYmctdXRydzFtYzZOOWRHX1FwbUpvNkJjSlhaaGlQbDVGZHVwY19Remt1YVV4SEdfQ0hRSThneFhnYmVndjQ3d0JvZ2hncER3Q2hWcFVZQWRHYnNyeUpMYm53N01ZVjJDcE1VdkYtcUo1UUgwRzJwWjNNam5YQVVyUlFscTJBVFNjNDRvVllJcktyc0oxczVGWkExTUwtMGJSdzhtblZEN3VJbklnRm9ZSjF2aUJrREVDSzlCQ1U4MnFEWVJ2YkJrSEZSVktLTnRR?oc=5)
 
 2026-06-13 <span class="news-indication-tag">MS</span>
@@ -158,11 +166,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Aumentan los casos de hígado graso entre niños y jóvenes - Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
+### [Strep A: What is it and what are the symptoms?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tYUpqY1JUQlZvYXZhYVplbGY1UmlxamZMbGptYThiZzhXMUo5cEZlQ1VCU01ZZTRycFljdVZabDNYVWtfNUs0dWhqSnV6YllDb3o0V0doclZFUzRK?oc=5)
 
-2026-06-13 <span class="news-indication-tag">MS</span>
+2026-06-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWRTOHZ5NVF4ZlgxTkVsdG84SlBCWGlSOGhaWWptZXVwZ1p0VWczS0pYRkZSbVEzNzAtZWRQdWNpOVg3cmxDM2g4MDJVUi1mbnoyTngxZU4wZFJCVHVlbXBnYW0wbldiRFVUN3phZTBCTU5JRXZXM2h2OEJjaDJPV3dsMkF0V000am5RV05Na0t2T0gwZlZwS1RXRjcwM0U2cHJzNld3LUlUR3Z1RjBNMFZ0clZNUzdvVDdHbGlsS1U4NjZHekdjRnJXWGUzRlpseGtMS25ZWFZTWDg?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tYUpqY1JUQlZvYXZhYVplbGY1UmlxamZMbGptYThiZzhXMUo5cEZlQ1VCU01ZZTRycFljdVZabDNYVWtfNUs0dWhqSnV6YllDb3o0V0doclZFUzRK?oc=5)
 
 ---
 
@@ -179,38 +187,6 @@ permalink: /news/mycophenolate-mofetil/
 2026-06-13 <span class="news-drug-tag">Aflibercept</span> <span class="news-indication-tag">AF</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHg2eGlCaC1Xa2V2WHFHT3U4cFlKY2pOcjhyd003WWN2T0NjQUJheGFfMVRTYTVzVHViT2VqS092VmtWNXFPNHJEN09DU28zek9XTTd1bTBMc0pTS19xeVJ0NUFIUjhaT0tmZ1dsUE5PZjJfSzN2UlNmZGU2SHI0b2QzLTBCMk0yRUxJOG43d1A2cHlVZkxqMVNzT2g5TWFvWlA1bTE3dGNkU3FPdjU0VzNNOTFVNWJhSFE?oc=5)
-
----
-
-### [Inquest jury concludes Hampshire boy died of natural causes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
-
-2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
-
----
-
-### [Revision der McDonald-Kriterien für Multiple Sklerose von 2024 - mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
-
-2026-06-12 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
-
----
-
-### [Europa entra en una nueva era oncológica marcada por la aceleración de terapias dirigidas y el desafío regulatorio](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFNFb0Jua0c1dnlodWtLbE9CdEVHZng5QkRFenVIVUtSU0owM2YtTmd2RlVrTXpaOU1Ya3lfa3d6aEUyZ3B2VVo2WjNmZHc0R3hPT0g1cWUxNmlzbkY4ZXlzZXFSWHViVGZYMnhNdFAyb0R6MmlOZzE1R3hNZXlaWjdJYkp0Ni1yeXpDeUVVVXNtcjJscV94S1pfVTdwZ1ZVOWdGdU0tWjNNV1dtWTQ2Z1Yyc2xwbXExVU9zcFhuTnJZV0JmSnk2T3pJc1FGM3hYc09Hci15aWoxUW5JVXRfMGhaaWk2TjNR?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFNFb0Jua0c1dnlodWtLbE9CdEVHZng5QkRFenVIVUtSU0owM2YtTmd2RlVrTXpaOU1Ya3lfa3d6aEUyZ3B2VVo2WjNmZHc0R3hPT0g1cWUxNmlzbkY4ZXlzZXFSWHViVGZYMnhNdFAyb0R6MmlOZzE1R3hNZXlaWjdJYkp0Ni1yeXpDeUVVVXNtcjJscV94S1pfVTdwZ1ZVOWdGdU0tWjNNV1dtWTQ2Z1Yyc2xwbXExVU9zcFhuTnJZV0JmSnk2T3pJc1FGM3hYc09Hci15aWoxUW5JVXRfMGhaaWk2TjNR?oc=5)
-
----
-
-### [«L'epidemia di Ebola continua a diffondersi nell'est del Congo» - Corriere del Ticino](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
-
-2026-06-12 <span class="news-indication-tag">MS</span>
-
-來源：[Corriere del Ticino](https://news.google.com/rss/articles/CBMilAFBVV95cUxORHh4NXhXc1pGVVRyMGZhTHdvaDZMT2QwdFloQlBkcEJ0RjRYdzJDUm9ubktmbjVubXJsNXlIYkFxbERFcGZZRGxYdlJSY3FuVDltcGhUTGU1bnc1d3MyR2pZdzc5RDBEVG5TM2ZvZk1Ia1RGZHlUVHZvZEpXUUZSa2ltamNqVFdubDF3R1QwU0x0N243?oc=5)
 
 ---
 

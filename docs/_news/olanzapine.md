@@ -54,6 +54,14 @@ permalink: /news/olanzapine/
 
 ## 相關新聞（16 則）
 
+### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
+
+---
+
 ### [NHS staff battling wave of food supplement disinformation - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUZ3a0REMjFZRlNDbzdBWDRsc1hLbUlINHNldDhyTlNMRjkySjNMaXBhYWJMVGxRQzkwX0NQT3R4VGlJNEhBdW4tUTBuUlE5eEFPbWt5bV9LRWxRalB0Wll4WlZCYkdWTGpJSEx5SWlrM3A3M3Z1UWhFeUNqYUtwVTRsbU9FdUNzLUc5SzRjbFhlNHQwZk1IZEtGd2cwMFpFNXZVcnRPRDZrb1pVMy1CaE1hMU0zX3M?oc=5)
 
 2026-06-14 <span class="news-indication-tag">AF</span>
@@ -62,11 +70,27 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Un macroestudio mundial con la participación de la UAL determina que existe una ‘brecha global’ en la obesidad - UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+### [Rätselhafte Wunden und ein falscher Verdacht](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmpfazRpd3JDdTNJN3ZIRnctVXFhcXg4UTR2NzBSajQyNHBsdUVsTjVxdUVlamFQc2pybkhVYWRZS0pMX0pLbXcxaUREOW5Zc0pDRldMcGFIT0RlTE14eHdydXhZX1hoeFl5UFpxdWltaGh5dXV2dXl0SXdjME1WWGJmSU5YWlVCeTNGc0thUC1vOTIxV29KQmxJZlprZElvdE5GbXJDcjl3a0k1d3c?oc=5)
 
-2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-14 <span class="news-indication-tag">AF</span>
 
-來源：[UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+來源：[STERN.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmpfazRpd3JDdTNJN3ZIRnctVXFhcXg4UTR2NzBSajQyNHBsdUVsTjVxdUVlamFQc2pybkhVYWRZS0pMX0pLbXcxaUREOW5Zc0pDRldMcGFIT0RlTE14eHdydXhZX1hoeFl5UFpxdWltaGh5dXV2dXl0SXdjME1WWGJmSU5YWlVCeTNGc0thUC1vOTIxV29KQmxJZlprZElvdE5GbXJDcjl3a0k1d3c?oc=5)
+
+---
+
+### [La déroute des pères : la dénatalité n’est pas qu’un problème de femmes - Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
+
+2026-06-14 <span class="news-indication-tag">dépression</span>
+
+來源：[Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
+
+---
+
+### [Un estudio desmonta el falso mito de los gatos y el asma infantil - Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
+
+2026-06-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
 
 ---
 
@@ -83,14 +107,6 @@ permalink: /news/olanzapine/
 2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
-
----
-
-### [Blutdruck: Rote-Bete-Saft senkt Werte bei Senioren deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjJ2d3pSSHpHYlE4NDc3MVhBeVIzTTF5dHNULXdHOGFRQ3dzZzdtTkluMEtuNGJ6X3RtMFQzZVlqMDJ5blRnZ1ktUzlyanB5bzNaeFlDZ1RhLWllclpZUmpFdURHSjJOS1pMeHFMMG44UE4wbXhTVTJVM3lYR1NfNlhCNWREQm84U2RZSnZfak56WEFSWmxEaVlJT1ZGQkh2aEpjdjJTRDRRTTA?oc=5)
-
-2026-06-14 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjJ2d3pSSHpHYlE4NDc3MVhBeVIzTTF5dHNULXdHOGFRQ3dzZzdtTkluMEtuNGJ6X3RtMFQzZVlqMDJ5blRnZ1ktUzlyanB5bzNaeFlDZ1RhLWllclpZUmpFdURHSjJOS1pMeHFMMG44UE4wbXhTVTJVM3lYR1NfNlhCNWREQm84U2RZSnZfak56WEFSWmxEaVlJT1ZGQkh2aEpjdjJTRDRRTTA?oc=5)
 
 ---
 
@@ -118,14 +134,6 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Jóvenes investigadores debaten sobre salud cardiovascular en Madrid - Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">AF</span>
-
-來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHczX0lJVlhkSjU1bHhvOVItRGZSQkt1Z01yT3dQUnpTQ295YmRXMWdsbkxOZDB6YXFNM0tDZmdQWEJDLW9VdzBUTWFKd0dCbVMtRFBZcTZLVjdjUkZScDdGdW9UNnpvaXR5MXkxT2NHenRmS2kxdmRRMVFZRGNJWVRjc3NWMFJJeldfVDVyUWxMZ2pQNHhRRV9kUGw?oc=5)
-
----
-
 ### [Depressionen: Kopfkühlung könnte bei der Behandlung helfen](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGIxMnN0TzRxYmVTQ0xEQ0xKdF9JUmxOY3pwU1ViTkFHdEJPNzM2a1hKbWd1UmFEczU5Zy1uOGVoWUFUTDdwXzRwM05CUUJOTkJzd2daRFlqaDJFWS1uNDcyVmVSVU90VHVzelBZZ3l2eGlNcFNFU2NqOUR1VVZVNjJxaTFWemY1UFozSHk5RG9rTjJMZjNuaWFyTnNiVTV1QWJHVWtULUlRRUlhWTJ1ZkU5M2pUVHVrWWZxOQ?oc=5)
 
 2026-06-13 <span class="news-indication-tag">depression</span>
@@ -139,6 +147,14 @@ permalink: /news/olanzapine/
 2026-06-13 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5)
+
+---
+
+### [Strep A: What is it and what are the symptoms?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tYUpqY1JUQlZvYXZhYVplbGY1UmlxamZMbGptYThiZzhXMUo5cEZlQ1VCU01ZZTRycFljdVZabDNYVWtfNUs0dWhqSnV6YllDb3o0V0doclZFUzRK?oc=5)
+
+2026-06-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tYUpqY1JUQlZvYXZhYVplbGY1UmlxamZMbGptYThiZzhXMUo5cEZlQ1VCU01ZZTRycFljdVZabDNYVWtfNUs0dWhqSnV6YllDb3o0V0doclZFUzRK?oc=5)
 
 ---
 
@@ -158,27 +174,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Charité startet DHEA-Studie zur Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
+### [Depression: Charité testet Hormon DHEA als Zusatztherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wbWRiT2NaOHcyTjF4TzdGaWRacmpRdVduOUgwSzNGSWxqNjVqTFkzUXM0N3gzUkRxVEhFdDlTUDJUNnlQRDZjTkJFdTEzNndjT21mcVk5em5xX3FxYmFYMk05TUtac3lQVVRZZ1FBTm9JVk5yT3ZvQVlSV2doSU10N0pKYzJ1cFA1OGN6MUw0TEp1aVA3cjZRX3J5c2lCRE5yUWI3QnI?oc=5)
 
 2026-06-13 <span class="news-indication-tag">depression</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
-
----
-
-### [Inquest jury concludes Hampshire boy died of natural causes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
-
-2026-06-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXJHNE8xTU9WSzZCam1jQlZLTUVXODZJZFNBWmFIMjhwQm8yVzlrZlFHeWpzNmFIUXhsMzFrcHE0OG1mbWZTbnpueHlhWVN2RU5mdHBLSXZ3QU5S?oc=5)
-
----
-
-### [Europa entra en una nueva era oncológica marcada por la aceleración de terapias dirigidas y el desafío regulatorio](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFNFb0Jua0c1dnlodWtLbE9CdEVHZng5QkRFenVIVUtSU0owM2YtTmd2RlVrTXpaOU1Ya3lfa3d6aEUyZ3B2VVo2WjNmZHc0R3hPT0g1cWUxNmlzbkY4ZXlzZXFSWHViVGZYMnhNdFAyb0R6MmlOZzE1R3hNZXlaWjdJYkp0Ni1yeXpDeUVVVXNtcjJscV94S1pfVTdwZ1ZVOWdGdU0tWjNNV1dtWTQ2Z1Yyc2xwbXExVU9zcFhuTnJZV0JmSnk2T3pJc1FGM3hYc09Hci15aWoxUW5JVXRfMGhaaWk2TjNR?oc=5)
-
-2026-06-12 <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFNFb0Jua0c1dnlodWtLbE9CdEVHZng5QkRFenVIVUtSU0owM2YtTmd2RlVrTXpaOU1Ya3lfa3d6aEUyZ3B2VVo2WjNmZHc0R3hPT0g1cWUxNmlzbkY4ZXlzZXFSWHViVGZYMnhNdFAyb0R6MmlOZzE1R3hNZXlaWjdJYkp0Ni1yeXpDeUVVVXNtcjJscV94S1pfVTdwZ1ZVOWdGdU0tWjNNV1dtWTQ2Z1Yyc2xwbXExVU9zcFhuTnJZV0JmSnk2T3pJc1FGM3hYc09Hci15aWoxUW5JVXRfMGhaaWk2TjNR?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wbWRiT2NaOHcyTjF4TzdGaWRacmpRdVduOUgwSzNGSWxqNjVqTFkzUXM0N3gzUkRxVEhFdDlTUDJUNnlQRDZjTkJFdTEzNndjT21mcVk5em5xX3FxYmFYMk05TUtac3lQVVRZZ1FBTm9JVk5yT3ZvQVlSV2doSU10N0pKYzJ1cFA1OGN6MUw0TEp1aVA3cjZRX3J5c2lCRE5yUWI3QnI?oc=5)
 
 ---
 

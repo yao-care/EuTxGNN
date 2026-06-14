@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Un macroestudio mundial con la participación de la UAL determina que existe una ‘brecha global’ en la obesidad - UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
 
 2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[UAL News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2JsY0hQLVc5TGFhR1ZtWjhQWlFneDNwNHNHZVktVjJVcURtOW0yNzRWNUJ3MEY4RnpLamJIVnRMamZsci1qdW5oWUpZeWpHTlFpVEZwZDdha29iMXdUMV9nblJoX3dkVkI2VXRoVFlEOFdvZ0NESVlLQVJ0TFFEbk4yWTFHallSeF9rZnhYT2l1YWY3NTFHUUlmSlpGcVduUXd3VUxiZk0tbGJIOXd3WjYxWkthbmpxTjFFeVB6dlFNbXdNQmNWbl9SR3R0dVUxbXU4?oc=5)
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
 
 ---
 
-### [Médicaments anti-obésité : début du remboursement de Wegovy et Mounjaro en France mais les contraintes seront strictes - Sud Ouest](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb3ZaeEpzQXJFcERyZ1RTaXdmNmxHVEF6eGRJbUNxV19lUE5Pb3ZiSFY1WW10WXZVUlBBQklfcDNOQTZLZmx6a2xWdkZFbnI5MmZEeldUSUFqNFpwTTJFQlpYNHBOUTE1TTVIRjRjSXBMaXdkSTFGeTJrbldoS0JaNWU5bV9MMkstYzhqNTZXU1p6ZEh6YXNzSm1NT21nMGdUcW5aRDM0UVU0NDNTb2c4aGdEUG5oeTBSdHMzR0Fsb2p5d2hVTl9NOXlFMWI1ckQwdVpEZkZMZFdJVUtjWXlrWk9tTFExNGFTdWZsdFJ1OXM?oc=5)
+### [Les médicaments antiobésité Wegovy et Mounjaro seront remboursés en France à partir de lundi - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTE1KaGRrTzdadlR4VlRuVTR1TEhMNU1FbEI1R3d1R0RFa2NEVVdGZ2RNLTZ5U28xT1hOdUwxZW9WckJ1SkxiYW0zUnBKUDlWQW1fMGVTWUlCNGdFQkEybXdDMUt3eUZsdEtzVWQzNkV0M3hOZHJUQTJ3U0NjU0VIVkdXcGpnNm44QzVsZ3pacUQ0Zm4zdk53dS1pTlFLVDJhSURDS0FzWm1La0FsQVdaVnE2eVo3MG1VNGJqd0k4WEFjaEdQVUNyNHNCRWxiNjZYX2QzQnlYcHdKeks4WXRYcW1KT3lMWnp1NmRjdEQ2c2thVlk?oc=5)
 
 2026-06-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb3ZaeEpzQXJFcERyZ1RTaXdmNmxHVEF6eGRJbUNxV19lUE5Pb3ZiSFY1WW10WXZVUlBBQklfcDNOQTZLZmx6a2xWdkZFbnI5MmZEeldUSUFqNFpwTTJFQlpYNHBOUTE1TTVIRjRjSXBMaXdkSTFGeTJrbldoS0JaNWU5bV9MMkstYzhqNTZXU1p6ZEh6YXNzSm1NT21nMGdUcW5aRDM0UVU0NDNTb2c4aGdEUG5oeTBSdHMzR0Fsb2p5d2hVTl9NOXlFMWI1ckQwdVpEZkZMZFdJVUtjWXlrWk9tTFExNGFTdWZsdFJ1OXM?oc=5)
-
----
-
-### [Un estudio destaca los probables efectos positivos de la política antiobesidad en Chile - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGVjSTQydnZpdWZ4S0hfT01aSV9vSmx3dHpOTGYwRk5rREU3NjRpUVhobDYwV1FHS0dBRmdHQ3F1QUx4VXFQMThqT0ZvcHBnNmQ2VjJtemFtek1WdnlFRmExS3ZsREp1WEQ2c0dsR0JzY20xZjh0RTdEaDUyTUtfRVJJRmczWUF6Tm5qSmZsd3g0YVQ1WElwWWdkSy1RTTB3d3dHRDBXbEJJaW1FN2pXdmJZbnRCdG83NE0tTDhrNVJfNkFIU1Z4TDBn?oc=5)
-
-2026-06-12 <span class="news-indication-tag">obesidad</span>
-
-來源：[SWI swissinfo.ch](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGVjSTQydnZpdWZ4S0hfT01aSV9vSmx3dHpOTGYwRk5rREU3NjRpUVhobDYwV1FHS0dBRmdHQ3F1QUx4VXFQMThqT0ZvcHBnNmQ2VjJtemFtek1WdnlFRmExS3ZsREp1WEQ2c0dsR0JzY20xZjh0RTdEaDUyTUtfRVJJRmczWUF6Tm5qSmZsd3g0YVQ1WElwWWdkSy1RTTB3d3dHRDBXbEJJaW1FN2pXdmJZbnRCdG83NE0tTDhrNVJfNkFIU1Z4TDBn?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTE1KaGRrTzdadlR4VlRuVTR1TEhMNU1FbEI1R3d1R0RFa2NEVVdGZ2RNLTZ5U28xT1hOdUwxZW9WckJ1SkxiYW0zUnBKUDlWQW1fMGVTWUlCNGdFQkEybXdDMUt3eUZsdEtzVWQzNkV0M3hOZHJUQTJ3U0NjU0VIVkdXcGpnNm44QzVsZ3pacUQ0Zm4zdk53dS1pTlFLVDJhSURDS0FzWm1La0FsQVdaVnE2eVo3MG1VNGJqd0k4WEFjaEdQVUNyNHNCRWxiNjZYX2QzQnlYcHdKeks4WXRYcW1KT3lMWnp1NmRjdEQ2c2thVlk?oc=5)
 
 ---
 

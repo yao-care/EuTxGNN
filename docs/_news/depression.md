@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [La déroute des pères : la dénatalité n’est pas qu’un problème de femmes - Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
+
+2026-06-14
+
+來源：[Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
+
+---
 
 ### [Depressionen: Kopfkühlung könnte bei der Behandlung helfen](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGIxMnN0TzRxYmVTQ0xEQ0xKdF9JUmxOY3pwU1ViTkFHdEJPNzM2a1hKbWd1UmFEczU5Zy1uOGVoWUFUTDdwXzRwM05CUUJOTkJzd2daRFlqaDJFWS1uNDcyVmVSVU90VHVzelBZZ3l2eGlNcFNFU2NqOUR1VVZVNjJxaTFWemY1UFozSHk5RG9rTjJMZjNuaWFyTnNiVTV1QWJHVWtULUlRRUlhWTJ1ZkU5M2pUVHVrWWZxOQ?oc=5)
 
@@ -45,11 +53,11 @@ permalink: /news/depression/
 
 ---
 
-### [Charité startet DHEA-Studie zur Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
+### [Depression: Charité testet Hormon DHEA als Zusatztherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wbWRiT2NaOHcyTjF4TzdGaWRacmpRdVduOUgwSzNGSWxqNjVqTFkzUXM0N3gzUkRxVEhFdDlTUDJUNnlQRDZjTkJFdTEzNndjT21mcVk5em5xX3FxYmFYMk05TUtac3lQVVRZZ1FBTm9JVk5yT3ZvQVlSV2doSU10N0pKYzJ1cFA1OGN6MUw0TEp1aVA3cjZRX3J5c2lCRE5yUWI3QnI?oc=5)
 
 2026-06-13
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxXUk05QW92cXpZOEJNUE45SFFXMC1IOVlTQ29sekU3aDg5VnRpTlVWTHBYT1hZRWlDa3ViN3ZwZ1Z4SnItc1BtdV9vbUI0WWlkU28zQmhyRUNTVjJxc3pweXJ4blRhZzVSbTVNbkxiQUFkTVlVLXZRWWQtbXlIODJjdkRacE84NjlqX1lVQkhyV3FJdHJ0R1hyN3VMUkNtUW1ZREQtZnZqOGVCZHFWbXg4Yw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wbWRiT2NaOHcyTjF4TzdGaWRacmpRdVduOUgwSzNGSWxqNjVqTFkzUXM0N3gzUkRxVEhFdDlTUDJUNnlQRDZjTkJFdTEzNndjT21mcVk5em5xX3FxYmFYMk05TUtac3lQVVRZZ1FBTm9JVk5yT3ZvQVlSV2doSU10N0pKYzJ1cFA1OGN6MUw0TEp1aVA3cjZRX3J5c2lCRE5yUWI3QnI?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/corifollitropin-alfa/
 
 ## 相關新聞（1 則）
 
-### [Not all fruits and vegetables are equal when it comes to heart health, our research shows - The Conversation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5)
+### [Blutdruck-Paradox: Zu niedriger Blutdruck erhöht Alzheimer-Risiko um 200% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
 
-2026-06-12 <span class="news-indication-tag">heart disease</span>
+2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
 
 ---
 

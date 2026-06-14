@@ -54,19 +54,19 @@ permalink: /news/ospemifene/
 
 ## 相關新聞（2 則）
 
+### [Blutdruck-Paradox: Zu niedriger Blutdruck erhöht Alzheimer-Risiko um 200% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+
+2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+
+---
+
 ### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
 
 2026-06-13 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
-
----
-
-### [Not all fruits and vegetables are equal when it comes to heart health, our research shows - The Conversation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5)
-
-2026-06-12 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5)
 
 ---
 

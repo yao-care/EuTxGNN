@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Gilead dona más de 2.000 viales de remdesivir a Uganda para apoyar la respuesta frente al brote de ébola - El Debate](https://news.google.com/rss/articles/CBMizAFBVV95cUxON1hjc25uYkVXbEV0aExjU0xPUFBVSWpFZFpHYUpOQnVsYkNURHo2VXFrOEt6d2hncTJxdl9PTnFUUzZuSXpVT1BLcWhtSXVfVU9yZVkzZTRfc043bFJ3Z1lla1hud01ZcXF3VlVfdzFTc0VVMk1KTzVQN3dod0ZtWkFwcUdUNG00SEJnVENWOFlQOTlMTVBYUy1CQmVPVkMzdjBMdndGdG1xX0hIZDhGUy10RDJqMlV3M2JsNVo2X1hMREh2SEN5aWktMXTSAdIBQVVfeXFMTWtXbGczZWNNUnFoZGNzdjBNODFpUW9GRUc4RXRxVnc0WS1GcnZpX2hGcUd3clRNSXkzWURUOXJjYXlxR3J0dFZtUG5PdHM5RFlVeTVDQmg0YjZlRk9kbC1TUXRiTldjUjZYY2wzaU1TVGRzZlpQSUhQUkVXSmVmZGFoUmdNZjVxYmJpd1RVWDBYWU5HRjFGcDZ6a1hTU21iTVJKd0xFVlFOMGtLdTFXVnBKdHE1Sk5yWkhzNlFMMC05Q0VWeFFjQzRUZDN6U1QxZ0N3?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Remdesivir</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMizAFBVV95cUxON1hjc25uYkVXbEV0aExjU0xPUFBVSWpFZFpHYUpOQnVsYkNURHo2VXFrOEt6d2hncTJxdl9PTnFUUzZuSXpVT1BLcWhtSXVfVU9yZVkzZTRfc043bFJ3Z1lla1hud01ZcXF3VlVfdzFTc0VVMk1KTzVQN3dod0ZtWkFwcUdUNG00SEJnVENWOFlQOTlMTVBYUy1CQmVPVkMzdjBMdndGdG1xX0hIZDhGUy10RDJqMlV3M2JsNVo2X1hMREh2SEN5aWktMXTSAdIBQVVfeXFMTWtXbGczZWNNUnFoZGNzdjBNODFpUW9GRUc4RXRxVnc0WS1GcnZpX2hGcUd3clRNSXkzWURUOXJjYXlxR3J0dFZtUG5PdHM5RFlVeTVDQmg0YjZlRk9kbC1TUXRiTldjUjZYY2wzaU1TVGRzZlpQSUhQUkVXSmVmZGFoUmdNZjVxYmJpd1RVWDBYWU5HRjFGcDZ6a1hTU21iTVJKd0xFVlFOMGtLdTFXVnBKdHE1Sk5yWkhzNlFMMC05Q0VWeFFjQzRUZDN6U1QxZ0N3?oc=5)
-
----
-
-### [Not all fruits and vegetables are equal when it comes to heart health, our research shows - The Conversation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5)
-
-2026-06-12 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

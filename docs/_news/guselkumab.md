@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/guselkumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>drug-induced osteoporosis（99.8%）</li>
 <li>severe nonproliferative diabetic retinopathy（99.8%）</li>
-<li class="indication-matched">psoriasis（99.8%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（99.8%）</li>
 <li>diabetic retinopathy（99.7%）</li>
 <li>renal osteodystrophy（99.7%）</li>
 <li>ulcerative colitis (disease)（99.7%）</li>
@@ -52,7 +52,7 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Relación entre diabetes y salud bucodental - Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/guselkumab/
 2026-06-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
----
-
-### [32º Congreso SEMG: La psoriasis obliga a mirar más allá de la piel para prevenir complicaciones cardiovasculares - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2plNU1rMHhqVWxyaWt2RngycUFiNGxKMjkxalF5RFE3ZXBzOXZjUG5NclhyS1FpX1phdldyVEQ4Q211dGdzWXJnTFdpQ2R4ZlF6MkdEVmxtbkZNYThGQm51RDd4YlJNcTkxeDNjalE2TG80elF4VjlNQy1fNEFfamhDcExvZEU0RFhKWGNXbzV3V3libWNDeXZCMlg0c3NyaXJxclM0a01BVjB6R1ptajNoRDFkTThvZ1HSAbQBQVVfeXFMT1BfYllkbVlBYzdEcm9KYWl1eEtoVHc3WDZRenNSaHJhcktWMDNkRzRaa2JneXpRNzVXSnFMbE9KcDcwSmZ5NnVwUXRLYjRyZnMxdzE4QXJJOEpRUkZBMzN1Q1VkY3lIUmJjRHkxS1VveXhkd2NWVElvcVRuTm9SaElMdE83X2Yyd1psa0lKVnF1VmZHSHRsN1dGTXhSWkZuMWE3dnE4RG9RSkhlNnJ0aWs1dGlW?oc=5)
-
-2026-06-12 <span class="news-indication-tag">psoriasis</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2plNU1rMHhqVWxyaWt2RngycUFiNGxKMjkxalF5RFE3ZXBzOXZjUG5NclhyS1FpX1phdldyVEQ4Q211dGdzWXJnTFdpQ2R4ZlF6MkdEVmxtbkZNYThGQm51RDd4YlJNcTkxeDNjalE2TG80elF4VjlNQy1fNEFfamhDcExvZEU0RFhKWGNXbzV3V3libWNDeXZCMlg0c3NyaXJxclM0a01BVjB6R1ptajNoRDFkTThvZ1HSAbQBQVVfeXFMT1BfYllkbVlBYzdEcm9KYWl1eEtoVHc3WDZRenNSaHJhcktWMDNkRzRaa2JneXpRNzVXSnFMbE9KcDcwSmZ5NnVwUXRLYjRyZnMxdzE4QXJJOEpRUkZBMzN1Q1VkY3lIUmJjRHkxS1VveXhkd2NWVElvcVRuTm9SaElMdE83X2Yyd1psa0lKVnF1VmZHSHRsN1dGTXhSWkZuMWE3dnE4RG9RSkhlNnJ0aWs1dGlW?oc=5)
 
 ---
 
