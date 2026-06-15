@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Schwierige Verläufe bei rheumatoider Arthritis erfordern mehr als Entzündungskontrolle - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjRVdlRCaENoUmgtcVM3dFJtNHBIcVc3X2VIQzZfZmJpQnNIblNtRlp0YjJQS2EtVWFNMFIyZ0tQeURhcUZPZjlsM2F6MERDeWdMTjJDTDA2dFN6VEh6Yl8xWGQya3UzZHRmY2lDMlZxcXUzMWRDblczQVpXT0pxSmVHX3h3OXJ6SnRDQzlaR29vVVp5c0E?oc=5)
+
+2026-06-15 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjRVdlRCaENoUmgtcVM3dFJtNHBIcVc3X2VIQzZfZmJpQnNIblNtRlp0YjJQS2EtVWFNMFIyZ0tQeURhcUZPZjlsM2F6MERDeWdMTjJDTDA2dFN6VEh6Yl8xWGQya3UzZHRmY2lDMlZxcXUzMWRDblczQVpXT0pxSmVHX3h3OXJ6SnRDQzlaR29vVVp5c0E?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Nicht alle DMARDs verbessern die Lebensqualität gleichermaßen - Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+
+2026-06-15 <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+
+---
+
+### [La semaglutida protege los huesos: reduce un 15% las fracturas en pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk43MlUwY0R5Zm5GRTFSODlNZ29yZmpLZ2lOQVpqMURrSHNIRjNwR0JQazRCM3ZXaUE1ckYweVdfNFJVaC1OdTBTeXlxYm43UW1BWXFMOVI0dVN5Y3g3Tk9wUGRHQTVtbms0OTZxRzB1TElkR3g0c2x3UkUzUlUzVHRMWEdpZzZxSHVnaW5YRVJjb0pDTFpsdDZvNkxkdXMyLVRpTndVY3hieXhqN3B2NWJkVmc0RFFrZEM2MkJhWUcxUFB3cE02STJsSkd2cW05M0R3NExPczZNemh5?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk43MlUwY0R5Zm5GRTFSODlNZ29yZmpLZ2lOQVpqMURrSHNIRjNwR0JQazRCM3ZXaUE1ckYweVdfNFJVaC1OdTBTeXlxYm43UW1BWXFMOVI0dVN5Y3g3Tk9wUGRHQTVtbms0OTZxRzB1TElkR3g0c2x3UkUzUlUzVHRMWEdpZzZxSHVnaW5YRVJjb0pDTFpsdDZvNkxkdXMyLVRpTndVY3hieXhqN3B2NWJkVmc0RFFrZEM2MkJhWUcxUFB3cE02STJsSkd2cW05M0R3NExPczZNemh5?oc=5)
+
+---
+
+### [Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+
+---
 
 ### [Relación entre diabetes y salud bucodental - Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
 
 2026-06-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
-
----
-
-### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
-
-2026-06-13 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
-
----
-
-### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
-2026-06-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
 
 ---
 

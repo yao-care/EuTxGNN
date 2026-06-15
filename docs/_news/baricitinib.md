@@ -3,7 +3,7 @@ layout: default
 title: "Baricitinib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Baricitinib 的相關健康新聞報導。原適應症：Rheumatoid arthritis Baricitinib is indicated for ...。預測適應症 20 個。"
+description: "Baricitinib 的相關健康新聞報導。原適應症：Rheumatoid arthritis Baricitinib is indicated for ...。預測適應症 10 個。"
 permalink: /news/baricitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/baricitinib/
 ---
 
 <p class="key-answer" data-question="Baricitinib 有什麼相關新聞？">
-<strong>Baricitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Baricitinib</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,39 +26,101 @@ permalink: /news/baricitinib/
 <ul>
 <li><strong>原適應症</strong>：Rheumatoid arthritis Baricitinib is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>rheumatoid arthritis（100.0%）</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.9%）</li>
-<li>brachydactyly-syndactyly syndrome（99.9%）</li>
-<li>indolent plasma cell myeloma（93.3%）</li>
-<li>WHIM syndrome（93.1%）</li>
-<li>plasma cell myeloma（91.8%）</li>
-<li>myeloid leukemia（91.0%）</li>
-<li>Meester-Loeys syndrome（88.2%）</li>
-<li>ganglioneuroblastoma (disease)（87.6%）</li>
-<li>heparin cofactor 2 deficiency（86.3%）</li>
-<li>vertebral anomalies and variable endocrine and T-cell dysfunction（84.7%）</li>
-<li>retroperitoneal neoplasm（84.3%）</li>
-<li>osteoarthritis susceptibility（83.9%）</li>
-<li>factor 5 excess with spontaneous thrombosis（82.8%）</li>
-<li>antithrombin deficiency type 2（81.7%）</li>
-<li>stroke disorder（79.2%）</li>
-<li>neuroblastoma（79.2%）</li>
-<li>amyotrohpic lateral sclerosis type 22（77.9%）</li>
-<li>amyotrophic lateral sclerosis, susceptibility to（77.4%）</li>
-<li>amyotrophic lateral sclerosis（74.7%）</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.94% | L5 | Hold（99.0%）</li>
+<li>Brachydactyly-syndactyly syndrome | 99.94% | L5 | Hold（99.0%）</li>
+<li>Indolent plasma cell myeloma | 93.31% | L5 | Hold（99.0%）</li>
+<li>WHIM syndrome | 93.12% | L5 | Hold（99.0%）</li>
+<li>Plasma cell myeloma | 91.83% | L4 | Hold（99.0%）</li>
+<li>**Myeloid leukemia** | **91.01%** | **L3** | **Research Question**（99.0%）</li>
+<li>Meester-Loeys syndrome | 88.21% | L5 | Hold（99.0%）</li>
+<li>Ganglioneuroblastoma | 87.59% | L5 | Hold（99.0%）</li>
+<li>Heparin cofactor 2 deficiency | 86.31% | L5 | Hold（99.0%）</li>
+<li>Vertebral anomalies and variable endocrine and T-cell dysfunction | 84.68% | L5 | Hold（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/baricitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（14 則）
 
 ### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
-2026-06-14 <span class="news-indication-tag">tumor</span>
+2026-06-15 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
+
+---
+
+### [Schwierige Verläufe bei rheumatoider Arthritis erfordern mehr als Entzündungskontrolle - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjRVdlRCaENoUmgtcVM3dFJtNHBIcVc3X2VIQzZfZmJpQnNIblNtRlp0YjJQS2EtVWFNMFIyZ0tQeURhcUZPZjlsM2F6MERDeWdMTjJDTDA2dFN6VEh6Yl8xWGQya3UzZHRmY2lDMlZxcXUzMWRDblczQVpXT0pxSmVHX3h3OXJ6SnRDQzlaR29vVVp5c0E?oc=5)
+
+2026-06-15 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjRVdlRCaENoUmgtcVM3dFJtNHBIcVc3X2VIQzZfZmJpQnNIblNtRlp0YjJQS2EtVWFNMFIyZ0tQeURhcUZPZjlsM2F6MERDeWdMTjJDTDA2dFN6VEh6Yl8xWGQya3UzZHRmY2lDMlZxcXUzMWRDblczQVpXT0pxSmVHX3h3OXJ6SnRDQzlaR29vVVp5c0E?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Nicht alle DMARDs verbessern die Lebensqualität gleichermaßen - Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+
+2026-06-15 <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+
+---
+
+### [Stammtisch bietet Patient:innen mit Hirntumor Raum für Austausch und Normalität](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnFXR3hEYWRaa1lfTF9fb2RxaWlmS0M1TVd2c1hPZTZxOVNkdTJTYkpxQUhtdTY2eURJNXpRcVU2cUM2OGpmcEpZQU1pQkl2MjRBX2xZNnUzSm1TbElpQVJlVUxEWlFXWHllRk5DM3pDXzlrUGZ0bHE3VTl4SWRveWpnUHFHS1NnbGl0LTlQaUZYT3ZTMi1Va0hORUpTeXhPZjFZQzdmZjE2UzMzN2x4d3Y4blNFRG5WUGpFMWdfSmZ2cmZIdG1NdldXcnprUDNwTmtMOUlWTUNzanRmbGQ1bQ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">tumor</span>
+
+來源：[H@llAnzeiger](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnFXR3hEYWRaa1lfTF9fb2RxaWlmS0M1TVd2c1hPZTZxOVNkdTJTYkpxQUhtdTY2eURJNXpRcVU2cUM2OGpmcEpZQU1pQkl2MjRBX2xZNnUzSm1TbElpQVJlVUxEWlFXWHllRk5DM3pDXzlrUGZ0bHE3VTl4SWRveWpnUHFHS1NnbGl0LTlQaUZYT3ZTMi1Va0hORUpTeXhPZjFZQzdmZjE2UzMzN2x4d3Y4blNFRG5WUGpFMWdfSmZ2cmZIdG1NdldXcnprUDNwTmtMOUlWTUNzanRmbGQ1bQ?oc=5)
+
+---
+
+### ["Vaccini mRna contro il cancro funzionano", Bassetti esulta e lancia stoccata contro i 'fenomeni'](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnJPS0VPSUdob2l3RlY5dkNISjgzOElEeERDUzN5Wmc0NUJFM3dsS2daeXdzTko1emtUdjNQSGJRZm1JQkxabUxISGpDbTN0SVdSRlo4SUNpY1ZjNWNwQmV6N2NWV2k3aHkwbHBQdTRoU045Y2hzYXdjS0lKNmNTM2hTN3lUVkRIdE5jNWRR?oc=5)
+
+2026-06-15 <span class="news-indication-tag">tumor</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnJPS0VPSUdob2l3RlY5dkNISjgzOElEeERDUzN5Wmc0NUJFM3dsS2daeXdzTko1emtUdjNQSGJRZm1JQkxabUxISGpDbTN0SVdSRlo4SUNpY1ZjNWNwQmV6N2NWV2k3aHkwbHBQdTRoU045Y2hzYXdjS0lKNmNTM2hTN3lUVkRIdE5jNWRR?oc=5)
+
+---
+
+### [Lichtschalter macht Krebs verwundbar - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8talYydTZ3dGFQdFRSbF8wNTJxcnVxMGM4WTUxRW4wU1EtSjV4dmNMR3BYTFdLdUhPekNIbXhPTFI3WXRZU3lCQ1B6Yw?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8talYydTZ3dGFQdFRSbF8wNTJxcnVxMGM4WTUxRW4wU1EtSjV4dmNMR3BYTFdLdUhPekNIbXhPTFI3WXRZU3lCQ1B6Yw?oc=5)
+
+---
+
+### [Cáncer de piel: así son los lunares, las manchas o las heridas que pueden ser signo de un tumor](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWEUzSmFsek45enVWMVZaMUJjS1RaMHEyWjZuai04SzhWbEkwSzVSNnVMdHg1eFQyQS1oVUFxX2lqUzFZOGNDX21TdUdvdGdMbC1kT0lHYlpOUVdaczM1WkJ5dmppbUhaRXphb29sc2FrMDc2cHA4M0RHM0VNNzViRlhtTldyajVoRlhITFBBU1Jlb3EtQ1puQk9XR0x5akV4bGJzaVBPWGN0cEJMRWEzWmNaV1pZRU5aWE05VklKTDR2NlVJUkpmbUtnVnROeDhWVUNvREVCMkPSAd4BQVVfeXFMUFdGanU5NVpWRHN2OEMwYlprUjlGNDlXZno4Q25qLV9wSWx1N0VseThlQ3ZXa2VkMWVzYW5sd3RIXzdsUWtveWsyQjREWGlFOG1kd0VROHg5WUJvSUU1Njdsc1NELVNfNTM2eHpaSElNNjhMakhXcjNUWS05WVpWcXV6NjZRRW04SDNmWHVjS3FVMmY4VjhCay1DSmhDTndVYnR1U2hvQzJSU1VEeUw5VHFiZnJiZXhEaV9raW0tSjRGMGVQOTNfNWZVNHR1Sk15dkZ5bnI2RWtCOUZzLVVB?oc=5)
+
+2026-06-15 <span class="news-indication-tag">tumor</span>
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWEUzSmFsek45enVWMVZaMUJjS1RaMHEyWjZuai04SzhWbEkwSzVSNnVMdHg1eFQyQS1oVUFxX2lqUzFZOGNDX21TdUdvdGdMbC1kT0lHYlpOUVdaczM1WkJ5dmppbUhaRXphb29sc2FrMDc2cHA4M0RHM0VNNzViRlhtTldyajVoRlhITFBBU1Jlb3EtQ1puQk9XR0x5akV4bGJzaVBPWGN0cEJMRWEzWmNaV1pZRU5aWE05VklKTDR2NlVJUkpmbUtnVnROeDhWVUNvREVCMkPSAd4BQVVfeXFMUFdGanU5NVpWRHN2OEMwYlprUjlGNDlXZno4Q25qLV9wSWx1N0VseThlQ3ZXa2VkMWVzYW5sd3RIXzdsUWtveWsyQjREWGlFOG1kd0VROHg5WUJvSUU1Njdsc1NELVNfNTM2eHpaSElNNjhMakhXcjNUWS05WVpWcXV6NjZRRW04SDNmWHVjS3FVMmY4VjhCay1DSmhDTndVYnR1U2hvQzJSU1VEeUw5VHFiZnJiZXhEaV9raW0tSjRGMGVQOTNfNWZVNHR1Sk15dkZ5bnI2RWtCOUZzLVVB?oc=5)
+
+---
+
+### [Hull family's 'walk of all walks' for cousin, 46, with terminal cancer - Hull Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE0zUW15X3JDX2l1MXN3Y0prc0h6Vm9CeWxBWG9GU2R6WmMzVDFla0dDekdBWXYwUXZ4TlBfTUNVdHE1eG9RVFoxM3lIYUFaeHdKeFloOXBuNjFPSEFmYThjWV9BOHZmTG5yQ1ZwRFRtZ0s4UktVTlJXZG1rU29XTm1NMDZNQkhpYm96X2FZbnQ3clpvWTFrN0NDZzQ5UXp0cEk4?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Hull Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE0zUW15X3JDX2l1MXN3Y0prc0h6Vm9CeWxBWG9GU2R6WmMzVDFla0dDekdBWXYwUXZ4TlBfTUNVdHE1eG9RVFoxM3lIYUFaeHdKeFloOXBuNjFPSEFmYThjWV9BOHZmTG5yQ1ZwRFRtZ0s4UktVTlJXZG1rU29XTm1NMDZNQkhpYm96X2FZbnQ3clpvWTFrN0NDZzQ5UXp0cEk4?oc=5)
+
+---
+
+### ['State-of-the-art' private cancer facility to launch at hospital - Bournemouth Echo](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEhOaGI5MDVZNkE2RmpEc1Z4c0EwOU9LNFJBMloxNWFHMkdFaVR3bFdoY1NWRVdjaDVHMXJ6Q2FYNmJ1MnVlekFzaFVRRTJLSWczOF9xQU45X0VrbXBnRGwzNXlnMFdxRk1Ed2xXUzlpNDYxbG9RWE8wekNwV1czNWRvWEVIU1hiNF9iVVdXWGpfM3pYaWw3ZFhlZHlDMzk2RDlXZHpn?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Bournemouth Echo](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaEhOaGI5MDVZNkE2RmpEc1Z4c0EwOU9LNFJBMloxNWFHMkdFaVR3bFdoY1NWRVdjaDVHMXJ6Q2FYNmJ1MnVlekFzaFVRRTJLSWczOF9xQU45X0VrbXBnRGwzNXlnMFdxRk1Ed2xXUzlpNDYxbG9RWE8wekNwV1czNWRvWEVIU1hiNF9iVVdXWGpfM3pYaWw3ZFhlZHlDMzk2RDlXZHpn?oc=5)
+
+---
+
+### [Tumore al colon, la tecnica dei magneti per operare i pazienti: «Così il recupero è più veloce - Corriere Bergamo](https://news.google.com/rss/articles/CBMimwJBVV95cUxNaWJHUzZWWDBWNWVZRVdVOVpFRTdUMjYyOVVFb0dTeDRTY2IyaVE2a3lWZGRLb1ZDNjNHQU85bHRzYldXbmQ5SFFfLWZ0MjNSRmFROHpLQzJxdGtONUVIeHRXWXU4Q3I3bm5ySzUtRWRFa1c2TXVCaHFzRGhsU3dHNFdUc0dIOXh4UE85NmxjMmYySVhJTnlfYnkxRmZHWjdqWmRUTHU4NWk5cXJPMXE5U3l6WmRkdi1tM29FWUpWcTRRSGhyNGY3UFZHb2tzaUxXOUdMaElOTmxaOEhMQzZvbXdXdG94Z1VUZk1vS1QzcWdJd3YtUEVBY2ZGRDdRU3lzMkMxMEszZ1R2bXd0VV9Gb19INGRmUExPY3pj?oc=5)
+
+2026-06-15 <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere Bergamo](https://news.google.com/rss/articles/CBMimwJBVV95cUxNaWJHUzZWWDBWNWVZRVdVOVpFRTdUMjYyOVVFb0dTeDRTY2IyaVE2a3lWZGRLb1ZDNjNHQU85bHRzYldXbmQ5SFFfLWZ0MjNSRmFROHpLQzJxdGtONUVIeHRXWXU4Q3I3bm5ySzUtRWRFa1c2TXVCaHFzRGhsU3dHNFdUc0dIOXh4UE85NmxjMmYySVhJTnlfYnkxRmZHWjdqWmRUTHU4NWk5cXJPMXE5U3l6WmRkdi1tM29FWUpWcTRRSGhyNGY3UFZHb2tzaUxXOUdMaElOTmxaOEhMQzZvbXdXdG94Z1VUZk1vS1QzcWdJd3YtUEVBY2ZGRDdRU3lzMkMxMEszZ1R2bXd0VV9Gb19INGRmUExPY3pj?oc=5)
 
 ---
 
@@ -86,51 +148,11 @@ permalink: /news/baricitinib/
 
 ---
 
-### [Hacia un tratamiento más preciso del cáncer de próstata - La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
-
-2026-06-14 <span class="news-indication-tag">tumor</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
-
----
-
 ### [L’alcol, pure poco, fa male: parola di ricerca scientifica - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
 
-2026-06-13 <span class="news-indication-tag">tumor</span>
+2026-06-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
-
----
-
-### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
-
-2026-06-13 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
-
----
-
-### [Five myths about prostate cancer, according to an oncologist - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
-
-2026-06-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
-
----
-
-### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
-
-2026-06-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
-
----
-
-### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
-
-2026-06-13 <span class="news-indication-tag">asma</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
 ---
 

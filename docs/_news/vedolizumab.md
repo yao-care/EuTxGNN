@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [La semaglutida protege los huesos: reduce un 15% las fracturas en pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk43MlUwY0R5Zm5GRTFSODlNZ29yZmpLZ2lOQVpqMURrSHNIRjNwR0JQazRCM3ZXaUE1ckYweVdfNFJVaC1OdTBTeXlxYm43UW1BWXFMOVI0dVN5Y3g3Tk9wUGRHQTVtbms0OTZxRzB1TElkR3g0c2x3UkUzUlUzVHRMWEdpZzZxSHVnaW5YRVJjb0pDTFpsdDZvNkxkdXMyLVRpTndVY3hieXhqN3B2NWJkVmc0RFFrZEM2MkJhWUcxUFB3cE02STJsSkd2cW05M0R3NExPczZNemh5?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk43MlUwY0R5Zm5GRTFSODlNZ29yZmpLZ2lOQVpqMURrSHNIRjNwR0JQazRCM3ZXaUE1ckYweVdfNFJVaC1OdTBTeXlxYm43UW1BWXFMOVI0dVN5Y3g3Tk9wUGRHQTVtbms0OTZxRzB1TElkR3g0c2x3UkUzUlUzVHRMWEdpZzZxSHVnaW5YRVJjb0pDTFpsdDZvNkxkdXMyLVRpTndVY3hieXhqN3B2NWJkVmc0RFFrZEM2MkJhWUcxUFB3cE02STJsSkd2cW05M0R3NExPczZNemh5?oc=5)
+
+---
+
+### [Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+
+---
 
 ### [Relación entre diabetes y salud bucodental - Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
+### [L’alcol, pure poco, fa male: parola di ricerca scientifica - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
 
-2026-06-13 <span class="news-indication-tag">diabetes</span>
+2026-06-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
 
 ---
 

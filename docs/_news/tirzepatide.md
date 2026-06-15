@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [La France rembourse les anti-obésité Wegovy et Mounjao à partir du 15 juin, mais sous conditions strictes - Les Numériques](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzhINFJ5QTRRLUlLWjRMOW5OdVd3TDFLaW5sNFc3aHByVUx4TTd0endQWnQta2FFRTY4Ti1ISVNYakk1ZDhUZzZhcUlPanZxNFAzdnkySFlnTXgzZkxHQmZ6M3psVHBWS2VOdjAxTmhocW9RcXdHYWZmaUtsRjN3WEJwOXd6Y0F0U2NxeWxHbExxTWVSSWhXclBMNVpMVGFqZVNHWUQ0WUozTkZYYU1neE1ZbzZ0ckU1U1c4ZUplNlhGUGxCSDh0ZkV0eGk1azJES2R4bkM4N0ozZ0VWOU1zZEE3c2JYY3pZMUVWREhvV1U?oc=5)
+### [Le remboursement des traitements anti-obésité Wegovy et Mounjaro, une équation complexe pour l’Assurance-maladie - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcG5JYVFLaWgyb0RtcGtJb1d0czlWbWtYeXNHQkRFd1FWc2hqWk9iZXA5eHpQUFpveTQ2UTZ5a1FaRF8taE55YV8zTk9FeFF4M1VnSVpHSnJkYmVnUF9YOThpUHY4ZzN5LUJVT1QwOFc3N2k1eWZHT3JsYjNFU2RELTlNYXlfc0VJRDVsSVB0MHB6bTlRbFJDdlRfNVVHMU5POGVXdFh3cGNqdVRCNG9JWFF1d2Fobi1GU3hBYmc4dWdNaWY5Z19fdWdxcVVBQzdxUUQ4Tng2Skl0ODJtRFVWOW9lU1BIVDFnUE44TmVmajNWeEE?oc=5)
 
-2026-06-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Les Numériques](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzhINFJ5QTRRLUlLWjRMOW5OdVd3TDFLaW5sNFc3aHByVUx4TTd0endQWnQta2FFRTY4Ti1ISVNYakk1ZDhUZzZhcUlPanZxNFAzdnkySFlnTXgzZkxHQmZ6M3psVHBWS2VOdjAxTmhocW9RcXdHYWZmaUtsRjN3WEJwOXd6Y0F0U2NxeWxHbExxTWVSSWhXclBMNVpMVGFqZVNHWUQ0WUozTkZYYU1neE1ZbzZ0ckU1U1c4ZUplNlhGUGxCSDh0ZkV0eGk1azJES2R4bkM4N0ozZ0VWOU1zZEE3c2JYY3pZMUVWREhvV1U?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcG5JYVFLaWgyb0RtcGtJb1d0czlWbWtYeXNHQkRFd1FWc2hqWk9iZXA5eHpQUFpveTQ2UTZ5a1FaRF8taE55YV8zTk9FeFF4M1VnSVpHSnJkYmVnUF9YOThpUHY4ZzN5LUJVT1QwOFc3N2k1eWZHT3JsYjNFU2RELTlNYXlfc0VJRDVsSVB0MHB6bTlRbFJDdlRfNVVHMU5POGVXdFh3cGNqdVRCNG9JWFF1d2Fobi1GU3hBYmc4dWdNaWY5Z19fdWdxcVVBQzdxUUQ4Tng2Skl0ODJtRFVWOW9lU1BIVDFnUE44TmVmajNWeEE?oc=5)
 
 ---
 
-### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
+### [Schwierige Verläufe bei rheumatoider Arthritis erfordern mehr als Entzündungskontrolle - Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjRVdlRCaENoUmgtcVM3dFJtNHBIcVc3X2VIQzZfZmJpQnNIblNtRlp0YjJQS2EtVWFNMFIyZ0tQeURhcUZPZjlsM2F6MERDeWdMTjJDTDA2dFN6VEh6Yl8xWGQya3UzZHRmY2lDMlZxcXUzMWRDblczQVpXT0pxSmVHX3h3OXJ6SnRDQzlaR29vVVp5c0E?oc=5)
 
-2026-06-13 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+2026-06-15 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjRVdlRCaENoUmgtcVM3dFJtNHBIcVc3X2VIQzZfZmJpQnNIblNtRlp0YjJQS2EtVWFNMFIyZ0tQeURhcUZPZjlsM2F6MERDeWdMTjJDTDA2dFN6VEh6Yl8xWGQya3UzZHRmY2lDMlZxcXUzMWRDblczQVpXT0pxSmVHX3h3OXJ6SnRDQzlaR29vVVp5c0E?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Nicht alle DMARDs verbessern die Lebensqualität gleichermaßen - Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+
+2026-06-15 <span class="news-indication-tag">arthritis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
 
 ---
 

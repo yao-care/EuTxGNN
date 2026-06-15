@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Niedriger Blutdruck als Alzheimer-Risiko: Neue Studienlage im Detail - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
+### [La hipertensión en personas frágiles se asocia a menor riesgo de demencia en análisis poblacional - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
 
-2026-06-14
+2026-06-15
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
+
+---
+
+### [Niedriger Blutdruck erhöht Alzheimer-Risiko: Daten, KI-Tests und Folgen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUlEWnl1TWlKc1ZZa0FCM3VaYmNlb2dyTG4zNk5YWmV0M1JLNjFyUU1LenN5MDBLUXNsYXNhVFAxYWF2dzE5MklnTDV5aVgwNEhhOFlINHFSMzc5RGdqYTY1a1l3RjZPanFXMFlVU01QMENlY2NfTUdLMl91dEJaQ0hSZFpFVkJWclowNld0Z1U3ODRUcS1EeExpVTNOQWhDUWRFSQ?oc=5)
+
+2026-06-15
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUlEWnl1TWlKc1ZZa0FCM3VaYmNlb2dyTG4zNk5YWmV0M1JLNjFyUU1LenN5MDBLUXNsYXNhVFAxYWF2dzE5MklnTDV5aVgwNEhhOFlINHFSMzc5RGdqYTY1a1l3RjZPanFXMFlVU01QMENlY2NfTUdLMl91dEJaQ0hSZFpFVkJWclowNld0Z1U3ODRUcS1EeExpVTNOQWhDUWRFSQ?oc=5)
 
 ---
 

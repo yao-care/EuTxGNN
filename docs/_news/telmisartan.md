@@ -54,35 +54,35 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（5 則）
 
+### [La hipertensión en personas frágiles se asocia a menor riesgo de demencia en análisis poblacional - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
+
+2026-06-15 <span class="news-indication-tag">hipertensión</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
+
+---
+
+### [Schlaganfall nach TAVI: Rückläufige Inzidenz, anhaltend hohe Mortalität - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2EwU2ExS0o4a0NJZ1F1VFJ4UjlNZ1pTSTE1MFBXWjdNVTFldHRlU0pBc19SQ3hnb3NuWFVUQWticndzcU0tbmRfTENmcDJDMTFCdGtzU3VjZ2xpSTBuVC12bEpIVTVROF8wTGdHd2tMWFl0S2UxNFNHV01CWjV0OFhCbm4wdmcxN3hoYlhvNzkxVU42ME1CQUs4anFwM0htQ25CenZUZjI1R2RJcS1DRw?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2EwU2ExS0o4a0NJZ1F1VFJ4UjlNZ1pTSTE1MFBXWjdNVTFldHRlU0pBc19SQ3hnb3NuWFVUQWticndzcU0tbmRfTENmcDJDMTFCdGtzU3VjZ2xpSTBuVC12bEpIVTVROF8wTGdHd2tMWFl0S2UxNFNHV01CWjV0OFhCbm4wdmcxN3hoYlhvNzkxVU42ME1CQUs4anFwM0htQ25CenZUZjI1R2RJcS1DRw?oc=5)
+
+---
+
+### [Niedriger Blutdruck erhöht Alzheimer-Risiko: Daten, KI-Tests und Folgen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUlEWnl1TWlKc1ZZa0FCM3VaYmNlb2dyTG4zNk5YWmV0M1JLNjFyUU1LenN5MDBLUXNsYXNhVFAxYWF2dzE5MklnTDV5aVgwNEhhOFlINHFSMzc5RGdqYTY1a1l3RjZPanFXMFlVU01QMENlY2NfTUdLMl91dEJaQ0hSZFpFVkJWclowNld0Z1U3ODRUcS1EeExpVTNOQWhDUWRFSQ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUlEWnl1TWlKc1ZZa0FCM3VaYmNlb2dyTG4zNk5YWmV0M1JLNjFyUU1LenN5MDBLUXNsYXNhVFAxYWF2dzE5MklnTDV5aVgwNEhhOFlINHFSMzc5RGdqYTY1a1l3RjZPanFXMFlVU01QMENlY2NfTUdLMl91dEJaQ0hSZFpFVkJWclowNld0Z1U3ODRUcS1EeExpVTNOQWhDUWRFSQ?oc=5)
+
+---
+
 ### [Casi el 99% de los eventos cardiovasculares está vinculada a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
 
 2026-06-14 <span class="news-indication-tag">ictus</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
-
----
-
-### [Niedriger Blutdruck als Alzheimer-Risiko: Neue Studienlage im Detail - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
-
-2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
-
----
-
-### [Unbemerkt und tückisch: Diese fünf Faktoren erhöhen Ihr Schlaganfallrisiko massiv - Gießener Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnRVVkJKMHM5b3RMbzZvcGUydGhRR1p4Nm5maGpjN2w4RG1FOGZiUWVmeXB4RU42ZHBDVkY0aGRSNFB3WHhRRW9wMVpyTzk0dHZNbXVjSGp3aEVmeHQ1N3EwUFNDMVBzeGFtQ2ppNXdkVGt4Q1A0d19wTm4wVkhGOWhoSUotalNINzJnWFJJc1huanVWa3U1bGtVVzNMbXVaQ1FUWF9YRjMwRGZvcGFISXVaLVBwTDRGUEs2M1N2aTcxek1DV2t4aWRkZ0NFdw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Gießener Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnRVVkJKMHM5b3RMbzZvcGUydGhRR1p4Nm5maGpjN2w4RG1FOGZiUWVmeXB4RU42ZHBDVkY0aGRSNFB3WHhRRW9wMVpyTzk0dHZNbXVjSGp3aEVmeHQ1N3EwUFNDMVBzeGFtQ2ppNXdkVGt4Q1A0d19wTm4wVkhGOWhoSUotalNINzJnWFJJc1huanVWa3U1bGtVVzNMbXVaQ1FUWF9YRjMwRGZvcGFISXVaLVBwTDRGUEs2M1N2aTcxek1DV2t4aWRkZ0NFdw?oc=5)
-
----
-
-### [Neue Forschung zeigt: 99 Prozent der Herzinfarkte und Schlaganfälle gehen auf vier zentrale Risiken zurück - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDNCRUlXYUVtX2xjdDVKVng3bDJHbXd0Q2dORDktQmo4TWx0YmpQeWE1NnBBeEFqTXZ4WVlJd2NWMThhVjZJOWtOSHhyS3ZPVGZ1cG5JR1Q4QW1wdEowWW0xLUVaVy1qNVhKTG42bXNGS2JlVlN6RGVEU1ZuOWpOME5GWFNFUXJlYTlPWDBnTlFWLXBHanBOY1YxOFhQU1BZWjZGT0FCdFNsNVplSjBjZ2JaNWRZXzhiaGhZdXhjcHAwTHBfaG9wNUVNaDZIcHU1X3o3UldmLWRtUVdxUnQ4NnB0OA?oc=5)
-
-2026-06-14 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDNCRUlXYUVtX2xjdDVKVng3bDJHbXd0Q2dORDktQmo4TWx0YmpQeWE1NnBBeEFqTXZ4WVlJd2NWMThhVjZJOWtOSHhyS3ZPVGZ1cG5JR1Q4QW1wdEowWW0xLUVaVy1qNVhKTG42bXNGS2JlVlN6RGVEU1ZuOWpOME5GWFNFUXJlYTlPWDBnTlFWLXBHanBOY1YxOFhQU1BZWjZGT0FCdFNsNVplSjBjZ2JaNWRZXzhiaGhZdXhjcHAwTHBfaG9wNUVNaDZIcHU1X3o3UldmLWRtUVdxUnQ4NnB0OA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Depression: Charité startet 2,3-Millionen-Euro-Studie mit DHEA - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFgxU3ltSENOOTV6WTcxRTdCbWlpc3ktUGliOUZ4SDhIeHVOOXhpTWdNb1h1bTVxeF83blFlSmhZbVNIaXI3VXlqTld0VHV3d3BQUzc3SkNNTUV3V3Ixdmk3WlRkbm1mNEZtZlUwZEk5RG0wcXltWHRmM2J0aWFRRXh5V0RJZTN6XzZEaUtZVnotMDRRSW81eFA1d3c4VGFzV3ZleWlxQ0RLckdGUDNV?oc=5)
+
+2026-06-15 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFgxU3ltSENOOTV6WTcxRTdCbWlpc3ktUGliOUZ4SDhIeHVOOXhpTWdNb1h1bTVxeF83blFlSmhZbVNIaXI3VXlqTld0VHV3d3BQUzc3SkNNTUV3V3Ixdmk3WlRkbm1mNEZtZlUwZEk5RG0wcXltWHRmM2J0aWFRRXh5V0RJZTN6XzZEaUtZVnotMDRRSW81eFA1d3c4VGFzV3ZleWlxQ0RLckdGUDNV?oc=5)
+
+---
 
 ### [La déroute des pères : la dénatalité n’est pas qu’un problème de femmes - Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
 

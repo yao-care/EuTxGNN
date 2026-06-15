@@ -54,11 +54,27 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（5 則）
 
-### [Las personas que usan Ozempic y otros fármacos para adelgazar reducen su actividad física](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5)
+### [Le remboursement des traitements anti-obésité Wegovy et Mounjaro, une équation complexe pour l’Assurance-maladie - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcG5JYVFLaWgyb0RtcGtJb1d0czlWbWtYeXNHQkRFd1FWc2hqWk9iZXA5eHpQUFpveTQ2UTZ5a1FaRF8taE55YV8zTk9FeFF4M1VnSVpHSnJkYmVnUF9YOThpUHY4ZzN5LUJVT1QwOFc3N2k1eWZHT3JsYjNFU2RELTlNYXlfc0VJRDVsSVB0MHB6bTlRbFJDdlRfNVVHMU5POGVXdFh3cGNqdVRCNG9JWFF1d2Fobi1GU3hBYmc4dWdNaWY5Z19fdWdxcVVBQzdxUUQ4Tng2Skl0ODJtRFVWOW9lU1BIVDFnUE44TmVmajNWeEE?oc=5)
 
-2026-06-15 <span class="news-drug-tag">Semaglutide</span>
+2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcG5JYVFLaWgyb0RtcGtJb1d0czlWbWtYeXNHQkRFd1FWc2hqWk9iZXA5eHpQUFpveTQ2UTZ5a1FaRF8taE55YV8zTk9FeFF4M1VnSVpHSnJkYmVnUF9YOThpUHY4ZzN5LUJVT1QwOFc3N2k1eWZHT3JsYjNFU2RELTlNYXlfc0VJRDVsSVB0MHB6bTlRbFJDdlRfNVVHMU5POGVXdFh3cGNqdVRCNG9JWFF1d2Fobi1GU3hBYmc4dWdNaWY5Z19fdWdxcVVBQzdxUUQ4Tng2Skl0ODJtRFVWOW9lU1BIVDFnUE44TmVmajNWeEE?oc=5)
+
+---
+
+### [La semaglutida protege los huesos: reduce un 15% las fracturas en pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk43MlUwY0R5Zm5GRTFSODlNZ29yZmpLZ2lOQVpqMURrSHNIRjNwR0JQazRCM3ZXaUE1ckYweVdfNFJVaC1OdTBTeXlxYm43UW1BWXFMOVI0dVN5Y3g3Tk9wUGRHQTVtbms0OTZxRzB1TElkR3g0c2x3UkUzUlUzVHRMWEdpZzZxSHVnaW5YRVJjb0pDTFpsdDZvNkxkdXMyLVRpTndVY3hieXhqN3B2NWJkVmc0RFFrZEM2MkJhWUcxUFB3cE02STJsSkd2cW05M0R3NExPczZNemh5?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk43MlUwY0R5Zm5GRTFSODlNZ29yZmpLZ2lOQVpqMURrSHNIRjNwR0JQazRCM3ZXaUE1ckYweVdfNFJVaC1OdTBTeXlxYm43UW1BWXFMOVI0dVN5Y3g3Tk9wUGRHQTVtbms0OTZxRzB1TElkR3g0c2x3UkUzUlUzVHRMWEdpZzZxSHVnaW5YRVJjb0pDTFpsdDZvNkxkdXMyLVRpTndVY3hieXhqN3B2NWJkVmc0RFFrZEM2MkJhWUcxUFB3cE02STJsSkd2cW05M0R3NExPczZNemh5?oc=5)
+
+---
+
+### [Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
 
 ---
 
@@ -70,27 +86,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [La France rembourse les anti-obésité Wegovy et Mounjao à partir du 15 juin, mais sous conditions strictes - Les Numériques](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzhINFJ5QTRRLUlLWjRMOW5OdVd3TDFLaW5sNFc3aHByVUx4TTd0endQWnQta2FFRTY4Ti1ISVNYakk1ZDhUZzZhcUlPanZxNFAzdnkySFlnTXgzZkxHQmZ6M3psVHBWS2VOdjAxTmhocW9RcXdHYWZmaUtsRjN3WEJwOXd6Y0F0U2NxeWxHbExxTWVSSWhXclBMNVpMVGFqZVNHWUQ0WUozTkZYYU1neE1ZbzZ0ckU1U1c4ZUplNlhGUGxCSDh0ZkV0eGk1azJES2R4bkM4N0ozZ0VWOU1zZEE3c2JYY3pZMUVWREhvV1U?oc=5)
-
-2026-06-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Les Numériques](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzhINFJ5QTRRLUlLWjRMOW5OdVd3TDFLaW5sNFc3aHByVUx4TTd0endQWnQta2FFRTY4Ti1ISVNYakk1ZDhUZzZhcUlPanZxNFAzdnkySFlnTXgzZkxHQmZ6M3psVHBWS2VOdjAxTmhocW9RcXdHYWZmaUtsRjN3WEJwOXd6Y0F0U2NxeWxHbExxTWVSSWhXclBMNVpMVGFqZVNHWUQ0WUozTkZYYU1neE1ZbzZ0ckU1U1c4ZUplNlhGUGxCSDh0ZkV0eGk1azJES2R4bkM4N0ozZ0VWOU1zZEE3c2JYY3pZMUVWREhvV1U?oc=5)
-
----
-
 ### [Relación entre diabetes y salud bucodental - Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
 
 2026-06-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
-
----
-
-### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
-2026-06-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Ambrisentan 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ambrisentan 的相關健康新聞報導。原適應症：Volibris is indicated for treatment of pulmonary a...。預測適應症 20 個。"
+description: "Ambrisentan 的相關健康新聞報導。原適應症：Volibris is indicated for treatment of pulmonary a...。預測適應症 10 個。"
 permalink: /news/ambrisentan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ambrisentan/
 ---
 
 <p class="key-answer" data-question="Ambrisentan 有什麼相關新聞？">
-<strong>Ambrisentan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ambrisentan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,39 +26,37 @@ permalink: /news/ambrisentan/
 <ul>
 <li><strong>原適應症</strong>：Volibris is indicated for treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Functional Class (FC) II to III, including use in combination treatment (see section 5.1)....</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>pulmonary arteriovenous malformation (disease)（99.4%）</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease（99.4%）</li>
-<li>pulmonary arterial hypertension（99.4%）</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis（99.3%）</li>
-<li>pulmonary arterial hypertension associated with HIV infection（99.3%）</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia（99.3%）</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease（99.3%）</li>
-<li>malformation syndrome with odontal and/or periodontal component（99.2%）</li>
-<li>hypotrichosis simplex of the scalp（99.2%）</li>
-<li>hypertrichosis (disease)（99.1%）</li>
-<li>syndrome with a Dandy-Walker malformation as major feature（99.1%）</li>
-<li>isolated genetic hair shaft abnormality（99.0%）</li>
-<li>Ambras type hypertrichosis universalis congenita（99.0%）</li>
-<li>congenital hypotrichosis milia（98.8%）</li>
-<li>diffuse alopecia areata（98.6%）</li>
-<li>alopecia（97.0%）</li>
-<li>telangiectasia, hereditary hemorrhagic,（95.5%）</li>
-<li>pulmonary hypertension, primary（92.6%）</li>
-<li>genetic alopecia（92.5%）</li>
-<li>obsolete patella aplasia, coxa vara, and tarsal synostosis（92.4%）</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>Pulmonary Arteriovenous Malformation | 99.41% | 0 | 1 | L4 | Research Question（99.0%）</li>
+<li>PAH / Congenital Heart Disease | 99.37% | 9 | 17 | L1 | Proceed with Guardrails（99.0%）</li>
+<li>PAH / Chronic Hemolytic Anemia | 99.30% | 0 | 0 | L5 | Hold（99.0%）</li>
+<li>PAH / HIV Infection | 99.30% | 1 | 4 | L1 | Proceed with Guardrails（99.0%）</li>
+<li>PAH / Connective Tissue Disease | 99.30% | 3 | 19 | L2 | Proceed with Guardrails（99.0%）</li>
+<li>PAH / Schistosomiasis | 99.30% | 0 | 0 | L5 | Hold（99.0%）</li>
+<li>Malformation with Odontal/Periodontal Component | 99.19% | 0 | 20 ⚠️ | L5 | Hold（99.0%）</li>
+<li>Hypotrichosis Simplex of the Scalp | 99.15% | 0 | 0 | L5 | Hold（99.0%）</li>
+<li>Hypertrichosis | 99.14% | 0 | 0 | L5 | Hold（99.0%）</li>
+<li>Dandy-Walker Malformation Syndrome | 99.12% | 0 | 0 | L5 | Hold（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ambrisentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Niedriger Blutdruck als Alzheimer-Risiko: Neue Studienlage im Detail - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
+### [La hipertensión en personas frágiles se asocia a menor riesgo de demencia en análisis poblacional - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
 
-2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-15 <span class="news-indication-tag">hipertensión</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
+
+---
+
+### [Niedriger Blutdruck erhöht Alzheimer-Risiko: Daten, KI-Tests und Folgen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUlEWnl1TWlKc1ZZa0FCM3VaYmNlb2dyTG4zNk5YWmV0M1JLNjFyUU1LenN5MDBLUXNsYXNhVFAxYWF2dzE5MklnTDV5aVgwNEhhOFlINHFSMzc5RGdqYTY1a1l3RjZPanFXMFlVU01QMENlY2NfTUdLMl91dEJaQ0hSZFpFVkJWclowNld0Z1U3ODRUcS1EeExpVTNOQWhDUWRFSQ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUlEWnl1TWlKc1ZZa0FCM3VaYmNlb2dyTG4zNk5YWmV0M1JLNjFyUU1LenN5MDBLUXNsYXNhVFAxYWF2dzE5MklnTDV5aVgwNEhhOFlINHFSMzc5RGdqYTY1a1l3RjZPanFXMFlVU01QMENlY2NfTUdLMl91dEJaQ0hSZFpFVkJWclowNld0Z1U3ODRUcS1EeExpVTNOQWhDUWRFSQ?oc=5)
 
 ---
 

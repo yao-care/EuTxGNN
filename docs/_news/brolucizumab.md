@@ -3,7 +3,7 @@ layout: default
 title: "Brolucizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brolucizumab 的相關健康新聞報導。原適應症：Beovu is indicated in adults for the treatment of ...。預測適應症 20 個。"
+description: "Brolucizumab 的相關健康新聞報導。原適應症：Beovu is indicated in adults for the treatment of ...。預測適應症 10 個。"
 permalink: /news/brolucizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brolucizumab/
 ---
 
 <p class="key-answer" data-question="Brolucizumab 有什麼相關新聞？">
-<strong>Brolucizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brolucizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,17 @@ permalink: /news/brolucizumab/
 <ul>
 <li><strong>原適應症</strong>：Beovu is indicated in adults for the treatment of neovascular (wet) age-related macular degeneration (AMD).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies（99.7%）</li>
-<li>esophageal varices without bleeding（99.1%）</li>
-<li>esophageal varices with bleeding（99.1%）</li>
-<li>exocrine pancreatic insufficiency（99.1%）</li>
-<li>MRCS syndrome（98.5%）</li>
-<li>pigmented paravenous retinochoroidal atrophy（98.3%）</li>
-<li>familial flecked retinopathy（97.9%）</li>
-<li>ectopia lentis-chorioretinal dystrophy-myopia syndrome（97.8%）</li>
-<li>retinal dystrophy in systemic or cerebroretinal lipidoses（97.7%）</li>
-<li>senile reticular retinal degeneration（97.7%）</li>
-<li>Blessig's cysts（97.7%）</li>
-<li>pseudoretinitis pigmentosa（97.7%）</li>
-<li>cone dystrophy（97.7%）</li>
-<li>genetic macular dystrophy（97.6%）</li>
-<li>X-linked retinal dysplasia（97.5%）</li>
-<li>progressive bifocal chorioretinal atrophy（97.5%）</li>
-<li>varicose disease（97.4%）</li>
-<li>retinal drusen（97.4%）</li>
-<li>macular degeneration（97.3%）</li>
-<li>retinoschisis（97.3%）</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>Mitochondrial oxidative phosphorylation disorder (nuclear DNA) | 99.67% | Extremely low — no known VEGF role in mitochondrial respiratory chain | ✗（99.0%）</li>
+<li>Esophageal varices without bleeding | 99.12% | Low — systemic anti-VEGF rationale theoretically exists, but intravitreal route cannot reach portal vasculature | ✗（99.0%）</li>
+<li>Esophageal varices with bleeding | 99.12% | Low — same as above; acute hemorrhage context makes this additionally unsafe | ✗（99.0%）</li>
+<li>Exocrine pancreatic insufficiency | 99.07% | None — VEGF-A has no established role in exocrine enzyme secretion | ✗（99.0%）</li>
+<li>MRCS syndrome | 98.54% | Very low — retinal component present, but atrophic rather than neovascular; no VEGF driver | Partial（99.0%）</li>
+<li>Pigmented paravenous retinochoroidal atrophy (PPRA) | 98.33% | Low-moderate — same ocular tissue and delivery route; VEGF overexpression not established in PPRA | ✓（99.0%）</li>
+<li>Familial flecked retinopathy | 97.90% | Low — genetic/degenerative photoreceptor disease (e.g., ABCA4 mutations), not neovascular | ✓（99.0%）</li>
+<li>Ectopia lentis-chorioretinal dystrophy-myopia syndrome | 97.82% | Moderate if choroidal neovascularization (CNV) is present — myopic CNV is an established anti-VEGF target | ✓（99.0%）</li>
+<li>Retinal dystrophy in systemic or cerebroretinal lipidoses | 97.73% | Very low — lysosomal storage disorder; retinal degeneration is secondary and VEGF-independent | ✓（99.0%）</li>
+<li>Senile reticular retinal degeneration | 97.71% | Moderate — AMD-related phenotype (reticular pseudodrusen); closest to the approved indication; however, if purely dry-form, anti-VEGF benefit is unproven | ✓（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brolucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

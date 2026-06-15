@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li>asthma（86.3%）</li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -54,27 +54,27 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（3 則）
 
+### [La semaglutida protege los huesos: reduce un 15% las fracturas en pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk43MlUwY0R5Zm5GRTFSODlNZ29yZmpLZ2lOQVpqMURrSHNIRjNwR0JQazRCM3ZXaUE1ckYweVdfNFJVaC1OdTBTeXlxYm43UW1BWXFMOVI0dVN5Y3g3Tk9wUGRHQTVtbms0OTZxRzB1TElkR3g0c2x3UkUzUlUzVHRMWEdpZzZxSHVnaW5YRVJjb0pDTFpsdDZvNkxkdXMyLVRpTndVY3hieXhqN3B2NWJkVmc0RFFrZEM2MkJhWUcxUFB3cE02STJsSkd2cW05M0R3NExPczZNemh5?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVk43MlUwY0R5Zm5GRTFSODlNZ29yZmpLZ2lOQVpqMURrSHNIRjNwR0JQazRCM3ZXaUE1ckYweVdfNFJVaC1OdTBTeXlxYm43UW1BWXFMOVI0dVN5Y3g3Tk9wUGRHQTVtbms0OTZxRzB1TElkR3g0c2x3UkUzUlUzVHRMWEdpZzZxSHVnaW5YRVJjb0pDTFpsdDZvNkxkdXMyLVRpTndVY3hieXhqN3B2NWJkVmc0RFFrZEM2MkJhWUcxUFB3cE02STJsSkd2cW05M0R3NExPczZNemh5?oc=5)
+
+---
+
+### [Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+
+---
+
 ### [Relación entre diabetes y salud bucodental - Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
 
 2026-06-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
-
----
-
-### [Diabetes kann Zähne kosten: Studie zeigt unterschätztes Risiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
-2026-06-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
----
-
-### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
-
-2026-06-13 <span class="news-indication-tag">asma</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
 ---
 
