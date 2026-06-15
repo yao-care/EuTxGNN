@@ -14,7 +14,7 @@ permalink: /news/erlotinib/
 ---
 
 <p class="key-answer" data-question="Erlotinib 有什麼相關新聞？">
-<strong>Erlotinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erlotinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/erlotinib/
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
 
 ### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
@@ -86,6 +86,14 @@ permalink: /news/erlotinib/
 
 ---
 
+### [Hacia un tratamiento más preciso del cáncer de próstata - La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
+
+2026-06-14 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
+
+---
+
 ### [L’alcol, pure poco, fa male: parola di ricerca scientifica - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
 
 2026-06-13 <span class="news-indication-tag">tumor</span>
@@ -94,11 +102,27 @@ permalink: /news/erlotinib/
 
 ---
 
+### [Dogs and humans are more alike than we thought, study finds](https://news.google.com/rss/articles/CBMibEFVX3lxTE5MSWFvMDFHSHJ4d1lJU1hCMFdVeGw0SzZ6R3RJZUdGVzRVM0lSVTQtZjc3MkIxckFSUE95a3dGY2prZ2RJMzBuX2dJUHRBcGZQanQ5c2Y1UXl2QUFYSG1PZVZZV09zTUZlcUVSXw?oc=5)
+
+2026-06-13 <span class="news-indication-tag">dementia</span>
+
+來源：[Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTE5MSWFvMDFHSHJ4d1lJU1hCMFdVeGw0SzZ6R3RJZUdGVzRVM0lSVTQtZjc3MkIxckFSUE95a3dGY2prZ2RJMzBuX2dJUHRBcGZQanQ5c2Y1UXl2QUFYSG1PZVZZV09zTUZlcUVSXw?oc=5)
+
+---
+
 ### [El Alzheimer podría comenzar mucho antes de lo que imaginamos - Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
 
-2026-06-13 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">MS</span>
+2026-06-13 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
 來源：[Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
+
+---
+
+### [Specialists Are Practically Begging People To Eat These 3 Foods That Actually Lower Dementia Risk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
+
+2026-06-13 <span class="news-indication-tag">dementia</span>
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
 
 ---
 
@@ -110,17 +134,9 @@ permalink: /news/erlotinib/
 
 ---
 
-### [Mehr Sonnentage: Wie UV-Strahlung unser Leben verändert - Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
-2026-06-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
----
-
 ### [Five myths about prostate cancer, according to an oncologist - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
-2026-06-13 <span class="news-indication-tag">cancer</span>
+2026-06-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
@@ -131,14 +147,6 @@ permalink: /news/erlotinib/
 2026-06-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
-
----
-
-### [Dementia care scandal: 'No one likes to ask what happens when the money runs out?'](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeElKMUVwVjhFSmcwV0o1ejBvQ1c2Z3FXaV9CWGN0VzFxcWJNYnhBX0tacFFiOWhqZHAtal9GY1JOREtFbTJaWXIwM09ic2twRnRfcDJrOXY5MUFwSXBPbFFwOEk5T05DYkZGLWJobzRUclh5LTg5R3hCOGttRk94eW9oakdPNkMydHNHOW9mX1NrNTBnV2h1YjM0dlNoUEnSAaQBQVVfeXFMT2Q4Qm1XWkcySldfY0xvMlEtMllRLThhQ202ME11RmVXNVlPRHp6eWM1R2IxZVA0MUFpdnhSb3pZSUs1QS1VMmVTelltSU1meXQzVTRGbTdBWHloa0I3aXZkenZDMkkxc1VHQXZDRjN2QWdzTnV5aFRZTzBWRlMyS1NsVFgzQ2JoUk1PeVkxaDJYYlA0Q3BaRkRaQVJxc2hyanJNSjE?oc=5)
-
-2026-06-12 <span class="news-indication-tag">dementia</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeElKMUVwVjhFSmcwV0o1ejBvQ1c2Z3FXaV9CWGN0VzFxcWJNYnhBX0tacFFiOWhqZHAtal9GY1JOREtFbTJaWXIwM09ic2twRnRfcDJrOXY5MUFwSXBPbFFwOEk5T05DYkZGLWJobzRUclh5LTg5R3hCOGttRk94eW9oakdPNkMydHNHOW9mX1NrNTBnV2h1YjM0dlNoUEnSAaQBQVVfeXFMT2Q4Qm1XWkcySldfY0xvMlEtMllRLThhQ202ME11RmVXNVlPRHp6eWM1R2IxZVA0MUFpdnhSb3pZSUs1QS1VMmVTelltSU1meXQzVTRGbTdBWHloa0I3aXZkenZDMkkxc1VHQXZDRjN2QWdzTnV5aFRZTzBWRlMyS1NsVFgzQ2JoUk1PeVkxaDJYYlA0Q3BaRkRaQVJxc2hyanJNSjE?oc=5)
 
 ---
 

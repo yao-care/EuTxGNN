@@ -14,7 +14,7 @@ permalink: /news/trastuzumab-deruxtecan/
 ---
 
 <p class="key-answer" data-question="Trastuzumab Deruxtecan 有什麼相關新聞？">
-<strong>Trastuzumab Deruxtecan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Trastuzumab Deruxtecan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/trastuzumab-deruxtecan/
 <p><a href="{{ '/drugs/trastuzumab-deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
 
 ### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
@@ -78,14 +78,6 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ---
 
-### [Un estudio desmonta el falso mito de los gatos y el asma infantil - Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
-
-2026-06-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
-
----
-
 ### [Désinformation sur les réseaux sociaux : des utilisateurs affirment que des vermifuges sont capables de guérir des cancers avancés !](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
 
 2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -102,27 +94,19 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ---
 
+### [Hacia un tratamiento más preciso del cáncer de próstata - La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
+
+2026-06-14 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
+
+---
+
 ### [L’alcol, pure poco, fa male: parola di ricerca scientifica - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
 
 2026-06-13 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
-
----
-
-### [Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5)
-
-2026-06-13 <span class="news-indication-tag">asma</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5)
-
----
-
-### [Mehr Sonnentage: Wie UV-Strahlung unser Leben verändert - Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
-2026-06-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
 
 ---
 
@@ -136,7 +120,7 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ### [Five myths about prostate cancer, according to an oncologist - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
-2026-06-13 <span class="news-indication-tag">cancer</span>
+2026-06-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
@@ -152,7 +136,7 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
-2026-06-13 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+2026-06-13 <span class="news-indication-tag">asma</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 

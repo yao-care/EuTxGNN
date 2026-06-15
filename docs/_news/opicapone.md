@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Dogs and humans are more alike than we thought, study finds](https://news.google.com/rss/articles/CBMibEFVX3lxTE5MSWFvMDFHSHJ4d1lJU1hCMFdVeGw0SzZ6R3RJZUdGVzRVM0lSVTQtZjc3MkIxckFSUE95a3dGY2prZ2RJMzBuX2dJUHRBcGZQanQ5c2Y1UXl2QUFYSG1PZVZZV09zTUZlcUVSXw?oc=5)
+
+2026-06-13 <span class="news-indication-tag">dementia</span>
+
+來源：[Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTE5MSWFvMDFHSHJ4d1lJU1hCMFdVeGw0SzZ6R3RJZUdGVzRVM0lSVTQtZjc3MkIxckFSUE95a3dGY2prZ2RJMzBuX2dJUHRBcGZQanQ5c2Y1UXl2QUFYSG1PZVZZV09zTUZlcUVSXw?oc=5)
+
+---
 
 ### [El Alzheimer podría comenzar mucho antes de lo que imaginamos - Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
 
-2026-06-13 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">MS</span>
+2026-06-13 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
 來源：[Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
+
+---
+
+### [Specialists Are Practically Begging People To Eat These 3 Foods That Actually Lower Dementia Risk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
+
+2026-06-13 <span class="news-indication-tag">dementia</span>
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/opicapone/
 2026-06-13 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc1RnljcHNQZlZSUHlWelBucnh6aUtXSy1QeVdZRGVmTklIeXh5SVNuVEZLN1RxQTEwUTVuUVV1aUdxRHBra3VOOTFzZy1BcFBrZVl1U0M2WUJ2d3E3TThTaGxtamN4X2xOY3U2bHVic241MENqUjhIVDRhMkRaVTRFbU85LU52ZUZTZNIBkgFBVV95cUxPbXZqcEJNSnlJNnZnTEVCU0U2MmdySmZsb3FKQTAtdDA4YWxxcmtDZGhWY3A4M3NkcW9WYUIzNkx5elJveGlYbUE1SXNCWFNkampyRnkwSWlIaXU2QzNSMHZZa210NTFUNXRiZmJRMzZ4cnhnOEp2T1RnQXpaQXRzdTBEZkNDd3ZhRFcyRUlFOENVdw?oc=5)
-
----
-
-### [Dementia care scandal: 'No one likes to ask what happens when the money runs out?'](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeElKMUVwVjhFSmcwV0o1ejBvQ1c2Z3FXaV9CWGN0VzFxcWJNYnhBX0tacFFiOWhqZHAtal9GY1JOREtFbTJaWXIwM09ic2twRnRfcDJrOXY5MUFwSXBPbFFwOEk5T05DYkZGLWJobzRUclh5LTg5R3hCOGttRk94eW9oakdPNkMydHNHOW9mX1NrNTBnV2h1YjM0dlNoUEnSAaQBQVVfeXFMT2Q4Qm1XWkcySldfY0xvMlEtMllRLThhQ202ME11RmVXNVlPRHp6eWM1R2IxZVA0MUFpdnhSb3pZSUs1QS1VMmVTelltSU1meXQzVTRGbTdBWHloa0I3aXZkenZDMkkxc1VHQXZDRjN2QWdzTnV5aFRZTzBWRlMyS1NsVFgzQ2JoUk1PeVkxaDJYYlA0Q3BaRkRaQVJxc2hyanJNSjE?oc=5)
-
-2026-06-12 <span class="news-indication-tag">dementia</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeElKMUVwVjhFSmcwV0o1ejBvQ1c2Z3FXaV9CWGN0VzFxcWJNYnhBX0tacFFiOWhqZHAtal9GY1JOREtFbTJaWXIwM09ic2twRnRfcDJrOXY5MUFwSXBPbFFwOEk5T05DYkZGLWJobzRUclh5LTg5R3hCOGttRk94eW9oakdPNkMydHNHOW9mX1NrNTBnV2h1YjM0dlNoUEnSAaQBQVVfeXFMT2Q4Qm1XWkcySldfY0xvMlEtMllRLThhQ202ME11RmVXNVlPRHp6eWM1R2IxZVA0MUFpdnhSb3pZSUs1QS1VMmVTelltSU1meXQzVTRGbTdBWHloa0I3aXZkenZDMkkxc1VHQXZDRjN2QWdzTnV5aFRZTzBWRlMyS1NsVFgzQ2JoUk1PeVkxaDJYYlA0Q3BaRkRaQVJxc2hyanJNSjE?oc=5)
 
 ---
 

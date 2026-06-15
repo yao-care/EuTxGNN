@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Un estudio desmonta el falso mito de los gatos y el asma infantil - Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
-
-2026-06-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
-
----
-
-### [Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5)
-
-2026-06-13 <span class="news-indication-tag">asma</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [DMARD könnten Knochen bei rheumatoider Arthritis schützen - Medical Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEtFWmVMSEVzQzhOd0ctM25nN2o0aW9iTWg2VktwT0JtYVpnaGVjUjZMN2VVQ0pWcVVKWjhGYlAyVjA5UjJqZE42Tmh5MUdpSzQ4TkVLT25SdWZSb0tMd2ZicmM2WU5PV0hNbjlTSHF3bkM5R3Y5QkFMRXpGZDM0V2FYQklaTVhZcWNjNFRKUlpGV29WYTFQdGtiazkyXzYyRjJucTB0WW95RFdfYnNHWVR3?oc=5)
 
@@ -80,7 +64,7 @@ permalink: /news/sarilumab/
 
 ### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
-2026-06-13 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+2026-06-13 <span class="news-indication-tag">asma</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 

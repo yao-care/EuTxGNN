@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Casi el 99% de los eventos cardiovasculares está vinculada a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
 
 2026-06-14 <span class="news-indication-tag">ictus</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
+
+---
+
+### [Niedriger Blutdruck als Alzheimer-Risiko: Neue Studienlage im Detail - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
+
+2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Blutdruck-Paradox: Zu niedriger Blutdruck erhöht Alzheimer-Risiko um 200% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+### [« On était sur une première mondiale » : Guillaume Charvet, le chercheur grenoblois qui fait remarcher les paralysés - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
 
-2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-14 <span class="news-indication-tag">AVC</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
 
 ---
 

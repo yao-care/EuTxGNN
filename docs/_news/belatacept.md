@@ -14,7 +14,7 @@ permalink: /news/belatacept/
 ---
 
 <p class="key-answer" data-question="Belatacept 有什麼相關新聞？">
-<strong>Belatacept</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Belatacept</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/belatacept/
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（15 則）
+
+### [Sanidad refuerza la vigilancia y control de las enfermedades transmitidas por vectores a través de la Red de Vigilancia Entomológica - Novelda Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYWJZOFFxZjRLYS03T2czbGZxZGRacEhncUJCUFh2WWJGb0xtd0c1M0xpeTZ2cGtaUWVVMDBIUm1QeWMyQnhLUG9PODlVbGpHVnQ2cXZCWEtuZGJKQUNXTUVseTBJS0ZveTZpalBmak9lTGkyeHdUNlF4eVo3bWtJaENPN2tqdHZtekdRNlVwc19MWmJPRUVDQVhLSzYybDBJVTJQd1puUTE0TzV1T2VfWHRWX1Q2dFg3eDhzMDZCQVhpMTBTSUFlUEJuYzNsbmZtNXdSODRqa3BKczctZWhIZGhCdjNzc3h0bV9KdUZoNTN0WU1iTkNRc2Z5b1lGUXhTRzlrMDc2bk8?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[Novelda Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYWJZOFFxZjRLYS03T2czbGZxZGRacEhncUJCUFh2WWJGb0xtd0c1M0xpeTZ2cGtaUWVVMDBIUm1QeWMyQnhLUG9PODlVbGpHVnQ2cXZCWEtuZGJKQUNXTUVseTBJS0ZveTZpalBmak9lTGkyeHdUNlF4eVo3bWtJaENPN2tqdHZtekdRNlVwc19MWmJPRUVDQVhLSzYybDBJVTJQd1puUTE0TzV1T2VfWHRWX1Q2dFg3eDhzMDZCQVhpMTBTSUFlUEJuYzNsbmZtNXdSODRqa3BKczctZWhIZGhCdjNzc3h0bV9KdUZoNTN0WU1iTkNRc2Z5b1lGUXhTRzlrMDc2bk8?oc=5)
+
+---
+
+### [This Painful Condition Impacts Women Way More Than Men, And You Need To Know About It](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
+
+---
 
 ### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
 2026-06-14 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
+
+---
+
+### [Demenz-Risiko: Hochverarbeitete Lebensmittel erhöhen Gefahr um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU05HRVJzYlRKazBDb1NUbHJ5NVhYMGxneDdwaU40ZkI5Zk1fRDVBMFdMbEpiRkt1cGJFa0FSc0RRU2ZLRzVwd2haR3BIZVpnT2tNMUdLT1dpSjR2Ny05OUhQOEpVWGZWTU43S1pGRVYtQVVjdHk1N3ZDcHpVWFRFak1DVzhCMDduVlkzZjF6QjBRVWprdnZnd21DMnZ1Y1R2S2c2aXpTbFE1RmVvR3QyODJGcW1TLWpOZVpicTF4NA?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU05HRVJzYlRKazBDb1NUbHJ5NVhYMGxneDdwaU40ZkI5Zk1fRDVBMFdMbEpiRkt1cGJFa0FSc0RRU2ZLRzVwd2haR3BIZVpnT2tNMUdLT1dpSjR2Ny05OUhQOEpVWGZWTU43S1pGRVYtQVVjdHk1N3ZDcHpVWFRFak1DVzhCMDduVlkzZjF6QjBRVWprdnZnd21DMnZ1Y1R2S2c2aXpTbFE1RmVvR3QyODJGcW1TLWpOZVpicTF4NA?oc=5)
 
 ---
 
@@ -78,19 +102,19 @@ permalink: /news/belatacept/
 
 ---
 
-### [Un estudio desmonta el falso mito de los gatos y el asma infantil - Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
-
-2026-06-14 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
-
----
-
 ### [Désinformation sur les réseaux sociaux : des utilisateurs affirment que des vermifuges sont capables de guérir des cancers avancés !](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
 
 2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
+
+---
+
+### [Hacia un tratamiento más preciso del cáncer de próstata - La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
+
+2026-06-14 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
 
 ---
 
@@ -110,49 +134,17 @@ permalink: /news/belatacept/
 
 ---
 
-### [El Alzheimer podría comenzar mucho antes de lo que imaginamos - Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
-
-2026-06-13 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
-
----
-
-### [Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5)
-
-2026-06-13 <span class="news-indication-tag">asma</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5)
-
----
-
-### [Sanidad refuerza la vigilancia y control de las enfermedades transmitidas por mosquitos o garrapatas - Valencia Plaza](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2JUVjlGdUdINm55bjFxckhBUmFyZ2ppcFNZT1ZfQ3F0ZW0yYmctdXRydzFtYzZOOWRHX1FwbUpvNkJjSlhaaGlQbDVGZHVwY19Remt1YVV4SEdfQ0hRSThneFhnYmVndjQ3d0JvZ2hncER3Q2hWcFVZQWRHYnNyeUpMYm53N01ZVjJDcE1VdkYtcUo1UUgwRzJwWjNNam5YQVVyUlFscTJBVFNjNDRvVllJcktyc0oxczVGWkExTUwtMGJSdzhtblZEN3VJbklnRm9ZSjF2aUJrREVDSzlCQ1U4MnFEWVJ2YkJrSEZSVktLTnRR?oc=5)
+### [Why the penis is a barometer of men's health - and we need to wake up to its warnings](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjZhUENZUk5mcG9EZzBJQmtrYWF1YjM1UXFHU2dCMTkxZDZZa2xjQTRjdnJQQlctczBJOFJSelBSVy0wSW5aYWR5UEpvc3d6MWRzRzdvTm9nRUd2dHBxc2pyWHpkODZNblVuV2JaUkZzWmpPU2V4R2RXLXhGNThxNExlcmdtUmx4d1ljVDlyN25Mel9vZExsV3hRYXk5a3lkSkxKU1ROYWs1YnZZZnMwRHNWNFFlQXIxVjlXeFZZZGg?oc=5)
 
 2026-06-13 <span class="news-indication-tag">MS</span>
 
-來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2JUVjlGdUdINm55bjFxckhBUmFyZ2ppcFNZT1ZfQ3F0ZW0yYmctdXRydzFtYzZOOWRHX1FwbUpvNkJjSlhaaGlQbDVGZHVwY19Remt1YVV4SEdfQ0hRSThneFhnYmVndjQ3d0JvZ2hncER3Q2hWcFVZQWRHYnNyeUpMYm53N01ZVjJDcE1VdkYtcUo1UUgwRzJwWjNNam5YQVVyUlFscTJBVFNjNDRvVllJcktyc0oxczVGWkExTUwtMGJSdzhtblZEN3VJbklnRm9ZSjF2aUJrREVDSzlCQ1U4MnFEWVJ2YkJrSEZSVktLTnRR?oc=5)
-
----
-
-### [Mehr Sonnentage: Wie UV-Strahlung unser Leben verändert - Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
-2026-06-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
----
-
-### [Japón estudia el origen de las canas y descubre por casualidad que deberías alegrarte de tenerlas - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
-
-2026-06-13 <span class="news-indication-tag">MS</span>
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjZhUENZUk5mcG9EZzBJQmtrYWF1YjM1UXFHU2dCMTkxZDZZa2xjQTRjdnJQQlctczBJOFJSelBSVy0wSW5aYWR5UEpvc3d6MWRzRzdvTm9nRUd2dHBxc2pyWHpkODZNblVuV2JaUkZzWmpPU2V4R2RXLXhGNThxNExlcmdtUmx4d1ljVDlyN25Mel9vZExsV3hRYXk5a3lkSkxKU1ROYWs1YnZZZnMwRHNWNFFlQXIxVjlXeFZZZGg?oc=5)
 
 ---
 
 ### [Five myths about prostate cancer, according to an oncologist - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
-2026-06-13 <span class="news-indication-tag">cancer</span>
+2026-06-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
@@ -176,7 +168,7 @@ permalink: /news/belatacept/
 
 ### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
-2026-06-13 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+2026-06-13 <span class="news-indication-tag">asma</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 

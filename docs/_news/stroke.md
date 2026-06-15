@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Casi el 99% de los eventos cardiovasculares está vinculada a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
 
@@ -62,6 +62,14 @@ permalink: /news/stroke/
 2026-06-14
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDNCRUlXYUVtX2xjdDVKVng3bDJHbXd0Q2dORDktQmo4TWx0YmpQeWE1NnBBeEFqTXZ4WVlJd2NWMThhVjZJOWtOSHhyS3ZPVGZ1cG5JR1Q4QW1wdEowWW0xLUVaVy1qNVhKTG42bXNGS2JlVlN6RGVEU1ZuOWpOME5GWFNFUXJlYTlPWDBnTlFWLXBHanBOY1YxOFhQU1BZWjZGT0FCdFNsNVplSjBjZ2JaNWRZXzhiaGhZdXhjcHAwTHBfaG9wNUVNaDZIcHU1X3o3UldmLWRtUVdxUnQ4NnB0OA?oc=5)
+
+---
+
+### [« On était sur une première mondiale » : Guillaume Charvet, le chercheur grenoblois qui fait remarcher les paralysés - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
+
+2026-06-14
+
+來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
 
 ---
 

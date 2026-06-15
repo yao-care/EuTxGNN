@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [La France rembourse les anti-obésité Wegovy et Mounjao à partir du 15 juin, mais sous conditions strictes - Les Numériques](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzhINFJ5QTRRLUlLWjRMOW5OdVd3TDFLaW5sNFc3aHByVUx4TTd0endQWnQta2FFRTY4Ti1ISVNYakk1ZDhUZzZhcUlPanZxNFAzdnkySFlnTXgzZkxHQmZ6M3psVHBWS2VOdjAxTmhocW9RcXdHYWZmaUtsRjN3WEJwOXd6Y0F0U2NxeWxHbExxTWVSSWhXclBMNVpMVGFqZVNHWUQ0WUozTkZYYU1neE1ZbzZ0ckU1U1c4ZUplNlhGUGxCSDh0ZkV0eGk1azJES2R4bkM4N0ozZ0VWOU1zZEE3c2JYY3pZMUVWREhvV1U?oc=5)
+
+2026-06-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Les Numériques](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzhINFJ5QTRRLUlLWjRMOW5OdVd3TDFLaW5sNFc3aHByVUx4TTd0endQWnQta2FFRTY4Ti1ISVNYakk1ZDhUZzZhcUlPanZxNFAzdnkySFlnTXgzZkxHQmZ6M3psVHBWS2VOdjAxTmhocW9RcXdHYWZmaUtsRjN3WEJwOXd6Y0F0U2NxeWxHbExxTWVSSWhXclBMNVpMVGFqZVNHWUQ0WUozTkZYYU1neE1ZbzZ0ckU1U1c4ZUplNlhGUGxCSDh0ZkV0eGk1azJES2R4bkM4N0ozZ0VWOU1zZEE3c2JYY3pZMUVWREhvV1U?oc=5)
+
+---
 
 ### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
 
@@ -70,14 +78,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Les médicaments antiobésité Wegovy et Mounjaro seront remboursés en France à partir de lundi - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTE1KaGRrTzdadlR4VlRuVTR1TEhMNU1FbEI1R3d1R0RFa2NEVVdGZ2RNLTZ5U28xT1hOdUwxZW9WckJ1SkxiYW0zUnBKUDlWQW1fMGVTWUlCNGdFQkEybXdDMUt3eUZsdEtzVWQzNkV0M3hOZHJUQTJ3U0NjU0VIVkdXcGpnNm44QzVsZ3pacUQ0Zm4zdk53dS1pTlFLVDJhSURDS0FzWm1La0FsQVdaVnE2eVo3MG1VNGJqd0k4WEFjaEdQVUNyNHNCRWxiNjZYX2QzQnlYcHdKeks4WXRYcW1KT3lMWnp1NmRjdEQ2c2thVlk?oc=5)
-
-2026-06-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTE1KaGRrTzdadlR4VlRuVTR1TEhMNU1FbEI1R3d1R0RFa2NEVVdGZ2RNLTZ5U28xT1hOdUwxZW9WckJ1SkxiYW0zUnBKUDlWQW1fMGVTWUlCNGdFQkEybXdDMUt3eUZsdEtzVWQzNkV0M3hOZHJUQTJ3U0NjU0VIVkdXcGpnNm44QzVsZ3pacUQ0Zm4zdk53dS1pTlFLVDJhSURDS0FzWm1La0FsQVdaVnE2eVo3MG1VNGJqd0k4WEFjaEdQVUNyNHNCRWxiNjZYX2QzQnlYcHdKeks4WXRYcW1KT3lMWnp1NmRjdEQ2c2thVlk?oc=5)
-
----
-
 ### [Unbemerkt und tückisch: Diese fünf Faktoren erhöhen Ihr Schlaganfallrisiko massiv - Gießener Allgemeine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnRVVkJKMHM5b3RMbzZvcGUydGhRR1p4Nm5maGpjN2w4RG1FOGZiUWVmeXB4RU42ZHBDVkY0aGRSNFB3WHhRRW9wMVpyTzk0dHZNbXVjSGp3aEVmeHQ1N3EwUFNDMVBzeGFtQ2ppNXdkVGt4Q1A0d19wTm4wVkhGOWhoSUotalNINzJnWFJJc1huanVWa3U1bGtVVzNMbXVaQ1FUWF9YRjMwRGZvcGFISXVaLVBwTDRGUEs2M1N2aTcxek1DV2t4aWRkZ0NFdw?oc=5)
 
 2026-06-14 <span class="news-indication-tag">Schlaganfall</span>
@@ -91,6 +91,14 @@ permalink: /news/orlistat/
 2026-06-14 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDNCRUlXYUVtX2xjdDVKVng3bDJHbXd0Q2dORDktQmo4TWx0YmpQeWE1NnBBeEFqTXZ4WVlJd2NWMThhVjZJOWtOSHhyS3ZPVGZ1cG5JR1Q4QW1wdEowWW0xLUVaVy1qNVhKTG42bXNGS2JlVlN6RGVEU1ZuOWpOME5GWFNFUXJlYTlPWDBnTlFWLXBHanBOY1YxOFhQU1BZWjZGT0FCdFNsNVplSjBjZ2JaNWRZXzhiaGhZdXhjcHAwTHBfaG9wNUVNaDZIcHU1X3o3UldmLWRtUVdxUnQ4NnB0OA?oc=5)
+
+---
+
+### [« On était sur une première mondiale » : Guillaume Charvet, le chercheur grenoblois qui fait remarcher les paralysés - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">AVC</span>
+
+來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
 
 ---
 

@@ -62,6 +62,14 @@ permalink: /news/entrectinib/
 
 ---
 
+### [Niedriger Blutdruck als Alzheimer-Risiko: Neue Studienlage im Detail - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
+
+2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
+
+---
+
 ### [Lotta ai tumori, raggiunti tutti i piemontesi a rischio. Ma meno del 50% si sottopone a screening - La Stampa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQldQT1JWUHpKd2k3QWV1d0JtN2dlVS10Rkk3eV9CdEQydGpwTWFEendZNEs2cHN5U3VzanJwOTR2bFctQ19iMnpvNFU4bVBISEN4VGExT1cxUmRmaFlicEtEYU8yNF9ZU1ZHdFdGX3NLVXpzQllvUUVZbFk1enR4eW5UanRMQ3JYczZTLU15YWFVdFFKei1rYmNMaXhrLTY1WGxvT3VsSGx6N0HSAbABQVVfeXFMUGxPOEZsdm9KRk5wVUtEdy1DMjBXYVpzWTNsTFVhTVhUZElxa1QyUzQ5YmdHUTJXNnEtRF84YUk0dC1FcEV1cm1NZWJWVGFWOVhWQlBLcHRld3lHWWQ0aG1ETWJNV2dzTGNBcndZcmNIV3NrdE5PU2RSRVltX1oxMmxZVmlBQUFXU1BxUER1TlU4S1Q4Nl84U0ZLT3c4Qk5yT1JGd0RBTy12SVJXQVBsUzA?oc=5)
 
 2026-06-14 <span class="news-indication-tag">tumor</span>
@@ -86,11 +94,11 @@ permalink: /news/entrectinib/
 
 ---
 
-### [Blutdruck-Paradox: Zu niedriger Blutdruck erhöht Alzheimer-Risiko um 200% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+### [Hacia un tratamiento más preciso del cáncer de próstata - La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
 
-2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-14 <span class="news-indication-tag">tumor</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
 
 ---
 
@@ -102,17 +110,9 @@ permalink: /news/entrectinib/
 
 ---
 
-### [Mehr Sonnentage: Wie UV-Strahlung unser Leben verändert - Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
-2026-06-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
----
-
 ### [Five myths about prostate cancer, according to an oncologist - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
-2026-06-13 <span class="news-indication-tag">cancer</span>
+2026-06-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/azilsartan-medoxomil/
 ---
 
 <p class="key-answer" data-question="Azilsartan Medoxomil 有什麼相關新聞？">
-<strong>Azilsartan Medoxomil</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azilsartan Medoxomil</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/azilsartan-medoxomil/
 <p><a href="{{ '/drugs/azilsartan-medoxomil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
 
 ### [Casi el 99% de los eventos cardiovasculares está vinculada a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/azilsartan-medoxomil/
 2026-06-14 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
+
+---
+
+### [Niedriger Blutdruck als Alzheimer-Risiko: Neue Studienlage im Detail - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
+
+2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
 
 ---
 
@@ -102,6 +110,14 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
+### [Hacia un tratamiento más preciso del cáncer de próstata - La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
+
+2026-06-14 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpHdUJwVEFacXhDMmN0TzhvamNORzNlSEkyRjRzQjR3TWZMenFUQkJuLTBlNkF4Q2xtYkNjdFViOVMzM1NqbS1JT1ZkUmpyNGEyelNPNU50Uk1KajdHaXR1OE9aSFRrbWZoV2xnM2I3dlRkSXdmVThHU0VVUHM5SGJXRmE0YjdQeUtrTm9BTW0zbGowWEd1YkZnZ2pJWUdiUzRrWEJmNU5rZ9IBvgFBVV95cUxQS1lGZ240MU5PLVJqdG5mM1NNTWtvRl82V1NmN0o4RVVYNGpvLVM4cmRnUm9qczBvRlhmTm9mYm54dGhzVnQzWFdieWJ1dG1zckEwY3RQd3RhRVFPdThYYmxvdElmdmRmM0VMczZtcW5ENXliSk1ocGNTdkdneUdpM2YxVTF0OUtUZ2NsYV9SeWl6UkI4ZG9qNjdvNUVPZkZQR1ZqQzlUbEEyeEV5VFpBSDBJeGxETG9fY1lZcU9n?oc=5)
+
+---
+
 ### [Neue Forschung zeigt: 99 Prozent der Herzinfarkte und Schlaganfälle gehen auf vier zentrale Risiken zurück - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDNCRUlXYUVtX2xjdDVKVng3bDJHbXd0Q2dORDktQmo4TWx0YmpQeWE1NnBBeEFqTXZ4WVlJd2NWMThhVjZJOWtOSHhyS3ZPVGZ1cG5JR1Q4QW1wdEowWW0xLUVaVy1qNVhKTG42bXNGS2JlVlN6RGVEU1ZuOWpOME5GWFNFUXJlYTlPWDBnTlFWLXBHanBOY1YxOFhQU1BZWjZGT0FCdFNsNVplSjBjZ2JaNWRZXzhiaGhZdXhjcHAwTHBfaG9wNUVNaDZIcHU1X3o3UldmLWRtUVdxUnQ4NnB0OA?oc=5)
 
 2026-06-14 <span class="news-indication-tag">Schlaganfall</span>
@@ -110,11 +126,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Blutdruck-Paradox: Zu niedriger Blutdruck erhöht Alzheimer-Risiko um 200% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+### [« On était sur une première mondiale » : Guillaume Charvet, le chercheur grenoblois qui fait remarcher les paralysés - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
 
-2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-14 <span class="news-indication-tag">AVC</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
 
 ---
 
@@ -126,17 +142,9 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Mehr Sonnentage: Wie UV-Strahlung unser Leben verändert - Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
-2026-06-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Fränkischer Tag](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFR5QUxfYWxReGgzRXlzbjNDWlBhMzhtdVRmMkRuVlZ4NXV1d05NY0FJTW5jc19ucVJlNUNsZEpZbXVPZWpDZEZjMzZlbkl3Zzl2MncwQ0dFSEtwVHJIejlPUXd6andjejYwOUQ5WE9Pek1LVE5oSDB5RUFPSU5oMnFqSGJUaU5tbmxLaUJUSGNpMnpLVnc1clhEdW5ydjBoWXZ5TkZDd2tLVnFraEFOLURSdVJqaWplTW1tNEcwU2dmNHRmVmFTQUxXNW5Eemx6T2p6TDluUlAzYWFvczdJ?oc=5)
-
----
-
 ### [Five myths about prostate cancer, according to an oncologist - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
-2026-06-13 <span class="news-indication-tag">cancer</span>
+2026-06-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 

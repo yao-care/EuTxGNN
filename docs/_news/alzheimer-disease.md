@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# enfermedad de Alzheimer（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Dogs and humans are more alike than we thought, study finds](https://news.google.com/rss/articles/CBMibEFVX3lxTE5MSWFvMDFHSHJ4d1lJU1hCMFdVeGw0SzZ6R3RJZUdGVzRVM0lSVTQtZjc3MkIxckFSUE95a3dGY2prZ2RJMzBuX2dJUHRBcGZQanQ5c2Y1UXl2QUFYSG1PZVZZV09zTUZlcUVSXw?oc=5)
+
+2026-06-13
+
+來源：[Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTE5MSWFvMDFHSHJ4d1lJU1hCMFdVeGw0SzZ6R3RJZUdGVzRVM0lSVTQtZjc3MkIxckFSUE95a3dGY2prZ2RJMzBuX2dJUHRBcGZQanQ5c2Y1UXl2QUFYSG1PZVZZV09zTUZlcUVSXw?oc=5)
+
+---
 
 ### [El Alzheimer podría comenzar mucho antes de lo que imaginamos - Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
 
@@ -54,19 +62,19 @@ permalink: /news/alzheimer-disease/
 
 ---
 
+### [Specialists Are Practically Begging People To Eat These 3 Foods That Actually Lower Dementia Risk](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
+
+2026-06-13
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
+
+---
+
 ### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc1RnljcHNQZlZSUHlWelBucnh6aUtXSy1QeVdZRGVmTklIeXh5SVNuVEZLN1RxQTEwUTVuUVV1aUdxRHBra3VOOTFzZy1BcFBrZVl1U0M2WUJ2d3E3TThTaGxtamN4X2xOY3U2bHVic241MENqUjhIVDRhMkRaVTRFbU85LU52ZUZTZNIBkgFBVV95cUxPbXZqcEJNSnlJNnZnTEVCU0U2MmdySmZsb3FKQTAtdDA4YWxxcmtDZGhWY3A4M3NkcW9WYUIzNkx5elJveGlYbUE1SXNCWFNkampyRnkwSWlIaXU2QzNSMHZZa210NTFUNXRiZmJRMzZ4cnhnOEp2T1RnQXpaQXRzdTBEZkNDd3ZhRFcyRUlFOENVdw?oc=5)
 
 2026-06-13
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc1RnljcHNQZlZSUHlWelBucnh6aUtXSy1QeVdZRGVmTklIeXh5SVNuVEZLN1RxQTEwUTVuUVV1aUdxRHBra3VOOTFzZy1BcFBrZVl1U0M2WUJ2d3E3TThTaGxtamN4X2xOY3U2bHVic241MENqUjhIVDRhMkRaVTRFbU85LU52ZUZTZNIBkgFBVV95cUxPbXZqcEJNSnlJNnZnTEVCU0U2MmdySmZsb3FKQTAtdDA4YWxxcmtDZGhWY3A4M3NkcW9WYUIzNkx5elJveGlYbUE1SXNCWFNkampyRnkwSWlIaXU2QzNSMHZZa210NTFUNXRiZmJRMzZ4cnhnOEp2T1RnQXpaQXRzdTBEZkNDd3ZhRFcyRUlFOENVdw?oc=5)
-
----
-
-### [Dementia care scandal: 'No one likes to ask what happens when the money runs out?'](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeElKMUVwVjhFSmcwV0o1ejBvQ1c2Z3FXaV9CWGN0VzFxcWJNYnhBX0tacFFiOWhqZHAtal9GY1JOREtFbTJaWXIwM09ic2twRnRfcDJrOXY5MUFwSXBPbFFwOEk5T05DYkZGLWJobzRUclh5LTg5R3hCOGttRk94eW9oakdPNkMydHNHOW9mX1NrNTBnV2h1YjM0dlNoUEnSAaQBQVVfeXFMT2Q4Qm1XWkcySldfY0xvMlEtMllRLThhQ202ME11RmVXNVlPRHp6eWM1R2IxZVA0MUFpdnhSb3pZSUs1QS1VMmVTelltSU1meXQzVTRGbTdBWHloa0I3aXZkenZDMkkxc1VHQXZDRjN2QWdzTnV5aFRZTzBWRlMyS1NsVFgzQ2JoUk1PeVkxaDJYYlA0Q3BaRkRaQVJxc2hyanJNSjE?oc=5)
-
-2026-06-12
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeElKMUVwVjhFSmcwV0o1ejBvQ1c2Z3FXaV9CWGN0VzFxcWJNYnhBX0tacFFiOWhqZHAtal9GY1JOREtFbTJaWXIwM09ic2twRnRfcDJrOXY5MUFwSXBPbFFwOEk5T05DYkZGLWJobzRUclh5LTg5R3hCOGttRk94eW9oakdPNkMydHNHOW9mX1NrNTBnV2h1YjM0dlNoUEnSAaQBQVVfeXFMT2Q4Qm1XWkcySldfY0xvMlEtMllRLThhQ202ME11RmVXNVlPRHp6eWM1R2IxZVA0MUFpdnhSb3pZSUs1QS1VMmVTelltSU1meXQzVTRGbTdBWHloa0I3aXZkenZDMkkxc1VHQXZDRjN2QWdzTnV5aFRZTzBWRlMyS1NsVFgzQ2JoUk1PeVkxaDJYYlA0Q3BaRkRaQVJxc2hyanJNSjE?oc=5)
 
 ---
 

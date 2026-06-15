@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Les médicaments antiobésité Wegovy et Mounjaro seront remboursés en France à partir de lundi - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTE1KaGRrTzdadlR4VlRuVTR1TEhMNU1FbEI1R3d1R0RFa2NEVVdGZ2RNLTZ5U28xT1hOdUwxZW9WckJ1SkxiYW0zUnBKUDlWQW1fMGVTWUlCNGdFQkEybXdDMUt3eUZsdEtzVWQzNkV0M3hOZHJUQTJ3U0NjU0VIVkdXcGpnNm44QzVsZ3pacUQ0Zm4zdk53dS1pTlFLVDJhSURDS0FzWm1La0FsQVdaVnE2eVo3MG1VNGJqd0k4WEFjaEdQVUNyNHNCRWxiNjZYX2QzQnlYcHdKeks4WXRYcW1KT3lMWnp1NmRjdEQ2c2thVlk?oc=5)
+### [Las personas que usan Ozempic y otros fármacos para adelgazar reducen su actividad física](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5)
+
+2026-06-15 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5)
+
+---
+
+### [Los científicos identifican el fármaco que reduce la pérdida de masa muscular en los medicamentos para perder peso](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
+
+2026-06-14 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[SPORT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
+
+---
+
+### [La France rembourse les anti-obésité Wegovy et Mounjao à partir du 15 juin, mais sous conditions strictes - Les Numériques](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzhINFJ5QTRRLUlLWjRMOW5OdVd3TDFLaW5sNFc3aHByVUx4TTd0endQWnQta2FFRTY4Ti1ISVNYakk1ZDhUZzZhcUlPanZxNFAzdnkySFlnTXgzZkxHQmZ6M3psVHBWS2VOdjAxTmhocW9RcXdHYWZmaUtsRjN3WEJwOXd6Y0F0U2NxeWxHbExxTWVSSWhXclBMNVpMVGFqZVNHWUQ0WUozTkZYYU1neE1ZbzZ0ckU1U1c4ZUplNlhGUGxCSDh0ZkV0eGk1azJES2R4bkM4N0ozZ0VWOU1zZEE3c2JYY3pZMUVWREhvV1U?oc=5)
 
 2026-06-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTE1KaGRrTzdadlR4VlRuVTR1TEhMNU1FbEI1R3d1R0RFa2NEVVdGZ2RNLTZ5U28xT1hOdUwxZW9WckJ1SkxiYW0zUnBKUDlWQW1fMGVTWUlCNGdFQkEybXdDMUt3eUZsdEtzVWQzNkV0M3hOZHJUQTJ3U0NjU0VIVkdXcGpnNm44QzVsZ3pacUQ0Zm4zdk53dS1pTlFLVDJhSURDS0FzWm1La0FsQVdaVnE2eVo3MG1VNGJqd0k4WEFjaEdQVUNyNHNCRWxiNjZYX2QzQnlYcHdKeks4WXRYcW1KT3lMWnp1NmRjdEQ2c2thVlk?oc=5)
+來源：[Les Numériques](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNXzhINFJ5QTRRLUlLWjRMOW5OdVd3TDFLaW5sNFc3aHByVUx4TTd0endQWnQta2FFRTY4Ti1ISVNYakk1ZDhUZzZhcUlPanZxNFAzdnkySFlnTXgzZkxHQmZ6M3psVHBWS2VOdjAxTmhocW9RcXdHYWZmaUtsRjN3WEJwOXd6Y0F0U2NxeWxHbExxTWVSSWhXclBMNVpMVGFqZVNHWUQ0WUozTkZYYU1neE1ZbzZ0ckU1U1c4ZUplNlhGUGxCSDh0ZkV0eGk1azJES2R4bkM4N0ozZ0VWOU1zZEE3c2JYY3pZMUVWREhvV1U?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/semaglutide/
 2026-06-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9ha05lMWsxb0NqSEFpRE9pYzYzYmZyNGUweUs0ZTk1a2JOLWdQU1BUZ1hQYTBGM3BCZ2xQNWxzRS1hVmVMZEhjbGdYLTluQ3VBMUhwaFlNVGV0aHZRa1prMUxFWklFVmNpTVk3ODRzUkMyRjBIaldjbkNXSXY4SXl1VnhHZEppcmktUlZ0dmJkbXhNR1pmVFRUbWNaam1BWFhiX19xT1hmWGFUa0E?oc=5)
-
----
-
-### [Aumentan las intervenciones de cirugía estética tras el auge de los nuevos fármacos adelgazantes](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEx2VjVuRGlmT3B4R1BieGV3YWJ4aVh6c1FEOF9PSE1qenRjTDBYTlVLMUNleXFWak05dlp0ZVFQeEtrYlZ6alp6dDFZeC01X04wak5vM09YWTVKZXhBOGpjRFN6T045WVdTTHlVbkhIZnhLR3oxSktRMzV5M2xITE55REZsTUg4TmpUNmpfUnBfcGlVVkFLbldreGR3Q2phajNQVFdiNEdfWGkycVhOYWFUVFF0RTlfQ2QxUDA0Zw?oc=5)
-
-2026-06-12 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEx2VjVuRGlmT3B4R1BieGV3YWJ4aVh6c1FEOF9PSE1qenRjTDBYTlVLMUNleXFWak05dlp0ZVFQeEtrYlZ6alp6dDFZeC01X04wak5vM09YWTVKZXhBOGpjRFN6T045WVdTTHlVbkhIZnhLR3oxSktRMzV5M2xITE55REZsTUg4TmpUNmpfUnBfcGlVVkFLbldreGR3Q2phajNQVFdiNEdfWGkycVhOYWFUVFF0RTlfQ2QxUDA0Zw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Sanidad refuerza la vigilancia y control de las enfermedades transmitidas por vectores a través de la Red de Vigilancia Entomológica - Novelda Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYWJZOFFxZjRLYS03T2czbGZxZGRacEhncUJCUFh2WWJGb0xtd0c1M0xpeTZ2cGtaUWVVMDBIUm1QeWMyQnhLUG9PODlVbGpHVnQ2cXZCWEtuZGJKQUNXTUVseTBJS0ZveTZpalBmak9lTGkyeHdUNlF4eVo3bWtJaENPN2tqdHZtekdRNlVwc19MWmJPRUVDQVhLSzYybDBJVTJQd1puUTE0TzV1T2VfWHRWX1Q2dFg3eDhzMDZCQVhpMTBTSUFlUEJuYzNsbmZtNXdSODRqa3BKczctZWhIZGhCdjNzc3h0bV9KdUZoNTN0WU1iTkNRc2Z5b1lGUXhTRzlrMDc2bk8?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[Novelda Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYWJZOFFxZjRLYS03T2czbGZxZGRacEhncUJCUFh2WWJGb0xtd0c1M0xpeTZ2cGtaUWVVMDBIUm1QeWMyQnhLUG9PODlVbGpHVnQ2cXZCWEtuZGJKQUNXTUVseTBJS0ZveTZpalBmak9lTGkyeHdUNlF4eVo3bWtJaENPN2tqdHZtekdRNlVwc19MWmJPRUVDQVhLSzYybDBJVTJQd1puUTE0TzV1T2VfWHRWX1Q2dFg3eDhzMDZCQVhpMTBTSUFlUEJuYzNsbmZtNXdSODRqa3BKczctZWhIZGhCdjNzc3h0bV9KdUZoNTN0WU1iTkNRc2Z5b1lGUXhTRzlrMDc2bk8?oc=5)
+
+---
+
+### [This Painful Condition Impacts Women Way More Than Men, And You Need To Know About It](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
+
+---
+
+### [Demenz-Risiko: Hochverarbeitete Lebensmittel erhöhen Gefahr um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU05HRVJzYlRKazBDb1NUbHJ5NVhYMGxneDdwaU40ZkI5Zk1fRDVBMFdMbEpiRkt1cGJFa0FSc0RRU2ZLRzVwd2haR3BIZVpnT2tNMUdLT1dpSjR2Ny05OUhQOEpVWGZWTU43S1pGRVYtQVVjdHk1N3ZDcHpVWFRFak1DVzhCMDduVlkzZjF6QjBRVWprdnZnd21DMnZ1Y1R2S2c2aXpTbFE1RmVvR3QyODJGcW1TLWpOZVpicTF4NA?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU05HRVJzYlRKazBDb1NUbHJ5NVhYMGxneDdwaU40ZkI5Zk1fRDVBMFdMbEpiRkt1cGJFa0FSc0RRU2ZLRzVwd2haR3BIZVpnT2tNMUdLT1dpSjR2Ny05OUhQOEpVWGZWTU43S1pGRVYtQVVjdHk1N3ZDcHpVWFRFak1DVzhCMDduVlkzZjF6QjBRVWprdnZnd21DMnZ1Y1R2S2c2aXpTbFE1RmVvR3QyODJGcW1TLWpOZVpicTF4NA?oc=5)
+
+---
 
 ### [El hígado, clave para entender nuestra salud metabólica - La Razón](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkhCNGpQLXhCSTY2TmtxcFhQLWpIVUZvS3lYWXo5QWdFOFFMWnZNTjhsSTBYY09KVVhsSHVKeTduZUlHdGJHZ1BSd1FOajA2T1BzYW5HYkd4WkRTVlAyVHlQZ0YxcV9wTnpKRENCLVVlOHJ6M1NkanpZdDdCZVJLZVJRT1J1Y3hqajZHZTNSS0RmZkxCemxhYlZyWVZWRzQtQ0F5dHNKTjdvWlhjQWM2STdfb9IBxwFBVV95cUxOdTBxVjY1VEtocHdsUjlPdW5pZjZpai1TX09tOFhBb1pVQ1ZaMkZ2YkJRRUx2Rkc4MFBKZC03WlkwcjZDZm9Vak1UWUNoUnB2czctM2ZxMmZHWU5ka3pFeUgwbzJJSzFYcUtCc0VrcVRqaGZOOWJjV2IzRVF3VjdUMUlMTFdFdzFaYlZuMmtaVFlsRjZSaVlvRDRrR0k0UENmcWI3RnJqRTJ0YVkyMWlnYUFWekY2a0Ixc2VMWVBfNlE4VnMtS1Mw?oc=5)
 
@@ -62,27 +86,19 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [El Alzheimer podría comenzar mucho antes de lo que imaginamos - Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
-
-2026-06-13 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Diario Libre](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVmVGNkYjBES3QzdXpiVnNDXzlKZFVhc3FnV0MxVUZtRFY1TndwMWpKT0RyaDdYQVdYQVpvYkt0WFRMMDFzNDJDUlhhazhBY2xMMU9QeWdTb1hyOFBkNXd3WER6OFRsTVBuYXpqRTZVZXBNZnZmdWlYUjMweXRkdGFNaVlhTlItMS1fTmdCeXFneS1HRVJtZ2hnVWZLN0pMXzRhNlhFQdIBrAFBVV95cUxONnZoQ2VCRDdVZVA2cFJCbG1ZQm1kSm9wWVNNVHdqX0xJcGhmZG1jUWs5REI1bTVxQnQ1ZWtYY2NTcDNscFdJTWk0RWN6OVljc1pVR3ZDWVNrZU1GcDBBXzIyRWZibXFDTzItUmlueXZRYjU2VkhFQndGQTdUbVRuOWtYMFQ1NFZ5SVZVQ3lDeE5lckUyWUMtSFV5X0NQeUJNLTQwU1hUWVozd2t5?oc=5)
-
----
-
-### [Sanidad refuerza la vigilancia y control de las enfermedades transmitidas por mosquitos o garrapatas - Valencia Plaza](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2JUVjlGdUdINm55bjFxckhBUmFyZ2ppcFNZT1ZfQ3F0ZW0yYmctdXRydzFtYzZOOWRHX1FwbUpvNkJjSlhaaGlQbDVGZHVwY19Remt1YVV4SEdfQ0hRSThneFhnYmVndjQ3d0JvZ2hncER3Q2hWcFVZQWRHYnNyeUpMYm53N01ZVjJDcE1VdkYtcUo1UUgwRzJwWjNNam5YQVVyUlFscTJBVFNjNDRvVllJcktyc0oxczVGWkExTUwtMGJSdzhtblZEN3VJbklnRm9ZSjF2aUJrREVDSzlCQ1U4MnFEWVJ2YkJrSEZSVktLTnRR?oc=5)
+### [Why the penis is a barometer of men's health - and we need to wake up to its warnings](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjZhUENZUk5mcG9EZzBJQmtrYWF1YjM1UXFHU2dCMTkxZDZZa2xjQTRjdnJQQlctczBJOFJSelBSVy0wSW5aYWR5UEpvc3d6MWRzRzdvTm9nRUd2dHBxc2pyWHpkODZNblVuV2JaUkZzWmpPU2V4R2RXLXhGNThxNExlcmdtUmx4d1ljVDlyN25Mel9vZExsV3hRYXk5a3lkSkxKU1ROYWs1YnZZZnMwRHNWNFFlQXIxVjlXeFZZZGg?oc=5)
 
 2026-06-13 <span class="news-indication-tag">MS</span>
 
-來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2JUVjlGdUdINm55bjFxckhBUmFyZ2ppcFNZT1ZfQ3F0ZW0yYmctdXRydzFtYzZOOWRHX1FwbUpvNkJjSlhaaGlQbDVGZHVwY19Remt1YVV4SEdfQ0hRSThneFhnYmVndjQ3d0JvZ2hncER3Q2hWcFVZQWRHYnNyeUpMYm53N01ZVjJDcE1VdkYtcUo1UUgwRzJwWjNNam5YQVVyUlFscTJBVFNjNDRvVllJcktyc0oxczVGWkExTUwtMGJSdzhtblZEN3VJbklnRm9ZSjF2aUJrREVDSzlCQ1U4MnFEWVJ2YkJrSEZSVktLTnRR?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjZhUENZUk5mcG9EZzBJQmtrYWF1YjM1UXFHU2dCMTkxZDZZa2xjQTRjdnJQQlctczBJOFJSelBSVy0wSW5aYWR5UEpvc3d6MWRzRzdvTm9nRUd2dHBxc2pyWHpkODZNblVuV2JaUkZzWmpPU2V4R2RXLXhGNThxNExlcmdtUmx4d1ljVDlyN25Mel9vZExsV3hRYXk5a3lkSkxKU1ROYWs1YnZZZnMwRHNWNFFlQXIxVjlXeFZZZGg?oc=5)
 
 ---
 
-### [Japón estudia el origen de las canas y descubre por casualidad que deberías alegrarte de tenerlas - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
+### [Five myths about prostate cancer, according to an oncologist - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
-2026-06-13 <span class="news-indication-tag">MS</span>
+2026-06-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWR6U3o3SGotUXRmRFV5cS1QTzJ5UTh5ZmtVTjY5aVl6U1RsUVJieEVmU1NPSTlieW1jSGhsMFFQcUpQSHRYb2Z5LVJWUEpMbTBIaGpseHZqQng4MmNnYzF5U3A1c3dNYWRJcFFYMVlmTGlENkZTMDNETnJkSURkdFlVaW55ZHNhTThrUTVhaTllNlVha3JNc09EZHFJeVpPLTY4bmx4Tm04V28ycmc?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmZRZGRxazVwNWtlLWtpTGJnZjQ0amVzOU1oWTNPeGZMWTN6YXNURzhvQi1qUFdrUEs0OS1TTFVscmVmTVhVc2V1Y0cwMnFBNzlvcGstSWtBN3lwRUU2R2dVS3NwdlZycExQTmlnYkowT1NyYVItZ2U4TFdEakp4U3F5WVl2cFphUUtyRnoyd0hoam9IV0hYNzdhdmNqVG5Gc0kxMHRTLXpLUGlzVTVIcXBn?oc=5)
 
 ---
 

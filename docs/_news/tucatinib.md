@@ -54,11 +54,11 @@ permalink: /news/tucatinib/
 
 ## 相關新聞（2 則）
 
-### [Blutdruck-Paradox: Zu niedriger Blutdruck erhöht Alzheimer-Risiko um 200% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+### [Niedriger Blutdruck als Alzheimer-Risiko: Neue Studienlage im Detail - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
 
 2026-06-14 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmcwelFmQnJGcGZXQUt1MjlnZWdUekZxdTBEMkZ6X0Y3VXJWZGhfRWdpR0k0eDJsZlNZaUpzT21SMmRXTTVLYXVQUnNNLXExQXVFZWxTZGpNMzIzdjR3NGxKSFg3M25vTGNwQmFpT3o0eTIydnBhRThaZDBQejU2bGRRbENOV2ZTWXN1MnNvdEdBR3ZhN1lYS1Nqblo1MFJQQUxYVlpSbWJ5ZmRwOVBMaUZSRGtiZkk5Y2JabHhR?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEY0RUc4WkxvWDkzS0NMTjMxYlJWX3JIdFI4X1oxZmZ1TG9sZW1nQTJQRVFIUEhJMDdXRW9PcVRXa0tCSEZZSmxOVUZmRXRDeE1UT2hDUkZpNEtkeV9ZZnNCVGFQZ0hlamw2NXBHTG9EOHo2dU9ZbWpiVnB6YTdmYndNX3UyZG5RbzhveEpPOG5SMFJETVVhQUtLMkk1bDk4?oc=5)
 
 ---
 

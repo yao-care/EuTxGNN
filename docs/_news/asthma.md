@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,23 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Un estudio desmonta el falso mito de los gatos y el asma infantil - Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
-
-2026-06-14
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDk4eGlVSG90ZVNYX3VIR2N4c1duVjFHQVhmQU9aelVpYTlDMi11ZW5NYThISm9fZ1BvTzZWVlkyUmhjNkpablR1bGZocTV1X0U2NzgxVlluVk96T2gzU3RFUVFQR3poTlY2dmxlQmd6akhRY3J6Y1JESGF6cWI4MUhROG4tQ2J0akhoazVCX2RrRmZNb0N3djdtVXVDOEhBbFFnSk51bGZOUFRhOU5BNWRwNnJCVUFrQXZlbXBqaC14dzdrNnFMUGh2YTBtTjBkUHNHQXAweHFHQdIB5AFBVV95cUxNa3FBMW5sNkotMFpmQ19telVNLVNaZUVsNzR1NGd0MzJpODc5cVpxWHFKWWRQLWgzUzNTd2RjMUlCOHVwVTg1WUFQajZOTWxfRXVGanI2cmVhWHJBbmljTS1vR3owcVdqRm1TTzFMNmJ0WjFhM3JqdHh5M3dyUzJTSUVURGwtSmFoM2RGX2kwNW1vMUQ2SlZ0bEVobVFoNUVlWE1oYWRHM1hSd2JXLUhqaUJOdG5BSmY5aFA2UlZCTlBYN1QzR0U3VEw4bWY2WURxRmhJUV9QUVhTeXVHdlkzTXBET18?oc=5)
-
----
-
-### [Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5)
-
-2026-06-13
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Warwickshire man urges more people to donate 'liquid gold' plasma](https://news.google.com/rss/articles/CBMiXEFVX3lxTE90N0NKLVRZQzBxR1hQOEgwVnNDXzVac09ldWdQczhYdlZQV01ST0xiaXUyTTNmc3FxbnhuLTdNcTcybnRURlBtRnpoZnMtY0o4QUM4Wm5fN19MaVNY?oc=5)
 
