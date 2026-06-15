@@ -1,6 +1,6 @@
 {
-  "total": 676,
-  "generated_at": "2026-06-15T02:35:59.509670",
+  "total": 695,
+  "generated_at": "2026-06-15T16:52:30.026780",
   "drugs": [
     {
       "name": "Abacavir",
@@ -403,6 +403,14 @@
       "approved_indication": ""
     },
     {
+      "name": "Andexanet Alfa",
+      "file": "andexanet_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Angiotensin Ii Acetate",
       "file": "angiotensin-ii-acetate.md",
       "evidence_level": "L5",
@@ -411,59 +419,67 @@
       "approved_indication": ""
     },
     {
+      "name": "Angiotensin Ii",
+      "file": "angiotensin_ii.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Anidulafungin",
       "file": "anidulafungin.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "impetigo",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Anifrolumab",
       "file": "anifrolumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "diabetic cataract",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Apalutamide",
       "file": "apalutamide.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "prostate cancer/brain cancer susceptibility",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Apixaban",
       "file": "apixaban.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "migraine disorder",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Apremilast",
       "file": "apremilast.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "migraine disorder",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Aprepitant",
       "file": "aprepitant.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Aripiprazole",
       "file": "aripiprazole.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "manic bipolar affective disorder",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -475,19 +491,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Arsenic Trioxide",
+      "file": "arsenic_trioxide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Artenimol",
       "file": "artenimol.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "malaria",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Artesunate",
       "file": "artesunate.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "malaria",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -499,11 +523,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Asenapine",
+      "file": "asenapine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Asfotase Alfa",
       "file": "asfotase-alfa.md",
       "evidence_level": "L5",
       "indication_count": 50,
       "predicted_indication": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
+      "approved_indication": ""
+    },
+    {
+      "name": "Asfotase Alfa",
+      "file": "asfotase_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -515,11 +555,19 @@
       "approved_indication": ""
     },
     {
+      "name": "Atazanavir",
+      "file": "atazanavir.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Atezolizumab",
       "file": "atezolizumab.md",
-      "evidence_level": "L2",
-      "indication_count": 50,
-      "predicted_indication": "prostatic urethra urothelial carcinoma",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "Prostatic Urethra Urothelial Carcinoma",
       "approved_indication": ""
     },
     {
@@ -531,6 +579,14 @@
       "approved_indication": ""
     },
     {
+      "name": "Atosiban",
+      "file": "atosiban.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Atropine Sulfate",
       "file": "atropine-sulfate.md",
       "evidence_level": "L5",
@@ -539,19 +595,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Atropine",
+      "file": "atropine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Avanafil",
       "file": "avanafil.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "amenorrhea (disease)",
+      "indication_count": 10,
+      "predicted_indication": "Amenorrhea",
       "approved_indication": ""
     },
     {
       "name": "Avapritinib",
       "file": "avapritinib.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "axial spondylometaphyseal dysplasia",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -563,19 +627,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Avatrombopag",
+      "file": "avatrombopag.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Avelumab",
       "file": "avelumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "human herpesvirus 8-related tumor",
+      "indication_count": 10,
+      "predicted_indication": "Human Herpesvirus 8-Related Tumor",
       "approved_indication": ""
     },
     {
       "name": "Avibactam",
       "file": "avibactam.md",
-      "evidence_level": "L1",
-      "indication_count": 50,
-      "predicted_indication": "pyelonephritis",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -587,27 +659,35 @@
       "approved_indication": ""
     },
     {
+      "name": "Axicabtagene Ciloleucel",
+      "file": "axicabtagene_ciloleucel.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Axitinib",
       "file": "axitinib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "clear cell renal carcinoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Azacitidine",
       "file": "azacitidine.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Azathioprine",
       "file": "azathioprine.md",
-      "evidence_level": "L1",
-      "indication_count": 50,
-      "predicted_indication": "rheumatoid arthritis",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -619,11 +699,19 @@
       "approved_indication": ""
     },
     {
+      "name": "Azilsartan Medoxomil",
+      "file": "azilsartan_medoxomil.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Aztreonam",
       "file": "aztreonam.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "polyclonal hyperviscosity syndrome",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -635,27 +723,35 @@
       "approved_indication": ""
     },
     {
+      "name": "Baloxavir Marboxil",
+      "file": "baloxavir_marboxil.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Baricitinib",
       "file": "baricitinib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "rheumatoid arthritis",
+      "indication_count": 10,
+      "predicted_indication": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome",
       "approved_indication": ""
     },
     {
       "name": "Basiliximab",
       "file": "basiliximab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "plasma cell myeloma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bazedoxifene",
       "file": "bazedoxifene.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "heparin cofactor 2 deficiency",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -667,19 +763,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Bedaquiline",
+      "file": "bedaquiline.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Belatacept",
       "file": "belatacept.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "plasma cell myeloma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Belimumab",
       "file": "belimumab.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "primary release disorder of platelets",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -691,91 +795,99 @@
       "approved_indication": ""
     },
     {
+      "name": "Bempedoic Acid",
+      "file": "bempedoic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Benralizumab",
       "file": "benralizumab.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "thrombocytopenia due to immune destruction",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Besilesomab",
       "file": "besilesomab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "diabetic cataract",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bevacizumab",
       "file": "bevacizumab.md",
       "evidence_level": "L5",
-      "indication_count": 70,
-      "predicted_indication": "epiglottis neoplasm",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bexarotene",
       "file": "bexarotene.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "primary cutaneous T-cell lymphoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bezlotoxumab",
       "file": "bezlotoxumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "acute female pelvic peritonitis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bictegravir",
       "file": "bictegravir.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "HIV infectious disease",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bimatoprost",
       "file": "bimatoprost.md",
-      "evidence_level": "L2",
-      "indication_count": 51,
-      "predicted_indication": "hypertrichosis (disease)",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bimekizumab",
       "file": "bimekizumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "diabetic cataract",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Binimetinib",
       "file": "binimetinib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "metastatic melanoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Blinatumomab",
       "file": "blinatumomab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "primary release disorder of platelets",
+      "indication_count": 10,
+      "predicted_indication": "Primary release disorder of platelets",
       "approved_indication": ""
     },
     {
       "name": "Bortezomib",
       "file": "bortezomib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "vertebral anomalies and variable endocrine and T-cell dysfunction",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -787,11 +899,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Bosentan",
+      "file": "bosentan.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Bosutinib (As Monohydrate)",
       "file": "bosutinib-as-monohydrate.md",
       "evidence_level": "L5",
       "indication_count": 50,
       "predicted_indication": "myeloid leukemia",
+      "approved_indication": ""
+    },
+    {
+      "name": "Bosutinib",
+      "file": "bosutinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -803,6 +931,14 @@
       "approved_indication": ""
     },
     {
+      "name": "Botulinum Toxin Type A",
+      "file": "botulinum_toxin_type_a.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Brentuximab Vedotin",
       "file": "brentuximab-vedotin.md",
       "evidence_level": "L5",
@@ -811,19 +947,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Brentuximab Vedotin",
+      "file": "brentuximab_vedotin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Brexpiprazole",
       "file": "brexpiprazole.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "anxiety disorder",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Brigatinib",
       "file": "brigatinib.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "fibromatosis, gingival",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -835,67 +979,75 @@
       "approved_indication": ""
     },
     {
+      "name": "Brimonidine",
+      "file": "brimonidine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Brinzolamide",
       "file": "brinzolamide.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "primary hereditary glaucoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Brivaracetam",
       "file": "brivaracetam.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "visual epilepsy",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Brodalumab",
       "file": "brodalumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "strongyloidiasis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Brolucizumab",
       "file": "brolucizumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
+      "indication_count": 10,
+      "predicted_indication": "Mitochondrial oxidative phosphorylation disorder (nuclear DNA)",
       "approved_indication": ""
     },
     {
       "name": "Budesonide",
       "file": "budesonide.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "atopic eczema",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bupivacaine",
       "file": "bupivacaine.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "dermatitis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Buprenorphine",
       "file": "buprenorphine.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "opiate dependence",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Bupropion",
       "file": "bupropion.md",
-      "evidence_level": "L1",
-      "indication_count": 50,
-      "predicted_indication": "attention deficit-hyperactivity disorder",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
