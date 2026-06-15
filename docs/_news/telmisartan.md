@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
 
-### [Möglicher Zusammenhang zwischen niedrigem Blutdruck und Alzheimer](https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWHNQN1lEM3B5cFp6c00zLVpYaWFPR2RjdTJpUWI5Z3kxV21ScEtKZVRQd2N0NGVzdTZjV0JyNG1lME04ZDVJcE5KcjdidzRTX2hsZlctRUFid2RKT1oydTFnYjF1RERKWEktdi15NXc?oc=5)
+### [Niedriger Blutdruck könnte mit Alzheimer zusammenhängen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
 
 2026-06-15 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWHNQN1lEM3B5cFp6c00zLVpYaWFPR2RjdTJpUWI5Z3kxV21ScEtKZVRQd2N0NGVzdTZjV0JyNG1lME04ZDVJcE5KcjdidzRTX2hsZlctRUFid2RKT1oydTFnYjF1RERKWEktdi15NXc?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
+
+---
+
+### [Vous prenez votre traitement contre l'hypertension le matin ? Ces chercheurs ont décalé la prise au coucher (et les résultats sont stupéfiants)](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
+
+2026-06-15 <span class="news-indication-tag">hypertension</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
 
 ---
 
@@ -78,6 +86,14 @@ permalink: /news/telmisartan/
 
 ---
 
+### [El escudo invisible de los estrógenos: un macroestudio confirma que la menopausia temprana dispara el riesgo de infarto e ictus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBaYmhWTHVVNkdvUUJnbEFnTTV1MWFRdkRJQjhCZlFERHFJOUcyajdzWDE2MTRFM0Y2bXZGMjU0WDFQcGI3UzBXczUtTXBWR09ySE5HQkgyTWNNMGc5Y1FRaWhhbkxHTVppOXZOOXAzRHFySXliMmtlUFVzel9WTE5jdmlUMEVCRWNEWEItS3U4YW95dGh0YlFNV0poNWN2NGtIenpmSmVidm9NUEtJNEc4UnY5MG0zVG5IN3NZNkJza2FrMkRMTThzbU5ReHpmQnNLTEtUcTBxRldS0gHiAUFVX3lxTE1iVW9vR25sY1hBZEQzX0Fab1p0SzBObDl4Z3JVR0ZOQ0xrbnNfODZwWW1uMU9hajFNMmg0X0R2VzJ2bDBab3FrdHZoUlBreXFmbnc0ZmgxQ3FwS2ExT2h6aGV0Q1k3TU5uMDhpVHlPdVNENi0ydndnM3FldXZUSFhzWEtfOGJmYktDWlNvalB6MXozeE9TZTlPcjAwN0psUGp5dWZzUk9mWXE2VUphS05JcjR4dDBaNkRQR1RqX3pFTS0xMnZOdWpTTVlQQ2VDRHk0dmZ1Y01xcXI0bHBWdm9WLWc?oc=5)
+
+2026-06-14 <span class="news-indication-tag">ictus</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBaYmhWTHVVNkdvUUJnbEFnTTV1MWFRdkRJQjhCZlFERHFJOUcyajdzWDE2MTRFM0Y2bXZGMjU0WDFQcGI3UzBXczUtTXBWR09ySE5HQkgyTWNNMGc5Y1FRaWhhbkxHTVppOXZOOXAzRHFySXliMmtlUFVzel9WTE5jdmlUMEVCRWNEWEItS3U4YW95dGh0YlFNV0poNWN2NGtIenpmSmVidm9NUEtJNEc4UnY5MG0zVG5IN3NZNkJza2FrMkRMTThzbU5ReHpmQnNLTEtUcTBxRldS0gHiAUFVX3lxTE1iVW9vR25sY1hBZEQzX0Fab1p0SzBObDl4Z3JVR0ZOQ0xrbnNfODZwWW1uMU9hajFNMmg0X0R2VzJ2bDBab3FrdHZoUlBreXFmbnc0ZmgxQ3FwS2ExT2h6aGV0Q1k3TU5uMDhpVHlPdVNENi0ydndnM3FldXZUSFhzWEtfOGJmYktDWlNvalB6MXozeE9TZTlPcjAwN0psUGp5dWZzUk9mWXE2VUphS05JcjR4dDBaNkRQR1RqX3pFTS0xMnZOdWpTTVlQQ2VDRHk0dmZ1Y01xcXI0bHBWdm9WLWc?oc=5)
+
+---
+
 ### [Casi el 99% de los eventos cardiovasculares está vinculada a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
 
 2026-06-14 <span class="news-indication-tag">ictus</span>
@@ -91,6 +107,14 @@ permalink: /news/telmisartan/
 2026-06-14 <span class="news-indication-tag">AVC</span>
 
 來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
+
+---
+
+### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（11 則）
+
+### [Noah Praamsma, nutricionista: "Muchos alimentos ultraprocesados son en realidad beneficiosos para la salud"](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYm9uakNHc3lEZFhFZ3hTNENDU01pOGJoVXh2aHpDVFRKY0VrVnVOdHNZM2RROEQ1OU5iVWdwajlzRGJjZDc2R2EwZkc0WVJlcnBfcGRfczkzNElLMFVRb3JQMHFMbjVrNW1jVkdmVk1TYThQUzFXdUNVYXkyM09kN0VzOFppTzkzaXhFZndZeFFaUnlpek5OMG0xTVc2Q2JIQWpmMlNOMzMycWpLQ2Z2d2xWUEVmMnFVbTBkYUFGcTg3MWxNLWFDbXdDWnoxZ9IB0wFBVV95cUxPaW5NSk0xY0Fpb2VpU3l4ZnR0RFc3WTh4M09TWUZXakFFNFk0VFlieWtHWDJfTEg1cWdzQlVGakpoaXBkaGVidnUxcTZVeUFPQ05heDFBYkJubUp0dkttZVBabHJGVmlpdllOS3paVXNuOVcwOFRpeUo2YXBxX2NVTWg5NDVnaG8zVWt0OC1iYU82alBsY0lBVTFyTU5DR2FDYWVXcDZfOTcyYlV0QlFQNXpsei13LVJfRkRsUnZDNGNONG56MHZHb01JNmpLS3NiVUZr?oc=5)
+
+2026-06-15 <span class="news-indication-tag">MS</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYm9uakNHc3lEZFhFZ3hTNENDU01pOGJoVXh2aHpDVFRKY0VrVnVOdHNZM2RROEQ1OU5iVWdwajlzRGJjZDc2R2EwZkc0WVJlcnBfcGRfczkzNElLMFVRb3JQMHFMbjVrNW1jVkdmVk1TYThQUzFXdUNVYXkyM09kN0VzOFppTzkzaXhFZndZeFFaUnlpek5OMG0xTVc2Q2JIQWpmMlNOMzMycWpLQ2Z2d2xWUEVmMnFVbTBkYUFGcTg3MWxNLWFDbXdDWnoxZ9IB0wFBVV95cUxPaW5NSk0xY0Fpb2VpU3l4ZnR0RFc3WTh4M09TWUZXakFFNFk0VFlieWtHWDJfTEg1cWdzQlVGakpoaXBkaGVidnUxcTZVeUFPQ05heDFBYkJubUp0dkttZVBabHJGVmlpdllOS3paVXNuOVcwOFRpeUo2YXBxX2NVTWg5NDVnaG8zVWt0OC1iYU82alBsY0lBVTFyTU5DR2FDYWVXcDZfOTcyYlV0QlFQNXpsei13LVJfRkRsUnZDNGNONG56MHZHb01JNmpLS3NiVUZr?oc=5)
+
+---
 
 ### [Kaffee-Wirkstoffe: Polyphenole senken Entzündungen stärker als Koffein - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGpHeDA2VjRxWGVDQ3RUT0dNakhQYmpmRURWY1pWSHZTbWswdkstUWtaNk1jU2pkdUJST2JNUkJtWTFPV2lyWDlrZ2NXeXlnYTJrelU2QmNENVQ3ei11LTJBZl9fRlRnR2xUU2Y3a1h3cFdrOGVOTnJFcnFzRi14a09GcS1HVjRvY2VQTDB0WkM4cDRQR2c0TVVkN0FVWXlXVzNKa0YzWlRYOUFVcUREMDl0UmF4Y0xCelZxRA?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/pibrentasvir/
 2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
+
+---
+
+### [Badalona lidera la investigación de la OMS sobre el hantavirus de los Andes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVk9GazVoTmtLajFjZTdlS1BJeXB5bEJUdlZjdlQwY01rUXRiZGZmbHQyX25XUWQ0eDRpaVB6V3VtaTVLWWxhUnVxRERyaUg1UDkzYXdNU1NscDA3LVpPQTAyZHVSOHI0TTlVd0gzSDUzclI0TUtKV1F0UERXU3NFR0NsblNEWFNPYU5YMWFuRzd3VlJ5LU1aeEo1YXpMMmo0ZmNtcTlOcVYyeWk0VGpmZDMxMFFIeXNXWWNnbnJLUjZpcTZVYW1tLXAtOFF1cEJIRU5uaA?oc=5)
+
+2026-06-15 <span class="news-indication-tag">MS</span>
+
+來源：[CatalunyaPress](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVk9GazVoTmtLajFjZTdlS1BJeXB5bEJUdlZjdlQwY01rUXRiZGZmbHQyX25XUWQ0eDRpaVB6V3VtaTVLWWxhUnVxRERyaUg1UDkzYXdNU1NscDA3LVpPQTAyZHVSOHI0TTlVd0gzSDUzclI0TUtKV1F0UERXU3NFR0NsblNEWFNPYU5YMWFuRzd3VlJ5LU1aeEo1YXpMMmo0ZmNtcTlOcVYyeWk0VGpmZDMxMFFIeXNXWWNnbnJLUjZpcTZVYW1tLXAtOFF1cEJIRU5uaA?oc=5)
 
 ---
 
@@ -94,11 +110,35 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Dormir poco, o demasiado, acelera el envejecimiento: este es el tiempo ideal de descanso nocturno](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0tZdmNrQ1pMWGFSblR3N29DcUZydl9mMTlHOGdzTWZOMVRuMEpSd2J0aGxNUEFsZU1WYUZaUEo2cDhGWWZYNlA1NXF2ZjA3ZXo2LXlHR1I2LTRpQkI1MTgxS0ZQLXNDbDcxZ3RqZzBWS1hTQjRWcUUybW94OEtRaklDMEV6RXg5RVpVUFM1R3hLMTl4ZU9Oak9VMVZMbGVYY1g3dFhtYmdQUdIBrwFBVV95cUxNUTVlUFNoSlRGODViQ2plbDFSN2ZHZzVKNGZOUnFZSVFGSVZxVFFPTDNsU3MtWXAxZDlOQnlkN0NFMEp1TDU5NkdKRjhHcmduT0c2bC1MOFZSbUVwUUd2dUptYVd0SGhXejlHclVxNGVoT0l4alJ3LUEwRUVNOWNUaHZhSXU2NW5vLWZyeXB1OTFpVXBCcE5aNXhqTi1MSURUbnRTTGtTUlBRdnU0SXhJ?oc=5)
+### [Hochverarbeitete Lebensmittel: Studie warnt vor 58% höherem Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE5ZYnNJSkFyYmlNaHJCdF9qWlBSN21xNFVpckFVektXN3FBaDBKSlFRLW1NTDExTjh5SVE0RXkzQzdvekJmR1JsZW5aRFpMTVRuTnNZbk9tTTdTQ05hS2dQVVl4dS1JMDhOREVoNGYzTkl2a3JzYXFHTEhMX1ZZRUZpUGg1QWtIVll5eU0zeGhQVHh4SzBoN2NYelhyYjR2WWlUTVhB?oc=5)
 
-2026-06-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">MS</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0tZdmNrQ1pMWGFSblR3N29DcUZydl9mMTlHOGdzTWZOMVRuMEpSd2J0aGxNUEFsZU1WYUZaUEo2cDhGWWZYNlA1NXF2ZjA3ZXo2LXlHR1I2LTRpQkI1MTgxS0ZQLXNDbDcxZ3RqZzBWS1hTQjRWcUUybW94OEtRaklDMEV6RXg5RVpVUFM1R3hLMTl4ZU9Oak9VMVZMbGVYY1g3dFhtYmdQUdIBrwFBVV95cUxNUTVlUFNoSlRGODViQ2plbDFSN2ZHZzVKNGZOUnFZSVFGSVZxVFFPTDNsU3MtWXAxZDlOQnlkN0NFMEp1TDU5NkdKRjhHcmduT0c2bC1MOFZSbUVwUUd2dUptYVd0SGhXejlHclVxNGVoT0l4alJ3LUEwRUVNOWNUaHZhSXU2NW5vLWZyeXB1OTFpVXBCcE5aNXhqTi1MSURUbnRTTGtTUlBRdnU0SXhJ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE5ZYnNJSkFyYmlNaHJCdF9qWlBSN21xNFVpckFVektXN3FBaDBKSlFRLW1NTDExTjh5SVE0RXkzQzdvekJmR1JsZW5aRFpMTVRuTnNZbk9tTTdTQ05hS2dQVVl4dS1JMDhOREVoNGYzTkl2a3JzYXFHTEhMX1ZZRUZpUGg1QWtIVll5eU0zeGhQVHh4SzBoN2NYelhyYjR2WWlUTVhB?oc=5)
+
+---
+
+### [Psilocybin als Testfall für vorübergehend zugängliche Gehirnareale bei Alzheimer? - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUxWRWNnWXNLQmVPd21pMXhqT2dCbHRRMU5aVFhhS2J1OVh1Wnd1SWxVbXlWS2ZEcjRKRld0Z3p2YmVoQzlNbU5vY2xJS01xWVJXRWhTQnBnYVktbHpXcVR1Z1lZVXVGWmtSdU01M0tUYkYxZHdHdDg1VFo4eVk2MjNlMjhyMzdjQWozS1ZJUVplT0x3REZjTHk0M3pKdFozVnozVm1HcTdwbVdsdGxkd0FLUTI4UQ?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUxWRWNnWXNLQmVPd21pMXhqT2dCbHRRMU5aVFhhS2J1OVh1Wnd1SWxVbXlWS2ZEcjRKRld0Z3p2YmVoQzlNbU5vY2xJS01xWVJXRWhTQnBnYVktbHpXcVR1Z1lZVXVGWmtSdU01M0tUYkYxZHdHdDg1VFo4eVk2MjNlMjhyMzdjQWozS1ZJUVplT0x3REZjTHk0M3pKdFozVnozVm1HcTdwbVdsdGxkd0FLUTI4UQ?oc=5)
+
+---
+
+### [Ebola one month on: will the latest outbreak in DRC become the most deadly yet? - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
+
+---
+
+### [Laser scans could map build-up of microplastics inside the body - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVYwc05ObklxLW0zbmFjaU1KVXJodkFrOUI2dEF6S1ZiajI0OXRibkhWWGNHdHpNR1JaRjRYRDgxX3FqMEJtUDBBcE5HVXFydFhRcGdFSm1CZ3FJOTVZdXFoSFdRekYyX2xWWXJBbHBRZEQ2b3V3aEdiY2dBU3FCODdrUHZZREZ0TEt3cDBsU2FTdw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVYwc05ObklxLW0zbmFjaU1KVXJodkFrOUI2dEF6S1ZiajI0OXRibkhWWGNHdHpNR1JaRjRYRDgxX3FqMEJtUDBBcE5HVXFydFhRcGdFSm1CZ3FJOTVZdXFoSFdRekYyX2xWWXJBbHBRZEQ2b3V3aEdiY2dBU3FCODdrUHZZREZ0TEt3cDBsU2FTdw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [BALD ANMELDESCHLUSS: Nächster Online Diabetes-Kids Elterntreff am Donnerstag den 18. Jun.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
 
@@ -145,6 +145,14 @@ permalink: /news/diabetes-mellitus/
 2026-06-14
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVByczBtdml6YUV6VlA3N3d3RlZCZ3lXLVpBQloyM0VMYzFKc0xYTnZzSlVwRXdSOTFxZmxWTHN1MTV3SUxSMk5NWTE1NjRYZE50SHpEWU52SnVLTTRmRDJjMC1BbHhhY2hDNVZ2akpCOUZEUmROazRwcjA3N2lxVWdNQ0h3NmVqaUROZWFMV3N0UU5tS0JpSml6SHo3Wkluc2pQcWloZlRtdDU0d2dVZjVrMjFoQWE0aXg1WWxnRTlXSXlCRnpneTV0WlkySFNFNlhsMEpUYjcweENyY2c?oc=5)
+
+---
+
+### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+2026-06-14
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

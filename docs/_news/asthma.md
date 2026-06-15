@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthma 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [The Link Between Vitamin C And Brain Health Just Got Even Clearer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjhpZ2RDSXZ5WnliZ04wMXFmM0RiTXBUZ1FTSVNCSzlndXVOUllvZUI0ak1wU0xrSXJ6OW5icm1TY2FyaTN1QVNWOFluaUNnRTQ0YVZIMjNuSVE1eHQ4Qkxxc3NHYjA5TTNndGxVaEY1RlpLdVBjTUR1VUFzUDY2RmZSMDVaUWQ0WUtLaUI1eHotV3U0RDAwb1pB?oc=5)
+
+2026-06-15
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjhpZ2RDSXZ5WnliZ04wMXFmM0RiTXBUZ1FTSVNCSzlndXVOUllvZUI0ak1wU0xrSXJ6OW5icm1TY2FyaTN1QVNWOFluaUNnRTQ0YVZIMjNuSVE1eHQ4Qkxxc3NHYjA5TTNndGxVaEY1RlpLdVBjTUR1VUFzUDY2RmZSMDVaUWQ0WUtLaUI1eHotV3U0RDAwb1pB?oc=5)
+
+---
 
 ### [So wirksam ist Thymian bei Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
 

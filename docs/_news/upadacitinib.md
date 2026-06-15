@@ -54,11 +54,11 @@ permalink: /news/upadacitinib/
 
 ## 相關新聞（2 則）
 
-### [Rheumatoide Arthritis: Nicht alle DMARDs verbessern die Lebensqualität gleichermaßen - Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+### [The Link Between Vitamin C And Brain Health Just Got Even Clearer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjhpZ2RDSXZ5WnliZ04wMXFmM0RiTXBUZ1FTSVNCSzlndXVOUllvZUI0ak1wU0xrSXJ6OW5icm1TY2FyaTN1QVNWOFluaUNnRTQ0YVZIMjNuSVE1eHQ4Qkxxc3NHYjA5TTNndGxVaEY1RlpLdVBjTUR1VUFzUDY2RmZSMDVaUWQ0WUtLaUI1eHotV3U0RDAwb1pB?oc=5)
 
-2026-06-15 <span class="news-indication-tag">arthritis</span>
+2026-06-15 <span class="news-indication-tag">asma</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjhpZ2RDSXZ5WnliZ04wMXFmM0RiTXBUZ1FTSVNCSzlndXVOUllvZUI0ak1wU0xrSXJ6OW5icm1TY2FyaTN1QVNWOFluaUNnRTQ0YVZIMjNuSVE1eHQ4Qkxxc3NHYjA5TTNndGxVaEY1RlpLdVBjTUR1VUFzUDY2RmZSMDVaUWQ0WUtLaUI1eHotV3U0RDAwb1pB?oc=5)
 
 ---
 

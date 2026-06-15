@@ -70,14 +70,6 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Rheumatoide Arthritis: Nicht alle DMARDs verbessern die Lebensqualität gleichermaßen - Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
-
-2026-06-15 <span class="news-indication-tag">arthritis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
-
----
-
 ### [Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
 
 2026-06-15 <span class="news-indication-tag">diabetes</span>
@@ -91,6 +83,14 @@ permalink: /news/sacubitril/
 2026-06-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVByczBtdml6YUV6VlA3N3d3RlZCZ3lXLVpBQloyM0VMYzFKc0xYTnZzSlVwRXdSOTFxZmxWTHN1MTV3SUxSMk5NWTE1NjRYZE50SHpEWU52SnVLTTRmRDJjMC1BbHhhY2hDNVZ2akpCOUZEUmROazRwcjA3N2lxVWdNQ0h3NmVqaUROZWFMV3N0UU5tS0JpSml6SHo3Wkluc2pQcWloZlRtdDU0d2dVZjVrMjFoQWE0aXg1WWxnRTlXSXlCRnpneTV0WlkySFNFNlhsMEpUYjcweENyY2c?oc=5)
+
+---
+
+### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

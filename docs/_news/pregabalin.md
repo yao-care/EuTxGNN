@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Rheumatoide Arthritis: Nicht alle DMARDs verbessern die Lebensqualität gleichermaßen - Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
-
-2026-06-15 <span class="news-indication-tag">arthritis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Emicrania, il 17 giugno torna l’Open Day di Asst Bergamo Ovest - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVS1OeFVUdUNPdWJDVXlvVUhEQjU5eUJlZkk2NUdZa2lNRm00SW8wVllpZThwcGpQSTB0aFM4dnZfaU9rZWFCQ1R0bXJxR3Q0bDB4RzlwNTl3RE1xUEQ2U3c3aUtiV3dvNmk0cTFRSHVmR1dDekNBQ19VYnYxWDNKZFNYelFKVUpkeWdlV2QyVzZOSDN5OU8wQWU4VUFGZkdIVlZVMHFZRk80UENPSHF6NU5JRHhOVXNmeXJCM1ZqeFdjS1h2ek9Z?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Rheumatoide Arthritis: Nicht alle DMARDs verbessern die Lebensqualität gleichermaßen - Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+### [«Abbiamo creduto che un bicchiere di vino al giorno facesse bene ma gli esperti lanciano il nuovo allarme legato ai tumori» - Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
 
-2026-06-15 <span class="news-indication-tag">arthritis</span>
+2026-06-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/idarucizumab/
 2026-06-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
-
----
-
-### [L’alcol, pure poco, fa male: parola di ricerca scientifica - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
-
-2026-06-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
 
 ---
 

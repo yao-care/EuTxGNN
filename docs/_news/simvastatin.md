@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [Schlaganfall nach TAVI: Rückläufige Inzidenz, anhaltend hohe Mortalität - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2EwU2ExS0o4a0NJZ1F1VFJ4UjlNZ1pTSTE1MFBXWjdNVTFldHRlU0pBc19SQ3hnb3NuWFVUQWticndzcU0tbmRfTENmcDJDMTFCdGtzU3VjZ2xpSTBuVC12bEpIVTVROF8wTGdHd2tMWFl0S2UxNFNHV01CWjV0OFhCbm4wdmcxN3hoYlhvNzkxVU42ME1CQUs4anFwM0htQ25CenZUZjI1R2RJcS1DRw?oc=5)
 
 2026-06-15 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2EwU2ExS0o4a0NJZ1F1VFJ4UjlNZ1pTSTE1MFBXWjdNVTFldHRlU0pBc19SQ3hnb3NuWFVUQWticndzcU0tbmRfTENmcDJDMTFCdGtzU3VjZ2xpSTBuVC12bEpIVTVROF8wTGdHd2tMWFl0S2UxNFNHV01CWjV0OFhCbm4wdmcxN3hoYlhvNzkxVU42ME1CQUs4anFwM0htQ25CenZUZjI1R2RJcS1DRw?oc=5)
+
+---
+
+### [El escudo invisible de los estrógenos: un macroestudio confirma que la menopausia temprana dispara el riesgo de infarto e ictus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBaYmhWTHVVNkdvUUJnbEFnTTV1MWFRdkRJQjhCZlFERHFJOUcyajdzWDE2MTRFM0Y2bXZGMjU0WDFQcGI3UzBXczUtTXBWR09ySE5HQkgyTWNNMGc5Y1FRaWhhbkxHTVppOXZOOXAzRHFySXliMmtlUFVzel9WTE5jdmlUMEVCRWNEWEItS3U4YW95dGh0YlFNV0poNWN2NGtIenpmSmVidm9NUEtJNEc4UnY5MG0zVG5IN3NZNkJza2FrMkRMTThzbU5ReHpmQnNLTEtUcTBxRldS0gHiAUFVX3lxTE1iVW9vR25sY1hBZEQzX0Fab1p0SzBObDl4Z3JVR0ZOQ0xrbnNfODZwWW1uMU9hajFNMmg0X0R2VzJ2bDBab3FrdHZoUlBreXFmbnc0ZmgxQ3FwS2ExT2h6aGV0Q1k3TU5uMDhpVHlPdVNENi0ydndnM3FldXZUSFhzWEtfOGJmYktDWlNvalB6MXozeE9TZTlPcjAwN0psUGp5dWZzUk9mWXE2VUphS05JcjR4dDBaNkRQR1RqX3pFTS0xMnZOdWpTTVlQQ2VDRHk0dmZ1Y01xcXI0bHBWdm9WLWc?oc=5)
+
+2026-06-14 <span class="news-indication-tag">ictus</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBaYmhWTHVVNkdvUUJnbEFnTTV1MWFRdkRJQjhCZlFERHFJOUcyajdzWDE2MTRFM0Y2bXZGMjU0WDFQcGI3UzBXczUtTXBWR09ySE5HQkgyTWNNMGc5Y1FRaWhhbkxHTVppOXZOOXAzRHFySXliMmtlUFVzel9WTE5jdmlUMEVCRWNEWEItS3U4YW95dGh0YlFNV0poNWN2NGtIenpmSmVidm9NUEtJNEc4UnY5MG0zVG5IN3NZNkJza2FrMkRMTThzbU5ReHpmQnNLTEtUcTBxRldS0gHiAUFVX3lxTE1iVW9vR25sY1hBZEQzX0Fab1p0SzBObDl4Z3JVR0ZOQ0xrbnNfODZwWW1uMU9hajFNMmg0X0R2VzJ2bDBab3FrdHZoUlBreXFmbnc0ZmgxQ3FwS2ExT2h6aGV0Q1k3TU5uMDhpVHlPdVNENi0ydndnM3FldXZUSFhzWEtfOGJmYktDWlNvalB6MXozeE9TZTlPcjAwN0psUGp5dWZzUk9mWXE2VUphS05JcjR4dDBaNkRQR1RqX3pFTS0xMnZOdWpTTVlQQ2VDRHk0dmZ1Y01xcXI0bHBWdm9WLWc?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/simvastatin/
 2026-06-14 <span class="news-indication-tag">AVC</span>
 
 來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
+
+---
+
+### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

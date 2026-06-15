@@ -54,19 +54,19 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（8 則）
 
-### [¿Ozempic, Péptidos o Suplementos? La VERDAD sobre los FÁRMACOS para BAJAR de PESO | Sin Manual - Mundo UR](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdl96TGZUV2VHV0JLek5lSWkxSS1SbzlCQ1RCM0o2d3laTlJ1UFlrbW5jMHRKTWJtMGVwYWt4NldMajNWcTRab1ZVQ25GVlNUSXNTbDZVdzlSME4wMmxSVVMtVi1MM1BuYVg3eHNuVnJ2NFhjVURWOXFFOEhIczd5YXhlOVlDMC1QblNEVjl5MFQ1bktuTTFrQmdUUjZQR1pIQXoxTjV4X2w3R0MwUjJhc1VXZ00zbnVSQVBuQTBn?oc=5)
-
-2026-06-15 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Mundo UR](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdl96TGZUV2VHV0JLek5lSWkxSS1SbzlCQ1RCM0o2d3laTlJ1UFlrbW5jMHRKTWJtMGVwYWt4NldMajNWcTRab1ZVQ25GVlNUSXNTbDZVdzlSME4wMmxSVVMtVi1MM1BuYVg3eHNuVnJ2NFhjVURWOXFFOEhIczd5YXhlOVlDMC1QblNEVjl5MFQ1bktuTTFrQmdUUjZQR1pIQXoxTjV4X2w3R0MwUjJhc1VXZ00zbnVSQVBuQTBn?oc=5)
-
----
-
 ### [BALD ANMELDESCHLUSS: Nächster Online Diabetes-Kids Elterntreff am Donnerstag den 18. Jun.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
 
 2026-06-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
+
+---
+
+### [Remboursement de Mounjaro et Wegovy : les points à contrôler avant de facturer - Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlJuZDd4UWlLYjBSQmFvR1BtbjJGSDNtRndTLS1XWGIwYTU3eGJwNE5yYU5VU2ZpcWZacUg2enprbEM2Wkg3Z0pxNFJxbk10NWZOZDdoeDRwV3cwdXNoektWV0FYa3VRZ2NubnJlRmx2N3hja01mczJ6cGFfWjE0YW9pak5jbzlIVmxTd1JxT0FXV3hyTUtNMURNTVVFejVLYmw3dnk0aWJCVXluN1ZSczdVUExscEYta01LX3hJOUxsTnpsbVo1Qm9PRnlaMWp3NkU5bUN3QmR3Q3ZITHdNOHU3dw?oc=5)
+
+2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlJuZDd4UWlLYjBSQmFvR1BtbjJGSDNtRndTLS1XWGIwYTU3eGJwNE5yYU5VU2ZpcWZacUg2enprbEM2Wkg3Z0pxNFJxbk10NWZOZDdoeDRwV3cwdXNoektWV0FYa3VRZ2NubnJlRmx2N3hja01mczJ6cGFfWjE0YW9pak5jbzlIVmxTd1JxT0FXV3hyTUtNMURNTVVFejVLYmw3dnk0aWJCVXluN1ZSczdVUExscEYta01LX3hJOUxsTnpsbVo1Qm9PRnlaMWp3NkU5bUN3QmR3Q3ZITHdNOHU3dw?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Le remboursement des traitements anti-obésité Wegovy et Mounjaro, une équation complexe pour l’Assurance-maladie - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcG5JYVFLaWgyb0RtcGtJb1d0czlWbWtYeXNHQkRFd1FWc2hqWk9iZXA5eHpQUFpveTQ2UTZ5a1FaRF8taE55YV8zTk9FeFF4M1VnSVpHSnJkYmVnUF9YOThpUHY4ZzN5LUJVT1QwOFc3N2k1eWZHT3JsYjNFU2RELTlNYXlfc0VJRDVsSVB0MHB6bTlRbFJDdlRfNVVHMU5POGVXdFh3cGNqdVRCNG9JWFF1d2Fobi1GU3hBYmc4dWdNaWY5Z19fdWdxcVVBQzdxUUQ4Tng2Skl0ODJtRFVWOW9lU1BIVDFnUE44TmVmajNWeEE?oc=5)
+### [Los fármacos para adelgazar se disparan en España: ventas récord, pero los médicos lanzan una advertencia - Noticias Ciudadanas](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTVaaTYxd205UVdyek9CeGRDWERka3h3SE14SjJETms3WVZkVkNkaVFkbFIxS3NMMzNjak5Eby15LThyZU9RZlNSSl9XMER1OE5VSHJDRkFNYnRxVXlGZ3NPUm9CU2NQSnJxVVk0ZnFUR0dzNkFPQS1kVG52eUJrakZETFRoX010dHl6eGtnQVJ3QmxIOGx5MVBYdVNya0JPdkdzV3VTLXRWVGdoT0lwS3h3NE5SQ0RoSTlFVHFDY2hldGdwVGZEaXU4T3o1MVhL?oc=5)
 
-2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-06-15 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcG5JYVFLaWgyb0RtcGtJb1d0czlWbWtYeXNHQkRFd1FWc2hqWk9iZXA5eHpQUFpveTQ2UTZ5a1FaRF8taE55YV8zTk9FeFF4M1VnSVpHSnJkYmVnUF9YOThpUHY4ZzN5LUJVT1QwOFc3N2k1eWZHT3JsYjNFU2RELTlNYXlfc0VJRDVsSVB0MHB6bTlRbFJDdlRfNVVHMU5POGVXdFh3cGNqdVRCNG9JWFF1d2Fobi1GU3hBYmc4dWdNaWY5Z19fdWdxcVVBQzdxUUQ4Tng2Skl0ODJtRFVWOW9lU1BIVDFnUE44TmVmajNWeEE?oc=5)
+來源：[Noticias Ciudadanas](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTVaaTYxd205UVdyek9CeGRDWERka3h3SE14SjJETms3WVZkVkNkaVFkbFIxS3NMMzNjak5Eby15LThyZU9RZlNSSl9XMER1OE5VSHJDRkFNYnRxVXlGZ3NPUm9CU2NQSnJxVVk0ZnFUR0dzNkFPQS1kVG52eUJrakZETFRoX010dHl6eGtnQVJ3QmxIOGx5MVBYdVNya0JPdkdzV3VTLXRWVGdoT0lwS3h3NE5SQ0RoSTlFVHFDY2hldGdwVGZEaXU4T3o1MVhL?oc=5)
 
 ---
 
@@ -94,19 +94,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Los científicos identifican el fármaco que reduce la pérdida de masa muscular en los medicamentos para perder peso](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
-
-2026-06-14 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[SPORT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
-
----
-
 ### [Everything you need to know about sugar – from how much you should consume, to some of its 50 disguises - The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVByczBtdml6YUV6VlA3N3d3RlZCZ3lXLVpBQloyM0VMYzFKc0xYTnZzSlVwRXdSOTFxZmxWTHN1MTV3SUxSMk5NWTE1NjRYZE50SHpEWU52SnVLTTRmRDJjMC1BbHhhY2hDNVZ2akpCOUZEUmROazRwcjA3N2lxVWdNQ0h3NmVqaUROZWFMV3N0UU5tS0JpSml6SHo3Wkluc2pQcWloZlRtdDU0d2dVZjVrMjFoQWE0aXg1WWxnRTlXSXlCRnpneTV0WlkySFNFNlhsMEpUYjcweENyY2c?oc=5)
 
 2026-06-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVByczBtdml6YUV6VlA3N3d3RlZCZ3lXLVpBQloyM0VMYzFKc0xYTnZzSlVwRXdSOTFxZmxWTHN1MTV3SUxSMk5NWTE1NjRYZE50SHpEWU52SnVLTTRmRDJjMC1BbHhhY2hDNVZ2akpCOUZEUmROazRwcjA3N2lxVWdNQ0h3NmVqaUROZWFMV3N0UU5tS0JpSml6SHo3Wkluc2pQcWloZlRtdDU0d2dVZjVrMjFoQWE0aXg1WWxnRTlXSXlCRnpneTV0WlkySFNFNlhsMEpUYjcweENyY2c?oc=5)
+
+---
+
+### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

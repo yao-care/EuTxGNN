@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [«Abbiamo creduto che un bicchiere di vino al giorno facesse bene ma gli esperti lanciano il nuovo allarme legato ai tumori» - Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
+
+2026-06-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
+
+---
 
 ### [BALD ANMELDESCHLUSS: Nächster Online Diabetes-Kids Elterntreff am Donnerstag den 18. Jun.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
 
@@ -94,19 +102,19 @@ permalink: /news/natalizumab/
 
 ---
 
+### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+---
+
 ### [Relación entre diabetes y salud bucodental - Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
 
 2026-06-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
-
----
-
-### [L’alcol, pure poco, fa male: parola di ricerca scientifica - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
-
-2026-06-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
 
 ---
 

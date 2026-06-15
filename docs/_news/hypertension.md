@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [Möglicher Zusammenhang zwischen niedrigem Blutdruck und Alzheimer](https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWHNQN1lEM3B5cFp6c00zLVpYaWFPR2RjdTJpUWI5Z3kxV21ScEtKZVRQd2N0NGVzdTZjV0JyNG1lME04ZDVJcE5KcjdidzRTX2hsZlctRUFid2RKT1oydTFnYjF1RERKWEktdi15NXc?oc=5)
+### [Niedriger Blutdruck könnte mit Alzheimer zusammenhängen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
 
 2026-06-15
 
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWHNQN1lEM3B5cFp6c00zLVpYaWFPR2RjdTJpUWI5Z3kxV21ScEtKZVRQd2N0NGVzdTZjV0JyNG1lME04ZDVJcE5KcjdidzRTX2hsZlctRUFid2RKT1oydTFnYjF1RERKWEktdi15NXc?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
+
+---
+
+### [Vous prenez votre traitement contre l'hypertension le matin ? Ces chercheurs ont décalé la prise au coucher (et les résultats sont stupéfiants)](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
+
+2026-06-15
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
 
 ---
 
@@ -98,6 +106,14 @@ permalink: /news/hypertension/
 2026-06-15
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
+
+---
+
+### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+2026-06-14
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

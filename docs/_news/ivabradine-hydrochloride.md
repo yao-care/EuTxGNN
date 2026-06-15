@@ -14,7 +14,7 @@ permalink: /news/ivabradine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ivabradine Hydrochloride 有什麼相關新聞？">
-<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/ivabradine-hydrochloride/
 <p><a href="{{ '/drugs/ivabradine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（19 則）
 
-### [Reprogramación celular parcial para rejuvener células en glaucoma](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEFHNDFyUm1kM2JCazRmX3VsZHpCbzBxT2JSNGxOOTFOeGVKaEtsTnZYcE02N083alpqTFlNd2ZKR1hydnRmUXl5Z3kxejFNQmphVWpzdVYtYmtNMTBEZXJaNUNpRHZCcnhyTElBMXZvOWIzeVJvTktHdWtITzdWWDJqSk11dHhyVnhj?oc=5)
-
-2026-06-15 <span class="news-indication-tag">AF</span>
-
-來源：[Genotipia](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEFHNDFyUm1kM2JCazRmX3VsZHpCbzBxT2JSNGxOOTFOeGVKaEtsTnZYcE02N083alpqTFlNd2ZKR1hydnRmUXl5Z3kxejFNQmphVWpzdVYtYmtNMTBEZXJaNUNpRHZCcnhyTElBMXZvOWIzeVJvTktHdWtITzdWWDJqSk11dHhyVnhj?oc=5)
-
----
-
-### [Möglicher Zusammenhang zwischen niedrigem Blutdruck und Alzheimer](https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWHNQN1lEM3B5cFp6c00zLVpYaWFPR2RjdTJpUWI5Z3kxV21ScEtKZVRQd2N0NGVzdTZjV0JyNG1lME04ZDVJcE5KcjdidzRTX2hsZlctRUFid2RKT1oydTFnYjF1RERKWEktdi15NXc?oc=5)
+### [Niedriger Blutdruck könnte mit Alzheimer zusammenhängen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
 
 2026-06-15 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWHNQN1lEM3B5cFp6c00zLVpYaWFPR2RjdTJpUWI5Z3kxV21ScEtKZVRQd2N0NGVzdTZjV0JyNG1lME04ZDVJcE5KcjdidzRTX2hsZlctRUFid2RKT1oydTFnYjF1RERKWEktdi15NXc?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
+
+---
+
+### [Vous prenez votre traitement contre l'hypertension le matin ? Ces chercheurs ont décalé la prise au coucher (et les résultats sont stupéfiants)](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
+
+2026-06-15 <span class="news-indication-tag">hypertension</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
+
+---
+
+### [Alzheimer: Neue Antikörper und Bluttests beschleunigen Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
+
+---
+
+### [Acción precoz para evitar mayor carga futura por hígado graso temprano - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc0Tl9LVmQzUVRNZU4tQS1ESUNrVWJCR0EtZVJCQWVPZ3hQeVJwUnFRTjY4cF96bFRSM1U4MXEwNmtfeTNnRldWVXFWZGxtQW4xeFVSTTVSYzdRT20ydDJ2b2hVVWdvb2NERE5XajRaOXlUNGtTWllSUjQyazRNTzF0U3BmUTEzWUJGS0VvSzBaNVBfVWlGb0ZGeWpYMVE5TDA5ZFVQaVdOa2hvNXV4eFpiSlVnNTE5aUNqQ2h6dmFuYzlnd1HSAcYBQVVfeXFMUGV1eG42ekVUVlBYbFhOVkhYd2lTY1ltYTRXVzAwZGdWWFBPcDJRWk8zVldfbmp6UFdfVkhjNnZ4MW1QLTBjeWVkU1ltcEpXX3RLaUdtcGM5d1J5S2NGNnU5MmZ2alpla0dObWtWeGdPZ2dSV1hIME9ETE5LLWJ1dXp0a2xaQzdGZ3ZzVXhOX3RrYmp2NFZwaVpaeG1heEx5VmxpWm5RWUZMRDNqclg3VmwwWUFld2pwb0lxaEJsbnR3OEM3LTln?oc=5)
+
+2026-06-15 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc0Tl9LVmQzUVRNZU4tQS1ESUNrVWJCR0EtZVJCQWVPZ3hQeVJwUnFRTjY4cF96bFRSM1U4MXEwNmtfeTNnRldWVXFWZGxtQW4xeFVSTTVSYzdRT20ydDJ2b2hVVWdvb2NERE5XajRaOXlUNGtTWllSUjQyazRNTzF0U3BmUTEzWUJGS0VvSzBaNVBfVWlGb0ZGeWpYMVE5TDA5ZFVQaVdOa2hvNXV4eFpiSlVnNTE5aUNqQ2h6dmFuYzlnd1HSAcYBQVVfeXFMUGV1eG42ekVUVlBYbFhOVkhYd2lTY1ltYTRXVzAwZGdWWFBPcDJRWk8zVldfbmp6UFdfVkhjNnZ4MW1QLTBjeWVkU1ltcEpXX3RLaUdtcGM5d1J5S2NGNnU5MmZ2alpla0dObWtWeGdPZ2dSV1hIME9ETE5LLWJ1dXp0a2xaQzdGZ3ZzVXhOX3RrYmp2NFZwaVpaeG1heEx5VmxpWm5RWUZMRDNqclg3VmwwWUFld2pwb0lxaEJsbnR3OEM3LTln?oc=5)
 
 ---
 
@@ -86,35 +102,11 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Biologisches Alter: Bluttest verrät Alter von Zellen und sagt Krankheitsrisiko voraus - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMingFBVV95cUxNalVqSzlYeWhKV0lTN2Z0bGZqWkhUTGdIREVrRFFxZkxPQzlhVXB0dEJpakt6cmh6TF96VU1Qa3pXM0owczZDSy1iNWg2VWRGcmx4d1BnRzZ6SG9STC1oWUN4UkpocTVrTXN2ajdxcHVyUURvSzZaOUZGTWpXVG9pTHlGSWdVbVFSOE9GTUNfMVJhSVFsZGdDT1otMzZ5QQ?oc=5)
-
-2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMingFBVV95cUxNalVqSzlYeWhKV0lTN2Z0bGZqWkhUTGdIREVrRFFxZkxPQzlhVXB0dEJpakt6cmh6TF96VU1Qa3pXM0owczZDSy1iNWg2VWRGcmx4d1BnRzZ6SG9STC1oWUN4UkpocTVrTXN2ajdxcHVyUURvSzZaOUZGTWpXVG9pTHlGSWdVbVFSOE9GTUNfMVJhSVFsZGdDT1otMzZ5QQ?oc=5)
-
----
-
-### [La ONU alerta de que los recortes en la financiación amenazan con reactivar la epidemia de sida - Estrella Digital](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaXZPWFRMb2VhX1pnNXVFZEtRazZGRWJXcGtEeXlxWjd6OGhZX3NlUFc5bW1CbHR4ZHZ2ajJCanRFWmVITDlqYl9ZRzRfNFhMS3hVRGZnZ0E0a3UyT2hrWTViT1NvMzhBck1ZT0wzZXdRdmhnMkZGYU45TkhwYjVHX3lYVzVBeC1BeGRLSUY1UURFQVZRMGlmQjIxaXRXQ1hsanNfeTdrLVlxX3phbnNBX3EydG1MdkRaQm1ZaXJSQ1h6djZhRDZzQzN2cGVySXd1dEluY2dTc1I2dHoxTmfSAeMBQVVfeXFMTmxZVEg4cDJoZllxOUFac3VTYmJnRDNmY195MFJuTjJoZEo1alBuZzhEZXZrSktWOVE0ZjZyTWNaNGxBcE5EdmloRmhXVWtSVi1relJXc3lPa3EzTFVKRktmTWdOSkw1RVlDMzhzeWFSQVBfRldUV1BxUWRiWEl3QXgtZnBEV3d6QnRveFI5VXk4azhZbWxjb0pFXzVyTWlSU3BaV2tvWW96aW43ZEI1aGhydHVveWZheHZKYUUtcXdaM1RoQW5SQnAyNU81Sk9tQ3hSdmh5NWZMUmhta0V0dDVUUms?oc=5)
-
-2026-06-15 <span class="news-indication-tag">AF</span>
-
-來源：[Estrella Digital](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaXZPWFRMb2VhX1pnNXVFZEtRazZGRWJXcGtEeXlxWjd6OGhZX3NlUFc5bW1CbHR4ZHZ2ajJCanRFWmVITDlqYl9ZRzRfNFhMS3hVRGZnZ0E0a3UyT2hrWTViT1NvMzhBck1ZT0wzZXdRdmhnMkZGYU45TkhwYjVHX3lYVzVBeC1BeGRLSUY1UURFQVZRMGlmQjIxaXRXQ1hsanNfeTdrLVlxX3phbnNBX3EydG1MdkRaQm1ZaXJSQ1h6djZhRDZzQzN2cGVySXd1dEluY2dTc1I2dHoxTmfSAeMBQVVfeXFMTmxZVEg4cDJoZllxOUFac3VTYmJnRDNmY195MFJuTjJoZEo1alBuZzhEZXZrSktWOVE0ZjZyTWNaNGxBcE5EdmloRmhXVWtSVi1relJXc3lPa3EzTFVKRktmTWdOSkw1RVlDMzhzeWFSQVBfRldUV1BxUWRiWEl3QXgtZnBEV3d6QnRveFI5VXk4azhZbWxjb0pFXzVyTWlSU3BaV2tvWW96aW43ZEI1aGhydHVveWZheHZKYUUtcXdaM1RoQW5SQnAyNU81Sk9tQ3hSdmh5NWZMUmhta0V0dDVUUms?oc=5)
-
----
-
 ### [La hipertensión en personas frágiles se asocia a menor riesgo de demencia en análisis poblacional - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
 
 2026-06-15 <span class="news-indication-tag">hipertensión</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
-
----
-
-### [Cómo reconocernos en un cuerpo que no para de cambiar: las claves de ASISA WeLife Menopausia A Coruña - Noticias sobre cuerpo, mente y planeta | WeLife](https://news.google.com/rss/articles/CBMimwFBVV95cUxQelRTVF96ZEdva21Fb2VIZU55Q0JDSElnN0VGOTBFUmtfR3NRUko1MFVJNm9oSWpSbDZiZXlBVkttbVdtZFFEY2ZFc2hYVzJqSXFPY0JlWWppOG55U2huNkFqdjZSelFZT0w1a1FOWGdybUxGZ1NUOXNwcHRNanZ0RTNTY2tCUExMekE5NkpudGY5UUJ3X0MxRFZ5a9IBoAFBVV95cUxQNTl5dHRjaW9MdzRYQVhZZE9zaTUzdFJUbENobkdXMm1fbUx5a0dmbXdTd1oxYlFBa2pnNFNoNzJ4SklpQ2VOZmtXT25WV1lVSlhKZDdUUDJwOWVnWkc3bjVySlUwZm51NHpGLVAyY0k1OU5GTTV2MmlxekIxeGhSWGhxTnJ0UENtYzRRQ19oN1A0bW9VMnlNa0MxcXZPTDhW?oc=5)
-
-2026-06-15 <span class="news-indication-tag">AF</span>
-
-來源：[Noticias sobre cuerpo, mente y planeta | WeLife](https://news.google.com/rss/articles/CBMimwFBVV95cUxQelRTVF96ZEdva21Fb2VIZU55Q0JDSElnN0VGOTBFUmtfR3NRUko1MFVJNm9oSWpSbDZiZXlBVkttbVdtZFFEY2ZFc2hYVzJqSXFPY0JlWWppOG55U2huNkFqdjZSelFZT0w1a1FOWGdybUxGZ1NUOXNwcHRNanZ0RTNTY2tCUExMekE5NkpudGY5UUJ3X0MxRFZ5a9IBoAFBVV95cUxQNTl5dHRjaW9MdzRYQVhZZE9zaTUzdFJUbENobkdXMm1fbUx5a0dmbXdTd1oxYlFBa2pnNFNoNzJ4SklpQ2VOZmtXT25WV1lVSlhKZDdUUDJwOWVnWkc3bjVySlUwZm51NHpGLVAyY0k1OU5GTTV2MmlxekIxeGhSWGhxTnJ0UENtYzRRQ19oN1A0bW9VMnlNa0MxcXZPTDhW?oc=5)
 
 ---
 
@@ -142,22 +134,6 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Gabriel Rabinovich recibe una beca para investigar el cáncer de páncreas](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNE03TnVXdTB3ZzM2ZXQyeTFQWV93Z1I3eGtReW1PWjZyTTBhalBXOU9UZmUweERXMER0SFVCNjFvbmc0eFBUOEdWckNXWFVSbXFfSmU5SmJxb1N6dE5xTm5uUmlhRUhwRmJ0Y3ZtT01QMVptbS1Cc3lpREZMcE9fM3F3OWI0dTRyLVZDd3I4Wm5iNkpaOHhQVlRnOFlmbXhNbmtTY3o1azhfemI4amc?oc=5)
-
-2026-06-15 <span class="news-indication-tag">AF</span>
-
-來源：[infoperiodistas](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNE03TnVXdTB3ZzM2ZXQyeTFQWV93Z1I3eGtReW1PWjZyTTBhalBXOU9UZmUweERXMER0SFVCNjFvbmc0eFBUOEdWckNXWFVSbXFfSmU5SmJxb1N6dE5xTm5uUmlhRUhwRmJ0Y3ZtT01QMVptbS1Cc3lpREZMcE9fM3F3OWI0dTRyLVZDd3I4Wm5iNkpaOHhQVlRnOFlmbXhNbmtTY3o1azhfemI4amc?oc=5)
-
----
-
-### [Dormir poco, o demasiado, acelera el envejecimiento: este es el tiempo ideal de descanso nocturno](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0tZdmNrQ1pMWGFSblR3N29DcUZydl9mMTlHOGdzTWZOMVRuMEpSd2J0aGxNUEFsZU1WYUZaUEo2cDhGWWZYNlA1NXF2ZjA3ZXo2LXlHR1I2LTRpQkI1MTgxS0ZQLXNDbDcxZ3RqZzBWS1hTQjRWcUUybW94OEtRaklDMEV6RXg5RVpVUFM1R3hLMTl4ZU9Oak9VMVZMbGVYY1g3dFhtYmdQUdIBrwFBVV95cUxNUTVlUFNoSlRGODViQ2plbDFSN2ZHZzVKNGZOUnFZSVFGSVZxVFFPTDNsU3MtWXAxZDlOQnlkN0NFMEp1TDU5NkdKRjhHcmduT0c2bC1MOFZSbUVwUUd2dUptYVd0SGhXejlHclVxNGVoT0l4alJ3LUEwRUVNOWNUaHZhSXU2NW5vLWZyeXB1OTFpVXBCcE5aNXhqTi1MSURUbnRTTGtTUlBRdnU0SXhJ?oc=5)
-
-2026-06-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0tZdmNrQ1pMWGFSblR3N29DcUZydl9mMTlHOGdzTWZOMVRuMEpSd2J0aGxNUEFsZU1WYUZaUEo2cDhGWWZYNlA1NXF2ZjA3ZXo2LXlHR1I2LTRpQkI1MTgxS0ZQLXNDbDcxZ3RqZzBWS1hTQjRWcUUybW94OEtRaklDMEV6RXg5RVpVUFM1R3hLMTl4ZU9Oak9VMVZMbGVYY1g3dFhtYmdQUdIBrwFBVV95cUxNUTVlUFNoSlRGODViQ2plbDFSN2ZHZzVKNGZOUnFZSVFGSVZxVFFPTDNsU3MtWXAxZDlOQnlkN0NFMEp1TDU5NkdKRjhHcmduT0c2bC1MOFZSbUVwUUd2dUptYVd0SGhXejlHclVxNGVoT0l4alJ3LUEwRUVNOWNUaHZhSXU2NW5vLWZyeXB1OTFpVXBCcE5aNXhqTi1MSURUbnRTTGtTUlBRdnU0SXhJ?oc=5)
-
----
-
 ### [NHS staff battling wave of food supplement disinformation - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUZ3a0REMjFZRlNDbzdBWDRsc1hLbUlINHNldDhyTlNMRjkySjNMaXBhYWJMVGxRQzkwX0NQT3R4VGlJNEhBdW4tUTBuUlE5eEFPbWt5bV9LRWxRalB0Wll4WlZCYkdWTGpJSEx5SWlrM3A3M3Z1UWhFeUNqYUtwVTRsbU9FdUNzLUc5SzRjbFhlNHQwZk1IZEtGd2cwMFpFNXZVcnRPRDZrb1pVMy1CaE1hMU0zX3M?oc=5)
 
 2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -176,7 +152,7 @@ permalink: /news/ivabradine-hydrochloride/
 
 ### [Ebola one month on: will the latest outbreak in DRC become the most deadly yet? - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
 
-2026-06-14 <span class="news-indication-tag">AF</span>
+2026-06-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
 
@@ -206,6 +182,14 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
+### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
+
+---
+
 ### [Amy died at 19 after being given paracetamol & stretches for 'sciatica'… our heartache is we told her to trust doctors - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdDRWUzlsaWFKOWFsaXZSOUJIZDdJbXdpTlF1ZEg1VGI4MmVKNVhDbVQxRUpsaDNyemtucldsMTY1bE0zbzg5UjB1MDYwb0FWcnQxTG1kSkU1b3RmMmctWFF3MkJjdjBCWS1TWU9mQ2FhTWRpdjYyZVRYdUZ1WWY0N05jNXlsMUpPTl9BR2Z0bXBQN2ZqNmVhSHhZdWpsdEk?oc=5)
 
 2026-06-14 <span class="news-indication-tag">AF</span>
@@ -219,22 +203,6 @@ permalink: /news/ivabradine-hydrochloride/
 2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
-
----
-
-### [L’alcol, pure poco, fa male: parola di ricerca scientifica - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
-
-2026-06-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmNDVXFDMlhNNU1ybnNoNUR2cm5oRk56ZldocXYwVFhxbFZPR0lZU3daUnNjRmxnakRsNk9sWG93ZktBeEdIaWt6TEpqNXQydWozWVVMWnd3dE10cVhmVnhQZl9rc1VzTEVMdXJrd0RxSjFkXzVCXzV4Q09ucEVqWHZxWnFseFN5bzY4cjgxRWhESWVWMDNzNGVXeGpwdjV0Y1J0TV9yOS0yWm1nZEZNUjJwUHp2MGVGclFkTTk1Z21vTUFkaEE?oc=5)
-
----
-
-### [El colágeno no sería tan rígido como se creía y un hallazgo reescribe décadas de biología celular](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0tISzJxU2h6a3ZYSElYWTcyajNZSU1tU1YyOWRYVklpWEwyWFYtU0ZZaE5lSUlRdld1bDVWZm45aWF4UktiQTVEZWRLeHNNTjBIR3Q0MFVZdkhkWWNZbE9MSXIwSEZHblg1cTNkZTRvQVQtV1FOLXVQWkJkc2VmZlctY3FBS1ZBLXdPUFFMRExxYnMweW8tR2tBam5EQ3lUdUlPSEpEQkZ2dmIxeWdSTTBiSGJWTU9aeDNoVjkzcDVJSjFFTzNzaw?oc=5)
-
-2026-06-13 <span class="news-indication-tag">AF</span>
-
-來源：[AGENCIAFE](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0tISzJxU2h6a3ZYSElYWTcyajNZSU1tU1YyOWRYVklpWEwyWFYtU0ZZaE5lSUlRdld1bDVWZm45aWF4UktiQTVEZWRLeHNNTjBIR3Q0MFVZdkhkWWNZbE9MSXIwSEZHblg1cTNkZTRvQVQtV1FOLXVQWkJkc2VmZlctY3FBS1ZBLXdPUFFMRExxYnMweW8tR2tBam5EQ3lUdUlPSEpEQkZ2dmIxeWdSTTBiSGJWTU9aeDNoVjkzcDVJSjFFTzNzaw?oc=5)
 
 ---
 

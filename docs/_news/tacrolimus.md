@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Rheumatoide Arthritis: Nicht alle DMARDs verbessern die Lebensqualität gleichermaßen - Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
-
-2026-06-15 <span class="news-indication-tag">arthritis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0dTQ1RlZU9VdU03WThqYTJlcFYwQXdhdUNhSjNmTUUyWlNjaFlFaDZ4dzREVkxaUXNyaFJNSWdYYm5uaEN6U3Z1Q0M4Mkp1b090RmxkNXJoMlhaZjdwcjhuakRsYVB1MTV1aDVzLV9GTHBNU3YxWWFsWGRTaWpYSFpOb0p2VjhLcDAtSHE0bWNHQXY1c3BN?oc=5)
-
----
-
-### [Nierentransplantation: Bluttest steuert Tacrolimus-Dosis über TTV - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPN0FaRGpPdl94Q1dkNXBSM01pek4zVGRlWmEwWnhfZlVfTXA4NVRRYkxQSm96cUNSc2s4SnRaemhickhRbno2VkFyc3BwRVNlX1puT1E3VnhEM0wweFBOcTAxUmVzWlk1aFJBWmF1UGtJa3JwOGh2SDRuUTJxdHRqQ1RzZUVRNTlqNXliaUR0dU5YZXlmR1R0RXVwVlNyUQ?oc=5)
-
-2026-06-13 <span class="news-drug-tag">Tacrolimus</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPN0FaRGpPdl94Q1dkNXBSM01pek4zVGRlWmEwWnhfZlVfTXA4NVRRYkxQSm96cUNSc2s4SnRaemhickhRbno2VkFyc3BwRVNlX1puT1E3VnhEM0wweFBOcTAxUmVzWlk1aFJBWmF1UGtJa3JwOGh2SDRuUTJxdHRqQ1RzZUVRNTlqNXliaUR0dU5YZXlmR1R0RXVwVlNyUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
