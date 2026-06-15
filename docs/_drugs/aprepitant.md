@@ -1,132 +1,106 @@
 ---
 layout: default
 title: Aprepitant
-description: "Aprepitant drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 46
+parent: 僅模型預測 (L5)
+nav_order: 57
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Aprepitant
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Aprepitant: From Chemotherapy-Induced Nausea and Vomiting to Nephrogenic Syndrome of Inappropriate Antidiuresis
+
+## One-Sentence Summary
+
+Aprepitant is an NK1 (neurokinin 1) receptor antagonist approved in multiple countries for prevention of chemotherapy-induced nausea and vomiting (CINV) and post-operative nausea and vomiting (PONV).
+The TxGNN model's top prediction places it as a candidate for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)** with a score of 99.97%,
+however **zero clinical trials and zero publications** link Aprepitant to this condition, and no biologically plausible mechanism has been identified.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Aprepitant |
-| DrugBank ID | [DB00673](https://go.drugbank.com/drugs/DB00673) |
-| Brand Names (EU) | Emend |
+| Item | Content |
+|------|---------|
+| Original Indication | Prevention of chemotherapy-induced nausea and vomiting (CINV) |
+| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
+| TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.97% |
+| Taiwan Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Emend 40 mg hard capsules is indicated for the prevention of postoperative nausea and vomiting (PONV) in adults. Emend is also available as 80 mg and 125 mg hard capsules for the prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults and adolescents from the age of 12 (see separate Summary of Product Characteristics). Emend is also available as 165 mg hard capsules for the prevention of acute and delayed nausea and vomiting associated wit
+Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on known information, Aprepitant is an NK1 (neurokinin 1) receptor antagonist that selectively blocks substance P — a neuropeptide involved in the vomiting reflex, neurogenic inflammation, and pain sensitization. Its clinical efficacy in preventing acute and delayed chemotherapy-induced nausea and vomiting is well-established, and it holds marketing authorizations in the US, EU, and Japan, though it is not currently approved in Taiwan.
 
----
+NSIAD is a rare X-linked condition caused by constitutive gain-of-function mutations in the *AVPR2* gene encoding the V2 vasopressin receptor. This leads to unregulated water retention and persistent dilutional hyponatremia independent of circulating vasopressin levels. Critically, the NK1/substance P signaling pathway has no established biochemical crosstalk with the AVPR2/cAMP/aquaporin-2 (AQP2) axis that underlies this syndrome. There is no known mechanism by which blocking substance P would suppress constitutively active V2 receptor signaling or reduce pathological water reabsorption.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | nephrogenic syndrome of inappropriate antidiuresis | 99.97% | DL |
-| 2 | hypertrichosis (disease) | 99.91% | DL |
-| 3 | pulmonary hypertension | 99.90% | DL |
-| 4 | leprosy | 99.90% | DL |
-| 5 | Ambras type hypertrichosis universalis congenita | 99.87% | DL |
-| 6 | malformation syndrome with odontal and/or periodontal component | 99.86% | DL |
-| 7 | kyphoscoliotic heart disease | 99.86% | DL |
-| 8 | syndrome with a Dandy-Walker malformation as major feature | 99.86% | DL |
-| 9 | subarachnoid hemorrhage (disease) | 99.85% | DL |
-| 10 | isolated genetic hair shaft abnormality | 99.85% | DL |
-| 11 | persistent Mullerian duct syndrome | 99.63% | DL |
-| 12 | multiple endocrine neoplasia | 99.61% | DL |
-| 13 | nephrogenic diabetes insipidus | 99.47% | DL |
-| 14 | pulmonary hypertension, primary, autosomal recessive | 99.42% | DL |
-| 15 | obsolete patella aplasia, coxa vara, and tarsal synostosis | 99.39% | DL |
-| 16 | chromosome 17q23.1-q23.2 deletion syndrome | 99.28% | DL |
-| 17 | familial clubfoot due to 17q23.1q23.2 microduplication | 99.28% | DL |
-| 18 | acquired aneurysmal subarachnoid hemorrhage | 99.26% | DL |
-| 19 | coxopodopatellar syndrome | 99.24% | DL |
-| 20 | hypoalphalipoproteinemia | 99.19% | DL |
-
-*Showing top 20 of 50 predictions.*
+The high TxGNN score (99.97%) most likely reflects indirect topological proximity between Aprepitant-associated nodes and NSIAD-related disease nodes within the biomedical knowledge graph, rather than a true pharmacological relationship. Without a coherent mechanistic pathway and in the complete absence of clinical or preclinical supporting evidence, this prediction is not actionable at this stage.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
 ---
 
-## Citation
+## Conclusion and Next Steps
 
-If using this data, please cite:
+**Decision: Hold**
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Rationale:**
+The NK1/substance P pathway has no known interaction with the AVPR2/AQP2 axis responsible for NSIAD, making a pharmacological rationale absent; combined with zero supporting clinical or preclinical evidence, this prediction is not actionable.
+
+**To proceed, the following is needed:**
+- Retrieve Aprepitant's detailed MOA data from DrugBank (currently a blocking data gap) to formally complete the mechanistic analysis
+- Identify any basic science data — in vitro or animal models — demonstrating NK1 receptor involvement in AVPR2 activity or renal water handling before clinical translation can be considered
+- Obtain TFDA prescribing information (仿單) to complete the safety profile, currently flagged as a blocking gap
+- Consider prioritizing alternative TxGNN-predicted indications with stronger mechanistic rationale for further investigation:
+  - **Subarachnoid hemorrhage** (Rank 9): substance P is released into CSF after SAH and drives neurogenic edema and vasospasm — NK1 antagonism has conceptual support from animal models
+  - **Hypertrichosis** (Rank 2): NK1 receptors are functionally expressed in hair follicle dermal papilla and outer root sheath; substance P may influence anagen/catagen cycling
+
+> ⚠️ *This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.*
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

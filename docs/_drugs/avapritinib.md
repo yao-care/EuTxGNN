@@ -1,132 +1,122 @@
 ---
 layout: default
 title: Avapritinib
-description: "Avapritinib drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 58
+parent: 僅模型預測 (L5)
+nav_order: 69
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Avapritinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Avapritinib: From GIST / Systemic Mastocytosis to Axial Spondylometaphyseal Dysplasia
+
+> **Note:** Avapritinib carries no EU/Taiwan marketing authorization. Original indications referenced above are based on FDA approval status and contextual information within this Evidence Pack (repurposing_rationale identifies it as a PDGFRA/KIT inhibitor). EU regulatory data is unavailable.
+
+---
+
+## One-Sentence Summary
+
+Avapritinib is a selective KIT and PDGFRA receptor tyrosine kinase inhibitor, approved by the FDA for PDGFRA exon 18-mutant gastrointestinal stromal tumors (GIST) and indolent systemic mastocytosis, but holding no marketing authorization in the EU or Taiwan.
+The TxGNN model predicts it may have activity in **Axial Spondylometaphyseal Dysplasia**,
+however, **no clinical trials and no publications** currently support this direction — this remains a pure AI-derived prediction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Avapritinib |
-| DrugBank ID | [DB15233](https://go.drugbank.com/drugs/DB15233) |
-| Brand Names (EU) | Ayvakyt |
+| Item | Content |
+|------|---------|
+| Original Indication | Not registered in EU/Taiwan (FDA-approved: PDGFRA exon 18-mutant GIST; indolent systemic mastocytosis) |
+| Predicted New Indication | Axial Spondylometaphyseal Dysplasia |
+| TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.92% |
+| EU Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Unresectable or metastatic gastrointestinal stromal tumour (GIST) AYVAKYT is indicated as monotherapy for the treatment of adult patients with unresectable or metastatic gastrointestinal stromal tumours (GIST) harbouring the platelet-derived growth factor receptor alpha (PDGFRA) D842V mutation. Advanced systemic mastocytosis (AdvSM) AYVAKYT is indicated as monotherapy for the treatment of adult patients with aggressive systemic mastocytosis (ASM), systemic mastocytosis with an associated haemato
+Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on information embedded in the repurposing rationale, Avapritinib is a potent and selective inhibitor of KIT and PDGFRA — two receptor tyrosine kinases that, when constitutively activated by somatic mutations, drive diseases such as GIST and systemic mastocytosis.
 
----
+The theoretical mechanistic link to axial spondylometaphyseal dysplasia rests on one observation: PDGFRA is expressed in chondrocytes and plays a documented role in skeletal development. PDGFR signaling participates in endochondral ossification, meaning that modulating this pathway could, in principle, affect bone and cartilage biology.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | axial spondylometaphyseal dysplasia | 99.92% | DL |
-| 2 | bilateral parasagittal parieto-occipital polymicrogyria | 99.92% | DL |
-| 3 | amyotrophic lateral sclerosis | 99.92% | DL |
-| 4 | trichomegaly-retina pigmentary degeneration-dwarfism syndrome | 99.92% | DL |
-| 5 | amyotrophic lateral sclerosis, susceptibility to | 99.91% | DL |
-| 6 | amyotrohpic lateral sclerosis type 22 | 99.91% | DL |
-| 7 | lower motor neuron syndrome with late-adult onset | 99.91% | DL |
-| 8 | lethal arthrogryposis-anterior horn cell disease syndrome | 99.90% | DL |
-| 9 | monomelic amyotrophy | 99.89% | DL |
-| 10 | Mills syndrome | 99.89% | DL |
-| 11 | autosomal dominant mitochondrial myopathy with exercise intolerance | 99.89% | DL |
-| 12 | familial generalized lentiginosis | 99.87% | DL |
-| 13 | rhabdoid tumor | 99.86% | DL |
-| 14 | gastrocutaneous syndrome | 99.86% | DL |
-| 15 | acromelanosis | 99.84% | DL |
-| 16 | congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome | 99.84% | DL |
-| 17 | Moynahan syndrome | 99.84% | DL |
-| 18 | osteopathia striata-pigmentary dermopathy-white forelock syndrome | 99.83% | DL |
-| 19 | leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome | 99.82% | DL |
-| 20 | peripheral nerve schwannoma | 99.80% | DL |
-
-*Showing top 20 of 51 predictions.*
+However, axial spondylometaphyseal dysplasia is a **genetic developmental disorder** — a structural defect arising from germline mutations affecting bone formation during embryogenesis — rather than a disease driven by aberrant kinase activation. There is no known kinase-activating mechanism underlying this condition, and PDGFRA inhibition has no established or proposed therapeutic role in skeletal dysplasia. The mechanistic connection is considered extremely weak, and the high TxGNN score likely reflects a statistical graph-embedding association rather than a clinically actionable biological relationship.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Cytotoxicity
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Avapritinib is a targeted oncology agent (KIT/PDGFRA inhibitor) used in GIST and mastocytosis and meets the antineoplastic criterion for this section.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Targeted therapy — selective KIT/PDGFRA tyrosine kinase inhibitor (not conventional cytotoxic) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | CBC with differential, liver function tests, renal function; intracranial hemorrhage surveillance per SmPC |
+| Handling Protection | Follow institutional protocols for oral targeted therapy handling |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+*(All available safety fields — key warnings, contraindications, and drug–drug interactions — returned no data for this Evidence Pack. TFDA package insert data is identified as a blocking gap [DG001].)*
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This is a pure AI model prediction (L5) with zero supporting clinical trials or published literature, and the proposed mechanistic link — PDGFRA inhibition in a germline skeletal developmental disorder — is biologically implausible. No further development steps are justified until critical data gaps are resolved.
+
+**To proceed, the following is needed:**
+- Resolve DG001 (Blocking): Obtain EU SmPC / local package insert data to enable a safety pre-screen (S1 gate)
+- Resolve DG002 (High): Retrieve full MOA data from DrugBank API to confirm kinase target profile
+- Commission a targeted literature review on PDGFRA/KIT expression in axial spondylometaphyseal dysplasia and related skeletal dysplasias — absence of evidence must be confirmed, not assumed
+- Reassess against higher-ranked, biologically plausible candidates in this batch (e.g., Ranks 3/5/7: ALS-spectrum diseases with documented KIT+ mast cell neuroinflammation rationale) before allocating further resources to Rank 1
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

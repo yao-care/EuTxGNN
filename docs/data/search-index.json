@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-18",
-  "drug_count": 642,
-  "indication_count": 2389,
+  "generated": "2026-06-15",
+  "drug_count": 695,
+  "indication_count": 2451,
   "drugs": [
     {
       "name": "Abacavir",
@@ -113,6 +113,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Abacavir As Sulfate",
+      "slug": "abacavir_as_sulfate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Abaloparatide",
@@ -559,6 +567,22 @@
       ]
     },
     {
+      "name": "Abiraterone",
+      "slug": "abiraterone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Abiraterone Acetate",
+      "slug": "abiraterone_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Acalabrutinib",
       "slug": "acalabrutinib",
       "brands": [
@@ -668,6 +692,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Acalabrutinib Maleate",
+      "slug": "acalabrutinib_maleate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Acetylsalicylic Acid",
@@ -784,6 +816,14 @@
       ]
     },
     {
+      "name": "Acetylsalicylic Acid",
+      "slug": "acetylsalicylic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Aclidinium Bromide",
       "slug": "aclidinium-bromide",
       "brands": [
@@ -893,6 +933,73 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Aclidinium",
+      "slug": "aclidinium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Open-Angle Glaucoma | 89.36% | Hold | M3 antagonism opposes standard IOP-lowering mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Primary Hereditary Glaucoma | 88.95% | Hold | Same opposing mechanism; genetic pathology lacks LAMA target",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine Disorder | 86.15% | Hold | Headache is a known anticholinergic adverse effect",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine with Brainstem Aura | 85.36% | Hold | Inhaled route insufficient for CNS/brainstem penetration",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Irritable Bowel Syndrome | 84.56% | Research Question | Class effect plausible (M3 antispasmodics exist); primary barrier is rapid systemic hydrolysis (t½ < 1 hr) limiting GI exposure",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Headache Disorder | 83.48% | Hold | Only trial (NCT02165826) monitors headache as a COPD safety endpoint, not a therapeutic target",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Trigeminal Autonomic Cephalalgia | 82.74% | Hold | Inhaled route cannot target pterygopalatine ganglion; CGRP-based therapies more mechanistically direct",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Glaucoma 1, Open Angle | 79.57% | Hold | Duplicate of Rank 1 (OMIM reclassification); same concerns apply",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Gastroduodenitis | 79.52% | Hold | Systemic concentrations after inhalation insufficient for gastric M3 effect; standard therapies (PPI, H. pylori eradication) far superior",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Dermatitis | 79.28% | Hold | Only supporting evidence (PMID 23679347) is a COPD safety extension study — dermatitis appears as an adverse event, not a treatment target",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Aclidinium Bromide",
+      "slug": "aclidinium_bromide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Adalimumab",
@@ -1459,13 +1566,21 @@
       ]
     },
     {
+      "name": "Agalsidase Beta",
+      "slug": "agalsidase_beta",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Agomelatine",
       "slug": "agomelatine",
       "brands": [
         "Valdoxan"
       ],
       "original": "Treatment of major depressive episodes in adults.",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "anxiety disorder",
@@ -1681,6 +1796,14 @@
       ]
     },
     {
+      "name": "Albutrepenonacog Alfa",
+      "slug": "albutrepenonacog_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Alectinib Hydrochloride",
       "slug": "alectinib-hydrochloride",
       "brands": [
@@ -1790,6 +1913,22 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Alectinib",
+      "slug": "alectinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Alectinib Hydrochloride",
+      "slug": "alectinib_hydrochloride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Alemtuzumab",
@@ -2014,6 +2153,22 @@
       ]
     },
     {
+      "name": "Alendronic Acid",
+      "slug": "alendronic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Alendronic Acid As Sodium Trihydrate",
+      "slug": "alendronic_acid_as_sodium_trihydrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Alglucosidase Alfa",
       "slug": "alglucosidase-alfa",
       "brands": [
@@ -2123,6 +2278,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Alglucosidase Alfa",
+      "slug": "alglucosidase_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Alirocumab",
@@ -2242,7 +2405,7 @@
         "Rasilez"
       ],
       "original": "Treatment of essential hypertension.",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "hypertensive disorder",
@@ -2579,103 +2742,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "pulmonary arteriovenous malformation (disease)",
-          "score": 99.41,
+          "name": "Pulmonary Arteriovenous Malformation | 99.41% | 0 | 1 | L4 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pulmonary arterial hypertension associated with congenital heart disease",
-          "score": 99.37,
+          "name": "PAH / Congenital Heart Disease | 99.37% | 9 | 17 | L1 | Proceed with Guardrails",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pulmonary arterial hypertension",
-          "score": 99.37,
+          "name": "PAH / Chronic Hemolytic Anemia | 99.30% | 0 | 0 | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pulmonary arterial hypertension associated with schistosomiasis",
-          "score": 99.3,
+          "name": "PAH / HIV Infection | 99.30% | 1 | 4 | L1 | Proceed with Guardrails",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pulmonary arterial hypertension associated with HIV infection",
-          "score": 99.3,
+          "name": "PAH / Connective Tissue Disease | 99.30% | 3 | 19 | L2 | Proceed with Guardrails",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pulmonary arterial hypertension associated with chronic hemolytic anemia",
-          "score": 99.3,
+          "name": "PAH / Schistosomiasis | 99.30% | 0 | 0 | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pulmonary arterial hypertension associated with connective tissue disease",
-          "score": 99.3,
+          "name": "Malformation with Odontal/Periodontal Component | 99.19% | 0 | 20 ⚠️ | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "malformation syndrome with odontal and/or periodontal component",
-          "score": 99.19,
+          "name": "Hypotrichosis Simplex of the Scalp | 99.15% | 0 | 0 | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hypotrichosis simplex of the scalp",
-          "score": 99.15,
+          "name": "Hypertrichosis | 99.14% | 0 | 0 | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hypertrichosis (disease)",
-          "score": 99.14,
-          "level": "L5"
-        },
-        {
-          "name": "syndrome with a Dandy-Walker malformation as major feature",
-          "score": 99.12,
-          "level": "L5"
-        },
-        {
-          "name": "isolated genetic hair shaft abnormality",
-          "score": 99.04,
-          "level": "L5"
-        },
-        {
-          "name": "Ambras type hypertrichosis universalis congenita",
-          "score": 99.02,
-          "level": "L5"
-        },
-        {
-          "name": "congenital hypotrichosis milia",
-          "score": 98.77,
-          "level": "L5"
-        },
-        {
-          "name": "diffuse alopecia areata",
-          "score": 98.62,
-          "level": "L5"
-        },
-        {
-          "name": "alopecia",
-          "score": 96.98,
-          "level": "L5"
-        },
-        {
-          "name": "telangiectasia, hereditary hemorrhagic,",
-          "score": 95.48,
-          "level": "L5"
-        },
-        {
-          "name": "pulmonary hypertension, primary",
-          "score": 92.6,
-          "level": "L5"
-        },
-        {
-          "name": "genetic alopecia",
-          "score": 92.46,
-          "level": "L5"
-        },
-        {
-          "name": "obsolete patella aplasia, coxa vara, and tarsal synostosis",
-          "score": 92.4,
+          "name": "Dandy-Walker Malformation Syndrome | 99.12% | 0 | 0 | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -2792,6 +2905,22 @@
       ]
     },
     {
+      "name": "Amifampridine",
+      "slug": "amifampridine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Amifampridine Phosphate",
+      "slug": "amifampridine_phosphate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Amikacin Sulfate",
       "slug": "amikacin-sulfate",
       "brands": [
@@ -2901,6 +3030,22 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Amikacin",
+      "slug": "amikacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Amikacin Sulfate",
+      "slug": "amikacin_sulfate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Amlodipine",
@@ -3014,6 +3159,14 @@
       ]
     },
     {
+      "name": "Amlodipine As Amlodipine Besilate",
+      "slug": "amlodipine_as_amlodipine_besilate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Anagrelide",
       "slug": "anagrelide",
       "brands": [
@@ -3125,6 +3278,14 @@
       ]
     },
     {
+      "name": "Anagrelide Hydrochloride",
+      "slug": "anagrelide_hydrochloride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Anakinra",
       "slug": "anakinra",
       "brands": [
@@ -3134,103 +3295,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "extracutaneous mastocytoma",
-          "score": 99.93,
+          "name": "Extracutaneous mastocytoma | 99.93% | L5 | 0 | 0 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hepatic infarction",
-          "score": 99.89,
+          "name": "Hepatic infarction | 99.89% | L5 | 0 | 0 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "autosomal recessive familial Mediterranean fever",
-          "score": 99.89,
+          "name": "Autosomal recessive familial Mediterranean fever | 99.89% | **L3** | 0 | **20** | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "aggressive systemic mastocytosis",
-          "score": 99.88,
+          "name": "Aggressive systemic mastocytosis | 99.88% | L4 | 0 | 2 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hepatic veno-occlusive disease",
-          "score": 99.88,
+          "name": "Hepatic veno-occlusive disease | 99.88% | L5 | 0 | 0 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "peliosis hepatis",
-          "score": 99.85,
+          "name": "Peliosis hepatis | 99.85% | L5 | 0 | 0 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "oligoarticular juvenile idiopathic arthritis with anti-nuclear antibodies",
-          "score": 99.85,
+          "name": "Oligoarticular JIA with ANA | 99.85% | L4 | 0 | 1 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies",
-          "score": 99.85,
+          "name": "Oligoarticular JIA without ANA | 99.85% | L4 | 0 | 1 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pyogenic autoinflammatory syndrome",
-          "score": 99.83,
+          "name": "Pyogenic autoinflammatory syndrome | 99.83% | **L3** | 0 | **19** | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "unclassified autoinflammatory syndrome",
-          "score": 99.81,
-          "level": "L5"
-        },
-        {
-          "name": "granulomatous autoinflammatory syndrome",
-          "score": 99.78,
-          "level": "L5"
-        },
-        {
-          "name": "syndrome with combined immunodeficiency",
-          "score": 99.71,
-          "level": "L5"
-        },
-        {
-          "name": "liver angiosarcoma",
-          "score": 99.64,
-          "level": "L5"
-        },
-        {
-          "name": "mastocytosis",
-          "score": 99.63,
-          "level": "L5"
-        },
-        {
-          "name": "Kimura disease",
-          "score": 99.62,
-          "level": "L5"
-        },
-        {
-          "name": "indolent systemic mastocytosis",
-          "score": 99.61,
-          "level": "L5"
-        },
-        {
-          "name": "bilateral parasagittal parieto-occipital polymicrogyria",
-          "score": 99.59,
-          "level": "L5"
-        },
-        {
-          "name": "familial Mediterranean fever, autosomal dominant",
-          "score": 99.54,
-          "level": "L5"
-        },
-        {
-          "name": "hepatic veno-occlusive disease-immunodeficiency syndrome",
-          "score": 99.53,
-          "level": "L5"
-        },
-        {
-          "name": "amyotrophic lateral sclerosis",
-          "score": 99.53,
+          "name": "Unclassified autoinflammatory syndrome | 99.81% | **L3** | 0 | **2** | Research Question",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -3347,6 +3458,14 @@
       ]
     },
     {
+      "name": "Andexanet Alfa",
+      "slug": "andexanet_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Angiotensin Ii Acetate",
       "slug": "angiotensin-ii-acetate",
       "brands": [
@@ -3456,6 +3575,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Angiotensin Ii",
+      "slug": "angiotensin_ii",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Anidulafungin",
@@ -4348,6 +4475,14 @@
       ]
     },
     {
+      "name": "Arsenic Trioxide",
+      "slug": "arsenic_trioxide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Artenimol",
       "slug": "artenimol",
       "brands": [
@@ -4681,6 +4816,14 @@
       ]
     },
     {
+      "name": "Asenapine",
+      "slug": "asenapine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Asfotase Alfa",
       "slug": "asfotase-alfa",
       "brands": [
@@ -4790,6 +4933,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Asfotase Alfa",
+      "slug": "asfotase_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Atazanavir (As Sulfate)",
@@ -4903,112 +5054,70 @@
       ]
     },
     {
+      "name": "Atazanavir",
+      "slug": "atazanavir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Atezolizumab",
       "slug": "atezolizumab",
       "brands": [
         "Tecentriq"
       ],
       "original": "Urothelial carcinoma&nbsp;Tecentriq as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma (UC):  after prior platinum containing chem...",
-      "level": "L2",
+      "level": "L5",
       "indications": [
         {
-          "name": "prostatic urethra urothelial carcinoma",
-          "score": 99.98,
+          "name": "Prostatic Urethra Urothelial Carcinoma | 99.98% | L2 | Proceed with Guardrails",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "kidney pelvis sarcomatoid transitional cell carcinoma",
-          "score": 99.98,
+          "name": "Kidney Pelvis Sarcomatoid Transitional Cell Carcinoma | 99.98% | L4 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "infiltrating bladder urothelial carcinoma sarcomatoid variant",
-          "score": 99.98,
+          "name": "Infiltrating Bladder Urothelial Carcinoma Sarcomatoid Variant | 99.98% | L4 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "renal pelvis papillary urothelial carcinoma",
-          "score": 99.98,
+          "name": "Renal Pelvis Papillary Urothelial Carcinoma | 99.98% | L3 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "transitional cell carcinoma",
-          "score": 99.97,
+          "name": "Uterine Ligament Adenocarcinoma | 99.93% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "uterine ligament adenocarcinoma",
-          "score": 99.93,
+          "name": "Endocervical Carcinoma | 99.92% | L2 | Proceed with Guardrails",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "endocervical carcinoma",
-          "score": 99.92,
+          "name": "Adenoid Cystic Carcinoma of the Cervix Uteri | 99.92% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "adenoid cystic carcinoma of the cervix uteri",
-          "score": 99.92,
+          "name": "Uterine Ligament Serous Adenocarcinoma | 99.92% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "uterine ligament serous adenocarcinoma",
-          "score": 99.92,
+          "name": "Signet Ring Cell Variant Cervical Mucinous Adenocarcinoma | 99.91% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "signet ring cell variant cervical mucinous adenocarcinoma",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "intestinal variant cervical mucinous adenocarcinoma",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "uterine ligament mucinous adenocarcinoma",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "uterine ligament endometrioid adenocarcinoma",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "cervical adenosquamous carcinoma, glassy cell variant",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "endocervical type cervical mucinous adenocarcinoma",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "cervical mucinous adenocarcinoma, minimal deviation variant",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "uterine ligament clear cell adenocarcinoma",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "nasopharyngeal teratoma",
-          "score": 99.86,
-          "level": "L5"
-        },
-        {
-          "name": "odontogenic cyst",
-          "score": 99.86,
-          "level": "L5"
-        },
-        {
-          "name": "epiglottis neoplasm",
-          "score": 99.86,
+          "name": "Intestinal Variant Cervical Mucinous Adenocarcinoma | 99.91% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -5125,6 +5234,14 @@
       ]
     },
     {
+      "name": "Atosiban",
+      "slug": "atosiban",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Atropine Sulfate",
       "slug": "atropine-sulfate",
       "brands": [
@@ -5236,6 +5353,14 @@
       ]
     },
     {
+      "name": "Atropine",
+      "slug": "atropine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Avanafil",
       "slug": "avanafil",
       "brands": [
@@ -5245,103 +5370,48 @@
       "level": "L5",
       "indications": [
         {
-          "name": "amenorrhea (disease)",
-          "score": 94.59,
+          "name": "Amenorrhea | 94.59% | L5 | Hold | Weak — indirect KG path via reproductive vasculature",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "erectile dysfunction (disease)",
-          "score": 93.42,
+          "name": "Hypoalphalipoproteinemia | 91.54% | L5 | Hold | Weak — no direct mechanistic link to HDL",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hypoalphalipoproteinemia",
-          "score": 91.54,
+          "name": "Infectious bovine rhinotracheitis | 90.62% | L5 | Hold | ⚠️ Veterinary disease — KG cross-species noise",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "infectious bovine rhinotracheitis",
-          "score": 90.62,
+          "name": "Malignant catarrh | 90.62% | L5 | Hold | ⚠️ Veterinary disease — KG batch-scoring noise",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "malignant catarrh",
-          "score": 90.62,
+          "name": "Ambras hypertrichosis universalis congenita | 87.79% | L5 | Hold | Weak — monogenic developmental disorder, no PDE5 rationale",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Raynaud disease",
-          "score": 88.54,
+          "name": "Ischemic stroke susceptibility *(obsolete)* | 87.28% | L5 | Hold | ⚠️ Deprecated ontology node — consider mapping to ischemic stroke",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Ambras type hypertrichosis universalis congenita",
-          "score": 87.79,
+          "name": "Malformation w/ periodontal component | 80.46% | L5 | Hold | ⚠️ 20 literature hits are irrelevant periodontology background",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "obsolete susceptibility to ischemic stroke",
-          "score": 87.28,
+          "name": "Stroke disorder | 79.21% | L5 | Hold | Weak — overlaps with #7; preclinical signal only",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "malformation syndrome with odontal and/or periodontal component",
-          "score": 80.46,
-          "level": "L5"
-        },
-        {
-          "name": "stroke disorder",
-          "score": 79.21,
-          "level": "L5"
-        },
-        {
-          "name": "adrenal gland hyperfunction",
-          "score": 79.06,
-          "level": "L5"
-        },
-        {
-          "name": "cytomegalovirus infection",
-          "score": 77.76,
-          "level": "L5"
-        },
-        {
-          "name": "syndrome with a Dandy-Walker malformation as major feature",
-          "score": 77.38,
-          "level": "L5"
-        },
-        {
-          "name": "duodenogastric reflux",
-          "score": 77.26,
-          "level": "L5"
-        },
-        {
-          "name": "isolated genetic hair shaft abnormality",
-          "score": 76.89,
-          "level": "L5"
-        },
-        {
-          "name": "duodenal obstruction",
-          "score": 75.85,
-          "level": "L5"
-        },
-        {
-          "name": "ABri amyloidosis",
-          "score": 75.06,
-          "level": "L5"
-        },
-        {
-          "name": "tinea manuum",
-          "score": 73.92,
-          "level": "L5"
-        },
-        {
-          "name": "hypercarotenemia and vitamin A deficiency, autosomal recessive",
-          "score": 72.34,
-          "level": "L5"
-        },
-        {
-          "name": "hypertrichosis (disease)",
-          "score": 71.47,
+          "name": "Adrenal gland hyperfunction | 79.06% | L5 | Hold | Weak — no known PDE5–adrenal cortex mechanistic link",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -5569,6 +5639,14 @@
       ]
     },
     {
+      "name": "Avatrombopag",
+      "slug": "avatrombopag",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Avelumab",
       "slug": "avelumab",
       "brands": [
@@ -5578,103 +5656,48 @@
       "level": "L5",
       "indications": [
         {
-          "name": "human herpesvirus 8-related tumor",
-          "score": 99.97,
+          "name": "Human Herpesvirus 8-Related Tumor | 99.97% | L4 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "middle ear neuroendocrine tumor",
-          "score": 99.97,
+          "name": "Middle Ear Neuroendocrine Tumor | 99.97% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "malignant cutaneous granular cell skin tumor",
-          "score": 99.97,
+          "name": "Malignant Cutaneous Granular Cell Skin Tumor | 99.97% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "ectomesenchymoma",
-          "score": 99.97,
+          "name": "Ectomesenchymoma | 99.97% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "adenosine deaminase deficiency",
-          "score": 99.95,
+          "name": "Adenosine Deaminase Deficiency | 99.95% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "reticular dysgenesis",
-          "score": 99.94,
+          "name": "Reticular Dysgenesis | 99.94% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Immunoerythromyeloid hypoplasia",
-          "score": 99.94,
+          "name": "Immunoerythromyeloid Hypoplasia | 99.94% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "non-severe combined immunodeficiency",
-          "score": 99.92,
+          "name": "Non-Severe Combined Immunodeficiency | 99.92% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "prostatic urethra urothelial carcinoma",
-          "score": 99.92,
-          "level": "L5"
-        },
-        {
-          "name": "kidney pelvis sarcomatoid transitional cell carcinoma",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "infiltrating bladder urothelial carcinoma sarcomatoid variant",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "renal pelvis papillary urothelial carcinoma",
-          "score": 99.91,
-          "level": "L5"
-        },
-        {
-          "name": "lung fibrosis-immunodeficiency-46,XX gonadal dysgenesis syndrome",
-          "score": 99.9,
-          "level": "L5"
-        },
-        {
-          "name": "severe combined immunodeficiency due to LCK deficiency",
-          "score": 99.9,
-          "level": "L5"
-        },
-        {
-          "name": "T-B+ severe combined immunodeficiency due to gamma chain deficiency",
-          "score": 99.89,
-          "level": "L5"
-        },
-        {
-          "name": "T-B+ severe combined immunodeficiency due to CD45 deficiency",
-          "score": 99.88,
-          "level": "L5"
-        },
-        {
-          "name": "severe combined immunodeficiency (disease)",
-          "score": 99.87,
-          "level": "L5"
-        },
-        {
-          "name": "combined immunodeficiency, X-linked",
-          "score": 99.87,
-          "level": "L5"
-        },
-        {
-          "name": "glottis verrucous carcinoma",
-          "score": 99.85,
-          "level": "L5"
-        },
-        {
-          "name": "severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive",
-          "score": 99.85,
+          "name": "Kidney Pelvis Sarcomatoid Transitional Cell Carcinoma | 99.91% | L4 | Research Question",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -5686,7 +5709,7 @@
         "Avibactam"
       ],
       "original": "Emblaveo is indicated for the treatment of the following infections in adult patients (see sections 4.4 and 5.1):• Complicated intra-abdominal infection (cIAI)• Hospital-acquired pneumonia (HAP), incl...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "pyelonephritis",
@@ -5900,6 +5923,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Axicabtagene Ciloleucel",
+      "slug": "axicabtagene_ciloleucel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Axitinib",
@@ -6131,7 +6162,7 @@
         "Jayempi"
       ],
       "original": "Jayempi is indicated in combination with other immunosuppressive agents for the prophylaxis of transplant rejection in patients receiving allogenic kidney, liver, heart, lung or pancreas transplants. ...",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "rheumatoid arthritis",
@@ -6345,6 +6376,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Azilsartan Medoxomil",
+      "slug": "azilsartan_medoxomil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Aztreonam",
@@ -6570,6 +6609,14 @@
       ]
     },
     {
+      "name": "Baloxavir Marboxil",
+      "slug": "baloxavir_marboxil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Baricitinib",
       "slug": "baricitinib",
       "brands": [
@@ -6579,103 +6626,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "rheumatoid arthritis",
-          "score": 99.97,
+          "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.94% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-          "score": 99.94,
+          "name": "Brachydactyly-syndactyly syndrome | 99.94% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "brachydactyly-syndactyly syndrome",
-          "score": 99.94,
+          "name": "Indolent plasma cell myeloma | 93.31% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "indolent plasma cell myeloma",
-          "score": 93.31,
+          "name": "WHIM syndrome | 93.12% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "WHIM syndrome",
-          "score": 93.12,
+          "name": "Plasma cell myeloma | 91.83% | L4 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "plasma cell myeloma",
-          "score": 91.83,
+          "name": "**Myeloid leukemia** | **91.01%** | **L3** | **Research Question**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "myeloid leukemia",
-          "score": 91.01,
+          "name": "Meester-Loeys syndrome | 88.21% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Meester-Loeys syndrome",
-          "score": 88.21,
+          "name": "Ganglioneuroblastoma | 87.59% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "ganglioneuroblastoma (disease)",
-          "score": 87.59,
+          "name": "Heparin cofactor 2 deficiency | 86.31% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "heparin cofactor 2 deficiency",
-          "score": 86.31,
-          "level": "L5"
-        },
-        {
-          "name": "vertebral anomalies and variable endocrine and T-cell dysfunction",
-          "score": 84.68,
-          "level": "L5"
-        },
-        {
-          "name": "retroperitoneal neoplasm",
-          "score": 84.34,
-          "level": "L5"
-        },
-        {
-          "name": "osteoarthritis susceptibility",
-          "score": 83.87,
-          "level": "L5"
-        },
-        {
-          "name": "factor 5 excess with spontaneous thrombosis",
-          "score": 82.8,
-          "level": "L5"
-        },
-        {
-          "name": "antithrombin deficiency type 2",
-          "score": 81.73,
-          "level": "L5"
-        },
-        {
-          "name": "stroke disorder",
-          "score": 79.21,
-          "level": "L5"
-        },
-        {
-          "name": "neuroblastoma",
-          "score": 79.17,
-          "level": "L5"
-        },
-        {
-          "name": "amyotrohpic lateral sclerosis type 22",
-          "score": 77.92,
-          "level": "L5"
-        },
-        {
-          "name": "amyotrophic lateral sclerosis, susceptibility to",
-          "score": 77.39,
-          "level": "L5"
-        },
-        {
-          "name": "amyotrophic lateral sclerosis",
-          "score": 74.66,
+          "name": "Vertebral anomalies and variable endocrine and T-cell dysfunction | 84.68% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -7014,6 +7011,14 @@
       ]
     },
     {
+      "name": "Bedaquiline",
+      "slug": "bedaquiline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Belatacept",
       "slug": "belatacept",
       "brands": [
@@ -7345,6 +7350,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Bempedoic Acid",
+      "slug": "bempedoic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Benralizumab",
@@ -8022,7 +8035,7 @@
         "Lumigan"
       ],
       "original": "Reduction of elevated intraocular pressure in chronic open-angle glaucoma and ocular hypertension (as monotherapy or as adjunctive therapy to beta-blockers).",
-      "level": "L2",
+      "level": "L5",
       "indications": [
         {
           "name": "hypertrichosis (disease)",
@@ -8358,103 +8371,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "primary release disorder of platelets",
-          "score": 95.2,
+          "name": "Primary release disorder of platelets | 95.20% | L5 | Hold | None — B-cell depletion is unrelated to platelet granule secretion; adverse thrombocytopenia risk",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Glanzmann thrombasthenia",
-          "score": 95.02,
+          "name": "Glanzmann thrombasthenia | 95.02% | L5 | Hold | None — ITGA2B/ITGB3 genetic defect; no B-cell mechanism",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pseudo-von Willebrand disease",
-          "score": 94.13,
+          "name": "Pseudo-von Willebrand disease | 94.13% | L5 | Hold | None — GPIbα gain-of-function mutation; no B-cell link",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "drug-induced osteoporosis",
-          "score": 92.7,
+          "name": "Drug-induced osteoporosis | 92.70% | L4 | Research Question | Indirect: blinatumomab may reduce cumulative steroid exposure in ALL treatment, potentially reducing bone loss as a secondary outcome",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "severe nonproliferative diabetic retinopathy",
-          "score": 89.25,
+          "name": "Severe nonproliferative diabetic retinopathy | 89.25% | L5 | Hold | No established B-cell pathway in DR pathology",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "psoriasis",
-          "score": 88.92,
+          "name": "Psoriasis | 88.92% | L5 | Hold | Theoretical risk of worsening via T-cell over-activation; prior B-cell depletion (rituximab) has inconsistent benefit in psoriasis",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Ledderhose disease",
-          "score": 88.41,
+          "name": "Ledderhose disease | 88.41% | L5 | Hold | TGF-β/myofibroblast fibrosis; no B-cell connection",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hemorrhagic disorder due to a constitutional thrombocytopenia",
-          "score": 87.88,
+          "name": "Hemorrhagic disorder due to constitutional thrombocytopenia | 87.88% | L5 | Hold | Genetic platelet deficit; drug-induced thrombocytopenia risk outweighs benefit",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "penile fibromatosis",
-          "score": 87.8,
+          "name": "Penile fibromatosis (Peyronie's disease) | 87.80% | L5 | Hold | TGF-β1 collagen fibrosis; no B-cell mechanism",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "bleeding diathesis due to a collagen receptor defect",
-          "score": 87.72,
-          "level": "L5"
-        },
-        {
-          "name": "infantile digital fibromatosis",
-          "score": 87.27,
-          "level": "L5"
-        },
-        {
-          "name": "bronchitis",
-          "score": 87.23,
-          "level": "L5"
-        },
-        {
-          "name": "fetal and neonatal alloimmune thrombocytopenia",
-          "score": 87.21,
-          "level": "L5"
-        },
-        {
-          "name": "palmar fibromatosis",
-          "score": 87.03,
-          "level": "L5"
-        },
-        {
-          "name": "indolent plasma cell myeloma",
-          "score": 86.58,
-          "level": "L5"
-        },
-        {
-          "name": "plasma cell myeloma",
-          "score": 86.48,
-          "level": "L5"
-        },
-        {
-          "name": "HER2 positive breast carcinoma",
-          "score": 86.19,
-          "level": "L5"
-        },
-        {
-          "name": "Scott syndrome",
-          "score": 85.64,
-          "level": "L5"
-        },
-        {
-          "name": "pityriasis lichenoides",
-          "score": 85.56,
-          "level": "L5"
-        },
-        {
-          "name": "inherited thrombophilia",
-          "score": 85.17,
+          "name": "Bleeding diathesis due to collagen receptor defect | 87.72% | L5 | Hold | GPVI/α2β1 genetic platelet activation defect; no immunological mechanism",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -8682,6 +8645,14 @@
       ]
     },
     {
+      "name": "Bosentan",
+      "slug": "bosentan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Bosutinib (As Monohydrate)",
       "slug": "bosutinib-as-monohydrate",
       "brands": [
@@ -8791,6 +8762,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Bosutinib",
+      "slug": "bosutinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Botulinum Toxin Type A",
@@ -8904,6 +8883,14 @@
       ]
     },
     {
+      "name": "Botulinum Toxin Type A",
+      "slug": "botulinum_toxin_type_a",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Brentuximab Vedotin",
       "slug": "brentuximab-vedotin",
       "brands": [
@@ -9013,6 +9000,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Brentuximab Vedotin",
+      "slug": "brentuximab_vedotin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Brexpiprazole",
@@ -9346,6 +9341,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Brimonidine",
+      "slug": "brimonidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Brinzolamide",
@@ -9690,103 +9693,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
-          "score": 99.67,
+          "name": "Mitochondrial oxidative phosphorylation disorder (nuclear DNA) | 99.67% | Extremely low — no known VEGF role in mitochondrial respiratory chain | ✗",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "esophageal varices without bleeding",
-          "score": 99.12,
+          "name": "Esophageal varices without bleeding | 99.12% | Low — systemic anti-VEGF rationale theoretically exists, but intravitreal route cannot reach portal vasculature | ✗",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "esophageal varices with bleeding",
-          "score": 99.12,
+          "name": "Esophageal varices with bleeding | 99.12% | Low — same as above; acute hemorrhage context makes this additionally unsafe | ✗",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "exocrine pancreatic insufficiency",
-          "score": 99.07,
+          "name": "Exocrine pancreatic insufficiency | 99.07% | None — VEGF-A has no established role in exocrine enzyme secretion | ✗",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "MRCS syndrome",
-          "score": 98.54,
+          "name": "MRCS syndrome | 98.54% | Very low — retinal component present, but atrophic rather than neovascular; no VEGF driver | Partial",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pigmented paravenous retinochoroidal atrophy",
-          "score": 98.33,
+          "name": "Pigmented paravenous retinochoroidal atrophy (PPRA) | 98.33% | Low-moderate — same ocular tissue and delivery route; VEGF overexpression not established in PPRA | ✓",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "familial flecked retinopathy",
-          "score": 97.9,
+          "name": "Familial flecked retinopathy | 97.90% | Low — genetic/degenerative photoreceptor disease (e.g., ABCA4 mutations), not neovascular | ✓",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "ectopia lentis-chorioretinal dystrophy-myopia syndrome",
-          "score": 97.82,
+          "name": "Ectopia lentis-chorioretinal dystrophy-myopia syndrome | 97.82% | Moderate if choroidal neovascularization (CNV) is present — myopic CNV is an established anti-VEGF target | ✓",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "retinal dystrophy in systemic or cerebroretinal lipidoses",
-          "score": 97.73,
+          "name": "Retinal dystrophy in systemic or cerebroretinal lipidoses | 97.73% | Very low — lysosomal storage disorder; retinal degeneration is secondary and VEGF-independent | ✓",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "senile reticular retinal degeneration",
-          "score": 97.71,
-          "level": "L5"
-        },
-        {
-          "name": "Blessig's cysts",
-          "score": 97.71,
-          "level": "L5"
-        },
-        {
-          "name": "pseudoretinitis pigmentosa",
-          "score": 97.71,
-          "level": "L5"
-        },
-        {
-          "name": "cone dystrophy",
-          "score": 97.68,
-          "level": "L5"
-        },
-        {
-          "name": "genetic macular dystrophy",
-          "score": 97.58,
-          "level": "L5"
-        },
-        {
-          "name": "X-linked retinal dysplasia",
-          "score": 97.46,
-          "level": "L5"
-        },
-        {
-          "name": "progressive bifocal chorioretinal atrophy",
-          "score": 97.45,
-          "level": "L5"
-        },
-        {
-          "name": "varicose disease",
-          "score": 97.38,
-          "level": "L5"
-        },
-        {
-          "name": "retinal drusen",
-          "score": 97.36,
-          "level": "L5"
-        },
-        {
-          "name": "macular degeneration",
-          "score": 97.34,
-          "level": "L5"
-        },
-        {
-          "name": "retinoschisis",
-          "score": 97.3,
+          "name": "Senile reticular retinal degeneration | 97.71% | Moderate — AMD-related phenotype (reticular pseudodrusen); closest to the approved indication; however, if purely dry-form, anti-VEGF benefit is unproven | ✓",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -10132,7 +10085,7 @@
         "Bupropion"
       ],
       "original": "",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "attention deficit-hyperactivity disorder",
@@ -33006,6 +32959,62 @@
       ]
     },
     {
+      "name": "Insulin Aspart",
+      "slug": "insulin_aspart",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Degludec",
+      "slug": "insulin_degludec",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Detemir",
+      "slug": "insulin_detemir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Glargine",
+      "slug": "insulin_glargine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Glulisine",
+      "slug": "insulin_glulisine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Human",
+      "slug": "insulin_human",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Lispro",
+      "slug": "insulin_lispro",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Interferon Beta-1A",
       "slug": "interferon-beta-1a",
       "brands": [
@@ -33228,6 +33237,22 @@
       ]
     },
     {
+      "name": "Interferon Beta-1A",
+      "slug": "interferon_beta-1a",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Interferon Beta-1B",
+      "slug": "interferon_beta-1b",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Ipilimumab",
       "slug": "ipilimumab",
       "brands": [
@@ -33448,6 +33473,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Irbesartan Hydrochloride",
+      "slug": "irbesartan_hydrochloride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Isatuximab",
@@ -33783,6 +33816,22 @@
       ]
     },
     {
+      "name": "Ivabradine",
+      "slug": "ivabradine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ivabradine Hydrochloride",
+      "slug": "ivabradine_hydrochloride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Ivacaftor",
       "slug": "ivacaftor",
       "brands": [
@@ -34114,6 +34163,22 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Ixazomib",
+      "slug": "ixazomib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ixazomib Citrate",
+      "slug": "ixazomib_citrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Ixekizumab",
@@ -70534,6 +70599,17 @@
   ],
   "indications": [
     {
+      "name": "**Myeloid leukemia** | **91.01%** | **L3** | **Research Question**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "14q12 microdeletion syndrome",
       "drug_count": 5,
       "drugs": [
@@ -70826,7 +70902,7 @@
     },
     {
       "name": "ABri amyloidosis",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Telmisartan",
@@ -71047,6 +71123,39 @@
       ]
     },
     {
+      "name": "Adenoid Cystic Carcinoma of the Cervix Uteri | 99.92% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Adenosine Deaminase Deficiency | 99.95% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avelumab",
+          "slug": "avelumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Adrenal gland hyperfunction | 79.06% | L5 | Hold | Weak — no known PDE5–adrenal cortex mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "African iron overload",
       "drug_count": 1,
       "drugs": [
@@ -71054,6 +71163,17 @@
           "drug": "Mycophenolate Mofetil",
           "slug": "mycophenolate-mofetil",
           "score": 99.36
+        }
+      ]
+    },
+    {
+      "name": "Aggressive systemic mastocytosis | 99.88% | L4 | 0 | 2 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
         }
       ]
     },
@@ -71069,8 +71189,19 @@
       ]
     },
     {
+      "name": "Ambras hypertrichosis universalis congenita | 87.79% | L5 | Hold | Weak — monogenic developmental disorder, no PDE5 rationale",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Ambras type hypertrichosis universalis congenita",
-      "drug_count": 37,
+      "drug_count": 35,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -71125,6 +71256,17 @@
       ]
     },
     {
+      "name": "Amenorrhea | 94.59% | L5 | Hold | Weak — indirect KG path via reproductive vasculature",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Angelucci syndrome",
       "drug_count": 2,
       "drugs": [
@@ -71170,6 +71312,17 @@
           "drug": "Tecovirimat",
           "slug": "tecovirimat",
           "score": 99.62
+        }
+      ]
+    },
+    {
+      "name": "Autosomal recessive familial Mediterranean fever | 99.89% | **L3** | 0 | **20** | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
         }
       ]
     },
@@ -71341,13 +71494,24 @@
       ]
     },
     {
-      "name": "Blessig's cysts",
+      "name": "Bleeding diathesis due to collagen receptor defect | 87.72% | L5 | Hold | GPVI/α2β1 genetic platelet activation defect; no immunological mechanism",
       "drug_count": 1,
       "drugs": [
         {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.71
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Brachydactyly-syndactyly syndrome | 99.94% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
         }
       ]
     },
@@ -71827,6 +71991,17 @@
       ]
     },
     {
+      "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.94% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Coronavinae infectious disease",
       "drug_count": 5,
       "drugs": [
@@ -72005,6 +72180,28 @@
       ]
     },
     {
+      "name": "Dandy-Walker Malformation Syndrome | 99.12% | 0 | 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Dermatitis | 79.28% | Hold | Only supporting evidence (PMID 23679347) is a COPD safety extension study — dermatitis appears as an adverse event, not a treatment target",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Dorfman-Chanarin disease",
       "drug_count": 1,
       "drugs": [
@@ -72016,6 +72213,17 @@
       ]
     },
     {
+      "name": "Drug-induced osteoporosis | 92.70% | L4 | Research Question | Indirect: blinatumomab may reduce cumulative steroid exposure in ALL treatment, potentially reducing bone loss as a secondary outcome",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "EEC syndrome",
       "drug_count": 1,
       "drugs": [
@@ -72023,6 +72231,28 @@
           "drug": "Dostarlimab",
           "slug": "dostarlimab",
           "score": 50.0
+        }
+      ]
+    },
+    {
+      "name": "Ectomesenchymoma | 99.97% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avelumab",
+          "slug": "avelumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Ectopia lentis-chorioretinal dystrophy-myopia syndrome | 97.82% | Moderate if choroidal neovascularization (CNV) is present — myopic CNV is an established anti-VEGF target | ✓",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
         }
       ]
     },
@@ -72094,6 +72324,17 @@
       ]
     },
     {
+      "name": "Endocervical Carcinoma | 99.92% | L2 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Epstein-Barr virus-associated carcinoma",
       "drug_count": 1,
       "drugs": [
@@ -72112,6 +72353,28 @@
           "drug": "Capecitabine",
           "slug": "capecitabine",
           "score": 99.9
+        }
+      ]
+    },
+    {
+      "name": "Esophageal varices with bleeding | 99.12% | Low — same as above; acute hemorrhage context makes this additionally unsafe | ✗",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Esophageal varices without bleeding | 99.12% | Low — systemic anti-VEGF rationale theoretically exists, but intravitreal route cannot reach portal vasculature | ✗",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
         }
       ]
     },
@@ -72193,6 +72456,28 @@
       ]
     },
     {
+      "name": "Exocrine pancreatic insufficiency | 99.07% | None — VEGF-A has no established role in exocrine enzyme secretion | ✗",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Extracutaneous mastocytoma | 99.93% | L5 | 0 | 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "FADD-related immunodeficiency",
       "drug_count": 1,
       "drugs": [
@@ -72200,6 +72485,17 @@
           "drug": "Sarilumab",
           "slug": "sarilumab",
           "score": 55.38
+        }
+      ]
+    },
+    {
+      "name": "Familial flecked retinopathy | 97.90% | Low — genetic/degenerative photoreceptor disease (e.g., ABCA4 mutations), not neovascular | ✓",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
         }
       ]
     },
@@ -72257,6 +72553,28 @@
       ]
     },
     {
+      "name": "Ganglioneuroblastoma | 87.59% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Gastroduodenitis | 79.52% | Hold | Systemic concentrations after inhalation insufficient for gastric M3 effect; standard therapies (PPI, H. pylori eradication) far superior",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Gaucher disease",
       "drug_count": 8,
       "drugs": [
@@ -72304,7 +72622,7 @@
     },
     {
       "name": "Glanzmann thrombasthenia",
-      "drug_count": 47,
+      "drug_count": 46,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -72359,6 +72677,28 @@
       ]
     },
     {
+      "name": "Glanzmann thrombasthenia | 95.02% | L5 | Hold | None — ITGA2B/ITGB3 genetic defect; no B-cell mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Glaucoma 1, Open Angle | 79.57% | Hold | Duplicate of Rank 1 (OMIM reclassification); same concerns apply",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Graves disease",
       "drug_count": 3,
       "drugs": [
@@ -72403,7 +72743,7 @@
     },
     {
       "name": "HER2 positive breast carcinoma",
-      "drug_count": 39,
+      "drug_count": 38,
       "drugs": [
         {
           "drug": "Pertuzumab",
@@ -72541,6 +72881,17 @@
       ]
     },
     {
+      "name": "Headache Disorder | 83.48% | Hold | Only trial (NCT02165826) monitors headache as a COPD safety endpoint, not a therapeutic target",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Heiner syndrome",
       "drug_count": 1,
       "drugs": [
@@ -72548,6 +72899,17 @@
           "drug": "Mycophenolate Mofetil",
           "slug": "mycophenolate-mofetil",
           "score": 99.46
+        }
+      ]
+    },
+    {
+      "name": "Hemorrhagic disorder due to constitutional thrombocytopenia | 87.88% | L5 | Hold | Genetic platelet deficit; drug-induced thrombocytopenia risk outweighs benefit",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
         }
       ]
     },
@@ -72564,6 +72926,39 @@
           "drug": "Migalastat Hydrochloride",
           "slug": "migalastat-hydrochloride",
           "score": 84.58
+        }
+      ]
+    },
+    {
+      "name": "Heparin cofactor 2 deficiency | 86.31% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hepatic infarction | 99.89% | L5 | 0 | 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hepatic veno-occlusive disease | 99.88% | L5 | 0 | 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
         }
       ]
     },
@@ -72656,6 +73051,17 @@
       ]
     },
     {
+      "name": "Human Herpesvirus 8-Related Tumor | 99.97% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avelumab",
+          "slug": "avelumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Huntington disease-like syndrome due to C9ORF72 expansions",
       "drug_count": 1,
       "drugs": [
@@ -72730,6 +73136,39 @@
           "drug": "Vestronidase Alfa",
           "slug": "vestronidase-alfa",
           "score": 97.5
+        }
+      ]
+    },
+    {
+      "name": "Hypertrichosis | 99.14% | 0 | 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hypoalphalipoproteinemia | 91.54% | L5 | Hold | Weak — no direct mechanistic link to HDL",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hypotrichosis Simplex of the Scalp | 99.15% | 0 | 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
         }
       ]
     },
@@ -72883,14 +73322,20 @@
       ]
     },
     {
-      "name": "Immunoerythromyeloid hypoplasia",
-      "drug_count": 4,
+      "name": "Immunoerythromyeloid Hypoplasia | 99.94% | L5 | Hold",
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Avelumab",
           "slug": "avelumab",
-          "score": 99.94
-        },
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Immunoerythromyeloid hypoplasia",
+      "drug_count": 3,
+      "drugs": [
         {
           "drug": "Eflornithine",
           "slug": "eflornithine",
@@ -72905,6 +73350,72 @@
           "drug": "Aflibercept",
           "slug": "aflibercept",
           "score": 92.99
+        }
+      ]
+    },
+    {
+      "name": "Indolent plasma cell myeloma | 93.31% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Infectious bovine rhinotracheitis | 90.62% | L5 | Hold | ⚠️ Veterinary disease — KG cross-species noise",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Infiltrating Bladder Urothelial Carcinoma Sarcomatoid Variant | 99.98% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Intestinal Variant Cervical Mucinous Adenocarcinoma | 99.91% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Irritable Bowel Syndrome | 84.56% | Research Question | Class effect plausible (M3 antispasmodics exist); primary barrier is rapid systemic hydrolysis (t½ < 1 hr) limiting GI exposure",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Ischemic stroke susceptibility *(obsolete)* | 87.28% | L5 | Hold | ⚠️ Deprecated ontology node — consider mapping to ischemic stroke",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
         }
       ]
     },
@@ -73087,18 +73598,35 @@
       ]
     },
     {
+      "name": "Kidney Pelvis Sarcomatoid Transitional Cell Carcinoma | 99.91% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avelumab",
+          "slug": "avelumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Kidney Pelvis Sarcomatoid Transitional Cell Carcinoma | 99.98% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Kimura disease",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
         {
           "drug": "Siltuximab",
           "slug": "siltuximab",
           "score": 99.82
-        },
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.62
         },
         {
           "drug": "Pirfenidone",
@@ -73359,7 +73887,7 @@
     },
     {
       "name": "Ledderhose disease",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Natalizumab",
@@ -73387,11 +73915,6 @@
           "score": 89.28
         },
         {
-          "drug": "Blinatumomab",
-          "slug": "blinatumomab",
-          "score": 88.41
-        },
-        {
           "drug": "Enoxaparin Sodium",
           "slug": "enoxaparin-sodium",
           "score": 87.14
@@ -73400,6 +73923,17 @@
           "drug": "Tafamidis",
           "slug": "tafamidis",
           "score": 80.42
+        }
+      ]
+    },
+    {
+      "name": "Ledderhose disease | 88.41% | L5 | Hold | TGF-β/myofibroblast fibrosis; no B-cell connection",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
         }
       ]
     },
@@ -73598,13 +74132,13 @@
       ]
     },
     {
-      "name": "MRCS syndrome",
+      "name": "MRCS syndrome | 98.54% | Very low — retinal component present, but atrophic rather than neovascular; no VEGF driver | Partial",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Brolucizumab",
           "slug": "brolucizumab",
-          "score": 98.54
+          "score": 99.0
         }
       ]
     },
@@ -73708,6 +74242,50 @@
       ]
     },
     {
+      "name": "Malformation w/ periodontal component | 80.46% | L5 | Hold | ⚠️ 20 literature hits are irrelevant periodontology background",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Malformation with Odontal/Periodontal Component | 99.19% | 0 | 20 ⚠️ | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Malignant Cutaneous Granular Cell Skin Tumor | 99.97% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avelumab",
+          "slug": "avelumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Malignant catarrh | 90.62% | L5 | Hold | ⚠️ Veterinary disease — KG batch-scoring noise",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "May-Thurner syndrome",
       "drug_count": 1,
       "drugs": [
@@ -73753,13 +74331,8 @@
     },
     {
       "name": "Meester-Loeys syndrome",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
-        {
-          "drug": "Baricitinib",
-          "slug": "baricitinib",
-          "score": 88.21
-        },
         {
           "drug": "Leflunomide",
           "slug": "leflunomide",
@@ -73769,6 +74342,50 @@
           "drug": "Tofacitinib",
           "slug": "tofacitinib",
           "score": 65.68
+        }
+      ]
+    },
+    {
+      "name": "Meester-Loeys syndrome | 88.21% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Middle Ear Neuroendocrine Tumor | 99.97% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avelumab",
+          "slug": "avelumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Migraine Disorder | 86.15% | Hold | Headache is a known anticholinergic adverse effect",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Migraine with Brainstem Aura | 85.36% | Hold | Inhaled route insufficient for CNS/brainstem penetration",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
         }
       ]
     },
@@ -73836,6 +74453,17 @@
           "drug": "Cabotegravir",
           "slug": "cabotegravir",
           "score": 97.3
+        }
+      ]
+    },
+    {
+      "name": "Mitochondrial oxidative phosphorylation disorder (nuclear DNA) | 99.67% | Extremely low — no known VEGF role in mitochondrial respiratory chain | ✗",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
         }
       ]
     },
@@ -73925,6 +74553,17 @@
       ]
     },
     {
+      "name": "Non-Severe Combined Immunodeficiency | 99.92% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avelumab",
+          "slug": "avelumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Ohdo syndrome and variants",
       "drug_count": 6,
       "drugs": [
@@ -73957,6 +74596,28 @@
           "drug": "Esketamine Hydrochloride",
           "slug": "esketamine-hydrochloride",
           "score": 94.76
+        }
+      ]
+    },
+    {
+      "name": "Oligoarticular JIA with ANA | 99.85% | L4 | 0 | 1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Oligoarticular JIA without ANA | 99.85% | L4 | 0 | 1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
         }
       ]
     },
@@ -74017,6 +74678,17 @@
       ]
     },
     {
+      "name": "Open-Angle Glaucoma | 89.36% | Hold | M3 antagonism opposes standard IOP-lowering mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "PAGOD syndrome",
       "drug_count": 1,
       "drugs": [
@@ -74024,6 +74696,61 @@
           "drug": "Elacestrant",
           "slug": "elacestrant",
           "score": 81.28
+        }
+      ]
+    },
+    {
+      "name": "PAH / Chronic Hemolytic Anemia | 99.30% | 0 | 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "PAH / Congenital Heart Disease | 99.37% | 9 | 17 | L1 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "PAH / Connective Tissue Disease | 99.30% | 3 | 19 | L2 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "PAH / HIV Infection | 99.30% | 1 | 4 | L1 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "PAH / Schistosomiasis | 99.30% | 0 | 0 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
         }
       ]
     },
@@ -74185,6 +74912,28 @@
       ]
     },
     {
+      "name": "Peliosis hepatis | 99.85% | L5 | 0 | 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Penile fibromatosis (Peyronie's disease) | 87.80% | L5 | Hold | TGF-β1 collagen fibrosis; no B-cell mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Peptostreptococcus infectious disease",
       "drug_count": 3,
       "drugs": [
@@ -74310,6 +75059,28 @@
       ]
     },
     {
+      "name": "Pigmented paravenous retinochoroidal atrophy (PPRA) | 98.33% | Low-moderate — same ocular tissue and delivery route; VEGF overexpression not established in PPRA | ✓",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Plasma cell myeloma | 91.83% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Plasmodium falciparum malaria",
       "drug_count": 8,
       "drugs": [
@@ -74383,6 +75154,28 @@
       ]
     },
     {
+      "name": "Primary Hereditary Glaucoma | 88.95% | Hold | Same opposing mechanism; genetic pathology lacks LAMA target",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Primary release disorder of platelets | 95.20% | L5 | Hold | None — B-cell depletion is unrelated to platelet granule secretion; adverse thrombocytopenia risk",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Prinzmetal angina",
       "drug_count": 25,
       "drugs": [
@@ -74439,6 +75232,17 @@
       ]
     },
     {
+      "name": "Prostatic Urethra Urothelial Carcinoma | 99.98% | L2 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Proteus infectious disease",
       "drug_count": 1,
       "drugs": [
@@ -74446,6 +75250,50 @@
           "drug": "Tecovirimat",
           "slug": "tecovirimat",
           "score": 99.62
+        }
+      ]
+    },
+    {
+      "name": "Pseudo-von Willebrand disease | 94.13% | L5 | Hold | None — GPIbα gain-of-function mutation; no B-cell link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Psoriasis | 88.92% | L5 | Hold | Theoretical risk of worsening via T-cell over-activation; prior B-cell depletion (rituximab) has inconsistent benefit in psoriasis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Pulmonary Arteriovenous Malformation | 99.41% | 0 | 1 | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ambrisentan",
+          "slug": "ambrisentan",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Pyogenic autoinflammatory syndrome | 99.83% | **L3** | 0 | **19** | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
         }
       ]
     },
@@ -74556,7 +75404,7 @@
     },
     {
       "name": "Raynaud disease",
-      "drug_count": 13,
+      "drug_count": 12,
       "drugs": [
         {
           "drug": "Thyrotropin Alfa",
@@ -74607,6 +75455,39 @@
           "drug": "Abaloparatide",
           "slug": "abaloparatide",
           "score": 96.37
+        }
+      ]
+    },
+    {
+      "name": "Renal Pelvis Papillary Urothelial Carcinoma | 99.98% | L3 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Reticular Dysgenesis | 99.94% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Avelumab",
+          "slug": "avelumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Retinal dystrophy in systemic or cerebroretinal lipidoses | 97.73% | Very low — lysosomal storage disorder; retinal degeneration is secondary and VEGF-independent | ✓",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
         }
       ]
     },
@@ -74857,7 +75738,7 @@
     },
     {
       "name": "Scott syndrome",
-      "drug_count": 24,
+      "drug_count": 23,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -74912,6 +75793,17 @@
       ]
     },
     {
+      "name": "Senile reticular retinal degeneration | 97.71% | Moderate — AMD-related phenotype (reticular pseudodrusen); closest to the approved indication; however, if purely dry-form, anti-VEGF benefit is unproven | ✓",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Brolucizumab",
+          "slug": "brolucizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Senior-Boichis syndrome",
       "drug_count": 2,
       "drugs": [
@@ -74924,6 +75816,17 @@
           "drug": "Pasireotide",
           "slug": "pasireotide",
           "score": 77.21
+        }
+      ]
+    },
+    {
+      "name": "Severe nonproliferative diabetic retinopathy | 89.25% | L5 | Hold | No established B-cell pathway in DR pathology",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Blinatumomab",
+          "slug": "blinatumomab",
+          "score": 99.0
         }
       ]
     },
@@ -74945,6 +75848,17 @@
           "drug": "Mometasone",
           "slug": "mometasone",
           "score": 97.13
+        }
+      ]
+    },
+    {
+      "name": "Signet Ring Cell Variant Cervical Mucinous Adenocarcinoma | 99.91% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
         }
       ]
     },
@@ -75083,14 +75997,20 @@
       ]
     },
     {
-      "name": "T-B+ severe combined immunodeficiency due to CD45 deficiency",
-      "drug_count": 2,
+      "name": "Stroke disorder | 79.21% | L5 | Hold | Weak — overlaps with #7; preclinical signal only",
+      "drug_count": 1,
       "drugs": [
         {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.88
-        },
+          "drug": "Avanafil",
+          "slug": "avanafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "T-B+ severe combined immunodeficiency due to CD45 deficiency",
+      "drug_count": 1,
+      "drugs": [
         {
           "drug": "Aflibercept",
           "slug": "aflibercept",
@@ -75100,13 +76020,8 @@
     },
     {
       "name": "T-B+ severe combined immunodeficiency due to gamma chain deficiency",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.89
-        },
         {
           "drug": "Aflibercept",
           "slug": "aflibercept",
@@ -75290,6 +76205,17 @@
       ]
     },
     {
+      "name": "Trigeminal Autonomic Cephalalgia | 82.74% | Hold | Inhaled route cannot target pterygopalatine ganglion; CGRP-based therapies more mechanistically direct",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Aclidinium",
+          "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Turner syndrome",
       "drug_count": 1,
       "drugs": [
@@ -75308,6 +76234,17 @@
           "drug": "Teprotumumab",
           "slug": "teprotumumab",
           "score": 99.37
+        }
+      ]
+    },
+    {
+      "name": "Unclassified autoinflammatory syndrome | 99.81% | **L3** | 0 | **2** | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Anakinra",
+          "slug": "anakinra",
+          "score": 99.0
         }
       ]
     },
@@ -75358,6 +76295,39 @@
       ]
     },
     {
+      "name": "Uterine Ligament Adenocarcinoma | 99.93% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Uterine Ligament Serous Adenocarcinoma | 99.92% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Atezolizumab",
+          "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Vertebral anomalies and variable endocrine and T-cell dysfunction | 84.68% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Von Willebrand disease, X-linked form",
       "drug_count": 1,
       "drugs": [
@@ -75370,7 +76340,7 @@
     },
     {
       "name": "WHIM syndrome",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Diflunisal",
@@ -75403,11 +76373,6 @@
           "score": 97.71
         },
         {
-          "drug": "Baricitinib",
-          "slug": "baricitinib",
-          "score": 93.12
-        },
-        {
           "drug": "Leflunomide",
           "slug": "leflunomide",
           "score": 75.88
@@ -75416,6 +76381,17 @@
           "drug": "Infliximab",
           "slug": "infliximab",
           "score": 73.11
+        }
+      ]
+    },
+    {
+      "name": "WHIM syndrome | 93.12% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Baricitinib",
+          "slug": "baricitinib",
+          "score": 99.0
         }
       ]
     },
@@ -75841,17 +76817,6 @@
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 98.32
-        }
-      ]
-    },
-    {
-      "name": "X-linked retinal dysplasia",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.46
         }
       ]
     },
@@ -77573,17 +78538,12 @@
     },
     {
       "name": "adenoid cystic carcinoma of the cervix uteri",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.95
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.92
         },
         {
           "drug": "Durvalumab",
@@ -77625,13 +78585,8 @@
     },
     {
       "name": "adenosine deaminase deficiency",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.95
-        },
         {
           "drug": "Susoctocog Alfa",
           "slug": "susoctocog-alfa",
@@ -77776,7 +78731,7 @@
     },
     {
       "name": "adrenal gland hyperfunction",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Pasireotide",
@@ -77802,11 +78757,6 @@
           "drug": "Clascoterone",
           "slug": "clascoterone",
           "score": 85.9
-        },
-        {
-          "drug": "Avanafil",
-          "slug": "avanafil",
-          "score": 79.06
         },
         {
           "drug": "Vardenafil",
@@ -78069,13 +79019,8 @@
     },
     {
       "name": "aggressive systemic mastocytosis",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.88
-        },
         {
           "drug": "Pirfenidone",
           "slug": "pirfenidone",
@@ -78399,7 +79344,7 @@
     },
     {
       "name": "alopecia",
-      "drug_count": 24,
+      "drug_count": 23,
       "drugs": [
         {
           "drug": "Travoprost",
@@ -78654,7 +79599,7 @@
     },
     {
       "name": "amenorrhea (disease)",
-      "drug_count": 34,
+      "drug_count": 33,
       "drugs": [
         {
           "drug": "Parathyroid Hormone",
@@ -78793,7 +79738,7 @@
     },
     {
       "name": "amyotrohpic lateral sclerosis type 22",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -78849,7 +79794,7 @@
     },
     {
       "name": "amyotrophic lateral sclerosis",
-      "drug_count": 28,
+      "drug_count": 26,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -78882,11 +79827,6 @@
           "score": 99.66
         },
         {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.53
-        },
-        {
           "drug": "Pemigatinib",
           "slug": "pemigatinib",
           "score": 99.41
@@ -78900,12 +79840,17 @@
           "drug": "Erdafitinib",
           "slug": "erdafitinib",
           "score": 99.06
+        },
+        {
+          "drug": "Vinflunine",
+          "slug": "vinflunine",
+          "score": 99.0
         }
       ]
     },
     {
       "name": "amyotrophic lateral sclerosis, susceptibility to",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -79489,7 +80434,7 @@
     },
     {
       "name": "antithrombin deficiency type 2",
-      "drug_count": 38,
+      "drug_count": 37,
       "drugs": [
         {
           "drug": "Prasterone",
@@ -81276,13 +82221,8 @@
     },
     {
       "name": "autosomal recessive familial Mediterranean fever",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.89
-        },
         {
           "drug": "Imatinib",
           "slug": "imatinib",
@@ -82612,7 +83552,7 @@
     },
     {
       "name": "bilateral parasagittal parieto-occipital polymicrogyria",
-      "drug_count": 19,
+      "drug_count": 18,
       "drugs": [
         {
           "drug": "Avatrombopag Maleate",
@@ -82645,11 +83585,6 @@
           "score": 99.63
         },
         {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.59
-        },
-        {
           "drug": "Tasimelteon",
           "slug": "tasimelteon",
           "score": 99.48
@@ -82663,6 +83598,11 @@
           "drug": "Nintedanib",
           "slug": "nintedanib",
           "score": 98.75
+        },
+        {
+          "drug": "Vinflunine",
+          "slug": "vinflunine",
+          "score": 98.73
         }
       ]
     },
@@ -82893,7 +83833,7 @@
     },
     {
       "name": "bleeding diathesis due to a collagen receptor defect",
-      "drug_count": 26,
+      "drug_count": 25,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -83448,7 +84388,7 @@
     },
     {
       "name": "brachydactyly-syndactyly syndrome",
-      "drug_count": 54,
+      "drug_count": 53,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -83464,11 +84404,6 @@
           "drug": "Eptifibatide",
           "slug": "eptifibatide",
           "score": 99.96
-        },
-        {
-          "drug": "Baricitinib",
-          "slug": "baricitinib",
-          "score": 99.94
         },
         {
           "drug": "Leflunomide",
@@ -83499,6 +84434,11 @@
           "drug": "Upadacitinib",
           "slug": "upadacitinib",
           "score": 99.58
+        },
+        {
+          "drug": "Abatacept",
+          "slug": "abatacept",
+          "score": 99.5
         }
       ]
     },
@@ -84180,7 +85120,7 @@
     },
     {
       "name": "bronchitis",
-      "drug_count": 47,
+      "drug_count": 46,
       "drugs": [
         {
           "drug": "Omalizumab",
@@ -85492,17 +86432,12 @@
     },
     {
       "name": "cervical adenosquamous carcinoma, glassy cell variant",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.94
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.91
         },
         {
           "drug": "Durvalumab",
@@ -85545,17 +86480,12 @@
     },
     {
       "name": "cervical mucinous adenocarcinoma, minimal deviation variant",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.93
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.91
         },
         {
           "drug": "Durvalumab",
@@ -87422,7 +88352,7 @@
     },
     {
       "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-      "drug_count": 47,
+      "drug_count": 46,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -87438,11 +88368,6 @@
           "drug": "Eptifibatide",
           "slug": "eptifibatide",
           "score": 99.95
-        },
-        {
-          "drug": "Baricitinib",
-          "slug": "baricitinib",
-          "score": 99.94
         },
         {
           "drug": "Leflunomide",
@@ -87473,6 +88398,11 @@
           "drug": "Abatacept",
           "slug": "abatacept",
           "score": 99.48
+        },
+        {
+          "drug": "Prasugrel",
+          "slug": "prasugrel",
+          "score": 99.42
         }
       ]
     },
@@ -87798,17 +88728,6 @@
       ]
     },
     {
-      "name": "combined immunodeficiency, X-linked",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.87
-        }
-      ]
-    },
-    {
       "name": "commissural lip fistula",
       "drug_count": 10,
       "drugs": [
@@ -88051,17 +88970,6 @@
           "drug": "Voretigene Neparvovec",
           "slug": "voretigene-neparvovec",
           "score": 55.79
-        }
-      ]
-    },
-    {
-      "name": "cone dystrophy",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.68
         }
       ]
     },
@@ -88527,7 +89435,7 @@
     },
     {
       "name": "congenital hypotrichosis milia",
-      "drug_count": 38,
+      "drug_count": 37,
       "drugs": [
         {
           "drug": "Travoprost",
@@ -89932,7 +90840,7 @@
     },
     {
       "name": "cytomegalovirus infection",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Bempedoic Acid",
@@ -90903,7 +91811,7 @@
     },
     {
       "name": "diffuse alopecia areata",
-      "drug_count": 32,
+      "drug_count": 31,
       "drugs": [
         {
           "drug": "Travoprost",
@@ -90941,11 +91849,6 @@
           "score": 99.1
         },
         {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 98.62
-        },
-        {
           "drug": "Spironolactone",
           "slug": "spironolactone",
           "score": 98.41
@@ -90954,6 +91857,11 @@
           "drug": "Ibuprofen",
           "slug": "ibuprofen",
           "score": 98.25
+        },
+        {
+          "drug": "Corifollitropin Alfa",
+          "slug": "corifollitropin-alfa",
+          "score": 98.23
         }
       ]
     },
@@ -91606,7 +92514,7 @@
     },
     {
       "name": "drug-induced osteoporosis",
-      "drug_count": 33,
+      "drug_count": 32,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -91744,7 +92652,7 @@
     },
     {
       "name": "duodenal obstruction",
-      "drug_count": 15,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Teriparatide",
@@ -91872,7 +92780,7 @@
     },
     {
       "name": "duodenogastric reflux",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Teriparatide",
@@ -91920,9 +92828,9 @@
           "score": 86.42
         },
         {
-          "drug": "Avanafil",
-          "slug": "avanafil",
-          "score": 77.26
+          "drug": "Orlistat",
+          "slug": "orlistat",
+          "score": 68.39
         }
       ]
     },
@@ -92291,13 +93199,8 @@
     },
     {
       "name": "ectomesenchymoma",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.97
-        },
         {
           "drug": "Pertuzumab",
           "slug": "pertuzumab",
@@ -92322,17 +93225,6 @@
           "drug": "Aflibercept",
           "slug": "aflibercept",
           "score": 94.52
-        }
-      ]
-    },
-    {
-      "name": "ectopia lentis-chorioretinal dystrophy-myopia syndrome",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.82
         }
       ]
     },
@@ -92528,17 +93420,12 @@
     },
     {
       "name": "endocervical carcinoma",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.95
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.92
         },
         {
           "drug": "Durvalumab",
@@ -92559,17 +93446,12 @@
     },
     {
       "name": "endocervical type cervical mucinous adenocarcinoma",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.93
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.91
         },
         {
           "drug": "Durvalumab",
@@ -92856,7 +93738,7 @@
     },
     {
       "name": "epiglottis neoplasm",
-      "drug_count": 17,
+      "drug_count": 16,
       "drugs": [
         {
           "drug": "Niraparib (Tosilate Monohydrate)",
@@ -92884,11 +93766,6 @@
           "score": 99.9
         },
         {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.86
-        },
-        {
           "drug": "Durvalumab",
           "slug": "durvalumab",
           "score": 99.84
@@ -92907,6 +93784,11 @@
           "drug": "Tivozanib",
           "slug": "tivozanib",
           "score": 99.51
+        },
+        {
+          "drug": "Ocrelizumab",
+          "slug": "ocrelizumab",
+          "score": 98.89
         }
       ]
     },
@@ -93238,7 +94120,7 @@
     },
     {
       "name": "erectile dysfunction (disease)",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Parathyroid Hormone",
@@ -93254,11 +94136,6 @@
           "drug": "Fluciclovine (18F)",
           "slug": "fluciclovine-18f",
           "score": 96.31
-        },
-        {
-          "drug": "Avanafil",
-          "slug": "avanafil",
-          "score": 93.42
         },
         {
           "drug": "Setmelanotide",
@@ -93502,7 +94379,7 @@
     },
     {
       "name": "esophageal varices with bleeding",
-      "drug_count": 15,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Asfotase Alfa",
@@ -93530,11 +94407,6 @@
           "score": 99.23
         },
         {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 99.12
-        },
-        {
           "drug": "Mecasermin",
           "slug": "mecasermin",
           "score": 99.03
@@ -93553,12 +94425,17 @@
           "drug": "Lonoctocog Alfa",
           "slug": "lonoctocog-alfa",
           "score": 98.41
+        },
+        {
+          "drug": "Aflibercept",
+          "slug": "aflibercept",
+          "score": 97.56
         }
       ]
     },
     {
       "name": "esophageal varices without bleeding",
-      "drug_count": 15,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Asfotase Alfa",
@@ -93586,11 +94463,6 @@
           "score": 99.23
         },
         {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 99.12
-        },
-        {
           "drug": "Mecasermin",
           "slug": "mecasermin",
           "score": 99.03
@@ -93609,6 +94481,11 @@
           "drug": "Lonoctocog Alfa",
           "slug": "lonoctocog-alfa",
           "score": 98.41
+        },
+        {
+          "drug": "Aflibercept",
+          "slug": "aflibercept",
+          "score": 97.56
         }
       ]
     },
@@ -93803,17 +94680,12 @@
     },
     {
       "name": "exocrine pancreatic insufficiency",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Asfotase Alfa",
           "slug": "asfotase-alfa",
           "score": 99.89
-        },
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 99.07
         },
         {
           "drug": "Teprotumumab",
@@ -93907,13 +94779,8 @@
     },
     {
       "name": "extracutaneous mastocytoma",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.93
-        },
         {
           "drug": "Pirfenidone",
           "slug": "pirfenidone",
@@ -94234,7 +95101,7 @@
     },
     {
       "name": "factor 5 excess with spontaneous thrombosis",
-      "drug_count": 37,
+      "drug_count": 36,
       "drugs": [
         {
           "drug": "Prasterone",
@@ -94374,13 +95241,8 @@
     },
     {
       "name": "familial Mediterranean fever, autosomal dominant",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.54
-        },
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
@@ -94598,17 +95460,6 @@
           "drug": "Oxybutynin",
           "slug": "oxybutynin",
           "score": 92.62
-        }
-      ]
-    },
-    {
-      "name": "familial flecked retinopathy",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.9
         }
       ]
     },
@@ -95422,7 +96273,7 @@
     },
     {
       "name": "fetal and neonatal alloimmune thrombocytopenia",
-      "drug_count": 27,
+      "drug_count": 26,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -96497,7 +97348,7 @@
     },
     {
       "name": "ganglioneuroblastoma (disease)",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Duvelisib",
@@ -97057,7 +97908,7 @@
     },
     {
       "name": "genetic alopecia",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -97085,11 +97936,6 @@
           "score": 96.0
         },
         {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 92.46
-        },
-        {
           "drug": "Sildenafil",
           "slug": "sildenafil",
           "score": 75.03
@@ -97114,17 +97960,6 @@
           "drug": "Cannabidiol",
           "slug": "cannabidiol",
           "score": 91.92
-        }
-      ]
-    },
-    {
-      "name": "genetic macular dystrophy",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.58
         }
       ]
     },
@@ -97522,17 +98357,6 @@
       ]
     },
     {
-      "name": "glottis verrucous carcinoma",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.85
-        }
-      ]
-    },
-    {
       "name": "glutaric acidemia type 3",
       "drug_count": 1,
       "drugs": [
@@ -97793,17 +98617,6 @@
           "drug": "Nomegestrol Acetate",
           "slug": "nomegestrol-acetate",
           "score": 97.6
-        }
-      ]
-    },
-    {
-      "name": "granulomatous autoinflammatory syndrome",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.78
         }
       ]
     },
@@ -98932,7 +99745,7 @@
     },
     {
       "name": "hemorrhagic disorder due to a constitutional thrombocytopenia",
-      "drug_count": 25,
+      "drug_count": 24,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -99051,7 +99864,7 @@
     },
     {
       "name": "heparin cofactor 2 deficiency",
-      "drug_count": 37,
+      "drug_count": 36,
       "drugs": [
         {
           "drug": "Prasterone",
@@ -99118,13 +99931,8 @@
     },
     {
       "name": "hepatic infarction",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.89
-        },
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
@@ -99225,13 +100033,8 @@
     },
     {
       "name": "hepatic veno-occlusive disease",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.88
-        },
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
@@ -99276,13 +100079,8 @@
     },
     {
       "name": "hepatic veno-occlusive disease-immunodeficiency syndrome",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.53
-        },
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
@@ -100279,13 +101077,8 @@
     },
     {
       "name": "human herpesvirus 8-related tumor",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.97
-        },
         {
           "drug": "Pertuzumab",
           "slug": "pertuzumab",
@@ -100681,13 +101474,8 @@
     },
     {
       "name": "hypercarotenemia and vitamin A deficiency, autosomal recessive",
-      "drug_count": 17,
+      "drug_count": 16,
       "drugs": [
-        {
-          "drug": "Avanafil",
-          "slug": "avanafil",
-          "score": 72.34
-        },
         {
           "drug": "Orlistat",
           "slug": "orlistat",
@@ -100732,6 +101520,11 @@
           "drug": "Linagliptin",
           "slug": "linagliptin",
           "score": 61.78
+        },
+        {
+          "drug": "Liraglutide",
+          "slug": "liraglutide",
+          "score": 61.43
         }
       ]
     },
@@ -101257,7 +102050,7 @@
     },
     {
       "name": "hypertrichosis (disease)",
-      "drug_count": 38,
+      "drug_count": 36,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -101450,7 +102243,7 @@
     },
     {
       "name": "hypoalphalipoproteinemia",
-      "drug_count": 21,
+      "drug_count": 20,
       "drugs": [
         {
           "drug": "Prucalopride Succinate",
@@ -101677,7 +102470,7 @@
     },
     {
       "name": "hypotrichosis simplex of the scalp",
-      "drug_count": 41,
+      "drug_count": 40,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -102570,7 +103363,7 @@
     },
     {
       "name": "indolent plasma cell myeloma",
-      "drug_count": 30,
+      "drug_count": 28,
       "drugs": [
         {
           "drug": "Plerixafor",
@@ -102625,17 +103418,6 @@
       ]
     },
     {
-      "name": "indolent systemic mastocytosis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.61
-        }
-      ]
-    },
-    {
       "name": "infancy electroclinical syndrome",
       "drug_count": 3,
       "drugs": [
@@ -102658,7 +103440,7 @@
     },
     {
       "name": "infantile digital fibromatosis",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Natalizumab",
@@ -102679,11 +103461,6 @@
           "drug": "Darbepoetin Alfa",
           "slug": "darbepoetin-alfa",
           "score": 91.06
-        },
-        {
-          "drug": "Blinatumomab",
-          "slug": "blinatumomab",
-          "score": 87.27
         },
         {
           "drug": "Fondaparinux Sodium",
@@ -102767,7 +103544,7 @@
     },
     {
       "name": "infectious bovine rhinotracheitis",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Bempedoic Acid",
@@ -102954,22 +103731,12 @@
     },
     {
       "name": "infiltrating bladder urothelial carcinoma sarcomatoid variant",
-      "drug_count": 13,
+      "drug_count": 11,
       "drugs": [
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.98
-        },
         {
           "drug": "Durvalumab",
           "slug": "durvalumab",
           "score": 99.98
-        },
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.91
         },
         {
           "drug": "Ramucirumab",
@@ -103005,6 +103772,16 @@
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 95.43
+        },
+        {
+          "drug": "Polatuzumab Vedotin",
+          "slug": "polatuzumab-vedotin",
+          "score": 93.69
+        },
+        {
+          "drug": "Alemtuzumab",
+          "slug": "alemtuzumab",
+          "score": 92.93
         }
       ]
     },
@@ -103295,7 +104072,7 @@
     },
     {
       "name": "inherited thrombophilia",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -103680,17 +104457,12 @@
     },
     {
       "name": "intestinal variant cervical mucinous adenocarcinoma",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.94
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.91
         },
         {
           "drug": "Durvalumab",
@@ -104011,7 +104783,7 @@
     },
     {
       "name": "isolated genetic hair shaft abnormality",
-      "drug_count": 30,
+      "drug_count": 28,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -104657,22 +105429,12 @@
     },
     {
       "name": "kidney pelvis sarcomatoid transitional cell carcinoma",
-      "drug_count": 15,
+      "drug_count": 13,
       "drugs": [
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.98
-        },
         {
           "drug": "Durvalumab",
           "slug": "durvalumab",
           "score": 99.98
-        },
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.91
         },
         {
           "drug": "Ramucirumab",
@@ -104708,6 +105470,16 @@
           "drug": "Catumaxomab",
           "slug": "catumaxomab",
           "score": 98.29
+        },
+        {
+          "drug": "Vinflunine",
+          "slug": "vinflunine",
+          "score": 95.63
+        },
+        {
+          "drug": "Trastuzumab Emtansine",
+          "slug": "trastuzumab-emtansine",
+          "score": 95.37
         }
       ]
     },
@@ -105575,13 +106347,8 @@
     },
     {
       "name": "liver angiosarcoma",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.64
-        },
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
@@ -106022,13 +106789,8 @@
     },
     {
       "name": "lung fibrosis-immunodeficiency-46,XX gonadal dysgenesis syndrome",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.9
-        },
         {
           "drug": "Eflornithine",
           "slug": "eflornithine",
@@ -106789,17 +107551,6 @@
       ]
     },
     {
-      "name": "macular degeneration",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.34
-        }
-      ]
-    },
-    {
       "name": "magnesium deficiency",
       "drug_count": 1,
       "drugs": [
@@ -107014,7 +107765,7 @@
     },
     {
       "name": "malformation syndrome with odontal and/or periodontal component",
-      "drug_count": 39,
+      "drug_count": 37,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -107106,7 +107857,7 @@
     },
     {
       "name": "malignant catarrh",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Bempedoic Acid",
@@ -107178,13 +107929,8 @@
     },
     {
       "name": "malignant cutaneous granular cell skin tumor",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.97
-        },
         {
           "drug": "Pertuzumab",
           "slug": "pertuzumab",
@@ -107905,17 +108651,6 @@
           "drug": "Ibrutinib",
           "slug": "ibrutinib",
           "score": 87.96
-        }
-      ]
-    },
-    {
-      "name": "mastocytosis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.63
         }
       ]
     },
@@ -108826,13 +109561,8 @@
     },
     {
       "name": "middle ear neuroendocrine tumor",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.97
-        },
         {
           "drug": "Pertuzumab",
           "slug": "pertuzumab",
@@ -109095,17 +109825,12 @@
     },
     {
       "name": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Asfotase Alfa",
           "slug": "asfotase-alfa",
           "score": 99.95
-        },
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 99.67
         },
         {
           "drug": "Sebelipase Alfa",
@@ -110224,7 +110949,7 @@
     },
     {
       "name": "myeloid leukemia",
-      "drug_count": 32,
+      "drug_count": 31,
       "drugs": [
         {
           "drug": "Duvelisib",
@@ -110957,7 +111682,7 @@
     },
     {
       "name": "nasopharyngeal teratoma",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Niraparib (Tosilate Monohydrate)",
@@ -110973,11 +111698,6 @@
           "drug": "Imiquimod",
           "slug": "imiquimod",
           "score": 99.91
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.86
         },
         {
           "drug": "Durvalumab",
@@ -111659,7 +112379,7 @@
     },
     {
       "name": "neuroblastoma",
-      "drug_count": 17,
+      "drug_count": 16,
       "drugs": [
         {
           "drug": "Daunorubicin",
@@ -112409,13 +113129,8 @@
     },
     {
       "name": "non-severe combined immunodeficiency",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.92
-        },
         {
           "drug": "Fingolimod",
           "slug": "fingolimod",
@@ -113039,7 +113754,7 @@
     },
     {
       "name": "obsolete patella aplasia, coxa vara, and tarsal synostosis",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Aprepitant",
@@ -113164,7 +113879,7 @@
     },
     {
       "name": "obsolete susceptibility to ischemic stroke",
-      "drug_count": 18,
+      "drug_count": 17,
       "drugs": [
         {
           "drug": "Telmisartan",
@@ -113358,7 +114073,7 @@
     },
     {
       "name": "odontogenic cyst",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Niraparib (Tosilate Monohydrate)",
@@ -113379,11 +114094,6 @@
           "drug": "Bevacizumab",
           "slug": "bevacizumab",
           "score": 99.89
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.86
         },
         {
           "drug": "Durvalumab",
@@ -113409,28 +114119,11 @@
           "drug": "Treosulfan",
           "slug": "treosulfan",
           "score": 96.61
-        }
-      ]
-    },
-    {
-      "name": "oligoarticular juvenile idiopathic arthritis with anti-nuclear antibodies",
-      "drug_count": 1,
-      "drugs": [
+        },
         {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.85
-        }
-      ]
-    },
-    {
-      "name": "oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.85
+          "drug": "Onasemnogene Abeparvovec",
+          "slug": "onasemnogene-abeparvovec",
+          "score": 76.46
         }
       ]
     },
@@ -113948,7 +114641,7 @@
     },
     {
       "name": "osteoarthritis susceptibility",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Diflunisal",
@@ -114802,7 +115495,7 @@
     },
     {
       "name": "palmar fibromatosis",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Natalizumab",
@@ -114823,11 +115516,6 @@
           "drug": "Darbepoetin Alfa",
           "slug": "darbepoetin-alfa",
           "score": 90.3
-        },
-        {
-          "drug": "Blinatumomab",
-          "slug": "blinatumomab",
-          "score": 87.03
         },
         {
           "drug": "Fondaparinux Sodium",
@@ -116007,13 +116695,8 @@
     },
     {
       "name": "peliosis hepatis",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.85
-        },
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
@@ -116096,7 +116779,7 @@
     },
     {
       "name": "penile fibromatosis",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Natalizumab",
@@ -116122,11 +116805,6 @@
           "drug": "Darbepoetin Alfa",
           "slug": "darbepoetin-alfa",
           "score": 92.17
-        },
-        {
-          "drug": "Blinatumomab",
-          "slug": "blinatumomab",
-          "score": 87.8
         },
         {
           "drug": "Fondaparinux Sodium",
@@ -116801,17 +117479,6 @@
       ]
     },
     {
-      "name": "pigmented paravenous retinochoroidal atrophy",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 98.33
-        }
-      ]
-    },
-    {
       "name": "pituitary dwarfism",
       "drug_count": 2,
       "drugs": [
@@ -116829,7 +117496,7 @@
     },
     {
       "name": "pityriasis lichenoides",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Risankizumab",
@@ -116877,9 +117544,9 @@
           "score": 89.23
         },
         {
-          "drug": "Blinatumomab",
-          "slug": "blinatumomab",
-          "score": 85.56
+          "drug": "Vedolizumab",
+          "slug": "vedolizumab",
+          "score": 71.49
         }
       ]
     },
@@ -116963,7 +117630,7 @@
     },
     {
       "name": "plasma cell myeloma",
-      "drug_count": 31,
+      "drug_count": 29,
       "drugs": [
         {
           "drug": "Plerixafor",
@@ -119385,7 +120052,7 @@
     },
     {
       "name": "primary release disorder of platelets",
-      "drug_count": 59,
+      "drug_count": 58,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -119636,17 +120303,6 @@
           "drug": "Filgotinib Maleate",
           "slug": "filgotinib-maleate",
           "score": 98.29
-        }
-      ]
-    },
-    {
-      "name": "progressive bifocal chorioretinal atrophy",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.45
         }
       ]
     },
@@ -119995,22 +120651,12 @@
     },
     {
       "name": "prostatic urethra urothelial carcinoma",
-      "drug_count": 14,
+      "drug_count": 12,
       "drugs": [
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.98
-        },
         {
           "drug": "Durvalumab",
           "slug": "durvalumab",
           "score": 99.98
-        },
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.92
         },
         {
           "drug": "Ramucirumab",
@@ -120046,6 +120692,16 @@
           "drug": "Catumaxomab",
           "slug": "catumaxomab",
           "score": 98.27
+        },
+        {
+          "drug": "Vinflunine",
+          "slug": "vinflunine",
+          "score": 95.46
+        },
+        {
+          "drug": "Polatuzumab Vedotin",
+          "slug": "polatuzumab-vedotin",
+          "score": 93.7
         }
       ]
     },
@@ -120216,7 +120872,7 @@
     },
     {
       "name": "pseudo-von Willebrand disease",
-      "drug_count": 54,
+      "drug_count": 53,
       "drugs": [
         {
           "drug": "Caplacizumab",
@@ -120375,17 +121031,6 @@
       ]
     },
     {
-      "name": "pseudoretinitis pigmentosa",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.71
-        }
-      ]
-    },
-    {
       "name": "pseudotumor cerebri",
       "drug_count": 1,
       "drugs": [
@@ -120409,7 +121054,7 @@
     },
     {
       "name": "psoriasis",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Volanesorsen Sodium",
@@ -120700,7 +121345,7 @@
     },
     {
       "name": "pulmonary arterial hypertension",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -120716,11 +121361,6 @@
           "drug": "Nitric Oxide",
           "slug": "nitric-oxide",
           "score": 99.41
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 99.37
         },
         {
           "drug": "Iloprost",
@@ -120756,7 +121396,7 @@
     },
     {
       "name": "pulmonary arterial hypertension associated with HIV infection",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -120767,11 +121407,6 @@
           "drug": "Treprostinil Sodium",
           "slug": "treprostinil-sodium",
           "score": 99.55
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 99.3
         },
         {
           "drug": "Nitric Oxide",
@@ -120802,7 +121437,7 @@
     },
     {
       "name": "pulmonary arterial hypertension associated with chronic hemolytic anemia",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -120813,11 +121448,6 @@
           "drug": "Treprostinil Sodium",
           "slug": "treprostinil-sodium",
           "score": 99.55
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 99.3
         },
         {
           "drug": "Nitric Oxide",
@@ -120848,7 +121478,7 @@
     },
     {
       "name": "pulmonary arterial hypertension associated with congenital heart disease",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -120864,11 +121494,6 @@
           "drug": "Nitric Oxide",
           "slug": "nitric-oxide",
           "score": 99.41
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 99.37
         },
         {
           "drug": "Iloprost",
@@ -120899,7 +121524,7 @@
     },
     {
       "name": "pulmonary arterial hypertension associated with connective tissue disease",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -120910,11 +121535,6 @@
           "drug": "Treprostinil Sodium",
           "slug": "treprostinil-sodium",
           "score": 99.55
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 99.3
         },
         {
           "drug": "Nitric Oxide",
@@ -120945,7 +121565,7 @@
     },
     {
       "name": "pulmonary arterial hypertension associated with schistosomiasis",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -120956,11 +121576,6 @@
           "drug": "Treprostinil Sodium",
           "slug": "treprostinil-sodium",
           "score": 99.55
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 99.3
         },
         {
           "drug": "Nitric Oxide",
@@ -120991,7 +121606,7 @@
     },
     {
       "name": "pulmonary arteriovenous malformation (disease)",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -121002,11 +121617,6 @@
           "drug": "Treprostinil Sodium",
           "slug": "treprostinil-sodium",
           "score": 99.7
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 99.41
         },
         {
           "drug": "Nitric Oxide",
@@ -121310,17 +121920,12 @@
     },
     {
       "name": "pulmonary hypertension, primary",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Selpercatinib",
           "slug": "selpercatinib",
           "score": 96.84
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 92.6
         }
       ]
     },
@@ -121713,17 +122318,6 @@
           "drug": "Artesunate",
           "slug": "artesunate",
           "score": 59.66
-        }
-      ]
-    },
-    {
-      "name": "pyogenic autoinflammatory syndrome",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.83
         }
       ]
     },
@@ -122529,22 +123123,12 @@
     },
     {
       "name": "renal pelvis papillary urothelial carcinoma",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.98
-        },
         {
           "drug": "Durvalumab",
           "slug": "durvalumab",
           "score": 99.98
-        },
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.91
         },
         {
           "drug": "Ramucirumab",
@@ -122580,6 +123164,16 @@
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 95.39
+        },
+        {
+          "drug": "Alemtuzumab",
+          "slug": "alemtuzumab",
+          "score": 92.81
+        },
+        {
+          "drug": "Inotuzumab Ozogamicin",
+          "slug": "inotuzumab-ozogamicin",
+          "score": 89.0
         }
       ]
     },
@@ -122942,13 +123536,8 @@
     },
     {
       "name": "reticular dysgenesis",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.94
-        },
         {
           "drug": "Susoctocog Alfa",
           "slug": "susoctocog-alfa",
@@ -123043,28 +123632,6 @@
           "drug": "Propranolol Hydrochloride",
           "slug": "propranolol-hydrochloride",
           "score": 99.09
-        }
-      ]
-    },
-    {
-      "name": "retinal drusen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.36
-        }
-      ]
-    },
-    {
-      "name": "retinal dystrophy in systemic or cerebroretinal lipidoses",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.73
         }
       ]
     },
@@ -123184,19 +123751,8 @@
       ]
     },
     {
-      "name": "retinoschisis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.3
-        }
-      ]
-    },
-    {
       "name": "retroperitoneal neoplasm",
-      "drug_count": 19,
+      "drug_count": 18,
       "drugs": [
         {
           "drug": "Duvelisib",
@@ -123366,7 +123922,7 @@
     },
     {
       "name": "rheumatoid arthritis",
-      "drug_count": 69,
+      "drug_count": 68,
       "drugs": [
         {
           "drug": "Azathioprine",
@@ -123382,11 +123938,6 @@
           "drug": "Eptifibatide",
           "slug": "eptifibatide",
           "score": 99.99
-        },
-        {
-          "drug": "Baricitinib",
-          "slug": "baricitinib",
-          "score": 99.97
         },
         {
           "drug": "Leflunomide",
@@ -123417,6 +123968,11 @@
           "drug": "Ibuprofen",
           "slug": "ibuprofen",
           "score": 99.77
+        },
+        {
+          "drug": "Prasugrel",
+          "slug": "prasugrel",
+          "score": 99.74
         }
       ]
     },
@@ -124679,17 +125235,6 @@
       ]
     },
     {
-      "name": "senile reticular retinal degeneration",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.71
-        }
-      ]
-    },
-    {
       "name": "septal myocardial infarction",
       "drug_count": 4,
       "drugs": [
@@ -124831,13 +125376,8 @@
     },
     {
       "name": "severe combined immunodeficiency (disease)",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.87
-        },
         {
           "drug": "Fingolimod",
           "slug": "fingolimod",
@@ -124852,13 +125392,8 @@
     },
     {
       "name": "severe combined immunodeficiency due to LCK deficiency",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.9
-        },
         {
           "drug": "Alirocumab",
           "slug": "alirocumab",
@@ -124883,17 +125418,6 @@
           "drug": "Ipilimumab",
           "slug": "ipilimumab",
           "score": 87.02
-        }
-      ]
-    },
-    {
-      "name": "severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avelumab",
-          "slug": "avelumab",
-          "score": 99.85
         }
       ]
     },
@@ -124982,7 +125506,7 @@
     },
     {
       "name": "severe nonproliferative diabetic retinopathy",
-      "drug_count": 63,
+      "drug_count": 62,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -125250,17 +125774,12 @@
     },
     {
       "name": "signet ring cell variant cervical mucinous adenocarcinoma",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.94
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.91
         },
         {
           "drug": "Durvalumab",
@@ -126438,7 +126957,7 @@
     },
     {
       "name": "stroke disorder",
-      "drug_count": 10,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Telmisartan",
@@ -126474,16 +126993,6 @@
           "drug": "Vardenafil",
           "slug": "vardenafil",
           "score": 81.85
-        },
-        {
-          "drug": "Avanafil",
-          "slug": "avanafil",
-          "score": 79.21
-        },
-        {
-          "drug": "Baricitinib",
-          "slug": "baricitinib",
-          "score": 79.21
         },
         {
           "drug": "Tofacitinib",
@@ -126943,7 +127452,7 @@
     },
     {
       "name": "syndrome with a Dandy-Walker malformation as major feature",
-      "drug_count": 35,
+      "drug_count": 33,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -126999,13 +127508,8 @@
     },
     {
       "name": "syndrome with combined immunodeficiency",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.71
-        },
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
@@ -127305,17 +127809,12 @@
     },
     {
       "name": "telangiectasia, hereditary hemorrhagic,",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Treprostinil Sodium",
           "slug": "treprostinil-sodium",
           "score": 97.5
-        },
-        {
-          "drug": "Ambrisentan",
-          "slug": "ambrisentan",
-          "score": 95.48
         },
         {
           "drug": "Selexipag",
@@ -128546,17 +129045,6 @@
       ]
     },
     {
-      "name": "tinea manuum",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Avanafil",
-          "slug": "avanafil",
-          "score": 73.92
-        }
-      ]
-    },
-    {
       "name": "tinea nigra",
       "drug_count": 3,
       "drugs": [
@@ -128921,13 +129409,8 @@
     },
     {
       "name": "transitional cell carcinoma",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.97
-        },
         {
           "drug": "Durvalumab",
           "slug": "durvalumab",
@@ -129808,17 +130291,6 @@
       ]
     },
     {
-      "name": "unclassified autoinflammatory syndrome",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anakinra",
-          "slug": "anakinra",
-          "score": 99.81
-        }
-      ]
-    },
-    {
       "name": "unclassified intestinal pseudoobstruction",
       "drug_count": 1,
       "drugs": [
@@ -130358,17 +130830,12 @@
     },
     {
       "name": "uterine ligament adenocarcinoma",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.95
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.93
         },
         {
           "drug": "Durvalumab",
@@ -130410,17 +130877,12 @@
     },
     {
       "name": "uterine ligament clear cell adenocarcinoma",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.94
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.91
         },
         {
           "drug": "Durvalumab",
@@ -130436,17 +130898,12 @@
     },
     {
       "name": "uterine ligament endometrioid adenocarcinoma",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.94
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.91
         },
         {
           "drug": "Durvalumab",
@@ -130462,17 +130919,12 @@
     },
     {
       "name": "uterine ligament mucinous adenocarcinoma",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.94
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.91
         },
         {
           "drug": "Durvalumab",
@@ -130488,17 +130940,12 @@
     },
     {
       "name": "uterine ligament serous adenocarcinoma",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.94
-        },
-        {
-          "drug": "Atezolizumab",
-          "slug": "atezolizumab",
-          "score": 99.92
         },
         {
           "drug": "Durvalumab",
@@ -130628,7 +131075,7 @@
     },
     {
       "name": "varicose disease",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Asfotase Alfa",
@@ -130671,14 +131118,14 @@
           "score": 97.63
         },
         {
-          "drug": "Brolucizumab",
-          "slug": "brolucizumab",
-          "score": 97.38
-        },
-        {
           "drug": "Aflibercept",
           "slug": "aflibercept",
           "score": 96.95
+        },
+        {
+          "drug": "Velaglucerase Alfa",
+          "slug": "velaglucerase-alfa",
+          "score": 92.7
         }
       ]
     },
@@ -130837,7 +131284,7 @@
     },
     {
       "name": "vertebral anomalies and variable endocrine and T-cell dysfunction",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Daunorubicin",

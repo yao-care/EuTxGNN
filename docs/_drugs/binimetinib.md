@@ -1,132 +1,123 @@
 ---
 layout: default
 title: Binimetinib
-description: "Binimetinib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 84
+parent: 僅模型預測 (L5)
+nav_order: 95
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Binimetinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Binimetinib: From BRAF V600E/K Mutant Melanoma to Choroideremia
+
+## One-Sentence Summary
+
+Binimetinib is a MEK1/2 kinase inhibitor approved for use in combination with encorafenib for the treatment of adult patients with unresectable or metastatic melanoma harboring BRAF V600E/K mutations.
+The TxGNN model predicts it may be effective for **Choroideremia** with a prediction score of **98.63%**,
+however, there are currently **no clinical trials** and **no publications** supporting this direction, placing the evidence at Level 5 (AI model prediction only).
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Binimetinib |
-| DrugBank ID | [DB11967](https://go.drugbank.com/drugs/DB11967) |
-| Brand Names (EU) | Mektovi |
+| Item | Content |
+|------|---------|
+| Original Indication | BRAF V600E/K mutation-positive unresectable or metastatic melanoma (in combination with encorafenib) |
+| Predicted New Indication | Choroideremia |
+| TxGNN Prediction Score | 98.63% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.06% |
+| Taiwan Market Status | ✗ Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-MelanomaBinimetinib in combination with encorafenib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation.Non-small cell lung cancer (NSCLC)Binimetinib in combination with encorafenib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600E mutation.
+Currently, detailed mechanism of action data is not available. Based on known clinical information, Binimetinib is a selective inhibitor of MEK1 and MEK2 kinases — components of the RAS/MAPK (Rapidly Accelerated Fibrosarcoma/Mitogen-Activated Protein Kinase) signaling cascade. It is used in combination with the BRAF inhibitor encorafenib to suppress downstream ERK phosphorylation, thereby halting tumor cell proliferation in BRAF V600-mutant melanoma.
 
----
+Choroideremia is an X-linked recessive hereditary retinal dystrophy caused by loss-of-function mutations in the CHM gene, which encodes Rab Escort Protein 1 (REP1). The disease mechanism centers on impaired Rab geranylgeranyl transferase (Rab-GGTase) activity, leading to failure of intracellular vesicular transport in retinal pigment epithelium and photoreceptors, and their subsequent progressive degeneration. This pathophysiology does not have a direct, established connection to the MEK-ERK signaling axis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | metastatic melanoma | 99.06% | DL |
-| 2 | choroideremia | 98.63% | DL |
-| 3 | non-cutaneous melanoma | 98.60% | DL |
-| 4 | epithelioid cell melanoma | 98.57% | DL |
-| 5 | eyelid melanoma | 98.54% | DL |
-| 6 | scrotum melanoma | 98.42% | DL |
-| 7 | malignant melanoma of the mucosa | 98.19% | DL |
-| 8 | nodular malignant melanoma | 98.19% | DL |
-| 9 | superficial spreading melanoma | 98.19% | DL |
-| 10 | lentigo maligna melanoma | 98.19% | DL |
-| 11 | amelanotic skin melanoma | 98.19% | DL |
-| 12 | acral lentiginous melanoma (disease) | 98.19% | DL |
-| 13 | balloon cell malignant melanoma | 98.19% | DL |
-| 14 | CDK4 linked melanoma | 98.19% | DL |
-| 15 | choroidal dystrophy, central areolar | 98.16% | DL |
-| 16 | intestinal obstruction in the newborn due to guanylate cyclase 2C deficiency | 97.96% | DL |
-| 17 | amyotrophic lateral sclerosis | 91.75% | DL |
-| 18 | bilateral parasagittal parieto-occipital polymicrogyria | 91.69% | DL |
-| 19 | Mills syndrome | 91.04% | DL |
-| 20 | amyotrophic lateral sclerosis, susceptibility to | 90.68% | DL |
-
-*Showing top 20 of 50 predictions.*
+The high TxGNN prediction score likely reflects a distant, indirect association in the knowledge graph — possibly through shared retinal cell survival nodes — rather than a specific mechanistic link. Without preclinical experimental evidence demonstrating MEK-ERK pathway involvement in choroideremia pathophysiology, this prediction cannot be mechanistically justified at this time, and the biological rationale requires foundational research before any clinical translation is considered.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Binimetinib currently holds no marketing authorization in Taiwan. The drug is not marketed domestically.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
+Binimetinib's original approved indication is unresectable or metastatic melanoma — a malignancy — and it belongs to the kinase inhibitor class of anticancer agents.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Targeted therapy — MEK1/2 inhibitor (non-conventional cytotoxic; not a classical alkylating or antimetabolite agent) |
+| Myelosuppression Risk | Low (MEK inhibitors carry substantially lower myelosuppression risk than conventional chemotherapy; anaemia and neutropenia reported at low frequency) |
+| Emetogenicity Classification | Low |
+| Monitoring Items | CBC with differential (baseline and periodic), liver function tests (ALT/AST/bilirubin), cardiac function (LVEF by echocardiography), serum creatine kinase (CK), ophthalmological examination (retinal vein occlusion, uveitis, serous retinopathy), blood pressure |
+| Handling Protection | Please refer to the SmPC warnings and precautions; standard oral anticancer drug handling precautions apply per institutional protocol |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Despite a high TxGNN prediction score (98.63%), the mechanistic rationale for applying a MEK inhibitor to choroideremia — a disease driven by CHM gene mutation and Rab-GGTase pathway dysfunction — is absent, and no supporting clinical trials or published literature exist. There is no basis to advance this candidate without primary mechanistic evidence.
+
+**To proceed, the following is needed:**
+- Basic mechanistic research to determine whether MEK-ERK pathway activity contributes to choroideremia pathophysiology or photoreceptor survival
+- Preclinical validation using CHM-knockout animal models or patient-derived retinal organoids treated with binimetinib
+- TFDA prescribing information (SmPC equivalent) to fully characterize the safety profile for potential new patient populations, including ophthalmic considerations
+- Detailed MOA data from DrugBank or peer-reviewed sources to enable formal mechanistic linkage analysis
+- Landscape review of the choroideremia treatment pipeline (note: CHM gene replacement therapy via AAV vector is the leading clinical approach and represents a fundamentally different mechanism; the competitive and scientific context must be assessed before committing resources to a small-molecule repurposing strategy)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,102 @@
 ---
 layout: default
 title: Anifrolumab
-description: "Anifrolumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 42
+parent: 僅模型預測 (L5)
+nav_order: 53
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Anifrolumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Anifrolumab: From Systemic Lupus Erythematosus to Diabetic Cataract
+
+## One-Sentence Summary
+
+Anifrolumab (Saphnelo) is an anti-IFNAR1 monoclonal antibody that blocks type I interferon signaling, approved in the US and EU for moderate-to-severe systemic lupus erythematosus (SLE), though not currently marketed in Taiwan.
+The TxGNN model predicts it may be effective for **Diabetic Cataract**, with **0 clinical trials** and **0 publications** directly supporting this direction.
+Critically, all top 10 predictions cluster around cataract subtypes with near-identical scores, raising a high-confidence concern that these reflect knowledge graph propagation artifacts rather than genuine mechanistic opportunities.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Anifrolumab |
-| DrugBank ID | [DB11976](https://go.drugbank.com/drugs/DB11976) |
-| Brand Names (EU) | Saphnelo |
+| Item | Content |
+|------|---------|
+| Original Indication | Systemic Lupus Erythematosus (SLE) — moderate-to-severe (US/EU approved; not marketed in Taiwan) |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 98.50% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.50% |
+| Taiwan Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Saphnelo is indicated as an add-on therapy for the treatment of adult patients with moderate to severe, active autoantibody-positive systemic lupus erythematosus (SLE), despite standard therapy.
+Detailed mechanism of action data from DrugBank is not yet available for this analysis. From publicly known information, Anifrolumab is an anti-IFNAR1 monoclonal antibody that competitively blocks the type I interferon receptor subunit 1, thereby suppressing all downstream type I interferon (IFN-α, IFN-β, IFN-ω) signaling. Its efficacy in SLE is well-established because type I interferons are central pathogenic drivers of lupus flares. The drug is administered as an intravenous infusion every four weeks.
 
----
+Diabetic cataract arises from lens protein oxidation, glycation, and activation of the polyol (aldose reductase) pathway under chronic hyperglycemia — none of which are directly downstream of IFNAR1. There is no established biological pathway by which blocking type I interferon signaling would reduce lens opacification. The proposed indirect connection, supported by the evidence pack's mechanistic analysis, is that SLE patients receiving long-term corticosteroids face an elevated steroid-induced cataract risk; this creates KG edges linking Anifrolumab → SLE → corticosteroid use → cataract. This reflects a confounded association, not therapeutic potential.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 98.50% | DL |
-| 2 | tetanic cataract | 98.42% | DL |
-| 3 | mature cataract | 98.42% | DL |
-| 4 | immature cataract | 98.42% | DL |
-| 5 | craniostenosis cataract | 98.42% | DL |
-| 6 | diabetes mellitus type 2 associated cataract | 98.42% | DL |
-| 7 | cortical cataract | 98.40% | DL |
-| 8 | nuclear senile cataract | 98.40% | DL |
-| 9 | senile cataract | 98.34% | DL |
-| 10 | diabetic retinopathy | 98.19% | DL |
-| 11 | antithrombin deficiency type 2 | 97.99% | DL |
-| 12 | factor 5 excess with spontaneous thrombosis | 97.94% | DL |
-| 13 | severe nonproliferative diabetic retinopathy | 97.93% | DL |
-| 14 | heparin cofactor 2 deficiency | 97.89% | DL |
-| 15 | thrombophilia | 97.62% | DL |
-| 16 | diffuse gastric adenocarcinoma | 95.24% | DL |
-| 17 | hemorrhagic disease of newborn | 95.13% | DL |
-| 18 | gastric adenocarcinoma and proximal polyposis of the stomach | 94.55% | DL |
-| 19 | gastric carcinoma | 94.48% | DL |
-| 20 | gastric tubular adenocarcinoma | 94.43% | DL |
-
-*Showing top 20 of 50 predictions.*
+The most important red flag in this prediction set is the **score identity pattern**: six distinct cataract subtypes (mature, immature, tetanic, diabetes mellitus type 2 associated, craniostenosis, and cortical cataracts at ranks 2–6) all share an identical TxGNN score of 0.9842435121536256 — identical to 16 decimal places across biologically unrelated disease entities. Genuine biological predictions would produce distinct scores. This pattern is characteristic of a knowledge graph batch propagation artifact, where a cluster of disease nodes inherits scores from a shared upstream node rather than from drug-specific mechanistic modeling. The appearance of tetanic cataract (caused by hypocalcemia-induced lens metabolic failure) and craniostenosis cataract (caused by elevated intracranial pressure during skull development) — both entirely unrelated to immune signaling — further confirms this is a KG artifact rather than a real repurposing signal.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available for the primary predicted indication (diabetic cataract).
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
 ---
 
-## Citation
+## Conclusion and Next Steps
 
-If using this data, please cite:
+**Decision: Hold**
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Rationale:**
+The entire top-10 prediction cluster for Anifrolumab consists of cataract subtypes where multiple entries share mathematically identical TxGNN scores — a pattern conclusively indicating knowledge graph propagation artifacts. No clinical trials or disease-specific literature exist to support Anifrolumab as a cataract treatment, and the mechanistic link between IFNAR1 blockade and lens opacification is absent. Proceeding with this prediction would not represent a credible repurposing opportunity.
+
+**To proceed, the following is needed:**
+- **KG path audit**: Manually trace the knowledge graph path connecting Anifrolumab to cataract nodes to confirm the confound (SLE → corticosteroid → cataract) and formally classify as an artifact
+- **Taiwan SmPC safety data**: Currently blocked (DG001, Blocking severity) — TFDA SmPC must be retrieved before any safety evaluation can proceed
+- **MOA data from DrugBank** (DG002): Needed if mechanistic re-analysis is required for future non-artifact predictions
+- **Alternative indication triage**: If continuing Anifrolumab repurposing evaluation, diabetic retinopathy (rank 10, score 98.19%) warrants separate assessment — it has a more plausible (though uncertain) mechanistic rationale via IFN-driven retinal inflammation, and the direction-of-effect question should be investigated before any clinical hypothesis is formed
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

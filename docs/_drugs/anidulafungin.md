@@ -1,132 +1,116 @@
 ---
 layout: default
 title: Anidulafungin
-description: "Anidulafungin drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 41
+parent: 僅模型預測 (L5)
+nav_order: 52
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Anidulafungin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Anidulafungin: From Invasive Candidiasis to Impetigo
+
+## One-Sentence Summary
+
+Anidulafungin is an echinocandin antifungal administered intravenously, established for the treatment of invasive candidiasis and candidemia in critically ill and immunocompromised patients.
+The TxGNN model ranks **Impetigo** as its top predicted repurposing candidate with a score of 98.85%, yet this prediction is mechanistically implausible — impetigo is a purely bacterial skin infection with no connection to Anidulafungin's antifungal mechanism.
+Currently, **0 clinical trials** and **0 publications** support this specific repurposing direction, placing the evidence at Level L5.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Anidulafungin |
-| DrugBank ID | [DB00362](https://go.drugbank.com/drugs/DB00362) |
-| Brand Names (EU) | Ecalta |
+| Item | Content |
+|------|---------|
+| Original Indication | Invasive candidiasis / Candidemia (not registered in Taiwan) |
+| Predicted New Indication | Impetigo |
+| TxGNN Prediction Score | 98.85% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 98.85% |
+| Taiwan Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of invasive candidiasis in adults and paediatric patients aged 1 month to &lt; 18 years.
+Detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, Anidulafungin is an echinocandin that selectively inhibits β-(1,3)-D-glucan synthase — the enzyme responsible for constructing the fungal cell wall. This target is absent in both mammalian and bacterial cells, making the drug exclusively active against fungi such as *Candida* and *Aspergillus* species.
 
----
+Impetigo is a superficial bacterial skin infection caused by *Staphylococcus aureus* or *Streptococcus pyogenes*. There is no known biological pathway linking Anidulafungin's mechanism to bacterial pathogens or their toxins. The TxGNN high score most likely arises from non-specific co-occurrence signals in the "skin infection" comorbidity network within the knowledge graph — where immunocompromised patients treated with Anidulafungin for candidemia also carry diagnoses of concurrent bacterial skin conditions — rather than any direct therapeutic relationship.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | impetigo | 98.85% | DL |
-| 2 | malignant pleural mesothelioma | 98.75% | DL |
-| 3 | staphylococcal scalded skin syndrome | 98.73% | DL |
-| 4 | pleural empyema (disease) | 98.52% | DL |
-| 5 | malignant visceral pleura tumor | 98.45% | DL |
-| 6 | bullous impetigo | 98.40% | DL |
-| 7 | malignant epithelioid mesothelioma | 98.37% | DL |
-| 8 | sarcomatoid mesothelioma | 98.26% | DL |
-| 9 | hordeolum | 98.23% | DL |
-| 10 | Clostridium infectious disease | 98.22% | DL |
-| 11 | pleural neoplasm | 98.08% | DL |
-| 12 | inhalational botulism | 97.65% | DL |
-| 13 | toxin-mediated infectious botulism | 97.64% | DL |
-| 14 | cysticercosis | 97.34% | DL |
-| 15 | staphylococcal pneumonia | 97.02% | DL |
-| 16 | coenurosis | 96.89% | DL |
-| 17 | lymph node palisaded myofibroblastoma | 96.86% | DL |
-| 18 | abdominal cystic lymphangioma | 96.86% | DL |
-| 19 | celiac trunk compression syndrome | 96.86% | DL |
-| 20 | abdominal ectopic pregnancy | 96.86% | DL |
-
-*Showing top 20 of 51 predictions.*
+Among all 10 top predictions in this Evidence Pack, the mechanistically most coherent candidate is **Pleural Empyema** (Rank 4). Fungal empyema in immunocompromised patients (transplant recipients, haematological malignancy patients) is a recognised clinical entity. Importantly, a pharmacokinetic study (PMID 29439960, 2018) demonstrates that Anidulafungin does penetrate pleural effusion in critically ill patients, providing drug-delivery confirmation. This direction remains an exploratory research question pending efficacy evidence, but merits scientific investigation unlike the top-ranked bacterial predictions.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for Anidulafungin in impetigo.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available for Anidulafungin in impetigo.
 
 ---
 
-## Data Access
+## Additional Signal: Pleural Empyema (Rank 4)
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Although the primary report focuses on the top prediction, the following pharmacokinetic evidence is the only clinically interpretable literature found across all 10 predictions, and warrants transparent disclosure:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|------|------|---------|-------------|
+| [29439960](https://pubmed.ncbi.nlm.nih.gov/29439960/) | 2018 | Pharmacokinetic / Observational | Antimicrobial Agents and Chemotherapy | Anidulafungin concentrations measured in ascites fluid (0.12–0.99 μg/mL) and pleural effusion (0.32–2.02 μg/mL) of 10 critically ill patients, confirming drug penetration into body cavities below simultaneous plasma levels |
 
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> **Context:** This PK study does not demonstrate clinical efficacy in pleural empyema. It only confirms that Anidulafungin reaches the pleural space, which is a necessary but not sufficient condition for therapeutic activity against fungal empyema.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for complete safety information. TFDA prescribing information and key warnings/contraindications were not available in this Evidence Pack and represent a blocking data gap for formal safety screening.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The top TxGNN prediction (impetigo) is mechanistically disconnected from Anidulafungin's mode of action — the drug targets the fungal cell wall and has no antibacterial activity whatsoever. The L5 evidence level (AI prediction only, zero supporting studies) means no repurposing pathway exists for this indication. The broader pattern across the top 10 predictions shows that most high-ranking outputs reflect knowledge graph topology artefacts (shared disease ontology nodes, ICU co-occurrence) rather than genuine pharmacological relationships.
+
+**To proceed with any repurposing work, the following is needed:**
+
+- **MOA confirmation:** Retrieve complete DrugBank entry (DB00362) to formally document mechanism and fill the MOA data gap
+- **Safety baseline:** Download TFDA SmPC PDF and extract warnings, contraindications, and dose adjustments to resolve the blocking DG001 data gap
+- **Redirect focus to fungal empyema:** The pleural empyema prediction (Rank 4, L4) is the only direction with mechanistic coherence and preliminary PK evidence; a structured literature review specifically on fungal pleural empyema management should be conducted
+- **Efficacy data required:** The 2018 PK study (PMID 29439960) confirms drug exposure in pleural fluid but provides no efficacy endpoint; case series or retrospective cohort data on candidal empyema treatment with echinocandins are needed before this can advance to S1
+- **Taiwan registration pathway:** If a fungal empyema indication is pursued, an out-of-country evidence package referencing EMA/FDA approvals for invasive candidiasis would be the regulatory entry point
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

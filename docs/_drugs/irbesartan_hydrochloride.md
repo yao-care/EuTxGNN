@@ -2,7 +2,7 @@
 layout: default
 title: Irbesartan Hydrochloride
 parent: 僅模型預測 (L5)
-nav_order: 62
+nav_order: 125
 evidence_level: L5
 indication_count: 0
 ---

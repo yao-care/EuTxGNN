@@ -1,132 +1,108 @@
 ---
 layout: default
 title: Artenimol
-description: "Artenimol drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 49
+parent: 僅模型預測 (L5)
+nav_order: 60
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Artenimol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Artenimol: From Malaria to Smouldering Systemic Mastocytosis
+
+## One-Sentence Summary
+
+Artenimol (dihydroartemisinin, DHA) is the primary active metabolite of all artemisinin-class prodrugs, serving as the pharmacological core of antimalarial combination therapies such as Eurartesim® (artenimol + piperaquine). The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis (SSM)**, with **0 clinical trials** and **0 publications** directly supporting this direction. Notably, a separate TxGNN prediction at rank 4 — Plasmodium vivax malaria — carries robust **L1 evidence** with 6 clinical trials and 20 publications, confirming the drug's established antimalarial profile and underscoring the stark contrast with the SSM prediction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Artenimol |
-| DrugBank ID | [DB11638](https://go.drugbank.com/drugs/DB11638) |
-| Brand Names (EU) | Artenimol |
+| Item | Content |
+|------|---------|
+| Original Indication | Malaria (antimalarial active metabolite; no standalone TW or EU registration) |
+| Predicted New Indication | Smouldering Systemic Mastocytosis |
+| TxGNN Prediction Score | 98.67% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.87% |
+| EU Market Status | Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold (Research Question) |
 
 ---
 
-## Approved Indication (EMA)
+## Why Is This Prediction Reasonable?
 
-Eurartesim is indicated for the treatment of uncomplicated Plasmodium falciparum malaria in adults, children and infants 6 months and over and weighing 5 kg or more. Consideration should be given to official guidance on the appropriate use of antimalarial agents.
+Artenimol (DHA) is the bioactive core shared by all artemisinin prodrugs. Its canonical antimalarial mechanism involves iron-catalyzed decomposition of the endoperoxide bridge, generating reactive carbon radicals that alkylate parasite proteins (including PfATP6 and PfCRT) and disrupt mitochondrial electron transport. Beyond antiparasitic activity, extensive in vitro evidence shows DHA also inhibits NF-κB transcriptional activity and suppresses the PI3K/Akt/mTOR signaling axis — two pathways broadly implicated in tumor cell survival and proliferation.
 
----
+Smouldering Systemic Mastocytosis (SSM) is characterized by pathological accumulation of mast cells driven predominantly by the KIT D816V activating mutation, which constitutively signals through PI3K/Akt/mTOR and NF-κB to sustain cell survival. In vitro studies with artemisinin-class compounds have demonstrated inhibition of KIT receptor downstream signaling and induction of apoptosis in mast cell lines, providing at least a mechanistic basis for the TxGNN prediction. The overlap between DHA's established anti-proliferative targets and the oncogenic circuitry in SSM makes this a biologically plausible — if highly speculative — hypothesis.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | malaria | 99.87% | DL |
-| 2 | Smouldering systemic mastocytosis | 98.67% | DL |
-| 3 | lymphoadenopathic mastocytosis with eosinophilia | 98.42% | DL |
-| 4 | systemic mastocytosis | 98.28% | DL |
-| 5 | Plasmodium vivax malaria | 97.30% | DL |
-| 6 | rheumatoid factor-positive polyarticular juvenile idiopathic arthritis | 97.17% | DL |
-| 7 | juvenile chronic polyarthritis | 96.61% | DL |
-| 8 | rheumatoid nodulosis | 96.57% | DL |
-| 9 | juvenile idiopathic arthritis | 96.57% | DL |
-| 10 | West syndrome | 96.33% | DL |
-| 11 | intellectual disability, X-linked, with or without seizures, arx-related | 95.87% | DL |
-| 12 | echinococcus granulosus infectious disease | 94.27% | DL |
-| 13 | alveolar echinococcosis | 93.21% | DL |
-| 14 | gastrin secretion abnormality | 93.02% | DL |
-| 15 | cystic echinococcosis | 93.00% | DL |
-| 16 | enterobiasis | 92.44% | DL |
-| 17 | pseudoachondroplasia | 92.11% | DL |
-| 18 | juvenile arthritis due to defect in LACC1 | 91.98% | DL |
-| 19 | acne (disease) | 90.97% | DL |
-| 20 | monosomy X | 90.56% | DL |
-
-*Showing top 20 of 50 predictions.*
+That said, the TxGNN score of 98.67% should be interpreted with caution. In the context of zero clinical evidence, high graph-propagation scores more likely reflect structural similarity between SSM's disease node and other mast cell or inflammatory nodes that are well-connected to artemisinin-class compounds in the knowledge graph, rather than any SSM-specific experimental signal. Before this can advance beyond a computational hypothesis, in vitro validation in KIT D816V-mutant cell models is the essential first step.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> **Note:** Key warnings, contraindications, and drug interaction data are not available in this Evidence Pack. Retrieval of the TFDA/EMA SmPC (DG001) is a blocking prerequisite before any clinical translation discussion.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Despite a high TxGNN prediction score (98.67%), zero clinical trials and zero supporting publications mean this remains a purely computational hypothesis. The mechanistic link through KIT D816V / NF-κB / mTOR inhibition is biologically plausible but entirely unvalidated at the bench or bedside; no investment in clinical development can be justified without preclinical confirmation.
+
+**To proceed, the following is needed:**
+
+- **In vitro validation (highest priority):** Test artenimol against KIT D816V-mutant mast cell lines (e.g., HMC-1.2, ROSA) to confirm anti-proliferative activity, determine IC₅₀, and characterize apoptosis induction
+- **MOA data retrieval (DG002):** Query DrugBank API to obtain the complete pharmacological profile of artenimol, including known molecular targets beyond antimalarial mechanisms
+- **Safety data retrieval (DG001 — Blocking):** Download and parse TFDA/EMA SmPC PDF to populate key warnings and contraindications before any clinical rationale can be completed
+- **Regulatory pathway assessment:** Artenimol has no standalone EU or TW marketing authorization; any SSM indication would require a full new drug application rather than a label extension — a materially higher development barrier
+- **Consider broader entry point:** Systemic mastocytosis (rank 3, TxGNN 98.28%) represents the same disease spectrum with a wider patient population and may be a more tractable proof-of-concept study design than the narrower SSM subtype; evaluating both together in a single preclinical package would be more efficient
+
+---
+
+> ⚠️ **Disclaimer:** This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,122 @@
 ---
 layout: default
 title: Aztreonam
-description: "Aztreonam drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 67
+parent: 僅模型預測 (L5)
+nav_order: 78
 evidence_level: L5
-indication_count: 52
+indication_count: 10
 ---
 
 # Aztreonam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Aztreonam: From Gram-Negative Bacterial Infections to Gonococcal Urethritis
+
+## One-Sentence Summary
+
+Aztreonam is a monobactam antibiotic used to treat serious gram-negative aerobic bacterial infections, including urinary tract infections, lower respiratory tract infections, and septicemia.
+The TxGNN model identifies **Gonococcal Urethritis** as the most evidence-supported repurposing target, backed by **1 completed Phase 2/3 clinical trial** and **8 publications** directly evaluating aztreonam against *Neisseria gonorrhoeae*.
+This repurposing direction is mechanistically sound and clinically timely, given the global emergence of ceftriaxone-resistant gonorrhea with no reliable alternative therapies.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Aztreonam |
-| DrugBank ID | [DB00355](https://go.drugbank.com/drugs/DB00355) |
-| Brand Names (EU) | Aztreonam, Emblaveo |
-| Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 99.73% |
+| Item | Content |
+|------|---------|
+| Original Indication | Gram-negative bacterial infections (UTI, lower respiratory tract infections, septicemia) |
+| Predicted New Indication | Gonococcal Urethritis |
+| TxGNN Prediction Score | 99.59% |
+| Evidence Level | L2 |
+| Taiwan Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Emblaveo is indicated for the treatment of the following infections in adult patients (see sections 4.4 and 5.1):• Complicated intra-abdominal infection (cIAI)• Hospital-acquired pneumonia (HAP), including ventilator-associated pneumonia (VAP)&nbsp;• Complicated urinary tract infection (cUTI), including pyelonephritisEmblaveo is also indicated for the treatment of infections due to aerobic Gram-negative organisms in adult patients with limited treatment options (see sections 4.2, 4.4, and 5.1).C
+Currently, detailed mechanism of action data from DrugBank is unavailable for this report. Based on established pharmacology, Aztreonam is a monocyclic β-lactam (monobactam) antibiotic that selectively binds to Penicillin-Binding Protein 3 (PBP3) on the outer membrane of gram-negative aerobic bacteria, inhibiting cell wall synthesis and triggering bacterial lysis. Its selectivity is narrow and precise — it has no intrinsic activity against gram-positive organisms or anaerobes.
 
----
+*Neisseria gonorrhoeae*, the causative pathogen of gonorrhea, is a gram-negative diplococcus, placing it squarely within aztreonam's spectrum of action. The PBP3 on gonococci is a high-affinity aztreonam target, providing a strong mechanistic rationale for repurposing. The clinical argument is reinforced by the global antimicrobial resistance crisis: *N. gonorrhoeae* has sequentially developed resistance to sulfonamides, penicillins, tetracyclines, fluoroquinolones, and now increasingly to third-generation cephalosporins (ceftriaxone-resistant gonorrhea, CRNG). The CDC has classified antimicrobial-resistant *N. gonorrhoeae* as one of the top three urgent threats in the United States. With parenteral cephalosporins becoming unreliable, repurposing older antibiotics such as aztreonam represents a rapid path to new rescue therapies.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | polyclonal hyperviscosity syndrome | 99.73% | DL |
-| 2 | hyperamylasemia | 99.73% | DL |
-| 3 | urinary tract infection (disease) | 99.69% | DL |
-| 4 | congenital analbuminemia | 99.69% | DL |
-| 5 | Ureaplasma urethritis | 99.59% | DL |
-| 6 | gonococcal urethritis | 99.59% | DL |
-| 7 | blood group incompatibility | 99.59% | DL |
-| 8 | premalignant hematological system disease | 99.54% | DL |
-| 9 | epiglottitis | 99.53% | DL |
-| 10 | monoclonal gammopathy | 99.50% | DL |
-| 11 | xanthogranulomatous pyelonephritis | 99.49% | DL |
-| 12 | uterine inflammatory disease | 99.47% | DL |
-| 13 | hematological disease associated with an acquired peripheral neuropathy | 99.46% | DL |
-| 14 | septicemic plague | 99.38% | DL |
-| 15 | congenital hematological disorder | 99.32% | DL |
-| 16 | Peptostreptococcus infectious disease | 99.28% | DL |
-| 17 | staphylococcus aureus infection | 99.19% | DL |
-| 18 | toxocariasis | 99.13% | DL |
-| 19 | streptococcal pneumonia | 98.90% | DL |
-| 20 | urogenital tuberculosis | 98.84% | DL |
-
-*Showing top 20 of 52 predictions.*
+One critical caveat has emerged from surveillance data: aztreonam-high-resistant *N. gonorrhoeae* strains not producing beta-lactamase have been documented in Japan since 2001 (PMID 11406757). Any clinical deployment must be preceded by local antimicrobial susceptibility testing to confirm aztreonam still covers circulating strains.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|-------------|-------|--------|------------|--------------|
+| [NCT03867734](https://clinicaltrials.gov/study/NCT03867734) | Phase 2/3 | Completed | 32 | Evaluated single-dose aztreonam 2 g IM specifically for pharyngeal gonorrhea — the most difficult anatomical site to eradicate. Framed as a rescue approach for multidrug-resistant *N. gonorrhoeae* given exhaustion of first-line antibiotic classes. |
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|------|------|---------|--------------|
+| [33077658](https://pubmed.ncbi.nlm.nih.gov/33077658/) | 2020 | Clinical Trial (Single-arm) | Antimicrobial Agents and Chemotherapy | Open-label trial of aztreonam 2 g IM for *N. gonorrhoeae*, linked to NCT03867734; assessed eradication at pharyngeal and urogenital sites as a ceftriaxone-resistant gonorrhea contingency |
+| [3157346](https://pubmed.ncbi.nlm.nih.gov/3157346/) | 1985 | Clinical Study | Antimicrobial Agents and Chemotherapy | Aztreonam 1 g IM vs. spectinomycin 2 g IM for uncomplicated gonorrhea — zero treatment failures in either arm across urethral, rectal, and endocervical sites |
+| [3095216](https://pubmed.ncbi.nlm.nih.gov/3095216/) | 1986 | Clinical Study | Genitourinary Medicine | Single 1 g IM injection cleared infection in 61 men and 26 women at all sites; effective against both penicillin-sensitive and penicillin-resistant strains with no adverse effects |
+| [6225808](https://pubmed.ncbi.nlm.nih.gov/6225808/) | 1983 | Clinical Study | Journal of Infectious Diseases | Demonstrated efficacy against penicillinase-producing *N. gonorrhoeae* (PPNG) including spectinomycin-resistant strains — established aztreonam's niche in resistant gonorrhea |
+| [6438364](https://pubmed.ncbi.nlm.nih.gov/6438364/) | 1984 | Clinical Study | Japanese Journal of Antibiotics | 30 male patients with gonococcal urethritis; bacteriological and clinical evaluation of PPNG (15%) and non-PPNG strains; established early Japanese clinical experience |
+| [3937450](https://pubmed.ncbi.nlm.nih.gov/3937450/) | 1985 | Clinical Study | Acta Urologica Japonica | Single-shot aztreonam therapy for gonorrheal infections; epidemiologic analysis of 244 strains including 17.2% PPNG; supported one-dose IM regimen |
+| [6226596](https://pubmed.ncbi.nlm.nih.gov/6226596/) | 1983 | Clinical Study | Giornale Italiano di Dermatologia e Venereologia | Early Italian clinical study of aztreonam in acute gonococcal urethritis |
+| [11406757](https://pubmed.ncbi.nlm.nih.gov/11406757/) | 2001 | Observational/Microbiology | Journal of Infection and Chemotherapy | **Key resistance signal**: documents emergence of aztreonam-high-resistant *N. gonorrhoeae* not producing beta-lactamase — essential surveillance data for risk stratification before clinical use |
 
 ---
 
-## Citation
+## Taiwan Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Aztreonam is currently **not marketed in Taiwan**. There are no active TFDA marketing authorizations on record. Any clinical use in Taiwan would require a special import license or approval through a formal clinical trial protocol.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Proceed with Guardrails**
+
+**Rationale:**
+A completed Phase 2/3 trial and eight clinical publications, spanning four decades, consistently support aztreonam's bacteriological and clinical efficacy against *N. gonorrhoeae*. The mechanistic basis is strong, the unmet medical need is urgent (rising CRNG globally), and the drug's existing safety profile is well characterized. The primary guardrail is emerging aztreonam resistance in gonococci, which must be addressed through local susceptibility surveillance before any formal indication development.
+
+**To proceed, the following is needed:**
+
+- **Local susceptibility data**: Confirm aztreonam MIC distribution against circulating Taiwan *N. gonorrhoeae* strains; endemic aztreonam resistance would halt development
+- **Full SmPC review**: Obtain TFDA product insert (or EU/US SmPC) to document contraindications, key warnings, and drug-drug interactions
+- **MOA confirmation**: Retrieve full mechanism of action data from DrugBank API (DG002 remediation)
+- **Dose regimen selection**: Clarify whether 1 g or 2 g IM single dose is optimal; 2020 trial used 2 g for pharyngeal sites
+- **Regulatory pathway**: Assess requirements for special import authorization or IND application in Taiwan for formal clinical evaluation
+- **Comparative study design**: Define comparator arm (ceftriaxone 500 mg IM currently preferred) and primary endpoint (microbiological cure at all anatomical sites)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
