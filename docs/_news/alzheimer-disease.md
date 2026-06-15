@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [People living with dementia are too often overlooked | Letters - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
+### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
-2026-06-14
+2026-06-15
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
-
----
-
-### [We feared dad had dementia, then doctors found the real reason he was so confused - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOE4wTGRjRF9Oc3BlT2tOeHVHUldRTlVTblZYaDVodV8xM2tuOU13WVl4dU05NjNibkJjN2wtQ1VSYU1EWkpaN2RSREwtSGlVbUVqY1JROTRHNjBKR3FubGUwVldleGk3ZWhmNVpjNEFnRlNiSHd2QnppY1l4U3duM0xaaU9mYnYtZ1B4NNIBkgFBVV95cUxQZmVIQjFDWERROXpFWnpPOEVMdkx5SkFNQnk2Tlp6WnpENjFHZVhvcWNSbUUtbEJSSmk5YXE4X0hrQk1zSnE2Q1RCbUpUenhKUi1Zek1PQWM2aWJqZHRnazhtZVBOaGRSRjhzWmVYSEFFUUpLZXVCblBSVTZJU0dwVDNST0NWbnd5d1ltbzhjUUFwUQ?oc=5)
-
-2026-06-14
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOE4wTGRjRF9Oc3BlT2tOeHVHUldRTlVTblZYaDVodV8xM2tuOU13WVl4dU05NjNibkJjN2wtQ1VSYU1EWkpaN2RSREwtSGlVbUVqY1JROTRHNjBKR3FubGUwVldleGk3ZWhmNVpjNEFnRlNiSHd2QnppY1l4U3duM0xaaU9mYnYtZ1B4NNIBkgFBVV95cUxQZmVIQjFDWERROXpFWnpPOEVMdkx5SkFNQnk2Tlp6WnpENjFHZVhvcWNSbUUtbEJSSmk5YXE4X0hrQk1zSnE2Q1RCbUpUenhKUi1Zek1PQWM2aWJqZHRnazhtZVBOaGRSRjhzWmVYSEFFUUpLZXVCblBSVTZJU0dwVDNST0NWbnd5d1ltbzhjUUFwUQ?oc=5)
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
 ---
 
@@ -67,14 +59,6 @@ permalink: /news/alzheimer-disease/
 2026-06-13
 
 來源：[BuzzFeed](https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5)
-
----
-
-### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc1RnljcHNQZlZSUHlWelBucnh6aUtXSy1QeVdZRGVmTklIeXh5SVNuVEZLN1RxQTEwUTVuUVV1aUdxRHBra3VOOTFzZy1BcFBrZVl1U0M2WUJ2d3E3TThTaGxtamN4X2xOY3U2bHVic241MENqUjhIVDRhMkRaVTRFbU85LU52ZUZTZNIBkgFBVV95cUxPbXZqcEJNSnlJNnZnTEVCU0U2MmdySmZsb3FKQTAtdDA4YWxxcmtDZGhWY3A4M3NkcW9WYUIzNkx5elJveGlYbUE1SXNCWFNkampyRnkwSWlIaXU2QzNSMHZZa210NTFUNXRiZmJRMzZ4cnhnOEp2T1RnQXpaQXRzdTBEZkNDd3ZhRFcyRUlFOENVdw?oc=5)
-
-2026-06-13
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc1RnljcHNQZlZSUHlWelBucnh6aUtXSy1QeVdZRGVmTklIeXh5SVNuVEZLN1RxQTEwUTVuUVV1aUdxRHBra3VOOTFzZy1BcFBrZVl1U0M2WUJ2d3E3TThTaGxtamN4X2xOY3U2bHVic241MENqUjhIVDRhMkRaVTRFbU85LU52ZUZTZNIBkgFBVV95cUxPbXZqcEJNSnlJNnZnTEVCU0U2MmdySmZsb3FKQTAtdDA4YWxxcmtDZGhWY3A4M3NkcW9WYUIzNkx5elJveGlYbUE1SXNCWFNkampyRnkwSWlIaXU2QzNSMHZZa210NTFUNXRiZmJRMzZ4cnhnOEp2T1RnQXpaQXRzdTBEZkNDd3ZhRFcyRUlFOENVdw?oc=5)
 
 ---
 

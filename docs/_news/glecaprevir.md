@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Polyphenole: Kaffeesäure bremst Entzündungen stärker als Koffein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVR2dFdTUVV2djJ3NldCZXNHR2p4YnlyRC1PVm00dFdNY3MyY1ZGbUJiVEhmX3UyVXNDZHhEUi1ScHBTY01tcThvdC1kUURlV0t3a3RDNzlsRGczM2lYSUJ6a0RpR1RCcjlUYkRPa3hheGpiTFZoSDZuSXg1eUl5ei10cE83ZF9fcnFwa0Z3OWpSY2VNRmxFbW11YjVUbFR0dFg0QVRTVi1QQlczNjhYTDFOU2V6UQ?oc=5)
+### [Kaffee-Wirkstoffe: Polyphenole senken Entzündungen stärker als Koffein - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGpHeDA2VjRxWGVDQ3RUT0dNakhQYmpmRURWY1pWSHZTbWswdkstUWtaNk1jU2pkdUJST2JNUkJtWTFPV2lyWDlrZ2NXeXlnYTJrelU2QmNENVQ3ei11LTJBZl9fRlRnR2xUU2Y3a1h3cFdrOGVOTnJFcnFzRi14a09GcS1HVjRvY2VQTDB0WkM4cDRQR2c0TVVkN0FVWXlXVzNKa0YzWlRYOUFVcUREMDl0UmF4Y0xCelZxRA?oc=5)
 
 2026-06-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVR2dFdTUVV2djJ3NldCZXNHR2p4YnlyRC1PVm00dFdNY3MyY1ZGbUJiVEhmX3UyVXNDZHhEUi1ScHBTY01tcThvdC1kUURlV0t3a3RDNzlsRGczM2lYSUJ6a0RpR1RCcjlUYkRPa3hheGpiTFZoSDZuSXg1eUl5ei10cE83ZF9fcnFwa0Z3OWpSY2VNRmxFbW11YjVUbFR0dFg0QVRTVi1QQlczNjhYTDFOU2V6UQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGpHeDA2VjRxWGVDQ3RUT0dNakhQYmpmRURWY1pWSHZTbWswdkstUWtaNk1jU2pkdUJST2JNUkJtWTFPV2lyWDlrZ2NXeXlnYTJrelU2QmNENVQ3ei11LTJBZl9fRlRnR2xUU2Y3a1h3cFdrOGVOTnJFcnFzRi14a09GcS1HVjRvY2VQTDB0WkM4cDRQR2c0TVVkN0FVWXlXVzNKa0YzWlRYOUFVcUREMDl0UmF4Y0xCelZxRA?oc=5)
+
+---
+
+### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Hochverarbeitete Lebensmittel: 58% höheres Demenzrisiko belegt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbldsdWVFZ2JEa2g4emxfWEJ4QjgzWDVTRkhKNmN3QUpNTnREOV9LbklGTU1rUmhkZXhlTmJ3ajJ5SXBSWHBULWljMXdVMVdkLXVMTlhSS0FXZkxrNzBzQWktRHZjQlpvYlB2WUxVc0R6UmZ6YnRhZEM0MWI1a2k3LWhZT3JhYjdMUWNVQmx5YzNDbXpKZFNnbGZla1hZaVFTb2hYWXU4TGF5d01kYlVGdk54SnRKNF9sNnc?oc=5)
-
-2026-06-15 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbldsdWVFZ2JEa2g4emxfWEJ4QjgzWDVTRkhKNmN3QUpNTnREOV9LbklGTU1rUmhkZXhlTmJ3ajJ5SXBSWHBULWljMXdVMVdkLXVMTlhSS0FXZkxrNzBzQWktRHZjQlpvYlB2WUxVc0R6UmZ6YnRhZEM0MWI1a2k3LWhZT3JhYjdMUWNVQmx5YzNDbXpKZFNnbGZla1hZaVFTb2hYWXU4TGF5d01kYlVGdk54SnRKNF9sNnc?oc=5)
-
----
-
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
 2026-06-15 <span class="news-indication-tag">MS</span>
@@ -94,19 +94,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Manuel Romero: «Si reducimos a la mitad la obesidad infantil, duplicaremos la supervivencia de la población»](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2dzb29uaC1EbE9YdjZGNFNfWUNHcjN5UTNYZ0xGTTdBUzRrTWlDeVA4WGdxcjh5V1VYMjN3Q0hGWlc2TjRyamV5bC1rUjZETFNZOTJuWDBWbkx5OXBxeE5ITlE5cmR5UlV3QTkyN0ZaalZ3bmhDN2ZHdmZrS2FqV294ekw2M1VTWTVqZXVZMnZsN2hsT2x3d2NGR0c5dnp3M09ISG1ISENvSDFuUzJRbnJpemtvYU5U0gG-AUFVX3lxTE9kQktEWUNENWNsOFVPMVBnd2NIakhCQzNnY050T2VQcXdsX3UyMERzQXVpRWgxUTUxV3laTWV3RldUWHpELUJ0Sk1mdXZfN1EzMVN3M2dDWGdfSmg2T2drVWtuWjM2dWxlVG9PaC05THRwRUI0UGk1QjFxSEZRZzFUc1JOem5SSXBmaXdSczJwbXRhVmlVRmIxN3prVVF4dFE5X2NVdXdFdlhVVHBaeFRXU196dlVRRU0yeUlRTmc?oc=5)
+### [Dormir poco, o demasiado, acelera el envejecimiento: este es el tiempo ideal de descanso nocturno](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0tZdmNrQ1pMWGFSblR3N29DcUZydl9mMTlHOGdzTWZOMVRuMEpSd2J0aGxNUEFsZU1WYUZaUEo2cDhGWWZYNlA1NXF2ZjA3ZXo2LXlHR1I2LTRpQkI1MTgxS0ZQLXNDbDcxZ3RqZzBWS1hTQjRWcUUybW94OEtRaklDMEV6RXg5RVpVUFM1R3hLMTl4ZU9Oak9VMVZMbGVYY1g3dFhtYmdQUdIBrwFBVV95cUxNUTVlUFNoSlRGODViQ2plbDFSN2ZHZzVKNGZOUnFZSVFGSVZxVFFPTDNsU3MtWXAxZDlOQnlkN0NFMEp1TDU5NkdKRjhHcmduT0c2bC1MOFZSbUVwUUd2dUptYVd0SGhXejlHclVxNGVoT0l4alJ3LUEwRUVNOWNUaHZhSXU2NW5vLWZyeXB1OTFpVXBCcE5aNXhqTi1MSURUbnRTTGtTUlBRdnU0SXhJ?oc=5)
 
-2026-06-15 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+2026-06-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2dzb29uaC1EbE9YdjZGNFNfWUNHcjN5UTNYZ0xGTTdBUzRrTWlDeVA4WGdxcjh5V1VYMjN3Q0hGWlc2TjRyamV5bC1rUjZETFNZOTJuWDBWbkx5OXBxeE5ITlE5cmR5UlV3QTkyN0ZaalZ3bmhDN2ZHdmZrS2FqV294ekw2M1VTWTVqZXVZMnZsN2hsT2x3d2NGR0c5dnp3M09ISG1ISENvSDFuUzJRbnJpemtvYU5U0gG-AUFVX3lxTE9kQktEWUNENWNsOFVPMVBnd2NIakhCQzNnY050T2VQcXdsX3UyMERzQXVpRWgxUTUxV3laTWV3RldUWHpELUJ0Sk1mdXZfN1EzMVN3M2dDWGdfSmg2T2drVWtuWjM2dWxlVG9PaC05THRwRUI0UGk1QjFxSEZRZzFUc1JOem5SSXBmaXdSczJwbXRhVmlVRmIxN3prVVF4dFE5X2NVdXdFdlhVVHBaeFRXU196dlVRRU0yeUlRTmc?oc=5)
-
----
-
-### [Santé. Fatigue visuelle, sécheresse oculaire : comment lutter contre les effets négatifs des écrans ? - Le Progrès](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWnV4OUJuY3ZDdERrVFMyMFUtVDFYaUpfck5HcUhmTWlzQnktVExybWhmM011UjB3OF9EbDdRdHVpMW1ZMmFKTU1ERWpzT2xrbjlOdEVFQVRiU0R1Uk9vRFJYTlFWa2d1X0NZRGtMNkhzMmppREZLWGdBZ3NYbEVLbGx3cGZGN0V0dGxZMTFVWC1sWmZqcDhwLW1tWE1NcWhHdjFsS0ZIQXZMVHlKdnozZ09MeUtKeGViS2VCaEkxdlY4aFczbHZxZFo0TldQODNTYWU2ci1fOA?oc=5)
-
-2026-06-14 <span class="news-indication-tag">MS</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWnV4OUJuY3ZDdERrVFMyMFUtVDFYaUpfck5HcUhmTWlzQnktVExybWhmM011UjB3OF9EbDdRdHVpMW1ZMmFKTU1ERWpzT2xrbjlOdEVFQVRiU0R1Uk9vRFJYTlFWa2d1X0NZRGtMNkhzMmppREZLWGdBZ3NYbEVLbGx3cGZGN0V0dGxZMTFVWC1sWmZqcDhwLW1tWE1NcWhHdjFsS0ZIQXZMVHlKdnozZ09MeUtKeGViS2VCaEkxdlY4aFczbHZxZFo0TldQODNTYWU2ci1fOA?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0tZdmNrQ1pMWGFSblR3N29DcUZydl9mMTlHOGdzTWZOMVRuMEpSd2J0aGxNUEFsZU1WYUZaUEo2cDhGWWZYNlA1NXF2ZjA3ZXo2LXlHR1I2LTRpQkI1MTgxS0ZQLXNDbDcxZ3RqZzBWS1hTQjRWcUUybW94OEtRaklDMEV6RXg5RVpVUFM1R3hLMTl4ZU9Oak9VMVZMbGVYY1g3dFhtYmdQUdIBrwFBVV95cUxNUTVlUFNoSlRGODViQ2plbDFSN2ZHZzVKNGZOUnFZSVFGSVZxVFFPTDNsU3MtWXAxZDlOQnlkN0NFMEp1TDU5NkdKRjhHcmduT0c2bC1MOFZSbUVwUUd2dUptYVd0SGhXejlHclVxNGVoT0l4alJ3LUEwRUVNOWNUaHZhSXU2NW5vLWZyeXB1OTFpVXBCcE5aNXhqTi1MSURUbnRTTGtTUlBRdnU0SXhJ?oc=5)
 
 ---
 

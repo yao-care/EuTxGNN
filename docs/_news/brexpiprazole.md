@@ -54,11 +54,11 @@ permalink: /news/brexpiprazole/
 
 ## 相關新聞（2 則）
 
-### [Depression: Charité startet 2,3-Millionen-Euro-Studie mit DHEA - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFgxU3ltSENOOTV6WTcxRTdCbWlpc3ktUGliOUZ4SDhIeHVOOXhpTWdNb1h1bTVxeF83blFlSmhZbVNIaXI3VXlqTld0VHV3d3BQUzc3SkNNTUV3V3Ixdmk3WlRkbm1mNEZtZlUwZEk5RG0wcXltWHRmM2J0aWFRRXh5V0RJZTN6XzZEaUtZVnotMDRRSW81eFA1d3c4VGFzV3ZleWlxQ0RLckdGUDNV?oc=5)
+### [Charité startet 2,3-Millionen-Studie: DHEA als Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1lc0I3aE14M0Rud00xc2JfWFRaVWpmRG5hTjR2cElxOGJqVmJvSjV4enJrQ2lHRHNkOTF6Z0ZnOW04UXQ1MWY3YTdXUGNBYW1XYnp5TkVITEotQV9mTDF1bFVWLXBOU0dYNS1fS1VCMmhfNk5WUU1TTWlLc2hwSVZIZ0d4MzlZeWZNZVZwa1BLUEVhQ0FycU1TaGNtNUpsTll2OXlfMVpoaXVnR1JUeGlObEdIRHh0WTdpTzFqdDhvM282?oc=5)
 
 2026-06-15 <span class="news-indication-tag">depression</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFgxU3ltSENOOTV6WTcxRTdCbWlpc3ktUGliOUZ4SDhIeHVOOXhpTWdNb1h1bTVxeF83blFlSmhZbVNIaXI3VXlqTld0VHV3d3BQUzc3SkNNTUV3V3Ixdmk3WlRkbm1mNEZtZlUwZEk5RG0wcXltWHRmM2J0aWFRRXh5V0RJZTN6XzZEaUtZVnotMDRRSW81eFA1d3c4VGFzV3ZleWlxQ0RLckdGUDNV?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1lc0I3aE14M0Rud00xc2JfWFRaVWpmRG5hTjR2cElxOGJqVmJvSjV4enJrQ2lHRHNkOTF6Z0ZnOW04UXQ1MWY3YTdXUGNBYW1XYnp5TkVITEotQV9mTDF1bFVWLXBOU0dYNS1fS1VCMmhfNk5WUU1TTWlLc2hwSVZIZ0d4MzlZeWZNZVZwa1BLUEVhQ0FycU1TaGNtNUpsTll2OXlfMVpoaXVnR1JUeGlObEdIRHh0WTdpTzFqdDhvM282?oc=5)
 
 ---
 
