@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Charité startet 2,3-Millionen-Studie: DHEA als Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1lc0I3aE14M0Rud00xc2JfWFRaVWpmRG5hTjR2cElxOGJqVmJvSjV4enJrQ2lHRHNkOTF6Z0ZnOW04UXQ1MWY3YTdXUGNBYW1XYnp5TkVITEotQV9mTDF1bFVWLXBOU0dYNS1fS1VCMmhfNk5WUU1TTWlLc2hwSVZIZ0d4MzlZeWZNZVZwa1BLUEVhQ0FycU1TaGNtNUpsTll2OXlfMVpoaXVnR1JUeGlObEdIRHh0WTdpTzFqdDhvM282?oc=5)
+### [La neuromodulación logra hasta un 50% de respuesta en depresión resistente](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09zT1B5VzZyWGNDWkFZenFFWGp1S1hTRV9pWk1qcEJoM3gtSnA5cTBYUnlfLXNnNWZzYzB1UW9LclpzUndZMDVSR000dXVGZDlSck03Y2xpSGY0anpLNFdKNXNBNjZmaVNlSTJfWHltQTREMVhORWpOcXh0cGl6MDl3THNxZlozWTN5RlJvUHFULVFaRXpVRnFkazJyRkg3MGhoMnhhOUpVTFUxNGpBMTNBaVJ2aHM?oc=5)
 
-2026-06-15 <span class="news-indication-tag">depression</span>
+2026-06-16 <span class="news-indication-tag">depresión</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1lc0I3aE14M0Rud00xc2JfWFRaVWpmRG5hTjR2cElxOGJqVmJvSjV4enJrQ2lHRHNkOTF6Z0ZnOW04UXQ1MWY3YTdXUGNBYW1XYnp5TkVITEotQV9mTDF1bFVWLXBOU0dYNS1fS1VCMmhfNk5WUU1TTWlLc2hwSVZIZ0d4MzlZeWZNZVZwa1BLUEVhQ0FycU1TaGNtNUpsTll2OXlfMVpoaXVnR1JUeGlObEdIRHh0WTdpTzFqdDhvM282?oc=5)
-
----
-
-### [La déroute des pères : la dénatalité n’est pas qu’un problème de femmes - Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
-
-2026-06-14 <span class="news-indication-tag">dépression</span>
-
-來源：[Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09zT1B5VzZyWGNDWkFZenFFWGp1S1hTRV9pWk1qcEJoM3gtSnA5cTBYUnlfLXNnNWZzYzB1UW9LclpzUndZMDVSR000dXVGZDlSck03Y2xpSGY0anpLNFdKNXNBNjZmaVNlSTJfWHltQTREMVhORWpOcXh0cGl6MDl3THNxZlozWTN5RlJvUHFULVFaRXpVRnFkazJyRkg3MGhoMnhhOUpVTFUxNGpBMTNBaVJ2aHM?oc=5)
 
 ---
 

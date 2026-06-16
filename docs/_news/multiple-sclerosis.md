@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### ['First line of defence' against rare Ebola outbreak 'has collapsed'](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkpPXzU2blowd09FT3IzaVgyWEFXU0FQamRCSGVPV0xCQnJTSGh2Z1NRaUtKQVFpVFBndE5iRXNmclA4SE15OWdfMWtGZzlXcGNEZGg2MFZ1R04xdkRkM3lHR1VGMF9YbEdCLXIzNFIwUmlXeUFFS1dEMjlOQkIxLUh2VEcxdUg5bWpNdWtoaWZRQl9PNGxpaNIBngFBVV95cUxNUEJVQ1Z2UnpOT2phNm1hZ01YTGFSeFdsQV9NYXVUQTNYYWxRNnB6S25QeUs3NXVhaWU5TGk3RGdTbDlkV1Z4c2x2ZUpLcUZuNWdtQWJPNnZ4cXRVT29xckptc2g4cUQ2YW1Va3dKbXlMaHpTOUFXbmk2b2x1ZTBlR1BHNEN0dVFWa1R3Nl9DVnc5MTRkOTVwSHJ3dnFEUQ?oc=5)
+### [Magic Mushrooms And Alzheimer's: One Remarkable Case Raises New Questions](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
 2026-06-16
 
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkpPXzU2blowd09FT3IzaVgyWEFXU0FQamRCSGVPV0xCQnJTSGh2Z1NRaUtKQVFpVFBndE5iRXNmclA4SE15OWdfMWtGZzlXcGNEZGg2MFZ1R04xdkRkM3lHR1VGMF9YbEdCLXIzNFIwUmlXeUFFS1dEMjlOQkIxLUh2VEcxdUg5bWpNdWtoaWZRQl9PNGxpaNIBngFBVV95cUxNUEJVQ1Z2UnpOT2phNm1hZ01YTGFSeFdsQV9NYXVUQTNYYWxRNnB6S25QeUs3NXVhaWU5TGk3RGdTbDlkV1Z4c2x2ZUpLcUZuNWdtQWJPNnZ4cXRVT29xckptc2g4cUQ2YW1Va3dKbXlMaHpTOUFXbmk2b2x1ZTBlR1BHNEN0dVFWa1R3Nl9DVnc5MTRkOTVwSHJ3dnFEUQ?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
 ---
 
-### [pädiatrie schweiz empfiehlt neue offizielle Wachstumskurven für Kinder und Jugendliche in der Schweiz](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdkhsQ2RGVXNPWDJqenB2RDBYRXhRdFlpWGsxbVpfelJQeFNoOEhTRVkxUDVwVVRCS0RQUlZIRUZXQWsxRHFLTFJGVWVwMWs0Q2R3eVFLTXV3MnVtei0tTi1KQQ?oc=5)
+### [All you need to know about prostate cancer as Queen’s professor offers advice that ‘could even save your life’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
 
 2026-06-16
 
-來源：[Presseportal.ch](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdkhsQ2RGVXNPWDJqenB2RDBYRXhRdFlpWGsxbVpfelJQeFNoOEhTRVkxUDVwVVRCS0RQUlZIRUZXQWsxRHFLTFJGVWVwMWs0Q2R3eVFLTXV3MnVtei0tTi1KQQ?oc=5)
+來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Top vaping flavours could 'raise cardiac arrest risk' by causing an irregular heartbeat, study claims - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnNJSVRQQl9MQnJqeUlHTThqMjVhYzBmTXQ2NVY1NFI2X3JEMmh4MVdFV19RTjU4TkVNRVExUVdwamd0TjQ1RjJCZTd6RURRUEdpY0dfVDJ3OTVBaGJxQThoV2R3aDZyNHZWRlI2M1VrS3NDc3pZMXF4U2w1YkMxdEVrckljXzViYUJSRWxvSnlOdlpjclVNYWo4TGQ0S0J4czY0?oc=5)
+### [Top vaping flavours could raise cardiac arrest risk by causing an irregular heartbeat, study claims - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnNJSVRQQl9MQnJqeUlHTThqMjVhYzBmTXQ2NVY1NFI2X3JEMmh4MVdFV19RTjU4TkVNRVExUVdwamd0TjQ1RjJCZTd6RURRUEdpY0dfVDJ3OTVBaGJxQThoV2R3aDZyNHZWRlI2M1VrS3NDc3pZMXF4U2w1YkMxdEVrckljXzViYUJSRWxvSnlOdlpjclVNYWo4TGQ0S0J4czY0?oc=5)
 
 2026-06-15
 
@@ -112,11 +112,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Alzheimer, farmaco a base di rame ripristina la memoria ed elimina le placche dal cervello in test di laboratorio](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSTFtNWFQY184UEFPSjJ0RVhrdklDeXlrMEVTOHlkSzVjRnhLN19lcF9pVy11dHJEYllGQmc0Rl9BRXEtRHVibDdfQmpSdS1MY2hMMFByY0hxY2w1UzZEVnQ2YzROQzhnSmRBVURFOHlXNjRiNVkwc1hYVWFxRXRIN3lqWEpNWnJNdnFiZ3dGbHRqYmpRaGVsYVp6MmdXMDNHdzgzUUtHNjBMaGF3a0VqYmowVWR4a3diWmlhSWRTOUZoanVMMXd6RHJwazlBX3lQS2RNZEZ4OUwxWWcxU3p5Z01lMHhkdk5PUVdIOA?oc=5)
+### [Adiposity and cancer: epidemiology, mechanisms and future perspectives](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTzcyS1E5aUQ2TkdabVYtOHhRbUZRMzZ3OFU5RFkwakZIZ1EwWktBYzdpSXdwZGprTXhRWms4c2QzWTJEWWV1T1NfSG8wZS1ub09jREo4TkNKNHhRRmNB?oc=5)
 
 2026-06-15
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSTFtNWFQY184UEFPSjJ0RVhrdklDeXlrMEVTOHlkSzVjRnhLN19lcF9pVy11dHJEYllGQmc0Rl9BRXEtRHVibDdfQmpSdS1MY2hMMFByY0hxY2w1UzZEVnQ2YzROQzhnSmRBVURFOHlXNjRiNVkwc1hYVWFxRXRIN3lqWEpNWnJNdnFiZ3dGbHRqYmpRaGVsYVp6MmdXMDNHdzgzUUtHNjBMaGF3a0VqYmowVWR4a3diWmlhSWRTOUZoanVMMXd6RHJwazlBX3lQS2RNZEZ4OUwxWWcxU3p5Z01lMHhkdk5PUVdIOA?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTzcyS1E5aUQ2TkdabVYtOHhRbUZRMzZ3OFU5RFkwakZIZ1EwWktBYzdpSXdwZGprTXhRWms4c2QzWTJEWWV1T1NfSG8wZS1ub09jREo4TkNKNHhRRmNB?oc=5)
 
 ---
 
@@ -125,14 +125,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-15
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
-
----
-
-### [El problema no son los ultraprocesados, sino no diferenciar los de origen animal de los de origen vegetal - Gaceta de salud](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYXlYaTA5TzhtVWxmTElVUlhGemR5Q0VDMllmTDRwbk9QejNHWGhzNWphakNYSzljUzlxWVhEV1FUaGEteVRzN1VaNThkSThvZVRuUnBPSERFWU5ZeWpFT3FKUWVNMTJUaE96V21LR0dtOXNUTkYyRmNvTDVtWHB1UmpXVnpvOHV1bUFaUlV1c1pOZDc4RGZHMFRKd2FfYUlFaVYweGV2UWpYb052X0JwWVRxTDROR210bTdXbmlvRnZyYjFidjJGNGdweXBnR1VWV0xUOTFVRDlHOVFPcTZoblRhSVozR21GVEZNdnpWTDF4aGFua09xWk1sbF95b0Q0X1FTZVd4Qjg?oc=5)
-
-2026-06-15
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYXlYaTA5TzhtVWxmTElVUlhGemR5Q0VDMllmTDRwbk9QejNHWGhzNWphakNYSzljUzlxWVhEV1FUaGEteVRzN1VaNThkSThvZVRuUnBPSERFWU5ZeWpFT3FKUWVNMTJUaE96V21LR0dtOXNUTkYyRmNvTDVtWHB1UmpXVnpvOHV1bUFaUlV1c1pOZDc4RGZHMFRKd2FfYUlFaVYweGV2UWpYb052X0JwWVRxTDROR210bTdXbmlvRnZyYjFidjJGNGdweXBnR1VWV0xUOTFVRDlHOVFPcTZoblRhSVozR21GVEZNdnpWTDF4aGFua09xWk1sbF95b0Q0X1FTZVd4Qjg?oc=5)
 
 ---
 

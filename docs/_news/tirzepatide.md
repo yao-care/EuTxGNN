@@ -54,11 +54,11 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（1 則）
 
-### [Remboursement de Mounjaro et Wegovy : les points à contrôler avant de facturer - Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlJuZDd4UWlLYjBSQmFvR1BtbjJGSDNtRndTLS1XWGIwYTU3eGJwNE5yYU5VU2ZpcWZacUg2enprbEM2Wkg3Z0pxNFJxbk10NWZOZDdoeDRwV3cwdXNoektWV0FYa3VRZ2NubnJlRmx2N3hja01mczJ6cGFfWjE0YW9pak5jbzlIVmxTd1JxT0FXV3hyTUtNMURNTVVFejVLYmw3dnk0aWJCVXluN1ZSczdVUExscEYta01LX3hJOUxsTnpsbVo1Qm9PRnlaMWp3NkU5bUN3QmR3Q3ZITHdNOHU3dw?oc=5)
+### ["Je ne pouvais plus entrer dans la baignoire" : Karine raconte comment le Wegovy, enfin remboursé, l’a allégée de 18 kilos - Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
 
 2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlJuZDd4UWlLYjBSQmFvR1BtbjJGSDNtRndTLS1XWGIwYTU3eGJwNE5yYU5VU2ZpcWZacUg2enprbEM2Wkg3Z0pxNFJxbk10NWZOZDdoeDRwV3cwdXNoektWV0FYa3VRZ2NubnJlRmx2N3hja01mczJ6cGFfWjE0YW9pak5jbzlIVmxTd1JxT0FXV3hyTUtNMURNTVVFejVLYmw3dnk0aWJCVXluN1ZSczdVUExscEYta01LX3hJOUxsTnpsbVo1Qm9PRnlaMWp3NkU5bUN3QmR3Q3ZITHdNOHU3dw?oc=5)
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
 
 ---
 

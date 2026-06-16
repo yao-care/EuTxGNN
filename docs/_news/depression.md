@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression（depression） 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# dépression（depression） 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Charité startet 2,3-Millionen-Studie: DHEA als Zusatztherapie bei therapieresistenter Depression - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1lc0I3aE14M0Rud00xc2JfWFRaVWpmRG5hTjR2cElxOGJqVmJvSjV4enJrQ2lHRHNkOTF6Z0ZnOW04UXQ1MWY3YTdXUGNBYW1XYnp5TkVITEotQV9mTDF1bFVWLXBOU0dYNS1fS1VCMmhfNk5WUU1TTWlLc2hwSVZIZ0d4MzlZeWZNZVZwa1BLUEVhQ0FycU1TaGNtNUpsTll2OXlfMVpoaXVnR1JUeGlObEdIRHh0WTdpTzFqdDhvM282?oc=5)
+### [La neuromodulación logra hasta un 50% de respuesta en depresión resistente](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09zT1B5VzZyWGNDWkFZenFFWGp1S1hTRV9pWk1qcEJoM3gtSnA5cTBYUnlfLXNnNWZzYzB1UW9LclpzUndZMDVSR000dXVGZDlSck03Y2xpSGY0anpLNFdKNXNBNjZmaVNlSTJfWHltQTREMVhORWpOcXh0cGl6MDl3THNxZlozWTN5RlJvUHFULVFaRXpVRnFkazJyRkg3MGhoMnhhOUpVTFUxNGpBMTNBaVJ2aHM?oc=5)
 
-2026-06-15
+2026-06-16
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1lc0I3aE14M0Rud00xc2JfWFRaVWpmRG5hTjR2cElxOGJqVmJvSjV4enJrQ2lHRHNkOTF6Z0ZnOW04UXQ1MWY3YTdXUGNBYW1XYnp5TkVITEotQV9mTDF1bFVWLXBOU0dYNS1fS1VCMmhfNk5WUU1TTWlLc2hwSVZIZ0d4MzlZeWZNZVZwa1BLUEVhQ0FycU1TaGNtNUpsTll2OXlfMVpoaXVnR1JUeGlObEdIRHh0WTdpTzFqdDhvM282?oc=5)
-
----
-
-### [La déroute des pères : la dénatalité n’est pas qu’un problème de femmes - Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
-
-2026-06-14
-
-來源：[Boulevard Voltaire](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHNjR0xaSjZvWXRsYzRoMEJsaVBuQ3Y4ZkZqcHZkOTdxSDJzajByRUhxVWNVeXNoWVFzbmt4Q3dDOEktY0R3V3RWN3RQdGcybGlOLUV6ZzV1QUNXZERoMDd2ZGk1T05ONmVhSzlnNUZuQVRrZkk3RFdhV3hpdWNpNUREbWEwNGJ6NWR0RlI4ZzRMVDBGNXpCSg?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09zT1B5VzZyWGNDWkFZenFFWGp1S1hTRV9pWk1qcEJoM3gtSnA5cTBYUnlfLXNnNWZzYzB1UW9LclpzUndZMDVSR000dXVGZDlSck03Y2xpSGY0anpLNFdKNXNBNjZmaVNlSTJfWHltQTREMVhORWpOcXh0cGl6MDl3THNxZlozWTN5RlJvUHFULVFaRXpVRnFkazJyRkg3MGhoMnhhOUpVTFUxNGpBMTNBaVJ2aHM?oc=5)
 
 ---
 
