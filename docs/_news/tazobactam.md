@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [The Link Between Vitamin C And Brain Health Just Got Even Clearer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjhpZ2RDSXZ5WnliZ04wMXFmM0RiTXBUZ1FTSVNCSzlndXVOUllvZUI0ak1wU0xrSXJ6OW5icm1TY2FyaTN1QVNWOFluaUNnRTQ0YVZIMjNuSVE1eHQ4Qkxxc3NHYjA5TTNndGxVaEY1RlpLdVBjTUR1VUFzUDY2RmZSMDVaUWQ0WUtLaUI1eHotV3U0RDAwb1pB?oc=5)
-
-2026-06-15 <span class="news-indication-tag">asma</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjhpZ2RDSXZ5WnliZ04wMXFmM0RiTXBUZ1FTSVNCSzlndXVOUllvZUI0ak1wU0xrSXJ6OW5icm1TY2FyaTN1QVNWOFluaUNnRTQ0YVZIMjNuSVE1eHQ4Qkxxc3NHYjA5TTNndGxVaEY1RlpLdVBjTUR1VUFzUDY2RmZSMDVaUWQ0WUtLaUI1eHotV3U0RDAwb1pB?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [So wirksam ist Thymian bei Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
 

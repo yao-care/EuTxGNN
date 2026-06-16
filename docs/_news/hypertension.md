@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Niedriger Blutdruck könnte mit Alzheimer zusammenhängen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
 
@@ -106,14 +106,6 @@ permalink: /news/hypertension/
 2026-06-15
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzhUa1dQaGd2NVV3ZHhXd2Q5NDFxUHZIUWpUOEVrcVptbjA1a1NUdms5SU4yam5TNDFKS1RFNEdzd2U1ZjdEMGlKQmhMdVp6ZjhZdG53dUphRE91M2wwUkhSUFByWjRYeW5RZlJROE9BNFhZVXpvRGlIaWk3TnNhTjk4Sjl1eVNEVGFGeHFOT21HWHZ3clhQU0dKWTk1TVllV1BORzBDdnFTa05kaG1LUGdvTVl5WnByTVZBbXVYYTFsak9udXVkdG1R?oc=5)
-
----
-
-### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
-
-2026-06-14
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

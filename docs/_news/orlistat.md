@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,25 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
-### [Boehringer Ingelheim anuncia datos de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
+### [Tecnalia impulsa una revolucionaria terapia cerebral sin cirugía para tratar ictus y Parkinson](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
+
+2026-06-16 <span class="news-indication-tag">ictus</span>
+
+來源：[EntreMayores](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
+
+---
+
+### [S3-Leitlinie empfiehlt GLP-1-Rezeptoragonisten bei pädiatrischer Adipositas - Gelbe Liste](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzlaRF9iUG1YbVJMN25mM2EzRGRTOGNGZ3dRV2hrb210N1c5NFMtRjNranBJVXd6bEVjMENBN1NBT25aMlN5cHEyNnFqUUM0LVpzYzFhWmJ5elVWb0JwU29CeDdlVmt6RW8yemxBa2hmdENtWjFzcklUM2dOb3NEa2FhQWwyYThGNHpjeGVxdWlTc3lFTnJDbFdiZDhYWjF1SXVv?oc=5)
+
+2026-06-16 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzlaRF9iUG1YbVJMN25mM2EzRGRTOGNGZ3dRV2hrb210N1c5NFMtRjNranBJVXd6bEVjMENBN1NBT25aMlN5cHEyNnFqUUM0LVpzYzFhWmJ5elVWb0JwU29CeDdlVmt6RW8yemxBa2hmdENtWjFzcklUM2dOb3NEa2FhQWwyYThGNHpjeGVxdWlTc3lFTnJDbFdiZDhYWjF1SXVv?oc=5)
+
+---
+
+### [Boehringer Ingelheim anuncia resultados de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
 
 2026-06-15 <span class="news-indication-tag">obesidad</span>
 
@@ -83,6 +99,14 @@ permalink: /news/orlistat/
 2026-06-15 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTh3cEZGZDFHbEN5VmYyMHFNMkgwelNtZ3dyVDUwekxsWXBfN0xVcUZURFZUWDlCOFJNbi1Cbmd2anU3MFZhWjFwcDgwV0VCaFR0NWFKYzRRenhzSTdXd2xFWG1DblNnbERuNTNkMExvV2FFZFcxRlpEV3A5YURHZV9tSlQ3OE5BREwyY1JlLWdPQTB0UDRGQWQzY3IwTGZQMkdkLVBxTGlTRmFxMTNINQ?oc=5)
+
+---
+
+### [Identifican un 'sensor' clave que permite al hígado adaptarse durante la transición del ayuno a la alimentación - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUV2N1NLeWlFT3hJWUdrNHlfdFNQR3ZQN0NNRjI5SGtuMXNEdG5tVEFGZnBKTUNULXJJVF8xOFgwUGNNZ2lOMzliZm9YQ25OQk9nbXdfLUtTcXAzN0RBQThPelBsY0FiZFlyUnduX010cEJPNXptRnFTVFBkT3lZNGxqYjBVVHFyR1M0NndSNUNPUTFITjQya1NoTzA4UmtrcEp6Zi1SNXlnaW9JMldfc2J5b2Y4VXFjY1g3dDhCMmUwV0xRa1RYd2p2VGU3ODFiMkdDaGNLZ2pUMU9wM0E?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUV2N1NLeWlFT3hJWUdrNHlfdFNQR3ZQN0NNRjI5SGtuMXNEdG5tVEFGZnBKTUNULXJJVF8xOFgwUGNNZ2lOMzliZm9YQ25OQk9nbXdfLUtTcXAzN0RBQThPelBsY0FiZFlyUnduX010cEJPNXptRnFTVFBkT3lZNGxqYjBVVHFyR1M0NndSNUNPUTFITjQya1NoTzA4UmtrcEp6Zi1SNXlnaW9JMldfc2J5b2Y4VXFjY1g3dDhCMmUwV0xRa1RYd2p2VGU3ODFiMkdDaGNLZ2pUMU9wM0E?oc=5)
 
 ---
 
@@ -118,23 +142,15 @@ permalink: /news/orlistat/
 
 ---
 
-### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
+### [Un macroestudio mundial con la participación de la UAL determina que existe una ‘brecha global’ en la obesidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXFXOTFkUGdtNFdGdENta0hQbmg4aV9DQ3Zac1RHMFNnRm9KaUZhQnBaQ2RldFYwVDEwWS1pZmVweVVTVTIxNUZBSDRISzd4cjkxRnE4ZEg3ODV5Q3RKQVFGMG1TWXREczNubXRDdmZkai1lLXU5Q3Q1RHZDOEduakNiTnlLVlpVWXpITGg5amtQdDQ2MDdpU25peW8yUnA1X2NveHZnYTRUUEJVMWdSQ0w0NmJMZE9naGtZOFg2b2w3dVZyOURiUkc3U3dNblA4RVRDSHRlOA?oc=5)
 
-2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-14 <span class="news-indication-tag">obesidad</span>
 
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
-
----
-
-### [El escudo invisible de los estrógenos: un macroestudio confirma que la menopausia temprana dispara el riesgo de infarto e ictus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBaYmhWTHVVNkdvUUJnbEFnTTV1MWFRdkRJQjhCZlFERHFJOUcyajdzWDE2MTRFM0Y2bXZGMjU0WDFQcGI3UzBXczUtTXBWR09ySE5HQkgyTWNNMGc5Y1FRaWhhbkxHTVppOXZOOXAzRHFySXliMmtlUFVzel9WTE5jdmlUMEVCRWNEWEItS3U4YW95dGh0YlFNV0poNWN2NGtIenpmSmVidm9NUEtJNEc4UnY5MG0zVG5IN3NZNkJza2FrMkRMTThzbU5ReHpmQnNLTEtUcTBxRldS0gHiAUFVX3lxTE1iVW9vR25sY1hBZEQzX0Fab1p0SzBObDl4Z3JVR0ZOQ0xrbnNfODZwWW1uMU9hajFNMmg0X0R2VzJ2bDBab3FrdHZoUlBreXFmbnc0ZmgxQ3FwS2ExT2h6aGV0Q1k3TU5uMDhpVHlPdVNENi0ydndnM3FldXZUSFhzWEtfOGJmYktDWlNvalB6MXozeE9TZTlPcjAwN0psUGp5dWZzUk9mWXE2VUphS05JcjR4dDBaNkRQR1RqX3pFTS0xMnZOdWpTTVlQQ2VDRHk0dmZ1Y01xcXI0bHBWdm9WLWc?oc=5)
-
-2026-06-14 <span class="news-indication-tag">ictus</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBaYmhWTHVVNkdvUUJnbEFnTTV1MWFRdkRJQjhCZlFERHFJOUcyajdzWDE2MTRFM0Y2bXZGMjU0WDFQcGI3UzBXczUtTXBWR09ySE5HQkgyTWNNMGc5Y1FRaWhhbkxHTVppOXZOOXAzRHFySXliMmtlUFVzel9WTE5jdmlUMEVCRWNEWEItS3U4YW95dGh0YlFNV0poNWN2NGtIenpmSmVidm9NUEtJNEc4UnY5MG0zVG5IN3NZNkJza2FrMkRMTThzbU5ReHpmQnNLTEtUcTBxRldS0gHiAUFVX3lxTE1iVW9vR25sY1hBZEQzX0Fab1p0SzBObDl4Z3JVR0ZOQ0xrbnNfODZwWW1uMU9hajFNMmg0X0R2VzJ2bDBab3FrdHZoUlBreXFmbnc0ZmgxQ3FwS2ExT2h6aGV0Q1k3TU5uMDhpVHlPdVNENi0ydndnM3FldXZUSFhzWEtfOGJmYktDWlNvalB6MXozeE9TZTlPcjAwN0psUGp5dWZzUk9mWXE2VUphS05JcjR4dDBaNkRQR1RqX3pFTS0xMnZOdWpTTVlQQ2VDRHk0dmZ1Y01xcXI0bHBWdm9WLWc?oc=5)
+來源：[almerianoticias.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXFXOTFkUGdtNFdGdENta0hQbmg4aV9DQ3Zac1RHMFNnRm9KaUZhQnBaQ2RldFYwVDEwWS1pZmVweVVTVTIxNUZBSDRISzd4cjkxRnE4ZEg3ODV5Q3RKQVFGMG1TWXREczNubXRDdmZkai1lLXU5Q3Q1RHZDOEduakNiTnlLVlpVWXpITGg5amtQdDQ2MDdpU25peW8yUnA1X2NveHZnYTRUUEJVMWdSQ0w0NmJMZE9naGtZOFg2b2w3dVZyOURiUkc3U3dNblA4RVRDSHRlOA?oc=5)
 
 ---
 
-### [Casi el 99% de los eventos cardiovasculares está vinculada a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
+### [Casi el 99% de los eventos cardiovasculares está vinculado a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
 
 2026-06-14 <span class="news-indication-tag">ictus</span>
 
@@ -147,14 +163,6 @@ permalink: /news/orlistat/
 2026-06-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVByczBtdml6YUV6VlA3N3d3RlZCZ3lXLVpBQloyM0VMYzFKc0xYTnZzSlVwRXdSOTFxZmxWTHN1MTV3SUxSMk5NWTE1NjRYZE50SHpEWU52SnVLTTRmRDJjMC1BbHhhY2hDNVZ2akpCOUZEUmROazRwcjA3N2lxVWdNQ0h3NmVqaUROZWFMV3N0UU5tS0JpSml6SHo3Wkluc2pQcWloZlRtdDU0d2dVZjVrMjFoQWE0aXg1WWxnRTlXSXlCRnpneTV0WlkySFNFNlhsMEpUYjcweENyY2c?oc=5)
-
----
-
-### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

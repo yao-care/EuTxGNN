@@ -54,19 +54,19 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（3 則）
 
+### [Single-cell RNA sequencing of terminal ileal biopsies identifies signatures of Crohn’s disease pathogenesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Crohn's disease</span> <span class="news-indication-tag">ulcerative colitis</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
+
+---
+
 ### [«Abbiamo creduto che un bicchiere di vino al giorno facesse bene ma gli esperti lanciano il nuovo allarme legato ai tumori» - Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
 
 2026-06-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
-
----
-
-### [The Link Between Vitamin C And Brain Health Just Got Even Clearer](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjhpZ2RDSXZ5WnliZ04wMXFmM0RiTXBUZ1FTSVNCSzlndXVOUllvZUI0ak1wU0xrSXJ6OW5icm1TY2FyaTN1QVNWOFluaUNnRTQ0YVZIMjNuSVE1eHQ4Qkxxc3NHYjA5TTNndGxVaEY1RlpLdVBjTUR1VUFzUDY2RmZSMDVaUWQ0WUtLaUI1eHotV3U0RDAwb1pB?oc=5)
-
-2026-06-15 <span class="news-indication-tag">asma</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjhpZ2RDSXZ5WnliZ04wMXFmM0RiTXBUZ1FTSVNCSzlndXVOUllvZUI0ak1wU0xrSXJ6OW5icm1TY2FyaTN1QVNWOFluaUNnRTQ0YVZIMjNuSVE1eHQ4Qkxxc3NHYjA5TTNndGxVaEY1RlpLdVBjTUR1VUFzUDY2RmZSMDVaUWQ0WUtLaUI1eHotV3U0RDAwb1pB?oc=5)
 
 ---
 

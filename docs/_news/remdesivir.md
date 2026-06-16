@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Gilead dona viales de remdesivir a Uganda para enfrentar el brote de ébola bundibugyo - Gaceta Médica](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFc0OHAteHhRZW8zX05PVWZwMFNHd1VVaHMxNDZLQTh1UHdwcHNxcDVfeEdvMEZ5Y1laeE5XUHlQOEJpcDNFcXpYNVZBYkRCRFRBZHBtMVNVNkpkcm8yUGlTWEw0SDl0NVJ2VUJ3YlFRUHY5dW15N19VOEtXV3RTUGV1bHZXZm5PZmd5d09HRlpjMU5mUEQ4?oc=5)
-
-2026-06-15 <span class="news-drug-tag">Remdesivir</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFc0OHAteHhRZW8zX05PVWZwMFNHd1VVaHMxNDZLQTh1UHdwcHNxcDVfeEdvMEZ5Y1laeE5XUHlQOEJpcDNFcXpYNVZBYkRCRFRBZHBtMVNVNkpkcm8yUGlTWEw0SDl0NVJ2VUJ3YlFRUHY5dW15N19VOEtXV3RTUGV1bHZXZm5PZmd5d09HRlpjMU5mUEQ4?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

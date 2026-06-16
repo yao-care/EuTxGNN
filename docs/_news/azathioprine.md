@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="Azathioprine 有什麼相關新聞？">
-<strong>Azathioprine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azathioprine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/azathioprine/
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Single-cell RNA sequencing of terminal ileal biopsies identifies signatures of Crohn’s disease pathogenesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Crohn's disease</span> <span class="news-indication-tag">ulcerative colitis</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,17 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
 
-### [Boehringer Ingelheim anuncia datos de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
+### [S3-Leitlinie empfiehlt GLP-1-Rezeptoragonisten bei pädiatrischer Adipositas - Gelbe Liste](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzlaRF9iUG1YbVJMN25mM2EzRGRTOGNGZ3dRV2hrb210N1c5NFMtRjNranBJVXd6bEVjMENBN1NBT25aMlN5cHEyNnFqUUM0LVpzYzFhWmJ5elVWb0JwU29CeDdlVmt6RW8yemxBa2hmdENtWjFzcklUM2dOb3NEa2FhQWwyYThGNHpjeGVxdWlTc3lFTnJDbFdiZDhYWjF1SXVv?oc=5)
+
+2026-06-16 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzlaRF9iUG1YbVJMN25mM2EzRGRTOGNGZ3dRV2hrb210N1c5NFMtRjNranBJVXd6bEVjMENBN1NBT25aMlN5cHEyNnFqUUM0LVpzYzFhWmJ5elVWb0JwU29CeDdlVmt6RW8yemxBa2hmdENtWjFzcklUM2dOb3NEa2FhQWwyYThGNHpjeGVxdWlTc3lFTnJDbFdiZDhYWjF1SXVv?oc=5)
+
+---
+
+### [Boehringer Ingelheim anuncia resultados de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
 
 2026-06-15 <span class="news-indication-tag">obesidad</span>
 
@@ -75,6 +83,14 @@ permalink: /news/naltrexone/
 2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlJuZDd4UWlLYjBSQmFvR1BtbjJGSDNtRndTLS1XWGIwYTU3eGJwNE5yYU5VU2ZpcWZacUg2enprbEM2Wkg3Z0pxNFJxbk10NWZOZDdoeDRwV3cwdXNoektWV0FYa3VRZ2NubnJlRmx2N3hja01mczJ6cGFfWjE0YW9pak5jbzlIVmxTd1JxT0FXV3hyTUtNMURNTVVFejVLYmw3dnk0aWJCVXluN1ZSczdVUExscEYta01LX3hJOUxsTnpsbVo1Qm9PRnlaMWp3NkU5bUN3QmR3Q3ZITHdNOHU3dw?oc=5)
+
+---
+
+### [Identifican un 'sensor' clave que permite al hígado adaptarse durante la transición del ayuno a la alimentación - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUV2N1NLeWlFT3hJWUdrNHlfdFNQR3ZQN0NNRjI5SGtuMXNEdG5tVEFGZnBKTUNULXJJVF8xOFgwUGNNZ2lOMzliZm9YQ25OQk9nbXdfLUtTcXAzN0RBQThPelBsY0FiZFlyUnduX010cEJPNXptRnFTVFBkT3lZNGxqYjBVVHFyR1M0NndSNUNPUTFITjQya1NoTzA4UmtrcEp6Zi1SNXlnaW9JMldfc2J5b2Y4VXFjY1g3dDhCMmUwV0xRa1RYd2p2VGU3ODFiMkdDaGNLZ2pUMU9wM0E?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUV2N1NLeWlFT3hJWUdrNHlfdFNQR3ZQN0NNRjI5SGtuMXNEdG5tVEFGZnBKTUNULXJJVF8xOFgwUGNNZ2lOMzliZm9YQ25OQk9nbXdfLUtTcXAzN0RBQThPelBsY0FiZFlyUnduX010cEJPNXptRnFTVFBkT3lZNGxqYjBVVHFyR1M0NndSNUNPUTFITjQya1NoTzA4UmtrcEp6Zi1SNXlnaW9JMldfc2J5b2Y4VXFjY1g3dDhCMmUwV0xRa1RYd2p2VGU3ODFiMkdDaGNLZ2pUMU9wM0E?oc=5)
 
 ---
 
@@ -102,11 +118,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
+### [Un macroestudio mundial con la participación de la UAL determina que existe una ‘brecha global’ en la obesidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXFXOTFkUGdtNFdGdENta0hQbmg4aV9DQ3Zac1RHMFNnRm9KaUZhQnBaQ2RldFYwVDEwWS1pZmVweVVTVTIxNUZBSDRISzd4cjkxRnE4ZEg3ODV5Q3RKQVFGMG1TWXREczNubXRDdmZkai1lLXU5Q3Q1RHZDOEduakNiTnlLVlpVWXpITGg5amtQdDQ2MDdpU25peW8yUnA1X2NveHZnYTRUUEJVMWdSQ0w0NmJMZE9naGtZOFg2b2w3dVZyOURiUkc3U3dNblA4RVRDSHRlOA?oc=5)
 
-2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-14 <span class="news-indication-tag">obesidad</span>
 
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
+來源：[almerianoticias.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXFXOTFkUGdtNFdGdENta0hQbmg4aV9DQ3Zac1RHMFNnRm9KaUZhQnBaQ2RldFYwVDEwWS1pZmVweVVTVTIxNUZBSDRISzd4cjkxRnE4ZEg3ODV5Q3RKQVFGMG1TWXREczNubXRDdmZkai1lLXU5Q3Q1RHZDOEduakNiTnlLVlpVWXpITGg5amtQdDQ2MDdpU25peW8yUnA1X2NveHZnYTRUUEJVMWdSQ0w0NmJMZE9naGtZOFg2b2w3dVZyOURiUkc3U3dNblA4RVRDSHRlOA?oc=5)
 
 ---
 

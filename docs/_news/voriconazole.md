@@ -14,7 +14,7 @@ permalink: /news/voriconazole/
 ---
 
 <p class="key-answer" data-question="Voriconazole 有什麼相關新聞？">
-<strong>Voriconazole</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voriconazole</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,79 @@ permalink: /news/voriconazole/
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（19 則）
+
+### [Científicos piden que nos preparemos ante lo que está por venir porque afecta a todo el mundo: "No hay ningún lugar seguro" - El Economista](https://news.google.com/rss/articles/CBMilwJBVV95cUxQNW9IbkdTSzgtTEU2WXIxWWM4RFluTWhxWjRqRHZYOThiRnRfNnJnN0wyM1lHblAxREpDUHAxS214cXhlSWgtUi13MnRSUVd4WmhkRFJic1JOdldjUDRtb1J3a01SbWVfbGV2U0JubV96LXRWVk1xeFFiS0VoVkV4NzNranhoVWNoV3NWSkVFQkxTNFlHUGtxY0ZRUVdGNEVQV09GeE03YkVvbFA5NHh2ZTRjenZzcDN2dGtER1lPMUpqcVBsU0k2ams4WHMtNm8tZ3BBNmpWOVRab1poTzRjNnJBZ3FNY2VpRkJubEo1Nm5pcjloVzhtUE4tRGs3eEJKUHZ0QUZYLXhlVXdEQjNBNV8zaU9TNTA?oc=5)
+
+2026-06-16 <span class="news-indication-tag">AF</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMilwJBVV95cUxQNW9IbkdTSzgtTEU2WXIxWWM4RFluTWhxWjRqRHZYOThiRnRfNnJnN0wyM1lHblAxREpDUHAxS214cXhlSWgtUi13MnRSUVd4WmhkRFJic1JOdldjUDRtb1J3a01SbWVfbGV2U0JubV96LXRWVk1xeFFiS0VoVkV4NzNranhoVWNoV3NWSkVFQkxTNFlHUGtxY0ZRUVdGNEVQV09GeE03YkVvbFA5NHh2ZTRjenZzcDN2dGtER1lPMUpqcVBsU0k2ams4WHMtNm8tZ3BBNmpWOVRab1poTzRjNnJBZ3FNY2VpRkJubEo1Nm5pcjloVzhtUE4tRGs3eEJKUHZ0QUZYLXhlVXdEQjNBNV8zaU9TNTA?oc=5)
+
+---
+
+### [Afternoon Habits That Can Quietly Work Against Heart Health](https://news.google.com/rss/articles/CBMifkFVX3lxTFB2b3pkREJwMkdIUjFPNjBvOHVPaDAzQ0hkT1VUazBFSHlWUjZPRHBzY1ZNYjlJcVl4NzcxVUEyeXVQdS1jNWd1Y0x3N25oOUNRZ3BiM1NPcE9nbnFhYjlzMnVrU20waUh3UXRHV2lzd05UVTNpOHQ1eEFvVHBZUQ?oc=5)
+
+2026-06-16 <span class="news-indication-tag">AF</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMifkFVX3lxTFB2b3pkREJwMkdIUjFPNjBvOHVPaDAzQ0hkT1VUazBFSHlWUjZPRHBzY1ZNYjlJcVl4NzcxVUEyeXVQdS1jNWd1Y0x3N25oOUNRZ3BiM1NPcE9nbnFhYjlzMnVrU20waUh3UXRHV2lzd05UVTNpOHQ1eEFvVHBZUQ?oc=5)
+
+---
+
+### [La AEV colabora con Caixaforum en la difusión de 20 becas para asistir al curso ‘Las vacunas aquí, allí, ahora y siempre’ - Asociación Española de Vacunología](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFBINkNGcVE0UEZzZWkzVDBQWmNMcDdtM1EtcTg1X3ZBVEVNSmc3YzVQVk5rNnI3R1ZZNm1vN0h2NkRsTHdDQ0dITm0yQjd5Y0JuakVMcEhxUEpPbVVmOWxNZW4tOWRsYzBfMjNqSWVyYjVqMUxma1lxSTJhY3FIV3BKeEdyRW1URjA4WklHb1lXSVFXNVlNRFRiRUQxTE9KOU9IMHBPd2EwSEZvSnpKTVc4ODlPaEVYSzNtOVllVHZKN2NCb3hrV3pGY3N0ZFNOZTBnRQ?oc=5)
+
+2026-06-16 <span class="news-indication-tag">AF</span>
+
+來源：[Asociación Española de Vacunología](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFBINkNGcVE0UEZzZWkzVDBQWmNMcDdtM1EtcTg1X3ZBVEVNSmc3YzVQVk5rNnI3R1ZZNm1vN0h2NkRsTHdDQ0dITm0yQjd5Y0JuakVMcEhxUEpPbVVmOWxNZW4tOWRsYzBfMjNqSWVyYjVqMUxma1lxSTJhY3FIV3BKeEdyRW1URjA4WklHb1lXSVFXNVlNRFRiRUQxTE9KOU9IMHBPd2EwSEZvSnpKTVc4ODlPaEVYSzNtOVllVHZKN2NCb3hrV3pGY3N0ZFNOZTBnRQ?oc=5)
+
+---
+
+### [ETH: Lichtschalter macht Krebs verwundbar](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2V2aTgxZXFwLUs3cTFtMmVBaUdET3hkUFRwT2FxOGp1eEZqNHJ4c1gxRmtpX1J6LUQtem5kQndaTlREOHc5N19DS2V5VGs5OVJGQ1JlbzNWVG9pWGN4d3JQOEhVVk51MkpGaXRHTGJwQ2I2SVlZUjNteGQxcmpOZNIBhgFBVV95cUxQWFFTWmdqaW5IamhQSjdwOHV1bHA4QnYyRGJmRncxalRXanlDVEZjem9lamtkUThYblptNlY3eFVGTTh2UUNidzlUUEp4d1lxWDJweGxTTFpzcnFzUVF0T25QYlViRUJ4ZnRnQ0J0cEJRWW85bUFDYnp2QllVNy0xQ18tUlV5Zw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Moneycab](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2V2aTgxZXFwLUs3cTFtMmVBaUdET3hkUFRwT2FxOGp1eEZqNHJ4c1gxRmtpX1J6LUQtem5kQndaTlREOHc5N19DS2V5VGs5OVJGQ1JlbzNWVG9pWGN4d3JQOEhVVk51MkpGaXRHTGJwQ2I2SVlZUjNteGQxcmpOZNIBhgFBVV95cUxQWFFTWmdqaW5IamhQSjdwOHV1bHA4QnYyRGJmRncxalRXanlDVEZjem9lamtkUThYblptNlY3eFVGTTh2UUNidzlUUEp4d1lxWDJweGxTTFpzcnFzUVF0T25QYlViRUJ4ZnRnQ0J0cEJRWW85bUFDYnp2QllVNy0xQ18tUlV5Zw?oc=5)
+
+---
+
+### [Kollagen ist in unseren Zellen flüssig statt steif](https://news.google.com/rss/articles/CBMingFBVV95cUxNdG5VYXZuLTdKNGFmVHlJbEZJNUJWOE40ZjdNMG4tVTNkbnBUWE5CZUlzVjYyNG90Qk83NmFFblR1RHo3VjdpNGZ6MUx3TTlfbG96U1NLbTQtbkhQSC1qcGczTnMzaEZFRTZWbHJnc1VFVnhWRVpZZkZ3aFp4Rk5Pb2tqZkhpajVvYVpFSVU5N2lzcnN5WW9HSk9tRWFldw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">AF</span>
+
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNdG5VYXZuLTdKNGFmVHlJbEZJNUJWOE40ZjdNMG4tVTNkbnBUWE5CZUlzVjYyNG90Qk83NmFFblR1RHo3VjdpNGZ6MUx3TTlfbG96U1NLbTQtbkhQSC1qcGczTnMzaEZFRTZWbHJnc1VFVnhWRVpZZkZ3aFp4Rk5Pb2tqZkhpajVvYVpFSVU5N2lzcnN5WW9HSk9tRWFldw?oc=5)
+
+---
+
+### [Neue Studie mit üblem Verdacht: Gelenk-Präparat könnte Treiber von Demenz sein - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHFhOE1lYlNTa2dwV21WMXh3aVI2STRJTEIyMWRGc25rM1o0akhGeE5ucFZIc25VU2lpRHRDdVR0Q0Y4a3pUSWkyMzFWZGpUZXBGRS14cDZtTEI2a24zQjBpVnRsZmtiLW9QSEowdU0xblQxUW1YSzhwM3Zmb3JTS0duZWliRjZWV3praFIzUlpVNFBqVU1PQW1PMGF5TUpWNDZYMVdZMEl5X1ZrNUxyZGZYZnV3d1h1Rl9yQ3FHN1Uzdw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHFhOE1lYlNTa2dwV21WMXh3aVI2STRJTEIyMWRGc25rM1o0akhGeE5ucFZIc25VU2lpRHRDdVR0Q0Y4a3pUSWkyMzFWZGpUZXBGRS14cDZtTEI2a24zQjBpVnRsZmtiLW9QSEowdU0xblQxUW1YSzhwM3Zmb3JTS0duZWliRjZWV3praFIzUlpVNFBqVU1PQW1PMGF5TUpWNDZYMVdZMEl5X1ZrNUxyZGZYZnV3d1h1Rl9yQ3FHN1Uzdw?oc=5)
+
+---
+
+### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
+
+2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
+
+---
+
+### [Florida teen fights for his life after contracting flesh-eating bacteria while swimming with siblings - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDdOdmMxajZ6WEdQS192UEZsSU9EclR2bE9Ic3B1MEFEY1J1MUhMX2dGcVNUUlNpR1lTelplaTJnR2NoeFFGZnhmZUxmOG8zRElhV3YzQlVaSkZXNzhnYVVGekNRZnE1SzBJRUZ4Z3lNaDlqbkNDQVBieC0yeEZCZnJ5REkwN2d0bEFYX3JMYnZnUXd3QVp0dS1ZUGxEbWtvMlZoOXBkYXBtMGlPLUZXZkdnVHg?oc=5)
+
+2026-06-15 <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDdOdmMxajZ6WEdQS192UEZsSU9EclR2bE9Ic3B1MEFEY1J1MUhMX2dGcVNUUlNpR1lTelplaTJnR2NoeFFGZnhmZUxmOG8zRElhV3YzQlVaSkZXNzhnYVVGekNRZnE1SzBJRUZ4Z3lNaDlqbkNDQVBieC0yeEZCZnJ5REkwN2d0bEFYX3JMYnZnUXd3QVp0dS1ZUGxEbWtvMlZoOXBkYXBtMGlPLUZXZkdnVHg?oc=5)
+
+---
+
+### [Top vaping flavours could 'raise cardiac arrest risk' by causing an irregular heartbeat, study claims - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnNJSVRQQl9MQnJqeUlHTThqMjVhYzBmTXQ2NVY1NFI2X3JEMmh4MVdFV19RTjU4TkVNRVExUVdwamd0TjQ1RjJCZTd6RURRUEdpY0dfVDJ3OTVBaGJxQThoV2R3aDZyNHZWRlI2M1VrS3NDc3pZMXF4U2w1YkMxdEVrckljXzViYUJSRWxvSnlOdlpjclVNYWo4TGQ0S0J4czY0?oc=5)
+
+2026-06-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">irregular heartbeat</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnNJSVRQQl9MQnJqeUlHTThqMjVhYzBmTXQ2NVY1NFI2X3JEMmh4MVdFV19RTjU4TkVNRVExUVdwamd0TjQ1RjJCZTd6RURRUEdpY0dfVDJ3OTVBaGJxQThoV2R3aDZyNHZWRlI2M1VrS3NDc3pZMXF4U2w1YkMxdEVrckljXzViYUJSRWxvSnlOdlpjclVNYWo4TGQ0S0J4czY0?oc=5)
+
+---
 
 ### [Kaffee-Wirkstoffe: Polyphenole senken Entzündungen stärker als Koffein - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGpHeDA2VjRxWGVDQ3RUT0dNakhQYmpmRURWY1pWSHZTbWswdkstUWtaNk1jU2pkdUJST2JNUkJtWTFPV2lyWDlrZ2NXeXlnYTJrelU2QmNENVQ3ei11LTJBZl9fRlRnR2xUU2Y3a1h3cFdrOGVOTnJFcnFzRi14a09GcS1HVjRvY2VQTDB0WkM4cDRQR2c0TVVkN0FVWXlXVzNKa0YzWlRYOUFVcUREMDl0UmF4Y0xCelZxRA?oc=5)
 
@@ -78,11 +150,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Lichtschalter macht Krebs verwundbar - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8talYydTZ3dGFQdFRSbF8wNTJxcnVxMGM4WTUxRW4wU1EtSjV4dmNMR3BYTFdLdUhPekNIbXhPTFI3WXRZU3lCQ1B6Yw?oc=5)
+### [My ‘stomach hernia’ became a 'three years to live' diagnosis after 10 GP visits - extreme op removed several organs - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelRMQmlSa3JtV0hhV0xXYUx0Q0g0VnM2RjVoMnVEV2JBODVJT2ltUllyRUpIRjNJNF8zbnZoQjJDMzhEeDlyYUpRY0tmSDJWVEd5OFdScTU2TUVBeGhMcmxYV0o2SXZCMmZqNlpmRVR2VW1uUXNyR3FSNjNjU3E1RzdROVFFUFNk?oc=5)
 
-2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8talYydTZ3dGFQdFRSbF8wNTJxcnVxMGM4WTUxRW4wU1EtSjV4dmNMR3BYTFdLdUhPekNIbXhPTFI3WXRZU3lCQ1B6Yw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelRMQmlSa3JtV0hhV0xXYUx0Q0g0VnM2RjVoMnVEV2JBODVJT2ltUllyRUpIRjNJNF8zbnZoQjJDMzhEeDlyYUpRY0tmSDJWVEd5OFdScTU2TUVBeGhMcmxYV0o2SXZCMmZqNlpmRVR2VW1uUXNyR3FSNjNjU3E1RzdROVFFUFNk?oc=5)
 
 ---
 
@@ -118,14 +190,6 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Congo says 782 Ebola cases confirmed, two new health zones affected](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNzVRYWFqbWpqcms5bFhjZU1VWTg2dnV3SHFLRjJLTTlxOUMxWmJ6NmZRc0pvMzlHLUx5TXVFOEt2dVA4eW01bmhKQjcxV1ktd0drLW9YRWo4cEJsWTR5TGd1enE0a0lRZWVmMmVrdmJJNUs0V3BJUEhOdFlUZy16bXRsNmdhc0RYOTZaQ3Vqb2NSMkJfOUJpT3VWXzVLNnZmbktWazVybzYyTVp6SmVSLV9TT2FWbUJodmMtTnlIUWlNNUc2MDM4N1JKbXByRFFrUVJocw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">AF</span>
-
-來源：[Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNzVRYWFqbWpqcms5bFhjZU1VWTg2dnV3SHFLRjJLTTlxOUMxWmJ6NmZRc0pvMzlHLUx5TXVFOEt2dVA4eW01bmhKQjcxV1ktd0drLW9YRWo4cEJsWTR5TGd1enE0a0lRZWVmMmVrdmJJNUs0V3BJUEhOdFlUZy16bXRsNmdhc0RYOTZaQ3Vqb2NSMkJfOUJpT3VWXzVLNnZmbktWazVybzYyTVp6SmVSLV9TT2FWbUJodmMtTnlIUWlNNUc2MDM4N1JKbXByRFFrUVJocw?oc=5)
-
----
-
 ### [People living with dementia are too often overlooked | Letters - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
 
 2026-06-14 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
@@ -134,43 +198,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
-
----
-
 ### [Bin ich schon in den Wechseljahren? „Achten Sie auf diese 8 Anzeichen“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM2ZxU21yd0RIUGlmY2VlOWlhWUdzNFpocnZUQTRzdUNvdGg4RllkdGJOYnRuLVVsVk1OdDdSV0N2dUZWbXJNMUtfLUtMbHpiTHhnWnBjVjdYc1BFci1PV2dzRWxldHhBTGdvQTU3YjVqdzhOVGc4SkpwSFp1amJhdnVtRzJUUzdrM2ppRTVpN3dCdmtKTHVqQU5kYmRzVkhOU0ZKelZxTDhGeUdiOUlLZG1sUHl2a3dSdEVic1hqYXZBY3pYNTdyZ0VRRTRJOE5sbzVjVExnR2Z3N1YzeWl5UWNmR3hpSy13cE9kYg?oc=5)
 
 2026-06-14 <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM2ZxU21yd0RIUGlmY2VlOWlhWUdzNFpocnZUQTRzdUNvdGg4RllkdGJOYnRuLVVsVk1OdDdSV0N2dUZWbXJNMUtfLUtMbHpiTHhnWnBjVjdYc1BFci1PV2dzRWxldHhBTGdvQTU3YjVqdzhOVGc4SkpwSFp1amJhdnVtRzJUUzdrM2ppRTVpN3dCdmtKTHVqQU5kYmRzVkhOU0ZKelZxTDhGeUdiOUlLZG1sUHl2a3dSdEVic1hqYXZBY3pYNTdyZ0VRRTRJOE5sbzVjVExnR2Z3N1YzeWl5UWNmR3hpSy13cE9kYg?oc=5)
-
----
-
-### [Rätselhafte Wunden und ein falscher Verdacht](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmpfazRpd3JDdTNJN3ZIRnctVXFhcXg4UTR2NzBSajQyNHBsdUVsTjVxdUVlamFQc2pybkhVYWRZS0pMX0pLbXcxaUREOW5Zc0pDRldMcGFIT0RlTE14eHdydXhZX1hoeFl5UFpxdWltaGh5dXV2dXl0SXdjME1WWGJmSU5YWlVCeTNGc0thUC1vOTIxV29KQmxJZlprZElvdE5GbXJDcjl3a0k1d3c?oc=5)
-
-2026-06-14 <span class="news-indication-tag">AF</span>
-
-來源：[STERN.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmpfazRpd3JDdTNJN3ZIRnctVXFhcXg4UTR2NzBSajQyNHBsdUVsTjVxdUVlamFQc2pybkhVYWRZS0pMX0pLbXcxaUREOW5Zc0pDRldMcGFIT0RlTE14eHdydXhZX1hoeFl5UFpxdWltaGh5dXV2dXl0SXdjME1WWGJmSU5YWlVCeTNGc0thUC1vOTIxV29KQmxJZlprZElvdE5GbXJDcjl3a0k1d3c?oc=5)
-
----
-
-### [Amy died at 19 after being given paracetamol & stretches for 'sciatica'… our heartache is we told her to trust doctors - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdDRWUzlsaWFKOWFsaXZSOUJIZDdJbXdpTlF1ZEg1VGI4MmVKNVhDbVQxRUpsaDNyemtucldsMTY1bE0zbzg5UjB1MDYwb0FWcnQxTG1kSkU1b3RmMmctWFF3MkJjdjBCWS1TWU9mQ2FhTWRpdjYyZVRYdUZ1WWY0N05jNXlsMUpPTl9BR2Z0bXBQN2ZqNmVhSHhZdWpsdEk?oc=5)
-
-2026-06-14 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdDRWUzlsaWFKOWFsaXZSOUJIZDdJbXdpTlF1ZEg1VGI4MmVKNVhDbVQxRUpsaDNyemtucldsMTY1bE0zbzg5UjB1MDYwb0FWcnQxTG1kSkU1b3RmMmctWFF3MkJjdjBCWS1TWU9mQ2FhTWRpdjYyZVRYdUZ1WWY0N05jNXlsMUpPTl9BR2Z0bXBQN2ZqNmVhSHhZdWpsdEk?oc=5)
-
----
-
-### [Désinformation sur les réseaux sociaux : des utilisateurs affirment que des vermifuges sont capables de guérir des cancers avancés !](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
-
-2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2VuVGh4OHl1RUhDNE1PUHlmUTUyYVhxekRFdV9IWURyaUdfaEpQWkd0ai1WakR0REhsaU0tSTNkOHFVNVo5NDAwbDNvZVFQM1lpYnN6QUhhZEc2aWVwVHVpTzdaNkVzMmotV21wVGxyaXNzS1l5TGNBa1F4S01Kd0dzTkt5M0ZBOHUxZ2VndjNvRlRuSEhmVXRncENoYTExMXlCeWhfY3N5S2RCYW11VjJRWEgyWnMwNkNRMmxUb0dfM21OVmVSR2oza2hpUnJmY3V5bDg5c2FGYWdzU085VXo3QmNSZjA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（7 則）
 
-### [Diabetes-Risiko: 40 Prozent Lebenszeitrisiko, doch nur 16% nehmen es wahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5)
+### [Monitorizar la glucosa puede aumentar el tiempo en rango en diabetes tipo 2 - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
 
 2026-06-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5)
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
 
 ---
 
@@ -86,6 +86,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Identifican un 'sensor' clave que permite al hígado adaptarse durante la transición del ayuno a la alimentación - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUV2N1NLeWlFT3hJWUdrNHlfdFNQR3ZQN0NNRjI5SGtuMXNEdG5tVEFGZnBKTUNULXJJVF8xOFgwUGNNZ2lOMzliZm9YQ25OQk9nbXdfLUtTcXAzN0RBQThPelBsY0FiZFlyUnduX010cEJPNXptRnFTVFBkT3lZNGxqYjBVVHFyR1M0NndSNUNPUTFITjQya1NoTzA4UmtrcEp6Zi1SNXlnaW9JMldfc2J5b2Y4VXFjY1g3dDhCMmUwV0xRa1RYd2p2VGU3ODFiMkdDaGNLZ2pUMU9wM0E?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUV2N1NLeWlFT3hJWUdrNHlfdFNQR3ZQN0NNRjI5SGtuMXNEdG5tVEFGZnBKTUNULXJJVF8xOFgwUGNNZ2lOMzliZm9YQ25OQk9nbXdfLUtTcXAzN0RBQThPelBsY0FiZFlyUnduX010cEJPNXptRnFTVFBkT3lZNGxqYjBVVHFyR1M0NndSNUNPUTFITjQya1NoTzA4UmtrcEp6Zi1SNXlnaW9JMldfc2J5b2Y4VXFjY1g3dDhCMmUwV0xRa1RYd2p2VGU3ODFiMkdDaGNLZ2pUMU9wM0E?oc=5)
+
+---
+
 ### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
@@ -94,43 +102,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Las personas que usan Ozempic y otros fármacos para adelgazar reducen su actividad física](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5)
-
-2026-06-15 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5)
-
----
-
-### [Los científicos identifican el fármaco que reduce la pérdida de masa muscular en los medicamentos para perder peso](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
-
-2026-06-14 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[SPORT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
-
----
-
 ### [Everything you need to know about sugar – from how much you should consume, to some of its 50 disguises - The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVByczBtdml6YUV6VlA3N3d3RlZCZ3lXLVpBQloyM0VMYzFKc0xYTnZzSlVwRXdSOTFxZmxWTHN1MTV3SUxSMk5NWTE1NjRYZE50SHpEWU52SnVLTTRmRDJjMC1BbHhhY2hDNVZ2akpCOUZEUmROazRwcjA3N2lxVWdNQ0h3NmVqaUROZWFMV3N0UU5tS0JpSml6SHo3Wkluc2pQcWloZlRtdDU0d2dVZjVrMjFoQWE0aXg1WWxnRTlXSXlCRnpneTV0WlkySFNFNlhsMEpUYjcweENyY2c?oc=5)
 
 2026-06-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVByczBtdml6YUV6VlA3N3d3RlZCZ3lXLVpBQloyM0VMYzFKc0xYTnZzSlVwRXdSOTFxZmxWTHN1MTV3SUxSMk5NWTE1NjRYZE50SHpEWU52SnVLTTRmRDJjMC1BbHhhY2hDNVZ2akpCOUZEUmROazRwcjA3N2lxVWdNQ0h3NmVqaUROZWFMV3N0UU5tS0JpSml6SHo3Wkluc2pQcWloZlRtdDU0d2dVZjVrMjFoQWE0aXg1WWxnRTlXSXlCRnpneTV0WlkySFNFNlhsMEpUYjcweENyY2c?oc=5)
-
----
-
-### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
-
----
-
-### [Relación entre diabetes y salud bucodental - Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
-
-2026-06-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW9NTkFlbUZWTnpvZjVMay1MSXV4a0VWVl9UN2lnN21XcHFoM2xzYXd0RjlZYkZzeEdDbXNKc3ZrQ1l3ckF6cFBKU3ZHS1ViSV9jYm55VzkxSjk1bVpmdHRYQXZ5OVE4REpLQUR5bzVkNGpvWm40QThnUFF2N0JBMHFOUTZicEVzR3FJcDlZVFdXdE0?oc=5)
 
 ---
 

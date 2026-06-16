@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Tecnalia impulsa una revolucionaria terapia cerebral sin cirugía para tratar ictus y Parkinson](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
+
+2026-06-16 <span class="news-indication-tag">ictus</span>
+
+來源：[EntreMayores](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
+
+---
 
 ### [Herzinfarkt und Schlaganfall: 99 Prozent lassen sich verhindern - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTh3cEZGZDFHbEN5VmYyMHFNMkgwelNtZ3dyVDUwekxsWXBfN0xVcUZURFZUWDlCOFJNbi1Cbmd2anU3MFZhWjFwcDgwV0VCaFR0NWFKYzRRenhzSTdXd2xFWG1DblNnbERuNTNkMExvV2FFZFcxRlpEV3A5YURHZV9tSlQ3OE5BREwyY1JlLWdPQTB0UDRGQWQzY3IwTGZQMkdkLVBxTGlTRmFxMTNINQ?oc=5)
 
@@ -70,27 +78,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [El escudo invisible de los estrógenos: un macroestudio confirma que la menopausia temprana dispara el riesgo de infarto e ictus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBaYmhWTHVVNkdvUUJnbEFnTTV1MWFRdkRJQjhCZlFERHFJOUcyajdzWDE2MTRFM0Y2bXZGMjU0WDFQcGI3UzBXczUtTXBWR09ySE5HQkgyTWNNMGc5Y1FRaWhhbkxHTVppOXZOOXAzRHFySXliMmtlUFVzel9WTE5jdmlUMEVCRWNEWEItS3U4YW95dGh0YlFNV0poNWN2NGtIenpmSmVidm9NUEtJNEc4UnY5MG0zVG5IN3NZNkJza2FrMkRMTThzbU5ReHpmQnNLTEtUcTBxRldS0gHiAUFVX3lxTE1iVW9vR25sY1hBZEQzX0Fab1p0SzBObDl4Z3JVR0ZOQ0xrbnNfODZwWW1uMU9hajFNMmg0X0R2VzJ2bDBab3FrdHZoUlBreXFmbnc0ZmgxQ3FwS2ExT2h6aGV0Q1k3TU5uMDhpVHlPdVNENi0ydndnM3FldXZUSFhzWEtfOGJmYktDWlNvalB6MXozeE9TZTlPcjAwN0psUGp5dWZzUk9mWXE2VUphS05JcjR4dDBaNkRQR1RqX3pFTS0xMnZOdWpTTVlQQ2VDRHk0dmZ1Y01xcXI0bHBWdm9WLWc?oc=5)
-
-2026-06-14 <span class="news-indication-tag">ictus</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTBaYmhWTHVVNkdvUUJnbEFnTTV1MWFRdkRJQjhCZlFERHFJOUcyajdzWDE2MTRFM0Y2bXZGMjU0WDFQcGI3UzBXczUtTXBWR09ySE5HQkgyTWNNMGc5Y1FRaWhhbkxHTVppOXZOOXAzRHFySXliMmtlUFVzel9WTE5jdmlUMEVCRWNEWEItS3U4YW95dGh0YlFNV0poNWN2NGtIenpmSmVidm9NUEtJNEc4UnY5MG0zVG5IN3NZNkJza2FrMkRMTThzbU5ReHpmQnNLTEtUcTBxRldS0gHiAUFVX3lxTE1iVW9vR25sY1hBZEQzX0Fab1p0SzBObDl4Z3JVR0ZOQ0xrbnNfODZwWW1uMU9hajFNMmg0X0R2VzJ2bDBab3FrdHZoUlBreXFmbnc0ZmgxQ3FwS2ExT2h6aGV0Q1k3TU5uMDhpVHlPdVNENi0ydndnM3FldXZUSFhzWEtfOGJmYktDWlNvalB6MXozeE9TZTlPcjAwN0psUGp5dWZzUk9mWXE2VUphS05JcjR4dDBaNkRQR1RqX3pFTS0xMnZOdWpTTVlQQ2VDRHk0dmZ1Y01xcXI0bHBWdm9WLWc?oc=5)
-
----
-
-### [Casi el 99% de los eventos cardiovasculares está vinculada a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
+### [Casi el 99% de los eventos cardiovasculares está vinculado a cuatro factores de riesgo prevenibles](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
 
 2026-06-14 <span class="news-indication-tag">ictus</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
-
----
-
-### [Diabète, hypertension, AVC : voici ce qu'une étude américaine révèle sur les microplastiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVDd6Sk9rMDFUWGNydWN6QUYxZlBfZW81OEFnUlotMy1KdlYzeW1ZLUwzQjZaLTZWMW5lOW9IYlBUQWh6emJLTTYwbjdJdFdycml1MFctd0Z3QTZfdnV2VzNpbUk4a0VvWkozbmFLQWdKdnBwSEpxMXNsLXY3aGtHVWJvNTZsaWVVek5ndkFWcnRLQXIyVm1oMGFSZFdYX0FCUUZndTY0ZUJNTEM0elZiUEJtSzJiQURULWZmald4ZG5YQ1JjT3dmbzRWMmNkeWVCbXVjTWdXM0hRYWlTbzZmeE1iaw?oc=5)
 
 ---
 

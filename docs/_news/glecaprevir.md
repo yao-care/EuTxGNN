@@ -54,11 +54,43 @@ permalink: /news/glecaprevir/
 
 ## 相關新聞（10 則）
 
-### [Noah Praamsma, nutricionista: "Muchos alimentos ultraprocesados son en realidad beneficiosos para la salud"](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYm9uakNHc3lEZFhFZ3hTNENDU01pOGJoVXh2aHpDVFRKY0VrVnVOdHNZM2RROEQ1OU5iVWdwajlzRGJjZDc2R2EwZkc0WVJlcnBfcGRfczkzNElLMFVRb3JQMHFMbjVrNW1jVkdmVk1TYThQUzFXdUNVYXkyM09kN0VzOFppTzkzaXhFZndZeFFaUnlpek5OMG0xTVc2Q2JIQWpmMlNOMzMycWpLQ2Z2d2xWUEVmMnFVbTBkYUFGcTg3MWxNLWFDbXdDWnoxZ9IB0wFBVV95cUxPaW5NSk0xY0Fpb2VpU3l4ZnR0RFc3WTh4M09TWUZXakFFNFk0VFlieWtHWDJfTEg1cWdzQlVGakpoaXBkaGVidnUxcTZVeUFPQ05heDFBYkJubUp0dkttZVBabHJGVmlpdllOS3paVXNuOVcwOFRpeUo2YXBxX2NVTWg5NDVnaG8zVWt0OC1iYU82alBsY0lBVTFyTU5DR2FDYWVXcDZfOTcyYlV0QlFQNXpsei13LVJfRkRsUnZDNGNONG56MHZHb01JNmpLS3NiVUZr?oc=5)
+### ['First line of defence' against rare Ebola outbreak 'has collapsed'](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkpPXzU2blowd09FT3IzaVgyWEFXU0FQamRCSGVPV0xCQnJTSGh2Z1NRaUtKQVFpVFBndE5iRXNmclA4SE15OWdfMWtGZzlXcGNEZGg2MFZ1R04xdkRkM3lHR1VGMF9YbEdCLXIzNFIwUmlXeUFFS1dEMjlOQkIxLUh2VEcxdUg5bWpNdWtoaWZRQl9PNGxpaNIBngFBVV95cUxNUEJVQ1Z2UnpOT2phNm1hZ01YTGFSeFdsQV9NYXVUQTNYYWxRNnB6S25QeUs3NXVhaWU5TGk3RGdTbDlkV1Z4c2x2ZUpLcUZuNWdtQWJPNnZ4cXRVT29xckptc2g4cUQ2YW1Va3dKbXlMaHpTOUFXbmk2b2x1ZTBlR1BHNEN0dVFWa1R3Nl9DVnc5MTRkOTVwSHJ3dnFEUQ?oc=5)
+
+2026-06-16 <span class="news-indication-tag">MS</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkpPXzU2blowd09FT3IzaVgyWEFXU0FQamRCSGVPV0xCQnJTSGh2Z1NRaUtKQVFpVFBndE5iRXNmclA4SE15OWdfMWtGZzlXcGNEZGg2MFZ1R04xdkRkM3lHR1VGMF9YbEdCLXIzNFIwUmlXeUFFS1dEMjlOQkIxLUh2VEcxdUg5bWpNdWtoaWZRQl9PNGxpaNIBngFBVV95cUxNUEJVQ1Z2UnpOT2phNm1hZ01YTGFSeFdsQV9NYXVUQTNYYWxRNnB6S25QeUs3NXVhaWU5TGk3RGdTbDlkV1Z4c2x2ZUpLcUZuNWdtQWJPNnZ4cXRVT29xckptc2g4cUQ2YW1Va3dKbXlMaHpTOUFXbmk2b2x1ZTBlR1BHNEN0dVFWa1R3Nl9DVnc5MTRkOTVwSHJ3dnFEUQ?oc=5)
+
+---
+
+### [pädiatrie schweiz empfiehlt neue offizielle Wachstumskurven für Kinder und Jugendliche in der Schweiz](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdkhsQ2RGVXNPWDJqenB2RDBYRXhRdFlpWGsxbVpfelJQeFNoOEhTRVkxUDVwVVRCS0RQUlZIRUZXQWsxRHFLTFJGVWVwMWs0Q2R3eVFLTXV3MnVtei0tTi1KQQ?oc=5)
+
+2026-06-16 <span class="news-indication-tag">MS</span>
+
+來源：[Presseportal.ch](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdkhsQ2RGVXNPWDJqenB2RDBYRXhRdFlpWGsxbVpfelJQeFNoOEhTRVkxUDVwVVRCS0RQUlZIRUZXQWsxRHFLTFJGVWVwMWs0Q2R3eVFLTXV3MnVtei0tTi1KQQ?oc=5)
+
+---
+
+### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
+
+2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
+
+---
+
+### [Hochverarbeitete Lebensmittel: 58% erhöhtes Demenzrisiko nachgewiesen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFhtZTBINmxXQzRzdUhFYjhEQll5cjNOOEJ6M0twUkNnbFdmOEJrYlphRVJKcFlMemYyNXNiRDFyUktDN01XcnZ4TnZpLWVfVTlROVRXNmJ5UVEyUFphNFQzbWhBWXdPMl8xZEFpZ2diaVV6VXBFOVNZbGw3MzMtMVBQRmdjZzgwUHZCNUFmaEZpcHRaajRWNlhaTFRZVFNkZTZXYnVtS0FnUmJJS2dfd2p3?oc=5)
 
 2026-06-15 <span class="news-indication-tag">MS</span>
 
-來源：[Xataka](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYm9uakNHc3lEZFhFZ3hTNENDU01pOGJoVXh2aHpDVFRKY0VrVnVOdHNZM2RROEQ1OU5iVWdwajlzRGJjZDc2R2EwZkc0WVJlcnBfcGRfczkzNElLMFVRb3JQMHFMbjVrNW1jVkdmVk1TYThQUzFXdUNVYXkyM09kN0VzOFppTzkzaXhFZndZeFFaUnlpek5OMG0xTVc2Q2JIQWpmMlNOMzMycWpLQ2Z2d2xWUEVmMnFVbTBkYUFGcTg3MWxNLWFDbXdDWnoxZ9IB0wFBVV95cUxPaW5NSk0xY0Fpb2VpU3l4ZnR0RFc3WTh4M09TWUZXakFFNFk0VFlieWtHWDJfTEg1cWdzQlVGakpoaXBkaGVidnUxcTZVeUFPQ05heDFBYkJubUp0dkttZVBabHJGVmlpdllOS3paVXNuOVcwOFRpeUo2YXBxX2NVTWg5NDVnaG8zVWt0OC1iYU82alBsY0lBVTFyTU5DR2FDYWVXcDZfOTcyYlV0QlFQNXpsei13LVJfRkRsUnZDNGNONG56MHZHb01JNmpLS3NiVUZr?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFhtZTBINmxXQzRzdUhFYjhEQll5cjNOOEJ6M0twUkNnbFdmOEJrYlphRVJKcFlMemYyNXNiRDFyUktDN01XcnZ4TnZpLWVfVTlROVRXNmJ5UVEyUFphNFQzbWhBWXdPMl8xZEFpZ2diaVV6VXBFOVNZbGw3MzMtMVBQRmdjZzgwUHZCNUFmaEZpcHRaajRWNlhaTFRZVFNkZTZXYnVtS0FnUmJJS2dfd2p3?oc=5)
+
+---
+
+### [Top vaping flavours could 'raise cardiac arrest risk' by causing an irregular heartbeat, study claims - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnNJSVRQQl9MQnJqeUlHTThqMjVhYzBmTXQ2NVY1NFI2X3JEMmh4MVdFV19RTjU4TkVNRVExUVdwamd0TjQ1RjJCZTd6RURRUEdpY0dfVDJ3OTVBaGJxQThoV2R3aDZyNHZWRlI2M1VrS3NDc3pZMXF4U2w1YkMxdEVrckljXzViYUJSRWxvSnlOdlpjclVNYWo4TGQ0S0J4czY0?oc=5)
+
+2026-06-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">irregular heartbeat</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnNJSVRQQl9MQnJqeUlHTThqMjVhYzBmTXQ2NVY1NFI2X3JEMmh4MVdFV19RTjU4TkVNRVExUVdwamd0TjQ1RjJCZTd6RURRUEdpY0dfVDJ3OTVBaGJxQThoV2R3aDZyNHZWRlI2M1VrS3NDc3pZMXF4U2w1YkMxdEVrckljXzViYUJSRWxvSnlOdlpjclVNYWo4TGQ0S0J4czY0?oc=5)
 
 ---
 
@@ -70,19 +102,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
+### [Dad’s ‘Alzheimer’s symptoms’ turned out to be incurable brain cancer diagnosis - Leader Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpjc000Zk1sdjg5bzdVQ3NoVmk0RDFaTUE5ZnJ0VmdyX3ctTUhDT2t3UEZLaWMwd2Y5MXdhd0c0dUdYRnJmU0kyTjgyV2t1bmxNRzQtdFBEdWIxTW1JVmhmX0l5UHk5RHoyMnVBRjVKeGJTZkFmTmR0YzA4eFZkMENidTRQU1NEVEI3MHRlU2NMTDZQUHI1NGtKUQ?oc=5)
 
 2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
-
----
-
-### [La Comunidad Valenciana refuerza la vigilancia y control de las enfermedades transmitidas por vectores](https://news.google.com/rss/articles/CBMi6wFBVV95cUxORTl3NUhSaEVFOVNQQV9IVXlnMjRJTXd1ZVk1Ujk1ZnpVZHA1anBCRWs1SExxQ2N5YTFrQlZlODh2Vm5oNVFWbXE5TV9NanlvampWUmdGRjE0WGc5UG1BWDJQbzRsRnhkU3ZTaldKQ0pLbjB6T0JJMDU5TGZKcHNmRnBZLVEwNEpsRWc1RE9hZ1paenJuQ04xb0JCM1BpT2hXMVZpSHNqT0RwYTJybmdxMFBTZnhUcFJsOUkwYnEtVmRVN2VhV1M2NTVRMDYyVF9jakUyZjJOZGhRSHpFemR6eWd5dWxTdW03VVJN?oc=5)
-
-2026-06-15 <span class="news-indication-tag">MS</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi6wFBVV95cUxORTl3NUhSaEVFOVNQQV9IVXlnMjRJTXd1ZVk1Ujk1ZnpVZHA1anBCRWs1SExxQ2N5YTFrQlZlODh2Vm5oNVFWbXE5TV9NanlvampWUmdGRjE0WGc5UG1BWDJQbzRsRnhkU3ZTaldKQ0pLbjB6T0JJMDU5TGZKcHNmRnBZLVEwNEpsRWc1RE9hZ1paenJuQ04xb0JCM1BpT2hXMVZpSHNqT0RwYTJybmdxMFBTZnhUcFJsOUkwYnEtVmRVN2VhV1M2NTVRMDYyVF9jakUyZjJOZGhRSHpFemR6eWd5dWxTdW03VVJN?oc=5)
+來源：[Leader Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpjc000Zk1sdjg5bzdVQ3NoVmk0RDFaTUE5ZnJ0VmdyX3ctTUhDT2t3UEZLaWMwd2Y5MXdhd0c0dUdYRnJmU0kyTjgyV2t1bmxNRzQtdFBEdWIxTW1JVmhmX0l5UHk5RHoyMnVBRjVKeGJTZkFmTmR0YzA4eFZkMENidTRQU1NEVEI3MHRlU2NMTDZQUHI1NGtKUQ?oc=5)
 
 ---
 
@@ -102,35 +126,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Hochverarbeitete Lebensmittel: Studie warnt vor 58% höherem Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE5ZYnNJSkFyYmlNaHJCdF9qWlBSN21xNFVpckFVektXN3FBaDBKSlFRLW1NTDExTjh5SVE0RXkzQzdvekJmR1JsZW5aRFpMTVRuTnNZbk9tTTdTQ05hS2dQVVl4dS1JMDhOREVoNGYzTkl2a3JzYXFHTEhMX1ZZRUZpUGg1QWtIVll5eU0zeGhQVHh4SzBoN2NYelhyYjR2WWlUTVhB?oc=5)
+### [El problema no son los ultraprocesados, sino no diferenciar los de origen animal de los de origen vegetal - Gaceta de salud](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYXlYaTA5TzhtVWxmTElVUlhGemR5Q0VDMllmTDRwbk9QejNHWGhzNWphakNYSzljUzlxWVhEV1FUaGEteVRzN1VaNThkSThvZVRuUnBPSERFWU5ZeWpFT3FKUWVNMTJUaE96V21LR0dtOXNUTkYyRmNvTDVtWHB1UmpXVnpvOHV1bUFaUlV1c1pOZDc4RGZHMFRKd2FfYUlFaVYweGV2UWpYb052X0JwWVRxTDROR210bTdXbmlvRnZyYjFidjJGNGdweXBnR1VWV0xUOTFVRDlHOVFPcTZoblRhSVozR21GVEZNdnpWTDF4aGFua09xWk1sbF95b0Q0X1FTZVd4Qjg?oc=5)
 
 2026-06-15 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE5ZYnNJSkFyYmlNaHJCdF9qWlBSN21xNFVpckFVektXN3FBaDBKSlFRLW1NTDExTjh5SVE0RXkzQzdvekJmR1JsZW5aRFpMTVRuTnNZbk9tTTdTQ05hS2dQVVl4dS1JMDhOREVoNGYzTkl2a3JzYXFHTEhMX1ZZRUZpUGg1QWtIVll5eU0zeGhQVHh4SzBoN2NYelhyYjR2WWlUTVhB?oc=5)
-
----
-
-### [Un mese di ebola nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2FlaVUxX2dpNXpURHJicmdaWm5Idzcxemo2WEgyZFQ1NzRqM3I2QWlyWHJicktyTnFDYXdWZVNVUHdNc1RBSHNEUXI2WjkyNFJfSDJnVlVjdUk5Y0luSm5MMHZDUUMyTFlGdjJCb2E1UXZWWWFWT3pXSndjWXVfMDM0SHFuM0I2OEhCT1Vn?oc=5)
-
-2026-06-15 <span class="news-indication-tag">MS</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2FlaVUxX2dpNXpURHJicmdaWm5Idzcxemo2WEgyZFQ1NzRqM3I2QWlyWHJicktyTnFDYXdWZVNVUHdNc1RBSHNEUXI2WjkyNFJfSDJnVlVjdUk5Y0luSm5MMHZDUUMyTFlGdjJCb2E1UXZWWWFWT3pXSndjWXVfMDM0SHFuM0I2OEhCT1Vn?oc=5)
-
----
-
-### [This Painful Condition Impacts Women Way More Than Men, And You Need To Know About It](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
-
-2026-06-14 <span class="news-indication-tag">MS</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
-
----
-
-### [Laser scans could map build-up of microplastics inside the body - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVYwc05ObklxLW0zbmFjaU1KVXJodkFrOUI2dEF6S1ZiajI0OXRibkhWWGNHdHpNR1JaRjRYRDgxX3FqMEJtUDBBcE5HVXFydFhRcGdFSm1CZ3FJOTVZdXFoSFdRekYyX2xWWXJBbHBRZEQ2b3V3aEdiY2dBU3FCODdrUHZZREZ0TEt3cDBsU2FTdw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVYwc05ObklxLW0zbmFjaU1KVXJodkFrOUI2dEF6S1ZiajI0OXRibkhWWGNHdHpNR1JaRjRYRDgxX3FqMEJtUDBBcE5HVXFydFhRcGdFSm1CZ3FJOTVZdXFoSFdRekYyX2xWWXJBbHBRZEQ2b3V3aEdiY2dBU3FCODdrUHZZREZ0TEt3cDBsU2FTdw?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYXlYaTA5TzhtVWxmTElVUlhGemR5Q0VDMllmTDRwbk9QejNHWGhzNWphakNYSzljUzlxWVhEV1FUaGEteVRzN1VaNThkSThvZVRuUnBPSERFWU5ZeWpFT3FKUWVNMTJUaE96V21LR0dtOXNUTkYyRmNvTDVtWHB1UmpXVnpvOHV1bUFaUlV1c1pOZDc4RGZHMFRKd2FfYUlFaVYweGV2UWpYb052X0JwWVRxTDROR210bTdXbmlvRnZyYjFidjJGNGdweXBnR1VWV0xUOTFVRDlHOVFPcTZoblRhSVozR21GVEZNdnpWTDF4aGFua09xWk1sbF95b0Q0X1FTZVd4Qjg?oc=5)
 
 ---
 
