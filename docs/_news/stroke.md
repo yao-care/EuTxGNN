@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Herz-Kreislauf-Erkrankungen: 99% der Fälle durch vier Faktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
 
 2026-06-16
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
-
----
-
-### [Tecnalia impulsa una revolucionaria terapia cerebral sin cirugía para tratar ictus y Parkinson](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
-
-2026-06-16
-
-來源：[EntreMayores](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Monitorizar la glucosa puede aumentar el tiempo en rango en diabetes tipo 2 - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
+### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
 
-2026-06-16 <span class="news-indication-tag">diabetes</span>
+2026-06-16 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
+來源：[Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/abaloparatide/
 2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
-
----
-
-### [Emicrania, il 17 giugno torna l’Open Day di Asst Bergamo Ovest - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVS1OeFVUdUNPdWJDVXlvVUhEQjU5eUJlZkk2NUdZa2lNRm00SW8wVllpZThwcGpQSTB0aFM4dnZfaU9rZWFCQ1R0bXJxR3Q0bDB4RzlwNTl3RE1xUEQ2U3c3aUtiV3dvNmk0cTFRSHVmR1dDekNBQ19VYnYxWDNKZFNYelFKVUpkeWdlV2QyVzZOSDN5OU8wQWU4VUFGZkdIVlZVMHFZRk80UENPSHF6NU5JRHhOVXNmeXJCM1ZqeFdjS1h2ek9Z?oc=5)
-
-2026-06-15 <span class="news-indication-tag">emicrania</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVS1OeFVUdUNPdWJDVXlvVUhEQjU5eUJlZkk2NUdZa2lNRm00SW8wVllpZThwcGpQSTB0aFM4dnZfaU9rZWFCQ1R0bXJxR3Q0bDB4RzlwNTl3RE1xUEQ2U3c3aUtiV3dvNmk0cTFRSHVmR1dDekNBQ19VYnYxWDNKZFNYelFKVUpkeWdlV2QyVzZOSDN5OU8wQWU4VUFGZkdIVlZVMHFZRk80UENPSHF6NU5JRHhOVXNmeXJCM1ZqeFdjS1h2ek9Z?oc=5)
 
 ---
 

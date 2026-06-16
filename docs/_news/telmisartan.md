@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Herz-Kreislauf-Erkrankungen: 99% der Fälle durch vier Faktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Tecnalia impulsa una revolucionaria terapia cerebral sin cirugía para tratar ictus y Parkinson](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
-
-2026-06-16 <span class="news-indication-tag">ictus</span>
-
-來源：[EntreMayores](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
-
----
-
 ### [Niedriger Blutdruck könnte mit Alzheimer zusammenhängen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
 
 2026-06-15 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
-
----
-
-### [Vous prenez votre traitement contre l'hypertension le matin ? Ces chercheurs ont décalé la prise au coucher (et les résultats sont stupéfiants)](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
-
-2026-06-15 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
 
 ---
 

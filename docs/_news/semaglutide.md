@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Monitorizar la glucosa puede aumentar el tiempo en rango en diabetes tipo 2 - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
-
-2026-06-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### ["Je ne pouvais plus entrer dans la baignoire" : Karine raconte comment le Wegovy, enfin remboursé, l’a allégée de 18 kilos - Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
 

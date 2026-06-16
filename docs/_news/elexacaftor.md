@@ -54,27 +54,27 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（3 則）
 
+### [EULAR-Leitlinien zur rheumatoiden Arthritis - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
+
+2026-06-16 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
+
+---
+
+### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
+
+2026-06-16 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
+
+---
+
 ### [Niedriger Blutdruck könnte mit Alzheimer zusammenhängen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
 
 2026-06-15 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
-
----
-
-### [Vous prenez votre traitement contre l'hypertension le matin ? Ces chercheurs ont décalé la prise au coucher (et les résultats sont stupéfiants)](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
-
-2026-06-15 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5)
-
----
-
-### [Emicrania, il 17 giugno torna l’Open Day di Asst Bergamo Ovest - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVS1OeFVUdUNPdWJDVXlvVUhEQjU5eUJlZkk2NUdZa2lNRm00SW8wVllpZThwcGpQSTB0aFM4dnZfaU9rZWFCQ1R0bXJxR3Q0bDB4RzlwNTl3RE1xUEQ2U3c3aUtiV3dvNmk0cTFRSHVmR1dDekNBQ19VYnYxWDNKZFNYelFKVUpkeWdlV2QyVzZOSDN5OU8wQWU4VUFGZkdIVlZVMHFZRk80UENPSHF6NU5JRHhOVXNmeXJCM1ZqeFdjS1h2ek9Z?oc=5)
-
-2026-06-15 <span class="news-indication-tag">emicrania</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVS1OeFVUdUNPdWJDVXlvVUhEQjU5eUJlZkk2NUdZa2lNRm00SW8wVllpZThwcGpQSTB0aFM4dnZfaU9rZWFCQ1R0bXJxR3Q0bDB4RzlwNTl3RE1xUEQ2U3c3aUtiV3dvNmk0cTFRSHVmR1dDekNBQ19VYnYxWDNKZFNYelFKVUpkeWdlV2QyVzZOSDN5OU8wQWU4VUFGZkdIVlZVMHFZRk80UENPSHF6NU5JRHhOVXNmeXJCM1ZqeFdjS1h2ek9Z?oc=5)
 
 ---
 

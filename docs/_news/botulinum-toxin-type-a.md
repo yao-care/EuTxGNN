@@ -54,19 +54,19 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（2 則）
 
+### [Adaptive Deep Brain Stimulation Fixes Parkinson’s Walking Gait - Neuroscience News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0NrMmxHdS1iaDB1UEd2Tk13bmhOTGI5NmJXQ2YtdjdQWFhLUmxKVkhBTUo0d2IyVld0VHZVSVhFNVZEelA1ejA0M1hmTEcxQmNUcld4VEEwVjM4RGVzUDNPUGg0NDJtRWlQX2k1bEZKd053aml3NTZWWEdtWE8xQTJlQzU4TlRwVlZn?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0NrMmxHdS1iaDB1UEd2Tk13bmhOTGI5NmJXQ2YtdjdQWFhLUmxKVkhBTUo0d2IyVld0VHZVSVhFNVZEelA1ejA0M1hmTEcxQmNUcld4VEEwVjM4RGVzUDNPUGg0NDJtRWlQX2k1bEZKd053aml3NTZWWEdtWE8xQTJlQzU4TlRwVlZn?oc=5)
+
+---
+
 ### [«Abbiamo creduto che un bicchiere di vino al giorno facesse bene ma gli esperti lanciano il nuovo allarme legato ai tumori» - Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
 
 2026-06-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
-
----
-
-### [So wirksam ist Thymian bei Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
-
-2026-06-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
 
 ---
 

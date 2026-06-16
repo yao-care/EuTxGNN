@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Monitorizar la glucosa puede aumentar el tiempo en rango en diabetes tipo 2 - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
-
-2026-06-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [«Abbiamo creduto che un bicchiere di vino al giorno facesse bene ma gli esperti lanciano il nuovo allarme legato ai tumori» - Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
 
@@ -83,14 +75,6 @@ permalink: /news/natalizumab/
 2026-06-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0l5bGVramN4QWRTZlN3MzlNNi1fZktaMmFFWVhMbkZLMmsxc2pGUUFieTl2Z2ZnX19YajE5cTZjZmd1Tm5EQWdJcGlPQy1PVDBnYlVUcmxZOWQxUlBWaXdpR2pvRExXSnNjN0lvN0tiWm9jd3djXzVieXByc2t3MkhtSjIxMl83VWhHcjVVVmVPeU5nZTl0eU8yaVIwT2lPYVk3dTRwSlE2V0lRVzFhQm1ZQnBYUVVpOXJYbHBINFBmRHk3Qng4MHpRcUY4LXBmRXBLbHE1MzBPczViSG44b0pvOA?oc=5)
-
----
-
-### [So wirksam ist Thymian bei Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
-
-2026-06-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
 
 ---
 

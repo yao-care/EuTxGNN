@@ -14,7 +14,7 @@ permalink: /news/pembrolizumab/
 ---
 
 <p class="key-answer" data-question="Pembrolizumab 有什麼相關新聞？">
-<strong>Pembrolizumab</strong> 目前有 <strong>43 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pembrolizumab</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/pembrolizumab/
 <p><a href="{{ '/drugs/pembrolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（43 則）
+## 相關新聞（39 則）
 
 ### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
 2026-06-16 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [Una terapia de pulsos electromagnéticos frena los tumores en ratones - La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTmpaalh2MFBVaWN6ZHNsempTQkJ0YnN0OW1pa3FkeEJESXBuVkh6V0FsZlRIbmtkNndlb1Q5NHJTQUdCajNic1lQTnhfQ0xTdC1FbmFrdUJfeWNXU0xjaDBIX0JXZ25HYURjOGxqemZ2dlZnc0NRVHdBUG94bVRfbUliZjdqQTRINl9MT09Ld3dsVEpIekVBejhkR3M5TktxZkNsQ3NMMlpLM1JQbUgyZExsdlFEWnRFNVdySUp5dWVOY3FfYjF1TG11ZUYyS1JoR3d5TWNNNNIB8wFBVV95cUxNS2IxbkM4STFqS1JDanZmaVMycFhTVTk0eGJYUExRcHhyc3liZjdEQ21jbHVnRm81bHRmS09RMVIybUkyeVg5UUU3X2o5V0N5OUpvaFB1WW5EMWFBZVItWjNVT2xvV3JFY010YlVRLUs0bVRHU1dUX3lqM2ZYMXRPd0RvYW54c1hfS0VfU2daTlR3enFxT3RPTjVYUjQ5c0RUTmhVYkhPZjc1V3R2c09COVYzS0JsVFkzQlp4TkVZY3VZNURhcFBQWFJsc21vQnk4cUlOSXdkRlo2RE5mZ0FlQ2E0S3pxbU5MSGRfeUNqWFFUZTg?oc=5)
+
+2026-06-16 <span class="news-indication-tag">tumor</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTmpaalh2MFBVaWN6ZHNsempTQkJ0YnN0OW1pa3FkeEJESXBuVkh6V0FsZlRIbmtkNndlb1Q5NHJTQUdCajNic1lQTnhfQ0xTdC1FbmFrdUJfeWNXU0xjaDBIX0JXZ25HYURjOGxqemZ2dlZnc0NRVHdBUG94bVRfbUliZjdqQTRINl9MT09Ld3dsVEpIekVBejhkR3M5TktxZkNsQ3NMMlpLM1JQbUgyZExsdlFEWnRFNVdySUp5dWVOY3FfYjF1TG11ZUYyS1JoR3d5TWNNNNIB8wFBVV95cUxNS2IxbkM4STFqS1JDanZmaVMycFhTVTk0eGJYUExRcHhyc3liZjdEQ21jbHVnRm81bHRmS09RMVIybUkyeVg5UUU3X2o5V0N5OUpvaFB1WW5EMWFBZVItWjNVT2xvV3JFY010YlVRLUs0bVRHU1dUX3lqM2ZYMXRPd0RvYW54c1hfS0VfU2daTlR3enFxT3RPTjVYUjQ5c0RUTmhVYkhPZjc1V3R2c09COVYzS0JsVFkzQlp4TkVZY3VZNURhcFBQWFJsc21vQnk4cUlOSXdkRlo2RE5mZ0FlQ2E0S3pxbU5MSGRfeUNqWFFUZTg?oc=5)
+
+---
+
+### [« C’est un scandale sanitaire » : la dermatologie réduite à peau de chagrin, exemple en Lot-et-Garonne - Sud Ouest](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNThJMVI5Nmk1b3RFQTJHbzZxTGdObXFKUDY5YllLbXJ0bHVJU2w0aE5iNlZzWlNpQUlMTk5sdWZIb0dCUTBuc3JSZ3Y1SWdDQWMtU0RpWTZsMnJ3NEoweGpiZFJBX0hlNkFOdVNqUGFEYlR0cTNudS1QOHNqMUpRb29pdmdXUHJaSkRKQk4waEh6c0RRa2dSdU9SOW4zWjU5bmNBTHdSUkY3V2xWZDRFYUdkb0diUk10bmVkWWR2UmxEbVAwYWI1RjdJQXNGV21idVh0SQ?oc=5)
+
+2026-06-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNThJMVI5Nmk1b3RFQTJHbzZxTGdObXFKUDY5YllLbXJ0bHVJU2w0aE5iNlZzWlNpQUlMTk5sdWZIb0dCUTBuc3JSZ3Y1SWdDQWMtU0RpWTZsMnJ3NEoweGpiZFJBX0hlNkFOdVNqUGFEYlR0cTNudS1QOHNqMUpRb29pdmdXUHJaSkRKQk4waEh6c0RRa2dSdU9SOW4zWjU5bmNBTHdSUkY3V2xWZDRFYUdkb0diUk10bmVkWWR2UmxEbVAwYWI1RjdJQXNGV21idVh0SQ?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/pembrolizumab/
 2026-06-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDNPRXdRNG5TLVZJdjJ4OHRaQnJnV3JwSjcwdWd2cDZpT2RVN0ttYnVYc1RFc0FSYldOLTlQRU5IUHV6QVdsOThlYUlsOTZiZ0M1WWtWRGpDejd6X3NIU29EYTkxbnhvaTByR2NEN1JoZ3FySXRta3pNVEptTWh5UkdJSm1wcEZRZUp0R1l3TUJzSlhnNzZ3WFBNc3BjN3dsUFg4?oc=5)
+
+---
+
+### [Ce traitement fait disparaître la tumeur chez 15 patients atteints d'un cancer que plus rien ne soignait - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0NtamNKeVEzWXpZd1ZqNXYxNGZMTzdNRFpOczFQaGNWb2Y0YTRUbnVjdEE4Z2lvY2dLQ21DX0hnQnpDY3dTSFlLYUdOUHczS0dnd0pSU1pVeHg1c2hUM3laNWdKR05HMlAyRTZSakJBV1pjUDNrV25nZEI4dGFQYU4zWGRySURVbDJIWlRSYncwT1dMX0J3?oc=5)
+
+2026-06-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0NtamNKeVEzWXpZd1ZqNXYxNGZMTzdNRFpOczFQaGNWb2Y0YTRUbnVjdEE4Z2lvY2dLQ21DX0hnQnpDY3dTSFlLYUdOUHczS0dnd0pSU1pVeHg1c2hUM3laNWdKR05HMlAyRTZSakJBV1pjUDNrV25nZEI4dGFQYU4zWGRySURVbDJIWlRSYncwT1dMX0J3?oc=5)
 
 ---
 
@@ -134,14 +158,6 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [El CSIC abre una vía contra el cáncer con pulsos electromagnéticos que dañan el tumor y activan el sistema inmune](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFdHU1U1Wmk2OWc5MjczNEUzZFFmdHhrSmZQallmMVFweUFRajdKM0hjX2gzRzV1alY3U2ljelM2dC1CNDVZUkZXYUZlWGlVbXFCWklaeDlFU1VHZzVQalFibGFpeFRteDV3Sjd1ellOZGFkNkwyUzYwZmJobFAxX3paUElFSUFCU3h0c0tsZWtnc0hXNDZNSE1JZDRCck1IcUF3Q2xhaDZKYkJVY0JpMWVVQlhJY00wVHViTzVpSS1XelppaFhRbEFR?oc=5)
-
-2026-06-16 <span class="news-indication-tag">tumor</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFdHU1U1Wmk2OWc5MjczNEUzZFFmdHhrSmZQallmMVFweUFRajdKM0hjX2gzRzV1alY3U2ljelM2dC1CNDVZUkZXYUZlWGlVbXFCWklaeDlFU1VHZzVQalFibGFpeFRteDV3Sjd1ellOZGFkNkwyUzYwZmJobFAxX3paUElFSUFCU3h0c0tsZWtnc0hXNDZNSE1JZDRCck1IcUF3Q2xhaDZKYkJVY0JpMWVVQlhJY00wVHViTzVpSS1XelppaFhRbEFR?oc=5)
-
----
-
 ### [Viren gegen Bakterien: Dieser Krebswirkstoff könnte den Kampf gegen resistente Keime verändern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzUzcHRZakhyN3gyQVR0bWdlTXIzR3NabmhvTkMtZWRDVVdqb1g5VG9SQ1JIVl8wUm94SWtsVHI1cGRGY0tCb2tMeng3RlFBbmFUWkRDblJBZkFvbG1NSU1IajY5RXMwazFIclFCQU1FZHVRR1VrQjdYSWQtaVRfNmp2LUFfX0JMTFFTWHAxcjBQQjJIamhTaWgtalV5V2lyb2NELUd4Y0xtQnBDVzJGd0FCOWFYLVBScUJfVlZKQkl2VV85WlZKeUIwVkJESThzMnFZ?oc=5)
 
 2026-06-16 <span class="news-indication-tag">Krebs</span>
@@ -150,11 +166,11 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+### [Stammtisch bietet Patient:innen mit Hirntumor](https://news.google.com/rss/articles/CBMimAFBVV95cUxOelZVMFNZcUpScTB4aHkyZlIxdFhqcGgybWZSZVQweE43M1kxZ0hKbTVlRWxxVks3eTdxVjhVQ2w2alpGSGtQZGhHNkd1RmUwbFRVY2ZSMVB1c0VTM2JUcFpLVDZPZTVYWWVvWWtrRjVfeFdlQTByUHdBN3VoeUZOalI0MGdnelhnYzRjT3ZFUDBuODE4N3BTVA?oc=5)
 
-2026-06-16 <span class="news-indication-tag">cancer</span>
+2026-06-16 <span class="news-indication-tag">tumor</span>
 
-來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+來源：[hallelife.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxOelZVMFNZcUpScTB4aHkyZlIxdFhqcGgybWZSZVQweE43M1kxZ0hKbTVlRWxxVks3eTdxVjhVQ2w2alpGSGtQZGhHNkd1RmUwbFRVY2ZSMVB1c0VTM2JUcFpLVDZPZTVYWWVvWWtrRjVfeFdlQTByUHdBN3VoeUZOalI0MGdnelhnYzRjT3ZFUDBuODE4N3BTVA?oc=5)
 
 ---
 
@@ -171,14 +187,6 @@ permalink: /news/pembrolizumab/
 2026-06-16 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWdwYk04Qks2RElGZDFfNVU3ZUQ2SnYzMjlpaHpnWFB3RUNLQkF6YXRTeG4yS0V0RzZBNzVuNkkxaU4wTFVTSndkb2hhVUI0WkNaVVN5bHZVZXBPRWdRZ3RueTN0eFZjME5IWkxINWZrQUhtanAtUzZtLTNQSThiNDZuUW82Nkw0dmoxVjN0UlZOZFJvMVEwaktON21kamxtaThEVnN1XzhMbzdlTXBGdUFDTmQxQQ?oc=5)
-
----
-
-### [Mum of three tells of ‘life-saving’ early cancer diagnosis ahead of BBQ charity fundraiser - Belfast Telegraph](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1ZhWEpVYzY1SmdMNWF4R2Fscmo3d1V0Xzk2RW4xOHhMV0xtak1wSE9Pc3RrUnNtcVUwOXpDOGhDNjFaMENrRmFVcDI5RFFiZHhFMnZHdVhoMFFqSVlpa3hnTi15R1ExZEZTZmg0dkJ4RmhjSkJLMmd3N0NxTjN3UGdxeElrZ25Sck5ucWhXX25kQUVjRzZkY1RCb2I1czltV0duczV6bFBqcnUwU2t4TjBJM3VuQUJjN2hDbWV0Zi1aUVlWTlJ3bUFwand3WHR1TWRUWWhEZjFWZnRFSThuS2QyYU9Fajl0X2JjWGVETEFyQQ?oc=5)
-
-2026-06-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1ZhWEpVYzY1SmdMNWF4R2Fscmo3d1V0Xzk2RW4xOHhMV0xtak1wSE9Pc3RrUnNtcVUwOXpDOGhDNjFaMENrRmFVcDI5RFFiZHhFMnZHdVhoMFFqSVlpa3hnTi15R1ExZEZTZmg0dkJ4RmhjSkJLMmd3N0NxTjN3UGdxeElrZ25Sck5ucWhXX25kQUVjRzZkY1RCb2I1czltV0duczV6bFBqcnUwU2t4TjBJM3VuQUJjN2hDbWV0Zi1aUVlWTlJ3bUFwand3WHR1TWRUWWhEZjFWZnRFSThuS2QyYU9Fajl0X2JjWGVETEFyQQ?oc=5)
 
 ---
 
@@ -203,14 +211,6 @@ permalink: /news/pembrolizumab/
 2026-06-16 <span class="news-indication-tag">Alzheimer-Krankheit</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHFhOE1lYlNTa2dwV21WMXh3aVI2STRJTEIyMWRGc25rM1o0akhGeE5ucFZIc25VU2lpRHRDdVR0Q0Y4a3pUSWkyMzFWZGpUZXBGRS14cDZtTEI2a24zQjBpVnRsZmtiLW9QSEowdU0xblQxUW1YSzhwM3Zmb3JTS0duZWliRjZWV3praFIzUlpVNFBqVU1PQW1PMGF5TUpWNDZYMVdZMEl5X1ZrNUxyZGZYZnV3d1h1Rl9yQ3FHN1Uzdw?oc=5)
-
----
-
-### [Pedro Alonso Aguirre, médico digestivo: «El cáncer de colon no es un tumor de gente joven» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigwJBVV95cUxPQUs4bk9YNUxhY3ZPaS1nYXZMZWlyQjM0SjIxSGJhQWhWZHJ1enF0MGg0X1BGTXFRZjF5ZG1sQ29jZmVYYXVpXzdoYnRaUFM1cC0wRWNjdUZZc0N4R0dyQzVhXzRZZEFOMWNUUDh1Q3ZxeC1qZE9wRDZabGx4RVBvYno1ZGNGTGVFejBZaS1JMVdhRHNySjdwZ0tVRHYxWUtreUpXZmt1RTdUcnJXT0ZJeGVRUl91bkJpZjBMVlY1a3Z2U1l0OEJaeG1WMGdkbWJFdU1yZU5TNm03eE02RFh1RGdET2k3QU9VcEVOd3RGdllLM216YUlBbGJqZmZpTXpVSkhF?oc=5)
-
-2026-06-16 <span class="news-indication-tag">tumor</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMigwJBVV95cUxPQUs4bk9YNUxhY3ZPaS1nYXZMZWlyQjM0SjIxSGJhQWhWZHJ1enF0MGg0X1BGTXFRZjF5ZG1sQ29jZmVYYXVpXzdoYnRaUFM1cC0wRWNjdUZZc0N4R0dyQzVhXzRZZEFOMWNUUDh1Q3ZxeC1qZE9wRDZabGx4RVBvYno1ZGNGTGVFejBZaS1JMVdhRHNySjdwZ0tVRHYxWUtreUpXZmt1RTdUcnJXT0ZJeGVRUl91bkJpZjBMVlY1a3Z2U1l0OEJaeG1WMGdkbWJFdU1yZU5TNm03eE02RFh1RGdET2k3QU9VcEVOd3RGdllLM216YUlBbGJqZmZpTXpVSkhF?oc=5)
 
 ---
 
@@ -254,14 +254,6 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [« Les créneaux sont partis en quelques heures » : le dépistage du mélanome par cette mutuelle en Vendée pris d’assaut](https://news.google.com/rss/articles/CBMisAJBVV95cUxQejU5SlJPMEFGOVlBSkJESHVBMUdQcThmdEQ1V2hWNkhxSXJKRHZxSkpOemFtSmhWWDVWZUtUakJVZVVkNmw5M0Nvc01OSGJsUDF5MTBLYTFVVTdJSG5GOWRUclRHNUJYMnMtbjRIUFU1V0tZaVFrZnZHYm9FeDF3eDkzUDQyUXNRQkNWUWNWU1hYd2lQczFWdXRzdE1lUzB1bXNwcUpnd2gxMnNxNUVjZ2U0ZVVBUU0xN0Y5WDlSVFBPZ1NYYlJJcmpGdTZ5Vm1Zd1dVUk1rV3ZnV0U1QlcxUzl6Mkx3bTVlM1gyb3I1Si1WUG5JM1VXS0I3NnJ6anpCOVRtMEw5dW5kZ0toMzhiZXRLSWh0b1pNUzNyVVRSV3VWNWFvZGN6bXJ2U3pta0lY?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMisAJBVV95cUxQejU5SlJPMEFGOVlBSkJESHVBMUdQcThmdEQ1V2hWNkhxSXJKRHZxSkpOemFtSmhWWDVWZUtUakJVZVVkNmw5M0Nvc01OSGJsUDF5MTBLYTFVVTdJSG5GOWRUclRHNUJYMnMtbjRIUFU1V0tZaVFrZnZHYm9FeDF3eDkzUDQyUXNRQkNWUWNWU1hYd2lQczFWdXRzdE1lUzB1bXNwcUpnd2gxMnNxNUVjZ2U0ZVVBUU0xN0Y5WDlSVFBPZ1NYYlJJcmpGdTZ5Vm1Zd1dVUk1rV3ZnV0U1QlcxUzl6Mkx3bTVlM1gyb3I1Si1WUG5JM1VXS0I3NnJ6anpCOVRtMEw5dW5kZ0toMzhiZXRLSWh0b1pNUzNyVVRSV3VWNWFvZGN6bXJ2U3pta0lY?oc=5)
-
----
-
 ### [Grand format Cancer de la prostate : un traitement innovant pour soigner les patients dans cette clinique](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeUxZaHpQTWxvUXJvdFVHeUdfTTF3TV9pSUIyemJlbkdXamMwN1Y3SUs1V0NhbF9wY0lLUnlVM3ZENllHV0w0WGtVVUxRLTRXSGxPSkNYRU1WazMzR1lXMW5sc0k3cDVqQWNhV0ZxVnRRMzV6eUJ4NVlBeUE4bm5xMmRDOGhJc2UyQmhkQlZGeWdLTFRYaEpib2JQNmZHLVRYNzNtZjZGWTdFMFZtV0h5cHllRl8zTnQxVUxhVTZaYlVDc0hHb2tHeWxrNnBGaHp3cTNycGh6N0JxbGxRTUlNZHYxVGF6dFh3a2JlYjZMUQ?oc=5)
 
 2026-06-15 <span class="news-indication-tag">cancer</span>
@@ -283,14 +275,6 @@ permalink: /news/pembrolizumab/
 2026-06-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
-
----
-
-### [Des résultats "sans précédent" : ce traitement fait disparaitre le cancer chez des patients qui n'avaient plus d'option](https://news.google.com/rss/articles/CBMingFBVV95cUxPUW9WV1VmRkNKTlNSVHpGLTYyWXd3YlowUTZqUEtOdXJyUVBkMXpBdlpGTnRKRFdfVWNla0JWMHVUd2FZcFpHLTN0YS1jUHFVSW8ySk9URG52c0lRMFhfdE1uUzFrdUZTZE96cW9OZGo3M0lkMmV1bW1TeHNpTFZDLTdNVWR6UEc3YXlSaFB5MW1keEZwZGZJdDhMXzAzZw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPUW9WV1VmRkNKTlNSVHpGLTYyWXd3YlowUTZqUEtOdXJyUVBkMXpBdlpGTnRKRFdfVWNla0JWMHVUd2FZcFpHLTN0YS1jUHFVSW8ySk9URG52c0lRMFhfdE1uUzFrdUZTZE96cW9OZGo3M0lkMmV1bW1TeHNpTFZDLTdNVWR6UEc3YXlSaFB5MW1keEZwZGZJdDhMXzAzZw?oc=5)
 
 ---
 
@@ -323,14 +307,6 @@ permalink: /news/pembrolizumab/
 2026-06-15 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFNTR1RwM1pOcEI4S3p3Y2pfb2Z5WGZBTWhObk1Pd1BwT21ZMUFqbEVXMkVQYm9WR0EtSHJqOU8yRFY5dm5lX0hIX2FRYm4xZ1U2WFNtWW1VOHN6dVE0T1JRZVdiYjlDZDJENldVR1FRbVRfcENfUHRuMEdIQklFNzBycV9uZVBqRVlTdll4dw?oc=5)
-
----
-
-### [Stammtisch bietet Patient:innen mit Hirntumor Raum für Austausch und Normalität](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnFXR3hEYWRaa1lfTF9fb2RxaWlmS0M1TVd2c1hPZTZxOVNkdTJTYkpxQUhtdTY2eURJNXpRcVU2cUM2OGpmcEpZQU1pQkl2MjRBX2xZNnUzSm1TbElpQVJlVUxEWlFXWHllRk5DM3pDXzlrUGZ0bHE3VTl4SWRveWpnUHFHS1NnbGl0LTlQaUZYT3ZTMi1Va0hORUpTeXhPZjFZQzdmZjE2UzMzN2x4d3Y4blNFRG5WUGpFMWdfSmZ2cmZIdG1NdldXcnprUDNwTmtMOUlWTUNzanRmbGQ1bQ?oc=5)
-
-2026-06-15 <span class="news-indication-tag">tumor</span>
-
-來源：[H@llAnzeiger](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnFXR3hEYWRaa1lfTF9fb2RxaWlmS0M1TVd2c1hPZTZxOVNkdTJTYkpxQUhtdTY2eURJNXpRcVU2cUM2OGpmcEpZQU1pQkl2MjRBX2xZNnUzSm1TbElpQVJlVUxEWlFXWHllRk5DM3pDXzlrUGZ0bHE3VTl4SWRveWpnUHFHS1NnbGl0LTlQaUZYT3ZTMi1Va0hORUpTeXhPZjFZQzdmZjE2UzMzN2x4d3Y4blNFRG5WUGpFMWdfSmZ2cmZIdG1NdldXcnprUDNwTmtMOUlWTUNzanRmbGQ1bQ?oc=5)
 
 ---
 
@@ -387,14 +363,6 @@ permalink: /news/pembrolizumab/
 2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE84Z3JGU2lYeTI5VXJTS3NNVjlxTDdEemYwb1FSWnQ3YllaOHJnR1QwRFUyQ1BSYnZnY21lNW1pVTZGclluaGlzOFZiMlZLdmdZQ21EQ1h3UnlsRmJ3LWlv?oc=5)
-
----
-
-### [People living with dementia are too often overlooked | Letters - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
-
-2026-06-14 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>42 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inebilizumab</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（42 則）
+## 相關新聞（37 則）
 
 ### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
 2026-06-16 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [Una terapia de pulsos electromagnéticos frena los tumores en ratones - La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTmpaalh2MFBVaWN6ZHNsempTQkJ0YnN0OW1pa3FkeEJESXBuVkh6V0FsZlRIbmtkNndlb1Q5NHJTQUdCajNic1lQTnhfQ0xTdC1FbmFrdUJfeWNXU0xjaDBIX0JXZ25HYURjOGxqemZ2dlZnc0NRVHdBUG94bVRfbUliZjdqQTRINl9MT09Ld3dsVEpIekVBejhkR3M5TktxZkNsQ3NMMlpLM1JQbUgyZExsdlFEWnRFNVdySUp5dWVOY3FfYjF1TG11ZUYyS1JoR3d5TWNNNNIB8wFBVV95cUxNS2IxbkM4STFqS1JDanZmaVMycFhTVTk0eGJYUExRcHhyc3liZjdEQ21jbHVnRm81bHRmS09RMVIybUkyeVg5UUU3X2o5V0N5OUpvaFB1WW5EMWFBZVItWjNVT2xvV3JFY010YlVRLUs0bVRHU1dUX3lqM2ZYMXRPd0RvYW54c1hfS0VfU2daTlR3enFxT3RPTjVYUjQ5c0RUTmhVYkhPZjc1V3R2c09COVYzS0JsVFkzQlp4TkVZY3VZNURhcFBQWFJsc21vQnk4cUlOSXdkRlo2RE5mZ0FlQ2E0S3pxbU5MSGRfeUNqWFFUZTg?oc=5)
+
+2026-06-16 <span class="news-indication-tag">tumor</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTmpaalh2MFBVaWN6ZHNsempTQkJ0YnN0OW1pa3FkeEJESXBuVkh6V0FsZlRIbmtkNndlb1Q5NHJTQUdCajNic1lQTnhfQ0xTdC1FbmFrdUJfeWNXU0xjaDBIX0JXZ25HYURjOGxqemZ2dlZnc0NRVHdBUG94bVRfbUliZjdqQTRINl9MT09Ld3dsVEpIekVBejhkR3M5TktxZkNsQ3NMMlpLM1JQbUgyZExsdlFEWnRFNVdySUp5dWVOY3FfYjF1TG11ZUYyS1JoR3d5TWNNNNIB8wFBVV95cUxNS2IxbkM4STFqS1JDanZmaVMycFhTVTk0eGJYUExRcHhyc3liZjdEQ21jbHVnRm81bHRmS09RMVIybUkyeVg5UUU3X2o5V0N5OUpvaFB1WW5EMWFBZVItWjNVT2xvV3JFY010YlVRLUs0bVRHU1dUX3lqM2ZYMXRPd0RvYW54c1hfS0VfU2daTlR3enFxT3RPTjVYUjQ5c0RUTmhVYkhPZjc1V3R2c09COVYzS0JsVFkzQlp4TkVZY3VZNURhcFBQWFJsc21vQnk4cUlOSXdkRlo2RE5mZ0FlQ2E0S3pxbU5MSGRfeUNqWFFUZTg?oc=5)
+
+---
+
+### [« C’est un scandale sanitaire » : la dermatologie réduite à peau de chagrin, exemple en Lot-et-Garonne - Sud Ouest](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNThJMVI5Nmk1b3RFQTJHbzZxTGdObXFKUDY5YllLbXJ0bHVJU2w0aE5iNlZzWlNpQUlMTk5sdWZIb0dCUTBuc3JSZ3Y1SWdDQWMtU0RpWTZsMnJ3NEoweGpiZFJBX0hlNkFOdVNqUGFEYlR0cTNudS1QOHNqMUpRb29pdmdXUHJaSkRKQk4waEh6c0RRa2dSdU9SOW4zWjU5bmNBTHdSUkY3V2xWZDRFYUdkb0diUk10bmVkWWR2UmxEbVAwYWI1RjdJQXNGV21idVh0SQ?oc=5)
+
+2026-06-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNThJMVI5Nmk1b3RFQTJHbzZxTGdObXFKUDY5YllLbXJ0bHVJU2w0aE5iNlZzWlNpQUlMTk5sdWZIb0dCUTBuc3JSZ3Y1SWdDQWMtU0RpWTZsMnJ3NEoweGpiZFJBX0hlNkFOdVNqUGFEYlR0cTNudS1QOHNqMUpRb29pdmdXUHJaSkRKQk4waEh6c0RRa2dSdU9SOW4zWjU5bmNBTHdSUkY3V2xWZDRFYUdkb0diUk10bmVkWWR2UmxEbVAwYWI1RjdJQXNGV21idVh0SQ?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/inebilizumab/
 2026-06-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDNPRXdRNG5TLVZJdjJ4OHRaQnJnV3JwSjcwdWd2cDZpT2RVN0ttYnVYc1RFc0FSYldOLTlQRU5IUHV6QVdsOThlYUlsOTZiZ0M1WWtWRGpDejd6X3NIU29EYTkxbnhvaTByR2NEN1JoZ3FySXRta3pNVEptTWh5UkdJSm1wcEZRZUp0R1l3TUJzSlhnNzZ3WFBNc3BjN3dsUFg4?oc=5)
+
+---
+
+### [Ce traitement fait disparaître la tumeur chez 15 patients atteints d'un cancer que plus rien ne soignait - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0NtamNKeVEzWXpZd1ZqNXYxNGZMTzdNRFpOczFQaGNWb2Y0YTRUbnVjdEE4Z2lvY2dLQ21DX0hnQnpDY3dTSFlLYUdOUHczS0dnd0pSU1pVeHg1c2hUM3laNWdKR05HMlAyRTZSakJBV1pjUDNrV25nZEI4dGFQYU4zWGRySURVbDJIWlRSYncwT1dMX0J3?oc=5)
+
+2026-06-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0NtamNKeVEzWXpZd1ZqNXYxNGZMTzdNRFpOczFQaGNWb2Y0YTRUbnVjdEE4Z2lvY2dLQ21DX0hnQnpDY3dTSFlLYUdOUHczS0dnd0pSU1pVeHg1c2hUM3laNWdKR05HMlAyRTZSakJBV1pjUDNrV25nZEI4dGFQYU4zWGRySURVbDJIWlRSYncwT1dMX0J3?oc=5)
 
 ---
 
@@ -126,14 +150,6 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [El CSIC abre una vía contra el cáncer con pulsos electromagnéticos que dañan el tumor y activan el sistema inmune](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFdHU1U1Wmk2OWc5MjczNEUzZFFmdHhrSmZQallmMVFweUFRajdKM0hjX2gzRzV1alY3U2ljelM2dC1CNDVZUkZXYUZlWGlVbXFCWklaeDlFU1VHZzVQalFibGFpeFRteDV3Sjd1ellOZGFkNkwyUzYwZmJobFAxX3paUElFSUFCU3h0c0tsZWtnc0hXNDZNSE1JZDRCck1IcUF3Q2xhaDZKYkJVY0JpMWVVQlhJY00wVHViTzVpSS1XelppaFhRbEFR?oc=5)
-
-2026-06-16 <span class="news-indication-tag">tumor</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFdHU1U1Wmk2OWc5MjczNEUzZFFmdHhrSmZQallmMVFweUFRajdKM0hjX2gzRzV1alY3U2ljelM2dC1CNDVZUkZXYUZlWGlVbXFCWklaeDlFU1VHZzVQalFibGFpeFRteDV3Sjd1ellOZGFkNkwyUzYwZmJobFAxX3paUElFSUFCU3h0c0tsZWtnc0hXNDZNSE1JZDRCck1IcUF3Q2xhaDZKYkJVY0JpMWVVQlhJY00wVHViTzVpSS1XelppaFhRbEFR?oc=5)
-
----
-
 ### [Viren gegen Bakterien: Dieser Krebswirkstoff könnte den Kampf gegen resistente Keime verändern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzUzcHRZakhyN3gyQVR0bWdlTXIzR3NabmhvTkMtZWRDVVdqb1g5VG9SQ1JIVl8wUm94SWtsVHI1cGRGY0tCb2tMeng3RlFBbmFUWkRDblJBZkFvbG1NSU1IajY5RXMwazFIclFCQU1FZHVRR1VrQjdYSWQtaVRfNmp2LUFfX0JMTFFTWHAxcjBQQjJIamhTaWgtalV5V2lyb2NELUd4Y0xtQnBDVzJGd0FCOWFYLVBScUJfVlZKQkl2VV85WlZKeUIwVkJESThzMnFZ?oc=5)
 
 2026-06-16 <span class="news-indication-tag">Krebs</span>
@@ -142,11 +158,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+### [Stammtisch bietet Patient:innen mit Hirntumor](https://news.google.com/rss/articles/CBMimAFBVV95cUxOelZVMFNZcUpScTB4aHkyZlIxdFhqcGgybWZSZVQweE43M1kxZ0hKbTVlRWxxVks3eTdxVjhVQ2w2alpGSGtQZGhHNkd1RmUwbFRVY2ZSMVB1c0VTM2JUcFpLVDZPZTVYWWVvWWtrRjVfeFdlQTByUHdBN3VoeUZOalI0MGdnelhnYzRjT3ZFUDBuODE4N3BTVA?oc=5)
 
-2026-06-16 <span class="news-indication-tag">cancer</span>
+2026-06-16 <span class="news-indication-tag">tumor</span>
 
-來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+來源：[hallelife.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxOelZVMFNZcUpScTB4aHkyZlIxdFhqcGgybWZSZVQweE43M1kxZ0hKbTVlRWxxVks3eTdxVjhVQ2w2alpGSGtQZGhHNkd1RmUwbFRVY2ZSMVB1c0VTM2JUcFpLVDZPZTVYWWVvWWtrRjVfeFdlQTByUHdBN3VoeUZOalI0MGdnelhnYzRjT3ZFUDBuODE4N3BTVA?oc=5)
 
 ---
 
@@ -155,14 +171,6 @@ permalink: /news/inebilizumab/
 2026-06-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
-
----
-
-### [Mum of three tells of ‘life-saving’ early cancer diagnosis ahead of BBQ charity fundraiser - Belfast Telegraph](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1ZhWEpVYzY1SmdMNWF4R2Fscmo3d1V0Xzk2RW4xOHhMV0xtak1wSE9Pc3RrUnNtcVUwOXpDOGhDNjFaMENrRmFVcDI5RFFiZHhFMnZHdVhoMFFqSVlpa3hnTi15R1ExZEZTZmg0dkJ4RmhjSkJLMmd3N0NxTjN3UGdxeElrZ25Sck5ucWhXX25kQUVjRzZkY1RCb2I1czltV0duczV6bFBqcnUwU2t4TjBJM3VuQUJjN2hDbWV0Zi1aUVlWTlJ3bUFwand3WHR1TWRUWWhEZjFWZnRFSThuS2QyYU9Fajl0X2JjWGVETEFyQQ?oc=5)
-
-2026-06-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa1ZhWEpVYzY1SmdMNWF4R2Fscmo3d1V0Xzk2RW4xOHhMV0xtak1wSE9Pc3RrUnNtcVUwOXpDOGhDNjFaMENrRmFVcDI5RFFiZHhFMnZHdVhoMFFqSVlpa3hnTi15R1ExZEZTZmg0dkJ4RmhjSkJLMmd3N0NxTjN3UGdxeElrZ25Sck5ucWhXX25kQUVjRzZkY1RCb2I1czltV0duczV6bFBqcnUwU2t4TjBJM3VuQUJjN2hDbWV0Zi1aUVlWTlJ3bUFwand3WHR1TWRUWWhEZjFWZnRFSThuS2QyYU9Fajl0X2JjWGVETEFyQQ?oc=5)
 
 ---
 
@@ -179,22 +187,6 @@ permalink: /news/inebilizumab/
 2026-06-16 <span class="news-indication-tag">Krebs</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFZPaDM5LW00b0pVX3NpMHVFaDFHeWcybEN2NTcwSXd4SGhjR0JIUl9tN2Yyc0xMX29CZVJ0VEw5dXNuTFUtRzZFWjc2SGFvT3d0TEZTeFZpOGx5UmxhWGlnaGRWQkNUeW15b2otVU5PZnFBS1h2RnlNaVp6c2pINVZpNTFmTDN2LVNEMFhhZDFWMkpyQ1FtVk12OHhkelNGZkgwM0VObGQ?oc=5)
-
----
-
-### [Monitorizar la glucosa puede aumentar el tiempo en rango en diabetes tipo 2 - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
-
-2026-06-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3N3LUFlMnJUa1ZyY0oxMDdkTkZoOERWT1FGYWFqYzROQUNwNC1lb1A3UThjUHdOYWx6Tnc1UWxldVdMUjQzVklEd0ZZQnU1V1NjVGQ0dmRreVNpb0k1RS1HcExpQ1RNZVgzLTQyZndJUUt4TVVUTl9iNFVYQ29UclBDa0F6Rno1THpGZEdqSWs3cnE0cU9hVlpCenltMjg1RUlOT1dsQVpxcXI0Qkw1cEY2Um5XRHhXRGtxbjFuVlZYSGhMeWY0a0l1b9IBywFBVV95cUxPYVhjOHVJZERBQ2M0M00xeEl2WkVGNDQzY2dtYnBWZlVsR0k2aS02V0RnbF9FMTgydlV2Nmhaa0tzdHFpWnpxYXFpZm8xN2VrRGJSMHU0Vk9XTG9kMVcwXzVDYzNGZ2pHeW1oQUJHNXVpOEY4MnZhMXRPQk42UlpLd2JWd1lpdkNHcFBVWWdMU1Jyck0zaTNvbEJtMzVyNXpUS1dUWGYzQ0Y2T1hmQUZUOUE5dG5YZ1gtSXJEZFZzOXVtWXF4TWVMUFJEYw?oc=5)
-
----
-
-### [Pedro Alonso Aguirre, médico digestivo: «El cáncer de colon no es un tumor de gente joven» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigwJBVV95cUxPQUs4bk9YNUxhY3ZPaS1nYXZMZWlyQjM0SjIxSGJhQWhWZHJ1enF0MGg0X1BGTXFRZjF5ZG1sQ29jZmVYYXVpXzdoYnRaUFM1cC0wRWNjdUZZc0N4R0dyQzVhXzRZZEFOMWNUUDh1Q3ZxeC1qZE9wRDZabGx4RVBvYno1ZGNGTGVFejBZaS1JMVdhRHNySjdwZ0tVRHYxWUtreUpXZmt1RTdUcnJXT0ZJeGVRUl91bkJpZjBMVlY1a3Z2U1l0OEJaeG1WMGdkbWJFdU1yZU5TNm03eE02RFh1RGdET2k3QU9VcEVOd3RGdllLM216YUlBbGJqZmZpTXpVSkhF?oc=5)
-
-2026-06-16 <span class="news-indication-tag">tumor</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMigwJBVV95cUxPQUs4bk9YNUxhY3ZPaS1nYXZMZWlyQjM0SjIxSGJhQWhWZHJ1enF0MGg0X1BGTXFRZjF5ZG1sQ29jZmVYYXVpXzdoYnRaUFM1cC0wRWNjdUZZc0N4R0dyQzVhXzRZZEFOMWNUUDh1Q3ZxeC1qZE9wRDZabGx4RVBvYno1ZGNGTGVFejBZaS1JMVdhRHNySjdwZ0tVRHYxWUtreUpXZmt1RTdUcnJXT0ZJeGVRUl91bkJpZjBMVlY1a3Z2U1l0OEJaeG1WMGdkbWJFdU1yZU5TNm03eE02RFh1RGdET2k3QU9VcEVOd3RGdllLM216YUlBbGJqZmZpTXpVSkhF?oc=5)
 
 ---
 
@@ -222,14 +214,6 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [« Les créneaux sont partis en quelques heures » : le dépistage du mélanome par cette mutuelle en Vendée pris d’assaut](https://news.google.com/rss/articles/CBMisAJBVV95cUxQejU5SlJPMEFGOVlBSkJESHVBMUdQcThmdEQ1V2hWNkhxSXJKRHZxSkpOemFtSmhWWDVWZUtUakJVZVVkNmw5M0Nvc01OSGJsUDF5MTBLYTFVVTdJSG5GOWRUclRHNUJYMnMtbjRIUFU1V0tZaVFrZnZHYm9FeDF3eDkzUDQyUXNRQkNWUWNWU1hYd2lQczFWdXRzdE1lUzB1bXNwcUpnd2gxMnNxNUVjZ2U0ZVVBUU0xN0Y5WDlSVFBPZ1NYYlJJcmpGdTZ5Vm1Zd1dVUk1rV3ZnV0U1QlcxUzl6Mkx3bTVlM1gyb3I1Si1WUG5JM1VXS0I3NnJ6anpCOVRtMEw5dW5kZ0toMzhiZXRLSWh0b1pNUzNyVVRSV3VWNWFvZGN6bXJ2U3pta0lY?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMisAJBVV95cUxQejU5SlJPMEFGOVlBSkJESHVBMUdQcThmdEQ1V2hWNkhxSXJKRHZxSkpOemFtSmhWWDVWZUtUakJVZVVkNmw5M0Nvc01OSGJsUDF5MTBLYTFVVTdJSG5GOWRUclRHNUJYMnMtbjRIUFU1V0tZaVFrZnZHYm9FeDF3eDkzUDQyUXNRQkNWUWNWU1hYd2lQczFWdXRzdE1lUzB1bXNwcUpnd2gxMnNxNUVjZ2U0ZVVBUU0xN0Y5WDlSVFBPZ1NYYlJJcmpGdTZ5Vm1Zd1dVUk1rV3ZnV0U1QlcxUzl6Mkx3bTVlM1gyb3I1Si1WUG5JM1VXS0I3NnJ6anpCOVRtMEw5dW5kZ0toMzhiZXRLSWh0b1pNUzNyVVRSV3VWNWFvZGN6bXJ2U3pta0lY?oc=5)
-
----
-
 ### [Grand format Cancer de la prostate : un traitement innovant pour soigner les patients dans cette clinique](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeUxZaHpQTWxvUXJvdFVHeUdfTTF3TV9pSUIyemJlbkdXamMwN1Y3SUs1V0NhbF9wY0lLUnlVM3ZENllHV0w0WGtVVUxRLTRXSGxPSkNYRU1WazMzR1lXMW5sc0k3cDVqQWNhV0ZxVnRRMzV6eUJ4NVlBeUE4bm5xMmRDOGhJc2UyQmhkQlZGeWdLTFRYaEpib2JQNmZHLVRYNzNtZjZGWTdFMFZtV0h5cHllRl8zTnQxVUxhVTZaYlVDc0hHb2tHeWxrNnBGaHp3cTNycGh6N0JxbGxRTUlNZHYxVGF6dFh3a2JlYjZMUQ?oc=5)
 
 2026-06-15 <span class="news-indication-tag">cancer</span>
@@ -248,7 +232,7 @@ permalink: /news/inebilizumab/
 
 ### [Single-cell RNA sequencing of terminal ileal biopsies identifies signatures of Crohn’s disease pathogenesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
 
-2026-06-15 <span class="news-indication-tag">Crohn's disease</span> <span class="news-indication-tag">ulcerative colitis</span>
+2026-06-15 <span class="news-indication-tag">ulcerative colitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
 
@@ -267,14 +251,6 @@ permalink: /news/inebilizumab/
 2026-06-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
-
----
-
-### [Des résultats "sans précédent" : ce traitement fait disparaitre le cancer chez des patients qui n'avaient plus d'option](https://news.google.com/rss/articles/CBMingFBVV95cUxPUW9WV1VmRkNKTlNSVHpGLTYyWXd3YlowUTZqUEtOdXJyUVBkMXpBdlpGTnRKRFdfVWNla0JWMHVUd2FZcFpHLTN0YS1jUHFVSW8ySk9URG52c0lRMFhfdE1uUzFrdUZTZE96cW9OZGo3M0lkMmV1bW1TeHNpTFZDLTdNVWR6UEc3YXlSaFB5MW1keEZwZGZJdDhMXzAzZw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPUW9WV1VmRkNKTlNSVHpGLTYyWXd3YlowUTZqUEtOdXJyUVBkMXpBdlpGTnRKRFdfVWNla0JWMHVUd2FZcFpHLTN0YS1jUHFVSW8ySk9URG52c0lRMFhfdE1uUzFrdUZTZE96cW9OZGo3M0lkMmV1bW1TeHNpTFZDLTdNVWR6UEc3YXlSaFB5MW1keEZwZGZJdDhMXzAzZw?oc=5)
 
 ---
 
@@ -310,27 +286,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [So wirksam ist Thymian bei Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
-
-2026-06-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
-
----
-
 ### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
-
----
-
-### [Stammtisch bietet Patient:innen mit Hirntumor Raum für Austausch und Normalität](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnFXR3hEYWRaa1lfTF9fb2RxaWlmS0M1TVd2c1hPZTZxOVNkdTJTYkpxQUhtdTY2eURJNXpRcVU2cUM2OGpmcEpZQU1pQkl2MjRBX2xZNnUzSm1TbElpQVJlVUxEWlFXWHllRk5DM3pDXzlrUGZ0bHE3VTl4SWRveWpnUHFHS1NnbGl0LTlQaUZYT3ZTMi1Va0hORUpTeXhPZjFZQzdmZjE2UzMzN2x4d3Y4blNFRG5WUGpFMWdfSmZ2cmZIdG1NdldXcnprUDNwTmtMOUlWTUNzanRmbGQ1bQ?oc=5)
-
-2026-06-15 <span class="news-indication-tag">tumor</span>
-
-來源：[H@llAnzeiger](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnFXR3hEYWRaa1lfTF9fb2RxaWlmS0M1TVd2c1hPZTZxOVNkdTJTYkpxQUhtdTY2eURJNXpRcVU2cUM2OGpmcEpZQU1pQkl2MjRBX2xZNnUzSm1TbElpQVJlVUxEWlFXWHllRk5DM3pDXzlrUGZ0bHE3VTl4SWRveWpnUHFHS1NnbGl0LTlQaUZYT3ZTMi1Va0hORUpTeXhPZjFZQzdmZjE2UzMzN2x4d3Y4blNFRG5WUGpFMWdfSmZ2cmZIdG1NdldXcnprUDNwTmtMOUlWTUNzanRmbGQ1bQ?oc=5)
 
 ---
 

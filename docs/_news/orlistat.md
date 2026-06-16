@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（8 則）
 
 ### [Herz-Kreislauf-Erkrankungen: 99% der Fälle durch vier Faktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
 
 2026-06-16 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
-
----
-
-### [Tecnalia impulsa una revolucionaria terapia cerebral sin cirugía para tratar ictus y Parkinson](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
-
-2026-06-16 <span class="news-indication-tag">ictus</span>
-
-來源：[EntreMayores](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUxNRDczeWJoOHBZQ1B4cEVURzhHS19YMURDUG5POHVjMzFrUVc0bFhZRlNYQ3RraE5UM2hteUxTVGpadk44bHFvTDVXUVVBMDgwZVZXVjc5X3BRVzh5cU9iM0xyOXd5ZTJ1OGtTX29Md3RHUzdwenFobk03SlF1Y2gyQU9EQ3VjeEtWandNVnlqVlNKZzgzbnhtelBPdC1Vb3B6eXllVmphU2x2Vy1XcUZmNXZZbFFFLUNDVUZJcXdCRmM?oc=5)
 
 ---
 
@@ -80,7 +72,7 @@ permalink: /news/orlistat/
 
 ### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
 
-2026-06-16 <span class="news-indication-tag">obesity</span>
+2026-06-16 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
 來源：[Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
 
@@ -123,30 +115,6 @@ permalink: /news/orlistat/
 2026-06-15 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2EwU2ExS0o4a0NJZ1F1VFJ4UjlNZ1pTSTE1MFBXWjdNVTFldHRlU0pBc19SQ3hnb3NuWFVUQWticndzcU0tbmRfTENmcDJDMTFCdGtzU3VjZ2xpSTBuVC12bEpIVTVROF8wTGdHd2tMWFl0S2UxNFNHV01CWjV0OFhCbm4wdmcxN3hoYlhvNzkxVU42ME1CQUs4anFwM0htQ25CenZUZjI1R2RJcS1DRw?oc=5)
-
----
-
-### [Los agonistas GLP-1 'abren la puerta' y la terapia conductual bien estructurada consolida la pérdida de peso - El médico interactivo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnBwUnAxWVU2ZzhiUXMxekJuaUVCYmlVTC1YWmxGb0NKc1VaRnNJY2FLMGNTZVR5eTNGSXhzWkl5V09FTmRhRkZDcHNkeUVycHVDV3pjVlQyc2VnbGJKYWtxeUlVZWtWMWhUWFhuTDhtX1VqaVRmMmlaSXBhNGk0M3Q3V3BpMHZYc0lxY1pJUjB3aThsdERKdWtUMTdnbTQ4RWNNenBIRmlyNDRNeUZESEtEZmxYS3pLV0d3MlN1Z2JGNG1KZC1MMVZoWWFhWTRIMXBDUXJn?oc=5)
-
-2026-06-15 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnBwUnAxWVU2ZzhiUXMxekJuaUVCYmlVTC1YWmxGb0NKc1VaRnNJY2FLMGNTZVR5eTNGSXhzWkl5V09FTmRhRkZDcHNkeUVycHVDV3pjVlQyc2VnbGJKYWtxeUlVZWtWMWhUWFhuTDhtX1VqaVRmMmlaSXBhNGk0M3Q3V3BpMHZYc0lxY1pJUjB3aThsdERKdWtUMTdnbTQ4RWNNenBIRmlyNDRNeUZESEtEZmxYS3pLV0d3MlN1Z2JGNG1KZC1MMVZoWWFhWTRIMXBDUXJn?oc=5)
-
----
-
-### [Las terapias contra la obesidad muestran beneficios inesperados frente a la artrosis: reducen la inflamación y protegen el cartílago - Diario de Mallorca](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHJKNU9RWnhsa0E5YVJGcWJhMkxoQkZQdWY3LVRNcVZaNjJXWi1XbkpFV29WZ0doQjZrbEhEcVdxakxSZ2pnT0lYQm9OZGVXVVZ0SzRCWktTUE12a3JvTDNZN0lYaDFiUXo5eEFaNUlyM2tTSDlIYWMzYjlKbGczdWxQREZpNWJrS0RBMTdoelFYRmZ4ODdaRHF2NXNjdU0wV2hEQnpQVDlpdmVJRnF6MmFBUdIBuAFBVV95cUxNSktjb3JqYzl2ekdDWUJ0YUY1eUxSSFRlWWxnX1FtdTNsWTRLT3dKalZpeTNrVklZazNVYVlEbklPS2J5THVLVEFsRVQwekFOeVdvZDJNVTI3LWlhLTVCRUoyQnliZ29hTXd4Ui1Kck9sLWJtN2xMSmpZM3NFamtHRGJxdmgwblNHenowNXlRcXNIT1k0MU5oQ0FqSjgtSmwwY0dydW5TVVVSNEcxQzd1MC1uVVVsNU9y?oc=5)
-
-2026-06-15 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario de Mallorca](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHJKNU9RWnhsa0E5YVJGcWJhMkxoQkZQdWY3LVRNcVZaNjJXWi1XbkpFV29WZ0doQjZrbEhEcVdxakxSZ2pnT0lYQm9OZGVXVVZ0SzRCWktTUE12a3JvTDNZN0lYaDFiUXo5eEFaNUlyM2tTSDlIYWMzYjlKbGczdWxQREZpNWJrS0RBMTdoelFYRmZ4ODdaRHF2NXNjdU0wV2hEQnpQVDlpdmVJRnF6MmFBUdIBuAFBVV95cUxNSktjb3JqYzl2ekdDWUJ0YUY1eUxSSFRlWWxnX1FtdTNsWTRLT3dKalZpeTNrVklZazNVYVlEbklPS2J5THVLVEFsRVQwekFOeVdvZDJNVTI3LWlhLTVCRUoyQnliZ29hTXd4Ui1Kck9sLWJtN2xMSmpZM3NFamtHRGJxdmgwblNHenowNXlRcXNIT1k0MU5oQ0FqSjgtSmwwY0dydW5TVVVSNEcxQzd1MC1uVVVsNU9y?oc=5)
-
----
-
-### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">obesidad</span>
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
 
 ---
 

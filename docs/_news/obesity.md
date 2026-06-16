@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。9 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>9 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
 
 ### [S3-Leitlinie empfiehlt GLP-1-Rezeptoragonisten bei pädiatrischer Adipositas - Gelbe Liste](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzlaRF9iUG1YbVJMN25mM2EzRGRTOGNGZ3dRV2hrb210N1c5NFMtRjNranBJVXd6bEVjMENBN1NBT25aMlN5cHEyNnFqUUM0LVpzYzFhWmJ5elVWb0JwU29CeDdlVmt6RW8yemxBa2hmdENtWjFzcklUM2dOb3NEa2FhQWwyYThGNHpjeGVxdWlTc3lFTnJDbFdiZDhYWjF1SXVv?oc=5)
 
@@ -83,30 +83,6 @@ permalink: /news/obesity/
 2026-06-15
 
 來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
-
----
-
-### [Los agonistas GLP-1 'abren la puerta' y la terapia conductual bien estructurada consolida la pérdida de peso - El médico interactivo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnBwUnAxWVU2ZzhiUXMxekJuaUVCYmlVTC1YWmxGb0NKc1VaRnNJY2FLMGNTZVR5eTNGSXhzWkl5V09FTmRhRkZDcHNkeUVycHVDV3pjVlQyc2VnbGJKYWtxeUlVZWtWMWhUWFhuTDhtX1VqaVRmMmlaSXBhNGk0M3Q3V3BpMHZYc0lxY1pJUjB3aThsdERKdWtUMTdnbTQ4RWNNenBIRmlyNDRNeUZESEtEZmxYS3pLV0d3MlN1Z2JGNG1KZC1MMVZoWWFhWTRIMXBDUXJn?oc=5)
-
-2026-06-15
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnBwUnAxWVU2ZzhiUXMxekJuaUVCYmlVTC1YWmxGb0NKc1VaRnNJY2FLMGNTZVR5eTNGSXhzWkl5V09FTmRhRkZDcHNkeUVycHVDV3pjVlQyc2VnbGJKYWtxeUlVZWtWMWhUWFhuTDhtX1VqaVRmMmlaSXBhNGk0M3Q3V3BpMHZYc0lxY1pJUjB3aThsdERKdWtUMTdnbTQ4RWNNenBIRmlyNDRNeUZESEtEZmxYS3pLV0d3MlN1Z2JGNG1KZC1MMVZoWWFhWTRIMXBDUXJn?oc=5)
-
----
-
-### [Las terapias contra la obesidad muestran beneficios inesperados frente a la artrosis: reducen la inflamación y protegen el cartílago - Diario de Mallorca](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHJKNU9RWnhsa0E5YVJGcWJhMkxoQkZQdWY3LVRNcVZaNjJXWi1XbkpFV29WZ0doQjZrbEhEcVdxakxSZ2pnT0lYQm9OZGVXVVZ0SzRCWktTUE12a3JvTDNZN0lYaDFiUXo5eEFaNUlyM2tTSDlIYWMzYjlKbGczdWxQREZpNWJrS0RBMTdoelFYRmZ4ODdaRHF2NXNjdU0wV2hEQnpQVDlpdmVJRnF6MmFBUdIBuAFBVV95cUxNSktjb3JqYzl2ekdDWUJ0YUY1eUxSSFRlWWxnX1FtdTNsWTRLT3dKalZpeTNrVklZazNVYVlEbklPS2J5THVLVEFsRVQwekFOeVdvZDJNVTI3LWlhLTVCRUoyQnliZ29hTXd4Ui1Kck9sLWJtN2xMSmpZM3NFamtHRGJxdmgwblNHenowNXlRcXNIT1k0MU5oQ0FqSjgtSmwwY0dydW5TVVVSNEcxQzd1MC1uVVVsNU9y?oc=5)
-
-2026-06-15
-
-來源：[Diario de Mallorca](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHJKNU9RWnhsa0E5YVJGcWJhMkxoQkZQdWY3LVRNcVZaNjJXWi1XbkpFV29WZ0doQjZrbEhEcVdxakxSZ2pnT0lYQm9OZGVXVVZ0SzRCWktTUE12a3JvTDNZN0lYaDFiUXo5eEFaNUlyM2tTSDlIYWMzYjlKbGczdWxQREZpNWJrS0RBMTdoelFYRmZ4ODdaRHF2NXNjdU0wV2hEQnpQVDlpdmVJRnF6MmFBUdIBuAFBVV95cUxNSktjb3JqYzl2ekdDWUJ0YUY1eUxSSFRlWWxnX1FtdTNsWTRLT3dKalZpeTNrVklZazNVYVlEbklPS2J5THVLVEFsRVQwekFOeVdvZDJNVTI3LWlhLTVCRUoyQnliZ29hTXd4Ui1Kck9sLWJtN2xMSmpZM3NFamtHRGJxdmgwblNHenowNXlRcXNIT1k0MU5oQ0FqSjgtSmwwY0dydW5TVVVSNEcxQzd1MC1uVVVsNU9y?oc=5)
-
----
-
-### [La UAL colabora en estudio global que identifica una brecha en la obesidad - Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
-
-2026-06-14
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa09FQTFJWTJRMTZjNWlJUF95UmoxMVRwTVFCNTRvbzFTMHBOXzJpT3FUdGdUVVp5MG5iRUROMjNHd3l2YTZPVFU3WjFld3kwY0czR2tzaVdGNFhMT0hNSDFmVUJaR2lEM09EWUlJWHJPMkdzX3RFVmdEZ0xiUmhZcFFIQWYwN0doWmlKdUhsVEdzeFNQNVgtNnFWMzQtNUlLV0RnNU1CNFFXZkh0MEVNQTJRV0RsbDdUTnRNS2tiQVVCQnFkczlwRTNDOFhDS09TcU9TX9IB2gFBVV95cUxNMm1kdVR5cnpHZVBWSEM0OXJvSG5HdjJiVFJPNTZocFMyd0libzl4aHNjaEdVbDc2b0lVbjdYSjVKRlh1Qjhpd0x0YWJrSU9wbE93S1JERFREcF9VOEF6Z2NuX0Z2b0xCV0Z3bF9EV01nOTl2cGRGWk1ZZ184bkFpWHQ4eW92QjFnUWFhZkNndDdGV1R0bWdIZzhRck9BMzU5YklIdkh3bVp5WFV2S2hGc0xnTkJQaWJhWGlJejhCREVnVmUwUlVKZGJWSjZjUXdDd1JTcUpMclB1dw?oc=5)
 
 ---
 
