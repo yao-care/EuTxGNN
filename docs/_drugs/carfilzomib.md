@@ -1,132 +1,116 @@
 ---
 layout: default
 title: Carfilzomib
-description: "Carfilzomib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 116
+parent: 僅模型預測 (L5)
+nav_order: 127
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Carfilzomib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Carfilzomib: From Multiple Myeloma to CMM7
+
+## One-Sentence Summary
+
+Carfilzomib is a selective, irreversible proteasome inhibitor approved internationally as a second-line or later treatment for relapsed/refractory multiple myeloma (RRMM).
+The TxGNN model predicts it may be effective for **CMM7** (Cutaneous Malignant Melanoma 7),
+with **0 clinical trials** and **0 publications** currently supporting this specific direction.
+Among the top 10 predicted indications, myeloid leukemia (Phase 1 trial completed) and melanoma (preclinical evidence) carry higher levels of supporting evidence.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Carfilzomib |
-| DrugBank ID | [DB08889](https://go.drugbank.com/drugs/DB08889) |
-| Brand Names (EU) | Kyprolis |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.37% |
+| Item | Content |
+|------|---------|
+| Original Indication | Relapsed/refractory multiple myeloma (globally approved; not registered in Taiwan) |
+| Predicted New Indication | CMM7 (Cutaneous Malignant Melanoma 7) |
+| TxGNN Prediction Score | 99.37% |
+| Evidence Level | L5 (model prediction only, no actual studies) |
+| Taiwan Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Kyprolis in combination with daratumumab and dexamethasone, with lenalidomide and dexamethasone, or with dexamethasone alone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy.
+Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on information consistently referenced across the repurposing rationales provided, Carfilzomib is a **selective, irreversible inhibitor of the chymotrypsin-like (CT-L) catalytic subunit** of the 20S proteasome. Blocking this activity causes misfolded and damaged proteins to accumulate inside the cell, saturating the unfolded protein response (UPR) and triggering endoplasmic reticulum (ER) stress-driven apoptosis. Cancer cells that rely heavily on high-throughput protein synthesis or rapid proliferation — such as immunoglobulin-secreting plasma cells — are particularly dependent on an intact proteasome for survival and therefore especially vulnerable to this class of drug.
 
----
+CMM7 (Cutaneous Malignant Melanoma 7) is a genetically defined melanoma susceptibility locus associated with CDK4 gene amplification or activating mutation, which drives aberrant, unrestrained cell cycle progression. Melanoma cells in general maintain elevated proteasome activity to manage the proteotoxic burden arising from oncogene-driven metabolic demands, rapid proliferation, and stress in the tumor microenvironment. The TxGNN knowledge graph likely identified network-level connectivity between proteasome-dependent degradation of CDK4-related regulatory proteins and Carfilzomib's mechanism, generating this high-scoring prediction (99.37%).
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | CMM7 | 99.37% | DL |
-| 2 | pediatric leptomeningeal melanoma | 99.30% | DL |
-| 3 | epithelioid cell uveal melanoma | 99.23% | DL |
-| 4 | vulvar melanoma (disease) | 99.19% | DL |
-| 5 | melanoma | 99.03% | DL |
-| 6 | indolent plasma cell myeloma | 97.94% | DL |
-| 7 | intellectual disability, autosomal dominant 55, with seizures | 97.82% | DL |
-| 8 | plasma cell myeloma | 97.44% | DL |
-| 9 | myeloid leukemia | 97.01% | DL |
-| 10 | neutrophil immunodeficiency syndrome | 95.11% | DL |
-| 11 | central nervous system melanocytic neoplasm | 93.29% | DL |
-| 12 | ganglioneuroblastoma (disease) | 87.49% | DL |
-| 13 | retroperitoneal neoplasm | 86.04% | DL |
-| 14 | vertebral anomalies and variable endocrine and T-cell dysfunction | 84.95% | DL |
-| 15 | cecum villous adenoma | 83.86% | DL |
-| 16 | cecum neuroendocrine tumor G1 | 83.19% | DL |
-| 17 | lipoma of colon | 83.14% | DL |
-| 18 | cecal disease | 82.92% | DL |
-| 19 | rectosigmoid junction neoplasm | 82.91% | DL |
-| 20 | benign neoplasm of cecum | 82.68% | DL |
-
-*Showing top 20 of 50 predictions.*
+It is important to note, however, that no direct clinical or preclinical evidence exists for Carfilzomib specifically in CMM7. The biological rationale is indirect: at the broader melanoma level (ranked 5th in this assessment), cell line studies confirm that proteasome inhibitors including Carfilzomib can induce apoptosis in B16-F1 melanoma cells, providing some mechanistic plausibility. Nevertheless, CDK4-specific CMM7 biology has not been separately studied in this context, and Carfilzomib's large molecular weight (~720 Da) combined with its P-glycoprotein substrate status significantly limits tissue penetration in solid tumors — a relevant pharmacokinetic barrier for any non-hematologic application.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for Carfilzomib in CMM7.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available for Carfilzomib in CMM7.
 
 ---
 
-## Data Access
+## Cytotoxicity
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
-
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Conventional cytotoxic — Second-generation irreversible proteasome inhibitor (epoxyketone class) |
+| Myelosuppression Risk | High — anemia, thrombocytopenia, and neutropenia are commonly reported in RRMM clinical trials; mandatory haematological monitoring is required throughout treatment |
+| Emetogenicity Classification | Low to moderate |
+| Monitoring Items | CBC with differential, renal function (serum creatinine, eGFR), cardiac function (ECG, left ventricular ejection fraction), blood pressure, pulmonary status (dyspnoea surveillance) |
+| Handling Protection | Must follow cytotoxic drug handling regulations; closed-system transfer devices are recommended during preparation and administration |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+CMM7 is a genetically defined melanoma subtype with no published clinical or preclinical evidence for Carfilzomib. At the current L5 evidence level, this prediction remains a computational hypothesis; no actionable data exists to support progression to drug development activities.
+
+**To proceed, the following is needed:**
+- MOA documentation from DrugBank to formally characterize the mechanistic link between proteasome inhibition and CDK4-amplified melanoma biology
+- Preclinical validation studies in CDK4-mutant or CMM7-relevant melanoma cell line and animal models
+- Taiwan TFDA drug label (仿單) review to establish the complete safety profile and contraindication list
+- Drug-drug interaction (DDI) profile assessment
+- Solid tumor tissue penetration data for Carfilzomib to assess pharmacokinetic feasibility in non-hematologic malignancies
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

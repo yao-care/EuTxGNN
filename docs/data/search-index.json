@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-15",
-  "drug_count": 695,
-  "indication_count": 2451,
+  "generated": "2026-06-16",
+  "drug_count": 710,
+  "indication_count": 2500,
   "drugs": [
     {
       "name": "Abacavir",
@@ -10856,6 +10856,60 @@
       ]
     },
     {
+      "name": "Caffeine",
+      "slug": "caffeine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Nasal Cavity Disease | 99.91% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Thrombotic Disease | 99.90% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Acute Laryngopharyngitis | 99.89% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Papillary Conjunctivitis | 99.79% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Neuralgia | 99.34% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Glossodynia | 99.26% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Coccygodynia | 99.22% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Trigeminal Autonomic Cephalalgia | 99.21% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Vein Disease | 99.06% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
       "name": "Canagliflozin",
       "slug": "canagliflozin",
       "brands": [
@@ -10865,103 +10919,48 @@
       "level": "L5",
       "indications": [
         {
-          "name": "classic stiff person syndrome",
-          "score": 97.92,
+          "name": "Focal Stiff Limb Syndrome | 97.92% | ✗ No mechanistic basis — anti-GAD65 autoimmune pathway unrelated to SGLT2",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "focal stiff limb syndrome",
-          "score": 97.92,
+          "name": "Classic Stiff Person Syndrome | 97.92% | ✗ Identical score to Rank 1; same KG node, same implausibility",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "opsismodysplasia",
-          "score": 97.81,
+          "name": "Opsismodysplasia | 97.81% | ✗ SHIP2/PI3K mutation in bone development; SGLT2 has no effect on SHIP2",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "thiamine-responsive dysfunction syndrome",
-          "score": 97.7,
+          "name": "Thiamine-Responsive Dysfunction Syndrome | 97.70% | ✗ Symptomatic glucose control for one component of a B1-deficiency syndrome; not a true repurposing",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "diabetes mellitus (disease)",
-          "score": 97.56,
+          "name": "Drug-Induced Localized Lipodystrophy | 96.59% | ✗ Mechanical/inflammatory cause; SGLT2i promotes global fat reduction, opposite direction",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "drug-induced localized lipodystrophy",
-          "score": 96.59,
+          "name": "Centrifugal Lipodystrophy | 96.43% | ✗ Complement C3-mediated fat loss; SGLT2 has no complement pathway effect",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "centrifugal lipodystrophy",
-          "score": 96.43,
+          "name": "Pressure-Induced Localized Lipoatrophy | 96.33% | ✗ Mechanical injury mechanism; no SGLT2 role",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "pressure-induced localized lipoatrophy",
-          "score": 96.33,
+          "name": "Idiopathic Localized Lipodystrophy | 96.16% | ✗ Scores 5→8 form a tight band (0.966→0.962), confirming systematic group-level error",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "idiopathic localized lipodystrophy",
-          "score": 96.16,
-          "level": "L5"
-        },
-        {
-          "name": "pancreatic agenesis",
-          "score": 96.04,
-          "level": "L5"
-        },
-        {
-          "name": "autoimmune oophoritis",
-          "score": 82.37,
-          "level": "L5"
-        },
-        {
-          "name": "type 1 diabetes mellitus",
-          "score": 80.96,
-          "level": "L5"
-        },
-        {
-          "name": "homozygous familial hypercholesterolemia",
-          "score": 72.18,
-          "level": "L5"
-        },
-        {
-          "name": "atrial flutter (disease)",
-          "score": 62.85,
-          "level": "L5"
-        },
-        {
-          "name": "cholangiocarcinoma, susceptibility to",
-          "score": 61.95,
-          "level": "L5"
-        },
-        {
-          "name": "hemoglobin C-beta-thalassemia syndrome",
-          "score": 60.8,
-          "level": "L5"
-        },
-        {
-          "name": "congenital temporomandibular joint ankylosis",
-          "score": 59.09,
-          "level": "L5"
-        },
-        {
-          "name": "hypercarotenemia and vitamin A deficiency, autosomal recessive",
-          "score": 58.43,
-          "level": "L5"
-        },
-        {
-          "name": "sudden arrhythmia death syndrome",
-          "score": 58.13,
-          "level": "L5"
-        },
-        {
-          "name": "polydipsia",
-          "score": 57.52,
+          "name": "Autoimmune Oophoritis | 82.37% | ✗ Lowest score in set; organ-specific T-cell autoimmunity unaffected by SGLT2i",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -11417,7 +11416,7 @@
         "Cablivi"
       ],
       "original": "Cablivi is indicated for the treatment of adults experiencing an episode of acquired thrombotic thrombocytopenic purpura (aTTP), in conjunction with plasma exchange and immunosuppression.",
-      "level": "L2",
+      "level": "L5",
       "indications": [
         {
           "name": "primary release disorder of platelets",
@@ -11531,103 +11530,13 @@
       "level": "L5",
       "indications": [
         {
-          "name": "neuralgia",
-          "score": 98.86,
+          "name": "Post-bacterial disorder | L4 | [NCT06807164](https://clinicaltrials.gov/study/NCT06807164) (Phase 2, n=123, Recruiting) | Three-arm RCT directly comparing capsaicin vs. Serratus Plane Block vs. Botox-A for chronic post-mastectomy neuropathic pain; TRPV1 desensitization mechanism is directly applicable",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "otitis externa",
-          "score": 98.76,
-          "level": "L5"
-        },
-        {
-          "name": "post-bacterial disorder",
-          "score": 98.73,
-          "level": "L5"
-        },
-        {
-          "name": "postinfectious vasculitis",
-          "score": 98.71,
-          "level": "L5"
-        },
-        {
-          "name": "infective urethral stricture",
-          "score": 98.7,
-          "level": "L5"
-        },
-        {
-          "name": "post-infectious syndrome",
-          "score": 98.66,
-          "level": "L5"
-        },
-        {
-          "name": "Chagas cardiomyopathy",
-          "score": 98.61,
-          "level": "L5"
-        },
-        {
-          "name": "papillary conjunctivitis",
-          "score": 98.59,
-          "level": "L5"
-        },
-        {
-          "name": "infection-related hemolytic uremic syndrome",
-          "score": 98.52,
-          "level": "L5"
-        },
-        {
-          "name": "tinea corporis",
-          "score": 98.06,
-          "level": "L5"
-        },
-        {
-          "name": "rosacea conjunctivitis",
-          "score": 96.63,
-          "level": "L5"
-        },
-        {
-          "name": "rosacea",
-          "score": 96.53,
-          "level": "L5"
-        },
-        {
-          "name": "atopic conjunctivitis",
-          "score": 96.28,
-          "level": "L5"
-        },
-        {
-          "name": "lichen disease",
-          "score": 95.89,
-          "level": "L5"
-        },
-        {
-          "name": "glossodynia",
-          "score": 95.58,
-          "level": "L5"
-        },
-        {
-          "name": "coccygodynia",
-          "score": 95.48,
-          "level": "L5"
-        },
-        {
-          "name": "blepharoconjunctivitis",
-          "score": 95.22,
-          "level": "L5"
-        },
-        {
-          "name": "rhinitis",
-          "score": 95.0,
-          "level": "L5"
-        },
-        {
-          "name": "cauda equina syndrome",
-          "score": 94.98,
-          "level": "L5"
-        },
-        {
-          "name": "pityriasis simplex",
-          "score": 94.69,
+          "name": "Post-infectious syndrome | L4 | 3 observational trials + 4 mechanism papers | TRPV1 sensitization in post-infectious IBS documented in clinical cohort (PMID 29051514); TRPV1-resolvin interaction supports desensitization strategy (PMID 33023902)",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -11642,103 +11551,48 @@
       "level": "L5",
       "indications": [
         {
-          "name": "hereditary late onset Parkinson disease",
-          "score": 99.27,
+          "name": "Rasmussen subacute encephalitis | 98.43% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "X-linked parkinsonism-spasticity syndrome",
-          "score": 98.83,
+          "name": "PLA2G6-associated neurodegeneration (PLAN) | 97.60% | L4 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "juvenile onset Parkinson disease 19A",
-          "score": 98.51,
+          "name": "Transaldolase deficiency | 97.40% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Rasmussen subacute encephalitis",
-          "score": 98.43,
+          "name": "Myelitis | 97.40% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "PLA2G6-associated neurodegeneration",
-          "score": 97.6,
+          "name": "Fructose-1,6-bisphosphatase deficiency | 97.09% | L5 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "atypical juvenile parkinsonism",
-          "score": 97.45,
+          "name": "Paralysis agitans, juvenile, of Hunt | 95.60% | L5 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "transaldolase deficiency",
-          "score": 97.4,
+          "name": "PSP-corticobasal syndrome | 95.36% | L4 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hemiparkinsonism-hemiatrophy syndrome",
-          "score": 97.4,
+          "name": "X-linked intellectual disability-ataxia-apraxia (MCT8 deficiency) | 94.87% | L4 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "myelitis",
-          "score": 97.4,
-          "level": "L5"
-        },
-        {
-          "name": "fructose-1,6-bisphosphatase deficiency",
-          "score": 97.09,
-          "level": "L5"
-        },
-        {
-          "name": "parkinsonian-pyramidal syndrome",
-          "score": 96.01,
-          "level": "L5"
-        },
-        {
-          "name": "Lewy body dementia",
-          "score": 95.99,
-          "level": "L5"
-        },
-        {
-          "name": "paralysis agitans, juvenile, of Hunt",
-          "score": 95.6,
-          "level": "L5"
-        },
-        {
-          "name": "Parkinson disease",
-          "score": 95.56,
-          "level": "L5"
-        },
-        {
-          "name": "progressive supranuclear palsy-corticobasal syndrome",
-          "score": 95.36,
-          "level": "L5"
-        },
-        {
-          "name": "early-onset parkinsonism-intellectual disability syndrome",
-          "score": 95.17,
-          "level": "L5"
-        },
-        {
-          "name": "X-linked intellectual disability-ataxia-apraxia syndrome",
-          "score": 94.87,
-          "level": "L5"
-        },
-        {
-          "name": "X-linked intellectual disability-cerebellar hypoplasia syndrome",
-          "score": 93.72,
-          "level": "L5"
-        },
-        {
-          "name": "multiple system atrophy, parkinsonian type",
-          "score": 93.46,
-          "level": "L5"
-        },
-        {
-          "name": "CLCN4-related X-linked intellectual disability syndrome",
-          "score": 93.18,
+          "name": "X-linked intellectual disability-cerebellar hypoplasia | 93.72% | L4 | Hold",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -11966,6 +11820,14 @@
       ]
     },
     {
+      "name": "Carglumic Acid",
+      "slug": "carglumic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Cariprazine Hydrochloride",
       "slug": "cariprazine-hydrochloride",
       "brands": [
@@ -12075,6 +11937,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Cariprazine",
+      "slug": "cariprazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Carmustine",
@@ -12299,6 +12169,14 @@
       ]
     },
     {
+      "name": "Caspofungin",
+      "slug": "caspofungin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Catridecacog",
       "slug": "catridecacog",
       "brands": [
@@ -12324,103 +12202,53 @@
       "level": "L5",
       "indications": [
         {
-          "name": "severe nonproliferative diabetic retinopathy",
-          "score": 99.64,
+          "name": "Severe Nonproliferative Diabetic Retinopathy | 99.64% | ❌ None — blood-retinal barrier; no EpCAM relevance | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "drug-induced osteoporosis",
-          "score": 99.58,
+          "name": "Drug-Induced Osteoporosis | 99.58% | ❌ None — OPG/RANKL axis; no EpCAM link | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "diabetic retinopathy",
-          "score": 99.47,
+          "name": "Diabetic Retinopathy | 99.47% | ❌ None — same as Rank 1 | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "diabetic cataract",
-          "score": 98.45,
+          "name": "Diabetic Cataract | 98.45% | ❌ Very Low — non-inflammatory; lens EpCAM not tumor-level | Hold",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "kidney pelvis sarcomatoid transitional cell carcinoma",
-          "score": 98.29,
+          "name": "Kidney Pelvis Sarcomatoid TCC | 98.29% | ⚠️ Low–Moderate — EMT may reduce EpCAM expression | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "prostatic urethra urothelial carcinoma",
-          "score": 98.27,
+          "name": "Prostatic Urethra Urothelial Carcinoma | 98.27% | ⚠️ Moderate — EpCAM-positive epithelial; rare anatomical site | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "infiltrating bladder urothelial carcinoma sarcomatoid variant",
-          "score": 98.25,
+          "name": "Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant | 98.25% | ⚠️ Moderate — MIBC EpCAM 50–80%; EMT concern in sarcomatoid | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "renal pelvis papillary urothelial carcinoma",
-          "score": 98.18,
+          "name": "Renal Pelvis Papillary Urothelial Carcinoma | 98.18% | ✅ Moderate–High — preserves epithelial phenotype; EpCAM relatively high | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "transitional cell carcinoma",
-          "score": 98.07,
+          "name": "Transitional Cell Carcinoma (general) | 98.07% | ✅ High — broad EpCAM-positive class; peritoneal cases can parallel original indication | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "HER2 positive breast carcinoma",
-          "score": 97.47,
-          "level": "L5"
-        },
-        {
-          "name": "cortical cataract",
-          "score": 97.22,
-          "level": "L5"
-        },
-        {
-          "name": "nuclear senile cataract",
-          "score": 97.22,
-          "level": "L5"
-        },
-        {
-          "name": "senile cataract",
-          "score": 97.19,
-          "level": "L5"
-        },
-        {
-          "name": "immature cataract",
-          "score": 96.9,
-          "level": "L5"
-        },
-        {
-          "name": "diabetes mellitus type 2 associated cataract",
-          "score": 96.9,
-          "level": "L5"
-        },
-        {
-          "name": "mature cataract",
-          "score": 96.9,
-          "level": "L5"
-        },
-        {
-          "name": "tetanic cataract",
-          "score": 96.9,
-          "level": "L5"
-        },
-        {
-          "name": "craniostenosis cataract",
-          "score": 96.9,
-          "level": "L5"
-        },
-        {
-          "name": "psoriasis",
-          "score": 96.5,
-          "level": "L5"
-        },
-        {
-          "name": "normal breast-like subtype of breast carcinoma",
-          "score": 96.45,
+          "name": "HER2-Positive Breast Carcinoma | 97.47% | ✅ Highest — EpCAM co-expression >80%; historical preclinical interest; synergy with trastuzumab possible | Research Question",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -12535,6 +12363,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Ceftaroline Fosamil",
+      "slug": "ceftaroline_fosamil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Ceftolozane",
@@ -12654,7 +12490,7 @@
         "Libtayo"
       ],
       "original": "Cutaneous Squamous Cell Carcinoma  Libtayo as monotherapy is indicated for the treatment of adult patients with metastatic or locally advanced cutaneous squamous cell carcinoma (mCSCC or laCSCC) who a...",
-      "level": "L2",
+      "level": "L5",
       "indications": [
         {
           "name": "gallbladder adenosquamous carcinoma",
@@ -13092,6 +12928,65 @@
       ]
     },
     {
+      "name": "Cerliponase Alfa",
+      "slug": "cerliponase_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Scheie syndrome | 99.98% | L5 | Hold | MPS I-S: IDUA deficiency — unrelated enzyme; laronidase already approved",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Hurler syndrome | 99.97% | L5 | Hold | MPS I-H: IDUA deficiency (severe form) — same mismatch; laronidase approved",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Lysosomal storage disease w/ skeletal involvement | 99.95% | L5 | Hold | Broad LSD category (GAG accumulation); TPP1 has no role in skeletal LSD subtypes",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Cholesteryl ester storage disease | 99.93% | L5 | Hold | LAL/LIPA deficiency (lipase); sebelipase alfa already approved",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Gaucher disease | 99.93% | L5 | Hold | GBA/GCase deficiency; retrieved publication is natural-history study, not a cerliponase trial",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Familial encephalopathy w/ neuroserpin inclusion bodies | 99.93% | L5 | Hold | ER conformational disease (SERPINI1 misfolding) — not lysosomal; cerliponase alfa cannot clear ER aggregates",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Wolman disease w/ hypolipoproteinemia & acanthocytosis | 99.92% | L5 | Hold | Complete LAL deficiency; same enzyme family mismatch as CESD",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Myoclonic epilepsy, juvenile, susceptibility to | 99.92% | L5 | Hold | Polygenic GABA/ion channel epilepsy; no lysosomal enzyme deficiency; no mechanistic entry point for TPP1",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Proximal myopathy w/ extrapyramidal signs | 99.92% | L5 | Hold | Muscle/extrapyramidal syndrome; ICV route cannot deliver enzyme to skeletal muscle",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Autosomal ichthyosis syndrome w/ fatal disease course | 99.90% | L5 | Hold | Skin barrier defect (ABCA12/SNAP29); no lysosomal link; ICV route anatomically unfeasible for skin disease",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
       "name": "Certolizumab Pegol",
       "slug": "certolizumab-pegol",
       "brands": [
@@ -13203,6 +13098,14 @@
       ]
     },
     {
+      "name": "Certolizumab Pegol",
+      "slug": "certolizumab_pegol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Cetrorelix (As Acetate)",
       "slug": "cetrorelix-as-acetate",
       "brands": [
@@ -13312,6 +13215,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Cetrorelix",
+      "slug": "cetrorelix",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Cetuximab",
@@ -13536,6 +13447,14 @@
       ]
     },
     {
+      "name": "Chenodeoxycholic Acid",
+      "slug": "chenodeoxycholic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Cholic Acid",
       "slug": "cholic-acid",
       "brands": [
@@ -13647,6 +13566,14 @@
       ]
     },
     {
+      "name": "Cholic Acid",
+      "slug": "cholic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Choriogonadotropin Alfa",
       "slug": "choriogonadotropin-alfa",
       "brands": [
@@ -13756,6 +13683,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Choriogonadotropin Alfa",
+      "slug": "choriogonadotropin_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Cilastatin",
@@ -13978,6 +13913,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Cinacalcet",
+      "slug": "cinacalcet",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Cladribine",
@@ -14668,6 +14611,14 @@
       ]
     },
     {
+      "name": "Colesevelam",
+      "slug": "colesevelam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Colistimethate Sodium",
       "slug": "colistimethate-sodium",
       "brands": [
@@ -14777,6 +14728,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Colistimethate",
+      "slug": "colistimethate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Concizumab",
@@ -14999,6 +14958,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Corifollitropin Alfa",
+      "slug": "corifollitropin_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Crizotinib",
@@ -71107,6 +71074,17 @@
       ]
     },
     {
+      "name": "Acute Laryngopharyngitis | 99.89% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Addison disease",
       "drug_count": 2,
       "drugs": [
@@ -71312,6 +71290,28 @@
           "drug": "Tecovirimat",
           "slug": "tecovirimat",
           "score": 99.62
+        }
+      ]
+    },
+    {
+      "name": "Autoimmune Oophoritis | 82.37% | ✗ Lowest score in set; organ-specific T-cell autoimmunity unaffected by SGLT2i",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Autosomal ichthyosis syndrome w/ fatal disease course | 99.90% | L5 | Hold | Skin barrier defect (ABCA12/SNAP29); no lysosomal link; ICV route anatomically unfeasible for skin disease",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
         }
       ]
     },
@@ -71722,17 +71722,12 @@
     },
     {
       "name": "CLCN4-related X-linked intellectual disability syndrome",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
         {
           "drug": "Tolcapone",
           "slug": "tolcapone",
           "score": 99.47
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 93.18
         },
         {
           "drug": "Opicapone",
@@ -71837,8 +71832,19 @@
       ]
     },
     {
+      "name": "Centrifugal Lipodystrophy | 96.43% | ✗ Complement C3-mediated fat loss; SGLT2 has no complement pathway effect",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Chagas cardiomyopathy",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Tobramycin",
@@ -71859,11 +71865,6 @@
           "drug": "Dupilumab",
           "slug": "dupilumab",
           "score": 98.69
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.61
         },
         {
           "drug": "Oritavancin (Diphosphate)",
@@ -71960,6 +71961,28 @@
       ]
     },
     {
+      "name": "Cholesteryl ester storage disease | 99.93% | L5 | Hold | LAL/LIPA deficiency (lipase); sebelipase alfa already approved",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Classic Stiff Person Syndrome | 97.92% | ✗ Identical score to Rank 1; same KG node, same implausibility",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Clostridium infectious disease",
       "drug_count": 5,
       "drugs": [
@@ -71987,6 +72010,17 @@
           "drug": "Micafungin",
           "slug": "micafungin",
           "score": 88.78
+        }
+      ]
+    },
+    {
+      "name": "Coccygodynia | 99.22% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
+          "score": 99.0
         }
       ]
     },
@@ -72202,6 +72236,28 @@
       ]
     },
     {
+      "name": "Diabetic Cataract | 98.45% | ❌ Very Low — non-inflammatory; lens EpCAM not tumor-level | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Diabetic Retinopathy | 99.47% | ❌ None — same as Rank 1 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Dorfman-Chanarin disease",
       "drug_count": 1,
       "drugs": [
@@ -72209,6 +72265,28 @@
           "drug": "Miglustat",
           "slug": "miglustat",
           "score": 99.6
+        }
+      ]
+    },
+    {
+      "name": "Drug-Induced Localized Lipodystrophy | 96.59% | ✗ Mechanical/inflammatory cause; SGLT2i promotes global fat reduction, opposite direction",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Drug-Induced Osteoporosis | 99.58% | ❌ None — OPG/RANKL axis; no EpCAM link | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
         }
       ]
     },
@@ -72489,12 +72567,45 @@
       ]
     },
     {
+      "name": "Familial encephalopathy w/ neuroserpin inclusion bodies | 99.93% | L5 | Hold | ER conformational disease (SERPINI1 misfolding) — not lysosomal; cerliponase alfa cannot clear ER aggregates",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Familial flecked retinopathy | 97.90% | Low — genetic/degenerative photoreceptor disease (e.g., ABCA4 mutations), not neovascular | ✓",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Brolucizumab",
           "slug": "brolucizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Focal Stiff Limb Syndrome | 97.92% | ✗ No mechanistic basis — anti-GAD65 autoimmune pathway unrelated to SGLT2",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Fructose-1,6-bisphosphatase deficiency | 97.09% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carbidopa",
+          "slug": "carbidopa",
           "score": 99.0
         }
       ]
@@ -72621,6 +72732,17 @@
       ]
     },
     {
+      "name": "Gaucher disease | 99.93% | L5 | Hold | GBA/GCase deficiency; retrieved publication is natural-history study, not a cerliponase trial",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Glanzmann thrombasthenia",
       "drug_count": 46,
       "drugs": [
@@ -72699,6 +72821,17 @@
       ]
     },
     {
+      "name": "Glossodynia | 99.26% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Graves disease",
       "drug_count": 3,
       "drugs": [
@@ -72743,7 +72876,7 @@
     },
     {
       "name": "HER2 positive breast carcinoma",
-      "drug_count": 38,
+      "drug_count": 37,
       "drugs": [
         {
           "drug": "Pertuzumab",
@@ -72794,6 +72927,17 @@
           "drug": "Maraviroc",
           "slug": "maraviroc",
           "score": 99.22
+        }
+      ]
+    },
+    {
+      "name": "HER2-Positive Breast Carcinoma | 97.47% | ✅ Highest — EpCAM co-expression >80%; historical preclinical interest; synergy with trastuzumab possible | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
         }
       ]
     },
@@ -73124,6 +73268,17 @@
       ]
     },
     {
+      "name": "Hurler syndrome | 99.97% | L5 | Hold | MPS I-H: IDUA deficiency (severe form) — same mismatch; laronidase approved",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Hurler-Scheie syndrome",
       "drug_count": 2,
       "drugs": [
@@ -73226,6 +73381,17 @@
           "drug": "Ferric Maltol",
           "slug": "ferric-maltol",
           "score": 99.33
+        }
+      ]
+    },
+    {
+      "name": "Idiopathic Localized Lipodystrophy | 96.16% | ✗ Scores 5→8 form a tight band (0.966→0.962), confirming systematic group-level error",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
         }
       ]
     },
@@ -73382,6 +73548,17 @@
         {
           "drug": "Atezolizumab",
           "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant | 98.25% | ⚠️ Moderate — MIBC EpCAM 50–80%; EMT concern in sarcomatoid | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
           "score": 99.0
         }
       ]
@@ -73594,6 +73771,17 @@
           "drug": "Ferric Maltol",
           "slug": "ferric-maltol",
           "score": 97.22
+        }
+      ]
+    },
+    {
+      "name": "Kidney Pelvis Sarcomatoid TCC | 98.29% | ⚠️ Low–Moderate — EMT may reduce EpCAM expression | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
         }
       ]
     },
@@ -74043,7 +74231,7 @@
     },
     {
       "name": "Lewy body dementia",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -74064,11 +74252,6 @@
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 97.25
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 95.99
         },
         {
           "drug": "Opicapone",
@@ -74106,6 +74289,17 @@
           "drug": "Ertapenem Sodium",
           "slug": "ertapenem-sodium",
           "score": 98.12
+        }
+      ]
+    },
+    {
+      "name": "Lysosomal storage disease w/ skeletal involvement | 99.95% | L5 | Hold | Broad LSD category (GAG accumulation); TPP1 has no role in skeletal LSD subtypes",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
         }
       ]
     },
@@ -74531,6 +74725,28 @@
       ]
     },
     {
+      "name": "Myelitis | 97.40% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Myoclonic epilepsy, juvenile, susceptibility to | 99.92% | L5 | Hold | Polygenic GABA/ion channel epilepsy; no lysosomal enzyme deficiency; no mechanistic entry point for TPP1",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "NK-cell enteropathy",
       "drug_count": 1,
       "drugs": [
@@ -74538,6 +74754,28 @@
           "drug": "Teduglutide",
           "slug": "teduglutide",
           "score": 86.49
+        }
+      ]
+    },
+    {
+      "name": "Nasal Cavity Disease | 99.91% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Neuralgia | 99.34% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
+          "score": 99.0
         }
       ]
     },
@@ -74689,6 +74927,17 @@
       ]
     },
     {
+      "name": "Opsismodysplasia | 97.81% | ✗ SHIP2/PI3K mutation in bone development; SGLT2 has no effect on SHIP2",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "PAGOD syndrome",
       "drug_count": 1,
       "drugs": [
@@ -74756,7 +75005,7 @@
     },
     {
       "name": "PLA2G6-associated neurodegeneration",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Rotigotine",
@@ -74787,11 +75036,17 @@
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 97.61
-        },
+        }
+      ]
+    },
+    {
+      "name": "PLA2G6-associated neurodegeneration (PLAN) | 97.60% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
         {
           "drug": "Carbidopa",
           "slug": "carbidopa",
-          "score": 97.6
+          "score": 99.0
         }
       ]
     },
@@ -74808,6 +75063,17 @@
           "drug": "Nusinersen Sodium",
           "slug": "nusinersen-sodium",
           "score": 50.0
+        }
+      ]
+    },
+    {
+      "name": "PSP-corticobasal syndrome | 95.36% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 99.0
         }
       ]
     },
@@ -74871,8 +75137,30 @@
       ]
     },
     {
+      "name": "Papillary Conjunctivitis | 99.79% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Paralysis agitans, juvenile, of Hunt | 95.60% | L5 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Parkinson disease",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Entacapone",
@@ -74898,11 +75186,6 @@
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 96.96
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 95.56
         },
         {
           "drug": "Botulinum Toxin Type A",
@@ -75154,6 +75437,39 @@
       ]
     },
     {
+      "name": "Post-bacterial disorder | L4 | [NCT06807164](https://clinicaltrials.gov/study/NCT06807164) (Phase 2, n=123, Recruiting) | Three-arm RCT directly comparing capsaicin vs. Serratus Plane Block vs. Botox-A for chronic post-mastectomy neuropathic pain; TRPV1 desensitization mechanism is directly applicable",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Capsaicin",
+          "slug": "capsaicin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Post-infectious syndrome | L4 | 3 observational trials + 4 mechanism papers | TRPV1 sensitization in post-infectious IBS documented in clinical cohort (PMID 29051514); TRPV1-resolvin interaction supports desensitization strategy (PMID 33023902)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Capsaicin",
+          "slug": "capsaicin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Pressure-Induced Localized Lipoatrophy | 96.33% | ✗ Mechanical injury mechanism; no SGLT2 role",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Primary Hereditary Glaucoma | 88.95% | Hold | Same opposing mechanism; genetic pathology lacks LAMA target",
       "drug_count": 1,
       "drugs": [
@@ -75232,6 +75548,17 @@
       ]
     },
     {
+      "name": "Prostatic Urethra Urothelial Carcinoma | 98.27% | ⚠️ Moderate — EpCAM-positive epithelial; rare anatomical site | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Prostatic Urethra Urothelial Carcinoma | 99.98% | L2 | Proceed with Guardrails",
       "drug_count": 1,
       "drugs": [
@@ -75250,6 +75577,17 @@
           "drug": "Tecovirimat",
           "slug": "tecovirimat",
           "score": 99.62
+        }
+      ]
+    },
+    {
+      "name": "Proximal myopathy w/ extrapyramidal signs | 99.92% | L5 | Hold | Muscle/extrapyramidal syndrome; ICV route cannot deliver enzyme to skeletal muscle",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
         }
       ]
     },
@@ -75368,7 +75706,7 @@
     },
     {
       "name": "Rasmussen subacute encephalitis",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -75394,11 +75732,17 @@
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 98.64
-        },
+        }
+      ]
+    },
+    {
+      "name": "Rasmussen subacute encephalitis | 98.43% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
         {
           "drug": "Carbidopa",
           "slug": "carbidopa",
-          "score": 98.43
+          "score": 99.0
         }
       ]
     },
@@ -75455,6 +75799,17 @@
           "drug": "Abaloparatide",
           "slug": "abaloparatide",
           "score": 96.37
+        }
+      ]
+    },
+    {
+      "name": "Renal Pelvis Papillary Urothelial Carcinoma | 98.18% | ✅ Moderate–High — preserves epithelial phenotype; EpCAM relatively high | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
         }
       ]
     },
@@ -75721,6 +76076,17 @@
       ]
     },
     {
+      "name": "Scheie syndrome | 99.98% | L5 | Hold | MPS I-S: IDUA deficiency — unrelated enzyme; laronidase already approved",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Schistosoma mansoni infection, susceptibility",
       "drug_count": 2,
       "drugs": [
@@ -75816,6 +76182,17 @@
           "drug": "Pasireotide",
           "slug": "pasireotide",
           "score": 77.21
+        }
+      ]
+    },
+    {
+      "name": "Severe Nonproliferative Diabetic Retinopathy | 99.64% | ❌ None — blood-retinal barrier; no EpCAM relevance | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
         }
       ]
     },
@@ -76138,6 +76515,28 @@
       ]
     },
     {
+      "name": "Thiamine-Responsive Dysfunction Syndrome | 97.70% | ✗ Symptomatic glucose control for one component of a B1-deficiency syndrome; not a true repurposing",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canagliflozin",
+          "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Thrombotic Disease | 99.90% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Tourette syndrome",
       "drug_count": 12,
       "drugs": [
@@ -76194,6 +76593,28 @@
       ]
     },
     {
+      "name": "Transaldolase deficiency | 97.40% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Transitional Cell Carcinoma (general) | 98.07% | ✅ High — broad EpCAM-positive class; peritoneal cases can parallel original indication | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Catumaxomab",
+          "slug": "catumaxomab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Trichinellosis",
       "drug_count": 1,
       "drugs": [
@@ -76211,6 +76632,17 @@
         {
           "drug": "Aclidinium",
           "slug": "aclidinium",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Trigeminal Autonomic Cephalalgia | 99.21% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
           "score": 99.0
         }
       ]
@@ -76312,6 +76744,17 @@
         {
           "drug": "Atezolizumab",
           "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Vein Disease | 99.06% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Caffeine",
+          "slug": "caffeine",
           "score": 99.0
         }
       ]
@@ -76533,6 +76976,17 @@
       ]
     },
     {
+      "name": "Wolman disease w/ hypolipoproteinemia & acanthocytosis | 99.92% | L5 | Hold | Complete LAL deficiency; same enzyme family mismatch as CESD",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cerliponase Alfa",
+          "slug": "cerliponase_alfa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Wolman disease with hypolipoproteinemia and acanthocytosis",
       "drug_count": 6,
       "drugs": [
@@ -76685,8 +77139,19 @@
       ]
     },
     {
+      "name": "X-linked intellectual disability-ataxia-apraxia (MCT8 deficiency) | 94.87% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "X-linked intellectual disability-ataxia-apraxia syndrome",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -76704,11 +77169,6 @@
           "score": 96.46
         },
         {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 94.87
-        },
-        {
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 94.35
@@ -76717,7 +77177,7 @@
     },
     {
       "name": "X-linked intellectual disability-cerebellar hypoplasia syndrome",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -76725,14 +77185,20 @@
           "score": 99.54
         },
         {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 93.72
-        },
-        {
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 93.27
+        }
+      ]
+    },
+    {
+      "name": "X-linked intellectual disability-cerebellar hypoplasia | 93.72% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carbidopa",
+          "slug": "carbidopa",
+          "score": 99.0
         }
       ]
     },
@@ -76786,7 +77252,7 @@
     },
     {
       "name": "X-linked parkinsonism-spasticity syndrome",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -76807,11 +77273,6 @@
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 99.17
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 98.83
         },
         {
           "drug": "Opicapone",
@@ -81119,7 +81580,7 @@
     },
     {
       "name": "atopic conjunctivitis",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Lidocaine",
@@ -81145,11 +81606,6 @@
           "drug": "Prilocaine",
           "slug": "prilocaine",
           "score": 98.8
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 96.28
         },
         {
           "drug": "Phenylephrine",
@@ -81243,7 +81699,7 @@
     },
     {
       "name": "atrial flutter (disease)",
-      "drug_count": 17,
+      "drug_count": 16,
       "drugs": [
         {
           "drug": "Insulin Glulisine",
@@ -81577,7 +82033,7 @@
     },
     {
       "name": "atypical juvenile parkinsonism",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -81608,11 +82064,6 @@
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 98.57
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 97.45
         }
       ]
     },
@@ -81754,7 +82205,7 @@
     },
     {
       "name": "autoimmune oophoritis",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Insulin Aspart",
@@ -83889,7 +84340,7 @@
     },
     {
       "name": "blepharoconjunctivitis",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Lidocaine",
@@ -83915,11 +84366,6 @@
           "drug": "Tocofersolan",
           "slug": "tocofersolan",
           "score": 96.36
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 95.22
         }
       ]
     },
@@ -85736,7 +86182,7 @@
     },
     {
       "name": "cauda equina syndrome",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Linaclotide",
@@ -85784,9 +86230,9 @@
           "score": 98.51
         },
         {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 94.98
+          "drug": "Fluciclovine (18F)",
+          "slug": "fluciclovine-18f",
+          "score": 93.65
         }
       ]
     },
@@ -86112,7 +86558,7 @@
     },
     {
       "name": "centrifugal lipodystrophy",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -86791,7 +87237,7 @@
     },
     {
       "name": "cholangiocarcinoma, susceptibility to",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -87962,7 +88408,7 @@
     },
     {
       "name": "classic stiff person syndrome",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -88139,7 +88585,7 @@
     },
     {
       "name": "coccygodynia",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Caffeine Citrate",
@@ -88150,11 +88596,6 @@
           "drug": "Regadenoson",
           "slug": "regadenoson",
           "score": 95.82
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 95.48
         },
         {
           "drug": "Ketorolac",
@@ -89744,7 +90185,7 @@
     },
     {
       "name": "congenital temporomandibular joint ankylosis",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Linagliptin",
@@ -89782,11 +90223,6 @@
           "score": 59.12
         },
         {
-          "drug": "Canagliflozin",
-          "slug": "canagliflozin",
-          "score": 59.09
-        },
-        {
           "drug": "Alogliptin",
           "slug": "alogliptin",
           "score": 58.9
@@ -89795,6 +90231,11 @@
           "drug": "Repaglinide",
           "slug": "repaglinide",
           "score": 58.61
+        },
+        {
+          "drug": "Ixazomib Citrate",
+          "slug": "ixazomib-citrate",
+          "score": 58.45
         }
       ]
     },
@@ -90271,7 +90712,7 @@
     },
     {
       "name": "cortical cataract",
-      "drug_count": 30,
+      "drug_count": 29,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -90412,7 +90853,7 @@
     },
     {
       "name": "craniostenosis cataract",
-      "drug_count": 28,
+      "drug_count": 27,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -91396,7 +91837,7 @@
     },
     {
       "name": "diabetes mellitus (disease)",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -91452,7 +91893,7 @@
     },
     {
       "name": "diabetes mellitus type 2 associated cataract",
-      "drug_count": 28,
+      "drug_count": 27,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -91564,7 +92005,7 @@
     },
     {
       "name": "diabetic cataract",
-      "drug_count": 35,
+      "drug_count": 34,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -91733,7 +92174,7 @@
     },
     {
       "name": "diabetic retinopathy",
-      "drug_count": 44,
+      "drug_count": 43,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -92458,7 +92899,7 @@
     },
     {
       "name": "drug-induced localized lipodystrophy",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -92514,7 +92955,7 @@
     },
     {
       "name": "drug-induced osteoporosis",
-      "drug_count": 32,
+      "drug_count": 31,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -92535,11 +92976,6 @@
           "drug": "Sotatercept",
           "slug": "sotatercept",
           "score": 99.65
-        },
-        {
-          "drug": "Catumaxomab",
-          "slug": "catumaxomab",
-          "score": 99.58
         },
         {
           "drug": "Denosumab",
@@ -92565,6 +93001,11 @@
           "drug": "Bempedoic Acid",
           "slug": "bempedoic-acid",
           "score": 99.21
+        },
+        {
+          "drug": "Tildrakizumab",
+          "slug": "tildrakizumab",
+          "score": 99.2
         }
       ]
     },
@@ -93083,7 +93524,7 @@
     },
     {
       "name": "early-onset parkinsonism-intellectual disability syndrome",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -93104,11 +93545,6 @@
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 97.11
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 95.17
         },
         {
           "drug": "Opicapone",
@@ -96921,7 +97357,7 @@
     },
     {
       "name": "focal stiff limb syndrome",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -97211,7 +97647,7 @@
     },
     {
       "name": "fructose-1,6-bisphosphatase deficiency",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -97232,11 +97668,6 @@
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 97.81
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 97.09
         },
         {
           "drug": "Opicapone",
@@ -98306,7 +98737,7 @@
     },
     {
       "name": "glossodynia",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Caffeine Citrate",
@@ -98317,11 +98748,6 @@
           "drug": "Regadenoson",
           "slug": "regadenoson",
           "score": 95.87
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 95.58
         },
         {
           "drug": "Ketorolac",
@@ -99308,7 +99734,7 @@
     },
     {
       "name": "hemiparkinsonism-hemiatrophy syndrome",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -99331,11 +99757,6 @@
           "score": 98.28
         },
         {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 97.4
-        },
-        {
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 95.99
@@ -99344,7 +99765,7 @@
     },
     {
       "name": "hemoglobin C-beta-thalassemia syndrome",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -100638,7 +101059,7 @@
     },
     {
       "name": "hereditary late onset Parkinson disease",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -100664,11 +101085,6 @@
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 99.55
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 99.27
         },
         {
           "drug": "Opicapone",
@@ -100973,7 +101389,7 @@
     },
     {
       "name": "homozygous familial hypercholesterolemia",
-      "drug_count": 53,
+      "drug_count": 52,
       "drugs": [
         {
           "drug": "Simvastatin",
@@ -101474,7 +101890,7 @@
     },
     {
       "name": "hypercarotenemia and vitamin A deficiency, autosomal recessive",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Orlistat",
@@ -102818,7 +103234,7 @@
     },
     {
       "name": "idiopathic localized lipodystrophy",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -102965,7 +103381,7 @@
     },
     {
       "name": "immature cataract",
-      "drug_count": 29,
+      "drug_count": 28,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -103497,7 +103913,7 @@
     },
     {
       "name": "infection-related hemolytic uremic syndrome",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tobramycin",
@@ -103518,11 +103934,6 @@
           "drug": "Dupilumab",
           "slug": "dupilumab",
           "score": 98.71
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.52
         },
         {
           "drug": "Oritavancin (Diphosphate)",
@@ -103674,7 +104085,7 @@
     },
     {
       "name": "infective urethral stricture",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Tobramycin",
@@ -103695,11 +104106,6 @@
           "drug": "Dupilumab",
           "slug": "dupilumab",
           "score": 98.74
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.7
         },
         {
           "drug": "Oritavancin (Diphosphate)",
@@ -103731,7 +104137,7 @@
     },
     {
       "name": "infiltrating bladder urothelial carcinoma sarcomatoid variant",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Durvalumab",
@@ -103764,11 +104170,6 @@
           "score": 99.01
         },
         {
-          "drug": "Catumaxomab",
-          "slug": "catumaxomab",
-          "score": 98.25
-        },
-        {
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 95.43
@@ -103782,6 +104183,11 @@
           "drug": "Alemtuzumab",
           "slug": "alemtuzumab",
           "score": 92.93
+        },
+        {
+          "drug": "Inotuzumab Ozogamicin",
+          "slug": "inotuzumab-ozogamicin",
+          "score": 89.35
         }
       ]
     },
@@ -105264,7 +105670,7 @@
     },
     {
       "name": "juvenile onset Parkinson disease 19A",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -105295,11 +105701,6 @@
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 99.63
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 98.51
         }
       ]
     },
@@ -105429,7 +105830,7 @@
     },
     {
       "name": "kidney pelvis sarcomatoid transitional cell carcinoma",
-      "drug_count": 13,
+      "drug_count": 12,
       "drugs": [
         {
           "drug": "Durvalumab",
@@ -105467,11 +105868,6 @@
           "score": 98.85
         },
         {
-          "drug": "Catumaxomab",
-          "slug": "catumaxomab",
-          "score": 98.29
-        },
-        {
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 95.63
@@ -105480,6 +105876,11 @@
           "drug": "Trastuzumab Emtansine",
           "slug": "trastuzumab-emtansine",
           "score": 95.37
+        },
+        {
+          "drug": "Polatuzumab Vedotin",
+          "slug": "polatuzumab-vedotin",
+          "score": 93.79
         }
       ]
     },
@@ -106053,17 +106454,12 @@
     },
     {
       "name": "lichen disease",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Fluticasone Propionate",
           "slug": "fluticasone-propionate",
           "score": 95.95
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 95.89
         },
         {
           "drug": "Brimonidine Tartrate",
@@ -108699,7 +109095,7 @@
     },
     {
       "name": "mature cataract",
-      "drug_count": 28,
+      "drug_count": 27,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -110735,17 +111131,12 @@
     },
     {
       "name": "multiple system atrophy, parkinsonian type",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 97.02
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 93.46
         }
       ]
     },
@@ -110867,7 +111258,7 @@
     },
     {
       "name": "myelitis",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -110893,11 +111284,6 @@
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 98.15
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 97.4
         }
       ]
     },
@@ -112317,7 +112703,7 @@
     },
     {
       "name": "neuralgia",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Caffeine Citrate",
@@ -112328,11 +112714,6 @@
           "drug": "Prilocaine",
           "slug": "prilocaine",
           "score": 99.34
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.86
         },
         {
           "drug": "Regadenoson",
@@ -113286,7 +113667,7 @@
     },
     {
       "name": "normal breast-like subtype of breast carcinoma",
-      "drug_count": 27,
+      "drug_count": 26,
       "drugs": [
         {
           "drug": "Pertuzumab",
@@ -113342,7 +113723,7 @@
     },
     {
       "name": "nuclear senile cataract",
-      "drug_count": 30,
+      "drug_count": 29,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -114265,7 +114646,7 @@
     },
     {
       "name": "opsismodysplasia",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -114850,7 +115231,7 @@
     },
     {
       "name": "otitis externa",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tobramycin",
@@ -114866,11 +115247,6 @@
           "drug": "Levofloxacin",
           "slug": "levofloxacin",
           "score": 99.68
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.76
         },
         {
           "drug": "Dupilumab",
@@ -115620,7 +115996,7 @@
     },
     {
       "name": "pancreatic agenesis",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -115776,7 +116152,7 @@
     },
     {
       "name": "papillary conjunctivitis",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Lidocaine",
@@ -115824,9 +116200,9 @@
           "score": 99.33
         },
         {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.59
+          "drug": "Teduglutide",
+          "slug": "teduglutide",
+          "score": 98.53
         }
       ]
     },
@@ -115843,7 +116219,7 @@
     },
     {
       "name": "paralysis agitans, juvenile, of Hunt",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Entacapone",
@@ -115869,11 +116245,6 @@
           "drug": "Opicapone",
           "slug": "opicapone",
           "score": 97.3
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 95.6
         },
         {
           "drug": "Botulinum Toxin Type A",
@@ -116203,7 +116574,7 @@
     },
     {
       "name": "parkinsonian-pyramidal syndrome",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -116224,11 +116595,6 @@
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 98.13
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 96.01
         },
         {
           "drug": "Opicapone",
@@ -117552,17 +117918,12 @@
     },
     {
       "name": "pityriasis simplex",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Dupilumab",
           "slug": "dupilumab",
           "score": 98.24
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 94.69
         },
         {
           "drug": "Pegfilgrastim",
@@ -118283,7 +118644,7 @@
     },
     {
       "name": "polydipsia",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Leflunomide",
@@ -118309,11 +118670,6 @@
           "drug": "Ixazomib Citrate",
           "slug": "ixazomib-citrate",
           "score": 58.0
-        },
-        {
-          "drug": "Canagliflozin",
-          "slug": "canagliflozin",
-          "score": 57.52
         },
         {
           "drug": "Sarilumab",
@@ -118782,7 +119138,7 @@
     },
     {
       "name": "post-bacterial disorder",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Tobramycin",
@@ -118805,11 +119161,6 @@
           "score": 98.75
         },
         {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.73
-        },
-        {
           "drug": "Oritavancin (Diphosphate)",
           "slug": "oritavancin-diphosphate",
           "score": 98.37
@@ -118828,7 +119179,7 @@
     },
     {
       "name": "post-infectious syndrome",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tobramycin",
@@ -118849,11 +119200,6 @@
           "drug": "Dupilumab",
           "slug": "dupilumab",
           "score": 98.73
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.66
         },
         {
           "drug": "Oritavancin (Diphosphate)",
@@ -118949,7 +119295,7 @@
     },
     {
       "name": "postinfectious vasculitis",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Tobramycin",
@@ -118970,11 +119316,6 @@
           "drug": "Dupilumab",
           "slug": "dupilumab",
           "score": 98.76
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.71
         },
         {
           "drug": "Oritavancin (Diphosphate)",
@@ -119468,7 +119809,7 @@
     },
     {
       "name": "pressure-induced localized lipoatrophy",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -120387,7 +120728,7 @@
     },
     {
       "name": "progressive supranuclear palsy-corticobasal syndrome",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Entacapone",
@@ -120398,11 +120739,6 @@
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 97.58
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 95.36
         },
         {
           "drug": "Botulinum Toxin Type A",
@@ -120651,7 +120987,7 @@
     },
     {
       "name": "prostatic urethra urothelial carcinoma",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Durvalumab",
@@ -120689,11 +121025,6 @@
           "score": 98.8
         },
         {
-          "drug": "Catumaxomab",
-          "slug": "catumaxomab",
-          "score": 98.27
-        },
-        {
           "drug": "Vinflunine",
           "slug": "vinflunine",
           "score": 95.46
@@ -120702,6 +121033,11 @@
           "drug": "Polatuzumab Vedotin",
           "slug": "polatuzumab-vedotin",
           "score": 93.7
+        },
+        {
+          "drug": "Alemtuzumab",
+          "slug": "alemtuzumab",
+          "score": 92.85
         }
       ]
     },
@@ -121054,7 +121390,7 @@
     },
     {
       "name": "psoriasis",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Volanesorsen Sodium",
@@ -123123,7 +123459,7 @@
     },
     {
       "name": "renal pelvis papillary urothelial carcinoma",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Durvalumab",
@@ -123154,11 +123490,6 @@
           "drug": "Trastuzumab",
           "slug": "trastuzumab",
           "score": 98.97
-        },
-        {
-          "drug": "Catumaxomab",
-          "slug": "catumaxomab",
-          "score": 98.18
         },
         {
           "drug": "Vinflunine",
@@ -124116,7 +124447,7 @@
     },
     {
       "name": "rhinitis",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Prilocaine",
@@ -124127,11 +124458,6 @@
           "drug": "Phenylephrine",
           "slug": "phenylephrine",
           "score": 95.36
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 95.0
         },
         {
           "drug": "Linaclotide",
@@ -124173,13 +124499,8 @@
     },
     {
       "name": "rosacea",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 96.53
-        },
         {
           "drug": "Brimonidine Tartrate",
           "slug": "brimonidine-tartrate",
@@ -124189,7 +124510,7 @@
     },
     {
       "name": "rosacea conjunctivitis",
-      "drug_count": 10,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Lidocaine",
@@ -124220,11 +124541,6 @@
           "drug": "Caffeine Citrate",
           "slug": "caffeine-citrate",
           "score": 98.32
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 96.63
         },
         {
           "drug": "Phenylephrine",
@@ -125180,7 +125496,7 @@
     },
     {
       "name": "senile cataract",
-      "drug_count": 30,
+      "drug_count": 29,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -125506,7 +125822,7 @@
     },
     {
       "name": "severe nonproliferative diabetic retinopathy",
-      "drug_count": 62,
+      "drug_count": 61,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -127151,7 +127467,7 @@
     },
     {
       "name": "sudden arrhythmia death syndrome",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
         {
           "drug": "Eptinezumab",
@@ -127162,11 +127478,6 @@
           "drug": "Fremanezumab",
           "slug": "fremanezumab",
           "score": 59.33
-        },
-        {
-          "drug": "Canagliflozin",
-          "slug": "canagliflozin",
-          "score": 58.13
         }
       ]
     },
@@ -128118,7 +128429,7 @@
     },
     {
       "name": "tetanic cataract",
-      "drug_count": 28,
+      "drug_count": 27,
       "drugs": [
         {
           "drug": "Diroximel Fumarate (Biib098)",
@@ -128295,7 +128606,7 @@
     },
     {
       "name": "thiamine-responsive dysfunction syndrome",
-      "drug_count": 22,
+      "drug_count": 21,
       "drugs": [
         {
           "drug": "Vildagliptin",
@@ -129005,7 +129316,7 @@
     },
     {
       "name": "tinea corporis",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Lidocaine",
@@ -129021,11 +129332,6 @@
           "drug": "Oritavancin (Diphosphate)",
           "slug": "oritavancin-diphosphate",
           "score": 98.58
-        },
-        {
-          "drug": "Capsaicin",
-          "slug": "capsaicin",
-          "score": 98.06
         },
         {
           "drug": "Mirvetuximab Soravtansine",
@@ -129270,7 +129576,7 @@
     },
     {
       "name": "transaldolase deficiency",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -129291,11 +129597,6 @@
           "drug": "Levodopa",
           "slug": "levodopa",
           "score": 98.2
-        },
-        {
-          "drug": "Carbidopa",
-          "slug": "carbidopa",
-          "score": 97.4
         },
         {
           "drug": "Opicapone",
@@ -129409,7 +129710,7 @@
     },
     {
       "name": "transitional cell carcinoma",
-      "drug_count": 7,
+      "drug_count": 6,
       "drugs": [
         {
           "drug": "Durvalumab",
@@ -129430,11 +129731,6 @@
           "drug": "Mogamulizumab",
           "slug": "mogamulizumab",
           "score": 98.98
-        },
-        {
-          "drug": "Catumaxomab",
-          "slug": "catumaxomab",
-          "score": 98.07
         },
         {
           "drug": "Vinflunine",
@@ -130012,7 +130308,7 @@
     },
     {
       "name": "type 1 diabetes mellitus",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Insulin Aspart",

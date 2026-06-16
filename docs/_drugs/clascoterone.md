@@ -1,132 +1,104 @@
 ---
 layout: default
 title: Clascoterone
-description: "Clascoterone drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 138
+parent: 僅模型預測 (L5)
+nav_order: 149
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Clascoterone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Clascoterone: From Acne Vulgaris to Candidiasis
+
+## One-Sentence Summary
+
+Clascoterone is a topical androgen receptor (AR) antagonist approved in the United States for acne vulgaris, with no current EU marketing authorization on record.
+The TxGNN model predicts it may be effective for **Candidiasis**,
+with **no clinical trials** and **no publications** currently supporting this direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Clascoterone |
-| DrugBank ID | [DB12499](https://go.drugbank.com/drugs/DB12499) |
-| Brand Names (EU) | Winlevi |
+| Item | Content |
+|------|---------|
+| Original Indication | Acne Vulgaris |
+| Predicted New Indication | Candidiasis |
+| TxGNN Prediction Score | 94.82% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 94.82% |
+| EU Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Adults&nbsp;Winlevi is indicated for the treatment of acne vulgaris. Adolescents (from 12 to &lt;&nbsp;18&nbsp;years of age)&nbsp;Winlevi is indicated for the treatment of facial acne vulgaris.
+Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Clascoterone is a topical androgen receptor (AR) antagonist that competitively binds AR in sebaceous glands and hair follicles, reducing sebum production and the inflammatory cascade that drives acne vulgaris. Structurally, it is a 17α-propionate ester of 11-deoxycortisol — a cortisol precursor — which distinguishes it from systemic AR antagonists and limits its off-target endocrine effects.
 
----
+The proposed link between acne and candidiasis is highly indirect. Androgen signaling is known to modulate macrophage polarization and innate immune function, and androgen excess has been associated with impaired clearance of certain pathogens in some experimental contexts. The speculative hypothesis is that AR blockade might enhance the host's antifungal immune response. However, no preclinical, in vitro, or clinical studies have examined this connection for Clascoterone specifically.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | candidiasis | 94.82% | DL |
-| 2 | migraine disorder | 92.11% | DL |
-| 3 | migraine with brainstem aura | 91.39% | DL |
-| 4 | migraine with or without aura, susceptibility to | 89.40% | DL |
-| 5 | leprosy | 88.87% | DL |
-| 6 | atrophoderma vermiculata | 86.78% | DL |
-| 7 | oral candidiasis | 86.71% | DL |
-| 8 | progeria-short stature-pigmented nevi syndrome | 86.02% | DL |
-| 9 | adrenal gland hyperfunction | 85.90% | DL |
-| 10 | multiple endocrine neoplasia | 85.51% | DL |
-| 11 | ulerythema ophryogenesis | 85.35% | DL |
-| 12 | progeroid syndrome, Petty type | 85.25% | DL |
-| 13 | commissural lip fistula | 84.89% | DL |
-| 14 | osteoradionecrosis of the mandible | 84.86% | DL |
-| 15 | burning mouth syndrome | 84.83% | DL |
-| 16 | oral leukoedema | 84.83% | DL |
-| 17 | hyperargininemia | 84.79% | DL |
-| 18 | carbamoyl phosphate synthetase I deficiency disease | 84.79% | DL |
-| 19 | Leydig cell hypoplasia due to LH resistance | 82.66% | DL |
-| 20 | bone marrow neoplasm | 82.59% | DL |
-
-*Showing top 20 of 50 predictions.*
+Critically, Clascoterone is formulated for topical skin application with extremely low systemic absorption — a property that is central to its favourable safety profile in acne, but that also makes meaningful systemic immunomodulation biologically implausible. The high TxGNN score most likely reflects graph propagation through shared immune comorbidity nodes in the knowledge graph, rather than a direct mechanistic pathway.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
 ---
 
-## Citation
+## Conclusion and Next Steps
 
-If using this data, please cite:
+**Decision: Hold**
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Rationale:**
+This is a pure L5 prediction (AI model only) with zero supporting clinical trials or literature. The mechanistic bridge between topical AR antagonism and systemic candidiasis is biologically implausible given Clascoterone's topical route and negligible systemic exposure — the drug cannot plausibly reach concentrations needed to modulate the immune microenvironment at mucosal infection sites.
+
+**To proceed, the following is needed:**
+- Retrieve full MOA and safety data (TFDA SmPC / EU SmPC) to complete baseline risk assessment
+- Commission in vitro studies examining whether AR signalling directly affects *Candida* growth or macrophage antifungal activity
+- Consider redirecting discovery effort toward indications with stronger mechanistic plausibility:
+  - **Atrophoderma vermiculata** (Rank 6): AR-pathway link through follicular biology is mechanistically closer to the approved acne indication
+  - **Adrenal gland hyperfunction / CAH** (Rank 9): Structural homology to cortisol precursors provides a direct biological rationale worth exploring
+- Any further pursuit of the candidiasis hypothesis should begin with a formulation feasibility assessment — a mucosally-delivered AR antagonist would be an entirely different product from the approved topical cream
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

@@ -1,132 +1,122 @@
 ---
 layout: default
 title: Ceritinib
-description: "Ceritinib drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 127
+parent: 僅模型預測 (L5)
+nav_order: 138
 evidence_level: L5
-indication_count: 51
+indication_count: 10
 ---
 
 # Ceritinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Ceritinib: From ALK+ Non-Small Cell Lung Cancer to Gingival Fibromatosis
+
+## One-Sentence Summary
+
+Ceritinib (Zykadia®) is a second-generation, oral anaplastic lymphoma kinase (ALK) inhibitor originally developed and approved for the treatment of ALK-rearranged non-small cell lung cancer (NSCLC).
+The TxGNN model predicts it may be effective for **Gingival Fibromatosis** with a prediction score of 99.86%, yet **no clinical trials** and **no supporting publications** exist for this indication.
+The mechanistic link between ALK inhibition and gingival fibromatosis is not established; this prediction likely reflects a knowledge graph generalization artifact rather than a true biological relationship.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Ceritinib |
-| DrugBank ID | [DB09063](https://go.drugbank.com/drugs/DB09063) |
-| Brand Names (EU) | Zykadia |
+| Item | Content |
+|------|---------|
+| Original Indication | ALK-positive non-small cell lung cancer (NSCLC) |
+| Predicted New Indication | Fibromatosis, Gingival |
+| TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| Predicted Indications | 51 |
-| Top Prediction Score | 99.86% |
+| EU Market Status | Not found in dataset (0 authorizations recorded) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Zykadia is indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK) positive advanced non small cell lung cancer (NSCLC) previously treated with crizotinib.
+Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacology, Ceritinib is a potent and selective second-generation ALK tyrosine kinase inhibitor — approximately 20-fold more potent than the first-generation inhibitor crizotinib. It competitively blocks the ATP-binding site of the ALK kinase domain, suppressing downstream proliferative and survival signaling in tumors driven by ALK fusion genes (most commonly EML4-ALK in NSCLC). Ceritinib also inhibits IGF-1R and FAK at clinically relevant concentrations.
 
----
+Gingival fibromatosis is a rare benign condition characterized by progressive fibrous overgrowth of gingival connective tissue. Its primary pathophysiological drivers are TGF-β/SMAD pathway activation and excessive gingival fibroblast proliferation — mechanisms entirely distinct from ALK-driven oncogenesis. ALK has no established expression, mutation, or functional role in gingival fibromatosis in the published literature.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | fibromatosis, gingival | 99.86% | DL |
-| 2 | fibroma of lung | 99.82% | DL |
-| 3 | hamartoma of lung | 99.81% | DL |
-| 4 | lung hilum carcinoma | 99.80% | DL |
-| 5 | lung benign neoplasm | 99.80% | DL |
-| 6 | pulmonary sulcus neoplasm | 99.80% | DL |
-| 7 | lung germ cell tumor | 99.80% | DL |
-| 8 | inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia | 99.79% | DL |
-| 9 | Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome | 99.78% | DL |
-| 10 | junctional epidermolysis bullosa | 99.77% | DL |
-| 11 | ovarioleukodystrophy | 99.72% | DL |
-| 12 | junctional epidermolysis bullosa, non-Herlitz type | 99.71% | DL |
-| 13 | lung cancer | 99.71% | DL |
-| 14 | dehydratase deficiency | 99.68% | DL |
-| 15 | Ewing sarcoma | 98.81% | DL |
-| 16 | amyotrohpic lateral sclerosis type 22 | 94.01% | DL |
-| 17 | orbit sarcoma | 93.89% | DL |
-| 18 | synovial chondromatosis | 93.89% | DL |
-| 19 | ganglioneuroblastoma (disease) | 93.45% | DL |
-| 20 | giant cell tumor of soft tissue | 93.43% | DL |
-
-*Showing top 20 of 51 predictions.*
+The high TxGNN prediction score (99.86%) for this pairing is most likely attributable to a knowledge graph topology effect: "fibromatosis" disease nodes cluster near other fibrotic or proliferative conditions (such as ALK-positive inflammatory myofibroblastic tumors) within the graph, creating proximity-based score inflation that does not reflect biological plausibility. Without any mechanistic evidence or supporting literature, this prediction does not support further development.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No EU marketing authorizations are recorded for Ceritinib in the current dataset.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> **Dataset note:** Ceritinib (Zykadia®, Novartis) received EMA marketing authorization in May 2015 for ALK-positive NSCLC. The absence of records here may indicate a data gap or a subsequent regulatory change. Please verify current EU authorization status directly via the [EMA product page](https://www.ema.europa.eu/en/medicines/human/EPAR/zykadia).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Cytotoxicity
+
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Targeted therapy — Second-generation ALK tyrosine kinase inhibitor (small molecule, oral) |
+| Myelosuppression Risk | Low (ALK inhibitors have minimal direct myelotoxicity; hematological toxicity is not a primary concern) |
+| Emetogenicity Classification | Low to moderate (GI adverse effects including nausea, diarrhea, and vomiting are common at standard doses) |
+| Monitoring Items | Liver function (ALT/AST/bilirubin), serum amylase and lipase (pancreatitis risk), fasting blood glucose, ECG (QTc prolongation), CBC |
+| Handling Protection | Standard oral cytotoxic handling precautions apply per institutional policy |
+
+---
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+No mechanistic basis links ceritinib's ALK inhibition to gingival fibromatosis — the condition is driven by TGF-β/SMAD fibroblast hyperactivation, not ALK signaling — and the evidence level is L5 (model prediction only, zero clinical or pre-clinical studies). The high TxGNN score is assessed as a knowledge graph generalization artifact.
+
+**To proceed, the following would be needed:**
+- Evidence of ALK expression or constitutive activation in gingival fibroblasts or gingival fibromatosis biopsy tissue
+- Mechanistic studies demonstrating ALK pathway crosstalk with TGF-β/SMAD-driven fibrosis
+- Resolution of the MOA data gap (DrugBank query recommended)
+- Complete safety profile from the EMA SmPC, including key warnings and contraindications
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,114 @@
 ---
 layout: default
 title: Concizumab
-description: "Concizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 145
+parent: 僅模型預測 (L5)
+nav_order: 155
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Concizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Concizumab: From Hemophilia to Diabetic Cataract
+
+## One-Sentence Summary
+
+Concizumab is an anti-TFPI (Tissue Factor Pathway Inhibitor) monoclonal antibody under clinical development as a pro-coagulant agent, primarily targeting hemophilia and bleeding disorders.
+The TxGNN model ranks **Diabetic Cataract** as its top repurposing prediction (score: 98.27%),
+but there are currently **0 clinical trials** and **0 publications** supporting this direction — and the mechanistic rationale is critically weak, with strong indications that the prediction reflects a Knowledge Graph clustering artifact rather than a genuine biological signal.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Concizumab |
-| DrugBank ID | [DB12820](https://go.drugbank.com/drugs/DB12820) |
-| Brand Names (EU) | Alhemo |
+| Item | Content |
+|------|------|
+| Original Indication | Investigational — Hemophilia / Bleeding disorders (inferred from anti-TFPI pro-coagulant mechanism referenced in repurposing rationale) |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 98.27% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.27% |
+| Taiwan Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Alhemo is indicated for routine prophylaxis of bleeding in patients 12 years of age or more with: •&nbsp;&nbsp;&nbsp;&nbsp;haemophilia A (congenital factor VIII deficiency) with FVIII inhibitors.•&nbsp;&nbsp;&nbsp;&nbsp;severe haemophilia A (congenital factor VIII deficiency, FVIII &lt; 1%) without FVIII inhibitors.•&nbsp;&nbsp;&nbsp;&nbsp;haemophilia B (congenital factor IX deficiency) with FIX inhibitors.•&nbsp;&nbsp;&nbsp;&nbsp;moderate/severe haemophilia B (congenital factor IX deficiency, F
+Detailed mechanism of action data is not available in this Evidence Pack. Based on the contextual information embedded within the repurposing rationale, Concizumab is an anti-TFPI monoclonal antibody that promotes coagulation by blocking Tissue Factor Pathway Inhibitor (TFPI), thereby restoring hemostasis. Its clinical development is directed toward hereditary bleeding disorders, particularly hemophilia A and B with inhibitors.
 
----
+Diabetic cataract arises from lens-specific metabolic injury: sorbitol accumulation via the polyol pathway, advanced glycation end-products (AGEs), and oxidative protein damage to lens crystallins. These pathways operate entirely within lens epithelial cell biology and have **no established mechanistic connection** to TFPI inhibition or the extrinsic coagulation cascade. While diabetes does involve coagulation dysregulation systemically, cataract formation itself is not driven by procoagulant or anticoagulant mechanisms, and lens opacity cannot be reversed by modulating hemostasis.
 
-## Predicted New Indications
+The high TxGNN score almost certainly reflects a **Knowledge Graph disease-ontology clustering artifact**: 9 of the top 10 predictions are cataract subtypes (diabetic, craniostenosis, immature, tetanic, T2DM-associated, mature, cortical, nuclear senile, and senile), with near-identical scores concentrated in the 0.981–0.983 range. This uniform score distribution across morphologically and etiologically distinct cataract subtypes is a hallmark of ICD-10 ontology node co-clustering in the KG, rather than a true pharmacological signal. These predictions should be collectively treated as false positives for this candidate.
 
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 98.27% | DL |
-| 2 | tetanic cataract | 98.16% | DL |
-| 3 | mature cataract | 98.16% | DL |
-| 4 | immature cataract | 98.16% | DL |
-| 5 | diabetes mellitus type 2 associated cataract | 98.16% | DL |
-| 6 | craniostenosis cataract | 98.16% | DL |
-| 7 | nuclear senile cataract | 98.14% | DL |
-| 8 | cortical cataract | 98.14% | DL |
-| 9 | antithrombin deficiency type 2 | 98.12% | DL |
-| 10 | senile cataract | 98.07% | DL |
-| 11 | factor 5 excess with spontaneous thrombosis | 98.07% | DL |
-| 12 | heparin cofactor 2 deficiency | 98.03% | DL |
-| 13 | diabetic retinopathy | 97.98% | DL |
-| 14 | thrombophilia | 97.76% | DL |
-| 15 | severe nonproliferative diabetic retinopathy | 97.71% | DL |
-| 16 | diffuse gastric adenocarcinoma | 95.41% | DL |
-| 17 | hemorrhagic disease of newborn | 94.77% | DL |
-| 18 | gastric carcinoma | 94.71% | DL |
-| 19 | bronchitis | 94.71% | DL |
-| 20 | gastric adenocarcinoma and proximal polyposis of the stomach | 94.69% | DL |
-
-*Showing top 20 of 50 predictions.*
+> ⚠️ **Critical Safety Alert — Rank #9 Prediction (Antithrombin Deficiency Type 2):** The 9th-ranked prediction is a thrombophilic condition, not a repurposing target. Antithrombin Deficiency Type 2 is characterized by reduced natural anticoagulant activity and markedly elevated venous thromboembolism risk. Applying a **pro-coagulant** drug like Concizumab in this population would further potentiate thrombotic risk. The KG model appears to have interpreted co-occurrence of coagulation-pathway nodes as positive association; clinically, the relationship is **antagonistic and potentially dangerous**. This indication must be explicitly excluded and flagged as a contraindication.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for Concizumab across any of the 10 predicted indications.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available for Concizumab across any of the 10 predicted indications.
 
 ---
 
-## Data Access
+## Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Concizumab currently holds **0 marketing authorizations** in Taiwan and is **not marketed**. It remains an investigational product. No approved indication text, dosage form, or product registration data is available.
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
+Please refer to the investigational drug brochure (IB) or SmPC for safety information. No key warnings, contraindications, or drug interaction data were retrievable for this candidate at the time of this report.
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> **Evaluator Note:** The absence of safety data (DG001: Blocking severity) prevents entry into standard S1 safety screening. Before any repurposing evaluation can proceed, the TFDA package insert or IB must be obtained and parsed for warnings and contraindications.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All 10 top TxGNN predictions carry zero clinical or literature support (Evidence Level L5), the dominant cataract cluster is mechanistically inconsistent with Concizumab's pro-coagulant biology, and the tight score clustering across cataract subtypes confirms a KG disease-ontology artifact rather than a repurposing opportunity. One prediction (Antithrombin Deficiency Type 2, rank #9) represents an active safety concern and must be excluded from further consideration.
+
+**To proceed, the following is needed:**
+
+- **Resolve DG001 (Blocking):** Obtain TFDA package insert or IB to extract key warnings and contraindications — required before S1 safety screening can commence
+- **Resolve DG002 (High):** Query DrugBank API for confirmed MOA data to enable mechanistic plausibility analysis for future candidate indications
+- **Explicitly exclude rank #9:** Formally flag Antithrombin Deficiency Type 2 as a potential contraindication in the candidate screening record
+- **Suppress KG cataract cluster:** Consider applying disease-ontology deduplication or cluster-aware filtering in the TxGNN pipeline to prevent similar false-positive groupings in future runs
+- **Identify alternative repurposing directions:** Re-evaluate candidates outside the cataract cluster — mechanistically plausible targets for an anti-TFPI agent would include other thrombotic/hemorrhagic conditions, vascular thromboembolism phenotypes, or disseminated intravascular coagulation (DIC) where TFPI modulation has biological rationale
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

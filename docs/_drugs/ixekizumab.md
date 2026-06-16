@@ -2,7 +2,7 @@
 layout: default
 title: Ixekizumab
 parent: 僅模型預測 (L5)
-nav_order: 134
+nav_order: 177
 evidence_level: L5
 indication_count: 10
 ---

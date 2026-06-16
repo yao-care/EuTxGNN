@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Canakinumab
-description: "Canakinumab drug repurposing predictions from TxGNN. Evidence level L5 with 56 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 109
+parent: 僅模型預測 (L5)
+nav_order: 120
 evidence_level: L5
-indication_count: 56
+indication_count: 10
 ---
 
 # Canakinumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **56**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Canakinumab: From Cryopyrin-Associated Periodic Syndrome (CAPS) to Hepatic Infarction
+
+## One-Sentence Summary
+
+Canakinumab (Ilaris) is a fully human anti-IL-1β monoclonal antibody developed by Novartis, originally approved for cryopyrin-associated periodic syndromes (CAPS) including familial cold autoinflammatory syndrome (FCAS) and Muckle-Wells syndrome (MWS).
+The TxGNN model predicts it may also be effective for **Hepatic Infarction** with a prediction score of **99.86%**;
+however, currently **no clinical trials** and only **1 tangentially related publication** support this specific direction, placing it at the lowest evidence tier (**L5 — model prediction only, no actual studies**).
+
+> ⚠️ **Note:** While hepatic infarction ranks #1 by TxGNN score, TxGNN also predicts Canakinumab for **Familial Mediterranean Fever** (rank #6) with **7 clinical trials** and **20 publications** at **L1 evidence**. Reviewers are advised to consider the full ranked list in context.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Canakinumab |
-| DrugBank ID | [DB06168](https://go.drugbank.com/drugs/DB06168) |
-| Brand Names (EU) | Ilaris |
+| Item | Content |
+|------|---------|
+| Original Indication | Cryopyrin-Associated Periodic Syndrome (CAPS) — inferred from published literature; Taiwan regulatory data not available |
+| Predicted New Indication | Hepatic Infarction |
+| TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| Predicted Indications | 56 |
-| Top Prediction Score | 99.86% |
+| Taiwan Market Status | Not marketed |
+| Number of Authorizations (Taiwan) | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Periodic fever syndromes Ilaris is indicated for the treatment of the following autoinflammatory periodic fever syndromes in adults, adolescents and children aged 2 years and older: Cryopyrin-associated periodic syndromes Ilaris is indicated for the treatment of cryopyrin-associated periodic syndromes (CAPS) including:  Muckle-Wells syndrome (MWS), Neonatal-onset multisystem inflammatory disease (NOMID) / chronic infantile neurological, cutaneous, articular syndrome (CINCA), Severe forms of fami
+Currently, detailed mechanism of action data is not available in this evidence pack. Based on known published information, Canakinumab is a fully human IgG1/κ monoclonal antibody that selectively binds and neutralizes interleukin-1β (IL-1β), thereby suppressing downstream pro-inflammatory cascades mediated through IL-1 receptor type I (IL-1RI). This mechanism has been clinically validated across multiple IL-1β-driven autoinflammatory diseases, including CAPS, systemic juvenile idiopathic arthritis (sJIA), familial Mediterranean fever (FMF), TNF receptor-associated periodic syndrome (TRAPS), and hyperimmunoglobulinemia D syndrome/mevalonate kinase deficiency (HIDS/MKD).
 
----
+The biological rationale for hepatic infarction rests on the known role of IL-1β in hepatic ischemia-reperfusion injury (IRI). Following hepatic vascular occlusion and reperfusion, IL-1β acts as a key amplifier of the sterile inflammatory cascade, promoting Kupffer cell activation, neutrophil recruitment, and hepatocyte apoptosis. Theoretically, neutralizing IL-1β could attenuate post-ischemic tissue damage. However, this mechanistic link is highly speculative — no direct preclinical or clinical studies have examined Canakinumab specifically in the context of hepatic infarction.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | hepatic infarction | 99.86% | DL |
-| 2 | hepatic veno-occlusive disease | 99.82% | DL |
-| 3 | peliosis hepatis | 99.78% | DL |
-| 4 | syndrome with combined immunodeficiency | 99.71% | DL |
-| 5 | autosomal dominant familial periodic fever | 99.68% | DL |
-| 6 | periodic fever-infantile enterocolitis-autoinflammatory syndrome | 99.57% | DL |
-| 7 | autosomal recessive familial Mediterranean fever | 99.55% | DL |
-| 8 | familial Mediterranean fever, autosomal dominant | 99.41% | DL |
-| 9 | extracutaneous mastocytoma | 99.35% | DL |
-| 10 | Blau syndrome | 99.34% | DL |
-| 11 | monosomy X | 99.31% | DL |
-| 12 | liver angiosarcoma | 99.30% | DL |
-| 13 | aggressive systemic mastocytosis | 99.29% | DL |
-| 14 | X-linked lymphoproliferative disease due to SH2D1A deficiency | 99.26% | DL |
-| 15 | familial Mediterranean fever | 99.21% | DL |
-| 16 | primary release disorder of platelets | 99.16% | DL |
-| 17 | pseudo-von Willebrand disease | 99.13% | DL |
-| 18 | hepatic veno-occlusive disease-immunodeficiency syndrome | 99.08% | DL |
-| 19 | systemic mastocytosis | 99.05% | DL |
-| 20 | chromhidrosis | 99.03% | DL |
-
-*Showing top 20 of 56 predictions.*
+The TxGNN model assigned this prediction a high rank (score 99.86%), likely capturing indirect network relationships between Canakinumab's IL-1β inhibition mechanism and hepatic inflammatory pathology rather than a direct clinical or mechanistic signal. The single literature item retrieved (PMID 37354546) concerns bempedoic acid in cardiovascular prevention and is not relevant to this indication, confirming the absence of a real evidence base.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for Canakinumab in hepatic infarction.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|------|------|---------|-------------|
+| [37354546](https://pubmed.ncbi.nlm.nih.gov/37354546/) | 2023 | RCT | JAMA | Bempedoic acid vs. placebo for primary cardiovascular prevention in statin-intolerant patients without prior cardiovascular events. **Not relevant** to Canakinumab or hepatic infarction — retrieved by indirect cardiovascular query association. |
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> Taiwan TFDA SmPC label warnings and contraindications were not available in this evidence pack. Drug-drug interaction data query returned no results. Full safety evaluation requires TFDA label retrieval prior to any clinical consideration.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Evidence for Canakinumab in hepatic infarction is entirely model-derived (L5) with no supporting clinical trials or directly relevant literature. Although the IL-1β pathway is biologically involved in hepatic ischemia-reperfusion injury, this mechanistic link has not been validated in any preclinical or clinical study, making advancement beyond a speculative hypothesis premature.
+
+**To proceed, the following is needed:**
+- Preclinical studies (e.g., murine hepatic IRI models) evaluating IL-1β blockade in hepatic infarction to establish proof of concept
+- Mechanism of action clarification specifically in the context of hepatic vascular injury
+- Taiwan TFDA SmPC retrieval for complete safety profiling (warnings, contraindications)
+- Drug-drug interaction assessment in hepatic disease populations
+- Identification of a clinically plausible patient subgroup (e.g., post-transplant hepatic IRI with excessive inflammatory response) where IL-1β neutralization could offer benefit
+- **Prioritization recommendation:** Redirect resources toward the FMF (rank #6, L1, 7 trials) and periodic fever syndrome (rank #5, L3, 19 publications) predictions, where the mechanistic basis is established and regulatory precedent exists in other jurisdictions
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
