@@ -54,22 +54,6 @@ permalink: /news/dronedarone/
 
 ## 相關新聞（20 則）
 
-### [Alzheimer: Neue Antikörper und Bluttests beschleunigen Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
-
-2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
-
----
-
-### [Acción precoz para evitar mayor carga futura por hígado graso temprano - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc0Tl9LVmQzUVRNZU4tQS1ESUNrVWJCR0EtZVJCQWVPZ3hQeVJwUnFRTjY4cF96bFRSM1U4MXEwNmtfeTNnRldWVXFWZGxtQW4xeFVSTTVSYzdRT20ydDJ2b2hVVWdvb2NERE5XajRaOXlUNGtTWllSUjQyazRNTzF0U3BmUTEzWUJGS0VvSzBaNVBfVWlGb0ZGeWpYMVE5TDA5ZFVQaVdOa2hvNXV4eFpiSlVnNTE5aUNqQ2h6dmFuYzlnd1HSAcYBQVVfeXFMUGV1eG42ekVUVlBYbFhOVkhYd2lTY1ltYTRXVzAwZGdWWFBPcDJRWk8zVldfbmp6UFdfVkhjNnZ4MW1QLTBjeWVkU1ltcEpXX3RLaUdtcGM5d1J5S2NGNnU5MmZ2alpla0dObWtWeGdPZ2dSV1hIME9ETE5LLWJ1dXp0a2xaQzdGZ3ZzVXhOX3RrYmp2NFZwaVpaeG1heEx5VmxpWm5RWUZMRDNqclg3VmwwWUFld2pwb0lxaEJsbnR3OEM3LTln?oc=5)
-
-2026-06-15 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc0Tl9LVmQzUVRNZU4tQS1ESUNrVWJCR0EtZVJCQWVPZ3hQeVJwUnFRTjY4cF96bFRSM1U4MXEwNmtfeTNnRldWVXFWZGxtQW4xeFVSTTVSYzdRT20ydDJ2b2hVVWdvb2NERE5XajRaOXlUNGtTWllSUjQyazRNTzF0U3BmUTEzWUJGS0VvSzBaNVBfVWlGb0ZGeWpYMVE5TDA5ZFVQaVdOa2hvNXV4eFpiSlVnNTE5aUNqQ2h6dmFuYzlnd1HSAcYBQVVfeXFMUGV1eG42ekVUVlBYbFhOVkhYd2lTY1ltYTRXVzAwZGdWWFBPcDJRWk8zVldfbmp6UFdfVkhjNnZ4MW1QLTBjeWVkU1ltcEpXX3RLaUdtcGM5d1J5S2NGNnU5MmZ2alpla0dObWtWeGdPZ2dSV1hIME9ETE5LLWJ1dXp0a2xaQzdGZ3ZzVXhOX3RrYmp2NFZwaVpaeG1heEx5VmxpWm5RWUZMRDNqclg3VmwwWUFld2pwb0lxaEJsbnR3OEM3LTln?oc=5)
-
----
-
 ### [Kaffee-Wirkstoffe: Polyphenole senken Entzündungen stärker als Koffein - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGpHeDA2VjRxWGVDQ3RUT0dNakhQYmpmRURWY1pWSHZTbWswdkstUWtaNk1jU2pkdUJST2JNUkJtWTFPV2lyWDlrZ2NXeXlnYTJrelU2QmNENVQ3ei11LTJBZl9fRlRnR2xUU2Y3a1h3cFdrOGVOTnJFcnFzRi14a09GcS1HVjRvY2VQTDB0WkM4cDRQR2c0TVVkN0FVWXlXVzNKa0YzWlRYOUFVcUREMDl0UmF4Y0xCelZxRA?oc=5)
 
 2026-06-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -83,6 +67,22 @@ permalink: /news/dronedarone/
 2026-06-15 <span class="news-indication-tag">AF</span>
 
 來源：[Corresponsables](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2VqQjhvUXpPTVJQVUtaUFIxRHNQZmcwOXY2ZEt0c1dTenhyUS1nbWlla2kya0hsdmJwRlMxLVlHbnNjQXB1NzdzclMzN01WbjFqT2M5aG5RVGs1aVRPTklMWlBVTm9GNm1jOU1lcW1RYWFoQjRrejc2ejI3dHUwQkRSU0dkNG9tbHRFT1N5LWpyeDFMQTljbFdTbjRWWXUtVUNMekJTWk1TZ2c?oc=5)
+
+---
+
+### [Herzinfarkt und Schlaganfall: 99 Prozent lassen sich verhindern - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTh3cEZGZDFHbEN5VmYyMHFNMkgwelNtZ3dyVDUwekxsWXBfN0xVcUZURFZUWDlCOFJNbi1Cbmd2anU3MFZhWjFwcDgwV0VCaFR0NWFKYzRRenhzSTdXd2xFWG1DblNnbERuNTNkMExvV2FFZFcxRlpEV3A5YURHZV9tSlQ3OE5BREwyY1JlLWdPQTB0UDRGQWQzY3IwTGZQMkdkLVBxTGlTRmFxMTNINQ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTh3cEZGZDFHbEN5VmYyMHFNMkgwelNtZ3dyVDUwekxsWXBfN0xVcUZURFZUWDlCOFJNbi1Cbmd2anU3MFZhWjFwcDgwV0VCaFR0NWFKYzRRenhzSTdXd2xFWG1DblNnbERuNTNkMExvV2FFZFcxRlpEV3A5YURHZV9tSlQ3OE5BREwyY1JlLWdPQTB0UDRGQWQzY3IwTGZQMkdkLVBxTGlTRmFxMTNINQ?oc=5)
+
+---
+
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 
@@ -134,11 +134,19 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Ebola one month on: will the latest outbreak in DRC become the most deadly yet? - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
+### [Congo says 782 Ebola cases confirmed, two new health zones affected](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNzVRYWFqbWpqcms5bFhjZU1VWTg2dnV3SHFLRjJLTTlxOUMxWmJ6NmZRc0pvMzlHLUx5TXVFOEt2dVA4eW01bmhKQjcxV1ktd0drLW9YRWo4cEJsWTR5TGd1enE0a0lRZWVmMmVrdmJJNUs0V3BJUEhOdFlUZy16bXRsNmdhc0RYOTZaQ3Vqb2NSMkJfOUJpT3VWXzVLNnZmbktWazVybzYyTVp6SmVSLV9TT2FWbUJodmMtTnlIUWlNNUc2MDM4N1JKbXByRFFrUVJocw?oc=5)
 
-2026-06-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-14 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
+來源：[Reuters](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNzVRYWFqbWpqcms5bFhjZU1VWTg2dnV3SHFLRjJLTTlxOUMxWmJ6NmZRc0pvMzlHLUx5TXVFOEt2dVA4eW01bmhKQjcxV1ktd0drLW9YRWo4cEJsWTR5TGd1enE0a0lRZWVmMmVrdmJJNUs0V3BJUEhOdFlUZy16bXRsNmdhc0RYOTZaQ3Vqb2NSMkJfOUJpT3VWXzVLNnZmbktWazVybzYyTVp6SmVSLV9TT2FWbUJodmMtTnlIUWlNNUc2MDM4N1JKbXByRFFrUVJocw?oc=5)
+
+---
+
+### [People living with dementia are too often overlooked | Letters - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
+
+2026-06-14 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
 
 ---
 
@@ -179,14 +187,6 @@ permalink: /news/dronedarone/
 2026-06-14 <span class="news-indication-tag">AF</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmpfazRpd3JDdTNJN3ZIRnctVXFhcXg4UTR2NzBSajQyNHBsdUVsTjVxdUVlamFQc2pybkhVYWRZS0pMX0pLbXcxaUREOW5Zc0pDRldMcGFIT0RlTE14eHdydXhZX1hoeFl5UFpxdWltaGh5dXV2dXl0SXdjME1WWGJmSU5YWlVCeTNGc0thUC1vOTIxV29KQmxJZlprZElvdE5GbXJDcjl3a0k1d3c?oc=5)
-
----
-
-### [« On était sur une première mondiale » : Guillaume Charvet, le chercheur grenoblois qui fait remarcher les paralysés - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
 
 ---
 

@@ -54,14 +54,6 @@ permalink: /news/rufinamide/
 
 ## 相關新聞（34 則）
 
-### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
-
-2026-06-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
-
----
-
 ### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
 2026-06-15 <span class="news-indication-tag">tumor</span>
@@ -70,11 +62,27 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Alzheimer: Neue Antikörper und Bluttests beschleunigen Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
+### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
-2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [Monmouthshire mum says she may have avoided ovarian cancer if she lived in England](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUjNxekdqX2tUYjEzTjkwTEp2Y2xMZ244ME04LTE5d2l5R05NQU9jbXRNTGlxQnNHdXdNblpzUHZKNGdVMENSNlRmb2xsek9CaVNiM3UzaDZZQjlJ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUjNxekdqX2tUYjEzTjkwTEp2Y2xMZ244ME04LTE5d2l5R05NQU9jbXRNTGlxQnNHdXdNblpzUHZKNGdVMENSNlRmb2xsek9CaVNiM3UzaDZZQjlJ?oc=5)
+
+---
+
+### [Maladie d’Alzheimer : des chercheurs de la Côte d’Azur font une découverte décisive](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFZWVBpc1doWmoxVERMckZPRnpFQVl4Z2xURzRaOGdzMTlsOEg1S2s2WXRNc3hCdWUybkFOMUZKbExOX0NIaE1MaGx2ZWVhUnYteXNkeWw4ZzBqUkpuNHZsSTI0cVpKdWQtMmdqZUs1Nkl3RWkwQ09oYVRyNEl1UUh4bmNJU2NqREtfSDFUQ0puTG53NF9fdXJRQkhDaVNqclV4SHlUbC1JdHNPX3dQd3BXM1h0MHloZlBBQ1psUQ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Nice-Matin](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFZWVBpc1doWmoxVERMckZPRnpFQVl4Z2xURzRaOGdzMTlsOEg1S2s2WXRNc3hCdWUybkFOMUZKbExOX0NIaE1MaGx2ZWVhUnYteXNkeWw4ZzBqUkpuNHZsSTI0cVpKdWQtMmdqZUs1Nkl3RWkwQ09oYVRyNEl1UUh4bmNJU2NqREtfSDFUQ0puTG53NF9fdXJRQkhDaVNqclV4SHlUbC1JdHNPX3dQd3BXM1h0MHloZlBBQ1psUQ?oc=5)
 
 ---
 
@@ -120,7 +128,7 @@ permalink: /news/rufinamide/
 
 ### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
-2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
@@ -139,14 +147,6 @@ permalink: /news/rufinamide/
 2026-06-15 <span class="news-indication-tag">cancer</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVzU2ZE9YQl9XeTRPaWlHdkpzRHpWblJwRURVZzlQdmUzTmFPX3dSOHdTa2pWYzVOeHoxQU52VExGUW9wYXFPQ2xaWmhHcG83TjRJX3h0dTNXdmFMaDNmc3ZYeTJXUDNxVHZLdFlHNS1GMkNTVnZvVHRCTkdQbWJSOW0xY3ZTUEVxSHJ0eXJ4eWRxangtSFkweDdjMFVEanRfTXBXakRkZzBHbVhJZU5Cd2o4XzBpbkg1cC1WR0NnTDBFazZJa29XRDJvQTF4cTVWMU02Y2luN1RNMnlNd3M2bVRKSmpwNjhLYWIwVWQ3MA?oc=5)
-
----
-
-### [Badalona lidera la investigación de la OMS sobre el hantavirus de los Andes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVk9GazVoTmtLajFjZTdlS1BJeXB5bEJUdlZjdlQwY01rUXRiZGZmbHQyX25XUWQ0eDRpaVB6V3VtaTVLWWxhUnVxRERyaUg1UDkzYXdNU1NscDA3LVpPQTAyZHVSOHI0TTlVd0gzSDUzclI0TUtKV1F0UERXU3NFR0NsblNEWFNPYU5YMWFuRzd3VlJ5LU1aeEo1YXpMMmo0ZmNtcTlOcVYyeWk0VGpmZDMxMFFIeXNXWWNnbnJLUjZpcTZVYW1tLXAtOFF1cEJIRU5uaA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">MS</span>
-
-來源：[CatalunyaPress](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVk9GazVoTmtLajFjZTdlS1BJeXB5bEJUdlZjdlQwY01rUXRiZGZmbHQyX25XUWQ0eDRpaVB6V3VtaTVLWWxhUnVxRERyaUg1UDkzYXdNU1NscDA3LVpPQTAyZHVSOHI0TTlVd0gzSDUzclI0TUtKV1F0UERXU3NFR0NsblNEWFNPYU5YMWFuRzd3VlJ5LU1aeEo1YXpMMmo0ZmNtcTlOcVYyeWk0VGpmZDMxMFFIeXNXWWNnbnJLUjZpcTZVYW1tLXAtOFF1cEJIRU5uaA?oc=5)
 
 ---
 
@@ -206,6 +206,14 @@ permalink: /news/rufinamide/
 
 ---
 
+### [Un mese di ebola nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2FlaVUxX2dpNXpURHJicmdaWm5Idzcxemo2WEgyZFQ1NzRqM3I2QWlyWHJicktyTnFDYXdWZVNVUHdNc1RBSHNEUXI2WjkyNFJfSDJnVlVjdUk5Y0luSm5MMHZDUUMyTFlGdjJCb2E1UXZWWWFWT3pXSndjWXVfMDM0SHFuM0I2OEhCT1Vn?oc=5)
+
+2026-06-15 <span class="news-indication-tag">MS</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2FlaVUxX2dpNXpURHJicmdaWm5Idzcxemo2WEgyZFQ1NzRqM3I2QWlyWHJicktyTnFDYXdWZVNVUHdNc1RBSHNEUXI2WjkyNFJfSDJnVlVjdUk5Y0luSm5MMHZDUUMyTFlGdjJCb2E1UXZWWWFWT3pXSndjWXVfMDM0SHFuM0I2OEhCT1Vn?oc=5)
+
+---
+
 ### [Lichtschalter macht Krebs verwundbar - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8talYydTZ3dGFQdFRSbF8wNTJxcnVxMGM4WTUxRW4wU1EtSjV4dmNMR3BYTFdLdUhPekNIbXhPTFI3WXRZU3lCQ1B6Yw?oc=5)
 
 2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -262,14 +270,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Psilocybin als Testfall für vorübergehend zugängliche Gehirnareale bei Alzheimer? - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUxWRWNnWXNLQmVPd21pMXhqT2dCbHRRMU5aVFhhS2J1OVh1Wnd1SWxVbXlWS2ZEcjRKRld0Z3p2YmVoQzlNbU5vY2xJS01xWVJXRWhTQnBnYVktbHpXcVR1Z1lZVXVGWmtSdU01M0tUYkYxZHdHdDg1VFo4eVk2MjNlMjhyMzdjQWozS1ZJUVplT0x3REZjTHk0M3pKdFozVnozVm1HcTdwbVdsdGxkd0FLUTI4UQ?oc=5)
-
-2026-06-14 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUxWRWNnWXNLQmVPd21pMXhqT2dCbHRRMU5aVFhhS2J1OVh1Wnd1SWxVbXlWS2ZEcjRKRld0Z3p2YmVoQzlNbU5vY2xJS01xWVJXRWhTQnBnYVktbHpXcVR1Z1lZVXVGWmtSdU01M0tUYkYxZHdHdDg1VFo4eVk2MjNlMjhyMzdjQWozS1ZJUVplT0x3REZjTHk0M3pKdFozVnozVm1HcTdwbVdsdGxkd0FLUTI4UQ?oc=5)
-
----
-
 ### [Huge study hints at risks of switching from tobacco cigarettes to vapes](https://news.google.com/rss/articles/CBMiX0FVX3lxTE84Z3JGU2lYeTI5VXJTS3NNVjlxTDdEemYwb1FSWnQ3YllaOHJnR1QwRFUyQ1BSYnZnY21lNW1pVTZGclluaGlzOFZiMlZLdmdZQ21EQ1h3UnlsRmJ3LWlv?oc=5)
 
 2026-06-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -278,11 +278,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Ebola one month on: will the latest outbreak in DRC become the most deadly yet? - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
+### [This Painful Condition Impacts Women Way More Than Men, And You Need To Know About It](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
 
-2026-06-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-14 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
 
 ---
 
@@ -302,19 +302,19 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Lotta ai tumori, raggiunti tutti i piemontesi a rischio. Ma meno del 50% si sottopone a screening - La Stampa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQldQT1JWUHpKd2k3QWV1d0JtN2dlVS10Rkk3eV9CdEQydGpwTWFEendZNEs2cHN5U3VzanJwOTR2bFctQ19iMnpvNFU4bVBISEN4VGExT1cxUmRmaFlicEtEYU8yNF9ZU1ZHdFdGX3NLVXpzQllvUUVZbFk1enR4eW5UanRMQ3JYczZTLU15YWFVdFFKei1rYmNMaXhrLTY1WGxvT3VsSGx6N0HSAbABQVVfeXFMUGxPOEZsdm9KRk5wVUtEdy1DMjBXYVpzWTNsTFVhTVhUZElxa1QyUzQ5YmdHUTJXNnEtRF84YUk0dC1FcEV1cm1NZWJWVGFWOVhWQlBLcHRld3lHWWQ0aG1ETWJNV2dzTGNBcndZcmNIV3NrdE5PU2RSRVltX1oxMmxZVmlBQUFXU1BxUER1TlU4S1Q4Nl84U0ZLT3c4Qk5yT1JGd0RBTy12SVJXQVBsUzA?oc=5)
+### [Nuevo avance en el HUCA: una tecnología pionera permite tratar lesiones craneales con alta precisión - La Voz de Asturias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmJJcjdXVkc1Y3dodDhpZTJYelNjWGlTS2FJT0hFQ0NPU1hEODRkak4taUJROExqWjlKd3FaQW9OdHAtbzgwYzVUVXRaazlDZTZaRXVsbEx0Rjl3eDN2cEF6WHpndnZ6LUFZRnVqcHNMTVNqSW9SNEsxaUNILWlqaHNWZXhYQzJFbFRIM0dkdGN1V19reHltYUNsMTV3MldrX0k3OWE5akw4YXIxanpyYXlRUlh5YTVuVkswcy1BeGUzd1dPWmh2Q3ZSaU5vRkhmeE5lZlI1ZVQ1QVFhdFZVTlo5T2lsWERqMkU3dW5mTVltY3dtUG15dWdma0ZyaXc?oc=5)
 
 2026-06-14 <span class="news-indication-tag">tumor</span>
 
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQldQT1JWUHpKd2k3QWV1d0JtN2dlVS10Rkk3eV9CdEQydGpwTWFEendZNEs2cHN5U3VzanJwOTR2bFctQ19iMnpvNFU4bVBISEN4VGExT1cxUmRmaFlicEtEYU8yNF9ZU1ZHdFdGX3NLVXpzQllvUUVZbFk1enR4eW5UanRMQ3JYczZTLU15YWFVdFFKei1rYmNMaXhrLTY1WGxvT3VsSGx6N0HSAbABQVVfeXFMUGxPOEZsdm9KRk5wVUtEdy1DMjBXYVpzWTNsTFVhTVhUZElxa1QyUzQ5YmdHUTJXNnEtRF84YUk0dC1FcEV1cm1NZWJWVGFWOVhWQlBLcHRld3lHWWQ0aG1ETWJNV2dzTGNBcndZcmNIV3NrdE5PU2RSRVltX1oxMmxZVmlBQUFXU1BxUER1TlU4S1Q4Nl84U0ZLT3c4Qk5yT1JGd0RBTy12SVJXQVBsUzA?oc=5)
+來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmJJcjdXVkc1Y3dodDhpZTJYelNjWGlTS2FJT0hFQ0NPU1hEODRkak4taUJROExqWjlKd3FaQW9OdHAtbzgwYzVUVXRaazlDZTZaRXVsbEx0Rjl3eDN2cEF6WHpndnZ6LUFZRnVqcHNMTVNqSW9SNEsxaUNILWlqaHNWZXhYQzJFbFRIM0dkdGN1V19reHltYUNsMTV3MldrX0k3OWE5akw4YXIxanpyYXlRUlh5YTVuVkswcy1BeGUzd1dPWmh2Q3ZSaU5vRkhmeE5lZlI1ZVQ1QVFhdFZVTlo5T2lsWERqMkU3dW5mTVltY3dtUG15dWdma0ZyaXc?oc=5)
 
 ---
 
-### [El HUCA amplía su capacidad para tratar lesiones cerebrales complejas con radiocirugía no invasiva de alta precisión - Principado de Asturias](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTXJKakJOUEJqUXBFWDktRWJMX3pncTJaRDh3N3FQS1F4Z0E2TEtWcEpCM2ZyVlN0QTZqZDFXR05SdlMwbHd0eFZVbVNSeGdMeXRvQmpPQV9kTjlGSHc?oc=5)
+### [Il paradosso della privacy: “Per gli screening oncologici costretti a mandare gli inviti via Posta” - La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmJEN1RaZmJPM1c3b0lGSDVEOUtVcDQwb3JsemNRWTEzekNDd211NkxRcTQ3SDUzbzRmWFg2UEZBcmR6R19PR0dVNU9xZk5va2lpa1pxUlRIZF9wMXhiOUI0aGdjaGo2TFdCVHZBdGROSXlZM29uU3NzVGZqTjhCbDhSTW5QWmlPWTRXYVY0bWJJbGhpRng0SldlMGVFVWFBdFJ5OTZqWGVYakg0dzQ5ZkdjdmdQSldX0gG-AUFVX3lxTFBTN0hUcnRKMlZrN3hsMHhHa3N0dHdNVVl5T1AyT1BBNTRFOEQ2S3JxR09GaGI3NWFMVU9KeEhieVZKaFZNWGN5dWFQTkM0OEdiTzN0amt2NVhpU2ZlZnJXQ0ZzYnZDYTdkdHZtMWpkQ195MXJxSHo3ZVpRVGxQbnVpR1daQXF6QVVlcUkzcjVxYjVpQkJpbDR4SEJMQkN4eFJhZldySFpOYXptTVNNZTV4SXRyeXRzVVhiOUV4SXc?oc=5)
 
 2026-06-14 <span class="news-indication-tag">tumor</span>
 
-來源：[Principado de Asturias](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTXJKakJOUEJqUXBFWDktRWJMX3pncTJaRDh3N3FQS1F4Z0E2TEtWcEpCM2ZyVlN0QTZqZDFXR05SdlMwbHd0eFZVbVNSeGdMeXRvQmpPQV9kTjlGSHc?oc=5)
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmJEN1RaZmJPM1c3b0lGSDVEOUtVcDQwb3JsemNRWTEzekNDd211NkxRcTQ3SDUzbzRmWFg2UEZBcmR6R19PR0dVNU9xZk5va2lpa1pxUlRIZF9wMXhiOUI0aGdjaGo2TFdCVHZBdGROSXlZM29uU3NzVGZqTjhCbDhSTW5QWmlPWTRXYVY0bWJJbGhpRng0SldlMGVFVWFBdFJ5OTZqWGVYakg0dzQ5ZkdjdmdQSldX0gG-AUFVX3lxTFBTN0hUcnRKMlZrN3hsMHhHa3N0dHdNVVl5T1AyT1BBNTRFOEQ2S3JxR09GaGI3NWFMVU9KeEhieVZKaFZNWGN5dWFQTkM0OEdiTzN0amt2NVhpU2ZlZnJXQ0ZzYnZDYTdkdHZtMWpkQ195MXJxSHo3ZVpRVGxQbnVpR1daQXF6QVVlcUkzcjVxYjVpQkJpbDR4SEJMQkN4eFJhZldySFpOYXptTVNNZTV4SXRyeXRzVVhiOUV4SXc?oc=5)
 
 ---
 

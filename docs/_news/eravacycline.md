@@ -14,7 +14,7 @@ permalink: /news/eravacycline/
 ---
 
 <p class="key-answer" data-question="Eravacycline 有什麼相關新聞？">
-<strong>Eravacycline</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eravacycline</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/eravacycline/
 <p><a href="{{ '/drugs/eravacycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（33 則）
 
-### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+### [Diabetes-Risiko: 40 Prozent Lebenszeitrisiko, doch nur 16% nehmen es wahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5)
 
-2026-06-15 <span class="news-indication-tag">Krebs</span>
+2026-06-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5)
 
 ---
 
@@ -70,11 +70,27 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Alzheimer: Neue Antikörper und Bluttests beschleunigen Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
+### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
-2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [Monmouthshire mum says she may have avoided ovarian cancer if she lived in England](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUjNxekdqX2tUYjEzTjkwTEp2Y2xMZ244ME04LTE5d2l5R05NQU9jbXRNTGlxQnNHdXdNblpzUHZKNGdVMENSNlRmb2xsek9CaVNiM3UzaDZZQjlJ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUjNxekdqX2tUYjEzTjkwTEp2Y2xMZ244ME04LTE5d2l5R05NQU9jbXRNTGlxQnNHdXdNblpzUHZKNGdVMENSNlRmb2xsek9CaVNiM3UzaDZZQjlJ?oc=5)
+
+---
+
+### [Maladie d’Alzheimer : des chercheurs de la Côte d’Azur font une découverte décisive](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFZWVBpc1doWmoxVERMckZPRnpFQVl4Z2xURzRaOGdzMTlsOEg1S2s2WXRNc3hCdWUybkFOMUZKbExOX0NIaE1MaGx2ZWVhUnYteXNkeWw4ZzBqUkpuNHZsSTI0cVpKdWQtMmdqZUs1Nkl3RWkwQ09oYVRyNEl1UUh4bmNJU2NqREtfSDFUQ0puTG53NF9fdXJRQkhDaVNqclV4SHlUbC1JdHNPX3dQd3BXM1h0MHloZlBBQ1psUQ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Nice-Matin](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFZWVBpc1doWmoxVERMckZPRnpFQVl4Z2xURzRaOGdzMTlsOEg1S2s2WXRNc3hCdWUybkFOMUZKbExOX0NIaE1MaGx2ZWVhUnYteXNkeWw4ZzBqUkpuNHZsSTI0cVpKdWQtMmdqZUs1Nkl3RWkwQ09oYVRyNEl1UUh4bmNJU2NqREtfSDFUQ0puTG53NF9fdXJRQkhDaVNqclV4SHlUbC1JdHNPX3dQd3BXM1h0MHloZlBBQ1psUQ?oc=5)
 
 ---
 
@@ -120,7 +136,7 @@ permalink: /news/eravacycline/
 
 ### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
-2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
@@ -147,6 +163,14 @@ permalink: /news/eravacycline/
 2026-06-15 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXdCWVBmTTlsVEw5dVRRaldKSlVRMlZKdEhHS0kwZUo4UVFhaVFPX0dfYkU3QWI0dGNQRXg1QUdxYnNjT2s0WjNhSlBkOU9xM28zWmJMeVRMeS1HQ0ltclhBb0ZyTjdYN2V1M1p3QkRHSGlORGpDLUpRR2NpNmh2U1U2NzVSYVZZbkVqMWVNeW1zZ1dQaTlUNm1iTHlDczkxWXduMVk2N084V3U4MDZz?oc=5)
+
+---
+
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 
@@ -214,14 +238,6 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
-
----
-
 ### [Tumore al colon, la tecnica dei magneti per operare i pazienti: «Così il recupero è più veloce - Corriere Bergamo](https://news.google.com/rss/articles/CBMimwJBVV95cUxNaWJHUzZWWDBWNWVZRVdVOVpFRTdUMjYyOVVFb0dTeDRTY2IyaVE2a3lWZGRLb1ZDNjNHQU85bHRzYldXbmQ5SFFfLWZ0MjNSRmFROHpLQzJxdGtONUVIeHRXWXU4Q3I3bm5ySzUtRWRFa1c2TXVCaHFzRGhsU3dHNFdUc0dIOXh4UE85NmxjMmYySVhJTnlfYnkxRmZHWjdqWmRUTHU4NWk5cXJPMXE5U3l6WmRkdi1tM29FWUpWcTRRSGhyNGY3UFZHb2tzaUxXOUdMaElOTmxaOEhMQzZvbXdXdG94Z1VUZk1vS1QzcWdJd3YtUEVBY2ZGRDdRU3lzMkMxMEszZ1R2bXd0VV9Gb19INGRmUExPY3pj?oc=5)
 
 2026-06-15 <span class="news-indication-tag">tumor</span>
@@ -262,19 +278,19 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Lotta ai tumori, raggiunti tutti i piemontesi a rischio. Ma meno del 50% si sottopone a screening - La Stampa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQldQT1JWUHpKd2k3QWV1d0JtN2dlVS10Rkk3eV9CdEQydGpwTWFEendZNEs2cHN5U3VzanJwOTR2bFctQ19iMnpvNFU4bVBISEN4VGExT1cxUmRmaFlicEtEYU8yNF9ZU1ZHdFdGX3NLVXpzQllvUUVZbFk1enR4eW5UanRMQ3JYczZTLU15YWFVdFFKei1rYmNMaXhrLTY1WGxvT3VsSGx6N0HSAbABQVVfeXFMUGxPOEZsdm9KRk5wVUtEdy1DMjBXYVpzWTNsTFVhTVhUZElxa1QyUzQ5YmdHUTJXNnEtRF84YUk0dC1FcEV1cm1NZWJWVGFWOVhWQlBLcHRld3lHWWQ0aG1ETWJNV2dzTGNBcndZcmNIV3NrdE5PU2RSRVltX1oxMmxZVmlBQUFXU1BxUER1TlU4S1Q4Nl84U0ZLT3c4Qk5yT1JGd0RBTy12SVJXQVBsUzA?oc=5)
+### [Nuevo avance en el HUCA: una tecnología pionera permite tratar lesiones craneales con alta precisión - La Voz de Asturias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmJJcjdXVkc1Y3dodDhpZTJYelNjWGlTS2FJT0hFQ0NPU1hEODRkak4taUJROExqWjlKd3FaQW9OdHAtbzgwYzVUVXRaazlDZTZaRXVsbEx0Rjl3eDN2cEF6WHpndnZ6LUFZRnVqcHNMTVNqSW9SNEsxaUNILWlqaHNWZXhYQzJFbFRIM0dkdGN1V19reHltYUNsMTV3MldrX0k3OWE5akw4YXIxanpyYXlRUlh5YTVuVkswcy1BeGUzd1dPWmh2Q3ZSaU5vRkhmeE5lZlI1ZVQ1QVFhdFZVTlo5T2lsWERqMkU3dW5mTVltY3dtUG15dWdma0ZyaXc?oc=5)
 
 2026-06-14 <span class="news-indication-tag">tumor</span>
 
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQldQT1JWUHpKd2k3QWV1d0JtN2dlVS10Rkk3eV9CdEQydGpwTWFEendZNEs2cHN5U3VzanJwOTR2bFctQ19iMnpvNFU4bVBISEN4VGExT1cxUmRmaFlicEtEYU8yNF9ZU1ZHdFdGX3NLVXpzQllvUUVZbFk1enR4eW5UanRMQ3JYczZTLU15YWFVdFFKei1rYmNMaXhrLTY1WGxvT3VsSGx6N0HSAbABQVVfeXFMUGxPOEZsdm9KRk5wVUtEdy1DMjBXYVpzWTNsTFVhTVhUZElxa1QyUzQ5YmdHUTJXNnEtRF84YUk0dC1FcEV1cm1NZWJWVGFWOVhWQlBLcHRld3lHWWQ0aG1ETWJNV2dzTGNBcndZcmNIV3NrdE5PU2RSRVltX1oxMmxZVmlBQUFXU1BxUER1TlU4S1Q4Nl84U0ZLT3c4Qk5yT1JGd0RBTy12SVJXQVBsUzA?oc=5)
+來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmJJcjdXVkc1Y3dodDhpZTJYelNjWGlTS2FJT0hFQ0NPU1hEODRkak4taUJROExqWjlKd3FaQW9OdHAtbzgwYzVUVXRaazlDZTZaRXVsbEx0Rjl3eDN2cEF6WHpndnZ6LUFZRnVqcHNMTVNqSW9SNEsxaUNILWlqaHNWZXhYQzJFbFRIM0dkdGN1V19reHltYUNsMTV3MldrX0k3OWE5akw4YXIxanpyYXlRUlh5YTVuVkswcy1BeGUzd1dPWmh2Q3ZSaU5vRkhmeE5lZlI1ZVQ1QVFhdFZVTlo5T2lsWERqMkU3dW5mTVltY3dtUG15dWdma0ZyaXc?oc=5)
 
 ---
 
-### [El HUCA amplía su capacidad para tratar lesiones cerebrales complejas con radiocirugía no invasiva de alta precisión - Principado de Asturias](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTXJKakJOUEJqUXBFWDktRWJMX3pncTJaRDh3N3FQS1F4Z0E2TEtWcEpCM2ZyVlN0QTZqZDFXR05SdlMwbHd0eFZVbVNSeGdMeXRvQmpPQV9kTjlGSHc?oc=5)
+### [Il paradosso della privacy: “Per gli screening oncologici costretti a mandare gli inviti via Posta” - La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmJEN1RaZmJPM1c3b0lGSDVEOUtVcDQwb3JsemNRWTEzekNDd211NkxRcTQ3SDUzbzRmWFg2UEZBcmR6R19PR0dVNU9xZk5va2lpa1pxUlRIZF9wMXhiOUI0aGdjaGo2TFdCVHZBdGROSXlZM29uU3NzVGZqTjhCbDhSTW5QWmlPWTRXYVY0bWJJbGhpRng0SldlMGVFVWFBdFJ5OTZqWGVYakg0dzQ5ZkdjdmdQSldX0gG-AUFVX3lxTFBTN0hUcnRKMlZrN3hsMHhHa3N0dHdNVVl5T1AyT1BBNTRFOEQ2S3JxR09GaGI3NWFMVU9KeEhieVZKaFZNWGN5dWFQTkM0OEdiTzN0amt2NVhpU2ZlZnJXQ0ZzYnZDYTdkdHZtMWpkQ195MXJxSHo3ZVpRVGxQbnVpR1daQXF6QVVlcUkzcjVxYjVpQkJpbDR4SEJMQkN4eFJhZldySFpOYXptTVNNZTV4SXRyeXRzVVhiOUV4SXc?oc=5)
 
 2026-06-14 <span class="news-indication-tag">tumor</span>
 
-來源：[Principado de Asturias](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTXJKakJOUEJqUXBFWDktRWJMX3pncTJaRDh3N3FQS1F4Z0E2TEtWcEpCM2ZyVlN0QTZqZDFXR05SdlMwbHd0eFZVbVNSeGdMeXRvQmpPQV9kTjlGSHc?oc=5)
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmJEN1RaZmJPM1c3b0lGSDVEOUtVcDQwb3JsemNRWTEzekNDd211NkxRcTQ3SDUzbzRmWFg2UEZBcmR6R19PR0dVNU9xZk5va2lpa1pxUlRIZF9wMXhiOUI0aGdjaGo2TFdCVHZBdGROSXlZM29uU3NzVGZqTjhCbDhSTW5QWmlPWTRXYVY0bWJJbGhpRng0SldlMGVFVWFBdFJ5OTZqWGVYakg0dzQ5ZkdjdmdQSldX0gG-AUFVX3lxTFBTN0hUcnRKMlZrN3hsMHhHa3N0dHdNVVl5T1AyT1BBNTRFOEQ2S3JxR09GaGI3NWFMVU9KeEhieVZKaFZNWGN5dWFQTkM0OEdiTzN0amt2NVhpU2ZlZnJXQ0ZzYnZDYTdkdHZtMWpkQ195MXJxSHo3ZVpRVGxQbnVpR1daQXF6QVVlcUkzcjVxYjVpQkJpbDR4SEJMQkN4eFJhZldySFpOYXptTVNNZTV4SXRyeXRzVVhiOUV4SXc?oc=5)
 
 ---
 

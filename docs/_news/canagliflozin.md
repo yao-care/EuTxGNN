@@ -3,7 +3,7 @@ layout: default
 title: "Canagliflozin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Canagliflozin 的相關健康新聞報導。原適應症：Vokanamet is indicated in adults aged 18 years and...。預測適應症 20 個。"
+description: "Canagliflozin 的相關健康新聞報導。原適應症：Vokanamet is indicated in adults aged 18 years and...。預測適應症 9 個。"
 permalink: /news/canagliflozin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/canagliflozin/
 ---
 
 <p class="key-answer" data-question="Canagliflozin 有什麼相關新聞？">
-<strong>Canagliflozin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Canagliflozin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,33 +26,30 @@ permalink: /news/canagliflozin/
 <ul>
 <li><strong>原適應症</strong>：Vokanamet is indicated in adults aged 18 years and older with type 2 diabetes mellitus as an adjunct to diet and exercise to improve glycaemic control:  in patients not adequately controlled on their...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>classic stiff person syndrome（97.9%）</li>
-<li>focal stiff limb syndrome（97.9%）</li>
-<li>opsismodysplasia（97.8%）</li>
-<li>thiamine-responsive dysfunction syndrome（97.7%）</li>
-<li>diabetes mellitus (disease)（97.6%）</li>
-<li>drug-induced localized lipodystrophy（96.6%）</li>
-<li>centrifugal lipodystrophy（96.4%）</li>
-<li>pressure-induced localized lipoatrophy（96.3%）</li>
-<li>idiopathic localized lipodystrophy（96.2%）</li>
-<li>pancreatic agenesis（96.0%）</li>
-<li>autoimmune oophoritis（82.4%）</li>
-<li>type 1 diabetes mellitus（81.0%）</li>
-<li>homozygous familial hypercholesterolemia（72.2%）</li>
-<li>atrial flutter (disease)（62.9%）</li>
-<li>cholangiocarcinoma, susceptibility to（62.0%）</li>
-<li>hemoglobin C-beta-thalassemia syndrome（60.8%）</li>
-<li>congenital temporomandibular joint ankylosis（59.1%）</li>
-<li>hypercarotenemia and vitamin A deficiency, autosomal recessive（58.4%）</li>
-<li>sudden arrhythmia death syndrome（58.1%）</li>
-<li>polydipsia（57.5%）</li>
+<li><strong>預測適應症</strong>（9 個）：<ul>
+<li>Focal Stiff Limb Syndrome | 97.92% | ✗ No mechanistic basis — anti-GAD65 autoimmune pathway unrelated to SGLT2（99.0%）</li>
+<li>Classic Stiff Person Syndrome | 97.92% | ✗ Identical score to Rank 1; same KG node, same implausibility（99.0%）</li>
+<li>Opsismodysplasia | 97.81% | ✗ SHIP2/PI3K mutation in bone development; SGLT2 has no effect on SHIP2（99.0%）</li>
+<li>Thiamine-Responsive Dysfunction Syndrome | 97.70% | ✗ Symptomatic glucose control for one component of a B1-deficiency syndrome; not a true repurposing（99.0%）</li>
+<li>Drug-Induced Localized Lipodystrophy | 96.59% | ✗ Mechanical/inflammatory cause; SGLT2i promotes global fat reduction, opposite direction（99.0%）</li>
+<li>Centrifugal Lipodystrophy | 96.43% | ✗ Complement C3-mediated fat loss; SGLT2 has no complement pathway effect（99.0%）</li>
+<li>Pressure-Induced Localized Lipoatrophy | 96.33% | ✗ Mechanical injury mechanism; no SGLT2 role（99.0%）</li>
+<li>Idiopathic Localized Lipodystrophy | 96.16% | ✗ Scores 5→8 form a tight band (0.966→0.962), confirming systematic group-level error（99.0%）</li>
+<li>Autoimmune Oophoritis | 82.37% | ✗ Lowest score in set; organ-specific T-cell autoimmunity unaffected by SGLT2i（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/canagliflozin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Diabetes-Risiko: 40 Prozent Lebenszeitrisiko, doch nur 16% nehmen es wahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5)
+
+2026-06-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5)
+
+---
 
 ### [BALD ANMELDESCHLUSS: Nächster Online Diabetes-Kids Elterntreff am Donnerstag den 18. Jun.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
 
@@ -70,11 +67,11 @@ permalink: /news/canagliflozin/
 
 ---
 
-### [Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
-2026-06-15 <span class="news-indication-tag">diabetes</span>
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 

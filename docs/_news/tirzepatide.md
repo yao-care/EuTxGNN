@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Remboursement de Mounjaro et Wegovy : les points à contrôler avant de facturer - Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlJuZDd4UWlLYjBSQmFvR1BtbjJGSDNtRndTLS1XWGIwYTU3eGJwNE5yYU5VU2ZpcWZacUg2enprbEM2Wkg3Z0pxNFJxbk10NWZOZDdoeDRwV3cwdXNoektWV0FYa3VRZ2NubnJlRmx2N3hja01mczJ6cGFfWjE0YW9pak5jbzlIVmxTd1JxT0FXV3hyTUtNMURNTVVFejVLYmw3dnk0aWJCVXluN1ZSczdVUExscEYta01LX3hJOUxsTnpsbVo1Qm9PRnlaMWp3NkU5bUN3QmR3Q3ZITHdNOHU3dw?oc=5)
 
 2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Quotidien du Pharmacien](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMlJuZDd4UWlLYjBSQmFvR1BtbjJGSDNtRndTLS1XWGIwYTU3eGJwNE5yYU5VU2ZpcWZacUg2enprbEM2Wkg3Z0pxNFJxbk10NWZOZDdoeDRwV3cwdXNoektWV0FYa3VRZ2NubnJlRmx2N3hja01mczJ6cGFfWjE0YW9pak5jbzlIVmxTd1JxT0FXV3hyTUtNMURNTVVFejVLYmw3dnk0aWJCVXluN1ZSczdVUExscEYta01LX3hJOUxsTnpsbVo1Qm9PRnlaMWp3NkU5bUN3QmR3Q3ZITHdNOHU3dw?oc=5)
-
----
-
-### [Los científicos identifican el fármaco que reduce la pérdida de masa muscular en los medicamentos para perder peso](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
-
-2026-06-14 <span class="news-drug-tag">Tirzepatide</span>
-
-來源：[SPORT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
 
 ---
 

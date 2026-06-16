@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Common prescription drugs linked to dementia risk in over-55s - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXRmVUhDYlZWeldvUWlXallzVGxkZDNBLWx4d2l2Mng2SXVJYVpaUnpLbTlaUTNWWWRNUUtQbElJZ3k4ZmMtWFFQUUdwZGtQRHJCSF9rSC1kcXJjeExJY1VidUF1M1czN1NvSjVWQllZcF85NkNES2dseVdnMERrWG5wV3dlVVZXRVRkOE9BQmNhX2ZWVUlfR9IBngFBVV95cUxPNU1ObWVFNFdFeUJ4d3NKclVQaGJ3R05mMEdOUDl1QXJVX3I3Wmg4eXcyOE8zTXFSdFYzS3picUl1VHd4VUhSb3VnR0Vjc280dDdzRnhweGQ0UVpPSWRJeVpuNkZOM3FiTVZfSjZ5OWp0cmcta0R4LVdXSlNySDZWMDJYaThpZXdIUGtLQUNNTFgzS0d1Sndyb2hDSlFrdw?oc=5)
+
+2026-06-15
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXRmVUhDYlZWeldvUWlXallzVGxkZDNBLWx4d2l2Mng2SXVJYVpaUnpLbTlaUTNWWWRNUUtQbElJZ3k4ZmMtWFFQUUdwZGtQRHJCSF9rSC1kcXJjeExJY1VidUF1M1czN1NvSjVWQllZcF85NkNES2dseVdnMERrWG5wV3dlVVZXRVRkOE9BQmNhX2ZWVUlfR9IBngFBVV95cUxPNU1ObWVFNFdFeUJ4d3NKclVQaGJ3R05mMEdOUDl1QXJVX3I3Wmg4eXcyOE8zTXFSdFYzS3picUl1VHd4VUhSb3VnR0Vjc280dDdzRnhweGQ0UVpPSWRJeVpuNkZOM3FiTVZfSjZ5OWp0cmcta0R4LVdXSlNySDZWMDJYaThpZXdIUGtLQUNNTFgzS0d1Sndyb2hDSlFrdw?oc=5)
+
+---
+
+### [I’ve just found out I have dementia. I’m so scared - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
+
+2026-06-15
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
+
+---
 
 ### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
@@ -54,11 +70,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Three carers reveal what it's like living with dementia 24/7 - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNaVFDSWg2alFYaXplT2lfSXlQY0puYlRoRUhZWWN0MXhMeDgxQmF1V0J6cXRxcjJnU19UNWpaV3N5NG90a1JoT3hCUXFtaHotQVQzVTVlYkdlNmM1eXJmMnZ5anJSaVRsNUhBNThDdFlMSVFwc0VGM1lUeVFuclpzR0FqZmg4ZHFMTy1fZXhFUdIBlAFBVV95cUxNb0RVcGJmaDlBR2c0N256M0haUXhqdHFiaWZXWXFtd0RwTzhQeGJpTzB0QVNHMW83Vy0zWHVnM3ZMTHZoM0p6d3JhMThXbEZiWUJmcFVXTEZYUGctSm5DRjgxQnhpR0ZhbGFMRFRwOEZyZnViaFZpb0xIR0F3WEVYRHBuMmluYmxPUG9CcVRmbF96cXc5?oc=5)
+### [People living with dementia are too often overlooked | Letters - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
 
 2026-06-14
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNaVFDSWg2alFYaXplT2lfSXlQY0puYlRoRUhZWWN0MXhMeDgxQmF1V0J6cXRxcjJnU19UNWpaV3N5NG90a1JoT3hCUXFtaHotQVQzVTVlYkdlNmM1eXJmMnZ5anJSaVRsNUhBNThDdFlMSVFwc0VGM1lUeVFuclpzR0FqZmg4ZHFMTy1fZXhFUdIBlAFBVV95cUxNb0RVcGJmaDlBR2c0N256M0haUXhqdHFiaWZXWXFtd0RwTzhQeGJpTzB0QVNHMW83Vy0zWHVnM3ZMTHZoM0p6d3JhMThXbEZiWUJmcFVXTEZYUGctSm5DRjgxQnhpR0ZhbGFMRFRwOEZyZnViaFZpb0xIR0F3WEVYRHBuMmluYmxPUG9CcVRmbF96cXc5?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
 
 ---
 

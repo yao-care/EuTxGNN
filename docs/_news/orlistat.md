@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [Boehringer Ingelheim anuncia datos de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
+
+2026-06-15 <span class="news-indication-tag">obesidad</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
+
+---
 
 ### [Acción precoz para evitar mayor carga futura por hígado graso temprano - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc0Tl9LVmQzUVRNZU4tQS1ESUNrVWJCR0EtZVJCQWVPZ3hQeVJwUnFRTjY4cF96bFRSM1U4MXEwNmtfeTNnRldWVXFWZGxtQW4xeFVSTTVSYzdRT20ydDJ2b2hVVWdvb2NERE5XajRaOXlUNGtTWllSUjQyazRNTzF0U3BmUTEzWUJGS0VvSzBaNVBfVWlGb0ZGeWpYMVE5TDA5ZFVQaVdOa2hvNXV4eFpiSlVnNTE5aUNqQ2h6dmFuYzlnd1HSAcYBQVVfeXFMUGV1eG42ekVUVlBYbFhOVkhYd2lTY1ltYTRXVzAwZGdWWFBPcDJRWk8zVldfbmp6UFdfVkhjNnZ4MW1QLTBjeWVkU1ltcEpXX3RLaUdtcGM5d1J5S2NGNnU5MmZ2alpla0dObWtWeGdPZ2dSV1hIME9ETE5LLWJ1dXp0a2xaQzdGZ3ZzVXhOX3RrYmp2NFZwaVpaeG1heEx5VmxpWm5RWUZMRDNqclg3VmwwWUFld2pwb0lxaEJsbnR3OEM3LTln?oc=5)
 
-2026-06-15 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">obesidad</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc0Tl9LVmQzUVRNZU4tQS1ESUNrVWJCR0EtZVJCQWVPZ3hQeVJwUnFRTjY4cF96bFRSM1U4MXEwNmtfeTNnRldWVXFWZGxtQW4xeFVSTTVSYzdRT20ydDJ2b2hVVWdvb2NERE5XajRaOXlUNGtTWllSUjQyazRNTzF0U3BmUTEzWUJGS0VvSzBaNVBfVWlGb0ZGeWpYMVE5TDA5ZFVQaVdOa2hvNXV4eFpiSlVnNTE5aUNqQ2h6dmFuYzlnd1HSAcYBQVVfeXFMUGV1eG42ekVUVlBYbFhOVkhYd2lTY1ltYTRXVzAwZGdWWFBPcDJRWk8zVldfbmp6UFdfVkhjNnZ4MW1QLTBjeWVkU1ltcEpXX3RLaUdtcGM5d1J5S2NGNnU5MmZ2alpla0dObWtWeGdPZ2dSV1hIME9ETE5LLWJ1dXp0a2xaQzdGZ3ZzVXhOX3RrYmp2NFZwaVpaeG1heEx5VmxpWm5RWUZMRDNqclg3VmwwWUFld2pwb0lxaEJsbnR3OEM3LTln?oc=5)
 
@@ -70,11 +78,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Survodutida muestra potencial para abordar la obesidad más allá de la pérdida de peso - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXk3aG9oME5VbGtJdjNmUFV2TjN3UzE0VzZaWEQ1bXpRd1NUUm5uRXlLZ0loV1ExQWpoUVRfY2NrcDdVaUM2VXVaSGk2bHdKbkY4b3pMT1N5eUlxWXNQVlpYcDZ5NGRDdWpvN1dJNm9KblVDMHBZZ0RkTUpLTk5EMzFtc0ZMcXRfMEd2RnU3Nk81ZUJOdGNQa0FfNzhmQXJwTDNCMGdJV0w4RUJDalZZSUdDSC1pVVZ5UFNuV2wycXfSAbsBQVVfeXFMTXZQUzRqN1Z1c2oxWG1SazBDS0owcG5vajRJWEkxRTA4RjNMRWpaYTlmVVFXN0gyQS1BSXZUZk80RzlGazlhUDA5N2k4bWJadEN6dmcxd3hXRFJFOTF0RkZGWVBZNWhmWWlnZ0pqdXBMWm9KWWRhVVVFUUZ2Q0lJSjV3d3RUOEZxd0FQMTVWbWpUbDRlZ3BCM2F2MjVueW1ibzRYd3NxQS16aUhrSHlPZHZZM0x2U1NwOUFQQQ?oc=5)
+### [Herzinfarkt und Schlaganfall: 99 Prozent lassen sich verhindern - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTh3cEZGZDFHbEN5VmYyMHFNMkgwelNtZ3dyVDUwekxsWXBfN0xVcUZURFZUWDlCOFJNbi1Cbmd2anU3MFZhWjFwcDgwV0VCaFR0NWFKYzRRenhzSTdXd2xFWG1DblNnbERuNTNkMExvV2FFZFcxRlpEV3A5YURHZV9tSlQ3OE5BREwyY1JlLWdPQTB0UDRGQWQzY3IwTGZQMkdkLVBxTGlTRmFxMTNINQ?oc=5)
 
-2026-06-15 <span class="news-indication-tag">obesidad</span>
+2026-06-15 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXk3aG9oME5VbGtJdjNmUFV2TjN3UzE0VzZaWEQ1bXpRd1NUUm5uRXlLZ0loV1ExQWpoUVRfY2NrcDdVaUM2VXVaSGk2bHdKbkY4b3pMT1N5eUlxWXNQVlpYcDZ5NGRDdWpvN1dJNm9KblVDMHBZZ0RkTUpLTk5EMzFtc0ZMcXRfMEd2RnU3Nk81ZUJOdGNQa0FfNzhmQXJwTDNCMGdJV0w4RUJDalZZSUdDSC1pVVZ5UFNuV2wycXfSAbsBQVVfeXFMTXZQUzRqN1Z1c2oxWG1SazBDS0owcG5vajRJWEkxRTA4RjNMRWpaYTlmVVFXN0gyQS1BSXZUZk80RzlGazlhUDA5N2k4bWJadEN6dmcxd3hXRFJFOTF0RkZGWVBZNWhmWWlnZ0pqdXBMWm9KWWRhVVVFUUZ2Q0lJSjV3d3RUOEZxd0FQMTVWbWpUbDRlZ3BCM2F2MjVueW1ibzRYd3NxQS16aUhrSHlPZHZZM0x2U1NwOUFQQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTh3cEZGZDFHbEN5VmYyMHFNMkgwelNtZ3dyVDUwekxsWXBfN0xVcUZURFZUWDlCOFJNbi1Cbmd2anU3MFZhWjFwcDgwV0VCaFR0NWFKYzRRenhzSTdXd2xFWG1DblNnbERuNTNkMExvV2FFZFcxRlpEV3A5YURHZV9tSlQ3OE5BREwyY1JlLWdPQTB0UDRGQWQzY3IwTGZQMkdkLVBxTGlTRmFxMTNINQ?oc=5)
+
+---
+
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
+
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 
@@ -123,14 +139,6 @@ permalink: /news/orlistat/
 2026-06-14 <span class="news-indication-tag">ictus</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRteHpHTHJ3TlBLb3ZxLXQyVTNXT1dyRTdtYm5PakEwbGVId1QyMHBqWkltUGtZRnBSempsdG9EOHNvelFGTl9TTk9zbjM0aEVkX1VxMmZ5MDBQRnFJbE4wenJuczFnU2kzMF9JY2F5dW5PSXpvY3VQanZoNXJlSGhNZ01Wc2tmbTJGak03NHNpZjNUdm9DOTlkSHU5Qy1oTWltcFVObm5OV2h3OUJBcTJqcUNtM3cydnUzZDQ2OTQ3b0FwT3JN?oc=5)
-
----
-
-### [« On était sur une première mondiale » : Guillaume Charvet, le chercheur grenoblois qui fait remarcher les paralysés - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
-
-2026-06-14 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5)
 
 ---
 

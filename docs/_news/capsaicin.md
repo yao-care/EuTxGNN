@@ -3,7 +3,7 @@ layout: default
 title: "Capsaicin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Capsaicin 的相關健康新聞報導。原適應症：Qutenza is indicated for the treatment of peripher...。預測適應症 20 個。"
+description: "Capsaicin 的相關健康新聞報導。原適應症：Qutenza is indicated for the treatment of peripher...。預測適應症 2 個。"
 permalink: /news/capsaicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Capsaicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,9 @@ permalink: /news/capsaicin/
 <ul>
 <li><strong>原適應症</strong>：Qutenza is indicated for the treatment of peripheral neuropathic pain in adults either alone or in combination with other medicinal products for pain.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>neuralgia（98.9%）</li>
-<li>otitis externa（98.8%）</li>
-<li>post-bacterial disorder（98.7%）</li>
-<li>postinfectious vasculitis（98.7%）</li>
-<li>infective urethral stricture（98.7%）</li>
-<li>post-infectious syndrome（98.7%）</li>
-<li>Chagas cardiomyopathy（98.6%）</li>
-<li>papillary conjunctivitis（98.6%）</li>
-<li>infection-related hemolytic uremic syndrome（98.5%）</li>
-<li>tinea corporis（98.1%）</li>
-<li>rosacea conjunctivitis（96.6%）</li>
-<li>rosacea（96.5%）</li>
-<li>atopic conjunctivitis（96.3%）</li>
-<li>lichen disease（95.9%）</li>
-<li>glossodynia（95.6%）</li>
-<li>coccygodynia（95.5%）</li>
-<li>blepharoconjunctivitis（95.2%）</li>
-<li>rhinitis（95.0%）</li>
-<li>cauda equina syndrome（95.0%）</li>
-<li>pityriasis simplex（94.7%）</li>
+<li><strong>預測適應症</strong>（2 個）：<ul>
+<li>Post-bacterial disorder | L4 | [NCT06807164](https://clinicaltrials.gov/study/NCT06807164) (Phase 2, n=123, Recruiting) | Three-arm RCT directly comparing capsaicin vs. Serratus Plane Block vs. Botox-A for chronic post-mastectomy neuropathic pain; TRPV1 desensitization mechanism is directly applicable（99.0%）</li>
+<li>Post-infectious syndrome | L4 | 3 observational trials + 4 mechanism papers | TRPV1 sensitization in post-infectious IBS documented in clinical cohort (PMID 29051514); TRPV1-resolvin interaction supports desensitization strategy (PMID 33023902)（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>

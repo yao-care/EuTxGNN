@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Noah Praamsma, nutricionista: "Muchos alimentos ultraprocesados son en realidad beneficiosos para la salud"](https://news.google.com/rss/articles/CBMizgFBVV95cUxNYm9uakNHc3lEZFhFZ3hTNENDU01pOGJoVXh2aHpDVFRKY0VrVnVOdHNZM2RROEQ1OU5iVWdwajlzRGJjZDc2R2EwZkc0WVJlcnBfcGRfczkzNElLMFVRb3JQMHFMbjVrNW1jVkdmVk1TYThQUzFXdUNVYXkyM09kN0VzOFppTzkzaXhFZndZeFFaUnlpek5OMG0xTVc2Q2JIQWpmMlNOMzMycWpLQ2Z2d2xWUEVmMnFVbTBkYUFGcTg3MWxNLWFDbXdDWnoxZ9IB0wFBVV95cUxPaW5NSk0xY0Fpb2VpU3l4ZnR0RFc3WTh4M09TWUZXakFFNFk0VFlieWtHWDJfTEg1cWdzQlVGakpoaXBkaGVidnUxcTZVeUFPQ05heDFBYkJubUp0dkttZVBabHJGVmlpdllOS3paVXNuOVcwOFRpeUo2YXBxX2NVTWg5NDVnaG8zVWt0OC1iYU82alBsY0lBVTFyTU5DR2FDYWVXcDZfOTcyYlV0QlFQNXpsei13LVJfRkRsUnZDNGNONG56MHZHb01JNmpLS3NiVUZr?oc=5)
 
@@ -72,17 +72,9 @@ permalink: /news/sofosbuvir/
 
 ### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
-2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
-
----
-
-### [Badalona lidera la investigación de la OMS sobre el hantavirus de los Andes](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVk9GazVoTmtLajFjZTdlS1BJeXB5bEJUdlZjdlQwY01rUXRiZGZmbHQyX25XUWQ0eDRpaVB6V3VtaTVLWWxhUnVxRERyaUg1UDkzYXdNU1NscDA3LVpPQTAyZHVSOHI0TTlVd0gzSDUzclI0TUtKV1F0UERXU3NFR0NsblNEWFNPYU5YMWFuRzd3VlJ5LU1aeEo1YXpMMmo0ZmNtcTlOcVYyeWk0VGpmZDMxMFFIeXNXWWNnbnJLUjZpcTZVYW1tLXAtOFF1cEJIRU5uaA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">MS</span>
-
-來源：[CatalunyaPress](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVk9GazVoTmtLajFjZTdlS1BJeXB5bEJUdlZjdlQwY01rUXRiZGZmbHQyX25XUWQ0eDRpaVB6V3VtaTVLWWxhUnVxRERyaUg1UDkzYXdNU1NscDA3LVpPQTAyZHVSOHI0TTlVd0gzSDUzclI0TUtKV1F0UERXU3NFR0NsblNEWFNPYU5YMWFuRzd3VlJ5LU1aeEo1YXpMMmo0ZmNtcTlOcVYyeWk0VGpmZDMxMFFIeXNXWWNnbnJLUjZpcTZVYW1tLXAtOFF1cEJIRU5uaA?oc=5)
 
 ---
 
@@ -118,19 +110,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Psilocybin als Testfall für vorübergehend zugängliche Gehirnareale bei Alzheimer? - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUxWRWNnWXNLQmVPd21pMXhqT2dCbHRRMU5aVFhhS2J1OVh1Wnd1SWxVbXlWS2ZEcjRKRld0Z3p2YmVoQzlNbU5vY2xJS01xWVJXRWhTQnBnYVktbHpXcVR1Z1lZVXVGWmtSdU01M0tUYkYxZHdHdDg1VFo4eVk2MjNlMjhyMzdjQWozS1ZJUVplT0x3REZjTHk0M3pKdFozVnozVm1HcTdwbVdsdGxkd0FLUTI4UQ?oc=5)
+### [Un mese di ebola nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2FlaVUxX2dpNXpURHJicmdaWm5Idzcxemo2WEgyZFQ1NzRqM3I2QWlyWHJicktyTnFDYXdWZVNVUHdNc1RBSHNEUXI2WjkyNFJfSDJnVlVjdUk5Y0luSm5MMHZDUUMyTFlGdjJCb2E1UXZWWWFWT3pXSndjWXVfMDM0SHFuM0I2OEhCT1Vn?oc=5)
 
-2026-06-14 <span class="news-indication-tag">MS</span>
+2026-06-15 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUxWRWNnWXNLQmVPd21pMXhqT2dCbHRRMU5aVFhhS2J1OVh1Wnd1SWxVbXlWS2ZEcjRKRld0Z3p2YmVoQzlNbU5vY2xJS01xWVJXRWhTQnBnYVktbHpXcVR1Z1lZVXVGWmtSdU01M0tUYkYxZHdHdDg1VFo4eVk2MjNlMjhyMzdjQWozS1ZJUVplT0x3REZjTHk0M3pKdFozVnozVm1HcTdwbVdsdGxkd0FLUTI4UQ?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2FlaVUxX2dpNXpURHJicmdaWm5Idzcxemo2WEgyZFQ1NzRqM3I2QWlyWHJicktyTnFDYXdWZVNVUHdNc1RBSHNEUXI2WjkyNFJfSDJnVlVjdUk5Y0luSm5MMHZDUUMyTFlGdjJCb2E1UXZWWWFWT3pXSndjWXVfMDM0SHFuM0I2OEhCT1Vn?oc=5)
 
 ---
 
-### [Ebola one month on: will the latest outbreak in DRC become the most deadly yet? - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
+### [This Painful Condition Impacts Women Way More Than Men, And You Need To Know About It](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
 
-2026-06-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-14 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5)
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dasatinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dasatinib Monohydrate 有什麼相關新聞？">
-<strong>Dasatinib Monohydrate</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dasatinib Monohydrate</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/dasatinib-monohydrate/
 <p><a href="{{ '/drugs/dasatinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
-
-### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
-
-2026-06-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
-
----
+## 相關新聞（28 則）
 
 ### [Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5)
 
@@ -70,11 +62,35 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [Alzheimer: Neue Antikörper und Bluttests beschleunigen Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
+### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
-2026-06-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [Monmouthshire mum says she may have avoided ovarian cancer if she lived in England](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUjNxekdqX2tUYjEzTjkwTEp2Y2xMZ244ME04LTE5d2l5R05NQU9jbXRNTGlxQnNHdXdNblpzUHZKNGdVMENSNlRmb2xsek9CaVNiM3UzaDZZQjlJ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUjNxekdqX2tUYjEzTjkwTEp2Y2xMZ244ME04LTE5d2l5R05NQU9jbXRNTGlxQnNHdXdNblpzUHZKNGdVMENSNlRmb2xsek9CaVNiM3UzaDZZQjlJ?oc=5)
+
+---
+
+### [Common prescription drugs linked to dementia risk in over-55s - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXRmVUhDYlZWeldvUWlXallzVGxkZDNBLWx4d2l2Mng2SXVJYVpaUnpLbTlaUTNWWWRNUUtQbElJZ3k4ZmMtWFFQUUdwZGtQRHJCSF9rSC1kcXJjeExJY1VidUF1M1czN1NvSjVWQllZcF85NkNES2dseVdnMERrWG5wV3dlVVZXRVRkOE9BQmNhX2ZWVUlfR9IBngFBVV95cUxPNU1ObWVFNFdFeUJ4d3NKclVQaGJ3R05mMEdOUDl1QXJVX3I3Wmg4eXcyOE8zTXFSdFYzS3picUl1VHd4VUhSb3VnR0Vjc280dDdzRnhweGQ0UVpPSWRJeVpuNkZOM3FiTVZfSjZ5OWp0cmcta0R4LVdXSlNySDZWMDJYaThpZXdIUGtLQUNNTFgzS0d1Sndyb2hDSlFrdw?oc=5)
+
+2026-06-15 <span class="news-indication-tag">dementia</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXRmVUhDYlZWeldvUWlXallzVGxkZDNBLWx4d2l2Mng2SXVJYVpaUnpLbTlaUTNWWWRNUUtQbElJZ3k4ZmMtWFFQUUdwZGtQRHJCSF9rSC1kcXJjeExJY1VidUF1M1czN1NvSjVWQllZcF85NkNES2dseVdnMERrWG5wV3dlVVZXRVRkOE9BQmNhX2ZWVUlfR9IBngFBVV95cUxPNU1ObWVFNFdFeUJ4d3NKclVQaGJ3R05mMEdOUDl1QXJVX3I3Wmg4eXcyOE8zTXFSdFYzS3picUl1VHd4VUhSb3VnR0Vjc280dDdzRnhweGQ0UVpPSWRJeVpuNkZOM3FiTVZfSjZ5OWp0cmcta0R4LVdXSlNySDZWMDJYaThpZXdIUGtLQUNNTFgzS0d1Sndyb2hDSlFrdw?oc=5)
+
+---
+
+### [Maladie d’Alzheimer : des chercheurs de la Côte d’Azur font une découverte décisive](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFZWVBpc1doWmoxVERMckZPRnpFQVl4Z2xURzRaOGdzMTlsOEg1S2s2WXRNc3hCdWUybkFOMUZKbExOX0NIaE1MaGx2ZWVhUnYteXNkeWw4ZzBqUkpuNHZsSTI0cVpKdWQtMmdqZUs1Nkl3RWkwQ09oYVRyNEl1UUh4bmNJU2NqREtfSDFUQ0puTG53NF9fdXJRQkhDaVNqclV4SHlUbC1JdHNPX3dQd3BXM1h0MHloZlBBQ1psUQ?oc=5)
+
+2026-06-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Nice-Matin](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFZWVBpc1doWmoxVERMckZPRnpFQVl4Z2xURzRaOGdzMTlsOEg1S2s2WXRNc3hCdWUybkFOMUZKbExOX0NIaE1MaGx2ZWVhUnYteXNkeWw4ZzBqUkpuNHZsSTI0cVpKdWQtMmdqZUs1Nkl3RWkwQ09oYVRyNEl1UUh4bmNJU2NqREtfSDFUQ0puTG53NF9fdXJRQkhDaVNqclV4SHlUbC1JdHNPX3dQd3BXM1h0MHloZlBBQ1psUQ?oc=5)
 
 ---
 
@@ -94,6 +110,14 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
+### [I’ve just found out I have dementia. I’m so scared - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
+
+2026-06-15 <span class="news-indication-tag">dementia</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
+
+---
+
 ### [La Asociación Española contra el Cáncer alerta del aumento del cáncer de piel y refuerza su prevención - Ceuta Ahora](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVlJTbVpPNlpBVU13WFJ4R0hYWXNEOVljSl9NcGxNZURmTVNURGpTdDk0elAwSGdsRXFCZEctMVk4eXJ1dWdQcnJFb1Y2YUN0b1JhZUk4dkhYUFdYc193aVVDOXFCVkxBOEtPVkN4U3NHdXBQaTlabzhtRFN6ekN4d3B1bjhBa2w4ZDdnNjBnUWM5TW85RE1hM2JLaDlpNjFzMkppVXJHSF9pR2s5Tk1BOWU3ZEZneHVWZURNN05ZeUJtaVhCT3Y5a1BjVVRzeFp4?oc=5)
 
 2026-06-15 <span class="news-indication-tag">tumor</span>
@@ -104,7 +128,7 @@ permalink: /news/dasatinib-monohydrate/
 
 ### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
-2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
@@ -214,11 +238,11 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [Three carers reveal what it's like living with dementia 24/7 - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNaVFDSWg2alFYaXplT2lfSXlQY0puYlRoRUhZWWN0MXhMeDgxQmF1V0J6cXRxcjJnU19UNWpaV3N5NG90a1JoT3hCUXFtaHotQVQzVTVlYkdlNmM1eXJmMnZ5anJSaVRsNUhBNThDdFlMSVFwc0VGM1lUeVFuclpzR0FqZmg4ZHFMTy1fZXhFUdIBlAFBVV95cUxNb0RVcGJmaDlBR2c0N256M0haUXhqdHFiaWZXWXFtd0RwTzhQeGJpTzB0QVNHMW83Vy0zWHVnM3ZMTHZoM0p6d3JhMThXbEZiWUJmcFVXTEZYUGctSm5DRjgxQnhpR0ZhbGFMRFRwOEZyZnViaFZpb0xIR0F3WEVYRHBuMmluYmxPUG9CcVRmbF96cXc5?oc=5)
+### [People living with dementia are too often overlooked | Letters - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
 
-2026-06-14 <span class="news-indication-tag">dementia</span>
+2026-06-14 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxNaVFDSWg2alFYaXplT2lfSXlQY0puYlRoRUhZWWN0MXhMeDgxQmF1V0J6cXRxcjJnU19UNWpaV3N5NG90a1JoT3hCUXFtaHotQVQzVTVlYkdlNmM1eXJmMnZ5anJSaVRsNUhBNThDdFlMSVFwc0VGM1lUeVFuclpzR0FqZmg4ZHFMTy1fZXhFUdIBlAFBVV95cUxNb0RVcGJmaDlBR2c0N256M0haUXhqdHFiaWZXWXFtd0RwTzhQeGJpTzB0QVNHMW83Vy0zWHVnM3ZMTHZoM0p6d3JhMThXbEZiWUJmcFVXTEZYUGctSm5DRjgxQnhpR0ZhbGFMRFRwOEZyZnViaFZpb0xIR0F3WEVYRHBuMmluYmxPUG9CcVRmbF96cXc5?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5)
 
 ---
 
@@ -230,19 +254,19 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [Lotta ai tumori, raggiunti tutti i piemontesi a rischio. Ma meno del 50% si sottopone a screening - La Stampa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQldQT1JWUHpKd2k3QWV1d0JtN2dlVS10Rkk3eV9CdEQydGpwTWFEendZNEs2cHN5U3VzanJwOTR2bFctQ19iMnpvNFU4bVBISEN4VGExT1cxUmRmaFlicEtEYU8yNF9ZU1ZHdFdGX3NLVXpzQllvUUVZbFk1enR4eW5UanRMQ3JYczZTLU15YWFVdFFKei1rYmNMaXhrLTY1WGxvT3VsSGx6N0HSAbABQVVfeXFMUGxPOEZsdm9KRk5wVUtEdy1DMjBXYVpzWTNsTFVhTVhUZElxa1QyUzQ5YmdHUTJXNnEtRF84YUk0dC1FcEV1cm1NZWJWVGFWOVhWQlBLcHRld3lHWWQ0aG1ETWJNV2dzTGNBcndZcmNIV3NrdE5PU2RSRVltX1oxMmxZVmlBQUFXU1BxUER1TlU4S1Q4Nl84U0ZLT3c4Qk5yT1JGd0RBTy12SVJXQVBsUzA?oc=5)
+### [Nuevo avance en el HUCA: una tecnología pionera permite tratar lesiones craneales con alta precisión - La Voz de Asturias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmJJcjdXVkc1Y3dodDhpZTJYelNjWGlTS2FJT0hFQ0NPU1hEODRkak4taUJROExqWjlKd3FaQW9OdHAtbzgwYzVUVXRaazlDZTZaRXVsbEx0Rjl3eDN2cEF6WHpndnZ6LUFZRnVqcHNMTVNqSW9SNEsxaUNILWlqaHNWZXhYQzJFbFRIM0dkdGN1V19reHltYUNsMTV3MldrX0k3OWE5akw4YXIxanpyYXlRUlh5YTVuVkswcy1BeGUzd1dPWmh2Q3ZSaU5vRkhmeE5lZlI1ZVQ1QVFhdFZVTlo5T2lsWERqMkU3dW5mTVltY3dtUG15dWdma0ZyaXc?oc=5)
 
 2026-06-14 <span class="news-indication-tag">tumor</span>
 
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQldQT1JWUHpKd2k3QWV1d0JtN2dlVS10Rkk3eV9CdEQydGpwTWFEendZNEs2cHN5U3VzanJwOTR2bFctQ19iMnpvNFU4bVBISEN4VGExT1cxUmRmaFlicEtEYU8yNF9ZU1ZHdFdGX3NLVXpzQllvUUVZbFk1enR4eW5UanRMQ3JYczZTLU15YWFVdFFKei1rYmNMaXhrLTY1WGxvT3VsSGx6N0HSAbABQVVfeXFMUGxPOEZsdm9KRk5wVUtEdy1DMjBXYVpzWTNsTFVhTVhUZElxa1QyUzQ5YmdHUTJXNnEtRF84YUk0dC1FcEV1cm1NZWJWVGFWOVhWQlBLcHRld3lHWWQ0aG1ETWJNV2dzTGNBcndZcmNIV3NrdE5PU2RSRVltX1oxMmxZVmlBQUFXU1BxUER1TlU4S1Q4Nl84U0ZLT3c4Qk5yT1JGd0RBTy12SVJXQVBsUzA?oc=5)
+來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmJJcjdXVkc1Y3dodDhpZTJYelNjWGlTS2FJT0hFQ0NPU1hEODRkak4taUJROExqWjlKd3FaQW9OdHAtbzgwYzVUVXRaazlDZTZaRXVsbEx0Rjl3eDN2cEF6WHpndnZ6LUFZRnVqcHNMTVNqSW9SNEsxaUNILWlqaHNWZXhYQzJFbFRIM0dkdGN1V19reHltYUNsMTV3MldrX0k3OWE5akw4YXIxanpyYXlRUlh5YTVuVkswcy1BeGUzd1dPWmh2Q3ZSaU5vRkhmeE5lZlI1ZVQ1QVFhdFZVTlo5T2lsWERqMkU3dW5mTVltY3dtUG15dWdma0ZyaXc?oc=5)
 
 ---
 
-### [El HUCA amplía su capacidad para tratar lesiones cerebrales complejas con radiocirugía no invasiva de alta precisión - Principado de Asturias](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTXJKakJOUEJqUXBFWDktRWJMX3pncTJaRDh3N3FQS1F4Z0E2TEtWcEpCM2ZyVlN0QTZqZDFXR05SdlMwbHd0eFZVbVNSeGdMeXRvQmpPQV9kTjlGSHc?oc=5)
+### [Il paradosso della privacy: “Per gli screening oncologici costretti a mandare gli inviti via Posta” - La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmJEN1RaZmJPM1c3b0lGSDVEOUtVcDQwb3JsemNRWTEzekNDd211NkxRcTQ3SDUzbzRmWFg2UEZBcmR6R19PR0dVNU9xZk5va2lpa1pxUlRIZF9wMXhiOUI0aGdjaGo2TFdCVHZBdGROSXlZM29uU3NzVGZqTjhCbDhSTW5QWmlPWTRXYVY0bWJJbGhpRng0SldlMGVFVWFBdFJ5OTZqWGVYakg0dzQ5ZkdjdmdQSldX0gG-AUFVX3lxTFBTN0hUcnRKMlZrN3hsMHhHa3N0dHdNVVl5T1AyT1BBNTRFOEQ2S3JxR09GaGI3NWFMVU9KeEhieVZKaFZNWGN5dWFQTkM0OEdiTzN0amt2NVhpU2ZlZnJXQ0ZzYnZDYTdkdHZtMWpkQ195MXJxSHo3ZVpRVGxQbnVpR1daQXF6QVVlcUkzcjVxYjVpQkJpbDR4SEJMQkN4eFJhZldySFpOYXptTVNNZTV4SXRyeXRzVVhiOUV4SXc?oc=5)
 
 2026-06-14 <span class="news-indication-tag">tumor</span>
 
-來源：[Principado de Asturias](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTXJKakJOUEJqUXBFWDktRWJMX3pncTJaRDh3N3FQS1F4Z0E2TEtWcEpCM2ZyVlN0QTZqZDFXR05SdlMwbHd0eFZVbVNSeGdMeXRvQmpPQV9kTjlGSHc?oc=5)
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmJEN1RaZmJPM1c3b0lGSDVEOUtVcDQwb3JsemNRWTEzekNDd211NkxRcTQ3SDUzbzRmWFg2UEZBcmR6R19PR0dVNU9xZk5va2lpa1pxUlRIZF9wMXhiOUI0aGdjaGo2TFdCVHZBdGROSXlZM29uU3NzVGZqTjhCbDhSTW5QWmlPWTRXYVY0bWJJbGhpRng0SldlMGVFVWFBdFJ5OTZqWGVYakg0dzQ5ZkdjdmdQSldX0gG-AUFVX3lxTFBTN0hUcnRKMlZrN3hsMHhHa3N0dHdNVVl5T1AyT1BBNTRFOEQ2S3JxR09GaGI3NWFMVU9KeEhieVZKaFZNWGN5dWFQTkM0OEdiTzN0amt2NVhpU2ZlZnJXQ0ZzYnZDYTdkdHZtMWpkQ195MXJxSHo3ZVpRVGxQbnVpR1daQXF6QVVlcUkzcjVxYjVpQkJpbDR4SEJMQkN4eFJhZldySFpOYXptTVNNZTV4SXRyeXRzVVhiOUV4SXc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [Diabetes-Risiko: 40 Prozent Lebenszeitrisiko, doch nur 16% nehmen es wahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5)
+
+2026-06-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5)
+
+---
 
 ### [BALD ANMELDESCHLUSS: Nächster Online Diabetes-Kids Elterntreff am Donnerstag den 18. Jun.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
 
@@ -78,19 +86,27 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Los fármacos para adelgazar se disparan en España: ventas récord, pero los médicos lanzan una advertencia - Noticias Ciudadanas](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTVaaTYxd205UVdyek9CeGRDWERka3h3SE14SjJETms3WVZkVkNkaVFkbFIxS3NMMzNjak5Eby15LThyZU9RZlNSSl9XMER1OE5VSHJDRkFNYnRxVXlGZ3NPUm9CU2NQSnJxVVk0ZnFUR0dzNkFPQS1kVG52eUJrakZETFRoX010dHl6eGtnQVJ3QmxIOGx5MVBYdVNya0JPdkdzV3VTLXRWVGdoT0lwS3h3NE5SQ0RoSTlFVHFDY2hldGdwVGZEaXU4T3o1MVhL?oc=5)
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
-2026-06-15 <span class="news-drug-tag">Semaglutide</span>
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[Noticias Ciudadanas](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTVaaTYxd205UVdyek9CeGRDWERka3h3SE14SjJETms3WVZkVkNkaVFkbFIxS3NMMzNjak5Eby15LThyZU9RZlNSSl9XMER1OE5VSHJDRkFNYnRxVXlGZ3NPUm9CU2NQSnJxVVk0ZnFUR0dzNkFPQS1kVG52eUJrakZETFRoX010dHl6eGtnQVJ3QmxIOGx5MVBYdVNya0JPdkdzV3VTLXRWVGdoT0lwS3h3NE5SQ0RoSTlFVHFDY2hldGdwVGZEaXU4T3o1MVhL?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 
-### [Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+### [Las personas que usan Ozempic y otros fármacos para adelgazar reducen su actividad física](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5)
 
-2026-06-15 <span class="news-indication-tag">diabetes</span>
+2026-06-15 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5)
+
+---
+
+### [Los científicos identifican el fármaco que reduce la pérdida de masa muscular en los medicamentos para perder peso](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
+
+2026-06-14 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[SPORT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5)
 
 ---
 

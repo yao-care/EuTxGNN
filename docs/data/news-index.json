@@ -1,11 +1,1311 @@
 {
-  "generated": "2026-06-15T20:43:50.574036+00:00",
-  "count": 67,
+  "generated": "2026-06-16T02:44:28.751172+00:00",
+  "count": 72,
   "news": [
+    {
+      "id": "f98c729f8276",
+      "title": "Diabetes-Risiko: 40 Prozent Lebenszeitrisiko, doch nur 16% nehmen es wahr - AD HOC NEWS",
+      "published": "2026-06-16T01:49:01+00:00",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FQVW0zLU9PMHdSXzZZYmVFVlRkMXJWaEd3YXJRdGNRamJoek1Sank4bW1laTZ5T3Nmci1UNDQyZDBsNVBObmFnOGRzUnZZTlRBWldhcTdfN2dEaVBUOWV4MmFLRFRmakg5QnV3QkxUeFpQa18wSHBpNEVWX1dXcXpYWW5pY0VqMkg5N19CRmtuWVZJQmh6RFNSMVB4U0ZTY1NSUzBtWVVmWmtqdXZ0amVvRmZESnUzSXJB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            {
+              "slug": "abaloparatide",
+              "name": "Abaloparatide"
+            },
+            {
+              "slug": "alogliptin",
+              "name": "Alogliptin"
+            },
+            {
+              "slug": "angiotensin-ii-acetate",
+              "name": "Angiotensin Ii Acetate"
+            },
+            {
+              "slug": "anifrolumab",
+              "name": "Anifrolumab"
+            },
+            {
+              "slug": "belimumab",
+              "name": "Belimumab"
+            },
+            {
+              "slug": "besilesomab",
+              "name": "Besilesomab"
+            },
+            {
+              "slug": "bimekizumab",
+              "name": "Bimekizumab"
+            },
+            {
+              "slug": "blinatumomab",
+              "name": "Blinatumomab"
+            },
+            {
+              "slug": "burosumab",
+              "name": "Burosumab"
+            },
+            {
+              "slug": "cabotegravir",
+              "name": "Cabotegravir"
+            },
+            {
+              "slug": "canagliflozin",
+              "name": "Canagliflozin"
+            },
+            {
+              "slug": "catumaxomab",
+              "name": "Catumaxomab"
+            },
+            {
+              "slug": "chenodeoxycholic-acid",
+              "name": "Chenodeoxycholic Acid"
+            },
+            {
+              "slug": "colesevelam-as-hydrochloride",
+              "name": "Colesevelam (As Hydrochloride)"
+            },
+            {
+              "slug": "concizumab",
+              "name": "Concizumab"
+            },
+            {
+              "slug": "damoctocog-alfa-pegol",
+              "name": "Damoctocog Alfa Pegol"
+            },
+            {
+              "slug": "dapagliflozin",
+              "name": "Dapagliflozin"
+            },
+            {
+              "slug": "denosumab",
+              "name": "Denosumab"
+            },
+            {
+              "slug": "diroximel-fumarate-biib098",
+              "name": "Diroximel Fumarate (Biib098)"
+            },
+            {
+              "slug": "dulaglutide",
+              "name": "Dulaglutide"
+            },
+            {
+              "slug": "empagliflozin",
+              "name": "Empagliflozin"
+            },
+            {
+              "slug": "eravacycline",
+              "name": "Eravacycline"
+            },
+            {
+              "slug": "evinacumab",
+              "name": "Evinacumab"
+            },
+            {
+              "slug": "faricimab",
+              "name": "Faricimab"
+            },
+            {
+              "slug": "ferric-maltol",
+              "name": "Ferric Maltol"
+            },
+            {
+              "slug": "glimepiride",
+              "name": "Glimepiride"
+            },
+            {
+              "slug": "glucarpidase",
+              "name": "Glucarpidase"
+            },
+            {
+              "slug": "guselkumab",
+              "name": "Guselkumab"
+            },
+            {
+              "slug": "imlifidase",
+              "name": "Imlifidase"
+            },
+            {
+              "slug": "inebilizumab",
+              "name": "Inebilizumab"
+            },
+            {
+              "slug": "inotuzumab-ozogamicin",
+              "name": "Inotuzumab Ozogamicin"
+            },
+            {
+              "slug": "insulin-aspart",
+              "name": "Insulin Aspart"
+            },
+            {
+              "slug": "insulin-degludec",
+              "name": "Insulin Degludec"
+            },
+            {
+              "slug": "insulin-detemir",
+              "name": "Insulin Detemir"
+            },
+            {
+              "slug": "insulin-glargine",
+              "name": "Insulin Glargine"
+            },
+            {
+              "slug": "insulin-glulisine",
+              "name": "Insulin Glulisine"
+            },
+            {
+              "slug": "insulin-human",
+              "name": "Insulin Human"
+            },
+            {
+              "slug": "insulin-lispro",
+              "name": "Insulin Lispro"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "lebrikizumab",
+              "name": "Lebrikizumab"
+            },
+            {
+              "slug": "lecanemab",
+              "name": "Lecanemab"
+            },
+            {
+              "slug": "linagliptin",
+              "name": "Linagliptin"
+            },
+            {
+              "slug": "lipegfilgrastim",
+              "name": "Lipegfilgrastim"
+            },
+            {
+              "slug": "liraglutide",
+              "name": "Liraglutide"
+            },
+            {
+              "slug": "lixisenatide",
+              "name": "Lixisenatide"
+            },
+            {
+              "slug": "maribavir",
+              "name": "Maribavir"
+            },
+            {
+              "slug": "metformin",
+              "name": "Metformin"
+            },
+            {
+              "slug": "methoxy-polyethylene-glycol-epoetin-beta",
+              "name": "Methoxy Polyethylene Glycol-Epoetin Beta"
+            },
+            {
+              "slug": "mifamurtide",
+              "name": "Mifamurtide"
+            },
+            {
+              "slug": "natalizumab",
+              "name": "Natalizumab"
+            },
+            {
+              "slug": "nemolizumab",
+              "name": "Nemolizumab"
+            },
+            {
+              "slug": "nonacog-beta-pegol",
+              "name": "Nonacog Beta Pegol"
+            },
+            {
+              "slug": "onasemnogene-abeparvovec",
+              "name": "Onasemnogene Abeparvovec"
+            },
+            {
+              "slug": "panitumumab",
+              "name": "Panitumumab"
+            },
+            {
+              "slug": "pegfilgrastim",
+              "name": "Pegfilgrastim"
+            },
+            {
+              "slug": "pegvaliase",
+              "name": "Pegvaliase"
+            },
+            {
+              "slug": "pioglitazone",
+              "name": "Pioglitazone"
+            },
+            {
+              "slug": "prasterone",
+              "name": "Prasterone"
+            },
+            {
+              "slug": "ranibizumab",
+              "name": "Ranibizumab"
+            },
+            {
+              "slug": "repaglinide",
+              "name": "Repaglinide"
+            },
+            {
+              "slug": "risankizumab",
+              "name": "Risankizumab"
+            },
+            {
+              "slug": "romosozumab",
+              "name": "Romosozumab"
+            },
+            {
+              "slug": "sacituzumab-govitecan",
+              "name": "Sacituzumab Govitecan"
+            },
+            {
+              "slug": "sacubitril",
+              "name": "Sacubitril"
+            },
+            {
+              "slug": "sargramostim",
+              "name": "Sargramostim"
+            },
+            {
+              "slug": "saxagliptin",
+              "name": "Saxagliptin"
+            },
+            {
+              "slug": "semaglutide",
+              "name": "Semaglutide"
+            },
+            {
+              "slug": "sitagliptin",
+              "name": "Sitagliptin"
+            },
+            {
+              "slug": "sitagliptin-hydrochloride",
+              "name": "Sitagliptin Hydrochloride"
+            },
+            {
+              "slug": "somapacitan",
+              "name": "Somapacitan"
+            },
+            {
+              "slug": "sotatercept",
+              "name": "Sotatercept"
+            },
+            {
+              "slug": "sufentanil-citrate",
+              "name": "Sufentanil Citrate"
+            },
+            {
+              "slug": "tafasitamab",
+              "name": "Tafasitamab"
+            },
+            {
+              "slug": "teplizumab",
+              "name": "Teplizumab"
+            },
+            {
+              "slug": "tezepelumab",
+              "name": "Tezepelumab"
+            },
+            {
+              "slug": "tildrakizumab",
+              "name": "Tildrakizumab"
+            },
+            {
+              "slug": "tralokinumab",
+              "name": "Tralokinumab"
+            },
+            {
+              "slug": "trastuzumab-deruxtecan",
+              "name": "Trastuzumab Deruxtecan"
+            },
+            {
+              "slug": "tremelimumab",
+              "name": "Tremelimumab"
+            },
+            {
+              "slug": "treosulfan",
+              "name": "Treosulfan"
+            },
+            {
+              "slug": "ublituximab",
+              "name": "Ublituximab"
+            },
+            {
+              "slug": "ustekinumab",
+              "name": "Ustekinumab"
+            },
+            {
+              "slug": "vedolizumab",
+              "name": "Vedolizumab"
+            },
+            {
+              "slug": "vildagliptin",
+              "name": "Vildagliptin"
+            },
+            {
+              "slug": "voclosporin",
+              "name": "Voclosporin"
+            },
+            {
+              "slug": "zolbetuximab",
+              "name": "Zolbetuximab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5dbce57b993d",
+      "title": "Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie",
+      "published": "2026-06-15T23:39:31+00:00",
+      "sources": [
+        {
+          "name": "WELT",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            {
+              "slug": "acalabrutinib",
+              "name": "Acalabrutinib"
+            },
+            {
+              "slug": "afatinib",
+              "name": "Afatinib"
+            },
+            {
+              "slug": "aflibercept",
+              "name": "Aflibercept"
+            },
+            {
+              "slug": "agalsidase-beta",
+              "name": "Agalsidase Beta"
+            },
+            {
+              "slug": "alectinib-hydrochloride",
+              "name": "Alectinib Hydrochloride"
+            },
+            {
+              "slug": "alemtuzumab",
+              "name": "Alemtuzumab"
+            },
+            {
+              "slug": "aliskiren",
+              "name": "Aliskiren"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "anagrelide",
+              "name": "Anagrelide"
+            },
+            {
+              "slug": "anidulafungin",
+              "name": "Anidulafungin"
+            },
+            {
+              "slug": "apalutamide",
+              "name": "Apalutamide"
+            },
+            {
+              "slug": "arsenic-trioxide",
+              "name": "Arsenic Trioxide"
+            },
+            {
+              "slug": "atazanavir-as-sulfate",
+              "name": "Atazanavir (As Sulfate)"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "avanafil",
+              "name": "Avanafil"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "avibactam",
+              "name": "Avibactam"
+            },
+            {
+              "slug": "axicabtagene-ciloleucel",
+              "name": "Axicabtagene Ciloleucel"
+            },
+            {
+              "slug": "axitinib",
+              "name": "Axitinib"
+            },
+            {
+              "slug": "azacitidine",
+              "name": "Azacitidine"
+            },
+            {
+              "slug": "azilsartan-medoxomil",
+              "name": "Azilsartan Medoxomil"
+            },
+            {
+              "slug": "aztreonam",
+              "name": "Aztreonam"
+            },
+            {
+              "slug": "baloxavir-marboxil",
+              "name": "Baloxavir Marboxil"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "basiliximab",
+              "name": "Basiliximab"
+            },
+            {
+              "slug": "belatacept",
+              "name": "Belatacept"
+            },
+            {
+              "slug": "bempedoic-acid",
+              "name": "Bempedoic Acid"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "bexarotene",
+              "name": "Bexarotene"
+            },
+            {
+              "slug": "binimetinib",
+              "name": "Binimetinib"
+            },
+            {
+              "slug": "bortezomib",
+              "name": "Bortezomib"
+            },
+            {
+              "slug": "bosutinib-as-monohydrate",
+              "name": "Bosutinib (As Monohydrate)"
+            },
+            {
+              "slug": "brentuximab-vedotin",
+              "name": "Brentuximab Vedotin"
+            },
+            {
+              "slug": "brigatinib",
+              "name": "Brigatinib"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel"
+            },
+            {
+              "slug": "cabozantinib",
+              "name": "Cabozantinib"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine"
+            },
+            {
+              "slug": "carfilzomib",
+              "name": "Carfilzomib"
+            },
+            {
+              "slug": "carmustine",
+              "name": "Carmustine"
+            },
+            {
+              "slug": "catumaxomab",
+              "name": "Catumaxomab"
+            },
+            {
+              "slug": "cemiplimab",
+              "name": "Cemiplimab"
+            },
+            {
+              "slug": "ceritinib",
+              "name": "Ceritinib"
+            },
+            {
+              "slug": "cetuximab",
+              "name": "Cetuximab"
+            },
+            {
+              "slug": "cilastatin",
+              "name": "Cilastatin"
+            },
+            {
+              "slug": "cinacalcet-hydrochloride",
+              "name": "Cinacalcet Hydrochloride"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "clofarabine",
+              "name": "Clofarabine"
+            },
+            {
+              "slug": "crizotinib",
+              "name": "Crizotinib"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "damoctocog-alfa-pegol",
+              "name": "Damoctocog Alfa Pegol"
+            },
+            {
+              "slug": "daratumumab",
+              "name": "Daratumumab"
+            },
+            {
+              "slug": "darbepoetin-alfa",
+              "name": "Darbepoetin Alfa"
+            },
+            {
+              "slug": "darolutamide",
+              "name": "Darolutamide"
+            },
+            {
+              "slug": "darunavir",
+              "name": "Darunavir"
+            },
+            {
+              "slug": "dasatinib-monohydrate",
+              "name": "Dasatinib Monohydrate"
+            },
+            {
+              "slug": "daunorubicin",
+              "name": "Daunorubicin"
+            },
+            {
+              "slug": "decitabine",
+              "name": "Decitabine"
+            },
+            {
+              "slug": "deferasirox",
+              "name": "Deferasirox"
+            },
+            {
+              "slug": "dimethyl-fumarate",
+              "name": "Dimethyl Fumarate"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "doravirine",
+              "name": "Doravirine"
+            },
+            {
+              "slug": "doxorubicin-hydrochloride",
+              "name": "Doxorubicin Hydrochloride"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "duvelisib",
+              "name": "Duvelisib"
+            },
+            {
+              "slug": "efavirenz",
+              "name": "Efavirenz"
+            },
+            {
+              "slug": "eflornithine",
+              "name": "Eflornithine"
+            },
+            {
+              "slug": "elacestrant",
+              "name": "Elacestrant"
+            },
+            {
+              "slug": "elafibranor",
+              "name": "Elafibranor"
+            },
+            {
+              "slug": "eliglustat-tartrate",
+              "name": "Eliglustat (Tartrate)"
+            },
+            {
+              "slug": "elotuzumab",
+              "name": "Elotuzumab"
+            },
+            {
+              "slug": "eltrombopag",
+              "name": "Eltrombopag"
+            },
+            {
+              "slug": "enalapril-maleate",
+              "name": "Enalapril (Maleate)"
+            },
+            {
+              "slug": "encorafenib",
+              "name": "Encorafenib"
+            },
+            {
+              "slug": "enfortumab-vedotin",
+              "name": "Enfortumab Vedotin"
+            },
+            {
+              "slug": "enfuvirtide",
+              "name": "Enfuvirtide"
+            },
+            {
+              "slug": "entrectinib",
+              "name": "Entrectinib"
+            },
+            {
+              "slug": "enzalutamide",
+              "name": "Enzalutamide"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide"
+            },
+            {
+              "slug": "eravacycline",
+              "name": "Eravacycline"
+            },
+            {
+              "slug": "eribulin",
+              "name": "Eribulin"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "Erlotinib"
+            },
+            {
+              "slug": "etravirine",
+              "name": "Etravirine"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus"
+            },
+            {
+              "slug": "faricimab",
+              "name": "Faricimab"
+            },
+            {
+              "slug": "filgotinib-maleate",
+              "name": "Filgotinib Maleate"
+            },
+            {
+              "slug": "fingolimod",
+              "name": "Fingolimod"
+            },
+            {
+              "slug": "florbetapir-18f",
+              "name": "Florbetapir (18F)"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "gemtuzumab-ozogamicin",
+              "name": "Gemtuzumab Ozogamicin"
+            },
+            {
+              "slug": "gilteritinib-fumarate",
+              "name": "Gilteritinib Fumarate"
+            },
+            {
+              "slug": "gimeracil",
+              "name": "Gimeracil"
+            },
+            {
+              "slug": "glasdegib-maleate",
+              "name": "Glasdegib Maleate"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "Hydrochlorothiazide"
+            },
+            {
+              "slug": "ibrutinib",
+              "name": "Ibrutinib"
+            },
+            {
+              "slug": "idelalisib",
+              "name": "Idelalisib"
+            },
+            {
+              "slug": "imatinib",
+              "name": "Imatinib"
+            },
+            {
+              "slug": "imiglucerase",
+              "name": "Imiglucerase"
+            },
+            {
+              "slug": "imipenem",
+              "name": "Imipenem"
+            },
+            {
+              "slug": "imiquimod",
+              "name": "Imiquimod"
+            },
+            {
+              "slug": "inebilizumab",
+              "name": "Inebilizumab"
+            },
+            {
+              "slug": "inotuzumab-ozogamicin",
+              "name": "Inotuzumab Ozogamicin"
+            },
+            {
+              "slug": "interferon-beta-1b",
+              "name": "Interferon Beta-1B"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "isatuximab",
+              "name": "Isatuximab"
+            },
+            {
+              "slug": "ivosidenib",
+              "name": "Ivosidenib"
+            },
+            {
+              "slug": "ixazomib-citrate",
+              "name": "Ixazomib Citrate"
+            },
+            {
+              "slug": "ixekizumab",
+              "name": "Ixekizumab"
+            },
+            {
+              "slug": "lapatinib",
+              "name": "Lapatinib"
+            },
+            {
+              "slug": "larotrectinib-sulfate",
+              "name": "Larotrectinib Sulfate"
+            },
+            {
+              "slug": "lebrikizumab",
+              "name": "Lebrikizumab"
+            },
+            {
+              "slug": "lefamulin-acetate",
+              "name": "Lefamulin Acetate"
+            },
+            {
+              "slug": "leflunomide",
+              "name": "Leflunomide"
+            },
+            {
+              "slug": "lenalidomide",
+              "name": "Lenalidomide"
+            },
+            {
+              "slug": "letermovir",
+              "name": "Letermovir"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "Levofloxacin"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "maraviroc",
+              "name": "Maraviroc"
+            },
+            {
+              "slug": "maribavir",
+              "name": "Maribavir"
+            },
+            {
+              "slug": "melphalan-hydrochloride",
+              "name": "Melphalan Hydrochloride"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "Methotrexate"
+            },
+            {
+              "slug": "methoxy-polyethylene-glycol-epoetin-beta",
+              "name": "Methoxy Polyethylene Glycol-Epoetin Beta"
+            },
+            {
+              "slug": "methylnaltrexone-bromide",
+              "name": "Methylnaltrexone Bromide"
+            },
+            {
+              "slug": "metreleptin",
+              "name": "Metreleptin"
+            },
+            {
+              "slug": "micafungin",
+              "name": "Micafungin"
+            },
+            {
+              "slug": "midostaurin",
+              "name": "Midostaurin"
+            },
+            {
+              "slug": "miglustat",
+              "name": "Miglustat"
+            },
+            {
+              "slug": "mogamulizumab",
+              "name": "Mogamulizumab"
+            },
+            {
+              "slug": "mometasone",
+              "name": "Mometasone"
+            },
+            {
+              "slug": "nelarabine",
+              "name": "Nelarabine"
+            },
+            {
+              "slug": "neratinib",
+              "name": "Neratinib"
+            },
+            {
+              "slug": "nevirapine",
+              "name": "Nevirapine"
+            },
+            {
+              "slug": "nilotinib",
+              "name": "Nilotinib"
+            },
+            {
+              "slug": "nintedanib",
+              "name": "Nintedanib"
+            },
+            {
+              "slug": "niraparib-tosilate-monohydrate",
+              "name": "Niraparib (Tosilate Monohydrate)"
+            },
+            {
+              "slug": "nivolumab",
+              "name": "Nivolumab"
+            },
+            {
+              "slug": "nomegestrol-acetate",
+              "name": "Nomegestrol Acetate"
+            },
+            {
+              "slug": "obinutuzumab",
+              "name": "Obinutuzumab"
+            },
+            {
+              "slug": "ocrelizumab",
+              "name": "Ocrelizumab"
+            },
+            {
+              "slug": "ofatumumab",
+              "name": "Ofatumumab"
+            },
+            {
+              "slug": "olaparib",
+              "name": "Olaparib"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "onasemnogene-abeparvovec",
+              "name": "Onasemnogene Abeparvovec"
+            },
+            {
+              "slug": "osilodrostat-phosphate",
+              "name": "Osilodrostat Phosphate"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "ozanimod-hydrochloride",
+              "name": "Ozanimod Hydrochloride"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "palbociclib",
+              "name": "Palbociclib"
+            },
+            {
+              "slug": "palivizumab",
+              "name": "Palivizumab"
+            },
+            {
+              "slug": "pazopanib",
+              "name": "Pazopanib"
+            },
+            {
+              "slug": "pegaspargase",
+              "name": "Pegaspargase"
+            },
+            {
+              "slug": "peginterferon-beta-1a",
+              "name": "Peginterferon Beta-1A"
+            },
+            {
+              "slug": "pegvisomant",
+              "name": "Pegvisomant"
+            },
+            {
+              "slug": "pembrolizumab",
+              "name": "Pembrolizumab"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "pemigatinib",
+              "name": "Pemigatinib"
+            },
+            {
+              "slug": "pertuzumab",
+              "name": "Pertuzumab"
+            },
+            {
+              "slug": "pirfenidone",
+              "name": "Pirfenidone"
+            },
+            {
+              "slug": "plerixafor",
+              "name": "Plerixafor"
+            },
+            {
+              "slug": "polatuzumab-vedotin",
+              "name": "Polatuzumab Vedotin"
+            },
+            {
+              "slug": "pomalidomide",
+              "name": "Pomalidomide"
+            },
+            {
+              "slug": "ponatinib",
+              "name": "Ponatinib"
+            },
+            {
+              "slug": "propranolol-hydrochloride",
+              "name": "Propranolol Hydrochloride"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "relebactam",
+              "name": "Relebactam"
+            },
+            {
+              "slug": "ribociclib-succinate",
+              "name": "Ribociclib Succinate"
+            },
+            {
+              "slug": "ripretinib",
+              "name": "Ripretinib"
+            },
+            {
+              "slug": "risdiplam",
+              "name": "Risdiplam"
+            },
+            {
+              "slug": "rituximab",
+              "name": "Rituximab"
+            },
+            {
+              "slug": "roflumilast",
+              "name": "Roflumilast"
+            },
+            {
+              "slug": "roxadustat",
+              "name": "Roxadustat"
+            },
+            {
+              "slug": "rozanolixizumab",
+              "name": "Rozanolixizumab"
+            },
+            {
+              "slug": "rufinamide",
+              "name": "Rufinamide"
+            },
+            {
+              "slug": "ruxolitinib-phosphate",
+              "name": "Ruxolitinib Phosphate"
+            },
+            {
+              "slug": "sargramostim",
+              "name": "Sargramostim"
+            },
+            {
+              "slug": "secukinumab",
+              "name": "Secukinumab"
+            },
+            {
+              "slug": "selinexor",
+              "name": "Selinexor"
+            },
+            {
+              "slug": "selumetinib-sulfate",
+              "name": "Selumetinib Sulfate"
+            },
+            {
+              "slug": "siltuximab",
+              "name": "Siltuximab"
+            },
+            {
+              "slug": "sirolimus",
+              "name": "Sirolimus"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "Sorafenib"
+            },
+            {
+              "slug": "sotatercept",
+              "name": "Sotatercept"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone"
+            },
+            {
+              "slug": "stiripentol",
+              "name": "Stiripentol"
+            },
+            {
+              "slug": "sufentanil-citrate",
+              "name": "Sufentanil Citrate"
+            },
+            {
+              "slug": "sugammadex-sodium",
+              "name": "Sugammadex Sodium"
+            },
+            {
+              "slug": "sunitinib",
+              "name": "Sunitinib"
+            },
+            {
+              "slug": "tafasitamab",
+              "name": "Tafasitamab"
+            },
+            {
+              "slug": "tagraxofusp",
+              "name": "Tagraxofusp"
+            },
+            {
+              "slug": "talazoparib",
+              "name": "Talazoparib"
+            },
+            {
+              "slug": "talimogene-laherparepvec",
+              "name": "Talimogene Laherparepvec"
+            },
+            {
+              "slug": "tasonermin",
+              "name": "Tasonermin"
+            },
+            {
+              "slug": "tecovirimat",
+              "name": "Tecovirimat"
+            },
+            {
+              "slug": "tegafur",
+              "name": "Tegafur"
+            },
+            {
+              "slug": "temoporfin",
+              "name": "Temoporfin"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "temsirolimus",
+              "name": "Temsirolimus"
+            },
+            {
+              "slug": "tenofovir-disoproxil",
+              "name": "Tenofovir Disoproxil"
+            },
+            {
+              "slug": "tezacaftor",
+              "name": "Tezacaftor"
+            },
+            {
+              "slug": "thalidomide",
+              "name": "Thalidomide"
+            },
+            {
+              "slug": "thiotepa",
+              "name": "Thiotepa"
+            },
+            {
+              "slug": "tigecycline",
+              "name": "Tigecycline"
+            },
+            {
+              "slug": "timolol",
+              "name": "Timolol"
+            },
+            {
+              "slug": "tipiracil",
+              "name": "Tipiracil"
+            },
+            {
+              "slug": "tipranavir",
+              "name": "Tipranavir"
+            },
+            {
+              "slug": "tisagenlecleucel",
+              "name": "Tisagenlecleucel"
+            },
+            {
+              "slug": "tivozanib",
+              "name": "Tivozanib"
+            },
+            {
+              "slug": "tocofersolan",
+              "name": "Tocofersolan"
+            },
+            {
+              "slug": "tofacitinib",
+              "name": "Tofacitinib"
+            },
+            {
+              "slug": "topotecan",
+              "name": "Topotecan"
+            },
+            {
+              "slug": "toremifene",
+              "name": "Toremifene"
+            },
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "trametinib",
+              "name": "Trametinib"
+            },
+            {
+              "slug": "trastuzumab",
+              "name": "Trastuzumab"
+            },
+            {
+              "slug": "trastuzumab-deruxtecan",
+              "name": "Trastuzumab Deruxtecan"
+            },
+            {
+              "slug": "trastuzumab-emtansine",
+              "name": "Trastuzumab Emtansine"
+            },
+            {
+              "slug": "trifluridine",
+              "name": "Trifluridine"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            },
+            {
+              "slug": "vandetanib",
+              "name": "Vandetanib"
+            },
+            {
+              "slug": "vardenafil",
+              "name": "Vardenafil"
+            },
+            {
+              "slug": "vemurafenib",
+              "name": "Vemurafenib"
+            },
+            {
+              "slug": "venetoclax",
+              "name": "Venetoclax"
+            },
+            {
+              "slug": "vilanterol",
+              "name": "Vilanterol"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            },
+            {
+              "slug": "zidovudine",
+              "name": "Zidovudine"
+            },
+            {
+              "slug": "zoledronic-acid",
+              "name": "Zoledronic Acid"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "efcb21307a4f",
       "title": "Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach",
-      "published": "2026-06-15T20:20:54+00:00",
+      "published": "2026-06-15T23:20:55+00:00",
       "sources": [
         {
           "name": "WELT",
@@ -939,20 +2239,20 @@
       ]
     },
     {
-      "id": "5dbce57b993d",
-      "title": "Krebs: „Doppelschlag“ gegen Tumorzellen – Forscher setzen auf neue Strategie",
-      "published": "2026-06-15T18:52:00+00:00",
+      "id": "70cfb6b4ac34",
+      "title": "Monmouthshire mum says she may have avoided ovarian cancer if she lived in England",
+      "published": "2026-06-15T21:48:32+00:00",
       "sources": [
         {
-          "name": "WELT",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnE2ZW5RVmUydWJka0JSa0p2WFRRVG5WVVV2Xy1MSzgtajNzZlA3X2NOYVpNaHRFd3d4UzVZVTNqY0pyV3YzWlZDUENTYk5LTDlpcWZUUXd2cDVqaXVFajhYVmNfNkdzbXZuak43eDc1Qm8zY2k5ODh0R0taVFV4a1NSSFUzdzlVUHByVGpDbGlId0FLUS02ZDNkTDZURUppQTEyd0FTTGwzeUFEcVR4SzQ2VFpNdzZ4eW5TZExZVFBfV2swMmoxbmhlSlJNMmRJWnBfMHhn?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUjNxekdqX2tUYjEzTjkwTEp2Y2xMZ244ME04LTE5d2l5R05NQU9jbXRNTGlxQnNHdXdNblpzUHZKNGdVMENSNlRmb2xsek9CaVNiM3UzaDZZQjlJ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "cancer",
-          "keyword": "tumor",
+          "keyword": "cancer",
           "related_drugs": [
             {
               "slug": "acalabrutinib",
@@ -2115,260 +3415,104 @@
       ]
     },
     {
-      "id": "4085495871f6",
-      "title": "Vous prenez votre traitement contre l'hypertension le matin ? Ces chercheurs ont décalé la prise au coucher (et les résultats sont stupéfiants)",
-      "published": "2026-06-15T17:11:39+00:00",
+      "id": "7e4641279eaa",
+      "title": "Common prescription drugs linked to dementia risk in over-55s - Daily Express",
+      "published": "2026-06-15T18:01:00+00:00",
       "sources": [
         {
-          "name": "Sciencepost",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5"
+          "name": "Daily Express",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXRmVUhDYlZWeldvUWlXallzVGxkZDNBLWx4d2l2Mng2SXVJYVpaUnpLbTlaUTNWWWRNUUtQbElJZ3k4ZmMtWFFQUUdwZGtQRHJCSF9rSC1kcXJjeExJY1VidUF1M1czN1NvSjVWQllZcF85NkNES2dseVdnMERrWG5wV3dlVVZXRVRkOE9BQmNhX2ZWVUlfR9IBngFBVV95cUxPNU1ObWVFNFdFeUJ4d3NKclVQaGJ3R05mMEdOUDl1QXJVX3I3Wmg4eXcyOE8zTXFSdFYzS3picUl1VHd4VUhSb3VnR0Vjc280dDdzRnhweGQ0UVpPSWRJeVpuNkZOM3FiTVZfSjZ5OWp0cmcta0R4LVdXSlNySDZWMDJYaThpZXdIUGtLQUNNTFgzS0d1Sndyb2hDSlFrdw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "hypertension",
-          "keyword": "hypertension",
+          "name": "alzheimer disease",
+          "keyword": "dementia",
           "related_drugs": [
             {
-              "slug": "abiraterone-acetate",
-              "name": "Abiraterone Acetate"
+              "slug": "alectinib-hydrochloride",
+              "name": "Alectinib Hydrochloride"
             },
             {
-              "slug": "aliskiren",
-              "name": "Aliskiren"
+              "slug": "brigatinib",
+              "name": "Brigatinib"
             },
             {
-              "slug": "alpelisib",
-              "name": "Alpelisib"
+              "slug": "carbidopa",
+              "name": "Carbidopa"
             },
             {
-              "slug": "ambrisentan",
-              "name": "Ambrisentan"
+              "slug": "ceritinib",
+              "name": "Ceritinib"
             },
             {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
+              "slug": "crizotinib",
+              "name": "Crizotinib"
             },
             {
-              "slug": "apixaban",
-              "name": "Apixaban"
+              "slug": "dasatinib-monohydrate",
+              "name": "Dasatinib Monohydrate"
             },
             {
-              "slug": "apremilast",
-              "name": "Apremilast"
+              "slug": "entacapone",
+              "name": "Entacapone"
             },
             {
-              "slug": "aprepitant",
-              "name": "Aprepitant"
+              "slug": "erlotinib",
+              "name": "Erlotinib"
             },
             {
-              "slug": "azilsartan-medoxomil",
-              "name": "Azilsartan Medoxomil"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             },
             {
-              "slug": "bosentan-as-monohydrate",
-              "name": "Bosentan (As Monohydrate)"
+              "slug": "levodopa",
+              "name": "Levodopa"
             },
             {
-              "slug": "cinacalcet-hydrochloride",
-              "name": "Cinacalcet Hydrochloride"
+              "slug": "lorlatinib",
+              "name": "Lorlatinib"
             },
             {
-              "slug": "colistimethate-sodium",
-              "name": "Colistimethate Sodium"
+              "slug": "opicapone",
+              "name": "Opicapone"
             },
             {
-              "slug": "corifollitropin-alfa",
-              "name": "Corifollitropin Alfa"
+              "slug": "pembrolizumab",
+              "name": "Pembrolizumab"
             },
             {
-              "slug": "dacomitinib-monohydrate",
-              "name": "Dacomitinib Monohydrate"
+              "slug": "ponatinib",
+              "name": "Ponatinib"
             },
             {
-              "slug": "deferiprone",
-              "name": "Deferiprone"
+              "slug": "rasagiline",
+              "name": "Rasagiline"
             },
             {
-              "slug": "dexmedetomidine-hydrochloride",
-              "name": "Dexmedetomidine Hydrochloride"
-            },
-            {
-              "slug": "elexacaftor",
-              "name": "Elexacaftor"
-            },
-            {
-              "slug": "enalapril-maleate",
-              "name": "Enalapril (Maleate)"
-            },
-            {
-              "slug": "entrectinib",
-              "name": "Entrectinib"
-            },
-            {
-              "slug": "erdafitinib",
-              "name": "Erdafitinib"
-            },
-            {
-              "slug": "febuxostat",
-              "name": "Febuxostat"
-            },
-            {
-              "slug": "florbetaben-18f",
-              "name": "Florbetaben (18F)"
-            },
-            {
-              "slug": "givosiran",
-              "name": "Givosiran"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "Hydrochlorothiazide"
-            },
-            {
-              "slug": "idebenone",
-              "name": "Idebenone"
-            },
-            {
-              "slug": "iloprost",
-              "name": "Iloprost"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "isavuconazole",
-              "name": "Isavuconazole"
-            },
-            {
-              "slug": "ivabradine-hydrochloride",
-              "name": "Ivabradine Hydrochloride"
-            },
-            {
-              "slug": "lonafarnib",
-              "name": "Lonafarnib"
-            },
-            {
-              "slug": "lumacaftor",
-              "name": "Lumacaftor"
-            },
-            {
-              "slug": "macitentan",
-              "name": "Macitentan"
-            },
-            {
-              "slug": "memantine-hydrochloride",
-              "name": "Memantine Hydrochloride"
-            },
-            {
-              "slug": "mexiletine-hydrochloride",
-              "name": "Mexiletine Hydrochloride"
-            },
-            {
-              "slug": "migalastat-hydrochloride",
-              "name": "Migalastat Hydrochloride"
-            },
-            {
-              "slug": "netupitant",
-              "name": "Netupitant"
-            },
-            {
-              "slug": "nitric-oxide",
-              "name": "Nitric Oxide"
-            },
-            {
-              "slug": "ospemifene",
-              "name": "Ospemifene"
-            },
-            {
-              "slug": "parecoxib-sodium",
-              "name": "Parecoxib Sodium"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "Prasugrel"
-            },
-            {
-              "slug": "rasburicase",
-              "name": "Rasburicase"
-            },
-            {
-              "slug": "riociguat",
-              "name": "Riociguat"
-            },
-            {
-              "slug": "roflumilast",
-              "name": "Roflumilast"
-            },
-            {
-              "slug": "selexipag",
-              "name": "Selexipag"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "Spironolactone"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "thyrotropin-alfa",
-              "name": "Thyrotropin Alfa"
-            },
-            {
-              "slug": "timolol",
-              "name": "Timolol"
-            },
-            {
-              "slug": "treprostinil-sodium",
-              "name": "Treprostinil Sodium"
-            },
-            {
-              "slug": "tucatinib",
-              "name": "Tucatinib"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan"
-            },
-            {
-              "slug": "varenicline",
-              "name": "Varenicline"
-            },
-            {
-              "slug": "voretigene-neparvovec",
-              "name": "Voretigene Neparvovec"
+              "slug": "tolcapone",
+              "name": "Tolcapone"
             }
           ]
         }
       ]
     },
     {
-      "id": "e2a1faae00de",
-      "title": "Alzheimer: Neue Antikörper und Bluttests beschleunigen Früherkennung - AD HOC NEWS",
-      "published": "2026-06-15T15:53:09+00:00",
+      "id": "662073bb3c60",
+      "title": "Maladie d’Alzheimer : des chercheurs de la Côte d’Azur font une découverte décisive",
+      "published": "2026-06-15T18:00:09+00:00",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX01xN3o2SmR0dm9ZODNrd3ViREpSXzdWLWlBNFpVUVpPYUxyVW9yb24xdUhFaU81eUg1dDQ5dnZGLXo2WUNEVzYwUHVfaWtBcV9IT29obEhDX1RJV19jdS1iZUNvdl8xZkRGVW1sRFRDaklyeXdzZ1VVWEh6R09KbjZ2SnAxekFFRXMxcXYwS0Vnb3FQX2gzQVdSd0dLM1RudzB1T2RmcFo4TUM0SUFGRTBEQjBOYUY1QWc?oc=5"
+          "name": "Nice-Matin",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFZWVBpc1doWmoxVERMckZPRnpFQVl4Z2xURzRaOGdzMTlsOEg1S2s2WXRNc3hCdWUybkFOMUZKbExOX0NIaE1MaGx2ZWVhUnYteXNkeWw4ZzBqUkpuNHZsSTI0cVpKdWQtMmdqZUs1Nkl3RWkwQ09oYVRyNEl1UUh4bmNJU2NqREtfSDFUQ0puTG53NF9fdXJRQkhDaVNqclV4SHlUbC1JdHNPX3dQd3BXM1h0MHloZlBBQ1psUQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "cancer",
-          "keyword": "Krebs",
+          "keyword": "cancer",
           "related_drugs": [
             {
               "slug": "acalabrutinib",
@@ -3287,167 +4431,296 @@
               "name": "Zoledronic Acid"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "86e16eb77c96",
+      "title": "Boehringer Ingelheim anuncia datos de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad",
+      "published": "2026-06-15T17:26:25+00:00",
+      "sources": [
+        {
+          "name": "iSanidad",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
-          "name": "atrial fibrillation",
-          "keyword": "AF",
+          "name": "obesity",
+          "keyword": "obesidad",
           "related_drugs": [
             {
-              "slug": "aprepitant",
-              "name": "Aprepitant"
+              "slug": "bupropion",
+              "name": "Bupropion"
             },
             {
-              "slug": "aripiprazole",
-              "name": "Aripiprazole"
+              "slug": "fenfluramine-hydrochloride",
+              "name": "Fenfluramine Hydrochloride"
             },
             {
-              "slug": "asenapine-maleate",
-              "name": "Asenapine Maleate"
+              "slug": "lasmiditan-succinate",
+              "name": "Lasmiditan Succinate"
             },
             {
-              "slug": "bimatoprost",
-              "name": "Bimatoprost"
+              "slug": "melatonin",
+              "name": "Melatonin"
             },
             {
-              "slug": "cetrorelix-as-acetate",
-              "name": "Cetrorelix (As Acetate)"
+              "slug": "naltrexone",
+              "name": "Naltrexone"
             },
             {
-              "slug": "degarelix",
-              "name": "Degarelix"
-            },
-            {
-              "slug": "dostarlimab",
-              "name": "Dostarlimab"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "eflornithine",
-              "name": "Eflornithine"
-            },
-            {
-              "slug": "elafibranor",
-              "name": "Elafibranor"
-            },
-            {
-              "slug": "eliglustat-tartrate",
-              "name": "Eliglustat (Tartrate)"
-            },
-            {
-              "slug": "fentanyl",
-              "name": "Fentanyl"
-            },
-            {
-              "slug": "ganirelix-acetate",
-              "name": "Ganirelix Acetate"
-            },
-            {
-              "slug": "granisetron",
-              "name": "Granisetron"
-            },
-            {
-              "slug": "guanfacine-hydrochloride",
-              "name": "Guanfacine Hydrochloride"
-            },
-            {
-              "slug": "ivabradine-hydrochloride",
-              "name": "Ivabradine Hydrochloride"
-            },
-            {
-              "slug": "lacosamide",
-              "name": "Lacosamide"
-            },
-            {
-              "slug": "loxapine",
-              "name": "Loxapine"
-            },
-            {
-              "slug": "lurasidone",
-              "name": "Lurasidone"
-            },
-            {
-              "slug": "macimorelin-acetate",
-              "name": "Macimorelin Acetate"
-            },
-            {
-              "slug": "metreleptin",
-              "name": "Metreleptin"
-            },
-            {
-              "slug": "mexiletine-hydrochloride",
-              "name": "Mexiletine Hydrochloride"
-            },
-            {
-              "slug": "mycophenolate-mofetil",
-              "name": "Mycophenolate Mofetil"
-            },
-            {
-              "slug": "nitric-oxide",
-              "name": "Nitric Oxide"
-            },
-            {
-              "slug": "olanzapine",
-              "name": "Olanzapine"
-            },
-            {
-              "slug": "osilodrostat-phosphate",
-              "name": "Osilodrostat Phosphate"
-            },
-            {
-              "slug": "pasireotide",
-              "name": "Pasireotide"
-            },
-            {
-              "slug": "posaconazole",
-              "name": "Posaconazole"
-            },
-            {
-              "slug": "prilocaine",
-              "name": "Prilocaine"
-            },
-            {
-              "slug": "riociguat",
-              "name": "Riociguat"
-            },
-            {
-              "slug": "risperidone",
-              "name": "Risperidone"
-            },
-            {
-              "slug": "selumetinib-sulfate",
-              "name": "Selumetinib Sulfate"
-            },
-            {
-              "slug": "sildenafil",
-              "name": "Sildenafil"
-            },
-            {
-              "slug": "silodosin",
-              "name": "Silodosin"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "vardenafil",
-              "name": "Vardenafil"
+              "slug": "orlistat",
+              "name": "Orlistat"
             },
             {
               "slug": "vernakalant-hydrochloride",
               "name": "Vernakalant Hydrochloride"
             },
             {
-              "slug": "voriconazole",
-              "name": "Voriconazole"
+              "slug": "ziconotide",
+              "name": "Ziconotide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4085495871f6",
+      "title": "Vous prenez votre traitement contre l'hypertension le matin ? Ces chercheurs ont décalé la prise au coucher (et les résultats sont stupéfiants)",
+      "published": "2026-06-15T17:11:39+00:00",
+      "sources": [
+        {
+          "name": "Sciencepost",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWcxa2JHU01QSGFCc095enZyc3FXdi1PWXc4N25LY09NcF9CclNtOVh4YXBRM0JlUTVlaUhGR19jYmh3eTYwWTAxNUtubUN1SnFJVUlmX1MzLXV6aXZRYV9uUTIyb1JzdG54NDFMTE9FU2NQdXBKdW9OVFRhb1J5SmxDQlRNNG40SV9jdnphQ2xhWGR4QmFCb19JNlV3X0NxVDA3VUs1X1YyYjhnUUdHMzJWYnN4c3R6empQOGRJOUI5RXEwVkNEYk1mUWc1ZTVjSVJpQ3JlYXU5S2hDSVV2WWpTN0tvWUdmYTZBcHhQc1IwNDU1?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "hypertension",
+          "keyword": "hypertension",
+          "related_drugs": [
+            {
+              "slug": "abiraterone-acetate",
+              "name": "Abiraterone Acetate"
             },
             {
-              "slug": "zonisamide",
-              "name": "Zonisamide"
+              "slug": "aliskiren",
+              "name": "Aliskiren"
+            },
+            {
+              "slug": "alpelisib",
+              "name": "Alpelisib"
+            },
+            {
+              "slug": "ambrisentan",
+              "name": "Ambrisentan"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "apixaban",
+              "name": "Apixaban"
+            },
+            {
+              "slug": "apremilast",
+              "name": "Apremilast"
+            },
+            {
+              "slug": "aprepitant",
+              "name": "Aprepitant"
+            },
+            {
+              "slug": "azilsartan-medoxomil",
+              "name": "Azilsartan Medoxomil"
+            },
+            {
+              "slug": "bosentan-as-monohydrate",
+              "name": "Bosentan (As Monohydrate)"
+            },
+            {
+              "slug": "cinacalcet-hydrochloride",
+              "name": "Cinacalcet Hydrochloride"
+            },
+            {
+              "slug": "colistimethate-sodium",
+              "name": "Colistimethate Sodium"
+            },
+            {
+              "slug": "corifollitropin-alfa",
+              "name": "Corifollitropin Alfa"
+            },
+            {
+              "slug": "dacomitinib-monohydrate",
+              "name": "Dacomitinib Monohydrate"
+            },
+            {
+              "slug": "deferiprone",
+              "name": "Deferiprone"
+            },
+            {
+              "slug": "dexmedetomidine-hydrochloride",
+              "name": "Dexmedetomidine Hydrochloride"
+            },
+            {
+              "slug": "elexacaftor",
+              "name": "Elexacaftor"
+            },
+            {
+              "slug": "enalapril-maleate",
+              "name": "Enalapril (Maleate)"
+            },
+            {
+              "slug": "entrectinib",
+              "name": "Entrectinib"
+            },
+            {
+              "slug": "erdafitinib",
+              "name": "Erdafitinib"
+            },
+            {
+              "slug": "febuxostat",
+              "name": "Febuxostat"
+            },
+            {
+              "slug": "florbetaben-18f",
+              "name": "Florbetaben (18F)"
+            },
+            {
+              "slug": "givosiran",
+              "name": "Givosiran"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "Hydrochlorothiazide"
+            },
+            {
+              "slug": "idebenone",
+              "name": "Idebenone"
+            },
+            {
+              "slug": "iloprost",
+              "name": "Iloprost"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "isavuconazole",
+              "name": "Isavuconazole"
+            },
+            {
+              "slug": "ivabradine-hydrochloride",
+              "name": "Ivabradine Hydrochloride"
+            },
+            {
+              "slug": "lonafarnib",
+              "name": "Lonafarnib"
+            },
+            {
+              "slug": "lumacaftor",
+              "name": "Lumacaftor"
+            },
+            {
+              "slug": "macitentan",
+              "name": "Macitentan"
+            },
+            {
+              "slug": "memantine-hydrochloride",
+              "name": "Memantine Hydrochloride"
+            },
+            {
+              "slug": "mexiletine-hydrochloride",
+              "name": "Mexiletine Hydrochloride"
+            },
+            {
+              "slug": "migalastat-hydrochloride",
+              "name": "Migalastat Hydrochloride"
+            },
+            {
+              "slug": "netupitant",
+              "name": "Netupitant"
+            },
+            {
+              "slug": "nitric-oxide",
+              "name": "Nitric Oxide"
+            },
+            {
+              "slug": "ospemifene",
+              "name": "Ospemifene"
+            },
+            {
+              "slug": "parecoxib-sodium",
+              "name": "Parecoxib Sodium"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "Prasugrel"
+            },
+            {
+              "slug": "rasburicase",
+              "name": "Rasburicase"
+            },
+            {
+              "slug": "riociguat",
+              "name": "Riociguat"
+            },
+            {
+              "slug": "roflumilast",
+              "name": "Roflumilast"
+            },
+            {
+              "slug": "selexipag",
+              "name": "Selexipag"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "thyrotropin-alfa",
+              "name": "Thyrotropin Alfa"
+            },
+            {
+              "slug": "timolol",
+              "name": "Timolol"
+            },
+            {
+              "slug": "treprostinil-sodium",
+              "name": "Treprostinil Sodium"
+            },
+            {
+              "slug": "tucatinib",
+              "name": "Tucatinib"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan"
+            },
+            {
+              "slug": "varenicline",
+              "name": "Varenicline"
+            },
+            {
+              "slug": "voretigene-neparvovec",
+              "name": "Voretigene Neparvovec"
             }
           ]
         }
@@ -3500,169 +4773,6 @@
             {
               "slug": "ziconotide",
               "name": "Ziconotide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "atrial fibrillation",
-          "keyword": "AF",
-          "related_drugs": [
-            {
-              "slug": "aprepitant",
-              "name": "Aprepitant"
-            },
-            {
-              "slug": "aripiprazole",
-              "name": "Aripiprazole"
-            },
-            {
-              "slug": "asenapine-maleate",
-              "name": "Asenapine Maleate"
-            },
-            {
-              "slug": "bimatoprost",
-              "name": "Bimatoprost"
-            },
-            {
-              "slug": "cetrorelix-as-acetate",
-              "name": "Cetrorelix (As Acetate)"
-            },
-            {
-              "slug": "degarelix",
-              "name": "Degarelix"
-            },
-            {
-              "slug": "dostarlimab",
-              "name": "Dostarlimab"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "eflornithine",
-              "name": "Eflornithine"
-            },
-            {
-              "slug": "elafibranor",
-              "name": "Elafibranor"
-            },
-            {
-              "slug": "eliglustat-tartrate",
-              "name": "Eliglustat (Tartrate)"
-            },
-            {
-              "slug": "fentanyl",
-              "name": "Fentanyl"
-            },
-            {
-              "slug": "ganirelix-acetate",
-              "name": "Ganirelix Acetate"
-            },
-            {
-              "slug": "granisetron",
-              "name": "Granisetron"
-            },
-            {
-              "slug": "guanfacine-hydrochloride",
-              "name": "Guanfacine Hydrochloride"
-            },
-            {
-              "slug": "ivabradine-hydrochloride",
-              "name": "Ivabradine Hydrochloride"
-            },
-            {
-              "slug": "lacosamide",
-              "name": "Lacosamide"
-            },
-            {
-              "slug": "loxapine",
-              "name": "Loxapine"
-            },
-            {
-              "slug": "lurasidone",
-              "name": "Lurasidone"
-            },
-            {
-              "slug": "macimorelin-acetate",
-              "name": "Macimorelin Acetate"
-            },
-            {
-              "slug": "metreleptin",
-              "name": "Metreleptin"
-            },
-            {
-              "slug": "mexiletine-hydrochloride",
-              "name": "Mexiletine Hydrochloride"
-            },
-            {
-              "slug": "mycophenolate-mofetil",
-              "name": "Mycophenolate Mofetil"
-            },
-            {
-              "slug": "nitric-oxide",
-              "name": "Nitric Oxide"
-            },
-            {
-              "slug": "olanzapine",
-              "name": "Olanzapine"
-            },
-            {
-              "slug": "osilodrostat-phosphate",
-              "name": "Osilodrostat Phosphate"
-            },
-            {
-              "slug": "pasireotide",
-              "name": "Pasireotide"
-            },
-            {
-              "slug": "posaconazole",
-              "name": "Posaconazole"
-            },
-            {
-              "slug": "prilocaine",
-              "name": "Prilocaine"
-            },
-            {
-              "slug": "riociguat",
-              "name": "Riociguat"
-            },
-            {
-              "slug": "risperidone",
-              "name": "Risperidone"
-            },
-            {
-              "slug": "selumetinib-sulfate",
-              "name": "Selumetinib Sulfate"
-            },
-            {
-              "slug": "sildenafil",
-              "name": "Sildenafil"
-            },
-            {
-              "slug": "silodosin",
-              "name": "Silodosin"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "vardenafil",
-              "name": "Vardenafil"
-            },
-            {
-              "slug": "vernakalant-hydrochloride",
-              "name": "Vernakalant Hydrochloride"
-            },
-            {
-              "slug": "voriconazole",
-              "name": "Voriconazole"
-            },
-            {
-              "slug": "zonisamide",
-              "name": "Zonisamide"
             }
           ]
         }
@@ -6348,6 +7458,90 @@
       ]
     },
     {
+      "id": "441551933f84",
+      "title": "I’ve just found out I have dementia. I’m so scared - The Independent",
+      "published": "2026-06-15T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "alzheimer disease",
+          "keyword": "dementia",
+          "related_drugs": [
+            {
+              "slug": "alectinib-hydrochloride",
+              "name": "Alectinib Hydrochloride"
+            },
+            {
+              "slug": "brigatinib",
+              "name": "Brigatinib"
+            },
+            {
+              "slug": "carbidopa",
+              "name": "Carbidopa"
+            },
+            {
+              "slug": "ceritinib",
+              "name": "Ceritinib"
+            },
+            {
+              "slug": "crizotinib",
+              "name": "Crizotinib"
+            },
+            {
+              "slug": "dasatinib-monohydrate",
+              "name": "Dasatinib Monohydrate"
+            },
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "Erlotinib"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "levodopa",
+              "name": "Levodopa"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib"
+            },
+            {
+              "slug": "opicapone",
+              "name": "Opicapone"
+            },
+            {
+              "slug": "pembrolizumab",
+              "name": "Pembrolizumab"
+            },
+            {
+              "slug": "ponatinib",
+              "name": "Ponatinib"
+            },
+            {
+              "slug": "rasagiline",
+              "name": "Rasagiline"
+            },
+            {
+              "slug": "tolcapone",
+              "name": "Tolcapone"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "be79b8aee7a8",
       "title": "Kaffee-Wirkstoffe: Polyphenole senken Entzündungen stärker als Koffein - AD HOC NEWS",
       "published": "2026-06-15T12:55:54+00:00",
@@ -8177,6 +9371,70 @@
       ]
     },
     {
+      "id": "558fb08fdf39",
+      "title": "Herzinfarkt und Schlaganfall: 99 Prozent lassen sich verhindern - AD HOC NEWS",
+      "published": "2026-06-15T11:21:49+00:00",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTh3cEZGZDFHbEN5VmYyMHFNMkgwelNtZ3dyVDUwekxsWXBfN0xVcUZURFZUWDlCOFJNbi1Cbmd2anU3MFZhWjFwcDgwV0VCaFR0NWFKYzRRenhzSTdXd2xFWG1DblNnbERuNTNkMExvV2FFZFcxRlpEV3A5YURHZV9tSlQ3OE5BREwyY1JlLWdPQTB0UDRGQWQzY3IwTGZQMkdkLVBxTGlTRmFxMTNINQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "Schlaganfall",
+          "related_drugs": [
+            {
+              "slug": "aliskiren",
+              "name": "Aliskiren"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine"
+            },
+            {
+              "slug": "avanafil",
+              "name": "Avanafil"
+            },
+            {
+              "slug": "azilsartan-medoxomil",
+              "name": "Azilsartan Medoxomil"
+            },
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "orlistat",
+              "name": "Orlistat"
+            },
+            {
+              "slug": "raloxifene-hydrochloride",
+              "name": "Raloxifene Hydrochloride"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "Simvastatin"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan"
+            },
+            {
+              "slug": "vardenafil",
+              "name": "Vardenafil"
+            },
+            {
+              "slug": "vernakalant-hydrochloride",
+              "name": "Vernakalant Hydrochloride"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1857e9752487",
       "title": "Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live",
       "published": "2026-06-15T11:13:56+00:00",
@@ -9113,7 +10371,7 @@
         {
           "type": "indication",
           "name": "alzheimer disease",
-          "keyword": "dementia",
+          "keyword": "Alzheimer's",
           "related_drugs": [
             {
               "slug": "alectinib-hydrochloride",
@@ -11167,26 +12425,6 @@
       ]
     },
     {
-      "id": "4f1bccdf4fc8",
-      "title": "Los fármacos para adelgazar se disparan en España: ventas récord, pero los médicos lanzan una advertencia - Noticias Ciudadanas",
-      "published": "2026-06-15T10:30:08+00:00",
-      "sources": [
-        {
-          "name": "Noticias Ciudadanas",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaTVaaTYxd205UVdyek9CeGRDWERka3h3SE14SjJETms3WVZkVkNkaVFkbFIxS3NMMzNjak5Eby15LThyZU9RZlNSSl9XMER1OE5VSHJDRkFNYnRxVXlGZ3NPUm9CU2NQSnJxVVk0ZnFUR0dzNkFPQS1kVG52eUJrakZETFRoX010dHl6eGtnQVJ3QmxIOGx5MVBYdVNya0JPdkdzV3VTLXRWVGdoT0lwS3h3NE5SQ0RoSTlFVHFDY2hldGdwVGZEaXU4T3o1MVhL?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "slug": "semaglutide",
-          "keyword": "ozempic",
-          "name": "Semaglutide",
-          "url": "/drugs/semaglutide/"
-        }
-      ]
-    },
-    {
       "id": "b2f83e29bcec",
       "title": "So wirksam ist Thymian bei Bronchitis, COPD & Asthma",
       "published": "2026-06-15T10:17:50+00:00",
@@ -11506,6 +12744,572 @@
       ]
     },
     {
+      "id": "043c60d192ee",
+      "title": "Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung",
+      "published": "2026-06-15T10:02:00+00:00",
+      "sources": [
+        {
+          "name": "DZD - Deutsches Zentrum für Diabetesforschung",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            {
+              "slug": "abaloparatide",
+              "name": "Abaloparatide"
+            },
+            {
+              "slug": "alogliptin",
+              "name": "Alogliptin"
+            },
+            {
+              "slug": "angiotensin-ii-acetate",
+              "name": "Angiotensin Ii Acetate"
+            },
+            {
+              "slug": "anifrolumab",
+              "name": "Anifrolumab"
+            },
+            {
+              "slug": "belimumab",
+              "name": "Belimumab"
+            },
+            {
+              "slug": "besilesomab",
+              "name": "Besilesomab"
+            },
+            {
+              "slug": "bimekizumab",
+              "name": "Bimekizumab"
+            },
+            {
+              "slug": "blinatumomab",
+              "name": "Blinatumomab"
+            },
+            {
+              "slug": "burosumab",
+              "name": "Burosumab"
+            },
+            {
+              "slug": "cabotegravir",
+              "name": "Cabotegravir"
+            },
+            {
+              "slug": "canagliflozin",
+              "name": "Canagliflozin"
+            },
+            {
+              "slug": "catumaxomab",
+              "name": "Catumaxomab"
+            },
+            {
+              "slug": "chenodeoxycholic-acid",
+              "name": "Chenodeoxycholic Acid"
+            },
+            {
+              "slug": "colesevelam-as-hydrochloride",
+              "name": "Colesevelam (As Hydrochloride)"
+            },
+            {
+              "slug": "concizumab",
+              "name": "Concizumab"
+            },
+            {
+              "slug": "damoctocog-alfa-pegol",
+              "name": "Damoctocog Alfa Pegol"
+            },
+            {
+              "slug": "dapagliflozin",
+              "name": "Dapagliflozin"
+            },
+            {
+              "slug": "denosumab",
+              "name": "Denosumab"
+            },
+            {
+              "slug": "diroximel-fumarate-biib098",
+              "name": "Diroximel Fumarate (Biib098)"
+            },
+            {
+              "slug": "dulaglutide",
+              "name": "Dulaglutide"
+            },
+            {
+              "slug": "empagliflozin",
+              "name": "Empagliflozin"
+            },
+            {
+              "slug": "eravacycline",
+              "name": "Eravacycline"
+            },
+            {
+              "slug": "evinacumab",
+              "name": "Evinacumab"
+            },
+            {
+              "slug": "faricimab",
+              "name": "Faricimab"
+            },
+            {
+              "slug": "ferric-maltol",
+              "name": "Ferric Maltol"
+            },
+            {
+              "slug": "glimepiride",
+              "name": "Glimepiride"
+            },
+            {
+              "slug": "glucarpidase",
+              "name": "Glucarpidase"
+            },
+            {
+              "slug": "guselkumab",
+              "name": "Guselkumab"
+            },
+            {
+              "slug": "imlifidase",
+              "name": "Imlifidase"
+            },
+            {
+              "slug": "inebilizumab",
+              "name": "Inebilizumab"
+            },
+            {
+              "slug": "inotuzumab-ozogamicin",
+              "name": "Inotuzumab Ozogamicin"
+            },
+            {
+              "slug": "insulin-aspart",
+              "name": "Insulin Aspart"
+            },
+            {
+              "slug": "insulin-degludec",
+              "name": "Insulin Degludec"
+            },
+            {
+              "slug": "insulin-detemir",
+              "name": "Insulin Detemir"
+            },
+            {
+              "slug": "insulin-glargine",
+              "name": "Insulin Glargine"
+            },
+            {
+              "slug": "insulin-glulisine",
+              "name": "Insulin Glulisine"
+            },
+            {
+              "slug": "insulin-human",
+              "name": "Insulin Human"
+            },
+            {
+              "slug": "insulin-lispro",
+              "name": "Insulin Lispro"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "lebrikizumab",
+              "name": "Lebrikizumab"
+            },
+            {
+              "slug": "lecanemab",
+              "name": "Lecanemab"
+            },
+            {
+              "slug": "linagliptin",
+              "name": "Linagliptin"
+            },
+            {
+              "slug": "lipegfilgrastim",
+              "name": "Lipegfilgrastim"
+            },
+            {
+              "slug": "liraglutide",
+              "name": "Liraglutide"
+            },
+            {
+              "slug": "lixisenatide",
+              "name": "Lixisenatide"
+            },
+            {
+              "slug": "maribavir",
+              "name": "Maribavir"
+            },
+            {
+              "slug": "metformin",
+              "name": "Metformin"
+            },
+            {
+              "slug": "methoxy-polyethylene-glycol-epoetin-beta",
+              "name": "Methoxy Polyethylene Glycol-Epoetin Beta"
+            },
+            {
+              "slug": "mifamurtide",
+              "name": "Mifamurtide"
+            },
+            {
+              "slug": "natalizumab",
+              "name": "Natalizumab"
+            },
+            {
+              "slug": "nemolizumab",
+              "name": "Nemolizumab"
+            },
+            {
+              "slug": "nonacog-beta-pegol",
+              "name": "Nonacog Beta Pegol"
+            },
+            {
+              "slug": "onasemnogene-abeparvovec",
+              "name": "Onasemnogene Abeparvovec"
+            },
+            {
+              "slug": "panitumumab",
+              "name": "Panitumumab"
+            },
+            {
+              "slug": "pegfilgrastim",
+              "name": "Pegfilgrastim"
+            },
+            {
+              "slug": "pegvaliase",
+              "name": "Pegvaliase"
+            },
+            {
+              "slug": "pioglitazone",
+              "name": "Pioglitazone"
+            },
+            {
+              "slug": "prasterone",
+              "name": "Prasterone"
+            },
+            {
+              "slug": "ranibizumab",
+              "name": "Ranibizumab"
+            },
+            {
+              "slug": "repaglinide",
+              "name": "Repaglinide"
+            },
+            {
+              "slug": "risankizumab",
+              "name": "Risankizumab"
+            },
+            {
+              "slug": "romosozumab",
+              "name": "Romosozumab"
+            },
+            {
+              "slug": "sacituzumab-govitecan",
+              "name": "Sacituzumab Govitecan"
+            },
+            {
+              "slug": "sacubitril",
+              "name": "Sacubitril"
+            },
+            {
+              "slug": "sargramostim",
+              "name": "Sargramostim"
+            },
+            {
+              "slug": "saxagliptin",
+              "name": "Saxagliptin"
+            },
+            {
+              "slug": "semaglutide",
+              "name": "Semaglutide"
+            },
+            {
+              "slug": "sitagliptin",
+              "name": "Sitagliptin"
+            },
+            {
+              "slug": "sitagliptin-hydrochloride",
+              "name": "Sitagliptin Hydrochloride"
+            },
+            {
+              "slug": "somapacitan",
+              "name": "Somapacitan"
+            },
+            {
+              "slug": "sotatercept",
+              "name": "Sotatercept"
+            },
+            {
+              "slug": "sufentanil-citrate",
+              "name": "Sufentanil Citrate"
+            },
+            {
+              "slug": "tafasitamab",
+              "name": "Tafasitamab"
+            },
+            {
+              "slug": "teplizumab",
+              "name": "Teplizumab"
+            },
+            {
+              "slug": "tezepelumab",
+              "name": "Tezepelumab"
+            },
+            {
+              "slug": "tildrakizumab",
+              "name": "Tildrakizumab"
+            },
+            {
+              "slug": "tralokinumab",
+              "name": "Tralokinumab"
+            },
+            {
+              "slug": "trastuzumab-deruxtecan",
+              "name": "Trastuzumab Deruxtecan"
+            },
+            {
+              "slug": "tremelimumab",
+              "name": "Tremelimumab"
+            },
+            {
+              "slug": "treosulfan",
+              "name": "Treosulfan"
+            },
+            {
+              "slug": "ublituximab",
+              "name": "Ublituximab"
+            },
+            {
+              "slug": "ustekinumab",
+              "name": "Ustekinumab"
+            },
+            {
+              "slug": "vedolizumab",
+              "name": "Vedolizumab"
+            },
+            {
+              "slug": "vildagliptin",
+              "name": "Vildagliptin"
+            },
+            {
+              "slug": "voclosporin",
+              "name": "Voclosporin"
+            },
+            {
+              "slug": "zolbetuximab",
+              "name": "Zolbetuximab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "obesity",
+          "keyword": "Adipositas",
+          "related_drugs": [
+            {
+              "slug": "bupropion",
+              "name": "Bupropion"
+            },
+            {
+              "slug": "fenfluramine-hydrochloride",
+              "name": "Fenfluramine Hydrochloride"
+            },
+            {
+              "slug": "lasmiditan-succinate",
+              "name": "Lasmiditan Succinate"
+            },
+            {
+              "slug": "melatonin",
+              "name": "Melatonin"
+            },
+            {
+              "slug": "naltrexone",
+              "name": "Naltrexone"
+            },
+            {
+              "slug": "orlistat",
+              "name": "Orlistat"
+            },
+            {
+              "slug": "vernakalant-hydrochloride",
+              "name": "Vernakalant Hydrochloride"
+            },
+            {
+              "slug": "ziconotide",
+              "name": "Ziconotide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "atrial fibrillation",
+          "keyword": "Vorhofflimmern",
+          "related_drugs": [
+            {
+              "slug": "aprepitant",
+              "name": "Aprepitant"
+            },
+            {
+              "slug": "aripiprazole",
+              "name": "Aripiprazole"
+            },
+            {
+              "slug": "asenapine-maleate",
+              "name": "Asenapine Maleate"
+            },
+            {
+              "slug": "bimatoprost",
+              "name": "Bimatoprost"
+            },
+            {
+              "slug": "cetrorelix-as-acetate",
+              "name": "Cetrorelix (As Acetate)"
+            },
+            {
+              "slug": "degarelix",
+              "name": "Degarelix"
+            },
+            {
+              "slug": "dostarlimab",
+              "name": "Dostarlimab"
+            },
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "eflornithine",
+              "name": "Eflornithine"
+            },
+            {
+              "slug": "elafibranor",
+              "name": "Elafibranor"
+            },
+            {
+              "slug": "eliglustat-tartrate",
+              "name": "Eliglustat (Tartrate)"
+            },
+            {
+              "slug": "fentanyl",
+              "name": "Fentanyl"
+            },
+            {
+              "slug": "ganirelix-acetate",
+              "name": "Ganirelix Acetate"
+            },
+            {
+              "slug": "granisetron",
+              "name": "Granisetron"
+            },
+            {
+              "slug": "guanfacine-hydrochloride",
+              "name": "Guanfacine Hydrochloride"
+            },
+            {
+              "slug": "ivabradine-hydrochloride",
+              "name": "Ivabradine Hydrochloride"
+            },
+            {
+              "slug": "lacosamide",
+              "name": "Lacosamide"
+            },
+            {
+              "slug": "loxapine",
+              "name": "Loxapine"
+            },
+            {
+              "slug": "lurasidone",
+              "name": "Lurasidone"
+            },
+            {
+              "slug": "macimorelin-acetate",
+              "name": "Macimorelin Acetate"
+            },
+            {
+              "slug": "metreleptin",
+              "name": "Metreleptin"
+            },
+            {
+              "slug": "mexiletine-hydrochloride",
+              "name": "Mexiletine Hydrochloride"
+            },
+            {
+              "slug": "mycophenolate-mofetil",
+              "name": "Mycophenolate Mofetil"
+            },
+            {
+              "slug": "nitric-oxide",
+              "name": "Nitric Oxide"
+            },
+            {
+              "slug": "olanzapine",
+              "name": "Olanzapine"
+            },
+            {
+              "slug": "osilodrostat-phosphate",
+              "name": "Osilodrostat Phosphate"
+            },
+            {
+              "slug": "pasireotide",
+              "name": "Pasireotide"
+            },
+            {
+              "slug": "posaconazole",
+              "name": "Posaconazole"
+            },
+            {
+              "slug": "prilocaine",
+              "name": "Prilocaine"
+            },
+            {
+              "slug": "riociguat",
+              "name": "Riociguat"
+            },
+            {
+              "slug": "risperidone",
+              "name": "Risperidone"
+            },
+            {
+              "slug": "selumetinib-sulfate",
+              "name": "Selumetinib Sulfate"
+            },
+            {
+              "slug": "sildenafil",
+              "name": "Sildenafil"
+            },
+            {
+              "slug": "silodosin",
+              "name": "Silodosin"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "vardenafil",
+              "name": "Vardenafil"
+            },
+            {
+              "slug": "vernakalant-hydrochloride",
+              "name": "Vernakalant Hydrochloride"
+            },
+            {
+              "slug": "voriconazole",
+              "name": "Voriconazole"
+            },
+            {
+              "slug": "zonisamide",
+              "name": "Zonisamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dcedeb211619",
       "title": "Emicrania, il 17 giugno torna l’Open Day di Asst Bergamo Ovest - L'Eco di Bergamo",
       "published": "2026-06-15T09:52:25+00:00",
@@ -11722,130 +13526,6 @@
       ]
     },
     {
-      "id": "14b7e9df93e9",
-      "title": "Badalona lidera la investigación de la OMS sobre el hantavirus de los Andes",
-      "published": "2026-06-15T09:40:00+00:00",
-      "sources": [
-        {
-          "name": "CatalunyaPress",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVk9GazVoTmtLajFjZTdlS1BJeXB5bEJUdlZjdlQwY01rUXRiZGZmbHQyX25XUWQ0eDRpaVB6V3VtaTVLWWxhUnVxRERyaUg1UDkzYXdNU1NscDA3LVpPQTAyZHVSOHI0TTlVd0gzSDUzclI0TUtKV1F0UERXU3NFR0NsblNEWFNPYU5YMWFuRzd3VlJ5LU1aeEo1YXpMMmo0ZmNtcTlOcVYyeWk0VGpmZDMxMFFIeXNXWWNnbnJLUjZpcTZVYW1tLXAtOFF1cEJIRU5uaA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "multiple sclerosis",
-          "keyword": "MS",
-          "related_drugs": [
-            {
-              "slug": "alemtuzumab",
-              "name": "Alemtuzumab"
-            },
-            {
-              "slug": "asenapine-maleate",
-              "name": "Asenapine Maleate"
-            },
-            {
-              "slug": "belatacept",
-              "name": "Belatacept"
-            },
-            {
-              "slug": "cariprazine-hydrochloride",
-              "name": "Cariprazine Hydrochloride"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "dimethyl-fumarate",
-              "name": "Dimethyl Fumarate"
-            },
-            {
-              "slug": "elbasvir",
-              "name": "Elbasvir"
-            },
-            {
-              "slug": "fingolimod",
-              "name": "Fingolimod"
-            },
-            {
-              "slug": "glecaprevir",
-              "name": "Glecaprevir"
-            },
-            {
-              "slug": "grazoprevir",
-              "name": "Grazoprevir"
-            },
-            {
-              "slug": "interferon-beta-1a",
-              "name": "Interferon Beta-1A"
-            },
-            {
-              "slug": "interferon-beta-1b",
-              "name": "Interferon Beta-1B"
-            },
-            {
-              "slug": "ledipasvir",
-              "name": "Ledipasvir"
-            },
-            {
-              "slug": "loxapine",
-              "name": "Loxapine"
-            },
-            {
-              "slug": "lurasidone",
-              "name": "Lurasidone"
-            },
-            {
-              "slug": "mycophenolate-mofetil",
-              "name": "Mycophenolate Mofetil"
-            },
-            {
-              "slug": "nelarabine",
-              "name": "Nelarabine"
-            },
-            {
-              "slug": "ozanimod-hydrochloride",
-              "name": "Ozanimod Hydrochloride"
-            },
-            {
-              "slug": "peginterferon-alfa-2a",
-              "name": "Peginterferon Alfa-2A"
-            },
-            {
-              "slug": "peginterferon-beta-1a",
-              "name": "Peginterferon Beta-1A"
-            },
-            {
-              "slug": "pibrentasvir",
-              "name": "Pibrentasvir"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            },
-            {
-              "slug": "rufinamide",
-              "name": "Rufinamide"
-            },
-            {
-              "slug": "sofosbuvir",
-              "name": "Sofosbuvir"
-            },
-            {
-              "slug": "teriflunomide",
-              "name": "Teriflunomide"
-            },
-            {
-              "slug": "velpatasvir",
-              "name": "Velpatasvir"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "9c998364eede",
       "title": "La Comunidad Valenciana refuerza la vigilancia y control de las enfermedades transmitidas por vectores",
       "published": "2026-06-15T09:33:00+00:00",
@@ -11964,58 +13644,6 @@
             {
               "slug": "velpatasvir",
               "name": "Velpatasvir"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ed4553e4c0cb",
-      "title": "Survodutida muestra potencial para abordar la obesidad más allá de la pérdida de peso - IM Médico",
-      "published": "2026-06-15T09:30:00+00:00",
-      "sources": [
-        {
-          "name": "IM Médico",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXk3aG9oME5VbGtJdjNmUFV2TjN3UzE0VzZaWEQ1bXpRd1NUUm5uRXlLZ0loV1ExQWpoUVRfY2NrcDdVaUM2VXVaSGk2bHdKbkY4b3pMT1N5eUlxWXNQVlpYcDZ5NGRDdWpvN1dJNm9KblVDMHBZZ0RkTUpLTk5EMzFtc0ZMcXRfMEd2RnU3Nk81ZUJOdGNQa0FfNzhmQXJwTDNCMGdJV0w4RUJDalZZSUdDSC1pVVZ5UFNuV2wycXfSAbsBQVVfeXFMTXZQUzRqN1Z1c2oxWG1SazBDS0owcG5vajRJWEkxRTA4RjNMRWpaYTlmVVFXN0gyQS1BSXZUZk80RzlGazlhUDA5N2k4bWJadEN6dmcxd3hXRFJFOTF0RkZGWVBZNWhmWWlnZ0pqdXBMWm9KWWRhVVVFUUZ2Q0lJSjV3d3RUOEZxd0FQMTVWbWpUbDRlZ3BCM2F2MjVueW1ibzRYd3NxQS16aUhrSHlPZHZZM0x2U1NwOUFQQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "obesity",
-          "keyword": "obesidad",
-          "related_drugs": [
-            {
-              "slug": "bupropion",
-              "name": "Bupropion"
-            },
-            {
-              "slug": "fenfluramine-hydrochloride",
-              "name": "Fenfluramine Hydrochloride"
-            },
-            {
-              "slug": "lasmiditan-succinate",
-              "name": "Lasmiditan Succinate"
-            },
-            {
-              "slug": "melatonin",
-              "name": "Melatonin"
-            },
-            {
-              "slug": "naltrexone",
-              "name": "Naltrexone"
-            },
-            {
-              "slug": "orlistat",
-              "name": "Orlistat"
-            },
-            {
-              "slug": "vernakalant-hydrochloride",
-              "name": "Vernakalant Hydrochloride"
-            },
-            {
-              "slug": "ziconotide",
-              "name": "Ziconotide"
             }
           ]
         }
@@ -12954,6 +14582,26 @@
               "name": "Zoledronic Acid"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "470b9d687e8d",
+      "title": "Dans la famille de Clémence, TDAH comme sa mère… et ses trois fils : « J’ai peur de leur adolescence - Le Parisien",
+      "published": "2026-06-15T09:00:00+00:00",
+      "sources": [
+        {
+          "name": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaVVzb3djZFVvTWtzLTY0a3Vzb2VGLWhLeTVGRmFCeGxqd1pVc3dwWWtwNFY2QzgxdWxXUGx4a1E3SlFaR05WcmNIZXNPdUxyWFB5ajJQSTdWN3U1Z0M3VkZWY1hPQ1NXanlYckZ3dDhWSVktWjhjM21WVFpCaXdBN3lGZ2ZnTVNDZjRoVll0dkpzRmFmSGZfM1RyNGNjQkFZZXZaeTdRSnVORTduNjV1WFBSdFA1NXhyR0NoUGtMLTM1ellaQmpIOF9VSzAtWWRsWTMxTVJOel9oeWxMdURQcFdxM0NRMWVDRlJQOHBKSk1KOFk5OXNlWkFjTlMyaG5PcVpoWDVuOTc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "amlodipine",
+          "keyword": "istin",
+          "name": "Amlodipine",
+          "url": "/drugs/amlodipine/"
         }
       ]
     },
@@ -15631,6 +17279,178 @@
             {
               "slug": "velpatasvir",
               "name": "Velpatasvir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd74f1689cbb",
+      "title": "Un mese di ebola nella Repubblica Democratica del Congo - Il Post",
+      "published": "2026-06-15T06:35:15+00:00",
+      "sources": [
+        {
+          "name": "Il Post",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2FlaVUxX2dpNXpURHJicmdaWm5Idzcxemo2WEgyZFQ1NzRqM3I2QWlyWHJicktyTnFDYXdWZVNVUHdNc1RBSHNEUXI2WjkyNFJfSDJnVlVjdUk5Y0luSm5MMHZDUUMyTFlGdjJCb2E1UXZWWWFWT3pXSndjWXVfMDM0SHFuM0I2OEhCT1Vn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "multiple sclerosis",
+          "keyword": "MS",
+          "related_drugs": [
+            {
+              "slug": "alemtuzumab",
+              "name": "Alemtuzumab"
+            },
+            {
+              "slug": "asenapine-maleate",
+              "name": "Asenapine Maleate"
+            },
+            {
+              "slug": "belatacept",
+              "name": "Belatacept"
+            },
+            {
+              "slug": "cariprazine-hydrochloride",
+              "name": "Cariprazine Hydrochloride"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "dimethyl-fumarate",
+              "name": "Dimethyl Fumarate"
+            },
+            {
+              "slug": "elbasvir",
+              "name": "Elbasvir"
+            },
+            {
+              "slug": "fingolimod",
+              "name": "Fingolimod"
+            },
+            {
+              "slug": "glecaprevir",
+              "name": "Glecaprevir"
+            },
+            {
+              "slug": "grazoprevir",
+              "name": "Grazoprevir"
+            },
+            {
+              "slug": "interferon-beta-1a",
+              "name": "Interferon Beta-1A"
+            },
+            {
+              "slug": "interferon-beta-1b",
+              "name": "Interferon Beta-1B"
+            },
+            {
+              "slug": "ledipasvir",
+              "name": "Ledipasvir"
+            },
+            {
+              "slug": "loxapine",
+              "name": "Loxapine"
+            },
+            {
+              "slug": "lurasidone",
+              "name": "Lurasidone"
+            },
+            {
+              "slug": "mycophenolate-mofetil",
+              "name": "Mycophenolate Mofetil"
+            },
+            {
+              "slug": "nelarabine",
+              "name": "Nelarabine"
+            },
+            {
+              "slug": "ozanimod-hydrochloride",
+              "name": "Ozanimod Hydrochloride"
+            },
+            {
+              "slug": "peginterferon-alfa-2a",
+              "name": "Peginterferon Alfa-2A"
+            },
+            {
+              "slug": "peginterferon-beta-1a",
+              "name": "Peginterferon Beta-1A"
+            },
+            {
+              "slug": "pibrentasvir",
+              "name": "Pibrentasvir"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
+            },
+            {
+              "slug": "rufinamide",
+              "name": "Rufinamide"
+            },
+            {
+              "slug": "sofosbuvir",
+              "name": "Sofosbuvir"
+            },
+            {
+              "slug": "teriflunomide",
+              "name": "Teriflunomide"
+            },
+            {
+              "slug": "velpatasvir",
+              "name": "Velpatasvir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56de57cc5245",
+      "title": "Charité startet 2,3-Millionen-Studie: DHEA als Zusatztherapie bei therapieresistenter Depression - it boltwise",
+      "published": "2026-06-15T06:09:01+00:00",
+      "sources": [
+        {
+          "name": "it boltwise",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWi1lc0I3aE14M0Rud00xc2JfWFRaVWpmRG5hTjR2cElxOGJqVmJvSjV4enJrQ2lHRHNkOTF6Z0ZnOW04UXQ1MWY3YTdXUGNBYW1XYnp5TkVITEotQV9mTDF1bFVWLXBOU0dYNS1fS1VCMmhfNk5WUU1TTWlLc2hwSVZIZ0d4MzlZeWZNZVZwa1BLUEVhQ0FycU1TaGNtNUpsTll2OXlfMVpoaXVnR1JUeGlObEdIRHh0WTdpTzFqdDhvM282?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "depression",
+          "keyword": "depression",
+          "related_drugs": [
+            {
+              "slug": "agomelatine",
+              "name": "Agomelatine"
+            },
+            {
+              "slug": "brexpiprazole",
+              "name": "Brexpiprazole"
+            },
+            {
+              "slug": "duloxetine-hydrochloride",
+              "name": "Duloxetine Hydrochloride"
+            },
+            {
+              "slug": "esketamine-hydrochloride",
+              "name": "Esketamine Hydrochloride"
+            },
+            {
+              "slug": "olanzapine",
+              "name": "Olanzapine"
+            },
+            {
+              "slug": "tasimelteon",
+              "name": "Tasimelteon"
+            },
+            {
+              "slug": "vortioxetine",
+              "name": "Vortioxetine"
             }
           ]
         }
@@ -20819,414 +22639,22 @@
       ]
     },
     {
-      "id": "c3c44524e4ab",
-      "title": "Depression: Charité startet 2,3-Millionen-Euro-Studie mit DHEA - AD HOC NEWS",
-      "published": "2026-06-15T03:11:26+00:00",
+      "id": "d978c3f140ff",
+      "title": "Las personas que usan Ozempic y otros fármacos para adelgazar reducen su actividad física",
+      "published": "2026-06-15T00:22:58+00:00",
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFgxU3ltSENOOTV6WTcxRTdCbWlpc3ktUGliOUZ4SDhIeHVOOXhpTWdNb1h1bTVxeF83blFlSmhZbVNIaXI3VXlqTld0VHV3d3BQUzc3SkNNTUV3V3Ixdmk3WlRkbm1mNEZtZlUwZEk5RG0wcXltWHRmM2J0aWFRRXh5V0RJZTN6XzZEaUtZVnotMDRRSW81eFA1d3c4VGFzV3ZleWlxQ0RLckdGUDNV?oc=5"
+          "name": "ABC",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1I4QVhRaVZOVDZHWFcwVEVjRXhpYkx3V1JENF9QNVlXRFhBenFST0ttcnlLaXNXZWViUUpKNWhMV1h6N3lHZ2RZRmtvc3BGR1NRUEdJT0ZfT1ZoRERlMW9hQUdYdGJJcXdjMy1tNTh0YThVd1BWS21ULTdVOUU0akduU0trLWVxNWFWMzE5RjYyOE1TV1dWbTJNemFYTC1VU2RoYmJscnlaTm1jVWRZMnNtZ1ZWRmpLX2Q40gHAAUFVX3lxTE90RFpDMHR4QndqLXN2OXgwaFY3TVBlWE9STlBvX182ZnN2SkdTOWV2WFdUdnVocVhyUk1FbUljWTNnazRla2lBOWtwUHNWQXViZm1SS2tsRURFTkF5dUFpUlJpckdEU19nVVprdnNvUFZSRnNyUkFVeWg1NWhmR2lWZThBQWd4eFVtQmN4ME5RNXJTS0tNeFBBWWhFekJzb3doSnA5a01CeUxON2Ruam5rUU8tb21vd0hBTDZiM1RLTA?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "indication",
-          "name": "depression",
-          "keyword": "depression",
-          "related_drugs": [
-            {
-              "slug": "agomelatine",
-              "name": "Agomelatine"
-            },
-            {
-              "slug": "brexpiprazole",
-              "name": "Brexpiprazole"
-            },
-            {
-              "slug": "duloxetine-hydrochloride",
-              "name": "Duloxetine Hydrochloride"
-            },
-            {
-              "slug": "esketamine-hydrochloride",
-              "name": "Esketamine Hydrochloride"
-            },
-            {
-              "slug": "olanzapine",
-              "name": "Olanzapine"
-            },
-            {
-              "slug": "tasimelteon",
-              "name": "Tasimelteon"
-            },
-            {
-              "slug": "vortioxetine",
-              "name": "Vortioxetine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a81b88910383",
-      "title": "Diabetes und Zahnverlust: Bewegung nach dem Essen senkt Risiko deutlich - it boltwise",
-      "published": "2026-06-15T00:33:48+00:00",
-      "sources": [
-        {
-          "name": "it boltwise",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNajBPaEpzNzM0azU1bnQteWFJMHVsblNCTVhNR09wOF91TFZSazJLenVWM1VGQ3o3aThnZXpTY0NVSEp0TXZUTHNaZnFHZEltS1ZjUDh3Skw3aHdPcS1rQTVHbFpXR3JoWlNSc29uU0FtVGRtbmdTTzFOcjdpY1NEOTVhQzNqOHJMenhYWGM1bGNjbEgtNE5SUUVlSGZJSGxlM1FYRA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "diabetes mellitus",
-          "keyword": "diabetes",
-          "related_drugs": [
-            {
-              "slug": "abaloparatide",
-              "name": "Abaloparatide"
-            },
-            {
-              "slug": "alogliptin",
-              "name": "Alogliptin"
-            },
-            {
-              "slug": "angiotensin-ii-acetate",
-              "name": "Angiotensin Ii Acetate"
-            },
-            {
-              "slug": "anifrolumab",
-              "name": "Anifrolumab"
-            },
-            {
-              "slug": "belimumab",
-              "name": "Belimumab"
-            },
-            {
-              "slug": "besilesomab",
-              "name": "Besilesomab"
-            },
-            {
-              "slug": "bimekizumab",
-              "name": "Bimekizumab"
-            },
-            {
-              "slug": "blinatumomab",
-              "name": "Blinatumomab"
-            },
-            {
-              "slug": "burosumab",
-              "name": "Burosumab"
-            },
-            {
-              "slug": "cabotegravir",
-              "name": "Cabotegravir"
-            },
-            {
-              "slug": "canagliflozin",
-              "name": "Canagliflozin"
-            },
-            {
-              "slug": "catumaxomab",
-              "name": "Catumaxomab"
-            },
-            {
-              "slug": "chenodeoxycholic-acid",
-              "name": "Chenodeoxycholic Acid"
-            },
-            {
-              "slug": "colesevelam-as-hydrochloride",
-              "name": "Colesevelam (As Hydrochloride)"
-            },
-            {
-              "slug": "concizumab",
-              "name": "Concizumab"
-            },
-            {
-              "slug": "damoctocog-alfa-pegol",
-              "name": "Damoctocog Alfa Pegol"
-            },
-            {
-              "slug": "dapagliflozin",
-              "name": "Dapagliflozin"
-            },
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
-            },
-            {
-              "slug": "diroximel-fumarate-biib098",
-              "name": "Diroximel Fumarate (Biib098)"
-            },
-            {
-              "slug": "dulaglutide",
-              "name": "Dulaglutide"
-            },
-            {
-              "slug": "empagliflozin",
-              "name": "Empagliflozin"
-            },
-            {
-              "slug": "eravacycline",
-              "name": "Eravacycline"
-            },
-            {
-              "slug": "evinacumab",
-              "name": "Evinacumab"
-            },
-            {
-              "slug": "faricimab",
-              "name": "Faricimab"
-            },
-            {
-              "slug": "ferric-maltol",
-              "name": "Ferric Maltol"
-            },
-            {
-              "slug": "glimepiride",
-              "name": "Glimepiride"
-            },
-            {
-              "slug": "glucarpidase",
-              "name": "Glucarpidase"
-            },
-            {
-              "slug": "guselkumab",
-              "name": "Guselkumab"
-            },
-            {
-              "slug": "imlifidase",
-              "name": "Imlifidase"
-            },
-            {
-              "slug": "inebilizumab",
-              "name": "Inebilizumab"
-            },
-            {
-              "slug": "inotuzumab-ozogamicin",
-              "name": "Inotuzumab Ozogamicin"
-            },
-            {
-              "slug": "insulin-aspart",
-              "name": "Insulin Aspart"
-            },
-            {
-              "slug": "insulin-degludec",
-              "name": "Insulin Degludec"
-            },
-            {
-              "slug": "insulin-detemir",
-              "name": "Insulin Detemir"
-            },
-            {
-              "slug": "insulin-glargine",
-              "name": "Insulin Glargine"
-            },
-            {
-              "slug": "insulin-glulisine",
-              "name": "Insulin Glulisine"
-            },
-            {
-              "slug": "insulin-human",
-              "name": "Insulin Human"
-            },
-            {
-              "slug": "insulin-lispro",
-              "name": "Insulin Lispro"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "lebrikizumab",
-              "name": "Lebrikizumab"
-            },
-            {
-              "slug": "lecanemab",
-              "name": "Lecanemab"
-            },
-            {
-              "slug": "linagliptin",
-              "name": "Linagliptin"
-            },
-            {
-              "slug": "lipegfilgrastim",
-              "name": "Lipegfilgrastim"
-            },
-            {
-              "slug": "liraglutide",
-              "name": "Liraglutide"
-            },
-            {
-              "slug": "lixisenatide",
-              "name": "Lixisenatide"
-            },
-            {
-              "slug": "maribavir",
-              "name": "Maribavir"
-            },
-            {
-              "slug": "metformin",
-              "name": "Metformin"
-            },
-            {
-              "slug": "methoxy-polyethylene-glycol-epoetin-beta",
-              "name": "Methoxy Polyethylene Glycol-Epoetin Beta"
-            },
-            {
-              "slug": "mifamurtide",
-              "name": "Mifamurtide"
-            },
-            {
-              "slug": "natalizumab",
-              "name": "Natalizumab"
-            },
-            {
-              "slug": "nemolizumab",
-              "name": "Nemolizumab"
-            },
-            {
-              "slug": "nonacog-beta-pegol",
-              "name": "Nonacog Beta Pegol"
-            },
-            {
-              "slug": "onasemnogene-abeparvovec",
-              "name": "Onasemnogene Abeparvovec"
-            },
-            {
-              "slug": "panitumumab",
-              "name": "Panitumumab"
-            },
-            {
-              "slug": "pegfilgrastim",
-              "name": "Pegfilgrastim"
-            },
-            {
-              "slug": "pegvaliase",
-              "name": "Pegvaliase"
-            },
-            {
-              "slug": "pioglitazone",
-              "name": "Pioglitazone"
-            },
-            {
-              "slug": "prasterone",
-              "name": "Prasterone"
-            },
-            {
-              "slug": "ranibizumab",
-              "name": "Ranibizumab"
-            },
-            {
-              "slug": "repaglinide",
-              "name": "Repaglinide"
-            },
-            {
-              "slug": "risankizumab",
-              "name": "Risankizumab"
-            },
-            {
-              "slug": "romosozumab",
-              "name": "Romosozumab"
-            },
-            {
-              "slug": "sacituzumab-govitecan",
-              "name": "Sacituzumab Govitecan"
-            },
-            {
-              "slug": "sacubitril",
-              "name": "Sacubitril"
-            },
-            {
-              "slug": "sargramostim",
-              "name": "Sargramostim"
-            },
-            {
-              "slug": "saxagliptin",
-              "name": "Saxagliptin"
-            },
-            {
-              "slug": "semaglutide",
-              "name": "Semaglutide"
-            },
-            {
-              "slug": "sitagliptin",
-              "name": "Sitagliptin"
-            },
-            {
-              "slug": "sitagliptin-hydrochloride",
-              "name": "Sitagliptin Hydrochloride"
-            },
-            {
-              "slug": "somapacitan",
-              "name": "Somapacitan"
-            },
-            {
-              "slug": "sotatercept",
-              "name": "Sotatercept"
-            },
-            {
-              "slug": "sufentanil-citrate",
-              "name": "Sufentanil Citrate"
-            },
-            {
-              "slug": "tafasitamab",
-              "name": "Tafasitamab"
-            },
-            {
-              "slug": "teplizumab",
-              "name": "Teplizumab"
-            },
-            {
-              "slug": "tezepelumab",
-              "name": "Tezepelumab"
-            },
-            {
-              "slug": "tildrakizumab",
-              "name": "Tildrakizumab"
-            },
-            {
-              "slug": "tralokinumab",
-              "name": "Tralokinumab"
-            },
-            {
-              "slug": "trastuzumab-deruxtecan",
-              "name": "Trastuzumab Deruxtecan"
-            },
-            {
-              "slug": "tremelimumab",
-              "name": "Tremelimumab"
-            },
-            {
-              "slug": "treosulfan",
-              "name": "Treosulfan"
-            },
-            {
-              "slug": "ublituximab",
-              "name": "Ublituximab"
-            },
-            {
-              "slug": "ustekinumab",
-              "name": "Ustekinumab"
-            },
-            {
-              "slug": "vedolizumab",
-              "name": "Vedolizumab"
-            },
-            {
-              "slug": "vildagliptin",
-              "name": "Vildagliptin"
-            },
-            {
-              "slug": "voclosporin",
-              "name": "Voclosporin"
-            },
-            {
-              "slug": "zolbetuximab",
-              "name": "Zolbetuximab"
-            }
-          ]
+          "type": "drug",
+          "slug": "semaglutide",
+          "keyword": "ozempic",
+          "name": "Semaglutide",
+          "url": "/drugs/semaglutide/"
         }
       ]
     },
@@ -23266,130 +24694,6 @@
       ]
     },
     {
-      "id": "c66538279226",
-      "title": "Psilocybin als Testfall für vorübergehend zugängliche Gehirnareale bei Alzheimer? - it boltwise",
-      "published": "2026-06-14T21:18:07+00:00",
-      "sources": [
-        {
-          "name": "it boltwise",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUxWRWNnWXNLQmVPd21pMXhqT2dCbHRRMU5aVFhhS2J1OVh1Wnd1SWxVbXlWS2ZEcjRKRld0Z3p2YmVoQzlNbU5vY2xJS01xWVJXRWhTQnBnYVktbHpXcVR1Z1lZVXVGWmtSdU01M0tUYkYxZHdHdDg1VFo4eVk2MjNlMjhyMzdjQWozS1ZJUVplT0x3REZjTHk0M3pKdFozVnozVm1HcTdwbVdsdGxkd0FLUTI4UQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "multiple sclerosis",
-          "keyword": "MS",
-          "related_drugs": [
-            {
-              "slug": "alemtuzumab",
-              "name": "Alemtuzumab"
-            },
-            {
-              "slug": "asenapine-maleate",
-              "name": "Asenapine Maleate"
-            },
-            {
-              "slug": "belatacept",
-              "name": "Belatacept"
-            },
-            {
-              "slug": "cariprazine-hydrochloride",
-              "name": "Cariprazine Hydrochloride"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "dimethyl-fumarate",
-              "name": "Dimethyl Fumarate"
-            },
-            {
-              "slug": "elbasvir",
-              "name": "Elbasvir"
-            },
-            {
-              "slug": "fingolimod",
-              "name": "Fingolimod"
-            },
-            {
-              "slug": "glecaprevir",
-              "name": "Glecaprevir"
-            },
-            {
-              "slug": "grazoprevir",
-              "name": "Grazoprevir"
-            },
-            {
-              "slug": "interferon-beta-1a",
-              "name": "Interferon Beta-1A"
-            },
-            {
-              "slug": "interferon-beta-1b",
-              "name": "Interferon Beta-1B"
-            },
-            {
-              "slug": "ledipasvir",
-              "name": "Ledipasvir"
-            },
-            {
-              "slug": "loxapine",
-              "name": "Loxapine"
-            },
-            {
-              "slug": "lurasidone",
-              "name": "Lurasidone"
-            },
-            {
-              "slug": "mycophenolate-mofetil",
-              "name": "Mycophenolate Mofetil"
-            },
-            {
-              "slug": "nelarabine",
-              "name": "Nelarabine"
-            },
-            {
-              "slug": "ozanimod-hydrochloride",
-              "name": "Ozanimod Hydrochloride"
-            },
-            {
-              "slug": "peginterferon-alfa-2a",
-              "name": "Peginterferon Alfa-2A"
-            },
-            {
-              "slug": "peginterferon-beta-1a",
-              "name": "Peginterferon Beta-1A"
-            },
-            {
-              "slug": "pibrentasvir",
-              "name": "Pibrentasvir"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            },
-            {
-              "slug": "rufinamide",
-              "name": "Rufinamide"
-            },
-            {
-              "slug": "sofosbuvir",
-              "name": "Sofosbuvir"
-            },
-            {
-              "slug": "teriflunomide",
-              "name": "Teriflunomide"
-            },
-            {
-              "slug": "velpatasvir",
-              "name": "Velpatasvir"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "fb08a9dac8f3",
       "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes",
       "published": "2026-06-14T20:19:08+00:00",
@@ -24489,13 +25793,13 @@
       ]
     },
     {
-      "id": "9c63d460ffed",
-      "title": "Ebola one month on: will the latest outbreak in DRC become the most deadly yet? - The Guardian",
-      "published": "2026-06-14T20:12:00+00:00",
+      "id": "a395b4c3a4c9",
+      "title": "This Painful Condition Impacts Women Way More Than Men, And You Need To Know About It",
+      "published": "2026-06-14T20:04:01+00:00",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE02eGtWWkNoQnpqME5Jc3dzckFDU051Y1BjWHcwUlN2bjBCemw3dF9CQ296b1BTNVBZSl8xb096czk1d005b2huNzNBaVRQMjhuQjVyWWdndXNYN0hjYVNCcHcyWmxzNHVZUXIwcG9KcC0wVklieGNDNDJpUUdadGFhWmJ6aTdmS0hGSUE0QTlTSGZLU2Jj?oc=5"
+          "name": "BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42aTROSWNDRHZpSlZXcEU2M3lrZHJpMFBHcTMxOG5BRmJwVDB1Qk1ubXhXUWplbjJrZEh2bGgzdnpRQjltMFdwY0h0azc1TUNmVzZ2cEptcG9aaXRqbW4ydUwtVEgzZ1VGNnU2NDBUUlV6SGZzQldn?oc=5"
         }
       ],
       "keywords": [
@@ -24609,7 +25913,40 @@
               "name": "Velpatasvir"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "d402176f7d3a",
+      "title": "Los científicos identifican el fármaco que reduce la pérdida de masa muscular en los medicamentos para perder peso",
+      "published": "2026-06-14T20:00:05+00:00",
+      "sources": [
+        {
+          "name": "SPORT",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "semaglutide",
+          "keyword": "ozempic",
+          "name": "Semaglutide",
+          "url": "/drugs/semaglutide/"
+        }
+      ]
+    },
+    {
+      "id": "d234bb6dc7e3",
+      "title": "Congo says 782 Ebola cases confirmed, two new health zones affected",
+      "published": "2026-06-14T19:37:55+00:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNzVRYWFqbWpqcms5bFhjZU1VWTg2dnV3SHFLRjJLTTlxOUMxWmJ6NmZRc0pvMzlHLUx5TXVFOEt2dVA4eW01bmhKQjcxV1ktd0drLW9YRWo4cEJsWTR5TGd1enE0a0lRZWVmMmVrdmJJNUs0V3BJUEhOdFlUZy16bXRsNmdhc0RYOTZaQ3Vqb2NSMkJfOUJpT3VWXzVLNnZmbktWazVybzYyTVp6SmVSLV9TT2FWbUJodmMtTnlIUWlNNUc2MDM4N1JKbXByRFFrUVJocw?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
           "name": "atrial fibrillation",
@@ -24776,22 +26113,249 @@
       ]
     },
     {
-      "id": "d402176f7d3a",
-      "title": "Los científicos identifican el fármaco que reduce la pérdida de masa muscular en los medicamentos para perder peso",
-      "published": "2026-06-14T20:00:05+00:00",
+      "id": "67d673883881",
+      "title": "People living with dementia are too often overlooked | Letters - The Guardian",
+      "published": "2026-06-14T19:14:00+00:00",
       "sources": [
         {
-          "name": "SPORT",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVRmbThjOFhwV2RFcHhBZXhESXFBME9UVDVBQkpXQi1iMFpqN1ZCS1pMNVVsVVBWWmp5VW5vWkh1Nk9NblJXQi1HVmZHZ3FIb2xsTVZQWjM2TlkxOExhRE85OHI3cGdEZ01hOGJBYWtka0hOMm1TaWZSYXcwZE9pOF9vVHpNX1h2TlR6bi15UDZQRUxSa1Mxbktad3FlRDktbmfSAaIBQVVfeXFMTjljcld4M19QOGZvOUNpUnlYdUdGQ090WTJkaG5YdDFOTGlkTGk0aUE2U2hKSTBwNWFKMEROUlNqU1ZRUnBiNF9CNkdXVjgwcTBUWkVqOUotb2l4Y2dHMVdRR2dIaTZ1MHlnNXJmLTV2ZG0yNUV2ZnYzUHE4eTVrZWhaRDJBYjdWakc2OWRFUHpobmQtNjliZ2pwU1owNEE0SXR3?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWp4cUxNZG92WkJlM3p0cWpTWldGLTFXY1BRUnN6N1VVSDVHeFVwMy1HSTZjX0pqOXFxLUtSanpyYVhVMy01czRxT0VDeGNjcmdvNlBTODVfMHZ3UFdLSEhJSWk4MjZLX21VOW04RUxKWFlXVmNYZ21PeEk1cTlJbXpxNV9mQi04RUpqTlYyQlpweUxwaXp5RmpUdk5MQ3lEdGc?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "drug",
-          "slug": "tirzepatide",
-          "keyword": "mounjaro",
-          "name": "Tirzepatide",
-          "url": "/drugs/tirzepatide/"
+          "type": "indication",
+          "name": "alzheimer disease",
+          "keyword": "Alzheimer's",
+          "related_drugs": [
+            {
+              "slug": "alectinib-hydrochloride",
+              "name": "Alectinib Hydrochloride"
+            },
+            {
+              "slug": "brigatinib",
+              "name": "Brigatinib"
+            },
+            {
+              "slug": "carbidopa",
+              "name": "Carbidopa"
+            },
+            {
+              "slug": "ceritinib",
+              "name": "Ceritinib"
+            },
+            {
+              "slug": "crizotinib",
+              "name": "Crizotinib"
+            },
+            {
+              "slug": "dasatinib-monohydrate",
+              "name": "Dasatinib Monohydrate"
+            },
+            {
+              "slug": "entacapone",
+              "name": "Entacapone"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "Erlotinib"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "levodopa",
+              "name": "Levodopa"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib"
+            },
+            {
+              "slug": "opicapone",
+              "name": "Opicapone"
+            },
+            {
+              "slug": "pembrolizumab",
+              "name": "Pembrolizumab"
+            },
+            {
+              "slug": "ponatinib",
+              "name": "Ponatinib"
+            },
+            {
+              "slug": "rasagiline",
+              "name": "Rasagiline"
+            },
+            {
+              "slug": "tolcapone",
+              "name": "Tolcapone"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "atrial fibrillation",
+          "keyword": "AF",
+          "related_drugs": [
+            {
+              "slug": "aprepitant",
+              "name": "Aprepitant"
+            },
+            {
+              "slug": "aripiprazole",
+              "name": "Aripiprazole"
+            },
+            {
+              "slug": "asenapine-maleate",
+              "name": "Asenapine Maleate"
+            },
+            {
+              "slug": "bimatoprost",
+              "name": "Bimatoprost"
+            },
+            {
+              "slug": "cetrorelix-as-acetate",
+              "name": "Cetrorelix (As Acetate)"
+            },
+            {
+              "slug": "degarelix",
+              "name": "Degarelix"
+            },
+            {
+              "slug": "dostarlimab",
+              "name": "Dostarlimab"
+            },
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "eflornithine",
+              "name": "Eflornithine"
+            },
+            {
+              "slug": "elafibranor",
+              "name": "Elafibranor"
+            },
+            {
+              "slug": "eliglustat-tartrate",
+              "name": "Eliglustat (Tartrate)"
+            },
+            {
+              "slug": "fentanyl",
+              "name": "Fentanyl"
+            },
+            {
+              "slug": "ganirelix-acetate",
+              "name": "Ganirelix Acetate"
+            },
+            {
+              "slug": "granisetron",
+              "name": "Granisetron"
+            },
+            {
+              "slug": "guanfacine-hydrochloride",
+              "name": "Guanfacine Hydrochloride"
+            },
+            {
+              "slug": "ivabradine-hydrochloride",
+              "name": "Ivabradine Hydrochloride"
+            },
+            {
+              "slug": "lacosamide",
+              "name": "Lacosamide"
+            },
+            {
+              "slug": "loxapine",
+              "name": "Loxapine"
+            },
+            {
+              "slug": "lurasidone",
+              "name": "Lurasidone"
+            },
+            {
+              "slug": "macimorelin-acetate",
+              "name": "Macimorelin Acetate"
+            },
+            {
+              "slug": "metreleptin",
+              "name": "Metreleptin"
+            },
+            {
+              "slug": "mexiletine-hydrochloride",
+              "name": "Mexiletine Hydrochloride"
+            },
+            {
+              "slug": "mycophenolate-mofetil",
+              "name": "Mycophenolate Mofetil"
+            },
+            {
+              "slug": "nitric-oxide",
+              "name": "Nitric Oxide"
+            },
+            {
+              "slug": "olanzapine",
+              "name": "Olanzapine"
+            },
+            {
+              "slug": "osilodrostat-phosphate",
+              "name": "Osilodrostat Phosphate"
+            },
+            {
+              "slug": "pasireotide",
+              "name": "Pasireotide"
+            },
+            {
+              "slug": "posaconazole",
+              "name": "Posaconazole"
+            },
+            {
+              "slug": "prilocaine",
+              "name": "Prilocaine"
+            },
+            {
+              "slug": "riociguat",
+              "name": "Riociguat"
+            },
+            {
+              "slug": "risperidone",
+              "name": "Risperidone"
+            },
+            {
+              "slug": "selumetinib-sulfate",
+              "name": "Selumetinib Sulfate"
+            },
+            {
+              "slug": "sildenafil",
+              "name": "Sildenafil"
+            },
+            {
+              "slug": "silodosin",
+              "name": "Silodosin"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "vardenafil",
+              "name": "Vardenafil"
+            },
+            {
+              "slug": "vernakalant-hydrochloride",
+              "name": "Vernakalant Hydrochloride"
+            },
+            {
+              "slug": "voriconazole",
+              "name": "Voriconazole"
+            },
+            {
+              "slug": "zonisamide",
+              "name": "Zonisamide"
+            }
+          ]
         }
       ]
     },
@@ -25193,90 +26757,6 @@
             {
               "slug": "vernakalant-hydrochloride",
               "name": "Vernakalant Hydrochloride"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a82618d9797a",
-      "title": "Three carers reveal what it's like living with dementia 24/7 - Daily Express",
-      "published": "2026-06-14T16:00:00+00:00",
-      "sources": [
-        {
-          "name": "Daily Express",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaVFDSWg2alFYaXplT2lfSXlQY0puYlRoRUhZWWN0MXhMeDgxQmF1V0J6cXRxcjJnU19UNWpaV3N5NG90a1JoT3hCUXFtaHotQVQzVTVlYkdlNmM1eXJmMnZ5anJSaVRsNUhBNThDdFlMSVFwc0VGM1lUeVFuclpzR0FqZmg4ZHFMTy1fZXhFUdIBlAFBVV95cUxNb0RVcGJmaDlBR2c0N256M0haUXhqdHFiaWZXWXFtd0RwTzhQeGJpTzB0QVNHMW83Vy0zWHVnM3ZMTHZoM0p6d3JhMThXbEZiWUJmcFVXTEZYUGctSm5DRjgxQnhpR0ZhbGFMRFRwOEZyZnViaFZpb0xIR0F3WEVYRHBuMmluYmxPUG9CcVRmbF96cXc5?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "alzheimer disease",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "alectinib-hydrochloride",
-              "name": "Alectinib Hydrochloride"
-            },
-            {
-              "slug": "brigatinib",
-              "name": "Brigatinib"
-            },
-            {
-              "slug": "carbidopa",
-              "name": "Carbidopa"
-            },
-            {
-              "slug": "ceritinib",
-              "name": "Ceritinib"
-            },
-            {
-              "slug": "crizotinib",
-              "name": "Crizotinib"
-            },
-            {
-              "slug": "dasatinib-monohydrate",
-              "name": "Dasatinib Monohydrate"
-            },
-            {
-              "slug": "entacapone",
-              "name": "Entacapone"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "Erlotinib"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "levodopa",
-              "name": "Levodopa"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib"
-            },
-            {
-              "slug": "opicapone",
-              "name": "Opicapone"
-            },
-            {
-              "slug": "pembrolizumab",
-              "name": "Pembrolizumab"
-            },
-            {
-              "slug": "ponatinib",
-              "name": "Ponatinib"
-            },
-            {
-              "slug": "rasagiline",
-              "name": "Rasagiline"
-            },
-            {
-              "slug": "tolcapone",
-              "name": "Tolcapone"
             }
           ]
         }
@@ -26635,70 +28115,6 @@
       ]
     },
     {
-      "id": "08508638dae2",
-      "title": "« On était sur une première mondiale » : Guillaume Charvet, le chercheur grenoblois qui fait remarcher les paralysés - Le Dauphiné Libéré",
-      "published": "2026-06-14T13:53:38+00:00",
-      "sources": [
-        {
-          "name": "Le Dauphiné Libéré",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQjBEYXhGQVMtSEhjQ0JlQ1NURFA1eWFvYXZydTNUcUpmaTk1R1VjSHV3UDFZdDlBREpfMkVkcU0zV0FEYWI1VTRXSXVJTW1yLVZ2THFhSkVRVld3RnRJLTFDN0JKMjdWcHJpXzhXanNjVmpadGxfNzJNcDgwc0ZKbVZreFZpNXJPT1hnT1NGbG1mb1pNUVBNWWpRLUEya2FET1dCN2NIX0lSR1RTZU96OTl0N1FiQ0pjeDN4Y003YnE5SjFURFB3dTlQZGhrWXZvTk9FMlMxQXJ5dXpVVmxhNGRGcjFxQmE1eVFDMVNzUzJLQUdqVDBEQTFSMzJBYjItZEhMYlFoTkRLRTNsTmVPc1kwNnkxX1JOYS1sMmJPYw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "AVC",
-          "related_drugs": [
-            {
-              "slug": "aliskiren",
-              "name": "Aliskiren"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine"
-            },
-            {
-              "slug": "avanafil",
-              "name": "Avanafil"
-            },
-            {
-              "slug": "azilsartan-medoxomil",
-              "name": "Azilsartan Medoxomil"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "orlistat",
-              "name": "Orlistat"
-            },
-            {
-              "slug": "raloxifene-hydrochloride",
-              "name": "Raloxifene Hydrochloride"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "Simvastatin"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan"
-            },
-            {
-              "slug": "vardenafil",
-              "name": "Vardenafil"
-            },
-            {
-              "slug": "vernakalant-hydrochloride",
-              "name": "Vernakalant Hydrochloride"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1ed381b0dbb1",
       "title": "Everything you need to know about sugar – from how much you should consume, to some of its 50 disguises - The Guardian",
       "published": "2026-06-14T13:00:00+00:00",
@@ -27150,13 +28566,13 @@
       ]
     },
     {
-      "id": "f28e4d967b70",
-      "title": "Lotta ai tumori, raggiunti tutti i piemontesi a rischio. Ma meno del 50% si sottopone a screening - La Stampa",
-      "published": "2026-06-14T09:15:00+00:00",
+      "id": "4d494015f2fd",
+      "title": "Nuevo avance en el HUCA: una tecnología pionera permite tratar lesiones craneales con alta precisión - La Voz de Asturias",
+      "published": "2026-06-14T10:16:13+00:00",
       "sources": [
         {
-          "name": "La Stampa",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQldQT1JWUHpKd2k3QWV1d0JtN2dlVS10Rkk3eV9CdEQydGpwTWFEendZNEs2cHN5U3VzanJwOTR2bFctQ19iMnpvNFU4bVBISEN4VGExT1cxUmRmaFlicEtEYU8yNF9ZU1ZHdFdGX3NLVXpzQllvUUVZbFk1enR4eW5UanRMQ3JYczZTLU15YWFVdFFKei1rYmNMaXhrLTY1WGxvT3VsSGx6N0HSAbABQVVfeXFMUGxPOEZsdm9KRk5wVUtEdy1DMjBXYVpzWTNsTFVhTVhUZElxa1QyUzQ5YmdHUTJXNnEtRF84YUk0dC1FcEV1cm1NZWJWVGFWOVhWQlBLcHRld3lHWWQ0aG1ETWJNV2dzTGNBcndZcmNIV3NrdE5PU2RSRVltX1oxMmxZVmlBQUFXU1BxUER1TlU4S1Q4Nl84U0ZLT3c4Qk5yT1JGd0RBTy12SVJXQVBsUzA?oc=5"
+          "name": "La Voz de Asturias",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmJJcjdXVkc1Y3dodDhpZTJYelNjWGlTS2FJT0hFQ0NPU1hEODRkak4taUJROExqWjlKd3FaQW9OdHAtbzgwYzVUVXRaazlDZTZaRXVsbEx0Rjl3eDN2cEF6WHpndnZ6LUFZRnVqcHNMTVNqSW9SNEsxaUNILWlqaHNWZXhYQzJFbFRIM0dkdGN1V19reHltYUNsMTV3MldrX0k3OWE5akw4YXIxanpyYXlRUlh5YTVuVkswcy1BeGUzd1dPWmh2Q3ZSaU5vRkhmeE5lZlI1ZVQ1QVFhdFZVTlo5T2lsWERqMkU3dW5mTVltY3dtUG15dWdma0ZyaXc?oc=5"
         }
       ],
       "keywords": [
@@ -28086,13 +29502,13 @@
       ]
     },
     {
-      "id": "7992fe2a26be",
-      "title": "El HUCA amplía su capacidad para tratar lesiones cerebrales complejas con radiocirugía no invasiva de alta precisión - Principado de Asturias",
-      "published": "2026-06-14T08:47:24+00:00",
+      "id": "5d000a7901ba",
+      "title": "Il paradosso della privacy: “Per gli screening oncologici costretti a mandare gli inviti via Posta” - La Stampa",
+      "published": "2026-06-14T09:48:00+00:00",
       "sources": [
         {
-          "name": "Principado de Asturias",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTXJKakJOUEJqUXBFWDktRWJMX3pncTJaRDh3N3FQS1F4Z0E2TEtWcEpCM2ZyVlN0QTZqZDFXR05SdlMwbHd0eFZVbVNSeGdMeXRvQmpPQV9kTjlGSHc?oc=5"
+          "name": "La Stampa",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmJEN1RaZmJPM1c3b0lGSDVEOUtVcDQwb3JsemNRWTEzekNDd211NkxRcTQ3SDUzbzRmWFg2UEZBcmR6R19PR0dVNU9xZk5va2lpa1pxUlRIZF9wMXhiOUI0aGdjaGo2TFdCVHZBdGROSXlZM29uU3NzVGZqTjhCbDhSTW5QWmlPWTRXYVY0bWJJbGhpRng0SldlMGVFVWFBdFJ5OTZqWGVYakg0dzQ5ZkdjdmdQSldX0gG-AUFVX3lxTFBTN0hUcnRKMlZrN3hsMHhHa3N0dHdNVVl5T1AyT1BBNTRFOEQ2S3JxR09GaGI3NWFMVU9KeEhieVZKaFZNWGN5dWFQTkM0OEdiTzN0amt2NVhpU2ZlZnJXQ0ZzYnZDYTdkdHZtMWpkQ195MXJxSHo3ZVpRVGxQbnVpR1daQXF6QVVlcUkzcjVxYjVpQkJpbDR4SEJMQkN4eFJhZldySFpOYXptTVNNZTV4SXRyeXRzVVhiOUV4SXc?oc=5"
         }
       ],
       "keywords": [

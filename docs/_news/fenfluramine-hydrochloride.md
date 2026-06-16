@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Boehringer Ingelheim anuncia datos de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
+
+2026-06-15 <span class="news-indication-tag">obesidad</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
+
+---
 
 ### [Acción precoz para evitar mayor carga futura por hígado graso temprano - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc0Tl9LVmQzUVRNZU4tQS1ESUNrVWJCR0EtZVJCQWVPZ3hQeVJwUnFRTjY4cF96bFRSM1U4MXEwNmtfeTNnRldWVXFWZGxtQW4xeFVSTTVSYzdRT20ydDJ2b2hVVWdvb2NERE5XajRaOXlUNGtTWllSUjQyazRNTzF0U3BmUTEzWUJGS0VvSzBaNVBfVWlGb0ZGeWpYMVE5TDA5ZFVQaVdOa2hvNXV4eFpiSlVnNTE5aUNqQ2h6dmFuYzlnd1HSAcYBQVVfeXFMUGV1eG42ekVUVlBYbFhOVkhYd2lTY1ltYTRXVzAwZGdWWFBPcDJRWk8zVldfbmp6UFdfVkhjNnZ4MW1QLTBjeWVkU1ltcEpXX3RLaUdtcGM5d1J5S2NGNnU5MmZ2alpla0dObWtWeGdPZ2dSV1hIME9ETE5LLWJ1dXp0a2xaQzdGZ3ZzVXhOX3RrYmp2NFZwaVpaeG1heEx5VmxpWm5RWUZMRDNqclg3VmwwWUFld2pwb0lxaEJsbnR3OEM3LTln?oc=5)
 
-2026-06-15 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">obesidad</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc0Tl9LVmQzUVRNZU4tQS1ESUNrVWJCR0EtZVJCQWVPZ3hQeVJwUnFRTjY4cF96bFRSM1U4MXEwNmtfeTNnRldWVXFWZGxtQW4xeFVSTTVSYzdRT20ydDJ2b2hVVWdvb2NERE5XajRaOXlUNGtTWllSUjQyazRNTzF0U3BmUTEzWUJGS0VvSzBaNVBfVWlGb0ZGeWpYMVE5TDA5ZFVQaVdOa2hvNXV4eFpiSlVnNTE5aUNqQ2h6dmFuYzlnd1HSAcYBQVVfeXFMUGV1eG42ekVUVlBYbFhOVkhYd2lTY1ltYTRXVzAwZGdWWFBPcDJRWk8zVldfbmp6UFdfVkhjNnZ4MW1QLTBjeWVkU1ltcEpXX3RLaUdtcGM5d1J5S2NGNnU5MmZ2alpla0dObWtWeGdPZ2dSV1hIME9ETE5LLWJ1dXp0a2xaQzdGZ3ZzVXhOX3RrYmp2NFZwaVpaeG1heEx5VmxpWm5RWUZMRDNqclg3VmwwWUFld2pwb0lxaEJsbnR3OEM3LTln?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [Survodutida muestra potencial para abordar la obesidad más allá de la pérdida de peso - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXk3aG9oME5VbGtJdjNmUFV2TjN3UzE0VzZaWEQ1bXpRd1NUUm5uRXlLZ0loV1ExQWpoUVRfY2NrcDdVaUM2VXVaSGk2bHdKbkY4b3pMT1N5eUlxWXNQVlpYcDZ5NGRDdWpvN1dJNm9KblVDMHBZZ0RkTUpLTk5EMzFtc0ZMcXRfMEd2RnU3Nk81ZUJOdGNQa0FfNzhmQXJwTDNCMGdJV0w4RUJDalZZSUdDSC1pVVZ5UFNuV2wycXfSAbsBQVVfeXFMTXZQUzRqN1Z1c2oxWG1SazBDS0owcG5vajRJWEkxRTA4RjNMRWpaYTlmVVFXN0gyQS1BSXZUZk80RzlGazlhUDA5N2k4bWJadEN6dmcxd3hXRFJFOTF0RkZGWVBZNWhmWWlnZ0pqdXBMWm9KWWRhVVVFUUZ2Q0lJSjV3d3RUOEZxd0FQMTVWbWpUbDRlZ3BCM2F2MjVueW1ibzRYd3NxQS16aUhrSHlPZHZZM0x2U1NwOUFQQQ?oc=5)
+### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
-2026-06-15 <span class="news-indication-tag">obesidad</span>
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXk3aG9oME5VbGtJdjNmUFV2TjN3UzE0VzZaWEQ1bXpRd1NUUm5uRXlLZ0loV1ExQWpoUVRfY2NrcDdVaUM2VXVaSGk2bHdKbkY4b3pMT1N5eUlxWXNQVlpYcDZ5NGRDdWpvN1dJNm9KblVDMHBZZ0RkTUpLTk5EMzFtc0ZMcXRfMEd2RnU3Nk81ZUJOdGNQa0FfNzhmQXJwTDNCMGdJV0w4RUJDalZZSUdDSC1pVVZ5UFNuV2wycXfSAbsBQVVfeXFMTXZQUzRqN1Z1c2oxWG1SazBDS0owcG5vajRJWEkxRTA4RjNMRWpaYTlmVVFXN0gyQS1BSXZUZk80RzlGazlhUDA5N2k4bWJadEN6dmcxd3hXRFJFOTF0RkZGWVBZNWhmWWlnZ0pqdXBMWm9KWWRhVVVFUUZ2Q0lJSjV3d3RUOEZxd0FQMTVWbWpUbDRlZ3BCM2F2MjVueW1ibzRYd3NxQS16aUhrSHlPZHZZM0x2U1NwOUFQQQ?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 
