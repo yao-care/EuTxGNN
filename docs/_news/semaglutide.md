@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（9 則）
 
-### ["Je ne pouvais plus entrer dans la baignoire" : Karine raconte comment le Wegovy, enfin remboursé, l’a allégée de 18 kilos - Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
+### [¿Podría el Ozempic reducir también los crímenes violentos? “Debilita el salto entre el impulso y la acción” - EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
+
+---
+
+### [Sardinen gegen Diabetes: 200g wöchentlich senken Hochrisiko um 64% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
+
+---
+
+### [Northumbria University given £1.3m for diabetes care trial](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMRnpEZVByX1VQYVZvY2NTT090X0M4dVRnUDU5NXd5MVFVaGtyMnE1akdETE5WRkRjeVhHSHdXMXdLNFlROXZIV2dYeXgtTmV3YVI3b2dWV2MwcEhO?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMRnpEZVByX1VQYVZvY2NTT090X0M4dVRnUDU5NXd5MVFVaGtyMnE1akdETE5WRkRjeVhHSHdXMXdLNFlROXZIV2dYeXgtTmV3YVI3b2dWV2MwcEhO?oc=5)
+
+---
+
+### [Retatrutide, the newest weight-loss drug, helped people lose 30% of body weight, on par with weight-loss surgery](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
+
+2026-06-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[UCHealth](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
+
+---
+
+### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
+
+2026-06-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
+
+---
+
+### [Diabetes und Herzrisiko: DFG-Projekt und Sanitas-Studie decken Lücken auf - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBXNWtsN0NPdmNPUVdZMXZtcGF2SXVycGR5Zk04Z19qanRxX0s5MUM3TktlRDBIT2IyX1p0T1BLNTBNNVpHYThLOWl2WnlxTjNrQjJ1N2NTaDVFZ1VXdHFEaTEtVUF4RVpBbEttZEV5VlRUekRjZkU1RXpyb0EtdkpYdzlsMUxLREplMVZ2LXN3cE82R0M3T1NsUUJoeHJKcS01ZmpBU2s?oc=5)
+
+2026-06-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBXNWtsN0NPdmNPUVdZMXZtcGF2SXVycGR5Zk04Z19qanRxX0s5MUM3TktlRDBIT2IyX1p0T1BLNTBNNVpHYThLOWl2WnlxTjNrQjJ1N2NTaDVFZ1VXdHFEaTEtVUF4RVpBbEttZEV5VlRUekRjZkU1RXpyb0EtdkpYdzlsMUxLREplMVZ2LXN3cE82R0M3T1NsUUJoeHJKcS01ZmpBU2s?oc=5)
+
+---
+
+### [Remboursement de Wegovy et Mounjaro : qui sont les 1 million de Français concernés ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
 
 2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
 
 ---
 
@@ -75,14 +123,6 @@ permalink: /news/semaglutide/
 2026-06-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0l5bGVramN4QWRTZlN3MzlNNi1fZktaMmFFWVhMbkZLMmsxc2pGUUFieTl2Z2ZnX19YajE5cTZjZmd1Tm5EQWdJcGlPQy1PVDBnYlVUcmxZOWQxUlBWaXdpR2pvRExXSnNjN0lvN0tiWm9jd3djXzVieXByc2t3MkhtSjIxMl83VWhHcjVVVmVPeU5nZTl0eU8yaVIwT2lPYVk3dTRwSlE2V0lRVzFhQm1ZQnBYUVVpOXJYbHBINFBmRHk3Qng4MHpRcUY4LXBmRXBLbHE1MzBPczViSG44b0pvOA?oc=5)
-
----
-
-### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
-
-2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 

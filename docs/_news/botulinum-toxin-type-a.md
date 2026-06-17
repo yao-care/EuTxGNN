@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+
+2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+
+---
 
 ### [Adaptive Deep Brain Stimulation Fixes Parkinson’s Walking Gait - Neuroscience News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0NrMmxHdS1iaDB1UEd2Tk13bmhOTGI5NmJXQ2YtdjdQWFhLUmxKVkhBTUo0d2IyVld0VHZVSVhFNVZEelA1ejA0M1hmTEcxQmNUcld4VEEwVjM4RGVzUDNPUGg0NDJtRWlQX2k1bEZKd053aml3NTZWWEdtWE8xQTJlQzU4TlRwVlZn?oc=5)
 

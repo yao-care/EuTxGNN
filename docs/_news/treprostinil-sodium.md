@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Niedriger Blutdruck könnte mit Alzheimer zusammenhängen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
+### [Forscher entdecken unerwartetes Alzheimer-Risiko](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTZjeXBHcEw3WkFGWWJZbUFEMVdISnVYanZGVVVYT3NtMExmU1NCbkVMNWZ4Ty01ZUdwbGhDTEJwdkFnam8yZ0t5NTNXUW5obC0wYTdLSUYxV2hzLUlDS2cwN0VNSm5GX2tKS190T211RmFmbE5YcXU1MUtDcmd2dVhhN1Q1RlpxNlp1UVFza1JfSlBkMGcxMFN1Qlo0dFE4bG1SYlNKVXdYY0pXRmJtVGNoZFRNMlU0aUJmUm5oYVNmakRxb2U0NQ?oc=5)
 
-2026-06-15 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-17 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[BILD](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2RXcTFZd1pBRjByeFQtX2R3eTJ0amZlWE1TMDdfWUVUUXA0Q05aeDIzMlktSTlBYjQ3Z0E0TmhwVE1mUkdGSlpUQjNCOXBWVmJlU2dsUG43X3JNM21jUHJZNDA0TUVPamZYRlhPdFZyeUNMSG14NjRIUkVHNkJxT3FoRl80TGwwS1JyQlZyaGJNc2Y4bmlPOHMwaUlqck5Zb1c5b2dGaVpWYVRrdjZrT2tfTHluejhQaV9hMkoxYno?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTZjeXBHcEw3WkFGWWJZbUFEMVdISnVYanZGVVVYT3NtMExmU1NCbkVMNWZ4Ty01ZUdwbGhDTEJwdkFnam8yZ0t5NTNXUW5obC0wYTdLSUYxV2hzLUlDS2cwN0VNSm5GX2tKS190T211RmFmbE5YcXU1MUtDcmd2dVhhN1Q1RlpxNlp1UVFza1JfSlBkMGcxMFN1Qlo0dFE4bG1SYlNKVXdYY0pXRmJtVGNoZFRNMlU0aUJmUm5oYVNmakRxb2U0NQ?oc=5)
+
+---
+
+### [Soia e legumi combattono l'ipertensione, ma quanti ne servono? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdE53RWdoeklyQ2VoeVJlSTN0SzdFUUlvNURLQWE1XzNSa0J0c2hkeHJKU3FOSUw3SHNrMkl5ZWNza1dSbFZQY3VjTl9GVHBsODZfdzdHM19EUFdXYVZheEtYOEUzelRNTHo4N2t4SVRuTGNPU0NTWS1vNFhuNHM3aHdsOFZJbkpoc2duNzREajg5d3BScXljN3dFVWNxQVBabklCYW5EZ1I4V3g2T3ZuRjlSLXdoYUhoeWpsdE5mMnUxRWxBUnV4M0xaT0JqQkdIcmNEQ1RyTDhJNkd4enZkbUltY9IBxAFBVV95cUxQdkJZdG4zZTFEU3NPOEpfRFI2dFFZRkJLMkFxS3RveDJlazJrUk5tcm5fUTNjdHFyTEJLWmNfYmJmUWpRQ2o1VVlMOTdGRUhNUUFjSmt0ZVdycnBDZXpZazRoeDhSWW1jS1lrT0p1dnRPUEJlbUJqR0FZN3lKVVpqWXlPVDNBY0o1ck9CTWg0SmsxQTN4cXFiQ0U1bTEzYmZ3WDJPOTRfV255VEpfejYzcmlGRnV3YzNvSVVJZzk0Zy1Ha3JO?oc=5)
+
+2026-06-16 <span class="news-indication-tag">ipertensione</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdE53RWdoeklyQ2VoeVJlSTN0SzdFUUlvNURLQWE1XzNSa0J0c2hkeHJKU3FOSUw3SHNrMkl5ZWNza1dSbFZQY3VjTl9GVHBsODZfdzdHM19EUFdXYVZheEtYOEUzelRNTHo4N2t4SVRuTGNPU0NTWS1vNFhuNHM3aHdsOFZJbkpoc2duNzREajg5d3BScXljN3dFVWNxQVBabklCYW5EZ1I4V3g2T3ZuRjlSLXdoYUhoeWpsdE5mMnUxRWxBUnV4M0xaT0JqQkdIcmNEQ1RyTDhJNkd4enZkbUltY9IBxAFBVV95cUxQdkJZdG4zZTFEU3NPOEpfRFI2dFFZRkJLMkFxS3RveDJlazJrUk5tcm5fUTNjdHFyTEJLWmNfYmJmUWpRQ2o1VVlMOTdGRUhNUUFjSmt0ZVdycnBDZXpZazRoeDhSWW1jS1lrT0p1dnRPUEJlbUJqR0FZN3lKVVpqWXlPVDNBY0o1ck9CTWg0SmsxQTN4cXFiQ0U1bTEzYmZ3WDJPOTRfV255VEpfejYzcmlGRnV3YzNvSVVJZzk0Zy1Ha3JO?oc=5)
 
 ---
 

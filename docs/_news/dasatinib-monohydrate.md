@@ -14,7 +14,7 @@ permalink: /news/dasatinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dasatinib Monohydrate 有什麼相關新聞？">
-<strong>Dasatinib Monohydrate</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dasatinib Monohydrate</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/dasatinib-monohydrate/
 <p><a href="{{ '/drugs/dasatinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（34 則）
 
 ### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
-2026-06-16 <span class="news-indication-tag">Krebs</span>
+2026-06-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [« Jamais eu un tel progrès dans l’histoire de la médecine » : contre le cancer du pancréas, un traitement « spectaculaire »](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbl9vX1dMN2o1a1BQZGptQ2JjdUxwWE03LU5sMXBzWmljTjNMZjBvOWIyT3dGdTVyZWlmTnlTVHV2ZHExXzhWaDhsbFVsSUdhN0tLRWNzTXRoTzVRTlI4ZkxBelF5M1Y3Z3l2SUl0LXM1VE5rdjZOdGNONFJYd0p1WXREZTZveGtnaVVGa0M5bmJfYzNhdmJMT0J2Y1k5UmFEZ0FIZWV6Nm14dzJucnVTMFlsSjdsblF0ZTktS0I4VDFSNWVNQUxOLXpaOWNmNDVtSXRtV2o5aGdjZE5KenZaUjQ5eXdVODQzeHdoTw?oc=5)
+
+2026-06-17 <span class="news-indication-tag">cancer</span>
+
+來源：[parismatch.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbl9vX1dMN2o1a1BQZGptQ2JjdUxwWE03LU5sMXBzWmljTjNMZjBvOWIyT3dGdTVyZWlmTnlTVHV2ZHExXzhWaDhsbFVsSUdhN0tLRWNzTXRoTzVRTlI4ZkxBelF5M1Y3Z3l2SUl0LXM1VE5rdjZOdGNONFJYd0p1WXREZTZveGtnaVVGa0M5bmJfYzNhdmJMT0J2Y1k5UmFEZ0FIZWV6Nm14dzJucnVTMFlsSjdsblF0ZTktS0I4VDFSNWVNQUxOLXpaOWNmNDVtSXRtV2o5aGdjZE5KenZaUjQ5eXdVODQzeHdoTw?oc=5)
+
+---
+
+### [Nanoparticelle efficaci contro il tumore della prostata, uccidono le cellule](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTnN3SEhYRE85WFlrQmFseXBmcm96MjJVNGE0WERxM294LWZOYnotSkdwLTZUTGZrR29nX21BVjYyN0lETExSeVF4dXpJX3dPR2FseHhLcnJiQ2RFTU1DSGdjQ3M5d2IzUFFOSUc5UXZ0VEdNZXZHNDFqNENaRnlZMUJKOGpMSXBxcWdIYnhTbkI5QzR6bnN3a0N0NTlPQ3Z1VWsxSDhyV2dLa2ZzVzVSbU1qNnM4dm5qQ21VUW1TZnp0OHNxdGdKWUVZbWFEZEdpY1NIel9MSWlzSnFKdk9vLWFkU29zdzBDSTcwSXpvX3FzaHQyYTVCV2pjSm90ZXZja3J4NnhBZEVBU3fSAZACQVVfeXFMTUlwTnJLUDZUbl9KS290RWc0LUl6N3djYTNiSkZlcEUxcmJ0WXhuY3JpcTZOTmJ1RlA1QkttZ3BUbnptQVNHR2ZpQW0tbnhUM2t6a0NLcTJ4YVEwN0k1VU1Ddlp6VThYeVZPMXRFYjlCVTJKc1RrNHYzTnh2WUdjaFJoM1Z4VHRWVU8waXVWSzc1R1VFcFdJUjFqN1pLazg2SVNvZDRHS1Zqa01ybXB5UWEtRWtNcGptNGlDMHJKMW9mWkhiN01DWkt6WnVoQ3lORC1VTWZLa0RMc2xsb295ZVJKckNBLUk4RUZjNXFTZGNTNEN5cmNzc1hUOEdGR29pTUcwVDd6RXNzd3cxT2FlbWQ?oc=5)
+
+2026-06-17 <span class="news-indication-tag">tumor</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTnN3SEhYRE85WFlrQmFseXBmcm96MjJVNGE0WERxM294LWZOYnotSkdwLTZUTGZrR29nX21BVjYyN0lETExSeVF4dXpJX3dPR2FseHhLcnJiQ2RFTU1DSGdjQ3M5d2IzUFFOSUc5UXZ0VEdNZXZHNDFqNENaRnlZMUJKOGpMSXBxcWdIYnhTbkI5QzR6bnN3a0N0NTlPQ3Z1VWsxSDhyV2dLa2ZzVzVSbU1qNnM4dm5qQ21VUW1TZnp0OHNxdGdKWUVZbWFEZEdpY1NIel9MSWlzSnFKdk9vLWFkU29zdzBDSTcwSXpvX3FzaHQyYTVCV2pjSm90ZXZja3J4NnhBZEVBU3fSAZACQVVfeXFMTUlwTnJLUDZUbl9KS290RWc0LUl6N3djYTNiSkZlcEUxcmJ0WXhuY3JpcTZOTmJ1RlA1QkttZ3BUbnptQVNHR2ZpQW0tbnhUM2t6a0NLcTJ4YVEwN0k1VU1Ddlp6VThYeVZPMXRFYjlCVTJKc1RrNHYzTnh2WUdjaFJoM1Z4VHRWVU8waXVWSzc1R1VFcFdJUjFqN1pLazg2SVNvZDRHS1Zqa01ybXB5UWEtRWtNcGptNGlDMHJKMW9mWkhiN01DWkt6WnVoQ3lORC1VTWZLa0RMc2xsb295ZVJKckNBLUk4RUZjNXFTZGNTNEN5cmNzc1hUOEdGR29pTUcwVDd6RXNzd3cxT2FlbWQ?oc=5)
 
 ---
 
@@ -120,7 +136,7 @@ permalink: /news/dasatinib-monohydrate/
 
 ### [Magic Mushrooms And Alzheimer's: One Remarkable Case Raises New Questions](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
-2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
@@ -176,7 +192,7 @@ permalink: /news/dasatinib-monohydrate/
 
 ### [All you need to know about prostate cancer as Queen’s professor offers advice that ‘could even save your life’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
 
-2026-06-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
 
@@ -222,14 +238,6 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [Breakthrough skin cancer AI app can detect warning signs using only a smartphone camera - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVRUaG1hVm1PN2h6U3lWSFRSWC1BMzVaeG1xc1l3dFYxRW5yMG9odUs1SHNQRVpBMDlRRERMelhDak5ScERvTXNTQXNVdGxNdEdiQjMxVFR4YlM2YWc1aVRkQ0VwQW1hWGh1ZjhXTDJXbThfRDdxUUZTZGVXMks0OHo4RFNNUGhxYVpzT2k0cW9Md0x4cGhTVw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVRUaG1hVm1PN2h6U3lWSFRSWC1BMzVaeG1xc1l3dFYxRW5yMG9odUs1SHNQRVpBMDlRRERMelhDak5ScERvTXNTQXNVdGxNdEdiQjMxVFR4YlM2YWc1aVRkQ0VwQW1hWGh1ZjhXTDJXbThfRDdxUUZTZGVXMks0OHo4RFNNUGhxYVpzT2k0cW9Md0x4cGhTVw?oc=5)
-
----
-
 ### [Monmouthshire mum says she may have avoided ovarian cancer if she lived in England](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUjNxekdqX2tUYjEzTjkwTEp2Y2xMZ244ME04LTE5d2l5R05NQU9jbXRNTGlxQnNHdXdNblpzUHZKNGdVMENSNlRmb2xsek9CaVNiM3UzaDZZQjlJ?oc=5)
 
 2026-06-15 <span class="news-indication-tag">cancer</span>
@@ -240,7 +248,7 @@ permalink: /news/dasatinib-monohydrate/
 
 ### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
 
-2026-06-15 <span class="news-indication-tag">dementia</span>
+2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
 
@@ -259,6 +267,14 @@ permalink: /news/dasatinib-monohydrate/
 2026-06-15 <span class="news-indication-tag">cancer</span>
 
 來源：[Nice-Matin](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUFZWVBpc1doWmoxVERMckZPRnpFQVl4Z2xURzRaOGdzMTlsOEg1S2s2WXRNc3hCdWUybkFOMUZKbExOX0NIaE1MaGx2ZWVhUnYteXNkeWw4ZzBqUkpuNHZsSTI0cVpKdWQtMmdqZUs1Nkl3RWkwQ09oYVRyNEl1UUh4bmNJU2NqREtfSDFUQ0puTG53NF9fdXJRQkhDaVNqclV4SHlUbC1JdHNPX3dQd3BXM1h0MHloZlBBQ1psUQ?oc=5)
+
+---
+
+### [Dementia: Joint pain supplement may speed progression - Medical News Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVkzRlpVMTZWVHB3T3RRdEhBVFJfdFZidVM2Y3JWUzNNMDJ6cFZoaEhhSDVkZEVXUGZpTFB2eHJUUmhUcmVYYXRCOEw0WjRFRUx0Qm5EV25oSVdXSExtd0Q1MUt5Z25jVGR1YjVMcmJoNXgzWmNvam1CRi1US1ZxU3NUOHVCcG1jbzdjZjdaaXRxckZZdVJBMzVSQnZDUUplcGxuc19xQ1hfS2c?oc=5)
+
+2026-06-15 <span class="news-indication-tag">dementia</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVkzRlpVMTZWVHB3T3RRdEhBVFJfdFZidVM2Y3JWUzNNMDJ6cFZoaEhhSDVkZEVXUGZpTFB2eHJUUmhUcmVYYXRCOEw0WjRFRUx0Qm5EV25oSVdXSExtd0Q1MUt5Z25jVGR1YjVMcmJoNXgzWmNvam1CRi1US1ZxU3NUOHVCcG1jbzdjZjdaaXRxckZZdVJBMzVSQnZDUUplcGxuc19xQ1hfS2c?oc=5)
 
 ---
 
@@ -286,14 +302,6 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [I’ve just found out I have dementia. I’m so scared - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
-
-2026-06-15 <span class="news-indication-tag">dementia</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
-
----
-
 ### [Adiposity and cancer: epidemiology, mechanisms and future perspectives](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTzcyS1E5aUQ2TkdabVYtOHhRbUZRMzZ3OFU5RFkwakZIZ1EwWktBYzdpSXdwZGprTXhRWms4c2QzWTJEWWV1T1NfSG8wZS1ub09jREo4TkNKNHhRRmNB?oc=5)
 
 2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
@@ -315,22 +323,6 @@ permalink: /news/dasatinib-monohydrate/
 2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
-
----
-
-### ["Vaccini mRna contro il cancro funzionano", Bassetti esulta e lancia stoccata contro i 'fenomeni'](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnJPS0VPSUdob2l3RlY5dkNISjgzOElEeERDUzN5Wmc0NUJFM3dsS2daeXdzTko1emtUdjNQSGJRZm1JQkxabUxISGpDbTN0SVdSRlo4SUNpY1ZjNWNwQmV6N2NWV2k3aHkwbHBQdTRoU045Y2hzYXdjS0lKNmNTM2hTN3lUVkRIdE5jNWRR?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancro</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnJPS0VPSUdob2l3RlY5dkNISjgzOElEeERDUzN5Wmc0NUJFM3dsS2daeXdzTko1emtUdjNQSGJRZm1JQkxabUxISGpDbTN0SVdSRlo4SUNpY1ZjNWNwQmV6N2NWV2k3aHkwbHBQdTRoU045Y2hzYXdjS0lKNmNTM2hTN3lUVkRIdE5jNWRR?oc=5)
-
----
-
-### [Hull family's 'walk of all walks' for cousin, 46, with terminal cancer - Hull Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE0zUW15X3JDX2l1MXN3Y0prc0h6Vm9CeWxBWG9GU2R6WmMzVDFla0dDekdBWXYwUXZ4TlBfTUNVdHE1eG9RVFoxM3lIYUFaeHdKeFloOXBuNjFPSEFmYThjWV9BOHZmTG5yQ1ZwRFRtZ0s4UktVTlJXZG1rU29XTm1NMDZNQkhpYm96X2FZbnQ3clpvWTFrN0NDZzQ5UXp0cEk4?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span>
-
-來源：[Hull Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE0zUW15X3JDX2l1MXN3Y0prc0h6Vm9CeWxBWG9GU2R6WmMzVDFla0dDekdBWXYwUXZ4TlBfTUNVdHE1eG9RVFoxM3lIYUFaeHdKeFloOXBuNjFPSEFmYThjWV9BOHZmTG5yQ1ZwRFRtZ0s4UktVTlJXZG1rU29XTm1NMDZNQkhpYm96X2FZbnQ3clpvWTFrN0NDZzQ5UXp0cEk4?oc=5)
 
 ---
 

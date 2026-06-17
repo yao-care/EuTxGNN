@@ -14,7 +14,7 @@ permalink: /news/ocrelizumab/
 ---
 
 <p class="key-answer" data-question="Ocrelizumab 有什麼相關新聞？">
-<strong>Ocrelizumab</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ocrelizumab</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ocrelizumab/
 <p><a href="{{ '/drugs/ocrelizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（28 則）
 
 ### [Medizin: Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
 
-2026-06-16 <span class="news-indication-tag">Krebs</span>
+2026-06-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlNuVHZ4SU45dWc2RVgyLURnbHhtNUp3TTVtVUh3U3QxcHN0TV9xRHlzNDZyTDVtRkJoTWYyRi1icS03Q0dZelpHYmNaMzlzR3E4em80U0tJdmVyazBiWGJQVWdlSmhMci0wcXM4TXZ3R0lMSUhhQXVLV05tRHZoYmJwUkpfcVNQUlpJOHkzUnVVTHJKNDFpZUpxSWstZl9qbnk5Mnlmd3lSalFjb1VTWXcxbGVCZk5hakZXZlM3Ujg2SVBIRzc3eldpd1FKOWJrV0dEcU5rOFczdTM0bDh0YWhfSVY?oc=5)
+
+---
+
+### [« Jamais eu un tel progrès dans l’histoire de la médecine » : contre le cancer du pancréas, un traitement « spectaculaire »](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbl9vX1dMN2o1a1BQZGptQ2JjdUxwWE03LU5sMXBzWmljTjNMZjBvOWIyT3dGdTVyZWlmTnlTVHV2ZHExXzhWaDhsbFVsSUdhN0tLRWNzTXRoTzVRTlI4ZkxBelF5M1Y3Z3l2SUl0LXM1VE5rdjZOdGNONFJYd0p1WXREZTZveGtnaVVGa0M5bmJfYzNhdmJMT0J2Y1k5UmFEZ0FIZWV6Nm14dzJucnVTMFlsSjdsblF0ZTktS0I4VDFSNWVNQUxOLXpaOWNmNDVtSXRtV2o5aGdjZE5KenZaUjQ5eXdVODQzeHdoTw?oc=5)
+
+2026-06-17 <span class="news-indication-tag">cancer</span>
+
+來源：[parismatch.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbl9vX1dMN2o1a1BQZGptQ2JjdUxwWE03LU5sMXBzWmljTjNMZjBvOWIyT3dGdTVyZWlmTnlTVHV2ZHExXzhWaDhsbFVsSUdhN0tLRWNzTXRoTzVRTlI4ZkxBelF5M1Y3Z3l2SUl0LXM1VE5rdjZOdGNONFJYd0p1WXREZTZveGtnaVVGa0M5bmJfYzNhdmJMT0J2Y1k5UmFEZ0FIZWV6Nm14dzJucnVTMFlsSjdsblF0ZTktS0I4VDFSNWVNQUxOLXpaOWNmNDVtSXRtV2o5aGdjZE5KenZaUjQ5eXdVODQzeHdoTw?oc=5)
+
+---
+
+### [Nanoparticelle efficaci contro il tumore della prostata, uccidono le cellule](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTnN3SEhYRE85WFlrQmFseXBmcm96MjJVNGE0WERxM294LWZOYnotSkdwLTZUTGZrR29nX21BVjYyN0lETExSeVF4dXpJX3dPR2FseHhLcnJiQ2RFTU1DSGdjQ3M5d2IzUFFOSUc5UXZ0VEdNZXZHNDFqNENaRnlZMUJKOGpMSXBxcWdIYnhTbkI5QzR6bnN3a0N0NTlPQ3Z1VWsxSDhyV2dLa2ZzVzVSbU1qNnM4dm5qQ21VUW1TZnp0OHNxdGdKWUVZbWFEZEdpY1NIel9MSWlzSnFKdk9vLWFkU29zdzBDSTcwSXpvX3FzaHQyYTVCV2pjSm90ZXZja3J4NnhBZEVBU3fSAZACQVVfeXFMTUlwTnJLUDZUbl9KS290RWc0LUl6N3djYTNiSkZlcEUxcmJ0WXhuY3JpcTZOTmJ1RlA1QkttZ3BUbnptQVNHR2ZpQW0tbnhUM2t6a0NLcTJ4YVEwN0k1VU1Ddlp6VThYeVZPMXRFYjlCVTJKc1RrNHYzTnh2WUdjaFJoM1Z4VHRWVU8waXVWSzc1R1VFcFdJUjFqN1pLazg2SVNvZDRHS1Zqa01ybXB5UWEtRWtNcGptNGlDMHJKMW9mWkhiN01DWkt6WnVoQ3lORC1VTWZLa0RMc2xsb295ZVJKckNBLUk4RUZjNXFTZGNTNEN5cmNzc1hUOEdGR29pTUcwVDd6RXNzd3cxT2FlbWQ?oc=5)
+
+2026-06-17 <span class="news-indication-tag">tumor</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTnN3SEhYRE85WFlrQmFseXBmcm96MjJVNGE0WERxM294LWZOYnotSkdwLTZUTGZrR29nX21BVjYyN0lETExSeVF4dXpJX3dPR2FseHhLcnJiQ2RFTU1DSGdjQ3M5d2IzUFFOSUc5UXZ0VEdNZXZHNDFqNENaRnlZMUJKOGpMSXBxcWdIYnhTbkI5QzR6bnN3a0N0NTlPQ3Z1VWsxSDhyV2dLa2ZzVzVSbU1qNnM4dm5qQ21VUW1TZnp0OHNxdGdKWUVZbWFEZEdpY1NIel9MSWlzSnFKdk9vLWFkU29zdzBDSTcwSXpvX3FzaHQyYTVCV2pjSm90ZXZja3J4NnhBZEVBU3fSAZACQVVfeXFMTUlwTnJLUDZUbl9KS290RWc0LUl6N3djYTNiSkZlcEUxcmJ0WXhuY3JpcTZOTmJ1RlA1QkttZ3BUbnptQVNHR2ZpQW0tbnhUM2t6a0NLcTJ4YVEwN0k1VU1Ddlp6VThYeVZPMXRFYjlCVTJKc1RrNHYzTnh2WUdjaFJoM1Z4VHRWVU8waXVWSzc1R1VFcFdJUjFqN1pLazg2SVNvZDRHS1Zqa01ybXB5UWEtRWtNcGptNGlDMHJKMW9mWkhiN01DWkt6WnVoQ3lORC1VTWZLa0RMc2xsb295ZVJKckNBLUk4RUZjNXFTZGNTNEN5cmNzc1hUOEdGR29pTUcwVDd6RXNzd3cxT2FlbWQ?oc=5)
 
 ---
 
@@ -168,7 +184,7 @@ permalink: /news/ocrelizumab/
 
 ### [All you need to know about prostate cancer as Queen’s professor offers advice that ‘could even save your life’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
 
-2026-06-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
 
@@ -195,14 +211,6 @@ permalink: /news/ocrelizumab/
 2026-06-16 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
-
----
-
-### [Breakthrough skin cancer AI app can detect warning signs using only a smartphone camera - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVRUaG1hVm1PN2h6U3lWSFRSWC1BMzVaeG1xc1l3dFYxRW5yMG9odUs1SHNQRVpBMDlRRERMelhDak5ScERvTXNTQXNVdGxNdEdiQjMxVFR4YlM2YWc1aVRkQ0VwQW1hWGh1ZjhXTDJXbThfRDdxUUZTZGVXMks0OHo4RFNNUGhxYVpzT2k0cW9Md0x4cGhTVw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVRUaG1hVm1PN2h6U3lWSFRSWC1BMzVaeG1xc1l3dFYxRW5yMG9odUs1SHNQRVpBMDlRRERMelhDak5ScERvTXNTQXNVdGxNdEdiQjMxVFR4YlM2YWc1aVRkQ0VwQW1hWGh1ZjhXTDJXbThfRDdxUUZTZGVXMks0OHo4RFNNUGhxYVpzT2k0cW9Md0x4cGhTVw?oc=5)
 
 ---
 
@@ -267,22 +275,6 @@ permalink: /news/ocrelizumab/
 2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
-
----
-
-### ["Vaccini mRna contro il cancro funzionano", Bassetti esulta e lancia stoccata contro i 'fenomeni'](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnJPS0VPSUdob2l3RlY5dkNISjgzOElEeERDUzN5Wmc0NUJFM3dsS2daeXdzTko1emtUdjNQSGJRZm1JQkxabUxISGpDbTN0SVdSRlo4SUNpY1ZjNWNwQmV6N2NWV2k3aHkwbHBQdTRoU045Y2hzYXdjS0lKNmNTM2hTN3lUVkRIdE5jNWRR?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancro</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnJPS0VPSUdob2l3RlY5dkNISjgzOElEeERDUzN5Wmc0NUJFM3dsS2daeXdzTko1emtUdjNQSGJRZm1JQkxabUxISGpDbTN0SVdSRlo4SUNpY1ZjNWNwQmV6N2NWV2k3aHkwbHBQdTRoU045Y2hzYXdjS0lKNmNTM2hTN3lUVkRIdE5jNWRR?oc=5)
-
----
-
-### [Hull family's 'walk of all walks' for cousin, 46, with terminal cancer - Hull Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE0zUW15X3JDX2l1MXN3Y0prc0h6Vm9CeWxBWG9GU2R6WmMzVDFla0dDekdBWXYwUXZ4TlBfTUNVdHE1eG9RVFoxM3lIYUFaeHdKeFloOXBuNjFPSEFmYThjWV9BOHZmTG5yQ1ZwRFRtZ0s4UktVTlJXZG1rU29XTm1NMDZNQkhpYm96X2FZbnQ3clpvWTFrN0NDZzQ5UXp0cEk4?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span>
-
-來源：[Hull Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNE0zUW15X3JDX2l1MXN3Y0prc0h6Vm9CeWxBWG9GU2R6WmMzVDFla0dDekdBWXYwUXZ4TlBfTUNVdHE1eG9RVFoxM3lIYUFaeHdKeFloOXBuNjFPSEFmYThjWV9BOHZmTG5yQ1ZwRFRtZ0s4UktVTlJXZG1rU29XTm1NMDZNQkhpYm96X2FZbnQ3clpvWTFrN0NDZzQ5UXp0cEk4?oc=5)
 
 ---
 

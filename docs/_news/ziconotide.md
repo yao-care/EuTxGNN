@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [¿Podría el Ozempic reducir también los crímenes violentos? “Debilita el salto entre el impulso y la acción” - EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
+
+---
 
 ### [S3-Leitlinie empfiehlt GLP-1-Rezeptoragonisten bei pädiatrischer Adipositas - Gelbe Liste](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzlaRF9iUG1YbVJMN25mM2EzRGRTOGNGZ3dRV2hrb210N1c5NFMtRjNranBJVXd6bEVjMENBN1NBT25aMlN5cHEyNnFqUUM0LVpzYzFhWmJ5elVWb0JwU29CeDdlVmt6RW8yemxBa2hmdENtWjFzcklUM2dOb3NEa2FhQWwyYThGNHpjeGVxdWlTc3lFTnJDbFdiZDhYWjF1SXVv?oc=5)
 
@@ -64,9 +72,17 @@ permalink: /news/ziconotide/
 
 ### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
 
-2026-06-16 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-06-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
+
+---
+
+### [Diabetes und Herzrisiko: DFG-Projekt und Sanitas-Studie decken Lücken auf - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBXNWtsN0NPdmNPUVdZMXZtcGF2SXVycGR5Zk04Z19qanRxX0s5MUM3TktlRDBIT2IyX1p0T1BLNTBNNVpHYThLOWl2WnlxTjNrQjJ1N2NTaDVFZ1VXdHFEaTEtVUF4RVpBbEttZEV5VlRUekRjZkU1RXpyb0EtdkpYdzlsMUxLREplMVZ2LXN3cE82R0M3T1NsUUJoeHJKcS01ZmpBU2s?oc=5)
+
+2026-06-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBXNWtsN0NPdmNPUVdZMXZtcGF2SXVycGR5Zk04Z19qanRxX0s5MUM3TktlRDBIT2IyX1p0T1BLNTBNNVpHYThLOWl2WnlxTjNrQjJ1N2NTaDVFZ1VXdHFEaTEtVUF4RVpBbEttZEV5VlRUekRjZkU1RXpyb0EtdkpYdzlsMUxLREplMVZ2LXN3cE82R0M3T1NsUUJoeHJKcS01ZmpBU2s?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### ["Je ne pouvais plus entrer dans la baignoire" : Karine raconte comment le Wegovy, enfin remboursé, l’a allégée de 18 kilos - Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
+### [Remboursement de Wegovy et Mounjaro : qui sont les 1 million de Français concernés ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
 
 2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/ziconotide/
 2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTzcyS1E5aUQ2TkdabVYtOHhRbUZRMzZ3OFU5RFkwakZIZ1EwWktBYzdpSXdwZGprTXhRWms4c2QzWTJEWWV1T1NfSG8wZS1ub09jREo4TkNKNHhRRmNB?oc=5)
-
----
-
-### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
-
-2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 

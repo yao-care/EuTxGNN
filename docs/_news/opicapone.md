@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+
+2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+
+---
 
 ### [Magic Mushrooms And Alzheimer's: One Remarkable Case Raises New Questions](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
-2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
@@ -88,7 +96,7 @@ permalink: /news/opicapone/
 
 ### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
 
-2026-06-15 <span class="news-indication-tag">dementia</span>
+2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
 
@@ -102,11 +110,11 @@ permalink: /news/opicapone/
 
 ---
 
-### [I’ve just found out I have dementia. I’m so scared - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
+### [Dementia: Joint pain supplement may speed progression - Medical News Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVkzRlpVMTZWVHB3T3RRdEhBVFJfdFZidVM2Y3JWUzNNMDJ6cFZoaEhhSDVkZEVXUGZpTFB2eHJUUmhUcmVYYXRCOEw0WjRFRUx0Qm5EV25oSVdXSExtd0Q1MUt5Z25jVGR1YjVMcmJoNXgzWmNvam1CRi1US1ZxU3NUOHVCcG1jbzdjZjdaaXRxckZZdVJBMzVSQnZDUUplcGxuc19xQ1hfS2c?oc=5)
 
 2026-06-15 <span class="news-indication-tag">dementia</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVkzRlpVMTZWVHB3T3RRdEhBVFJfdFZidVM2Y3JWUzNNMDJ6cFZoaEhhSDVkZEVXUGZpTFB2eHJUUmhUcmVYYXRCOEw0WjRFRUx0Qm5EV25oSVdXSExtd0Q1MUt5Z25jVGR1YjVMcmJoNXgzWmNvam1CRi1US1ZxU3NUOHVCcG1jbzdjZjdaaXRxckZZdVJBMzVSQnZDUUplcGxuc19xQ1hfS2c?oc=5)
 
 ---
 

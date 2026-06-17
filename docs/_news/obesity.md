@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [¿Podría el Ozempic reducir también los crímenes violentos? “Debilita el salto entre el impulso y la acción” - EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
+
+2026-06-17
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
+
+---
 
 ### [S3-Leitlinie empfiehlt GLP-1-Rezeptoragonisten bei pädiatrischer Adipositas - Gelbe Liste](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzlaRF9iUG1YbVJMN25mM2EzRGRTOGNGZ3dRV2hrb210N1c5NFMtRjNranBJVXd6bEVjMENBN1NBT25aMlN5cHEyNnFqUUM0LVpzYzFhWmJ5elVWb0JwU29CeDdlVmt6RW8yemxBa2hmdENtWjFzcklUM2dOb3NEa2FhQWwyYThGNHpjeGVxdWlTc3lFTnJDbFdiZDhYWjF1SXVv?oc=5)
 
@@ -54,6 +62,14 @@ permalink: /news/obesity/
 
 ---
 
+### [Diabetes und Herzrisiko: DFG-Projekt und Sanitas-Studie decken Lücken auf - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBXNWtsN0NPdmNPUVdZMXZtcGF2SXVycGR5Zk04Z19qanRxX0s5MUM3TktlRDBIT2IyX1p0T1BLNTBNNVpHYThLOWl2WnlxTjNrQjJ1N2NTaDVFZ1VXdHFEaTEtVUF4RVpBbEttZEV5VlRUekRjZkU1RXpyb0EtdkpYdzlsMUxLREplMVZ2LXN3cE82R0M3T1NsUUJoeHJKcS01ZmpBU2s?oc=5)
+
+2026-06-16
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBXNWtsN0NPdmNPUVdZMXZtcGF2SXVycGR5Zk04Z19qanRxX0s5MUM3TktlRDBIT2IyX1p0T1BLNTBNNVpHYThLOWl2WnlxTjNrQjJ1N2NTaDVFZ1VXdHFEaTEtVUF4RVpBbEttZEV5VlRUekRjZkU1RXpyb0EtdkpYdzlsMUxLREplMVZ2LXN3cE82R0M3T1NsUUJoeHJKcS01ZmpBU2s?oc=5)
+
+---
+
 ### [Boehringer Ingelheim anuncia resultados de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
 
 2026-06-15
@@ -62,11 +78,11 @@ permalink: /news/obesity/
 
 ---
 
-### ["Je ne pouvais plus entrer dans la baignoire" : Karine raconte comment le Wegovy, enfin remboursé, l’a allégée de 18 kilos - Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
+### [Remboursement de Wegovy et Mounjaro : qui sont les 1 million de Français concernés ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
 
 2026-06-15
 
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/obesity/
 2026-06-15
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTzcyS1E5aUQ2TkdabVYtOHhRbUZRMzZ3OFU5RFkwakZIZ1EwWktBYzdpSXdwZGprTXhRWms4c2QzWTJEWWV1T1NfSG8wZS1ub09jREo4TkNKNHhRRmNB?oc=5)
-
----
-
-### [Förderung durch die DFG: Neues Projekt erforscht Diabetes und Herz-Kreislauf-Erkrankungen - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
-
-2026-06-15
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVKTi0zV2VTU0pqaFZJUmExLXpXUjN3U3pfZHRFcklreGZqbUFSUVp2M2VXXzJsNGtKSnJMYnpNLTFDZXZoNm9MX29sOHlsdVNVWFIyeGcyV2t0VDlXQWt6UGU5X3pKd0JvRHQtWlo5azBzQWhYeTZsaUd5X2RGZ2pBeTJlVGNudGZnazV3bDFHTi1CZU5xT3hUSWVJVzB5WEdrSFFmdXB6MWdjYWVpd2hhSlFFYUZLY1Zj?oc=5)
 
 ---
 

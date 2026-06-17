@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [EULAR-Leitlinien zur rheumatoiden Arthritis - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
 
 2026-06-16 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
+
+---
+
+### [Your Diet Could Be Missing the Key Ingredient for Heart Protection](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
+
+2026-06-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
 
 ---
 

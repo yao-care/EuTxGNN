@@ -86,11 +86,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [I’ve just found out I have dementia. I’m so scared - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
+### [Dementia: Joint pain supplement may speed progression - Medical News Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVkzRlpVMTZWVHB3T3RRdEhBVFJfdFZidVM2Y3JWUzNNMDJ6cFZoaEhhSDVkZEVXUGZpTFB2eHJUUmhUcmVYYXRCOEw0WjRFRUx0Qm5EV25oSVdXSExtd0Q1MUt5Z25jVGR1YjVMcmJoNXgzWmNvam1CRi1US1ZxU3NUOHVCcG1jbzdjZjdaaXRxckZZdVJBMzVSQnZDUUplcGxuc19xQ1hfS2c?oc=5)
 
 2026-06-15
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhCWWNIYy1Rb2MzaUZGZW1sbGRIU3lJOGpLV19vdF9UMlhabE1nNXNmWjgwTlV5MnVuR0prSlRQaTBFUm9sdGVEcFhHMGFSOUw1UTVLOEZuNXgwQWE1Xy1YTV80MEVHZHZWV1ItUHZBckJkSnJtWVd0a1RwRnlNdFl2dUllUWJPczVkUk1pcXRtam93TUNGanR3?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVkzRlpVMTZWVHB3T3RRdEhBVFJfdFZidVM2Y3JWUzNNMDJ6cFZoaEhhSDVkZEVXUGZpTFB2eHJUUmhUcmVYYXRCOEw0WjRFRUx0Qm5EV25oSVdXSExtd0Q1MUt5Z25jVGR1YjVMcmJoNXgzWmNvam1CRi1US1ZxU3NUOHVCcG1jbzdjZjdaaXRxckZZdVJBMzVSQnZDUUplcGxuc19xQ1hfS2c?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（2 則）
 
+### [Your Diet Could Be Missing the Key Ingredient for Heart Protection](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
+
+2026-06-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
+
+---
+
 ### [Most Women Are Concerned About Heart Disease—but Miss This Early Sign](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
 
 2026-06-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
-
----
-
-### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
-
-2026-06-16 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
 
 ---
 

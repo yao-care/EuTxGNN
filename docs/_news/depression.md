@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [La neuromodulación logra hasta un 50% de respuesta en depresión resistente](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09zT1B5VzZyWGNDWkFZenFFWGp1S1hTRV9pWk1qcEJoM3gtSnA5cTBYUnlfLXNnNWZzYzB1UW9LclpzUndZMDVSR000dXVGZDlSck03Y2xpSGY0anpLNFdKNXNBNjZmaVNlSTJfWHltQTREMVhORWpOcXh0cGl6MDl3THNxZlozWTN5RlJvUHFULVFaRXpVRnFkazJyRkg3MGhoMnhhOUpVTFUxNGpBMTNBaVJ2aHM?oc=5)
+### [A three-minute smartphone game can detect a subtle cognitive mechanism behind depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
 
 2026-06-16
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09zT1B5VzZyWGNDWkFZenFFWGp1S1hTRV9pWk1qcEJoM3gtSnA5cTBYUnlfLXNnNWZzYzB1UW9LclpzUndZMDVSR000dXVGZDlSck03Y2xpSGY0anpLNFdKNXNBNjZmaVNlSTJfWHltQTREMVhORWpOcXh0cGl6MDl3THNxZlozWTN5RlJvUHFULVFaRXpVRnFkazJyRkg3MGhoMnhhOUpVTFUxNGpBMTNBaVJ2aHM?oc=5)
+來源：[PsyPost](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
+
+---
+
+### [La estimulación magnética transcraneal logra una respuesta cercana al 50% en depresión resistente - Diario Siglo XXI](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmtWekxsN2lUcGVPVDVUUFJiWTJYOXJodUgtUDBBMTdOS1hfNTlnR0Z1dV93bnZ2cnl2MDduazJmOW9fWjlaWUFhMWR4Z0lJT0hOXzFkeEx3bC1JamVPNU43MmE0X2pLanBINFVWZDAwaVNXWnRqcEQ5cTVyX21jT295SmM3eWZ2UUhHWGE2bVFTdF9NVW5aZzBxV1RhTHBheU14S0J3bkdiRC1lR2pHWG0yT0swektBaW5fMEpIYVJKMmI3NmUtTE14cDNVaGxNbVBqOUVkVGp5VG1LbGRV?oc=5)
+
+2026-06-16
+
+來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmtWekxsN2lUcGVPVDVUUFJiWTJYOXJodUgtUDBBMTdOS1hfNTlnR0Z1dV93bnZ2cnl2MDduazJmOW9fWjlaWUFhMWR4Z0lJT0hOXzFkeEx3bC1JamVPNU43MmE0X2pLanBINFVWZDAwaVNXWnRqcEQ5cTVyX21jT295SmM3eWZ2UUhHWGE2bVFTdF9NVW5aZzBxV1RhTHBheU14S0J3bkdiRC1lR2pHWG0yT0swektBaW5fMEpIYVJKMmI3NmUtTE14cDNVaGxNbVBqOUVkVGp5VG1LbGRV?oc=5)
 
 ---
 

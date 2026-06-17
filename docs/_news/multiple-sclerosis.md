@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [A 2025 NYU study found that women who actively worry about aging — particularly those who fear future health problems — measurably age faster at the cellular level than those who do not, in a quiet finding that suggests how a person thinks about getting ol - Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ2luUzFpTV8xWngzSlB0SDJ4dk4tTmhGWHh1Z21aMlcyQXZZUGRILWwzVWVERExPYUFNREFmN1NXZEkwMFhvc0s3bzEwd3V4NEhISmZZeEdfN21ORWhrUU04SnVDazNpckRiTDFWVjd2RmZ0eHQzcWxMYnNwcklDZ0tNSnpCWkdVUGRrN3lYNlBzR3MyYzBqVFNmZ2Z3bzFjZWxYZmx1NlZlQjJrVGt0UHh4NWREZ1o3WmZXb3cxVDRhWVZlbmROWm1wanlBVlZwZWVFWDBBcWd6MTNGR3l4QVgzb3pKdWtvLUVULXJpQURGNmE3U0EtOWMxY3lqWEVKNHB3YjZzaTNJSWJNRDVMLTRiU3JqOVRSdDhfZG1pa0FYXzBTZkFKVTg4YjJZOWc?oc=5)
+
+2026-06-16
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ2luUzFpTV8xWngzSlB0SDJ4dk4tTmhGWHh1Z21aMlcyQXZZUGRILWwzVWVERExPYUFNREFmN1NXZEkwMFhvc0s3bzEwd3V4NEhISmZZeEdfN21ORWhrUU04SnVDazNpckRiTDFWVjd2RmZ0eHQzcWxMYnNwcklDZ0tNSnpCWkdVUGRrN3lYNlBzR3MyYzBqVFNmZ2Z3bzFjZWxYZmx1NlZlQjJrVGt0UHh4NWREZ1o3WmZXb3cxVDRhWVZlbmROWm1wanlBVlZwZWVFWDBBcWd6MTNGR3l4QVgzb3pKdWtvLUVULXJpQURGNmE3U0EtOWMxY3lqWEVKNHB3YjZzaTNJSWJNRDVMLTRiU3JqOVRSdDhfZG1pa0FYXzBTZkFKVTg4YjJZOWc?oc=5)
+
+---
 
 ### [Most Women Are Concerned About Heart Disease—but Miss This Early Sign](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
 
@@ -80,19 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Demenz-Risiko verringern: Studie zeigt - Auswirkungen von Kaffee auf den Körper - Mittelbayerische Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc1dVeWl3WVEwMmFVelhRMTdXNlItSFZMSnA0dnNpQjZwS20wWnBkY2pGUmFCODItQnNJYWhDRm96bURsWWJFNF9oeGl1N1hyWFh5c3M2YUdMcnFLcFlVcXFiRVJ0Vy0wLVczc0tSVkx6Z0ZkajJsZXBSb190QXpoaC13OUd0WXRfTUtxckE0SXc1cU94TnUyWWRhUVIzTk5DekVqSm03d1hJOXlhSjJJcUV0NnRnUDRmbXNtcElrZU11SnZwQlExWEozY0VrUQ?oc=5)
+### [Popular 'Ice' Vape Flavors May Have a Hidden Effect on Your Heart](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVRSWGdwc1doZHh2b1Nzb1hjWVVReEoybGotRDlYUUdtd2F6Nk8zQmJMWWpieDJTcmJNQ0JyQlViUF95RUh6c2Nxd1FHSWRjNl8wT212WXRBU0hoTnpvRHZ3Qm1HWXdkUTd1S3FtWG10MUdPS0N6UnFHQi1mRjJBWE1naFRPVi1KeXdnRFdERDV3Z0Z4ZFIw?oc=5)
 
 2026-06-16
 
-來源：[Mittelbayerische Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc1dVeWl3WVEwMmFVelhRMTdXNlItSFZMSnA0dnNpQjZwS20wWnBkY2pGUmFCODItQnNJYWhDRm96bURsWWJFNF9oeGl1N1hyWFh5c3M2YUdMcnFLcFlVcXFiRVJ0Vy0wLVczc0tSVkx6Z0ZkajJsZXBSb190QXpoaC13OUd0WXRfTUtxckE0SXc1cU94TnUyWWRhUVIzTk5DekVqSm03d1hJOXlhSjJJcUV0NnRnUDRmbXNtcElrZU11SnZwQlExWEozY0VrUQ?oc=5)
-
----
-
-### [All you need to know about prostate cancer as Queen’s professor offers advice that ‘could even save your life’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
-
-2026-06-16
-
-來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF83a3Y2ZDZNakQ5dUJEWUhzeERqU2k5X0ZPbTJyNzFaVjVmYkN4NUVLZlF1bTVNR1pWeWhwbjdvaEF3V3BkczE2VThQN3B1cjFQcDV2c2hXeHJ0dUowd0pPNzYydnkteFl1Z09acjlKbHZ4QWc0TFVuMGJRNnBJMmtkdjdRdFJ4OGJZUTJCREhQa2hzSkVMV1F6dHFtQWlZUDd2WThjaXRtQmFweDBncWtQdFlXZEdmRE1ldDgyRUpsV3EzTnJyZl9jTEhBR3FhMW1HRFpOdkhkXzRWa2MxVHVxaWJyeW9qVGpSdHExRTJQekFzTVFQbm5KbUQtVWd4?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVRSWGdwc1doZHh2b1Nzb1hjWVVReEoybGotRDlYUUdtd2F6Nk8zQmJMWWpieDJTcmJNQ0JyQlViUF95RUh6c2Nxd1FHSWRjNl8wT212WXRBU0hoTnpvRHZ3Qm1HWXdkUTd1S3FtWG10MUdPS0N6UnFHQi1mRjJBWE1naFRPVi1KeXdnRFdERDV3Z0Z4ZFIw?oc=5)
 
 ---
 
@@ -104,11 +104,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Top vaping flavours could raise cardiac arrest risk by causing an irregular heartbeat, study claims - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnNJSVRQQl9MQnJqeUlHTThqMjVhYzBmTXQ2NVY1NFI2X3JEMmh4MVdFV19RTjU4TkVNRVExUVdwamd0TjQ1RjJCZTd6RURRUEdpY0dfVDJ3OTVBaGJxQThoV2R3aDZyNHZWRlI2M1VrS3NDc3pZMXF4U2w1YkMxdEVrckljXzViYUJSRWxvSnlOdlpjclVNYWo4TGQ0S0J4czY0?oc=5)
+### [My husband jokes about my microplastics mania, but it’s no laughing matter - The Telegraph](https://news.google.com/rss/articles/CBMie0FVX3lxTE02bjFsZkpyWnJTeG9TWExvSjJzR1RaZFFaRmdqdVcyUnh0blpycWRCTDV1SnFwTS1kSDFJWXhNOUhBb2x6UmpJbkZNdHBIZmxtNGpET3JramI5SWY2VTRxanpwUjdtWHZ4akxXdXZaRllxb2NwbTVYeFZBWQ?oc=5)
 
 2026-06-15
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnNJSVRQQl9MQnJqeUlHTThqMjVhYzBmTXQ2NVY1NFI2X3JEMmh4MVdFV19RTjU4TkVNRVExUVdwamd0TjQ1RjJCZTd6RURRUEdpY0dfVDJ3OTVBaGJxQThoV2R3aDZyNHZWRlI2M1VrS3NDc3pZMXF4U2w1YkMxdEVrckljXzViYUJSRWxvSnlOdlpjclVNYWo4TGQ0S0J4czY0?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMie0FVX3lxTE02bjFsZkpyWnJTeG9TWExvSjJzR1RaZFFaRmdqdVcyUnh0blpycWRCTDV1SnFwTS1kSDFJWXhNOUhBb2x6UmpJbkZNdHBIZmxtNGpET3JramI5SWY2VTRxanpwUjdtWHZ4akxXdXZaRllxb2NwbTVYeFZBWQ?oc=5)
+
+---
+
+### [Meningitis survivor welcomes vaccine rollout](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UbHlXREltQXJpYkp4b0k3UVo1dGlxWnRnTUlzWXVOdTFoeW9hc3lobEtZUUhVX0huTWhubjR6SG51dWRsNVFFOVhUeUFrUE9Kc0hiNU5QQ1U1WFk3?oc=5)
+
+2026-06-15
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UbHlXREltQXJpYkp4b0k3UVo1dGlxWnRnTUlzWXVOdTFoeW9hc3lobEtZUUhVX0huTWhubjR6SG51dWRsNVFFOVhUeUFrUE9Kc0hiNU5QQ1U1WFk3?oc=5)
+
+---
+
+### [Kaffee-Wirkstoffe: Polyphenole senken Entzündungen stärker als Koffein - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGpHeDA2VjRxWGVDQ3RUT0dNakhQYmpmRURWY1pWSHZTbWswdkstUWtaNk1jU2pkdUJST2JNUkJtWTFPV2lyWDlrZ2NXeXlnYTJrelU2QmNENVQ3ei11LTJBZl9fRlRnR2xUU2Y3a1h3cFdrOGVOTnJFcnFzRi14a09GcS1HVjRvY2VQTDB0WkM4cDRQR2c0TVVkN0FVWXlXVzNKa0YzWlRYOUFVcUREMDl0UmF4Y0xCelZxRA?oc=5)
+
+2026-06-15
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGpHeDA2VjRxWGVDQ3RUT0dNakhQYmpmRURWY1pWSHZTbWswdkstUWtaNk1jU2pkdUJST2JNUkJtWTFPV2lyWDlrZ2NXeXlnYTJrelU2QmNENVQ3ei11LTJBZl9fRlRnR2xUU2Y3a1h3cFdrOGVOTnJFcnFzRi14a09GcS1HVjRvY2VQTDB0WkM4cDRQR2c0TVVkN0FVWXlXVzNKa0YzWlRYOUFVcUREMDl0UmF4Y0xCelZxRA?oc=5)
 
 ---
 
@@ -128,11 +144,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [What Happens to Your Blood Pressure When You Cut Out Salt for a Week](https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ18ybGxqRENhZXJPQThVcTlnNHpNNDkzcktIdFh5MVhCWTg5cE0yS3hCaS1xUFlIaFpJRGYtdzQtdjc2NEJMd0I5bTFaMURCLWNYeGZnM0FHZGR2b2lFVTVsYUxaaVpGMEtTclF6WTBwWUVNMmdSSlJQM2xTTjk1NEtwMkJ3cFNtR0swaFYtWWgwcURIVjdhYnl3VkMtM0RrUWtvY0FQNA?oc=5)
+### [The Diet That May Lower Bad Cholesterol 'As Much As A Statin' - HuffPost UK](https://news.google.com/rss/articles/CBMipAFBVV95cUxQemJVMDZoQUpaSHJwREhTY3JIdUpER255QzZfSWRCTHAzN3UyODkyU2wxT3R5VE9BaHpsN0YxUjdkTEZURDdtZjRVNlFVbHJWZlZqcTRwTFVDOEV1cnpuTW4tTTJnb2pzR2x2bkNEQW5LUy00QUlHOUl4Q0hUSUN0QnhzUktqOWtFTFF3MHk4bkNRYUs1dnp5Z08wbWk0bzBMd29tZdIBqwFBVV95cUxOY0JkWkpXRC0xWkEya293WW40REZrYlg4dkhXc0lCSDlxMmhST2EwR1U1eFZNRGNpeXZlOFVQMWNBelNQdUxUNWdJcHl6Z1dwcUY2Z2xIbzlybkRja2dFMXg3S2NpRVdid3IwTEM1N2hxTWhfRTFkY2kwMHp1Y2hmRGdKWE5Yckc1MnFmeTUxU0NWSFdleEJna0V2Qmc5TVk0X251ZTNucTFzXzA?oc=5)
 
 2026-06-15
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ18ybGxqRENhZXJPQThVcTlnNHpNNDkzcktIdFh5MVhCWTg5cE0yS3hCaS1xUFlIaFpJRGYtdzQtdjc2NEJMd0I5bTFaMURCLWNYeGZnM0FHZGR2b2lFVTVsYUxaaVpGMEtTclF6WTBwWUVNMmdSSlJQM2xTTjk1NEtwMkJ3cFNtR0swaFYtWWgwcURIVjdhYnl3VkMtM0RrUWtvY0FQNA?oc=5)
+來源：[HuffPost UK](https://news.google.com/rss/articles/CBMipAFBVV95cUxQemJVMDZoQUpaSHJwREhTY3JIdUpER255QzZfSWRCTHAzN3UyODkyU2wxT3R5VE9BaHpsN0YxUjdkTEZURDdtZjRVNlFVbHJWZlZqcTRwTFVDOEV1cnpuTW4tTTJnb2pzR2x2bkNEQW5LUy00QUlHOUl4Q0hUSUN0QnhzUktqOWtFTFF3MHk4bkNRYUs1dnp5Z08wbWk0bzBMd29tZdIBqwFBVV95cUxOY0JkWkpXRC0xWkEya293WW40REZrYlg4dkhXc0lCSDlxMmhST2EwR1U1eFZNRGNpeXZlOFVQMWNBelNQdUxUNWdJcHl6Z1dwcUY2Z2xIbzlybkRja2dFMXg3S2NpRVdid3IwTEM1N2hxTWhfRTFkY2kwMHp1Y2hmRGdKWE5Yckc1MnFmeTUxU0NWSFdleEJna0V2Qmc5TVk0X251ZTNucTFzXzA?oc=5)
 
 ---
 

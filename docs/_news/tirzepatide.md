@@ -62,11 +62,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### ["Je ne pouvais plus entrer dans la baignoire" : Karine raconte comment le Wegovy, enfin remboursé, l’a allégée de 18 kilos - Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
+### [Remboursement de Wegovy et Mounjaro : qui sont les 1 million de Français concernés ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
 
 2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSkU2M0FCWVJ3MkplMEhqWkFsRG9Yb0hlVVBIYWtNWmw0YVBKcDFCTk1YYnNfV2IzWTE1R3gweTZWdWhKZmNHUzJ4VW1aUm4yS19Yb3Faa0NLS2ZZaUZhcFVsOU1UeHRJZjViT05hMmlQYzlYbVcySWZNeEsxUEtJTWdzd3lnVE9RUGc4Szl2RXhXSUhiY0NvX29Ub2FhTHFUd2czYk55SFdId1BjR3M5dVVpS2w4azMxRUNkT0pqazduaExaMFMwRnRyT1FjV3EwQ3k0ZVg1SlNMZEtSWjlCYXc2ZEJFMndoQ1lkR1lycGk1QXMxMGw4?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
 
 ---
 

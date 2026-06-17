@@ -54,6 +54,14 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（3 則）
 
+### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+
+2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+
+---
+
 ### [Herzinfarkt und Schlaganfall: Studie mit 9 Millionen zeigt 99% Vermeidbarkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTZkcjFPV1ZETzhlWmpyQXFvaFU4STc3dTRVQ3IzMmpJYTFVS3RJaHFwd1hxVV9CZjU1cEItYzMyUkU2clJWQmEtaHI1bm1DLUx3OVpYcklqTFJjb09lblY1TkRiQnVhUTRjR2swb3d3V2pxdXd3RDdfQUdpa2QybWZfbGU0Zm53WHZRcXoySEZnRzFqdDJMLXNTaUNJdlJkRlUxb0pLclk5dE05THc1Z19UZGxrR21v?oc=5)
 
 2026-06-16 <span class="news-indication-tag">Schlaganfall</span>
@@ -67,14 +75,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-06-16 <span class="news-indication-tag">stroke</span>
 
 來源：[Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
-
----
-
-### [Schlaganfall nach TAVI: Rückläufige Inzidenz, anhaltend hohe Mortalität - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2EwU2ExS0o4a0NJZ1F1VFJ4UjlNZ1pTSTE1MFBXWjdNVTFldHRlU0pBc19SQ3hnb3NuWFVUQWticndzcU0tbmRfTENmcDJDMTFCdGtzU3VjZ2xpSTBuVC12bEpIVTVROF8wTGdHd2tMWFl0S2UxNFNHV01CWjV0OFhCbm4wdmcxN3hoYlhvNzkxVU42ME1CQUs4anFwM0htQ25CenZUZjI1R2RJcS1DRw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2EwU2ExS0o4a0NJZ1F1VFJ4UjlNZ1pTSTE1MFBXWjdNVTFldHRlU0pBc19SQ3hnb3NuWFVUQWticndzcU0tbmRfTENmcDJDMTFCdGtzU3VjZ2xpSTBuVC12bEpIVTVROF8wTGdHd2tMWFl0S2UxNFNHV01CWjV0OFhCbm4wdmcxN3hoYlhvNzkxVU42ME1CQUs4anFwM0htQ25CenZUZjI1R2RJcS1DRw?oc=5)
 
 ---
 

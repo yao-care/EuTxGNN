@@ -14,7 +14,7 @@ permalink: /news/umeclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="Umeclidinium Bromide 有什麼相關新聞？">
-<strong>Umeclidinium Bromide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Umeclidinium Bromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/umeclidinium-bromide/
 <p><a href="{{ '/drugs/umeclidinium-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
-
-2026-06-16 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

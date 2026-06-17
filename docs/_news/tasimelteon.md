@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [La neuromodulación logra hasta un 50% de respuesta en depresión resistente](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09zT1B5VzZyWGNDWkFZenFFWGp1S1hTRV9pWk1qcEJoM3gtSnA5cTBYUnlfLXNnNWZzYzB1UW9LclpzUndZMDVSR000dXVGZDlSck03Y2xpSGY0anpLNFdKNXNBNjZmaVNlSTJfWHltQTREMVhORWpOcXh0cGl6MDl3THNxZlozWTN5RlJvUHFULVFaRXpVRnFkazJyRkg3MGhoMnhhOUpVTFUxNGpBMTNBaVJ2aHM?oc=5)
+### [A three-minute smartphone game can detect a subtle cognitive mechanism behind depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
+
+2026-06-16 <span class="news-indication-tag">depression</span>
+
+來源：[PsyPost](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
+
+---
+
+### [La estimulación magnética transcraneal logra una respuesta cercana al 50% en depresión resistente - Diario Siglo XXI](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmtWekxsN2lUcGVPVDVUUFJiWTJYOXJodUgtUDBBMTdOS1hfNTlnR0Z1dV93bnZ2cnl2MDduazJmOW9fWjlaWUFhMWR4Z0lJT0hOXzFkeEx3bC1JamVPNU43MmE0X2pLanBINFVWZDAwaVNXWnRqcEQ5cTVyX21jT295SmM3eWZ2UUhHWGE2bVFTdF9NVW5aZzBxV1RhTHBheU14S0J3bkdiRC1lR2pHWG0yT0swektBaW5fMEpIYVJKMmI3NmUtTE14cDNVaGxNbVBqOUVkVGp5VG1LbGRV?oc=5)
 
 2026-06-16 <span class="news-indication-tag">depresión</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT09zT1B5VzZyWGNDWkFZenFFWGp1S1hTRV9pWk1qcEJoM3gtSnA5cTBYUnlfLXNnNWZzYzB1UW9LclpzUndZMDVSR000dXVGZDlSck03Y2xpSGY0anpLNFdKNXNBNjZmaVNlSTJfWHltQTREMVhORWpOcXh0cGl6MDl3THNxZlozWTN5RlJvUHFULVFaRXpVRnFkazJyRkg3MGhoMnhhOUpVTFUxNGpBMTNBaVJ2aHM?oc=5)
+來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmtWekxsN2lUcGVPVDVUUFJiWTJYOXJodUgtUDBBMTdOS1hfNTlnR0Z1dV93bnZ2cnl2MDduazJmOW9fWjlaWUFhMWR4Z0lJT0hOXzFkeEx3bC1JamVPNU43MmE0X2pLanBINFVWZDAwaVNXWnRqcEQ5cTVyX21jT295SmM3eWZ2UUhHWGE2bVFTdF9NVW5aZzBxV1RhTHBheU14S0J3bkdiRC1lR2pHWG0yT0swektBaW5fMEpIYVJKMmI3NmUtTE14cDNVaGxNbVBqOUVkVGp5VG1LbGRV?oc=5)
 
 ---
 
