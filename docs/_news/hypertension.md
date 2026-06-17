@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "ipertensione（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# ipertensione（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
+<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,19 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（2 則）
 
-### [Forscher entdecken unerwartetes Alzheimer-Risiko](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTZjeXBHcEw3WkFGWWJZbUFEMVdISnVYanZGVVVYT3NtMExmU1NCbkVMNWZ4Ty01ZUdwbGhDTEJwdkFnam8yZ0t5NTNXUW5obC0wYTdLSUYxV2hzLUlDS2cwN0VNSm5GX2tKS190T211RmFmbE5YcXU1MUtDcmd2dVhhN1Q1RlpxNlp1UVFza1JfSlBkMGcxMFN1Qlo0dFE4bG1SYlNKVXdYY0pXRmJtVGNoZFRNMlU0aUJmUm5oYVNmakRxb2U0NQ?oc=5)
-
-2026-06-17
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTZjeXBHcEw3WkFGWWJZbUFEMVdISnVYanZGVVVYT3NtMExmU1NCbkVMNWZ4Ty01ZUdwbGhDTEJwdkFnam8yZ0t5NTNXUW5obC0wYTdLSUYxV2hzLUlDS2cwN0VNSm5GX2tKS190T211RmFmbE5YcXU1MUtDcmd2dVhhN1Q1RlpxNlp1UVFza1JfSlBkMGcxMFN1Qlo0dFE4bG1SYlNKVXdYY0pXRmJtVGNoZFRNMlU0aUJmUm5oYVNmakRxb2U0NQ?oc=5)
-
----
-
 ### [Soia e legumi combattono l'ipertensione, ma quanti ne servono? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdE53RWdoeklyQ2VoeVJlSTN0SzdFUUlvNURLQWE1XzNSa0J0c2hkeHJKU3FOSUw3SHNrMkl5ZWNza1dSbFZQY3VjTl9GVHBsODZfdzdHM19EUFdXYVZheEtYOEUzelRNTHo4N2t4SVRuTGNPU0NTWS1vNFhuNHM3aHdsOFZJbkpoc2duNzREajg5d3BScXljN3dFVWNxQVBabklCYW5EZ1I4V3g2T3ZuRjlSLXdoYUhoeWpsdE5mMnUxRWxBUnV4M0xaT0JqQkdIcmNEQ1RyTDhJNkd4enZkbUltY9IBxAFBVV95cUxQdkJZdG4zZTFEU3NPOEpfRFI2dFFZRkJLMkFxS3RveDJlazJrUk5tcm5fUTNjdHFyTEJLWmNfYmJmUWpRQ2o1VVlMOTdGRUhNUUFjSmt0ZVdycnBDZXpZazRoeDhSWW1jS1lrT0p1dnRPUEJlbUJqR0FZN3lKVVpqWXlPVDNBY0o1ck9CTWg0SmsxQTN4cXFiQ0U1bTEzYmZ3WDJPOTRfV255VEpfejYzcmlGRnV3YzNvSVVJZzk0Zy1Ha3JO?oc=5)
 
 2026-06-16
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdE53RWdoeklyQ2VoeVJlSTN0SzdFUUlvNURLQWE1XzNSa0J0c2hkeHJKU3FOSUw3SHNrMkl5ZWNza1dSbFZQY3VjTl9GVHBsODZfdzdHM19EUFdXYVZheEtYOEUzelRNTHo4N2t4SVRuTGNPU0NTWS1vNFhuNHM3aHdsOFZJbkpoc2duNzREajg5d3BScXljN3dFVWNxQVBabklCYW5EZ1I4V3g2T3ZuRjlSLXdoYUhoeWpsdE5mMnUxRWxBUnV4M0xaT0JqQkdIcmNEQ1RyTDhJNkd4enZkbUltY9IBxAFBVV95cUxQdkJZdG4zZTFEU3NPOEpfRFI2dFFZRkJLMkFxS3RveDJlazJrUk5tcm5fUTNjdHFyTEJLWmNfYmJmUWpRQ2o1VVlMOTdGRUhNUUFjSmt0ZVdycnBDZXpZazRoeDhSWW1jS1lrT0p1dnRPUEJlbUJqR0FZN3lKVVpqWXlPVDNBY0o1ck9CTWg0SmsxQTN4cXFiQ0U1bTEzYmZ3WDJPOTRfV255VEpfejYzcmlGRnV3YzNvSVVJZzk0Zy1Ha3JO?oc=5)
+
+---
+
+### [Herzwoche im Jessener Land: Der Blutdruck lügt nicht: Apotheken als Gesundheitslotsen - Mitteldeutsche Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1JFTU1sendHVWNCb1o4TTVGQkU5MW9NS3ZRbzVoTjF0VUJXSHd6SkJzYlh4dTBhSG81alRORk9fZ0lUdWtBWGJqcWhZTHRYUUlaaHljX0JjN1RSYkFGVXFULWgtRUs1Q2Vadnh5STNsYkF3Mkw3VFY2V0htbC05WDkyM1NiR0VubHIwOENZYlV4VTRNSVZCUGotTQ?oc=5)
+
+2026-06-16
+
+來源：[Mitteldeutsche Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1JFTU1sendHVWNCb1o4TTVGQkU5MW9NS3ZRbzVoTjF0VUJXSHd6SkJzYlh4dTBhSG81alRORk9fZ0lUdWtBWGJqcWhZTHRYUUlaaHljX0JjN1RSYkFGVXFULWgtRUs1Q2Vadnh5STNsYkF3Mkw3VFY2V0htbC05WDkyM1NiR0VubHIwOENZYlV4VTRNSVZCUGotTQ?oc=5)
 
 ---
 

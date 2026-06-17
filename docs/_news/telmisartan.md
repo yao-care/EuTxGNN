@@ -54,35 +54,19 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（7 則）
 
+### [Unmittelbare Verbesserung: Neue Methode hilft gegen Folgen eines Schlaganfalls - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBYZEVWRGpXSnR2bzE5dWxBdjN6U3JUTkNjWHgzNm5EU1hHb3RmcXdCTHJXZUZKdEItbVRubUROQ2JlU0stVVhMYWVIaldoQkJ4R09JSm9zY3FQSmV0RlMzRWRQSG8tMk14UUF6Wk9KZmxLZWZINENtMEFkeXRTQXI2ODJ4WmU1OW9ha19Md25aR1lJX1ltcjdZeTM4aktrRl9VZFNQRU8?oc=5)
+
+2026-06-17 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBYZEVWRGpXSnR2bzE5dWxBdjN6U3JUTkNjWHgzNm5EU1hHb3RmcXdCTHJXZUZKdEItbVRubUROQ2JlU0stVVhMYWVIaldoQkJ4R09JSm9zY3FQSmV0RlMzRWRQSG8tMk14UUF6Wk9KZmxLZWZINENtMEFkeXRTQXI2ODJ4WmU1OW9ha19Md25aR1lJX1ltcjdZeTM4aktrRl9VZFNQRU8?oc=5)
+
+---
+
 ### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
-2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span>
+2026-06-17 <span class="news-indication-tag">stroke</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
-
----
-
-### [Forscher entdecken unerwartetes Alzheimer-Risiko](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTZjeXBHcEw3WkFGWWJZbUFEMVdISnVYanZGVVVYT3NtMExmU1NCbkVMNWZ4Ty01ZUdwbGhDTEJwdkFnam8yZ0t5NTNXUW5obC0wYTdLSUYxV2hzLUlDS2cwN0VNSm5GX2tKS190T211RmFmbE5YcXU1MUtDcmd2dVhhN1Q1RlpxNlp1UVFza1JfSlBkMGcxMFN1Qlo0dFE4bG1SYlNKVXdYY0pXRmJtVGNoZFRNMlU0aUJmUm5oYVNmakRxb2U0NQ?oc=5)
-
-2026-06-17 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTZjeXBHcEw3WkFGWWJZbUFEMVdISnVYanZGVVVYT3NtMExmU1NCbkVMNWZ4Ty01ZUdwbGhDTEJwdkFnam8yZ0t5NTNXUW5obC0wYTdLSUYxV2hzLUlDS2cwN0VNSm5GX2tKS190T211RmFmbE5YcXU1MUtDcmd2dVhhN1Q1RlpxNlp1UVFza1JfSlBkMGcxMFN1Qlo0dFE4bG1SYlNKVXdYY0pXRmJtVGNoZFRNMlU0aUJmUm5oYVNmakRxb2U0NQ?oc=5)
-
----
-
-### [Herzinfarkt und Schlaganfall: Studie mit 9 Millionen zeigt 99% Vermeidbarkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTZkcjFPV1ZETzhlWmpyQXFvaFU4STc3dTRVQ3IzMmpJYTFVS3RJaHFwd1hxVV9CZjU1cEItYzMyUkU2clJWQmEtaHI1bm1DLUx3OVpYcklqTFJjb09lblY1TkRiQnVhUTRjR2swb3d3V2pxdXd3RDdfQUdpa2QybWZfbGU0Zm53WHZRcXoySEZnRzFqdDJMLXNTaUNJdlJkRlUxb0pLclk5dE05THc1Z19UZGxrR21v?oc=5)
-
-2026-06-16 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTZkcjFPV1ZETzhlWmpyQXFvaFU4STc3dTRVQ3IzMmpJYTFVS3RJaHFwd1hxVV9CZjU1cEItYzMyUkU2clJWQmEtaHI1bm1DLUx3OVpYcklqTFJjb09lblY1TkRiQnVhUTRjR2swb3d3V2pxdXd3RDdfQUdpa2QybWZfbGU0Zm53WHZRcXoySEZnRzFqdDJMLXNTaUNJdlJkRlUxb0pLclk5dE05THc1Z19UZGxrR21v?oc=5)
-
----
-
-### [Your Diet Could Be Missing the Key Ingredient for Heart Protection](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
-
-2026-06-16 <span class="news-indication-tag">heart disease</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
 
 ---
 
@@ -107,6 +91,22 @@ permalink: /news/telmisartan/
 2026-06-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
+
+---
+
+### [Herzwoche im Jessener Land: Der Blutdruck lügt nicht: Apotheken als Gesundheitslotsen - Mitteldeutsche Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1JFTU1sendHVWNCb1o4TTVGQkU5MW9NS3ZRbzVoTjF0VUJXSHd6SkJzYlh4dTBhSG81alRORk9fZ0lUdWtBWGJqcWhZTHRYUUlaaHljX0JjN1RSYkFGVXFULWgtRUs1Q2Vadnh5STNsYkF3Mkw3VFY2V0htbC05WDkyM1NiR0VubHIwOENZYlV4VTRNSVZCUGotTQ?oc=5)
+
+2026-06-16 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Mitteldeutsche Zeitung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1JFTU1sendHVWNCb1o4TTVGQkU5MW9NS3ZRbzVoTjF0VUJXSHd6SkJzYlh4dTBhSG81alRORk9fZ0lUdWtBWGJqcWhZTHRYUUlaaHljX0JjN1RSYkFGVXFULWgtRUs1Q2Vadnh5STNsYkF3Mkw3VFY2V0htbC05WDkyM1NiR0VubHIwOENZYlV4VTRNSVZCUGotTQ?oc=5)
+
+---
+
+### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+
+2026-06-16 <span class="news-indication-tag">CVA</span>
+
+來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
 
 ---
 

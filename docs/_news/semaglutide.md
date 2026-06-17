@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Supplemente und Nahrungsergänzungsmittel bei Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
+
+---
+
+### [Scientists Find Intriguing Link Between Ozempic and Violent Behavior](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRiUGRxejZuaVVJdjJmWkw3UFY1RVZVOENZdXVKMHEyZ0haX0lFM3diNFU3TEFtb3FteTFoeGRNZmhxNkdFSDNGdkpHOW9hQjBZUjhpX2J4Z1VHSTBYRXp3Ukl2VjZnckNIVVdPZHR6M2dhaUxaRmw1UVRORE1PUDNnX2FpMmxFT0h3M0d3U0FFR1MyUXpHaVJOOXA3cHow?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Gizmodo](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRiUGRxejZuaVVJdjJmWkw3UFY1RVZVOENZdXVKMHEyZ0haX0lFM3diNFU3TEFtb3FteTFoeGRNZmhxNkdFSDNGdkpHOW9hQjBZUjhpX2J4Z1VHSTBYRXp3Ukl2VjZnckNIVVdPZHR6M2dhaUxaRmw1UVRORE1PUDNnX2FpMmxFT0h3M0d3U0FFR1MyUXpHaVJOOXA3cHow?oc=5)
+
+---
 
 ### [¿Podría el Ozempic reducir también los crímenes violentos? “Debilita el salto entre el impulso y la acción” - EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
 
@@ -86,19 +102,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
+### [Diabete in Puglia: stop alle doppie visite e accesso più facile ai sensori glicemici](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUFxRldfOXJvQXJ6akV3Q09FcWcxdW5sZ0JCaEFiZnR5VWI4am5NNlZZTmgwVmR3OHZvN3ZRbjNiR0d1ZnptM3lzckJ0UEplRkhZV3JrNlJlcEYwbVRxcGJYSnZBREJlalIxU2V2U2FmazhPc3IxQ1hpQTF3Yy0wZ1p5VVZzOEtNM2paaXBJcjdIUE5kd19WRmpWbVlkaVhud1VkdnZ3?oc=5)
 
-2026-06-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-06-16 <span class="news-indication-tag">diabete</span>
 
-來源：[Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
+來源：[BrindisiReport](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUFxRldfOXJvQXJ6akV3Q09FcWcxdW5sZ0JCaEFiZnR5VWI4am5NNlZZTmgwVmR3OHZvN3ZRbjNiR0d1ZnptM3lzckJ0UEplRkhZV3JrNlJlcEYwbVRxcGJYSnZBREJlalIxU2V2U2FmazhPc3IxQ1hpQTF3Yy0wZ1p5VVZzOEtNM2paaXBJcjdIUE5kd19WRmpWbVlkaVhud1VkdnZ3?oc=5)
 
 ---
 
-### [Diabetes und Herzrisiko: DFG-Projekt und Sanitas-Studie decken Lücken auf - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBXNWtsN0NPdmNPUVdZMXZtcGF2SXVycGR5Zk04Z19qanRxX0s5MUM3TktlRDBIT2IyX1p0T1BLNTBNNVpHYThLOWl2WnlxTjNrQjJ1N2NTaDVFZ1VXdHFEaTEtVUF4RVpBbEttZEV5VlRUekRjZkU1RXpyb0EtdkpYdzlsMUxLREplMVZ2LXN3cE82R0M3T1NsUUJoeHJKcS01ZmpBU2s?oc=5)
+### [Diabetes-Risiko: Sanitas-Studie zeigt massive Fehleinschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
 
-2026-06-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBXNWtsN0NPdmNPUVdZMXZtcGF2SXVycGR5Zk04Z19qanRxX0s5MUM3TktlRDBIT2IyX1p0T1BLNTBNNVpHYThLOWl2WnlxTjNrQjJ1N2NTaDVFZ1VXdHFEaTEtVUF4RVpBbEttZEV5VlRUekRjZkU1RXpyb0EtdkpYdzlsMUxLREplMVZ2LXN3cE82R0M3T1NsUUJoeHJKcS01ZmpBU2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
 
 ---
 
@@ -115,14 +131,6 @@ permalink: /news/semaglutide/
 2026-06-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
-
----
-
-### [Gerardo Ochoa, experto en diabetes: "El problema de hoy en día es que se prioriza la comodidad y el placer antes que el bienestar" - Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0l5bGVramN4QWRTZlN3MzlNNi1fZktaMmFFWVhMbkZLMmsxc2pGUUFieTl2Z2ZnX19YajE5cTZjZmd1Tm5EQWdJcGlPQy1PVDBnYlVUcmxZOWQxUlBWaXdpR2pvRExXSnNjN0lvN0tiWm9jd3djXzVieXByc2t3MkhtSjIxMl83VWhHcjVVVmVPeU5nZTl0eU8yaVIwT2lPYVk3dTRwSlE2V0lRVzFhQm1ZQnBYUVVpOXJYbHBINFBmRHk3Qng4MHpRcUY4LXBmRXBLbHE1MzBPczViSG44b0pvOA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0l5bGVramN4QWRTZlN3MzlNNi1fZktaMmFFWVhMbkZLMmsxc2pGUUFieTl2Z2ZnX19YajE5cTZjZmd1Tm5EQWdJcGlPQy1PVDBnYlVUcmxZOWQxUlBWaXdpR2pvRExXSnNjN0lvN0tiWm9jd3djXzVieXByc2t3MkhtSjIxMl83VWhHcjVVVmVPeU5nZTl0eU8yaVIwT2lPYVk3dTRwSlE2V0lRVzFhQm1ZQnBYUVVpOXJYbHBINFBmRHk3Qng4MHpRcUY4LXBmRXBLbHE1MzBPczViSG44b0pvOA?oc=5)
 
 ---
 

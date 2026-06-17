@@ -54,19 +54,19 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（2 則）
 
+### [Individuate 74 varianti genetiche legate all’ansia, 39 sono nuove - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQk1HYlhsQVJGRWxNYVRQdUFKT2NXenVpcHlic25oSmtUTUJ1NXQ1VUVZUk11SU02dHFCOFpMLVVnOGpuYmtJMThDWV9lXzNjMVpGWXVIU0toNmFVZFFHYk9qLXQzNmU2UTdnTW90ZnlqTDlLX3pFdkxLb3Vsdk9GZ215c3JvMmNDWEtYU1d4cVB5RWF2SkhnOU1nYTR4b0dldmlKVS02RGJOMFl1c1BEX3N5T3dpUC1BRzM2OFpqckJGMU1Yb3doSjBrQQ?oc=5)
+
+2026-06-17 <span class="news-indication-tag">depression</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQk1HYlhsQVJGRWxNYVRQdUFKT2NXenVpcHlic25oSmtUTUJ1NXQ1VUVZUk11SU02dHFCOFpMLVVnOGpuYmtJMThDWV9lXzNjMVpGWXVIU0toNmFVZFFHYk9qLXQzNmU2UTdnTW90ZnlqTDlLX3pFdkxLb3Vsdk9GZ215c3JvMmNDWEtYU1d4cVB5RWF2SkhnOU1nYTR4b0dldmlKVS02RGJOMFl1c1BEX3N5T3dpUC1BRzM2OFpqckJGMU1Yb3doSjBrQQ?oc=5)
+
+---
+
 ### [A three-minute smartphone game can detect a subtle cognitive mechanism behind depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
 
 2026-06-16 <span class="news-indication-tag">depression</span>
 
 來源：[PsyPost](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
-
----
-
-### [La estimulación magnética transcraneal logra una respuesta cercana al 50% en depresión resistente - Diario Siglo XXI](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmtWekxsN2lUcGVPVDVUUFJiWTJYOXJodUgtUDBBMTdOS1hfNTlnR0Z1dV93bnZ2cnl2MDduazJmOW9fWjlaWUFhMWR4Z0lJT0hOXzFkeEx3bC1JamVPNU43MmE0X2pLanBINFVWZDAwaVNXWnRqcEQ5cTVyX21jT295SmM3eWZ2UUhHWGE2bVFTdF9NVW5aZzBxV1RhTHBheU14S0J3bkdiRC1lR2pHWG0yT0swektBaW5fMEpIYVJKMmI3NmUtTE14cDNVaGxNbVBqOUVkVGp5VG1LbGRV?oc=5)
-
-2026-06-16 <span class="news-indication-tag">depresión</span>
-
-來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmtWekxsN2lUcGVPVDVUUFJiWTJYOXJodUgtUDBBMTdOS1hfNTlnR0Z1dV93bnZ2cnl2MDduazJmOW9fWjlaWUFhMWR4Z0lJT0hOXzFkeEx3bC1JamVPNU43MmE0X2pLanBINFVWZDAwaVNXWnRqcEQ5cTVyX21jT295SmM3eWZ2UUhHWGE2bVFTdF9NVW5aZzBxV1RhTHBheU14S0J3bkdiRC1lR2pHWG0yT0swektBaW5fMEpIYVJKMmI3NmUtTE14cDNVaGxNbVBqOUVkVGp5VG1LbGRV?oc=5)
 
 ---
 
