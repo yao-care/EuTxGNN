@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [Digoxin kann Prognose bei rheumatischer Herzerkrankung verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhEcEpxcWc3dXlGWGtxRWNxQ3NBYnRqcVFFLXQ0NEo2R2xFSzJuV2NjZHh0UXc4bzY1R1c2YU1RTFpNbWNSZmJIcFAxY0l5MjVUNXVJN21RM1A1cWRzMnVJV3hUdDhnWm9hSGs1X2dPS2VtV3hmanVKeEpham1udXkzUGxiYldfWW1vUjRzX2Jlamg3bVktNVBrV1h2b0YyS0xpckhUenNReEpSMG9PcmtSSmRFcnJkZkZYUWRLN3FGMXhiSXhfenRNb1M1QWc?oc=5)
+
+2026-06-17 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhEcEpxcWc3dXlGWGtxRWNxQ3NBYnRqcVFFLXQ0NEo2R2xFSzJuV2NjZHh0UXc4bzY1R1c2YU1RTFpNbWNSZmJIcFAxY0l5MjVUNXVJN21RM1A1cWRzMnVJV3hUdDhnWm9hSGs1X2dPS2VtV3hmanVKeEpham1udXkzUGxiYldfWW1vUjRzX2Jlamg3bVktNVBrV1h2b0YyS0xpckhUenNReEpSMG9PcmtSSmRFcnJkZkZYUWRLN3FGMXhiSXhfenRNb1M1QWc?oc=5)
+
+---
+
+### [Prädiabetes: Frühe Normalisierung senkt Herztod-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+---
 
 ### [Supplemente und Nahrungsergänzungsmittel bei Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
 
@@ -78,6 +94,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Surprising benefit of Covid vaccine found in new study - The Independent](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd6T2pma0tYNGZKQng4S3VUaGZSS3QzRzFoSU01MEZWS1N6WlBGRlhvbEd5TzhRRmwwcVJfdGhMTTZiTWh4N3lHSURiRE16bGlUOHBqd1FzNVdMVGcxTDhwMnZ1QTNJcjVXejAxcUluYWRmWXlFZEdMQjlyYUkwTk9Ya2cxdjNkSXA4?oc=5)
+
+2026-06-17 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd6T2pma0tYNGZKQng4S3VUaGZSS3QzRzFoSU01MEZWS1N6WlBGRlhvbEd5TzhRRmwwcVJfdGhMTTZiTWh4N3lHSURiRE16bGlUOHBqd1FzNVdMVGcxTDhwMnZ1QTNJcjVXejAxcUluYWRmWXlFZEdMQjlyYUkwTk9Ya2cxdjNkSXA4?oc=5)
+
+---
+
 ### [Retatrutide, the newest weight-loss drug, helped people lose 30% of body weight, on par with weight-loss surgery](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
 
 2026-06-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
@@ -96,7 +120,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ### [Most Women Are Concerned About Heart Disease—but Miss This Early Sign](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
 
-2026-06-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-06-16 <span class="news-indication-tag">heart disease</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
 

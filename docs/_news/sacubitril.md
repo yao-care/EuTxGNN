@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Prädiabetes: Frühe Normalisierung senkt Herztod-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+---
 
 ### [Supplemente und Nahrungsergänzungsmittel bei Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
 
@@ -78,19 +86,19 @@ permalink: /news/sacubitril/
 
 ---
 
+### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
+
+---
+
 ### [Retatrutide, the newest weight-loss drug, helped people lose 30% of body weight, on par with weight-loss surgery](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
 
 2026-06-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[UCHealth](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
-
----
-
-### [EULAR-Leitlinien zur rheumatoiden Arthritis - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
-
-2026-06-16 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
 
 ---
 

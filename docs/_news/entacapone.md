@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
+
+### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+
+2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+
+---
 
 ### [Magic Mushrooms And Alzheimer's: One Remarkable Case Raises New Questions](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
@@ -75,30 +83,6 @@ permalink: /news/entacapone/
 2026-06-15 <span class="news-indication-tag">Parkinson's</span>
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0NrMmxHdS1iaDB1UEd2Tk13bmhOTGI5NmJXQ2YtdjdQWFhLUmxKVkhBTUo0d2IyVld0VHZVSVhFNVZEelA1ejA0M1hmTEcxQmNUcld4VEEwVjM4RGVzUDNPUGg0NDJtRWlQX2k1bEZKd053aml3NTZWWEdtWE8xQTJlQzU4TlRwVlZn?oc=5)
-
----
-
-### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
-
----
-
-### [Common prescription drugs linked to dementia risk in over-55s - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXRmVUhDYlZWeldvUWlXallzVGxkZDNBLWx4d2l2Mng2SXVJYVpaUnpLbTlaUTNWWWRNUUtQbElJZ3k4ZmMtWFFQUUdwZGtQRHJCSF9rSC1kcXJjeExJY1VidUF1M1czN1NvSjVWQllZcF85NkNES2dseVdnMERrWG5wV3dlVVZXRVRkOE9BQmNhX2ZWVUlfR9IBngFBVV95cUxPNU1ObWVFNFdFeUJ4d3NKclVQaGJ3R05mMEdOUDl1QXJVX3I3Wmg4eXcyOE8zTXFSdFYzS3picUl1VHd4VUhSb3VnR0Vjc280dDdzRnhweGQ0UVpPSWRJeVpuNkZOM3FiTVZfSjZ5OWp0cmcta0R4LVdXSlNySDZWMDJYaThpZXdIUGtLQUNNTFgzS0d1Sndyb2hDSlFrdw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">dementia</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXRmVUhDYlZWeldvUWlXallzVGxkZDNBLWx4d2l2Mng2SXVJYVpaUnpLbTlaUTNWWWRNUUtQbElJZ3k4ZmMtWFFQUUdwZGtQRHJCSF9rSC1kcXJjeExJY1VidUF1M1czN1NvSjVWQllZcF85NkNES2dseVdnMERrWG5wV3dlVVZXRVRkOE9BQmNhX2ZWVUlfR9IBngFBVV95cUxPNU1ObWVFNFdFeUJ4d3NKclVQaGJ3R05mMEdOUDl1QXJVX3I3Wmg4eXcyOE8zTXFSdFYzS3picUl1VHd4VUhSb3VnR0Vjc280dDdzRnhweGQ0UVpPSWRJeVpuNkZOM3FiTVZfSjZ5OWp0cmcta0R4LVdXSlNySDZWMDJYaThpZXdIUGtLQUNNTFgzS0d1Sndyb2hDSlFrdw?oc=5)
-
----
-
-### [Dementia: Joint pain supplement may speed progression - Medical News Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVkzRlpVMTZWVHB3T3RRdEhBVFJfdFZidVM2Y3JWUzNNMDJ6cFZoaEhhSDVkZEVXUGZpTFB2eHJUUmhUcmVYYXRCOEw0WjRFRUx0Qm5EV25oSVdXSExtd0Q1MUt5Z25jVGR1YjVMcmJoNXgzWmNvam1CRi1US1ZxU3NUOHVCcG1jbzdjZjdaaXRxckZZdVJBMzVSQnZDUUplcGxuc19xQ1hfS2c?oc=5)
-
-2026-06-15 <span class="news-indication-tag">dementia</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVkzRlpVMTZWVHB3T3RRdEhBVFJfdFZidVM2Y3JWUzNNMDJ6cFZoaEhhSDVkZEVXUGZpTFB2eHJUUmhUcmVYYXRCOEw0WjRFRUx0Qm5EV25oSVdXSExtd0Q1MUt5Z25jVGR1YjVMcmJoNXgzWmNvam1CRi1US1ZxU3NUOHVCcG1jbzdjZjdaaXRxckZZdVJBMzVSQnZDUUplcGxuc19xQ1hfS2c?oc=5)
 
 ---
 

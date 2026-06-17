@@ -54,6 +54,14 @@ permalink: /news/cabotegravir/
 
 ## 相關新聞（9 則）
 
+### [Prädiabetes: Frühe Normalisierung senkt Herztod-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+---
+
 ### [Supplemente und Nahrungsergänzungsmittel bei Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
 
 2026-06-17 <span class="news-indication-tag">diabetes</span>
@@ -78,19 +86,19 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
+
+---
+
 ### [Retatrutide, the newest weight-loss drug, helped people lose 30% of body weight, on par with weight-loss surgery](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
 
 2026-06-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[UCHealth](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
-
----
-
-### [EULAR-Leitlinien zur rheumatoiden Arthritis - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
-
-2026-06-16 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
 
 ---
 
@@ -107,14 +115,6 @@ permalink: /news/cabotegravir/
 2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
-
----
-
-### [«Abbiamo creduto che un bicchiere di vino al giorno facesse bene ma gli esperti lanciano il nuovo allarme legato ai tumori» - Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
 
 ---
 

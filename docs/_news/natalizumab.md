@@ -54,6 +54,14 @@ permalink: /news/natalizumab/
 
 ## 相關新聞（8 則）
 
+### [Prädiabetes: Frühe Normalisierung senkt Herztod-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+---
+
 ### [Supplemente und Nahrungsergänzungsmittel bei Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
 
 2026-06-17 <span class="news-indication-tag">diabetes</span>
@@ -99,14 +107,6 @@ permalink: /news/natalizumab/
 2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
-
----
-
-### [«Abbiamo creduto che un bicchiere di vino al giorno facesse bene ma gli esperti lanciano il nuovo allarme legato ai tumori» - Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxOak5sUVpXbXZ0U1dHN0dKc0M1ZkNmQkxRZlQyRmVpaEZGM1RNZHRaMUhyWDJ2Nkc5bTRRWDhXQ3FJMFZocmg1bWxydTBPbW1weHZ1ZEFYSG5CT2dKa3lTOG43Y29Lb2lWNjM0aC1CT2dUdXlZZkRGUUpmRDV0NF9TcWJBbXdFdTQ3NGU4NFNzeWJEcEpndTNNTEgtS1NUNDFtSzFOdE1aM2pPMV8tOG9kZnVn0gGnAUFVX3lxTE1udUlOcktCZ2lMWk4wYjB5WGtXOGpSV0V3RHU1VWxFeE5sQnl0NmdaVGoyS3c4dEl3eXpkTGRsUFQ1V3RXT01vckczb1pNVkQwend1dldkNEMxc19TcERMdksybkVyYy1fZzZ4VVFOdEVqdW1MWkJhQV91TUs0SFpnUmoxYjlhcVBZS1hnNGJETWV1ZC1kcTZ4MEZpdFdIUHJaRTdUVHUw?oc=5)
 
 ---
 

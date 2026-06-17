@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Migräne schützt das Gehirn vor Demenz Große Studie widerlegt, was viele Ärzte bisher glaubten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
+
+2026-06-17 <span class="news-indication-tag">Migräne</span>
+
+來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
+
+---
 
 ### [Soia e legumi combattono l'ipertensione, ma quanti ne servono? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdE53RWdoeklyQ2VoeVJlSTN0SzdFUUlvNURLQWE1XzNSa0J0c2hkeHJKU3FOSUw3SHNrMkl5ZWNza1dSbFZQY3VjTl9GVHBsODZfdzdHM19EUFdXYVZheEtYOEUzelRNTHo4N2t4SVRuTGNPU0NTWS1vNFhuNHM3aHdsOFZJbkpoc2duNzREajg5d3BScXljN3dFVWNxQVBabklCYW5EZ1I4V3g2T3ZuRjlSLXdoYUhoeWpsdE5mMnUxRWxBUnV4M0xaT0JqQkdIcmNEQ1RyTDhJNkd4enZkbUltY9IBxAFBVV95cUxQdkJZdG4zZTFEU3NPOEpfRFI2dFFZRkJLMkFxS3RveDJlazJrUk5tcm5fUTNjdHFyTEJLWmNfYmJmUWpRQ2o1VVlMOTdGRUhNUUFjSmt0ZVdycnBDZXpZazRoeDhSWW1jS1lrT0p1dnRPUEJlbUJqR0FZN3lKVVpqWXlPVDNBY0o1ck9CTWg0SmsxQTN4cXFiQ0U1bTEzYmZ3WDJPOTRfV255VEpfejYzcmlGRnV3YzNvSVVJZzk0Zy1Ha3JO?oc=5)
 

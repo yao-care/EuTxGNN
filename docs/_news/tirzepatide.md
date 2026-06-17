@@ -54,19 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（2 則）
 
-### [EULAR-Leitlinien zur rheumatoiden Arthritis - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
+### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
 
-2026-06-16 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+2026-06-17 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
 
 ---
 
-### [Remboursement de Wegovy et Mounjaro : qui sont les 1 million de Français concernés ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
+### [Remboursés par la Sécurité sociale, les traitements anti-obésité Wegovy et Mounjaro ne sont plus réservés aux plus riches](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0dPdDM0djQ0OF9zeVZTZ3RqOTEwRFM1NjdkLUd3WmZVdy0tajk5aXBtRmlUSkV3RjhUN3ZkME5lY3V0RjhIdld4QTFmZklVWXUwSVN5Zi1iZWlGSzBqazNOdTU1b083WVF2RnV3Vmtaem16U05WczMxdm9DZ2NPWkZud3RkNVRObG5CVUhSNWR6T2ZVT2V1cmJYMUJiY1N5bjc3NDJEWUFwZUFTamxtakN0X2hGSzZNb1VRSFdOSTVxRkZIVW1qbG90dkZQdVhTRmVyS09rTzlrMWRYd0lvOE5qem1nZGtnR2RhbVF2c2diT2hObXlB?oc=5)
 
 2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
+來源：[L'Humanité](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0dPdDM0djQ0OF9zeVZTZ3RqOTEwRFM1NjdkLUd3WmZVdy0tajk5aXBtRmlUSkV3RjhUN3ZkME5lY3V0RjhIdld4QTFmZklVWXUwSVN5Zi1iZWlGSzBqazNOdTU1b083WVF2RnV3Vmtaem16U05WczMxdm9DZ2NPWkZud3RkNVRObG5CVUhSNWR6T2ZVT2V1cmJYMUJiY1N5bjc3NDJEWUFwZUFTamxtakN0X2hGSzZNb1VRSFdOSTVxRkZIVW1qbG90dkZQdVhTRmVyS09rTzlrMWRYd0lvOE5qem1nZGtnR2RhbVF2c2diT2hObXlB?oc=5)
 
 ---
 

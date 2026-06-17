@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Several men diagnosed with rare infection after frequenting the same gay bathhouse](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVdoU3JGMTE0VG5LYUpXVkVaMXRVNXprb2dqUEtOYVBPcnZackJTU3hiRkpMSzZ1LWNQWVVvVXpTWTNJRGpsdEFMYk9LUXhCa3BfWUpUczdDV3FMb01Gdl9UX2ZJeTRhSzJQNUVZUmNkanJlSjFkS09NV1RvakpuVFdXQm0tU1ZxSzNtdm8xU0J1RDhHTGl3a2ZmWkk?oc=5)
-
-2026-06-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[queerty.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVdoU3JGMTE0VG5LYUpXVkVaMXRVNXprb2dqUEtOYVBPcnZackJTU3hiRkpMSzZ1LWNQWVVvVXpTWTNJRGpsdEFMYk9LUXhCa3BfWUpUczdDV3FMb01Gdl9UX2ZJeTRhSzJQNUVZUmNkanJlSjFkS09NV1RvakpuVFdXQm0tU1ZxSzNtdm8xU0J1RDhHTGl3a2ZmWkk?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [A 2025 NYU study found that women who actively worry about aging — particularly those who fear future health problems — measurably age faster at the cellular level than those who do not, in a quiet finding that suggests how a person thinks about getting ol - Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ2luUzFpTV8xWngzSlB0SDJ4dk4tTmhGWHh1Z21aMlcyQXZZUGRILWwzVWVERExPYUFNREFmN1NXZEkwMFhvc0s3bzEwd3V4NEhISmZZeEdfN21ORWhrUU04SnVDazNpckRiTDFWVjd2RmZ0eHQzcWxMYnNwcklDZ0tNSnpCWkdVUGRrN3lYNlBzR3MyYzBqVFNmZ2Z3bzFjZWxYZmx1NlZlQjJrVGt0UHh4NWREZ1o3WmZXb3cxVDRhWVZlbmROWm1wanlBVlZwZWVFWDBBcWd6MTNGR3l4QVgzb3pKdWtvLUVULXJpQURGNmE3U0EtOWMxY3lqWEVKNHB3YjZzaTNJSWJNRDVMLTRiU3JqOVRSdDhfZG1pa0FYXzBTZkFKVTg4YjJZOWc?oc=5)
 
 2026-06-16 <span class="news-indication-tag">MS</span>
 
 來源：[Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ2luUzFpTV8xWngzSlB0SDJ4dk4tTmhGWHh1Z21aMlcyQXZZUGRILWwzVWVERExPYUFNREFmN1NXZEkwMFhvc0s3bzEwd3V4NEhISmZZeEdfN21ORWhrUU04SnVDazNpckRiTDFWVjd2RmZ0eHQzcWxMYnNwcklDZ0tNSnpCWkdVUGRrN3lYNlBzR3MyYzBqVFNmZ2Z3bzFjZWxYZmx1NlZlQjJrVGt0UHh4NWREZ1o3WmZXb3cxVDRhWVZlbmROWm1wanlBVlZwZWVFWDBBcWd6MTNGR3l4QVgzb3pKdWtvLUVULXJpQURGNmE3U0EtOWMxY3lqWEVKNHB3YjZzaTNJSWJNRDVMLTRiU3JqOVRSdDhfZG1pa0FYXzBTZkFKVTg4YjJZOWc?oc=5)
-
----
-
-### [Most Women Are Concerned About Heart Disease—but Miss This Early Sign](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
-
-2026-06-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
 
 ---
 
@@ -94,11 +78,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Hochverarbeitete Lebensmittel: 58% erhöhtes Demenzrisiko nachgewiesen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFhtZTBINmxXQzRzdUhFYjhEQll5cjNOOEJ6M0twUkNnbFdmOEJrYlphRVJKcFlMemYyNXNiRDFyUktDN01XcnZ4TnZpLWVfVTlROVRXNmJ5UVEyUFphNFQzbWhBWXdPMl8xZEFpZ2diaVV6VXBFOVNZbGw3MzMtMVBQRmdjZzgwUHZCNUFmaEZpcHRaajRWNlhaTFRZVFNkZTZXYnVtS0FnUmJJS2dfd2p3?oc=5)
+### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
 
-2026-06-15 <span class="news-indication-tag">MS</span>
+2026-06-16 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFhtZTBINmxXQzRzdUhFYjhEQll5cjNOOEJ6M0twUkNnbFdmOEJrYlphRVJKcFlMemYyNXNiRDFyUktDN01XcnZ4TnZpLWVfVTlROVRXNmJ5UVEyUFphNFQzbWhBWXdPMl8xZEFpZ2diaVV6VXBFOVNZbGw3MzMtMVBQRmdjZzgwUHZCNUFmaEZpcHRaajRWNlhaTFRZVFNkZTZXYnVtS0FnUmJJS2dfd2p3?oc=5)
+來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
 
 ---
 

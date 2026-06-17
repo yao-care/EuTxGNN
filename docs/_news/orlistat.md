@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
-### [Unmittelbare Verbesserung: Neue Methode hilft gegen Folgen eines Schlaganfalls - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBYZEVWRGpXSnR2bzE5dWxBdjN6U3JUTkNjWHgzNm5EU1hHb3RmcXdCTHJXZUZKdEItbVRubUROQ2JlU0stVVhMYWVIaldoQkJ4R09JSm9zY3FQSmV0RlMzRWRQSG8tMk14UUF6Wk9KZmxLZWZINENtMEFkeXRTQXI2ODJ4WmU1OW9ha19Md25aR1lJX1ltcjdZeTM4aktrRl9VZFNQRU8?oc=5)
-
-2026-06-17 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBYZEVWRGpXSnR2bzE5dWxBdjN6U3JUTkNjWHgzNm5EU1hHb3RmcXdCTHJXZUZKdEItbVRubUROQ2JlU0stVVhMYWVIaldoQkJ4R09JSm9zY3FQSmV0RlMzRWRQSG8tMk14UUF6Wk9KZmxLZWZINENtMEFkeXRTQXI2ODJ4WmU1OW9ha19Md25aR1lJX1ltcjdZeTM4aktrRl9VZFNQRU8?oc=5)
-
----
-
-### [¿Podría el Ozempic reducir también los crímenes violentos? “Debilita el salto entre el impulso y la acción” - EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
+### [Inesperado efecto de los fármacos tipo Ozempic en la fertilidad masculina - Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
 
 2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
 
 ---
 
 ### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
-2026-06-17 <span class="news-indication-tag">stroke</span>
+2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
 ---
 
-### [Stroke patients at Southmead Hospital among the first in the UK to benefit from new test - Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
+### [Vinculan los trastornos mentales graves con un mayor riesgo de demencia e ictus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
 
-2026-06-16 <span class="news-indication-tag">stroke</span>
+2026-06-16 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
-
----
-
-### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
-
-2026-06-16 <span class="news-indication-tag">CVA</span>
-
-來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
 
 ---
 
@@ -102,19 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Boehringer Ingelheim anuncia resultados de survodutida que reduce un 63% la grasa hepática y un 34% la grasa visceral en pacientes con obesidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
-
-2026-06-15 <span class="news-indication-tag">obesidad</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BfWlAwb0Z6WHpLUDZFUkdIVEgtc205Z2ZRelh0dHhDQ2Q0b3R4WXFidEgtTzVuMmFxNzJQSzNocTlnT2pCeHJvTThYY0pvLTRGYnkzTnVZOHk3QjB5eUY1Skg3aW9VODktbEN1a2Q0dHFicGpmamVxbHFEZGhscGgydVIyYjdsM1hHU2NSd1JKZk9xenIxWkFlUHhobTA2WnlfcmpabzR0d0VzbExOUU9qTnBxSldTS1A0cUFKeHRmb1FHeENvSE1HRE1mYXZxWW9CdnQzc05VZw?oc=5)
-
----
-
-### [Remboursement de Wegovy et Mounjaro : qui sont les 1 million de Français concernés ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
+### [Remboursés par la Sécurité sociale, les traitements anti-obésité Wegovy et Mounjaro ne sont plus réservés aux plus riches](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0dPdDM0djQ0OF9zeVZTZ3RqOTEwRFM1NjdkLUd3WmZVdy0tajk5aXBtRmlUSkV3RjhUN3ZkME5lY3V0RjhIdld4QTFmZklVWXUwSVN5Zi1iZWlGSzBqazNOdTU1b083WVF2RnV3Vmtaem16U05WczMxdm9DZ2NPWkZud3RkNVRObG5CVUhSNWR6T2ZVT2V1cmJYMUJiY1N5bjc3NDJEWUFwZUFTamxtakN0X2hGSzZNb1VRSFdOSTVxRkZIVW1qbG90dkZQdVhTRmVyS09rTzlrMWRYd0lvOE5qem1nZGtnR2RhbVF2c2diT2hObXlB?oc=5)
 
 2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
+來源：[L'Humanité](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0dPdDM0djQ0OF9zeVZTZ3RqOTEwRFM1NjdkLUd3WmZVdy0tajk5aXBtRmlUSkV3RjhUN3ZkME5lY3V0RjhIdld4QTFmZklVWXUwSVN5Zi1iZWlGSzBqazNOdTU1b083WVF2RnV3Vmtaem16U05WczMxdm9DZ2NPWkZud3RkNVRObG5CVUhSNWR6T2ZVT2V1cmJYMUJiY1N5bjc3NDJEWUFwZUFTamxtakN0X2hGSzZNb1VRSFdOSTVxRkZIVW1qbG90dkZQdVhTRmVyS09rTzlrMWRYd0lvOE5qem1nZGtnR2RhbVF2c2diT2hObXlB?oc=5)
 
 ---
 

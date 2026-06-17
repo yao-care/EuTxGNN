@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,21 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Unmittelbare Verbesserung: Neue Methode hilft gegen Folgen eines Schlaganfalls - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBYZEVWRGpXSnR2bzE5dWxBdjN6U3JUTkNjWHgzNm5EU1hHb3RmcXdCTHJXZUZKdEItbVRubUROQ2JlU0stVVhMYWVIaldoQkJ4R09JSm9zY3FQSmV0RlMzRWRQSG8tMk14UUF6Wk9KZmxLZWZINENtMEFkeXRTQXI2ODJ4WmU1OW9ha19Md25aR1lJX1ltcjdZeTM4aktrRl9VZFNQRU8?oc=5)
-
-2026-06-17 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBYZEVWRGpXSnR2bzE5dWxBdjN6U3JUTkNjWHgzNm5EU1hHb3RmcXdCTHJXZUZKdEItbVRubUROQ2JlU0stVVhMYWVIaldoQkJ4R09JSm9zY3FQSmV0RlMzRWRQSG8tMk14UUF6Wk9KZmxLZWZINENtMEFkeXRTQXI2ODJ4WmU1OW9ha19Md25aR1lJX1ltcjdZeTM4aktrRl9VZFNQRU8?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
-2026-06-17 <span class="news-indication-tag">stroke</span>
+2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
 ---
 
-### [Stroke patients at Southmead Hospital among the first in the UK to benefit from new test - Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
+### [Vinculan los trastornos mentales graves con un mayor riesgo de demencia e ictus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
 
-2026-06-16 <span class="news-indication-tag">stroke</span>
+2026-06-16 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
-
----
-
-### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
-
-2026-06-16 <span class="news-indication-tag">CVA</span>
-
-來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
 
 ---
 

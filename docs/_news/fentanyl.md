@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="Fentanyl 有什麼相關新聞？">
-<strong>Fentanyl</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fentanyl</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/fentanyl/
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（20 則）
+
+### [La continencia no depende solo de "musculatura del suelo pélvico" al mediar también "el sistema nervioso", según experto](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcE1KVTJqSDJvOENMdTlqeVBvSzduWVgybGlTUTE4c0R0Z3phWWJTRDQ4OFM1ZEI1eEkxSmdOQW5iU3d3eVREalY1Qy1ha2tXc0RtMWFQQXliaDNNNFgzQktBS1dRUnVTSExnZlQwNnkxaUxNb3YtcFBtbFlRZDE3eHVZVXpJOGpVTnJIZkZocVJ3S2ZRemwyN1RjUnlsa1FvTGpBenhPaDllYkF4T3NacGVnTlBCczVqQ2EtUElGTUdpSU8zMnJDM3BZUjZRVmVyc2FmSEVaMExOZTRjN1N6amxGdENEQm9uNlExUW5IVWJ5TVpjcHBFZWtfTQ?oc=5)
+
+2026-06-17 <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcE1KVTJqSDJvOENMdTlqeVBvSzduWVgybGlTUTE4c0R0Z3phWWJTRDQ4OFM1ZEI1eEkxSmdOQW5iU3d3eVREalY1Qy1ha2tXc0RtMWFQQXliaDNNNFgzQktBS1dRUnVTSExnZlQwNnkxaUxNb3YtcFBtbFlRZDE3eHVZVXpJOGpVTnJIZkZocVJ3S2ZRemwyN1RjUnlsa1FvTGpBenhPaDllYkF4T3NacGVnTlBCczVqQ2EtUElGTUdpSU8zMnJDM3BZUjZRVmVyc2FmSEVaMExOZTRjN1N6amxGdENEQm9uNlExUW5IVWJ5TVpjcHBFZWtfTQ?oc=5)
+
+---
+
+### [Migräne schützt das Gehirn vor Demenz Große Studie widerlegt, was viele Ärzte bisher glaubten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
+
+2026-06-17 <span class="news-indication-tag">Migräne</span>
+
+來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
+
+---
 
 ### [Hoffnung auf bessere Behandlung kognitiver Einschränkungen bei Schizophrenie - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzNHlCd0lqUE4xZFQyS2trb3ZzVjg3Z0dOclk1WERCRDhBb0VNcW1TZ1hQN3g1dXNEa0o2d2pWOWNEdldLa1l2d2Z6Yw?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/fentanyl/
 
 ---
 
-### [El Congreso sobre Incontinencia en Granada pone el foco en la calidad de vida y la voz del paciente - El Independiente de Granada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYm5tbF9pNDcza1YycEx5REZwTldGRWNtdUJvMW1Xc0VaVzF1ZnhIRmhVZGQwQzVTQXg5dGtRWkU5UUdOVU9ya0d5ZDlidTlTWkZkeHpCRmNDUmZEeV9zVWdQNjd6bXAzTGRXb1JOZThrenZXcGE1WVJxVWRLTWV3Ui0wT3VXT2d1U1lic1dWeW5Rd0ZXb0Fza194cWp2NUtuVDQ0UG9wUUJKb0NtbEMtX05rdkJCcElQY3k2RA?oc=5)
+### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
-2026-06-17 <span class="news-indication-tag">AF</span>
+2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYm5tbF9pNDcza1YycEx5REZwTldGRWNtdUJvMW1Xc0VaVzF1ZnhIRmhVZGQwQzVTQXg5dGtRWkU5UUdOVU9ya0d5ZDlidTlTWkZkeHpCRmNDUmZEeV9zVWdQNjd6bXAzTGRXb1JOZThrenZXcGE1WVJxVWRLTWV3Ui0wT3VXT2d1U1lic1dWeW5Rd0ZXb0Fza194cWp2NUtuVDQ0UG9wUUJKb0NtbEMtX05rdkJCcElQY3k2RA?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
 ---
 
@@ -86,14 +102,6 @@ permalink: /news/fentanyl/
 
 ---
 
-### [Several men diagnosed with rare infection after frequenting the same gay bathhouse](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVdoU3JGMTE0VG5LYUpXVkVaMXRVNXprb2dqUEtOYVBPcnZackJTU3hiRkpMSzZ1LWNQWVVvVXpTWTNJRGpsdEFMYk9LUXhCa3BfWUpUczdDV3FMb01Gdl9UX2ZJeTRhSzJQNUVZUmNkanJlSjFkS09NV1RvakpuVFdXQm0tU1ZxSzNtdm8xU0J1RDhHTGl3a2ZmWkk?oc=5)
-
-2026-06-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[queerty.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVdoU3JGMTE0VG5LYUpXVkVaMXRVNXprb2dqUEtOYVBPcnZackJTU3hiRkpMSzZ1LWNQWVVvVXpTWTNJRGpsdEFMYk9LUXhCa3BfWUpUczdDV3FMb01Gdl9UX2ZJeTRhSzJQNUVZUmNkanJlSjFkS09NV1RvakpuVFdXQm0tU1ZxSzNtdm8xU0J1RDhHTGl3a2ZmWkk?oc=5)
-
----
-
 ### ["Suo figlio è un cafone". Cosa succede se (anche) i docenti romani non sanno cos'è l'Adhd](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEptSS1fZVdaMkJ4OTQ0QkctUGJac0NWN042LUViNjA1R19FWGtlTjZTamtxNDV1WGNxWXFjRUdHVW1PejkyenRIUEduX1QtWDRqeDlheWtxME5aVjhkNzU5TXRWTUFrQ191VmVXOHdXVlp3NFF2c1RKSjFMYVNIaGVONWlnb1N5ckZPbkt4TVU?oc=5)
 
 2026-06-16 <span class="news-indication-tag">AF</span>
@@ -110,7 +118,15 @@ permalink: /news/fentanyl/
 
 ---
 
-### [I was infected with killer brain disease spread by TICKS while running - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0ZoaUpWMWwzcUN2MTkyYkRzUDNYNGdJcWxqY1h2c1lmOGZVbDI4MVFtYXg3YVJUcFctdWE5QTZFSHpvbU5oSFMwRVNaSDJwRVVqTzRaRWsxLWE0Ykt6am4zRy1CS2NqYjVpR3FnemstOEo0dkh4akVqaENWUVo3MU1KRHU?oc=5)
+### [Vinculan los trastornos mentales graves con un mayor riesgo de demencia e ictus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
+
+2026-06-16 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
+
+---
+
+### [I was infected with killer brain disease spread by TICKS on a run - it felt like aliens were trying to escape my head - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0ZoaUpWMWwzcUN2MTkyYkRzUDNYNGdJcWxqY1h2c1lmOGZVbDI4MVFtYXg3YVJUcFctdWE5QTZFSHpvbU5oSFMwRVNaSDJwRVVqTzRaRWsxLWE0Ykt6am4zRy1CS2NqYjVpR3FnemstOEo0dkh4akVqaENWUVo3MU1KRHU?oc=5)
 
 2026-06-16 <span class="news-indication-tag">AF</span>
 
@@ -158,6 +174,14 @@ permalink: /news/fentanyl/
 
 ---
 
+### [TikTok star documenting cervical cancer fight dies at 23 as family pay tribute - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjUxemptN2Z1X2RiRUpaUFMyOGplZGdERlFfSV9KZ200bE1mSDZDT3d6RTJXLUJoaVZqYXdIcDNpdVlhSlVjdkF3aTNUQUZnZDRJYmNPczJxenhaQngxZTFuNklVbmdBMy1tZ0xhZWFSb1kyZGdDNzhzQUlUbzRGcExHUHR0ZzlP?oc=5)
+
+2026-06-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjUxemptN2Z1X2RiRUpaUFMyOGplZGdERlFfSV9KZ200bE1mSDZDT3d6RTJXLUJoaVZqYXdIcDNpdVlhSlVjdkF3aTNUQUZnZDRJYmNPczJxenhaQngxZTFuNklVbmdBMy1tZ0xhZWFSb1kyZGdDNzhzQUlUbzRGcExHUHR0ZzlP?oc=5)
+
+---
+
 ### [Científicos piden que nos preparemos ante lo que está por venir porque afecta a todo el mundo: "No hay ningún lugar seguro" - El Economista](https://news.google.com/rss/articles/CBMilwJBVV95cUxQNW9IbkdTSzgtTEU2WXIxWWM4RFluTWhxWjRqRHZYOThiRnRfNnJnN0wyM1lHblAxREpDUHAxS214cXhlSWgtUi13MnRSUVd4WmhkRFJic1JOdldjUDRtb1J3a01SbWVfbGV2U0JubV96LXRWVk1xeFFiS0VoVkV4NzNranhoVWNoV3NWSkVFQkxTNFlHUGtxY0ZRUVdGNEVQV09GeE03YkVvbFA5NHh2ZTRjenZzcDN2dGtER1lPMUpqcVBsU0k2ams4WHMtNm8tZ3BBNmpWOVRab1poTzRjNnJBZ3FNY2VpRkJubEo1Nm5pcjloVzhtUE4tRGs3eEJKUHZ0QUZYLXhlVXdEQjNBNV8zaU9TNTA?oc=5)
 
 2026-06-16 <span class="news-indication-tag">AF</span>
@@ -174,27 +198,19 @@ permalink: /news/fentanyl/
 
 ---
 
+### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
+
+---
+
 ### [Diabetes-Risiko: Sanitas-Studie zeigt massive Fehleinschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
 
 2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
-
----
-
-### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
-
----
-
-### [Single-cell RNA sequencing of terminal ileal biopsies identifies signatures of Crohn’s disease pathogenesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
-
-2026-06-15 <span class="news-indication-tag">ulcerative colitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
 
 ---
 

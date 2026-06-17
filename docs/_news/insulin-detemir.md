@@ -14,7 +14,7 @@ permalink: /news/insulin-detemir/
 ---
 
 <p class="key-answer" data-question="Insulin Detemir 有什麼相關新聞？">
-<strong>Insulin Detemir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Insulin Detemir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ permalink: /news/insulin-detemir/
 <p><a href="{{ '/drugs/insulin-detemir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Prädiabetes: Frühe Normalisierung senkt Herztod-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+---
 
 ### [Supplemente und Nahrungsergänzungsmittel bei Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
 

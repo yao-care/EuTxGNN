@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="Ospemifene 有什麼相關新聞？">
-<strong>Ospemifene</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ospemifene</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/ospemifene/
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
 
-### [EULAR-Leitlinien zur rheumatoiden Arthritis - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
+### [Migräne schützt das Gehirn vor Demenz Große Studie widerlegt, was viele Ärzte bisher glaubten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
 
-2026-06-16 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+2026-06-17 <span class="news-indication-tag">Migräne</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWpZbHdka19ETEFiYXppbVJzT0d6M0ZrZS1EeWtDdWVUNnpTd2p2bmp4cUFIQ25qMVR1aVdreVYyTmN1Tkhsa3JwbkQxZU81NTg5SS0tSXhqZXJ3NXpnMHpuZzdWa01BazBzTmJ2Qmw2MEF0R1pVNmtkcVNCVGt4bThTX3ZhYVFCY1ItN3h3LXNYSG5scWExczdMOW4?oc=5)
+來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
+
+---
+
+### [Digoxin kann Prognose bei rheumatischer Herzerkrankung verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhEcEpxcWc3dXlGWGtxRWNxQ3NBYnRqcVFFLXQ0NEo2R2xFSzJuV2NjZHh0UXc4bzY1R1c2YU1RTFpNbWNSZmJIcFAxY0l5MjVUNXVJN21RM1A1cWRzMnVJV3hUdDhnWm9hSGs1X2dPS2VtV3hmanVKeEpham1udXkzUGxiYldfWW1vUjRzX2Jlamg3bVktNVBrV1h2b0YyS0xpckhUenNReEpSMG9PcmtSSmRFcnJkZkZYUWRLN3FGMXhiSXhfenRNb1M1QWc?oc=5)
+
+2026-06-17 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhEcEpxcWc3dXlGWGtxRWNxQ3NBYnRqcVFFLXQ0NEo2R2xFSzJuV2NjZHh0UXc4bzY1R1c2YU1RTFpNbWNSZmJIcFAxY0l5MjVUNXVJN21RM1A1cWRzMnVJV3hUdDhnWm9hSGs1X2dPS2VtV3hmanVKeEpham1udXkzUGxiYldfWW1vUjRzX2Jlamg3bVktNVBrV1h2b0YyS0xpckhUenNReEpSMG9PcmtSSmRFcnJkZkZYUWRLN3FGMXhiSXhfenRNb1M1QWc?oc=5)
+
+---
+
+### [Surprising benefit of Covid vaccine found in new study - The Independent](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd6T2pma0tYNGZKQng4S3VUaGZSS3QzRzFoSU01MEZWS1N6WlBGRlhvbEd5TzhRRmwwcVJfdGhMTTZiTWh4N3lHSURiRE16bGlUOHBqd1FzNVdMVGcxTDhwMnZ1QTNJcjVXejAxcUluYWRmWXlFZEdMQjlyYUkwTk9Ya2cxdjNkSXA4?oc=5)
+
+2026-06-17 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd6T2pma0tYNGZKQng4S3VUaGZSS3QzRzFoSU01MEZWS1N6WlBGRlhvbEd5TzhRRmwwcVJfdGhMTTZiTWh4N3lHSURiRE16bGlUOHBqd1FzNVdMVGcxTDhwMnZ1QTNJcjVXejAxcUluYWRmWXlFZEdMQjlyYUkwTk9Ya2cxdjNkSXA4?oc=5)
+
+---
+
+### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
 
 ---
 
@@ -72,7 +96,7 @@ permalink: /news/ospemifene/
 
 ### [Most Women Are Concerned About Heart Disease—but Miss This Early Sign](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
 
-2026-06-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-06-16 <span class="news-indication-tag">heart disease</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
 

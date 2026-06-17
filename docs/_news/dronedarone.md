@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dronedarone</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（19 則）
 
-### [Unmittelbare Verbesserung: Neue Methode hilft gegen Folgen eines Schlaganfalls - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBYZEVWRGpXSnR2bzE5dWxBdjN6U3JUTkNjWHgzNm5EU1hHb3RmcXdCTHJXZUZKdEItbVRubUROQ2JlU0stVVhMYWVIaldoQkJ4R09JSm9zY3FQSmV0RlMzRWRQSG8tMk14UUF6Wk9KZmxLZWZINENtMEFkeXRTQXI2ODJ4WmU1OW9ha19Md25aR1lJX1ltcjdZeTM4aktrRl9VZFNQRU8?oc=5)
+### [La continencia no depende solo de "musculatura del suelo pélvico" al mediar también "el sistema nervioso", según experto](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcE1KVTJqSDJvOENMdTlqeVBvSzduWVgybGlTUTE4c0R0Z3phWWJTRDQ4OFM1ZEI1eEkxSmdOQW5iU3d3eVREalY1Qy1ha2tXc0RtMWFQQXliaDNNNFgzQktBS1dRUnVTSExnZlQwNnkxaUxNb3YtcFBtbFlRZDE3eHVZVXpJOGpVTnJIZkZocVJ3S2ZRemwyN1RjUnlsa1FvTGpBenhPaDllYkF4T3NacGVnTlBCczVqQ2EtUElGTUdpSU8zMnJDM3BZUjZRVmVyc2FmSEVaMExOZTRjN1N6amxGdENEQm9uNlExUW5IVWJ5TVpjcHBFZWtfTQ?oc=5)
 
-2026-06-17 <span class="news-indication-tag">Schlaganfall</span>
+2026-06-17 <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBYZEVWRGpXSnR2bzE5dWxBdjN6U3JUTkNjWHgzNm5EU1hHb3RmcXdCTHJXZUZKdEItbVRubUROQ2JlU0stVVhMYWVIaldoQkJ4R09JSm9zY3FQSmV0RlMzRWRQSG8tMk14UUF6Wk9KZmxLZWZINENtMEFkeXRTQXI2ODJ4WmU1OW9ha19Md25aR1lJX1ltcjdZeTM4aktrRl9VZFNQRU8?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcE1KVTJqSDJvOENMdTlqeVBvSzduWVgybGlTUTE4c0R0Z3phWWJTRDQ4OFM1ZEI1eEkxSmdOQW5iU3d3eVREalY1Qy1ha2tXc0RtMWFQQXliaDNNNFgzQktBS1dRUnVTSExnZlQwNnkxaUxNb3YtcFBtbFlRZDE3eHVZVXpJOGpVTnJIZkZocVJ3S2ZRemwyN1RjUnlsa1FvTGpBenhPaDllYkF4T3NacGVnTlBCczVqQ2EtUElGTUdpSU8zMnJDM3BZUjZRVmVyc2FmSEVaMExOZTRjN1N6amxGdENEQm9uNlExUW5IVWJ5TVpjcHBFZWtfTQ?oc=5)
 
 ---
 
@@ -70,17 +70,9 @@ permalink: /news/dronedarone/
 
 ---
 
-### [El Congreso sobre Incontinencia en Granada pone el foco en la calidad de vida y la voz del paciente - El Independiente de Granada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYm5tbF9pNDcza1YycEx5REZwTldGRWNtdUJvMW1Xc0VaVzF1ZnhIRmhVZGQwQzVTQXg5dGtRWkU5UUdOVU9ya0d5ZDlidTlTWkZkeHpCRmNDUmZEeV9zVWdQNjd6bXAzTGRXb1JOZThrenZXcGE1WVJxVWRLTWV3Ui0wT3VXT2d1U1lic1dWeW5Rd0ZXb0Fza194cWp2NUtuVDQ0UG9wUUJKb0NtbEMtX05rdkJCcElQY3k2RA?oc=5)
-
-2026-06-17 <span class="news-indication-tag">AF</span>
-
-來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYm5tbF9pNDcza1YycEx5REZwTldGRWNtdUJvMW1Xc0VaVzF1ZnhIRmhVZGQwQzVTQXg5dGtRWkU5UUdOVU9ya0d5ZDlidTlTWkZkeHpCRmNDUmZEeV9zVWdQNjd6bXAzTGRXb1JOZThrenZXcGE1WVJxVWRLTWV3Ui0wT3VXT2d1U1lic1dWeW5Rd0ZXb0Fza194cWp2NUtuVDQ0UG9wUUJKb0NtbEMtX05rdkJCcElQY3k2RA?oc=5)
-
----
-
 ### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
-2026-06-17 <span class="news-indication-tag">stroke</span>
+2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
@@ -102,14 +94,6 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Several men diagnosed with rare infection after frequenting the same gay bathhouse](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVdoU3JGMTE0VG5LYUpXVkVaMXRVNXprb2dqUEtOYVBPcnZackJTU3hiRkpMSzZ1LWNQWVVvVXpTWTNJRGpsdEFMYk9LUXhCa3BfWUpUczdDV3FMb01Gdl9UX2ZJeTRhSzJQNUVZUmNkanJlSjFkS09NV1RvakpuVFdXQm0tU1ZxSzNtdm8xU0J1RDhHTGl3a2ZmWkk?oc=5)
-
-2026-06-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[queerty.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVdoU3JGMTE0VG5LYUpXVkVaMXRVNXprb2dqUEtOYVBPcnZackJTU3hiRkpMSzZ1LWNQWVVvVXpTWTNJRGpsdEFMYk9LUXhCa3BfWUpUczdDV3FMb01Gdl9UX2ZJeTRhSzJQNUVZUmNkanJlSjFkS09NV1RvakpuVFdXQm0tU1ZxSzNtdm8xU0J1RDhHTGl3a2ZmWkk?oc=5)
-
----
-
 ### ["Suo figlio è un cafone". Cosa succede se (anche) i docenti romani non sanno cos'è l'Adhd](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEptSS1fZVdaMkJ4OTQ0QkctUGJac0NWN042LUViNjA1R19FWGtlTjZTamtxNDV1WGNxWXFjRUdHVW1PejkyenRIUEduX1QtWDRqeDlheWtxME5aVjhkNzU5TXRWTUFrQ191VmVXOHdXVlp3NFF2c1RKSjFMYVNIaGVONWlnb1N5ckZPbkt4TVU?oc=5)
 
 2026-06-16 <span class="news-indication-tag">AF</span>
@@ -126,15 +110,15 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Stroke patients at Southmead Hospital among the first in the UK to benefit from new test - Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
+### [Vinculan los trastornos mentales graves con un mayor riesgo de demencia e ictus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
 
-2026-06-16 <span class="news-indication-tag">stroke</span>
+2026-06-16 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
 
 ---
 
-### [I was infected with killer brain disease spread by TICKS while running - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0ZoaUpWMWwzcUN2MTkyYkRzUDNYNGdJcWxqY1h2c1lmOGZVbDI4MVFtYXg3YVJUcFctdWE5QTZFSHpvbU5oSFMwRVNaSDJwRVVqTzRaRWsxLWE0Ykt6am4zRy1CS2NqYjVpR3FnemstOEo0dkh4akVqaENWUVo3MU1KRHU?oc=5)
+### [I was infected with killer brain disease spread by TICKS on a run - it felt like aliens were trying to escape my head - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0ZoaUpWMWwzcUN2MTkyYkRzUDNYNGdJcWxqY1h2c1lmOGZVbDI4MVFtYXg3YVJUcFctdWE5QTZFSHpvbU5oSFMwRVNaSDJwRVVqTzRaRWsxLWE0Ykt6am4zRy1CS2NqYjVpR3FnemstOEo0dkh4akVqaENWUVo3MU1KRHU?oc=5)
 
 2026-06-16 <span class="news-indication-tag">AF</span>
 
@@ -182,19 +166,19 @@ permalink: /news/dronedarone/
 
 ---
 
+### [TikTok star documenting cervical cancer fight dies at 23 as family pay tribute - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjUxemptN2Z1X2RiRUpaUFMyOGplZGdERlFfSV9KZ200bE1mSDZDT3d6RTJXLUJoaVZqYXdIcDNpdVlhSlVjdkF3aTNUQUZnZDRJYmNPczJxenhaQngxZTFuNklVbmdBMy1tZ0xhZWFSb1kyZGdDNzhzQUlUbzRGcExHUHR0ZzlP?oc=5)
+
+2026-06-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjUxemptN2Z1X2RiRUpaUFMyOGplZGdERlFfSV9KZ200bE1mSDZDT3d6RTJXLUJoaVZqYXdIcDNpdVlhSlVjdkF3aTNUQUZnZDRJYmNPczJxenhaQngxZTFuNklVbmdBMy1tZ0xhZWFSb1kyZGdDNzhzQUlUbzRGcExHUHR0ZzlP?oc=5)
+
+---
+
 ### [Científicos piden que nos preparemos ante lo que está por venir porque afecta a todo el mundo: "No hay ningún lugar seguro" - El Economista](https://news.google.com/rss/articles/CBMilwJBVV95cUxQNW9IbkdTSzgtTEU2WXIxWWM4RFluTWhxWjRqRHZYOThiRnRfNnJnN0wyM1lHblAxREpDUHAxS214cXhlSWgtUi13MnRSUVd4WmhkRFJic1JOdldjUDRtb1J3a01SbWVfbGV2U0JubV96LXRWVk1xeFFiS0VoVkV4NzNranhoVWNoV3NWSkVFQkxTNFlHUGtxY0ZRUVdGNEVQV09GeE03YkVvbFA5NHh2ZTRjenZzcDN2dGtER1lPMUpqcVBsU0k2ams4WHMtNm8tZ3BBNmpWOVRab1poTzRjNnJBZ3FNY2VpRkJubEo1Nm5pcjloVzhtUE4tRGs3eEJKUHZ0QUZYLXhlVXdEQjNBNV8zaU9TNTA?oc=5)
 
 2026-06-16 <span class="news-indication-tag">AF</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMilwJBVV95cUxQNW9IbkdTSzgtTEU2WXIxWWM4RFluTWhxWjRqRHZYOThiRnRfNnJnN0wyM1lHblAxREpDUHAxS214cXhlSWgtUi13MnRSUVd4WmhkRFJic1JOdldjUDRtb1J3a01SbWVfbGV2U0JubV96LXRWVk1xeFFiS0VoVkV4NzNranhoVWNoV3NWSkVFQkxTNFlHUGtxY0ZRUVdGNEVQV09GeE03YkVvbFA5NHh2ZTRjenZzcDN2dGtER1lPMUpqcVBsU0k2ams4WHMtNm8tZ3BBNmpWOVRab1poTzRjNnJBZ3FNY2VpRkJubEo1Nm5pcjloVzhtUE4tRGs3eEJKUHZ0QUZYLXhlVXdEQjNBNV8zaU9TNTA?oc=5)
-
----
-
-### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
-
-2026-06-16 <span class="news-indication-tag">CVA</span>
-
-來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
 
 ---
 
@@ -206,27 +190,19 @@ permalink: /news/dronedarone/
 
 ---
 
+### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
+
+---
+
 ### [Diabetes-Risiko: Sanitas-Studie zeigt massive Fehleinschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
 
 2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
-
----
-
-### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
-
----
-
-### [Single-cell RNA sequencing of terminal ileal biopsies identifies signatures of Crohn’s disease pathogenesis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
-
-2026-06-15 <span class="news-indication-tag">ulcerative colitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsOElkYzBwQWxsSmpaZ0trZUhERGNvbDF2VzFyYTFqVXk3UXVkWEx2VE45OXVBaVFod3J5M3R6SlRJTmNJdFNzdVplZjFuNlAxUVpaYlcxQ05aM0xCcFFn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Inesperado efecto de los fármacos tipo Ozempic en la fertilidad masculina - Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
+
+---
+
+### [Prädiabetes: Frühe Normalisierung senkt Herztod-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+
+---
 
 ### [Supplemente und Nahrungsergänzungsmittel bei Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
 
@@ -62,19 +78,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [La ciencia estudia si los nuevos medicamentos para perder peso de la familia Ozempic podrían reducir el riesgo de adicciones y conductas violentas - El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2x4a0ZFNndobU5tejdtTm1lSTBwVFBRRXUyaktfZnh5NWp2c3JuQ1l4Zjl3aW16Z1FheUxIeVY5djJQbHNmWW5peVAtWFhEMVZIRlF0d04xTUt4NEVmV3UzU2hQQ01KVjUtN2RxQzRHOThjZkltTzFMYnZOSHhKa2Z6NTM1TGVsLUY2NWxkcGVPTDdpSTZCcjZhSXZmUTc5YTRqWFJFNzhnTjNkMDhNMFY4RUhIWGNVbjdsOHNIX2RyY2dBTnpiVzR3aTNudlVIeW1aU3U3Ukl5T1nSAeABQVVfeXFMTU5rbHliS2ZpNl9yeko1UEM2a0JIZlR0a3VaTDVjMHloTE1GeFFXaHBWaFN1dmkxWHdkS2NrdmxlRjZ3ZXdqVnhzTk5zQWk0NWJVdHhzbjE1TjVPTHRLd1JkbVBTLWZ6dHVhblJaRGxxOHJDYloxOHdpQ3RyMkJWYmYtb2VzazB5U24wMVZpUE5ndUdYandwbThvUzZPNlJvOVVFaVd1LUNybFN3VVZuR05nZEE5UXgzN2EtU19oNFBLTHJmQlJUbUQ2bTFqaS1pNkxEdXJHY3BpcE9wVFBzRmU?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2x4a0ZFNndobU5tejdtTm1lSTBwVFBRRXUyaktfZnh5NWp2c3JuQ1l4Zjl3aW16Z1FheUxIeVY5djJQbHNmWW5peVAtWFhEMVZIRlF0d04xTUt4NEVmV3UzU2hQQ01KVjUtN2RxQzRHOThjZkltTzFMYnZOSHhKa2Z6NTM1TGVsLUY2NWxkcGVPTDdpSTZCcjZhSXZmUTc5YTRqWFJFNzhnTjNkMDhNMFY4RUhIWGNVbjdsOHNIX2RyY2dBTnpiVzR3aTNudlVIeW1aU3U3Ukl5T1nSAeABQVVfeXFMTU5rbHliS2ZpNl9yeko1UEM2a0JIZlR0a3VaTDVjMHloTE1GeFFXaHBWaFN1dmkxWHdkS2NrdmxlRjZ3ZXdqVnhzTk5zQWk0NWJVdHhzbjE1TjVPTHRLd1JkbVBTLWZ6dHVhblJaRGxxOHJDYloxOHdpQ3RyMkJWYmYtb2VzazB5U24wMVZpUE5ndUdYandwbThvUzZPNlJvOVVFaVd1LUNybFN3VVZuR05nZEE5UXgzN2EtU19oNFBLTHJmQlJUbUQ2bTFqaS1pNkxEdXJHY3BpcE9wVFBzRmU?oc=5)
+
+---
+
 ### [Scientists Find Intriguing Link Between Ozempic and Violent Behavior](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRiUGRxejZuaVVJdjJmWkw3UFY1RVZVOENZdXVKMHEyZ0haX0lFM3diNFU3TEFtb3FteTFoeGRNZmhxNkdFSDNGdkpHOW9hQjBZUjhpX2J4Z1VHSTBYRXp3Ukl2VjZnckNIVVdPZHR6M2dhaUxaRmw1UVRORE1PUDNnX2FpMmxFT0h3M0d3U0FFR1MyUXpHaVJOOXA3cHow?oc=5)
 
 2026-06-17 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[Gizmodo](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRiUGRxejZuaVVJdjJmWkw3UFY1RVZVOENZdXVKMHEyZ0haX0lFM3diNFU3TEFtb3FteTFoeGRNZmhxNkdFSDNGdkpHOW9hQjBZUjhpX2J4Z1VHSTBYRXp3Ukl2VjZnckNIVVdPZHR6M2dhaUxaRmw1UVRORE1PUDNnX2FpMmxFT0h3M0d3U0FFR1MyUXpHaVJOOXA3cHow?oc=5)
-
----
-
-### [¿Podría el Ozempic reducir también los crímenes violentos? “Debilita el salto entre el impulso y la acción” - EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWZ1MFZwWHoteU9XdEptTU5tU0E4YTYwQW9fTGFfbkhxeEtqUkhBR1hhcnRPR1U3Z1VvU2JLNGp6NDFEWkFNdE5hV3RLRXNYWHFjTGZzRU1TM0trd3RmVUFnUFVUV2FPcmFKODI4T1FyUnhiUmVMYWZRVUxhRlF2SFd4ellOMWZNVjFrR2VMbmowbVg5b1JUczU4UkF2Q05HSDNOeHEwZ0JRS0tkd3ViaHhPQlVxUm0wYUxCX2tmSER0VnlIZG9MLW9TbVdFRnNMY1k2M1NVLUljU3RPZWRITjUyOUstb1ZKX3VfTdIBgAJBVV95cUxPUkl5MGZNQW9JNm1fRkJrM0dxcHlsWkJOb1FzNU5sS1FKV1lhRzdjb2dJRVR6S1hhU0xVZ29rLUtzVy1XaEpnUXBJTndnb0x6cjZaVHNiSFRNcElJVzBCY3lSdDJ0MnJWNUxaTkJ2aXdrUklpZVdpSVdER2dzTnpLUE5fUXlCMmJETjFoRzhhcW9UdUNLOVotUFJBS0hBdlRCZmpFSXhIbWxYN0ZVVFo2X2IzWjUtVWNHSXB5SVVLdWFxOUIwa1FseUhjcGI3V0V5ZlBGbWtJbGY3aDMtWW8wNmd6S3I5MFpaaGhxalNSaWhNcFVyTHc1TVJDeEtxVkpf?oc=5)
 
 ---
 
@@ -118,19 +134,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Remboursement de Wegovy et Mounjaro : qui sont les 1 million de Français concernés ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
-
-2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzZHVVFHZEgwZHQxSm5PdEdNTDZIUnR3b3NsYVdBTlVfN0hrbHQ0akd2dE93VGV6ZGw0TDFUcE9QQ2VrOGlicUo2d0lGOEpHcVlfRmhHWEpGTC02VW9RUUY4azZGdkpfRmVKb1FUUFVWRnVQdmlMeVJkWlhoRGxRUzNDSFlnbXBZVjZCX0FiSkpfUlpyTmhhcXRid0o0dDZ6cEdDcWFUaFpJSHRxLTJFZEZQOUNlTDBYZ0R5NmFDakU?oc=5)
-
----
-
 ### [BALD ANMELDESCHLUSS: Nächster Online Diabetes-Kids Elterntreff am Donnerstag den 18. Jun.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
 
 2026-06-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
+
+---
+
+### [Remboursés par la Sécurité sociale, les traitements anti-obésité Wegovy et Mounjaro ne sont plus réservés aux plus riches](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0dPdDM0djQ0OF9zeVZTZ3RqOTEwRFM1NjdkLUd3WmZVdy0tajk5aXBtRmlUSkV3RjhUN3ZkME5lY3V0RjhIdld4QTFmZklVWXUwSVN5Zi1iZWlGSzBqazNOdTU1b083WVF2RnV3Vmtaem16U05WczMxdm9DZ2NPWkZud3RkNVRObG5CVUhSNWR6T2ZVT2V1cmJYMUJiY1N5bjc3NDJEWUFwZUFTamxtakN0X2hGSzZNb1VRSFdOSTVxRkZIVW1qbG90dkZQdVhTRmVyS09rTzlrMWRYd0lvOE5qem1nZGtnR2RhbVF2c2diT2hObXlB?oc=5)
+
+2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[L'Humanité](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0dPdDM0djQ0OF9zeVZTZ3RqOTEwRFM1NjdkLUd3WmZVdy0tajk5aXBtRmlUSkV3RjhUN3ZkME5lY3V0RjhIdld4QTFmZklVWXUwSVN5Zi1iZWlGSzBqazNOdTU1b083WVF2RnV3Vmtaem16U05WczMxdm9DZ2NPWkZud3RkNVRObG5CVUhSNWR6T2ZVT2V1cmJYMUJiY1N5bjc3NDJEWUFwZUFTamxtakN0X2hGSzZNb1VRSFdOSTVxRkZIVW1qbG90dkZQdVhTRmVyS09rTzlrMWRYd0lvOE5qem1nZGtnR2RhbVF2c2diT2hObXlB?oc=5)
 
 ---
 
