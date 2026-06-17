@@ -56,7 +56,7 @@ permalink: /news/tolcapone/
 
 ### [Magic Mushrooms And Alzheimer's: One Remarkable Case Raises New Questions](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
-2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
@@ -88,7 +88,7 @@ permalink: /news/tolcapone/
 
 ### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
 
-2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">dementia</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
 
@@ -110,11 +110,11 @@ permalink: /news/tolcapone/
 
 ---
 
-### [Dad’s ‘Alzheimer’s symptoms’ turned out to be incurable brain cancer diagnosis - Leader Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpjc000Zk1sdjg5bzdVQ3NoVmk0RDFaTUE5ZnJ0VmdyX3ctTUhDT2t3UEZLaWMwd2Y5MXdhd0c0dUdYRnJmU0kyTjgyV2t1bmxNRzQtdFBEdWIxTW1JVmhmX0l5UHk5RHoyMnVBRjVKeGJTZkFmTmR0YzA4eFZkMENidTRQU1NEVEI3MHRlU2NMTDZQUHI1NGtKUQ?oc=5)
+### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
 2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[Leader Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpjc000Zk1sdjg5bzdVQ3NoVmk0RDFaTUE5ZnJ0VmdyX3ctTUhDT2t3UEZLaWMwd2Y5MXdhd0c0dUdYRnJmU0kyTjgyV2t1bmxNRzQtdFBEdWIxTW1JVmhmX0l5UHk5RHoyMnVBRjVKeGJTZkFmTmR0YzA4eFZkMENidTRQU1NEVEI3MHRlU2NMTDZQUHI1NGtKUQ?oc=5)
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
 ---
 

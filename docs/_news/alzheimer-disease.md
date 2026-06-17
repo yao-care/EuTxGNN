@@ -94,11 +94,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Dad’s ‘Alzheimer’s symptoms’ turned out to be incurable brain cancer diagnosis - Leader Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpjc000Zk1sdjg5bzdVQ3NoVmk0RDFaTUE5ZnJ0VmdyX3ctTUhDT2t3UEZLaWMwd2Y5MXdhd0c0dUdYRnJmU0kyTjgyV2t1bmxNRzQtdFBEdWIxTW1JVmhmX0l5UHk5RHoyMnVBRjVKeGJTZkFmTmR0YzA4eFZkMENidTRQU1NEVEI3MHRlU2NMTDZQUHI1NGtKUQ?oc=5)
+### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
 2026-06-15
 
-來源：[Leader Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpjc000Zk1sdjg5bzdVQ3NoVmk0RDFaTUE5ZnJ0VmdyX3ctTUhDT2t3UEZLaWMwd2Y5MXdhd0c0dUdYRnJmU0kyTjgyV2t1bmxNRzQtdFBEdWIxTW1JVmhmX0l5UHk5RHoyMnVBRjVKeGJTZkFmTmR0YzA4eFZkMENidTRQU1NEVEI3MHRlU2NMTDZQUHI1NGtKUQ?oc=5)
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
 ---
 

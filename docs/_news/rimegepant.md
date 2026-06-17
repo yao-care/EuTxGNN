@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Most Women Are Concerned About Heart Disease—but Miss This Early Sign](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
+
+2026-06-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
+
+---
 
 ### [Study Finds GLP-1 Drugs May Raise Testosterone in Men With Obesity - Ground News](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY0Y4aXF1MXlydEREbmtkTHlqQ250N3h3dHd0cnZ4cFp0OWtKbXNOQURkLVg5TzczbVMyMXZ5Ti1ESlM3TmFzaFVwcU5BVUtBMndubkFxWUtEZ0JxYV9XSVNzQW9wdEZudExLWGZqc3lfb2lFZ1E?oc=5)
 

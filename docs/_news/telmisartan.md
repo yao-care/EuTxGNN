@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Herz-Kreislauf-Erkrankungen: 99% der Fälle durch vier Faktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
+### [Herzinfarkt und Schlaganfall: Studie mit 9 Millionen zeigt 99% Vermeidbarkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTZkcjFPV1ZETzhlWmpyQXFvaFU4STc3dTRVQ3IzMmpJYTFVS3RJaHFwd1hxVV9CZjU1cEItYzMyUkU2clJWQmEtaHI1bm1DLUx3OVpYcklqTFJjb09lblY1TkRiQnVhUTRjR2swb3d3V2pxdXd3RDdfQUdpa2QybWZfbGU0Zm53WHZRcXoySEZnRzFqdDJMLXNTaUNJdlJkRlUxb0pLclk5dE05THc1Z19UZGxrR21v?oc=5)
 
 2026-06-16 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTZkcjFPV1ZETzhlWmpyQXFvaFU4STc3dTRVQ3IzMmpJYTFVS3RJaHFwd1hxVV9CZjU1cEItYzMyUkU2clJWQmEtaHI1bm1DLUx3OVpYcklqTFJjb09lblY1TkRiQnVhUTRjR2swb3d3V2pxdXd3RDdfQUdpa2QybWZfbGU0Zm53WHZRcXoySEZnRzFqdDJMLXNTaUNJdlJkRlUxb0pLclk5dE05THc1Z19UZGxrR21v?oc=5)
+
+---
+
+### [Stroke patients at Southmead Hospital among the first in the UK to benefit from new test - Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">stroke</span>
+
+來源：[Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
+
+---
+
+### [Most Women Are Concerned About Heart Disease—but Miss This Early Sign](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
+
+2026-06-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
 
 ---
 

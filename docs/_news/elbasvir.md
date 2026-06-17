@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Most Women Are Concerned About Heart Disease—but Miss This Early Sign](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
+
+2026-06-16 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
+
+---
 
 ### [Magic Mushrooms And Alzheimer's: One Remarkable Case Raises New Questions](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
 
-2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
+
+---
+
+### [Frühstücksfehler: Wer das morgens macht, nimmt schneller zu – laut Expertin - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1l2WEUtaDhfcXJkTDZ6V2NuLS1PaWU3VlBIaUNTNGNCRkxHVDN4a0FoSktUV2NRRnZQYW1yYnZGRGtWSHJiUVhTN240RVZSYlVROE9HZ2ZwN2dzZGR1eTJrTUg2WTVrSjBOeVRaV2lnWTVmbkZkRGJ1ZnhWX1NPMHBFaGRWc3p2SElkS2hpOVB6bEJ2TVZUZThTdkxiYms2ejlYc1VKbjVUbjg2eDdCQw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">MS</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1l2WEUtaDhfcXJkTDZ6V2NuLS1PaWU3VlBIaUNTNGNCRkxHVDN4a0FoSktUV2NRRnZQYW1yYnZGRGtWSHJiUVhTN240RVZSYlVROE9HZ2ZwN2dzZGR1eTJrTUg2WTVrSjBOeVRaV2lnWTVmbkZkRGJ1ZnhWX1NPMHBFaGRWc3p2SElkS2hpOVB6bEJ2TVZUZThTdkxiYms2ejlYc1VKbjVUbjg2eDdCQw?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [The free NHS jab that could slash dementia risk by up to 24% – are YOU eligible? - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
+### [Hochverarbeitete Lebensmittel: 58% erhöhtes Demenzrisiko nachgewiesen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFhtZTBINmxXQzRzdUhFYjhEQll5cjNOOEJ6M0twUkNnbFdmOEJrYlphRVJKcFlMemYyNXNiRDFyUktDN01XcnZ4TnZpLWVfVTlROVRXNmJ5UVEyUFphNFQzbWhBWXdPMl8xZEFpZ2diaVV6VXBFOVNZbGw3MzMtMVBQRmdjZzgwUHZCNUFmaEZpcHRaajRWNlhaTFRZVFNkZTZXYnVtS0FnUmJJS2dfd2p3?oc=5)
 
-2026-06-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-15 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRWdiLVgwVHZEQkNRbDdscWYyRkR4eWF1YWxnQUpvLXRYY2VoNWFNY3ROQ051RXJWdEFDTTg4Q1FIVWhNem85d3ZrbVNfTkM1ZTdQUDFoampqMmh5YlFRR25feWJfNTJ6UWJqOUFiN0ZfcjNyU3RkZlV2OA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFhtZTBINmxXQzRzdUhFYjhEQll5cjNOOEJ6M0twUkNnbFdmOEJrYlphRVJKcFlMemYyNXNiRDFyUktDN01XcnZ4TnZpLWVfVTlROVRXNmJ5UVEyUFphNFQzbWhBWXdPMl8xZEFpZ2diaVV6VXBFOVNZbGw3MzMtMVBQRmdjZzgwUHZCNUFmaEZpcHRaajRWNlhaTFRZVFNkZTZXYnVtS0FnUmJJS2dfd2p3?oc=5)
 
 ---
 
@@ -94,14 +110,6 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Dad’s ‘Alzheimer’s symptoms’ turned out to be incurable brain cancer diagnosis - Leader Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpjc000Zk1sdjg5bzdVQ3NoVmk0RDFaTUE5ZnJ0VmdyX3ctTUhDT2t3UEZLaWMwd2Y5MXdhd0c0dUdYRnJmU0kyTjgyV2t1bmxNRzQtdFBEdWIxTW1JVmhmX0l5UHk5RHoyMnVBRjVKeGJTZkFmTmR0YzA4eFZkMENidTRQU1NEVEI3MHRlU2NMTDZQUHI1NGtKUQ?oc=5)
-
-2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Leader Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxQakpjc000Zk1sdjg5bzdVQ3NoVmk0RDFaTUE5ZnJ0VmdyX3ctTUhDT2t3UEZLaWMwd2Y5MXdhd0c0dUdYRnJmU0kyTjgyV2t1bmxNRzQtdFBEdWIxTW1JVmhmX0l5UHk5RHoyMnVBRjVKeGJTZkFmTmR0YzA4eFZkMENidTRQU1NEVEI3MHRlU2NMTDZQUHI1NGtKUQ?oc=5)
-
----
-
 ### [Adiposity and cancer: epidemiology, mechanisms and future perspectives](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTzcyS1E5aUQ2TkdabVYtOHhRbUZRMzZ3OFU5RFkwakZIZ1EwWktBYzdpSXdwZGprTXhRWms4c2QzWTJEWWV1T1NfSG8wZS1ub09jREo4TkNKNHhRRmNB?oc=5)
 
 2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
@@ -110,19 +118,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
+### [Family feared dad was developing dementia before scan confirmed 'worst news' - North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
-2026-06-15 <span class="news-indication-tag">MS</span>
+2026-06-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTM2eVhZM3U0MXJvdGpqTTI5aWhUOExHT3NKbXNUM2F1VVFEcURQVkVoNmFGSmpiT2FhU0w4Y21IZ0lLLWI0cllHdWRSU1p0WEhzQ1lfUXEzb0pDZ3c3Z0ZPY01EXzhLUEczX1lkWmZtMVVmWFhQSGhZaDJCTVJDOFozMXFBejNzQ3RkRGZzeXhSVDRTVllvSWs2cWI?oc=5)
 
 ---
 
-### [Hochverarbeitete Lebensmittel: Studie warnt vor 58% höherem Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE5ZYnNJSkFyYmlNaHJCdF9qWlBSN21xNFVpckFVektXN3FBaDBKSlFRLW1NTDExTjh5SVE0RXkzQzdvekJmR1JsZW5aRFpMTVRuTnNZbk9tTTdTQ05hS2dQVVl4dS1JMDhOREVoNGYzTkl2a3JzYXFHTEhMX1ZZRUZpUGg1QWtIVll5eU0zeGhQVHh4SzBoN2NYelhyYjR2WWlUTVhB?oc=5)
+### [What Happens to Your Blood Pressure When You Cut Out Salt for a Week](https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ18ybGxqRENhZXJPQThVcTlnNHpNNDkzcktIdFh5MVhCWTg5cE0yS3hCaS1xUFlIaFpJRGYtdzQtdjc2NEJMd0I5bTFaMURCLWNYeGZnM0FHZGR2b2lFVTVsYUxaaVpGMEtTclF6WTBwWUVNMmdSSlJQM2xTTjk1NEtwMkJ3cFNtR0swaFYtWWgwcURIVjdhYnl3VkMtM0RrUWtvY0FQNA?oc=5)
 
 2026-06-15 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPOE5ZYnNJSkFyYmlNaHJCdF9qWlBSN21xNFVpckFVektXN3FBaDBKSlFRLW1NTDExTjh5SVE0RXkzQzdvekJmR1JsZW5aRFpMTVRuTnNZbk9tTTdTQ05hS2dQVVl4dS1JMDhOREVoNGYzTkl2a3JzYXFHTEhMX1ZZRUZpUGg1QWtIVll5eU0zeGhQVHh4SzBoN2NYelhyYjR2WWlUTVhB?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ18ybGxqRENhZXJPQThVcTlnNHpNNDkzcktIdFh5MVhCWTg5cE0yS3hCaS1xUFlIaFpJRGYtdzQtdjc2NEJMd0I5bTFaMURCLWNYeGZnM0FHZGR2b2lFVTVsYUxaaVpGMEtTclF6WTBwWUVNMmdSSlJQM2xTTjk1NEtwMkJ3cFNtR0swaFYtWWgwcURIVjdhYnl3VkMtM0RrUWtvY0FQNA?oc=5)
 
 ---
 

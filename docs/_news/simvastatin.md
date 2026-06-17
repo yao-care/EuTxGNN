@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Herz-Kreislauf-Erkrankungen: 99% der Fälle durch vier Faktoren vermeidbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
+### [Herzinfarkt und Schlaganfall: Studie mit 9 Millionen zeigt 99% Vermeidbarkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTZkcjFPV1ZETzhlWmpyQXFvaFU4STc3dTRVQ3IzMmpJYTFVS3RJaHFwd1hxVV9CZjU1cEItYzMyUkU2clJWQmEtaHI1bm1DLUx3OVpYcklqTFJjb09lblY1TkRiQnVhUTRjR2swb3d3V2pxdXd3RDdfQUdpa2QybWZfbGU0Zm53WHZRcXoySEZnRzFqdDJMLXNTaUNJdlJkRlUxb0pLclk5dE05THc1Z19UZGxrR21v?oc=5)
 
 2026-06-16 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0pUeV9pX1V5M244cDlCUjJxM3k0S1VqN1FEOVNWZTdrTXVGX0hRdEFyZG02MFJReHlDVTV2UndFSWtlTE5FRTc1SGhRemNrMG5RNkx1a29DZ1RXUWN1YkR2VjdxZmNEUUl5V2xJUkVTakxnVi1PR1NjLTFHSUdNY3FCTG1ITjV5TWd2dl9oamNCTjROQ3JSN3N3TUFhTHBPMmhVZjVQbG1MZnVxVWZ6QzNSajI0eDBUZGc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTZkcjFPV1ZETzhlWmpyQXFvaFU4STc3dTRVQ3IzMmpJYTFVS3RJaHFwd1hxVV9CZjU1cEItYzMyUkU2clJWQmEtaHI1bm1DLUx3OVpYcklqTFJjb09lblY1TkRiQnVhUTRjR2swb3d3V2pxdXd3RDdfQUdpa2QybWZfbGU0Zm53WHZRcXoySEZnRzFqdDJMLXNTaUNJdlJkRlUxb0pLclk5dE05THc1Z19UZGxrR21v?oc=5)
+
+---
+
+### [Stroke patients at Southmead Hospital among the first in the UK to benefit from new test - Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">stroke</span>
+
+來源：[Bristol Live](https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1TajJSMk9OSmZxTEFoSmpzVDF5bE5xSnpHc0J0TTQxcnR4ekJGaGZkbS04ZkRyN1Z5VW1ibkhBMENPTW90UXRsVTNSM05GNERnWXR2b3gwTVRCbk1EUmt5aFZMS0lubjREbVJOUG5VQTR3d19wU2otMnlRNnNWX1BFRUp4RnB1aG5TalEtZ0F6cWlqR1dEYWtoNnJNZw?oc=5)
 
 ---
 
