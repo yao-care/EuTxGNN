@@ -14,7 +14,7 @@ permalink: /news/nemolizumab/
 ---
 
 <p class="key-answer" data-question="Nemolizumab 有什麼相關新聞？">
-<strong>Nemolizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nemolizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/nemolizumab/
 <p><a href="{{ '/drugs/nemolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
-### [Uni Zürich: Neuartige Medikamente könnten bei Diabetes Gefässe schützen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFRIQU9MNVpCY1AwT3pzTVA4eGQ2dGJER1RCbzBIclRBeDFwRjlOOVc1Qksya3k4dFN2ZXNHVzM2MjJBTGRub3J5M0Q5MnBHc1FiOHFkNDVhUTZ1Y1B5VHBCU0VqZUo4N1MweEpZS2hJUXZ2aWNRcDViSlBGanRpVVM2b3VCZlFWQ280MFFiQkxNTVN4WGtfOWdYQ1ZscnNaaHVGajBIRDE2XzJ3bWVSMTRJdjZSbXNMd21sUVN1ZEI?oc=5)
+### [Neue Perspektive der Prävention: Prädiabetes-Remission könnte Krebsrisiko verringern - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
 
-2026-06-18 <span class="news-indication-tag">diabetes</span>
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[Watson](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFRIQU9MNVpCY1AwT3pzTVA4eGQ2dGJER1RCbzBIclRBeDFwRjlOOVc1Qksya3k4dFN2ZXNHVzM2MjJBTGRub3J5M0Q5MnBHc1FiOHFkNDVhUTZ1Y1B5VHBCU0VqZUo4N1MweEpZS2hJUXZ2aWNRcDViSlBGanRpVVM2b3VCZlFWQ280MFFiQkxNTVN4WGtfOWdYQ1ZscnNaaHVGajBIRDE2XzJ3bWVSMTRJdjZSbXNMd21sUVN1ZEI?oc=5)
-
----
-
-### [Viszerales Fett, Insulin und HRT: Neue Mess- und Therapiepfade zwischen iOS-Tracking und Studienlage - it boltwise](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTBYUWs3STJRa3MxcWdnN1YzSjREVDZJYXhEVHFBNzlmOWxLSTZ2RHVLb1pvY0h0bnhhWVliR293QUFXWEc5Zk1UMnRlMXlqTFVxbC1YdFpQSzBJVWU2azE0a1c1ZVIxZ01fQ1BKTGFNV1ZYVExrZUVwamdoMWZ5U0JDZWhQSDZ5UTd6UmhxenpKZU9oSWRWRzA3c2tjOUh4U1Z5eExLLUt6aWxXUWxOWWs4QkprcFJubloyMU84NXprZGRGX2Yzdg?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTBYUWs3STJRa3MxcWdnN1YzSjREVDZJYXhEVHFBNzlmOWxLSTZ2RHVLb1pvY0h0bnhhWVliR293QUFXWEc5Zk1UMnRlMXlqTFVxbC1YdFpQSzBJVWU2azE0a1c1ZVIxZ01fQ1BKTGFNV1ZYVExrZUVwamdoMWZ5U0JDZWhQSDZ5UTd6UmhxenpKZU9oSWRWRzA3c2tjOUh4U1Z5eExLLUt6aWxXUWxOWWs4QkprcFJubloyMU84NXprZGRGX2Yzdg?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
 
 ---
 
-### [Blutzucker-Kontrolle: 58% weniger Herztod-Risiko bei Normalisierung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
+### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
-2026-06-17 <span class="news-indication-tag">diabetes</span>
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
+來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
+
+---
+
+### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
+
+---
+
+### [Fettleber: 10% weniger Bauchfett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXV2aWpTM3lJaW5QZWxmQjc0SnZLU21KTnd0ZjE2b0xReG9Fd2d2N1dGZmkwaDRTeUpITFNfZGthV2tBT09PWVJ5eHM1MW5fUWh3VG9rQnE3a3Z2RUQzX09UXzBVM2R0dS0xc1lPT1kyQXl6QXNtY3N4ZnpqRTUzZUI3ZUJYRldIVEVkdDlhc25DVGVuZVAtZjZpcUJMMm5VYWZQckJlRlhfS1R0aWhSdUZPQ2dHQQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXV2aWpTM3lJaW5QZWxmQjc0SnZLU21KTnd0ZjE2b0xReG9Fd2d2N1dGZmkwaDRTeUpITFNfZGthV2tBT09PWVJ5eHM1MW5fUWh3VG9rQnE3a3Z2RUQzX09UXzBVM2R0dS0xc1lPT1kyQXl6QXNtY3N4ZnpqRTUzZUI3ZUJYRldIVEVkdDlhc25DVGVuZVAtZjZpcUJMMm5VYWZQckJlRlhfS1R0aWhSdUZPQ2dHQQ?oc=5)
+
+---
+
+### [Schweizer Umfrage - Wir sind ungesünder, als wir glauben - Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
 
 ---
 

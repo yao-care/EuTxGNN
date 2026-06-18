@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（12 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
@@ -62,27 +62,43 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Alzheimer: Entzündungen und alternde Zellen treiben Krankheit voran - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3hkNnp2akdhZ0hvcUFhSkJvWHFqOGVOUGJDT0tqSkJ2dHJyYmR5bGZDX3hCSkQtSmxFSllQR3JMYlpTYUp2dWg5V1RFbHdCUThIN0JQS3ZLNlUtVHhCUDFiVnZpbkMteGc0U3lSczN0WU1IYUd2Q0FDNzFrZnEzTkZDSjVmNmUxTEU4bXlmcmpZU1d4NGFfazAzTW96NWlYZDdtNXlobjJQcXZCM3o0S25wSVVrRzg?oc=5)
+### [Brote de hepatitis A: Sanidad detecta seis casos en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQa9IBuAFBVV95cUxNZ3plaUJSOXoyNGtCazRGQl9vYTRFV1B4VTBNUzFTMS1sMHdnVl9IaDNWUWNhOVBJRlJJdE10STQ0UlI2a3J0bTNBZGJyc2FYX1R4WVNpOUV3alFJaXljUC00bXQ0cjJUNUFPekdhU0xxbUllTW9ZZHJwSTdaTVZCZzJPZUdPejRBSUdYZlJIVGxmWlA0a0pUa2lJUkJhbHZaUzZlWkFEX3NjMU0yTXM4OXFFWmUzRk11?oc=5)
 
-2026-06-17 <span class="news-indication-tag">MS</span>
+2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3hkNnp2akdhZ0hvcUFhSkJvWHFqOGVOUGJDT0tqSkJ2dHJyYmR5bGZDX3hCSkQtSmxFSllQR3JMYlpTYUp2dWg5V1RFbHdCUThIN0JQS3ZLNlUtVHhCUDFiVnZpbkMteGc0U3lSczN0WU1IYUd2Q0FDNzFrZnEzTkZDSjVmNmUxTEU4bXlmcmpZU1d4NGFfazAzTW96NWlYZDdtNXlobjJQcXZCM3o0S25wSVVrRzg?oc=5)
-
----
-
-### [Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pHLVo1aWNmaURteXhLWGV0Y0ZpYkY0ZER4RmxTRUlZQl84akhGbUpMeXZiNlFfdEtFdHhuZjhvTldXaUprNnBiNlQ3emliQ0dUcVlZcU5vNU1hYWQ1WHQ4VmtiM000Rjd5YTFMNk85Wm5IcWtrNjFyaHZORGJlX3NOOHlMNWM?oc=5)
-
-2026-06-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pHLVo1aWNmaURteXhLWGV0Y0ZpYkY0ZER4RmxTRUlZQl84akhGbUpMeXZiNlFfdEtFdHhuZjhvTldXaUprNnBiNlQ3emliQ0dUcVlZcU5vNU1hYWQ1WHQ4VmtiM000Rjd5YTFMNk85Wm5IcWtrNjFyaHZORGJlX3NOOHlMNWM?oc=5)
+來源：[Canarias7](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQa9IBuAFBVV95cUxNZ3plaUJSOXoyNGtCazRGQl9vYTRFV1B4VTBNUzFTMS1sMHdnVl9IaDNWUWNhOVBJRlJJdE10STQ0UlI2a3J0bTNBZGJyc2FYX1R4WVNpOUV3alFJaXljUC00bXQ0cjJUNUFPekdhU0xxbUllTW9ZZHJwSTdaTVZCZzJPZUdPejRBSUdYZlJIVGxmWlA0a0pUa2lJUkJhbHZaUzZlWkFEX3NjMU0yTXM4OXFFWmUzRk11?oc=5)
 
 ---
 
-### [Ancient DNA provides evidence of earliest known plague outbreak | Archaeology - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
+### [“C’est la maison des rêves” : après une longue attente, Camille Lacourt et sa compagne Alice Detollenaere laissent éclater leur joie](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ2dER3l0NWw5U2JIUU9Oa29wYTBmME5MWnlOMWRvWmk1eVVrM2FtbDk5aHpwUlZZbTY4UGdpTmpKLUJoRWxYaDRCTzlYQWlELUJqcU9TM3F1MWtaZlAyYkVNZmVpV3RlczdmMXczYmI3Z2RBc1RYZTBaTGcwQ19nZ3RCOEhVUnQ4c3BlQzI5NHBtNmtPMzg1OWlOMnhjQW15aUhTQWdpYmg3YnBuaGpEaTF6OXU1NWYzNWJKWGw5amdXM1B6amNRS3BTUk15MnR3UktGU2hNb1p1TVk1SENYVTI3MndYTGVycy1xeUtGRHJwTFkwdEI5X01nTUZ3ZTkw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[purepeople.com](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ2dER3l0NWw5U2JIUU9Oa29wYTBmME5MWnlOMWRvWmk1eVVrM2FtbDk5aHpwUlZZbTY4UGdpTmpKLUJoRWxYaDRCTzlYQWlELUJqcU9TM3F1MWtaZlAyYkVNZmVpV3RlczdmMXczYmI3Z2RBc1RYZTBaTGcwQ19nZ3RCOEhVUnQ4c3BlQzI5NHBtNmtPMzg1OWlOMnhjQW15aUhTQWdpYmg3YnBuaGpEaTF6OXU1NWYzNWJKWGw5amdXM1B6amNRS3BTUk15MnR3UktGU2hNb1p1TVk1SENYVTI3MndYTGVycy1xeUtGRHJwTFkwdEI5X01nTUZ3ZTkw?oc=5)
+
+---
+
+### [I lost 4st through walking. You don’t need fancy gyms or harsh diets - The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1NUNlNZaUZBYmNJVHg0SmdnUXRFSmMycXZQX2NRQTI3YUNXYUxKc1BabktSUUcxQjJkZlpuSmdadzBVOVhWRjhiT1FocE0zbWVoT0VfSUpmUW5BeXEtdmZ5MTNwM1dEaVpEWGM1MjZxaHhIdHVGMkNJTTN1d1lyejZYYU1UUQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1NUNlNZaUZBYmNJVHg0SmdnUXRFSmMycXZQX2NRQTI3YUNXYUxKc1BabktSUUcxQjJkZlpuSmdadzBVOVhWRjhiT1FocE0zbWVoT0VfSUpmUW5BeXEtdmZ5MTNwM1dEaVpEWGM1MjZxaHhIdHVGMkNJTTN1d1lyejZYYU1UUQ?oc=5)
+
+---
+
+### [Alzheimer 2026: Entzündung, Seneszenz und neue KI-Tests rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
+
+---
+
+### [Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
 
 2026-06-17 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
 
 ---
 
@@ -102,6 +118,14 @@ permalink: /news/glecaprevir/
 
 ---
 
+### [Immune system may attack nervous system in some Long COVID patients - National Institutes of Health (.gov)](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGkzTmNQem9scF9YTXExVEkyR3BpOTl4R1hOeHE3MG4yUUQwaTJpT2hCeUM2a2xnU21yLVlCdHNwRVlYdDEySWNvd1hESk0zallYWFZmY3p2ckx3dlJhcTFzdEZyWTdVWGMyOE1LbjFYblNzU2M1YmJub3dyRkR4Nm1ZVTRUSWJUdmVJa1VzcnlLNF9rZmhmNE84dXd2Q1NnRXZoTFFad3ZxQUhEUUJxcnpiRTBjM180?oc=5)
+
+2026-06-17 <span class="news-indication-tag">MS</span>
+
+來源：[National Institutes of Health (.gov)](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGkzTmNQem9scF9YTXExVEkyR3BpOTl4R1hOeHE3MG4yUUQwaTJpT2hCeUM2a2xnU21yLVlCdHNwRVlYdDEySWNvd1hESk0zallYWFZmY3p2ckx3dlJhcTFzdEZyWTdVWGMyOE1LbjFYblNzU2M1YmJub3dyRkR4Nm1ZVTRUSWJUdmVJa1VzcnlLNF9rZmhmNE84dXd2Q1NnRXZoTFFad3ZxQUhEUUJxcnpiRTBjM180?oc=5)
+
+---
+
 ### [Diskussion um Calcium und Vitamin D – Osteoporose-Expertin hält an Empfehlung fest](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGhHNDBLZFU3YTRnQVdyT1J3NzZmTjhYNlNJOUVESzM2RGdhdlljdUczYzJuTDBOeE9FMHNzSTllMGJkNkFrb2lNRDdBcnBNcnZBZWs1eXk3TWNUQXpYWFcyVlVwNGU0RjFfajlSOE1ISEhDR1ZtRjlPb0t2ZUJ1Y29nRVRlYk1mUWVOYktQV0tsd0RoMWYwSUhTRVN0N2lnb280TkJrNTl1M09WMkRPa2RobXpZUFJV?oc=5)
 
 2026-06-17 <span class="news-indication-tag">MS</span>
@@ -110,11 +134,19 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Alzheimer: Forscher entdecken unerwarteten Risikofaktor](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeTh3emRhZkdxWmRKR3RjU21RMGV6d1BHMWtxMkpaOUpFNTRCNUNjb1ZKYmpiejZHVS1aSGpSVUlyQi1FSnlScC1BWWt1YTBPazRERk4zS0xORW1oWnZ4NGJqemo3WEhFQ1Z2UGtwUE91MWpZbGE5RENRcTM5VGZTUjY5UV9YZURPeEZUX0o2NmFkQXdDZDZGcmh3VjlZQlJmUWxwZzU0dTJZbU5jWnlNOXppa1RxcVdnWGNPcGdEYzZVUm9Oelo0?oc=5)
+### [Schweizer Umfrage - Wir sind ungesünder, als wir glauben - Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
 
-2026-06-17 <span class="news-indication-tag">MS</span>
+2026-06-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeTh3emRhZkdxWmRKR3RjU21RMGV6d1BHMWtxMkpaOUpFNTRCNUNjb1ZKYmpiejZHVS1aSGpSVUlyQi1FSnlScC1BWWt1YTBPazRERk4zS0xORW1oWnZ4NGJqemo3WEhFQ1Z2UGtwUE91MWpZbGE5RENRcTM5VGZTUjY5UV9YZURPeEZUX0o2NmFkQXdDZDZGcmh3VjlZQlJmUWxwZzU0dTJZbU5jWnlNOXppa1RxcVdnWGNPcGdEYzZVUm9Oelo0?oc=5)
+來源：[Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
+
+---
+
+### [The Best Time to Take Vitamin D for Maximum Absorption, According to Health Experts](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hSTk42eWJOU3VwMnVXZXUzZlRoM3NzZUdsR3NQSXpuaW55UWpyNkN0eDhkWDB5SHlueWo0UVdJdVpXVC1rV0tBT1dmOXVmaGhHcnVHSXZaZHM3WUpudHhnaXNjTnZDT2Q0R0p3MWpvYnh2LU9FLVMtbm9SamcxTDRzclJ3SFN0elMxSld0OA?oc=5)
+
+2026-06-16 <span class="news-indication-tag">MS</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hSTk42eWJOU3VwMnVXZXUzZlRoM3NzZUdsR3NQSXpuaW55UWpyNkN0eDhkWDB5SHlueWo0UVdJdVpXVC1rV0tBT1dmOXVmaGhHcnVHSXZaZHM3WUpudHhnaXNjTnZDT2Q0R0p3MWpvYnh2LU9FLVMtbm9SamcxTDRzclJ3SFN0elMxSld0OA?oc=5)
 
 ---
 

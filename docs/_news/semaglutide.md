@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
 ### [Ozempic: Warum nicht alle Menschen von dem Medikament profitieren können](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmRBNExUcnZJWVRLZDhKcmlyZ3dEc2ZvYUszYl9LdUZNYlMzanVIUHRfazZyb3RBbnRZT1BaTlRPbmZ2OE00OWE3d1B4dFhjVFBnZmN4bWhZeVhqUWZKWllqVnJFeTdhSUFlYUpwUkpNcjMtN2VBVGNpNFhxRVJmallVLTZXOWdfU0xFN2xCVUhkbFJCbjlscVNtekFsM3RFTkpVVHZJdEgzS3RlTXpJQXV3V2tGcGVzbFotXzhEZ1FHOEFqWVI5ZGpkS3dTaXcwenBwaFNsUkg0Zw?oc=5)
 
@@ -62,43 +62,59 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Uni Zürich: Neuartige Medikamente könnten bei Diabetes Gefässe schützen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFRIQU9MNVpCY1AwT3pzTVA4eGQ2dGJER1RCbzBIclRBeDFwRjlOOVc1Qksya3k4dFN2ZXNHVzM2MjJBTGRub3J5M0Q5MnBHc1FiOHFkNDVhUTZ1Y1B5VHBCU0VqZUo4N1MweEpZS2hJUXZ2aWNRcDViSlBGanRpVVM2b3VCZlFWQ280MFFiQkxNTVN4WGtfOWdYQ1ZscnNaaHVGajBIRDE2XzJ3bWVSMTRJdjZSbXNMd21sUVN1ZEI?oc=5)
+### [Neue Perspektive der Prävention: Prädiabetes-Remission könnte Krebsrisiko verringern - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
 
-2026-06-18 <span class="news-indication-tag">diabetes</span>
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[Watson](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFRIQU9MNVpCY1AwT3pzTVA4eGQ2dGJER1RCbzBIclRBeDFwRjlOOVc1Qksya3k4dFN2ZXNHVzM2MjJBTGRub3J5M0Q5MnBHc1FiOHFkNDVhUTZ1Y1B5VHBCU0VqZUo4N1MweEpZS2hJUXZ2aWNRcDViSlBGanRpVVM2b3VCZlFWQ280MFFiQkxNTVN4WGtfOWdYQ1ZscnNaaHVGajBIRDE2XzJ3bWVSMTRJdjZSbXNMd21sUVN1ZEI?oc=5)
-
----
-
-### [Viszerales Fett, Insulin und HRT: Neue Mess- und Therapiepfade zwischen iOS-Tracking und Studienlage - it boltwise](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTBYUWs3STJRa3MxcWdnN1YzSjREVDZJYXhEVHFBNzlmOWxLSTZ2RHVLb1pvY0h0bnhhWVliR293QUFXWEc5Zk1UMnRlMXlqTFVxbC1YdFpQSzBJVWU2azE0a1c1ZVIxZ01fQ1BKTGFNV1ZYVExrZUVwamdoMWZ5U0JDZWhQSDZ5UTd6UmhxenpKZU9oSWRWRzA3c2tjOUh4U1Z5eExLLUt6aWxXUWxOWWs4QkprcFJubloyMU84NXprZGRGX2Yzdg?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTBYUWs3STJRa3MxcWdnN1YzSjREVDZJYXhEVHFBNzlmOWxLSTZ2RHVLb1pvY0h0bnhhWVliR293QUFXWEc5Zk1UMnRlMXlqTFVxbC1YdFpQSzBJVWU2azE0a1c1ZVIxZ01fQ1BKTGFNV1ZYVExrZUVwamdoMWZ5U0JDZWhQSDZ5UTd6UmhxenpKZU9oSWRWRzA3c2tjOUh4U1Z5eExLLUt6aWxXUWxOWWs4QkprcFJubloyMU84NXprZGRGX2Yzdg?oc=5)
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
 
 ---
 
-### [Blutzucker-Kontrolle: 58% weniger Herztod-Risiko bei Normalisierung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
+### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
-2026-06-17 <span class="news-indication-tag">diabetes</span>
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
+來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
 ---
 
-### [Inesperado efecto de los fármacos tipo Ozempic en la fertilidad masculina - Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
+### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
+
+---
+
+### [Fettleber: 10% weniger Bauchfett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXV2aWpTM3lJaW5QZWxmQjc0SnZLU21KTnd0ZjE2b0xReG9Fd2d2N1dGZmkwaDRTeUpITFNfZGthV2tBT09PWVJ5eHM1MW5fUWh3VG9rQnE3a3Z2RUQzX09UXzBVM2R0dS0xc1lPT1kyQXl6QXNtY3N4ZnpqRTUzZUI3ZUJYRldIVEVkdDlhc25DVGVuZVAtZjZpcUJMMm5VYWZQckJlRlhfS1R0aWhSdUZPQ2dHQQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXV2aWpTM3lJaW5QZWxmQjc0SnZLU21KTnd0ZjE2b0xReG9Fd2d2N1dGZmkwaDRTeUpITFNfZGthV2tBT09PWVJ5eHM1MW5fUWh3VG9rQnE3a3Z2RUQzX09UXzBVM2R0dS0xc1lPT1kyQXl6QXNtY3N4ZnpqRTUzZUI3ZUJYRldIVEVkdDlhc25DVGVuZVAtZjZpcUJMMm5VYWZQckJlRlhfS1R0aWhSdUZPQ2dHQQ?oc=5)
+
+---
+
+### [Pastillas para adelgazar: el nuevo fármaco de Wegovy que preocupa a los médicos - El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWc?oc=5)
+
+2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWc?oc=5)
+
+---
+
+### [Schweizer Umfrage - Wir sind ungesünder, als wir glauben - Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
+
+---
+
+### [Ozempic parece el medicamento mágico: los GLP-1 también están haciendo algo contra la crisis demográfica](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3BLOGtEZlFZdmozd2FQbnNSQS1ld3pmUHdZVk9ZUHQwMG5udHlPaFVEdUo3LTJQYVNubnM2NW1YdGZmQ25KaGpBSmNuSEhUNDQwTDF6UVNmTFZCU0FpX01tQk9WRDZIUzlOV0h3QXY5OTdBb3pVbjJnQmg3QV9rYURSU2s4a3JFeDhpNGJkTkhWVG1WY2d4QVVxSEFyLVNKcFFneFFIT0hFUnNlajJxbzBIMXI4a05kcFV1Wmpxa9IBxAFBVV95cUxQTEctbFV3VzV1a1ZGSlF5RlE3WHpRd1pRQ0RmTmxvUTd2aFhQRjBzOGtVUGcySFlsN1hST194ckp6dmN2Q2UzWUh5T19jSjF1by0wc0hmWk9nR2p6SF8yU1lSSVV5OFJOc3FEWVp2XzFSRWJtM0NfNTZhWW02R084Wmh0aHFCVHVRYkpLUnpDMGdJTGVXSFFKVWF4a0hpY3lCV2wyNkZES2tvbEhqREFsYVhVOVAzRW5YVExaM1pFRmVyUmxn?oc=5)
 
 2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
-
----
-
-### [El protocolo clínico integral para pacientes en tratamiento con fármacos para adelgazar](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlBrTUJEdjdoOHFYNkw5TWNqd2tJVEV6aGh4aGZQX1FyWUMzemJ1U3BIWDUzQ3JlbWtla01YRzBneXo1dzgzYng2X08yam5XbEdHdVlZT0FDb3hxYnB3dHlHTC1KVldSVzlIUUZVX20tZnd1ZGozQzlUOFhDUGJWZHg2eTZxZUVUWnEzZHJvd2dwY2FjblZQTW80UnU3bEJYN3ZGVVphMFIyM00waFV2YnJBWEExQWIzY2hPWlh30gG-AUFVX3lxTE9mbzM1Nld5bWcwQzBval90LXVBakFGU0JuVTdMX0Q0WUYzWkU2eDMwTTdmN3NZSmxIU2JWa0NnX1R1aFh1RlJ0M0ZNRmJjZXcxbTlxRzhid3ZzSm5tTU4xMUw0REw5WXRPeUw5MzJydjNWMWU5UmJ5YldtWkVWRlREemNWR1lvZ1poVXl4eVlCcnFyMm1aellkbFF0dnNJeXJ3bWNFTndBYVh0c1BJdTFQRktUOElET0JsTVJxc1E?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[MARCA](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlBrTUJEdjdoOHFYNkw5TWNqd2tJVEV6aGh4aGZQX1FyWUMzemJ1U3BIWDUzQ3JlbWtla01YRzBneXo1dzgzYng2X08yam5XbEdHdVlZT0FDb3hxYnB3dHlHTC1KVldSVzlIUUZVX20tZnd1ZGozQzlUOFhDUGJWZHg2eTZxZUVUWnEzZHJvd2dwY2FjblZQTW80UnU3bEJYN3ZGVVphMFIyM00waFV2YnJBWEExQWIzY2hPWlh30gG-AUFVX3lxTE9mbzM1Nld5bWcwQzBval90LXVBakFGU0JuVTdMX0Q0WUYzWkU2eDMwTTdmN3NZSmxIU2JWa0NnX1R1aFh1RlJ0M0ZNRmJjZXcxbTlxRzhid3ZzSm5tTU4xMUw0REw5WXRPeUw5MzJydjNWMWU5UmJ5YldtWkVWRlREemNWR1lvZ1poVXl4eVlCcnFyMm1aellkbFF0dnNJeXJ3bWNFTndBYVh0c1BJdTFQRktUOElET0JsTVJxc1E?oc=5)
+來源：[Trendencias](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3BLOGtEZlFZdmozd2FQbnNSQS1ld3pmUHdZVk9ZUHQwMG5udHlPaFVEdUo3LTJQYVNubnM2NW1YdGZmQ25KaGpBSmNuSEhUNDQwTDF6UVNmTFZCU0FpX01tQk9WRDZIUzlOV0h3QXY5OTdBb3pVbjJnQmg3QV9rYURSU2s4a3JFeDhpNGJkTkhWVG1WY2d4QVVxSEFyLVNKcFFneFFIT0hFUnNlajJxbzBIMXI4a05kcFV1Wmpxa9IBxAFBVV95cUxQTEctbFV3VzV1a1ZGSlF5RlE3WHpRd1pRQ0RmTmxvUTd2aFhQRjBzOGtVUGcySFlsN1hST194ckp6dmN2Q2UzWUh5T19jSjF1by0wc0hmWk9nR2p6SF8yU1lSSVV5OFJOc3FEWVp2XzFSRWJtM0NfNTZhWW02R084Wmh0aHFCVHVRYkpLUnpDMGdJTGVXSFFKVWF4a0hpY3lCV2wyNkZES2tvbEhqREFsYVhVOVAzRW5YVExaM1pFRmVyUmxn?oc=5)
 
 ---
 

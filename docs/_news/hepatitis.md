@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Brote de hepatitis A: Sanidad detecta seis casos en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQa9IBuAFBVV95cUxNZ3plaUJSOXoyNGtCazRGQl9vYTRFV1B4VTBNUzFTMS1sMHdnVl9IaDNWUWNhOVBJRlJJdE10STQ0UlI2a3J0bTNBZGJyc2FYX1R4WVNpOUV3alFJaXljUC00bXQ0cjJUNUFPekdhU0xxbUllTW9ZZHJwSTdaTVZCZzJPZUdPejRBSUdYZlJIVGxmWlA0a0pUa2lJUkJhbHZaUzZlWkFEX3NjMU0yTXM4OXFFWmUzRk11?oc=5)
+
+2026-06-18
+
+來源：[Canarias7](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQa9IBuAFBVV95cUxNZ3plaUJSOXoyNGtCazRGQl9vYTRFV1B4VTBNUzFTMS1sMHdnVl9IaDNWUWNhOVBJRlJJdE10STQ0UlI2a3J0bTNBZGJyc2FYX1R4WVNpOUV3alFJaXljUC00bXQ0cjJUNUFPekdhU0xxbUllTW9ZZHJwSTdaTVZCZzJPZUdPejRBSUdYZlJIVGxmWlA0a0pUa2lJUkJhbHZaUzZlWkFEX3NjMU0yTXM4OXFFWmUzRk11?oc=5)
+
+---
 
 ### [Contrasse l'epatite C durante una trasfusione: dopo 40 anni arriva il risarcimento](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdWcnM2bEVOajN6TTVVaXRUYnV5bmhIWEJFTW5CcHlTRDFVa1NPNUh0dlZlWG1taU5Welh6M19VY0p1T0lRcl9zdXFYb0lJb2E5NnZjcEo5WXFWWnlGSVhmUWJhZWs5US1jd09QTHRXVEo1SktSZnM4WlR4YjNLUnZtdzlZQTJtMTZwYXlSMElLMzBJd2xadm03Wm9CZ0tTYmRzZThXV2Y1dGJBNld3Z3RMaUY5SnNuT1BVSEoxQQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Trastornos mentales graves se asocian con mayor riesgo de demencia e ictus, según estudio - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSVY5ckRiRFFLZHMtR2pRU1p3VmNibUE2a2oxNXZSZVFvcnp0VGp5XzdvbTdDTmVrWG5VSnR6SDNQaXlKV2tIRi1MT1VYV19naXZMOWxwMV9PdlRyRjB2Z25qSmlmSkZEaXVyeXZ6eF9OMnI3X093TjZfaU9GX3JMaWIwRXl5aTBFWEdnT3NZRW5wV2hIMEFQbmJmU2lSejNwR1ZaXy03ZGN5aTF3ZHRRY1F3REV5SFFWTkg4cWZpQkpNS2Nfa0cweUY5TXFoaXN0c0U2V0k1anV4YUVUQXhHZGszUzNjN0hNMF9NYW1uSzlKQ05W0gH6AUFVX3lxTE5KTTI5c1ExTDZnUU93bHBCZlZmSC0xMWEwdVprMHhKd0xJSXZ3cjR5Z0pId3o1LVcxamQ4bFdLdVVHVGZQeWxvN1lnenBwVm1ZbVA4X3k5cHVDX18yMlViQ09lbzlJc0tLcDZuazNpOTJDSVlWTUlHZDQxNktRQVNwTmpFSWN3NEhDSUotNGpTUEdBaE40MFpOU1oxd3MwMUFQWHVpNl9JZnVKMG1tSUVsa2dsU09ZTkVOdFUwdThuNFEzbmthSl9QSG9IR2ZyU3R0QTNYTXZZd0ZlWFFxNk9jcXhOeWxLcGZvX1ltSmVpN3FscmtaeWpsLUE?oc=5)
-
-2026-06-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSVY5ckRiRFFLZHMtR2pRU1p3VmNibUE2a2oxNXZSZVFvcnp0VGp5XzdvbTdDTmVrWG5VSnR6SDNQaXlKV2tIRi1MT1VYV19naXZMOWxwMV9PdlRyRjB2Z25qSmlmSkZEaXVyeXZ6eF9OMnI3X093TjZfaU9GX3JMaWIwRXl5aTBFWEdnT3NZRW5wV2hIMEFQbmJmU2lSejNwR1ZaXy03ZGN5aTF3ZHRRY1F3REV5SFFWTkg4cWZpQkpNS2Nfa0cweUY5TXFoaXN0c0U2V0k1anV4YUVUQXhHZGszUzNjN0hNMF9NYW1uSzlKQ05W0gH6AUFVX3lxTE5KTTI5c1ExTDZnUU93bHBCZlZmSC0xMWEwdVprMHhKd0xJSXZ3cjR5Z0pId3o1LVcxamQ4bFdLdVVHVGZQeWxvN1lnenBwVm1ZbVA4X3k5cHVDX18yMlViQ09lbzlJc0tLcDZuazNpOTJDSVlWTUlHZDQxNktRQVNwTmpFSWN3NEhDSUotNGpTUEdBaE40MFpOU1oxd3MwMUFQWHVpNl9JZnVKMG1tSUVsa2dsU09ZTkVOdFUwdThuNFEzbmthSl9QSG9IR2ZyU3R0QTNYTXZZd0ZlWFFxNk9jcXhOeWxLcGZvX1ltSmVpN3FscmtaeWpsLUE?oc=5)
-
----
-
-### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
-
-2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

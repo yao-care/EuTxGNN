@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Was wir über den Zusammenhang zwischen Ernährung und Depression wirklich wissen](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEVLU3ZUUVZ6dVQxWW1oc1RWR0RGSEl2d0JWQTExY2VyLWs4NmUzaFBjemVteDVONlBSYWtiV2I5eXF6eUhDUVBxVUhFNVAxcDFuTGNhYXdGMWxsamRiNldDS3ZGcm9XQm91T0NLMWNTMktFN190TGFrY3FQRGI0T1BCbEF0VDF2TE40ZHZ3?oc=5)
+
+2026-06-18
+
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEVLU3ZUUVZ6dVQxWW1oc1RWR0RGSEl2d0JWQTExY2VyLWs4NmUzaFBjemVteDVONlBSYWtiV2I5eXF6eUhDUVBxVUhFNVAxcDFuTGNhYXdGMWxsamRiNldDS3ZGcm9XQm91T0NLMWNTMktFN190TGFrY3FQRGI0T1BCbEF0VDF2TE40ZHZ3?oc=5)
+
+---
 
 ### [A three-minute smartphone game can detect a subtle cognitive mechanism behind depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
 

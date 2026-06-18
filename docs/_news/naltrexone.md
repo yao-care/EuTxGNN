@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
+
+---
+
+### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
+
+---
 
 ### [Ana Sánchez, endocrinóloga: «Es falso que el hígado graso sea un problema exclusivamente relacionado con el alcohol» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiggJBVV95cUxOT0RTUEpqd2xpVFJDTEVDU0xMaU0xcG1CbG1KUVEwYTRaVmh5Q2ljdzhtWV9WSkNCV1IwUEZ3aEQ5OFo5akJQZDRNWElsTnlaNEpsZFJ2Y2hPRWpiNGh5d081QzNuR3ZId0ZMaXV4am13V294NUhIVlJZWExIcTBiQkwxYS1fV1NxSnNUYnhGNVkzXzRxeVVvUUxwSVExM0dGMk50cnVlYTlORzJIN0hjWWhrMHZfbVpQZFZheHVRdExCUmZXaHM2VmZzVmRlc2pSV3h5MHpUZHB2N0VMbFNXWXE0THlwWmtrU3BicWtmdXJncmFEdW9SUE5qeHlwNEJHQVE?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [El protocolo clínico integral para pacientes en tratamiento con fármacos para adelgazar](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlBrTUJEdjdoOHFYNkw5TWNqd2tJVEV6aGh4aGZQX1FyWUMzemJ1U3BIWDUzQ3JlbWtla01YRzBneXo1dzgzYng2X08yam5XbEdHdVlZT0FDb3hxYnB3dHlHTC1KVldSVzlIUUZVX20tZnd1ZGozQzlUOFhDUGJWZHg2eTZxZUVUWnEzZHJvd2dwY2FjblZQTW80UnU3bEJYN3ZGVVphMFIyM00waFV2YnJBWEExQWIzY2hPWlh30gG-AUFVX3lxTE9mbzM1Nld5bWcwQzBval90LXVBakFGU0JuVTdMX0Q0WUYzWkU2eDMwTTdmN3NZSmxIU2JWa0NnX1R1aFh1RlJ0M0ZNRmJjZXcxbTlxRzhid3ZzSm5tTU4xMUw0REw5WXRPeUw5MzJydjNWMWU5UmJ5YldtWkVWRlREemNWR1lvZ1poVXl4eVlCcnFyMm1aellkbFF0dnNJeXJ3bWNFTndBYVh0c1BJdTFQRktUOElET0JsTVJxc1E?oc=5)
+### [Pastillas para adelgazar: el nuevo fármaco de Wegovy que preocupa a los médicos - El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWc?oc=5)
 
-2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[MARCA](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlBrTUJEdjdoOHFYNkw5TWNqd2tJVEV6aGh4aGZQX1FyWUMzemJ1U3BIWDUzQ3JlbWtla01YRzBneXo1dzgzYng2X08yam5XbEdHdVlZT0FDb3hxYnB3dHlHTC1KVldSVzlIUUZVX20tZnd1ZGozQzlUOFhDUGJWZHg2eTZxZUVUWnEzZHJvd2dwY2FjblZQTW80UnU3bEJYN3ZGVVphMFIyM00waFV2YnJBWEExQWIzY2hPWlh30gG-AUFVX3lxTE9mbzM1Nld5bWcwQzBval90LXVBakFGU0JuVTdMX0Q0WUYzWkU2eDMwTTdmN3NZSmxIU2JWa0NnX1R1aFh1RlJ0M0ZNRmJjZXcxbTlxRzhid3ZzSm5tTU4xMUw0REw5WXRPeUw5MzJydjNWMWU5UmJ5YldtWkVWRlREemNWR1lvZ1poVXl4eVlCcnFyMm1aellkbFF0dnNJeXJ3bWNFTndBYVh0c1BJdTFQRktUOElET0JsTVJxc1E?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWc?oc=5)
 
 ---
 

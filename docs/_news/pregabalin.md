@@ -54,7 +54,7 @@ permalink: /news/pregabalin/
 
 ## 相關新聞（2 則）
 
-### [Migräne schützt das Gehirn vor Demenz Große Studie widerlegt, was viele Ärzte bisher glaubten](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFlkN2lyQWxGdWxqRnRmUEsyeVZ1NS1FYlpuemVTVVVNc2J2ZXA2R0lnQzUtenpqamF1b1hnOGhIelJPYVRlendDREl5T2ptQWdnVnZ5YzlPd29pNG05TE9CQ1hzSnR3X3J0aGhBcmxwemZzaDlzSFU2WkRVVnoydk42Y21JQlFvMmRMWWhRRjA3aTViS3ZsTEdiZGI4UEF2YXZ5Mm5OYTJTRnVBMHhEelhuZEFFWW1uY3h3bnFmYlBvYkU3NkZrbkE2V0w1RlY3bUxtajFORG5iSW5oX2pV?oc=5)
+### [Migräne schützt das Gehirn vor Demenz Eine große Studie widerlegt, was viele Ärzte bisher glaubten](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFlkN2lyQWxGdWxqRnRmUEsyeVZ1NS1FYlpuemVTVVVNc2J2ZXA2R0lnQzUtenpqamF1b1hnOGhIelJPYVRlendDREl5T2ptQWdnVnZ5YzlPd29pNG05TE9CQ1hzSnR3X3J0aGhBcmxwemZzaDlzSFU2WkRVVnoydk42Y21JQlFvMmRMWWhRRjA3aTViS3ZsTEdiZGI4UEF2YXZ5Mm5OYTJTRnVBMHhEelhuZEFFWW1uY3h3bnFmYlBvYkU3NkZrbkE2V0w1RlY3bUxtajFORG5iSW5oX2pV?oc=5)
 
 2026-06-18 <span class="news-indication-tag">Migräne</span>
 

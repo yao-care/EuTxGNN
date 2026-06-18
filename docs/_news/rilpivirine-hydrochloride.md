@@ -14,7 +14,7 @@ permalink: /news/rilpivirine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Rilpivirine Hydrochloride 有什麼相關新聞？">
-<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rilpivirine-hydrochloride/
 <p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Brote de hepatitis A: Sanidad detecta seis casos en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQa9IBuAFBVV95cUxNZ3plaUJSOXoyNGtCazRGQl9vYTRFV1B4VTBNUzFTMS1sMHdnVl9IaDNWUWNhOVBJRlJJdE10STQ0UlI2a3J0bTNBZGJyc2FYX1R4WVNpOUV3alFJaXljUC00bXQ0cjJUNUFPekdhU0xxbUllTW9ZZHJwSTdaTVZCZzJPZUdPejRBSUdYZlJIVGxmWlA0a0pUa2lJUkJhbHZaUzZlWkFEX3NjMU0yTXM4OXFFWmUzRk11?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Canarias7](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQa9IBuAFBVV95cUxNZ3plaUJSOXoyNGtCazRGQl9vYTRFV1B4VTBNUzFTMS1sMHdnVl9IaDNWUWNhOVBJRlJJdE10STQ0UlI2a3J0bTNBZGJyc2FYX1R4WVNpOUV3alFJaXljUC00bXQ0cjJUNUFPekdhU0xxbUllTW9ZZHJwSTdaTVZCZzJPZUdPejRBSUdYZlJIVGxmWlA0a0pUa2lJUkJhbHZaUzZlWkFEX3NjMU0yTXM4OXFFWmUzRk11?oc=5)
+
+---
 
 ### [Contrasse l'epatite C durante una trasfusione: dopo 40 anni arriva il risarcimento](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdWcnM2bEVOajN6TTVVaXRUYnV5bmhIWEJFTW5CcHlTRDFVa1NPNUh0dlZlWG1taU5Welh6M19VY0p1T0lRcl9zdXFYb0lJb2E5NnZjcEo5WXFWWnlGSVhmUWJhZWs5US1jd09QTHRXVEo1SktSZnM4WlR4YjNLUnZtdzlZQTJtMTZwYXlSMElLMzBJd2xadm03Wm9CZ0tTYmRzZThXV2Y1dGJBNld3Z3RMaUY5SnNuT1BVSEoxQQ?oc=5)
 
