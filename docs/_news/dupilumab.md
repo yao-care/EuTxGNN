@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="Dupilumab 有什麼相關新聞？">
-<strong>Dupilumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dupilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/dupilumab/
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Ein Patient mit COPD - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkN1TVdZZEx2SjBxRDNvSmRlS3BETGFEVXFYUEh6Q3A2cjAxX0gzMFprWVVjcTFZYkw1OHdtU1ZmdVdLRlczeEQyVnB1eVdzS1lyTlRUYlR3M2MyTmFKUDdxSFdJM2RDNTktbnFaV05ncXRaUm5ZeUt6SWtrSGgtaDdzWk9NVUxyQ0JVZDM1MmR3Zw?oc=5)
+
+2026-06-17 <span class="news-indication-tag">copd</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkN1TVdZZEx2SjBxRDNvSmRlS3BETGFEVXFYUEh6Q3A2cjAxX0gzMFprWVVjcTFZYkw1OHdtU1ZmdVdLRlczeEQyVnB1eVdzS1lyTlRUYlR3M2MyTmFKUDdxSFdJM2RDNTktbnFaV05ncXRaUm5ZeUt6SWtrSGgtaDdzWk9NVUxyQ0JVZDM1MmR3Zw?oc=5)
+
+---
+
+### [Tumore al pancreas e alcol, studio canadese: “Ogni 10 grammi al giorno associati a un aumento del rischio”](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
+
+2026-06-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
+
+---
 
 
 <div class="disclaimer">

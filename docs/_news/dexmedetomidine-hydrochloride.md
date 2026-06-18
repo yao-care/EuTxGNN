@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Migräne schützt das Gehirn vor Demenz Große Studie widerlegt, was viele Ärzte bisher glaubten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
+### [Les 2 aliments parfaits en salade quand il fait chaud : ils évitent les pics de tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
 
-2026-06-17 <span class="news-indication-tag">Migräne</span>
+2026-06-18 <span class="news-indication-tag">hypertension</span>
 
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+---
+
+### [Migräne schützt das Gehirn vor Demenz Große Studie widerlegt, was viele Ärzte bisher glaubten](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFlkN2lyQWxGdWxqRnRmUEsyeVZ1NS1FYlpuemVTVVVNc2J2ZXA2R0lnQzUtenpqamF1b1hnOGhIelJPYVRlendDREl5T2ptQWdnVnZ5YzlPd29pNG05TE9CQ1hzSnR3X3J0aGhBcmxwemZzaDlzSFU2WkRVVnoydk42Y21JQlFvMmRMWWhRRjA3aTViS3ZsTEdiZGI4UEF2YXZ5Mm5OYTJTRnVBMHhEelhuZEFFWW1uY3h3bnFmYlBvYkU3NkZrbkE2V0w1RlY3bUxtajFORG5iSW5oX2pV?oc=5)
+
+2026-06-18 <span class="news-indication-tag">Migräne</span>
+
+來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFlkN2lyQWxGdWxqRnRmUEsyeVZ1NS1FYlpuemVTVVVNc2J2ZXA2R0lnQzUtenpqamF1b1hnOGhIelJPYVRlendDREl5T2ptQWdnVnZ5YzlPd29pNG05TE9CQ1hzSnR3X3J0aGhBcmxwemZzaDlzSFU2WkRVVnoydk42Y21JQlFvMmRMWWhRRjA3aTViS3ZsTEdiZGI4UEF2YXZ5Mm5OYTJTRnVBMHhEelhuZEFFWW1uY3h3bnFmYlBvYkU3NkZrbkE2V0w1RlY3bUxtajFORG5iSW5oX2pV?oc=5)
 
 ---
 

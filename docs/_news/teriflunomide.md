@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,69 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（8 則）
 
-### [Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
+### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
+
+---
+
+### [Alzheimer: Entzündungen und alternde Zellen treiben Krankheit voran - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3hkNnp2akdhZ0hvcUFhSkJvWHFqOGVOUGJDT0tqSkJ2dHJyYmR5bGZDX3hCSkQtSmxFSllQR3JMYlpTYUp2dWg5V1RFbHdCUThIN0JQS3ZLNlUtVHhCUDFiVnZpbkMteGc0U3lSczN0WU1IYUd2Q0FDNzFrZnEzTkZDSjVmNmUxTEU4bXlmcmpZU1d4NGFfazAzTW96NWlYZDdtNXlobjJQcXZCM3o0S25wSVVrRzg?oc=5)
 
 2026-06-17 <span class="news-indication-tag">MS</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3hkNnp2akdhZ0hvcUFhSkJvWHFqOGVOUGJDT0tqSkJ2dHJyYmR5bGZDX3hCSkQtSmxFSllQR3JMYlpTYUp2dWg5V1RFbHdCUThIN0JQS3ZLNlUtVHhCUDFiVnZpbkMteGc0U3lSczN0WU1IYUd2Q0FDNzFrZnEzTkZDSjVmNmUxTEU4bXlmcmpZU1d4NGFfazAzTW96NWlYZDdtNXlobjJQcXZCM3o0S25wSVVrRzg?oc=5)
 
 ---
 
-### [A 2025 NYU study found that women who actively worry about aging — particularly those who fear future health problems — measurably age faster at the cellular level than those who do not, in a quiet finding that suggests how a person thinks about getting ol - Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ2luUzFpTV8xWngzSlB0SDJ4dk4tTmhGWHh1Z21aMlcyQXZZUGRILWwzVWVERExPYUFNREFmN1NXZEkwMFhvc0s3bzEwd3V4NEhISmZZeEdfN21ORWhrUU04SnVDazNpckRiTDFWVjd2RmZ0eHQzcWxMYnNwcklDZ0tNSnpCWkdVUGRrN3lYNlBzR3MyYzBqVFNmZ2Z3bzFjZWxYZmx1NlZlQjJrVGt0UHh4NWREZ1o3WmZXb3cxVDRhWVZlbmROWm1wanlBVlZwZWVFWDBBcWd6MTNGR3l4QVgzb3pKdWtvLUVULXJpQURGNmE3U0EtOWMxY3lqWEVKNHB3YjZzaTNJSWJNRDVMLTRiU3JqOVRSdDhfZG1pa0FYXzBTZkFKVTg4YjJZOWc?oc=5)
+### [Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pHLVo1aWNmaURteXhLWGV0Y0ZpYkY0ZER4RmxTRUlZQl84akhGbUpMeXZiNlFfdEtFdHhuZjhvTldXaUprNnBiNlQ3emliQ0dUcVlZcU5vNU1hYWQ1WHQ4VmtiM000Rjd5YTFMNk85Wm5IcWtrNjFyaHZORGJlX3NOOHlMNWM?oc=5)
 
-2026-06-16 <span class="news-indication-tag">MS</span>
+2026-06-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ2luUzFpTV8xWngzSlB0SDJ4dk4tTmhGWHh1Z21aMlcyQXZZUGRILWwzVWVERExPYUFNREFmN1NXZEkwMFhvc0s3bzEwd3V4NEhISmZZeEdfN21ORWhrUU04SnVDazNpckRiTDFWVjd2RmZ0eHQzcWxMYnNwcklDZ0tNSnpCWkdVUGRrN3lYNlBzR3MyYzBqVFNmZ2Z3bzFjZWxYZmx1NlZlQjJrVGt0UHh4NWREZ1o3WmZXb3cxVDRhWVZlbmROWm1wanlBVlZwZWVFWDBBcWd6MTNGR3l4QVgzb3pKdWtvLUVULXJpQURGNmE3U0EtOWMxY3lqWEVKNHB3YjZzaTNJSWJNRDVMLTRiU3JqOVRSdDhfZG1pa0FYXzBTZkFKVTg4YjJZOWc?oc=5)
-
----
-
-### [Frühstück: Warum Fruchtzucker Blutzucker und Heißhunger antreibt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRqa3RPdHozMXBTTDB6UDRZOFBaWFlEZ1RaN0J5aS1jZ2l1SjI1R3hwTmgtZFY4b3FjVEtqS1pyN2RadHNZM1NmUVRBUDlpcFM4ZUtmLW1TVm9RS2ttMkU2ek1KazlwYUd4UUpUbk1peUp2X0FxLV9pV2gtd2dNcmpHOTlzTk4tVHJUUEM4eTJfMUVpTl9oeDVLT1psVWdtN0hvRmhRMUcyQmdiemVBdDQ3SDZuZw?oc=5)
-
-2026-06-16 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRqa3RPdHozMXBTTDB6UDRZOFBaWFlEZ1RaN0J5aS1jZ2l1SjI1R3hwTmgtZFY4b3FjVEtqS1pyN2RadHNZM1NmUVRBUDlpcFM4ZUtmLW1TVm9RS2ttMkU2ek1KazlwYUd4UUpUbk1peUp2X0FxLV9pV2gtd2dNcmpHOTlzTk4tVHJUUEM4eTJfMUVpTl9oeDVLT1psVWdtN0hvRmhRMUcyQmdiemVBdDQ3SDZuZw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pHLVo1aWNmaURteXhLWGV0Y0ZpYkY0ZER4RmxTRUlZQl84akhGbUpMeXZiNlFfdEtFdHhuZjhvTldXaUprNnBiNlQ3emliQ0dUcVlZcU5vNU1hYWQ1WHQ4VmtiM000Rjd5YTFMNk85Wm5IcWtrNjFyaHZORGJlX3NOOHlMNWM?oc=5)
 
 ---
 
-### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+### [Ancient DNA provides evidence of earliest known plague outbreak | Archaeology - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
 
-2026-06-16 <span class="news-indication-tag">MS</span>
+2026-06-17 <span class="news-indication-tag">MS</span>
 
-來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
+
+---
+
+### [New Research Pinpoints Hidden Brain Trigger That Causes Autism, Changing How We Understand The Condition - Bored Panda](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhkTHVzTG1GQnV2N01hZWFWSHRiUE8xekxCamdLMmIzc0ZSUlFzWEVMSGdWd2NiWmxQTFBBN0gwQ09nN0tGY0txY1hjR1hiaUZ3UVVyckpZZ3NDb0xYNW91dE5NMFV3dGNKOWtqZnYxSlZHQThxZ2hISWJhZGtvbm51N1BidlFLSExXUmxycU5wb3NJYXV3YnZxMlljT25L?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhkTHVzTG1GQnV2N01hZWFWSHRiUE8xekxCamdLMmIzc0ZSUlFzWEVMSGdWd2NiWmxQTFBBN0gwQ09nN0tGY0txY1hjR1hiaUZ3UVVyckpZZ3NDb0xYNW91dE5NMFV3dGNKOWtqZnYxSlZHQThxZ2hISWJhZGtvbm51N1BidlFLSExXUmxycU5wb3NJYXV3YnZxMlljT25L?oc=5)
+
+---
+
+### [Contrasse l'epatite C durante una trasfusione: dopo 40 anni arriva il risarcimento](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdWcnM2bEVOajN6TTVVaXRUYnV5bmhIWEJFTW5CcHlTRDFVa1NPNUh0dlZlWG1taU5Welh6M19VY0p1T0lRcl9zdXFYb0lJb2E5NnZjcEo5WXFWWnlGSVhmUWJhZWs5US1jd09QTHRXVEo1SktSZnM4WlR4YjNLUnZtdzlZQTJtMTZwYXlSMElLMzBJd2xadm03Wm9CZ0tTYmRzZThXV2Y1dGJBNld3Z3RMaUY5SnNuT1BVSEoxQQ?oc=5)
+
+2026-06-17 <span class="news-indication-tag">epatite</span>
+
+來源：[BrindisiReport](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdWcnM2bEVOajN6TTVVaXRUYnV5bmhIWEJFTW5CcHlTRDFVa1NPNUh0dlZlWG1taU5Welh6M19VY0p1T0lRcl9zdXFYb0lJb2E5NnZjcEo5WXFWWnlGSVhmUWJhZWs5US1jd09QTHRXVEo1SktSZnM4WlR4YjNLUnZtdzlZQTJtMTZwYXlSMElLMzBJd2xadm03Wm9CZ0tTYmRzZThXV2Y1dGJBNld3Z3RMaUY5SnNuT1BVSEoxQQ?oc=5)
+
+---
+
+### [Diskussion um Calcium und Vitamin D – Osteoporose-Expertin hält an Empfehlung fest](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGhHNDBLZFU3YTRnQVdyT1J3NzZmTjhYNlNJOUVESzM2RGdhdlljdUczYzJuTDBOeE9FMHNzSTllMGJkNkFrb2lNRDdBcnBNcnZBZWs1eXk3TWNUQXpYWFcyVlVwNGU0RjFfajlSOE1ISEhDR1ZtRjlPb0t2ZUJ1Y29nRVRlYk1mUWVOYktQV0tsd0RoMWYwSUhTRVN0N2lnb280TkJrNTl1M09WMkRPa2RobXpZUFJV?oc=5)
+
+2026-06-17 <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGhHNDBLZFU3YTRnQVdyT1J3NzZmTjhYNlNJOUVESzM2RGdhdlljdUczYzJuTDBOeE9FMHNzSTllMGJkNkFrb2lNRDdBcnBNcnZBZWs1eXk3TWNUQXpYWFcyVlVwNGU0RjFfajlSOE1ISEhDR1ZtRjlPb0t2ZUJ1Y29nRVRlYk1mUWVOYktQV0tsd0RoMWYwSUhTRVN0N2lnb280TkJrNTl1M09WMkRPa2RobXpZUFJV?oc=5)
+
+---
+
+### [Alzheimer: Forscher entdecken unerwarteten Risikofaktor](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeTh3emRhZkdxWmRKR3RjU21RMGV6d1BHMWtxMkpaOUpFNTRCNUNjb1ZKYmpiejZHVS1aSGpSVUlyQi1FSnlScC1BWWt1YTBPazRERk4zS0xORW1oWnZ4NGJqemo3WEhFQ1Z2UGtwUE91MWpZbGE5RENRcTM5VGZTUjY5UV9YZURPeEZUX0o2NmFkQXdDZDZGcmh3VjlZQlJmUWxwZzU0dTJZbU5jWnlNOXppa1RxcVdnWGNPcGdEYzZVUm9Oelo0?oc=5)
+
+2026-06-17 <span class="news-indication-tag">MS</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeTh3emRhZkdxWmRKR3RjU21RMGV6d1BHMWtxMkpaOUpFNTRCNUNjb1ZKYmpiejZHVS1aSGpSVUlyQi1FSnlScC1BWWt1YTBPazRERk4zS0xORW1oWnZ4NGJqemo3WEhFQ1Z2UGtwUE91MWpZbGE5RENRcTM5VGZTUjY5UV9YZURPeEZUX0o2NmFkQXdDZDZGcmh3VjlZQlJmUWxwZzU0dTJZbU5jWnlNOXppa1RxcVdnWGNPcGdEYzZVUm9Oelo0?oc=5)
 
 ---
 

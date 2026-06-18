@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Le cerveau n'est touché qu'à la fin : voici le véritable point de départ de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTAzZ2pqQm03WVZiWG9XTFJpODRONmE2ZHlOZG5IcktVMWRJaHlqM3ZwZEhPVHpZQWZ4NlE1VjduclBTX1JMSmNIVURtdERqbW1CUExPcXdPY1ZRNllWNUhaTmJJaXNoUG54dGc0eDF6dmttcmtyc2QwR0JKdHduMzBLLXNDcFA1X0ktd2hnWkIzLW1DWU8zZ3l4N2RibkN5V1ZTcDRaX3lzLTBJcjU2MUVNYXN3a2Rw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTAzZ2pqQm03WVZiWG9XTFJpODRONmE2ZHlOZG5IcktVMWRJaHlqM3ZwZEhPVHpZQWZ4NlE1VjduclBTX1JMSmNIVURtdERqbW1CUExPcXdPY1ZRNllWNUhaTmJJaXNoUG54dGc0eDF6dmttcmtyc2QwR0JKdHduMzBLLXNDcFA1X0ktd2hnWkIzLW1DWU8zZ3l4N2RibkN5V1ZTcDRaX3lzLTBJcjU2MUVNYXN3a2Rw?oc=5)
+
+---
+
+### [Breakthrough jab could ‘reverse ageing’ and help fight cancer and dementia - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
+
+2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
+
+---
 
 ### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
 
 2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
-
----
-
-### [As a neuroscientist, these are my daily habits to ward off dementia - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWdwYk04Qks2RElGZDFfNVU3ZUQ2SnYzMjlpaHpnWFB3RUNLQkF6YXRTeG4yS0V0RzZBNzVuNkkxaU4wTFVTSndkb2hhVUI0WkNaVVN5bHZVZXBPRWdRZ3RueTN0eFZjME5IWkxINWZrQUhtanAtUzZtLTNQSThiNDZuUW82Nkw0dmoxVjN0UlZOZFJvMVEwaktON21kamxtaThEVnN1XzhMbzdlTXBGdUFDTmQxQQ?oc=5)
-
-2026-06-16 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWdwYk04Qks2RElGZDFfNVU3ZUQ2SnYzMjlpaHpnWFB3RUNLQkF6YXRTeG4yS0V0RzZBNzVuNkkxaU4wTFVTSndkb2hhVUI0WkNaVVN5bHZVZXBPRWdRZ3RueTN0eFZjME5IWkxINWZrQUhtanAtUzZtLTNQSThiNDZuUW82Nkw0dmoxVjN0UlZOZFJvMVEwaktON21kamxtaThEVnN1XzhMbzdlTXBGdUFDTmQxQQ?oc=5)
 
 ---
 

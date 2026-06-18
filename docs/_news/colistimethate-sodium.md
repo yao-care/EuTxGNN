@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Les 2 aliments parfaits en salade quand il fait chaud : ils évitent les pics de tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hypertension</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+---
 
 ### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
 

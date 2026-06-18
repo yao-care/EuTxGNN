@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
 
-### [El hábito semanal de dos horas que salva a las mujeres del infarto - Libertad Digital](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTZjcXB1SlN4VjN6Ukw1c3N0eEhuZ2lzOGphZDlFaG5zMnJDTm5kc0pwSlJkdW5DTGNPQVRSVW5Fa1RqNmsxa081a2cxclFHSmN0S1FjdVJQQmRvRjNDRDZhOUVjVGJlcGprTHpzYzNvU1JacnVCbUh6OTVYTWFsOEg2dWhFUm9YRGhaSldkRjAzSDdJVUZ2WC1nUFZ0cEEtTFpaZmJmVkN5cmpqb0F6S01YVGhpTGxXQnVkSkxCa29VcmRrZ2x3Y3BicFR0TzV2bzJJV2l5cFBSY1XSAeYBQVVfeXFMT09CQTBkaWVodWg5WXlsWEhkbUxITmx0dXlTTDYwVDlTdUhXN3Z3MVgzWDlxTzl1eHZrMnkwektlU0JWQzRwZ2JJcmZPaklROXJKc3N3VklwVEFpRDdZSVFlZ1N6aGFVRjVJWWpnZ0hvSlBlQ2xIQzZCaV9xcUVtU2tSaUs5dXh6dEEzYW1CRGRmODFvRFBtVUtxQkF2RzdrSzEtNENVQkVfZzVnR1d6Tm1XN2J4X3FsYVNsYUNaUmxUUTZOZ05fX2NqbXJZM1dZS2tnVlFpcU5lYXpCVnY3bV8zRXJOZnc?oc=5)
+### [Boy, 7, has life-saving heart surgery in UK first - The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
 
-2026-06-17 <span class="news-indication-tag">ictus</span>
+2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
 
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTZjcXB1SlN4VjN6Ukw1c3N0eEhuZ2lzOGphZDlFaG5zMnJDTm5kc0pwSlJkdW5DTGNPQVRSVW5Fa1RqNmsxa081a2cxclFHSmN0S1FjdVJQQmRvRjNDRDZhOUVjVGJlcGprTHpzYzNvU1JacnVCbUh6OTVYTWFsOEg2dWhFUm9YRGhaSldkRjAzSDdJVUZ2WC1nUFZ0cEEtTFpaZmJmVkN5cmpqb0F6S01YVGhpTGxXQnVkSkxCa29VcmRrZ2x3Y3BicFR0TzV2bzJJV2l5cFBSY1XSAeYBQVVfeXFMT09CQTBkaWVodWg5WXlsWEhkbUxITmx0dXlTTDYwVDlTdUhXN3Z3MVgzWDlxTzl1eHZrMnkwektlU0JWQzRwZ2JJcmZPaklROXJKc3N3VklwVEFpRDdZSVFlZ1N6aGFVRjVJWWpnZ0hvSlBlQ2xIQzZCaV9xcUVtU2tSaUs5dXh6dEEzYW1CRGRmODFvRFBtVUtxQkF2RzdrSzEtNENVQkVfZzVnR1d6Tm1XN2J4X3FsYVNsYUNaUmxUUTZOZ05fX2NqbXJZM1dZS2tnVlFpcU5lYXpCVnY3bV8zRXJOZnc?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
+
+---
+
+### [Les 2 aliments parfaits en salade quand il fait chaud : ils évitent les pics de tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hypertension</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+---
+
+### [Trastornos mentales graves se asocian con mayor riesgo de demencia e ictus, según estudio - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSVY5ckRiRFFLZHMtR2pRU1p3VmNibUE2a2oxNXZSZVFvcnp0VGp5XzdvbTdDTmVrWG5VSnR6SDNQaXlKV2tIRi1MT1VYV19naXZMOWxwMV9PdlRyRjB2Z25qSmlmSkZEaXVyeXZ6eF9OMnI3X093TjZfaU9GX3JMaWIwRXl5aTBFWEdnT3NZRW5wV2hIMEFQbmJmU2lSejNwR1ZaXy03ZGN5aTF3ZHRRY1F3REV5SFFWTkg4cWZpQkpNS2Nfa0cweUY5TXFoaXN0c0U2V0k1anV4YUVUQXhHZGszUzNjN0hNMF9NYW1uSzlKQ05W0gH6AUFVX3lxTE5KTTI5c1ExTDZnUU93bHBCZlZmSC0xMWEwdVprMHhKd0xJSXZ3cjR5Z0pId3o1LVcxamQ4bFdLdVVHVGZQeWxvN1lnenBwVm1ZbVA4X3k5cHVDX18yMlViQ09lbzlJc0tLcDZuazNpOTJDSVlWTUlHZDQxNktRQVNwTmpFSWN3NEhDSUotNGpTUEdBaE40MFpOU1oxd3MwMUFQWHVpNl9JZnVKMG1tSUVsa2dsU09ZTkVOdFUwdThuNFEzbmthSl9QSG9IR2ZyU3R0QTNYTXZZd0ZlWFFxNk9jcXhOeWxLcGZvX1ltSmVpN3FscmtaeWpsLUE?oc=5)
+
+2026-06-18 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSVY5ckRiRFFLZHMtR2pRU1p3VmNibUE2a2oxNXZSZVFvcnp0VGp5XzdvbTdDTmVrWG5VSnR6SDNQaXlKV2tIRi1MT1VYV19naXZMOWxwMV9PdlRyRjB2Z25qSmlmSkZEaXVyeXZ6eF9OMnI3X093TjZfaU9GX3JMaWIwRXl5aTBFWEdnT3NZRW5wV2hIMEFQbmJmU2lSejNwR1ZaXy03ZGN5aTF3ZHRRY1F3REV5SFFWTkg4cWZpQkpNS2Nfa0cweUY5TXFoaXN0c0U2V0k1anV4YUVUQXhHZGszUzNjN0hNMF9NYW1uSzlKQ05W0gH6AUFVX3lxTE5KTTI5c1ExTDZnUU93bHBCZlZmSC0xMWEwdVprMHhKd0xJSXZ3cjR5Z0pId3o1LVcxamQ4bFdLdVVHVGZQeWxvN1lnenBwVm1ZbVA4X3k5cHVDX18yMlViQ09lbzlJc0tLcDZuazNpOTJDSVlWTUlHZDQxNktRQVNwTmpFSWN3NEhDSUotNGpTUEdBaE40MFpOU1oxd3MwMUFQWHVpNl9JZnVKMG1tSUVsa2dsU09ZTkVOdFUwdThuNFEzbmthSl9QSG9IR2ZyU3R0QTNYTXZZd0ZlWFFxNk9jcXhOeWxLcGZvX1ltSmVpN3FscmtaeWpsLUE?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ permalink: /news/telmisartan/
 2026-06-17 <span class="news-indication-tag">cardiovascular disease</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd6T2pma0tYNGZKQng4S3VUaGZSS3QzRzFoSU01MEZWS1N6WlBGRlhvbEd5TzhRRmwwcVJfdGhMTTZiTWh4N3lHSURiRE16bGlUOHBqd1FzNVdMVGcxTDhwMnZ1QTNJcjVXejAxcUluYWRmWXlFZEdMQjlyYUkwTk9Ya2cxdjNkSXA4?oc=5)
+
+---
+
+### [Your Diet Could Be Missing the Key Ingredient for Heart Protection](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
+
+2026-06-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
 
 ---
 

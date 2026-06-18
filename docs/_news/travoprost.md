@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="Travoprost 有什麼相關新聞？">
-<strong>Travoprost</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Travoprost</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/travoprost/
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Boy, 7, has life-saving heart surgery in UK first - The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
+
+2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
+
+---
 
 ### [Digoxin kann Prognose bei rheumatischer Herzerkrankung verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhEcEpxcWc3dXlGWGtxRWNxQ3NBYnRqcVFFLXQ0NEo2R2xFSzJuV2NjZHh0UXc4bzY1R1c2YU1RTFpNbWNSZmJIcFAxY0l5MjVUNXVJN21RM1A1cWRzMnVJV3hUdDhnWm9hSGs1X2dPS2VtV3hmanVKeEpham1udXkzUGxiYldfWW1vUjRzX2Jlamg3bVktNVBrV1h2b0YyS0xpckhUenNReEpSMG9PcmtSSmRFcnJkZkZYUWRLN3FGMXhiSXhfenRNb1M1QWc?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/travoprost/
 2026-06-17 <span class="news-indication-tag">cardiovascular disease</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd6T2pma0tYNGZKQng4S3VUaGZSS3QzRzFoSU01MEZWS1N6WlBGRlhvbEd5TzhRRmwwcVJfdGhMTTZiTWh4N3lHSURiRE16bGlUOHBqd1FzNVdMVGcxTDhwMnZ1QTNJcjVXejAxcUluYWRmWXlFZEdMQjlyYUkwTk9Ya2cxdjNkSXA4?oc=5)
+
+---
+
+### [Your Diet Could Be Missing the Key Ingredient for Heart Protection](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
+
+2026-06-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
 
 ---
 

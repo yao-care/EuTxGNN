@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Boy, 7, has life-saving heart surgery in UK first - The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
+
+2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
+
+---
+
+### [Les 2 aliments parfaits en salade quand il fait chaud : ils évitent les pics de tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hypertension</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+---
 
 ### [Digoxin kann Prognose bei rheumatischer Herzerkrankung verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhEcEpxcWc3dXlGWGtxRWNxQ3NBYnRqcVFFLXQ0NEo2R2xFSzJuV2NjZHh0UXc4bzY1R1c2YU1RTFpNbWNSZmJIcFAxY0l5MjVUNXVJN21RM1A1cWRzMnVJV3hUdDhnWm9hSGs1X2dPS2VtV3hmanVKeEpham1udXkzUGxiYldfWW1vUjRzX2Jlamg3bVktNVBrV1h2b0YyS0xpckhUenNReEpSMG9PcmtSSmRFcnJkZkZYUWRLN3FGMXhiSXhfenRNb1M1QWc?oc=5)
 
@@ -75,6 +91,14 @@ permalink: /news/dacomitinib-monohydrate/
 2026-06-17 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
+
+---
+
+### [Your Diet Could Be Missing the Key Ingredient for Heart Protection](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
+
+2026-06-16 <span class="news-indication-tag">heart disease</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGhBTU1pTDZDbUZhQVlzeWMtTE9xUEFRdUJXRTBkc2pLSnE2VGFZQ0RxUFBUbmpGWG9ndTJpUjVqT0tRTERmczdLRkVIVGEwQlpNNjRjNnJjWDdFakNSLWpYSkY0dURwc2hBdTZhZUNUelhmdzJhX290Y2dieDFSLVFsem9GOXpxX1VyeHZBQXBSSnhsRm1n?oc=5)
 
 ---
 

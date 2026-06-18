@@ -54,6 +54,30 @@ permalink: /news/vedolizumab/
 
 ## 相關新聞（7 則）
 
+### [Uni Zürich: Neuartige Medikamente könnten bei Diabetes Gefässe schützen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFRIQU9MNVpCY1AwT3pzTVA4eGQ2dGJER1RCbzBIclRBeDFwRjlOOVc1Qksya3k4dFN2ZXNHVzM2MjJBTGRub3J5M0Q5MnBHc1FiOHFkNDVhUTZ1Y1B5VHBCU0VqZUo4N1MweEpZS2hJUXZ2aWNRcDViSlBGanRpVVM2b3VCZlFWQ280MFFiQkxNTVN4WGtfOWdYQ1ZscnNaaHVGajBIRDE2XzJ3bWVSMTRJdjZSbXNMd21sUVN1ZEI?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[Watson](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFRIQU9MNVpCY1AwT3pzTVA4eGQ2dGJER1RCbzBIclRBeDFwRjlOOVc1Qksya3k4dFN2ZXNHVzM2MjJBTGRub3J5M0Q5MnBHc1FiOHFkNDVhUTZ1Y1B5VHBCU0VqZUo4N1MweEpZS2hJUXZ2aWNRcDViSlBGanRpVVM2b3VCZlFWQ280MFFiQkxNTVN4WGtfOWdYQ1ZscnNaaHVGajBIRDE2XzJ3bWVSMTRJdjZSbXNMd21sUVN1ZEI?oc=5)
+
+---
+
+### [Viszerales Fett, Insulin und HRT: Neue Mess- und Therapiepfade zwischen iOS-Tracking und Studienlage - it boltwise](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTBYUWs3STJRa3MxcWdnN1YzSjREVDZJYXhEVHFBNzlmOWxLSTZ2RHVLb1pvY0h0bnhhWVliR293QUFXWEc5Zk1UMnRlMXlqTFVxbC1YdFpQSzBJVWU2azE0a1c1ZVIxZ01fQ1BKTGFNV1ZYVExrZUVwamdoMWZ5U0JDZWhQSDZ5UTd6UmhxenpKZU9oSWRWRzA3c2tjOUh4U1Z5eExLLUt6aWxXUWxOWWs4QkprcFJubloyMU84NXprZGRGX2Yzdg?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTBYUWs3STJRa3MxcWdnN1YzSjREVDZJYXhEVHFBNzlmOWxLSTZ2RHVLb1pvY0h0bnhhWVliR293QUFXWEc5Zk1UMnRlMXlqTFVxbC1YdFpQSzBJVWU2azE0a1c1ZVIxZ01fQ1BKTGFNV1ZYVExrZUVwamdoMWZ5U0JDZWhQSDZ5UTd6UmhxenpKZU9oSWRWRzA3c2tjOUh4U1Z5eExLLUt6aWxXUWxOWWs4QkprcFJubloyMU84NXprZGRGX2Yzdg?oc=5)
+
+---
+
+### [Ein Patient mit COPD - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkN1TVdZZEx2SjBxRDNvSmRlS3BETGFEVXFYUEh6Q3A2cjAxX0gzMFprWVVjcTFZYkw1OHdtU1ZmdVdLRlczeEQyVnB1eVdzS1lyTlRUYlR3M2MyTmFKUDdxSFdJM2RDNTktbnFaV05ncXRaUm5ZeUt6SWtrSGgtaDdzWk9NVUxyQ0JVZDM1MmR3Zw?oc=5)
+
+2026-06-17 <span class="news-indication-tag">copd</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkN1TVdZZEx2SjBxRDNvSmRlS3BETGFEVXFYUEh6Q3A2cjAxX0gzMFprWVVjcTFZYkw1OHdtU1ZmdVdLRlczeEQyVnB1eVdzS1lyTlRUYlR3M2MyTmFKUDdxSFdJM2RDNTktbnFaV05ncXRaUm5ZeUt6SWtrSGgtaDdzWk9NVUxyQ0JVZDM1MmR3Zw?oc=5)
+
+---
+
 ### [Blutzucker-Kontrolle: 58% weniger Herztod-Risiko bei Normalisierung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
 
 2026-06-17 <span class="news-indication-tag">diabetes</span>
@@ -70,43 +94,19 @@ permalink: /news/vedolizumab/
 
 ---
 
+### [Tumore al pancreas e alcol, studio canadese: “Ogni 10 grammi al giorno associati a un aumento del rischio”](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
+
+2026-06-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
+
+---
+
 ### [Sardinen gegen Diabetes: 200g wöchentlich senken Hochrisiko um 64% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
 
 2026-06-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
-
----
-
-### [Northumbria University given £1.3m for diabetes care trial](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMRnpEZVByX1VQYVZvY2NTT090X0M4dVRnUDU5NXd5MVFVaGtyMnE1akdETE5WRkRjeVhHSHdXMXdLNFlROXZIV2dYeXgtTmV3YVI3b2dWV2MwcEhO?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMRnpEZVByX1VQYVZvY2NTT090X0M4dVRnUDU5NXd5MVFVaGtyMnE1akdETE5WRkRjeVhHSHdXMXdLNFlROXZIV2dYeXgtTmV3YVI3b2dWV2MwcEhO?oc=5)
-
----
-
-### [Retatrutide, the newest weight-loss drug, helped people lose 30% of body weight, on par with weight-loss surgery](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
-
-2026-06-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[UCHealth](https://news.google.com/rss/articles/CBMia0FVX3lxTE0wOW5qV3QxOXZZLWJ5c1JMTGNsN1FpZ1VBSHkxWlBiMzA3Mk0zR0l2ZHdlTUhab0pjYVlUdzVkM040Smg4TTlGYlVLelo3SllzR1VPdzJPTUxhUmdjYTcwMHdSTHRGZjh2Qko4?oc=5)
-
----
-
-### [Diabete in Puglia: stop alle doppie visite e accesso più facile ai sensori glicemici](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUFxRldfOXJvQXJ6akV3Q09FcWcxdW5sZ0JCaEFiZnR5VWI4am5NNlZZTmgwVmR3OHZvN3ZRbjNiR0d1ZnptM3lzckJ0UEplRkhZV3JrNlJlcEYwbVRxcGJYSnZBREJlalIxU2V2U2FmazhPc3IxQ1hpQTF3Yy0wZ1p5VVZzOEtNM2paaXBJcjdIUE5kd19WRmpWbVlkaVhud1VkdnZ3?oc=5)
-
-2026-06-16 <span class="news-indication-tag">diabetic</span>
-
-來源：[BrindisiReport](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUFxRldfOXJvQXJ6akV3Q09FcWcxdW5sZ0JCaEFiZnR5VWI4am5NNlZZTmgwVmR3OHZvN3ZRbjNiR0d1ZnptM3lzckJ0UEplRkhZV3JrNlJlcEYwbVRxcGJYSnZBREJlalIxU2V2U2FmazhPc3IxQ1hpQTF3Yy0wZ1p5VVZzOEtNM2paaXBJcjdIUE5kd19WRmpWbVlkaVhud1VkdnZ3?oc=5)
-
----
-
-### [BALD ANMELDESCHLUSS: Nächster Online Diabetes-Kids Elterntreff am Donnerstag den 18. Jun.](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
-
-2026-06-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1vYV9hZm90anRpdC1KTkIwcVRFdWJ6QW5IV0x2OTVwV2lIdl9ZU2JnM1NrOUZZX2tjbWFJUW9KOF9QRXprQy1GR0RiUGhPSUR2Sm1WbERIMDBsQkVWbDZsdzMwWnBiZGNhdWhLQkVEb3JNVzVUS25NVFhscThqdnFsNXoxZlA0anFkS3oxZnlUYnU1MzBtbzd2YUNLWGFWVlNab1lzWEZpSG5JLXpSTlpXSkZDd3JQ?oc=5)
 
 ---
 

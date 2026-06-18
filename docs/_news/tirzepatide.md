@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
 
 2026-06-17 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
-
----
-
-### [Remboursés par la Sécurité sociale, les traitements anti-obésité Wegovy et Mounjaro ne sont plus réservés aux plus riches](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0dPdDM0djQ0OF9zeVZTZ3RqOTEwRFM1NjdkLUd3WmZVdy0tajk5aXBtRmlUSkV3RjhUN3ZkME5lY3V0RjhIdld4QTFmZklVWXUwSVN5Zi1iZWlGSzBqazNOdTU1b083WVF2RnV3Vmtaem16U05WczMxdm9DZ2NPWkZud3RkNVRObG5CVUhSNWR6T2ZVT2V1cmJYMUJiY1N5bjc3NDJEWUFwZUFTamxtakN0X2hGSzZNb1VRSFdOSTVxRkZIVW1qbG90dkZQdVhTRmVyS09rTzlrMWRYd0lvOE5qem1nZGtnR2RhbVF2c2diT2hObXlB?oc=5)
-
-2026-06-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[L'Humanité](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd0dPdDM0djQ0OF9zeVZTZ3RqOTEwRFM1NjdkLUd3WmZVdy0tajk5aXBtRmlUSkV3RjhUN3ZkME5lY3V0RjhIdld4QTFmZklVWXUwSVN5Zi1iZWlGSzBqazNOdTU1b083WVF2RnV3Vmtaem16U05WczMxdm9DZ2NPWkZud3RkNVRObG5CVUhSNWR6T2ZVT2V1cmJYMUJiY1N5bjc3NDJEWUFwZUFTamxtakN0X2hGSzZNb1VRSFdOSTVxRkZIVW1qbG90dkZQdVhTRmVyS09rTzlrMWRYd0lvOE5qem1nZGtnR2RhbVF2c2diT2hObXlB?oc=5)
 
 ---
 

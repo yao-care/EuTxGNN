@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [As a neuroscientist, these are my daily habits to ward off dementia - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWdwYk04Qks2RElGZDFfNVU3ZUQ2SnYzMjlpaHpnWFB3RUNLQkF6YXRTeG4yS0V0RzZBNzVuNkkxaU4wTFVTSndkb2hhVUI0WkNaVVN5bHZVZXBPRWdRZ3RueTN0eFZjME5IWkxINWZrQUhtanAtUzZtLTNQSThiNDZuUW82Nkw0dmoxVjN0UlZOZFJvMVEwaktON21kamxtaThEVnN1XzhMbzdlTXBGdUFDTmQxQQ?oc=5)
+### [Le cerveau n'est touché qu'à la fin : voici le véritable point de départ de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTAzZ2pqQm03WVZiWG9XTFJpODRONmE2ZHlOZG5IcktVMWRJaHlqM3ZwZEhPVHpZQWZ4NlE1VjduclBTX1JMSmNIVURtdERqbW1CUExPcXdPY1ZRNllWNUhaTmJJaXNoUG54dGc0eDF6dmttcmtyc2QwR0JKdHduMzBLLXNDcFA1X0ktd2hnWkIzLW1DWU8zZ3l4N2RibkN5V1ZTcDRaX3lzLTBJcjU2MUVNYXN3a2Rw?oc=5)
 
-2026-06-16
+2026-06-18
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWdwYk04Qks2RElGZDFfNVU3ZUQ2SnYzMjlpaHpnWFB3RUNLQkF6YXRTeG4yS0V0RzZBNzVuNkkxaU4wTFVTSndkb2hhVUI0WkNaVVN5bHZVZXBPRWdRZ3RueTN0eFZjME5IWkxINWZrQUhtanAtUzZtLTNQSThiNDZuUW82Nkw0dmoxVjN0UlZOZFJvMVEwaktON21kamxtaThEVnN1XzhMbzdlTXBGdUFDTmQxQQ?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTAzZ2pqQm03WVZiWG9XTFJpODRONmE2ZHlOZG5IcktVMWRJaHlqM3ZwZEhPVHpZQWZ4NlE1VjduclBTX1JMSmNIVURtdERqbW1CUExPcXdPY1ZRNllWNUhaTmJJaXNoUG54dGc0eDF6dmttcmtyc2QwR0JKdHduMzBLLXNDcFA1X0ktd2hnWkIzLW1DWU8zZ3l4N2RibkN5V1ZTcDRaX3lzLTBJcjU2MUVNYXN3a2Rw?oc=5)
+
+---
+
+### [Breakthrough jab could ‘reverse ageing’ and help fight cancer and dementia - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
+
+2026-06-17
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
 
 ---
 

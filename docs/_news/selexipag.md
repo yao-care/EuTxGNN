@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="Selexipag 有什麼相關新聞？">
-<strong>Selexipag</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selexipag</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/selexipag/
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Les 2 aliments parfaits en salade quand il fait chaud : ils évitent les pics de tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hypertension</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
+
+---
 
 ### [Soia e legumi combattono l'ipertensione, ma quanti ne servono? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdE53RWdoeklyQ2VoeVJlSTN0SzdFUUlvNURLQWE1XzNSa0J0c2hkeHJKU3FOSUw3SHNrMkl5ZWNza1dSbFZQY3VjTl9GVHBsODZfdzdHM19EUFdXYVZheEtYOEUzelRNTHo4N2t4SVRuTGNPU0NTWS1vNFhuNHM3aHdsOFZJbkpoc2duNzREajg5d3BScXljN3dFVWNxQVBabklCYW5EZ1I4V3g2T3ZuRjlSLXdoYUhoeWpsdE5mMnUxRWxBUnV4M0xaT0JqQkdIcmNEQ1RyTDhJNkd4enZkbUltY9IBxAFBVV95cUxQdkJZdG4zZTFEU3NPOEpfRFI2dFFZRkJLMkFxS3RveDJlazJrUk5tcm5fUTNjdHFyTEJLWmNfYmJmUWpRQ2o1VVlMOTdGRUhNUUFjSmt0ZVdycnBDZXpZazRoeDhSWW1jS1lrT0p1dnRPUEJlbUJqR0FZN3lKVVpqWXlPVDNBY0o1ck9CTWg0SmsxQTN4cXFiQ0U1bTEzYmZ3WDJPOTRfV255VEpfejYzcmlGRnV3YzNvSVVJZzk0Zy1Ha3JO?oc=5)
 
