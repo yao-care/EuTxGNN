@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [Blutzucker-Kontrolle: 58% weniger Herztod-Risiko bei Normalisierung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
+
+---
 
 ### [Digoxin kann Prognose bei rheumatischer Herzerkrankung verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhEcEpxcWc3dXlGWGtxRWNxQ3NBYnRqcVFFLXQ0NEo2R2xFSzJuV2NjZHh0UXc4bzY1R1c2YU1RTFpNbWNSZmJIcFAxY0l5MjVUNXVJN21RM1A1cWRzMnVJV3hUdDhnWm9hSGs1X2dPS2VtV3hmanVKeEpham1udXkzUGxiYldfWW1vUjRzX2Jlamg3bVktNVBrV1h2b0YyS0xpckhUenNReEpSMG9PcmtSSmRFcnJkZkZYUWRLN3FGMXhiSXhfenRNb1M1QWc?oc=5)
 
 2026-06-17 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhEcEpxcWc3dXlGWGtxRWNxQ3NBYnRqcVFFLXQ0NEo2R2xFSzJuV2NjZHh0UXc4bzY1R1c2YU1RTFpNbWNSZmJIcFAxY0l5MjVUNXVJN21RM1A1cWRzMnVJV3hUdDhnWm9hSGs1X2dPS2VtV3hmanVKeEpham1udXkzUGxiYldfWW1vUjRzX2Jlamg3bVktNVBrV1h2b0YyS0xpckhUenNReEpSMG9PcmtSSmRFcnJkZkZYUWRLN3FGMXhiSXhfenRNb1M1QWc?oc=5)
-
----
-
-### [Prädiabetes: Frühe Normalisierung senkt Herztod-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
 
 ---
 
@@ -112,7 +112,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ### [Diabete in Puglia: stop alle doppie visite e accesso più facile ai sensori glicemici](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUFxRldfOXJvQXJ6akV3Q09FcWcxdW5sZ0JCaEFiZnR5VWI4am5NNlZZTmgwVmR3OHZvN3ZRbjNiR0d1ZnptM3lzckJ0UEplRkhZV3JrNlJlcEYwbVRxcGJYSnZBREJlalIxU2V2U2FmazhPc3IxQ1hpQTF3Yy0wZ1p5VVZzOEtNM2paaXBJcjdIUE5kd19WRmpWbVlkaVhud1VkdnZ3?oc=5)
 
-2026-06-16 <span class="news-indication-tag">diabete</span>
+2026-06-16 <span class="news-indication-tag">diabetic</span>
 
 來源：[BrindisiReport](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUFxRldfOXJvQXJ6akV3Q09FcWcxdW5sZ0JCaEFiZnR5VWI4am5NNlZZTmgwVmR3OHZvN3ZRbjNiR0d1ZnptM3lzckJ0UEplRkhZV3JrNlJlcEYwbVRxcGJYSnZBREJlalIxU2V2U2FmazhPc3IxQ1hpQTF3Yy0wZ1p5VVZzOEtNM2paaXBJcjdIUE5kd19WRmpWbVlkaVhud1VkdnZ3?oc=5)
 
@@ -123,14 +123,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-06-16 <span class="news-indication-tag">heart disease</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qajRQWmw3dTBhTGUxbDRlaXgwOTVKYTFOck1UOEhfRG9OcEFlSURVdEZERHRlQmI3eDgxRGlHa2JlQk1WSUdNZFloa2lZNjZUVW52ek9ZTC12cGM0elRDY2tMcVJnczV5eFF4eF9fOWdGZms0bTdScTVhbDlfVXM?oc=5)
-
----
-
-### [Diabetes-Risiko: Sanitas-Studie zeigt massive Fehleinschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
 
 ---
 

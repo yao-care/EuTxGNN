@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Inesperado efecto de los fármacos tipo Ozempic en la fertilidad masculina - Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Migräne schützt das Gehirn vor Demenz Große Studie widerlegt, was viele Ärzte bisher glaubten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblZDOXlVcG1heUZJVnR5LWdCOUJwMnVybV96X0hFcU43NlBNajRYclkyUTgtNl9jVlhaRWxyMTN1RDhpZXB3dXNVbnRRZEVpOFhSRGVGemRzZWxSUUYzNE9DZHhlSFFNRkxmbzhEM29lWXhWQnlVbXAzWFJWYkEzektTa3V2MllMejBGM3hNNVdEUzBKTXZJcFI3VWNqeUFncGwyVXpGek9hdWliZ2NiemRxSmFRR3NsNUloQnBVU3lMR21QX040N08wSDVtVi1W?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Diabetes-Risiko: Sanitas-Studie zeigt massive Fehleinschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
+### [Ozempic parece el medicamento mágico: los GLP-1 también están haciendo algo contra la crisis demográfica](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3BLOGtEZlFZdmozd2FQbnNSQS1ld3pmUHdZVk9ZUHQwMG5udHlPaFVEdUo3LTJQYVNubnM2NW1YdGZmQ25KaGpBSmNuSEhUNDQwTDF6UVNmTFZCU0FpX01tQk9WRDZIUzlOV0h3QXY5OTdBb3pVbjJnQmg3QV9rYURSU2s4a3JFeDhpNGJkTkhWVG1WY2d4QVVxSEFyLVNKcFFneFFIT0hFUnNlajJxbzBIMXI4a05kcFV1Wmpxa9IBxAFBVV95cUxQTEctbFV3VzV1a1ZGSlF5RlE3WHpRd1pRQ0RmTmxvUTd2aFhQRjBzOGtVUGcySFlsN1hST194ckp6dmN2Q2UzWUh5T19jSjF1by0wc0hmWk9nR2p6SF8yU1lSSVV5OFJOc3FEWVp2XzFSRWJtM0NfNTZhWW02R084Wmh0aHFCVHVRYkpLUnpDMGdJTGVXSFFKVWF4a0hpY3lCV2wyNkZES2tvbEhqREFsYVhVOVAzRW5YVExaM1pFRmVyUmxn?oc=5)
 
-2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
+來源：[Trendencias](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3BLOGtEZlFZdmozd2FQbnNSQS1ld3pmUHdZVk9ZUHQwMG5udHlPaFVEdUo3LTJQYVNubnM2NW1YdGZmQ25KaGpBSmNuSEhUNDQwTDF6UVNmTFZCU0FpX01tQk9WRDZIUzlOV0h3QXY5OTdBb3pVbjJnQmg3QV9rYURSU2s4a3JFeDhpNGJkTkhWVG1WY2d4QVVxSEFyLVNKcFFneFFIT0hFUnNlajJxbzBIMXI4a05kcFV1Wmpxa9IBxAFBVV95cUxQTEctbFV3VzV1a1ZGSlF5RlE3WHpRd1pRQ0RmTmxvUTd2aFhQRjBzOGtVUGcySFlsN1hST194ckp6dmN2Q2UzWUh5T19jSjF1by0wc0hmWk9nR2p6SF8yU1lSSVV5OFJOc3FEWVp2XzFSRWJtM0NfNTZhWW02R084Wmh0aHFCVHVRYkpLUnpDMGdJTGVXSFFKVWF4a0hpY3lCV2wyNkZES2tvbEhqREFsYVhVOVAzRW5YVExaM1pFRmVyUmxn?oc=5)
 
 ---
 

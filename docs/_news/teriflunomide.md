@@ -54,6 +54,14 @@ permalink: /news/teriflunomide/
 
 ## 相關新聞（4 則）
 
+### [Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
+
+2026-06-17 <span class="news-indication-tag">MS</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
+
+---
+
 ### [A 2025 NYU study found that women who actively worry about aging — particularly those who fear future health problems — measurably age faster at the cellular level than those who do not, in a quiet finding that suggests how a person thinks about getting ol - Space Daily](https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ2luUzFpTV8xWngzSlB0SDJ4dk4tTmhGWHh1Z21aMlcyQXZZUGRILWwzVWVERExPYUFNREFmN1NXZEkwMFhvc0s3bzEwd3V4NEhISmZZeEdfN21ORWhrUU04SnVDazNpckRiTDFWVjd2RmZ0eHQzcWxMYnNwcklDZ0tNSnpCWkdVUGRrN3lYNlBzR3MyYzBqVFNmZ2Z3bzFjZWxYZmx1NlZlQjJrVGt0UHh4NWREZ1o3WmZXb3cxVDRhWVZlbmROWm1wanlBVlZwZWVFWDBBcWd6MTNGR3l4QVgzb3pKdWtvLUVULXJpQURGNmE3U0EtOWMxY3lqWEVKNHB3YjZzaTNJSWJNRDVMLTRiU3JqOVRSdDhfZG1pa0FYXzBTZkFKVTg4YjJZOWc?oc=5)
 
 2026-06-16 <span class="news-indication-tag">MS</span>
@@ -62,19 +70,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Magic Mushrooms And Alzheimer's: One Remarkable Case Raises New Questions](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
-
-2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
-
----
-
-### [Frühstücksfehler: Wer das morgens macht, nimmt schneller zu – laut Expertin - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1l2WEUtaDhfcXJkTDZ6V2NuLS1PaWU3VlBIaUNTNGNCRkxHVDN4a0FoSktUV2NRRnZQYW1yYnZGRGtWSHJiUVhTN240RVZSYlVROE9HZ2ZwN2dzZGR1eTJrTUg2WTVrSjBOeVRaV2lnWTVmbkZkRGJ1ZnhWX1NPMHBFaGRWc3p2SElkS2hpOVB6bEJ2TVZUZThTdkxiYms2ejlYc1VKbjVUbjg2eDdCQw?oc=5)
+### [Frühstück: Warum Fruchtzucker Blutzucker und Heißhunger antreibt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRqa3RPdHozMXBTTDB6UDRZOFBaWFlEZ1RaN0J5aS1jZ2l1SjI1R3hwTmgtZFY4b3FjVEtqS1pyN2RadHNZM1NmUVRBUDlpcFM4ZUtmLW1TVm9RS2ttMkU2ek1KazlwYUd4UUpUbk1peUp2X0FxLV9pV2gtd2dNcmpHOTlzTk4tVHJUUEM4eTJfMUVpTl9oeDVLT1psVWdtN0hvRmhRMUcyQmdiemVBdDQ3SDZuZw?oc=5)
 
 2026-06-16 <span class="news-indication-tag">MS</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1l2WEUtaDhfcXJkTDZ6V2NuLS1PaWU3VlBIaUNTNGNCRkxHVDN4a0FoSktUV2NRRnZQYW1yYnZGRGtWSHJiUVhTN240RVZSYlVROE9HZ2ZwN2dzZGR1eTJrTUg2WTVrSjBOeVRaV2lnWTVmbkZkRGJ1ZnhWX1NPMHBFaGRWc3p2SElkS2hpOVB6bEJ2TVZUZThTdkxiYms2ejlYc1VKbjVUbjg2eDdCQw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRqa3RPdHozMXBTTDB6UDRZOFBaWFlEZ1RaN0J5aS1jZ2l1SjI1R3hwTmgtZFY4b3FjVEtqS1pyN2RadHNZM1NmUVRBUDlpcFM4ZUtmLW1TVm9RS2ttMkU2ek1KazlwYUd4UUpUbk1peUp2X0FxLV9pV2gtd2dNcmpHOTlzTk4tVHJUUEM4eTJfMUVpTl9oeDVLT1psVWdtN0hvRmhRMUcyQmdiemVBdDQ3SDZuZw?oc=5)
 
 ---
 

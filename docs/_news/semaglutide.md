@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
-### [Inesperado efecto de los fármacos tipo Ozempic en la fertilidad masculina - Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZ6dVVkbmxWMVJ6MnlFWjdaZXIxWkdxNXdURnVpZVprUVRTazhSb1p5amp0d2ZJV2lTNzBISUpwM1BoSmZ5WXFLakl1b0ktSmpVc0tfUFlnZFppeTlmZDRKelRmLTBkYnoyOTZBYkV3SV9FWThrWHM0dlA2X3hqMFJrczRvY085SjlaTERwQlBRYkFhUlFfbWRpRXJPSFlLcDdSdXlCUktkQ2xmQVRDV3RZQy1nY2ZybFBfSTIybzJVLWRiWWZYUDF2VFJJYVpqSFJ30gHTAUFVX3lxTE5ESHFmd050SHpiYWsxLUdCeHZGcnhhVUVaSnA3X0JyQXNQemRMeUpXU1dOc0lFeDR6cnNUWkI0WHdxSHVBY0VyUGM3RHZOdy1hRWtHWWh2OHB2Sm5oR1cxcGo1Z0pidlZCWEVZOEJFT0xQODB2NEVkRkEtYnlZeUx2YmdNZC1nYTduRDczU1NVZllOeHc3VVpJWHYxaHNxM2FDSVo3cENTRmduUUNFM3NnRTBFLVEtSTV2bC1CR0Y1ZWtmNDZfMWZVdDlRN0xrcHFyazg?oc=5)
-
----
-
-### [Prädiabetes: Frühe Normalisierung senkt Herztod-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+### [Blutzucker-Kontrolle: 58% weniger Herztod-Risiko bei Normalisierung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
 
 2026-06-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEN1Yy1VcTMyV1pPZVFwRmJkM0JUWTJXVDBmbGhqb1FGUVFQMXhHbVBPNGg3R2l2NTUwcEJ4OGJCLW5tQ2VWUFpwUVIwMVFiRzFxZ1loYUUtUWJRdHVhUURrODZiMi01NEN1LVY4eG9BekVRN2Rncy1xOF9ROUI5aUtSTF85YXVReFJaeHAwLWY2Z2FXTnlPZlkyQWJaYXpGdFA3Y2Fnbzl5ZzVpOUtIVUFUWWIzSVhEa1E?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRkZkVlbW5FN3dCeVBSbC1za2NxdFBtSE9fZkowaDBLZ2o2Y1d4N0sweXRFMXRuWGF0a0NkbE9fM29ZRHZSUzYtNG9MaHkzT3pjTGVUa0loQy16QmVQVWtZSGtCMGtOb3o5T1FEb1VRTUJmQnZXWlIwZnhpaTlmMlJoeE5kQ0I3Y1RrNldZZ1JJRGFZd0ZnWG11V01wTTdDeDdoMVdyUHpWazA?oc=5)
+
+---
+
+### [Ozempic parece el medicamento mágico: los GLP-1 también están haciendo algo contra la crisis demográfica](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3BLOGtEZlFZdmozd2FQbnNSQS1ld3pmUHdZVk9ZUHQwMG5udHlPaFVEdUo3LTJQYVNubnM2NW1YdGZmQ25KaGpBSmNuSEhUNDQwTDF6UVNmTFZCU0FpX01tQk9WRDZIUzlOV0h3QXY5OTdBb3pVbjJnQmg3QV9rYURSU2s4a3JFeDhpNGJkTkhWVG1WY2d4QVVxSEFyLVNKcFFneFFIT0hFUnNlajJxbzBIMXI4a05kcFV1Wmpxa9IBxAFBVV95cUxQTEctbFV3VzV1a1ZGSlF5RlE3WHpRd1pRQ0RmTmxvUTd2aFhQRjBzOGtVUGcySFlsN1hST194ckp6dmN2Q2UzWUh5T19jSjF1by0wc0hmWk9nR2p6SF8yU1lSSVV5OFJOc3FEWVp2XzFSRWJtM0NfNTZhWW02R084Wmh0aHFCVHVRYkpLUnpDMGdJTGVXSFFKVWF4a0hpY3lCV2wyNkZES2tvbEhqREFsYVhVOVAzRW5YVExaM1pFRmVyUmxn?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Trendencias](https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3BLOGtEZlFZdmozd2FQbnNSQS1ld3pmUHdZVk9ZUHQwMG5udHlPaFVEdUo3LTJQYVNubnM2NW1YdGZmQ25KaGpBSmNuSEhUNDQwTDF6UVNmTFZCU0FpX01tQk9WRDZIUzlOV0h3QXY5OTdBb3pVbjJnQmg3QV9rYURSU2s4a3JFeDhpNGJkTkhWVG1WY2d4QVVxSEFyLVNKcFFneFFIT0hFUnNlajJxbzBIMXI4a05kcFV1Wmpxa9IBxAFBVV95cUxQTEctbFV3VzV1a1ZGSlF5RlE3WHpRd1pRQ0RmTmxvUTd2aFhQRjBzOGtVUGcySFlsN1hST194ckp6dmN2Q2UzWUh5T19jSjF1by0wc0hmWk9nR2p6SF8yU1lSSVV5OFJOc3FEWVp2XzFSRWJtM0NfNTZhWW02R084Wmh0aHFCVHVRYkpLUnpDMGdJTGVXSFFKVWF4a0hpY3lCV2wyNkZES2tvbEhqREFsYVhVOVAzRW5YVExaM1pFRmVyUmxn?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/semaglutide/
 2026-06-17 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2x4a0ZFNndobU5tejdtTm1lSTBwVFBRRXUyaktfZnh5NWp2c3JuQ1l4Zjl3aW16Z1FheUxIeVY5djJQbHNmWW5peVAtWFhEMVZIRlF0d04xTUt4NEVmV3UzU2hQQ01KVjUtN2RxQzRHOThjZkltTzFMYnZOSHhKa2Z6NTM1TGVsLUY2NWxkcGVPTDdpSTZCcjZhSXZmUTc5YTRqWFJFNzhnTjNkMDhNMFY4RUhIWGNVbjdsOHNIX2RyY2dBTnpiVzR3aTNudlVIeW1aU3U3Ukl5T1nSAeABQVVfeXFMTU5rbHliS2ZpNl9yeko1UEM2a0JIZlR0a3VaTDVjMHloTE1GeFFXaHBWaFN1dmkxWHdkS2NrdmxlRjZ3ZXdqVnhzTk5zQWk0NWJVdHhzbjE1TjVPTHRLd1JkbVBTLWZ6dHVhblJaRGxxOHJDYloxOHdpQ3RyMkJWYmYtb2VzazB5U24wMVZpUE5ndUdYandwbThvUzZPNlJvOVVFaVd1LUNybFN3VVZuR05nZEE5UXgzN2EtU19oNFBLTHJmQlJUbUQ2bTFqaS1pNkxEdXJHY3BpcE9wVFBzRmU?oc=5)
-
----
-
-### [Scientists Find Intriguing Link Between Ozempic and Violent Behavior](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRiUGRxejZuaVVJdjJmWkw3UFY1RVZVOENZdXVKMHEyZ0haX0lFM3diNFU3TEFtb3FteTFoeGRNZmhxNkdFSDNGdkpHOW9hQjBZUjhpX2J4Z1VHSTBYRXp3Ukl2VjZnckNIVVdPZHR6M2dhaUxaRmw1UVRORE1PUDNnX2FpMmxFT0h3M0d3U0FFR1MyUXpHaVJOOXA3cHow?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Gizmodo](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRiUGRxejZuaVVJdjJmWkw3UFY1RVZVOENZdXVKMHEyZ0haX0lFM3diNFU3TEFtb3FteTFoeGRNZmhxNkdFSDNGdkpHOW9hQjBZUjhpX2J4Z1VHSTBYRXp3Ukl2VjZnckNIVVdPZHR6M2dhaUxaRmw1UVRORE1PUDNnX2FpMmxFT0h3M0d3U0FFR1MyUXpHaVJOOXA3cHow?oc=5)
 
 ---
 
@@ -120,17 +112,9 @@ permalink: /news/semaglutide/
 
 ### [Diabete in Puglia: stop alle doppie visite e accesso più facile ai sensori glicemici](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUFxRldfOXJvQXJ6akV3Q09FcWcxdW5sZ0JCaEFiZnR5VWI4am5NNlZZTmgwVmR3OHZvN3ZRbjNiR0d1ZnptM3lzckJ0UEplRkhZV3JrNlJlcEYwbVRxcGJYSnZBREJlalIxU2V2U2FmazhPc3IxQ1hpQTF3Yy0wZ1p5VVZzOEtNM2paaXBJcjdIUE5kd19WRmpWbVlkaVhud1VkdnZ3?oc=5)
 
-2026-06-16 <span class="news-indication-tag">diabete</span>
+2026-06-16 <span class="news-indication-tag">diabetic</span>
 
 來源：[BrindisiReport](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUFxRldfOXJvQXJ6akV3Q09FcWcxdW5sZ0JCaEFiZnR5VWI4am5NNlZZTmgwVmR3OHZvN3ZRbjNiR0d1ZnptM3lzckJ0UEplRkhZV3JrNlJlcEYwbVRxcGJYSnZBREJlalIxU2V2U2FmazhPc3IxQ1hpQTF3Yy0wZ1p5VVZzOEtNM2paaXBJcjdIUE5kd19WRmpWbVlkaVhud1VkdnZ3?oc=5)
-
----
-
-### [Diabetes-Risiko: Sanitas-Studie zeigt massive Fehleinschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
 
 ---
 

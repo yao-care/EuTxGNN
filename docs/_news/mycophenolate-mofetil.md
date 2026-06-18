@@ -14,7 +14,7 @@ permalink: /news/mycophenolate-mofetil/
 ---
 
 <p class="key-answer" data-question="Mycophenolate Mofetil 有什麼相關新聞？">
-<strong>Mycophenolate Mofetil</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mycophenolate Mofetil</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/mycophenolate-mofetil/
 <p><a href="{{ '/drugs/mycophenolate-mofetil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（18 則）
+
+### ['I buried my parents one day after the other' - Ebola mourners learn how to grieve safely](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubEpvU1JwV1poWXQtSklvZGE0dl9JNmdSUEFTVDF6UEVuOVc1ZFJXd3FTN2lJcmR0a1d6cTctVk9QV3lzWnl0RWVMRWFyU0hQeTY4LW5ZTVloWmdK?oc=5)
+
+2026-06-17 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubEpvU1JwV1poWXQtSklvZGE0dl9JNmdSUEFTVDF6UEVuOVc1ZFJXd3FTN2lJcmR0a1d6cTctVk9QV3lzWnl0RWVMRWFyU0hQeTY4LW5ZTVloWmdK?oc=5)
+
+---
+
+### [Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
+
+2026-06-17 <span class="news-indication-tag">MS</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
+
+---
+
+### [Nurse struck off for telling cancer patient Covid vaccine caused their illness - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxONktFcHk2eVYybTF5MlJFNGE5emVGUkR4TDUxdnlYVVpIbzd5Mk1QdDRPZTY4X0pLR05mTFZxWGE0UnFYTHFZblZmNER4eWtlclFSYTZkdlJPSExBb1BKamN0VXhFdDRnd2k5OEMzbjJXMmNhNWI5cU1RNDhqZGI3YlFBVENqZXpLbW9oSjFsN3RzR21UeGFaRGU0WXFYaVly?oc=5)
+
+2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxONktFcHk2eVYybTF5MlJFNGE5emVGUkR4TDUxdnlYVVpIbzd5Mk1QdDRPZTY4X0pLR05mTFZxWGE0UnFYTHFZblZmNER4eWtlclFSYTZkdlJPSExBb1BKamN0VXhFdDRnd2k5OEMzbjJXMmNhNWI5cU1RNDhqZGI3YlFBVENqZXpLbW9oSjFsN3RzR21UeGFaRGU0WXFYaVly?oc=5)
+
+---
 
 ### [La continencia no depende solo de "musculatura del suelo pélvico" al mediar también "el sistema nervioso", según experto](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcE1KVTJqSDJvOENMdTlqeVBvSzduWVgybGlTUTE4c0R0Z3phWWJTRDQ4OFM1ZEI1eEkxSmdOQW5iU3d3eVREalY1Qy1ha2tXc0RtMWFQQXliaDNNNFgzQktBS1dRUnVTSExnZlQwNnkxaUxNb3YtcFBtbFlRZDE3eHVZVXpJOGpVTnJIZkZocVJ3S2ZRemwyN1RjUnlsa1FvTGpBenhPaDllYkF4T3NacGVnTlBCczVqQ2EtUElGTUdpSU8zMnJDM3BZUjZRVmVyc2FmSEVaMExOZTRjN1N6amxGdENEQm9uNlExUW5IVWJ5TVpjcHBFZWtfTQ?oc=5)
 
@@ -70,11 +94,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Losing sense of smell ‘as bad as having a stroke’ - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+### [Search for six-year-old Ebola patient after armed men storm DR Congo hospital](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FaElRQzE2UXdzcGxUYWtraGlwc2VOSjdMNVdYbXdWWFgxYUVlRjhoRVExR0tIYVFqNFRWZlktWTdwaUdaQU80MFlaQ2l6VEszTjZwa2pITnQtSm94?oc=5)
 
-2026-06-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
+2026-06-17 <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxQenBzWDhvNUM1X216ZXJqV0VoamZtSXVxbDdGNEF2blVnQkpRV3RMT0o0ZThHeENERnNiNFVacFF0U0Y5UDU1V2c2b2JpR1FjNTZKZ1E4RVZKcTZsVmlKcThhYjVqaHZlVVBoU0N3NVVjZ1lBamNsbUcyMVFmSVFfbGx5M3d2b0xMYmlYNW51NFgtM1BEdkk4?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FaElRQzE2UXdzcGxUYWtraGlwc2VOSjdMNVdYbXdWWFgxYUVlRjhoRVExR0tIYVFqNFRWZlktWTdwaUdaQU80MFlaQ2l6VEszTjZwa2pITnQtSm94?oc=5)
 
 ---
 
@@ -83,14 +107,6 @@ permalink: /news/mycophenolate-mofetil/
 2026-06-17 <span class="news-indication-tag">AF</span>
 
 來源：[The Worcester News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3ViZzdQN3I3V0xHZVdZRlRlaWZSNVV2RTQxV2I5ZFNCX1lmWTB4cDJRbDFhMnlmMkc1akpVd0toaFZzaVFyTzFCQUlZcWN0aGJIMGM2QUtKMGJaUFBmWW9HaUNrY3E4RFFfX1ZGcWhlWlFIVENpN0RoTExCeGxIbTM4dW1VdjN2SndDOU5iUTNIbzRfWm1SVHdUVHU?oc=5)
-
----
-
-### [Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pHLVo1aWNmaURteXhLWGV0Y0ZpYkY0ZER4RmxTRUlZQl84akhGbUpMeXZiNlFfdEtFdHhuZjhvTldXaUprNnBiNlQ3emliQ0dUcVlZcU5vNU1hYWQ1WHQ4VmtiM000Rjd5YTFMNk85Wm5IcWtrNjFyaHZORGJlX3NOOHlMNWM?oc=5)
-
-2026-06-17 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pHLVo1aWNmaURteXhLWGV0Y0ZpYkY0ZER4RmxTRUlZQl84akhGbUpMeXZiNlFfdEtFdHhuZjhvTldXaUprNnBiNlQ3emliQ0dUcVlZcU5vNU1hYWQ1WHQ4VmtiM000Rjd5YTFMNk85Wm5IcWtrNjFyaHZORGJlX3NOOHlMNWM?oc=5)
 
 ---
 
@@ -107,22 +123,6 @@ permalink: /news/mycophenolate-mofetil/
 2026-06-16 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzB2OFFvX0VxYk1LTGxxTnVMNUtyYXlndGJnaDBLanhNa1VZaGdOVDBhV2hHMDRTSElOeW1sNDNfemFoQVVVZ3g4RkxTbWM0TlFkMldTRWVUb3lUMWl3ZnhJaEJaUEg0MlMzVUVsc0p3Y3lHbGxwZW5vdlR0WS1ZQTJGbXp0Q01HMF85bzJQR2YwZzByczg2N2pWN005blZGVlFPY0NWT0FWNjFEX3pF?oc=5)
-
----
-
-### [Vinculan los trastornos mentales graves con un mayor riesgo de demencia e ictus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
-
-2026-06-16 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWI5eXNYWXF4dXd2NUhSck9RV3RFZTNlQkVhdmxYR1lYSjNxWkhzS0FFWFNaRjhoR2pYcU5WZ2VsQ1U4cE5YMEZDN195d3p4T3hQbVd1amNDYXNCd2tuU2FEVzJpZmpCNUtydF9iTEVUM0tYejdhUk5JTmEzM3lKTldDc2MzN2ZDOXVSWjNxZ0VfTU9zWmFPNkVJbGZxX1dvc1FQaTVnc25wV1kyQlBuWm9zYXMySVZuNmVRbnJ6bUIyV3RwMnNsQ3l6QTMwNkxEWmhkTDlmcjgxbmtFWS1DaW50djk?oc=5)
-
----
-
-### [I was infected with killer brain disease spread by TICKS on a run - it felt like aliens were trying to escape my head - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0ZoaUpWMWwzcUN2MTkyYkRzUDNYNGdJcWxqY1h2c1lmOGZVbDI4MVFtYXg3YVJUcFctdWE5QTZFSHpvbU5oSFMwRVNaSDJwRVVqTzRaRWsxLWE0Ykt6am4zRy1CS2NqYjVpR3FnemstOEo0dkh4akVqaENWUVo3MU1KRHU?oc=5)
-
-2026-06-16 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0ZoaUpWMWwzcUN2MTkyYkRzUDNYNGdJcWxqY1h2c1lmOGZVbDI4MVFtYXg3YVJUcFctdWE5QTZFSHpvbU5oSFMwRVNaSDJwRVVqTzRaRWsxLWE0Ykt6am4zRy1CS2NqYjVpR3FnemstOEo0dkh4akVqaENWUVo3MU1KRHU?oc=5)
 
 ---
 
@@ -150,14 +150,6 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Magic Mushrooms And Alzheimer's: One Remarkable Case Raises New Questions](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
-
-2026-06-16 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtzbGxFdWVhUlJVM2kzNHJ6OXNwOFRpSFZEall4MVZjQ0dxSnBMTkhWcmRBalZleEFUc25xQ2N0cmFYUmNoRHgzdFB5cUtiMmtMbUZIT05BaVkwc3Q1YzhoMjdfU0JhWU9vVkpFd3FRUnViNnJSWmZFWUU3NHpLM1Fqd3R5SGVxdzJJU0RfRjBLYV80dURIR2xXclIyLW5hVVE?oc=5)
-
----
-
 ### [ETH-Forschende schalten Schutzmechanismus von Tumorzellen aus](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjkyWEM1MTZwQ2c5S0liMVVnNEtUY0tlcWFraHliMzF0MFByaEt1MFU4WnZ5UnpUU3Y2cDZqcjNLMUFTUHVQNDhtVDdvNkRXYjlkMzgxSDktekVfb1JLbXZtTjRtbnZtMU1oNUJGclNwdTdITzFuRFQ1cHRoUHJBeHhxc21hMkVLRElxRzd3ek5iZXpMU1RsS0JVZ1U4OEp1V3d0TlRDT1hyUQ?oc=5)
 
 2026-06-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -182,6 +174,14 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
+### [Frühstück: Warum Fruchtzucker Blutzucker und Heißhunger antreibt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRqa3RPdHozMXBTTDB6UDRZOFBaWFlEZ1RaN0J5aS1jZ2l1SjI1R3hwTmgtZFY4b3FjVEtqS1pyN2RadHNZM1NmUVRBUDlpcFM4ZUtmLW1TVm9RS2ttMkU2ek1KazlwYUd4UUpUbk1peUp2X0FxLV9pV2gtd2dNcmpHOTlzTk4tVHJUUEM4eTJfMUVpTl9oeDVLT1psVWdtN0hvRmhRMUcyQmdiemVBdDQ3SDZuZw?oc=5)
+
+2026-06-16 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRqa3RPdHozMXBTTDB6UDRZOFBaWFlEZ1RaN0J5aS1jZ2l1SjI1R3hwTmgtZFY4b3FjVEtqS1pyN2RadHNZM1NmUVRBUDlpcFM4ZUtmLW1TVm9RS2ttMkU2ek1KazlwYUd4UUpUbk1peUp2X0FxLV9pV2gtd2dNcmpHOTlzTk4tVHJUUEM4eTJfMUVpTl9oeDVLT1psVWdtN0hvRmhRMUcyQmdiemVBdDQ3SDZuZw?oc=5)
+
+---
+
 ### [Científicos piden que nos preparemos ante lo que está por venir porque afecta a todo el mundo: "No hay ningún lugar seguro" - El Economista](https://news.google.com/rss/articles/CBMilwJBVV95cUxQNW9IbkdTSzgtTEU2WXIxWWM4RFluTWhxWjRqRHZYOThiRnRfNnJnN0wyM1lHblAxREpDUHAxS214cXhlSWgtUi13MnRSUVd4WmhkRFJic1JOdldjUDRtb1J3a01SbWVfbGV2U0JubV96LXRWVk1xeFFiS0VoVkV4NzNranhoVWNoV3NWSkVFQkxTNFlHUGtxY0ZRUVdGNEVQV09GeE03YkVvbFA5NHh2ZTRjenZzcDN2dGtER1lPMUpqcVBsU0k2ams4WHMtNm8tZ3BBNmpWOVRab1poTzRjNnJBZ3FNY2VpRkJubEo1Nm5pcjloVzhtUE4tRGs3eEJKUHZ0QUZYLXhlVXdEQjNBNV8zaU9TNTA?oc=5)
 
 2026-06-16 <span class="news-indication-tag">AF</span>
@@ -190,43 +190,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Frühstücksfehler: Wer das morgens macht, nimmt schneller zu – laut Expertin - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1l2WEUtaDhfcXJkTDZ6V2NuLS1PaWU3VlBIaUNTNGNCRkxHVDN4a0FoSktUV2NRRnZQYW1yYnZGRGtWSHJiUVhTN240RVZSYlVROE9HZ2ZwN2dzZGR1eTJrTUg2WTVrSjBOeVRaV2lnWTVmbkZkRGJ1ZnhWX1NPMHBFaGRWc3p2SElkS2hpOVB6bEJ2TVZUZThTdkxiYms2ejlYc1VKbjVUbjg2eDdCQw?oc=5)
-
-2026-06-16 <span class="news-indication-tag">MS</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1l2WEUtaDhfcXJkTDZ6V2NuLS1PaWU3VlBIaUNTNGNCRkxHVDN4a0FoSktUV2NRRnZQYW1yYnZGRGtWSHJiUVhTN240RVZSYlVROE9HZ2ZwN2dzZGR1eTJrTUg2WTVrSjBOeVRaV2lnWTVmbkZkRGJ1ZnhWX1NPMHBFaGRWc3p2SElkS2hpOVB6bEJ2TVZUZThTdkxiYms2ejlYc1VKbjVUbjg2eDdCQw?oc=5)
-
----
-
 ### [Le danger des vapoteuses : « Une seule vape représente l’équivalent de 300 à 400 cigarettes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
 
 2026-06-16 <span class="news-indication-tag">MS</span>
 
 來源：[Soirmag](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblRtMUJIMGJwbk9fSVZLbDFKdEN0ZlgzNXJEYmhSNnlyd0VBS3o3STY5czhwQjd6cnlkTDF3MDhDeGgyVHhrLUZDRUh4X0EyNTVVX1FhMmpFWkZOQUlwTlltUlRIWm9DRFlrVVBXbTBrNTk1ZEhvRGtmUzhnWXgwdmxLTkZ0NjZEMTVZbWlNRDNCdlpJN1hzblN3SXMtOEdiR0w3QXRLMnFGNDg4M3pxMkhpcnduUHEyQlNrRVNuZUN3Njg?oc=5)
-
----
-
-### [Kollagen ist in unseren Zellen flüssig statt steif - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMingFBVV95cUxNdG5VYXZuLTdKNGFmVHlJbEZJNUJWOE40ZjdNMG4tVTNkbnBUWE5CZUlzVjYyNG90Qk83NmFFblR1RHo3VjdpNGZ6MUx3TTlfbG96U1NLbTQtbkhQSC1qcGczTnMzaEZFRTZWbHJnc1VFVnhWRVpZZkZ3aFp4Rk5Pb2tqZkhpajVvYVpFSVU5N2lzcnN5WW9HSk9tRWFldw?oc=5)
-
-2026-06-16 <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMingFBVV95cUxNdG5VYXZuLTdKNGFmVHlJbEZJNUJWOE40ZjdNMG4tVTNkbnBUWE5CZUlzVjYyNG90Qk83NmFFblR1RHo3VjdpNGZ6MUx3TTlfbG96U1NLbTQtbkhQSC1qcGczTnMzaEZFRTZWbHJnc1VFVnhWRVpZZkZ3aFp4Rk5Pb2tqZkhpajVvYVpFSVU5N2lzcnN5WW9HSk9tRWFldw?oc=5)
-
----
-
-### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
-
-2026-06-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemduU2tKVVBxMzExalpXV0t2cDFBcVhKaU1BVVlnTi1ObDl3Y3FtRnVHWXJpaEtFWi1TaE5FbDhMc0pocFlpZjlTMnBVRDdDRE9PdzNSd3k1dDZ1dW5nN2RmRF95UjN2a3pIblRlRXMtaGNyVW1GTjY5RURXdkRQdWs1WjJkazJHRGxteE9EUDhsLUZ5X0FBbnlkaWdQREFJYzZ3Rm5NaGwyZDRRdFZSRUcycTlZSEJ3ZmI0VGJHdUl4VjB2N1VHQWdqcm5oLTd2aXRhUldZbTBPeUNpWWo2eTFJakZPZFBfM0k4Xw?oc=5)
-
----
-
-### [Diabetes-Risiko: Sanitas-Studie zeigt massive Fehleinschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
-
-2026-06-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFlxTkUzQlJ5Z004RnRlV3NrMEx5dHdrQ2EyZF8zNi1yOG1LUDhncmYzZnloMjlDMmxfMXBETEw3U2hVdnJFQk5NcldEWXBKMW85N25WLVpKa0o2RkhqMEZWSGxzZTNON1lfM2hJQXIya3RzVmJyekpncHBYNGVraExlZVRJSWJvd2dDcV9YeDBuR2dqaUtJQnhjbElZWFNZNnNzQ3BqUDg4eGtRVlVYdA?oc=5)
 
 ---
 
