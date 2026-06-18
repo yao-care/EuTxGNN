@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,11 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Le cerveau n'est touché qu'à la fin : voici le véritable point de départ de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTAzZ2pqQm03WVZiWG9XTFJpODRONmE2ZHlOZG5IcktVMWRJaHlqM3ZwZEhPVHpZQWZ4NlE1VjduclBTX1JMSmNIVURtdERqbW1CUExPcXdPY1ZRNllWNUhaTmJJaXNoUG54dGc0eDF6dmttcmtyc2QwR0JKdHduMzBLLXNDcFA1X0ktd2hnWkIzLW1DWU8zZ3l4N2RibkN5V1ZTcDRaX3lzLTBJcjU2MUVNYXN3a2Rw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTAzZ2pqQm03WVZiWG9XTFJpODRONmE2ZHlOZG5IcktVMWRJaHlqM3ZwZEhPVHpZQWZ4NlE1VjduclBTX1JMSmNIVURtdERqbW1CUExPcXdPY1ZRNllWNUhaTmJJaXNoUG54dGc0eDF6dmttcmtyc2QwR0JKdHduMzBLLXNDcFA1X0ktd2hnWkIzLW1DWU8zZ3l4N2RibkN5V1ZTcDRaX3lzLTBJcjU2MUVNYXN3a2Rw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Breakthrough jab could ‘reverse ageing’ and help fight cancer and dementia - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
 
-2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
 

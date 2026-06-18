@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Wegovy et Mounjaro : quelles pharmacies capteront vraiment le remboursement ? - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY09POGlpaVh1SFdjZXdzYTN0a1ZtVWdKTjRmX1c1dFdXbGFzbTVsQ1Z5VWZCOE5zVFFpX2VYZmlqY0pSNzVVYnBFNUREc3B5UGlBNDVXbEZYUVJQZE9BNnBzV2c3dmxQR2dLZ1BRZTVFZk9HQnpkcWMzeWRKRGRDWE5KRnNqWUFhZFdLdHNZMDcycjcxWXJqSnFFdl9OeGV2bUhTSWtENm1pQUszMDd2WVhUQlQzc25qTFYwUWFkeEhiYWFmZWJzMXNWWTNMaWJZcUE?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY09POGlpaVh1SFdjZXdzYTN0a1ZtVWdKTjRmX1c1dFdXbGFzbTVsQ1Z5VWZCOE5zVFFpX2VYZmlqY0pSNzVVYnBFNUREc3B5UGlBNDVXbEZYUVJQZE9BNnBzV2c3dmxQR2dLZ1BRZTVFZk9HQnpkcWMzeWRKRGRDWE5KRnNqWUFhZFdLdHNZMDcycjcxWXJqSnFFdl9OeGV2bUhTSWtENm1pQUszMDd2WVhUQlQzc25qTFYwUWFkeEhiYWFmZWJzMXNWWTNMaWJZcUE?oc=5)
+
+---
 
 ### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
 

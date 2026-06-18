@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Diabetes erhöht Parkinson-Risiko um 27 Prozent: Metaanalyse warnt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
+
+---
+
+### [El tabaco en mujeres y la diabetes en hombres disparan el riesgo cardiovascular en Castilla y León - El Norte de Castilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkQ1Y3R3QnB2d1E5ZXNDYTdVcW00QVVNWENRa2M0d0puY3hWNENwY2V3blBzQm43RGNCMk9JQWFlekdFeElZc2V3dWI4a0VsVUo5bkxxZTNMMFhxUllzQ3BNVVRfSy05REtUVW5Fc0F2Z2JkRF9HZkQxWE5tMVVYNHM0LTk3Q3J2WEZOd1lpaFgySV9UYjZacVltQi1CeXpRY1ByUnhVbkNpOEtiRG9ZOTdKenVlNVpXZ1NfMGl3SlJSVllTUVZNUXoxcXHSAdIBQVVfeXFMUHBBM2NNajdLSTYwTXpfTTkzSWY5dm1ZZ1BNZllCU1ZkZVhVWk9lT2pNSktDLUs3eDR4akU4Q1psb0t6WHM0VDBaSmNpakoxMVRJQTVaOHkxZkZ1bFJ1cG4xNkQ1dE94a0xjRkQ2ekpTVnV4NjV2ZWJJOENfNjNGSktYaXpxNVBPXzUxWXpEY2ZWeVI5RkVNS1F0R0Nwc3l2aWIwWmtwZFctbG5qSUoxOVdtczJFclFfM3hzUGN1Z0NHaF9pUlRqN1VFT2VnM0p1aWdn?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkQ1Y3R3QnB2d1E5ZXNDYTdVcW00QVVNWENRa2M0d0puY3hWNENwY2V3blBzQm43RGNCMk9JQWFlekdFeElZc2V3dWI4a0VsVUo5bkxxZTNMMFhxUllzQ3BNVVRfSy05REtUVW5Fc0F2Z2JkRF9HZkQxWE5tMVVYNHM0LTk3Q3J2WEZOd1lpaFgySV9UYjZacVltQi1CeXpRY1ByUnhVbkNpOEtiRG9ZOTdKenVlNVpXZ1NfMGl3SlJSVllTUVZNUXoxcXHSAdIBQVVfeXFMUHBBM2NNajdLSTYwTXpfTTkzSWY5dm1ZZ1BNZllCU1ZkZVhVWk9lT2pNSktDLUs3eDR4akU4Q1psb0t6WHM0VDBaSmNpakoxMVRJQTVaOHkxZkZ1bFJ1cG4xNkQ1dE94a0xjRkQ2ekpTVnV4NjV2ZWJJOENfNjNGSktYaXpxNVBPXzUxWXpEY2ZWeVI5RkVNS1F0R0Nwc3l2aWIwWmtwZFctbG5qSUoxOVdtczJFclFfM3hzUGN1Z0NHaF9pUlRqN1VFT2VnM0p1aWdn?oc=5)
+
+---
 
 ### [Neue Perspektive der Prävention: Prädiabetes-Remission könnte Krebsrisiko verringern - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
 
@@ -67,6 +83,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
 來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
+
+---
+
+### [She feared losing a limb — then 67-year-old put her diabetes into remission amazingly - South Wales Argus](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnFUWWVYblMtM0pGZFYzdjVWUlhGdzdDbGkzNjlScVNQOFEyTEVybTR2anlQbnFQYVhkSTFCNEpha0lUaXI5M1RaVDhTZ1NBdFdlTUdyX252YWxIa2dXX2hVVFdDYnpaMHktYWFDaUJXZnZUSXpRd2phSUo1dXR3NGJTUTNTYjlTWThQUTYtTGFBcDJFak5oNjdLWQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[South Wales Argus](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnFUWWVYblMtM0pGZFYzdjVWUlhGdzdDbGkzNjlScVNQOFEyTEVybTR2anlQbnFQYVhkSTFCNEpha0lUaXI5M1RaVDhTZ1NBdFdlTUdyX252YWxIa2dXX2hVVFdDYnpaMHktYWFDaUJXZnZUSXpRd2phSUo1dXR3NGJTUTNTYjlTWThQUTYtTGFBcDJFak5oNjdLWQ?oc=5)
 
 ---
 
@@ -86,17 +110,9 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Fettleber: 10% weniger Bauchfett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXV2aWpTM3lJaW5QZWxmQjc0SnZLU21KTnd0ZjE2b0xReG9Fd2d2N1dGZmkwaDRTeUpITFNfZGthV2tBT09PWVJ5eHM1MW5fUWh3VG9rQnE3a3Z2RUQzX09UXzBVM2R0dS0xc1lPT1kyQXl6QXNtY3N4ZnpqRTUzZUI3ZUJYRldIVEVkdDlhc25DVGVuZVAtZjZpcUJMMm5VYWZQckJlRlhfS1R0aWhSdUZPQ2dHQQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXV2aWpTM3lJaW5QZWxmQjc0SnZLU21KTnd0ZjE2b0xReG9Fd2d2N1dGZmkwaDRTeUpITFNfZGthV2tBT09PWVJ5eHM1MW5fUWh3VG9rQnE3a3Z2RUQzX09UXzBVM2R0dS0xc1lPT1kyQXl6QXNtY3N4ZnpqRTUzZUI3ZUJYRldIVEVkdDlhc25DVGVuZVAtZjZpcUJMMm5VYWZQckJlRlhfS1R0aWhSdUZPQ2dHQQ?oc=5)
-
----
-
 ### [Schweizer Umfrage - Wir sind ungesünder, als wir glauben - Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
 
-2026-06-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
 
@@ -115,14 +131,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-06-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
-
----
-
-### [Surprising benefit of Covid vaccine found in new study - The Independent](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd6T2pma0tYNGZKQng4S3VUaGZSS3QzRzFoSU01MEZWS1N6WlBGRlhvbEd5TzhRRmwwcVJfdGhMTTZiTWh4N3lHSURiRE16bGlUOHBqd1FzNVdMVGcxTDhwMnZ1QTNJcjVXejAxcUluYWRmWXlFZEdMQjlyYUkwTk9Ya2cxdjNkSXA4?oc=5)
-
-2026-06-17 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd6T2pma0tYNGZKQng4S3VUaGZSS3QzRzFoSU01MEZWS1N6WlBGRlhvbEd5TzhRRmwwcVJfdGhMTTZiTWh4N3lHSURiRE16bGlUOHBqd1FzNVdMVGcxTDhwMnZ1QTNJcjVXejAxcUluYWRmWXlFZEdMQjlyYUkwTk9Ya2cxdjNkSXA4?oc=5)
 
 ---
 

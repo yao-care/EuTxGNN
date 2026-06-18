@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
@@ -62,11 +62,35 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Brote de hepatitis A: Sanidad detecta seis casos en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQa9IBuAFBVV95cUxNZ3plaUJSOXoyNGtCazRGQl9vYTRFV1B4VTBNUzFTMS1sMHdnVl9IaDNWUWNhOVBJRlJJdE10STQ0UlI2a3J0bTNBZGJyc2FYX1R4WVNpOUV3alFJaXljUC00bXQ0cjJUNUFPekdhU0xxbUllTW9ZZHJwSTdaTVZCZzJPZUdPejRBSUdYZlJIVGxmWlA0a0pUa2lJUkJhbHZaUzZlWkFEX3NjMU0yTXM4OXFFWmUzRk11?oc=5)
+### [Geringere Lebenserwartung? Wie lang lebt man mit Multiple Sklerose](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHVGWTlnc09VeVJtWjFWMXVJT2oxS3NzM0J0cFJudlYyRlhkX1lfSG5uRHZrWXZFQ1JDYzlueXJTcXFjTXdqMEpRZFRYVl9BY1hZcXV5aHVNdUlMWTNHbE9mTTlYekZGUFNxMjVGQ3Z5UFVHakhJc0xCQzBsb0Q5WjU3ZWt6dUlRMmpqc2VOSUFtOG1Hekl1TmhCOExobHo1QzRQUXNxS1Z6SkJQLTFQTXlGVzRyXzhQQVdiUmpmLVdOTWdrMFAyTUVIa3JPVFdaQlNuOEJRWG9vTVZkYUhNN1BXS1ktUQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-06-18 <span class="news-indication-tag">Multiple Sklerose</span>
 
-來源：[Canarias7](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQa9IBuAFBVV95cUxNZ3plaUJSOXoyNGtCazRGQl9vYTRFV1B4VTBNUzFTMS1sMHdnVl9IaDNWUWNhOVBJRlJJdE10STQ0UlI2a3J0bTNBZGJyc2FYX1R4WVNpOUV3alFJaXljUC00bXQ0cjJUNUFPekdhU0xxbUllTW9ZZHJwSTdaTVZCZzJPZUdPejRBSUdYZlJIVGxmWlA0a0pUa2lJUkJhbHZaUzZlWkFEX3NjMU0yTXM4OXFFWmUzRk11?oc=5)
+來源：[CHIP](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHVGWTlnc09VeVJtWjFWMXVJT2oxS3NzM0J0cFJudlYyRlhkX1lfSG5uRHZrWXZFQ1JDYzlueXJTcXFjTXdqMEpRZFRYVl9BY1hZcXV5aHVNdUlMWTNHbE9mTTlYekZGUFNxMjVGQ3Z5UFVHakhJc0xCQzBsb0Q5WjU3ZWt6dUlRMmpqc2VOSUFtOG1Hekl1TmhCOExobHo1QzRQUXNxS1Z6SkJQLTFQTXlGVzRyXzhQQVdiUmpmLVdOTWdrMFAyTUVIa3JPVFdaQlNuOEJRWG9vTVZkYUhNN1BXS1ktUQ?oc=5)
+
+---
+
+### [Las cuatro frutas que deberías evitar cenar si te levantas agotado por la mañana, según el cardiólogo Aurelio Rojas - La Razón](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdEU4MmdJdDRWbTJKU3dfdzBBSTFpbGQxMl9EQnNNZmVxbFN3aGUydExkZ3IxV3J5d2lTc0djNy1wcHdNZ0s2a2JpWTExT3pzQnVXWEQ4ZFdXd0ZKTXVVeUhJSFBiSVFYN2JORE1QdVZING5nWVg5VC1hNFNIOVFmWG0yWHhmNVctaGJTWm1yZldnMnRPZ2lhSEpLd1hYWDc3bHJuR2F6MF9ta1lJeGJybDdmV015ZDRnRHgyTWk4aUwya3ZVTmdwS3NMczdiSC1qUkZjTy1Ka0VlNGdVaVB1NWVacjRyX3NKdDdnUTNHTGhPTndIZmNickFn0gGOAkFVX3lxTFB1VGdCNTJ1THIzT005dWhwOUJvOXdhZDc1MU1uRVhxRVpMT0xpZXRjRC0zYW1TWWZJTE9zbEdHNmFUQmNGM3lnV01nUy1pb1dWU3VYRXQ1Y2FQcDBWQlRTZWZ5RHBHRDNMV2RUUGhkZXZ2RHpsQVp1cU44bFk4eGVGb2pMbzZRRVNEcW94UXhxdE9uMmhMcEtxQU92WlZvQl9mMElLOHhtZm5peDEwUERwTVBsd1JIajVyNk9FakhyQnFndnRXVzlNanE3dlNvd0RxdmtPNk5IdEJUb1oyX3hka3pxUjBLcklZZ3F6c0JpZzNGbVgyYmlZTGc5TlU5dURZdEU2cW9VdDlvbUl6Zw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdEU4MmdJdDRWbTJKU3dfdzBBSTFpbGQxMl9EQnNNZmVxbFN3aGUydExkZ3IxV3J5d2lTc0djNy1wcHdNZ0s2a2JpWTExT3pzQnVXWEQ4ZFdXd0ZKTXVVeUhJSFBiSVFYN2JORE1QdVZING5nWVg5VC1hNFNIOVFmWG0yWHhmNVctaGJTWm1yZldnMnRPZ2lhSEpLd1hYWDc3bHJuR2F6MF9ta1lJeGJybDdmV015ZDRnRHgyTWk4aUwya3ZVTmdwS3NMczdiSC1qUkZjTy1Ka0VlNGdVaVB1NWVacjRyX3NKdDdnUTNHTGhPTndIZmNickFn0gGOAkFVX3lxTFB1VGdCNTJ1THIzT005dWhwOUJvOXdhZDc1MU1uRVhxRVpMT0xpZXRjRC0zYW1TWWZJTE9zbEdHNmFUQmNGM3lnV01nUy1pb1dWU3VYRXQ1Y2FQcDBWQlRTZWZ5RHBHRDNMV2RUUGhkZXZ2RHpsQVp1cU44bFk4eGVGb2pMbzZRRVNEcW94UXhxdE9uMmhMcEtxQU92WlZvQl9mMElLOHhtZm5peDEwUERwTVBsd1JIajVyNk9FakhyQnFndnRXVzlNanE3dlNvd0RxdmtPNk5IdEJUb1oyX3hka3pxUjBLcklZZ3F6c0JpZzNGbVgyYmlZTGc5TlU5dURZdEU2cW9VdDlvbUl6Zw?oc=5)
+
+---
+
+### [Alzheimer: Seneszente Zellen verdreifachen Risiko bei APOE4-Trägern - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2JucmZhQ3RIYTUtWTk3X0ZhdnlxUGJXQUFDc1NsVy1MbDZJNkVpRlJkeUxfTGtteHFLeTFZMERJUnY1Z2dxdEplNVA1OFc3SlkwSlRLOXFkbDIzZlgzOExxdTFXeUFzT2ZKQTdhQUN6OW9lLW1CZzU5VGVsZU1IeVRLVW96QmJZdUJPX3cwbFRzVE1ycVFTVGRNeVF0Tk5QZEpkOUhkNG5KMkpFcVhranFpOHhMQ2c?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2JucmZhQ3RIYTUtWTk3X0ZhdnlxUGJXQUFDc1NsVy1MbDZJNkVpRlJkeUxfTGtteHFLeTFZMERJUnY1Z2dxdEplNVA1OFc3SlkwSlRLOXFkbDIzZlgzOExxdTFXeUFzT2ZKQTdhQUN6OW9lLW1CZzU5VGVsZU1IeVRLVW96QmJZdUJPX3cwbFRzVE1ycVFTVGRNeVF0Tk5QZEpkOUhkNG5KMkpFcVhranFpOHhMQ2c?oc=5)
+
+---
+
+### [MSD impulsa la excelencia científica en Oncología con HorizON - Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
 
 ---
 
@@ -78,19 +102,27 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [I lost 4st through walking. You don’t need fancy gyms or harsh diets - The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1NUNlNZaUZBYmNJVHg0SmdnUXRFSmMycXZQX2NRQTI3YUNXYUxKc1BabktSUUcxQjJkZlpuSmdadzBVOVhWRjhiT1FocE0zbWVoT0VfSUpmUW5BeXEtdmZ5MTNwM1dEaVpEWGM1MjZxaHhIdHVGMkNJTTN1d1lyejZYYU1UUQ?oc=5)
+### [Sanidad notifica un brote de hepatitis A que afecta a seis personas en Gran Canaria - Gobierno de Canarias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTdkQVU5UGU2MTlvSDFERDJkY0VNS0N2czloNzR6dVB1cjBqZmFoR3VrUlRJb1dTLWtVb2tMeE1xUlREU1o3cS12SFdiSElJaFd3eWg4Tlc1bzFtMEJxdTM4Q0lHei1TZ2d4XzBlcVRtUXVHVHloVVdiZGxVbE1zY1V3Q1oxc0RWcTVKWm9fQUlQYnJnMTFoSGVJRWpraWhxdmVwUHZLYkswdmpyelc5TEVpamJYSWpmZTdIVmJTNTU4ZWRQTW5feA?oc=5)
 
-2026-06-18 <span class="news-indication-tag">MS</span>
+2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1NUNlNZaUZBYmNJVHg0SmdnUXRFSmMycXZQX2NRQTI3YUNXYUxKc1BabktSUUcxQjJkZlpuSmdadzBVOVhWRjhiT1FocE0zbWVoT0VfSUpmUW5BeXEtdmZ5MTNwM1dEaVpEWGM1MjZxaHhIdHVGMkNJTTN1d1lyejZYYU1UUQ?oc=5)
+來源：[Gobierno de Canarias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTdkQVU5UGU2MTlvSDFERDJkY0VNS0N2czloNzR6dVB1cjBqZmFoR3VrUlRJb1dTLWtVb2tMeE1xUlREU1o3cS12SFdiSElJaFd3eWg4Tlc1bzFtMEJxdTM4Q0lHei1TZ2d4XzBlcVRtUXVHVHloVVdiZGxVbE1zY1V3Q1oxc0RWcTVKWm9fQUlQYnJnMTFoSGVJRWpraWhxdmVwUHZLYkswdmpyelc5TEVpamJYSWpmZTdIVmJTNTU4ZWRQTW5feA?oc=5)
 
 ---
 
-### [Alzheimer 2026: Entzündung, Seneszenz und neue KI-Tests rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
+### [Millionen schlucken Vitamin D – doch ihre Knochen profitieren kaum - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
+來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
+
+---
+
+### [Breakthrough jab could ‘reverse ageing’ and help fight cancer and dementia - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
+
+2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
 
 ---
 
@@ -99,14 +131,6 @@ permalink: /news/velpatasvir/
 2026-06-17 <span class="news-indication-tag">MS</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
-
----
-
-### [New Research Pinpoints Hidden Brain Trigger That Causes Autism, Changing How We Understand The Condition - Bored Panda](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhkTHVzTG1GQnV2N01hZWFWSHRiUE8xekxCamdLMmIzc0ZSUlFzWEVMSGdWd2NiWmxQTFBBN0gwQ09nN0tGY0txY1hjR1hiaUZ3UVVyckpZZ3NDb0xYNW91dE5NMFV3dGNKOWtqZnYxSlZHQThxZ2hISWJhZGtvbm51N1BidlFLSExXUmxycU5wb3NJYXV3YnZxMlljT25L?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhkTHVzTG1GQnV2N01hZWFWSHRiUE8xekxCamdLMmIzc0ZSUlFzWEVMSGdWd2NiWmxQTFBBN0gwQ09nN0tGY0txY1hjR1hiaUZ3UVVyckpZZ3NDb0xYNW91dE5NMFV3dGNKOWtqZnYxSlZHQThxZ2hISWJhZGtvbm51N1BidlFLSExXUmxycU5wb3NJYXV3YnZxMlljT25L?oc=5)
 
 ---
 
@@ -126,19 +150,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Diskussion um Calcium und Vitamin D – Osteoporose-Expertin hält an Empfehlung fest](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGhHNDBLZFU3YTRnQVdyT1J3NzZmTjhYNlNJOUVESzM2RGdhdlljdUczYzJuTDBOeE9FMHNzSTllMGJkNkFrb2lNRDdBcnBNcnZBZWs1eXk3TWNUQXpYWFcyVlVwNGU0RjFfajlSOE1ISEhDR1ZtRjlPb0t2ZUJ1Y29nRVRlYk1mUWVOYktQV0tsd0RoMWYwSUhTRVN0N2lnb280TkJrNTl1M09WMkRPa2RobXpZUFJV?oc=5)
+### [Liver cancer deaths are rapidly increasing – tackling preventable causes would save lives - The Conversation](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFJYd1FOT0RKdldNVzN4Yks1eEdEc1JHTFZVY1pLbm5SbkxVdE8wQVRBV25xYXc5STFUU0doZEprODRmOHJ3MVlMcm5Wd2xMM1VRdWRnQVZ5b3E2TElpQW80dUVxS1lHZWNCWFh6N29EdUpVSTZGeHVTTTRFbk1QdWNGZWJfRmhFZURxLVRNZGs1dTNjaThLMkZodWcwQXRHUUpoWnl5d1FEZzdoOUtCN0xKUlVaQ29FVmtpb0JLTQ?oc=5)
 
-2026-06-17 <span class="news-indication-tag">MS</span>
+2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGhHNDBLZFU3YTRnQVdyT1J3NzZmTjhYNlNJOUVESzM2RGdhdlljdUczYzJuTDBOeE9FMHNzSTllMGJkNkFrb2lNRDdBcnBNcnZBZWs1eXk3TWNUQXpYWFcyVlVwNGU0RjFfajlSOE1ISEhDR1ZtRjlPb0t2ZUJ1Y29nRVRlYk1mUWVOYktQV0tsd0RoMWYwSUhTRVN0N2lnb280TkJrNTl1M09WMkRPa2RobXpZUFJV?oc=5)
-
----
-
-### [Schweizer Umfrage - Wir sind ungesünder, als wir glauben - Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFJYd1FOT0RKdldNVzN4Yks1eEdEc1JHTFZVY1pLbm5SbkxVdE8wQVRBV25xYXc5STFUU0doZEprODRmOHJ3MVlMcm5Wd2xMM1VRdWRnQVZ5b3E2TElpQW80dUVxS1lHZWNCWFh6N29EdUpVSTZGeHVTTTRFbk1QdWNGZWJfRmhFZURxLVRNZGs1dTNjaThLMkZodWcwQXRHUUpoWnl5d1FEZzdoOUtCN0xKUlVaQ29FVmtpb0JLTQ?oc=5)
 
 ---
 
