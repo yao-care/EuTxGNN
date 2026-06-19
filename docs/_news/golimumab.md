@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Rheumatoide Arthritis: Abatacept halbiert Erkrankungsrisiko in Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+### [HLA-DRB1*01:03 identifiziert Risikomarker für IBD und öffnet Weg zu personalisierten Therapien - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUF6N0RfWDdzM0RCc3AxR1lmOU5OZjhkSUVpWjRQNnB5N3JlZ0hzam5xYmdFTzlyRnJrVVAzenhZVkhhaGhoU0ZHVG5ZT3lEMHBJRG5Eb0pCR2R0UXhHRS1ibFBnNTdycy1aYllWbGZibjhMbDkxQVJNWm5tX1V1R0VPZl9lZTZmSV9uRGJacjVmRi1rc2hqX3pSM0w0ODRwVmVqTTVsSWJOc2hhcV9oMnlFdkttUVNHX2o3N3RheEU3V2N6?oc=5)
+
+2026-06-19 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUF6N0RfWDdzM0RCc3AxR1lmOU5OZjhkSUVpWjRQNnB5N3JlZ0hzam5xYmdFTzlyRnJrVVAzenhZVkhhaGhoU0ZHVG5ZT3lEMHBJRG5Eb0pCR2R0UXhHRS1ibFBnNTdycy1aYllWbGZibjhMbDkxQVJNWm5tX1V1R0VPZl9lZTZmSV9uRGJacjVmRi1rc2hqX3pSM0w0ODRwVmVqTTVsSWJOc2hhcV9oMnlFdkttUVNHX2o3N3RheEU3V2N6?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Abatacept senkt Erkrankungsrisiko um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
 
 2026-06-19 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
 
 ---
 

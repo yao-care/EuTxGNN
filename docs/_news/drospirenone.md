@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Rheumatoide Arthritis: Abatacept halbiert Erkrankungsrisiko in Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+### [GNW-News: Professor Mohamed Shamji übernimmt EAACI-Präsidentschaft zum Abschluss des Kongresses 2026 in Istanbul - boerse.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTWpHSWNkSVJreXJTRkFuQVpEQWhCMnpwSEV4WTJ5VG9Qaml2bVIwSEVHanFJX0laNFNsT3V2eG92SEdwYWpDNXNGbjlNOE1kSkRoWWdWRTd3YUhDaHAwWjBPVUtpOG0zQlJ6TFMzMkxwRmszNkxYRTlSeXV0V1lGTmxMYTRpcXV1UTFBSjFUOENnd3c4cmtuNy01emJxYmZvckQ5NVZWTHgyQ1JZZHB2MXNPRlJyS2oyVWtBRkFuUDVVSnNRZHh6YWlHRDZTNUpIRFFjN2lQMzNUWlI1aUlkNFQxQ3FhUlRkYVRnYdIB8gFBVV95cUxPYWlXWTdpV3hEVnd4MGxkSFd6QjE0emVZVVFtc29fN3JRX0xUS21zUFpTdjJpc2g5OFBYcllhVTRtaEx2QXJjUEtSd0hOZmZjbWIwbzktQmtCQjl3YjlXVGxOM3YzbnJZZVFGRlN5VzkwY0NGbm9sdWpfVDd2Y0ZVb1E2bWI0TjNTSXlWVVYwSmZjeVU1SFM2TlRIQm9PNGlXUmozT2hfdWl2WndzUWNJOWNmV3ZDb2lzc2dQamRnYUkxUm1BWkFWdEIxZDY4cjhSRXQza0d1LWlncW4tXzgzekFrUl8teWdIeTQzUGNGeDJsUQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[boerse.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTWpHSWNkSVJreXJTRkFuQVpEQWhCMnpwSEV4WTJ5VG9Qaml2bVIwSEVHanFJX0laNFNsT3V2eG92SEdwYWpDNXNGbjlNOE1kSkRoWWdWRTd3YUhDaHAwWjBPVUtpOG0zQlJ6TFMzMkxwRmszNkxYRTlSeXV0V1lGTmxMYTRpcXV1UTFBSjFUOENnd3c4cmtuNy01emJxYmZvckQ5NVZWTHgyQ1JZZHB2MXNPRlJyS2oyVWtBRkFuUDVVSnNRZHh6YWlHRDZTNUpIRFFjN2lQMzNUWlI1aUlkNFQxQ3FhUlRkYVRnYdIB8gFBVV95cUxPYWlXWTdpV3hEVnd4MGxkSFd6QjE0emVZVVFtc29fN3JRX0xUS21zUFpTdjJpc2g5OFBYcllhVTRtaEx2QXJjUEtSd0hOZmZjbWIwbzktQmtCQjl3YjlXVGxOM3YzbnJZZVFGRlN5VzkwY0NGbm9sdWpfVDd2Y0ZVb1E2bWI0TjNTSXlWVVYwSmZjeVU1SFM2TlRIQm9PNGlXUmozT2hfdWl2WndzUWNJOWNmV3ZDb2lzc2dQamRnYUkxUm1BWkFWdEIxZDY4cjhSRXQza0d1LWlncW4tXzgzekFrUl8teWdIeTQzUGNGeDJsUQ?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Abatacept senkt Erkrankungsrisiko um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
 
 2026-06-19 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
 
 ---
 

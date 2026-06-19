@@ -14,7 +14,7 @@ permalink: /news/panitumumab/
 ---
 
 <p class="key-answer" data-question="Panitumumab 有什麼相關新聞？">
-<strong>Panitumumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Panitumumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/panitumumab/
 <p><a href="{{ '/drugs/panitumumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（6 則）
+
+### [Bauchfett senkt Diabetesrisiko: Fettverteilung wirkt stärker als der BMI - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXJ4TjRINVNwczFyaDFjdU56Y0RFcWRUa05VSmR5cHFiMkRmOWlWbko4b3ZTWmRObUVDTFZiQ3liQV9MTzc1U0xXSXJ1OUQ2TmhRamM1ZXV2em5jWWYzSS1MR1U4T3JTWXpBVGZaSWx0NGJ0M0MwSDNNZzd6dHhqbzdhYmk3QklzejZibTJ1OXVGRlFhVEJ6LS1pNk8tOU8yZVlPN3YxNA?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXJ4TjRINVNwczFyaDFjdU56Y0RFcWRUa05VSmR5cHFiMkRmOWlWbko4b3ZTWmRObUVDTFZiQ3liQV9MTzc1U0xXSXJ1OUQ2TmhRamM1ZXV2em5jWWYzSS1MR1U4T3JTWXpBVGZaSWx0NGJ0M0MwSDNNZzd6dHhqbzdhYmk3QklzejZibTJ1OXVGRlFhVEJ6LS1pNk8tOU8yZVlPN3YxNA?oc=5)
+
+---
 
 ### [Dormir moins de 6 heures par nuit augmenterait le risque de diabète — selon une étude](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnNvWkdYOGRWa1g2aDZCQmNJRHk0RjNyUFUtNWxEX09hXzZSR1VWQ1h6UFcxb19lZGlSZS1VUlRWMlAwdlE5dUFpbzdvSzl6eEduYmpqem80LVhQU0hVSEd1Z3V3bHdiclV2VnRUSnpkeHRVRmk0eEdZeU9la1cwcVRrejNYMi1jTkdOOHd3SjhmNUtET2JDR2JTU0VoOVBOMXFyX2dlYzFYMzJ6ZkVzZFNydTg?oc=5)
 
 2026-06-19 <span class="news-indication-tag">diabète</span>
 
 來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnNvWkdYOGRWa1g2aDZCQmNJRHk0RjNyUFUtNWxEX09hXzZSR1VWQ1h6UFcxb19lZGlSZS1VUlRWMlAwdlE5dUFpbzdvSzl6eEduYmpqem80LVhQU0hVSEd1Z3V3bHdiclV2VnRUSnpkeHRVRmk0eEdZeU9la1cwcVRrejNYMi1jTkdOOHd3SjhmNUtET2JDR2JTU0VoOVBOMXFyX2dlYzFYMzJ6ZkVzZFNydTg?oc=5)
-
----
-
-### [Wechseljahre: Viszerales Fett um 10% senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE1MNUVvUXIxc2VHZjNaTk4zSGxWMVI5MG91YTlfN0ZSRVFiQkxIbXd6ZUJhQ2tfcm5OTFFqaDBMU1AzQ0oyc2t5bTEyUW1yaS1KMWJ0NTNxMGduYndXckw3QVRXYzJ6cFZtdFVMRHEwakpXWXBDSndhb1lydnUxclVrZUZUbllla0dXYW9qRGRwZzMxZnU0bzNYVGZuZUEwczR0X0pRVWZ3SFR2WjI3SDVRdkk0eXdwLV9Z?oc=5)
-
-2026-06-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE1MNUVvUXIxc2VHZjNaTk4zSGxWMVI5MG91YTlfN0ZSRVFiQkxIbXd6ZUJhQ2tfcm5OTFFqaDBMU1AzQ0oyc2t5bTEyUW1yaS1KMWJ0NTNxMGduYndXckw3QVRXYzJ6cFZtdFVMRHEwakpXWXBDSndhb1lydnUxclVrZUZUbllla0dXYW9qRGRwZzMxZnU0bzNYVGZuZUEwczR0X0pRVWZ3SFR2WjI3SDVRdkk0eXdwLV9Z?oc=5)
 
 ---
 
@@ -78,35 +78,11 @@ permalink: /news/panitumumab/
 
 ---
 
-### [Actuar sobre los mecanismos epigenéticos revierte el daño vascular asociado a la obesidad y la diabetes - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
-
----
-
-### [Diabetes, Adipositas und ihr Risiko für die Gefäße](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
-
----
-
 ### [Diabetes erhöht Parkinson-Risiko um 27 Prozent: Metaanalyse warnt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
-
----
-
-### [Sardinen gegen Diabetes: 64 Prozent Risikosenkung in einer Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXRmRHRidHhIVzFaN3N2NXFyMmlFTkJmV0ktblZPejRGUGRGQzN6VktwUl9MQUw4aG9Rck0xZF9fUHRMaDAybjRDQmdEZWVLSG1WNW8tZzVuWE8wNGZNRkhoeXQ5clJnMTFRbVhMNnE5U3hqUW1YZGJEemZycTM5MDdQRk1UQXdqZXNGRXItVlZpVzV0Q19nUGxJdTNCZ2RLY1d1UW9Rb3gxeXhPbXhQcUw3Zw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXRmRHRidHhIVzFaN3N2NXFyMmlFTkJmV0ktblZPejRGUGRGQzN6VktwUl9MQUw4aG9Rck0xZF9fUHRMaDAybjRDQmdEZWVLSG1WNW8tZzVuWE8wNGZNRkhoeXQ5clJnMTFRbVhMNnE5U3hqUW1YZGJEemZycTM5MDdQRk1UQXdqZXNGRXItVlZpVzV0Q19nUGxJdTNCZ2RLY1d1UW9Rb3gxeXhPbXhQcUw3Zw?oc=5)
 
 ---
 
@@ -118,35 +94,11 @@ permalink: /news/panitumumab/
 
 ---
 
-### [Soleus-Muskel: Gezieltes Training senkt Blutzucker um 52% - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVE9sVFczdkJjcDJoX1Q2UFRJaGp5VnFUeHNfdVBhbkpBMVJJNEJmNk9zSU1sc3J5cEdRUlRKX19pd2IwTTltU1NDSzU1Y05OVmctRFdlM3NVaWRhalRMWmxuRXRJR0kxNFByVS1EV1Y0SFMwUGlvUHZBWlM5V29SSHk3Q1B6TTJaaWJ3aHQ4anZsTGp6ZG45VER4YlJwWXBqNndvbkNiY0Y1RkJtMFFjRy1n?oc=5)
+### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVE9sVFczdkJjcDJoX1Q2UFRJaGp5VnFUeHNfdVBhbkpBMVJJNEJmNk9zSU1sc3J5cEdRUlRKX19pd2IwTTltU1NDSzU1Y05OVmctRFdlM3NVaWRhalRMWmxuRXRJR0kxNFByVS1EV1Y0SFMwUGlvUHZBWlM5V29SSHk3Q1B6TTJaaWJ3aHQ4anZsTGp6ZG45VER4YlJwWXBqNndvbkNiY0Y1RkJtMFFjRy1n?oc=5)
-
----
-
-### [She feared losing a limb — then 67-year-old put her diabetes into remission amazingly - South Wales Argus](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnFUWWVYblMtM0pGZFYzdjVWUlhGdzdDbGkzNjlScVNQOFEyTEVybTR2anlQbnFQYVhkSTFCNEpha0lUaXI5M1RaVDhTZ1NBdFdlTUdyX252YWxIa2dXX2hVVFdDYnpaMHktYWFDaUJXZnZUSXpRd2phSUo1dXR3NGJTUTNTYjlTWThQUTYtTGFBcDJFak5oNjdLWQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[South Wales Argus](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnFUWWVYblMtM0pGZFYzdjVWUlhGdzdDbGkzNjlScVNQOFEyTEVybTR2anlQbnFQYVhkSTFCNEpha0lUaXI5M1RaVDhTZ1NBdFdlTUdyX252YWxIa2dXX2hVVFdDYnpaMHktYWFDaUJXZnZUSXpRd2phSUo1dXR3NGJTUTNTYjlTWThQUTYtTGFBcDJFak5oNjdLWQ?oc=5)
-
----
-
-### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
-
----
-
-### [Typ-2-Diabetes: SGLT2-Hemmer senken Alzheimer-Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxObXBFZ1ZRMXlFcW9JSVk0dlEzQ1ljakkyWkxFcDh3ak9SbEUwanhRZmxrU2czMDYtc3lvUVJwNHdIX1BfcmRGTm1TVEZmQXNVdVBmNUhWZUM3N0FLSHFsV25Fc3FHZ1AyclJMdkFUTzdrRGdQbVRwMnRWcHZfWWZFaERick8wdjlldjVqTFpfV25EWlNKTjFzM3hCVUJqaTJzNHhFNlRGMEZaYmw2WmE1eEhTaUw?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxObXBFZ1ZRMXlFcW9JSVk0dlEzQ1ljakkyWkxFcDh3ak9SbEUwanhRZmxrU2czMDYtc3lvUVJwNHdIX1BfcmRGTm1TVEZmQXNVdVBmNUhWZUM3N0FLSHFsV25Fc3FHZ1AyclJMdkFUTzdrRGdQbVRwMnRWcHZfWWZFaERick8wdjlldjVqTFpfV25EWlNKTjFzM3hCVUJqaTJzNHhFNlRGMEZaYmw2WmE1eEhTaUw?oc=5)
+來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
 ---
 

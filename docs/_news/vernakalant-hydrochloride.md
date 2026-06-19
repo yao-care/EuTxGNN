@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（29 則）
 
-### [Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIa3doekl3TVVDeHljVC1YTm5BRlZiMVliN2dya3FKUXg2MVBwTmhrb2llNkFXOTZuNWtZVE9wajJkSjhiRVFUbllUazFfcklDSEhISVpPSXEwOC12?oc=5)
+### [Kongress für klinische Neurowissenschaften: Epilepsie und Technologie im Fokus - mgo medizin](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQjFYem82TzZMVUhPTVptV0ZtZXAyV2dackFFVmt6WGxSWS10R2M0amZWOTZKTlh3NFJKQ2JfZDhQZm5qdHVXZGNuQlBzbjlBZThHbDctQU5zWW92Zzg0UFZZbWJzczhvRXhLd2h3dGVpR2oxU1ZsTk0xZEFlWTBscmNsdU1yVTBHRlhjdzZYR2NXRHFPdGxmcmdDVnNOcFRhbld5SnlNeHRjZGs2Z1J4bWR0YmpwaUFjbmdvQUtWTGtVVnpabU81V2twSUNCcTNlUzJuTmdCaXpGMGpIaFpNNEhScGhZeGhSYmZGalJSNUdtbGxRVnNsNXF3?oc=5)
+
+2026-06-19 <span class="news-indication-tag">Epilepsie</span> <span class="news-indication-tag">AF</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQjFYem82TzZMVUhPTVptV0ZtZXAyV2dackFFVmt6WGxSWS10R2M0amZWOTZKTlh3NFJKQ2JfZDhQZm5qdHVXZGNuQlBzbjlBZThHbDctQU5zWW92Zzg0UFZZbWJzczhvRXhLd2h3dGVpR2oxU1ZsTk0xZEFlWTBscmNsdU1yVTBHRlhjdzZYR2NXRHFPdGxmcmdDVnNOcFRhbld5SnlNeHRjZGs2Z1J4bWR0YmpwaUFjbmdvQUtWTGtVVnpabU81V2twSUNCcTNlUzJuTmdCaXpGMGpIaFpNNEhScGhZeGhSYmZGalJSNUdtbGxRVnNsNXF3?oc=5)
+
+---
+
+### [Bluttest-Revolution: Alzheimer-Diagnose in nur 17 Minuten möglich - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3Q4OXc1NFRwUTJ6YTVzYlpJYTFYbTlna1hCbDVyb3c2bE1jNzc4WXNCM2JTUXBRRE1yb1FYSFFLazRncjJPMlFmX2hyckNCWGgwMVhNclM5RXZrQTMxS0c3cGh0NlpDRkdWd3RNaWVJUjVEcHlwUU9sNEFKN3Rfd3Z3bzBNRnZvcTB6Z053TWxVeEdiSVlhWm91WG5pWlZxdm53WFNJVnJUVUM0S2VsS01KU0Y?oc=5)
+
+2026-06-19 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3Q4OXc1NFRwUTJ6YTVzYlpJYTFYbTlna1hCbDVyb3c2bE1jNzc4WXNCM2JTUXBRRE1yb1FYSFFLazRncjJPMlFmX2hyckNCWGgwMVhNclM5RXZrQTMxS0c3cGh0NlpDRkdWd3RNaWVJUjVEcHlwUU9sNEFKN3Rfd3Z3bzBNRnZvcTB6Z053TWxVeEdiSVlhWm91WG5pWlZxdm53WFNJVnJUVUM0S2VsS01KU0Y?oc=5)
+
+---
+
+### [GNW-News: Professor Mohamed Shamji übernimmt EAACI-Präsidentschaft zum Abschluss des Kongresses 2026 in Istanbul - boerse.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTWpHSWNkSVJreXJTRkFuQVpEQWhCMnpwSEV4WTJ5VG9Qaml2bVIwSEVHanFJX0laNFNsT3V2eG92SEdwYWpDNXNGbjlNOE1kSkRoWWdWRTd3YUhDaHAwWjBPVUtpOG0zQlJ6TFMzMkxwRmszNkxYRTlSeXV0V1lGTmxMYTRpcXV1UTFBSjFUOENnd3c4cmtuNy01emJxYmZvckQ5NVZWTHgyQ1JZZHB2MXNPRlJyS2oyVWtBRkFuUDVVSnNRZHh6YWlHRDZTNUpIRFFjN2lQMzNUWlI1aUlkNFQxQ3FhUlRkYVRnYdIB8gFBVV95cUxPYWlXWTdpV3hEVnd4MGxkSFd6QjE0emVZVVFtc29fN3JRX0xUS21zUFpTdjJpc2g5OFBYcllhVTRtaEx2QXJjUEtSd0hOZmZjbWIwbzktQmtCQjl3YjlXVGxOM3YzbnJZZVFGRlN5VzkwY0NGbm9sdWpfVDd2Y0ZVb1E2bWI0TjNTSXlWVVYwSmZjeVU1SFM2TlRIQm9PNGlXUmozT2hfdWl2WndzUWNJOWNmV3ZDb2lzc2dQamRnYUkxUm1BWkFWdEIxZDY4cjhSRXQza0d1LWlncW4tXzgzekFrUl8teWdIeTQzUGNGeDJsUQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[boerse.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTWpHSWNkSVJreXJTRkFuQVpEQWhCMnpwSEV4WTJ5VG9Qaml2bVIwSEVHanFJX0laNFNsT3V2eG92SEdwYWpDNXNGbjlNOE1kSkRoWWdWRTd3YUhDaHAwWjBPVUtpOG0zQlJ6TFMzMkxwRmszNkxYRTlSeXV0V1lGTmxMYTRpcXV1UTFBSjFUOENnd3c4cmtuNy01emJxYmZvckQ5NVZWTHgyQ1JZZHB2MXNPRlJyS2oyVWtBRkFuUDVVSnNRZHh6YWlHRDZTNUpIRFFjN2lQMzNUWlI1aUlkNFQxQ3FhUlRkYVRnYdIB8gFBVV95cUxPYWlXWTdpV3hEVnd4MGxkSFd6QjE0emVZVVFtc29fN3JRX0xUS21zUFpTdjJpc2g5OFBYcllhVTRtaEx2QXJjUEtSd0hOZmZjbWIwbzktQmtCQjl3YjlXVGxOM3YzbnJZZVFGRlN5VzkwY0NGbm9sdWpfVDd2Y0ZVb1E2bWI0TjNTSXlWVVYwSmZjeVU1SFM2TlRIQm9PNGlXUmozT2hfdWl2WndzUWNJOWNmV3ZDb2lzc2dQamRnYUkxUm1BWkFWdEIxZDY4cjhSRXQza0d1LWlncW4tXzgzekFrUl8teWdIeTQzUGNGeDJsUQ?oc=5)
+
+---
+
+### [Bewegung: Schon fünf Minuten täglich verhindern zehn Prozent aller Todesfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDVkb3BqOUJ3bm1qSHNDYkdZYVdLZDEzV2dnMmFhdHRrem1RcjZydGZ0N1ZIekpmQlIxMmpRTzh3THdjMFBCUGVnRmU5N1EzWkQ0ai1KandKbE5nbjUxZE5vREhGbnB3X2t1Y2JiYmpZWkJSQ3R0YVhNWjdCWHZqWFJndzFKMDgzV200N3hDX085MThfaG5TZ2ctdjNteWl1UGNsOVFiYTNmZWZESWVZTzdQdWRCOVE?oc=5)
+
+2026-06-19 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDVkb3BqOUJ3bm1qSHNDYkdZYVdLZDEzV2dnMmFhdHRrem1RcjZydGZ0N1ZIekpmQlIxMmpRTzh3THdjMFBCUGVnRmU5N1EzWkQ0ai1KandKbE5nbjUxZE5vREhGbnB3X2t1Y2JiYmpZWkJSQ3R0YVhNWjdCWHZqWFJndzFKMDgzV200N3hDX085MThfaG5TZ2ctdjNteWl1UGNsOVFiYTNmZWZESWVZTzdQdWRCOVE?oc=5)
+
+---
+
+### [Oms: "L'Ebola si sta evolvendo molto velocemente nell'est del Congo"](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWpTUjIzSE9Pa19ROHU1MnFfU2dxZE1iQkxWQVRicWNVS1JIVC13a1JZV0FsNWp3Y05oc2l2Vm44a3FVMU9zSjZRZHZDdUVSeXFwNGNiS1pGVG9VT00zNTktODJJN0dKeF9fOGQ2emxKZER3czlOTVN5RHZtSDBhR0hJRi1tcE5leVVUTGdFcG9nbUlNSEpVUl91WGNubmE2d29VSmxtOGVvM25wb1hadTNnS1R4MlNKdWk0TnBUMXdsM3NIaldZ0gFoQVVfeXFMUFNVUFJ6YWEwWEw3MmlXNExtNFFHRlAzWkxoMXVmYlA3dF9iOTlEXzVIM3pfMHRMV0ppV25WU2RfMi1DVG51QVM3YmwzNTE5R0t6MFlVbWtOTThLeEV2NXpFMUkzbVZaQVI?oc=5)
+
+2026-06-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWpTUjIzSE9Pa19ROHU1MnFfU2dxZE1iQkxWQVRicWNVS1JIVC13a1JZV0FsNWp3Y05oc2l2Vm44a3FVMU9zSjZRZHZDdUVSeXFwNGNiS1pGVG9VT00zNTktODJJN0dKeF9fOGQ2emxKZER3czlOTVN5RHZtSDBhR0hJRi1tcE5leVVUTGdFcG9nbUlNSEpVUl91WGNubmE2d29VSmxtOGVvM25wb1hadTNnS1R4MlNKdWk0TnBUMXdsM3NIaldZ0gFoQVVfeXFMUFNVUFJ6YWEwWEw3MmlXNExtNFFHRlAzWkxoMXVmYlA3dF9iOTlEXzVIM3pfMHRMV0ppV25WU2RfMi1DVG51QVM3YmwzNTE5R0t6MFlVbWtOTThLeEV2NXpFMUkzbVZaQVI?oc=5)
+
+---
+
+### [Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIa3doekl3TVVDeHljVC1YTm5BRlZiMVliN2dya3FKUXg2MVBwTmhrb2llNkFXOTZuNWtZVE9wajJkSjhiRVFUbllUazFfcklDSEhISVpPSXEwOC12?oc=5)
 
 2026-06-19 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIa3doekl3TVVDeHljVC1YTm5BRlZiMVliN2dya3FKUXg2MVBwTmhrb2llNkFXOTZuNWtZVE9wajJkSjhiRVFUbllUazFfcklDSEhISVpPSXEwOC12?oc=5)
+
+---
+
+### [Ebola outbreak: 17 medics dead as Chinese medical team arrives in Democratic Republic of Congo - Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTYxWW53dFNuUFltNnVFeVJCckk3SkJranNZNnpmMlRTeGlDdGQ5eTd4MDlVV21TeWYxN1MxNFNqQ2h1bjRxcWY4SkdHUzZ2WUp5U2ZQdkpWUVZJdjdfcDRqQUo3Rzl1bG83enloZnNZMkpLeDhmU3ZhVkptaUtIQnB3R0RVcGNJS0dTTTNEZXEwbE9RbmxjS0xEX3Jabko3WDRPTFlYN1ZsRmY1MkZUelBnZHlOaVl4dW5EWDZ3bjExU3Q5NWJ1OQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTYxWW53dFNuUFltNnVFeVJCckk3SkJranNZNnpmMlRTeGlDdGQ5eTd4MDlVV21TeWYxN1MxNFNqQ2h1bjRxcWY4SkdHUzZ2WUp5U2ZQdkpWUVZJdjdfcDRqQUo3Rzl1bG83enloZnNZMkpLeDhmU3ZhVkptaUtIQnB3R0RVcGNJS0dTTTNEZXEwbE9RbmxjS0xEX3Jabko3WDRPTFlYN1ZsRmY1MkZUelBnZHlOaVl4dW5EWDZ3bjExU3Q5NWJ1OQ?oc=5)
 
 ---
 
@@ -86,6 +134,14 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [My wife is dying of breast cancer, so I donated £10m to Cambridge researchers - The Times](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZW11RmotOHNSNUlpX08yelNuZEJoTUFGX3ZoWTlXU0VsNldRVlZzMWhjRGhGQThocjlXSGJuQWFYbFhzX0JNTjNDeE96c3Z0WURmUEJvVm1NYXJTSVJ1eG5EbEpKdmF4UElob01mcGc3WnVOc1gxTmdLNF9RazBMN050UGtPNFJneDdtbU1SMXZZOFNhX0ZXQmRLeFYwVDdF?oc=5)
+
+2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZW11RmotOHNSNUlpX08yelNuZEJoTUFGX3ZoWTlXU0VsNldRVlZzMWhjRGhGQThocjlXSGJuQWFYbFhzX0JNTjNDeE96c3Z0WURmUEJvVm1NYXJTSVJ1eG5EbEpKdmF4UElob01mcGc3WnVOc1gxTmdLNF9RazBMN050UGtPNFJneDdtbU1SMXZZOFNhX0ZXQmRLeFYwVDdF?oc=5)
+
+---
+
 ### [Sanidad da por controlado el brote de hepatitis A detectado en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
 
 2026-06-19 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
@@ -102,11 +158,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Actuar sobre los mecanismos epigenéticos revierte el daño vascular asociado a la obesidad y la diabetes - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
+### [TV doctor's fish oil atrial fibrillation warning asking 'should we stop' - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1lkLW5zNlhVOXpuTGZsd1Rsb3pFUXpjNWZVRFBNRzF6YWtDRU16WHpfMGlxdnktbjBsMnJsMlU3LUx2MXVQMUtURzhqUmZBS19SYUJ5S0xSelpiYzktdFlCeVlnckdmOTVLOVRhb2E0WjI3V2hycERhVFgyNVV3VjQtY9IBiAFBVV95cUxQM21KOVpJSVRtajEyd1VwRUNncmtSMmdWeGtLc2lGaWdnZWNpSXpsR1ZKTnNlSjBEN015X0FMc1daOW5Ta0xvcUg2QUpsdDNVVjRSemxfcE0xQXhWVENZY1NXNXh1dEdadDB3akJwbFBZT3JnQ3pJcVpOYnN6YkZHUkdjR3BIWUlf?oc=5)
 
-2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-06-19 <span class="news-indication-tag">atrial fibrillation</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1lkLW5zNlhVOXpuTGZsd1Rsb3pFUXpjNWZVRFBNRzF6YWtDRU16WHpfMGlxdnktbjBsMnJsMlU3LUx2MXVQMUtURzhqUmZBS19SYUJ5S0xSelpiYzktdFlCeVlnckdmOTVLOVRhb2E0WjI3V2hycERhVFgyNVV3VjQtY9IBiAFBVV95cUxQM21KOVpJSVRtajEyd1VwRUNncmtSMmdWeGtLc2lGaWdnZWNpSXpsR1ZKTnNlSjBEN015X0FMc1daOW5Ta0xvcUg2QUpsdDNVVjRSemxfcE0xQXhWVENZY1NXNXh1dEdadDB3akJwbFBZT3JnQ3pJcVpOYnN6YkZHUkdjR3BIWUlf?oc=5)
 
 ---
 
@@ -115,6 +171,14 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-19 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5icDNaUUxtR0FNTGppUHYwOG51cmdDQWUxa1FtS2RGLTVCVU85RXdpdXJGdWlnb0xMTGg2ckpEY29OMHE3Y2lEaU95Yw?oc=5)
+
+---
+
+### [« On nous demande de vérifier l'invérifiable » : Wegovy et Mounjaro font craindre une vague d'indus aux pharmaciens - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ2lNRzhxNDE1WDJzU2N4Vnd3dGNqc25Benp6QmJTZlowNkxXb1ZOVU5KSG9ZaFU3T2JKZnhGWFB3TkZiWkFhVGFVLVJ1bkZ6bGNiTEtXV3J5MWFRNkhGc2tyaFpBOFZObERLd2Zpcmdtei14ZE55NzNEejJWYUZKeXI2UlZMbDZxSHg2SDRnekFnM0o2Q0Q5UWNXLXRsZThmLUxuejBiRDlrWFRPRDZTdWQ5S1pwV3FLcXlDdjhtNzRhMDJUbUNuZXNPWHR1dF9Ka2djUDFsNXBGMFpDX0Y2TWg3MFNCVng0LU9VM2FGVzlnbEJtRWFVUkhlaXFMaGUwSnRwaVJNTHM?oc=5)
+
+2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ2lNRzhxNDE1WDJzU2N4Vnd3dGNqc25Benp6QmJTZlowNkxXb1ZOVU5KSG9ZaFU3T2JKZnhGWFB3TkZiWkFhVGFVLVJ1bkZ6bGNiTEtXV3J5MWFRNkhGc2tyaFpBOFZObERLd2Zpcmdtei14ZE55NzNEejJWYUZKeXI2UlZMbDZxSHg2SDRnekFnM0o2Q0Q5UWNXLXRsZThmLUxuejBiRDlrWFRPRDZTdWQ5S1pwV3FLcXlDdjhtNzRhMDJUbUNuZXNPWHR1dF9Ka2djUDFsNXBGMFpDX0Y2TWg3MFNCVng0LU9VM2FGVzlnbEJtRWFVUkhlaXFMaGUwSnRwaVJNTHM?oc=5)
 
 ---
 
@@ -136,41 +200,9 @@ permalink: /news/vernakalant-hydrochloride/
 
 ### [Mounjaro batte Ozempic: il farmaco che riduce il peso del 25%](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
 
-2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
-
----
-
-### [Alzheimer-Bluttest in 17 Minuten: p-Tau217, Aβ42/Aβ40 und der Weg in den SUS - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxONnd0cktXQXNOOGRKa0dzUjE4R19hTmZYM194TlFLYW1lUjJDRUI3R3VyWlRjUGlDQ2NfbHVWWlZwM3ZLUFU2ZVdRY2w4dWNXR1R6NTdxZEhIei0tVHoza3RFR0JuWl9UOHpoeFFtcnNreWtWalRJdllsRlNoMDYxOUtZTS1qOVFrYnhfcHRhUTNRMENkdkNVLVhXdHQ3Zm8zdUtNc0FINmNTWWRWWTFFTEt0NnZkUE0?oc=5)
-
-2026-06-19 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxONnd0cktXQXNOOGRKa0dzUjE4R19hTmZYM194TlFLYW1lUjJDRUI3R3VyWlRjUGlDQ2NfbHVWWlZwM3ZLUFU2ZVdRY2w4dWNXR1R6NTdxZEhIei0tVHoza3RFR0JuWl9UOHpoeFFtcnNreWtWalRJdllsRlNoMDYxOUtZTS1qOVFrYnhfcHRhUTNRMENkdkNVLVhXdHQ3Zm8zdUtNc0FINmNTWWRWWTFFTEt0NnZkUE0?oc=5)
-
----
-
-### [Diabetes, Adipositas und ihr Risiko für die Gefäße](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
-
----
-
-### [Con los mismos genes, un joven de la Generación Z engorda el doble que un 'baby boomer'](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnBiTU5IeGdNUWFqNGFxZGdWaUhXTU9lZjEtVXk0OW5nLVpPR0N2NmtkbVZqOG14MkZpZzRvU3Ztc2NXWWdwY0hUZFJRbHN4WENUYnZoV1FmSmoxV2RaVk15U1Fsa1U2VVk1bVVDZEw3OG9SejZYNG1Cd2ZUNXlOUklDejhlay1UNm1yVnVKbFc4Y3dRSmlQX0RSOGLSAaIBQVVfeXFMT3kwWjlvQ2RhLTZCejQyRlJNc3BIWUVrTkFhV3pvc0JRRUlCQXJmZ2NGWER6OVpUczM0N2RObk5ycVZUbTZFeDlxMWthWlpOUmpHQXd2enpGTE0tX2k3VXFxM21yc0JLQ2xldlI5djFSTHYzRjRZb1JRc1V6d3l2QTQtc2hQcTBlVmxmSkJRTFp1YXEwSUEzeGQxUDV0dW9FN1hB?oc=5)
-
-2026-06-18 <span class="news-indication-tag">obesidad</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnBiTU5IeGdNUWFqNGFxZGdWaUhXTU9lZjEtVXk0OW5nLVpPR0N2NmtkbVZqOG14MkZpZzRvU3Ztc2NXWWdwY0hUZFJRbHN4WENUYnZoV1FmSmoxV2RaVk15U1Fsa1U2VVk1bVVDZEw3OG9SejZYNG1Cd2ZUNXlOUklDejhlay1UNm1yVnVKbFc4Y3dRSmlQX0RSOGLSAaIBQVVfeXFMT3kwWjlvQ2RhLTZCejQyRlJNc3BIWUVrTkFhV3pvc0JRRUlCQXJmZ2NGWER6OVpUczM0N2RObk5ycVZUbTZFeDlxMWthWlpOUmpHQXd2enpGTE0tX2k3VXFxM21yc0JLQ2xldlI5djFSTHYzRjRZb1JRc1V6d3l2QTQtc2hQcTBlVmxmSkJRTFp1YXEwSUEzeGQxUDV0dW9FN1hB?oc=5)
-
----
-
-### [Novedad en la 'familia Ozempic': "Puede ser un psicofármaco interesante" - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYjAxVWZLd3lXZWRncmd4TnZYMTAwOU5OaDNpYlpqbC1mQTB4U2ZmUnhJUGNZNnMwbWxhM3podEVTY2cwMVc2eFVvMHk0clVtQkQ5OUlmQlZva2FXZ3ZCRlUwQjJaVEJSLW4tSm5tbDBQSEpIQzNmRkF4bWtJZ2FIUV9MVmVZVldsNzBSOWZBWVpBYjNlZ1JNeXMtQW95dVFtOHZmQnhoM1BGVmRsckZ3ay1zM2p0VkcwRHEtSzdLYUJoNC13UWfSAcYBQVVfeXFMTmR5aGdwbzRkT21PS1cyNWoyMGpXQUY4bHJuTE0zUTNGVl9HQksxWUpWclBELTNLd1hNMmxIMk51VG5Gazl4S0ZKMUtXQ2VFU3BKZlo3VmgzaUl4MUNiUVpEYWw2S3ZMTTRqT0QxYlV1MWtsRmpSNTEyZ3YwMlpodzVEVkFQWVlQSW4xMEhkZFl0RGtCSU9aX1JyN2FMaG5qemNMTkJWMDZxN0FwUHlwZ0FXSmJwRUFxcmtLRnVZQnNTUzVvUjRB?oc=5)
-
-2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYjAxVWZLd3lXZWRncmd4TnZYMTAwOU5OaDNpYlpqbC1mQTB4U2ZmUnhJUGNZNnMwbWxhM3podEVTY2cwMVc2eFVvMHk0clVtQkQ5OUlmQlZva2FXZ3ZCRlUwQjJaVEJSLW4tSm5tbDBQSEpIQzNmRkF4bWtJZ2FIUV9MVmVZVldsNzBSOWZBWVpBYjNlZ1JNeXMtQW95dVFtOHZmQnhoM1BGVmRsckZ3ay1zM2p0VkcwRHEtSzdLYUJoNC13UWfSAcYBQVVfeXFMTmR5aGdwbzRkT21PS1cyNWoyMGpXQUY4bHJuTE0zUTNGVl9HQksxWUpWclBELTNLd1hNMmxIMk51VG5Gazl4S0ZKMUtXQ2VFU3BKZlo3VmgzaUl4MUNiUVpEYWw2S3ZMTTRqT0QxYlV1MWtsRmpSNTEyZ3YwMlpodzVEVkFQWVlQSW4xMEhkZFl0RGtCSU9aX1JyN2FMaG5qemNMTkJWMDZxN0FwUHlwZ0FXSmJwRUFxcmtLRnVZQnNTUzVvUjRB?oc=5)
 
 ---
 
@@ -198,11 +230,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [« On nous demande de vérifier l'invérifiable » : Wegovy et Mounjaro font craindre une vague d'indus aux pharmaciens - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ2lNRzhxNDE1WDJzU2N4Vnd3dGNqc25Benp6QmJTZlowNkxXb1ZOVU5KSG9ZaFU3T2JKZnhGWFB3TkZiWkFhVGFVLVJ1bkZ6bGNiTEtXV3J5MWFRNkhGc2tyaFpBOFZObERLd2Zpcmdtei14ZE55NzNEejJWYUZKeXI2UlZMbDZxSHg2SDRnekFnM0o2Q0Q5UWNXLXRsZThmLUxuejBiRDlrWFRPRDZTdWQ5S1pwV3FLcXlDdjhtNzRhMDJUbUNuZXNPWHR1dF9Ka2djUDFsNXBGMFpDX0Y2TWg3MFNCVng0LU9VM2FGVzlnbEJtRWFVUkhlaXFMaGUwSnRwaVJNTHM?oc=5)
+### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
-2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ2lNRzhxNDE1WDJzU2N4Vnd3dGNqc25Benp6QmJTZlowNkxXb1ZOVU5KSG9ZaFU3T2JKZnhGWFB3TkZiWkFhVGFVLVJ1bkZ6bGNiTEtXV3J5MWFRNkhGc2tyaFpBOFZObERLd2Zpcmdtei14ZE55NzNEejJWYUZKeXI2UlZMbDZxSHg2SDRnekFnM0o2Q0Q5UWNXLXRsZThmLUxuejBiRDlrWFRPRDZTdWQ5S1pwV3FLcXlDdjhtNzRhMDJUbUNuZXNPWHR1dF9Ka2djUDFsNXBGMFpDX0Y2TWg3MFNCVng0LU9VM2FGVzlnbEJtRWFVUkhlaXFMaGUwSnRwaVJNTHM?oc=5)
+來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
 ---
 
@@ -214,43 +246,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Soleus-Muskel: Gezieltes Training senkt Blutzucker um 52% - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVE9sVFczdkJjcDJoX1Q2UFRJaGp5VnFUeHNfdVBhbkpBMVJJNEJmNk9zSU1sc3J5cEdRUlRKX19pd2IwTTltU1NDSzU1Y05OVmctRFdlM3NVaWRhalRMWmxuRXRJR0kxNFByVS1EV1Y0SFMwUGlvUHZBWlM5V29SSHk3Q1B6TTJaaWJ3aHQ4anZsTGp6ZG45VER4YlJwWXBqNndvbkNiY0Y1RkJtMFFjRy1n?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVE9sVFczdkJjcDJoX1Q2UFRJaGp5VnFUeHNfdVBhbkpBMVJJNEJmNk9zSU1sc3J5cEdRUlRKX19pd2IwTTltU1NDSzU1Y05OVmctRFdlM3NVaWRhalRMWmxuRXRJR0kxNFByVS1EV1Y0SFMwUGlvUHZBWlM5V29SSHk3Q1B6TTJaaWJ3aHQ4anZsTGp6ZG45VER4YlJwWXBqNndvbkNiY0Y1RkJtMFFjRy1n?oc=5)
-
----
-
-### [Brit boy, 7, becomes first child to have pioneering surgery using a BALLOON to reverse heart failure - The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa01KSFpnaVhrMThsNVl4dWhTOU1LbWNNRmo0RVk2akFLNmtvY20wUEtqM2x1THpGZ052WkJCMXdVSk5ZeVRXbGdSS1d0R2M4SU9oRXNQLWRDWUFoRmROTVVscVpFcXg5TzRMODZoQWRiVU91anBuWUkzQlA4WG15NQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa01KSFpnaVhrMThsNVl4dWhTOU1LbWNNRmo0RVk2akFLNmtvY20wUEtqM2x1THpGZ052WkJCMXdVSk5ZeVRXbGdSS1d0R2M4SU9oRXNQLWRDWUFoRmROTVVscVpFcXg5TzRMODZoQWRiVU91anBuWUkzQlA4WG15NQ?oc=5)
-
----
-
-### [La incontinencia urinaria, un problema con solución que afecta a 400 millones de personas](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHpCMTlpQjRpUWh2ZXEtNjBnS01BN0dJdXU2WXpwNkYyTk9OaGRheEh2XzZUbTVoaVRpU19LNWtoM0F4WkVTTkNfRHM4aDdXSGlJWGJjcGtsZzlsQ2pjck1hcDFkT1RQbTVLS1JqYVF6NHhtUURyWThnQ0xHYnlYbFlneU0zeHZEaER1LWZ5T240NVk0VTVRYnRQU2tDNTZ4bnBuaTUzeXZFSHdpR3EtNDU3bHR0NzAyNF9WbTJRMXFTSUhOY0pqZndiWkZKNXR5eWZWdNIB2gFBVV95cUxOQ3dEaGFBbG8yektxbnJBcFJjcHJMVG1oSTFicTY2UW9USF9MbUZCU0JaSzdMeUVkdVFIVnlfOWNNQzJDTjlUYl9CNVAxbVZoSERFQm9QNTlwd0FkUUFndElrWUZDQnZKYURWaXh4SDRONXlSVDNEeHlMQjlKdE9YeWRtVDBydmxWcEdmcDdJNUhGbGRqeFo5N0dBRjBFaTVhZE8tdzBvWUV5c3dxZTR3TVJBSnp0al9CS0NTMlNFRDA4OHNrdlNEcFh1T0RGd3FCOGlWaER1Z09nQQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">AF</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHpCMTlpQjRpUWh2ZXEtNjBnS01BN0dJdXU2WXpwNkYyTk9OaGRheEh2XzZUbTVoaVRpU19LNWtoM0F4WkVTTkNfRHM4aDdXSGlJWGJjcGtsZzlsQ2pjck1hcDFkT1RQbTVLS1JqYVF6NHhtUURyWThnQ0xHYnlYbFlneU0zeHZEaER1LWZ5T240NVk0VTVRYnRQU2tDNTZ4bnBuaTUzeXZFSHdpR3EtNDU3bHR0NzAyNF9WbTJRMXFTSUhOY0pqZndiWkZKNXR5eWZWdNIB2gFBVV95cUxOQ3dEaGFBbG8yektxbnJBcFJjcHJMVG1oSTFicTY2UW9USF9MbUZCU0JaSzdMeUVkdVFIVnlfOWNNQzJDTjlUYl9CNVAxbVZoSERFQm9QNTlwd0FkUUFndElrWUZDQnZKYURWaXh4SDRONXlSVDNEeHlMQjlKdE9YeWRtVDBydmxWcEdmcDdJNUhGbGRqeFo5N0dBRjBFaTVhZE8tdzBvWUV5c3dxZTR3TVJBSnp0al9CS0NTMlNFRDA4OHNrdlNEcFh1T0RGd3FCOGlWaER1Z09nQQ?oc=5)
-
----
-
-### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
-
----
-
 ### [Cette maladie incurable affecte certaines zones du cerveau](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ocVFSWnMxU0daUFdmWjlmVXhRTVpFN2dPYzVodV8wSUdSTy1JNWpzS3ZQd1Z4Wkp2dExoTDZQVWE2RXg4Z0FXV2ZVbm4ycFZvT211ai1oTi1uWExTLWFXczdmQnM5QlBGdkJ2VnZJbw?oc=5)
 
 2026-06-18 <span class="news-indication-tag">AF</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ocVFSWnMxU0daUFdmWjlmVXhRTVpFN2dPYzVodV8wSUdSTy1JNWpzS3ZQd1Z4Wkp2dExoTDZQVWE2RXg4Z0FXV2ZVbm4ycFZvT211ai1oTi1uWExTLWFXczdmQnM5QlBGdkJ2VnZJbw?oc=5)
+
+---
+
+### [Boy's life saved after angioplasty to reverse heart failure](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
+
+2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
 
 ---
 
@@ -270,43 +278,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Ozempic, la nueva esperanza para la natalidad: aumenta los niveles de testosterona y mejora la calidad del esperma - El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTUZVNmE0VXplQ3dsZ1Ffc0FiT0QtOWVRVUF3dTU3dGhoakg0eW5VbFhfTnExT3plUzJabG1KRFV1UWdXV09xdHloSnFsdk5lQnNFQ05VTW9wMHhTNXRxNHhMLVhlWTNtclNZcU1Qc0dvTEJxLXpvNW5JbGR0YTcwcGxaQmdyMlNEVG9WbTluVk1aT0pEUlZRUVIydE9LaDNqN0dsYk5wSUJxcDZfZUpTb0dpTnJSMGo3TkF6UTRwZG5BMDl5RGo5WHJyekdBdzZrQ0RCakFBaktLcUV6UGIyMmVBLTFiS21fVnQ1eS1FTE8yMjc3dXgwdGFVMmFlZTB1M0HSAYcCQVVfeXFMTnY3YUY1cTluRXVJY2hmUlZiWnpBRHppNGtqVmpVZG8xZWxGR1h0RnhMT0dmSF9GbWJPd0d2M3VQNHJqWV9qYVgzeTNINEFTeG5GdEQxU3lqM3RKd3o2a2pZbFh6WVkyeFp2SHQ2LVcwN3NzSHdzbkZmMG1xYzZ4OFVWMzQzWXh3a2M4dlJRN3ZZbG1iV1dvRGRaa0xpSXoyUElqcE5QRGNKN2Y4VC0tVW1XbU02VmFvbGVwMnlLcDU5SGdMOGY1RnpHcGJtcUxXaWNsMk53WlNsU25tRGlaOUtZWkkxUnZtME1FRTVscjNzMXRYQ0o0NlRjdGVLQlVvckZWc1lndms?oc=5)
+### [Pastillas para adelgazar: el nuevo fármaco de Wegovy que preocupa a los médicos - El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWfSAcsBQVVfeXFMT2tQWjU2MGFyUEh0SG5vdEhSRGlUOU5vVTRBNml5VW1sRVlnLWlMM3RuYjJUQlUzY2Z0ZlU2azdWX3JjTVVwLVc1VU8yQ2JrWHhBYVFMM0FGTVo4Q2x4R1YtQkU4bHlTNEJQYWV1OFVNNVhYckw5UEVrVGx6bllpVXBHSkpUaTdhSk1VMjhWTmp2SXV4aVlwQlJMNkpUQVJOazJxUjR3X1d5cG05UzBVZkVtcVNQY1JucGZNZ2JBUm5mWHRMcVRmbmVHd3c?oc=5)
 
-2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTUZVNmE0VXplQ3dsZ1Ffc0FiT0QtOWVRVUF3dTU3dGhoakg0eW5VbFhfTnExT3plUzJabG1KRFV1UWdXV09xdHloSnFsdk5lQnNFQ05VTW9wMHhTNXRxNHhMLVhlWTNtclNZcU1Qc0dvTEJxLXpvNW5JbGR0YTcwcGxaQmdyMlNEVG9WbTluVk1aT0pEUlZRUVIydE9LaDNqN0dsYk5wSUJxcDZfZUpTb0dpTnJSMGo3TkF6UTRwZG5BMDl5RGo5WHJyekdBdzZrQ0RCakFBaktLcUV6UGIyMmVBLTFiS21fVnQ1eS1FTE8yMjc3dXgwdGFVMmFlZTB1M0HSAYcCQVVfeXFMTnY3YUY1cTluRXVJY2hmUlZiWnpBRHppNGtqVmpVZG8xZWxGR1h0RnhMT0dmSF9GbWJPd0d2M3VQNHJqWV9qYVgzeTNINEFTeG5GdEQxU3lqM3RKd3o2a2pZbFh6WVkyeFp2SHQ2LVcwN3NzSHdzbkZmMG1xYzZ4OFVWMzQzWXh3a2M4dlJRN3ZZbG1iV1dvRGRaa0xpSXoyUElqcE5QRGNKN2Y4VC0tVW1XbU02VmFvbGVwMnlLcDU5SGdMOGY1RnpHcGJtcUxXaWNsMk53WlNsU25tRGlaOUtZWkkxUnZtME1FRTVscjNzMXRYQ0o0NlRjdGVLQlVvckZWc1lndms?oc=5)
-
----
-
-### ['I buried my parents one day after the other' - Ebola mourners learn how to grieve safely](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubEpvU1JwV1poWXQtSklvZGE0dl9JNmdSUEFTVDF6UEVuOVc1ZFJXd3FTN2lJcmR0a1d6cTctVk9QV3lzWnl0RWVMRWFyU0hQeTY4LW5ZTVloWmdK?oc=5)
-
-2026-06-17 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubEpvU1JwV1poWXQtSklvZGE0dl9JNmdSUEFTVDF6UEVuOVc1ZFJXd3FTN2lJcmR0a1d6cTctVk9QV3lzWnl0RWVMRWFyU0hQeTY4LW5ZTVloWmdK?oc=5)
-
----
-
-### [Rare Neanderthal baby remains reveal growth patterns similar to modern humans and signs of metabolic disease - Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmpQU0c1TTVGejh0dkIwNjhQbkdqVHJfWW02OHJZdmxtZktCQjN5VmhBelVHdmhPMDVrNUo3Mmpjcno2SExfQURlRHRlejB6SkpXTGRERzV0YTY4ZjAtZGlEdEJHamJIR1oyU09yWHU0OEh5SjZmcE9zTXpuc2RsMGNn?oc=5)
-
-2026-06-17 <span class="news-indication-tag">AF</span>
-
-來源：[Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmpQU0c1TTVGejh0dkIwNjhQbkdqVHJfWW02OHJZdmxtZktCQjN5VmhBelVHdmhPMDVrNUo3Mmpjcno2SExfQURlRHRlejB6SkpXTGRERzV0YTY4ZjAtZGlEdEJHamJIR1oyU09yWHU0OEh5SjZmcE9zTXpuc2RsMGNn?oc=5)
-
----
-
-### [Why weight-loss drugs don’t work for some people - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
-
----
-
-### [Daridorexant bei Schlafstörungen in der psychiatrischen Praxis - mgo medizin](https://news.google.com/rss/articles/CBMimwJBVV95cUxQR1RvMkZqdF9INS00dVRnczNLLWtFTTgtSlVJTTZqRG1lLVNWOV9XZ3hMcnBOOWlpR2JTR2oza0xNZElnV3VVQVlzcEpxWGZfeXgtM0t0RmZiVHUwQUxhNE1QMXNBQ2RHVFo3WnkxeDJ2V2dLeWotWjhQYWhyNkR1WkluX0FpOUxZaTd6eWpSbzZMYWUxYThWdGUwTlJhcW90c2tXN2dTQ1RLM2U1bVc4MDQtdTNTRnlkR250T2hXTjBJRGg5alJsXzNFZFhSX2pQYURSX2NXeDZDY0Nkd1VERV85RDB4dEFORWFhaFR4WVhtTGc5SUsxRkdfLVN0S2RER1M1TldQX2diNWFBRHgwMEZoRHA3OHB1OTlv?oc=5)
-
-2026-06-17 <span class="news-indication-tag">AF</span>
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMimwJBVV95cUxQR1RvMkZqdF9INS00dVRnczNLLWtFTTgtSlVJTTZqRG1lLVNWOV9XZ3hMcnBOOWlpR2JTR2oza0xNZElnV3VVQVlzcEpxWGZfeXgtM0t0RmZiVHUwQUxhNE1QMXNBQ2RHVFo3WnkxeDJ2V2dLeWotWjhQYWhyNkR1WkluX0FpOUxZaTd6eWpSbzZMYWUxYThWdGUwTlJhcW90c2tXN2dTQ1RLM2U1bVc4MDQtdTNTRnlkR250T2hXTjBJRGg5alJsXzNFZFhSX2pQYURSX2NXeDZDY0Nkd1VERV85RDB4dEFORWFhaFR4WVhtTGc5SUsxRkdfLVN0S2RER1M1TldQX2diNWFBRHgwMEZoRHA3OHB1OTlv?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWfSAcsBQVVfeXFMT2tQWjU2MGFyUEh0SG5vdEhSRGlUOU5vVTRBNml5VW1sRVlnLWlMM3RuYjJUQlUzY2Z0ZlU2azdWX3JjTVVwLVc1VU8yQ2JrWHhBYVFMM0FGTVo4Q2x4R1YtQkU4bHlTNEJQYWV1OFVNNVhYckw5UEVrVGx6bllpVXBHSkpUaTdhSk1VMjhWTmp2SXV4aVlwQlJMNkpUQVJOazJxUjR3X1d5cG05UzBVZkVtcVNQY1JucGZNZ2JBUm5mWHRMcVRmbmVHd3c?oc=5)
 
 ---
 
