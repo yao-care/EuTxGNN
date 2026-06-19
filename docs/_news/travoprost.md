@@ -62,11 +62,11 @@ permalink: /news/travoprost/
 
 ---
 
-### [Boy has life-saving heart surgery in UK first - The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
+### [Brit boy, 7, becomes first child to have pioneering surgery using a BALLOON to reverse heart failure - The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa01KSFpnaVhrMThsNVl4dWhTOU1LbWNNRmo0RVk2akFLNmtvY20wUEtqM2x1THpGZ052WkJCMXdVSk5ZeVRXbGdSS1d0R2M4SU9oRXNQLWRDWUFoRmROTVVscVpFcXg5TzRMODZoQWRiVU91anBuWUkzQlA4WG15NQ?oc=5)
 
 2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa01KSFpnaVhrMThsNVl4dWhTOU1LbWNNRmo0RVk2akFLNmtvY20wUEtqM2x1THpGZ052WkJCMXdVSk5ZeVRXbGdSS1d0R2M4SU9oRXNQLWRDWUFoRmROTVVscVpFcXg5TzRMODZoQWRiVU91anBuWUkzQlA4WG15NQ?oc=5)
 
 ---
 

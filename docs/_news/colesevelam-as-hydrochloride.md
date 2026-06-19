@@ -54,6 +54,22 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（15 則）
 
+### [Dormir moins de 6 heures par nuit augmenterait le risque de diabète — selon une étude](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnNvWkdYOGRWa1g2aDZCQmNJRHk0RjNyUFUtNWxEX09hXzZSR1VWQ1h6UFcxb19lZGlSZS1VUlRWMlAwdlE5dUFpbzdvSzl6eEduYmpqem80LVhQU0hVSEd1Z3V3bHdiclV2VnRUSnpkeHRVRmk0eEdZeU9la1cwcVRrejNYMi1jTkdOOHd3SjhmNUtET2JDR2JTU0VoOVBOMXFyX2dlYzFYMzJ6ZkVzZFNydTg?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabète</span>
+
+來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnNvWkdYOGRWa1g2aDZCQmNJRHk0RjNyUFUtNWxEX09hXzZSR1VWQ1h6UFcxb19lZGlSZS1VUlRWMlAwdlE5dUFpbzdvSzl6eEduYmpqem80LVhQU0hVSEd1Z3V3bHdiclV2VnRUSnpkeHRVRmk0eEdZeU9la1cwcVRrejNYMi1jTkdOOHd3SjhmNUtET2JDR2JTU0VoOVBOMXFyX2dlYzFYMzJ6ZkVzZFNydTg?oc=5)
+
+---
+
+### [Wechseljahre: Viszerales Fett um 10% senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE1MNUVvUXIxc2VHZjNaTk4zSGxWMVI5MG91YTlfN0ZSRVFiQkxIbXd6ZUJhQ2tfcm5OTFFqaDBMU1AzQ0oyc2t5bTEyUW1yaS1KMWJ0NTNxMGduYndXckw3QVRXYzJ6cFZtdFVMRHEwakpXWXBDSndhb1lydnUxclVrZUZUbllla0dXYW9qRGRwZzMxZnU0bzNYVGZuZUEwczR0X0pRVWZ3SFR2WjI3SDVRdkk0eXdwLV9Z?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE1MNUVvUXIxc2VHZjNaTk4zSGxWMVI5MG91YTlfN0ZSRVFiQkxIbXd6ZUJhQ2tfcm5OTFFqaDBMU1AzQ0oyc2t5bTEyUW1yaS1KMWJ0NTNxMGduYndXckw3QVRXYzJ6cFZtdFVMRHEwakpXWXBDSndhb1lydnUxclVrZUZUbllla0dXYW9qRGRwZzMxZnU0bzNYVGZuZUEwczR0X0pRVWZ3SFR2WjI3SDVRdkk0eXdwLV9Z?oc=5)
+
+---
+
 ### [Expertos exigen al Senado impulsar la detección precoz universal de Diabetes Tipo 1](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJmUVpNR1RFMXJfeVl0SDhRc0x4QXJtWEsyWS1CeU9iS3RUUk9LdktzcGdUODV4cmNYc09sYU95MHJsTWtyQXFwaG51cG9KVVJ6NUxDWURMSUdvc0FTX0piZjRHV2pSZkVhT09IbWtwWFlFZG5VYTlxSThCa000RzN6QlZETVhhYk9lTzNyMkJITHBMb2FGcnNwdjBfTy1PUzd6ZzF6bllYT09iSERGY1ZyNzB1RmcwYkE?oc=5)
 
 2026-06-19 <span class="news-indication-tag">diabetes</span>
@@ -86,27 +102,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Intervallfasten: 28% weniger Diabetes-Risiko durch Fettabbau - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLW5uTEFwSnVqUUxweGkxc0hUeWhmblM4Q3I5Sml0aDRCbEl1RGo2R2hSeDBJS2F2TWFpUk9zR0RtellFeVN3SVFRZmU5TFFYRHgxQ19QY0x1OUtGaW8wajhtMWliazlDSjlmeXF0WVlLVzlCOUM4N2hGck5Ddl9RN0cwU3dfWG91VmlxZllObC1WYnNQeENzU3AwSDdUWno5MVFlanZ5NmJkWHY1S0VyQlJJWkdkZw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLW5uTEFwSnVqUUxweGkxc0hUeWhmblM4Q3I5Sml0aDRCbEl1RGo2R2hSeDBJS2F2TWFpUk9zR0RtellFeVN3SVFRZmU5TFFYRHgxQ19QY0x1OUtGaW8wajhtMWliazlDSjlmeXF0WVlLVzlCOUM4N2hGck5Ddl9RN0cwU3dfWG91VmlxZllObC1WYnNQeENzU3AwSDdUWno5MVFlanZ5NmJkWHY1S0VyQlJJWkdkZw?oc=5)
-
----
-
 ### [Sardinen gegen Diabetes: 64 Prozent Risikosenkung in einer Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXRmRHRidHhIVzFaN3N2NXFyMmlFTkJmV0ktblZPejRGUGRGQzN6VktwUl9MQUw4aG9Rck0xZF9fUHRMaDAybjRDQmdEZWVLSG1WNW8tZzVuWE8wNGZNRkhoeXQ5clJnMTFRbVhMNnE5U3hqUW1YZGJEemZycTM5MDdQRk1UQXdqZXNGRXItVlZpVzV0Q19nUGxJdTNCZ2RLY1d1UW9Rb3gxeXhPbXhQcUw3Zw?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXRmRHRidHhIVzFaN3N2NXFyMmlFTkJmV0ktblZPejRGUGRGQzN6VktwUl9MQUw4aG9Rck0xZF9fUHRMaDAybjRDQmdEZWVLSG1WNW8tZzVuWE8wNGZNRkhoeXQ5clJnMTFRbVhMNnE5U3hqUW1YZGJEemZycTM5MDdQRk1UQXdqZXNGRXItVlZpVzV0Q19nUGxJdTNCZ2RLY1d1UW9Rb3gxeXhPbXhQcUw3Zw?oc=5)
-
----
-
-### [El tabaco en mujeres y la diabetes en hombres disparan el riesgo cardiovascular en Castilla y León - El Norte de Castilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkQ1Y3R3QnB2d1E5ZXNDYTdVcW00QVVNWENRa2M0d0puY3hWNENwY2V3blBzQm43RGNCMk9JQWFlekdFeElZc2V3dWI4a0VsVUo5bkxxZTNMMFhxUllzQ3BNVVRfSy05REtUVW5Fc0F2Z2JkRF9HZkQxWE5tMVVYNHM0LTk3Q3J2WEZOd1lpaFgySV9UYjZacVltQi1CeXpRY1ByUnhVbkNpOEtiRG9ZOTdKenVlNVpXZ1NfMGl3SlJSVllTUVZNUXoxcXHSAdIBQVVfeXFMUHBBM2NNajdLSTYwTXpfTTkzSWY5dm1ZZ1BNZllCU1ZkZVhVWk9lT2pNSktDLUs3eDR4akU4Q1psb0t6WHM0VDBaSmNpakoxMVRJQTVaOHkxZkZ1bFJ1cG4xNkQ1dE94a0xjRkQ2ekpTVnV4NjV2ZWJJOENfNjNGSktYaXpxNVBPXzUxWXpEY2ZWeVI5RkVNS1F0R0Nwc3l2aWIwWmtwZFctbG5qSUoxOVdtczJFclFfM3hzUGN1Z0NHaF9pUlRqN1VFT2VnM0p1aWdn?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkQ1Y3R3QnB2d1E5ZXNDYTdVcW00QVVNWENRa2M0d0puY3hWNENwY2V3blBzQm43RGNCMk9JQWFlekdFeElZc2V3dWI4a0VsVUo5bkxxZTNMMFhxUllzQ3BNVVRfSy05REtUVW5Fc0F2Z2JkRF9HZkQxWE5tMVVYNHM0LTk3Q3J2WEZOd1lpaFgySV9UYjZacVltQi1CeXpRY1ByUnhVbkNpOEtiRG9ZOTdKenVlNVpXZ1NfMGl3SlJSVllTUVZNUXoxcXHSAdIBQVVfeXFMUHBBM2NNajdLSTYwTXpfTTkzSWY5dm1ZZ1BNZllCU1ZkZVhVWk9lT2pNSktDLUs3eDR4akU4Q1psb0t6WHM0VDBaSmNpakoxMVRJQTVaOHkxZkZ1bFJ1cG4xNkQ1dE94a0xjRkQ2ekpTVnV4NjV2ZWJJOENfNjNGSktYaXpxNVBPXzUxWXpEY2ZWeVI5RkVNS1F0R0Nwc3l2aWIwWmtwZFctbG5qSUoxOVdtczJFclFfM3hzUGN1Z0NHaF9pUlRqN1VFT2VnM0p1aWdn?oc=5)
 
 ---
 
@@ -126,6 +126,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Soleus-Muskel: Gezieltes Training senkt Blutzucker um 52% - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVE9sVFczdkJjcDJoX1Q2UFRJaGp5VnFUeHNfdVBhbkpBMVJJNEJmNk9zSU1sc3J5cEdRUlRKX19pd2IwTTltU1NDSzU1Y05OVmctRFdlM3NVaWRhalRMWmxuRXRJR0kxNFByVS1EV1Y0SFMwUGlvUHZBWlM5V29SSHk3Q1B6TTJaaWJ3aHQ4anZsTGp6ZG45VER4YlJwWXBqNndvbkNiY0Y1RkJtMFFjRy1n?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVE9sVFczdkJjcDJoX1Q2UFRJaGp5VnFUeHNfdVBhbkpBMVJJNEJmNk9zSU1sc3J5cEdRUlRKX19pd2IwTTltU1NDSzU1Y05OVmctRFdlM3NVaWRhalRMWmxuRXRJR0kxNFByVS1EV1Y0SFMwUGlvUHZBWlM5V29SSHk3Q1B6TTJaaWJ3aHQ4anZsTGp6ZG45VER4YlJwWXBqNndvbkNiY0Y1RkJtMFFjRy1n?oc=5)
+
+---
+
 ### [She feared losing a limb — then 67-year-old put her diabetes into remission amazingly - South Wales Argus](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnFUWWVYblMtM0pGZFYzdjVWUlhGdzdDbGkzNjlScVNQOFEyTEVybTR2anlQbnFQYVhkSTFCNEpha0lUaXI5M1RaVDhTZ1NBdFdlTUdyX252YWxIa2dXX2hVVFdDYnpaMHktYWFDaUJXZnZUSXpRd2phSUo1dXR3NGJTUTNTYjlTWThQUTYtTGFBcDJFak5oNjdLWQ?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span>
@@ -134,19 +142,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Brit boy, 7, becomes first child to have pioneering surgery using a BALLOON to reverse heart failure - The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa01KSFpnaVhrMThsNVl4dWhTOU1LbWNNRmo0RVk2akFLNmtvY20wUEtqM2x1THpGZ052WkJCMXdVSk5ZeVRXbGdSS1d0R2M4SU9oRXNQLWRDWUFoRmROTVVscVpFcXg5TzRMODZoQWRiVU91anBuWUkzQlA4WG15NQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa01KSFpnaVhrMThsNVl4dWhTOU1LbWNNRmo0RVk2akFLNmtvY20wUEtqM2x1THpGZ052WkJCMXdVSk5ZeVRXbGdSS1d0R2M4SU9oRXNQLWRDWUFoRmROTVVscVpFcXg5TzRMODZoQWRiVU91anBuWUkzQlA4WG15NQ?oc=5)
+
+---
+
 ### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
-
----
-
-### [Boy has life-saving heart surgery in UK first - The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
-
-2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
 
 ---
 
@@ -163,14 +171,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-06-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxObXBFZ1ZRMXlFcW9JSVk0dlEzQ1ljakkyWkxFcDh3ak9SbEUwanhRZmxrU2czMDYtc3lvUVJwNHdIX1BfcmRGTm1TVEZmQXNVdVBmNUhWZUM3N0FLSHFsV25Fc3FHZ1AyclJMdkFUTzdrRGdQbVRwMnRWcHZfWWZFaERick8wdjlldjVqTFpfV25EWlNKTjFzM3hCVUJqaTJzNHhFNlRGMEZaYmw2WmE1eEhTaUw?oc=5)
-
----
-
-### [Schweizer Umfrage - Wir sind ungesünder, als wir glauben - Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
 
 ---
 

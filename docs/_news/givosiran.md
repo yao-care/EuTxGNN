@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Bluthochdruck: 20 Millionen Deutsche betroffen – Heimmonitoring senkt Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
+### [Hepatitis Delta: alertan del riesgo de cáncer hepático y urgen a diagnosticar y tratar antes la enfermedad - Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
 
-2026-06-18 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-19 <span class="news-indication-tag">hepatitis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
 
 ---
 
-### [Brote de hepatitis A: Sanidad detecta seis casos en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQaw?oc=5)
+### [Sanidad da por controlado el brote de hepatitis A detectado en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
 
-2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-06-19 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Canarias7](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQaw?oc=5)
+來源：[Canarias7](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
+
+---
+
+### [E-Nummern: 8 häufige Konservierungsmittel stehen im Verdacht, Bluthochdruck zu fördern](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUU9NT1Y3ZW9veGZRUVEzVHlnQnRBZFNJd0I1LVd3WFNfUGRYV2dnemozZWVadnFVVi1iZk91bXNTOWhLbW9fdElyQ2p6R2cwSFhvUllvMzcwZzUtX0NkWE1aWjhxRFhJaXF1X2dqVHJGXzJ3MEJOYlNYRmN0dUtVQldpTHNVUGdDSUxaT01CZElCV2tLU2NkQlcxNy1iTHpKZUEweWx2RzJZNHVyclliaXNPaXhYLURPZVJYNDdEcw?oc=5)
+
+2026-06-19 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUU9NT1Y3ZW9veGZRUVEzVHlnQnRBZFNJd0I1LVd3WFNfUGRYV2dnemozZWVadnFVVi1iZk91bXNTOWhLbW9fdElyQ2p6R2cwSFhvUllvMzcwZzUtX0NkWE1aWjhxRFhJaXF1X2dqVHJGXzJ3MEJOYlNYRmN0dUtVQldpTHNVUGdDSUxaT01CZElCV2tLU2NkQlcxNy1iTHpKZUEweWx2RzJZNHVyclliaXNPaXhYLURPZVJYNDdEcw?oc=5)
+
+---
+
+### [Canicule : ces deux aliments, délicieux en salade, réduiraient l'hypertension](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hypertension</span>
+
+來源：[parismatch.be](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
+
+---
+
+### [20 Millionen Deutsche betroffen: So erkennt man Bluthochdruck, bevor Schäden entstehen](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckpUOHhSWHNLRE5vZ0JwMzdpYnZSX3ljc1FTYkFFbU9mbzZmUlNWVHlzM2MwTkEtemk5MEF3OFJrV2ptNzBYa3RWM1V3eVJCSFJZMDFHaUdTdWtPUmd0bnludUl0X25CelpJZTY5VmxiamtpMkdtTWF1UXJwZS1Hc011Z1lvUGV5bXFrV2RWZjlnODRSRWc4dmxESDdramswcThNSmc3dm56UlM3c29fOTR6LTE0NHJHMlA5SmF3?oc=5)
+
+2026-06-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckpUOHhSWHNLRE5vZ0JwMzdpYnZSX3ljc1FTYkFFbU9mbzZmUlNWVHlzM2MwTkEtemk5MEF3OFJrV2ptNzBYa3RWM1V3eVJCSFJZMDFHaUdTdWtPUmd0bnludUl0X25CelpJZTY5VmxiamtpMkdtTWF1UXJwZS1Hc011Z1lvUGV5bXFrV2RWZjlnODRSRWc4dmxESDdramswcThNSmc3dm56UlM3c29fOTR6LTE0NHJHMlA5SmF3?oc=5)
 
 ---
 
@@ -83,22 +107,6 @@ permalink: /news/givosiran/
 2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
-
----
-
-### [Les 2 aliments parfaits en salade quand il fait chaud : ils évitent les pics de tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
-
-2026-06-18 <span class="news-indication-tag">hypertension</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
-
----
-
-### [Contrasse l'epatite C durante una trasfusione: dopo 40 anni arriva il risarcimento](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdWcnM2bEVOajN6TTVVaXRUYnV5bmhIWEJFTW5CcHlTRDFVa1NPNUh0dlZlWG1taU5Welh6M19VY0p1T0lRcl9zdXFYb0lJb2E5NnZjcEo5WXFWWnlGSVhmUWJhZWs5US1jd09QTHRXVEo1SktSZnM4WlR4YjNLUnZtdzlZQTJtMTZwYXlSMElLMzBJd2xadm03Wm9CZ0tTYmRzZThXV2Y1dGJBNld3Z3RMaUY5SnNuT1BVSEoxQQ?oc=5)
-
-2026-06-17 <span class="news-indication-tag">epatite</span>
-
-來源：[BrindisiReport](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdWcnM2bEVOajN6TTVVaXRUYnV5bmhIWEJFTW5CcHlTRDFVa1NPNUh0dlZlWG1taU5Welh6M19VY0p1T0lRcl9zdXFYb0lJb2E5NnZjcEo5WXFWWnlGSVhmUWJhZWs5US1jd09QTHRXVEo1SktSZnM4WlR4YjNLUnZtdzlZQTJtMTZwYXlSMElLMzBJd2xadm03Wm9CZ0tTYmRzZThXV2Y1dGJBNld3Z3RMaUY5SnNuT1BVSEoxQQ?oc=5)
 
 ---
 

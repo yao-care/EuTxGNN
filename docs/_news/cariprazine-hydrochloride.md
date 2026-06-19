@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
@@ -67,6 +67,22 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-18 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejZvOHhVN1RSNWwwbTNaR3F2S1g4TFN3aldkeFJQQXRJWDZjUjFocHNXU3dTdFlwNjlHcm1OS3I3TGt3RmtrVVBDdmNFWGlhTldOcmotNktCTXlLNmJURjhrMGJsVWx3X2tSaF9TSTV6allaYW5tSGpHOGlOT0I5TVE5Mk9KSVFCbmx1cmRkckZGSWJPLU13VnJCSFFqdWw2bGctZXJoR1BJTW9xUTlQcA?oc=5)
+
+---
+
+### [Alzheimer: Seneszente Zellen verdreifachen Risiko bei APOE4-Trägern - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2JucmZhQ3RIYTUtWTk3X0ZhdnlxUGJXQUFDc1NsVy1MbDZJNkVpRlJkeUxfTGtteHFLeTFZMERJUnY1Z2dxdEplNVA1OFc3SlkwSlRLOXFkbDIzZlgzOExxdTFXeUFzT2ZKQTdhQUN6OW9lLW1CZzU5VGVsZU1IeVRLVW96QmJZdUJPX3cwbFRzVE1ycVFTVGRNeVF0Tk5QZEpkOUhkNG5KMkpFcVhranFpOHhMQ2c?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2JucmZhQ3RIYTUtWTk3X0ZhdnlxUGJXQUFDc1NsVy1MbDZJNkVpRlJkeUxfTGtteHFLeTFZMERJUnY1Z2dxdEplNVA1OFc3SlkwSlRLOXFkbDIzZlgzOExxdTFXeUFzT2ZKQTdhQUN6OW9lLW1CZzU5VGVsZU1IeVRLVW96QmJZdUJPX3cwbFRzVE1ycVFTVGRNeVF0Tk5QZEpkOUhkNG5KMkpFcVhranFpOHhMQ2c?oc=5)
+
+---
+
+### [MSD impulsa la excelencia científica en Oncología con HorizON - Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
 
 ---
 
@@ -86,43 +102,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [MSD impulsa la excelencia científica en Oncología con el encuentro HorizON](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWFuZ2QzWEp5Qkl3YVYzcmRmN1JtY2k1LVUxTndjc21HUU5ZT29HSVlLZnRaMGJmM1Nla0ZJLTIzUUdOeHk5WEwzbHpvM0t5aDJwdGNxR3dYNVhzU0Z3Q3dSNGdCZldwcFZQaE9MVUJEVkFkVWNEQ2xtRUNwVFVWcFFubzRXeFY5Z0F6RFJySjlTNDJYOC1GdW5ZRVJFclJFcFdQdXNQMXk1QXZ1T1ByWmt2OXlWR2hyZTBTZA?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWFuZ2QzWEp5Qkl3YVYzcmRmN1JtY2k1LVUxTndjc21HUU5ZT29HSVlLZnRaMGJmM1Nla0ZJLTIzUUdOeHk5WEwzbHpvM0t5aDJwdGNxR3dYNVhzU0Z3Q3dSNGdCZldwcFZQaE9MVUJEVkFkVWNEQ2xtRUNwVFVWcFFubzRXeFY5Z0F6RFJySjlTNDJYOC1GdW5ZRVJFclJFcFdQdXNQMXk1QXZ1T1ByWmt2OXlWR2hyZTBTZA?oc=5)
-
----
-
-### [Ancient DNA provides evidence of earliest known plague outbreak | Archaeology - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
-
----
-
 ### [Millionen schlucken Vitamin D – doch ihre Knochen profitieren kaum - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
-
----
-
-### [Alzheimer 2026: Entzündung, Seneszenz und neue KI-Tests rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
-
----
-
-### [Breakthrough jab could ‘reverse ageing’ and help fight cancer and dementia - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
-
-2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
 
 ---
 
@@ -139,6 +123,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFJYd1FOT0RKdldNVzN4Yks1eEdEc1JHTFZVY1pLbm5SbkxVdE8wQVRBV25xYXc5STFUU0doZEprODRmOHJ3MVlMcm5Wd2xMM1VRdWRnQVZ5b3E2TElpQW80dUVxS1lHZWNCWFh6N29EdUpVSTZGeHVTTTRFbk1QdWNGZWJfRmhFZURxLVRNZGs1dTNjaThLMkZodWcwQXRHUUpoWnl5d1FEZzdoOUtCN0xKUlVaQ29FVmtpb0JLTQ?oc=5)
+
+---
+
+### [Revision der McDonald-Kriterien für Multiple Sklerose von 2024 - mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
+
+2026-06-12 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGYxYU1JNDZvNzVQSnJjclN4UGdsZmpMcDZtdlRrNVJDWDNrcVRTUDJFalV5am55VHlDbEFHNlU3cU96Tk0yTUdzS05sWjQwWTVpYzJsZnc3ZkxVcUc0YVQzTGU1ekdsMHV2VmFEbFJaQm5meDhDbzdGRmtUbDc3TlI1MVQwT1FNbE5LeDhLMGRVM3JPMXVORUlUQXhlZTZFR083N1BEQzZucW56aXZxeTJ1OV8?oc=5)
 
 ---
 

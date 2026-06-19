@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。11 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>11 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [Obesidad en Asturias: los estereotipos impiden comprender su origen multifactorial](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlB2dV9aYzRNZWZzejdSN21lX29xM2R1Z3g0a3JiZzh6NDlvaU1zT3FGX1owS3FwaFhTVXM4VUNjYUc1b1Z0MHdXUlNEb0I4eERPaE1zeVRaNUU2YnAyb01Rc2VpSEVrLWFHRWRTczBfTzRUUklmYzdaenE0Nmo1bVpBaTNCZlVpTlE0?oc=5)
+
+2026-06-19
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlB2dV9aYzRNZWZzejdSN21lX29xM2R1Z3g0a3JiZzh6NDlvaU1zT3FGX1owS3FwaFhTVXM4VUNjYUc1b1Z0MHdXUlNEb0I4eERPaE1zeVRaNUU2YnAyb01Rc2VpSEVrLWFHRWRTczBfTzRUUklmYzdaenE0Nmo1bVpBaTNCZlVpTlE0?oc=5)
+
+---
+
+### [Adipositas-Epidemie erreicht in westlichen Ländern ihren Höhepunkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnpSN2dWNnAyTTMzSV9tLWNQSTJYbG8xa2FWdEJNc0hlRWpZX0FuUVJWQjA4cWdwb0M5T21pMGx3My1oOENhdThiQ1ZYNlQ3WUdyU3dfb2JQVWFmYVBDbjdFWUxZdG84MVYxUm4wbHpVcDdaWXJDcFBqZnlTNV9sNnE2TjdHRHVsR3VUNjN3LVUtTkpOQTA5ZERPbFJJSTRnMG9QUVlmZWNscWN1T2NPRlprZklZR2poWDNlN1JPOG04UThEX000OUVybGRiWUMy?oc=5)
+
+2026-06-19
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnpSN2dWNnAyTTMzSV9tLWNQSTJYbG8xa2FWdEJNc0hlRWpZX0FuUVJWQjA4cWdwb0M5T21pMGx3My1oOENhdThiQ1ZYNlQ3WUdyU3dfb2JQVWFmYVBDbjdFWUxZdG84MVYxUm4wbHpVcDdaWXJDcFBqZnlTNV9sNnE2TjdHRHVsR3VUNjN3LVUtTkpOQTA5ZERPbFJJSTRnMG9QUVlmZWNscWN1T2NPRlprZklZR2poWDNlN1JPOG04UThEX000OUVybGRiWUMy?oc=5)
+
+---
 
 ### [Actuar sobre los mecanismos epigenéticos revierte el daño vascular asociado a la obesidad y la diabetes - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
 
@@ -46,11 +62,27 @@ permalink: /news/obesity/
 
 ---
 
+### [Mounjaro batte Ozempic: il farmaco che riduce il peso del 25%](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
+
+2026-06-19
+
+來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
+
+---
+
 ### [Diabetes, Adipositas und ihr Risiko für die Gefäße](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
 
 2026-06-18
 
 來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
+
+---
+
+### [Con los mismos genes, un joven de la Generación Z engorda el doble que un 'baby boomer'](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnBiTU5IeGdNUWFqNGFxZGdWaUhXTU9lZjEtVXk0OW5nLVpPR0N2NmtkbVZqOG14MkZpZzRvU3Ztc2NXWWdwY0hUZFJRbHN4WENUYnZoV1FmSmoxV2RaVk15U1Fsa1U2VVk1bVVDZEw3OG9SejZYNG1Cd2ZUNXlOUklDejhlay1UNm1yVnVKbFc4Y3dRSmlQX0RSOGLSAaIBQVVfeXFMT3kwWjlvQ2RhLTZCejQyRlJNc3BIWUVrTkFhV3pvc0JRRUlCQXJmZ2NGWER6OVpUczM0N2RObk5ycVZUbTZFeDlxMWthWlpOUmpHQXd2enpGTE0tX2k3VXFxM21yc0JLQ2xldlI5djFSTHYzRjRZb1JRc1V6d3l2QTQtc2hQcTBlVmxmSkJRTFp1YXEwSUEzeGQxUDV0dW9FN1hB?oc=5)
+
+2026-06-18
+
+來源：[ABC](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnBiTU5IeGdNUWFqNGFxZGdWaUhXTU9lZjEtVXk0OW5nLVpPR0N2NmtkbVZqOG14MkZpZzRvU3Ztc2NXWWdwY0hUZFJRbHN4WENUYnZoV1FmSmoxV2RaVk15U1Fsa1U2VVk1bVVDZEw3OG9SejZYNG1Cd2ZUNXlOUklDejhlay1UNm1yVnVKbFc4Y3dRSmlQX0RSOGLSAaIBQVVfeXFMT3kwWjlvQ2RhLTZCejQyRlJNc3BIWUVrTkFhV3pvc0JRRUlCQXJmZ2NGWER6OVpUczM0N2RObk5ycVZUbTZFeDlxMWthWlpOUmpHQXd2enpGTE0tX2k3VXFxM21yc0JLQ2xldlI5djFSTHYzRjRZb1JRc1V6d3l2QTQtc2hQcTBlVmxmSkJRTFp1YXEwSUEzeGQxUDV0dW9FN1hB?oc=5)
 
 ---
 
@@ -91,14 +123,6 @@ permalink: /news/obesity/
 2026-06-17
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
-
----
-
-### [El protocolo clínico integral para pacientes en tratamiento con fármacos para adelgazar](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlBrTUJEdjdoOHFYNkw5TWNqd2tJVEV6aGh4aGZQX1FyWUMzemJ1U3BIWDUzQ3JlbWtla01YRzBneXo1dzgzYng2X08yam5XbEdHdVlZT0FDb3hxYnB3dHlHTC1KVldSVzlIUUZVX20tZnd1ZGozQzlUOFhDUGJWZHg2eTZxZUVUWnEzZHJvd2dwY2FjblZQTW80UnU3bEJYN3ZGVVphMFIyM00waFV2YnJBWEExQWIzY2hPWlh30gG-AUFVX3lxTE9mbzM1Nld5bWcwQzBval90LXVBakFGU0JuVTdMX0Q0WUYzWkU2eDMwTTdmN3NZSmxIU2JWa0NnX1R1aFh1RlJ0M0ZNRmJjZXcxbTlxRzhid3ZzSm5tTU4xMUw0REw5WXRPeUw5MzJydjNWMWU5UmJ5YldtWkVWRlREemNWR1lvZ1poVXl4eVlCcnFyMm1aellkbFF0dnNJeXJ3bWNFTndBYVh0c1BJdTFQRktUOElET0JsTVJxc1E?oc=5)
-
-2026-06-17
-
-來源：[MARCA](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlBrTUJEdjdoOHFYNkw5TWNqd2tJVEV6aGh4aGZQX1FyWUMzemJ1U3BIWDUzQ3JlbWtla01YRzBneXo1dzgzYng2X08yam5XbEdHdVlZT0FDb3hxYnB3dHlHTC1KVldSVzlIUUZVX20tZnd1ZGozQzlUOFhDUGJWZHg2eTZxZUVUWnEzZHJvd2dwY2FjblZQTW80UnU3bEJYN3ZGVVphMFIyM00waFV2YnJBWEExQWIzY2hPWlh30gG-AUFVX3lxTE9mbzM1Nld5bWcwQzBval90LXVBakFGU0JuVTdMX0Q0WUYzWkU2eDMwTTdmN3NZSmxIU2JWa0NnX1R1aFh1RlJ0M0ZNRmJjZXcxbTlxRzhid3ZzSm5tTU4xMUw0REw5WXRPeUw5MzJydjNWMWU5UmJ5YldtWkVWRlREemNWR1lvZ1poVXl4eVlCcnFyMm1aellkbFF0dnNJeXJ3bWNFTndBYVh0c1BJdTFQRktUOElET0JsTVJxc1E?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epatite（hepatitis） 相關新聞"
+title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# epatite（hepatitis） 相關新聞
+# hepatitis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hepatitis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -55,19 +55,19 @@ permalink: /news/hepatitis/
 
 ## 相關新聞（2 則）
 
-### [Brote de hepatitis A: Sanidad detecta seis casos en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQaw?oc=5)
+### [Hepatitis Delta: alertan del riesgo de cáncer hepático y urgen a diagnosticar y tratar antes la enfermedad - Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
 
-2026-06-18
+2026-06-19
 
-來源：[Canarias7](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQaw?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
 
 ---
 
-### [Contrasse l'epatite C durante una trasfusione: dopo 40 anni arriva il risarcimento](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdWcnM2bEVOajN6TTVVaXRUYnV5bmhIWEJFTW5CcHlTRDFVa1NPNUh0dlZlWG1taU5Welh6M19VY0p1T0lRcl9zdXFYb0lJb2E5NnZjcEo5WXFWWnlGSVhmUWJhZWs5US1jd09QTHRXVEo1SktSZnM4WlR4YjNLUnZtdzlZQTJtMTZwYXlSMElLMzBJd2xadm03Wm9CZ0tTYmRzZThXV2Y1dGJBNld3Z3RMaUY5SnNuT1BVSEoxQQ?oc=5)
+### [Sanidad da por controlado el brote de hepatitis A detectado en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
 
-2026-06-17
+2026-06-19
 
-來源：[BrindisiReport](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdWcnM2bEVOajN6TTVVaXRUYnV5bmhIWEJFTW5CcHlTRDFVa1NPNUh0dlZlWG1taU5Welh6M19VY0p1T0lRcl9zdXFYb0lJb2E5NnZjcEo5WXFWWnlGSVhmUWJhZWs5US1jd09QTHRXVEo1SktSZnM4WlR4YjNLUnZtdzlZQTJtMTZwYXlSMElLMzBJd2xadm03Wm9CZ0tTYmRzZThXV2Y1dGJBNld3Z3RMaUY5SnNuT1BVSEoxQQ?oc=5)
+來源：[Canarias7](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
 
 ---
 
