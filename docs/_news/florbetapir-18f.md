@@ -14,7 +14,7 @@ permalink: /news/florbetapir-18f/
 ---
 
 <p class="key-answer" data-question="Florbetapir (18F) 有什麼相關新聞？">
-<strong>Florbetapir (18F)</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetapir (18F)</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/florbetapir-18f/
 <p><a href="{{ '/drugs/florbetapir-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（27 則）
+
+### [Stammtisch an der Uniklinik bietet Patient:innen mit Hirntumor Raum für Austausch und Normalität - Du bist Halle](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckdpaHB4SWhYMEpJdnZXTG5uZ2QzbHVvOFZRblc4dzYwNWRnVW1QUGFDQmZBWnQ5Szc4eHNIc24xX0kzb0IyMVR1NEJtcldsQ2Z5OVA0MnNObXRYMENGTmJxU3hpYU56SHdRMlhjUm4zQU1DaldldDJGTHJmbzJhclg1NEdwcnppZ045YWFFTFM1emNWdXJOYkt0ekhrWHZUVG5WdWRMSk5LZ3QwRXRUa2VnY2YybEt0U05qZnNn?oc=5)
+
+2026-06-18 <span class="news-indication-tag">tumor</span>
+
+來源：[Du bist Halle](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckdpaHB4SWhYMEpJdnZXTG5uZ2QzbHVvOFZRblc4dzYwNWRnVW1QUGFDQmZBWnQ5Szc4eHNIc24xX0kzb0IyMVR1NEJtcldsQ2Z5OVA0MnNObXRYMENGTmJxU3hpYU56SHdRMlhjUm4zQU1DaldldDJGTHJmbzJhclg1NEdwcnppZ045YWFFTFM1emNWdXJOYkt0ekhrWHZUVG5WdWRMSk5LZ3QwRXRUa2VnY2YybEt0U05qZnNn?oc=5)
+
+---
 
 ### [Spitzenmedizin in Siegen: „Junger Familienvater hatte fußballgroßen Tumor im Bauch“](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTlmaG5WdW9ubjMyZmtucUhvaEh3c3d2YlpIWTA0X0lRcGR4Mm1QaG9pdjJaTnI3dFlqazRYQ3NoU0Z6cU1fRm5DSUNYZFVQN0c5SWR1RVdURjh2ZWRyZGh4UUZ0Z1hYVjhXSjNxSVJTSGVHTDhqXzlUQWgxOTNybXlRYXVlbjRhbnFJbGhKMlR1RmFEbUlHZ1BjTTB0c1l4Um1GQ2NHVFA1bWtadDBIVjNPVkJza0lNWlIteVA4eHVMZ0FzWElZTF9pMUhfNUgyXzhZZVpXUUhaazc0NTF2dXNR?oc=5)
 
 2026-06-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Westfalenpost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTlmaG5WdW9ubjMyZmtucUhvaEh3c3d2YlpIWTA0X0lRcGR4Mm1QaG9pdjJaTnI3dFlqazRYQ3NoU0Z6cU1fRm5DSUNYZFVQN0c5SWR1RVdURjh2ZWRyZGh4UUZ0Z1hYVjhXSjNxSVJTSGVHTDhqXzlUQWgxOTNybXlRYXVlbjRhbnFJbGhKMlR1RmFEbUlHZ1BjTTB0c1l4Um1GQ2NHVFA1bWtadDBIVjNPVkJza0lNWlIteVA4eHVMZ0FzWElZTF9pMUhfNUgyXzhZZVpXUUhaazc0NTF2dXNR?oc=5)
+
+---
+
+### [HPV-Impfung: England senkt Gebärmutterhalskrebs-Risiko für junge Frauen auf null](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
+
+2026-06-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/florbetapir-18f/
 
 ---
 
-### [HPV-Impfung senkt Risiko für Tod durch Gebärmutterhalskrebs auf nahezu null](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEpnWHVoQk9XSzlZbTRMT1B0blUyZWFCc25rWVcwRndYM1NZR3hyTTJQLXhfOFdpeUNkU2FKUXR3TjhZVF9BX3lfN3Z5UnJsLVdtdG0yTVVFUmhHcTRVNU5ybEQ3dV9ZeGpjODFoUVhyZnpXREs1cmZHSW5pLWoyeC1DZTVxZUdEQ2NxeFRPdW1XMko3bEZjdkx0NVBZc0M2cnBFZ0t3dUNIRFh1bUFTQmFHN2VXa09ycEs0XzlUc2dMQlpuSmZLU0NybEhxemw2UThaTm1wemNCVlZUX0RGTUlPWnBuYjVONnM0Z1FWdVI?oc=5)
+### [HPV vaccine: Your questions answered as cervical cancer deaths fall to zero in women under 24](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">Krebs</span>
+2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Spiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEpnWHVoQk9XSzlZbTRMT1B0blUyZWFCc25rWVcwRndYM1NZR3hyTTJQLXhfOFdpeUNkU2FKUXR3TjhZVF9BX3lfN3Z5UnJsLVdtdG0yTVVFUmhHcTRVNU5ybEQ3dV9ZeGpjODFoUVhyZnpXREs1cmZHSW5pLWoyeC1DZTVxZUdEQ2NxeFRPdW1XMko3bEZjdkx0NVBZc0M2cnBFZ0t3dUNIRFh1bUFTQmFHN2VXa09ycEs0XzlUc2dMQlpuSmZLU0NybEhxemw2UThaTm1wemNCVlZUX0RGTUlPWnBuYjVONnM0Z1FWdVI?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
 ---
 
@@ -139,14 +155,6 @@ permalink: /news/florbetapir-18f/
 2026-06-18 <span class="news-indication-tag">tumor</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWQwYlltcGdlSlVPV1RZTkQ2aV9mc2F4VnlxZ29fdm5acWNnYkV4SmZsazItRzJYYUNNbEI1ZFI4dS1IUUVaSzFKRFBpOFVrLXc3SFZ0eEFmbklocHUxUUZfSjQ5a1VsMkxaNnFOTC1xTGxQY3JkQ19BaVpjaS1QMGIwWkxWUzEzVTBsaVA5OWZLcUlBcDlsWkc2UnI5X0Y1dmo4eERybkxsVGNUMUxRRnQ1bGJ1U3RDVEZBQnROMV9MN1hpT05BUG1mWkttMkZzY25RVWMxaWh4Zng4bGUw?oc=5)
-
----
-
-### [Children vaccinated for HPV have close to zero risk of dying from cervical cancer before age 30, study suggests - Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
-
-2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
 
 ---
 
@@ -222,14 +230,6 @@ permalink: /news/florbetapir-18f/
 
 ---
 
-### [Tumore al pancreas e alcol, studio canadese: “Ogni 10 grammi al giorno associati a un aumento del rischio”](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
-
-2026-06-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
-
----
-
 ### [Cancers du péritoine : avancée majeure pour l'opération, cette chirurgie développée à Lyon devient la norme mondiale](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUTZTMW1yQ3lWQ1BLZ0VOZ0MyVy15VDlQekVITDVjT1FQWWVQbFE1Y0xheDhCX29lWXg2U3hCczJvTVNVU2hCd1NVbWdaNWtUR254STRtMEZtS2xUOHRRcW81UDRXSWpxZ0lXRjBIRHZ5amVjYmd5eVlXclpzNmJnZWd5bE1LSWpZSnBWTE1tU2l4NE11OHZnQlpoQzVBNFlKdEc1WjFNS3hfNktTcjhRbE9NX0hEOXhKMmxCQ0I1SkxabGNpUEF3aUp2WnRDWjBCUFdfd1ptb3NfWWFCTE5BRTIxZGQwckhmUzZGajBOSk1zTVZEdXlOUEl2VmVuOHVQaldaaEJn?oc=5)
 
 2026-06-17 <span class="news-indication-tag">cancer</span>
@@ -267,14 +267,6 @@ permalink: /news/florbetapir-18f/
 2026-06-17 <span class="news-indication-tag">cancro</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVR4eU8wVHptb2tSNDZoWGJzZnNHTHEtWjdHdEM0eGZKZlF1RVdTcGlIc1RJeEh2YXhUd3FJR3N4N3BXeVotc19INktLWnRyTHFVNmZ0ZkYtR0RTV3ROcGFKWG03aHFVWGhDZFVGenRmN1NjZVJTWU81czQ1alc3OHowelZXLWprWmE4bFBwUUdaOHhzRHZMQ1JUbWx6d0pFcUlV?oc=5)
-
----
-
-### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
 
 ---
 

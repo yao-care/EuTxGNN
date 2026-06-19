@@ -14,7 +14,7 @@ permalink: /news/propranolol-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Propranolol Hydrochloride 有什麼相關新聞？">
-<strong>Propranolol Hydrochloride</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Propranolol Hydrochloride</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/propranolol-hydrochloride/
 <p><a href="{{ '/drugs/propranolol-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（29 則）
+
+### [Stammtisch an der Uniklinik bietet Patient:innen mit Hirntumor Raum für Austausch und Normalität - Du bist Halle](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckdpaHB4SWhYMEpJdnZXTG5uZ2QzbHVvOFZRblc4dzYwNWRnVW1QUGFDQmZBWnQ5Szc4eHNIc24xX0kzb0IyMVR1NEJtcldsQ2Z5OVA0MnNObXRYMENGTmJxU3hpYU56SHdRMlhjUm4zQU1DaldldDJGTHJmbzJhclg1NEdwcnppZ045YWFFTFM1emNWdXJOYkt0ekhrWHZUVG5WdWRMSk5LZ3QwRXRUa2VnY2YybEt0U05qZnNn?oc=5)
+
+2026-06-18 <span class="news-indication-tag">tumor</span>
+
+來源：[Du bist Halle](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckdpaHB4SWhYMEpJdnZXTG5uZ2QzbHVvOFZRblc4dzYwNWRnVW1QUGFDQmZBWnQ5Szc4eHNIc24xX0kzb0IyMVR1NEJtcldsQ2Z5OVA0MnNObXRYMENGTmJxU3hpYU56SHdRMlhjUm4zQU1DaldldDJGTHJmbzJhclg1NEdwcnppZ045YWFFTFM1emNWdXJOYkt0ekhrWHZUVG5WdWRMSk5LZ3QwRXRUa2VnY2YybEt0U05qZnNn?oc=5)
+
+---
 
 ### [Spitzenmedizin in Siegen: „Junger Familienvater hatte fußballgroßen Tumor im Bauch“](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTlmaG5WdW9ubjMyZmtucUhvaEh3c3d2YlpIWTA0X0lRcGR4Mm1QaG9pdjJaTnI3dFlqazRYQ3NoU0Z6cU1fRm5DSUNYZFVQN0c5SWR1RVdURjh2ZWRyZGh4UUZ0Z1hYVjhXSjNxSVJTSGVHTDhqXzlUQWgxOTNybXlRYXVlbjRhbnFJbGhKMlR1RmFEbUlHZ1BjTTB0c1l4Um1GQ2NHVFA1bWtadDBIVjNPVkJza0lNWlIteVA4eHVMZ0FzWElZTF9pMUhfNUgyXzhZZVpXUUhaazc0NTF2dXNR?oc=5)
 
 2026-06-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Westfalenpost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTlmaG5WdW9ubjMyZmtucUhvaEh3c3d2YlpIWTA0X0lRcGR4Mm1QaG9pdjJaTnI3dFlqazRYQ3NoU0Z6cU1fRm5DSUNYZFVQN0c5SWR1RVdURjh2ZWRyZGh4UUZ0Z1hYVjhXSjNxSVJTSGVHTDhqXzlUQWgxOTNybXlRYXVlbjRhbnFJbGhKMlR1RmFEbUlHZ1BjTTB0c1l4Um1GQ2NHVFA1bWtadDBIVjNPVkJza0lNWlIteVA4eHVMZ0FzWElZTF9pMUhfNUgyXzhZZVpXUUhaazc0NTF2dXNR?oc=5)
+
+---
+
+### [HPV-Impfung: England senkt Gebärmutterhalskrebs-Risiko für junge Frauen auf null](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
+
+2026-06-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/propranolol-hydrochloride/
 
 ---
 
-### [HPV-Impfung senkt Risiko für Tod durch Gebärmutterhalskrebs auf nahezu null](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEpnWHVoQk9XSzlZbTRMT1B0blUyZWFCc25rWVcwRndYM1NZR3hyTTJQLXhfOFdpeUNkU2FKUXR3TjhZVF9BX3lfN3Z5UnJsLVdtdG0yTVVFUmhHcTRVNU5ybEQ3dV9ZeGpjODFoUVhyZnpXREs1cmZHSW5pLWoyeC1DZTVxZUdEQ2NxeFRPdW1XMko3bEZjdkx0NVBZc0M2cnBFZ0t3dUNIRFh1bUFTQmFHN2VXa09ycEs0XzlUc2dMQlpuSmZLU0NybEhxemw2UThaTm1wemNCVlZUX0RGTUlPWnBuYjVONnM0Z1FWdVI?oc=5)
+### [HPV vaccine: Your questions answered as cervical cancer deaths fall to zero in women under 24](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">Krebs</span>
+2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Spiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEpnWHVoQk9XSzlZbTRMT1B0blUyZWFCc25rWVcwRndYM1NZR3hyTTJQLXhfOFdpeUNkU2FKUXR3TjhZVF9BX3lfN3Z5UnJsLVdtdG0yTVVFUmhHcTRVNU5ybEQ3dV9ZeGpjODFoUVhyZnpXREs1cmZHSW5pLWoyeC1DZTVxZUdEQ2NxeFRPdW1XMko3bEZjdkx0NVBZc0M2cnBFZ0t3dUNIRFh1bUFTQmFHN2VXa09ycEs0XzlUc2dMQlpuSmZLU0NybEhxemw2UThaTm1wemNCVlZUX0RGTUlPWnBuYjVONnM0Z1FWdVI?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
 ---
 
@@ -99,6 +115,14 @@ permalink: /news/propranolol-hydrochloride/
 2026-06-18 <span class="news-indication-tag">tumor</span>
 
 來源：[novaciencia.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc01zV24zanlfeHltYko3TXhrVFdJWXNySXVEVkVYOXJIamxxbHBuYnBSd09wZzlDbjQxUmZIeHMzNjFJUXR2MGx1c1BwSThBZWRKV2lKYzFHaEZmOVp2NFA3cVNxSV9adVFFT2FUbFBBY3VENkFGTjhUU3p1RFZUN0NPWHdwb0dNUThkeEd6aVlPTmNTbXV3cXd6UXUzMm9hR0QzSXAzRUQ0WF9OdDQ5QzU0OHJ4X3Item5xd2FXZnk5SmMtTXZmaFVjQktwaUljMlRKSzY1TWU?oc=5)
+
+---
+
+### [We Asked Cardiologists If Taking Aspirin Really Helps Prevent Heart Disease—Here’s What They Said](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">heart disease</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
 
 ---
 
@@ -142,14 +166,6 @@ permalink: /news/propranolol-hydrochloride/
 
 ---
 
-### [Children vaccinated for HPV have close to zero risk of dying from cervical cancer before age 30, study suggests - Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
-
-2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
-
----
-
 ### [Día Mundial del Cáncer de Riñón: cuándo una molestia lumbar o urinaria puede requerir valoración médica](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU1LdE92VDFQU01tOFBlMUNjT3BRNWNzc1JEMDhKUWZSdlIyQ2NjblpQM3hWbjlIWHV3bEFJak9NREF2eUY3Z2FIS2hiUUhkMFN3UklJLVhVcl9pX3hXYXRHWGhaY1ZBdVdRVkJuYmpzcDNRb0tBSjNVVGtDaE9tYmotanZ3dGFoazJJYzZUU3lEZk5SNUlDRE9rWjhzc001UmNUakVJTExaczkxWGFHdTdjbEF5djlNNkYyLQ?oc=5)
 
 2026-06-18 <span class="news-indication-tag">tumor</span>
@@ -179,6 +195,14 @@ permalink: /news/propranolol-hydrochloride/
 2026-06-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcl9za25vWlkwQkVmOFhpNm5rMndfZnQ2Y3VZSWFiYzAzWmhwb2RlaEhseHJzRC0wMVkzWXpVQTRZX1lGczRmZURycTJhLW1heHhONTZiX2JyZ3NFV0dNNUthS3VOS0t0QWs4YV9RVnZGNjVLdUNMQWF0cXVsbnhIakcwbVJkMHI1eDdzS1Nyb0Q1dWZKMGx3bWZQblFrWmdmUGlmRmNvMVhUcG9lNVJsUUJTaW9leFZfSS12UG1jd0dCWDZnQzBWR0t4Wml2MFl2V0wtQU9TN0FrU3ZHYlE3dVpxZ2k?oc=5)
+
+---
+
+### [Researchers found 8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
 
 ---
 
@@ -219,14 +243,6 @@ permalink: /news/propranolol-hydrochloride/
 2026-06-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[Klinikum Fulda](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0ZVcW5YTjBNRW9UX0ktdWdrajZia0Q1RzJLdzdfQllZYjJPR2VlWHk1czYwSklqd0RIMzBjQmp3d2dhMHlKSlJnVl8wdjRRZzNxSlI5TV9KcVhHekhPaWdDUktSWEt1dUkxdXI3WDhkOWw3MldMS0VzVG9OaFRKbFBZQlVicFBQbVJWV1Nud3ZPckFuRUt1Q1RKVGxWdUdWWG1jeE1WNFllY09r?oc=5)
-
----
-
-### [Tumore al pancreas e alcol, studio canadese: “Ogni 10 grammi al giorno associati a un aumento del rischio”](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
-
-2026-06-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
 
 ---
 

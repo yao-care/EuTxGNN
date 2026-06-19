@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="Florbetaben (18F) 有什麼相關新聞？">
-<strong>Florbetaben (18F)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetaben (18F)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/florbetaben-18f/
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
 ### [Gürtelrose-Impfung senkt Demenzrisiko bei Älteren in Studie deutlich](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjRlUUxJMnlXYkJ1bDVaRk1aUmgyTjZ2eVR3d19qN182X3c2dGgtdmp5QjU2SUhVLUo3eUlSWXQ2Q01ydW1mazZWUTdPa0dTUFlfTV9GMWEzUVZHQzJ4SmFrWlpQVjZ1MHpNRDhJcWJmREFnQV9MOFFGNWtIZmw3OHZnS2VEVHFYTmFFSG5PUlJMdzlZNk5JWHN1OXJ3TkxTQ2lKUWF6TGpRTEFCSllQR21nQ0wyNS1MX2tMSF9TMFhld0k3WC1BQ1ZuQlI5SDBrUGc?oc=5)
 
@@ -78,6 +78,14 @@ permalink: /news/florbetaben-18f/
 
 ---
 
+### [We Asked Cardiologists If Taking Aspirin Really Helps Prevent Heart Disease—Here’s What They Said](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">heart disease</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
+
+---
+
 ### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -94,11 +102,19 @@ permalink: /news/florbetaben-18f/
 
 ---
 
-### [Abatacept in der Frühphase: Risiko der rheumatoiden Arthritis sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
+### [Researchers found 8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
 
-2026-06-17 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3NMWHljaWJPWDNwNll6d1JpYzRCeTN2SEFwaE9qYzdtU0gzRWJEazBUT2RyNk1YbjZTZjNrM3laWHROWTJCTTY3LWxXOTZmUmVpaC1IazdLTDVSY1h2d2VtOUd5TkFMMzYyTkVUQ1VQcXotRy1Vc19PRHBZYWJTTFJTdkw1Y01CY0hlbjBZX3hmU29zOTIweWNxbHBhU1FFWDd5ZkFLbmxLRDBo?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
+
+---
+
+### [Emicrania, ' una patologia sociale e di genere'. All'Asst 'la cura è personalizzata e globale'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
+
+2026-06-17 <span class="news-indication-tag">emicrania</span>
+
+來源：[Cremaonline](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
 
 ---
 

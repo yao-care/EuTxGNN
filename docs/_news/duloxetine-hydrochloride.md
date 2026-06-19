@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Was wir über den Zusammenhang zwischen Ernährung und Depression wirklich wissen](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEVLU3ZUUVZ6dVQxWW1oc1RWR0RGSEl2d0JWQTExY2VyLWs4NmUzaFBjemVteDVONlBSYWtiV2I5eXF6eUhDUVBxVUhFNVAxcDFuTGNhYXdGMWxsamRiNldDS3ZGcm9XQm91T0NLMWNTMktFN190TGFrY3FQRGI0T1BCbEF0VDF2TE40ZHZ3?oc=5)
 
 2026-06-18 <span class="news-indication-tag">depression</span>
 
 來源：[WEB.DE](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEVLU3ZUUVZ6dVQxWW1oc1RWR0RGSEl2d0JWQTExY2VyLWs4NmUzaFBjemVteDVONlBSYWtiV2I5eXF6eUhDUVBxVUhFNVAxcDFuTGNhYXdGMWxsamRiNldDS3ZGcm9XQm91T0NLMWNTMktFN190TGFrY3FQRGI0T1BCbEF0VDF2TE40ZHZ3?oc=5)
-
----
-
-### [A three-minute smartphone game can detect a subtle cognitive mechanism behind depression](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
-
-2026-06-16 <span class="news-indication-tag">depression</span>
-
-來源：[PsyPost](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82SDFNclhKTC1wcmFNMHlMMTR5U2dXZkF0ajhJb1NZSGd1VGJONTh1MURPWDVQdUZBWjhaeTlwV2F3TGlvX2JEZGJXSk5PMEo3WG5rQXduZGVxYTNWcUNoTVl6SzhfUmVDUDBKaXdNcmVOeU1hWWdtS1dxR0szTFZ4UG1VSnhITVZjSTBHUkN4djZJYnd6bDkxV2JKcEhiZVRZN01ldEJuZDVYTnFhczgzSQ?oc=5)
 
 ---
 

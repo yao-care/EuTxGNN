@@ -62,6 +62,30 @@ permalink: /news/natalizumab/
 
 ---
 
+### [How to boost your weight-loss hormones — no jabs required - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlpFRU96bFBvbnN0MWh5cFpxcXU5dTlyazBILW51Yi1iNjZWQW9SSDMtV3ZkQWJBUVUxeHNud1lLZTE1TGpNbzVod1RweTNNTWYzTEJYNThwQWtDOHRab1FWZTJzRUp2U2F1SkdMZGlxdVljRFlPMTM4NGpzam05VDRZbWdQcURzNS1JTXRJOGhONzlmeENoRW0xUlVMeHlrSHVMUVZNLTZrQnRk?oc=5)
+
+2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlpFRU96bFBvbnN0MWh5cFpxcXU5dTlyazBILW51Yi1iNjZWQW9SSDMtV3ZkQWJBUVUxeHNud1lLZTE1TGpNbzVod1RweTNNTWYzTEJYNThwQWtDOHRab1FWZTJzRUp2U2F1SkdMZGlxdVljRFlPMTM4NGpzam05VDRZbWdQcURzNS1JTXRJOGhONzlmeENoRW0xUlVMeHlrSHVMUVZNLTZrQnRk?oc=5)
+
+---
+
+### [Bauchfett-Reduktion: 10% weniger viszerales Fett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1N0Q29VWkNOVW5TYlBqcVlDd2FOLTk1cUJ0em9mRE5QSEI2RUFpWDYzbFRoRHZSVnIydUZjTTFGbEhiYTRkVVJuVUx0SzRPY0ZVakRrcHhjbTlzUnU0QW50em5oTjJyVFkwQ25fYmNONVBDWmlTLWZlbTZtOFA1SVgtYVdHdWV6WXBfd2NyaGlhV1JzNmxTcDhBVW15YTNjY1VJaHU3aU5QaTJLTnc?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1N0Q29VWkNOVW5TYlBqcVlDd2FOLTk1cUJ0em9mRE5QSEI2RUFpWDYzbFRoRHZSVnIydUZjTTFGbEhiYTRkVVJuVUx0SzRPY0ZVakRrcHhjbTlzUnU0QW50em5oTjJyVFkwQ25fYmNONVBDWmlTLWZlbTZtOFA1SVgtYVdHdWV6WXBfd2NyaGlhV1JzNmxTcDhBVW15YTNjY1VJaHU3aU5QaTJLTnc?oc=5)
+
+---
+
+### [Sardinen gegen Diabetes: 64 Prozent Risikosenkung in einer Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXRmRHRidHhIVzFaN3N2NXFyMmlFTkJmV0ktblZPejRGUGRGQzN6VktwUl9MQUw4aG9Rck0xZF9fUHRMaDAybjRDQmdEZWVLSG1WNW8tZzVuWE8wNGZNRkhoeXQ5clJnMTFRbVhMNnE5U3hqUW1YZGJEemZycTM5MDdQRk1UQXdqZXNGRXItVlZpVzV0Q19nUGxJdTNCZ2RLY1d1UW9Rb3gxeXhPbXhQcUw3Zw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXRmRHRidHhIVzFaN3N2NXFyMmlFTkJmV0ktblZPejRGUGRGQzN6VktwUl9MQUw4aG9Rck0xZF9fUHRMaDAybjRDQmdEZWVLSG1WNW8tZzVuWE8wNGZNRkhoeXQ5clJnMTFRbVhMNnE5U3hqUW1YZGJEemZycTM5MDdQRk1UQXdqZXNGRXItVlZpVzV0Q19nUGxJdTNCZ2RLY1d1UW9Rb3gxeXhPbXhQcUw3Zw?oc=5)
+
+---
+
 ### [El tabaco en mujeres y la diabetes en hombres disparan el riesgo cardiovascular en Castilla y León - El Norte de Castilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkQ1Y3R3QnB2d1E5ZXNDYTdVcW00QVVNWENRa2M0d0puY3hWNENwY2V3blBzQm43RGNCMk9JQWFlekdFeElZc2V3dWI4a0VsVUo5bkxxZTNMMFhxUllzQ3BNVVRfSy05REtUVW5Fc0F2Z2JkRF9HZkQxWE5tMVVYNHM0LTk3Q3J2WEZOd1lpaFgySV9UYjZacVltQi1CeXpRY1ByUnhVbkNpOEtiRG9ZOTdKenVlNVpXZ1NfMGl3SlJSVllTUVZNUXoxcXHSAdIBQVVfeXFMUHBBM2NNajdLSTYwTXpfTTkzSWY5dm1ZZ1BNZllCU1ZkZVhVWk9lT2pNSktDLUs3eDR4akU4Q1psb0t6WHM0VDBaSmNpakoxMVRJQTVaOHkxZkZ1bFJ1cG4xNkQ1dE94a0xjRkQ2ekpTVnV4NjV2ZWJJOENfNjNGSktYaXpxNVBPXzUxWXpEY2ZWeVI5RkVNS1F0R0Nwc3l2aWIwWmtwZFctbG5qSUoxOVdtczJFclFfM3hzUGN1Z0NHaF9pUlRqN1VFT2VnM0p1aWdn?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span>
@@ -75,14 +99,6 @@ permalink: /news/natalizumab/
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
-
----
-
-### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
 ---
 
@@ -123,22 +139,6 @@ permalink: /news/natalizumab/
 2026-06-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
-
----
-
-### [Tumore al pancreas e alcol, studio canadese: “Ogni 10 grammi al giorno associati a un aumento del rischio”](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
-
-2026-06-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
-
----
-
-### [Sardinen gegen Diabetes: 200g wöchentlich senken Hochrisiko um 64% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
 
 ---
 

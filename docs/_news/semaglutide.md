@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（17 則）
 
 ### [Ozempic: Warum nicht alle Menschen von dem Medikament profitieren können](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmRBNExUcnZJWVRLZDhKcmlyZ3dEc2ZvYUszYl9LdUZNYlMzanVIUHRfazZyb3RBbnRZT1BaTlRPbmZ2OE00OWE3d1B4dFhjVFBnZmN4bWhZeVhqUWZKWllqVnJFeTdhSUFlYUpwUkpNcjMtN2VBVGNpNFhxRVJmallVLTZXOWdfU0xFN2xCVUhkbFJCbjlscVNtekFsM3RFTkpVVHZJdEgzS3RlTXpJQXV3V2tGcGVzbFotXzhEZ1FHOEFqWVI5ZGpkS3dTaXcwenBwaFNsUkg0Zw?oc=5)
 
@@ -78,6 +78,30 @@ permalink: /news/semaglutide/
 
 ---
 
+### [How to boost your weight-loss hormones — no jabs required - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlpFRU96bFBvbnN0MWh5cFpxcXU5dTlyazBILW51Yi1iNjZWQW9SSDMtV3ZkQWJBUVUxeHNud1lLZTE1TGpNbzVod1RweTNNTWYzTEJYNThwQWtDOHRab1FWZTJzRUp2U2F1SkdMZGlxdVljRFlPMTM4NGpzam05VDRZbWdQcURzNS1JTXRJOGhONzlmeENoRW0xUlVMeHlrSHVMUVZNLTZrQnRk?oc=5)
+
+2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlpFRU96bFBvbnN0MWh5cFpxcXU5dTlyazBILW51Yi1iNjZWQW9SSDMtV3ZkQWJBUVUxeHNud1lLZTE1TGpNbzVod1RweTNNTWYzTEJYNThwQWtDOHRab1FWZTJzRUp2U2F1SkdMZGlxdVljRFlPMTM4NGpzam05VDRZbWdQcURzNS1JTXRJOGhONzlmeENoRW0xUlVMeHlrSHVMUVZNLTZrQnRk?oc=5)
+
+---
+
+### [Bauchfett-Reduktion: 10% weniger viszerales Fett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1N0Q29VWkNOVW5TYlBqcVlDd2FOLTk1cUJ0em9mRE5QSEI2RUFpWDYzbFRoRHZSVnIydUZjTTFGbEhiYTRkVVJuVUx0SzRPY0ZVakRrcHhjbTlzUnU0QW50em5oTjJyVFkwQ25fYmNONVBDWmlTLWZlbTZtOFA1SVgtYVdHdWV6WXBfd2NyaGlhV1JzNmxTcDhBVW15YTNjY1VJaHU3aU5QaTJLTnc?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1N0Q29VWkNOVW5TYlBqcVlDd2FOLTk1cUJ0em9mRE5QSEI2RUFpWDYzbFRoRHZSVnIydUZjTTFGbEhiYTRkVVJuVUx0SzRPY0ZVakRrcHhjbTlzUnU0QW50em5oTjJyVFkwQ25fYmNONVBDWmlTLWZlbTZtOFA1SVgtYVdHdWV6WXBfd2NyaGlhV1JzNmxTcDhBVW15YTNjY1VJaHU3aU5QaTJLTnc?oc=5)
+
+---
+
+### [Sardinen gegen Diabetes: 64 Prozent Risikosenkung in einer Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXRmRHRidHhIVzFaN3N2NXFyMmlFTkJmV0ktblZPejRGUGRGQzN6VktwUl9MQUw4aG9Rck0xZF9fUHRMaDAybjRDQmdEZWVLSG1WNW8tZzVuWE8wNGZNRkhoeXQ5clJnMTFRbVhMNnE5U3hqUW1YZGJEemZycTM5MDdQRk1UQXdqZXNGRXItVlZpVzV0Q19nUGxJdTNCZ2RLY1d1UW9Rb3gxeXhPbXhQcUw3Zw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXRmRHRidHhIVzFaN3N2NXFyMmlFTkJmV0ktblZPejRGUGRGQzN6VktwUl9MQUw4aG9Rck0xZF9fUHRMaDAybjRDQmdEZWVLSG1WNW8tZzVuWE8wNGZNRkhoeXQ5clJnMTFRbVhMNnE5U3hqUW1YZGJEemZycTM5MDdQRk1UQXdqZXNGRXItVlZpVzV0Q19nUGxJdTNCZ2RLY1d1UW9Rb3gxeXhPbXhQcUw3Zw?oc=5)
+
+---
+
 ### [El tabaco en mujeres y la diabetes en hombres disparan el riesgo cardiovascular en Castilla y León - El Norte de Castilla](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkQ1Y3R3QnB2d1E5ZXNDYTdVcW00QVVNWENRa2M0d0puY3hWNENwY2V3blBzQm43RGNCMk9JQWFlekdFeElZc2V3dWI4a0VsVUo5bkxxZTNMMFhxUllzQ3BNVVRfSy05REtUVW5Fc0F2Z2JkRF9HZkQxWE5tMVVYNHM0LTk3Q3J2WEZOd1lpaFgySV9UYjZacVltQi1CeXpRY1ByUnhVbkNpOEtiRG9ZOTdKenVlNVpXZ1NfMGl3SlJSVllTUVZNUXoxcXHSAdIBQVVfeXFMUHBBM2NNajdLSTYwTXpfTTkzSWY5dm1ZZ1BNZllCU1ZkZVhVWk9lT2pNSktDLUs3eDR4akU4Q1psb0t6WHM0VDBaSmNpakoxMVRJQTVaOHkxZkZ1bFJ1cG4xNkQ1dE94a0xjRkQ2ekpTVnV4NjV2ZWJJOENfNjNGSktYaXpxNVBPXzUxWXpEY2ZWeVI5RkVNS1F0R0Nwc3l2aWIwWmtwZFctbG5qSUoxOVdtczJFclFfM3hzUGN1Z0NHaF9pUlRqN1VFT2VnM0p1aWdn?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span>
@@ -91,14 +115,6 @@ permalink: /news/semaglutide/
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
-
----
-
-### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
 ---
 
@@ -126,19 +142,27 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Ozempic, la nueva esperanza para la natalidad: aumenta los niveles de testosterona y mejora la calidad del esperma - El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTUZVNmE0VXplQ3dsZ1Ffc0FiT0QtOWVRVUF3dTU3dGhoakg0eW5VbFhfTnExT3plUzJabG1KRFV1UWdXV09xdHloSnFsdk5lQnNFQ05VTW9wMHhTNXRxNHhMLVhlWTNtclNZcU1Qc0dvTEJxLXpvNW5JbGR0YTcwcGxaQmdyMlNEVG9WbTluVk1aT0pEUlZRUVIydE9LaDNqN0dsYk5wSUJxcDZfZUpTb0dpTnJSMGo3TkF6UTRwZG5BMDl5RGo5WHJyekdBdzZrQ0RCakFBaktLcUV6UGIyMmVBLTFiS21fVnQ1eS1FTE8yMjc3dXgwdGFVMmFlZTB1M0HSAYcCQVVfeXFMTnY3YUY1cTluRXVJY2hmUlZiWnpBRHppNGtqVmpVZG8xZWxGR1h0RnhMT0dmSF9GbWJPd0d2M3VQNHJqWV9qYVgzeTNINEFTeG5GdEQxU3lqM3RKd3o2a2pZbFh6WVkyeFp2SHQ2LVcwN3NzSHdzbkZmMG1xYzZ4OFVWMzQzWXh3a2M4dlJRN3ZZbG1iV1dvRGRaa0xpSXoyUElqcE5QRGNKN2Y4VC0tVW1XbU02VmFvbGVwMnlLcDU5SGdMOGY1RnpHcGJtcUxXaWNsMk53WlNsU25tRGlaOUtZWkkxUnZtME1FRTVscjNzMXRYQ0o0NlRjdGVLQlVvckZWc1lndms?oc=5)
-
-2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTUZVNmE0VXplQ3dsZ1Ffc0FiT0QtOWVRVUF3dTU3dGhoakg0eW5VbFhfTnExT3plUzJabG1KRFV1UWdXV09xdHloSnFsdk5lQnNFQ05VTW9wMHhTNXRxNHhMLVhlWTNtclNZcU1Qc0dvTEJxLXpvNW5JbGR0YTcwcGxaQmdyMlNEVG9WbTluVk1aT0pEUlZRUVIydE9LaDNqN0dsYk5wSUJxcDZfZUpTb0dpTnJSMGo3TkF6UTRwZG5BMDl5RGo5WHJyekdBdzZrQ0RCakFBaktLcUV6UGIyMmVBLTFiS21fVnQ1eS1FTE8yMjc3dXgwdGFVMmFlZTB1M0HSAYcCQVVfeXFMTnY3YUY1cTluRXVJY2hmUlZiWnpBRHppNGtqVmpVZG8xZWxGR1h0RnhMT0dmSF9GbWJPd0d2M3VQNHJqWV9qYVgzeTNINEFTeG5GdEQxU3lqM3RKd3o2a2pZbFh6WVkyeFp2SHQ2LVcwN3NzSHdzbkZmMG1xYzZ4OFVWMzQzWXh3a2M4dlJRN3ZZbG1iV1dvRGRaa0xpSXoyUElqcE5QRGNKN2Y4VC0tVW1XbU02VmFvbGVwMnlLcDU5SGdMOGY1RnpHcGJtcUxXaWNsMk53WlNsU25tRGlaOUtZWkkxUnZtME1FRTVscjNzMXRYQ0o0NlRjdGVLQlVvckZWc1lndms?oc=5)
-
----
-
 ### [Taking A Break? Study Finds Why Many GLP-1 Users Stop And Restart Their Medication](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDNXMGwwNEl3dWUwR0o2TTJRazQzemc0V2xydmtQR0M4cy1oOVhNZ2xjRXBiNFI2eGZ4MkxiVmFWYmtGUEFMWDJsRmNUcHh6b2RnVzdLMllPTkpnWmR0Qldod19qRVZoNWJTV21xeUg2UDkwaFF0OUNpTTg0b1Rtci1NcnlOZklDYU5qRkJWU3huRXFyUTZFd2xhaDE0Y011aUsyM0dNN2YxTzRyRTVCMnJkVHIzTUZqQjRrRHZGZWlOOV91VGRhRlFVSU05WmZKRmfSAdoBQVVfeXFMUFpHSkh4VGpLNkZCaEdKUjV0X0FJaTUxX01IRHN1VGF3RTMzV0ZUcEhNVEpaR3dWNFgtQ01fVmdidjdkUmpwRDN4YU96RmNBZ3FVb2x0d0JOdXJ4b1hJeFV1MF9oWExpNGNoUGJqTzlnb1VLdkRxZEJSUkh4ak9oT056QVdCcTAyX1Frc3dTMFk4dklwcHU1NHpTbktzMTR0Wld1bUpGaXh6QjVKRDhZQ1JIVDQ5eEpCOUN2T2NDdzJBekgyd2plNXl1N0ZTYkFDT2M0NFFLXzUxUVE?oc=5)
 
 2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
 來源：[NDTV](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDNXMGwwNEl3dWUwR0o2TTJRazQzemc0V2xydmtQR0M4cy1oOVhNZ2xjRXBiNFI2eGZ4MkxiVmFWYmtGUEFMWDJsRmNUcHh6b2RnVzdLMllPTkpnWmR0Qldod19qRVZoNWJTV21xeUg2UDkwaFF0OUNpTTg0b1Rtci1NcnlOZklDYU5qRkJWU3huRXFyUTZFd2xhaDE0Y011aUsyM0dNN2YxTzRyRTVCMnJkVHIzTUZqQjRrRHZGZWlOOV91VGRhRlFVSU05WmZKRmfSAdoBQVVfeXFMUFpHSkh4VGpLNkZCaEdKUjV0X0FJaTUxX01IRHN1VGF3RTMzV0ZUcEhNVEpaR3dWNFgtQ01fVmdidjdkUmpwRDN4YU96RmNBZ3FVb2x0d0JOdXJ4b1hJeFV1MF9oWExpNGNoUGJqTzlnb1VLdkRxZEJSUkh4ak9oT056QVdCcTAyX1Frc3dTMFk4dklwcHU1NHpTbktzMTR0Wld1bUpGaXh6QjVKRDhZQ1JIVDQ5eEpCOUN2T2NDdzJBekgyd2plNXl1N0ZTYkFDT2M0NFFLXzUxUVE?oc=5)
+
+---
+
+### [Why weight-loss drugs don’t work for some people - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
+
+---
+
+### [Ozempic and Wegovy linked to surprising drop in violent behavior](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wby1NcUR6QXIyQldiRVI4N0pJQmlXaVlVcHR4RlQwa1dfaXhLNWxheXpjSFBwR05mTE5fSDhyQkVnZmNHNElxWkxibUNhTkZPV1dLb0dyb0N1QkVfdFJJT3d5czF0UmhHODMwNWg3UQ?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wby1NcUR6QXIyQldiRVI4N0pJQmlXaVlVcHR4RlQwa1dfaXhLNWxheXpjSFBwR05mTE5fSDhyQkVnZmNHNElxWkxibUNhTkZPV1dLb0dyb0N1QkVfdFJJT3d5czF0UmhHODMwNWg3UQ?oc=5)
 
 ---
 
@@ -163,14 +187,6 @@ permalink: /news/semaglutide/
 2026-06-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
-
----
-
-### [Sardinen gegen Diabetes: 200g wöchentlich senken Hochrisiko um 64% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9PeWV2VE9TakVwRGVmcDluZ3dqNFlBYkZ2czBHZlZVWmRzdEJISDM5UzNtNEZYTEdqVFgzSG9MX2FYd0dFRkhkNzRMWWxXbDZKMExfdGwybGxrS3ZVem9WMmRQUi1OUVJ6NXJMQzlieWJ3bVYyTFd6NVBnckxMajJVdHpHSkVzME4tWG9OYWtGX0dSSkdFZ3lKY2x1NjVLVWVhMUExR3VOc1laQUdqRUxHNGhQUHpjMnRlSGh4Zw?oc=5)
 
 ---
 

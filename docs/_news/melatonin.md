@@ -70,14 +70,6 @@ permalink: /news/melatonin/
 
 ---
 
-### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
-
----
-
 ### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -86,19 +78,27 @@ permalink: /news/melatonin/
 
 ---
 
-### [Ana Sánchez, endocrinóloga: «Es falso que el hígado graso sea un problema exclusivamente relacionado con el alcohol» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiggJBVV95cUxOT0RTUEpqd2xpVFJDTEVDU0xMaU0xcG1CbG1KUVEwYTRaVmh5Q2ljdzhtWV9WSkNCV1IwUEZ3aEQ5OFo5akJQZDRNWElsTnlaNEpsZFJ2Y2hPRWpiNGh5d081QzNuR3ZId0ZMaXV4am13V294NUhIVlJZWExIcTBiQkwxYS1fV1NxSnNUYnhGNVkzXzRxeVVvUUxwSVExM0dGMk50cnVlYTlORzJIN0hjWWhrMHZfbVpQZFZheHVRdExCUmZXaHM2VmZzVmRlc2pSV3h5MHpUZHB2N0VMbFNXWXE0THlwWmtrU3BicWtmdXJncmFEdW9SUE5qeHlwNEJHQVE?oc=5)
-
-2026-06-18 <span class="news-indication-tag">obesidad</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMiggJBVV95cUxOT0RTUEpqd2xpVFJDTEVDU0xMaU0xcG1CbG1KUVEwYTRaVmh5Q2ljdzhtWV9WSkNCV1IwUEZ3aEQ5OFo5akJQZDRNWElsTnlaNEpsZFJ2Y2hPRWpiNGh5d081QzNuR3ZId0ZMaXV4am13V294NUhIVlJZWExIcTBiQkwxYS1fV1NxSnNUYnhGNVkzXzRxeVVvUUxwSVExM0dGMk50cnVlYTlORzJIN0hjWWhrMHZfbVpQZFZheHVRdExCUmZXaHM2VmZzVmRlc2pSV3h5MHpUZHB2N0VMbFNXWXE0THlwWmtrU3BicWtmdXJncmFEdW9SUE5qeHlwNEJHQVE?oc=5)
-
----
-
 ### [Pastillas para adelgazar: el nuevo fármaco de Wegovy que preocupa a los médicos - El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWc?oc=5)
 
 2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWc?oc=5)
+
+---
+
+### [Emicrania, ' una patologia sociale e di genere'. All'Asst 'la cura è personalizzata e globale'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
+
+2026-06-17 <span class="news-indication-tag">emicrania</span>
+
+來源：[Cremaonline](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
+
+---
+
+### [Why weight-loss drugs don’t work for some people - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
 
 ---
 

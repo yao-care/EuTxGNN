@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
 
 ### [Canicule : ces deux aliments, délicieux en salade, réduiraient l'hypertension](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/telmisartan/
 
 ---
 
+### [We Asked Cardiologists If Taking Aspirin Really Helps Prevent Heart Disease—Here’s What They Said](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">heart disease</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
+
+---
+
 ### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -83,6 +91,22 @@ permalink: /news/telmisartan/
 2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl9JSmNaVDhEcnJDQ1h6cklGWk9JVC1hRXZHVWJ0Z1ZicDZtdHQ4YzUxQ0lLNk1pVTNXWlRQWXd6OEtpZHJuTjhjZWxKbTk3dTFFOEZ2aTVmWkJiNVlNUlFhVDVheFZRMDZTRDNpY1RJU1lpNHppWFhLUWFEVVpOdmlfbnZWdDVWNHFFSFdZcUFIRk1q?oc=5)
+
+---
+
+### [Researchers found 8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
+
+---
+
+### [El hábito semanal de dos horas que salva a las mujeres del infarto - Libertad Digital](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTZjcXB1SlN4VjN6Ukw1c3N0eEhuZ2lzOGphZDlFaG5zMnJDTm5kc0pwSlJkdW5DTGNPQVRSVW5Fa1RqNmsxa081a2cxclFHSmN0S1FjdVJQQmRvRjNDRDZhOUVjVGJlcGprTHpzYzNvU1JacnVCbUh6OTVYTWFsOEg2dWhFUm9YRGhaSldkRjAzSDdJVUZ2WC1nUFZ0cEEtTFpaZmJmVkN5cmpqb0F6S01YVGhpTGxXQnVkSkxCa29VcmRrZ2x3Y3BicFR0TzV2bzJJV2l5cFBSY1XSAeYBQVVfeXFMT09CQTBkaWVodWg5WXlsWEhkbUxITmx0dXlTTDYwVDlTdUhXN3Z3MVgzWDlxTzl1eHZrMnkwektlU0JWQzRwZ2JJcmZPaklROXJKc3N3VklwVEFpRDdZSVFlZ1N6aGFVRjVJWWpnZ0hvSlBlQ2xIQzZCaV9xcUVtU2tSaUs5dXh6dEEzYW1CRGRmODFvRFBtVUtxQkF2RzdrSzEtNENVQkVfZzVnR1d6Tm1XN2J4X3FsYVNsYUNaUmxUUTZOZ05fX2NqbXJZM1dZS2tnVlFpcU5lYXpCVnY3bV8zRXJOZnc?oc=5)
+
+2026-06-17 <span class="news-indication-tag">ictus</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTZjcXB1SlN4VjN6Ukw1c3N0eEhuZ2lzOGphZDlFaG5zMnJDTm5kc0pwSlJkdW5DTGNPQVRSVW5Fa1RqNmsxa081a2cxclFHSmN0S1FjdVJQQmRvRjNDRDZhOUVjVGJlcGprTHpzYzNvU1JacnVCbUh6OTVYTWFsOEg2dWhFUm9YRGhaSldkRjAzSDdJVUZ2WC1nUFZ0cEEtTFpaZmJmVkN5cmpqb0F6S01YVGhpTGxXQnVkSkxCa29VcmRrZ2x3Y3BicFR0TzV2bzJJV2l5cFBSY1XSAeYBQVVfeXFMT09CQTBkaWVodWg5WXlsWEhkbUxITmx0dXlTTDYwVDlTdUhXN3Z3MVgzWDlxTzl1eHZrMnkwektlU0JWQzRwZ2JJcmZPaklROXJKc3N3VklwVEFpRDdZSVFlZ1N6aGFVRjVJWWpnZ0hvSlBlQ2xIQzZCaV9xcUVtU2tSaUs5dXh6dEEzYW1CRGRmODFvRFBtVUtxQkF2RzdrSzEtNENVQkVfZzVnR1d6Tm1XN2J4X3FsYVNsYUNaUmxUUTZOZ05fX2NqbXJZM1dZS2tnVlFpcU5lYXpCVnY3bV8zRXJOZnc?oc=5)
 
 ---
 

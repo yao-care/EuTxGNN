@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（34 則）
+
+### [Stammtisch an der Uniklinik bietet Patient:innen mit Hirntumor Raum für Austausch und Normalität - Du bist Halle](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckdpaHB4SWhYMEpJdnZXTG5uZ2QzbHVvOFZRblc4dzYwNWRnVW1QUGFDQmZBWnQ5Szc4eHNIc24xX0kzb0IyMVR1NEJtcldsQ2Z5OVA0MnNObXRYMENGTmJxU3hpYU56SHdRMlhjUm4zQU1DaldldDJGTHJmbzJhclg1NEdwcnppZ045YWFFTFM1emNWdXJOYkt0ekhrWHZUVG5WdWRMSk5LZ3QwRXRUa2VnY2YybEt0U05qZnNn?oc=5)
+
+2026-06-18 <span class="news-indication-tag">tumor</span>
+
+來源：[Du bist Halle](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckdpaHB4SWhYMEpJdnZXTG5uZ2QzbHVvOFZRblc4dzYwNWRnVW1QUGFDQmZBWnQ5Szc4eHNIc24xX0kzb0IyMVR1NEJtcldsQ2Z5OVA0MnNObXRYMENGTmJxU3hpYU56SHdRMlhjUm4zQU1DaldldDJGTHJmbzJhclg1NEdwcnppZ045YWFFTFM1emNWdXJOYkt0ekhrWHZUVG5WdWRMSk5LZ3QwRXRUa2VnY2YybEt0U05qZnNn?oc=5)
+
+---
 
 ### [Canicule : ces deux aliments, délicieux en salade, réduiraient l'hypertension](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
 
@@ -70,6 +78,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [HPV-Impfung: England senkt Gebärmutterhalskrebs-Risiko für junge Frauen auf null](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
+
+2026-06-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
+
+---
+
 ### [Nurse struck off for saying Covid jab 'caused cancer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DbHNjSWFySlJ4M1BaWXlTeVNpRXdzSEEzbFE0aEZuY3RVaWdJNVRHd0lmX2hVMW13RlBBX1A2NjZERU5LeU9NN21zN3RaN21PX3p3aVV5Z1h4blgt?oc=5)
 
 2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -78,11 +94,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [HPV-Impfung senkt Risiko für Tod durch Gebärmutterhalskrebs auf nahezu null](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEpnWHVoQk9XSzlZbTRMT1B0blUyZWFCc25rWVcwRndYM1NZR3hyTTJQLXhfOFdpeUNkU2FKUXR3TjhZVF9BX3lfN3Z5UnJsLVdtdG0yTVVFUmhHcTRVNU5ybEQ3dV9ZeGpjODFoUVhyZnpXREs1cmZHSW5pLWoyeC1DZTVxZUdEQ2NxeFRPdW1XMko3bEZjdkx0NVBZc0M2cnBFZ0t3dUNIRFh1bUFTQmFHN2VXa09ycEs0XzlUc2dMQlpuSmZLU0NybEhxemw2UThaTm1wemNCVlZUX0RGTUlPWnBuYjVONnM0Z1FWdVI?oc=5)
+### [HPV vaccine: Your questions answered as cervical cancer deaths fall to zero in women under 24](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">Krebs</span>
+2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Spiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEpnWHVoQk9XSzlZbTRMT1B0blUyZWFCc25rWVcwRndYM1NZR3hyTTJQLXhfOFdpeUNkU2FKUXR3TjhZVF9BX3lfN3Z5UnJsLVdtdG0yTVVFUmhHcTRVNU5ybEQ3dV9ZeGpjODFoUVhyZnpXREs1cmZHSW5pLWoyeC1DZTVxZUdEQ2NxeFRPdW1XMko3bEZjdkx0NVBZc0M2cnBFZ0t3dUNIRFh1bUFTQmFHN2VXa09ycEs0XzlUc2dMQlpuSmZLU0NybEhxemw2UThaTm1wemNCVlZUX0RGTUlPWnBuYjVONnM0Z1FWdVI?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
 ---
 
@@ -118,6 +134,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [We Asked Cardiologists If Taking Aspirin Really Helps Prevent Heart Disease—Here’s What They Said](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
+
+2026-06-18 <span class="news-indication-tag">heart disease</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
+
+---
+
 ### [Neue Perspektive der Prävention: Prädiabetes-Remission könnte Krebsrisiko verringern - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
@@ -150,6 +174,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [¿Por qué el envejecimiento y el riesgo de desarrollar ciertas enfermedades son diferentes en mujeres y hombres? - Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0t4Z3Z2aVdwVl9rQk9uQlFQdDgtNXR0ZWhxZkJIQzRYamRGbm5uSTZtMHc1ZVVsYkJNV1JyZXVMdXdJa2twYlB1MkpBeEZlbWk2Qlk0UzJaOGY4NGQ4TXFidW5seVFCRF9fTXBVVkRiRXBDeWJJbDZKb0NLSGsxRExsWlg2b0RKMzRpanF3akZ3N0M4Rmx3YWEtXzRwd05hb3A1UTQ1Vm55dEdjUmxEZ0xIdFBlMkdkRXNWcFZB?oc=5)
+
+2026-06-18 <span class="news-drug-tag">Amlodipine</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0t4Z3Z2aVdwVl9rQk9uQlFQdDgtNXR0ZWhxZkJIQzRYamRGbm5uSTZtMHc1ZVVsYkJNV1JyZXVMdXdJa2twYlB1MkpBeEZlbWk2Qlk0UzJaOGY4NGQ4TXFidW5seVFCRF9fTXBVVkRiRXBDeWJJbDZKb0NLSGsxRExsWlg2b0RKMzRpanF3akZ3N0M4Rmx3YWEtXzRwd05hb3A1UTQ1Vm55dEdjUmxEZ0xIdFBlMkdkRXNWcFZB?oc=5)
+
+---
+
 ### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -163,14 +195,6 @@ permalink: /news/amlodipine/
 2026-06-18 <span class="news-indication-tag">tumor</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWQwYlltcGdlSlVPV1RZTkQ2aV9mc2F4VnlxZ29fdm5acWNnYkV4SmZsazItRzJYYUNNbEI1ZFI4dS1IUUVaSzFKRFBpOFVrLXc3SFZ0eEFmbklocHUxUUZfSjQ5a1VsMkxaNnFOTC1xTGxQY3JkQ19BaVpjaS1QMGIwWkxWUzEzVTBsaVA5OWZLcUlBcDlsWkc2UnI5X0Y1dmo4eERybkxsVGNUMUxRRnQ1bGJ1U3RDVEZBQnROMV9MN1hpT05BUG1mWkttMkZzY25RVWMxaWh4Zng4bGUw?oc=5)
-
----
-
-### [Children vaccinated for HPV have close to zero risk of dying from cervical cancer before age 30, study suggests - Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
-
-2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
 
 ---
 
@@ -206,6 +230,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Researchers found 8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
+
+---
+
 ### [Breakthrough jab could ‘reverse ageing’ and help fight cancer and dementia - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
 
 2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
@@ -214,11 +246,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [New Research Pinpoints Hidden Brain Trigger That Causes Autism, Changing How We Understand The Condition - Bored Panda](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhkTHVzTG1GQnV2N01hZWFWSHRiUE8xekxCamdLMmIzc0ZSUlFzWEVMSGdWd2NiWmxQTFBBN0gwQ09nN0tGY0txY1hjR1hiaUZ3UVVyckpZZ3NDb0xYNW91dE5NMFV3dGNKOWtqZnYxSlZHQThxZ2hISWJhZGtvbm51N1BidlFLSExXUmxycU5wb3NJYXV3YnZxMlljT25L?oc=5)
+### [El hábito semanal de dos horas que salva a las mujeres del infarto - Libertad Digital](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTZjcXB1SlN4VjN6Ukw1c3N0eEhuZ2lzOGphZDlFaG5zMnJDTm5kc0pwSlJkdW5DTGNPQVRSVW5Fa1RqNmsxa081a2cxclFHSmN0S1FjdVJQQmRvRjNDRDZhOUVjVGJlcGprTHpzYzNvU1JacnVCbUh6OTVYTWFsOEg2dWhFUm9YRGhaSldkRjAzSDdJVUZ2WC1nUFZ0cEEtTFpaZmJmVkN5cmpqb0F6S01YVGhpTGxXQnVkSkxCa29VcmRrZ2x3Y3BicFR0TzV2bzJJV2l5cFBSY1XSAeYBQVVfeXFMT09CQTBkaWVodWg5WXlsWEhkbUxITmx0dXlTTDYwVDlTdUhXN3Z3MVgzWDlxTzl1eHZrMnkwektlU0JWQzRwZ2JJcmZPaklROXJKc3N3VklwVEFpRDdZSVFlZ1N6aGFVRjVJWWpnZ0hvSlBlQ2xIQzZCaV9xcUVtU2tSaUs5dXh6dEEzYW1CRGRmODFvRFBtVUtxQkF2RzdrSzEtNENVQkVfZzVnR1d6Tm1XN2J4X3FsYVNsYUNaUmxUUTZOZ05fX2NqbXJZM1dZS2tnVlFpcU5lYXpCVnY3bV8zRXJOZnc?oc=5)
 
-2026-06-17 <span class="news-drug-tag">Amlodipine</span>
+2026-06-17 <span class="news-indication-tag">ictus</span>
 
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHhkTHVzTG1GQnV2N01hZWFWSHRiUE8xekxCamdLMmIzc0ZSUlFzWEVMSGdWd2NiWmxQTFBBN0gwQ09nN0tGY0txY1hjR1hiaUZ3UVVyckpZZ3NDb0xYNW91dE5NMFV3dGNKOWtqZnYxSlZHQThxZ2hISWJhZGtvbm51N1BidlFLSExXUmxycU5wb3NJYXV3YnZxMlljT25L?oc=5)
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTZjcXB1SlN4VjN6Ukw1c3N0eEhuZ2lzOGphZDlFaG5zMnJDTm5kc0pwSlJkdW5DTGNPQVRSVW5Fa1RqNmsxa081a2cxclFHSmN0S1FjdVJQQmRvRjNDRDZhOUVjVGJlcGprTHpzYzNvU1JacnVCbUh6OTVYTWFsOEg2dWhFUm9YRGhaSldkRjAzSDdJVUZ2WC1nUFZ0cEEtTFpaZmJmVkN5cmpqb0F6S01YVGhpTGxXQnVkSkxCa29VcmRrZ2x3Y3BicFR0TzV2bzJJV2l5cFBSY1XSAeYBQVVfeXFMT09CQTBkaWVodWg5WXlsWEhkbUxITmx0dXlTTDYwVDlTdUhXN3Z3MVgzWDlxTzl1eHZrMnkwektlU0JWQzRwZ2JJcmZPaklROXJKc3N3VklwVEFpRDdZSVFlZ1N6aGFVRjVJWWpnZ0hvSlBlQ2xIQzZCaV9xcUVtU2tSaUs5dXh6dEEzYW1CRGRmODFvRFBtVUtxQkF2RzdrSzEtNENVQkVfZzVnR1d6Tm1XN2J4X3FsYVNsYUNaUmxUUTZOZ05fX2NqbXJZM1dZS2tnVlFpcU5lYXpCVnY3bV8zRXJOZnc?oc=5)
 
 ---
 
@@ -251,22 +283,6 @@ permalink: /news/amlodipine/
 2026-06-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[Klinikum Fulda](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0ZVcW5YTjBNRW9UX0ktdWdrajZia0Q1RzJLdzdfQllZYjJPR2VlWHk1czYwSklqd0RIMzBjQmp3d2dhMHlKSlJnVl8wdjRRZzNxSlI5TV9KcVhHekhPaWdDUktSWEt1dUkxdXI3WDhkOWw3MldMS0VzVG9OaFRKbFBZQlVicFBQbVJWV1Nud3ZPckFuRUt1Q1RKVGxWdUdWWG1jeE1WNFllY09r?oc=5)
-
----
-
-### [Un protector oculto del genoma podría explicar las diferencias entre mujeres y hombres en salud y envejecimiento - UAB Barcelona](https://news.google.com/rss/articles/CBMioANBVV95cUxOVGxiTUlvSmNSSnhIMGwycWtEdWhvM1REeUFndXE2UEtWQVNLcGcyeWdXNGNNcXhwNk9JMG82aURMS1R6bWlyc3Y1S0pqNDRRV2lDbkxCTk93ZDAtTGlnN1JKbW1VZWFqV016bTVJdHBWVUNlSmQtdkZ3QkxKYUdIUlZ4djJFRDY1eTVDY1JLSGczelB5UWdSaVdwSThjQ09YQW0zRWktZzZobzlEbFZUdmdnQnZrc05lbC1NNWxXS1ZPTkllck5nOTJkdjltSHMybDhNd0FzMHJaSll0cW5oeGg1dHl5cmVIU09vV1FYOV82TEpGbWhfcDdvTnYtUHdjamVuMDFrTjNXSnZ2SlRUU2VTckZ0aVlQYUZGZ2VTc3JRa0owOFNxdXVXanlsazRyQXh1bC1yS29wTXNYSHBPalVDSTdSak9tME40dXFoWlBtbVIzSEJIZVBJbHEwS3ZVY2JQazd5ckh6NWJPdTBaTFVSR01nRDlaTzY1SFRhZUdzSkplbXNUZzJGTUZVNmZlRU8yNnlGMnRPOThPdV9WNg?oc=5)
-
-2026-06-17 <span class="news-drug-tag">Amlodipine</span>
-
-來源：[UAB Barcelona](https://news.google.com/rss/articles/CBMioANBVV95cUxOVGxiTUlvSmNSSnhIMGwycWtEdWhvM1REeUFndXE2UEtWQVNLcGcyeWdXNGNNcXhwNk9JMG82aURMS1R6bWlyc3Y1S0pqNDRRV2lDbkxCTk93ZDAtTGlnN1JKbW1VZWFqV016bTVJdHBWVUNlSmQtdkZ3QkxKYUdIUlZ4djJFRDY1eTVDY1JLSGczelB5UWdSaVdwSThjQ09YQW0zRWktZzZobzlEbFZUdmdnQnZrc05lbC1NNWxXS1ZPTkllck5nOTJkdjltSHMybDhNd0FzMHJaSll0cW5oeGg1dHl5cmVIU09vV1FYOV82TEpGbWhfcDdvTnYtUHdjamVuMDFrTjNXSnZ2SlRUU2VTckZ0aVlQYUZGZ2VTc3JRa0owOFNxdXVXanlsazRyQXh1bC1yS29wTXNYSHBPalVDSTdSak9tME40dXFoWlBtbVIzSEJIZVBJbHEwS3ZVY2JQazd5ckh6NWJPdTBaTFVSR01nRDlaTzY1SFRhZUdzSkplbXNUZzJGTUZVNmZlRU8yNnlGMnRPOThPdV9WNg?oc=5)
-
----
-
-### [Tumore al pancreas e alcol, studio canadese: “Ogni 10 grammi al giorno associati a un aumento del rischio”](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
-
-2026-06-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
 
 ---
 

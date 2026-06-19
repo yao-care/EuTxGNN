@@ -14,7 +14,7 @@ permalink: /news/ozanimod-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ozanimod Hydrochloride 有什麼相關新聞？">
-<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/ozanimod-hydrochloride/
 <p><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（34 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
-2026-06-18 <span class="news-indication-tag">MS</span>
+2026-06-19 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
 ---
 
-### [Geringere Lebenserwartung? Wie lang lebt man mit Multiple Sklerose](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHVGWTlnc09VeVJtWjFWMXVJT2oxS3NzM0J0cFJudlYyRlhkX1lfSG5uRHZrWXZFQ1JDYzlueXJTcXFjTXdqMEpRZFRYVl9BY1hZcXV5aHVNdUlMWTNHbE9mTTlYekZGUFNxMjVGQ3Z5UFVHakhJc0xCQzBsb0Q5WjU3ZWt6dUlRMmpqc2VOSUFtOG1Hekl1TmhCOExobHo1QzRQUXNxS1Z6SkJQLTFQTXlGVzRyXzhQQVdiUmpmLVdOTWdrMFAyTUVIa3JPVFdaQlNuOEJRWG9vTVZkYUhNN1BXS1ktUQ?oc=5)
+### [Stammtisch an der Uniklinik bietet Patient:innen mit Hirntumor Raum für Austausch und Normalität - Du bist Halle](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckdpaHB4SWhYMEpJdnZXTG5uZ2QzbHVvOFZRblc4dzYwNWRnVW1QUGFDQmZBWnQ5Szc4eHNIc24xX0kzb0IyMVR1NEJtcldsQ2Z5OVA0MnNObXRYMENGTmJxU3hpYU56SHdRMlhjUm4zQU1DaldldDJGTHJmbzJhclg1NEdwcnppZ045YWFFTFM1emNWdXJOYkt0ekhrWHZUVG5WdWRMSk5LZ3QwRXRUa2VnY2YybEt0U05qZnNn?oc=5)
 
-2026-06-18 <span class="news-indication-tag">Multiple Sklerose</span>
+2026-06-18 <span class="news-indication-tag">tumor</span>
 
-來源：[CHIP](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHVGWTlnc09VeVJtWjFWMXVJT2oxS3NzM0J0cFJudlYyRlhkX1lfSG5uRHZrWXZFQ1JDYzlueXJTcXFjTXdqMEpRZFRYVl9BY1hZcXV5aHVNdUlMWTNHbE9mTTlYekZGUFNxMjVGQ3Z5UFVHakhJc0xCQzBsb0Q5WjU3ZWt6dUlRMmpqc2VOSUFtOG1Hekl1TmhCOExobHo1QzRQUXNxS1Z6SkJQLTFQTXlGVzRyXzhQQVdiUmpmLVdOTWdrMFAyTUVIa3JPVFdaQlNuOEJRWG9vTVZkYUhNN1BXS1ktUQ?oc=5)
+來源：[Du bist Halle](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckdpaHB4SWhYMEpJdnZXTG5uZ2QzbHVvOFZRblc4dzYwNWRnVW1QUGFDQmZBWnQ5Szc4eHNIc24xX0kzb0IyMVR1NEJtcldsQ2Z5OVA0MnNObXRYMENGTmJxU3hpYU56SHdRMlhjUm4zQU1DaldldDJGTHJmbzJhclg1NEdwcnppZ045YWFFTFM1emNWdXJOYkt0ekhrWHZUVG5WdWRMSk5LZ3QwRXRUa2VnY2YybEt0U05qZnNn?oc=5)
 
 ---
 
-### [Las cuatro frutas que deberías evitar cenar si te levantas agotado por la mañana, según el cardiólogo Aurelio Rojas - La Razón](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdEU4MmdJdDRWbTJKU3dfdzBBSTFpbGQxMl9EQnNNZmVxbFN3aGUydExkZ3IxV3J5d2lTc0djNy1wcHdNZ0s2a2JpWTExT3pzQnVXWEQ4ZFdXd0ZKTXVVeUhJSFBiSVFYN2JORE1QdVZING5nWVg5VC1hNFNIOVFmWG0yWHhmNVctaGJTWm1yZldnMnRPZ2lhSEpLd1hYWDc3bHJuR2F6MF9ta1lJeGJybDdmV015ZDRnRHgyTWk4aUwya3ZVTmdwS3NMczdiSC1qUkZjTy1Ka0VlNGdVaVB1NWVacjRyX3NKdDdnUTNHTGhPTndIZmNickFn0gGOAkFVX3lxTFB1VGdCNTJ1THIzT005dWhwOUJvOXdhZDc1MU1uRVhxRVpMT0xpZXRjRC0zYW1TWWZJTE9zbEdHNmFUQmNGM3lnV01nUy1pb1dWU3VYRXQ1Y2FQcDBWQlRTZWZ5RHBHRDNMV2RUUGhkZXZ2RHpsQVp1cU44bFk4eGVGb2pMbzZRRVNEcW94UXhxdE9uMmhMcEtxQU92WlZvQl9mMElLOHhtZm5peDEwUERwTVBsd1JIajVyNk9FakhyQnFndnRXVzlNanE3dlNvd0RxdmtPNk5IdEJUb1oyX3hka3pxUjBLcklZZ3F6c0JpZzNGbVgyYmlZTGc5TlU5dURZdEU2cW9VdDlvbUl6Zw?oc=5)
+### [Bending forwards a lot at work in early pregnancy may increase miscarriage risk, study suggests - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejZvOHhVN1RSNWwwbTNaR3F2S1g4TFN3aldkeFJQQXRJWDZjUjFocHNXU3dTdFlwNjlHcm1OS3I3TGt3RmtrVVBDdmNFWGlhTldOcmotNktCTXlLNmJURjhrMGJsVWx3X2tSaF9TSTV6allaYW5tSGpHOGlOT0I5TVE5Mk9KSVFCbmx1cmRkckZGSWJPLU13VnJCSFFqdWw2bGctZXJoR1BJTW9xUTlQcA?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdEU4MmdJdDRWbTJKU3dfdzBBSTFpbGQxMl9EQnNNZmVxbFN3aGUydExkZ3IxV3J5d2lTc0djNy1wcHdNZ0s2a2JpWTExT3pzQnVXWEQ4ZFdXd0ZKTXVVeUhJSFBiSVFYN2JORE1QdVZING5nWVg5VC1hNFNIOVFmWG0yWHhmNVctaGJTWm1yZldnMnRPZ2lhSEpLd1hYWDc3bHJuR2F6MF9ta1lJeGJybDdmV015ZDRnRHgyTWk4aUwya3ZVTmdwS3NMczdiSC1qUkZjTy1Ka0VlNGdVaVB1NWVacjRyX3NKdDdnUTNHTGhPTndIZmNickFn0gGOAkFVX3lxTFB1VGdCNTJ1THIzT005dWhwOUJvOXdhZDc1MU1uRVhxRVpMT0xpZXRjRC0zYW1TWWZJTE9zbEdHNmFUQmNGM3lnV01nUy1pb1dWU3VYRXQ1Y2FQcDBWQlRTZWZ5RHBHRDNMV2RUUGhkZXZ2RHpsQVp1cU44bFk4eGVGb2pMbzZRRVNEcW94UXhxdE9uMmhMcEtxQU92WlZvQl9mMElLOHhtZm5peDEwUERwTVBsd1JIajVyNk9FakhyQnFndnRXVzlNanE3dlNvd0RxdmtPNk5IdEJUb1oyX3hka3pxUjBLcklZZ3F6c0JpZzNGbVgyYmlZTGc5TlU5dURZdEU2cW9VdDlvbUl6Zw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejZvOHhVN1RSNWwwbTNaR3F2S1g4TFN3aldkeFJQQXRJWDZjUjFocHNXU3dTdFlwNjlHcm1OS3I3TGt3RmtrVVBDdmNFWGlhTldOcmotNktCTXlLNmJURjhrMGJsVWx3X2tSaF9TSTV6allaYW5tSGpHOGlOT0I5TVE5Mk9KSVFCbmx1cmRkckZGSWJPLU13VnJCSFFqdWw2bGctZXJoR1BJTW9xUTlQcA?oc=5)
 
 ---
 
@@ -83,6 +83,14 @@ permalink: /news/ozanimod-hydrochloride/
 2026-06-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Westfalenpost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTlmaG5WdW9ubjMyZmtucUhvaEh3c3d2YlpIWTA0X0lRcGR4Mm1QaG9pdjJaTnI3dFlqazRYQ3NoU0Z6cU1fRm5DSUNYZFVQN0c5SWR1RVdURjh2ZWRyZGh4UUZ0Z1hYVjhXSjNxSVJTSGVHTDhqXzlUQWgxOTNybXlRYXVlbjRhbnFJbGhKMlR1RmFEbUlHZ1BjTTB0c1l4Um1GQ2NHVFA1bWtadDBIVjNPVkJza0lNWlIteVA4eHVMZ0FzWElZTF9pMUhfNUgyXzhZZVpXUUhaazc0NTF2dXNR?oc=5)
+
+---
+
+### [HPV-Impfung: England senkt Gebärmutterhalskrebs-Risiko für junge Frauen auf null](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
+
+2026-06-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
 
 ---
 
@@ -102,11 +110,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [HPV-Impfung senkt Risiko für Tod durch Gebärmutterhalskrebs auf nahezu null](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEpnWHVoQk9XSzlZbTRMT1B0blUyZWFCc25rWVcwRndYM1NZR3hyTTJQLXhfOFdpeUNkU2FKUXR3TjhZVF9BX3lfN3Z5UnJsLVdtdG0yTVVFUmhHcTRVNU5ybEQ3dV9ZeGpjODFoUVhyZnpXREs1cmZHSW5pLWoyeC1DZTVxZUdEQ2NxeFRPdW1XMko3bEZjdkx0NVBZc0M2cnBFZ0t3dUNIRFh1bUFTQmFHN2VXa09ycEs0XzlUc2dMQlpuSmZLU0NybEhxemw2UThaTm1wemNCVlZUX0RGTUlPWnBuYjVONnM0Z1FWdVI?oc=5)
+### [HPV vaccine: Your questions answered as cervical cancer deaths fall to zero in women under 24](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">Krebs</span>
+2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Spiegel](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEpnWHVoQk9XSzlZbTRMT1B0blUyZWFCc25rWVcwRndYM1NZR3hyTTJQLXhfOFdpeUNkU2FKUXR3TjhZVF9BX3lfN3Z5UnJsLVdtdG0yTVVFUmhHcTRVNU5ybEQ3dV9ZeGpjODFoUVhyZnpXREs1cmZHSW5pLWoyeC1DZTVxZUdEQ2NxeFRPdW1XMko3bEZjdkx0NVBZc0M2cnBFZ0t3dUNIRFh1bUFTQmFHN2VXa09ycEs0XzlUc2dMQlpuSmZLU0NybEhxemw2UThaTm1wemNCVlZUX0RGTUlPWnBuYjVONnM0Z1FWdVI?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
 ---
 
@@ -166,6 +174,14 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
+### [Clean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study - The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0J1d25hS212R1M3YmJCY2NVTXZaclN4Y09fcVlOaEFXMnNhUFIySnJjdlpRYTVpZmRmbTRlcHJoaTRaY2EzclFPLV9ERVR4NDZNVUkzWkdJMzdUa1drT1B6c29DZE5OelB0ZTR1RmZoMWlEWko4VlM1dEE2MGUtdnFweGloZVRkS25abERiRHN2Rm5VdDFvd2tvNlF0UXlBcUxJSDgxRVd6RmhoeG1vdXV1aFJta0tMdnB1UHRHZ0VlTVI1WUNLNg?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0J1d25hS212R1M3YmJCY2NVTXZaclN4Y09fcVlOaEFXMnNhUFIySnJjdlpRYTVpZmRmbTRlcHJoaTRaY2EzclFPLV9ERVR4NDZNVUkzWkdJMzdUa1drT1B6c29DZE5OelB0ZTR1RmZoMWlEWko4VlM1dEE2MGUtdnFweGloZVRkS25abERiRHN2Rm5VdDFvd2tvNlF0UXlBcUxJSDgxRVd6RmhoeG1vdXV1aFJta0tMdnB1UHRHZ0VlTVI1WUNLNg?oc=5)
+
+---
+
 ### [Tumore del rene, un terzo dei casi scoperto tardi. Sintomi da non trascurare e chi è più a rischio d'ammalarsi - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxPRFlMNzNGZjZ5MVJFWHl0VXRTRjRzOEZkSWpyT0cxeDZYQXZIV2VTVG94bHVKbFJTYkdSeGdtazMtUUlXUzF3aGZ6U1Q2c0tHUVZFY1VvZWVObmRodmxLbjFZWXVzUGppRnN0c0JZY21ZajhCLUJwUzJ5dVBzQjJJMnZvQW0zUWhib3lIRmlmd29JT2swVHoxWkVFOUdCYjVrNFIyS2I0TGxuS2dYRjdhRVhxbnZjTnh2TGFqZ29wVTRnZFc4V3UySkhGNFhvVnZWcXdPQmJ4NE9GUUMtdjFlaXF6VDZnTDRESEx6NEE5OVRidktBeHBONmxUUUI0UnFCV3dSWW1vX1JxajVTNTFWYkFncUVFY1BuRElwVHRpMFdybXh2dlkxblVwbGdlenR4a3ByNEU1SdIBvAJBVV95cUxOVzRpMU94cUsxTWhmV3hPbV80SmF2dVRpYmIwcFNrUDFQcnBISzJDTzB5YTdwa3k3UDNmVlM3Yy1NN1VsYWNnYV9iMXRqelBLZjZVVTdFY1ZKcjJrT0QxeVRqNE04VnY3eDZObGJ2MF94cElGVWVFTGNGSUIyZGRqcVNZMWpDWGZGeDFuOUVYY1l5ZFJVeS1uNnpnQTk5QUN2YU02bC14elpNbXRQblJ2emNpczV5Vk1tYU9RMk1pbGVOZTZXZ0VUdzRWc1RuQzE0d1FLcEg5SkFmU0lGVkM0UE5yNVhiZTgtdnRJaDI4OXZvaW1ORl92amlsdkV1RC1IT09qQndBYWNIeTZ1TGdYT0YzSFVBVWp1bWF1QUhDX2R0cU11bzNtYlB1RVFUM2FlLUQwdU5pd1o4ZzJu?oc=5)
 
 2026-06-18 <span class="news-indication-tag">tumor</span>
@@ -187,14 +203,6 @@ permalink: /news/ozanimod-hydrochloride/
 2026-06-18 <span class="news-indication-tag">MS</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
-
----
-
-### [Children vaccinated for HPV have close to zero risk of dying from cervical cancer before age 30, study suggests - Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
-
-2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
 
 ---
 
@@ -278,14 +286,6 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Tumore al pancreas e alcol, studio canadese: “Ogni 10 grammi al giorno associati a un aumento del rischio”](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
-
-2026-06-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEd0MGQxbnYwamVtZm1KYlRVelpKNldkYjhIY0NabnZiU3o5M3psSGZzOFBXUWVTbVl4VlJZekRsTUliR084aE5TdFhVclMyRnNVbVVNdVdmSGl5TnJVZ1hrclNWRWdSVHJrVHdhTkZLd3QzWFM1RlRnV2xxOTBZMWl1ejRrbmRfRzJRWU5rdW53NGZ5aEd6MHEyMFdHT3ZIS2VhSGowejJRUUh5cEZrMHNjaXhvS0V0eXpaOGpoRTdodTZaWUtqRGRmQ3ZMU1lwLWRKa1RlaVRhVjhqN2lF?oc=5)
-
----
-
 ### [Cancers du péritoine : avancée majeure pour l'opération, cette chirurgie développée à Lyon devient la norme mondiale](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUTZTMW1yQ3lWQ1BLZ0VOZ0MyVy15VDlQekVITDVjT1FQWWVQbFE1Y0xheDhCX29lWXg2U3hCczJvTVNVU2hCd1NVbWdaNWtUR254STRtMEZtS2xUOHRRcW81UDRXSWpxZ0lXRjBIRHZ5amVjYmd5eVlXclpzNmJnZWd5bE1LSWpZSnBWTE1tU2l4NE11OHZnQlpoQzVBNFlKdEc1WjFNS3hfNktTcjhRbE9NX0hEOXhKMmxCQ0I1SkxabGNpUEF3aUp2WnRDWjBCUFdfd1ptb3NfWWFCTE5BRTIxZGQwckhmUzZGajBOSk1zTVZEdXlOUEl2VmVuOHVQaldaaEJn?oc=5)
 
 2026-06-17 <span class="news-indication-tag">cancer</span>
@@ -323,14 +323,6 @@ permalink: /news/ozanimod-hydrochloride/
 2026-06-17 <span class="news-indication-tag">cancro</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVR4eU8wVHptb2tSNDZoWGJzZnNHTHEtWjdHdEM0eGZKZlF1RVdTcGlIc1RJeEh2YXhUd3FJR3N4N3BXeVotc19INktLWnRyTHFVNmZ0ZkYtR0RTV3ROcGFKWG03aHFVWGhDZFVGenRmN1NjZVJTWU81czQ1alc3OHowelZXLWprWmE4bFBwUUdaOHhzRHZMQ1JUbWx6d0pFcUlV?oc=5)
-
----
-
-### [The Best Time to Take Vitamin D for Maximum Absorption, According to Health Experts](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hSTk42eWJOU3VwMnVXZXUzZlRoM3NzZUdsR3NQSXpuaW55UWpyNkN0eDhkWDB5SHlueWo0UVdJdVpXVC1rV0tBT1dmOXVmaGhHcnVHSXZaZHM3WUpudHhnaXNjTnZDT2Q0R0p3MWpvYnh2LU9FLVMtbm9SamcxTDRzclJ3SFN0elMxSld0OA?oc=5)
-
-2026-06-16 <span class="news-indication-tag">MS</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hSTk42eWJOU3VwMnVXZXUzZlRoM3NzZUdsR3NQSXpuaW55UWpyNkN0eDhkWDB5SHlueWo0UVdJdVpXVC1rV0tBT1dmOXVmaGhHcnVHSXZaZHM3WUpudHhnaXNjTnZDT2Q0R0p3MWpvYnh2LU9FLVMtbm9SamcxTDRzclJ3SFN0elMxSld0OA?oc=5)
 
 ---
 

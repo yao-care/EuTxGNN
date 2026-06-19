@@ -14,7 +14,7 @@ permalink: /news/loxapine/
 ---
 
 <p class="key-answer" data-question="Loxapine 有什麼相關新聞？">
-<strong>Loxapine</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Loxapine</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/loxapine/
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（40 則）
+## 相關新聞（35 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
-2026-06-18 <span class="news-indication-tag">MS</span>
+2026-06-19 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
 ---
 
-### [Geringere Lebenserwartung? Wie lang lebt man mit Multiple Sklerose](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHVGWTlnc09VeVJtWjFWMXVJT2oxS3NzM0J0cFJudlYyRlhkX1lfSG5uRHZrWXZFQ1JDYzlueXJTcXFjTXdqMEpRZFRYVl9BY1hZcXV5aHVNdUlMWTNHbE9mTTlYekZGUFNxMjVGQ3Z5UFVHakhJc0xCQzBsb0Q5WjU3ZWt6dUlRMmpqc2VOSUFtOG1Hekl1TmhCOExobHo1QzRQUXNxS1Z6SkJQLTFQTXlGVzRyXzhQQVdiUmpmLVdOTWdrMFAyTUVIa3JPVFdaQlNuOEJRWG9vTVZkYUhNN1BXS1ktUQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[CHIP](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHVGWTlnc09VeVJtWjFWMXVJT2oxS3NzM0J0cFJudlYyRlhkX1lfSG5uRHZrWXZFQ1JDYzlueXJTcXFjTXdqMEpRZFRYVl9BY1hZcXV5aHVNdUlMWTNHbE9mTTlYekZGUFNxMjVGQ3Z5UFVHakhJc0xCQzBsb0Q5WjU3ZWt6dUlRMmpqc2VOSUFtOG1Hekl1TmhCOExobHo1QzRQUXNxS1Z6SkJQLTFQTXlGVzRyXzhQQVdiUmpmLVdOTWdrMFAyTUVIa3JPVFdaQlNuOEJRWG9vTVZkYUhNN1BXS1ktUQ?oc=5)
-
----
-
-### [Las cuatro frutas que deberías evitar cenar si te levantas agotado por la mañana, según el cardiólogo Aurelio Rojas - La Razón](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdEU4MmdJdDRWbTJKU3dfdzBBSTFpbGQxMl9EQnNNZmVxbFN3aGUydExkZ3IxV3J5d2lTc0djNy1wcHdNZ0s2a2JpWTExT3pzQnVXWEQ4ZFdXd0ZKTXVVeUhJSFBiSVFYN2JORE1QdVZING5nWVg5VC1hNFNIOVFmWG0yWHhmNVctaGJTWm1yZldnMnRPZ2lhSEpLd1hYWDc3bHJuR2F6MF9ta1lJeGJybDdmV015ZDRnRHgyTWk4aUwya3ZVTmdwS3NMczdiSC1qUkZjTy1Ka0VlNGdVaVB1NWVacjRyX3NKdDdnUTNHTGhPTndIZmNickFn0gGOAkFVX3lxTFB1VGdCNTJ1THIzT005dWhwOUJvOXdhZDc1MU1uRVhxRVpMT0xpZXRjRC0zYW1TWWZJTE9zbEdHNmFUQmNGM3lnV01nUy1pb1dWU3VYRXQ1Y2FQcDBWQlRTZWZ5RHBHRDNMV2RUUGhkZXZ2RHpsQVp1cU44bFk4eGVGb2pMbzZRRVNEcW94UXhxdE9uMmhMcEtxQU92WlZvQl9mMElLOHhtZm5peDEwUERwTVBsd1JIajVyNk9FakhyQnFndnRXVzlNanE3dlNvd0RxdmtPNk5IdEJUb1oyX3hka3pxUjBLcklZZ3F6c0JpZzNGbVgyYmlZTGc5TlU5dURZdEU2cW9VdDlvbUl6Zw?oc=5)
+### [Bending forwards a lot at work in early pregnancy may increase miscarriage risk, study suggests - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejZvOHhVN1RSNWwwbTNaR3F2S1g4TFN3aldkeFJQQXRJWDZjUjFocHNXU3dTdFlwNjlHcm1OS3I3TGt3RmtrVVBDdmNFWGlhTldOcmotNktCTXlLNmJURjhrMGJsVWx3X2tSaF9TSTV6allaYW5tSGpHOGlOT0I5TVE5Mk9KSVFCbmx1cmRkckZGSWJPLU13VnJCSFFqdWw2bGctZXJoR1BJTW9xUTlQcA?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdEU4MmdJdDRWbTJKU3dfdzBBSTFpbGQxMl9EQnNNZmVxbFN3aGUydExkZ3IxV3J5d2lTc0djNy1wcHdNZ0s2a2JpWTExT3pzQnVXWEQ4ZFdXd0ZKTXVVeUhJSFBiSVFYN2JORE1QdVZING5nWVg5VC1hNFNIOVFmWG0yWHhmNVctaGJTWm1yZldnMnRPZ2lhSEpLd1hYWDc3bHJuR2F6MF9ta1lJeGJybDdmV015ZDRnRHgyTWk4aUwya3ZVTmdwS3NMczdiSC1qUkZjTy1Ka0VlNGdVaVB1NWVacjRyX3NKdDdnUTNHTGhPTndIZmNickFn0gGOAkFVX3lxTFB1VGdCNTJ1THIzT005dWhwOUJvOXdhZDc1MU1uRVhxRVpMT0xpZXRjRC0zYW1TWWZJTE9zbEdHNmFUQmNGM3lnV01nUy1pb1dWU3VYRXQ1Y2FQcDBWQlRTZWZ5RHBHRDNMV2RUUGhkZXZ2RHpsQVp1cU44bFk4eGVGb2pMbzZRRVNEcW94UXhxdE9uMmhMcEtxQU92WlZvQl9mMElLOHhtZm5peDEwUERwTVBsd1JIajVyNk9FakhyQnFndnRXVzlNanE3dlNvd0RxdmtPNk5IdEJUb1oyX3hka3pxUjBLcklZZ3F6c0JpZzNGbVgyYmlZTGc5TlU5dURZdEU2cW9VdDlvbUl6Zw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejZvOHhVN1RSNWwwbTNaR3F2S1g4TFN3aldkeFJQQXRJWDZjUjFocHNXU3dTdFlwNjlHcm1OS3I3TGt3RmtrVVBDdmNFWGlhTldOcmotNktCTXlLNmJURjhrMGJsVWx3X2tSaF9TSTV6allaYW5tSGpHOGlOT0I5TVE5Mk9KSVFCbmx1cmRkckZGSWJPLU13VnJCSFFqdWw2bGctZXJoR1BJTW9xUTlQcA?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/loxapine/
 
 ---
 
-### ['I thought I going to die' says Rhyl mum who developed sepsis days after giving birth - North Wales Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNV8wdjhfVnNFbTBVVFNOdVJhN3dQVWlwaUowNENsWGlwSzZjOFU0TGI2c0ZlQTA4R3NRT1p0cG1tTE9WQjJMMFJCYVpDeHZxYXZwUlhod2tyWGtpdXVnazZpelVUX3ZhZkQyMTdfdWxXYXdSOUsyNDM1bTFjYjNfY3hRRVJmb1NhWEtN?oc=5)
+### [HPV vaccine: Your questions answered as cervical cancer deaths fall to zero in women under 24](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">AF</span>
+2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNV8wdjhfVnNFbTBVVFNOdVJhN3dQVWlwaUowNENsWGlwSzZjOFU0TGI2c0ZlQTA4R3NRT1p0cG1tTE9WQjJMMFJCYVpDeHZxYXZwUlhod2tyWGtpdXVnazZpelVUX3ZhZkQyMTdfdWxXYXdSOUsyNDM1bTFjYjNfY3hRRVJmb1NhWEtN?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZUJLVjd2WmRNRHR3a2tSdEN2Z1FEZU9JTHRBUEtjbTY3S2tUNTFvNnE3My1aZ3pBLXBoTlBVc29BMllfS0FseHhBZmxKUkNwV21jaFVhQQ?oc=5)
 
 ---
 
@@ -126,11 +118,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Un primer paso hacia el retraso del envejecimiento lleno de reticencias científicas - Cadena SER](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUhOYk5WZnFTY0pNMkVUaHoxU01DMHF1M0tvenotSkVlZWRFemFPZWNub2dIbEg0SUc3QlZhTjdzUm1DeVR6dDRram5BcC1zUGoyQU1NV29JdlRnclhjak9Hc09EWDEtaEhnUFJwaW9zV0NMOS0xOC1Xc0xJR0g3eVBsTXJqazJ6SU9EZk55RkVoWkhVS01YOWxIX0tvUHlLSlVITXlqZ0JhczhaakhUQkVBUjRQOG1IYnI1S1BZSTU2ekNhLXdmQVBhZHU5WERfcnhr0gHnAUFVX3lxTFBaVnl5aC0tdjZ1cDlpYUY2OVdBVXctMU9TUUp0QlB5M0lNOHAyakc0VGRlcGU2b1JMbTB3b04yT2Nhd0F2TlBBMmZ0TXA2MnlscnJ3MEZuNDNaLWN1SHJoaXNPWGpidEtldG5qbTl2a205WFN0OWJHdnpCTFh6RnRTMFpnN0xFb09hazVvNXNjWTNkMXFjR1dCN2dzelpjTjZqcWdpZ0ZEVm9kNzRpVmx2eUhwdENTWGVnbi1xMThWTHRyMmFfUzFyNE1qemU0VGJPWFBZS21JaUg0d1BFRTNURE51SUF6OA?oc=5)
+### [Demenz-Bluttest: Diagnose in 17 Minuten mit Biomarker-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFVfeGtVd05yUEtKT3RqbnBRc0VGcTlqblNhYkVpckxIdEM0d2hWUXkyTU5jZHlTd2o4bHlYWS1hWGx0Yk9HdnpyeHdYaUlQblBFb1d0eHBIVU81eVRkdnprV3R2SHFqWjB0b29NUXVZbGZoeDJTa1pMWU9zN2kyWEIyNi1zY1ljaHVaWVNYY1JyNV9JVEozaFZzOHU2cmJoeDBENV84MzMySGd3Mmc?oc=5)
 
 2026-06-18 <span class="news-indication-tag">AF</span>
 
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUhOYk5WZnFTY0pNMkVUaHoxU01DMHF1M0tvenotSkVlZWRFemFPZWNub2dIbEg0SUc3QlZhTjdzUm1DeVR6dDRram5BcC1zUGoyQU1NV29JdlRnclhjak9Hc09EWDEtaEhnUFJwaW9zV0NMOS0xOC1Xc0xJR0g3eVBsTXJqazJ6SU9EZk55RkVoWkhVS01YOWxIX0tvUHlLSlVITXlqZ0JhczhaakhUQkVBUjRQOG1IYnI1S1BZSTU2ekNhLXdmQVBhZHU5WERfcnhr0gHnAUFVX3lxTFBaVnl5aC0tdjZ1cDlpYUY2OVdBVXctMU9TUUp0QlB5M0lNOHAyakc0VGRlcGU2b1JMbTB3b04yT2Nhd0F2TlBBMmZ0TXA2MnlscnJ3MEZuNDNaLWN1SHJoaXNPWGpidEtldG5qbTl2a205WFN0OWJHdnpCTFh6RnRTMFpnN0xFb09hazVvNXNjWTNkMXFjR1dCN2dzelpjTjZqcWdpZ0ZEVm9kNzRpVmx2eUhwdENTWGVnbi1xMThWTHRyMmFfUzFyNE1qemU0VGJPWFBZS21JaUg0d1BFRTNURE51SUF6OA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFVfeGtVd05yUEtKT3RqbnBRc0VGcTlqblNhYkVpckxIdEM0d2hWUXkyTU5jZHlTd2o4bHlYWS1hWGx0Yk9HdnpyeHdYaUlQblBFb1d0eHBIVU81eVRkdnprV3R2SHFqWjB0b29NUXVZbGZoeDJTa1pMWU9zN2kyWEIyNi1zY1ljaHVaWVNYY1JyNV9JVEozaFZzOHU2cmJoeDBENV84MzMySGd3Mmc?oc=5)
 
 ---
 
@@ -150,19 +142,19 @@ permalink: /news/loxapine/
 
 ---
 
-### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
-
----
-
 ### [Sanidad notifica un brote de hepatitis A que afecta a seis personas en Gran Canaria - Gobierno de Canarias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTdkQVU5UGU2MTlvSDFERDJkY0VNS0N2czloNzR6dVB1cjBqZmFoR3VrUlRJb1dTLWtVb2tMeE1xUlREU1o3cS12SFdiSElJaFd3eWg4Tlc1bzFtMEJxdTM4Q0lHei1TZ2d4XzBlcVRtUXVHVHloVVdiZGxVbE1zY1V3Q1oxc0RWcTVKWm9fQUlQYnJnMTFoSGVJRWpraWhxdmVwUHZLYkswdmpyelc5TEVpamJYSWpmZTdIVmJTNTU4ZWRQTW5feA?oc=5)
 
 2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Gobierno de Canarias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTdkQVU5UGU2MTlvSDFERDJkY0VNS0N2czloNzR6dVB1cjBqZmFoR3VrUlRJb1dTLWtVb2tMeE1xUlREU1o3cS12SFdiSElJaFd3eWg4Tlc1bzFtMEJxdTM4Q0lHei1TZ2d4XzBlcVRtUXVHVHloVVdiZGxVbE1zY1V3Q1oxc0RWcTVKWm9fQUlQYnJnMTFoSGVJRWpraWhxdmVwUHZLYkswdmpyelc5TEVpamJYSWpmZTdIVmJTNTU4ZWRQTW5feA?oc=5)
+
+---
+
+### [Clean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study - The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0J1d25hS212R1M3YmJCY2NVTXZaclN4Y09fcVlOaEFXMnNhUFIySnJjdlpRYTVpZmRmbTRlcHJoaTRaY2EzclFPLV9ERVR4NDZNVUkzWkdJMzdUa1drT1B6c29DZE5OelB0ZTR1RmZoMWlEWko4VlM1dEE2MGUtdnFweGloZVRkS25abERiRHN2Rm5VdDFvd2tvNlF0UXlBcUxJSDgxRVd6RmhoeG1vdXV1aFJta0tMdnB1UHRHZ0VlTVI1WUNLNg?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0J1d25hS212R1M3YmJCY2NVTXZaclN4Y09fcVlOaEFXMnNhUFIySnJjdlpRYTVpZmRmbTRlcHJoaTRaY2EzclFPLV9ERVR4NDZNVUkzWkdJMzdUa1drT1B6c29DZE5OelB0ZTR1RmZoMWlEWko4VlM1dEE2MGUtdnFweGloZVRkS25abERiRHN2Rm5VdDFvd2tvNlF0UXlBcUxJSDgxRVd6RmhoeG1vdXV1aFJta0tMdnB1UHRHZ0VlTVI1WUNLNg?oc=5)
 
 ---
 
@@ -206,14 +198,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [Children vaccinated for HPV have close to zero risk of dying from cervical cancer before age 30, study suggests - Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
-
-2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2M0bjJxWXpTU0hpaGx0M2JQN3VNcldTNGNrM0dnclpSaWlmLXVGQ3lmeGpRSFVwUS01YzB4RU1TOS1FUUs1WXRXbk9Zb081MDVrOWdlTWNaQWNScV9lUzBqamNwZzNXdXZvNVcxNzRNWVZuUXVlcl9oSjlSdjF5X0k1Tk1aRWducVNrTDF2Y2I5SXkzanpBR1ZtRlRHTTE4TWVxTGhlYThMMm5pbFozM1NaaV9Rd0VWU1ZpT3FWQlktRXhVMVBPNVJNY1ZaMFpJZGdXMDlBUk81Y2tNZGdR?oc=5)
-
----
-
 ### [Ein körpereigenes Protein als Bauplan: Essener Forschende entwickeln Schutzpeptid - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9PUFJvNTh2UFFSbXQ2SmpNYmJrNmdoMUV1dHVKMUlrdGFablpSVzhvMFZGd2lKVUdzeklSc3FwM0R3eU0?oc=5)
 
 2026-06-18 <span class="news-indication-tag">AF</span>
@@ -246,19 +230,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [FGF21 hilft Zellen, Proteinfaltungsstress zu bewältigen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXpGYUNVX1REdjRKT1VXc2txUGFnNHN5VFBVRVpJWkZ2dUl5aC1YZ2w4bmp3SW5QS2hfb3NObDE1MGRVZVh4N2pYemQ2emp4LUtzWlo0Qnl2RzRBTWt0TmFLZGRxUWNoeW1RbktDMU04OHlfcnowSlMtdVJjMWp4MmFUTmlkYmhMY283VVVqWk1SRnM5Z2VrTVBmYkZFaHhSa3c?oc=5)
+### [Bird flu kills more than 75% of baby seals on remote Australian island, study finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OekdESG9HUVdka0RzT2tRbE1xbFVnbXBYbTItMzZDUUZJSXNDQTlvZUZjUlZZcDY5dkRZRHdkdFh2N2RETjVHV05FTUx6ZkluVWJObmRBX0JoZzhq?oc=5)
 
 2026-06-18 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXpGYUNVX1REdjRKT1VXc2txUGFnNHN5VFBVRVpJWkZ2dUl5aC1YZ2w4bmp3SW5QS2hfb3NObDE1MGRVZVh4N2pYemQ2emp4LUtzWlo0Qnl2RzRBTWt0TmFLZGRxUWNoeW1RbktDMU04OHlfcnowSlMtdVJjMWp4MmFUTmlkYmhMY283VVVqWk1SRnM5Z2VrTVBmYkZFaHhSa3c?oc=5)
-
----
-
-### [Ozempic, la nueva esperanza para la natalidad: aumenta los niveles de testosterona y mejora la calidad del esperma - El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTUZVNmE0VXplQ3dsZ1Ffc0FiT0QtOWVRVUF3dTU3dGhoakg0eW5VbFhfTnExT3plUzJabG1KRFV1UWdXV09xdHloSnFsdk5lQnNFQ05VTW9wMHhTNXRxNHhMLVhlWTNtclNZcU1Qc0dvTEJxLXpvNW5JbGR0YTcwcGxaQmdyMlNEVG9WbTluVk1aT0pEUlZRUVIydE9LaDNqN0dsYk5wSUJxcDZfZUpTb0dpTnJSMGo3TkF6UTRwZG5BMDl5RGo5WHJyekdBdzZrQ0RCakFBaktLcUV6UGIyMmVBLTFiS21fVnQ1eS1FTE8yMjc3dXgwdGFVMmFlZTB1M0HSAYcCQVVfeXFMTnY3YUY1cTluRXVJY2hmUlZiWnpBRHppNGtqVmpVZG8xZWxGR1h0RnhMT0dmSF9GbWJPd0d2M3VQNHJqWV9qYVgzeTNINEFTeG5GdEQxU3lqM3RKd3o2a2pZbFh6WVkyeFp2SHQ2LVcwN3NzSHdzbkZmMG1xYzZ4OFVWMzQzWXh3a2M4dlJRN3ZZbG1iV1dvRGRaa0xpSXoyUElqcE5QRGNKN2Y4VC0tVW1XbU02VmFvbGVwMnlLcDU5SGdMOGY1RnpHcGJtcUxXaWNsMk53WlNsU25tRGlaOUtZWkkxUnZtME1FRTVscjNzMXRYQ0o0NlRjdGVLQlVvckZWc1lndms?oc=5)
-
-2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxPTUZVNmE0VXplQ3dsZ1Ffc0FiT0QtOWVRVUF3dTU3dGhoakg0eW5VbFhfTnExT3plUzJabG1KRFV1UWdXV09xdHloSnFsdk5lQnNFQ05VTW9wMHhTNXRxNHhMLVhlWTNtclNZcU1Qc0dvTEJxLXpvNW5JbGR0YTcwcGxaQmdyMlNEVG9WbTluVk1aT0pEUlZRUVIydE9LaDNqN0dsYk5wSUJxcDZfZUpTb0dpTnJSMGo3TkF6UTRwZG5BMDl5RGo5WHJyekdBdzZrQ0RCakFBaktLcUV6UGIyMmVBLTFiS21fVnQ1eS1FTE8yMjc3dXgwdGFVMmFlZTB1M0HSAYcCQVVfeXFMTnY3YUY1cTluRXVJY2hmUlZiWnpBRHppNGtqVmpVZG8xZWxGR1h0RnhMT0dmSF9GbWJPd0d2M3VQNHJqWV9qYVgzeTNINEFTeG5GdEQxU3lqM3RKd3o2a2pZbFh6WVkyeFp2SHQ2LVcwN3NzSHdzbkZmMG1xYzZ4OFVWMzQzWXh3a2M4dlJRN3ZZbG1iV1dvRGRaa0xpSXoyUElqcE5QRGNKN2Y4VC0tVW1XbU02VmFvbGVwMnlLcDU5SGdMOGY1RnpHcGJtcUxXaWNsMk53WlNsU25tRGlaOUtZWkkxUnZtME1FRTVscjNzMXRYQ0o0NlRjdGVLQlVvckZWc1lndms?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OekdESG9HUVdka0RzT2tRbE1xbFVnbXBYbTItMzZDUUZJSXNDQTlvZUZjUlZZcDY5dkRZRHdkdFh2N2RETjVHV05FTUx6ZkluVWJObmRBX0JoZzhq?oc=5)
 
 ---
 
@@ -350,27 +326,11 @@ permalink: /news/loxapine/
 
 ---
 
-### ["Suo figlio è un cafone". Cosa succede se (anche) i docenti romani non sanno cos'è l'Adhd](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEptSS1fZVdaMkJ4OTQ0QkctUGJac0NWN042LUViNjA1R19FWGtlTjZTamtxNDV1WGNxWXFjRUdHVW1PejkyenRIUEduX1QtWDRqeDlheWtxME5aVjhkNzU5TXRWTUFrQ191VmVXOHdXVlp3NFF2c1RKSjFMYVNIaGVONWlnb1N5ckZPbkt4TVU?oc=5)
+### [El Congreso sobre Incontinencia en Granada pone el foco en la calidad de vida y la voz del paciente - El Independiente de Granada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYm5tbF9pNDcza1YycEx5REZwTldGRWNtdUJvMW1Xc0VaVzF1ZnhIRmhVZGQwQzVTQXg5dGtRWkU5UUdOVU9ya0d5ZDlidTlTWkZkeHpCRmNDUmZEeV9zVWdQNjd6bXAzTGRXb1JOZThrenZXcGE1WVJxVWRLTWV3Ui0wT3VXT2d1U1lic1dWeW5Rd0ZXb0Fza194cWp2NUtuVDQ0UG9wUUJKb0NtbEMtX05rdkJCcElQY3k2RA?oc=5)
 
-2026-06-16 <span class="news-indication-tag">AF</span>
+2026-06-17 <span class="news-indication-tag">AF</span>
 
-來源：[RomaToday](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEptSS1fZVdaMkJ4OTQ0QkctUGJac0NWN042LUViNjA1R19FWGtlTjZTamtxNDV1WGNxWXFjRUdHVW1PejkyenRIUEduX1QtWDRqeDlheWtxME5aVjhkNzU5TXRWTUFrQ191VmVXOHdXVlp3NFF2c1RKSjFMYVNIaGVONWlnb1N5ckZPbkt4TVU?oc=5)
-
----
-
-### [Gicht-Prävention: Vitamin C und Schlaf senken Risiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzB2OFFvX0VxYk1LTGxxTnVMNUtyYXlndGJnaDBLanhNa1VZaGdOVDBhV2hHMDRTSElOeW1sNDNfemFoQVVVZ3g4RkxTbWM0TlFkMldTRWVUb3lUMWl3ZnhJaEJaUEg0MlMzVUVsc0p3Y3lHbGxwZW5vdlR0WS1ZQTJGbXp0Q01HMF85bzJQR2YwZzByczg2N2pWN005blZGVlFPY0NWT0FWNjFEX3pF?oc=5)
-
-2026-06-16 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzB2OFFvX0VxYk1LTGxxTnVMNUtyYXlndGJnaDBLanhNa1VZaGdOVDBhV2hHMDRTSElOeW1sNDNfemFoQVVVZ3g4RkxTbWM0TlFkMldTRWVUb3lUMWl3ZnhJaEJaUEg0MlMzVUVsc0p3Y3lHbGxwZW5vdlR0WS1ZQTJGbXp0Q01HMF85bzJQR2YwZzByczg2N2pWN005blZGVlFPY0NWT0FWNjFEX3pF?oc=5)
-
----
-
-### [The Best Time to Take Vitamin D for Maximum Absorption, According to Health Experts](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hSTk42eWJOU3VwMnVXZXUzZlRoM3NzZUdsR3NQSXpuaW55UWpyNkN0eDhkWDB5SHlueWo0UVdJdVpXVC1rV0tBT1dmOXVmaGhHcnVHSXZaZHM3WUpudHhnaXNjTnZDT2Q0R0p3MWpvYnh2LU9FLVMtbm9SamcxTDRzclJ3SFN0elMxSld0OA?oc=5)
-
-2026-06-16 <span class="news-indication-tag">MS</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2hSTk42eWJOU3VwMnVXZXUzZlRoM3NzZUdsR3NQSXpuaW55UWpyNkN0eDhkWDB5SHlueWo0UVdJdVpXVC1rV0tBT1dmOXVmaGhHcnVHSXZaZHM3WUpudHhnaXNjTnZDT2Q0R0p3MWpvYnh2LU9FLVMtbm9SamcxTDRzclJ3SFN0elMxSld0OA?oc=5)
+來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYm5tbF9pNDcza1YycEx5REZwTldGRWNtdUJvMW1Xc0VaVzF1ZnhIRmhVZGQwQzVTQXg5dGtRWkU5UUdOVU9ya0d5ZDlidTlTWkZkeHpCRmNDUmZEeV9zVWdQNjd6bXAzTGRXb1JOZThrenZXcGE1WVJxVWRLTWV3Ui0wT3VXT2d1U1lic1dWeW5Rd0ZXb0Fza194cWp2NUtuVDQ0UG9wUUJKb0NtbEMtX05rdkJCcElQY3k2RA?oc=5)
 
 ---
 

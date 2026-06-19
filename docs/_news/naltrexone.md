@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Novedad en la 'familia Ozempic': "Puede ser un psicofármaco interesante" - Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYjAxVWZLd3lXZWRncmd4TnZYMTAwOU5OaDNpYlpqbC1mQTB4U2ZmUnhJUGNZNnMwbWxhM3podEVTY2cwMVc2eFVvMHk0clVtQkQ5OUlmQlZva2FXZ3ZCRlUwQjJaVEJSLW4tSm5tbDBQSEpIQzNmRkF4bWtJZ2FIUV9MVmVZVldsNzBSOWZBWVpBYjNlZ1JNeXMtQW95dVFtOHZmQnhoM1BGVmRsckZ3ay1zM2p0VkcwRHEtSzdLYUJoNC13UWfSAcYBQVVfeXFMTmR5aGdwbzRkT21PS1cyNWoyMGpXQUY4bHJuTE0zUTNGVl9HQksxWUpWclBELTNLd1hNMmxIMk51VG5Gazl4S0ZKMUtXQ2VFU3BKZlo3VmgzaUl4MUNiUVpEYWw2S3ZMTTRqT0QxYlV1MWtsRmpSNTEyZ3YwMlpodzVEVkFQWVlQSW4xMEhkZFl0RGtCSU9aX1JyN2FMaG5qemNMTkJWMDZxN0FwUHlwZ0FXSmJwRUFxcmtLRnVZQnNTUzVvUjRB?oc=5)
 
 2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYjAxVWZLd3lXZWRncmd4TnZYMTAwOU5OaDNpYlpqbC1mQTB4U2ZmUnhJUGNZNnMwbWxhM3podEVTY2cwMVc2eFVvMHk0clVtQkQ5OUlmQlZva2FXZ3ZCRlUwQjJaVEJSLW4tSm5tbDBQSEpIQzNmRkF4bWtJZ2FIUV9MVmVZVldsNzBSOWZBWVpBYjNlZ1JNeXMtQW95dVFtOHZmQnhoM1BGVmRsckZ3ay1zM2p0VkcwRHEtSzdLYUJoNC13UWfSAcYBQVVfeXFMTmR5aGdwbzRkT21PS1cyNWoyMGpXQUY4bHJuTE0zUTNGVl9HQksxWUpWclBELTNLd1hNMmxIMk51VG5Gazl4S0ZKMUtXQ2VFU3BKZlo3VmgzaUl4MUNiUVpEYWw2S3ZMTTRqT0QxYlV1MWtsRmpSNTEyZ3YwMlpodzVEVkFQWVlQSW4xMEhkZFl0RGtCSU9aX1JyN2FMaG5qemNMTkJWMDZxN0FwUHlwZ0FXSmJwRUFxcmtLRnVZQnNTUzVvUjRB?oc=5)
-
----
-
-### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
 ---
 
@@ -78,19 +70,19 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Ana Sánchez, endocrinóloga: «Es falso que el hígado graso sea un problema exclusivamente relacionado con el alcohol» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiggJBVV95cUxOT0RTUEpqd2xpVFJDTEVDU0xMaU0xcG1CbG1KUVEwYTRaVmh5Q2ljdzhtWV9WSkNCV1IwUEZ3aEQ5OFo5akJQZDRNWElsTnlaNEpsZFJ2Y2hPRWpiNGh5d081QzNuR3ZId0ZMaXV4am13V294NUhIVlJZWExIcTBiQkwxYS1fV1NxSnNUYnhGNVkzXzRxeVVvUUxwSVExM0dGMk50cnVlYTlORzJIN0hjWWhrMHZfbVpQZFZheHVRdExCUmZXaHM2VmZzVmRlc2pSV3h5MHpUZHB2N0VMbFNXWXE0THlwWmtrU3BicWtmdXJncmFEdW9SUE5qeHlwNEJHQVE?oc=5)
-
-2026-06-18 <span class="news-indication-tag">obesidad</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMiggJBVV95cUxOT0RTUEpqd2xpVFJDTEVDU0xMaU0xcG1CbG1KUVEwYTRaVmh5Q2ljdzhtWV9WSkNCV1IwUEZ3aEQ5OFo5akJQZDRNWElsTnlaNEpsZFJ2Y2hPRWpiNGh5d081QzNuR3ZId0ZMaXV4am13V294NUhIVlJZWExIcTBiQkwxYS1fV1NxSnNUYnhGNVkzXzRxeVVvUUxwSVExM0dGMk50cnVlYTlORzJIN0hjWWhrMHZfbVpQZFZheHVRdExCUmZXaHM2VmZzVmRlc2pSV3h5MHpUZHB2N0VMbFNXWXE0THlwWmtrU3BicWtmdXJncmFEdW9SUE5qeHlwNEJHQVE?oc=5)
-
----
-
 ### [Pastillas para adelgazar: el nuevo fármaco de Wegovy que preocupa a los médicos - El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWc?oc=5)
 
 2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDhCbHFoS0Y0TElSMzBoVEhGcEJjQldCSWY4UWo4RlpRMW5wczZXNVFudG1ZZ1RqcVB0UExfWUdtWHlzTFZ2aGZudjFDYnhucWR1N3J4Z1hpMUNqVVUxQUF2RTV2S0NiNjhWVENKRlJSTkxHMkVXZ1NDN21TanZZSWIxTi1qaHVqSlJtV2FYakU2MjQtZm12ZE53Q09PeVp6dDRoajFVZVc3T2FudFI5bG9pRkxweVR3ZFRmeTdmVVVhZ3B1MWc?oc=5)
+
+---
+
+### [Why weight-loss drugs don’t work for some people - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
+
+2026-06-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5)
 
 ---
 
