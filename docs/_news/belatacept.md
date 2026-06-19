@@ -14,7 +14,7 @@ permalink: /news/belatacept/
 ---
 
 <p class="key-answer" data-question="Belatacept 有什麼相關新聞？">
-<strong>Belatacept</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Belatacept</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/belatacept/
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（37 則）
+## 相關新聞（33 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
 2026-06-19 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
+
+---
+
+### [Bloqueo de una proteína permite activar el sistema inmunitario frente al cáncer de páncreas - La Web de la Salud](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajV1NFBTWVBCSU50ajNrWUdjb1VWQ0txVzloWTZNZm5UYi1WR3ltcGg3X1V5QXZaZV83VTBERktiZlJWcFFhc01OTEg3Um9iS0tmaU9WdjQ1ZUs3TlItY2xPc0NqWDloTmJBTWx2VHpFWFlQSzJzM3VJVVhnZDB2N2VCVWJQdTZlNUtIYzFQU1VUTlVtT3VyUmFkUHpmRTU3cTFXd1NkVFIxZi1fSjMzUXhWLVZiRjM5MlAw?oc=5)
+
+2026-06-19 <span class="news-indication-tag">tumor</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajV1NFBTWVBCSU50ajNrWUdjb1VWQ0txVzloWTZNZm5UYi1WR3ltcGg3X1V5QXZaZV83VTBERktiZlJWcFFhc01OTEg3Um9iS0tmaU9WdjQ1ZUs3TlItY2xPc0NqWDloTmJBTWx2VHpFWFlQSzJzM3VJVVhnZDB2N2VCVWJQdTZlNUtIYzFQU1VUTlVtT3VyUmFkUHpmRTU3cTFXd1NkVFIxZi1fSjMzUXhWLVZiRjM5MlAw?oc=5)
+
+---
+
+### [Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2p4Q2VaRU1MbU9WUFhwTnU1T09ncmpza0RuOEtBY0Uyc3ZHVno5dVktejZNN1lqQ2JIS2I3M1JhSGJCd0hFZFdvcUNxb0I1QWlVc2c0TGV3OUtrNnVCMHozQmtTejcwWS11Z0lhaTBmNmIzSmhXeDBtVVRETVBnZU9ISW1uZFl6eUxJNmpqYS14QXdncmpWUW0wOTEtOTNKNmNnZ3l2c1NEVTZ5TmZKb25VX3hWTFIwX3RLbi1yWFFzV1lRZVg4WkJYeHQxUlFuQWxialJlN0FWZw?oc=5)
+
+2026-06-19 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2p4Q2VaRU1MbU9WUFhwTnU1T09ncmpza0RuOEtBY0Uyc3ZHVno5dVktejZNN1lqQ2JIS2I3M1JhSGJCd0hFZFdvcUNxb0I1QWlVc2c0TGV3OUtrNnVCMHozQmtTejcwWS11Z0lhaTBmNmIzSmhXeDBtVVRETVBnZU9ISW1uZFl6eUxJNmpqYS14QXdncmpWUW0wOTEtOTNKNmNnZ3l2c1NEVTZ5TmZKb25VX3hWTFIwX3RLbi1yWFFzV1lRZVg4WkJYeHQxUlFuQWxialJlN0FWZw?oc=5)
+
+---
+
+### [HPV-Impfung reduziert Todesfälle durch Gebärmutterhalskrebs auf nahe Null - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTEdrRXNrVVZLLVByY3pMWDc1dkJVUGJpcFhkQ2hJY2dLZzFCV0RWRUtobm1KNGY5QVZpcUJhR0s0SFllMEhJc0drRmVzWW9mWGs3REllYXRwZzhZMHB1eklGby1XYWVkOG92eVl6ZkxGQXBsREpSV3U3UFFpblBjSVc2WWMxaFlxMld2LVgyNmh1TzFtdldVeEhVeVBOZTVtNnY4VjRZSUJuT1NHUnFrRkVNaXVnRGFvUlhDQmdNeVh4Q1NnQTJoTVpVdmY?oc=5)
+
+2026-06-19 <span class="news-indication-tag">Krebs</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTEdrRXNrVVZLLVByY3pMWDc1dkJVUGJpcFhkQ2hJY2dLZzFCV0RWRUtobm1KNGY5QVZpcUJhR0s0SFllMEhJc0drRmVzWW9mWGs3REllYXRwZzhZMHB1eklGby1XYWVkOG92eVl6ZkxGQXBsREpSV3U3UFFpblBjSVc2WWMxaFlxMld2LVgyNmh1TzFtdldVeEhVeVBOZTVtNnY4VjRZSUJuT1NHUnFrRkVNaXVnRGFvUlhDQmdNeVh4Q1NnQTJoTVpVdmY?oc=5)
+
+---
+
+### [Día Mundial del Cáncer de Riñón: síntomas y factores de riesgo](https://news.google.com/rss/articles/CBMikAFBVV95cUxOOElSTlJENl9kbnNacllENmx1MjdYd1JiWUptNlNwcVhIdExIQUM3VjZyMURkWE5fckxLM2NTa25TZzFHanlQOXRVUllWUElxdHdiYVFMNS0yRnZrMWZWSjBsZUJUaDFuZG5STm9yU3ltaURWcWdTWlR1QVJEcHhMUFNTc29idnFtaG12REtDbUM?oc=5)
+
+2026-06-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Infoveritas](https://news.google.com/rss/articles/CBMikAFBVV95cUxOOElSTlJENl9kbnNacllENmx1MjdYd1JiWUptNlNwcVhIdExIQUM3VjZyMURkWE5fckxLM2NTa25TZzFHanlQOXRVUllWUElxdHdiYVFMNS0yRnZrMWZWSjBsZUJUaDFuZG5STm9yU3ltaURWcWdTWlR1QVJEcHhMUFNTc29idnFtaG12REtDbUM?oc=5)
+
+---
+
+### [Therapieforschung: Lichtschalter im Erbgut macht Krebszellen gezielt verwundbar](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnNSNkZFYk9SX0FmdUlhMENCblRVcm5fcThrX1hMMlpGLU1HWnFFdFJBaTZGSFBpZzNVazJIOVVNZG8zd2RLeGRYSWRlT2E2cE56YThzSUhvSFAzUjlwVDNMd19hY0ZpRnFQM1daTl9CelJsclczNE9ZWG1RN3FKTTJ5NFNlbDlvT1VEWXhmTkdRYkNO?oc=5)
+
+2026-06-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnNSNkZFYk9SX0FmdUlhMENCblRVcm5fcThrX1hMMlpGLU1HWnFFdFJBaTZGSFBpZzNVazJIOVVNZG8zd2RLeGRYSWRlT2E2cE56YThzSUhvSFAzUjlwVDNMd19hY0ZpRnFQM1daTl9CelJsclczNE9ZWG1RN3FKTTJ5NFNlbDlvT1VEWXhmTkdRYkNO?oc=5)
 
 ---
 
@@ -86,27 +126,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [HPV-Impfung: England senkt Gebärmutterhalskrebs-Risiko für junge Frauen auf null](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
-
-2026-06-18 <span class="news-indication-tag">Krebs</span>
-
-來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWlIcmx1eDJjc0Nmc2VLNU9oTUd0Q1hfS2VmWE9lV09wVk9DMjNWOEsyTG95VllmXzZ0dG8ybXFvWk9tR2xZanFJT0xwWFZIU0lRRjVFeWM5Um1SdU0tWml5S3dBUGx5WldDNUlCY1VudV85YkVpZ0pUNkhNN2JGU3ctUXhtem9xdUNGMHhoaWZ4UldBNWFqZk1pa01xcURsWS10dDlMR2lLOE1UcXkzMkxBd1NXQ3N6M3ZLMUJB?oc=5)
-
----
-
 ### [Nurse struck off for saying Covid jab 'caused cancer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DbHNjSWFySlJ4M1BaWXlTeVNpRXdzSEEzbFE0aEZuY3RVaWdJNVRHd0lmX2hVMW13RlBBX1A2NjZERU5LeU9NN21zN3RaN21PX3p3aVV5Z1h4blgt?oc=5)
 
 2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DbHNjSWFySlJ4M1BaWXlTeVNpRXdzSEEzbFE0aEZuY3RVaWdJNVRHd0lmX2hVMW13RlBBX1A2NjZERU5LeU9NN21zN3RaN21PX3p3aVV5Z1h4blgt?oc=5)
-
----
-
-### [Alzheimer: Seneszente Zellen verdreifachen Risiko bei APOE4-Trägern - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2JucmZhQ3RIYTUtWTk3X0ZhdnlxUGJXQUFDc1NsVy1MbDZJNkVpRlJkeUxfTGtteHFLeTFZMERJUnY1Z2dxdEplNVA1OFc3SlkwSlRLOXFkbDIzZlgzOExxdTFXeUFzT2ZKQTdhQUN6OW9lLW1CZzU5VGVsZU1IeVRLVW96QmJZdUJPX3cwbFRzVE1ycVFTVGRNeVF0Tk5QZEpkOUhkNG5KMkpFcVhranFpOHhMQ2c?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2JucmZhQ3RIYTUtWTk3X0ZhdnlxUGJXQUFDc1NsVy1MbDZJNkVpRlJkeUxfTGtteHFLeTFZMERJUnY1Z2dxdEplNVA1OFc3SlkwSlRLOXFkbDIzZlgzOExxdTFXeUFzT2ZKQTdhQUN6OW9lLW1CZzU5VGVsZU1IeVRLVW96QmJZdUJPX3cwbFRzVE1ycVFTVGRNeVF0Tk5QZEpkOUhkNG5KMkpFcVhranFpOHhMQ2c?oc=5)
 
 ---
 
@@ -126,27 +150,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [Noticias de Israel y del mundo judío en español - Aurora Israel](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWtGOVBYbHNsT1N0dWJWa1JncDRxbi1FQ3gtbTFmYW5scVU2dE1OX1Nqb3VoakNtTWktc3BkR0NXRGFLbXZndWJtRHdGSG5tRlM5YW9saDIxSmJRWVFoQWh2Q3hXaVVRR1lteEZVSGItRGpHRnNzX281dXl2UWpmVkl3TDhyVEpsQkRYN05vVXp5UkU0T1gxNXhuQi1MZEE2X0VBc09ZNHJBSEFBeTdNdDYzRFNBM2luQ1dzSGlHcXR4OE16WWJ4TXBOdTVxd2JEM01YMXIwcw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Aurora Israel](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWtGOVBYbHNsT1N0dWJWa1JncDRxbi1FQ3gtbTFmYW5scVU2dE1OX1Nqb3VoakNtTWktc3BkR0NXRGFLbXZndWJtRHdGSG5tRlM5YW9saDIxSmJRWVFoQWh2Q3hXaVVRR1lteEZVSGItRGpHRnNzX281dXl2UWpmVkl3TDhyVEpsQkRYN05vVXp5UkU0T1gxNXhuQi1MZEE2X0VBc09ZNHJBSEFBeTdNdDYzRFNBM2luQ1dzSGlHcXR4OE16WWJ4TXBOdTVxd2JEM01YMXIwcw?oc=5)
-
----
-
-### [MSD impulsa la excelencia científica en Oncología con HorizON - Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
+### [«L’industrie agroalimentaire fait perdurer l’usage des aliments ultra-transformés sans jamais questionner le risque», estime David Garbous, président du collectif En Vérité - L'Usine Nouvelle](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOcU9VNkdzY1I1NEY3WWhjemI3aHdhZlhqRnEtU0Z2cXA4NDNEcXZxRTdlSkpTUnl0S0tWeDNQZ19MTi1FUGNYbS1QSUJtODJUTDNUeDg4b0ttMTBmTUp0TkV6c1E1MXAxbUl6dGREOUdkS3F2bWtOYWxCYnJDM29YVDlqQS1obVBERmtpSm1OWHk3NllzLWExSlZaYWRGbWxWMW1Gc2tQck1EeTkzdUZwRGFiUTBhc2xiR1lNdkxXbnAxQk9FeTFTZTdOWUFVSDVzVzVmazBKWnVfeXJWSm95aG5BcTl5V1hCQ1p2ZDBqU0Zud0tJMF9TakFDX0tlSVowdE8zbExVWTJXT1pVLTM5dmJKd1dPTkRtQVpvT1ZRM1p0eHZ3aWF5blI4QlpYaHg2dG9iWEcxVHJvdGtPbG55UXZqZktnbG1HRjFLbngyVWdLVm8?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
-
----
-
-### [Localizan una proteína responsable de la resistencia del cáncer de páncreas para atacar al tumor desde 'dentro y fuera'](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc01zV24zanlfeHltYko3TXhrVFdJWXNySXVEVkVYOXJIamxxbHBuYnBSd09wZzlDbjQxUmZIeHMzNjFJUXR2MGx1c1BwSThBZWRKV2lKYzFHaEZmOVp2NFA3cVNxSV9adVFFT2FUbFBBY3VENkFGTjhUU3p1RFZUN0NPWHdwb0dNUThkeEd6aVlPTmNTbXV3cXd6UXUzMm9hR0QzSXAzRUQ0WF9OdDQ5QzU0OHJ4X3Item5xd2FXZnk5SmMtTXZmaFVjQktwaUljMlRKSzY1TWU?oc=5)
-
-2026-06-18 <span class="news-indication-tag">tumor</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc01zV24zanlfeHltYko3TXhrVFdJWXNySXVEVkVYOXJIamxxbHBuYnBSd09wZzlDbjQxUmZIeHMzNjFJUXR2MGx1c1BwSThBZWRKV2lKYzFHaEZmOVp2NFA3cVNxSV9adVFFT2FUbFBBY3VENkFGTjhUU3p1RFZUN0NPWHdwb0dNUThkeEd6aVlPTmNTbXV3cXd6UXUzMm9hR0QzSXAzRUQ0WF9OdDQ5QzU0OHJ4X3Item5xd2FXZnk5SmMtTXZmaFVjQktwaUljMlRKSzY1TWU?oc=5)
+來源：[L'Usine Nouvelle](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOcU9VNkdzY1I1NEY3WWhjemI3aHdhZlhqRnEtU0Z2cXA4NDNEcXZxRTdlSkpTUnl0S0tWeDNQZ19MTi1FUGNYbS1QSUJtODJUTDNUeDg4b0ttMTBmTUp0TkV6c1E1MXAxbUl6dGREOUdkS3F2bWtOYWxCYnJDM29YVDlqQS1obVBERmtpSm1OWHk3NllzLWExSlZaYWRGbWxWMW1Gc2tQck1EeTkzdUZwRGFiUTBhc2xiR1lNdkxXbnAxQk9FeTFTZTdOWUFVSDVzVzVmazBKWnVfeXJWSm95aG5BcTl5V1hCQ1p2ZDBqU0Zud0tJMF9TakFDX0tlSVowdE8zbExVWTJXT1pVLTM5dmJKd1dPTkRtQVpvT1ZRM1p0eHZ3aWF5blI4QlpYaHg2dG9iWEcxVHJvdGtPbG55UXZqZktnbG1HRjFLbngyVWdLVm8?oc=5)
 
 ---
 
@@ -174,14 +182,6 @@ permalink: /news/belatacept/
 
 ---
 
-### [“C’est la maison des rêves” : après une longue attente, Camille Lacourt et sa compagne Alice Detollenaere laissent éclater leur joie](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ2dER3l0NWw5U2JIUU9Oa29wYTBmME5MWnlOMWRvWmk1eVVrM2FtbDk5aHpwUlZZbTY4UGdpTmpKLUJoRWxYaDRCTzlYQWlELUJqcU9TM3F1MWtaZlAyYkVNZmVpV3RlczdmMXczYmI3Z2RBc1RYZTBaTGcwQ19nZ3RCOEhVUnQ4c3BlQzI5NHBtNmtPMzg1OWlOMnhjQW15aUhTQWdpYmg3YnBuaGpEaTF6OXU1NWYzNWJKWGw5amdXM1B6amNRS3BTUk15MnR3UktGU2hNb1p1TVk1SENYVTI3MndYTGVycy1xeUtGRHJwTFkwdEI5X01nTUZ3ZTkw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[purepeople.com](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ2dER3l0NWw5U2JIUU9Oa29wYTBmME5MWnlOMWRvWmk1eVVrM2FtbDk5aHpwUlZZbTY4UGdpTmpKLUJoRWxYaDRCTzlYQWlELUJqcU9TM3F1MWtaZlAyYkVNZmVpV3RlczdmMXczYmI3Z2RBc1RYZTBaTGcwQ19nZ3RCOEhVUnQ4c3BlQzI5NHBtNmtPMzg1OWlOMnhjQW15aUhTQWdpYmg3YnBuaGpEaTF6OXU1NWYzNWJKWGw5amdXM1B6amNRS3BTUk15MnR3UktGU2hNb1p1TVk1SENYVTI3MndYTGVycy1xeUtGRHJwTFkwdEI5X01nTUZ3ZTkw?oc=5)
-
----
-
 ### [Clean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study - The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0J1d25hS212R1M3YmJCY2NVTXZaclN4Y09fcVlOaEFXMnNhUFIySnJjdlpRYTVpZmRmbTRlcHJoaTRaY2EzclFPLV9ERVR4NDZNVUkzWkdJMzdUa1drT1B6c29DZE5OelB0ZTR1RmZoMWlEWko4VlM1dEE2MGUtdnFweGloZVRkS25abERiRHN2Rm5VdDFvd2tvNlF0UXlBcUxJSDgxRVd6RmhoeG1vdXV1aFJta0tMdnB1UHRHZ0VlTVI1WUNLNg?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
@@ -198,6 +198,22 @@ permalink: /news/belatacept/
 
 ---
 
+### [MSD impulsa la excelencia científica en Oncología con el encuentro HorizON](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWFuZ2QzWEp5Qkl3YVYzcmRmN1JtY2k1LVUxTndjc21HUU5ZT29HSVlLZnRaMGJmM1Nla0ZJLTIzUUdOeHk5WEwzbHpvM0t5aDJwdGNxR3dYNVhzU0Z3Q3dSNGdCZldwcFZQaE9MVUJEVkFkVWNEQ2xtRUNwVFVWcFFubzRXeFY5Z0F6RFJySjlTNDJYOC1GdW5ZRVJFclJFcFdQdXNQMXk1QXZ1T1ByWmt2OXlWR2hyZTBTZA?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWFuZ2QzWEp5Qkl3YVYzcmRmN1JtY2k1LVUxTndjc21HUU5ZT29HSVlLZnRaMGJmM1Nla0ZJLTIzUUdOeHk5WEwzbHpvM0t5aDJwdGNxR3dYNVhzU0Z3Q3dSNGdCZldwcFZQaE9MVUJEVkFkVWNEQ2xtRUNwVFVWcFFubzRXeFY5Z0F6RFJySjlTNDJYOC1GdW5ZRVJFclJFcFdQdXNQMXk1QXZ1T1ByWmt2OXlWR2hyZTBTZA?oc=5)
+
+---
+
+### [Ancient DNA provides evidence of earliest known plague outbreak | Archaeology - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
+
+---
+
 ### [Tumor renal papilar: la variante menos frecuente del cáncer de riñón que avanza hacia terapias dirigidas](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWQwYlltcGdlSlVPV1RZTkQ2aV9mc2F4VnlxZ29fdm5acWNnYkV4SmZsazItRzJYYUNNbEI1ZFI4dS1IUUVaSzFKRFBpOFVrLXc3SFZ0eEFmbklocHUxUUZfSjQ5a1VsMkxaNnFOTC1xTGxQY3JkQ19BaVpjaS1QMGIwWkxWUzEzVTBsaVA5OWZLcUlBcDlsWkc2UnI5X0Y1dmo4eERybkxsVGNUMUxRRnQ1bGJ1U3RDVEZBQnROMV9MN1hpT05BUG1mWkttMkZzY25RVWMxaWh4Zng4bGUw?oc=5)
 
 2026-06-18 <span class="news-indication-tag">tumor</span>
@@ -211,22 +227,6 @@ permalink: /news/belatacept/
 2026-06-18 <span class="news-indication-tag">MS</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
-
----
-
-### [Día Mundial del Cáncer de Riñón: cuándo una molestia lumbar o urinaria puede requerir valoración médica](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU1LdE92VDFQU01tOFBlMUNjT3BRNWNzc1JEMDhKUWZSdlIyQ2NjblpQM3hWbjlIWHV3bEFJak9NREF2eUY3Z2FIS2hiUUhkMFN3UklJLVhVcl9pX3hXYXRHWGhaY1ZBdVdRVkJuYmpzcDNRb0tBSjNVVGtDaE9tYmotanZ3dGFoazJJYzZUU3lEZk5SNUlDRE9rWjhzc001UmNUakVJTExaczkxWGFHdTdjbEF5djlNNkYyLQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWU1LdE92VDFQU01tOFBlMUNjT3BRNWNzc1JEMDhKUWZSdlIyQ2NjblpQM3hWbjlIWHV3bEFJak9NREF2eUY3Z2FIS2hiUUhkMFN3UklJLVhVcl9pX3hXYXRHWGhaY1ZBdVdRVkJuYmpzcDNRb0tBSjNVVGtDaE9tYmotanZ3dGFoazJJYzZUU3lEZk5SNUlDRE9rWjhzc001UmNUakVJTExaczkxWGFHdTdjbEF5djlNNkYyLQ?oc=5)
-
----
-
-### [Anatomia Patologica completamente digitale: il Brotzu guida l’innovazione in Sardegna - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1BleXcwQlRWcWpCM1hPTlNXN21fZ2FLNmpHTnBrYzlQUGtWR2o3WmxvWjlqbFBuQkc5QUR6ay1FeW9ySGFYb0NmaGZyTzlKX3JJLUJ2Sk9xT0ZoQzZwUGw5dFR1Z3FtYkdGV2pYR1MyWGthNUs1QVN3Z0g4RUhrbGdMWENDSEkxUmdMUk5qTFJEdmUwNGUyX3RVR1FRZnJwamtUZjdwQnl2QVNXSVdibEh6bWN4VE9NeGNkQi1PalI2Z21peTYxVzVaMkN3aG5vOVNPdHd0aWNxd9IB4gFBVV95cUxPbUFHeUM2dDYxdmQteEszUmh4bGxtOXA4Z3FGNXNCVGJZbnFESzBRMW0xSV9Bd0hsaHM5UXI0UVVqd1RFLTFJNl82aGRHb1ZiUS1PRlZQczBSZnduLVVSWDRqLUdNczBVb0tBSFllS3Fxc0lEdjNYalZhSm1lX01oUW5Ub0ZWSTlWejZ4TGw1cWJKM0JZWHBjdFRmUTl6TS1fWng0RFZSQkNtakJSSUFJbEU2b0hHRHZrZ2ZIdVQxRHZPQTAtVXlRbzhMYlptVy11S2tFaFAtREY3OTNUa01UTjZR?oc=5)
-
-2026-06-18 <span class="news-indication-tag">tumor</span>
-
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1BleXcwQlRWcWpCM1hPTlNXN21fZ2FLNmpHTnBrYzlQUGtWR2o3WmxvWjlqbFBuQkc5QUR6ay1FeW9ySGFYb0NmaGZyTzlKX3JJLUJ2Sk9xT0ZoQzZwUGw5dFR1Z3FtYkdGV2pYR1MyWGthNUs1QVN3Z0g4RUhrbGdMWENDSEkxUmdMUk5qTFJEdmUwNGUyX3RVR1FRZnJwamtUZjdwQnl2QVNXSVdibEh6bWN4VE9NeGNkQi1PalI2Z21peTYxVzVaMkN3aG5vOVNPdHd0aWNxd9IB4gFBVV95cUxPbUFHeUM2dDYxdmQteEszUmh4bGxtOXA4Z3FGNXNCVGJZbnFESzBRMW0xSV9Bd0hsaHM5UXI0UVVqd1RFLTFJNl82aGRHb1ZiUS1PRlZQczBSZnduLVVSWDRqLUdNczBVb0tBSFllS3Fxc0lEdjNYalZhSm1lX01oUW5Ub0ZWSTlWejZ4TGw1cWJKM0JZWHBjdFRmUTl6TS1fWng0RFZSQkNtakJSSUFJbEU2b0hHRHZrZ2ZIdVQxRHZPQTAtVXlRbzhMYlptVy11S2tFaFAtREY3OTNUa01UTjZR?oc=5)
 
 ---
 
@@ -254,6 +254,14 @@ permalink: /news/belatacept/
 
 ---
 
+### [Alzheimer 2026: Entzündung, Seneszenz und neue KI-Tests rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
+
+---
+
 ### [Breakthrough jab could ‘reverse ageing’ and help fight cancer and dementia - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
 
 2026-06-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
@@ -262,11 +270,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
+### [España frena el crecimiento de tumores en ratones con pulsos electromagnéticos: "No solo ralentizan el cáncer, sino que activan al sistema inmunitario"](https://news.google.com/rss/articles/CBMilgJBVV95cUxNZzFOOU1wbWZoUXZlcDlCbTFkTFB4d094Nld3djVJN3VKUWV5SnJod3NDY0tXX0EyUEdDOG1OWWlqYkNaY1dQVFFzUjZXcE41Wkt2TVdqMWZNb1RoRGtXOGt1SUVPN1RNMWZsNEtPVV9KU0xFdHB2U29uaVpZbDI5Ym9oODdDNjVzdmRjeWJ6amNNVWI4bG0yY3FIVWdYYUY5UkNOME9HM0VYN0NzYjk5TjB5clBSVVQ0S0xOVzFybHlTeTF5SGxBalNGZXFEVjNaWm1jeW1FbzllUlVJMFByNGswZUtITVRseEVJc09PSE5JQWphS2YycUh5SWNfaHMxeVBPQTYwU0FSSEI5b3NIQWZnRVNoQdIBmwJBVV95cUxQeHFvZy1EcF9kT3dFejFQSXFEaTBtVnRhTkVQMTlod3FHaENwczFocXRKOFBqa2U4bGtmOWw0dlA3VGpFNEdwQ1pXczFrc2tybkdqcC12TjltSVo0ajZpZWlWWkIxc1VTRVR6RWtjUzNLREwxTDVoMnVDY2RTUDNvbUdGNTIzRUZvMU5wTzVDTkRSOFAxaFhOZXltSFhPQnZyVTUyVzZJaDZOQzNvQ3BTNUpTaVRKeXBHb24yZDEzMTVXODQwM3QydkZ3MVpmX1hHY3dwaTdrdDJXcjVreXBOcmxUUTVibmc3QTJPUC1DSGc5aEZKZ3NEOUNWcnBsYVM4U2V6SDRMTTJONmJMQWRnUzRYMkcwZ250RkJj?oc=5)
 
-2026-06-17 <span class="news-indication-tag">MS</span>
+2026-06-17 <span class="news-indication-tag">tumor</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMilgJBVV95cUxNZzFOOU1wbWZoUXZlcDlCbTFkTFB4d094Nld3djVJN3VKUWV5SnJod3NDY0tXX0EyUEdDOG1OWWlqYkNaY1dQVFFzUjZXcE41Wkt2TVdqMWZNb1RoRGtXOGt1SUVPN1RNMWZsNEtPVV9KU0xFdHB2U29uaVpZbDI5Ym9oODdDNjVzdmRjeWJ6amNNVWI4bG0yY3FIVWdYYUY5UkNOME9HM0VYN0NzYjk5TjB5clBSVVQ0S0xOVzFybHlTeTF5SGxBalNGZXFEVjNaWm1jeW1FbzllUlVJMFByNGswZUtITVRseEVJc09PSE5JQWphS2YycUh5SWNfaHMxeVBPQTYwU0FSSEI5b3NIQWZnRVNoQdIBmwJBVV95cUxQeHFvZy1EcF9kT3dFejFQSXFEaTBtVnRhTkVQMTlod3FHaENwczFocXRKOFBqa2U4bGtmOWw0dlA3VGpFNEdwQ1pXczFrc2tybkdqcC12TjltSVo0ajZpZWlWWkIxc1VTRVR6RWtjUzNLREwxTDVoMnVDY2RTUDNvbUdGNTIzRUZvMU5wTzVDTkRSOFAxaFhOZXltSFhPQnZyVTUyVzZJaDZOQzNvQ3BTNUpTaVRKeXBHb24yZDEzMTVXODQwM3QydkZ3MVpmX1hHY3dwaTdrdDJXcjVreXBOcmxUUTVibmc3QTJPUC1DSGc5aEZKZ3NEOUNWcnBsYVM4U2V6SDRMTTJONmJMQWRnUzRYMkcwZ250RkJj?oc=5)
 
 ---
 
@@ -307,46 +315,6 @@ permalink: /news/belatacept/
 2026-06-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[Klinikum Fulda](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0ZVcW5YTjBNRW9UX0ktdWdrajZia0Q1RzJLdzdfQllZYjJPR2VlWHk1czYwSklqd0RIMzBjQmp3d2dhMHlKSlJnVl8wdjRRZzNxSlI5TV9KcVhHekhPaWdDUktSWEt1dUkxdXI3WDhkOWw3MldMS0VzVG9OaFRKbFBZQlVicFBQbVJWV1Nud3ZPckFuRUt1Q1RKVGxWdUdWWG1jeE1WNFllY09r?oc=5)
-
----
-
-### [Cancers du péritoine : avancée majeure pour l'opération, cette chirurgie développée à Lyon devient la norme mondiale](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUTZTMW1yQ3lWQ1BLZ0VOZ0MyVy15VDlQekVITDVjT1FQWWVQbFE1Y0xheDhCX29lWXg2U3hCczJvTVNVU2hCd1NVbWdaNWtUR254STRtMEZtS2xUOHRRcW81UDRXSWpxZ0lXRjBIRHZ5amVjYmd5eVlXclpzNmJnZWd5bE1LSWpZSnBWTE1tU2l4NE11OHZnQlpoQzVBNFlKdEc1WjFNS3hfNktTcjhRbE9NX0hEOXhKMmxCQ0I1SkxabGNpUEF3aUp2WnRDWjBCUFdfd1ptb3NfWWFCTE5BRTIxZGQwckhmUzZGajBOSk1zTVZEdXlOUEl2VmVuOHVQaldaaEJn?oc=5)
-
-2026-06-17 <span class="news-indication-tag">cancer</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUTZTMW1yQ3lWQ1BLZ0VOZ0MyVy15VDlQekVITDVjT1FQWWVQbFE1Y0xheDhCX29lWXg2U3hCczJvTVNVU2hCd1NVbWdaNWtUR254STRtMEZtS2xUOHRRcW81UDRXSWpxZ0lXRjBIRHZ5amVjYmd5eVlXclpzNmJnZWd5bE1LSWpZSnBWTE1tU2l4NE11OHZnQlpoQzVBNFlKdEc1WjFNS3hfNktTcjhRbE9NX0hEOXhKMmxCQ0I1SkxabGNpUEF3aUp2WnRDWjBCUFdfd1ptb3NfWWFCTE5BRTIxZGQwckhmUzZGajBOSk1zTVZEdXlOUEl2VmVuOHVQaldaaEJn?oc=5)
-
----
-
-### [Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2p4Q2VaRU1MbU9WUFhwTnU1T09ncmpza0RuOEtBY0Uyc3ZHVno5dVktejZNN1lqQ2JIS2I3M1JhSGJCd0hFZFdvcUNxb0I1QWlVc2c0TGV3OUtrNnVCMHozQmtTejcwWS11Z0lhaTBmNmIzSmhXeDBtVVRETVBnZU9ISW1uZFl6eUxJNmpqYS14QXdncmpWUW0wOTEtOTNKNmNnZ3l2c1NEVTZ5TmZKb25VX3hWTFIwX3RLbi1yWFFzV1lRZVg4WkJYeHQxUlFuQWxialJlN0FWZw?oc=5)
-
-2026-06-17 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2p4Q2VaRU1MbU9WUFhwTnU1T09ncmpza0RuOEtBY0Uyc3ZHVno5dVktejZNN1lqQ2JIS2I3M1JhSGJCd0hFZFdvcUNxb0I1QWlVc2c0TGV3OUtrNnVCMHozQmtTejcwWS11Z0lhaTBmNmIzSmhXeDBtVVRETVBnZU9ISW1uZFl6eUxJNmpqYS14QXdncmpWUW0wOTEtOTNKNmNnZ3l2c1NEVTZ5TmZKb25VX3hWTFIwX3RLbi1yWFFzV1lRZVg4WkJYeHQxUlFuQWxialJlN0FWZw?oc=5)
-
----
-
-### [Considérée comme saine, l’huile d’olive pourrait favoriser le cancer du pancréas, selon les chercheurs de Yale](https://news.google.com/rss/articles/CBMivwJBVV95cUxQWHB0alpSLW8xczVGNldrVXlmYnZoLVgzVFpDZm9SelpRNFpiMlJIdUZ1d1dXcUVXVm93VkFPN0pudDZEdDZZTXhybjYxUndGWEV5endqMEpjandGMks0VExwMzBmd2EzeTNXaFNvN05lZ1FRN3c3Q3I5TlEtTkQyZ0NVZDFBRkpZR1VXUzl2b3FCNlBNS2V3M04xV3B3SnBTcGcxQ0I2cE82T3IyVm96RFAwd0dDS0VUeklmdF81YXdMek1mLTlMcVhtSkVVQ0ZkNW1nWjQ3UEVCUzZ6ZFpYWmFIQkJRQV85TmxiME9EMkFjMm5HQ0tXWFRyeXhwcTVyNlJoRnlneVk5QTdnalV5S0hIY1dFX0tJamJmSFRNZDlYRTZrNG1pZThWNk5UVzRQTUk1aEJhQk1JWDNHb1RJ?oc=5)
-
-2026-06-17 <span class="news-indication-tag">cancer</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMivwJBVV95cUxQWHB0alpSLW8xczVGNldrVXlmYnZoLVgzVFpDZm9SelpRNFpiMlJIdUZ1d1dXcUVXVm93VkFPN0pudDZEdDZZTXhybjYxUndGWEV5endqMEpjandGMks0VExwMzBmd2EzeTNXaFNvN05lZ1FRN3c3Q3I5TlEtTkQyZ0NVZDFBRkpZR1VXUzl2b3FCNlBNS2V3M04xV3B3SnBTcGcxQ0I2cE82T3IyVm96RFAwd0dDS0VUeklmdF81YXdMek1mLTlMcVhtSkVVQ0ZkNW1nWjQ3UEVCUzZ6ZFpYWmFIQkJRQV85TmxiME9EMkFjMm5HQ0tXWFRyeXhwcTVyNlJoRnlneVk5QTdnalV5S0hIY1dFX0tJamJmSFRNZDlYRTZrNG1pZThWNk5UVzRQTUk1aEJhQk1JWDNHb1RJ?oc=5)
-
----
-
-### [Nanoparticelle efficaci contro il tumore della prostata, uccidono le cellule](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTnN3SEhYRE85WFlrQmFseXBmcm96MjJVNGE0WERxM294LWZOYnotSkdwLTZUTGZrR29nX21BVjYyN0lETExSeVF4dXpJX3dPR2FseHhLcnJiQ2RFTU1DSGdjQ3M5d2IzUFFOSUc5UXZ0VEdNZXZHNDFqNENaRnlZMUJKOGpMSXBxcWdIYnhTbkI5QzR6bnN3a0N0NTlPQ3Z1VWsxSDhyV2dLa2ZzVzVSbU1qNnM4dm5qQ21VUW1TZnp0OHNxdGdKWUVZbWFEZEdpY1NIel9MSWlzSnFKdk9vLWFkU29zdzBDSTcwSXpvX3FzaHQyYTVCV2pjSm90ZXZja3J4NnhBZEVBU3fSAZACQVVfeXFMTUlwTnJLUDZUbl9KS290RWc0LUl6N3djYTNiSkZlcEUxcmJ0WXhuY3JpcTZOTmJ1RlA1QkttZ3BUbnptQVNHR2ZpQW0tbnhUM2t6a0NLcTJ4YVEwN0k1VU1Ddlp6VThYeVZPMXRFYjlCVTJKc1RrNHYzTnh2WUdjaFJoM1Z4VHRWVU8waXVWSzc1R1VFcFdJUjFqN1pLazg2SVNvZDRHS1Zqa01ybXB5UWEtRWtNcGptNGlDMHJKMW9mWkhiN01DWkt6WnVoQ3lORC1VTWZLa0RMc2xsb295ZVJKckNBLUk4RUZjNXFTZGNTNEN5cmNzc1hUOEdGR29pTUcwVDd6RXNzd3cxT2FlbWQ?oc=5)
-
-2026-06-17 <span class="news-indication-tag">tumor</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTnN3SEhYRE85WFlrQmFseXBmcm96MjJVNGE0WERxM294LWZOYnotSkdwLTZUTGZrR29nX21BVjYyN0lETExSeVF4dXpJX3dPR2FseHhLcnJiQ2RFTU1DSGdjQ3M5d2IzUFFOSUc5UXZ0VEdNZXZHNDFqNENaRnlZMUJKOGpMSXBxcWdIYnhTbkI5QzR6bnN3a0N0NTlPQ3Z1VWsxSDhyV2dLa2ZzVzVSbU1qNnM4dm5qQ21VUW1TZnp0OHNxdGdKWUVZbWFEZEdpY1NIel9MSWlzSnFKdk9vLWFkU29zdzBDSTcwSXpvX3FzaHQyYTVCV2pjSm90ZXZja3J4NnhBZEVBU3fSAZACQVVfeXFMTUlwTnJLUDZUbl9KS290RWc0LUl6N3djYTNiSkZlcEUxcmJ0WXhuY3JpcTZOTmJ1RlA1QkttZ3BUbnptQVNHR2ZpQW0tbnhUM2t6a0NLcTJ4YVEwN0k1VU1Ddlp6VThYeVZPMXRFYjlCVTJKc1RrNHYzTnh2WUdjaFJoM1Z4VHRWVU8waXVWSzc1R1VFcFdJUjFqN1pLazg2SVNvZDRHS1Zqa01ybXB5UWEtRWtNcGptNGlDMHJKMW9mWkhiN01DWkt6WnVoQ3lORC1VTWZLa0RMc2xsb295ZVJKckNBLUk4RUZjNXFTZGNTNEN5cmNzc1hUOEdGR29pTUcwVDd6RXNzd3cxT2FlbWQ?oc=5)
-
----
-
-### [Estate, i 10 consigli dei dermatologi per proteggere la pelle dai raggi UV (e non solo) - Sky TG24](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVR4eU8wVHptb2tSNDZoWGJzZnNHTHEtWjdHdEM0eGZKZlF1RVdTcGlIc1RJeEh2YXhUd3FJR3N4N3BXeVotc19INktLWnRyTHFVNmZ0ZkYtR0RTV3ROcGFKWG03aHFVWGhDZFVGenRmN1NjZVJTWU81czQ1alc3OHowelZXLWprWmE4bFBwUUdaOHhzRHZMQ1JUbWx6d0pFcUlV?oc=5)
-
-2026-06-17 <span class="news-indication-tag">cancro</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVR4eU8wVHptb2tSNDZoWGJzZnNHTHEtWjdHdEM0eGZKZlF1RVdTcGlIc1RJeEh2YXhUd3FJR3N4N3BXeVotc19INktLWnRyTHFVNmZ0ZkYtR0RTV3ROcGFKWG03aHFVWGhDZFVGenRmN1NjZVJTWU81czQ1alc3OHowelZXLWprWmE4bFBwUUdaOHhzRHZMQ1JUbWx6d0pFcUlV?oc=5)
 
 ---
 

@@ -72,27 +72,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Alzheimer: Seneszente Zellen verdreifachen Risiko bei APOE4-Trägern - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2JucmZhQ3RIYTUtWTk3X0ZhdnlxUGJXQUFDc1NsVy1MbDZJNkVpRlJkeUxfTGtteHFLeTFZMERJUnY1Z2dxdEplNVA1OFc3SlkwSlRLOXFkbDIzZlgzOExxdTFXeUFzT2ZKQTdhQUN6OW9lLW1CZzU5VGVsZU1IeVRLVW96QmJZdUJPX3cwbFRzVE1ycVFTVGRNeVF0Tk5QZEpkOUhkNG5KMkpFcVhranFpOHhMQ2c?oc=5)
+### [«L’industrie agroalimentaire fait perdurer l’usage des aliments ultra-transformés sans jamais questionner le risque», estime David Garbous, président du collectif En Vérité - L'Usine Nouvelle](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOcU9VNkdzY1I1NEY3WWhjemI3aHdhZlhqRnEtU0Z2cXA4NDNEcXZxRTdlSkpTUnl0S0tWeDNQZ19MTi1FUGNYbS1QSUJtODJUTDNUeDg4b0ttMTBmTUp0TkV6c1E1MXAxbUl6dGREOUdkS3F2bWtOYWxCYnJDM29YVDlqQS1obVBERmtpSm1OWHk3NllzLWExSlZaYWRGbWxWMW1Gc2tQck1EeTkzdUZwRGFiUTBhc2xiR1lNdkxXbnAxQk9FeTFTZTdOWUFVSDVzVzVmazBKWnVfeXJWSm95aG5BcTl5V1hCQ1p2ZDBqU0Zud0tJMF9TakFDX0tlSVowdE8zbExVWTJXT1pVLTM5dmJKd1dPTkRtQVpvT1ZRM1p0eHZ3aWF5blI4QlpYaHg2dG9iWEcxVHJvdGtPbG55UXZqZktnbG1HRjFLbngyVWdLVm8?oc=5)
 
 2026-06-18
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2JucmZhQ3RIYTUtWTk3X0ZhdnlxUGJXQUFDc1NsVy1MbDZJNkVpRlJkeUxfTGtteHFLeTFZMERJUnY1Z2dxdEplNVA1OFc3SlkwSlRLOXFkbDIzZlgzOExxdTFXeUFzT2ZKQTdhQUN6OW9lLW1CZzU5VGVsZU1IeVRLVW96QmJZdUJPX3cwbFRzVE1ycVFTVGRNeVF0Tk5QZEpkOUhkNG5KMkpFcVhranFpOHhMQ2c?oc=5)
-
----
-
-### [MSD impulsa la excelencia científica en Oncología con HorizON - Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
-
-2026-06-18
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
-
----
-
-### [“C’est la maison des rêves” : après une longue attente, Camille Lacourt et sa compagne Alice Detollenaere laissent éclater leur joie](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ2dER3l0NWw5U2JIUU9Oa29wYTBmME5MWnlOMWRvWmk1eVVrM2FtbDk5aHpwUlZZbTY4UGdpTmpKLUJoRWxYaDRCTzlYQWlELUJqcU9TM3F1MWtaZlAyYkVNZmVpV3RlczdmMXczYmI3Z2RBc1RYZTBaTGcwQ19nZ3RCOEhVUnQ4c3BlQzI5NHBtNmtPMzg1OWlOMnhjQW15aUhTQWdpYmg3YnBuaGpEaTF6OXU1NWYzNWJKWGw5amdXM1B6amNRS3BTUk15MnR3UktGU2hNb1p1TVk1SENYVTI3MndYTGVycy1xeUtGRHJwTFkwdEI5X01nTUZ3ZTkw?oc=5)
-
-2026-06-18
-
-來源：[purepeople.com](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ2dER3l0NWw5U2JIUU9Oa29wYTBmME5MWnlOMWRvWmk1eVVrM2FtbDk5aHpwUlZZbTY4UGdpTmpKLUJoRWxYaDRCTzlYQWlELUJqcU9TM3F1MWtaZlAyYkVNZmVpV3RlczdmMXczYmI3Z2RBc1RYZTBaTGcwQ19nZ3RCOEhVUnQ4c3BlQzI5NHBtNmtPMzg1OWlOMnhjQW15aUhTQWdpYmg3YnBuaGpEaTF6OXU1NWYzNWJKWGw5amdXM1B6amNRS3BTUk15MnR3UktGU2hNb1p1TVk1SENYVTI3MndYTGVycy1xeUtGRHJwTFkwdEI5X01nTUZ3ZTkw?oc=5)
+來源：[L'Usine Nouvelle](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOcU9VNkdzY1I1NEY3WWhjemI3aHdhZlhqRnEtU0Z2cXA4NDNEcXZxRTdlSkpTUnl0S0tWeDNQZ19MTi1FUGNYbS1QSUJtODJUTDNUeDg4b0ttMTBmTUp0TkV6c1E1MXAxbUl6dGREOUdkS3F2bWtOYWxCYnJDM29YVDlqQS1obVBERmtpSm1OWHk3NllzLWExSlZaYWRGbWxWMW1Gc2tQck1EeTkzdUZwRGFiUTBhc2xiR1lNdkxXbnAxQk9FeTFTZTdOWUFVSDVzVzVmazBKWnVfeXJWSm95aG5BcTl5V1hCQ1p2ZDBqU0Zud0tJMF9TakFDX0tlSVowdE8zbExVWTJXT1pVLTM5dmJKd1dPTkRtQVpvT1ZRM1p0eHZ3aWF5blI4QlpYaHg2dG9iWEcxVHJvdGtPbG55UXZqZktnbG1HRjFLbngyVWdLVm8?oc=5)
 
 ---
 
@@ -104,6 +88,22 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [MSD impulsa la excelencia científica en Oncología con el encuentro HorizON](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWFuZ2QzWEp5Qkl3YVYzcmRmN1JtY2k1LVUxTndjc21HUU5ZT29HSVlLZnRaMGJmM1Nla0ZJLTIzUUdOeHk5WEwzbHpvM0t5aDJwdGNxR3dYNVhzU0Z3Q3dSNGdCZldwcFZQaE9MVUJEVkFkVWNEQ2xtRUNwVFVWcFFubzRXeFY5Z0F6RFJySjlTNDJYOC1GdW5ZRVJFclJFcFdQdXNQMXk1QXZ1T1ByWmt2OXlWR2hyZTBTZA?oc=5)
+
+2026-06-18
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWFuZ2QzWEp5Qkl3YVYzcmRmN1JtY2k1LVUxTndjc21HUU5ZT29HSVlLZnRaMGJmM1Nla0ZJLTIzUUdOeHk5WEwzbHpvM0t5aDJwdGNxR3dYNVhzU0Z3Q3dSNGdCZldwcFZQaE9MVUJEVkFkVWNEQ2xtRUNwVFVWcFFubzRXeFY5Z0F6RFJySjlTNDJYOC1GdW5ZRVJFclJFcFdQdXNQMXk1QXZ1T1ByWmt2OXlWR2hyZTBTZA?oc=5)
+
+---
+
+### [Ancient DNA provides evidence of earliest known plague outbreak | Archaeology - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
+
+2026-06-18
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkZHR2hfdGRGTy0tVl81dGVXcHJlOEVOaEROcy01c0tvSGVzWkxCUHN0V1FjNmRmdVBJajM5NEdYNWpLU0llalpzb3hyTXZ6LThxTkw1ZHV0eTh4Vm5mZXhPREM0dUNEQWFYbzZUcnVWLXpONlRXS1kwQnhvRFl6VXFvUjA0bWctQnM5aUQ4dHpieWl4ZTlLQWlPSmJ1cUVm?oc=5)
+
+---
+
 ### [Millionen schlucken Vitamin D – doch ihre Knochen profitieren kaum - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
 
 2026-06-18
@@ -112,19 +112,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Alzheimer 2026: Entzündung, Seneszenz und neue KI-Tests rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
+
+2026-06-18
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
+
+---
+
 ### [Breakthrough jab could ‘reverse ageing’ and help fight cancer and dementia - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
 
 2026-06-17
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3dkX1RFNkh1VW9Mc3BReWFZS05sOHA1bTluazYxYXM1aV9WSkI0VEg3NUoxLXhfLV9fZTRiVElXVkF6NUtRZ0EtR0JDbHVIQzhGUzA3SWczUk1fT1BRMDBZQjByeXhUR1hYVkEycmxFT3IzNTU2dHljNTFlbVktTG9Db0twa3M?oc=5)
-
----
-
-### [Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
-
-2026-06-17
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2QXhkQ2liRUx6VldfZzRQOGRHVzN2TkZDNnNicF8yUktZOURNV2lvRUEtNk9ya09LZlpHSUtTTHpZVTJfaDhuY3pYNE1KNUd4bk9iekNQVFNjdm9id2Fn?oc=5)
 
 ---
 

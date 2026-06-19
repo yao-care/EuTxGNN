@@ -55,11 +55,11 @@ permalink: /news/hepatitis/
 
 ## 相關新聞（2 則）
 
-### [Sanidad notifica un brote de hepatitis A que afecta a seis personas en Gran Canaria - Gobierno de Canarias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTdkQVU5UGU2MTlvSDFERDJkY0VNS0N2czloNzR6dVB1cjBqZmFoR3VrUlRJb1dTLWtVb2tMeE1xUlREU1o3cS12SFdiSElJaFd3eWg4Tlc1bzFtMEJxdTM4Q0lHei1TZ2d4XzBlcVRtUXVHVHloVVdiZGxVbE1zY1V3Q1oxc0RWcTVKWm9fQUlQYnJnMTFoSGVJRWpraWhxdmVwUHZLYkswdmpyelc5TEVpamJYSWpmZTdIVmJTNTU4ZWRQTW5feA?oc=5)
+### [Brote de hepatitis A: Sanidad detecta seis casos en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQaw?oc=5)
 
 2026-06-18
 
-來源：[Gobierno de Canarias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTdkQVU5UGU2MTlvSDFERDJkY0VNS0N2czloNzR6dVB1cjBqZmFoR3VrUlRJb1dTLWtVb2tMeE1xUlREU1o3cS12SFdiSElJaFd3eWg4Tlc1bzFtMEJxdTM4Q0lHei1TZ2d4XzBlcVRtUXVHVHloVVdiZGxVbE1zY1V3Q1oxc0RWcTVKWm9fQUlQYnJnMTFoSGVJRWpraWhxdmVwUHZLYkswdmpyelc5TEVpamJYSWpmZTdIVmJTNTU4ZWRQTW5feA?oc=5)
+來源：[Canarias7](https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUNzVXA0RWMyUFBMbTFqSUo3Q1FQV3h4XzltUGFKd1JNbXdhZzBmbDlTc0pfX2lyeFJJblRZN1VLcHVJQkczenBnRHF1VHJXV1F0cktVb1RHRkhmQVplUUhTdmxhNVNwZkptWXlnY2t4NEJNakVXUWw3bHhoNXV2dDhPM1IwUkdTb3FUUUg3M1J0eUdZenZFNWRrYjJBak1kX21OTVNydW5PQTJ1NlA1SUxQaw?oc=5)
 
 ---
 

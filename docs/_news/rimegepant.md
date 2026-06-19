@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Gürtelrose-Impfung senkt Demenzrisiko bei Älteren in Studie deutlich](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjRlUUxJMnlXYkJ1bDVaRk1aUmgyTjZ2eVR3d19qN182X3c2dGgtdmp5QjU2SUhVLUo3eUlSWXQ2Q01ydW1mazZWUTdPa0dTUFlfTV9GMWEzUVZHQzJ4SmFrWlpQVjZ1MHpNRDhJcWJmREFnQV9MOFFGNWtIZmw3OHZnS2VEVHFYTmFFSG5PUlJMdzlZNk5JWHN1OXJ3TkxTQ2lKUWF6TGpRTEFCSllQR21nQ0wyNS1MX2tMSF9TMFhld0k3WC1BQ1ZuQlI5SDBrUGc?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/rimegepant/
 2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
-
----
-
-### [Emicrania, ' una patologia sociale e di genere'. All'Asst 'la cura è personalizzata e globale'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
-
-2026-06-17 <span class="news-indication-tag">emicrania</span>
-
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
 
 ---
 

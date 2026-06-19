@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Gürtelrose-Impfung senkt Demenzrisiko bei Älteren in Studie deutlich](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjRlUUxJMnlXYkJ1bDVaRk1aUmgyTjZ2eVR3d19qN182X3c2dGgtdmp5QjU2SUhVLUo3eUlSWXQ2Q01ydW1mazZWUTdPa0dTUFlfTV9GMWEzUVZHQzJ4SmFrWlpQVjZ1MHpNRDhJcWJmREFnQV9MOFFGNWtIZmw3OHZnS2VEVHFYTmFFSG5PUlJMdzlZNk5JWHN1OXJ3TkxTQ2lKUWF6TGpRTEFCSllQR21nQ0wyNS1MX2tMSF9TMFhld0k3WC1BQ1ZuQlI5SDBrUGc?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/selpercatinib/
 
 ---
 
-### [Canicule : ces deux aliments, délicieux en salade, réduiraient l'hypertension](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
-
-2026-06-18 <span class="news-indication-tag">hypertension</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
-
----
-
-### [20 Millionen Deutsche betroffen: So erkennt man Bluthochdruck, bevor Schäden entstehen](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckpUOHhSWHNLRE5vZ0JwMzdpYnZSX3ljc1FTYkFFbU9mbzZmUlNWVHlzM2MwTkEtemk5MEF3OFJrV2ptNzBYa3RWM1V3eVJCSFJZMDFHaUdTdWtPUmd0bnludUl0X25CelpJZTY5VmxiamtpMkdtTWF1UXJwZS1Hc011Z1lvUGV5bXFrV2RWZjlnODRSRWc4dmxESDdramswcThNSmc3dm56UlM3c29fOTR6LTE0NHJHMlA5SmF3?oc=5)
+### [Bluthochdruck: 20 Millionen Deutsche betroffen – Heimmonitoring senkt Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
 
 2026-06-18 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckpUOHhSWHNLRE5vZ0JwMzdpYnZSX3ljc1FTYkFFbU9mbzZmUlNWVHlzM2MwTkEtemk5MEF3OFJrV2ptNzBYa3RWM1V3eVJCSFJZMDFHaUdTdWtPUmd0bnludUl0X25CelpJZTY5VmxiamtpMkdtTWF1UXJwZS1Hc011Z1lvUGV5bXFrV2RWZjlnODRSRWc4dmxESDdramswcThNSmc3dm56UlM3c29fOTR6LTE0NHJHMlA5SmF3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
 
 ---
 
@@ -110,11 +102,11 @@ permalink: /news/selpercatinib/
 
 ---
 
-### [Emicrania, ' una patologia sociale e di genere'. All'Asst 'la cura è personalizzata e globale'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
+### [Les 2 aliments parfaits en salade quand il fait chaud : ils évitent les pics de tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
 
-2026-06-17 <span class="news-indication-tag">emicrania</span>
+2026-06-18 <span class="news-indication-tag">hypertension</span>
 
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
 
 ---
 

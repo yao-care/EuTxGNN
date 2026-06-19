@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Hilft dieses Medikament nach Depression bei Konzentrationsproblemen?](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOFRaSVJ6TGV2bU82cGd4bVJkMXNRM3J1LTlfalJYWExXelR0bU00RW4zR2tlSXl0VkFiY09fNnc5Y01QS1ZsenFjRGQ4Mi1ONWhZYjZHQ2IzRnhiOHB5eGJMME1hNjFvcXV3VlRGNjNOMU83R2RTRzRZZTJlX3VaYlpxRUF2bl9VODU3ZE4wVE1nMnFMam4tQncyX3FSaXBFR0prZHZ0NmhOalRnajFjSFdaZnQzdXFaUmYzV2ZIczk3NDQtNVNVa0YwYXg0QQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">depression</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOFRaSVJ6TGV2bU82cGd4bVJkMXNRM3J1LTlfalJYWExXelR0bU00RW4zR2tlSXl0VkFiY09fNnc5Y01QS1ZsenFjRGQ4Mi1ONWhZYjZHQ2IzRnhiOHB5eGJMME1hNjFvcXV3VlRGNjNOMU83R2RTRzRZZTJlX3VaYlpxRUF2bl9VODU3ZE4wVE1nMnFMam4tQncyX3FSaXBFR0prZHZ0NmhOalRnajFjSFdaZnQzdXFaUmYzV2ZIczk3NDQtNVNVa0YwYXg0QQ?oc=5)
+
+---
 
 ### [Was wir über den Zusammenhang zwischen Ernährung und Depression wirklich wissen](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEVLU3ZUUVZ6dVQxWW1oc1RWR0RGSEl2d0JWQTExY2VyLWs4NmUzaFBjemVteDVONlBSYWtiV2I5eXF6eUhDUVBxVUhFNVAxcDFuTGNhYXdGMWxsamRiNldDS3ZGcm9XQm91T0NLMWNTMktFN190TGFrY3FQRGI0T1BCbEF0VDF2TE40ZHZ3?oc=5)
 

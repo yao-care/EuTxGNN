@@ -14,7 +14,7 @@ permalink: /news/parathyroid-hormone/
 ---
 
 <p class="key-answer" data-question="Parathyroid Hormone 有什麼相關新聞？">
-<strong>Parathyroid Hormone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parathyroid Hormone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/parathyroid-hormone/
 <p><a href="{{ '/drugs/parathyroid-hormone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Gürtelrose-Impfung senkt Demenzrisiko bei Älteren in Studie deutlich](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjRlUUxJMnlXYkJ1bDVaRk1aUmgyTjZ2eVR3d19qN182X3c2dGgtdmp5QjU2SUhVLUo3eUlSWXQ2Q01ydW1mazZWUTdPa0dTUFlfTV9GMWEzUVZHQzJ4SmFrWlpQVjZ1MHpNRDhJcWJmREFnQV9MOFFGNWtIZmw3OHZnS2VEVHFYTmFFSG5PUlJMdzlZNk5JWHN1OXJ3TkxTQ2lKUWF6TGpRTEFCSllQR21nQ0wyNS1MX2tMSF9TMFhld0k3WC1BQ1ZuQlI5SDBrUGc?oc=5)
 
 2026-06-18 <span class="news-indication-tag">Migräne</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjRlUUxJMnlXYkJ1bDVaRk1aUmgyTjZ2eVR3d19qN182X3c2dGgtdmp5QjU2SUhVLUo3eUlSWXQ2Q01ydW1mazZWUTdPa0dTUFlfTV9GMWEzUVZHQzJ4SmFrWlpQVjZ1MHpNRDhJcWJmREFnQV9MOFFGNWtIZmw3OHZnS2VEVHFYTmFFSG5PUlJMdzlZNk5JWHN1OXJ3TkxTQ2lKUWF6TGpRTEFCSllQR21nQ0wyNS1MX2tMSF9TMFhld0k3WC1BQ1ZuQlI5SDBrUGc?oc=5)
-
----
-
-### [Emicrania, ' una patologia sociale e di genere'. All'Asst 'la cura è personalizzata e globale'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
-
-2026-06-17 <span class="news-indication-tag">emicrania</span>
-
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
 
 ---
 

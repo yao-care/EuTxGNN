@@ -14,7 +14,7 @@ permalink: /news/fulvestrant/
 ---
 
 <p class="key-answer" data-question="Fulvestrant 有什麼相關新聞？">
-<strong>Fulvestrant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fulvestrant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/fulvestrant/
 <p><a href="{{ '/drugs/fulvestrant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Rheumatoide Arthritis: Abatacept halbiert Erkrankungsrisiko in Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+
+2026-06-19 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+
+---
 
 
 <div class="disclaimer">

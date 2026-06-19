@@ -14,7 +14,7 @@ permalink: /news/insulin-glargine/
 ---
 
 <p class="key-answer" data-question="Insulin Glargine 有什麼相關新聞？">
-<strong>Insulin Glargine</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Glargine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/insulin-glargine/
 <p><a href="{{ '/drugs/insulin-glargine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Expertos exigen al Senado impulsar la detección precoz universal de Diabetes Tipo 1](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJmUVpNR1RFMXJfeVl0SDhRc0x4QXJtWEsyWS1CeU9iS3RUUk9LdktzcGdUODV4cmNYc09sYU95MHJsTWtyQXFwaG51cG9KVVJ6NUxDWURMSUdvc0FTX0piZjRHV2pSZkVhT09IbWtwWFlFZG5VYTlxSThCa000RzN6QlZETVhhYk9lTzNyMkJITHBMb2FGcnNwdjBfTy1PUzd6ZzF6bllYT09iSERGY1ZyNzB1RmcwYkE?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[BURGOSconecta](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJmUVpNR1RFMXJfeVl0SDhRc0x4QXJtWEsyWS1CeU9iS3RUUk9LdktzcGdUODV4cmNYc09sYU95MHJsTWtyQXFwaG51cG9KVVJ6NUxDWURMSUdvc0FTX0piZjRHV2pSZkVhT09IbWtwWFlFZG5VYTlxSThCa000RzN6QlZETVhhYk9lTzNyMkJITHBMb2FGcnNwdjBfTy1PUzd6ZzF6bllYT09iSERGY1ZyNzB1RmcwYkE?oc=5)
+
+---
+
+### [Actuar sobre los mecanismos epigenéticos revierte el daño vascular asociado a la obesidad y la diabetes - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
+
+---
+
+### [Diabetes, Adipositas und ihr Risiko für die Gefäße](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
+
+---
 
 ### [Diabetes erhöht Parkinson-Risiko um 27 Prozent: Metaanalyse warnt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
 
@@ -62,19 +86,11 @@ permalink: /news/insulin-glargine/
 
 ---
 
-### [How to boost your weight-loss hormones — no jabs required - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlpFRU96bFBvbnN0MWh5cFpxcXU5dTlyazBILW51Yi1iNjZWQW9SSDMtV3ZkQWJBUVUxeHNud1lLZTE1TGpNbzVod1RweTNNTWYzTEJYNThwQWtDOHRab1FWZTJzRUp2U2F1SkdMZGlxdVljRFlPMTM4NGpzam05VDRZbWdQcURzNS1JTXRJOGhONzlmeENoRW0xUlVMeHlrSHVMUVZNLTZrQnRk?oc=5)
-
-2026-06-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlpFRU96bFBvbnN0MWh5cFpxcXU5dTlyazBILW51Yi1iNjZWQW9SSDMtV3ZkQWJBUVUxeHNud1lLZTE1TGpNbzVod1RweTNNTWYzTEJYNThwQWtDOHRab1FWZTJzRUp2U2F1SkdMZGlxdVljRFlPMTM4NGpzam05VDRZbWdQcURzNS1JTXRJOGhONzlmeENoRW0xUlVMeHlrSHVMUVZNLTZrQnRk?oc=5)
-
----
-
-### [Bauchfett-Reduktion: 10% weniger viszerales Fett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1N0Q29VWkNOVW5TYlBqcVlDd2FOLTk1cUJ0em9mRE5QSEI2RUFpWDYzbFRoRHZSVnIydUZjTTFGbEhiYTRkVVJuVUx0SzRPY0ZVakRrcHhjbTlzUnU0QW50em5oTjJyVFkwQ25fYmNONVBDWmlTLWZlbTZtOFA1SVgtYVdHdWV6WXBfd2NyaGlhV1JzNmxTcDhBVW15YTNjY1VJaHU3aU5QaTJLTnc?oc=5)
+### [Intervallfasten: 28% weniger Diabetes-Risiko durch Fettabbau - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLW5uTEFwSnVqUUxweGkxc0hUeWhmblM4Q3I5Sml0aDRCbEl1RGo2R2hSeDBJS2F2TWFpUk9zR0RtellFeVN3SVFRZmU5TFFYRHgxQ19QY0x1OUtGaW8wajhtMWliazlDSjlmeXF0WVlLVzlCOUM4N2hGck5Ddl9RN0cwU3dfWG91VmlxZllObC1WYnNQeENzU3AwSDdUWno5MVFlanZ5NmJkWHY1S0VyQlJJWkdkZw?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1N0Q29VWkNOVW5TYlBqcVlDd2FOLTk1cUJ0em9mRE5QSEI2RUFpWDYzbFRoRHZSVnIydUZjTTFGbEhiYTRkVVJuVUx0SzRPY0ZVakRrcHhjbTlzUnU0QW50em5oTjJyVFkwQ25fYmNONVBDWmlTLWZlbTZtOFA1SVgtYVdHdWV6WXBfd2NyaGlhV1JzNmxTcDhBVW15YTNjY1VJaHU3aU5QaTJLTnc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLW5uTEFwSnVqUUxweGkxc0hUeWhmblM4Q3I5Sml0aDRCbEl1RGo2R2hSeDBJS2F2TWFpUk9zR0RtellFeVN3SVFRZmU5TFFYRHgxQ19QY0x1OUtGaW8wajhtMWliazlDSjlmeXF0WVlLVzlCOUM4N2hGck5Ddl9RN0cwU3dfWG91VmlxZllObC1WYnNQeENzU3AwSDdUWno5MVFlanZ5NmJkWHY1S0VyQlJJWkdkZw?oc=5)
 
 ---
 
@@ -118,19 +134,19 @@ permalink: /news/insulin-glargine/
 
 ---
 
+### [Typ-2-Diabetes: SGLT2-Hemmer senken Alzheimer-Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxObXBFZ1ZRMXlFcW9JSVk0dlEzQ1ljakkyWkxFcDh3ak9SbEUwanhRZmxrU2czMDYtc3lvUVJwNHdIX1BfcmRGTm1TVEZmQXNVdVBmNUhWZUM3N0FLSHFsV25Fc3FHZ1AyclJMdkFUTzdrRGdQbVRwMnRWcHZfWWZFaERick8wdjlldjVqTFpfV25EWlNKTjFzM3hCVUJqaTJzNHhFNlRGMEZaYmw2WmE1eEhTaUw?oc=5)
+
+2026-06-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxObXBFZ1ZRMXlFcW9JSVk0dlEzQ1ljakkyWkxFcDh3ak9SbEUwanhRZmxrU2czMDYtc3lvUVJwNHdIX1BfcmRGTm1TVEZmQXNVdVBmNUhWZUM3N0FLSHFsV25Fc3FHZ1AyclJMdkFUTzdrRGdQbVRwMnRWcHZfWWZFaERick8wdjlldjVqTFpfV25EWlNKTjFzM3hCVUJqaTJzNHhFNlRGMEZaYmw2WmE1eEhTaUw?oc=5)
+
+---
+
 ### [Schweizer Umfrage - Wir sind ungesünder, als wir glauben - Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
 
 2026-06-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[Plattform J](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IV0lUOVpyVmE5VVFqeTNkazBVMTF6VDhZS1FmbUV0aEdvcDM1NWtaYnhGMWhoblIxYXVkYUM0cW5VNExUZmJORUV1bmtpcTBtOVdF?oc=5)
-
----
-
-### [Supplemente und Nahrungsergänzungsmittel bei Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
-
-2026-06-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUFWVWpDLWdiQXIxUEEwcnlnTXVuaVAySlVtV3Z0LUtnd2dvTzB1dG9MZ21Vd1Fnc2tRMXotTm9WVmQtajlBcUtia2Jaem5OcUVYOWVZajF6Q1VPT1oxRnJFY3NpUTc1dUMyTnh0NEVmUGNLYXBSNmZEblZSUGFNMy1INmI1SWJtNHFPRmVYTnhYSXhtZEx0MDV4dzEwbk82X0VxTWgySHRBdVpwV0Y1cnZaNUJfWVY3dW5tLV9VRWNtR0JIeXZQSlhHOE9rSlBtYTFsODMxbl85NzhCNnRz?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Rheumatoide Arthritis: Abatacept halbiert Erkrankungsrisiko in Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+
+2026-06-19 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+
+---
 
 ### [We Asked Cardiologists If Taking Aspirin Really Helps Prevent Heart Disease—Here’s What They Said](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
 

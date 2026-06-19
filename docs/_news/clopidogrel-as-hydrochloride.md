@@ -54,19 +54,19 @@ permalink: /news/clopidogrel-as-hydrochloride/
 
 ## 相關新聞（2 則）
 
+### [Rheumatoide Arthritis: Abatacept halbiert Erkrankungsrisiko in Früherkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+
+2026-06-19 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkljRk9Ka2UyVlpRQkJYOWpwWGtCbElwVFVkaWdEemVDdVF3S003UXJyVmdzQjYzQ2t0TkI0bVZEVS1BWjk3V1MyajJDdnphTy1YV1pleDBpdXBTTlpJU1FNTGlJa244SXduX3pvN1RKUFVvSmxBWTU5ZEYtRGdtMkJXWk5mVkNZY0hTX2xIUFQwWE9RUnp0bGgwOXBDcEhYd2U5YWhQT0pKNld6dlJN?oc=5)
+
+---
+
 ### [Gürtelrose-Impfung senkt Demenzrisiko bei Älteren in Studie deutlich](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjRlUUxJMnlXYkJ1bDVaRk1aUmgyTjZ2eVR3d19qN182X3c2dGgtdmp5QjU2SUhVLUo3eUlSWXQ2Q01ydW1mazZWUTdPa0dTUFlfTV9GMWEzUVZHQzJ4SmFrWlpQVjZ1MHpNRDhJcWJmREFnQV9MOFFGNWtIZmw3OHZnS2VEVHFYTmFFSG5PUlJMdzlZNk5JWHN1OXJ3TkxTQ2lKUWF6TGpRTEFCSllQR21nQ0wyNS1MX2tMSF9TMFhld0k3WC1BQ1ZuQlI5SDBrUGc?oc=5)
 
 2026-06-18 <span class="news-indication-tag">Migräne</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjRlUUxJMnlXYkJ1bDVaRk1aUmgyTjZ2eVR3d19qN182X3c2dGgtdmp5QjU2SUhVLUo3eUlSWXQ2Q01ydW1mazZWUTdPa0dTUFlfTV9GMWEzUVZHQzJ4SmFrWlpQVjZ1MHpNRDhJcWJmREFnQV9MOFFGNWtIZmw3OHZnS2VEVHFYTmFFSG5PUlJMdzlZNk5JWHN1OXJ3TkxTQ2lKUWF6TGpRTEFCSllQR21nQ0wyNS1MX2tMSF9TMFhld0k3WC1BQ1ZuQlI5SDBrUGc?oc=5)
-
----
-
-### [Emicrania, ' una patologia sociale e di genere'. All'Asst 'la cura è personalizzata e globale'](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
-
-2026-06-17 <span class="news-indication-tag">emicrania</span>
-
-來源：[Cremaonline](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmJEbF84TmdIZUFpTGNQbkJfa2RyemwxbmpnbTAtRDlBZnBWT24yTTdGcXlodHFrT2hvTmJmTUdUdDJtX1R2MjM0RVZnXzNuUjVsaURyMHdSLTY0WWRiTGFTOFpla2tHQnEwd3ZRQWhjZUduLTB2ZThRTzM2U01CWE1oYzdpQXdTbnBxM1RsekJiNXlfWl9TZXdTSDdjeTAxa2lieFo0MzMzYWZRZG4tZXMtX1FaUlJMNTRN?oc=5)
 
 ---
 

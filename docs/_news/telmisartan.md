@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Canicule : ces deux aliments, délicieux en salade, réduiraient l'hypertension](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
-
-2026-06-18 <span class="news-indication-tag">hypertension</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
-
----
-
-### [20 Millionen Deutsche betroffen: So erkennt man Bluthochdruck, bevor Schäden entstehen](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckpUOHhSWHNLRE5vZ0JwMzdpYnZSX3ljc1FTYkFFbU9mbzZmUlNWVHlzM2MwTkEtemk5MEF3OFJrV2ptNzBYa3RWM1V3eVJCSFJZMDFHaUdTdWtPUmd0bnludUl0X25CelpJZTY5VmxiamtpMkdtTWF1UXJwZS1Hc011Z1lvUGV5bXFrV2RWZjlnODRSRWc4dmxESDdramswcThNSmc3dm56UlM3c29fOTR6LTE0NHJHMlA5SmF3?oc=5)
+### [Bluthochdruck: 20 Millionen Deutsche betroffen – Heimmonitoring senkt Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
 
 2026-06-18 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQckpUOHhSWHNLRE5vZ0JwMzdpYnZSX3ljc1FTYkFFbU9mbzZmUlNWVHlzM2MwTkEtemk5MEF3OFJrV2ptNzBYa3RWM1V3eVJCSFJZMDFHaUdTdWtPUmd0bnludUl0X25CelpJZTY5VmxiamtpMkdtTWF1UXJwZS1Hc011Z1lvUGV5bXFrV2RWZjlnODRSRWc4dmxESDdramswcThNSmc3dm56UlM3c29fOTR6LTE0NHJHMlA5SmF3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [El hábito semanal de dos horas que salva a las mujeres del infarto - Libertad Digital](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTZjcXB1SlN4VjN6Ukw1c3N0eEhuZ2lzOGphZDlFaG5zMnJDTm5kc0pwSlJkdW5DTGNPQVRSVW5Fa1RqNmsxa081a2cxclFHSmN0S1FjdVJQQmRvRjNDRDZhOUVjVGJlcGprTHpzYzNvU1JacnVCbUh6OTVYTWFsOEg2dWhFUm9YRGhaSldkRjAzSDdJVUZ2WC1nUFZ0cEEtTFpaZmJmVkN5cmpqb0F6S01YVGhpTGxXQnVkSkxCa29VcmRrZ2x3Y3BicFR0TzV2bzJJV2l5cFBSY1XSAeYBQVVfeXFMT09CQTBkaWVodWg5WXlsWEhkbUxITmx0dXlTTDYwVDlTdUhXN3Z3MVgzWDlxTzl1eHZrMnkwektlU0JWQzRwZ2JJcmZPaklROXJKc3N3VklwVEFpRDdZSVFlZ1N6aGFVRjVJWWpnZ0hvSlBlQ2xIQzZCaV9xcUVtU2tSaUs5dXh6dEEzYW1CRGRmODFvRFBtVUtxQkF2RzdrSzEtNENVQkVfZzVnR1d6Tm1XN2J4X3FsYVNsYUNaUmxUUTZOZ05fX2NqbXJZM1dZS2tnVlFpcU5lYXpCVnY3bV8zRXJOZnc?oc=5)
+### [Les 2 aliments parfaits en salade quand il fait chaud : ils évitent les pics de tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
 
-2026-06-17 <span class="news-indication-tag">ictus</span>
+2026-06-18 <span class="news-indication-tag">hypertension</span>
 
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTZjcXB1SlN4VjN6Ukw1c3N0eEhuZ2lzOGphZDlFaG5zMnJDTm5kc0pwSlJkdW5DTGNPQVRSVW5Fa1RqNmsxa081a2cxclFHSmN0S1FjdVJQQmRvRjNDRDZhOUVjVGJlcGprTHpzYzNvU1JacnVCbUh6OTVYTWFsOEg2dWhFUm9YRGhaSldkRjAzSDdJVUZ2WC1nUFZ0cEEtTFpaZmJmVkN5cmpqb0F6S01YVGhpTGxXQnVkSkxCa29VcmRrZ2x3Y3BicFR0TzV2bzJJV2l5cFBSY1XSAeYBQVVfeXFMT09CQTBkaWVodWg5WXlsWEhkbUxITmx0dXlTTDYwVDlTdUhXN3Z3MVgzWDlxTzl1eHZrMnkwektlU0JWQzRwZ2JJcmZPaklROXJKc3N3VklwVEFpRDdZSVFlZ1N6aGFVRjVJWWpnZ0hvSlBlQ2xIQzZCaV9xcUVtU2tSaUs5dXh6dEEzYW1CRGRmODFvRFBtVUtxQkF2RzdrSzEtNENVQkVfZzVnR1d6Tm1XN2J4X3FsYVNsYUNaUmxUUTZOZ05fX2NqbXJZM1dZS2tnVlFpcU5lYXpCVnY3bV8zRXJOZnc?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWJRWkF5b3h0VDA3Ti1CWDNiLU0weDBLUkt1QnpVS3NtOWZPbHZhckY2aVNVejYyVjJoV0xXcUNwM0l3bG5OU1RiZU5PT0hIb0RIZ1JoTzkzQ1Bna3RicVEyX21xZ0R2QkV0UElnZ0o5Q01mWUh1eEMxSWdoM0c4d1FRU2trOWdCWXZ6alIwZXM3TDk2aWFYMmpmZ19QQ2pMZDk1RnVKbTVLaXN4RGxGTWhaUVlVNWVQMTJwWjZQbkx3OGxWamxnZmV1c3huU1lMWlE?oc=5)
 
 ---
 
