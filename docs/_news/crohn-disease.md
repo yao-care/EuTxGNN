@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Morbus Crohn: IL-10-Mangel durch HLA-DRB1*01:03 entschlüsselt - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
+### [Morbus Crohn: Genetischer Defekt erklärt IL-10-Mangel und Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVFoYk0wQ2ZhbUpMVUxCa21vV2gwTHhiaFAzZjJqdXFKMk9uVGo2WWJ1QWd2YW9VYjNpTjFKc1ZvMFR5VVlQSmFHZzkwWVNIaEVybkduazJNQjdxc3ZQVFZ3TDVURUFKTDJ5dzhYbm1zeWpILVBrUWVSNnFUbkdjQkprVnhNWktsNVdoamIwSUpyTnFkTTlaTVBGdDBEZVFudFpqQzd4WjdSWDdWSHdLUFFnbFdLenZUS29TdA?oc=5)
 
 2026-06-19
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVFoYk0wQ2ZhbUpMVUxCa21vV2gwTHhiaFAzZjJqdXFKMk9uVGo2WWJ1QWd2YW9VYjNpTjFKc1ZvMFR5VVlQSmFHZzkwWVNIaEVybkduazJNQjdxc3ZQVFZ3TDVURUFKTDJ5dzhYbm1zeWpILVBrUWVSNnFUbkdjQkprVnhNWktsNVdoamIwSUpyTnFkTTlaTVBGdDBEZVFudFpqQzd4WjdSWDdWSHdLUFFnbFdLenZUS29TdA?oc=5)
 
 ---
 

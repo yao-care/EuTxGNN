@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### ['It's pure joy' - How silent discos can transform dementia care](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GNEhJcnBpb1o2RG1yZnNlRHFYR3dzdHczMjVRZ0dsV3pxN1ROcUpQbGpKNWJ5SS1WNV9IRzF3S2dsZG5lVU0yckVFQlFXbnVydzVNenM1UENxcWhP?oc=5)
+
+2026-06-20 <span class="news-indication-tag">dementia</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GNEhJcnBpb1o2RG1yZnNlRHFYR3dzdHczMjVRZ0dsV3pxN1ROcUpQbGpKNWJ5SS1WNV9IRzF3S2dsZG5lVU0yckVFQlFXbnVydzVNenM1UENxcWhP?oc=5)
+
+---
+
+### [Coffee’s Hidden Power: How It Secretly Reshapes Your Gut for the Better - Škoda We Love Cycling](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmhKZUMxN1Y3TmJKUWVPWkUyb2h6d05GX3JOUDJvZ1pGU0x1UnNmMEhnN3ZWcUxOQ1M3blJFRjRQcnZKWHhjVHFvcWZKcHVJVTNxNmxzYzZkaGpOVkhrOGZ2d3dpbVlES2ZJLVRBbml0VVN0Vzh6SXpfVmZhbXZ5Vk52dmtXalpRMlBtZDFSenkxOU9a?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[Škoda We Love Cycling](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmhKZUMxN1Y3TmJKUWVPWkUyb2h6d05GX3JOUDJvZ1pGU0x1UnNmMEhnN3ZWcUxOQ1M3blJFRjRQcnZKWHhjVHFvcWZKcHVJVTNxNmxzYzZkaGpOVkhrOGZ2d3dpbVlES2ZJLVRBbml0VVN0Vzh6SXpfVmZhbXZ5Vk52dmtXalpRMlBtZDFSenkxOU9a?oc=5)
+
+---
 
 
 <div class="disclaimer">

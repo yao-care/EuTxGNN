@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abacavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Hepatitis Delta: alertan del riesgo de cáncer hepático y urgen a diagnosticar y tratar antes la enfermedad - Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/abacavir/
 
 ---
 
-### [Sanidad da por controlado el brote de hepatitis A detectado en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
+### [Nuevo tratamiento de la Hepatitis B con Bepirovirsen - Clínica FEHV](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2xzNXVjckQ5a0VqVzZGWUE3elhBS25XQmlKekhkS1F5cWpGeWtBWmxDZzBuMTBQUWgzZXhhUUtCTFBER29UZDEyTXZzREw1TDhIRXVHbC1kQllWT0Z3eEZpazVxZkNtc3pIaQ?oc=5)
 
-2026-06-19 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-06-18 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Canarias7](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
+來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2xzNXVjckQ5a0VqVzZGWUE3elhBS25XQmlKekhkS1F5cWpGeWtBWmxDZzBuMTBQUWgzZXhhUUtCTFBER29UZDEyTXZzREw1TDhIRXVHbC1kQllWT0Z3eEZpazVxZkNtc3pIaQ?oc=5)
+
+---
+
+### [Sanidad notifica un brote de hepatitis A que afecta a seis personas en Gran Canaria - Radio Faro del Noroeste](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JldjJqeXhJSXdZSUZKdHpTNm05THlod0U5M0dxaERXeUtpMlFNQXpYUXJDSjRCLXJMTFRPZWhwb3FXOGJxQmF6MjNNMFExTlBQU2tTdXZUYU1MdE9idlhDc1lWUmxKNm02RVBNTGpQMkdWNEVVd2xJMEVGR0dMcHZuZnpLWVVHYm1ySHR6LWNwTVVHeWN5bmNSMldScS14OXZZMzVHeDM0VFowbTRBR2FpSnhyYnpHMTdiTUpTSS1aRUNrd3BnOUphUjVJLVBpelZFOGhTSFFCMUlRWVJPY1JVYm11QQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Radio Faro del Noroeste](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JldjJqeXhJSXdZSUZKdHpTNm05THlod0U5M0dxaERXeUtpMlFNQXpYUXJDSjRCLXJMTFRPZWhwb3FXOGJxQmF6MjNNMFExTlBQU2tTdXZUYU1MdE9idlhDc1lWUmxKNm02RVBNTGpQMkdWNEVVd2xJMEVGR0dMcHZuZnpLWVVHYm1ySHR6LWNwTVVHeWN5bmNSMldScS14OXZZMzVHeDM0VFowbTRBR2FpSnhyYnpHMTdiTUpTSS1aRUNrd3BnOUphUjVJLVBpelZFOGhTSFFCMUlRWVJPY1JVYm11QQ?oc=5)
 
 ---
 

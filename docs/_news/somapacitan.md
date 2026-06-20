@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
 
-### [Prädiabetes: Rückkehr zu normalen Werten senkt Krebsrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlQ3bzR3eHUzNzhRMnNzZFhDNzllYXBDeW55eVNKT1lzcDhZcWpHRG9oM1Yzcm4xcVRfdW5LNEdvWGQ3dmwzaDAxSWpxYXZYczZnaF9CeFg3WDk5dGVBemJtQThHdlpoajc1OXVnbEFlcGZuQXZkUHR1d1o5UWdqZUc1M3BSQjdWaUZkVnNLQ0VIYzlGZzQtLUNTZTh1bVl6NERQamtWak1jYnBhNGJsVTFOcDFsN05x?oc=5)
+### [Prädiabetes: Normalisierter Blutzucker senkt Herzinfarkt-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnE0YUEzVDd3VUNfUWNEal9scml3allaS3NqY0JUbXRQVmdneHpxTm1hcTgtazQtUVg4VGFrb3ZmRXVhVlVkS2FtQUhxa2QzekljbmF3SndLd29WOWZiQmFGWTdsWUYxdDE0ZE40bW0zSERULV96U1phV2ZVTThRZFFoYWlrRldtSnpWNTVua3puWFNxWFd1cVlMWC1lNzVsSEZTTkQtRTkzMk5pMVA5UmNvV192NEoxVXc?oc=5)
 
-2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdlQ3bzR3eHUzNzhRMnNzZFhDNzllYXBDeW55eVNKT1lzcDhZcWpHRG9oM1Yzcm4xcVRfdW5LNEdvWGQ3dmwzaDAxSWpxYXZYczZnaF9CeFg3WDk5dGVBemJtQThHdlpoajc1OXVnbEFlcGZuQXZkUHR1d1o5UWdqZUc1M3BSQjdWaUZkVnNLQ0VIYzlGZzQtLUNTZTh1bVl6NERQamtWak1jYnBhNGJsVTFOcDFsN05x?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnE0YUEzVDd3VUNfUWNEal9scml3allaS3NqY0JUbXRQVmdneHpxTm1hcTgtazQtUVg4VGFrb3ZmRXVhVlVkS2FtQUhxa2QzekljbmF3SndLd29WOWZiQmFGWTdsWUYxdDE0ZE40bW0zSERULV96U1phV2ZVTThRZFFoYWlrRldtSnpWNTVua3puWFNxWFd1cVlMWC1lNzVsSEZTTkQtRTkzMk5pMVA5UmNvV192NEoxVXc?oc=5)
+
+---
+
+### [Castilla y León impulsa una base de datos de riesgo cardiovascular para mejorar las estrategias de prevención en salud pública | Comunicación - Junta de Castilla y León](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVZYdElPRzhyRmlqYk9oaGhVZVNUcWF2R0hmU2tpS2xCZ19ieW5fMFpJc3JTTTBlSm94dmFGdlNRMzlsUmt0enhiTFBndXJETV9BMUNEaWFyRGFweFJrbzVyeERPYWVnZTh1eWNva1J2OC05VGRrRXc5UU5tNUdqSlNHS3hpVEF2YkJubWZuWG9hWVpKWElFUGdQcnZ6eTBlZGFIZ290RGJoQTJfV3hhMnBwWVNoR2ZpZFducklxTVdnaW8?oc=5)
+
+2026-06-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Junta de Castilla y León](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVZYdElPRzhyRmlqYk9oaGhVZVNUcWF2R0hmU2tpS2xCZ19ieW5fMFpJc3JTTTBlSm94dmFGdlNRMzlsUmt0enhiTFBndXJETV9BMUNEaWFyRGFweFJrbzVyeERPYWVnZTh1eWNva1J2OC05VGRrRXc5UU5tNUdqSlNHS3hpVEF2YkJubWZuWG9hWVpKWElFUGdQcnZ6eTBlZGFIZ290RGJoQTJfV3hhMnBwWVNoR2ZpZFducklxTVdnaW8?oc=5)
+
+---
+
+### [From birth defects to arthritis and asthma - the cleaning products harming your family’s health, experts warn - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
+
+2026-06-20 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
+
+---
+
+### [Cuidar las encías puede ayudar a controlar la diabetes tanto como un segundo fármaco](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzM1ZEVoZXlTLXBGMjBxQXV3VV9UVjR2aHVrOFhMTWRmbERtSnZZTDZTekRCSC10d09Cd1J6Z2cwX19vbmE2ZFBWdkNmLUQ0QUJYWnRvYkdIeXZweEhaVWRmSHhiQ0p6eWlHV3R0YlhiZ2pUbHNxdDM4SjV1Y2V6X3d4eXlaaUIwTEhnZ0ZmUDJqd9IBkgFBVV95cUxOMGRYQjBNU3hYdHRsS0lZT3VVNHRWRFdWZlE1bDJPQktHN242REo1RHlLNnlRaDRWM21ZTzhiZGhuRG1WN3NGX2tYZDJjeFE4c2R1cFpycHk4eDZsVzhneVpLOEhvQmtxWmMwT2NaelNGV2YzV1B6NE5zSS1INmNOakcyaWJfNHZtNlN3aFRyTnNwdw?oc=5)
+
+2026-06-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[SPORT](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzM1ZEVoZXlTLXBGMjBxQXV3VV9UVjR2aHVrOFhMTWRmbERtSnZZTDZTekRCSC10d09Cd1J6Z2cwX19vbmE2ZFBWdkNmLUQ0QUJYWnRvYkdIeXZweEhaVWRmSHhiQ0p6eWlHV3R0YlhiZ2pUbHNxdDM4SjV1Y2V6X3d4eXlaaUIwTEhnZ0ZmUDJqd9IBkgFBVV95cUxOMGRYQjBNU3hYdHRsS0lZT3VVNHRWRFdWZlE1bDJPQktHN242REo1RHlLNnlRaDRWM21ZTzhiZGhuRG1WN3NGX2tYZDJjeFE4c2R1cFpycHk4eDZsVzhneVpLOEhvQmtxWmMwT2NaelNGV2YzV1B6NE5zSS1INmNOakcyaWJfNHZtNlN3aFRyTnNwdw?oc=5)
 
 ---
 
@@ -67,14 +91,6 @@ permalink: /news/somapacitan/
 2026-06-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdC04QW5YSFVVZ0puaFVaUllzX1l5ZGtsRWJPb2x5UnhiLW9tVVRRR2QySlgxbEpqbjM3bnh4b3VFdHFzTG15UXlpcTFCeThvRE5BTnA1TVJmVkk5YnJtUm1oR0dBY1dzSjlINUtLLV9TdmdlLWtXY3JxM05IWHA4N3pCZ3BmcTl6QjhVckpqNmRReWNOT2lybEgzS3ZrUzNzNjlhLTk5RnBfR29ib1JOLThFNjNjZWJrVVE?oc=5)
-
----
-
-### [GNW-News: Professor Mohamed Shamji übernimmt EAACI-Präsidentschaft zum Abschluss des Kongresses 2026 in Istanbul - boerse.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTWpHSWNkSVJreXJTRkFuQVpEQWhCMnpwSEV4WTJ5VG9Qaml2bVIwSEVHanFJX0laNFNsT3V2eG92SEdwYWpDNXNGbjlNOE1kSkRoWWdWRTd3YUhDaHAwWjBPVUtpOG0zQlJ6TFMzMkxwRmszNkxYRTlSeXV0V1lGTmxMYTRpcXV1UTFBSjFUOENnd3c4cmtuNy01emJxYmZvckQ5NVZWTHgyQ1JZZHB2MXNPRlJyS2oyVWtBRkFuUDVVSnNRZHh6YWlHRDZTNUpIRFFjN2lQMzNUWlI1aUlkNFQxQ3FhUlRkYVRnYdIB8gFBVV95cUxPYWlXWTdpV3hEVnd4MGxkSFd6QjE0emVZVVFtc29fN3JRX0xUS21zUFpTdjJpc2g5OFBYcllhVTRtaEx2QXJjUEtSd0hOZmZjbWIwbzktQmtCQjl3YjlXVGxOM3YzbnJZZVFGRlN5VzkwY0NGbm9sdWpfVDd2Y0ZVb1E2bWI0TjNTSXlWVVYwSmZjeVU1SFM2TlRIQm9PNGlXUmozT2hfdWl2WndzUWNJOWNmV3ZDb2lzc2dQamRnYUkxUm1BWkFWdEIxZDY4cjhSRXQza0d1LWlncW4tXzgzekFrUl8teWdIeTQzUGNGeDJsUQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
-
-來源：[boerse.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTWpHSWNkSVJreXJTRkFuQVpEQWhCMnpwSEV4WTJ5VG9Qaml2bVIwSEVHanFJX0laNFNsT3V2eG92SEdwYWpDNXNGbjlNOE1kSkRoWWdWRTd3YUhDaHAwWjBPVUtpOG0zQlJ6TFMzMkxwRmszNkxYRTlSeXV0V1lGTmxMYTRpcXV1UTFBSjFUOENnd3c4cmtuNy01emJxYmZvckQ5NVZWTHgyQ1JZZHB2MXNPRlJyS2oyVWtBRkFuUDVVSnNRZHh6YWlHRDZTNUpIRFFjN2lQMzNUWlI1aUlkNFQxQ3FhUlRkYVRnYdIB8gFBVV95cUxPYWlXWTdpV3hEVnd4MGxkSFd6QjE0emVZVVFtc29fN3JRX0xUS21zUFpTdjJpc2g5OFBYcllhVTRtaEx2QXJjUEtSd0hOZmZjbWIwbzktQmtCQjl3YjlXVGxOM3YzbnJZZVFGRlN5VzkwY0NGbm9sdWpfVDd2Y0ZVb1E2bWI0TjNTSXlWVVYwSmZjeVU1SFM2TlRIQm9PNGlXUmozT2hfdWl2WndzUWNJOWNmV3ZDb2lzc2dQamRnYUkxUm1BWkFWdEIxZDY4cjhSRXQza0d1LWlncW4tXzgzekFrUl8teWdIeTQzUGNGeDJsUQ?oc=5)
 
 ---
 
@@ -102,6 +118,14 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Coffee’s Hidden Power: How It Secretly Reshapes Your Gut for the Better - Škoda We Love Cycling](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmhKZUMxN1Y3TmJKUWVPWkUyb2h6d05GX3JOUDJvZ1pGU0x1UnNmMEhnN3ZWcUxOQ1M3blJFRjRQcnZKWHhjVHFvcWZKcHVJVTNxNmxzYzZkaGpOVkhrOGZ2d3dpbVlES2ZJLVRBbml0VVN0Vzh6SXpfVmZhbXZ5Vk52dmtXalpRMlBtZDFSenkxOU9a?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[Škoda We Love Cycling](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmhKZUMxN1Y3TmJKUWVPWkUyb2h6d05GX3JOUDJvZ1pGU0x1UnNmMEhnN3ZWcUxOQ1M3blJFRjRQcnZKWHhjVHFvcWZKcHVJVTNxNmxzYzZkaGpOVkhrOGZ2d3dpbVlES2ZJLVRBbml0VVN0Vzh6SXpfVmZhbXZ5Vk52dmtXalpRMlBtZDFSenkxOU9a?oc=5)
+
+---
+
 ### [Expertos exigen al Senado impulsar la detección precoz universal de Diabetes Tipo 1](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJmUVpNR1RFMXJfeVl0SDhRc0x4QXJtWEsyWS1CeU9iS3RUUk9LdktzcGdUODV4cmNYc09sYU95MHJsTWtyQXFwaG51cG9KVVJ6NUxDWURMSUdvc0FTX0piZjRHV2pSZkVhT09IbWtwWFlFZG5VYTlxSThCa000RzN6QlZETVhhYk9lTzNyMkJITHBMb2FGcnNwdjBfTy1PUzd6ZzF6bllYT09iSERGY1ZyNzB1RmcwYkE?oc=5)
 
 2026-06-19 <span class="news-indication-tag">diabetes</span>
@@ -123,14 +147,6 @@ permalink: /news/somapacitan/
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
-
----
-
-### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
 ---
 

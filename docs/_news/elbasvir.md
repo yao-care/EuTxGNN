@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
 2026-06-20 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
+
+---
+
+### [Osteoporose: Calcium + Vitamin D senken Hüftfraktur-Risiko um 16% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUM5bFJKcC1rQUZWZXFzQ1dfTDhYRWVxZnloTG5VU052YzhKdkZ4SG1kbjlEbk5vaGVHNkZEVzJBNlEzemM1OE5PZnVRRXpPUEFjX0NQUm12dktRNUIxYzFVOTd0dXo3R0RqcFpuU09oal9mY19EVHhOTWdHdHJUdUlpR2pFQ1VBcU5NN2tXTmpHR0pmYzByd0ZVM1pDeEd0U3dzN3FFZ3h3YkN5M296N3pkUjh1M3lVYXg4?oc=5)
+
+2026-06-20 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUM5bFJKcC1rQUZWZXFzQ1dfTDhYRWVxZnloTG5VU052YzhKdkZ4SG1kbjlEbk5vaGVHNkZEVzJBNlEzemM1OE5PZnVRRXpPUEFjX0NQUm12dktRNUIxYzFVOTd0dXo3R0RqcFpuU09oal9mY19EVHhOTWdHdHJUdUlpR2pFQ1VBcU5NN2tXTmpHR0pmYzByd0ZVM1pDeEd0U3dzN3FFZ3h3YkN5M296N3pkUjh1M3lVYXg4?oc=5)
 
 ---
 
@@ -78,22 +86,6 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Oms: "L'Ebola si sta evolvendo molto velocemente nell'est del Congo"](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWpTUjIzSE9Pa19ROHU1MnFfU2dxZE1iQkxWQVRicWNVS1JIVC13a1JZV0FsNWp3Y05oc2l2Vm44a3FVMU9zSjZRZHZDdUVSeXFwNGNiS1pGVG9VT00zNTktODJJN0dKeF9fOGQ2emxKZER3czlOTVN5RHZtSDBhR0hJRi1tcE5leVVUTGdFcG9nbUlNSEpVUl91WGNubmE2d29VSmxtOGVvM25wb1hadTNnS1R4MlNKdWk0TnBUMXdsM3NIaldZ0gFoQVVfeXFMUFNVUFJ6YWEwWEw3MmlXNExtNFFHRlAzWkxoMXVmYlA3dF9iOTlEXzVIM3pfMHRMV0ppV25WU2RfMi1DVG51QVM3YmwzNTE5R0t6MFlVbWtOTThLeEV2NXpFMUkzbVZaQVI?oc=5)
-
-2026-06-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWpTUjIzSE9Pa19ROHU1MnFfU2dxZE1iQkxWQVRicWNVS1JIVC13a1JZV0FsNWp3Y05oc2l2Vm44a3FVMU9zSjZRZHZDdUVSeXFwNGNiS1pGVG9VT00zNTktODJJN0dKeF9fOGQ2emxKZER3czlOTVN5RHZtSDBhR0hJRi1tcE5leVVUTGdFcG9nbUlNSEpVUl91WGNubmE2d29VSmxtOGVvM25wb1hadTNnS1R4MlNKdWk0TnBUMXdsM3NIaldZ0gFoQVVfeXFMUFNVUFJ6YWEwWEw3MmlXNExtNFFHRlAzWkxoMXVmYlA3dF9iOTlEXzVIM3pfMHRMV0ppV25WU2RfMi1DVG51QVM3YmwzNTE5R0t6MFlVbWtOTThLeEV2NXpFMUkzbVZaQVI?oc=5)
-
----
-
-### [The #3 Cause of Cancer Deaths Is Rising Fast, But 60% of Cases May Be Preventable](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FaNXo0bXNYUEJiQ25HVUtVVXhsdDJkYklqYTJvR3NMUEdXLXdXMGNnZGhHVjFBbmcyMEVacTRMb3UwT1VCZ3EzXzAxSFM5MENqSmxVQk5aYlVzR2wzVEs0MU5XZkVDRmZRNFFLLVpSRlRpSmk1NjRrUkRfdnNBRG9Na0pTUF9pQWdwaTRwa2todWVKa0RZa2dhRHpEUzVxOGhpb0lEYkdZaEk?oc=5)
-
-2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FaNXo0bXNYUEJiQ25HVUtVVXhsdDJkYklqYTJvR3NMUEdXLXdXMGNnZGhHVjFBbmcyMEVacTRMb3UwT1VCZ3EzXzAxSFM5MENqSmxVQk5aYlVzR2wzVEs0MU5XZkVDRmZRNFFLLVpSRlRpSmk1NjRrUkRfdnNBRG9Na0pTUF9pQWdwaTRwa2todWVKa0RZa2dhRHpEUzVxOGhpb0lEYkdZaEk?oc=5)
-
----
-
 ### [Sclerosi multipla, i 2 batteri intestinali che innescano la malattia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0NWOVR3XzY1OGNmSTQxTVJOc2dkb3FZV3BBeTdFVWVSSlBiNk5UZWY1RDdpREJ2S0UwRGRid0xibWVPOXVGQUtFN1VUWndQb3pQOUNmTzZYaHVydkVtRXZjMklhaWl5QjJucXVJVHhUMm9LZVMwNG45SXF4Rl85YUxtSF83QWFXODZQQ190cHlEWkgxZlBHOEVsUldUUWxyTmNHa3lRUDFmYll6U1d3eEZHWmNCU3RfcEZlT2IxbkdzcUXSAccBQVVfeXFMUEtGMmlycDlQUTNYaVZjQkVyemZTLXVXZmJlOEUyc3pzOUJjY2I0OV9JeF9nSUQ1OEdkbHloUFFub2hHUExPbnhOaGtMV3phVHpKc1dVWjJ0T0d1c0ZCRkxucXJVMlBrcDk1TEVveFRnd3pkOWdHNWRncnN1NVlaS3JEbk5hQWd1eGhPUlctcmhCcmw2ZENGRUotb1ZRRkFHaWRwd1R2WDNKMzdRMzdtYUJFdzlWaEhSUEtEanV1ZER5OFZzbGlTRQ?oc=5)
 
 2026-06-19 <span class="news-indication-tag">sclerosi multipla</span>
@@ -107,22 +99,6 @@ permalink: /news/elbasvir/
 2026-06-19 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
-
----
-
-### [Osteoporose: Calcium und Bewegung senken Hüftbruch-Risiko um 16% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkVMUnJkTDVfS042MXhmZ1RrV3BKOEpTWmF4YzAxcGN0LWNSYU5jRHlUNVdDbXE0WVdQOWtVeW1nX19hOFp0SVRaVG0wUWZlZEpfZ3lIUGx3TXh6dzlKd1lyTzZwQXZpSDR3T3BZZDFoTWpPOE43NFczWmlKMk9hMkhmZVhVN2paTm9NOWw1aVNNN3ZJS0c3WUdGWVFQQnlUX2gxNENjT2RBUTdMV2c2Y0I2LWRiYW56Q0NKcw?oc=5)
-
-2026-06-19 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkVMUnJkTDVfS042MXhmZ1RrV3BKOEpTWmF4YzAxcGN0LWNSYU5jRHlUNVdDbXE0WVdQOWtVeW1nX19hOFp0SVRaVG0wUWZlZEpfZ3lIUGx3TXh6dzlKd1lyTzZwQXZpSDR3T3BZZDFoTWpPOE43NFczWmlKMk9hMkhmZVhVN2paTm9NOWw1aVNNN3ZJS0c3WUdGWVFQQnlUX2gxNENjT2RBUTdMV2c2Y0I2LWRiYW56Q0NKcw?oc=5)
-
----
-
-### [Sanidad da por controlado el brote de hepatitis A detectado en una escuela infantil de Gran Canaria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
-
-2026-06-19 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Canarias7](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2Y0ak84OVRBOVNqc3Y1dWxSZ055X2hicVlkVi15UWhBV01WYVlBSVNWN2UtTjZoT21WSHVad1NxM1BoeUZpN2N1b3ZOSnFWQlhqTWVoNFk3UkUtSXRocTAwa1prUnhpVHoxNG5rRUp3ZnRVcTlja0RFVHJoODlseUFwUUJFbk1OQ202Z09ONXNuUlRWbTVNR1E2M2NmMENFU0tSWWZiNjdDM1RaX0k3dDVqZmxXV3BqMFVtcUhHLW9lUdIBxwFBVV95cUxQLUVBd0tNS3MyR19Ha0duVnV6d1hZV1FtVmV5R196RW1vZGRiVS14Z1hteUtnbVlpU0pTSjExQTAwbU5sN2RVd1BGMXBvbUMtS1o5MmJIRk5WMi1WbjdWWUExVEZWM05xQlJmSDFYQ2lVazlLWTNpSTdFeDhXbXlES3k0WVctTFgxRHhVci1oZ1ZoMFNpaW95bFUyMUhhaDI0cjBTNmd2VDRaRWlpR01yWWhWOVBfM3NOMm10b3lyamh4XzRONnVn?oc=5)
 
 ---
 
@@ -150,11 +126,27 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Early miscarriage may be linked to walking, standing and certain working postures, study claims - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcE42TEZjYlh3S0c3MWVhMHVMczQzaGg5T2FiakJTMkU0VDVfTjhnNE1pYWhjc3dNaHFxLTFWSUt4VWc4U0NQS1k2ZW1aMmhYQW9kRVVmZVVWSm9FcjEzb0w3VkhQMDd2VDlwMlpYcVJwWUFlVm4xMXg3UXBmakJvUUlZLVVzOHRmdFNZQkNWRWNmdVlS?oc=5)
+### [Nuevo tratamiento de la Hepatitis B con Bepirovirsen - Clínica FEHV](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2xzNXVjckQ5a0VqVzZGWUE3elhBS25XQmlKekhkS1F5cWpGeWtBWmxDZzBuMTBQUWgzZXhhUUtCTFBER29UZDEyTXZzREw1TDhIRXVHbC1kQllWT0Z3eEZpazVxZkNtc3pIaQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2xzNXVjckQ5a0VqVzZGWUE3elhBS25XQmlKekhkS1F5cWpGeWtBWmxDZzBuMTBQUWgzZXhhUUtCTFBER29UZDEyTXZzREw1TDhIRXVHbC1kQllWT0Z3eEZpazVxZkNtc3pIaQ?oc=5)
+
+---
+
+### [Sanidad notifica un brote de hepatitis A que afecta a seis personas en Gran Canaria - Radio Faro del Noroeste](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JldjJqeXhJSXdZSUZKdHpTNm05THlod0U5M0dxaERXeUtpMlFNQXpYUXJDSjRCLXJMTFRPZWhwb3FXOGJxQmF6MjNNMFExTlBQU2tTdXZUYU1MdE9idlhDc1lWUmxKNm02RVBNTGpQMkdWNEVVd2xJMEVGR0dMcHZuZnpLWVVHYm1ySHR6LWNwTVVHeWN5bmNSMldScS14OXZZMzVHeDM0VFowbTRBR2FpSnhyYnpHMTdiTUpTSS1aRUNrd3BnOUphUjVJLVBpelZFOGhTSFFCMUlRWVJPY1JVYm11QQ?oc=5)
+
+2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Radio Faro del Noroeste](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JldjJqeXhJSXdZSUZKdHpTNm05THlod0U5M0dxaERXeUtpMlFNQXpYUXJDSjRCLXJMTFRPZWhwb3FXOGJxQmF6MjNNMFExTlBQU2tTdXZUYU1MdE9idlhDc1lWUmxKNm02RVBNTGpQMkdWNEVVd2xJMEVGR0dMcHZuZnpLWVVHYm1ySHR6LWNwTVVHeWN5bmNSMldScS14OXZZMzVHeDM0VFowbTRBR2FpSnhyYnpHMTdiTUpTSS1aRUNrd3BnOUphUjVJLVBpelZFOGhTSFFCMUlRWVJPY1JVYm11QQ?oc=5)
+
+---
+
+### [MSD impulsa la excelencia científica en Oncología con HorizON - Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcE42TEZjYlh3S0c3MWVhMHVMczQzaGg5T2FiakJTMkU0VDVfTjhnNE1pYWhjc3dNaHFxLTFWSUt4VWc4U0NQS1k2ZW1aMmhYQW9kRVVmZVVWSm9FcjEzb0w3VkhQMDd2VDlwMlpYcVJwWUFlVm4xMXg3UXBmakJvUUlZLVVzOHRmdFNZQkNWRWNmdVlS?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
 
 ---
 

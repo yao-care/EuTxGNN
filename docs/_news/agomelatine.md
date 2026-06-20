@@ -54,19 +54,19 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（2 則）
 
+### [Depression: Weniger als 5 Mahlzeiten pro Woche erhöht Risiko um 55% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkxsRmVpRS05a01HcHFUcHhJSE5IbkFpUFp1azJnU01XUEZhQ1lhMks2MDZ2b0hYeTJEZU5wSHgyNVZmZ2ZEb1Awa3RVN2dpNGJnY21TYk1HT3RrSk5IcWl2WHBFS00ybU1BOHNUNGotYjJ5VTl3T0RkMV9VY2Rpc2MxYkxUUVVnV3YzTHlnRUlHX0hrQjkyTHFMMTQ1YkVGcjNSSkwzZEVDTU1HOVZmN2NVMmU4Zw?oc=5)
+
+2026-06-20 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkxsRmVpRS05a01HcHFUcHhJSE5IbkFpUFp1azJnU01XUEZhQ1lhMks2MDZ2b0hYeTJEZU5wSHgyNVZmZ2ZEb1Awa3RVN2dpNGJnY21TYk1HT3RrSk5IcWl2WHBFS00ybU1BOHNUNGotYjJ5VTl3T0RkMV9VY2Rpc2MxYkxUUVVnV3YzTHlnRUlHX0hrQjkyTHFMMTQ1YkVGcjNSSkwzZEVDTU1HOVZmN2NVMmU4Zw?oc=5)
+
+---
+
 ### [Mittel gegen Verstopfung hilft auch gegen bestimmte Depressionssymptome](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmFFb0k1ODBYUHQxYW14dEFDU3RuQzI4UFJnX0JOSlpFRUtwbUFDVmhkbkhadzhKYXBnbG1hZVJvMXQ1dGNnQ1FDdDdyaWlhN2lQUTg1eU1jUTJTV0VBWW9BY2pPX0drbmF3X1RsVldjMXhDb2FTa1FwaXZwR3BLWnJDOXBDLVhVbDdYbHdySmRSQQ?oc=5)
 
 2026-06-19 <span class="news-indication-tag">depression</span>
 
 來源：[FITBOOK](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmFFb0k1ODBYUHQxYW14dEFDU3RuQzI4UFJnX0JOSlpFRUtwbUFDVmhkbkhadzhKYXBnbG1hZVJvMXQ1dGNnQ1FDdDdyaWlhN2lQUTg1eU1jUTJTV0VBWW9BY2pPX0drbmF3X1RsVldjMXhDb2FTa1FwaXZwR3BLWnJDOXBDLVhVbDdYbHdySmRSQQ?oc=5)
-
----
-
-### [Ernährung: Weniger als 5 Mahlzeiten pro Woche erhöht Depressionsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVZ3MVZxSVFmcUxMbkZXYTJ0Qm5xbVZmSTY2UEpqVmFGNThxZTdzTEZZMU85aDR6cnpkdHVkT0ViNXhZcGhjU3hJZlZkZkpKR0ZqVnZIS3JnblVsNTd2bWVSQy1GZU1obllNX1FnR3c3SGFZMTFJcV9sR3hHWGtJV1FJWk5VMWpyTlp3d2xxTklYNmlZUDhHVFE1MEd1Z2NuMDlzaHB5NzBsUS12OEhMQ0lzSjZkUlRYVURaMg?oc=5)
-
-2026-06-19 <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVZ3MVZxSVFmcUxMbkZXYTJ0Qm5xbVZmSTY2UEpqVmFGNThxZTdzTEZZMU85aDR6cnpkdHVkT0ViNXhZcGhjU3hJZlZkZkpKR0ZqVnZIS3JnblVsNTd2bWVSQy1GZU1obllNX1FnR3c3SGFZMTFJcV9sR3hHWGtJV1FJWk5VMWpyTlp3d2xxTklYNmlZUDhHVFE1MEd1Z2NuMDlzaHB5NzBsUS12OEhMQ0lzSjZkUlRYVURaMg?oc=5)
 
 ---
 

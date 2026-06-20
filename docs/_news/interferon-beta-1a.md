@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
 2026-06-20 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
+
+---
+
+### [Osteoporose: Calcium + Vitamin D senken Hüftfraktur-Risiko um 16% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUM5bFJKcC1rQUZWZXFzQ1dfTDhYRWVxZnloTG5VU052YzhKdkZ4SG1kbjlEbk5vaGVHNkZEVzJBNlEzemM1OE5PZnVRRXpPUEFjX0NQUm12dktRNUIxYzFVOTd0dXo3R0RqcFpuU09oal9mY19EVHhOTWdHdHJUdUlpR2pFQ1VBcU5NN2tXTmpHR0pmYzByd0ZVM1pDeEd0U3dzN3FFZ3h3YkN5M296N3pkUjh1M3lVYXg4?oc=5)
+
+2026-06-20 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUM5bFJKcC1rQUZWZXFzQ1dfTDhYRWVxZnloTG5VU052YzhKdkZ4SG1kbjlEbk5vaGVHNkZEVzJBNlEzemM1OE5PZnVRRXpPUEFjX0NQUm12dktRNUIxYzFVOTd0dXo3R0RqcFpuU09oal9mY19EVHhOTWdHdHJUdUlpR2pFQ1VBcU5NN2tXTmpHR0pmYzByd0ZVM1pDeEd0U3dzN3FFZ3h3YkN5M296N3pkUjh1M3lVYXg4?oc=5)
 
 ---
 
@@ -78,35 +86,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Oms: "L'Ebola si sta evolvendo molto velocemente nell'est del Congo"](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWpTUjIzSE9Pa19ROHU1MnFfU2dxZE1iQkxWQVRicWNVS1JIVC13a1JZV0FsNWp3Y05oc2l2Vm44a3FVMU9zSjZRZHZDdUVSeXFwNGNiS1pGVG9VT00zNTktODJJN0dKeF9fOGQ2emxKZER3czlOTVN5RHZtSDBhR0hJRi1tcE5leVVUTGdFcG9nbUlNSEpVUl91WGNubmE2d29VSmxtOGVvM25wb1hadTNnS1R4MlNKdWk0TnBUMXdsM3NIaldZ0gFoQVVfeXFMUFNVUFJ6YWEwWEw3MmlXNExtNFFHRlAzWkxoMXVmYlA3dF9iOTlEXzVIM3pfMHRMV0ppV25WU2RfMi1DVG51QVM3YmwzNTE5R0t6MFlVbWtOTThLeEV2NXpFMUkzbVZaQVI?oc=5)
-
-2026-06-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWpTUjIzSE9Pa19ROHU1MnFfU2dxZE1iQkxWQVRicWNVS1JIVC13a1JZV0FsNWp3Y05oc2l2Vm44a3FVMU9zSjZRZHZDdUVSeXFwNGNiS1pGVG9VT00zNTktODJJN0dKeF9fOGQ2emxKZER3czlOTVN5RHZtSDBhR0hJRi1tcE5leVVUTGdFcG9nbUlNSEpVUl91WGNubmE2d29VSmxtOGVvM25wb1hadTNnS1R4MlNKdWk0TnBUMXdsM3NIaldZ0gFoQVVfeXFMUFNVUFJ6YWEwWEw3MmlXNExtNFFHRlAzWkxoMXVmYlA3dF9iOTlEXzVIM3pfMHRMV0ppV25WU2RfMi1DVG51QVM3YmwzNTE5R0t6MFlVbWtOTThLeEV2NXpFMUkzbVZaQVI?oc=5)
-
----
-
-### [The #3 Cause of Cancer Deaths Is Rising Fast, But 60% of Cases May Be Preventable](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FaNXo0bXNYUEJiQ25HVUtVVXhsdDJkYklqYTJvR3NMUEdXLXdXMGNnZGhHVjFBbmcyMEVacTRMb3UwT1VCZ3EzXzAxSFM5MENqSmxVQk5aYlVzR2wzVEs0MU5XZkVDRmZRNFFLLVpSRlRpSmk1NjRrUkRfdnNBRG9Na0pTUF9pQWdwaTRwa2todWVKa0RZa2dhRHpEUzVxOGhpb0lEYkdZaEk?oc=5)
-
-2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FaNXo0bXNYUEJiQ25HVUtVVXhsdDJkYklqYTJvR3NMUEdXLXdXMGNnZGhHVjFBbmcyMEVacTRMb3UwT1VCZ3EzXzAxSFM5MENqSmxVQk5aYlVzR2wzVEs0MU5XZkVDRmZRNFFLLVpSRlRpSmk1NjRrUkRfdnNBRG9Na0pTUF9pQWdwaTRwa2todWVKa0RZa2dhRHpEUzVxOGhpb0lEYkdZaEk?oc=5)
-
----
-
 ### [Sclerosi multipla, i 2 batteri intestinali che innescano la malattia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0NWOVR3XzY1OGNmSTQxTVJOc2dkb3FZV3BBeTdFVWVSSlBiNk5UZWY1RDdpREJ2S0UwRGRid0xibWVPOXVGQUtFN1VUWndQb3pQOUNmTzZYaHVydkVtRXZjMklhaWl5QjJucXVJVHhUMm9LZVMwNG45SXF4Rl85YUxtSF83QWFXODZQQ190cHlEWkgxZlBHOEVsUldUUWxyTmNHa3lRUDFmYll6U1d3eEZHWmNCU3RfcEZlT2IxbkdzcUXSAccBQVVfeXFMUEtGMmlycDlQUTNYaVZjQkVyemZTLXVXZmJlOEUyc3pzOUJjY2I0OV9JeF9nSUQ1OEdkbHloUFFub2hHUExPbnhOaGtMV3phVHpKc1dVWjJ0T0d1c0ZCRkxucXJVMlBrcDk1TEVveFRnd3pkOWdHNWRncnN1NVlaS3JEbk5hQWd1eGhPUlctcmhCcmw2ZENGRUotb1ZRRkFHaWRwd1R2WDNKMzdRMzdtYUJFdzlWaEhSUEtEanV1ZER5OFZzbGlTRQ?oc=5)
 
 2026-06-19 <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0NWOVR3XzY1OGNmSTQxTVJOc2dkb3FZV3BBeTdFVWVSSlBiNk5UZWY1RDdpREJ2S0UwRGRid0xibWVPOXVGQUtFN1VUWndQb3pQOUNmTzZYaHVydkVtRXZjMklhaWl5QjJucXVJVHhUMm9LZVMwNG45SXF4Rl85YUxtSF83QWFXODZQQ190cHlEWkgxZlBHOEVsUldUUWxyTmNHa3lRUDFmYll6U1d3eEZHWmNCU3RfcEZlT2IxbkdzcUXSAccBQVVfeXFMUEtGMmlycDlQUTNYaVZjQkVyemZTLXVXZmJlOEUyc3pzOUJjY2I0OV9JeF9nSUQ1OEdkbHloUFFub2hHUExPbnhOaGtMV3phVHpKc1dVWjJ0T0d1c0ZCRkxucXJVMlBrcDk1TEVveFRnd3pkOWdHNWRncnN1NVlaS3JEbk5hQWd1eGhPUlctcmhCcmw2ZENGRUotb1ZRRkFHaWRwd1R2WDNKMzdRMzdtYUJFdzlWaEhSUEtEanV1ZER5OFZzbGlTRQ?oc=5)
-
----
-
-### [Osteoporose: Calcium und Bewegung senken Hüftbruch-Risiko um 16% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkVMUnJkTDVfS042MXhmZ1RrV3BKOEpTWmF4YzAxcGN0LWNSYU5jRHlUNVdDbXE0WVdQOWtVeW1nX19hOFp0SVRaVG0wUWZlZEpfZ3lIUGx3TXh6dzlKd1lyTzZwQXZpSDR3T3BZZDFoTWpPOE43NFczWmlKMk9hMkhmZVhVN2paTm9NOWw1aVNNN3ZJS0c3WUdGWVFQQnlUX2gxNENjT2RBUTdMV2c2Y0I2LWRiYW56Q0NKcw?oc=5)
-
-2026-06-19 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkVMUnJkTDVfS042MXhmZ1RrV3BKOEpTWmF4YzAxcGN0LWNSYU5jRHlUNVdDbXE0WVdQOWtVeW1nX19hOFp0SVRaVG0wUWZlZEpfZ3lIUGx3TXh6dzlKd1lyTzZwQXZpSDR3T3BZZDFoTWpPOE43NFczWmlKMk9hMkhmZVhVN2paTm9NOWw1aVNNN3ZJS0c3WUdGWVFQQnlUX2gxNENjT2RBUTdMV2c2Y0I2LWRiYW56Q0NKcw?oc=5)
 
 ---
 
@@ -134,11 +118,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Early miscarriage may be linked to walking, standing and certain working postures, study claims - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcE42TEZjYlh3S0c3MWVhMHVMczQzaGg5T2FiakJTMkU0VDVfTjhnNE1pYWhjc3dNaHFxLTFWSUt4VWc4U0NQS1k2ZW1aMmhYQW9kRVVmZVVWSm9FcjEzb0w3VkhQMDd2VDlwMlpYcVJwWUFlVm4xMXg3UXBmakJvUUlZLVVzOHRmdFNZQkNWRWNmdVlS?oc=5)
+### [MSD impulsa la excelencia científica en Oncología con HorizON - Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcE42TEZjYlh3S0c3MWVhMHVMczQzaGg5T2FiakJTMkU0VDVfTjhnNE1pYWhjc3dNaHFxLTFWSUt4VWc4U0NQS1k2ZW1aMmhYQW9kRVVmZVVWSm9FcjEzb0w3VkhQMDd2VDlwMlpYcVJwWUFlVm4xMXg3UXBmakJvUUlZLVVzOHRmdFNZQkNWRWNmdVlS?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
 
 ---
 
