@@ -62,11 +62,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ---
 
-### [Was wir über den Zusammenhang zwischen Ernährung und Depression wirklich wissen](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEVLU3ZUUVZ6dVQxWW1oc1RWR0RGSEl2d0JWQTExY2VyLWs4NmUzaFBjemVteDVONlBSYWtiV2I5eXF6eUhDUVBxVUhFNVAxcDFuTGNhYXdGMWxsamRiNldDS3ZGcm9XQm91T0NLMWNTMktFN190TGFrY3FQRGI0T1BCbEF0VDF2TE40ZHZ3?oc=5)
+### [Ernährung: Weniger als 5 Mahlzeiten pro Woche erhöht Depressionsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVZ3MVZxSVFmcUxMbkZXYTJ0Qm5xbVZmSTY2UEpqVmFGNThxZTdzTEZZMU85aDR6cnpkdHVkT0ViNXhZcGhjU3hJZlZkZkpKR0ZqVnZIS3JnblVsNTd2bWVSQy1GZU1obllNX1FnR3c3SGFZMTFJcV9sR3hHWGtJV1FJWk5VMWpyTlp3d2xxTklYNmlZUDhHVFE1MEd1Z2NuMDlzaHB5NzBsUS12OEhMQ0lzSjZkUlRYVURaMg?oc=5)
 
-2026-06-18 <span class="news-indication-tag">depression</span>
+2026-06-19 <span class="news-indication-tag">depression</span>
 
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEVLU3ZUUVZ6dVQxWW1oc1RWR0RGSEl2d0JWQTExY2VyLWs4NmUzaFBjemVteDVONlBSYWtiV2I5eXF6eUhDUVBxVUhFNVAxcDFuTGNhYXdGMWxsamRiNldDS3ZGcm9XQm91T0NLMWNTMktFN190TGFrY3FQRGI0T1BCbEF0VDF2TE40ZHZ3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVZ3MVZxSVFmcUxMbkZXYTJ0Qm5xbVZmSTY2UEpqVmFGNThxZTdzTEZZMU85aDR6cnpkdHVkT0ViNXhZcGhjU3hJZlZkZkpKR0ZqVnZIS3JnblVsNTd2bWVSQy1GZU1obllNX1FnR3c3SGFZMTFJcV9sR3hHWGtJV1FJWk5VMWpyTlp3d2xxTklYNmlZUDhHVFE1MEd1Z2NuMDlzaHB5NzBsUS12OEhMQ0lzSjZkUlRYVURaMg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/voriconazole/
 ---
 
 <p class="key-answer" data-question="Voriconazole 有什麼相關新聞？">
-<strong>Voriconazole</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voriconazole</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/voriconazole/
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（29 則）
+
+### [Rejuvenecimiento celular: ¿estamos más cerca de frenar el envejecimiento? La ciencia responde - Cadena SER](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWtfcU5abm5CQjdUVmdMQ29pZWpSWl9NdFBuWlVtdlg5NW05V09wY3ljX3lqOS1KeVJWQ2ZIY3RhTjRrNHJnaUZ0ODgwQmhHQ1VlOG5XZm1TTGNqOFREY3FjQmRXd0JTbEQzR3JxLXV4ZVpOU1JtR1NqdmNTYWdJYXJuM3p2Q0hNWW9hWkJVejk3RTdYaHRrWWc3YjB0WUl6aVFyX09SbHNGR2RRWFhWd2xabUVnT3k0b0lScndNZFVoU0JnLUJqamwyT0ZXT1ZWTHBJVHpwUnVoMENXcmfSAfIBQVVfeXFMUHpvbFB5aGhIX3NXM2g3NnJOYTlVT2U3YUJqVWRXdU1VUEFqaTZ2dGpFbElaeGFOTlhBTnFnRTdXMjNSeXFkd1VIWUNxWWNqLW4yUkdaZDNnZ3J6R3hVZHB5SVVFRGhodndrYUZyV3M2LXZRdThNX0drd2hDNEhWaW1zOVNuYlVYQlZuOGxvZ2dfN1JKUFI0Uko2UUcxSU9kNVhKQ0x1YkpWUmRxem9PM0daSUJRWGtoMndYSzM5bFJSWWZxem5DTzZwMWI5R0JJNEVBd0szSDV0UzJnd0d1ZFNSeGRSaTh6YW9ucEFTeVQ5b1E?oc=5)
+
+2026-06-20 <span class="news-indication-tag">AF</span>
+
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWtfcU5abm5CQjdUVmdMQ29pZWpSWl9NdFBuWlVtdlg5NW05V09wY3ljX3lqOS1KeVJWQ2ZIY3RhTjRrNHJnaUZ0ODgwQmhHQ1VlOG5XZm1TTGNqOFREY3FjQmRXd0JTbEQzR3JxLXV4ZVpOU1JtR1NqdmNTYWdJYXJuM3p2Q0hNWW9hWkJVejk3RTdYaHRrWWc3YjB0WUl6aVFyX09SbHNGR2RRWFhWd2xabUVnT3k0b0lScndNZFVoU0JnLUJqamwyT0ZXT1ZWTHBJVHpwUnVoMENXcmfSAfIBQVVfeXFMUHpvbFB5aGhIX3NXM2g3NnJOYTlVT2U3YUJqVWRXdU1VUEFqaTZ2dGpFbElaeGFOTlhBTnFnRTdXMjNSeXFkd1VIWUNxWWNqLW4yUkdaZDNnZ3J6R3hVZHB5SVVFRGhodndrYUZyV3M2LXZRdThNX0drd2hDNEhWaW1zOVNuYlVYQlZuOGxvZ2dfN1JKUFI0Uko2UUcxSU9kNVhKQ0x1YkpWUmRxem9PM0daSUJRWGtoMndYSzM5bFJSWWZxem5DTzZwMWI5R0JJNEVBd0szSDV0UzJnd0d1ZFNSeGRSaTh6YW9ucEFTeVQ5b1E?oc=5)
+
+---
+
+### [Vergängliche Träume - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiY0FVX3lxTE50OTNjUURETEZteE9xQmI5QkpmVDJBWDRUak9XcDBoN2x4RmQ2MXFRbEY2UnlhOHRWSjBXNUFDZlRkbnpKLUNPQjlRVUkxeHk4X1RRV2ktTTBBSUZCLTdfRWpTaw?oc=5)
+
+2026-06-20 <span class="news-indication-tag">AF</span>
+
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiY0FVX3lxTE50OTNjUURETEZteE9xQmI5QkpmVDJBWDRUak9XcDBoN2x4RmQ2MXFRbEY2UnlhOHRWSjBXNUFDZlRkbnpKLUNPQjlRVUkxeHk4X1RRV2ktTTBBSUZCLTdfRWpTaw?oc=5)
+
+---
+
+### [Herzinfarkt: Neue Medikamente senken Todesrisiko um 58 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnJqUm1wZ0ZubWl0RDhBYV92UnVPSkwwWmRTVFdtUV9jTXdmbzNESXBpc0ZUTjJEVHp0eklaMWpVUzdnLUxsemxOaWUtdldpakZiaTgzVXU1NXhDQm1JLW8yYTY5NkxwT2ZxZ1JxRHdkNG1pcE15dFdhTmduNXFQQVlra2VXQXhCTkZNMmkwRV9rZ1dTWkZCR2tiU3hFenBJNTFMRkszYUZlcjkwZzV3?oc=5)
+
+2026-06-20 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnJqUm1wZ0ZubWl0RDhBYV92UnVPSkwwWmRTVFdtUV9jTXdmbzNESXBpc0ZUTjJEVHp0eklaMWpVUzdnLUxsemxOaWUtdldpakZiaTgzVXU1NXhDQm1JLW8yYTY5NkxwT2ZxZ1JxRHdkNG1pcE15dFdhTmduNXFQQVlra2VXQXhCTkZNMmkwRV9rZ1dTWkZCR2tiU3hFenBJNTFMRkszYUZlcjkwZzV3?oc=5)
+
+---
+
+### [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
+
+2026-06-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
+
+---
+
+### [Sysmex: HISCL-Bluttest erkennt Demenzmarker in 17 Minuten - it boltwise](https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3JEaTRjRXFDbXRjN1MzQTFOYmZCaHJJVHZsclNiR3Z5S25fUW5iZHZtejNOTThZaUJUV1VwTU1vdU9kUlJaVzlSRHZOQVhQSzhIaUo2MFRNa3dhODVPeGhpV2tmSEJHSkx3S0RtTVBJdFQ4eWdRbFh1ZzBnVGhZbFFGbHgtbHg1WTQ4TTRyaXphdw?oc=5)
+
+2026-06-19 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3JEaTRjRXFDbXRjN1MzQTFOYmZCaHJJVHZsclNiR3Z5S25fUW5iZHZtejNOTThZaUJUV1VwTU1vdU9kUlJaVzlSRHZOQVhQSzhIaUo2MFRNa3dhODVPeGhpV2tmSEJHSkx3S0RtTVBJdFQ4eWdRbFh1ZzBnVGhZbFFGbHgtbHg1WTQ4TTRyaXphdw?oc=5)
+
+---
 
 ### [Kongress für klinische Neurowissenschaften: Epilepsie und Technologie im Fokus - mgo medizin](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQjFYem82TzZMVUhPTVptV0ZtZXAyV2dackFFVmt6WGxSWS10R2M0amZWOTZKTlh3NFJKQ2JfZDhQZm5qdHVXZGNuQlBzbjlBZThHbDctQU5zWW92Zzg0UFZZbWJzczhvRXhLd2h3dGVpR2oxU1ZsTk0xZEFlWTBscmNsdU1yVTBHRlhjdzZYR2NXRHFPdGxmcmdDVnNOcFRhbld5SnlNeHRjZGs2Z1J4bWR0YmpwaUFjbmdvQUtWTGtVVnpabU81V2twSUNCcTNlUzJuTmdCaXpGMGpIaFpNNEhScGhZeGhSYmZGalJSNUdtbGxRVnNsNXF3?oc=5)
 
@@ -75,14 +115,6 @@ permalink: /news/voriconazole/
 2026-06-19 <span class="news-indication-tag">AF</span>
 
 來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUpGcUE0UXYwRGJOU3gyR3QxeEdIcER1eHhQZ05QRmFUZ0Vra3FSQjE4Z0JUS29pUWRqT2toYzA2cWdyWHh1UERIU1h4N0RwRE1GaHZET0tZWjZBWGdwcXpqRWQyVnp6S2Z0NnhDUFRPMUxzcFNlel9oRmR4YnFpdGRXejJPMzlBeTRCV0pKQ1FHMlR4TnBFbnF3TGloeUgtQjJKX3d1bFNTaWtacEHSAbMBQVVfeXFMTzhMc2ltSFZ0OUROdk9FOEdLa09YYTJpa2hDbmpzdlUzcGlKSlZYTnN2YXZkMGF6eXN4d1AyWjV4cjBxSnRrZ2VUWkZHeVEwNWMyUzU4dGZUZHBtdklNTW9OVjZvRGZFZk9vZ3BFSHJtTWU2cWtDZEY4c28wNWtiLVNEUUhkeE9JX1VOcGdpVG5fbnRLS0hSMTA1eFJ4ZEVzeXlGcWZmTUN2VjhTT2tUWTlORUE?oc=5)
-
----
-
-### [Bluttest-Revolution: Alzheimer-Diagnose in nur 17 Minuten möglich - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3Q4OXc1NFRwUTJ6YTVzYlpJYTFYbTlna1hCbDVyb3c2bE1jNzc4WXNCM2JTUXBRRE1yb1FYSFFLazRncjJPMlFmX2hyckNCWGgwMVhNclM5RXZrQTMxS0c3cGh0NlpDRkdWd3RNaWVJUjVEcHlwUU9sNEFKN3Rfd3Z3bzBNRnZvcTB6Z053TWxVeEdiSVlhWm91WG5pWlZxdm53WFNJVnJUVUM0S2VsS01KU0Y?oc=5)
-
-2026-06-19 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3Q4OXc1NFRwUTJ6YTVzYlpJYTFYbTlna1hCbDVyb3c2bE1jNzc4WXNCM2JTUXBRRE1yb1FYSFFLazRncjJPMlFmX2hyckNCWGgwMVhNclM5RXZrQTMxS0c3cGh0NlpDRkdWd3RNaWVJUjVEcHlwUU9sNEFKN3Rfd3Z3bzBNRnZvcTB6Z053TWxVeEdiSVlhWm91WG5pWlZxdm53WFNJVnJUVUM0S2VsS01KU0Y?oc=5)
 
 ---
 
@@ -184,17 +216,25 @@ permalink: /news/voriconazole/
 
 ### [Therapieforschung: Lichtschalter im Erbgut macht Krebszellen gezielt verwundbar](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnNSNkZFYk9SX0FmdUlhMENCblRVcm5fcThrX1hMMlpGLU1HWnFFdFJBaTZGSFBpZzNVazJIOVVNZG8zd2RLeGRYSWRlT2E2cE56YThzSUhvSFAzUjlwVDNMd19hY0ZpRnFQM1daTl9CelJsclczNE9ZWG1RN3FKTTJ5NFNlbDlvT1VEWXhmTkdRYkNO?oc=5)
 
-2026-06-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnNSNkZFYk9SX0FmdUlhMENCblRVcm5fcThrX1hMMlpGLU1HWnFFdFJBaTZGSFBpZzNVazJIOVVNZG8zd2RLeGRYSWRlT2E2cE56YThzSUhvSFAzUjlwVDNMd19hY0ZpRnFQM1daTl9CelJsclczNE9ZWG1RN3FKTTJ5NFNlbDlvT1VEWXhmTkdRYkNO?oc=5)
 
 ---
 
-### [Herzgesundheit: 99 Prozent aller Ereignisse durch 4 Faktoren erklärbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFpVVnlrdU13RW13V0FMZmJxd2FpTlowd1BSVWYwMFBiazF5ak9tbzNjN3VPbUllSFg2Z3RNTUduQ1hmcFhaODVPZ0JMY2dMdmRBOURudFk5VE5PRzBPd2VuN0VsTE9GV0JoZ2tSQk16ekJwbWsxQXBaY0JzV0hxY1J5Y0NrWU4xVTJCZk9uSXlxT0dqZTlMR3VCNzlDVzNGUHdCdHhYWEpPSEtsZm5Xaks3SlNIRUhyRm9N?oc=5)
+### [‘I can barely walk without my pills’: The reality of the UK’s drug shortage crisis - The Telegraph](https://news.google.com/rss/articles/CBMifEFVX3lxTE51OFpoM2hKVnBPVTFZYkZFUnVCQnMwSl9uZjN3YnZLTWlYWXEySVR6bHRDWGg4TXNyZHQ0RUNIaGQzSy1jZHZicDlxSzBFXzZIMkNoSDRwVFVhb2JmMk5EMUt0QkswRGpkT2JUY3g0aUdnQWxDc1lrMnpvcG4?oc=5)
 
 2026-06-19 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFpVVnlrdU13RW13V0FMZmJxd2FpTlowd1BSVWYwMFBiazF5ak9tbzNjN3VPbUllSFg2Z3RNTUduQ1hmcFhaODVPZ0JMY2dMdmRBOURudFk5VE5PRzBPd2VuN0VsTE9GV0JoZ2tSQk16ekJwbWsxQXBaY0JzV0hxY1J5Y0NrWU4xVTJCZk9uSXlxT0dqZTlMR3VCNzlDVzNGUHdCdHhYWEpPSEtsZm5Xaks3SlNIRUhyRm9N?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMifEFVX3lxTE51OFpoM2hKVnBPVTFZYkZFUnVCQnMwSl9uZjN3YnZLTWlYWXEySVR6bHRDWGg4TXNyZHQ0RUNIaGQzSy1jZHZicDlxSzBFXzZIMkNoSDRwVFVhb2JmMk5EMUt0QkswRGpkT2JUY3g0aUdnQWxDc1lrMnpvcG4?oc=5)
+
+---
+
+### [Schlafmedizin: Obstruktive Schlafapnoe differenziert betrachten und behandeln](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORnVfNFlESDh5Q0hMRnFCdVRKYnpVN01NckVWZ2RWRTdkMWYyakZjR2lSeGZaQjlPV1k2T3dZLTF4ZGtLd1lrQlM3RnRDWUwxNE5teHhncVVFelRJd2R0QjB6cnRRTS0tZEFJR2pES0lSbERZZUZZeTg1eWZOWDZzVFh4VmVNVkRUZ2dFME05MnR5VWZ5enJvRWFGS2pTb01lNmNUam1sZDZaMktMYmdsS1pVclp1WmNsMGZYaVFjUjNob28?oc=5)
+
+2026-06-19 <span class="news-indication-tag">AF</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORnVfNFlESDh5Q0hMRnFCdVRKYnpVN01NckVWZ2RWRTdkMWYyakZjR2lSeGZaQjlPV1k2T3dZLTF4ZGtLd1lrQlM3RnRDWUwxNE5teHhncVVFelRJd2R0QjB6cnRRTS0tZEFJR2pES0lSbERZZUZZeTg1eWZOWDZzVFh4VmVNVkRUZ2dFME05MnR5VWZ5enJvRWFGS2pTb01lNmNUam1sZDZaMktMYmdsS1pVclp1WmNsMGZYaVFjUjNob28?oc=5)
 
 ---
 
@@ -222,11 +262,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Polenta fuori norma per aflatossine, scatta il richiamo nei supermercati](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlg5aHN0eUNVeFFBcU45VVltQ2JUWlczNVFBc2tNOFppd3NUUUVlZnYwX3RxeTVNSjlZVENUWlFSenhXMThSWExZQ3FfbWhUYzUxb2ZHUG1zV3JVbGlqd19GUV9PYTVuYkFyZ09weXM4MHNoci1LdjZBd2oyeV9uWUpjcGpJc3NBZmszR0dwTzJRV19nZ2pTcm9yVTZscTRpZlhaYXhZd0dVYVdTVWJtU1BUOXlrUQ?oc=5)
+### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
-2026-06-18 <span class="news-indication-tag">AF</span>
+2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[QuiFinanza](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlg5aHN0eUNVeFFBcU45VVltQ2JUWlczNVFBc2tNOFppd3NUUUVlZnYwX3RxeTVNSjlZVENUWlFSenhXMThSWExZQ3FfbWhUYzUxb2ZHUG1zV3JVbGlqd19GUV9PYTVuYkFyZ09weXM4MHNoci1LdjZBd2oyeV9uWUpjcGpJc3NBZmszR0dwTzJRV19nZ2pTcm9yVTZscTRpZlhaYXhZd0dVYVdTVWJtU1BUOXlrUQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
 ---
 
@@ -238,11 +278,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Spezialisten am Werk – Nervenzellen passen Struktur und Funktion ihrer Aufgabe an - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVhib2M5S3FIaVZ4dmFLQVRuLU45RzE4UENCWEtJQnR2TS1vcDRraHFlOWxCS285NXNmSlR6NDEwY2NzNXV1T0p1UmNjeU9haFltMXc2VXM0NzA1UDdrUDRfUzNPY3ZTcU01YVA1dFhha3o1NVdBeUlBaDZnQTI2WU8xakRVcFlWdGtDUWRHWUJLUWRYcFJUc2h2TjFiODRtQlpMMmhyeUY4c1RvczJuZmxjUXgyVWlmUmRfRmJJUEFUR1RFQUI1Wl94dnZDN0lFVWZN?oc=5)
+### [Geschenkte Überlebenszeit - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Rzk3dWxIQ3FTVmVZTUJuRU5UVUc2MmxhQi1sdl9TRi1WeWdVYkRoNy1zR2VOODV4emplMHpwS1E4dGI2TGFlSzdMM2tzci00Y216c1pJSkgycjZfdmN4MTlnbGUzT2hMY3c?oc=5)
 
-2026-06-18 <span class="news-indication-tag">AF</span>
+2026-06-17 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVhib2M5S3FIaVZ4dmFLQVRuLU45RzE4UENCWEtJQnR2TS1vcDRraHFlOWxCS285NXNmSlR6NDEwY2NzNXV1T0p1UmNjeU9haFltMXc2VXM0NzA1UDdrUDRfUzNPY3ZTcU01YVA1dFhha3o1NVdBeUlBaDZnQTI2WU8xakRVcFlWdGtDUWRHWUJLUWRYcFJUc2h2TjFiODRtQlpMMmhyeUY4c1RvczJuZmxjUXgyVWlmUmRfRmJJUEFUR1RFQUI1Wl94dnZDN0lFVWZN?oc=5)
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Rzk3dWxIQ3FTVmVZTUJuRU5UVUc2MmxhQi1sdl9TRi1WeWdVYkRoNy1zR2VOODV4emplMHpwS1E4dGI2TGFlSzdMM2tzci00Y216c1pJSkgycjZfdmN4MTlnbGUzT2hMY3c?oc=5)
 
 ---
 

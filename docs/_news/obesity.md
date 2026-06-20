@@ -3,7 +3,7 @@ layout: default
 title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。9 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obésité（obesity）</strong> 目前有 <strong>9 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（9 則）
 
 ### [Wegovy-Mounjaro : les consignes pour éviter les indus - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
 
 2026-06-19
 
 來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
+
+---
+
+### [Nella rucola, una sostanza che accelera il metabolismo e aiuta a combattere aumento di peso e glicemia alta. I risultati di uno studio italiano - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDhIeFJLNUFTTktUQmNiZGV4WXVjQXlLdFV4WHZLYV9OaXlFU09JZWY5ZnBIcm5QRGFwd0MtdE5aZkxvWW1PTk1KS183aXFET0tzd2RWVjI3aU1rRHlmaHhFSVljSEl4c2EzYzJJeXZkUlAyeDE3bS1TSzZLYUllUXEzNmpPa3ZZX2I3OEdIZU04Q3BaS2xLcGQ4VEp4VDB2WnhwWkV4X19QSDdVNEJGUnY2dDF0bjVMNEVWRndQM2tMLXRXcDVmVXpzWnU5Q3JrQUxLbHRtVTlzTlFtV1p4T0Z5UzI?oc=5)
+
+2026-06-19
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDhIeFJLNUFTTktUQmNiZGV4WXVjQXlLdFV4WHZLYV9OaXlFU09JZWY5ZnBIcm5QRGFwd0MtdE5aZkxvWW1PTk1KS183aXFET0tzd2RWVjI3aU1rRHlmaHhFSVljSEl4c2EzYzJJeXZkUlAyeDE3bS1TSzZLYUllUXEzNmpPa3ZZX2I3OEdIZU04Q3BaS2xLcGQ4VEp4VDB2WnhwWkV4X19QSDdVNEJGUnY2dDF0bjVMNEVWRndQM2tMLXRXcDVmVXpzWnU5Q3JrQUxLbHRtVTlzTlFtV1p4T0Z5UzI?oc=5)
 
 ---
 
@@ -62,6 +70,14 @@ permalink: /news/obesity/
 
 ---
 
+### [Actuar sobre los mecanismos epigenéticos revierte el daño vascular asociado a la obesidad y la diabetes - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
+
+2026-06-19
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
+
+---
+
 ### [Mismos genes, más peso: un macroestudio revela cómo el entorno actual vuelve tu ADN más vulnerable a la obesidad](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZzBqeXM3NUs3bjhabThzYTZmd3JKN3ZFck1haGxoUks5cjlFM1VJdS1HbURZZVRpaW5wajR6Nmk3RC1HdXQ4Z1owOU5tVnczUm1RXzVuejg2TXhpdFBpYVBWdnVwSGNqam40Q1gzcm9qaVRBaXNvRzBoUFU4YXhWSjBQUDB3TEs2cWVWRVNtSVd2TWI4NUxWRXpVTV9SVXdqeWtyY0hwNEhOTVZkQ0FOYlBZUU1rMC1HR2VISUh1QzVIWVo3NThCeEFrcGF2XzF6Tm1YZ2NIdFotOGNrSWx3LW9FcmgtcXRaeEpub09MVElrREd5aUVKdg?oc=5)
 
 2026-06-19
@@ -70,11 +86,27 @@ permalink: /news/obesity/
 
 ---
 
-### [Mounjaro batte Ozempic: il farmaco che riduce il peso del 25%](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
+### [Mounjaro batte Ozempic: i nuovi farmaci anti-obesità riducono il peso fino al 25%](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
 
 2026-06-19
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
+
+---
+
+### [Diabetes, Adipositas und ihr Risiko für die Gefäße](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
+
+2026-06-18
+
+來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
+
+---
+
+### [Atención Primaria apuesta por la ecografía clínica para anticiparse al SCRHM - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
+
+2026-06-18
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMld2MlJtMkZwdjJNQ2k0LVgxRFgxU1ZIYkEzZVVpcVZKRVM2LURUQVFQWVljZ045VzJ1T18xVWJ4YnJqemFDcmZSOC04QnlzaVBDWlZnc2d1NTlZdmVkdndBOXJJTmk4ZU5NamptWHdPeWNxNzZYcjJDZnBRNkQzankwdXlwX19oYTNmZ1hrS0phdV9iZW1pMHlORGR3S0stSHZBdUl0RmtLaTFSN1lETVZsYUV3WjY5VTEyQmxRWdIBugFBVV95cUxOSHZjZmNjUi0tQnZMWVpTbHVHTEZlS0V2Y3JzNTh3bzdTV0pQcTZtNWg2aGhiOXdpODZjdWJzUUwzTVo2a3JGZWlvel9tQ3R6c1hzY1NIcU93dVozTENjNXMxZnpsUDhmUzJXeGZfVkhpeHBuUXJqLVVwZl9URjYybHFkQnZCN0hzQ25QSG1pMVMtdmlEaFlPUHBXWXVTdEJUWWsxWWhrRjVBcXFDRVBwVDRNZHpVRnhkdXc?oc=5)
 
 ---
 

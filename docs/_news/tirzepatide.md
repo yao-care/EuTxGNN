@@ -62,7 +62,7 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Mounjaro batte Ozempic: il farmaco che riduce il peso del 25%](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
+### [Mounjaro batte Ozempic: i nuovi farmaci anti-obesità riducono il peso fino al 25%](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
 
 2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
 
