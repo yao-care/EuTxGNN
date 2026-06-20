@@ -34,11 +34,11 @@ permalink: /news/ulcerative-colitis/
 
 ## 相關新聞（1 則）
 
-### [HLA-DRB1*01:03 identifiziert Risikomarker für IBD und öffnet Weg zu personalisierten Therapien - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUF6N0RfWDdzM0RCc3AxR1lmOU5OZjhkSUVpWjRQNnB5N3JlZ0hzam5xYmdFTzlyRnJrVVAzenhZVkhhaGhoU0ZHVG5ZT3lEMHBJRG5Eb0pCR2R0UXhHRS1ibFBnNTdycy1aYllWbGZibjhMbDkxQVJNWm5tX1V1R0VPZl9lZTZmSV9uRGJacjVmRi1rc2hqX3pSM0w0ODRwVmVqTTVsSWJOc2hhcV9oMnlFdkttUVNHX2o3N3RheEU3V2N6?oc=5)
+### [Morbus Crohn: IL-10-Mangel durch HLA-DRB1*01:03 entschlüsselt - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
 
 2026-06-19
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUF6N0RfWDdzM0RCc3AxR1lmOU5OZjhkSUVpWjRQNnB5N3JlZ0hzam5xYmdFTzlyRnJrVVAzenhZVkhhaGhoU0ZHVG5ZT3lEMHBJRG5Eb0pCR2R0UXhHRS1ibFBnNTdycy1aYllWbGZibjhMbDkxQVJNWm5tX1V1R0VPZl9lZTZmSV9uRGJacjVmRi1rc2hqX3pSM0w0ODRwVmVqTTVsSWJOc2hhcV9oMnlFdkttUVNHX2o3N3RheEU3V2N6?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
 
 ---
 

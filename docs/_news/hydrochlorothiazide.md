@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="Hydrochlorothiazide 有什麼相關新聞？">
-<strong>Hydrochlorothiazide</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Hydrochlorothiazide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/hydrochlorothiazide/
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（25 則）
+
+### [Herzgesundheit: Heimmonitoring senkt Infarkt-Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHRra1NVbXRlNTUzalFYMkVvOGVpeERxWUFPb2Q3bk00WW9OaDhwbFpKY1EyWGxVaVFEWFNTNnlScExTWUFNMnNSOTZsMVo4ZGNVSTZNZmt0THpCajJkM2JRZGtLX05yckRkaTBSMzJsNjJtTG5Ta2U0eXc5YVMzNnFZUjFPNDVId0VkMVdMaENVTTZxUmk4V3Z2cXRhdkJEUWdvemJOVkJ6MjlXVV9Lb3dNTQ?oc=5)
+
+2026-06-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHRra1NVbXRlNTUzalFYMkVvOGVpeERxWUFPb2Q3bk00WW9OaDhwbFpKY1EyWGxVaVFEWFNTNnlScExTWUFNMnNSOTZsMVo4ZGNVSTZNZmt0THpCajJkM2JRZGtLX05yckRkaTBSMzJsNjJtTG5Ta2U0eXc5YVMzNnFZUjFPNDVId0VkMVdMaENVTTZxUmk4V3Z2cXRhdkJEUWdvemJOVkJ6MjlXVV9Lb3dNTQ?oc=5)
+
+---
 
 ### [Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2p4Q2VaRU1MbU9WUFhwTnU1T09ncmpza0RuOEtBY0Uyc3ZHVno5dVktejZNN1lqQ2JIS2I3M1JhSGJCd0hFZFdvcUNxb0I1QWlVc2c0TGV3OUtrNnVCMHozQmtTejcwWS11Z0lhaTBmNmIzSmhXeDBtVVRETVBnZU9ISW1uZFl6eUxJNmpqYS14QXdncmpWUW0wOTEtOTNKNmNnZ3l2c1NEVTZ5TmZKb25VX3hWTFIwX3RLbi1yWFFzV1lRZVg4WkJYeHQxUlFuQWxialJlN0FWZw?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Los bulos sobre cremas solares se vuelven más virales en TikTok que la información científica sobre sus beneficios](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQk8xUThNVWhWWkxHZHVhQm1wTFpud29SOHdBY0RqZ2N6dzIwQVVaeGNaUUhfaVBzWk9BWVNPZGZLb2dPY0h4TlhLSDFXZ2NyNWRtN0RzYjdlWXhkYWpUeG1JS29RZWJqVExsb1hSOVEyNC13RmdXeWstQUYtaTl3eVNHUjJIcmc3eFA2RXZBQmtMamRPT3BIN3UyZ3VJMXd3ZF85R2d5RGk1ZjE1WEppVWQzZDU0QdIBuwFBVV95cUxPVTRVQy16Wk5RTjZlaWpHS3plVmhpeW56R2xmeTF0bTk4RXBZNHFCaTBjeU1lVFo2STdxdW1odGU1Ql9aRXl4U2k3SEZCOEJqY0pxSXNEM1FVdl9LTmlTZWlxRHdRUXdaWlhOWUpzVF81RGxJWnZrbGw5eHhqSjk0eGFYNzhnRVp2ZXZfcVZOblZaN0xKRjg0WmRHbFBGSGU1Y3pHMkstMjdsVGJiMTFLVTdlRmFFaWl2WGNN?oc=5)
+### [Sex after cancer: the big taboo and why I’m talking about it - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdXUHlTdmd3NWZ0d0ptX1IwMW5IOWxXd18tS2N6dklTM0dCc1BIOEc3RGlXYTB6S2FRLVFCZjNWR0JiYlNmYnl4UWRJeXFRWjRScm9lbjNJNm9aS1NybEV0M2o1RzBKcmt5Z2VJV1BoSGFibG43Mlk3dDB4RlQ4MndFWHdQbndIYVRITUxHVmFDM3FtUkRyVmlKMVp1cDRCaFlYeTYwVjc?oc=5)
 
-2026-06-19 <span class="news-indication-tag">carcinoma</span>
+2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQk8xUThNVWhWWkxHZHVhQm1wTFpud29SOHdBY0RqZ2N6dzIwQVVaeGNaUUhfaVBzWk9BWVNPZGZLb2dPY0h4TlhLSDFXZ2NyNWRtN0RzYjdlWXhkYWpUeG1JS29RZWJqVExsb1hSOVEyNC13RmdXeWstQUYtaTl3eVNHUjJIcmc3eFA2RXZBQmtMamRPT3BIN3UyZ3VJMXd3ZF85R2d5RGk1ZjE1WEppVWQzZDU0QdIBuwFBVV95cUxPVTRVQy16Wk5RTjZlaWpHS3plVmhpeW56R2xmeTF0bTk4RXBZNHFCaTBjeU1lVFo2STdxdW1odGU1Ql9aRXl4U2k3SEZCOEJqY0pxSXNEM1FVdl9LTmlTZWlxRHdRUXdaWlhOWUpzVF81RGxJWnZrbGw5eHhqSjk0eGFYNzhnRVp2ZXZfcVZOblZaN0xKRjg0WmRHbFBGSGU1Y3pHMkstMjdsVGJiMTFLVTdlRmFFaWl2WGNN?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdXUHlTdmd3NWZ0d0ptX1IwMW5IOWxXd18tS2N6dklTM0dCc1BIOEc3RGlXYTB6S2FRLVFCZjNWR0JiYlNmYnl4UWRJeXFRWjRScm9lbjNJNm9aS1NybEV0M2o1RzBKcmt5Z2VJV1BoSGFibG43Mlk3dDB4RlQ4MndFWHdQbndIYVRITUxHVmFDM3FtUkRyVmlKMVp1cDRCaFlYeTYwVjc?oc=5)
 
 ---
 
@@ -86,9 +94,25 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [The #3 Cause of Cancer Deaths Is Rising Fast, But 60% of Cases May Be Preventable](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FaNXo0bXNYUEJiQ25HVUtVVXhsdDJkYklqYTJvR3NMUEdXLXdXMGNnZGhHVjFBbmcyMEVacTRMb3UwT1VCZ3EzXzAxSFM5MENqSmxVQk5aYlVzR2wzVEs0MU5XZkVDRmZRNFFLLVpSRlRpSmk1NjRrUkRfdnNBRG9Na0pTUF9pQWdwaTRwa2todWVKa0RZa2dhRHpEUzVxOGhpb0lEYkdZaEk?oc=5)
+
+2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FaNXo0bXNYUEJiQ25HVUtVVXhsdDJkYklqYTJvR3NMUEdXLXdXMGNnZGhHVjFBbmcyMEVacTRMb3UwT1VCZ3EzXzAxSFM5MENqSmxVQk5aYlVzR2wzVEs0MU5XZkVDRmZRNFFLLVpSRlRpSmk1NjRrUkRfdnNBRG9Na0pTUF9pQWdwaTRwa2todWVKa0RZa2dhRHpEUzVxOGhpb0lEYkdZaEk?oc=5)
+
+---
+
+### [Ces 2 aliments à mettre dans vos salades cet été réduisent le risque d'hypertension de 30 % selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
+
+2026-06-19 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
+
+---
+
 ### [Could the HPV vaccine eliminate cervical cancer deaths? - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVdfelAxMHNDay1fTlpiOENuTi0weEw1SVVIeVNkbjc0R0loemJXVzBPeUJIMVVJV0RaRkxoYm9kSHYwVWVFbWxNZGZYRUNQWkgtYlNCRW5ETzhGMFVvMjZtWmRhQnoyMWhxU0xfS3BsRmtrYmJWeGxWbEVyUnYyR21jYkt5NkZtamJDb05LYW1nZ29pNkhDQWV5c9IBoAFBVV95cUxOREhJM21FVC01clVOZGxLX1M4RVNtVkt3LTBjSW8tYUVUeHdSN1JGSDEwdFVBeVFWRnpYWGMxVXp1WGFmXzhPVVFKMmtnQVpEOUF0TzZlQVpENkNoUXhqZHFFNlFNaUpvSzZsdFd1X2x6bl8xaUNVaUQ0TWlpN1hRRHpyN3VyWVl6OGtXVkJMbnpLSklIYnBENjJ0TVJDMVh2?oc=5)
 
-2026-06-19 <span class="news-indication-tag">cancer</span>
+2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVdfelAxMHNDay1fTlpiOENuTi0weEw1SVVIeVNkbjc0R0loemJXVzBPeUJIMVVJV0RaRkxoYm9kSHYwVWVFbWxNZGZYRUNQWkgtYlNCRW5ETzhGMFVvMjZtWmRhQnoyMWhxU0xfS3BsRmtrYmJWeGxWbEVyUnYyR21jYkt5NkZtamJDb05LYW1nZ29pNkhDQWV5c9IBoAFBVV95cUxOREhJM21FVC01clVOZGxLX1M4RVNtVkt3LTBjSW8tYUVUeHdSN1JGSDEwdFVBeVFWRnpYWGMxVXp1WGFmXzhPVVFKMmtnQVpEOUF0TzZlQVpENkNoUXhqZHFFNlFNaUpvSzZsdFd1X2x6bl8xaUNVaUQ0TWlpN1hRRHpyN3VyWVl6OGtXVkJMbnpLSklIYnBENjJ0TVJDMVh2?oc=5)
 
@@ -110,11 +134,27 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [Tumore della tiroide: identificato il meccanismo del recettore FGFR1 - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3NNdE1TQ3RaaXB0U0k2cjk3cThOS2I0S3Y4YTRtcU4wMURtMmJYc1pNUVVfSmhKYk82S0NVQlZ3X2RSeVRtb2tuQjV2Z21Kc0lWLXI3LUFqZTJYRUh1ZkJYbWlFSlpxQllkTmJjX19OTjE4ZHllYWpuUkxFbnVPeWUwd2JBT0lxLWlGQmN1R2dOem9raXRkWm5FWU9fRHU1?oc=5)
+
+2026-06-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3NNdE1TQ3RaaXB0U0k2cjk3cThOS2I0S3Y4YTRtcU4wMURtMmJYc1pNUVVfSmhKYk82S0NVQlZ3X2RSeVRtb2tuQjV2Z21Kc0lWLXI3LUFqZTJYRUh1ZkJYbWlFSlpxQllkTmJjX19OTjE4ZHllYWpuUkxFbnVPeWUwd2JBT0lxLWlGQmN1R2dOem9raXRkWm5FWU9fRHU1?oc=5)
+
+---
+
 ### [El tumor que crece sin avisar: por qué el cáncer de riñón suele detectarse demasiado tarde - El Periódico](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeG05QnZ0U245TzhZM0JzOUlJc1hPZVN0VmZJbW5HT3dNWlRRVEVTSTQ0d2xPZ29GSy14a1dGTWVWQUktQkJxelduMzlwR3FWalJ6a0VwSV81eVM5aklQT0ZIXzNGU3RKT3AtYU5CbXlEUHFtdXAwM1l4RDl2ZjZWVmxROU1jT1d5RkRMR1BmT0jSAZABQVVfeXFMUFJsVllvMXVDNHBTRkdBd0lGXy10bjhGcTQxQWVBUFBKdldibW1ObHhUOHp4M0N1ZG1IY3FtYlpNQzJkNWE2MWlCNkJ6TG9USmdIR042aE5TQjhEY0JzSFhVZVZHNFNJTmVWRUhsZ2VqV2Y2c1hKckZHT2YzdGxWUFozb1FNZ0dCQkUteE1uM1JL?oc=5)
 
 2026-06-19 <span class="news-indication-tag">tumor</span>
 
 來源：[El Periódico](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeG05QnZ0U245TzhZM0JzOUlJc1hPZVN0VmZJbW5HT3dNWlRRVEVTSTQ0d2xPZ29GSy14a1dGTWVWQUktQkJxelduMzlwR3FWalJ6a0VwSV81eVM5aklQT0ZIXzNGU3RKT3AtYU5CbXlEUHFtdXAwM1l4RDl2ZjZWVmxROU1jT1d5RkRMR1BmT0jSAZABQVVfeXFMUFJsVllvMXVDNHBTRkdBd0lGXy10bjhGcTQxQWVBUFBKdldibW1ObHhUOHp4M0N1ZG1IY3FtYlpNQzJkNWE2MWlCNkJ6TG9USmdIR042aE5TQjhEY0JzSFhVZVZHNFNJTmVWRUhsZ2VqV2Y2c1hKckZHT2YzdGxWUFozb1FNZ0dCQkUteE1uM1JL?oc=5)
+
+---
+
+### [Cancer du pancréas : consommer de l'huile d'olive pourrait accélérer le développement de la maladie, révèle une étude de Yale - Pleine Vie](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQkNDOW9yTWVjcnJocS1OOFQ5Y25sX1cwNHZCQ3hzN0VjVmV4Rlk3a1J4V0R1dUxMWkpIWWFIaEhjNmx5YU9tck16cWMzWk9WaXcwVjcza0Jia3dNUzFqWGtDUVdLME5mcHRGZjJsUTdRLXJ1MWkwYll6OE4xNmR3TktXd2pzLW43WFU1WlZTeDU1Z2NQXzcwTEw1Sm1xUVBaSFE5cjQ5NzFBQmcwR2JIdi1VZXM2YjczZlNhRWY3Ql83UElhLTJ2NmVKRkdiMFJfbGxTbFo4TFhNMjBfOTRNRlNIME8yWXVGMjlXV1lRTTJyb0lUSlE?oc=5)
+
+2026-06-19 <span class="news-indication-tag">cancer</span>
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQkNDOW9yTWVjcnJocS1OOFQ5Y25sX1cwNHZCQ3hzN0VjVmV4Rlk3a1J4V0R1dUxMWkpIWWFIaEhjNmx5YU9tck16cWMzWk9WaXcwVjcza0Jia3dNUzFqWGtDUVdLME5mcHRGZjJsUTdRLXJ1MWkwYll6OE4xNmR3TktXd2pzLW43WFU1WlZTeDU1Z2NQXzcwTEw1Sm1xUVBaSFE5cjQ5NzFBQmcwR2JIdi1VZXM2YjczZlNhRWY3Ql83UElhLTJ2NmVKRkdiMFJfbGxTbFo4TFhNMjBfOTRNRlNIME8yWXVGMjlXV1lRTTJyb0lUSlE?oc=5)
 
 ---
 
@@ -150,14 +190,6 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Canicule : ces deux aliments, délicieux en salade, réduiraient l'hypertension](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
-
-2026-06-18 <span class="news-indication-tag">hypertension</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
-
----
-
 ### [Spitzenmedizin in Siegen: „Junger Familienvater hatte fußballgroßen Tumor im Bauch“](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTlmaG5WdW9ubjMyZmtucUhvaEh3c3d2YlpIWTA0X0lRcGR4Mm1QaG9pdjJaTnI3dFlqazRYQ3NoU0Z6cU1fRm5DSUNYZFVQN0c5SWR1RVdURjh2ZWRyZGh4UUZ0Z1hYVjhXSjNxSVJTSGVHTDhqXzlUQWgxOTNybXlRYXVlbjRhbnFJbGhKMlR1RmFEbUlHZ1BjTTB0c1l4Um1GQ2NHVFA1bWtadDBIVjNPVkJza0lNWlIteVA4eHVMZ0FzWElZTF9pMUhfNUgyXzhZZVpXUUhaazc0NTF2dXNR?oc=5)
 
 2026-06-18 <span class="news-indication-tag">tumor</span>
@@ -171,14 +203,6 @@ permalink: /news/hydrochlorothiazide/
 2026-06-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DbHNjSWFySlJ4M1BaWXlTeVNpRXdzSEEzbFE0aEZuY3RVaWdJNVRHd0lmX2hVMW13RlBBX1A2NjZERU5LeU9NN21zN3RaN21PX3p3aVV5Z1h4blgt?oc=5)
-
----
-
-### [Bluthochdruck: 20 Millionen Deutsche betroffen – Heimmonitoring senkt Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
 
 ---
 
@@ -214,35 +238,19 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Tumor renal papilar: la variante menos frecuente del cáncer de riñón que avanza hacia terapias dirigidas](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWQwYlltcGdlSlVPV1RZTkQ2aV9mc2F4VnlxZ29fdm5acWNnYkV4SmZsazItRzJYYUNNbEI1ZFI4dS1IUUVaSzFKRFBpOFVrLXc3SFZ0eEFmbklocHUxUUZfSjQ5a1VsMkxaNnFOTC1xTGxQY3JkQ19BaVpjaS1QMGIwWkxWUzEzVTBsaVA5OWZLcUlBcDlsWkc2UnI5X0Y1dmo4eERybkxsVGNUMUxRRnQ1bGJ1U3RDVEZBQnROMV9MN1hpT05BUG1mWkttMkZzY25RVWMxaWh4Zng4bGUw?oc=5)
+### [The Number-1 Sign of Colon Cancer Doctors Say You Shouldn’t Ignore](https://news.google.com/rss/articles/CBMikAFBVV95cUxNcU5YMkVZRU9odFlWM3JoWHk2QU5lZWdHbDEtOHdab2RWTHNNc1VPb2tmcHpGYWc4VVRQYjlXS1g1b0lFM19GZUxnY0JXZ3J4TjNucWZLN2NYNklIZjE1VGNRaVZVSGJfRU1PWlZUTW93TmtkQ1pYQUNYNFNiVWxoaVpoS1UxNmdVTnlPR1JnOWo?oc=5)
 
-2026-06-18 <span class="news-indication-tag">tumor</span>
+2026-06-18 <span class="news-indication-tag">cancer</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWQwYlltcGdlSlVPV1RZTkQ2aV9mc2F4VnlxZ29fdm5acWNnYkV4SmZsazItRzJYYUNNbEI1ZFI4dS1IUUVaSzFKRFBpOFVrLXc3SFZ0eEFmbklocHUxUUZfSjQ5a1VsMkxaNnFOTC1xTGxQY3JkQ19BaVpjaS1QMGIwWkxWUzEzVTBsaVA5OWZLcUlBcDlsWkc2UnI5X0Y1dmo4eERybkxsVGNUMUxRRnQ1bGJ1U3RDVEZBQnROMV9MN1hpT05BUG1mWkttMkZzY25RVWMxaWh4Zng4bGUw?oc=5)
-
----
-
-### [Cáncer de mama: Una IA sueca logra detectar los primeros signos de tumor hasta 6 años antes que los médicos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcl9za25vWlkwQkVmOFhpNm5rMndfZnQ2Y3VZSWFiYzAzWmhwb2RlaEhseHJzRC0wMVkzWXpVQTRZX1lGczRmZURycTJhLW1heHhONTZiX2JyZ3NFV0dNNUthS3VOS0t0QWs4YV9RVnZGNjVLdUNMQWF0cXVsbnhIakcwbVJkMHI1eDdzS1Nyb0Q1dWZKMGx3bWZQblFrWmdmUGlmRmNvMVhUcG9lNVJsUUJTaW9leFZfSS12UG1jd0dCWDZnQzBWR0t4Wml2MFl2V0wtQU9TN0FrU3ZHYlE3dVpxZ2k?oc=5)
-
-2026-06-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcl9za25vWlkwQkVmOFhpNm5rMndfZnQ2Y3VZSWFiYzAzWmhwb2RlaEhseHJzRC0wMVkzWXpVQTRZX1lGczRmZURycTJhLW1heHhONTZiX2JyZ3NFV0dNNUthS3VOS0t0QWs4YV9RVnZGNjVLdUNMQWF0cXVsbnhIakcwbVJkMHI1eDdzS1Nyb0Q1dWZKMGx3bWZQblFrWmdmUGlmRmNvMVhUcG9lNVJsUUJTaW9leFZfSS12UG1jd0dCWDZnQzBWR0t4Wml2MFl2V0wtQU9TN0FrU3ZHYlE3dVpxZ2k?oc=5)
+來源：[Prevention](https://news.google.com/rss/articles/CBMikAFBVV95cUxNcU5YMkVZRU9odFlWM3JoWHk2QU5lZWdHbDEtOHdab2RWTHNNc1VPb2tmcHpGYWc4VVRQYjlXS1g1b0lFM19GZUxnY0JXZ3J4TjNucWZLN2NYNklIZjE1VGNRaVZVSGJfRU1PWlZUTW93TmtkQ1pYQUNYNFNiVWxoaVpoS1UxNmdVTnlPR1JnOWo?oc=5)
 
 ---
 
 ### [Researchers found 8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+2026-06-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
-
----
-
-### [Boy's life saved after angioplasty to reverse heart failure](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
-
-2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
@@ -70,6 +70,54 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [The #3 Cause of Cancer Deaths Is Rising Fast, But 60% of Cases May Be Preventable](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FaNXo0bXNYUEJiQ25HVUtVVXhsdDJkYklqYTJvR3NMUEdXLXdXMGNnZGhHVjFBbmcyMEVacTRMb3UwT1VCZ3EzXzAxSFM5MENqSmxVQk5aYlVzR2wzVEs0MU5XZkVDRmZRNFFLLVpSRlRpSmk1NjRrUkRfdnNBRG9Na0pTUF9pQWdwaTRwa2todWVKa0RZa2dhRHpEUzVxOGhpb0lEYkdZaEk?oc=5)
+
+2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3FaNXo0bXNYUEJiQ25HVUtVVXhsdDJkYklqYTJvR3NMUEdXLXdXMGNnZGhHVjFBbmcyMEVacTRMb3UwT1VCZ3EzXzAxSFM5MENqSmxVQk5aYlVzR2wzVEs0MU5XZkVDRmZRNFFLLVpSRlRpSmk1NjRrUkRfdnNBRG9Na0pTUF9pQWdwaTRwa2todWVKa0RZa2dhRHpEUzVxOGhpb0lEYkdZaEk?oc=5)
+
+---
+
+### [Sclerosi multipla, i 2 batteri intestinali che innescano la malattia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0NWOVR3XzY1OGNmSTQxTVJOc2dkb3FZV3BBeTdFVWVSSlBiNk5UZWY1RDdpREJ2S0UwRGRid0xibWVPOXVGQUtFN1VUWndQb3pQOUNmTzZYaHVydkVtRXZjMklhaWl5QjJucXVJVHhUMm9LZVMwNG45SXF4Rl85YUxtSF83QWFXODZQQ190cHlEWkgxZlBHOEVsUldUUWxyTmNHa3lRUDFmYll6U1d3eEZHWmNCU3RfcEZlT2IxbkdzcUXSAccBQVVfeXFMUEtGMmlycDlQUTNYaVZjQkVyemZTLXVXZmJlOEUyc3pzOUJjY2I0OV9JeF9nSUQ1OEdkbHloUFFub2hHUExPbnhOaGtMV3phVHpKc1dVWjJ0T0d1c0ZCRkxucXJVMlBrcDk1TEVveFRnd3pkOWdHNWRncnN1NVlaS3JEbk5hQWd1eGhPUlctcmhCcmw2ZENGRUotb1ZRRkFHaWRwd1R2WDNKMzdRMzdtYUJFdzlWaEhSUEtEanV1ZER5OFZzbGlTRQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0NWOVR3XzY1OGNmSTQxTVJOc2dkb3FZV3BBeTdFVWVSSlBiNk5UZWY1RDdpREJ2S0UwRGRid0xibWVPOXVGQUtFN1VUWndQb3pQOUNmTzZYaHVydkVtRXZjMklhaWl5QjJucXVJVHhUMm9LZVMwNG45SXF4Rl85YUxtSF83QWFXODZQQ190cHlEWkgxZlBHOEVsUldUUWxyTmNHa3lRUDFmYll6U1d3eEZHWmNCU3RfcEZlT2IxbkdzcUXSAccBQVVfeXFMUEtGMmlycDlQUTNYaVZjQkVyemZTLXVXZmJlOEUyc3pzOUJjY2I0OV9JeF9nSUQ1OEdkbHloUFFub2hHUExPbnhOaGtMV3phVHpKc1dVWjJ0T0d1c0ZCRkxucXJVMlBrcDk1TEVveFRnd3pkOWdHNWRncnN1NVlaS3JEbk5hQWd1eGhPUlctcmhCcmw2ZENGRUotb1ZRRkFHaWRwd1R2WDNKMzdRMzdtYUJFdzlWaEhSUEtEanV1ZER5OFZzbGlTRQ?oc=5)
+
+---
+
+### [Osteoporose: Calcium und Bewegung senken Hüftbruch-Risiko um 16% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkVMUnJkTDVfS042MXhmZ1RrV3BKOEpTWmF4YzAxcGN0LWNSYU5jRHlUNVdDbXE0WVdQOWtVeW1nX19hOFp0SVRaVG0wUWZlZEpfZ3lIUGx3TXh6dzlKd1lyTzZwQXZpSDR3T3BZZDFoTWpPOE43NFczWmlKMk9hMkhmZVhVN2paTm9NOWw1aVNNN3ZJS0c3WUdGWVFQQnlUX2gxNENjT2RBUTdMV2c2Y0I2LWRiYW56Q0NKcw?oc=5)
+
+2026-06-19 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkVMUnJkTDVfS042MXhmZ1RrV3BKOEpTWmF4YzAxcGN0LWNSYU5jRHlUNVdDbXE0WVdQOWtVeW1nX19hOFp0SVRaVG0wUWZlZEpfZ3lIUGx3TXh6dzlKd1lyTzZwQXZpSDR3T3BZZDFoTWpPOE43NFczWmlKMk9hMkhmZVhVN2paTm9NOWw1aVNNN3ZJS0c3WUdGWVFQQnlUX2gxNENjT2RBUTdMV2c2Y0I2LWRiYW56Q0NKcw?oc=5)
+
+---
+
+### [Doctor warning for Brits taking sertraline, citalopram, escitalopram or fluoxetine - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkJPbWJPVm9zbnNsR3RtMnFVUVlVVmQ1cHRXRmlINEpZZXp4S0gwdmNqS2dpQzRSYXZsQzhSOGUydm8wOC1qZjdGOTFpWDJnWVlpY0xqbGhnS0JJaVFqbndXWmlmQk9GTTlCU240alZ2V1lJTnpFYVlOSjRSZERVMnp4anFGX0lpY3ItRdIBkgFBVV95cUxQZGtmeTZrblVnQjlNNGFfb29qMGRuNDFBSXBUM3BQVHdGZ1FmYllUczBQcEdjbVRQS29FNGFTazRBd0JjR2xWSm1rWGlqRUNpYVJZVVg1TmdrbWROcEI1T1FIMFFUMWVpa2hNUDloc0VMQXF1bjBsVVdEOFpoeWxrSTNNNEEzUmNUX3AxZWEwZ0t3QQ?oc=5)
+
+2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkJPbWJPVm9zbnNsR3RtMnFVUVlVVmQ1cHRXRmlINEpZZXp4S0gwdmNqS2dpQzRSYXZsQzhSOGUydm8wOC1qZjdGOTFpWDJnWVlpY0xqbGhnS0JJaVFqbndXWmlmQk9GTTlCU240alZ2V1lJTnpFYVlOSjRSZERVMnp4anFGX0lpY3ItRdIBkgFBVV95cUxQZGtmeTZrblVnQjlNNGFfb29qMGRuNDFBSXBUM3BQVHdGZ1FmYllUczBQcEdjbVRQS29FNGFTazRBd0JjR2xWSm1rWGlqRUNpYVJZVVg1TmdrbWROcEI1T1FIMFFUMWVpa2hNUDloc0VMQXF1bjBsVVdEOFpoeWxrSTNNNEEzUmNUX3AxZWEwZ0t3QQ?oc=5)
+
+---
+
+### [Sclerosi multipla, metà dei casi italiani riguarda gli under 40 - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjdIUFVWMWgxcUFjUjY0ci1qbmRlTWxkZVJIcU9kNnl3bUNVRUpVbU85Sno4UG9WSWFEejc2dU56YkVRSzJGWXRWcDhGam1hSThCMndneWw5azJQS1BUWlF6TEdMQmpodDZXdGFYRVotc296OVB3NjA4cHRFbGhKbU9qbmZvOTREQUhMSGI4NTh5eGc2ZjhGc0ln?oc=5)
+
+2026-06-19 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjdIUFVWMWgxcUFjUjY0ci1qbmRlTWxkZVJIcU9kNnl3bUNVRUpVbU85Sno4UG9WSWFEejc2dU56YkVRSzJGWXRWcDhGam1hSThCMndneWw5azJQS1BUWlF6TEdMQmpodDZXdGFYRVotc296OVB3NjA4cHRFbGhKbU9qbmZvOTREQUhMSGI4NTh5eGc2ZjhGc0ln?oc=5)
+
+---
+
+### [Alzheimer: Gealterte Gehirnzellen verdreifachen das Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR6dEVSSEZMSUVXY2hJQldKVERNNlpFWHJqQXQ2Qml4bVoxRl81a2xJNTV6R0kwa3UyZXRFWXNvdVZ4MTR1ekVGQ3l6UjkyaFc0TkVxczlzbkJRNTZBb3lBYzJieG1xdlQ1R2F3UlhUZ2lWSjR0N1RIWjViQW5JUTZhc3o3WUZxM0taRGUxVGVWaC1tZlFEUmd4czh0S0puQVV1cjhsWUNQellhSzU2c1VxTEZ0RWF5?oc=5)
+
+2026-06-19 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR6dEVSSEZMSUVXY2hJQldKVERNNlpFWHJqQXQ2Qml4bVoxRl81a2xJNTV6R0kwa3UyZXRFWXNvdVZ4MTR1ekVGQ3l6UjkyaFc0TkVxczlzbkJRNTZBb3lBYzJieG1xdlQ1R2F3UlhUZ2lWSjR0N1RIWjViQW5JUTZhc3o3WUZxM0taRGUxVGVWaC1tZlFEUmd4czh0S0puQVV1cjhsWUNQellhSzU2c1VxTEZ0RWF5?oc=5)
+
+---
+
 ### [Early miscarriage may be linked to walking, standing and certain working postures, study claims - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcE42TEZjYlh3S0c3MWVhMHVMczQzaGg5T2FiakJTMkU0VDVfTjhnNE1pYWhjc3dNaHFxLTFWSUt4VWc4U0NQS1k2ZW1aMmhYQW9kRVVmZVVWSm9FcjEzb0w3VkhQMDd2VDlwMlpYcVJwWUFlVm4xMXg3UXBmakJvUUlZLVVzOHRmdFNZQkNWRWNmdVlS?oc=5)
 
 2026-06-18 <span class="news-indication-tag">MS</span>
@@ -83,30 +131,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-18 <span class="news-indication-tag">MS</span>
 
 來源：[L'Usine Nouvelle](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOcU9VNkdzY1I1NEY3WWhjemI3aHdhZlhqRnEtU0Z2cXA4NDNEcXZxRTdlSkpTUnl0S0tWeDNQZ19MTi1FUGNYbS1QSUJtODJUTDNUeDg4b0ttMTBmTUp0TkV6c1E1MXAxbUl6dGREOUdkS3F2bWtOYWxCYnJDM29YVDlqQS1obVBERmtpSm1OWHk3NllzLWExSlZaYWRGbWxWMW1Gc2tQck1EeTkzdUZwRGFiUTBhc2xiR1lNdkxXbnAxQk9FeTFTZTdOWUFVSDVzVzVmazBKWnVfeXJWSm95aG5BcTl5V1hCQ1p2ZDBqU0Zud0tJMF9TakFDX0tlSVowdE8zbExVWTJXT1pVLTM5dmJKd1dPTkRtQVpvT1ZRM1p0eHZ3aWF5blI4QlpYaHg2dG9iWEcxVHJvdGtPbG55UXZqZktnbG1HRjFLbngyVWdLVm8?oc=5)
-
----
-
-### [Clean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study - The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0J1d25hS212R1M3YmJCY2NVTXZaclN4Y09fcVlOaEFXMnNhUFIySnJjdlpRYTVpZmRmbTRlcHJoaTRaY2EzclFPLV9ERVR4NDZNVUkzWkdJMzdUa1drT1B6c29DZE5OelB0ZTR1RmZoMWlEWko4VlM1dEE2MGUtdnFweGloZVRkS25abERiRHN2Rm5VdDFvd2tvNlF0UXlBcUxJSDgxRVd6RmhoeG1vdXV1aFJta0tMdnB1UHRHZ0VlTVI1WUNLNg?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0J1d25hS212R1M3YmJCY2NVTXZaclN4Y09fcVlOaEFXMnNhUFIySnJjdlpRYTVpZmRmbTRlcHJoaTRaY2EzclFPLV9ERVR4NDZNVUkzWkdJMzdUa1drT1B6c29DZE5OelB0ZTR1RmZoMWlEWko4VlM1dEE2MGUtdnFweGloZVRkS25abERiRHN2Rm5VdDFvd2tvNlF0UXlBcUxJSDgxRVd6RmhoeG1vdXV1aFJta0tMdnB1UHRHZ0VlTVI1WUNLNg?oc=5)
-
----
-
-### [Millionen schlucken Vitamin D – doch ihre Knochen profitieren kaum - smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0xkV3JhM3M1ZDdSalREdDMxZlhFbjRDVU94LXgycmxEV3lENmlXZEo1U3RLcWhWWmViQkEwRzJ6aXJmLVNYSW5RWFN5Znd1QWp3dDJVeGNfS2xDNU9IUW9NZWZnS2ZOYmR2ODBtU2pkSmpiTGFFbGtOTm00cVc2S1NxOHk5VUI2UUpfZGxwU3A0ZHRsSFQyd09vOA?oc=5)
-
----
-
-### [Alzheimer 2026: Entzündung, Seneszenz und neue KI-Tests rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFVxZHBxdFZYdXlTelpXS1hGOUJLSHBfZ0JXLXl5dFJjNXVvcEg2SzY2WUY3WDV5bTdIRDN3YXQ1R25Na2tNZEhBbFJ6SUdrV1VadUI4SFVtX1A1SmJUWE9HRkVHbnlaRkthbFpSaWNZY2dyTi1XSzg2LW05V2wxTEN1b20taE13b1hoRjF3bmk0cHhlT2pQWWpielFIS0tSNHdKQzl1ajJkX0U?oc=5)
 
 ---
 

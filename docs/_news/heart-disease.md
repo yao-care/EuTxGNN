@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart failure（heart disease） 相關新聞"
+title: "heart disease 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart failure（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
+description: "heart disease 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart failure（heart disease） 相關新聞
+# heart disease 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
-<strong>heart failure（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
+<strong>heart disease</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,7 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [We Asked Cardiologists If Taking Aspirin Really Helps Prevent Heart Disease—Here’s What They Said](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmp0LURXOWhMdE9uNjZzTDY0ckNJeE96QTBKNC00dXB3aGpCU0NibWRXQjYzUF9BckxFSXc3WXMyUFJPaG5EXzM5RUEtLTJUMGkxN2JXakhNQnBCdElWTHNBRWNHM0pyWXJoeWpENVRXdlNGQzZYTzJpRWcwTDdDcw?oc=5)
 
@@ -100,14 +100,6 @@ permalink: /news/heart-disease/
 2026-06-18
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
-
----
-
-### [Boy's life saved after angioplasty to reverse heart failure](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
-
-2026-06-18
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Mittel gegen Verstopfung hilft auch gegen bestimmte Depressionssymptome](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmFFb0k1ODBYUHQxYW14dEFDU3RuQzI4UFJnX0JOSlpFRUtwbUFDVmhkbkhadzhKYXBnbG1hZVJvMXQ1dGNnQ1FDdDdyaWlhN2lQUTg1eU1jUTJTV0VBWW9BY2pPX0drbmF3X1RsVldjMXhDb2FTa1FwaXZwR3BLWnJDOXBDLVhVbDdYbHdySmRSQQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">depression</span>
+
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmFFb0k1ODBYUHQxYW14dEFDU3RuQzI4UFJnX0JOSlpFRUtwbUFDVmhkbkhadzhKYXBnbG1hZVJvMXQ1dGNnQ1FDdDdyaWlhN2lQUTg1eU1jUTJTV0VBWW9BY2pPX0drbmF3X1RsVldjMXhDb2FTa1FwaXZwR3BLWnJDOXBDLVhVbDdYbHdySmRSQQ?oc=5)
+
+---
 
 ### [Was wir über den Zusammenhang zwischen Ernährung und Depression wirklich wissen](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEVLU3ZUUVZ6dVQxWW1oc1RWR0RGSEl2d0JWQTExY2VyLWs4NmUzaFBjemVteDVONlBSYWtiV2I5eXF6eUhDUVBxVUhFNVAxcDFuTGNhYXdGMWxsamRiNldDS3ZGcm9XQm91T0NLMWNTMktFN190TGFrY3FQRGI0T1BCbEF0VDF2TE40ZHZ3?oc=5)
 

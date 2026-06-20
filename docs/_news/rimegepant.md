@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Gürtelrose-Impfung senkt Demenzrisiko bei Älteren in Studie deutlich](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSjRlUUxJMnlXYkJ1bDVaRk1aUmgyTjZ2eVR3d19qN182X3c2dGgtdmp5QjU2SUhVLUo3eUlSWXQ2Q01ydW1mazZWUTdPa0dTUFlfTV9GMWEzUVZHQzJ4SmFrWlpQVjZ1MHpNRDhJcWJmREFnQV9MOFFGNWtIZmw3OHZnS2VEVHFYTmFFSG5PUlJMdzlZNk5JWHN1OXJ3TkxTQ2lKUWF6TGpRTEFCSllQR21nQ0wyNS1MX2tMSF9TMFhld0k3WC1BQ1ZuQlI5SDBrUGc?oc=5)
 
@@ -72,17 +72,9 @@ permalink: /news/rimegepant/
 
 ### [Researchers found 8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+2026-06-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
-
----
-
-### [Boy's life saved after angioplasty to reverse heart failure](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
-
-2026-06-18 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
 
 ---
 

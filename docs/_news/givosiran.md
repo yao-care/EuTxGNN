@@ -54,6 +54,22 @@ permalink: /news/givosiran/
 
 ## 相關新聞（5 則）
 
+### [Herzgesundheit: Heimmonitoring senkt Infarkt-Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHRra1NVbXRlNTUzalFYMkVvOGVpeERxWUFPb2Q3bk00WW9OaDhwbFpKY1EyWGxVaVFEWFNTNnlScExTWUFNMnNSOTZsMVo4ZGNVSTZNZmt0THpCajJkM2JRZGtLX05yckRkaTBSMzJsNjJtTG5Ta2U0eXc5YVMzNnFZUjFPNDVId0VkMVdMaENVTTZxUmk4V3Z2cXRhdkJEUWdvemJOVkJ6MjlXVV9Lb3dNTQ?oc=5)
+
+2026-06-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHRra1NVbXRlNTUzalFYMkVvOGVpeERxWUFPb2Q3bk00WW9OaDhwbFpKY1EyWGxVaVFEWFNTNnlScExTWUFNMnNSOTZsMVo4ZGNVSTZNZmt0THpCajJkM2JRZGtLX05yckRkaTBSMzJsNjJtTG5Ta2U0eXc5YVMzNnFZUjFPNDVId0VkMVdMaENVTTZxUmk4V3Z2cXRhdkJEUWdvemJOVkJ6MjlXVV9Lb3dNTQ?oc=5)
+
+---
+
+### [Ces 2 aliments à mettre dans vos salades cet été réduisent le risque d'hypertension de 30 % selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
+
+2026-06-19 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
+
+---
+
 ### [Los médicos alertan de la rápida progresión de la hepatitis Delta y de su relación con el cáncer de hígado - El Correo Gallego](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlNMVnI5WWF1c2JwRVEzZ0RYVE9qXzY4UWdQODVvYlNRbGZkd1djODNpNEoyXzVGOUFSc1h6VDBWRDhqREdJb01UMkM1bkE1Y216OWtkUjlCZkc5YVhCTUVOYS1DcnFPSHFaZHNxTDYteUZaZmJfZTJDSEdoUDhJZDhPZkllVHRyWTlnWXh4aFZEZHpYeW1lX09Ya09PZWd2T3BZWFpaZjJlQ0ZuUWlsLTRRTlJMS3k0Qi1Yd3lCMzN0aDkzWmtUcDYzc0lHRU5oZXRTTNIB2gFBVV95cUxNeVZ2YU91bi11MXFsdWM1RVJ3eTVweEdvMEpkNHJaUWk5RUFzTllhVUJjR3BKcGhmOVY5TC1za3JBa3lXRTQ3ZktwWHcwQ1JIRXhVaFd1eUc0VTZxTVl2Y3NxVDctVEZta2ROOUFkMVBjUzBDTFl5WTUtSXlFQ1VrLVkzekZzMkhoaW9hMmhrSDAyT21qMFhqTzVMNURwTDA0aGMzaWp6R0xhNUh5N09LNnNPLTI4ZVUtdUpoTG1aTVVUV19tZGpnMDVUWGV4WS1jZUpOUlVEeThhUQ?oc=5)
 
 2026-06-19 <span class="news-indication-tag">hepatitis</span>
@@ -70,25 +86,9 @@ permalink: /news/givosiran/
 
 ---
 
-### [Canicule : ces deux aliments, délicieux en salade, réduiraient l'hypertension](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
-
-2026-06-18 <span class="news-indication-tag">hypertension</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk8zUzQyMXROMldFRmpncXRuV0lKTXliTEliV0tNdVV5eTFLQzFGN3NDS0E4QTZoUWIxbVRmZzNjRXRHdEtTT292bkxoV1Z3bnZvbHRzZnF3WG1GQjV1d0JqRVRmeEZPVGpRNkU0NFhJeUFISGplc2N4VzZmdlJhdWx4MzRFSlVVbXJleWpGOGpkTmdINk5oSkZabTJSWWJUN1FYc01IV3doRXRJbC1LeTY0b2FRNFM2ZHpBcjZMcDg1VVc5cVlHZ1dONkx5c0F0eEx4MW1SNXQxclF0TzhqWnZuWFVjUHM?oc=5)
-
----
-
-### [Bluthochdruck: 20 Millionen Deutsche betroffen – Heimmonitoring senkt Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xUX1luSks0dnpJX0ZoTFdXRWV2dVhZakF1dUlnaHdwMjd5azdjZEJSMEphV0FBVHl2NThFZVNqVHBLMTI5c1hTaHRjSU9rdlp1YjBFaE9wNTFsWmU1LVdubFRaS3c2czA0X2ZYN0JQTkRfVW9wOGdycm5CUXo0Ynp1cER4TktfQ1NJanNMMUtYUmF0bnFtbnRKa3dEaURRc0xuSXRHQVFHRnpCUV9wSG9kbnF4dw?oc=5)
-
----
-
 ### [Researchers found 8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
 
-2026-06-18 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">heart disease</span>
+2026-06-18 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZcjJyV1NWMmlyNnRjMHBIS243VXQ1UjllQ2l3TzVTZXdMcGhxNkZneEp1RDdyWmJGZ1NLUHcyU1hsNDBNbHJhWHV1bjNHQlF6MWpGa3hQZ1NsaFdBdUFHcG1sN05LbkU4MWlnd29aQQ?oc=5)
 

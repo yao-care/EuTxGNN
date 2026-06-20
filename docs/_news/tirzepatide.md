@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Rheumatoide Arthritis: Abatacept senkt Erkrankungsrisiko um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
-
-2026-06-19 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
-
----
-
-### [« On nous demande de vérifier l'invérifiable » : Wegovy et Mounjaro font craindre une vague d'indus aux pharmaciens - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ2lNRzhxNDE1WDJzU2N4Vnd3dGNqc25Benp6QmJTZlowNkxXb1ZOVU5KSG9ZaFU3T2JKZnhGWFB3TkZiWkFhVGFVLVJ1bkZ6bGNiTEtXV3J5MWFRNkhGc2tyaFpBOFZObERLd2Zpcmdtei14ZE55NzNEejJWYUZKeXI2UlZMbDZxSHg2SDRnekFnM0o2Q0Q5UWNXLXRsZThmLUxuejBiRDlrWFRPRDZTdWQ5S1pwV3FLcXlDdjhtNzRhMDJUbUNuZXNPWHR1dF9Ka2djUDFsNXBGMFpDX0Y2TWg3MFNCVng0LU9VM2FGVzlnbEJtRWFVUkhlaXFMaGUwSnRwaVJNTHM?oc=5)
+### [Wegovy-Mounjaro : les consignes pour éviter les indus - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
 
 2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
 
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ2lNRzhxNDE1WDJzU2N4Vnd3dGNqc25Benp6QmJTZlowNkxXb1ZOVU5KSG9ZaFU3T2JKZnhGWFB3TkZiWkFhVGFVLVJ1bkZ6bGNiTEtXV3J5MWFRNkhGc2tyaFpBOFZObERLd2Zpcmdtei14ZE55NzNEejJWYUZKeXI2UlZMbDZxSHg2SDRnekFnM0o2Q0Q5UWNXLXRsZThmLUxuejBiRDlrWFRPRDZTdWQ5S1pwV3FLcXlDdjhtNzRhMDJUbUNuZXNPWHR1dF9Ka2djUDFsNXBGMFpDX0Y2TWg3MFNCVng0LU9VM2FGVzlnbEJtRWFVUkhlaXFMaGUwSnRwaVJNTHM?oc=5)
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
 
 ---
 

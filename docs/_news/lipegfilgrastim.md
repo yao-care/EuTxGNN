@@ -14,7 +14,7 @@ permalink: /news/lipegfilgrastim/
 ---
 
 <p class="key-answer" data-question="Lipegfilgrastim 有什麼相關新聞？">
-<strong>Lipegfilgrastim</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lipegfilgrastim</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/lipegfilgrastim/
 <p><a href="{{ '/drugs/lipegfilgrastim/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Bauchfett senkt Diabetesrisiko: Fettverteilung wirkt stärker als der BMI - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXJ4TjRINVNwczFyaDFjdU56Y0RFcWRUa05VSmR5cHFiMkRmOWlWbko4b3ZTWmRObUVDTFZiQ3liQV9MTzc1U0xXSXJ1OUQ2TmhRamM1ZXV2em5jWWYzSS1MR1U4T3JTWXpBVGZaSWx0NGJ0M0MwSDNNZzd6dHhqbzdhYmk3QklzejZibTJ1OXVGRlFhVEJ6LS1pNk8tOU8yZVlPN3YxNA?oc=5)
+### [Fettleber: Nur 10% weniger Bauchfett senkt Diabetesrisiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdC04QW5YSFVVZ0puaFVaUllzX1l5ZGtsRWJPb2x5UnhiLW9tVVRRR2QySlgxbEpqbjM3bnh4b3VFdHFzTG15UXlpcTFCeThvRE5BTnA1TVJmVkk5YnJtUm1oR0dBY1dzSjlINUtLLV9TdmdlLWtXY3JxM05IWHA4N3pCZ3BmcTl6QjhVckpqNmRReWNOT2lybEgzS3ZrUzNzNjlhLTk5RnBfR29ib1JOLThFNjNjZWJrVVE?oc=5)
 
-2026-06-19 <span class="news-indication-tag">diabetes</span>
+2026-06-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXJ4TjRINVNwczFyaDFjdU56Y0RFcWRUa05VSmR5cHFiMkRmOWlWbko4b3ZTWmRObUVDTFZiQ3liQV9MTzc1U0xXSXJ1OUQ2TmhRamM1ZXV2em5jWWYzSS1MR1U4T3JTWXpBVGZaSWx0NGJ0M0MwSDNNZzd6dHhqbzdhYmk3QklzejZibTJ1OXVGRlFhVEJ6LS1pNk8tOU8yZVlPN3YxNA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdC04QW5YSFVVZ0puaFVaUllzX1l5ZGtsRWJPb2x5UnhiLW9tVVRRR2QySlgxbEpqbjM3bnh4b3VFdHFzTG15UXlpcTFCeThvRE5BTnA1TVJmVkk5YnJtUm1oR0dBY1dzSjlINUtLLV9TdmdlLWtXY3JxM05IWHA4N3pCZ3BmcTl6QjhVckpqNmRReWNOT2lybEgzS3ZrUzNzNjlhLTk5RnBfR29ib1JOLThFNjNjZWJrVVE?oc=5)
 
 ---
 
@@ -78,27 +78,11 @@ permalink: /news/lipegfilgrastim/
 
 ---
 
-### [Diabetes erhöht Parkinson-Risiko um 27 Prozent: Metaanalyse warnt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
-
----
-
 ### [Neue Perspektive der Prävention: Prädiabetes-Remission könnte Krebsrisiko verringern - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
 
 2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzNvZVBBZUZqUlhUTGtMVXZueHBOakxBU3NoT3FDakdFekNJV0I5V3V6TXRpaDRzSXlXcDNydlhMeUZaalprRDFlbVNGWXI5RndXakhJYWJpNWJfeVZNMUh1YXR2N1hmRFNCRzRnTG91T0VRMzYzdzNZTUVFc1JDSDR1V2M5WWUwYVhidkJQbXFDMDhqa0ZNc1haMHZaQk96ckU3cEVGYUhHVjNkbXpqQWFHUXJ2WE0?oc=5)
-
----
-
-### [UZH-Forschende entwickeln Ansatz zur Prävention von Gefässkomplikationen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[punkt4.info](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWVUNUM4NlctLXVuZ2R5LU9tcC1MTXpka2Y3TUlIWU9HNVNHeFVtTnJhZXRibFFQXy01dW1rWlZobHgxaTBva3FhTmJyZEMwRU8tMTBvNzJ0RGQweTNtcU9Hdm54RWZDWC1IZHpST2NEc3I1VTY5a1BKSmptSERJblA5NE9qZGc2M1BYNm9PY0VPdDR2d3llemdsZmhld1Vvc21YSU5MYUJqX1h3SDl4MzZ1V2F5aWlJZUdJ?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/drospirenone/
 
 ---
 
-### [Rheumatoide Arthritis: Abatacept senkt Erkrankungsrisiko um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
+### [So wirksam ist Thymian gegen Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhHcFdrbEd3cGJzLXhnTUF0WVRfUzUwaERIdEZ5WGFBZzJlak04czRNNUtnVFRjQWpPVUwycG9XUUJKM1dVSXhqcFdhZ2l5UUMyVFB2WHE3NHpiWC1wakpqQXJHendIV2tKR1BldUtXTVRnejJyd24zMzlhUzJDUmtId1NkbzRqRGtMQ1FBNk5rbGlrVTVGcW1PMGxodWh5dUFqTWliUk04X056cm91djFn?oc=5)
 
-2026-06-19 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+2026-06-19 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhHcFdrbEd3cGJzLXhnTUF0WVRfUzUwaERIdEZ5WGFBZzJlak04czRNNUtnVFRjQWpPVUwycG9XUUJKM1dVSXhqcFdhZ2l5UUMyVFB2WHE3NHpiWC1wakpqQXJHendIV2tKR1BldUtXTVRnejJyd24zMzlhUzJDUmtId1NkbzRqRGtMQ1FBNk5rbGlrVTVGcW1PMGxodWh5dUFqTWliUk04X056cm91djFn?oc=5)
 
 ---
 

@@ -77,6 +77,22 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [Sex after cancer: the big taboo and why I’m talking about it - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdXUHlTdmd3NWZ0d0ptX1IwMW5IOWxXd18tS2N6dklTM0dCc1BIOEc3RGlXYTB6S2FRLVFCZjNWR0JiYlNmYnl4UWRJeXFRWjRScm9lbjNJNm9aS1NybEV0M2o1RzBKcmt5Z2VJV1BoSGFibG43Mlk3dDB4RlQ4MndFWHdQbndIYVRITUxHVmFDM3FtUkRyVmlKMVp1cDRCaFlYeTYwVjc?oc=5)
+
+2026-06-19
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdXUHlTdmd3NWZ0d0ptX1IwMW5IOWxXd18tS2N6dklTM0dCc1BIOEc3RGlXYTB6S2FRLVFCZjNWR0JiYlNmYnl4UWRJeXFRWjRScm9lbjNJNm9aS1NybEV0M2o1RzBKcmt5Z2VJV1BoSGFibG43Mlk3dDB4RlQ4MndFWHdQbndIYVRITUxHVmFDM3FtUkRyVmlKMVp1cDRCaFlYeTYwVjc?oc=5)
+
+---
+
+### [More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’ - Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUpGcUE0UXYwRGJOU3gyR3QxeEdIcER1eHhQZ05QRmFUZ0Vra3FSQjE4Z0JUS29pUWRqT2toYzA2cWdyWHh1UERIU1h4N0RwRE1GaHZET0tZWjZBWGdwcXpqRWQyVnp6S2Z0NnhDUFRPMUxzcFNlel9oRmR4YnFpdGRXejJPMzlBeTRCV0pKQ1FHMlR4TnBFbnF3TGloeUgtQjJKX3d1bFNTaWtacEHSAbMBQVVfeXFMTzhMc2ltSFZ0OUROdk9FOEdLa09YYTJpa2hDbmpzdlUzcGlKSlZYTnN2YXZkMGF6eXN4d1AyWjV4cjBxSnRrZ2VUWkZHeVEwNWMyUzU4dGZUZHBtdklNTW9OVjZvRGZFZk9vZ3BFSHJtTWU2cWtDZEY4c28wNWtiLVNEUUhkeE9JX1VOcGdpVG5fbnRLS0hSMTA1eFJ4ZEVzeXlGcWZmTUN2VjhTT2tUWTlORUE?oc=5)
+
+2026-06-19
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUpGcUE0UXYwRGJOU3gyR3QxeEdIcER1eHhQZ05QRmFUZ0Vra3FSQjE4Z0JUS29pUWRqT2toYzA2cWdyWHh1UERIU1h4N0RwRE1GaHZET0tZWjZBWGdwcXpqRWQyVnp6S2Z0NnhDUFRPMUxzcFNlel9oRmR4YnFpdGRXejJPMzlBeTRCV0pKQ1FHMlR4TnBFbnF3TGloeUgtQjJKX3d1bFNTaWtacEHSAbMBQVVfeXFMTzhMc2ltSFZ0OUROdk9FOEdLa09YYTJpa2hDbmpzdlUzcGlKSlZYTnN2YXZkMGF6eXN4d1AyWjV4cjBxSnRrZ2VUWkZHeVEwNWMyUzU4dGZUZHBtdklNTW9OVjZvRGZFZk9vZ3BFSHJtTWU2cWtDZEY4c28wNWtiLVNEUUhkeE9JX1VOcGdpVG5fbnRLS0hSMTA1eFJ4ZEVzeXlGcWZmTUN2VjhTT2tUWTlORUE?oc=5)
+
+---
+
 ### [Bluttest-Revolution: Alzheimer-Diagnose in nur 17 Minuten möglich - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3Q4OXc1NFRwUTJ6YTVzYlpJYTFYbTlna1hCbDVyb3c2bE1jNzc4WXNCM2JTUXBRRE1yb1FYSFFLazRncjJPMlFmX2hyckNCWGgwMVhNclM5RXZrQTMxS0c3cGh0NlpDRkdWd3RNaWVJUjVEcHlwUU9sNEFKN3Rfd3Z3bzBNRnZvcTB6Z053TWxVeEdiSVlhWm91WG5pWlZxdm53WFNJVnJUVUM0S2VsS01KU0Y?oc=5)
 
 2026-06-19
@@ -109,6 +125,14 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [Wegovy-Mounjaro : les consignes pour éviter les indus - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
+
+2026-06-19
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
+
+---
+
 ### [Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIa3doekl3TVVDeHljVC1YTm5BRlZiMVliN2dya3FKUXg2MVBwTmhrb2llNkFXOTZuNWtZVE9wajJkSjhiRVFUbllUazFfcklDSEhISVpPSXEwOC12?oc=5)
 
 2026-06-19
@@ -117,19 +141,19 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Ebola outbreak: 17 medics dead as Chinese medical team arrives in Democratic Republic of Congo - Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTYxWW53dFNuUFltNnVFeVJCckk3SkJranNZNnpmMlRTeGlDdGQ5eTd4MDlVV21TeWYxN1MxNFNqQ2h1bjRxcWY4SkdHUzZ2WUp5U2ZQdkpWUVZJdjdfcDRqQUo3Rzl1bG83enloZnNZMkpLeDhmU3ZhVkptaUtIQnB3R0RVcGNJS0dTTTNEZXEwbE9RbmxjS0xEX3Jabko3WDRPTFlYN1ZsRmY1MkZUelBnZHlOaVl4dW5EWDZ3bjExU3Q5NWJ1OQ?oc=5)
+### [Hipotensión en verano: cómo afecta el calor a la tensión baja - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnhDaVkzck1oNmFvLUVUNl9NLU05dzA0a1hrb1RrUV90OV9xd1kwZVpEOXJscTNhWnVqSGRBNmNBMHpuTnBlVnBMNXJ5OU9BZFVDNFpxZUFzell3ai1kc19sMlpScWxFd05obzlhc2tpMUlHWUhGWlp6NURUMmVKbVlRNDlKbWVJVnA0Rm5JTGJldVRXTzVzbHRudmpkVFEybGNDVXEwbw?oc=5)
 
 2026-06-19
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTYxWW53dFNuUFltNnVFeVJCckk3SkJranNZNnpmMlRTeGlDdGQ5eTd4MDlVV21TeWYxN1MxNFNqQ2h1bjRxcWY4SkdHUzZ2WUp5U2ZQdkpWUVZJdjdfcDRqQUo3Rzl1bG83enloZnNZMkpLeDhmU3ZhVkptaUtIQnB3R0RVcGNJS0dTTTNEZXEwbE9RbmxjS0xEX3Jabko3WDRPTFlYN1ZsRmY1MkZUelBnZHlOaVl4dW5EWDZ3bjExU3Q5NWJ1OQ?oc=5)
+來源：[Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnhDaVkzck1oNmFvLUVUNl9NLU05dzA0a1hrb1RrUV90OV9xd1kwZVpEOXJscTNhWnVqSGRBNmNBMHpuTnBlVnBMNXJ5OU9BZFVDNFpxZUFzell3ai1kc19sMlpScWxFd05obzlhc2tpMUlHWUhGWlp6NURUMmVKbVlRNDlKbWVJVnA0Rm5JTGJldVRXTzVzbHRudmpkVFEybGNDVXEwbw?oc=5)
 
 ---
 
-### [Es necesario aumentar los controles de presión arterial ante el aumento de las temperaturas - El médico interactivo](https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzFOVjh4VENfV0l0TTB6Mk96aHU3YVJIY3VERGFlcUVjSWU1OXVqQUdYTWtyRTAwem1xU1pYNzNSSm9WcFotdm82Y21JMnFHaXY2LXc1dXRteTJ2NnVnWHcwbnBhUXVmRXhSZERXcms2U0VfZ2FXX0VFRF9LRmJXSVJZdG0zalJqalZlQTJPaHgzR01xMkpBY0JKNTVnSTVmOUxJR1JLVW5TQjhZVktBYQ?oc=5)
+### [Could the HPV vaccine eliminate cervical cancer deaths? - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVdfelAxMHNDay1fTlpiOENuTi0weEw1SVVIeVNkbjc0R0loemJXVzBPeUJIMVVJV0RaRkxoYm9kSHYwVWVFbWxNZGZYRUNQWkgtYlNCRW5ETzhGMFVvMjZtWmRhQnoyMWhxU0xfS3BsRmtrYmJWeGxWbEVyUnYyR21jYkt5NkZtamJDb05LYW1nZ29pNkhDQWV5c9IBoAFBVV95cUxOREhJM21FVC01clVOZGxLX1M4RVNtVkt3LTBjSW8tYUVUeHdSN1JGSDEwdFVBeVFWRnpYWGMxVXp1WGFmXzhPVVFKMmtnQVpEOUF0TzZlQVpENkNoUXhqZHFFNlFNaUpvSzZsdFd1X2x6bl8xaUNVaUQ0TWlpN1hRRHpyN3VyWVl6OGtXVkJMbnpLSklIYnBENjJ0TVJDMVh2?oc=5)
 
 2026-06-19
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzFOVjh4VENfV0l0TTB6Mk96aHU3YVJIY3VERGFlcUVjSWU1OXVqQUdYTWtyRTAwem1xU1pYNzNSSm9WcFotdm82Y21JMnFHaXY2LXc1dXRteTJ2NnVnWHcwbnBhUXVmRXhSZERXcms2U0VfZ2FXX0VFRF9LRmJXSVJZdG0zalJqalZlQTJPaHgzR01xMkpBY0JKNTVnSTVmOUxJR1JLVW5TQjhZVktBYQ?oc=5)
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVdfelAxMHNDay1fTlpiOENuTi0weEw1SVVIeVNkbjc0R0loemJXVzBPeUJIMVVJV0RaRkxoYm9kSHYwVWVFbWxNZGZYRUNQWkgtYlNCRW5ETzhGMFVvMjZtWmRhQnoyMWhxU0xfS3BsRmtrYmJWeGxWbEVyUnYyR21jYkt5NkZtamJDb05LYW1nZ29pNkhDQWV5c9IBoAFBVV95cUxOREhJM21FVC01clVOZGxLX1M4RVNtVkt3LTBjSW8tYUVUeHdSN1JGSDEwdFVBeVFWRnpYWGMxVXp1WGFmXzhPVVFKMmtnQVpEOUF0TzZlQVpENkNoUXhqZHFFNlFNaUpvSzZsdFd1X2x6bl8xaUNVaUQ0TWlpN1hRRHpyN3VyWVl6OGtXVkJMbnpLSklIYnBENjJ0TVJDMVh2?oc=5)
 
 ---
 
@@ -173,27 +197,19 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [« On nous demande de vérifier l'invérifiable » : Wegovy et Mounjaro font craindre une vague d'indus aux pharmaciens - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ2lNRzhxNDE1WDJzU2N4Vnd3dGNqc25Benp6QmJTZlowNkxXb1ZOVU5KSG9ZaFU3T2JKZnhGWFB3TkZiWkFhVGFVLVJ1bkZ6bGNiTEtXV3J5MWFRNkhGc2tyaFpBOFZObERLd2Zpcmdtei14ZE55NzNEejJWYUZKeXI2UlZMbDZxSHg2SDRnekFnM0o2Q0Q5UWNXLXRsZThmLUxuejBiRDlrWFRPRDZTdWQ5S1pwV3FLcXlDdjhtNzRhMDJUbUNuZXNPWHR1dF9Ka2djUDFsNXBGMFpDX0Y2TWg3MFNCVng0LU9VM2FGVzlnbEJtRWFVUkhlaXFMaGUwSnRwaVJNTHM?oc=5)
-
-2026-06-19
-
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ2lNRzhxNDE1WDJzU2N4Vnd3dGNqc25Benp6QmJTZlowNkxXb1ZOVU5KSG9ZaFU3T2JKZnhGWFB3TkZiWkFhVGFVLVJ1bkZ6bGNiTEtXV3J5MWFRNkhGc2tyaFpBOFZObERLd2Zpcmdtei14ZE55NzNEejJWYUZKeXI2UlZMbDZxSHg2SDRnekFnM0o2Q0Q5UWNXLXRsZThmLUxuejBiRDlrWFRPRDZTdWQ5S1pwV3FLcXlDdjhtNzRhMDJUbUNuZXNPWHR1dF9Ka2djUDFsNXBGMFpDX0Y2TWg3MFNCVng0LU9VM2FGVzlnbEJtRWFVUkhlaXFMaGUwSnRwaVJNTHM?oc=5)
-
----
-
-### [Herzgesundheit: 4 Risikofaktoren erklären 99% der Ereignisse - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1ZBaVA1ZWN3RUZUM1ZTSkZpUnhJYVN3Nk5EcmE4R3RuSzFiMTdneXNxOUFRWlhPQWU3N3lJTF9uVmpGeUFWM1ZEZFFSbTdVUEpkakdOT25DN0tXSmstX3NmT0FVRjRnN3JZeGlnNlJzdk5iUVM1YmdKSjFQdU5haEdzM0VvdTRZR29NVHVxNDd2bUdLTUE?oc=5)
-
-2026-06-19
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1ZBaVA1ZWN3RUZUM1ZTSkZpUnhJYVN3Nk5EcmE4R3RuSzFiMTdneXNxOUFRWlhPQWU3N3lJTF9uVmpGeUFWM1ZEZFFSbTdVUEpkakdOT25DN0tXSmstX3NmT0FVRjRnN3JZeGlnNlJzdk5iUVM1YmdKSjFQdU5haEdzM0VvdTRZR29NVHVxNDd2bUdLTUE?oc=5)
-
----
-
 ### [Therapieforschung: Lichtschalter im Erbgut macht Krebszellen gezielt verwundbar](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnNSNkZFYk9SX0FmdUlhMENCblRVcm5fcThrX1hMMlpGLU1HWnFFdFJBaTZGSFBpZzNVazJIOVVNZG8zd2RLeGRYSWRlT2E2cE56YThzSUhvSFAzUjlwVDNMd19hY0ZpRnFQM1daTl9CelJsclczNE9ZWG1RN3FKTTJ5NFNlbDlvT1VEWXhmTkdRYkNO?oc=5)
 
 2026-06-19
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnNSNkZFYk9SX0FmdUlhMENCblRVcm5fcThrX1hMMlpGLU1HWnFFdFJBaTZGSFBpZzNVazJIOVVNZG8zd2RLeGRYSWRlT2E2cE56YThzSUhvSFAzUjlwVDNMd19hY0ZpRnFQM1daTl9CelJsclczNE9ZWG1RN3FKTTJ5NFNlbDlvT1VEWXhmTkdRYkNO?oc=5)
+
+---
+
+### [Herzgesundheit: 99 Prozent aller Ereignisse durch 4 Faktoren erklärbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFpVVnlrdU13RW13V0FMZmJxd2FpTlowd1BSVWYwMFBiazF5ak9tbzNjN3VPbUllSFg2Z3RNTUduQ1hmcFhaODVPZ0JMY2dMdmRBOURudFk5VE5PRzBPd2VuN0VsTE9GV0JoZ2tSQk16ekJwbWsxQXBaY0JzV0hxY1J5Y0NrWU4xVTJCZk9uSXlxT0dqZTlMR3VCNzlDVzNGUHdCdHhYWEpPSEtsZm5Xaks3SlNIRUhyRm9N?oc=5)
+
+2026-06-19
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFpVVnlrdU13RW13V0FMZmJxd2FpTlowd1BSVWYwMFBiazF5ak9tbzNjN3VPbUllSFg2Z3RNTUduQ1hmcFhaODVPZ0JMY2dMdmRBOURudFk5VE5PRzBPd2VuN0VsTE9GV0JoZ2tSQk16ekJwbWsxQXBaY0JzV0hxY1J5Y0NrWU4xVTJCZk9uSXlxT0dqZTlMR3VCNzlDVzNGUHdCdHhYWEpPSEtsZm5Xaks3SlNIRUhyRm9N?oc=5)
 
 ---
 
@@ -237,27 +253,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Boy's life saved after angioplasty to reverse heart failure](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
-
-2026-06-18
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91aFFLN0xYWHhfdjY5WWNXRGdvTmQwTU91TjVHeWMtNGc5V1BmMnBueUVfbEZGZjFCWERRZUhMYzJzUWVFWFNvOW9Pcy1vU2Z3TDhyR05BSTdqaTc1?oc=5)
-
----
-
 ### [Spezialisten am Werk – Nervenzellen passen Struktur und Funktion ihrer Aufgabe an - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVhib2M5S3FIaVZ4dmFLQVRuLU45RzE4UENCWEtJQnR2TS1vcDRraHFlOWxCS285NXNmSlR6NDEwY2NzNXV1T0p1UmNjeU9haFltMXc2VXM0NzA1UDdrUDRfUzNPY3ZTcU01YVA1dFhha3o1NVdBeUlBaDZnQTI2WU8xakRVcFlWdGtDUWRHWUJLUWRYcFJUc2h2TjFiODRtQlpMMmhyeUY4c1RvczJuZmxjUXgyVWlmUmRfRmJJUEFUR1RFQUI1Wl94dnZDN0lFVWZN?oc=5)
 
 2026-06-18
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVhib2M5S3FIaVZ4dmFLQVRuLU45RzE4UENCWEtJQnR2TS1vcDRraHFlOWxCS285NXNmSlR6NDEwY2NzNXV1T0p1UmNjeU9haFltMXc2VXM0NzA1UDdrUDRfUzNPY3ZTcU01YVA1dFhha3o1NVdBeUlBaDZnQTI2WU8xakRVcFlWdGtDUWRHWUJLUWRYcFJUc2h2TjFiODRtQlpMMmhyeUY4c1RvczJuZmxjUXgyVWlmUmRfRmJJUEFUR1RFQUI1Wl94dnZDN0lFVWZN?oc=5)
-
----
-
-### [Bird flu kills more than 75% of baby seals on remote Australian island, study finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OekdESG9HUVdka0RzT2tRbE1xbFVnbXBYbTItMzZDUUZJSXNDQTlvZUZjUlZZcDY5dkRZRHdkdFh2N2RETjVHV05FTUx6ZkluVWJObmRBX0JoZzhq?oc=5)
-
-2026-06-18
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OekdESG9HUVdka0RzT2tRbE1xbFVnbXBYbTItMzZDUUZJSXNDQTlvZUZjUlZZcDY5dkRZRHdkdFh2N2RETjVHV05FTUx6ZkluVWJObmRBX0JoZzhq?oc=5)
 
 ---
 

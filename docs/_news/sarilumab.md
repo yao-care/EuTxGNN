@@ -54,6 +54,14 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（3 則）
 
+### [Morbus Crohn: IL-10-Mangel durch HLA-DRB1*01:03 entschlüsselt - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
+
+2026-06-19 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
+
+---
+
 ### [GNW-News: Professor Mohamed Shamji übernimmt EAACI-Präsidentschaft zum Abschluss des Kongresses 2026 in Istanbul - boerse.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTWpHSWNkSVJreXJTRkFuQVpEQWhCMnpwSEV4WTJ5VG9Qaml2bVIwSEVHanFJX0laNFNsT3V2eG92SEdwYWpDNXNGbjlNOE1kSkRoWWdWRTd3YUhDaHAwWjBPVUtpOG0zQlJ6TFMzMkxwRmszNkxYRTlSeXV0V1lGTmxMYTRpcXV1UTFBSjFUOENnd3c4cmtuNy01emJxYmZvckQ5NVZWTHgyQ1JZZHB2MXNPRlJyS2oyVWtBRkFuUDVVSnNRZHh6YWlHRDZTNUpIRFFjN2lQMzNUWlI1aUlkNFQxQ3FhUlRkYVRnYdIB8gFBVV95cUxPYWlXWTdpV3hEVnd4MGxkSFd6QjE0emVZVVFtc29fN3JRX0xUS21zUFpTdjJpc2g5OFBYcllhVTRtaEx2QXJjUEtSd0hOZmZjbWIwbzktQmtCQjl3YjlXVGxOM3YzbnJZZVFGRlN5VzkwY0NGbm9sdWpfVDd2Y0ZVb1E2bWI0TjNTSXlWVVYwSmZjeVU1SFM2TlRIQm9PNGlXUmozT2hfdWl2WndzUWNJOWNmV3ZDb2lzc2dQamRnYUkxUm1BWkFWdEIxZDY4cjhSRXQza0d1LWlncW4tXzgzekFrUl8teWdIeTQzUGNGeDJsUQ?oc=5)
 
 2026-06-19 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
@@ -62,19 +70,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [HLA-DRB1*01:03 identifiziert Risikomarker für IBD und öffnet Weg zu personalisierten Therapien - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUF6N0RfWDdzM0RCc3AxR1lmOU5OZjhkSUVpWjRQNnB5N3JlZ0hzam5xYmdFTzlyRnJrVVAzenhZVkhhaGhoU0ZHVG5ZT3lEMHBJRG5Eb0pCR2R0UXhHRS1ibFBnNTdycy1aYllWbGZibjhMbDkxQVJNWm5tX1V1R0VPZl9lZTZmSV9uRGJacjVmRi1rc2hqX3pSM0w0ODRwVmVqTTVsSWJOc2hhcV9oMnlFdkttUVNHX2o3N3RheEU3V2N6?oc=5)
+### [So wirksam ist Thymian gegen Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhHcFdrbEd3cGJzLXhnTUF0WVRfUzUwaERIdEZ5WGFBZzJlak04czRNNUtnVFRjQWpPVUwycG9XUUJKM1dVSXhqcFdhZ2l5UUMyVFB2WHE3NHpiWC1wakpqQXJHendIV2tKR1BldUtXTVRnejJyd24zMzlhUzJDUmtId1NkbzRqRGtMQ1FBNk5rbGlrVTVGcW1PMGxodWh5dUFqTWliUk04X056cm91djFn?oc=5)
 
-2026-06-19 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-06-19 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdUF6N0RfWDdzM0RCc3AxR1lmOU5OZjhkSUVpWjRQNnB5N3JlZ0hzam5xYmdFTzlyRnJrVVAzenhZVkhhaGhoU0ZHVG5ZT3lEMHBJRG5Eb0pCR2R0UXhHRS1ibFBnNTdycy1aYllWbGZibjhMbDkxQVJNWm5tX1V1R0VPZl9lZTZmSV9uRGJacjVmRi1rc2hqX3pSM0w0ODRwVmVqTTVsSWJOc2hhcV9oMnlFdkttUVNHX2o3N3RheEU3V2N6?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Abatacept senkt Erkrankungsrisiko um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
-
-2026-06-19 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1BnUTVibzZqVHdYeHdmOENCWU1tdnJGRXdFM2Zlb0dNdmc4TjlWTjhOdlgzbWNSaVZIam51U0dNYlZzUElyd2VYSGdkUi0zdXRJbGlQd0tRWFF1MjhBTDZRLVd0TV9PZDBBYU13djYwNFNkWDdJM0tESENCUUVaQTRoNnZSRzJnaW41RnV6UW5UTENRZ3V3aDd3aDdKa0w1cFRaNE5pME5IcEZiWlJjTzVPOEZmeEZCT1E?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhHcFdrbEd3cGJzLXhnTUF0WVRfUzUwaERIdEZ5WGFBZzJlak04czRNNUtnVFRjQWpPVUwycG9XUUJKM1dVSXhqcFdhZ2l5UUMyVFB2WHE3NHpiWC1wakpqQXJHendIV2tKR1BldUtXTVRnejJyd24zMzlhUzJDUmtId1NkbzRqRGtMQ1FBNk5rbGlrVTVGcW1PMGxodWh5dUFqTWliUk04X056cm91djFn?oc=5)
 
 ---
 
