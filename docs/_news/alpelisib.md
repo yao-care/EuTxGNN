@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="Alpelisib 有什麼相關新聞？">
-<strong>Alpelisib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alpelisib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/alpelisib/
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [From birth defects to arthritis and asthma - the cleaning products harming your family’s health, experts warn - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/alpelisib/
 
 ---
 
-### [Herzinfarkt 2026: Neue Medikamente und KI-Monitoring senken Sterblichkeit - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1Vjem9ZcUx4SFRvSXdvWWI3SWQ0Vk91Q3VQNnlEelhTamJoQW96dzc3SXJWV1ZNWEFtYkFjN1I5UFJSUlFNaVRQUHZqb3owS2o0eG9tNU1iLURvTFM5aUxObFR0cm1KYk5tVGl3NGo5Wl9PM1FlQXlyX0JqMFJhWnI2T3lpSHFKTjNwS01xZTM1TUNtZHJ5TWl2OWR6VlNISGV4ZVgxSQ?oc=5)
+### [Bluthochdruck: Heim-Messung senkt Herzinfarkt-Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0gxNUhHMGUyZHBjbFJxQjhmT3V1enR3MHloQWs3SU5tWjI2ZWtpb21DMUtYb2VOVS1aMmhHb3lscHR3bjZpQTF0WGUzUDhiNUVicHlsZEZsR0dZQW5PbU1TUTkyMnNiUEVlSGV5QUlnV2t6YjBXdi1NTXVCWklqQ0tnTmtOdHNRVEszUTZlTHhJcWwzNEZDVEtpYVVzUGVhd05jdXo5X0J2QWpPaUhGcmZ2Q1E?oc=5)
 
 2026-06-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1Vjem9ZcUx4SFRvSXdvWWI3SWQ0Vk91Q3VQNnlEelhTamJoQW96dzc3SXJWV1ZNWEFtYkFjN1I5UFJSUlFNaVRQUHZqb3owS2o0eG9tNU1iLURvTFM5aUxObFR0cm1KYk5tVGl3NGo5Wl9PM1FlQXlyX0JqMFJhWnI2T3lpSHFKTjNwS01xZTM1TUNtZHJ5TWl2OWR6VlNISGV4ZVgxSQ?oc=5)
-
----
-
-### [Ces 2 aliments à mettre dans vos salades cet été réduisent le risque d'hypertension de 30 % selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
-
-2026-06-19 <span class="news-indication-tag">hypertension</span>
-
-來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0gxNUhHMGUyZHBjbFJxQjhmT3V1enR3MHloQWs3SU5tWjI2ZWtpb21DMUtYb2VOVS1aMmhHb3lscHR3bjZpQTF0WGUzUDhiNUVicHlsZEZsR0dZQW5PbU1TUTkyMnNiUEVlSGV5QUlnV2t6YjBXdi1NTXVCWklqQ0tnTmtOdHNRVEszUTZlTHhJcWwzNEZDVEtpYVVzUGVhd05jdXo5X0J2QWpPaUhGcmZ2Q1E?oc=5)
 
 ---
 

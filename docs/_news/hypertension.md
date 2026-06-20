@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Herzinfarkt 2026: Neue Medikamente und KI-Monitoring senken Sterblichkeit - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1Vjem9ZcUx4SFRvSXdvWWI3SWQ0Vk91Q3VQNnlEelhTamJoQW96dzc3SXJWV1ZNWEFtYkFjN1I5UFJSUlFNaVRQUHZqb3owS2o0eG9tNU1iLURvTFM5aUxObFR0cm1KYk5tVGl3NGo5Wl9PM1FlQXlyX0JqMFJhWnI2T3lpSHFKTjNwS01xZTM1TUNtZHJ5TWl2OWR6VlNISGV4ZVgxSQ?oc=5)
+### [Bluthochdruck: Heim-Messung senkt Herzinfarkt-Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0gxNUhHMGUyZHBjbFJxQjhmT3V1enR3MHloQWs3SU5tWjI2ZWtpb21DMUtYb2VOVS1aMmhHb3lscHR3bjZpQTF0WGUzUDhiNUVicHlsZEZsR0dZQW5PbU1TUTkyMnNiUEVlSGV5QUlnV2t6YjBXdi1NTXVCWklqQ0tnTmtOdHNRVEszUTZlTHhJcWwzNEZDVEtpYVVzUGVhd05jdXo5X0J2QWpPaUhGcmZ2Q1E?oc=5)
 
 2026-06-20
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1Vjem9ZcUx4SFRvSXdvWWI3SWQ0Vk91Q3VQNnlEelhTamJoQW96dzc3SXJWV1ZNWEFtYkFjN1I5UFJSUlFNaVRQUHZqb3owS2o0eG9tNU1iLURvTFM5aUxObFR0cm1KYk5tVGl3NGo5Wl9PM1FlQXlyX0JqMFJhWnI2T3lpSHFKTjNwS01xZTM1TUNtZHJ5TWl2OWR6VlNISGV4ZVgxSQ?oc=5)
-
----
-
-### [Ces 2 aliments à mettre dans vos salades cet été réduisent le risque d'hypertension de 30 % selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
-
-2026-06-19
-
-來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0gxNUhHMGUyZHBjbFJxQjhmT3V1enR3MHloQWs3SU5tWjI2ZWtpb21DMUtYb2VOVS1aMmhHb3lscHR3bjZpQTF0WGUzUDhiNUVicHlsZEZsR0dZQW5PbU1TUTkyMnNiUEVlSGV5QUlnV2t6YjBXdi1NTXVCWklqQ0tnTmtOdHNRVEszUTZlTHhJcWwzNEZDVEtpYVVzUGVhd05jdXo5X0J2QWpPaUhGcmZ2Q1E?oc=5)
 
 ---
 

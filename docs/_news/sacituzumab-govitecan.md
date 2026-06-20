@@ -54,19 +54,43 @@ permalink: /news/sacituzumab-govitecan/
 
 ## 相關新聞（10 則）
 
+### [Intervallfasten: 28% weniger Diabetes-Risiko durch 10% Bauchfett-Abbau - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxORFB4WC1fcTBWQmFSWXFvTzduRWVCNFYxYy1DMFJyRnZzMmFLZ0xNRUxyY2tOaE1WYTVIRUthVWVjSUFfLWpFMHRGejRSSmZjZTZ4SktBMTZUSEpXT0RfYVZnOXFtT3dyTnJrTWxwOXRKZTJtUkhDV0l5RVJYZGcyRjVzWGdCcnR5NFRkWGZCeVJNTGMwOVVPSnE2N1BLSHU2NTgtbmw5NFlBem5nR25ETTBmVmxIT00?oc=5)
+
+2026-06-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxORFB4WC1fcTBWQmFSWXFvTzduRWVCNFYxYy1DMFJyRnZzMmFLZ0xNRUxyY2tOaE1WYTVIRUthVWVjSUFfLWpFMHRGejRSSmZjZTZ4SktBMTZUSEpXT0RfYVZnOXFtT3dyTnJrTWxwOXRKZTJtUkhDV0l5RVJYZGcyRjVzWGdCcnR5NFRkWGZCeVJNTGMwOVVPSnE2N1BLSHU2NTgtbmw5NFlBem5nR25ETTBmVmxIT00?oc=5)
+
+---
+
+### [Castilla y León impulsa una base de datos de riesgo cardiovascular para mejorar las estrategias de prevención en salud pública](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaU9SX2ZZeHEzWThGMlRjdzVhTHI5ankzNUVjTE1qZGgyS0RRaGJRbE9wMVhVdklGQlp5N0VXcXdKalNwVXFuZHhnWVQxWF9pNDhad1AwYVZSVHA0c09XQUJwcVpuNGRrRHpNT0hnNTh1bm1PWDI0bFFTel96SXcwdW1CYlpnWkhXbnhaSDBURzV5emZnTm5LTUM2VFRwTEloYllGMC1uUzZJQmlFUTMwTFc1M1d1bGJqTjFWT2dfd08yaDJWWTJTRTM0UXZLaUIySHNBM3JKS2U4Qzdid29BQm5WdHhTY0U2WXpJSWx0dUM4U1k5QjZTSnhWTWRnQdIBgwJBVV95cUxPX0NsU2FSa0RoRWlBOVdzbjk5QVhvQ0gxSW9yT1FXbXI5WkQxMFVGS2VodWt0NnY1QTRudHpKOENVbFNLX1l4bDhHdTQtNnFhVV9jM3pGQ21yc0FVRmdLeDgxeTNxdDF3RWtPb2R3VENhcHM2bU1Bb25BZFk2cUFiemU0cWpfOXJNcF9mXzhacU1uOWFhbFNVbmVGZmt0V1Y1a2tjRnpVZzVoQk5ZQ0FLd1NOb3M3NERiT2U3c0xVVGdmVmt5bE13SDRTakNvdDJnRWRsVFJwbWRKaHdxRHl2dGwwWTZCa2NKSmhOOTlmVHVaWFZZQ2x3NUZlRjMzVTZ3RExn?oc=5)
+
+2026-06-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[desdeSoria](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaU9SX2ZZeHEzWThGMlRjdzVhTHI5ankzNUVjTE1qZGgyS0RRaGJRbE9wMVhVdklGQlp5N0VXcXdKalNwVXFuZHhnWVQxWF9pNDhad1AwYVZSVHA0c09XQUJwcVpuNGRrRHpNT0hnNTh1bm1PWDI0bFFTel96SXcwdW1CYlpnWkhXbnhaSDBURzV5emZnTm5LTUM2VFRwTEloYllGMC1uUzZJQmlFUTMwTFc1M1d1bGJqTjFWT2dfd08yaDJWWTJTRTM0UXZLaUIySHNBM3JKS2U4Qzdid29BQm5WdHhTY0U2WXpJSWx0dUM4U1k5QjZTSnhWTWRnQdIBgwJBVV95cUxPX0NsU2FSa0RoRWlBOVdzbjk5QVhvQ0gxSW9yT1FXbXI5WkQxMFVGS2VodWt0NnY1QTRudHpKOENVbFNLX1l4bDhHdTQtNnFhVV9jM3pGQ21yc0FVRmdLeDgxeTNxdDF3RWtPb2R3VENhcHM2bU1Bb25BZFk2cUFiemU0cWpfOXJNcF9mXzhacU1uOWFhbFNVbmVGZmt0V1Y1a2tjRnpVZzVoQk5ZQ0FLd1NOb3M3NERiT2U3c0xVVGdmVmt5bE13SDRTakNvdDJnRWRsVFJwbWRKaHdxRHl2dGwwWTZCa2NKSmhOOTlmVHVaWFZZQ2x3NUZlRjMzVTZ3RExn?oc=5)
+
+---
+
+### [Sedisa demanda en el Senado un cribado pediátrico universal de diabetes tipo 1](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWE0a0xhbzdYMmpvMDVVdkxOZ2Qtb0RrVE4zWi1IWVpsOW1Udnh0M1hRSW1JaHprRzFucWhYTGs5UDU5STN2Ym1WOFRvcGhhTGVSdlNZODJDLXNGTm9sS3NyZ3NhTGx1X0dYZ1EycEFUaENHSHFvdTQ1Y0V3Mml6WFJNOUFqTl9hcGlfUE5RN1VLMHpHOThxSTZBZW5kdi1ST1ZJZlQ0TnJhbzM4VUYyeTNlcmJIYW5SV014Rk5ZZWxJQ0h0Q3I2LQ?oc=5)
+
+2026-06-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWE0a0xhbzdYMmpvMDVVdkxOZ2Qtb0RrVE4zWi1IWVpsOW1Udnh0M1hRSW1JaHprRzFucWhYTGs5UDU5STN2Ym1WOFRvcGhhTGVSdlNZODJDLXNGTm9sS3NyZ3NhTGx1X0dYZ1EycEFUaENHSHFvdTQ1Y0V3Mml6WFJNOUFqTl9hcGlfUE5RN1VLMHpHOThxSTZBZW5kdi1ST1ZJZlQ0TnJhbzM4VUYyeTNlcmJIYW5SV014Rk5ZZWxJQ0h0Q3I2LQ?oc=5)
+
+---
+
 ### [Prädiabetes: Normalisierter Blutzucker senkt Herzinfarkt-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnE0YUEzVDd3VUNfUWNEal9scml3allaS3NqY0JUbXRQVmdneHpxTm1hcTgtazQtUVg4VGFrb3ZmRXVhVlVkS2FtQUhxa2QzekljbmF3SndLd29WOWZiQmFGWTdsWUYxdDE0ZE40bW0zSERULV96U1phV2ZVTThRZFFoYWlrRldtSnpWNTVua3puWFNxWFd1cVlMWC1lNzVsSEZTTkQtRTkzMk5pMVA5UmNvV192NEoxVXc?oc=5)
 
-2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span>
+2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnE0YUEzVDd3VUNfUWNEal9scml3allaS3NqY0JUbXRQVmdneHpxTm1hcTgtazQtUVg4VGFrb3ZmRXVhVlVkS2FtQUhxa2QzekljbmF3SndLd29WOWZiQmFGWTdsWUYxdDE0ZE40bW0zSERULV96U1phV2ZVTThRZFFoYWlrRldtSnpWNTVua3puWFNxWFd1cVlMWC1lNzVsSEZTTkQtRTkzMk5pMVA5UmNvV192NEoxVXc?oc=5)
 
 ---
 
-### [Castilla y León impulsa una base de datos de riesgo cardiovascular para mejorar las estrategias de prevención en salud pública | Comunicación - Junta de Castilla y León](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVZYdElPRzhyRmlqYk9oaGhVZVNUcWF2R0hmU2tpS2xCZ19ieW5fMFpJc3JTTTBlSm94dmFGdlNRMzlsUmt0enhiTFBndXJETV9BMUNEaWFyRGFweFJrbzVyeERPYWVnZTh1eWNva1J2OC05VGRrRXc5UU5tNUdqSlNHS3hpVEF2YkJubWZuWG9hWVpKWElFUGdQcnZ6eTBlZGFIZ290RGJoQTJfV3hhMnBwWVNoR2ZpZFducklxTVdnaW8?oc=5)
+### [Daily 'fountain of youth' drink could lower dementia and diabetes risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5)
 
-2026-06-20 <span class="news-indication-tag">diabetes</span>
+2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
 
-來源：[Junta de Castilla y León](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVZYdElPRzhyRmlqYk9oaGhVZVNUcWF2R0hmU2tpS2xCZ19ieW5fMFpJc3JTTTBlSm94dmFGdlNRMzlsUmt0enhiTFBndXJETV9BMUNEaWFyRGFweFJrbzVyeERPYWVnZTh1eWNva1J2OC05VGRrRXc5UU5tNUdqSlNHS3hpVEF2YkJubWZuWG9hWVpKWElFUGdQcnZ6eTBlZGFIZ290RGJoQTJfV3hhMnBwWVNoR2ZpZFducklxTVdnaW8?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5)
 
 ---
 
@@ -78,11 +102,11 @@ permalink: /news/sacituzumab-govitecan/
 
 ---
 
-### [Fettleber: Nur 10% weniger Bauchfett senkt Diabetesrisiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdC04QW5YSFVVZ0puaFVaUllzX1l5ZGtsRWJPb2x5UnhiLW9tVVRRR2QySlgxbEpqbjM3bnh4b3VFdHFzTG15UXlpcTFCeThvRE5BTnA1TVJmVkk5YnJtUm1oR0dBY1dzSjlINUtLLV9TdmdlLWtXY3JxM05IWHA4N3pCZ3BmcTl6QjhVckpqNmRReWNOT2lybEgzS3ZrUzNzNjlhLTk5RnBfR29ib1JOLThFNjNjZWJrVVE?oc=5)
+### [KI-freie Gentherapie-Idee: Fettgewebe gegen Diabetes gezielt umprogrammieren - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25WVnZ5TzhuWC1EV0NMUy1oS2ExdHBFQ0ZpVkxWRDVpUG1YMzJhTHE3cXp5Z0t2azM0cHprVGdfOUZRMlBlRGF2VXN5WnZ4RVdLMWp5dlQ5UjdaRWlLQkVSdm1MZUNVN3BWTUtLRzB3X1dmVTQzcXJWTGdCMTU4WFJvS251SWpNQzVnMTA3SGtFa2luRjV4eDFrN1BMd2VZd2h5MS1SQVhSYTg?oc=5)
 
-2026-06-20 <span class="news-indication-tag">diabetes</span>
+2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdC04QW5YSFVVZ0puaFVaUllzX1l5ZGtsRWJPb2x5UnhiLW9tVVRRR2QySlgxbEpqbjM3bnh4b3VFdHFzTG15UXlpcTFCeThvRE5BTnA1TVJmVkk5YnJtUm1oR0dBY1dzSjlINUtLLV9TdmdlLWtXY3JxM05IWHA4N3pCZ3BmcTl6QjhVckpqNmRReWNOT2lybEgzS3ZrUzNzNjlhLTk5RnBfR29ib1JOLThFNjNjZWJrVVE?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25WVnZ5TzhuWC1EV0NMUy1oS2ExdHBFQ0ZpVkxWRDVpUG1YMzJhTHE3cXp5Z0t2azM0cHprVGdfOUZRMlBlRGF2VXN5WnZ4RVdLMWp5dlQ5UjdaRWlLQkVSdm1MZUNVN3BWTUtLRzB3X1dmVTQzcXJWTGdCMTU4WFJvS251SWpNQzVnMTA3SGtFa2luRjV4eDFrN1BMd2VZd2h5MS1SQVhSYTg?oc=5)
 
 ---
 
@@ -94,30 +118,6 @@ permalink: /news/sacituzumab-govitecan/
 
 ---
 
-### [Dormir moins de 6 heures par nuit augmenterait le risque de diabète — selon une étude](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnNvWkdYOGRWa1g2aDZCQmNJRHk0RjNyUFUtNWxEX09hXzZSR1VWQ1h6UFcxb19lZGlSZS1VUlRWMlAwdlE5dUFpbzdvSzl6eEduYmpqem80LVhQU0hVSEd1Z3V3bHdiclV2VnRUSnpkeHRVRmk0eEdZeU9la1cwcVRrejNYMi1jTkdOOHd3SjhmNUtET2JDR2JTU0VoOVBOMXFyX2dlYzFYMzJ6ZkVzZFNydTg?oc=5)
-
-2026-06-19 <span class="news-indication-tag">diabète</span>
-
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnNvWkdYOGRWa1g2aDZCQmNJRHk0RjNyUFUtNWxEX09hXzZSR1VWQ1h6UFcxb19lZGlSZS1VUlRWMlAwdlE5dUFpbzdvSzl6eEduYmpqem80LVhQU0hVSEd1Z3V3bHdiclV2VnRUSnpkeHRVRmk0eEdZeU9la1cwcVRrejNYMi1jTkdOOHd3SjhmNUtET2JDR2JTU0VoOVBOMXFyX2dlYzFYMzJ6ZkVzZFNydTg?oc=5)
-
----
-
-### [Coffee’s Hidden Power: How It Secretly Reshapes Your Gut for the Better - Škoda We Love Cycling](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmhKZUMxN1Y3TmJKUWVPWkUyb2h6d05GX3JOUDJvZ1pGU0x1UnNmMEhnN3ZWcUxOQ1M3blJFRjRQcnZKWHhjVHFvcWZKcHVJVTNxNmxzYzZkaGpOVkhrOGZ2d3dpbVlES2ZJLVRBbml0VVN0Vzh6SXpfVmZhbXZ5Vk52dmtXalpRMlBtZDFSenkxOU9a?oc=5)
-
-2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[Škoda We Love Cycling](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmhKZUMxN1Y3TmJKUWVPWkUyb2h6d05GX3JOUDJvZ1pGU0x1UnNmMEhnN3ZWcUxOQ1M3blJFRjRQcnZKWHhjVHFvcWZKcHVJVTNxNmxzYzZkaGpOVkhrOGZ2d3dpbVlES2ZJLVRBbml0VVN0Vzh6SXpfVmZhbXZ5Vk52dmtXalpRMlBtZDFSenkxOU9a?oc=5)
-
----
-
-### [Expertos exigen al Senado impulsar la detección precoz universal de Diabetes Tipo 1](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJmUVpNR1RFMXJfeVl0SDhRc0x4QXJtWEsyWS1CeU9iS3RUUk9LdktzcGdUODV4cmNYc09sYU95MHJsTWtyQXFwaG51cG9KVVJ6NUxDWURMSUdvc0FTX0piZjRHV2pSZkVhT09IbWtwWFlFZG5VYTlxSThCa000RzN6QlZETVhhYk9lTzNyMkJITHBMb2FGcnNwdjBfTy1PUzd6ZzF6bllYT09iSERGY1ZyNzB1RmcwYkE?oc=5)
-
-2026-06-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[BURGOSconecta](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJmUVpNR1RFMXJfeVl0SDhRc0x4QXJtWEsyWS1CeU9iS3RUUk9LdktzcGdUODV4cmNYc09sYU95MHJsTWtyQXFwaG51cG9KVVJ6NUxDWURMSUdvc0FTX0piZjRHV2pSZkVhT09IbWtwWFlFZG5VYTlxSThCa000RzN6QlZETVhhYk9lTzNyMkJITHBMb2FGcnNwdjBfTy1PUzd6ZzF6bllYT09iSERGY1ZyNzB1RmcwYkE?oc=5)
-
----
-
 ### [Actuar sobre los mecanismos epigenéticos revierte el daño vascular asociado a la obesidad y la diabetes - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
 
 2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -126,11 +126,11 @@ permalink: /news/sacituzumab-govitecan/
 
 ---
 
-### [Diabetes, Adipositas und ihr Risiko für die Gefäße](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
+### [Diabetes erhöht Parkinson-Risiko um 27 Prozent: Metaanalyse warnt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
 
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-06-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
 
 ---
 

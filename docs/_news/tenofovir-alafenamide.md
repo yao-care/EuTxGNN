@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir Alafenamide 有什麼相關新聞？">
-<strong>Tenofovir Alafenamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenofovir Alafenamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tenofovir-alafenamide/
 <p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Hepatitis Delta: alertan del riesgo de cáncer hepático y urgen a diagnosticar y tratar antes la enfermedad - Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/tenofovir-alafenamide/
 2026-06-18 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2xzNXVjckQ5a0VqVzZGWUE3elhBS25XQmlKekhkS1F5cWpGeWtBWmxDZzBuMTBQUWgzZXhhUUtCTFBER29UZDEyTXZzREw1TDhIRXVHbC1kQllWT0Z3eEZpazVxZkNtc3pIaQ?oc=5)
-
----
-
-### [Sanidad notifica un brote de hepatitis A que afecta a seis personas en Gran Canaria - Radio Faro del Noroeste](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JldjJqeXhJSXdZSUZKdHpTNm05THlod0U5M0dxaERXeUtpMlFNQXpYUXJDSjRCLXJMTFRPZWhwb3FXOGJxQmF6MjNNMFExTlBQU2tTdXZUYU1MdE9idlhDc1lWUmxKNm02RVBNTGpQMkdWNEVVd2xJMEVGR0dMcHZuZnpLWVVHYm1ySHR6LWNwTVVHeWN5bmNSMldScS14OXZZMzVHeDM0VFowbTRBR2FpSnhyYnpHMTdiTUpTSS1aRUNrd3BnOUphUjVJLVBpelZFOGhTSFFCMUlRWVJPY1JVYm11QQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Radio Faro del Noroeste](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JldjJqeXhJSXdZSUZKdHpTNm05THlod0U5M0dxaERXeUtpMlFNQXpYUXJDSjRCLXJMTFRPZWhwb3FXOGJxQmF6MjNNMFExTlBQU2tTdXZUYU1MdE9idlhDc1lWUmxKNm02RVBNTGpQMkdWNEVVd2xJMEVGR0dMcHZuZnpLWVVHYm1ySHR6LWNwTVVHeWN5bmNSMldScS14OXZZMzVHeDM0VFowbTRBR2FpSnhyYnpHMTdiTUpTSS1aRUNrd3BnOUphUjVJLVBpelZFOGhTSFFCMUlRWVJPY1JVYm11QQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [KI-freie Gentherapie-Idee: Fettgewebe gegen Diabetes gezielt umprogrammieren - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25WVnZ5TzhuWC1EV0NMUy1oS2ExdHBFQ0ZpVkxWRDVpUG1YMzJhTHE3cXp5Z0t2azM0cHprVGdfOUZRMlBlRGF2VXN5WnZ4RVdLMWp5dlQ5UjdaRWlLQkVSdm1MZUNVN3BWTUtLRzB3X1dmVTQzcXJWTGdCMTU4WFJvS251SWpNQzVnMTA3SGtFa2luRjV4eDFrN1BMd2VZd2h5MS1SQVhSYTg?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25WVnZ5TzhuWC1EV0NMUy1oS2ExdHBFQ0ZpVkxWRDVpUG1YMzJhTHE3cXp5Z0t2azM0cHprVGdfOUZRMlBlRGF2VXN5WnZ4RVdLMWp5dlQ5UjdaRWlLQkVSdm1MZUNVN3BWTUtLRzB3X1dmVTQzcXJWTGdCMTU4WFJvS251SWpNQzVnMTA3SGtFa2luRjV4eDFrN1BMd2VZd2h5MS1SQVhSYTg?oc=5)
+
+---
+
+### [Médico israelí destaca que los medicamentos para la obesidad podrían tener beneficios más amplios para la salud - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTDVVYzJYZUxLc083MkJxeGtGaV84MFdPeWxXMUdyWkRUTWlIMjVZRUUxeFVDTGRUa2RpUjdYM1RuaXZRSFJabkgxTl9UVE9tOVZVY0R1bXBicEFTLXJic3J1UVdYWVM3OFRiRzNWSDhsWFVtVTBtbFA2ajZ6WEE5ZC1ZUnE1eFhIU2htS3lEZnZVVDBfV1BpT1I1eU5OVHBSdVhPUW1rdzBoOC1JNzAwUkR5VzEzeXRaWFdQSXVyV29hVGcxVnRKd1hqTDJZWklSOHhEd0VDdUlwb3pPYmdKXzM0OA?oc=5)
+
+2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTDVVYzJYZUxLc083MkJxeGtGaV84MFdPeWxXMUdyWkRUTWlIMjVZRUUxeFVDTGRUa2RpUjdYM1RuaXZRSFJabkgxTl9UVE9tOVZVY0R1bXBicEFTLXJic3J1UVdYWVM3OFRiRzNWSDhsWFVtVTBtbFA2ajZ6WEE5ZC1ZUnE1eFhIU2htS3lEZnZVVDBfV1BpT1I1eU5OVHBSdVhPUW1rdzBoOC1JNzAwUkR5VzEzeXRaWFdQSXVyV29hVGcxVnRKd1hqTDJZWklSOHhEd0VDdUlwb3pPYmdKXzM0OA?oc=5)
+
+---
 
 ### [Wegovy-Mounjaro : les consignes pour éviter les indus - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
 
@@ -78,14 +94,6 @@ permalink: /news/melatonin/
 
 ---
 
-### [Adipositas-Epidemie erreicht in westlichen Ländern ihren Höhepunkt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnpSN2dWNnAyTTMzSV9tLWNQSTJYbG8xa2FWdEJNc0hlRWpZX0FuUVJWQjA4cWdwb0M5T21pMGx3My1oOENhdThiQ1ZYNlQ3WUdyU3dfb2JQVWFmYVBDbjdFWUxZdG84MVYxUm4wbHpVcDdaWXJDcFBqZnlTNV9sNnE2TjdHRHVsR3VUNjN3LVUtTkpOQTA5ZERPbFJJSTRnMG9QUVlmZWNscWN1T2NPRlprZklZR2poWDNlN1JPOG04UThEX000OUVybGRiWUMy?oc=5)
-
-2026-06-19 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnpSN2dWNnAyTTMzSV9tLWNQSTJYbG8xa2FWdEJNc0hlRWpZX0FuUVJWQjA4cWdwb0M5T21pMGx3My1oOENhdThiQ1ZYNlQ3WUdyU3dfb2JQVWFmYVBDbjdFWUxZdG84MVYxUm4wbHpVcDdaWXJDcFBqZnlTNV9sNnE2TjdHRHVsR3VUNjN3LVUtTkpOQTA5ZERPbFJJSTRnMG9QUVlmZWNscWN1T2NPRlprZklZR2poWDNlN1JPOG04UThEX000OUVybGRiWUMy?oc=5)
-
----
-
 ### [Actuar sobre los mecanismos epigenéticos revierte el daño vascular asociado a la obesidad y la diabetes - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
 
 2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -99,22 +107,6 @@ permalink: /news/melatonin/
 2026-06-19 <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZzBqeXM3NUs3bjhabThzYTZmd3JKN3ZFck1haGxoUks5cjlFM1VJdS1HbURZZVRpaW5wajR6Nmk3RC1HdXQ4Z1owOU5tVnczUm1RXzVuejg2TXhpdFBpYVBWdnVwSGNqam40Q1gzcm9qaVRBaXNvRzBoUFU4YXhWSjBQUDB3TEs2cWVWRVNtSVd2TWI4NUxWRXpVTV9SVXdqeWtyY0hwNEhOTVZkQ0FOYlBZUU1rMC1HR2VISUh1QzVIWVo3NThCeEFrcGF2XzF6Tm1YZ2NIdFotOGNrSWx3LW9FcmgtcXRaeEpub09MVElrREd5aUVKdg?oc=5)
-
----
-
-### [Mounjaro batte Ozempic: i nuovi farmaci anti-obesità riducono il peso fino al 25%](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
-
-2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWjY4TjBKVmhMbVhPQ09TSEtpMko3UU5PeEtNOVpiVHNRZWFvRDZHdkhMWWg5MkpIZTBQZ0cya2dVYlc2TW92cmdabW1RMXJGejZnb3k4YlU0ejJ0NTBDdkl2RnJjWHBmNk9VaUpOLWQ3TERUck9YM3JnZw?oc=5)
-
----
-
-### [Diabetes, Adipositas und ihr Risiko für die Gefäße](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE51SzVQVFNSLWY0d0ptdWVpVXBIdmdmWnM5Snd2bEFiN1BSVVpxYm9McFRWNDdjUTFDV1YzRDRLWXMxbDY2Tm01aDJvODZ5MG9lcEl2YjNiTE9Wa05aVHlaeUJ2RnQ0c2h0bHF5eHlkRQ?oc=5)
 
 ---
 

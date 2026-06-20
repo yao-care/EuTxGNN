@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
 ### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
 
@@ -62,19 +62,27 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Osteoporose: Calcium + Vitamin D senken Hüftfraktur-Risiko um 16% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUM5bFJKcC1rQUZWZXFzQ1dfTDhYRWVxZnloTG5VU052YzhKdkZ4SG1kbjlEbk5vaGVHNkZEVzJBNlEzemM1OE5PZnVRRXpPUEFjX0NQUm12dktRNUIxYzFVOTd0dXo3R0RqcFpuU09oal9mY19EVHhOTWdHdHJUdUlpR2pFQ1VBcU5NN2tXTmpHR0pmYzByd0ZVM1pDeEd0U3dzN3FFZ3h3YkN5M296N3pkUjh1M3lVYXg4?oc=5)
+### [Neue Studie zweifelt an Calcium und Vitamin D: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbG91amNELXJMeVp6M25wcE5JUFlRTDhVdlg0dzJIU21meWlVY0lmX25Td2NXdUJpYlVBVFprVEo0ODI4NjFBV1BkWTVrQUY3a3ROdl8waWtxX281OW5kYzRXVnduUWtGVl9BcW9qVF9FT3h0NHl2QUFHSnZCV3BXQWtKQTlaVjFCODJ2b1N5TW15ejRIWHcxcmNGSGstMERvaVNmWHBLS1VBLTlfUzNuZ290cEYxQQ?oc=5)
 
 2026-06-20 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUM5bFJKcC1rQUZWZXFzQ1dfTDhYRWVxZnloTG5VU052YzhKdkZ4SG1kbjlEbk5vaGVHNkZEVzJBNlEzemM1OE5PZnVRRXpPUEFjX0NQUm12dktRNUIxYzFVOTd0dXo3R0RqcFpuU09oal9mY19EVHhOTWdHdHJUdUlpR2pFQ1VBcU5NN2tXTmpHR0pmYzByd0ZVM1pDeEd0U3dzN3FFZ3h3YkN5M296N3pkUjh1M3lVYXg4?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbG91amNELXJMeVp6M25wcE5JUFlRTDhVdlg0dzJIU21meWlVY0lmX25Td2NXdUJpYlVBVFprVEo0ODI4NjFBV1BkWTVrQUY3a3ROdl8waWtxX281OW5kYzRXVnduUWtGVl9BcW9qVF9FT3h0NHl2QUFHSnZCV3BXQWtKQTlaVjFCODJ2b1N5TW15ejRIWHcxcmNGSGstMERvaVNmWHBLS1VBLTlfUzNuZ290cEYxQQ?oc=5)
 
 ---
 
-### [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
+### [Australia pledges action on H5N1 after bird flu case confirmed - Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdRZW1YZ3lSaExJT2MtbDFWY09SMEIxN1VHZ29ZT2c3d2VleW5xbFh1QjVhN0xSS1BuTFRKOU84VnQ3TDVuSTdPZTlFZC1hX29lSGM5czMycXBlejR0aHNxTGxWT1gwYjQyMGlaTlp5ZjNOMzVXcC1sVGN1TC1PaG9JMGtZYUdhLW1IQVR1NnBkQUwxb2tCQ3hqcXdBUzJ6c2ZtYU9R0gGrAUFVX3lxTE5ZVWx4ZEFUczMtbVd4TFhlMGZJbVBwVjh0WmtFcUJKaFNoelM1NjlON1pRUjlxNU40azF6LWdvWkhMVVlSQU9oRXFpQTctY2JOVTlvX1NmZFJhZGF2aU9YemwxU1pERUJTTVAyM3Z3aE16RmRIOTBENTVlUkI5QlVWUWVpRjEwMkRLY1F5dVVhbDNlNWZNRlBfNENSZ2ZLZE5xc2RLS21ncTI1Yw?oc=5)
 
 2026-06-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdRZW1YZ3lSaExJT2MtbDFWY09SMEIxN1VHZ29ZT2c3d2VleW5xbFh1QjVhN0xSS1BuTFRKOU84VnQ3TDVuSTdPZTlFZC1hX29lSGM5czMycXBlejR0aHNxTGxWT1gwYjQyMGlaTlp5ZjNOMzVXcC1sVGN1TC1PaG9JMGtZYUdhLW1IQVR1NnBkQUwxb2tCQ3hqcXdBUzJ6c2ZtYU9R0gGrAUFVX3lxTE5ZVWx4ZEFUczMtbVd4TFhlMGZJbVBwVjh0WmtFcUJKaFNoelM1NjlON1pRUjlxNU40azF6LWdvWkhMVVlSQU9oRXFpQTctY2JOVTlvX1NmZFJhZGF2aU9YemwxU1pERUJTTVAyM3Z3aE16RmRIOTBENTVlUkI5QlVWUWVpRjEwMkRLY1F5dVVhbDNlNWZNRlBfNENSZ2ZLZE5xc2RLS21ncTI1Yw?oc=5)
+
+---
+
+### [Mapi Sánchez, ex número 1 del mundo del pádel y enferma de esclerosis múltiple: «Yo no sé rendirme» - Noticias sobre cuerpo, mente y planeta | WeLife](https://news.google.com/rss/articles/CBMibkFVX3lxTE5vN3lKajZfZFJDOGhvMlJFQ0FwMThhWVo4VFgxTVNQYllyU1FRQlpmbU5zMzU2UEtUYlp6eXdybnRCUlAtUWhvRGlXQm05bHZQS3hQR1U2MmdUMzJWYzB0a2lMUjFrem9ncWNVU3l30gFzQVVfeXFMTnllNmRqZEpPOGw5WjJVQTJhd0hPZVZvbWgweEYxa1ZzOFBBSFVOMElsRDRKZURZLUxOaW5aTkowZ09aSHRMYk1KcGhFUU5hVnE2emFYQk5OMkY3ZlNUWWFBU1ZfSThGZDlYVU4tc1NMdDAtUQ?oc=5)
+
+2026-06-20 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Noticias sobre cuerpo, mente y planeta | WeLife](https://news.google.com/rss/articles/CBMibkFVX3lxTE5vN3lKajZfZFJDOGhvMlJFQ0FwMThhWVo4VFgxTVNQYllyU1FRQlpmbU5zMzU2UEtUYlp6eXdybnRCUlAtUWhvRGlXQm05bHZQS3hQR1U2MmdUMzJWYzB0a2lMUjFrem9ncWNVU3l30gFzQVVfeXFMTnllNmRqZEpPOGw5WjJVQTJhd0hPZVZvbWgweEYxa1ZzOFBBSFVOMElsRDRKZURZLUxOaW5aTkowZ09aSHRMYk1KcGhFUU5hVnE2emFYQk5OMkY3ZlNUWWFBU1ZfSThGZDlYVU4tc1NMdDAtUQ?oc=5)
 
 ---
 
@@ -110,14 +118,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Esta será la estrategia de vacunación para los migrantes que llegan a España - Extremadura 7Dias](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWVQRExxUHFzak5fLWVDakFLT2I0eU9GcVBLUE1YLUNEc0V6eEJPb21oaVJVaGxrZVBoUzE0MWlsdHNKUWZyc2Q5QzhMZEFVamJ2R05wUU4yVXBmaHd1TGh2Qjc0OXJ5VktFREFoVUVLVzJDS0tFbmt5dEpGa1IzMzJJRjkwNllpRHVHcXY4SlBNUExRdlVJWWtJNVhzMl9MWWh1dXpjZTc3emJtM05QRHB3M3NXYUs4RDFj?oc=5)
-
-2026-06-19 <span class="news-indication-tag">MS</span>
-
-來源：[Extremadura 7Dias](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWVQRExxUHFzak5fLWVDakFLT2I0eU9GcVBLUE1YLUNEc0V6eEJPb21oaVJVaGxrZVBoUzE0MWlsdHNKUWZyc2Q5QzhMZEFVamJ2R05wUU4yVXBmaHd1TGh2Qjc0OXJ5VktFREFoVUVLVzJDS0tFbmt5dEpGa1IzMzJJRjkwNllpRHVHcXY4SlBNUExRdlVJWWtJNVhzMl9MWWh1dXpjZTc3emJtM05QRHB3M3NXYUs4RDFj?oc=5)
-
----
-
 ### [Alzheimer: Gealterte Gehirnzellen verdreifachen das Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR6dEVSSEZMSUVXY2hJQldKVERNNlpFWHJqQXQ2Qml4bVoxRl81a2xJNTV6R0kwa3UyZXRFWXNvdVZ4MTR1ekVGQ3l6UjkyaFc0TkVxczlzbkJRNTZBb3lBYzJieG1xdlQ1R2F3UlhUZ2lWSjR0N1RIWjViQW5JUTZhc3o3WUZxM0taRGUxVGVWaC1tZlFEUmd4czh0S0puQVV1cjhsWUNQellhSzU2c1VxTEZ0RWF5?oc=5)
 
 2026-06-19 <span class="news-indication-tag">MS</span>
@@ -131,30 +131,6 @@ permalink: /news/teriflunomide/
 2026-06-18 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2xzNXVjckQ5a0VqVzZGWUE3elhBS25XQmlKekhkS1F5cWpGeWtBWmxDZzBuMTBQUWgzZXhhUUtCTFBER29UZDEyTXZzREw1TDhIRXVHbC1kQllWT0Z3eEZpazVxZkNtc3pIaQ?oc=5)
-
----
-
-### [Sanidad notifica un brote de hepatitis A que afecta a seis personas en Gran Canaria - Radio Faro del Noroeste](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JldjJqeXhJSXdZSUZKdHpTNm05THlod0U5M0dxaERXeUtpMlFNQXpYUXJDSjRCLXJMTFRPZWhwb3FXOGJxQmF6MjNNMFExTlBQU2tTdXZUYU1MdE9idlhDc1lWUmxKNm02RVBNTGpQMkdWNEVVd2xJMEVGR0dMcHZuZnpLWVVHYm1ySHR6LWNwTVVHeWN5bmNSMldScS14OXZZMzVHeDM0VFowbTRBR2FpSnhyYnpHMTdiTUpTSS1aRUNrd3BnOUphUjVJLVBpelZFOGhTSFFCMUlRWVJPY1JVYm11QQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Radio Faro del Noroeste](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2JldjJqeXhJSXdZSUZKdHpTNm05THlod0U5M0dxaERXeUtpMlFNQXpYUXJDSjRCLXJMTFRPZWhwb3FXOGJxQmF6MjNNMFExTlBQU2tTdXZUYU1MdE9idlhDc1lWUmxKNm02RVBNTGpQMkdWNEVVd2xJMEVGR0dMcHZuZnpLWVVHYm1ySHR6LWNwTVVHeWN5bmNSMldScS14OXZZMzVHeDM0VFowbTRBR2FpSnhyYnpHMTdiTUpTSS1aRUNrd3BnOUphUjVJLVBpelZFOGhTSFFCMUlRWVJPY1JVYm11QQ?oc=5)
-
----
-
-### [MSD impulsa la excelencia científica en Oncología con HorizON - Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnhEY25NSmpuampyVW1SV3RJa1VOT0tIM1ZrbHpULTFVc1FkQWI3VU5FTWVmOURkdnJzRUFDajllQWpGLXV4ak9BQzhwYzc3MHp6N2FQTHVCYUluNGJwSWxGNzdDMHkyaHg0Z2lfMG1IczJLamJKVVMtelE5emhqWHpGdFBUU2RVeDdN?oc=5)
-
----
-
-### [«L’industrie agroalimentaire fait perdurer l’usage des aliments ultra-transformés sans jamais questionner le risque», estime David Garbous, président du collectif En Vérité - L'Usine Nouvelle](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOcU9VNkdzY1I1NEY3WWhjemI3aHdhZlhqRnEtU0Z2cXA4NDNEcXZxRTdlSkpTUnl0S0tWeDNQZ19MTi1FUGNYbS1QSUJtODJUTDNUeDg4b0ttMTBmTUp0TkV6c1E1MXAxbUl6dGREOUdkS3F2bWtOYWxCYnJDM29YVDlqQS1obVBERmtpSm1OWHk3NllzLWExSlZaYWRGbWxWMW1Gc2tQck1EeTkzdUZwRGFiUTBhc2xiR1lNdkxXbnAxQk9FeTFTZTdOWUFVSDVzVzVmazBKWnVfeXJWSm95aG5BcTl5V1hCQ1p2ZDBqU0Zud0tJMF9TakFDX0tlSVowdE8zbExVWTJXT1pVLTM5dmJKd1dPTkRtQVpvT1ZRM1p0eHZ3aWF5blI4QlpYaHg2dG9iWEcxVHJvdGtPbG55UXZqZktnbG1HRjFLbngyVWdLVm8?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[L'Usine Nouvelle](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOcU9VNkdzY1I1NEY3WWhjemI3aHdhZlhqRnEtU0Z2cXA4NDNEcXZxRTdlSkpTUnl0S0tWeDNQZ19MTi1FUGNYbS1QSUJtODJUTDNUeDg4b0ttMTBmTUp0TkV6c1E1MXAxbUl6dGREOUdkS3F2bWtOYWxCYnJDM29YVDlqQS1obVBERmtpSm1OWHk3NllzLWExSlZaYWRGbWxWMW1Gc2tQck1EeTkzdUZwRGFiUTBhc2xiR1lNdkxXbnAxQk9FeTFTZTdOWUFVSDVzVzVmazBKWnVfeXJWSm95aG5BcTl5V1hCQ1p2ZDBqU0Zud0tJMF9TakFDX0tlSVowdE8zbExVWTJXT1pVLTM5dmJKd1dPTkRtQVpvT1ZRM1p0eHZ3aWF5blI4QlpYaHg2dG9iWEcxVHJvdGtPbG55UXZqZktnbG1HRjFLbngyVWdLVm8?oc=5)
 
 ---
 

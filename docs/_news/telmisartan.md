@@ -54,19 +54,19 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（2 則）
 
-### [Herzinfarkt 2026: Neue Medikamente und KI-Monitoring senken Sterblichkeit - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1Vjem9ZcUx4SFRvSXdvWWI3SWQ0Vk91Q3VQNnlEelhTamJoQW96dzc3SXJWV1ZNWEFtYkFjN1I5UFJSUlFNaVRQUHZqb3owS2o0eG9tNU1iLURvTFM5aUxObFR0cm1KYk5tVGl3NGo5Wl9PM1FlQXlyX0JqMFJhWnI2T3lpSHFKTjNwS01xZTM1TUNtZHJ5TWl2OWR6VlNISGV4ZVgxSQ?oc=5)
+### [Vieillissement, Alzheimer, AVC : pourquoi certains cerveaux résistent mieux que d’autres - Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxORTRON0V2dDVOa19DWWJMOUtvODIwaFVad2szelJkNW1DbWhEVkdqUXh2Ukd1RXpWRzZvaVBvRi0xdk15dDJCOWVUWHNpd2s2d1MzTXdqU0tkMWVYYW9EUnh6LWlYUWQ0alp3UTBvV2YwdTJIcUNQQlhYNDRQSWNQSDEyNUMtVnlRR0hhZVJYVUM1Um9fNURib1U2ZjU1R0NHejd1c0lzcFNZaF9ZZVh0Y2tfM2k3TVAtdF9fNUYzNkhiVlU1MEEw?oc=5)
 
-2026-06-20 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-20 <span class="news-indication-tag">AVC</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1Vjem9ZcUx4SFRvSXdvWWI3SWQ0Vk91Q3VQNnlEelhTamJoQW96dzc3SXJWV1ZNWEFtYkFjN1I5UFJSUlFNaVRQUHZqb3owS2o0eG9tNU1iLURvTFM5aUxObFR0cm1KYk5tVGl3NGo5Wl9PM1FlQXlyX0JqMFJhWnI2T3lpSHFKTjNwS01xZTM1TUNtZHJ5TWl2OWR6VlNISGV4ZVgxSQ?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxORTRON0V2dDVOa19DWWJMOUtvODIwaFVad2szelJkNW1DbWhEVkdqUXh2Ukd1RXpWRzZvaVBvRi0xdk15dDJCOWVUWHNpd2s2d1MzTXdqU0tkMWVYYW9EUnh6LWlYUWQ0alp3UTBvV2YwdTJIcUNQQlhYNDRQSWNQSDEyNUMtVnlRR0hhZVJYVUM1Um9fNURib1U2ZjU1R0NHejd1c0lzcFNZaF9ZZVh0Y2tfM2k3TVAtdF9fNUYzNkhiVlU1MEEw?oc=5)
 
 ---
 
-### [Ces 2 aliments à mettre dans vos salades cet été réduisent le risque d'hypertension de 30 % selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
+### [Bluthochdruck: Heim-Messung senkt Herzinfarkt-Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0gxNUhHMGUyZHBjbFJxQjhmT3V1enR3MHloQWs3SU5tWjI2ZWtpb21DMUtYb2VOVS1aMmhHb3lscHR3bjZpQTF0WGUzUDhiNUVicHlsZEZsR0dZQW5PbU1TUTkyMnNiUEVlSGV5QUlnV2t6YjBXdi1NTXVCWklqQ0tnTmtOdHNRVEszUTZlTHhJcWwzNEZDVEtpYVVzUGVhd05jdXo5X0J2QWpPaUhGcmZ2Q1E?oc=5)
 
-2026-06-19 <span class="news-indication-tag">hypertension</span>
+2026-06-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1Y0ZUJrMEZlRURrV04waHhSMFROdm9rOEVYNEtJSnZqS1hfN0dDd25nYUFkcEZiOXp5TFByV3ZKWTZpQW5TcXN3c2JFU0VWQkg5dlR2UE1CWXhsNXVuczljdG1YV2t1d0c0SEN0QlZHSlJuRXp6MEZuV2ptbWMtVDRkMUhQZUZraGR4NTVFOVdhcWM?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0gxNUhHMGUyZHBjbFJxQjhmT3V1enR3MHloQWs3SU5tWjI2ZWtpb21DMUtYb2VOVS1aMmhHb3lscHR3bjZpQTF0WGUzUDhiNUVicHlsZEZsR0dZQW5PbU1TUTkyMnNiUEVlSGV5QUlnV2t6YjBXdi1NTXVCWklqQ0tnTmtOdHNRVEszUTZlTHhJcWwzNEZDVEtpYVVzUGVhd05jdXo5X0J2QWpPaUhGcmZ2Q1E?oc=5)
 
 ---
 
