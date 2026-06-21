@@ -70,19 +70,19 @@ permalink: /news/golimumab/
 
 ---
 
+### [Darmkrebs-Früherkennung: Virus-Test identifiziert 40,6% der Fälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFVPbFdnSFVmbmNXUW1Gc3kybXZJWlVjb2hFWXdtQWlfYng2TGVCOTNyRGVGTk9QMWVlSjR1ekc4U2RMc3R3Nk00c1lUU0ZHWkRaaGhmYVpqbjYtYUJzMUdUbVhDZGxoZVR2emlXWURJWVNXdkdQNkxfbkFoUTByNU9WVzc5bW9Yc3FQVF90dTd5ZXFQbVdhdWlIa0xCOHRLOTRwM0VJRWk0aThpYlFqSE5jVkZzQQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFVPbFdnSFVmbmNXUW1Gc3kybXZJWlVjb2hFWXdtQWlfYng2TGVCOTNyRGVGTk9QMWVlSjR1ekc4U2RMc3R3Nk00c1lUU0ZHWkRaaGhmYVpqbjYtYUJzMUdUbVhDZGxoZVR2emlXWURJWVNXdkdQNkxfbkFoUTByNU9WVzc5bW9Yc3FQVF90dTd5ZXFQbVdhdWlIa0xCOHRLOTRwM0VJRWk0aThpYlFqSE5jVkZzQQ?oc=5)
+
+---
+
 ### [From birth defects to arthritis and asthma - the cleaning products harming your family’s health, experts warn - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
 
 2026-06-20 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
-
----
-
-### [Morbus Crohn: IL-10-Mangel durch HLA-DRB1*01:03 entschlüsselt - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
-
-2026-06-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
 
 ---
 

@@ -54,6 +54,30 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ## 相關新聞（24 則）
 
+### [„Wenn wir manchmal im Garten sitzen und die Luft nach Flieder riecht, schafft der Krebs es nicht, uns diesen Moment zu stehlen“](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzJoX1pQenNsSmdRc3lwUmVFbkQ3ckhTbllybDBmbmFhTUNjcURwSTc4VTg2ZVhCYjBTeXlRWi1kMkNXdUhVVGpjMW91MjFkQ3BYZVp5Tk1BYmJEWFJnMXlVVnIzaEwwSEc2b055cklyTXBmS2NCUnNMR1dyVE9tNlM5anNrWG03cnVIeGpmcFV0ekNBek02THRzNHY5RnpqamVtUzNlNlV5UnRxSjhQZ1RqV2lIalp6ZVhGcUw4ZXdDTURVeXdPSHdGTEJ4Tkt0dnUycmFzN0Eta2J5bnUtQjRJdWF4Y0p0cXdYT3JqRzFvZkxhVmxDZUFLeTdDQlg1OHl4NV9PUQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Nordkurier](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzJoX1pQenNsSmdRc3lwUmVFbkQ3ckhTbllybDBmbmFhTUNjcURwSTc4VTg2ZVhCYjBTeXlRWi1kMkNXdUhVVGpjMW91MjFkQ3BYZVp5Tk1BYmJEWFJnMXlVVnIzaEwwSEc2b055cklyTXBmS2NCUnNMR1dyVE9tNlM5anNrWG03cnVIeGpmcFV0ekNBek02THRzNHY5RnpqamVtUzNlNlV5UnRxSjhQZ1RqV2lIalp6ZVhGcUw4ZXdDTURVeXdPSHdGTEJ4Tkt0dnUycmFzN0Eta2J5bnUtQjRJdWF4Y0p0cXdYT3JqRzFvZkxhVmxDZUFLeTdDQlg1OHl4NV9PUQ?oc=5)
+
+---
+
+### [After Opening Up About Cancer, A Man Feels Hurt When His Friend Shifts The Focus To Herself](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVpza3NRdHhXaXd2RzdPUjc3YWI0bnZsVXVtTjROXzNxd0tVcHRRcWgxbC1VR3JMWXkwUDF5Sks1Ty0zNnFjWFk0Q0ppa0FpRWJHODRiTGtpZW90bklrdXdmN2pUbm9wbXJqYXJjU1RLem5lYVJsWXFPQS1zeEFtUGJRM1hnNm5hOGhDOHJ5aHM1NTQyZWtZMHZGUGdCYk5GRG04N21GeHdUbjB6MElvQWRjdTlFVkRpSlNmMktwUlJlRG8?oc=5)
+
+2026-06-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[TwistedSifter](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVpza3NRdHhXaXd2RzdPUjc3YWI0bnZsVXVtTjROXzNxd0tVcHRRcWgxbC1VR3JMWXkwUDF5Sks1Ty0zNnFjWFk0Q0ppa0FpRWJHODRiTGtpZW90bklrdXdmN2pUbm9wbXJqYXJjU1RLem5lYVJsWXFPQS1zeEFtUGJRM1hnNm5hOGhDOHJ5aHM1NTQyZWtZMHZGUGdCYk5GRG04N21GeHdUbjB6MElvQWRjdTlFVkRpSlNmMktwUlJlRG8?oc=5)
+
+---
+
+### [Tumore della prostata: come funziona lo screening in Lombardia - Giornale di Brescia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPazMybzdZemdBVkYybjU4d0Z4ZDZhVUE5bm5kUzZMQzNKSWM0MnhMUXVwd19SY3hSRHlwRXZIV0Jobm52akpvS3cyeUszYTMxSXVtdEJLUzdHLUo2bS12Q1NqNEVUQjI5NEFDeEpfTEJfVjZ3QUxpd0FUMGpkakJ0ZU5idEZKdGhjaWxMR1dGTFcxRWJhdk9FYkRyeXJLQzNseWI4QnlyalIyaTRYM0ZUdHRB?oc=5)
+
+2026-06-21 <span class="news-indication-tag">tumor</span>
+
+來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPazMybzdZemdBVkYybjU4d0Z4ZDZhVUE5bm5kUzZMQzNKSWM0MnhMUXVwd19SY3hSRHlwRXZIV0Jobm52akpvS3cyeUszYTMxSXVtdEJLUzdHLUo2bS12Q1NqNEVUQjI5NEFDeEpfTEJfVjZ3QUxpd0FUMGpkakJ0ZU5idEZKdGhjaWxMR1dGTFcxRWJhdk9FYkRyeXJLQzNseWI4QnlyalIyaTRYM0ZUdHRB?oc=5)
+
+---
+
 ### [«Eine Zukunft ohne Gebärmutterhalskrebs ist in Sicht»](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDVWcXVVU09CcVhHelFGclpTLVBtdUljLVc3LXJoVGJmdThHX2NwMGp5azhTY1BydVYzM2p1X2pvRmpKTFNMUGVfLWpkektLd0tndXJOZVFDajIzRUxLOG1Qa1BtTTRqckc0MGkxQzNkVDlndTQ4UzZyc0xjS0hfWkw3MnVXLTNpdklibzhvTlVmaUdHczdxX2o2Y3BHZ2pJZUJjdEpHYnlyS3dTbG9nNkFBZFE?oc=5)
 
 2026-06-21 <span class="news-indication-tag">Krebs</span>
@@ -67,14 +91,6 @@ permalink: /news/axicabtagene-ciloleucel/
 2026-06-21 <span class="news-indication-tag">arthrite</span>
 
 來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
-
----
-
-### [Manchester cancer research lab's £6m extra annual cash boost](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yTnpscjNyTFBWWWU2VXFxaDVnbEMtaVJpSnNtUkVQLWN3RUZEZS0xVFVtV0hwdTRJRHozSVAzN0JZWEdWLS1rTnBTakQ5VW1CUUdObWhydWVSTExT?oc=5)
-
-2026-06-21 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yTnpscjNyTFBWWWU2VXFxaDVnbEMtaVJpSnNtUkVQLWN3RUZEZS0xVFVtV0hwdTRJRHozSVAzN0JZWEdWLS1rTnBTakQ5VW1CUUdObWhydWVSTExT?oc=5)
 
 ---
 
@@ -118,11 +134,35 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [Prädiabetes-Therapie: GLP-1-Medikamente senken Krebsrisiko um 41% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWVVa1ZhbktMaFV6SHFsb3E0dlNpUWJuVG16WnRXWTBQM3ZfTmRHMDVhM0hmN1ZXSEVWTllRQ05mY2ExQUc0SXozam1zMm9GMlNlczI5eDVQNllHOWdjam1mSkdaVkRRTDNPbVN2UWRfQXQ2ejdQYTAyQ0t4OGRfMS1uSFJ0c3Y4QnAxTkZBNGQtSml5aklONDA0YmZ0TEJSVFpVell3WU5FUDBUWVVGVGtRZzBSOXl2TWtSdDBn?oc=5)
+### [Manchester cancer research lab's £6m extra annual cash boost](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yTnpscjNyTFBWWWU2VXFxaDVnbEMtaVJpSnNtUkVQLWN3RUZEZS0xVFVtV0hwdTRJRHozSVAzN0JZWEdWLS1rTnBTakQ5VW1CUUdObWhydWVSTExT?oc=5)
 
-2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+2026-06-21 <span class="news-indication-tag">cancer</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWVVa1ZhbktMaFV6SHFsb3E0dlNpUWJuVG16WnRXWTBQM3ZfTmRHMDVhM0hmN1ZXSEVWTllRQ05mY2ExQUc0SXozam1zMm9GMlNlczI5eDVQNllHOWdjam1mSkdaVkRRTDNPbVN2UWRfQXQ2ejdQYTAyQ0t4OGRfMS1uSFJ0c3Y4QnAxTkZBNGQtSml5aklONDA0YmZ0TEJSVFpVell3WU5FUDBUWVVGVGtRZzBSOXl2TWtSdDBn?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yTnpscjNyTFBWWWU2VXFxaDVnbEMtaVJpSnNtUkVQLWN3RUZEZS0xVFVtV0hwdTRJRHozSVAzN0JZWEdWLS1rTnBTakQ5VW1CUUdObWhydWVSTExT?oc=5)
+
+---
+
+### ['Completely unacceptable' behaviour by nurse who blamed Covid jabs for cancer - Bournemouth Echo](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcU5vU2NhWEpIZVBjRnkzYWlickxxS004dTBLanZReXBDelEyQjJEY1lCY3A5WWUtVEgyR2hzM1R4V081MGM3TzExalRnTjB6RENicTM4VG1oTVBURFNrVnBRTmRQWjZVeUhvclRWYmRwXzRjQk5yODNKVjJJUTN6OF9WSzE1UmpPcUFZQlppMjFpZ3lJU0hV?oc=5)
+
+2026-06-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Bournemouth Echo](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcU5vU2NhWEpIZVBjRnkzYWlickxxS004dTBLanZReXBDelEyQjJEY1lCY3A5WWUtVEgyR2hzM1R4V081MGM3TzExalRnTjB6RENicTM4VG1oTVBURFNrVnBRTmRQWjZVeUhvclRWYmRwXzRjQk5yODNKVjJJUTN6OF9WSzE1UmpPcUFZQlppMjFpZ3lJU0hV?oc=5)
+
+---
+
+### [Darmkrebs-Früherkennung: Virus-Test identifiziert 40,6% der Fälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFVPbFdnSFVmbmNXUW1Gc3kybXZJWlVjb2hFWXdtQWlfYng2TGVCOTNyRGVGTk9QMWVlSjR1ekc4U2RMc3R3Nk00c1lUU0ZHWkRaaGhmYVpqbjYtYUJzMUdUbVhDZGxoZVR2emlXWURJWVNXdkdQNkxfbkFoUTByNU9WVzc5bW9Yc3FQVF90dTd5ZXFQbVdhdWlIa0xCOHRLOTRwM0VJRWk0aThpYlFqSE5jVkZzQQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFVPbFdnSFVmbmNXUW1Gc3kybXZJWlVjb2hFWXdtQWlfYng2TGVCOTNyRGVGTk9QMWVlSjR1ekc4U2RMc3R3Nk00c1lUU0ZHWkRaaGhmYVpqbjYtYUJzMUdUbVhDZGxoZVR2emlXWURJWVNXdkdQNkxfbkFoUTByNU9WVzc5bW9Yc3FQVF90dTd5ZXFQbVdhdWlIa0xCOHRLOTRwM0VJRWk0aThpYlFqSE5jVkZzQQ?oc=5)
+
+---
+
+### [GLP-1 bei Prädiabetes: Krebsrisiko sinkt laut Studien - it boltwise](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUJyN0s1NWM3UUdrYXkzX1lGRS1rdmRJbXJ4MHptanBwSXBHdUhzTGRaUXBLdFY3T2s2R3BIVWctNDljakhDZTU2bXhHMkk5WW1vdm1Jd1dkWXhmVkNzUU9ldlNfcW5uQ0taWGZyWHQwZEpqWU9KaUtvVkZYTU5MaWlYMVVSNm56cHluRmdR?oc=5)
+
+2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUJyN0s1NWM3UUdrYXkzX1lGRS1rdmRJbXJ4MHptanBwSXBHdUhzTGRaUXBLdFY3T2s2R3BIVWctNDljakhDZTU2bXhHMkk5WW1vdm1Jd1dkWXhmVkNzUU9ldlNfcW5uQ0taWGZyWHQwZEpqWU9KaUtvVkZYTU5MaWlYMVVSNm56cHluRmdR?oc=5)
 
 ---
 
@@ -131,6 +171,14 @@ permalink: /news/axicabtagene-ciloleucel/
 2026-06-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[Prensa Libre](https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXl3QjlQY3Y2YjhIOVRFVy15UkRXN01vYjVKVk9HRWdLa0Zkc3RsX0h2cEg4SzkwNVpSRnRWNkhsbWV6dWk1ZmtJOERGUXpTMnZQeExQZHAySWFQaG9UT1hkSE5aQ1JzcVpwckNycjZzcWVCUE9HZWtvQlN2VHJLQ2NqTkxQYXQ4X2twNWpOTU41ZmRCaDNlM3VzM2tESTFYQzNabU83T0h6dEZreVQ0SzhrSWxMSWdVZHp6eFNJOFFtLUZzQ3JTUm9TQQ?oc=5)
+
+---
+
+### [DMLA : L’étude qui fait un lien avec le risque de cancer - Pourquoi Docteur](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnRadjV1YWJOVFBPTEJDNmZnU2Nhd1JsX1BfdkJtSllFczdBQXBIQ0tLNzFqY1d3cHgxT0FjNDUzRFVvT3BIN2JiMXVRQVFzdEtsLTZfbWtCZUNFZEdPZ0E3OUNFdkJZTExNdC1iVHpNM2xsZnRYSm5uU0t6MDhxeXFuT09UeW5mbjdkbk83S3FPSjkxS25nUA?oc=5)
+
+2026-06-20 <span class="news-indication-tag">cancer</span>
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnRadjV1YWJOVFBPTEJDNmZnU2Nhd1JsX1BfdkJtSllFczdBQXBIQ0tLNzFqY1d3cHgxT0FjNDUzRFVvT3BIN2JiMXVRQVFzdEtsLTZfbWtCZUNFZEdPZ0E3OUNFdkJZTExNdC1iVHpNM2xsZnRYSm5uU0t6MDhxeXFuT09UeW5mbjdkbk83S3FPSjkxS25nUA?oc=5)
 
 ---
 
@@ -190,59 +238,11 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [Morbus Crohn: IL-10-Mangel durch HLA-DRB1*01:03 entschlüsselt - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
-
-2026-06-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnpYcnBieE9ObW4wOVJpMU9IZHJqOG9hSk83N0tySy11TTlwdmpGeWJsUDhxaFYyYkJNY2N2N1hHQm9DZlh2OHRyS2VGTnhPUUdnWXV0YVRTSE56T19qczV4RkhqSnBGYi1uZWgwQzU3RFdiUkphWHp5RXdpNW9TSjR5UnZSc3NlQ0VZXzU4WVZFZXFSS2c?oc=5)
-
----
-
 ### [Sex after cancer: the big taboo and why I’m talking about it - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdXUHlTdmd3NWZ0d0ptX1IwMW5IOWxXd18tS2N6dklTM0dCc1BIOEc3RGlXYTB6S2FRLVFCZjNWR0JiYlNmYnl4UWRJeXFRWjRScm9lbjNJNm9aS1NybEV0M2o1RzBKcmt5Z2VJV1BoSGFibG43Mlk3dDB4RlQ4MndFWHdQbndIYVRITUxHVmFDM3FtUkRyVmlKMVp1cDRCaFlYeTYwVjc?oc=5)
 
 2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdXUHlTdmd3NWZ0d0ptX1IwMW5IOWxXd18tS2N6dklTM0dCc1BIOEc3RGlXYTB6S2FRLVFCZjNWR0JiYlNmYnl4UWRJeXFRWjRScm9lbjNJNm9aS1NybEV0M2o1RzBKcmt5Z2VJV1BoSGFibG43Mlk3dDB4RlQ4MndFWHdQbndIYVRITUxHVmFDM3FtUkRyVmlKMVp1cDRCaFlYeTYwVjc?oc=5)
-
----
-
-### [La memoria de la piel no perdona la protección y cuidados que no recibe - Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmh1RXZBeEpQbzlEbnI5VHB2eDlIdC1YeGpoNGcyUEFpOUFXQTR1T3pUbUo4TU5LZF9HZjMyVnZja3M2Ynk2N2FURGtydVdXcnhJTUFFYzRvRVlhUWxrMVlpREFXajAwNU4tX295T1pWWnNjT2ZGVUYybWZBVmJKbTJBVEh1QnQ4Y0J0Z3ZreG16Q0N3RUZCRmRxUGxGUk9YTkpMaUxvNDNOb2ozUmFNS1h6b1JLQlHSAbwBQVVfeXFMTndqSlljQVZXV0p5VUYzUlNYN1lIWk91NmJpc05iU3oyVEJMVGtvZ0NGR2xiNVFqTUhVMlpkVFByVmNOc1B1d3J1QVBTamlQeEVmNWV2T1VkOUtLQlRDTjE3SEVnZmFwbVZtMF9GMkVFWXl0WlVMejhaWjRCenUtMGxaRkZpMFNTejdnQ2h3T0lvMm40N3hsRnFiNm81UF9KQ0s2NExRUHFXcXVHWXdvMzB2Y3d2VGJQX25iRkE?oc=5)
-
-2026-06-19 <span class="news-indication-tag">tumor</span>
-
-來源：[Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmh1RXZBeEpQbzlEbnI5VHB2eDlIdC1YeGpoNGcyUEFpOUFXQTR1T3pUbUo4TU5LZF9HZjMyVnZja3M2Ynk2N2FURGtydVdXcnhJTUFFYzRvRVlhUWxrMVlpREFXajAwNU4tX295T1pWWnNjT2ZGVUYybWZBVmJKbTJBVEh1QnQ4Y0J0Z3ZreG16Q0N3RUZCRmRxUGxGUk9YTkpMaUxvNDNOb2ozUmFNS1h6b1JLQlHSAbwBQVVfeXFMTndqSlljQVZXV0p5VUYzUlNYN1lIWk91NmJpc05iU3oyVEJMVGtvZ0NGR2xiNVFqTUhVMlpkVFByVmNOc1B1d3J1QVBTamlQeEVmNWV2T1VkOUtLQlRDTjE3SEVnZmFwbVZtMF9GMkVFWXl0WlVMejhaWjRCenUtMGxaRkZpMFNTejdnQ2h3T0lvMm40N3hsRnFiNm81UF9KQ0s2NExRUHFXcXVHWXdvMzB2Y3d2VGJQX25iRkE?oc=5)
-
----
-
-### [Rising number of cancer patients are skipping chemo and opting for ivermectin instead, analysis finds - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
-
----
-
-### [Terapia de pulsos frena el crecimiento tumoral en investigación preclínica sobre cáncer colorrectal - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb0VYOGdJR05nTzNJalNUWlRxbTVwNThfelp3d1QyZVhSVzdfaHVOblczRWZoa1hiYkpidHc0aGNESmtRdUI2UmxldGRKaGZ5bENQQTBLTDZyRUJkbVkwc08xdnV0T1kyZXlZcVhyRS1zQWJJNzZHNS1VblFlY1VPMktPT1h5aFVfQWQ0Q0hNMHpoVDMyRmRrOWdsdG1PZ1ZLNk9EZ19PUk1IaTZDZnM0MTN6VThPSm1uMzhfLWpvRml2VXdhQWgxeE1hSnZhLTR4V1M1eG9sSlVrNTEtYVlUV3I3YlpPSDZjZDBkc3BUONIB9AFBVV95cUxNek5CZUhyQXFHMWotVE1QWWViRTNBdjRfZGpMYldzOXFrQVZLTzRra3hJNWlBWTBzcUpBOWoyQS1uY2pFR3dvQk9nWGMxMXdDVDhkbzBPVFJkc2ZPLU5kdlUyWDlFdXFzX2JmUTNROXpOLU5Ba0dRSXBYclpSYjlvYXpseDcxSDlxME9KdUhXRDVVYWVOMm1sR1RVeWVmZVVnMnBYeTNFUkU1cEhVQ2lnemFwT25xckQwWnhlY1Bwbk44bk1BaU9uZnhnY3J4QmpMS2IzeTR1MlpIaFA1NTZnZXBzOWVKZHFpWGhyR3Uxc3dGZHV3?oc=5)
-
-2026-06-19 <span class="news-indication-tag">tumor</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb0VYOGdJR05nTzNJalNUWlRxbTVwNThfelp3d1QyZVhSVzdfaHVOblczRWZoa1hiYkpidHc0aGNESmtRdUI2UmxldGRKaGZ5bENQQTBLTDZyRUJkbVkwc08xdnV0T1kyZXlZcVhyRS1zQWJJNzZHNS1VblFlY1VPMktPT1h5aFVfQWQ0Q0hNMHpoVDMyRmRrOWdsdG1PZ1ZLNk9EZ19PUk1IaTZDZnM0MTN6VThPSm1uMzhfLWpvRml2VXdhQWgxeE1hSnZhLTR4V1M1eG9sSlVrNTEtYVlUV3I3YlpPSDZjZDBkc3BUONIB9AFBVV95cUxNek5CZUhyQXFHMWotVE1QWWViRTNBdjRfZGpMYldzOXFrQVZLTzRra3hJNWlBWTBzcUpBOWoyQS1uY2pFR3dvQk9nWGMxMXdDVDhkbzBPVFJkc2ZPLU5kdlUyWDlFdXFzX2JmUTNROXpOLU5Ba0dRSXBYclpSYjlvYXpseDcxSDlxME9KdUhXRDVVYWVOMm1sR1RVeWVmZVVnMnBYeTNFUkU1cEhVQ2lnemFwT25xckQwWnhlY1Bwbk44bk1BaU9uZnhnY3J4QmpMS2IzeTR1MlpIaFA1NTZnZXBzOWVKZHFpWGhyR3Uxc3dGZHV3?oc=5)
-
----
-
-### [Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’ - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXl0MDBkNHdjbkwwODFyak9iTTZJcGJ2RkxQRm1ZQWwzZE0wUlE3MjlBS2txc0RHdEdaSm9ud0RCQWdoM2l0cUJHS2NpNG9YOGdDWnZiYVJnQWZHZGctV2lKOGNpdXQ2NzRwZUxDMGtiUGNzY2g4eW85dVpYVHRYUmhJOEN0bW1FTUV4YWt0QTkzYk8yZ3Y4S2hyZE1Bc01Ja244?oc=5)
-
-2026-06-19 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXl0MDBkNHdjbkwwODFyak9iTTZJcGJ2RkxQRm1ZQWwzZE0wUlE3MjlBS2txc0RHdEdaSm9ud0RCQWdoM2l0cUJHS2NpNG9YOGdDWnZiYVJnQWZHZGctV2lKOGNpdXQ2NzRwZUxDMGtiUGNzY2g4eW85dVpYVHRYUmhJOEN0bW1FTUV4YWt0QTkzYk8yZ3Y4S2hyZE1Bc01Ja244?oc=5)
-
----
-
-### [Dieci domande di attualità sul tumore del pancreas: tra clinica e ricerca](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3FWZUNwWHBzeGVDQ0VzS3YxdmdITE9LNTM2QWJMZmVnbS0yVDN1XzMtbjFnSVVwTWR1QTA3Y3RETlRXZGdEZnRmSWp2YTM1bkhuZFk3RGh4dllOQkdSYjg4YmlUcEJIMHhmU2QzYzMxb3c3VFl4Zkk1bHRkRHlwcWdSTm1KRDU3blRDUG1KOURDb1VtSjlYdm1WUFRsbkpDQ1lYazBELXhEMFhBWm9QMEVhUENIYm9xTWdXVkpnSklxV2t6Sm9FVWFzUdIB0AFBVV95cUxObEFDV1ZiOXpkR0NxenFlLURVR3BLZ3VJZ3cwSFNLV3FZQVl1MmF6WHJRaTUzdlI1LXdfYVMzQlViNGdYdUxXOUtVcDgxTkxhc2NpTnJLQ2FJbENwbzd0enFjZWNsTFVkb19rSGtEeWJ6ZlVRU2dMZ3FTOF9iOGRkQzBWb3N1MEJySmQxZUxtUnREcnpGbHc1cWFGT0Y5eVJXUmV5MVNHbU5KMDRwb0ltRXBaZ1QxX05EYVhZYkFxVkY1THA2RVZxSUw0WGp2VVZL?oc=5)
-
-2026-06-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[L'Arena](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3FWZUNwWHBzeGVDQ0VzS3YxdmdITE9LNTM2QWJMZmVnbS0yVDN1XzMtbjFnSVVwTWR1QTA3Y3RETlRXZGdEZnRmSWp2YTM1bkhuZFk3RGh4dllOQkdSYjg4YmlUcEJIMHhmU2QzYzMxb3c3VFl4Zkk1bHRkRHlwcWdSTm1KRDU3blRDUG1KOURDb1VtSjlYdm1WUFRsbkpDQ1lYazBELXhEMFhBWm9QMEVhUENIYm9xTWdXVkpnSklxV2t6Sm9FVWFzUdIB0AFBVV95cUxObEFDV1ZiOXpkR0NxenFlLURVR3BLZ3VJZ3cwSFNLV3FZQVl1MmF6WHJRaTUzdlI1LXdfYVMzQlViNGdYdUxXOUtVcDgxTkxhc2NpTnJLQ2FJbENwbzd0enFjZWNsTFVkb19rSGtEeWJ6ZlVRU2dMZ3FTOF9iOGRkQzBWb3N1MEJySmQxZUxtUnREcnpGbHc1cWFGT0Y5eVJXUmV5MVNHbU5KMDRwb0ltRXBaZ1QxX05EYVhZYkFxVkY1THA2RVZxSUw0WGp2VVZL?oc=5)
 
 ---
 

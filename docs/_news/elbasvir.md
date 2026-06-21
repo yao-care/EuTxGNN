@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Locken Insektenschutzmittel Mücken sogar an? Forscher entdecken überraschenden Effekt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFJhUmx6VWRXRkd4LWlJb1lGZE14ZUMxVkZTbnIzcktiOEw0RGlfVlJRSDlSM3NDaEJqWU5kVnZ6Ym8yR0k0cVFtMWZxOVZxWG1yVU15MmNfY2lwLS1zVF9XTDVzaXRMSTYwY3c1S1dWUUV6bnU0bzg0enppRTVaUENzUTB6eTR4THZsc29kRmdUUXhPdHhwUGg4TXZIUTNoc1RUSVozSmQ1Z1Z4MzAwWDRIc3E0bzV3RDVVSjhpUWMxRG1tMzRaTEZsUl9FTl9XZWRyTA?oc=5)
+
+2026-06-21 <span class="news-indication-tag">MS</span>
+
+來源：[ka-news](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFJhUmx6VWRXRkd4LWlJb1lGZE14ZUMxVkZTbnIzcktiOEw0RGlfVlJRSDlSM3NDaEJqWU5kVnZ6Ym8yR0k0cVFtMWZxOVZxWG1yVU15MmNfY2lwLS1zVF9XTDVzaXRMSTYwY3c1S1dWUUV6bnU0bzg0enppRTVaUENzUTB6eTR4THZsc29kRmdUUXhPdHhwUGg4TXZIUTNoc1RUSVozSmQ1Z1Z4MzAwWDRIc3E0bzV3RDVVSjhpUWMxRG1tMzRaTEZsUl9FTl9XZWRyTA?oc=5)
+
+---
+
+### [Perché alcune ondate di caldo diventano eccezionali](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWdIUVFvZnN6WFFETXBFUFNmRWR5VkpvWmczYmZUU0E2eGZrRW9vXzNPQUxPUmNTTzBZR29lR0lhT0xkenFlU090bTVsUjNSOVpwSHhYSWc5OTBCR0w3TXdpdDdyRy03ZFByTXZkQXlvTTNhVGgwYVBZT1dCM0RITTBITXZOR3dfMjl3dExsZURaUlFILTVpVUdRVEczQQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">MS</span>
+
+來源：[3BMeteo](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWdIUVFvZnN6WFFETXBFUFNmRWR5VkpvWmczYmZUU0E2eGZrRW9vXzNPQUxPUmNTTzBZR29lR0lhT0xkenFlU090bTVsUjNSOVpwSHhYSWc5OTBCR0w3TXdpdDdyRy03ZFByTXZkQXlvTTNhVGgwYVBZT1dCM0RITTBITXZOR3dfMjl3dExsZURaUlFILTVpVUdRVEczQQ?oc=5)
+
+---
 
 ### [Neue Studie zweifelt an Calcium und Vitamin D: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbG91amNELXJMeVp6M25wcE5JUFlRTDhVdlg0dzJIU21meWlVY0lmX25Td2NXdUJpYlVBVFprVEo0ODI4NjFBV1BkWTVrQUY3a3ROdl8waWtxX281OW5kYzRXVnduUWtGVl9BcW9qVF9FT3h0NHl2QUFHSnZCV3BXQWtKQTlaVjFCODJ2b1N5TW15ejRIWHcxcmNGSGstMERvaVNmWHBLS1VBLTlfUzNuZ290cEYxQQ?oc=5)
 
 2026-06-20 <span class="news-indication-tag">MS</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbG91amNELXJMeVp6M25wcE5JUFlRTDhVdlg0dzJIU21meWlVY0lmX25Td2NXdUJpYlVBVFprVEo0ODI4NjFBV1BkWTVrQUY3a3ROdl8waWtxX281OW5kYzRXVnduUWtGVl9BcW9qVF9FT3h0NHl2QUFHSnZCV3BXQWtKQTlaVjFCODJ2b1N5TW15ejRIWHcxcmNGSGstMERvaVNmWHBLS1VBLTlfUzNuZ290cEYxQQ?oc=5)
-
----
-
-### [Più di 70 operatori sanitari sono stati infettati dal virus ebola nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxPblppczZtMy1aeU9ORFVaVjR3NW41cE1vZjNsY0xZODJVX0hDYS01N1RNRnd6bTJQMmk3V01MMVprVkZ6QkljZHBhVDlFeXNCcFBIYkFRYkI0aDJoVGJXS3ZJeGVDQnpmN1VYbUpRQS1DWk1iNGFMRTRrWmtGZmU4U0pCYW5Xc0dscmN1UTZR?oc=5)
-
-2026-06-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxPblppczZtMy1aeU9ORFVaVjR3NW41cE1vZjNsY0xZODJVX0hDYS01N1RNRnd6bTJQMmk3V01MMVprVkZ6QkljZHBhVDlFeXNCcFBIYkFRYkI0aDJoVGJXS3ZJeGVDQnpmN1VYbUpRQS1DWk1iNGFMRTRrWmtGZmU4U0pCYW5Xc0dscmN1UTZR?oc=5)
 
 ---
 
@@ -88,7 +96,7 @@ permalink: /news/elbasvir/
 
 ### [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
 
-2026-06-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-20 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
 
@@ -99,6 +107,14 @@ permalink: /news/elbasvir/
 2026-06-20 <span class="news-indication-tag">MS</span>
 
 來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3Exa0gxaE16ZXdMRnRTaFEzWXZ5OVRKQ2l6Y1ZPbWtxR0FSd2pCcTJNaTR6Z252NEZfWU11WGJ5eEJTUDRQSHpXM2NSV2REbXNUN1ZVenExQ25QZjhxM0QydndnbVBqVEYwcFNtSUI1Y3czVDg4X0k3Ukxxbi0xU21qNXRqaUttWlVqRWJTNXVwUjFkSENqbWpjWXV3QVgycG9DVWpfTy0tM2RWaU9KUEhsZGFNTTZjamgtcFNCOW1UcmRCLUxvX3d4YjBUYU1LVmI4NkhUbF9kZnJsUlpvMnJR0gHnAUFVX3lxTE9xSlhaTGJpNWl4ZlYwaDZKUHZ6cGFBeEhuTGgzbUVvU0JlWWpKbV9PbDJlY21qN2YzM2tpRGt0c0NiTlNYNTZUSzlQVUJHUWhzSnhzYkZRZFdBMFVXWHp1ejQ0M0RYc1oxLTRId0JiMlNDamVZT3VUTE10U2lmcm1CS1RpenFEWldKX05Cc2JxdTVsemVLcTZOVmtRYnZlNDA0MzBfVmNvUV9yZEpldkY0TG54OUpsWlRvaDhYUmdWQmMxeWVSN052eUxKWWoyTUlHMkpNdEZlY1FpT0dQYmZEeTFkcktQQQ?oc=5)
+
+---
+
+### [GLP-1-Therapie: 81 Prozent der Nutzer bleiben unzufrieden trotz Gewichtsverlust - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlpFRjJuSUN5N1FFVXBoTVk3OFprdWhld3ZySld6RmxpaW40TTd6LW5NeWV3OG9rSGJtWWNPcTVwclNPcEdOeHM1bzB4OERJOXVOTjAtX29mRjhPdlJocmNoRVZvR1RmX0VTRTVnUzZwQjQ5VVY4ZE1IUnRiVkRmUnFEYVFqT1AtM1NQM2pnaTEwSWtCNXhPdFlSRG9pM20xdTdLdHVVbUVRc3RsekVWOA?oc=5)
+
+2026-06-18 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlpFRjJuSUN5N1FFVXBoTVk3OFprdWhld3ZySld6RmxpaW40TTd6LW5NeWV3OG9rSGJtWWNPcTVwclNPcEdOeHM1bzB4OERJOXVOTjAtX29mRjhPdlJocmNoRVZvR1RmX0VTRTVnUzZwQjQ5VVY4ZE1IUnRiVkRmUnFEYVFqT1AtM1NQM2pnaTEwSWtCNXhPdFlSRG9pM20xdTdLdHVVbUVRc3RsekVWOA?oc=5)
 
 ---
 
