@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="Dupilumab 有什麼相關新聞？">
-<strong>Dupilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dupilumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/dupilumab/
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [So wirksam ist Thymian gegen Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhHcFdrbEd3cGJzLXhnTUF0WVRfUzUwaERIdEZ5WGFBZzJlak04czRNNUtnVFRjQWpPVUwycG9XUUJKM1dVSXhqcFdhZ2l5UUMyVFB2WHE3NHpiWC1wakpqQXJHendIV2tKR1BldUtXTVRnejJyd24zMzlhUzJDUmtId1NkbzRqRGtMQ1FBNk5rbGlrVTVGcW1PMGxodWh5dUFqTWliUk04X056cm91djFn?oc=5)
-
-2026-06-19 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhHcFdrbEd3cGJzLXhnTUF0WVRfUzUwaERIdEZ5WGFBZzJlak04czRNNUtnVFRjQWpPVUwycG9XUUJKM1dVSXhqcFdhZ2l5UUMyVFB2WHE3NHpiWC1wakpqQXJHendIV2tKR1BldUtXTVRnejJyd24zMzlhUzJDUmtId1NkbzRqRGtMQ1FBNk5rbGlrVTVGcW1PMGxodWh5dUFqTWliUk04X056cm91djFn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

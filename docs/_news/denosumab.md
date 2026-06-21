@@ -54,11 +54,35 @@ permalink: /news/denosumab/
 
 ## 相關新聞（10 則）
 
-### [Intervallfasten: 28% weniger Diabetes-Risiko durch 10% Bauchfett-Abbau - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxORFB4WC1fcTBWQmFSWXFvTzduRWVCNFYxYy1DMFJyRnZzMmFLZ0xNRUxyY2tOaE1WYTVIRUthVWVjSUFfLWpFMHRGejRSSmZjZTZ4SktBMTZUSEpXT0RfYVZnOXFtT3dyTnJrTWxwOXRKZTJtUkhDV0l5RVJYZGcyRjVzWGdCcnR5NFRkWGZCeVJNTGMwOVVPSnE2N1BLSHU2NTgtbmw5NFlBem5nR25ETTBmVmxIT00?oc=5)
+### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWEhmeXlnMmxVcmdWOWpaNmNwcVNhWXhEM05PUjkxNjZSaGZ2TUwwZFp1M3ZteFdfWEcwVzRqaWVkdS0xUThHSk85aDk3dmJ2clFEaFNwc1h5ZEFQam1YM3RlSk93a0RNTEdSWEJSRkZQQXVBMWxHNGFJX3JyOGU5QUJtbm1kQURxbGxybUl0bVpFSGNBNl95RkpPUXRTcV9iYW1ZN0dvdEhQODEtSDhweW5RamQzMlhJQ3Fj?oc=5)
+
+2026-06-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWEhmeXlnMmxVcmdWOWpaNmNwcVNhWXhEM05PUjkxNjZSaGZ2TUwwZFp1M3ZteFdfWEcwVzRqaWVkdS0xUThHSk85aDk3dmJ2clFEaFNwc1h5ZEFQam1YM3RlSk93a0RNTEdSWEJSRkZQQXVBMWxHNGFJX3JyOGU5QUJtbm1kQURxbGxybUl0bVpFSGNBNl95RkpPUXRTcV9iYW1ZN0dvdEhQODEtSDhweW5RamQzMlhJQ3Fj?oc=5)
+
+---
+
+### [Wie epigenetische Medikamente Blutgefäße bei Adipositas und Diabetes schützen können](https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTQyZ2swUXEweVR2WTVtd2FTRW85RmNRck5NdUhUWGFPSktVQnkwdGFLSFRJRVlBZ1VQd09RVUFadU1IYjFjUU9hQU00RTdjUG85Z25QWFJQajJnOENveWpDaGQ3SlhoNGdzRDRqenQyeDV6aVVEM3hNd2RyaGZLU25TLXcwbHlBSkxYd28tOUpjT1FiOVJGbWJwTTRRVF9DeGVvbE9lYVFrWlBQVzFYamlnTFlwbnVNREJNTHczWTliN2dyVXc?oc=5)
+
+2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTQyZ2swUXEweVR2WTVtd2FTRW85RmNRck5NdUhUWGFPSktVQnkwdGFLSFRJRVlBZ1VQd09RVUFadU1IYjFjUU9hQU00RTdjUG85Z25QWFJQajJnOENveWpDaGQ3SlhoNGdzRDRqenQyeDV6aVVEM3hNd2RyaGZLU25TLXcwbHlBSkxYd28tOUpjT1FiOVJGbWJwTTRRVF9DeGVvbE9lYVFrWlBQVzFYamlnTFlwbnVNREJNTHczWTliN2dyVXc?oc=5)
+
+---
+
+### [Viszerales Fett: 10% Reduktion senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3N1V1VBaTNvT3l3WjMxbTM1S0hRRVV6a0J6XzFGdU5UNUdodmRKdE04VjlSc2FHSFhTQXVsbWgwY1JieXZ4emJzM0RjLVo0ZmtqeFFBMm1mUDJ6R1dqVDJabGpYQ2h5cmhtTmkyLXktME1mckt6UTRvUDRLRlNxQVJlMFFOcm5IY0lHZ1hXZEN5dmd6cFh6UktwekxNVTN1dExPWVAzUUk2eTZGU3B6UVdYODlLczcwU0x2LUhB?oc=5)
 
 2026-06-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxORFB4WC1fcTBWQmFSWXFvTzduRWVCNFYxYy1DMFJyRnZzMmFLZ0xNRUxyY2tOaE1WYTVIRUthVWVjSUFfLWpFMHRGejRSSmZjZTZ4SktBMTZUSEpXT0RfYVZnOXFtT3dyTnJrTWxwOXRKZTJtUkhDV0l5RVJYZGcyRjVzWGdCcnR5NFRkWGZCeVJNTGMwOVVPSnE2N1BLSHU2NTgtbmw5NFlBem5nR25ETTBmVmxIT00?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3N1V1VBaTNvT3l3WjMxbTM1S0hRRVV6a0J6XzFGdU5UNUdodmRKdE04VjlSc2FHSFhTQXVsbWgwY1JieXZ4emJzM0RjLVo0ZmtqeFFBMm1mUDJ6R1dqVDJabGpYQ2h5cmhtTmkyLXktME1mckt6UTRvUDRLRlNxQVJlMFFOcm5IY0lHZ1hXZEN5dmd6cFh6UktwekxNVTN1dExPWVAzUUk2eTZGU3B6UVdYODlLczcwU0x2LUhB?oc=5)
+
+---
+
+### [Blutzucker senken als Krebsprävention: GLP-1, Retatrutid und neue Leitlinien - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE9kSFBJVlcycmVpTFpiNzBXQUFhUnZQQ3AtZV8ySkdFX1Q0V0tuWVB2LTlPeVVGd3lYQmJVTnh2VjAwZ09OSUdRZXRnT0lSdGowWmExcG5CLXlpcFMxS0tWRlpyRjFCYWhXdmpIYUpNTDc5UXVBUUFsS0dLU1BCcVJqaXIxYW1TakVOdF9sMWkyaHJybEJmSkF0SmVlSjJPWUYwV2ZJNmJUUXc?oc=5)
+
+2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE9kSFBJVlcycmVpTFpiNzBXQUFhUnZQQ3AtZV8ySkdFX1Q0V0tuWVB2LTlPeVVGd3lYQmJVTnh2VjAwZ09OSUdRZXRnT0lSdGowWmExcG5CLXlpcFMxS0tWRlpyRjFCYWhXdmpIYUpNTDc5UXVBUUFsS0dLU1BCcVJqaXIxYW1TakVOdF9sMWkyaHJybEJmSkF0SmVlSjJPWUYwV2ZJNmJUUXc?oc=5)
 
 ---
 
@@ -78,14 +102,6 @@ permalink: /news/denosumab/
 
 ---
 
-### [Prädiabetes: Normalisierter Blutzucker senkt Herzinfarkt-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnE0YUEzVDd3VUNfUWNEal9scml3allaS3NqY0JUbXRQVmdneHpxTm1hcTgtazQtUVg4VGFrb3ZmRXVhVlVkS2FtQUhxa2QzekljbmF3SndLd29WOWZiQmFGWTdsWUYxdDE0ZE40bW0zSERULV96U1phV2ZVTThRZFFoYWlrRldtSnpWNTVua3puWFNxWFd1cVlMWC1lNzVsSEZTTkQtRTkzMk5pMVA5UmNvV192NEoxVXc?oc=5)
-
-2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnE0YUEzVDd3VUNfUWNEal9scml3allaS3NqY0JUbXRQVmdneHpxTm1hcTgtazQtUVg4VGFrb3ZmRXVhVlVkS2FtQUhxa2QzekljbmF3SndLd29WOWZiQmFGWTdsWUYxdDE0ZE40bW0zSERULV96U1phV2ZVTThRZFFoYWlrRldtSnpWNTVua3puWFNxWFd1cVlMWC1lNzVsSEZTTkQtRTkzMk5pMVA5UmNvV192NEoxVXc?oc=5)
-
----
-
 ### [Daily 'fountain of youth' drink could lower dementia and diabetes risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5)
 
 2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
@@ -102,19 +118,11 @@ permalink: /news/denosumab/
 
 ---
 
-### [KI-freie Gentherapie-Idee: Fettgewebe gegen Diabetes gezielt umprogrammieren - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25WVnZ5TzhuWC1EV0NMUy1oS2ExdHBFQ0ZpVkxWRDVpUG1YMzJhTHE3cXp5Z0t2azM0cHprVGdfOUZRMlBlRGF2VXN5WnZ4RVdLMWp5dlQ5UjdaRWlLQkVSdm1MZUNVN3BWTUtLRzB3X1dmVTQzcXJWTGdCMTU4WFJvS251SWpNQzVnMTA3SGtFa2luRjV4eDFrN1BMd2VZd2h5MS1SQVhSYTg?oc=5)
-
-2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25WVnZ5TzhuWC1EV0NMUy1oS2ExdHBFQ0ZpVkxWRDVpUG1YMzJhTHE3cXp5Z0t2azM0cHprVGdfOUZRMlBlRGF2VXN5WnZ4RVdLMWp5dlQ5UjdaRWlLQkVSdm1MZUNVN3BWTUtLRzB3X1dmVTQzcXJWTGdCMTU4WFJvS251SWpNQzVnMTA3SGtFa2luRjV4eDFrN1BMd2VZd2h5MS1SQVhSYTg?oc=5)
-
----
-
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNG53SXlLTDFPRk9qY3hxY200UTR4cmxlVEdKOVBTYXB5RVNCYXNfRS1DdWV3aXJWYjZfMGNfRVpYbG1WMlE1cVNzekZrRzU1YUFhNzJWMHhXamNBTkw4RVB6bG9vc0N6eC1USGFRd2lrdmFWWW43ZUxwN01MYlFpUmdYZUM2bW12SUprbFp0RklFa2RHUlhGSDJNdER0eVVBUndRbnZWQW9wRF9fbW9zRDJSOUctSnNj?oc=5)
+### [Gerardo Ochoa, experto en diabetes: "El problema de hoy en día es que se prioriza la comodidad y el placer antes que el bienestar" - Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0l5bGVramN4QWRTZlN3MzlNNi1fZktaMmFFWVhMbkZLMmsxc2pGUUFieTl2Z2ZnX19YajE5cTZjZmd1Tm5EQWdJcGlPQy1PVDBnYlVUcmxZOWQxUlBWaXdpR2pvRExXSnNjN0lvN0tiWm9jd3djXzVieXByc2t3MkhtSjIxMl83VWhHcjVVVmVPeU5nZTl0eU8yaVIwT2lPYVk3dTRwSlE2V0lRVzFhQm1ZQnBYUVVpOXJYbHBINFBmRHk3Qng4MHpRcUY4LXBmRXBLbHE1MzBPczViSG44b0pvOA?oc=5)
 
 2026-06-19 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNG53SXlLTDFPRk9qY3hxY200UTR4cmxlVEdKOVBTYXB5RVNCYXNfRS1DdWV3aXJWYjZfMGNfRVpYbG1WMlE1cVNzekZrRzU1YUFhNzJWMHhXamNBTkw4RVB6bG9vc0N6eC1USGFRd2lrdmFWWW43ZUxwN01MYlFpUmdYZUM2bW12SUprbFp0RklFa2RHUlhGSDJNdER0eVVBUndRbnZWQW9wRF9fbW9zRDJSOUctSnNj?oc=5)
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0l5bGVramN4QWRTZlN3MzlNNi1fZktaMmFFWVhMbkZLMmsxc2pGUUFieTl2Z2ZnX19YajE5cTZjZmd1Tm5EQWdJcGlPQy1PVDBnYlVUcmxZOWQxUlBWaXdpR2pvRExXSnNjN0lvN0tiWm9jd3djXzVieXByc2t3MkhtSjIxMl83VWhHcjVVVmVPeU5nZTl0eU8yaVIwT2lPYVk3dTRwSlE2V0lRVzFhQm1ZQnBYUVVpOXJYbHBINFBmRHk3Qng4MHpRcUY4LXBmRXBLbHE1MzBPczViSG44b0pvOA?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/denosumab/
 2026-06-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnBLbDRmU1kzenZVRkZfdWJ1bDhsU0EwRFFZRHE0UlktZHZ2azVpeXZJVDkyR3RQQzlGUWlXUmEyUVJmQlFCN1Y1aVgzZGVOQ0NXR1puOWJpcnZkOWx4UVhDdGo1ODY0ZTAydWxJWHB2WU9QeGhsU0FiTk8yT054SVUyUFd1Y19abG1peXE3cDBrS3d1WFB6Nkg2T2RzNmlobFczZlFjWUVKcXUxazFhMG9USQ?oc=5)
-
----
-
-### [Diabetes erhöht Parkinson-Risiko um 27 Prozent: Metaanalyse warnt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
-
-2026-06-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWk4VFlMZlg4dnZUV1NyQkhHdmQySVE5SnZNdHM1VEtpaGNxdXg5bjlmOEIzYzJrOVdxRk5XbDBvaXlNem9SeGRXMklhR1g5YktkbnZ4RGlPOTBldVc4NUlwRDNjcVFJU3NPLXJPc0E4TXFzd2NNN0M1b0Q0MjFDYWlOeWlydVBlQjEySnlqY0dnYzRwRDY1d3VtT2dHb2dqR1owRm91Yk53WDI2ME9GV291dkw?oc=5)
 
 ---
 

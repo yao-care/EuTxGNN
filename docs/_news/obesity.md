@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [KI-freie Gentherapie-Idee: Fettgewebe gegen Diabetes gezielt umprogrammieren - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25WVnZ5TzhuWC1EV0NMUy1oS2ExdHBFQ0ZpVkxWRDVpUG1YMzJhTHE3cXp5Z0t2azM0cHprVGdfOUZRMlBlRGF2VXN5WnZ4RVdLMWp5dlQ5UjdaRWlLQkVSdm1MZUNVN3BWTUtLRzB3X1dmVTQzcXJWTGdCMTU4WFJvS251SWpNQzVnMTA3SGtFa2luRjV4eDFrN1BMd2VZd2h5MS1SQVhSYTg?oc=5)
+### [Wie epigenetische Medikamente Blutgefäße bei Adipositas und Diabetes schützen können](https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTQyZ2swUXEweVR2WTVtd2FTRW85RmNRck5NdUhUWGFPSktVQnkwdGFLSFRJRVlBZ1VQd09RVUFadU1IYjFjUU9hQU00RTdjUG85Z25QWFJQajJnOENveWpDaGQ3SlhoNGdzRDRqenQyeDV6aVVEM3hNd2RyaGZLU25TLXcwbHlBSkxYd28tOUpjT1FiOVJGbWJwTTRRVF9DeGVvbE9lYVFrWlBQVzFYamlnTFlwbnVNREJNTHczWTliN2dyVXc?oc=5)
 
-2026-06-19
+2026-06-21
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25WVnZ5TzhuWC1EV0NMUy1oS2ExdHBFQ0ZpVkxWRDVpUG1YMzJhTHE3cXp5Z0t2azM0cHprVGdfOUZRMlBlRGF2VXN5WnZ4RVdLMWp5dlQ5UjdaRWlLQkVSdm1MZUNVN3BWTUtLRzB3X1dmVTQzcXJWTGdCMTU4WFJvS251SWpNQzVnMTA3SGtFa2luRjV4eDFrN1BMd2VZd2h5MS1SQVhSYTg?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTQyZ2swUXEweVR2WTVtd2FTRW85RmNRck5NdUhUWGFPSktVQnkwdGFLSFRJRVlBZ1VQd09RVUFadU1IYjFjUU9hQU00RTdjUG85Z25QWFJQajJnOENveWpDaGQ3SlhoNGdzRDRqenQyeDV6aVVEM3hNd2RyaGZLU25TLXcwbHlBSkxYd28tOUpjT1FiOVJGbWJwTTRRVF9DeGVvbE9lYVFrWlBQVzFYamlnTFlwbnVNREJNTHczWTliN2dyVXc?oc=5)
+
+---
+
+### [Burgos cuadruplica en cinco años el consumo de Ozempic y otros nuevos medicamentos para adelgazar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW1yVFo4U1l6QllnRFpWTWtMc2t4ci1aM1VXVnNBd1BUUUVmYnU2aVhBQ1VZcmM2TzdfdXAtVW9nN1hDS2FHbjctVS1zc0k5Tm5XeHVZbWFQZk9wam43NjJFUE5zVFZRLXVHX3V4WFhFOHEwekltUW1raTRVc1Y5bEtMV2hKdFQxclNjZVQ0V3hJNndRbk45cklWT0ZvdTBkMGdGR3N0c01MNzBZd0tWeTVxQnU?oc=5)
+
+2026-06-20
+
+來源：[BURGOSconecta](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW1yVFo4U1l6QllnRFpWTWtMc2t4ci1aM1VXVnNBd1BUUUVmYnU2aVhBQ1VZcmM2TzdfdXAtVW9nN1hDS2FHbjctVS1zc0k5Tm5XeHVZbWFQZk9wam43NjJFUE5zVFZRLXVHX3V4WFhFOHEwekltUW1raTRVc1Y5bEtMV2hKdFQxclNjZVQ0V3hJNndRbk45cklWT0ZvdTBkMGdGR3N0c01MNzBZd0tWeTVxQnU?oc=5)
+
+---
+
+### [Rucola (o rughetta) per perdere peso? Riduce il grasso e stimola il metabolismo](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmhuSDBBYkt2NmFxSjJYenhGMXRCOGczZ19hZEx6MWJjYXkwMk9pNkprYWExZG4weVhGTVdRNEFzMmZSaFYtTTdYQURMMzlwaW0tWVczV1dlbmU5b3pwd092Z2xGU1RBSXhpUXdsalk3bFFjZFFtUkhmYk9hVkw3dGl1UGw3Ukc4YzF0d0pQdk1RYTh3REhxQVgtQQ?oc=5)
+
+2026-06-20
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmhuSDBBYkt2NmFxSjJYenhGMXRCOGczZ19hZEx6MWJjYXkwMk9pNkprYWExZG4weVhGTVdRNEFzMmZSaFYtTTdYQURMMzlwaW0tWVczV1dlbmU5b3pwd092Z2xGU1RBSXhpUXdsalk3bFFjZFFtUkhmYk9hVkw3dGl1UGw3Ukc4YzF0d0pQdk1RYTh3REhxQVgtQQ?oc=5)
 
 ---
 
@@ -59,14 +75,6 @@ permalink: /news/obesity/
 2026-06-19
 
 來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
-
----
-
-### [Nella rucola, una sostanza che accelera il metabolismo e aiuta a combattere aumento di peso e glicemia alta. I risultati di uno studio italiano - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDhIeFJLNUFTTktUQmNiZGV4WXVjQXlLdFV4WHZLYV9OaXlFU09JZWY5ZnBIcm5QRGFwd0MtdE5aZkxvWW1PTk1KS183aXFET0tzd2RWVjI3aU1rRHlmaHhFSVljSEl4c2EzYzJJeXZkUlAyeDE3bS1TSzZLYUllUXEzNmpPa3ZZX2I3OEdIZU04Q3BaS2xLcGQ4VEp4VDB2WnhwWkV4X19QSDdVNEJGUnY2dDF0bjVMNEVWRndQM2tMLXRXcDVmVXpzWnU5Q3JrQUxLbHRtVTlzTlFtV1p4T0Z5UzI?oc=5)
-
-2026-06-19
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSDhIeFJLNUFTTktUQmNiZGV4WXVjQXlLdFV4WHZLYV9OaXlFU09JZWY5ZnBIcm5QRGFwd0MtdE5aZkxvWW1PTk1KS183aXFET0tzd2RWVjI3aU1rRHlmaHhFSVljSEl4c2EzYzJJeXZkUlAyeDE3bS1TSzZLYUllUXEzNmpPa3ZZX2I3OEdIZU04Q3BaS2xLcGQ4VEp4VDB2WnhwWkV4X19QSDdVNEJGUnY2dDF0bjVMNEVWRndQM2tMLXRXcDVmVXpzWnU5Q3JrQUxLbHRtVTlzTlFtV1p4T0Z5UzI?oc=5)
 
 ---
 

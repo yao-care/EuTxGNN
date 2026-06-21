@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="Ritonavir 有什麼相關新聞？">
-<strong>Ritonavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ritonavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ritonavir/
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Hepatitis Delta: alertan del riesgo de cáncer hepático y urgen a diagnosticar y tratar antes la enfermedad - Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
 
 2026-06-19 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
-
----
-
-### [Nuevo tratamiento de la Hepatitis B con Bepirovirsen - Clínica FEHV](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2xzNXVjckQ5a0VqVzZGWUE3elhBS25XQmlKekhkS1F5cWpGeWtBWmxDZzBuMTBQUWgzZXhhUUtCTFBER29UZDEyTXZzREw1TDhIRXVHbC1kQllWT0Z3eEZpazVxZkNtc3pIaQ?oc=5)
-
-2026-06-18 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aN2xzNXVjckQ5a0VqVzZGWUE3elhBS25XQmlKekhkS1F5cWpGeWtBWmxDZzBuMTBQUWgzZXhhUUtCTFBER29UZDEyTXZzREw1TDhIRXVHbC1kQllWT0Z3eEZpazVxZkNtc3pIaQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [From birth defects to arthritis and asthma - the cleaning products harming your family’s health, experts warn - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
 
 2026-06-20
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
-
----
-
-### [So wirksam ist Thymian gegen Bronchitis, COPD & Asthma](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhHcFdrbEd3cGJzLXhnTUF0WVRfUzUwaERIdEZ5WGFBZzJlak04czRNNUtnVFRjQWpPVUwycG9XUUJKM1dVSXhqcFdhZ2l5UUMyVFB2WHE3NHpiWC1wakpqQXJHendIV2tKR1BldUtXTVRnejJyd24zMzlhUzJDUmtId1NkbzRqRGtMQ1FBNk5rbGlrVTVGcW1PMGxodWh5dUFqTWliUk04X056cm91djFn?oc=5)
-
-2026-06-19
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhHcFdrbEd3cGJzLXhnTUF0WVRfUzUwaERIdEZ5WGFBZzJlak04czRNNUtnVFRjQWpPVUwycG9XUUJKM1dVSXhqcFdhZ2l5UUMyVFB2WHE3NHpiWC1wakpqQXJHendIV2tKR1BldUtXTVRnejJyd24zMzlhUzJDUmtId1NkbzRqRGtMQ1FBNk5rbGlrVTVGcW1PMGxodWh5dUFqTWliUk04X056cm91djFn?oc=5)
 
 ---
 

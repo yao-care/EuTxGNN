@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Bluthochdruck: Heim-Messung senkt Herzinfarkt-Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0gxNUhHMGUyZHBjbFJxQjhmT3V1enR3MHloQWs3SU5tWjI2ZWtpb21DMUtYb2VOVS1aMmhHb3lscHR3bjZpQTF0WGUzUDhiNUVicHlsZEZsR0dZQW5PbU1TUTkyMnNiUEVlSGV5QUlnV2t6YjBXdi1NTXVCWklqQ0tnTmtOdHNRVEszUTZlTHhJcWwzNEZDVEtpYVVzUGVhd05jdXo5X0J2QWpPaUhGcmZ2Q1E?oc=5)
+### [Bluthochdruck: 34 Prozent weniger Herzinfarkte durch Heimmonitoring - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1RLbjMzSG56bWZIakRTLU1RT2NKcnNRaHhLZVA0RGgydlVXYklVTW40eEQ5bC1KNmh3Ty1XVzN1dGhBdGZiSHgyOVZkM0JEY3BCcUtuRjZjbXNTY1NzNGdWOE9RdVNlbTNxSVgyTG1mRmwtdXo5MEQtck1pRjlfNV9seEk4R0ItcE1IdEZYV0JKSmFvWHhwRXRQbFRmRFJ6cVJwYjdtRDVzaEpJYk1XTExYWklNdw?oc=5)
 
-2026-06-20 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0gxNUhHMGUyZHBjbFJxQjhmT3V1enR3MHloQWs3SU5tWjI2ZWtpb21DMUtYb2VOVS1aMmhHb3lscHR3bjZpQTF0WGUzUDhiNUVicHlsZEZsR0dZQW5PbU1TUTkyMnNiUEVlSGV5QUlnV2t6YjBXdi1NTXVCWklqQ0tnTmtOdHNRVEszUTZlTHhJcWwzNEZDVEtpYVVzUGVhd05jdXo5X0J2QWpPaUhGcmZ2Q1E?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1RLbjMzSG56bWZIakRTLU1RT2NKcnNRaHhLZVA0RGgydlVXYklVTW40eEQ5bC1KNmh3Ty1XVzN1dGhBdGZiSHgyOVZkM0JEY3BCcUtuRjZjbXNTY1NzNGdWOE9RdVNlbTNxSVgyTG1mRmwtdXo5MEQtck1pRjlfNV9seEk4R0ItcE1IdEZYV0JKSmFvWHhwRXRQbFRmRFJ6cVJwYjdtRDVzaEpJYk1XTExYWklNdw?oc=5)
+
+---
+
+### [Hipertensión y ola de calor: ¿qué hacer ante una bajada excesiva de la presión arterial? - El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzg0MVp0eDZ0WWllV19CeUJUODNPZzkzVkkxYU5rNjBsMndoUUNKYXZsR3c5TDZlT0ZCZTVEb3ZLTjJxbGFYbHh0U09DeWlzRkVTMlpKeGdhMTNiR0hIMUZGUzRhWnFVYWpoV00tV0ZZdEtpS0VKUG1sZG55U055eThzXzNsX3NVTHRaMDdoT0hoMVF1N3NuR1B6Mnp4NDlkRE9pd0NkbDRLeTBnQXpMaG8zZFpMT05oWHh5cnZoX3BOZFZlVlM1MmpVWUc0OGxtTkkyQ1pyYS00eE1ZQXc40gHkAUFVX3lxTE9pelZoR1NWc0hLUHN2VXRtTzNfT0U5NmlzempmZ1VPNnlwMjZjOUxtVXlVXzBLOUgtSGtZUDB2OTMwblZCYVRkcHBURlRDNmtSYS1rcmF3RzgxNmR5R1U3WXk4UWJFbXYtcUhpdGdlZzhoclNZLWF4Q3htbU8yUk5FNV9TLVN6N3JTSUg5RXRGZGxzbE1BanZZSXdfRk9yVlkxZnBlOVN1TEtkVU51T3BLZ0dEdVRFYjRZdF92cEY3VEtIQ0ZvS1k0d0RRWDRmbmtkMUUzV1JzNTBwSVowVFJ4S2Z3WA?oc=5)
+
+2026-06-20 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzg0MVp0eDZ0WWllV19CeUJUODNPZzkzVkkxYU5rNjBsMndoUUNKYXZsR3c5TDZlT0ZCZTVEb3ZLTjJxbGFYbHh0U09DeWlzRkVTMlpKeGdhMTNiR0hIMUZGUzRhWnFVYWpoV00tV0ZZdEtpS0VKUG1sZG55U055eThzXzNsX3NVTHRaMDdoT0hoMVF1N3NuR1B6Mnp4NDlkRE9pd0NkbDRLeTBnQXpMaG8zZFpMT05oWHh5cnZoX3BOZFZlVlM1MmpVWUc0OGxtTkkyQ1pyYS00eE1ZQXc40gHkAUFVX3lxTE9pelZoR1NWc0hLUHN2VXRtTzNfT0U5NmlzempmZ1VPNnlwMjZjOUxtVXlVXzBLOUgtSGtZUDB2OTMwblZCYVRkcHBURlRDNmtSYS1rcmF3RzgxNmR5R1U3WXk4UWJFbXYtcUhpdGdlZzhoclNZLWF4Q3htbU8yUk5FNV9TLVN6N3JTSUg5RXRGZGxzbE1BanZZSXdfRk9yVlkxZnBlOVN1TEtkVU51T3BLZ0dEdVRFYjRZdF92cEY3VEtIQ0ZvS1k0d0RRWDRmbmtkMUUzV1JzNTBwSVowVFJ4S2Z3WA?oc=5)
 
 ---
 
