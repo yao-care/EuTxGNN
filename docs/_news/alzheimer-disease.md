@@ -48,7 +48,7 @@ permalink: /news/alzheimer-disease/
 
 ### [Daily 'fountain of youth' drink could lower dementia and diabetes risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5)
 
-2026-06-20
+2026-06-21
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5)
 

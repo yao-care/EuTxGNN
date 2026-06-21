@@ -14,7 +14,7 @@ permalink: /news/zonisamide/
 ---
 
 <p class="key-answer" data-question="Zonisamide 有什麼相關新聞？">
-<strong>Zonisamide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zonisamide</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/zonisamide/
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（24 則）
 
-### [Herzinfarkt-Prävention: Vier Faktoren verursachen 99 Prozent aller Fälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWZEZDY2NmFWdnpCSTdlUGdhQjg2ZGs0TV9PMkhuVW1MMkdsM1R2eHJ3cVlSNmpKeVQxVUN2UE0ydWdMbVlZRjV5QzRiNVlua2cxb1VxRG9HdWVtVG1pTm5SWGFraWZHLXdRa2ZOWmlDM0tqaUNmaWtwQWhXdk9YcFJqZ1BHMFUxSlVIbjJCZnVfM2RxV0NmRWswaGN6b3J5Sk14OWswZERmb3hoZGdSM05KSThzR1E5ckVEa2p3RQ?oc=5)
+### [Ansiedad, miedo e incertidumbre: el lado emocional del cáncer de riñón que afecta al 90% de los pacientes - Fuentes Informadas](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHVmX2dtZXp5ZUNkQm4wNWFNaWlJVGFER2FjNy1DRFJMdnJxQVpkajVNWkRzaVdyWDVNOGJvNU04bl9YcTBsNmFOdFVVZTZkYWZWZE9mNVVnNTFaNFVOZl91ZGo0RmhHRXRHQmduYUVHanloX2dWNHE1cER6aW13OWxjVWY0Qm84WDdyb0V4VlpHM21zaUlwVEdZZ0dzbTEwRzl4YUtXNHhWdlo5Z1Y2OGx2YkpqYUs2MlpiNVAzejdpWDN6eW1OQVMyOE4?oc=5)
+
+2026-06-21 <span class="news-indication-tag">AF</span>
+
+來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHVmX2dtZXp5ZUNkQm4wNWFNaWlJVGFER2FjNy1DRFJMdnJxQVpkajVNWkRzaVdyWDVNOGJvNU04bl9YcTBsNmFOdFVVZTZkYWZWZE9mNVVnNTFaNFVOZl91ZGo0RmhHRXRHQmduYUVHanloX2dWNHE1cER6aW13OWxjVWY0Qm84WDdyb0V4VlpHM21zaUlwVEdZZ0dzbTEwRzl4YUtXNHhWdlo5Z1Y2OGx2YkpqYUs2MlpiNVAzejdpWDN6eW1OQVMyOE4?oc=5)
+
+---
+
+### [Alzheimer-Früherkennung: Neue Bluttests erreichen über 90% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzctU2N4cHA0bHZ5T0NzMUYxT24td3NJRG1fZDhrTVBsWWtmRGR1Rll4ZE9ybU9SVkptUy1XZjMtd090cWNKbDc1MmozUUpCMmYwU2lZZDh5cXMzX1RJckJkZ2RtcUtHVk9VdlNNVzNTcktxX3RNeXMzUGdpQVROeHM5WUdqYVB0VzAtR2pUbzZiZEtQb2xNOUdERDZzMUtjTzNVS1lxQ0hiUy00b241OUJOV2RjUQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzctU2N4cHA0bHZ5T0NzMUYxT24td3NJRG1fZDhrTVBsWWtmRGR1Rll4ZE9ybU9SVkptUy1XZjMtd090cWNKbDc1MmozUUpCMmYwU2lZZDh5cXMzX1RJckJkZ2RtcUtHVk9VdlNNVzNTcktxX3RNeXMzUGdpQVROeHM5WUdqYVB0VzAtR2pUbzZiZEtQb2xNOUdERDZzMUtjTzNVS1lxQ0hiUy00b241OUJOV2RjUQ?oc=5)
+
+---
+
+### [Vier Risikofaktoren erklären 99% schwerer Herzereignisse – was Vorsorge ändern kann - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnE0Yk5SNVBPSkViNlBJdFBTM2hVenl5X1JSQXNkZmd3dnNEcURCaXNOSmIzY0h3N0JuV1VhcE5Sc2k3RmxXdGlZSlluSWE4ZDBVZk1LTXhwc2RBaDFKaTZiYmxhNXBRM3lSTkRfRUp2NVZFZnJzanRfVmpDMmNJZXlhd1JKYm0zX2V6YWROazZLMzkwVUxUZ0pkOUgtX1Y5WXc3S3B3MnlXV1R3N2piX1ljV1Y?oc=5)
 
 2026-06-20 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWZEZDY2NmFWdnpCSTdlUGdhQjg2ZGs0TV9PMkhuVW1MMkdsM1R2eHJ3cVlSNmpKeVQxVUN2UE0ydWdMbVlZRjV5QzRiNVlua2cxb1VxRG9HdWVtVG1pTm5SWGFraWZHLXdRa2ZOWmlDM0tqaUNmaWtwQWhXdk9YcFJqZ1BHMFUxSlVIbjJCZnVfM2RxV0NmRWswaGN6b3J5Sk14OWswZERmb3hoZGdSM05KSThzR1E5ckVEa2p3RQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnE0Yk5SNVBPSkViNlBJdFBTM2hVenl5X1JSQXNkZmd3dnNEcURCaXNOSmIzY0h3N0JuV1VhcE5Sc2k3RmxXdGlZSlluSWE4ZDBVZk1LTXhwc2RBaDFKaTZiYmxhNXBRM3lSTkRfRUp2NVZFZnJzanRfVmpDMmNJZXlhd1JKYm0zX2V6YWROazZLMzkwVUxUZ0pkOUgtX1Y5WXc3S3B3MnlXV1R3N2piX1ljV1Y?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Por qué importa que le hayan cambiado el nombre a un síndrome que afecta a más de 170 millones de mujeres en el mundo](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDSnMyZ3FPdWdVN3FMMWFkS1F5WFVJNWxSVnhMWXdjQ3dhbWk4UW1xQ3hzWDNBYXliVFItNXdybS1aenQ4cmliMndpLTFtNjljc3dwc2JQLUJUdTTSAWBBVV95cUxNTzZ4UTJXaGVROENWQlhwQ09IR0E3X3dGLWEwSllKbmNlT3E5QWtCN0VJVHNDU0dJdDdpYlJOVW5OSy1KWWx0T3cwRTlSNjJ3MWhmX0V5WUUxMnpSc2Jaa3I?oc=5)
+### [Por qué importa que le hayan cambiado el nombre a un síndrome que afecta a más de 170 millones de mujeres en el mundo](https://news.google.com/rss/articles/CBMilgFBVV95cUxNazNnM3lwZkRreVZJbWU5MlBNaTd2YVRaZ1d6aXpaZHVKYldDNjl5UDROU21BX0MtWE5telFoVUcyTVUzT3JTQTlVLVR5ekx2MnQxamx5dU1pSnZMSzJTdnlhbzZPVVY3TG85bTNWMk9QUWVfQmZxc3BsUS15bzVpUG1HVTZnZ25DSkdtWW5pTEhOSzBYbEE?oc=5)
 
 2026-06-20 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDSnMyZ3FPdWdVN3FMMWFkS1F5WFVJNWxSVnhMWXdjQ3dhbWk4UW1xQ3hzWDNBYXliVFItNXdybS1aenQ4cmliMndpLTFtNjljc3dwc2JQLUJUdTTSAWBBVV95cUxNTzZ4UTJXaGVROENWQlhwQ09IR0E3X3dGLWEwSllKbmNlT3E5QWtCN0VJVHNDU0dJdDdpYlJOVW5OSy1KWWx0T3cwRTlSNjJ3MWhmX0V5WUUxMnpSc2Jaa3I?oc=5)
+來源：[Yahoo](https://news.google.com/rss/articles/CBMilgFBVV95cUxNazNnM3lwZkRreVZJbWU5MlBNaTd2YVRaZ1d6aXpaZHVKYldDNjl5UDROU21BX0MtWE5telFoVUcyTVUzT3JTQTlVLVR5ekx2MnQxamx5dU1pSnZMSzJTdnlhbzZPVVY3TG85bTNWMk9QUWVfQmZxc3BsUS15bzVpUG1HVTZnZ25DSkdtWW5pTEhOSzBYbEE?oc=5)
 
 ---
 
@@ -110,11 +126,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Hipertensión y ola de calor: ¿qué hacer ante una bajada excesiva de la presión arterial? - El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzg0MVp0eDZ0WWllV19CeUJUODNPZzkzVkkxYU5rNjBsMndoUUNKYXZsR3c5TDZlT0ZCZTVEb3ZLTjJxbGFYbHh0U09DeWlzRkVTMlpKeGdhMTNiR0hIMUZGUzRhWnFVYWpoV00tV0ZZdEtpS0VKUG1sZG55U055eThzXzNsX3NVTHRaMDdoT0hoMVF1N3NuR1B6Mnp4NDlkRE9pd0NkbDRLeTBnQXpMaG8zZFpMT05oWHh5cnZoX3BOZFZlVlM1MmpVWUc0OGxtTkkyQ1pyYS00eE1ZQXc40gHkAUFVX3lxTE9pelZoR1NWc0hLUHN2VXRtTzNfT0U5NmlzempmZ1VPNnlwMjZjOUxtVXlVXzBLOUgtSGtZUDB2OTMwblZCYVRkcHBURlRDNmtSYS1rcmF3RzgxNmR5R1U3WXk4UWJFbXYtcUhpdGdlZzhoclNZLWF4Q3htbU8yUk5FNV9TLVN6N3JTSUg5RXRGZGxzbE1BanZZSXdfRk9yVlkxZnBlOVN1TEtkVU51T3BLZ0dEdVRFYjRZdF92cEY3VEtIQ0ZvS1k0d0RRWDRmbmtkMUUzV1JzNTBwSVowVFJ4S2Z3WA?oc=5)
+### [Australia pledges action on H5N1 after bird flu case confirmed - Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdRZW1YZ3lSaExJT2MtbDFWY09SMEIxN1VHZ29ZT2c3d2VleW5xbFh1QjVhN0xSS1BuTFRKOU84VnQ3TDVuSTdPZTlFZC1hX29lSGM5czMycXBlejR0aHNxTGxWT1gwYjQyMGlaTlp5ZjNOMzVXcC1sVGN1TC1PaG9JMGtZYUdhLW1IQVR1NnBkQUwxb2tCQ3hqcXdBUzJ6c2ZtYU9R0gGrAUFVX3lxTE5ZVWx4ZEFUczMtbVd4TFhlMGZJbVBwVjh0WmtFcUJKaFNoelM1NjlON1pRUjlxNU40azF6LWdvWkhMVVlSQU9oRXFpQTctY2JOVTlvX1NmZFJhZGF2aU9YemwxU1pERUJTTVAyM3Z3aE16RmRIOTBENTVlUkI5QlVWUWVpRjEwMkRLY1F5dVVhbDNlNWZNRlBfNENSZ2ZLZE5xc2RLS21ncTI1Yw?oc=5)
 
-2026-06-20 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+2026-06-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzg0MVp0eDZ0WWllV19CeUJUODNPZzkzVkkxYU5rNjBsMndoUUNKYXZsR3c5TDZlT0ZCZTVEb3ZLTjJxbGFYbHh0U09DeWlzRkVTMlpKeGdhMTNiR0hIMUZGUzRhWnFVYWpoV00tV0ZZdEtpS0VKUG1sZG55U055eThzXzNsX3NVTHRaMDdoT0hoMVF1N3NuR1B6Mnp4NDlkRE9pd0NkbDRLeTBnQXpMaG8zZFpMT05oWHh5cnZoX3BOZFZlVlM1MmpVWUc0OGxtTkkyQ1pyYS00eE1ZQXc40gHkAUFVX3lxTE9pelZoR1NWc0hLUHN2VXRtTzNfT0U5NmlzempmZ1VPNnlwMjZjOUxtVXlVXzBLOUgtSGtZUDB2OTMwblZCYVRkcHBURlRDNmtSYS1rcmF3RzgxNmR5R1U3WXk4UWJFbXYtcUhpdGdlZzhoclNZLWF4Q3htbU8yUk5FNV9TLVN6N3JTSUg5RXRGZGxzbE1BanZZSXdfRk9yVlkxZnBlOVN1TEtkVU51T3BLZ0dEdVRFYjRZdF92cEY3VEtIQ0ZvS1k0d0RRWDRmbmtkMUUzV1JzNTBwSVowVFJ4S2Z3WA?oc=5)
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdRZW1YZ3lSaExJT2MtbDFWY09SMEIxN1VHZ29ZT2c3d2VleW5xbFh1QjVhN0xSS1BuTFRKOU84VnQ3TDVuSTdPZTlFZC1hX29lSGM5czMycXBlejR0aHNxTGxWT1gwYjQyMGlaTlp5ZjNOMzVXcC1sVGN1TC1PaG9JMGtZYUdhLW1IQVR1NnBkQUwxb2tCQ3hqcXdBUzJ6c2ZtYU9R0gGrAUFVX3lxTE5ZVWx4ZEFUczMtbVd4TFhlMGZJbVBwVjh0WmtFcUJKaFNoelM1NjlON1pRUjlxNU40azF6LWdvWkhMVVlSQU9oRXFpQTctY2JOVTlvX1NmZFJhZGF2aU9YemwxU1pERUJTTVAyM3Z3aE16RmRIOTBENTVlUkI5QlVWUWVpRjEwMkRLY1F5dVVhbDNlNWZNRlBfNENSZ2ZLZE5xc2RLS21ncTI1Yw?oc=5)
 
 ---
 
@@ -131,14 +147,6 @@ permalink: /news/zonisamide/
 2026-06-20 <span class="news-indication-tag">AF</span>
 
 來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiY0FVX3lxTE50OTNjUURETEZteE9xQmI5QkpmVDJBWDRUak9XcDBoN2x4RmQ2MXFRbEY2UnlhOHRWSjBXNUFDZlRkbnpKLUNPQjlRVUkxeHk4X1RRV2ktTTBBSUZCLTdfRWpTaw?oc=5)
-
----
-
-### [Médico israelí destaca que los medicamentos para la obesidad podrían tener beneficios más amplios para la salud - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTDVVYzJYZUxLc083MkJxeGtGaV84MFdPeWxXMUdyWkRUTWlIMjVZRUUxeFVDTGRUa2RpUjdYM1RuaXZRSFJabkgxTl9UVE9tOVZVY0R1bXBicEFTLXJic3J1UVdYWVM3OFRiRzNWSDhsWFVtVTBtbFA2ajZ6WEE5ZC1ZUnE1eFhIU2htS3lEZnZVVDBfV1BpT1I1eU5OVHBSdVhPUW1rdzBoOC1JNzAwUkR5VzEzeXRaWFdQSXVyV29hVGcxVnRKd1hqTDJZWklSOHhEd0VDdUlwb3pPYmdKXzM0OA?oc=5)
-
-2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTDVVYzJYZUxLc083MkJxeGtGaV84MFdPeWxXMUdyWkRUTWlIMjVZRUUxeFVDTGRUa2RpUjdYM1RuaXZRSFJabkgxTl9UVE9tOVZVY0R1bXBicEFTLXJic3J1UVdYWVM3OFRiRzNWSDhsWFVtVTBtbFA2ajZ6WEE5ZC1ZUnE1eFhIU2htS3lEZnZVVDBfV1BpT1I1eU5OVHBSdVhPUW1rdzBoOC1JNzAwUkR5VzEzeXRaWFdQSXVyV29hVGcxVnRKd1hqTDJZWklSOHhEd0VDdUlwb3pPYmdKXzM0OA?oc=5)
 
 ---
 
@@ -184,7 +192,7 @@ permalink: /news/zonisamide/
 
 ### [Rising number of cancer patients are skipping chemo and opting for ivermectin instead, analysis finds - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
 
-2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
 
@@ -198,6 +206,22 @@ permalink: /news/zonisamide/
 
 ---
 
+### [Hipotensión en verano: cómo afecta el calor a la tensión baja - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMiowFBVV95cUxORXdvZ0JXUnpxdE1KTS1oc2FYX1NnMVVRU2Yxa2dKSHRFWVhaWUlNRFNWcF9tOWEtZXQxdjVFaG51c182YnlmVkxSZ2RMc0hKWjRSRW5sbFA3OEY3aGk5cGVOMnM3Zl9JSE5hcFJoMHQ4ZmNKS1lQNmJJVldPYklyQ2VmcWVNdWpZM0ttU0NCckx0TFpqVkwxOXA1ZDY1ZEtnTnM40gGoAUFVX3lxTFBjZGhTaHNGZzc0d1lLUnRtN09odnB5RDZlaWhnWDJCTzM0U0NNN3Z2UTBJUFFabkVqVGUzQWpod1NWQTYwYnlhZi0yTDNkWG16UXU5c0lSTGtnNFBidUtGTVdIWGwwQlVGQUo3QzFKWHVSdVhKR0pJX2VWSlhaOEVCalMzNkFJRlNkYUtzRDdDWFJ6N3l5YzM0QzVuOGVVbjd3R0gtN09VeQ?oc=5)
+
+2026-06-19 <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMiowFBVV95cUxORXdvZ0JXUnpxdE1KTS1oc2FYX1NnMVVRU2Yxa2dKSHRFWVhaWUlNRFNWcF9tOWEtZXQxdjVFaG51c182YnlmVkxSZ2RMc0hKWjRSRW5sbFA3OEY3aGk5cGVOMnM3Zl9JSE5hcFJoMHQ4ZmNKS1lQNmJJVldPYklyQ2VmcWVNdWpZM0ttU0NCckx0TFpqVkwxOXA1ZDY1ZEtnTnM40gGoAUFVX3lxTFBjZGhTaHNGZzc0d1lLUnRtN09odnB5RDZlaWhnWDJCTzM0U0NNN3Z2UTBJUFFabkVqVGUzQWpod1NWQTYwYnlhZi0yTDNkWG16UXU5c0lSTGtnNFBidUtGTVdIWGwwQlVGQUo3QzFKWHVSdVhKR0pJX2VWSlhaOEVCalMzNkFJRlNkYUtzRDdDWFJ6N3l5YzM0QzVuOGVVbjd3R0gtN09VeQ?oc=5)
+
+---
+
+### [Dieci domande di attualità sul tumore del pancreas: tra clinica e ricerca](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3FWZUNwWHBzeGVDQ0VzS3YxdmdITE9LNTM2QWJMZmVnbS0yVDN1XzMtbjFnSVVwTWR1QTA3Y3RETlRXZGdEZnRmSWp2YTM1bkhuZFk3RGh4dllOQkdSYjg4YmlUcEJIMHhmU2QzYzMxb3c3VFl4Zkk1bHRkRHlwcWdSTm1KRDU3blRDUG1KOURDb1VtSjlYdm1WUFRsbkpDQ1lYazBELXhEMFhBWm9QMEVhUENIYm9xTWdXVkpnSklxV2t6Sm9FVWFzUdIB0AFBVV95cUxObEFDV1ZiOXpkR0NxenFlLURVR3BLZ3VJZ3cwSFNLV3FZQVl1MmF6WHJRaTUzdlI1LXdfYVMzQlViNGdYdUxXOUtVcDgxTkxhc2NpTnJLQ2FJbENwbzd0enFjZWNsTFVkb19rSGtEeWJ6ZlVRU2dMZ3FTOF9iOGRkQzBWb3N1MEJySmQxZUxtUnREcnpGbHc1cWFGT0Y5eVJXUmV5MVNHbU5KMDRwb0ltRXBaZ1QxX05EYVhZYkFxVkY1THA2RVZxSUw0WGp2VVZL?oc=5)
+
+2026-06-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3FWZUNwWHBzeGVDQ0VzS3YxdmdITE9LNTM2QWJMZmVnbS0yVDN1XzMtbjFnSVVwTWR1QTA3Y3RETlRXZGdEZnRmSWp2YTM1bkhuZFk3RGh4dllOQkdSYjg4YmlUcEJIMHhmU2QzYzMxb3c3VFl4Zkk1bHRkRHlwcWdSTm1KRDU3blRDUG1KOURDb1VtSjlYdm1WUFRsbkpDQ1lYazBELXhEMFhBWm9QMEVhUENIYm9xTWdXVkpnSklxV2t6Sm9FVWFzUdIB0AFBVV95cUxObEFDV1ZiOXpkR0NxenFlLURVR3BLZ3VJZ3cwSFNLV3FZQVl1MmF6WHJRaTUzdlI1LXdfYVMzQlViNGdYdUxXOUtVcDgxTkxhc2NpTnJLQ2FJbENwbzd0enFjZWNsTFVkb19rSGtEeWJ6ZlVRU2dMZ3FTOF9iOGRkQzBWb3N1MEJySmQxZUxtUnREcnpGbHc1cWFGT0Y5eVJXUmV5MVNHbU5KMDRwb0ltRXBaZ1QxX05EYVhZYkFxVkY1THA2RVZxSUw0WGp2VVZL?oc=5)
+
+---
+
 ### [My wife is dying of breast cancer, so I donated £10m to Cambridge researchers - The Times](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZW11RmotOHNSNUlpX08yelNuZEJoTUFGX3ZoWTlXU0VsNldRVlZzMWhjRGhGQThocjlXSGJuQWFYbFhzX0JNTjNDeE96c3Z0WURmUEJvVm1NYXJTSVJ1eG5EbEpKdmF4UElob01mcGc3WnVOc1gxTmdLNF9RazBMN050UGtPNFJneDdtbU1SMXZZOFNhX0ZXQmRLeFYwVDdF?oc=5)
 
 2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -206,43 +230,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Pflanzenhormone sind fester Bestandteil der Säugetier-Physiologie - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMRXVCRWdGcUNXWmJBYjZPZ0N5cVZCRkpNa2VnbFZfRjlUZkxqOUlnLTQ2Q0JfdlNmRmFrR2hzc192Yjc3SDZJUWFMQQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMRXVCRWdGcUNXWmJBYjZPZ0N5cVZCRkpNa2VnbFZfRjlUZkxqOUlnLTQ2Q0JfdlNmRmFrR2hzc192Yjc3SDZJUWFMQQ?oc=5)
-
----
-
 ### [Krebszellen flüchten in den Schlafmodus und entziehen sich den Medikamenten – Licht macht sie verwundbar - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUdodHBJRndtX3BWRDFFdm9oUnQtcnQwTkVteGtCd2U0SE82b3gzLTBCWUZvWGlVeVJnOFZMdDhvV0M3UVZoQndnMENZa1dJUU9nX1JzOEdWYUcwWTl2LTRYR0JfZTBfa21HWEk4ZDFpWlJGd1dtbE4tRGZyMi0yMGdRelU4MG5HQzZZUWpTbmdVLTB3WlBvektHUHJuc0x4Ykg1SDc2S3hMMVhKNkE?oc=5)
 
 2026-06-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUdodHBJRndtX3BWRDFFdm9oUnQtcnQwTkVteGtCd2U0SE82b3gzLTBCWUZvWGlVeVJnOFZMdDhvV0M3UVZoQndnMENZa1dJUU9nX1JzOEdWYUcwWTl2LTRYR0JfZTBfa21HWEk4ZDFpWlJGd1dtbE4tRGZyMi0yMGdRelU4MG5HQzZZUWpTbmdVLTB3WlBvektHUHJuc0x4Ykg1SDc2S3hMMVhKNkE?oc=5)
-
----
-
-### [Wenn Zellgerüst-Proteine im Zellkern mitwirken - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUNrQ0tLNk1feUVtS1J1eXI1UmtfUk1IYVkxbHhYdWRDM19ZV2d5cDlIOGVQOFBUR3NIa1pJUWlEcGY0bC1FMVZzSlNYdlEzdTZxUGlhVk5KYkR6ZU9CMkxJLUVPbWFYQUNaVE1RYktLcTBrRGx6M2RmN3BuQjhhQ2hLSE1HQUhWZ3ZfdVhIelgtakxwUTYtOERlNlJyVFkwOWFWVGYxUVY?oc=5)
-
-2026-06-19 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUNrQ0tLNk1feUVtS1J1eXI1UmtfUk1IYVkxbHhYdWRDM19ZV2d5cDlIOGVQOFBUR3NIa1pJUWlEcGY0bC1FMVZzSlNYdlEzdTZxUGlhVk5KYkR6ZU9CMkxJLUVPbWFYQUNaVE1RYktLcTBrRGx6M2RmN3BuQjhhQ2hLSE1HQUhWZ3ZfdVhIelgtakxwUTYtOERlNlJyVFkwOWFWVGYxUVY?oc=5)
-
----
-
-### [TV doctor's fish oil atrial fibrillation warning asking 'should we stop' - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1lkLW5zNlhVOXpuTGZsd1Rsb3pFUXpjNWZVRFBNRzF6YWtDRU16WHpfMGlxdnktbjBsMnJsMlU3LUx2MXVQMUtURzhqUmZBS19SYUJ5S0xSelpiYzktdFlCeVlnckdmOTVLOVRhb2E0WjI3V2hycERhVFgyNVV3VjQtY9IBiAFBVV95cUxQM21KOVpJSVRtajEyd1VwRUNncmtSMmdWeGtLc2lGaWdnZWNpSXpsR1ZKTnNlSjBEN015X0FMc1daOW5Ta0xvcUg2QUpsdDNVVjRSemxfcE0xQXhWVENZY1NXNXh1dEdadDB3akJwbFBZT3JnQ3pJcVpOYnN6YkZHUkdjR3BIWUlf?oc=5)
-
-2026-06-19 <span class="news-indication-tag">atrial fibrillation</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1lkLW5zNlhVOXpuTGZsd1Rsb3pFUXpjNWZVRFBNRzF6YWtDRU16WHpfMGlxdnktbjBsMnJsMlU3LUx2MXVQMUtURzhqUmZBS19SYUJ5S0xSelpiYzktdFlCeVlnckdmOTVLOVRhb2E0WjI3V2hycERhVFgyNVV3VjQtY9IBiAFBVV95cUxQM21KOVpJSVRtajEyd1VwRUNncmtSMmdWeGtLc2lGaWdnZWNpSXpsR1ZKTnNlSjBEN015X0FMc1daOW5Ta0xvcUg2QUpsdDNVVjRSemxfcE0xQXhWVENZY1NXNXh1dEdadDB3akJwbFBZT3JnQ3pJcVpOYnN6YkZHUkdjR3BIWUlf?oc=5)
-
----
-
-### [Wie viel Kaffee am Tag ist gesund? Diese Menge gilt als Obergrenze - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitwFBVV95cUxPcm5wVWRCaFhLRjQ1aUc0X1lSM0xBSXBhdzNGemVRcVpxd09HYjExZHlNSTB3ZFdtRHY2U2dZR2NHaUdacldwMGJoa3pWdzdiUnhPTGtVNmZ3eVhjUWRKeEZUTGlJeS1fa2ZRUUJZTmtHSjRzZUFXTWtVVGF3bUYzYkp5QXA0NEljX0xIY053Y1FXcC1zTGwteDBEbUdTeWhkcDltdFdVWUlUajdrSFI0WTQ4b3J4MDg?oc=5)
-
-2026-06-19 <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitwFBVV95cUxPcm5wVWRCaFhLRjQ1aUc0X1lSM0xBSXBhdzNGemVRcVpxd09HYjExZHlNSTB3ZFdtRHY2U2dZR2NHaUdacldwMGJoa3pWdzdiUnhPTGtVNmZ3eVhjUWRKeEZUTGlJeS1fa2ZRUUJZTmtHSjRzZUFXTWtVVGF3bUYzYkp5QXA0NEljX0xIY053Y1FXcC1zTGwteDBEbUdTeWhkcDltdFdVWUlUajdrSFI0WTQ4b3J4MDg?oc=5)
 
 ---
 

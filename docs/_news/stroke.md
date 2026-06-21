@@ -3,7 +3,7 @@ layout: default
 title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>AVC（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [The common sleep condition that raises your risk of stroke and costs workplaces billions - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3VaeHJxdGNRTXdISE5tUnVwWTNSU0YtS184VExjM3hJNnp0X0ZQTkZ1OFVaR2tiNmYxWnJWeXF1dUtIZV8tcFo2Ymt3ZFIyNW9TM3FPRHVVYVRUYlBCaUV6cTloeGVDWDloaG9NaWp0eVA2SFo0VXI4RTRBU0VfYmNCRVVQRWFPbUg4YXZDX3lka3dDa3VUM2M2ZnlFTjZoREtWTkZFQWQ?oc=5)
+
+2026-06-20
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3VaeHJxdGNRTXdISE5tUnVwWTNSU0YtS184VExjM3hJNnp0X0ZQTkZ1OFVaR2tiNmYxWnJWeXF1dUtIZV8tcFo2Ymt3ZFIyNW9TM3FPRHVVYVRUYlBCaUV6cTloeGVDWDloaG9NaWp0eVA2SFo0VXI4RTRBU0VfYmNCRVVQRWFPbUg4YXZDX3lka3dDa3VUM2M2ZnlFTjZoREtWTkZFQWQ?oc=5)
+
+---
 
 ### [Vieillissement, Alzheimer, AVC : pourquoi certains cerveaux résistent mieux que d’autres - Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxORTRON0V2dDVOa19DWWJMOUtvODIwaFVad2szelJkNW1DbWhEVkdqUXh2Ukd1RXpWRzZvaVBvRi0xdk15dDJCOWVUWHNpd2s2d1MzTXdqU0tkMWVYYW9EUnh6LWlYUWQ0alp3UTBvV2YwdTJIcUNQQlhYNDRQSWNQSDEyNUMtVnlRR0hhZVJYVUM1Um9fNURib1U2ZjU1R0NHejd1c0lzcFNZaF9ZZVh0Y2tfM2k3TVAtdF9fNUYzNkhiVlU1MEEw?oc=5)
 

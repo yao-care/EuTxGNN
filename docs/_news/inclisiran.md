@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Chaleur et luminosité, un véritable "cocktail molotov" pour les migraineux](https://news.google.com/rss/articles/CBMilwJBVV95cUxOWkJkRGczNmJGRDhjVXZBM3RjblhpVGZlaFpJMmx3X2Voa1NCU0NScDhqaTVsV3hSTmVQbDQyS0VobS1Oc2dsdldrZ3JfNFJaUGVUMVFfLUdlWk5mdDFITXBTc0NfTEJiVnh1ZTI1SktVMjJiUDl4M3BWbnhiSHFDd1o2LTZRNzh2RFo3dEc4cUtyNzhWUlNCejh4T05BZ3pXb1NjLXA2YjJvSzFPdUJsOFJZMmZEeTk1VmpBN0FiN3Y4Y0VaZXFuVjJJMktXSDUydVAwbkU0ZThTQjFUSnpuREhjelNjWG0wbVlYTGZDQ1ltLUZpckRRc1duV2xiNzdOQXl2T2V5c1ltenI4NHhOWWtQanJJYmc?oc=5)
+
+2026-06-21 <span class="news-indication-tag">migraine</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMilwJBVV95cUxOWkJkRGczNmJGRDhjVXZBM3RjblhpVGZlaFpJMmx3X2Voa1NCU0NScDhqaTVsV3hSTmVQbDQyS0VobS1Oc2dsdldrZ3JfNFJaUGVUMVFfLUdlWk5mdDFITXBTc0NfTEJiVnh1ZTI1SktVMjJiUDl4M3BWbnhiSHFDd1o2LTZRNzh2RFo3dEc4cUtyNzhWUlNCejh4T05BZ3pXb1NjLXA2YjJvSzFPdUJsOFJZMmZEeTk1VmpBN0FiN3Y4Y0VaZXFuVjJJMktXSDUydVAwbkU0ZThTQjFUSnpuREhjelNjWG0wbVlYTGZDQ1ltLUZpckRRc1duV2xiNzdOQXl2T2V5c1ltenI4NHhOWWtQanJJYmc?oc=5)
+
+---
 
 
 <div class="disclaimer">

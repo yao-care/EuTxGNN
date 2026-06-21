@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Rheumatoide Arthritis: Abatacept senkt Fortschrittsrisiko auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEltb0l0MFJLd0dXY1hhYWZLSWVCREdYLVR4OU1VWk9yUkU5UUlFT3lsSXlnOXg5Z1I1czFrRTB0M1FzTmJ2eVlnb2ZQeExFMXFhZnZISVNEYlhIaFlxU3pWSE5WNjJNeHpOdmwtOG9FeDlOUHFVaFpxWXdQckQxd2Z2VmhraFNVQTduWlJhT05FUEJiaXJPdTFmbW5fdFJIR0lPbzhTTXI4UWRhN3R2RFI2Y0UzSUJYNnhCeQ?oc=5)
+
+2026-06-21 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEltb0l0MFJLd0dXY1hhYWZLSWVCREdYLVR4OU1VWk9yUkU5UUlFT3lsSXlnOXg5Z1I1czFrRTB0M1FzTmJ2eVlnb2ZQeExFMXFhZnZISVNEYlhIaFlxU3pWSE5WNjJNeHpOdmwtOG9FeDlOUHFVaFpxWXdQckQxd2Z2VmhraFNVQTduWlJhT05FUEJiaXJPdTFmbW5fdFJIR0lPbzhTTXI4UWRhN3R2RFI2Y0UzSUJYNnhCeQ?oc=5)
+
+---
+
+### [Chaleur et luminosité, un véritable "cocktail molotov" pour les migraineux](https://news.google.com/rss/articles/CBMilwJBVV95cUxOWkJkRGczNmJGRDhjVXZBM3RjblhpVGZlaFpJMmx3X2Voa1NCU0NScDhqaTVsV3hSTmVQbDQyS0VobS1Oc2dsdldrZ3JfNFJaUGVUMVFfLUdlWk5mdDFITXBTc0NfTEJiVnh1ZTI1SktVMjJiUDl4M3BWbnhiSHFDd1o2LTZRNzh2RFo3dEc4cUtyNzhWUlNCejh4T05BZ3pXb1NjLXA2YjJvSzFPdUJsOFJZMmZEeTk1VmpBN0FiN3Y4Y0VaZXFuVjJJMktXSDUydVAwbkU0ZThTQjFUSnpuREhjelNjWG0wbVlYTGZDQ1ltLUZpckRRc1duV2xiNzdOQXl2T2V5c1ltenI4NHhOWWtQanJJYmc?oc=5)
+
+2026-06-21 <span class="news-indication-tag">migraine</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMilwJBVV95cUxOWkJkRGczNmJGRDhjVXZBM3RjblhpVGZlaFpJMmx3X2Voa1NCU0NScDhqaTVsV3hSTmVQbDQyS0VobS1Oc2dsdldrZ3JfNFJaUGVUMVFfLUdlWk5mdDFITXBTc0NfTEJiVnh1ZTI1SktVMjJiUDl4M3BWbnhiSHFDd1o2LTZRNzh2RFo3dEc4cUtyNzhWUlNCejh4T05BZ3pXb1NjLXA2YjJvSzFPdUJsOFJZMmZEeTk1VmpBN0FiN3Y4Y0VaZXFuVjJJMktXSDUydVAwbkU0ZThTQjFUSnpuREhjelNjWG0wbVlYTGZDQ1ltLUZpckRRc1duV2xiNzdOQXl2T2V5c1ltenI4NHhOWWtQanJJYmc?oc=5)
+
+---
 
 ### [From birth defects to arthritis and asthma - the cleaning products harming your family’s health, experts warn - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Rheumatoide Arthritis: Abatacept senkt Fortschrittsrisiko auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEltb0l0MFJLd0dXY1hhYWZLSWVCREdYLVR4OU1VWk9yUkU5UUlFT3lsSXlnOXg5Z1I1czFrRTB0M1FzTmJ2eVlnb2ZQeExFMXFhZnZISVNEYlhIaFlxU3pWSE5WNjJNeHpOdmwtOG9FeDlOUHFVaFpxWXdQckQxd2Z2VmhraFNVQTduWlJhT05FUEJiaXJPdTFmbW5fdFJIR0lPbzhTTXI4UWRhN3R2RFI2Y0UzSUJYNnhCeQ?oc=5)
+
+2026-06-21 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEltb0l0MFJLd0dXY1hhYWZLSWVCREdYLVR4OU1VWk9yUkU5UUlFT3lsSXlnOXg5Z1I1czFrRTB0M1FzTmJ2eVlnb2ZQeExFMXFhZnZISVNEYlhIaFlxU3pWSE5WNjJNeHpOdmwtOG9FeDlOUHFVaFpxWXdQckQxd2Z2VmhraFNVQTduWlJhT05FUEJiaXJPdTFmbW5fdFJIR0lPbzhTTXI4UWRhN3R2RFI2Y0UzSUJYNnhCeQ?oc=5)
+
+---
 
 ### [From birth defects to arthritis and asthma - the cleaning products harming your family’s health, experts warn - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
 

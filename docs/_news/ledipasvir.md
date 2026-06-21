@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
-
-### [Frühstück: Dieser Fehler kann Ihren Stoffwechsel den ganzen Tag ausbremsen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
-
-2026-06-20 <span class="news-indication-tag">MS</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWM2NklMUnN0Ym9RNFhac2Z4eFM0U2MzdUg5aTl6bnhBRVFHUFh2alJpZ2tzVkpTMUszZkhnMWFBSldIU1lqeF9CSkw5QmNjcWVNbXJrc0RuN2dDbi1QNnFmOUN0b0lOVHVuSkl4ckdHNHZYZGgta1ZQVU1DYTJ5Z1h5TGFzaEVQTTZFNkJSTFJJTDBCT2VjNGlGNk0wQU54V19MdzAwZkZzY2lmeXdOTmJBQmloU2s2d0pFdmgxVmFTSlJBb1VTV25Ec3ZKdkhIV1hCRWJfaw?oc=5)
-
----
-
-### [Nordic walking significantly reduces depression symptoms in as little as five weeks, trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFU2dDk4djF3ZEV3cFVqYWV2ZXNwcUVOSHh6M05kbVBLYVdVZnZyc3hKWHdVOHpYb2llOGdlUEFVa2k3YUVGMzBncTdQWFNnV3d0Y3VjZzRLdlJwNDZud2oyZUNnQW84b25uMDhWN3VnMDVjdHpaakNSeExESnZxRHBiZjA3TXdNNjVZd3dmazVVUU54?oc=5)
-
-2026-06-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFU2dDk4djF3ZEV3cFVqYWV2ZXNwcUVOSHh6M05kbVBLYVdVZnZyc3hKWHdVOHpYb2llOGdlUEFVa2k3YUVGMzBncTdQWFNnV3d0Y3VjZzRLdlJwNDZud2oyZUNnQW84b25uMDhWN3VnMDVjdHpaakNSeExESnZxRHBiZjA3TXdNNjVZd3dmazVVUU54?oc=5)
-
----
+## 相關新聞（8 則）
 
 ### [Neue Studie zweifelt an Calcium und Vitamin D: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbG91amNELXJMeVp6M25wcE5JUFlRTDhVdlg0dzJIU21meWlVY0lmX25Td2NXdUJpYlVBVFprVEo0ODI4NjFBV1BkWTVrQUY3a3ROdl8waWtxX281OW5kYzRXVnduUWtGVl9BcW9qVF9FT3h0NHl2QUFHSnZCV3BXQWtKQTlaVjFCODJ2b1N5TW15ejRIWHcxcmNGSGstMERvaVNmWHBLS1VBLTlfUzNuZ290cEYxQQ?oc=5)
 
@@ -86,19 +70,19 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Australia pledges action on H5N1 after bird flu case confirmed - Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdRZW1YZ3lSaExJT2MtbDFWY09SMEIxN1VHZ29ZT2c3d2VleW5xbFh1QjVhN0xSS1BuTFRKOU84VnQ3TDVuSTdPZTlFZC1hX29lSGM5czMycXBlejR0aHNxTGxWT1gwYjQyMGlaTlp5ZjNOMzVXcC1sVGN1TC1PaG9JMGtZYUdhLW1IQVR1NnBkQUwxb2tCQ3hqcXdBUzJ6c2ZtYU9R0gGrAUFVX3lxTE5ZVWx4ZEFUczMtbVd4TFhlMGZJbVBwVjh0WmtFcUJKaFNoelM1NjlON1pRUjlxNU40azF6LWdvWkhMVVlSQU9oRXFpQTctY2JOVTlvX1NmZFJhZGF2aU9YemwxU1pERUJTTVAyM3Z3aE16RmRIOTBENTVlUkI5QlVWUWVpRjEwMkRLY1F5dVVhbDNlNWZNRlBfNENSZ2ZLZE5xc2RLS21ncTI1Yw?oc=5)
+
+2026-06-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdRZW1YZ3lSaExJT2MtbDFWY09SMEIxN1VHZ29ZT2c3d2VleW5xbFh1QjVhN0xSS1BuTFRKOU84VnQ3TDVuSTdPZTlFZC1hX29lSGM5czMycXBlejR0aHNxTGxWT1gwYjQyMGlaTlp5ZjNOMzVXcC1sVGN1TC1PaG9JMGtZYUdhLW1IQVR1NnBkQUwxb2tCQ3hqcXdBUzJ6c2ZtYU9R0gGrAUFVX3lxTE5ZVWx4ZEFUczMtbVd4TFhlMGZJbVBwVjh0WmtFcUJKaFNoelM1NjlON1pRUjlxNU40azF6LWdvWkhMVVlSQU9oRXFpQTctY2JOVTlvX1NmZFJhZGF2aU9YemwxU1pERUJTTVAyM3Z3aE16RmRIOTBENTVlUkI5QlVWUWVpRjEwMkRLY1F5dVVhbDNlNWZNRlBfNENSZ2ZLZE5xc2RLS21ncTI1Yw?oc=5)
+
+---
+
 ### [Mapi Sánchez, ex número 1 del mundo del pádel y enferma de esclerosis múltiple: «Yo no sé rendirme» - Noticias sobre cuerpo, mente y planeta | WeLife](https://news.google.com/rss/articles/CBMibkFVX3lxTE5vN3lKajZfZFJDOGhvMlJFQ0FwMThhWVo4VFgxTVNQYllyU1FRQlpmbU5zMzU2UEtUYlp6eXdybnRCUlAtUWhvRGlXQm05bHZQS3hQR1U2MmdUMzJWYzB0a2lMUjFrem9ncWNVU3l30gFzQVVfeXFMTnllNmRqZEpPOGw5WjJVQTJhd0hPZVZvbWgweEYxa1ZzOFBBSFVOMElsRDRKZURZLUxOaW5aTkowZ09aSHRMYk1KcGhFUU5hVnE2emFYQk5OMkY3ZlNUWWFBU1ZfSThGZDlYVU4tc1NMdDAtUQ?oc=5)
 
 2026-06-20 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Noticias sobre cuerpo, mente y planeta | WeLife](https://news.google.com/rss/articles/CBMibkFVX3lxTE5vN3lKajZfZFJDOGhvMlJFQ0FwMThhWVo4VFgxTVNQYllyU1FRQlpmbU5zMzU2UEtUYlp6eXdybnRCUlAtUWhvRGlXQm05bHZQS3hQR1U2MmdUMzJWYzB0a2lMUjFrem9ncWNVU3l30gFzQVVfeXFMTnllNmRqZEpPOGw5WjJVQTJhd0hPZVZvbWgweEYxa1ZzOFBBSFVOMElsRDRKZURZLUxOaW5aTkowZ09aSHRMYk1KcGhFUU5hVnE2emFYQk5OMkY3ZlNUWWFBU1ZfSThGZDlYVU4tc1NMdDAtUQ?oc=5)
-
----
-
-### [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
-
-2026-06-20 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
 
 ---
 
@@ -110,19 +94,19 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Sclerosi multipla, i 2 batteri intestinali che innescano la malattia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0NWOVR3XzY1OGNmSTQxTVJOc2dkb3FZV3BBeTdFVWVSSlBiNk5UZWY1RDdpREJ2S0UwRGRid0xibWVPOXVGQUtFN1VUWndQb3pQOUNmTzZYaHVydkVtRXZjMklhaWl5QjJucXVJVHhUMm9LZVMwNG45SXF4Rl85YUxtSF83QWFXODZQQ190cHlEWkgxZlBHOEVsUldUUWxyTmNHa3lRUDFmYll6U1d3eEZHWmNCU3RfcEZlT2IxbkdzcUXSAccBQVVfeXFMUEtGMmlycDlQUTNYaVZjQkVyemZTLXVXZmJlOEUyc3pzOUJjY2I0OV9JeF9nSUQ1OEdkbHloUFFub2hHUExPbnhOaGtMV3phVHpKc1dVWjJ0T0d1c0ZCRkxucXJVMlBrcDk1TEVveFRnd3pkOWdHNWRncnN1NVlaS3JEbk5hQWd1eGhPUlctcmhCcmw2ZENGRUotb1ZRRkFHaWRwd1R2WDNKMzdRMzdtYUJFdzlWaEhSUEtEanV1ZER5OFZzbGlTRQ?oc=5)
+### [Rising number of cancer patients are skipping chemo and opting for ivermectin instead, analysis finds - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
 
-2026-06-19 <span class="news-indication-tag">sclerosi multipla</span>
+2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0NWOVR3XzY1OGNmSTQxTVJOc2dkb3FZV3BBeTdFVWVSSlBiNk5UZWY1RDdpREJ2S0UwRGRid0xibWVPOXVGQUtFN1VUWndQb3pQOUNmTzZYaHVydkVtRXZjMklhaWl5QjJucXVJVHhUMm9LZVMwNG45SXF4Rl85YUxtSF83QWFXODZQQ190cHlEWkgxZlBHOEVsUldUUWxyTmNHa3lRUDFmYll6U1d3eEZHWmNCU3RfcEZlT2IxbkdzcUXSAccBQVVfeXFMUEtGMmlycDlQUTNYaVZjQkVyemZTLXVXZmJlOEUyc3pzOUJjY2I0OV9JeF9nSUQ1OEdkbHloUFFub2hHUExPbnhOaGtMV3phVHpKc1dVWjJ0T0d1c0ZCRkxucXJVMlBrcDk1TEVveFRnd3pkOWdHNWRncnN1NVlaS3JEbk5hQWd1eGhPUlctcmhCcmw2ZENGRUotb1ZRRkFHaWRwd1R2WDNKMzdRMzdtYUJFdzlWaEhSUEtEanV1ZER5OFZzbGlTRQ?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
 
 ---
 
-### [Hepatitis Delta: alertan del riesgo de cáncer hepático y urgen a diagnosticar y tratar antes la enfermedad - Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
+### [Los médicos alertan de la rápida progresión de la hepatitis Delta y de su relación con el cáncer de hígado - El Correo Gallego](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlNMVnI5WWF1c2JwRVEzZ0RYVE9qXzY4UWdQODVvYlNRbGZkd1djODNpNEoyXzVGOUFSc1h6VDBWRDhqREdJb01UMkM1bkE1Y216OWtkUjlCZkc5YVhCTUVOYS1DcnFPSHFaZHNxTDYteUZaZmJfZTJDSEdoUDhJZDhPZkllVHRyWTlnWXh4aFZEZHpYeW1lX09Ya09PZWd2T3BZWFpaZjJlQ0ZuUWlsLTRRTlJMS3k0Qi1Yd3lCMzN0aDkzWmtUcDYzc0lHRU5oZXRTTNIB2gFBVV95cUxNeVZ2YU91bi11MXFsdWM1RVJ3eTVweEdvMEpkNHJaUWk5RUFzTllhVUJjR3BKcGhmOVY5TC1za3JBa3lXRTQ3ZktwWHcwQ1JIRXhVaFd1eUc0VTZxTVl2Y3NxVDctVEZta2ROOUFkMVBjUzBDTFl5WTUtSXlFQ1VrLVkzekZzMkhoaW9hMmhrSDAyT21qMFhqTzVMNURwTDA0aGMzaWp6R0xhNUh5N09LNnNPLTI4ZVUtdUpoTG1aTVVUV19tZGpnMDVUWGV4WS1jZUpOUlVEeThhUQ?oc=5)
 
 2026-06-19 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1FX2R2ZjVScDAyT24wY3N1SkkxaWptcDVWWU95SEZfQThaNnlNcFl6NUpVejIzbkN2SFpMWWFMZTZkSmEtVXRNZUNLb2dIZUR1VXJ1VmsyYUNrdnJEYzhFX3JRVElXTlJOb2tielRwRjFlYWZ6a2Q0cE5saW9nRnRDZ2Npc3J2bENFVXdlTVE1ZUN2cDN0bElqN0RFNHRiRlBZMTRTMmt4eTNvdkxqVV9ETEdWcGFReEE?oc=5)
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlNMVnI5WWF1c2JwRVEzZ0RYVE9qXzY4UWdQODVvYlNRbGZkd1djODNpNEoyXzVGOUFSc1h6VDBWRDhqREdJb01UMkM1bkE1Y216OWtkUjlCZkc5YVhCTUVOYS1DcnFPSHFaZHNxTDYteUZaZmJfZTJDSEdoUDhJZDhPZkllVHRyWTlnWXh4aFZEZHpYeW1lX09Ya09PZWd2T3BZWFpaZjJlQ0ZuUWlsLTRRTlJMS3k0Qi1Yd3lCMzN0aDkzWmtUcDYzc0lHRU5oZXRTTNIB2gFBVV95cUxNeVZ2YU91bi11MXFsdWM1RVJ3eTVweEdvMEpkNHJaUWk5RUFzTllhVUJjR3BKcGhmOVY5TC1za3JBa3lXRTQ3ZktwWHcwQ1JIRXhVaFd1eUc0VTZxTVl2Y3NxVDctVEZta2ROOUFkMVBjUzBDTFl5WTUtSXlFQ1VrLVkzekZzMkhoaW9hMmhrSDAyT21qMFhqTzVMNURwTDA0aGMzaWp6R0xhNUh5N09LNnNPLTI4ZVUtdUpoTG1aTVVUV19tZGpnMDVUWGV4WS1jZUpOUlVEeThhUQ?oc=5)
 
 ---
 
@@ -131,14 +115,6 @@ permalink: /news/ledipasvir/
 2026-06-19 <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjdIUFVWMWgxcUFjUjY0ci1qbmRlTWxkZVJIcU9kNnl3bUNVRUpVbU85Sno4UG9WSWFEejc2dU56YkVRSzJGWXRWcDhGam1hSThCMndneWw5azJQS1BUWlF6TEdMQmpodDZXdGFYRVotc296OVB3NjA4cHRFbGhKbU9qbmZvOTREQUhMSGI4NTh5eGc2ZjhGc0ln?oc=5)
-
----
-
-### [Alzheimer: Gealterte Gehirnzellen verdreifachen das Erkrankungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR6dEVSSEZMSUVXY2hJQldKVERNNlpFWHJqQXQ2Qml4bVoxRl81a2xJNTV6R0kwa3UyZXRFWXNvdVZ4MTR1ekVGQ3l6UjkyaFc0TkVxczlzbkJRNTZBb3lBYzJieG1xdlQ1R2F3UlhUZ2lWSjR0N1RIWjViQW5JUTZhc3o3WUZxM0taRGUxVGVWaC1tZlFEUmd4czh0S0puQVV1cjhsWUNQellhSzU2c1VxTEZ0RWF5?oc=5)
-
-2026-06-19 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR6dEVSSEZMSUVXY2hJQldKVERNNlpFWHJqQXQ2Qml4bVoxRl81a2xJNTV6R0kwa3UyZXRFWXNvdVZ4MTR1ekVGQ3l6UjkyaFc0TkVxczlzbkJRNTZBb3lBYzJieG1xdlQ1R2F3UlhUZ2lWSjR0N1RIWjViQW5JUTZhc3o3WUZxM0taRGUxVGVWaC1tZlFEUmd4czh0S0puQVV1cjhsWUNQellhSzU2c1VxTEZ0RWF5?oc=5)
 
 ---
 

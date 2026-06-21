@@ -54,11 +54,19 @@ permalink: /news/lapatinib/
 
 ## 相關新聞（25 則）
 
-### [Blutzucker senken als Krebsprävention: GLP-1, Retatrutid und neue Leitlinien - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE9kSFBJVlcycmVpTFpiNzBXQUFhUnZQQ3AtZV8ySkdFX1Q0V0tuWVB2LTlPeVVGd3lYQmJVTnh2VjAwZ09OSUdRZXRnT0lSdGowWmExcG5CLXlpcFMxS0tWRlpyRjFCYWhXdmpIYUpNTDc5UXVBUUFsS0dLU1BCcVJqaXIxYW1TakVOdF9sMWkyaHJybEJmSkF0SmVlSjJPWUYwV2ZJNmJUUXc?oc=5)
+### [Manchester cancer research lab's £6m extra annual cash boost](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yTnpscjNyTFBWWWU2VXFxaDVnbEMtaVJpSnNtUkVQLWN3RUZEZS0xVFVtV0hwdTRJRHozSVAzN0JZWEdWLS1rTnBTakQ5VW1CUUdObWhydWVSTExT?oc=5)
+
+2026-06-21 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yTnpscjNyTFBWWWU2VXFxaDVnbEMtaVJpSnNtUkVQLWN3RUZEZS0xVFVtV0hwdTRJRHozSVAzN0JZWEdWLS1rTnBTakQ5VW1CUUdObWhydWVSTExT?oc=5)
+
+---
+
+### [Prädiabetes-Therapie: GLP-1-Medikamente senken Krebsrisiko um 41% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWVVa1ZhbktMaFV6SHFsb3E0dlNpUWJuVG16WnRXWTBQM3ZfTmRHMDVhM0hmN1ZXSEVWTllRQ05mY2ExQUc0SXozam1zMm9GMlNlczI5eDVQNllHOWdjam1mSkdaVkRRTDNPbVN2UWRfQXQ2ejdQYTAyQ0t4OGRfMS1uSFJ0c3Y4QnAxTkZBNGQtSml5aklONDA0YmZ0TEJSVFpVell3WU5FUDBUWVVGVGtRZzBSOXl2TWtSdDBn?oc=5)
 
 2026-06-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE9kSFBJVlcycmVpTFpiNzBXQUFhUnZQQ3AtZV8ySkdFX1Q0V0tuWVB2LTlPeVVGd3lYQmJVTnh2VjAwZ09OSUdRZXRnT0lSdGowWmExcG5CLXlpcFMxS0tWRlpyRjFCYWhXdmpIYUpNTDc5UXVBUUFsS0dLU1BCcVJqaXIxYW1TakVOdF9sMWkyaHJybEJmSkF0SmVlSjJPWUYwV2ZJNmJUUXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWVVa1ZhbktMaFV6SHFsb3E0dlNpUWJuVG16WnRXWTBQM3ZfTmRHMDVhM0hmN1ZXSEVWTllRQ05mY2ExQUc0SXozam1zMm9GMlNlczI5eDVQNllHOWdjam1mSkdaVkRRTDNPbVN2UWRfQXQ2ejdQYTAyQ0t4OGRfMS1uSFJ0c3Y4QnAxTkZBNGQtSml5aklONDA0YmZ0TEJSVFpVell3WU5FUDBUWVVGVGtRZzBSOXl2TWtSdDBn?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/lapatinib/
 2026-06-20 <span class="news-indication-tag">cancer</span>
 
 來源：[Times Colonist](https://news.google.com/rss/articles/CBMitAFBVV95cUxNenRhcmhvMExhSUVVT2JuNmlMZzg3dk9HbGNzM3ZxWkctYkFaYmRlZXJRUFJXNWFnOVNRLXZqZGI4VXdadTFQalNVX1A5WmtTb2pUZU9qNnVzWVJNWVZTTW10amRyZWRWY2ZWa2JOTlB1cEF2X0NCVTZnY2FvMTZYT1NTV2VkTUVBcE5RTGZaWjRwTXZCWkdVc0J5TEtDbE9YVDVrQnRnem9NZC10NFlDV19FM1c?oc=5)
+
+---
+
+### [Neue Daten aus England zeigen starken Schutz durch HPV-Impfung - Münster Aktuell](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNkNyWWN5WlZzdHEwZmd6cW0xUjMyTk9SX29KTDJCM3hfeC16YmVjaTU1c0U3MUhtOXpVMHpiTE5rOTlIc3FKc1B1R0JYR1lTZUJvUnFFWEJ4QTlUS3gzSUtVLUdQbWVYZmJIcE5OU3M1T05lVFNmeFR1R1BBcTZqSXZn?oc=5)
+
+2026-06-20 <span class="news-indication-tag">Krebs</span>
+
+來源：[Münster Aktuell](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNkNyWWN5WlZzdHEwZmd6cW0xUjMyTk9SX29KTDJCM3hfeC16YmVjaTU1c0U3MUhtOXpVMHpiTE5rOTlIc3FKc1B1R0JYR1lTZUJvUnFFWEJ4QTlUS3gzSUtVLUdQbWVYZmJIcE5OU3M1T05lVFNmeFR1R1BBcTZqSXZn?oc=5)
 
 ---
 
@@ -150,9 +166,17 @@ permalink: /news/lapatinib/
 
 ---
 
+### [Señales de alerta: los síntomas que pueden advertir un cáncer de riñón - El Diario NY](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHp4X3puaElrOGh4UlFla0dzSXBSWVBPR0t6YXNkV2doUUhtNlA5Um1uaVBGN09lVmxIYlpINW95Q21wNFFCWmVkaXJEY25DbEcyTzdoVUM3cG1IMUxMOXJUUVVOYU44RWRrbGxwSGg4NHdIcFF3ZHE1U3VHZ19zR0dpYUMyVjBCVkF3V2VKQjNDclJpOTNrek1LRW1KMWo1bktKaTdtMA?oc=5)
+
+2026-06-19 <span class="news-indication-tag">tumor</span>
+
+來源：[El Diario NY](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHp4X3puaElrOGh4UlFla0dzSXBSWVBPR0t6YXNkV2doUUhtNlA5Um1uaVBGN09lVmxIYlpINW95Q21wNFFCWmVkaXJEY25DbEcyTzdoVUM3cG1IMUxMOXJUUVVOYU44RWRrbGxwSGg4NHdIcFF3ZHE1U3VHZ19zR0dpYUMyVjBCVkF3V2VKQjNDclJpOTNrek1LRW1KMWo1bktKaTdtMA?oc=5)
+
+---
+
 ### [Rising number of cancer patients are skipping chemo and opting for ivermectin instead, analysis finds - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
 
-2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
 
@@ -166,6 +190,14 @@ permalink: /news/lapatinib/
 
 ---
 
+### [Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’ - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXl0MDBkNHdjbkwwODFyak9iTTZJcGJ2RkxQRm1ZQWwzZE0wUlE3MjlBS2txc0RHdEdaSm9ud0RCQWdoM2l0cUJHS2NpNG9YOGdDWnZiYVJnQWZHZGctV2lKOGNpdXQ2NzRwZUxDMGtiUGNzY2g4eW85dVpYVHRYUmhJOEN0bW1FTUV4YWt0QTkzYk8yZ3Y4S2hyZE1Bc01Ja244?oc=5)
+
+2026-06-19 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXl0MDBkNHdjbkwwODFyak9iTTZJcGJ2RkxQRm1ZQWwzZE0wUlE3MjlBS2txc0RHdEdaSm9ud0RCQWdoM2l0cUJHS2NpNG9YOGdDWnZiYVJnQWZHZGctV2lKOGNpdXQ2NzRwZUxDMGtiUGNzY2g4eW85dVpYVHRYUmhJOEN0bW1FTUV4YWt0QTkzYk8yZ3Y4S2hyZE1Bc01Ja244?oc=5)
+
+---
+
 ### [Tumore gastrico: possibile lo screening esteso con un innovativo breath test - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjVNOUctRFZ3ZndhcjdOWHZLMjZodE5ldmxrMTRlV2szeFRNX0F0V2RZSzFObXY2V29XbFlmc1V5d2V3V19ZckZ6akZkSm9QNkVkYnRYbmZsT3E1dTl2UThHQ09wblNJZHNvbzlmRDg4N2F0dS1FMFlleXNqMXFoUUdhZ1NlV0NqOFZheEotTTJYOUhUa0Y0cURBdU44S2pDUnluR1NxUWw3a2tqZHc?oc=5)
 
 2026-06-19 <span class="news-indication-tag">tumor</span>
@@ -176,33 +208,9 @@ permalink: /news/lapatinib/
 
 ### [Dieci domande di attualità sul tumore del pancreas: tra clinica e ricerca](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3FWZUNwWHBzeGVDQ0VzS3YxdmdITE9LNTM2QWJMZmVnbS0yVDN1XzMtbjFnSVVwTWR1QTA3Y3RETlRXZGdEZnRmSWp2YTM1bkhuZFk3RGh4dllOQkdSYjg4YmlUcEJIMHhmU2QzYzMxb3c3VFl4Zkk1bHRkRHlwcWdSTm1KRDU3blRDUG1KOURDb1VtSjlYdm1WUFRsbkpDQ1lYazBELXhEMFhBWm9QMEVhUENIYm9xTWdXVkpnSklxV2t6Sm9FVWFzUdIB0AFBVV95cUxObEFDV1ZiOXpkR0NxenFlLURVR3BLZ3VJZ3cwSFNLV3FZQVl1MmF6WHJRaTUzdlI1LXdfYVMzQlViNGdYdUxXOUtVcDgxTkxhc2NpTnJLQ2FJbENwbzd0enFjZWNsTFVkb19rSGtEeWJ6ZlVRU2dMZ3FTOF9iOGRkQzBWb3N1MEJySmQxZUxtUnREcnpGbHc1cWFGT0Y5eVJXUmV5MVNHbU5KMDRwb0ltRXBaZ1QxX05EYVhZYkFxVkY1THA2RVZxSUw0WGp2VVZL?oc=5)
 
-2026-06-19 <span class="news-indication-tag">tumor</span>
+2026-06-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[L'Arena](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN3FWZUNwWHBzeGVDQ0VzS3YxdmdITE9LNTM2QWJMZmVnbS0yVDN1XzMtbjFnSVVwTWR1QTA3Y3RETlRXZGdEZnRmSWp2YTM1bkhuZFk3RGh4dllOQkdSYjg4YmlUcEJIMHhmU2QzYzMxb3c3VFl4Zkk1bHRkRHlwcWdSTm1KRDU3blRDUG1KOURDb1VtSjlYdm1WUFRsbkpDQ1lYazBELXhEMFhBWm9QMEVhUENIYm9xTWdXVkpnSklxV2t6Sm9FVWFzUdIB0AFBVV95cUxObEFDV1ZiOXpkR0NxenFlLURVR3BLZ3VJZ3cwSFNLV3FZQVl1MmF6WHJRaTUzdlI1LXdfYVMzQlViNGdYdUxXOUtVcDgxTkxhc2NpTnJLQ2FJbENwbzd0enFjZWNsTFVkb19rSGtEeWJ6ZlVRU2dMZ3FTOF9iOGRkQzBWb3N1MEJySmQxZUxtUnREcnpGbHc1cWFGT0Y5eVJXUmV5MVNHbU5KMDRwb0ltRXBaZ1QxX05EYVhZYkFxVkY1THA2RVZxSUw0WGp2VVZL?oc=5)
-
----
-
-### [Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’ - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXl0MDBkNHdjbkwwODFyak9iTTZJcGJ2RkxQRm1ZQWwzZE0wUlE3MjlBS2txc0RHdEdaSm9ud0RCQWdoM2l0cUJHS2NpNG9YOGdDWnZiYVJnQWZHZGctV2lKOGNpdXQ2NzRwZUxDMGtiUGNzY2g4eW85dVpYVHRYUmhJOEN0bW1FTUV4YWt0QTkzYk8yZ3Y4S2hyZE1Bc01Ja244?oc=5)
-
-2026-06-19 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXl0MDBkNHdjbkwwODFyak9iTTZJcGJ2RkxQRm1ZQWwzZE0wUlE3MjlBS2txc0RHdEdaSm9ud0RCQWdoM2l0cUJHS2NpNG9YOGdDWnZiYVJnQWZHZGctV2lKOGNpdXQ2NzRwZUxDMGtiUGNzY2g4eW85dVpYVHRYUmhJOEN0bW1FTUV4YWt0QTkzYk8yZ3Y4S2hyZE1Bc01Ja244?oc=5)
-
----
-
-### [Laut Studie: HPV-Impfung drückt Krebssterblichkeit stark runter](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWxaR2pTNV82TmU1WDJTYjVlV0RIQlNya1RpeFRnaVRUbDFCb21zNXhWQkVkODN2V19FOGM2bGdxUHVHcEd2MThwNWRTcC1vaERmTXZDTXlSTGhuUnh3Q0RwSEVDMUY2cXRidTBqSy1ndFc3d1lrT3VMeVRWRGVDOFhocUQxS2tPYUJuTUVNaWY5MVZ0dXdUZDlTREN0RlltV1lpdm9NSWc0WVdoRHB0OExFMFdUV3QyRkNsNUhwVU1IVEliX2tXSA?oc=5)
-
-2026-06-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWxaR2pTNV82TmU1WDJTYjVlV0RIQlNya1RpeFRnaVRUbDFCb21zNXhWQkVkODN2V19FOGM2bGdxUHVHcEd2MThwNWRTcC1vaERmTXZDTXlSTGhuUnh3Q0RwSEVDMUY2cXRidTBqSy1ndFc3d1lrT3VMeVRWRGVDOFhocUQxS2tPYUJuTUVNaWY5MVZ0dXdUZDlTREN0RlltV1lpdm9NSWc0WVdoRHB0OExFMFdUV3QyRkNsNUhwVU1IVEliX2tXSA?oc=5)
-
----
-
-### [Bloquear una proteína abre una vía para eliminar células tumorales y activar la respuesta inmune en el cáncer de páncreas](https://news.google.com/rss/articles/CBMikgJBVV95cUxNMmYyZWJXaG9jOU9EcWhzYmlZclB3RDB5UnE3dnozd2NWYWUyRllOY2pVQlU1cFVoNkVPS3VKa1o0cTg3ZVpxVHBQWkd4Z2czelNfRE1GWDh3Vi1RM194QThEVGpHblppLWZNUG0tU19uWjc0UTR4X20zU2ZDc19Gc2JkX2ZUMVdLMks1dm0yeVZuX1RqaC1UcE1saWhHUlhIQlI0ZmFWYm4zQUpDcjFtSF9YNW5ITE9EbUh1ZjExMkRpVlI1dGp0UXozVzMyOGpOMWo5MmlPNzRSZU9zVGp3S0xaaXZLQlo0d3NJcFR0SVRyN0dHR2dQRnNlRjB4MHg2SnBmSGdubWdvWjdrQzMwdmR30gGSAkFVX3lxTE5DT1ZpNXB2N0xYUlVuUzBtTFZCcVVvVnVPZWx5OERKYlRCZEJmQWhQZnhmVm5fZzVMWkNzb0xIU2hGS20wM3VqUG4zQ19ZNS1oOVpURk5CZGo1RXlMQ3hTQ1ZMZXlEa1JzbzNsV0ROMGgzc0VSMmhRMDMwV2loWTYtdm5RU0xoWTZkNFFXREE1UlI0cUk3RzJNZTJjQ3QtU0lGTU1rTi1QRU4xUnhYanVTN2hrUHpaQTFfV2JpZmI1SWYzeFUtYlh6RHRMNTgzYTNYRHotNkN3V3NCVjQ2aTZHSlNmTlZyZFhXRGtoaGhVa0EwNWFqVVlMSkpsVkRFMzkzeFcwT1MzQ09MbEVmeER3MkE?oc=5)
-
-2026-06-19 <span class="news-indication-tag">tumor</span>
-
-來源：[LaSexta](https://news.google.com/rss/articles/CBMikgJBVV95cUxNMmYyZWJXaG9jOU9EcWhzYmlZclB3RDB5UnE3dnozd2NWYWUyRllOY2pVQlU1cFVoNkVPS3VKa1o0cTg3ZVpxVHBQWkd4Z2czelNfRE1GWDh3Vi1RM194QThEVGpHblppLWZNUG0tU19uWjc0UTR4X20zU2ZDc19Gc2JkX2ZUMVdLMks1dm0yeVZuX1RqaC1UcE1saWhHUlhIQlI0ZmFWYm4zQUpDcjFtSF9YNW5ITE9EbUh1ZjExMkRpVlI1dGp0UXozVzMyOGpOMWo5MmlPNzRSZU9zVGp3S0xaaXZLQlo0d3NJcFR0SVRyN0dHR2dQRnNlRjB4MHg2SnBmSGdubWdvWjdrQzMwdmR30gGSAkFVX3lxTE5DT1ZpNXB2N0xYUlVuUzBtTFZCcVVvVnVPZWx5OERKYlRCZEJmQWhQZnhmVm5fZzVMWkNzb0xIU2hGS20wM3VqUG4zQ19ZNS1oOVpURk5CZGo1RXlMQ3hTQ1ZMZXlEa1JzbzNsV0ROMGgzc0VSMmhRMDMwV2loWTYtdm5RU0xoWTZkNFFXREE1UlI0cUk3RzJNZTJjQ3QtU0lGTU1rTi1QRU4xUnhYanVTN2hrUHpaQTFfV2JpZmI1SWYzeFUtYlh6RHRMNTgzYTNYRHotNkN3V3NCVjQ2aTZHSlNmTlZyZFhXRGtoaGhVa0EwNWFqVVlMSkpsVkRFMzkzeFcwT1MzQ09MbEVmeER3MkE?oc=5)
 
 ---
 
@@ -214,19 +222,19 @@ permalink: /news/lapatinib/
 
 ---
 
+### [Un hospital identifica una nueva estrategia contra el cáncer de páncreas que ataca las células tumorales y activa el sistema inmunitario - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU001V2Fld3FvZ09mSHdUWjFIWVY1bkdsNm5oTnp0ZEUtTzN5eGVkNDdmX1l1ZVVIdnVldjRrSklteGxjUlpGYmJhcW5EaXZZbXdneW1wQUFDeVBmSVR3QkxSbHF4ZThKUmpRQl8yUHVwZVBON0tQRlhCRVRoUjNnMVFEeDZhTEJpZlBlTFBDQzhlOHJoQW9CdGp6UnoyNmhha1FmdjRidDRCSFJoNmVOY0Y2MlhuYzk1amxnTmhqeFBYejZTb19ReGVGRnZNWDc2YUpjM1JndUVjT1dXWnIxaTBMREZhdnlpSFJn0gHwAUFVX3lxTE1WQWQ5SDd4eHhCRDlxMXk1VHY0MVo0VWJVdjRINU9jTXN2c2Z4eWJxN1oyWExWeTlVbkxmVThoSndNVUVQVE91UllONDNtNzROaHBfM012XzBvT1hoTE1lSjUyaHlJVjhza3dWbzllRzJFS2Q5eXpCT0lDVEJPYmQzS0NLN0RReW4zUjhqQ3cwZUd0WmdNanpCLTRpMlRMMkp5LVpCazRHQW9MYXhrWGl6aVJLN1ZrZGVHZnpyeDVYbkZGT0NxWHN0amFzajY5R3FsMjBEN0lwSXJlSG1QLU9Yekt3UkhtZXhtcXFOdkx3Ug?oc=5)
+
+2026-06-19 <span class="news-indication-tag">tumor</span>
+
+來源：[El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU001V2Fld3FvZ09mSHdUWjFIWVY1bkdsNm5oTnp0ZEUtTzN5eGVkNDdmX1l1ZVVIdnVldjRrSklteGxjUlpGYmJhcW5EaXZZbXdneW1wQUFDeVBmSVR3QkxSbHF4ZThKUmpRQl8yUHVwZVBON0tQRlhCRVRoUjNnMVFEeDZhTEJpZlBlTFBDQzhlOHJoQW9CdGp6UnoyNmhha1FmdjRidDRCSFJoNmVOY0Y2MlhuYzk1amxnTmhqeFBYejZTb19ReGVGRnZNWDc2YUpjM1JndUVjT1dXWnIxaTBMREZhdnlpSFJn0gHwAUFVX3lxTE1WQWQ5SDd4eHhCRDlxMXk1VHY0MVo0VWJVdjRINU9jTXN2c2Z4eWJxN1oyWExWeTlVbkxmVThoSndNVUVQVE91UllONDNtNzROaHBfM012XzBvT1hoTE1lSjUyaHlJVjhza3dWbzllRzJFS2Q5eXpCT0lDVEJPYmQzS0NLN0RReW4zUjhqQ3cwZUd0WmdNanpCLTRpMlRMMkp5LVpCazRHQW9MYXhrWGl6aVJLN1ZrZGVHZnpyeDVYbkZGT0NxWHN0amFzajY5R3FsMjBEN0lwSXJlSG1QLU9Yekt3UkhtZXhtcXFOdkx3Ug?oc=5)
+
+---
+
 ### [Tumore della tiroide: identificato il meccanismo del recettore FGFR1 - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3NNdE1TQ3RaaXB0U0k2cjk3cThOS2I0S3Y4YTRtcU4wMURtMmJYc1pNUVVfSmhKYk82S0NVQlZ3X2RSeVRtb2tuQjV2Z21Kc0lWLXI3LUFqZTJYRUh1ZkJYbWlFSlpxQllkTmJjX19OTjE4ZHllYWpuUkxFbnVPeWUwd2JBT0lxLWlGQmN1R2dOem9raXRkWm5FWU9fRHU1?oc=5)
 
 2026-06-19 <span class="news-indication-tag">tumor</span>
 
 來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3NNdE1TQ3RaaXB0U0k2cjk3cThOS2I0S3Y4YTRtcU4wMURtMmJYc1pNUVVfSmhKYk82S0NVQlZ3X2RSeVRtb2tuQjV2Z21Kc0lWLXI3LUFqZTJYRUh1ZkJYbWlFSlpxQllkTmJjX19OTjE4ZHllYWpuUkxFbnVPeWUwd2JBT0lxLWlGQmN1R2dOem9raXRkWm5FWU9fRHU1?oc=5)
-
----
-
-### [Enrique Grande, oncólogo madrileño: "El cáncer de riñón puede evolucionar silenciosamente durante bastante tiempo" - El Periódico de España](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzhNUXE5cWpTMlUxQmxnNEZuWHRKZHZreEJoeEhCdExRQU9JZUJDclg3d1JZb0RzY3owVWRfSm1RVmk5X0x4dU9nNEVtZEp6c1ZMRnpBQnZfWkhQRlN0V0xSeWpkX2xDZURmZDNLMkFFb2luTmswY3N6NWd1ZXFBd0tlZ2x3bUFWeXNVYWFadnhsWWZEdnR6Zm10dUoxVU9WMXBF0gGjAUFVX3lxTE9yVXdPTXR2YlYzcWlOYktRMDc3REYwTXN3ei1SQzE0eTRLZGFhaUNYVXZjQll5UVpYdUc2RjJtR0dldDhyYTdSbUd4aTl6cHdJTkJGbzB5eFhGMWZCQ2stcER0WkJ6a0Q1Mm1TcDFoNE9jT1Q5N3oyZ2dma3U4NWVJekZFTDh0NnFoU2ZXZ29RUUZrVkNNdHlWUGZ1ME1Pc2R0MjQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">tumor</span>
-
-來源：[El Periódico de España](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzhNUXE5cWpTMlUxQmxnNEZuWHRKZHZreEJoeEhCdExRQU9JZUJDclg3d1JZb0RzY3owVWRfSm1RVmk5X0x4dU9nNEVtZEp6c1ZMRnpBQnZfWkhQRlN0V0xSeWpkX2xDZURmZDNLMkFFb2luTmswY3N6NWd1ZXFBd0tlZ2x3bUFWeXNVYWFadnhsWWZEdnR6Zm10dUoxVU9WMXBF0gGjAUFVX3lxTE9yVXdPTXR2YlYzcWlOYktRMDc3REYwTXN3ei1SQzE0eTRLZGFhaUNYVXZjQll5UVpYdUc2RjJtR0dldDhyYTdSbUd4aTl6cHdJTkJGbzB5eFhGMWZCQ2stcER0WkJ6a0Q1Mm1TcDFoNE9jT1Q5N3oyZ2dma3U4NWVJekZFTDh0NnFoU2ZXZ29RUUZrVkNNdHlWUGZ1ME1Pc2R0MjQ?oc=5)
 
 ---
 
@@ -243,14 +251,6 @@ permalink: /news/lapatinib/
 2026-06-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUdodHBJRndtX3BWRDFFdm9oUnQtcnQwTkVteGtCd2U0SE82b3gzLTBCWUZvWGlVeVJnOFZMdDhvV0M3UVZoQndnMENZa1dJUU9nX1JzOEdWYUcwWTl2LTRYR0JfZTBfa21HWEk4ZDFpWlJGd1dtbE4tRGZyMi0yMGdRelU4MG5HQzZZUWpTbmdVLTB3WlBvektHUHJuc0x4Ykg1SDc2S3hMMVhKNkE?oc=5)
-
----
-
-### [Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2p4Q2VaRU1MbU9WUFhwTnU1T09ncmpza0RuOEtBY0Uyc3ZHVno5dVktejZNN1lqQ2JIS2I3M1JhSGJCd0hFZFdvcUNxb0I1QWlVc2c0TGV3OUtrNnVCMHozQmtTejcwWS11Z0lhaTBmNmIzSmhXeDBtVVRETVBnZU9ISW1uZFl6eUxJNmpqYS14QXdncmpWUW0wOTEtOTNKNmNnZ3l2c1NEVTZ5TmZKb25VX3hWTFIwX3RLbi1yWFFzV1lRZVg4WkJYeHQxUlFuQWxialJlN0FWZw?oc=5)
-
-2026-06-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2p4Q2VaRU1MbU9WUFhwTnU1T09ncmpza0RuOEtBY0Uyc3ZHVno5dVktejZNN1lqQ2JIS2I3M1JhSGJCd0hFZFdvcUNxb0I1QWlVc2c0TGV3OUtrNnVCMHozQmtTejcwWS11Z0lhaTBmNmIzSmhXeDBtVVRETVBnZU9ISW1uZFl6eUxJNmpqYS14QXdncmpWUW0wOTEtOTNKNmNnZ3l2c1NEVTZ5TmZKb25VX3hWTFIwX3RLbi1yWFFzV1lRZVg4WkJYeHQxUlFuQWxialJlN0FWZw?oc=5)
 
 ---
 

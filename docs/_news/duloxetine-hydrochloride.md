@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Nordic walking significantly reduces depression symptoms in as little as five weeks, trial finds - Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFU2dDk4djF3ZEV3cFVqYWV2ZXNwcUVOSHh6M05kbVBLYVdVZnZyc3hKWHdVOHpYb2llOGdlUEFVa2k3YUVGMzBncTdQWFNnV3d0Y3VjZzRLdlJwNDZud2oyZUNnQW84b25uMDhWN3VnMDVjdHpaakNSeExESnZxRHBiZjA3TXdNNjVZd3dmazVVUU54?oc=5)
+### [La estimulación magnética transcraneal logra una respuesta cercana al 50% en depresión resistente - Andalucía Información](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2F4Mm9mQ0hHQ21LV3M0MG04UDJueWNPRzhtaTg3MnR1UTgxVnpwNlhhS0kzZzFKZ3JHcUF1aFQ3Z085V2pCOXRpdGpyMC1wZWt0TEgwSlpaZFpQMWpzSnowZFFPSTdCd0FHWC1ScE5uZV9xbHVMMVFkUDBNOHNSX3hHcTBKVjRtd3BaUUlILUtmaEJCb01kWFdSVEV4VC1oaGliYzdsWVg4SFVERGZsXzRNRzd3R0xxMF9VS0xvMWduNHQtUDhzU3pQX2MtNjltRXZDdG1oNy1JNmx2VF9UdHJHMElkcXEySXZhQTdZd1dPT2lV0gH6AUFVX3lxTE5Bb0dYV2UwWjdnU0FzbjBERlNZSVlKbGgzWFB0Q0VmMjZQVTZsZG9KdV9XZXBObUo4MDFzUlA3Y0hBeXdrZ3c2Z0hIUExQalpEcENvd0g3ZGFmN25kaEVINGh6UmF1T2xBb1piSUVOT09kZGFQUTc0YzUtRm9ObFhydGtHQ3VOZ1dsNlNBTC12ZmVveDRNb2VvQmUtZ1R5M24wZFQ4ZjF1bDdIamlBcFowbjJoM2swQ0ljNFYwU3lEV3BsVk9PaU4yUjR6MFhiZ3U2U2FVOVVQN1gzbFBDQkdLR0M2UmJrdXJDMUlQU2dfX09yUWNZaHRMdFE?oc=5)
 
-2026-06-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-06-20 <span class="news-indication-tag">depresión</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFU2dDk4djF3ZEV3cFVqYWV2ZXNwcUVOSHh6M05kbVBLYVdVZnZyc3hKWHdVOHpYb2llOGdlUEFVa2k3YUVGMzBncTdQWFNnV3d0Y3VjZzRLdlJwNDZud2oyZUNnQW84b25uMDhWN3VnMDVjdHpaakNSeExESnZxRHBiZjA3TXdNNjVZd3dmazVVUU54?oc=5)
-
----
-
-### [Depression: Weniger als 5 Mahlzeiten pro Woche erhöht Risiko um 55% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkxsRmVpRS05a01HcHFUcHhJSE5IbkFpUFp1azJnU01XUEZhQ1lhMks2MDZ2b0hYeTJEZU5wSHgyNVZmZ2ZEb1Awa3RVN2dpNGJnY21TYk1HT3RrSk5IcWl2WHBFS00ybU1BOHNUNGotYjJ5VTl3T0RkMV9VY2Rpc2MxYkxUUVVnV3YzTHlnRUlHX0hrQjkyTHFMMTQ1YkVGcjNSSkwzZEVDTU1HOVZmN2NVMmU4Zw?oc=5)
-
-2026-06-20 <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkxsRmVpRS05a01HcHFUcHhJSE5IbkFpUFp1azJnU01XUEZhQ1lhMks2MDZ2b0hYeTJEZU5wSHgyNVZmZ2ZEb1Awa3RVN2dpNGJnY21TYk1HT3RrSk5IcWl2WHBFS00ybU1BOHNUNGotYjJ5VTl3T0RkMV9VY2Rpc2MxYkxUUVVnV3YzTHlnRUlHX0hrQjkyTHFMMTQ1YkVGcjNSSkwzZEVDTU1HOVZmN2NVMmU4Zw?oc=5)
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2F4Mm9mQ0hHQ21LV3M0MG04UDJueWNPRzhtaTg3MnR1UTgxVnpwNlhhS0kzZzFKZ3JHcUF1aFQ3Z085V2pCOXRpdGpyMC1wZWt0TEgwSlpaZFpQMWpzSnowZFFPSTdCd0FHWC1ScE5uZV9xbHVMMVFkUDBNOHNSX3hHcTBKVjRtd3BaUUlILUtmaEJCb01kWFdSVEV4VC1oaGliYzdsWVg4SFVERGZsXzRNRzd3R0xxMF9VS0xvMWduNHQtUDhzU3pQX2MtNjltRXZDdG1oNy1JNmx2VF9UdHJHMElkcXEySXZhQTdZd1dPT2lV0gH6AUFVX3lxTE5Bb0dYV2UwWjdnU0FzbjBERlNZSVlKbGgzWFB0Q0VmMjZQVTZsZG9KdV9XZXBObUo4MDFzUlA3Y0hBeXdrZ3c2Z0hIUExQalpEcENvd0g3ZGFmN25kaEVINGh6UmF1T2xBb1piSUVOT09kZGFQUTc0YzUtRm9ObFhydGtHQ3VOZ1dsNlNBTC12ZmVveDRNb2VvQmUtZ1R5M24wZFQ4ZjF1bDdIamlBcFowbjJoM2swQ0ljNFYwU3lEV3BsVk9PaU4yUjR6MFhiZ3U2U2FVOVVQN1gzbFBDQkdLR0M2UmJrdXJDMUlQU2dfX09yUWNZaHRMdFE?oc=5)
 
 ---
 
