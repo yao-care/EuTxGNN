@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "arthritis 相關新聞"
+title: "arthrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "arthrite（arthritis） 的相關健康新聞報導。3 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# arthritis 相關新聞
+# arthrite（arthritis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="arthrite（arthritis） 有什麼相關新聞？">
+<strong>arthrite（arthritis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「arthrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,7 +101,15 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [La clim ne donne pas le rhume, mais peut vous jouer des tours - Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
+
+2026-06-21
+
+來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: Abatacept senkt Fortschrittsrisiko auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEltb0l0MFJLd0dXY1hhYWZLSWVCREdYLVR4OU1VWk9yUkU5UUlFT3lsSXlnOXg5Z1I1czFrRTB0M1FzTmJ2eVlnb2ZQeExFMXFhZnZISVNEYlhIaFlxU3pWSE5WNjJNeHpOdmwtOG9FeDlOUHFVaFpxWXdQckQxd2Z2VmhraFNVQTduWlJhT05FUEJiaXJPdTFmbW5fdFJIR0lPbzhTTXI4UWRhN3R2RFI2Y0UzSUJYNnhCeQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Heimmonitoring und KI senken Herzinfarkt-Risiken: Was Unternehmen jetzt wissen sollten - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FDYkJWLWVZcXQzdlN0UEdpV1BOMTVQZFJDa3ltZEkzYWQzNko2ZS1KNFdLMXRtVE8wck1lUE81UW15RGxpeVRVXzBrNDJNN1B1QlRJZTFURHdGbXF4bFZXcDQxdWxNYlVIa1ZLVUg3a2dOZFl1LWpydjFMNXU3Nk5udEItWGc5MDVSTGlQV0Jaakk0SnpEWUpGYWZONnE2TmtiR05WdjNsbGsxbXlWeE8wSEJQOC1s?oc=5)
-
-2026-06-20 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FDYkJWLWVZcXQzdlN0UEdpV1BOMTVQZFJDa3ltZEkzYWQzNko2ZS1KNFdLMXRtVE8wck1lUE81UW15RGxpeVRVXzBrNDJNN1B1QlRJZTFURHdGbXF4bFZXcDQxdWxNYlVIa1ZLVUg3a2dOZFl1LWpydjFMNXU3Nk5udEItWGc5MDVSTGlQV0Jaakk0SnpEWUpGYWZONnE2TmtiR05WdjNsbGsxbXlWeE8wSEJQOC1s?oc=5)
-
----
-
-### [Los médicos alertan de la rápida progresión de la hepatitis Delta y de su relación con el cáncer de hígado - El Correo Gallego](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlNMVnI5WWF1c2JwRVEzZ0RYVE9qXzY4UWdQODVvYlNRbGZkd1djODNpNEoyXzVGOUFSc1h6VDBWRDhqREdJb01UMkM1bkE1Y216OWtkUjlCZkc5YVhCTUVOYS1DcnFPSHFaZHNxTDYteUZaZmJfZTJDSEdoUDhJZDhPZkllVHRyWTlnWXh4aFZEZHpYeW1lX09Ya09PZWd2T3BZWFpaZjJlQ0ZuUWlsLTRRTlJMS3k0Qi1Yd3lCMzN0aDkzWmtUcDYzc0lHRU5oZXRTTNIB2gFBVV95cUxNeVZ2YU91bi11MXFsdWM1RVJ3eTVweEdvMEpkNHJaUWk5RUFzTllhVUJjR3BKcGhmOVY5TC1za3JBa3lXRTQ3ZktwWHcwQ1JIRXhVaFd1eUc0VTZxTVl2Y3NxVDctVEZta2ROOUFkMVBjUzBDTFl5WTUtSXlFQ1VrLVkzekZzMkhoaW9hMmhrSDAyT21qMFhqTzVMNURwTDA0aGMzaWp6R0xhNUh5N09LNnNPLTI4ZVUtdUpoTG1aTVVUV19tZGpnMDVUWGV4WS1jZUpOUlVEeThhUQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlNMVnI5WWF1c2JwRVEzZ0RYVE9qXzY4UWdQODVvYlNRbGZkd1djODNpNEoyXzVGOUFSc1h6VDBWRDhqREdJb01UMkM1bkE1Y216OWtkUjlCZkc5YVhCTUVOYS1DcnFPSHFaZHNxTDYteUZaZmJfZTJDSEdoUDhJZDhPZkllVHRyWTlnWXh4aFZEZHpYeW1lX09Ya09PZWd2T3BZWFpaZjJlQ0ZuUWlsLTRRTlJMS3k0Qi1Yd3lCMzN0aDkzWmtUcDYzc0lHRU5oZXRTTNIB2gFBVV95cUxNeVZ2YU91bi11MXFsdWM1RVJ3eTVweEdvMEpkNHJaUWk5RUFzTllhVUJjR3BKcGhmOVY5TC1za3JBa3lXRTQ3ZktwWHcwQ1JIRXhVaFd1eUc0VTZxTVl2Y3NxVDctVEZta2ROOUFkMVBjUzBDTFl5WTUtSXlFQ1VrLVkzekZzMkhoaW9hMmhrSDAyT21qMFhqTzVMNURwTDA0aGMzaWp6R0xhNUh5N09LNnNPLTI4ZVUtdUpoTG1aTVVUV19tZGpnMDVUWGV4WS1jZUpOUlVEeThhUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Chaleur et luminosité, un véritable "cocktail molotov" pour les migraineux](https://news.google.com/rss/articles/CBMilwJBVV95cUxOWkJkRGczNmJGRDhjVXZBM3RjblhpVGZlaFpJMmx3X2Voa1NCU0NScDhqaTVsV3hSTmVQbDQyS0VobS1Oc2dsdldrZ3JfNFJaUGVUMVFfLUdlWk5mdDFITXBTc0NfTEJiVnh1ZTI1SktVMjJiUDl4M3BWbnhiSHFDd1o2LTZRNzh2RFo3dEc4cUtyNzhWUlNCejh4T05BZ3pXb1NjLXA2YjJvSzFPdUJsOFJZMmZEeTk1VmpBN0FiN3Y4Y0VaZXFuVjJJMktXSDUydVAwbkU0ZThTQjFUSnpuREhjelNjWG0wbVlYTGZDQ1ltLUZpckRRc1duV2xiNzdOQXl2T2V5c1ltenI4NHhOWWtQanJJYmc?oc=5)
 
 2026-06-21 <span class="news-indication-tag">migraine</span>
 
 來源：[franceinfo](https://news.google.com/rss/articles/CBMilwJBVV95cUxOWkJkRGczNmJGRDhjVXZBM3RjblhpVGZlaFpJMmx3X2Voa1NCU0NScDhqaTVsV3hSTmVQbDQyS0VobS1Oc2dsdldrZ3JfNFJaUGVUMVFfLUdlWk5mdDFITXBTc0NfTEJiVnh1ZTI1SktVMjJiUDl4M3BWbnhiSHFDd1o2LTZRNzh2RFo3dEc4cUtyNzhWUlNCejh4T05BZ3pXb1NjLXA2YjJvSzFPdUJsOFJZMmZEeTk1VmpBN0FiN3Y4Y0VaZXFuVjJJMktXSDUydVAwbkU0ZThTQjFUSnpuREhjelNjWG0wbVlYTGZDQ1ltLUZpckRRc1duV2xiNzdOQXl2T2V5c1ltenI4NHhOWWtQanJJYmc?oc=5)
-
----
-
-### [Heimmonitoring und KI senken Herzinfarkt-Risiken: Was Unternehmen jetzt wissen sollten - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FDYkJWLWVZcXQzdlN0UEdpV1BOMTVQZFJDa3ltZEkzYWQzNko2ZS1KNFdLMXRtVE8wck1lUE81UW15RGxpeVRVXzBrNDJNN1B1QlRJZTFURHdGbXF4bFZXcDQxdWxNYlVIa1ZLVUg3a2dOZFl1LWpydjFMNXU3Nk5udEItWGc5MDVSTGlQV0Jaakk0SnpEWUpGYWZONnE2TmtiR05WdjNsbGsxbXlWeE8wSEJQOC1s?oc=5)
-
-2026-06-20 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FDYkJWLWVZcXQzdlN0UEdpV1BOMTVQZFJDa3ltZEkzYWQzNko2ZS1KNFdLMXRtVE8wck1lUE81UW15RGxpeVRVXzBrNDJNN1B1QlRJZTFURHdGbXF4bFZXcDQxdWxNYlVIa1ZLVUg3a2dOZFl1LWpydjFMNXU3Nk5udEItWGc5MDVSTGlQV0Jaakk0SnpEWUpGYWZONnE2TmtiR05WdjNsbGsxbXlWeE8wSEJQOC1s?oc=5)
 
 ---
 

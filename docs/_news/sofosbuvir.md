@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [Neue Studie zweifelt an Calcium und Vitamin D: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbG91amNELXJMeVp6M25wcE5JUFlRTDhVdlg0dzJIU21meWlVY0lmX25Td2NXdUJpYlVBVFprVEo0ODI4NjFBV1BkWTVrQUY3a3ROdl8waWtxX281OW5kYzRXVnduUWtGVl9BcW9qVF9FT3h0NHl2QUFHSnZCV3BXQWtKQTlaVjFCODJ2b1N5TW15ejRIWHcxcmNGSGstMERvaVNmWHBLS1VBLTlfUzNuZ290cEYxQQ?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Australia pledges action on H5N1 after bird flu case confirmed - Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdRZW1YZ3lSaExJT2MtbDFWY09SMEIxN1VHZ29ZT2c3d2VleW5xbFh1QjVhN0xSS1BuTFRKOU84VnQ3TDVuSTdPZTlFZC1hX29lSGM5czMycXBlejR0aHNxTGxWT1gwYjQyMGlaTlp5ZjNOMzVXcC1sVGN1TC1PaG9JMGtZYUdhLW1IQVR1NnBkQUwxb2tCQ3hqcXdBUzJ6c2ZtYU9R0gGrAUFVX3lxTE5ZVWx4ZEFUczMtbVd4TFhlMGZJbVBwVjh0WmtFcUJKaFNoelM1NjlON1pRUjlxNU40azF6LWdvWkhMVVlSQU9oRXFpQTctY2JOVTlvX1NmZFJhZGF2aU9YemwxU1pERUJTTVAyM3Z3aE16RmRIOTBENTVlUkI5QlVWUWVpRjEwMkRLY1F5dVVhbDNlNWZNRlBfNENSZ2ZLZE5xc2RLS21ncTI1Yw?oc=5)
+### [Doctor warning for Brits taking sertraline, citalopram, escitalopram or fluoxetine - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkJPbWJPVm9zbnNsR3RtMnFVUVlVVmQ1cHRXRmlINEpZZXp4S0gwdmNqS2dpQzRSYXZsQzhSOGUydm8wOC1qZjdGOTFpWDJnWVlpY0xqbGhnS0JJaVFqbndXWmlmQk9GTTlCU240alZ2V1lJTnpFYVlOSjRSZERVMnp4anFGX0lpY3ItRdIBkgFBVV95cUxQZGtmeTZrblVnQjlNNGFfb29qMGRuNDFBSXBUM3BQVHdGZ1FmYllUczBQcEdjbVRQS29FNGFTazRBd0JjR2xWSm1rWGlqRUNpYVJZVVg1TmdrbWROcEI1T1FIMFFUMWVpa2hNUDloc0VMQXF1bjBsVVdEOFpoeWxrSTNNNEEzUmNUX3AxZWEwZ0t3QQ?oc=5)
 
-2026-06-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-20 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
 
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdRZW1YZ3lSaExJT2MtbDFWY09SMEIxN1VHZ29ZT2c3d2VleW5xbFh1QjVhN0xSS1BuTFRKOU84VnQ3TDVuSTdPZTlFZC1hX29lSGM5czMycXBlejR0aHNxTGxWT1gwYjQyMGlaTlp5ZjNOMzVXcC1sVGN1TC1PaG9JMGtZYUdhLW1IQVR1NnBkQUwxb2tCQ3hqcXdBUzJ6c2ZtYU9R0gGrAUFVX3lxTE5ZVWx4ZEFUczMtbVd4TFhlMGZJbVBwVjh0WmtFcUJKaFNoelM1NjlON1pRUjlxNU40azF6LWdvWkhMVVlSQU9oRXFpQTctY2JOVTlvX1NmZFJhZGF2aU9YemwxU1pERUJTTVAyM3Z3aE16RmRIOTBENTVlUkI5QlVWUWVpRjEwMkRLY1F5dVVhbDNlNWZNRlBfNENSZ2ZLZE5xc2RLS21ncTI1Yw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkJPbWJPVm9zbnNsR3RtMnFVUVlVVmQ1cHRXRmlINEpZZXp4S0gwdmNqS2dpQzRSYXZsQzhSOGUydm8wOC1qZjdGOTFpWDJnWVlpY0xqbGhnS0JJaVFqbndXWmlmQk9GTTlCU240alZ2V1lJTnpFYVlOSjRSZERVMnp4anFGX0lpY3ItRdIBkgFBVV95cUxQZGtmeTZrblVnQjlNNGFfb29qMGRuNDFBSXBUM3BQVHdGZ1FmYllUczBQcEdjbVRQS29FNGFTazRBd0JjR2xWSm1rWGlqRUNpYVJZVVg1TmdrbWROcEI1T1FIMFFUMWVpa2hNUDloc0VMQXF1bjBsVVdEOFpoeWxrSTNNNEEzUmNUX3AxZWEwZ0t3QQ?oc=5)
 
 ---
 
@@ -86,35 +86,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
+
+2026-06-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
+
+---
+
 ### [Notdienst heute in Wolfsburg: Notapotheken am Samstag](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3Exa0gxaE16ZXdMRnRTaFEzWXZ5OVRKQ2l6Y1ZPbWtxR0FSd2pCcTJNaTR6Z252NEZfWU11WGJ5eEJTUDRQSHpXM2NSV2REbXNUN1ZVenExQ25QZjhxM0QydndnbVBqVEYwcFNtSUI1Y3czVDg4X0k3Ukxxbi0xU21qNXRqaUttWlVqRWJTNXVwUjFkSENqbWpjWXV3QVgycG9DVWpfTy0tM2RWaU9KUEhsZGFNTTZjamgtcFNCOW1UcmRCLUxvX3d4YjBUYU1LVmI4NkhUbF9kZnJsUlpvMnJR0gHnAUFVX3lxTE9xSlhaTGJpNWl4ZlYwaDZKUHZ6cGFBeEhuTGgzbUVvU0JlWWpKbV9PbDJlY21qN2YzM2tpRGt0c0NiTlNYNTZUSzlQVUJHUWhzSnhzYkZRZFdBMFVXWHp1ejQ0M0RYc1oxLTRId0JiMlNDamVZT3VUTE10U2lmcm1CS1RpenFEWldKX05Cc2JxdTVsemVLcTZOVmtRYnZlNDA0MzBfVmNvUV9yZEpldkY0TG54OUpsWlRvaDhYUmdWQmMxeWVSN052eUxKWWoyTUlHMkpNdEZlY1FpT0dQYmZEeTFkcktQQQ?oc=5)
 
 2026-06-20 <span class="news-indication-tag">MS</span>
 
 來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3Exa0gxaE16ZXdMRnRTaFEzWXZ5OVRKQ2l6Y1ZPbWtxR0FSd2pCcTJNaTR6Z252NEZfWU11WGJ5eEJTUDRQSHpXM2NSV2REbXNUN1ZVenExQ25QZjhxM0QydndnbVBqVEYwcFNtSUI1Y3czVDg4X0k3Ukxxbi0xU21qNXRqaUttWlVqRWJTNXVwUjFkSENqbWpjWXV3QVgycG9DVWpfTy0tM2RWaU9KUEhsZGFNTTZjamgtcFNCOW1UcmRCLUxvX3d4YjBUYU1LVmI4NkhUbF9kZnJsUlpvMnJR0gHnAUFVX3lxTE9xSlhaTGJpNWl4ZlYwaDZKUHZ6cGFBeEhuTGgzbUVvU0JlWWpKbV9PbDJlY21qN2YzM2tpRGt0c0NiTlNYNTZUSzlQVUJHUWhzSnhzYkZRZFdBMFVXWHp1ejQ0M0RYc1oxLTRId0JiMlNDamVZT3VUTE10U2lmcm1CS1RpenFEWldKX05Cc2JxdTVsemVLcTZOVmtRYnZlNDA0MzBfVmNvUV9yZEpldkY0TG54OUpsWlRvaDhYUmdWQmMxeWVSN052eUxKWWoyTUlHMkpNdEZlY1FpT0dQYmZEeTFkcktQQQ?oc=5)
-
----
-
-### [Rising number of cancer patients are skipping chemo and opting for ivermectin instead, analysis finds - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxObmV2SHEzZzEtaXg4a2o1eDh3RE1odEdqOGhud3pXdWZEa1ZKU1JuS0ZpMUtqTDF4Zl9mRGNwV3FMT1BHS1ZXUXkwcUFiZExhM2psYTBXTWtUc2REQ3lqXzFXLXFhelM4V25rNWNHRFg5V01ScWJOZEVSeEt3SFZRS0hHMURzMzlfeVBHWDR5MUxqbERURGttN1VVZEMwVG53N01KNEFCcFhCcW9vaUlfWkdkWQ?oc=5)
-
----
-
-### [Los médicos alertan de la rápida progresión de la hepatitis Delta y de su relación con el cáncer de hígado - El Correo Gallego](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlNMVnI5WWF1c2JwRVEzZ0RYVE9qXzY4UWdQODVvYlNRbGZkd1djODNpNEoyXzVGOUFSc1h6VDBWRDhqREdJb01UMkM1bkE1Y216OWtkUjlCZkc5YVhCTUVOYS1DcnFPSHFaZHNxTDYteUZaZmJfZTJDSEdoUDhJZDhPZkllVHRyWTlnWXh4aFZEZHpYeW1lX09Ya09PZWd2T3BZWFpaZjJlQ0ZuUWlsLTRRTlJMS3k0Qi1Yd3lCMzN0aDkzWmtUcDYzc0lHRU5oZXRTTNIB2gFBVV95cUxNeVZ2YU91bi11MXFsdWM1RVJ3eTVweEdvMEpkNHJaUWk5RUFzTllhVUJjR3BKcGhmOVY5TC1za3JBa3lXRTQ3ZktwWHcwQ1JIRXhVaFd1eUc0VTZxTVl2Y3NxVDctVEZta2ROOUFkMVBjUzBDTFl5WTUtSXlFQ1VrLVkzekZzMkhoaW9hMmhrSDAyT21qMFhqTzVMNURwTDA0aGMzaWp6R0xhNUh5N09LNnNPLTI4ZVUtdUpoTG1aTVVUV19tZGpnMDVUWGV4WS1jZUpOUlVEeThhUQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlNMVnI5WWF1c2JwRVEzZ0RYVE9qXzY4UWdQODVvYlNRbGZkd1djODNpNEoyXzVGOUFSc1h6VDBWRDhqREdJb01UMkM1bkE1Y216OWtkUjlCZkc5YVhCTUVOYS1DcnFPSHFaZHNxTDYteUZaZmJfZTJDSEdoUDhJZDhPZkllVHRyWTlnWXh4aFZEZHpYeW1lX09Ya09PZWd2T3BZWFpaZjJlQ0ZuUWlsLTRRTlJMS3k0Qi1Yd3lCMzN0aDkzWmtUcDYzc0lHRU5oZXRTTNIB2gFBVV95cUxNeVZ2YU91bi11MXFsdWM1RVJ3eTVweEdvMEpkNHJaUWk5RUFzTllhVUJjR3BKcGhmOVY5TC1za3JBa3lXRTQ3ZktwWHcwQ1JIRXhVaFd1eUc0VTZxTVl2Y3NxVDctVEZta2ROOUFkMVBjUzBDTFl5WTUtSXlFQ1VrLVkzekZzMkhoaW9hMmhrSDAyT21qMFhqTzVMNURwTDA0aGMzaWp6R0xhNUh5N09LNnNPLTI4ZVUtdUpoTG1aTVVUV19tZGpnMDVUWGV4WS1jZUpOUlVEeThhUQ?oc=5)
-
----
-
-### [Sclerosi multipla, metà dei casi italiani riguarda gli under 40 - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjdIUFVWMWgxcUFjUjY0ci1qbmRlTWxkZVJIcU9kNnl3bUNVRUpVbU85Sno4UG9WSWFEejc2dU56YkVRSzJGWXRWcDhGam1hSThCMndneWw5azJQS1BUWlF6TEdMQmpodDZXdGFYRVotc296OVB3NjA4cHRFbGhKbU9qbmZvOTREQUhMSGI4NTh5eGc2ZjhGc0ln?oc=5)
-
-2026-06-19 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjdIUFVWMWgxcUFjUjY0ci1qbmRlTWxkZVJIcU9kNnl3bUNVRUpVbU85Sno4UG9WSWFEejc2dU56YkVRSzJGWXRWcDhGam1hSThCMndneWw5azJQS1BUWlF6TEdMQmpodDZXdGFYRVotc296OVB3NjA4cHRFbGhKbU9qbmZvOTREQUhMSGI4NTh5eGc2ZjhGc0ln?oc=5)
 
 ---
 

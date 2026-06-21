@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,19 +37,19 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
+### [«J’ai arrêté de vouloir être un bon père. J’essaie juste d’être un père» : comment Michel s’est relevé d’une dépression postnatale - Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOWTloOHJpcXVkRjZoTkhiUUdCZ1BneUhIM2Z0RElMdE50UmdKaERjZFhFdXM3alZBUDBlN1lCLUJySmhIcGxDcmJoZnJwMFMzdGJQUUpOcmNRSlpZcUgxZ0VCWEg0cjZEUzNYWl94OGNVaVN1ZlJiZERQMjBOUGpMdk55eHRKZGgtQkJLS3ZzNzJobDFBUElqRHh2Sng4dVZ3NllRYjhSSEZwRHAxUWVHekgxUTR0NWxjTUVuYjZFOFBpV2UtU2V2V09uYmZZMGFoeG0wa0dHeGFOUjBfVEJ4djJWY09qOUo1b3NxVlpFNnRGSE5aSm02YmtiWC1RZXBaOVpVa0JqNXZSQmg2bnJpQw?oc=5)
+
+2026-06-21
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOWTloOHJpcXVkRjZoTkhiUUdCZ1BneUhIM2Z0RElMdE50UmdKaERjZFhFdXM3alZBUDBlN1lCLUJySmhIcGxDcmJoZnJwMFMzdGJQUUpOcmNRSlpZcUgxZ0VCWEg0cjZEUzNYWl94OGNVaVN1ZlJiZERQMjBOUGpMdk55eHRKZGgtQkJLS3ZzNzJobDFBUElqRHh2Sng4dVZ3NllRYjhSSEZwRHAxUWVHekgxUTR0NWxjTUVuYjZFOFBpV2UtU2V2V09uYmZZMGFoeG0wa0dHeGFOUjBfVEJ4djJWY09qOUo1b3NxVlpFNnRGSE5aSm02YmtiWC1RZXBaOVpVa0JqNXZSQmg2bnJpQw?oc=5)
+
+---
+
 ### [La estimulación magnética transcraneal logra una respuesta cercana al 50% en depresión resistente - Andalucía Información](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2F4Mm9mQ0hHQ21LV3M0MG04UDJueWNPRzhtaTg3MnR1UTgxVnpwNlhhS0kzZzFKZ3JHcUF1aFQ3Z085V2pCOXRpdGpyMC1wZWt0TEgwSlpaZFpQMWpzSnowZFFPSTdCd0FHWC1ScE5uZV9xbHVMMVFkUDBNOHNSX3hHcTBKVjRtd3BaUUlILUtmaEJCb01kWFdSVEV4VC1oaGliYzdsWVg4SFVERGZsXzRNRzd3R0xxMF9VS0xvMWduNHQtUDhzU3pQX2MtNjltRXZDdG1oNy1JNmx2VF9UdHJHMElkcXEySXZhQTdZd1dPT2lV0gH6AUFVX3lxTE5Bb0dYV2UwWjdnU0FzbjBERlNZSVlKbGgzWFB0Q0VmMjZQVTZsZG9KdV9XZXBObUo4MDFzUlA3Y0hBeXdrZ3c2Z0hIUExQalpEcENvd0g3ZGFmN25kaEVINGh6UmF1T2xBb1piSUVOT09kZGFQUTc0YzUtRm9ObFhydGtHQ3VOZ1dsNlNBTC12ZmVveDRNb2VvQmUtZ1R5M24wZFQ4ZjF1bDdIamlBcFowbjJoM2swQ0ljNFYwU3lEV3BsVk9PaU4yUjR6MFhiZ3U2U2FVOVVQN1gzbFBDQkdLR0M2UmJrdXJDMUlQU2dfX09yUWNZaHRMdFE?oc=5)
 
 2026-06-20
 
 來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2F4Mm9mQ0hHQ21LV3M0MG04UDJueWNPRzhtaTg3MnR1UTgxVnpwNlhhS0kzZzFKZ3JHcUF1aFQ3Z085V2pCOXRpdGpyMC1wZWt0TEgwSlpaZFpQMWpzSnowZFFPSTdCd0FHWC1ScE5uZV9xbHVMMVFkUDBNOHNSX3hHcTBKVjRtd3BaUUlILUtmaEJCb01kWFdSVEV4VC1oaGliYzdsWVg4SFVERGZsXzRNRzd3R0xxMF9VS0xvMWduNHQtUDhzU3pQX2MtNjltRXZDdG1oNy1JNmx2VF9UdHJHMElkcXEySXZhQTdZd1dPT2lV0gH6AUFVX3lxTE5Bb0dYV2UwWjdnU0FzbjBERlNZSVlKbGgzWFB0Q0VmMjZQVTZsZG9KdV9XZXBObUo4MDFzUlA3Y0hBeXdrZ3c2Z0hIUExQalpEcENvd0g3ZGFmN25kaEVINGh6UmF1T2xBb1piSUVOT09kZGFQUTc0YzUtRm9ObFhydGtHQ3VOZ1dsNlNBTC12ZmVveDRNb2VvQmUtZ1R5M24wZFQ4ZjF1bDdIamlBcFowbjJoM2swQ0ljNFYwU3lEV3BsVk9PaU4yUjR6MFhiZ3U2U2FVOVVQN1gzbFBDQkdLR0M2UmJrdXJDMUlQU2dfX09yUWNZaHRMdFE?oc=5)
-
----
-
-### [Mittel gegen Verstopfung hilft auch gegen bestimmte Depressionssymptome](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmFFb0k1ODBYUHQxYW14dEFDU3RuQzI4UFJnX0JOSlpFRUtwbUFDVmhkbkhadzhKYXBnbG1hZVJvMXQ1dGNnQ1FDdDdyaWlhN2lQUTg1eU1jUTJTV0VBWW9BY2pPX0drbmF3X1RsVldjMXhDb2FTa1FwaXZwR3BLWnJDOXBDLVhVbDdYbHdySmRSQQ?oc=5)
-
-2026-06-19
-
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmFFb0k1ODBYUHQxYW14dEFDU3RuQzI4UFJnX0JOSlpFRUtwbUFDVmhkbkhadzhKYXBnbG1hZVJvMXQ1dGNnQ1FDdDdyaWlhN2lQUTg1eU1jUTJTV0VBWW9BY2pPX0drbmF3X1RsVldjMXhDb2FTa1FwaXZwR3BLWnJDOXBDLVhVbDdYbHdySmRSQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Finerenona reduce significativamente la progresión de la enfermedad renal crónica en pacientes con ERC no diabética - Gaceta Médica](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3FvWEJjNVRnZll6VHRhOUVuNVh0UUFyOTJrWXZod082X1JQNENfVC1qQXlQLVl4WjktNXJ5OGlLdUpVSHJsUUEtdnd1V0t0ZjdfbDVrVE9ta2xSbG5PNFc3YWEyT2JnZnNsM2VoX0phU2VoQUlqdU5iM2YxZDMtZHNpdDNaOTh2dXlTSWxTbWo3dkZyc3VQakdaT3o5cGUyTFNzLU5sdUpzV1JBYWlmYW5nY0s0aEVvVG9RcQ?oc=5)
-
-2026-06-19 <span class="news-indication-tag">enfermedad renal crónica</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3FvWEJjNVRnZll6VHRhOUVuNVh0UUFyOTJrWXZod082X1JQNENfVC1qQXlQLVl4WjktNXJ5OGlLdUpVSHJsUUEtdnd1V0t0ZjdfbDVrVE9ta2xSbG5PNFc3YWEyT2JnZnNsM2VoX0phU2VoQUlqdU5iM2YxZDMtZHNpdDNaOTh2dXlTSWxTbWo3dkZyc3VQakdaT3o5cGUyTFNzLU5sdUpzV1JBYWlmYW5nY0s0aEVvVG9RcQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

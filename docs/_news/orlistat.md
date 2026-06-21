@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [La fiebre de los medicamentos para adelgazar: Castilla y León triplica su consumo en cinco años - Heraldo-Diario de Soria](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWpvbDdWLW5JaGd6aEVkeHltQzB2dWRoVHJaOTBSZ3FKR0I2RHJvUDVEMUpiZmFJczZoVndocmtSSVhKeTAtR3VrYTQwUTBxYVhPMEQzVTlHQlFlcW5QSTNJUVljcFRRbkNOLTRLUUxsOThxenhuZzc0TGVrTWduSkpWVFVxbUZaX3p3dnU0cjVmNXp6M3JyRkVfQ2dVc1dzVjlTUksxRUhURDEwd0lPQ3NFbkJLMVhUdlRkUGhZdDBuNHJDeDJyOUw3dnZnS2ZKRngzZVhRUElUUdIB3wFBVV95cUxPTVFac2hsNEdwY3E2b0c5V2ZaNzUzVUZnc0hJQjNFR0JtRGZtX2F6VU9XWmowUGxWTHJBM0ZxWmE5RkZwenQ3TjNLZkFrUnFxOElwSEdCV0VQT0tSbW1TYkR5ZGQ0Q1JqV1JVbDNVQzRRMHVJaDV2QURSV08zeUtjVTlrbnBIRm5GN0JhU016NEVfSi1TaHBXdTFtTjFPOGUxQjZmOGZXZk51a25iaDFEdzZzblRpWl9ucnJoTjFnYzBJSU5qblZXaEZhSk1nMWFVQ2xvempfY3J2azkwZlNJ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">obesidad</span>
+
+來源：[Heraldo-Diario de Soria](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWpvbDdWLW5JaGd6aEVkeHltQzB2dWRoVHJaOTBSZ3FKR0I2RHJvUDVEMUpiZmFJczZoVndocmtSSVhKeTAtR3VrYTQwUTBxYVhPMEQzVTlHQlFlcW5QSTNJUVljcFRRbkNOLTRLUUxsOThxenhuZzc0TGVrTWduSkpWVFVxbUZaX3p3dnU0cjVmNXp6M3JyRkVfQ2dVc1dzVjlTUksxRUhURDEwd0lPQ3NFbkJLMVhUdlRkUGhZdDBuNHJDeDJyOUw3dnZnS2ZKRngzZVhRUElUUdIB3wFBVV95cUxPTVFac2hsNEdwY3E2b0c5V2ZaNzUzVUZnc0hJQjNFR0JtRGZtX2F6VU9XWmowUGxWTHJBM0ZxWmE5RkZwenQ3TjNLZkFrUnFxOElwSEdCV0VQT0tSbW1TYkR5ZGQ0Q1JqV1JVbDNVQzRRMHVJaDV2QURSV08zeUtjVTlrbnBIRm5GN0JhU016NEVfSi1TaHBXdTFtTjFPOGUxQjZmOGZXZk51a25iaDFEdzZzblRpWl9ucnJoTjFnYzBJSU5qblZXaEZhSk1nMWFVQ2xvempfY3J2azkwZlNJ?oc=5)
+
+---
+
+### [Survodutida: el nuevo agonista dual glucagón/GLP-1 que busca ir más allá de la pérdida de peso](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORk5WYVpMOXk4bDd0RlRTLXZkSXUwaFZRUE8xTDlJRnZMZ3YtRElWcDVDbFU4NHlPMWZzVXNoU1dPUWNzTGd4TTJ4RENDbGhIemZZbXdjZGJ2V2tadmpnbjAyaDBjOUFORHlfczNnSzhrWWRCVG1nMWN3X1BaSnJUYVprak1FMWtvNkFzOXZLYllvbE1HWlRhOVpCWk9FNXJ5QlJKQmlKckxieFpjOVFraE5rUjJsd0dz?oc=5)
+
+2026-06-21 <span class="news-indication-tag">obesidad</span>
+
+來源：[infomed.com.ar](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORk5WYVpMOXk4bDd0RlRTLXZkSXUwaFZRUE8xTDlJRnZMZ3YtRElWcDVDbFU4NHlPMWZzVXNoU1dPUWNzTGd4TTJ4RENDbGhIemZZbXdjZGJ2V2tadmpnbjAyaDBjOUFORHlfczNnSzhrWWRCVG1nMWN3X1BaSnJUYVprak1FMWtvNkFzOXZLYllvbE1HWlRhOVpCWk9FNXJ5QlJKQmlKckxieFpjOVFraE5rUjJsd0dz?oc=5)
+
+---
 
 ### [Dr. Javier Ampuero: «La obesidad y la diabetes están detrás del aumento de la enfermedad hepática»](https://news.google.com/rss/articles/CBMitwFBVV95cUxONHpFdlBWbW00bnpGSEU0WmVqaHd3NU43dV9kYy1aZVdBRWJhbGl4YmRRREE1QU5nUmVOX0hERGx0dmJrc0hnVVZPcTZ6eW5ORnRsM2l6ak1IRmVYWUdWRkp1clFMR0l2Z044dTA4bXl2Ry0wSjQ3NWFGVW5meHdPbXJQVXFwVVF5Y2VGLTIzSEpyb1NvZzhmeDF2ZVRlOFlPOEJ2M1hLU2FIeTRfVjJHblVua0VVVWfSAbwBQVVfeXFMT1ViMm1wTFNVX3NINk1JX0NiMDZVZTVfY0REWFp6dV9xY1lzakdmOWdjRFAzLS1xZ01fS0wyblQzdklzOE52aURCc0pYaWJWZURBazdFUUVFU2owVk5ETDUyajh1MlZtYlk0aXRESTRRcUJ3a0tZcXN6TldPZGEtblVFVHhtSy1yWGtobjJMN1pRZ2h0cjNSNmswV2ZTdllMS1JxcnlBd0MwYUthVUNaMm5wVGE1ek1rWExkQnE?oc=5)
 
@@ -86,27 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [La cara oculta del Ozempic: "El ejercicio no puede ser opcional", advierte la doctora Sajana Maharjan](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTdHLTI2ZXRRNHZhYlRwdU1MRFFjOTlsMDJQVlkwczVDWHdXRkVOd3IxOGhCd240QmxSSTA0cm9oMGloSnNraXljZDNPZkttOTF4U2M1cWViNW51TElRSEFmYm4xZ2VuUTVUYnFfNXo3ZF9yYWFHRDBnRmZVeWplaktSekg0d3hMS1QtaGZvX2RpY3hFVVVBdVFfT1hYRzlDUW5xVHU5VV9DVXBMY0NYcnhXZWJKY3hsamJ4OUdod3B0dzJfOHlXS0tjck42SnFkcmfSAdcBQVVfeXFMTkpwQW1UM0RMYzJyS1gxUFE2cmxPWHZGSGVCeHpKeFp2N2VzNnRKV3AzV2s4STVLbnU2VU9OTi15NWdaRzNUS25PaV9YeTNkZV9Wem0xaGN6blJVQXhoNUpMaVRRRlRCajIyMFhwamVJLWRuN1V2MDgwNWlxLU40cmMxcmtvRUdtcTUwZ2pXYW05cG5SU2tKUlcxalhuanRTYjFQb0JyRy1fdE5remg2NGNOWm5pcVZ1MWFtZkdOUEdCNmlrdzFkV0U3YVhYRFVvMm9uWTRjNm8?oc=5)
-
-2026-06-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTdHLTI2ZXRRNHZhYlRwdU1MRFFjOTlsMDJQVlkwczVDWHdXRkVOd3IxOGhCd240QmxSSTA0cm9oMGloSnNraXljZDNPZkttOTF4U2M1cWViNW51TElRSEFmYm4xZ2VuUTVUYnFfNXo3ZF9yYWFHRDBnRmZVeWplaktSekg0d3hMS1QtaGZvX2RpY3hFVVVBdVFfT1hYRzlDUW5xVHU5VV9DVXBMY0NYcnhXZWJKY3hsamJ4OUdod3B0dzJfOHlXS0tjck42SnFkcmfSAdcBQVVfeXFMTkpwQW1UM0RMYzJyS1gxUFE2cmxPWHZGSGVCeHpKeFp2N2VzNnRKV3AzV2s4STVLbnU2VU9OTi15NWdaRzNUS25PaV9YeTNkZV9Wem0xaGN6blJVQXhoNUpMaVRRRlRCajIyMFhwamVJLWRuN1V2MDgwNWlxLU40cmMxcmtvRUdtcTUwZ2pXYW05cG5SU2tKUlcxalhuanRTYjFQb0JyRy1fdE5remg2NGNOWm5pcVZ1MWFtZkdOUEdCNmlrdzFkV0U3YVhYRFVvMm9uWTRjNm8?oc=5)
-
----
-
 ### [Vieillissement, Alzheimer, AVC : pourquoi certains cerveaux résistent mieux que d’autres - Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxORTRON0V2dDVOa19DWWJMOUtvODIwaFVad2szelJkNW1DbWhEVkdqUXh2Ukd1RXpWRzZvaVBvRi0xdk15dDJCOWVUWHNpd2s2d1MzTXdqU0tkMWVYYW9EUnh6LWlYUWQ0alp3UTBvV2YwdTJIcUNQQlhYNDRQSWNQSDEyNUMtVnlRR0hhZVJYVUM1Um9fNURib1U2ZjU1R0NHejd1c0lzcFNZaF9ZZVh0Y2tfM2k3TVAtdF9fNUYzNkhiVlU1MEEw?oc=5)
 
 2026-06-20 <span class="news-indication-tag">AVC</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxORTRON0V2dDVOa19DWWJMOUtvODIwaFVad2szelJkNW1DbWhEVkdqUXh2Ukd1RXpWRzZvaVBvRi0xdk15dDJCOWVUWHNpd2s2d1MzTXdqU0tkMWVYYW9EUnh6LWlYUWQ0alp3UTBvV2YwdTJIcUNQQlhYNDRQSWNQSDEyNUMtVnlRR0hhZVJYVUM1Um9fNURib1U2ZjU1R0NHejd1c0lzcFNZaF9ZZVh0Y2tfM2k3TVAtdF9fNUYzNkhiVlU1MEEw?oc=5)
-
----
-
-### [Burgos cuadruplica en cinco años el consumo de Ozempic y otros nuevos medicamentos para adelgazar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW1yVFo4U1l6QllnRFpWTWtMc2t4ci1aM1VXVnNBd1BUUUVmYnU2aVhBQ1VZcmM2TzdfdXAtVW9nN1hDS2FHbjctVS1zc0k5Tm5XeHVZbWFQZk9wam43NjJFUE5zVFZRLXVHX3V4WFhFOHEwekltUW1raTRVc1Y5bEtMV2hKdFQxclNjZVQ0V3hJNndRbk45cklWT0ZvdTBkMGdGR3N0c01MNzBZd0tWeTVxQnU?oc=5)
-
-2026-06-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[BURGOSconecta](https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW1yVFo4U1l6QllnRFpWTWtMc2t4ci1aM1VXVnNBd1BUUUVmYnU2aVhBQ1VZcmM2TzdfdXAtVW9nN1hDS2FHbjctVS1zc0k5Tm5XeHVZbWFQZk9wam43NjJFUE5zVFZRLXVHX3V4WFhFOHEwekltUW1raTRVc1Y5bEtMV2hKdFQxclNjZVQ0V3hJNndRbk45cklWT0ZvdTBkMGdGR3N0c01MNzBZd0tWeTVxQnU?oc=5)
 
 ---
 
@@ -126,19 +126,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Wegovy-Mounjaro : les consignes pour éviter les indus - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
+### [Médico israelí destaca que los medicamentos para la obesidad podrían tener beneficios más amplios para la salud - - AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTDVVYzJYZUxLc083MkJxeGtGaV84MFdPeWxXMUdyWkRUTWlIMjVZRUUxeFVDTGRUa2RpUjdYM1RuaXZRSFJabkgxTl9UVE9tOVZVY0R1bXBicEFTLXJic3J1UVdYWVM3OFRiRzNWSDhsWFVtVTBtbFA2ajZ6WEE5ZC1ZUnE1eFhIU2htS3lEZnZVVDBfV1BpT1I1eU5OVHBSdVhPUW1rdzBoOC1JNzAwUkR5VzEzeXRaWFdQSXVyV29hVGcxVnRKd1hqTDJZWklSOHhEd0VDdUlwb3pPYmdKXzM0OA?oc=5)
 
-2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+2026-06-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnpQVWdhbVowREIwa2JDSWpjbE1BQTNHMllET3JIUENpeGtlczRrZF85eXRGY2lLZXdkTVR5ZXJQWFFEMFlsNllBQXQ1UFdYblRlYzh1S2J2bHZkTnBEajhIWXlwejNjcjFPSlhnd3ZNaVpoV2loaDd3bzVRZVNkbkotR0ZSdEdyQXF1MjRlSXlMZlVKcVRNRjhTSm9nYXQ3TEdfQmFwU29HNFpuRlNpR2ZhWjRfT0I4VldqRm9R?oc=5)
-
----
-
-### [Obesidad en Asturias: los estereotipos impiden comprender su origen multifactorial](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlB2dV9aYzRNZWZzejdSN21lX29xM2R1Z3g0a3JiZzh6NDlvaU1zT3FGX1owS3FwaFhTVXM4VUNjYUc1b1Z0MHdXUlNEb0I4eERPaE1zeVRaNUU2YnAyb01Rc2VpSEVrLWFHRWRTczBfTzRUUklmYzdaenE0Nmo1bVpBaTNCZlVpTlE0?oc=5)
-
-2026-06-19 <span class="news-indication-tag">obesidad</span>
-
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlB2dV9aYzRNZWZzejdSN21lX29xM2R1Z3g0a3JiZzh6NDlvaU1zT3FGX1owS3FwaFhTVXM4VUNjYUc1b1Z0MHdXUlNEb0I4eERPaE1zeVRaNUU2YnAyb01Rc2VpSEVrLWFHRWRTczBfTzRUUklmYzdaenE0Nmo1bVpBaTNCZlVpTlE0?oc=5)
+來源：[- AJN Agencia de Noticias](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTDVVYzJYZUxLc083MkJxeGtGaV84MFdPeWxXMUdyWkRUTWlIMjVZRUUxeFVDTGRUa2RpUjdYM1RuaXZRSFJabkgxTl9UVE9tOVZVY0R1bXBicEFTLXJic3J1UVdYWVM3OFRiRzNWSDhsWFVtVTBtbFA2ajZ6WEE5ZC1ZUnE1eFhIU2htS3lEZnZVVDBfV1BpT1I1eU5OVHBSdVhPUW1rdzBoOC1JNzAwUkR5VzEzeXRaWFdQSXVyV29hVGcxVnRKd1hqTDJZWklSOHhEd0VDdUlwb3pPYmdKXzM0OA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/voclosporin/
 ---
 
 <p class="key-answer" data-question="Voclosporin 有什麼相關新聞？">
-<strong>Voclosporin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voclosporin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/voclosporin/
 <p><a href="{{ '/drugs/voclosporin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [Core-Training senkt Diabetes-Risiko: Zehn Prozent weniger viszerales Fett - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUNLby1zTmRSZ1hISFFiTkpHMEs2Z25pZGNYZ1QyZ21Hek1HLTRQVHRUam01N2N0UGRpbEVlcDg2bmw4X0xaN2I3emUyZ1pIZ0IwTktqNVlROEN0SkJRaVotcnNzdnRJbVdtN0ZESDFFZmdYZ3E1MksyRHpHNVBad3VKYUtWaWY3SGZadWtPYUVhS1lxbTVRUERVQkQ0eWEwMzZYRm1KZlNBQjRlTHVvRFBlSmJudVM0X0Q5MG1B?oc=5)
+
+2026-06-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUNLby1zTmRSZ1hISFFiTkpHMEs2Z25pZGNYZ1QyZ21Hek1HLTRQVHRUam01N2N0UGRpbEVlcDg2bmw4X0xaN2I3emUyZ1pIZ0IwTktqNVlROEN0SkJRaVotcnNzdnRJbVdtN0ZESDFFZmdYZ3E1MksyRHpHNVBad3VKYUtWaWY3SGZadWtPYUVhS1lxbTVRUERVQkQ0eWEwMzZYRm1KZlNBQjRlTHVvRFBlSmJudVM0X0Q5MG1B?oc=5)
+
+---
+
+### [Demenz-Prävention: Diabetes-Medikamente senken Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjhaWDhzTlVJN1IzTVFEZWNIZVhBTXRyOXdLaGpxa3o5OFRleGYzazh5MUNCSzFBdnBVVjEzYkpVUTdXV0QxczNBS2p0bFdiam1CQXpDTDJDZGRySXVBQ1VrcUZVSU9vQXItVHp3Q1AyV25uOWxtNEE0aXJ2cGVxRmZIWVNqck1HQUo2UTd0YVNHdmZNR0JDQVRWZlVSbVNGQkhZSFVycVhuNS1JcU1aRE5XclBZZ2M?oc=5)
+
+2026-06-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjhaWDhzTlVJN1IzTVFEZWNIZVhBTXRyOXdLaGpxa3o5OFRleGYzazh5MUNCSzFBdnBVVjEzYkpVUTdXV0QxczNBS2p0bFdiam1CQXpDTDJDZGRySXVBQ1VrcUZVSU9vQXItVHp3Q1AyV25uOWxtNEE0aXJ2cGVxRmZIWVNqck1HQUo2UTd0YVNHdmZNR0JDQVRWZlVSbVNGQkhZSFVycVhuNS1JcU1aRE5XclBZZ2M?oc=5)
+
+---
+
+### [La diabetes gestacional, un importante indicador del riesgo de desarrollar diabetes tipo 2](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYmdsMDBsa3Zvc3cyRDdGczdJdmpROFRDMzNFYlNDamQ4ZHBtLWtqeVNZMzlnSmdQSllhRUVRWlhZbDV6SVpQb2RLSzNmcDF4bUV6U19YRUVvdzVYTlVkdE9sOFh5Mmt5TVNUT0pCX0FVNk9KWHlXenE0YzJVeUNKeXNveDRzOUlzOTRjZllUY2xQZWRzQl9kMjdOT3Q1RnlONWJkb2NVWjNPM0RRY2dwWlVXREVyYWl3VURSbEpPMzNYVlRkTDE4?oc=5)
+
+2026-06-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYmdsMDBsa3Zvc3cyRDdGczdJdmpROFRDMzNFYlNDamQ4ZHBtLWtqeVNZMzlnSmdQSllhRUVRWlhZbDV6SVpQb2RLSzNmcDF4bUV6U19YRUVvdzVYTlVkdE9sOFh5Mmt5TVNUT0pCX0FVNk9KWHlXenE0YzJVeUNKeXNveDRzOUlzOTRjZllUY2xQZWRzQl9kMjdOT3Q1RnlONWJkb2NVWjNPM0RRY2dwWlVXREVyYWl3VURSbEpPMzNYVlRkTDE4?oc=5)
+
+---
 
 ### [Daily 'fountain of youth' drink could lower dementia and diabetes risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5)
 
@@ -67,14 +91,6 @@ permalink: /news/voclosporin/
 2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMitwFBVV95cUxONHpFdlBWbW00bnpGSEU0WmVqaHd3NU43dV9kYy1aZVdBRWJhbGl4YmRRREE1QU5nUmVOX0hERGx0dmJrc0hnVVZPcTZ6eW5ORnRsM2l6ak1IRmVYWUdWRkp1clFMR0l2Z044dTA4bXl2Ry0wSjQ3NWFGVW5meHdPbXJQVXFwVVF5Y2VGLTIzSEpyb1NvZzhmeDF2ZVRlOFlPOEJ2M1hLU2FIeTRfVjJHblVua0VVVWfSAbwBQVVfeXFMT1ViMm1wTFNVX3NINk1JX0NiMDZVZTVfY0REWFp6dV9xY1lzakdmOWdjRFAzLS1xZ01fS0wyblQzdklzOE52aURCc0pYaWJWZURBazdFUUVFU2owVk5ETDUyajh1MlZtYlk0aXRESTRRcUJ3a0tZcXN6TldPZGEtblVFVHhtSy1yWGtobjJMN1pRZ2h0cjNSNmswV2ZTdllMS1JxcnlBd0MwYUthVUNaMm5wVGE1ek1rWExkQnE?oc=5)
-
----
-
-### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVMxY1gxSEJBa19Ya3VKX1c4d3J4UmhJbHhTVWlEYjF3OU54NEpDLTNfa2xENmxBWkJ5bnVLcDg5eDAxck1DRzJhbWUtSXNXajRzQU9BX1N1eVZhdGZUZjhkd3FmTkU4cHl1TlVWMHR1dW03aUhYSmIxV2RQRjlFaFhzUkdBRDFEMnRwU29oVXg5RWlJWTFlVV82TGhGZ1Q2M05SZ2ltcElTVUFZT1hHTGRQaXVtQk0?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVMxY1gxSEJBa19Ya3VKX1c4d3J4UmhJbHhTVWlEYjF3OU54NEpDLTNfa2xENmxBWkJ5bnVLcDg5eDAxck1DRzJhbWUtSXNXajRzQU9BX1N1eVZhdGZUZjhkd3FmTkU4cHl1TlVWMHR1dW03aUhYSmIxV2RQRjlFaFhzUkdBRDFEMnRwU29oVXg5RWlJWTFlVV82TGhGZ1Q2M05SZ2ltcElTVUFZT1hHTGRQaXVtQk0?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ permalink: /news/voclosporin/
 
 ---
 
-### [10% weniger viszerales Bauchfett senkt Typ-2-Diabetes-Risiko stark - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPWUI2WHNsTm5sZGdEdDZXX0V0bmVHZ1UxQXVFYjU3c0RJaXdaWW1TcW82cldJNVdIUkF5Zm1Bd2xLLW43Rk1QbEpqSnRfN21QTTBHb0xaMURwZmhhbF9JUW5tQXc1bFBIdnN6Z1c5SmYyYXNvYUgtYkFOZFktU0dyZWE3V2xnT21ITFFvZzBPeWFmY3RONm9ZUzlTQWlsQQ?oc=5)
+### [Qué es la prediabetes y cómo detectarla a tiempo para prevenir la diabetes tipo 2](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGdDeUtkemFxVFZmN1NZa3dzSHBiZGYwaE9wVWNUWGJIZGUzUTZMMDVWUDBBN1VqYjBzektaTmhSdHIyUzJjajMyRHVTQXdvaTBNR1BlMUtNcF9jakVaXzdTeEE5cC03aExqRlZIZDdxUHAxWjRKTUJfc0FKMUpoSGJLU3NUZGlFenZzRTk4T053ZURzbWxLTTl1SjhvZ3J1UXhjaVkxUEhDNFdzTEVXYm5qSWNtazJicWZlbXBtb27SAdsBQVVfeXFMUG5oMUNMRzFBeFNQVU9VS0NPVktwWVJGbDNHSWlsRkRHVzRCOXBadzRFV2YwcjRoWHZCYnNSUmwtSy1UNmpnMWliNURMQ195LXh5a25HZEQtMkFDQmtPN3hKSnc0M3VuZ0dfMXppNXYtNmFtRVRZT09sUXVTTndOUS12Xy1pQjFoUDhpZ2RZbFpqbVdESnRXYkZEUXJYY3RsZGFTejhTekFRTUUzV3dRZE96ZVBQOFhfOXQ2dGVOMmc3aWR2YTR5dzNTTW5NQnFZTXdoSlVXSGpoanlj?oc=5)
 
 2026-06-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPWUI2WHNsTm5sZGdEdDZXX0V0bmVHZ1UxQXVFYjU3c0RJaXdaWW1TcW82cldJNVdIUkF5Zm1Bd2xLLW43Rk1QbEpqSnRfN21QTTBHb0xaMURwZmhhbF9JUW5tQXc1bFBIdnN6Z1c5SmYyYXNvYUgtYkFOZFktU0dyZWE3V2xnT21ITFFvZzBPeWFmY3RONm9ZUzlTQWlsQQ?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGdDeUtkemFxVFZmN1NZa3dzSHBiZGYwaE9wVWNUWGJIZGUzUTZMMDVWUDBBN1VqYjBzektaTmhSdHIyUzJjajMyRHVTQXdvaTBNR1BlMUtNcF9jakVaXzdTeEE5cC03aExqRlZIZDdxUHAxWjRKTUJfc0FKMUpoSGJLU3NUZGlFenZzRTk4T053ZURzbWxLTTl1SjhvZ3J1UXhjaVkxUEhDNFdzTEVXYm5qSWNtazJicWZlbXBtb27SAdsBQVVfeXFMUG5oMUNMRzFBeFNQVU9VS0NPVktwWVJGbDNHSWlsRkRHVzRCOXBadzRFV2YwcjRoWHZCYnNSUmwtSy1UNmpnMWliNURMQ195LXh5a25HZEQtMkFDQmtPN3hKSnc0M3VuZ0dfMXppNXYtNmFtRVRZT09sUXVTTndOUS12Xy1pQjFoUDhpZ2RZbFpqbVdESnRXYkZEUXJYY3RsZGFTejhTekFRTUUzV3dRZE96ZVBQOFhfOXQ2dGVOMmc3aWR2YTR5dzNTTW5NQnFZTXdoSlVXSGpoanlj?oc=5)
 
 ---
 
@@ -110,11 +126,19 @@ permalink: /news/voclosporin/
 
 ---
 
-### [Cuidar las encías puede ayudar a controlar la diabetes tanto como un segundo fármaco](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzM1ZEVoZXlTLXBGMjBxQXV3VV9UVjR2aHVrOFhMTWRmbERtSnZZTDZTekRCSC10d09Cd1J6Z2cwX19vbmE2ZFBWdkNmLUQ0QUJYWnRvYkdIeXZweEhaVWRmSHhiQ0p6eWlHV3R0YlhiZ2pUbHNxdDM4SjV1Y2V6X3d4eXlaaUIwTEhnZ0ZmUDJqd9IBkgFBVV95cUxOMGRYQjBNU3hYdHRsS0lZT3VVNHRWRFdWZlE1bDJPQktHN242REo1RHlLNnlRaDRWM21ZTzhiZGhuRG1WN3NGX2tYZDJjeFE4c2R1cFpycHk4eDZsVzhneVpLOEhvQmtxWmMwT2NaelNGV2YzV1B6NE5zSS1INmNOakcyaWJfNHZtNlN3aFRyTnNwdw?oc=5)
+### [Ozempic podría reducir el riesgo de fracturas, según un estudio](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2toWkdoNWdBck44TDhMVE9VUUJhbXVna0FIcVFaT09oODdTdUxXV2tybk8yR3hfZFhWakI5cVA1MGh6WmxyUFpmMEhKOTFnVWJkMWNOUDMwM01mN2NmUEJxWXVNZjJBNWlpdWVfLW1aU0VVcTZCNWtqY3ppUFNkNm5oaUtIYnZydWFNUmFBaE5NTG9nSll3VV92bFpBN2lRUnJXN00xc9IBwgFBVV95cUxNQUlVNGJVU01zTEtscVdmTVp1aUxFaTNHNDBleW5LZ2QwSWhXMzdiVmp3cHdnWmJtSlBnTGxRVnFtZWtWTTJybzVHZmt4UGs1b3dwSXhxR2JHUG51ekF2YzJ2RkVDZXRlQ0RTRFM1dTFicExNaU5heW9hZDZhc0poRloxZWpGaEtpRGFEVERfUFJTWlFIMy1ialR6RG9SelYtVzYtMDFIT2UwQV9FMDI5T1RNZUdKTG0yU1ZJQzllSmhmZw?oc=5)
 
-2026-06-20 <span class="news-indication-tag">diabetes</span>
+2026-06-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[SPORT](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzM1ZEVoZXlTLXBGMjBxQXV3VV9UVjR2aHVrOFhMTWRmbERtSnZZTDZTekRCSC10d09Cd1J6Z2cwX19vbmE2ZFBWdkNmLUQ0QUJYWnRvYkdIeXZweEhaVWRmSHhiQ0p6eWlHV3R0YlhiZ2pUbHNxdDM4SjV1Y2V6X3d4eXlaaUIwTEhnZ0ZmUDJqd9IBkgFBVV95cUxOMGRYQjBNU3hYdHRsS0lZT3VVNHRWRFdWZlE1bDJPQktHN242REo1RHlLNnlRaDRWM21ZTzhiZGhuRG1WN3NGX2tYZDJjeFE4c2R1cFpycHk4eDZsVzhneVpLOEhvQmtxWmMwT2NaelNGV2YzV1B6NE5zSS1INmNOakcyaWJfNHZtNlN3aFRyTnNwdw?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2toWkdoNWdBck44TDhMVE9VUUJhbXVna0FIcVFaT09oODdTdUxXV2tybk8yR3hfZFhWakI5cVA1MGh6WmxyUFpmMEhKOTFnVWJkMWNOUDMwM01mN2NmUEJxWXVNZjJBNWlpdWVfLW1aU0VVcTZCNWtqY3ppUFNkNm5oaUtIYnZydWFNUmFBaE5NTG9nSll3VV92bFpBN2lRUnJXN00xc9IBwgFBVV95cUxNQUlVNGJVU01zTEtscVdmTVp1aUxFaTNHNDBleW5LZ2QwSWhXMzdiVmp3cHdnWmJtSlBnTGxRVnFtZWtWTTJybzVHZmt4UGs1b3dwSXhxR2JHUG51ekF2YzJ2RkVDZXRlQ0RTRFM1dTFicExNaU5heW9hZDZhc0poRloxZWpGaEtpRGFEVERfUFJTWlFIMy1ialR6RG9SelYtVzYtMDFIT2UwQV9FMDI5T1RNZUdKTG0yU1ZJQzllSmhmZw?oc=5)
+
+---
+
+### [Gerardo Ochoa, experto en diabetes: "El problema de hoy en día es que se prioriza la comodidad y el placer antes que el bienestar" - Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0l5bGVramN4QWRTZlN3MzlNNi1fZktaMmFFWVhMbkZLMmsxc2pGUUFieTl2Z2ZnX19YajE5cTZjZmd1Tm5EQWdJcGlPQy1PVDBnYlVUcmxZOWQxUlBWaXdpR2pvRExXSnNjN0lvN0tiWm9jd3djXzVieXByc2t3MkhtSjIxMl83VWhHcjVVVmVPeU5nZTl0eU8yaVIwT2lPYVk3dTRwSlE2V0lRVzFhQm1ZQnBYUVVpOXJYbHBINFBmRHk3Qng4MHpRcUY4LXBmRXBLbHE1MzBPczViSG44b0pvOA?oc=5)
+
+2026-06-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb0l5bGVramN4QWRTZlN3MzlNNi1fZktaMmFFWVhMbkZLMmsxc2pGUUFieTl2Z2ZnX19YajE5cTZjZmd1Tm5EQWdJcGlPQy1PVDBnYlVUcmxZOWQxUlBWaXdpR2pvRExXSnNjN0lvN0tiWm9jd3djXzVieXByc2t3MkhtSjIxMl83VWhHcjVVVmVPeU5nZTl0eU8yaVIwT2lPYVk3dTRwSlE2V0lRVzFhQm1ZQnBYUVVpOXJYbHBINFBmRHk3Qng4MHpRcUY4LXBmRXBLbHE1MzBPczViSG44b0pvOA?oc=5)
 
 ---
 
