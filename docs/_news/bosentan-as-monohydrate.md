@@ -14,7 +14,7 @@ permalink: /news/bosentan-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="Bosentan (As Monohydrate) 有什麼相關新聞？">
-<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/bosentan-as-monohydrate/
 <p><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Arthritis: Protein Pim1 als neuer Angriffspunkt identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
+
+---
+
+### [Risiko durch Konservierungsstoffe? Diese acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOW5kUlNOVWk5M0ZjV09vWS1kU1dhRjhUSFBEMHFaeGZrcVVqeTdGOEx1N0w1cFBvS0dSdFRYTmNjbHhyaW9yMmxULWE0X0xjQjlzZGppSHpUWUNHVWRxLWVYLWdJekpKNU1IZ3hVYXJDekNnN2djS3FUY3NDd1hTVTBKSzZ0UXE5aHR6TExmUjdwQmxNbVI5dHREbV9vdEIyeEFJcXpUNGZOcS1yMXJRNFFCOGNmWWprWmp5azE1QmMwUjFOQmNJcDRUQ0hIVzNVVmc?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ntv](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOW5kUlNOVWk5M0ZjV09vWS1kU1dhRjhUSFBEMHFaeGZrcVVqeTdGOEx1N0w1cFBvS0dSdFRYTmNjbHhyaW9yMmxULWE0X0xjQjlzZGppSHpUWUNHVWRxLWVYLWdJekpKNU1IZ3hVYXJDekNnN2djS3FUY3NDd1hTVTBKSzZ0UXE5aHR6TExmUjdwQmxNbVI5dHREbV9vdEIyeEFJcXpUNGZOcS1yMXJRNFFCOGNmWWprWmp5azE1QmMwUjFOQmNJcDRUQ0hIVzNVVmc?oc=5)
+
+---
+
+### [Si la climatisation de votre voiture fait ça, coupez-la tout de suite ! - CCM - Comment Ça Marche](https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdmlta2g4c01icElseDdaV0Y1eVpDUE5JTmVoa3c4MzhCR1RCd3dWekloWW0wR19uM2l6WFRTaWp5cDQzOF83U0R1bkp5aUk5Y211eXhwNl85MXdUY1hfMWN0S1BPX29GLURCRW1Wdw?oc=5)
+
+2026-06-22 <span class="news-indication-tag">arthrite</span>
+
+來源：[CCM - Comment Ça Marche](https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdmlta2g4c01icElseDdaV0Y1eVpDUE5JTmVoa3c4MzhCR1RCd3dWekloWW0wR19uM2l6WFRTaWp5cDQzOF83U0R1bkp5aUk5Y211eXhwNl85MXdUY1hfMWN0S1BPX29GLURCRW1Wdw?oc=5)
+
+---
 
 ### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/bosentan-as-monohydrate/
 
 ---
 
-### [La clim ne donne pas le rhume, mais peut vous jouer des tours - Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
+### [Heatwave blood pressure warning as pharmacist flags 'bad combination' of temperature and humidity - GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
 
-2026-06-21 <span class="news-indication-tag">arthrite</span>
+2026-06-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/bosentan-as-monohydrate/
 2026-06-21 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEltb0l0MFJLd0dXY1hhYWZLSWVCREdYLVR4OU1VWk9yUkU5UUlFT3lsSXlnOXg5Z1I1czFrRTB0M1FzTmJ2eVlnb2ZQeExFMXFhZnZISVNEYlhIaFlxU3pWSE5WNjJNeHpOdmwtOG9FeDlOUHFVaFpxWXdQckQxd2Z2VmhraFNVQTduWlJhT05FUEJiaXJPdTFmbW5fdFJIR0lPbzhTTXI4UWRhN3R2RFI2Y0UzSUJYNnhCeQ?oc=5)
-
----
-
-### [From birth defects to arthritis and asthma - the cleaning products harming your family’s health, experts warn - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
-
-2026-06-20 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
 
 ---
 

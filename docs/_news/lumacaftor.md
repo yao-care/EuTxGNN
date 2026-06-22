@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="Lumacaftor 有什麼相關新聞？">
-<strong>Lumacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lumacaftor</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,63 @@ permalink: /news/lumacaftor/
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（10 則）
+
+### [Arthritis: Protein Pim1 als neuer Angriffspunkt identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
+
+---
+
+### [Risiko durch Konservierungsstoffe? Diese acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOW5kUlNOVWk5M0ZjV09vWS1kU1dhRjhUSFBEMHFaeGZrcVVqeTdGOEx1N0w1cFBvS0dSdFRYTmNjbHhyaW9yMmxULWE0X0xjQjlzZGppSHpUWUNHVWRxLWVYLWdJekpKNU1IZ3hVYXJDekNnN2djS3FUY3NDd1hTVTBKSzZ0UXE5aHR6TExmUjdwQmxNbVI5dHREbV9vdEIyeEFJcXpUNGZOcS1yMXJRNFFCOGNmWWprWmp5azE1QmMwUjFOQmNJcDRUQ0hIVzNVVmc?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ntv](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOW5kUlNOVWk5M0ZjV09vWS1kU1dhRjhUSFBEMHFaeGZrcVVqeTdGOEx1N0w1cFBvS0dSdFRYTmNjbHhyaW9yMmxULWE0X0xjQjlzZGppSHpUWUNHVWRxLWVYLWdJekpKNU1IZ3hVYXJDekNnN2djS3FUY3NDd1hTVTBKSzZ0UXE5aHR6TExmUjdwQmxNbVI5dHREbV9vdEIyeEFJcXpUNGZOcS1yMXJRNFFCOGNmWWprWmp5azE1QmMwUjFOQmNJcDRUQ0hIVzNVVmc?oc=5)
+
+---
+
+### [Chaleur, soleil, lumière : l’été met les migraineux à rude épreuve](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
+
+2026-06-22 <span class="news-indication-tag">migraine</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
+
+---
+
+### [Las cefaleas empeoran con las altas temperaturas, pero rara vez son la causa directa del dolor](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXQ3NFR2NmJON0xzellfQ1JnOGNHT1NnazlTYXdOUFVmTHNLVXNxaFNKdmg2djFqQjhWTlJtdzZSc1Z4MFBXRkZLTzJHQ0ZmN0F2Y1hSckZzMC1jUmhxTHAtNnFoT1p2cHFIY3ptQkU1dVNiMEFGcnJya3hmLW9FVDNoMzd3dnhYMElpaWdKekdyZ1N0akJYMzExRVhFQlRhNmlyZU5RRHRFTi1OcFZkMDhlQk9aNzY5MWlCcw?oc=5)
+
+2026-06-22 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXQ3NFR2NmJON0xzellfQ1JnOGNHT1NnazlTYXdOUFVmTHNLVXNxaFNKdmg2djFqQjhWTlJtdzZSc1Z4MFBXRkZLTzJHQ0ZmN0F2Y1hSckZzMC1jUmhxTHAtNnFoT1p2cHFIY3ptQkU1dVNiMEFGcnJya3hmLW9FVDNoMzd3dnhYMElpaWdKekdyZ1N0akJYMzExRVhFQlRhNmlyZU5RRHRFTi1OcFZkMDhlQk9aNzY5MWlCcw?oc=5)
+
+---
+
+### [Deutsche Akademie für Präventivmedizin fordert mindestens 20 Euro pro Schachtel Zigaretten](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Migräne</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
+
+---
+
+### [Si la climatisation de votre voiture fait ça, coupez-la tout de suite ! - CCM - Comment Ça Marche](https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdmlta2g4c01icElseDdaV0Y1eVpDUE5JTmVoa3c4MzhCR1RCd3dWekloWW0wR19uM2l6WFRTaWp5cDQzOF83U0R1bkp5aUk5Y211eXhwNl85MXdUY1hfMWN0S1BPX29GLURCRW1Wdw?oc=5)
+
+2026-06-22 <span class="news-indication-tag">arthrite</span>
+
+來源：[CCM - Comment Ça Marche](https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdmlta2g4c01icElseDdaV0Y1eVpDUE5JTmVoa3c4MzhCR1RCd3dWekloWW0wR19uM2l6WFRTaWp5cDQzOF83U0R1bkp5aUk5Y211eXhwNl85MXdUY1hfMWN0S1BPX29GLURCRW1Wdw?oc=5)
+
+---
+
+### [Los datos respaldan el tratamiento anti-CGRP intravenoso en migraña crónica - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWt4QkIwMi10Q0JuOXJzNTFDTkZzSV84WmZEbm54WTBPZUx6NF9fWnZ2MmR3T3NodmRMWktZUmFFWXg0cW9UYlM2cGJ0aVpER1pmeFlXaGgyTDJhT2ZhQ3JPdndEXzFxTEdZWlNJekVNNU10WEdzRlh6V2FIRG01SGRUVVRlanBRc1FDNnZ1Q2V0Q3ZjRUNWTF9kekRPMmhEcU16ZEozcE93N1E4SEtDeG40TU82YmJFNFNpRGF6Q2NyOTJXblhqY3pVNlDSAcwBQVVfeXFMTTIwNk1fMU01Zk95TzJ5YnhhNGxDZzdfcWVQSDFUZFJKNGU4YlN5YlhqS3dZaXJSRXZubkVMTXl0WWRfQ3RxMmFnYjRQTU5uZVkzMmY5VHJrU0tXTTRMempEMFBENkdVaEMyQUhjTXR2QjduWTlleTN4YjhuZDlYWFlqbF9NdEROOGtfQ3pJbkFXWFpZaC1icXdEbnhsb1VZdW45MUthRTA5YTl2ZFRwTlBNdWJPcjk2QjFUVTNwcmt4U19mUHBaSGZlSWF6?oc=5)
+
+2026-06-22 <span class="news-indication-tag">migraña</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWt4QkIwMi10Q0JuOXJzNTFDTkZzSV84WmZEbm54WTBPZUx6NF9fWnZ2MmR3T3NodmRMWktZUmFFWXg0cW9UYlM2cGJ0aVpER1pmeFlXaGgyTDJhT2ZhQ3JPdndEXzFxTEdZWlNJekVNNU10WEdzRlh6V2FIRG01SGRUVVRlanBRc1FDNnZ1Q2V0Q3ZjRUNWTF9kekRPMmhEcU16ZEozcE93N1E4SEtDeG40TU82YmJFNFNpRGF6Q2NyOTJXblhqY3pVNlDSAcwBQVVfeXFMTTIwNk1fMU01Zk95TzJ5YnhhNGxDZzdfcWVQSDFUZFJKNGU4YlN5YlhqS3dZaXJSRXZubkVMTXl0WWRfQ3RxMmFnYjRQTU5uZVkzMmY5VHJrU0tXTTRMempEMFBENkdVaEMyQUhjTXR2QjduWTlleTN4YjhuZDlYWFlqbF9NdEROOGtfQ3pJbkFXWFpZaC1icXdEbnhsb1VZdW45MUthRTA5YTl2ZFRwTlBNdWJPcjk2QjFUVTNwcmt4U19mUHBaSGZlSWF6?oc=5)
+
+---
 
 ### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
 
@@ -62,11 +118,11 @@ permalink: /news/lumacaftor/
 
 ---
 
-### [La clim ne donne pas le rhume, mais peut vous jouer des tours - Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
+### [Heatwave blood pressure warning as pharmacist flags 'bad combination' of temperature and humidity - GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
 
-2026-06-21 <span class="news-indication-tag">arthrite</span>
+2026-06-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
 
 ---
 
@@ -75,22 +131,6 @@ permalink: /news/lumacaftor/
 2026-06-21 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEltb0l0MFJLd0dXY1hhYWZLSWVCREdYLVR4OU1VWk9yUkU5UUlFT3lsSXlnOXg5Z1I1czFrRTB0M1FzTmJ2eVlnb2ZQeExFMXFhZnZISVNEYlhIaFlxU3pWSE5WNjJNeHpOdmwtOG9FeDlOUHFVaFpxWXdQckQxd2Z2VmhraFNVQTduWlJhT05FUEJiaXJPdTFmbW5fdFJIR0lPbzhTTXI4UWRhN3R2RFI2Y0UzSUJYNnhCeQ?oc=5)
-
----
-
-### ["Arrachez-moi la tête" : le calvaire de Miren, Montpelliéraine devenue invalide à cause de migraines chroniques infernales - Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ0lwVGhBeUlOeXQtXzdLMTI1Z01DcTBuRzdSWmxaaGktRDczNEpBaTYyblp6Z1laMmFfU1FpTjMtUXlxRzhSaXJtdVFQX001ZE1ZazVkVkVieHBIbTVZWVdCQkY2RUtqVmFlM0JsMFZJdnRtajliS3AxbTU1WE1IUG1zSExhc1JuZ1VfekEwMDRFZXVlVXRfUk5WaThXWTlKcGIzY2RwNHhXWkRiVDJuVElCRjFiS1haR3l3ZUY2Y0hXZ3dlNjlpLXFQSi1ubGlkR0JOSF9Cd0ZhUXdmbHYzLVQzeEVQU2tqSF9VZ0JjbEdKQjJiYXgzNDVn?oc=5)
-
-2026-06-21 <span class="news-indication-tag">migraine</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ0lwVGhBeUlOeXQtXzdLMTI1Z01DcTBuRzdSWmxaaGktRDczNEpBaTYyblp6Z1laMmFfU1FpTjMtUXlxRzhSaXJtdVFQX001ZE1ZazVkVkVieHBIbTVZWVdCQkY2RUtqVmFlM0JsMFZJdnRtajliS3AxbTU1WE1IUG1zSExhc1JuZ1VfekEwMDRFZXVlVXRfUk5WaThXWTlKcGIzY2RwNHhXWkRiVDJuVElCRjFiS1haR3l3ZUY2Y0hXZ3dlNjlpLXFQSi1ubGlkR0JOSF9Cd0ZhUXdmbHYzLVQzeEVQU2tqSF9VZ0JjbEdKQjJiYXgzNDVn?oc=5)
-
----
-
-### [From birth defects to arthritis and asthma - the cleaning products harming your family’s health, experts warn - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
-
-2026-06-20 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bzFZTDk4NTZGOFRFN1lWd2VTa3h4YWdGT1pWWjJmMGVjWXJkMDZGZVpNQXJxdnZuSDVzd00wTGp2VFhKUWdqQzFwNUNfOFFtRkhHSVFtX1lBTHBPTkxHeDR1UlZxTXh5VFJ1aV9KbGY3VEVGSXFtQWlvUQ?oc=5)
 
 ---
 

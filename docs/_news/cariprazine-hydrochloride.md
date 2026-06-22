@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,45 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
+
+### [Africa can end Aids on its own terms. Will the world back us to finish the job? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
+
+---
+
+### [Atender mejor a migrantes y practicantes del chemsex con VIH](https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUUhzVFQwLU5ES05RWFpzY0IzS00xNjFkZ0FReXZWLTlIX0F0djhkMmNOamNISkd1MnYxTG9xUnBYRVA1SHpwYVQ5Rm85VG8wVVhVWnZoSjAwa2gxN0JuSnpsN0ZZV2lXSDIwYzZLdGQ1RUhwblBPRFZxdHd6UQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[EFESalud](https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUUhzVFQwLU5ES05RWFpzY0IzS00xNjFkZ0FReXZWLTlIX0F0djhkMmNOamNISkd1MnYxTG9xUnBYRVA1SHpwYVQ5Rm85VG8wVVhVWnZoSjAwa2gxN0JuSnpsN0ZZV2lXSDIwYzZLdGQ1RUhwblBPRFZxdHd6UQ?oc=5)
+
+---
 
 ### [Locken Insektenschutzmittel Mücken sogar an? Forscher entdecken überraschenden Effekt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFJhUmx6VWRXRkd4LWlJb1lGZE14ZUMxVkZTbnIzcktiOEw0RGlfVlJRSDlSM3NDaEJqWU5kVnZ6Ym8yR0k0cVFtMWZxOVZxWG1yVU15MmNfY2lwLS1zVF9XTDVzaXRMSTYwY3c1S1dWUUV6bnU0bzg0enppRTVaUENzUTB6eTR4THZsc29kRmdUUXhPdHhwUGg4TXZIUTNoc1RUSVozSmQ1Z1Z4MzAwWDRIc3E0bzV3RDVVSjhpUWMxRG1tMzRaTEZsUl9FTl9XZWRyTA?oc=5)
 
-2026-06-21 <span class="news-indication-tag">MS</span>
+2026-06-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[ka-news](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFJhUmx6VWRXRkd4LWlJb1lGZE14ZUMxVkZTbnIzcktiOEw0RGlfVlJRSDlSM3NDaEJqWU5kVnZ6Ym8yR0k0cVFtMWZxOVZxWG1yVU15MmNfY2lwLS1zVF9XTDVzaXRMSTYwY3c1S1dWUUV6bnU0bzg0enppRTVaUENzUTB6eTR4THZsc29kRmdUUXhPdHhwUGg4TXZIUTNoc1RUSVozSmQ1Z1Z4MzAwWDRIc3E0bzV3RDVVSjhpUWMxRG1tMzRaTEZsUl9FTl9XZWRyTA?oc=5)
 
 ---
 
-### [Perché alcune ondate di caldo diventano eccezionali](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWdIUVFvZnN6WFFETXBFUFNmRWR5VkpvWmczYmZUU0E2eGZrRW9vXzNPQUxPUmNTTzBZR29lR0lhT0xkenFlU090bTVsUjNSOVpwSHhYSWc5OTBCR0w3TXdpdDdyRy03ZFByTXZkQXlvTTNhVGgwYVBZT1dCM0RITTBITXZOR3dfMjl3dExsZURaUlFILTVpVUdRVEczQQ?oc=5)
+### [Caldo, i numeri di Pregliasco: “Milano la città con più morti di tutta Europa" - Il Giorno](https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbTBBaktVbHZBM1hZTGNLRU85UHlOX0xJSVoxLVRjcm5LR2Jrbm02X1lHamNTbXN6MDBnNEdKVHJVdGJieFI3VFk5NkRWNDFTYjRIemxZMFk0OVhHQWl2cE4zMmE3S3pvVnY1MG9IYkpFZXpSZnh1VExR?oc=5)
 
 2026-06-21 <span class="news-indication-tag">MS</span>
 
-來源：[3BMeteo](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWdIUVFvZnN6WFFETXBFUFNmRWR5VkpvWmczYmZUU0E2eGZrRW9vXzNPQUxPUmNTTzBZR29lR0lhT0xkenFlU090bTVsUjNSOVpwSHhYSWc5OTBCR0w3TXdpdDdyRy03ZFByTXZkQXlvTTNhVGgwYVBZT1dCM0RITTBITXZOR3dfMjl3dExsZURaUlFILTVpVUdRVEczQQ?oc=5)
+來源：[Il Giorno](https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbTBBaktVbHZBM1hZTGNLRU85UHlOX0xJSVoxLVRjcm5LR2Jrbm02X1lHamNTbXN6MDBnNEdKVHJVdGJieFI3VFk5NkRWNDFTYjRIemxZMFk0OVhHQWl2cE4zMmE3S3pvVnY1MG9IYkpFZXpSZnh1VExR?oc=5)
 
 ---
 
-### [Desmienten mito del consumo moderado de alcohol; OMS advierte riesgos](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3d1VDRROWV1SUZISTU2cXlWcFdRVmlWN2IzMWdWU2d6eGM3cEpkb0ZEcmotNGp4UDE3b0tuVTFzTER6TnRVUC1kZHpaUkxxUXBUWDB0S3F0X2JLeXFxVE1kbEJlWk5PWjVJX1lfVzlCN1JIZF9TU1pYWi1vWVQ0eVVWbjViVzd3MXJmRF80VWxkVEx2VThTRU5B0gGiAUFVX3lxTE4ySmxMeWdsSzY4QzVQd0t6VGtVOGhmV2tvMGFQSHdLRUotTFRLX1RhSXk0NVZNbnQ3eWVBVnJ1VHpQQ2gtdkZVX3JLemFKLTAwTjJoT0cxOUNMNnZFSGhlN0g2cGhyOWUya1UzUGlrWTdidWQyYlFRMElGV3M2ZlZDOTBfZ2FTN3RndnVORzJpYzNWSGh2YlMtOVZ2TndzUzRFdw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">MS</span>
-
-來源：[laverdadnoticias.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3d1VDRROWV1SUZISTU2cXlWcFdRVmlWN2IzMWdWU2d6eGM3cEpkb0ZEcmotNGp4UDE3b0tuVTFzTER6TnRVUC1kZHpaUkxxUXBUWDB0S3F0X2JLeXFxVE1kbEJlWk5PWjVJX1lfVzlCN1JIZF9TU1pYWi1vWVQ0eVVWbjViVzd3MXJmRF80VWxkVEx2VThTRU5B0gGiAUFVX3lxTE4ySmxMeWdsSzY4QzVQd0t6VGtVOGhmV2tvMGFQSHdLRUotTFRLX1RhSXk0NVZNbnQ3eWVBVnJ1VHpQQ2gtdkZVX3JLemFKLTAwTjJoT0cxOUNMNnZFSGhlN0g2cGhyOWUya1UzUGlrWTdidWQyYlFRMElGV3M2ZlZDOTBfZ2FTN3RndnVORzJpYzNWSGh2YlMtOVZ2TndzUzRFdw?oc=5)
-
----
-
-### [Metformin and beta blocker users face 4 day health warning from Monday, June 22 - Daily Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTI2RWR0NHc5NmRMRnAyQnBsTUZZTGdiVHM1dHdabVRKWDZoZi04MUdVNWlYTWhOLUF3dkdNLUNwVWZWLWpwbjFQdlBoUmJUeWxRQnNHX0d4bzY5OUN6OTFKdk9jalFFZVhZbVdUSG1PMlRXNi1ocHhNRk9NbDZmcEcyNnMxQdIBiwFBVV95cUxPSFU1MUVLRE9oR1Fsd3UzQXVRbjFnUzYyWEdkS1NuVTFfZkxtZlFuSVJhS0MtSlktcFlSVzY3V3dmOGkzWXpVbFMwMXdKRGQ2azhwUW96TzdoZWE0eWlrTl9pZmlhQXNxUUJuMDl6T3lKTGl5dmVlNHdSalo4U2FNa2FJZmpXSnlDaTBv?oc=5)
-
-2026-06-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTI2RWR0NHc5NmRMRnAyQnBsTUZZTGdiVHM1dHdabVRKWDZoZi04MUdVNWlYTWhOLUF3dkdNLUNwVWZWLWpwbjFQdlBoUmJUeWxRQnNHX0d4bzY5OUN6OTFKdk9jalFFZVhZbVdUSG1PMlRXNi1ocHhNRk9NbDZmcEcyNnMxQdIBiwFBVV95cUxPSFU1MUVLRE9oR1Fsd3UzQXVRbjFnUzYyWEdkS1NuVTFfZkxtZlFuSVJhS0MtSlktcFlSVzY3V3dmOGkzWXpVbFMwMXdKRGQ2azhwUW96TzdoZWE0eWlrTl9pZmlhQXNxUUJuMDl6T3lKTGl5dmVlNHdSalo4U2FNa2FJZmpXSnlDaTBv?oc=5)
-
----
-
-### [Four foods that could improve your cholesterol and boost heart health - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzJqWER3S3QwRXZtNGZON1Z4TWdjb0VSdTIzbHpsOERHcy1Ddm53U3YyZXFFbkF6RV9rZXBpRzhaQk91ckd4cHhHMWJkVlBSQkxhYm5LNjBEVVNzakhmTDJTT0duMzZDakpGZ2JuRWxtMEh0Z2loLTNJSURlWVFwV0FVMElzUUJoOXp6d0FmMkJVQWpXbXBDR2tOYzRUM2R3cDAwV3l0Uy1Ddw?oc=5)
+### [4 Things to Avoid Every Day If You’re Watching Your Cholesterol](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VVjM3LWJLRkVsbTJOdTJfaWpfQTZHTjk0VW1fZ0wzc3VNbXI4V1F6UmNXRThxdDEzbldaX2ttWWJYVDFhdjFYWlAwQVl5bHJvQ3VmM01NUmZSeGYwbE5NMzJfUERzM3FpSk9WMUxaRlFOSzNncThhVXlnMjc?oc=5)
 
 2026-06-20 <span class="news-indication-tag">MS</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzJqWER3S3QwRXZtNGZON1Z4TWdjb0VSdTIzbHpsOERHcy1Ddm53U3YyZXFFbkF6RV9rZXBpRzhaQk91ckd4cHhHMWJkVlBSQkxhYm5LNjBEVVNzakhmTDJTT0duMzZDakpGZ2JuRWxtMEh0Z2loLTNJSURlWVFwV0FVMElzUUJoOXp6d0FmMkJVQWpXbXBDR2tOYzRUM2R3cDAwV3l0Uy1Ddw?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VVjM3LWJLRkVsbTJOdTJfaWpfQTZHTjk0VW1fZ0wzc3VNbXI4V1F6UmNXRThxdDEzbldaX2ttWWJYVDFhdjFYWlAwQVl5bHJvQ3VmM01NUmZSeGYwbE5NMzJfUERzM3FpSk9WMUxaRlFOSzNncThhVXlnMjc?oc=5)
 
 ---
 
@@ -99,30 +99,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-20 <span class="news-indication-tag">MS</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbG91amNELXJMeVp6M25wcE5JUFlRTDhVdlg0dzJIU21meWlVY0lmX25Td2NXdUJpYlVBVFprVEo0ODI4NjFBV1BkWTVrQUY3a3ROdl8waWtxX281OW5kYzRXVnduUWtGVl9BcW9qVF9FT3h0NHl2QUFHSnZCV3BXQWtKQTlaVjFCODJ2b1N5TW15ejRIWHcxcmNGSGstMERvaVNmWHBLS1VBLTlfUzNuZ290cEYxQQ?oc=5)
-
----
-
-### [Più di 70 operatori sanitari sono stati infettati dal virus ebola nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxPblppczZtMy1aeU9ORFVaVjR3NW41cE1vZjNsY0xZODJVX0hDYS01N1RNRnd6bTJQMmk3V01MMVprVkZ6QkljZHBhVDlFeXNCcFBIYkFRYkI0aDJoVGJXS3ZJeGVDQnpmN1VYbUpRQS1DWk1iNGFMRTRrWmtGZmU4U0pCYW5Xc0dscmN1UTZR?oc=5)
-
-2026-06-20 <span class="news-indication-tag">MS</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxPblppczZtMy1aeU9ORFVaVjR3NW41cE1vZjNsY0xZODJVX0hDYS01N1RNRnd6bTJQMmk3V01MMVprVkZ6QkljZHBhVDlFeXNCcFBIYkFRYkI0aDJoVGJXS3ZJeGVDQnpmN1VYbUpRQS1DWk1iNGFMRTRrWmtGZmU4U0pCYW5Xc0dscmN1UTZR?oc=5)
-
----
-
-### [Mapi Sánchez, ex número 1 del mundo del pádel y enferma de esclerosis múltiple: «Yo no sé rendirme» - Noticias sobre cuerpo, mente y planeta | WeLife](https://news.google.com/rss/articles/CBMibkFVX3lxTE5vN3lKajZfZFJDOGhvMlJFQ0FwMThhWVo4VFgxTVNQYllyU1FRQlpmbU5zMzU2UEtUYlp6eXdybnRCUlAtUWhvRGlXQm05bHZQS3hQR1U2MmdUMzJWYzB0a2lMUjFrem9ncWNVU3l30gFzQVVfeXFMTnllNmRqZEpPOGw5WjJVQTJhd0hPZVZvbWgweEYxa1ZzOFBBSFVOMElsRDRKZURZLUxOaW5aTkowZ09aSHRMYk1KcGhFUU5hVnE2emFYQk5OMkY3ZlNUWWFBU1ZfSThGZDlYVU4tc1NMdDAtUQ?oc=5)
-
-2026-06-20 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Noticias sobre cuerpo, mente y planeta | WeLife](https://news.google.com/rss/articles/CBMibkFVX3lxTE5vN3lKajZfZFJDOGhvMlJFQ0FwMThhWVo4VFgxTVNQYllyU1FRQlpmbU5zMzU2UEtUYlp6eXdybnRCUlAtUWhvRGlXQm05bHZQS3hQR1U2MmdUMzJWYzB0a2lMUjFrem9ncWNVU3l30gFzQVVfeXFMTnllNmRqZEpPOGw5WjJVQTJhd0hPZVZvbWgweEYxa1ZzOFBBSFVOMElsRDRKZURZLUxOaW5aTkowZ09aSHRMYk1KcGhFUU5hVnE2emFYQk5OMkY3ZlNUWWFBU1ZfSThGZDlYVU4tc1NMdDAtUQ?oc=5)
-
----
-
-### [Australia confirms first case of H5N1 bird flu as virus reaches every continent](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
-
-2026-06-20 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
 
 ---
 

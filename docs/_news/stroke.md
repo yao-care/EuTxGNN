@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# AVC（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [The common sleep condition that raises your risk of stroke and costs workplaces billions - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3VaeHJxdGNRTXdISE5tUnVwWTNSU0YtS184VExjM3hJNnp0X0ZQTkZ1OFVaR2tiNmYxWnJWeXF1dUtIZV8tcFo2Ymt3ZFIyNW9TM3FPRHVVYVRUYlBCaUV6cTloeGVDWDloaG9NaWp0eVA2SFo0VXI4RTRBU0VfYmNCRVVQRWFPbUg4YXZDX3lka3dDa3VUM2M2ZnlFTjZoREtWTkZFQWQ?oc=5)
+### [Trastornos mentales graves se asocian con mayor riesgo de demencia e ictus, según estudio - Diario de Salud](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG41NFoybWFXdTNUSU5STDkwN2FJRkYxX3ZrZEItUkZqNEZGTlNCN2ZBU2VCQ1RiOEtNU1dmNXJYTHV2dzJiOU5USnN5bzgwRncxamdCQ1hjYnhKcHZpWG8xTTNySEsyTnNnU2t5VlN3WFAwQXliektUWnZNUHBpZTFJVW9vd1BhNFBaWk1mc1hJVHVYVW5TSHRscm1tNmdYUDdTdi1nUlZUQVYzRFAyZTltbF9GTXlfZ3BMMFZqNEEtS29wclRHVUtzUkRmN01EZE91SUs2aw?oc=5)
 
-2026-06-20
+2026-06-22
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3VaeHJxdGNRTXdISE5tUnVwWTNSU0YtS184VExjM3hJNnp0X0ZQTkZ1OFVaR2tiNmYxWnJWeXF1dUtIZV8tcFo2Ymt3ZFIyNW9TM3FPRHVVYVRUYlBCaUV6cTloeGVDWDloaG9NaWp0eVA2SFo0VXI4RTRBU0VfYmNCRVVQRWFPbUg4YXZDX3lka3dDa3VUM2M2ZnlFTjZoREtWTkZFQWQ?oc=5)
+來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG41NFoybWFXdTNUSU5STDkwN2FJRkYxX3ZrZEItUkZqNEZGTlNCN2ZBU2VCQ1RiOEtNU1dmNXJYTHV2dzJiOU5USnN5bzgwRncxamdCQ1hjYnhKcHZpWG8xTTNySEsyTnNnU2t5VlN3WFAwQXliektUWnZNUHBpZTFJVW9vd1BhNFBaWk1mc1hJVHVYVW5TSHRscm1tNmdYUDdTdi1nUlZUQVYzRFAyZTltbF9GTXlfZ3BMMFZqNEEtS29wclRHVUtzUkRmN01EZE91SUs2aw?oc=5)
 
 ---
 

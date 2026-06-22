@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
 
-### ["Arrachez-moi la tête" : le calvaire de Miren, Montpelliéraine devenue invalide à cause de migraines chroniques infernales - Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ0lwVGhBeUlOeXQtXzdLMTI1Z01DcTBuRzdSWmxaaGktRDczNEpBaTYyblp6Z1laMmFfU1FpTjMtUXlxRzhSaXJtdVFQX001ZE1ZazVkVkVieHBIbTVZWVdCQkY2RUtqVmFlM0JsMFZJdnRtajliS3AxbTU1WE1IUG1zSExhc1JuZ1VfekEwMDRFZXVlVXRfUk5WaThXWTlKcGIzY2RwNHhXWkRiVDJuVElCRjFiS1haR3l3ZUY2Y0hXZ3dlNjlpLXFQSi1ubGlkR0JOSF9Cd0ZhUXdmbHYzLVQzeEVQU2tqSF9VZ0JjbEdKQjJiYXgzNDVn?oc=5)
+### [Chaleur, soleil, lumière : l’été met les migraineux à rude épreuve](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
 
-2026-06-21 <span class="news-indication-tag">migraine</span>
+2026-06-22 <span class="news-indication-tag">migraine</span>
 
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ0lwVGhBeUlOeXQtXzdLMTI1Z01DcTBuRzdSWmxaaGktRDczNEpBaTYyblp6Z1laMmFfU1FpTjMtUXlxRzhSaXJtdVFQX001ZE1ZazVkVkVieHBIbTVZWVdCQkY2RUtqVmFlM0JsMFZJdnRtajliS3AxbTU1WE1IUG1zSExhc1JuZ1VfekEwMDRFZXVlVXRfUk5WaThXWTlKcGIzY2RwNHhXWkRiVDJuVElCRjFiS1haR3l3ZUY2Y0hXZ3dlNjlpLXFQSi1ubGlkR0JOSF9Cd0ZhUXdmbHYzLVQzeEVQU2tqSF9VZ0JjbEdKQjJiYXgzNDVn?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
+
+---
+
+### [Las cefaleas empeoran con las altas temperaturas, pero rara vez son la causa directa del dolor](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXQ3NFR2NmJON0xzellfQ1JnOGNHT1NnazlTYXdOUFVmTHNLVXNxaFNKdmg2djFqQjhWTlJtdzZSc1Z4MFBXRkZLTzJHQ0ZmN0F2Y1hSckZzMC1jUmhxTHAtNnFoT1p2cHFIY3ptQkU1dVNiMEFGcnJya3hmLW9FVDNoMzd3dnhYMElpaWdKekdyZ1N0akJYMzExRVhFQlRhNmlyZU5RRHRFTi1OcFZkMDhlQk9aNzY5MWlCcw?oc=5)
+
+2026-06-22 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXQ3NFR2NmJON0xzellfQ1JnOGNHT1NnazlTYXdOUFVmTHNLVXNxaFNKdmg2djFqQjhWTlJtdzZSc1Z4MFBXRkZLTzJHQ0ZmN0F2Y1hSckZzMC1jUmhxTHAtNnFoT1p2cHFIY3ptQkU1dVNiMEFGcnJya3hmLW9FVDNoMzd3dnhYMElpaWdKekdyZ1N0akJYMzExRVhFQlRhNmlyZU5RRHRFTi1OcFZkMDhlQk9aNzY5MWlCcw?oc=5)
+
+---
+
+### [Deutsche Akademie für Präventivmedizin fordert mindestens 20 Euro pro Schachtel Zigaretten](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Migräne</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
+
+---
+
+### [Los datos respaldan el tratamiento anti-CGRP intravenoso en migraña crónica - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWt4QkIwMi10Q0JuOXJzNTFDTkZzSV84WmZEbm54WTBPZUx6NF9fWnZ2MmR3T3NodmRMWktZUmFFWXg0cW9UYlM2cGJ0aVpER1pmeFlXaGgyTDJhT2ZhQ3JPdndEXzFxTEdZWlNJekVNNU10WEdzRlh6V2FIRG01SGRUVVRlanBRc1FDNnZ1Q2V0Q3ZjRUNWTF9kekRPMmhEcU16ZEozcE93N1E4SEtDeG40TU82YmJFNFNpRGF6Q2NyOTJXblhqY3pVNlDSAcwBQVVfeXFMTTIwNk1fMU01Zk95TzJ5YnhhNGxDZzdfcWVQSDFUZFJKNGU4YlN5YlhqS3dZaXJSRXZubkVMTXl0WWRfQ3RxMmFnYjRQTU5uZVkzMmY5VHJrU0tXTTRMempEMFBENkdVaEMyQUhjTXR2QjduWTlleTN4YjhuZDlYWFlqbF9NdEROOGtfQ3pJbkFXWFpZaC1icXdEbnhsb1VZdW45MUthRTA5YTl2ZFRwTlBNdWJPcjk2QjFUVTNwcmt4U19mUHBaSGZlSWF6?oc=5)
+
+2026-06-22 <span class="news-indication-tag">migraña</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWt4QkIwMi10Q0JuOXJzNTFDTkZzSV84WmZEbm54WTBPZUx6NF9fWnZ2MmR3T3NodmRMWktZUmFFWXg0cW9UYlM2cGJ0aVpER1pmeFlXaGgyTDJhT2ZhQ3JPdndEXzFxTEdZWlNJekVNNU10WEdzRlh6V2FIRG01SGRUVVRlanBRc1FDNnZ1Q2V0Q3ZjRUNWTF9kekRPMmhEcU16ZEozcE93N1E4SEtDeG40TU82YmJFNFNpRGF6Q2NyOTJXblhqY3pVNlDSAcwBQVVfeXFMTTIwNk1fMU01Zk95TzJ5YnhhNGxDZzdfcWVQSDFUZFJKNGU4YlN5YlhqS3dZaXJSRXZubkVMTXl0WWRfQ3RxMmFnYjRQTU5uZVkzMmY5VHJrU0tXTTRMempEMFBENkdVaEMyQUhjTXR2QjduWTlleTN4YjhuZDlYWFlqbF9NdEROOGtfQ3pJbkFXWFpZaC1icXdEbnhsb1VZdW45MUthRTA5YTl2ZFRwTlBNdWJPcjk2QjFUVTNwcmt4U19mUHBaSGZlSWF6?oc=5)
 
 ---
 

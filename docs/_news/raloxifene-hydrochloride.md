@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [The common sleep condition that raises your risk of stroke and costs workplaces billions - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3VaeHJxdGNRTXdISE5tUnVwWTNSU0YtS184VExjM3hJNnp0X0ZQTkZ1OFVaR2tiNmYxWnJWeXF1dUtIZV8tcFo2Ymt3ZFIyNW9TM3FPRHVVYVRUYlBCaUV6cTloeGVDWDloaG9NaWp0eVA2SFo0VXI4RTRBU0VfYmNCRVVQRWFPbUg4YXZDX3lka3dDa3VUM2M2ZnlFTjZoREtWTkZFQWQ?oc=5)
+### [Trastornos mentales graves se asocian con mayor riesgo de demencia e ictus, según estudio - Diario de Salud](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG41NFoybWFXdTNUSU5STDkwN2FJRkYxX3ZrZEItUkZqNEZGTlNCN2ZBU2VCQ1RiOEtNU1dmNXJYTHV2dzJiOU5USnN5bzgwRncxamdCQ1hjYnhKcHZpWG8xTTNySEsyTnNnU2t5VlN3WFAwQXliektUWnZNUHBpZTFJVW9vd1BhNFBaWk1mc1hJVHVYVW5TSHRscm1tNmdYUDdTdi1nUlZUQVYzRFAyZTltbF9GTXlfZ3BMMFZqNEEtS29wclRHVUtzUkRmN01EZE91SUs2aw?oc=5)
 
-2026-06-20 <span class="news-indication-tag">stroke</span>
+2026-06-22 <span class="news-indication-tag">ictus</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3VaeHJxdGNRTXdISE5tUnVwWTNSU0YtS184VExjM3hJNnp0X0ZQTkZ1OFVaR2tiNmYxWnJWeXF1dUtIZV8tcFo2Ymt3ZFIyNW9TM3FPRHVVYVRUYlBCaUV6cTloeGVDWDloaG9NaWp0eVA2SFo0VXI4RTRBU0VfYmNCRVVQRWFPbUg4YXZDX3lka3dDa3VUM2M2ZnlFTjZoREtWTkZFQWQ?oc=5)
+來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG41NFoybWFXdTNUSU5STDkwN2FJRkYxX3ZrZEItUkZqNEZGTlNCN2ZBU2VCQ1RiOEtNU1dmNXJYTHV2dzJiOU5USnN5bzgwRncxamdCQ1hjYnhKcHZpWG8xTTNySEsyTnNnU2t5VlN3WFAwQXliektUWnZNUHBpZTFJVW9vd1BhNFBaWk1mc1hJVHVYVW5TSHRscm1tNmdYUDdTdi1nUlZUQVYzRFAyZTltbF9GTXlfZ3BMMFZqNEEtS29wclRHVUtzUkRmN01EZE91SUs2aw?oc=5)
 
 ---
 

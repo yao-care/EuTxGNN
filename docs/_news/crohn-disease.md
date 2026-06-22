@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Darmkrebs-Früherkennung: Virus-Test identifiziert 40,6% der Fälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFVPbFdnSFVmbmNXUW1Gc3kybXZJWlVjb2hFWXdtQWlfYng2TGVCOTNyRGVGTk9QMWVlSjR1ekc4U2RMc3R3Nk00c1lUU0ZHWkRaaGhmYVpqbjYtYUJzMUdUbVhDZGxoZVR2emlXWURJWVNXdkdQNkxfbkFoUTByNU9WVzc5bW9Yc3FQVF90dTd5ZXFQbVdhdWlIa0xCOHRLOTRwM0VJRWk0aThpYlFqSE5jVkZzQQ?oc=5)
+### [Darmkrebs-Früherkennung: Neues Virus-Marker erreicht 40,6% Erkennungsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVJLS1YtSEE1c1gtQThXdXZFSkRPNHZnbEY5TGtMaXZXaEFVZm90cVZFdkxpYXF1ZHJoS3RKWHd3Z25LQ01kQzQ1TEZKWFQ3bzVkamtCTmhCaWRnbjduQ0wzY0FKQ1daa3BEcWRUSE5LU3RzeUhKdHJob2cyYWJqbEdlSi1vLWs5TnlJOTJUOWhuR1p0d0ZteFBIUXJOLUxWR0poTjZzN0FEd1g0WEk2UFdjSkU?oc=5)
 
-2026-06-21
+2026-06-22
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFVPbFdnSFVmbmNXUW1Gc3kybXZJWlVjb2hFWXdtQWlfYng2TGVCOTNyRGVGTk9QMWVlSjR1ekc4U2RMc3R3Nk00c1lUU0ZHWkRaaGhmYVpqbjYtYUJzMUdUbVhDZGxoZVR2emlXWURJWVNXdkdQNkxfbkFoUTByNU9WVzc5bW9Yc3FQVF90dTd5ZXFQbVdhdWlIa0xCOHRLOTRwM0VJRWk0aThpYlFqSE5jVkZzQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVJLS1YtSEE1c1gtQThXdXZFSkRPNHZnbEY5TGtMaXZXaEFVZm90cVZFdkxpYXF1ZHJoS3RKWHd3Z25LQ01kQzQ1TEZKWFQ3bzVkamtCTmhCaWRnbjduQ0wzY0FKQ1daa3BEcWRUSE5LU3RzeUhKdHJob2cyYWJqbEdlSi1vLWs5TnlJOTJUOWhuR1p0d0ZteFBIUXJOLUxWR0poTjZzN0FEd1g0WEk2UFdjSkU?oc=5)
 
 ---
 

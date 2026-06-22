@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,29 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Risiko durch Konservierungsstoffe? Diese acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOW5kUlNOVWk5M0ZjV09vWS1kU1dhRjhUSFBEMHFaeGZrcVVqeTdGOEx1N0w1cFBvS0dSdFRYTmNjbHhyaW9yMmxULWE0X0xjQjlzZGppSHpUWUNHVWRxLWVYLWdJekpKNU1IZ3hVYXJDekNnN2djS3FUY3NDd1hTVTBKSzZ0UXE5aHR6TExmUjdwQmxNbVI5dHREbV9vdEIyeEFJcXpUNGZOcS1yMXJRNFFCOGNmWWprWmp5azE1QmMwUjFOQmNJcDRUQ0hIVzNVVmc?oc=5)
+
+2026-06-22
+
+來源：[Ntv](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOW5kUlNOVWk5M0ZjV09vWS1kU1dhRjhUSFBEMHFaeGZrcVVqeTdGOEx1N0w1cFBvS0dSdFRYTmNjbHhyaW9yMmxULWE0X0xjQjlzZGppSHpUWUNHVWRxLWVYLWdJekpKNU1IZ3hVYXJDekNnN2djS3FUY3NDd1hTVTBKSzZ0UXE5aHR6TExmUjdwQmxNbVI5dHREbV9vdEIyeEFJcXpUNGZOcS1yMXJRNFFCOGNmWWprWmp5azE1QmMwUjFOQmNJcDRUQ0hIVzNVVmc?oc=5)
+
+---
 
 ### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
 
 2026-06-21
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+---
+
+### [Heatwave blood pressure warning as pharmacist flags 'bad combination' of temperature and humidity - GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
+
+2026-06-21
+
+來源：[GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
 
 ---
 
