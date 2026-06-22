@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [La OMS propone un cambio de modelo para prevenir y tratar la hemorragia posparto, responsable de 43.000 muertes anuales](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcTNjTXFUeU1LTUI4TTRUbFFWQ2hLaWl5QlZLYUJObm9OUTBhYlJvV25ZdmEwRWYxX3M0ZXlWVENjRHJ6aC1WRTFmUlJEcFBFNDEwb3c2Qmtrd241emI1T3FaTGNHNDhqcVV5Y1FXMnBJXzFzZTNSbGpMZ2pUaVNQSWFtbDdtNVVKTVgxa3RtdEVzNlFTZUlZQ3JNUnBrVlFtTTVGUk9abWtjX2FoUmJtdjlpWG92akZPZUNLd0VzSFM4b0NUdHU4WGZTb3hHQ3lRM3Fvdy1EcXl4SktQSzlLVA?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcTNjTXFUeU1LTUI4TTRUbFFWQ2hLaWl5QlZLYUJObm9OUTBhYlJvV25ZdmEwRWYxX3M0ZXlWVENjRHJ6aC1WRTFmUlJEcFBFNDEwb3c2Qmtrd241emI1T3FaTGNHNDhqcVV5Y1FXMnBJXzFzZTNSbGpMZ2pUaVNQSWFtbDdtNVVKTVgxa3RtdEVzNlFTZUlZQ3JNUnBrVlFtTTVGUk9abWtjX2FoUmJtdjlpWG92akZPZUNLd0VzSFM4b0NUdHU4WGZTb3hHQ3lRM3Fvdy1EcXl4SktQSzlLVA?oc=5)
+
+---
+
+### [StormWall: So könnte man extreme KI-freundliche Weltraumstürme technisch abschwächen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
+
+---
+
+### [Under-50s age ‘faster than previous generations’ amid cancer surge - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2ZnYzM0WFhkdkZ4MzAxU2pkV09KUmFnSVFfMk13b1lGVXhmem1ZSnF2UndCelp2Zi0xd0NxWnVVRjZVTlhiVnRmaEtzdGV4aEE1X0F1VmhxMjZvUnVHLWp3YnJTNWkzRkNja1VfQ3UzVHZqVlA5aVB2S2Z2ZXoxaWVpR3lfN2tOV0hTS0lGTFdaYUF0VzQ3UzQxRms3ZzFNTUV6bW1fRFNSUzM4Z3pycg?oc=5)
+
+2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2ZnYzM0WFhkdkZ4MzAxU2pkV09KUmFnSVFfMk13b1lGVXhmem1ZSnF2UndCelp2Zi0xd0NxWnVVRjZVTlhiVnRmaEtzdGV4aEE1X0F1VmhxMjZvUnVHLWp3YnJTNWkzRkNja1VfQ3UzVHZqVlA5aVB2S2Z2ZXoxaWVpR3lfN2tOV0hTS0lGTFdaYUF0VzQ3UzQxRms3ZzFNTUV6bW1fRFNSUzM4Z3pycg?oc=5)
+
+---
 
 ### [El ECDC unifica el cribado de hepatitis B y C en donaciones ante el Reglamento SoHO](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
 
@@ -70,19 +94,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [4 Things to Avoid Every Day If You’re Watching Your Cholesterol](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VVjM3LWJLRkVsbTJOdTJfaWpfQTZHTjk0VW1fZ0wzc3VNbXI4V1F6UmNXRThxdDEzbldaX2ttWWJYVDFhdjFYWlAwQVl5bHJvQ3VmM01NUmZSeGYwbE5NMzJfUERzM3FpSk9WMUxaRlFOSzNncThhVXlnMjc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VVjM3LWJLRkVsbTJOdTJfaWpfQTZHTjk0VW1fZ0wzc3VNbXI4V1F6UmNXRThxdDEzbldaX2ttWWJYVDFhdjFYWlAwQVl5bHJvQ3VmM01NUmZSeGYwbE5NMzJfUERzM3FpSk9WMUxaRlFOSzNncThhVXlnMjc?oc=5)
-
----
-
-### [Men's health slumps in midlife – but these simple lifestyle changes will add years to your life](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
+### [Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
 
 2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BikeRadar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
+
+---
+
+### [Hepatitis Delta enciende alertas por su vínculo con cáncer hepático y riesgo de evolución acelerada - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
+
+2026-06-22 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
 
 ---
 
@@ -107,14 +131,6 @@ permalink: /news/teriflunomide/
 2026-06-21 <span class="news-indication-tag">MS</span>
 
 來源：[Il Giorno](https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbTBBaktVbHZBM1hZTGNLRU85UHlOX0xJSVoxLVRjcm5LR2Jrbm02X1lHamNTbXN6MDBnNEdKVHJVdGJieFI3VFk5NkRWNDFTYjRIemxZMFk0OVhHQWl2cE4zMmE3S3pvVnY1MG9IYkpFZXpSZnh1VExR?oc=5)
-
----
-
-### [Heatwave blood pressure warning as pharmacist flags 'bad combination' of temperature and humidity - GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
-
-2026-06-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ozanimod-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ozanimod Hydrochloride 有什麼相關新聞？">
-<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/ozanimod-hydrochloride/
 <li>relapsing-remitting multiple sclerosis（97.7%）</li>
 <li>dense granule disease（97.5%）</li>
 <li>colonic neoplasm（96.7%）</li>
-<li class="indication-matched">psoriasis（96.4%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（96.4%）</li>
 <li>cecum villous adenoma（96.2%）</li>
 <li>rectosigmoid junction neoplasm（96.1%）</li>
 <li>lipoma of colon（96.1%）</li>
@@ -52,7 +52,55 @@ permalink: /news/ozanimod-hydrochloride/
 <p><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（31 則）
+
+### [La OMS propone un cambio de modelo para prevenir y tratar la hemorragia posparto, responsable de 43.000 muertes anuales](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcTNjTXFUeU1LTUI4TTRUbFFWQ2hLaWl5QlZLYUJObm9OUTBhYlJvV25ZdmEwRWYxX3M0ZXlWVENjRHJ6aC1WRTFmUlJEcFBFNDEwb3c2Qmtrd241emI1T3FaTGNHNDhqcVV5Y1FXMnBJXzFzZTNSbGpMZ2pUaVNQSWFtbDdtNVVKTVgxa3RtdEVzNlFTZUlZQ3JNUnBrVlFtTTVGUk9abWtjX2FoUmJtdjlpWG92akZPZUNLd0VzSFM4b0NUdHU4WGZTb3hHQ3lRM3Fvdy1EcXl4SktQSzlLVA?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcTNjTXFUeU1LTUI4TTRUbFFWQ2hLaWl5QlZLYUJObm9OUTBhYlJvV25ZdmEwRWYxX3M0ZXlWVENjRHJ6aC1WRTFmUlJEcFBFNDEwb3c2Qmtrd241emI1T3FaTGNHNDhqcVV5Y1FXMnBJXzFzZTNSbGpMZ2pUaVNQSWFtbDdtNVVKTVgxa3RtdEVzNlFTZUlZQ3JNUnBrVlFtTTVGUk9abWtjX2FoUmJtdjlpWG92akZPZUNLd0VzSFM4b0NUdHU4WGZTb3hHQ3lRM3Fvdy1EcXl4SktQSzlLVA?oc=5)
+
+---
+
+### [StormWall: So könnte man extreme KI-freundliche Weltraumstürme technisch abschwächen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
+
+---
+
+### [„Papa darf nicht sterben!“: Familienvater fehlen noch 13.700 Euro für seine Krebstherapie](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY2N6VzVRQnpjSzhuTTRUR0hhRUVtYkg1TjJzWU9fYUE5SndXelZWaGt6RndHdGNRRlN0cUd2M0tWNlpVSmtwbW9RVVUxeWxKLUplWThRdEN4SmRfR3BESkhVQUlwcjNHd3Q4NmlDNnUxRENTcVZMaTVyaHNlZFJ3dnVweVl3Z0hCYlNGV2ljLWZnMzlia3NvSjJaczhnM1d5bUhoYkNmYmxjY0h3QjVweE1EbXdqaXc5X1JTZjhlNl8yRjRBblNzZjQ5V21mOEJxQTYwbkNR?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Krebs</span>
+
+來源：[Nordkurier](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY2N6VzVRQnpjSzhuTTRUR0hhRUVtYkg1TjJzWU9fYUE5SndXelZWaGt6RndHdGNRRlN0cUd2M0tWNlpVSmtwbW9RVVUxeWxKLUplWThRdEN4SmRfR3BESkhVQUlwcjNHd3Q4NmlDNnUxRENTcVZMaTVyaHNlZFJ3dnVweVl3Z0hCYlNGV2ljLWZnMzlia3NvSjJaczhnM1d5bUhoYkNmYmxjY0h3QjVweE1EbXdqaXc5X1JTZjhlNl8yRjRBblNzZjQ5V21mOEJxQTYwbkNR?oc=5)
+
+---
+
+### [Under-50s age ‘faster than previous generations’ amid cancer surge - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2ZnYzM0WFhkdkZ4MzAxU2pkV09KUmFnSVFfMk13b1lGVXhmem1ZSnF2UndCelp2Zi0xd0NxWnVVRjZVTlhiVnRmaEtzdGV4aEE1X0F1VmhxMjZvUnVHLWp3YnJTNWkzRkNja1VfQ3UzVHZqVlA5aVB2S2Z2ZXoxaWVpR3lfN2tOV0hTS0lGTFdaYUF0VzQ3UzQxRms3ZzFNTUV6bW1fRFNSUzM4Z3pycg?oc=5)
+
+2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2ZnYzM0WFhkdkZ4MzAxU2pkV09KUmFnSVFfMk13b1lGVXhmem1ZSnF2UndCelp2Zi0xd0NxWnVVRjZVTlhiVnRmaEtzdGV4aEE1X0F1VmhxMjZvUnVHLWp3YnJTNWkzRkNja1VfQ3UzVHZqVlA5aVB2S2Z2ZXoxaWVpR3lfN2tOV0hTS0lGTFdaYUF0VzQ3UzQxRms3ZzFNTUV6bW1fRFNSUzM4Z3pycg?oc=5)
+
+---
+
+### [Krebstherapien im körpereigenen Tumormilieu testen - MedUni Wien](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUl9zYkFydDVlZmQ2YlVVVkp3aFhaTjk1d2JXeElnci1TRGkwby13ei0wVFgzWnA3Vzh4YzlfWVRnVk1pU21jbjM1ZXdnWHpMeG9VRDFHbkhfNFRoYWZmRGx2M0tsb0pETnNFVEZEZ3JIUFZSTEdackc2MFRsWmVpSGNSUVRqaVM5cVowSWE3NkJFNUp4ZlQwRjYwVC1aR1lvVFg2N0VPU215UHBXOEx1WmVsUERpNmRtQ3FLVFhWSno?oc=5)
+
+2026-06-22 <span class="news-indication-tag">tumor</span>
+
+來源：[MedUni Wien](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUl9zYkFydDVlZmQ2YlVVVkp3aFhaTjk1d2JXeElnci1TRGkwby13ei0wVFgzWnA3Vzh4YzlfWVRnVk1pU21jbjM1ZXdnWHpMeG9VRDFHbkhfNFRoYWZmRGx2M0tsb0pETnNFVEZEZ3JIUFZSTEdackc2MFRsWmVpSGNSUVRqaVM5cVowSWE3NkJFNUp4ZlQwRjYwVC1aR1lvVFg2N0VPU215UHBXOEx1WmVsUERpNmRtQ3FLVFhWSno?oc=5)
+
+---
+
+### [Bergamo, tre giorni di vaccinazione gratuite contro il Papilloma virus - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlNYZlJiVDZXSTk3c0NQZFVqU2FteERYZkdRQUdqWE92M1VFUzE5b3IwSzlXVS1DeFUtdG16ekhUN2EydjdSNW1xN0NxTDNHX2lqdUpRMURRSk9FM0NqNEFFWGotSjk3a0hFS3laVzA5NlVIM1ljdjgzbGdXU015eWl6SUs2RXA1MEloZUlCUzQwR3lhMTgxVXBoeHZRTENlUm81RFV1RXVtMUQ2UnV3bjBNU09NM0NDRkw4VXg3OFhpNUh2TzM5WHFQQWZwMTZZUW9R?oc=5)
+
+2026-06-22 <span class="news-indication-tag">tumor</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlNYZlJiVDZXSTk3c0NQZFVqU2FteERYZkdRQUdqWE92M1VFUzE5b3IwSzlXVS1DeFUtdG16ekhUN2EydjdSNW1xN0NxTDNHX2lqdUpRMURRSk9FM0NqNEFFWGotSjk3a0hFS3laVzA5NlVIM1ljdjgzbGdXU015eWl6SUs2RXA1MEloZUlCUzQwR3lhMTgxVXBoeHZRTENlUm81RFV1RXVtMUQ2UnV3bjBNU09NM0NDRkw4VXg3OFhpNUh2TzM5WHFQQWZwMTZZUW9R?oc=5)
+
+---
 
 ### [Studie stellt Nutzen von Calcium und Vitamin D infrage: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0VsMjQ5aWJBTDhUMWVnaUxzUzZfWDkxck5VNFpwcFNzZlhrVmY0RXlYcGF2V3hNMEFmRllMbDdNZzRkVjdadTdfbE93cXRpSjAtTU5ET3VaSERrMzR1Zm40bmkzUHBHblE2Q0RoNkFZNHdYOEE3WHBwUGJrV0VaRVVzc3ozNDVLX1lFWWRrYkxVVktEN051eVRLcTJnYUdGZjJEOE5WQm4zeXZhZkpRbHdnWmREVnRobmN1dndPWTMyQQ?oc=5)
 
@@ -62,11 +110,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [4 Things to Avoid Every Day If You’re Watching Your Cholesterol](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VVjM3LWJLRkVsbTJOdTJfaWpfQTZHTjk0VW1fZ0wzc3VNbXI4V1F6UmNXRThxdDEzbldaX2ttWWJYVDFhdjFYWlAwQVl5bHJvQ3VmM01NUmZSeGYwbE5NMzJfUERzM3FpSk9WMUxaRlFOSzNncThhVXlnMjc?oc=5)
+### [Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
 
-2026-06-22 <span class="news-indication-tag">MS</span>
+2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VVjM3LWJLRkVsbTJOdTJfaWpfQTZHTjk0VW1fZ0wzc3VNbXI4V1F6UmNXRThxdDEzbldaX2ttWWJYVDFhdjFYWlAwQVl5bHJvQ3VmM01NUmZSeGYwbE5NMzJfUERzM3FpSk9WMUxaRlFOSzNncThhVXlnMjc?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
 
 ---
 
@@ -94,14 +142,6 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Dr. Jorge Soto, dermatólogo de Policlínica Gipuzkoa: "Proteger la piel del sol no solo previene el cáncer, también mejora la salud general del organismo"](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlUtazljMjRnZ0RRcVBWZ1BRek1aSzRwRlhpSWZSVGdJUHNmOE40SlByR3VSSUtVNEZVT3dBYl9aM2taX0ViOTFxZUttbVZQc3I5ZzVreENFbVRGTlpKbl9HblAxSGdkMTNaM0FtUzZyUlFUcWZYTU1VVW44dkQtbk5B?oc=5)
-
-2026-06-22 <span class="news-indication-tag">tumor</span>
-
-來源：[Comunicae](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlUtazljMjRnZ0RRcVBWZ1BRek1aSzRwRlhpSWZSVGdJUHNmOE40SlByR3VSSUtVNEZVT3dBYl9aM2taX0ViOTFxZUttbVZQc3I5ZzVreENFbVRGTlpKbl9HblAxSGdkMTNaM0FtUzZyUlFUcWZYTU1VVW44dkQtbk5B?oc=5)
-
----
-
 ### [Un estudio de Mayo Clinic demuestra que la IA puede revelar riesgos de tumores cerebrales sin necesidad de costosas pruebas genéticas - Mayo Clinic News Network](https://news.google.com/rss/articles/CBMikAJBVV95cUxNcnpLRElocTM0SVhRWkJwSGFuY1V5WlhjdUtwRHVvSFFzcWVVbGZPWlJMU1ppS0MtZ19VUnRTcVlqSnJGU0lfcXdzcUtPV0l1dWRxLWR4dUNLcXJoWEIxTlVVck1aWkN4cnAyeUZTNnptcDl1NU1qdVdwNThDV1h4dXFRbWtReFZwWWN4N1BjN1VYREJsZmEySGVoczFIbGJFZFY2YnlXbXQzWUVob3N5OXZ6bW1OTVBqSzZwRGlYUGVhVWJLcDJBbzhGUmN5eTFvN0M2UlNwR29zZEZmX1NNc3RibjBYN3J3MF9uRmVnbjFzR3V6TTdxY1pLU1BkU29NSTNTUTNoWS1Jd0w0OGppZg?oc=5)
 
 2026-06-22 <span class="news-indication-tag">tumor</span>
@@ -110,11 +150,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Nueva diana en cáncer de páncreas: la proteína PARP2](https://news.google.com/rss/articles/CBMif0FVX3lxTE5yVUV1QXdkM1NnMGxPVy1IOWJUYmlkWm9EQlJMdFJTUXl0eWdiZktnYk9XeGZoRzNtZ3ZHMmt1T0c2VTZBVk9oeGF2Q25lU1l5a1ZhWUV0dENpeWdEOERsOXpwN21hWm5LTUxlVGg0NnZKMTNhSmxINWxJQ3VSeDg?oc=5)
+### [Identificada una inhibición selectiva de PARP2 en el cáncer de páncreas que frena el tumor y activa el sistema inmune - Gaceta Médica](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHF4RTNGMUFGQVJmRXBUYl9RYV9uVUVWdWh6dnVTSThxM1Vjc0lzS0FMTTlXYWx0XzZSR1IwOU1Kel9WcXozblpIN2RRdjl4a05fRmNqdl9EdWNPN3IycGxSa2s4a1JwZXlBLUVDQ0xYQVZIYUVTWXNaTm1SZ1c5TnI1dEF2bDZsODNtS2lJdTJwV3Jld0lkSjdvb2ItVThHM1g4TW8xaHNoWnRYN3c?oc=5)
 
 2026-06-22 <span class="news-indication-tag">tumor</span>
 
-來源：[Genotipia](https://news.google.com/rss/articles/CBMif0FVX3lxTE5yVUV1QXdkM1NnMGxPVy1IOWJUYmlkWm9EQlJMdFJTUXl0eWdiZktnYk9XeGZoRzNtZ3ZHMmt1T0c2VTZBVk9oeGF2Q25lU1l5a1ZhWUV0dENpeWdEOERsOXpwN21hWm5LTUxlVGg0NnZKMTNhSmxINWxJQ3VSeDg?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHF4RTNGMUFGQVJmRXBUYl9RYV9uVUVWdWh6dnVTSThxM1Vjc0lzS0FMTTlXYWx0XzZSR1IwOU1Kel9WcXozblpIN2RRdjl4a05fRmNqdl9EdWNPN3IycGxSa2s4a1JwZXlBLUVDQ0xYQVZIYUVTWXNaTm1SZ1c5TnI1dEF2bDZsODNtS2lJdTJwV3Jld0lkSjdvb2ItVThHM1g4TW8xaHNoWnRYN3c?oc=5)
 
 ---
 
@@ -126,19 +166,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [La inteligencia artificial detecta señales de cáncer de mama hasta seis años antes del diagnóstico clínico - El médico interactivo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMTZlRlNLNWlrM0xCZVR4UV9iODVteG1Ra0l6TFA4VGFyYW9aekRFbGQtRWFtYlpqVUtoaUUxcGNYb09vTTkyWk53a2FIQzJjUVNGYUFlcU9GWFNBNGFNVGNJRmctTjF0SkpYMWJHdms3cmU5S3AwRHd6QkRVa003ZlE2ZGF3cFJFZG5NRUxwR0loTDhqMzNJWjN3clhhTUV6aUdOQTZWeTU4WkxwVXY2NDRuVnZGb2JIMGplaGlXZkRtUEt2U2FKdmZHVWNQd2V2OTFpY3lB?oc=5)
+### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnBmREZTSUVLNDltald1a3VyNnBMeC1vYWh3a2lFOFZtY3ZvLVpPeXFPa3pLZmMtd0VBOE4xbXVEbDZlX0NaWG1UQTllbTdQT2ZzdU5LWUQ4QXNQUXllOEd1VlJxYzBQTkFlQUg2NkFFcHJIU2FjNWczUTVNNFJKNE5seWFkX285ek12QTl3RFNUNWN5ekpNRWtzUWlZSzdOaU8yeU9TWnA4b0NX?oc=5)
 
-2026-06-22 <span class="news-indication-tag">tumor</span>
+2026-06-22 <span class="news-indication-tag">Krebs</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMTZlRlNLNWlrM0xCZVR4UV9iODVteG1Ra0l6TFA4VGFyYW9aekRFbGQtRWFtYlpqVUtoaUUxcGNYb09vTTkyWk53a2FIQzJjUVNGYUFlcU9GWFNBNGFNVGNJRmctTjF0SkpYMWJHdms3cmU5S3AwRHd6QkRVa003ZlE2ZGF3cFJFZG5NRUxwR0loTDhqMzNJWjN3clhhTUV6aUdOQTZWeTU4WkxwVXY2NDRuVnZGb2JIMGplaGlXZkRtUEt2U2FKdmZHVWNQd2V2OTFpY3lB?oc=5)
-
----
-
-### [Men's health slumps in midlife – but these simple lifestyle changes will add years to your life](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BikeRadar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnBmREZTSUVLNDltald1a3VyNnBMeC1vYWh3a2lFOFZtY3ZvLVpPeXFPa3pLZmMtd0VBOE4xbXVEbDZlX0NaWG1UQTllbTdQT2ZzdU5LWUQ4QXNQUXllOEd1VlJxYzBQTkFlQUg2NkFFcHJIU2FjNWczUTVNNFJKNE5seWFkX285ek12QTl3RFNUNWN5ekpNRWtzUWlZSzdOaU8yeU9TWnA4b0NX?oc=5)
 
 ---
 
@@ -166,11 +198,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Krebstherapien im körpereigenen Tumormilieu testen - MedUni Wien](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUl9zYkFydDVlZmQ2YlVVVkp3aFhaTjk1d2JXeElnci1TRGkwby13ei0wVFgzWnA3Vzh4YzlfWVRnVk1pU21jbjM1ZXdnWHpMeG9VRDFHbkhfNFRoYWZmRGx2M0tsb0pETnNFVEZEZ3JIUFZSTEdackc2MFRsWmVpSGNSUVRqaVM5cVowSWE3NkJFNUp4ZlQwRjYwVC1aR1lvVFg2N0VPU215UHBXOEx1WmVsUERpNmRtQ3FLVFhWSno?oc=5)
+### [Messina. Focus sulla teragnostica, gli approcci del futuro in oncologia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1VrMDE3a2J6ZzBBXzRRM3FMMnBYdzd2WFFWZ3E0MnFGLWZuTHFXNlRhQkVNMlN0Q2JYYXFGUU1hb1F3TG50ekU3N3JDaDFhNzZ2ZmFEY1JkVVVoQTRveVFxUEJRZkw3aE9GanI4R3luQ1A5RzFLN1BFbGI4Y2M4UjB5XzdnajFMck1velVFZHFCbzBIeUNuUVpuMXduVE1yU2tiOEhnVGsxd1U?oc=5)
 
-2026-06-22 <span class="news-indication-tag">tumor</span>
+2026-06-22 <span class="news-indication-tag">cancro</span>
 
-來源：[MedUni Wien](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUl9zYkFydDVlZmQ2YlVVVkp3aFhaTjk1d2JXeElnci1TRGkwby13ei0wVFgzWnA3Vzh4YzlfWVRnVk1pU21jbjM1ZXdnWHpMeG9VRDFHbkhfNFRoYWZmRGx2M0tsb0pETnNFVEZEZ3JIUFZSTEdackc2MFRsWmVpSGNSUVRqaVM5cVowSWE3NkJFNUp4ZlQwRjYwVC1aR1lvVFg2N0VPU215UHBXOEx1WmVsUERpNmRtQ3FLVFhWSno?oc=5)
+來源：[Tempostretto](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1VrMDE3a2J6ZzBBXzRRM3FMMnBYdzd2WFFWZ3E0MnFGLWZuTHFXNlRhQkVNMlN0Q2JYYXFGUU1hb1F3TG50ekU3N3JDaDFhNzZ2ZmFEY1JkVVVoQTRveVFxUEJRZkw3aE9GanI4R3luQ1A5RzFLN1BFbGI4Y2M4UjB5XzdnajFMck1velVFZHFCbzBIeUNuUVpuMXduVE1yU2tiOEhnVGsxd1U?oc=5)
 
 ---
 
@@ -179,14 +211,6 @@ permalink: /news/ozanimod-hydrochloride/
 2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
-
----
-
-### [Pulsos electromagnéticos ralentizan tumores y activan la respuesta inmunitaria en estudio preclínico - Diario de Salud](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX0VDZDZnMVNHbU1LZVlYMVptcVJtLTA0cGZIdnlBT0gwLXZGQzR4dE9WM0xRcWJwZ1htZEV3Yk9nN21SeENsalAtWnhEUE9DVjlhTG5QdDl5N2FDV3VucVQtX0ZVLVNBS2pnOTBtMlZaT0locTRfRzZZeHltOHNDakNNWVliVkFmTGpGcmxvT1VDNzBNQVNPOVVwWm9DWGlvbDRUd0VMR0hXMzIwU0ZNN2hUMlpfX3BFV0llSmhzZWRTTm5KMTVDaFhhSjd3M3l2ODZoWUtQeXR4QzhNVF9TRmFxQ09hNlBOckE?oc=5)
-
-2026-06-22 <span class="news-indication-tag">tumor</span>
-
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX0VDZDZnMVNHbU1LZVlYMVptcVJtLTA0cGZIdnlBT0gwLXZGQzR4dE9WM0xRcWJwZ1htZEV3Yk9nN21SeENsalAtWnhEUE9DVjlhTG5QdDl5N2FDV3VucVQtX0ZVLVNBS2pnOTBtMlZaT0locTRfRzZZeHltOHNDakNNWVliVkFmTGpGcmxvT1VDNzBNQVNPOVVwWm9DWGlvbDRUd0VMR0hXMzIwU0ZNN2hUMlpfX3BFV0llSmhzZWRTTm5KMTVDaFhhSjd3M3l2ODZoWUtQeXR4QzhNVF9TRmFxQ09hNlBOckE?oc=5)
 
 ---
 
@@ -214,14 +238,6 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [„Wenn wir manchmal im Garten sitzen und die Luft nach Flieder riecht, schafft der Krebs es nicht, uns diesen Moment zu stehlen“](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzJoX1pQenNsSmdRc3lwUmVFbkQ3ckhTbllybDBmbmFhTUNjcURwSTc4VTg2ZVhCYjBTeXlRWi1kMkNXdUhVVGpjMW91MjFkQ3BYZVp5Tk1BYmJEWFJnMXlVVnIzaEwwSEc2b055cklyTXBmS2NCUnNMR1dyVE9tNlM5anNrWG03cnVIeGpmcFV0ekNBek02THRzNHY5RnpqamVtUzNlNlV5UnRxSjhQZ1RqV2lIalp6ZVhGcUw4ZXdDTURVeXdPSHdGTEJ4Tkt0dnUycmFzN0Eta2J5bnUtQjRJdWF4Y0p0cXdYT3JqRzFvZkxhVmxDZUFLeTdDQlg1OHl4NV9PUQ?oc=5)
-
-2026-06-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nordkurier](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzJoX1pQenNsSmdRc3lwUmVFbkQ3ckhTbllybDBmbmFhTUNjcURwSTc4VTg2ZVhCYjBTeXlRWi1kMkNXdUhVVGpjMW91MjFkQ3BYZVp5Tk1BYmJEWFJnMXlVVnIzaEwwSEc2b055cklyTXBmS2NCUnNMR1dyVE9tNlM5anNrWG03cnVIeGpmcFV0ekNBek02THRzNHY5RnpqamVtUzNlNlV5UnRxSjhQZ1RqV2lIalp6ZVhGcUw4ZXdDTURVeXdPSHdGTEJ4Tkt0dnUycmFzN0Eta2J5bnUtQjRJdWF4Y0p0cXdYT3JqRzFvZkxhVmxDZUFLeTdDQlg1OHl4NV9PUQ?oc=5)
-
----
-
 ### [After Opening Up About Cancer, A Man Feels Hurt When His Friend Shifts The Focus To Herself](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVpza3NRdHhXaXd2RzdPUjc3YWI0bnZsVXVtTjROXzNxd0tVcHRRcWgxbC1VR3JMWXkwUDF5Sks1Ty0zNnFjWFk0Q0ppa0FpRWJHODRiTGtpZW90bklrdXdmN2pUbm9wbXJqYXJjU1RLem5lYVJsWXFPQS1zeEFtUGJRM1hnNm5hOGhDOHJ5aHM1NTQyZWtZMHZGUGdCYk5GRG04N21GeHdUbjB6MElvQWRjdTlFVkRpSlNmMktwUlJlRG8?oc=5)
 
 2026-06-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -238,22 +254,6 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Heatwave blood pressure warning as pharmacist flags 'bad combination' of temperature and humidity - GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
-
-2026-06-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
-
----
-
-### [Mit Vitamin D3 Psoriasis unter Kontrolle.](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1NjVjAwbGxKckItME8yUThiRkNqOVN1WlBqelNLWnRYaW9sS0g2T2tWd2ZVTldmX09CbXNMM2EzUVdxY19jR3ZHMWZ5UHh5WDRWSmRnZUtFZmphaTc2TmF2eEt4N0JJZ3lIa2gySDQtZWk4cWlhSUNHS2ZmSENsemVlV3JpeDhlUkdFQ1V6Z28tRDF0?oc=5)
-
-2026-06-21 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1NjVjAwbGxKckItME8yUThiRkNqOVN1WlBqelNLWnRYaW9sS0g2T2tWd2ZVTldmX09CbXNMM2EzUVdxY19jR3ZHMWZ5UHh5WDRWSmRnZUtFZmphaTc2TmF2eEt4N0JJZ3lIa2gySDQtZWk4cWlhSUNHS2ZmSENsemVlV3JpeDhlUkdFQ1V6Z28tRDF0?oc=5)
-
----
-
 ### [From fidgeting at dinner to nonstop laundry - the bizarre stealth signs your man needs prostate cancer check - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOekstbWtJZ21jT1pqZWNxUFZ0RHM4bXFIbjRhRURxZWlSX00wb0FFaEtDYUhzQWRIaG05cTRKQ3JfamdERE5aanhwV0NFRW95VFg2WDJzV2VCa3Zmemd1NDRUVzRoRXgzZEp3eC1aTllLNDNocDZjWDhoQmdPcmdCdmlvdzA5Zw?oc=5)
 
 2026-06-21 <span class="news-indication-tag">cancer</span>
@@ -267,6 +267,14 @@ permalink: /news/ozanimod-hydrochloride/
 2026-06-21 <span class="news-indication-tag">tumor</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMimgJBVV95cUxPdVNfUm04RjMwLTRkdF83TU05azh4NnVXMzE1d1VsQm5YWGo0NkI5cG9wd2dhZXpKbUJha0Z0UDRyamM4aW4zT3FuMTY0cXUyb2JoSDF6YXNNWWRvZERXamVqR0RxbHZmQ2JXUGxsV0UxaWVVMEs5a0dOVzYwbFZydHpseHBXRldROERJTTNIX2toQ0s5NHZERVV4YW9JUHRYWFJ2RUZ6dVVZcEVEQ3N1OTJ3NmFXU1NuQjZLbGx3NTh2dDA3Tl8xck5ZM0EzbWlGNmdfT2F5ZDlVbjVuZ3dHaVlEblZ2ZFI5eTI3Uy1CMm0zaWhMRUVSRWdJWEkxT19XYmJrTHZuOGZtdWU4SmZfZVprVWxwTDNMQkHSAZ8CQVVfeXFMUFNGdDVIdkp0RUtIRjJRaEo3OUk4eDZTZ1hsZ0VxcU1OLUp4WmNKaXlXZXVrVUViY3RCanZIQXRnQjRKbFhXTVB1VlRnY0NnUHBjc2RCb0pDV0dtZ3JFeHV6U1B0bnY0eWNPSzBMMXVleEhGZ2ItTm5yOGhlMm9HM3AtbjZsa2kxR3VnS3hWZlBrQ0lfWmhmc3FrMVIzNk8yclVEdjdnVTlVSndGZTVwczhEdTYydzlFaDBJWXJnSE9ieXNDWnVGd0pNUkE3Rkw5UHZiaE5yaHNYUDRaSE1SMEFEQk9kSlB2MzBWUVRCc28yV2stM1FCYVY3Z0lPMmhkZXZOYW1yMHljMFM4NDVfR2VkejM1Yk5UVFM3ajBOcUU?oc=5)
+
+---
+
+### [Personalisierte Medizin: Chance für krebskranke Kinder](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXY0MkVXZ0txSktxODVkcmpMQ3c5em9VZG5MeEEtdlF4SURMcVNrcG9fTnRGc2lDWVVNWEdaOVpweVJOVG1CRUhJQUtncW9sOHJxREZ3MERHc1lrVnFpZHd5MHQ5VXpDN051VUM4cTdWZWwzV0hrdmlWRnEyU0VQTlU5ajFQNFdtODVWVWxDaW1YNXlFWXBfLW9YM1lDay1acXZYSl9femJYZw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">Krebs</span>
+
+來源：[AOK](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXY0MkVXZ0txSktxODVkcmpMQ3c5em9VZG5MeEEtdlF4SURMcVNrcG9fTnRGc2lDWVVNWEdaOVpweVJOVG1CRUhJQUtncW9sOHJxREZ3MERHc1lrVnFpZHd5MHQ5VXpDN051VUM4cTdWZWwzV0hrdmlWRnEyU0VQTlU5ajFQNFdtODVWVWxDaW1YNXlFWXBfLW9YM1lDay1acXZYSl9femJYZw?oc=5)
 
 ---
 

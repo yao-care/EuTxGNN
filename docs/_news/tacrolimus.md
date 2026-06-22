@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,7 +52,7 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Arthritis: Protein Pim1 als neuer Angriffspunkt identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/tacrolimus/
 2026-06-21 <span class="news-indication-tag">arthrite</span>
 
 來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
-
----
-
-### [Mit Vitamin D3 Psoriasis unter Kontrolle.](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1NjVjAwbGxKckItME8yUThiRkNqOVN1WlBqelNLWnRYaW9sS0g2T2tWd2ZVTldmX09CbXNMM2EzUVdxY19jR3ZHMWZ5UHh5WDRWSmRnZUtFZmphaTc2TmF2eEt4N0JJZ3lIa2gySDQtZWk4cWlhSUNHS2ZmSENsemVlV3JpeDhlUkdFQ1V6Z28tRDF0?oc=5)
-
-2026-06-21 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1NjVjAwbGxKckItME8yUThiRkNqOVN1WlBqelNLWnRYaW9sS0g2T2tWd2ZVTldmX09CbXNMM2EzUVdxY19jR3ZHMWZ5UHh5WDRWSmRnZUtFZmphaTc2TmF2eEt4N0JJZ3lIa2gySDQtZWk4cWlhSUNHS2ZmSENsemVlV3JpeDhlUkdFQ1V6Z28tRDF0?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [La OMS propone un cambio de modelo para prevenir y tratar la hemorragia posparto, responsable de 43.000 muertes anuales](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcTNjTXFUeU1LTUI4TTRUbFFWQ2hLaWl5QlZLYUJObm9OUTBhYlJvV25ZdmEwRWYxX3M0ZXlWVENjRHJ6aC1WRTFmUlJEcFBFNDEwb3c2Qmtrd241emI1T3FaTGNHNDhqcVV5Y1FXMnBJXzFzZTNSbGpMZ2pUaVNQSWFtbDdtNVVKTVgxa3RtdEVzNlFTZUlZQ3JNUnBrVlFtTTVGUk9abWtjX2FoUmJtdjlpWG92akZPZUNLd0VzSFM4b0NUdHU4WGZTb3hHQ3lRM3Fvdy1EcXl4SktQSzlLVA?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcTNjTXFUeU1LTUI4TTRUbFFWQ2hLaWl5QlZLYUJObm9OUTBhYlJvV25ZdmEwRWYxX3M0ZXlWVENjRHJ6aC1WRTFmUlJEcFBFNDEwb3c2Qmtrd241emI1T3FaTGNHNDhqcVV5Y1FXMnBJXzFzZTNSbGpMZ2pUaVNQSWFtbDdtNVVKTVgxa3RtdEVzNlFTZUlZQ3JNUnBrVlFtTTVGUk9abWtjX2FoUmJtdjlpWG92akZPZUNLd0VzSFM4b0NUdHU4WGZTb3hHQ3lRM3Fvdy1EcXl4SktQSzlLVA?oc=5)
+
+---
+
+### [StormWall: So könnte man extreme KI-freundliche Weltraumstürme technisch abschwächen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
+
+---
+
+### [Under-50s age ‘faster than previous generations’ amid cancer surge - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2ZnYzM0WFhkdkZ4MzAxU2pkV09KUmFnSVFfMk13b1lGVXhmem1ZSnF2UndCelp2Zi0xd0NxWnVVRjZVTlhiVnRmaEtzdGV4aEE1X0F1VmhxMjZvUnVHLWp3YnJTNWkzRkNja1VfQ3UzVHZqVlA5aVB2S2Z2ZXoxaWVpR3lfN2tOV0hTS0lGTFdaYUF0VzQ3UzQxRms3ZzFNTUV6bW1fRFNSUzM4Z3pycg?oc=5)
+
+2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2ZnYzM0WFhkdkZ4MzAxU2pkV09KUmFnSVFfMk13b1lGVXhmem1ZSnF2UndCelp2Zi0xd0NxWnVVRjZVTlhiVnRmaEtzdGV4aEE1X0F1VmhxMjZvUnVHLWp3YnJTNWkzRkNja1VfQ3UzVHZqVlA5aVB2S2Z2ZXoxaWVpR3lfN2tOV0hTS0lGTFdaYUF0VzQ3UzQxRms3ZzFNTUV6bW1fRFNSUzM4Z3pycg?oc=5)
+
+---
 
 ### [Studie stellt Nutzen von Calcium und Vitamin D infrage: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0VsMjQ5aWJBTDhUMWVnaUxzUzZfWDkxck5VNFpwcFNzZlhrVmY0RXlYcGF2V3hNMEFmRllMbDdNZzRkVjdadTdfbE93cXRpSjAtTU5ET3VaSERrMzR1Zm40bmkzUHBHblE2Q0RoNkFZNHdYOEE3WHBwUGJrV0VaRVVzc3ozNDVLX1lFWWRrYkxVVktEN051eVRLcTJnYUdGZjJEOE5WQm4zeXZhZkpRbHdnWmREVnRobmN1dndPWTMyQQ?oc=5)
 
@@ -62,19 +86,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [4 Things to Avoid Every Day If You’re Watching Your Cholesterol](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VVjM3LWJLRkVsbTJOdTJfaWpfQTZHTjk0VW1fZ0wzc3VNbXI4V1F6UmNXRThxdDEzbldaX2ttWWJYVDFhdjFYWlAwQVl5bHJvQ3VmM01NUmZSeGYwbE5NMzJfUERzM3FpSk9WMUxaRlFOSzNncThhVXlnMjc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VVjM3LWJLRkVsbTJOdTJfaWpfQTZHTjk0VW1fZ0wzc3VNbXI4V1F6UmNXRThxdDEzbldaX2ttWWJYVDFhdjFYWlAwQVl5bHJvQ3VmM01NUmZSeGYwbE5NMzJfUERzM3FpSk9WMUxaRlFOSzNncThhVXlnMjc?oc=5)
-
----
-
-### [Men's health slumps in midlife – but these simple lifestyle changes will add years to your life](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
+### [Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
 
 2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BikeRadar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-21 <span class="news-indication-tag">MS</span>
 
 來源：[Il Giorno](https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbTBBaktVbHZBM1hZTGNLRU85UHlOX0xJSVoxLVRjcm5LR2Jrbm02X1lHamNTbXN6MDBnNEdKVHJVdGJieFI3VFk5NkRWNDFTYjRIemxZMFk0OVhHQWl2cE4zMmE3S3pvVnY1MG9IYkpFZXpSZnh1VExR?oc=5)
-
----
-
-### [Heatwave blood pressure warning as pharmacist flags 'bad combination' of temperature and humidity - GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
-
-2026-06-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaU0wVG5Md1cwR2JuUGFRbS11Q1RuUjNpLUhWSnlUcjJKbkt1TXZCVC1lSXViM0ZXeWtKR3RwRXlmZHRLZDk1enpZTi10RHhGbFphOWJtRFRvR3N1TkduUmpQUFdDQ01PU1pkVlpGdlhZaEE5UHlpV1hJX0F6aEtUbEVLMGc3VE1ZNlQtU0RRek0tUQ?oc=5)
 
 ---
 

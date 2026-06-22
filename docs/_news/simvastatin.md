@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Mum's stroke death investigated over Covid jab](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
+
+2026-06-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
+
+---
+
+### [Asundexian avanza en su camino regulatorio para la prevención secundaria del ictus - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGdIek1JRmQyNFJXbk5QTmFmTldzWHFGTmxUemdlYjcxcTRrbHNyVTdvZ2wzWjlQQlY0ZTQzNGF4RS1CNWhrYUhvNTBVWE1GMEJibkNITlVZNy1CVGFwMVJ3UDlnYWVXUWVsTTdXWFFqSmdpNER5UGZsaFJMdThOUkRuWk03a1RaUDUwTTJoLWdiWFpkek1aRGR2c2Q3bU0wYU1xaEVUNlc5ZVdRWDB5VXIyeG1TX0ttb2k4WDRXOGsxUdIBvAFBVV95cUxPaUdHR2RLTzNaRHBLRDdlWTdXWW03T0xUYUdCRlR0bTJEajZhbjNuSEdUcG5vTmNLQ3pmbFpuUkV0YTVEQ0pBdnlqX194UkNGMWFFaVpwR3BMMnBORi1fSWpzQU9zYVpETnlObkNzam5ZLTh3aEVwYTBDcG02NjFRTExsM2xObDRwTkVGbEJvY2dBbkZIcEVablZ3THRaQjJYQUJ5cS11MktQSkpvV0N1RDFGcHk1bGRnYVVraA?oc=5)
+
+2026-06-22 <span class="news-indication-tag">ictus</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGdIek1JRmQyNFJXbk5QTmFmTldzWHFGTmxUemdlYjcxcTRrbHNyVTdvZ2wzWjlQQlY0ZTQzNGF4RS1CNWhrYUhvNTBVWE1GMEJibkNITlVZNy1CVGFwMVJ3UDlnYWVXUWVsTTdXWFFqSmdpNER5UGZsaFJMdThOUkRuWk03a1RaUDUwTTJoLWdiWFpkek1aRGR2c2Q3bU0wYU1xaEVUNlc5ZVdRWDB5VXIyeG1TX0ttb2k4WDRXOGsxUdIBvAFBVV95cUxPaUdHR2RLTzNaRHBLRDdlWTdXWW03T0xUYUdCRlR0bTJEajZhbjNuSEdUcG5vTmNLQ3pmbFpuUkV0YTVEQ0pBdnlqX194UkNGMWFFaVpwR3BMMnBORi1fSWpzQU9zYVpETnlObkNzam5ZLTh3aEVwYTBDcG02NjFRTExsM2xObDRwTkVGbEJvY2dBbkZIcEVablZ3THRaQjJYQUJ5cS11MktQSkpvV0N1RDFGcHk1bGRnYVVraA?oc=5)
+
+---
 
 ### [Trastornos mentales graves se asocian con mayor riesgo de demencia e ictus, según estudio - Diario de Salud](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG41NFoybWFXdTNUSU5STDkwN2FJRkYxX3ZrZEItUkZqNEZGTlNCN2ZBU2VCQ1RiOEtNU1dmNXJYTHV2dzJiOU5USnN5bzgwRncxamdCQ1hjYnhKcHZpWG8xTTNySEsyTnNnU2t5VlN3WFAwQXliektUWnZNUHBpZTFJVW9vd1BhNFBaWk1mc1hJVHVYVW5TSHRscm1tNmdYUDdTdi1nUlZUQVYzRFAyZTltbF9GTXlfZ3BMMFZqNEEtS29wclRHVUtzUkRmN01EZE91SUs2aw?oc=5)
 

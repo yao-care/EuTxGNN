@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Depressionen, Social Media und die Rolle von Medizinerinnen und Medizinern - Medical Tribune](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhaZ1pfTDhpUUFEVXExdHN6SFhldlU5TDA0dWJxdFl3ejV0eUpOMXN6OThRRUpFWDVfTzQ3dWpCazVqZWgyc1BCNEJ0dm9ESnJnSnBKRlVCNklKZk9YV21FWTR6NS1qMGQwdnQ0aGVjV3RnYjN3dTY2WGh6NkFJaTM2MU9DbXl4bDJlUXhONmlfZzNuMVlDbF9tTndNWUlyNjhjSGg0TnlKWVEzSDFHXzJaeVpPWnk5eFhnWXVaRThLQQ?oc=5)
+
+2026-06-22
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhaZ1pfTDhpUUFEVXExdHN6SFhldlU5TDA0dWJxdFl3ejV0eUpOMXN6OThRRUpFWDVfTzQ3dWpCazVqZWgyc1BCNEJ0dm9ESnJnSnBKRlVCNklKZk9YV21FWTR6NS1qMGQwdnQ0aGVjV3RnYjN3dTY2WGh6NkFJaTM2MU9DbXl4bDJlUXhONmlfZzNuMVlDbF9tTndNWUlyNjhjSGg0TnlKWVEzSDFHXzJaeVpPWnk5eFhnWXVaRThLQQ?oc=5)
+
+---
 
 ### [El tratamiento de la depresión más inusual: laxantes para la niebla mental - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTRKcTNRLWlEWFRMVlpYc19XQ1NWZW1XTEVKRjVRMUl4Y29uZU15TTljcUg1SUlqakpMbU9FNWwyWFRBTWsyNWgzb1FWb1NvOWtQblRrdnBPX3JJZjh0V1IybDY1ODJ4QnFyVlRjZENxbjdWWkRvOUNKdS12c1Vwak9hb2l1VjVaaHAtYWJ2bk01YWpDLW01SG5pc0RoUFB0UkxzdG5Ja1gzZUNpM2Y0enpHQXBUa0hLYWVqa3p5TVMwLVQ0SlR0VDBjZ1PSAcwBQVVfeXFMUGRNVWdGUFJJcFd3eDluRmZYN3pZc2l2U2NtOXZPd3V4VUlfNEo5UWdKOVFJTkE4aDg2WWU0UUFnSVd4MkVzOWlmSWtZQlBBZlhMejR6amh2bFBGODRkMVZfT0tyQjBKakQ1c0twNmFLZHkwYjJLRzVaMmIxd3A0Z0R1ZDgxNVNoaTNrSWExX1J0T1hVbEVTTl9XRjFMUTJtTWtNSWQ2eHg2dHEtYl9vUEVtRXlTVl8zMnlBVUVUN2lYQldBZ0w0V0Y4VHNn?oc=5)
 
 2026-06-22
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTRKcTNRLWlEWFRMVlpYc19XQ1NWZW1XTEVKRjVRMUl4Y29uZU15TTljcUg1SUlqakpMbU9FNWwyWFRBTWsyNWgzb1FWb1NvOWtQblRrdnBPX3JJZjh0V1IybDY1ODJ4QnFyVlRjZENxbjdWWkRvOUNKdS12c1Vwak9hb2l1VjVaaHAtYWJ2bk01YWpDLW01SG5pc0RoUFB0UkxzdG5Ja1gzZUNpM2Y0enpHQXBUa0hLYWVqa3p5TVMwLVQ0SlR0VDBjZ1PSAcwBQVVfeXFMUGRNVWdGUFJJcFd3eDluRmZYN3pZc2l2U2NtOXZPd3V4VUlfNEo5UWdKOVFJTkE4aDg2WWU0UUFnSVd4MkVzOWlmSWtZQlBBZlhMejR6amh2bFBGODRkMVZfT0tyQjBKakQ1c0twNmFLZHkwYjJLRzVaMmIxd3A0Z0R1ZDgxNVNoaTNrSWExX1J0T1hVbEVTTl9XRjFMUTJtTWtNSWQ2eHg2dHEtYl9vUEVtRXlTVl8zMnlBVUVUN2lYQldBZ0w0V0Y4VHNn?oc=5)
+
+---
+
+### [Selon une étude, ce n'est pas le cerveau mais cet organe inattendu qui le protège du déclin cognitif - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeW1lTHJISWYwdC1MMU9va01iaFlxVGV2clJWU29oWmxGTlhZNlM2Um5KcE9ySUdVTl9aSmhSbWc1VEhiZjhVLXZ4M1JMSmx6TjNDdDcwNDFkUHZYOTZnVjRJSDZvNTd1N3E2LXVfMXNLYkhVZ0JlcXdFWjFUb3FrN24yMnJpQzAxN3djcTQ4VS03TFBUSjB4VTRCUm5YcloxTnppUVFGM04?oc=5)
+
+2026-06-22
+
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeW1lTHJISWYwdC1MMU9va01iaFlxVGV2clJWU29oWmxGTlhZNlM2Um5KcE9ySUdVTl9aSmhSbWc1VEhiZjhVLXZ4M1JMSmx6TjNDdDcwNDFkUHZYOTZnVjRJSDZvNTd1N3E2LXVfMXNLYkhVZ0JlcXdFWjFUb3FrN24yMnJpQzAxN3djcTQ4VS03TFBUSjB4VTRCUm5YcloxTnppUVFGM04?oc=5)
 
 ---
 

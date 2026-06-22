@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（30 則）
 
 ### [Feeling Tired After Lunch Is Common—Dietitians Share 3 Tips to Avoid Afternoon Fatigue](https://news.google.com/rss/articles/CBMiekFVX3lxTE16TzFYbndQSGdiZWJzSzN5QkdjbVN1NTVvSEl0Y2xwQWwtNm8xYy04X2ZSX1Q3dE1PM1RyaEo2ZzN1LVpNa0xoRjhmTGtiRFZQeDhFdjZkdjFXZXJNVDVFcVd3dUJkR3J5TWVYYi1ieENmWkUwTHhIX3JR?oc=5)
 
 2026-06-22 <span class="news-indication-tag">AF</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE16TzFYbndQSGdiZWJzSzN5QkdjbVN1NTVvSEl0Y2xwQWwtNm8xYy04X2ZSX1Q3dE1PM1RyaEo2ZzN1LVpNa0xoRjhmTGtiRFZQeDhFdjZkdjFXZXJNVDVFcVd3dUJkR3J5TWVYYi1ieENmWkUwTHhIX3JR?oc=5)
+
+---
+
+### [Chikungunya: Impfstoffe in Afrika nicht zugelassen, in Europa schon](https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3RXVUY1TWxlS1hOMHdhNWJHUDc2MFhxdERqVXp5bXA5UnV0RjdoSE5zSldUTE5FTzQ2cDZFb0tLOWZhVkJkTFF4SmJKNXgzVGZFZS1FWWo3RjlCUWxIenJzU0ZRWEFPUTFLcldDQ2xuUG5NTmZKTXBvMFk1cHRfamtocEEtTTY5cjJMbFY2ZzVEaGxUclFxeXNCUHRfc0YySnc?oc=5)
+
+2026-06-22 <span class="news-indication-tag">AF</span>
+
+來源：[DiePresse.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3RXVUY1TWxlS1hOMHdhNWJHUDc2MFhxdERqVXp5bXA5UnV0RjdoSE5zSldUTE5FTzQ2cDZFb0tLOWZhVkJkTFF4SmJKNXgzVGZFZS1FWWo3RjlCUWxIenJzU0ZRWEFPUTFLcldDQ2xuUG5NTmZKTXBvMFk1cHRfamtocEEtTTY5cjJMbFY2ZzVEaGxUclFxeXNCUHRfc0YySnc?oc=5)
+
+---
+
+### [Mum's stroke death investigated over Covid jab](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
+
+2026-06-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
+
+---
+
+### [If you take blood pressure pills, you need to heed this warning - The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxNejRZTWh1RVd3TXNFMkFFTThockNvcGw1Rk1QdGliYzRJaU90clpac3lOdnBlRTlXMUJ2Znh4MzI3YkJKdEJtUU9nRThsLW9LX3U0LVpCa244ZmlLcHRzcndaaEpJZjNIOVFmaExvTGprN2lEZ2p3RkkwSVlaNXFKWmFwR2treEZvVFgwYVEyNnA2WjNZQVRBTFBKd3RvUkNTR1R5QWdvbDRQWXhIOGVuUGlQVFQyeUVYSnFubi1vcWp3elVmVnJoN2FQcw?oc=5)
+
+2026-06-22 <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxNejRZTWh1RVd3TXNFMkFFTThockNvcGw1Rk1QdGliYzRJaU90clpac3lOdnBlRTlXMUJ2Znh4MzI3YkJKdEJtUU9nRThsLW9LX3U0LVpCa244ZmlLcHRzcndaaEpJZjNIOVFmaExvTGprN2lEZ2p3RkkwSVlaNXFKWmFwR2treEZvVFgwYVEyNnA2WjNZQVRBTFBKd3RvUkNTR1R5QWdvbDRQWXhIOGVuUGlQVFQyeUVYSnFubi1vcWp3elVmVnJoN2FQcw?oc=5)
+
+---
+
+### [Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
+
+---
+
+### [„Schleuse“ für sperrige Fracht: Neue Details zum Transport von großen Proteinen durch Membranen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFM4SFNjeG9BeWdDeWQtWGYtU1NfOUEzMURua2NCRERDaWRZZ0JuMmllY2ZDRGZ0MFhGRVgwOHNyOXZaVUtkbUZLNFZudnJPUl84Y0c3M0RjVXVPenJqZXBlaHpkTmtlbEZTNkZxM0hWX3JGMnAteDJzNHYtQ0lleFBzeXc0YWZadmJlczBHQ0NfbDRLdEVJaExfaDFjcnpKdzREQjFlNWtjYmdUcEVNVkpGczljcDJvTGRkXzl6X21YbEZ3bUxycE43eUs4Y2tBS202ZDY0aWpIYjNuekpSZGlDTk9tN1E?oc=5)
+
+2026-06-22 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFM4SFNjeG9BeWdDeWQtWGYtU1NfOUEzMURua2NCRERDaWRZZ0JuMmllY2ZDRGZ0MFhGRVgwOHNyOXZaVUtkbUZLNFZudnJPUl84Y0c3M0RjVXVPenJqZXBlaHpkTmtlbEZTNkZxM0hWX3JGMnAteDJzNHYtQ0lleFBzeXc0YWZadmJlczBHQ0NfbDRLdEVJaExfaDFjcnpKdzREQjFlNWtjYmdUcEVNVkpGczljcDJvTGRkXzl6X21YbEZ3bUxycE43eUs4Y2tBS202ZDY0aWpIYjNuekpSZGlDTk9tN1E?oc=5)
 
 ---
 
@@ -75,14 +115,6 @@ permalink: /news/prilocaine/
 2026-06-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxONER3YnNoRWUwY2VNdDEzWHRMWU1VVXBQTFU1eFk5YmJ2REJ5M25DMHlybzhGc0lXajBUUTRUX0JKTWpNcVNVSUZVRmtDMy1hSUpTRVE5di1MbGhUMXF6SUp2UE5IUmpjdU1fSnY3OG1ZZlBzdjQxVF9ZazJlSWcweVRDUUltb0FzZjFBYkZiWHRmZkZDczB6ZWJrZGFqZTQ?oc=5)
-
----
-
-### [El Morales Meseguer renueva su área de patologías infecciosas con tecnología de presión negativa - Cadena SER](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUnJ4NTFLU1BON1J3TEtGYnM4d25xS0NYSHFJX0RWMFpUT21GNkZNRVVDOUI5NUVaRzNpTFRXdTNEOVhUcUxIOTlpTjBsY0hhcEMtVFZrU3d4QUtqb1V3YVNReDYxRkliWGlpeXgyeFdvdEItcjQyekdERGI1aEFUUEFneTQ3cjEzRVplcHBkQlBITDNwY0gwVHh3OXRjRHJoRDV2UFVSLUdtRm1qZ0g3aDZROS13UmhlcVltWDhta2dyQUNKSUU3VUEtSGp6cmRLTGM5ZktfSk9RSjV6eTFaNjcxcm3SAfgBQVVfeXFMUGVNWkE2M29UZmo0UVc1c1A0ZHJsdkphMFlLYmRWYWNoaWhqSGE3d2ZSb0xBb3ozSUU1aXV2ZmlLNGNmQjZ3UjRFMm9mRzZ2clptVjJiaVNtN09MOUlFdnhtNnBfaFMyclFlQmk2Q2ZJLUtzTzlKU3VEZmdJc3BUUU9EbVhraVFVOGNoMmhkbWo3b2owTTdJZmFDRXNRU2Mzakh3b0VpeDlsWHluQnQwZWJ6UVpsU3h0b1RuMnZQY3ktb0dRR0EyQkZmdF9UYklaeHdkdHlvQzZlWTZZT0hZbzFKNFYzTHZPYWlqVWw0X3ZXUVZFR0l2NzY?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AF</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUnJ4NTFLU1BON1J3TEtGYnM4d25xS0NYSHFJX0RWMFpUT21GNkZNRVVDOUI5NUVaRzNpTFRXdTNEOVhUcUxIOTlpTjBsY0hhcEMtVFZrU3d4QUtqb1V3YVNReDYxRkliWGlpeXgyeFdvdEItcjQyekdERGI1aEFUUEFneTQ3cjEzRVplcHBkQlBITDNwY0gwVHh3OXRjRHJoRDV2UFVSLUdtRm1qZ0g3aDZROS13UmhlcVltWDhta2dyQUNKSUU3VUEtSGp6cmRLTGM5ZktfSk9RSjV6eTFaNjcxcm3SAfgBQVVfeXFMUGVNWkE2M29UZmo0UVc1c1A0ZHJsdkphMFlLYmRWYWNoaWhqSGE3d2ZSb0xBb3ozSUU1aXV2ZmlLNGNmQjZ3UjRFMm9mRzZ2clptVjJiaVNtN09MOUlFdnhtNnBfaFMyclFlQmk2Q2ZJLUtzTzlKU3VEZmdJc3BUUU9EbVhraVFVOGNoMmhkbWo3b2owTTdJZmFDRXNRU2Mzakh3b0VpeDlsWHluQnQwZWJ6UVpsU3h0b1RuMnZQY3ktb0dRR0EyQkZmdF9UYklaeHdkdHlvQzZlWTZZT0hZbzFKNFYzTHZPYWlqVWw0X3ZXUVZFR0l2NzY?oc=5)
 
 ---
 
@@ -144,7 +176,7 @@ permalink: /news/prilocaine/
 
 ### [Men's health slumps in midlife – but these simple lifestyle changes will add years to your life](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
 
-2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-22 <span class="news-indication-tag">AF</span>
 
 來源：[BikeRadar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
 
@@ -198,14 +230,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Ebolavirus bleibt nach dem Fieber im Gehirn - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVm8zV2xZa05CdHhVOUNXanFET3NEVE4xSUdLMmtENmxIZUg4YkhiUXNGQWVRS05rT2U0U0xYeTVERndPY0M0N2M4Q2I5Vkdhdnh0ZF81SnQxNnRibENlZW0yREoxN0tIQjNaOFhFNTZOSVp6QXBiTG5iLXFIYno4Sw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVm8zV2xZa05CdHhVOUNXanFET3NEVE4xSUdLMmtENmxIZUg4YkhiUXNGQWVRS05rT2U0U0xYeTVERndPY0M0N2M4Q2I5Vkdhdnh0ZF81SnQxNnRibENlZW0yREoxN0tIQjNaOFhFNTZOSVp6QXBiTG5iLXFIYno4Sw?oc=5)
-
----
-
 ### [Los datos respaldan el tratamiento anti-CGRP intravenoso en migraña crónica - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWt4QkIwMi10Q0JuOXJzNTFDTkZzSV84WmZEbm54WTBPZUx6NF9fWnZ2MmR3T3NodmRMWktZUmFFWXg0cW9UYlM2cGJ0aVpER1pmeFlXaGgyTDJhT2ZhQ3JPdndEXzFxTEdZWlNJekVNNU10WEdzRlh6V2FIRG01SGRUVVRlanBRc1FDNnZ1Q2V0Q3ZjRUNWTF9kekRPMmhEcU16ZEozcE93N1E4SEtDeG40TU82YmJFNFNpRGF6Q2NyOTJXblhqY3pVNlDSAcwBQVVfeXFMTTIwNk1fMU01Zk95TzJ5YnhhNGxDZzdfcWVQSDFUZFJKNGU4YlN5YlhqS3dZaXJSRXZubkVMTXl0WWRfQ3RxMmFnYjRQTU5uZVkzMmY5VHJrU0tXTTRMempEMFBENkdVaEMyQUhjTXR2QjduWTlleTN4YjhuZDlYWFlqbF9NdEROOGtfQ3pJbkFXWFpZaC1icXdEbnhsb1VZdW45MUthRTA5YTl2ZFRwTlBNdWJPcjk2QjFUVTNwcmt4U19mUHBaSGZlSWF6?oc=5)
 
 2026-06-22 <span class="news-indication-tag">migraña</span>
@@ -238,14 +262,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [„Wenn wir manchmal im Garten sitzen und die Luft nach Flieder riecht, schafft der Krebs es nicht, uns diesen Moment zu stehlen“](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzJoX1pQenNsSmdRc3lwUmVFbkQ3ckhTbllybDBmbmFhTUNjcURwSTc4VTg2ZVhCYjBTeXlRWi1kMkNXdUhVVGpjMW91MjFkQ3BYZVp5Tk1BYmJEWFJnMXlVVnIzaEwwSEc2b055cklyTXBmS2NCUnNMR1dyVE9tNlM5anNrWG03cnVIeGpmcFV0ekNBek02THRzNHY5RnpqamVtUzNlNlV5UnRxSjhQZ1RqV2lIalp6ZVhGcUw4ZXdDTURVeXdPSHdGTEJ4Tkt0dnUycmFzN0Eta2J5bnUtQjRJdWF4Y0p0cXdYT3JqRzFvZkxhVmxDZUFLeTdDQlg1OHl4NV9PUQ?oc=5)
-
-2026-06-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nordkurier](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzJoX1pQenNsSmdRc3lwUmVFbkQ3ckhTbllybDBmbmFhTUNjcURwSTc4VTg2ZVhCYjBTeXlRWi1kMkNXdUhVVGpjMW91MjFkQ3BYZVp5Tk1BYmJEWFJnMXlVVnIzaEwwSEc2b055cklyTXBmS2NCUnNMR1dyVE9tNlM5anNrWG03cnVIeGpmcFV0ekNBek02THRzNHY5RnpqamVtUzNlNlV5UnRxSjhQZ1RqV2lIalp6ZVhGcUw4ZXdDTURVeXdPSHdGTEJ4Tkt0dnUycmFzN0Eta2J5bnUtQjRJdWF4Y0p0cXdYT3JqRzFvZkxhVmxDZUFLeTdDQlg1OHl4NV9PUQ?oc=5)
-
----
-
 ### [Locken Insektenschutzmittel Mücken sogar an? Forscher entdecken überraschenden Effekt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFJhUmx6VWRXRkd4LWlJb1lGZE14ZUMxVkZTbnIzcktiOEw0RGlfVlJRSDlSM3NDaEJqWU5kVnZ6Ym8yR0k0cVFtMWZxOVZxWG1yVU15MmNfY2lwLS1zVF9XTDVzaXRMSTYwY3c1S1dWUUV6bnU0bzg0enppRTVaUENzUTB6eTR4THZsc29kRmdUUXhPdHhwUGg4TXZIUTNoc1RUSVozSmQ1Z1Z4MzAwWDRIc3E0bzV3RDVVSjhpUWMxRG1tMzRaTEZsUl9FTl9XZWRyTA?oc=5)
 
 2026-06-21 <span class="news-indication-tag">AF</span>
@@ -270,11 +286,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Cacio e Pepe für die Wissenschaft: Wie italienische Forscher die perfekte Soße fanden](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSTktd2doWTM3dTFnU280UENOTl81azJCQWsxckNyRnAyVlhkb001YjMyd1Zab2Z3b01RY0p5WWZtc3NCNE9WeGo4eHRNNG5hZHY0SVQ0MUlqZlhsLXRPc0t3NVZleGI4elR5Z2swM0pKb05rdXRyYkJpTHh6TXhEalR1cTFwbVE2aVZwWFNRX2hkcjBXSUhtM2cwZkRWanBRdlI0anhXZzFhbUhTR00yVmJBMHZJUjhtV2JFTTRGcVN4V1J0OWdOWEN1X19OdzY0cy1aUG0ya2hQalo3a3huYkpXZWQ5aUtHanRpMw?oc=5)
+### [Zebrafische zeigen: Dein Gehirn „weiß“ vor dir, wann eine soziale Interaktion bevorsteht](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTWNXVkJjNUlhRm9ESVAtZzJKSzc5MUl2LVByT3NzVzZZdGJMRVhnLW8yQjdZVTRZNWFCZDlHQXRpeVUwVEtZeWIzdDVjZEdtT3I2NWFUbGdmS1VTTDlJN2RGdmhQTFlSbEJVSk9KVU9UNVZRb3c?oc=5)
 
-2026-06-20 <span class="news-indication-tag">AF</span>
+2026-06-21 <span class="news-indication-tag">AF</span>
 
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSTktd2doWTM3dTFnU280UENOTl81azJCQWsxckNyRnAyVlhkb001YjMyd1Zab2Z3b01RY0p5WWZtc3NCNE9WeGo4eHRNNG5hZHY0SVQ0MUlqZlhsLXRPc0t3NVZleGI4elR5Z2swM0pKb05rdXRyYkJpTHh6TXhEalR1cTFwbVE2aVZwWFNRX2hkcjBXSUhtM2cwZkRWanBRdlI0anhXZzFhbUhTR00yVmJBMHZJUjhtV2JFTTRGcVN4V1J0OWdOWEN1X19OdzY0cy1aUG0ya2hQalo3a3huYkpXZWQ5aUtHanRpMw?oc=5)
+來源：[t3n](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTWNXVkJjNUlhRm9ESVAtZzJKSzc5MUl2LVByT3NzVzZZdGJMRVhnLW8yQjdZVTRZNWFCZDlHQXRpeVUwVEtZeWIzdDVjZEdtT3I2NWFUbGdmS1VTTDlJN2RGdmhQTFlSbEJVSk9KVU9UNVZRb3c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/bictegravir/
 ---
 
 <p class="key-answer" data-question="Bictegravir 有什麼相關新聞？">
-<strong>Bictegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bictegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/bictegravir/
 <p><a href="{{ '/drugs/bictegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [El ECDC unifica el cribado de hepatitis B y C en donaciones ante el Reglamento SoHO](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
 
 2026-06-22 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
+
+---
+
+### [Hepatitis Delta enciende alertas por su vínculo con cáncer hepático y riesgo de evolución acelerada - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
+
+2026-06-22 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
 
 ---
 

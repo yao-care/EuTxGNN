@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
 
-### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+### [Mum's stroke death investigated over Covid jab](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
+
+2026-06-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
+
+---
+
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxPREVEZUoxQ0tLaGMtX2cxZkIxc2dGbGVNRy1BUjBtbHZTcHNVcVdJdWsxbV80LUZCMzVXbjdHVVpMR0NfellPcC1ybWl4NHFYT2NiNDVQSkxCVHZUM0RoYW16Q0RwNDlBdFBCZW9jZ1BaS2JsQWR0RmZzeV8wNkk5alkwR21nT01hR05uZE4xbFF4QzV1SHh1MjEtRzVjQXFrQ3JmZkhCdUhOLVJvbGotNQ?oc=5)
 
 2026-06-22 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxPREVEZUoxQ0tLaGMtX2cxZkIxc2dGbGVNRy1BUjBtbHZTcHNVcVdJdWsxbV80LUZCMzVXbjdHVVpMR0NfellPcC1ybWl4NHFYT2NiNDVQSkxCVHZUM0RoYW16Q0RwNDlBdFBCZW9jZ1BaS2JsQWR0RmZzeV8wNkk5alkwR21nT01hR05uZE4xbFF4QzV1SHh1MjEtRzVjQXFrQ3JmZkhCdUhOLVJvbGotNQ?oc=5)
+
+---
+
+### [Asundexian avanza en su camino regulatorio para la prevención secundaria del ictus - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGdIek1JRmQyNFJXbk5QTmFmTldzWHFGTmxUemdlYjcxcTRrbHNyVTdvZ2wzWjlQQlY0ZTQzNGF4RS1CNWhrYUhvNTBVWE1GMEJibkNITlVZNy1CVGFwMVJ3UDlnYWVXUWVsTTdXWFFqSmdpNER5UGZsaFJMdThOUkRuWk03a1RaUDUwTTJoLWdiWFpkek1aRGR2c2Q3bU0wYU1xaEVUNlc5ZVdRWDB5VXIyeG1TX0ttb2k4WDRXOGsxUdIBvAFBVV95cUxPaUdHR2RLTzNaRHBLRDdlWTdXWW03T0xUYUdCRlR0bTJEajZhbjNuSEdUcG5vTmNLQ3pmbFpuUkV0YTVEQ0pBdnlqX194UkNGMWFFaVpwR3BMMnBORi1fSWpzQU9zYVpETnlObkNzam5ZLTh3aEVwYTBDcG02NjFRTExsM2xObDRwTkVGbEJvY2dBbkZIcEVablZ3THRaQjJYQUJ5cS11MktQSkpvV0N1RDFGcHk1bGRnYVVraA?oc=5)
+
+2026-06-22 <span class="news-indication-tag">ictus</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGdIek1JRmQyNFJXbk5QTmFmTldzWHFGTmxUemdlYjcxcTRrbHNyVTdvZ2wzWjlQQlY0ZTQzNGF4RS1CNWhrYUhvNTBVWE1GMEJibkNITlVZNy1CVGFwMVJ3UDlnYWVXUWVsTTdXWFFqSmdpNER5UGZsaFJMdThOUkRuWk03a1RaUDUwTTJoLWdiWFpkek1aRGR2c2Q3bU0wYU1xaEVUNlc5ZVdRWDB5VXIyeG1TX0ttb2k4WDRXOGsxUdIBvAFBVV95cUxPaUdHR2RLTzNaRHBLRDdlWTdXWW03T0xUYUdCRlR0bTJEajZhbjNuSEdUcG5vTmNLQ3pmbFpuUkV0YTVEQ0pBdnlqX194UkNGMWFFaVpwR3BMMnBORi1fSWpzQU9zYVpETnlObkNzam5ZLTh3aEVwYTBDcG02NjFRTExsM2xObDRwTkVGbEJvY2dBbkZIcEVablZ3THRaQjJYQUJ5cS11MktQSkpvV0N1RDFGcHk1bGRnYVVraA?oc=5)
+
+---
+
+### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
 
 ---
 
@@ -78,11 +102,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Risiko durch Konservierungsstoffe? Diese acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOW5kUlNOVWk5M0ZjV09vWS1kU1dhRjhUSFBEMHFaeGZrcVVqeTdGOEx1N0w1cFBvS0dSdFRYTmNjbHhyaW9yMmxULWE0X0xjQjlzZGppSHpUWUNHVWRxLWVYLWdJekpKNU1IZ3hVYXJDekNnN2djS3FUY3NDd1hTVTBKSzZ0UXE5aHR6TExmUjdwQmxNbVI5dHREbV9vdEIyeEFJcXpUNGZOcS1yMXJRNFFCOGNmWWprWmp5azE1QmMwUjFOQmNJcDRUQ0hIVzNVVmc?oc=5)
+### [Täglich verzehrte Lebensmittel: Acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
 
 2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Ntv](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOW5kUlNOVWk5M0ZjV09vWS1kU1dhRjhUSFBEMHFaeGZrcVVqeTdGOEx1N0w1cFBvS0dSdFRYTmNjbHhyaW9yMmxULWE0X0xjQjlzZGppSHpUWUNHVWRxLWVYLWdJekpKNU1IZ3hVYXJDekNnN2djS3FUY3NDd1hTVTBKSzZ0UXE5aHR6TExmUjdwQmxNbVI5dHREbV9vdEIyeEFJcXpUNGZOcS1yMXJRNFFCOGNmWWprWmp5azE1QmMwUjFOQmNJcDRUQ0hIVzNVVmc?oc=5)
+來源：[Ntv](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
 
 ---
 
