@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+---
 
 ### ["Arrachez-moi la tête" : le calvaire de Miren, Montpelliéraine devenue invalide à cause de migraines chroniques infernales - Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ0lwVGhBeUlOeXQtXzdLMTI1Z01DcTBuRzdSWmxaaGktRDczNEpBaTYyblp6Z1laMmFfU1FpTjMtUXlxRzhSaXJtdVFQX001ZE1ZazVkVkVieHBIbTVZWVdCQkY2RUtqVmFlM0JsMFZJdnRtajliS3AxbTU1WE1IUG1zSExhc1JuZ1VfekEwMDRFZXVlVXRfUk5WaThXWTlKcGIzY2RwNHhXWkRiVDJuVElCRjFiS1haR3l3ZUY2Y0hXZ3dlNjlpLXFQSi1ubGlkR0JOSF9Cd0ZhUXdmbHYzLVQzeEVQU2tqSF9VZ0JjbEdKQjJiYXgzNDVn?oc=5)
 

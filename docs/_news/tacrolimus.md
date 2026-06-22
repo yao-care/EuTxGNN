@@ -54,19 +54,19 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（4 則）
 
-### [Mit Vitamin D3 Psoriasis unter Kontrolle.](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1NjVjAwbGxKckItME8yUThiRkNqOVN1WlBqelNLWnRYaW9sS0g2T2tWd2ZVTldmX09CbXNMM2EzUVdxY19jR3ZHMWZ5UHh5WDRWSmRnZUtFZmphaTc2TmF2eEt4N0JJZ3lIa2gySDQtZWk4cWlhSUNHS2ZmSENsemVlV3JpeDhlUkdFQ1V6Z28tRDF0?oc=5)
-
-2026-06-21 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1NjVjAwbGxKckItME8yUThiRkNqOVN1WlBqelNLWnRYaW9sS0g2T2tWd2ZVTldmX09CbXNMM2EzUVdxY19jR3ZHMWZ5UHh5WDRWSmRnZUtFZmphaTc2TmF2eEt4N0JJZ3lIa2gySDQtZWk4cWlhSUNHS2ZmSENsemVlV3JpeDhlUkdFQ1V6Z28tRDF0?oc=5)
-
----
-
 ### [La clim ne donne pas le rhume, mais peut vous jouer des tours - Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
 
 2026-06-21 <span class="news-indication-tag">arthrite</span>
 
 來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
+
+---
+
+### [Mit Vitamin D3 Psoriasis unter Kontrolle.](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1NjVjAwbGxKckItME8yUThiRkNqOVN1WlBqelNLWnRYaW9sS0g2T2tWd2ZVTldmX09CbXNMM2EzUVdxY19jR3ZHMWZ5UHh5WDRWSmRnZUtFZmphaTc2TmF2eEt4N0JJZ3lIa2gySDQtZWk4cWlhSUNHS2ZmSENsemVlV3JpeDhlUkdFQ1V6Z28tRDF0?oc=5)
+
+2026-06-21 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1NjVjAwbGxKckItME8yUThiRkNqOVN1WlBqelNLWnRYaW9sS0g2T2tWd2ZVTldmX09CbXNMM2EzUVdxY19jR3ZHMWZ5UHh5WDRWSmRnZUtFZmphaTc2TmF2eEt4N0JJZ3lIa2gySDQtZWk4cWlhSUNHS2ZmSENsemVlV3JpeDhlUkdFQ1V6Z28tRDF0?oc=5)
 
 ---
 

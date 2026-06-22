@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+---
 
 ### [The common sleep condition that raises your risk of stroke and costs workplaces billions - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3VaeHJxdGNRTXdISE5tUnVwWTNSU0YtS184VExjM3hJNnp0X0ZQTkZ1OFVaR2tiNmYxWnJWeXF1dUtIZV8tcFo2Ymt3ZFIyNW9TM3FPRHVVYVRUYlBCaUV6cTloeGVDWDloaG9NaWp0eVA2SFo0VXI4RTRBU0VfYmNCRVVQRWFPbUg4YXZDX3lka3dDa3VUM2M2ZnlFTjZoREtWTkZFQWQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Locken Insektenschutzmittel Mücken sogar an? Forscher entdecken überraschenden Effekt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFJhUmx6VWRXRkd4LWlJb1lGZE14ZUMxVkZTbnIzcktiOEw0RGlfVlJRSDlSM3NDaEJqWU5kVnZ6Ym8yR0k0cVFtMWZxOVZxWG1yVU15MmNfY2lwLS1zVF9XTDVzaXRMSTYwY3c1S1dWUUV6bnU0bzg0enppRTVaUENzUTB6eTR4THZsc29kRmdUUXhPdHhwUGg4TXZIUTNoc1RUSVozSmQ1Z1Z4MzAwWDRIc3E0bzV3RDVVSjhpUWMxRG1tMzRaTEZsUl9FTl9XZWRyTA?oc=5)
 
@@ -70,6 +70,30 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [Desmienten mito del consumo moderado de alcohol; OMS advierte riesgos](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3d1VDRROWV1SUZISTU2cXlWcFdRVmlWN2IzMWdWU2d6eGM3cEpkb0ZEcmotNGp4UDE3b0tuVTFzTER6TnRVUC1kZHpaUkxxUXBUWDB0S3F0X2JLeXFxVE1kbEJlWk5PWjVJX1lfVzlCN1JIZF9TU1pYWi1vWVQ0eVVWbjViVzd3MXJmRF80VWxkVEx2VThTRU5B0gGiAUFVX3lxTE4ySmxMeWdsSzY4QzVQd0t6VGtVOGhmV2tvMGFQSHdLRUotTFRLX1RhSXk0NVZNbnQ3eWVBVnJ1VHpQQ2gtdkZVX3JLemFKLTAwTjJoT0cxOUNMNnZFSGhlN0g2cGhyOWUya1UzUGlrWTdidWQyYlFRMElGV3M2ZlZDOTBfZ2FTN3RndnVORzJpYzNWSGh2YlMtOVZ2TndzUzRFdw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">MS</span>
+
+來源：[laverdadnoticias.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3d1VDRROWV1SUZISTU2cXlWcFdRVmlWN2IzMWdWU2d6eGM3cEpkb0ZEcmotNGp4UDE3b0tuVTFzTER6TnRVUC1kZHpaUkxxUXBUWDB0S3F0X2JLeXFxVE1kbEJlWk5PWjVJX1lfVzlCN1JIZF9TU1pYWi1vWVQ0eVVWbjViVzd3MXJmRF80VWxkVEx2VThTRU5B0gGiAUFVX3lxTE4ySmxMeWdsSzY4QzVQd0t6VGtVOGhmV2tvMGFQSHdLRUotTFRLX1RhSXk0NVZNbnQ3eWVBVnJ1VHpQQ2gtdkZVX3JLemFKLTAwTjJoT0cxOUNMNnZFSGhlN0g2cGhyOWUya1UzUGlrWTdidWQyYlFRMElGV3M2ZlZDOTBfZ2FTN3RndnVORzJpYzNWSGh2YlMtOVZ2TndzUzRFdw?oc=5)
+
+---
+
+### [Metformin and beta blocker users face 4 day health warning from Monday, June 22 - Daily Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTI2RWR0NHc5NmRMRnAyQnBsTUZZTGdiVHM1dHdabVRKWDZoZi04MUdVNWlYTWhOLUF3dkdNLUNwVWZWLWpwbjFQdlBoUmJUeWxRQnNHX0d4bzY5OUN6OTFKdk9jalFFZVhZbVdUSG1PMlRXNi1ocHhNRk9NbDZmcEcyNnMxQdIBiwFBVV95cUxPSFU1MUVLRE9oR1Fsd3UzQXVRbjFnUzYyWEdkS1NuVTFfZkxtZlFuSVJhS0MtSlktcFlSVzY3V3dmOGkzWXpVbFMwMXdKRGQ2azhwUW96TzdoZWE0eWlrTl9pZmlhQXNxUUJuMDl6T3lKTGl5dmVlNHdSalo4U2FNa2FJZmpXSnlDaTBv?oc=5)
+
+2026-06-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTI2RWR0NHc5NmRMRnAyQnBsTUZZTGdiVHM1dHdabVRKWDZoZi04MUdVNWlYTWhOLUF3dkdNLUNwVWZWLWpwbjFQdlBoUmJUeWxRQnNHX0d4bzY5OUN6OTFKdk9jalFFZVhZbVdUSG1PMlRXNi1ocHhNRk9NbDZmcEcyNnMxQdIBiwFBVV95cUxPSFU1MUVLRE9oR1Fsd3UzQXVRbjFnUzYyWEdkS1NuVTFfZkxtZlFuSVJhS0MtSlktcFlSVzY3V3dmOGkzWXpVbFMwMXdKRGQ2azhwUW96TzdoZWE0eWlrTl9pZmlhQXNxUUJuMDl6T3lKTGl5dmVlNHdSalo4U2FNa2FJZmpXSnlDaTBv?oc=5)
+
+---
+
+### [Four foods that could improve your cholesterol and boost heart health - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzJqWER3S3QwRXZtNGZON1Z4TWdjb0VSdTIzbHpsOERHcy1Ddm53U3YyZXFFbkF6RV9rZXBpRzhaQk91ckd4cHhHMWJkVlBSQkxhYm5LNjBEVVNzakhmTDJTT0duMzZDakpGZ2JuRWxtMEh0Z2loLTNJSURlWVFwV0FVMElzUUJoOXp6d0FmMkJVQWpXbXBDR2tOYzRUM2R3cDAwV3l0Uy1Ddw?oc=5)
+
+2026-06-20 <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzJqWER3S3QwRXZtNGZON1Z4TWdjb0VSdTIzbHpsOERHcy1Ddm53U3YyZXFFbkF6RV9rZXBpRzhaQk91ckd4cHhHMWJkVlBSQkxhYm5LNjBEVVNzakhmTDJTT0duMzZDakpGZ2JuRWxtMEh0Z2loLTNJSURlWVFwV0FVMElzUUJoOXp6d0FmMkJVQWpXbXBDR2tOYzRUM2R3cDAwV3l0Uy1Ddw?oc=5)
+
+---
+
 ### [Neue Studie zweifelt an Calcium und Vitamin D: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbG91amNELXJMeVp6M25wcE5JUFlRTDhVdlg0dzJIU21meWlVY0lmX25Td2NXdUJpYlVBVFprVEo0ODI4NjFBV1BkWTVrQUY3a3ROdl8waWtxX281OW5kYzRXVnduUWtGVl9BcW9qVF9FT3h0NHl2QUFHSnZCV3BXQWtKQTlaVjFCODJ2b1N5TW15ejRIWHcxcmNGSGstMERvaVNmWHBLS1VBLTlfUzNuZ290cEYxQQ?oc=5)
 
 2026-06-20 <span class="news-indication-tag">MS</span>
@@ -78,11 +102,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Doctor warning for Brits taking sertraline, citalopram, escitalopram or fluoxetine - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkJPbWJPVm9zbnNsR3RtMnFVUVlVVmQ1cHRXRmlINEpZZXp4S0gwdmNqS2dpQzRSYXZsQzhSOGUydm8wOC1qZjdGOTFpWDJnWVlpY0xqbGhnS0JJaVFqbndXWmlmQk9GTTlCU240alZ2V1lJTnpFYVlOSjRSZERVMnp4anFGX0lpY3ItRdIBkgFBVV95cUxQZGtmeTZrblVnQjlNNGFfb29qMGRuNDFBSXBUM3BQVHdGZ1FmYllUczBQcEdjbVRQS29FNGFTazRBd0JjR2xWSm1rWGlqRUNpYVJZVVg1TmdrbWROcEI1T1FIMFFUMWVpa2hNUDloc0VMQXF1bjBsVVdEOFpoeWxrSTNNNEEzUmNUX3AxZWEwZ0t3QQ?oc=5)
+### [Più di 70 operatori sanitari sono stati infettati dal virus ebola nella Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxPblppczZtMy1aeU9ORFVaVjR3NW41cE1vZjNsY0xZODJVX0hDYS01N1RNRnd6bTJQMmk3V01MMVprVkZ6QkljZHBhVDlFeXNCcFBIYkFRYkI0aDJoVGJXS3ZJeGVDQnpmN1VYbUpRQS1DWk1iNGFMRTRrWmtGZmU4U0pCYW5Xc0dscmN1UTZR?oc=5)
 
-2026-06-20 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
+2026-06-20 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkJPbWJPVm9zbnNsR3RtMnFVUVlVVmQ1cHRXRmlINEpZZXp4S0gwdmNqS2dpQzRSYXZsQzhSOGUydm8wOC1qZjdGOTFpWDJnWVlpY0xqbGhnS0JJaVFqbndXWmlmQk9GTTlCU240alZ2V1lJTnpFYVlOSjRSZERVMnp4anFGX0lpY3ItRdIBkgFBVV95cUxQZGtmeTZrblVnQjlNNGFfb29qMGRuNDFBSXBUM3BQVHdGZ1FmYllUczBQcEdjbVRQS29FNGFTazRBd0JjR2xWSm1rWGlqRUNpYVJZVVg1TmdrbWROcEI1T1FIMFFUMWVpa2hNUDloc0VMQXF1bjBsVVdEOFpoeWxrSTNNNEEzUmNUX3AxZWEwZ0t3QQ?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMijgFBVV95cUxPblppczZtMy1aeU9ORFVaVjR3NW41cE1vZjNsY0xZODJVX0hDYS01N1RNRnd6bTJQMmk3V01MMVprVkZ6QkljZHBhVDlFeXNCcFBIYkFRYkI0aDJoVGJXS3ZJeGVDQnpmN1VYbUpRQS1DWk1iNGFMRTRrWmtGZmU4U0pCYW5Xc0dscmN1UTZR?oc=5)
 
 ---
 
@@ -99,22 +123,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-06-20 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vb2hDRWMxbWsyRlBkSG5CZGNodFo2SWFjellYQ0NHYUMyNzVRZlVYQWprMEpmdFB5RG5OcnR2MVp2VDdCb2Nadjk2NkViVDJaOTJGbldhREtEQkx6?oc=5)
-
----
-
-### [Notdienst heute in Wolfsburg: Notapotheken am Samstag](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3Exa0gxaE16ZXdMRnRTaFEzWXZ5OVRKQ2l6Y1ZPbWtxR0FSd2pCcTJNaTR6Z252NEZfWU11WGJ5eEJTUDRQSHpXM2NSV2REbXNUN1ZVenExQ25QZjhxM0QydndnbVBqVEYwcFNtSUI1Y3czVDg4X0k3Ukxxbi0xU21qNXRqaUttWlVqRWJTNXVwUjFkSENqbWpjWXV3QVgycG9DVWpfTy0tM2RWaU9KUEhsZGFNTTZjamgtcFNCOW1UcmRCLUxvX3d4YjBUYU1LVmI4NkhUbF9kZnJsUlpvMnJR0gHnAUFVX3lxTE9xSlhaTGJpNWl4ZlYwaDZKUHZ6cGFBeEhuTGgzbUVvU0JlWWpKbV9PbDJlY21qN2YzM2tpRGt0c0NiTlNYNTZUSzlQVUJHUWhzSnhzYkZRZFdBMFVXWHp1ejQ0M0RYc1oxLTRId0JiMlNDamVZT3VUTE10U2lmcm1CS1RpenFEWldKX05Cc2JxdTVsemVLcTZOVmtRYnZlNDA0MzBfVmNvUV9yZEpldkY0TG54OUpsWlRvaDhYUmdWQmMxeWVSN052eUxKWWoyTUlHMkpNdEZlY1FpT0dQYmZEeTFkcktQQQ?oc=5)
-
-2026-06-20 <span class="news-indication-tag">MS</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3Exa0gxaE16ZXdMRnRTaFEzWXZ5OVRKQ2l6Y1ZPbWtxR0FSd2pCcTJNaTR6Z252NEZfWU11WGJ5eEJTUDRQSHpXM2NSV2REbXNUN1ZVenExQ25QZjhxM0QydndnbVBqVEYwcFNtSUI1Y3czVDg4X0k3Ukxxbi0xU21qNXRqaUttWlVqRWJTNXVwUjFkSENqbWpjWXV3QVgycG9DVWpfTy0tM2RWaU9KUEhsZGFNTTZjamgtcFNCOW1UcmRCLUxvX3d4YjBUYU1LVmI4NkhUbF9kZnJsUlpvMnJR0gHnAUFVX3lxTE9xSlhaTGJpNWl4ZlYwaDZKUHZ6cGFBeEhuTGgzbUVvU0JlWWpKbV9PbDJlY21qN2YzM2tpRGt0c0NiTlNYNTZUSzlQVUJHUWhzSnhzYkZRZFdBMFVXWHp1ejQ0M0RYc1oxLTRId0JiMlNDamVZT3VUTE10U2lmcm1CS1RpenFEWldKX05Cc2JxdTVsemVLcTZOVmtRYnZlNDA0MzBfVmNvUV9yZEpldkY0TG54OUpsWlRvaDhYUmdWQmMxeWVSN052eUxKWWoyTUlHMkpNdEZlY1FpT0dQYmZEeTFkcktQQQ?oc=5)
-
----
-
-### [GLP-1-Therapie: 81 Prozent der Nutzer bleiben unzufrieden trotz Gewichtsverlust - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlpFRjJuSUN5N1FFVXBoTVk3OFprdWhld3ZySld6RmxpaW40TTd6LW5NeWV3OG9rSGJtWWNPcTVwclNPcEdOeHM1bzB4OERJOXVOTjAtX29mRjhPdlJocmNoRVZvR1RmX0VTRTVnUzZwQjQ5VVY4ZE1IUnRiVkRmUnFEYVFqT1AtM1NQM2pnaTEwSWtCNXhPdFlSRG9pM20xdTdLdHVVbUVRc3RsekVWOA?oc=5)
-
-2026-06-18 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlpFRjJuSUN5N1FFVXBoTVk3OFprdWhld3ZySld6RmxpaW40TTd6LW5NeWV3OG9rSGJtWWNPcTVwclNPcEdOeHM1bzB4OERJOXVOTjAtX29mRjhPdlJocmNoRVZvR1RmX0VTRTVnUzZwQjQ5VVY4ZE1IUnRiVkRmUnFEYVFqT1AtM1NQM2pnaTEwSWtCNXhPdFlSRG9pM20xdTdLdHVVbUVRc3RsekVWOA?oc=5)
 
 ---
 

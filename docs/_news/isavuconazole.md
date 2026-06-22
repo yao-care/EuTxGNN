@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+---
 
 ### [La clim ne donne pas le rhume, mais peut vous jouer des tours - Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
 

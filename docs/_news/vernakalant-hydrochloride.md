@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（37 則）
+## 相關新聞（35 則）
+
+### [Microplastiques dans l’eau : le filtre inventé par une lycéenne affiche des résultats impressionnants](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMkZVbWlXVXhKcmp6NWZiTUlDbUZMc3ItMTNBTDRvN29yVUR4MENPa1V4R1FUUldSN2VIaHF4cTBZRlVieGViSk1rcnpOb2twOTMxaFlWSV9QZlVTT1VLUW1nYnZ3NUs4TkRaWkF0TnpIQjNVbnotMmF2c21xdDRVSVRaS3puNUtPREtqVXN3aE5BcTUyXzVWcVBwVEx2M3JwSmU3SVpUZFJ4Q3Q2Y0NqQVd6N1k5bmc3SE53MkJ4LVhPRnoxcjU0MzNjS0FFZk5QY0RBMUtB?oc=5)
+
+2026-06-21 <span class="news-indication-tag">AF</span>
+
+來源：[Melty](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMkZVbWlXVXhKcmp6NWZiTUlDbUZMc3ItMTNBTDRvN29yVUR4MENPa1V4R1FUUldSN2VIaHF4cTBZRlVieGViSk1rcnpOb2twOTMxaFlWSV9QZlVTT1VLUW1nYnZ3NUs4TkRaWkF0TnpIQjNVbnotMmF2c21xdDRVSVRaS3puNUtPREtqVXN3aE5BcTUyXzVWcVBwVEx2M3JwSmU3SVpUZFJ4Q3Q2Y0NqQVd6N1k5bmc3SE53MkJ4LVhPRnoxcjU0MzNjS0FFZk5QY0RBMUtB?oc=5)
+
+---
+
+### [Not just a sugar bomb: why it’s OK to drink fruit juice after all - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaF9IMHRNdHpUY1NaZXRMRlE5QU1tQkJfN0Y5RFFoVGpLdnZmM3JaXzBsUmtza1hZV2w2SFhoZXVDaUhSbE5oWnZybTN4R1F6enNmcnZ2VEpJeHkzeGRzWHR6S0x4MExYdnVnQjVqZTlhVG9WeE9KSEtLWG1XcGh6SzlRWTFsbDRreDBMWEZrbTRXRzJUU0tEdUpMVGJJRzNSSF9CZGZScWotdFRDVU9YXzZB?oc=5)
+
+2026-06-21 <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaF9IMHRNdHpUY1NaZXRMRlE5QU1tQkJfN0Y5RFFoVGpLdnZmM3JaXzBsUmtza1hZV2w2SFhoZXVDaUhSbE5oWnZybTN4R1F6enNmcnZ2VEpJeHkzeGRzWHR6S0x4MExYdnVnQjVqZTlhVG9WeE9KSEtLWG1XcGh6SzlRWTFsbDRreDBMWEZrbTRXRzJUU0tEdUpMVGJJRzNSSF9CZGZScWotdFRDVU9YXzZB?oc=5)
+
+---
 
 ### [Pensábamos que Ozempic solo servía para adelgazar. Su último efecto secundario es un freno a la impulsividad violenta](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSVJrU3JhR1I4YWl5TFFibk05bWFSSVdHMWw1VE5OVmhxaUJuZEpjSi1HaU9wcDBCanB3UzlvZ2JWZC1CdDVROFoxU09iQmphNXAtZkUwc3loaHktOUNRc1lqUWxwNjRzbzlMUE8wSE9PT1AyVXdGbnZ5a1ZDU1psbW1FYlEwVE8zVlVIZ3FGM2Y3eXhuMjgwcUNxVW9wLTBVbVdJbEtHZHFFNWxUaG0wT0tqRFRianhfZkdPamwzbDd5Y25IWExVU0tTUGZ6TUFDd29yakRJRUhrVTJuUmZ4MtIB5gFBVV95cUxPdlg0QU1DczF1azFkZkZSQklDUHZUbnNMdkR5VlN1OFdDOXJtaHMzRmJYWWhfM2JTdUtvb2pMaG9MWU9OaTJ0SFZVMU5yU0VSNjExSEJDVTRYMXdwelNGMWNXemRhc01zdUYzR00zSDNYdlV2V3BoSXhSLVh4YWRqT1FGaUE3czVhbXJrMHVKbUU1M0poUG1GRndjMUdPMTNxeEtFeURHS2hTcm0yQ2lsYzJKdFdsWDBfNXpBbmNkS0ZHRU9TZzl5SmJBWVIzMGlWRWhHMzN4Nkt4Q1hBNWlsbTFYWDZtUQ?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-21 <span class="news-indication-tag">AF</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2ktVF8xQlRyVDhlTWhBT2NEWmk1OEFZRURmVTd2ZGE1R0c4bXkxaHJTUVFNU0FJelpqLVROWXVMZFpwSGoycC1qbjZETzktZlR0WkZvQktPYVVpbWlRUTRaMi1ldzVxaFR5dzlBNHJJMTNjQjhJZkN3TGtWbUpTMFFNWXFqbFN1Nk5XcFV6TGVSWllyLWFFZXVTN29SaUVteXk5YTdBSWVxMHAzTWdXZ3RQdXpGNVVqRzRPT1YxWl9fcWdCTERHZEU4SmszN3dIWnVJSU1IeThfeHJZUU81X2ZmVk5wMGxT?oc=5)
-
----
-
-### [„Wenn wir manchmal im Garten sitzen und die Luft nach Flieder riecht, schafft der Krebs es nicht, uns diesen Moment zu stehlen“](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzJoX1pQenNsSmdRc3lwUmVFbkQ3ckhTbllybDBmbmFhTUNjcURwSTc4VTg2ZVhCYjBTeXlRWi1kMkNXdUhVVGpjMW91MjFkQ3BYZVp5Tk1BYmJEWFJnMXlVVnIzaEwwSEc2b055cklyTXBmS2NCUnNMR1dyVE9tNlM5anNrWG03cnVIeGpmcFV0ekNBek02THRzNHY5RnpqamVtUzNlNlV5UnRxSjhQZ1RqV2lIalp6ZVhGcUw4ZXdDTURVeXdPSHdGTEJ4Tkt0dnUycmFzN0Eta2J5bnUtQjRJdWF4Y0p0cXdYT3JqRzFvZkxhVmxDZUFLeTdDQlg1OHl4NV9PUQ?oc=5)
-
-2026-06-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nordkurier](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzJoX1pQenNsSmdRc3lwUmVFbkQ3ckhTbllybDBmbmFhTUNjcURwSTc4VTg2ZVhCYjBTeXlRWi1kMkNXdUhVVGpjMW91MjFkQ3BYZVp5Tk1BYmJEWFJnMXlVVnIzaEwwSEc2b055cklyTXBmS2NCUnNMR1dyVE9tNlM5anNrWG03cnVIeGpmcFV0ekNBek02THRzNHY5RnpqamVtUzNlNlV5UnRxSjhQZ1RqV2lIalp6ZVhGcUw4ZXdDTURVeXdPSHdGTEJ4Tkt0dnUycmFzN0Eta2J5bnUtQjRJdWF4Y0p0cXdYT3JqRzFvZkxhVmxDZUFLeTdDQlg1OHl4NV9PUQ?oc=5)
 
 ---
 
@@ -94,19 +102,19 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [Resistencia antimicrobiana: Un desafío que une a la salud humana, animal y ambiental](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVNyRFp1U2tqWXlzZHkxTTQ0eEE5bU5sT3Q3UXFTd0NHRXd3ckcwd3VFRldieGY3YUtKN2E1a1VIXzU3OWRBM05XZzZqLWNoRi1nTVpYSV9Iei1XZzh4SGtMSTZzRUdKUnhxVC1DWVZDWG1VZGxkUHpVRXdVams0QVRpTGNNRGd5cnBZVFNMTHJEaDBZOW5DRnBZM18za3F4MzQyWnpQTUlfSEJlMjYxRkxPOEpvQzdEeERYRTVfMXctZw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">AF</span>
+
+來源：[vetmarketportal.com.ar](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVNyRFp1U2tqWXlzZHkxTTQ0eEE5bU5sT3Q3UXFTd0NHRXd3ckcwd3VFRldieGY3YUtKN2E1a1VIXzU3OWRBM05XZzZqLWNoRi1nTVpYSV9Iei1XZzh4SGtMSTZzRUdKUnhxVC1DWVZDWG1VZGxkUHpVRXdVams0QVRpTGNNRGd5cnBZVFNMTHJEaDBZOW5DRnBZM18za3F4MzQyWnpQTUlfSEJlMjYxRkxPOEpvQzdEeERYRTVfMXctZw?oc=5)
+
+---
+
 ### [La fiebre de los medicamentos para adelgazar: Castilla y León triplica su consumo en cinco años - Heraldo-Diario de Soria](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWpvbDdWLW5JaGd6aEVkeHltQzB2dWRoVHJaOTBSZ3FKR0I2RHJvUDVEMUpiZmFJczZoVndocmtSSVhKeTAtR3VrYTQwUTBxYVhPMEQzVTlHQlFlcW5QSTNJUVljcFRRbkNOLTRLUUxsOThxenhuZzc0TGVrTWduSkpWVFVxbUZaX3p3dnU0cjVmNXp6M3JyRkVfQ2dVc1dzVjlTUksxRUhURDEwd0lPQ3NFbkJLMVhUdlRkUGhZdDBuNHJDeDJyOUw3dnZnS2ZKRngzZVhRUElUUdIB3wFBVV95cUxPTVFac2hsNEdwY3E2b0c5V2ZaNzUzVUZnc0hJQjNFR0JtRGZtX2F6VU9XWmowUGxWTHJBM0ZxWmE5RkZwenQ3TjNLZkFrUnFxOElwSEdCV0VQT0tSbW1TYkR5ZGQ0Q1JqV1JVbDNVQzRRMHVJaDV2QURSV08zeUtjVTlrbnBIRm5GN0JhU016NEVfSi1TaHBXdTFtTjFPOGUxQjZmOGZXZk51a25iaDFEdzZzblRpWl9ucnJoTjFnYzBJSU5qblZXaEZhSk1nMWFVQ2xvempfY3J2azkwZlNJ?oc=5)
 
 2026-06-21 <span class="news-indication-tag">obesidad</span>
 
 來源：[Heraldo-Diario de Soria](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWpvbDdWLW5JaGd6aEVkeHltQzB2dWRoVHJaOTBSZ3FKR0I2RHJvUDVEMUpiZmFJczZoVndocmtSSVhKeTAtR3VrYTQwUTBxYVhPMEQzVTlHQlFlcW5QSTNJUVljcFRRbkNOLTRLUUxsOThxenhuZzc0TGVrTWduSkpWVFVxbUZaX3p3dnU0cjVmNXp6M3JyRkVfQ2dVc1dzVjlTUksxRUhURDEwd0lPQ3NFbkJLMVhUdlRkUGhZdDBuNHJDeDJyOUw3dnZnS2ZKRngzZVhRUElUUdIB3wFBVV95cUxPTVFac2hsNEdwY3E2b0c5V2ZaNzUzVUZnc0hJQjNFR0JtRGZtX2F6VU9XWmowUGxWTHJBM0ZxWmE5RkZwenQ3TjNLZkFrUnFxOElwSEdCV0VQT0tSbW1TYkR5ZGQ0Q1JqV1JVbDNVQzRRMHVJaDV2QURSV08zeUtjVTlrbnBIRm5GN0JhU016NEVfSi1TaHBXdTFtTjFPOGUxQjZmOGZXZk51a25iaDFEdzZzblRpWl9ucnJoTjFnYzBJSU5qblZXaEZhSk1nMWFVQ2xvempfY3J2azkwZlNJ?oc=5)
-
----
-
-### [La resistencia antimicrobiana, un desafío que une a la salud humana, animal y ambiental](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnhHX0gyUkhUT0MyMlNjcHBqbnVPR1Nuak9iNnlPR0tHR2MtWk14ZUx0dlF4cTNRV3ZHT3hpbkF6eTF2aTFDMzJCNnByZ3l0RGs0cm13MHAxWEhpRGFpcWNtcHNOUG1rWERuUlFIMW9sOG5uTTdmTlUxUkRmd2FONjRzMjJfMzd2N0VwdTk3am80M1I0TWdXTjJDeTVsUEM3R1NfNTc3aHN1TU5iYnVxUERXdEF4Q2dDQWcyRFBsLVl0dEs2dHc?oc=5)
-
-2026-06-21 <span class="news-indication-tag">AF</span>
-
-來源：[vetmarketportal.com.ar](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnhHX0gyUkhUT0MyMlNjcHBqbnVPR1Nuak9iNnlPR0tHR2MtWk14ZUx0dlF4cTNRV3ZHT3hpbkF6eTF2aTFDMzJCNnByZ3l0RGs0cm13MHAxWEhpRGFpcWNtcHNOUG1rWERuUlFIMW9sOG5uTTdmTlUxUkRmd2FONjRzMjJfMzd2N0VwdTk3am80M1I0TWdXTjJDeTVsUEM3R1NfNTc3aHN1TU5iYnVxUERXdEF4Q2dDQWcyRFBsLVl0dEs2dHc?oc=5)
 
 ---
 
@@ -139,6 +147,14 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-21 <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxObW1KUncxS1U3Mlg5TDJLUEU1Qmhmc0wxR2Y3a18xeDZsejlpNnVyQmNsa21KUHR6dEE4dFZyXzlOS1hKZzd4TEotdHNYd2xBZklVczROd1pvbnJQZFc5M3FkMkxxY2FKdkljZTBQcjRNU0x5X1o5SDhLM3FHLUlqSW1LZ20tOHR6endfR0JWZkV5Y3h1Q210dEo1YWZUQUXSAaQBQVVfeXFMTUNodEt0T1hmOC1aREtvUzMxa3E3ajRDVEJOZnFSandTWmU2THJyRm9tRE1wQkdmQTNqOTFsRklGS0V5T2xWcl9GZ096SXdKTkRBY2xwbW03Nlc3OHd6cjh3ZVFTOTNtYWxNSkN5OW1Kdi1CRkFIT2JXc1VpOENENHA0UlFFeWlWUUF6YUlKbzlWc2JQUVhkSVBPYk9ISlcwejBlUl8?oc=5)
+
+---
+
+### [Daily 'fountain of youth' drink could lower dementia and diabetes risk - Daily Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5)
+
+2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5)
 
 ---
 
@@ -198,19 +214,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Obesità, svolta in Lombardia: ai pazienti fragili la Regione rimborserà i nuovi farmaci](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelZLNVpJcF93eWFzQ00yRXlTdFlTdXNyZDh4Z2VkTk10RGpTTGZVcU81ZWp0cjgxRlVpcFFpb001UGZFZG9CRUxaRllxekpxTkJzMi1OOEw1aWRkYWd5ZVhINF81X01SNVhYWlJCSnRoaEVub1ZteWFlQU1ucDJVMEY1UUVmUTlVa01Lcm9TR0F5OVE1RjgxaWZIMHd1NTVzclBWTk5iY2V5MmphWGxZVk1KeWNhVGpnSG5MVFBYUzdWTU54OUczRg?oc=5)
+### [Obesità, svolta in Lombardia: ai pazienti fragili la Regione rimborserà i nuovi farmaci](https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0JZMzZHSHM0RU84WTlRLWw3NmFQaE9KU0J5RWYyR2pjdjdJbDUxMjZ6bklEYmJlUHZNdERZTVM3RU5ZdE5CSGRHU1hxbm9RSHdMU2NteThqUzM2VEFSbXdETlQ1SjV4Z1hlX3dWUzBpa1FyemhhSkRITURia0FEUjlqZ2ItZS1CaURxbFFiVDdRUU8xMExueFlNcjk4Z2ZXbExMeWx2cjVCZ1RIQ0I4RVd4aTYtSUl6UHdXWGFXRThIbHN1OUNF?oc=5)
 
 2026-06-20 <span class="news-indication-tag">obesità</span>
 
-來源：[Pharmastar](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelZLNVpJcF93eWFzQ00yRXlTdFlTdXNyZDh4Z2VkTk10RGpTTGZVcU81ZWp0cjgxRlVpcFFpb001UGZFZG9CRUxaRllxekpxTkJzMi1OOEw1aWRkYWd5ZVhINF81X01SNVhYWlJCSnRoaEVub1ZteWFlQU1ucDJVMEY1UUVmUTlVa01Lcm9TR0F5OVE1RjgxaWZIMHd1NTVzclBWTk5iY2V5MmphWGxZVk1KeWNhVGpnSG5MVFBYUzdWTU54OUczRg?oc=5)
-
----
-
-### [La enfermedad silenciosa que afecta más a hombres y muchas veces se detecta por accidente - Prensa Libre](https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXl3QjlQY3Y2YjhIOVRFVy15UkRXN01vYjVKVk9HRWdLa0Zkc3RsX0h2cEg4SzkwNVpSRnRWNkhsbWV6dWk1ZmtJOERGUXpTMnZQeExQZHAySWFQaG9UT1hkSE5aQ1JzcVpwckNycjZzcWVCUE9HZWtvQlN2VHJLQ2NqTkxQYXQ4X2twNWpOTU41ZmRCaDNlM3VzM2tESTFYQzNabU83T0h6dEZreVQ0SzhrSWxMSWdVZHp6eFNJOFFtLUZzQ3JTUm9TQQ?oc=5)
-
-2026-06-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Prensa Libre](https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXl3QjlQY3Y2YjhIOVRFVy15UkRXN01vYjVKVk9HRWdLa0Zkc3RsX0h2cEg4SzkwNVpSRnRWNkhsbWV6dWk1ZmtJOERGUXpTMnZQeExQZHAySWFQaG9UT1hkSE5aQ1JzcVpwckNycjZzcWVCUE9HZWtvQlN2VHJLQ2NqTkxQYXQ4X2twNWpOTU41ZmRCaDNlM3VzM2tESTFYQzNabU83T0h6dEZreVQ0SzhrSWxMSWdVZHp6eFNJOFFtLUZzQ3JTUm9TQQ?oc=5)
+來源：[Pharmastar](https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0JZMzZHSHM0RU84WTlRLWw3NmFQaE9KU0J5RWYyR2pjdjdJbDUxMjZ6bklEYmJlUHZNdERZTVM3RU5ZdE5CSGRHU1hxbm9RSHdMU2NteThqUzM2VEFSbXdETlQ1SjV4Z1hlX3dWUzBpa1FyemhhSkRITURia0FEUjlqZ2ItZS1CaURxbFFiVDdRUU8xMExueFlNcjk4Z2ZXbExMeWx2cjVCZ1RIQ0I4RVd4aTYtSUl6UHdXWGFXRThIbHN1OUNF?oc=5)
 
 ---
 
@@ -238,6 +246,14 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [AI solves 18 medical mysteries in ‘total game changer’ for patients - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNck82Mm9FUVJGbHlESVlMYTRGRTFkNXcyZ3o0TEFmU2JTWFZ1Z0ExOV9HX2xENklzZE5PR0hpSmEzMEVTcEdod1RweXRHcE51Qk1aOFp5NEo4T3ZQWXdsYXVGNWZBQWNrSjlJMmxyWDdUT2psTHB6Z3ZlVzh1NmhlWHpERnBRR1JiV2ZjcmFEdVVzSVRxN0RNcVRR?oc=5)
+
+2026-06-20 <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNck82Mm9FUVJGbHlESVlMYTRGRTFkNXcyZ3o0TEFmU2JTWFZ1Z0ExOV9HX2xENklzZE5PR0hpSmEzMEVTcEdod1RweXRHcE51Qk1aOFp5NEo4T3ZQWXdsYXVGNWZBQWNrSjlJMmxyWDdUT2psTHB6Z3ZlVzh1NmhlWHpERnBRR1JiV2ZjcmFEdVVzSVRxN0RNcVRR?oc=5)
+
+---
+
 ### [Castilla y León impulsa una base de datos de riesgo cardiovascular para mejorar las estrategias de prevención en salud pública](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaU9SX2ZZeHEzWThGMlRjdzVhTHI5ankzNUVjTE1qZGgyS0RRaGJRbE9wMVhVdklGQlp5N0VXcXdKalNwVXFuZHhnWVQxWF9pNDhad1AwYVZSVHA0c09XQUJwcVpuNGRrRHpNT0hnNTh1bm1PWDI0bFFTel96SXcwdW1CYlpnWkhXbnhaSDBURzV5emZnTm5LTUM2VFRwTEloYllGMC1uUzZJQmlFUTMwTFc1M1d1bGJqTjFWT2dfd08yaDJWWTJTRTM0UXZLaUIySHNBM3JKS2U4Qzdid29BQm5WdHhTY0U2WXpJSWx0dUM4U1k5QjZTSnhWTWRnQdIBgwJBVV95cUxPX0NsU2FSa0RoRWlBOVdzbjk5QVhvQ0gxSW9yT1FXbXI5WkQxMFVGS2VodWt0NnY1QTRudHpKOENVbFNLX1l4bDhHdTQtNnFhVV9jM3pGQ21yc0FVRmdLeDgxeTNxdDF3RWtPb2R3VENhcHM2bU1Bb25BZFk2cUFiemU0cWpfOXJNcF9mXzhacU1uOWFhbFNVbmVGZmt0V1Y1a2tjRnpVZzVoQk5ZQ0FLd1NOb3M3NERiT2U3c0xVVGdmVmt5bE13SDRTakNvdDJnRWRsVFJwbWRKaHdxRHl2dGwwWTZCa2NKSmhOOTlmVHVaWFZZQ2x3NUZlRjMzVTZ3RExn?oc=5)
 
 2026-06-20 <span class="news-indication-tag">obesidad</span>
@@ -259,14 +275,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW56UXMzaUxtUERpb0VsQUhDbnVFWjlfUHNhVGN3R1B0NGRBNmxnUDEtVUE2THFTTXFzbVc4ZjhZRk0tckF3empCVEloSU96MzI2V0pva2JRc2lwVW56Qkx2MW1QcWlhSTRfQU1sZHFXR3JENUFHWDJuS1FxQVlHNzlMRGdmdnB0ckplY0t6a0l2bEJTaGI1WVp2dnhWRXIya3FFNtIBqgFBVV95cUxPbER1eGhndUVmNGVvZHBubkV4U2pnaWRmSFV5NXNBVXZmQ05panF5WG1HMkNHdm5majMxTG13OFJOeDMxU3lyb1lTUUE2eGg5R3llN3RLb3FsNkJMWE9DWEJ0cWs1RUtiSEdqenpURDVjdnFHLV9OSWlRVldhckZqTGxpQ25IS3hJbVBEOHN1WThQOUF0UkRodGtuOUotNUZxaXl6UFhfckF0Zw?oc=5)
-
----
-
-### [18 children had illnesses so rare doctors were stumped. AI gave them answers - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQREJoaVNXcTY0MG5EeExwM25iQ3pFQzFPRTVWTG9oTTh4QjFuRWExZmpoRWtKSks3LV9ORm1jU2tEenV5dTNZV3dBaEFrTlEybjhRSnMyUEhOdzN0NnBRQ2pid1REcVNhb2V0ZWJfQTNTRUQ1OE9heWFjcmFLR2dXRzNQY0NjZjZ2QVg0c0Fac0l2eHdHZTR3OHp5ejJGekU5U19V?oc=5)
-
-2026-06-20 <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQREJoaVNXcTY0MG5EeExwM25iQ3pFQzFPRTVWTG9oTTh4QjFuRWExZmpoRWtKSks3LV9ORm1jU2tEenV5dTNZV3dBaEFrTlEybjhRSnMyUEhOdzN0NnBRQ2pid1REcVNhb2V0ZWJfQTNTRUQ1OE9heWFjcmFLR2dXRzNQY0NjZjZ2QVg0c0Fac0l2eHdHZTR3OHp5ejJGekU5U19V?oc=5)
 
 ---
 
@@ -302,11 +310,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Alzheimer-Bluttest: Diagnose in 17 Minuten mit 90% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkpSOXdrNEpveVBSbzY2MWdKS2d1NjhYNkdtRG96UlY2dXRGRnp4SUNwdkc0bWJCaFBwUmljZWlvSWE5NXMxOWZSaWdrREJCOHFRZk9XYTBubnVXejRDSFJtc3IzYnlTWlFQTVBEUEZFR3dCZHlFNWoyZjItVkZxQWZPRDlZNXNtb3VWV2xraDRYdXdqdTJRaGZIY1VCQXlaTWRaTlNtVGw3Tzd6T2NINW1mc2JTSUNi?oc=5)
+### [Müdes Deutschland: Rangauklinik sensibilisiert für das Schlaf-Apnoe-Syndrom](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmRDZnMwbG5weXJRcGtOVzFEaTVMaWZaTEQzcXo5QTM0ZnIyMFBtbDVGQ3lrVnhTcGlWUFBJWjh1WHpXRnhOR3lzMEo1M3oyd1NjUVFxeXhnRlRDaU1FVzFFQmRBZXVYYzY3YlFkTmFIR2ZEbzUzQjhDLTIteWMwOUQwRG1jd0NkMWpQam5fMzcxM3FpQnNYbjRtRzVvU1VTa0VR?oc=5)
 
 2026-06-20 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkpSOXdrNEpveVBSbzY2MWdKS2d1NjhYNkdtRG96UlY2dXRGRnp4SUNwdkc0bWJCaFBwUmljZWlvSWE5NXMxOWZSaWdrREJCOHFRZk9XYTBubnVXejRDSFJtc3IzYnlTWlFQTVBEUEZFR3dCZHlFNWoyZjItVkZxQWZPRDlZNXNtb3VWV2xraDRYdXdqdTJRaGZIY1VCQXlaTWRaTlNtVGw3Tzd6T2NINW1mc2JTSUNi?oc=5)
+來源：[fränkischer.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmRDZnMwbG5weXJRcGtOVzFEaTVMaWZaTEQzcXo5QTM0ZnIyMFBtbDVGQ3lrVnhTcGlWUFBJWjh1WHpXRnhOR3lzMEo1M3oyd1NjUVFxeXhnRlRDaU1FVzFFQmRBZXVYYzY3YlFkTmFIR2ZEbzUzQjhDLTIteWMwOUQwRG1jd0NkMWpQam5fMzcxM3FpQnNYbjRtRzVvU1VTa0VR?oc=5)
 
 ---
 
@@ -323,30 +331,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-06-20 <span class="news-indication-tag">AF</span>
 
 來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiY0FVX3lxTE50OTNjUURETEZteE9xQmI5QkpmVDJBWDRUak9XcDBoN2x4RmQ2MXFRbEY2UnlhOHRWSjBXNUFDZlRkbnpKLUNPQjlRVUkxeHk4X1RRV2ktTTBBSUZCLTdfRWpTaw?oc=5)
-
----
-
-### [Kongress für klinische Neurowissenschaften: Epilepsie und Technologie im Fokus - mgo medizin](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQjFYem82TzZMVUhPTVptV0ZtZXAyV2dackFFVmt6WGxSWS10R2M0amZWOTZKTlh3NFJKQ2JfZDhQZm5qdHVXZGNuQlBzbjlBZThHbDctQU5zWW92Zzg0UFZZbWJzczhvRXhLd2h3dGVpR2oxU1ZsTk0xZEFlWTBscmNsdU1yVTBHRlhjdzZYR2NXRHFPdGxmcmdDVnNOcFRhbld5SnlNeHRjZGs2Z1J4bWR0YmpwaUFjbmdvQUtWTGtVVnpabU81V2twSUNCcTNlUzJuTmdCaXpGMGpIaFpNNEhScGhZeGhSYmZGalJSNUdtbGxRVnNsNXF3?oc=5)
-
-2026-06-19 <span class="news-indication-tag">Epilepsie</span> <span class="news-indication-tag">AF</span>
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQjFYem82TzZMVUhPTVptV0ZtZXAyV2dackFFVmt6WGxSWS10R2M0amZWOTZKTlh3NFJKQ2JfZDhQZm5qdHVXZGNuQlBzbjlBZThHbDctQU5zWW92Zzg0UFZZbWJzczhvRXhLd2h3dGVpR2oxU1ZsTk0xZEFlWTBscmNsdU1yVTBHRlhjdzZYR2NXRHFPdGxmcmdDVnNOcFRhbld5SnlNeHRjZGs2Z1J4bWR0YmpwaUFjbmdvQUtWTGtVVnpabU81V2twSUNCcTNlUzJuTmdCaXpGMGpIaFpNNEhScGhZeGhSYmZGalJSNUdtbGxRVnNsNXF3?oc=5)
-
----
-
-### [Sex after cancer: the big taboo and why I’m talking about it - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdXUHlTdmd3NWZ0d0ptX1IwMW5IOWxXd18tS2N6dklTM0dCc1BIOEc3RGlXYTB6S2FRLVFCZjNWR0JiYlNmYnl4UWRJeXFRWjRScm9lbjNJNm9aS1NybEV0M2o1RzBKcmt5Z2VJV1BoSGFibG43Mlk3dDB4RlQ4MndFWHdQbndIYVRITUxHVmFDM3FtUkRyVmlKMVp1cDRCaFlYeTYwVjc?oc=5)
-
-2026-06-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHdXUHlTdmd3NWZ0d0ptX1IwMW5IOWxXd18tS2N6dklTM0dCc1BIOEc3RGlXYTB6S2FRLVFCZjNWR0JiYlNmYnl4UWRJeXFRWjRScm9lbjNJNm9aS1NybEV0M2o1RzBKcmt5Z2VJV1BoSGFibG43Mlk3dDB4RlQ4MndFWHdQbndIYVRITUxHVmFDM3FtUkRyVmlKMVp1cDRCaFlYeTYwVjc?oc=5)
-
----
-
-### [Geschenkte Überlebenszeit - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Rzk3dWxIQ3FTVmVZTUJuRU5UVUc2MmxhQi1sdl9TRi1WeWdVYkRoNy1zR2VOODV4emplMHpwS1E4dGI2TGFlSzdMM2tzci00Y216c1pJSkgycjZfdmN4MTlnbGUzT2hMY3c?oc=5)
-
-2026-06-17 <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Rzk3dWxIQ3FTVmVZTUJuRU5UVUc2MmxhQi1sdl9TRi1WeWdVYkRoNy1zR2VOODV4emplMHpwS1E4dGI2TGFlSzdMM2tzci00Y216c1pJSkgycjZfdmN4MTlnbGUzT2hMY3c?oc=5)
 
 ---
 

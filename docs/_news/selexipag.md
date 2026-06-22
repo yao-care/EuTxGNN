@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="Selexipag 有什麼相關新聞？">
-<strong>Selexipag</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selexipag</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/selexipag/
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWUyVnpmcXRmM0RMNEUtUkQyNjZ4cGdYaldDZkpPOWFQRldfWEY4YzdjSFdzdEU1TWRicXJDT1VjcXp3Q1d4YkR6ai10TFBsdXI0Y01MZlZWVXhkUF9uN1l4RlgwaVM4c2N4VGQ2NUZlbllRSFl0Z3B5Slh2LUhTS0l1dUFYTGp3T2J6VGZTcXVhcUFTT2pBWVdSMzVjX3oxWFdvRFpZQ1lpRDVLbGpfUw?oc=5)
+
+---
 
 
 <div class="disclaimer">
