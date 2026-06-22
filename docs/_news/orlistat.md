@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
 ### [El negocio del siglo: Las farmacéuticas desatan una histórica ola de millones para dominar el mercado de la obesidad - Gaceta de salud](https://news.google.com/rss/articles/CBMilwJBVV95cUxQWk4xb2k4NklIQlR1OEl5QVpCTXZySUVWZDNWeW5LOThEeU1uanhvLW1uNDdkbFRmSGs0NTJHN0ZsVWU0YnJNUWZvNktIUGJpd2pIYkxfMzk5Nk5oTG9PSURoaHpxM1UzZ21HOXRBek5lQnNYdEVCX2FjaERkVWlVai1uUDhaTDE0UTVCZjl0N19uUFdzdFhYaGgtaG5XalpycEwtUWIycVdhS1ZPbjVidVJDbzNwMlBYR0ZTUGgzVmpTME42OGo3TXBSRHBySm55ZEVZT1l4Q3JWSk1neVhNNHBZdDZiZDQ1S0FZaGQ3OWliT1JIbDVJMklHcnpnWi1mYUpST3VrQ1pRTXhCWURIMEN2dVFLSXc?oc=5)
 
@@ -123,14 +123,6 @@ permalink: /news/orlistat/
 2026-06-20 <span class="news-indication-tag">obesità</span>
 
 來源：[Pharmastar](https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0JZMzZHSHM0RU84WTlRLWw3NmFQaE9KU0J5RWYyR2pjdjdJbDUxMjZ6bklEYmJlUHZNdERZTVM3RU5ZdE5CSGRHU1hxbm9RSHdMU2NteThqUzM2VEFSbXdETlQ1SjV4Z1hlX3dWUzBpa1FyemhhSkRITURia0FEUjlqZ2ItZS1CaURxbFFiVDdRUU8xMExueFlNcjk4Z2ZXbExMeWx2cjVCZ1RIQ0I4RVd4aTYtSUl6UHdXWGFXRThIbHN1OUNF?oc=5)
-
----
-
-### [Vieillissement, Alzheimer, AVC : pourquoi certains cerveaux résistent mieux que d’autres - Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxORTRON0V2dDVOa19DWWJMOUtvODIwaFVad2szelJkNW1DbWhEVkdqUXh2Ukd1RXpWRzZvaVBvRi0xdk15dDJCOWVUWHNpd2s2d1MzTXdqU0tkMWVYYW9EUnh6LWlYUWQ0alp3UTBvV2YwdTJIcUNQQlhYNDRQSWNQSDEyNUMtVnlRR0hhZVJYVUM1Um9fNURib1U2ZjU1R0NHejd1c0lzcFNZaF9ZZVh0Y2tfM2k3TVAtdF9fNUYzNkhiVlU1MEEw?oc=5)
-
-2026-06-20 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxORTRON0V2dDVOa19DWWJMOUtvODIwaFVad2szelJkNW1DbWhEVkdqUXh2Ukd1RXpWRzZvaVBvRi0xdk15dDJCOWVUWHNpd2s2d1MzTXdqU0tkMWVYYW9EUnh6LWlYUWQ0alp3UTBvV2YwdTJIcUNQQlhYNDRQSWNQSDEyNUMtVnlRR0hhZVJYVUM1Um9fNURib1U2ZjU1R0NHejd1c0lzcFNZaF9ZZVh0Y2tfM2k3TVAtdF9fNUYzNkhiVlU1MEEw?oc=5)
 
 ---
 

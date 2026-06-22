@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [El tratamiento de la depresión más inusual: laxantes para la niebla mental - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTRKcTNRLWlEWFRMVlpYc19XQ1NWZW1XTEVKRjVRMUl4Y29uZU15TTljcUg1SUlqakpMbU9FNWwyWFRBTWsyNWgzb1FWb1NvOWtQblRrdnBPX3JJZjh0V1IybDY1ODJ4QnFyVlRjZENxbjdWWkRvOUNKdS12c1Vwak9hb2l1VjVaaHAtYWJ2bk01YWpDLW01SG5pc0RoUFB0UkxzdG5Ja1gzZUNpM2Y0enpHQXBUa0hLYWVqa3p5TVMwLVQ0SlR0VDBjZ1PSAcwBQVVfeXFMUGRNVWdGUFJJcFd3eDluRmZYN3pZc2l2U2NtOXZPd3V4VUlfNEo5UWdKOVFJTkE4aDg2WWU0UUFnSVd4MkVzOWlmSWtZQlBBZlhMejR6amh2bFBGODRkMVZfT0tyQjBKakQ1c0twNmFLZHkwYjJLRzVaMmIxd3A0Z0R1ZDgxNVNoaTNrSWExX1J0T1hVbEVTTl9XRjFMUTJtTWtNSWQ2eHg2dHEtYl9vUEVtRXlTVl8zMnlBVUVUN2lYQldBZ0w0V0Y4VHNn?oc=5)
+
+2026-06-22 <span class="news-indication-tag">depresión</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTRKcTNRLWlEWFRMVlpYc19XQ1NWZW1XTEVKRjVRMUl4Y29uZU15TTljcUg1SUlqakpMbU9FNWwyWFRBTWsyNWgzb1FWb1NvOWtQblRrdnBPX3JJZjh0V1IybDY1ODJ4QnFyVlRjZENxbjdWWkRvOUNKdS12c1Vwak9hb2l1VjVaaHAtYWJ2bk01YWpDLW01SG5pc0RoUFB0UkxzdG5Ja1gzZUNpM2Y0enpHQXBUa0hLYWVqa3p5TVMwLVQ0SlR0VDBjZ1PSAcwBQVVfeXFMUGRNVWdGUFJJcFd3eDluRmZYN3pZc2l2U2NtOXZPd3V4VUlfNEo5UWdKOVFJTkE4aDg2WWU0UUFnSVd4MkVzOWlmSWtZQlBBZlhMejR6amh2bFBGODRkMVZfT0tyQjBKakQ1c0twNmFLZHkwYjJLRzVaMmIxd3A0Z0R1ZDgxNVNoaTNrSWExX1J0T1hVbEVTTl9XRjFMUTJtTWtNSWQ2eHg2dHEtYl9vUEVtRXlTVl8zMnlBVUVUN2lYQldBZ0w0V0Y4VHNn?oc=5)
+
+---
+
+### [Faktencheck Johanniskraut bei Depressionen: Wann pflanzliche Präparate sinnvoll sind – und welche Risiken drohen](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXA3eEw1N2FKLUlMUk9EOHRibTV0RHBWeTZuZ0Q4QkdPSUstVEp5RHJRZlNpWGtHVU9YLUFJZVhlUUNxREF1Si1vNnVLZWhrMElwU2tMWVFHYUwzUVJaWE1VMUw5MGhMS012dnVkbGZtNDR3WjBaUmNFRUh5LWZLRGkzUVBqbXEzV3NjeXVHbC1IaTNVc1VqNWNjb1dTZXlBakU5bU5MenozZ3dLWkE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">depression</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXA3eEw1N2FKLUlMUk9EOHRibTV0RHBWeTZuZ0Q4QkdPSUstVEp5RHJRZlNpWGtHVU9YLUFJZVhlUUNxREF1Si1vNnVLZWhrMElwU2tMWVFHYUwzUVJaWE1VMUw5MGhMS012dnVkbGZtNDR3WjBaUmNFRUh5LWZLRGkzUVBqbXEzV3NjeXVHbC1IaTNVc1VqNWNjb1dTZXlBakU5bU5MenozZ3dLWkE?oc=5)
+
+---
 
 ### [«J’ai arrêté de vouloir être un bon père. J’essaie juste d’être un père» : comment Michel s’est relevé d’une dépression postnatale - Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOWTloOHJpcXVkRjZoTkhiUUdCZ1BneUhIM2Z0RElMdE50UmdKaERjZFhFdXM3alZBUDBlN1lCLUJySmhIcGxDcmJoZnJwMFMzdGJQUUpOcmNRSlpZcUgxZ0VCWEg0cjZEUzNYWl94OGNVaVN1ZlJiZERQMjBOUGpMdk55eHRKZGgtQkJLS3ZzNzJobDFBUElqRHh2Sng4dVZ3NllRYjhSSEZwRHAxUWVHekgxUTR0NWxjTUVuYjZFOFBpV2UtU2V2V09uYmZZMGFoeG0wa0dHeGFOUjBfVEJ4djJWY09qOUo1b3NxVlpFNnRGSE5aSm02YmtiWC1RZXBaOVpVa0JqNXZSQmg2bnJpQw?oc=5)
 

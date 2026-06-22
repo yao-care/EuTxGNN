@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Empresas.- Teva amplía su portfolio en sistema nervioso central con el lanzamiento del genérico de 'Fycompa'](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeXdnSE1JNTYzelFWTkViRjJiNkRuRFY0cGo0bm1VVU9tR3Vvbnc0RnBDa2VfS01tbnhvNFhKbFoyQnBYX0JReEoxUHZZNTlJNFhvLUlvRnFqNFl0OFpuamNpaXI1ZU1jM2dwWlRUQ3FRVTF6d0dadURld1pfbjdySDJKRWsxM1ZJNExsRzlsMGZhNTU2RUlIZFZCeU1rSGJiWW9mMldubzIwVkVyalpUME51d3BrbmRCemFzQmV1cUJ4X2J1M2JBNHF6bE9rcEU4OHFzbUZqdlFEWmd1M0J4WQ?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Perampanel</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeXdnSE1JNTYzelFWTkViRjJiNkRuRFY0cGo0bm1VVU9tR3Vvbnc0RnBDa2VfS01tbnhvNFhKbFoyQnBYX0JReEoxUHZZNTlJNFhvLUlvRnFqNFl0OFpuamNpaXI1ZU1jM2dwWlRUQ3FRVTF6d0dadURld1pfbjdySDJKRWsxM1ZJNExsRzlsMGZhNTU2RUlIZFZCeU1rSGJiWW9mMldubzIwVkVyalpUME51d3BrbmRCemFzQmV1cUJ4X2J1M2JBNHF6bE9rcEU4OHFzbUZqdlFEWmd1M0J4WQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

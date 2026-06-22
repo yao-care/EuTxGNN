@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li>asthma（99.9%）</li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -52,9 +52,15 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Come cambia il cervello plasmato dai display? Lo spiega il «criticoma» - Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYlhqY2NYSTFMX3JpaFRaTFdvSmlzLWFfdG9vZndHbGZiMUFka1NyYlQ1SDduUEZ6Njh4NnEzYW5LcjBtM21FTi1lYmdfcXBJMXloOHBDUm9xLTV4ZFY0b0k5WV9IaHdMazZqRXpHamo2SlZwdGFQSnhKcEVkU18tbEZqQktGQ3BSRmROclROMjY0SHlXX18tWmI2cFZKMjc1T3RpcnVick9zU3RYcHl4VThMTDM0enczdlpIX2NtRlBveXEzbkM1eFoxYmxka3c5Wkl5QXV1aUFZbDFBWm81ZWxyZENpSERVdmg5NUI2RjA0el9OVGFKY0U2Vk53TUN2SDRyY2pONUJNQ1YzZHfSAZMCQVVfeXFMT2RuajVaS1FZb2d4bDFfRVhma1Q4UGY0SFpnYnJDd2dPcmdHb3Rfa0l5VlhrbG10SHA2Wjk4UlRscUU3MFNhaWtXN1RrYUkwbXIxdWxaRjc0Rm94UE91N19TalpwcUxGVlRrTWpQeG5hX003LTVRTFhKTlR6MUhtdE9DalZ0M0FGMjFxZlhiVFhqTERpQ1dyMk1PWG14a1dBbkZRVER3dG5ici1rMlNqcXRpX3RteHVIN1I4cGgtV1h1NENzUFJWVlAxb1FGVzhJeUtvY0tNYThsbERUeXhjX3NXeE9ReVREeUFjMjFsY3FhV3EwaHM3UFo1THJQWi1FNTRoTnpJeTlKMk9Id3NzWDMtLTQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">asma</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYlhqY2NYSTFMX3JpaFRaTFdvSmlzLWFfdG9vZndHbGZiMUFka1NyYlQ1SDduUEZ6Njh4NnEzYW5LcjBtM21FTi1lYmdfcXBJMXloOHBDUm9xLTV4ZFY0b0k5WV9IaHdMazZqRXpHamo2SlZwdGFQSnhKcEVkU18tbEZqQktGQ3BSRmROclROMjY0SHlXX18tWmI2cFZKMjc1T3RpcnVick9zU3RYcHl4VThMTDM0enczdlpIX2NtRlBveXEzbkM1eFoxYmxka3c5Wkl5QXV1aUFZbDFBWm81ZWxyZENpSERVdmg5NUI2RjA0el9OVGFKY0U2Vk53TUN2SDRyY2pONUJNQ1YzZHfSAZMCQVVfeXFMT2RuajVaS1FZb2d4bDFfRVhma1Q4UGY0SFpnYnJDd2dPcmdHb3Rfa0l5VlhrbG10SHA2Wjk4UlRscUU3MFNhaWtXN1RrYUkwbXIxdWxaRjc0Rm94UE91N19TalpwcUxGVlRrTWpQeG5hX003LTVRTFhKTlR6MUhtdE9DalZ0M0FGMjFxZlhiVFhqTERpQ1dyMk1PWG14a1dBbkZRVER3dG5ici1rMlNqcXRpX3RteHVIN1I4cGgtV1h1NENzUFJWVlAxb1FGVzhJeUtvY0tNYThsbERUeXhjX3NXeE9ReVREeUFjMjFsY3FhV3EwaHM3UFo1THJQWi1FNTRoTnpJeTlKMk9Id3NzWDMtLTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

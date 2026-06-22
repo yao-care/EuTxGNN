@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Arthritis: Protein Pim1 als neuer Angriffspunkt identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/drospirenone/
 
 ---
 
-### [Si la climatisation de votre voiture fait ça, coupez-la tout de suite ! - CCM - Comment Ça Marche](https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdmlta2g4c01icElseDdaV0Y1eVpDUE5JTmVoa3c4MzhCR1RCd3dWekloWW0wR19uM2l6WFRTaWp5cDQzOF83U0R1bkp5aUk5Y211eXhwNl85MXdUY1hfMWN0S1BPX29GLURCRW1Wdw?oc=5)
+### [Come cambia il cervello plasmato dai display? Lo spiega il «criticoma» - Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYlhqY2NYSTFMX3JpaFRaTFdvSmlzLWFfdG9vZndHbGZiMUFka1NyYlQ1SDduUEZ6Njh4NnEzYW5LcjBtM21FTi1lYmdfcXBJMXloOHBDUm9xLTV4ZFY0b0k5WV9IaHdMazZqRXpHamo2SlZwdGFQSnhKcEVkU18tbEZqQktGQ3BSRmROclROMjY0SHlXX18tWmI2cFZKMjc1T3RpcnVick9zU3RYcHl4VThMTDM0enczdlpIX2NtRlBveXEzbkM1eFoxYmxka3c5Wkl5QXV1aUFZbDFBWm81ZWxyZENpSERVdmg5NUI2RjA0el9OVGFKY0U2Vk53TUN2SDRyY2pONUJNQ1YzZHfSAZMCQVVfeXFMT2RuajVaS1FZb2d4bDFfRVhma1Q4UGY0SFpnYnJDd2dPcmdHb3Rfa0l5VlhrbG10SHA2Wjk4UlRscUU3MFNhaWtXN1RrYUkwbXIxdWxaRjc0Rm94UE91N19TalpwcUxGVlRrTWpQeG5hX003LTVRTFhKTlR6MUhtdE9DalZ0M0FGMjFxZlhiVFhqTERpQ1dyMk1PWG14a1dBbkZRVER3dG5ici1rMlNqcXRpX3RteHVIN1I4cGgtV1h1NENzUFJWVlAxb1FGVzhJeUtvY0tNYThsbERUeXhjX3NXeE9ReVREeUFjMjFsY3FhV3EwaHM3UFo1THJQWi1FNTRoTnpJeTlKMk9Id3NzWDMtLTQ?oc=5)
 
-2026-06-22 <span class="news-indication-tag">arthrite</span>
+2026-06-22 <span class="news-indication-tag">asma</span>
 
-來源：[CCM - Comment Ça Marche](https://news.google.com/rss/articles/CBMib0FVX3lxTFBxdmlta2g4c01icElseDdaV0Y1eVpDUE5JTmVoa3c4MzhCR1RCd3dWekloWW0wR19uM2l6WFRTaWp5cDQzOF83U0R1bkp5aUk5Y211eXhwNl85MXdUY1hfMWN0S1BPX29GLURCRW1Wdw?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYlhqY2NYSTFMX3JpaFRaTFdvSmlzLWFfdG9vZndHbGZiMUFka1NyYlQ1SDduUEZ6Njh4NnEzYW5LcjBtM21FTi1lYmdfcXBJMXloOHBDUm9xLTV4ZFY0b0k5WV9IaHdMazZqRXpHamo2SlZwdGFQSnhKcEVkU18tbEZqQktGQ3BSRmROclROMjY0SHlXX18tWmI2cFZKMjc1T3RpcnVick9zU3RYcHl4VThMTDM0enczdlpIX2NtRlBveXEzbkM1eFoxYmxka3c5Wkl5QXV1aUFZbDFBWm81ZWxyZENpSERVdmg5NUI2RjA0el9OVGFKY0U2Vk53TUN2SDRyY2pONUJNQ1YzZHfSAZMCQVVfeXFMT2RuajVaS1FZb2d4bDFfRVhma1Q4UGY0SFpnYnJDd2dPcmdHb3Rfa0l5VlhrbG10SHA2Wjk4UlRscUU3MFNhaWtXN1RrYUkwbXIxdWxaRjc0Rm94UE91N19TalpwcUxGVlRrTWpQeG5hX003LTVRTFhKTlR6MUhtdE9DalZ0M0FGMjFxZlhiVFhqTERpQ1dyMk1PWG14a1dBbkZRVER3dG5ici1rMlNqcXRpX3RteHVIN1I4cGgtV1h1NENzUFJWVlAxb1FGVzhJeUtvY0tNYThsbERUeXhjX3NXeE9ReVREeUFjMjFsY3FhV3EwaHM3UFo1THJQWi1FNTRoTnpJeTlKMk9Id3NzWDMtLTQ?oc=5)
+
+---
+
+### [La clim ne donne pas le rhume, mais peut vous jouer des tours - Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">arthrite</span>
+
+來源：[Les Numériques](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXBFVDdPOWJ4SXB0Qmt2bXhjc05YZGRzRnFqN01SR2F6WHEyQmFoWkFQcGdNb3B3ZXlxcGpXWUJVd3EzenpVNURiOFlWNDEzRXQ4akxmaThIMUhJY2dpQlB1WXRkODFHUkJzZkN4TGhET1drR29KWXdydjcwY3hhVTY3RG82UlRaaXFtQzZOa3AtWXVYbVVsQ0JhemxCZHl2Q2FYMnZ5enN2WkREblVhNnhZN3BvRks1YzN0WlFRaGVkN2pibjI0SEJTUkhCYzc4N3BCWVZNYmdjUQ?oc=5)
 
 ---
 

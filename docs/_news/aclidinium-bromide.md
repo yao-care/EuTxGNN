@@ -14,7 +14,7 @@ permalink: /news/aclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="Aclidinium Bromide 有什麼相關新聞？">
-<strong>Aclidinium Bromide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aclidinium Bromide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/aclidinium-bromide/
 <p><a href="{{ '/drugs/aclidinium-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [El calor del verano puede empeorar las cefaleas y migrañas, aunque rara vez es la causa directa del dolor](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
+
+---
+
+### [Emicrania, contro stigma e ritardi diagnostici arriva il docufilm 'Una vita a metà' - Il Tirreno](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa1BGRkpQTTBPQTJRb2xOTGQ3UjFfWC1fYWV6Z0xuREJGOERIRHIxblVtckdLQVZUczMwaFplS212WHBZX0ozNWhVMDM2bndUZmxpNG5IbzloYjhnX3hEcHVHX2V1SzdMZkZ5TUFhWHAyaHFMVWJyWkR5T3BXa0pfOEZkNlp3WExGZHZRWUR0aHNra2lGb09SQml1VVRwa0l5aGtjWFhpNmh6YVdIY2Y0bWVJUFJkbUR1d1UzaWQ3bkNlVk9LTC15VkFyMUpmYXMzY3ktd2dsUUNMZW1BLWt2U21GMVBVekE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">emicrania</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa1BGRkpQTTBPQTJRb2xOTGQ3UjFfWC1fYWV6Z0xuREJGOERIRHIxblVtckdLQVZUczMwaFplS212WHBZX0ozNWhVMDM2bndUZmxpNG5IbzloYjhnX3hEcHVHX2V1SzdMZkZ5TUFhWHAyaHFMVWJyWkR5T3BXa0pfOEZkNlp3WExGZHZRWUR0aHNra2lGb09SQml1VVRwa0l5aGtjWFhpNmh6YVdIY2Y0bWVJUFJkbUR1d1UzaWQ3bkNlVk9LTC15VkFyMUpmYXMzY3ktd2dsUUNMZW1BLWt2U21GMVBVekE?oc=5)
+
+---
 
 ### [Chaleur, soleil, lumière : l’été met les migraineux à rude épreuve](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
 
 2026-06-22 <span class="news-indication-tag">migraine</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
-
----
-
-### [Las cefaleas empeoran con las altas temperaturas, pero rara vez son la causa directa del dolor](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXQ3NFR2NmJON0xzellfQ1JnOGNHT1NnazlTYXdOUFVmTHNLVXNxaFNKdmg2djFqQjhWTlJtdzZSc1Z4MFBXRkZLTzJHQ0ZmN0F2Y1hSckZzMC1jUmhxTHAtNnFoT1p2cHFIY3ptQkU1dVNiMEFGcnJya3hmLW9FVDNoMzd3dnhYMElpaWdKekdyZ1N0akJYMzExRVhFQlRhNmlyZU5RRHRFTi1OcFZkMDhlQk9aNzY5MWlCcw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXQ3NFR2NmJON0xzellfQ1JnOGNHT1NnazlTYXdOUFVmTHNLVXNxaFNKdmg2djFqQjhWTlJtdzZSc1Z4MFBXRkZLTzJHQ0ZmN0F2Y1hSckZzMC1jUmhxTHAtNnFoT1p2cHFIY3ptQkU1dVNiMEFGcnJya3hmLW9FVDNoMzd3dnhYMElpaWdKekdyZ1N0akJYMzExRVhFQlRhNmlyZU5RRHRFTi1OcFZkMDhlQk9aNzY5MWlCcw?oc=5)
 
 ---
 
