@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [CED: Darmzellen behalten Entzündungsgedächtnis über 100 Tage - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzBjbFJLR0hGZGhseEpLWl9YOXdPM1c1Mkd1UHQ5YmdERjFLSk84TVpkb3JqZTRfTU1YV2tXSkVsMllDNnRVaXRRWHE3czYza0UxZmRPeFY0YWcxeTFBd0VHbGNqSTRkMzlONFBzQVNGLWRIRVJmVWRUY09vdmxfcklreXdXOGNtdzNEMFpDQ2dyVjRweEh4R21RdUpqcEJ2ajFITy1xR0g0STdPa2hNQQ?oc=5)
+### [CED-Forschung und Mercks Anti‑TL1A: Entzündungsgedächtnis bleibt, neue Therapie kommt - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjVYREFLNXNaeGhFQUkxMUt2RE1vYVI3Rk0tMmZiLUpqZGF5UEJhdmN3LW1fNFdKTnRmUm1rSE01S0NnSWZQNllZdzRvckpJdC1TMUVkRkFVTzI0cDVpcGhfUkxFQk9OUEd0dkJKZW85OG1TbGg4NUlNQ3ZyWU1RS2R4ZlFrQ2g0V0l3N1JvMkh1cl9KdmJ2UmFjYjExZEk2OWJVQVJVeDRPWWxEdndvNHZJeGJBUGRoT0tHclNEWm0wZFU?oc=5)
 
 2026-06-23
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzBjbFJLR0hGZGhseEpLWl9YOXdPM1c1Mkd1UHQ5YmdERjFLSk84TVpkb3JqZTRfTU1YV2tXSkVsMllDNnRVaXRRWHE3czYza0UxZmRPeFY0YWcxeTFBd0VHbGNqSTRkMzlONFBzQVNGLWRIRVJmVWRUY09vdmxfcklreXdXOGNtdzNEMFpDQ2dyVjRweEh4R21RdUpqcEJ2ajFITy1xR0g0STdPa2hNQQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjVYREFLNXNaeGhFQUkxMUt2RE1vYVI3Rk0tMmZiLUpqZGF5UEJhdmN3LW1fNFdKTnRmUm1rSE01S0NnSWZQNllZdzRvckpJdC1TMUVkRkFVTzI0cDVpcGhfUkxFQk9OUEd0dkJKZW85OG1TbGg4NUlNQ3ZyWU1RS2R4ZlFrQ2g0V0l3N1JvMkh1cl9KdmJ2UmFjYjExZEk2OWJVQVJVeDRPWWxEdndvNHZJeGJBUGRoT0tHclNEWm0wZFU?oc=5)
 
 ---
 

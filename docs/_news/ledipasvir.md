@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
 ### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
@@ -110,6 +110,22 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Je suis neuroscientifique, voici "les choses que je fais chaque jour pour garder mon cerveau en bonne santé"](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTRRYmVKMEtiTUoxTTY3MHhjeGxnSy0tbHVqWjdQQTliRWFBakpqS1dCVXk4X2Uta0xRRmYtSVpjU0duX3V6ekxNTUU3YnVvSlpHZVJ1Vl9ReDF4ZWxNZ0ZleTRfT0p5VEF3eU9qMUpLcWUtMGVBYkQ1em9CdVhJTE1DbkcyWFk?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTRRYmVKMEtiTUoxTTY3MHhjeGxnSy0tbHVqWjdQQTliRWFBakpqS1dCVXk4X2Uta0xRRmYtSVpjU0duX3V6ekxNTUU3YnVvSlpHZVJ1Vl9ReDF4ZWxNZ0ZleTRfT0p5VEF3eU9qMUpLcWUtMGVBYkQ1em9CdVhJTE1DbkcyWFk?oc=5)
+
+---
+
+### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
+
+---
+
 ### [Hepatitis Delta enciende alertas por su vínculo con cáncer hepático y riesgo de evolución acelerada - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
 
 2026-06-22 <span class="news-indication-tag">hepatitis</span>
@@ -118,19 +134,19 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Anyone with high blood pressure issued beta blockers and diuretics medication alert - Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
-
-2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
-
----
-
 ### [Africa can end Aids on its own terms. Will the world back us to finish the job? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
 
 2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
+
+---
+
+### [Longevità, geni e infiammazione: perché alcune famiglie invecchiano meglio - la Repubblica](https://news.google.com/rss/articles/CBMizAFBVV95cUxObUxlTk10cllXQ1kzMlRpbXhTQ3hMa1I3THBZV0JPNkJLWTNNQk5tdExodmR1VWNaRUJPZmF5d0RhbkluMnlWUEFuTG5hTWtDSDFPUXFkSEJycHozSDZ2LUp3bDZiT3c0c1NTc3E0VFZadzBWVnZNQUlzZmFUV2s2NU9kaWpCME9pa21ua09NVUl1T2ZzYnZDZTcydUNCQTl2S1hYWWlHRXU1OEhhbV9RbjRhalNvS1E0WW1YQW9oMzJrZ0p6Z2xILTc4aWzSAdIBQVVfeXFMTjYzSUExSkdHVlZiQ0JyaTdQRzJic29LcHNSNXJLVEtnZlJDSm5WNTdFMk1qalF6aTlUTW01aWZqWWNIajEtVFlwNEpTT00xV0VFZm5lWWw5U2p5TGF3ZGlHMTBpOUZvcG9jQi13Q2lGQUNfNEM4RjRQcFJVX242bU1YQ3pQZmVGV0dhU0xtdjNKSVlQb0hRYmRtWUFzR1J0MDB0aDQ0V3h2UXdmaUlyR19uUTJvWC1pNFpVV3ZnT3pKYUtlaUg5bXBJR2FZZ3RiVnBn?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMizAFBVV95cUxObUxlTk10cllXQ1kzMlRpbXhTQ3hMa1I3THBZV0JPNkJLWTNNQk5tdExodmR1VWNaRUJPZmF5d0RhbkluMnlWUEFuTG5hTWtDSDFPUXFkSEJycHozSDZ2LUp3bDZiT3c0c1NTc3E0VFZadzBWVnZNQUlzZmFUV2s2NU9kaWpCME9pa21ua09NVUl1T2ZzYnZDZTcydUNCQTl2S1hYWWlHRXU1OEhhbV9RbjRhalNvS1E0WW1YQW9oMzJrZ0p6Z2xILTc4aWzSAdIBQVVfeXFMTjYzSUExSkdHVlZiQ0JyaTdQRzJic29LcHNSNXJLVEtnZlJDSm5WNTdFMk1qalF6aTlUTW01aWZqWWNIajEtVFlwNEpTT00xV0VFZm5lWWw5U2p5TGF3ZGlHMTBpOUZvcG9jQi13Q2lGQUNfNEM4RjRQcFJVX242bU1YQ3pQZmVGV0dhU0xtdjNKSVlQb0hRYmRtWUFzR1J0MDB0aDQ0V3h2UXdmaUlyR19uUTJvWC1pNFpVV3ZnT3pKYUtlaUg5bXBJR2FZZ3RiVnBn?oc=5)
 
 ---
 

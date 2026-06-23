@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Entzündungen: Abatacept senkt Arthritis-Risiko von 50 auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
----
-
-### [CED: Darmzellen behalten Entzündungsgedächtnis über 100 Tage - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzBjbFJLR0hGZGhseEpLWl9YOXdPM1c1Mkd1UHQ5YmdERjFLSk84TVpkb3JqZTRfTU1YV2tXSkVsMllDNnRVaXRRWHE3czYza0UxZmRPeFY0YWcxeTFBd0VHbGNqSTRkMzlONFBzQVNGLWRIRVJmVWRUY09vdmxfcklreXdXOGNtdzNEMFpDQ2dyVjRweEh4R21RdUpqcEJ2ajFITy1xR0g0STdPa2hNQQ?oc=5)
+### [CED-Forschung und Mercks Anti‑TL1A: Entzündungsgedächtnis bleibt, neue Therapie kommt - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjVYREFLNXNaeGhFQUkxMUt2RE1vYVI3Rk0tMmZiLUpqZGF5UEJhdmN3LW1fNFdKTnRmUm1rSE01S0NnSWZQNllZdzRvckpJdC1TMUVkRkFVTzI0cDVpcGhfUkxFQk9OUEd0dkJKZW85OG1TbGg4NUlNQ3ZyWU1RS2R4ZlFrQ2g0V0l3N1JvMkh1cl9KdmJ2UmFjYjExZEk2OWJVQVJVeDRPWWxEdndvNHZJeGJBUGRoT0tHclNEWm0wZFU?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzBjbFJLR0hGZGhseEpLWl9YOXdPM1c1Mkd1UHQ5YmdERjFLSk84TVpkb3JqZTRfTU1YV2tXSkVsMllDNnRVaXRRWHE3czYza0UxZmRPeFY0YWcxeTFBd0VHbGNqSTRkMzlONFBzQVNGLWRIRVJmVWRUY09vdmxfcklreXdXOGNtdzNEMFpDQ2dyVjRweEh4R21RdUpqcEJ2ajFITy1xR0g0STdPa2hNQQ?oc=5)
-
----
-
-### [Canicule : la clim peut-elle réellement nuire à notre santé ?](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">arthrite</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
-
----
-
-### [Gesundheit: Neuer Bluttest verrät, welches Organ schneller altert](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE5xTFpjZzFzZlRhRnpTS2Y5M3Fhc1lPXzZYb3d1bUV5VWZGdlVnbWd5UzlPTDFHUWNvRXBHVmxUNDRwUDN2bjBqREhBRHpFRWFWT1ppSWxOT3ZlTlA0ODNaWlFRMFFmQWd3dFBfaW5Mc0o0Z0dnOU9jSXo4LXJsMk1ZU2xvWFFWUHRCcWF5UlB4R29BNEVscG4yeUV3b3ViaWRZY2RGT1ZteXFiSUp0aHRJWlRyekczd2toN00yVW9tVG82a2dLVDluQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">asma</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE5xTFpjZzFzZlRhRnpTS2Y5M3Fhc1lPXzZYb3d1bUV5VWZGdlVnbWd5UzlPTDFHUWNvRXBHVmxUNDRwUDN2bjBqREhBRHpFRWFWT1ppSWxOT3ZlTlA0ODNaWlFRMFFmQWd3dFBfaW5Mc0o0Z0dnOU9jSXo4LXJsMk1ZU2xvWFFWUHRCcWF5UlB4R29BNEVscG4yeUV3b3ViaWRZY2RGT1ZteXFiSUp0aHRJWlRyekczd2toN00yVW9tVG82a2dLVDluQQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjVYREFLNXNaeGhFQUkxMUt2RE1vYVI3Rk0tMmZiLUpqZGF5UEJhdmN3LW1fNFdKTnRmUm1rSE01S0NnSWZQNllZdzRvckpJdC1TMUVkRkFVTzI0cDVpcGhfUkxFQk9OUEd0dkJKZW85OG1TbGg4NUlNQ3ZyWU1RS2R4ZlFrQ2g0V0l3N1JvMkh1cl9KdmJ2UmFjYjExZEk2OWJVQVJVeDRPWWxEdndvNHZJeGJBUGRoT0tHclNEWm0wZFU?oc=5)
 
 ---
 
@@ -91,6 +67,14 @@ permalink: /news/sarilumab/
 2026-06-22 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
+
+---
+
+### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">artrite</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（18 則）
+
+### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
+
+2026-06-23 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
+
+---
+
+### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+---
+
+### [Un agonista oral de GLP-1 reduce HbA1c y peso en diabetes tipo 2 en un ensayo multicéntrico de fase 2b - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkVVcGp2VzJvSG9FMnFXSzRFbk5PeUdlT0NzMW85SEhwbUdVbVJsSUlDZUNVTktXNWRPRk10UURNaU9lQWFoUkdQLXBnV1U3NW5nRWFLXzBHbTVqOV9mRHM1c0ttaHhHb0VhZ1p4V0hHY3R0UE5UODI1NWxZY3ZXQ3lveTg3ellWeUpEZUI0Nmt1eFVuM0xEVWhSU3Z2aGREejhZekJDNldobFRlaldFWUVxOTRlZVhXSGM0T2FucG1FQWJMS25KU3dvcFN1MXZJ?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkVVcGp2VzJvSG9FMnFXSzRFbk5PeUdlT0NzMW85SEhwbUdVbVJsSUlDZUNVTktXNWRPRk10UURNaU9lQWFoUkdQLXBnV1U3NW5nRWFLXzBHbTVqOV9mRHM1c0ttaHhHb0VhZ1p4V0hHY3R0UE5UODI1NWxZY3ZXQ3lveTg3ellWeUpEZUI0Nmt1eFVuM0xEVWhSU3Z2aGREejhZekJDNldobFRlaldFWUVxOTRlZVhXSGM0T2FucG1FQWJMS25KU3dvcFN1MXZJ?oc=5)
+
+---
+
+### [Drug that delays onset of type 1 diabetes approved in England and Wales - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
+
+---
 
 ### [Type 2 diabetes warning as scientists say the type of fat you eat may be driving your risk - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXpmUFBRRjhWYmkwMC1QOG5LUnBQVDlKdjVNVmoxR0hNeUs0M05wOEpDZm1yU1l3SmZDUWlNOVlvZGp6eFpqNnE2dHJVRzFEWmhialhaLVN0OG1TWGpHdEIwX0Y4M21Pa2p2dWsyYnRoTEYwaXNESHRHSHloU012Y3VB?oc=5)
 
@@ -62,11 +102,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Teplizumab drug to delay type 1 diabetes to be rolled out on the NHS](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdXd6dGNCOHpSSFlGOHVWVWZfQVlMczJFTkNRX0tibnMwTnJYNHFoRzlrdFdvQ1E1c2xpMmRUdW9BbXRlNDgwc1FRVFQtc2VGWi01aEtnT3lyR2ww?oc=5)
+### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
-2026-06-22 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+2026-06-22 <span class="news-indication-tag">Migräne</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdXd6dGNCOHpSSFlGOHVWVWZfQVlMczJFTkNRX0tibnMwTnJYNHFoRzlrdFdvQ1E1c2xpMmRUdW9BbXRlNDgwc1FRVFQtc2VGWi01aEtnT3lyR2ww?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
 ---
 
@@ -99,14 +139,6 @@ permalink: /news/abaloparatide/
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
-
----
-
-### [El calor del verano puede empeorar las cefaleas y migrañas, aunque rara vez es la causa directa del dolor](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
 
 ---
 
@@ -150,14 +182,6 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Diabetes-Medikamente senken Alzheimer-Risiko – neue Daten, Diagnostik und Präventionspfade - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVENleHJwRF9HQ09fVmVVb29YWEh3ckxnNWJXNWQ4X1FXUExadGRKQUtMZms3ajN3ZDlkdjFRLWZ6dUNRcWVxMWVpeDhWdG9kZW5qeWhrM2V5R1pJY1pMcU1PQlB3NWR0SW5BN2FkWGF4blRnR251ZEx0NnpGM0JjM2tvOTlfUnIzY3c3RkEwN05yRUpYa0VaZzhsVkpxQkl1QmlvZWZLWnpaSXpoRHpJbmxBQXFjSDZTV01TZw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVENleHJwRF9HQ09fVmVVb29YWEh3ckxnNWJXNWQ4X1FXUExadGRKQUtMZms3ajN3ZDlkdjFRLWZ6dUNRcWVxMWVpeDhWdG9kZW5qeWhrM2V5R1pJY1pMcU1PQlB3NWR0SW5BN2FkWGF4blRnR251ZEx0NnpGM0JjM2tvOTlfUnIzY3c3RkEwN05yRUpYa0VaZzhsVkpxQkl1QmlvZWZLWnpaSXpoRHpJbmxBQXFjSDZTV01TZw?oc=5)
-
----
-
 ### [Chrom und Diabetes: Blutzucker sinkt um 19 mg/ dl täglich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTlQRVpSV3BxbFBUTTlPcm5tOUY4UFNiSnRiUjlpRU92cUFkdUNLU1F3VzJ3b0xueGdkUjNkUm9pSGZlX3huVUc5dk1TaUszeVc0RzhLVFEwTHlGXzgxRVRqMVRTYV80amdhVlF0alNLRWxTNTI2b3pZOFEzQmh0OGxBZ0dLcW9jSlZNS3VNcmtpRElBVXN6bDZ5emdVUHhMOXRLUTlsbzc?oc=5)
 
 2026-06-21 <span class="news-indication-tag">diabetes</span>
@@ -171,14 +195,6 @@ permalink: /news/abaloparatide/
 2026-06-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMingFBVV95cUxORm95dVNtU0dEWlJZVHpiMGZ5WElUam1UMjZuVXM4Umt2OVNZQzNGZnB1c1gwSDdZSUVKT1NDRktTVjZHOVZIVmJmSGhIU2xZZXEzQnB4RDd1SkNIc0ZsOG5QTDJub1ZoX0E0ZXZYaFJsRFlSY3Zwa0I2Q0ZOazFfMXJSRnFabUZ0UW1HZko5UmcxNENHRmRrcE1EWUg5dw?oc=5)
-
----
-
-### [Diabetes-Therapie: BET-Inhibitoren umprogrammieren Fettgewebe epigenetisch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
 
 ---
 

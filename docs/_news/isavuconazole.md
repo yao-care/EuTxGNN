@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,53 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
-### [Entzündungen: Abatacept senkt Arthritis-Risiko von 50 auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
+### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
 
-2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+2026-06-23 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
----
-
-### [Canicule : la clim peut-elle réellement nuire à notre santé ?](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">arthrite</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
+來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
 
 ---
 
-### [El calor del verano puede empeorar las cefaleas y migrañas, aunque rara vez es la causa directa del dolor](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
+### [Cardiopatía isquémica: aprende cómo detectar sus síntomas](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 
-2026-06-22 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
+來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
+
+---
+
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
+
+---
+
+### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Migräne</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
+
+---
+
+### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+
+2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+
+---
+
+### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
 
 ---
 
@@ -102,19 +126,19 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Anyone with high blood pressure issued beta blockers and diuretics medication alert - Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
-
-2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
-
----
-
 ### [Chaleur, soleil, lumière : l’été met les migraineux à rude épreuve](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
 
 2026-06-22 <span class="news-indication-tag">migraine</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
+
+---
+
+### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">artrite</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
 
 ---
 
@@ -126,11 +150,11 @@ permalink: /news/isavuconazole/
 
 ---
 
-### [Bluthochdruck und Demenz: Omega-3-Debatte bringt neues Risiko-Fenster - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHl2OU1HY3lOY05OZGQ1aFpyMi1hMmlzMGgxSE84a0xWOWNtTk51elBEMGVzYjcwQkUwd09uQUNiSU1EMWR3dG5JRGt5VVlCRFBZTjlhVTZJc2tKLWkyRDVKUUpyOHEtR0oyRXpXdEFvLUp1dUtkZEJDQ3h4b2lPWTVaNjZoUGN5WmJtbEplWGhCM3Y4cVVTWm5oQzl1Vi1nVkE?oc=5)
+### [Bluthochdruck und Demenz: Alzheimer-Risiko steigt um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1VsblpsRkExdXE5Yk5ZVmc1QWR6a3VaWGZTbjM5U3lmMVVOV0toemIxX20zY3NxdkoxMDM5MFdHLWdtcVNfQWJLblpFdUI2Nlo2WDc3ekI3dENqZWxYZkV6NDQzUG9kaWlfbFlKYVAtWEE1bHJuSXpSUGtiNzdhWGpfTmtxYVRFSTU0eEdBbnFJVG1CSFo3N0sxa1Z0UmJ1Y19lM2NiaktULWF6R0hNcWNn?oc=5)
 
-2026-06-22 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHl2OU1HY3lOY05OZGQ1aFpyMi1hMmlzMGgxSE84a0xWOWNtTk51elBEMGVzYjcwQkUwd09uQUNiSU1EMWR3dG5JRGt5VVlCRFBZTjlhVTZJc2tKLWkyRDVKUUpyOHEtR0oyRXpXdEFvLUp1dUtkZEJDQ3h4b2lPWTVaNjZoUGN5WmJtbEplWGhCM3Y4cVVTWm5oQzl1Vi1nVkE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1VsblpsRkExdXE5Yk5ZVmc1QWR6a3VaWGZTbjM5U3lmMVVOV0toemIxX20zY3NxdkoxMDM5MFdHLWdtcVNfQWJLblpFdUI2Nlo2WDc3ekI3dENqZWxYZkV6NDQzUG9kaWlfbFlKYVAtWEE1bHJuSXpSUGtiNzdhWGpfTmtxYVRFSTU0eEdBbnFJVG1CSFo3N0sxa1Z0UmJ1Y19lM2NiaktULWF6R0hNcWNn?oc=5)
 
 ---
 

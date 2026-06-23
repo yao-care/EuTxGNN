@@ -37,6 +37,14 @@ permalink: /news/depression/
 
 ## 相關新聞（4 則）
 
+### [Faktencheck Johanniskraut bei Depressionen: Wann pflanzliche Präparate sinnvoll sind – und welche Risiken drohen](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWV8xamFVb3pFTHBvVHN1bnFaYjB0LWQ0OWVPZVZrM0FXTUNybFYyTUZwbkhlaHJNNXd6Q3BCTXQ2OG1lX3dITnA4ckhOVUp6NUQ2NFJBQVA3T1FmT1U2VXFNQVlQSUtrME40cWRRLTNmS2xrWXB0V21UTUtlYUZzdGxRSnNveVNRbVlKRzZXRVB0d3R6elNTZGs4VE5HQ3FFbXVXOXA0R0dzUzkzbXpPeUZtZTM?oc=5)
+
+2026-06-23
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWV8xamFVb3pFTHBvVHN1bnFaYjB0LWQ0OWVPZVZrM0FXTUNybFYyTUZwbkhlaHJNNXd6Q3BCTXQ2OG1lX3dITnA4ckhOVUp6NUQ2NFJBQVA3T1FmT1U2VXFNQVlQSUtrME40cWRRLTNmS2xrWXB0V21UTUtlYUZzdGxRSnNveVNRbVlKRzZXRVB0d3R6elNTZGs4VE5HQ3FFbXVXOXA0R0dzUzkzbXpPeUZtZTM?oc=5)
+
+---
+
 ### [Depressionen, Social Media und die Rolle von Medizinerinnen und Medizinern - Medical Tribune](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhaZ1pfTDhpUUFEVXExdHN6SFhldlU5TDA0dWJxdFl3ejV0eUpOMXN6OThRRUpFWDVfTzQ3dWpCazVqZWgyc1BCNEJ0dm9ESnJnSnBKRlVCNklKZk9YV21FWTR6NS1qMGQwdnQ0aGVjV3RnYjN3dTY2WGh6NkFJaTM2MU9DbXl4bDJlUXhONmlfZzNuMVlDbF9tTndNWUlyNjhjSGg0TnlKWVEzSDFHXzJaeVpPWnk5eFhnWXVaRThLQQ?oc=5)
 
 2026-06-22
@@ -58,14 +66,6 @@ permalink: /news/depression/
 2026-06-22
 
 來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeW1lTHJISWYwdC1MMU9va01iaFlxVGV2clJWU29oWmxGTlhZNlM2Um5KcE9ySUdVTl9aSmhSbWc1VEhiZjhVLXZ4M1JMSmx6TjNDdDcwNDFkUHZYOTZnVjRJSDZvNTd1N3E2LXVfMXNLYkhVZ0JlcXdFWjFUb3FrN24yMnJpQzAxN3djcTQ4VS03TFBUSjB4VTRCUm5YcloxTnppUVFGM04?oc=5)
-
----
-
-### [Faktencheck Johanniskraut bei Depressionen: Wann pflanzliche Präparate sinnvoll sind – und welche Risiken drohen](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXA3eEw1N2FKLUlMUk9EOHRibTV0RHBWeTZuZ0Q4QkdPSUstVEp5RHJRZlNpWGtHVU9YLUFJZVhlUUNxREF1Si1vNnVLZWhrMElwU2tMWVFHYUwzUVJaWE1VMUw5MGhMS012dnVkbGZtNDR3WjBaUmNFRUh5LWZLRGkzUVBqbXEzV3NjeXVHbC1IaTNVc1VqNWNjb1dTZXlBakU5bU5MenozZ3dLWkE?oc=5)
-
-2026-06-22
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXA3eEw1N2FKLUlMUk9EOHRibTV0RHBWeTZuZ0Q4QkdPSUstVEp5RHJRZlNpWGtHVU9YLUFJZVhlUUNxREF1Si1vNnVLZWhrMElwU2tMWVFHYUwzUVJaWE1VMUw5MGhMS012dnVkbGZtNDR3WjBaUmNFRUh5LWZLRGkzUVBqbXEzV3NjeXVHbC1IaTNVc1VqNWNjb1dTZXlBakU5bU5MenozZ3dLWkE?oc=5)
 
 ---
 

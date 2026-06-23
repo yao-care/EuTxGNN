@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
+
+---
 
 ### [El ECDC unifica el cribado de hepatitis B y C en donaciones ante el Reglamento SoHO](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
 
 2026-06-22 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
+
+---
+
+### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+
+2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+
+---
+
+### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
 
 ---
 
@@ -78,19 +102,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Anyone with high blood pressure issued beta blockers and diuretics medication alert - Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
+### [Bluthochdruck und Demenz: Alzheimer-Risiko steigt um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1VsblpsRkExdXE5Yk5ZVmc1QWR6a3VaWGZTbjM5U3lmMVVOV0toemIxX20zY3NxdkoxMDM5MFdHLWdtcVNfQWJLblpFdUI2Nlo2WDc3ekI3dENqZWxYZkV6NDQzUG9kaWlfbFlKYVAtWEE1bHJuSXpSUGtiNzdhWGpfTmtxYVRFSTU0eEdBbnFJVG1CSFo3N0sxa1Z0UmJ1Y19lM2NiaktULWF6R0hNcWNn?oc=5)
 
-2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
-
----
-
-### [Bluthochdruck und Demenz: Omega-3-Debatte bringt neues Risiko-Fenster - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHl2OU1HY3lOY05OZGQ1aFpyMi1hMmlzMGgxSE84a0xWOWNtTk51elBEMGVzYjcwQkUwd09uQUNiSU1EMWR3dG5JRGt5VVlCRFBZTjlhVTZJc2tKLWkyRDVKUUpyOHEtR0oyRXpXdEFvLUp1dUtkZEJDQ3h4b2lPWTVaNjZoUGN5WmJtbEplWGhCM3Y4cVVTWm5oQzl1Vi1nVkE?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHl2OU1HY3lOY05OZGQ1aFpyMi1hMmlzMGgxSE84a0xWOWNtTk51elBEMGVzYjcwQkUwd09uQUNiSU1EMWR3dG5JRGt5VVlCRFBZTjlhVTZJc2tKLWkyRDVKUUpyOHEtR0oyRXpXdEFvLUp1dUtkZEJDQ3h4b2lPWTVaNjZoUGN5WmJtbEplWGhCM3Y4cVVTWm5oQzl1Vi1nVkE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1VsblpsRkExdXE5Yk5ZVmc1QWR6a3VaWGZTbjM5U3lmMVVOV0toemIxX20zY3NxdkoxMDM5MFdHLWdtcVNfQWJLblpFdUI2Nlo2WDc3ekI3dENqZWxYZkV6NDQzUG9kaWlfbFlKYVAtWEE1bHJuSXpSUGtiNzdhWGpfTmtxYVRFSTU0eEdBbnFJVG1CSFo3N0sxa1Z0UmJ1Y19lM2NiaktULWF6R0hNcWNn?oc=5)
 
 ---
 

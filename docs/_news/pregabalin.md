@@ -54,27 +54,19 @@ permalink: /news/pregabalin/
 
 ## 相關新聞（7 則）
 
-### [Entzündungen: Abatacept senkt Arthritis-Risiko von 50 auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
+### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
 
-2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+2026-06-23 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
----
-
-### [Canicule : la clim peut-elle réellement nuire à notre santé ?](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">arthrite</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
+來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
 
 ---
 
-### [El calor del verano puede empeorar las cefaleas y migrañas, aunque rara vez es la causa directa del dolor](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
+### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
-2026-06-22 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-06-22 <span class="news-indication-tag">Migräne</span>
 
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
 ---
 
@@ -99,6 +91,14 @@ permalink: /news/pregabalin/
 2026-06-22 <span class="news-indication-tag">migraine</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
+
+---
+
+### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">artrite</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
 
 ---
 

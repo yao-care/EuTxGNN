@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "arthrite（arthritis） 相關新聞"
+title: "artrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthrite（arthritis） 的相關健康新聞報導。3 則新聞、73 個相關藥物。"
+description: "artrite（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# arthrite（arthritis） 相關新聞
+# artrite（arthritis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="arthrite（arthritis） 有什麼相關新聞？">
-<strong>arthrite（arthritis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
+<strong>artrite（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「arthrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「artrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,29 +101,21 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Entzündungen: Abatacept senkt Arthritis-Risiko von 50 auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
-2026-06-23
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
----
-
-### [Canicule : la clim peut-elle réellement nuire à notre santé ?](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
-
-2026-06-22
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Arthritis: Protein Pim1 als neuer Angriffspunkt identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
 
 2026-06-22
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
+
+---
+
+### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
+
+2026-06-22
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
 
 ---
 

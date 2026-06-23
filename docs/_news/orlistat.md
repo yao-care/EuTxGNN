@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+---
+
+### [Cuando el calor espesa la sangre: así aumentan las temperaturas extremas el riesgo de ictus - El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
+
+2026-06-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
+
+---
 
 ### [Mum's stroke death investigated over Covid jab](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
 
@@ -67,6 +83,14 @@ permalink: /news/orlistat/
 2026-06-22 <span class="news-indication-tag">ictus</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGdIek1JRmQyNFJXbk5QTmFmTldzWHFGTmxUemdlYjcxcTRrbHNyVTdvZ2wzWjlQQlY0ZTQzNGF4RS1CNWhrYUhvNTBVWE1GMEJibkNITlVZNy1CVGFwMVJ3UDlnYWVXUWVsTTdXWFFqSmdpNER5UGZsaFJMdThOUkRuWk03a1RaUDUwTTJoLWdiWFpkek1aRGR2c2Q3bU0wYU1xaEVUNlc5ZVdRWDB5VXIyeG1TX0ttb2k4WDRXOGsxUdIBvAFBVV95cUxPaUdHR2RLTzNaRHBLRDdlWTdXWW03T0xUYUdCRlR0bTJEajZhbjNuSEdUcG5vTmNLQ3pmbFpuUkV0YTVEQ0pBdnlqX194UkNGMWFFaVpwR3BMMnBORi1fSWpzQU9zYVpETnlObkNzam5ZLTh3aEVwYTBDcG02NjFRTExsM2xObDRwTkVGbEJvY2dBbkZIcEVablZ3THRaQjJYQUJ5cS11MktQSkpvV0N1RDFGcHk1bGRnYVVraA?oc=5)
+
+---
+
+### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+
+2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
 ---
 
@@ -96,7 +120,7 @@ permalink: /news/orlistat/
 
 ### [Las farmacias de la región triplican las ventas de los nuevos fármacos para adelgazar - El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
 
-2026-06-21 <span class="news-indication-tag">obesidad</span>
+2026-06-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
 
@@ -107,14 +131,6 @@ permalink: /news/orlistat/
 2026-06-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Xataka](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSVJrU3JhR1I4YWl5TFFibk05bWFSSVdHMWw1VE5OVmhxaUJuZEpjSi1HaU9wcDBCanB3UzlvZ2JWZC1CdDVROFoxU09iQmphNXAtZkUwc3loaHktOUNRc1lqUWxwNjRzbzlMUE8wSE9PT1AyVXdGbnZ5a1ZDU1psbW1FYlEwVE8zVlVIZ3FGM2Y3eXhuMjgwcUNxVW9wLTBVbVdJbEtHZHFFNWxUaG0wT0tqRFRianhfZkdPamwzbDd5Y25IWExVU0tTUGZ6TUFDd29yakRJRUhrVTJuUmZ4MtIB5gFBVV95cUxPdlg0QU1DczF1azFkZkZSQklDUHZUbnNMdkR5VlN1OFdDOXJtaHMzRmJYWWhfM2JTdUtvb2pMaG9MWU9OaTJ0SFZVMU5yU0VSNjExSEJDVTRYMXdwelNGMWNXemRhc01zdUYzR00zSDNYdlV2V3BoSXhSLVh4YWRqT1FGaUE3czVhbXJrMHVKbUU1M0poUG1GRndjMUdPMTNxeEtFeURHS2hTcm0yQ2lsYzJKdFdsWDBfNXpBbmNkS0ZHRU9TZzl5SmJBWVIzMGlWRWhHMzN4Nkt4Q1hBNWlsbTFYWDZtUQ?oc=5)
-
----
-
-### [Diabetes-Therapie: BET-Inhibitoren umprogrammieren Fettgewebe epigenetisch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
 
 ---
 

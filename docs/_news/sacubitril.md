@@ -54,35 +54,43 @@ permalink: /news/sacubitril/
 
 ## 相關新聞（15 則）
 
+### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+---
+
+### [Un agonista oral de GLP-1 reduce HbA1c y peso en diabetes tipo 2 en un ensayo multicéntrico de fase 2b - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkVVcGp2VzJvSG9FMnFXSzRFbk5PeUdlT0NzMW85SEhwbUdVbVJsSUlDZUNVTktXNWRPRk10UURNaU9lQWFoUkdQLXBnV1U3NW5nRWFLXzBHbTVqOV9mRHM1c0ttaHhHb0VhZ1p4V0hHY3R0UE5UODI1NWxZY3ZXQ3lveTg3ellWeUpEZUI0Nmt1eFVuM0xEVWhSU3Z2aGREejhZekJDNldobFRlaldFWUVxOTRlZVhXSGM0T2FucG1FQWJMS25KU3dvcFN1MXZJ?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkVVcGp2VzJvSG9FMnFXSzRFbk5PeUdlT0NzMW85SEhwbUdVbVJsSUlDZUNVTktXNWRPRk10UURNaU9lQWFoUkdQLXBnV1U3NW5nRWFLXzBHbTVqOV9mRHM1c0ttaHhHb0VhZ1p4V0hHY3R0UE5UODI1NWxZY3ZXQ3lveTg3ellWeUpEZUI0Nmt1eFVuM0xEVWhSU3Z2aGREejhZekJDNldobFRlaldFWUVxOTRlZVhXSGM0T2FucG1FQWJMS25KU3dvcFN1MXZJ?oc=5)
+
+---
+
+### [Drug that delays onset of type 1 diabetes approved in England and Wales - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
+
+---
+
 ### [Type 2 diabetes warning as scientists say the type of fat you eat may be driving your risk - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXpmUFBRRjhWYmkwMC1QOG5LUnBQVDlKdjVNVmoxR0hNeUs0M05wOEpDZm1yU1l3SmZDUWlNOVlvZGp6eFpqNnE2dHJVRzFEWmhialhaLVN0OG1TWGpHdEIwX0Y4M21Pa2p2dWsyYnRoTEYwaXNESHRHSHloU012Y3VB?oc=5)
 
 2026-06-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXpmUFBRRjhWYmkwMC1QOG5LUnBQVDlKdjVNVmoxR0hNeUs0M05wOEpDZm1yU1l3SmZDUWlNOVlvZGp6eFpqNnE2dHJVRzFEWmhialhaLVN0OG1TWGpHdEIwX0Y4M21Pa2p2dWsyYnRoTEYwaXNESHRHSHloU012Y3VB?oc=5)
-
----
-
-### [Entzündungen: Abatacept senkt Arthritis-Risiko von 50 auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
----
-
-### [Teplizumab drug to delay type 1 diabetes to be rolled out on the NHS](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdXd6dGNCOHpSSFlGOHVWVWZfQVlMczJFTkNRX0tibnMwTnJYNHFoRzlrdFdvQ1E1c2xpMmRUdW9BbXRlNDgwc1FRVFQtc2VGWi01aEtnT3lyR2ww?oc=5)
-
-2026-06-22 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdXd6dGNCOHpSSFlGOHVWVWZfQVlMczJFTkNRX0tibnMwTnJYNHFoRzlrdFdvQ1E1c2xpMmRUdW9BbXRlNDgwc1FRVFQtc2VGWi01aEtnT3lyR2ww?oc=5)
-
----
-
-### [Canicule : la clim peut-elle réellement nuire à notre santé ?](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">arthrite</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
 
 ---
 
@@ -134,19 +142,19 @@ permalink: /news/sacubitril/
 
 ---
 
+### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">artrite</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
+
+---
+
 ### [These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5)
 
 2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5)
-
----
-
-### [Diabetes-Medikamente senken Alzheimer-Risiko – neue Daten, Diagnostik und Präventionspfade - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVENleHJwRF9HQ09fVmVVb29YWEh3ckxnNWJXNWQ4X1FXUExadGRKQUtMZms3ajN3ZDlkdjFRLWZ6dUNRcWVxMWVpeDhWdG9kZW5qeWhrM2V5R1pJY1pMcU1PQlB3NWR0SW5BN2FkWGF4blRnR251ZEx0NnpGM0JjM2tvOTlfUnIzY3c3RkEwN05yRUpYa0VaZzhsVkpxQkl1QmlvZWZLWnpaSXpoRHpJbmxBQXFjSDZTV01TZw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVENleHJwRF9HQ09fVmVVb29YWEh3ckxnNWJXNWQ4X1FXUExadGRKQUtMZms3ajN3ZDlkdjFRLWZ6dUNRcWVxMWVpeDhWdG9kZW5qeWhrM2V5R1pJY1pMcU1PQlB3NWR0SW5BN2FkWGF4blRnR251ZEx0NnpGM0JjM2tvOTlfUnIzY3c3RkEwN05yRUpYa0VaZzhsVkpxQkl1QmlvZWZLWnpaSXpoRHpJbmxBQXFjSDZTV01TZw?oc=5)
 
 ---
 
@@ -163,14 +171,6 @@ permalink: /news/sacubitril/
 2026-06-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMingFBVV95cUxORm95dVNtU0dEWlJZVHpiMGZ5WElUam1UMjZuVXM4Umt2OVNZQzNGZnB1c1gwSDdZSUVKT1NDRktTVjZHOVZIVmJmSGhIU2xZZXEzQnB4RDd1SkNIc0ZsOG5QTDJub1ZoX0E0ZXZYaFJsRFlSY3Zwa0I2Q0ZOazFfMXJSRnFabUZ0UW1HZko5UmcxNENHRmRrcE1EWUg5dw?oc=5)
-
----
-
-### [Diabetes-Therapie: BET-Inhibitoren umprogrammieren Fettgewebe epigenetisch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
 
 ---
 

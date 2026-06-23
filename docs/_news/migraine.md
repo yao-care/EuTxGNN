@@ -3,7 +3,7 @@ layout: default
 title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。4 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。5 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>4 則</strong>相關新聞報導，49 個相關藥物。
+<strong>migraña（migraine）</strong> 目前有 <strong>5 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,13 +77,21 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [El calor del verano puede empeorar las cefaleas y migrañas, aunque rara vez es la causa directa del dolor](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
+### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
+
+2026-06-23
+
+來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
+
+---
+
+### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
 2026-06-22
 
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
 ---
 

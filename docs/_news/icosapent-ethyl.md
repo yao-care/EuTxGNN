@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li>heart disease（98.0%）</li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 cardiopatía</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -54,19 +54,11 @@ permalink: /news/icosapent-ethyl/
 
 ## 相關新聞（3 則）
 
-### [Entzündungen: Abatacept senkt Arthritis-Risiko von 50 auf 20% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
+### [Cardiopatía isquémica: aprende cómo detectar sus síntomas](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 
-2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
+2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRkXzlPVHZxMjBaZGgwekRDOENyRGRianlJZGM5Y0lzeHRXcUQ4ZWh6NFAyTzhrWnhYaTczbzBJbmFMSVMwU0ZVSTJXZXkyblZrMTlROFBDTWVtTzJHWXI1QjVpOFk4SlotOXByUl8yOVZFNTdTdlFEZ19RTVVCVDFRQ0xqcEwxQVVGbDBJQ004NVNYTE5mc2tmWXdrczcyYlFMSk4tS1RydG5KTlRRUzFTY1BvVnU4?oc=5)
-
----
-
-### [Canicule : la clim peut-elle réellement nuire à notre santé ?](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">arthrite</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZi1sdVZ3ZEk5UU5Yb3pVN2wxY2hXclVXYmd3YTBuLW83U2phaENZbHBnLXhweG04QnJxdkNmdTBEaGxwVFJzZUU3RTNxTlo2X0tTc2NjdU1wM1ZURG9yUXlpTjYyMWdFdXpCTnM4LXRIQ2JxcmpiRFpnQW9vS0VoTUstSmc4bkxna3pjQ1ZTOUhReHN1bjlrNUpiaXZGZllNWkV0Yw?oc=5)
+來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 
 ---
 
@@ -75,6 +67,14 @@ permalink: /news/icosapent-ethyl/
 2026-06-22 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmNGYUk1U1FwVXRKNGVrcTRFUzVJYllsSGQzQWpKZmIxOGlMUmctTTlVOGxScXNhS1ZmZHFxWVVLT1ZIeXpIT1NyQlFkZldXN050ck03SFlXcGhoWWxITThHbGt6QlhnQXBrODBIVkt3SXIyTDlKNUUzSk1od2I2UUI3cEw1WExEVWwtTkxwQTdKNHdGX1dyU2d5SU9kWnJPemV3c3NwbXdVMXFnNlE?oc=5)
+
+---
+
+### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">artrite</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
 
 ---
 

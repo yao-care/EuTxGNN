@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+---
+
+### [Un agonista oral de GLP-1 reduce HbA1c y peso en diabetes tipo 2 en un ensayo multicéntrico de fase 2b - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkVVcGp2VzJvSG9FMnFXSzRFbk5PeUdlT0NzMW85SEhwbUdVbVJsSUlDZUNVTktXNWRPRk10UURNaU9lQWFoUkdQLXBnV1U3NW5nRWFLXzBHbTVqOV9mRHM1c0ttaHhHb0VhZ1p4V0hHY3R0UE5UODI1NWxZY3ZXQ3lveTg3ellWeUpEZUI0Nmt1eFVuM0xEVWhSU3Z2aGREejhZekJDNldobFRlaldFWUVxOTRlZVhXSGM0T2FucG1FQWJMS25KU3dvcFN1MXZJ?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkVVcGp2VzJvSG9FMnFXSzRFbk5PeUdlT0NzMW85SEhwbUdVbVJsSUlDZUNVTktXNWRPRk10UURNaU9lQWFoUkdQLXBnV1U3NW5nRWFLXzBHbTVqOV9mRHM1c0ttaHhHb0VhZ1p4V0hHY3R0UE5UODI1NWxZY3ZXQ3lveTg3ellWeUpEZUI0Nmt1eFVuM0xEVWhSU3Z2aGREejhZekJDNldobFRlaldFWUVxOTRlZVhXSGM0T2FucG1FQWJMS25KU3dvcFN1MXZJ?oc=5)
+
+---
+
+### [Drug that delays onset of type 1 diabetes approved in England and Wales - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
+
+---
 
 ### [Type 2 diabetes warning as scientists say the type of fat you eat may be driving your risk - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXpmUFBRRjhWYmkwMC1QOG5LUnBQVDlKdjVNVmoxR0hNeUs0M05wOEpDZm1yU1l3SmZDUWlNOVlvZGp6eFpqNnE2dHJVRzFEWmhialhaLVN0OG1TWGpHdEIwX0Y4M21Pa2p2dWsyYnRoTEYwaXNESHRHSHloU012Y3VB?oc=5)
 
 2026-06-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXpmUFBRRjhWYmkwMC1QOG5LUnBQVDlKdjVNVmoxR0hNeUs0M05wOEpDZm1yU1l3SmZDUWlNOVlvZGp6eFpqNnE2dHJVRzFEWmhialhaLVN0OG1TWGpHdEIwX0Y4M21Pa2p2dWsyYnRoTEYwaXNESHRHSHloU012Y3VB?oc=5)
-
----
-
-### [Teplizumab drug to delay type 1 diabetes to be rolled out on the NHS](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdXd6dGNCOHpSSFlGOHVWVWZfQVlMczJFTkNRX0tibnMwTnJYNHFoRzlrdFdvQ1E1c2xpMmRUdW9BbXRlNDgwc1FRVFQtc2VGWi01aEtnT3lyR2ww?oc=5)
-
-2026-06-22 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdXd6dGNCOHpSSFlGOHVWVWZfQVlMczJFTkNRX0tibnMwTnJYNHFoRzlrdFdvQ1E1c2xpMmRUdW9BbXRlNDgwc1FRVFQtc2VGWi01aEtnT3lyR2ww?oc=5)
 
 ---
 
@@ -118,14 +142,6 @@ permalink: /news/ustekinumab/
 
 ---
 
-### [Diabetes-Medikamente senken Alzheimer-Risiko – neue Daten, Diagnostik und Präventionspfade - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVENleHJwRF9HQ09fVmVVb29YWEh3ckxnNWJXNWQ4X1FXUExadGRKQUtMZms3ajN3ZDlkdjFRLWZ6dUNRcWVxMWVpeDhWdG9kZW5qeWhrM2V5R1pJY1pMcU1PQlB3NWR0SW5BN2FkWGF4blRnR251ZEx0NnpGM0JjM2tvOTlfUnIzY3c3RkEwN05yRUpYa0VaZzhsVkpxQkl1QmlvZWZLWnpaSXpoRHpJbmxBQXFjSDZTV01TZw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVENleHJwRF9HQ09fVmVVb29YWEh3ckxnNWJXNWQ4X1FXUExadGRKQUtMZms3ajN3ZDlkdjFRLWZ6dUNRcWVxMWVpeDhWdG9kZW5qeWhrM2V5R1pJY1pMcU1PQlB3NWR0SW5BN2FkWGF4blRnR251ZEx0NnpGM0JjM2tvOTlfUnIzY3c3RkEwN05yRUpYa0VaZzhsVkpxQkl1QmlvZWZLWnpaSXpoRHpJbmxBQXFjSDZTV01TZw?oc=5)
-
----
-
 ### [Chrom und Diabetes: Blutzucker sinkt um 19 mg/ dl täglich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTlQRVpSV3BxbFBUTTlPcm5tOUY4UFNiSnRiUjlpRU92cUFkdUNLU1F3VzJ3b0xueGdkUjNkUm9pSGZlX3huVUc5dk1TaUszeVc0RzhLVFEwTHlGXzgxRVRqMVRTYV80amdhVlF0alNLRWxTNTI2b3pZOFEzQmh0OGxBZ0dLcW9jSlZNS3VNcmtpRElBVXN6bDZ5emdVUHhMOXRLUTlsbzc?oc=5)
 
 2026-06-21 <span class="news-indication-tag">diabetes</span>
@@ -139,14 +155,6 @@ permalink: /news/ustekinumab/
 2026-06-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMingFBVV95cUxORm95dVNtU0dEWlJZVHpiMGZ5WElUam1UMjZuVXM4Umt2OVNZQzNGZnB1c1gwSDdZSUVKT1NDRktTVjZHOVZIVmJmSGhIU2xZZXEzQnB4RDd1SkNIc0ZsOG5QTDJub1ZoX0E0ZXZYaFJsRFlSY3Zwa0I2Q0ZOazFfMXJSRnFabUZ0UW1HZko5UmcxNENHRmRrcE1EWUg5dw?oc=5)
-
----
-
-### [Diabetes-Therapie: BET-Inhibitoren umprogrammieren Fettgewebe epigenetisch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
 
 ---
 

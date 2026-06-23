@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Cuando el calor espesa la sangre: así aumentan las temperaturas extremas el riesgo de ictus - El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
+
+2026-06-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
+
+---
 
 ### [Mum's stroke death investigated over Covid jab](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
 
