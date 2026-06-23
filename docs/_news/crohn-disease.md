@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [CED-Forschung und Mercks Anti‑TL1A: Entzündungsgedächtnis bleibt, neue Therapie kommt - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjVYREFLNXNaeGhFQUkxMUt2RE1vYVI3Rk0tMmZiLUpqZGF5UEJhdmN3LW1fNFdKTnRmUm1rSE01S0NnSWZQNllZdzRvckpJdC1TMUVkRkFVTzI0cDVpcGhfUkxFQk9OUEd0dkJKZW85OG1TbGg4NUlNQ3ZyWU1RS2R4ZlFrQ2g0V0l3N1JvMkh1cl9KdmJ2UmFjYjExZEk2OWJVQVJVeDRPWWxEdndvNHZJeGJBUGRoT0tHclNEWm0wZFU?oc=5)
+### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
 
 2026-06-23
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjVYREFLNXNaeGhFQUkxMUt2RE1vYVI3Rk0tMmZiLUpqZGF5UEJhdmN3LW1fNFdKTnRmUm1rSE01S0NnSWZQNllZdzRvckpJdC1TMUVkRkFVTzI0cDVpcGhfUkxFQk9OUEd0dkJKZW85OG1TbGg4NUlNQ3ZyWU1RS2R4ZlFrQ2g0V0l3N1JvMkh1cl9KdmJ2UmFjYjExZEk2OWJVQVJVeDRPWWxEdndvNHZJeGJBUGRoT0tHclNEWm0wZFU?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fremanezumab/
 ---
 
 <p class="key-answer" data-question="Fremanezumab 有什麼相關新聞？">
-<strong>Fremanezumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fremanezumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/fremanezumab/
 <p><a href="{{ '/drugs/fremanezumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
 
@@ -70,27 +70,11 @@ permalink: /news/fremanezumab/
 
 ---
 
-### [Emicrania, contro stigma e ritardi diagnostici arriva il docufilm 'Una vita a metà' - Il Tirreno](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa1BGRkpQTTBPQTJRb2xOTGQ3UjFfWC1fYWV6Z0xuREJGOERIRHIxblVtckdLQVZUczMwaFplS212WHBZX0ozNWhVMDM2bndUZmxpNG5IbzloYjhnX3hEcHVHX2V1SzdMZkZ5TUFhWHAyaHFMVWJyWkR5T3BXa0pfOEZkNlp3WExGZHZRWUR0aHNra2lGb09SQml1VVRwa0l5aGtjWFhpNmh6YVdIY2Y0bWVJUFJkbUR1d1UzaWQ3bkNlVk9LTC15VkFyMUpmYXMzY3ktd2dsUUNMZW1BLWt2U21GMVBVekE?oc=5)
-
-2026-06-22 <span class="news-indication-tag">emicrania</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa1BGRkpQTTBPQTJRb2xOTGQ3UjFfWC1fYWV6Z0xuREJGOERIRHIxblVtckdLQVZUczMwaFplS212WHBZX0ozNWhVMDM2bndUZmxpNG5IbzloYjhnX3hEcHVHX2V1SzdMZkZ5TUFhWHAyaHFMVWJyWkR5T3BXa0pfOEZkNlp3WExGZHZRWUR0aHNra2lGb09SQml1VVRwa0l5aGtjWFhpNmh6YVdIY2Y0bWVJUFJkbUR1d1UzaWQ3bkNlVk9LTC15VkFyMUpmYXMzY3ktd2dsUUNMZW1BLWt2U21GMVBVekE?oc=5)
-
----
-
 ### [Chaleur, soleil, lumière : l’été met les migraineux à rude épreuve](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
 
 2026-06-22 <span class="news-indication-tag">migraine</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
-
----
-
-### [Los datos respaldan el tratamiento anti-CGRP intravenoso en migraña crónica - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWt4QkIwMi10Q0JuOXJzNTFDTkZzSV84WmZEbm54WTBPZUx6NF9fWnZ2MmR3T3NodmRMWktZUmFFWXg0cW9UYlM2cGJ0aVpER1pmeFlXaGgyTDJhT2ZhQ3JPdndEXzFxTEdZWlNJekVNNU10WEdzRlh6V2FIRG01SGRUVVRlanBRc1FDNnZ1Q2V0Q3ZjRUNWTF9kekRPMmhEcU16ZEozcE93N1E4SEtDeG40TU82YmJFNFNpRGF6Q2NyOTJXblhqY3pVNlDSAcwBQVVfeXFMTTIwNk1fMU01Zk95TzJ5YnhhNGxDZzdfcWVQSDFUZFJKNGU4YlN5YlhqS3dZaXJSRXZubkVMTXl0WWRfQ3RxMmFnYjRQTU5uZVkzMmY5VHJrU0tXTTRMempEMFBENkdVaEMyQUhjTXR2QjduWTlleTN4YjhuZDlYWFlqbF9NdEROOGtfQ3pJbkFXWFpZaC1icXdEbnhsb1VZdW45MUthRTA5YTl2ZFRwTlBNdWJPcjk2QjFUVTNwcmt4U19mUHBaSGZlSWF6?oc=5)
-
-2026-06-22 <span class="news-indication-tag">migraña</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWt4QkIwMi10Q0JuOXJzNTFDTkZzSV84WmZEbm54WTBPZUx6NF9fWnZ2MmR3T3NodmRMWktZUmFFWXg0cW9UYlM2cGJ0aVpER1pmeFlXaGgyTDJhT2ZhQ3JPdndEXzFxTEdZWlNJekVNNU10WEdzRlh6V2FIRG01SGRUVVRlanBRc1FDNnZ1Q2V0Q3ZjRUNWTF9kekRPMmhEcU16ZEozcE93N1E4SEtDeG40TU82YmJFNFNpRGF6Q2NyOTJXblhqY3pVNlDSAcwBQVVfeXFMTTIwNk1fMU01Zk95TzJ5YnhhNGxDZzdfcWVQSDFUZFJKNGU4YlN5YlhqS3dZaXJSRXZubkVMTXl0WWRfQ3RxMmFnYjRQTU5uZVkzMmY5VHJrU0tXTTRMempEMFBENkdVaEMyQUhjTXR2QjduWTlleTN4YjhuZDlYWFlqbF9NdEROOGtfQ3pJbkFXWFpZaC1icXdEbnhsb1VZdW45MUthRTA5YTl2ZFRwTlBNdWJPcjk2QjFUVTNwcmt4U19mUHBaSGZlSWF6?oc=5)
 
 ---
 

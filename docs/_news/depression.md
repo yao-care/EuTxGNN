@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Faktencheck Johanniskraut bei Depressionen: Wann pflanzliche Präparate sinnvoll sind – und welche Risiken drohen](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWV8xamFVb3pFTHBvVHN1bnFaYjB0LWQ0OWVPZVZrM0FXTUNybFYyTUZwbkhlaHJNNXd6Q3BCTXQ2OG1lX3dITnA4ckhOVUp6NUQ2NFJBQVA3T1FmT1U2VXFNQVlQSUtrME40cWRRLTNmS2xrWXB0V21UTUtlYUZzdGxRSnNveVNRbVlKRzZXRVB0d3R6elNTZGs4VE5HQ3FFbXVXOXA0R0dzUzkzbXpPeUZtZTM?oc=5)
 
@@ -50,14 +50,6 @@ permalink: /news/depression/
 2026-06-22
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhaZ1pfTDhpUUFEVXExdHN6SFhldlU5TDA0dWJxdFl3ejV0eUpOMXN6OThRRUpFWDVfTzQ3dWpCazVqZWgyc1BCNEJ0dm9ESnJnSnBKRlVCNklKZk9YV21FWTR6NS1qMGQwdnQ0aGVjV3RnYjN3dTY2WGh6NkFJaTM2MU9DbXl4bDJlUXhONmlfZzNuMVlDbF9tTndNWUlyNjhjSGg0TnlKWVEzSDFHXzJaeVpPWnk5eFhnWXVaRThLQQ?oc=5)
-
----
-
-### [El tratamiento de la depresión más inusual: laxantes para la niebla mental - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTRKcTNRLWlEWFRMVlpYc19XQ1NWZW1XTEVKRjVRMUl4Y29uZU15TTljcUg1SUlqakpMbU9FNWwyWFRBTWsyNWgzb1FWb1NvOWtQblRrdnBPX3JJZjh0V1IybDY1ODJ4QnFyVlRjZENxbjdWWkRvOUNKdS12c1Vwak9hb2l1VjVaaHAtYWJ2bk01YWpDLW01SG5pc0RoUFB0UkxzdG5Ja1gzZUNpM2Y0enpHQXBUa0hLYWVqa3p5TVMwLVQ0SlR0VDBjZ1PSAcwBQVVfeXFMUGRNVWdGUFJJcFd3eDluRmZYN3pZc2l2U2NtOXZPd3V4VUlfNEo5UWdKOVFJTkE4aDg2WWU0UUFnSVd4MkVzOWlmSWtZQlBBZlhMejR6amh2bFBGODRkMVZfT0tyQjBKakQ1c0twNmFLZHkwYjJLRzVaMmIxd3A0Z0R1ZDgxNVNoaTNrSWExX1J0T1hVbEVTTl9XRjFMUTJtTWtNSWQ2eHg2dHEtYl9vUEVtRXlTVl8zMnlBVUVUN2lYQldBZ0w0V0Y4VHNn?oc=5)
-
-2026-06-22
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTRKcTNRLWlEWFRMVlpYc19XQ1NWZW1XTEVKRjVRMUl4Y29uZU15TTljcUg1SUlqakpMbU9FNWwyWFRBTWsyNWgzb1FWb1NvOWtQblRrdnBPX3JJZjh0V1IybDY1ODJ4QnFyVlRjZENxbjdWWkRvOUNKdS12c1Vwak9hb2l1VjVaaHAtYWJ2bk01YWpDLW01SG5pc0RoUFB0UkxzdG5Ja1gzZUNpM2Y0enpHQXBUa0hLYWVqa3p5TVMwLVQ0SlR0VDBjZ1PSAcwBQVVfeXFMUGRNVWdGUFJJcFd3eDluRmZYN3pZc2l2U2NtOXZPd3V4VUlfNEo5UWdKOVFJTkE4aDg2WWU0UUFnSVd4MkVzOWlmSWtZQlBBZlhMejR6amh2bFBGODRkMVZfT0tyQjBKakQ1c0twNmFLZHkwYjJLRzVaMmIxd3A0Z0R1ZDgxNVNoaTNrSWExX1J0T1hVbEVTTl9XRjFMUTJtTWtNSWQ2eHg2dHEtYl9vUEVtRXlTVl8zMnlBVUVUN2lYQldBZ0w0V0Y4VHNn?oc=5)
 
 ---
 

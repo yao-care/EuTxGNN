@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Buscando las claves de la enfermedad de alzheimer en la mujer postmenopáusica - El médico interactivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWV4T3liVzVKU2dHanl6S0FsUUx1bVZ1SHFPZkxZZzBoc0JRUWUyaUZJamR3UUNCMnVNSlBiOUFzQ010LUY3eDZMeUdZRm9FYWUyejQ1cTEtdGJ6RFRwVUhydkh6eUFuUlhreVNrdnRTWlJaQVFPbVlldXo3dXVHdHVqeHM2RFczVWlZc2ZBdnlIRkNROUM2cFdqdEk4NmNVdDdhWjhraFNieFZJWXBV?oc=5)
+
+2026-06-23 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWV4T3liVzVKU2dHanl6S0FsUUx1bVZ1SHFPZkxZZzBoc0JRUWUyaUZJamR3UUNCMnVNSlBiOUFzQ010LUY3eDZMeUdZRm9FYWUyejQ1cTEtdGJ6RFRwVUhydkh6eUFuUlhreVNrdnRTWlJaQVFPbVlldXo3dXVHdHVqeHM2RFczVWlZc2ZBdnlIRkNROUM2cFdqdEk4NmNVdDdhWjhraFNieFZJWXBV?oc=5)
+
+---
 
 ### [I’m a dementia expert. Here are six types you probably don’t know about - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxNbldQbERnOGYxWU8xcjZtTWc3elRYd2lVcE9SXzMxR1lQYW0xbDBWZmcwOG9qMzRObXJ2T0JRNmNzN0FpRXJ0WlNpdlJPekFDdkFwSWdCQVVRQUFGdnV0bmNCXzMya2hWZW5RZDFJV21ZU1B5S0UyOUJmU3VhZFVlUXZzb3lUQzk3R2YzLWhlRkJEcmc?oc=5)
 

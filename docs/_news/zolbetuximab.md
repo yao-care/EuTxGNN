@@ -54,35 +54,11 @@ permalink: /news/zolbetuximab/
 
 ## 相關新聞（13 則）
 
-### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
-
----
-
-### [Un agonista oral de GLP-1 reduce HbA1c y peso en diabetes tipo 2 en un ensayo multicéntrico de fase 2b - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkVVcGp2VzJvSG9FMnFXSzRFbk5PeUdlT0NzMW85SEhwbUdVbVJsSUlDZUNVTktXNWRPRk10UURNaU9lQWFoUkdQLXBnV1U3NW5nRWFLXzBHbTVqOV9mRHM1c0ttaHhHb0VhZ1p4V0hHY3R0UE5UODI1NWxZY3ZXQ3lveTg3ellWeUpEZUI0Nmt1eFVuM0xEVWhSU3Z2aGREejhZekJDNldobFRlaldFWUVxOTRlZVhXSGM0T2FucG1FQWJMS25KU3dvcFN1MXZJ?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkVVcGp2VzJvSG9FMnFXSzRFbk5PeUdlT0NzMW85SEhwbUdVbVJsSUlDZUNVTktXNWRPRk10UURNaU9lQWFoUkdQLXBnV1U3NW5nRWFLXzBHbTVqOV9mRHM1c0ttaHhHb0VhZ1p4V0hHY3R0UE5UODI1NWxZY3ZXQ3lveTg3ellWeUpEZUI0Nmt1eFVuM0xEVWhSU3Z2aGREejhZekJDNldobFRlaldFWUVxOTRlZVhXSGM0T2FucG1FQWJMS25KU3dvcFN1MXZJ?oc=5)
-
----
-
-### [Drug that delays onset of type 1 diabetes approved in England and Wales - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+### [New diabetes treatment gets 'landmark' approval for NHS - Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
 
 2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
-
----
-
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
 
 ---
 
@@ -91,6 +67,30 @@ permalink: /news/zolbetuximab/
 2026-06-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXpmUFBRRjhWYmkwMC1QOG5LUnBQVDlKdjVNVmoxR0hNeUs0M05wOEpDZm1yU1l3SmZDUWlNOVlvZGp6eFpqNnE2dHJVRzFEWmhialhaLVN0OG1TWGpHdEIwX0Y4M21Pa2p2dWsyYnRoTEYwaXNESHRHSHloU012Y3VB?oc=5)
+
+---
+
+### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
+
+---
+
+### [Intervallfasten: 10% weniger Bauchfett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdIRHRrX3pnMGN2THZ2R3R5enMwcE9mY1EzT3FxX2p0WTAzTzB2U0t5dk1lTk90RjF0bS1uRjRjdFFyRVI1R3oxcjRkaVZ6TWZ0NGZwc1RrME9NMlpxdW02eWQxY3hJTXFBWFB6dk9CTTBza3A3U2N4dXBJeG02eTBfVGM2WTU1N0xKLUVkRkhjT3kyRWRSdkZ6QXJXNW1wMlJ0aWJkWnBtRVN0T0FIM1EwWW5hZTNySEJFZXdB?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdIRHRrX3pnMGN2THZ2R3R5enMwcE9mY1EzT3FxX2p0WTAzTzB2U0t5dk1lTk90RjF0bS1uRjRjdFFyRVI1R3oxcjRkaVZ6TWZ0NGZwc1RrME9NMlpxdW02eWQxY3hJTXFBWFB6dk9CTTBza3A3U2N4dXBJeG02eTBfVGM2WTU1N0xKLUVkRkhjT3kyRWRSdkZ6QXJXNW1wMlJ0aWJkWnBtRVN0T0FIM1EwWW5hZTNySEJFZXdB?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
 
 ---
 
@@ -110,6 +110,14 @@ permalink: /news/zolbetuximab/
 
 ---
 
+### [Diabete tipo 1: l’IA gestisce la glicemia senza aspettare i sintomi - Agenda Digitale](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDVadjFYY3dBRTE0emFLRzVqRVpseXlqTFpMRkktSmlfZ3NvVndpVUFwQ2VYNTMzQUpmUnM1ajdGMWppNHJublBLZE1GMGZZRWthVHhyc191cjN4OF9QV18zal9rMFA4MGFDbTJvREdXMHhyalhiVFBaUjdLRzN5U2xLdEJEckY0TWxJSnRRMVVVeTBsTmNPZE1mekRmVHpYVVlEUUhB?oc=5)
+
+2026-06-22 <span class="news-indication-tag">diabete</span>
+
+來源：[Agenda Digitale](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDVadjFYY3dBRTE0emFLRzVqRVpseXlqTFpMRkktSmlfZ3NvVndpVUFwQ2VYNTMzQUpmUnM1ajdGMWppNHJublBLZE1GMGZZRWthVHhyc191cjN4OF9QV18zal9rMFA4MGFDbTJvREdXMHhyalhiVFBaUjdLRzN5U2xLdEJEckY0TWxJSnRRMVVVeTBsTmNPZE1mekRmVHpYVVlEUUhB?oc=5)
+
+---
+
 ### [Susanne Reger-Tan im Interview: „Diabetes verdoppelt das Herzinfarktrisiko“](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS1dzS3o4SFh0MlhRdTdsV1lhTXhNMGRBdWk3OGtlbFpuSHJNM1pJeHJzLU5kUTkzNkFoQnZiWVZxSktrbklkY3NzUXM3elRWOFdoV181MUtkcnR4OHdzczZFSmkwT0t6ZENKeWRwQ1ZXTGV0UE9ZWnJVdmJvWFl3cjZlWklicTF4eHp0VzQzZEtWMnltT3pLcV81dHl1dWFmZVJXMkRuSUthZ2JVSkpGWnBrWnIzSG5haEMxUmJTdmFJSjk1U3JTRg?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
@@ -118,25 +126,25 @@ permalink: /news/zolbetuximab/
 
 ---
 
-### [Cenar fruta regula la glucosa en sangre por la noche y ayuda a controlar la diabetes](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+### [Una investigación de la UGR muestra que consumir fruta en la cena se asocia con un mejor control de la glucosa nocturna en adultos con obesidad - Canal UGR](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5WE4zTGsxeDFreVJwbUlIUTFjNVZpaVlnMk5JOWJhazZxcUZIbkJuSHhPWGhlLWR3djU5SWc2QVBBbVhGbEQzWDlmT0lmVlJoSXlhX0NBSEVseHRQTC12Ykdn?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5WE4zTGsxeDFreVJwbUlIUTFjNVZpaVlnMk5JOWJhazZxcUZIbkJuSHhPWGhlLWR3djU5SWc2QVBBbVhGbEQzWDlmT0lmVlJoSXlhX0NBSEVseHRQTC12Ykdn?oc=5)
 
 ---
 
-### [Castilla y León lanza una base de datos de riesgo cardiovascular para mejorar las estrategias de prevención](https://news.google.com/rss/articles/CBMiigJBVV95cUxNdVZuY3g1ZHBHS1VqVUdEaFhXRWlPazM0RC1nUjZkckxHQmMyenFYQXpvZmdQcFhyRkdQLXZNOWZ5RzVzaTFramZ1TXdnSWtsX01UZ0ljMEZyM2lNemVOMWpvcU9mcWhLcVJtb2ZfOHVhQnp5LVdTNTVmOWpGajM4WFpBWFpCOTlhYlR4NkZoM19JbHZ2akM5Vnppa1J2YTBTbGtTaDlnX1hveWlNdjVkTXN4b3hyLWZfZWxKV0hoMFdRV2gwbEJXLVQ5UnMtcHNZS3lqcjJIWmdSUnRCQ0VIMXZLUlFUbGdZd09tRV8zOUY2el9fekpwRWVfbUVJS3Yxb0ZuZUdmcjJqZw?oc=5)
+### [Nouveaux résultats positifs avec l'orforglipron dans le DT2](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
 
-2026-06-22 <span class="news-indication-tag">diabetes</span>
+2026-06-22 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiigJBVV95cUxNdVZuY3g1ZHBHS1VqVUdEaFhXRWlPazM0RC1nUjZkckxHQmMyenFYQXpvZmdQcFhyRkdQLXZNOWZ5RzVzaTFramZ1TXdnSWtsX01UZ0ljMEZyM2lNemVOMWpvcU9mcWhLcVJtb2ZfOHVhQnp5LVdTNTVmOWpGajM4WFpBWFpCOTlhYlR4NkZoM19JbHZ2akM5Vnppa1J2YTBTbGtTaDlnX1hveWlNdjVkTXN4b3hyLWZfZWxKV0hoMFdRV2gwbEJXLVQ5UnMtcHNZS3lqcjJIWmdSUnRCQ0VIMXZLUlFUbGdZd09tRV8zOUY2el9fekpwRWVfbUVJS3Yxb0ZuZUdmcjJqZw?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
 
 ---
 
 ### [These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5)
 
-2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-06-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5)
 
@@ -147,14 +155,6 @@ permalink: /news/zolbetuximab/
 2026-06-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTlQRVpSV3BxbFBUTTlPcm5tOUY4UFNiSnRiUjlpRU92cUFkdUNLU1F3VzJ3b0xueGdkUjNkUm9pSGZlX3huVUc5dk1TaUszeVc0RzhLVFEwTHlGXzgxRVRqMVRTYV80amdhVlF0alNLRWxTNTI2b3pZOFEzQmh0OGxBZ0dLcW9jSlZNS3VNcmtpRElBVXN6bDZ5emdVUHhMOXRLUTlsbzc?oc=5)
-
----
-
-### [3 Weekend Habits That Are Quietly Increasing Your Diabetes Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxORm95dVNtU0dEWlJZVHpiMGZ5WElUam1UMjZuVXM4Umt2OVNZQzNGZnB1c1gwSDdZSUVKT1NDRktTVjZHOVZIVmJmSGhIU2xZZXEzQnB4RDd1SkNIc0ZsOG5QTDJub1ZoX0E0ZXZYaFJsRFlSY3Zwa0I2Q0ZOazFfMXJSRnFabUZ0UW1HZko5UmcxNENHRmRrcE1EWUg5dw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMingFBVV95cUxORm95dVNtU0dEWlJZVHpiMGZ5WElUam1UMjZuVXM4Umt2OVNZQzNGZnB1c1gwSDdZSUVKT1NDRktTVjZHOVZIVmJmSGhIU2xZZXEzQnB4RDd1SkNIc0ZsOG5QTDJub1ZoX0E0ZXZYaFJsRFlSY3Zwa0I2Q0ZOazFfMXJSRnFabUZ0UW1HZko5UmcxNENHRmRrcE1EWUg5dw?oc=5)
 
 ---
 

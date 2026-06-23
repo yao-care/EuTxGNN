@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Buscando las claves de la enfermedad de alzheimer en la mujer postmenopáusica - El médico interactivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWV4T3liVzVKU2dHanl6S0FsUUx1bVZ1SHFPZkxZZzBoc0JRUWUyaUZJamR3UUNCMnVNSlBiOUFzQ010LUY3eDZMeUdZRm9FYWUyejQ1cTEtdGJ6RFRwVUhydkh6eUFuUlhreVNrdnRTWlJaQVFPbVlldXo3dXVHdHVqeHM2RFczVWlZc2ZBdnlIRkNROUM2cFdqdEk4NmNVdDdhWjhraFNieFZJWXBV?oc=5)
+
+2026-06-23
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWV4T3liVzVKU2dHanl6S0FsUUx1bVZ1SHFPZkxZZzBoc0JRUWUyaUZJamR3UUNCMnVNSlBiOUFzQ010LUY3eDZMeUdZRm9FYWUyejQ1cTEtdGJ6RFRwVUhydkh6eUFuUlhreVNrdnRTWlJaQVFPbVlldXo3dXVHdHVqeHM2RFczVWlZc2ZBdnlIRkNROUM2cFdqdEk4NmNVdDdhWjhraFNieFZJWXBV?oc=5)
+
+---
 
 ### [I’m a dementia expert. Here are six types you probably don’t know about - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxNbldQbERnOGYxWU8xcjZtTWc3elRYd2lVcE9SXzMxR1lQYW0xbDBWZmcwOG9qMzRObXJ2T0JRNmNzN0FpRXJ0WlNpdlJPekFDdkFwSWdCQVVRQUFGdnV0bmNCXzMya2hWZW5RZDFJV21ZU1B5S0UyOUJmU3VhZFVlUXZzb3lUQzk3R2YzLWhlRkJEcmc?oc=5)
 

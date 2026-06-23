@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Omega-3-Präparate: Hochdosierte DHA bremst kognitiven Abbau nicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1RCd3JwZTlfUlI3a0I0akh3TVdxWkV6N0JSak9fY3FDMDdvUVlRNHBIMXkwUXlPM19jamd6OE9qXzB5WnlDaUlFdEJTa1hVbkh3Y0h2N2NmdGhLTDh0RjBiTUVPdEFVOTM3S0oyenhQMEN1cm5JamhNX2JZaVNKZzJzZXBLSkFvUXctYkRQZnJ3QTdHUGQ0QXdaNFhCQ3pCeUtHbnFhU3IwOWtxVHRuLUFaZ1A?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1RCd3JwZTlfUlI3a0I0akh3TVdxWkV6N0JSak9fY3FDMDdvUVlRNHBIMXkwUXlPM19jamd6OE9qXzB5WnlDaUlFdEJTa1hVbkh3Y0h2N2NmdGhLTDh0RjBiTUVPdEFVOTM3S0oyenhQMEN1cm5JamhNX2JZaVNKZzJzZXBLSkFvUXctYkRQZnJ3QTdHUGQ0QXdaNFhCQ3pCeUtHbnFhU3IwOWtxVHRuLUFaZ1A?oc=5)
+
+---
+
+### [El Departamento de Salud convoca un año más sus ayudas a entidades sin ánimo de lucro que trabajan en prevención y control del VIH/sida, Hepatitis C o Infecciones de Transmisión Sexual (Consejo de Gobierno 23-06-2026) - Gobierno Vasco](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcmlHZzR2VVVwdzloSWVialZ6cXNTalhVclFLMjhFcEJvd1Y4VGdxbVdjekdxdVdHbjdMczMtOVlLUjM5bHA1c3FSSTF6WDZqRHZVY1JHSF95b1N3ZEs4ZWtVeS1BRTdrcjdwejhCQU9QMGFNeTBKdkpZZ1dBakJGek1ZRFkxS2hhYkhwclNQSU1Mc25ybXZyT0phZTBrTlRpUGFvUm9iZzZQbGo2M0RTWHFCcUpONXc5RXpqYXRNREZrOGlEMlJsbk5xOEZJWmNvTlhzXzd3WkgwUU5TdGlxRnZXRXgwclZGMWk2OHVkWFZjOE5JR3pzNU9FSlcyY0c5VEY1SXBMRkhsMWlrblFIZ2t6bUxKYXFvaHpvNVV4anZETkdhSDdXYWhrSEFpZVdXYTZsc1NVcHZxSkxJM0FYd2dsQ2ZEOS12WmFRUlBwZ180RDNQQkR1Nm0zNUxaYm5EM1Zr?oc=5)
+
+2026-06-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Euskadi.eus](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcmlHZzR2VVVwdzloSWVialZ6cXNTalhVclFLMjhFcEJvd1Y4VGdxbVdjekdxdVdHbjdMczMtOVlLUjM5bHA1c3FSSTF6WDZqRHZVY1JHSF95b1N3ZEs4ZWtVeS1BRTdrcjdwejhCQU9QMGFNeTBKdkpZZ1dBakJGek1ZRFkxS2hhYkhwclNQSU1Mc25ybXZyT0phZTBrTlRpUGFvUm9iZzZQbGo2M0RTWHFCcUpONXc5RXpqYXRNREZrOGlEMlJsbk5xOEZJWmNvTlhzXzd3WkgwUU5TdGlxRnZXRXgwclZGMWk2OHVkWFZjOE5JR3pzNU9FSlcyY0c5VEY1SXBMRkhsMWlrblFIZ2t6bUxKYXFvaHpvNVV4anZETkdhSDdXYWhrSEFpZVdXYTZsc1NVcHZxSkxJM0FYd2dsQ2ZEOS12WmFRUlBwZ180RDNQQkR1Nm0zNUxaYm5EM1Zr?oc=5)
+
+---
 
 ### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
 
@@ -72,7 +88,7 @@ permalink: /news/givosiran/
 
 ### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
-2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
@@ -80,17 +96,9 @@ permalink: /news/givosiran/
 
 ### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
 
-2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
----
-
-### [Hepatitis Delta enciende alertas por su vínculo con cáncer hepático y riesgo de evolución acelerada - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
 
 ---
 
@@ -102,27 +110,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Bluthochdruck und Demenz: Alzheimer-Risiko steigt um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1VsblpsRkExdXE5Yk5ZVmc1QWR6a3VaWGZTbjM5U3lmMVVOV0toemIxX20zY3NxdkoxMDM5MFdHLWdtcVNfQWJLblpFdUI2Nlo2WDc3ekI3dENqZWxYZkV6NDQzUG9kaWlfbFlKYVAtWEE1bHJuSXpSUGtiNzdhWGpfTmtxYVRFSTU0eEdBbnFJVG1CSFo3N0sxa1Z0UmJ1Y19lM2NiaktULWF6R0hNcWNn?oc=5)
-
-2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1VsblpsRkExdXE5Yk5ZVmc1QWR6a3VaWGZTbjM5U3lmMVVOV0toemIxX20zY3NxdkoxMDM5MFdHLWdtcVNfQWJLblpFdUI2Nlo2WDc3ekI3dENqZWxYZkV6NDQzUG9kaWlfbFlKYVAtWEE1bHJuSXpSUGtiNzdhWGpfTmtxYVRFSTU0eEdBbnFJVG1CSFo3N0sxa1Z0UmJ1Y19lM2NiaktULWF6R0hNcWNn?oc=5)
-
----
-
 ### [Täglich verzehrte Lebensmittel: Acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
 
 2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Ntv](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
-
----
-
-### [6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians - Verywell Health](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEZ0dmxtRVJTNkRqWDNadjd5cFMxdUNfb1drRjJFbWR4RFJUYlNxMmZSdi13T2tHYVVoVXhBdjJmcWlBRW4xV25CMGliOG1tQnJLbGRhUnhoQXJPN0JNcmo3ZHo3TkZwVWpobUo2ZjRTNTVnUkFqTUxsdzBid0Nucmp3?oc=5)
-
-2026-06-21 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Verywell Health](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEZ0dmxtRVJTNkRqWDNadjd5cFMxdUNfb1drRjJFbWR4RFJUYlNxMmZSdi13T2tHYVVoVXhBdjJmcWlBRW4xV25CMGliOG1tQnJLbGRhUnhoQXJPN0JNcmo3ZHo3TkZwVWpobUo2ZjRTNTVnUkFqTUxsdzBid0Nucmp3?oc=5)
 
 ---
 
