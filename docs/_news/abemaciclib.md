@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 cardiovascular disease</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 cardiopatía</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -54,6 +54,14 @@ permalink: /news/abemaciclib/
 
 ## 相關新聞（5 則）
 
+### [El riesgo de cardiopatías se dispara con los embriones congelados: La urgencia de replantear la información y vigilancia prenatal - Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjdQR2Zpa2Y1YVoxb0tDcWl0MXZxb19zVGtvam9Xc3hQQ2tITGdLMXN0VVBidFdaUkJTLXo2OVBqeFhicG5iaTgxbjdkZUpVZENsRmMxZnpUVXg1X0lxRFZzMEotQ05GeU5CY2hyMTVlbHNLS3V2U21WV1ZnRVo3ZlExWHpQUUowMUduOU94VE84SzA3clJfM1diT3lQMFU1TXhUczFGaDROU2N6eDh3SkV5YmxiNjdKZUVQdm5HLWlEbzJ0XzgzRUFtaFQ0clc0T1lSbk1lVkoxQThwLTlVVDF6RHc4S2czMHZZRnlmdHdHd0lpdXdmUlliN01xQ2FWeGUzWVU1ZEEyaVkyVVBR0gGUAkFVX3lxTE1fNVJ0MmZOYm1wdWdGTlo0MWxYUWc3WDBiQ08xMVM5UDJSdXhlanpqRVZJWmxkNS1TTjlDcmFMN24zVkUwQTV1alFWWXl0dnBjUmtOOURzWXp2NE5kbW1BbDIxcmpucGdOZVhVTHNUY0xPZ05xVkJyTjBESGxRcERrOFhadmFxZG5ENWRTcmNGTnFOd0VvYlk5T19mNlYyUlExcEZCUFV2ODBSN25feUhScEdBNmo0QXNCUU9UVFd6RmFBcHZIa2hfUEtJb2ZaNUV2RGtDcHNEZkhsTXp2Y1ozT0ZkVmU2aklGVDdrRE5QYTBEYmRyVUlZMFkyVUt4TTl6SlFXZzk2YTdPaWgyX0JFQS1wTg?oc=5)
+
+2026-06-23 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjdQR2Zpa2Y1YVoxb0tDcWl0MXZxb19zVGtvam9Xc3hQQ2tITGdLMXN0VVBidFdaUkJTLXo2OVBqeFhicG5iaTgxbjdkZUpVZENsRmMxZnpUVXg1X0lxRFZzMEotQ05GeU5CY2hyMTVlbHNLS3V2U21WV1ZnRVo3ZlExWHpQUUowMUduOU94VE84SzA3clJfM1diT3lQMFU1TXhUczFGaDROU2N6eDh3SkV5YmxiNjdKZUVQdm5HLWlEbzJ0XzgzRUFtaFQ0clc0T1lSbk1lVkoxQThwLTlVVDF6RHc4S2czMHZZRnlmdHdHd0lpdXdmUlliN01xQ2FWeGUzWVU1ZEEyaVkyVVBR0gGUAkFVX3lxTE1fNVJ0MmZOYm1wdWdGTlo0MWxYUWc3WDBiQ08xMVM5UDJSdXhlanpqRVZJWmxkNS1TTjlDcmFMN24zVkUwQTV1alFWWXl0dnBjUmtOOURzWXp2NE5kbW1BbDIxcmpucGdOZVhVTHNUY0xPZ05xVkJyTjBESGxRcERrOFhadmFxZG5ENWRTcmNGTnFOd0VvYlk5T19mNlYyUlExcEZCUFV2ODBSN25feUhScEdBNmo0QXNCUU9UVFd6RmFBcHZIa2hfUEtJb2ZaNUV2RGtDcHNEZkhsTXp2Y1ozT0ZkVmU2aklGVDdrRE5QYTBEYmRyVUlZMFkyVUt4TTl6SlFXZzk2YTdPaWgyX0JFQS1wTg?oc=5)
+
+---
+
 ### [This emerging treatment is helping people avoid knee replacement surgery](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZUR4cVZOVlZIWVZ4TVJQOTlMcUtRVDQyVjhBZmZ0SGVwUU5YZDNDZG9jVmp2ZF8zaHpFb19RckZuUUk1TUliaDd1elQwQjgwa0V4NnBqSGsyTmZaNU1YWk50Y1p3X0Z0S05lM01ORQ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">arthritis</span>
@@ -74,15 +82,7 @@ permalink: /news/abemaciclib/
 
 2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
-
----
-
-### [COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
+來源：[20minutos.es](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
 
-### [Omega-3-Präparate: Hochdosierte DHA bremst kognitiven Abbau nicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1RCd3JwZTlfUlI3a0I0akh3TVdxWkV6N0JSak9fY3FDMDdvUVlRNHBIMXkwUXlPM19jamd6OE9qXzB5WnlDaUlFdEJTa1hVbkh3Y0h2N2NmdGhLTDh0RjBiTUVPdEFVOTM3S0oyenhQMEN1cm5JamhNX2JZaVNKZzJzZXBLSkFvUXctYkRQZnJ3QTdHUGQ0QXdaNFhCQ3pCeUtHbnFhU3IwOWtxVHRuLUFaZ1A?oc=5)
+### [Gehirn-Schutz: Bluthochdruck erhöht Alzheimer-Risiko um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1RCd3JwZTlfUlI3a0I0akh3TVdxWkV6N0JSak9fY3FDMDdvUVlRNHBIMXkwUXlPM19jamd6OE9qXzB5WnlDaUlFdEJTa1hVbkh3Y0h2N2NmdGhLTDh0RjBiTUVPdEFVOTM3S0oyenhQMEN1cm5JamhNX2JZaVNKZzJzZXBLSkFvUXctYkRQZnJ3QTdHUGQ0QXdaNFhCQ3pCeUtHbnFhU3IwOWtxVHRuLUFaZ1A?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
 
 ---
 
@@ -78,11 +78,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [My ‘Kim K cocktail’ makes me look 10 years younger & ‘cured’ menopause symptoms - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3lncVlqQ3hVVHE1dzRfcDdOLWV6UWNOdXduTVdsaVFyUmp4WlJlMEJ2VXI3MjBPYjFGWFZxS05xRHFjVDlSbWRoV1ZiLWhVYWdremZLRkxIVUFoYjI2M2wwcmRQN1daOGZWdXktR0VkdEdKWTMxLTVsbmZ4RWxqVGtoYjJ3Y1JXUGZoWktR?oc=5)
+### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
 
-2026-06-23 <span class="news-indication-tag">MS</span>
+2026-06-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3lncVlqQ3hVVHE1dzRfcDdOLWV6UWNOdXduTVdsaVFyUmp4WlJlMEJ2VXI3MjBPYjFGWFZxS05xRHFjVDlSbWRoV1ZiLWhVYWdremZLRkxIVUFoYjI2M2wwcmRQN1daOGZWdXktR0VkdEdKWTMxLTVsbmZ4RWxqVGtoYjJ3Y1JXUGZoWktR?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
+
+---
+
+### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
 ---
 
@@ -118,11 +126,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Je suis neuroscientifique, voici "les choses que je fais chaque jour pour garder mon cerveau en bonne santé"](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTRRYmVKMEtiTUoxTTY3MHhjeGxnSy0tbHVqWjdQQTliRWFBakpqS1dCVXk4X2Uta0xRRmYtSVpjU0duX3V6ekxNTUU3YnVvSlpHZVJ1Vl9ReDF4ZWxNZ0ZleTRfT0p5VEF3eU9qMUpLcWUtMGVBYkQ1em9CdVhJTE1DbkcyWFk?oc=5)
+### [Una malattia autoimmune in remissione da 15 anni, grazie alle staminali](https://news.google.com/rss/articles/CBMihAJBVV95cUxPaU92T3Y0eTl4S1EySU15ZDRQUE9qZFRFVTBRdWNjbXZwcGROTlBNd2R4cFRjbTdCZU1LTzI0cmRHUWh3ZXEyeWJBQjF6UFhGbWo0M3FpNHFQcGh2ZUxIZG5mT3ctN1EzVzVncGwtUC1QRVJpQzB0UGpOLU40VXRYeVJXX2FPZkZSQUJheE1KQWk2X1czQXd6TWV5SnRIeTlpZHBHaEloajcxMUdzbTRnSFQ5VHRFRW9ZMFY1dXVubzFnVjFNNV8xNV9uRWJMdVlVamRKTEc1VGktejB6Ynp4ZkJweVl3RnVJYXFLVV84dGNySUdTRDJFV19hc3ZxY01XRXo5b9IBigJBVV95cUxQMkZlMmxmXzVNclZIQXZLWVAzN3NOMGlpOUx6VDA4NURSQ21xbUxqZDdSTzAyZmFDSy02ZEtuQ3R1TGZPSUtMLTFBbzl2R0xLeEJMQ0g0Y0k3LVhJUTZKZ0RaSktVcE1DbFVQRGtEbW01VC1rcVh6VW10YkJnT3RuRXFoVXpZX3lpRU56ckdpUWh6a29yMDVodHpoRHFGaHhBUnR0b1ptTVlRWDJ4Y0ZuRGNZSHp2MEg1UzVNd2p5Wl9tU2MtT21ZQ1hXVnVLeGp6QXF1am1Jd2tRVmNyeGRhakFQMTE4UGFqQ2syc05sX1d1MGExRjVmdm4zcjRjeG8zb251R3JTckNlQQ?oc=5)
 
 2026-06-22 <span class="news-indication-tag">MS</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTRRYmVKMEtiTUoxTTY3MHhjeGxnSy0tbHVqWjdQQTliRWFBakpqS1dCVXk4X2Uta0xRRmYtSVpjU0duX3V6ekxNTUU3YnVvSlpHZVJ1Vl9ReDF4ZWxNZ0ZleTRfT0p5VEF3eU9qMUpLcWUtMGVBYkQ1em9CdVhJTE1DbkcyWFk?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMihAJBVV95cUxPaU92T3Y0eTl4S1EySU15ZDRQUE9qZFRFVTBRdWNjbXZwcGROTlBNd2R4cFRjbTdCZU1LTzI0cmRHUWh3ZXEyeWJBQjF6UFhGbWo0M3FpNHFQcGh2ZUxIZG5mT3ctN1EzVzVncGwtUC1QRVJpQzB0UGpOLU40VXRYeVJXX2FPZkZSQUJheE1KQWk2X1czQXd6TWV5SnRIeTlpZHBHaEloajcxMUdzbTRnSFQ5VHRFRW9ZMFY1dXVubzFnVjFNNV8xNV9uRWJMdVlVamRKTEc1VGktejB6Ynp4ZkJweVl3RnVJYXFLVV84dGNySUdTRDJFV19hc3ZxY01XRXo5b9IBigJBVV95cUxQMkZlMmxmXzVNclZIQXZLWVAzN3NOMGlpOUx6VDA4NURSQ21xbUxqZDdSTzAyZmFDSy02ZEtuQ3R1TGZPSUtMLTFBbzl2R0xLeEJMQ0g0Y0k3LVhJUTZKZ0RaSktVcE1DbFVQRGtEbW01VC1rcVh6VW10YkJnT3RuRXFoVXpZX3lpRU56ckdpUWh6a29yMDVodHpoRHFGaHhBUnR0b1ptTVlRWDJ4Y0ZuRGNZSHp2MEg1UzVNd2p5Wl9tU2MtT21ZQ1hXVnVLeGp6QXF1am1Jd2tRVmNyeGRhakFQMTE4UGFqQ2syc05sX1d1MGExRjVmdm4zcjRjeG8zb251R3JTckNlQQ?oc=5)
 
 ---
 
@@ -134,11 +142,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Western Australian poultry farms locked down as second wild bird dies from H5N1 bird flu - The Guardian](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWU1FMm1maDlIVFVWMFdOMUozSlo5M2s4NmRtUm5rdm1XXzZvb0VfelU4a2luMGlSbjZuMGVRWll1M0RpeHBtX0psSWJUb1dNajBOWjBRQ0dydklXcWhSTDU3Q250aVNqcXlwaG5USDBXZlUzYVl1TDh0RGJ0OGtCbDVrMWg3YkRfaTNIMEJOWDRBdFRtMS13UFRQNllxdzFpSklVMFFySUxXelBaMkE?oc=5)
+### [«Mire su orina antes de tirar de la cadena»: la petición de los médicos de familia ante el cáncer de riñón - Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnRYWmt4TjU3Q0YwT3BKVFhXRUNYaWN4d3lrREI3Y25tczhmbmwyM2h6VFFlc3ZnVDN2c29PT25uYVdVdDJQek5GRHpsamVZVE5BODVnMDlzaDZtNGVOLThZbjMxTEEwNEVILXItOGVkMC1Fc0U5cElvaS0xOUd4UWd3UGpTeWY3Q0FwWGNuN1JMMWR0aFlmb2xGd2Q4bUFMc1FmeVRzRVBOeGMwaFNMVNIBtgFBVV95cUxOT1lsdW1QM3BUQ25IckRhM21SNXZlNzJfYjRDazQ2QkNoNzduY093SkRFVnV0emxBREhVWnBZSHk4NXFUdm5PSjg2V205T2JrTHhpeEU1U1ZMV25nZ0xLX0lyZ0VUa09sbGgwc1RXUVFsUnJucXoxMHZYd043MUcxdHA5SWdrb1RwbUJnZk5JRGxhMktFZ3ZEZGJXdm9IaDI2YXZrMEtwcFM3NC1WQllyeDYtV2xXdw?oc=5)
 
-2026-06-22 <span class="news-indication-tag">MS</span>
+2026-06-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWU1FMm1maDlIVFVWMFdOMUozSlo5M2s4NmRtUm5rdm1XXzZvb0VfelU4a2luMGlSbjZuMGVRWll1M0RpeHBtX0psSWJUb1dNajBOWjBRQ0dydklXcWhSTDU3Q250aVNqcXlwaG5USDBXZlUzYVl1TDh0RGJ0OGtCbDVrMWg3YkRfaTNIMEJOWDRBdFRtMS13UFRQNllxdzFpSklVMFFySUxXelBaMkE?oc=5)
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnRYWmt4TjU3Q0YwT3BKVFhXRUNYaWN4d3lrREI3Y25tczhmbmwyM2h6VFFlc3ZnVDN2c29PT25uYVdVdDJQek5GRHpsamVZVE5BODVnMDlzaDZtNGVOLThZbjMxTEEwNEVILXItOGVkMC1Fc0U5cElvaS0xOUd4UWd3UGpTeWY3Q0FwWGNuN1JMMWR0aFlmb2xGd2Q4bUFMc1FmeVRzRVBOeGMwaFNMVNIBtgFBVV95cUxOT1lsdW1QM3BUQ25IckRhM21SNXZlNzJfYjRDazQ2QkNoNzduY093SkRFVnV0emxBREhVWnBZSHk4NXFUdm5PSjg2V205T2JrTHhpeEU1U1ZMV25nZ0xLX0lyZ0VUa09sbGgwc1RXUVFsUnJucXoxMHZYd043MUcxdHA5SWdrb1RwbUJnZk5JRGxhMktFZ3ZEZGJXdm9IaDI2YXZrMEtwcFM3NC1WQllyeDYtV2xXdw?oc=5)
 
 ---
 

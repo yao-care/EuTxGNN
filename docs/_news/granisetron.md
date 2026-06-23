@@ -14,7 +14,7 @@ permalink: /news/granisetron/
 ---
 
 <p class="key-answer" data-question="Granisetron 有什麼相關新聞？">
-<strong>Granisetron</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Granisetron</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/granisetron/
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（29 則）
+
+### [Cáncer de próstata en España: un diagnóstico cada 17 minutos - El Español](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTEJjbHJzY2l6OEJzUVgteHRPX0poRThCZDFfajVHZHg5T2x2YXpuTm82VkFjNGpRSnc2WUhBWjFaZHllc09YZHkwSHdjdjZUREJkcW5fbUpxenh6QzMxMzJIZVFOTF8xQ2Nzel9MMHdKSU9QLVQwdFFFSlpMaDN6Zm1lbEZydVgtN1Fwb2hRSUpIYy1qWmVKZ0ZUemtzU2J0dlFJeXhGdUVyQ2MtdjRsUzVR0gG3AUFVX3lxTE10YW5HRl9ib1JwUVZsdVBKUkF5aVdZb3FMcnVVVWU3UU9Kc1d2Z2JUV0dXTzVaaGRWS04tZXFPQU1peGpQUWJKVnQ1cjQzN0VCNGl3LWY1QWFydGxLY2ppZ0FfWGRUb3BpUEhOaElfSVkyb0RheEVaWVczUTN3QlpZTTllaGpoSTRXQkdLSUx5c01UNVQ4RkZHYTBmMWNfTXRrMVdvUkhYZUY5R2hldWxWSlNrWEpwMA?oc=5)
+
+2026-06-23 <span class="news-indication-tag">AF</span>
+
+來源：[El Español](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTEJjbHJzY2l6OEJzUVgteHRPX0poRThCZDFfajVHZHg5T2x2YXpuTm82VkFjNGpRSnc2WUhBWjFaZHllc09YZHkwSHdjdjZUREJkcW5fbUpxenh6QzMxMzJIZVFOTF8xQ2Nzel9MMHdKSU9QLVQwdFFFSlpMaDN6Zm1lbEZydVgtN1Fwb2hRSUpIYy1qWmVKZ0ZUemtzU2J0dlFJeXhGdUVyQ2MtdjRsUzVR0gG3AUFVX3lxTE10YW5HRl9ib1JwUVZsdVBKUkF5aVdZb3FMcnVVVWU3UU9Kc1d2Z2JUV0dXTzVaaGRWS04tZXFPQU1peGpQUWJKVnQ1cjQzN0VCNGl3LWY1QWFydGxLY2ppZ0FfWGRUb3BpUEhOaElfSVkyb0RheEVaWVczUTN3QlpZTTllaGpoSTRXQkdLSUx5c01UNVQ4RkZHYTBmMWNfTXRrMVdvUkhYZUY5R2hldWxWSlNrWEpwMA?oc=5)
+
+---
+
+### [Hat Abnehmen (k)einen Effekt auf Vorhofflimmern?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEdzTUdfVFNHVFJGcmlWRERXU0NKNmJINTZfRWxIcVE2RUQ3U18ybDRSQ1E2VmxBOW1aWWgxZ2RyTUlSR0NRLWU4d2FrU2c1YXY5UWtRVWg3UklmVE9EWkZYSFBnSXpCTVhPd1BSQzd0NWpsMnlnZDNsbmpSWXZfaE9IcDhPcnVROFMzZHhZUk9fQ0NmRmtYdlNJLVNPWnM2cF9WcTI0MDR6ZDFp?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEdzTUdfVFNHVFJGcmlWRERXU0NKNmJINTZfRWxIcVE2RUQ3U18ybDRSQ1E2VmxBOW1aWWgxZ2RyTUlSR0NRLWU4d2FrU2c1YXY5UWtRVWg3UklmVE9EWkZYSFBnSXpCTVhPd1BSQzd0NWpsMnlnZDNsbmpSWXZfaE9IcDhPcnVROFMzZHhZUk9fQ0NmRmtYdlNJLVNPWnM2cF9WcTI0MDR6ZDFp?oc=5)
+
+---
 
 ### [Exponerse al sol sin gafas de sol no tiene beneficios para los ojos, sino todo lo contrario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjU2Z2ctMTV3MG5FejBSbDFzeHlLQjhyVi1LQXQtaHhyNnJsN2ZNVUdFVF9FZkR6MGhORWctbjZFSVphVUNacHNwVmMxcnJadVE3NXhpZ09PdnV0NjhObVd2R1Vrb1IxWmRMM010WllIRFBzaW5ieWU5bGR3d1YtUkJQVWd5VzFtV29jeUFwWkFKTUFlUXVhVDhRMFd1eDg1VUp5Q0VxMTNYenhraTByWlRiLVNSZzY3Y2lqdFI2TDd0RWh2Mzl0eHNwR3NfNlEwSnpScjlVQm4zVE5OUXl0dUtTS3JGOWU4d0RIUkIxM1pNMGc?oc=5)
 
@@ -78,27 +94,27 @@ permalink: /news/granisetron/
 
 ---
 
-### [Suspicion d’Ebola en Israël : les résultats sont tombés](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRi1xQ1VDdnl6Si1lMk81WG5LaWtNR1dyZW1LTWZxcDJpWHVwSTMwZDhBQXVsNHR0NC13Ujc1Ri1kN2t0VzhZZ0tJXzAtelpITEFiYzR3X1lmdk8yOHVmSnlkWmFWdmJwMWgxLWNfWlZrbTNxY1JyMHFpc3dCM2dfaDJqTzRNVUJVdlF3WERpaG92NVhzWFM0?oc=5)
+### [Urgent warning over 3 medication mistakes in hot weather that risk overheating, blistering sunburn or block thirst - The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0pTZGdmZTRHZmN5NTBRTXFDd1loU0ZuTkV1Z3pleVlyMjg3Y2tNRU1id3RzamR1UDFPU2xGSFpac0Y3MmE0UHBsUUNCeG02SkNfYk4xdktzWFVZbThMUzVDNWd4eS1JOHRtcWwzSGNyel9RWXF5M3hLdm9NTGZkOEJOYXFuMXp2VXFyOVU1TDRnazV1YUw5Q3c1Vm13cFZjcnFKaHhmYTg?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[IsraJ](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRi1xQ1VDdnl6Si1lMk81WG5LaWtNR1dyZW1LTWZxcDJpWHVwSTMwZDhBQXVsNHR0NC13Ujc1Ri1kN2t0VzhZZ0tJXzAtelpITEFiYzR3X1lmdk8yOHVmSnlkWmFWdmJwMWgxLWNfWlZrbTNxY1JyMHFpc3dCM2dfaDJqTzRNVUJVdlF3WERpaG92NVhzWFM0?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0pTZGdmZTRHZmN5NTBRTXFDd1loU0ZuTkV1Z3pleVlyMjg3Y2tNRU1id3RzamR1UDFPU2xGSFpac0Y3MmE0UHBsUUNCeG02SkNfYk4xdktzWFVZbThMUzVDNWd4eS1JOHRtcWwzSGNyel9RWXF5M3hLdm9NTGZkOEJOYXFuMXp2VXFyOVU1TDRnazV1YUw5Q3c1Vm13cFZjcnFKaHhmYTg?oc=5)
 
 ---
 
-### [TinyCareHome: Neue Wohnform für die Pflege von morgen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3FtamQ5RURLR1pEdjBwQkR4NmNpM1pWb2owdWhjT09Da0otTHNBUUxOSWxIbW13VEI3QTlPMERMY2RlZm8yVHpJUUQxY2FVbVI5c1R6QzRKaWdIc1BYVTNNV1lZOGswOVRocUZoN0QwUFRnQnRaR0tya2NHbjR6RkJDTktLUFdxQXVaVldGSkhNaWw5ejRZdEJHS05rdEtnVlU5c3RBd3owQy1qVVFoSw?oc=5)
+### [TinyCareHome: Neue Wohnform für die Pflege von morgen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbEJldW1UYjZobjJpY2lyclZGUnVGZHJwbk9BZVpCOGllTFlyWExOTUlVYkVkSmpGSTd0MmItUUJrY0c3dEtqenpIQQ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3FtamQ5RURLR1pEdjBwQkR4NmNpM1pWb2owdWhjT09Da0otTHNBUUxOSWxIbW13VEI3QTlPMERMY2RlZm8yVHpJUUQxY2FVbVI5c1R6QzRKaWdIc1BYVTNNV1lZOGswOVRocUZoN0QwUFRnQnRaR0tya2NHbjR6RkJDTktLUFdxQXVaVldGSkhNaWw5ejRZdEJHS05rdEtnVlU5c3RBd3owQy1qVVFoSw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbEJldW1UYjZobjJpY2lyclZGUnVGZHJwbk9BZVpCOGllTFlyWExOTUlVYkVkSmpGSTd0MmItUUJrY0c3dEtqenpIQQ?oc=5)
 
 ---
 
-### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
+### [Pflanzliche Allergene: Warum Lupine so heftige Reaktionen auslösen kann - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxObGRwN1lhSVY5aU1JZVJ5c0dfTW1NMU00ajVjODBJTy1ndlNldFRCMjhsZUlwSXZjNFgyaUQzUmR5RW1lWm9FZjViOTJMM2doc1NVRXhhR0VQM2hqYWZFVW5wZ2ZFRkFLenBVeEQ2Wk92YTN2anhKQzRoSnJOa0lua21SNUZqMzNGQm5qSzV5aU00SUZ6dmhSd1BqODVEOEVsZjRRbDg5TzgzMUo5b0NNQ0RLUQ?oc=5)
 
-2026-06-23 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxObGRwN1lhSVY5aU1JZVJ5c0dfTW1NMU00ajVjODBJTy1ndlNldFRCMjhsZUlwSXZjNFgyaUQzUmR5RW1lWm9FZjViOTJMM2doc1NVRXhhR0VQM2hqYWZFVW5wZ2ZFRkFLenBVeEQ2Wk92YTN2anhKQzRoSnJOa0lua21SNUZqMzNGQm5qSzV5aU00SUZ6dmhSd1BqODVEOEVsZjRRbDg5TzgzMUo5b0NNQ0RLUQ?oc=5)
 
 ---
 
@@ -110,19 +126,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [Explodierende Immunzellen entdeckt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMidEFVX3lxTE9wZVJXM2c1QmZLLXN2dV9peUt5UXZxQXRJWTRfR19UWXVSOGhrZjJ1MUNpaG9aSUFrT1JWTGloY2VLRTJuWFNQNENYekQwVmJrNEJZMl9HcTNBaWtNazROT2k2djJybDJUSWFzTkdOaU84Y0tr?oc=5)
+### [Explodierende Immunzellen gegen Bakterien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMidEFVX3lxTE9wZVJXM2c1QmZLLXN2dV9peUt5UXZxQXRJWTRfR19UWXVSOGhrZjJ1MUNpaG9aSUFrT1JWTGloY2VLRTJuWFNQNENYekQwVmJrNEJZMl9HcTNBaWtNazROT2k2djJybDJUSWFzTkdOaU84Y0tr?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
 來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMidEFVX3lxTE9wZVJXM2c1QmZLLXN2dV9peUt5UXZxQXRJWTRfR19UWXVSOGhrZjJ1MUNpaG9aSUFrT1JWTGloY2VLRTJuWFNQNENYekQwVmJrNEJZMl9HcTNBaWtNazROT2k2djJybDJUSWFzTkdOaU84Y0tr?oc=5)
-
----
-
-### [Neuer Genomtest deckt unerkannte arzneimittelresistente Tuberkulose in Eswatini auf - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzR0d6Y25VMnF3cGRKcDhfal9FMlJRZWN6OXNyQmR4c0EtSlZqOUpGWjRCamxmelEwT3JTb3c5d1Jmdm90VWpNMFhVNA?oc=5)
-
-2026-06-23 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzR0d6Y25VMnF3cGRKcDhfal9FMlJRZWN6OXNyQmR4c0EtSlZqOUpGWjRCamxmelEwT3JTb3c5d1Jmdm90VWpNMFhVNA?oc=5)
 
 ---
 
@@ -131,6 +139,22 @@ permalink: /news/granisetron/
 2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[TwistedSifter](https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEhmdVMzemRiV2lKNl8tb3ZaRG5hdjFPN1ZfVWhSSGZ0MnhkWm9QcW1NMUxVd2dQNEVDV0lFbFdSdlNteGo5NGYtRkJBNDlFT3Q4QVlkM2FNci1HX0pLUkFST2FmVjR6Z2ZTNmhSbHhfQ0p3SnRtLVVDUE9zczRnRzhDN0l3NHpKdWxUSVptLWF5c1dNZFRxbTNtTUkzSmk3SFNjN2NyWHZtV21hRFRyMzRsTEVYTDRBbHk3alYxM2l5cXhJclN1Q3o3M2czUXNMdm0wODJSQzVEMUJZb3J4NkhOQ0IwNzZ1aXFTZ2x1d0hsZ2xXTWQ2bkpyblZRbGlq?oc=5)
+
+---
+
+### [El avance que podría ayudar a proteger el corazón de miles de pacientes que reciben tratamientos contra el cáncer - El Economista](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOdUxzd2tvdWRyeDBuV1FHX2t2RjU0eHJfUFpXbXh5SUp0cnZKSnV0QnVVQVhQOXQ1ZnRWTzFJMUt2MmNVYmtzT0ozdnlSTEJ5RUdScEFrOTRoTEtYamRnb1FFcGtzaEQyWDlHa1dTc2FZTl9IaWxEVTA2M21xZVhPei1hNWY2YWRCVlM1M0RPWkl3OEFNZ0x2Vm5rd1JzWGVFaDBKODgyM3FhQUU3ei00WmpTRk1IME5oT2NRLVkwcFZ3bGw1c1FrWHFtZmN5b3R0NHd6a3VVRzQzRjhFVnZ4MkpDMlJ0WjNxNHpNb3owOTFxZ3pCY1hlLWZ1ZUJhdEJ4a0F3MjEwcTUyNG5TZEw1TnNZbVNPYk9JRHRvSzh2U1dHaDZ1TjVWNnptRdIBlgJBVV95cUxOMjJ5aF9VQURSTG1zSHVEczBwSjRVM1FYNnVLMUNST2QxS3c2aEhlUW55elgyaGNZdVh2VWU1WERCbXgtX096dmo1NG5Cdy1fOFhxaERRTDFhNXh5YXd0WFVFTkFsSnk5dzd0aXIydjRnUXZNQmdVUmZmdkVpZnBCdnBkdUhhaGtSM09fTjlvcF94QTlqY1FUbV91TVVmc1p1Qk1kSTZRalk5cWI2aS1rbHFHNkxfUXlLb3dLallKcFdIWG9ERERwcXZQOTVrVHB4TzhzXzVwcGlmbkJCRzhIU0lFSlZaWEFhb2s3N3B4eHEzdnRvN3FPUTloOWRCUVg4b0k5NE42TXNCTXRKUWszZVlQLWw2UQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">AF</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOdUxzd2tvdWRyeDBuV1FHX2t2RjU0eHJfUFpXbXh5SUp0cnZKSnV0QnVVQVhQOXQ1ZnRWTzFJMUt2MmNVYmtzT0ozdnlSTEJ5RUdScEFrOTRoTEtYamRnb1FFcGtzaEQyWDlHa1dTc2FZTl9IaWxEVTA2M21xZVhPei1hNWY2YWRCVlM1M0RPWkl3OEFNZ0x2Vm5rd1JzWGVFaDBKODgyM3FhQUU3ei00WmpTRk1IME5oT2NRLVkwcFZ3bGw1c1FrWHFtZmN5b3R0NHd6a3VVRzQzRjhFVnZ4MkpDMlJ0WjNxNHpNb3owOTFxZ3pCY1hlLWZ1ZUJhdEJ4a0F3MjEwcTUyNG5TZEw1TnNZbVNPYk9JRHRvSzh2U1dHaDZ1TjVWNnptRdIBlgJBVV95cUxOMjJ5aF9VQURSTG1zSHVEczBwSjRVM1FYNnVLMUNST2QxS3c2aEhlUW55elgyaGNZdVh2VWU1WERCbXgtX096dmo1NG5Cdy1fOFhxaERRTDFhNXh5YXd0WFVFTkFsSnk5dzd0aXIydjRnUXZNQmdVUmZmdkVpZnBCdnBkdUhhaGtSM09fTjlvcF94QTlqY1FUbV91TVVmc1p1Qk1kSTZRalk5cWI2aS1rbHFHNkxfUXlLb3dLallKcFdIWG9ERERwcXZQOTVrVHB4TzhzXzVwcGlmbkJCRzhIU0lFSlZaWEFhb2s3N3B4eHEzdnRvN3FPUTloOWRCUVg4b0k5NE42TXNCTXRKUWszZVlQLWw2UQ?oc=5)
+
+---
+
+### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
+
+2026-06-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
 
 ---
 
@@ -166,14 +190,6 @@ permalink: /news/granisetron/
 
 ---
 
-### [Mum's stroke death investigated over Covid jab](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
-
-2026-06-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
-
----
-
 ### [My mum died in days after 'ingrown hair sparked horror flesh-eating bug' - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQckFlc1dHbEUzemlleVB2TGdmV2xrQlc4Skt4UE14T2RqMTkzZEtXOFFMUHBfM3BZY3d4akRZV2tlNGZOenZDSkFOQzh4YmFya1d2Y0plQmtocmNsX3ItT2tlTnVTX2liX1h1RkxoWnI0R3cwU1l0RmVBdkl2Y3N6d1NMU2czV1NsYUpGRA?oc=5)
 
 2026-06-22 <span class="news-indication-tag">AF</span>
@@ -187,14 +203,6 @@ permalink: /news/granisetron/
 2026-06-22 <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxNejRZTWh1RVd3TXNFMkFFTThockNvcGw1Rk1QdGliYzRJaU90clpac3lOdnBlRTlXMUJ2Znh4MzI3YkJKdEJtUU9nRThsLW9LX3U0LVpCa244ZmlLcHRzcndaaEpJZjNIOVFmaExvTGprN2lEZ2p3RkkwSVlaNXFKWmFwR2treEZvVFgwYVEyNnA2WjNZQVRBTFBKd3RvUkNTR1R5QWdvbDRQWXhIOGVuUGlQVFQyeUVYSnFubi1vcWp3elVmVnJoN2FQcw?oc=5)
-
----
-
-### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
 ---
 
@@ -214,14 +222,6 @@ permalink: /news/granisetron/
 
 ---
 
-### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
----
-
 ### [Neue S3-Leitlinie stärkt Versorgung von Menschen mit Psychose und Sucht - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVkRYS3dXSVQtU05uSjRDNkZKM000OXl6RWFTQ2syZTVpekFIZUdDeE9tLTdTXzVWcVdUVzI3S2xpSXJMS0tEZW1SSFk5d3U4b0Mzb0xXRk1RaVFqSFhtM3RwVE5iV2xsTk9yMzJUQ3o1UXBFTEdnbzNIcTRMMS1fZHYzWmFFU1pIc0Y1TEtJUlFDM1ZhYVpFS19nUEJnWk5JRkhZOEthQXd3Z0VlRC1maVd1V0lWRmdkN1h4a2xMYmVNUGZXVWlNTXlB?oc=5)
 
 2026-06-22 <span class="news-indication-tag">AF</span>
@@ -230,19 +230,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [High blood pressure: 50p supermarket swap could do wonders for lowering your reading, scientists say - GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGdBVXdkQXFIM21BekxLS1FmWnNEOTFVM21uWmhiMlRwQ25Rc2xhdzFYcGhVb2dONEEyZTFVQmt1WE9mTHQ0TEV0N1lRZHFaV1hwQ0tObVo4dVQ0LUQ1ejhzYnpDVmhHM05OSHcycWhrQlQ3YjJKX0pGV2RWQ0dHVldtaDM5MkIwU0VXUWFfVkNoMlNYdnc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGdBVXdkQXFIM21BekxLS1FmWnNEOTFVM21uWmhiMlRwQ25Rc2xhdzFYcGhVb2dONEEyZTFVQmt1WE9mTHQ0TEV0N1lRZHFaV1hwQ0tObVo4dVQ0LUQ1ejhzYnpDVmhHM05OSHcycWhrQlQ3YjJKX0pGV2RWQ0dHVldtaDM5MkIwU0VXUWFfVkNoMlNYdnc?oc=5)
-
----
-
-### [Ondata di caldo: cibi e integratori anti-afa e pro-concentrazione per chi è impegnato nello studio. L'esperta: «Iniziate con una buona colazione, completa di proteine come yogurt greco o uova che contengono colina, utile per il cervello» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGl6eU5rT1gweWpmMVhnQjFfdTJBZklKbWstM2JWbWZEUy15VlVYRGhxRFFIR0l6OUZWVWtSQkc2MkNBcU02VFI4eVNYbllQWEgzYU83MVJEa1JVU2dpaFlsaU9fX3poQ1RXSXZLLUNKSHlkdVRMUEFUbGFvamZ2bmo0UXVET0VLQ1ZvRE1tYXczRGVsYWpycTIyUDA0dW51cnltekRfQjl0b1JHUnd6cUYzMGJKQ29jaXZ2ckdibm4taHVXRHJMVDV1bw?oc=5)
+### [Le regole d'oro per non ingrassare durante le vacanze estive - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikwJBVV95cUxORG1BWmlMR1ZFNEdUcEFvNDh5bVlGSnRZWDJVOU1jQmF4V3UxU2lxRjVGNkxqWkgxMUtBaVhzT2s0aTZudEV3VkRJNVJRNUxEczBfakNFNFVEV01SYktKdDVYWldGRUZsYzN4OU9HTjJzZ1YteTRnbWZvYTdTVmlsVGJ6QlpySFJjQ3ZFdmJlUFhSNTlobVM2T2FzaFJaMzNTT1FmZEg4SGlrVE1lbkYtTHNhcWxiSXE2Y01nX2hpbnRWb1FtRThrT1pvZzdyalVhdHdKT0wzLS03UTdpcVBMNzJvMWZHbzlRMkFJalVQRmhnbHRBTHVweEtHR0dLaUFUeV9zTEZyTHBLUzBLM2tpR0dzUdIB0AFBVV95cUxPOFZ2MWtlT0ZyV2dwSXN1YVBMcmtjUThnN0VaV1RVZ29YWUV0TEliQUY0c2owWkgtN0dFMlJHdzBUMUhnV2lHejVIaVEySXRMTkZPOXBBT25FaGJDalprWFdoWEF6WGFJTkxKendUSTRfMFIxS2p5c1B4QUJJaXdJUDdZRy05SGo1VHRONWpjblRrT2V3NU5mY3Y3R3RsdjRHMnVQRllSOUwwQ3dYNjgwdzZDcEFETTk5RGZQcVAxQW5BN0tsWk9rSmRpc1hESGd0?oc=5)
 
 2026-06-22 <span class="news-indication-tag">AF</span>
 
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGl6eU5rT1gweWpmMVhnQjFfdTJBZklKbWstM2JWbWZEUy15VlVYRGhxRFFIR0l6OUZWVWtSQkc2MkNBcU02VFI4eVNYbllQWEgzYU83MVJEa1JVU2dpaFlsaU9fX3poQ1RXSXZLLUNKSHlkdVRMUEFUbGFvamZ2bmo0UXVET0VLQ1ZvRE1tYXczRGVsYWpycTIyUDA0dW51cnltekRfQjl0b1JHUnd6cUYzMGJKQ29jaXZ2ckdibm4taHVXRHJMVDV1bw?oc=5)
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMikwJBVV95cUxORG1BWmlMR1ZFNEdUcEFvNDh5bVlGSnRZWDJVOU1jQmF4V3UxU2lxRjVGNkxqWkgxMUtBaVhzT2s0aTZudEV3VkRJNVJRNUxEczBfakNFNFVEV01SYktKdDVYWldGRUZsYzN4OU9HTjJzZ1YteTRnbWZvYTdTVmlsVGJ6QlpySFJjQ3ZFdmJlUFhSNTlobVM2T2FzaFJaMzNTT1FmZEg4SGlrVE1lbkYtTHNhcWxiSXE2Y01nX2hpbnRWb1FtRThrT1pvZzdyalVhdHdKT0wzLS03UTdpcVBMNzJvMWZHbzlRMkFJalVQRmhnbHRBTHVweEtHR0dLaUFUeV9zTEZyTHBLUzBLM2tpR0dzUdIB0AFBVV95cUxPOFZ2MWtlT0ZyV2dwSXN1YVBMcmtjUThnN0VaV1RVZ29YWUV0TEliQUY0c2owWkgtN0dFMlJHdzBUMUhnV2lHejVIaVEySXRMTkZPOXBBT25FaGJDalprWFdoWEF6WGFJTkxKendUSTRfMFIxS2p5c1B4QUJJaXdJUDdZRy05SGo1VHRONWpjblRrT2V3NU5mY3Y3R3RsdjRHMnVQRllSOUwwQ3dYNjgwdzZDcEFETTk5RGZQcVAxQW5BN0tsWk9rSmRpc1hESGd0?oc=5)
 
 ---
 
@@ -254,11 +246,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [Diagnóstico precoz e innovaciones en el cáncer de próstata](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEN3eXRJdDlMRjlBWUpTZDZzSVNDWmZqQ182amI5aUVaWWpwVGRTZ0hDMEFmY2o5ZVVRaHNtbnBKZnJYa0tnNjkyLTdGV1ZVZjdLT3ZrTXNYMmhjSEZSaEhaMW5qUjBwR0Jod0RTNjA3U2lNTUw3c2RzY0J5YVdTMlJybzZVbmNTbzJnY1JfMnMzekJubEx3R0ZvMklDX293YkYwRjVMYw?oc=5)
+### [Un laboratoire japonais assure avoir mis au point le son parfait pour aider les bébés et jeunes enfants à s'endormir](https://news.google.com/rss/articles/CBMilAJBVV95cUxNSnZPU3NyM2czRkN3Q0s1WXVBNVFlQllUQ2RsYjczS1pGdTI2bHVNNEdlWkU0eEl2TlRwc1dPU01TWXo1RFk2WElyUUVBYmhyRjdsWThaNldKc1dNWnZDRDFIMGk0UnEzd0pjSGRvN1hHejBTdDNFUnA5clpKNzI4OElZTkdrdTVQYU1DbkNKOTY3TWFoWVRkdkZFU3FabW55X0hKZzIwaVQ5Q016a3AyQW5XV0w5UFZSazZsVXNoVVdmVEVGTUpRTjdJM3lnelI2ZG5XZ1Z1aFpKOWFxNDdWbDZLMC1SanNWLWFqRm10VU8zR1MyTHN4bUMwQTBzdzgyZXNvNE1zUF9od1dtbnM0a3l2SWI?oc=5)
 
 2026-06-22 <span class="news-indication-tag">AF</span>
 
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEN3eXRJdDlMRjlBWUpTZDZzSVNDWmZqQ182amI5aUVaWWpwVGRTZ0hDMEFmY2o5ZVVRaHNtbnBKZnJYa0tnNjkyLTdGV1ZVZjdLT3ZrTXNYMmhjSEZSaEhaMW5qUjBwR0Jod0RTNjA3U2lNTUw3c2RzY0J5YVdTMlJybzZVbmNTbzJnY1JfMnMzekJubEx3R0ZvMklDX293YkYwRjVMYw?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMilAJBVV95cUxNSnZPU3NyM2czRkN3Q0s1WXVBNVFlQllUQ2RsYjczS1pGdTI2bHVNNEdlWkU0eEl2TlRwc1dPU01TWXo1RFk2WElyUUVBYmhyRjdsWThaNldKc1dNWnZDRDFIMGk0UnEzd0pjSGRvN1hHejBTdDNFUnA5clpKNzI4OElZTkdrdTVQYU1DbkNKOTY3TWFoWVRkdkZFU3FabW55X0hKZzIwaVQ5Q016a3AyQW5XV0w5UFZSazZsVXNoVVdmVEVGTUpRTjdJM3lnelI2ZG5XZ1Z1aFpKOWFxNDdWbDZLMC1SanNWLWFqRm10VU8zR1MyTHN4bUMwQTBzdzgyZXNvNE1zUF9od1dtbnM0a3l2SWI?oc=5)
 
 ---
 
@@ -286,27 +278,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [Cheshire woman, 45, given 'weeks to live' after she caught flu on Turkey holiday - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGRteU9Qd3F5ejZVRzR0Q3lGakIyVXVQME5VZkZHWDJvWFl3ZlpPbFZ3MW4zQUMwUUtMYkZ2cE5TWmt5THlRaHJzcmJnUm5SNFZVYTV1WXQ1UUNkV1lTX3F3SEFPRHVqenlXWklSYy1rTkJ6NDFzUWk4RkVTdEdRZEJ30gGHAUFVX3lxTFB6UHNFaTlfVDB5X2w5Y1J0ZEVISDczN1AyWkFDYUh4NVVqaHBoWmFiUVAwRU04Tno3YXh2SDdUYkJ5QWhURFVzUU1RbTBkWXlMcFczcWpaUUF3QXNva2NhUDNIRklDQXdubTV6amdkZndiNlZFUVBXYkx0cGxrbXVERmZzMU15UQ?oc=5)
-
-2026-06-21 <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGRteU9Qd3F5ejZVRzR0Q3lGakIyVXVQME5VZkZHWDJvWFl3ZlpPbFZ3MW4zQUMwUUtMYkZ2cE5TWmt5THlRaHJzcmJnUm5SNFZVYTV1WXQ1UUNkV1lTX3F3SEFPRHVqenlXWklSYy1rTkJ6NDFzUWk4RkVTdEdRZEJ30gGHAUFVX3lxTFB6UHNFaTlfVDB5X2w5Y1J0ZEVISDczN1AyWkFDYUh4NVVqaHBoWmFiUVAwRU04Tno3YXh2SDdUYkJ5QWhURFVzUU1RbTBkWXlMcFczcWpaUUF3QXNva2NhUDNIRklDQXdubTV6amdkZndiNlZFUVBXYkx0cGxrbXVERmZzMU15UQ?oc=5)
-
----
-
 ### [Not just a sugar bomb: why it’s OK to drink fruit juice after all - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaF9IMHRNdHpUY1NaZXRMRlE5QU1tQkJfN0Y5RFFoVGpLdnZmM3JaXzBsUmtza1hZV2w2SFhoZXVDaUhSbE5oWnZybTN4R1F6enNmcnZ2VEpJeHkzeGRzWHR6S0x4MExYdnVnQjVqZTlhVG9WeE9KSEtLWG1XcGh6SzlRWTFsbDRreDBMWEZrbTRXRzJUU0tEdUpMVGJJRzNSSF9CZGZScWotdFRDVU9YXzZB?oc=5)
 
 2026-06-21 <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaF9IMHRNdHpUY1NaZXRMRlE5QU1tQkJfN0Y5RFFoVGpLdnZmM3JaXzBsUmtza1hZV2w2SFhoZXVDaUhSbE5oWnZybTN4R1F6enNmcnZ2VEpJeHkzeGRzWHR6S0x4MExYdnVnQjVqZTlhVG9WeE9KSEtLWG1XcGh6SzlRWTFsbDRreDBMWEZrbTRXRzJUU0tEdUpMVGJJRzNSSF9CZGZScWotdFRDVU9YXzZB?oc=5)
-
----
-
-### [El dolor neuropático por quimioterapia sigue infradiagnosticado pese a afectar a más de la mitad de los pacientes con cáncer](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2ktVF8xQlRyVDhlTWhBT2NEWmk1OEFZRURmVTd2ZGE1R0c4bXkxaHJTUVFNU0FJelpqLVROWXVMZFpwSGoycC1qbjZETzktZlR0WkZvQktPYVVpbWlRUTRaMi1ldzVxaFR5dzlBNHJJMTNjQjhJZkN3TGtWbUpTMFFNWXFqbFN1Nk5XcFV6TGVSWllyLWFFZXVTN29SaUVteXk5YTdBSWVxMHAzTWdXZ3RQdXpGNVVqRzRPT1YxWl9fcWdCTERHZEU4SmszN3dIWnVJSU1IeThfeHJZUU81X2ZmVk5wMGxT?oc=5)
-
-2026-06-21 <span class="news-indication-tag">AF</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2ktVF8xQlRyVDhlTWhBT2NEWmk1OEFZRURmVTd2ZGE1R0c4bXkxaHJTUVFNU0FJelpqLVROWXVMZFpwSGoycC1qbjZETzktZlR0WkZvQktPYVVpbWlRUTRaMi1ldzVxaFR5dzlBNHJJMTNjQjhJZkN3TGtWbUpTMFFNWXFqbFN1Nk5XcFV6TGVSWllyLWFFZXVTN29SaUVteXk5YTdBSWVxMHAzTWdXZ3RQdXpGNVVqRzRPT1YxWl9fcWdCTERHZEU4SmszN3dIWnVJSU1IeThfeHJZUU81X2ZmVk5wMGxT?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（8 則）
+
+### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
+
+2026-06-23 <span class="news-indication-tag">stroke</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
+
+---
 
 ### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
 
@@ -78,43 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [These are the best cereals to pick for lowering stroke risk, experts say - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnRqdGxoN0w0eEVleFJvYzRiaWQ4U3FHRE0zcTVrTzF4WlhVWEtWRWc2RTZVdS0tdTdNVmU1bGtUaUl0S3QyZWNDYUdlWDIySHFqU3JCMDFERHE0MjltQmNvV3hiQ2xocDZOQm15cXhBZDV0aTRMUzZ5MXJrUEhDSThKdXdHMjNTeVpXNmdzdy00NHRNRFo3b0wtVnRzRnBwWmNzMkgxSEE5SDZ1Q3Ziag?oc=5)
+### [La EMA comienza la evaluación de la solicitud de autorización de comercialización de Asundexian para la prevención secundaria del ictus isquémico - El Globalfarma](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0FwdjNpLXJadDVPUFRfOXp4VWlPRWU1ZWFfS0s5Z2RfRmRTZmNhWVhyNEZTWEpJOWh4dnB3ZlFzLWJ6RWFUc2hpUEJVeG9ORkMzZnI4dkQ0SWlGTmtFR0oxSVAwbkV3RENWSVpYUWw1dXdiN04yX2pHcDFSeXRtMkt4T2JWUlhIenQ3SWJJRmZTMnFyTnE4WUJ6ZmkzeEc3Zks1MUxkak5HUV9xR3R1c04wbHhJSzM3aTdWNlptUjdFbnR3cEZiQUZ3NkJGNE1FdldPSk5Pcw?oc=5)
 
-2026-06-22 <span class="news-indication-tag">stroke</span>
+2026-06-22 <span class="news-indication-tag">ictus</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnRqdGxoN0w0eEVleFJvYzRiaWQ4U3FHRE0zcTVrTzF4WlhVWEtWRWc2RTZVdS0tdTdNVmU1bGtUaUl0S3QyZWNDYUdlWDIySHFqU3JCMDFERHE0MjltQmNvV3hiQ2xocDZOQm15cXhBZDV0aTRMUzZ5MXJrUEhDSThKdXdHMjNTeVpXNmdzdy00NHRNRFo3b0wtVnRzRnBwWmNzMkgxSEE5SDZ1Q3Ziag?oc=5)
-
----
-
-### [Mum's stroke death investigated over Covid jab](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
-
-2026-06-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0FwdjNpLXJadDVPUFRfOXp4VWlPRWU1ZWFfS0s5Z2RfRmRTZmNhWVhyNEZTWEpJOWh4dnB3ZlFzLWJ6RWFUc2hpUEJVeG9ORkMzZnI4dkQ0SWlGTmtFR0oxSVAwbkV3RENWSVpYUWw1dXdiN04yX2pHcDFSeXRtMkt4T2JWUlhIenQ3SWJJRmZTMnFyTnE4WUJ6ZmkzeEc3Zks1MUxkak5HUV9xR3R1c04wbHhJSzM3aTdWNlptUjdFbnR3cEZiQUZ3NkJGNE1FdldPSk5Pcw?oc=5)
 
 ---
 
-### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
----
-
-### [Investigan, bajo el enfoque epigenético, cómo proteger los vasos sanguíneos en la obesidad y la diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0J0V2Y1ZTRqOFdETTFTaHdaMXdBd2pob003Q2VvZUtXd1RrTS1Tckc2MUdGVGZFREszcVFlNVltbEJnS21Dd1czYUhtMGpId3hQX0FSRXJLRjE2UnF4SVJxOXN3Q2dyeGg1ZHFGNHE4cjNVckg3dnFfbDBFemZrSEtrZ3YyUng3VDNUWTBOS0RCWnBKLUp4QUdBRE1DRHlWckROZmE5T0tuSFdvaXl4ZWRR0gGsAUFVX3lxTE8xYThKc1NyLXhpNGF6MVdkME9RZ1Y3ek45TXR1eFk4MzhfYTRzMEZ2NXBuOGk2dy1aLXBfQ0xOZW5xc0UzcWMyelNiX21WODk2cGMzSnU4Q3J3S1BMMmJJUjFfM243SHlaTUNDWEhpdElCbW8tN3ljTUExWWJyOHdoNmJ2TkRoRWRXdmRudUVfcDc3dHU5SUNnYTRFaEFEUnRkX2tCc2JPSjMwZzM?oc=5)
+### [Cenar fruta regula la glucosa en sangre por la noche y ayuda a controlar la diabetes](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0J0V2Y1ZTRqOFdETTFTaHdaMXdBd2pob003Q2VvZUtXd1RrTS1Tckc2MUdGVGZFREszcVFlNVltbEJnS21Dd1czYUhtMGpId3hQX0FSRXJLRjE2UnF4SVJxOXN3Q2dyeGg1ZHFGNHE4cjNVckg3dnFfbDBFemZrSEtrZ3YyUng3VDNUWTBOS0RCWnBKLUp4QUdBRE1DRHlWckROZmE5T0tuSFdvaXl4ZWRR0gGsAUFVX3lxTE8xYThKc1NyLXhpNGF6MVdkME9RZ1Y3ek45TXR1eFk4MzhfYTRzMEZ2NXBuOGk2dy1aLXBfQ0xOZW5xc0UzcWMyelNiX21WODk2cGMzSnU4Q3J3S1BMMmJJUjFfM243SHlaTUNDWEhpdElCbW8tN3ljTUExWWJyOHdoNmJ2TkRoRWRXdmRudUVfcDc3dHU5SUNnYTRFaEFEUnRkX2tCc2JPSjMwZzM?oc=5)
-
----
-
-### [Una investigación de la UGR muestra que consumir fruta en la cena se asocia con un mejor control de la glucosa nocturna en adultos con obesidad - Canal UGR](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5WE4zTGsxeDFreVJwbUlIUTFjNVZpaVlnMk5JOWJhazZxcUZIbkJuSHhPWGhlLWR3djU5SWc2QVBBbVhGbEQzWDlmT0lmVlJoSXlhX0NBSEVseHRQTC12Ykdn?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Canal UGR](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5WE4zTGsxeDFreVJwbUlIUTFjNVZpaVlnMk5JOWJhazZxcUZIbkJuSHhPWGhlLWR3djU5SWc2QVBBbVhGbEQzWDlmT0lmVlJoSXlhX0NBSEVseHRQTC12Ykdn?oc=5)
+來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
 
 ---
 
@@ -131,14 +115,6 @@ permalink: /news/orlistat/
 2026-06-21 <span class="news-indication-tag">obesidad</span>
 
 來源：[El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
-
----
-
-### [Pensábamos que Ozempic solo servía para adelgazar. Su último efecto secundario es un freno a la impulsividad violenta](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSVJrU3JhR1I4YWl5TFFibk05bWFSSVdHMWw1VE5OVmhxaUJuZEpjSi1HaU9wcDBCanB3UzlvZ2JWZC1CdDVROFoxU09iQmphNXAtZkUwc3loaHktOUNRc1lqUWxwNjRzbzlMUE8wSE9PT1AyVXdGbnZ5a1ZDU1psbW1FYlEwVE8zVlVIZ3FGM2Y3eXhuMjgwcUNxVW9wLTBVbVdJbEtHZHFFNWxUaG0wT0tqRFRianhfZkdPamwzbDd5Y25IWExVU0tTUGZ6TUFDd29yakRJRUhrVTJuUmZ4MtIB5gFBVV95cUxPdlg0QU1DczF1azFkZkZSQklDUHZUbnNMdkR5VlN1OFdDOXJtaHMzRmJYWWhfM2JTdUtvb2pMaG9MWU9OaTJ0SFZVMU5yU0VSNjExSEJDVTRYMXdwelNGMWNXemRhc01zdUYzR00zSDNYdlV2V3BoSXhSLVh4YWRqT1FGaUE3czVhbXJrMHVKbUU1M0poUG1GRndjMUdPMTNxeEtFeURHS2hTcm0yQ2lsYzJKdFdsWDBfNXpBbmNkS0ZHRU9TZzl5SmJBWVIzMGlWRWhHMzN4Nkt4Q1hBNWlsbTFYWDZtUQ?oc=5)
-
-2026-06-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSVJrU3JhR1I4YWl5TFFibk05bWFSSVdHMWw1VE5OVmhxaUJuZEpjSi1HaU9wcDBCanB3UzlvZ2JWZC1CdDVROFoxU09iQmphNXAtZkUwc3loaHktOUNRc1lqUWxwNjRzbzlMUE8wSE9PT1AyVXdGbnZ5a1ZDU1psbW1FYlEwVE8zVlVIZ3FGM2Y3eXhuMjgwcUNxVW9wLTBVbVdJbEtHZHFFNWxUaG0wT0tqRFRianhfZkdPamwzbDd5Y25IWExVU0tTUGZ6TUFDd29yakRJRUhrVTJuUmZ4MtIB5gFBVV95cUxPdlg0QU1DczF1azFkZkZSQklDUHZUbnNMdkR5VlN1OFdDOXJtaHMzRmJYWWhfM2JTdUtvb2pMaG9MWU9OaTJ0SFZVMU5yU0VSNjExSEJDVTRYMXdwelNGMWNXemRhc01zdUYzR00zSDNYdlV2V3BoSXhSLVh4YWRqT1FGaUE3czVhbXJrMHVKbUU1M0poUG1GRndjMUdPMTNxeEtFeURHS2hTcm0yQ2lsYzJKdFdsWDBfNXpBbmNkS0ZHRU9TZzl5SmJBWVIzMGlWRWhHMzN4Nkt4Q1hBNWlsbTFYWDZtUQ?oc=5)
 
 ---
 

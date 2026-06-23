@@ -14,7 +14,7 @@ permalink: /news/timolol/
 ---
 
 <p class="key-answer" data-question="Timolol 有什麼相關新聞？">
-<strong>Timolol</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Timolol</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/timolol/
 <p><a href="{{ '/drugs/timolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（33 則）
+
+### [Thymus und Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBRdEhnOVBZZVowU1dxSnp2bUJ5VHBSX3RuU0V5QjgzaEhmM0t1elZPV0FYWG5jcmxXdjY5S21YMy1qcjNNbW9FU3AxaURJSTY2QlpQZmFZanVyX18za0l2LUFRbnFuNm82SFl2WDNzMUo3VUMyWFd5TmhOZEUxT3J6NW5LQUlMaDdXNy1BLXloaGx0TWQtYW00Q1dlOUJTb2Q3bnN5bmxkMWJVMU1RV1NGTG5nZUdmcUhmZEItM3dqSUJhQ2Z6MzlRZnJFYkRFLUdDMlVoY1hPa3pFS0lJdQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBRdEhnOVBZZVowU1dxSnp2bUJ5VHBSX3RuU0V5QjgzaEhmM0t1elZPV0FYWG5jcmxXdjY5S21YMy1qcjNNbW9FU3AxaURJSTY2QlpQZmFZanVyX18za0l2LUFRbnFuNm82SFl2WDNzMUo3VUMyWFd5TmhOZEUxT3J6NW5LQUlMaDdXNy1BLXloaGx0TWQtYW00Q1dlOUJTb2Q3bnN5bmxkMWJVMU1RV1NGTG5nZUdmcUhmZEItM3dqSUJhQ2Z6MzlRZnJFYkRFLUdDMlVoY1hPa3pFS0lJdQ?oc=5)
+
+---
+
+### [Scham blockiert Gesundheit: 52% meiden Analkrebs-Vorsorge - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
+
+---
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
@@ -62,11 +78,27 @@ permalink: /news/timolol/
 
 ---
 
-### [Thymus und Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBRdEhnOVBZZVowU1dxSnp2bUJ5VHBSX3RuU0V5QjgzaEhmM0t1elZPV0FYWG5jcmxXdjY5S21YMy1qcjNNbW9FU3AxaURJSTY2QlpQZmFZanVyX18za0l2LUFRbnFuNm82SFl2WDNzMUo3VUMyWFd5TmhOZEUxT3J6NW5LQUlMaDdXNy1BLXloaGx0TWQtYW00Q1dlOUJTb2Q3bnN5bmxkMWJVMU1RV1NGTG5nZUdmcUhmZEItM3dqSUJhQ2Z6MzlRZnJFYkRFLUdDMlVoY1hPa3pFS0lJdQ?oc=5)
+### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBRdEhnOVBZZVowU1dxSnp2bUJ5VHBSX3RuU0V5QjgzaEhmM0t1elZPV0FYWG5jcmxXdjY5S21YMy1qcjNNbW9FU3AxaURJSTY2QlpQZmFZanVyX18za0l2LUFRbnFuNm82SFl2WDNzMUo3VUMyWFd5TmhOZEUxT3J6NW5LQUlMaDdXNy1BLXloaGx0TWQtYW00Q1dlOUJTb2Q3bnN5bmxkMWJVMU1RV1NGTG5nZUdmcUhmZEItM3dqSUJhQ2Z6MzlRZnJFYkRFLUdDMlVoY1hPa3pFS0lJdQ?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
+
+---
+
+### [Gehirn-Schutz: Bluthochdruck erhöht Alzheimer-Risiko um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+
+---
+
+### [China aprueba satri-cel, la primera CAR-T para tumores sólidos del mundo](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ORnNFbUhGNEtaRElrREpRcko3ci01X2ZsLTZKOGVRYmtMakFvZFl6SHY2d2tHbV9iU2VkR2lZZ0FWWFlaUmJMZjc4VU92S0pvdmJfb3FfN24xNkhyelJGUG85aFQzbWIxcmlzUWYtNUhiNkFrc3JNZUUxTVBNOFU?oc=5)
+
+2026-06-23 <span class="news-indication-tag">tumor</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ORnNFbUhGNEtaRElrREpRcko3ci01X2ZsLTZKOGVRYmtMakFvZFl6SHY2d2tHbV9iU2VkR2lZZ0FWWFlaUmJMZjc4VU92S0pvdmJfb3FfN24xNkhyelJGUG85aFQzbWIxcmlzUWYtNUhiNkFrc3JNZUUxTVBNOFU?oc=5)
 
 ---
 
@@ -78,19 +110,27 @@ permalink: /news/timolol/
 
 ---
 
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzNhY1dza0JSd0xycDFqTW1sN1pfYksyZzlqNWNDWER0VDlXanBETGRRa2lvWEk1Vk9ZcGE3RnItTU0wT3lGRjZSUC1lei1TZzMtWnVqWlR4bUpUV0ZKODFGejhZRmtPRWcwZHZsZEFiMWZRbHNQSFc1WXdoOWVSTHQxYXJYcGFWa3FUcUlJdmgwejNLRGp0cTZvaGktdmJrODVwMEswdVFSTVRk?oc=5)
+### [Genoma del cancro, a Verona scienziati da tutto il mondo per comprenderne le basi genetiche](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM3FfTVJmdTRjb0I0TjRJZnRwSTgxR0ZsSDN3S2xDVE02V3Y3dFotRHBFeHQyTHF5cnBfVFRodWFSTEFLX1dlcVkzbGZEMGlZLUV5cWx0clpoZHZlWG5acHBoVWFJTUNaZ2RxMWhYQkVoMHhjeVlEMTlDQWtmbDdSeUpsVU11U0JGTnJ4WVY1RS1Mdk8tRHV4ekdJMWVTdDQ1TFZyNkNSR0w0VzN2S3pKeV9oOV91VC0yVF9USXJuVWpIRmhjdTFlTEtIZjBwaUUzdjBHdFFmQnROX1Y5QVI2Q0ktZUZ0UdIB6wFBVV95cUxPaWx5Q0RnYklMN2ZhSHBONjRIYUhIQTVPNmc5Y00zNE9LXzhwV0NiVnNyTWFtVWJOejktWlowanRiblVJTWY2RGFwM3otbUZrd0lKTEpYTmFKYTlGYnBCZFRKdnVoRWRKSkhSenV4M2drWk5ESjllUHdGWVNwZXBrdWJTQlduOVVfMkU2bmpBOFVxQXlwVU8yajJHejI2b1pJUGZoLWRKNnNyeDBKVkNxdDlmSTVuaWpIUDI5RzNpYTJuWTVVT1hqMHBpTGRqS3pJSDkxcUxaTTFCUmJKRnFwT0RTMlJxZU5xYkRF?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Krebs</span>
+2026-06-23 <span class="news-indication-tag">cancro</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzNhY1dza0JSd0xycDFqTW1sN1pfYksyZzlqNWNDWER0VDlXanBETGRRa2lvWEk1Vk9ZcGE3RnItTU0wT3lGRjZSUC1lei1TZzMtWnVqWlR4bUpUV0ZKODFGejhZRmtPRWcwZHZsZEFiMWZRbHNQSFc1WXdoOWVSTHQxYXJYcGFWa3FUcUlJdmgwejNLRGp0cTZvaGktdmJrODVwMEswdVFSTVRk?oc=5)
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM3FfTVJmdTRjb0I0TjRJZnRwSTgxR0ZsSDN3S2xDVE02V3Y3dFotRHBFeHQyTHF5cnBfVFRodWFSTEFLX1dlcVkzbGZEMGlZLUV5cWx0clpoZHZlWG5acHBoVWFJTUNaZ2RxMWhYQkVoMHhjeVlEMTlDQWtmbDdSeUpsVU11U0JGTnJ4WVY1RS1Mdk8tRHV4ekdJMWVTdDQ1TFZyNkNSR0w0VzN2S3pKeV9oOV91VC0yVF9USXJuVWpIRmhjdTFlTEtIZjBwaUUzdjBHdFFmQnROX1Y5QVI2Q0ktZUZ0UdIB6wFBVV95cUxPaWx5Q0RnYklMN2ZhSHBONjRIYUhIQTVPNmc5Y00zNE9LXzhwV0NiVnNyTWFtVWJOejktWlowanRiblVJTWY2RGFwM3otbUZrd0lKTEpYTmFKYTlGYnBCZFRKdnVoRWRKSkhSenV4M2drWk5ESjllUHdGWVNwZXBrdWJTQlduOVVfMkU2bmpBOFVxQXlwVU8yajJHejI2b1pJUGZoLWRKNnNyeDBKVkNxdDlmSTVuaWpIUDI5RzNpYTJuWTVVT1hqMHBpTGRqS3pJSDkxcUxaTTFCUmJKRnFwT0RTMlJxZU5xYkRF?oc=5)
 
 ---
 
-### [Omega-3-Präparate: Hochdosierte DHA bremst kognitiven Abbau nicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1RCd3JwZTlfUlI3a0I0akh3TVdxWkV6N0JSak9fY3FDMDdvUVlRNHBIMXkwUXlPM19jamd6OE9qXzB5WnlDaUlFdEJTa1hVbkh3Y0h2N2NmdGhLTDh0RjBiTUVPdEFVOTM3S0oyenhQMEN1cm5JamhNX2JZaVNKZzJzZXBLSkFvUXctYkRQZnJ3QTdHUGQ0QXdaNFhCQ3pCeUtHbnFhU3IwOWtxVHRuLUFaZ1A?oc=5)
+### [El riesgo de cardiopatías se dispara con los embriones congelados: La urgencia de replantear la información y vigilancia prenatal - Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjdQR2Zpa2Y1YVoxb0tDcWl0MXZxb19zVGtvam9Xc3hQQ2tITGdLMXN0VVBidFdaUkJTLXo2OVBqeFhicG5iaTgxbjdkZUpVZENsRmMxZnpUVXg1X0lxRFZzMEotQ05GeU5CY2hyMTVlbHNLS3V2U21WV1ZnRVo3ZlExWHpQUUowMUduOU94VE84SzA3clJfM1diT3lQMFU1TXhUczFGaDROU2N6eDh3SkV5YmxiNjdKZUVQdm5HLWlEbzJ0XzgzRUFtaFQ0clc0T1lSbk1lVkoxQThwLTlVVDF6RHc4S2czMHZZRnlmdHdHd0lpdXdmUlliN01xQ2FWeGUzWVU1ZEEyaVkyVVBR0gGUAkFVX3lxTE1fNVJ0MmZOYm1wdWdGTlo0MWxYUWc3WDBiQ08xMVM5UDJSdXhlanpqRVZJWmxkNS1TTjlDcmFMN24zVkUwQTV1alFWWXl0dnBjUmtOOURzWXp2NE5kbW1BbDIxcmpucGdOZVhVTHNUY0xPZ05xVkJyTjBESGxRcERrOFhadmFxZG5ENWRTcmNGTnFOd0VvYlk5T19mNlYyUlExcEZCUFV2ODBSN25feUhScEdBNmo0QXNCUU9UVFd6RmFBcHZIa2hfUEtJb2ZaNUV2RGtDcHNEZkhsTXp2Y1ozT0ZkVmU2aklGVDdrRE5QYTBEYmRyVUlZMFkyVUt4TTl6SlFXZzk2YTdPaWgyX0JFQS1wTg?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1RCd3JwZTlfUlI3a0I0akh3TVdxWkV6N0JSak9fY3FDMDdvUVlRNHBIMXkwUXlPM19jamd6OE9qXzB5WnlDaUlFdEJTa1hVbkh3Y0h2N2NmdGhLTDh0RjBiTUVPdEFVOTM3S0oyenhQMEN1cm5JamhNX2JZaVNKZzJzZXBLSkFvUXctYkRQZnJ3QTdHUGQ0QXdaNFhCQ3pCeUtHbnFhU3IwOWtxVHRuLUFaZ1A?oc=5)
+來源：[Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjdQR2Zpa2Y1YVoxb0tDcWl0MXZxb19zVGtvam9Xc3hQQ2tITGdLMXN0VVBidFdaUkJTLXo2OVBqeFhicG5iaTgxbjdkZUpVZENsRmMxZnpUVXg1X0lxRFZzMEotQ05GeU5CY2hyMTVlbHNLS3V2U21WV1ZnRVo3ZlExWHpQUUowMUduOU94VE84SzA3clJfM1diT3lQMFU1TXhUczFGaDROU2N6eDh3SkV5YmxiNjdKZUVQdm5HLWlEbzJ0XzgzRUFtaFQ0clc0T1lSbk1lVkoxQThwLTlVVDF6RHc4S2czMHZZRnlmdHdHd0lpdXdmUlliN01xQ2FWeGUzWVU1ZEEyaVkyVVBR0gGUAkFVX3lxTE1fNVJ0MmZOYm1wdWdGTlo0MWxYUWc3WDBiQ08xMVM5UDJSdXhlanpqRVZJWmxkNS1TTjlDcmFMN24zVkUwQTV1alFWWXl0dnBjUmtOOURzWXp2NE5kbW1BbDIxcmpucGdOZVhVTHNUY0xPZ05xVkJyTjBESGxRcERrOFhadmFxZG5ENWRTcmNGTnFOd0VvYlk5T19mNlYyUlExcEZCUFV2ODBSN25feUhScEdBNmo0QXNCUU9UVFd6RmFBcHZIa2hfUEtJb2ZaNUV2RGtDcHNEZkhsTXp2Y1ozT0ZkVmU2aklGVDdrRE5QYTBEYmRyVUlZMFkyVUt4TTl6SlFXZzk2YTdPaWgyX0JFQS1wTg?oc=5)
+
+---
+
+### [Querschnittstudie: Niedriger Blutdruck ist am stärksten mit Alzheimer assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
 
 ---
 
@@ -110,11 +150,11 @@ permalink: /news/timolol/
 
 ---
 
-### [Píldoras vivas contra el cáncer y tratamientos para los tumores más letales: España bate su récord de proyectos científicos de máximo nivel - EL PAÍS](https://news.google.com/rss/articles/CBMijgJBVV95cUxOVXRNWTVhN1V6RVhJVGFiRFFWX2FkWF9qZ1lkSHBxRE9nRUZMU09VSVNpbG5aQlA3dEZWa280RGRlYVUyR3pzUVA5Uk5hVHNPd1VRS3pCam8wXzV4d0xUdTQ1N3cxNW9JMm41ZVpzajhqX05vSW5NUGpFLUVnZ0tTWUphanIxNlJtUU1XaVlqMEdLOGRpbXM4TmNlV241NloyMnA1QklQVGpkUUJ0R0ZYblowR1l1VExTM2w4YkZOWVJNNlJYLUVvMWFpcVQzemZIdlRvY3JHWWtDRTY3ZlE4Rk0tUVE5Y2JmcldTd3YzOVhTSE0tQUxtM2tCZTA2bWlpV01oeWVqZ1VtNjR4YVHSAaICQVVfeXFMTjNUa2NPMDdrZFVoRnNSdWRqUmVpS3hiZ3lRc0hBNHpxNmp1WlR5ZENFaThuQldRLTBfS2hJcUZVclZXZkFCYUdCc0dJaGR5MnBRbU43RllZQ0FJRWJ1T0cxbGhMRmdaQWxadjZUV2JNc1pIVEZGUnBVQVYxRU5UWU94ZXMydjk4YzQ4cHE4THFhdDhkell2eHB3TU5uaWxJWXlONjJ1Y2xkWGk2OXh1YlRUdTZMSHFLMVlRYlBLUEMyTXJSRlpRRDVxTjlicDZaVlZIVGE3WXBucXQzUmpnM0IzZzZRTkIzSk56bjR3NDNqa3Bfb1E2LWJYdzg5SW03Q2pMQW1NVzlxVmt2bUpKNXNIRDk0dFJNMDVReVVUUHNWSXc?oc=5)
+### [Tumori del fegato, polmone e stomaco: l'esame del sangue per la diagnosi precoce | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaHBqaUowTEt4ekVaX21YTUtabnVHN0RNY0I5N3lvMEVNeG5hVTlGeXlzWU1RTlFQMDFUV2pQSTk4RkNNa0dtbF9Bakh4VWRPY2JYOE5uUHV0c2pBQWVvWE93SkpveHhHYm05eUtGRmNOVzZJSFBkVmxOc0pQQnRCc1dDOC16Q0tBYmdUanR2TGlLVjctMjMtdjh0bDdPOEJhTDgwY1NtdHRHVS1rN2FxcXVxanF5aEI0WUIxbkQwSVRyTUNwQlN1ZzFyUjVaaXFMaUdiWU9XWnJTMFpYMVNrMG5weWt6TDlCV210c9IB8AFBVV95cUxOdzYtU1gtY25wSzZ2ODU5NzJQajRMUGNhS3ZmYzdjRFI0d29Ham11QndBYzljWFNRY3FXNTdHNEdQTnk2bC1lY3luT3ptbzdxNVlMMVpsbUFpNTEwN1lPdVZHRkhGVFhxa051NlNiS0pETHRjTHlZNnU5RlZVNUxjSGdTNFV4WlhQTzlvNmNNRDhPQUpyUjQyZVV3RUNvSDdDRkFlVm92M2Q2MC1aRndMS2ppRXlyNmFmazVIQWxqdGRpTFB6TmJTS21DWUxNcENjdkQwMHJqaUtuLTExSDVnTHluVmtYN3lEQVozMThCOE8?oc=5)
 
 2026-06-23 <span class="news-indication-tag">tumor</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMijgJBVV95cUxOVXRNWTVhN1V6RVhJVGFiRFFWX2FkWF9qZ1lkSHBxRE9nRUZMU09VSVNpbG5aQlA3dEZWa280RGRlYVUyR3pzUVA5Uk5hVHNPd1VRS3pCam8wXzV4d0xUdTQ1N3cxNW9JMm41ZVpzajhqX05vSW5NUGpFLUVnZ0tTWUphanIxNlJtUU1XaVlqMEdLOGRpbXM4TmNlV241NloyMnA1QklQVGpkUUJ0R0ZYblowR1l1VExTM2w4YkZOWVJNNlJYLUVvMWFpcVQzemZIdlRvY3JHWWtDRTY3ZlE4Rk0tUVE5Y2JmcldTd3YzOVhTSE0tQUxtM2tCZTA2bWlpV01oeWVqZ1VtNjR4YVHSAaICQVVfeXFMTjNUa2NPMDdrZFVoRnNSdWRqUmVpS3hiZ3lRc0hBNHpxNmp1WlR5ZENFaThuQldRLTBfS2hJcUZVclZXZkFCYUdCc0dJaGR5MnBRbU43RllZQ0FJRWJ1T0cxbGhMRmdaQWxadjZUV2JNc1pIVEZGUnBVQVYxRU5UWU94ZXMydjk4YzQ4cHE4THFhdDhkell2eHB3TU5uaWxJWXlONjJ1Y2xkWGk2OXh1YlRUdTZMSHFLMVlRYlBLUEMyTXJSRlpRRDVxTjlicDZaVlZIVGE3WXBucXQzUmpnM0IzZzZRTkIzSk56bjR3NDNqa3Bfb1E2LWJYdzg5SW03Q2pMQW1NVzlxVmt2bUpKNXNIRDk0dFJNMDVReVVUUHNWSXc?oc=5)
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaHBqaUowTEt4ekVaX21YTUtabnVHN0RNY0I5N3lvMEVNeG5hVTlGeXlzWU1RTlFQMDFUV2pQSTk4RkNNa0dtbF9Bakh4VWRPY2JYOE5uUHV0c2pBQWVvWE93SkpveHhHYm05eUtGRmNOVzZJSFBkVmxOc0pQQnRCc1dDOC16Q0tBYmdUanR2TGlLVjctMjMtdjh0bDdPOEJhTDgwY1NtdHRHVS1rN2FxcXVxanF5aEI0WUIxbkQwSVRyTUNwQlN1ZzFyUjVaaXFMaUdiWU9XWnJTMFpYMVNrMG5weWt6TDlCV210c9IB8AFBVV95cUxOdzYtU1gtY25wSzZ2ODU5NzJQajRMUGNhS3ZmYzdjRFI0d29Ham11QndBYzljWFNRY3FXNTdHNEdQTnk2bC1lY3luT3ptbzdxNVlMMVpsbUFpNTEwN1lPdVZHRkhGVFhxa051NlNiS0pETHRjTHlZNnU5RlZVNUxjSGdTNFV4WlhQTzlvNmNNRDhPQUpyUjQyZVV3RUNvSDdDRkFlVm92M2Q2MC1aRndMS2ppRXlyNmFmazVIQWxqdGRpTFB6TmJTS21DWUxNcENjdkQwMHJqaUtuLTExSDVnTHluVmtYN3lEQVozMThCOE8?oc=5)
 
 ---
 
@@ -142,11 +182,11 @@ permalink: /news/timolol/
 
 ---
 
-### [„Papa darf nicht sterben!“: Familienvater fehlen noch über 13.000 Euro für seine Krebstherapie](https://news.google.com/rss/articles/CBMizwFBVV95cUxONTVnS1lWcklLVUhtN1lUMmthaTVyWWhsRFlEOTMzQ3BWQTliR19LcHZjQVFmcXJIV1Z4TzBDRDlHd2kwNUJRRFZqSGJDVkhxeEhQRWh1VktLX01kLW5ZR0s0UTRlSFdpTjJ6WHVaQi1QR2VLMElsYUtRUGVuTEVFaklUS3hPRGhEZFVBbG9kcnljQ2pjM2NZQm9OLWFqQVUzcXZudC0zeHVWZzNiLTdBak9BUWp3MTNxTnJhd3RaOTJWcnVGRDZyV0Q5amxnQmc?oc=5)
+### [„Papa darf nicht sterben!“: Familienvater fehlen noch über 13.000 Euro für seine Krebstherapie](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0dUZk5qX01BM3pzT1ZuY242NVdWUXVjNTVDaGpqd3pXdWJsOTBPaGxOa3pKNzkxQzM2QnNSYmhKcE9QVUphc0lwZnBMbXppcHJqVW5JSFVCZzVHNmxkT1FoNHlrZDJZS2xmdUNfTTREVGU5T19QbFF6RXphcFVVd3R6ZFgwY1R1aW1mbzBUWmZrV0RuT3JaT0l1UUUwaXp2S1VDemNHeDNPZ3p0N2t6d2VPdTJkV2dkcnU1YnlxMFVjOExDbWxFZXpKS3k1WkYycnR4VWpFUDg0WXdRZXc?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span>
 
-來源：[Nordkurier](https://news.google.com/rss/articles/CBMizwFBVV95cUxONTVnS1lWcklLVUhtN1lUMmthaTVyWWhsRFlEOTMzQ3BWQTliR19LcHZjQVFmcXJIV1Z4TzBDRDlHd2kwNUJRRFZqSGJDVkhxeEhQRWh1VktLX01kLW5ZR0s0UTRlSFdpTjJ6WHVaQi1QR2VLMElsYUtRUGVuTEVFaklUS3hPRGhEZFVBbG9kcnljQ2pjM2NZQm9OLWFqQVUzcXZudC0zeHVWZzNiLTdBak9BUWp3MTNxTnJhd3RaOTJWcnVGRDZyV0Q5amxnQmc?oc=5)
+來源：[Nordkurier](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0dUZk5qX01BM3pzT1ZuY242NVdWUXVjNTVDaGpqd3pXdWJsOTBPaGxOa3pKNzkxQzM2QnNSYmhKcE9QVUphc0lwZnBMbXppcHJqVW5JSFVCZzVHNmxkT1FoNHlrZDJZS2xmdUNfTTREVGU5T19QbFF6RXphcFVVd3R6ZFgwY1R1aW1mbzBUWmZrV0RuT3JaT0l1UUUwaXp2S1VDemNHeDNPZ3p0N2t6d2VPdTJkV2dkcnU1YnlxMFVjOExDbWxFZXpKS3k1WkYycnR4VWpFUDg0WXdRZXc?oc=5)
 
 ---
 
@@ -178,15 +218,7 @@ permalink: /news/timolol/
 
 2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
-
----
-
-### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
+來源：[20minutos.es](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 
 ---
 
@@ -198,17 +230,9 @@ permalink: /news/timolol/
 
 ---
 
-### [COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
-
----
-
 ### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
-2026-06-22 <span class="news-indication-tag">cancer</span>
+2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
@@ -224,7 +248,7 @@ permalink: /news/timolol/
 
 ### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
-2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-06-22 <span class="news-indication-tag">hypertension</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
@@ -238,19 +262,11 @@ permalink: /news/timolol/
 
 ---
 
-### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
+### [A common vitamin could help fight one of the deadliest brain cancers](https://news.google.com/rss/articles/CBMib0FVX3lxTE1velVURlh4SjdIME5rczg4dlM0bURXdHVfQU1rdWxBeENUX0pCcldIQkJTOTJ3NU5ueUJvWnUxTUp6ak9xc21CM0MxdG41SEpLWVFDdVpPUi1sMDNES0JHb1EyT2RobXJfRE4xZnJZaw?oc=5)
 
-2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+2026-06-22 <span class="news-indication-tag">cancer</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
----
-
-### [Identificada una inhibición selectiva de PARP2 en el cáncer de páncreas que frena el tumor y activa el sistema inmune - Gaceta Médica](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHF4RTNGMUFGQVJmRXBUYl9RYV9uVUVWdWh6dnVTSThxM1Vjc0lzS0FMTTlXYWx0XzZSR1IwOU1Kel9WcXozblpIN2RRdjl4a05fRmNqdl9EdWNPN3IycGxSa2s4a1JwZXlBLUVDQ0xYQVZIYUVTWXNaTm1SZ1c5TnI1dEF2bDZsODNtS2lJdTJwV3Jld0lkSjdvb2ItVThHM1g4TW8xaHNoWnRYN3c?oc=5)
-
-2026-06-22 <span class="news-indication-tag">tumor</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHF4RTNGMUFGQVJmRXBUYl9RYV9uVUVWdWh6dnVTSThxM1Vjc0lzS0FMTTlXYWx0XzZSR1IwOU1Kel9WcXozblpIN2RRdjl4a05fRmNqdl9EdWNPN3IycGxSa2s4a1JwZXlBLUVDQ0xYQVZIYUVTWXNaTm1SZ1c5TnI1dEF2bDZsODNtS2lJdTJwV3Jld0lkSjdvb2ItVThHM1g4TW8xaHNoWnRYN3c?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1velVURlh4SjdIME5rczg4dlM0bURXdHVfQU1rdWxBeENUX0pCcldIQkJTOTJ3NU5ueUJvWnUxTUp6ak9xc21CM0MxdG41SEpLWVFDdVpPUi1sMDNES0JHb1EyT2RobXJfRE4xZnJZaw?oc=5)
 
 ---
 
@@ -259,22 +275,6 @@ permalink: /news/timolol/
 2026-06-22 <span class="news-indication-tag">cancer</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXIzQWdxT1BqQTIxSnIwRElQczhvS2hGZC14a3dnNU0waWpTUU5mZXlIUGNwdTdJM0J0UlRNOWZCVl9VOGpWWGJtdmhMYmJ4amtwRDhGeGZUa0FxQWF6TEo1REtkR1pJSWFoeVh2SWd0bG15RllXRzI4X3VucFI3ck1NWDF4dTJ5NDVVcEtQZGdYYXFEYXBmQzAyZzNTZjjSAaYBQVVfeXFMTnlQUUpxVmtkM2xfeUotenRFaWF1ZElnSDdLWExEQUhtYjJLVUx3cGR5OFRLQlVDQk9WbWtSdEZ2aTk4dmVBRTRWZWpzUXhBaTkwZFlNbUpKZ280QmxmQU9pNngyRWgwQzRYSWhRWTBwOXlKSktVUW1NWUZKUXkxdm1tczFVUUh1b3g3WENpOFhSTkRJY3FvcnV6Wnh2RDgzOEpzOFVjZw?oc=5)
-
----
-
-### [High blood pressure: 50p supermarket swap could do wonders for lowering your reading, scientists say - GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGdBVXdkQXFIM21BekxLS1FmWnNEOTFVM21uWmhiMlRwQ25Rc2xhdzFYcGhVb2dONEEyZTFVQmt1WE9mTHQ0TEV0N1lRZHFaV1hwQ0tObVo4dVQ0LUQ1ejhzYnpDVmhHM05OSHcycWhrQlQ3YjJKX0pGV2RWQ0dHVldtaDM5MkIwU0VXUWFfVkNoMlNYdnc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGdBVXdkQXFIM21BekxLS1FmWnNEOTFVM21uWmhiMlRwQ25Rc2xhdzFYcGhVb2dONEEyZTFVQmt1WE9mTHQ0TEV0N1lRZHFaV1hwQ0tObVo4dVQ0LUQ1ejhzYnpDVmhHM05OSHcycWhrQlQ3YjJKX0pGV2RWQ0dHVldtaDM5MkIwU0VXUWFfVkNoMlNYdnc?oc=5)
-
----
-
-### [Reflux gastrique : des probiotiques pourraient freiner le risque de cancer de l'œsophage selon des chercheurs - Le Tribunal du Net](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTRFNmtaR3pvMjItNnFzSzhDT0t2d3VodnR0QVBKVHd2U2ZhT2V6OXo2OURhRW1UY0xPNElhUTY4NjVpVW5tVENkVmxWVWl5ZEtjd1BxVTdDNWdBOWFGdW9WbEVvUXZRMnM4RWJrWmNiQnZlMjlCRDBieGtjUHFSZkt4Wm1ZM2g0V3p5dFFZbkZ2cXlib2RJOEJn?oc=5)
-
-2026-06-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTRFNmtaR3pvMjItNnFzSzhDT0t2d3VodnR0QVBKVHd2U2ZhT2V6OXo2OURhRW1UY0xPNElhUTY4NjVpVW5tVENkVmxWVWl5ZEtjd1BxVTdDNWdBOWFGdW9WbEVvUXZRMnM4RWJrWmNiQnZlMjlCRDBieGtjUHFSZkt4Wm1ZM2g0V3p5dFFZbkZ2cXlib2RJOEJn?oc=5)
 
 ---
 
@@ -310,19 +310,11 @@ permalink: /news/timolol/
 
 ---
 
-### [At 22 I was diagnosed with brain cancer. Some hot girls gave me hope - The Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmFycldyT2VER2tFRWdnZWN3OFFrMk51RGNaWjdiWm1iTG1xeWZvQ1VPeGVOYmFJZ2NHTzQtMEZycFFqc3NMSy1yWUo5YzZxbWZYbmdIaTAtS19nN3F5RmF0dTFOVGd5d2J3NnM1NGdGNm5YZjBrT1FUUDVFX1lfSVNKaWtraTF4OXNMTW9qeDRSWkxDSjFFQ1kxbkp4QkhZT1lhNEYwN1lXSi1NaS1WcWdIVUpkVHhsM3c?oc=5)
+### [«Mire su orina antes de tirar de la cadena»: la petición de los médicos de familia ante el cáncer de riñón - Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnRYWmt4TjU3Q0YwT3BKVFhXRUNYaWN4d3lrREI3Y25tczhmbmwyM2h6VFFlc3ZnVDN2c29PT25uYVdVdDJQek5GRHpsamVZVE5BODVnMDlzaDZtNGVOLThZbjMxTEEwNEVILXItOGVkMC1Fc0U5cElvaS0xOUd4UWd3UGpTeWY3Q0FwWGNuN1JMMWR0aFlmb2xGd2Q4bUFMc1FmeVRzRVBOeGMwaFNMVNIBtgFBVV95cUxOT1lsdW1QM3BUQ25IckRhM21SNXZlNzJfYjRDazQ2QkNoNzduY093SkRFVnV0emxBREhVWnBZSHk4NXFUdm5PSjg2V205T2JrTHhpeEU1U1ZMV25nZ0xLX0lyZ0VUa09sbGgwc1RXUVFsUnJucXoxMHZYd043MUcxdHA5SWdrb1RwbUJnZk5JRGxhMktFZ3ZEZGJXdm9IaDI2YXZrMEtwcFM3NC1WQllyeDYtV2xXdw?oc=5)
 
-2026-06-21 <span class="news-indication-tag">cancer</span>
+2026-06-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmFycldyT2VER2tFRWdnZWN3OFFrMk51RGNaWjdiWm1iTG1xeWZvQ1VPeGVOYmFJZ2NHTzQtMEZycFFqc3NMSy1yWUo5YzZxbWZYbmdIaTAtS19nN3F5RmF0dTFOVGd5d2J3NnM1NGdGNm5YZjBrT1FUUDVFX1lfSVNKaWtraTF4OXNMTW9qeDRSWkxDSjFFQ1kxbkp4QkhZT1lhNEYwN1lXSi1NaS1WcWdIVUpkVHhsM3c?oc=5)
-
----
-
-### [Täglich verzehrte Lebensmittel: Acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
-
-2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ntv](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnRYWmt4TjU3Q0YwT3BKVFhXRUNYaWN4d3lrREI3Y25tczhmbmwyM2h6VFFlc3ZnVDN2c29PT25uYVdVdDJQek5GRHpsamVZVE5BODVnMDlzaDZtNGVOLThZbjMxTEEwNEVILXItOGVkMC1Fc0U5cElvaS0xOUd4UWd3UGpTeWY3Q0FwWGNuN1JMMWR0aFlmb2xGd2Q4bUFMc1FmeVRzRVBOeGMwaFNMVNIBtgFBVV95cUxOT1lsdW1QM3BUQ25IckRhM21SNXZlNzJfYjRDazQ2QkNoNzduY093SkRFVnV0emxBREhVWnBZSHk4NXFUdm5PSjg2V205T2JrTHhpeEU1U1ZMV25nZ0xLX0lyZ0VUa09sbGgwc1RXUVFsUnJucXoxMHZYd043MUcxdHA5SWdrb1RwbUJnZk5JRGxhMktFZ3ZEZGJXdm9IaDI2YXZrMEtwcFM3NC1WQllyeDYtV2xXdw?oc=5)
 
 ---
 

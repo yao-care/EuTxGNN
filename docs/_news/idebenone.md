@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="Idebenone 有什麼相關新聞？">
-<strong>Idebenone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idebenone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,53 +52,29 @@ permalink: /news/idebenone/
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
-### [Omega-3-Präparate: Hochdosierte DHA bremst kognitiven Abbau nicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1RCd3JwZTlfUlI3a0I0akh3TVdxWkV6N0JSak9fY3FDMDdvUVlRNHBIMXkwUXlPM19jamd6OE9qXzB5WnlDaUlFdEJTa1hVbkh3Y0h2N2NmdGhLTDh0RjBiTUVPdEFVOTM3S0oyenhQMEN1cm5JamhNX2JZaVNKZzJzZXBLSkFvUXctYkRQZnJ3QTdHUGQ0QXdaNFhCQ3pCeUtHbnFhU3IwOWtxVHRuLUFaZ1A?oc=5)
+### [Gehirn-Schutz: Bluthochdruck erhöht Alzheimer-Risiko um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1RCd3JwZTlfUlI3a0I0akh3TVdxWkV6N0JSak9fY3FDMDdvUVlRNHBIMXkwUXlPM19jamd6OE9qXzB5WnlDaUlFdEJTa1hVbkh3Y0h2N2NmdGhLTDh0RjBiTUVPdEFVOTM3S0oyenhQMEN1cm5JamhNX2JZaVNKZzJzZXBLSkFvUXctYkRQZnJ3QTdHUGQ0QXdaNFhCQ3pCeUtHbnFhU3IwOWtxVHRuLUFaZ1A?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
 
 ---
 
-### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
+### [Querschnittstudie: Niedriger Blutdruck ist am stärksten mit Alzheimer assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeldJLV9MOEVBVFZpakNkUTY5RFFhcnVfYTJLbjZzZWR2T1RKLVYyLWVMZkhPZ2VvVVI2TVMtOUNXeWNuZnY4WGhrS1lWQ2cxWTlkeC1UN1NwdXctU3BnRlVxS2NDUUphMklHRHp6WjVsQklhT2FEelZadjdYRk9tbHRxYjFSVE5NV0NvZ1hHU3dOUlRob1B5V25jSFFKd2ZhOWtnd01nNHhSbEoyRndtMQ?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
 
 ---
 
 ### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
-2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-06-22 <span class="news-indication-tag">hypertension</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
----
-
-### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
----
-
-### [High blood pressure: 50p supermarket swap could do wonders for lowering your reading, scientists say - GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGdBVXdkQXFIM21BekxLS1FmWnNEOTFVM21uWmhiMlRwQ25Rc2xhdzFYcGhVb2dONEEyZTFVQmt1WE9mTHQ0TEV0N1lRZHFaV1hwQ0tObVo4dVQ0LUQ1ejhzYnpDVmhHM05OSHcycWhrQlQ3YjJKX0pGV2RWQ0dHVldtaDM5MkIwU0VXUWFfVkNoMlNYdnc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGdBVXdkQXFIM21BekxLS1FmWnNEOTFVM21uWmhiMlRwQ25Rc2xhdzFYcGhVb2dONEEyZTFVQmt1WE9mTHQ0TEV0N1lRZHFaV1hwQ0tObVo4dVQ0LUQ1ejhzYnpDVmhHM05OSHcycWhrQlQ3YjJKX0pGV2RWQ0dHVldtaDM5MkIwU0VXUWFfVkNoMlNYdnc?oc=5)
-
----
-
-### [Täglich verzehrte Lebensmittel: Acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
-
-2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ntv](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
 
 ---
 

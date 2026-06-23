@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（12 則）
 
-### [New diabetes treatment gets 'landmark' approval for NHS - Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
+### [El consumo de alimentos ultraprocesados en adolescentes aumenta el riesgo de diabetes tipo 2, según un estudio del ibs.Granada - El Independiente de Granada](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWWtvWEVrZzBoWHA1bmd3VVZMYXV3TXlCLXZqaWNIaFBJaXlib1RBSHBPNm9tNlJ2QU9JVkdnRWJhYWhQcFVMYlhFcEVVWEV3TWVNV25LNG53QWlUbUROZzRMM0hlMG9BSzY3bzN4UndjR1JOR2hZOXlVblFXck9pOEprZmVGcWhONWdDWmhYeU9lY1ZwVXlZaHRQTTQ1aVJSU2FZU1B1YUR0MmdTamxCajllY3VJdzJSV1RpUmpPdzlsbDZWNldBcHhjajU4V2FDd0U0bllVWQ?oc=5)
 
-2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+2026-06-23 <span class="news-indication-tag">diabetes</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
+來源：[El Independiente de Granada](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWWtvWEVrZzBoWHA1bmd3VVZMYXV3TXlCLXZqaWNIaFBJaXlib1RBSHBPNm9tNlJ2QU9JVkdnRWJhYWhQcFVMYlhFcEVVWEV3TWVNV25LNG53QWlUbUROZzRMM0hlMG9BSzY3bzN4UndjR1JOR2hZOXlVblFXck9pOEprZmVGcWhONWdDWmhYeU9lY1ZwVXlZaHRQTTQ1aVJSU2FZU1B1YUR0MmdTamxCajllY3VJdzJSV1RpUmpPdzlsbDZWNldBcHhjajU4V2FDd0U0bllVWQ?oc=5)
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /news/abaloparatide/
 
 ### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
 
-2026-06-23 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">migraña</span>
 
 來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
 
@@ -86,11 +86,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Intervallfasten: 10% weniger Bauchfett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdIRHRrX3pnMGN2THZ2R3R5enMwcE9mY1EzT3FxX2p0WTAzTzB2U0t5dk1lTk90RjF0bS1uRjRjdFFyRVI1R3oxcjRkaVZ6TWZ0NGZwc1RrME9NMlpxdW02eWQxY3hJTXFBWFB6dk9CTTBza3A3U2N4dXBJeG02eTBfVGM2WTU1N0xKLUVkRkhjT3kyRWRSdkZ6QXJXNW1wMlJ0aWJkWnBtRVN0T0FIM1EwWW5hZTNySEJFZXdB?oc=5)
+### [Drug that delays onset of type 1 diabetes approved in England and Wales - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
 
 2026-06-23 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdIRHRrX3pnMGN2THZ2R3R5enMwcE9mY1EzT3FxX2p0WTAzTzB2U0t5dk1lTk90RjF0bS1uRjRjdFFyRVI1R3oxcjRkaVZ6TWZ0NGZwc1RrME9NMlpxdW02eWQxY3hJTXFBWFB6dk9CTTBza3A3U2N4dXBJeG02eTBfVGM2WTU1N0xKLUVkRkhjT3kyRWRSdkZ6QXJXNW1wMlJ0aWJkWnBtRVN0T0FIM1EwWW5hZTNySEJFZXdB?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
 
 ---
 
@@ -102,35 +102,19 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Viszerales Fett: 10% Reduktion senkt Diabetesrisiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdktHRExINHNjVGhnTUE5RUZMcGpRQTRKeTd3R1AzcWRKcGNTSjFBTHB1WVNSWkdyNFhfNXBtY250VWh0YWR2OTJFYUJJVWVCODZGc2NaTDNwTkFlU05RanBQUTFBTmZKbFlMRHRnNVJyZW9MTllfNVZjYmlOV2phUk1rME1RaUNXUVdxWDhtdlVhUnp4aG9sNjBvZjRLZlRrYXAtUHFKbkNoR1UyMUNuVWo3dVRyRUd0MnI3LQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdktHRExINHNjVGhnTUE5RUZMcGpRQTRKeTd3R1AzcWRKcGNTSjFBTHB1WVNSWkdyNFhfNXBtY250VWh0YWR2OTJFYUJJVWVCODZGc2NaTDNwTkFlU05RanBQUTFBTmZKbFlMRHRnNVJyZW9MTllfNVZjYmlOV2phUk1rME1RaUNXUVdxWDhtdlVhUnp4aG9sNjBvZjRLZlRrYXAtUHFKbkNoR1UyMUNuVWo3dVRyRUd0MnI3LQ?oc=5)
+
+---
+
 ### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
 2026-06-22 <span class="news-indication-tag">Migräne</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
----
-
-### [La monitorización continua de glucosa se integra con la administración automatizada de insulina para diabetes tipo 1](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT0dBZDdDbzdnVF9xYzdDTGxYY05pU181VFNWSnJVSE02YkR1WnM4LUFOTFZ2MENvYVgyOWpjdVF2RGtCRl9IVEE2a0tzaTZuNmdlUVpQbmoxb1FES3BBLW9vcVdFRl9OaFF2bnVnUXctVjBGbEV1M0o4bmpDN3E5MzZyTHEtTlJnVkVFeUNFMG1jbmdnbEtiN05ZNzVFUXFSQzQzaXRNQzVaZk9WQmhMUFFOMndUMTFQMjlCNU1oTTVtN05WaFBxWnJQS0pJeWlGX0QyY2tYdmFLaVp5WVh2QUUzS3BPQW1ONHMw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT0dBZDdDbzdnVF9xYzdDTGxYY05pU181VFNWSnJVSE02YkR1WnM4LUFOTFZ2MENvYVgyOWpjdVF2RGtCRl9IVEE2a0tzaTZuNmdlUVpQbmoxb1FES3BBLW9vcVdFRl9OaFF2bnVnUXctVjBGbEV1M0o4bmpDN3E5MzZyTHEtTlJnVkVFeUNFMG1jbmdnbEtiN05ZNzVFUXFSQzQzaXRNQzVaZk9WQmhMUFFOMndUMTFQMjlCNU1oTTVtN05WaFBxWnJQS0pJeWlGX0QyY2tYdmFLaVp5WVh2QUUzS3BPQW1ONHMw?oc=5)
-
----
-
-### [Investigan, bajo el enfoque epigenético, cómo proteger los vasos sanguíneos en la obesidad y la diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0J0V2Y1ZTRqOFdETTFTaHdaMXdBd2pob003Q2VvZUtXd1RrTS1Tckc2MUdGVGZFREszcVFlNVltbEJnS21Dd1czYUhtMGpId3hQX0FSRXJLRjE2UnF4SVJxOXN3Q2dyeGg1ZHFGNHE4cjNVckg3dnFfbDBFemZrSEtrZ3YyUng3VDNUWTBOS0RCWnBKLUp4QUdBRE1DRHlWckROZmE5T0tuSFdvaXl4ZWRR0gGsAUFVX3lxTE8xYThKc1NyLXhpNGF6MVdkME9RZ1Y3ek45TXR1eFk4MzhfYTRzMEZ2NXBuOGk2dy1aLXBfQ0xOZW5xc0UzcWMyelNiX21WODk2cGMzSnU4Q3J3S1BMMmJJUjFfM243SHlaTUNDWEhpdElCbW8tN3ljTUExWWJyOHdoNmJ2TkRoRWRXdmRudUVfcDc3dHU5SUNnYTRFaEFEUnRkX2tCc2JPSjMwZzM?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0J0V2Y1ZTRqOFdETTFTaHdaMXdBd2pob003Q2VvZUtXd1RrTS1Tckc2MUdGVGZFREszcVFlNVltbEJnS21Dd1czYUhtMGpId3hQX0FSRXJLRjE2UnF4SVJxOXN3Q2dyeGg1ZHFGNHE4cjNVckg3dnFfbDBFemZrSEtrZ3YyUng3VDNUWTBOS0RCWnBKLUp4QUdBRE1DRHlWckROZmE5T0tuSFdvaXl4ZWRR0gGsAUFVX3lxTE8xYThKc1NyLXhpNGF6MVdkME9RZ1Y3ek45TXR1eFk4MzhfYTRzMEZ2NXBuOGk2dy1aLXBfQ0xOZW5xc0UzcWMyelNiX21WODk2cGMzSnU4Q3J3S1BMMmJJUjFfM243SHlaTUNDWEhpdElCbW8tN3ljTUExWWJyOHdoNmJ2TkRoRWRXdmRudUVfcDc3dHU5SUNnYTRFaEFEUnRkX2tCc2JPSjMwZzM?oc=5)
-
----
-
-### [Diabete tipo 1: l’IA gestisce la glicemia senza aspettare i sintomi - Agenda Digitale](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDVadjFYY3dBRTE0emFLRzVqRVpseXlqTFpMRkktSmlfZ3NvVndpVUFwQ2VYNTMzQUpmUnM1ajdGMWppNHJublBLZE1GMGZZRWthVHhyc191cjN4OF9QV18zal9rMFA4MGFDbTJvREdXMHhyalhiVFBaUjdLRzN5U2xLdEJEckY0TWxJSnRRMVVVeTBsTmNPZE1mekRmVHpYVVlEUUhB?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabete</span>
-
-來源：[Agenda Digitale](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDVadjFYY3dBRTE0emFLRzVqRVpseXlqTFpMRkktSmlfZ3NvVndpVUFwQ2VYNTMzQUpmUnM1ajdGMWppNHJublBLZE1GMGZZRWthVHhyc191cjN4OF9QV18zal9rMFA4MGFDbTJvREdXMHhyalhiVFBaUjdLRzN5U2xLdEJEckY0TWxJSnRRMVVVeTBsTmNPZE1mekRmVHpYVVlEUUhB?oc=5)
 
 ---
 
@@ -142,11 +126,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Una investigación de la UGR muestra que consumir fruta en la cena se asocia con un mejor control de la glucosa nocturna en adultos con obesidad - Canal UGR](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5WE4zTGsxeDFreVJwbUlIUTFjNVZpaVlnMk5JOWJhazZxcUZIbkJuSHhPWGhlLWR3djU5SWc2QVBBbVhGbEQzWDlmT0lmVlJoSXlhX0NBSEVseHRQTC12Ykdn?oc=5)
+### [Cenar fruta regula la glucosa en sangre por la noche y ayuda a controlar la diabetes](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Canal UGR](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5WE4zTGsxeDFreVJwbUlIUTFjNVZpaVlnMk5JOWJhazZxcUZIbkJuSHhPWGhlLWR3djU5SWc2QVBBbVhGbEQzWDlmT0lmVlJoSXlhX0NBSEVseHRQTC12Ykdn?oc=5)
+來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
 
 ---
 
@@ -163,22 +147,6 @@ permalink: /news/abaloparatide/
 2026-06-22 <span class="news-indication-tag">migraine</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
-
----
-
-### [These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5)
-
----
-
-### [Chrom und Diabetes: Blutzucker sinkt um 19 mg/ dl täglich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTlQRVpSV3BxbFBUTTlPcm5tOUY4UFNiSnRiUjlpRU92cUFkdUNLU1F3VzJ3b0xueGdkUjNkUm9pSGZlX3huVUc5dk1TaUszeVc0RzhLVFEwTHlGXzgxRVRqMVRTYV80amdhVlF0alNLRWxTNTI2b3pZOFEzQmh0OGxBZ0dLcW9jSlZNS3VNcmtpRElBVXN6bDZ5emdVUHhMOXRLUTlsbzc?oc=5)
-
-2026-06-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTlQRVpSV3BxbFBUTTlPcm5tOUY4UFNiSnRiUjlpRU92cUFkdUNLU1F3VzJ3b0xueGdkUjNkUm9pSGZlX3huVUc5dk1TaUszeVc0RzhLVFEwTHlGXzgxRVRqMVRTYV80amdhVlF0alNLRWxTNTI2b3pZOFEzQmh0OGxBZ0dLcW9jSlZNS3VNcmtpRElBVXN6bDZ5emdVUHhMOXRLUTlsbzc?oc=5)
 
 ---
 

@@ -54,7 +54,7 @@ permalink: /news/levodopa/
 
 ## 相關新聞（2 則）
 
-### [Buscando las claves de la enfermedad de alzheimer en la mujer postmenopáusica - El médico interactivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWV4T3liVzVKU2dHanl6S0FsUUx1bVZ1SHFPZkxZZzBoc0JRUWUyaUZJamR3UUNCMnVNSlBiOUFzQ010LUY3eDZMeUdZRm9FYWUyejQ1cTEtdGJ6RFRwVUhydkh6eUFuUlhreVNrdnRTWlJaQVFPbVlldXo3dXVHdHVqeHM2RFczVWlZc2ZBdnlIRkNROUM2cFdqdEk4NmNVdDdhWjhraFNieFZJWXBV?oc=5)
+### [Buscando las claves de la enfermedad de Alzheimer en la mujer postmenopáusica - El médico interactivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWV4T3liVzVKU2dHanl6S0FsUUx1bVZ1SHFPZkxZZzBoc0JRUWUyaUZJamR3UUNCMnVNSlBiOUFzQ010LUY3eDZMeUdZRm9FYWUyejQ1cTEtdGJ6RFRwVUhydkh6eUFuUlhreVNrdnRTWlJaQVFPbVlldXo3dXVHdHVqeHM2RFczVWlZc2ZBdnlIRkNROUM2cFdqdEk4NmNVdDdhWjhraFNieFZJWXBV?oc=5)
 
 2026-06-23 <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
