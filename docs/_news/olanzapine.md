@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="Olanzapine 有什麼相關新聞？">
-<strong>Olanzapine</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Olanzapine</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/olanzapine/
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（26 則）
 
 ### [Feeling Tired After Lunch Is Common—Dietitians Share 3 Tips to Avoid Afternoon Fatigue](https://news.google.com/rss/articles/CBMiekFVX3lxTE16TzFYbndQSGdiZWJzSzN5QkdjbVN1NTVvSEl0Y2xwQWwtNm8xYy04X2ZSX1Q3dE1PM1RyaEo2ZzN1LVpNa0xoRjhmTGtiRFZQeDhFdjZkdjFXZXJNVDVFcVd3dUJkR3J5TWVYYi1ieENmWkUwTHhIX3JR?oc=5)
 
-2026-06-22 <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">AF</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE16TzFYbndQSGdiZWJzSzN5QkdjbVN1NTVvSEl0Y2xwQWwtNm8xYy04X2ZSX1Q3dE1PM1RyaEo2ZzN1LVpNa0xoRjhmTGtiRFZQeDhFdjZkdjFXZXJNVDVFcVd3dUJkR3J5TWVYYi1ieENmWkUwTHhIX3JR?oc=5)
+
+---
+
+### [Mum, 32, given terminal diagnosis after GPs blamed symptoms on parenthood - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2c2bU5HMU4zMlNpR29OMW0ycnJqOEdKczBBT0N5MlZ1WkpxUVFOblJVeTlaOGFkVUM5TjhzelZtVThwRHFCVTJjWVExQWozMVRKaWw1WEpRYkg2by1MMk90c2RJVF83eVA0ZXdHRldYUjN0ZV9PZlFPUVpzS2hhQm530gGHAUFVX3lxTFBCNW5LSTk5ZElWWmxaX3dVeVAwN1dLcGFDdzZmUWhzbkNaSk5BTXpHWlFOSXpIZ0Z0T1V5Z3k0VDhrZmw0SXB6QXZDRlRsR25pdlU4SzZMNTltaV9EVHg3NkxJVWpTNHdUV2xCaVdLVTBlX0R3M3NCbG9VZTVWREVxc3VkYnZvWQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2c2bU5HMU4zMlNpR29OMW0ycnJqOEdKczBBT0N5MlZ1WkpxUVFOblJVeTlaOGFkVUM5TjhzelZtVThwRHFCVTJjWVExQWozMVRKaWw1WEpRYkg2by1MMk90c2RJVF83eVA0ZXdHRldYUjN0ZV9PZlFPUVpzS2hhQm530gGHAUFVX3lxTFBCNW5LSTk5ZElWWmxaX3dVeVAwN1dLcGFDdzZmUWhzbkNaSk5BTXpHWlFOSXpIZ0Z0T1V5Z3k0VDhrZmw0SXB6QXZDRlRsR25pdlU4SzZMNTltaV9EVHg3NkxJVWpTNHdUV2xCaVdLVTBlX0R3M3NCbG9VZTVWREVxc3VkYnZvWQ?oc=5)
 
 ---
 
@@ -94,14 +102,6 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
-
----
-
 ### [„Schleuse“ für sperrige Fracht: Neue Details zum Transport von großen Proteinen durch Membranen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFM4SFNjeG9BeWdDeWQtWGYtU1NfOUEzMURua2NCRERDaWRZZ0JuMmllY2ZDRGZ0MFhGRVgwOHNyOXZaVUtkbUZLNFZudnJPUl84Y0c3M0RjVXVPenJqZXBlaHpkTmtlbEZTNkZxM0hWX3JGMnAteDJzNHYtQ0lleFBzeXc0YWZadmJlczBHQ0NfbDRLdEVJaExfaDFjcnpKdzREQjFlNWtjYmdUcEVNVkpGczljcDJvTGRkXzl6X21YbEZ3bUxycE43eUs4Y2tBS202ZDY0aWpIYjNuekpSZGlDTk9tN1E?oc=5)
 
 2026-06-22 <span class="news-indication-tag">AF</span>
@@ -131,22 +131,6 @@ permalink: /news/olanzapine/
 2026-06-22 <span class="news-indication-tag">dépression</span>
 
 來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeW1lTHJISWYwdC1MMU9va01iaFlxVGV2clJWU29oWmxGTlhZNlM2Um5KcE9ySUdVTl9aSmhSbWc1VEhiZjhVLXZ4M1JMSmx6TjNDdDcwNDFkUHZYOTZnVjRJSDZvNTd1N3E2LXVfMXNLYkhVZ0JlcXdFWjFUb3FrN24yMnJpQzAxN3djcTQ4VS03TFBUSjB4VTRCUm5YcloxTnppUVFGM04?oc=5)
-
----
-
-### [Bauchfett-Risiko: Studie verknüpft BMI mit 19 Krebsarten und NAFLD - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxONER3YnNoRWUwY2VNdDEzWHRMWU1VVXBQTFU1eFk5YmJ2REJ5M25DMHlybzhGc0lXajBUUTRUX0JKTWpNcVNVSUZVRmtDMy1hSUpTRVE5di1MbGhUMXF6SUp2UE5IUmpjdU1fSnY3OG1ZZlBzdjQxVF9ZazJlSWcweVRDUUltb0FzZjFBYkZiWHRmZkZDczB6ZWJrZGFqZTQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxONER3YnNoRWUwY2VNdDEzWHRMWU1VVXBQTFU1eFk5YmJ2REJ5M25DMHlybzhGc0lXajBUUTRUX0JKTWpNcVNVSUZVRmtDMy1hSUpTRVE5di1MbGhUMXF6SUp2UE5IUmpjdU1fSnY3OG1ZZlBzdjQxVF9ZazJlSWcweVRDUUltb0FzZjFBYkZiWHRmZkZDczB6ZWJrZGFqZTQ?oc=5)
-
----
-
-### [Gesundheit: Neuer Bluttest verrät, welches Organ schneller altert](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE5xTFpjZzFzZlRhRnpTS2Y5M3Fhc1lPXzZYb3d1bUV5VWZGdlVnbWd5UzlPTDFHUWNvRXBHVmxUNDRwUDN2bjBqREhBRHpFRWFWT1ppSWxOT3ZlTlA0ODNaWlFRMFFmQWd3dFBfaW5Mc0o0Z0dnOU9jSXo4LXJsMk1ZU2xvWFFWUHRCcWF5UlB4R29BNEVscG4yeUV3b3ViaWRZY2RGT1ZteXFiSUp0aHRJWlRyekczd2toN00yVW9tVG82a2dLVDluQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AF</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE5xTFpjZzFzZlRhRnpTS2Y5M3Fhc1lPXzZYb3d1bUV5VWZGdlVnbWd5UzlPTDFHUWNvRXBHVmxUNDRwUDN2bjBqREhBRHpFRWFWT1ppSWxOT3ZlTlA0ODNaWlFRMFFmQWd3dFBfaW5Mc0o0Z0dnOU9jSXo4LXJsMk1ZU2xvWFFWUHRCcWF5UlB4R29BNEVscG4yeUV3b3ViaWRZY2RGT1ZteXFiSUp0aHRJWlRyekczd2toN00yVW9tVG82a2dLVDluQQ?oc=5)
 
 ---
 
@@ -190,6 +174,14 @@ permalink: /news/olanzapine/
 
 ---
 
+### [La dimensión emocional del cáncer - Diario de Sevilla](https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUVuUE9iWWFCOGpmbjB6NDBzQ1IycHlvNXllbTFtNjVrMXdsalBFRGo2SmNtMjF4a0FEa21uSEZrN0NqTzduUU5CVURXMl92UzRfODl1Z09QOWRpMlJKU1pDc2w2ZWxlZzVEWlhWdkN0N2xPQlNGenR3Y0FNUzZocVRxaHZxNV9EZlBSQ0gyYzRQaUlCaTRn0gGcAUFVX3lxTE9WRlpEa1U1STljWVg3TDBxRDBtQ2VCQUhiMGFRaVNwZkl5NW80QjhXcmZ4ZGhEY1lYY19uRTZRUW9JQTRacVJGN1lBN215Qi1uZDV0MU5rUFNtcmo2dEpHUHN5a3U2LVBwLS1veTRUbV9CS1hWTDBVWWpVcUViRnRoR0V0TmQxYlhFUmNEelBkWU1QQk5TVW1sU3RLcw?oc=5)
+
+2026-06-22 <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUVuUE9iWWFCOGpmbjB6NDBzQ1IycHlvNXllbTFtNjVrMXdsalBFRGo2SmNtMjF4a0FEa21uSEZrN0NqTzduUU5CVURXMl92UzRfODl1Z09QOWRpMlJKU1pDc2w2ZWxlZzVEWlhWdkN0N2xPQlNGenR3Y0FNUzZocVRxaHZxNV9EZlBSQ0gyYzRQaUlCaTRn0gGcAUFVX3lxTE9WRlpEa1U1STljWVg3TDBxRDBtQ2VCQUhiMGFRaVNwZkl5NW80QjhXcmZ4ZGhEY1lYY19uRTZRUW9JQTRacVJGN1lBN215Qi1uZDV0MU5rUFNtcmo2dEpHUHN5a3U2LVBwLS1veTRUbV9CS1hWTDBVWWpVcUViRnRoR0V0TmQxYlhFUmNEelBkWU1QQk5TVW1sU3RLcw?oc=5)
+
+---
+
 ### [Faktencheck Johanniskraut bei Depressionen: Wann pflanzliche Präparate sinnvoll sind – und welche Risiken drohen](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXA3eEw1N2FKLUlMUk9EOHRibTV0RHBWeTZuZ0Q4QkdPSUstVEp5RHJRZlNpWGtHVU9YLUFJZVhlUUNxREF1Si1vNnVLZWhrMElwU2tMWVFHYUwzUVJaWE1VMUw5MGhMS012dnVkbGZtNDR3WjBaUmNFRUh5LWZLRGkzUVBqbXEzV3NjeXVHbC1IaTNVc1VqNWNjb1dTZXlBakU5bU5MenozZ3dLWkE?oc=5)
 
 2026-06-22 <span class="news-indication-tag">depression</span>
@@ -230,6 +222,14 @@ permalink: /news/olanzapine/
 
 ---
 
+### [Freedom day: British passengers on ‘rat-virus’ cruise ship leave lockdown - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2Z0c0pBTzVndjJLdFd6U1JsT0xHVUxpU2JtYlJjYngwRVdRNDl6ZlE0TWFrcW93Ri1fWUpoQkg5dmx5eFprc3ZIQl8wczh0UlZNc1lsdWY1RF9mam44TDBfM3dXUFhxcEd1Y1VSLUItd0JFQnMzMTBKSzFuaHZNd3BxbXNWOEVxaVdySWJTWVYxTDRsOW53TzZNVlIxMFEtRjBqZ0c1YVkybUtvMzRFZGFiZkd1QQ?oc=5)
+
+2026-06-21 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2Z0c0pBTzVndjJLdFd6U1JsT0xHVUxpU2JtYlJjYngwRVdRNDl6ZlE0TWFrcW93Ri1fWUpoQkg5dmx5eFprc3ZIQl8wczh0UlZNc1lsdWY1RF9mam44TDBfM3dXUFhxcEd1Y1VSLUItd0JFQnMzMTBKSzFuaHZNd3BxbXNWOEVxaVdySWJTWVYxTDRsOW53TzZNVlIxMFEtRjBqZ0c1YVkybUtvMzRFZGFiZkd1QQ?oc=5)
+
+---
+
 ### [Cheshire woman, 45, given 'weeks to live' after she caught flu on Turkey holiday - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGRteU9Qd3F5ejZVRzR0Q3lGakIyVXVQME5VZkZHWDJvWFl3ZlpPbFZ3MW4zQUMwUUtMYkZ2cE5TWmt5THlRaHJzcmJnUm5SNFZVYTV1WXQ1UUNkV1lTX3F3SEFPRHVqenlXWklSYy1rTkJ6NDFzUWk4RkVTdEdRZEJ30gGHAUFVX3lxTFB6UHNFaTlfVDB5X2w5Y1J0ZEVISDczN1AyWkFDYUh4NVVqaHBoWmFiUVAwRU04Tno3YXh2SDdUYkJ5QWhURFVzUU1RbTBkWXlMcFczcWpaUUF3QXNva2NhUDNIRklDQXdubTV6amdkZndiNlZFUVBXYkx0cGxrbXVERmZzMU15UQ?oc=5)
 
 2026-06-21 <span class="news-indication-tag">AF</span>
@@ -259,38 +259,6 @@ permalink: /news/olanzapine/
 2026-06-21 <span class="news-indication-tag">AF</span>
 
 來源：[ka-news](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFJhUmx6VWRXRkd4LWlJb1lGZE14ZUMxVkZTbnIzcktiOEw0RGlfVlJRSDlSM3NDaEJqWU5kVnZ6Ym8yR0k0cVFtMWZxOVZxWG1yVU15MmNfY2lwLS1zVF9XTDVzaXRMSTYwY3c1S1dWUUV6bnU0bzg0enppRTVaUENzUTB6eTR4THZsc29kRmdUUXhPdHhwUGg4TXZIUTNoc1RUSVozSmQ1Z1Z4MzAwWDRIc3E0bzV3RDVVSjhpUWMxRG1tMzRaTEZsUl9FTl9XZWRyTA?oc=5)
-
----
-
-### [After Opening Up About Cancer, A Man Feels Hurt When His Friend Shifts The Focus To Herself](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVpza3NRdHhXaXd2RzdPUjc3YWI0bnZsVXVtTjROXzNxd0tVcHRRcWgxbC1VR3JMWXkwUDF5Sks1Ty0zNnFjWFk0Q0ppa0FpRWJHODRiTGtpZW90bklrdXdmN2pUbm9wbXJqYXJjU1RLem5lYVJsWXFPQS1zeEFtUGJRM1hnNm5hOGhDOHJ5aHM1NTQyZWtZMHZGUGdCYk5GRG04N21GeHdUbjB6MElvQWRjdTlFVkRpSlNmMktwUlJlRG8?oc=5)
-
-2026-06-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[TwistedSifter](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVpza3NRdHhXaXd2RzdPUjc3YWI0bnZsVXVtTjROXzNxd0tVcHRRcWgxbC1VR3JMWXkwUDF5Sks1Ty0zNnFjWFk0Q0ppa0FpRWJHODRiTGtpZW90bklrdXdmN2pUbm9wbXJqYXJjU1RLem5lYVJsWXFPQS1zeEFtUGJRM1hnNm5hOGhDOHJ5aHM1NTQyZWtZMHZGUGdCYk5GRG04N21GeHdUbjB6MElvQWRjdTlFVkRpSlNmMktwUlJlRG8?oc=5)
-
----
-
-### [Ansiedad, miedo e incertidumbre: el lado emocional del cáncer de riñón que afecta al 90% de los pacientes - Fuentes Informadas](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHVmX2dtZXp5ZUNkQm4wNWFNaWlJVGFER2FjNy1DRFJMdnJxQVpkajVNWkRzaVdyWDVNOGJvNU04bl9YcTBsNmFOdFVVZTZkYWZWZE9mNVVnNTFaNFVOZl91ZGo0RmhHRXRHQmduYUVHanloX2dWNHE1cER6aW13OWxjVWY0Qm84WDdyb0V4VlpHM21zaUlwVEdZZ0dzbTEwRzl4YUtXNHhWdlo5Z1Y2OGx2YkpqYUs2MlpiNVAzejdpWDN6eW1OQVMyOE4?oc=5)
-
-2026-06-21 <span class="news-indication-tag">AF</span>
-
-來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHVmX2dtZXp5ZUNkQm4wNWFNaWlJVGFER2FjNy1DRFJMdnJxQVpkajVNWkRzaVdyWDVNOGJvNU04bl9YcTBsNmFOdFVVZTZkYWZWZE9mNVVnNTFaNFVOZl91ZGo0RmhHRXRHQmduYUVHanloX2dWNHE1cER6aW13OWxjVWY0Qm84WDdyb0V4VlpHM21zaUlwVEdZZ0dzbTEwRzl4YUtXNHhWdlo5Z1Y2OGx2YkpqYUs2MlpiNVAzejdpWDN6eW1OQVMyOE4?oc=5)
-
----
-
-### [«J’ai arrêté de vouloir être un bon père. J’essaie juste d’être un père» : comment Michel s’est relevé d’une dépression postnatale - Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOWTloOHJpcXVkRjZoTkhiUUdCZ1BneUhIM2Z0RElMdE50UmdKaERjZFhFdXM3alZBUDBlN1lCLUJySmhIcGxDcmJoZnJwMFMzdGJQUUpOcmNRSlpZcUgxZ0VCWEg0cjZEUzNYWl94OGNVaVN1ZlJiZERQMjBOUGpMdk55eHRKZGgtQkJLS3ZzNzJobDFBUElqRHh2Sng4dVZ3NllRYjhSSEZwRHAxUWVHekgxUTR0NWxjTUVuYjZFOFBpV2UtU2V2V09uYmZZMGFoeG0wa0dHeGFOUjBfVEJ4djJWY09qOUo1b3NxVlpFNnRGSE5aSm02YmtiWC1RZXBaOVpVa0JqNXZSQmg2bnJpQw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">dépression</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOWTloOHJpcXVkRjZoTkhiUUdCZ1BneUhIM2Z0RElMdE50UmdKaERjZFhFdXM3alZBUDBlN1lCLUJySmhIcGxDcmJoZnJwMFMzdGJQUUpOcmNRSlpZcUgxZ0VCWEg0cjZEUzNYWl94OGNVaVN1ZlJiZERQMjBOUGpMdk55eHRKZGgtQkJLS3ZzNzJobDFBUElqRHh2Sng4dVZ3NllRYjhSSEZwRHAxUWVHekgxUTR0NWxjTUVuYjZFOFBpV2UtU2V2V09uYmZZMGFoeG0wa0dHeGFOUjBfVEJ4djJWY09qOUo1b3NxVlpFNnRGSE5aSm02YmtiWC1RZXBaOVpVa0JqNXZSQmg2bnJpQw?oc=5)
-
----
-
-### [Zebrafische zeigen: Dein Gehirn „weiß“ vor dir, wann eine soziale Interaktion bevorsteht](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTWNXVkJjNUlhRm9ESVAtZzJKSzc5MUl2LVByT3NzVzZZdGJMRVhnLW8yQjdZVTRZNWFCZDlHQXRpeVUwVEtZeWIzdDVjZEdtT3I2NWFUbGdmS1VTTDlJN2RGdmhQTFlSbEJVSk9KVU9UNVZRb3c?oc=5)
-
-2026-06-21 <span class="news-indication-tag">AF</span>
-
-來源：[t3n](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTWNXVkJjNUlhRm9ESVAtZzJKSzc5MUl2LVByT3NzVzZZdGJMRVhnLW8yQjdZVTRZNWFCZDlHQXRpeVUwVEtZeWIzdDVjZEdtT3I2NWFUbGdmS1VTTDlJN2RGdmhQTFlSbEJVSk9KVU9UNVZRb3c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
+
+---
+
+### [Mum, 32, given terminal diagnosis after GPs blamed symptoms on parenthood - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2c2bU5HMU4zMlNpR29OMW0ycnJqOEdKczBBT0N5MlZ1WkpxUVFOblJVeTlaOGFkVUM5TjhzelZtVThwRHFCVTJjWVExQWozMVRKaWw1WEpRYkg2by1MMk90c2RJVF83eVA0ZXdHRldYUjN0ZV9PZlFPUVpzS2hhQm530gGHAUFVX3lxTFBCNW5LSTk5ZElWWmxaX3dVeVAwN1dLcGFDdzZmUWhzbkNaSk5BTXpHWlFOSXpIZ0Z0T1V5Z3k0VDhrZmw0SXB6QXZDRlRsR25pdlU4SzZMNTltaV9EVHg3NkxJVWpTNHdUV2xCaVdLVTBlX0R3M3NCbG9VZTVWREVxc3VkYnZvWQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2c2bU5HMU4zMlNpR29OMW0ycnJqOEdKczBBT0N5MlZ1WkpxUVFOblJVeTlaOGFkVUM5TjhzelZtVThwRHFCVTJjWVExQWozMVRKaWw1WEpRYkg2by1MMk90c2RJVF83eVA0ZXdHRldYUjN0ZV9PZlFPUVpzS2hhQm530gGHAUFVX3lxTFBCNW5LSTk5ZElWWmxaX3dVeVAwN1dLcGFDdzZmUWhzbkNaSk5BTXpHWlFOSXpIZ0Z0T1V5Z3k0VDhrZmw0SXB6QXZDRlRsR25pdlU4SzZMNTltaV9EVHg3NkxJVWpTNHdUV2xCaVdLVTBlX0R3M3NCbG9VZTVWREVxc3VkYnZvWQ?oc=5)
+
+---
 
 ### [La OMS propone un cambio de modelo para prevenir y tratar la hemorragia posparto, responsable de 43.000 muertes anuales](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcTNjTXFUeU1LTUI4TTRUbFFWQ2hLaWl5QlZLYUJObm9OUTBhYlJvV25ZdmEwRWYxX3M0ZXlWVENjRHJ6aC1WRTFmUlJEcFBFNDEwb3c2Qmtrd241emI1T3FaTGNHNDhqcVV5Y1FXMnBJXzFzZTNSbGpMZ2pUaVNQSWFtbDdtNVVKTVgxa3RtdEVzNlFTZUlZQ3JNUnBrVlFtTTVGUk9abWtjX2FoUmJtdjlpWG92akZPZUNLd0VzSFM4b0NUdHU4WGZTb3hHQ3lRM3Fvdy1EcXl4SktQSzlLVA?oc=5)
 
@@ -94,19 +110,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTUxT3g1eTAtQkJmWnR0OTJIVW5jcTVRNmQxcHZFVVUyTEZMZnlaaUdSbS00dUU2djBscmhmYUkwU2xDeUJqZm5DSnozQ1NoeTFsUGxIa0djOW1sM3pFVkxsbUJzNmkyQ1A5MmVDaS1ya1paN2VRWHhLS0hDUDZWSXpkS1UwLVBnSnlRSGJwTzZUNk5nQ1pmbVBn?oc=5)
-
----
-
 ### [Hepatitis Delta enciende alertas por su vínculo con cáncer hepático y riesgo de evolución acelerada - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
 
 2026-06-22 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjdqbV9sMC1lYzhINEZKM3g1MjhvYlBlZlMyVkY5ZWdENzJ3MllEczAydEJUbzJkMDExRTJoNjVid25tTjRMU2NwWl8wc19qcWdid1dVa2E2NGlCRnJfRGRVemVwUG5HMmwyd3c0R3NkYjhxZmJtTmZtTmF0V1VGTW1tbFdzTU4wNVFabVl5eTllSWVNeFVNNU1rb25XWnpHQlBpTi1kUmN2WVpObGF5STU1ZTBncFpRa0t3Z1hEQjY4alFBMmtqQnUxMDQ2dmhRdnJITkJRX2hZbmdNWTU0ZXlPcU9HYXphVGNsbVhDa9IB9AFBVV95cUxPNGdGTlFyYVZTYVlBa3g5a3UxX3FUMGpXcWdMOFFWUUZKb2RrLS1BdThoMEk3RzZJTmlyNEdsSF9SaS1yU1VZeUFVQjZKSjJlSW15T2NNSU5NSmhJLUgzRDJqeEJmY2Q2TnpPbXJsZndjdVBtalR3VDN4UlRreWZCOExHdktIWGx2UXkxV0x0Rk9vc2VMZTI4U3JSaDVfNUY1RWI3czlHNXNQSzRNQmEtQ3Mta0tPbjJDZUFSVnpvUWtxQVZLZF9OanVoQnpNYWZqS3JNMTdJOHdlRXk5VWRBMHBqYktvcXJ2MUd5ZXdKWElfX1cz?oc=5)
+
+---
+
+### [Anyone with high blood pressure issued beta blockers and diuretics medication alert - Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
 
 ---
 
@@ -126,11 +142,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Caldo, i numeri di Pregliasco: “Milano la città con più morti di tutta Europa" - Il Giorno](https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbTBBaktVbHZBM1hZTGNLRU85UHlOX0xJSVoxLVRjcm5LR2Jrbm02X1lHamNTbXN6MDBnNEdKVHJVdGJieFI3VFk5NkRWNDFTYjRIemxZMFk0OVhHQWl2cE4zMmE3S3pvVnY1MG9IYkpFZXpSZnh1VExR?oc=5)
+### [Perché alcune ondate di caldo diventano eccezionali](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWdIUVFvZnN6WFFETXBFUFNmRWR5VkpvWmczYmZUU0E2eGZrRW9vXzNPQUxPUmNTTzBZR29lR0lhT0xkenFlU090bTVsUjNSOVpwSHhYSWc5OTBCR0w3TXdpdDdyRy03ZFByTXZkQXlvTTNhVGgwYVBZT1dCM0RITTBITXZOR3dfMjl3dExsZURaUlFILTVpVUdRVEczQQ?oc=5)
 
 2026-06-21 <span class="news-indication-tag">MS</span>
 
-來源：[Il Giorno](https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbTBBaktVbHZBM1hZTGNLRU85UHlOX0xJSVoxLVRjcm5LR2Jrbm02X1lHamNTbXN6MDBnNEdKVHJVdGJieFI3VFk5NkRWNDFTYjRIemxZMFk0OVhHQWl2cE4zMmE3S3pvVnY1MG9IYkpFZXpSZnh1VExR?oc=5)
+來源：[3BMeteo](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWdIUVFvZnN6WFFETXBFUFNmRWR5VkpvWmczYmZUU0E2eGZrRW9vXzNPQUxPUmNTTzBZR29lR0lhT0xkenFlU090bTVsUjNSOVpwSHhYSWc5OTBCR0w3TXdpdDdyRy03ZFByTXZkQXlvTTNhVGgwYVBZT1dCM0RITTBITXZOR3dfMjl3dExsZURaUlFILTVpVUdRVEczQQ?oc=5)
 
 ---
 

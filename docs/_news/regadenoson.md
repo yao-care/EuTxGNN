@@ -54,6 +54,14 @@ permalink: /news/regadenoson/
 
 ## 相關新聞（6 則）
 
+### [Gesundheit: Neuer Bluttest verrät, welches Organ schneller altert](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE5xTFpjZzFzZlRhRnpTS2Y5M3Fhc1lPXzZYb3d1bUV5VWZGdlVnbWd5UzlPTDFHUWNvRXBHVmxUNDRwUDN2bjBqREhBRHpFRWFWT1ppSWxOT3ZlTlA0ODNaWlFRMFFmQWd3dFBfaW5Mc0o0Z0dnOU9jSXo4LXJsMk1ZU2xvWFFWUHRCcWF5UlB4R29BNEVscG4yeUV3b3ViaWRZY2RGT1ZteXFiSUp0aHRJWlRyekczd2toN00yVW9tVG82a2dLVDluQQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">asma</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE5xTFpjZzFzZlRhRnpTS2Y5M3Fhc1lPXzZYb3d1bUV5VWZGdlVnbWd5UzlPTDFHUWNvRXBHVmxUNDRwUDN2bjBqREhBRHpFRWFWT1ppSWxOT3ZlTlA0ODNaWlFRMFFmQWd3dFBfaW5Mc0o0Z0dnOU9jSXo4LXJsMk1ZU2xvWFFWUHRCcWF5UlB4R29BNEVscG4yeUV3b3ViaWRZY2RGT1ZteXFiSUp0aHRJWlRyekczd2toN00yVW9tVG82a2dLVDluQQ?oc=5)
+
+---
+
 ### [El calor del verano puede empeorar las cefaleas y migrañas, aunque rara vez es la causa directa del dolor](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
 
 2026-06-22 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
@@ -75,14 +83,6 @@ permalink: /news/regadenoson/
 2026-06-22 <span class="news-indication-tag">migraine</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
-
----
-
-### [Deutsche Akademie für Präventivmedizin fordert mindestens 20 Euro pro Schachtel Zigaretten](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Migräne</span>
-
-來源：[lifePR](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
 
 ---
 

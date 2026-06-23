@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,23 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxPREVEZUoxQ0tLaGMtX2cxZkIxc2dGbGVNRy1BUjBtbHZTcHNVcVdJdWsxbV80LUZCMzVXbjdHVVpMR0NfellPcC1ybWl4NHFYT2NiNDVQSkxCVHZUM0RoYW16Q0RwNDlBdFBCZW9jZ1BaS2JsQWR0RmZzeV8wNkk5alkwR21nT01hR05uZE4xbFF4QzV1SHh1MjEtRzVjQXFrQ3JmZkhCdUhOLVJvbGotNQ?oc=5)
-
-2026-06-22
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxPREVEZUoxQ0tLaGMtX2cxZkIxc2dGbGVNRy1BUjBtbHZTcHNVcVdJdWsxbV80LUZCMzVXbjdHVVpMR0NfellPcC1ybWl4NHFYT2NiNDVQSkxCVHZUM0RoYW16Q0RwNDlBdFBCZW9jZ1BaS2JsQWR0RmZzeV8wNkk5alkwR21nT01hR05uZE4xbFF4QzV1SHh1MjEtRzVjQXFrQ3JmZkhCdUhOLVJvbGotNQ?oc=5)
-
----
-
-### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
-2026-06-22
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [High blood pressure: 50p supermarket swap could do wonders for lowering your reading, scientists say - GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGdBVXdkQXFIM21BekxLS1FmWnNEOTFVM21uWmhiMlRwQ25Rc2xhdzFYcGhVb2dONEEyZTFVQmt1WE9mTHQ0TEV0N1lRZHFaV1hwQ0tObVo4dVQ0LUQ1ejhzYnpDVmhHM05OSHcycWhrQlQ3YjJKX0pGV2RWQ0dHVldtaDM5MkIwU0VXUWFfVkNoMlNYdnc?oc=5)
 
@@ -109,11 +93,35 @@ permalink: /news/hypertension/
 
 ---
 
+### [Anyone with high blood pressure issued beta blockers and diuretics medication alert - Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
+
+2026-06-22
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
+
+---
+
+### [Bluthochdruck und Demenz: Omega-3-Debatte bringt neues Risiko-Fenster - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHl2OU1HY3lOY05OZGQ1aFpyMi1hMmlzMGgxSE84a0xWOWNtTk51elBEMGVzYjcwQkUwd09uQUNiSU1EMWR3dG5JRGt5VVlCRFBZTjlhVTZJc2tKLWkyRDVKUUpyOHEtR0oyRXpXdEFvLUp1dUtkZEJDQ3h4b2lPWTVaNjZoUGN5WmJtbEplWGhCM3Y4cVVTWm5oQzl1Vi1nVkE?oc=5)
+
+2026-06-22
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHl2OU1HY3lOY05OZGQ1aFpyMi1hMmlzMGgxSE84a0xWOWNtTk51elBEMGVzYjcwQkUwd09uQUNiSU1EMWR3dG5JRGt5VVlCRFBZTjlhVTZJc2tKLWkyRDVKUUpyOHEtR0oyRXpXdEFvLUp1dUtkZEJDQ3h4b2lPWTVaNjZoUGN5WmJtbEplWGhCM3Y4cVVTWm5oQzl1Vi1nVkE?oc=5)
+
+---
+
 ### [Täglich verzehrte Lebensmittel: Acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
 
 2026-06-21
 
 來源：[Ntv](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
+
+---
+
+### [6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians - Verywell Health](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEZ0dmxtRVJTNkRqWDNadjd5cFMxdUNfb1drRjJFbWR4RFJUYlNxMmZSdi13T2tHYVVoVXhBdjJmcWlBRW4xV25CMGliOG1tQnJLbGRhUnhoQXJPN0JNcmo3ZHo3TkZwVWpobUo2ZjRTNTVnUkFqTUxsdzBid0Nucmp3?oc=5)
+
+2026-06-21
+
+來源：[Verywell Health](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEZ0dmxtRVJTNkRqWDNadjd5cFMxdUNfb1drRjJFbWR4RFJUYlNxMmZSdi13T2tHYVVoVXhBdjJmcWlBRW4xV25CMGliOG1tQnJLbGRhUnhoQXJPN0JNcmo3ZHo3TkZwVWpobUo2ZjRTNTVnUkFqTUxsdzBid0Nucmp3?oc=5)
 
 ---
 

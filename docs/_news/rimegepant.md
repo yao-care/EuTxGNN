@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [El calor del verano puede empeorar las cefaleas y migrañas, aunque rara vez es la causa directa del dolor](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/rimegepant/
 2026-06-22 <span class="news-indication-tag">migraine</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
-
----
-
-### [Deutsche Akademie für Präventivmedizin fordert mindestens 20 Euro pro Schachtel Zigaretten](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Migräne</span>
-
-來源：[lifePR](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
 
 ---
 

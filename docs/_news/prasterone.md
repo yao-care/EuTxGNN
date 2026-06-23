@@ -56,13 +56,21 @@ permalink: /news/prasterone/
 
 ### [Type 2 diabetes warning as scientists say the type of fat you eat may be driving your risk - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXpmUFBRRjhWYmkwMC1QOG5LUnBQVDlKdjVNVmoxR0hNeUs0M05wOEpDZm1yU1l3SmZDUWlNOVlvZGp6eFpqNnE2dHJVRzFEWmhialhaLVN0OG1TWGpHdEIwX0Y4M21Pa2p2dWsyYnRoTEYwaXNESHRHSHloU012Y3VB?oc=5)
 
-2026-06-22 <span class="news-indication-tag">diabetes</span>
+2026-06-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXpmUFBRRjhWYmkwMC1QOG5LUnBQVDlKdjVNVmoxR0hNeUs0M05wOEpDZm1yU1l3SmZDUWlNOVlvZGp6eFpqNnE2dHJVRzFEWmhialhaLVN0OG1TWGpHdEIwX0Y4M21Pa2p2dWsyYnRoTEYwaXNESHRHSHloU012Y3VB?oc=5)
 
 ---
 
-### [La monitorización continua de glucosa se integra con la administración automatizada de insulina para tratar la diabetes tipo 1](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT0dBZDdDbzdnVF9xYzdDTGxYY05pU181VFNWSnJVSE02YkR1WnM4LUFOTFZ2MENvYVgyOWpjdVF2RGtCRl9IVEE2a0tzaTZuNmdlUVpQbmoxb1FES3BBLW9vcVdFRl9OaFF2bnVnUXctVjBGbEV1M0o4bmpDN3E5MzZyTHEtTlJnVkVFeUNFMG1jbmdnbEtiN05ZNzVFUXFSQzQzaXRNQzVaZk9WQmhMUFFOMndUMTFQMjlCNU1oTTVtN05WaFBxWnJQS0pJeWlGX0QyY2tYdmFLaVp5WVh2QUUzS3BPQW1ONHMw?oc=5)
+### [Teplizumab drug to delay type 1 diabetes to be rolled out on the NHS](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdXd6dGNCOHpSSFlGOHVWVWZfQVlMczJFTkNRX0tibnMwTnJYNHFoRzlrdFdvQ1E1c2xpMmRUdW9BbXRlNDgwc1FRVFQtc2VGWi01aEtnT3lyR2ww?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wdXd6dGNCOHpSSFlGOHVWVWZfQVlMczJFTkNRX0tibnMwTnJYNHFoRzlrdFdvQ1E1c2xpMmRUdW9BbXRlNDgwc1FRVFQtc2VGWi01aEtnT3lyR2ww?oc=5)
+
+---
+
+### [La monitorización continua de glucosa se integra con la administración automatizada de insulina para diabetes tipo 1](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT0dBZDdDbzdnVF9xYzdDTGxYY05pU181VFNWSnJVSE02YkR1WnM4LUFOTFZ2MENvYVgyOWpjdVF2RGtCRl9IVEE2a0tzaTZuNmdlUVpQbmoxb1FES3BBLW9vcVdFRl9OaFF2bnVnUXctVjBGbEV1M0o4bmpDN3E5MzZyTHEtTlJnVkVFeUNFMG1jbmdnbEtiN05ZNzVFUXFSQzQzaXRNQzVaZk9WQmhMUFFOMndUMTFQMjlCNU1oTTVtN05WaFBxWnJQS0pJeWlGX0QyY2tYdmFLaVp5WVh2QUUzS3BPQW1ONHMw?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span>
 
@@ -70,11 +78,11 @@ permalink: /news/prasterone/
 
 ---
 
-### [Zenagamtida reduce significativamente la HbA1c y logra pérdidas de peso de casi el 15% en diabetes tipo 2](https://news.google.com/rss/articles/CBMiygFBVV95cUxQQzZITUNfdE5HMWVsUTAzbWw3dzctRE5LZmNqRDZsMnZBNTBrUG5IVmwzbmdlZlJhd05BUU93bzB6M1d4U2NyWDl6b2pxd1hhcUNHZllORTlCT0dWQ01qQkxnOTYwc1gxcktuZHhYZklCMW1Wd3JtZkpoUVRTSUV5b3RJWEFub0Vsd1MyYlBia0tNdmh4UTFTWVZ2d0dXYUc2eTZMdUZPR3ZOdGJJVGRhbkExbFBlQTBtZHVIa0o0cm5yeU9tR1hxejlR?oc=5)
+### [Investigan, bajo el enfoque epigenético, cómo proteger los vasos sanguíneos en la obesidad y la diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0J0V2Y1ZTRqOFdETTFTaHdaMXdBd2pob003Q2VvZUtXd1RrTS1Tckc2MUdGVGZFREszcVFlNVltbEJnS21Dd1czYUhtMGpId3hQX0FSRXJLRjE2UnF4SVJxOXN3Q2dyeGg1ZHFGNHE4cjNVckg3dnFfbDBFemZrSEtrZ3YyUng3VDNUWTBOS0RCWnBKLUp4QUdBRE1DRHlWckROZmE5T0tuSFdvaXl4ZWRR0gGsAUFVX3lxTE8xYThKc1NyLXhpNGF6MVdkME9RZ1Y3ek45TXR1eFk4MzhfYTRzMEZ2NXBuOGk2dy1aLXBfQ0xOZW5xc0UzcWMyelNiX21WODk2cGMzSnU4Q3J3S1BMMmJJUjFfM243SHlaTUNDWEhpdElCbW8tN3ljTUExWWJyOHdoNmJ2TkRoRWRXdmRudUVfcDc3dHU5SUNnYTRFaEFEUnRkX2tCc2JPSjMwZzM?oc=5)
 
-2026-06-22 <span class="news-indication-tag">diabetes</span>
+2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiygFBVV95cUxQQzZITUNfdE5HMWVsUTAzbWw3dzctRE5LZmNqRDZsMnZBNTBrUG5IVmwzbmdlZlJhd05BUU93bzB6M1d4U2NyWDl6b2pxd1hhcUNHZllORTlCT0dWQ01qQkxnOTYwc1gxcktuZHhYZklCMW1Wd3JtZkpoUVRTSUV5b3RJWEFub0Vsd1MyYlBia0tNdmh4UTFTWVZ2d0dXYUc2eTZMdUZPR3ZOdGJJVGRhbkExbFBlQTBtZHVIa0o0cm5yeU9tR1hxejlR?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0J0V2Y1ZTRqOFdETTFTaHdaMXdBd2pob003Q2VvZUtXd1RrTS1Tckc2MUdGVGZFREszcVFlNVltbEJnS21Dd1czYUhtMGpId3hQX0FSRXJLRjE2UnF4SVJxOXN3Q2dyeGg1ZHFGNHE4cjNVckg3dnFfbDBFemZrSEtrZ3YyUng3VDNUWTBOS0RCWnBKLUp4QUdBRE1DRHlWckROZmE5T0tuSFdvaXl4ZWRR0gGsAUFVX3lxTE8xYThKc1NyLXhpNGF6MVdkME9RZ1Y3ek45TXR1eFk4MzhfYTRzMEZ2NXBuOGk2dy1aLXBfQ0xOZW5xc0UzcWMyelNiX21WODk2cGMzSnU4Q3J3S1BMMmJJUjFfM243SHlaTUNDWEhpdElCbW8tN3ljTUExWWJyOHdoNmJ2TkRoRWRXdmRudUVfcDc3dHU5SUNnYTRFaEFEUnRkX2tCc2JPSjMwZzM?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/prasterone/
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[NWZonline](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS1dzS3o4SFh0MlhRdTdsV1lhTXhNMGRBdWk3OGtlbFpuSHJNM1pJeHJzLU5kUTkzNkFoQnZiWVZxSktrbklkY3NzUXM3elRWOFdoV181MUtkcnR4OHdzczZFSmkwT0t6ZENKeWRwQ1ZXTGV0UE9ZWnJVdmJvWFl3cjZlWklicTF4eHp0VzQzZEtWMnltT3pLcV81dHl1dWFmZVJXMkRuSUthZ2JVSkpGWnBrWnIzSG5haEMxUmJTdmFJSjk1U3JTRg?oc=5)
-
----
-
-### [Investigan, bajo el enfoque epigenético, cómo proteger los vasos sanguíneos en la obesidad y la diabetes - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmhFenZWODBsM1R5SWI1WVFiLVAwcXlDNWpMSE1TZ3pRcm5ZdzFRbGdhd0FZSEJZeG1zNUQ4R0ZRRlU5OTkzMzVDekxXREkwdDFNUWluUi1aT1FaeWkxZXIwb0tlX3lmYnR3OWZqM2M2MGZqOVppWEc0M2pOQWNfUjljcDhTOWFZd2NGMmdYeHYtRTh3UGtJTVVhRU5IN0paZThLUTZId2hWcFpMbWQxdURQMDJtSlhYTFVEVWtB0gG4AUFVX3lxTE1ZWEVfOWt4T3NhMEs4WUdXRmh3UTh3TXI5QUZYZ0lVWHRGTWNtRnplX0h3cWJpbThLLXdWaEFLWlgtOXdBN1VhcUFUWDFrMFdiZlpia2dLcmE5RmYwUGdVNm5kNV9WS242RVRBSDR6aE9TS0VGM25hVGxpakhUaUtUNG9wRnVCWDU2QjR1c0ZTN215NHY2SjE1cXpld28xNUYtZGhzMTVseFBLN2xZcmtZb1hWRUVxWWc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmhFenZWODBsM1R5SWI1WVFiLVAwcXlDNWpMSE1TZ3pRcm5ZdzFRbGdhd0FZSEJZeG1zNUQ4R0ZRRlU5OTkzMzVDekxXREkwdDFNUWluUi1aT1FaeWkxZXIwb0tlX3lmYnR3OWZqM2M2MGZqOVppWEc0M2pOQWNfUjljcDhTOWFZd2NGMmdYeHYtRTh3UGtJTVVhRU5IN0paZThLUTZId2hWcFpMbWQxdURQMDJtSlhYTFVEVWtB0gG4AUFVX3lxTE1ZWEVfOWt4T3NhMEs4WUdXRmh3UTh3TXI5QUZYZ0lVWHRGTWNtRnplX0h3cWJpbThLLXdWaEFLWlgtOXdBN1VhcUFUWDFrMFdiZlpia2dLcmE5RmYwUGdVNm5kNV9WS242RVRBSDR6aE9TS0VGM25hVGxpakhUaUtUNG9wRnVCWDU2QjR1c0ZTN215NHY2SjE1cXpld28xNUYtZGhzMTVseFBLN2xZcmtZb1hWRUVxWWc?oc=5)
 
 ---
 
@@ -110,19 +110,19 @@ permalink: /news/prasterone/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFRlSTBlbi1uRktSX0tlTHVYdmt2Qmw3b240emtBR0VIdDQtQWZaSEpreDFyS1NWVFdEYjNQaTZmVVJtdVFTdENTN3R2cERrdGhUTWZJYjBfQ1RoUTZOaTZtWWtPUFY2dDItQnlZQ05fazlZVDFHMGplSURac0Q5dmNwZXdRcXRIck1LRDdaWERRN3NMTUNieGt5SHBPT3VVZUVpZDFhQ01KT2U3WDkzSjVBbUgtR3Rh?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFRlSTBlbi1uRktSX0tlTHVYdmt2Qmw3b240emtBR0VIdDQtQWZaSEpreDFyS1NWVFdEYjNQaTZmVVJtdVFTdENTN3R2cERrdGhUTWZJYjBfQ1RoUTZOaTZtWWtPUFY2dDItQnlZQ05fazlZVDFHMGplSURac0Q5dmNwZXdRcXRIck1LRDdaWERRN3NMTUNieGt5SHBPT3VVZUVpZDFhQ01KT2U3WDkzSjVBbUgtR3Rh?oc=5)
-
----
-
 ### [These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5)
 
 2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5)
+
+---
+
+### [Diabetes-Medikamente senken Alzheimer-Risiko – neue Daten, Diagnostik und Präventionspfade - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVENleHJwRF9HQ09fVmVVb29YWEh3ckxnNWJXNWQ4X1FXUExadGRKQUtMZms3ajN3ZDlkdjFRLWZ6dUNRcWVxMWVpeDhWdG9kZW5qeWhrM2V5R1pJY1pMcU1PQlB3NWR0SW5BN2FkWGF4blRnR251ZEx0NnpGM0JjM2tvOTlfUnIzY3c3RkEwN05yRUpYa0VaZzhsVkpxQkl1QmlvZWZLWnpaSXpoRHpJbmxBQXFjSDZTV01TZw?oc=5)
+
+2026-06-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVENleHJwRF9HQ09fVmVVb29YWEh3ckxnNWJXNWQ4X1FXUExadGRKQUtMZms3ajN3ZDlkdjFRLWZ6dUNRcWVxMWVpeDhWdG9kZW5qeWhrM2V5R1pJY1pMcU1PQlB3NWR0SW5BN2FkWGF4blRnR251ZEx0NnpGM0JjM2tvOTlfUnIzY3c3RkEwN05yRUpYa0VaZzhsVkpxQkl1QmlvZWZLWnpaSXpoRHpJbmxBQXFjSDZTV01TZw?oc=5)
 
 ---
 
@@ -142,11 +142,11 @@ permalink: /news/prasterone/
 
 ---
 
-### [Wie epigenetische Medikamente Blutgefäße bei Adipositas und Diabetes schützen können](https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTQyZ2swUXEweVR2WTVtd2FTRW85RmNRck5NdUhUWGFPSktVQnkwdGFLSFRJRVlBZ1VQd09RVUFadU1IYjFjUU9hQU00RTdjUG85Z25QWFJQajJnOENveWpDaGQ3SlhoNGdzRDRqenQyeDV6aVVEM3hNd2RyaGZLU25TLXcwbHlBSkxYd28tOUpjT1FiOVJGbWJwTTRRVF9DeGVvbE9lYVFrWlBQVzFYamlnTFlwbnVNREJNTHczWTliN2dyVXc?oc=5)
+### [Diabetes-Therapie: BET-Inhibitoren umprogrammieren Fettgewebe epigenetisch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
 
 2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTQyZ2swUXEweVR2WTVtd2FTRW85RmNRck5NdUhUWGFPSktVQnkwdGFLSFRJRVlBZ1VQd09RVUFadU1IYjFjUU9hQU00RTdjUG85Z25QWFJQajJnOENveWpDaGQ3SlhoNGdzRDRqenQyeDV6aVVEM3hNd2RyaGZLU25TLXcwbHlBSkxYd28tOUpjT1FiOVJGbWJwTTRRVF9DeGVvbE9lYVFrWlBQVzFYamlnTFlwbnVNREJNTHczWTliN2dyVXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
 
 ---
 

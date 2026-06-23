@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Depressionen, Social Media und die Rolle von Medizinerinnen und Medizinern - Medical Tribune](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhaZ1pfTDhpUUFEVXExdHN6SFhldlU5TDA0dWJxdFl3ejV0eUpOMXN6OThRRUpFWDVfTzQ3dWpCazVqZWgyc1BCNEJ0dm9ESnJnSnBKRlVCNklKZk9YV21FWTR6NS1qMGQwdnQ0aGVjV3RnYjN3dTY2WGh6NkFJaTM2MU9DbXl4bDJlUXhONmlfZzNuMVlDbF9tTndNWUlyNjhjSGg0TnlKWVEzSDFHXzJaeVpPWnk5eFhnWXVaRThLQQ?oc=5)
 
@@ -66,14 +66,6 @@ permalink: /news/depression/
 2026-06-22
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXA3eEw1N2FKLUlMUk9EOHRibTV0RHBWeTZuZ0Q4QkdPSUstVEp5RHJRZlNpWGtHVU9YLUFJZVhlUUNxREF1Si1vNnVLZWhrMElwU2tMWVFHYUwzUVJaWE1VMUw5MGhMS012dnVkbGZtNDR3WjBaUmNFRUh5LWZLRGkzUVBqbXEzV3NjeXVHbC1IaTNVc1VqNWNjb1dTZXlBakU5bU5MenozZ3dLWkE?oc=5)
-
----
-
-### [«J’ai arrêté de vouloir être un bon père. J’essaie juste d’être un père» : comment Michel s’est relevé d’une dépression postnatale - Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOWTloOHJpcXVkRjZoTkhiUUdCZ1BneUhIM2Z0RElMdE50UmdKaERjZFhFdXM3alZBUDBlN1lCLUJySmhIcGxDcmJoZnJwMFMzdGJQUUpOcmNRSlpZcUgxZ0VCWEg0cjZEUzNYWl94OGNVaVN1ZlJiZERQMjBOUGpMdk55eHRKZGgtQkJLS3ZzNzJobDFBUElqRHh2Sng4dVZ3NllRYjhSSEZwRHAxUWVHekgxUTR0NWxjTUVuYjZFOFBpV2UtU2V2V09uYmZZMGFoeG0wa0dHeGFOUjBfVEJ4djJWY09qOUo1b3NxVlpFNnRGSE5aSm02YmtiWC1RZXBaOVpVa0JqNXZSQmg2bnJpQw?oc=5)
-
-2026-06-21
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMikAJBVV95cUxOWTloOHJpcXVkRjZoTkhiUUdCZ1BneUhIM2Z0RElMdE50UmdKaERjZFhFdXM3alZBUDBlN1lCLUJySmhIcGxDcmJoZnJwMFMzdGJQUUpOcmNRSlpZcUgxZ0VCWEg0cjZEUzNYWl94OGNVaVN1ZlJiZERQMjBOUGpMdk55eHRKZGgtQkJLS3ZzNzJobDFBUElqRHh2Sng4dVZ3NllRYjhSSEZwRHAxUWVHekgxUTR0NWxjTUVuYjZFOFBpV2UtU2V2V09uYmZZMGFoeG0wa0dHeGFOUjBfVEJ4djJWY09qOUo1b3NxVlpFNnRGSE5aSm02YmtiWC1RZXBaOVpVa0JqNXZSQmg2bnJpQw?oc=5)
 
 ---
 

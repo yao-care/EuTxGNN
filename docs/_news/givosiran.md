@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxPREVEZUoxQ0tLaGMtX2cxZkIxc2dGbGVNRy1BUjBtbHZTcHNVcVdJdWsxbV80LUZCMzVXbjdHVVpMR0NfellPcC1ybWl4NHFYT2NiNDVQSkxCVHZUM0RoYW16Q0RwNDlBdFBCZW9jZ1BaS2JsQWR0RmZzeV8wNkk5alkwR21nT01hR05uZE4xbFF4QzV1SHh1MjEtRzVjQXFrQ3JmZkhCdUhOLVJvbGotNQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxPREVEZUoxQ0tLaGMtX2cxZkIxc2dGbGVNRy1BUjBtbHZTcHNVcVdJdWsxbV80LUZCMzVXbjdHVVpMR0NfellPcC1ybWl4NHFYT2NiNDVQSkxCVHZUM0RoYW16Q0RwNDlBdFBCZW9jZ1BaS2JsQWR0RmZzeV8wNkk5alkwR21nT01hR05uZE4xbFF4QzV1SHh1MjEtRzVjQXFrQ3JmZkhCdUhOLVJvbGotNQ?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [El ECDC unifica el cribado de hepatitis B y C en donaciones ante el Reglamento SoHO](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
 
 2026-06-22 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
-
----
-
-### [High blood pressure medication warning for millions on beta blockers and diuretics - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTUxOE0wb1BHa2x6ZDMtLXhCMWV4eWRiLW5BalBTVDd4cjFuNHhxNGNFQ01ScDhfZzY0VEw3NlA1VHRnNURtdGFGY01OVk8xa3NVMktkVV9LM3dZWFkyVklJUDZKS2JseHN1ejhZelVvbEpYd3BhRHVRMjJRMVg3Y29oSUZxVjlSWkF6NdIBkgFBVV95cUxNdFBtZjlhS0NNYnVZYm8xUFVWbEEzY2duOU9GMVB5WEZPdjJwN0RvZlNfQlpmV0VmZ2IzTUVHcE8tRFhBR2lYWGwzTFAtcmJvWkU1YjRtaW9tS3VOdUVGdlZGcEFEXzI5RFU1bjdIbEEwaU1Kd1psNWdvMW5lNjN4Y2NGOFJVQlJIX2R2YlNDdGxsQQ?oc=5)
 
 ---
 
@@ -94,11 +78,35 @@ permalink: /news/givosiran/
 
 ---
 
+### [Anyone with high blood pressure issued beta blockers and diuretics medication alert - Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJDR29UZlJhcXBodHhTaWpERnQwT21yNFZldkdzVGRoQXpaMnVVQzJLNE9neDY5QXlIY3JuWE9ycXRJNUx6eGpEUUJqcW9uVXhJTndVaWRPam1wVzMwQm0ySy1fT0JCQ2pJbm1ZZFVoVGhnY1pyWnAwZlFCaHQtaGptUm5WN19TeV80bkZIOFNvQzVrQUUtQmR4eUNfNXhBQ0k3MDhOTkQ4eHNsSTlhWnJIZnVEaktxLWlUdEFPYjRFUdIBxwFBVV95cUxOZVZaUEtOSUhVcG5IbTRzT2JST2tmTjN1ZDZNUWZYdVpjNS04cnBCU1NRaXVFSjhfSWQxaEFiYWJVYWRaeGZ0dzFnbENtQllNenBnOE9rNVV5MEZyc2dOa3ZpUmhrbjdMM3NVaGZzbmxFSGhuWENyVnZ3SklqdUItekVjMG9ISjUxWWl5Q1J0LUlDMFZhMlB4SVAzcU1NTkhXcC1SajdXdW9FbUVTRGZESHgzSTg5MzZQMGtRMk9iN2JLQ3U5RFRR?oc=5)
+
+---
+
+### [Bluthochdruck und Demenz: Omega-3-Debatte bringt neues Risiko-Fenster - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHl2OU1HY3lOY05OZGQ1aFpyMi1hMmlzMGgxSE84a0xWOWNtTk51elBEMGVzYjcwQkUwd09uQUNiSU1EMWR3dG5JRGt5VVlCRFBZTjlhVTZJc2tKLWkyRDVKUUpyOHEtR0oyRXpXdEFvLUp1dUtkZEJDQ3h4b2lPWTVaNjZoUGN5WmJtbEplWGhCM3Y4cVVTWm5oQzl1Vi1nVkE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHl2OU1HY3lOY05OZGQ1aFpyMi1hMmlzMGgxSE84a0xWOWNtTk51elBEMGVzYjcwQkUwd09uQUNiSU1EMWR3dG5JRGt5VVlCRFBZTjlhVTZJc2tKLWkyRDVKUUpyOHEtR0oyRXpXdEFvLUp1dUtkZEJDQ3h4b2lPWTVaNjZoUGN5WmJtbEplWGhCM3Y4cVVTWm5oQzl1Vi1nVkE?oc=5)
+
+---
+
 ### [Täglich verzehrte Lebensmittel: Acht Zusatzstoffe könnten Bluthochdruck begünstigen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
 
 2026-06-21 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Ntv](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSktoT3R0MUNxM2ZDS1ljM2FoMGo2ZDdyZVhVUTUwNlBha0Y0SGE0b09pb0lYRDIweno0cXlzN0p3MFlKRDdna2xHelMtVDVaN3hDQUtDYTlWeUZqWUFLWFJnbVJoMldjZ1FCTmh5RHMzc2hMN0NIbzNodGljOWphM0NWNkV4b184NDdUZll0OFcwSl9hMHVfUVZqM0s?oc=5)
+
+---
+
+### [6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians - Verywell Health](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEZ0dmxtRVJTNkRqWDNadjd5cFMxdUNfb1drRjJFbWR4RFJUYlNxMmZSdi13T2tHYVVoVXhBdjJmcWlBRW4xV25CMGliOG1tQnJLbGRhUnhoQXJPN0JNcmo3ZHo3TkZwVWpobUo2ZjRTNTVnUkFqTUxsdzBid0Nucmp3?oc=5)
+
+2026-06-21 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Verywell Health](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEZ0dmxtRVJTNkRqWDNadjd5cFMxdUNfb1drRjJFbWR4RFJUYlNxMmZSdi13T2tHYVVoVXhBdjJmcWlBRW4xV25CMGliOG1tQnJLbGRhUnhoQXJPN0JNcmo3ZHo3TkZwVWpobUo2ZjRTNTVnUkFqTUxsdzBid0Nucmp3?oc=5)
 
 ---
 

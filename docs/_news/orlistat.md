@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（8 則）
 
 ### [Mum's stroke death investigated over Covid jab](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNktyaE9ZaXh2VTIwSkg5RmlnRlNQR0tsTjBJeEItUGR5R0FQNlVfUU41d2dmRzZVUG9tTGE0N29qdVJaMWxhVFpiMzhnV1Vwai14dlg2RkVwX2xM?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Investigan, bajo el enfoque epigenético, cómo proteger los vasos sanguíneos en la obesidad y la diabetes - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmhFenZWODBsM1R5SWI1WVFiLVAwcXlDNWpMSE1TZ3pRcm5ZdzFRbGdhd0FZSEJZeG1zNUQ4R0ZRRlU5OTkzMzVDekxXREkwdDFNUWluUi1aT1FaeWkxZXIwb0tlX3lmYnR3OWZqM2M2MGZqOVppWEc0M2pOQWNfUjljcDhTOWFZd2NGMmdYeHYtRTh3UGtJTVVhRU5IN0paZThLUTZId2hWcFpMbWQxdURQMDJtSlhYTFVEVWtB0gG4AUFVX3lxTE1ZWEVfOWt4T3NhMEs4WUdXRmh3UTh3TXI5QUZYZ0lVWHRGTWNtRnplX0h3cWJpbThLLXdWaEFLWlgtOXdBN1VhcUFUWDFrMFdiZlpia2dLcmE5RmYwUGdVNm5kNV9WS242RVRBSDR6aE9TS0VGM25hVGxpakhUaUtUNG9wRnVCWDU2QjR1c0ZTN215NHY2SjE1cXpld28xNUYtZGhzMTVseFBLN2xZcmtZb1hWRUVxWWc?oc=5)
+### [Investigan, bajo el enfoque epigenético, cómo proteger los vasos sanguíneos en la obesidad y la diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0J0V2Y1ZTRqOFdETTFTaHdaMXdBd2pob003Q2VvZUtXd1RrTS1Tckc2MUdGVGZFREszcVFlNVltbEJnS21Dd1czYUhtMGpId3hQX0FSRXJLRjE2UnF4SVJxOXN3Q2dyeGg1ZHFGNHE4cjNVckg3dnFfbDBFemZrSEtrZ3YyUng3VDNUWTBOS0RCWnBKLUp4QUdBRE1DRHlWckROZmE5T0tuSFdvaXl4ZWRR0gGsAUFVX3lxTE8xYThKc1NyLXhpNGF6MVdkME9RZ1Y3ek45TXR1eFk4MzhfYTRzMEZ2NXBuOGk2dy1aLXBfQ0xOZW5xc0UzcWMyelNiX21WODk2cGMzSnU4Q3J3S1BMMmJJUjFfM243SHlaTUNDWEhpdElCbW8tN3ljTUExWWJyOHdoNmJ2TkRoRWRXdmRudUVfcDc3dHU5SUNnYTRFaEFEUnRkX2tCc2JPSjMwZzM?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmhFenZWODBsM1R5SWI1WVFiLVAwcXlDNWpMSE1TZ3pRcm5ZdzFRbGdhd0FZSEJZeG1zNUQ4R0ZRRlU5OTkzMzVDekxXREkwdDFNUWluUi1aT1FaeWkxZXIwb0tlX3lmYnR3OWZqM2M2MGZqOVppWEc0M2pOQWNfUjljcDhTOWFZd2NGMmdYeHYtRTh3UGtJTVVhRU5IN0paZThLUTZId2hWcFpMbWQxdURQMDJtSlhYTFVEVWtB0gG4AUFVX3lxTE1ZWEVfOWt4T3NhMEs4WUdXRmh3UTh3TXI5QUZYZ0lVWHRGTWNtRnplX0h3cWJpbThLLXdWaEFLWlgtOXdBN1VhcUFUWDFrMFdiZlpia2dLcmE5RmYwUGdVNm5kNV9WS242RVRBSDR6aE9TS0VGM25hVGxpakhUaUtUNG9wRnVCWDU2QjR1c0ZTN215NHY2SjE1cXpld28xNUYtZGhzMTVseFBLN2xZcmtZb1hWRUVxWWc?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0J0V2Y1ZTRqOFdETTFTaHdaMXdBd2pob003Q2VvZUtXd1RrTS1Tckc2MUdGVGZFREszcVFlNVltbEJnS21Dd1czYUhtMGpId3hQX0FSRXJLRjE2UnF4SVJxOXN3Q2dyeGg1ZHFGNHE4cjNVckg3dnFfbDBFemZrSEtrZ3YyUng3VDNUWTBOS0RCWnBKLUp4QUdBRE1DRHlWckROZmE5T0tuSFdvaXl4ZWRR0gGsAUFVX3lxTE8xYThKc1NyLXhpNGF6MVdkME9RZ1Y3ek45TXR1eFk4MzhfYTRzMEZ2NXBuOGk2dy1aLXBfQ0xOZW5xc0UzcWMyelNiX21WODk2cGMzSnU4Q3J3S1BMMmJJUjFfM243SHlaTUNDWEhpdElCbW8tN3ljTUExWWJyOHdoNmJ2TkRoRWRXdmRudUVfcDc3dHU5SUNnYTRFaEFEUnRkX2tCc2JPSjMwZzM?oc=5)
 
 ---
 
@@ -86,19 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [El negocio del siglo: Las farmacéuticas desatan una histórica ola de millones para dominar el mercado de la obesidad - Gaceta de salud](https://news.google.com/rss/articles/CBMilwJBVV95cUxQWk4xb2k4NklIQlR1OEl5QVpCTXZySUVWZDNWeW5LOThEeU1uanhvLW1uNDdkbFRmSGs0NTJHN0ZsVWU0YnJNUWZvNktIUGJpd2pIYkxfMzk5Nk5oTG9PSURoaHpxM1UzZ21HOXRBek5lQnNYdEVCX2FjaERkVWlVai1uUDhaTDE0UTVCZjl0N19uUFdzdFhYaGgtaG5XalpycEwtUWIycVdhS1ZPbjVidVJDbzNwMlBYR0ZTUGgzVmpTME42OGo3TXBSRHBySm55ZEVZT1l4Q3JWSk1neVhNNHBZdDZiZDQ1S0FZaGQ3OWliT1JIbDVJMklHcnpnWi1mYUpST3VrQ1pRTXhCWURIMEN2dVFLSXc?oc=5)
-
-2026-06-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMilwJBVV95cUxQWk4xb2k4NklIQlR1OEl5QVpCTXZySUVWZDNWeW5LOThEeU1uanhvLW1uNDdkbFRmSGs0NTJHN0ZsVWU0YnJNUWZvNktIUGJpd2pIYkxfMzk5Nk5oTG9PSURoaHpxM1UzZ21HOXRBek5lQnNYdEVCX2FjaERkVWlVai1uUDhaTDE0UTVCZjl0N19uUFdzdFhYaGgtaG5XalpycEwtUWIycVdhS1ZPbjVidVJDbzNwMlBYR0ZTUGgzVmpTME42OGo3TXBSRHBySm55ZEVZT1l4Q3JWSk1neVhNNHBZdDZiZDQ1S0FZaGQ3OWliT1JIbDVJMklHcnpnWi1mYUpST3VrQ1pRTXhCWURIMEN2dVFLSXc?oc=5)
-
----
-
 ### [Trastornos mentales graves se asocian con mayor riesgo de demencia e ictus, según estudio - Diario de Salud](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG41NFoybWFXdTNUSU5STDkwN2FJRkYxX3ZrZEItUkZqNEZGTlNCN2ZBU2VCQ1RiOEtNU1dmNXJYTHV2dzJiOU5USnN5bzgwRncxamdCQ1hjYnhKcHZpWG8xTTNySEsyTnNnU2t5VlN3WFAwQXliektUWnZNUHBpZTFJVW9vd1BhNFBaWk1mc1hJVHVYVW5TSHRscm1tNmdYUDdTdi1nUlZUQVYzRFAyZTltbF9GTXlfZ3BMMFZqNEEtS29wclRHVUtzUkRmN01EZE91SUs2aw?oc=5)
 
 2026-06-22 <span class="news-indication-tag">ictus</span>
 
 來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG41NFoybWFXdTNUSU5STDkwN2FJRkYxX3ZrZEItUkZqNEZGTlNCN2ZBU2VCQ1RiOEtNU1dmNXJYTHV2dzJiOU5USnN5bzgwRncxamdCQ1hjYnhKcHZpWG8xTTNySEsyTnNnU2t5VlN3WFAwQXliektUWnZNUHBpZTFJVW9vd1BhNFBaWk1mc1hJVHVYVW5TSHRscm1tNmdYUDdTdi1nUlZUQVYzRFAyZTltbF9GTXlfZ3BMMFZqNEEtS29wclRHVUtzUkRmN01EZE91SUs2aw?oc=5)
+
+---
+
+### [Las farmacias de la región triplican las ventas de los nuevos fármacos para adelgazar - El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
+
+2026-06-21 <span class="news-indication-tag">obesidad</span>
+
+來源：[El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
 
 ---
 
@@ -110,35 +110,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Obésité : un nouveau parcours de soins remboursé pour les adultes concernés](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjZ0a0Q4VjVwa19PdU9CWVc2NTVvOWxDRTVpOEQyTUtBQ1NKdnBHR1VQdmV4N3RBYjlTSGl3eTJVR3cwZXBZX2hYOFI4OWEySjljb05DUEQzODNWMndPeHQ4MjdRQ01tQktyQ2lub2RscFQwT3lUVFV5M3dYU0UwbTA0MjIxOVFEOVJndElURDBxQk1CUFJ1TkIzcHlFWks1aWRIVGlaTQ?oc=5)
-
-2026-06-21 <span class="news-indication-tag">obésité</span>
-
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjZ0a0Q4VjVwa19PdU9CWVc2NTVvOWxDRTVpOEQyTUtBQ1NKdnBHR1VQdmV4N3RBYjlTSGl3eTJVR3cwZXBZX2hYOFI4OWEySjljb05DUEQzODNWMndPeHQ4MjdRQ01tQktyQ2lub2RscFQwT3lUVFV5M3dYU0UwbTA0MjIxOVFEOVJndElURDBxQk1CUFJ1TkIzcHlFWks1aWRIVGlaTQ?oc=5)
-
----
-
-### [La fiebre de los medicamentos para adelgazar: Castilla y León triplica su consumo en cinco años - Heraldo-Diario de Soria](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWpvbDdWLW5JaGd6aEVkeHltQzB2dWRoVHJaOTBSZ3FKR0I2RHJvUDVEMUpiZmFJczZoVndocmtSSVhKeTAtR3VrYTQwUTBxYVhPMEQzVTlHQlFlcW5QSTNJUVljcFRRbkNOLTRLUUxsOThxenhuZzc0TGVrTWduSkpWVFVxbUZaX3p3dnU0cjVmNXp6M3JyRkVfQ2dVc1dzVjlTUksxRUhURDEwd0lPQ3NFbkJLMVhUdlRkUGhZdDBuNHJDeDJyOUw3dnZnS2ZKRngzZVhRUElUUdIB3wFBVV95cUxPTVFac2hsNEdwY3E2b0c5V2ZaNzUzVUZnc0hJQjNFR0JtRGZtX2F6VU9XWmowUGxWTHJBM0ZxWmE5RkZwenQ3TjNLZkFrUnFxOElwSEdCV0VQT0tSbW1TYkR5ZGQ0Q1JqV1JVbDNVQzRRMHVJaDV2QURSV08zeUtjVTlrbnBIRm5GN0JhU016NEVfSi1TaHBXdTFtTjFPOGUxQjZmOGZXZk51a25iaDFEdzZzblRpWl9ucnJoTjFnYzBJSU5qblZXaEZhSk1nMWFVQ2xvempfY3J2azkwZlNJ?oc=5)
-
-2026-06-21 <span class="news-indication-tag">obesidad</span>
-
-來源：[Heraldo-Diario de Soria](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWpvbDdWLW5JaGd6aEVkeHltQzB2dWRoVHJaOTBSZ3FKR0I2RHJvUDVEMUpiZmFJczZoVndocmtSSVhKeTAtR3VrYTQwUTBxYVhPMEQzVTlHQlFlcW5QSTNJUVljcFRRbkNOLTRLUUxsOThxenhuZzc0TGVrTWduSkpWVFVxbUZaX3p3dnU0cjVmNXp6M3JyRkVfQ2dVc1dzVjlTUksxRUhURDEwd0lPQ3NFbkJLMVhUdlRkUGhZdDBuNHJDeDJyOUw3dnZnS2ZKRngzZVhRUElUUdIB3wFBVV95cUxPTVFac2hsNEdwY3E2b0c5V2ZaNzUzVUZnc0hJQjNFR0JtRGZtX2F6VU9XWmowUGxWTHJBM0ZxWmE5RkZwenQ3TjNLZkFrUnFxOElwSEdCV0VQT0tSbW1TYkR5ZGQ0Q1JqV1JVbDNVQzRRMHVJaDV2QURSV08zeUtjVTlrbnBIRm5GN0JhU016NEVfSi1TaHBXdTFtTjFPOGUxQjZmOGZXZk51a25iaDFEdzZzblRpWl9ucnJoTjFnYzBJSU5qblZXaEZhSk1nMWFVQ2xvempfY3J2azkwZlNJ?oc=5)
-
----
-
-### [Wie epigenetische Medikamente Blutgefäße bei Adipositas und Diabetes schützen können](https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTQyZ2swUXEweVR2WTVtd2FTRW85RmNRck5NdUhUWGFPSktVQnkwdGFLSFRJRVlBZ1VQd09RVUFadU1IYjFjUU9hQU00RTdjUG85Z25QWFJQajJnOENveWpDaGQ3SlhoNGdzRDRqenQyeDV6aVVEM3hNd2RyaGZLU25TLXcwbHlBSkxYd28tOUpjT1FiOVJGbWJwTTRRVF9DeGVvbE9lYVFrWlBQVzFYamlnTFlwbnVNREJNTHczWTliN2dyVXc?oc=5)
+### [Diabetes-Therapie: BET-Inhibitoren umprogrammieren Fettgewebe epigenetisch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
 
 2026-06-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTQyZ2swUXEweVR2WTVtd2FTRW85RmNRck5NdUhUWGFPSktVQnkwdGFLSFRJRVlBZ1VQd09RVUFadU1IYjFjUU9hQU00RTdjUG85Z25QWFJQajJnOENveWpDaGQ3SlhoNGdzRDRqenQyeDV6aVVEM3hNd2RyaGZLU25TLXcwbHlBSkxYd28tOUpjT1FiOVJGbWJwTTRRVF9DeGVvbE9lYVFrWlBQVzFYamlnTFlwbnVNREJNTHczWTliN2dyVXc?oc=5)
-
----
-
-### [Obesità, svolta in Lombardia: ai pazienti fragili la Regione rimborserà i nuovi farmaci](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelZLNVpJcF93eWFzQ00yRXlTdFlTdXNyZDh4Z2VkTk10RGpTTGZVcU81ZWp0cjgxRlVpcFFpb001UGZFZG9CRUxaRllxekpxTkJzMi1OOEw1aWRkYWd5ZVhINF81X01SNVhYWlJCSnRoaEVub1ZteWFlQU1ucDJVMEY1UUVmUTlVa01Lcm9TR0F5OVE1RjgxaWZIMHd1NTVzclBWTk5iY2V5MmphWGxZVk1KeWNhVGpnSG5MVFBYUzdWTU54OUczRg?oc=5)
-
-2026-06-20 <span class="news-indication-tag">obesità</span>
-
-來源：[Pharmastar](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelZLNVpJcF93eWFzQ00yRXlTdFlTdXNyZDh4Z2VkTk10RGpTTGZVcU81ZWp0cjgxRlVpcFFpb001UGZFZG9CRUxaRllxekpxTkJzMi1OOEw1aWRkYWd5ZVhINF81X01SNVhYWlJCSnRoaEVub1ZteWFlQU1ucDJVMEY1UUVmUTlVa01Lcm9TR0F5OVE1RjgxaWZIMHd1NTVzclBWTk5iY2V5MmphWGxZVk1KeWNhVGpnSG5MVFBYUzdWTU54OUczRg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxONmRmcmJPcHFKUEZBd1R0NWFCcW1GbEhUTnJBNTk5OEcxNEdNeHRuZmlPblp4VnN1NzBPbnhZbUc0WFRmU3hNNzlkT1ppNmZDdEdUbFRFWFNab29jTjFlcFVMUVE3WXIySGxnWWJvQ2lBeTBiV3A4cXBDUlQxRHBpMUJRUDhoRFZZMGNSZExiM3JiajN4ckJjY3diaVR1YjF4WEpRZy15ck1ZWWZqSHVBSXV2bzNrNUI3aXNPbk50OA?oc=5)
 
 ---
 

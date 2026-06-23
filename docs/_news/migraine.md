@@ -3,7 +3,7 @@ layout: default
 title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。5 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。4 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>5 則</strong>相關新聞報導，49 個相關藥物。
+<strong>migraña（migraine）</strong> 目前有 <strong>4 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,7 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [El calor del verano puede empeorar las cefaleas y migrañas, aunque rara vez es la causa directa del dolor](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2NneGpZZ2cteDItNld2c2EzTWJhTVFoaHRScVdiS1hnb0ZqS1p1V2V2aE9sMy1BbU56Y0FoSjFIamFRTEVwTXlOTHVTWDJtZWVWTTFzUFZ2UVE0eTBKMmRsdEo1ZDlVRmJyRG1ORXpLUE5mN2l6VTJPTkFmczNYenpFZEVSN0NpNmNvY2h1SW45RnBkX2l1YWt5QXBKYlJaN0Q1OUVVY1lMc3cxTGpZcDBYMnJ2aW80RE4xZ3JabFhQem9oVHRnTnR2ZU9MbE8yTk5PQ3JXZ1VrUQ?oc=5)
 
@@ -100,14 +100,6 @@ permalink: /news/migraine/
 2026-06-22
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
-
----
-
-### [Deutsche Akademie für Präventivmedizin fordert mindestens 20 Euro pro Schachtel Zigaretten](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
-
-2026-06-22
-
-來源：[lifePR](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTdPRE1XaTdZbGs3eWxhRWtaMjR2bFBfMVpEeEMwNE5DLUR6bVpNOEpxOGxDbWc0Tkh1dDJySENZeThUdWVYeGlWTU5sSHV2RHQzUmc0MXUzNGhXTk1CbzI5WUZCdVIwc25NYkFqZU5sSVdBcUZsNzJyd1FYWFFoTklYVDlsYnJma1VMeTNUUEtxbjcxaXdUdXhnNzZlWDM2bmUtaDFoMFNjRlNRNTZhbUdOVEtfTk00MDdvX0hSWFhhTDF2aDF1bzY4cF9Dek1GeWk0TThva1I3Xzh4VjVmV003cTNTUktlRHlWeVZvYzVJSTB5Z1pyLTBncnVlTjVPUVcyUGRweDJwNTFnbzJGSzVxcUFUbkJVd3c?oc=5)
 
 ---
 

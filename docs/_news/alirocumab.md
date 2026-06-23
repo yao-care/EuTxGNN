@@ -56,7 +56,7 @@ permalink: /news/alirocumab/
 
 ### [Freedom day: British passengers on ‘rat-virus’ cruise ship leave lockdown - The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2Z0c0pBTzVndjJLdFd6U1JsT0xHVUxpU2JtYlJjYngwRVdRNDl6ZlE0TWFrcW93Ri1fWUpoQkg5dmx5eFprc3ZIQl8wczh0UlZNc1lsdWY1RF9mam44TDBfM3dXUFhxcEd1Y1VSLUItd0JFQnMzMTBKSzFuaHZNd3BxbXNWOEVxaVdySWJTWVYxTDRsOW53TzZNVlIxMFEtRjBqZ0c1YVkybUtvMzRFZGFiZkd1QQ?oc=5)
 
-2026-06-21 <span class="news-indication-tag">CKD</span>
+2026-06-21 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2Z0c0pBTzVndjJLdFd6U1JsT0xHVUxpU2JtYlJjYngwRVdRNDl6ZlE0TWFrcW93Ri1fWUpoQkg5dmx5eFprc3ZIQl8wczh0UlZNc1lsdWY1RF9mam44TDBfM3dXUFhxcEd1Y1VSLUItd0JFQnMzMTBKSzFuaHZNd3BxbXNWOEVxaVdySWJTWVYxTDRsOW53TzZNVlIxMFEtRjBqZ0c1YVkybUtvMzRFZGFiZkd1QQ?oc=5)
 
