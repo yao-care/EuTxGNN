@@ -3,7 +3,7 @@ layout: default
 title: "Morbus Crohn（crohn disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/crohn-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/crohn-disease/
 ---
 
 <p class="key-answer" data-question="Morbus Crohn（crohn disease） 有什麼相關新聞？">
-<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/crohn-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
 
 2026-06-23
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+
+---
+
+### [One underlying cause of inflammatory bowel disease pinpointed in new study - Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFpCTlNmN0IwRGhvVDVQQzFCb1JfcWhyZVEtTTBjMERSQ3RoYW5Td3BXcGlNellPX01Ga0YxZFJzaXZ0SEVTUjNtZzNDX3QzU0JKbmoySGtUbmQxUUtvdW1tLTBhN21OdkJqVHdPODlHNVN4UDRpU1FaMHlqc3R1Z2tvS0JRWWVWTWRtMkVNNlc2U095djZiTWlBb09DOE9IM3ZGRGhkRGNnY0pJS3hYcUtiTnc2dGlERUtVYWg5TXc?oc=5)
+
+2026-06-22
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFpCTlNmN0IwRGhvVDVQQzFCb1JfcWhyZVEtTTBjMERSQ3RoYW5Td3BXcGlNellPX01Ga0YxZFJzaXZ0SEVTUjNtZzNDX3QzU0JKbmoySGtUbmQxUUtvdW1tLTBhN21OdkJqVHdPODlHNVN4UDRpU1FaMHlqc3R1Z2tvS0JRWWVWTWRtMkVNNlc2U095djZiTWlBb09DOE9IM3ZGRGhkRGNnY0pJS3hYcUtiTnc2dGlERUtVYWg5TXc?oc=5)
 
 ---
 

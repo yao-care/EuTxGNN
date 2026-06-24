@@ -14,7 +14,7 @@ permalink: /news/liraglutide/
 ---
 
 <p class="key-answer" data-question="Liraglutide 有什麼相關新聞？">
-<strong>Liraglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Liraglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/liraglutide/
 <p><a href="{{ '/drugs/liraglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
-### [El ADN revela la relación entre la obesidad infantil y la diabetes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+### [GLP-1-Agonisten: Alzheimer-Risiko bei Diabetikern um 33% niedriger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZm5SdHR4YUU2RWlfaDFITElGZ0FKWVprTzRqVGdjdkZsT3B6WDVzbUZlTFF6VVY5NnMzM0g4QmZ4ZzJKUXdGQy01MDFVQVRnUEVDTnBWVTN2dTExSUcxSTBxN0RoeERuMDdXcW9LQ3FpQUQxVkdzZjNQMXhlbGlCQ3ZHUEtteU1qWkR0cXRWdEJtckRQaW9QNmoxbnR4Q0s2YjlyMi1zMWlUdXNiX2Vua1FmTTN5VGdwd1VHTGxR?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZm5SdHR4YUU2RWlfaDFITElGZ0FKWVprTzRqVGdjdkZsT3B6WDVzbUZlTFF6VVY5NnMzM0g4QmZ4ZzJKUXdGQy01MDFVQVRnUEVDTnBWVTN2dTExSUcxSTBxN0RoeERuMDdXcW9LQ3FpQUQxVkdzZjNQMXhlbGlCQ3ZHUEtteU1qWkR0cXRWdEJtckRQaW9QNmoxbnR4Q0s2YjlyMi1zMWlUdXNiX2Vua1FmTTN5VGdwd1VHTGxR?oc=5)
+
+---
+
+### [Diabetes-Risiko: Magnesiummangel und falsche Ernährung im Fokus](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjgyU0k3Mnd6c080d3JkaHFwQzVaVUgzQ2E5Tl91Y2xHVzU4b2E1TFJTX0xCNl9HSHE1bjkxdWZyRkF3d05FS3VvX0M5amFnckVyRHNEd1pTMkRjQS1XTE9WX2Q1Z0J5RHdtRHRXNTNyRThMUHhCNjVUeGVNMUZDNnN2elVlWm04SEtoQ1ZqWDhjMTYzeXFYbEdlNEpoUzBQOGNxWGhES1V4THJuZzVnaEZB?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjgyU0k3Mnd6c080d3JkaHFwQzVaVUgzQ2E5Tl91Y2xHVzU4b2E1TFJTX0xCNl9HSHE1bjkxdWZyRkF3d05FS3VvX0M5amFnckVyRHNEd1pTMkRjQS1XTE9WX2Q1Z0J5RHdtRHRXNTNyRThMUHhCNjVUeGVNMUZDNnN2elVlWm04SEtoQ1ZqWDhjMTYzeXFYbEdlNEpoUzBQOGNxWGhES1V4THJuZzVnaEZB?oc=5)
+
+---
+
+### [Identifican marcas en el ADN ligadas a la resistencia a la insulina en niños con obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
+
+---
+
+### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
+
+---
+
+### [Fasten senkt Bauchfett und Diabetes-Risiko: Studie, Grenzen und Trends 2026 - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
 
 ---
 
@@ -67,22 +99,6 @@ permalink: /news/liraglutide/
 2026-06-24 <span class="news-indication-tag">diabete</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPNXpPRXdSalF1UkVJNzFxNGRidmt4ZDZUeHRFMzR1Q2lSNzFaQ1Bob1NPSEJZeFl1Y0kwbE9DeWZfLVF0LWNDZDNLN3JfcmgyaVRkX3RTMDNZaU5HSEV4eDZacmpuRFNlQ2t6cDdoTmxCLVVpU2R4eUhYQzJ4YWF6aXVKR3V0TG9FRFpkTlg0QmNTTFBySXNLWDRRdmsxdGxfemotQWFGU1VJWE4zTzhoOXRCTXdqbnpwUENUcUtwb19hREpSZlZ6cl96QzZ4Z2dKNFFHeHNlX2VyTEFqeXNEWTN5Uk83eGhxZldNSlloY1ByQVl0NmI5cUctbHVFaWdTbnF0V3l6ZXhnUTNVYURlbzRTWHVlakF0NmhCOXJmbHJoQjhWUi1taEk4eGp0VWM2MzZEZTE0aE1hOHlZLTM5QndGQTg0Z3AtOVM2VtIB0gJBVV95cUxOdFB0c2FvSzlCa0E3blZLMEV1Z1pLSm54SVlZejFqN2VUdUNWUUVKbFlkaGxnekFobS1GTFE4d2hRZFFRWDVQNzN5V0h5WmlvTmtMTmNOaVV5ZnRhLV9McmxQOGxuRWhXQVVGR1NrZGJXeUV5dFZGT3RFZEpDcmVMMUJmWlRhRDVFQ21veG5zX01UUG42cjd1RDNKV2NkSGgycndOaWlONV9qTTdqTlJmSWQ4N0pMMWgwWFJZanlTZmg3RXYwa2pBb3NLTHRaaGE0R2d3LWVLOXdWYWNJeVkxanpidGJtcUMxSTZGc0hpUFdPMHR2UGlJUFhVMk5QTHB1QTZVXzFhTWlSVnlESjIydTVjd1EwOHd2WkNDdHZXQ0dCZFZWWDg0T2xvM25XbEtuUkdPWk92VU1Sa2p3SWEwbVZFend2bTFxZGRya0NaUmNzUQ?oc=5)
-
----
-
-### [Alzheimer-Risiko: GLP-1-Agonisten senken Erkrankungsrisiko um 33%](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUpMZzlIdzZtdlZEcWpIZlplM2lobkJHNVdPck9lRHEwZmtNTXBxN01rc2twdHMxalJTdlB0NnZEcHljQWM3NVVXMWZPU0lrem9tSURRS1JNTnAtS0RCWXZZTDRBX2tDcVF4OVBiVWNmU09YTnlIM1pBbWk0cVhycFRyZUd6bDBZdzItNENCZUV4dzdNQTR2Y0hFTGY5ekZBT0t0TUJlbEZsWWY0NnE4LWt3Rlg2Zi0tVVVhMA?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUpMZzlIdzZtdlZEcWpIZlplM2lobkJHNVdPck9lRHEwZmtNTXBxN01rc2twdHMxalJTdlB0NnZEcHljQWM3NVVXMWZPU0lrem9tSURRS1JNTnAtS0RCWXZZTDRBX2tDcVF4OVBiVWNmU09YTnlIM1pBbWk0cVhycFRyZUd6bDBZdzItNENCZUV4dzdNQTR2Y0hFTGY5ekZBT0t0TUJlbEZsWWY0NnE4LWt3Rlg2Zi0tVVVhMA?oc=5)
-
----
-
-### [Fasten: 10% weniger Bauchfett senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTS00UWgwT25JcFNYQ1l2aVo3S29qMUE1RVZpVEpORGNrajVyNC1fYU56QVktQ1VkREh2SmdwNmFSOFAxTjFiV296ZVJScEE0eDdNZHpiNmdWNFJuSW9MMGZvdmRKQXdJTVRIbTRKWEw0Tmotcl9kNnVmV1FqVDg5Z05GdVJDbk9nQnBzWnhBZ3ptT0lIc0s1VEFjcXNSbDhfczlDdUJfYTI2QjlxTVZZMEhjeGNiVmlvUHpiLQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTS00UWgwT25JcFNYQ1l2aVo3S29qMUE1RVZpVEpORGNrajVyNC1fYU56QVktQ1VkREh2SmdwNmFSOFAxTjFiV296ZVJScEE0eDdNZHpiNmdWNFJuSW9MMGZvdmRKQXdJTVRIbTRKWEw0Tmotcl9kNnVmV1FqVDg5Z05GdVJDbk9nQnBzWnhBZ3ptT0lIc0s1VEFjcXNSbDhfczlDdUJfYTI2QjlxTVZZMEhjeGNiVmlvUHpiLQ?oc=5)
 
 ---
 
@@ -118,35 +134,11 @@ permalink: /news/liraglutide/
 
 ---
 
-### [Caen los mitos sobre comer fruta de noche: no es bueno, es buenísimo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
+### [Prädiabetes-Remission: Sterberisiko sinkt um 58 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
 
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
-
----
-
-### [Diabete tipo 1: l’IA gestisce la glicemia senza aspettare i sintomi - Agenda Digitale](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDVadjFYY3dBRTE0emFLRzVqRVpseXlqTFpMRkktSmlfZ3NvVndpVUFwQ2VYNTMzQUpmUnM1ajdGMWppNHJublBLZE1GMGZZRWthVHhyc191cjN4OF9QV18zal9rMFA4MGFDbTJvREdXMHhyalhiVFBaUjdLRzN5U2xLdEJEckY0TWxJSnRRMVVVeTBsTmNPZE1mekRmVHpYVVlEUUhB?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabete</span>
-
-來源：[Agenda Digitale](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDVadjFYY3dBRTE0emFLRzVqRVpseXlqTFpMRkktSmlfZ3NvVndpVUFwQ2VYNTMzQUpmUnM1ajdGMWppNHJublBLZE1GMGZZRWthVHhyc191cjN4OF9QV18zal9rMFA4MGFDbTJvREdXMHhyalhiVFBaUjdLRzN5U2xLdEJEckY0TWxJSnRRMVVVeTBsTmNPZE1mekRmVHpYVVlEUUhB?oc=5)
-
----
-
-### [Susanne Reger-Tan im Interview: „Diabetes verdoppelt das Herzinfarktrisiko“](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS1dzS3o4SFh0MlhRdTdsV1lhTXhNMGRBdWk3OGtlbFpuSHJNM1pJeHJzLU5kUTkzNkFoQnZiWVZxSktrbklkY3NzUXM3elRWOFdoV181MUtkcnR4OHdzczZFSmkwT0t6ZENKeWRwQ1ZXTGV0UE9ZWnJVdmJvWFl3cjZlWklicTF4eHp0VzQzZEtWMnltT3pLcV81dHl1dWFmZVJXMkRuSUthZ2JVSkpGWnBrWnIzSG5haEMxUmJTdmFJSjk1U3JTRg?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[NWZonline](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS1dzS3o4SFh0MlhRdTdsV1lhTXhNMGRBdWk3OGtlbFpuSHJNM1pJeHJzLU5kUTkzNkFoQnZiWVZxSktrbklkY3NzUXM3elRWOFdoV181MUtkcnR4OHdzczZFSmkwT0t6ZENKeWRwQ1ZXTGV0UE9ZWnJVdmJvWFl3cjZlWklicTF4eHp0VzQzZEtWMnltT3pLcV81dHl1dWFmZVJXMkRuSUthZ2JVSkpGWnBrWnIzSG5haEMxUmJTdmFJSjk1U3JTRg?oc=5)
-
----
-
-### [Nouveaux résultats positifs avec l'orforglipron dans le DT2](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
 
 ---
 

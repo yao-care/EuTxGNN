@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 
 2026-06-24 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
+
+---
+
+### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
+
+2026-06-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Convocan ayudas por 300.000 euros a entidades que trabajen en Euskadi en prevención y control de ITS - Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
+### [Convocan ayudas por 300.000 euros a entidades que trabajen en Euskadi en prevención y control de ITS - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
 
 2026-06-23 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
+來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
 
 ---
 

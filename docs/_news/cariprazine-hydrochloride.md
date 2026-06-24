@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（12 則）
 
 ### [Magic Mushrooms gegen Alzheimer? In einer Einzelfallstudie besserten sich manche Symptome](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZm1DNnV5Y1duR21zamtqeGNLNUkxSlZDZ29YZURvaEdYSkZ0Z084aHFQVEJBbmR6NFVDRkdzbHVlM09GVXpTNFdfdmRLTVZqakFyT2VhZ2toaV9yVFl3RXdoSlM0QnlPVzNNcHFuVTN6a1dEcUFnSUtDdC1LUU1fbEZCTEs4M3djY2FlUXA3YXBXaXRydXM1aA?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Omega-3: Studie findet geringe Effekte auf Kognition, aber Hinweise auf verlangsamtenden Alterungsprozess - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+### [Omega-3-Studie Juni 2026: 2.000 mg DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5nRkFqYVRtZDByeUpPOWd4bjAtdE13NUctelY1ak4weVhGU3RfbXFDZEVUZzNNYmc4MDlyTmRmVkNkSGRfLUoyUlR5MDZIVFVQNzMtNF9GMTBuSGtrM1lWWUIwOWRRc2RjZU9IS25IVFAzSFNsM29UOWh6T1BjekVhaDlCekZ3QVRuSHh0aW40UXJZYjhkbTBITFQwUnljZXNUVnhZYnJncVJ2bEdmcWNvTkNrQQ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5nRkFqYVRtZDByeUpPOWd4bjAtdE13NUctelY1ak4weVhGU3RfbXFDZEVUZzNNYmc4MDlyTmRmVkNkSGRfLUoyUlR5MDZIVFVQNzMtNF9GMTBuSGtrM1lWWUIwOWRRc2RjZU9IS25IVFAzSFNsM29UOWh6T1BjekVhaDlCekZ3QVRuSHh0aW40UXJZYjhkbTBITFQwUnljZXNUVnhZYnJncVJ2bEdmcWNvTkNrQQ?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-23 <span class="news-indication-tag">MS</span>
 
 來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXg5Q09hZlRWaWREQy1PdzRUYVJWbnBRTlNGTloyUG9xRFFlNTdiN2FwQk40b094MzR1SmpDRDhjTzlZNTEyRFhsZUxpYUVjSXpqREoyN2lkU3A2RFRhQjZiNVZJSGlHNzZxWno5T2t3WTdCNkNLdFQwR2lRUG5RcENTcDFpbXFaNlZjZ3N2OTFyYzhxMFBqbVpBenJCekJLZmtnYjFwRG4wMEVRUDg5Rm1Gc0NEeGhDR3R4MnpmaGt5OXc4aTl1bVVfNy1fekwzUjNrTHdSb25rQ2lFNW43UUdCSzZUa3NBQTBMQUNsaWFVOW8?oc=5)
-
----
-
-### [Tumore prostata, trattamento sperimentale uccide le cellule e riattiva l'immunità: il nuovo studio americano (e cosa potrebbe cambiare) - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
-
-2026-06-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
 
 ---
 
@@ -155,22 +147,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-22 <span class="news-indication-tag">MS</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHpHMDNCRGYxbjFsTVBPZHJpdUM5aHZvdWtNbk5RcTNYYUtiRER5RHRUYzN0OTNMeGQyUklIZzV0QUhSem55WUVVTlhIZUdBTFZCOGJfWnNvcm9WdDZNOTFlMHdjRExUc1kzSDgtVG5qV24xclhQQWFJYXgxSFczc0FSbGZPaXc?oc=5)
-
----
-
-### [Una malattia autoimmune in remissione da 15 anni, grazie alle staminali](https://news.google.com/rss/articles/CBMihAJBVV95cUxPaU92T3Y0eTl4S1EySU15ZDRQUE9qZFRFVTBRdWNjbXZwcGROTlBNd2R4cFRjbTdCZU1LTzI0cmRHUWh3ZXEyeWJBQjF6UFhGbWo0M3FpNHFQcGh2ZUxIZG5mT3ctN1EzVzVncGwtUC1QRVJpQzB0UGpOLU40VXRYeVJXX2FPZkZSQUJheE1KQWk2X1czQXd6TWV5SnRIeTlpZHBHaEloajcxMUdzbTRnSFQ5VHRFRW9ZMFY1dXVubzFnVjFNNV8xNV9uRWJMdVlVamRKTEc1VGktejB6Ynp4ZkJweVl3RnVJYXFLVV84dGNySUdTRDJFV19hc3ZxY01XRXo5b9IBigJBVV95cUxQMkZlMmxmXzVNclZIQXZLWVAzN3NOMGlpOUx6VDA4NURSQ21xbUxqZDdSTzAyZmFDSy02ZEtuQ3R1TGZPSUtMLTFBbzl2R0xLeEJMQ0g0Y0k3LVhJUTZKZ0RaSktVcE1DbFVQRGtEbW01VC1rcVh6VW10YkJnT3RuRXFoVXpZX3lpRU56ckdpUWh6a29yMDVodHpoRHFGaHhBUnR0b1ptTVlRWDJ4Y0ZuRGNZSHp2MEg1UzVNd2p5Wl9tU2MtT21ZQ1hXVnVLeGp6QXF1am1Jd2tRVmNyeGRhakFQMTE4UGFqQ2syc05sX1d1MGExRjVmdm4zcjRjeG8zb251R3JTckNlQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMihAJBVV95cUxPaU92T3Y0eTl4S1EySU15ZDRQUE9qZFRFVTBRdWNjbXZwcGROTlBNd2R4cFRjbTdCZU1LTzI0cmRHUWh3ZXEyeWJBQjF6UFhGbWo0M3FpNHFQcGh2ZUxIZG5mT3ctN1EzVzVncGwtUC1QRVJpQzB0UGpOLU40VXRYeVJXX2FPZkZSQUJheE1KQWk2X1czQXd6TWV5SnRIeTlpZHBHaEloajcxMUdzbTRnSFQ5VHRFRW9ZMFY1dXVubzFnVjFNNV8xNV9uRWJMdVlVamRKTEc1VGktejB6Ynp4ZkJweVl3RnVJYXFLVV84dGNySUdTRDJFV19hc3ZxY01XRXo5b9IBigJBVV95cUxQMkZlMmxmXzVNclZIQXZLWVAzN3NOMGlpOUx6VDA4NURSQ21xbUxqZDdSTzAyZmFDSy02ZEtuQ3R1TGZPSUtMLTFBbzl2R0xLeEJMQ0g0Y0k3LVhJUTZKZ0RaSktVcE1DbFVQRGtEbW01VC1rcVh6VW10YkJnT3RuRXFoVXpZX3lpRU56ckdpUWh6a29yMDVodHpoRHFGaHhBUnR0b1ptTVlRWDJ4Y0ZuRGNZSHp2MEg1UzVNd2p5Wl9tU2MtT21ZQ1hXVnVLeGp6QXF1am1Jd2tRVmNyeGRhakFQMTE4UGFqQ2syc05sX1d1MGExRjVmdm4zcjRjeG8zb251R3JTckNlQQ?oc=5)
-
----
-
-### [Men's health slumps in midlife – but these simple lifestyle changes will add years to your life](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BikeRadar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
 
 ---
 

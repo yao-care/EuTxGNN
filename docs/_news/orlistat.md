@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
-### [El ADN revela la relación entre la obesidad infantil y la diabetes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+### [Identifican marcas en el ADN ligadas a la resistencia a la insulina en niños con obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
-
----
-
-### [El doctor Javier Ampuero y la salud del hígado: "Cuando el organismo mantiene durante años un exceso de calorías, con una mala regulación del metabolismo, esa fábrica que es el hígado guarda más grasa de la que puede gestionar" - Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
-
-2026-06-24 <span class="news-indication-tag">obesidad</span>
-
-來源：[Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
+來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
 
 ---
 
@@ -80,9 +72,17 @@ permalink: /news/orlistat/
 
 ### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
 
-2026-06-23 <span class="news-indication-tag">stroke</span>
+2026-06-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
+
+---
+
+### [Uno de cada tres adultos padece hígado graso no alcohólico - El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
+
+2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
 
 ---
 
@@ -110,27 +110,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Caen los mitos sobre comer fruta de noche: no es bueno, es buenísimo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
-
----
-
 ### [Ce fruit d'été est "le meilleur pour votre cœur et votre cerveau" selon ce cardiologue](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
 
 2026-06-22 <span class="news-indication-tag">AVC</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
-
----
-
-### [Nouveaux résultats positifs avec l'orforglipron dans le DT2](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
 
 ---
 

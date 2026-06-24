@@ -3,7 +3,7 @@ layout: default
 title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,15 +101,7 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Arthrose-Mittel als Demenz-Treiber? Was laut Facharzt wirklich hinter dem Zucker-Alarm steckt](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
-
-2026-06-23
-
-來源：[CHIP](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Interstitielle Lungenerkrankungen bei Rheuma: Treiber von Morbidität und Mortalität](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVYUWdqSm50Y3hTOWdkUmpfMi1jc3ZieWNhNHJ4N1ZZVzgtUGRiWkROcTBoZXQ4c2E2b0NTUDhSdW02UTJpNHhGT1VqMndUMXVJc3dJQTk1UXp4c3BIRTFJQm14bHVHbnAybXc5ZGRnTlJYZk5lb09TQjhCOWNjZmtlTDRIVEhZaVluZHJ0RlI3MEZBSHdIRFplaXMtWlFWMGk5NGZSUHV6eElDYzA3aHNUMkctVGE3?oc=5)
 

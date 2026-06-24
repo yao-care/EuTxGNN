@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [El ADN revela la relación entre la obesidad infantil y la diabetes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+### [Identifican marcas en el ADN ligadas a la resistencia a la insulina en niños con obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
-
----
-
-### [El doctor Javier Ampuero y la salud del hígado: "Cuando el organismo mantiene durante años un exceso de calorías, con una mala regulación del metabolismo, esa fábrica que es el hígado guarda más grasa de la que puede gestionar" - Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
-
-2026-06-24 <span class="news-indication-tag">obesidad</span>
-
-來源：[Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
+來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
 
 ---
 
@@ -83,6 +75,14 @@ permalink: /news/ziconotide/
 2026-06-23 <span class="news-indication-tag">migraña</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
+
+---
+
+### [Uno de cada tres adultos padece hígado graso no alcohólico - El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
+
+2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
 
 ---
 
@@ -107,22 +107,6 @@ permalink: /news/ziconotide/
 2026-06-22 <span class="news-indication-tag">Migräne</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
----
-
-### [Caen los mitos sobre comer fruta de noche: no es bueno, es buenísimo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
-
----
-
-### [Nouveaux résultats positifs avec l'orforglipron dans le DT2](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
 
 ---
 

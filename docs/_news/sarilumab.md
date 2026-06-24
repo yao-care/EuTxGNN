@@ -62,14 +62,6 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Arthrose-Mittel als Demenz-Treiber? Was laut Facharzt wirklich hinter dem Zucker-Alarm steckt](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
-
-2026-06-23 <span class="news-indication-tag">arthritis</span>
-
-來源：[CHIP](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
-
----
-
 ### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
 
 2026-06-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
@@ -83,6 +75,14 @@ permalink: /news/sarilumab/
 2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVYUWdqSm50Y3hTOWdkUmpfMi1jc3ZieWNhNHJ4N1ZZVzgtUGRiWkROcTBoZXQ4c2E2b0NTUDhSdW02UTJpNHhGT1VqMndUMXVJc3dJQTk1UXp4c3BIRTFJQm14bHVHbnAybXc5ZGRnTlJYZk5lb09TQjhCOWNjZmtlTDRIVEhZaVluZHJ0RlI3MEZBSHdIRFplaXMtWlFWMGk5NGZSUHV6eElDYzA3aHNUMkctVGE3?oc=5)
+
+---
+
+### [One underlying cause of inflammatory bowel disease pinpointed in new study - Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFpCTlNmN0IwRGhvVDVQQzFCb1JfcWhyZVEtTTBjMERSQ3RoYW5Td3BXcGlNellPX01Ga0YxZFJzaXZ0SEVTUjNtZzNDX3QzU0JKbmoySGtUbmQxUUtvdW1tLTBhN21OdkJqVHdPODlHNVN4UDRpU1FaMHlqc3R1Z2tvS0JRWWVWTWRtMkVNNlc2U095djZiTWlBb09DOE9IM3ZGRGhkRGNnY0pJS3hYcUtiTnc2dGlERUtVYWg5TXc?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Crohn's disease</span>
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFpCTlNmN0IwRGhvVDVQQzFCb1JfcWhyZVEtTTBjMERSQ3RoYW5Td3BXcGlNellPX01Ga0YxZFJzaXZ0SEVTUjNtZzNDX3QzU0JKbmoySGtUbmQxUUtvdW1tLTBhN21OdkJqVHdPODlHNVN4UDRpU1FaMHlqc3R1Z2tvS0JRWWVWTWRtMkVNNlc2U095djZiTWlBb09DOE9IM3ZGRGhkRGNnY0pJS3hYcUtiTnc2dGlERUtVYWg5TXc?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [El ADN revela la relación entre la obesidad infantil y la diabetes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+### [Identifican marcas en el ADN ligadas a la resistencia a la insulina en niños con obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
 
 2026-06-24
 
-來源：[COPE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
 
 ---
 
-### [El doctor Javier Ampuero y la salud del hígado: "Cuando el organismo mantiene durante años un exceso de calorías, con una mala regulación del metabolismo, esa fábrica que es el hígado guarda más grasa de la que puede gestionar" - Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
+### [Uno de cada tres adultos padece hígado graso no alcohólico - El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
 
-2026-06-24
+2026-06-23
 
-來源：[Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
 
 ---
 
@@ -67,22 +67,6 @@ permalink: /news/obesity/
 2026-06-23
 
 來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
-
----
-
-### [Caen los mitos sobre comer fruta de noche: no es bueno, es buenísimo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
-
-2026-06-22
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
-
----
-
-### [Nouveaux résultats positifs avec l'orforglipron dans le DT2](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
-
-2026-06-22
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
 
 ---
 

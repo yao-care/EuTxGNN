@@ -14,7 +14,7 @@ permalink: /news/tasonermin/
 ---
 
 <p class="key-answer" data-question="Tasonermin 有什麼相關新聞？">
-<strong>Tasonermin</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tasonermin</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/tasonermin/
 <li><strong>原適應症</strong>：Beromun is indicated in adults as an adjunct to surgery for subsequent removal of the tumour so as to prevent or delay amputation, or in the palliative situation, for irresectable soft-tissue sarcoma...</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（3 個）：<ul>
-<li class="indication-matched">cancer（50.0%）<span class="indication-tag">📰 Krebs</span></li>
+<li class="indication-matched">cancer（50.0%）<span class="indication-tag">📰 cancer</span></li>
 <li>soft tissue sarcoma（50.0%）</li>
 <li>sarcoma（50.0%）</li>
 </ul></li>
@@ -35,13 +35,21 @@ permalink: /news/tasonermin/
 <p><a href="{{ '/drugs/tasonermin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（22 則）
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
 2026-06-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+---
+
+### [Die Leber im Blick: 5 Fragen für eine erste Selbsteinschätzung](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnVRanpnWU1lMDYxQnY5bEtVYnRseXZfRmJtQy11TG5iSElTSkQ1eTNVMEpWdW9zd1hVa1RESzgzY0FudUJlZTBxYVl0X0gzQlRXV08zZHRUVmVpQi03N0VjckYwZmdJcmhNTUVRZy1tcjJTcVlkYkpUTXV5ekp4enlhM1ZVTWx2OVQ2Y2Z1UXVNVTQ2TU5CMGVOcU00a202N1c3OQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnVRanpnWU1lMDYxQnY5bEtVYnRseXZfRmJtQy11TG5iSElTSkQ1eTNVMEpWdW9zd1hVa1RESzgzY0FudUJlZTBxYVl0X0gzQlRXV08zZHRUVmVpQi03N0VjckYwZmdJcmhNTUVRZy1tcjJTcVlkYkpUTXV5ekp4enlhM1ZVTWx2OVQ2Y2Z1UXVNVTQ2TU5CMGVOcU00a202N1c3OQ?oc=5)
 
 ---
 
@@ -53,7 +61,7 @@ permalink: /news/tasonermin/
 
 ---
 
-### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
 
 2026-06-24 <span class="news-indication-tag">Krebs</span>
 
@@ -87,7 +95,7 @@ permalink: /news/tasonermin/
 
 ### [Tumore prostata, trattamento sperimentale uccide le cellule e riattiva l'immunità: il nuovo studio americano (e cosa potrebbe cambiare) - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
 
-2026-06-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-06-23 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
 
@@ -101,11 +109,11 @@ permalink: /news/tasonermin/
 
 ---
 
-### [Genoma del cancro, a Verona scienziati da tutto il mondo per comprenderne le basi genetiche](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM3FfTVJmdTRjb0I0TjRJZnRwSTgxR0ZsSDN3S2xDVE02V3Y3dFotRHBFeHQyTHF5cnBfVFRodWFSTEFLX1dlcVkzbGZEMGlZLUV5cWx0clpoZHZlWG5acHBoVWFJTUNaZ2RxMWhYQkVoMHhjeVlEMTlDQWtmbDdSeUpsVU11U0JGTnJ4WVY1RS1Mdk8tRHV4ekdJMWVTdDQ1TFZyNkNSR0w0VzN2S3pKeV9oOV91VC0yVF9USXJuVWpIRmhjdTFlTEtIZjBwaUUzdjBHdFFmQnROX1Y5QVI2Q0ktZUZ0UdIB6wFBVV95cUxPaWx5Q0RnYklMN2ZhSHBONjRIYUhIQTVPNmc5Y00zNE9LXzhwV0NiVnNyTWFtVWJOejktWlowanRiblVJTWY2RGFwM3otbUZrd0lKTEpYTmFKYTlGYnBCZFRKdnVoRWRKSkhSenV4M2drWk5ESjllUHdGWVNwZXBrdWJTQlduOVVfMkU2bmpBOFVxQXlwVU8yajJHejI2b1pJUGZoLWRKNnNyeDBKVkNxdDlmSTVuaWpIUDI5RzNpYTJuWTVVT1hqMHBpTGRqS3pJSDkxcUxaTTFCUmJKRnFwT0RTMlJxZU5xYkRF?oc=5)
+### [A Verona scienziati da tutto il mondo impegnati nella lotta contro il cancro](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUtrNlVOaWxtdVhkME1Tc0NLZk5fYkh2c1pweUxkeEp6Z2I3OVNTQWd3ZUkxdUdiY09DWmpSNy1VRGhESGE1QVc2UVdnN3F2cmVrX2cwdXl5S010VEJLcmxib3pJZWM2aU1xS0VHZ3FoNXduX3BZemo4MnZ2YnQ5UnZaR2wxZmNpNnNqVkEzSWs3SWp1NWU2UjlDamJfSDhQM0wyZDZrdGEtRmIwakFvV0Zidw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancro</span>
 
-來源：[L'Arena](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM3FfTVJmdTRjb0I0TjRJZnRwSTgxR0ZsSDN3S2xDVE02V3Y3dFotRHBFeHQyTHF5cnBfVFRodWFSTEFLX1dlcVkzbGZEMGlZLUV5cWx0clpoZHZlWG5acHBoVWFJTUNaZ2RxMWhYQkVoMHhjeVlEMTlDQWtmbDdSeUpsVU11U0JGTnJ4WVY1RS1Mdk8tRHV4ekdJMWVTdDQ1TFZyNkNSR0w0VzN2S3pKeV9oOV91VC0yVF9USXJuVWpIRmhjdTFlTEtIZjBwaUUzdjBHdFFmQnROX1Y5QVI2Q0ktZUZ0UdIB6wFBVV95cUxPaWx5Q0RnYklMN2ZhSHBONjRIYUhIQTVPNmc5Y00zNE9LXzhwV0NiVnNyTWFtVWJOejktWlowanRiblVJTWY2RGFwM3otbUZrd0lKTEpYTmFKYTlGYnBCZFRKdnVoRWRKSkhSenV4M2drWk5ESjllUHdGWVNwZXBrdWJTQlduOVVfMkU2bmpBOFVxQXlwVU8yajJHejI2b1pJUGZoLWRKNnNyeDBKVkNxdDlmSTVuaWpIUDI5RzNpYTJuWTVVT1hqMHBpTGRqS3pJSDkxcUxaTTFCUmJKRnFwT0RTMlJxZU5xYkRF?oc=5)
+來源：[Univrmagazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUtrNlVOaWxtdVhkME1Tc0NLZk5fYkh2c1pweUxkeEp6Z2I3OVNTQWd3ZUkxdUdiY09DWmpSNy1VRGhESGE1QVc2UVdnN3F2cmVrX2cwdXl5S010VEJLcmxib3pJZWM2aU1xS0VHZ3FoNXduX3BZemo4MnZ2YnQ5UnZaR2wxZmNpNnNqVkEzSWs3SWp1NWU2UjlDamJfSDhQM0wyZDZrdGEtRmIwakFvV0Zidw?oc=5)
 
 ---
 
@@ -141,27 +149,11 @@ permalink: /news/tasonermin/
 
 ---
 
-### [3 People Have Gotten Cancer-Detecting Implants in Their Brains](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVhDWHQ1VTZfTU5WMmtrN3V2ZFg1SC15cXF3UE44RzZ5dHoyNFNrVkt2VW9lVHd2UzNkQzgtRmltTFBoQVZNVnlXLUl1emxlbnJvbGZXbVdZU0pFVkx3MVVBU2Y5NVVRS096am9tclA3T2dYWVpQTzhYSXRUUEQzOVdZZmR3emNqNmNGUVp3?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cancer</span>
-
-來源：[WIRED](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVhDWHQ1VTZfTU5WMmtrN3V2ZFg1SC15cXF3UE44RzZ5dHoyNFNrVkt2VW9lVHd2UzNkQzgtRmltTFBoQVZNVnlXLUl1emxlbnJvbGZXbVdZU0pFVkx3MVVBU2Y5NVVRS096am9tclA3T2dYWVpQTzhYSXRUUEQzOVdZZmR3emNqNmNGUVp3?oc=5)
-
----
-
 ### [Una inteligencia artificial identifica el perfil molecular de los meningiomas y predice su riesgo de recurrencia - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmFXTG40bW1Kb0RVOFl2TnZsckdwT29JYkpXRldGZkZnaFg1YmtGRnd3TmFWXzkxaFVla1ZSRlplUUhoZ0tZOGNuN1NtTlBvLUtTRWdoUTREMUNKMG5ZaDJ5c1RrZjJVamJHTk9Xd25IanRsb2xfM2ExMHlVbnFXaW14NmlpUFBDZ2RhdnBwcUptSGhoTFJzQXA1bEhFQ1ZzcmtqT0xWdE5LRmhwWkdEYnIycGhtaTVQZE9zYWJMN3RIejhYRGRUYzV3?oc=5)
 
 2026-06-23 <span class="news-indication-tag">tumor</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmFXTG40bW1Kb0RVOFl2TnZsckdwT29JYkpXRldGZkZnaFg1YmtGRnd3TmFWXzkxaFVla1ZSRlplUUhoZ0tZOGNuN1NtTlBvLUtTRWdoUTREMUNKMG5ZaDJ5c1RrZjJVamJHTk9Xd25IanRsb2xfM2ExMHlVbnFXaW14NmlpUFBDZ2RhdnBwcUptSGhoTFJzQXA1bEhFQ1ZzcmtqT0xWdE5LRmhwWkdEYnIycGhtaTVQZE9zYWJMN3RIejhYRGRUYzV3?oc=5)
-
----
-
-### [Les cancers et maladies cardiovasculaires restent les principales causes de décès en France](https://news.google.com/rss/articles/CBMixAFBVV95cUxOakpvLVhRY3lmc1dSNW5Od2JpM1lWLXZfb0tuckN2SVVRTzI2V1hWajdnUUo5TXNJeXJBY2xsTjJvcFFHVFNQUV9zeS1LWkRaTEg5V1pWbWVUTDlmTHp5OUV0RTB2aV9CdVlFVklJU1hYb1JEUzNmd05DVmM0UmhVV1NfQkhXX05ncWRwWC1NZEdBaWNxUjZYdXhUQ1FsU3lEUjRpTW1iS2haalJtOUJ2c0N3VVJrdXRqM0NnellyM1lyUl9H?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMixAFBVV95cUxOakpvLVhRY3lmc1dSNW5Od2JpM1lWLXZfb0tuckN2SVVRTzI2V1hWajdnUUo5TXNJeXJBY2xsTjJvcFFHVFNQUV9zeS1LWkRaTEg5V1pWbWVUTDlmTHp5OUV0RTB2aV9CdVlFVklJU1hYb1JEUzNmd05DVmM0UmhVV1NfQkhXX05ncWRwWC1NZEdBaWNxUjZYdXhUQ1FsU3lEUjRpTW1iS2haalJtOUJ2c0N3VVJrdXRqM0NnellyM1lyUl9H?oc=5)
 
 ---
 
@@ -181,14 +173,6 @@ permalink: /news/tasonermin/
 
 ---
 
-### [Tumore al seno, il peso psicologico che ancora si sottovaluta: il report sugli effetti che vanno oltre la dimensione clinica - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUcyOUpWVXI4YWc0VHpReTkwZk9tWDFvaEJpcm9uMDZlcFR1MnRIOHFzYmQwMFJna0RGaHZfelFNckpaM3gyWTd3UFJBNzR5Y3RHOE5fNHp6MWFOZ1FXQ0NlMktWcU5PZ1htUDJvUEJwb1h0UlNpenZ2R21EVVhCSWdnN2xDSF9MNXE2US03aGFSak56cUNRV1VZQmFpOXVpV1IzTlhJdFE?oc=5)
-
-2026-06-23 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUcyOUpWVXI4YWc0VHpReTkwZk9tWDFvaEJpcm9uMDZlcFR1MnRIOHFzYmQwMFJna0RGaHZfelFNckpaM3gyWTd3UFJBNzR5Y3RHOE5fNHp6MWFOZ1FXQ0NlMktWcU5PZ1htUDJvUEJwb1h0UlNpenZ2R21EVVhCSWdnN2xDSF9MNXE2US03aGFSak56cUNRV1VZQmFpOXVpV1IzTlhJdFE?oc=5)
-
----
-
 ### [Il Centro ricerche cliniche di Verona avvia cinque nuovi studi clinici sugli inibitori di Kras](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhPdUZRVUplSFJjNmxCX3N5c2JBTGJCUzZPbDVIQnNTVG50RGc0ODVMclEtRURXMXE2V3lJbXBwYWR3VFduaGxaSmsySDRkX1pTQzY1OEM5c1JTak80WGdaNEdnS2NneWtUSEZYV1IwTmZhRldBaWpCNFY5bWMyTklra2pqM2UwWXRtOUpXRTJtMGh0UFBOOENmQ1V1Y3J5NlZseHFFZXB3dzgxNWY0aHZ0N0pDc1lPRzhWMHdoUlNpZ2ZVX3hMWEtGQQ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">tumor</span>
@@ -197,11 +181,11 @@ permalink: /news/tasonermin/
 
 ---
 
-### [A Son Removes His Credit Card From His Mother’s DoorDash Account After Her Cancer Progresses, Leading To Family Disagreement Over Her Care](https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEhmdVMzemRiV2lKNl8tb3ZaRG5hdjFPN1ZfVWhSSGZ0MnhkWm9QcW1NMUxVd2dQNEVDV0lFbFdSdlNteGo5NGYtRkJBNDlFT3Q4QVlkM2FNci1HX0pLUkFST2FmVjR6Z2ZTNmhSbHhfQ0p3SnRtLVVDUE9zczRnRzhDN0l3NHpKdWxUSVptLWF5c1dNZFRxbTNtTUkzSmk3SFNjN2NyWHZtV21hRFRyMzRsTEVYTDRBbHk3alYxM2l5cXhJclN1Q3o3M2czUXNMdm0wODJSQzVEMUJZb3J4NkhOQ0IwNzZ1aXFTZ2x1d0hsZ2xXTWQ2bkpyblZRbGlq?oc=5)
+### [Cancers, maladies cardiovasculaires… Quelles sont les principales causes de décès en France ? - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFBsbVYwZWQ1YWViWG8xcEN0aXBfMVQzblpqcEhBN0RSN2tzcUNkamFkTFNJMzdWS1BydXFMWmV6ODNoNWhab0FxbGpsUEcwTkxQSmdxcDVpeVY3UXhjUHR1c0plSml4LUd6VmZZLXhVSnZLQnVWcEJobXBwa2NYV3AzbnJyZnk5ZWcwS29POFVEa1lxREdKbEg5TFBYRDdMWUNHQXZfNTVlUWJGVUZUM1BOVnAwWlE?oc=5)
 
-2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">cancer</span>
 
-來源：[TwistedSifter](https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEhmdVMzemRiV2lKNl8tb3ZaRG5hdjFPN1ZfVWhSSGZ0MnhkWm9QcW1NMUxVd2dQNEVDV0lFbFdSdlNteGo5NGYtRkJBNDlFT3Q4QVlkM2FNci1HX0pLUkFST2FmVjR6Z2ZTNmhSbHhfQ0p3SnRtLVVDUE9zczRnRzhDN0l3NHpKdWxUSVptLWF5c1dNZFRxbTNtTUkzSmk3SFNjN2NyWHZtV21hRFRyMzRsTEVYTDRBbHk3alYxM2l5cXhJclN1Q3o3M2czUXNMdm0wODJSQzVEMUJZb3J4NkhOQ0IwNzZ1aXFTZ2x1d0hsZ2xXTWQ2bkpyblZRbGlq?oc=5)
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFBsbVYwZWQ1YWViWG8xcEN0aXBfMVQzblpqcEhBN0RSN2tzcUNkamFkTFNJMzdWS1BydXFMWmV6ODNoNWhab0FxbGpsUEcwTkxQSmdxcDVpeVY3UXhjUHR1c0plSml4LUd6VmZZLXhVSnZLQnVWcEJobXBwa2NYV3AzbnJyZnk5ZWcwS29POFVEa1lxREdKbEg5TFBYRDdMWUNHQXZfNTVlUWJGVUZUM1BOVnAwWlE?oc=5)
 
 ---
 
@@ -213,11 +197,11 @@ permalink: /news/tasonermin/
 
 ---
 
-### [Darmkrebs: Welche Vitamine helfen Erkrankten? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmUyd3FlVEFmcWNyZ3AyaEp4YlJWUTloVlZwMTJCd3BhUlM2SWhzVUs5VnB4eWN6TzdYeFVBRjJCbU52MFJSNzJxb29wVGkxcGlPVTZMdDFZbmt1M1VTWGVpbEdOZ3RhQ3NVaXlyMmctRFhrUEtMM0J4VTVXSzNib1lxMU05UUlGM2ZQeVotdTRKWnYzbGRabHN2em5jbDFWTUcxNFJ5aw?oc=5)
+### [Prädiabetes-Remission: Sterberisiko sinkt um 58 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Krebs</span>
+2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmUyd3FlVEFmcWNyZ3AyaEp4YlJWUTloVlZwMTJCd3BhUlM2SWhzVUs5VnB4eWN6TzdYeFVBRjJCbU52MFJSNzJxb29wVGkxcGlPVTZMdDFZbmt1M1VTWGVpbEdOZ3RhQ3NVaXlyMmctRFhrUEtMM0J4VTVXSzNib1lxMU05UUlGM2ZQeVotdTRKWnYzbGRabHN2em5jbDFWTUcxNFJ5aw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
 
 ---
 
@@ -226,54 +210,6 @@ permalink: /news/tasonermin/
 2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
-
----
-
-### [Susanne Reger-Tan im Interview: „Diabetes verdoppelt das Herzinfarktrisiko“](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS1dzS3o4SFh0MlhRdTdsV1lhTXhNMGRBdWk3OGtlbFpuSHJNM1pJeHJzLU5kUTkzNkFoQnZiWVZxSktrbklkY3NzUXM3elRWOFdoV181MUtkcnR4OHdzczZFSmkwT0t6ZENKeWRwQ1ZXTGV0UE9ZWnJVdmJvWFl3cjZlWklicTF4eHp0VzQzZEtWMnltT3pLcV81dHl1dWFmZVJXMkRuSUthZ2JVSkpGWnBrWnIzSG5haEMxUmJTdmFJSjk1U3JTRg?oc=5)
-
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[NWZonline](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS1dzS3o4SFh0MlhRdTdsV1lhTXhNMGRBdWk3OGtlbFpuSHJNM1pJeHJzLU5kUTkzNkFoQnZiWVZxSktrbklkY3NzUXM3elRWOFdoV181MUtkcnR4OHdzczZFSmkwT0t6ZENKeWRwQ1ZXTGV0UE9ZWnJVdmJvWFl3cjZlWklicTF4eHp0VzQzZEtWMnltT3pLcV81dHl1dWFmZVJXMkRuSUthZ2JVSkpGWnBrWnIzSG5haEMxUmJTdmFJSjk1U3JTRg?oc=5)
-
----
-
-### [A common vitamin could help fight one of the deadliest brain cancers](https://news.google.com/rss/articles/CBMib0FVX3lxTE1velVURlh4SjdIME5rczg4dlM0bURXdHVfQU1rdWxBeENUX0pCcldIQkJTOTJ3NU5ueUJvWnUxTUp6ak9xc21CM0MxdG41SEpLWVFDdVpPUi1sMDNES0JHb1EyT2RobXJfRE4xZnJZaw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">cancer</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1velVURlh4SjdIME5rczg4dlM0bURXdHVfQU1rdWxBeENUX0pCcldIQkJTOTJ3NU5ueUJvWnUxTUp6ak9xc21CM0MxdG41SEpLWVFDdVpPUi1sMDNES0JHb1EyT2RobXJfRE4xZnJZaw?oc=5)
-
----
-
-### [Suizid nach Krebsdiagnose: Nicht nur den Körper behandeln](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3FQLWhTWGZJS1NYMUhnOXU1d29aWEttcjM0dE1JenhuUHFIQXRTdDRsZ1hwRVlnU2JBN3FRYlhnWl85cDJ3NnpoaWRDVmxZV04tdHZtSVlzVFU4dS1WTVc5SXhwM2JDeTl1b1piMW0xZGE0ejlkLUtiRmxkdmxBemRXWXZaYWU4NFpLcnZYZXpJWm5GQjk4QWIxUEVJTlhoaF9yWHZDZHZFZXM?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Krebs</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3FQLWhTWGZJS1NYMUhnOXU1d29aWEttcjM0dE1JenhuUHFIQXRTdDRsZ1hwRVlnU2JBN3FRYlhnWl85cDJ3NnpoaWRDVmxZV04tdHZtSVlzVFU4dS1WTVc5SXhwM2JDeTl1b1piMW0xZGE0ejlkLUtiRmxkdmxBemRXWXZaYWU4NFpLcnZYZXpJWm5GQjk4QWIxUEVJTlhoaF9yWHZDZHZFZXM?oc=5)
-
----
-
-### [Tumore alla prostata: il nuovo screening riduce le biopsie inutili - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWtxUnhfOEJ4QldDdEJ6OFZmVkZqbE5jYWdVWFRhZ2Z6UW1SdFVLZ3ZVZzFQMUZ1THFBTlM5cEd1dnpmSm1jS1JHTFJLSkhFWjF0T0Nwd1VjbGlIT3dmeW9yUllHNF9mdlRMaHB4NGJ3Z3NHcS1iaDROTXhEcGN5Nl85bWxVcmVnTnBOc0UtYWdfclZkUDVQQXh2MnZWQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">tumor</span>
-
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWtxUnhfOEJ4QldDdEJ6OFZmVkZqbE5jYWdVWFRhZ2Z6UW1SdFVLZ3ZVZzFQMUZ1THFBTlM5cEd1dnpmSm1jS1JHTFJLSkhFWjF0T0Nwd1VjbGlIT3dmeW9yUllHNF9mdlRMaHB4NGJ3Z3NHcS1iaDROTXhEcGN5Nl85bWxVcmVnTnBOc0UtYWdfclZkUDVQQXh2MnZWQQ?oc=5)
-
----
-
-### [Kinder heilen - UZH News](https://news.google.com/rss/articles/CBMif0FVX3lxTE8yU0hJbUVTeDd4M3Ayd3NXSWtGNlhBSjYtY1FJMHh3TS1kdGZxY2ZySXR5di1UUl9oNWJMTHpqODJrTVZDRldwRnR2cmlQUlc4cUozdFFHRzJDVlNLYWdqbHY3NnNQdzRTUU9IcTYzb1A3d3RxU05IUWpLV0dFMms?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Krebs</span>
-
-來源：[UZH News](https://news.google.com/rss/articles/CBMif0FVX3lxTE8yU0hJbUVTeDd4M3Ayd3NXSWtGNlhBSjYtY1FJMHh3TS1kdGZxY2ZySXR5di1UUl9oNWJMTHpqODJrTVZDRldwRnR2cmlQUlc4cUozdFFHRzJDVlNLYWdqbHY3NnNQdzRTUU9IcTYzb1A3d3RxU05IUWpLV0dFMms?oc=5)
-
----
-
-### [Frühe Impfung gegen HPV besiegt Gebärmutterhalskrebs](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjdSd0lGZTBsZi1qMWZ1RVZ3ME8xRU1aUmR4TVJjSmxJd2Iydk01cmhTNHF6N2VFSmRGN184ZWRyQ1U0VENpQmhjTlBxcG0xSGJ0NUZDUmQ1N3FLeWpqdmdyN19acEM2bHJKNzA0Njl3aGQ3RlptSnFOZUhXbzlkN184VVJaRktaX1pWWmN2cTlnTU1LcFBzUVNR?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Krebs</span>
-
-來源：[Osthessen|News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjdSd0lGZTBsZi1qMWZ1RVZ3ME8xRU1aUmR4TVJjSmxJd2Iydk01cmhTNHF6N2VFSmRGN184ZWRyQ1U0VENpQmhjTlBxcG0xSGJ0NUZDUmQ1N3FLeWpqdmdyN19acEM2bHJKNzA0Njl3aGQ3RlptSnFOZUhXbzlkN184VVJaRktaX1pWWmN2cTlnTU1LcFBzUVNR?oc=5)
 
 ---
 
