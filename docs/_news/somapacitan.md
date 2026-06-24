@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li>asthma（86.3%）</li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,13 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
-### [GLP-1-Agonisten: Alzheimer-Risiko bei Diabetikern um 33% niedriger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZm5SdHR4YUU2RWlfaDFITElGZ0FKWVprTzRqVGdjdkZsT3B6WDVzbUZlTFF6VVY5NnMzM0g4QmZ4ZzJKUXdGQy01MDFVQVRnUEVDTnBWVTN2dTExSUcxSTBxN0RoeERuMDdXcW9LQ3FpQUQxVkdzZjNQMXhlbGlCQ3ZHUEtteU1qWkR0cXRWdEJtckRQaW9QNmoxbnR4Q0s2YjlyMi1zMWlUdXNiX2Vua1FmTTN5VGdwd1VHTGxR?oc=5)
+### [Triple-Agonisten: GLP-1-Mittel senken Alzheimer-Risiko um 33%](https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzNFUHpBZ195MWZDYkYzXzZLVkxYaXhkbFR3UjJkQ1laWHFGVENOQ2VyeXA3aGJSZkxmTnZCWnQ1bU5hdlYxeXIzOVVCaUtGaXJIYVBvY3h4eW9sY21yNFVXNG1vaGV4Nm85dFJOSEVHVTNOTGVkYk40R2lmeE9KTkFicm5iQnpBUEl5dDhzZHRfc0hCTE9vU0ZVczVWLWZ6UWZXWkFjNExhbW00TlJ6QzZXWERMNG8?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZm5SdHR4YUU2RWlfaDFITElGZ0FKWVprTzRqVGdjdkZsT3B6WDVzbUZlTFF6VVY5NnMzM0g4QmZ4ZzJKUXdGQy01MDFVQVRnUEVDTnBWVTN2dTExSUcxSTBxN0RoeERuMDdXcW9LQ3FpQUQxVkdzZjNQMXhlbGlCQ3ZHUEtteU1qWkR0cXRWdEJtckRQaW9QNmoxbnR4Q0s2YjlyMi1zMWlUdXNiX2Vua1FmTTN5VGdwd1VHTGxR?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzNFUHpBZ195MWZDYkYzXzZLVkxYaXhkbFR3UjJkQ1laWHFGVENOQ2VyeXA3aGJSZkxmTnZCWnQ1bU5hdlYxeXIzOVVCaUtGaXJIYVBvY3h4eW9sY21yNFVXNG1vaGV4Nm85dFJOSEVHVTNOTGVkYk40R2lmeE9KTkFicm5iQnpBUEl5dDhzZHRfc0hCTE9vU0ZVczVWLWZ6UWZXWkFjNExhbW00TlJ6QzZXWERMNG8?oc=5)
 
 ---
 
@@ -126,27 +126,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
-
-2026-06-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
-
----
-
-### [Drug that delays onset of type 1 diabetes approved in England and Wales - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
-
----
-
 ### [Prädiabetes-Remission: Sterberisiko sinkt um 58 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
+
+---
+
+### [Teplizumab, the first treatment to slow type 1 diabetes, approved for use on the NHS - Diabetes UK](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvQ19Nc0FoUUpmaEk2djRUZWw4N3FqaVljdGlPc2ZBV0VkbjZfcmNOVm9YNnJ3V2ItTFFlVWJVMExmX25DOGtpTEd4RnBsd1k2cHYzNWsxVDZ0ZzM5cWpKODBVSHRTVHJEZXl0bWkzTXQ3UndmdW01UFNDUTNLR1hFb1htQ3B0OVpKNGp1MGRlODZUdVpUQUp3OHR2NHRlenF4MWNrdmFhUFVlalV0QlU0ZnJDdkU?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes UK](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvQ19Nc0FoUUpmaEk2djRUZWw4N3FqaVljdGlPc2ZBV0VkbjZfcmNOVm9YNnJ3V2ItTFFlVWJVMExmX25DOGtpTEd4RnBsd1k2cHYzNWsxVDZ0ZzM5cWpKODBVSHRTVHJEZXl0bWkzTXQ3UndmdW01UFNDUTNLR1hFb1htQ3B0OVpKNGp1MGRlODZUdVpUQUp3OHR2NHRlenF4MWNrdmFhUFVlalV0QlU0ZnJDdkU?oc=5)
 
 ---
 

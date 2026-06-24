@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（17 則）
+
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDQ5U08xc01Cb1hIRGZLaXBaSjgyM0lXamZwVUJTTmNuOGcxNlNsTnZvb2k3b1R2cTRlMEZOdExRSmdyVU90eFh5aWluZnRBR294OGxDTUxMVjk0QUtkRDRLU2FSZzhOSUN1WllYRERxQTR3MEZ2LVpoMlEySDZLRGxnc0RMaHJJTnlOUjBfOEhVNThkY0FQSk43cW50Mm1xZExFczJVdWpWSEcyQno1TA?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDQ5U08xc01Cb1hIRGZLaXBaSjgyM0lXamZwVUJTTmNuOGcxNlNsTnZvb2k3b1R2cTRlMEZOdExRSmdyVU90eFh5aWluZnRBR294OGxDTUxMVjk0QUtkRDRLU2FSZzhOSUN1WllYRERxQTR3MEZ2LVpoMlEySDZLRGxnc0RMaHJJTnlOUjBfOEhVNThkY0FQSk43cW50Mm1xZExFczJVdWpWSEcyQno1TA?oc=5)
+
+---
+
+### [UNICEF y Gavi piden información a fabricantes sobre sus planes para desarrollar una vacuna contra el ébola Bundibugyo](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTk0yVDZUVnZhbGZobV9FNTREa3AydnRaREpYX19WTVhsMngyalAyeTZ1clo0UzN0SzRyamxaN25tOHNkS0JSYlhSTWU2bXJqVXRZY0g1ZkZWN0xMVEVVaG5lei1MVFlnMXIyQ1pNc3ZKeVVFY1NCQXk0Ui1WUkJsZEpTcDV0RzlsX3F1eTdjcklmNng0ZWlpWEdfelgxZE5oeS1pX1JVM2tFVnZkVmdqQ2E0WmdmbkxkbFRzZ2hiNnR4M1RFQWw0VWUtamlDR1VuZTdFX2xFXzNOcWpwNWxZRzZLcjFMTVJrMGxMbQ?oc=5)
+
+2026-06-24 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTk0yVDZUVnZhbGZobV9FNTREa3AydnRaREpYX19WTVhsMngyalAyeTZ1clo0UzN0SzRyamxaN25tOHNkS0JSYlhSTWU2bXJqVXRZY0g1ZkZWN0xMVEVVaG5lei1MVFlnMXIyQ1pNc3ZKeVVFY1NCQXk0Ui1WUkJsZEpTcDV0RzlsX3F1eTdjcklmNng0ZWlpWEdfelgxZE5oeS1pX1JVM2tFVnZkVmdqQ2E0WmdmbkxkbFRzZ2hiNnR4M1RFQWw0VWUtamlDR1VuZTdFX2xFXzNOcWpwNWxZRzZLcjFMTVJrMGxMbQ?oc=5)
+
+---
+
+### [Maternidad, migración y chemsex, retos del VIH que van más allá de los avances científicos](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdDg2STJyUjZ0REZ0S3lPR1JTalUycHdQa3EyeDZEVmpPX2tlNDBkRDlnQjZDMXZYUjRIZ3h2VThDWUs2QTdsaGQxVXF1N3dCeVM2WkJOWTZQUlFRSDRDU3F4Wm42Y3NvTzZPTFh3blhnSVNiNTBXbXpacVUtMjJSOTN3T1RDb29aT0RjNTBTRXllMFkzUU1CdGpCb01CaGZXZHlHRHBLa051T18ySXhJbl9fM2RWMjhMUHBFTzFRTVF2UTRPcmc?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdDg2STJyUjZ0REZ0S3lPR1JTalUycHdQa3EyeDZEVmpPX2tlNDBkRDlnQjZDMXZYUjRIZ3h2VThDWUs2QTdsaGQxVXF1N3dCeVM2WkJOWTZQUlFRSDRDU3F4Wm42Y3NvTzZPTFh3blhnSVNiNTBXbXpacVUtMjJSOTN3T1RDb29aT0RjNTBTRXllMFkzUU1CdGpCb01CaGZXZHlHRHBLa051T18ySXhJbl9fM2RWMjhMUHBFTzFRTVF2UTRPcmc?oc=5)
+
+---
+
+### [France confirms first Ebola case in doctor who had worked in DRC - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDhEVmVvQzNreHVuX1VrNlFfZXRNNEdKVUlYbzI2bTg3YVNnS1BlSS1IcGNmejY1bDFOM210bTNtQU05TVhVUDNsLWZuUXdDM1BPTFQtWXF4UnRERmlRM0s0Mk9fOUhybzVTU2dUNFRVYUxBdzA3WWVxS1VnT2dCX2RCcnBRRnc?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDhEVmVvQzNreHVuX1VrNlFfZXRNNEdKVUlYbzI2bTg3YVNnS1BlSS1IcGNmejY1bDFOM210bTNtQU05TVhVUDNsLWZuUXdDM1BPTFQtWXF4UnRERmlRM0s0Mk9fOUhybzVTU2dUNFRVYUxBdzA3WWVxS1VnT2dCX2RCcnBRRnc?oc=5)
+
+---
+
+### ['Flesh-eating' bacteria threat spreads on Europe's beaches as seas warm](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5)
+
+---
+
+### [Confirmado primer caso de ébola en Francia tras regresar un doctor de RDC - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span>
+
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
+
+---
 
 ### [Magic Mushrooms gegen Alzheimer? In einer Einzelfallstudie besserten sich manche Symptome](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZm1DNnV5Y1duR21zamtqeGNLNUkxSlZDZ29YZURvaEdYSkZ0Z084aHFQVEJBbmR6NFVDRkdzbHVlM09GVXpTNFdfdmRLTVZqakFyT2VhZ2toaV9yVFl3RXdoSlM0QnlPVzNNcHFuVTN6a1dEcUFnSUtDdC1LUU1fbEZCTEs4M3djY2FlUXA3YXBXaXRydXM1aA?oc=5)
 
@@ -62,19 +110,19 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Want to feel happier at work? Take a five-minute walk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dDNKMDd1VlJqUW1qTUJEcFE1eURUend5Nm1uLVJtUG9uMzA2eFE0ZFhFN0VJek1lU3dqVHUzcjBPNkstOS1ZSlMtNktlVF9lQ1pfeEtSVHZzVUVN?oc=5)
+### [Five-minute walk offsets the harm of sitting too long - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1VDaGlkek13SHlFOGVyTlpuZW5uWGQxNl9JeHhiLXpiMlN4Q01yYW5jMDJyWnNnVjNxTl9HSThJZVB0SkFoWjFDV2NPLVlERUZ0M2IzS1ZsLWZOYV8tZnVZQ1JlR1hLQUtVMEczaHpPLWN4TlNxR05ZS2RYZ0pyV0czTGlkSm1lbVRUOGczTUlkOWdBa1psMUJIYzZBZUNUTUR3SkZ3?oc=5)
 
-2026-06-23 <span class="news-indication-tag">MS</span>
+2026-06-24 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dDNKMDd1VlJqUW1qTUJEcFE1eURUend5Nm1uLVJtUG9uMzA2eFE0ZFhFN0VJek1lU3dqVHUzcjBPNkstOS1ZSlMtNktlVF9lQ1pfeEtSVHZzVUVN?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1VDaGlkek13SHlFOGVyTlpuZW5uWGQxNl9JeHhiLXpiMlN4Q01yYW5jMDJyWnNnVjNxTl9HSThJZVB0SkFoWjFDV2NPLVlERUZ0M2IzS1ZsLWZOYV8tZnVZQ1JlR1hLQUtVMEczaHpPLWN4TlNxR05ZS2RYZ0pyV0czTGlkSm1lbVRUOGczTUlkOWdBa1psMUJIYzZBZUNUTUR3SkZ3?oc=5)
 
 ---
 
-### [Omega-3-Studie Juni 2026: 2.000 mg DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5nRkFqYVRtZDByeUpPOWd4bjAtdE13NUctelY1ak4weVhGU3RfbXFDZEVUZzNNYmc4MDlyTmRmVkNkSGRfLUoyUlR5MDZIVFVQNzMtNF9GMTBuSGtrM1lWWUIwOWRRc2RjZU9IS25IVFAzSFNsM29UOWh6T1BjekVhaDlCekZ3QVRuSHh0aW40UXJZYjhkbTBITFQwUnljZXNUVnhZYnJncVJ2bEdmcWNvTkNrQQ?oc=5)
+### [Omega-3-Studie: Hochdosiertes DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUJmeGI4T3FncmdYWXNDU3lyVHVvRGxXd05yVXY5akFMVlZlaGZnbkFtekhhMVRqczRDTWttWm9aQlpDQ3p6QUJGZmN6dnM0MkNfTENMbEhmd2ZQdzJsMDREb0hxbktYbjBUdUVJZmJHeU84RTRmVE53Y3REdGZMWkxYaUxTT1FCby1pNE5oQnFjNnFmSklpc1ZUTDZERnV3alVlMTRfV0ktRGlCSHBJ?oc=5)
 
-2026-06-23 <span class="news-indication-tag">MS</span>
+2026-06-24 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5nRkFqYVRtZDByeUpPOWd4bjAtdE13NUctelY1ak4weVhGU3RfbXFDZEVUZzNNYmc4MDlyTmRmVkNkSGRfLUoyUlR5MDZIVFVQNzMtNF9GMTBuSGtrM1lWWUIwOWRRc2RjZU9IS25IVFAzSFNsM29UOWh6T1BjekVhaDlCekZ3QVRuSHh0aW40UXJZYjhkbTBITFQwUnljZXNUVnhZYnJncVJ2bEdmcWNvTkNrQQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUJmeGI4T3FncmdYWXNDU3lyVHVvRGxXd05yVXY5akFMVlZlaGZnbkFtekhhMVRqczRDTWttWm9aQlpDQ3p6QUJGZmN6dnM0MkNfTENMbEhmd2ZQdzJsMDREb0hxbktYbjBUdUVJZmJHeU84RTRmVE53Y3REdGZMWkxYaUxTT1FCby1pNE5oQnFjNnFmSklpc1ZUTDZERnV3alVlMTRfV0ktRGlCSHBJ?oc=5)
 
 ---
 
@@ -83,6 +131,14 @@ permalink: /news/grazoprevir/
 2026-06-23 <span class="news-indication-tag">MS</span>
 
 來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXg5Q09hZlRWaWREQy1PdzRUYVJWbnBRTlNGTloyUG9xRFFlNTdiN2FwQk40b094MzR1SmpDRDhjTzlZNTEyRFhsZUxpYUVjSXpqREoyN2lkU3A2RFRhQjZiNVZJSGlHNzZxWno5T2t3WTdCNkNLdFQwR2lRUG5RcENTcDFpbXFaNlZjZ3N2OTFyYzhxMFBqbVpBenJCekJLZmtnYjFwRG4wMEVRUDg5Rm1Gc0NEeGhDR3R4MnpmaGt5OXc4aTl1bVVfNy1fekwzUjNrTHdSb25rQ2lFNW43UUdCSzZUa3NBQTBMQUNsaWFVOW8?oc=5)
+
+---
+
+### [UK heatwave: Five medications that can affect how your body regulates temperature - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0pSdEdaTWVrZ1pvNml3ZEEtTUlwWmp3N3pGaVp3dXJnRUdORU9JQVRzbjNjSkVBQndWQ1dVMHZSNFNybHhVVlp6dGdubi1Xai0wSXpHRERTWEtWdldpalBHamxraHg1X2lzdmRLWDNycmNIakpFYkhwemVXZklSblJWRHVxMUgwd2ppR0EtYlJFV002WDI5RlZiVTlQcnZZY2REMkg4YWlvVFpPb0VEbUVXNU9pZ2lLbXF0Yg?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0pSdEdaTWVrZ1pvNml3ZEEtTUlwWmp3N3pGaVp3dXJnRUdORU9JQVRzbjNjSkVBQndWQ1dVMHZSNFNybHhVVlp6dGdubi1Xai0wSXpHRERTWEtWdldpalBHamxraHg1X2lzdmRLWDNycmNIakpFYkhwemVXZklSblJWRHVxMUgwd2ppR0EtYlJFV002WDI5RlZiVTlQcnZZY2REMkg4YWlvVFpPb0VEbUVXNU9pZ2lLbXF0Yg?oc=5)
 
 ---
 
@@ -118,17 +174,9 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Longevità, il nuovo studio che svela il segreto per vivere oltre gli 85 anni | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnZOTmUzaF9WcmRPTEstcm5COEoySlFkZnR0eWZXbGtaMEZ3MlEzOF85VHZNc0NoYUNWR3ctT2I3aWhEMko2LW1GaTI2UkpGc3ZLTGhRRmFzR3h2R01POXBiSXQ1dHp3UjQ4LXdGdkdKTlpfR2h2aEt0Tm5wVmx3V1VzRjZNY1hsdTMzYlNadUlZSjRrcXl5QXdWZ0s0Tk1KTkJ2eUFUS0k0UlE4RlUyMW5ORmc2ZlZGNHNhdmtJdXhQSmc2N1BCTzM1OC0zQVp6V0RRS19yZFdoZ9IB3gFBVV95cUxOUXFrNzRXajBmdHJCWEh3V1VkOGFrb0FVQURrQWZNdTNleXhjcDZzMDNzVDVoWTc3aXI1b1hnTW5lNHl4VEdfb0RTbnE4OEdtalhjMkV2VVJsM19GTURXQkdBbGRjVDBqUXhudS1lVUVZNGt1TnN0NFpsejhxLTR1Z3JWNWkxc2w5cGJ6ZERDTzJEOVNwZlc4bk0wT2xZQVBmdl9MUEMzYXUzNGM2QTFERHFaWmFOS2hla2NvU3Q2NEVWTHd3MW5tSTdlY2NRaC1ZODBrN21Ob0t4a0lqOXc?oc=5)
-
-2026-06-23 <span class="news-indication-tag">MS</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnZOTmUzaF9WcmRPTEstcm5COEoySlFkZnR0eWZXbGtaMEZ3MlEzOF85VHZNc0NoYUNWR3ctT2I3aWhEMko2LW1GaTI2UkpGc3ZLTGhRRmFzR3h2R01POXBiSXQ1dHp3UjQ4LXdGdkdKTlpfR2h2aEt0Tm5wVmx3V1VzRjZNY1hsdTMzYlNadUlZSjRrcXl5QXdWZ0s0Tk1KTkJ2eUFUS0k0UlE4RlUyMW5ORmc2ZlZGNHNhdmtJdXhQSmc2N1BCTzM1OC0zQVp6V0RRS19yZFdoZ9IB3gFBVV95cUxOUXFrNzRXajBmdHJCWEh3V1VkOGFrb0FVQURrQWZNdTNleXhjcDZzMDNzVDVoWTc3aXI1b1hnTW5lNHl4VEdfb0RTbnE4OEdtalhjMkV2VVJsM19GTURXQkdBbGRjVDBqUXhudS1lVUVZNGt1TnN0NFpsejhxLTR1Z3JWNWkxc2w5cGJ6ZERDTzJEOVNwZlc4bk0wT2xZQVBmdl9MUEMzYXUzNGM2QTFERHFaWmFOS2hla2NvU3Q2NEVWTHd3MW5tSTdlY2NRaC1ZODBrN21Ob0t4a0lqOXc?oc=5)
-
----
-
 ### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
 
-2026-06-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
+2026-06-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
 
@@ -139,30 +187,6 @@ permalink: /news/grazoprevir/
 2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
-
----
-
-### [StormWall: So könnte man extreme KI-freundliche Weltraumstürme technisch abschwächen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
-
----
-
-### [Studie stellt Nutzen von Calcium und Vitamin D infrage: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0VsMjQ5aWJBTDhUMWVnaUxzUzZfWDkxck5VNFpwcFNzZlhrVmY0RXlYcGF2V3hNMEFmRllMbDdNZzRkVjdadTdfbE93cXRpSjAtTU5ET3VaSERrMzR1Zm40bmkzUHBHblE2Q0RoNkFZNHdYOEE3WHBwUGJrV0VaRVVzc3ozNDVLX1lFWWRrYkxVVktEN051eVRLcTJnYUdGZjJEOE5WQm4zeXZhZkpRbHdnWmREVnRobmN1dndPWTMyQQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0VsMjQ5aWJBTDhUMWVnaUxzUzZfWDkxck5VNFpwcFNzZlhrVmY0RXlYcGF2V3hNMEFmRllMbDdNZzRkVjdadTdfbE93cXRpSjAtTU5ET3VaSERrMzR1Zm40bmkzUHBHblE2Q0RoNkFZNHdYOEE3WHBwUGJrV0VaRVVzc3ozNDVLX1lFWWRrYkxVVktEN051eVRLcTJnYUdGZjJEOE5WQm4zeXZhZkpRbHdnWmREVnRobmN1dndPWTMyQQ?oc=5)
-
----
-
-### [People who lift weights live longer – new study - The Conversation](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHpHMDNCRGYxbjFsTVBPZHJpdUM5aHZvdWtNbk5RcTNYYUtiRER5RHRUYzN0OTNMeGQyUklIZzV0QUhSem55WUVVTlhIZUdBTFZCOGJfWnNvcm9WdDZNOTFlMHdjRExUc1kzSDgtVG5qV24xclhQQWFJYXgxSFczc0FSbGZPaXc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHpHMDNCRGYxbjFsTVBPZHJpdUM5aHZvdWtNbk5RcTNYYUtiRER5RHRUYzN0OTNMeGQyUklIZzV0QUhSem55WUVVTlhIZUdBTFZCOGJfWnNvcm9WdDZNOTFlMHdjRExUc1kzSDgtVG5qV24xclhQQWFJYXgxSFczc0FSbGZPaXc?oc=5)
 
 ---
 

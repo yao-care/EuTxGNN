@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
+
+2026-06-24
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
+
+---
 
 ### [En verano aumenta el riesgo cardiovascular: "El cuerpo trabaja mucho más y eso tiene un coste cardíaco real"](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpHODVhUzhZblNLci14X0lUMW5RaElnd1R3WnhOOFdlbm5uQnhXTWlDVXFVeE5wc1hxTThlQlpwQzltR05vdU9KUEQ3UVZ6aHVCeG92ZlRreURfdmozc3BSQkh6RXdkR01TaGtENDhpel9vVlAxYkx6dEhoclRoSG5KZE9faEhnM0NlQWV0djVlX1JleXNPR2J3cklxSUpUU1ZUOVhxZ1BQempBbjdPOW5mSUhLcEZ3VGVMbWZmU0xSblljdGdWdVdFakZEbkMtOVhR?oc=5)
 
@@ -57,19 +65,19 @@ permalink: /news/stroke/
 
 ---
 
+### [Unterschätzte Spätfolgen nach Influenza, COVID-19, Pneumonien & Co](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
+
+2026-06-23
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
+
+---
+
 ### [COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
 
 2026-06-23
 
 來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
-
----
-
-### [Ce fruit d'été est "le meilleur pour votre cœur et votre cerveau" selon ce cardiologue](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
-
-2026-06-22
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
 
 ---
 

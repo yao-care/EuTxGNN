@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 
@@ -78,19 +78,11 @@ permalink: /news/selpercatinib/
 
 ---
 
-### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
+### [Demenz-Prävention: Rauchen erhöht Risiko um 40 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
 
-2026-06-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+2026-06-23 <span class="news-indication-tag">Migräne</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
-
----
-
-### [Científicos franceses descubren 8 aditivos que consumimos a diario que incrementan el riesgo de sufrir un problema del corazón - El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOelYzb0lDcGxyZmg5bnJqSGdpc2hkQkRmb0EtalRWRnpkVW9wWVB5UlpWZEpnUVFYTlFRc3lmMHdRaEZyS21MQ2xnRm1rd0d0ZHhEb0pqV0lIRkp2V2hSLWNhZ2NhaU5iaUVta0RwdEhtUE5HUzNFenQwQ2lrcXhYNmdiSW9NeXp3RDZocGF1VUc2QWxWUWVsWUJfa2VYcmlLMlFHRU9pbEw0ZU9UU2pIMi1PcVlJWDg0TzJWb29sTjJNaHItQmtoR005Y1d4YlVBR0xLQ2w1eXJOMURtMmZ3bVZ2OXVYSjN0Yk82UWkzemlNR2NsRDhlc3dhS0FNQzQ3ajhpQ3M3NXpld3g5YjdKaXFWWG50YTBVUUJ4ZXBiZDZSWTF2cUhYS09tZTdfd3RJRkstSkk2clhqN05J?oc=5)
-
-2026-06-23 <span class="news-indication-tag">hipertensión</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOelYzb0lDcGxyZmg5bnJqSGdpc2hkQkRmb0EtalRWRnpkVW9wWVB5UlpWZEpnUVFYTlFRc3lmMHdRaEZyS21MQ2xnRm1rd0d0ZHhEb0pqV0lIRkp2V2hSLWNhZ2NhaU5iaUVta0RwdEhtUE5HUzNFenQwQ2lrcXhYNmdiSW9NeXp3RDZocGF1VUc2QWxWUWVsWUJfa2VYcmlLMlFHRU9pbEw0ZU9UU2pIMi1PcVlJWDg0TzJWb29sTjJNaHItQmtoR005Y1d4YlVBR0xLQ2w1eXJOMURtMmZ3bVZ2OXVYSjN0Yk82UWkzemlNR2NsRDhlc3dhS0FNQzQ3ajhpQ3M3NXpld3g5YjdKaXFWWG50YTBVUUJ4ZXBiZDZSWTF2cUhYS09tZTdfd3RJRkstSkk2clhqN05J?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/selpercatinib/
 2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
-
----
-
-### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Migräne</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
 ---
 

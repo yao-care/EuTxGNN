@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "arthritis 相關新聞"
+title: "arthrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "arthrite（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# arthritis 相關新聞
+# arthrite（arthritis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="arthrite（arthritis） 有什麼相關新聞？">
+<strong>arthrite（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「arthrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,7 +101,15 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
+
+2026-06-23
+
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
+
+---
 
 ### [Interstitielle Lungenerkrankungen bei Rheuma: Treiber von Morbidität und Mortalität](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVYUWdqSm50Y3hTOWdkUmpfMi1jc3ZieWNhNHJ4N1ZZVzgtUGRiWkROcTBoZXQ4c2E2b0NTUDhSdW02UTJpNHhGT1VqMndUMXVJc3dJQTk1UXp4c3BIRTFJQm14bHVHbnAybXc5ZGRnTlJYZk5lb09TQjhCOWNjZmtlTDRIVEhZaVluZHJ0RlI3MEZBSHdIRFplaXMtWlFWMGk5NGZSUHV6eElDYzA3aHNUMkctVGE3?oc=5)
 

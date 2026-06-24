@@ -70,11 +70,11 @@ permalink: /news/galcanezumab/
 
 ---
 
-### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
+### [Demenz-Prävention: Rauchen erhöht Risiko um 40 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
 
-2026-06-22 <span class="news-indication-tag">Migräne</span>
+2026-06-23 <span class="news-indication-tag">Migräne</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
 
 ---
 

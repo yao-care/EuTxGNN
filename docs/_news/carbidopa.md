@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Popular joint pain treatment linked to faster Alzheimer’s decline and death - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">dementia</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
+
+---
 
 ### [Dementia risk linked to eating 1 type of food, research shows - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEhDWmphSFBJUkdaNy1DTjRrSURfM2VVQ0d3a2lXbmZSSjNNUXV2bjkwNS1na21YVUhKUTAwMDNwZVhVeldNcnZzMVpHT3E5cW5pc1lNZE9xWGMyNEUxcm5uZ0lZMEg1N2E2X1ljSmF3T3FvV2VNMVVvS2NnX2pkStIBhgFBVV95cUxPU3RmWVRoWWUzVkZyaWlKY09LQm5EVjFiSGlydUM0NVpBOE14WUtVMW54SVdRVEJUVlZzMWdwaXpjM3pCTFltcDkyQ0ZZanM0THdxeXlpc0NQZmZFOXotbmtHWnV6R3hUTDN1X3V6NHRtOHhPa040QkdTV0hTcVBpTFBpR3hFdw?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/onasemnogene-abeparvovec/
 ---
 
 <p class="key-answer" data-question="Onasemnogene Abeparvovec 有什麼相關新聞？">
-<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/onasemnogene-abeparvovec/
 <p><a href="{{ '/drugs/onasemnogene-abeparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
-
-### [GLP-1-Agonisten: Alzheimer-Risiko bei Diabetikern um 33% niedriger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZm5SdHR4YUU2RWlfaDFITElGZ0FKWVprTzRqVGdjdkZsT3B6WDVzbUZlTFF6VVY5NnMzM0g4QmZ4ZzJKUXdGQy01MDFVQVRnUEVDTnBWVTN2dTExSUcxSTBxN0RoeERuMDdXcW9LQ3FpQUQxVkdzZjNQMXhlbGlCQ3ZHUEtteU1qWkR0cXRWdEJtckRQaW9QNmoxbnR4Q0s2YjlyMi1zMWlUdXNiX2Vua1FmTTN5VGdwd1VHTGxR?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZm5SdHR4YUU2RWlfaDFITElGZ0FKWVprTzRqVGdjdkZsT3B6WDVzbUZlTFF6VVY5NnMzM0g4QmZ4ZzJKUXdGQy01MDFVQVRnUEVDTnBWVTN2dTExSUcxSTBxN0RoeERuMDdXcW9LQ3FpQUQxVkdzZjNQMXhlbGlCQ3ZHUEtteU1qWkR0cXRWdEJtckRQaW9QNmoxbnR4Q0s2YjlyMi1zMWlUdXNiX2Vua1FmTTN5VGdwd1VHTGxR?oc=5)
-
----
+## 相關新聞（35 則）
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
 2026-06-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+---
+
+### [Triple-Agonisten: GLP-1-Mittel senken Alzheimer-Risiko um 33%](https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzNFUHpBZ195MWZDYkYzXzZLVkxYaXhkbFR3UjJkQ1laWHFGVENOQ2VyeXA3aGJSZkxmTnZCWnQ1bU5hdlYxeXIzOVVCaUtGaXJIYVBvY3h4eW9sY21yNFVXNG1vaGV4Nm85dFJOSEVHVTNOTGVkYk40R2lmeE9KTkFicm5iQnpBUEl5dDhzZHRfc0hCTE9vU0ZVczVWLWZ6UWZXWkFjNExhbW00TlJ6QzZXWERMNG8?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzNFUHpBZ195MWZDYkYzXzZLVkxYaXhkbFR3UjJkQ1laWHFGVENOQ2VyeXA3aGJSZkxmTnZCWnQ1bU5hdlYxeXIzOVVCaUtGaXJIYVBvY3h4eW9sY21yNFVXNG1vaGV4Nm85dFJOSEVHVTNOTGVkYk40R2lmeE9KTkFicm5iQnpBUEl5dDhzZHRfc0hCTE9vU0ZVczVWLWZ6UWZXWkFjNExhbW00TlJ6QzZXWERMNG8?oc=5)
+
+---
+
+### [La “frustración” de abordar un tumor sin arsenal terapéutico: “Es muy difícil avanzar en el glioma de bajo grado si no hay ensayos”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYkdnbXlnQTgyalBkbl9BREJvSGVyS3RNV296Tk5IWURIYzM0U3pzZmRSQVgxM3g2cl9tZEdMX0JiTUF2YWdaYmpxRnRFSlNuRG9IU05MRnI1dDZYME5BMzFfSE56bVo2VGh3N09PTnNhWXBqZGxQb3JqdzZ0NmphQ0J6SUJTTktfTTFIT3ZLSjdEUmdmNzZGeXNqYlJFcnVtUGtNenFwM0J1QnBxV015ZC0tM2MtNXJqdkpFQ3R4dlBSMXE3ZlV5YVdYNmViOHRtZU5RaTRCdjJ5a0E1YzJXLTEwdE03QkNJRWdN?oc=5)
+
+2026-06-24 <span class="news-indication-tag">tumor</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYkdnbXlnQTgyalBkbl9BREJvSGVyS3RNV296Tk5IWURIYzM0U3pzZmRSQVgxM3g2cl9tZEdMX0JiTUF2YWdaYmpxRnRFSlNuRG9IU05MRnI1dDZYME5BMzFfSE56bVo2VGh3N09PTnNhWXBqZGxQb3JqdzZ0NmphQ0J6SUJTTktfTTFIT3ZLSjdEUmdmNzZGeXNqYlJFcnVtUGtNenFwM0J1QnBxV015ZC0tM2MtNXJqdkpFQ3R4dlBSMXE3ZlV5YVdYNmViOHRtZU5RaTRCdjJ5a0E1YzJXLTEwdE03QkNJRWdN?oc=5)
+
+---
+
+### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+---
+
+### [Menschen mit krebsassoziierter Fatigue könnten von Methylphenidat profitieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdlNyRFlzLTVhLU1CUjNtQXNra3BSbTBVSnVzV2VocjVIRTFEeWlWZ0tvcHJuQVF5d0tRb2c3TnVqcE85dW9kcTIta0YzUlNmUWdtUDUwUC1FXzgyTnNHMUxjSkhSbklLZV9GM0xBWlZac3NUTDRKaFBBN0VIN3BER0h6a0M4a0ktbmRCWVl4VFZpNm1lWWNpNF9wb2RpODcyTVRUYW8xcUFWUnNfa21fYTdXWENrX3NFOXdXQno3dHFfd0o5WEw4M3ByUTQ0dWpwTjZQNlNHZ3E0eWs3MFI0?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdlNyRFlzLTVhLU1CUjNtQXNra3BSbTBVSnVzV2VocjVIRTFEeWlWZ0tvcHJuQVF5d0tRb2c3TnVqcE85dW9kcTIta0YzUlNmUWdtUDUwUC1FXzgyTnNHMUxjSkhSbklLZV9GM0xBWlZac3NUTDRKaFBBN0VIN3BER0h6a0M4a0ktbmRCWVl4VFZpNm1lWWNpNF9wb2RpODcyTVRUYW8xcUFWUnNfa21fYTdXWENrX3NFOXdXQno3dHFfd0o5WEw4M3ByUTQ0dWpwTjZQNlNHZ3E0eWs3MFI0?oc=5)
+
+---
+
+### [Wie viel Kaffee am Tag ist gesund? Ab so vielen Tassen wird es gefährlich - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
 
 ---
 
@@ -126,14 +158,6 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
-
----
-
 ### [El consumo de alimentos ultraprocesados en adolescentes se relaciona con alteraciones metabólicas asociadas a la diabetes tipo 2 - ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUWFsWXFmc0tCS09DNTkycUNGZHdTY3FXeFpxdXoySDZrc01Bcngtb1V2czd0SlcwMGFsYU5IU2ZWaDN4RW1ueGN1TGNFTkk0dFlQNEJNbG0zOEYyZU01c2NLM0s5V3phYksybkNlYmhiZ3o4eExlcTVMYnFhZi1TVWtFMzdWaHZoemxKY29RWW03VHJvUVpGLUJFMC1kM0FGLV9lenZrX2FjQ0lpUmNuTDdfNUV2Ymk0TngxakRrY2xBWC1MR1R1NDNyVG10cThVN1g1SzY1SXJzc2J0Z3NmVzNNcEdYd0M1VGtj?oc=5)
 
 2026-06-23 <span class="news-indication-tag">diabetes</span>
@@ -158,14 +182,6 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [China aprueba satri-cel, la primera CAR-T para tumores sólidos del mundo](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ORnNFbUhGNEtaRElrREpRcko3ci01X2ZsLTZKOGVRYmtMakFvZFl6SHY2d2tHbV9iU2VkR2lZZ0FWWFlaUmJMZjc4VU92S0pvdmJfb3FfN24xNkhyelJGUG85aFQzbWIxcmlzUWYtNUhiNkFrc3JNZUUxTVBNOFU?oc=5)
-
-2026-06-23 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ORnNFbUhGNEtaRElrREpRcko3ci01X2ZsLTZKOGVRYmtMakFvZFl6SHY2d2tHbV9iU2VkR2lZZ0FWWFlaUmJMZjc4VU92S0pvdmJfb3FfN24xNkhyelJGUG85aFQzbWIxcmlzUWYtNUhiNkFrc3JNZUUxTVBNOFU?oc=5)
-
----
-
 ### [Tumore prostata, trattamento sperimentale uccide le cellule e riattiva l'immunità: il nuovo studio americano (e cosa potrebbe cambiare) - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
 
 2026-06-23 <span class="news-indication-tag">tumor</span>
@@ -174,11 +190,11 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Wie viel Kaffee am Tag trinken? Ernährungsexpertin nennt Obergrenze - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
+### ["80 % des cancers du pancréas sont inopérables" : à Poitiers, le Foodtrucks festival donne pour la recherche](https://news.google.com/rss/articles/CBMihAJBVV95cUxNNTVuUW5LckRqTUJIekRCUFZtcFJ6V1k3WTdZWFUzZVFxSFdQQ1g2YXJfMWFmc0lyNmg3dDN4bnJKU1FhMG5HUG0wTHNsclFDcFVxUWIzQzRZbjJtLUEzRVFyYkR5c0llVTFTWF9TaGFkcFBGc0lsY2c1TDBSRzdJQlE4MDZNdFZBeEN0OXhjTDNMc0txcHRZTnpFMnhTSVpJX3dKNjRCRFRtaDhoY0FXTzhpY0pINkxGUWkzN051Y2ZjbVpDcnJiTGhGdVJyLWNXUzU0clF4Y0lzVWQ4NXlreHBIYmJHcGpFLXEzREZXN09paDlTSWlOaTRhQTc0XzRncEU5UQ?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">cancer</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
+來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxNNTVuUW5LckRqTUJIekRCUFZtcFJ6V1k3WTdZWFUzZVFxSFdQQ1g2YXJfMWFmc0lyNmg3dDN4bnJKU1FhMG5HUG0wTHNsclFDcFVxUWIzQzRZbjJtLUEzRVFyYkR5c0llVTFTWF9TaGFkcFBGc0lsY2c1TDBSRzdJQlE4MDZNdFZBeEN0OXhjTDNMc0txcHRZTnpFMnhTSVpJX3dKNjRCRFRtaDhoY0FXTzhpY0pINkxGUWkzN051Y2ZjbVpDcnJiTGhGdVJyLWNXUzU0clF4Y0lzVWQ4NXlreHBIYmJHcGpFLXEzREZXN09paDlTSWlOaTRhQTc0XzRncEU5UQ?oc=5)
 
 ---
 
@@ -248,7 +264,7 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 
-2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 
@@ -270,27 +286,11 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Cancers, maladies cardiovasculaires… Quelles sont les principales causes de décès en France ? - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFBsbVYwZWQ1YWViWG8xcEN0aXBfMVQzblpqcEhBN0RSN2tzcUNkamFkTFNJMzdWS1BydXFMWmV6ODNoNWhab0FxbGpsUEcwTkxQSmdxcDVpeVY3UXhjUHR1c0plSml4LUd6VmZZLXhVSnZLQnVWcEJobXBwa2NYV3AzbnJyZnk5ZWcwS29POFVEa1lxREdKbEg5TFBYRDdMWUNHQXZfNTVlUWJGVUZUM1BOVnAwWlE?oc=5)
+### [Cancers et maladies cardiovasculaires demeurent les premières causes de mortalité en France - Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzBjeDcxSDJIVURTMWt2X3Y3OEVCR2pacjJnNjlOTHNveEpMQ05xemVzR1pqX3JzSXV5S2hsS0VkckNVSFJCYU4tajVSc1daUVZOeWhCbmRrZngzUDdycUcxVk1YNUpZc0hUUl9BU080SU4yNVUyaEtyLUFTbnluaExwUDlQMHdfb2xDQVJXOExXbktLSUl6R2x3QVpCeFNNTjdwWTloaERYVmx5aWJoWnp2VHFwZjItMnN1SFZRNzJkTEtJ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFBsbVYwZWQ1YWViWG8xcEN0aXBfMVQzblpqcEhBN0RSN2tzcUNkamFkTFNJMzdWS1BydXFMWmV6ODNoNWhab0FxbGpsUEcwTkxQSmdxcDVpeVY3UXhjUHR1c0plSml4LUd6VmZZLXhVSnZLQnVWcEJobXBwa2NYV3AzbnJyZnk5ZWcwS29POFVEa1lxREdKbEg5TFBYRDdMWUNHQXZfNTVlUWJGVUZUM1BOVnAwWlE?oc=5)
-
----
-
-### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
-
-2026-06-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
-
----
-
-### [Drug that delays onset of type 1 diabetes approved in England and Wales - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzBjeDcxSDJIVURTMWt2X3Y3OEVCR2pacjJnNjlOTHNveEpMQ05xemVzR1pqX3JzSXV5S2hsS0VkckNVSFJCYU4tajVSc1daUVZOeWhCbmRrZngzUDdycUcxVk1YNUpZc0hUUl9BU080SU4yNVUyaEtyLUFTbnluaExwUDlQMHdfb2xDQVJXOExXbktLSUl6R2x3QVpCeFNNTjdwWTloaERYVmx5aWJoWnp2VHFwZjItMnN1SFZRNzJkTEtJ?oc=5)
 
 ---
 
@@ -302,11 +302,27 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
+### [A molecule called MHC I was understood for decades as the thing that lets the immune system recognize cancer, until researchers found the immune system attacks hardest exactly when cancer switches it off - Space Daily](https://news.google.com/rss/articles/CBMixwJBVV95cUxNeE1pWlFrYms3aDVzbG9OVVduUEFkS09SZWswRFlnNWE1Zk5iOV9tWEJ1QWtndGR5ZEhoOWxmZm5MdmlZVktHemxQSUxrbXlHd1BkbklSQ3IxdngtN1p4c09hVUoxVmIwRGgzdGJhUEo2R3BXYWxKZll3Tkx0aXF5ZWVHM0xENWR4VFlpTmdnZnBtUnJlOEswWVRGR0xsVG5yX183bll6Sk5lWUd1WC1mTENDRmF4d3ByZjBHdmV4cUhzS2Frd3hUT1p2b2wwQ0ppSnFUeXlueUZvMnl4VjVOYUsxYW5MTmZSOG1reWJHZkQ4aExxYXg1Z2ZoTzdPdGNjQUF6MXFQMHF4UGhkaVlQQWtXX1J1RDg1TzNHa2F4bEtySElLTkV6ZzVnTkpRUW1nbnd4NWt2cUhzTDdMaHJ4NEtDY01JWjA?oc=5)
+
+2026-06-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMixwJBVV95cUxNeE1pWlFrYms3aDVzbG9OVVduUEFkS09SZWswRFlnNWE1Zk5iOV9tWEJ1QWtndGR5ZEhoOWxmZm5MdmlZVktHemxQSUxrbXlHd1BkbklSQ3IxdngtN1p4c09hVUoxVmIwRGgzdGJhUEo2R3BXYWxKZll3Tkx0aXF5ZWVHM0xENWR4VFlpTmdnZnBtUnJlOEswWVRGR0xsVG5yX183bll6Sk5lWUd1WC1mTENDRmF4d3ByZjBHdmV4cUhzS2Frd3hUT1p2b2wwQ0ppSnFUeXlueUZvMnl4VjVOYUsxYW5MTmZSOG1reWJHZkQ4aExxYXg1Z2ZoTzdPdGNjQUF6MXFQMHF4UGhkaVlQQWtXX1J1RDg1TzNHa2F4bEtySElLTkV6ZzVnTkpRUW1nbnd4NWt2cUhzTDdMaHJ4NEtDY01JWjA?oc=5)
+
+---
+
 ### [Prädiabetes-Remission: Sterberisiko sinkt um 58 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
+
+---
+
+### [Teplizumab, the first treatment to slow type 1 diabetes, approved for use on the NHS - Diabetes UK](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvQ19Nc0FoUUpmaEk2djRUZWw4N3FqaVljdGlPc2ZBV0VkbjZfcmNOVm9YNnJ3V2ItTFFlVWJVMExmX25DOGtpTEd4RnBsd1k2cHYzNWsxVDZ0ZzM5cWpKODBVSHRTVHJEZXl0bWkzTXQ3UndmdW01UFNDUTNLR1hFb1htQ3B0OVpKNGp1MGRlODZUdVpUQUp3OHR2NHRlenF4MWNrdmFhUFVlalV0QlU0ZnJDdkU?oc=5)
+
+2026-06-22 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes UK](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvQ19Nc0FoUUpmaEk2djRUZWw4N3FqaVljdGlPc2ZBV0VkbjZfcmNOVm9YNnJ3V2ItTFFlVWJVMExmX25DOGtpTEd4RnBsd1k2cHYzNWsxVDZ0ZzM5cWpKODBVSHRTVHJEZXl0bWkzTXQ3UndmdW01UFNDUTNLR1hFb1htQ3B0OVpKNGp1MGRlODZUdVpUQUp3OHR2NHRlenF4MWNrdmFhUFVlalV0QlU0ZnJDdkU?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（4 則）
 
+### [La esteatosis hepática metabólica avanza como la gran amenaza silenciosa para el hígado - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXFzelN5MHVqV21GX2hhUy1XRGZEUmltTTc1WDJ1Q05oQi1EdktvOEowOWdCZ1RJMlFsdWhBSUlZTnBRVEhsLW5ueVBua0c0Z09YV3lfeE54YXF4YTBpUVVMZHlfMDlXZjQzcHFjODBGUXJYN3VUWVhfNWwwQldOWEZzSnlzX2h2eUZnQkZ5dWItdk9TbmJkT204QkxDR3hEclFKMFJ3ZzVLcHc5X2dPSS1Xb2gzZ2NsSUpvTlotZHnSAbsBQVVfeXFMTTE1QVR2cERFUks1STdsUG5tbWtKQW1DREE2YkxZd1NCWGh1bG1TVXprU1NrRmJHdFZmdU1QS2hWR3N4TkNWSmJnaEVxMWFVeUxabXlSekxjYmhuMUg3VFBGaG9BVFIwQmVubEM3VkJTNkRpdkEwRVdHeEh4R1BKUG5PelFmaVRNX1N4c215TXA2OVdBWmJNaXV3MWdQTzU1bWhRNUpxejlFNzdXU1hLWFFXeG5aRldGTHJYSQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXFzelN5MHVqV21GX2hhUy1XRGZEUmltTTc1WDJ1Q05oQi1EdktvOEowOWdCZ1RJMlFsdWhBSUlZTnBRVEhsLW5ueVBua0c0Z09YV3lfeE54YXF4YTBpUVVMZHlfMDlXZjQzcHFjODBGUXJYN3VUWVhfNWwwQldOWEZzSnlzX2h2eUZnQkZ5dWItdk9TbmJkT204QkxDR3hEclFKMFJ3ZzVLcHc5X2dPSS1Xb2gzZ2NsSUpvTlotZHnSAbsBQVVfeXFMTTE1QVR2cERFUks1STdsUG5tbWtKQW1DREE2YkxZd1NCWGh1bG1TVXprU1NrRmJHdFZmdU1QS2hWR3N4TkNWSmJnaEVxMWFVeUxabXlSekxjYmhuMUg3VFBGaG9BVFIwQmVubEM3VkJTNkRpdkEwRVdHeEh4R1BKUG5PelFmaVRNX1N4c215TXA2OVdBWmJNaXV3MWdQTzU1bWhRNUpxejlFNzdXU1hLWFFXeG5aRldGTHJYSQ?oc=5)
+
+---
+
 ### [Identifican marcas en el ADN ligadas a la resistencia a la insulina en niños con obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
-
----
-
-### [Uno de cada tres adultos padece hígado graso no alcohólico - El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
-
-2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
 
 ---
 
@@ -80,7 +80,7 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 
-2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [UNICEF y Gavi piden información a fabricantes sobre sus planes para desarrollar una vacuna contra el ébola Bundibugyo](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTk0yVDZUVnZhbGZobV9FNTREa3AydnRaREpYX19WTVhsMngyalAyeTZ1clo0UzN0SzRyamxaN25tOHNkS0JSYlhSTWU2bXJqVXRZY0g1ZkZWN0xMVEVVaG5lei1MVFlnMXIyQ1pNc3ZKeVVFY1NCQXk0Ui1WUkJsZEpTcDV0RzlsX3F1eTdjcklmNng0ZWlpWEdfelgxZE5oeS1pX1JVM2tFVnZkVmdqQ2E0WmdmbkxkbFRzZ2hiNnR4M1RFQWw0VWUtamlDR1VuZTdFX2xFXzNOcWpwNWxZRzZLcjFMTVJrMGxMbQ?oc=5)
+
+2026-06-24 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTk0yVDZUVnZhbGZobV9FNTREa3AydnRaREpYX19WTVhsMngyalAyeTZ1clo0UzN0SzRyamxaN25tOHNkS0JSYlhSTWU2bXJqVXRZY0g1ZkZWN0xMVEVVaG5lei1MVFlnMXIyQ1pNc3ZKeVVFY1NCQXk0Ui1WUkJsZEpTcDV0RzlsX3F1eTdjcklmNng0ZWlpWEdfelgxZE5oeS1pX1JVM2tFVnZkVmdqQ2E0WmdmbkxkbFRzZ2hiNnR4M1RFQWw0VWUtamlDR1VuZTdFX2xFXzNOcWpwNWxZRzZLcjFMTVJrMGxMbQ?oc=5)
+
+---
 
 ### [Cardiopatía isquémica: aprende cómo detectar sus síntomas](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 

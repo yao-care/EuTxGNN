@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Manejo del dolor orofacial: su relación con migrañas y ansiedad cambia el abordaje](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
 
@@ -70,19 +70,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
+### [Demenz-Prävention: Rauchen erhöht Risiko um 40 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
 
-2026-06-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
+2026-06-23 <span class="news-indication-tag">Migräne</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
-
----
-
-### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Migräne</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
 
 ---
 

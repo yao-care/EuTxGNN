@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
-### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
+### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 
-2026-06-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
-
----
-
-### [Científicos franceses descubren 8 aditivos que consumimos a diario que incrementan el riesgo de sufrir un problema del corazón - El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOelYzb0lDcGxyZmg5bnJqSGdpc2hkQkRmb0EtalRWRnpkVW9wWVB5UlpWZEpnUVFYTlFRc3lmMHdRaEZyS21MQ2xnRm1rd0d0ZHhEb0pqV0lIRkp2V2hSLWNhZ2NhaU5iaUVta0RwdEhtUE5HUzNFenQwQ2lrcXhYNmdiSW9NeXp3RDZocGF1VUc2QWxWUWVsWUJfa2VYcmlLMlFHRU9pbEw0ZU9UU2pIMi1PcVlJWDg0TzJWb29sTjJNaHItQmtoR005Y1d4YlVBR0xLQ2w1eXJOMURtMmZ3bVZ2OXVYSjN0Yk82UWkzemlNR2NsRDhlc3dhS0FNQzQ3ajhpQ3M3NXpld3g5YjdKaXFWWG50YTBVUUJ4ZXBiZDZSWTF2cUhYS09tZTdfd3RJRkstSkk2clhqN05J?oc=5)
-
-2026-06-23 <span class="news-indication-tag">hipertensión</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOelYzb0lDcGxyZmg5bnJqSGdpc2hkQkRmb0EtalRWRnpkVW9wWVB5UlpWZEpnUVFYTlFRc3lmMHdRaEZyS21MQ2xnRm1rd0d0ZHhEb0pqV0lIRkp2V2hSLWNhZ2NhaU5iaUVta0RwdEhtUE5HUzNFenQwQ2lrcXhYNmdiSW9NeXp3RDZocGF1VUc2QWxWUWVsWUJfa2VYcmlLMlFHRU9pbEw0ZU9UU2pIMi1PcVlJWDg0TzJWb29sTjJNaHItQmtoR005Y1d4YlVBR0xLQ2w1eXJOMURtMmZ3bVZ2OXVYSjN0Yk82UWkzemlNR2NsRDhlc3dhS0FNQzQ3ajhpQ3M3NXpld3g5YjdKaXFWWG50YTBVUUJ4ZXBiZDZSWTF2cUhYS09tZTdfd3RJRkstSkk2clhqN05J?oc=5)
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Manejo del dolor orofacial: su relación con migrañas y ansiedad cambia el abordaje](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
 
@@ -70,19 +70,27 @@ permalink: /news/clopidogrel-as-hydrochloride/
 
 ---
 
+### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
+
+---
+
+### [Demenz-Prävention: Rauchen erhöht Risiko um 40 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Migräne</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
+
+---
+
 ### [Interstitielle Lungenerkrankungen bei Rheuma: Treiber von Morbidität und Mortalität](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVYUWdqSm50Y3hTOWdkUmpfMi1jc3ZieWNhNHJ4N1ZZVzgtUGRiWkROcTBoZXQ4c2E2b0NTUDhSdW02UTJpNHhGT1VqMndUMXVJc3dJQTk1UXp4c3BIRTFJQm14bHVHbnAybXc5ZGRnTlJYZk5lb09TQjhCOWNjZmtlTDRIVEhZaVluZHJ0RlI3MEZBSHdIRFplaXMtWlFWMGk5NGZSUHV6eElDYzA3aHNUMkctVGE3?oc=5)
 
 2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVYUWdqSm50Y3hTOWdkUmpfMi1jc3ZieWNhNHJ4N1ZZVzgtUGRiWkROcTBoZXQ4c2E2b0NTUDhSdW02UTJpNHhGT1VqMndUMXVJc3dJQTk1UXp4c3BIRTFJQm14bHVHbnAybXc5ZGRnTlJYZk5lb09TQjhCOWNjZmtlTDRIVEhZaVluZHJ0RlI3MEZBSHdIRFplaXMtWlFWMGk5NGZSUHV6eElDYzA3aHNUMkctVGE3?oc=5)
-
----
-
-### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Migräne</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
 
 ---
 

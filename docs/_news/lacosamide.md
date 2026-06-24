@@ -14,7 +14,7 @@ permalink: /news/lacosamide/
 ---
 
 <p class="key-answer" data-question="Lacosamide 有什麼相關新聞？">
-<strong>Lacosamide</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lacosamide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lacosamide/
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（26 則）
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
@@ -62,11 +62,43 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Sprache: Wie das Gehirn aus einzelnen Wörtern ganze Sätze baut - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1h6QlFvZFNobWxaaUNXaTl6OTFCTEpGNnlnOVRvUUpGQ2NreFh4ZHNjS1R3OE0zWW1FTWZIR0dNaHRxakt1b0JyQWRHTm9XRGwxM2pLaXk0aUMzeW4xQ2hscVJIYXFTZDBwaEZjMVl6M1lHU21uWlNEdTgzWkthdVVXZFpROTZfOHVoczBPY1QydVpSNzI5UG9oUkVSanJJSWc?oc=5)
+### [Nachtaktive Synapsen: Bei Schlafmangel bleibt im Gehirn zu viel verdrahtet](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWldsSmQtX1RQLU5OQXBJVDhFcFdDem1tOE0wSk1US1lKVU90R3U5RVBpZ2JpYWpKV2lsTm52b2dtd1FETHdKRm9wNURvRnF3U1B4OS0yLVBLQ1BWVjRJUzQ3czRDSmM3WmJRc3FvekxEbHJoQndoUWgxWXZ2T1FKU0FaNzRnMTBwRUs5elpkQ19NclQybFl0dGd5LWhJaW5tYW02elg1M3M1Y2Z1ekVOeTJVbjNYLUljU2daUHlKeDlucjBu?oc=5)
 
 2026-06-24 <span class="news-indication-tag">AF</span>
 
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1h6QlFvZFNobWxaaUNXaTl6OTFCTEpGNnlnOVRvUUpGQ2NreFh4ZHNjS1R3OE0zWW1FTWZIR0dNaHRxakt1b0JyQWRHTm9XRGwxM2pLaXk0aUMzeW4xQ2hscVJIYXFTZDBwaEZjMVl6M1lHU21uWlNEdTgzWkthdVVXZFpROTZfOHVoczBPY1QydVpSNzI5UG9oUkVSanJJSWc?oc=5)
+來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWldsSmQtX1RQLU5OQXBJVDhFcFdDem1tOE0wSk1US1lKVU90R3U5RVBpZ2JpYWpKV2lsTm52b2dtd1FETHdKRm9wNURvRnF3U1B4OS0yLVBLQ1BWVjRJUzQ3czRDSmM3WmJRc3FvekxEbHJoQndoUWgxWXZ2T1FKU0FaNzRnMTBwRUs5elpkQ19NclQybFl0dGd5LWhJaW5tYW02elg1M3M1Y2Z1ekVOeTJVbjNYLUljU2daUHlKeDlucjBu?oc=5)
+
+---
+
+### [Wie viel Kaffee am Tag ist gesund? Ab so vielen Tassen wird es gefährlich - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+---
+
+### [France confirms first Ebola case in doctor who had worked in DRC - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDhEVmVvQzNreHVuX1VrNlFfZXRNNEdKVUlYbzI2bTg3YVNnS1BlSS1IcGNmejY1bDFOM210bTNtQU05TVhVUDNsLWZuUXdDM1BPTFQtWXF4UnRERmlRM0s0Mk9fOUhybzVTU2dUNFRVYUxBdzA3WWVxS1VnT2dCX2RCcnBRRnc?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDhEVmVvQzNreHVuX1VrNlFfZXRNNEdKVUlYbzI2bTg3YVNnS1BlSS1IcGNmejY1bDFOM210bTNtQU05TVhVUDNsLWZuUXdDM1BPTFQtWXF4UnRERmlRM0s0Mk9fOUhybzVTU2dUNFRVYUxBdzA3WWVxS1VnT2dCX2RCcnBRRnc?oc=5)
+
+---
+
+### ['Flesh-eating' bacteria threat spreads on Europe's beaches as seas warm](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5)
+
+---
+
+### [La esteatosis hepática metabólica avanza como la gran amenaza silenciosa para el hígado - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXFzelN5MHVqV21GX2hhUy1XRGZEUmltTTc1WDJ1Q05oQi1EdktvOEowOWdCZ1RJMlFsdWhBSUlZTnBRVEhsLW5ueVBua0c0Z09YV3lfeE54YXF4YTBpUVVMZHlfMDlXZjQzcHFjODBGUXJYN3VUWVhfNWwwQldOWEZzSnlzX2h2eUZnQkZ5dWItdk9TbmJkT204QkxDR3hEclFKMFJ3ZzVLcHc5X2dPSS1Xb2gzZ2NsSUpvTlotZHnSAbsBQVVfeXFMTTE1QVR2cERFUks1STdsUG5tbWtKQW1DREE2YkxZd1NCWGh1bG1TVXprU1NrRmJHdFZmdU1QS2hWR3N4TkNWSmJnaEVxMWFVeUxabXlSekxjYmhuMUg3VFBGaG9BVFIwQmVubEM3VkJTNkRpdkEwRVdHeEh4R1BKUG5PelFmaVRNX1N4c215TXA2OVdBWmJNaXV3MWdQTzU1bWhRNUpxejlFNzdXU1hLWFFXeG5aRldGTHJYSQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXFzelN5MHVqV21GX2hhUy1XRGZEUmltTTc1WDJ1Q05oQi1EdktvOEowOWdCZ1RJMlFsdWhBSUlZTnBRVEhsLW5ueVBua0c0Z09YV3lfeE54YXF4YTBpUVVMZHlfMDlXZjQzcHFjODBGUXJYN3VUWVhfNWwwQldOWEZzSnlzX2h2eUZnQkZ5dWItdk9TbmJkT204QkxDR3hEclFKMFJ3ZzVLcHc5X2dPSS1Xb2gzZ2NsSUpvTlotZHnSAbsBQVVfeXFMTTE1QVR2cERFUks1STdsUG5tbWtKQW1DREE2YkxZd1NCWGh1bG1TVXprU1NrRmJHdFZmdU1QS2hWR3N4TkNWSmJnaEVxMWFVeUxabXlSekxjYmhuMUg3VFBGaG9BVFIwQmVubEM3VkJTNkRpdkEwRVdHeEh4R1BKUG5PelFmaVRNX1N4c215TXA2OVdBWmJNaXV3MWdQTzU1bWhRNUpxejlFNzdXU1hLWFFXeG5aRldGTHJYSQ?oc=5)
 
 ---
 
@@ -102,6 +134,14 @@ permalink: /news/lacosamide/
 
 ---
 
+### [Sprache: Wie das Gehirn aus einzelnen Wörtern ganze Sätze baut - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1h6QlFvZFNobWxaaUNXaTl6OTFCTEpGNnlnOVRvUUpGQ2NreFh4ZHNjS1R3OE0zWW1FTWZIR0dNaHRxakt1b0JyQWRHTm9XRGwxM2pLaXk0aUMzeW4xQ2hscVJIYXFTZDBwaEZjMVl6M1lHU21uWlNEdTgzWkthdVVXZFpROTZfOHVoczBPY1QydVpSNzI5UG9oUkVSanJJSWc?oc=5)
+
+2026-06-23 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1h6QlFvZFNobWxaaUNXaTl6OTFCTEpGNnlnOVRvUUpGQ2NreFh4ZHNjS1R3OE0zWW1FTWZIR0dNaHRxakt1b0JyQWRHTm9XRGwxM2pLaXk0aUMzeW4xQ2hscVJIYXFTZDBwaEZjMVl6M1lHU21uWlNEdTgzWkthdVVXZFpROTZfOHVoczBPY1QydVpSNzI5UG9oUkVSanJJSWc?oc=5)
+
+---
+
 ### [elEconomista.es | El aviso que preocupa a los neurólogos en plena ola de calor: el calor extremo puede agravar las migrañas en miles de personas en España - El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
 
 2026-06-23 <span class="news-indication-tag">migraña</span>
@@ -122,7 +162,7 @@ permalink: /news/lacosamide/
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[dilei.it](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0J3UHlFRUUtT3UxcDd1bENCT1ljX1UtZ0Q3YWFNSl9MYk9ocFVFMmRPTEloVFFjaFZxTExYaFcwSEZfbHdTN2tqVVUyQVVMSXBfRlJyc3ZZdTlOa1NkSzBsck41WThBVlktN1BrY0sxUnpGRjlFUTdLWGJNclhhNkd5Q0FGUdIBiwFBVV95cUxOc2ZFNXhmVlBSTkJPSDYzeTkwbnhtZ0M2cDVBMDVJZ0ExNGJvZ2JRal9zXzRpZmJBd3EtOTZIY0Z5emxaSVQyUExIaVNqbnF3U2Jvemppb3A3Skc2TDAyYWg5bVZMVW5ka09va0Q3V3VXcDUzS2c0aXZnNHhUazlQbzNxSXMweEpCbTQ4?oc=5)
+來源：[DiLei](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0J3UHlFRUUtT3UxcDd1bENCT1ljX1UtZ0Q3YWFNSl9MYk9ocFVFMmRPTEloVFFjaFZxTExYaFcwSEZfbHdTN2tqVVUyQVVMSXBfRlJyc3ZZdTlOa1NkSzBsck41WThBVlktN1BrY0sxUnpGRjlFUTdLWGJNclhhNkd5Q0FGUdIBiwFBVV95cUxOc2ZFNXhmVlBSTkJPSDYzeTkwbnhtZ0M2cDVBMDVJZ0ExNGJvZ2JRal9zXzRpZmJBd3EtOTZIY0Z5emxaSVQyUExIaVNqbnF3U2Jvemppb3A3Skc2TDAyYWg5bVZMVW5ka09va0Q3V3VXcDUzS2c0aXZnNHhUazlQbzNxSXMweEpCbTQ4?oc=5)
 
 ---
 
@@ -134,11 +174,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Del ayuno intermitente al sueño intermitente: los beneficios de pasar una noche en vela](https://news.google.com/rss/articles/CBMirAFBVV95cUxQanN4UTJWQUptV2xGR1BoRWxwQ1B3bkk1bGk5emVnMHBLLUNBeUd0VFp1S2RsTVhKNUxPMjdBdjVSemxXalJhQVlTUXg1Vk42WkRWYVVHT1gyeHN1OGdQX0M3QjFNTUUtUElJNTg1bzJ2S3F4T2tObFR6TmJldUowMTkxZTZqdEVHUkdUN29kTThPYnFrWFc2MHNxSUdoYUJGR05zaEdJQ3Rja1pj0gGyAUFVX3lxTE5ydHRmT0pSSGNocFljR21fRG5KTVZTc0JROUVockJCUVBORGlqM0FObjNkQnlLWXdtRTFDek5lMkZnbTUyX2dYR2d0bVo0YUQyRGhQVVl0S3BOWGhxbW9mb1poeXBLN0ZLajJzZnV6aDlKQV9tNVdKTjM4UHQ2XzlPcExfWTFvSDVoY3JQYVVkSl9CSWpmX2cwemJEaGNTcFY2TGNuT1R2dTlYa2hRV1oxUGc?oc=5)
+### [UK heatwave: Five medications that can affect how your body regulates temperature - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0pSdEdaTWVrZ1pvNml3ZEEtTUlwWmp3N3pGaVp3dXJnRUdORU9JQVRzbjNjSkVBQndWQ1dVMHZSNFNybHhVVlp6dGdubi1Xai0wSXpHRERTWEtWdldpalBHamxraHg1X2lzdmRLWDNycmNIakpFYkhwemVXZklSblJWRHVxMUgwd2ppR0EtYlJFV002WDI5RlZiVTlQcnZZY2REMkg4YWlvVFpPb0VEbUVXNU9pZ2lLbXF0Yg?oc=5)
 
-2026-06-23 <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMirAFBVV95cUxQanN4UTJWQUptV2xGR1BoRWxwQ1B3bkk1bGk5emVnMHBLLUNBeUd0VFp1S2RsTVhKNUxPMjdBdjVSemxXalJhQVlTUXg1Vk42WkRWYVVHT1gyeHN1OGdQX0M3QjFNTUUtUElJNTg1bzJ2S3F4T2tObFR6TmJldUowMTkxZTZqdEVHUkdUN29kTThPYnFrWFc2MHNxSUdoYUJGR05zaEdJQ3Rja1pj0gGyAUFVX3lxTE5ydHRmT0pSSGNocFljR21fRG5KTVZTc0JROUVockJCUVBORGlqM0FObjNkQnlLWXdtRTFDek5lMkZnbTUyX2dYR2d0bVo0YUQyRGhQVVl0S3BOWGhxbW9mb1poeXBLN0ZLajJzZnV6aDlKQV9tNVdKTjM4UHQ2XzlPcExfWTFvSDVoY3JQYVVkSl9CSWpmX2cwemJEaGNTcFY2TGNuT1R2dTlYa2hRV1oxUGc?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0pSdEdaTWVrZ1pvNml3ZEEtTUlwWmp3N3pGaVp3dXJnRUdORU9JQVRzbjNjSkVBQndWQ1dVMHZSNFNybHhVVlp6dGdubi1Xai0wSXpHRERTWEtWdldpalBHamxraHg1X2lzdmRLWDNycmNIakpFYkhwemVXZklSblJWRHVxMUgwd2ppR0EtYlJFV002WDI5RlZiVTlQcnZZY2REMkg4YWlvVFpPb0VEbUVXNU9pZ2lLbXF0Yg?oc=5)
 
 ---
 
@@ -150,27 +190,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Wie viel Kaffee am Tag trinken? Ernährungsexpertin nennt Obergrenze - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
-
----
-
-### [Three hot weather med mistakes that risk blistering sunburn or block thirst - The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0pTZGdmZTRHZmN5NTBRTXFDd1loU0ZuTkV1Z3pleVlyMjg3Y2tNRU1id3RzamR1UDFPU2xGSFpac0Y3MmE0UHBsUUNCeG02SkNfYk4xdktzWFVZbThMUzVDNWd4eS1JOHRtcWwzSGNyel9RWXF5M3hLdm9NTGZkOEJOYXFuMXp2VXFyOVU1TDRnazV1YUw5Q3c1Vm13cFZjcnFKaHhmYTg?oc=5)
+### [TinyCareHome: Neue Wohnform für die Pflege von morgen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3FtamQ5RURLR1pEdjBwQkR4NmNpM1pWb2owdWhjT09Da0otTHNBUUxOSWxIbW13VEI3QTlPMERMY2RlZm8yVHpJUUQxY2FVbVI5c1R6QzRKaWdIc1BYVTNNV1lZOGswOVRocUZoN0QwUFRnQnRaR0tya2NHbjR6RkJDTktLUFdxQXVaVldGSkhNaWw5ejRZdEJHS05rdEtnVlU5c3RBd3owQy1qVVFoSw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0pTZGdmZTRHZmN5NTBRTXFDd1loU0ZuTkV1Z3pleVlyMjg3Y2tNRU1id3RzamR1UDFPU2xGSFpac0Y3MmE0UHBsUUNCeG02SkNfYk4xdktzWFVZbThMUzVDNWd4eS1JOHRtcWwzSGNyel9RWXF5M3hLdm9NTGZkOEJOYXFuMXp2VXFyOVU1TDRnazV1YUw5Q3c1Vm13cFZjcnFKaHhmYTg?oc=5)
-
----
-
-### [TinyCareHome: Neue Wohnform für die Pflege von morgen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbEJldW1UYjZobjJpY2lyclZGUnVGZHJwbk9BZVpCOGllTFlyWExOTUlVYkVkSmpGSTd0MmItUUJrY0c3dEtqenpIQQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbEJldW1UYjZobjJpY2lyclZGUnVGZHJwbk9BZVpCOGllTFlyWExOTUlVYkVkSmpGSTd0MmItUUJrY0c3dEtqenpIQQ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3FtamQ5RURLR1pEdjBwQkR4NmNpM1pWb2owdWhjT09Da0otTHNBUUxOSWxIbW13VEI3QTlPMERMY2RlZm8yVHpJUUQxY2FVbVI5c1R6QzRKaWdIc1BYVTNNV1lZOGswOVRocUZoN0QwUFRnQnRaR0tya2NHbjR6RkJDTktLUFdxQXVaVldGSkhNaWw5ejRZdEJHS05rdEtnVlU5c3RBd3owQy1qVVFoSw?oc=5)
 
 ---
 
@@ -179,14 +203,6 @@ permalink: /news/lacosamide/
 2026-06-23 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxObGRwN1lhSVY5aU1JZVJ5c0dfTW1NMU00ajVjODBJTy1ndlNldFRCMjhsZUlwSXZjNFgyaUQzUmR5RW1lWm9FZjViOTJMM2doc1NVRXhhR0VQM2hqYWZFVW5wZ2ZFRkFLenBVeEQ2Wk92YTN2anhKQzRoSnJOa0lua21SNUZqMzNGQm5qSzV5aU00SUZ6dmhSd1BqODVEOEVsZjRRbDg5TzgzMUo5b0NNQ0RLUQ?oc=5)
-
----
-
-### [Uno de cada tres adultos padece hígado graso no alcohólico - El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
-
-2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGtJRmtzbDNpbFZKYUI3SnVZTlM1ZEthNVpDd2Q5aEJRVjVwem9qQi1wYU5lMUYyUllpUjZaMFdlckZ2cXBvbktIUzdNYVBMNmJkSXZOSkNyWUN1TGxhT3c4SEpxdXJQYmoyYkMyV1pLMm5RLXJSTnZ4RF9lTnB6VlZMQXk0WnVoZ0tfRnJoQUlYRzlFNGc?oc=5)
 
 ---
 
@@ -214,11 +230,19 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Zwei Jahre, zwei Millionen Wörter: Wie ein Gehirnimplantat das Leben eines ALS-Patienten verwandelte](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3lZSG1pc1FNR2RhSEN3UjV4RU9rMTR4UVA3a0lfWU9idWxDMVp0V01vRWoxVEw2RDRwY1NnaW9Vam55WUtOcUtjbUlHc2Ywa09HMjVwZDE2VldYWHFpM2NRVDM4Uk91VGFodVBqMVFQRmVxb05PaWZDcjMxY0c3R09YZGZTZ0RfclM3SWlUSWlPRkViWWdvNU1JS3g3TWFTWTVoem1YSzItRk9vekJHckRZMlpIRG9sSDZSck9tVEhxT2h3b2xpQ1hndlpLZUNRX0t1Z2hKNFpLZVptT0E?oc=5)
+### [Demenz-Prävention: Rauchen erhöht Risiko um 40 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
 
-2026-06-23 <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">Migräne</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3lZSG1pc1FNR2RhSEN3UjV4RU9rMTR4UVA3a0lfWU9idWxDMVp0V01vRWoxVEw2RDRwY1NnaW9Vam55WUtOcUtjbUlHc2Ywa09HMjVwZDE2VldYWHFpM2NRVDM4Uk91VGFodVBqMVFQRmVxb05PaWZDcjMxY0c3R09YZGZTZ0RfclM3SWlUSWlPRkViWWdvNU1JS3g3TWFTWTVoem1YSzItRk9vekJHckRZMlpIRG9sSDZSck9tVEhxT2h3b2xpQ1hndlpLZUNRX0t1Z2hKNFpLZVptT0E?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
+
+---
+
+### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
+
+2026-06-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
 
 ---
 
@@ -235,38 +259,6 @@ permalink: /news/lacosamide/
 2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
-
----
-
-### [Febbre del Nilo, un altro caso: un uomo ricoverato a Nuoro - La Nuova Sardegna](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTRVTTloYVB6RVVJQ3lzUWFqN0tHdEx5bURtYUhuN01UbkJfSE9aWVNqX3BPLVpWQkx0WDhRZGRlLUlrclFSMUw4YlVCSmtYUVluQ1dnRXhTRk51bDdJZnhaUHhRaFliNHJtLVZQamRyV3RmWHZlNlQycHhoTTEyQ3dFS1MydGdIX201WXdOSU9LdU5TaHdPc3Z0VnlxcjVvQXFmT08tcmJuVC1tLS1XbWtheVZJZTVWT2RwU2hJSVdqUk13R29PeQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AF</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTRVTTloYVB6RVVJQ3lzUWFqN0tHdEx5bURtYUhuN01UbkJfSE9aWVNqX3BPLVpWQkx0WDhRZGRlLUlrclFSMUw4YlVCSmtYUVluQ1dnRXhTRk51bDdJZnhaUHhRaFliNHJtLVZQamRyV3RmWHZlNlQycHhoTTEyQ3dFS1MydGdIX201WXdOSU9LdU5TaHdPc3Z0VnlxcjVvQXFmT08tcmJuVC1tLS1XbWtheVZJZTVWT2RwU2hJSVdqUk13R29PeQ?oc=5)
-
----
-
-### [Demenz & Alzheimer: Forscher warnen vor Risikofaktoren – auch bei jungen Menschen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">Migräne</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
----
-
-### [If you take blood pressure pills, you need to heed this warning - The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxNejRZTWh1RVd3TXNFMkFFTThockNvcGw1Rk1QdGliYzRJaU90clpac3lOdnBlRTlXMUJ2Znh4MzI3YkJKdEJtUU9nRThsLW9LX3U0LVpCa244ZmlLcHRzcndaaEpJZjNIOVFmaExvTGprN2lEZ2p3RkkwSVlaNXFKWmFwR2treEZvVFgwYVEyNnA2WjNZQVRBTFBKd3RvUkNTR1R5QWdvbDRQWXhIOGVuUGlQVFQyeUVYSnFubi1vcWp3elVmVnJoN2FQcw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxNejRZTWh1RVd3TXNFMkFFTThockNvcGw1Rk1QdGliYzRJaU90clpac3lOdnBlRTlXMUJ2Znh4MzI3YkJKdEJtUU9nRThsLW9LX3U0LVpCa244ZmlLcHRzcndaaEpJZjNIOVFmaExvTGprN2lEZ2p3RkkwSVlaNXFKWmFwR2treEZvVFgwYVEyNnA2WjNZQVRBTFBKd3RvUkNTR1R5QWdvbDRQWXhIOGVuUGlQVFQyeUVYSnFubi1vcWp3elVmVnJoN2FQcw?oc=5)
-
----
-
-### [„Schleuse“ für sperrige Fracht: Neue Details zum Transport von großen Proteinen durch Membranen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFM4SFNjeG9BeWdDeWQtWGYtU1NfOUEzMURua2NCRERDaWRZZ0JuMmllY2ZDRGZ0MFhGRVgwOHNyOXZaVUtkbUZLNFZudnJPUl84Y0c3M0RjVXVPenJqZXBlaHpkTmtlbEZTNkZxM0hWX3JGMnAteDJzNHYtQ0lleFBzeXc0YWZadmJlczBHQ0NfbDRLdEVJaExfaDFjcnpKdzREQjFlNWtjYmdUcEVNVkpGczljcDJvTGRkXzl6X21YbEZ3bUxycE43eUs4Y2tBS202ZDY0aWpIYjNuekpSZGlDTk9tN1E?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFM4SFNjeG9BeWdDeWQtWGYtU1NfOUEzMURua2NCRERDaWRZZ0JuMmllY2ZDRGZ0MFhGRVgwOHNyOXZaVUtkbUZLNFZudnJPUl84Y0c3M0RjVXVPenJqZXBlaHpkTmtlbEZTNkZxM0hWX3JGMnAteDJzNHYtQ0lleFBzeXc0YWZadmJlczBHQ0NfbDRLdEVJaExfaDFjcnpKdzREQjFlNWtjYmdUcEVNVkpGczljcDJvTGRkXzl6X21YbEZ3bUxycE43eUs4Y2tBS202ZDY0aWpIYjNuekpSZGlDTk9tN1E?oc=5)
 
 ---
 

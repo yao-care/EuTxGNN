@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Avanafil</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,53 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（30 則）
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
 2026-06-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+---
+
+### [La “frustración” de abordar un tumor sin arsenal terapéutico: “Es muy difícil avanzar en el glioma de bajo grado si no hay ensayos”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYkdnbXlnQTgyalBkbl9BREJvSGVyS3RNV296Tk5IWURIYzM0U3pzZmRSQVgxM3g2cl9tZEdMX0JiTUF2YWdaYmpxRnRFSlNuRG9IU05MRnI1dDZYME5BMzFfSE56bVo2VGh3N09PTnNhWXBqZGxQb3JqdzZ0NmphQ0J6SUJTTktfTTFIT3ZLSjdEUmdmNzZGeXNqYlJFcnVtUGtNenFwM0J1QnBxV015ZC0tM2MtNXJqdkpFQ3R4dlBSMXE3ZlV5YVdYNmViOHRtZU5RaTRCdjJ5a0E1YzJXLTEwdE03QkNJRWdN?oc=5)
+
+2026-06-24 <span class="news-indication-tag">tumor</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYkdnbXlnQTgyalBkbl9BREJvSGVyS3RNV296Tk5IWURIYzM0U3pzZmRSQVgxM3g2cl9tZEdMX0JiTUF2YWdaYmpxRnRFSlNuRG9IU05MRnI1dDZYME5BMzFfSE56bVo2VGh3N09PTnNhWXBqZGxQb3JqdzZ0NmphQ0J6SUJTTktfTTFIT3ZLSjdEUmdmNzZGeXNqYlJFcnVtUGtNenFwM0J1QnBxV015ZC0tM2MtNXJqdkpFQ3R4dlBSMXE3ZlV5YVdYNmViOHRtZU5RaTRCdjJ5a0E1YzJXLTEwdE03QkNJRWdN?oc=5)
+
+---
+
+### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+---
+
+### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
+
+---
+
+### [Menschen mit krebsassoziierter Fatigue könnten von Methylphenidat profitieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdlNyRFlzLTVhLU1CUjNtQXNra3BSbTBVSnVzV2VocjVIRTFEeWlWZ0tvcHJuQVF5d0tRb2c3TnVqcE85dW9kcTIta0YzUlNmUWdtUDUwUC1FXzgyTnNHMUxjSkhSbklLZV9GM0xBWlZac3NUTDRKaFBBN0VIN3BER0h6a0M4a0ktbmRCWVl4VFZpNm1lWWNpNF9wb2RpODcyTVRUYW8xcUFWUnNfa21fYTdXWENrX3NFOXdXQno3dHFfd0o5WEw4M3ByUTQ0dWpwTjZQNlNHZ3E0eWs3MFI0?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdlNyRFlzLTVhLU1CUjNtQXNra3BSbTBVSnVzV2VocjVIRTFEeWlWZ0tvcHJuQVF5d0tRb2c3TnVqcE85dW9kcTIta0YzUlNmUWdtUDUwUC1FXzgyTnNHMUxjSkhSbklLZV9GM0xBWlZac3NUTDRKaFBBN0VIN3BER0h6a0M4a0ktbmRCWVl4VFZpNm1lWWNpNF9wb2RpODcyTVRUYW8xcUFWUnNfa21fYTdXWENrX3NFOXdXQno3dHFfd0o5WEw4M3ByUTQ0dWpwTjZQNlNHZ3E0eWs3MFI0?oc=5)
+
+---
+
+### [Wie viel Kaffee am Tag ist gesund? Ab so vielen Tassen wird es gefährlich - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
 
 ---
 
@@ -75,14 +115,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
-
----
-
 ### [Scham blockiert Gesundheit: 52% meiden Analkrebs-Vorsorge](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span>
@@ -93,7 +125,7 @@ permalink: /news/avanafil/
 
 ### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
 
-2026-06-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span>
+2026-06-23 <span class="news-indication-tag">stroke</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
 
@@ -107,14 +139,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [China aprueba satri-cel, la primera CAR-T para tumores sólidos del mundo](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ORnNFbUhGNEtaRElrREpRcko3ci01X2ZsLTZKOGVRYmtMakFvZFl6SHY2d2tHbV9iU2VkR2lZZ0FWWFlaUmJMZjc4VU92S0pvdmJfb3FfN24xNkhyelJGUG85aFQzbWIxcmlzUWYtNUhiNkFrc3JNZUUxTVBNOFU?oc=5)
-
-2026-06-23 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ORnNFbUhGNEtaRElrREpRcko3ci01X2ZsLTZKOGVRYmtMakFvZFl6SHY2d2tHbV9iU2VkR2lZZ0FWWFlaUmJMZjc4VU92S0pvdmJfb3FfN24xNkhyelJGUG85aFQzbWIxcmlzUWYtNUhiNkFrc3JNZUUxTVBNOFU?oc=5)
-
----
-
 ### [Tumore prostata, trattamento sperimentale uccide le cellule e riattiva l'immunità: il nuovo studio americano (e cosa potrebbe cambiare) - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
 
 2026-06-23 <span class="news-indication-tag">tumor</span>
@@ -123,11 +147,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Wie viel Kaffee am Tag trinken? Ernährungsexpertin nennt Obergrenze - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
+### ["80 % des cancers du pancréas sont inopérables" : à Poitiers, le Foodtrucks festival donne pour la recherche](https://news.google.com/rss/articles/CBMihAJBVV95cUxNNTVuUW5LckRqTUJIekRCUFZtcFJ6V1k3WTdZWFUzZVFxSFdQQ1g2YXJfMWFmc0lyNmg3dDN4bnJKU1FhMG5HUG0wTHNsclFDcFVxUWIzQzRZbjJtLUEzRVFyYkR5c0llVTFTWF9TaGFkcFBGc0lsY2c1TDBSRzdJQlE4MDZNdFZBeEN0OXhjTDNMc0txcHRZTnpFMnhTSVpJX3dKNjRCRFRtaDhoY0FXTzhpY0pINkxGUWkzN051Y2ZjbVpDcnJiTGhGdVJyLWNXUzU0clF4Y0lzVWQ4NXlreHBIYmJHcGpFLXEzREZXN09paDlTSWlOaTRhQTc0XzRncEU5UQ?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">cancer</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
+來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxNNTVuUW5LckRqTUJIekRCUFZtcFJ6V1k3WTdZWFUzZVFxSFdQQ1g2YXJfMWFmc0lyNmg3dDN4bnJKU1FhMG5HUG0wTHNsclFDcFVxUWIzQzRZbjJtLUEzRVFyYkR5c0llVTFTWF9TaGFkcFBGc0lsY2c1TDBSRzdJQlE4MDZNdFZBeEN0OXhjTDNMc0txcHRZTnpFMnhTSVpJX3dKNjRCRFRtaDhoY0FXTzhpY0pINkxGUWkzN051Y2ZjbVpDcnJiTGhGdVJyLWNXUzU0clF4Y0lzVWQ4NXlreHBIYmJHcGpFLXEzREZXN09paDlTSWlOaTRhQTc0XzRncEU5UQ?oc=5)
 
 ---
 
@@ -171,6 +195,14 @@ permalink: /news/avanafil/
 
 ---
 
+### [Unterschätzte Spätfolgen nach Influenza, COVID-19, Pneumonien & Co](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
+
+---
+
 ### [Una inteligencia artificial identifica el perfil molecular de los meningiomas y predice su riesgo de recurrencia - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmFXTG40bW1Kb0RVOFl2TnZsckdwT29JYkpXRldGZkZnaFg1YmtGRnd3TmFWXzkxaFVla1ZSRlplUUhoZ0tZOGNuN1NtTlBvLUtTRWdoUTREMUNKMG5ZaDJ5c1RrZjJVamJHTk9Xd25IanRsb2xfM2ExMHlVbnFXaW14NmlpUFBDZ2RhdnBwcUptSGhoTFJzQXA1bEhFQ1ZzcmtqT0xWdE5LRmhwWkdEYnIycGhtaTVQZE9zYWJMN3RIejhYRGRUYzV3?oc=5)
 
 2026-06-23 <span class="news-indication-tag">tumor</span>
@@ -181,7 +213,7 @@ permalink: /news/avanafil/
 
 ### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 
-2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 
@@ -203,11 +235,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Cancers, maladies cardiovasculaires… Quelles sont les principales causes de décès en France ? - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFBsbVYwZWQ1YWViWG8xcEN0aXBfMVQzblpqcEhBN0RSN2tzcUNkamFkTFNJMzdWS1BydXFMWmV6ODNoNWhab0FxbGpsUEcwTkxQSmdxcDVpeVY3UXhjUHR1c0plSml4LUd6VmZZLXhVSnZLQnVWcEJobXBwa2NYV3AzbnJyZnk5ZWcwS29POFVEa1lxREdKbEg5TFBYRDdMWUNHQXZfNTVlUWJGVUZUM1BOVnAwWlE?oc=5)
+### [Cancers et maladies cardiovasculaires demeurent les premières causes de mortalité en France - Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzBjeDcxSDJIVURTMWt2X3Y3OEVCR2pacjJnNjlOTHNveEpMQ05xemVzR1pqX3JzSXV5S2hsS0VkckNVSFJCYU4tajVSc1daUVZOeWhCbmRrZngzUDdycUcxVk1YNUpZc0hUUl9BU080SU4yNVUyaEtyLUFTbnluaExwUDlQMHdfb2xDQVJXOExXbktLSUl6R2x3QVpCeFNNTjdwWTloaERYVmx5aWJoWnp2VHFwZjItMnN1SFZRNzJkTEtJ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFBsbVYwZWQ1YWViWG8xcEN0aXBfMVQzblpqcEhBN0RSN2tzcUNkamFkTFNJMzdWS1BydXFMWmV6ODNoNWhab0FxbGpsUEcwTkxQSmdxcDVpeVY3UXhjUHR1c0plSml4LUd6VmZZLXhVSnZLQnVWcEJobXBwa2NYV3AzbnJyZnk5ZWcwS29POFVEa1lxREdKbEg5TFBYRDdMWUNHQXZfNTVlUWJGVUZUM1BOVnAwWlE?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzBjeDcxSDJIVURTMWt2X3Y3OEVCR2pacjJnNjlOTHNveEpMQ05xemVzR1pqX3JzSXV5S2hsS0VkckNVSFJCYU4tajVSc1daUVZOeWhCbmRrZngzUDdycUcxVk1YNUpZc0hUUl9BU080SU4yNVUyaEtyLUFTbnluaExwUDlQMHdfb2xDQVJXOExXbktLSUl6R2x3QVpCeFNNTjdwWTloaERYVmx5aWJoWnp2VHFwZjItMnN1SFZRNzJkTEtJ?oc=5)
 
 ---
 
@@ -216,6 +248,14 @@ permalink: /news/avanafil/
 2026-06-23 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGxmRXAta2dMVzdMa2l0YVhXLU5lSFRjc0tPRGFZZWRtSlVVVjJuYXdCTVdsbEdhN1lfdkhuSEJEVms3Y19qWUItUUtYLV92V1RpTFAzckhxdjFqbXk0Q1JQcTB1S3ZTaEhMMnFaRGZJamQxUjZ3ei1XTVI3MGR2TTRrRGdxQUNnQTJWRUw4SlpVb1dmLWZKNA?oc=5)
+
+---
+
+### [A molecule called MHC I was understood for decades as the thing that lets the immune system recognize cancer, until researchers found the immune system attacks hardest exactly when cancer switches it off - Space Daily](https://news.google.com/rss/articles/CBMixwJBVV95cUxNeE1pWlFrYms3aDVzbG9OVVduUEFkS09SZWswRFlnNWE1Zk5iOV9tWEJ1QWtndGR5ZEhoOWxmZm5MdmlZVktHemxQSUxrbXlHd1BkbklSQ3IxdngtN1p4c09hVUoxVmIwRGgzdGJhUEo2R3BXYWxKZll3Tkx0aXF5ZWVHM0xENWR4VFlpTmdnZnBtUnJlOEswWVRGR0xsVG5yX183bll6Sk5lWUd1WC1mTENDRmF4d3ByZjBHdmV4cUhzS2Frd3hUT1p2b2wwQ0ppSnFUeXlueUZvMnl4VjVOYUsxYW5MTmZSOG1reWJHZkQ4aExxYXg1Z2ZoTzdPdGNjQUF6MXFQMHF4UGhkaVlQQWtXX1J1RDg1TzNHa2F4bEtySElLTkV6ZzVnTkpRUW1nbnd4NWt2cUhzTDdMaHJ4NEtDY01JWjA?oc=5)
+
+2026-06-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMixwJBVV95cUxNeE1pWlFrYms3aDVzbG9OVVduUEFkS09SZWswRFlnNWE1Zk5iOV9tWEJ1QWtndGR5ZEhoOWxmZm5MdmlZVktHemxQSUxrbXlHd1BkbklSQ3IxdngtN1p4c09hVUoxVmIwRGgzdGJhUEo2R3BXYWxKZll3Tkx0aXF5ZWVHM0xENWR4VFlpTmdnZnBtUnJlOEswWVRGR0xsVG5yX183bll6Sk5lWUd1WC1mTENDRmF4d3ByZjBHdmV4cUhzS2Frd3hUT1p2b2wwQ0ppSnFUeXlueUZvMnl4VjVOYUsxYW5MTmZSOG1reWJHZkQ4aExxYXg1Z2ZoTzdPdGNjQUF6MXFQMHF4UGhkaVlQQWtXX1J1RDg1TzNHa2F4bEtySElLTkV6ZzVnTkpRUW1nbnd4NWt2cUhzTDdMaHJ4NEtDY01JWjA?oc=5)
 
 ---
 
@@ -240,14 +280,6 @@ permalink: /news/avanafil/
 2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
-
----
-
-### [Ce fruit d'été est "le meilleur pour votre cœur et votre cerveau" selon ce cardiologue](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AVC</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
 
 ---
 
