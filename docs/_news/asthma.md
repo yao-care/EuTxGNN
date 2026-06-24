@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
+
+2026-06-23
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
+
+---
 
 ### [Forscher entwickeln Bluttest, der enthüllt, wie alt Organe und Körperzellen wirklich sind](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjdJa2xPNl82aW1OaWlqNWI2bG94LV9VTzQ0X2NGRUluMS1aQjNiMDMtdWFoOUx1WG44WXN6OVFGVXRrQi1Fb3BSY1dXZ194YkZUSU50MjZpaEFEVFdXMlA3X2MwQktBYlFWdFA1SGs1RHQ1WDlaNEFHc3l3YmJpNUxCYWt3SURVQkFHdGY2b0xlb00tTUZDWGN4UUQ5SEVrSVdJeGN1RkJScVJlYVZOdjdaamZ6OFp2V3JnMUpsdC1Ca2h5bHRlRFp2d1BBdFNLUXEzU1JDZWtmYzhROUhzTFJzcjdsOHFRVklPUA?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
 
 2026-06-23 <span class="news-indication-tag">stroke</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
+
+---
+
+### [Investigadores de la UGR detectan en el ADN huellas asociadas al impacto de la obesidad y el entorno en la salud infantil - Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
+
+2026-06-23 <span class="news-indication-tag">obesidad</span>
+
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
+
+---
+
+### [El hígado graso, un termómetro de la salud metabólica](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
 
 ---
 
@@ -86,11 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [La EMA comienza la evaluación de la solicitud de autorización de comercialización de Asundexian para la prevención secundaria del ictus isquémico - El Globalfarma](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0FwdjNpLXJadDVPUFRfOXp4VWlPRWU1ZWFfS0s5Z2RfRmRTZmNhWVhyNEZTWEpJOWh4dnB3ZlFzLWJ6RWFUc2hpUEJVeG9ORkMzZnI4dkQ0SWlGTmtFR0oxSVAwbkV3RENWSVpYUWw1dXdiN04yX2pHcDFSeXRtMkt4T2JWUlhIenQ3SWJJRmZTMnFyTnE4WUJ6ZmkzeEc3Zks1MUxkak5HUV9xR3R1c04wbHhJSzM3aTdWNlptUjdFbnR3cEZiQUZ3NkJGNE1FdldPSk5Pcw?oc=5)
+### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
-2026-06-22 <span class="news-indication-tag">ictus</span>
+2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
 
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0FwdjNpLXJadDVPUFRfOXp4VWlPRWU1ZWFfS0s5Z2RfRmRTZmNhWVhyNEZTWEpJOWh4dnB3ZlFzLWJ6RWFUc2hpUEJVeG9ORkMzZnI4dkQ0SWlGTmtFR0oxSVAwbkV3RENWSVpYUWw1dXdiN04yX2pHcDFSeXRtMkt4T2JWUlhIenQ3SWJJRmZTMnFyTnE4WUJ6ZmkzeEc3Zks1MUxkak5HUV9xR3R1c04wbHhJSzM3aTdWNlptUjdFbnR3cEZiQUZ3NkJGNE1FdldPSk5Pcw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/orlistat/
 2026-06-22 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
-
----
-
-### [Las farmacias de la región triplican las ventas de los nuevos fármacos para adelgazar - El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
-
-2026-06-21 <span class="news-indication-tag">obesidad</span>
-
-來源：[El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
 
 ---
 

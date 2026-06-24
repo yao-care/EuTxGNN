@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
+
+2026-06-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
+
+---
 
 ### [Forscher entwickeln Bluttest, der enthüllt, wie alt Organe und Körperzellen wirklich sind](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjdJa2xPNl82aW1OaWlqNWI2bG94LV9VTzQ0X2NGRUluMS1aQjNiMDMtdWFoOUx1WG44WXN6OVFGVXRrQi1Fb3BSY1dXZ194YkZUSU50MjZpaEFEVFdXMlA3X2MwQktBYlFWdFA1SGs1RHQ1WDlaNEFHc3l3YmJpNUxCYWt3SURVQkFHdGY2b0xlb00tTUZDWGN4UUQ5SEVrSVdJeGN1RkJScVJlYVZOdjdaamZ6OFp2V3JnMUpsdC1Ca2h5bHRlRFp2d1BBdFNLUXEzU1JDZWtmYzhROUhzTFJzcjdsOHFRVklPUA?oc=5)
 
-2026-06-22 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+2026-06-22 <span class="news-indication-tag">asma</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjdJa2xPNl82aW1OaWlqNWI2bG94LV9VTzQ0X2NGRUluMS1aQjNiMDMtdWFoOUx1WG44WXN6OVFGVXRrQi1Fb3BSY1dXZ194YkZUSU50MjZpaEFEVFdXMlA3X2MwQktBYlFWdFA1SGs1RHQ1WDlaNEFHc3l3YmJpNUxCYWt3SURVQkFHdGY2b0xlb00tTUZDWGN4UUQ5SEVrSVdJeGN1RkJScVJlYVZOdjdaamZ6OFp2V3JnMUpsdC1Ca2h5bHRlRFp2d1BBdFNLUXEzU1JDZWtmYzhROUhzTFJzcjdsOHFRVklPUA?oc=5)
 

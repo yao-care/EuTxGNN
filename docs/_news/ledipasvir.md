@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
-### [Gehirn-Schutz: Bluthochdruck erhöht Alzheimer-Risiko um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+### [Want to feel happier at work? Take a five-minute walk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dDNKMDd1VlJqUW1qTUJEcFE1eURUend5Nm1uLVJtUG9uMzA2eFE0ZFhFN0VJek1lU3dqVHUzcjBPNkstOS1ZSlMtNktlVF9lQ1pfeEtSVHZzVUVN?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-23 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dDNKMDd1VlJqUW1qTUJEcFE1eURUend5Nm1uLVJtUG9uMzA2eFE0ZFhFN0VJek1lU3dqVHUzcjBPNkstOS1ZSlMtNktlVF9lQ1pfeEtSVHZzVUVN?oc=5)
 
 ---
 
-### [El Departamento de Salud convoca un año más sus ayudas a entidades sin ánimo de lucro que trabajan en prevención y control del VIH/sida, Hepatitis C o Infecciones de Transmisión Sexual (Consejo de Gobierno 23-06-2026) - Gobierno Vasco](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcmlHZzR2VVVwdzloSWVialZ6cXNTalhVclFLMjhFcEJvd1Y4VGdxbVdjekdxdVdHbjdMczMtOVlLUjM5bHA1c3FSSTF6WDZqRHZVY1JHSF95b1N3ZEs4ZWtVeS1BRTdrcjdwejhCQU9QMGFNeTBKdkpZZ1dBakJGek1ZRFkxS2hhYkhwclNQSU1Mc25ybXZyT0phZTBrTlRpUGFvUm9iZzZQbGo2M0RTWHFCcUpONXc5RXpqYXRNREZrOGlEMlJsbk5xOEZJWmNvTlhzXzd3WkgwUU5TdGlxRnZXRXgwclZGMWk2OHVkWFZjOE5JR3pzNU9FSlcyY0c5VEY1SXBMRkhsMWlrblFIZ2t6bUxKYXFvaHpvNVV4anZETkdhSDdXYWhrSEFpZVdXYTZsc1NVcHZxSkxJM0FYd2dsQ2ZEOS12WmFRUlBwZ180RDNQQkR1Nm0zNUxaYm5EM1Zr?oc=5)
+### [Omega-3: Studie findet geringe Effekte auf Kognition, aber Hinweise auf verlangsamtenden Alterungsprozess - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+
+---
+
+### [Ramsgate mum calls for investigation into Orchard House mental health services ‘letting down’ children and young people - The Isle of Thanet News](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXg5Q09hZlRWaWREQy1PdzRUYVJWbnBRTlNGTloyUG9xRFFlNTdiN2FwQk40b094MzR1SmpDRDhjTzlZNTEyRFhsZUxpYUVjSXpqREoyN2lkU3A2RFRhQjZiNVZJSGlHNzZxWno5T2t3WTdCNkNLdFQwR2lRUG5RcENTcDFpbXFaNlZjZ3N2OTFyYzhxMFBqbVpBenJCekJLZmtnYjFwRG4wMEVRUDg5Rm1Gc0NEeGhDR3R4MnpmaGt5OXc4aTl1bVVfNy1fekwzUjNrTHdSb25rQ2lFNW43UUdCSzZUa3NBQTBMQUNsaWFVOW8?oc=5)
+
+2026-06-23 <span class="news-indication-tag">MS</span>
+
+來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXg5Q09hZlRWaWREQy1PdzRUYVJWbnBRTlNGTloyUG9xRFFlNTdiN2FwQk40b094MzR1SmpDRDhjTzlZNTEyRFhsZUxpYUVjSXpqREoyN2lkU3A2RFRhQjZiNVZJSGlHNzZxWno5T2t3WTdCNkNLdFQwR2lRUG5RcENTcDFpbXFaNlZjZ3N2OTFyYzhxMFBqbVpBenJCekJLZmtnYjFwRG4wMEVRUDg5Rm1Gc0NEeGhDR3R4MnpmaGt5OXc4aTl1bVVfNy1fekwzUjNrTHdSb25rQ2lFNW43UUdCSzZUa3NBQTBMQUNsaWFVOW8?oc=5)
+
+---
+
+### [Tumore prostata, trattamento sperimentale uccide le cellule e riattiva l'immunità: il nuovo studio americano (e cosa potrebbe cambiare) - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
+
+2026-06-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
+
+---
+
+### [Convocan ayudas por 300.000 euros a entidades que trabajen en Euskadi en prevención y control de ITS - Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
 
 2026-06-23 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Euskadi.eus](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcmlHZzR2VVVwdzloSWVialZ6cXNTalhVclFLMjhFcEJvd1Y4VGdxbVdjekdxdVdHbjdMczMtOVlLUjM5bHA1c3FSSTF6WDZqRHZVY1JHSF95b1N3ZEs4ZWtVeS1BRTdrcjdwejhCQU9QMGFNeTBKdkpZZ1dBakJGek1ZRFkxS2hhYkhwclNQSU1Mc25ybXZyT0phZTBrTlRpUGFvUm9iZzZQbGo2M0RTWHFCcUpONXc5RXpqYXRNREZrOGlEMlJsbk5xOEZJWmNvTlhzXzd3WkgwUU5TdGlxRnZXRXgwclZGMWk2OHVkWFZjOE5JR3pzNU9FSlcyY0c5VEY1SXBMRkhsMWlrblFIZ2t6bUxKYXFvaHpvNVV4anZETkdhSDdXYWhrSEFpZVdXYTZsc1NVcHZxSkxJM0FYd2dsQ2ZEOS12WmFRUlBwZ180RDNQQkR1Nm0zNUxaYm5EM1Zr?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
 
 ---
 
@@ -78,9 +102,17 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Longevità, il nuovo studio che svela il segreto per vivere oltre gli 85 anni | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnZOTmUzaF9WcmRPTEstcm5COEoySlFkZnR0eWZXbGtaMEZ3MlEzOF85VHZNc0NoYUNWR3ctT2I3aWhEMko2LW1GaTI2UkpGc3ZLTGhRRmFzR3h2R01POXBiSXQ1dHp3UjQ4LXdGdkdKTlpfR2h2aEt0Tm5wVmx3V1VzRjZNY1hsdTMzYlNadUlZSjRrcXl5QXdWZ0s0Tk1KTkJ2eUFUS0k0UlE4RlUyMW5ORmc2ZlZGNHNhdmtJdXhQSmc2N1BCTzM1OC0zQVp6V0RRS19yZFdoZ9IB3gFBVV95cUxOUXFrNzRXajBmdHJCWEh3V1VkOGFrb0FVQURrQWZNdTNleXhjcDZzMDNzVDVoWTc3aXI1b1hnTW5lNHl4VEdfb0RTbnE4OEdtalhjMkV2VVJsM19GTURXQkdBbGRjVDBqUXhudS1lVUVZNGt1TnN0NFpsejhxLTR1Z3JWNWkxc2w5cGJ6ZERDTzJEOVNwZlc4bk0wT2xZQVBmdl9MUEMzYXUzNGM2QTFERHFaWmFOS2hla2NvU3Q2NEVWTHd3MW5tSTdlY2NRaC1ZODBrN21Ob0t4a0lqOXc?oc=5)
+
+2026-06-23 <span class="news-indication-tag">MS</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnZOTmUzaF9WcmRPTEstcm5COEoySlFkZnR0eWZXbGtaMEZ3MlEzOF85VHZNc0NoYUNWR3ctT2I3aWhEMko2LW1GaTI2UkpGc3ZLTGhRRmFzR3h2R01POXBiSXQ1dHp3UjQ4LXdGdkdKTlpfR2h2aEt0Tm5wVmx3V1VzRjZNY1hsdTMzYlNadUlZSjRrcXl5QXdWZ0s0Tk1KTkJ2eUFUS0k0UlE4RlUyMW5ORmc2ZlZGNHNhdmtJdXhQSmc2N1BCTzM1OC0zQVp6V0RRS19yZFdoZ9IB3gFBVV95cUxOUXFrNzRXajBmdHJCWEh3V1VkOGFrb0FVQURrQWZNdTNleXhjcDZzMDNzVDVoWTc3aXI1b1hnTW5lNHl4VEdfb0RTbnE4OEdtalhjMkV2VVJsM19GTURXQkdBbGRjVDBqUXhudS1lVUVZNGt1TnN0NFpsejhxLTR1Z3JWNWkxc2w5cGJ6ZERDTzJEOVNwZlc4bk0wT2xZQVBmdl9MUEMzYXUzNGM2QTFERHFaWmFOS2hla2NvU3Q2NEVWTHd3MW5tSTdlY2NRaC1ZODBrN21Ob0t4a0lqOXc?oc=5)
+
+---
+
 ### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
 
-2026-06-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
 
@@ -88,7 +120,7 @@ permalink: /news/ledipasvir/
 
 ### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
-2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
@@ -110,14 +142,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [El ECDC unifica el cribado de hepatitis B y C en donaciones ante el Reglamento SoHO](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
-
----
-
 ### [Studie stellt Nutzen von Calcium und Vitamin D infrage: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0VsMjQ5aWJBTDhUMWVnaUxzUzZfWDkxck5VNFpwcFNzZlhrVmY0RXlYcGF2V3hNMEFmRllMbDdNZzRkVjdadTdfbE93cXRpSjAtTU5ET3VaSERrMzR1Zm40bmkzUHBHblE2Q0RoNkFZNHdYOEE3WHBwUGJrV0VaRVVzc3ozNDVLX1lFWWRrYkxVVktEN051eVRLcTJnYUdGZjJEOE5WQm4zeXZhZkpRbHdnWmREVnRobmN1dndPWTMyQQ?oc=5)
 
 2026-06-22 <span class="news-indication-tag">MS</span>
@@ -134,19 +158,19 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Men's health slumps in midlife – but these simple lifestyle changes will add years to your life](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
+
+2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BikeRadar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
+
+---
+
 ### [Africa can end Aids on its own terms. Will the world back us to finish the job? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
 
 2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
-
----
-
-### [«Mire su orina antes de tirar de la cadena»: la petición de los médicos de familia ante el cáncer de riñón - Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnRYWmt4TjU3Q0YwT3BKVFhXRUNYaWN4d3lrREI3Y25tczhmbmwyM2h6VFFlc3ZnVDN2c29PT25uYVdVdDJQek5GRHpsamVZVE5BODVnMDlzaDZtNGVOLThZbjMxTEEwNEVILXItOGVkMC1Fc0U5cElvaS0xOUd4UWd3UGpTeWY3Q0FwWGNuN1JMMWR0aFlmb2xGd2Q4bUFMc1FmeVRzRVBOeGMwaFNMVNIBtgFBVV95cUxOT1lsdW1QM3BUQ25IckRhM21SNXZlNzJfYjRDazQ2QkNoNzduY093SkRFVnV0emxBREhVWnBZSHk4NXFUdm5PSjg2V205T2JrTHhpeEU1U1ZMV25nZ0xLX0lyZ0VUa09sbGgwc1RXUVFsUnJucXoxMHZYd043MUcxdHA5SWdrb1RwbUJnZk5JRGxhMktFZ3ZEZGJXdm9IaDI2YXZrMEtwcFM3NC1WQllyeDYtV2xXdw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnRYWmt4TjU3Q0YwT3BKVFhXRUNYaWN4d3lrREI3Y25tczhmbmwyM2h6VFFlc3ZnVDN2c29PT25uYVdVdDJQek5GRHpsamVZVE5BODVnMDlzaDZtNGVOLThZbjMxTEEwNEVILXItOGVkMC1Fc0U5cElvaS0xOUd4UWd3UGpTeWY3Q0FwWGNuN1JMMWR0aFlmb2xGd2Q4bUFMc1FmeVRzRVBOeGMwaFNMVNIBtgFBVV95cUxOT1lsdW1QM3BUQ25IckRhM21SNXZlNzJfYjRDazQ2QkNoNzduY093SkRFVnV0emxBREhVWnBZSHk4NXFUdm5PSjg2V205T2JrTHhpeEU1U1ZMV25nZ0xLX0lyZ0VUa09sbGgwc1RXUVFsUnJucXoxMHZYd043MUcxdHA5SWdrb1RwbUJnZk5JRGxhMktFZ3ZEZGJXdm9IaDI2YXZrMEtwcFM3NC1WQllyeDYtV2xXdw?oc=5)
 
 ---
 

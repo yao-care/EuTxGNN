@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Investigadores de la UGR detectan en el ADN huellas asociadas al impacto de la obesidad y el entorno en la salud infantil - Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
+
+2026-06-23 <span class="news-indication-tag">obesidad</span>
+
+來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
+
+---
+
+### [El hígado graso, un termómetro de la salud metabólica](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
+
+---
 
 ### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
 
@@ -70,6 +86,14 @@ permalink: /news/bupropion/
 
 ---
 
+### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+
+2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+
+---
+
 ### [Cenar fruta regula la glucosa en sangre por la noche y ayuda a controlar la diabetes](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -83,14 +107,6 @@ permalink: /news/bupropion/
 2026-06-22 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmo4THpaMkdtUTJsX0hsdWhzalhyZ242bXYyU194aEFFQlVNdmIzZjRkSVJtZ1dKRFRIeDd1NVBUd252WnJoQXlVUFBCdGx3dnZjRXUwYVFEc1NRcldGUU9NMTVxRm9SMjdZamxXZ3Z3TU54TDRxckhfaVpiQU9ac0ZYeWc2WW9sWjhYdVY2VW5kSXV5UmJ2YVBaT1QtcE9GMzZMdW00RGVydkxIS0pDWGV3?oc=5)
-
----
-
-### [Las farmacias de la región triplican las ventas de los nuevos fármacos para adelgazar - El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
-
-2026-06-21 <span class="news-indication-tag">obesidad</span>
-
-來源：[El Adelantado](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjMzZ2VINTlHSXhRdTUzSHVpQ0ZpTGhZU2k2ZHNzcnJuUmxZeXUzYkg3TUE3QmlDWkZnQl94eTZTMzhKSE5uNkxSN1ZYNDdxUnI5RHNWeGVEMHZJTTFOYTZtRktYdFRDRTRXM1ZOTlBRZVItVkxoajhNM2ZWSlQxeXFYM0d3RmhYQ1lRYUNDbU5WWHFObFNibHpQRHhQanIyZVA2Tk95UFhTdXFtVlZqZUV2TkZ3Ui1XMHFHc2tfSkRGSEdJQVBuUk9oUmI0S1A2cFE?oc=5)
 
 ---
 

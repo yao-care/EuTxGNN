@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,43 +52,27 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Gehirn-Schutz: Bluthochdruck erhöht Alzheimer-Risiko um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+### [Omega-3: Studie findet geringe Effekte auf Kognition, aber Hinweise auf verlangsamtenden Alterungsprozess - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
 
 ---
 
-### [Querschnittstudie: Niedriger Blutdruck ist am stärksten mit Alzheimer assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
-
----
-
-### [El Departamento de Salud convoca un año más sus ayudas a entidades sin ánimo de lucro que trabajan en prevención y control del VIH/sida, Hepatitis C o Infecciones de Transmisión Sexual (Consejo de Gobierno 23-06-2026) - Gobierno Vasco](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcmlHZzR2VVVwdzloSWVialZ6cXNTalhVclFLMjhFcEJvd1Y4VGdxbVdjekdxdVdHbjdMczMtOVlLUjM5bHA1c3FSSTF6WDZqRHZVY1JHSF95b1N3ZEs4ZWtVeS1BRTdrcjdwejhCQU9QMGFNeTBKdkpZZ1dBakJGek1ZRFkxS2hhYkhwclNQSU1Mc25ybXZyT0phZTBrTlRpUGFvUm9iZzZQbGo2M0RTWHFCcUpONXc5RXpqYXRNREZrOGlEMlJsbk5xOEZJWmNvTlhzXzd3WkgwUU5TdGlxRnZXRXgwclZGMWk2OHVkWFZjOE5JR3pzNU9FSlcyY0c5VEY1SXBMRkhsMWlrblFIZ2t6bUxKYXFvaHpvNVV4anZETkdhSDdXYWhrSEFpZVdXYTZsc1NVcHZxSkxJM0FYd2dsQ2ZEOS12WmFRUlBwZ180RDNQQkR1Nm0zNUxaYm5EM1Zr?oc=5)
+### [Convocan ayudas por 300.000 euros a entidades que trabajen en Euskadi en prevención y control de ITS - Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
 
 2026-06-23 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Euskadi.eus](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcmlHZzR2VVVwdzloSWVialZ6cXNTalhVclFLMjhFcEJvd1Y4VGdxbVdjekdxdVdHbjdMczMtOVlLUjM5bHA1c3FSSTF6WDZqRHZVY1JHSF95b1N3ZEs4ZWtVeS1BRTdrcjdwejhCQU9QMGFNeTBKdkpZZ1dBakJGek1ZRFkxS2hhYkhwclNQSU1Mc25ybXZyT0phZTBrTlRpUGFvUm9iZzZQbGo2M0RTWHFCcUpONXc5RXpqYXRNREZrOGlEMlJsbk5xOEZJWmNvTlhzXzd3WkgwUU5TdGlxRnZXRXgwclZGMWk2OHVkWFZjOE5JR3pzNU9FSlcyY0c5VEY1SXBMRkhsMWlrblFIZ2t6bUxKYXFvaHpvNVV4anZETkdhSDdXYWhrSEFpZVdXYTZsc1NVcHZxSkxJM0FYd2dsQ2ZEOS12WmFRUlBwZ180RDNQQkR1Nm0zNUxaYm5EM1Zr?oc=5)
-
----
-
-### [El ECDC unifica el cribado de hepatitis B y C en donaciones ante el Reglamento SoHO](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
 
 ---
 
 ### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
-2026-06-22 <span class="news-indication-tag">hypertension</span>
+2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 

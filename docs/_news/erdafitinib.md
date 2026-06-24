@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Gehirn-Schutz: Bluthochdruck erhöht Alzheimer-Risiko um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+### [Omega-3: Studie findet geringe Effekte auf Kognition, aber Hinweise auf verlangsamtenden Alterungsprozess - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ permalink: /news/erdafitinib/
 
 ---
 
-### [Querschnittstudie: Niedriger Blutdruck ist am stärksten mit Alzheimer assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
-
----
-
-### [This emerging treatment is helping people avoid knee replacement surgery](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZUR4cVZOVlZIWVZ4TVJQOTlMcUtRVDQyVjhBZmZ0SGVwUU5YZDNDZG9jVmp2ZF8zaHpFb19RckZuUUk1TUliaDd1elQwQjgwa0V4NnBqSGsyTmZaNU1YWk50Y1p3X0Z0S05lM01ORQ?oc=5)
+### [Arthrose-Mittel als Demenz-Treiber? Was laut Facharzt wirklich hinter dem Zucker-Alarm steckt](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">arthritis</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZUR4cVZOVlZIWVZ4TVJQOTlMcUtRVDQyVjhBZmZ0SGVwUU5YZDNDZG9jVmp2ZF8zaHpFb19RckZuUUk1TUliaDd1elQwQjgwa0V4NnBqSGsyTmZaNU1YWk50Y1p3X0Z0S05lM01ORQ?oc=5)
+來源：[chip.de](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 ---
 
@@ -98,13 +90,13 @@ permalink: /news/erdafitinib/
 
 2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[20minutos.es](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
+來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 
 ---
 
 ### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
-2026-06-22 <span class="news-indication-tag">hypertension</span>
+2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 

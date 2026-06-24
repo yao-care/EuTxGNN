@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Faktencheck Johanniskraut bei Depressionen: Wann pflanzliche Präparate sinnvoll sind – und welche Risiken drohen](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWV8xamFVb3pFTHBvVHN1bnFaYjB0LWQ0OWVPZVZrM0FXTUNybFYyTUZwbkhlaHJNNXd6Q3BCTXQ2OG1lX3dITnA4ckhOVUp6NUQ2NFJBQVA3T1FmT1U2VXFNQVlQSUtrME40cWRRLTNmS2xrWXB0V21UTUtlYUZzdGxRSnNveVNRbVlKRzZXRVB0d3R6elNTZGs4VE5HQ3FFbXVXOXA0R0dzUzkzbXpPeUZtZTM?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/tasimelteon/
 2026-06-22 <span class="news-indication-tag">depression</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVhaZ1pfTDhpUUFEVXExdHN6SFhldlU5TDA0dWJxdFl3ejV0eUpOMXN6OThRRUpFWDVfTzQ3dWpCazVqZWgyc1BCNEJ0dm9ESnJnSnBKRlVCNklKZk9YV21FWTR6NS1qMGQwdnQ0aGVjV3RnYjN3dTY2WGh6NkFJaTM2MU9DbXl4bDJlUXhONmlfZzNuMVlDbF9tTndNWUlyNjhjSGg0TnlKWVEzSDFHXzJaeVpPWnk5eFhnWXVaRThLQQ?oc=5)
-
----
-
-### [Selon une étude, ce n'est pas le cerveau mais cet organe inattendu qui le protège du déclin cognitif - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeW1lTHJISWYwdC1MMU9va01iaFlxVGV2clJWU29oWmxGTlhZNlM2Um5KcE9ySUdVTl9aSmhSbWc1VEhiZjhVLXZ4M1JMSmx6TjNDdDcwNDFkUHZYOTZnVjRJSDZvNTd1N3E2LXVfMXNLYkhVZ0JlcXdFWjFUb3FrN24yMnJpQzAxN3djcTQ4VS03TFBUSjB4VTRCUm5YcloxTnppUVFGM04?oc=5)
-
-2026-06-22 <span class="news-indication-tag">dépression</span>
-
-來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeW1lTHJISWYwdC1MMU9va01iaFlxVGV2clJWU29oWmxGTlhZNlM2Um5KcE9ySUdVTl9aSmhSbWc1VEhiZjhVLXZ4M1JMSmx6TjNDdDcwNDFkUHZYOTZnVjRJSDZvNTd1N3E2LXVfMXNLYkhVZ0JlcXdFWjFUb3FrN24yMnJpQzAxN3djcTQ4VS03TFBUSjB4VTRCUm5YcloxTnppUVFGM04?oc=5)
 
 ---
 

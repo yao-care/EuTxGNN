@@ -3,7 +3,7 @@ layout: default
 title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
+<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,13 +77,13 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
+### [elEconomista.es | El aviso que preocupa a los neurólogos en plena ola de calor: el calor extremo puede agravar las migrañas en miles de personas en España - El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
 
 2026-06-23
 
-來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
 
 ---
 
@@ -92,14 +92,6 @@ permalink: /news/migraine/
 2026-06-22
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
----
-
-### [Chaleur, soleil, lumière : l’été met les migraineux à rude épreuve](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
-
-2026-06-22
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
 
 ---
 

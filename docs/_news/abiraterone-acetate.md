@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="Abiraterone Acetate 有什麼相關新聞？">
-<strong>Abiraterone Acetate</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abiraterone Acetate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/abiraterone-acetate/
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
-### [Gehirn-Schutz: Bluthochdruck erhöht Alzheimer-Risiko um Faktor 1,57 - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+### [Omega-3: Studie findet geringe Effekte auf Kognition, aber Hinweise auf verlangsamtenden Alterungsprozess - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGE2S2M1MU1HUG05M3VDZ3JFajFwTzAySUlNQWFvWDlheXRSZDJOX3VwVnNIRFBnMEQ5TXliXzVxdkF0amhmeXA4czhCV1J4ai16NHgwQjdsZ2Y0YzIzamkwcnJNUjE4a3BpMmZlaG5OcnVKTktqUGxkcU1Vc095bThLV05qSS1xUjFNTkxnNG5MeHEzS08zWnVJTkc5aUs5R0k2SG05Z2Z4VEhLWDItQWdvR01wUk0?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+
+---
+
+### [elEconomista.es | El aviso que preocupa a los neurólogos en plena ola de calor: el calor extremo puede agravar las migrañas en miles de personas en España - El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
+
+2026-06-23 <span class="news-indication-tag">migraña</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ permalink: /news/abiraterone-acetate/
 
 ---
 
-### [Querschnittstudie: Niedriger Blutdruck ist am stärksten mit Alzheimer assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2R4S2RiWUpNTHhxdmNMUzIzQzltaTA4VEdZajhkTjJGNnRkY0JQN190V2RyVU1paHkxUnVWUXRmRWhRQWZBT0FyMkpNQlZ5M29oOWdydlBqMk9lYUl5WW1IdzNWX2ROWEdXa3U5NjFpallraWt1Q2hwcTgyLWw1N0t3NU80Zk5ERzJ6XzR3U2lENlQ4eG9SQ2FYNnBUOHZDdnp5V1hSeVhtOEFoRm1BWUhLc2ZwUkQxTTdRdG1HZVp3NmFCUWlVa2NZbUY5SGY0S2pUcFBIZ3hidVNLWUhSeHRB?oc=5)
-
----
-
-### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
-
-2026-06-23 <span class="news-indication-tag">migraña</span>
-
-來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGQxZHBxNXBHbGxmMV9vQ040cWhoT0R1ajBmR3h0cm1MQ3cxeGRsVTNxSlhjTEN1bWVnTUJXdFotN1RDckFadVk4WTZXRjlVeHVQbExtN3MzYlRPWXVrSlRKSmE4bDg0QnB3QVJESFJ3aF8tN1RjaV9sM0tpU0pCWXl5cUs3aVpfR2RGQktrUUNwWE1QLVhNUFdNU0RleHAxVmZBVzVEM0txeXI2ZkVGd0JEcDZoY0NhNmdQMTlzWE5LOWdWN0I4dVZwYnNYaDRrWHlfZUV5cTBkLXFYbnJ5clVEZHlCb1MtdEljRlVBTk5hQ1M0X2VILTNPaw?oc=5)
-
----
-
-### [This emerging treatment is helping people avoid knee replacement surgery](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZUR4cVZOVlZIWVZ4TVJQOTlMcUtRVDQyVjhBZmZ0SGVwUU5YZDNDZG9jVmp2ZF8zaHpFb19RckZuUUk1TUliaDd1elQwQjgwa0V4NnBqSGsyTmZaNU1YWk50Y1p3X0Z0S05lM01ORQ?oc=5)
+### [Arthrose-Mittel als Demenz-Treiber? Was laut Facharzt wirklich hinter dem Zucker-Alarm steckt](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">arthritis</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZUR4cVZOVlZIWVZ4TVJQOTlMcUtRVDQyVjhBZmZ0SGVwUU5YZDNDZG9jVmp2ZF8zaHpFb19RckZuUUk1TUliaDd1elQwQjgwa0V4NnBqSGsyTmZaNU1YWk50Y1p3X0Z0S05lM01ORQ?oc=5)
+來源：[chip.de](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 ---
 
@@ -106,7 +98,7 @@ permalink: /news/abiraterone-acetate/
 
 2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[20minutos.es](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
+來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 
 ---
 
@@ -120,17 +112,9 @@ permalink: /news/abiraterone-acetate/
 
 ### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
 
-2026-06-22 <span class="news-indication-tag">hypertension</span>
+2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
----
-
-### [Chaleur, soleil, lumière : l’été met les migraineux à rude épreuve](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
-
-2026-06-22 <span class="news-indication-tag">migraine</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wb29yMDRaRjQ2RWI1TWtaUTlQVjFyY2pWc1BUVl9lR19KdXRDYnJNV094YzJBcFpNb0NGQ1hUbGpDeTVaTF9fN0N6eVJDcDVrQWlCYktHZkZRaGdHQ2hFZ0pxS2xlNzNFY0kzX0RaenpHTGxzQnc?oc=5)
 
 ---
 

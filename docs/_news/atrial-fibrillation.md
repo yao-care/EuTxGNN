@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AF（atrial fibrillation） 相關新聞"
+title: "Vorhofflimmern（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。29 則新聞、39 個相關藥物。"
+description: "Vorhofflimmern（atrial fibrillation） 的相關健康新聞報導。32 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
-# AF（atrial fibrillation） 相關新聞
+# Vorhofflimmern（atrial fibrillation） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>29 則</strong>相關新聞報導，39 個相關藥物。
+<p class="key-answer" data-question="Vorhofflimmern（atrial fibrillation） 有什麼相關新聞？">
+<strong>Vorhofflimmern（atrial fibrillation）</strong> 目前有 <strong>32 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AF」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Vorhofflimmern」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -67,7 +67,39 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（32 則）
+
+### [Katheterablation bald First-Line-Therapie auch bei persistierendem Vorhofflimmern?](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZEQxN3lHRTZLODQwRjc4Ui1OaGJudGY0WDcwZmx5d3Q5NG9GSnhJLWxMT0dVb1lCTnRtTUVRWk5jZmxKVE1ZaXJub05pTXNkOWhuUkhSOHFXQ1NCR2U5cDB5UUxPZERmc0lNbHFUUlgtVjBYX180QVJveEt4OGR6WEFNRUZDbGNjTVJJWTRZT0h2RlRnbHpaZ3BlLS1KU25GbW8zTzF5TE5oTTM3QnJONGsxTGhCcFVqNDcwWnFUM0FLeDgzMlRuejF3?oc=5)
+
+2026-06-24
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZEQxN3lHRTZLODQwRjc4Ui1OaGJudGY0WDcwZmx5d3Q5NG9GSnhJLWxMT0dVb1lCTnRtTUVRWk5jZmxKVE1ZaXJub05pTXNkOWhuUkhSOHFXQ1NCR2U5cDB5UUxPZERmc0lNbHFUUlgtVjBYX180QVJveEt4OGR6WEFNRUZDbGNjTVJJWTRZT0h2RlRnbHpaZ3BlLS1KU25GbW8zTzF5TE5oTTM3QnJONGsxTGhCcFVqNDcwWnFUM0FLeDgzMlRuejF3?oc=5)
+
+---
+
+### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+2026-06-23
+
+來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+---
+
+### [Schlafentzug erhöht SV2A-Synapsenmarker im menschlichen Gehirn - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOa283TEc2SmlESWZOUTBqWHB0SHQwc1lYQTBtRXBIY21Oem1lQW9sSDlMdHhOTktRVGhiWGFQX1RkN2ZRZHgyQUcyeGNfN21JTVFfMzlMVnVoSjhrc25WZ2piM1FhMU9xZDFDNU5MRHFjWjRoNE5mRExEeUVfbTQ2RUlLZWkySEJOMG5DcXZ3aDBkdWlEMlFNUk0wZw?oc=5)
+
+2026-06-23
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOa283TEc2SmlESWZOUTBqWHB0SHQwc1lYQTBtRXBIY21Oem1lQW9sSDlMdHhOTktRVGhiWGFQX1RkN2ZRZHgyQUcyeGNfN21JTVFfMzlMVnVoSjhrc25WZ2piM1FhMU9xZDFDNU5MRHFjWjRoNE5mRExEeUVfbTQ2RUlLZWkySEJOMG5DcXZ3aDBkdWlEMlFNUk0wZw?oc=5)
+
+---
+
+### [elEconomista.es | El avance con inteligencia artificial que podría cambiar la forma de detectar el cáncer de mama en mamografías - El Economista](https://news.google.com/rss/articles/CBMipwJBVV95cUxNc3A3SzlNZ0JSWGMxczVHNG95T1NRRVlqSGwyMFdXeV84NGh0Wllma29uRC1OSWpZcXZpeExWSzIxMnZLZ1NhVFB6R2NBUEdFMzVadGYtMjFPRXF4TGwzaVFDbzMxNE1zNUJqUkF3Q25vWEV5X3JscUlxOEQwSlZIY0gxcWhOcE1lOGlmclpTNkFqa2Zvc3lXMXdJN0swYlRhOWk0TlFzRWw4RUh0eHdjVzdXRVpxc2VoV1ZtSDhfMERLWmdkTkY4aUdmY3lzSUZsbGhOeEhaRm5FSldsUlZVdy1fZk5HTnFES2pkY1otWnRQaVdpYmhiODl4SU1VWDRsbklQMEl5bURjaHdQN3QxbGFpTUxMc1VOREdOM2VYclppVmhBajlR0gGSAkFVX3lxTE4tVEdDaXlnX2hSQkt1OGtjdDRaSndyRWlkT0hHYlVHcEpZcEhvbEZ6VEQ4RW9WOXMwZmZvN01qSl81WEk1eFRIM2ZjWnB5ck5hSkFQdndoemxNTmZqMUhrZmE3OElyTWs3RTduV0RNX3NXYTVqbEdCWHZ3Tm5LOWs5aVNjSDRPQWJLSl9CRzJMR2VNcFZ4MDlubmJ4dlRwX1FFZFJQRExzcEtzMHBkUlhRdGNpQ2ZtM0h3NUMyV29ya3ZtRjEtZFk0NWpMcGZjeUlwTVR5eHRlQ0V6a2ZVc1l3R2Jlc21RVmhmYlJET1FuNmdzNWZXREljZFJybC16UGZXR1J5b1g0THBadGJRUHZ6WFE?oc=5)
+
+2026-06-23
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMipwJBVV95cUxNc3A3SzlNZ0JSWGMxczVHNG95T1NRRVlqSGwyMFdXeV84NGh0Wllma29uRC1OSWpZcXZpeExWSzIxMnZLZ1NhVFB6R2NBUEdFMzVadGYtMjFPRXF4TGwzaVFDbzMxNE1zNUJqUkF3Q25vWEV5X3JscUlxOEQwSlZIY0gxcWhOcE1lOGlmclpTNkFqa2Zvc3lXMXdJN0swYlRhOWk0TlFzRWw4RUh0eHdjVzdXRVpxc2VoV1ZtSDhfMERLWmdkTkY4aUdmY3lzSUZsbGhOeEhaRm5FSldsUlZVdy1fZk5HTnFES2pkY1otWnRQaVdpYmhiODl4SU1VWDRsbklQMEl5bURjaHdQN3QxbGFpTUxMc1VOREdOM2VYclppVmhBajlR0gGSAkFVX3lxTE4tVEdDaXlnX2hSQkt1OGtjdDRaSndyRWlkT0hHYlVHcEpZcEhvbEZ6VEQ4RW9WOXMwZmZvN01qSl81WEk1eFRIM2ZjWnB5ck5hSkFQdndoemxNTmZqMUhrZmE3OElyTWs3RTduV0RNX3NXYTVqbEdCWHZ3Tm5LOWs5aVNjSDRPQWJLSl9CRzJMR2VNcFZ4MDlubmJ4dlRwX1FFZFJQRExzcEtzMHBkUlhRdGNpQ2ZtM0h3NUMyV29ya3ZtRjEtZFk0NWpMcGZjeUlwTVR5eHRlQ0V6a2ZVc1l3R2Jlc21RVmhmYlJET1FuNmdzNWZXREljZFJybC16UGZXR1J5b1g0THBadGJRUHZ6WFE?oc=5)
+
+---
 
 ### [Cáncer de próstata en España: un diagnóstico cada 17 minutos - El Español](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTEJjbHJzY2l6OEJzUVgteHRPX0poRThCZDFfajVHZHg5T2x2YXpuTm82VkFjNGpRSnc2WUhBWjFaZHllc09YZHkwSHdjdjZUREJkcW5fbUpxenh6QzMxMzJIZVFOTF8xQ2Nzel9MMHdKSU9QLVQwdFFFSlpMaDN6Zm1lbEZydVgtN1Fwb2hRSUpIYy1qWmVKZ0ZUemtzU2J0dlFJeXhGdUVyQ2MtdjRsUzVR0gG3AUFVX3lxTE10YW5HRl9ib1JwUVZsdVBKUkF5aVdZb3FMcnVVVWU3UU9Kc1d2Z2JUV0dXTzVaaGRWS04tZXFPQU1peGpQUWJKVnQ1cjQzN0VCNGl3LWY1QWFydGxLY2ppZ0FfWGRUb3BpUEhOaElfSVkyb0RheEVaWVczUTN3QlpZTTllaGpoSTRXQkdLSUx5c01UNVQ4RkZHYTBmMWNfTXRrMVdvUkhYZUY5R2hldWxWSlNrWEpwMA?oc=5)
 
@@ -133,6 +165,14 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [El hígado graso, un termómetro de la salud metabólica](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
+
+2026-06-23
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
+
+---
+
 ### [Vitamine in der Schwangerschaft: Welche braucht der Körper? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxQblQ3LUVSemlybmVreU9Yd1ZtSFpHU1JVRU9UTDhFN0o5NnI1cHZOaEVGMHM0MVZWbFNKaEZzSEVSbFZuYVV0aVk3anRqSnNmQ29JdFdjRWxONjMtQ1JFdjQxRnZwTmd5QVQwR2J2Y2h4ZmNXX2tsNU81VkhScHJEX2ZQcFZkd184UnBOYjZfN3NtNVBCVzd1a01Md19rNzc2YTBxTW1hRHFpM3VxTmxnT1NmMzJvZzZBdlE?oc=5)
 
 2026-06-23
@@ -165,14 +205,6 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
-
-2026-06-23
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlMRjFBQlkzMUwtOC1jeS1SbHA1SnZSNy1CNUU5S05iaDNrRk5QQUNDUE42eVhGZWFxZmtsSzdQTWZpTFZDYTBaY24wN2FyMHNjWFpHOUk3dkRXMEpwbkQ0UFFTSktpUC12ZUlFZVpBbHlzX1FVLUxQYTMzRUhOQV9RR2ppbExhMEhMV1o5MHROUHV1bFN1cDV2MUk?oc=5)
-
----
-
 ### [Cuando el calor espesa la sangre: así aumentan las temperaturas extremas el riesgo de ictus - El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
 
 2026-06-23
@@ -186,6 +218,14 @@ permalink: /news/atrial-fibrillation/
 2026-06-23
 
 來源：[ka-news](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1V2UTlWaUc0NzYzT2NCekp5MmRYUWFTTEZsNmhBaUp2OVFlMTFlbDNlWF92VjlublZKelAzYUpqX05lZllOTUpnYy1WUmFhZVVoRVZORW4taGFLRVdyOEpERDRaWF94M1dSVlNORVpqMTBxWnBmMmEzWmVzT3hFSkRpaGJwcDdpODBSSW5peU9Mc2lPZHZyRllRbF9lXzRBMGdlZ3Rad3QyMVBJWnU2Y2ZDSDB0TGoySGtFbUVpMnJEa2ZzM2NCQnJZUTdxMjZCYU1nYg?oc=5)
+
+---
+
+### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
+
+2026-06-22
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
 ---
 
@@ -237,6 +277,14 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [Gesundheit: Neuer Bluttest verrät, welches Organ schneller altert](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE5xTFpjZzFzZlRhRnpTS2Y5M3Fhc1lPXzZYb3d1bUV5VWZGdlVnbWd5UzlPTDFHUWNvRXBHVmxUNDRwUDN2bjBqREhBRHpFRWFWT1ppSWxOT3ZlTlA0ODNaWlFRMFFmQWd3dFBfaW5Mc0o0Z0dnOU9jSXo4LXJsMk1ZU2xvWFFWUHRCcWF5UlB4R29BNEVscG4yeUV3b3ViaWRZY2RGT1ZteXFiSUp0aHRJWlRyekczd2toN00yVW9tVG82a2dLVDluQQ?oc=5)
+
+2026-06-22
+
+來源：[WELT](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE5xTFpjZzFzZlRhRnpTS2Y5M3Fhc1lPXzZYb3d1bUV5VWZGdlVnbWd5UzlPTDFHUWNvRXBHVmxUNDRwUDN2bjBqREhBRHpFRWFWT1ppSWxOT3ZlTlA0ODNaWlFRMFFmQWd3dFBfaW5Mc0o0Z0dnOU9jSXo4LXJsMk1ZU2xvWFFWUHRCcWF5UlB4R29BNEVscG4yeUV3b3ViaWRZY2RGT1ZteXFiSUp0aHRJWlRyekczd2toN00yVW9tVG82a2dLVDluQQ?oc=5)
+
+---
+
 ### [Neue S3-Leitlinie stärkt Versorgung von Menschen mit Psychose und Sucht - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVkRYS3dXSVQtU05uSjRDNkZKM000OXl6RWFTQ2syZTVpekFIZUdDeE9tLTdTXzVWcVdUVzI3S2xpSXJMS0tEZW1SSFk5d3U4b0Mzb0xXRk1RaVFqSFhtM3RwVE5iV2xsTk9yMzJUQ3o1UXBFTEdnbzNIcTRMMS1fZHYzWmFFU1pIc0Y1TEtJUlFDM1ZhYVpFS19nUEJnWk5JRkhZOEthQXd3Z0VlRC1maVd1V0lWRmdkN1h4a2xMYmVNUGZXVWlNTXlB?oc=5)
 
 2026-06-22
@@ -269,35 +317,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Forscher entwickeln Bluttest, der enthüllt, wie alt Organe und Körperzellen wirklich sind](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjdJa2xPNl82aW1OaWlqNWI2bG94LV9VTzQ0X2NGRUluMS1aQjNiMDMtdWFoOUx1WG44WXN6OVFGVXRrQi1Fb3BSY1dXZ194YkZUSU50MjZpaEFEVFdXMlA3X2MwQktBYlFWdFA1SGs1RHQ1WDlaNEFHc3l3YmJpNUxCYWt3SURVQkFHdGY2b0xlb00tTUZDWGN4UUQ5SEVrSVdJeGN1RkJScVJlYVZOdjdaamZ6OFp2V3JnMUpsdC1Ca2h5bHRlRFp2d1BBdFNLUXEzU1JDZWtmYzhROUhzTFJzcjdsOHFRVklPUA?oc=5)
-
-2026-06-22
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjdJa2xPNl82aW1OaWlqNWI2bG94LV9VTzQ0X2NGRUluMS1aQjNiMDMtdWFoOUx1WG44WXN6OVFGVXRrQi1Fb3BSY1dXZ194YkZUSU50MjZpaEFEVFdXMlA3X2MwQktBYlFWdFA1SGs1RHQ1WDlaNEFHc3l3YmJpNUxCYWt3SURVQkFHdGY2b0xlb00tTUZDWGN4UUQ5SEVrSVdJeGN1RkJScVJlYVZOdjdaamZ6OFp2V3JnMUpsdC1Ca2h5bHRlRFp2d1BBdFNLUXEzU1JDZWtmYzhROUhzTFJzcjdsOHFRVklPUA?oc=5)
-
----
-
-### [Feeling Tired After Lunch Is Common—Dietitians Share 3 Tips to Avoid Afternoon Fatigue](https://news.google.com/rss/articles/CBMiekFVX3lxTE16TzFYbndQSGdiZWJzSzN5QkdjbVN1NTVvSEl0Y2xwQWwtNm8xYy04X2ZSX1Q3dE1PM1RyaEo2ZzN1LVpNa0xoRjhmTGtiRFZQeDhFdjZkdjFXZXJNVDVFcVd3dUJkR3J5TWVYYi1ieENmWkUwTHhIX3JR?oc=5)
-
-2026-06-22
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE16TzFYbndQSGdiZWJzSzN5QkdjbVN1NTVvSEl0Y2xwQWwtNm8xYy04X2ZSX1Q3dE1PM1RyaEo2ZzN1LVpNa0xoRjhmTGtiRFZQeDhFdjZkdjFXZXJNVDVFcVd3dUJkR3J5TWVYYi1ieENmWkUwTHhIX3JR?oc=5)
-
----
-
 ### [Africa can end Aids on its own terms. Will the world back us to finish the job? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
 
 2026-06-22
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
-
----
-
-### [Not just a sugar bomb: why it’s OK to drink fruit juice after all - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaF9IMHRNdHpUY1NaZXRMRlE5QU1tQkJfN0Y5RFFoVGpLdnZmM3JaXzBsUmtza1hZV2w2SFhoZXVDaUhSbE5oWnZybTN4R1F6enNmcnZ2VEpJeHkzeGRzWHR6S0x4MExYdnVnQjVqZTlhVG9WeE9KSEtLWG1XcGh6SzlRWTFsbDRreDBMWEZrbTRXRzJUU0tEdUpMVGJJRzNSSF9CZGZScWotdFRDVU9YXzZB?oc=5)
-
-2026-06-21
-
-來源：[The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaF9IMHRNdHpUY1NaZXRMRlE5QU1tQkJfN0Y5RFFoVGpLdnZmM3JaXzBsUmtza1hZV2w2SFhoZXVDaUhSbE5oWnZybTN4R1F6enNmcnZ2VEpJeHkzeGRzWHR6S0x4MExYdnVnQjVqZTlhVG9WeE9KSEtLWG1XcGh6SzlRWTFsbDRreDBMWEZrbTRXRzJUU0tEdUpMVGJJRzNSSF9CZGZScWotdFRDVU9YXzZB?oc=5)
 
 ---
 

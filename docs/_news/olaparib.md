@@ -14,7 +14,7 @@ permalink: /news/olaparib/
 ---
 
 <p class="key-answer" data-question="Olaparib 有什麼相關新聞？">
-<strong>Olaparib</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Olaparib</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/olaparib/
 <p><a href="{{ '/drugs/olaparib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（25 則）
 
-### [Thymus und Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBRdEhnOVBZZVowU1dxSnp2bUJ5VHBSX3RuU0V5QjgzaEhmM0t1elZPV0FYWG5jcmxXdjY5S21YMy1qcjNNbW9FU3AxaURJSTY2QlpQZmFZanVyX18za0l2LUFRbnFuNm82SFl2WDNzMUo3VUMyWFd5TmhOZEUxT3J6NW5LQUlMaDdXNy1BLXloaGx0TWQtYW00Q1dlOUJTb2Q3bnN5bmxkMWJVMU1RV1NGTG5nZUdmcUhmZEItM3dqSUJhQ2Z6MzlRZnJFYkRFLUdDMlVoY1hPa3pFS0lJdQ?oc=5)
+### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Krebs</span>
+2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBRdEhnOVBZZVowU1dxSnp2bUJ5VHBSX3RuU0V5QjgzaEhmM0t1elZPV0FYWG5jcmxXdjY5S21YMy1qcjNNbW9FU3AxaURJSTY2QlpQZmFZanVyX18za0l2LUFRbnFuNm82SFl2WDNzMUo3VUMyWFd5TmhOZEUxT3J6NW5LQUlMaDdXNy1BLXloaGx0TWQtYW00Q1dlOUJTb2Q3bnN5bmxkMWJVMU1RV1NGTG5nZUdmcUhmZEItM3dqSUJhQ2Z6MzlRZnJFYkRFLUdDMlVoY1hPa3pFS0lJdQ?oc=5)
+來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
 ---
 
@@ -70,15 +70,15 @@ permalink: /news/olaparib/
 
 ---
 
-### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+### [Age fast, get cancer young: the ‘global surge’ hitting under-50s - The Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlJfbWVESGJNVWk4T01YUXJpNTdlMkZkTkU5SU9PSjhoY3BEX09UbkNLR0sxZnJxNi0xdTA1d3oyT05MQ1cxUXF6X0FuQ2hRZEpuYTNqeGkzQzlKTVdCYlV6bVVwMU84VkNtTk5LMWFwWHRDcU40NWxJZE5aOXRVTEhqMnI3Sm1UbXd1S3NzbXc4b1JnU0ZWb1p1VHhaSUVGUVk5UDdOb0tHdw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
-來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlJfbWVESGJNVWk4T01YUXJpNTdlMkZkTkU5SU9PSjhoY3BEX09UbkNLR0sxZnJxNi0xdTA1d3oyT05MQ1cxUXF6X0FuQ2hRZEpuYTNqeGkzQzlKTVdCYlV6bVVwMU84VkNtTk5LMWFwWHRDcU40NWxJZE5aOXRVTEhqMnI3Sm1UbXd1S3NzbXc4b1JnU0ZWb1p1VHhaSUVGUVk5UDdOb0tHdw?oc=5)
 
 ---
 
-### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
+### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span>
 
@@ -94,11 +94,19 @@ permalink: /news/olaparib/
 
 ---
 
-### [„Art against Cancer“ in der Klinik Favoriten: Schüler*innen gestalten Wartebereich der Radioonkologie - Wiener Gesundheitsverbund](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFd3aUhZaGhoUGZsai0wWkNOVzFSUWpvWXgzcTZiaS1IZElMYXZfTXdMMnk5MWoxcHVrSFMxdlVqWWI1NDQzMGVUR1RHQ1pnUmR6UmFGenhEQjdIb2NzS1JSYTFtNjdjdi01TDNseXFqQl9zVW14UGRNQjlTTktGY2J1WDIweF9GY0lRTHl3WnAtbHhWM3B3d2xvU0RvMjh4NUpIOENQYXRtNmkxejlsUThHM2ZTRl9nNThVcTl4c1RadkJEcXVhaQ?oc=5)
+### [Tumore prostata, trattamento sperimentale uccide le cellule e riattiva l'immunità: il nuovo studio americano (e cosa potrebbe cambiare) - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
 
-2026-06-23 <span class="news-indication-tag">cancer</span>
+2026-06-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Wiener Gesundheitsverbund](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFd3aUhZaGhoUGZsai0wWkNOVzFSUWpvWXgzcTZiaS1IZElMYXZfTXdMMnk5MWoxcHVrSFMxdlVqWWI1NDQzMGVUR1RHQ1pnUmR6UmFGenhEQjdIb2NzS1JSYTFtNjdjdi01TDNseXFqQl9zVW14UGRNQjlTTktGY2J1WDIweF9GY0lRTHl3WnAtbHhWM3B3d2xvU0RvMjh4NUpIOENQYXRtNmkxejlsUThHM2ZTRl9nNThVcTl4c1RadkJEcXVhaQ?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
+
+---
+
+### [Wie viel Kaffee am Tag trinken? Ernährungsexpertin nennt Obergrenze - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
 
 ---
 
@@ -118,19 +126,19 @@ permalink: /news/olaparib/
 
 ---
 
-### [Why more under-50s are being diagnosed with cancer than earlier generations - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDBjUEg1dDlITTZJYnlfalF2NDlLcUM4NWF2YnpuSEJFcVlrbW9yTDZPS1Nza3Q2dWlzQjhGbTc2M3RjMGRab0lPc3luME80elFHeVBkdGlTMndoQ3cxZWlBM19famw1MGhZS3B1WkRXcXAzZlYyUUJvX18yRjNPbElveS1vRVNMNnk5dzFMR0lqZHJJTmx2SjdGeUU1aTFnUW1UT1BVUHRpakR4VkJ3cQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cancer</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDBjUEg1dDlITTZJYnlfalF2NDlLcUM4NWF2YnpuSEJFcVlrbW9yTDZPS1Nza3Q2dWlzQjhGbTc2M3RjMGRab0lPc3luME80elFHeVBkdGlTMndoQ3cxZWlBM19famw1MGhZS3B1WkRXcXAzZlYyUUJvX18yRjNPbElveS1vRVNMNnk5dzFMR0lqZHJJTmx2SjdGeUU1aTFnUW1UT1BVUHRpakR4VkJ3cQ?oc=5)
-
----
-
 ### [Tumori del fegato, polmone e stomaco: l'esame del sangue per la diagnosi precoce | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaHBqaUowTEt4ekVaX21YTUtabnVHN0RNY0I5N3lvMEVNeG5hVTlGeXlzWU1RTlFQMDFUV2pQSTk4RkNNa0dtbF9Bakh4VWRPY2JYOE5uUHV0c2pBQWVvWE93SkpveHhHYm05eUtGRmNOVzZJSFBkVmxOc0pQQnRCc1dDOC16Q0tBYmdUanR2TGlLVjctMjMtdjh0bDdPOEJhTDgwY1NtdHRHVS1rN2FxcXVxanF5aEI0WUIxbkQwSVRyTUNwQlN1ZzFyUjVaaXFMaUdiWU9XWnJTMFpYMVNrMG5weWt6TDlCV210c9IB8AFBVV95cUxOdzYtU1gtY25wSzZ2ODU5NzJQajRMUGNhS3ZmYzdjRFI0d29Ham11QndBYzljWFNRY3FXNTdHNEdQTnk2bC1lY3luT3ptbzdxNVlMMVpsbUFpNTEwN1lPdVZHRkhGVFhxa051NlNiS0pETHRjTHlZNnU5RlZVNUxjSGdTNFV4WlhQTzlvNmNNRDhPQUpyUjQyZVV3RUNvSDdDRkFlVm92M2Q2MC1aRndMS2ppRXlyNmFmazVIQWxqdGRpTFB6TmJTS21DWUxNcENjdkQwMHJqaUtuLTExSDVnTHluVmtYN3lEQVozMThCOE8?oc=5)
 
 2026-06-23 <span class="news-indication-tag">tumor</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaHBqaUowTEt4ekVaX21YTUtabnVHN0RNY0I5N3lvMEVNeG5hVTlGeXlzWU1RTlFQMDFUV2pQSTk4RkNNa0dtbF9Bakh4VWRPY2JYOE5uUHV0c2pBQWVvWE93SkpveHhHYm05eUtGRmNOVzZJSFBkVmxOc0pQQnRCc1dDOC16Q0tBYmdUanR2TGlLVjctMjMtdjh0bDdPOEJhTDgwY1NtdHRHVS1rN2FxcXVxanF5aEI0WUIxbkQwSVRyTUNwQlN1ZzFyUjVaaXFMaUdiWU9XWnJTMFpYMVNrMG5weWt6TDlCV210c9IB8AFBVV95cUxOdzYtU1gtY25wSzZ2ODU5NzJQajRMUGNhS3ZmYzdjRFI0d29Ham11QndBYzljWFNRY3FXNTdHNEdQTnk2bC1lY3luT3ptbzdxNVlMMVpsbUFpNTEwN1lPdVZHRkhGVFhxa051NlNiS0pETHRjTHlZNnU5RlZVNUxjSGdTNFV4WlhQTzlvNmNNRDhPQUpyUjQyZVV3RUNvSDdDRkFlVm92M2Q2MC1aRndMS2ppRXlyNmFmazVIQWxqdGRpTFB6TmJTS21DWUxNcENjdkQwMHJqaUtuLTExSDVnTHluVmtYN3lEQVozMThCOE8?oc=5)
+
+---
+
+### [3 People Have Gotten Cancer-Detecting Implants in Their Brains](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVhDWHQ1VTZfTU5WMmtrN3V2ZFg1SC15cXF3UE44RzZ5dHoyNFNrVkt2VW9lVHd2UzNkQzgtRmltTFBoQVZNVnlXLUl1emxlbnJvbGZXbVdZU0pFVkx3MVVBU2Y5NVVRS096am9tclA3T2dYWVpQTzhYSXRUUEQzOVdZZmR3emNqNmNGUVp3?oc=5)
+
+2026-06-23 <span class="news-indication-tag">cancer</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVhDWHQ1VTZfTU5WMmtrN3V2ZFg1SC15cXF3UE44RzZ5dHoyNFNrVkt2VW9lVHd2UzNkQzgtRmltTFBoQVZNVnlXLUl1emxlbnJvbGZXbVdZU0pFVkx3MVVBU2Y5NVVRS096am9tclA3T2dYWVpQTzhYSXRUUEQzOVdZZmR3emNqNmNGUVp3?oc=5)
 
 ---
 
@@ -200,17 +208,9 @@ permalink: /news/olaparib/
 
 ### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
-2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
-
----
-
-### [Bergamo, tre giorni di vaccinazione gratuite contro il Papilloma virus - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlNYZlJiVDZXSTk3c0NQZFVqU2FteERYZkdRQUdqWE92M1VFUzE5b3IwSzlXVS1DeFUtdG16ekhUN2EydjdSNW1xN0NxTDNHX2lqdUpRMURRSk9FM0NqNEFFWGotSjk3a0hFS3laVzA5NlVIM1ljdjgzbGdXU015eWl6SUs2RXA1MEloZUlCUzQwR3lhMTgxVXBoeHZRTENlUm81RFV1RXVtMUQ2UnV3bjBNU09NM0NDRkw4VXg3OFhpNUh2TzM5WHFQQWZwMTZZUW9R?oc=5)
-
-2026-06-22 <span class="news-indication-tag">tumor</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlNYZlJiVDZXSTk3c0NQZFVqU2FteERYZkdRQUdqWE92M1VFUzE5b3IwSzlXVS1DeFUtdG16ekhUN2EydjdSNW1xN0NxTDNHX2lqdUpRMURRSk9FM0NqNEFFWGotSjk3a0hFS3laVzA5NlVIM1ljdjgzbGdXU015eWl6SUs2RXA1MEloZUlCUzQwR3lhMTgxVXBoeHZRTENlUm81RFV1RXVtMUQ2UnV3bjBNU09NM0NDRkw4VXg3OFhpNUh2TzM5WHFQQWZwMTZZUW9R?oc=5)
 
 ---
 
@@ -230,14 +230,6 @@ permalink: /news/olaparib/
 
 ---
 
-### [Doctor Shares ABCDE Method To Tell Moles Apart From Skin Cancer - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXIzQWdxT1BqQTIxSnIwRElQczhvS2hGZC14a3dnNU0waWpTUU5mZXlIUGNwdTdJM0J0UlRNOWZCVl9VOGpWWGJtdmhMYmJ4amtwRDhGeGZUa0FxQWF6TEo1REtkR1pJSWFoeVh2SWd0bG15RllXRzI4X3VucFI3ck1NWDF4dTJ5NDVVcEtQZGdYYXFEYXBmQzAyZzNTZjjSAaYBQVVfeXFMTnlQUUpxVmtkM2xfeUotenRFaWF1ZElnSDdLWExEQUhtYjJLVUx3cGR5OFRLQlVDQk9WbWtSdEZ2aTk4dmVBRTRWZWpzUXhBaTkwZFlNbUpKZ280QmxmQU9pNngyRWgwQzRYSWhRWTBwOXlKSktVUW1NWUZKUXkxdm1tczFVUUh1b3g3WENpOFhSTkRJY3FvcnV6Wnh2RDgzOEpzOFVjZw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">cancer</span>
-
-來源：[HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXIzQWdxT1BqQTIxSnIwRElQczhvS2hGZC14a3dnNU0waWpTUU5mZXlIUGNwdTdJM0J0UlRNOWZCVl9VOGpWWGJtdmhMYmJ4amtwRDhGeGZUa0FxQWF6TEo1REtkR1pJSWFoeVh2SWd0bG15RllXRzI4X3VucFI3ck1NWDF4dTJ5NDVVcEtQZGdYYXFEYXBmQzAyZzNTZjjSAaYBQVVfeXFMTnlQUUpxVmtkM2xfeUotenRFaWF1ZElnSDdLWExEQUhtYjJLVUx3cGR5OFRLQlVDQk9WbWtSdEZ2aTk4dmVBRTRWZWpzUXhBaTkwZFlNbUpKZ280QmxmQU9pNngyRWgwQzRYSWhRWTBwOXlKSktVUW1NWUZKUXkxdm1tczFVUUh1b3g3WENpOFhSTkRJY3FvcnV6Wnh2RDgzOEpzOFVjZw?oc=5)
-
----
-
 ### [Tumore alla prostata: il nuovo screening riduce le biopsie inutili - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWtxUnhfOEJ4QldDdEJ6OFZmVkZqbE5jYWdVWFRhZ2Z6UW1SdFVLZ3ZVZzFQMUZ1THFBTlM5cEd1dnpmSm1jS1JHTFJLSkhFWjF0T0Nwd1VjbGlIT3dmeW9yUllHNF9mdlRMaHB4NGJ3Z3NHcS1iaDROTXhEcGN5Nl85bWxVcmVnTnBOc0UtYWdfclZkUDVQQXh2MnZWQQ?oc=5)
 
 2026-06-22 <span class="news-indication-tag">tumor</span>
@@ -254,27 +246,11 @@ permalink: /news/olaparib/
 
 ---
 
-### [Vaccin contre le cancer du col de l’utérus : « plus tôt on le fait, plus il est efficace », 9 000 élèves vaccinés au collège en Nouvelle-Aquitaine - Sud Ouest](https://news.google.com/rss/articles/CBMioAJBVV95cUxNVWJ6aTd6d290N0R3VUdVMnI1OWo0bGltLUlwODZYOVZiOURzeTF4ZW93TERoOV84VXhUbHZkNWFrWklyMkdmRjJLSl9DM3dTYnA3R2diSGN1clg0TThVYUdwdEQ0QVoyUmRFMXkxUkxsTFNKNzhiRXFRVmhVbmh4Z2g3RnZQV0E5SkhtcGtWaGJqOWVLTUdzZlJZVHQ4NExCSllTYzR1OEl5bXJNTzBjVGJhV0JCWE1pb2xBaDl3cDFGT1p1eU9ZZmpGeXhGX3NNMlBSRjhjRGR6ajhXd3NRTk1hV0hQZUcwV3ozUHE1dVNEamZFWU51X3pOUUtnWmVLbmZwOTZ3VVZrYURKcmVFdzJJVHNhZGhwaUVOcEN3TlM?oc=5)
-
-2026-06-22 <span class="news-indication-tag">cancer</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMioAJBVV95cUxNVWJ6aTd6d290N0R3VUdVMnI1OWo0bGltLUlwODZYOVZiOURzeTF4ZW93TERoOV84VXhUbHZkNWFrWklyMkdmRjJLSl9DM3dTYnA3R2diSGN1clg0TThVYUdwdEQ0QVoyUmRFMXkxUkxsTFNKNzhiRXFRVmhVbmh4Z2g3RnZQV0E5SkhtcGtWaGJqOWVLTUdzZlJZVHQ4NExCSllTYzR1OEl5bXJNTzBjVGJhV0JCWE1pb2xBaDl3cDFGT1p1eU9ZZmpGeXhGX3NNMlBSRjhjRGR6ajhXd3NRTk1hV0hQZUcwV3ozUHE1dVNEamZFWU51X3pOUUtnWmVLbmZwOTZ3VVZrYURKcmVFdzJJVHNhZGhwaUVOcEN3TlM?oc=5)
-
----
-
 ### [Frühe Impfung gegen HPV besiegt Gebärmutterhalskrebs](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjdSd0lGZTBsZi1qMWZ1RVZ3ME8xRU1aUmR4TVJjSmxJd2Iydk01cmhTNHF6N2VFSmRGN184ZWRyQ1U0VENpQmhjTlBxcG0xSGJ0NUZDUmQ1N3FLeWpqdmdyN19acEM2bHJKNzA0Njl3aGQ3RlptSnFOZUhXbzlkN184VVJaRktaX1pWWmN2cTlnTU1LcFBzUVNR?oc=5)
 
 2026-06-22 <span class="news-indication-tag">Krebs</span>
 
 來源：[Osthessen|News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjdSd0lGZTBsZi1qMWZ1RVZ3ME8xRU1aUmR4TVJjSmxJd2Iydk01cmhTNHF6N2VFSmRGN184ZWRyQ1U0VENpQmhjTlBxcG0xSGJ0NUZDUmQ1N3FLeWpqdmdyN19acEM2bHJKNzA0Njl3aGQ3RlptSnFOZUhXbzlkN184VVJaRktaX1pWWmN2cTlnTU1LcFBzUVNR?oc=5)
-
----
-
-### [«Mire su orina antes de tirar de la cadena»: la petición de los médicos de familia ante el cáncer de riñón - Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnRYWmt4TjU3Q0YwT3BKVFhXRUNYaWN4d3lrREI3Y25tczhmbmwyM2h6VFFlc3ZnVDN2c29PT25uYVdVdDJQek5GRHpsamVZVE5BODVnMDlzaDZtNGVOLThZbjMxTEEwNEVILXItOGVkMC1Fc0U5cElvaS0xOUd4UWd3UGpTeWY3Q0FwWGNuN1JMMWR0aFlmb2xGd2Q4bUFMc1FmeVRzRVBOeGMwaFNMVNIBtgFBVV95cUxOT1lsdW1QM3BUQ25IckRhM21SNXZlNzJfYjRDazQ2QkNoNzduY093SkRFVnV0emxBREhVWnBZSHk4NXFUdm5PSjg2V205T2JrTHhpeEU1U1ZMV25nZ0xLX0lyZ0VUa09sbGgwc1RXUVFsUnJucXoxMHZYd043MUcxdHA5SWdrb1RwbUJnZk5JRGxhMktFZ3ZEZGJXdm9IaDI2YXZrMEtwcFM3NC1WQllyeDYtV2xXdw?oc=5)
-
-2026-06-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnRYWmt4TjU3Q0YwT3BKVFhXRUNYaWN4d3lrREI3Y25tczhmbmwyM2h6VFFlc3ZnVDN2c29PT25uYVdVdDJQek5GRHpsamVZVE5BODVnMDlzaDZtNGVOLThZbjMxTEEwNEVILXItOGVkMC1Fc0U5cElvaS0xOUd4UWd3UGpTeWY3Q0FwWGNuN1JMMWR0aFlmb2xGd2Q4bUFMc1FmeVRzRVBOeGMwaFNMVNIBtgFBVV95cUxOT1lsdW1QM3BUQ25IckRhM21SNXZlNzJfYjRDazQ2QkNoNzduY093SkRFVnV0emxBREhVWnBZSHk4NXFUdm5PSjg2V205T2JrTHhpeEU1U1ZMV25nZ0xLX0lyZ0VUa09sbGgwc1RXUVFsUnJucXoxMHZYd043MUcxdHA5SWdrb1RwbUJnZk5JRGxhMktFZ3ZEZGJXdm9IaDI2YXZrMEtwcFM3NC1WQllyeDYtV2xXdw?oc=5)
 
 ---
 

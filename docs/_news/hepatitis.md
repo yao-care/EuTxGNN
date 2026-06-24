@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [El Departamento de Salud convoca un año más sus ayudas a entidades sin ánimo de lucro que trabajan en prevención y control del VIH/sida, Hepatitis C o Infecciones de Transmisión Sexual (Consejo de Gobierno 23-06-2026) - Gobierno Vasco](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcmlHZzR2VVVwdzloSWVialZ6cXNTalhVclFLMjhFcEJvd1Y4VGdxbVdjekdxdVdHbjdMczMtOVlLUjM5bHA1c3FSSTF6WDZqRHZVY1JHSF95b1N3ZEs4ZWtVeS1BRTdrcjdwejhCQU9QMGFNeTBKdkpZZ1dBakJGek1ZRFkxS2hhYkhwclNQSU1Mc25ybXZyT0phZTBrTlRpUGFvUm9iZzZQbGo2M0RTWHFCcUpONXc5RXpqYXRNREZrOGlEMlJsbk5xOEZJWmNvTlhzXzd3WkgwUU5TdGlxRnZXRXgwclZGMWk2OHVkWFZjOE5JR3pzNU9FSlcyY0c5VEY1SXBMRkhsMWlrblFIZ2t6bUxKYXFvaHpvNVV4anZETkdhSDdXYWhrSEFpZVdXYTZsc1NVcHZxSkxJM0FYd2dsQ2ZEOS12WmFRUlBwZ180RDNQQkR1Nm0zNUxaYm5EM1Zr?oc=5)
+### [Convocan ayudas por 300.000 euros a entidades que trabajen en Euskadi en prevención y control de ITS - Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
 
 2026-06-23
 
-來源：[Euskadi.eus](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcmlHZzR2VVVwdzloSWVialZ6cXNTalhVclFLMjhFcEJvd1Y4VGdxbVdjekdxdVdHbjdMczMtOVlLUjM5bHA1c3FSSTF6WDZqRHZVY1JHSF95b1N3ZEs4ZWtVeS1BRTdrcjdwejhCQU9QMGFNeTBKdkpZZ1dBakJGek1ZRFkxS2hhYkhwclNQSU1Mc25ybXZyT0phZTBrTlRpUGFvUm9iZzZQbGo2M0RTWHFCcUpONXc5RXpqYXRNREZrOGlEMlJsbk5xOEZJWmNvTlhzXzd3WkgwUU5TdGlxRnZXRXgwclZGMWk2OHVkWFZjOE5JR3pzNU9FSlcyY0c5VEY1SXBMRkhsMWlrblFIZ2t6bUxKYXFvaHpvNVV4anZETkdhSDdXYWhrSEFpZVdXYTZsc1NVcHZxSkxJM0FYd2dsQ2ZEOS12WmFRUlBwZ180RDNQQkR1Nm0zNUxaYm5EM1Zr?oc=5)
-
----
-
-### [El ECDC unifica el cribado de hepatitis B y C en donaciones ante el Reglamento SoHO](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
-
-2026-06-22
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejl3aFB5U201U2FmYTI3UHpxakFyOE9JNExVS0JsNnhxTExtWXpKeHo2S0xxMHFfYVkzbXV5QXYwNmNfdVVwTlhxaUc5bEx6VmFBN20yUDJ4WTAtLTEtV1hUUDJGc2VkQlFNbU5jRE1fbFNhQ2lSYkE1UkFFUUg2WERjV2lRaXhUSGdQQkRieVJ5REkxakk2bm9zWUtPV3o4TnJpd3BiQmRjdkhmbFZFTW9RSlgtR3dqOXc?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
 
 ---
 
